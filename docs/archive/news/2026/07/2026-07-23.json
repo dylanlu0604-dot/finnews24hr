@@ -1,7 +1,139 @@
 {
   "date": "2026-07-23",
-  "count": 2760,
+  "count": 2775,
   "items": [
+    {
+      "id": "5004683",
+      "time": "2026-07-23 19:56:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【谷歌披露持有SpaceX股份940億美元】谷歌披露檔案表示，在SpaceX(SPCX.O)完成IPO後，其持股包括941億美元的SpaceX股票。谷歌是SpaceX的早期投資者，這有助於公司在最近幾個季度提升利潤，因為SpaceX股價持續上漲。谷歌表示，其中800億美元持股受短期鎖定期限制，而141億美元持股則將在明年第三季度之前長期受限。谷歌母公司 Alphabet的投資組合中還包括對Anthropic的股份。該公司週三表示，第二季度Alphabet投資價值增長近1000億美元，帶動了淨利潤的增長。"
+    },
+    {
+      "id": "5004682",
+      "time": "2026-07-23 19:55:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國與沙特的協議不包含材料濃縮。"
+    },
+    {
+      "id": "5004681",
+      "time": "2026-07-23 19:55:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【黃仁勳：特朗普很聰明，什麼都記得】英偉達執行長黃仁勳談及特朗普：他很聰明，什麼都記得，我的天。他對數字格外敏感。他希望美國實現再工業化。他一心只為創造就業崗位，一心致力於重塑美國經濟與勞動力格局。"
+    },
+    {
+      "id": "5004680",
+      "time": "2026-07-23 19:54:59",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【金價銀價下跌原因】23日，隨著中東緊張局勢出現升級跡象，國際油價盤中漲至六週多來新高，引發市場對美聯儲未來透過加息遏制通脹的預期升溫。芝商所“美聯儲觀察工具”顯示，美聯儲9月加息25個基點的預期機率升至77%。受該預期推動，美元指數當天盤中小幅走高，對基準利率變化較為敏感的兩年期美債收益率盤中一度觸及17個月來新高，這令無利息回報的黃金價格承壓下跌，國際金價23日盤中跌破每盎司4100美元關口。截至北京時間23日19時整，紐約商品交易所8月交割的黃金期價報每盎司4096.90美元，跌幅為1.32%；9月交割的白銀期價報每盎司59.015美元，跌幅為2.14%。（央視財經）"
+    },
+    {
+      "id": "5004679",
+      "time": "2026-07-23 19:54:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲意電氣：回購股份比例達到公司總股本1%】雲意電氣公告，公司於2026年7月22日回購113萬股後，透過股份回購專用證券賬戶以集中競價交易方式累計回購股份數量929.35萬股，約佔公司總股本的1.06%，最高成交價為14.68元/股，最低成交價為10.41元/股，成交總金額為1.23億元（不含交易費用）。"
+    },
+    {
+      "id": "mkt:019f8ed3-8460-7aab-8e66-a350efe092e0",
+      "time": "2026-07-23 19:54:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the U.S. does not oppose civilian, non-enrichment nuclear facilities."
+    },
+    {
+      "id": "mkt:019f8ed3-7ebb-7aab-8e66-99df4cee471e",
+      "time": "2026-07-23 19:54:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said the DOE-Saudi nuclear agreement will be approved only if Saudi Arabia joins the Abraham Accords."
+    },
+    {
+      "id": "te:markets:569280",
+      "time": "2026-07-23 19:54:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Soybeans Hits 25-month High — Soybeans increased to 1240.00 USd/Bu, the highest since May 2024. Over the past 4 weeks, Soybeans gained 11.81%, and in the last 12 months, it increased 23.44%."
+    },
+    {
+      "id": "5004678",
+      "time": "2026-07-23 19:53:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：美國不反對民用（非濃縮）核設施。"
+    },
+    {
+      "id": "5004677",
+      "time": "2026-07-23 19:53:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國能源部與沙烏地阿拉伯達成的核能協議將獲得批准，但該協議完全取決於沙烏地阿拉伯加入《亞伯拉罕協議》。"
+    },
+    {
+      "id": "mkt:019f8ed3-16b1-7aab-8e66-97563405c95c",
+      "time": "2026-07-23 19:53:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Alphabet discloses $94.1 bln SpaceX stake】Alphabet said that after SpaceX completed its IPO its holding in SpaceX totals $94.1 bln. About $80.0 bln of the position is subject to a short-term lockup and $14.1 bln is long-term restricted until before Q3 next year. Alphabet, an early SpaceX investor whose portfolio also includes a stake in Anthropic, said rising SpaceX share prices have helped profits in recent quarters and that investment valuations rose nearly $100 bln in Q2, lifting net income."
+    },
+    {
+      "id": "5004676",
+      "time": "2026-07-23 19:53:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：印度各大電信企業已遵照指令關停資料業務。"
+    },
+    {
+      "id": "mkt:019f8ed2-99c0-7aab-8e66-88e186794d42",
+      "time": "2026-07-23 19:53:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources: Indian government has ordered telecom operators to suspend mobile data services in central New Delhi."
+    },
+    {
+      "id": "5004675",
+      "time": "2026-07-23 19:52:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "據訊息人士透露，印度政府已下令電信運營商關閉新德里中部地區的資料服務。"
+    },
+    {
+      "id": "5004674",
+      "time": "2026-07-23 19:52:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲創退：公司股票將於2026年7月9日進入退市整理期交易】雲創退公告，公司股票已於2026年7月9日進入退市整理期，退市整理期為15個交易日，預計最後交易日為2026年7月29日。退市整理期屆滿的次一交易日，北京證券交易所將對公司股票予以摘牌，公司股票終止上市。公司目前沒有籌劃或實施重大資產重組的計劃。"
+    },
     {
       "id": "te:economy:569279",
       "time": "2026-07-23 19:52:31",

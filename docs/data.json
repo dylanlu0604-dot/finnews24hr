@@ -1,7 +1,139 @@
 {
-  "updated": "2026-07-23 19:53:11",
-  "count": 17835,
+  "updated": "2026-07-23 19:57:14",
+  "count": 17838,
   "items": [
+    {
+      "id": "5004683",
+      "time": "2026-07-23 19:56:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【谷歌披露持有SpaceX股份940億美元】谷歌披露檔案表示，在SpaceX(SPCX.O)完成IPO後，其持股包括941億美元的SpaceX股票。谷歌是SpaceX的早期投資者，這有助於公司在最近幾個季度提升利潤，因為SpaceX股價持續上漲。谷歌表示，其中800億美元持股受短期鎖定期限制，而141億美元持股則將在明年第三季度之前長期受限。谷歌母公司 Alphabet的投資組合中還包括對Anthropic的股份。該公司週三表示，第二季度Alphabet投資價值增長近1000億美元，帶動了淨利潤的增長。"
+    },
+    {
+      "id": "5004682",
+      "time": "2026-07-23 19:55:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國與沙特的協議不包含材料濃縮。"
+    },
+    {
+      "id": "5004681",
+      "time": "2026-07-23 19:55:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【黃仁勳：特朗普很聰明，什麼都記得】英偉達執行長黃仁勳談及特朗普：他很聰明，什麼都記得，我的天。他對數字格外敏感。他希望美國實現再工業化。他一心只為創造就業崗位，一心致力於重塑美國經濟與勞動力格局。"
+    },
+    {
+      "id": "5004680",
+      "time": "2026-07-23 19:54:59",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【金價銀價下跌原因】23日，隨著中東緊張局勢出現升級跡象，國際油價盤中漲至六週多來新高，引發市場對美聯儲未來透過加息遏制通脹的預期升溫。芝商所“美聯儲觀察工具”顯示，美聯儲9月加息25個基點的預期機率升至77%。受該預期推動，美元指數當天盤中小幅走高，對基準利率變化較為敏感的兩年期美債收益率盤中一度觸及17個月來新高，這令無利息回報的黃金價格承壓下跌，國際金價23日盤中跌破每盎司4100美元關口。截至北京時間23日19時整，紐約商品交易所8月交割的黃金期價報每盎司4096.90美元，跌幅為1.32%；9月交割的白銀期價報每盎司59.015美元，跌幅為2.14%。（央視財經）"
+    },
+    {
+      "id": "5004679",
+      "time": "2026-07-23 19:54:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲意電氣：回購股份比例達到公司總股本1%】雲意電氣公告，公司於2026年7月22日回購113萬股後，透過股份回購專用證券賬戶以集中競價交易方式累計回購股份數量929.35萬股，約佔公司總股本的1.06%，最高成交價為14.68元/股，最低成交價為10.41元/股，成交總金額為1.23億元（不含交易費用）。"
+    },
+    {
+      "id": "mkt:019f8ed3-8460-7aab-8e66-a350efe092e0",
+      "time": "2026-07-23 19:54:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the U.S. does not oppose civilian, non-enrichment nuclear facilities."
+    },
+    {
+      "id": "mkt:019f8ed3-7ebb-7aab-8e66-99df4cee471e",
+      "time": "2026-07-23 19:54:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said the DOE-Saudi nuclear agreement will be approved only if Saudi Arabia joins the Abraham Accords."
+    },
+    {
+      "id": "te:markets:569280",
+      "time": "2026-07-23 19:54:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Soybeans Hits 25-month High — Soybeans increased to 1240.00 USd/Bu, the highest since May 2024. Over the past 4 weeks, Soybeans gained 11.81%, and in the last 12 months, it increased 23.44%."
+    },
+    {
+      "id": "5004678",
+      "time": "2026-07-23 19:53:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：美國不反對民用（非濃縮）核設施。"
+    },
+    {
+      "id": "5004677",
+      "time": "2026-07-23 19:53:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國能源部與沙烏地阿拉伯達成的核能協議將獲得批准，但該協議完全取決於沙烏地阿拉伯加入《亞伯拉罕協議》。"
+    },
+    {
+      "id": "mkt:019f8ed3-16b1-7aab-8e66-97563405c95c",
+      "time": "2026-07-23 19:53:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Alphabet discloses $94.1 bln SpaceX stake】Alphabet said that after SpaceX completed its IPO its holding in SpaceX totals $94.1 bln. About $80.0 bln of the position is subject to a short-term lockup and $14.1 bln is long-term restricted until before Q3 next year. Alphabet, an early SpaceX investor whose portfolio also includes a stake in Anthropic, said rising SpaceX share prices have helped profits in recent quarters and that investment valuations rose nearly $100 bln in Q2, lifting net income."
+    },
+    {
+      "id": "5004676",
+      "time": "2026-07-23 19:53:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：印度各大電信企業已遵照指令關停資料業務。"
+    },
+    {
+      "id": "mkt:019f8ed2-99c0-7aab-8e66-88e186794d42",
+      "time": "2026-07-23 19:53:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources: Indian government has ordered telecom operators to suspend mobile data services in central New Delhi."
+    },
+    {
+      "id": "5004675",
+      "time": "2026-07-23 19:52:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "據訊息人士透露，印度政府已下令電信運營商關閉新德里中部地區的資料服務。"
+    },
+    {
+      "id": "5004674",
+      "time": "2026-07-23 19:52:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲創退：公司股票將於2026年7月9日進入退市整理期交易】雲創退公告，公司股票已於2026年7月9日進入退市整理期，退市整理期為15個交易日，預計最後交易日為2026年7月29日。退市整理期屆滿的次一交易日，北京證券交易所將對公司股票予以摘牌，公司股票終止上市。公司目前沒有籌劃或實施重大資產重組的計劃。"
+    },
     {
       "id": "te:economy:569279",
       "time": "2026-07-23 19:52:31",
@@ -163127,113 +163259,6 @@
         "公司"
       ],
       "text": "【川儀股份：2026年上半年淨利潤2.83億元，同比下降12.94%】川儀股份釋出業績快報，上半年營業收入34.18億元，同比增長4.18%；淨利潤2.83億元，同比下降12.94%。本報告期，受市場競爭加劇、產品結構變化等因素影響，公司毛利率略有下降。此外，因公司所持證券金融資產價格波動導致公允價值變動收益同比減少5213萬元，減少當期利潤。"
-    },
-    {
-      "id": "4992306",
-      "time": "2026-07-16 19:57:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【市北高新：擬2245.5萬元參與設立創業投資基金】市北高新公告稱，公司擬與靜投股權、子彬投資共同投資設立上海新靜普創業投資合夥企業（有限合夥），基金認繳出資額4500萬元，公司作為有限合夥人以自有資金認繳2245.5萬元，佔比49.90%。本次交易不構成關聯交易和重大資產重組，已獲董事會審議透過。該基金專項投資於科創企業股權專案，存續期限7年。不過，基金後續需完成備案，實施過程存在不確定性，投資者需注意風險。"
-    },
-    {
-      "id": "4992305",
-      "time": "2026-07-16 19:56:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬邦醫藥：公司推進核心管線創新藥石杉鹼甲控釋片、簽訂漸凍症等新藥合作協議的相關資訊均為不實資訊】萬邦醫藥股票交易異常波動及風險提示公告，公司近期關注到有媒體和股吧等股票社群報道稱萬邦醫藥推進核心管線創新藥石杉鹼甲控釋片、簽訂漸凍症等新藥合作協議的相關資訊均為不實資訊；公司2026年半年度業績情況未對外披露，也暫未釋出業績預告。"
-    },
-    {
-      "id": "mkt:019f6ac9-4f0a-7aab-8dc6-d296f1263f29",
-      "time": "2026-07-16 19:56:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "SKHY.O",
-        "Impact bearish",
-        "SNDK.O",
-        "MU.O"
-      ],
-      "text": "U.S. chip and memory stocks fell in premarket trading: Arm (ARM.O) down over 4%; SK Hynix ADR (SKHY.O) down over 7%; Intel (INTC.O) down over 3%; SanDisk (SNDK.O) down over 7%; Micron Technology (MU.O) down nearly 5%."
-    },
-    {
-      "id": "4992304",
-      "time": "2026-07-16 19:56:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【零跑全新B10/B01正式上市】7月16日，零跑全新B系列正式上市，全新B10定位純電緊湊型SUV，全新B01定位純電緊湊型轎車，均全系標配高通SA8295P晶片、全域800V碳化矽高壓系統+3C快充等。全新B10售價9.98萬元起，全新B01售價9.58萬元起。"
-    },
-    {
-      "id": "te:markets:567543",
-      "time": "2026-07-16 19:56:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Switzerland",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Swiss Franc Steadies Near $0.80 — The Swiss franc has been trading around the $0.80 level since mid-June as investors continue to assess the impact of escalating hostilities in the Middle East. Renewed tensions have pushed oil prices higher, prompting markets to reassess the outlook for global growth, inflation, and monetary policy. The Swiss National Bank left its policy rate unchanged at 0% in June, stating that the medium-term inflation outlook had changed little. However, the meeting minutes revealed that policymakers acknowledged geopolitical tensions had increased near-term inflation risks. The SNB also reiterated its willingness to intervene in the foreign exchange market to counter excessive franc appreciation and preserve price stability. Meanwhile, the IMF urged the central bank to remain prepared to adjust interest rates should a stagflation scenario emerge. The Swiss franc has fallen more than 4% against the US dollar since the outbreak of the conflict with Iran and is down 1.6% so far this year."
-    },
-    {
-      "id": "4992303",
-      "time": "2026-07-16 19:55:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "意法半導體米蘭上市股票停牌後復牌，下跌4.4%。"
-    },
-    {
-      "id": "4992302",
-      "time": "2026-07-16 19:55:45",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【教育部：推動高等教育從注重學科發展向服務國家使命轉變，加快實現科技自主創新和人才自主培養】7月15日，教育部召開年中推進會，圍繞貫徹落實全國教育大會精神兩週年，統籌排程、系統盤點黨中央和國務院決策部署及部黨組年度工作要點推進完成情況，對標對錶教育發展“十五五”規劃，部署推進下半年和今後一個時期重點工作。教育部黨組書記、部長懷進鵬主持會議並講話。懷進鵬強調，適應人口社會結構深刻變化的全新要求，深入實施基礎教育擴優提質行動。推動高等教育從注重學科發展向服務國家使命轉變，加快實現科技自主創新和人才自主培養。大力弘揚教育家精神，建設高素質專業化教師隊伍。擴大高水平教育對外開放，不斷提升中國教育國際影響力、競爭力和話語權。持續深化教育改革，堅持問題導向、找準短板、摸清發力點，為教育強國建設提供有力制度保障。"
-    },
-    {
-      "id": "4992301",
-      "time": "2026-07-16 19:55:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【摩爾執行緒：預計2026年半年度營收16.5億-17.5億元，同比增長135.12%-149.37%】摩爾執行緒公告，預計2026年半年度營業收入為16.5億元至17.5億元，同比增長135.12%至149.37%，上年同期營業收入為7.02億元。業績增長主要得益於人工智慧產業蓬勃發展及市場對全功能GPU的強勁需求，公司誇娥智算叢集商業化加速，產品效能獲客戶高度認可並實現穩定供貨，推動收入快速增長。"
-    },
-    {
-      "id": "4992300",
-      "time": "2026-07-16 19:54:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗威脅封鎖全球第二大能源咽喉要道】訊息人士稱，伊朗已通知葉門胡塞武裝，若美國打擊伊朗電力基礎設施，胡塞武裝需做好封鎖曼德海峽的準備。知情人士透露，胡塞武裝已在紅海咽喉地帶部署導彈與無人機，靜待行動指令。隨著美伊緊張局勢持續升級，沙特方面正高度重視該威脅。"
-    },
-    {
-      "id": "mkt:019f6ac6-fc10-7aab-8dc6-ca9ca1a64e7a",
-      "time": "2026-07-16 19:54:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's ambassador to Geneva called for condemnation of US attacks on civilian infrastructure."
-    },
-    {
-      "id": "4992299",
-      "time": "2026-07-16 19:53:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗駐日內瓦大使：針對民用基礎設施的襲擊必須遭到譴責。"
-    },
-    {
-      "id": "4992298",
-      "time": "2026-07-16 19:53:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿布扎比交易所與印度孟買證券交易所完成整合，建立雙向市場互聯互通機制，允許中東各地投資者在孟買證券交易所交易多種品類金融工具。"
     }
   ]
 }
