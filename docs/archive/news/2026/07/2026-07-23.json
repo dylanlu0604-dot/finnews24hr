@@ -1,7 +1,97 @@
 {
   "date": "2026-07-23",
-  "count": 3320,
+  "count": 3330,
   "items": [
+    {
+      "id": "te:economy:569330",
+      "time": "2026-07-23 21:45:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "South African Bond Yields Rise on Inflation Concerns — South Africa's 10-year government bond yield climbed toward 8.9%, its highest level since May 19, as investors weighed the South African Reserve Bank's surprise decision to leave interest rates unchanged against rising oil prices and mounting inflation risks. The SARB voted 4–2 to keep its benchmark repo rate at 7.0%, despite market expectations for at least a 25-basis-point hike, citing a modestly improved inflation outlook and weaker economic growth. Governor Lesetja Kganyago warned that higher oil and fertilizer prices stemming from renewed conflict in the Middle East could require further tightening if they spill over into food prices and core inflation. Annual inflation accelerated to 5.0% in June, a two-year high and above the upper end of the SARB's target range, while rising oil prices reinforced expectations that additional policy tightening may still be needed this year."
+    },
+    {
+      "id": "5004981",
+      "time": "2026-07-23 21:44:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特消防部隊稱，在與伊拉克接壤的阿卜達利邊境口岸，無人機襲擊引發的火災已被撲滅。"
+    },
+    {
+      "id": "5004980",
+      "time": "2026-07-23 21:44:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數低開高走轉漲，半導體硬體股強勢上漲，SK海力士漲超5%，西部資料、美光科技漲3%。阿斯麥、英特爾、博通紛紛轉漲。"
+    },
+    {
+      "id": "mkt:019f8f38-1852-7aab-8e6d-47148261ac03",
+      "time": "2026-07-23 21:44:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait fire department said a fire at the Abdali port, following an attack, has been brought under control and there were no casualties."
+    },
+    {
+      "id": "5004979",
+      "time": "2026-07-23 21:43:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【意法半導體美股跌近17%】意法半導體美股跌近17%，最低觸及53.5美元。意法半導體預計第三季度營收約37億美元。"
+    },
+    {
+      "id": "5004978",
+      "time": "2026-07-23 21:43:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Infosys股價下跌5%，此前公司下調了財年營收增長預期，並任命了候任執行長。"
+    },
+    {
+      "id": "mkt:019f8f37-7e47-7aab-8e6d-38613aa355d1",
+      "time": "2026-07-23 21:43:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DOE deputy secretary says PJM power system \"very chaotic\"."
+    },
+    {
+      "id": "te:markets:569329",
+      "time": "2026-07-23 21:43:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Texas Instruments Stock Price Hits 6-week Low — Texas Instruments shares decreased to 274.10 USD, the lowest since June 2026. Over the past 4 weeks, Texas Instruments lost 6.18%, and in the last 12 months, it increased 53.32%."
+    },
+    {
+      "id": "5004977",
+      "time": "2026-07-23 21:42:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國能源部副部長稱，PJM 電力系統一團糟。"
+    },
+    {
+      "id": "5004976",
+      "time": "2026-07-23 21:42:00",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "HUT 8 CORP股價上漲7.2%，此前摩根士丹利給予增持評級並啟動覆蓋。"
+    },
     {
       "id": "te:markets:569328",
       "time": "2026-07-23 21:41:09",
