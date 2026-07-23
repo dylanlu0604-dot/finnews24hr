@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-23 23:43:29",
+  "updated": "2026-07-23 23:49:32",
   "count": 18023,
   "items": [
+    {
+      "id": "5005146",
+      "time": "2026-07-23 23:46:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺：克什姆島發生爆炸。"
+    },
+    {
+      "id": "5005145",
+      "time": "2026-07-23 23:46:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "育碧一季度銷售額 2.682 億歐元，市場預期 2.729 億歐元。"
+    },
+    {
+      "id": "5005144",
+      "time": "2026-07-23 23:46:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet維持目標價，RBC Capital給予每股425.00美元。"
+    },
+    {
+      "id": "5005143",
+      "time": "2026-07-23 23:45:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新聞秘書：美國將在今天宣佈關稅。"
+    },
+    {
+      "id": "5005142",
+      "time": "2026-07-23 23:45:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "育碧一季度淨預訂收入 2.558 億歐元，市場預期 2.543 億歐元。"
+    },
+    {
+      "id": "5005141",
+      "time": "2026-07-23 23:44:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：特朗普支援自動駕駛汽車。"
+    },
     {
       "id": "5005140",
       "time": "2026-07-23 23:42:38",
@@ -165165,61 +165213,6 @@
         "SKHY.O"
       ],
       "text": "SanDisk (SNDK.O) intraday losses widened to 10%; Western Digital (WDC.O) down nearly 9%; SK Hynix ADR (SKHY.O) down 8.6%."
-    },
-    {
-      "id": "4992718",
-      "time": "2026-07-16 23:49:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "雪佛龍一名高管表示，雪佛龍將於週五與伊拉克簽署初步協議，推進其在西古爾納2號油田和納西里耶油田的權益。"
-    },
-    {
-      "id": "4992717",
-      "time": "2026-07-16 23:49:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：西班牙政府計劃週五釋出汽車行業藍皮書研究報告。"
-    },
-    {
-      "id": "mkt:019f6b9e-3729-7aab-8dcc-c1ce02efbf91",
-      "time": "2026-07-16 23:49:18",
-      "tags": [
-        "MKT News",
-        "CVX.O",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "A Chevron executive said Chevron will sign a preliminary agreement with Iraq on Friday to advance its stakes in the West Qurna-2 and Nassiriya oilfields."
-    },
-    {
-      "id": "4992716",
-      "time": "2026-07-16 23:45:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "法國民用航空管理局：受風暴風險影響，要求航空公司於週四晚間晚些時候調減巴黎奧利機場20%的航班量。"
-    },
-    {
-      "id": "4992715",
-      "time": "2026-07-16 23:44:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司MSCI北歐國家指數大致持平，報392.91點。在十個板塊中，北歐工業板塊漲幅最大。Indutrade AB漲17.1%，在一眾北歐個股裡領跑。"
-    },
-    {
-      "id": "te:markets:567613",
-      "time": "2026-07-16 23:43:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palladium Hovers Near October Levels — Palladium hovered near $1,260 an ounce, remaining slightly above its October lows, as traders assessed the metal's supply and demand outlook amid renewed escalation in Middle East tensions, which pushed oil prices higher and heightened market uncertainty. On the supply side, Sibanye-Stillwater announced plans to advance seven platinum group metals mining projects in South Africa, with the first phase ahead of schedule and production expected to begin in March next year. However, current mine output in South Africa remains constrained, as elevated energy costs continue to pressure producers' margins and are set to rise further with higher winter electricity tariffs. On the demand side, resilient sales of hybrid vehicles continue to support palladium consumption, although battery electric vehicle registration continues to rise."
     }
   ]
 }
