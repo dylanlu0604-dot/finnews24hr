@@ -1,7 +1,152 @@
 {
   "date": "2026-07-23",
-  "count": 3599,
+  "count": 3616,
   "items": [
+    {
+      "id": "5005157",
+      "time": "2026-07-23 23:52:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【育碧娛樂第一財季銷售2.682億歐元 分析師預期2.729億歐元】育碧娛樂第一財季銷售2.682億歐元，分析師預期2.729億歐元；第一財季淨預定2.558億歐元，分析師預期2.543億歐元；預計第二財季淨預定大約3.70億歐元，分析師預期4.264億歐元。"
+    },
+    {
+      "id": "mkt:019f8fad-9095-7aab-8e70-5431577704a6",
+      "time": "2026-07-23 23:52:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA said once the United States and Saudi Arabia submit the request it will refer it to the Board of Governors to seek the authorization needed for implementation."
+    },
+    {
+      "id": "5005156",
+      "time": "2026-07-23 23:51:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構：一旦兩國提交該請求，總幹事將會把它提交給理事會，以便為這項工作的實施獲得正式授權。"
+    },
+    {
+      "id": "5005155",
+      "time": "2026-07-23 23:51:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "PJM 電網執行長：將在 72 小時內推出應急電力拍賣方案。"
+    },
+    {
+      "id": "5005154",
+      "time": "2026-07-23 23:51:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：一枚美國導彈擊中了該國南部格什姆島蘇扎市海岸的一處區域。"
+    },
+    {
+      "id": "mkt:019f8fab-fc36-7aab-8e70-4e289459142b",
+      "time": "2026-07-23 23:50:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA said this should be accompanied by verification measures consistent with the NPT and the Comprehensive Safeguards Agreement applicable to Saudi Arabia."
+    },
+    {
+      "id": "te:markets:569349",
+      "time": "2026-07-23 23:50:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Sharply Lower — The FTSE MIB plunged 2.8% to close at 51,316 on Thursday, pressured by rising oil prices and weaker-than-expected chip earnings. STMicroelectronics tumbled 17.7%, leading losses after reporting results below expectations, despite forecasting accelerating revenue growth in the fourth quarter on stronger data center demand. Moncler dropped 7.9% as weaker European sales overshadowed resilient Asian demand. Ferrari (-3.4%) and Campari (-3.3%) followed. The ECB left interest rates unchanged, with markets now expecting a rate hike in September amid rising oil prices. Higher sovereign yields followed, with the BTP-Bund spread increasing to 85 bps, weighing on banks balance sheets and pressuring financial firms. UniCredit fell 4.8% despite upbeat earnings and upgraded profit outlook, as uncertainty surrounding its suspended share buyback while pursuing Commerzbank weighed on the lender, aiming to acquire the German lender by year-end. Nexi shed 6%, also weighing on the index."
+    },
+    {
+      "id": "mkt:019f8faa-de60-7aab-8e70-4137ddde1ec5",
+      "time": "2026-07-23 23:49:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA said it looks forward to receiving requests for such verifications and will cooperate with the US and Saudi Arabia to ensure implementation of these measures."
+    },
+    {
+      "id": "5005153",
+      "time": "2026-07-23 23:49:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體23日報道，伊朗南部格什姆島當天發生爆炸。（新華社）"
+    },
+    {
+      "id": "5005152",
+      "time": "2026-07-23 23:48:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "家樂福上半年銷售淨額394.3億歐元，預估398.8億歐元；上半年經常性營業利潤7.57億歐元，預估8.02億歐元。"
+    },
+    {
+      "id": "5005151",
+      "time": "2026-07-23 23:48:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴里克計劃在風暴後使用直升機撤離智利受困員工】在嚴重風暴切斷了道路通行後，巴里克礦業公司（Barrick Mining Corp.）計劃從週五開始，使用直升機撤離滯留在智利北部兩個營地的員工。公司在一份宣告中表示，巴里亞萊斯（Barriales）和波特雷里約斯（Potrerillos）營地的員工目前健康狀況良好，並且能夠獲得電力、食物、水、供暖和醫療服務。"
+    },
+    {
+      "id": "5005150",
+      "time": "2026-07-23 23:48:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "液化空氣集團：該生產裝置計劃於2028年投產，投產後將供應大量超純氮、超純氧與超純氬。"
+    },
+    {
+      "id": "mkt:019f8fa9-c1c2-7aab-8e70-3faa4b1ae158",
+      "time": "2026-07-23 23:48:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The IAEA said it has noted discussions between Saudi Arabia and the United States on a bilateral civil nuclear cooperation agreement, and that Saudi Arabia plans to ask the IAEA to implement related nuclear verification measures."
+    },
+    {
+      "id": "5005149",
+      "time": "2026-07-23 23:48:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：法國液化空氣集團在美國投入超 1.5 億美元佈局半導體晶片業務。"
+    },
+    {
+      "id": "mkt:019f8fa8-d318-7aab-8e70-3216d16c96b6",
+      "time": "2026-07-23 23:47:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "State broadcaster IRIB reports explosions heard on Iran's Kish Island."
+    },
+    {
+      "id": "5005148",
+      "time": "2026-07-23 23:47:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "GTT海事公司將為馬石油承租的液化天然氣運輸船船隊配備其全套數字解決方案，該方案旨在提升船舶運營效能。"
+    },
+    {
+      "id": "5005147",
+      "time": "2026-07-23 23:46:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟理事會：此前歐盟成員國已就該制裁方案達成一致，現已透過書面程式透過對俄第二十一批制裁方案。"
+    },
     {
       "id": "5005146",
       "time": "2026-07-23 23:46:41",
