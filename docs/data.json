@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-24 01:49:15",
-  "count": 18006,
+  "updated": "2026-07-24 01:53:12",
+  "count": 17999,
   "items": [
+    {
+      "id": "5005287",
+      "time": "2026-07-24 01:52:11",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見白俄羅斯外長雷任科夫】中共中央政治局委員、外交部長王毅23日在吉爾吉斯斯坦出席上海合作組織外長會前會見白俄羅斯外長雷任科夫。王毅表示，中白是彼此可信賴的好夥伴。近年來，在習近平主席和盧卡申科總統戰略擘畫和親自關心下，中白全天候全面戰略伙伴關係保持高水平執行，各領域合作取得可喜成果。前不久，兩國元首在北京再度會晤，為雙邊關係下步發展作出新的部署。明年是中白建交35週年。站在新的歷史起點上，中方願同白方共同努力，按照兩國元首明確的方向，規劃好各層級交往，加強發展戰略對接，深化治國理政經驗交流，推動中白關係高質量發展，引領兩國合作全方位推進，為兩國人民帶來更多福祉。(新華社)"
+    },
+    {
+      "id": "mkt:019f901a-a854-7aab-8e71-1a725b2731fd",
+      "time": "2026-07-24 01:51:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "Microsoft (MSFT.O): Azure West US region has experienced intermittent connectivity outages and increased latency since 14:44 UTC on July 23. Microsoft is actively investigating network connectivity and traffic-routing anomalies tied to the issue's start time."
+    },
+    {
+      "id": "mkt:019f9018-e48b-7aab-8e71-147bdcab2a32",
+      "time": "2026-07-24 01:49:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "Cerebras shares rose over 10% as AMD partners with the company to develop an integrated-chip AI inference platform."
+    },
     {
       "id": "mkt:019f9016-2438-7aab-8e71-0fc8a6a25af3",
       "time": "2026-07-24 01:46:37",
@@ -164836,99 +164872,6 @@
         "MKT News"
       ],
       "text": "White House says Trump will address Iran in a speech tonight, scheduled for 09:00 Beijing time."
-    },
-    {
-      "id": "mkt:019f6c0f-8037-7aab-8dcf-1e6116fd1267",
-      "time": "2026-07-17 01:53:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve official Logan said immigration restrictions are putting the Texas labor market under pressure and are a cause for concern."
-    },
-    {
-      "id": "4992838",
-      "time": "2026-07-17 01:53:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮：美國的行動促成了相對穩定的石油市場。"
-    },
-    {
-      "id": "4992837",
-      "time": "2026-07-17 01:52:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮：現有的《瓊斯法案》豁免條款非常有效。"
-    },
-    {
-      "id": "4992836",
-      "time": "2026-07-17 01:52:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮：特朗普今晚的演講中會提到伊朗問題。"
-    },
-    {
-      "id": "4992835",
-      "time": "2026-07-17 01:51:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "洛根：考慮到移民限制，對德克薩斯州勞動力市場感到擔憂。"
-    },
-    {
-      "id": "mkt:019f6c0e-4594-7aab-8dcf-1543db6aa3b8",
-      "time": "2026-07-17 01:51:42",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "White House says 20 warships and two aircraft carriers are participating in a blockade."
-    },
-    {
-      "id": "4992834",
-      "time": "2026-07-17 01:50:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮：特朗普與萬斯在伊朗衝突問題上立場完全一致。"
-    },
-    {
-      "id": "4992833",
-      "time": "2026-07-17 01:50:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮：霍爾木茲海峽的封鎖已全面生效。20艘戰艦和2艘航空母艦參與封鎖。"
-    },
-    {
-      "id": "mkt:019f6c0c-c73c-7aab-8dcf-0ff71faeb6c6",
-      "time": "2026-07-17 01:50:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "White House says the blockade of the Strait of Hormuz is fully in effect."
-    },
-    {
-      "id": "4992832",
-      "time": "2026-07-17 01:49:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "PIPER SANDLER：AEROVIRONMENT公司可能正在與美國陸軍進行合同談判。"
     }
   ]
 }

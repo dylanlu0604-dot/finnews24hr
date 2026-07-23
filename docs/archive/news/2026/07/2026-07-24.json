@@ -1,7 +1,43 @@
 {
   "date": "2026-07-24",
-  "count": 155,
+  "count": 158,
   "items": [
+    {
+      "id": "5005287",
+      "time": "2026-07-24 01:52:11",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見白俄羅斯外長雷任科夫】中共中央政治局委員、外交部長王毅23日在吉爾吉斯斯坦出席上海合作組織外長會前會見白俄羅斯外長雷任科夫。王毅表示，中白是彼此可信賴的好夥伴。近年來，在習近平主席和盧卡申科總統戰略擘畫和親自關心下，中白全天候全面戰略伙伴關係保持高水平執行，各領域合作取得可喜成果。前不久，兩國元首在北京再度會晤，為雙邊關係下步發展作出新的部署。明年是中白建交35週年。站在新的歷史起點上，中方願同白方共同努力，按照兩國元首明確的方向，規劃好各層級交往，加強發展戰略對接，深化治國理政經驗交流，推動中白關係高質量發展，引領兩國合作全方位推進，為兩國人民帶來更多福祉。(新華社)"
+    },
+    {
+      "id": "mkt:019f901a-a854-7aab-8e71-1a725b2731fd",
+      "time": "2026-07-24 01:51:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "Microsoft (MSFT.O): Azure West US region has experienced intermittent connectivity outages and increased latency since 14:44 UTC on July 23. Microsoft is actively investigating network connectivity and traffic-routing anomalies tied to the issue's start time."
+    },
+    {
+      "id": "mkt:019f9018-e48b-7aab-8e71-147bdcab2a32",
+      "time": "2026-07-24 01:49:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "Cerebras shares rose over 10% as AMD partners with the company to develop an integrated-chip AI inference platform."
+    },
     {
       "id": "mkt:019f9016-2438-7aab-8e71-0fc8a6a25af3",
       "time": "2026-07-24 01:46:37",
