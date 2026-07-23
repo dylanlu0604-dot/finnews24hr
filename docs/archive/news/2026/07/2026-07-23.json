@@ -1,7 +1,90 @@
 {
   "date": "2026-07-23",
-  "count": 945,
+  "count": 954,
   "items": [
+    {
+      "id": "5003415",
+      "time": "2026-07-23 10:02:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫藥板塊震盪走弱，九安醫療跌停】醫藥板塊震盪走弱，九安醫療跌停，生物谷、ST萬邦、普蕊斯、博瑞醫藥、濟民健康、錦好醫療等跟跌。"
+    },
+    {
+      "id": "5003414",
+      "time": "2026-07-23 10:02:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天宏鋰電等成立能源科技發展新公司】企查查APP顯示，近日，長興宏維能源科技發展有限公司成立，經營範圍包含電池銷售；電子產品銷售；電子元器件批發；助動腳踏車、代步車及零配件銷售等。企查查股權穿透顯示，該公司由天宏鋰電(920252)等共同持股。"
+    },
+    {
+      "id": "mkt:019f8cb5-a70f-7aab-8e57-58d4798be3f5",
+      "time": "2026-07-23 10:02:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "STAR 50 Index fell more than 2%; semiconductor sector largely lower. Constituent Huahong Hongli shares dropped over 8%."
+    },
+    {
+      "id": "5003413",
+      "time": "2026-07-23 10:02:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬安科技：公司AEB以及無線充電產品訂單均比上年同期有明顯增長】就投資者提出的“當前無人駕駛物流車市場增長很快，公司AEB產品以及無線充電產品今年訂單是否有明顯增長？”的問題，萬安科技(002590)7月23日在互動平臺表示，公司AEB以及無線充電產品訂單均比上年同期有明顯增長。"
+    },
+    {
+      "id": "5003412",
+      "time": "2026-07-23 10:01:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部：韓國2026年或實現3%的GDP增速，得益於第二季度的強勁表現。"
+    },
+    {
+      "id": "5003411",
+      "time": "2026-07-23 10:01:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“十五五”時期，中醫藥這樣發展 】國家中醫藥局、國家發展改革委日前聯合印發《中醫藥振興發展“十五五”規劃》，提出完善高質量中醫藥服務體系、提升中醫藥全生命週期健康服務能力、推動中西醫結合高質量發展、推進中醫藥傳承與創新等十個方面的重點任務。規劃提出，到2030年，覆蓋全民和全生命週期的中醫藥服務體系更加健全，中醫藥防治重大疾病取得新突破，基層服務提質升級，基礎研究能力大幅提升，中藥產業創新創造力大幅增強，中醫藥文化與國際影響力進一步提升，中醫藥振興發展邁上新臺階，實現人人享有中醫藥服務。（新華社）"
+    },
+    {
+      "id": "mkt:019f8cb4-d2e6-7aab-8e57-52f38387a062",
+      "time": "2026-07-23 10:01:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China releases Fifteenth Five-Year Plan for traditional Chinese medicine revitalization and development】China published the Fifteenth Five-Year Plan for traditional Chinese medicine (TCM) revitalization, setting guiding principles, development targets and indicators for the Fifteenth Five-Year period. The plan sets 2030 targets: a more complete TCM service system covering the whole population and lifecycle; new breakthroughs in TCM prevention and treatment of major diseases; quality upgrades to primary-level TCM services; markedly stronger basic research capacity; substantially improved innovation capability across the Chinese herbal medicine industry; enhanced cultural and international influence of TCM; and universal access to TCM services."
+    },
+    {
+      "id": "mkt:019f8cb4-b1ee-7aab-8e57-4fd5f45d3fc7",
+      "time": "2026-07-23 10:01:19",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "CNH"
+      ],
+      "text": "【China releases 15th Five-Year plan for traditional Chinese medicine revival】China today released a plan outlining comprehensive deployment of traditional Chinese medicine (TCM) policy, targets and indicators for the 15th Five-Year period. The plan sets targets to 2030: a more complete nationwide, life‑course TCM service system; new breakthroughs in prevention and treatment of major diseases using TCM; upgraded quality of grassroots TCM services; substantially enhanced basic research capacity; materially stronger innovation capability in the Chinese medicine industry; and greater cultural and international influence, aiming for universal access to TCM services."
+    },
+    {
+      "id": "5003410",
+      "time": "2026-07-23 10:00:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "CRO概念板塊短線走低，普蕊斯跌超6%，奧浦邁、普洛藥業、峆一藥業、聯化科技等跟跌。"
+    },
     {
       "id": "5003409",
       "time": "2026-07-23 10:00:33",

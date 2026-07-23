@@ -1,7 +1,90 @@
 {
-  "updated": "2026-07-23 10:01:06",
-  "count": 17620,
+  "updated": "2026-07-23 10:05:05",
+  "count": 17612,
   "items": [
+    {
+      "id": "5003415",
+      "time": "2026-07-23 10:02:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫藥板塊震盪走弱，九安醫療跌停】醫藥板塊震盪走弱，九安醫療跌停，生物谷、ST萬邦、普蕊斯、博瑞醫藥、濟民健康、錦好醫療等跟跌。"
+    },
+    {
+      "id": "5003414",
+      "time": "2026-07-23 10:02:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天宏鋰電等成立能源科技發展新公司】企查查APP顯示，近日，長興宏維能源科技發展有限公司成立，經營範圍包含電池銷售；電子產品銷售；電子元器件批發；助動腳踏車、代步車及零配件銷售等。企查查股權穿透顯示，該公司由天宏鋰電(920252)等共同持股。"
+    },
+    {
+      "id": "mkt:019f8cb5-a70f-7aab-8e57-58d4798be3f5",
+      "time": "2026-07-23 10:02:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "STAR 50 Index fell more than 2%; semiconductor sector largely lower. Constituent Huahong Hongli shares dropped over 8%."
+    },
+    {
+      "id": "5003413",
+      "time": "2026-07-23 10:02:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬安科技：公司AEB以及無線充電產品訂單均比上年同期有明顯增長】就投資者提出的“當前無人駕駛物流車市場增長很快，公司AEB產品以及無線充電產品今年訂單是否有明顯增長？”的問題，萬安科技(002590)7月23日在互動平臺表示，公司AEB以及無線充電產品訂單均比上年同期有明顯增長。"
+    },
+    {
+      "id": "5003412",
+      "time": "2026-07-23 10:01:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部：韓國2026年或實現3%的GDP增速，得益於第二季度的強勁表現。"
+    },
+    {
+      "id": "5003411",
+      "time": "2026-07-23 10:01:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“十五五”時期，中醫藥這樣發展 】國家中醫藥局、國家發展改革委日前聯合印發《中醫藥振興發展“十五五”規劃》，提出完善高質量中醫藥服務體系、提升中醫藥全生命週期健康服務能力、推動中西醫結合高質量發展、推進中醫藥傳承與創新等十個方面的重點任務。規劃提出，到2030年，覆蓋全民和全生命週期的中醫藥服務體系更加健全，中醫藥防治重大疾病取得新突破，基層服務提質升級，基礎研究能力大幅提升，中藥產業創新創造力大幅增強，中醫藥文化與國際影響力進一步提升，中醫藥振興發展邁上新臺階，實現人人享有中醫藥服務。（新華社）"
+    },
+    {
+      "id": "mkt:019f8cb4-d2e6-7aab-8e57-52f38387a062",
+      "time": "2026-07-23 10:01:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China releases Fifteenth Five-Year Plan for traditional Chinese medicine revitalization and development】China published the Fifteenth Five-Year Plan for traditional Chinese medicine (TCM) revitalization, setting guiding principles, development targets and indicators for the Fifteenth Five-Year period. The plan sets 2030 targets: a more complete TCM service system covering the whole population and lifecycle; new breakthroughs in TCM prevention and treatment of major diseases; quality upgrades to primary-level TCM services; markedly stronger basic research capacity; substantially improved innovation capability across the Chinese herbal medicine industry; enhanced cultural and international influence of TCM; and universal access to TCM services."
+    },
+    {
+      "id": "mkt:019f8cb4-b1ee-7aab-8e57-4fd5f45d3fc7",
+      "time": "2026-07-23 10:01:19",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "CNH"
+      ],
+      "text": "【China releases 15th Five-Year plan for traditional Chinese medicine revival】China today released a plan outlining comprehensive deployment of traditional Chinese medicine (TCM) policy, targets and indicators for the 15th Five-Year period. The plan sets targets to 2030: a more complete nationwide, life‑course TCM service system; new breakthroughs in prevention and treatment of major diseases using TCM; upgraded quality of grassroots TCM services; substantially enhanced basic research capacity; materially stronger innovation capability in the Chinese medicine industry; and greater cultural and international influence, aiming for universal access to TCM services."
+    },
+    {
+      "id": "5003410",
+      "time": "2026-07-23 10:00:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "CRO概念板塊短線走低，普蕊斯跌超6%，奧浦邁、普洛藥業、峆一藥業、聯化科技等跟跌。"
+    },
     {
       "id": "5003409",
       "time": "2026-07-23 10:00:33",
@@ -160973,172 +161056,6 @@
         "公司"
       ],
       "text": "【蘋果考慮收購晶片公司，據悉因自研AI伺服器效能面臨挑戰】據報道，蘋果已接觸部分晶片初創公司，探詢其被收購的意願，意在加強其構建用於執行人工智慧的伺服器晶片的能力。報道稱，蘋果之所以產生收購意向，是因其自研AI伺服器的效能面臨挑戰。知情人士表示，蘋果原計劃今年推出AI伺服器晶片的後續版本（內部代號為“Baltra”），但該專案已被推遲。"
-    },
-    {
-      "id": "4991176",
-      "time": "2026-07-16 10:05:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨下跌1%。"
-    },
-    {
-      "id": "4991175",
-      "time": "2026-07-16 10:03:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【斯年智駕完成3億元C輪融資】7月16日，自動駕駛重卡解決方案提供商斯年智駕（Senior Auto）宣佈完成3億元C輪融資，本輪由興證資本、頤道資本聯合投資。融資資金將重點聚焦於新一代車規級自動駕駛方案研發，並保障技術研發與日常運營的持續投入。"
-    },
-    {
-      "id": "mkt:019f68aa-45ed-7aab-8db6-30549f1e8e1d",
-      "time": "2026-07-16 10:03:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's Ministry of Education adds 27 vocational majors; enrollment from 2027】China's Ministry of Education approved 27 new vocational-education programs—nine higher-vocational (diploma) programs and 18 vocational bachelor programs—covering 14 major categories and 20 subcategories. The new programs will begin enrolling students in 2027. The additions are positioned to implement the national 15th Five-Year Plan and the Education Development 15th Five-Year Plan, support construction of a modern industrial system and higher-quality service-sector development, and precisely align talent training with new industries, new business models and new scenarios. Key targeted fields include the digital economy, low-altitude economy, artificial intelligence, high-end equipment, urban renewal and sectors facing urgent livelihood shortages."
-    },
-    {
-      "id": "te:markets:567365",
-      "time": "2026-07-16 10:03:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Climb Higher — The Hang Seng Index rose 1.3%, or 305 points, to 24,995 on Thursday, extending gains as investor sentiment improved following softer-than-expected US inflation data and optimism across global markets. The rally was supported by buying in financial, consumer, and technology stocks, while investors continued to rotate into Hong Kong-listed equities despite weaker-than-expected Chinese economic data. Market sentiment was buoyed after US producer prices unexpectedly fell in June, reinforcing expectations that inflation pressures are easing. However, investors remained cautious as crude oil extended gains after the United States launched fresh strikes on Iran, heightening concerns that escalating Middle East tensions could disrupt global energy supplies and keep inflationary pressures elevated. Notable gainers were Tencent (2.0%), Xiaomi (3.7%), Meituan (2.9%), AIA (1.1%), and Pop Mart International (4.4%)."
-    },
-    {
-      "id": "mkt:019f68aa-3bc6-7aab-8db6-2bda87b16907",
-      "time": "2026-07-16 10:03:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea expects strong economic growth next year, boosted by spillover effects from the chip sector."
-    },
-    {
-      "id": "4991174",
-      "time": "2026-07-16 10:03:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國檢察機關上半年起訴職務犯罪1.4萬人】最高人民檢察院7月16日釋出資料顯示，2026年1月至6月，全國檢察機關受理各級監委移送職務犯罪1.6萬人，起訴1.4萬人，同比分別上升17.6%和5.6%；堅持受賄行賄一起查，起訴行賄犯罪1410人。上半年，全國檢察機關起訴破壞社會主義市場經濟秩序犯罪5.8萬人；深化違規異地執法和趨利性執法司法專項監督，依法辦理案件1.1萬件，監督偵查機關撤案1060件，決定不起訴1324人，監督解除、返還違法查封、扣押、凍結財物8.5億元。據統計，上半年檢察機關起訴涉稅犯罪3485人，起訴損害商譽、強迫交易等犯罪4759人，起訴侵犯智慧財產權犯罪7500人。同時，檢察機關依法打擊金融證券領域違法犯罪，上半年起訴金融詐騙、破壞金融管理秩序犯罪1.3萬人，起訴財務造假、內幕交易、操縱市場、欺詐發行等證券犯罪240人，起訴洗錢犯罪1409人。"
-    },
-    {
-      "id": "mkt:019f68a9-87d2-7aab-8db6-21e6de344f6c",
-      "time": "2026-07-16 10:02:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "00981.HK",
-        "Impact bullish",
-        "09903.HK",
-        "03661.HK"
-      ],
-      "text": "Hong Kong semiconductor sector rallied off intraday lows. SMIC (00981.HK) rose over 2%; Tianshu Zhixin (09903.HK) gained over 3%. Other chip names including 03661.HK and 02577.HK also advanced."
-    },
-    {
-      "id": "4991173",
-      "time": "2026-07-16 10:02:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【教育部增設27個職業教育新專業 2027年開始招生】今天（16日），教育部發布新增補的27個職業教育本專科專業，其中，高職專科專業9個、職業本科專業18個，涉及14個專業大類，20個專業類。新增專業將於2027年開始招生。此次專業目錄增補緊扣國家“十五五”規劃綱要和《教育發展“十五五”規劃》部署，緊密圍繞建設現代化產業體系、促進服務業優質高效發展，精準對接新產業、新業態、新場景、新模式，錨定高技能人才培養，重點增設一批數字經濟、低空經濟、人工智慧、高階裝備、城市更新以及民生緊缺等領域專業。"
-    },
-    {
-      "id": "4991172",
-      "time": "2026-07-16 10:02:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞可達成立光子科技公司 含AI及積體電路業務】企查查APP顯示，近日，四川瑞輝光子科技有限公司成立，經營範圍包含：積體電路晶片設計及服務；積體電路晶片及產品製造；人工智慧行業應用系統整合服務；人工智慧硬體銷售；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由瑞可達全資持股。"
-    },
-    {
-      "id": "4991171",
-      "time": "2026-07-16 10:02:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：得益於晶片行業的溢位效應，明年經濟增長預計將保持強勁。"
-    },
-    {
-      "id": "4991170",
-      "time": "2026-07-16 10:02:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【華為昇騰概念震盪反彈 恆為科技直線漲停】早盤華為昇騰概念震盪反彈，恆為科技直線漲停，神州數碼、真視通、銀信科技、雲天勵飛、眾誠科技跟漲。"
-    },
-    {
-      "id": "te:markets:567364",
-      "time": "2026-07-16 10:01:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Shanghai Stocks Hit Over 3-Month Low — The Shanghai Composite dropped 1.1% to a more than three-month low of 3,912 on Thursday, while the Shenzhen Component slid 1.6% to 14,548, pressured by a broad selloff in technology shares. The sector came under renewed pressure as investors reassessed the sustainability of the AI-driven rally, with concerns mounting over whether robust earnings growth can continue to justify elevated valuations. Chinese tech and chipmakers led the declines, including Cambricon Technologies (-4.5%), SMIC (-4.6%), Zhongji Innolight (-1.2%), Eoptolink Technology (-2.3%), and NAURA Technology (-4.1%). Risk sentiment was further dampened by data showing that China's GDP grew at its slowest pace since Q4 2022 and fell below the government's 2026 growth target range of 4.5%-5%. In response, the PBOC pledged stronger policy support in the second half of the year, signaling flexibility to use tools such as RRR cuts and reverse repos while keeping the seven-day reverse repo rate as its key policy benchmark."
-    },
-    {
-      "id": "mkt:019f68a8-b0fe-7aab-8db6-1b3be365c88c",
-      "time": "2026-07-16 10:01:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share semiconductor sector rallied; Rockchip hit the daily limit and Awinic rose over 15%. Shengke Communication, Anlu Technology, Sai Microelectronics, Espressif and Allwinner also advanced."
-    },
-    {
-      "id": "4991169",
-      "time": "2026-07-16 10:01:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寧夏回族自治區吳忠市委原常委、政法委原書記陳宏接受審查調查】據寧夏回族自治區紀委監委訊息：寧夏回族自治區吳忠市委原常委、政法委原書記陳宏涉嫌嚴重違紀違法，目前正接受寧夏回族自治區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:019f68a8-a755-7aab-8db6-1436253665f2",
-      "time": "2026-07-16 10:01:51",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "Copper",
-        "CSI300"
-      ],
-      "text": "【National logistics hubs' average cargo throughput up 5.5% YoY in 2025】The China Federation of Logistics and Purchasing (CFLP) said in its National Logistics Hub Innovation Development Report (2026) that average cargo throughput at designated national logistics hubs rose 5.5% YoY in 2025, 2.3ppt faster than the national freight volume average. Infrastructure gaps narrowed: about 80% of hubs now have rail yards or dedicated lines, with rail access at 97.2% of inland-port hubs and 89.7% of port-type hubs. Rail integration strengthened—71.3% of hubs operate rail freight services and the number of hub trains increased 7.4% YoY; port-type hubs operate more than 2,700 freight shipping routes. China has designated 181 national logistics hubs across seven batches, covering roughly 79% of the planned network."
-    },
-    {
-      "id": "4991168",
-      "time": "2026-07-16 10:01:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：預計第二季度GDP增速將高於此前預測的0.2%。"
-    },
-    {
-      "id": "4991167",
-      "time": "2026-07-16 10:01:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【三大指數跌幅收窄 消費電子、減速器概念等漲幅居前】三大指數集體回升，跌幅均收窄至1%以內，滬指跌0.6%，深證成指跌0.32%，創業板指跌0.55%。消費電子、減速器等概念漲幅居前。"
     }
   ]
 }
