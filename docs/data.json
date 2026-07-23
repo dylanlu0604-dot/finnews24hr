@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-24 04:17:47",
-  "count": 18009,
+  "updated": "2026-07-24 04:21:42",
+  "count": 18007,
   "items": [
+    {
+      "id": "mkt:019f90a3-8b94-7aab-8e73-2fc618eef7fc",
+      "time": "2026-07-24 04:21:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "INTC.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Intel Q2 results, Q3 guide beat; shares up 13% after-hours】Intel expects Q3 revenue of $15.8–16.8 bln, above analyst consensus of $15.1 bln even at the low end, citing a surge in data-center spending driven by AI computing demand. Data-center sales jumped 59% YoY last quarter, more than twice the pace of overall revenue growth. Q2 revenue was $16.13 bln versus $14.43 bln expected. Shares rose 13% in after-hours trading."
+    },
+    {
+      "id": "mkt:019f90a3-8aa4-7aab-8e73-248560c91bfc",
+      "time": "2026-07-24 04:21:04",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UN special envoy for Yemen said the UN is deeply concerned about the Houthis' resumption of attacks on commercial vessels, which are disrupting maritime navigation in the Red Sea."
+    },
     {
       "id": "5005389",
       "time": "2026-07-24 04:17:03",
@@ -164966,39 +164990,6 @@
         "DXY"
       ],
       "text": "Iranian media outlet Fars News reported the US struck a bridge in the Iranian port city of Hamir."
-    },
-    {
-      "id": "4992946",
-      "time": "2026-07-17 04:21:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉官員：預計石油產量到年底將達140萬桶/日。"
-    },
-    {
-      "id": "4992945",
-      "time": "2026-07-17 04:21:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "受財報影響，奈飛美股盤後跌超8%。"
-    },
-    {
-      "id": "4992944",
-      "time": "2026-07-17 04:19:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍打擊伊朗多地 已致7人受傷】當地時間16日晚獲悉，美軍打擊伊朗多地，已造成7人受傷。伊朗南部阿巴斯港遭到美軍襲擊。據悉，此次襲擊規模較大，目前已導致阿巴斯港部分地區停電。此次襲擊命中的目標是一座通訊塔。美軍還對阿巴斯港一居民區發動襲擊，造成7人受傷，當地醫院正在開展傷員救治工作。此外，美軍戰機飛越伊朗南部格什姆島上空，當地一個村莊傳出8次爆炸聲。美軍戰機還對位於伊朗東南部錫斯坦－俾路支斯坦省的伊朗沙赫爾機場發動了導彈襲擊。據悉，當地居民聽到機場附近傳出3次劇烈爆炸聲。目前，尚不清楚襲擊造成的損失程度，但部署在當地的武裝部隊負責人已抵達現場。（央視新聞）"
-    },
-    {
-      "id": "4992943",
-      "time": "2026-07-17 04:18:18",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "巴西財政部長：巴西的經濟政策服務本國民眾，而非取悅他國官員。"
     }
   ]
 }

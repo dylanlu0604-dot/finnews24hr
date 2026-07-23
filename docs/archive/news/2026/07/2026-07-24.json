@@ -1,7 +1,31 @@
 {
   "date": "2026-07-24",
-  "count": 335,
+  "count": 337,
   "items": [
+    {
+      "id": "mkt:019f90a3-8b94-7aab-8e73-2fc618eef7fc",
+      "time": "2026-07-24 04:21:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "INTC.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Intel Q2 results, Q3 guide beat; shares up 13% after-hours】Intel expects Q3 revenue of $15.8–16.8 bln, above analyst consensus of $15.1 bln even at the low end, citing a surge in data-center spending driven by AI computing demand. Data-center sales jumped 59% YoY last quarter, more than twice the pace of overall revenue growth. Q2 revenue was $16.13 bln versus $14.43 bln expected. Shares rose 13% in after-hours trading."
+    },
+    {
+      "id": "mkt:019f90a3-8aa4-7aab-8e73-248560c91bfc",
+      "time": "2026-07-24 04:21:04",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UN special envoy for Yemen said the UN is deeply concerned about the Houthis' resumption of attacks on commercial vessels, which are disrupting maritime navigation in the Red Sea."
+    },
     {
       "id": "5005389",
       "time": "2026-07-24 04:17:03",
