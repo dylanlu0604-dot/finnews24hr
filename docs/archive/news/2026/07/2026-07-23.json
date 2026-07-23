@@ -1,7 +1,119 @@
 {
   "date": "2026-07-23",
-  "count": 1260,
+  "count": 1271,
   "items": [
+    {
+      "id": "mkt:019f8d60-4952-7aab-8e5a-4642c18703e0",
+      "time": "2026-07-23 13:08:45",
+      "tags": [
+        "MKT News",
+        "STM.O",
+        "Impact bullish"
+      ],
+      "text": "STMicroelectronics CEO expects Q4 revenue growth to accelerate."
+    },
+    {
+      "id": "mkt:019f8d60-20b0-7aab-8e5a-3cabdc127787",
+      "time": "2026-07-23 13:08:34",
+      "tags": [
+        "MKT News",
+        "STM.N",
+        "Impact bullish"
+      ],
+      "text": "STMicroelectronics CEO observed business visibility has improved and several product categories are showing signs of supply tightness."
+    },
+    {
+      "id": "5003621",
+      "time": "2026-07-23 13:08:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "意法半導體執行長：我們已看到能見度提升，多個產品類別出現供應趨緊的跡象。"
+    },
+    {
+      "id": "mkt:019f8d5f-c91d-7aab-8e5a-325eaaf6e71a",
+      "time": "2026-07-23 13:08:12",
+      "tags": [
+        "MKT News",
+        "005380.KS",
+        "Impact bearish"
+      ],
+      "text": "Hyundai Motor says it expects intensifying competition and continued macroeconomic uncertainty."
+    },
+    {
+      "id": "5003620",
+      "time": "2026-07-23 13:08:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "意法半導體第二季度淨利潤為2.22億美元，分析師預期為2.099億美元；第二季度毛利率為34.8%，公司此前給出的第二季度毛利率指引約為34.8%；意法半導體第二季度營收為34.9億美元。意法半導體預計第三季度營收約為37億美元，預計第三季度毛利率約為37%。"
+    },
+    {
+      "id": "mkt:019f8d5f-ab5b-7aab-8e5a-2de49e1f4846",
+      "time": "2026-07-23 13:08:04",
+      "tags": [
+        "MKT News",
+        "005380.KS",
+        "Impact bearish"
+      ],
+      "text": "Hyundai Motor said Q2 operating profit margin declined after a parts-supplier fire and higher raw-material costs."
+    },
+    {
+      "id": "mkt:019f8d5f-82a5-7aab-8e5a-21309e8dbd87",
+      "time": "2026-07-23 13:07:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "STM.PA",
+        "Impact bullish"
+      ],
+      "text": "STMicroelectronics CEO says Q2 demand rose further; orders strong across all end markets."
+    },
+    {
+      "id": "mkt:019f8d5f-38ff-7aab-8e5a-1a2aa3312452",
+      "time": "2026-07-23 13:07:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "TASS reported U.S. Secretary of State Rubio met Russian Foreign Minister Lavrov in Manila for about 30 minutes."
+    },
+    {
+      "id": "5003619",
+      "time": "2026-07-23 13:07:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗軍隊稱打擊科威特境內多處美軍基地】當地時間23日，伊朗軍隊在一份公告中指出，幾小時前，伊朗軍隊對科威特多哈營地的美軍彈藥和後勤倉庫、阿里夫詹美軍基地的彈藥庫以及位於阿里·薩利姆基地的燃料庫發動大規模無人機襲擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8d5e-b093-7aab-8e5a-11f2cf6fd301",
+      "time": "2026-07-23 13:07:00",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK Prime Minister's Office says pubs, clubs and live music venues will receive a 20% reduction in business rates."
+    },
+    {
+      "id": "mkt:019f8d5d-3086-7aab-8e5a-0928949507c5",
+      "time": "2026-07-23 13:05:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Tech Index rose more than 1% as high-profile tech and internet names rebounded."
+    },
     {
       "id": "mkt:019f8d5c-ae73-7aab-8e5a-05548a90dea0",
       "time": "2026-07-23 13:04:49",
