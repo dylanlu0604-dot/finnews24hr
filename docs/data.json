@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-23 16:26:18",
-  "count": 17582,
+  "updated": "2026-07-23 16:30:26",
+  "count": 17580,
   "items": [
+    {
+      "id": "5004033",
+      "time": "2026-07-23 16:28:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【聯德股份：擬開展不超5億元外匯衍生品交易業務】聯德股份公告稱，為降低匯率波動對公司及子公司經營業績的不利影響，公司及子公司擬開展以套期保值為目的的外匯衍生品交易業務。交易金額預計動用的交易保證金和權利金不超1億元，任一交易日持有的最高合約價值不超5億元，資金來源為自有資金。交易期限自董事會審議透過之日起12個月內。該事項已透過相關會議審議，無需提交股東會審議。外匯衍生品交易存在匯率波動等風險，公司將採取相應風控措施。"
+    },
+    {
+      "id": "5004032",
+      "time": "2026-07-23 16:27:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鄭商所就修訂期貨交易管理辦法及做市商管理辦法徵求意見】鄭商所釋出關於就修訂《鄭州商品交易所期貨交易管理辦法》《鄭州商品交易所做市商管理辦法》徵求意見的公告。根據《中華人民共和國期貨和衍生品法》《期貨交易管理條例》《期貨交易所管理辦法》等有關法律、法規和規章，鄭州商品交易所擬修訂《鄭州商品交易所期貨交易管理辦法》《鄭州商品交易所做市商管理辦法》，現向市場公開徵求意見。修訂說明如下：\n一是完善鄭商所應急措施的適用情形，對《交易管理辦法》第十六條進行調整。\n二是針對開展夜盤交易的品種，在有夜盤的交易日，於日盤開始前5分鐘增加集合競價，對《交易管理辦法》《做市商管理辦法》相關規定進行調整。增加日盤集合競價可以在日盤開始交易時產生更為公允的價格，促進市場平穩執行。"
+    },
+    {
+      "id": "mkt:019f8e15-9d7c-7aab-8e60-5102a643236a",
+      "time": "2026-07-23 16:26:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Haocen Software said it plans to repurchase 40–80 mln yuan of shares to support company value and shareholder interests, with the repurchase price capped at 52.28 yuan per share."
+    },
+    {
+      "id": "5004031",
+      "time": "2026-07-23 16:26:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "加密貨幣交易所BitMEX宣佈：BitMEX交易所將終止運營，自2026年9月23日起生效。在本次過渡階段，使用者資產仍完全安全，且始終處於使用者控制之下。強烈建議所有使用者在方便時儘早平倉並提取資金。"
+    },
+    {
+      "id": "5004029",
+      "time": "2026-07-23 16:25:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）本輪埃博拉疫情已致超1000人死亡】當地時間23日，剛果（金）國家公共衛生研究所通報，該國本輪埃博拉疫情已累計確診病例2536例，其中已致1033人死亡。（央視新聞）"
+    },
     {
       "id": "5004028",
       "time": "2026-07-23 16:24:46",
@@ -160837,68 +160879,6 @@
         "焦點"
       ],
       "text": "百度：將在香港聯交所和納斯達克進行雙重主要上市；兩地股份仍可相互轉換。"
-    },
-    {
-      "id": "te:markets:567500",
-      "time": "2026-07-16 16:30:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Depreciates by 1.41% — Top crypto losers are Ether (-1.41%), Binance (-1.09%) and Bitcoin (-0.97%)."
-    },
-    {
-      "id": "mkt:019f6a0c-0a52-7aab-8dc2-da0c32ce0d44",
-      "time": "2026-07-16 16:30:01",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact mixed"
-      ],
-      "text": "【Cooling AI rally trims Japan stocks; investors still cite earnings, valuation and reforms】Tech now represents roughly 56% of Nikkei index weight, up from 35% in 2022. As the AI-driven tech rally cools, Japanese equities have pulled back, echoing volatility in other tech-heavy markets. DWS global CIO Vincenzo Vedda cut semiconductor to neutral after the Philadelphia Semiconductor Index rallied about 90% in Q2, warning that slower-than-expected AI commercialisation could prompt cloud providers to pare capex. Despite the pause, most institutions remain constructive: JPX says the market has shown resilience and buyers emerge on dips, while Citigroup Tokyo strategist Ryota Sakagami notes rapid upward revisions to tech EPS have kept price moves within a “healthy growth” range rather than signalling a bubble. Valuation supports the bullish case: Nikkei 225 forward 12-month P/E near 22x versus over 60x in the 1980s bubble. Ongoing Japanese capital-market reforms are also cited as a driver of foreign inflows."
-    },
-    {
-      "id": "4991823",
-      "time": "2026-07-16 16:30:00",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【查顯友任國家民族事務委員會副主任，張玉卓任中國工程院院長】人社部官網7月16日訊息，國務院任免國家工作人員。任命查顯友為國家民族事務委員會副主任；任命張玉卓為中國工程院院長，張軍、陳杰、李仲平、陳建峰、陳薇（女）為中國工程院副院長。免去譚權的公安部部長助理職務；免去李曉紅的中國工程院院長職務；免去李震國的新疆生產建設兵團副政委職務。"
-    },
-    {
-      "id": "4991822",
-      "time": "2026-07-16 16:29:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【威龍股份：控股股東及5%以上股東部分股份解除質押及司法凍結】威龍股份公告稱，7月14日，控股股東星河息壤解除質押4048萬股，佔其所持公司股份的64.69%，佔總股本的12.19%，解除質押後累計質押為0股；解除凍結5015.58萬股、輪候凍結6097.71萬股，分別佔其所持股份的80.16%、97.45%，解除後累計凍結1241.61萬股，佔總股本3.74%。同日，持股5%以上股東斐尼克斯解除司法凍結2661.99萬股，佔其所持股份100%，佔總股本8.02%。本次事項對公司日常經營及財務無重大影響。"
-    },
-    {
-      "id": "4991821",
-      "time": "2026-07-16 16:29:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【威龍股份：全資孫公司涉訴訟，案件進入二審階段】威龍股份公告稱，公司全資孫公司武威市威龍有機葡萄種植有限公司近日收到甘肅省武威市中級人民法院送達的《民事上訴狀》，案件進入二審階段。上訴人武威市文化旅遊發展(集團)股份有限公司不服一審判決，請求撤銷原判部分內容，判令解除相關協議、返還20073畝土地、支付違約金479.3萬元等。公司2025年度已計提預計損失，目前二審未開庭，暫無法判斷影響程度，最終以法院審理結果為準。"
-    },
-    {
-      "id": "4991820",
-      "time": "2026-07-16 16:28:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度Nifty 50指數<.NSEI>回吐了日內多數漲幅，尾盤上漲0.03%。"
-    },
-    {
-      "id": "4991819",
-      "time": "2026-07-16 16:26:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【松煬資源：控股股東一致行動人部分股份解除質押250萬股】松煬資源公告稱，2026年7月15日，控股股東、實際控制人王壯鵬之一致行動人北海金興陽投資有限公司解除質押250萬股，佔其所持股份比例24.12%，佔公司總股本比例1.22%。本次解除後，金興陽累計質押750萬股，佔其持股數比例72.35%。王壯鵬及其一致行動人累計質押4636萬股，佔其持股總數的75.36%。未來半年內到期質押股份950萬股，對應融資餘額8000萬元，控股股東有償還能力，本次解質不影響公司控制權。"
     }
   ]
 }
