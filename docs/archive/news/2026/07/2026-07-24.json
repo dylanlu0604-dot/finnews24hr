@@ -1,7 +1,73 @@
 {
   "date": "2026-07-24",
-  "count": 432,
+  "count": 439,
   "items": [
+    {
+      "id": "5005450",
+      "time": "2026-07-24 06:48:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部長：巴西現行利率對家庭、農戶、企業以及政府均造成負面影響。"
+    },
+    {
+      "id": "5005449",
+      "time": "2026-07-24 06:48:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "澳大利亞國防部長：美國新關稅政策 “毫無道理”，對美方這一決定感到失望。"
+    },
+    {
+      "id": "mkt:019f912a-024d-7aab-8e74-34f5b75a943e",
+      "time": "2026-07-24 06:47:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says it intercepted U.S. Tomahawk; explosions reported near Strait of Hormuz】Iranian military said on the 23rd it intercepted a U.S. Tomahawk cruise missile over the Kahnuj area of southeast Kerman province. Two explosions were reported near Qeshm Island in Hormozgan province, and residents said multiple blasts were heard south of Larak and Hengam islands in the Strait of Hormuz."
+    },
+    {
+      "id": "5005448",
+      "time": "2026-07-24 06:46:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【A股科技板塊持續調整，機構關注資源品與紅利低位股】近期，A股科技板塊明顯調整，市場風險偏好有所回落。Wind資料顯示，截至7月23日的近3個交易日，有色金屬、電氣裝置、石油石化等板塊率先獲得資金迴流，消費、紅利和金融板塊則呈現結構性機會。機構認為，本輪調整更多是外部擾動、交易擁擠和估值壓力集中釋放的結果，市場中長期執行邏輯並未發生根本變化。在半年報密集披露的視窗期，資金正由前期高彈性、高估值的方向，逐步轉向業績確定性更強、估值更具安全邊際的板塊。（中證報）"
+    },
+    {
+      "id": "5005447",
+      "time": "2026-07-24 06:45:19",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【7月24日隔夜要聞一覽】\n1、美國公佈新關稅措施 24日生效 \n2、美國總統特朗普表示，即日起，船隻、貨物及相關資產遭受的任何損失，都將由美國持有並控制的伊朗資金支付。\n3、美國25個州及哥倫比亞特區當天向羅得島州聯邦法院提起訴訟，要求阻止特朗普政府將部分災害應急資金與各州修改選舉管理制度掛鉤。\n4、英特爾公司第二季度營收161.3億美元，同比增長25%；預估144.3億美元。\n5、德國思愛普Sap二季度非IFRS雲營收62.8億歐元，分析師預期62.6億歐元。\n6、OpenAI 基礎設施負責人：OpenAI 計劃與 AMD 合作研發 MI500 系列 AI 晶片及後續產品。\n7、據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為65.3%，累計加息25個基點的機率為34.7%。\n8、WTI 9月原油期貨收漲5.36美元，漲幅超過6.17%，報92.19美元/桶；布倫特9月原油期貨收漲6.62美元，漲幅將近7.04%，報100.69美元/桶。\n9、歐盟理事會：此前歐盟成員國已就該制裁方案達成一致，現已透過書面程式透過對俄第二十一批制裁方案。"
+    },
+    {
+      "id": "te:markets:569389",
+      "time": "2026-07-24 06:45:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Drops by 2.64% — Top crypto losers are Ether (-2.64%) and Bitcoin (-1.43%)."
+    },
+    {
+      "id": "5005446",
+      "time": "2026-07-24 06:44:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【葉門胡塞武裝外交事務負責人：已對美軍行動做好應對準備】葉門胡塞武裝外交事務負責人23日表示，美國總統特朗普近期就葉門局勢發表的相關言論，表明美方支援沙特對葉門實施封鎖。他稱，如果美方再次在葉門採取軍事行動，葉門胡塞武裝“已做好應對準備”。(央視新聞)"
+    },
     {
       "id": "mkt:019f9126-e8b8-7aab-8e74-282da0a53351",
       "time": "2026-07-24 06:44:33",
