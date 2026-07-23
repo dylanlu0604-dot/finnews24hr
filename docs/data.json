@@ -1,7 +1,100 @@
 {
-  "updated": "2026-07-23 08:07:11",
-  "count": 17691,
+  "updated": "2026-07-23 08:11:07",
+  "count": 17692,
   "items": [
+    {
+      "id": "mkt:019f8c4e-ffb0-7aab-8e54-e45d610982b2",
+      "time": "2026-07-23 08:10:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened 73.5 points higher, or 0.83%, at 8,896.5 on Thursday, July 23."
+    },
+    {
+      "id": "5003238",
+      "time": "2026-07-23 08:09:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至3%】韓國綜指漲幅擴大至3%，現報7002.8點。個股方面，SK海力士漲超4%，三星電子漲超3%。"
+    },
+    {
+      "id": "mkt:019f8c4e-6913-7aab-8e54-de6a4bbeed89",
+      "time": "2026-07-23 08:09:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI rose 3.00% intraday to 7,002.80 points."
+    },
+    {
+      "id": "5003237",
+      "time": "2026-07-23 08:09:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數上漲3%，至7002.80點。"
+    },
+    {
+      "id": "5003236",
+      "time": "2026-07-23 08:09:05",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "住友不動產股價一度下跌3.8%；高盛評級下調評級至賣出。"
+    },
+    {
+      "id": "5003235",
+      "time": "2026-07-23 08:08:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美媒：港交所或取消港股“午休”】美國彭博社近日引述知情人士的話披露，為了與全球大多數市場進一步接軌，港交所正考慮延長股票交易時段，其中一項方案包括取消午休時段。 據港媒21日報道，有知情人士表示，港交所最近數週向主要經紀商及交易公司傳達了相關計劃，其中一項方案是建議將股票開市時間提前30分鐘至上午9時，並取消現行自中午12時開始、1小時的午休時段。知情人士補充說，港交所也考慮增設現貨夜市時段，以捕捉美國市場早段的交易活動，時間可能定於晚上8時至午夜12時。不過，下午4時的收市時間將維持不變，以預留時間進行清算與結算。知情人士稱，港交所希望藉此刺激同時擁有美國預託證券（ADR）股份的投資者在港交易量。 針對上述報道，港交所回應稱，港交所致力於持續提升香港作為國際金融中心的競爭力，目前正在檢視各種提升市場準入的機會，包括調整市場交易時間，但“我們當前的首要重點是擬議的衍生品市場交易時間延長方案，該方案仍需進一步徵詢市場意見並獲得監管機構批准”。 發言人同時表示，現貨市場交易時間的任何潛在調整仍處於“非常早期的研擬階段”。（環球時報）"
+    },
+    {
+      "id": "5003234",
+      "time": "2026-07-23 08:08:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長安汽車：向特定物件發行A股股票申請獲深交所稽核透過】長安汽車(000625)7月23日早間公告，公司於7月22日收到深交所上市稽核中心出具的意見告知函，深交所發行上市稽核機構對公司向特定物件發行股票的申請檔案進行了稽核，認為公司符合發行條件、上市條件和資訊披露要求，後續深交所將按規定報中國證監會履行相關注冊程式。"
+    },
+    {
+      "id": "5003233",
+      "time": "2026-07-23 08:08:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗南部和西南部多地遭襲】伊朗伊斯蘭共和國廣播電視臺23日凌晨報道，伊朗南部和西南部多地遭導彈襲擊，傳出爆炸聲。報道說，伊霍爾木茲甘省錫裡克縣、胡齊斯坦省阿瓦士市、布什爾省布什爾縣等地傳出爆炸聲。美軍中央司令部22日在社交媒體釋出訊息說，美軍於美東時間當天17時30分開始對伊朗軍事目標發動新一輪打擊。（新華社）"
+    },
+    {
+      "id": "5003232",
+      "time": "2026-07-23 08:07:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報91.14美元/桶。"
+    },
+    {
+      "id": "mkt:019f8c4c-0cf2-7aab-8e54-d6f1362f4965",
+      "time": "2026-07-23 08:07:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【CITIC Securities: AI agents to sharply boost CPU demand, trigger CPU revaluation】CITIC Securities says AI agents will significantly lift CPU demand and prompt a revaluation of CPUs. In an upside scenario it forecasts a CPU-to-GPU ratio as high as 8:1 and a long-term addressable market of about USD 2 trillion, exceeding the current GPU market. 2026 could be the year Chinese-made CPUs accelerate commercial penetration, with domestic commercial share rising from single digits to double digits. The report advises monitoring domestic CPU and GPU leaders and key upstream/critical-node companies in the industry chain."
+    },
     {
       "id": "5003231",
       "time": "2026-07-23 08:05:58",
@@ -161689,86 +161782,6 @@
         "Important"
       ],
       "text": "Korea Exchange activated a temporary suspension mechanism for the KOSPI index."
-    },
-    {
-      "id": "4990946",
-      "time": "2026-07-16 08:11:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普15日在社交媒體發文稱，伊朗已允許一名美國公民離開該國。美國“感謝伊朗這一善意之舉”。 特朗普稱，這名美國公民於2024年12月在拜登政府時期被“錯誤扣留”。她目前已安全離開伊朗，狀況良好。（新華社）"
-    },
-    {
-      "id": "mkt:019f6842-e318-7aab-8db2-790918d79e25",
-      "time": "2026-07-16 08:10:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 opened down 2.60 points, or 0.03%, at 8,838.50 on Thursday, July 16."
-    },
-    {
-      "id": "4990945",
-      "time": "2026-07-16 08:10:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：未來幾天我們將看到俄羅斯制裁法案的進展。"
-    },
-    {
-      "id": "4990944",
-      "time": "2026-07-16 08:09:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數下跌超過2%，一度跌至67373.74點。"
-    },
-    {
-      "id": "mkt:019f6841-a02f-7aab-8db2-70a85332e2a3",
-      "time": "2026-07-16 08:09:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 was down as much as 2.00% intraday."
-    },
-    {
-      "id": "4990943",
-      "time": "2026-07-16 08:07:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：與瑞士的談判仍在進行中。"
-    },
-    {
-      "id": "4990942",
-      "time": "2026-07-16 08:07:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：美國對瑞士有貿易順差。"
-    },
-    {
-      "id": "4990941",
-      "time": "2026-07-16 08:07:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：就智慧財產權問題對越南進行單獨調查。"
-    },
-    {
-      "id": "mkt:019f683f-d2fe-7aab-8db2-6c06d4e9378f",
-      "time": "2026-07-16 08:07:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【CITIC Securities: Equity-based fiscal policy needs large rise in equity market value】CITIC Securities says as land-sale fiscal revenue wanes, Chinese local governments will seek new funding sources and equity-based fiscal policy could provide incremental financing. It splits equity fiscal into primary-market operations—local authorities using guidance funds to co-invest in the primary market to capture long-term capital appreciation—and secondary-market channels—central and local SOE dividends and market-value revaluation to deliver near-term proceeds. Referencing overseas experience, CITIC says equity fiscal can only play a larger role if overall equity market capitalization rises substantially; enlarging the equity market and sustaining a slow bull market are therefore strategic priorities, which should enhance A-shares’ long-term allocation value."
     }
   ]
 }
