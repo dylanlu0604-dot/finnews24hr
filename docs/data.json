@@ -1,7 +1,110 @@
 {
-  "updated": "2026-07-24 07:18:11",
-  "count": 17980,
+  "updated": "2026-07-24 07:22:11",
+  "count": 17983,
   "items": [
+    {
+      "id": "mkt:019f9148-e425-7aab-8e74-b3d8e9bf71ad",
+      "time": "2026-07-24 07:21:41",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iran's state broadcaster IRIB said explosions were heard west of Bandar Abbas port."
+    },
+    {
+      "id": "5005489",
+      "time": "2026-07-24 07:21:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【二季度以來融資淨買入居前的海上風電概念股一覽】近年來，我國海上風電已進入量質齊升新階段。《海上風電回顧與展望》報告顯示，2025年，我國海上風電新增併網容量佔全球的78%，穩居全球首位。據證券時報·資料寶統計，截至7月22日，二季度以來融資資金加倉多隻海上風電概念股。具體來看，融資淨買入亨通光電、中天科技、東方電纜、明陽智慧、運達股份和時代新材等9只海上風電概念股均超1000萬元。截至7月23日收盤，已有7只海上風電概念股預告半年度業績。以預告中值統計，亨通光電、中天科技、振江股份、明陽智慧上半年淨利潤規模均超1億元，依次為32.92億元、24.3億元、1.6億元、1.25億元。從淨利潤變動來看，振江股份、亨通光電、天順風能、中天科技淨利潤均實現同比增長超50%，增幅分別為928.53%、104.07%、74.37%、55%。"
+    },
+    {
+      "id": "5005488",
+      "time": "2026-07-24 07:21:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新加坡政府投資公司計劃未來三年向對沖基金投資300億美元】新加坡政府投資公司(GIC)計劃未來三年向對沖基金部署300億美元，這是其持續推進、以獲取多元化效益的策略的一部分。“對沖基金是一種不錯的策略，因為它與我們現有的其他超額收益策略相關性較低，”新加坡政府投資公司集團首席投資官Bryan Yeo說。“從投資組合角度看，它的市場貝塔較低，也能與傳統股票、固定收益、信貸及私募市場策略形成分散配置作用。”該主權財富基金週五表示，過去十年，其對沖基金投資規模已增至原來的三倍，並計劃在這一良好往績基礎上進一步拓展。"
+    },
+    {
+      "id": "te:economy:569401",
+      "time": "2026-07-24 07:20:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Australia Factory Growth Hits 6-Month High — The S&P Global Australia Manufacturing PMI rose to 51.7 in July 2026 from 51.5 in the previous month, according to flash estimates, signaling a fourth consecutive month of expansion. The latest reading also marked the strongest growth since January, supported by the first increase in new orders in five months, driven by stronger domestic demand and new client wins, while employment rose at the fastest pace since April. However, export orders continued to decline, reflecting persistent weakness in external demand. On the pricing front, input cost inflation eased to its softest level since February despite higher fuel, oil, raw material, and wage costs, while manufacturers raised selling prices at a slower pace than in June. Looking ahead, business confidence improved only slightly and remained subdued amid ongoing economic uncertainty."
+    },
+    {
+      "id": "te:markets:569400",
+      "time": "2026-07-24 07:20:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Heads for Weekly Surge — Brent crude oil traded above $100 per barrel on Friday and was on track to gain nearly 14% for the week, as escalating tensions in the Middle East heightened fears of severe global supply disruptions. US President Donald Trump threatened \"major military punishment\" against Iran and the Houthis over any further attacks on Red Sea shipping and said he was considering a \"massive attack\" on Iran. His remarks followed attacks by Iran-backed Houthi militants on two Saudi oil tankers in the Red Sea, aimed at enforcing a newly declared blockade of Saudi ports and opening a new front in the conflict. Oil has already rallied more than 30% from pre-conflict levels this month as fighting disrupted crude flows through the Strait of Hormuz. Further tightening the global supply outlook, tanker attacks in the Black Sea and Sea of Azov forced the Caspian Pipeline Consortium to suspend loadings at its Black Sea terminal, disrupting a key export route that handles about 80% of Kazakhstan's crude exports."
+    },
+    {
+      "id": "mkt:019f9147-678c-7aab-8e74-ada1ec325103",
+      "time": "2026-07-24 07:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan June core CPI YoY due in 10 minutes."
+    },
+    {
+      "id": "5005487",
+      "time": "2026-07-24 07:19:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞證券交易所：首席財務官安德魯·託賓即將退休離任。"
+    },
+    {
+      "id": "5005486",
+      "time": "2026-07-24 07:19:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SpaceX 押注星艦重大戰略：拒絕獵鷹火箭新客戶】多位知情人士透露，SpaceX 已開始婉拒衛星運營商 2028 年後使用主力獵鷹 9 號火箭專屬發射任務的訂單，此舉凸顯埃隆・馬斯克將鉅額賭注押注在尚未完成驗證的星艦飛船上。其中一名知情人士稱，這家集火箭、衛星、人工智慧業務於一體的行業巨頭，現已停止生產獵鷹火箭系列部分不可複用零部件。因相關資訊尚未公開，知情人士要求匿名受訪並表示：SpaceX 目前不再受理獵鷹 9 號拼車發射專案的遠期預約，該專案可讓多家衛星運營商共用一枚火箭送入軌道。"
+    },
+    {
+      "id": "te:markets:569399",
+      "time": "2026-07-24 07:18:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Heads for Weekly Surge — Crude oil held above $92 per barrel on Friday and was on track to gain more than 12% for the week, as escalating tensions in the Middle East heightened fears of severe global supply disruptions. US President Donald Trump threatened \"major military punishment\" against Iran and the Houthis over any further attacks on Red Sea shipping and said he was considering a \"massive attack\" on Iran. His remarks followed attacks by Iran-backed Houthi militants on two Saudi oil tankers in the Red Sea, aimed at enforcing a newly declared blockade of Saudi ports and opening a new front in the conflict. Oil has already rallied more than 30% from pre-conflict levels this month as fighting disrupted crude flows through the Strait of Hormuz. Further tightening the global supply outlook, tanker attacks in the Black Sea and Sea of Azov forced the Caspian Pipeline Consortium to suspend crude loadings at its Black Sea terminal, disrupting a key export route that handles about 80% of Kazakhstan's crude exports."
+    },
+    {
+      "id": "mkt:019f9145-fdef-7aab-8e74-a51f9f35cb3c",
+      "time": "2026-07-24 07:18:30",
+      "tags": [
+        "MKT News",
+        "000700.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【Seoul court to rule in Choi Tae-won divorce that could affect SK Group control】Seoul High Court will hand down a Friday verdict in the long-running divorce of SK Hynix chairman Choi Tae-won and his ex-wife, the daughter of former president Roh Tae-woo. The court will decide how much of Choi’s roughly $5.5bn wealth must be divided; the outcome could affect his control of SK Group. The ex-wife initially sought 42.29% of Choi’s SK shareholding—an award that would threaten his control—before shifting to a cash claim. In 2024 a lower court ordered Choi to pay 1.38 trillion won (about $1.0bn), a record Korean divorce award, but the Supreme Court overturned that ruling on appeal, saying the lower court had improperly counted alleged illicit funds linked to Roh Tae-woo as contributing to the couple’s assets."
+    },
     {
       "id": "5005485",
       "time": "2026-07-24 07:17:21",
@@ -164659,69 +164762,6 @@
         "其他"
       ],
       "text": "【紐西蘭與瑞士將於9月啟動自貿協定談判】紐西蘭貿易部長託德・麥克克萊（Todd McClay）週五表示，紐西蘭與瑞士已商定在9月開啟談判，磋商一份涵蓋貿易、經濟安全、投資及電子商務領域的雙邊協定。該訊息釋出前，麥克克萊與瑞士聯邦經濟事務國務秘書埃萊娜・佈德利格・阿爾蒂耶達在奧克蘭舉行了會晤。麥克克萊在宣告中稱：“瑞士是紐西蘭的重要合作伙伴，同時也是全球創新能力頂尖、經濟高度發達的國家之一。”“當前全球經濟不確定性持續加劇，理念相近的國家攜手深化貿易與投資合作，比以往任何時候都更為關鍵。”截至2025年12月的全年資料顯示，新瑞雙邊貿易總額達18.8億紐西蘭元（摺合11億美元）。"
-    },
-    {
-      "id": "4993046",
-      "time": "2026-07-17 07:21:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭與瑞士將於9月啟動自由貿易協定談判。"
-    },
-    {
-      "id": "4993045",
-      "time": "2026-07-17 07:21:37",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【逾30年的美債多頭Hoisington改弦易轍‌ 因通脹和債務加劇轉而看空】以看好美國國債30多年而聞名的債券管理公司Hoisington Investment Management Co.，如今已轉為看空。這家總部位於奧斯汀的資產管理公司向投資者釋出的最新季度報告指出，財政赤字和資本需求增大構成了“更廣泛的結構性背景”，這“表明通脹和長期美債收益率都將趨於上升”。至於通脹，“長期均衡區間正在朝著”3.5%-4.5%上升，Hoisington寫道，“存在通脹率超過5%的重大風險”。"
-    },
-    {
-      "id": "4993044",
-      "time": "2026-07-17 07:20:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“固收+”產品權益倉位增加明顯 重倉科技成制勝關鍵】基金二季報陸續披露，首批“固收+”基金的調倉路線率先浮出水面。截至7月15日，已公佈二季報的多隻產品展現出鮮明的進取姿態——淳厚添益增強債券、永贏匠心增利債券等今年以來回報率均超過9%，其背後共同的推手便是權益倉位的主動提升。從已披露資料看，多數“固收+”產品在二季度選擇加倉，權益倉位普遍提高1至3個百分點，部分產品甚至接近20%的倉位上限。值得注意的是，科技成長股成為這批“固收+”基金超額收益的核心來源。有“固收+”基金經理明確表示，上市公司一季報顯示成長板塊業績增速突出，符合業績驅動的配置思路，因而進一步強化了科技領域的持倉。展望後市，基金經理普遍認為，市場定價邏輯正從估值驅動轉向業績驅動，科技板塊有望在半年報驗證後繼續成為結構性行情的核心主線。（中國證券報）"
-    },
-    {
-      "id": "4993043",
-      "time": "2026-07-17 07:19:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄空襲烏多地 烏稱打擊俄油輪等目標】俄羅斯國防部16日通報稱，俄軍對147個區域內烏軍使用的燃料能源和交通基礎設施、遠端無人機儲存場地，以及烏軍和外國僱傭兵臨時部署點實施了打擊。俄防空系統擊落8枚制導航空炸彈、5枚美製“海馬斯”火箭彈和802架固定翼無人機。烏克蘭總統澤連斯基16日表示，俄軍於當天凌晨使用導彈和無人機對烏髮起大規模空襲，基輔等多地出現人員傷亡。烏克蘭武裝部隊總參謀部16日通報稱，烏軍當天凌晨在黑海和亞速海打擊了與俄方相關的6艘油輪和2艘拖船。烏軍還對頓涅茨克等地區俄方油庫等目標實施了打擊。"
-    },
-    {
-      "id": "mkt:019f6d3a-45e3-7aab-8dd3-0296a088e678",
-      "time": "2026-07-17 07:19:23",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran military says it struck US facilities in Bahrain with drones】Iran’s army said in a statement early on the 17th that it carried out Phase 11 of \"Operation Lightning\" several hours earlier, striking military facilities at the US Sheikh Isa Air Base in Bahrain with \"Arash\" suicide drones. The statement said targets included areas hosting US helicopters and deployments of P-8 reconnaissance aircraft, and described the action as retaliation for recent US strikes on Iranian urban infrastructure that caused civilian casualties."
-    },
-    {
-      "id": "4993042",
-      "time": "2026-07-17 07:19:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【巴克萊：美國科技巨頭下半年發債料令市場承壓 微軟預計將重返債市】巴克萊分析師表示，美國大型科技公司下半年債券發行將持續不斷，其中包括微軟預計將重返債券市場，這可能在2026年剩餘時間裡繼續令估值承壓。巴克萊分析師Dominique Toublan和Andrew Keches等人在報告中寫道，微軟、亞馬遜、Alphabet Inc.、Meta Platforms Inc.、甲骨文和SpaceX等所謂超大規模雲服務商，今年迄今已在全球發行等值2,180億美元債券，到2026年底這一規模可能增至約2,850億美元。該行分析師稱，與人工智慧(AI)建設相關的債務供應激增，正將高評級債券市場推向一個“拐點”。他們將高評級科技債評級從“平配”下調至“低配”。“儘管超大規模雲服務商仍在繼續大規模發債，但交易指標惡化表明，市場承接能力並非沒有上限，”他們寫道。"
-    },
-    {
-      "id": "4993041",
-      "time": "2026-07-17 07:18:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗軍方稱對美在巴林軍事設施發動無人機襲擊】當地時間17日凌晨，伊朗陸軍公共關係部門發表宣告稱，伊朗軍方在數小時前實施“閃電行動”第11階段，對美軍駐巴林的謝赫伊薩空軍基地的相關軍事設施發動無人機襲擊。宣告稱，襲擊目標包括美軍直升機以及P-8偵察機的部署區域，行動使用了“阿拉什”自殺式無人機。伊方表示，此次行動是對美國近期襲擊伊朗城市基礎設施和造成平民傷亡的回應。"
     }
   ]
 }
