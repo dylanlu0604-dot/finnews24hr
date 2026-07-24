@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-25 04:00:21",
-  "count": 18232,
+  "updated": "2026-07-25 04:04:18",
+  "count": 18230,
   "items": [
+    {
+      "id": "mkt:019f95b9-159b-7aab-8e90-31c3cf4271e8",
+      "time": "2026-07-25 04:02:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "SNDK.O",
+        "Impact bearish",
+        "MU.O",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【US close: major indexes mixed; SanDisk falls over 10%】U.S. equities closed mixed on Friday: Dow Jones +0.45%, S&P 500 +0.05%, Nasdaq -0.64%. Memory/storage names led declines — SanDisk (SNDK.O) -10.79%, SK Hynix (SKHY.O) -8.81%, Micron Technology (MU.O) -6.99%; Philadelphia Semiconductor Index down 4.25%, Intel (INTC.O) -7.89%. IBM (IBM.N) +3.64%, Apple (AAPL.O) +3.53%. Nasdaq Golden Dragon China Index -0.68%; Alibaba (BABA.N) -1.67%, Baidu (BIDU.O) -1.91%."
+    },
+    {
+      "id": "5007569",
+      "time": "2026-07-25 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.45%，標普500指數漲0.05%，納指跌0.64%。國際紙業漲11.26%，SW漲11.12%，斯倫貝謝漲11.08%，數字房地信託漲10.90%，閃迪跌10.79%，Coherent Corp跌9.79%。“七姐妹”方面：蘋果漲3.55%，谷歌漲0.25%，微軟漲0.06%，亞馬遜跌0.68%，英偉達跌0.85%，Meta Platforms跌1.79%，特斯拉跌2.08%。"
+    },
+    {
+      "id": "5007568",
+      "time": "2026-07-25 04:00:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數<.SPX>非官方收盤下跌2.13點，或0.03%，報7,406.17點。"
+    },
+    {
+      "id": "5007567",
+      "time": "2026-07-25 04:00:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克指數<.IXIC>非官方收盤下跌172.54點，跌幅0.69%，報24,965.15點。"
+    },
+    {
+      "id": "mkt:019f95b6-f6a4-7aab-8e90-2afe92b6cabf",
+      "time": "2026-07-25 04:00:23",
+      "tags": [
+        "MKT News",
+        "PSKY.O",
+        "Impact bearish",
+        "WBD.O"
+      ],
+      "text": "【Paramount, Warner Bros. Discovery agree to pause $111 bln merger】Paramount (PSKY.O) said on Friday it has agreed to pause its $111 bln merger with Warner Bros. Discovery (WBD.O) — the suspension may extend until no later than June next year — while courts consider lawsuits filed by multiple state attorneys general seeking to block the deal. In court filings the parties said the agreement freezes the transaction and extends a shorter pause previously ordered by a California federal judge. The merger would combine major studios, streaming services HBO Max and Paramount+, and networks including CBS and CNN. Paramount CEO David Ellison led the acquisition and prevailed over Netflix after multiple rounds of higher bids."
+    },
+    {
+      "id": "5007566",
+      "time": "2026-07-25 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.68%】盛豐物流跌10.24%，中進醫療跌9.65%，阿特斯跌9.05%，嘉楠科技跌7.10%，世紀互聯跌7.14%。"
+    },
     {
       "id": "mkt:019f95b5-1b23-7aab-8e90-24ffee8b2a3e",
       "time": "2026-07-25 03:58:21",
@@ -166983,95 +167046,6 @@
         "國際"
       ],
       "text": "【美軍稱對伊朗發動新一輪打擊】當地時間7月17日，美國中央司令部表示，美軍於美東時間當天下午3時對伊朗啟動新一輪打擊，這是美軍連續第七晚發動空襲。美國中央司令部稱，此輪行動奉特朗普總統指示實施，旨在繼續削弱伊朗的軍事能力。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f71ad-9424-7aab-8deb-792c4ecb076e",
-      "time": "2026-07-18 04:03:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "The Philadelphia Semiconductor Index is 20.2% below its record closing high on June 22."
-    },
-    {
-      "id": "mkt:019f71ad-851f-7aab-8deb-7652d2b5e8a3",
-      "time": "2026-07-18 04:03:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "U.S. equity indices on Friday, July 17: Dow Jones Industrial Average closed down 406.55 points (-0.77%) at 52,146.42; S&P 500 closed down 76.11 points (-1.01%) at 7,457.66; Nasdaq Composite closed down 361.70 points (-1.40%) at 25,520.24."
-    },
-    {
-      "id": "4995060",
-      "time": "2026-07-18 04:02:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "Lucid集團漲32%，創將近一年來最大單日漲幅。"
-    },
-    {
-      "id": "mkt:019f71ab-6eff-7aab-8deb-64b36cf62452",
-      "time": "2026-07-18 04:01:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "Apple",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "NVDA.O"
-      ],
-      "text": "【US close: major indices lower; chips mixed】US stocks closed lower on Friday: Dow Jones -0.77%, S&P 500 -1.07%, Nasdaq -1.40%. Chip names were mixed — Western Digital (WDC.O) +2.23%, SK Hynix ADR (SKHY.O) +1.13%, NVIDIA (NVDA.O) -2.21%. Meta Platforms (META.O) -2.79%, SpaceX (SPCX.O) -5.43%. Apple (AAPL.O) +0.14%; its market value briefly exceeded NVIDIA intraday. Nasdaq Golden Dragon China Index -1.82%; Alibaba (BABA.N) -2.00%."
-    },
-    {
-      "id": "4995059",
-      "time": "2026-07-18 04:00:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX股價暴跌，市值較峰值蒸發超過1萬億美元。"
-    },
-    {
-      "id": "4995058",
-      "time": "2026-07-18 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.77%，標普500指數跌1.01%，納指跌1.44%。直覺外科跌14.23%，鏗騰電子跌9.49%，新思科技跌7.81%，奈飛跌7.18%。“七姐妹”方面：蘋果漲0.17%，亞馬遜跌1.08%，微軟跌1.77%，谷歌跌2.15%，英偉達跌2.17%，特斯拉跌2.60%，Meta Platforms跌2.77%。"
-    },
-    {
-      "id": "4995057",
-      "time": "2026-07-18 04:00:38",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "本週，儲存晶片指數跌16.7%——成分股閃迪跌27.3%、西部資料跌17.6%、美光跌11.8%。標普累跌1.5%，道指累跌0.8%，納指累跌2.7%。費城半導體指數跌9.5%。標普500指數初步收跌約1%，電信板塊跌2.4%，可選消費板塊跌1.5%，科技板塊跌0.8%，能源板塊漲1.1%。納斯達克100指數初步收跌1.5%，成分股中，ISRG初步收跌13.8%，鏗騰電子跌9%，新思科技跌8%，奈飛跌6.9%，應用材料、Astera Labs跌超5%，西部資料漲2.2%，Diamondback Energy漲2.9%，Nebius集團漲3%，Lumentum漲4.1%，希捷科技漲6.2%。可口可樂初步收跌4.1%，與IBM、家得寶、高盛、SHW、麥當勞、谷歌A領跌道指成分股，蘋果漲0.1%，思科漲2.1%，Travelers Companies Inc.漲9.5%。"
-    },
-    {
-      "id": "4995056",
-      "time": "2026-07-18 04:00:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "INTUITIVE SURGICAL股價收盤下跌14%，創2022年4月以來最大單日跌幅。"
     }
   ]
 }

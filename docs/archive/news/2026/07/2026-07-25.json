@@ -1,7 +1,70 @@
 {
   "date": "2026-07-25",
-  "count": 316,
+  "count": 322,
   "items": [
+    {
+      "id": "mkt:019f95b9-159b-7aab-8e90-31c3cf4271e8",
+      "time": "2026-07-25 04:02:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "SNDK.O",
+        "Impact bearish",
+        "MU.O",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【US close: major indexes mixed; SanDisk falls over 10%】U.S. equities closed mixed on Friday: Dow Jones +0.45%, S&P 500 +0.05%, Nasdaq -0.64%. Memory/storage names led declines — SanDisk (SNDK.O) -10.79%, SK Hynix (SKHY.O) -8.81%, Micron Technology (MU.O) -6.99%; Philadelphia Semiconductor Index down 4.25%, Intel (INTC.O) -7.89%. IBM (IBM.N) +3.64%, Apple (AAPL.O) +3.53%. Nasdaq Golden Dragon China Index -0.68%; Alibaba (BABA.N) -1.67%, Baidu (BIDU.O) -1.91%."
+    },
+    {
+      "id": "5007569",
+      "time": "2026-07-25 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.45%，標普500指數漲0.05%，納指跌0.64%。國際紙業漲11.26%，SW漲11.12%，斯倫貝謝漲11.08%，數字房地信託漲10.90%，閃迪跌10.79%，Coherent Corp跌9.79%。“七姐妹”方面：蘋果漲3.55%，谷歌漲0.25%，微軟漲0.06%，亞馬遜跌0.68%，英偉達跌0.85%，Meta Platforms跌1.79%，特斯拉跌2.08%。"
+    },
+    {
+      "id": "5007568",
+      "time": "2026-07-25 04:00:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數<.SPX>非官方收盤下跌2.13點，或0.03%，報7,406.17點。"
+    },
+    {
+      "id": "5007567",
+      "time": "2026-07-25 04:00:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克指數<.IXIC>非官方收盤下跌172.54點，跌幅0.69%，報24,965.15點。"
+    },
+    {
+      "id": "mkt:019f95b6-f6a4-7aab-8e90-2afe92b6cabf",
+      "time": "2026-07-25 04:00:23",
+      "tags": [
+        "MKT News",
+        "PSKY.O",
+        "Impact bearish",
+        "WBD.O"
+      ],
+      "text": "【Paramount, Warner Bros. Discovery agree to pause $111 bln merger】Paramount (PSKY.O) said on Friday it has agreed to pause its $111 bln merger with Warner Bros. Discovery (WBD.O) — the suspension may extend until no later than June next year — while courts consider lawsuits filed by multiple state attorneys general seeking to block the deal. In court filings the parties said the agreement freezes the transaction and extends a shorter pause previously ordered by a California federal judge. The merger would combine major studios, streaming services HBO Max and Paramount+, and networks including CBS and CNN. Paramount CEO David Ellison led the acquisition and prevailed over Netflix after multiple rounds of higher bids."
+    },
+    {
+      "id": "5007566",
+      "time": "2026-07-25 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.68%】盛豐物流跌10.24%，中進醫療跌9.65%，阿特斯跌9.05%，嘉楠科技跌7.10%，世紀互聯跌7.14%。"
+    },
     {
       "id": "mkt:019f95b5-1b23-7aab-8e90-24ffee8b2a3e",
       "time": "2026-07-25 03:58:21",
