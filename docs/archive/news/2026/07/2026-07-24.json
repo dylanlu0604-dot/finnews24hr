@@ -1,7 +1,56 @@
 {
   "date": "2026-07-24",
-  "count": 2953,
+  "count": 2957,
   "items": [
+    {
+      "id": "mkt:019f9456-38e3-7aab-8e89-67c790db53c9",
+      "time": "2026-07-24 21:35:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "S&P Global US preliminary manufacturing and services PMIs for July due in 10 minutes."
+    },
+    {
+      "id": "te:markets:569795",
+      "time": "2026-07-24 21:34:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Equities Muted on Friday — US equity indices were muted on Friday, holding losses from last session as markets assessed earnings and risks of higher interest rates. The S&P 500 was flat, while the Nasdaq 100 inched down and the Dow inched up. Oil and product prices eased but remained sharply higher on the week as escalating strikes between Iran and the US halted tanker flows through the Persian Gulf and Red Sea. Treasury yields tracked the moves in energy prices as a portion of the market positioned for a Fed hike next week. Intel fell nearly 1% despite posting its highest revenue growth in 17 years, tracking volatility in the chip sector following manufacturers' soaring valuations since the second quarter. Also, Amex sank 5% after posting their results. On the other hand, Verizon gained around 2% each on a subscriber growth beat. The Nasdaq 100 was due to close the week 0.5% lower amid concerns of AI overspending for hyperscalers. Tesla dropped 16%, Alphabet lost 9%, and Meta slipped 7% since last Friday."
+    },
+    {
+      "id": "mkt:019f9454-fe16-7aab-8e89-588eca93bc3a",
+      "time": "2026-07-24 21:33:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MXL.O",
+        "Impact bearish"
+      ],
+      "text": "MaxLinear (MXL.O) fell more than 9% after reporting disappointing Q2 results and weak guidance."
+    },
+    {
+      "id": "mkt:019f9454-0e20-7aab-8e89-52f9d119e779",
+      "time": "2026-07-24 21:32:44",
+      "tags": [
+        "MKT News",
+        "LVWR.N",
+        "Impact bullish"
+      ],
+      "text": "Livewire Group (LVWR.N) shares rose 60% after Q2 sales came in well above year-ago levels."
+    },
     {
       "id": "mkt:019f9453-571b-7aab-8e89-4f06de8a8cbe",
       "time": "2026-07-24 21:31:57",
