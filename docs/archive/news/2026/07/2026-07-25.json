@@ -1,7 +1,18 @@
 {
   "date": "2026-07-25",
-  "count": 118,
+  "count": 119,
   "items": [
+    {
+      "id": "mkt:019f953f-51d2-7aab-8e8d-d6fea305de89",
+      "time": "2026-07-25 01:49:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UN Secretary-General says the UN is very concerned about Houthi militants resuming attacks on commercial vessels in the Red Sea."
+    },
     {
       "id": "5007447",
       "time": "2026-07-25 01:48:09",
