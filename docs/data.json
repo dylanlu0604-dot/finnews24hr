@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-24 23:18:01",
-  "count": 18098,
+  "updated": "2026-07-24 23:22:03",
+  "count": 18102,
   "items": [
+    {
+      "id": "5007358",
+      "time": "2026-07-24 23:19:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "美債收益率跌幅擴大，日內下行 3 至 5 個基點。"
+    },
+    {
+      "id": "mkt:019f94b5-d986-7aab-8e8b-73ba1470b723",
+      "time": "2026-07-24 23:19:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US Treasury yields continued to fall, sliding roughly 3-5 bps intraday."
+    },
+    {
+      "id": "5007357",
+      "time": "2026-07-24 23:19:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4080美元/盎司，日內漲0.78%。"
+    },
+    {
+      "id": "mkt:019f94b5-9a2c-7aab-8e8b-6b006685701d",
+      "time": "2026-07-24 23:19:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold climbed above $4,080/oz, up 0.77% intraday."
+    },
+    {
+      "id": "5007356",
+      "time": "2026-07-24 23:19:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【據悉巴基斯坦正探索重啟美伊談判的途徑】據三位巴基斯坦訊息人士稱，巴基斯坦正探索重啟美伊談判的途徑，以結束持續近五個月的戰爭。訊息人士稱，伊朗內政部長埃斯坎達爾·莫門尼本週訪問伊斯蘭堡期間舉行了探索性會談——這是他過去10天內的第二次訪問。據巴基斯坦政府宣告稱，被視為與伊朗革命衛隊關係密切的莫門尼本週會見了巴基斯坦政府領導人和軍方負責人阿西姆·穆尼爾。這三個訊息人士均警告稱，與美國進行談判的障礙仍然很高。"
+    },
+    {
+      "id": "mkt:019f94b5-23df-7aab-8e8b-66fe59bd08e3",
+      "time": "2026-07-24 23:18:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Intraday losses for both U.S. crude (WTI) and Brent widened to about $1.50. Brent crude plunged 4% to $91.11/bbl. WTI slipped below $89/bbl, down 4.26% on the day."
+    },
+    {
+      "id": "5007355",
+      "time": "2026-07-24 23:17:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體援引衛生部訊息釋出傷亡相關報道稱美國空襲造成666人受傷。"
+    },
+    {
+      "id": "mkt:019f94b4-0bd1-7aab-8e8b-59c4b2f35119",
+      "time": "2026-07-24 23:17:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Pakistan exploring restart of US‑Iran talks】Pakistan is exploring ways to restart US‑Iran talks to end a nearly five‑month‑long war, three Pakistani sources said. Iran interior minister Eskandar Momeni held exploratory talks in Islamabad this week—his second visit in 10 days—and met Pakistani leaders and army chief Asim Munir. The sources warned obstacles to negotiating with the United States remain high."
+    },
+    {
+      "id": "5007354",
+      "time": "2026-07-24 23:17:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：儘管烏克蘭戰火仍在持續（我與澤連斯基總統也維持著相應溝通），普京總統向我表示，俄羅斯不會向伊朗出售武器。他清楚，我不會直接向烏克蘭輸送武器，美國只向北約各國售賣軍備。北約國家全額支付貨款，至於這些武器最終流向何處，我並不知情。"
+    },
     {
       "id": "mkt:019f94b2-ec63-7aab-8e8b-5660098129bc",
       "time": "2026-07-24 23:16:21",
@@ -165788,51 +165878,6 @@
         "國際"
       ],
       "text": "巴西財長：令人遺憾的是，有人將關稅當作選舉籌碼。美國關稅明顯是政治工具。將在合適時機、以恰當方式評估對等反制舉措。"
-    },
-    {
-      "id": "mkt:019f70ab-6fce-7aab-8de8-5911730252a1",
-      "time": "2026-07-17 23:21:51",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Brazil's finance minister said Brazil will work to counter U.S. tariffs, calling the measures clearly a political tool."
-    },
-    {
-      "id": "4994924",
-      "time": "2026-07-17 23:21:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "信實工業：烏克蘭襲擊俄羅斯煉油廠引發市場恐慌。"
-    },
-    {
-      "id": "4994923",
-      "time": "2026-07-17 23:21:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長：若要合理運用對等反制措施，必先審慎評估對等原則的實施尺度。"
-    },
-    {
-      "id": "4994922",
-      "time": "2026-07-17 23:20:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "信實工業：將審慎評估霍爾木茲海峽以西產油國供應的原油。"
-    },
-    {
-      "id": "4994921",
-      "time": "2026-07-17 23:20:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：07月17日22時48分在墨西哥恰帕斯州沿岸近海（北緯14.80度，西經92.95度）發生7.2級地震，震源深度10千米。"
     }
   ]
 }
