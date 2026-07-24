@@ -1,7 +1,121 @@
 {
-  "updated": "2026-07-24 10:07:08",
-  "count": 18001,
+  "updated": "2026-07-24 10:12:16",
+  "count": 18005,
   "items": [
+    {
+      "id": "te:economy:569487",
+      "time": "2026-07-24 10:10:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "South Korea Ramps Up Inflation Fight Amid Middle East Uncertainty — South Korea will step up efforts to rein in inflation as renewed Middle East tensions threaten to lift oil prices and disrupt supply chains. Finance Minister Koo Yun-cheol said authorities remain alert to external risks and aim to bring consumer inflation, which has held above 3% in recent months, back to the 2% range by July. Prices rose 3.2% yoy in June, the fastest pace since December 2023. Koo added that detailed measures to curb unfair market practices and bolster price-stabilization policies will be unveiled next month. Planned revisions to the Price Stabilization Act, expected in August, would toughen penalties for hoarding and allow earlier disposal of seized goods. The government also pledged to ensure expanded tariff-rate quota programs feed through to lower consumer prices in the second half, reinforcing efforts to ease inflationary pressures."
+    },
+    {
+      "id": "mkt:019f91e2-bfe8-7aab-8e77-f6b6642855f7",
+      "time": "2026-07-24 10:09:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shenzhen 1H GDP CNY1.9843 trillion, +5.8% YoY】Shenzhen GDP rose 5.8% YoY to CNY1.9843 trillion in 1H 2026. Sector breakdown: primary sector value added CNY1.228 billion, +4.0% YoY; secondary CNY714.465 billion, +6.4%; tertiary CNY1,268.655 billion, +5.5%."
+    },
+    {
+      "id": "5005749",
+      "time": "2026-07-24 10:09:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黑龍江省大慶市國有資本投資集團總經理孟欣接受審查調查】“清廉龍江”訊息，黑龍江省大慶市國有資本投資集團有限公司黨委副書記、總經理孟欣涉嫌嚴重違紀違法，目前正接受大慶市紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5005748",
+      "time": "2026-07-24 10:09:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球首個百千瓦級竹基海上光伏平臺完工】今天，全球首個百千瓦級竹基海上光伏平臺“集林二號”在山東煙臺完工。平臺主體結構採用竹纏繞管和“海竹管”作為核心支撐構件，竹纏繞管與“海竹管”在綜合力學效能方面超越傳統木基複合材料，具備高強度、耐腐蝕、可再生等優勢。平臺將安裝于山東煙臺海上光伏實證檢測基地，為海上能源島氫氨醇示範工程提供綠電。（央視新聞）"
+    },
+    {
+      "id": "5005747",
+      "time": "2026-07-24 10:08:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳：上半年地區生產總值19843.48億元 同比增長5.8%】據深圳市統計局官微訊息，根據廣東省地區生產總值統一核算結果，2026年上半年全市地區生產總值19843.48億元，按不變價格計算，同比增長5.8%。其中，第一產業增加值12.28億元，增長4.0%；第二產業增加值7144.65億元，增長6.4%；第三產業增加值12686.55億元，增長5.5%。"
+    },
+    {
+      "id": "5005746",
+      "time": "2026-07-24 10:08:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美政府被曝考慮在馬裡採取軍事行動】美國《華盛頓郵報》以多名前任和現任美政府官員為訊息源報道，特朗普政府考慮打擊“支援伊斯蘭教和穆斯林”組織。該極端組織2017年由“基地”組織多個分支合併而成。今年4月，該組織與馬裡分離主義武裝“阿扎瓦德解放陣線”協同在馬裡多地發動襲擊，時任國防部長薩迪奧·卡馬拉在襲擊中身亡。本月18日，這兩個組織聯合襲擊馬裡政府軍一支車隊，造成逾50人喪生。美方訊息人士稱，美國國家安全委員會反恐部門高官塞巴斯蒂安·戈爾卡主張出動美軍打擊“支援伊斯蘭教和穆斯林”組織，但美國政府決策層內部存在反對聲音。（新華社）"
+    },
+    {
+      "id": "5005745",
+      "time": "2026-07-24 10:08:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【擔心被“追責” 日本對美核電投資陷僵局】據英國《金融時報》23日披露，日本政府先前承諾在美投資核電專案以換取美方少徵關稅，但該投資目前陷入僵局，原因是日方擔心一旦在美核電站發生安全事故，日方要承擔責任。（新華社）"
+    },
+    {
+      "id": "mkt:019f91e1-8280-7aab-8e77-eaf99f420c4e",
+      "time": "2026-07-24 10:08:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan's minister of economy, trade and industry said he has confirmed with US Commerce Secretary Lutnick that no tariffs will be imposed beyond the existing agreement, and that he expects Japan's burden will not exceed the scope of last year's agreement."
+    },
+    {
+      "id": "5005744",
+      "time": "2026-07-24 10:08:16",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【公安部：依法打擊經濟金融領域違法犯罪 上半年挽回經濟損失121.5億元】國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，公安部相關負責人介紹強治理護民安促發展，全力服務保障“十五五”開局起步有關情況，並回答記者提問。記者從釋出會上瞭解到，今年上半年，全國公安機關依法打擊經濟金融領域違法犯罪，破獲有關案件4.8萬起，挽回經濟損失121.5億元。今年上半年，傳統盜搶騙案件立案30.7萬起，同比下降38.9%。命案發案降至歷史最低位。偵辦涉黑涉惡案件1744起，常態化掃黑除惡群眾滿意度連續3年提升。電詐犯罪案件立案數同比下降15.6%，見面勸阻群眾292.6萬人，2025年10月以來電詐案件發案數連續9個月同比下降。全國道路交通安全形勢總體平穩，較大事故同比下降8.8%。"
+    },
+    {
+      "id": "5005743",
+      "time": "2026-07-24 10:07:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外長警告美方：對烏供武“不可接受”】俄羅斯外交部長拉夫羅夫23日對美國國務卿魯比奧表示，持續向烏克蘭提供武器“不可接受”。拉夫羅夫與魯比奧當天在菲律賓參加東盟外長會議及系列會議間隙舉行會談。俄外交部發言人扎哈羅娃說，會談由美方提議。據俄外交部發表的宣告，拉夫羅夫在會談中說，持續向烏克蘭提供武器“不可接受”。他還表示，歐洲國家依然尋求讓俄羅斯遭受“戰略性失敗”，俄方願意以政治和外交方式解決烏克蘭危機。（新華社）"
+    },
+    {
+      "id": "5005742",
+      "time": "2026-07-24 10:07:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "赤澤亮正：已與美國商務部長盧特尼克確認，不會加徵去年協議之外的關稅。"
+    },
+    {
+      "id": "5005741",
+      "time": "2026-07-24 10:06:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿達尼集團：暫不評估進軍航空業的提議。"
+    },
+    {
+      "id": "5005740",
+      "time": "2026-07-24 10:06:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "赤澤亮正：我認為日本的（關稅）負擔不會超過去年的協議。"
+    },
     {
       "id": "5005739",
       "time": "2026-07-24 10:06:16",
@@ -164950,81 +165064,6 @@
         "Importance 1"
       ],
       "text": "Australian Dollar Set for 3rd Weekly Gain — The Australian dollar fell below $0.70, but stayed near a three-week high and on track for a third consecutive weekly gain as the US dollar remained broadly weaker, while the escalating Middle East conflict weighed on risk sentiment. Softer-than-expected US consumer and producer inflation data prompted markets to scale back the likelihood of a near-term Federal Reserve rate hike, reducing support for the greenback. However, gains in the Aussie were capped by rising geopolitical risks after Brent crude surged about 17% over the past two weeks on fears that prolonged disruptions to shipping through the Strait of Hormuz could reignite global inflation and complicate the policy outlook for major central banks. In Australia, expectations for further policy tightening remained subdued, with markets pricing only a 20% chance of a rate hike in August and around 60% odds by December. Upcoming key employment and inflation data due later this month will offer further clues on the policy outlook."
-    },
-    {
-      "id": "4993303",
-      "time": "2026-07-17 10:10:50",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "外匯局：多方面積極因素將繼續促進我國外匯市場平穩執行。我國新質生產力加快發展，經濟韌性強、發展空間大，將進一步提振市場信心；外貿穩規模、優結構成效明顯，將支援外匯市場交易保持活躍；對外開放有序推進，有助於跨境資金均衡流動；外匯市場自身韌性不斷增強，為應對外部衝擊提供有力保障。（金融一線）"
-    },
-    {
-      "id": "4993302",
-      "time": "2026-07-17 10:10:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【國內成品油新一輪調價視窗將於7月17日24時開啟 本輪油價預計上調】國內成品油新一輪調價視窗將於7月17日24時開啟。綜合機構觀點，本輪油價預計上調。卓創資訊成品油分析師王蘆青表示，本計價週期，隨著美國和伊朗在霍爾木茲海峽展開控制權爭奪，國際油價在擔憂情緒下寬幅走高。整體來看，本週期原油均值環比上漲。受此影響，國內參考的原油變化率由負轉正，成品油零售限價呈現上調預期。據卓創資訊測算，截至7月15日收盤，國內第9個工作日參考原油變化率5.58%，預計汽柴油上調245元/噸，按照此幅度計算，預計92#汽油和0#柴油的漲幅在0.2元/升左右。（中新經緯）"
-    },
-    {
-      "id": "4993301",
-      "time": "2026-07-17 10:10:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬深300指數期貨下跌2.0%至4,545.40點。"
-    },
-    {
-      "id": "4993300",
-      "time": "2026-07-17 10:09:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山東良莊礦業有限公司原黨委委員、董事長、經理劉燦華被查】7月17日，山東省紀委監委網站通報，山東良莊礦業有限公司原黨委委員、董事長、經理劉燦華涉嫌嚴重違紀違法，目前正接受山東能源集團有限公司紀委紀律審查和臨邑縣監察委員會監察調查。"
-    },
-    {
-      "id": "4993299",
-      "time": "2026-07-17 10:09:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【影視院線板塊持續走低，幸福藍海跌超9%】影視院線板塊持續走低，幸福藍海跌超9%，博納影業、光線傳媒、橫店影視、中國電影等跟跌。"
-    },
-    {
-      "id": "4993298",
-      "time": "2026-07-17 10:08:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【短劇遊戲板塊短線走低，天娛數科跌停】短劇遊戲板塊短線走低，天娛數科跌停，幸福藍海、祥源文旅、崑崙萬維、博納影業、光線傳媒等跟跌。"
-    },
-    {
-      "id": "4993297",
-      "time": "2026-07-17 10:08:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【小鵬人形機器人計劃於2027年進入商業場景】7月16日，小鵬在德國舉辦全球釋出會，釋出全球車型MONA L03，並公佈全球業務最新進展，其中明確了在智慧化技術持續演進的同時，正推動物理AI能力向更多場景拓展。小鵬飛行汽車已累計獲得超過7000臺訂單，並加速推進量產；小鵬人形機器人計劃於2027年進入商業場景。"
-    },
-    {
-      "id": "4993296",
-      "time": "2026-07-17 10:08:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內跌2%，現報4517.00元。"
-    },
-    {
-      "id": "4993295",
-      "time": "2026-07-17 10:07:38",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "外匯局：上半年我國外匯市場執行平穩，交易活躍、更加穩健。銀行代客涉外收入和支出合計9.2萬億美元，同比增長21%；銀行結匯和售匯規模2.9萬億美元，同比增長24%，規模均創歷史同期新高。跨境資金淨流入2472億美元，銀行結售匯順差2712億美元。外匯市場預期穩定。（金融一線）"
     }
   ]
 }
