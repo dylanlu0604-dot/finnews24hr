@@ -1,7 +1,125 @@
 {
   "date": "2026-07-24",
-  "count": 3113,
+  "count": 3128,
   "items": [
+    {
+      "id": "te:markets:569812",
+      "time": "2026-07-24 22:29:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Rises to 1-Week High — The Baltic dry index increased 0.7% to 2,743 on Friday, its highest level since July 17. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, rose 2.1% to 4,285, its highest level since July 16. On the other hand, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, fell 2% to 2,024, its lowest level in nearly three months. Also, the supramax index decreased 0.5% to 1,694, its lowest since July 9. For the week, the Baltic index fell 0.3%."
+    },
+    {
+      "id": "te:markets:569811",
+      "time": "2026-07-24 22:29:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Amazon Stock Price Hits 4-week Low — Amazon shares decreased to 232.01 USD, the lowest since June 2026. Over the past 4 weeks, Amazon gained 2.33%, and in the last 12 months, it increased 0.38%."
+    },
+    {
+      "id": "5007291",
+      "time": "2026-07-24 22:28:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科威特稱正在應對無人機襲擊】當地時間24日下午，科威特武裝部隊釋出訊息稱，科方防空系統正在應對無人機襲擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f9486-b20e-7aab-8e8a-9f5a669c85cf",
+      "time": "2026-07-24 22:28:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Shanghai crude futures (SC) front-month contract weakened intraday, extending losses to 3.02% at 574.9 yuan/barrel; turnover about 23.92 bln yuan. Open interest eased by nearly 600 lots intraday."
+    },
+    {
+      "id": "mkt:019f9486-4e55-7aab-8e8a-91c52ff8a2a4",
+      "time": "2026-07-24 22:27:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico’s president sheinbaum said the US focus in the USMCA revision is rules of origin."
+    },
+    {
+      "id": "5007290",
+      "time": "2026-07-24 22:27:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "辛鮑姆：美國修訂《美墨加協定》的核心關注點為原產地規則。"
+    },
+    {
+      "id": "mkt:019f9486-26a1-7aab-8e8a-8db1803119ab",
+      "time": "2026-07-24 22:27:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "SLB.N",
+        "Impact bullish"
+      ],
+      "text": "Schlumberger (SLB.N) said it is winning more contracts and additional work in Venezuela than over the past two years."
+    },
+    {
+      "id": "5007289",
+      "time": "2026-07-24 22:26:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯倫貝謝（SLB）在電話會議上表示，除過去兩年在委內瑞拉已承接的專案外，目前正在爭取新合同與額外業務。"
+    },
+    {
+      "id": "mkt:019f9485-73a9-7aab-8e8a-83bb42bac6d3",
+      "time": "2026-07-24 22:26:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico President sheinbaum said U.S. new tariffs will not have further impact."
+    },
+    {
+      "id": "5007288",
+      "time": "2026-07-24 22:26:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "辛鮑姆：美國新增關稅不會造成進一步衝擊。"
+    },
+    {
+      "id": "5007287",
+      "time": "2026-07-24 22:25:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局：本次環孢子蟲疫情新增的染病病例來自以下州：伊利諾伊州、印第安納州、堪薩斯州、肯塔基州、密歇根州、俄亥俄州、俄克拉荷馬州、賓夕法尼亞州和西弗吉尼亞州。"
+    },
+    {
+      "id": "5007286",
+      "time": "2026-07-24 22:25:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶彭水新搜尋出3名遇難者】經對災害現場巨石開展多輪爆破後，降低了現場救援危險和次生災害的風險，現進一步拓寬多個搜救作業面，專業救援隊伍和大型裝置24小時不間斷搜尋排查。截至7月24日22時，新搜尋出3名遇難者。搜救工作仍在緊張有序開展。（央視新聞）"
+    },
+    {
+      "id": "5007285",
+      "time": "2026-07-24 22:25:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）：截至7月24日，美國九個州共報告1947人感染環孢子蟲，且這些感染者均稱曾接觸過塔可貝爾（Taco Bell）相關產品。"
+    },
     {
       "id": "mkt:019f9484-05e4-7aab-8e8a-7b0f99e32d5c",
       "time": "2026-07-24 22:25:07",
@@ -18,6 +136,14 @@
         "國際"
       ],
       "text": "【美國財政部宣佈對伊朗實施新一輪制裁】當地時間7月24日，美國財政部宣佈對伊朗實施新的制裁，涉及四名個人和九家企業，其中包括一家位於土耳其的企業和兩家位於阿聯酋的企業。（央視新聞）"
+    },
+    {
+      "id": "5007283",
+      "time": "2026-07-24 22:24:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【知情人士：特朗普選定萬斯為2028年屬意繼任者】特朗普為 2028 年大選挑選接班人的非正式考察，眼下暫時落下帷幕。過去數月，特朗普將副總統萬斯與國務卿路比奧視作兩大競選競爭者，多次向幕僚、金主打探二人口碑，時而放出兩人都可能成為繼任者的風聲，始終不表露真實傾向。但五名聽過總統近期私下表態的人士稱，近幾周特朗普態度徹底轉變。一名不願具名、參與私下談話的白宮高階官員表示：“總統現在張口就是‘萬斯是我們要推的人，我們必須全力扶持他’。”另有訊息人士稱，特朗普還總誇讚副總統近期外形狀態變好。這名知情人士補充道：“這類誇讚他說了無數次。”知情人士表示，特朗普態度轉變的關鍵轉折點，是萬斯為新書《共融：尋回信仰之路》開展的系列媒體宣傳。這本回憶錄講述他 2019 年皈依天主教的心路歷程。"
     },
     {
       "id": "mkt:019f9483-9e91-7aab-8e8a-70258d1e1e49",
@@ -50,6 +176,15 @@
         "MKT News"
       ],
       "text": "【Houthi rebels: Bab al-Mandeb not closed; maritime measures target Saudi-linked shipping】Houthi spokesman Mohammed Abdulsalam said on social media on the 24th that the Bab al-Mandeb Strait has not been closed and recent maritime measures apply only to shipping linked to Saudi Arabia. He said the measures are a response to what the group called a Saudi 'blockade' of Houthi-controlled areas and are intended to pressure Riyadh to accept a 'fair settlement'."
+    },
+    {
+      "id": "em:jjsj_mgsj:202607243820801075",
+      "time": "2026-07-24 22:24:17",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國6月新建住宅摺合年率銷量三個月來首次增長】美國商務部普查局7月24日公佈資料顯示，美國6月新建住宅銷量三個月來首次增長。6月新建獨棟住宅銷量環比增長1.6%，摺合年率為62.8萬套。美國6月新屋售價中位數同比下降2.7%，至39.83萬美元。"
     },
     {
       "id": "mkt:019f9482-d4c1-7aab-8e8a-67b404102788",
