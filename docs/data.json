@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-25 05:55:28",
-  "count": 18228,
+  "updated": "2026-07-25 05:59:20",
+  "count": 18227,
   "items": [
+    {
+      "id": "5007620",
+      "time": "2026-07-25 05:55:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約市釋出閒置豪宅稅應稅房產首份預估資料，超 3.1 萬處房產或需繳納紐約閒置豪宅稅。"
+    },
     {
       "id": "5007619",
       "time": "2026-07-25 05:53:26",
@@ -167018,22 +167026,6 @@
         "XAUUSD"
       ],
       "text": "Iranian state TV, citing the Islamic Revolutionary Guard Corps, said two oil tankers exploded and caught fire after transiting a route south of the Strait of Hormuz that the IRGC said was seeded with sea mines."
-    },
-    {
-      "id": "4995114",
-      "time": "2026-07-18 05:58:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱擊落一架美軍MQ-9無人機】據伊朗方面當地時間18日凌晨訊息，伊朗伊斯蘭革命衛隊海軍的防空系統擊落一架美軍MQ-9無人機。（央視新聞）"
-    },
-    {
-      "id": "4995113",
-      "time": "2026-07-18 05:57:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息：兩艘油輪在駛過霍爾木茲海峽南部一處布有水雷的航道後發生爆炸並起火。"
     }
   ]
 }
