@@ -1,7 +1,77 @@
 {
   "date": "2026-07-25",
-  "count": 383,
+  "count": 390,
   "items": [
+    {
+      "id": "5007614",
+      "time": "2026-07-25 05:38:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【紐約股市三大股指24日漲跌不一 】截至當天收盤，道瓊斯工業平均指數比前一交易日上漲235.60點，收於51947.25點，漲幅為0.46%；標準普爾500種股票指數上漲3.68點，收於7411.98點，漲幅為0.05%；納斯達克綜合指數下跌161.87點，收於24975.82點，跌幅為0.64%。板塊方面，標普500指數十一大板塊十漲一跌。房地產板塊和材料板塊分別以2.36%和1.44%的漲幅領漲，科技板塊下跌0.88%。（新華社）"
+    },
+    {
+      "id": "mkt:019f960d-0929-7aab-8e90-ba6d150db129",
+      "time": "2026-07-25 05:34:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil prices slide sharply on the 24th】NYMEX WTI September fell $2.88 to $89.31/bbl (-3.12%); ICE Brent September fell $3.91 to $96.78/bbl (-3.88%) at the close on the 24th."
+    },
+    {
+      "id": "mkt:019f960c-fc7d-7aab-8e90-b1fd94d43f53",
+      "time": "2026-07-25 05:34:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dollar index up 0.02% to 101.468 at New York close】Dollar index (DXY) rose 0.02% to 101.468 at the New York close. EUR/USD 1.1370 (prior 1.1377). GBP/USD 1.3326 (prior 1.3318). USD/JPY 163.84 (prior 163.80). USD/CHF 0.8182 (prior 0.8169). USD/CAD 1.4096 (prior 1.4076). USD/SEK 9.7158 (prior 9.7663), with the Swedish krona firming against the dollar."
+    },
+    {
+      "id": "5007613",
+      "time": "2026-07-25 05:33:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "週五（7月24日）紐約尾盤，美國10年期基準國債收益率跌1.61個基點，報4.6771%，本週累計上漲12.96個基點，整體持續走高，交投於4.5415%-4.7117%區間。兩年期美債收益率跌1.71個基點，報4.3306%，本週累漲15.60個基點，整體交投於4.1640%-4.3683%區間。"
+    },
+    {
+      "id": "5007612",
+      "time": "2026-07-25 05:33:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數24日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.02%，在匯市尾市收於101.468。截至紐約匯市尾市，1歐元兌換1.1370美元，低於前一交易日的1.1377美元；1英鎊兌換1.3326美元，高於前一交易日的1.3318美元。1美元兌換163.84日元，高於前一交易日的163.80日元；1美元兌換0.8182瑞士法郎，高於前一交易日的0.8169瑞士法郎；1美元兌換1.4096加元，高於前一交易日的1.4076加元；1美元兌換9.7158瑞典克朗，低於前一交易日的9.7663瑞典克朗。（新華社）"
+    },
+    {
+      "id": "mkt:019f960c-0c88-7aab-8e90-a86fecbaa18e",
+      "time": "2026-07-25 05:33:19",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Saudi-led coalition in Yemen says it will continue to take necessary measures to protect its vessels and Saudi Arabia's interests."
+    },
+    {
+      "id": "mkt:019f960b-acef-7aab-8e90-a48928b9db19",
+      "time": "2026-07-25 05:32:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The Saudi-led coalition said it carried out a 'reciprocal' military response in Yemen's Hodeidah, striking military targets linked to the Houthi movement. The coalition warned it would respond 'uncompromisingly' if the Houthis continue 'hostile' actions."
+    },
     {
       "id": "5007611",
       "time": "2026-07-25 05:30:23",
