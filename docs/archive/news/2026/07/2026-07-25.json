@@ -1,7 +1,27 @@
 {
   "date": "2026-07-25",
-  "count": 327,
+  "count": 329,
   "items": [
+    {
+      "id": "te:markets:569843",
+      "time": "2026-07-25 04:10:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Mixed Amid Middle East Tensions — US equity indices closed mixed on Friday as investors assessed corporate earnings and the outlook for interest rates. The S&P 500 inched higher, the Nasdaq 100 lost 1.1%, and the Dow added 236 points. Oil prices eased but remained sharply higher on the week as escalating strikes between the US and Iran disrupted tanker traffic through the Persian Gulf and the Red Sea. Treasury yields followed energy prices higher as investors increased bets that persistent energy-driven inflation could prompt the Federal Reserve to raise interest rates next week. Intel fell 7.9% despite posting its strongest revenue growth in 17 years, reflecting continued volatility in semiconductor stocks following their sharp rally since the second quarter. Concerns over AI-related capital spending also weighed on hyperscalers, with Tesla down 2.1%, and Meta slipping 1.8%. Elsewhere, Amex fell 4.3% after reporting earnings, while Verizon gained 5.8% after posting stronger-than-expected subscriber growth."
+    },
+    {
+      "id": "5007573",
+      "time": "2026-07-25 04:07:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門荷臺達傳出多次劇烈爆炸聲】總檯記者當地時間24日獲悉，據葉門荷臺達市居民反映，當地傳出多次劇烈爆炸聲。（央視新聞）"
+    },
     {
       "id": "mkt:019f95bd-3ce2-7aab-8e90-47e9e496cbdb",
       "time": "2026-07-25 04:07:14",
