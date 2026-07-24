@@ -1,7 +1,18 @@
 {
   "date": "2026-07-25",
-  "count": 148,
+  "count": 149,
   "items": [
+    {
+      "id": "te:markets:569840",
+      "time": "2026-07-25 02:25:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wheat Drops by 2.56% — Top commodity losers are Wheat (-2.56%) and Rapeseed (-2.30%). Gains are led by Coffee (1.55%), Soybeans (0.70%) and Cocoa (0.57%)."
+    },
     {
       "id": "mkt:019f955d-5fac-7aab-8e8e-313fb5954c32",
       "time": "2026-07-25 02:22:32",

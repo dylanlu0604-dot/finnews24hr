@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-25 02:24:42",
-  "count": 18166,
+  "updated": "2026-07-25 02:28:36",
+  "count": 18164,
   "items": [
+    {
+      "id": "te:markets:569840",
+      "time": "2026-07-25 02:25:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wheat Drops by 2.56% — Top commodity losers are Wheat (-2.56%) and Rapeseed (-2.30%). Gains are led by Coffee (1.55%), Soybeans (0.70%) and Cocoa (0.57%)."
+    },
     {
       "id": "mkt:019f955d-5fac-7aab-8e8e-313fb5954c32",
       "time": "2026-07-25 02:22:32",
@@ -166485,33 +166496,6 @@
         "PARA.O"
       ],
       "text": "A judge said he will issue a ruling by July 22 on the Paramount-Warner Bros. Discovery (WBD.O) transaction."
-    },
-    {
-      "id": "4994993",
-      "time": "2026-07-18 02:26:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國總統特朗普正前往紐約參加國際足聯招待會，登上新“空軍一號”總統專機。"
-    },
-    {
-      "id": "mkt:019f7153-5e6c-7aab-8dea-33ca9aac51bc",
-      "time": "2026-07-18 02:25:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CNN reports President Trump is flying to New York to attend a FIFA reception aboard the new Air Force One presidential aircraft."
-    },
-    {
-      "id": "te:markets:567976",
-      "time": "2026-07-18 02:25:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Gains by 4.63% — Top commodity gainers are Cocoa (4.63%) and Coffee (2.72%). Biggest losers are Oat (-1.42%), Rubber (-1.23%) and Cotton (-0.76%)."
     }
   ]
 }
