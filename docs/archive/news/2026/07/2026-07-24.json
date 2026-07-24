@@ -1,7 +1,69 @@
 {
   "date": "2026-07-24",
-  "count": 1181,
+  "count": 1188,
   "items": [
+    {
+      "id": "mkt:019f926c-62fb-7aab-8e7a-7921d37860df",
+      "time": "2026-07-24 12:40:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's finance ministry expects overall inf in 2026 of 2.0%, down from a 3.0% forecast in April."
+    },
+    {
+      "id": "mkt:019f926b-a476-7aab-8e7a-75f22654cde6",
+      "time": "2026-07-24 12:39:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's Ministry of Finance forecasts exports to grow 12.5% in 2026, up from a 6.2% projection in April."
+    },
+    {
+      "id": "te:economy:569571",
+      "time": "2026-07-24 12:38:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Total Vehicle Sales",
+        "Importance 1"
+      ],
+      "text": "Thailand Car Sales Climb 17.26% in June — Thailand’s domestic car sales climbed 17.3% year-on-year to a five-month high of 61,244 units in June 2026, accelerating from 10.6% in the previous month, according to the Federation of Thai Industries (FTI). It marked the fourth consecutive month of growth. Meanwhile, car production fell 7.6% from a year earlier to 120,391 units, easing from an 11.4% drop in May. The government is reviewing a 24 billion baht ($714 million) scheme to replace up to 80,000 ageing transport vehicles with EVs and is considering expanding incentives to cover all EV purchases, aiming to support the energy transition and revive the auto sector. Looking ahead, the FTI expects vehicle output to rise 3% to 1.5 million units in 2026 after slipping 0.9% to 1.455 million units last year. Thailand's exports surged 20.8% year-on-year in June, with shipments to the US, its largest export market, jumping 44.3%, while exports to China rose 4.9%."
+    },
+    {
+      "id": "5005942",
+      "time": "2026-07-24 12:38:41",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "泰國財政部預測：泰國2026年整體通脹率為2.0%，4月時的預測值為3.0%。"
+    },
+    {
+      "id": "5005941",
+      "time": "2026-07-24 12:37:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國財政部預計，泰國2026年出口將增長12.5%，4月該機構的預期增幅為6.2%"
+    },
+    {
+      "id": "mkt:019f9269-b1e4-7aab-8e7a-6fe2ad38ed20",
+      "time": "2026-07-24 12:37:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand Finance Ministry projects 2026 GDP growth at 2.5% (April forecast 1.6%)."
+    },
+    {
+      "id": "5005940",
+      "time": "2026-07-24 12:36:55",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "泰國財政部預測，泰國2026年國內生產總值增長率為2.5%，4月時的預測值為1.6%。"
+    },
     {
       "id": "mkt:019f9268-0093-7aab-8e7a-61669aa4e7c4",
       "time": "2026-07-24 12:35:17",
