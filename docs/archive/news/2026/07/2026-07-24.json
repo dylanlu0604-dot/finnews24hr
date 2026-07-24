@@ -1,7 +1,188 @@
 {
   "date": "2026-07-24",
-  "count": 1576,
+  "count": 1595,
   "items": [
+    {
+      "id": "mkt:019f92fc-9e64-7aab-8e7e-977fd4edab05",
+      "time": "2026-07-24 15:17:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Netanyahu said he will meet shortly with Katz and Zamir to discuss response measures to a deadly attack in the Havat Gilad area."
+    },
+    {
+      "id": "5006194",
+      "time": "2026-07-24 15:17:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：我將很快與卡茨及扎米爾舉行會議，討論針對哈瓦特吉拉德地區致命襲擊事件的應對措施。"
+    },
+    {
+      "id": "mkt:019f92fc-06a5-7aab-8e7e-8e0db3103124",
+      "time": "2026-07-24 15:16:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures midday close】China government bond futures at midday: 2-year (TS) main contract +0.01%, 5-year (TF) +0.02%, 10-year (T) +0.07%, 30-year (TL) +0.13%."
+    },
+    {
+      "id": "mkt:019f92fb-c385-7aab-8e7e-864b5c905487",
+      "time": "2026-07-24 15:16:40",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France July preliminary composite PMI 49.6, versus 47.8 consensus and 47.2 prior; remains below 50."
+    },
+    {
+      "id": "mkt:019f92fb-aff7-7aab-8e7e-7e3eaf90e594",
+      "time": "2026-07-24 15:16:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "France July services PMI (flash) 49.8 vs consensus 47.5, previous 46.8. Reading remains below 50, indicating continued contraction despite a stronger-than-expected improvement."
+    },
+    {
+      "id": "5006193",
+      "time": "2026-07-24 15:16:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【西門子與HD現代簽署AI造船合作協議，推進“數字船廠”建設】7月24日，西門子與韓國HD現代簽署一項價值數億美元的合作協議，推動西門子Xcelerator數字化解決方案在HD現代造船業務中的應用。根據雙方宣告，該協議金額達到“數億美元級別”。雙方還將擴大合作，共同打造“數字船廠”藍圖，加速人工智慧和數字技術在船舶設計、製造及運營流程中的應用。"
+    },
+    {
+      "id": "te:markets:569657",
+      "time": "2026-07-24 15:16:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 1.71% Lower — The Shangai Composite Index fell 66 points or 1.71 percent on Friday to close at 3810 points. Leading the losses are Datang Intl (-10.01%), Zijin Mining (-5.57%) and Yonghui Superstore (-4.79%)."
+    },
+    {
+      "id": "mkt:019f92fb-28aa-7aab-8e7e-71386d9daee7",
+      "time": "2026-07-24 15:16:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France Jul manufacturing PMI preliminary 50, versus 51 expected and 51.2 prior."
+    },
+    {
+      "id": "mkt:019f92fb-2876-7aab-8e7e-69758db92af9",
+      "time": "2026-07-24 15:16:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's commerce minister said France will spare no effort to defend its interests."
+    },
+    {
+      "id": "te:economy:569655",
+      "time": "2026-07-24 15:15:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Czech Republic Consumer Mood Weakens in July — The consumer confidence indicator in the Czech Republic fell to 105.6 in July 2026 from 106.5 in the previous month. Expectations regarding the overall economic situation over the next 12 months deteriorated compared with the previous month. The share of respondents reporting a deterioration in their financial situation over the past 12 months declined. Meanwhile, the proportion of households expecting their financial situation to improve over the next 12 months also fell month-on-month. The share of respondents not planning to make major purchases over the next 12 months remained unchanged."
+    },
+    {
+      "id": "5006192",
+      "time": "2026-07-24 15:15:13",
+      "tags": [
+        "資料"
+      ],
+      "text": "法國7月製造業PMI初值 50，預期51，前值51.2。\n法國7月服務業PMI初值 49.8，預期47.5，前值46.8。\n法國7月綜合PMI初值 49.6，預期47.8，前值47.2。"
+    },
+    {
+      "id": "5006191",
+      "time": "2026-07-24 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.13%， 10年期主力合約漲0.07%， 5年期主力合約漲0.02%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "mkt:019f92fa-3a53-7aab-8e7e-62c2f59dfbd1",
+      "time": "2026-07-24 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Services PMI Flash (Jul) | actual 49.8 | consensus 47.5 | previous 46.8"
+    },
+    {
+      "id": "mkt:019f92fa-3a52-7aab-8e7e-5bbe4943df4e",
+      "time": "2026-07-24 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Manufacturing PMI Flash (Jul) | actual 50 | consensus 51 | previous 51.2"
+    },
+    {
+      "id": "mkt:019f92fa-39ea-7aab-8e7e-541be17865b4",
+      "time": "2026-07-24 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Composite PMI Flash (Jul) | actual 49.6 | consensus 47.8 | previous 47.2"
+    },
+    {
+      "id": "5006190",
+      "time": "2026-07-24 15:14:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國商務部長在就特朗普關稅政策發表評論時表示：我們仍將全面動員，捍衛我方利益。"
+    },
+    {
+      "id": "5006189",
+      "time": "2026-07-24 15:14:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新疆上半年GDP同比增長3.7%】7月24日，新疆維吾爾自治區人民政府新聞辦公室舉行2026年上半年自治區國民經濟執行情況新聞釋出會。釋出會上，自治區統計局黨組成員、副局長韋紅介紹，根據地區生產總值統一核算結果，2026年上半年，新疆地區生產總值10313.54億元，按不變價格計算，同比增長3.7%。其中：第一產業增加值641.85億元，增長2.8%；第二產業增加值4049.37億元，增長4.4%；第三產業增加值5622.32億元，增長3.2%。（新疆日報）"
+    },
+    {
+      "id": "5006188",
+      "time": "2026-07-24 15:14:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾汽車首席財務官安特利茨表示：營運利潤率目前仍未達到可持續水平。"
+    },
+    {
+      "id": "5006187",
+      "time": "2026-07-24 15:14:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果供應商大立光〈3008.TW〉以13.8億新臺幣收購中國臺灣中部一處成熟地產專案。"
+    },
     {
       "id": "5006186",
       "time": "2026-07-24 15:12:55",
