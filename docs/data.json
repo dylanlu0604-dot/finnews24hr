@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-25 01:33:35",
-  "count": 18163,
+  "updated": "2026-07-25 01:37:31",
+  "count": 18161,
   "items": [
+    {
+      "id": "mkt:019f9532-1c4b-7aab-8e8d-9fa093b8fbc0",
+      "time": "2026-07-25 01:35:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Bahrain, Kuwait reportedly carried out air strikes inside Iran】Sources told the Wall Street Journal that Bahrain and Kuwait secretly dispatched warplanes to carry out air strikes inside Iran, the first time either country has taken such direct retaliatory action. The strikes earlier this month reportedly targeted drone and missile storage facilities. The UAE provided targeting intelligence and defensive air cover, indicating closer Arab military cooperation against Iran."
+    },
+    {
+      "id": "5007444",
+      "time": "2026-07-25 01:35:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "截至 7 月 21 日當週，洲際交易所柴油投機多頭淨持倉增加 12665 手，升至 84540 手。\n洲際交易所布倫特原油投機資金淨多頭持倉增加 22192 手，至 192031 手。"
+    },
+    {
+      "id": "5007443",
+      "time": "2026-07-25 01:34:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：參議院必須在8月夏季休假開始之前批准預算解決方案。"
+    },
     {
       "id": "te:economy:569836",
       "time": "2026-07-25 01:32:47",
@@ -166413,60 +166441,6 @@
         "國際"
       ],
       "text": "據伊朗塔斯尼姆通訊社：伊朗原油一攬子均價突破每桶 80 美元。"
-    },
-    {
-      "id": "mkt:019f7127-8a1e-7aab-8de9-b564feae5142",
-      "time": "2026-07-18 01:37:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israel's Channel 12 reports the U.S. military is redeploying forces to the Middle East; five aerial refueling tankers have flown to Israel and dozens more aircraft are expected to follow."
-    },
-    {
-      "id": "mkt:019f7126-cb0d-7aab-8de9-ae2734953c67",
-      "time": "2026-07-18 01:36:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TASNIM NEWS reports a Thai-flagged vessel was attacked after transiting the Strait of Hormuz without permission from Iran’s Islamic Revolutionary Guard Corps (IRGC)."
-    },
-    {
-      "id": "4994978",
-      "time": "2026-07-18 01:35:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗塔斯尼姆通訊社：一艘懸掛泰國國旗的船隻無視警告，未經伊朗革命衛隊許可試圖穿越霍爾木茲海峽，隨即遭到打擊。"
-    },
-    {
-      "id": "mkt:019f7124-be3e-7aab-8de9-a054cb014de4",
-      "time": "2026-07-18 01:34:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TASNIM NEWS cited sources saying Iran's Islamic Revolutionary Guard Corps attacked a vessel in the Strait of Hormuz."
-    },
-    {
-      "id": "4994977",
-      "time": "2026-07-18 01:34:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社援引知情人士訊息稱，伊朗革命衛隊在霍爾木茲海峽對一艘船隻實施了打擊。"
     }
   ]
 }
