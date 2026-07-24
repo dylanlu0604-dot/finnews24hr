@@ -1,7 +1,34 @@
 {
   "date": "2026-07-25",
-  "count": 346,
+  "count": 348,
   "items": [
+    {
+      "id": "mkt:019f95e1-faba-7aab-8e90-71e1591fae4d",
+      "time": "2026-07-25 04:47:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "Elon Musk says Tesla plans to open-source the software for the Model S and Model X."
+    },
+    {
+      "id": "te:markets:569858",
+      "time": "2026-07-25 04:46:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Drops on Trade and Middle East Tensions — The Ibovespa fell 1.5% to close at 174,042 on Friday as investors assessed fresh US tariffs on Brazilian exports and escalating tensions in the Middle East. Concerns among the Brazilian government and corporate sector intensified after the Trump administration announced another round of tariffs on Brazilian goods. Markets also continued to grapple with inflation concerns and expectations of higher global interest rates as oil prices remained elevated despite retreating from recent peaks. Major banks led the losses, with Banco do Brasil down 2.8%, Bradesco falling 1.3%, Itaú declining 1.1%, and Santander losing 1.1%. Petrobras dropped 1.7% as oil prices pulled back, while junior oil producer PRIO lost 2.8%. Vale fell 0.6% but still posted a weekly gain of more than 3%, supported by stronger-than-expected production figures released earlier in the week. Bucking the broader market, WEG rose 0.7% after its quarterly results, helped by positive commentary from Goldman Sachs and Itaú BBA."
+    },
     {
       "id": "mkt:019f95df-a094-7aab-8e90-6ab04959d6bd",
       "time": "2026-07-25 04:44:48",
