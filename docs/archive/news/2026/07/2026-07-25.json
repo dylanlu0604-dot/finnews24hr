@@ -1,7 +1,32 @@
 {
   "date": "2026-07-25",
-  "count": 146,
+  "count": 148,
   "items": [
+    {
+      "id": "mkt:019f955d-5fac-7aab-8e8e-313fb5954c32",
+      "time": "2026-07-25 02:22:32",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bearish",
+        "RTX.O"
+      ],
+      "text": "The US State Department said Turkey does not meet the legal requirements to receive F-35 fighters; F-35 aircraft cannot be transferred to Turkey until it fully complies with US law."
+    },
+    {
+      "id": "mkt:019f955b-cbf5-7aab-8e8e-29bd2c9af8d4",
+      "time": "2026-07-25 02:20:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "The New York Times, citing four people familiar with the matter, reports Trump met on Friday with senior advisers and Cabinet members to decide whether to escalate military strikes against Iran."
+    },
     {
       "id": "te:markets:569839",
       "time": "2026-07-25 02:20:01",

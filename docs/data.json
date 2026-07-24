@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-25 02:20:50",
-  "count": 18168,
+  "updated": "2026-07-25 02:24:42",
+  "count": 18166,
   "items": [
+    {
+      "id": "mkt:019f955d-5fac-7aab-8e8e-313fb5954c32",
+      "time": "2026-07-25 02:22:32",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bearish",
+        "RTX.O"
+      ],
+      "text": "The US State Department said Turkey does not meet the legal requirements to receive F-35 fighters; F-35 aircraft cannot be transferred to Turkey until it fully complies with US law."
+    },
+    {
+      "id": "mkt:019f955b-cbf5-7aab-8e8e-29bd2c9af8d4",
+      "time": "2026-07-25 02:20:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "The New York Times, citing four people familiar with the matter, reports Trump met on Friday with senior advisers and Cabinet members to decide whether to escalate military strikes against Iran."
+    },
     {
       "id": "te:markets:569839",
       "time": "2026-07-25 02:20:01",
@@ -166487,39 +166512,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cocoa Gains by 4.63% — Top commodity gainers are Cocoa (4.63%) and Coffee (2.72%). Biggest losers are Oat (-1.42%), Rubber (-1.23%) and Cotton (-0.76%)."
-    },
-    {
-      "id": "mkt:019f7152-224a-7aab-8dea-2abe8def8073",
-      "time": "2026-07-18 02:23:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Central Bank of the Democratic Republic of Congo to lower its benchmark rate to 12.5%."
-    },
-    {
-      "id": "mkt:019f7150-8ba2-7aab-8dea-25cb333ebfa6",
-      "time": "2026-07-18 02:22:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran International TV reported that, citing a directive it obtained from Iran's Supreme National Security Council, media are instructed not to publish details of damage to civilian infrastructure, the extent of destruction, or the impact of attacks on public-service provision."
-    },
-    {
-      "id": "mkt:019f7150-6283-7aab-8dea-1bdb6e434f37",
-      "time": "2026-07-18 02:22:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The European Union reiterated its call for Israel to halt further expansion of settlements in the West Bank."
-    },
-    {
-      "id": "4994992",
-      "time": "2026-07-18 02:21:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "派拉蒙 - 華納兄弟併購案法官表示將於 7 月 22 日前作出裁決。"
     }
   ]
 }
