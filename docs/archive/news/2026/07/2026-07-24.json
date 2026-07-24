@@ -1,7 +1,44 @@
 {
   "date": "2026-07-24",
-  "count": 3276,
+  "count": 3280,
   "items": [
+    {
+      "id": "5007388",
+      "time": "2026-07-24 23:59:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭農業部長： 政府願意協助開闢鐵路、多瑙河出口替代運輸通道。"
+    },
+    {
+      "id": "5007387",
+      "time": "2026-07-24 23:59:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭農業部長針對有關敖德薩黑海港口船隻通行潛在機制的相關報道回應：目前尚未開展此類官方磋商。軍方正採取行動，保障現有糧食走廊的通航安全。"
+    },
+    {
+      "id": "mkt:019f94d9-d4e4-7aab-8e8c-1e8bf159b31b",
+      "time": "2026-07-24 23:58:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Nigeria's exports of four main crude grades are forecast to average 952,000 bpd in September, up from 763,000 bpd in August."
+    },
+    {
+      "id": "5007386",
+      "time": "2026-07-24 23:58:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "初步裝運計劃資料顯示，奈及利亞四種主要原油品級 9 月出口量預估均值為 95.2 萬桶 / 日，8 月為 76.3 萬桶 / 日。"
+    },
     {
       "id": "te:markets:569825",
       "time": "2026-07-24 23:57:19",
