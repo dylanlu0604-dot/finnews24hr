@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-25 04:50:24",
-  "count": 18209,
+  "updated": "2026-07-25 04:54:19",
+  "count": 18211,
   "items": [
+    {
+      "id": "5007589",
+      "time": "2026-07-25 04:53:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：維多集團 2025 年利潤腰斬，向市場發放 59 億美元分紅。"
+    },
+    {
+      "id": "5007588",
+      "time": "2026-07-25 04:53:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【7月25日美股成交額前20：特斯拉遭遇2022年以來最大單週跌幅】週五美股成交額第4名特斯拉收跌2.08%，成交194.12億美元。特斯拉本週暴跌17.81%，創下自2022年以來最差的單週表現。著名投資人邁克爾·伯裡（Michael Burry）表示，他正在加大對幾項科技股看跌押注的力度，同時堅稱尚未平倉其對特斯拉的獲利空頭押注。“我沒有平倉特斯拉空頭頭寸。它自己就在變小，”伯裡週五在Substack上的一篇新帖子中寫道。特斯拉週四暴跌15%，此前公佈的季度財報令人失望。伯裡在6月底曾表示，他在416.22美元的價格做空了特斯拉。"
+    },
+    {
+      "id": "5007587",
+      "time": "2026-07-25 04:52:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美英籌劃召開霍爾木茲海峽問題國際會議】據美國阿克西奧斯新聞網站24日報道，美英兩國計劃下週在英國首都倫敦召開一次高階別會議，重點討論組建一個旨在“保護霍爾木茲海峽海上航運”的國際聯盟。報道援引兩名歐洲外交官的話說，會議具體日程和日期還未最終確定，可能召集西方國家及中東地區國家的國防部長和高階軍事指揮官參會。美國防部長赫格塞思和美軍參謀長聯席會議主席凱恩可能出席會議。不過，這一訊息尚未得到美英官方證實。報道還援引訊息人士的話說，英國和法國近幾月與多國就組建霍爾木茲海峽國際聯盟進行了討論，美國希望在此基礎上進一步推進相關磋商。美國希望盟友向該地區部署掃雷艦、海軍艦艇和無人機等裝備，以協助保障航道安全。一名歐洲外交官說：“美國人正在尋找脫身之計，並希望得到我們的協助。”（新華社）"
+    },
+    {
+      "id": "5007586",
+      "time": "2026-07-25 04:52:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加州州長紐森指責特朗普政府扣留聯邦資金涉嫌“政治報復”】當地時間7月24日，美國加利福尼亞州州長加文·紐森（Gavin Newsom）在社交媒體上發文，強烈指責特朗普政府涉嫌以扣留聯邦資金為手段，對各州進行“政治報復”。此外，紐森還質問美國國會為何對此類行徑保持沉默。"
+    },
+    {
+      "id": "5007585",
+      "time": "2026-07-25 04:50:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "明晟MSCI新興市場外匯指數週五跌0.1%，整體上連漲四周，創1月初以來最長連漲週數。MSCI發展中國家股票指數跌2.6%，創最近一個月最大單日跌幅。"
+    },
+    {
+      "id": "5007584",
+      "time": "2026-07-25 04:49:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西農戶已收割58.9%的2026年第二茬玉米作物，去年同期為66.5%。"
+    },
     {
       "id": "mkt:019f95e1-faba-7aab-8e90-71e1591fae4d",
       "time": "2026-07-25 04:47:22",
@@ -166843,42 +166891,6 @@
         "市場"
       ],
       "text": "【國際油價17日顯著上漲】國際油價17日顯著上漲。截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲3.54美元，收於每桶82.49美元，漲幅為4.48%；9月交貨的倫敦布倫特原油期貨價格上漲3.87美元，收於每桶88.10美元，漲幅為4.59%。（新華社）"
-    },
-    {
-      "id": "te:markets:567986",
-      "time": "2026-07-18 04:54:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Ends Slightly Lower as Financials Weigh — The Ibovespa inched 0.1% lower to close at 173,714 on Friday as losses in the financial sector weighed on the index, while gains in energy stocks partially offset the decline. The US and Iran intensified attacks across the Gulf, with their collapsed truce disrupting oil flows through the Strait of Hormuz. The conflict pushed oil prices higher, stoking inflation fears and weighing on financials and the broader market, while supporting energy stocks. Itaú lost 1.4%, Bradesco shed 0.6%, and both Itaúsa and Banco do Brasil retreated 1.3%, while Petrobras advanced 2.5%. Utility stocks traded mixed, with Axia up 0.9%, while Sabesp shed 0.3%. Steelmakers also traded mixed after the US announced a new 25% tariff on Brazilian imports. CSN lost 1.0%, while Gerdau added 0.5%. Meanwhile, the IBC-Br economic activity index rose 0.1% month-over-month in May 2026, easing from a 0.5% increase in the previous month but slightly exceeding forecasts for a flat reading."
-    },
-    {
-      "id": "4995093",
-      "time": "2026-07-18 04:52:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【7月18日美股成交額前20：傳Meta向Anthropic租賃算力 價值最高可達100億美元】週五美股成交額第6名Meta Platforms收跌2.79%，成交141.04億美元。據報道，Meta Platforms正與Anthropic展開初步磋商，擬向後者出租其資料中心的算力。這項合作將為時兩年，價值最高可達100億美元。本月早些時候報道稱，Meta正籌劃開展雲端計算業務，其中包括向其他公司出租算力的可能性。Meta執行長馬克·扎克伯格此前接受採訪時表示，公司目前所有算力仍用於內部專案，但市場對算力的報價十分可觀，令他開始考慮將部分算力對外出租。"
-    },
-    {
-      "id": "4995092",
-      "time": "2026-07-18 04:51:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：特朗普媒體向金融機構推銷“Truth API”，三年期優惠價每月6萬美元。"
-    },
-    {
-      "id": "mkt:019f71d8-f833-7aab-8deb-e1f534b5d8d8",
-      "time": "2026-07-18 04:51:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said Trump's media is pitching \"Truth API\" to financial institutions at a three-year promotional price of USD 60,000 per month."
     }
   ]
 }
