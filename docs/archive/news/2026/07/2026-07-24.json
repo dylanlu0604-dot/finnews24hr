@@ -1,7 +1,83 @@
 {
   "date": "2026-07-24",
-  "count": 3269,
+  "count": 3276,
   "items": [
+    {
+      "id": "te:markets:569825",
+      "time": "2026-07-24 23:57:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "US Dollar Index Eases from 15-Month High — The US dollar index was at 101.3, halting the rally that topped at a one-month high of 101.5 on July 23rd, as a slight pullback in energy prices softened growing bets that the Federal Reserve could deliver a rate hike this month. Still, the index remained only 0.3% away from the 15-month high touched late June amid the sustained consensus that the central bank will still deliver a rate hike this year. Energy inflation concerns regained momentum after an escalation to the war between the US and Iran resulted in blockades for energy tankers in the Persian Gulf and Red Sea, lifting oil and fuel prices. The inflationary risks were combined with robust economic data, adding leeway for higher rates. PMI data from the S&P showed that private sector activity grew the most this year. Also, initial unemployment claims fell the most in nearly six decades last week, consolidating the robust momentum of the labor market."
+    },
+    {
+      "id": "mkt:019f94d7-835c-7aab-8e8c-12c079bfb643",
+      "time": "2026-07-24 23:56:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Interfax: Russia said it struck facilities at Ukraine's Odesa and Pivdennyi ports."
+    },
+    {
+      "id": "5007385",
+      "time": "2026-07-24 23:55:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯稱已打擊敖德薩、皮夫傑尼港口相關設施。"
+    },
+    {
+      "id": "mkt:019f94d6-4fc9-7aab-8e8c-0a2e73382148",
+      "time": "2026-07-24 23:55:00",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Interfax reports Kazakhstan has frozen assets of the Kashagan operator."
+    },
+    {
+      "id": "te:markets:569824",
+      "time": "2026-07-24 23:54:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Ends Higher — The FTSE MIB rose 0.9% to 51,802 on Friday, as inflation concerns eased, driven by lower oil prices, and lifted financial stocks. Financials led gains, with BPER Banca rising 2.8% as sovereign bond yields stabilized following a retreat in oil prices, easing inflation concerns and offsetting the impact of newly announced US global tariffs. Intesa Sanpaolo, Banco BPM, Mediobanca, and BMPS all gained more than 2%. UniCredit advanced 1.5% after Commerzbank confirmed that discussions will resume next month, following the Italian lender's acquisition of a likely controlling stake, helping alleviate investor concerns over delays to its share buyback program. STMicroelectronics fell 2.4%, extending a near 18% plung in the last session after missing estimates, with AI overspending concerns continuing to weigh. Poste Italiane led declines, falling 3.7%, followed by Telecom Italia (-2.7%), after Poste unveiled plans for a new AI-focused data centre in partnership with the telecom operator."
+    },
+    {
+      "id": "5007384",
+      "time": "2026-07-24 23:54:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家航空航天局（NASA）將為藍色起源公司新格倫重型火箭提供測試配套支援。"
+    },
+    {
+      "id": "te:markets:569823",
+      "time": "2026-07-24 23:54:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX 40 Rebounds on Friday — The DAX 40 advanced more than 1% to above 25,100 on Friday, rebounding from a near one-month low as investors welcomed strong corporate earnings and better-than-expected PMI data. Sentiment also improved late in the European session after oil prices retreated on reports that Pakistan was seeking to revive US-Iran peace talks. Meanwhile, markets continued to assess the impact of new US tariffs imposed on imports from 60 trading partners, including the European Union. The latest S&P Global survey showed Eurozone business activity returned to growth in July, exceeding expectations, with Germany leading the recovery. SAP surged 10% after reporting stronger-than-expected quarterly revenue, driven by solid cloud backlog growth and robust demand for its AI platform, while Atoss Software gained almost 10% on strong cloud-related results. In contrast, Adidas fell 1.5%, and Volkswagen dropped 2.4% after weaker earnings and a lower revenue outlook. For the week, the German index rose 1.1%."
+    },
     {
       "id": "5007382",
       "time": "2026-07-24 23:51:21",
