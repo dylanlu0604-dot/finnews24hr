@@ -1,7 +1,151 @@
 {
-  "updated": "2026-07-25 03:33:02",
-  "count": 18198,
+  "updated": "2026-07-25 03:36:56",
+  "count": 18210,
   "items": [
+    {
+      "id": "mkt:019f95a0-f7c3-7aab-8e8f-76bc081ae01b",
+      "time": "2026-07-25 03:36:22",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "CFTC said speculators cut net short positions in CBOT US 2‑year Treasury futures by 2,880 contracts to 1,154,597 in the week ended July 21. They reduced net shorts in CBOT US 5‑year Treasury futures by 20,954 contracts to 1,273,329."
+    },
+    {
+      "id": "5007536",
+      "time": "2026-07-25 03:36:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們已做好充分準備，隨時出發。"
+    },
+    {
+      "id": "5007535",
+      "time": "2026-07-25 03:36:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為伊朗局勢變得更加嚴峻是出於“顯而易見”的原因。"
+    },
+    {
+      "id": "5007534",
+      "time": "2026-07-25 03:35:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為隨著時間推移，伊朗在談判中的態度愈發認真。"
+    },
+    {
+      "id": "5007533",
+      "time": "2026-07-25 03:35:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：尚未決定是否對伊朗發動大規模打擊。"
+    },
+    {
+      "id": "5007532",
+      "time": "2026-07-25 03:35:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：考慮因煙霧汙染問題對加拿大徵收高額關稅。"
+    },
+    {
+      "id": "mkt:019f959f-dd94-7aab-8e8f-6e59b3eda668",
+      "time": "2026-07-25 03:35:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said a deal with Iran may be possible, but he does not believe Iran is ready to reach one."
+    },
+    {
+      "id": "5007531",
+      "time": "2026-07-25 03:34:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：派拉蒙與華納兄弟達成一致，將併購交易暫緩至 2007 年 6 月 1 日。"
+    },
+    {
+      "id": "mkt:019f959e-f8f7-7aab-8e8f-6060d81ffce4",
+      "time": "2026-07-25 03:34:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CFTC: In the week ending July 21, speculative traders in the four major NYMEX and ICE natural gas contracts increased net short positions by 5,421 contracts to 55,716 contracts."
+    },
+    {
+      "id": "mkt:019f959e-ca99-7aab-8e8f-5d06b3d76b59",
+      "time": "2026-07-25 03:33:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "President Trump said the U.S. has many exit strategies on Iran."
+    },
+    {
+      "id": "mkt:019f959e-9262-7aab-8e8f-5592fdf93878",
+      "time": "2026-07-25 03:33:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Venezuela is not yet ready to hold elections but \"one day they will be ready.\""
+    },
+    {
+      "id": "5007530",
+      "time": "2026-07-25 03:33:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為伊朗目前還沒準備好，但他們有意達成協議。"
+    },
+    {
+      "id": "mkt:019f959e-7782-7aab-8e8f-4f991335cf61",
+      "time": "2026-07-25 03:33:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "CFTC: In the week ended July 21, COMEX gold speculators increased net longs by 4,438 contracts to 123,586; silver speculators cut net longs by 374 contracts to 10,003; copper speculators raised net longs by 11,751 contracts to 73,685."
+    },
+    {
+      "id": "5007529",
+      "time": "2026-07-25 03:33:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗問題：我們既可達成協議，也能對其實施更強硬打擊。"
+    },
+    {
+      "id": "5007528",
+      "time": "2026-07-25 03:33:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗尚未準備好達成協議。"
+    },
+    {
+      "id": "5007527",
+      "time": "2026-07-25 03:33:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普表示，美國在伊朗問題上有很多退出策略。"
+    },
     {
       "id": "mkt:019f959d-7486-7aab-8e8f-446cb7da483d",
       "time": "2026-07-25 03:32:31",
@@ -166734,44 +166878,6 @@
         "Nasdaq100"
       ],
       "text": "【TSMC adds $100 bln to Arizona fab; Trump invites firms to build in US】President Trump said TSMC will add $100 billion to its Arizona semiconductor fab, bringing total US investment to a record $265 billion. He credited his trade policies with driving reshoring of advanced manufacturing and invited companies to build plants in the United States."
-    },
-    {
-      "id": "4995035",
-      "time": "2026-07-18 03:36:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普再次稱讚6月份的通脹資料。"
-    },
-    {
-      "id": "4995034",
-      "time": "2026-07-18 03:35:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：“汙濁、受汙染且有害健康的空氣正無端侵入美國境內。”"
-    },
-    {
-      "id": "mkt:019f7192-3155-7aab-8deb-1087f87fd685",
-      "time": "2026-07-18 03:33:53",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "U.S. Commodity Futures Trading Commission data for the week to July 14 show speculators net short the yen by 122,663 contracts; the Swiss franc flipped to a net short of 36,956 contracts; the pound net short 71,253 contracts; the euro net short 12,605 contracts."
-    },
-    {
-      "id": "4995033",
-      "time": "2026-07-18 03:33:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）：7月14日當週，投機者所持NYMEX WTI原油淨多頭頭寸增加11,704手合約，至86,383手合約。所持布倫特與WTI原油淨多頭頭寸增至252,836手合約，創五週新高。所持NYMEX天然氣淨空頭頭寸增至48,229手合約，創逾兩年新高。"
     }
   ]
 }
