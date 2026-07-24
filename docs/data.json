@@ -1,7 +1,106 @@
 {
-  "updated": "2026-07-24 13:06:53",
-  "count": 17986,
+  "updated": "2026-07-24 13:10:59",
+  "count": 17988,
   "items": [
+    {
+      "id": "5005978",
+      "time": "2026-07-24 13:09:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深圳華強：近期觀察到MLCC客戶下單增加 主動補庫存】深圳華強7月23日在機構線下調研時表示，公司近期觀察到MLCC客戶下單增加，開始拉貨、主動補庫存。對部分缺貨的型號，公司優先滿足大客戶的採購需求。同時，公司表示，目前電子元器件產業景氣度高企，產業鏈各環節的價格普遍上漲，價格上漲的原因包括AI算力基建帶來的增量需求和對產能的虹吸效應，物料和生產成本的上漲，地緣政治衝突、逆全球化對供應鏈擾動的影響等。"
+    },
+    {
+      "id": "mkt:019f9286-f1f6-7aab-8e7b-0466d139ffb3",
+      "time": "2026-07-24 13:09:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A South Korean court ordered SK Group chairman Chey Tae-won to pay his ex-wife KRW 944 billion."
+    },
+    {
+      "id": "5005977",
+      "time": "2026-07-24 13:08:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部辦公廳印發2026年度國家工業節能監察任務清單】工信部官網訊息，按照《工業和資訊化部辦公廳關於組織開展2026年度工業節能監察工作的通知》（工信廳節函〔2026〕221號，以下簡稱《通知》），在省級工業和資訊化主管部門報送的監察計劃和任務清單基礎上，我部確定了2026年度工業節能監察任務3874家企業，包括鋼鐵、合成氨、煉油、乙烯、燒鹼、純鹼、甲醇、聚氯乙烯、電解鋁、工業矽、水泥、平板玻璃、建築和衛生陶瓷、算力設施等重點行業領域能效監察2739家企業；光伏、風電機組、動力和儲能電池、水電解制氫裝備等重點產業鏈能效監察976家；2025年度違規企業整改落實情況“回頭看”監察159家企業。"
+    },
+    {
+      "id": "mkt:019f9286-1e87-7aab-8e7a-f9f04d64ff51",
+      "time": "2026-07-24 13:08:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300"
+      ],
+      "text": "【MIIT office issues 2026 national industrial energy‑efficiency inspection task list】Under a MIIT notice and based on provincial submissions, the Ministry of Industry and Information Technology’s office has designated 3,874 enterprises for 2026 industrial energy‑efficiency inspections. Of these, 2,739 are in energy‑intensive sectors — steel, synthetic ammonia, refining, ethylene, caustic soda, soda ash, methanol, PVC, electrolytic aluminum, industrial silicon, cement, flat glass, building and sanitary ceramics, and computing‑power facilities — and 976 are in key industrial chains, including photovoltaic, wind turbines, power and storage batteries, and water‑electrolysis hydrogen equipment. The plan also covers 159 firms for follow‑up inspections of 2025 non‑compliance rectification."
+    },
+    {
+      "id": "5005976",
+      "time": "2026-07-24 13:07:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【據報伊朗防空系統擊落一飛行器】當地時間今天（7月24日）凌晨，美軍對伊朗連續第13晚發動襲擊。美軍中央司令部稱，在持續兩個多小時的行動中，重點打擊了伊朗的軍事指揮中心、無人機儲存設施、通訊網路、海岸監視站點及海上作戰能力，旨在進一步削弱伊朗對經霍爾木茲海峽通行的平民船員和商業船隻構成的威脅。據伊朗媒體報道，伊朗南部霍爾木茲甘省、西南部胡齊斯坦省，以及中部亞茲德省、中央省等多地傳出爆炸聲。 首都德黑蘭的防空系統啟動，應對“敵對”空中威脅。 據報道，位於波斯灣的伊朗最大島嶼格什姆島，防空系統擊落一架飛行器。"
+    },
+    {
+      "id": "5005975",
+      "time": "2026-07-24 13:07:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國法院：SK集團會長崔泰源被判在財產分割中向前妻支付9440億韓元。"
+    },
+    {
+      "id": "mkt:019f9285-0a7f-7aab-8e7a-f2d8acd0c0f7",
+      "time": "2026-07-24 13:07:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Karen Hao, author of new book AI Empire, says current AI development is concentrated in a few large tech firms; pursuit of breakthroughs risks data, energy, environmental and labor pressures and may widen economic inequality. She urges attention to the industry’s underlying power structures rather than focusing solely on technological progress."
+    },
+    {
+      "id": "5005974",
+      "time": "2026-07-24 13:06:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大皇家銀行將洛克希德·馬丁公司目標價從575美元上調至600美元。"
+    },
+    {
+      "id": "te:economy:569576",
+      "time": "2026-07-24 13:06:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "India Services Sector Growth Weakest Since 2022 — The HSBC India Services PMI declined to 53.1 in July 2026 from a final 57.4 in the previous month, preliminary estimates showed. It was the softest expansion in the services sector since February 2022, as growth in both output and new orders slowed, with the rates of expansion retreating sharply from June to their weakest levels in 53 months."
+    },
+    {
+      "id": "5005973",
+      "time": "2026-07-24 13:05:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貿仲上半年受理案件平均爭議金額同比增25.3%】記者在今天舉辦的中國國際經濟貿易仲裁委員會成立七十週年座談會上瞭解到，今年上半年，貿仲受理外方當事人訴外方當事人的案件38件，爭議金額人民幣14.72億元，同比增長356%。同時，上半年受理案件的個案平均爭議金額同比增長25.3%，體現出貿仲正在成為高價值、複雜商業爭議的優選機構，這將更好推動我國建設國際商事糾紛解決優選地。"
+    },
+    {
+      "id": "5005972",
+      "time": "2026-07-24 13:05:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國—國際可再生能源署（IRENA）合作專項工作組換屆及擴容結果公佈】國家能源局公告，為深化中國與國際可再生能源署（IRENA）務實合作，2026年3月，國家能源局釋出公告，對中國—IRENA“1+1+N”（1個合作指導委員會、1個合作辦公室和N個合作專項工作組）合作機制下首批能源轉型、水電、太陽能、氫能、電網5個專項工作組進行換屆，並增設儲能、風能、教育與青年3個專項工作組，面向社會公開徵集新一屆組成單位。經自主申報、協商確認和擇優遴選，現將新一屆組成單位名單予以公佈，其中各組長（副組長）單位任期3年，自發布之日起。"
+    },
     {
       "id": "5005971",
       "time": "2026-07-24 13:04:51",
@@ -164790,94 +164889,6 @@
         "公司"
       ],
       "text": "【柯力感測及旗下產業基金戰略投資恆之未來】近日，柯力感測及其與私募基金時代伯樂、寧波市江北區國資共同組建的寧波感測谷創業投資基金正式完成了對恆之未來（重慶）創新科技有限公司的數千萬投資。據柯力感測介紹，此項投資是柯力在“多物理量融合感測器+機器人應用”方向上的又一次前瞻佈局，將助力柯力在機器人感測器、具身智慧、智慧裝備領域形成更強的協同效應。"
-    },
-    {
-      "id": "4993554",
-      "time": "2026-07-17 13:10:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【急求稀有金屬 日本回收電動車電池】中國實施兩用物項出口管制後，日本稀有金屬供應吃緊。繼此前“拆空調找稀土”之後，日媒又曝出，日本部分企業試圖透過回收電動汽車的電池，加大稀有金屬的供應。除電池外，日本還把目光投向了電動汽車其他零部件。有分析指出，短期內日本無法擺脫對外部原料供給的依賴。（央視軍事）"
-    },
-    {
-      "id": "mkt:019f6e7b-b865-7aab-8dda-6db10dd80364",
-      "time": "2026-07-17 13:10:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump administration tightens visa rules; over 13,000 South Koreans in US may be affected】The Trump administration on Thursday published a Department of Homeland Security \"final rule\" tightening permitted stays for foreign students, exchange visitors and foreign journalists; DHS says the move targets \"visa misuse.\" Yonhap reports the rule could affect more than 13,000 South Koreans in the US. South Korea’s embassy in Washington says, as of 2025, 11,861 South Koreans hold F-1 student visas and 1,347 hold F-2 dependent visas; 7,985 hold J-1 exchange visitor visas with 3,180 J-2 dependents; and 349 hold I visas as media representatives."
-    },
-    {
-      "id": "mkt:019f6e7b-81a8-7aab-8dda-6118e30b8c64",
-      "time": "2026-07-17 13:10:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "CSI300"
-      ],
-      "text": "【China's Shanghai Composite Index falls below 3,800】A-share indices extended losses; China's Shanghai Composite Index breached the 3,800 level, down 2.04% intraday."
-    },
-    {
-      "id": "4993553",
-      "time": "2026-07-17 13:09:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大模型概念股持續走低，智譜跌幅擴大至25%】大模型概念股持續走低，智譜跌幅擴大至25%，MINIMAX-W跌近15%。"
-    },
-    {
-      "id": "4993552",
-      "time": "2026-07-17 13:08:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "沃爾沃汽車將在夏季後推出兩款新車型。"
-    },
-    {
-      "id": "mkt:019f6e79-c567-7aab-8dda-5fb89c74d20b",
-      "time": "2026-07-17 13:08:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "2330.TW",
-        "Impact bearish"
-      ],
-      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) fell 6%; Taiwan Semiconductor Manufacturing Co. slid more than 6%."
-    },
-    {
-      "id": "4993551",
-      "time": "2026-07-17 13:08:07",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團將 阿斯麥  目標股價從1675歐元上調至2200歐元。"
-    },
-    {
-      "id": "mkt:019f6e79-366c-7aab-8dda-574b90e96c2d",
-      "time": "2026-07-17 13:07:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "03986.HK",
-        "Impact bearish"
-      ],
-      "text": "GigaDevice A shares hit the daily trading limit down in the afternoon; turnover 22.338 bln yuan. Hong Kong-listed GigaDevice (03986.HK) fell 10.33%."
-    },
-    {
-      "id": "4993550",
-      "time": "2026-07-17 13:07:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沃爾沃汽車二季度利潤環比收窄】瑞典車企沃爾沃汽車週五公佈，其二季度利潤較一季度出現下滑；該車企寄望於後續新款純電車型 EX60 交付落地，以此加快業績復甦步伐。沃爾沃汽車由中國吉利控股集團控股，公司披露 4 至 6 月營業利潤為 8 億瑞典克朗（摺合 8276 萬美元），低於今年一季度錄得的 16 億瑞典克朗。"
     }
   ]
 }
