@@ -1,7 +1,100 @@
 {
-  "updated": "2026-07-24 09:33:29",
-  "count": 18028,
+  "updated": "2026-07-24 09:37:27",
+  "count": 18017,
   "items": [
+    {
+      "id": "5005694",
+      "time": "2026-07-24 09:36:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電解液概念逆勢活躍 孚日股份2連板】早盤鋰電池電解液概念逆勢活躍，孚日股份2連板，華盛鋰電、永太科技、石大勝華、海科新源、天賜材料跟漲。"
+    },
+    {
+      "id": "5005693",
+      "time": "2026-07-24 09:36:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【培育鑽石概念股盤初走低 惠豐鑽石跌超5%】培育鑽石概念股盤初走低，惠豐鑽石跌超5%，黃河旋風、四方達等股跟跌。"
+    },
+    {
+      "id": "5005692",
+      "time": "2026-07-24 09:36:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "軍工板塊異動拉昇，中光防雷20cm漲停，長城軍工、北方長龍、北自科技、江龍船艇、建設工業漲幅居前。"
+    },
+    {
+      "id": "5005691",
+      "time": "2026-07-24 09:36:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴港股跌3.48%，騰訊跌超2%。"
+    },
+    {
+      "id": "mkt:019f91c3-7fcf-7aab-8e77-4b260f2e487e",
+      "time": "2026-07-24 09:35:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00148.HK",
+        "Impact bearish",
+        "01888.HK",
+        "01377.HK"
+      ],
+      "text": "Hong Kong PCB-related stocks slid: 00148.HK fell over 5%, 01888.HK fell over 3%; 01377.HK, 02476.HK and 01989.HK also declined."
+    },
+    {
+      "id": "te:markets:569464",
+      "time": "2026-07-24 09:35:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Fall on Middle East Risks — The benchmark KOSPI slipped more than 2% to around 6,920 on Friday, snapping a three-day rally as escalating Middle East tensions dampened investor sentiment. Brent crude climbed above $100 per barrel after attacks on Saudi oil tankers and heightened concerns over the conflict between the US and Iran fueled fears of supply disruptions, prompting a broad risk-off move across global markets. Investor sentiment also came under pressure from a selloff in technology stocks following disappointing earnings from major US companies, weighing on South Korean chipmakers. Separately, fresh US tariffs of up to 12.5% on South Korea and other trading partners over forced labor concerns added to uncertainty over the export outlook. Among heavyweights, Samsung Electronics (-3.6%), SK hynix (-3.1%), SK Square (-6.1%), Hyundai Motor (-6.1%), LG Energy Solution (-3.7%), and KB Financial Group (-5.0%) all declined."
+    },
+    {
+      "id": "5005690",
+      "time": "2026-07-24 09:34:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【能源裝置板塊盤初走強 特瑞斯漲超8%】能源裝置板塊盤初走強，特瑞斯漲超8%，傑瑞股份、科力股份、中曼石油等股跟漲。"
+    },
+    {
+      "id": "5005689",
+      "time": "2026-07-24 09:34:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "火電板塊持續走低，深南電A跌超6%，粵電力A、晉控電力、豫能控股、京能電力等跟跌。"
+    },
+    {
+      "id": "5005688",
+      "time": "2026-07-24 09:33:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊繼續活躍 長纜科技4連板】早盤電網裝置板塊繼續活躍，長纜科技4連板，韶能股份2連板，中能電氣漲超10%，新亞電纜、中電鑫龍、太陽電纜、雙傑電氣跟漲。"
+    },
+    {
+      "id": "5005687",
+      "time": "2026-07-24 09:33:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱連續第13晚打擊伊朗 持續超兩小時】當地時間7月23日，美軍中央司令部表示，美軍於美東時間當天21時完成了針對伊朗的連續第13晚打擊行動。美軍中央司令部稱，此次打擊目標包括伊朗軍事指揮中心、無人機儲存設施、通訊網路、沿海監視點及海上作戰力量，旨在“進一步削弱伊朗對透過霍爾木茲海峽的民用船員和商業船隻構成的威脅”。美軍中央司令部稱，霍爾木茲海峽仍保持開放，商業船隻“在美軍支援下繼續通行”。目前，超過5萬名美軍人員正在中東地區執行任務。"
+    },
     {
       "id": "mkt:019f91c1-1241-7aab-8e77-4247a1e61af2",
       "time": "2026-07-24 09:32:57",
@@ -165046,204 +165139,6 @@
         "公司"
       ],
       "text": "【海蘭信在南京成立科技新公司】企查查APP顯示，近日，海蘭信（南京）科技有限公司成立，經營範圍包含：船舶自動化、檢測、監控系統製造；海洋工程裝備製造；海洋工程裝備銷售等。企查查股權穿透顯示，該公司由海蘭信全資持股。"
-    },
-    {
-      "id": "4993239",
-      "time": "2026-07-17 09:37:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【元件板塊短線走低，東山精密跌停】元件板塊短線走低，東山精密跌停，逸豪新材跌超17%，廣合科技、滬電股份、紅板科技紛紛下挫。"
-    },
-    {
-      "id": "mkt:019f6db8-44b3-7aab-8dd5-709c501e667e",
-      "time": "2026-07-17 09:37:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "688256.SS",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China's STAR 50 Index extended losses to 2%; Cambricon shares fell more than 5%."
-    },
-    {
-      "id": "mkt:019f6db7-ced2-7aab-8dd5-68099e1633f9",
-      "time": "2026-07-17 09:36:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's Ministry of Defense said it intercepted a missile attack."
-    },
-    {
-      "id": "4993238",
-      "time": "2026-07-17 09:36:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣加權股價指數下跌4%至43,791.47點。"
-    },
-    {
-      "id": "4993237",
-      "time": "2026-07-17 09:36:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股光電子板塊短線走低】光迅科技跌9.50%"
-    },
-    {
-      "id": "4993236",
-      "time": "2026-07-17 09:35:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【CPO板塊大幅下挫，中際旭創跌超10%】CPO板塊大幅下挫，中際旭創跌超10%，長光華芯、鼎通科技、源傑科技、新易盛、天孚通訊等紛紛跌超10%。"
-    },
-    {
-      "id": "mkt:019f6db6-ed68-7aab-8dd5-621ec208bf93",
-      "time": "2026-07-17 09:35:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share Zhongji Xuchuang fell 10.06% intraday to 1,001.00 yuan."
-    },
-    {
-      "id": "4993235",
-      "time": "2026-07-17 09:35:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超1%，現報4785.450點；恒生指數現漲0.024%。"
-    },
-    {
-      "id": "mkt:019f6db6-a17c-7aab-8dd5-5e053dea3898",
-      "time": "2026-07-17 09:35:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Congress must pass a voter ID law."
-    },
-    {
-      "id": "4993234",
-      "time": "2026-07-17 09:35:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "4993233",
-      "time": "2026-07-17 09:35:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬深300指數下跌2%至4,602.89點。"
-    },
-    {
-      "id": "mkt:019f6db6-3cd7-7aab-8dd5-522f44c64ab7",
-      "time": "2026-07-17 09:34:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "【China's ChiNext Index extends drop to 4%】A-shares opened sharply lower in early trade; China's ChiNext Index extended losses to 4%, Shenzhen Composite down 2.84%, Shanghai Composite down 0.76%."
-    },
-    {
-      "id": "4993232",
-      "time": "2026-07-17 09:34:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國商飛拔尖管理人才專題班考察調研科德數控】據科德數控訊息，7月16日，中國商飛拔尖管理人才專題班組織商飛總部機關、上飛公司、上飛院、北研中心、上航公司、四川公司、客服公司、試飛公司、商飛資本等單位的30餘名拔尖管理人才，在中國大連高階經理學院的組織下，赴大連光洋科技集團及其控股的科德數控股份有限公司考察調研。座談期間，專題班聽取了《上飛公司—科德數控卓越創新中心（COE）合作進展情況》報告，雙方就國產自主高階五軸機床在大飛機應用場景下的中試驗證、大飛機典型核心零件加工的工藝與裝備深度融合創新、“原始碼級”高檔數控系統支援大飛機零件製造體系自主可控升級等話題展開深入交流。"
-    },
-    {
-      "id": "4993231",
-      "time": "2026-07-17 09:34:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指跌3.01%，現報14053.023點；上證指數跌0.80%，現報3851.263點；創業板指跌4.24%，現報3535.736點。"
-    },
-    {
-      "id": "4993230",
-      "time": "2026-07-17 09:34:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌4.02%，現報3544.117點；上證指數跌0.74%，現報3853.669點；深證成指跌2.84%，現報14076.594點。"
-    },
-    {
-      "id": "4993229",
-      "time": "2026-07-17 09:34:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中際旭創盤中跌超10%】A股中際旭創盤中跌10.06%，現報1001.00元。"
-    },
-    {
-      "id": "4993228",
-      "time": "2026-07-17 09:34:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "智慧駕駛概念活躍，索菱股份漲停，大眾交通、萊賽鐳射、萬集科技、興民智通跟漲。"
-    },
-    {
-      "id": "4993227",
-      "time": "2026-07-17 09:33:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【牡丹江出現2026年第1號洪水】7月17日9時，松花江流域牡丹江牡丹江水文站水位235.00米，依據《全國主要江河洪水編號清單》，此次洪水編號為“牡丹江2026年第1號洪水”。請各級防汛部門、沿河各有關單位及社會公眾加強防範，注意避險。"
-    },
-    {
-      "id": "4993226",
-      "time": "2026-07-17 09:33:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【免稅概念異動拉昇，中百集團漲停】免稅概念異動拉昇，中百集團漲停，廣百股份、居然智家、南寧百貨、東百集團、海汽集團、友好集團等跟漲。"
-    },
-    {
-      "id": "mkt:019f6db5-6176-7aab-8dd5-48192c10c5f4",
-      "time": "2026-07-17 09:33:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bearish",
-        "SSE Composite",
-        "CSI300"
-      ],
-      "text": "China's ChiNext Index widened rapidly to a 3% loss in early trade, the Shenzhen Composite Index fell more than 2%, and the Shanghai Composite Index was down 0.61%."
-    },
-    {
-      "id": "4993225",
-      "time": "2026-07-17 09:33:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌1%，現報7477.00點。"
     }
   ]
 }
