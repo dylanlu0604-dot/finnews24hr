@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-25 03:09:39",
-  "count": 18181,
+  "updated": "2026-07-25 03:13:33",
+  "count": 18180,
   "items": [
+    {
+      "id": "mkt:019f958b-9482-7aab-8e8e-fd2dc2c15f4c",
+      "time": "2026-07-25 03:13:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Philadelphia Semiconductor Index losses briefly widened to 5%."
+    },
+    {
+      "id": "5007490",
+      "time": "2026-07-25 03:12:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特電視臺報道，沙特公共投資基金與世界銀行集團旗下國際金融公司、多邊投資擔保機構簽署了總金額最高達95億美元的諒解備忘錄。"
+    },
+    {
+      "id": "5007489",
+      "time": "2026-07-25 03:11:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭總統警告俄軍或於48小時內發動新一輪大規模空襲】烏克蘭總統澤連斯基25日發表晚間影片講話，援引烏克蘭情報部門及合作伙伴的資訊警告稱，俄羅斯已為對烏髮動新一輪大規模導彈襲擊做好準備，初步情報顯示相關行動可能在未來48小時內實施。澤連斯基呼籲烏克蘭民眾密切關注防空警報，並強調防空系統支援是國際合作夥伴當前應優先落實的援助事項。在談及外交斡旋時，澤連斯基表示，越來越多的關鍵合作伙伴正深入瞭解俄烏衝突的真實情況以及俄羅斯試圖延長戰爭的意圖。他透露，近期有與美國總統特朗普關係密切的美方人士赴烏克蘭實地走訪，考察了基輔及多地受襲情況。澤連斯基強調，烏克蘭期待以“體面的和平”結束戰爭，並正積極籌備與美國總統及其團隊的會晤。"
+    },
+    {
+      "id": "mkt:019f9589-286f-7aab-8e8e-f52177ed839a",
+      "time": "2026-07-25 03:10:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Brazil Planning Minister Moretti said oil-export tax receipts have been strong and are expected to reach 15.6 bln reais within four months."
+    },
     {
       "id": "5007488",
       "time": "2026-07-25 03:08:51",
@@ -166586,56 +166621,6 @@
         "WTI"
       ],
       "text": "【Iran adviser warns of 'full offensive' within days if US continues strikes】Rezaei, an adviser to Iran’s Supreme Leader, warned that if US forces continue strikes for the next two to three days Iran will abandon its deterrence-and-matched-response posture and shift to a “full offensive and destruction” phase, potentially striking US military bases and personnel overseas. He said prior Iranian restraint aimed to avoid regional spillover but that US “miscalculation” could escalate the situation; Rezaei urged Kuwait, Jordan, Qatar and the UAE to prevent the US and Israel from widening operations and said the US policy of “war and negotiation simultaneously” has failed, adding Iran will intensify retaliation in the coming days."
-    },
-    {
-      "id": "mkt:019f717f-8f6e-7aab-8dea-bb211604452d",
-      "time": "2026-07-18 03:13:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Crude oil futures rise on renewed Middle East tensions】Crude oil futures rose, logging double-digit weekly gains after the US expanded strikes on Iranian targets and Iran attacked neighboring Gulf states, heightening supply-risk fears. Market concerns were amplified by the threat of a Houthi blockade of Red Sea shipping; Saudi Arabia has previously rerouted exports via the Red Sea when the Strait of Hormuz was closed. Barclays analyst Amarpreet Singh said inventories are at multi-year lows and most strategic petroleum reserve releases have ended, so renewed tensions around the strait's \"red line\" pose significant upside risk to energy prices and the market remains too complacent about potential inventory impacts."
-    },
-    {
-      "id": "4995016",
-      "time": "2026-07-18 03:13:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗將領：就算敵人僥倖在某處完成登陸，他們又打算如何脫身？"
-    },
-    {
-      "id": "4995015",
-      "time": "2026-07-18 03:11:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【墨西哥南部海域7.4級地震暫無人員傷亡】墨西哥南部海域17日上午發生7.4級地震。截至發稿時，墨西哥官方尚未報告人員死亡和重大財產損失，海嘯預警已取消。據墨西哥國家地震局訊息，該國南部恰帕斯州伊達爾戈城西南135公里處海域當天上午發生7.4級地震，震源深度10公里。截至當地時間12時，此次地震已引發80次餘震，其中最大餘震震級為6.5級。墨西哥國家民防協調局表示，恰帕斯州、塔瓦斯科州、坎佩切州、瓦哈卡州等地均有震感，相關地區目前均未報告人員傷亡和重大財產損失。地震發生後，墨西哥海軍部海嘯預警中心一度釋出海嘯預警，後根據監測結果確認不會出現海平面明顯變化，海嘯預警已取消。（新華社）"
-    },
-    {
-      "id": "4995014",
-      "time": "2026-07-18 03:09:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖顧問：如果美國的襲擊持續數天，伊朗將進入全面進攻行動階段。"
-    },
-    {
-      "id": "mkt:019f717c-2957-7aab-8dea-b08891044252",
-      "time": "2026-07-18 03:09:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "【SpaceX in talks to provide Pentagon with tens of billions of dollars of AI compute】SpaceX is negotiating with the Pentagon to supply compute capacity worth tens of billions of dollars to run AI models; talks remain ongoing and could still collapse. Sources say SpaceX signed similar deals with Anthropic and Google in recent months and plans a major expansion of its cloud-computing business. In recent weeks employees discussed offering compute to AI customers at lower prices to compete directly with existing suppliers such as CoreWeave."
     }
   ]
 }
