@@ -1,7 +1,48 @@
 {
   "date": "2026-07-25",
-  "count": 16,
+  "count": 20,
   "items": [
+    {
+      "id": "5007397",
+      "time": "2026-07-25 00:11:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行首席經濟學家連恩： 歐元區經濟正遭遇中等程度衝擊。"
+    },
+    {
+      "id": "te:markets:569831",
+      "time": "2026-07-25 00:11:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.36% Higher — The DAX Index went up by 336 points or 1.36 percent on Friday to close at 25099 points. The rise was led by SAP (10.07%), Siemens Healthineers (2.81%) and Fresenius (2.22%)."
+    },
+    {
+      "id": "te:markets:569830",
+      "time": "2026-07-25 00:10:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.79% Higher — The CAC 40 Index rose 66 points or 0.79 percent on Friday to close at 8365 points. Leading the gains are Dassault Systemes (7.90%), Capgemini (4.44%) and Safran (2.66%). Top losers were Carrefour (-4.85%), STMicroelectronics (-2.14%) and Thales (-1.13%)."
+    },
+    {
+      "id": "5007396",
+      "time": "2026-07-25 00:09:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：哈塔姆安比亞基地指揮官表態稱，每犧牲一名伊朗公民，就會有一名美國人付出生命代價。"
+    },
     {
       "id": "te:markets:569829",
       "time": "2026-07-25 00:07:20",
