@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-24 13:10:59",
+  "updated": "2026-07-24 13:15:00",
   "count": 17988,
   "items": [
+    {
+      "id": "mkt:019f928b-4a41-7aab-8e7b-1d2e364d22fd",
+      "time": "2026-07-24 13:13:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Executive Board member Nagel said policymakers should not pre-commit to any rate changes before the September meeting."
+    },
+    {
+      "id": "5005981",
+      "time": "2026-07-24 13:11:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "挪威外交大臣：我們沒有計劃對源自美國的進口商品徵收任何關稅。"
+    },
+    {
+      "id": "mkt:019f9289-504e-7aab-8e7b-178ae39e0a21",
+      "time": "2026-07-24 13:11:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norwegian foreign minister says Norway has no plans to impose tariffs on imports from the United States."
+    },
+    {
+      "id": "mkt:019f9289-4679-7aab-8e7b-0a8c7e4ea532",
+      "time": "2026-07-24 13:11:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The STAR 50 index rose more than 2% despite broader weakness, with the storage-chip sector outperforming; constituents Jingchen and Zhongke Feice each gained over 10%."
+    },
+    {
+      "id": "5005980",
+      "time": "2026-07-24 13:11:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.10%，成分股中，晶晨股份漲10.73%，中科飛測漲10.62%，翱捷科技漲9.00%，拓荊科技漲7.86%。"
+    },
+    {
+      "id": "5005979",
+      "time": "2026-07-24 13:10:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體裝置午後持續走高 託倫斯逼近20CM漲停】半導體裝置午後持續走高，至純科技漲停，託倫斯逼近20CM漲停，中科飛測、芯源微、拓荊科技、強一股份、京儀裝備跟漲。"
+    },
     {
       "id": "5005978",
       "time": "2026-07-24 13:09:59",
@@ -164829,66 +164880,6 @@
         "Impact bearish"
       ],
       "text": "China's CSI 300 Index fell about 3% intraday to 4,557.19 points."
-    },
-    {
-      "id": "mkt:019f6e7f-466d-7aab-8dda-7e13e2464605",
-      "time": "2026-07-17 13:14:22",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Societe Generale: Markets have sufficiently priced ECB hawkishness; euro-area short end offers value】A Societe Generale rates strategist says markets have fully priced an ECB rate hike in September and anticipate a further move in March next year, leaving current hawkish pricing broadly sufficient. Two-year ECB rate expectations have risen to the top of the recent range, implying the front end of the euro-area government bond yield curve offers carry in mid‑summer and is a favourable entry point to reposition into a euro-area curve steepener."
-    },
-    {
-      "id": "4993558",
-      "time": "2026-07-17 13:14:21",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【亞洲晶片股拋售加劇 臺積電業績未滿足過高預期】亞洲晶片股跌勢加劇。臺積電公佈的業績雖然強勁，但未能達到投資者的過高預期，引發市場對資本開支增加和盈利前景疲軟的擔憂。臺積電股價在臺北一度下跌6.5%，此前該公司上調了今年的資本支出和營收預測。儘管總體比較積極，但有分析師和投資者強調，除了對持續多年的人工智慧熱潮感到疲倦之外，成本上升也是令人擔憂的問題。彭博亞洲晶片股指數跌超6%。日本快閃記憶體製造商鎧俠控股跌幅較大，一度下跌16%。該公司近幾周來市值較6月高點縮水一半，但今年以來仍上漲約400%。Gavekal Capital Ltd.投資組合經理Leonid Mironov表示，利好業績公佈後股價反而下跌，說明市場至少暫時正考慮從晶片股轉向其他資產配置。他補充道，“此外，估值倍數已經過高，所以即使鎧俠股價下跌50%，也仍然不算便宜。”"
-    },
-    {
-      "id": "4993557",
-      "time": "2026-07-17 13:14:01",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【騰訊控股港股跌超5%】騰訊控股港股跌5.29%，報458.40港元。"
-    },
-    {
-      "id": "mkt:019f6e7e-5d1d-7aab-8dda-73ad5b3e795f",
-      "time": "2026-07-17 13:13:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "China A-share innovative-drug stocks extended losses in the afternoon session. Baiaosaitu and Baicheng Pharma hit 20% limit-down; Yaokang Biotech, Hongbo Pharma, Qianyan Biotech and Huana Pharmaceutical fell more than 10%."
-    },
-    {
-      "id": "4993556",
-      "time": "2026-07-17 13:12:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部：16條河流仍維持超警 最大超警幅度3.33米】今天上午，水利部舉行會商，分析研判全國防汛形勢；目前全國有16條河流仍維持超警，最大超警幅度3.33米，需持續關注水情預警和山洪災害預警資訊。（央視新聞）"
-    },
-    {
-      "id": "4993555",
-      "time": "2026-07-17 13:11:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【柯力感測及旗下產業基金戰略投資恆之未來】近日，柯力感測及其與私募基金時代伯樂、寧波市江北區國資共同組建的寧波感測谷創業投資基金正式完成了對恆之未來（重慶）創新科技有限公司的數千萬投資。據柯力感測介紹，此項投資是柯力在“多物理量融合感測器+機器人應用”方向上的又一次前瞻佈局，將助力柯力在機器人感測器、具身智慧、智慧裝備領域形成更強的協同效應。"
     }
   ]
 }

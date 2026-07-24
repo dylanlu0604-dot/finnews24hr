@@ -1,7 +1,58 @@
 {
   "date": "2026-07-24",
-  "count": 1242,
+  "count": 1248,
   "items": [
+    {
+      "id": "mkt:019f928b-4a41-7aab-8e7b-1d2e364d22fd",
+      "time": "2026-07-24 13:13:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Executive Board member Nagel said policymakers should not pre-commit to any rate changes before the September meeting."
+    },
+    {
+      "id": "5005981",
+      "time": "2026-07-24 13:11:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "挪威外交大臣：我們沒有計劃對源自美國的進口商品徵收任何關稅。"
+    },
+    {
+      "id": "mkt:019f9289-504e-7aab-8e7b-178ae39e0a21",
+      "time": "2026-07-24 13:11:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norwegian foreign minister says Norway has no plans to impose tariffs on imports from the United States."
+    },
+    {
+      "id": "mkt:019f9289-4679-7aab-8e7b-0a8c7e4ea532",
+      "time": "2026-07-24 13:11:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The STAR 50 index rose more than 2% despite broader weakness, with the storage-chip sector outperforming; constituents Jingchen and Zhongke Feice each gained over 10%."
+    },
+    {
+      "id": "5005980",
+      "time": "2026-07-24 13:11:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.10%，成分股中，晶晨股份漲10.73%，中科飛測漲10.62%，翱捷科技漲9.00%，拓荊科技漲7.86%。"
+    },
+    {
+      "id": "5005979",
+      "time": "2026-07-24 13:10:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體裝置午後持續走高 託倫斯逼近20CM漲停】半導體裝置午後持續走高，至純科技漲停，託倫斯逼近20CM漲停，中科飛測、芯源微、拓荊科技、強一股份、京儀裝備跟漲。"
+    },
     {
       "id": "5005978",
       "time": "2026-07-24 13:09:59",
