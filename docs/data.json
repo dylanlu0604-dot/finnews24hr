@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-24 23:05:51",
-  "count": 18085,
+  "updated": "2026-07-24 23:09:52",
+  "count": 18084,
   "items": [
+    {
+      "id": "mkt:019f94ac-203c-7aab-8e8b-15302a13d978",
+      "time": "2026-07-24 23:08:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil central bank governor said many studies will examine El Niño's impact on CPI."
+    },
+    {
+      "id": "5007339",
+      "time": "2026-07-24 23:08:39",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【標普500成分股盈利超預期比例高於去年同期】在披露2026年二季度財報季的過程中，越來越多的美國公司交出了超出預期的盈利答卷，其中消費必需品和醫療保健板塊是最大的贏家。根據彭博彙編的資料，在已經公佈第三季度業績的120家標普500成分股中，有88%的公司每股收益（EPS）超出了分析師的預期，而去年同期整個財報季這一比例為87%。相比之下，盈利不及預期的公司佔比約為12%，去年同期為13%。 在營收方面，20%的公司未能達到預期，而80%的公司實現了超預期增長。去年同期的這兩項資料分別為30%和70%。儘管如此，自本輪財報季開始以來，藍籌股標杆的標普500指數仍下跌了0.9%。"
+    },
     {
       "id": "5007338",
       "time": "2026-07-24 23:05:13",
@@ -165677,32 +165695,6 @@
         "MKT News"
       ],
       "text": "【China Ministry of Natural Resources tsunami warning center: M7.3 quake offshore Chiapas, Mexico; local tsunami possible】China's Ministry of Natural Resources Tsunami Warning Center preliminarily reported a magnitude-7.3 earthquake at 22:48 on July 17, 2026 (Beijing time) offshore Chiapas, Mexico (14.64°N, 93.00°W), depth 20 km. Earthquake parameters are subject to confirmation by cenc. Based on preliminary data, the center said a local tsunami may be generated near the epicenter but will not affect China's coast. The center will continue to monitor seismic and tsunami data and issue updates as required."
-    },
-    {
-      "id": "mkt:019f709f-d95c-7aab-8de8-3833a1a7549b",
-      "time": "2026-07-17 23:09:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "Atlanta Fed's GDPNow model leaves its estimate for Q2 real GDP growth at 1.7%."
-    },
-    {
-      "id": "4994915",
-      "time": "2026-07-17 23:07:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：7月16日，美軍摧毀了恰赫巴哈爾港一處伊朗革命衛隊監控塔。"
-    },
-    {
-      "id": "4994914",
-      "time": "2026-07-17 23:07:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國海嘯預警系統通報：本次地震可能在震中 300 公里範圍內的墨西哥、瓜地馬拉沿岸引發危險海嘯浪湧。"
     }
   ]
 }
