@@ -1,7 +1,112 @@
 {
   "date": "2026-07-24",
-  "count": 2848,
+  "count": 2859,
   "items": [
+    {
+      "id": "mkt:019f9431-57fd-7aab-8e88-c9c7f96ae877",
+      "time": "2026-07-24 20:54:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Verizon (VZ.N) signed a $1 bln data center agreement with Google (GOOG.O)."
+    },
+    {
+      "id": "5007106",
+      "time": "2026-07-24 20:54:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "威瑞森管理層財報電話會議釋放利好，股價盤前轉漲。"
+    },
+    {
+      "id": "mkt:019f942f-956f-7aab-8e88-c7178a7eff5f",
+      "time": "2026-07-24 20:52:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Russia says it will wait for Trump to present new plan to end Ukraine war】Kremlin said on Friday it believes US President Trump’s efforts to end the Ukraine war are sincere and that Russia will wait for Washington to present a new proposal, despite continued US weapons deliveries to Kyiv. Kremlin spokesman Peskov said Russia will continue to pursue its objectives by military means: \"Yes, (military action) is not the preferred path, but given the current lack of prospects for peace, we will press on until complete victory. However, we will wait for a new proposal.\""
+    },
+    {
+      "id": "5007105",
+      "time": "2026-07-24 20:52:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "威瑞森執行長：人工智慧基礎設施收入將從2027年起逐步計入我們的業績。"
+    },
+    {
+      "id": "5007104",
+      "time": "2026-07-24 20:52:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "威瑞森執行長：預計第四季度移動業務與寬頻業務營收將增長約4%。"
+    },
+    {
+      "id": "te:markets:569781",
+      "time": "2026-07-24 20:51:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Rebound — US natural gas futures climbed above $2.95 per MMBtu, extending their rebound from a two-month low as forecasts for hotter weather boosted expectations of stronger cooling demand. Meteorologists expect temperatures to remain mostly above normal through August 7, likely increasing natural gas consumption by power generators as air conditioning use rises. However, gains were capped by ample supply conditions. EIA data showed gas inventories were 6.4% above the five-year seasonal average as of July 17, while production in the Lower 48 states increased to an average of 110.4 bcfd so far in July, up from 110.0 bcfd in June. LNG export demand also eased, with gas flows to major export terminals averaging 17.4 bcfd so far this month, slightly below June's pace, partly due to scheduled maintenance at Freeport LNG's Texas facility. Meanwhile, Tropical Storm Bertha is being closely monitored as it could disrupt LNG export operations along the US Gulf Coast."
+    },
+    {
+      "id": "5007103",
+      "time": "2026-07-24 20:51:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通首席財務官在電話會議上表示，預計全年信貸指標整體保持穩定。"
+    },
+    {
+      "id": "te:economy:569780",
+      "time": "2026-07-24 20:51:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Building Permits",
+        "Importance 1"
+      ],
+      "text": "US Building Permits Fall Less than Initially Thought in June — US building permits fell 2.6% month over month to a seasonally adjusted annual rate of 1.374 million in June 2026, according to final data, slightly above the preliminary estimate of 1.367 million. Despite the upward revision, permit issuance remained at a three-month low, highlighting persistent weakness in the housing market as elevated mortgage rates and a growing inventory of unsold new homes continue to weigh on construction activity. Permits for multifamily buildings with five or more units declined 3.1% to 502,000, while single-family permits dropped 2.2% to 872,000, their lowest level in ten months. Regionally, permitting activity decreased in the South (-7.1% to 708,000) and the West (-4.3% to 308,000), while the Midwest (5.2% to 203,000) and the Northeast (16.5% to 155,000) recorded gains."
+    },
+    {
+      "id": "mkt:019f942e-13b0-7aab-8e88-baf95978c98d",
+      "time": "2026-07-24 20:51:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Salemi, head of Yemen's national negotiation delegation, urged fair measures to ensure Yemen's security, sovereignty and independence."
+    },
+    {
+      "id": "5007102",
+      "time": "2026-07-24 20:51:15",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "德國商業銀行經濟學家Michael Pfister：結束美伊衝突的協議即使對歐元區經濟有利，也不一定預示著歐元走勢良好。如果油價因衝突降溫而下跌，市場可能會不再計入對歐洲央行加息的預期。"
+    },
+    {
+      "id": "mkt:019f942d-fc51-7aab-8e88-b427ef724734",
+      "time": "2026-07-24 20:51:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Yemen's national negotiation delegation chief Salemi said Saudi Arabia's maritime blockade will continue until the blockade on Yemen ends."
+    },
     {
       "id": "mkt:019f942d-9d63-7aab-8e88-adb0f1c07c8b",
       "time": "2026-07-24 20:50:45",
