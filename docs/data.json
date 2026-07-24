@@ -1,7 +1,94 @@
 {
-  "updated": "2026-07-24 10:16:11",
-  "count": 18012,
+  "updated": "2026-07-24 10:20:08",
+  "count": 18017,
   "items": [
+    {
+      "id": "te:markets:569493",
+      "time": "2026-07-24 10:19:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Holds Decline — The New Zealand dollar steadied at $0.577 after falling for three consecutive sessions, as escalating tensions between the US and Iran dampened risk appetite. The conflict showed little sign of abating, with President Trump threatening to intensify the conflict with Iran following Houthi militants' attacks on two Saudi Arabian oil tankers in the Red Sea, prompting investors to further reduce exposure to risk-sensitive assets, including the kiwi. While the conflict has heightened inflation concerns amid rising oil prices, it has also increased downside risks to the economy, as New Zealand is heavily dependent on oil imports from the Middle East, leaving the currency vulnerable to supply disruptions and higher energy costs. Still, the RBNZ is widely expected to deliver another 25-bp hike in September following hot inflation data, with rates projected to reach at least 3.0% by year-end. The kiwi has fallen around 1% so far this week, its first weekly decline in four."
+    },
+    {
+      "id": "mkt:019f91eb-97f1-7aab-8e78-2ebd9be26cb6",
+      "time": "2026-07-24 10:19:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangzhou 1H GDP up 5.8% YoY】July 24 — Guangzhou Statistics Bureau said GDP in 1H 2026 was RMB 1.6045 tln at constant prices, up 5.8% YoY per Guangdong provincial unified accounting. Value added: primary RMB 10.8 bln, +3.2%; secondary RMB 380.0 bln, +5.6%; tertiary RMB 1.2137 tln, +5.9%."
+    },
+    {
+      "id": "5005762",
+      "time": "2026-07-24 10:19:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【】亞那沉船事故遇難人數升至72人】當地時間23日，蓋亞那總理菲利普斯表示，日前該國發生的“巴里馬”號渡輪沉船事故確認遇難人數增至72人，其中65人的身份得到家屬確認，搜尋和打撈行動仍在繼續進行。"
+    },
+    {
+      "id": "5005761",
+      "time": "2026-07-24 10:18:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年上半年廣州地區生產總值同比增長5.8%】7月24日，廣州市統計局公佈2026年上半年廣州經濟執行情況。根據廣東省地區生產總值統一核算結果，上半年，全市地區生產總值16045億元，按不變價格計算，同比增長5.8%。其中，第一產業增加值108億元，增長3.2%；第二產業增加值3800億元，增長5.6%；第三產業增加值12137億元，增長5.9%。"
+    },
+    {
+      "id": "mkt:019f91ea-ac73-7aab-8e78-2630a8aca28a",
+      "time": "2026-07-24 10:18:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Economist calls US 12.5% tariff on Australia 'absurd', warns of higher US price pressure】Betashares chief economist David Bassanese said President Trump’s 12.5% tariff on Australia—imposed citing Canberra’s alleged failure to enforce a ban on goods made with forced labor—is \"absurd\" and appears to be a thin pretext to replace tariffs struck down by the US Supreme Court earlier this year. He warned the levy will add to US price pressure at a time when earlier tariff-driven inflation was only beginning to ease and said it raises the risk of the Federal Reserve tightening policy later this year."
+    },
+    {
+      "id": "mkt:019f91e9-b0d4-7aab-8e78-1b39dee8b984",
+      "time": "2026-07-24 10:17:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine benchmark stock index fell 1.5% to its lowest level since July 6."
+    },
+    {
+      "id": "5005760",
+      "time": "2026-07-24 10:17:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧省公共資源交易中心（遼寧省政府採購中心）原黨組成員、副主任劉暢接受審查調查】“遼寧省紀委監委”微信公眾號7月24日訊息，遼寧省公共資源交易中心（遼寧省政府採購中心）原黨組成員、副主任劉暢涉嫌嚴重違紀違法，目前正接受遼寧省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:019f91e9-62fc-7aab-8e78-1466142e3dac",
+      "time": "2026-07-24 10:16:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI index fell 4.00% intraday to 6,809.52 points."
+    },
+    {
+      "id": "5005759",
+      "time": "2026-07-24 10:16:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌4%，至6809.52點。"
+    },
     {
       "id": "mkt:019f91e8-1337-7aab-8e78-0d8094ef73ec",
       "time": "2026-07-24 10:15:33",
@@ -165100,38 +165187,6 @@
         "市場"
       ],
       "text": "納斯達克100指數期貨跌超1%，標普500指數期貨跌0.59%，道瓊斯指數期貨跌0.54%。"
-    },
-    {
-      "id": "4993314",
-      "time": "2026-07-17 10:19:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【香港公司註冊處：上半年香港新註冊本地公司和經遷冊公司約12.25萬間】香港公司註冊處今日(7月17日)發表的統計數字顯示，在2026年上半年新註冊的本地公司和經遷冊公司總數為122,481間。截至今年6月底，根據《公司條例》註冊的本地公司和經遷冊公司總數達1,609,720間，數字創歷史新高。在2026年上半年，共有903間非香港公司在香港新設立營業地點並根據《公司條例》註冊。截至2026年6月底，註冊非香港公司的總數達16,014間，同創歷史新高。"
-    },
-    {
-      "id": "4993313",
-      "time": "2026-07-17 10:18:38",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "外匯局：今年以來，外資對我國投資總體表現向好。前5個月外資來華各類投資淨增加約1600億美元，明顯好於去年同期。外商來華股權投資淨增加500多億美元，其中，外資企業在境內的收益再投資同比增長35%。從外匯局跨境收支資料看，上半年，高技術服務業和高技術製造業外資流入規模同比增長61%。"
-    },
-    {
-      "id": "4993311",
-      "time": "2026-07-17 10:17:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【尚比亞宣佈本輪霍亂疫情結束】尚比亞衛生部門16日宣佈，由於已連續4周未出現新增霍亂確診病例，該國本輪霍亂疫情結束。 贊衛生部負責技術事務的常務秘書肯尼迪·利欣皮當天在首都盧薩卡舉行的新聞釋出會上說，在這場始於2025年8月的疫情中，全國共報告1627例確診病例，其中26例死亡。利欣皮說，政府、合作伙伴、衛生工作者以及積極落實防控措施的民眾共同努力，是成功遏制此次疫情的關鍵。他呼籲民眾不要放鬆警惕，繼續採取衛生措施，防止疫情再次發生。 霍亂長期以來是尚比亞面臨的主要公共衛生挑戰之一。由於該國部分地區存在清潔飲用水供應不足和衛生設施不完善等問題，尚比亞曾多次暴發霍亂疫情。據世界衛生組織統計，2023年10月至2024年7月，尚比亞霍亂疫情造成超過700人死亡。 霍亂是由霍亂弧菌引起的急性腸道傳染病，主要經由不潔水源和食物傳染，患者常出現嘔吐、腹瀉、脫水和高燒等症狀，重症和延誤治療可致死亡。(新華社)"
-    },
-    {
-      "id": "4993310",
-      "time": "2026-07-17 10:16:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達內政部稱，伊朗襲擊後，一枚被攔截導彈的彈片致一名兒童受傷。"
     }
   ]
 }

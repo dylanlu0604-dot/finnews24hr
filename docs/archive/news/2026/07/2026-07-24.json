@@ -1,7 +1,94 @@
 {
   "date": "2026-07-24",
-  "count": 913,
+  "count": 922,
   "items": [
+    {
+      "id": "te:markets:569493",
+      "time": "2026-07-24 10:19:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Holds Decline — The New Zealand dollar steadied at $0.577 after falling for three consecutive sessions, as escalating tensions between the US and Iran dampened risk appetite. The conflict showed little sign of abating, with President Trump threatening to intensify the conflict with Iran following Houthi militants' attacks on two Saudi Arabian oil tankers in the Red Sea, prompting investors to further reduce exposure to risk-sensitive assets, including the kiwi. While the conflict has heightened inflation concerns amid rising oil prices, it has also increased downside risks to the economy, as New Zealand is heavily dependent on oil imports from the Middle East, leaving the currency vulnerable to supply disruptions and higher energy costs. Still, the RBNZ is widely expected to deliver another 25-bp hike in September following hot inflation data, with rates projected to reach at least 3.0% by year-end. The kiwi has fallen around 1% so far this week, its first weekly decline in four."
+    },
+    {
+      "id": "mkt:019f91eb-97f1-7aab-8e78-2ebd9be26cb6",
+      "time": "2026-07-24 10:19:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangzhou 1H GDP up 5.8% YoY】July 24 — Guangzhou Statistics Bureau said GDP in 1H 2026 was RMB 1.6045 tln at constant prices, up 5.8% YoY per Guangdong provincial unified accounting. Value added: primary RMB 10.8 bln, +3.2%; secondary RMB 380.0 bln, +5.6%; tertiary RMB 1.2137 tln, +5.9%."
+    },
+    {
+      "id": "5005762",
+      "time": "2026-07-24 10:19:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【】亞那沉船事故遇難人數升至72人】當地時間23日，蓋亞那總理菲利普斯表示，日前該國發生的“巴里馬”號渡輪沉船事故確認遇難人數增至72人，其中65人的身份得到家屬確認，搜尋和打撈行動仍在繼續進行。"
+    },
+    {
+      "id": "5005761",
+      "time": "2026-07-24 10:18:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年上半年廣州地區生產總值同比增長5.8%】7月24日，廣州市統計局公佈2026年上半年廣州經濟執行情況。根據廣東省地區生產總值統一核算結果，上半年，全市地區生產總值16045億元，按不變價格計算，同比增長5.8%。其中，第一產業增加值108億元，增長3.2%；第二產業增加值3800億元，增長5.6%；第三產業增加值12137億元，增長5.9%。"
+    },
+    {
+      "id": "mkt:019f91ea-ac73-7aab-8e78-2630a8aca28a",
+      "time": "2026-07-24 10:18:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Economist calls US 12.5% tariff on Australia 'absurd', warns of higher US price pressure】Betashares chief economist David Bassanese said President Trump’s 12.5% tariff on Australia—imposed citing Canberra’s alleged failure to enforce a ban on goods made with forced labor—is \"absurd\" and appears to be a thin pretext to replace tariffs struck down by the US Supreme Court earlier this year. He warned the levy will add to US price pressure at a time when earlier tariff-driven inflation was only beginning to ease and said it raises the risk of the Federal Reserve tightening policy later this year."
+    },
+    {
+      "id": "mkt:019f91e9-b0d4-7aab-8e78-1b39dee8b984",
+      "time": "2026-07-24 10:17:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine benchmark stock index fell 1.5% to its lowest level since July 6."
+    },
+    {
+      "id": "5005760",
+      "time": "2026-07-24 10:17:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧省公共資源交易中心（遼寧省政府採購中心）原黨組成員、副主任劉暢接受審查調查】“遼寧省紀委監委”微信公眾號7月24日訊息，遼寧省公共資源交易中心（遼寧省政府採購中心）原黨組成員、副主任劉暢涉嫌嚴重違紀違法，目前正接受遼寧省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:019f91e9-62fc-7aab-8e78-1466142e3dac",
+      "time": "2026-07-24 10:16:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI index fell 4.00% intraday to 6,809.52 points."
+    },
+    {
+      "id": "5005759",
+      "time": "2026-07-24 10:16:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌4%，至6809.52點。"
+    },
     {
       "id": "mkt:019f91e8-1337-7aab-8e78-0d8094ef73ec",
       "time": "2026-07-24 10:15:33",
