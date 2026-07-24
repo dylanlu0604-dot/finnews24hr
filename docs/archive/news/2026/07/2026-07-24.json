@@ -1,7 +1,108 @@
 {
   "date": "2026-07-24",
-  "count": 2548,
+  "count": 2559,
   "items": [
+    {
+      "id": "5006902",
+      "time": "2026-07-24 19:27:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "克里姆林宮表示，將等待美方就解決烏克蘭衝突提出新方案。"
+    },
+    {
+      "id": "mkt:019f93e1-afe4-7aab-8e86-372fc1718304",
+      "time": "2026-07-24 19:27:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "300750.SZ",
+        "Impact bullish"
+      ],
+      "text": "CATL reported 1H net profit of 43.284 bln yuan, up 41.98% YoY."
+    },
+    {
+      "id": "5006901",
+      "time": "2026-07-24 19:27:36",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【寧德時代：2026年上半年淨利潤432.84億元，同比增長41.98%】寧德時代公告，2026年上半年營業收入2769.17億元，同比增長54.80%；歸屬於上市公司股東的淨利潤432.84億元，同比增長41.98%；歸屬於上市公司股東的扣除非經常性損益的淨利潤390.13億元，同比增長43.44%。上年同期淨利潤304.85億元。公司擬以總股本扣除回購股份後的45.98億股為基數，每10股派發現金分紅14.11元（含稅）。"
+    },
+    {
+      "id": "5006900",
+      "time": "2026-07-24 19:27:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱基輔州遭襲致6人死亡 俄方暫無回應】當地時間7月24日，烏克蘭總統澤連斯基透過社交媒體表示，烏克蘭基輔州遭俄方襲擊，目前已確認6人死亡、數十人受傷。據悉，現場救援工作仍在持續推進。俄羅斯方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "5006899",
+      "time": "2026-07-24 19:27:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【焦炭仍有繼續提降預期 產地焦煤流拍率持續走高】本週主流鋼廠招標下調焦炭採購價，溼熄焦下調50元/噸，幹熄焦下調55元/噸，現階段焦化廠出貨順暢，僅個別焦化企業庫存小幅堆積。7月24日進口蒙古國煉焦煤市場漲跌互現。期貨盤面小幅波動，口岸貿易企業挺價，下游企業剛需採購，蒙煤市場交投氛圍稍有改善，國內鋼廠鐵水產量下滑，對煉焦煤剛性需求支撐趨弱，焦炭一輪提降落地後市場仍有繼續提降預期，後續煤焦市場價格走勢有待觀望。 (我的鋼鐵網)"
+    },
+    {
+      "id": "5006898",
+      "time": "2026-07-24 19:26:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林國防部隊指責伊朗動用導彈與無人機襲擊平民、損毀私人財產  。"
+    },
+    {
+      "id": "mkt:019f93e0-2494-7aab-8e86-28ce59fe8549",
+      "time": "2026-07-24 19:26:07",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "WEDBUSH raised Intel (INTC.O) PT to $98 from $60."
+    },
+    {
+      "id": "5006897",
+      "time": "2026-07-24 19:25:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鮑斯股份：擬對全資子公司增資5億元】鮑斯股份公告，擬對全資子公司江西鮑斯產業鏈服務有限公司增資5億元，增資後江西產業鏈註冊資本增加至13億元，其中鮑斯股份持股84.62%，寧波鮑斯產業鏈服務有限公司持股15.38%。此次增資旨在投資建設冷媒壓縮機及熱泵新生產基地，以提升公司冷媒壓縮機及熱泵業務產能規模。"
+    },
+    {
+      "id": "mkt:019f93df-7dec-7aab-8e86-2033ffa0b301",
+      "time": "2026-07-24 19:25:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Former US Secretary of State Blinken said he believes US President Trump wants to get out of his current predicament; he is searching for a way out but cannot find one, and some call it an escalation trap."
+    },
+    {
+      "id": "5006894",
+      "time": "2026-07-24 19:25:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "韋德布什將英特爾目標股價從60美元上調至98美元。"
+    },
+    {
+      "id": "mkt:019f93de-ea5e-7aab-8e86-18ee573781e7",
+      "time": "2026-07-24 19:24:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "Chief of South Korea's presidential policy office says Samsung and SK Hynix will sign major chip supply agreements with leading US technology firms during President Lee's visit to the United States."
+    },
     {
       "id": "5006893",
       "time": "2026-07-24 19:23:01",
