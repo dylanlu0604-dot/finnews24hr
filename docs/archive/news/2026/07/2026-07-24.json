@@ -1,7 +1,146 @@
 {
   "date": "2026-07-24",
-  "count": 2632,
+  "count": 2647,
   "items": [
+    {
+      "id": "mkt:019f93f3-c346-7aab-8e86-ec1dab426dc7",
+      "time": "2026-07-24 19:47:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Shipping data show Danish-flag product tanker TORM INNOVATION is carrying a cargo of napatha bound for Japan."
+    },
+    {
+      "id": "mkt:019f93f3-b5f1-7aab-8e86-e585612bfd7e",
+      "time": "2026-07-24 19:47:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Spring Airlines apologizes for ticket overselling, accepts criticism and pledges full rectification】Spring Airlines said it learned via consumer association channels of a July 24 Beijing–Tianjin–Hebei joint consumer association meeting on ticket overselling that involved multiple carriers and sales platforms. The carrier watched the meeting livestream, promptly dispatched staff to report in person, and carried out a comprehensive self-review. It said it accepts the criticisms, will implement full corrective measures to prevent recurrence, and apologised to affected passengers and the consumer associations."
+    },
+    {
+      "id": "5006963",
+      "time": "2026-07-24 19:47:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "VERIZON股價抹去早盤漲幅，下跌1%。"
+    },
+    {
+      "id": "5006962",
+      "time": "2026-07-24 19:47:22",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【伊朗戰事擾亂供應鏈 印度健怡可樂漲價換包裝】健怡可樂一向在印度市場熱銷，賣得最多的是300毫升鋁罐裝。然而，伊朗戰事延宕擾亂鋁罐供應鏈，可口可樂公司不得不調整進口源，推出330毫升鋁罐裝，並上調售價。媒體認為，這一案例表明，受伊朗戰事影響，不少企業正被迫調整供應鏈以及在主要消費市場提高售價。路透社24日以兩名知情人士為訊息源報道，由於300毫升容量的鋁罐供應緊張，可口可樂公司被迫從東南亞採購成本更高的330毫升鋁罐。原先，印度市場最熱銷的300毫升健怡可樂售價為40印度盧比（約合2.8元人民幣），而近期上架的330毫升罐裝產品售價50印度盧比（3.5元人民幣）。按單位容量計算，價格上漲約13.6%。健怡可樂在印度市場上主要以鋁罐包裝形式銷售，霍爾木茲海峽則是鋁罐及相關原材料運往印度的重要通道。本月早些時候，美國與伊朗戰火重燃，霍爾木茲海峽商業航運再次嚴重受阻，市場擔憂戰事還可能波及其他海上運輸路線。可口可樂公司在印度銷售的多數飲料採用塑膠瓶、玻璃瓶和鋁罐等包裝。無糖可樂“零度可樂”同時使用塑膠瓶和鋁罐包裝，目前供應未受明顯影響。（新華社）"
+    },
+    {
+      "id": "mkt:019f93f3-7fd4-7aab-8e86-dda914a30b32",
+      "time": "2026-07-24 19:47:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Danish product-tanker owner TORM said the product tanker TORM INNOVATION will, after transiting the Suez Canal, sail via South Africa to Asia."
+    },
+    {
+      "id": "5006961",
+      "time": "2026-07-24 19:47:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "丹麥油輪Torm Innovation裝載運往日本的石腦油貨物。"
+    },
+    {
+      "id": "mkt:019f93f3-3b49-7aab-8e86-d1e7dc404e9e",
+      "time": "2026-07-24 19:46:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Danish oil-products tanker owner TORM said product tanker TORM Innovation has been rerouted to transit the Suez Canal, avoiding a potential passage through the southern Red Sea due to security concerns."
+    },
+    {
+      "id": "5006960",
+      "time": "2026-07-24 19:46:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "託姆航運發言人表示，旗下油輪\"託姆創新號\"在穿越蘇伊士運河後，將經由南部非洲航線駛往亞洲。"
+    },
+    {
+      "id": "5006959",
+      "time": "2026-07-24 19:46:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "丹麥油輪所有者TORM表示，由於安全域性勢，其油輪TORM INNOVATION已改道經蘇伊士運河航行，而非可能經由紅海南部過境。"
+    },
+    {
+      "id": "mkt:019f93f2-ace4-7aab-8e86-cc5624823d27",
+      "time": "2026-07-24 19:46:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Romania’s chief of general staff warned that as the harvest season begins, Ukrainian grain ships in the Black Sea may continue to be attacked."
+    },
+    {
+      "id": "5006958",
+      "time": "2026-07-24 19:46:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅馬尼亞軍隊總參謀長表示，隨著收穫季開始，他認為烏克蘭運糧船在黑海很可能繼續遭到襲擊。"
+    },
+    {
+      "id": "5006957",
+      "time": "2026-07-24 19:44:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【建業地產30億元出售旗下兩大文旅專案】7月23日，建業地產股份有限公司（00832.HK，建業地產）釋出須予披露交易公告，建業地產將旗下兩大文旅專案“只有河南·戲劇幻城”、“建業電影小鎮”相關資產打包出讓，買方為中信資本旗下信宸資本全資附屬企業，交易總代價為30億元。"
+    },
+    {
+      "id": "5006956",
+      "time": "2026-07-24 19:44:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會副主席就特朗普關稅政策表態：美方此舉給出的理由是（相關產品）存在強迫勞動。但恕我直言，這套說辭套在歐盟身上根本站不住腳。對比歐美勞動法規就能看出，歐盟實行帶薪休假制度，勞動者享有十分完善的勞動保障條件。因此美方的指控完全缺乏事實依據。"
+    },
+    {
+      "id": "te:markets:569769",
+      "time": "2026-07-24 19:44:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "HCA earnings above expectations at 7.59 USD — HCA (HCA) released earnings per share at 7.59 USD, compared to market expectations of 7.35 USD."
+    },
+    {
+      "id": "te:markets:569768",
+      "time": "2026-07-24 19:43:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "NextEra Energy earnings above expectations at 1.15 USD — NextEra Energy (NEE) released earnings per share at 1.15 USD, compared to market expectations of 1.07 USD."
+    },
     {
       "id": "5006955",
       "time": "2026-07-24 19:42:42",
