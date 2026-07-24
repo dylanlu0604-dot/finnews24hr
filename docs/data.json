@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-25 01:29:39",
-  "count": 18161,
+  "updated": "2026-07-25 01:33:35",
+  "count": 18163,
   "items": [
+    {
+      "id": "te:economy:569836",
+      "time": "2026-07-25 01:32:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - Jul 27th — The conflict between the US and Iran will remain in the spotlight as signs that talks could restart weighed against repeated strikes and naval blockades against vessels crossing maritime chokepoints, lifting energy prices and global inflation. Earnings by major companies should also dictate equity movements, including Apple, Microsoft, Amazon, Meta, and Samsung. Meanwhile, the Federal Reserve will set its July policy decision. This coincides with Q2 GDP data and the income and outlays report. Other US data includes CB consumer confidence, the trade balance, and employment costs. Similarly, the Bank of England will set its Bank Rate and the Eurozone is set to release GDP and inflation data. A busy week in Asia will be headlined by the Bank of Japan rate decision, while statistical authorities share industrial production, retail sales, and unemployment. The Chinese Communist Party will host its July Politburo meeting as a mid-year checkup. China will also post PMIs."
+    },
+    {
+      "id": "mkt:019f952e-9208-7aab-8e8d-96552862edc8",
+      "time": "2026-07-25 01:31:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan has told Iran it must pressure the Houthi movement to stop launching attacks in the Red Sea, Saudi outlet Alhadath cited a senior source as saying."
+    },
+    {
+      "id": "5007441",
+      "time": "2026-07-25 01:31:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【英國天然氣期貨本週漲約10%】本週，ICE英國天然氣期貨累計上漲9.77%，週五（7月24日）歐市尾盤報152.300便士/千卡，整體持續上揚。TTF基準荷蘭天然氣期貨累漲6.84%，報62.910歐元/兆瓦時。ICE歐盟碳排放交易許可（期貨價格）累漲5.59%，報82.98歐元/噸。"
+    },
+    {
+      "id": "mkt:019f952c-d194-7aab-8e8d-8f7b374ef8ab",
+      "time": "2026-07-25 01:29:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Wang Yi meets Tajik foreign minister Mukhriddin】Wang Yi said President Rahmon made a successful state visit to China in May, during which President Xi set new strategic directions for China–Tajikistan relations. The visit produced a Treaty on Permanent Good‑Neighborly and Friendly Cooperation — a precedent in Central Asia — and a joint statement to deepen a comprehensive strategic partnership, pledging to build a China‑Tajikistan community with a shared future. Wang said the foreign ministries’ task is to convert leaders’ consensus into action, coordinate engagements at all levels and push practical cooperation in energy, connectivity, counter‑terrorism and security to produce concrete benefits for both peoples."
+    },
     {
       "id": "mkt:019f9529-5b35-7aab-8e8d-867cbac8fded",
       "time": "2026-07-25 01:25:43",
@@ -166428,24 +166467,6 @@
         "國際"
       ],
       "text": "伊朗塔斯尼姆通訊社援引知情人士訊息稱，伊朗革命衛隊在霍爾木茲海峽對一艘船隻實施了打擊。"
-    },
-    {
-      "id": "4994976",
-      "time": "2026-07-18 01:31:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破88美元/桶，日內漲4.48%。"
-    },
-    {
-      "id": "4994975",
-      "time": "2026-07-18 01:30:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲5%，現報541.70元。"
     }
   ]
 }
