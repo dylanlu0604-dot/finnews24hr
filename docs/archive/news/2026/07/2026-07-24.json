@@ -1,7 +1,73 @@
 {
   "date": "2026-07-24",
-  "count": 3179,
+  "count": 3186,
   "items": [
+    {
+      "id": "te:markets:569817",
+      "time": "2026-07-24 23:00:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.97% — Top currency gainers are South Korean Won (0.97%), Brazilian Real (0.65%), Swedish Krona (0.49%), British Pound (0.09%) and Japanese Yen (0.06%). Meanwhile, Dollar Index and Euro were little changed."
+    },
+    {
+      "id": "5007335",
+      "time": "2026-07-24 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】低硫燃料油連續跌2.71%，PTA連續跌1.78%，燃料油連續跌1.53%，乙二醇連續漲1.26%，玻璃連續漲1.11%。"
+    },
+    {
+      "id": "mkt:019f94a3-a4fb-7aab-8e8a-fe679f8174b9",
+      "time": "2026-07-24 22:59:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Latvia's foreign minister summoned the Russian embassy's chargé d'affaires over Russia's attack on the Ukrainian city of Sloviansk and the destruction of Latvia's consulate."
+    },
+    {
+      "id": "5007334",
+      "time": "2026-07-24 22:59:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【貝萊德啟動 123 億美元投資級債券發行】貝萊德啟動 123 億美元投資級債券發行，為 Meta 得州 AI 資料中心專案募資；當前市場普遍擔憂 AI 基礎設施投資過熱知情人士透露，與貝萊德關聯控股主體 Sopaipilla Investor 將發行 2048 年到期信用債券。該訊息人士因未獲對外發言授權，要求匿名，其稱市場初步詢價區間較 10 年期美國債溢價約 287.5 個基點。"
+    },
+    {
+      "id": "5007333",
+      "time": "2026-07-24 22:59:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "拉脫維亞外交部長：已就烏克蘭斯拉維揚斯克市遇襲以及拉脫維亞領館遭損毀一事召見俄羅斯大使館臨時代辦。"
+    },
+    {
+      "id": "5007332",
+      "time": "2026-07-24 22:58:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數上漲0.2%，觸及盤中高點。"
+    },
+    {
+      "id": "5007331",
+      "time": "2026-07-24 22:57:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國總理宣佈改組聯邦政府】德國總理默茨24日宣佈改組聯邦政府，調整多名內閣及執政黨重要職務人選。默茨當天宣佈，現任衛生部長尼娜·瓦爾肯將出任聯邦總理府部長，現任基民盟秘書長卡斯滕·林內曼將接任衛生部長。現任數字化和國家現代化部國務秘書菲利普·阿姆托爾將進入總理府，出任負責聯邦與各州合作事務的國務部長。默茨說，他已與基社盟主席馬庫斯·澤德達成一致，提名現任總理府部長托爾斯滕·弗賴擔任聯盟黨（由基民盟、基社盟組成）聯邦議院黨團新任主席。（新華社）"
+    },
     {
       "id": "5007330",
       "time": "2026-07-24 22:56:45",
