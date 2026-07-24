@@ -1,7 +1,96 @@
 {
   "date": "2026-07-24",
-  "count": 735,
+  "count": 745,
   "items": [
+    {
+      "id": "mkt:019f91b1-4687-7aab-8e76-9b7be40ea0e6",
+      "time": "2026-07-24 09:15:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 1.23% at 24,899, trading 305 points below the spot index."
+    },
+    {
+      "id": "mkt:019f91b1-3e22-7aab-8e76-90338600d44b",
+      "time": "2026-07-24 09:15:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China vice foreign minister Ma Zhaoxu visits U.S.】July 22-23, 2026 — China Vice Foreign Minister Ma Zhaoxu met in the U.S. with Deputy Secretary of State Lando, White House NSC Senior Director for Asia Kanapathy and Deputy Defense Secretary Colby, and held exchanges with members of both houses of Congress. Discussions focused on implementing the leaders' important consensus and advancing a constructive China‑U.S. strategic-stability relationship."
+    },
+    {
+      "id": "5005651",
+      "time": "2026-07-24 09:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7939元，較上日調低33點。"
+    },
+    {
+      "id": "5005650",
+      "time": "2026-07-24 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌1.25%，報24885.41點，低水325.40點。"
+    },
+    {
+      "id": "mkt:019f91af-d2aa-7aab-8e76-8aeaed238033",
+      "time": "2026-07-24 09:14:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Soda ash most-active contract fell below 1,000 yuan/ton again, down 0.99% on the day."
+    },
+    {
+      "id": "5005649",
+      "time": "2026-07-24 09:14:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部副部長馬朝旭訪問美國】2026年7月22日至23日，外交部副部長馬朝旭應邀訪問美國，同美國常務副國務卿蘭多舉行磋商，會見白宮國安會亞洲事務高階主任卡納帕蒂、國防部副部長科爾比，同國會參眾兩院議員交流，就落實中美兩國元首重要共識、推動構建中美建設性戰略穩定關係深入交換意見。"
+    },
+    {
+      "id": "5005648",
+      "time": "2026-07-24 09:13:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿拉斯加阿達克東南偏南94公里處發生5.0級地震。"
+    },
+    {
+      "id": "5005647",
+      "time": "2026-07-24 09:13:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1249.55美元/盎司。"
+    },
+    {
+      "id": "mkt:019f91ae-b746-7aab-8e76-8513c7ab24c1",
+      "time": "2026-07-24 09:12:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported an explosion in the Taft district of Yazd province in central Iran."
+    },
+    {
+      "id": "5005646",
+      "time": "2026-07-24 09:12:33",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【凱投宏觀：日本7月PMI表明該國經濟未受石油衝擊影響】凱投宏觀亞洲首席經濟學家Marcel Thieliant表示，日本採購經理人指數(PMI)初值資料表明，該國經濟繼續擺脫能源成本衝擊的影響。他補充說，該報告表明日本經濟保持韌性，並且依然預示著通脹將急劇加速。他表示，7月份綜合PMI從52.8微升至53.1的四個月高點，這與約1.5%的高於趨勢水平的GDP增長率相一致。Thieliant補充說，這一改善很難解釋，因為服務業和製造業PMI均有所疲軟。他說，這可能是因為日本終於開始受益於對人工智慧相關產品更強勁的需求。"
+    },
     {
       "id": "5005645",
       "time": "2026-07-24 09:11:51",

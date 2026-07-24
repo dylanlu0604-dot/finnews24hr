@@ -1,7 +1,96 @@
 {
-  "updated": "2026-07-24 09:12:28",
-  "count": 18018,
+  "updated": "2026-07-24 09:16:29",
+  "count": 18021,
   "items": [
+    {
+      "id": "mkt:019f91b1-4687-7aab-8e76-9b7be40ea0e6",
+      "time": "2026-07-24 09:15:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 1.23% at 24,899, trading 305 points below the spot index."
+    },
+    {
+      "id": "mkt:019f91b1-3e22-7aab-8e76-90338600d44b",
+      "time": "2026-07-24 09:15:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China vice foreign minister Ma Zhaoxu visits U.S.】July 22-23, 2026 — China Vice Foreign Minister Ma Zhaoxu met in the U.S. with Deputy Secretary of State Lando, White House NSC Senior Director for Asia Kanapathy and Deputy Defense Secretary Colby, and held exchanges with members of both houses of Congress. Discussions focused on implementing the leaders' important consensus and advancing a constructive China‑U.S. strategic-stability relationship."
+    },
+    {
+      "id": "5005651",
+      "time": "2026-07-24 09:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7939元，較上日調低33點。"
+    },
+    {
+      "id": "5005650",
+      "time": "2026-07-24 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌1.25%，報24885.41點，低水325.40點。"
+    },
+    {
+      "id": "mkt:019f91af-d2aa-7aab-8e76-8aeaed238033",
+      "time": "2026-07-24 09:14:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Soda ash most-active contract fell below 1,000 yuan/ton again, down 0.99% on the day."
+    },
+    {
+      "id": "5005649",
+      "time": "2026-07-24 09:14:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部副部長馬朝旭訪問美國】2026年7月22日至23日，外交部副部長馬朝旭應邀訪問美國，同美國常務副國務卿蘭多舉行磋商，會見白宮國安會亞洲事務高階主任卡納帕蒂、國防部副部長科爾比，同國會參眾兩院議員交流，就落實中美兩國元首重要共識、推動構建中美建設性戰略穩定關係深入交換意見。"
+    },
+    {
+      "id": "5005648",
+      "time": "2026-07-24 09:13:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿拉斯加阿達克東南偏南94公里處發生5.0級地震。"
+    },
+    {
+      "id": "5005647",
+      "time": "2026-07-24 09:13:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1249.55美元/盎司。"
+    },
+    {
+      "id": "mkt:019f91ae-b746-7aab-8e76-8513c7ab24c1",
+      "time": "2026-07-24 09:12:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported an explosion in the Taft district of Yazd province in central Iran."
+    },
+    {
+      "id": "5005646",
+      "time": "2026-07-24 09:12:33",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【凱投宏觀：日本7月PMI表明該國經濟未受石油衝擊影響】凱投宏觀亞洲首席經濟學家Marcel Thieliant表示，日本採購經理人指數(PMI)初值資料表明，該國經濟繼續擺脫能源成本衝擊的影響。他補充說，該報告表明日本經濟保持韌性，並且依然預示著通脹將急劇加速。他表示，7月份綜合PMI從52.8微升至53.1的四個月高點，這與約1.5%的高於趨勢水平的GDP增長率相一致。Thieliant補充說，這一改善很難解釋，因為服務業和製造業PMI均有所疲軟。他說，這可能是因為日本終於開始受益於對人工智慧相關產品更強勁的需求。"
+    },
     {
       "id": "5005645",
       "time": "2026-07-24 09:11:51",
@@ -165076,67 +165165,6 @@
         "其他"
       ],
       "text": "【京東：每年投入超百億元為全職騎手、快遞小哥等繳納五險一金】7月17日，京東宣佈，每年投入超百億元為全職騎手、快遞小哥等繳納五險一金。"
-    },
-    {
-      "id": "4993190",
-      "time": "2026-07-17 09:15:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.7934，較上日調低25點】人民幣兌美元中間價報6.7934，較上日調低25點。"
-    },
-    {
-      "id": "4993189",
-      "time": "2026-07-17 09:15:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內跌2%，現報919.00元。"
-    },
-    {
-      "id": "4993188",
-      "time": "2026-07-17 09:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤跌0.30%，報24915.00點，低水93.60點。"
-    },
-    {
-      "id": "mkt:019f6da3-6666-7aab-8dd4-bfdbe4696dfb",
-      "time": "2026-07-17 09:14:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Container shipping index (Europe route) front-month contract intraday gain widened to 4.00%, now at 2671.0 points."
-    },
-    {
-      "id": "4993187",
-      "time": "2026-07-17 09:14:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報2671.00點。"
-    },
-    {
-      "id": "4993186",
-      "time": "2026-07-17 09:13:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【五糧液普五八代領跌 白酒大單品總價連續四日重新整理近四個月新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月17日整體繼續微幅回落，深陷低位連創新低。如果主要單品各取一瓶整體打包售賣，今日總售價為9806元，較昨日小幅下跌4元，連續第六天回落，並連續四日重新整理今年3月22日以來最低。五糧液普五八代跌至776元/瓶，再創“酒價內參”自去年11月有統計以來最低。縱觀全場，核心單品的漲跌分化依然顯著，終端交投量能基本穩定，總價低位震盪下行態勢延續。今日11大白酒單品七漲四跌，贏家數量佔據明顯優勢，但輸家跌幅更具壓制力。上漲方面，國窖1573漲幅居前，上漲5元/瓶，終結此前三連跌；飛天茅臺、五糧液1618、青花汾20、洋河夢之藍M6+與習酒君品均上漲2元/瓶，飛天茅臺回補昨日全部跌幅，但仍處於近四個月次低位；五糧液1618連續兩日回升，重新站上820元關口；青花汾20自近半月低位修復，重返370元關口上方；洋河夢之藍M6+自昨日創下的近一月最低位小幅反彈，但仍處於590元關口下方；習酒君品收復昨日全部失地，重返630元關口。精品茅臺小幅上漲1元/瓶，連續兩日回升，進一步向2400元關口靠近。下跌方面，五糧液普五八代跌幅居前，下跌7元/瓶，四日累計下跌23元/瓶，價格快速下探跌至776元/瓶，再創“酒價內參”自去年11月有統計以來最低；古井貢古20與青花郎均下跌6元/瓶，其中前者再度逼近530元關口；後者再度失守690元關口。水晶劍南春小幅下跌1元/瓶，昨日反彈後弱勢回落。"
-    },
-    {
-      "id": "te:markets:567686",
-      "time": "2026-07-17 09:13:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Rises to 2-Month High — Heating oil futures in the US rose above $4.0 per gallon, hitting their highest level in two months, as escalating tensions in the Middle East deepened concerns over global supplies of refined fuels. The collapse of the US-Iran truce and renewed tanker attacks in the Strait of Hormuz raised fears of disruptions to fuel shipments from the Persian Gulf, while Ukrainian strikes on Russia's largest refineries continued to curb diesel exports. Seasonal refinery maintenance and years of refinery closures in the US and Europe further tightened the supply outlook. The tightening backdrop lifted US refining margins to record highs, while European diesel refining margins climbed to their highest level since at least 2011, underscoring the global shortage of refined fuels. Still, EIA data showed distillate fuel inventories rose by 4.6 million barrels in the week ending July 19, nearly offsetting the previous week's draw."
     }
   ]
 }
