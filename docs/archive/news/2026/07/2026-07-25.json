@@ -1,7 +1,27 @@
 {
   "date": "2026-07-25",
-  "count": 338,
+  "count": 340,
   "items": [
+    {
+      "id": "5007579",
+      "time": "2026-07-25 04:33:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：黑石擔保借貸基金聯合執行長辭職。"
+    },
+    {
+      "id": "te:markets:569846",
+      "time": "2026-07-25 04:32:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises as Bond Yields Ease — The S&P/TSX Composite Index rose 0.5% to close at 35,369 on Friday, supported by gains in financial, mining, and technology stocks. The pause in the oil rally eased energy-driven inflation concerns, pushing bond yields lower and supporting financials and the broader market. TD Bank gained 0.7%, while BMO and Scotiabank each added 0.7%, CIBC rose 0.9%, and Brookfield advanced 1.2%. Gold prices edged higher, lifting miners, with Agnico Eagle up 0.7% and WPM gaining 1.5%. In technology, Shopify climbed 1.6% and Constellation Software rose 4%, while Celestica tumbled 8.7%, tracking a selloff in US chipmakers. Energy stocks declined as oil prices pulled back from recent highs, with Canadian Natural down 1.1% and Suncor losing 0.7%. Cenovus fell 1.4% ahead of the release of its earnings report due July 29th."
+    },
     {
       "id": "5007578",
       "time": "2026-07-25 04:28:06",

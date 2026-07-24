@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-25 04:30:56",
-  "count": 18223,
+  "updated": "2026-07-25 04:34:51",
+  "count": 18220,
   "items": [
+    {
+      "id": "5007579",
+      "time": "2026-07-25 04:33:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：黑石擔保借貸基金聯合執行長辭職。"
+    },
+    {
+      "id": "te:markets:569846",
+      "time": "2026-07-25 04:32:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises as Bond Yields Ease — The S&P/TSX Composite Index rose 0.5% to close at 35,369 on Friday, supported by gains in financial, mining, and technology stocks. The pause in the oil rally eased energy-driven inflation concerns, pushing bond yields lower and supporting financials and the broader market. TD Bank gained 0.7%, while BMO and Scotiabank each added 0.7%, CIBC rose 0.9%, and Brookfield advanced 1.2%. Gold prices edged higher, lifting miners, with Agnico Eagle up 0.7% and WPM gaining 1.5%. In technology, Shopify climbed 1.6% and Constellation Software rose 4%, while Celestica tumbled 8.7%, tracking a selloff in US chipmakers. Energy stocks declined as oil prices pulled back from recent highs, with Canadian Natural down 1.1% and Suncor losing 0.7%. Cenovus fell 1.4% ahead of the release of its earnings report due July 29th."
+    },
     {
       "id": "5007578",
       "time": "2026-07-25 04:28:06",
@@ -166948,49 +166968,6 @@
         "國際"
       ],
       "text": "市場訊息：美國和墨西哥將在墨西哥城舉行會議，審查美墨加協定。"
-    },
-    {
-      "id": "4995079",
-      "time": "2026-07-18 04:34:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：TXNM 能源與黑石基礎設施集團延長合併協議。"
-    },
-    {
-      "id": "mkt:019f71c9-3f02-7aab-8deb-b7d4f2f12716",
-      "time": "2026-07-18 04:34:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US media: Washington to send dozens more refueling tankers to Israel】US media report the US has notified Israel it will deploy dozens more air-to-air refueling tankers and may broaden military action against Iran. Axios, citing Israeli officials, said Washington wants the additional tankers in the coming days to restore numbers to levels seen at the start of US-Israeli operations against Iran in late February. The US has asked Israel to accept the deployments; Prime Minister Netanyahu will make the final decision. About 30 US tankers are parked at Ben Gurion near Tel Aviv and a similar number at Ramon in southern Israel. Axios added President Trump appears inclined to escalate to force Iran to reopen the Strait of Hormuz and accept US demands on its nuclear program, and US and Israeli officials said Trump could order an escalation in coming days."
-    },
-    {
-      "id": "4995078",
-      "time": "2026-07-18 04:33:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：委內瑞拉地震死亡人數超過5000人。"
-    },
-    {
-      "id": "4995077",
-      "time": "2026-07-18 04:32:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱重啟對伊朗海上封鎖三天內攔截6艘船隻】當地時間7月17日，美國中央司令部表示，美軍正在嚴格執行針對伊朗的海上封鎖，並保持高度警戒。美國中央司令部稱，自14日恢復對伊朗實施海上封鎖的三天內，美軍已迫使4艘商業船隻改變航向，使1艘船隻失去行動能力，並登上另1艘船進行檢查，以確保其完全遵守封鎖規定。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f71c7-4791-7aab-8deb-af5ec59761b5",
-      "time": "2026-07-18 04:31:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Iran supreme leader military adviser says US-Iran memorandum effectively dead】On the 17th, Mohsen Rezaei, military adviser to Iran’s supreme leader, said the US violated the US‑Iran memorandum of understanding, rendering it effectively defunct. He accused US forces of mounting large-scale, hybrid strikes on infrastructure in southern Iran. Rezaei said Iran has already widened the scope of its response after recent US attacks and warned that continued US strikes over the coming days would prompt a shift from “deterrence and retaliation” to a “full offensive and destruction” phase, with bases and troops outside US territory becoming direct targets. He added Iran’s strikes will intensify in the coming days."
     }
   ]
 }
