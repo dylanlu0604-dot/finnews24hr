@@ -1,7 +1,98 @@
 {
   "date": "2026-07-24",
-  "count": 599,
+  "count": 609,
   "items": [
+    {
+      "id": "mkt:019f9175-d763-7aab-8e75-caf5624f21ee",
+      "time": "2026-07-24 08:10:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's first commercial space-debris monitoring satellite reaches orbit】At 07:33 on July 24, Zhongke Yuhang's Lijian-1 carrier rocket launched from the Dongfeng Commercial Space Innovation Test Zone, inserting five satellites — including the LX630 constellation's inaugural Gande-1 01 — into their planned orbits in a multi-satellite mission. Gande-1 01, co-developed by Liangxi Aerospace Technology Group and Aotian Technology, is China's first commercial space debris-monitoring satellite. Its solar arrays deployed normally and attitude is stable. The launch initiates deployment of the Aotian Gande LX630 constellation."
+    },
+    {
+      "id": "mkt:019f9175-bc10-7aab-8e75-c3ce7c65ab69",
+      "time": "2026-07-24 08:10:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Australia's S&P/ASX 200 opened down 56.10 points (-0.63%) at 8,782.90 on Friday, July 24."
+    },
+    {
+      "id": "5005558",
+      "time": "2026-07-24 08:10:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞豐光電：基於公司重要在研專案Micro LED研究程序 可實現短距離光通訊場景應用】瑞豐光電近日接受機構調研時表示，基於公司重要在研專案Micro LED研究程序，可實現短距離光通訊場景應用，推薦有效範圍在十米之內，主要適用於兩個場景：一是機櫃內部，用於機櫃內的短距離資料傳輸，同樣適配十米內的通訊需求；二是汽車內部，用於車內所有預控通訊，如主機與座椅安全、智控攝像頭、顯示器等裝置間的通訊，該光通訊產品尚在開發程序中。"
+    },
+    {
+      "id": "mkt:019f9174-ba79-7aab-8e75-bd6367ff2161",
+      "time": "2026-07-24 08:09:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell as much as 2.00% intraday."
+    },
+    {
+      "id": "5005557",
+      "time": "2026-07-24 08:09:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國內首顆商業空間碎片監測衛星成功入軌】7月24日7時33分，中科宇航力箭一號運載火箭在東風商業航天創新試驗區成功發射，以一箭多星模式，將甘德星座一期LX630首發星——甘德一號01星等5顆衛星精準送入預定軌道，發射任務圓滿成功。甘德一號01星是梁溪空天科技集團與遨天科技合作共建的LX630星座系統首發星，也是國內首顆商業空間碎片監測衛星。衛星入軌後太陽帆板展開正常，姿態穩定，發射任務取得圓滿成功。此次首發星成功發射，標誌著遨天甘德星座組網建設正式拉開序幕。"
+    },
+    {
+      "id": "mkt:019f9174-5aac-7aab-8e75-b2f63e96d941",
+      "time": "2026-07-24 08:09:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "YONHAP: South Korea will extend fuel tax relief measures through end-September."
+    },
+    {
+      "id": "5005556",
+      "time": "2026-07-24 08:09:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家海洋預報臺7月24日08時釋出海浪黃色警報：受今年第12號颱風“紅霞”（熱帶風暴級）的影響，預計：7月24日傍晚到25日上午，南海東北部將出現5到7米的巨浪到狂浪區，臺灣海峽將出現3到5米的大浪到巨浪區，近海海域海浪預警級別為黃色。"
+    },
+    {
+      "id": "mkt:019f9173-d125-7aab-8e75-ae7aa6c6be32",
+      "time": "2026-07-24 08:08:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "On July 24, the China Coast Guard lawfully imposed control measures on multiple Philippine vessels accused of conducting illegal activities in waters under the jurisdiction of China’s Huangyan Island (Scarborough Shoal)."
+    },
+    {
+      "id": "5005555",
+      "time": "2026-07-24 08:08:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數下跌2%，至65071.47點。"
+    },
+    {
+      "id": "mkt:019f9173-9f30-7aab-8e75-a188814abd83",
+      "time": "2026-07-24 08:08:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Koreans skeptical of single-stock leveraged ETFs; 63.7% say introduction was 'wrong decision'】Pollster Realmeter surveyed 504 South Korean adults on July 22. 63.7% said the planned introduction of single-stock leveraged ETFs was a \"wrong decision\" (41.2% \"very wrong\", 22.5% \"generally wrong\"); 19.0% said it was correct and 17.4% were unsure. 59.2% judged Korean financial regulators' supplementary measures announced on July 16 to be insufficient. Top-supported additional steps were limiting daily trade frequency (24.1%), sharply raising underlying margin requirements (22.2%), sharply raising minimum trading units (21.5%) and extending mandatory investor-education time (10.6%)."
+    },
     {
       "id": "5005554",
       "time": "2026-07-24 08:07:36",
