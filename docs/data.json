@@ -1,7 +1,210 @@
 {
-  "updated": "2026-07-24 14:57:39",
-  "count": 17926,
+  "updated": "2026-07-24 15:02:22",
+  "count": 17925,
   "items": [
+    {
+      "id": "mkt:019f92ed-4012-7aab-8e7d-67749cc5e27e",
+      "time": "2026-07-24 15:00:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed",
+        "SSE Composite"
+      ],
+      "text": "China's Supreme People's Court and Supreme People's Procuratorate jointly amended judicial interpretations to step up enforcement and increase penalties for insider trading and unlawful disclosure of inside information."
+    },
+    {
+      "id": "mkt:019f92ec-eecb-7aab-8e7d-5c52c045cced",
+      "time": "2026-07-24 15:00:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spain June PPI YoY 7.0% (prior 10.5%)."
+    },
+    {
+      "id": "mkt:019f92ec-e1ff-7aab-8e7d-51b0c9a1473e",
+      "time": "2026-07-24 15:00:25",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Spain June PPI MoM 0.0%; May 1.0%."
+    },
+    {
+      "id": "5006145",
+      "time": "2026-07-24 15:00:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“兩高”修改司法解釋 加大力度懲治內幕交易、洩露內幕資訊犯罪】今天（24日），最高人民法院、最高人民檢察院聯合釋出《關於修改〈最高人民法院、最高人民檢察院關於辦理內幕交易、洩露內幕資訊刑事案件具體應用法律若干問題的解釋〉的決定》（法釋〔2026〕13號），自2026年7月27日起施行。（央視新聞）"
+    },
+    {
+      "id": "5006144",
+      "time": "2026-07-24 15:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌2%，現報90.34美元/桶。"
+    },
+    {
+      "id": "mkt:019f92ec-d5ea-7aab-8e7d-4f90db292d15",
+      "time": "2026-07-24 15:00:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Producer Price Index (YoY) (Jun) | actual 7% | previous 10.50%"
+    },
+    {
+      "id": "mkt:019f92ec-c75f-7aab-8e7d-4332626dadf6",
+      "time": "2026-07-24 15:00:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Producer Price Index (MoM) (Jun) | actual 0% | previous 1.00%"
+    },
+    {
+      "id": "5006142",
+      "time": "2026-07-24 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤普跌，德國DAX指數跌1.56%，英國富時100指數跌0.73%，法國CAC40指數跌1.64%，歐洲斯托克50指數跌1.69%，義大利富時MIB指數跌2.8%。"
+    },
+    {
+      "id": "5006141",
+      "time": "2026-07-24 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】鈀連續跌5.46%，上海原油連續漲4.52%，鉑連續跌4.09%，白銀連續跌3.92%，菜粕連續漲3.79%，乙二醇連續漲3.55%。"
+    },
+    {
+      "id": "5006140",
+      "time": "2026-07-24 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌2.67%， 滬深300指數期貨連續跌1.73%， 中證500指數期貨連續跌2.35%， 上證50指數期貨連續跌1.28%。"
+    },
+    {
+      "id": "5006139",
+      "time": "2026-07-24 14:59:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中國人壽回應減持兆易創新】中國人壽7月20日披露，該公司名下8個單一資管計劃於7月8日同日賣出兆易創新約110.97萬股，變現約6.82億元，賣出均價611.46——624.61元/股。該股票二季度末曾觸及846.66元/股高點，7月24日午間收盤價報447.00元/股，較高點回撥超四成。7月24日，中國人壽相關業務負責人回應記者稱，公司的股票管理人對二級市場個股增持或減持，屬於常態化投資行為，均基於投資配置需要。（上證報）"
+    },
+    {
+      "id": "mkt:019f92ec-283b-7aab-8e7d-3af05e58d2e5",
+      "time": "2026-07-24 14:59:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude dropped below $91/barrel, down 1.94% on the day; Brent slipped 1.6% to $93.41/barrel."
+    },
+    {
+      "id": "5006138",
+      "time": "2026-07-24 14:59:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "新加坡貿工部：將繼續與美國貿易代表辦公室保持溝通。"
+    },
+    {
+      "id": "5006137",
+      "time": "2026-07-24 14:59:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "新加坡：藥品和晶片免徵12.5%的美國關稅。"
+    },
+    {
+      "id": "te:markets:569637",
+      "time": "2026-07-24 14:59:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Ends Week Lower as Tech, Gold Miners Slide — Australia's ASX 200 dropped 67 points, or 0.75%, to finish at 8,772 on Friday, reversing gains from the previous three sessions as weakness spread across tech, consumer durables, non-energy minerals, and healthcare. Sentiment soured after Wall Street’s sharp tech sell-off the night before. For the week, the index shed 0.3%, marking a third consecutive weekly decline, with strong June jobs data reinforcing expectations of further tightening by the Reserve Bank after three hikes this year. Inflation figures for June and Q2, due next week, remain in focus amid persistent price concerns. Tech leaders Xero (-4.5%), Wisetech Global (-4.6%), and Megaport (-3.3%) led losses, while gold miners Northern Star (-3.9%) and Evolution (-2.4%) also retreated. In contrast, the big four banks advanced between 1.0% and 1.5%. Energy stocks also firmed as oil surged past USD 100 following U.S. President Donald Trump’s warning of “major military punishment” against Iran after Houthi-linked tanker attacks."
+    },
+    {
+      "id": "5006136",
+      "time": "2026-07-24 14:58:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【優機股份尾盤下挫 跌超12%】優機股份今天尾盤下挫，截至發稿，跌幅超過12%。"
+    },
+    {
+      "id": "5006135",
+      "time": "2026-07-24 14:58:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國盛證券：維持華勤技術“買入”評級，超節點與交換機卡位優越】國盛證券研報指出，華勤技術超節點+交換機雙輪驅動資料中心高增長。伴隨行業競爭重心從單晶片效能轉向叢集系統綜合排程效率，AI正式邁入算力“系統時代”，疊加《超節點定義與實踐白皮書》於7月19日正式釋出、行業統一標準落地確立全新基建正規化，多重產業訊號共振預示超節點即將迎來放量元年。超節點對交換機效能提出代際躍升要求，埠速率正從100Gbps、200Gbps向400Gbps、800Gbps快速迭代，海內外廠商全面加碼高階智算交換機賽道，硬體規格全面迭代開啟高速交換機長期增量空間。公司覆蓋資料中心全棧解決方案，超節點與交換機卡位優越。考慮到公司上調資料中心整體收入指引，上修預期，維持“買入”評級。"
+    },
+    {
+      "id": "5006134",
+      "time": "2026-07-24 14:57:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【理想汽車公佈網路侵權維權工作進展】7月24日，理想汽車法務部發文稱，針對近期多起涉及理想汽車的不實資訊傳播及惡意侵權行為，公司持續透過法律途徑維護合法權益，現將部分處理進展說明如下："
+    },
+    {
+      "id": "te:markets:569635",
+      "time": "2026-07-24 14:57:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "UK Natural Gas Hovers at 4-Month High — UK natural gas prices climbed back to above 150 pence per therm on Friday, hovering at a four-month high, amid concerns over Europe’s LNG supply security as US-Iran fighting intensifies. The US carried out its 13th consecutive night of strikes on Iran, with President Donald Trump warning Tehran and its Houthi allies in Yemen of “major military punishment” if the group launches further attacks on vessels in the Red Sea. UK gas prices have risen over 9% so far this week and surged more than 44% so far in July, as curtailed LNG flows from the Persian Gulf intensified competition with Asian buyers, while hot weather across Europe boosted electricity demand for cooling. These factors are making it more challenging for Europe to replenish its gas storage facilities ahead of winter. Equinor, Europe’s largest gas supplier, said the bloc is unlikely to reach its 80% storage target before the heating season, leaving the market more vulnerable to sharp price swings when colder weather arrives."
+    },
+    {
+      "id": "mkt:019f92ea-05dd-7aab-8e7d-350ba84d5ac7",
+      "time": "2026-07-24 14:57:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Commodities",
+        "Energy",
+        "USDJPY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Economist: Upside risks to Japan inflation intensify】Okasan Securities economist Ko Nakayama said yen weakness and a rebound in crude oil have increased cost pressures and left upside risks to Japan's inflation outlook high. He said current price gains reflect multiple drivers — rising oil and napatha prices, higher wages, a weaker yen and rising raw-material and logistics costs. Government data on Friday showed a modest rebound in June consumer inflation; BOJ policymakers have said oil-driven effects are likely to feed into consumer prices around summer."
+    },
     {
       "id": "mkt:019f92e9-133b-7aab-8e7d-2dbdb0b3e306",
       "time": "2026-07-24 14:56:16",
@@ -251,6 +454,15 @@
         "市場"
       ],
       "text": "【兆易創新A股成交額超200億元】7月24日下午，兆易創新A股成交額超200億元，現漲1.31%。"
+    },
+    {
+      "id": "5006112",
+      "time": "2026-07-24 14:44:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行公佈新版歐元紙幣入圍設計方案】歐洲中央銀行23日公佈計劃發行的新版歐元紙幣10份入圍設計方案，並開啟線上調查，徵求民眾意見。新版歐元紙幣包括5歐元、10歐元、20歐元、50歐元、100歐元和200歐元面值。歐洲央行此前已敲定兩個設計主題，分別是“歐洲文化”和“河流與鳥類”。此次每個主題各公佈了5份入圍設計方案，紙幣正面分別出現科學家居里夫人、音樂家貝多芬、藝術家達·芬奇等歐洲知名人物以及翠鳥、白鸛等鳥類形象。紙幣背面則是歐洲央行等歐洲重要機構及圍繞自然或公共生活主題的藝術、科學等場景。（新華社）"
     },
     {
       "id": "5006111",
@@ -164089,201 +164301,6 @@
         "其他"
       ],
       "text": "瑞士政府表示將擴大彈藥採購方面的國際合作。"
-    },
-    {
-      "id": "4993772",
-      "time": "2026-07-17 15:02:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "沃爾沃汽車第二季度業績不及預期，取消銷售增長目標，股價下跌8%。"
-    },
-    {
-      "id": "4993771",
-      "time": "2026-07-17 15:02:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "大眾汽車工會宣告：夏季休會後，將與執行長布魯姆召集特別員工大會。"
-    },
-    {
-      "id": "4993770",
-      "time": "2026-07-17 15:01:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【收評：創業板指震盪走低大跌7.15%，全市場近170只個股跌停】A股三大指數今日集體下跌，截至收盤，上證指數跌3.05%，深證成指跌5.4%，創業板指跌7.15%，北證50跌2.31%，科創50指數跌7.12%。全市場成交額26716億元，較上日放量2527億元，全市場超5000只個股下跌。板塊題材上，電力、銀行板塊上漲；半導體、CPO、CRO概念、元件、儲存晶片板塊跌幅居前。盤面上，電力板塊低開高走，樂山電力、華銀電力、贛能股份、深南電A等股漲停，珈偉新能漲超10%。銀行板塊展現韌性，建設銀行、中國銀行、工商銀行、農業銀行漲幅居前。半導體板塊重挫，兆易創新、大為股份、德明利、華天科技等多股跌停，超五十隻個股跌超10%。CRO概念板塊大幅回撥，昭衍新藥、百誠醫藥、百奧賽圖等多股跌停，皓元醫藥、泓博醫藥、益諾思等多股跌超10%。光纖概念板塊亦持續下挫，長光華芯、長飛光纖、光迅科技、中興通訊、長江通訊等多股跌停，炬光科技、鼎通科技、天孚通訊等多股跌超10%。"
-    },
-    {
-      "id": "4993769",
-      "time": "2026-07-17 15:01:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國防部：願與東盟國家一道為共建“五大家園”貢獻智慧力量】7月17日下午，國防部新聞發言人蔣斌大校就近期涉軍問題釋出訊息。 記者：近期第四屆中國—東盟防務智庫交流活動在雲南昆明舉行，請進一步介紹有關情況。 蔣斌：7月8日至10日，第四屆中國—東盟防務智庫交流活動在雲南昆明成功舉辦。本次活動以“踐行亞洲安全模式：中國東盟攜手應對世界變局”為主題，議題涵蓋區域爭端解決的亞洲正規化、海上安全與海洋命運共同體建設、以務實合作增強戰略互信、面向未來的防務安全合作等。來自中國和東盟11國的約150位防務官員、智庫學者出席。各方代表普遍認為，“安危與共、求同存異、對話協商”的亞洲安全模式摒棄零和博弈的傳統安全觀，追求共同安全，對凝聚各國安全共識、維護亞太地區和平穩定具有重要意義；越是國際風雲變幻，地區各國越要把穩合作之舵、同築共贏之路。 今年是中國—東盟建立對話關係35週年，也是雙方建立全面戰略伙伴關係5週年。我們願與東盟國家一道，堅守和平這一最大的共同利益，堅持對話不對抗，結伴不結盟，攜手應對各類安全挑戰，為共建和平、安寧、繁榮、美麗、友好的“五大家園”貢獻智慧與力量。"
-    },
-    {
-      "id": "4993768",
-      "time": "2026-07-17 15:01:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱美軍襲擊其基礎設施致8死20傷】據伊朗方面當地時間17日訊息，美軍於16日晚至17日凌晨襲擊伊朗部分省份的基礎設施，已造成8人死亡、20人受傷。（央視新聞）"
-    },
-    {
-      "id": "te:markets:567790",
-      "time": "2026-07-17 15:01:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Deutsche Telekom Stock Price Hits 4-week High — Deutsche Telekom shares increased to 26.89 EUR, the highest since June 2026. Over the past 4 weeks, Deutsche Telekom lost 0.57%, and in the last 12 months, it decreased 12.49%."
-    },
-    {
-      "id": "4993767",
-      "time": "2026-07-17 15:01:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數跌3.05%，深證成指跌5.40%，創業板指跌7.15%。"
-    },
-    {
-      "id": "4993766",
-      "time": "2026-07-17 15:00:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF收評：電力ETF領漲2.63%，科創成長ETF領跌10.84%】ETF收盤漲跌不一，電力ETF（560580）領漲2.63%，標普油氣ETF（513350）漲2.21%，電力ETF（159611）漲2.18%，科創成長ETF（588020）領跌10.84%，科創晶片設計ETF（589400）跌10.78%，科創成長ETF（588070）跌10.72%。"
-    },
-    {
-      "id": "4993765",
-      "time": "2026-07-17 15:00:35",
-      "tags": [
-        "宏觀",
-        "市場",
-        "焦點"
-      ],
-      "text": "【油價今晚要上調 加滿一箱油要多花12元】7月17日，央視財經記者從國家發展改革委獲悉，今日24時國內成品油調價視窗將開啟。據國家發展改革委價格監測中心監測，本輪成品油調價週期內（7月3日24時——7月17日24時），國際油價震盪上漲。7月17日24時起，國內汽、柴油零售限價每噸分別上調300元和290元。全國平均來看，92號汽油、95號汽油和0號柴油每升分別上調0.24元、0.25元、0.25元。央視財經記者給您算了一筆賬，本輪成品油零售限價上調確認後，私家車單次加滿一箱50L的92號汽油，將多花12元。 （央視財經）"
-    },
-    {
-      "id": "mkt:019f6ee0-9b9f-7aab-8ddd-3546854ed1fd",
-      "time": "2026-07-17 15:00:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Azerbaijan State Statistical Committee: GDP grew 0.8% in January–June."
-    },
-    {
-      "id": "4993764",
-      "time": "2026-07-17 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】鈀連續跌5.74%，鉑連續跌5.01%，玻璃連續跌4.16%，集運指數歐線期貨連續漲4.07%，PVC連續跌3.71%。"
-    },
-    {
-      "id": "4993763",
-      "time": "2026-07-17 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌6.47%， 滬深300指數期貨連續跌3.50%， 中證500指數期貨連續跌6.05%， 上證50指數期貨連續跌2.46%。"
-    },
-    {
-      "id": "4993762",
-      "time": "2026-07-17 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤漲跌不一，德國DAX指數跌0.34%，英國富時100指數漲0.54%，法國CAC40指數跌0.05%，歐洲斯托克50指數漲0.29%，義大利富時MIB指數跌0.07%。"
-    },
-    {
-      "id": "mkt:019f6ee0-7cc4-7aab-8ddd-2eaecf71b65b",
-      "time": "2026-07-17 15:00:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japanese Prime Minister Takaichi said that under current guidelines the Government Pension Investment Fund (GPIF) has increased domestic allocations via alternative investments, supporting Japan’s economic growth."
-    },
-    {
-      "id": "mkt:019f6ee0-0187-7aab-8ddd-2607b58a6ef2",
-      "time": "2026-07-17 14:59:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israel's 25th Knesset formally dissolved】Early on the 17th local time the Knesset passed an amendment to the party funding law by 62-0 in a third reading; under the law the 25th Knesset is now formally dissolved. Parliament will enter recess and, barring exceptional circumstances, will not hold plenary sessions until the new Knesset is sworn in. The governing coalition had previously announced elections for Oct. 27."
-    },
-    {
-      "id": "4993761",
-      "time": "2026-07-17 14:59:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鉑連續主力合約日內跌5%，現報394.00元。"
-    },
-    {
-      "id": "4993760",
-      "time": "2026-07-17 14:59:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀連續主力合約日內跌6%，現報295.20元。"
-    },
-    {
-      "id": "4993759",
-      "time": "2026-07-17 14:59:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家超算網際網路推出科學智慧體共創計劃】7月17日訊息，2026世界人工智慧大會（WAIC）上，國家超算網際網路推出的“科學計算智慧體生態共創與開發者招募合作計劃”備受業界關注。該計劃為期半年，透過面向高校科研院所、個人開發者及企業研發團隊，廣泛徵集智慧體、科研模型、MCP工具、Skill等創新成果，以構建開放協同的科學智慧生態體系。"
-    },
-    {
-      "id": "4993758",
-      "time": "2026-07-17 14:59:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內跌4%，現報900.00元。"
-    },
-    {
-      "id": "4993757",
-      "time": "2026-07-17 14:59:01",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【國家發改委：自7月17日24時起，國內汽、柴油（標準品）價格每噸分別上調300元、290元】7月3日國內成品油價格調整以來，國際市場原油價格震盪上漲，本次調價的前10個工作日平均價格高於上次調價前10個工作日平均價格。根據國際市場油價變化情況，自7月17日24時起，國內汽、柴油（標準品）價格每噸分別上調300元、290元。"
-    },
-    {
-      "id": "4993756",
-      "time": "2026-07-17 14:58:52",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "日本首相高市早苗：當日元兌美元走弱時，日本政府養老金投資基金（GPIF）會靈活調整投資組合，例如減持海外資產、增持本土資產。"
-    },
-    {
-      "id": "4993755",
-      "time": "2026-07-17 14:57:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：依據現行投資準則，日本政府養老金投資基金（GPIF）已透過另類投資增持本土資產，助力日本經濟增長。"
     }
   ]
 }
