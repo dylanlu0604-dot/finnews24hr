@@ -1,7 +1,93 @@
 {
   "date": "2026-07-25",
-  "count": 281,
+  "count": 289,
   "items": [
+    {
+      "id": "mkt:019f95a7-f426-7aab-8e8f-cddb20693292",
+      "time": "2026-07-25 03:43:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Secretary of State Rubio and Vice President Vance discussed Iran."
+    },
+    {
+      "id": "mkt:019f95a7-bbe1-7aab-8e8f-c0816ebd403d",
+      "time": "2026-07-25 03:43:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Barclays: spot crude may lead the move and could test $150/bbl if sustained for three months."
+    },
+    {
+      "id": "mkt:019f95a7-a7ea-7aab-8e8f-bb118095e3e9",
+      "time": "2026-07-25 03:43:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Barclays: If the current situation persists another 1, 2 or 3 months, Brent faces upside risk of $2, $7 and $10 per barrel, respectively, versus Barclays' 2026 forecast of $96/bbl."
+    },
+    {
+      "id": "mkt:019f95a7-97a8-7aab-8e8f-b49e7cfd246c",
+      "time": "2026-07-25 03:43:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Barclays sees upside risk to its oil-price forecasts, conditional on how long the Strait of Hormuz standoff continues."
+    },
+    {
+      "id": "5007549",
+      "time": "2026-07-25 03:43:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國內政部長：大量資金將流入美國核能企業。"
+    },
+    {
+      "id": "5007548",
+      "time": "2026-07-25 03:41:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們將在核能應用問題上保持克制。"
+    },
+    {
+      "id": "mkt:019f95a5-740a-7aab-8e8f-aa236897a340",
+      "time": "2026-07-25 03:41:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "US President Trump says he is prepared to take escalated military action against Iran."
+    },
+    {
+      "id": "mkt:019f95a4-c7f9-7aab-8e8f-a45036bb4f10",
+      "time": "2026-07-25 03:40:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said he will impose steep tariffs on Canadian tobacco imports."
+    },
     {
       "id": "mkt:019f95a4-a3b2-7aab-8e8f-9fd346f94f6d",
       "time": "2026-07-25 03:40:22",
