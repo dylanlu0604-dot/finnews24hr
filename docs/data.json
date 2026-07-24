@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-24 22:53:54",
-  "count": 18086,
+  "updated": "2026-07-24 22:57:56",
+  "count": 18085,
   "items": [
+    {
+      "id": "5007330",
+      "time": "2026-07-24 22:56:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國麻疹病例創35年新高，2026年累計確診2318例。"
+    },
+    {
+      "id": "mkt:019f949f-fc8c-7aab-8e8a-f6f714957154",
+      "time": "2026-07-24 22:55:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【APEC High-Level AI Forum statement on promoting AI development in the Asia-Pacific】China hosted the APEC High-Level AI Forum in Chengdu on July 24. APEC member economies reaffirmed commitments to deepen exchanges, build consensus, strengthen cooperation and foster innovation in artificial intelligence, and to continue implementing the 2040 APEC Butraguaya Vision, the APEC Internet and Digital Economy Roadmap and the APEC Artificial Intelligence Initiative (2026–2030). Noting diverse needs across economies, members encouraged experience-sharing to advance responsible development and application of AI across the Asia‑Pacific and said AI should help promote greater regional cooperation."
+    },
+    {
+      "id": "5007329",
+      "time": "2026-07-24 22:54:41",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "北京普祺醫藥科技股份有限公司- B向港交所提交上市申請書，聯席保薦人為中信證券、民銀資本。"
+    },
+    {
+      "id": "5007328",
+      "time": "2026-07-24 22:53:52",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【香港貿發局推出最佳化全球網路資源措施】香港貿易發展局（簡稱“貿發局”）24日宣佈，推出最佳化全球網路資源措施，全力協助企業深耕傳統市場，並拓展中亞、中東、北非等高增長市場。 貿發局表示，隨著全球經濟重心逐步向新興市場轉移，以及企業出海步伐加快，貿發局積極最佳化全球資源，以把握高增長市場帶來的機遇。 貿發局主席馬時亨24日在記者會上表示，香港特區行政長官李家超6月率領代表團出訪哈薩克及烏茲別克，為香港企業開啟新大門，並帶來龐大商機。貿發局將積極跟進相關工作，加強哈薩克阿拉木圖顧問辦事處的資源，以提升對中亞地區的支援。（新華社）"
+    },
+    {
+      "id": "mkt:019f949e-0421-7aab-8e8a-ec310b38a454",
+      "time": "2026-07-24 22:53:31",
+      "tags": [
+        "MKT News",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) said the European Union's transparency rules for AI-generated content are a continuation of the general-purpose AI (GPAI) code of conduct signed in 2025."
+    },
     {
       "id": "5007327",
       "time": "2026-07-24 22:53:03",
@@ -194,6 +240,14 @@
         "國際"
       ],
       "text": "【APEC人工智慧高階別論壇關於促進亞太地區人工智慧發展的宣告】 2026年7月24日，中方在四川省成都市主辦APEC人工智慧高階別論壇，論壇主題為“促進人工智慧普惠包容發展”。APEC成員經濟體重申，我們致力於在人工智慧領域深化交流、凝聚共識、加強合作、促進創新，並致力於繼續實施《2040年APEC布特拉加亞願景》、《APEC網際網路和數字經濟路線圖》和《APEC人工智慧倡議（2026—2030）》。\n\n考慮到APEC成員經濟體的多樣化需求，我們鼓勵各經濟體開展經驗分享，推動人工智慧在亞太地區負責任的發展和應用，並期待在以下人工智慧領域促進合作：\n\n促進人工智慧安全發展和部署。我們鼓勵推動安全優先的人工智慧發展，促進旨在應對風險、造福人民的創新。鼓勵各成員經濟體就促進發展可靠、可及、可擴充套件、可信、安全且有韌性的人工智慧基礎設施，以及提升數字基礎設施可及性交流最佳實踐。我們將促進資料跨境流動，這對人工智慧發展至關重要，同時增強消費者和企業信任。\n\n加快人工智慧的負責任普及應用。我們鼓勵以多種形式推進人工智慧賦能經濟發展，為人工智慧融入經濟社會各領域營造有利環境。我們推動面向社會各群體提供可及的教育和培訓資源，提高人工智慧素養和技能。我們認識到，人工智慧在促進貿易、推動海關程式現代化和提升企業競爭力方面的作用日益增強，並鼓勵進一步交流這些領域的最佳實踐，支援經濟增長。\n\n營造有利於人工智慧創新的環境。我們讚賞採取以市場為導向、以創新為驅動的政策，促進人工智慧發展和廣泛應用。我們鼓勵成員經濟體考慮採取兼顧風險應對和負責任應用的人工智慧政策。在尊重安全、資料保護和智慧財產權的同時，我們鼓勵各成員經濟體支援在開發和部署過程中採用強大安全保障措施的開源模型和專案。\n\n推動廣泛參與、普惠共享的APEC合作。我們歡迎加強亞太地區成員經濟體之間的能力建設和知識分享，並透過開放對話和協同行動，包括同公共部門和私營部門開展合作，促進創新和經濟增長。我們將繼續支援所有APEC成員經濟體參與人工智慧驅動型經濟，並使人工智慧最大限度惠及全體民眾。"
+    },
+    {
+      "id": "5007313",
+      "time": "2026-07-24 22:44:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國華能召開進一步深化國企改革部署推進會】7月24日，中國華能集團有限公司召開進一步深化國企改革部署推進會。集團公司董事長、黨組書記溫樞剛出席會議並講話。溫樞剛要求，要準確把握新一輪改革方向，保持改革定力，緊扣重點難點，集中力量攻堅突破，全力推動各項任務一貫到底、落地見效。要聚焦更好履行戰略使命深化改革，推動科技創新和產業創新深度融合，堅持“三個集中”最佳化產業發展佈局和結構調整，更好統籌發展和安全，持續完善主責主業管理，完善分類考核評價體系；要聚焦增強活力動力深化改革，在完善公司治理中加強黨的領導，強化董事會履職責任和能力，持續健全市場化經營機制，加快推動數智賦能，全面提升管理能力；要聚焦破解共性突出問題深化改革，健全完善共性突出問題整治長效機制，著力推進智慧化穿透式監管，鞏固拓展巡視整改成果；要聚焦加強黨的領導深化改革，加強黨對國企改革的全面領導，加強黨風廉政建設，完善高質量黨建工作機制，切實加強組織領導，切實把思想、認識、行動統一到深化改革總體部署上來，以釘釘子精神推動各項改革任務落實落地，以更高標準展現新一輪改革開局之年的新氣象、新作為。"
     },
     {
       "id": "5007312",
@@ -165662,69 +165716,6 @@
         "Important"
       ],
       "text": "USGS reported a magnitude-7.4 earthquake about 71 km west of Puerto Madero, Mexico."
-    },
-    {
-      "id": "4994909",
-      "time": "2026-07-17 22:57:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：墨西哥馬德羅港西南偏西 71 公里處發生 7.4 級地震。"
-    },
-    {
-      "id": "4994908",
-      "time": "2026-07-17 22:57:06",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【程福波到中國寶武中國東航調研強調深化改革創新對標世界一流 更好服務支撐資源安全和交通強國建設】7月17日，國務院國資委黨委書記、主任程福波到中國寶武、中國東航生產一線調研，強調要認真學習貫徹習近平總書記在2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式上的重要講話精神，全面貫徹習近平總書記“七一”重要講話精神，深入落實習近平總書記對中央企業工作作出的重要指示精神，立足國家發展大局、錨定央企使命擔當，堅持黨的領導加強黨的建設，更好統籌高質量發展和高水平安全，緊扣資源安全和交通強國戰略，持續深化改革創新，以進促穩、先立後破，增強核心功能、提高核心競爭力，加快建設世界一流企業，為建設現代化產業體系、構建新發展格局貢獻國資央企力量。（國資委）"
-    },
-    {
-      "id": "4994907",
-      "time": "2026-07-17 22:56:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：美元將回歸長期貶值趨勢】道富環球投資（State Street Global Advisors）首席經濟學家Simona Mocuta表示，今年美元受到了避險資金流入以及市場定價美聯儲將加息的支撐，但這些因素已經反映在匯率中，因此美元將回歸其多年來的貶值趨勢。她的基準預測是美聯儲將在今年全年維持利率不變，但莫庫塔表示，加息一次的風險依然存在。即使加息發生，這也已經反映在美元的價格中，因此不會帶來太多額外影響；而如果未能加息，則會削弱美元。由於對美國財政前景的擔憂依然存在，美元將回歸其長期貶值趨勢。"
-    },
-    {
-      "id": "te:markets:567954",
-      "time": "2026-07-17 22:55:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "US Dollar Index Holds Bounce — The US dollar index rose to 100.8, rebounding from the one-month low of 100.5 on July 16th and diverging with the retreat for Treasury yields amid a pivot to safer assets. Trade jitters with China retook the spotlight after President Trump claimed that China interfered with the US 2020 presidential elections. The claims jeopardized their truce in economic relations since the exchange of tariffs softened last year, magnifying ongoing shipping bottlenecks amid the war in the Middle East. Trade disputes were also featured between the EU and China, dampening demand for the Euro. On the monetary policy front, FOMC members continued to signal that evidence of stubborn core inflation may warrant a rate hike this year, backed by recent evidence of strong retail sales and low unemployment claim levels. The hawkish remarks prevailed despite soft inflation data for June and a second decline in inflation expectations per the Michigan consumer confidence survey."
-    },
-    {
-      "id": "4994906",
-      "time": "2026-07-17 22:55:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【安巴尼旗下信實工業無視伊朗戰爭陰霾，利潤超預期】得益於強勁的煉油利潤率以及消費者科技業務的穩步增長，信實工業（Reliance Industries Ltd.）的季度盈利超出分析師預期。根據週五的一份交易所檔案，截至6月30日的三個月內，公司淨利潤同比下降22%，至2095億盧比（約合22億美元）。這一資料超出了彭博社對券商預測調查得出的1982.3億盧比的平均利潤預期。利潤的同比下滑並不令人意外，因為去年同期的資料因信實出售其在亞洲塗料公司（Asian Paints Ltd.）的股份而獲得了鉅額一次性收益的提振。"
-    },
-    {
-      "id": "4994905",
-      "time": "2026-07-17 22:55:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "沃爾瑪公司：備忘錄顯示，凱爾·金納德將出任沃爾瑪美國部門執行副總裁兼營運長。"
-    },
-    {
-      "id": "4994904",
-      "time": "2026-07-17 22:55:07",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【香港特區政府歡迎立法會透過《皇崗口岸港方口岸區條例草案》 】香港特區政府17日表示，歡迎特區立法會當日透過《皇崗口岸港方口岸區條例草案》。草案的順利透過，是落實中央相關授權的重要里程碑，為在重建後的皇崗口岸實施“一地兩檢”安排提供法律基礎，更標誌著口岸開通的籌備工作邁出關鍵一步。 國務院於7月8日就啟用皇崗口岸港方口岸區及相關延伸區有關事項作出批覆，確定港方口岸區的具體座標和麵積，並同意港方口岸區由2026年7月31日0時起啟用並依照香港特別行政區法律實施管轄。為確保中央的授權得以全面落實，特區政府有責任於7月31日前完成相關的本地立法工作。 據悉，《皇崗口岸港方口岸區條例》將於7月20日刊憲，並於7月31日生效，為特區在皇崗口岸設立港方口岸區，以及在港方口岸區依法實施管轄提供法律基礎。（新華社）"
     }
   ]
 }
