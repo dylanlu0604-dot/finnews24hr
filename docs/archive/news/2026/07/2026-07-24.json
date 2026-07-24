@@ -1,7 +1,83 @@
 {
   "date": "2026-07-24",
-  "count": 3165,
+  "count": 3173,
   "items": [
+    {
+      "id": "5007327",
+      "time": "2026-07-24 22:53:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：在2025年簽署全球人工智慧聯盟行為準則基礎上進一步推進相關工作。"
+    },
+    {
+      "id": "5007326",
+      "time": "2026-07-24 22:52:23",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌：歐盟出臺AI生成內容透明度相關行為準則。"
+    },
+    {
+      "id": "mkt:019f949c-d2e4-7aab-8e8a-e0b7cbff69bb",
+      "time": "2026-07-24 22:52:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google (GOOG.O) signed the EU AI Act transparency code of conduct."
+    },
+    {
+      "id": "5007325",
+      "time": "2026-07-24 22:51:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌簽署歐盟《人工智慧法案》透明度行為準則。"
+    },
+    {
+      "id": "5007324",
+      "time": "2026-07-24 22:50:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "受樂觀預測提振，Digital Realty（數字核心 REIT，全球資料中心運營商）股價正邁向2009年以來最大單日漲幅，截至最新報價上漲14.3%。"
+    },
+    {
+      "id": "5007323",
+      "time": "2026-07-24 22:50:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【內塔尼亞胡赴美會見特朗普，此次華盛頓之行或將決定美以對伊朗打擊節奏】以色列總理辦公室釋出宣告稱，特朗普總統將於週二在白宮會見以色列總理本雅明・內塔尼亞胡。一年半前特朗普再度執政以來，內塔尼亞胡已六次在總統辦公室與其會面，會面頻次遠超其他各國領導人。但如今內塔尼亞胡在華盛頓各方群體中口碑極差，無論是民主黨人、特朗普核心幕僚圈，還是支援 “讓美國再次偉大” 的基層選民，都對他頗有微詞。特朗普正考慮重啟針對伊朗的大規模軍事打擊行動，方案或將聯合以色列協同作戰，類似 2 月 28 日 “史詩狂怒行動”。此次與內塔尼亞胡的會晤，或將直接影響特朗普的最終決策，同時敲定美以兩國協同作戰安排。內塔尼亞胡下週赴華盛頓，也側面預示短期內衝突不會出現大規模升級。此前美伊多輪衝突升級階段，美國與以色列均曾借高層訪問相關訊息釋放煙霧彈，為打擊伊朗的軍事行動打掩護。官方表態以色列總理辦公室宣告寫道：“應特朗普總統邀請，本雅明・內塔尼亞胡總理將於週一啟程前往華盛頓展開正式訪問。訪問期間，總理週二將在白宮與特朗普總統會面，並出席林賽・格雷厄姆參議員的葬禮。”內塔尼亞胡上週曾申請面見特朗普，但未敲定會面安排。隨後他對外宣稱，因格雷厄姆參議員的守靈儀式延期，決定推遲訪美行程。白宮多名官員上週表示，內塔尼亞胡此前想方設法促成此次會面。"
+    },
+    {
+      "id": "te:economy:569816",
+      "time": "2026-07-24 22:49:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canadian Bond Yield Eases as Oil Rally Stalls — The yield on Canada's 10-year government bond fell to about 3.60% from an over one-month high of 3.66% on July 23rd as the oil rally paused, easing energy-driven inflation concerns. Meanwhile, Canada's annual inflation rate eased to 2.8% in June 2026 from 3.2% in May, slightly below forecasts of 2.9%. Gasoline prices increased at a slower pace, while the Bank of Canada's preferred core inflation measures fell to their lowest levels in more than five years, reinforcing the BoC's view that higher energy costs stemming from the Middle East oil supply crisis are not spreading broadly throughout the economy. The softer inflation data also reduced expectations of further Bank of Canada interest rate hikes this year."
+    },
+    {
+      "id": "5007322",
+      "time": "2026-07-24 22:49:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "哥斯大黎加當局表示，該國已抓獲被美國以毒品罪名通緝、綽號為“惡魔”的在逃人員亞歷杭德羅·阿里亞斯·德爾加多。"
+    },
     {
       "id": "5007321",
       "time": "2026-07-24 22:48:54",
