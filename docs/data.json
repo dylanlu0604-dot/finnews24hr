@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-25 01:41:34",
+  "updated": "2026-07-25 01:45:38",
   "count": 18161,
   "items": [
+    {
+      "id": "5007446",
+      "time": "2026-07-25 01:44:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX股價勢將跌至自IPO以來的最低收盤價，現跌約4.5%，報113美元。"
+    },
+    {
+      "id": "mkt:019f9539-face-7aab-8e8d-c7ff9d8603c8",
+      "time": "2026-07-25 01:43:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) shares are poised to close at their lowest level since the IPO, down about 4.5% at $113."
+    },
+    {
+      "id": "5007445",
+      "time": "2026-07-25 01:41:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行首席經濟學家Lane將9月視為利率走向的下一個關鍵時刻】歐洲央行首席經濟學家Philip Lane表示，歐洲央行將在9月份評估其政策立場，並可能作出調整。Lane在愛爾蘭多尼戈爾參加一個小組討論時表示，在校準利率時，決策者將根據陸續公佈的資料作出回應。他認為，歐元區經濟主要受到內需支撐，並稱美國並不是全球貿易中的主導力量。Lane在回答歐洲央行如何應對其面臨的地緣政治挑戰時表示：“我們的工作更多是作出反應。”他補充說，歐洲央行的應對將“既不過度反應，也不反應不足”。"
+    },
     {
       "id": "mkt:019f9535-fba6-7aab-8e8d-bd3c9593503f",
       "time": "2026-07-25 01:39:30",
@@ -166410,42 +166438,6 @@
         "MKT News"
       ],
       "text": "Israeli media report Prime Minister Netanyahu has postponed a visit to the United States, citing both changes to arrangements for the funeral of the late Republican Senator Lindsey Graham and an intensifying rift with the Trump administration, notably recent sharp criticism from U.S. Vice President Vance."
-    },
-    {
-      "id": "te:markets:567973",
-      "time": "2026-07-18 01:42:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Denmark",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Danske Bank earnings above expectations at 7.60 DKK — Danske Bank (DANSKE) released earnings per share at 7.60 DKK, compared to market expectations of 7.18 DKK."
-    },
-    {
-      "id": "te:markets:567972",
-      "time": "2026-07-18 01:42:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Sweden",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Swedbank earnings below expectations at 6.37 SEK — Swedbank (SWEDA) released earnings per share at 6.37 SEK, compared to market expectations of 6.54 SEK."
-    },
-    {
-      "id": "te:markets:567971",
-      "time": "2026-07-18 01:42:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Sweden",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Sandvik earnings above expectations at 4.17 SEK — Sandvik (SAND) released earnings per share at 4.17 SEK, compared to market expectations of 4.15 SEK."
     }
   ]
 }
