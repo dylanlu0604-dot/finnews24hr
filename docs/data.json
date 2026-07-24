@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-24 12:32:36",
-  "count": 17992,
+  "updated": "2026-07-24 12:36:39",
+  "count": 17989,
   "items": [
+    {
+      "id": "mkt:019f9268-0093-7aab-8e7a-61669aa4e7c4",
+      "time": "2026-07-24 12:35:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Fars news agency reported Arab media said the US Navy Fifth Fleet in Bahrain was hit by an airstrike."
+    },
+    {
+      "id": "5005939",
+      "time": "2026-07-24 12:35:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長：扣押他國資產“極具煽動性”】伊朗外交部長阿拉格齊24日表示，美國總統特朗普關於“扣押他國資產來支付無關的未來索賠”的言論，是“一個極具煽動性的先例”。阿拉格齊在社交媒體上說：“那些為此歡呼或從此類資金中獲利的人應該記住：一旦政府將沒收行為常態化，沒有人的資產是安全的。隨之而來的混亂，不會令人愉快，也不和平。”特朗普23日在社交媒體發文稱，美國將用其控制的伊朗資金“賠償”因伊方襲擊受損的船隻和貨物。他還說，儘管此類賠償金額可能巨大，但這仍是“公平合理”的做法。（新華社）"
+    },
+    {
+      "id": "mkt:019f9267-bb61-7aab-8e7a-5b9fef4f273e",
+      "time": "2026-07-24 12:34:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's Central Meteorological Observatory at 10:00 on July 24 maintained an orange typhoon warning; the Ministry of Transport activated a level-3 typhoon response at 08:00."
+    },
+    {
+      "id": "5005938",
+      "time": "2026-07-24 12:34:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港天文臺將發出一號戒備訊號】據香港天文臺，熱帶氣旋“紅霞”會在今日（24日）黃昏前後進入香港800公里範圍，天文臺會在20時40分發出一號戒備訊號。 天文臺提醒，明日日間香港仍然酷熱，但海有湧浪，市民請遠離岸邊及停止所有水上活動。隨著“紅霞”增強及靠近廣東東部沿岸，明日稍後本地風力會逐漸增強，狂風驟雨增多，香港天文臺會結合“紅霞”的強度變化、其強風區與香港的距離及本地風力情況，考慮在明日下午改發更高熱帶氣旋警告訊號。"
+    },
+    {
+      "id": "5005937",
+      "time": "2026-07-24 12:33:30",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【英特爾目標價獲機構大幅上調】D.A.戴維森將英特爾目標股價從77美元上調至100美元， 摩根大通將英特爾目標價從45美元上調至85美元。英特爾業務持續改善，第二財季財報遠好於投資者預期。英特爾截至6月的財季銷售額為161億美元，較上年同期增長25%，比分析師預期高出11%。"
+    },
+    {
+      "id": "5005936",
+      "time": "2026-07-24 12:33:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颱風“紅霞”已生成 廣東啟動防風Ⅳ級應急響應 】24日凌晨，菲律賓以東的熱帶低壓已加強為今年第12號颱風“紅霞”。鑑於當前形勢，廣東省防汛防旱防風總指揮部於24日9時啟動防風Ⅳ級應急響應。從廣東海事局瞭解到，廣東受颱風影響區域13條客渡運航線、26艘客渡運船舶已落實停運管控；粵東受影響海域風電平臺198人已全部撤離；受影響海域石油平臺人員共5000餘人已於24日12時前完成撤離。在應急保障方面，全省已部署專業救助打撈船13艘、救助直升機3架、大馬力拖輪86艘、清汙船33艘；同時，對在港防颱、離港機動防颱、途經避風船舶5419艘開展點驗，確保防禦措施落實到位。"
+    },
     {
       "id": "mkt:019f9263-e07d-7aab-8e7a-532b568dcac6",
       "time": "2026-07-24 12:30:46",
@@ -164884,98 +164933,6 @@
         "市場"
       ],
       "text": "【機構上調臺積電目標價】D.A. Davidson將臺積電目標價從450美元上調至500美元，TD Cowen將臺積電目標股價從400美元上調至440美元。臺積電早盤一度跌逾3%，臺股早盤一度崩跌逾4%失守44,000點整數關卡，分析師認為，主要受臺積電投資人說明會(法說會)後股價大幅回檔拖累，在臺積電領跌下，市場賣壓帶動AI(人工智慧)板塊重挫，使得指數跌幅一度擴大至超4%。"
-    },
-    {
-      "id": "te:markets:567748",
-      "time": "2026-07-17 12:35:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Rises on Tech Optimism — India’s BSE Sensex rose about 0.8% to 77,778 on Friday, rebounding from the previous session’s subdued performance, as information technology stocks gained after Tech Mahindra reported stronger-than-expected quarterly revenue. Investors also looked ahead to earnings from heavyweight companies, including Reliance Industries, HDFC Bank, and ICICI Bank, with Indian equities remaining range-bound in recent weeks. Among corporate updates, Wipro reported quarterly earnings that missed estimates, while Jio Financial Services more than doubled its June-quarter profit, whereas tyre maker CEAT and dairy company Heritage Foods both disappointed on earnings. Global cues also remained mixed, with Brent crude hovering near $85 a barrel amid renewed geopolitical tensions in the Middle East. Among individual stocks, top gainers included Laser Power (10.0%), Jio Financial (4.1%), 360 One (3.8%), and Billionbrains (2.7%). On a weekly basis, the benchmark index is up just 0.28% so far."
-    },
-    {
-      "id": "mkt:019f6e5b-64a5-7aab-8dd9-b34b06d4f152",
-      "time": "2026-07-17 12:35:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.N",
-        "Impact bullish"
-      ],
-      "text": "TD Cowen raises TSMC (TSM.N) PT to $440 from $400."
-    },
-    {
-      "id": "4993514",
-      "time": "2026-07-17 12:35:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數跌破 63000 點，為 6 月 11 日以來首次。"
-    },
-    {
-      "id": "4993513",
-      "time": "2026-07-17 12:34:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨下跌1.1%，德國DAX指數期貨下滑0.9%，富時指數期貨下挫0.4%。"
-    },
-    {
-      "id": "te:economy:567747",
-      "time": "2026-07-17 12:34:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "Food Inflation",
-        "Importance 1"
-      ],
-      "text": "Malaysia Food Inflation Stays at 4-Month High — Food prices in Malaysia rose 1.4% year-on-year in June 2026, matching May's pace and remaining at the steepest pace in four months. Prices continued to increase for food at home (0.5% vs 0.3% in May), cereals & cereal products (0.2% vs 0.1%), meat (1.5% vs 0.2%), fish & other seafood (1.4% vs 1.6%), oils & fats (0.2% vs flat reading), fruits & nuts (1.0% vs 1.4%), sugar, confectionary & desserts (0.5% vs 0.5%), and food away from home (2.4% vs 2.5%). Meanwhile, cost of milk, other dairy products & eggs edged up 0.1%, reversing a 0.8% decline in May."
-    },
-    {
-      "id": "mkt:019f6e5a-5674-7aab-8dd9-a9e5f1d3e495",
-      "time": "2026-07-17 12:34:01",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "S&P 500 futures down 0.85%, Nasdaq futures down 1.45%."
-    },
-    {
-      "id": "4993512",
-      "time": "2026-07-17 12:33:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨跌幅擴大至0.85%，納斯達克指數期貨下跌1.45%。"
-    },
-    {
-      "id": "4993510",
-      "time": "2026-07-17 12:33:16",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【新易盛據悉提交融資不超過50億美元的香港上市申請】據媒體援引知情人士透露，中國光模組製造商新易盛已經以保密形式提交在香港上市的申請。一些知情人士稱，新易盛或透過在香港發行股票籌集40億至50億美元。知情人士透露，摩根士丹利也加入了安排此次發行交易的銀行之列。媒體4月份曾報道，新易盛正與中信證券和摩根大通合作籌備香港上市事宜。"
-    },
-    {
-      "id": "mkt:019f6e59-4c57-7aab-8dd9-a6d9b9178333",
-      "time": "2026-07-17 12:32:53",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【IRGC claims 'many' US troops killed in strike on Al Tanf, warns on Strait of Hormuz】Iran's Islamic Revolutionary Guard Corps (IRGC) said it struck the US special-operations command center at Al Tanf in southern Syria, killing \"many\" US troops and destroying a radar system and several special-operations helicopters. The IRGC said the attack was retaliation for a US airstrike on Iranshahr and part of the 11th phase of the Nasr-2 operation. It warned the Strait of Hormuz remains under its control and that, while US \"aggression\" continues, no oil or gas will be allowed to be exported."
     }
   ]
 }
