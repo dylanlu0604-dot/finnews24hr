@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-25 00:03:52",
-  "count": 18118,
+  "updated": "2026-07-25 00:08:14",
+  "count": 18124,
   "items": [
+    {
+      "id": "te:markets:569829",
+      "time": "2026-07-25 00:07:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.93% Higher — The FTSE 100 Index gained 99 points or 0.93 percent on Friday to close at 10738 points. Gains were led by Relx (4.94%), The Sage Group (4.44%) and Experian (4.03%). Biggest losers were Airtel Africa (-3.30%), Vodafone (-1.59%) and BP (-1.36%)."
+    },
+    {
+      "id": "5007394",
+      "time": "2026-07-25 00:07:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "高通表示已無力繼續消化持續上漲的各項成本。"
+    },
+    {
+      "id": "mkt:019f94e1-333f-7aab-8e8c-57ae906720c0",
+      "time": "2026-07-25 00:06:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's Fars News cited sources linked to Yemen's maritime authority saying nearly all commercial vessels transiting the Bab al-Mandeb Strait are complying with directives from Yemeni naval forces."
+    },
+    {
+      "id": "5007393",
+      "time": "2026-07-25 00:05:58",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "高通告知客戶產品價格將迎來兩位數百分比漲幅。"
+    },
+    {
+      "id": "5007392",
+      "time": "2026-07-25 00:05:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：葉門航運管理部門相關知情人士稱，幾乎所有途經曼德海峽的商船均遵守葉門海軍部隊的相關規定。"
+    },
+    {
+      "id": "5007391",
+      "time": "2026-07-25 00:04:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐歐盟使團發言人就歐盟第21輪對俄羅斯制裁列單制裁中國企業事答記者問】中國駐歐盟使團發言人就歐盟第21輪對俄羅斯制裁列單制裁中國企業事答記者問。問：2026年7月23日，歐盟透過第21輪對俄羅斯制裁方案，新增列單制裁中國企業。中方對此有何評論？ \n答：歐方不顧中方堅決反對和多次嚴正交涉，在第21輪對俄羅斯制裁中新增列單制裁中方企業，中方對此強烈不滿、堅決反對，已再次向歐方提出嚴正交涉，並已採取相應措施，堅定維護中方企業正當權益。中國在烏克蘭危機問題上秉持客觀公正立場，堅持勸和促談，為推動政治解決烏克蘭危機發揮建設性作用。中方堅決反對歐方在烏克蘭危機問題上對中方甩鍋推責、汙衊抹黑，堅決反對歐方對中方企業和公民無端實施列單制裁。中方敦促歐方立即糾正錯誤做法，消除惡劣影響，以實際行動維護中歐關係大局。"
+    },
+    {
+      "id": "5007390",
+      "time": "2026-07-25 00:04:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭警告船東避開俄羅斯黑海港口，烏克蘭認為俄羅斯存在針對航運船隻實施挑釁行為的威脅。"
+    },
+    {
+      "id": "mkt:019f94df-0170-7aab-8e8c-4d6792be59b0",
+      "time": "2026-07-25 00:04:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI founder Altman said he hopes the U.S. prevails in open-source AI and also in proprietary AI models."
+    },
+    {
+      "id": "te:markets:569828",
+      "time": "2026-07-25 00:03:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Rises as Oil Rally Pauses — The CAC 40 rose 0.9% to close at 8,372 on Friday as easing oil prices cooled energy-driven inflation concerns. Lower bond yields supported financials and the broader market. Crédit Agricole gained 2.6%, Société Générale rose 1.9%, and BNP Paribas added 2.1% after reporting earnings and revenue above expectations. An ECB survey showed euro area inflation expectations remained broadly stable over the past three months, with inflation expected to slow sharply next year before returning to the 2% target in 2028. Meanwhile, France's private sector contraction eased in July, with the S&P Global Flash Services PMI rising to 49.8 from 46.8 in June, beating forecasts. Luxury stocks advanced, with LVMH up 1.8%, L'Oréal gaining 1.6%, Hermès rising 1.3%, and Kering adding 1.5%. In industrials, Airbus gained 0.8% and Safran climbed 2.6%, while Thales slipped 0.8% as investors took profits following its 5.1% surge in the previous session."
+    },
     {
       "id": "mkt:019f94dc-80ac-7aab-8e8c-47b36baaeead",
       "time": "2026-07-25 00:01:46",
@@ -166005,38 +166093,6 @@
         "Importance 0"
       ],
       "text": "FTSE MIB Ends Week Lower — The FTSE MIB fell 1% to close at 51,882 on Friday, pressured by losses in chips and financial stocks, while monitoring developments surrounding UniCredit's bid for Commerzbank. UniCredit slipped 2.5% after reports that Berlin is shifting its focus from blocking a takeover to securing key conditions, including preserving Commerzbank's separate stock market listing and protecting the Mittelstand. UniCredit would likely hold a stake just below 50%, enough to secure a voting majority. Semiconductor stocks also remained under pressure amid renewed concerns over high valuations and AI-driven overspending. STMicroelectronics fell 4%, while Prysmian led losses on the index at 4.5%. Financials weakened as geopolitical tensions raised uncertainty on the market and weighed on the sector, with the BTP-Bund spread rising further to 83 bps. Unipol, FinecoBank and BMPS all fell more than 1.5%. For the week, the index recorded a 1.8% decline."
-    },
-    {
-      "id": "te:markets:567961",
-      "time": "2026-07-18 00:07:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.08% Higher — The FTSE 100 Index gained 8 points or 0.08 percent on Friday to close at 10581 points. Gains were led by National Grid (3.23%), Severn Trent (2.92%) and British American Tobacco (2.69%). Biggest losers were Burberry (-5.80%), Scottish Mortgage (-3.62%) and St. Jamess (-2.97%)."
-    },
-    {
-      "id": "mkt:019f70d2-4d1f-7aab-8de8-e5faf3a13bb2",
-      "time": "2026-07-18 00:04:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Axios reports the US has deployed dozens of air-to-air refueling tankers to Israel to respond to a possible escalation."
-    },
-    {
-      "id": "4994954",
-      "time": "2026-07-18 00:04:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【育碧娛樂：《刺客信條：黑旗 記憶重置》一週內銷量突破300萬份】育碧娛樂旗下公司Vantage Studios宣佈，自7月9日發售以來，《刺客信條™：黑旗 記憶重置》（Assassin’s Creed™ Black Flag Resynced）在短短一週內銷量已突破300萬份。該作首日便以200萬份的強勁成績開局，這一新里程碑進一步印證了其持續的熱度。"
     }
   ]
 }
