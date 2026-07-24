@@ -1,7 +1,92 @@
 {
-  "updated": "2026-07-24 10:03:07",
-  "count": 17999,
+  "updated": "2026-07-24 10:07:08",
+  "count": 18001,
   "items": [
+    {
+      "id": "5005739",
+      "time": "2026-07-24 10:06:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿達尼：暫無計劃成立航空公司。"
+    },
+    {
+      "id": "5005738",
+      "time": "2026-07-24 10:06:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.06%，成分股中，聚星科技跌8.13%，並行科技跌5.21%，三協電機跌4.78%，國子軟體跌3.75%。"
+    },
+    {
+      "id": "5005737",
+      "time": "2026-07-24 10:05:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期國債收益率上升7個基點至3.98%。"
+    },
+    {
+      "id": "5005736",
+      "time": "2026-07-24 10:05:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "雲知聲：執行長已從公開市場購入價值400萬港元的股份，另一位董事從公開市場購入價值110萬港元的股份。"
+    },
+    {
+      "id": "5005735",
+      "time": "2026-07-24 10:04:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【先進封裝概念震盪反彈，朗迪集團漲停】先進封裝概念震盪反彈，朗迪集團漲停，光力科技、通富微電、芯碁微裝、深科技、華天科技、甬矽電子等跟漲。"
+    },
+    {
+      "id": "5005734",
+      "time": "2026-07-24 10:04:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優必選在鹽城成立智慧機器人公司】企查查APP顯示，近日，優必選（鹽城）智慧機器人有限公司成立，經營範圍包含人工智慧理論與演算法軟體開發；人工智慧應用軟體開發；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由優必選（09880.HK）全資持股。"
+    },
+    {
+      "id": "mkt:019f91dc-e565-7aab-8e77-e04a213c579e",
+      "time": "2026-07-24 10:03:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "【SK Hynix, Samsung and Kioxia face earnings test amid AI-driven market volatility】SK Hynix and Samsung Electronics head into results that will test storage-chip demand; Korea's stock market has become a barometer for AI sentiment but leveraged positions in chip trades have amplified volatility. Kioxia will also report and must address a share-price collapse that cut its market value by about half in recent weeks, underscoring persistent volatility as some investors worry the AI rally is overextended. HSBC analysts say rising HBM prices and the roll-out of higher-priced HBM4 should support Samsung and SK Hynix earnings and help allay concerns of an H2 profit slowdown."
+    },
+    {
+      "id": "5005733",
+      "time": "2026-07-24 10:03:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指早盤下跌1.4%，至6,227.406點。"
+    },
+    {
+      "id": "te:markets:569481",
+      "time": "2026-07-24 10:02:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Fall on Tariff Concerns — The Shanghai Composite fell 0.6% to 3,853 on Friday, while the Shenzhen Component lost 0.6% to 14,041, reversing the previous session’s gains as fresh US tariffs dampened market sentiment. Washington announced duties of 10%–12.5% on imports from most major trading partners as part of President Trump’s renewed tariff push, with Chinese goods facing a 12.5% levy. Limiting losses, the People's Bank of China said it would inject a net CNY 500 billion into the banking system through a one-year MLF operation, following CNY 700 billion in liquidity added earlier this month via outright reverse repos. The move marks the largest medium- to long-term liquidity injection since February and is aimed at supporting growth ahead of the late-July Politburo meeting. Among the biggest laggards were Foxconn Industrial Internet (-3%), Zijin Mining Group (-4.8%), Zhongji Innolight (-1.9%), and Eoptolink Technology (-2.2%). Despite Friday’s retreat, both indexes remained on track for weekly gains."
+    },
     {
       "id": "5005732",
       "time": "2026-07-24 10:01:57",
@@ -164940,65 +165025,6 @@
         "焦點"
       ],
       "text": "外匯局：上半年我國外匯市場執行平穩，交易活躍、更加穩健。銀行代客涉外收入和支出合計9.2萬億美元，同比增長21%；銀行結匯和售匯規模2.9萬億美元，同比增長24%，規模均創歷史同期新高。跨境資金淨流入2472億美元，銀行結售匯順差2712億美元。外匯市場預期穩定。（金融一線）"
-    },
-    {
-      "id": "4993294",
-      "time": "2026-07-17 10:07:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【首批主動ETF主選券結模式 多數為銀行託管】記者從業內瞭解到，首批上報的18家基金公司旗下主動ETF中，17家均採用券結模式，僅有1家為非券結；產品管理模式則多數為單人管理，僅有3-4家由2位基金經理共管。另外，從託管人的角度來看，銀行在首批主動ETF佔主導，但少數產品是由券商託管。 (財聯社)"
-    },
-    {
-      "id": "4993293",
-      "time": "2026-07-17 10:06:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上半年非銀部門跨境資金淨流入2472億美元】國家外匯管理局副局長、新聞發言人李斌7月17日在國新辦新聞釋出會上表示，今年上半年，企業、個人等非銀行部門跨境資金淨流入2472億美元。李斌介紹，上半年，貨物貿易項下資金淨流入同比繼續增加，外資對我國投資總體回升，服務貿易收入增長加快、收支逆差收窄，境內主體對外投資總體保持增長。"
-    },
-    {
-      "id": "4993292",
-      "time": "2026-07-17 10:05:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【申萬宏源：機器人散熱市場2030年有望達180億】申萬宏源釋出研報稱，人形機器人散熱是決定具身智慧能否穩定發揮效能的關鍵環節，存在關節空間受限、電機持續高負荷、指尖熱密度超AI晶片等多重痛點。機器人熱量主要來源於關節執行器(佔比50%-60%)、算力單元(約20%)和電源系統(12%-15%)三大核心模組，多維熱源高度耦合。該行預計，隨著產業化程序加速，2030年全球人形、四足機器人主動散熱市場規模約180億元，賽道成長空間充足。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202607173810183716",
-      "time": "2026-07-17 10:05:45",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【上半年非銀部門跨境資金淨流入2472億美元】國家外匯管理局副局長、新聞發言人李斌7月17日在國新辦新聞釋出會上表示，今年上半年，企業、個人等非銀行部門跨境資金淨流入2472億美元。李斌介紹，上半年，貨物貿易項下資金淨流入同比繼續增加，外資對我國投資總體回升，服務貿易收入增長加快、收支逆差收窄，境內主體對外投資總體保持增長。"
-    },
-    {
-      "id": "4993291",
-      "time": "2026-07-17 10:05:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新款人形機器人會穿鞋帶 超300款全球首發AI產品即將亮相】今天，2026世界人工智慧大會暨人工智慧全球治理高階別會議在上海拉開帷幕，本屆大會以“智慧夥伴 共創未來”為主題。大會上將有超300款全球最前沿的智慧產品首發首秀。有企業帶來了腦控機器人訓練平臺和數控採集解決方案兩項全球首發技術。記者在展館中看到，一名研發人員佩戴腦電帽，僅憑意念便驅動機械臂完成抓取水杯的動作。同樣在本屆展會首發首秀的輪式人形機器人，正在給鞋穿鞋帶。完成這一切，不需要透過感測器，而是透過手腕和頭部的攝像頭，用一套純視覺方案來理解環境。（央視財經）"
-    },
-    {
-      "id": "4993290",
-      "time": "2026-07-17 10:04:53",
-      "tags": [],
-      "text": "今年上半年我國涉外收支規模創新高。（新華社）"
-    },
-    {
-      "id": "te:markets:567709",
-      "time": "2026-07-17 10:04:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Remain Under Pressure — The Shanghai Composite fell 0.8% to a near four-month low of 3,853 on Friday, while the Shenzhen Component slid 2.1% to a more than three-month low of 14,191, as sentiment toward China's technology hardware sector turned increasingly bearish. The STAR 50 Index's fear/greed indicator, which measures selling pressure relative to buying activity, dropped to its lowest level since April 2022, as concerns over stretched valuations following a blockbuster quarter and a pullback in high-flying memory-chip shares weighed on sentiment. Meanwhile, attention turned to the World AI Conference in Shanghai, where President Xi Jinping is expected to deliver a keynote address, highlighting China's drive for technological self-sufficiency and influence in global AI standards. Technology names remained under pressure, led by Cambricon Technologies (-3%), Hygon Information Technology (-2.6%), Zhongji Innolight (-7.7%), Eoptolink Technology (-7.3%) and NAURA Technology (-2.3%)."
     }
   ]
 }
