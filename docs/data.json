@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-25 03:17:27",
-  "count": 18182,
+  "updated": "2026-07-25 03:21:22",
+  "count": 18187,
   "items": [
+    {
+      "id": "5007504",
+      "time": "2026-07-25 03:20:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "受市場訊息影響，UBER股價跌幅迅速擴大至2.5%。"
+    },
+    {
+      "id": "mkt:019f9591-da5f-7aab-8e8f-0c4f35003485",
+      "time": "2026-07-25 03:19:51",
+      "tags": [
+        "MKT News",
+        "UBER.O",
+        "Impact bearish",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "Financial Times reports Waymo is considering ending its partnership with Uber as tensions in the autonomous robotaxi sector deepen."
+    },
+    {
+      "id": "5007503",
+      "time": "2026-07-25 03:19:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：核能是未來的浪潮。"
+    },
+    {
+      "id": "5007501",
+      "time": "2026-07-25 03:18:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“四流”一致成硬門檻 銀行對大宗商品貿易融資稽核邏輯變了】企業進行虛假貿易、“空轉走單”等，合同流、資金流、發票流或許還能湊齊，但貨物流往往是缺失的。“四流”中缺了關鍵“一流”，稅收和信貸的合規性也經不起追問。因此，貨物流成了大宗商品信貸審批嚴查的重點。4月末，國家稅務總局釋出《納稅人合規開具發票正負面清單》（下稱“清單”），將開展融資性貿易、虛假貿易，“四流”（合同流、貨物流/服務流、資金流、發票流）不一致，無合理商業目的“對開、環開”發票，虛構交易環節“空轉走單”等28種情形列為違規開票負面清單。“清單”落地後，銀行業快速針對大宗商品貿易融資業務完善風控規則。長三角某城商行下發專項管控通知，對大宗商品質押和貿易融資全流程升級風控。“清單”落地至今已滿三個月，糾治效應沿著“貿易—發票—信貸”的鏈條逐級傳導，合規經營實體貿易企業獲得了更多金融活水。(上海證券報)"
+    },
+    {
+      "id": "5007500",
+      "time": "2026-07-25 03:18:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "受市場訊息影響，UBER股價迅速下跌，跌幅達2.5%。"
+    },
+    {
+      "id": "5007499",
+      "time": "2026-07-25 03:17:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特媒體報道：公共投資基金與多邊投資擔保機構簽署最高規模達35億美元的諒解備忘錄，用於挖掘投資機遇，並探索為公共投資基金在中東地區的下屬企業提供擔保。"
+    },
+    {
+      "id": "mkt:019f958f-c2d9-7aab-8e8f-01fdbffcb40f",
+      "time": "2026-07-25 03:17:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Canada's trade minister said Canada and the United Arab Emirates signed a Comprehensive Economic Partnership Agreement."
+    },
+    {
+      "id": "5007498",
+      "time": "2026-07-25 03:16:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【資金重新迴流黃金主題ETF 機構：積極因素正在積聚】國際金價近期持續震盪，資金正在悄然行動。從黃金商品ETF的資金流向看，前期淨流出狀態正在逆轉，近日吸引較多資金加倉。與此同時，部分基金經理在二季度減持黃金後，正在等待新的入場時機。在多家機構看來，黃金正在迎來重要的佈局時點。近期黃金商品ETF關注度明顯升溫。7月15日以來，截至7月23日，黃金商品ETF合計淨流入46.5億元。從具體產品流向看，依然是規模居前的ETF吸引較多資金流入。其中，黃金ETF華安淨流入32.22億元，黃金ETF易方達淨流入5.69億元。但與之相對的是，6月1日至7月14日，黃金商品ETF淨流出171.72億元。(上海證券報)"
+    },
+    {
+      "id": "5007497",
+      "time": "2026-07-25 03:16:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： Waymo 正在研究終止與優步合作關係的備選方案。"
+    },
     {
       "id": "5007496",
       "time": "2026-07-25 03:16:22",
@@ -166596,42 +166674,6 @@
         "國際"
       ],
       "text": "市場訊息：美國和塞爾維亞簽署能源基礎設施諒解備忘錄。"
-    },
-    {
-      "id": "mkt:019f7184-62d8-7aab-8dea-d0cb12971431",
-      "time": "2026-07-18 03:18:49",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Pentagon: 13 more U.S. service members wounded in operations against Iran】The Pentagon said 13 additional U.S. service members were wounded in operations against Iran since Monday, including 10 Army soldiers and three Navy sailors. The Pentagon did not disclose the times or locations of the injuries."
-    },
-    {
-      "id": "4995021",
-      "time": "2026-07-18 03:18:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：雪佛龍已與伊拉克濟加爾石油公司簽署協議，推進納西里耶油田及周邊勘探區的談判。"
-    },
-    {
-      "id": "mkt:019f7183-8eb4-7aab-8dea-c9aabf10348c",
-      "time": "2026-07-18 03:17:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he has invited Darline Graham to participate in the Republican special Senate primary on Aug. 11."
-    },
-    {
-      "id": "4995020",
-      "time": "2026-07-18 03:17:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：BRB表示與Quadra Capital的談判已經結束。"
     }
   ]
 }
