@@ -1,7 +1,66 @@
 {
-  "updated": "2026-07-25 02:56:54",
+  "updated": "2026-07-25 03:01:52",
   "count": 18174,
   "items": [
+    {
+      "id": "mkt:019f957f-f239-7aab-8e8e-b8b5d1142c3b",
+      "time": "2026-07-25 03:00:17",
+      "tags": [
+        "MKT News",
+        "GOOGL.O"
+      ],
+      "text": "Google is working to comply with the EU Digital Markets Act (DMA)."
+    },
+    {
+      "id": "5007474",
+      "time": "2026-07-25 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.26%，報25012.80點，高水49.57點。"
+    },
+    {
+      "id": "mkt:019f957e-22ce-7aab-8e8e-b2b031513393",
+      "time": "2026-07-25 02:58:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google said it was concerned about the impact of recent European Commission decisions and thanked the US government for its involvement."
+    },
+    {
+      "id": "5007473",
+      "time": "2026-07-25 02:57:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌：對歐盟委員會近期各項裁決帶來的影響表示擔憂，對美國政府的溝通互動表示認可，認可美國政府開展的溝通磋商。"
+    },
+    {
+      "id": "5007472",
+      "time": "2026-07-25 02:56:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌：公司已全力落實合規，遵守歐盟《數字市場法》（DMA）。"
+    },
+    {
+      "id": "mkt:019f957c-9ead-7aab-8e8e-a9dc83c1175d",
+      "time": "2026-07-25 02:56:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran, Pakistan foreign ministers meet at SCO session to discuss regional tensions】On July 24 in Kyrgyzstan, Iran’s foreign minister met Pakistan’s deputy prime minister and foreign minister at the SCO foreign ministers’ meeting to discuss bilateral ties and regional and international developments. Iran thanked Pakistan for recent mediation efforts, blamed the US for a “breach of commitments and excessive pressure” as a main cause of current regional tensions, condemned US attacks on Iran’s critical infrastructure and said it will defend its sovereignty and interests. Iran urged closer SCO cooperation to uphold multilateralism and international rules. Pakistan called for respect for Iran’s sovereignty and territorial integrity and offered diplomatic assistance to help prevent escalation. Iran also spoke by phone with Oman’s foreign minister about regional developments and commercial shipping security in the Strait of Hormuz and the Gulf."
+    },
     {
       "id": "5007471",
       "time": "2026-07-25 02:54:48",
@@ -166533,59 +166592,6 @@
         "Impact mixed"
       ],
       "text": "【Apple in early settlement talks with U.S. DOJ over 2024 antitrust suit, sources say】People familiar with the matter said Apple is in early settlement talks with the U.S. Department of Justice over a 2024 antitrust suit alleging Apple monopolized the smartphone market, harmed smaller rivals and pushed up prices. Apple and the DOJ did not immediately respond to requests for comment. Sources said talks are active but no agreement is guaranteed; Apple has submitted multiple proposals to resolve the case. It is unclear whether the 15 state attorneys general that joined the DOJ suit are engaged in parallel negotiations."
-    },
-    {
-      "id": "mkt:019f71ab-f78a-7aab-8deb-69c49f8c3132",
-      "time": "2026-07-18 03:01:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng futures' night session closed up 0.54% at 24,602, trading 40 points above the cash index."
-    },
-    {
-      "id": "4995005",
-      "time": "2026-07-18 03:01:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：伊拉克與敘利亞簽署諒解備忘錄，將修復哈迪塞-巴尼亞斯輸油管道，由雪佛龍公司負責實施。"
-    },
-    {
-      "id": "mkt:019f7174-0a11-7aab-8dea-7ebeac0eeea9",
-      "time": "2026-07-18 03:00:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Apple (AAPL.O) has raised subscription prices for Apple Music and Apple One."
-    },
-    {
-      "id": "4995003",
-      "time": "2026-07-18 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.55%，報24604.70點，高水42.46點。"
-    },
-    {
-      "id": "4995002",
-      "time": "2026-07-18 03:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芝加哥小麥期貨本週漲超7.1%，大豆油漲5%】週五（7月17日）紐約尾盤，彭博穀物分類指數漲1.01%，報31.8718點，本週累計上漲3.16%。本週，CBOT玉米期貨累漲1.57%，報4.6825美元/蒲式耳，整體W形反轉。CBOT小麥期貨累漲7.12%，報6.8475美元/蒲式耳。CBOT大豆期貨累漲0.90%，報12.0250美元/蒲式耳，豆粕期貨累漲0.16%，豆油期貨累漲5.06%。CBOT瘦肉豬期貨累漲3.26%，活牛期貨累跌4.30%，飼牛期貨累跌2.45%。"
-    },
-    {
-      "id": "4995001",
-      "time": "2026-07-18 02:59:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果上調 Apple Music 及部分 Apple One 訂閱套餐定價，蘋果音樂訂閱價格由 10.99 美元上調至 11.99 美元， 蘋果家庭版 Apple One 套餐價格由 25.95 美元漲至 27.95 美元，尊享版上調至 39.95 美元。"
     }
   ]
 }
