@@ -1,7 +1,35 @@
 {
   "date": "2026-07-25",
-  "count": 418,
+  "count": 421,
   "items": [
+    {
+      "id": "5007639",
+      "time": "2026-07-25 06:45:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "檔案顯示，美國上訴法院不允許許特朗普對新版H-1B簽證徵收每張10萬美元費用。"
+    },
+    {
+      "id": "te:markets:569864",
+      "time": "2026-07-25 06:45:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Depreciates by 1.40% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a -1.40% decrease."
+    },
+    {
+      "id": "5007638",
+      "time": "2026-07-25 06:44:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤跌破93美元，日內跌超1.5%。"
+    },
     {
       "id": "te:markets:569863",
       "time": "2026-07-25 06:40:15",
