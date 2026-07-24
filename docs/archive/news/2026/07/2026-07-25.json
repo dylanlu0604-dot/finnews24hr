@@ -1,7 +1,153 @@
 {
   "date": "2026-07-25",
-  "count": 265,
+  "count": 281,
   "items": [
+    {
+      "id": "mkt:019f95a4-a3b2-7aab-8e8f-9fd346f94f6d",
+      "time": "2026-07-25 03:40:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump will impose steep tariffs on Mexican lettuce."
+    },
+    {
+      "id": "mkt:019f95a4-9714-7aab-8e8f-91aedb7c7933",
+      "time": "2026-07-25 03:40:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi state news agency reports Saudi-flagged vessel NCC MASA was attacked in the Red Sea; hull sustained minor damage."
+    },
+    {
+      "id": "5007547",
+      "time": "2026-07-25 03:40:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普總統表示，已有四家企業在政府設定的截止日期前，完成私人出資研發先進核反應堆的相關工作。他稱，這是四十多年來美國首次推進全新反應堆設計落地。他表示，以往耗時六年甚至更久的審批研發流程如今已大幅提速，並補充道，美國當下在新一代核電技術領域領跑全球。"
+    },
+    {
+      "id": "5007546",
+      "time": "2026-07-25 03:38:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普再度批評風力發電機。"
+    },
+    {
+      "id": "5007545",
+      "time": "2026-07-25 03:38:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我總是傾向於達成協議。"
+    },
+    {
+      "id": "mkt:019f95a2-95e4-7aab-8e8f-88821eb67db7",
+      "time": "2026-07-25 03:38:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump says multiple exit strategies on Iran】Trump said the US has multiple exit strategies on Iran, including military options or negotiating a deal, but he does not believe Iran is currently ready to reach an agreement."
+    },
+    {
+      "id": "5007544",
+      "time": "2026-07-25 03:37:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：外界都在拿選舉說事，但我在伊朗問題上一點都不急。"
+    },
+    {
+      "id": "5007543",
+      "time": "2026-07-25 03:37:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為伊朗此次談判態度是我們見過最為誠懇的一次。"
+    },
+    {
+      "id": "mkt:019f95a2-2ba9-7aab-8e8f-82ab13be6a1c",
+      "time": "2026-07-25 03:37:40",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "GBPUSD"
+      ],
+      "text": "CFTC week ended July 21: net short positions — Swiss franc 34,242 contracts; British pound 55,561 contracts; euro 41,338 contracts; Japanese yen 152,125 contracts."
+    },
+    {
+      "id": "5007542",
+      "time": "2026-07-25 03:37:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊：現貨原油價格大機率主導走勢，未來三個月情景下可能測試每桶150美元。"
+    },
+    {
+      "id": "5007541",
+      "time": "2026-07-25 03:37:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：儘管面臨中期選舉，在伊朗問題上我們並不急於求成。"
+    },
+    {
+      "id": "5007540",
+      "time": "2026-07-25 03:37:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙、天空之舞和華納兄弟股價跌至當日新低。"
+    },
+    {
+      "id": "5007539",
+      "time": "2026-07-25 03:36:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們正與伊朗展開談判，後續結果拭目以待。"
+    },
+    {
+      "id": "5007538",
+      "time": "2026-07-25 03:36:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：相信伊朗是非常認真的，他們應該這樣。"
+    },
+    {
+      "id": "5007537",
+      "time": "2026-07-25 03:36:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談誰在與伊朗對話：萬斯、盧比奧和其他人都在談論此事。"
+    },
+    {
+      "id": "mkt:019f95a1-19ac-7aab-8e8f-7aefe7d1b451",
+      "time": "2026-07-25 03:36:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "CFTC: For the week to July 21, speculative traders increased net short positions in CBOT U.S. 10-year Treasury futures by 48,031 contracts to 879,706 contracts. Speculators also raised net short positions in CBOT U.S. Treasury futures by 7,734 contracts to 186,790 contracts."
+    },
     {
       "id": "mkt:019f95a0-f7c3-7aab-8e8f-76bc081ae01b",
       "time": "2026-07-25 03:36:22",
