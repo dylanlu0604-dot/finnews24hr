@@ -1,7 +1,116 @@
 {
   "date": "2026-07-24",
-  "count": 3192,
+  "count": 3203,
   "items": [
+    {
+      "id": "5007345",
+      "time": "2026-07-24 23:13:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴基斯坦與伊朗正探尋同美國重啟新一輪談判的可行路徑。"
+    },
+    {
+      "id": "mkt:019f94af-5df7-7aab-8e8b-3a9a8ea62c71",
+      "time": "2026-07-24 23:12:28",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Brazil central bank governor: Although policy rates are restrictive, we remain additionally concerned about de-anchored inflation expectations."
+    },
+    {
+      "id": "mkt:019f94af-5c0b-7aab-8e8b-37be436bbfe2",
+      "time": "2026-07-24 23:12:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Shanghai silver Ag2610 rallied intraday, extending gains to 2.01% at 14,410 yuan/kg. Turnover was about 59.61 bln yuan; open interest rose by nearly 3,800 lots intraday as volume and OI climbed."
+    },
+    {
+      "id": "5007344",
+      "time": "2026-07-24 23:12:08",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行行長： 儘管已實施緊縮利率政策，但市場通脹預期脫錨風險仍令我們愈發擔憂。"
+    },
+    {
+      "id": "mkt:019f94ae-d83d-7aab-8e8b-2f2cf6545b06",
+      "time": "2026-07-24 23:11:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rose $0.40 intraday, up more than 2% on the day to $58.79/oz."
+    },
+    {
+      "id": "5007343",
+      "time": "2026-07-24 23:11:33",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "巴西央行行長：許多研究將探討厄爾尼諾對CPI的影響。我們每天都在監測布倫特原油的表現。巴西勞動力市場和經濟活動保持韌性。"
+    },
+    {
+      "id": "mkt:019f94ae-6b56-7aab-8e8b-27f80d5915f6",
+      "time": "2026-07-24 23:11:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's central bank governor said the country's labor market and economic activity remain resilient."
+    },
+    {
+      "id": "5007342",
+      "time": "2026-07-24 23:11:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲2%，現報14411.00元。"
+    },
+    {
+      "id": "5007341",
+      "time": "2026-07-24 23:11:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4070美元/盎司，日內漲0.58%。"
+    },
+    {
+      "id": "5007340",
+      "time": "2026-07-24 23:11:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破59美元/盎司，日內漲1.69%。"
+    },
+    {
+      "id": "mkt:019f94ad-3ba8-7aab-8e8b-1ec8798a5eaf",
+      "time": "2026-07-24 23:10:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent"
+      ],
+      "text": "Brazil's central bank governor said the bank monitors Brent crude's performance daily."
+    },
     {
       "id": "mkt:019f94ac-203c-7aab-8e8b-15302a13d978",
       "time": "2026-07-24 23:08:56",
