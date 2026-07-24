@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-25 02:16:59",
-  "count": 18165,
+  "updated": "2026-07-25 02:20:50",
+  "count": 18168,
   "items": [
+    {
+      "id": "te:markets:569839",
+      "time": "2026-07-25 02:20:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 1.45% — Top commodity gainers are Silver (1.45%) and Gold (0.27%). Biggest losers are Titanium (-1.08%) and Lithium Carbonate (-0.68%)."
+    },
+    {
+      "id": "5007461",
+      "time": "2026-07-25 02:17:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭基輔州遭導彈襲擊致10人死亡】烏克蘭國家緊急情況局24日晚在社交媒體發文稱，基輔州布昌斯基區當天遭導彈襲擊致10人死亡、數十人受傷。烏國家緊急情況局稱，襲擊導致3處公寓樓起火，另有23處住宅、2處賓館等設施受損。截至發稿時，大火已被撲滅，烏國家緊急情況局和警方在組織救援。(新華社)"
+    },
+    {
+      "id": "5007460",
+      "time": "2026-07-25 02:17:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普週五就伊朗議題召開高層顧問會議。"
+    },
+    {
+      "id": "mkt:019f9558-cb17-7aab-8e8e-2502b30f1d85",
+      "time": "2026-07-25 02:17:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Two small firms sue U.S. government over Trump's global tariffs】Two small U.S. companies filed suit Friday in the U.S. Court of International Trade, alleging President Trump and U.S. officials illegally invoked Section 301 of the Trade Act of 1974 to impose the president's latest global tariffs, which took effect Friday. The plaintiffs say the administration used Section 301 to replace an earlier legal authority that the U.S. Supreme Court had struck down."
+    },
+    {
+      "id": "5007459",
+      "time": "2026-07-25 02:16:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲接受國家電視臺採訪時表示，伊朗已做好與美國對抗的充分準備，並警告美方將為此承受 “慘痛代價”。"
+    },
     {
       "id": "mkt:019f9556-e6e7-7aab-8e8e-190dbcabcc0b",
       "time": "2026-07-25 02:15:28",
@@ -166474,25 +166520,6 @@
         "其他"
       ],
       "text": "派拉蒙 - 華納兄弟併購案法官表示將於 7 月 22 日前作出裁決。"
-    },
-    {
-      "id": "4994991",
-      "time": "2026-07-18 02:20:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟重申呼籲以色列停止進一步擴建定居點。"
-    },
-    {
-      "id": "te:markets:567975",
-      "time": "2026-07-18 02:20:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Falls by 2.03% — Top commodity losers are Platinum (-2.03%), Silicon (-1.31%) and Copper (-1.25%). Gains are led by Silver (1.07%), Gold (0.90%) and Lithium Carbonate (0.66%)."
     }
   ]
 }
