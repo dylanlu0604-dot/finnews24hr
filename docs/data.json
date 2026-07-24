@@ -1,7 +1,139 @@
 {
-  "updated": "2026-07-24 20:39:18",
-  "count": 18091,
+  "updated": "2026-07-24 20:43:23",
+  "count": 18099,
   "items": [
+    {
+      "id": "mkt:019f9425-c665-7aab-8e88-68fb7b73b247",
+      "time": "2026-07-24 20:42:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli government instructs IDF to impose tough measures in West Bank】On the 24th, Prime Minister Netanyahu and Defense Minister Katz said after consultations with a small security cabinet and military and intelligence chiefs they had instructed the Israel Defense Forces to implement a series of tougher security measures in the West Bank. Measures include demolishing homes of Palestinians accused of \"carrying out\" an attack near Taile village that morning; launching intensified military operations in the relevant Palestinian villages, including seizing weapons and revoking local residents' work permits; deploying additional troops across the West Bank; segregating Israeli and Palestinian vehicle traffic on specified roads and adding military checkpoints; and accelerating the \"legalization\" of settler outpost farms and approving new outposts."
+    },
+    {
+      "id": "5007083",
+      "time": "2026-07-24 20:41:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行行長納比烏琳娜：考慮到產能下滑，央行已下調俄羅斯經濟展望。"
+    },
+    {
+      "id": "5007082",
+      "time": "2026-07-24 20:41:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "威瑞森執行長：人工智慧模型可自動修復網路故障，原本需數小時完成的工作現在僅需數分鐘。"
+    },
+    {
+      "id": "5007081",
+      "time": "2026-07-24 20:41:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽附近一商船遭襲 船上有30名船員】一名海員24日向新華社記者獨家提供的船舶無線電公共頻道錄音顯示，一艘名為“迪沙”號的商船發出緊急求救訊號，稱在霍爾木茲海峽附近遭“不明投射物襲擊”，船上有30名船員。錄音顯示，“迪沙”號商船呼叫稱：“我們遭到不明投射物襲擊，機艙濃煙滾滾，急需立即救援。我們船上有30名船員。”船方通報的位置位於霍爾木茲海峽附近。在另一段錄音中，一名被前述海員辨認為美方人員的喊話者向一艘名為“拉文”號的商船發出警告，稱其“繼續駛向伊朗方向，已違反相關要求”。喊話者稱，“我方正準備向你方機艙開火”，並要求船員在限定時間內撤離機艙。船舶資訊顯示，“拉文”號和“迪沙”號為同一艘船隻，該船今年5月更名為“迪沙”號。（新華社）"
+    },
+    {
+      "id": "te:economy:569776",
+      "time": "2026-07-24 20:41:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Wholesale Sales",
+        "Importance 1"
+      ],
+      "text": "Canada Wholesale Sales Seen Rising the Most since 2023 — Canada's wholesale trade is estimated to have risen by 2.7% month-over-month in June 2026, the most since May 2023, according to advance estimates. The anticipated increase partly reflects higher sales in the machinery, equipment and supplies subsector."
+    },
+    {
+      "id": "te:economy:569775",
+      "time": "2026-07-24 20:41:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Producer Price Inflation MoM",
+        "Importance 2"
+      ],
+      "text": "Canada Producer Prices Drop Most in Over 2 Years — The industrial producer price index in Canada fell by 1.4% from the previous month in June of 2026, the sharpest decline since December of 2023, to erase part of the surge in producer prices since January. The brief restoration of energy supply from the Middle East after the memorandum of understanding between Iran and the US drove fuel prices to slide in the month. The energy and petroleum sector of the CPI slid by 9.1%. Meanwhile, prices also fell for non-ferrous metal products (-4.7%) and meat, fish, and dairy products (-0.2%). The Canadian IPPI surged by 13.6% annually, the highest since 2022, as fuel prices remained elevated despite the monthly pullback. Energy and petroleum prices were 36.8% higher, while those for chemical products were 18% up."
+    },
+    {
+      "id": "5007080",
+      "time": "2026-07-24 20:41:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國撤銷軍事情報升級招標，此前與帕蘭提爾公司爆發糾紛。"
+    },
+    {
+      "id": "5007079",
+      "time": "2026-07-24 20:41:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼巴布亞省發生5.4級地震】據印度尼西亞氣象、氣候和地球物理局釋出的報告，當地時間7月24日19時14分，印尼巴布亞省薩米縣東北方向28公里處發生5.4級地震，震源深度16公里。（央視新聞）"
+    },
+    {
+      "id": "5007078",
+      "time": "2026-07-24 20:40:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總統提請最高法院審議超額利潤稅法案。"
+    },
+    {
+      "id": "mkt:019f9424-3ee3-7aab-8e88-6502240810ce",
+      "time": "2026-07-24 20:40:31",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【BofA: European equities vulnerable to downside catalysts】BofA analysts say the Stoxx Europe 600 is trading near record highs while consensus profit-margin expectations for European companies are at record levels, leaving the market exposed to disappointment. Key downside risks cited are AI-driven trading volatility, further escalation in the Middle East that could lift energy prices, and an elevated interest-rate outlook that could deepen European equities’ underperformance. The Stoxx Europe 600 rose 0.5% on Friday and is up 8.5% year-to-date."
+    },
+    {
+      "id": "5007076",
+      "time": "2026-07-24 20:40:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日媒：美國五大科技巨頭隱性債務超萬億美元 五大科技巨頭隱性債務增了8倍】《日經亞洲評論》21日報道稱，在查閱了谷歌的母公司“字母表”公司、微軟、亞馬遜、元宇宙公司和甲骨文公司的財報和其他資料後發現，這五家科技巨頭的隱性債務4年內增長了8倍，最近一個季度達到了1.65萬億美元，遠超表內約1.35萬億美元的負債規模。評級機構穆迪早在2月就對美國科技巨頭龐大的隱性負債發出警告。據英國《金融時報》報道，穆迪在當時的一份報告中稱，美國現行會計準則存在“侷限性”，允許大型科技公司在人工智慧資料中心建設狂潮中，隱藏數百億美元的潛在負債。這一漏洞可能導致投資者難以看清這些科技巨頭真實的財務健康狀況。（央視財經）"
+    },
+    {
+      "id": "5007075",
+      "time": "2026-07-24 20:39:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶龍地產旗下6筆公開債推“資產抵債選項”，百元債券可獲35元信託份額】7月24日，寶龍地產（01238.HK）附屬公司上海寶龍實業發展（集團）有限公司（以下簡稱“寶龍實業”）啟動旗下6筆公司債券或資產支援證券的“資產抵債選項”申報工作。本次資產抵債選項涉及的6筆債券分別為：H0寶龍04、H19寶龍2、H21寶龍1、H21寶龍2、H21寶龍3及H寶龍B1。其中前5筆為公司債券，H寶龍B1為資產支援證券。（澎湃）"
+    },
+    {
+      "id": "te:economy:569774",
+      "time": "2026-07-24 20:39:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Wholesale Prices",
+        "Importance 1"
+      ],
+      "text": "Canada Raw Materials Prices Plunge 6.9% — Canada’s raw materials prices decreased 6.9% mom in June 2026, the largest monthly decline for the index since July 2022 and the first since August 2025, compared to forecasts of a 1.5% fall. The largest downward contribution came from prices for crude energy products (-13.7%) which declined for the second consecutive month. Both conventional crude oil (-15.7%) and synthetic crude oil (-9.8%) posted monthly decreases as a tentative deal between the US and Iran was announced. Excluding energy crude, the raw materials price index decreased 2.7%. Meanwhile, metal ores, concentrates and scrap (-5.1%) posted its largest monthly decline since June 2023. The driver of the decrease was the gold, silver, and platinum group metal ores and concentrates product group (-8.4%), which registered its largest drop since July 2017. Lower prices for nickel ores and concentrates (-4.3%) made an impact as well. Year-on-year, prices for raw materials increased 20.7%, slowing from a 33.4% gain in May."
+    },
+    {
+      "id": "5007074",
+      "time": "2026-07-24 20:38:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年廣東GDP增量全國第一】7月23日上午，廣東省統計局釋出2026年上半年經濟資料。上半年全省地區生產總值7.23萬億元，同比增長4.5%，增速比上年同期和全年分別提升0.3個和0.6個百分點，經濟總量繼續穩居全國首位。結合各省份釋出的資料，上半年廣東GDP增量位列全國第一。 全國經濟十強省份的2026年半年報已全部揭曉。GDP前十席位依次為廣東、江蘇、山東、浙江、四川、河南、湖北、福建、上海、安徽，十強省份經濟體量合計佔全國比重超六成，“挑大樑”作用凸顯。 AI浪潮帶動光電子資訊、積體電路、工業機器人等重點產業快速擴張，這在工業大省中表現尤為明顯。廣東人工智慧核心產業規模已突破3000億元，佔全國約四分之一，依託當地豐富的應用場景，人工智慧快速滲透千行百業。上半年，廣東工業機器人產品產量同比增長34.2%，積體電路產量增長29.7%。（21財經）"
+    },
     {
       "id": "5007073",
       "time": "2026-07-24 20:38:24",
@@ -165823,60 +165955,6 @@
         "其他"
       ],
       "text": "【工信部副部長柯吉欣：建設人工智慧領域製造業創新中心 實施“模數共振”行動】在2026世界人工智慧大會主論壇下午場上，工業和資訊化部黨組成員、副部長柯吉欣表示，我國人工智慧產業蓬勃發展，核心產業規模突破1.2萬億元，企業超過6200家，智慧算力規模達2185EFLOPS；人形機器人整機企業超140家、產品超過400款；規上工業企業人工智慧應用普及率超30%。下一步，工業和資訊化部將與各方一道，加力推進人工智慧產業高質量發展，高水平賦能千行百業，將人工智慧這個“關鍵變數”，打造成為經濟高質量發展的“強勁增量”。一是強創新，築牢產業底座。將加強人工智慧科技創新和產業創新深度融合，建設人工智慧領域製造業創新中心，實施“模數共振”行動，推動算力、演算法、資料協同攻關。二是促應用，深化行業賦能。將大力推動人工智慧與製造業深度融合，開展人形機器人與具身智慧實景實訓行動，搭建供需對接橋樑，推動人工智慧技術規模化應用。三是優生態，營造良好環境。將加快關鍵急需標準研製，實施人工智慧倫理審查先導計劃，向世界提供高效能開源大模型，讓智慧成果更好地普惠全球。"
-    },
-    {
-      "id": "4994637",
-      "time": "2026-07-17 20:43:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【飛凱材料：董事會秘書辭職 董事長代行職責】飛凱材料公告稱，董事會近日收到董事會秘書嚴帥書面辭職報告，因其個人原因，決定辭去該職務，辭職後不再擔任公司及子公司任何職務。嚴帥原定任期至2029年5月11日，截至公告披露日，其直接持有公司股票23,500股，佔總股本0.004%，另有未歸屬限制性股票23,500股，佔比0.004%。在未正式聘任新董秘期間，由董事長ZHANG JINSHAN代行職責。"
-    },
-    {
-      "id": "4994636",
-      "time": "2026-07-17 20:43:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守3970美元/盎司，日內跌0.56%。"
-    },
-    {
-      "id": "4994635",
-      "time": "2026-07-17 20:43:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歐盟據悉即將批准遊戲巨頭藝電收購案】據報道，歐盟即將批准包括沙特公共投資基金（PIF）在內的一個投資財團收購《戰地風雲》《模擬人生》等熱門遊戲開發商藝電。該投資財團成員還包括Affinity Partners以及私募股權公司銀湖資本。知情人士稱，預計歐盟委員會將在7月30日結束依據《外國補貼條例》（FSR）啟動的初步審查後批准這項交易。此前，藝電去年9月宣佈達成最終協議，將被PIF、銀湖資本和Affinity Partners組成的投資財團以全現金方式收購，企業價值約為550億美元。（介面新聞）"
-    },
-    {
-      "id": "4994634",
-      "time": "2026-07-17 20:41:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：俄羅斯的經濟困難“並非危急”，宏觀經濟穩定未受影響。"
-    },
-    {
-      "id": "4994633",
-      "time": "2026-07-17 20:41:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "據燈塔專業版，截至7月17日，《功夫女足》上映7天總票房（含預售）進入2026年度票房榜前五！"
-    },
-    {
-      "id": "te:economy:567904",
-      "time": "2026-07-17 20:39:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Building Permits",
-        "Importance 1"
-      ],
-      "text": "US Building Permits Fall More than Anticipated — US building permits dropped by 3% month-over-month to a seasonally adjusted annual rate of 1.367 million in June 2026, below the market expectations of 1.40 million, preliminary figures showed. Permits for buildings with five or more units slipped 4.9% to 445,000, and single-family permits fell 2.4% to 871,000. Regionally, permits dropped in the South (-7.2% to 707,000) and the West (-6.2% to 302,000), but rose in the Northeast (15.8% to 154,000) and the Midwest (5.7% to 204,000)."
     }
   ]
 }
