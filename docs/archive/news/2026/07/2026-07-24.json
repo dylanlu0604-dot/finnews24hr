@@ -1,7 +1,82 @@
 {
   "date": "2026-07-24",
-  "count": 2786,
+  "count": 2794,
   "items": [
+    {
+      "id": "mkt:019f941e-cf6f-7aab-8e88-4eaef830f4c0",
+      "time": "2026-07-24 20:34:34",
+      "tags": [
+        "MKT News",
+        "BP.N",
+        "Impact mixed"
+      ],
+      "text": "The Financial Times reported BP (BP.N) is close to agreeing to sell its solar business LightSource to a Kuwait-backed investor group."
+    },
+    {
+      "id": "5007063",
+      "time": "2026-07-24 20:34:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行行長納比烏琳娜就野莓電商平臺遭攻擊一事表示：此類事件會引發供給衝擊，但目前尚未對貨幣政策造成影響。"
+    },
+    {
+      "id": "5007062",
+      "time": "2026-07-24 20:33:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【6月以來已有六家滬市券商披露擬回購股份方案】7月24日晚間，華創雲信披露護盤式股份回購方案，擬在董事會審議透過後3個月內回購公司股份，金額1億元至2億元，成為6月以來第六家披露擬回購股份的滬市券商。記者關注到，近期，滬市已有多家券商推出股份回購、股東增持、提議中期分紅方案等，其中擬回購及增持上限不超過12.6億元，回購用途多為登出或護盤。"
+    },
+    {
+      "id": "te:economy:569773",
+      "time": "2026-07-24 20:33:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Manufacturing Sales",
+        "Importance 0"
+      ],
+      "text": "Canada Manufacturing Sales Seen Falling in June — Canada’s manufacturing sales are projected edge down 0.1% month-over-month in June 2026, following a 1.3% increase in May, according to preliminary estimates. The expected decrease is mainly driven by a decline in the petroleum and coal products subsector. Excluding the subsector, total manufacturing sales rose 2.2% in June."
+    },
+    {
+      "id": "5007061",
+      "time": "2026-07-24 20:33:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油公司即將達成協議，將旗下 LightSource 售予科威特資本支援的集團。"
+    },
+    {
+      "id": "5007060",
+      "time": "2026-07-24 20:33:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：印度尼西亞阿貝普拉以西202公里處發生5.4級地震。"
+    },
+    {
+      "id": "5007059",
+      "time": "2026-07-24 20:31:06",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【據悉特朗普尋求在地震後解凍委內瑞拉數十億美元資產】據訊息人士稱，特朗普政府和委內瑞拉官員正在探討解凍數十億美元海外凍結資產的途徑，旨在幫助委內瑞拉從兩起地震中復甦，同時避免給美國納稅人增加更多負擔。訊息人士表示，該計劃旨在幫助委內瑞拉政府重建經濟，而無需華盛頓動用已承諾的3.86億美元之外的資金。委內瑞拉至今仍無法透過國際貨幣基金組織獲取數十億美元資金，也無法透過英國央行或各類海外賬戶獲得黃金等資源。"
+    },
+    {
+      "id": "mkt:019f941b-72ef-7aab-8e88-44d1168bfbd2",
+      "time": "2026-07-24 20:30:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump reportedly seeks to unfreeze billions of Venezuelan assets after earthquakes】The Trump administration and Venezuelan officials are exploring ways to unfreeze billions of dollars in overseas Venezuelan assets to help recovery from two earthquakes, sources say. The proposal aims to enable economic reconstruction without adding costs to US taxpayers or requiring Washington to deploy funds beyond the $386m already pledged. Venezuela remains unable to secure billions from the IMF or to access gold and other assets held at the Bank of England and other overseas accounts."
+    },
     {
       "id": "mkt:019f941b-3664-7aab-8e88-38b37da6a078",
       "time": "2026-07-24 20:30:39",
