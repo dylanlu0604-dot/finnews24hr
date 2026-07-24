@@ -1,7 +1,46 @@
 {
   "date": "2026-07-25",
-  "count": 312,
+  "count": 316,
   "items": [
+    {
+      "id": "mkt:019f95b5-1b23-7aab-8e90-24ffee8b2a3e",
+      "time": "2026-07-25 03:58:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said the new tariffs are very standard and that a simpler method exists to levy them, adding there are multiple options."
+    },
+    {
+      "id": "5007565",
+      "time": "2026-07-25 03:58:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "提示：特朗普結束講話。"
+    },
+    {
+      "id": "5007564",
+      "time": "2026-07-25 03:58:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果沒有我當選總統，伊朗可能將造出核武器打擊以色列，以色列將不復存在。"
+    },
+    {
+      "id": "mkt:019f95b4-16d9-7aab-8e90-1de326586ee9",
+      "time": "2026-07-25 03:57:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Market sources: witnesses report multiple airstrikes at Yemen's Hodeidah port."
+    },
     {
       "id": "5007563",
       "time": "2026-07-25 03:53:47",
