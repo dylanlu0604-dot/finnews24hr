@@ -1,7 +1,193 @@
 {
-  "updated": "2026-07-24 19:00:39",
-  "count": 18074,
+  "updated": "2026-07-24 19:04:38",
+  "count": 18078,
   "items": [
+    {
+      "id": "5006857",
+      "time": "2026-07-24 19:03:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，俄羅斯導彈襲擊烏克蘭基輔地區，造成六人死亡。"
+    },
+    {
+      "id": "5006856",
+      "time": "2026-07-24 19:03:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "耐斯特石油（Neste OYJ）盤前股價跌勢持續擴大，目前已累計下跌11.5%，正邁向2024年5月以來表現最差的單日行情。"
+    },
+    {
+      "id": "5006855",
+      "time": "2026-07-24 19:03:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大皇家銀行將英特爾目標價從80美元上調至100美元。"
+    },
+    {
+      "id": "5006854",
+      "time": "2026-07-24 19:03:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "truist證券將萬事達卡目標價從561美元下調至554美元。"
+    },
+    {
+      "id": "mkt:019f93cb-0f91-7aab-8e85-b9b232049180",
+      "time": "2026-07-24 19:03:06",
+      "tags": [
+        "MKT News",
+        "AXP.N",
+        "Impact bullish"
+      ],
+      "text": "American Express (AXP.N) reported Q2 total spend of $14.48 billion versus $14.43 billion expected; Q2 EPS $4.53 versus $4.41 expected."
+    },
+    {
+      "id": "5006853",
+      "time": "2026-07-24 19:02:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紫建電子：擬8億元增資全資子公司廣東維都利】紫建電子公告稱，公司於2026年7月24日召開董事會，審議透過對全資子公司廣東維都利增資8億元的議案。增資完成後，其註冊資本將由1億元增至9億元，仍為全資子公司，合併報表範圍不變。廣東維都利2026年1 - 6月營收2549.32萬元、淨利潤412.74萬元。本次增資用自有資金，或面臨產業政策等風險，但符合公司戰略，不會造成重大不利影響。"
+    },
+    {
+      "id": "5006852",
+      "time": "2026-07-24 19:02:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應急管理部針對廣東、福建啟動國家地質災害四級應急響應】據氣象部門預測，受今年第12號颱風“紅霞”影響，7月25日至27日，廣東東部、福建南部等地有強降雨，累計降雨量150~300毫米，局地400~500毫米。經與自然資源部聯合會商研判，廣東東部、福建南部發生地質災害的風險高。根據《國家突發地質災害應急預案》及有關規定，應急管理部於7月24日針對廣東、福建啟動國家地質災害四級應急響應。（央視新聞）"
+    },
+    {
+      "id": "5006851",
+      "time": "2026-07-24 19:02:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通上調2026年營收增長預測，因富裕持卡人持續消費。"
+    },
+    {
+      "id": "mkt:019f93ca-55b8-7aab-8e85-b5c497b6d32a",
+      "time": "2026-07-24 19:02:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) is developing a new app called \"Seller\" to provide additional tools for top sellers on its Marketplace."
+    },
+    {
+      "id": "mkt:019f93ca-3a79-7aab-8e85-a813cc794a75",
+      "time": "2026-07-24 19:02:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's Ministry of Emergency Management activates national level-4 geological disaster response for Guangdong, Fujian】Typhoon Hongxia, this year’s 12th typhoon, is forecast to bring heavy rain to eastern Guangdong and southern Fujian from July 25–27, with cumulative totals of 150–300mm and local peaks of 400–500mm. After a joint assessment with the Ministry of Natural Resources, authorities judged geological-disaster risk high in those areas; under the National Emergency Plan for Geological Disasters the Ministry of Emergency Management activated a national level-4 emergency response for Guangdong and Fujian on July 24."
+    },
+    {
+      "id": "5006850",
+      "time": "2026-07-24 19:02:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國運通股價在公佈第二季度業績後盤前下跌3.8%。"
+    },
+    {
+      "id": "5006849",
+      "time": "2026-07-24 19:01:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱準備在約旦河西岸發動大規模軍事行動】當地時間24日，以色列國防軍宣佈將向約旦河西岸緊急增派5個連兵力，並對納布盧斯及附近村鎮實施封鎖，同時展開相關軍事搜捕行動。此外，以色列國防軍表示，已取消約旦河西岸駐軍的週末休假，並正在準備發動大規模軍事行動。以色列總理內塔尼亞胡當天緊急召集安全磋商會議。據悉，國防部長卡茨、以軍總參謀長扎米爾及國家安全總局（辛貝特）局長大衛·齊尼參加了此次會議。（央視新聞）"
+    },
+    {
+      "id": "5006848",
+      "time": "2026-07-24 19:01:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：正在搭建全新應用Seller，為平臺 Marketplace 內的頭部賣家提供新工具。"
+    },
+    {
+      "id": "mkt:019f93c9-be0b-7aab-8e85-a6b6b445f548",
+      "time": "2026-07-24 19:01:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) launched a Facebook verification feature."
+    },
+    {
+      "id": "5006847",
+      "time": "2026-07-24 19:01:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "META：推出Facebook認證服務。"
+    },
+    {
+      "id": "5006846",
+      "time": "2026-07-24 19:01:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽民航機場集團有限公司原董事長周晞橋被開除黨籍】經查，周晞橋喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查；違背組織原則，在職工錄用工作中謀取利益；違反廉潔紀律，違規收受禮品、禮金、消費卡；利用職務便利為他人在工程招標、專案承攬等方面謀利，並非法收受鉅額財物。"
+    },
+    {
+      "id": "5006845",
+      "time": "2026-07-24 19:01:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【爭光股份：擬發行不超6.17億元可轉債用於生物醫藥樹脂等專案】爭光股份(301092.SZ)公告稱，公司擬向不特定物件發行可轉換公司債券，募集資金總額不超過6.17億元，扣除發行費用後擬用於年產250噸生物醫藥領域專用樹脂生產專案、年產30套吸附分離純化裝置專案、生物醫藥及新能源樹脂應用研發中心、營銷網路及服務體系建設專案及補充流動資金。"
+    },
+    {
+      "id": "5006844",
+      "time": "2026-07-24 19:00:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【道氏技術：2026年上半年淨利潤2.9億元，同比增長25.92%】道氏技術公告，2026年上半年營業收入47.94億元，同比增長31.21%。淨利潤2.9億元，同比增長25.92%。"
+    },
+    {
+      "id": "5006843",
+      "time": "2026-07-24 19:00:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通預計本財年營收增長10%，此前預期為增長9%至10%。"
+    },
+    {
+      "id": "5006842",
+      "time": "2026-07-24 19:00:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通第二季度入賬交易金額為4558億美元。"
+    },
+    {
+      "id": "5006841",
+      "time": "2026-07-24 19:00:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "VERIZON預計本財年調整後每股收益為4.99美元至5.04美元，此前預期為4.95美元至4.99美元。"
+    },
+    {
+      "id": "5006840",
+      "time": "2026-07-24 19:00:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞稱船隻受損疑似水雷或無人機所致，無人員受傷。"
+    },
     {
       "id": "5006839",
       "time": "2026-07-24 18:59:50",
@@ -165613,162 +165799,6 @@
         "其他"
       ],
       "text": "安迪・伯納姆正式當選英國工黨新任領袖。"
-    },
-    {
-      "id": "mkt:019f6fbf-a360-7aab-8de2-be952f66a6a4",
-      "time": "2026-07-17 19:04:17",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Kuwait's foreign ministry condemned Iran's aggression targeting a power plant, saying it damaged generation units."
-    },
-    {
-      "id": "4994406",
-      "time": "2026-07-17 19:04:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "康菲石油：伊拉克合資專案報酬與增量產量及增量成本的對應比例掛鉤。"
-    },
-    {
-      "id": "4994405",
-      "time": "2026-07-17 19:04:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：安迪·伯納姆獲全場起立鼓掌。"
-    },
-    {
-      "id": "4994404",
-      "time": "2026-07-17 19:03:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：安迪·伯納姆將於幾分鐘內正式當選英國工黨新任領袖。"
-    },
-    {
-      "id": "4994403",
-      "time": "2026-07-17 19:03:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光莆股份：“光電感測器件整合封測研發及產業化專案”延期至2028年6月】光莆股份公告稱，公司於2026年7月17日召開董事會，同意在募投專案實施主體、用途及規模不變的前提下，將“光電感測器件整合封測研發及產業化專案”達到預定可使用狀態的日期由2026年7月25日延期至2028年6月30日。該專案總投資18,464.86萬元，截至2026年6月30日，待使用募集資金支付金額為1,536.51萬元。延期是因工藝技術迭代等，不會對生產經營產生重大不利影響。"
-    },
-    {
-      "id": "4994402",
-      "time": "2026-07-17 19:02:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "康菲石油：伊拉克開發機遇符合我們的自律投資框架。"
-    },
-    {
-      "id": "4994401",
-      "time": "2026-07-17 19:02:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國石油：歡迎康菲石油參與伊拉克基爾庫克油田再開發專案。"
-    },
-    {
-      "id": "4994400",
-      "time": "2026-07-17 19:02:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！南海海域軍事訓練】據中國海事局網站訊息，清瀾海事局釋出航行警告，7月17日至7月19日每日19時30分至22時，7月21日6時至7月24日18時，南海部分海域進行軍事訓練，禁止駛入。 （央視軍事）"
-    },
-    {
-      "id": "4994399",
-      "time": "2026-07-17 19:01:52",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【大摩：微軟生成式AI領導地位“明確” Azure及M365支出意向持續走強】摩根士丹利釋出研報稱， 微軟在生成式人工智慧(GenAI)領域的領導地位“十分明確”，並援引Microsoft 365、Copilot及Azure雲業務“強勁的需求趨勢”作為佐證。在Azure方面，62%的CIO預計未來12個月將增加相關支出，高於2025年第二季度調查時的57%。Microsoft 365和Office 365的支出意向也“顯著上升”，65%的CIO預計將增加支出，而2024年第二季度和2025年第二季度的這一比例分別為46%和55%。"
-    },
-    {
-      "id": "mkt:019f6fbd-2f51-7aab-8de2-b578188441e8",
-      "time": "2026-07-17 19:01:37",
-      "tags": [
-        "MKT News",
-        "01810.HK"
-      ],
-      "text": "Xiaomi Corporation (01810.HK) said its board will meet on 18 August 2026 to consider and approve unaudited consolidated interim results for the six months ended 30 June 2026 and to consider an interim dividend, if any."
-    },
-    {
-      "id": "4994398",
-      "time": "2026-07-17 19:01:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "小米集團(01810.HK)：本公司將於2026年8月18日（星期二）舉行董事會會議，其中議程包括考慮及批准本公司及其附屬公司截至2026年6月30日止六個月之未經稽核綜合中期業績，及考慮派發中期股息（如有）。"
-    },
-    {
-      "id": "mkt:019f6fbd-1860-7aab-8de2-acc199ff1d69",
-      "time": "2026-07-17 19:01:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigational warning: military exercises in South China Sea】China Maritime Safety Administration said its Qinglan bureau issued a navigational warning: parts of the South China Sea will be closed for military training, prohibiting entry from July 17–19 daily 19:30–22:00 and from July 21 06:00 to July 24 18:00 (Beijing time)."
-    },
-    {
-      "id": "4994397",
-      "time": "2026-07-17 19:01:28",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【花旗：臺積電毛利率前景依然堅韌】花旗分析師在一份研究報告中表示，臺積電的毛利率前景依然堅韌。分析師表示，在第二季度毛利率達到67.7%、先進製程已佔晶圓收入的77%，以及2奈米晶片首次貢獻收入的背景下，臺積電依然處於有利地位，能夠維持行業領先的盈利能力。他們補充說，臺積電的定價紀律也維護了長期的客戶關係。更重要的是，管理層反覆強調，人工智慧需求已變得比先前預期的更加強勁，並且隨著智慧體化AI在加速器之外增加CPU需求，該公司看到AI需求不斷增長。"
-    },
-    {
-      "id": "4994396",
-      "time": "2026-07-17 19:01:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【德銀：人民幣國際化邁入“雙引擎”驅動的全新發展階段】德意志銀行研究最新報告稱，在明確的政策支援和市場結構的持續最佳化下，人民幣國際化正進入一個由“雙引擎”驅動的全新發展階段。歐洲機構成為人民幣融資市場國際化程序中的“主力軍”，在熊貓債和點心債的外國發行人中均佔據主導地位。 德銀中國行長尹楨在接受記者採訪時表示，當美元和歐元等傳統的全球主要融資貨幣處於相對高息週期時，人民幣不僅具備了極大的融資成本優勢，而且在全球去美元化、新興市場加大本土貨幣使用的宏觀背景下，成為了極具吸引力的替代選擇。 德銀援引萬得資料稱，今年上半年熊貓債發行量同比增長超過60%，結構性增長表明其吸引力已不再侷限於融資成本優勢。 對跨國企業而言，熊貓債正從“戰術選項”變為“戰略組成部分”。包括大眾、賓士、寶馬等汽車製造商，以及巴斯夫、拜耳和漢高等化工企業，近年來多次登陸熊貓債市場。鑑於上述歐洲企業在中國擁有龐大的在岸業務和營收，使用本幣進行融資，能夠天然地對沖其人民幣收入敞口帶來的外匯風險。 與此同時，作為核心的離岸人民幣市場，點心債市場正展現出高度的成熟性。萬得資料顯示，截至今年上半年，點心債發行總規模已突破8000億元，同比增長近50%。德銀報告稱，點心債發行主體日益多元化，境外發行人佔比已攀升至 25%以上。在境內發行人中，科技、IT 等“新經濟”行業已取代傳統行業，成為新的發行主力，以進一步滿足其在人工智慧、雲端計算等領域的資本支出需求。 （第一財經）"
-    },
-    {
-      "id": "mkt:019f6fbc-e346-7aab-8de2-a6fd3d95155b",
-      "time": "2026-07-17 19:01:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Burnham to be confirmed as new leader of the UK Labour Party within minutes."
-    },
-    {
-      "id": "mkt:019f6fbc-ccdb-7aab-8de2-9a0de1441f73",
-      "time": "2026-07-17 19:01:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "TSM.N",
-        "Impact bullish"
-      ],
-      "text": "【CITIGROUP: TSMC gross-margin outlook remains resilient】CITIGROUP analysts say TSMC’s gross-margin outlook remains resilient: Q2 gross margin was 67.7%, advanced nodes made up 77% of wafer revenue, and 2nm chips contributed revenue for the first time. Analysts say pricing discipline preserves industry-leading profitability and long-term customer relationships. Management repeatedly said AI demand is stronger than previously expected and that agentic AI is lifting CPU demand beyond accelerators, with the company seeing continued growth in AI demand."
-    },
-    {
-      "id": "4994395",
-      "time": "2026-07-17 19:01:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蔚來晶片子公司神璣首次參加世界人工智慧大會，釋出多款前沿AI算力產品】2026世界人工智慧大會正式開幕，蔚來晶片子公司安徽神璣技術有限公司首次獨立參展。除了展出神璣NX9031晶片和車載域控外，還在會展期間推出 “睿動” 具身智慧開發平臺、分散式智慧體平臺等AI新產品。（新浪科技）"
-    },
-    {
-      "id": "4994394",
-      "time": "2026-07-17 19:00:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "康菲石油達成協議，支援伊拉克在產油田的重新開發。"
     }
   ]
 }

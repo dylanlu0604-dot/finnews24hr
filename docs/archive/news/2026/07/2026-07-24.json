@@ -1,7 +1,193 @@
 {
   "date": "2026-07-24",
-  "count": 2474,
+  "count": 2496,
   "items": [
+    {
+      "id": "5006857",
+      "time": "2026-07-24 19:03:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，俄羅斯導彈襲擊烏克蘭基輔地區，造成六人死亡。"
+    },
+    {
+      "id": "5006856",
+      "time": "2026-07-24 19:03:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "耐斯特石油（Neste OYJ）盤前股價跌勢持續擴大，目前已累計下跌11.5%，正邁向2024年5月以來表現最差的單日行情。"
+    },
+    {
+      "id": "5006855",
+      "time": "2026-07-24 19:03:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大皇家銀行將英特爾目標價從80美元上調至100美元。"
+    },
+    {
+      "id": "5006854",
+      "time": "2026-07-24 19:03:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "truist證券將萬事達卡目標價從561美元下調至554美元。"
+    },
+    {
+      "id": "mkt:019f93cb-0f91-7aab-8e85-b9b232049180",
+      "time": "2026-07-24 19:03:06",
+      "tags": [
+        "MKT News",
+        "AXP.N",
+        "Impact bullish"
+      ],
+      "text": "American Express (AXP.N) reported Q2 total spend of $14.48 billion versus $14.43 billion expected; Q2 EPS $4.53 versus $4.41 expected."
+    },
+    {
+      "id": "5006853",
+      "time": "2026-07-24 19:02:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紫建電子：擬8億元增資全資子公司廣東維都利】紫建電子公告稱，公司於2026年7月24日召開董事會，審議透過對全資子公司廣東維都利增資8億元的議案。增資完成後，其註冊資本將由1億元增至9億元，仍為全資子公司，合併報表範圍不變。廣東維都利2026年1 - 6月營收2549.32萬元、淨利潤412.74萬元。本次增資用自有資金，或面臨產業政策等風險，但符合公司戰略，不會造成重大不利影響。"
+    },
+    {
+      "id": "5006852",
+      "time": "2026-07-24 19:02:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應急管理部針對廣東、福建啟動國家地質災害四級應急響應】據氣象部門預測，受今年第12號颱風“紅霞”影響，7月25日至27日，廣東東部、福建南部等地有強降雨，累計降雨量150~300毫米，局地400~500毫米。經與自然資源部聯合會商研判，廣東東部、福建南部發生地質災害的風險高。根據《國家突發地質災害應急預案》及有關規定，應急管理部於7月24日針對廣東、福建啟動國家地質災害四級應急響應。（央視新聞）"
+    },
+    {
+      "id": "5006851",
+      "time": "2026-07-24 19:02:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通上調2026年營收增長預測，因富裕持卡人持續消費。"
+    },
+    {
+      "id": "mkt:019f93ca-55b8-7aab-8e85-b5c497b6d32a",
+      "time": "2026-07-24 19:02:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) is developing a new app called \"Seller\" to provide additional tools for top sellers on its Marketplace."
+    },
+    {
+      "id": "mkt:019f93ca-3a79-7aab-8e85-a813cc794a75",
+      "time": "2026-07-24 19:02:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's Ministry of Emergency Management activates national level-4 geological disaster response for Guangdong, Fujian】Typhoon Hongxia, this year’s 12th typhoon, is forecast to bring heavy rain to eastern Guangdong and southern Fujian from July 25–27, with cumulative totals of 150–300mm and local peaks of 400–500mm. After a joint assessment with the Ministry of Natural Resources, authorities judged geological-disaster risk high in those areas; under the National Emergency Plan for Geological Disasters the Ministry of Emergency Management activated a national level-4 emergency response for Guangdong and Fujian on July 24."
+    },
+    {
+      "id": "5006850",
+      "time": "2026-07-24 19:02:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國運通股價在公佈第二季度業績後盤前下跌3.8%。"
+    },
+    {
+      "id": "5006849",
+      "time": "2026-07-24 19:01:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱準備在約旦河西岸發動大規模軍事行動】當地時間24日，以色列國防軍宣佈將向約旦河西岸緊急增派5個連兵力，並對納布盧斯及附近村鎮實施封鎖，同時展開相關軍事搜捕行動。此外，以色列國防軍表示，已取消約旦河西岸駐軍的週末休假，並正在準備發動大規模軍事行動。以色列總理內塔尼亞胡當天緊急召集安全磋商會議。據悉，國防部長卡茨、以軍總參謀長扎米爾及國家安全總局（辛貝特）局長大衛·齊尼參加了此次會議。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f93c9-be0b-7aab-8e85-a6b6b445f548",
+      "time": "2026-07-24 19:01:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) launched a Facebook verification feature."
+    },
+    {
+      "id": "5006848",
+      "time": "2026-07-24 19:01:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：正在搭建全新應用Seller，為平臺 Marketplace 內的頭部賣家提供新工具。"
+    },
+    {
+      "id": "5006847",
+      "time": "2026-07-24 19:01:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "META：推出Facebook認證服務。"
+    },
+    {
+      "id": "5006846",
+      "time": "2026-07-24 19:01:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽民航機場集團有限公司原董事長周晞橋被開除黨籍】經查，周晞橋喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查；違背組織原則，在職工錄用工作中謀取利益；違反廉潔紀律，違規收受禮品、禮金、消費卡；利用職務便利為他人在工程招標、專案承攬等方面謀利，並非法收受鉅額財物。"
+    },
+    {
+      "id": "5006845",
+      "time": "2026-07-24 19:01:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【爭光股份：擬發行不超6.17億元可轉債用於生物醫藥樹脂等專案】爭光股份(301092.SZ)公告稱，公司擬向不特定物件發行可轉換公司債券，募集資金總額不超過6.17億元，扣除發行費用後擬用於年產250噸生物醫藥領域專用樹脂生產專案、年產30套吸附分離純化裝置專案、生物醫藥及新能源樹脂應用研發中心、營銷網路及服務體系建設專案及補充流動資金。"
+    },
+    {
+      "id": "5006844",
+      "time": "2026-07-24 19:00:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【道氏技術：2026年上半年淨利潤2.9億元，同比增長25.92%】道氏技術公告，2026年上半年營業收入47.94億元，同比增長31.21%。淨利潤2.9億元，同比增長25.92%。"
+    },
+    {
+      "id": "5006843",
+      "time": "2026-07-24 19:00:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通預計本財年營收增長10%，此前預期為增長9%至10%。"
+    },
+    {
+      "id": "5006842",
+      "time": "2026-07-24 19:00:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通第二季度入賬交易金額為4558億美元。"
+    },
+    {
+      "id": "5006841",
+      "time": "2026-07-24 19:00:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "VERIZON預計本財年調整後每股收益為4.99美元至5.04美元，此前預期為4.95美元至4.99美元。"
+    },
+    {
+      "id": "5006840",
+      "time": "2026-07-24 19:00:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞稱船隻受損疑似水雷或無人機所致，無人員受傷。"
+    },
     {
       "id": "5006839",
       "time": "2026-07-24 18:59:50",
