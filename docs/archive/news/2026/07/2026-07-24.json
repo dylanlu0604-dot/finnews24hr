@@ -1,7 +1,91 @@
 {
   "date": "2026-07-24",
-  "count": 668,
+  "count": 677,
   "items": [
+    {
+      "id": "5005602",
+      "time": "2026-07-24 08:47:17",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【商務部：消費品以舊換新帶動銷售額超1.25萬億元】在國務院新聞辦公室昨天（23日）舉行的新聞釋出會上，商務部有關負責人介紹，今年以來，消費品以舊換新政策穩住了消費市場基本盤，投入資金撬動比由去年的1∶7.8提升至目前的1∶10.3。截至昨天，帶動銷售額超過1.25萬億元，受益面達到1.69億人次，有力支撐了消費平穩增長。（央視）"
+    },
+    {
+      "id": "5005601",
+      "time": "2026-07-24 08:46:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國產業通商資源部：重申遵守韓美關於美國301條款關稅的關稅協定的目標。"
+    },
+    {
+      "id": "5005600",
+      "time": "2026-07-24 08:45:51",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "SK海力士領跌韓國晶片股，股價下跌5％，至1,823,000韓元。三星電子股價下跌4.4％，至258,000韓元。"
+    },
+    {
+      "id": "5005599",
+      "time": "2026-07-24 08:45:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國總統特朗普推動科技巨頭承諾自行承擔AI資料中心新增電力成本】美國總統唐納德·特朗普週四歡迎電力公司和資料中心開發商最新作出的承諾，要求科技企業承擔執行高耗能人工智慧系統所需的電力成本。“資料中心和人工智慧正在急劇推高電力需求。為滿足這一需求而建設新基礎設施的成本，理應由企業自身承擔，而不是由美國消費者承擔，”特朗普在一場活動上表示。該活動旨在宣傳其今年早些時候推出的“電力使用者保護承諾”的新增參與方。這項倡議並不具有法律約束力。特朗普表示：“根據這項開創性計劃，美國最大的科技公司已正式承諾，將出資或建設滿足其新增用電需求所需的全部能源基礎設施。與此同時，我們將允許他們建設自己的發電廠。”"
+    },
+    {
+      "id": "5005598",
+      "time": "2026-07-24 08:44:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美國會未能及時透過撥款，“特朗普”級戰列艦開局不利】備受特朗普政府重視的美國海軍新一代“特朗普”級戰列艦計劃在2028財年開工，然而美國海軍學會網站22日透露，相關準備工作卻因為美國國會未能及時透過撥款而陷入僵局，可謂“開局不利”。 報道稱，總金額高達1.5萬億美元的《2027財年國防授權法案》因參議院民主黨人抗議美國與伊朗之間的持續衝突而被擱置。其中涉及“特朗普”級戰列艦和“福特”級航母“威廉·J·克林頓”號（CVN-82）等的前期撥款。如果沒有批准相關預算，五角大樓就無法開始為這些大型艦艇建造所需的核動力推進裝置等進行先期採購。（環球網）"
+    },
+    {
+      "id": "mkt:019f9194-8757-7aab-8e76-27dd433aec12",
+      "time": "2026-07-24 08:44:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil surge raises rate pressure; South Korea stocks tumble in early trade】The KOSPI fell more than 3% in early trade, slipping below 6,900, after oil surged on escalating Middle East tensions and renewed concerns about upward pressure on interest rates. Foreign investors, net buyers for four straight sessions, turned net sellers of 291.8 billion won; institutional investors sold 71.5 billion won; retail investors bought 380.0 billion won. Large caps: Samsung Electronics down >4%, SK Hynix down >5%, SK Square down >7%, Samsung Electro‑Mechanics down >5%. Sector moves: electrical & electronics -3.40%, IT services -3.28%, manufacturing -2.79%; pharmaceuticals +2.98%, paper & wood +1.13%, diversified services +0.54%."
+    },
+    {
+      "id": "te:markets:569442",
+      "time": "2026-07-24 08:43:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Drop as Tech Stocks Tumble — The Nikkei 225 Index fell more than 2% to below 64,900 on Friday, reversing the Thursday's gains amid a broad tech-led selloff due to concerns over AI-related spending. Investor caution was further amplified by escalating tensions in the Middle East, which pushed oil prices higher and heightened inflation fears. On the data front, Japan's headline inflation rose 1.7% in June, the highest in six months, from 1.5% in May, reinforcing expectations of further interest rate hikes by the Bank of Japan. Technology and AI-related shares led the declines in Japan, including Kioxia Holdings (-3.1%), Advantest (-3.9%), SoftBank Group (-5.1%), Tokyo Electron (-2.0%), Taiyo Yuden (-3.4%), Lasertec (-1.2%), and Murata Manufacturing (-2.1%). Despite Friday's pullback, the Nikkei 225 Index is up more than 1% for the week, on track for its first weekly advance in three."
+    },
+    {
+      "id": "5005597",
+      "time": "2026-07-24 08:43:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華宇軟體子公司大連華宇與星河智聯簽署技術開發（委託）合同】近日，華宇軟體子公司大連華宇與星河智聯簽署技術開發（委託）合同，根據雙方簽署的技術開發合同，大連華宇將承接星河智聯委託的軟體開發業務。本次合作涉及SR渲染、智駕泊車、主動安全等高技術壁壘模組，將推動大連華宇在智慧座艙軟體棧、AI互動邏輯、車規級程式碼質量等方面實現能力躍升。"
+    },
+    {
+      "id": "5005596",
+      "time": "2026-07-24 08:43:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年APEC數字和人工智慧部長會議透過《成都宣告》】2026年亞太經合組織數字和人工智慧部長會議昨天（23日）下午舉行新聞釋出會，各經濟體在本次會議上達成共識，透過了《2026年APEC數字和人工智慧部長宣告》（簡稱《成都宣告》）。與會各方一致同意，共同推動數字和人工智慧技術賦能亞太共同體，為未來一段時期APEC深化數字和人工智慧領域合作搭建了行動框架。專家指出，宣告傳遞出技術紅利要惠及亞太地區所有經濟體和廣大民眾的強烈訊號。各方將透過能力建設、經驗分享、公共教育專案等多元路徑，提升亞太各經濟體民眾數字和人工智慧素養和技能，讓數字和人工智慧技術的發展既有創新“高度”，更有民生“溫度”，切實縮小數字和智慧鴻溝，真正實現人人可及、人人受益。"
+    },
     {
       "id": "5005595",
       "time": "2026-07-24 08:42:21",
