@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-25 00:12:49",
-  "count": 18121,
+  "updated": "2026-07-25 00:17:25",
+  "count": 18128,
   "items": [
+    {
+      "id": "mkt:019f94e9-a1a6-7aab-8e8c-63d203a942a4",
+      "time": "2026-07-25 00:16:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian media reported the head of Iran's Supreme Joint Military Command vowed that for every Iranian killed, Iran will kill one US service member."
+    },
+    {
+      "id": "5007401",
+      "time": "2026-07-25 00:15:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行官員淡化9月加息預期 強調等待更多資料】歐洲央行政策制定者避免釋放9月可能加息的訊號，而是選擇等待更多資料來為決策提供依據。歐元區兩大經濟體的央行行長在週四利率決議後均未暗示下一步行動方向，當時部分官員在會議上考慮立即加息，但最終一致決定維持利率不變。“我們仍然面臨高度不確定性，”德國央行行長Joachim Nagel在宣告中表示，而法國央行行長Emmanuel Moulin強調，歐洲央行已在6月收緊政策。知情人士表示，除非歐元區通脹前景顯著改善，否則歐洲央行官員已做好9月加息的準備。週四中東衝突進一步升級後，油價兩個月來首次突破每桶100美元。"
+    },
+    {
+      "id": "5007400",
+      "time": "2026-07-25 00:14:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國與英國打算圍繞霍爾木茲海峽問題舉行國際會議。"
+    },
+    {
+      "id": "5007399",
+      "time": "2026-07-25 00:14:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐約旦、伊拉克大使館提醒本國公民保持謹慎，受中東緊張局勢影響，航班存在取消風險，請提前做好相關準備。"
+    },
+    {
+      "id": "mkt:019f94e7-cf96-7aab-8e8c-5a0c12f4de9b",
+      "time": "2026-07-25 00:14:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "QCOM.O",
+        "Impact mixed"
+      ],
+      "text": "Market sources said Qualcomm (QCOM.O) told customers it will raise product prices by double-digit percentages, citing persistent cost increases it can no longer absorb."
+    },
+    {
+      "id": "5007398",
+      "time": "2026-07-25 00:14:06",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯： 歐盟將就週五襲擊事件召見俄羅斯駐歐盟特使，擬出臺更多針對俄羅斯軍工複合體的制裁清單。"
+    },
+    {
+      "id": "te:markets:569832",
+      "time": "2026-07-25 00:12:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.95% Higher — The FTSE MIB Index gained 486 points or 0.95 percent on Friday to close at 51802 points. Gains were led by Bper Banca (2.75%), Brunello Cucinelli (2.54%) and Intesa Sanpaolo (2.27%). Biggest losers were Poste Italiane (-3.32%), Telecom Italia (-2.26%) and STMicroelectronics (-1.96%)."
+    },
     {
       "id": "5007397",
       "time": "2026-07-25 00:11:27",
