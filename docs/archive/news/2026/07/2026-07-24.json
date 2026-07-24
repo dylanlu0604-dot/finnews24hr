@@ -1,7 +1,74 @@
 {
   "date": "2026-07-24",
-  "count": 651,
+  "count": 658,
   "items": [
+    {
+      "id": "te:economy:569438",
+      "time": "2026-07-24 08:35:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "Japan Manufacturing Growth Eases Slightly — The S&P Global Japan Manufacturing PMI inched down to 54.7 in July 2026 from 54.8 in the previous month, but surpassed market expectations of 54.5, preliminary estimates showed. It was the seventh straight month of expansion in factory activity, supported by faster increases in output, while new orders grew at the fastest pace in over five years."
+    },
+    {
+      "id": "5005588",
+      "time": "2026-07-24 08:34:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國將燃油稅減免措施延長至9月底】據韓聯社報道，韓國將把燃油稅減免措施再延長兩個月至9月30日，維持目前汽油稅減免15%、柴油和丁烷稅減免25%的政策，以幫助緩解中東局勢相關油價波動帶來的燃料成本壓力。"
+    },
+    {
+      "id": "5005587",
+      "time": "2026-07-24 08:33:20",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓綜指三連漲後回落，晶片股拖累大盤】受美股晶片板塊隔夜大跌拖累，韓國基準股指綜合指數（Kospi）最大跌幅達 3.2%，終結連續三日上漲行情。SK 海力士、三星電子、SK Square 是拖累大盤下跌的主要權重個股。外資持續拋售韓綜指成分股，散戶逆勢買入，本土基金同步賣出。小盤股科斯達克指數最大跌幅 3%。韓國股市表現弱於MSCI 亞太指數，該指數最大跌幅 1.1%。"
+    },
+    {
+      "id": "5005586",
+      "time": "2026-07-24 08:32:54",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：光伏落後產能出清紅線漸清晰】華泰證券研報稱，7月22日，《矽多晶和鍺單位產品能源消耗限額》《晶體矽光伏元件和逆變器能效限定值及能效等級》《矽單晶單位產品能源消耗限額》三項強制性國家標準具體細則公開，並將於2027年1月1日實施。從能效等級上看，矽料能耗等級要求較為超預期，3級標準要求較2025年9月16日徵求意見稿收緊。強制性國標釋出意味著矽料、矽片、電池、元件四大主鏈環節的剛性准入門檻將抬高，華泰證券重申看好2026年下半年光伏需求側同比壓力有望緩解，2027年強制性國標手段加速供給側出清，看好：具備存量高效產能，在能耗要求“縮圈”下仍達標的矽料龍頭，主鏈中技術屬性更強的電池元件，輔材環節受益賤金屬匯入產業化趨勢的漿料龍頭有望率先迎來盈利改善。"
+    },
+    {
+      "id": "5005585",
+      "time": "2026-07-24 08:32:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【6股獲券商買入評級，國電電力目標漲幅達19.44%】Wind資料顯示，7月23日，共有6只個股獲券商買入評級，其中1只個股公佈了目標價格。按最高目標價計算，國電電力目標漲幅排名居前，漲幅分別達19.44%。從評級調整方向來看，2只個股評級維持不變，1只個股評級獲調高，3只個股為首次評級。從獲買入評級個股所屬Wind行業來看，半導體與半導體生產裝置、資本貨物、食品、飲料與菸草買入評級個股數量最多，分別有2只、1只、1只。"
+    },
+    {
+      "id": "te:economy:569436",
+      "time": "2026-07-24 08:32:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Japan Composite PMI Highest in Five Months — Japan’s S&P Global Composite PMI Business Activity Index edged up to 53.1 in July 2026 from a final 52.8 in the prior month, flash data showed. It was the highest reading since February, marking the 16th straight month of expansion in private sector activity."
+    },
+    {
+      "id": "5005584",
+      "time": "2026-07-24 08:32:27",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國部長表示，韓國將努力把7月份的CPI降至2%的水平。"
+    },
     {
       "id": "5005583",
       "time": "2026-07-24 08:31:04",

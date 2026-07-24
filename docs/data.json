@@ -1,7 +1,74 @@
 {
-  "updated": "2026-07-24 08:32:12",
-  "count": 18024,
+  "updated": "2026-07-24 08:36:14",
+  "count": 18023,
   "items": [
+    {
+      "id": "te:economy:569438",
+      "time": "2026-07-24 08:35:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "Japan Manufacturing Growth Eases Slightly — The S&P Global Japan Manufacturing PMI inched down to 54.7 in July 2026 from 54.8 in the previous month, but surpassed market expectations of 54.5, preliminary estimates showed. It was the seventh straight month of expansion in factory activity, supported by faster increases in output, while new orders grew at the fastest pace in over five years."
+    },
+    {
+      "id": "5005588",
+      "time": "2026-07-24 08:34:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國將燃油稅減免措施延長至9月底】據韓聯社報道，韓國將把燃油稅減免措施再延長兩個月至9月30日，維持目前汽油稅減免15%、柴油和丁烷稅減免25%的政策，以幫助緩解中東局勢相關油價波動帶來的燃料成本壓力。"
+    },
+    {
+      "id": "5005587",
+      "time": "2026-07-24 08:33:20",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓綜指三連漲後回落，晶片股拖累大盤】受美股晶片板塊隔夜大跌拖累，韓國基準股指綜合指數（Kospi）最大跌幅達 3.2%，終結連續三日上漲行情。SK 海力士、三星電子、SK Square 是拖累大盤下跌的主要權重個股。外資持續拋售韓綜指成分股，散戶逆勢買入，本土基金同步賣出。小盤股科斯達克指數最大跌幅 3%。韓國股市表現弱於MSCI 亞太指數，該指數最大跌幅 1.1%。"
+    },
+    {
+      "id": "5005586",
+      "time": "2026-07-24 08:32:54",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：光伏落後產能出清紅線漸清晰】華泰證券研報稱，7月22日，《矽多晶和鍺單位產品能源消耗限額》《晶體矽光伏元件和逆變器能效限定值及能效等級》《矽單晶單位產品能源消耗限額》三項強制性國家標準具體細則公開，並將於2027年1月1日實施。從能效等級上看，矽料能耗等級要求較為超預期，3級標準要求較2025年9月16日徵求意見稿收緊。強制性國標釋出意味著矽料、矽片、電池、元件四大主鏈環節的剛性准入門檻將抬高，華泰證券重申看好2026年下半年光伏需求側同比壓力有望緩解，2027年強制性國標手段加速供給側出清，看好：具備存量高效產能，在能耗要求“縮圈”下仍達標的矽料龍頭，主鏈中技術屬性更強的電池元件，輔材環節受益賤金屬匯入產業化趨勢的漿料龍頭有望率先迎來盈利改善。"
+    },
+    {
+      "id": "5005585",
+      "time": "2026-07-24 08:32:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【6股獲券商買入評級，國電電力目標漲幅達19.44%】Wind資料顯示，7月23日，共有6只個股獲券商買入評級，其中1只個股公佈了目標價格。按最高目標價計算，國電電力目標漲幅排名居前，漲幅分別達19.44%。從評級調整方向來看，2只個股評級維持不變，1只個股評級獲調高，3只個股為首次評級。從獲買入評級個股所屬Wind行業來看，半導體與半導體生產裝置、資本貨物、食品、飲料與菸草買入評級個股數量最多，分別有2只、1只、1只。"
+    },
+    {
+      "id": "te:economy:569436",
+      "time": "2026-07-24 08:32:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Japan Composite PMI Highest in Five Months — Japan’s S&P Global Composite PMI Business Activity Index edged up to 53.1 in July 2026 from a final 52.8 in the prior month, flash data showed. It was the highest reading since February, marking the 16th straight month of expansion in private sector activity."
+    },
+    {
+      "id": "5005584",
+      "time": "2026-07-24 08:32:27",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國部長表示，韓國將努力把7月份的CPI降至2%的水平。"
+    },
     {
       "id": "5005583",
       "time": "2026-07-24 08:31:04",
@@ -165123,81 +165190,6 @@
         "其他"
       ],
       "text": "目擊者稱卡達多哈發生多起爆炸，政府已向手機使用者傳送警報。"
-    },
-    {
-      "id": "4993134",
-      "time": "2026-07-17 08:35:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務官片山：準備在必要時隨時對匯率波動做出適當應對。"
-    },
-    {
-      "id": "4993133",
-      "time": "2026-07-17 08:35:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：不就具體匯率水平置評。"
-    },
-    {
-      "id": "4993132",
-      "time": "2026-07-17 08:35:38",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【SpaceX第13次星艦試飛因發動機故障自動中止 股價盤後下跌】SpaceX表示，在週四發射任務因部分發動機未能啟動而中止後，公司計劃於未來幾天再次嘗試發射星艦(Starship)火箭。訊息公佈後，SpaceX股價下跌。“星艦”原定於當地時間下午5時45分從SpaceX位於美國德克薩斯州南部的星際基地(Starbase)發射場執行第13次重大測試任務。不過，就在預定發射時刻，發射塔處冒出滾滾濃煙，而火箭並未升空。SpaceX股價週四常規交易時段收跌，盤後進一步下跌約3%。該股在上市後曾大幅飆升，但近期有所回落。儘管如此，華爾街分析師整體仍維持看多立場。"
-    },
-    {
-      "id": "mkt:019f6d7f-59c2-7aab-8dd3-be8703bf46e3",
-      "time": "2026-07-17 08:34:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iran's Fars news agency, citing Arab sources, reported an explosion at the US military base at Al Udeid in Qatar."
-    },
-    {
-      "id": "te:economy:567672",
-      "time": "2026-07-17 08:34:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Singapore",
-        "Domestic Exports of Non Oil (nodx) (%yoy)",
-        "Importance 1"
-      ],
-      "text": "Singapore NODX Growth Below Forecasts — Singapore’s non-oil domestic exports (NODX) grew 20.7% year-on-year in June 2026, moderating from a marginally revised 38.4% jump in May and falling short of forecasts of 30.2%. It was the ninth straight month of expansion, though the slowest growth since March, with electronics continuing to grow strongly (105.1% vs 94.8% in May), supported by robust AI-related demand. Electronic exports were driven mainly by disk media products (170.9%), ICs (115.4%), and PCs (95.8%)."
-    },
-    {
-      "id": "4993131",
-      "time": "2026-07-17 08:34:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國首創！江蘇蘇州外賣騎手等紅燈不計入配送時間】在配送計時規則的壓力下，不少外賣騎手常會陷入“守規就超時、趕單就違章”的兩難境地。近日，江蘇蘇州在全國率先推出新政策：外賣騎手在路口等紅燈的時間，將納入配送計時體系。該舉措旨在讓騎手“等得起”紅燈。（央視）"
-    },
-    {
-      "id": "4993130",
-      "time": "2026-07-17 08:34:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湖北省省長李殿勳與東風公司董事長楊青總經理馮長軍座談】據湖北日報，7月16日下午，湖北省委副書記、省長李殿勳與東風汽車集團有限公司黨委書記、董事長楊青，黨委副書記、總經理馮長軍一行座談，圍繞深化央地合作、推動湖北汽車工業轉型升級和高質量發展進行深入交流。李殿勳說，東風公司作為在鄂中央企業，工業底蘊深厚、研發實力強大、發展態勢良好，希望進一步順應全球汽車工業“綠色化、智慧化、高階化、服務化、國際化”的轉型變革趨勢，堅持“大品牌、高科技、國際化、年輕態”的高階定位，大力度、持續性推進產品技術創新、商業模式創新與經營管理創新，以國內外一流的產品和服務供給，重塑發展競爭新優勢，以“擴能增產、提質增效”的優異成績，為湖北汽車工業轉型升級與高質量發展作出新的更大貢獻。"
-    },
-    {
-      "id": "4993129",
-      "time": "2026-07-17 08:33:12",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【因國稅局稅務稽查事宜與白宮產生衝突，美財政部最高稅務官員遭解職】據報道，多位知情人士透露，美國財政部首席稅務政策官員遭強制離職，此前他曾警示白宮方面存在違反聯邦法律的風險 —— 該法律禁止高階官員干預美國國稅局稅務稽查工作。財政部助理部長、美國國稅局代理總法律顧問肯尼斯・基斯將於未來幾周卸任上述兩項職務。知情人士稱，基斯曾多次在私下與白宮官員發生分歧。其中一名訊息人士表示，在近期一場會議上，基斯提出，白宮一項擬議訴求將違反《國內稅收法典》第 7217 條。該法條規定，總統、副總統、白宮工作人員以及部分機構負責人，不得直接或間接要求國稅局啟動或終止針對任何特定納稅人的稽查或調查。"
     }
   ]
 }
