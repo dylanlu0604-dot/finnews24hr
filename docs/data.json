@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-24 21:04:20",
-  "count": 18111,
+  "updated": "2026-07-24 21:08:21",
+  "count": 18105,
   "items": [
+    {
+      "id": "mkt:019f943d-2fdd-7aab-8e88-ef248e225a32",
+      "time": "2026-07-24 21:07:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wang Xiaohong meets U.S. FBI Director Patel】State Councilor and Minister of Public Security Wang Xiaohong met U.S. FBI Director Patel in Beijing on the 24th. Wang said the May meeting between President Xi and President Trump provided direction for bilateral cooperation and urged implementation of the leaders’ consensus. He called for more constructive, mutual‑respect dialogue and deeper pragmatic cooperation on drug enforcement, telecom-network fraud, child sexual exploitation, anti‑money laundering and fugitive repatriation, seeking more visible results to help build a constructive, strategically stable China–U.S. relationship."
+    },
+    {
+      "id": "5007130",
+      "time": "2026-07-24 21:06:40",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【王小洪會見美國聯邦調查局局長帕特爾】國務委員、公安部部長王小洪24日在京會見美國聯邦調查局局長帕特爾。王小洪表示，今年5月，習近平主席同特朗普總統舉行歷史性會晤，為雙方各領域合作指明瞭前進方向。希望雙方落實好兩國元首重要共識，在相互尊重基礎上開展更多建設性對話，深化禁毒、打擊電信網路詐騙和兒童色情犯罪、反洗錢、追逃等領域務實合作，努力取得更多視覺化成果，助力構建中美建設性戰略穩定關係，更好造福兩國人民。雙方同意在執法領域繼續深化交流合作。（新華社）"
+    },
+    {
+      "id": "te:markets:569784",
+      "time": "2026-07-24 21:05:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Rebounds as Markets Weigh Middle East Risks and Rate Outlook — Silver rose 1% to around $58 an ounce on Friday, recovering some ground after tumbling more than 3% in the previous session, as investors assessed developments in the Middle East for clues on energy-driven inflation risks and the outlook for US interest rates. Concerns over Gulf oil supply disruptions have lifted crude prices, reinforcing expectations that interest rates could remain higher for longer and weighing on precious metals. Investors are now focused on next week's Federal Reserve meeting, where policymakers are widely expected to leave rates unchanged, although markets continue to price in roughly an 80% chance of a rate hike in September. Meanwhile, the European Central Bank kept interest rates unchanged on Thursday, as expected, while signaling that another increase in September remains on the table."
+    },
+    {
+      "id": "5007129",
+      "time": "2026-07-24 21:04:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受颱風“紅霞”影響 廣東潮州、汕頭全市停課 南澳大橋25日16時起封橋】7月24日，記者從潮州市教育局瞭解到，根據《潮州市教育局潮州市氣象局關於建立教育系統應對臺風暴雨停課工作實施細則》，潮州全市托幼機構停止一切校內活動，校外教育培訓機構停止一切線下培訓活動。在臺風黃色、橙色、紅色或者暴雨紅色預警訊號解除後，托幼機構及校外教育培訓機構可結合實際安排恢復活動。此外，記者從汕頭市南澳大橋建設管理中心瞭解到，受12號颱風“紅霞”影響，南澳大橋橋區風力逐漸增大，根據氣象部門預報，預計風力還將持續加大。根據《南澳大橋運營管理通告》（汕府〔2025〕34號），為確保通行安全，南澳大橋管理部門預計於2026年7月25日16時起實行封橋，解封時間視橋區天氣情況另行釋出。（央視新聞）"
+    },
+    {
+      "id": "5007128",
+      "time": "2026-07-24 21:04:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：強化東部邊境的防禦與威懾力量仍是首要任務。"
+    },
+    {
+      "id": "5007127",
+      "time": "2026-07-24 21:03:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伯克希爾哈撒韋完成收購Taylor Morrison，交易股權價值約68億美元】7月24日，伯克希爾·哈撒韋公司與美國住宅建造商泰勒·莫里森（Taylor Morrison）宣佈，伯克希爾已完成對Taylor Morrison的收購，交易價格為每股72.50美元現金，Taylor Morrison股權價值約68億美元，企業價值約85億美元。交易完成後，Taylor Morrison將繼續由執行長謝麗爾·帕爾默（Sheryl Palmer）領導，並負責整合旗下Esplanade、Yardly和Taylor Morrison Home Funding等品牌，與伯克希爾旗下預製住宅業務Clayton Properties Group旗下15家區域和本地住宅建造商整合。"
+    },
     {
       "id": "5007126",
       "time": "2026-07-24 21:02:42",
@@ -117,6 +171,14 @@
         "其他"
       ],
       "text": "通用電氣航空與捷特航空簽訂長期發動機服務協議，為其擴張的機隊提供服務。"
+    },
+    {
+      "id": "5007115",
+      "time": "2026-07-24 20:59:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本自民黨再曝醜聞 多人稱被迫“進貢”大額資金】日本執政黨自由民主黨近日再曝金錢醜聞。該黨位於福岡縣的分支機構被指要求出任該縣議長和副議長的成員“進貢”大額資金，其中一名前議長自曝被索要2000萬日元（約合83萬元人民幣）。據日本方面24日訊息，福岡縣前議長吉松源昭向媒體揭發這一醜聞。吉松源昭自述，他2020年6月出任縣議長前，其所屬的自民黨福岡縣議員團以各種名義向其索要金錢，包括黨派社交活動的打高爾夫球費用、住宿費、交通費和高階餐廳餐飲費等，共計約2000萬日元。他還公開了福岡縣議員團重要人物中尾正幸向其索要現金的錄音。中尾正幸已於24日宣佈辭去縣議員職務，但否認牽涉金錢醜聞。（央視新聞）"
     },
     {
       "id": "5007114",
@@ -165930,124 +165992,6 @@
         "其他"
       ],
       "text": "市場訊息：達琳·格雷厄姆有意競選參議員完整任期。"
-    },
-    {
-      "id": "4994695",
-      "time": "2026-07-17 21:08:15",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【《山西省礦山安全生產舉報獎勵實施細則》出臺】記者17日從山西省應急管理廳獲悉，為鼓勵群眾舉報礦山重大事故隱患和安全生產違法行為，及時排查化解礦山領域安全風險，山西省應急管理廳、省財政廳、省自然資源廳、省審計廳、省能源局、國家礦山安全監察局山西局於近日聯合印發了《山西省礦山安全生產舉報獎勵實施細則》。（新華社）"
-    },
-    {
-      "id": "4994693",
-      "time": "2026-07-17 21:07:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行：12個邦將於7月21日透過貸款融資2170億盧比。"
-    },
-    {
-      "id": "4994692",
-      "time": "2026-07-17 21:07:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破81美元/桶，日內漲3.48%。"
-    },
-    {
-      "id": "4994691",
-      "time": "2026-07-17 21:06:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將奈飛目標價從每股130.00美元下調至115.00美元。"
-    },
-    {
-      "id": "4994690",
-      "time": "2026-07-17 21:06:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "達美航空公司：自2027年3月28日起，開通洛杉磯(LAX)與馬尼拉(MNL)之間的直飛航班。"
-    },
-    {
-      "id": "4994689",
-      "time": "2026-07-17 21:06:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "Netflix獲瑞銀維持買入評級。"
-    },
-    {
-      "id": "4994688",
-      "time": "2026-07-17 21:06:37",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【外交部：將推動世界人工智慧合作組織儘早啟動運轉】7月16日，成立世界人工智慧合作組織協定簽署儀式在上海舉行，29個國家代表簽署協定，成為創始成員國。外交部發言人林劍17日下午在例行記者會上介紹有關情況時表示，倡議成立世界人工智慧合作組織是中方推動構建人類命運共同體，落實全球治理倡議的又一生動實踐。下階段，中方將會同各創始成員國推動組織儘早啟動運轉。 記者會上，有記者提問：昨天，成立世界人工智慧合作組織協定簽署儀式在上海舉行。中方如何看待成立該組織的意義和影響？該組織同聯合國框架下的人工智慧治理平臺是什麼關係？ 林劍介紹，7月16日，成立世界人工智慧合作組織協定的簽署儀式在上海舉行。中共中央政治局委員、外交部長王毅出席並代表中國政府簽署協定。哈薩克、寮國、巴基斯坦、俄羅斯、印度尼西亞等29個國家代表簽署協定，成為創始成員國。聯合國秘書長古特雷斯等國家和國際組織代表出席儀式。 林劍表示，中方始終積極踐行習近平主席提出的《全球人工智慧治理倡議》，秉持以人為本、向上向善理念，推動人工智慧全球治理。正如習近平主席今天上午在2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式上指出的，世界人工智慧合作組織在上海應運而生，這是中方響應全球南方呼聲，團結國際社會，積極推動人工智慧發展和治理的重大舉措，將成為人工智慧發展史上的一個重要里程碑。 林劍說，中方一貫主張在聯合國框架下推進人工智慧全球治理，推動聯合國大會協商一致透過人工智慧能力建設國際合作決議，支援落實全球數字契約和聯合國可持續發展目標。 林劍表示，中方願同各方一道，遵循聯合國憲章宗旨，秉持共商、共建、共享理念，堅持以人為本原則，加強人工智慧發展戰略、治理規則、技術標準的對接協調，促進人工智慧國際合作和全球治理，確保人工智慧朝著有益、安全、公平方向健康有序發展。（新華社）"
-    },
-    {
-      "id": "mkt:019f702f-35e7-7aab-8de5-638ea9bb8ca5",
-      "time": "2026-07-17 21:06:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【IRGC reiterates threat to block Middle East oil exports if U.S. aggression continues】Iran's Islamic Revolutionary Guard Corps said it struck the U.S. special operations command at the al-Tanf military base in Syria in response to U.S. military aggression, destroying a radar system and multiple special-operations helicopters and causing U.S. military deaths. The IRGC said it retains full control of the Strait of Hormuz and warned that so long as U.S. aggression continues not a drop of oil or gas will be exported through the area."
-    },
-    {
-      "id": "4994687",
-      "time": "2026-07-17 21:05:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨跌幅再次進一步擴大至2%，報28638.78點。"
-    },
-    {
-      "id": "4994686",
-      "time": "2026-07-17 21:05:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【科威特稱有軍方人員在伊朗襲擊中受傷】當地時間17日下午，科威特軍方釋出的訊息顯示，“數名”隸屬於科威特陸軍的人員在當天早間伊朗對科威特境內發動的無人機襲擊中受傷。科威特軍方17日凌晨釋出訊息稱，科方防空系統攔截了“敵對”導彈和無人機，此後科威特電力、水利和可再生能源部發布的訊息顯示，科境內一座海水淡化和發電設施受襲擊事件影響起火。伊朗方面對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f702e-3caf-7aab-8de5-58470ad64275",
-      "time": "2026-07-17 21:05:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "EURUSD"
-      ],
-      "text": "US June industrial production (MoM) due in 10 minutes."
-    },
-    {
-      "id": "4994685",
-      "time": "2026-07-17 21:04:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非蘭特<ZAR=D3>對美元貶值1%。"
-    },
-    {
-      "id": "4994684",
-      "time": "2026-07-17 21:04:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏方稱重創俄軍圖-95戰略轟炸機】烏克蘭國家安全域性17日在社交媒體發文稱，該局使用無人機襲擊了位於俄羅斯薩拉托夫州的恩格斯軍用機場內一架圖-95戰略轟炸機。據初步資訊，這架戰略轟炸機遭重創，飛機尾翼完全脫落。烏國家安全域性稱，實施此次襲擊是為了執行烏總統澤連斯基日前下達的削弱俄方軍事和經濟潛力的任務，俄軍的戰略轟炸機即使部署在最偏遠的軍用機場也不再安全。（新華社）"
     }
   ]
 }
