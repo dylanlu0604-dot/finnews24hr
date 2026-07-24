@@ -1,7 +1,191 @@
 {
-  "updated": "2026-07-24 15:30:34",
-  "count": 17981,
+  "updated": "2026-07-24 15:34:29",
+  "count": 17988,
   "items": [
+    {
+      "id": "5006222",
+      "time": "2026-07-24 15:33:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方表示，已對美國在科威特的軍事設施發動了新一輪無人機襲擊。"
+    },
+    {
+      "id": "mkt:019f930b-4977-7aab-8e7f-5fbec666bf93",
+      "time": "2026-07-24 15:33:38",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Iran's military says it has launched another wave of drone attacks against U.S. military facilities in Kuwait."
+    },
+    {
+      "id": "te:markets:569677",
+      "time": "2026-07-24 15:33:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Brent Up for Week Despite Friday Pullback — Brent crude oil slipped below $99 per barrel on Friday but remained up more than 12% for the week, as traders continued to assess mounting geopolitical risks to global energy supplies. The US launched a 13th straight day of strikes on Iran, with both sides ruling out near-term talks. President Trump also threatened \"major military punishment\" against Iran and the Houthis over any further attacks on Red Sea shipping and said he was considering a \"massive attack\" on Iran. His remarks followed attacks by Iran-backed Houthi militants on two Saudi oil tankers in the Red Sea, a key alternative export route for Saudi Arabia as fighting continued to disrupt traffic through the Strait of Hormuz. Asian buyers have begun discussing rerouting Saudi crude shipments through the Suez Canal and around Africa. Adding to supply constraints, the Caspian Pipeline Consortium suspended crude loadings at its Black Sea terminal after tanker attacks, disrupting around 80% of Kazakhstan's oil exports."
+    },
+    {
+      "id": "mkt:019f930a-ca36-7aab-8e7f-51f5c59f9130",
+      "time": "2026-07-24 15:33:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Two security sources said a drone crashed near Erbil International Airport, temporarily suspending flights."
+    },
+    {
+      "id": "te:economy:569676",
+      "time": "2026-07-24 15:32:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "France Private Sector Hits 5-Month High — France's S&P Global Flash Composite PMI rose to 49.6 in July 2026 from 47.2 in the previous month, signaling the softest contraction since the Middle East conflict began in February. The improvement was driven by the services sector, where activity rose to a seven-month high of 49.8 from 46.8 in June, supported by the first increase in demand since November. In contrast, manufacturing activity fell to 48.8 from 49.1, reflecting softer demand conditions. Meanwhile, private-sector employment fell for a third straight month as firms remained reluctant to hire. In addition, growing spare capacity was evident across France's private sector in July, with backlogs falling for a fourth straight month. On the price front, inflationary pressures eased, with both input costs and output prices rising at slower rates. Lastly, business confidence remained subdued, with the Future Output Index remaining well below its long-term average."
+    },
+    {
+      "id": "5006219",
+      "time": "2026-07-24 15:32:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正泰電器成立智算裝置製造公司 含AI業務】企查查APP顯示，近日，正泰智算裝置製造（浙江）有限公司成立，經營範圍包含：人工智慧行業應用系統整合服務；人工智慧基礎軟體開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，該公司由正泰電器間接全資持股。"
+    },
+    {
+      "id": "5006218",
+      "time": "2026-07-24 15:32:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "兩名安全訊息人士透露，一架無人機在埃爾比勒國際機場附近墜毀，導致航班暫時暫停運營。"
+    },
+    {
+      "id": "te:markets:569675",
+      "time": "2026-07-24 15:32:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.29% Higher — The FTSE 100 Index is gaining 31 points or 0.29 percent on Friday. Leading the gains are Relx (3.43%), 3i (3.14%) and The Sage Group (2.78%). Top losers are Airtel Africa (-5.79%), Howden Joinery (-1.56%) and Centrica (-1.08%)."
+    },
+    {
+      "id": "5006217",
+      "time": "2026-07-24 15:31:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【自變數機器人創始人王潛在APEC數智賦能高階別對話發言】7月24日，在成都舉行的APEC數智賦能高階別對話上，自變數機器人創始人兼CEO王潛圍繞“發展人工智慧，增進民生福祉”發表主題演講。自變數“機器人進家庭”專案同時被列入《亞太地區數智賦能案例集》。"
+    },
+    {
+      "id": "mkt:019f9309-4c9f-7aab-8e7f-4d0a63454848",
+      "time": "2026-07-24 15:31:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's foreign exchange reserves stood at $276.03 bln on July 17, down from $279.35 bln on July 10, a decline of $3.32 bln (about 1.2%)."
+    },
+    {
+      "id": "te:markets:569674",
+      "time": "2026-07-24 15:31:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.62% Higher — The DAX Index is picking up 153 points or 0.62 percent on Friday. Gains are led by SAP (5.59%), Siemens Energy (1.83%) and Rheinmetall (1.28%). Biggest losers are Adidas (-4.53%), Deutsche Telekom (-1.80%) and Volkswagen (-1.56%)."
+    },
+    {
+      "id": "5006216",
+      "time": "2026-07-24 15:30:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 美國空襲伊朗西部城市皮蘭沙赫爾。"
+    },
+    {
+      "id": "5006215",
+      "time": "2026-07-24 15:30:19",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國7月服務業PMI初值 49.6，預期49，前值48.6。\n德國7月製造業PMI初值 52.2，預期50.5，前值50.3。\n德國7月綜合PMI初值 51.2，預期49.8，前值49.5。"
+    },
+    {
+      "id": "mkt:019f9308-3bf6-7aab-8e7f-43bc3963e39b",
+      "time": "2026-07-24 15:30:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 1.91% at 883.3 yuan/gram on July 24 (Friday); silver T+D fell 2.94% to 14,187 yuan/kg."
+    },
+    {
+      "id": "te:markets:569673",
+      "time": "2026-07-24 15:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.20% Higher — The CAC 40 Index is up by 17 points or 0.20 percent on Friday. Top gainers are Dassault Systemes (4.23%), Capgemini (2.84%) and ArcelorMittal (1.59%). Biggest losses came from Carrefour (-5.18%), Sanofi (-2.12%) and Edenred (-1.70%)."
+    },
+    {
+      "id": "mkt:019f9308-1992-7aab-8e7f-3f43c58f18bd",
+      "time": "2026-07-24 15:30:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany preliminary July services PMI 49.6, vs. 49.0 expected and 48.6 prior."
+    },
+    {
+      "id": "mkt:019f9308-1850-7aab-8e7f-32b1f669ccef",
+      "time": "2026-07-24 15:30:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany July preliminary manufacturing PMI 52.2; expected 50.5, prior 50.3."
+    },
+    {
+      "id": "mkt:019f9308-17f4-7aab-8e7f-2fa09665a2d8",
+      "time": "2026-07-24 15:30:08",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany July composite PMI preliminary 51.2, expected 49.8, prior 49.5."
+    },
     {
       "id": "mkt:019f9307-f5f7-7aab-8e7f-25c052553035",
       "time": "2026-07-24 15:30:00",
@@ -135,6 +319,14 @@
         "Greater China"
       ],
       "text": "【China's agriculture ministry urges coordinated effort to sustain hog price rebound, avoid sharp swings】July 24 — Chen Bangxun, director-general of the Development Planning Department at China's Ministry of Agriculture and Rural Affairs, said at a State Council briefing that since late June hog supply-demand has gradually improved and prices have rebounded, easing farm losses. He warned overall supply remains ample and the supply-strong, demand-weak pattern has not fundamentally changed. The ministry will continue comprehensive capacity regulation, issue multi-channel warnings and guide better supply-demand matching, and urged farms to closely monitor market shifts and adjust production to help stabilize the price recovery and avoid large fluctuations."
+    },
+    {
+      "id": "5006210",
+      "time": "2026-07-24 15:27:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【構建就業友好型發展方式國際研討會在京召開】人社部訊息，7月23日，構建就業友好型發展方式國際研討會在京召開，圍繞推動實現高質量充分就業、構建就業友好型發展方式，交流理論研究成果和國際經驗做法，謀劃就業工作發展思路。人力資源社會保障部副部長顏清輝、國際勞工組織首席經濟學家李相憲、華南師範大學黨委書記王恆胤出席會議並致辭。研討會上，華南師範大學彙報了關於構建就業友好型發展方式的課題研究成果，來自國際勞工組織、國內高等院校及科研院所的有關專家分專題發言交流。有關部門、部屬有關單位負責同志參加會議。"
     },
     {
       "id": "mkt:019f9305-2abd-7aab-8e7e-d9d499249c27",
@@ -164745,116 +164937,6 @@
         "公司"
       ],
       "text": "【風神股份：變更董事會秘書 張琳琳離任孫晶接任】風神股份公告稱，原董事會秘書張琳琳因工作調整，於2026年7月離任，原定任期至2027年9月，離任後仍在公司任職。7月17日公司第九屆董事會第二十二次會議審議透過，聘任孫晶為董事會秘書，任期至第九屆董事會屆滿。孫晶已透過上交所董秘任職資格培訓，目前未直接持股，任職資格符合規定。"
-    },
-    {
-      "id": "4993824",
-      "time": "2026-07-17 15:34:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【極米科技：核心技術人員陳怡學因個人原因離職】極米科技公告稱，公司核心技術人員陳怡學因個人原因離職，離職後不再任職，截至公告日不持有公司股份，其已獲授未行權股票期權按規定處理。陳怡學工作期間參與、申請的專利等智慧財產權均為職務成果，所有權歸公司，雙方無相關糾紛。公司已與他籤保密及競業協議，未發現其違規。此次變動不會對公司核心競爭力等產生重大不利影響，目前他已完成工作交接，公司研發專案有序推進。"
-    },
-    {
-      "id": "4993823",
-      "time": "2026-07-17 15:34:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新華醫療：子公司兩款醫療器械獲註冊證】新華醫療公告稱，子公司新華手術器械有限公司獲國家藥監局頒發的超聲軟組織手術裝置三類醫療器械註冊證，批准日期為2026年7月10日，有效期至2031年7月9日；子公司山東新華醫用環保裝置有限公司獲山東省藥監局頒發的醫用空氣壓縮機組二類醫療器械註冊證，批准日期為2026年7月13日，有效期至2031年7月12日。兩產品上市有望增強公司競爭力，但實際銷售情況尚無法預測。"
-    },
-    {
-      "id": "4993822",
-      "time": "2026-07-17 15:33:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "博柏利執行長：自2019年以來，我們在倫敦的旅遊業務下降了50%，這主要是增值稅退稅計劃終止所致。"
-    },
-    {
-      "id": "4993821",
-      "time": "2026-07-17 15:33:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "博柏利執行長：若能恢復增值稅退稅計劃，我們的業務可能會更強勁。"
-    },
-    {
-      "id": "mkt:019f6efd-d6fe-7aab-8dde-3b5806f0872c",
-      "time": "2026-07-17 15:32:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed July 17 (Friday) down 0.98% at 871.1 yuan/gram; silver T+D fell 3.17% to 13,470 yuan/kg."
-    },
-    {
-      "id": "mkt:019f6efd-a96f-7aab-8dde-37290da8f42c",
-      "time": "2026-07-17 15:32:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Gartner: Neo-cloud providers to capture 20% of AI cloud market by 2030】Gartner forecasts neo-cloud providers will hold 20% of the AI cloud market by 2030, roughly $267 billion. Neo-clouds differentiate via superior performance, flexible AI-workload deployment and heavy investment in data sovereignty, and typically offer more competitive pricing. The AI cloud market is entering a new phase where sovereignty, performance and infrastructure specialization are primary procurement criteria. Rapid growth in GPU-intensive workloads is outpacing general cloud models, creating conditions for neo-cloud providers to scale AI infrastructure delivery."
-    },
-    {
-      "id": "4993820",
-      "time": "2026-07-17 15:32:10",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【宋濤會見洪秀柱一行】中共中央臺辦、國務院臺辦主任宋濤17日在杭州會見中國國民黨前主席、中華青雁和平教育基金會董事長洪秀柱一行。宋濤轉達了習近平總書記對洪秀柱的問候。宋濤表示，習近平總書記在慶祝中國共產黨成立105週年大會上發表重要講話，為兩岸關係發展指明瞭方向。我們將深入貫徹落實習近平總書記重要講話精神，團結廣大臺灣同胞，堅定推動兩岸關係和平發展、推進祖國統一大業。希望兩岸同胞特別是兩岸青年勇擔時代重任，做交流融合的堅定促進者、共同家園的堅定守護者、民族復興的堅定推動者，把兩岸關係的未來牢牢掌握在中國人自己手中。（新華社）"
-    },
-    {
-      "id": "te:markets:567811",
-      "time": "2026-07-17 15:32:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens 0.17% Higher — The FTSE 100 Index is gaining 18 points or 0.17 percent on Friday. Leading the gains are Vodafone (2.97%), British American Tobacco (2.79%) and National Grid (2.14%). Top losers are Burberry (-5.35%), Scottish Mortgage (-2.84%) and St. Jamess (-2.21%)."
-    },
-    {
-      "id": "4993818",
-      "time": "2026-07-17 15:31:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：2030年新型雲端提供商將佔AI雲端市場20%份額】Gartner預測，2030年新型雲端（neocloud）提供商將佔AI雲端市場20%市場，即2670億美元。新型雲端提供商正以效能卓越、靈活的AI工作負載部署方式，結合對資料主權高度投入形成差異化優勢，定價通常更具競爭力。AI雲端市場正進入新階段，主權、效能與基礎結構專業化成為企業決策首要因素。GPU密集型工作負載需求加速增長，一般雲端模式難以跟上步伐，為新型雲端提供商大規模交付AI基礎結構創造條件。"
-    },
-    {
-      "id": "te:markets:567810",
-      "time": "2026-07-17 15:31:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.47% Lower — The DAX Index is losing 117 points. Losses were led by Infineon (-4.20%), Siemens (-2.22%) and Siemens Energy (-1.99%). Offsetting the fall, top gainers were Deutsche Telekom (1.84%), E.ON (1.53%) and SAP (1.35%)."
-    },
-    {
-      "id": "4993817",
-      "time": "2026-07-17 15:30:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "越南VN指數跌1.3%，報1781.26點。"
-    },
-    {
-      "id": "4993816",
-      "time": "2026-07-17 15:30:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【習近平將會見泰國總理阿努廷】7月17日下午，國家主席習近平將在上海西郊賓館會見來華出席2026世界人工智慧大會暨人工智慧全球治理高階別會議並進行正式訪問的泰國總理阿努廷。（央視新聞）"
     }
   ]
 }
