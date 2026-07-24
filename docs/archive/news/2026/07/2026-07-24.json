@@ -1,7 +1,126 @@
 {
   "date": "2026-07-24",
-  "count": 2700,
+  "count": 2713,
   "items": [
+    {
+      "id": "5007010",
+      "time": "2026-07-24 20:07:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行行長納比烏琳娜：因產能下滑下調國內生產總值預期。"
+    },
+    {
+      "id": "5007009",
+      "time": "2026-07-24 20:07:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST金靈：持股5%以上股東部分股份解除質押】*ST金靈公告稱，7月24日接到持股5%以上股東南通產控函告，其持有的3514萬股公司股份於4月30日解除質押，佔其所持股份比例7.96%，佔公司總股本比例1.24%。截至公告披露日，南通產控持股4.42億股，佔比15.54%，本次解除質押後質押股份數量為1.29億股，佔其所持股份比例29.32%，佔公司總股本比例4.55%。"
+    },
+    {
+      "id": "5007008",
+      "time": "2026-07-24 20:06:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行行長納比烏琳娜：當前貨幣環境處於適度收緊狀態。"
+    },
+    {
+      "id": "5007007",
+      "time": "2026-07-24 20:05:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行行長納比烏林娜表示：我們預計企業將在年底前恢復生產能力。"
+    },
+    {
+      "id": "5007006",
+      "time": "2026-07-24 20:05:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋即將完成位于貝爾貝拉機場一處秘密軍事基地為期 10 個月的大規模擴建工程，該基地配備防空系統、地下掩體以及無人機機庫。"
+    },
+    {
+      "id": "mkt:019f9404-785f-7aab-8e87-7a2c8a63cb3d",
+      "time": "2026-07-24 20:05:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russian central bank governor Nabiullina said the central bank assumes firms will restore production capacity by year-end."
+    },
+    {
+      "id": "mkt:019f9404-5403-7aab-8e87-74bf88d4c120",
+      "time": "2026-07-24 20:05:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【US officials say government concerned about rapid depletion of advanced weapons stocks】US officials said on the 23rd the government is concerned recent escalation of operations against Iran has led to rapid depletion of air‑defense interceptors and precision‑guided munitions. Officials speaking anonymously said the early phase of strikes consumed precision weapons at a pace now deemed unsustainable. The military has shifted toward satellite‑guided JDAMs and small‑diameter bombs; long‑range cruise missiles such as Tomahawk remain in inventory but are being used more cautiously. Air‑defense interceptors have been heavily expended defending US interests in the Persian Gulf amid Iranian drone and missile strikes on bases. Regional partners, citing repeated attacks on targets in Kuwait and Bahrain, are urging a halt to the fighting."
+    },
+    {
+      "id": "5007005",
+      "time": "2026-07-24 20:05:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國 6 月建築許可終值 137.4 萬套，初值 136.7 萬套。"
+    },
+    {
+      "id": "5007004",
+      "time": "2026-07-24 20:04:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊警告中東民眾遠離美軍所在地】伊朗伊斯蘭革命衛隊24日釋出警告說，中東地區民眾應立即遠離美軍人員秘密居住和活動地點，以確保自身安全。警告說，美方違反此前達成的伊美諒解備忘錄並重啟戰事，對伊朗境內橋樑、鐵路、碼頭等基礎設施發動襲擊，造成平民傷亡。伊方將對美方行徑作出回應。警告還說，由於擔心遭到伊方打擊，許多美軍官兵已離開軍事基地，轉移到部分城市建築內指揮軍事行動並隱蔽活動。駐有美軍的中東地區國家民眾應與美軍人員秘密居住和活動地點保持至少500米距離，以免受到波及。（新華社）"
+    },
+    {
+      "id": "5007003",
+      "time": "2026-07-24 20:04:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "澳大利亞政府批評美國政府對澳大利亞出口商品加徵關稅的決定，稱該舉措 “毫無正當理由”，並強調澳方在打擊強迫勞動與現代奴役問題上執行嚴苛標準。"
+    },
+    {
+      "id": "5007002",
+      "time": "2026-07-24 20:04:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨、納斯達克100指數期貨迅速走高。"
+    },
+    {
+      "id": "5007001",
+      "time": "2026-07-24 20:04:01",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息： 日本央行將於下週政策會議維持基準利率不變。"
+    },
+    {
+      "id": "mkt:019f9402-c1b1-7aab-8e87-6b27c2fa92a3",
+      "time": "2026-07-24 20:03:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【IRGC warns Middle East civilians to avoid locations housing U.S. forces】Iran's Islamic Revolutionary Guard Corps on July 24 warned civilians across the Middle East to immediately avoid locations where U.S. personnel secretly live and operate, urging a minimum distance of 500 meters. The IRGC accused the U.S. of breaching a prior U.S.-Iran memorandum, restarting hostilities and striking Iranian bridges, railways and ports, causing civilian casualties, and said Iran will respond. It added many U.S. personnel have left bases and relocated into urban buildings to command and conceal operations."
+    },
     {
       "id": "5007000",
       "time": "2026-07-24 20:03:36",
