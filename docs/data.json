@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-24 12:28:33",
-  "count": 17991,
+  "updated": "2026-07-24 12:32:36",
+  "count": 17992,
   "items": [
+    {
+      "id": "mkt:019f9263-e07d-7aab-8e7a-532b568dcac6",
+      "time": "2026-07-24 12:30:46",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "D.A. Davidson raised its PT on Intel (INTC.O) to $100 from $77."
+    },
+    {
+      "id": "5005935",
+      "time": "2026-07-24 12:30:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【霍爾木茲海峽航運停滯，卡達拉斯拉凡液化天然氣出口放緩】船舶追蹤資料顯示，受液化天然氣運輸船在霍爾木茲海峽通行受阻影響，卡達拉斯拉凡液化天然氣廠的出口量在本月初觸及峰值後開始回落。資料顯示，週四該廠液化天然氣出口十日移動均值為約 3.66 萬噸，為 6 月 23 日以來最低水平。船舶資料顯示，目前有一艘船舶停靠拉斯拉凡港口，說明出口並未完全中斷。注：卡達現階段壓低拉斯拉凡廠區產能執行，待霍爾木茲海峽航運恢復後可迅速提升產量；部分液化天然氣已提前裝船，用以緩解儲罐倉儲壓力。拉斯拉凡港區周邊現有 13 艘空載液化天然氣運輸船集結待命。"
+    },
+    {
+      "id": "5005934",
+      "time": "2026-07-24 12:29:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林響起警報。"
+    },
+    {
+      "id": "mkt:019f9262-41aa-7aab-8e7a-4bb8c097b54b",
+      "time": "2026-07-24 12:29:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain's Interior Ministry said an alarm has been sounded."
+    },
+    {
+      "id": "5005933",
+      "time": "2026-07-24 12:28:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "澳洲航空：澳洲航空集團與墨爾本機場將開通更多航班、推進機場擴建。各方已就關鍵條款達成商業協議，這將為增加航班班次及其他相關事宜鋪平道路。根據協議，澳洲航空將助力支援墨爾本機場規模45億澳元的國際航站樓擴建專案。除航站樓擴建外，該協議還包含對墨爾本機場第三跑道的15年承諾，該跑道計劃於2031年啟用。"
+    },
     {
       "id": "5005932",
       "time": "2026-07-24 12:25:58",
@@ -164934,38 +164976,6 @@
         "XAUUSD"
       ],
       "text": "【IRGC claims 'many' US troops killed in strike on Al Tanf, warns on Strait of Hormuz】Iran's Islamic Revolutionary Guard Corps (IRGC) said it struck the US special-operations command center at Al Tanf in southern Syria, killing \"many\" US troops and destroying a radar system and several special-operations helicopters. The IRGC said the attack was retaliation for a US airstrike on Iranshahr and part of the 11th phase of the Nasr-2 operation. It warned the Strait of Hormuz remains under its control and that, while US \"aggression\" continues, no oil or gas will be allowed to be exported."
-    },
-    {
-      "id": "4993509",
-      "time": "2026-07-17 12:32:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "傑富瑞：啟動追蹤覆蓋明晟公司，給予買入評級，目標價760美元；啟動覆蓋穆迪公司，給予買入評級，目標價610美元；將標普全球公司目標價從535美元上調至550美元。"
-    },
-    {
-      "id": "4993508",
-      "time": "2026-07-17 12:30:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊：我們的部隊仍然控制著霍爾木茲海峽。"
-    },
-    {
-      "id": "4993507",
-      "time": "2026-07-17 12:29:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "傑富瑞將 華納音樂集團  目標價從40美元下調至36美元。"
-    },
-    {
-      "id": "4993506",
-      "time": "2026-07-17 12:28:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗Press TV：作為對美國軍事侵略的回應，伊斯蘭革命衛隊航空航天部隊在“納斯爾行動”第十一波次中，對敘利亞Al-Tanf地區的敵方特種作戰指揮中心發動了突然襲擊。此次襲擊摧毀了一套雷達系統及數架特種作戰直升機，並造成大量美軍人員傷亡。"
     }
   ]
 }
