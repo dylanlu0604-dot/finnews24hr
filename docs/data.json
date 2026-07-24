@@ -1,7 +1,137 @@
 {
-  "updated": "2026-07-24 10:12:16",
-  "count": 18005,
+  "updated": "2026-07-24 10:16:11",
+  "count": 18012,
   "items": [
+    {
+      "id": "mkt:019f91e8-1337-7aab-8e78-0d8094ef73ec",
+      "time": "2026-07-24 10:15:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【World's first 100-kW-class bamboo-based offshore PV platform completed】The world’s first 100-kW-class bamboo-based offshore photovoltaic platform, Jilin No.2, was completed in Yantai, Shandong. The platform’s primary structure uses bamboo-wound tubes and sea-bamboo tubes as core supports; project developers say these components outperform conventional wood-based composites on overall mechanical performance and offer high strength, corrosion resistance and renewability. The unit will be installed at Yantai’s offshore PV demonstration and testing base to supply green power to an offshore energy-island demonstration project for hydrogen, ammonia and methanol."
+    },
+    {
+      "id": "te:markets:569490",
+      "time": "2026-07-24 10:15:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Appreciates by 0.81% — Top currency gainer is South Korean Won (0.81%). Meanwhile, Japanese Yen and Chinese Yuan were little changed."
+    },
+    {
+      "id": "mkt:019f91e7-b834-7aab-8e78-051eadd10886",
+      "time": "2026-07-24 10:15:09",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【China's Ministry of Public Security: 1H inbound foreign visitors 22.914 mln】China's Ministry of Public Security said inbound foreign visitors in 1H totaled 22.914 mln, up 20.4% YoY; visa-free entrants numbered 17.815 mln, up 30.6% YoY. The ministry said it coordinated measures to ease travel and boost inbound tourism, consumption and living convenience, calling cross-border flows a new growth driver for the economy."
+    },
+    {
+      "id": "mkt:019f91e7-50b2-7aab-8e77-fa3319b61a34",
+      "time": "2026-07-24 10:14:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Capital Economics: BANK OF JAPAN likely more pessimistic on activity】Marcel Thieliant, head of Asia-Pacific at Capital Economics, says the BANK OF JAPAN is likely to be more pessimistic on Japanese economic activity and will probably keep policy rates unchanged at next week’s meeting. Although the BOJ judged in June that downside risks to activity had eased, Thieliant said a renewed rise in oil prices has dented that optimism. He added the BOJ will likely continue to view inflation risks as tilted to the upside. Capital Economics expects the BOJ to raise its policy rate to 1.25% in October."
+    },
+    {
+      "id": "5005758",
+      "time": "2026-07-24 10:14:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綠的諧波等成立機器人精密軸承公司】企查查APP顯示，近日，斯凱孚機器人精密軸承（寧波）有限公司成立，經營範圍包含智慧機器人的研發；智慧機器人銷售；工業機器人制造；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由綠的諧波(688017)等共同持股。"
+    },
+    {
+      "id": "5005757",
+      "time": "2026-07-24 10:13:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【公安部：上半年入境外國人達2291.4萬人次】國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，公安部相關負責人介紹強治理護民安促發展，全力服務保障“十五五”開局起步有關情況，並答記者問。在服務高質量發展方面，新業態新模式新技術應用風險預警防範能力加快提升，智慧財產權得到更好保護，適應區域協調發展需要的警務協作更加緊密高效，生態警務機制更加完善，移民管理領域制度型開放穩步擴大，海外利益保護工作體系不斷完善，公安行政管理服務改革持續深化，更多便民利企舉措加快落地。今年上半年，公安部深入推進“高效辦成一件事”，制定出臺支援海南自由貿易港全島封關運作等政策措施。健全常態化警企聯絡服務機制，全面推行公安經偵部門便民利企十項工作指引，偵辦侵權假冒犯罪案件1.89萬起，抓獲犯罪嫌疑人3.38萬人，最大限度激發創新活力、守護創新成果。協同提升入境旅遊、消費、生活便利化水平，入境外國人達2291.4萬人次，其中免簽入境外國人1781.5萬人次，同比分別增長20.4%、30.6%，跨境流量成為經濟發展新動能。"
+    },
+    {
+      "id": "5005756",
+      "time": "2026-07-24 10:13:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國援助的超算中心專案推動突尼西亞數字化轉型】由中國援助的突尼西亞高等教育和科研部超級計算機中心專案23日在突尼西亞花拉子密計算中心交付使用，助力該國數字化轉型。中國駐突尼西亞大使萬黎在致辭中說，該專案標誌著中突高教和科研領域合作提升到新的水平，將成為兩國友好合作新亮點。他表示，中方願進一步同突方積極探討在人工智慧開發和應用領域的合作，加強人工智慧治理交流，把握人工智慧發展帶來的機遇，推動兩國經濟社會發展，造福兩國人民。（新華社）"
+    },
+    {
+      "id": "5005755",
+      "time": "2026-07-24 10:12:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳：上半年工業生產較快增長 高技術產品產量快速增長】深圳市統計局釋出2026年上半年深圳經濟執行情況，上半年，全市規模以上工業增加值同比增長8.7%。分門類看，採礦業增加值同比增長2.2%，製造業增長9.3%，電力、熱力、燃氣及水生產和供應業增長4.8%。主要行業大類中，通用裝置製造業增長13.2%，專用裝置製造業增長12.8%，計算機、通訊和其他電子裝置製造業增長12.3%，電力、熱力生產和供應業增長11.5%。高技術產品產量保持快速增長，其中，3D列印裝置、工業機器人、鋰離子電池產品產量分別增長58.1%、43.9%、25.5%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202607243820082111",
+      "time": "2026-07-24 10:12:34",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【深圳：上半年工業生產較快增長 高技術產品產量快速增長】深圳市統計局釋出2026年上半年深圳經濟執行情況，上半年，全市規模以上工業增加值同比增長8.7%。分門類看，採礦業增加值同比增長2.2%，製造業增長9.3%，電力、熱力、燃氣及水生產和供應業增長4.8%。主要行業大類中，通用裝置製造業增長13.2%，專用裝置製造業增長12.8%，計算機、通訊和其他電子裝置製造業增長12.3%，電力、熱力生產和供應業增長11.5%。高技術產品產量保持快速增長。"
+    },
+    {
+      "id": "5005754",
+      "time": "2026-07-24 10:12:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本三得利飲料公司據悉正著眼於美國飲料行業的併購。"
+    },
+    {
+      "id": "5005753",
+      "time": "2026-07-24 10:11:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【網際網路板塊下跌 證通電子跌超8%】網際網路板塊下跌，證通電子跌超8%，每日互動、美利雲、網宿科技等股跌幅靠前。"
+    },
+    {
+      "id": "5005752",
+      "time": "2026-07-24 10:11:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "赤澤亮正：持續評估美國關稅對各行業和就業的影響。"
+    },
+    {
+      "id": "5005751",
+      "time": "2026-07-24 10:10:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗多地遭美軍襲擊 德黑蘭啟動防空系統】據伊朗多家媒體24日報道，伊朗多地遭到美軍襲擊，首都德黑蘭啟動防空系統。襲擊造成人員受傷、電力供應中斷。據報道，當天凌晨，德黑蘭啟動防空系統，對敵方目標進行攔截；阿巴斯港傳出數聲爆炸聲，當地官員稱襲擊造成兩人受傷，並導致電力供應中斷；格什姆島南部至少聽到三次爆炸聲，當地居民稱，聽到該地區上空有戰機飛行的聲音；阿瓦士市傳出數聲巨大爆炸聲，當地官員稱美軍用導彈襲擊了該市周邊地區。此外，賈斯克、霍拉馬巴德、洪達卜、安迪梅什克等地也遭到美軍襲擊。（新華社）"
+    },
+    {
+      "id": "5005750",
+      "time": "2026-07-24 10:10:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合利華旗下炫詩在美陷入致癌訴訟】近日，美國六名女性對聯合利華提起訴訟，因她們在使用TRESemmé洗髮水或護髮素後出現了脫髮、頭髮稀疏、過敏反應及其他頭皮副作用。六名原告稱TRESemmé（中文名為“炫詩”）護髮產品中所用的DMDM乙內醯脲防腐劑會引發上述副作用，該成分十多年前已捲入類似風波，聯合利華明知故犯。該品牌已經進入中國，曾由歌手李宇春和演員蔣欣代言。京東全球購平臺客服稱，其銷售的產品沒有致癌成分。（21世紀經濟報道）"
+    },
     {
       "id": "te:economy:569487",
       "time": "2026-07-24 10:10:18",
@@ -165002,68 +165132,6 @@
         "國際"
       ],
       "text": "卡達內政部稱，伊朗襲擊後，一枚被攔截導彈的彈片致一名兒童受傷。"
-    },
-    {
-      "id": "4993309",
-      "time": "2026-07-17 10:15:19",
-      "tags": [
-        "焦點"
-      ],
-      "text": "外匯局：積極推進跨境直接投資等“一攬子”便利化政策落地。將進一步簡化資本專案結匯支付手續，支援吸引和利用外資固穩促優。對於“走出去”企業，我們將有序簡化資金匯出業務稽核，保障企業正常經營資金的高效便捷使用。擬進一步拓展跨境融資便利化政策適用主體範圍，全國推廣綠色外債試點。進一步最佳化企業跨境融資宏觀審慎管理措施。增加資本專案“網上辦”的業務種類。（金融一線）"
-    },
-    {
-      "id": "4993308",
-      "time": "2026-07-17 10:14:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家外匯管理局：上半年我國貨物貿易進出口總額同比增長16.9%】國家外匯管理局新聞發言人、副局長李斌介紹2026年上半年外匯收支資料情況。上半年我國貨物貿易進出口總額超過25萬億美元，同比增長16.9%，這是跨境收支增長的重要推動因素。同時，外貿結構持續最佳化。積體電路、新三樣產品出口，對總出口增長貢獻接近五成，為全球供給了更高質量的產品。我國的進口規模創歷史同期新高，增速快於出口，為全球外貿增長提供了空間和機遇。"
-    },
-    {
-      "id": "4993307",
-      "time": "2026-07-17 10:14:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數下跌2%至263.08點。"
-    },
-    {
-      "id": "4993306",
-      "time": "2026-07-17 10:13:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【外匯局：上半年境內人民幣外匯市場交易量總計達22.1萬億美元】7月17日，國家外匯管理局副局長李斌在國新辦新聞釋出會上表示，上半年，境內人民幣外匯市場交易量總計達到22.1萬億美元。其中，即期和衍生品交易量分別是8.3萬億美元和13.8萬億美元，佔比分別是38%和62%。"
-    },
-    {
-      "id": "4993305",
-      "time": "2026-07-17 10:13:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時放量645億元。"
-    },
-    {
-      "id": "4993304",
-      "time": "2026-07-17 10:13:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達20億港元。"
-    },
-    {
-      "id": "te:markets:567710",
-      "time": "2026-07-17 10:12:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Set for 3rd Weekly Gain — The Australian dollar fell below $0.70, but stayed near a three-week high and on track for a third consecutive weekly gain as the US dollar remained broadly weaker, while the escalating Middle East conflict weighed on risk sentiment. Softer-than-expected US consumer and producer inflation data prompted markets to scale back the likelihood of a near-term Federal Reserve rate hike, reducing support for the greenback. However, gains in the Aussie were capped by rising geopolitical risks after Brent crude surged about 17% over the past two weeks on fears that prolonged disruptions to shipping through the Strait of Hormuz could reignite global inflation and complicate the policy outlook for major central banks. In Australia, expectations for further policy tightening remained subdued, with markets pricing only a 20% chance of a rate hike in August and around 60% odds by December. Upcoming key employment and inflation data due later this month will offer further clues on the policy outlook."
     }
   ]
 }
