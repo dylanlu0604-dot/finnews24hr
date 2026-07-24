@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-25 06:11:26",
+  "updated": "2026-07-25 06:15:20",
   "count": 18230,
   "items": [
+    {
+      "id": "5007630",
+      "time": "2026-07-25 06:12:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱在阿曼灣對一艘商船開火】美軍中央司令部稱，當天在阿曼灣向一艘商船開火，使其失去航行能力，該船至少4次試圖突破美方針對伊朗港口的封鎖。美軍稱曾向該船船員發出警告，但對方未遵從指令，隨後美軍向該船機艙開火。這是美軍重新對伊朗實施海上封鎖以來第二艘被擊中的商業船隻。美軍中央司令部表示，還有12艘船被迫改變航向。（央視新聞）"
+    },
     {
       "id": "5007629",
       "time": "2026-07-25 06:10:47",
@@ -167027,17 +167035,6 @@
         "國際"
       ],
       "text": "市場訊息：美國國務院發言人皮戈特對英國依據《國家安全法》將伊朗革命衛佇列為制裁物件的行為表示歡迎。"
-    },
-    {
-      "id": "te:markets:567988",
-      "time": "2026-07-18 06:15:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Mexican Peso Drops by 0.53% — Top currency losers are Mexican Peso (-0.53%), South Korean Won (-0.53%), Indian Rupee (-0.25%) and British Pound (-0.18%). Gains are led by Norwegian Krone (0.33%). Meanwhile, Euro and Dollar Index were little changed."
     }
   ]
 }
