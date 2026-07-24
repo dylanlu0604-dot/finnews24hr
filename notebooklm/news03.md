@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-25 05:17:36_
-_本檔包含 3594 則快訊，約 693684 字_
+_更新時間：2026-07-25 06:38:37_
+_本檔包含 3607 則快訊，約 694373 字_
+
+---
+
+### 2026-07-22 22:13:02  #其他
+
+瑞銀將諾斯羅普·格魯曼目標價從666美元上調至685美元。
+
+---
+
+### 2026-07-22 22:10:06  #公司 #市場
+
+【結好控股：結好證券及結好期貨伺服器遭受網路攻擊，已委聘網路安全公司調查】7月22日晚，結好控股在港交所公告，集團附屬公司結好證券有限公司及結好期貨有限公司之伺服器於2026年7月19日傍晚遭受網路攻擊，導致其電子交易系統及相關服務（包括提取股票）暫時中斷。集團之技術團隊已迅速採取行動，以隔離受影響之系統。在停機期間，交易熱線維持不受影響，客戶可透過交易熱線直接聯絡本集團之交易櫃檯以進行人手下達指令。結好證券有限公司之電子交易系統及相關服務已於2026年7月22日上午九時正恢復運作。結好期貨有限公司之電子交易系統及相關服務將會在切實可行範圍內儘快恢復。集團已經於2026年7月20日委聘網路安全公司，以對集團之網路及系統安全措施進行調查，並進一步提升。目前，並無任何證據顯示有任何資料被誤用。公司已經向香港警務處、香港聯交所及香港證監會報告該事件。
+
+---
+
+### 2026-07-22 22:09:16  #其他
+
+密歇根州衛生部：截至7月22日，共報告7171例環孢子蟲病病例。
+
+---
+
+### 2026-07-22 22:08:51  #國際
+
+市場訊息： 烏克蘭將向美國出口無人機，作為五角大樓相關專案的一部分。
+
+---
+
+### 2026-07-22 22:08:08  #MKT News #Important
+
+China's foreign minister Wang Yi met US Secretary of State Rubio in Manila on the 22nd.
+
+---
+
+### 2026-07-22 22:07:31  #宏觀 #焦點 #國際
+
+【王毅會見美國國務卿魯比奧】中共中央政治局委員、外交部長王毅22日在馬尼拉會見美國國務卿魯比奧。王毅表示，今年是中美關係的“大年”。兩國元首在北京成功舉行歷史性會晤，確定了中美建設性戰略穩定關係的定位，提出了雙方共同努力的方向。這是中美兩個大國在探索和平共處道路上取得的重要進展，符合兩國人民根本利益，符合國際社會共同期待。現在我們的責任是，沿著兩國元首設定的軌道，排除干擾、克服障礙，確保將領導人的共識轉化為全政府、各領域的共識和行動，以中美的戰略穩定促進世界的和平安寧，以中美的建設性互動為國際合作提供重要動力。王毅還就近期美方的一系列消極言行闡明中方嚴正立場，要求美方尊重中國的核心利益，恪守一箇中國原則，切實管控矛盾分歧，解決中方正當關切，讓中美關係的機遇之年照進現實。雙方還就國際地區熱點問題交換了意見。雙方認為，此次會晤務實、積極、富有建設性，同意共同落實兩國元首達成的重要共識，發揮政治外交渠道作用，籌備好下階段高層交往，推動中美建設性戰略穩定關係取得實質進展。（新華社）
+
+---
+
+### 2026-07-22 22:06:11  #公司 #國際
+
+【在預期蘋果將首次亮相摺疊屏手機之際，三星上調新款摺疊智慧手機價格】7月22日，三星在英國倫敦舉行的Unpacked活動上推出了Galaxy Z Fold8系列，這三款裝置及其售價分別為：Galaxy Z Fold8 Ultra（2099美元）、Galaxy Z Fold8（1899美元）、以及Galaxy Z Flip8（1199美元）。Fold8是三星摺疊屏產品陣容中的最新裝置。由於記憶體晶片成本不斷上升，這家韓國科技巨頭上調了其摺疊屏手機的價格。新裝置的釋出正值業界預期蘋果將推出其首款摺疊屏iPhone之前。
+
+---
+
+### 2026-07-22 22:05:54  #國際
+
+市場訊息：美國國防部證實，約旦 “塔樓” 基地遇襲事件中第三名美軍人員身亡。
+
+---
+
+### 2026-07-22 22:05:18  #其他
+
+易捷航空<EZJ.L>股價延續跌勢，最新跌幅為13.4%，有望創下2020年3月以來最大單日跌幅。
+
+---
+
+### 2026-07-22 22:05:11  #MKT News #Commodities #Energy
+
+OpenAI will provide up to 1,000 MW of flexible demand response to the state of Georgia as part of a Georgia data-center project.
+
+---
+
+### 2026-07-22 22:04:42  #公司
+
+【普華永道中國在上海成立人工智慧研究院】7月22日，普華永道中國宣佈在上海成立人工智慧研究院。在開幕儀式上，普華永道中國主席兼執行長何睦寧表示：“中國在AI技術研發、場景落地和生態建設方面等的優勢，已使其成為全球頂尖的創新高地。”普華永道中國諮詢業務主管合夥人黃啟佳指出，人工智慧的價值最終要落在產業實處。據悉，作為普華永道佈局中國AI生態的載體，該研究院涵蓋前沿研究、AI智造、生態聯盟、產業交流和人才發展等核心能力板塊，覆蓋從前沿研究到真實產業應用的全價值鏈。（澎湃）
+
+---
+
+### 2026-07-22 22:04:29  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #XAUUSD #DXY
+
+【Trump says Iran will pay a heavy price】President Trump said in a Wednesday interview that Iran will pay a heavy price and will not have nuclear weapons. He said an investigation is under way into the deaths of U.S. soldiers and that Iran will be held responsible. Trump added that Americans are not opposed to war and do not want gasoline prices to rise.
+
+---
+
+### 2026-07-22 22:04:15  #公司
+
+【雲天化集團與華為簽署合作協議】7月22日，雲天化集團有限責任公司與華為技術有限公司在上海簽署合作協議。根據協議，雙方將在數智化轉型頂層規劃、工業網際網路、智慧礦山、智慧工廠、智慧園區等領域深化合作；加快磷基新材料綠色低碳迴圈經濟產業叢集建設。同時，雙方還將在數字化人才培養等方面深化合作。
+
+---
+
+### 2026-07-22 22:03:32  #Trading Economics #Markets #Spain #stocks #Importance 0
+
+Banco Bilbao Vizcaya Argentaria Stock Price Hits 28-year High — Banco Bilbao Vizcaya Argentaria shares increased to 23.11 EUR, the highest since July 1998. Over the past 4 weeks, Banco Bilbao Vizcaya Argentaria gained 6.5%, and in the last 12 months, it increased 79.77%.
+
+---
+
+### 2026-07-22 22:03:08  #公司
+
+南方公司旗下佐治亞電力公司：OpenAI承諾提供最高1000兆瓦的靈活性需求響應，為電網提供支撐。
+
+---
+
+### 2026-07-22 22:02:36  #MKT News #Important
+
+Spot gold rose more than 2% intraday, breaching $4,160/oz. Spot silver jumped over 3% to $60.62/oz.
+
+---
+
+### 2026-07-22 22:02:26  #市場 #焦點
+
+白銀連續主力合約日內漲3%，現報14926.00元。
+
+---
+
+### 2026-07-22 22:01:59  #市場 #焦點
+
+紐約期銀突破61美元/盎司，日內漲3.20%。
+
+---
+
+### 2026-07-22 22:01:54  #市場
+
+現貨黃金日內漲2%，現報4160.12美元/盎司。
+
+---
+
+### 2026-07-22 22:01:54  #市場 #焦點
+
+現貨黃金突破4160美元/盎司，日內漲2.02%。
+
+---
+
+### 2026-07-22 22:01:27  #公司
+
+喬治亞電力公司將為埃芬漢姆縣的OpenAI專案提供供電服務。
+
+---
+
+### 2026-07-22 22:01:08  #市場
+
+現貨白銀日內漲3%，現報60.56美元/盎司。
+
+---
+
+### 2026-07-22 22:00:38  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Precious metals futures' most-active contracts extended gains: SHFE gold 2608 up 1.56% at 907.74 yuan/gram; SHFE silver 2610 up 2.46% at 14,847 yuan/kg.
+
+---
+
+### 2026-07-22 22:00:30  #MKT News
+
+Axios reports a meeting between US President Trump and Israeli Prime Minister Netanyahu is under discussion, but no specific date or arrangements have been confirmed.
+
+---
+
+### 2026-07-22 21:59:58  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver's intraday gain widened to 3.00%, trading at $60.53/oz.
+
+---
+
+### 2026-07-22 21:59:57  #國際
+
+【美國參議員懷登建議立法，來限制總統特朗普的關稅權力】美國俄勒岡州民主黨參議員羅恩·懷登（Ron Wyden）提出了一項立法草案，旨在限制總統特朗普廣泛的關稅權力。該法案將設立一個國會關稅委員會，並將美國貿易代表辦公室（USTR）設為獨立機構，其中包含多項此類規定。懷登嚴厲抨擊特朗普，原因是特朗普援引一項近百年曆史、極少被啟用的貿易法，宣佈對一系列加拿大商品徵收50%的報復性關稅。
+
+---
+
+### 2026-07-22 21:59:37  #市場
+
+紐約期銀日內漲3%，現報60.88美元/盎司。
+
+---
+
+### 2026-07-22 21:59:34  #公司
+
+【天目藥業：控股股東擬透過公開徵集轉讓方式協議轉讓公司20%股份】天目藥業公告，控股股東匯隆華澤持有公司29.99%股份，擬透過公開徵集受讓方的方式協議轉讓公司無限售流通股2435.58萬股，佔公司總股本的20%，本次公開徵集轉讓價格不低於22元/股（含）。若本次公開徵集轉讓實施完成，公司控股股東及實控人將可能發生變更。
+
+---
+
+### 2026-07-22 21:59:08  #市場 #焦點
+
+紐約期金突破4160美元/盎司，日內漲2.05%。
+
+---
+
+### 2026-07-22 21:59:03  #市場
+
+多倫多綜合股指 漲幅擴大，上漲 1%。
+
+---
+
+### 2026-07-22 21:59:02  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold climbed to $4,150/oz, its highest level since July 7, up 1.8% on the day.
+
+---
+
+### 2026-07-22 21:58:55  #公司 #觀點
+
+【港股IPO：上海生生醫藥冷鏈科技股份有限公司遞表港交所】利弗莫爾證券顯示，上海生生醫藥冷鏈科技股份有限公司向港交所提交上市申請書，聯席保薦人為中金公司、國金證券（香港）有限公司。
+
+---
+
+### 2026-07-22 21:58:53  #公司 #市場 #焦點
+
+【7月22日增減持彙總】7月22日盤後，據不完全統計，包括興業證券、雷迪克、海倫哲、威馬農機、榮盛發展、通裕重工、神開股份在內的7家A股上市公司披露擬增持情況；百合花、大千生態披露擬減持情況。
+
+---
+
+### 2026-07-22 21:58:53  #市場
+
+紐約期金日內漲2%，現報4158.00美元/盎司。
+
+---
+
+### 2026-07-22 21:58:33  #MKT News
+
+CBS reports the US and Saudi Arabia are expected to sign an agreement at about 1:30 PM local time (01:30 Beijing time next day).
+
+---
+
+### 2026-07-22 21:58:08  #市場 #焦點
+
+現貨黃金突破4150美元/盎司，日內漲1.80%。
+
+---
+
+### 2026-07-22 21:58:06  #其他
+
+美股光通訊板塊多數翻紅，Credo漲超2%，Lumentum漲1%，Coherent漲0.5%，康寧跌幅收窄至1%。
+
+---
+
+### 2026-07-22 21:57:50  #央行 #國際
+
+油價飆升疊加美聯儲政策擔憂，10年期美債收益率觸及兩個月高位。
+
+---
+
+### 2026-07-22 21:57:43  #其他
+
+市場訊息：美沙協議預計於當地時間下午 1 點 30 分左右簽署。
+
+---
+
+### 2026-07-22 21:57:30  #市場
+
+標普500指數抹去開盤跌幅；納斯達克100指數跌幅收窄至0.2%。
+
+---
+
+### 2026-07-22 21:56:50  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Reachs Record High — The S&P/TSX Composite Index rose near 1% to trade above 35,500, reaching a record high as rising commodity prices supported related stocks. Gold prices gained on safe-haven demand amid escalating tensions between the US and Iran. Agnico Eagle, Barrick, WPM, and Franco-Nevada gained nearly 2%. The conflict also rose concerns over energy supply, lifting oil prices and improving the outlook for producers. Canadian Natural added 1.5%, Imperial Oil gained 1%, while Suncor and Cenovus advanced nearly 2%. Cenovus is scheduled to report earnings on Thursday. Elsewhere, Waste Connections edged higher ahead of its earnings release, due after today's closing bell. Investors are also focused on quarterly results from US tech giants Alphabet and Tesla, scheduled after the close. On the trade front, Prime Minister Carney said late Tuesday that he and US President Trump agreed to intensify trade negotiations after Trump unveiled plans to impose 50% tariffs on a broad range of Canadian imports.
 
 ---
 
@@ -21566,173 +21812,5 @@ WSJ: Despite Middle East conflict underscoring supply vulnerabilities, Abu Dhabi
 ### 2026-07-21 19:19:32  #公司
 
 【證監會召開上市公司、行業機構、專家學者系列座談會聽取意見建議】7月20日下午至21日，證監會黨委班子成員分別召開座談會，就促進資本市場穩定健康發展聽取各方面意見建議，來自上市公司、證券基金機構和專家學者的29位代表參加會議。與會代表圍繞當前資本市場形勢進行了深入研討，並對證監會工作提出意見建議。座談中，大家表示，當前我國經濟呈現總體平穩、向新向優的發展態勢，新“國九條”釋出以來，資本市場整體生態發生深刻變化，投融資綜合改革效應持續釋放，上市公司質量和投資價值有效提升，保持市場穩健執行具備堅實基礎。與會代表圍繞進一步加強資本市場基礎制度建設、落實中長期資金長週期考核機制、不斷提升上市公司規範運作和治理水平、進一步規範量化交易行為、加大市場違法違規懲處力度、強化資本市場預期引導、進一步推動穩市機制制度化等方面提出了意見建議。會上，證監會負責同志表示，資本市場高質量發展，離不開上市公司、行業機構、專家學者等各方面的共同參與、共同努力。希望上市公司著力增強合規經營能力、提升核心競爭力，更好回報投資者；行業機構加大逆週期佈局力度，切實提升投資者服務水平；專家學者積極建言獻策、理性發聲，共同營造良好市場環境。證監會將認真研究吸收各方面提出的意見建議，主動回應市場關切，統籌防風險、強監管、促高質量發展，持續加強市場基礎制度建設，增強市場內在穩定性，完善投資者合法權益保護長效機制，更好推動資本市場長期平穩健康發展。證監會有關司局、系統單位主要負責同志參加座談。
-
----
-
-### 2026-07-21 19:19:25  #MKT News #Important
-
-The CSRC held a series of meetings with listed companies, industry bodies and academics to solicit opinions and suggestions.
-
----
-
-### 2026-07-21 19:19:10  #其他
-
-【瑞銀證券：AI仍為下半年主線 但還有三個主題值得關注】瑞銀證券中國股票策略分析師孟磊表示，在短期震盪後，科技板塊和AI仍是下半年的市場主線。
-
----
-
-### 2026-07-21 19:19:00  #MKT News
-
-Hungarian authorities seized an opposition party's IT servers.
-
----
-
-### 2026-07-21 19:18:39  #其他
-
-匈牙利當局查封反對黨 IT 伺服器。
-
----
-
-### 2026-07-21 19:18:19  #其他
-
-【工商銀行落地全國首單DR基準利率貸款】為順應貸款利率由單一定價基準向多元化定價基準體系發展的國際趨勢，近日，工商銀行在海南自貿港成功落地全國首單DR（Depository Institutions Repo Rate，存款類金融機構間債券回購利率）基準利率貸款，向某外資企業投放7670萬元人民幣1年期EF賬戶區間浮動DR貸款，滿足企業外貿等多元融資需求。
-
----
-
-### 2026-07-21 19:18:09  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-DR Horton earnings above expectations at 3.20 USD — DR Horton (DHI) released earnings per share at 3.20 USD, compared to market expectations of 2.97 USD.
-
----
-
-### 2026-07-21 19:18:09  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Msci earnings above expectations at 4.94 USD — Msci (MSCI) released earnings per share at 4.94 USD, compared to market expectations of 4.86 USD.
-
----
-
-### 2026-07-21 19:18:08  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-General Motors earnings above expectations at 3.57 USD — General Motors (GM) released earnings per share at 3.57 USD, compared to market expectations of 3.19 USD.
-
----
-
-### 2026-07-21 19:18:08  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Northrop Grumman earnings above expectations at 7.68 USD — Northrop Grumman (NOC) released earnings per share at 7.68 USD, compared to market expectations of 6.82 USD.
-
----
-
-### 2026-07-21 19:18:08  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-3M earnings above expectations at 2.40 USD — 3M (MMM) released earnings per share at 2.40 USD, compared to market expectations of 2.23 USD.
-
----
-
-### 2026-07-21 19:18:07  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Marsh & McLennan Companies earnings above expectations at 2.96 USD — Marsh & McLennan Companies (MMC) released earnings per share at 2.96 USD, compared to market expectations of 2.91 USD.
-
----
-
-### 2026-07-21 19:18:06  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Danaher earnings above expectations at 1.94 USD — Danaher (DHR) released earnings per share at 1.94 USD, compared to market expectations of 1.84 USD.
-
----
-
-### 2026-07-21 19:18:05  #宏觀 #公司 #市場 #國際
-
-【韓國擴充核電從業人員編制 助力核電出口與半導體叢集建設】韓國政府出臺一項出人意料的舉措，擴充國有核電站從業人員規模，以此為兩大重點大型專案做好籌備：一是爭取捷克核電站建設訂單，二是在韓國西南片區打造半導體產業叢集。過去四年，核電站所屬公營機構人員編制持續縮減，而從今年起編制規模止跌回升。支撐“韓國核電”復興的人才體系重建工作正加速推進。資料顯示，四家核電相關公營機構今年人員核定編制總數為22929人，較去年的22879人小幅上漲。業內分析認為，今年人力規模觸底反彈，源於政府年初上調了韓國水電與核電公司等核電相關機構的臨時公招員額。政府還計劃在下半年擴招正式編制員工。
-
----
-
-### 2026-07-21 19:17:44  #MKT News #Star Stocks #Alibaba #Market Themes #AI Revolution
-
-【Alibaba Qianwen launches Qwen-3.8-Max-Preview】Qianwen's official Weibo announced the Qwen-3.8-Max-Preview release is live, citing upgraded model capabilities and improved front-end (WebDev) performance.
-
----
-
-### 2026-07-21 19:17:42  #MKT News
-
-【Lianyungang maritime authority warns southern Yellow Sea closed for live-fire; entry banned】Lianyungang Maritime Safety Administration said live‑ammunition firing will take place July 22 from 1000 to 1300 local time (UTC+8) within the area bounded by 35°04.00'N 120°00.00'E, 35°04.00'N 120°13.00'E, 34°44.00'N 120°13.00'E and 34°44.00'N 120°00.00'E. Vessels are prohibited from entering the zone.
-
----
-
-### 2026-07-21 19:17:23  #其他
-
-【上半年北京中心城區新增車位超2萬個】記者從今天（21日）舉行的上半年首都經濟形勢解讀新聞釋出會上獲悉，按照年初計劃，北京中心城區計劃挖潛新增2萬個停車位，截至上半年已落地約2.01萬個，提前完成年度目標。據介紹，上半年，北京市發展改革委還依託北京市政府固定資產投資支援了東城區寶華家園、海淀區天秀路安和園等5個公共立體停車設施專案。5個專案全部投用後，將惠及東城、海淀、門頭溝20餘個小區、1萬餘戶居民，新增800多個機動車泊位，緩解市民“一位難求”的難題。（央視新聞）
-
----
-
-### 2026-07-21 19:17:15  #其他
-
-【阿里千問Qwen3.8-Max-Preview最新版本上線】據千問大模型官微訊息，阿里千問Qwen3.8-Max-Preview最新版本已上線。據介紹，該版本能力又有提升，前端（WebDev）表現會更好。
-
----
-
-### 2026-07-21 19:17:12  #公司 #觀點 #國際
-
-【花旗集團因石油風險將土耳其兩年期里拉債券敞口減半 】花旗集團策略師正在將其持有的土耳其政府債券多頭頭寸規模減半，以應對近期國際油價飆升給土耳其經濟帶來的嚴重衝擊。花旗集團策略師布米卡·古普塔（Bhumika Gupta）指出，自上個月油價跌至70美元出頭時建倉以來，其持有的土耳其2027年到期債券曾獲得0.21%的利潤。然而，隨著布倫特原油價格近期反彈至每桶90美元左右，土耳其正面臨嚴峻的不利影響。古普塔強調，土耳其是中東歐、中東和非洲地區中最容易受到能源衝擊的國家之一。
-
----
-
-### 2026-07-21 19:16:53  #其他
-
-【去哪兒旅行簽約接入國家級AI協同生態】7月21日，《人工智慧智慧體互聯》系列標準（AIP）應用推進專題會議在北京中關村展示中心召開。會上，去哪兒旅行正式簽約接入AIP，成為首批加入該國家級AI生態的線上旅遊平臺。接入後，去哪兒旅行將率先開展國標試點應用，與其他簽約企業一道，帶動全行業加速適配統一智慧體互聯底座。（新浪科技）
-
----
-
-### 2026-07-21 19:16:41  #公司
-
-【帝歐水華：實控人一致行動人已增持0.35%】帝歐水華公告，公司實際控制人之一朱江先生的一致行動人成都水華智慧科技集團有限公司於2026年7月20日、7月21日透過集中競價方式增持公司股份204.84萬股，佔公司當前總股本的0.35%。本次增持後，公司控股股東、實際控制人及其一致行動人合計持有1.43億股，持股比例24.30%；同時因可轉債近期轉股引起總股本變化，合計持股比例變動觸及1%整數倍。
-
----
-
-### 2026-07-21 19:16:08  #MKT News
-
-Politico reported NASA's planned nuclear-powered Mars mission is expected to cost more than $2 bln.
-
----
-
-### 2026-07-21 19:15:58  #公司
-
-【鋒龍股份：控股股東優必選提議以3000萬元-6000萬元回購公司股份】鋒龍股份公告，公司控股股東深圳市優必選科技股份有限公司提議以3000萬元-6000萬元回購公司股份，回購股份將用於實施員工持股計劃或股權激勵。
-
----
-
-### 2026-07-21 19:15:36  #其他
-
-【海事部門釋出黃海南部航行警告 禁止駛入】連雲港海事局訊息，7月22日1000時至1300時，在35-04.00N 120-00.00E、35-04.00N 120-13.00E、34-44.00N 120-13.00E和34-44.00N 120-00.00E四點連線範圍內進行實彈射擊，禁止駛入。（央視新聞）
-
----
-
-### 2026-07-21 19:15:32  #MKT News #Market Regions #Emerging Markets
-
-The World Bank to provide a $484 mln loan to Morocco to support industry and green growth.
-
----
-
-### 2026-07-21 19:15:13  #公司
-
-【三環集團：首次回購3147.97萬元公司股份】三環集團公告稱，公司於2026年7月21日首次實施回購股份，透過集中競價交易方式回購A股股份296,000股，佔總股本的0.0149%，最高成交價107.00元/股，最低成交價104.70元/股，成交總金額3147.97萬元（不含交易費用）。此次回購符合相關規定，後續將按市場情況在期限內實施回購方案並及時披露資訊。
-
----
-
-### 2026-07-21 19:15:03  #其他
-
-空客：翔鷹航空披露訂購 4 架 A320neo 系列客機。
-
----
-
-### 2026-07-21 19:14:46  #其他
-
-【農業農村部和中國氣象局聯合釋出農業高溫乾旱風險預警】農業農村部和中國氣象局2026年7月21日聯合釋出農業高溫乾旱風險預警：7月以來，陝西中南部、河南西南部、湖北西部、四川盆地等地35℃以上高溫日數達11~15天，較常年同期偏多8~14天。預計7月22—24日，陝西中南部、河南、湖北西北部、四川盆地等地35℃以上高溫天氣仍將持續，最高氣溫可達39~40℃，土壤失墒快，農業高溫乾旱風險較高，陝西寶雞、咸陽，河南南陽、駐馬店，四川廣安、南充、巴中等地可能出現旱情，對秋糧生產不利。建議上述地區密切監測農田墒情變化，適時灌溉，緩解高溫乾旱影響。
-
----
-
-### 2026-07-21 19:14:42  #國際
-
-【英法加等多國外交使團發表聯合宣告：譴責以色列“系統性虐待”數千名巴勒斯坦被扣押人員】據《以色列時報》等多家媒體21日報道，英國、法國、加拿大、比利時、丹麥、歐盟、芬蘭、愛爾蘭、荷蘭、挪威、西班牙、瑞典外交使團日前發表聯合宣告，就以色列在未提出正式指控的情況下拘押數千名巴勒斯坦人一事表示關切，對以色列監獄內的巴勒斯坦被扣押人員遭“系統性虐待”表示譴責，並呼籲以方履行國際法規定的相應人權義務。（環球網）
 
 ---

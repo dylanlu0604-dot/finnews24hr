@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-25 05:17:36_
-_本檔包含 3882 則快訊，約 693672 字_
+_更新時間：2026-07-25 06:38:37_
+_本檔包含 3871 則快訊，約 694450 字_
+
+---
+
+### 2026-07-24 00:12:02  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 2.80% Lower — The FTSE MIB Index decreased 1476 points or 2.80 percent on Thursday to close at 51316 points. The decline was led by STMicroelectronics (-18.18%), Moncler (-9.01%) and Nexi (-5.62%).
+
+---
+
+### 2026-07-24 00:11:02  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 1.56% Lower — The DAX Index fell 392 points or 1.56 percent on Thursday to close at 24763 points. Leading the losses are Infineon (-6.56%), Commerzbank (-5.44%) and Deutsche Telekom (-4.04%).
+
+---
+
+### 2026-07-24 00:10:08  #MKT News
+
+The Trump‑nominated head of the U.S. Consumer Financial Protection Bureau said he would remain "open" to plans to cut most of the agency's staff.
+
+---
+
+### 2026-07-24 00:10:02  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 1.88% Lower — The CAC 40 Index dropped 158 points or 1.88 percent on Thursday to close at 8280 points. Losses were led by STMicroelectronics (-16.72%), Eurofins Scientific SE (-6.09%) and Kering (-4.96%).
+
+---
+
+### 2026-07-24 00:09:52  #其他
+
+訊息稱西雅圖海鷹隊（NFL球隊）新任所有者正洽談引入新投資方。
+
+---
+
+### 2026-07-24 00:09:33  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Slides on Geopolitical Risks — The CAC 40 fell 1.6% to close at 8,299 on Thursday on escalating geopolitical tensions. Oil prices surged as renewed attacks heightened concerns over global energy supplies, reigniting inflation fears and reinforcing expectations that interest rates could remain higher for longer. Financials traded lower, with Société Générale down 2.9% and BNP Paribas shedding 2.8% despite upbeat Q2 results. Luxury stocks tumbled on increased risk aversion, with LVMH down 4.3%, L'Oréal shedding 3.1%, Hermès losing 3.4%, and Kering falling 4.8%. STMicroelectronics plunged 17.7% after issuing weaker-than-expected Q3 sales guidance. In contrast, Thales gained 5.1% after reporting a surge in first-half orders and beating EPS forecasts, while TotalEnergies rose 2.5% after posting a 68% jump in adjusted net income to $6.03 billion and revenue above estimates. The ECB left interest rates unchanged, saying its energy price outlook remains broadly in line with its June projections despite ongoing volatility.
+
+---
+
+### 2026-07-24 00:08:53  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Falls on Thursday — The FTSE 100 fell more than 0.5% on Thursday, as Brent extended gains for a fifth straight session to above $100 a barrel. Oil prices rallied after Iran-backed Houthi forces claimed attacks on two oil tankers in the Red Sea, reinforcing supply concerns. Shell and BP rose around 1.7% and 3%, respectively. RELX closed slightly lower, having opened around 2% higher, after reporting first-half operating profit in line with expectations, while reaffirming its full-year guidance. BT fell more than 1% after maintaining its annual outlook despite a slight decline in quarterly profit. Centrica (-10.4%) also reaffirmed guidance after posting stronger-than-expected first-half earnings. Meanwhile, EasyJet said profit fell by 70% in its fiscal third quarter, with its outlook still dependent on fuel prices and remaining summer demand. On the monetary policy front, the ECB kept rates unchanged, as expected.
+
+---
+
+### 2026-07-24 00:07:31  #公司 #國際
+
+【黃仁勳力挺中國AI模型：DeepSeek、Kimi這樣優秀的大模型得到廣泛應用】據美國媒體當地時間22日報道，英偉達公司創始人兼執行長黃仁勳在接受採訪時談及中國人工智慧發展，稱中國開源AI模型非常優秀，美國不應懼怕中國的開源AI模型。黃仁勳表示，中國大模型非常出色，優秀的開源大模型應該得到使用，上一次市場誤解了DeepSeek的影響，這次又誤解了Kimi的影響。他認為優秀的開源AI大模型對整個行業大有裨益，技術將擴散到更多行業。黃仁勳認為，DeepSeek、Kimi這樣優秀的大模型得到廣泛應用，進而會帶來巨大的增長。（央視財經）
+
+---
+
+### 2026-07-24 00:07:03  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.82% Lower — The FTSE 100 Index decreased 87 points or 0.82 percent on Thursday to close at 10630 points. The decline was led by Centrica (-10.37%), Fresnillo (-6.73%) and Endeavour (-5.26%). On the upside, the strongest performers were Segro (7.13%), 3i (4.70%) and BP (3.01%).
+
+---
+
+### 2026-07-24 00:06:07  #觀點
+
+【年內科創債發行總規模超1萬億元】今年以來，科創債發行持續火熱，服務科技創新質效顯著提升。資料顯示，以上市日期計，截至7月23日，年內新增科創債數量1070只，發行總額為10573.13億元。中信證券首席經濟學家明明在接受記者採訪時表示，科創債發行活躍，一方面是因為政策層面持續釋放支援訊號，監管部門最佳化發行機制、拓寬科創主體認定標準；另一方面是因為科創債融資成本低於同級別普通訊用債，企業發債意願強，同時科創債ETF等投資工具快速擴容，機構配置需求持續釋放，供需兩端共同推高發行熱度。
+
+---
+
+### 2026-07-24 00:05:54  #國際
+
+【伊朗外長阿拉格齊駁斥有關伊拉克總理將攜美方訊息前往德黑蘭的報道】伊朗外長阿巴斯・阿拉格齊表示，伊朗並不缺少與美國傳遞資訊的中間人，同時強調，雙方談判取得進展的核心阻礙在於美國採取 “非理性、過度且霸權主義” 的行事方式。
+
+---
+
+### 2026-07-24 00:04:58  #MKT News
+
+According to Israel's Channel 12, the Prime Minister's Office will hold a limited security consultation meeting Friday afternoon local time.
+
+---
+
+### 2026-07-24 00:04:07  #公司
+
+市場訊息：貝萊德旗下GIP計劃將基金股份打包出售給證券化交易機構。
+
+---
+
+### 2026-07-24 00:03:50  #MKT News
+
+Iran's Mehr news agency reports an explosion in Kuwait.
+
+---
+
+### 2026-07-24 00:03:00  #公司
+
+EPC集團：獲得塞內加爾一座金礦的新合同。
+
+---
+
+### 2026-07-24 00:02:01  #MKT News #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+Freddie Mac said the U.S. 30-year fixed mortgage rate averaged 6.58% in the week of July 23, 2023, up from 6.55% the prior week and the highest since August 21, 2025.
+
+---
+
+### 2026-07-24 00:00:22  #國際
+
+房地美：美國上週30年期按揭貸款/抵押貸款利率6.58%，前值6.55%。
+
+---
+
+### 2026-07-24 00:00:18  #國際
+
+以色列媒體：在緊張局勢加劇之際，明天上午將以色列總理辦公室將舉行一次小範圍的安全討論。
+
+---
+
+### 2026-07-23 23:59:42  #其他
+
+阿拉伯媒體報道，科威特發生爆炸事件。
+
+---
+
+### 2026-07-23 23:58:58  #市場
+
+【英國2/10年期國債收益率漲約7個基點】週四（7月23日）歐市尾盤，英國10年期國債收益率漲6.9個基點，報5.104%，北京時間19:00以來加速上漲、23:32達到5.122%。兩年期英債收益率漲6.8個基點，報4.490%，23:32也重新整理日高至4.507%。30年期英債收益率漲5.1個基點，50年期英債收益率漲3.3個基點。2/10年期英債收益率利差漲0.246個基點，報+61.427個基點。
+
+---
+
+### 2026-07-23 23:58:20  #國際
+
+伊朗議長卡利巴夫：美國想要懲罰伊朗，卻用三位數的油價懲罰了自己，這個策略我給10分。
+
+---
+
+### 2026-07-23 23:57:16  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Fall Sharply — European stocks closed sharply lower on Thursday, as the surge in energy prices risked higher interest rates in the Eurozone, while markets parsed a series of earnings results. The Euro STOXX 50 fell 1.7% to 6,210 and the STOXX Europe 600 dropped 1.3% to 638. UniCredit sank 4.8% despite posting results that reflected a strong quarter, as its ambition to acquire Germany's Commerzbank jeopardized its share buyback program. Meanwhile, BNP Paribas lost 2.8% despite beating profit estimates, tracking other banks after amid tighter financial conditions. The ECB held rate unchanged, as expected, and signaled that pro-inflationary risks may warrant more rate hikes in the future. Such risks were consolidated by a surge in gas prices as escalation to the US-Iran war further dented tanker flows from the region. Meanwhile, luxury stocks fell with LVMH, Hermes, and Ferrari dropping over 3.5%, pressured by poor results from Moncler.
+
+---
+
+### 2026-07-23 23:55:46  #市場
+
+洲際交易所 8 月柴油期貨結算價報每噸 1291.50 美元。
+
+---
+
+### 2026-07-23 23:53:54  #MKT News
+
+XAI will roll out GROK 4.5 to iOS, Android, web and X.
+
+---
+
+### 2026-07-23 23:53:32  #其他
+
+XAI：Grok 4.5 將登陸 iOS、安卓、網頁端以及 X 平臺。
+
+---
+
+### 2026-07-23 23:52:28  #其他
+
+【育碧娛樂第一財季銷售2.682億歐元 分析師預期2.729億歐元】育碧娛樂第一財季銷售2.682億歐元，分析師預期2.729億歐元；第一財季淨預定2.558億歐元，分析師預期2.543億歐元；預計第二財季淨預定大約3.70億歐元，分析師預期4.264億歐元。
+
+---
+
+### 2026-07-23 23:52:24  #MKT News
+
+IAEA said once the United States and Saudi Arabia submit the request it will refer it to the Board of Governors to seek the authorization needed for implementation.
+
+---
+
+### 2026-07-23 23:51:46  #其他
+
+國際原子能機構：一旦兩國提交該請求，總幹事將會把它提交給理事會，以便為這項工作的實施獲得正式授權。
+
+---
+
+### 2026-07-23 23:51:29  #公司
+
+PJM 電網執行長：將在 72 小時內推出應急電力拍賣方案。
+
+---
+
+### 2026-07-23 23:51:14  #國際
+
+伊朗媒體：一枚美國導彈擊中了該國南部格什姆島蘇扎市海岸的一處區域。
 
 ---
 
@@ -23211,251 +23391,5 @@ United States | EIA Strategic Petroleum Reserve Stocks Change (Jul.17) | actual 
 ### 2026-07-22 22:14:20  #國際
 
 【哈馬斯新任領導人：首要任務是停止以色列加沙軍事行動】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）新任領導人哈利勒·哈亞發表電視講話，就停火談判等多個事項闡明立場。哈亞表示，哈馬斯將沿著先前的道路繼續前行，並將在每一個領域和方向繼續努力，直到解除巴勒斯坦加沙人民遭受的傷害與痛苦。哈亞在講話中列出了一系列優先事項。他強調，首要任務是全面停止以色列對加沙地帶的軍事行動，並呼籲各方採取行動制止以色列的侵略與殺戮。他表示，哈馬斯將繼續在所有領域採取行動，維護加沙地帶、約旦河西岸、東耶路撒冷巴勒斯坦民眾的利益以及巴勒斯坦被關押人員的權益。哈亞指出，恢復加沙人民的日常生活秩序並全面開展重建工作是加沙人民固有的權利，絕不能將其與任何政治交換相捆綁。他同時對國際社會表示，如果未能保護加沙人民，相關人道與正義標準將徹底失效。在巴勒斯坦內部事務上，哈亞呼籲開展民族對話。他強調，哈馬斯願向所有巴勒斯坦派別伸出雙手，以便在共同的原則上團結一致。他同時指出，捍衛巴勒斯坦約旦河西岸是該組織的重要責任之一。在對外關係和地區局勢方面，哈亞表示，哈馬斯將加強與周邊阿拉伯和伊斯蘭國家的戰略關係。他高度讚賞埃及、卡達和土耳其等斡旋方的作用，感謝他們盡一切努力制止加沙地帶流血衝突的蔓延。他呼籲主持談判程序的國家向以色列政府施加真正的壓力，以執行此前已達成的協議。哈亞指出，當前局勢證明，巴勒斯坦人民的安全與穩定正是整個地區安全與穩定的關鍵。他最後強調，巴勒斯坦人民的抵抗運動最終將迎來勝利，哈馬斯在巴勒斯坦領土問題上絕不會做出任何妥協。（央視新聞）
-
----
-
-### 2026-07-22 22:13:02  #其他
-
-瑞銀將諾斯羅普·格魯曼目標價從666美元上調至685美元。
-
----
-
-### 2026-07-22 22:10:06  #公司 #市場
-
-【結好控股：結好證券及結好期貨伺服器遭受網路攻擊，已委聘網路安全公司調查】7月22日晚，結好控股在港交所公告，集團附屬公司結好證券有限公司及結好期貨有限公司之伺服器於2026年7月19日傍晚遭受網路攻擊，導致其電子交易系統及相關服務（包括提取股票）暫時中斷。集團之技術團隊已迅速採取行動，以隔離受影響之系統。在停機期間，交易熱線維持不受影響，客戶可透過交易熱線直接聯絡本集團之交易櫃檯以進行人手下達指令。結好證券有限公司之電子交易系統及相關服務已於2026年7月22日上午九時正恢復運作。結好期貨有限公司之電子交易系統及相關服務將會在切實可行範圍內儘快恢復。集團已經於2026年7月20日委聘網路安全公司，以對集團之網路及系統安全措施進行調查，並進一步提升。目前，並無任何證據顯示有任何資料被誤用。公司已經向香港警務處、香港聯交所及香港證監會報告該事件。
-
----
-
-### 2026-07-22 22:09:16  #其他
-
-密歇根州衛生部：截至7月22日，共報告7171例環孢子蟲病病例。
-
----
-
-### 2026-07-22 22:08:51  #國際
-
-市場訊息： 烏克蘭將向美國出口無人機，作為五角大樓相關專案的一部分。
-
----
-
-### 2026-07-22 22:08:08  #MKT News #Important
-
-China's foreign minister Wang Yi met US Secretary of State Rubio in Manila on the 22nd.
-
----
-
-### 2026-07-22 22:07:31  #宏觀 #焦點 #國際
-
-【王毅會見美國國務卿魯比奧】中共中央政治局委員、外交部長王毅22日在馬尼拉會見美國國務卿魯比奧。王毅表示，今年是中美關係的“大年”。兩國元首在北京成功舉行歷史性會晤，確定了中美建設性戰略穩定關係的定位，提出了雙方共同努力的方向。這是中美兩個大國在探索和平共處道路上取得的重要進展，符合兩國人民根本利益，符合國際社會共同期待。現在我們的責任是，沿著兩國元首設定的軌道，排除干擾、克服障礙，確保將領導人的共識轉化為全政府、各領域的共識和行動，以中美的戰略穩定促進世界的和平安寧，以中美的建設性互動為國際合作提供重要動力。王毅還就近期美方的一系列消極言行闡明中方嚴正立場，要求美方尊重中國的核心利益，恪守一箇中國原則，切實管控矛盾分歧，解決中方正當關切，讓中美關係的機遇之年照進現實。雙方還就國際地區熱點問題交換了意見。雙方認為，此次會晤務實、積極、富有建設性，同意共同落實兩國元首達成的重要共識，發揮政治外交渠道作用，籌備好下階段高層交往，推動中美建設性戰略穩定關係取得實質進展。（新華社）
-
----
-
-### 2026-07-22 22:06:11  #公司 #國際
-
-【在預期蘋果將首次亮相摺疊屏手機之際，三星上調新款摺疊智慧手機價格】7月22日，三星在英國倫敦舉行的Unpacked活動上推出了Galaxy Z Fold8系列，這三款裝置及其售價分別為：Galaxy Z Fold8 Ultra（2099美元）、Galaxy Z Fold8（1899美元）、以及Galaxy Z Flip8（1199美元）。Fold8是三星摺疊屏產品陣容中的最新裝置。由於記憶體晶片成本不斷上升，這家韓國科技巨頭上調了其摺疊屏手機的價格。新裝置的釋出正值業界預期蘋果將推出其首款摺疊屏iPhone之前。
-
----
-
-### 2026-07-22 22:05:54  #國際
-
-市場訊息：美國國防部證實，約旦 “塔樓” 基地遇襲事件中第三名美軍人員身亡。
-
----
-
-### 2026-07-22 22:05:18  #其他
-
-易捷航空<EZJ.L>股價延續跌勢，最新跌幅為13.4%，有望創下2020年3月以來最大單日跌幅。
-
----
-
-### 2026-07-22 22:05:11  #MKT News #Commodities #Energy
-
-OpenAI will provide up to 1,000 MW of flexible demand response to the state of Georgia as part of a Georgia data-center project.
-
----
-
-### 2026-07-22 22:04:42  #公司
-
-【普華永道中國在上海成立人工智慧研究院】7月22日，普華永道中國宣佈在上海成立人工智慧研究院。在開幕儀式上，普華永道中國主席兼執行長何睦寧表示：“中國在AI技術研發、場景落地和生態建設方面等的優勢，已使其成為全球頂尖的創新高地。”普華永道中國諮詢業務主管合夥人黃啟佳指出，人工智慧的價值最終要落在產業實處。據悉，作為普華永道佈局中國AI生態的載體，該研究院涵蓋前沿研究、AI智造、生態聯盟、產業交流和人才發展等核心能力板塊，覆蓋從前沿研究到真實產業應用的全價值鏈。（澎湃）
-
----
-
-### 2026-07-22 22:04:29  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #XAUUSD #DXY
-
-【Trump says Iran will pay a heavy price】President Trump said in a Wednesday interview that Iran will pay a heavy price and will not have nuclear weapons. He said an investigation is under way into the deaths of U.S. soldiers and that Iran will be held responsible. Trump added that Americans are not opposed to war and do not want gasoline prices to rise.
-
----
-
-### 2026-07-22 22:04:15  #公司
-
-【雲天化集團與華為簽署合作協議】7月22日，雲天化集團有限責任公司與華為技術有限公司在上海簽署合作協議。根據協議，雙方將在數智化轉型頂層規劃、工業網際網路、智慧礦山、智慧工廠、智慧園區等領域深化合作；加快磷基新材料綠色低碳迴圈經濟產業叢集建設。同時，雙方還將在數字化人才培養等方面深化合作。
-
----
-
-### 2026-07-22 22:03:32  #Trading Economics #Markets #Spain #stocks #Importance 0
-
-Banco Bilbao Vizcaya Argentaria Stock Price Hits 28-year High — Banco Bilbao Vizcaya Argentaria shares increased to 23.11 EUR, the highest since July 1998. Over the past 4 weeks, Banco Bilbao Vizcaya Argentaria gained 6.5%, and in the last 12 months, it increased 79.77%.
-
----
-
-### 2026-07-22 22:03:08  #公司
-
-南方公司旗下佐治亞電力公司：OpenAI承諾提供最高1000兆瓦的靈活性需求響應，為電網提供支撐。
-
----
-
-### 2026-07-22 22:02:36  #MKT News #Important
-
-Spot gold rose more than 2% intraday, breaching $4,160/oz. Spot silver jumped over 3% to $60.62/oz.
-
----
-
-### 2026-07-22 22:02:26  #市場 #焦點
-
-白銀連續主力合約日內漲3%，現報14926.00元。
-
----
-
-### 2026-07-22 22:01:59  #市場 #焦點
-
-紐約期銀突破61美元/盎司，日內漲3.20%。
-
----
-
-### 2026-07-22 22:01:54  #市場
-
-現貨黃金日內漲2%，現報4160.12美元/盎司。
-
----
-
-### 2026-07-22 22:01:54  #市場 #焦點
-
-現貨黃金突破4160美元/盎司，日內漲2.02%。
-
----
-
-### 2026-07-22 22:01:27  #公司
-
-喬治亞電力公司將為埃芬漢姆縣的OpenAI專案提供供電服務。
-
----
-
-### 2026-07-22 22:01:08  #市場
-
-現貨白銀日內漲3%，現報60.56美元/盎司。
-
----
-
-### 2026-07-22 22:00:38  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Precious metals futures' most-active contracts extended gains: SHFE gold 2608 up 1.56% at 907.74 yuan/gram; SHFE silver 2610 up 2.46% at 14,847 yuan/kg.
-
----
-
-### 2026-07-22 22:00:30  #MKT News
-
-Axios reports a meeting between US President Trump and Israeli Prime Minister Netanyahu is under discussion, but no specific date or arrangements have been confirmed.
-
----
-
-### 2026-07-22 21:59:58  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver's intraday gain widened to 3.00%, trading at $60.53/oz.
-
----
-
-### 2026-07-22 21:59:57  #國際
-
-【美國參議員懷登建議立法，來限制總統特朗普的關稅權力】美國俄勒岡州民主黨參議員羅恩·懷登（Ron Wyden）提出了一項立法草案，旨在限制總統特朗普廣泛的關稅權力。該法案將設立一個國會關稅委員會，並將美國貿易代表辦公室（USTR）設為獨立機構，其中包含多項此類規定。懷登嚴厲抨擊特朗普，原因是特朗普援引一項近百年曆史、極少被啟用的貿易法，宣佈對一系列加拿大商品徵收50%的報復性關稅。
-
----
-
-### 2026-07-22 21:59:37  #市場
-
-紐約期銀日內漲3%，現報60.88美元/盎司。
-
----
-
-### 2026-07-22 21:59:34  #公司
-
-【天目藥業：控股股東擬透過公開徵集轉讓方式協議轉讓公司20%股份】天目藥業公告，控股股東匯隆華澤持有公司29.99%股份，擬透過公開徵集受讓方的方式協議轉讓公司無限售流通股2435.58萬股，佔公司總股本的20%，本次公開徵集轉讓價格不低於22元/股（含）。若本次公開徵集轉讓實施完成，公司控股股東及實控人將可能發生變更。
-
----
-
-### 2026-07-22 21:59:08  #市場 #焦點
-
-紐約期金突破4160美元/盎司，日內漲2.05%。
-
----
-
-### 2026-07-22 21:59:03  #市場
-
-多倫多綜合股指 漲幅擴大，上漲 1%。
-
----
-
-### 2026-07-22 21:59:02  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold climbed to $4,150/oz, its highest level since July 7, up 1.8% on the day.
-
----
-
-### 2026-07-22 21:58:55  #公司 #觀點
-
-【港股IPO：上海生生醫藥冷鏈科技股份有限公司遞表港交所】利弗莫爾證券顯示，上海生生醫藥冷鏈科技股份有限公司向港交所提交上市申請書，聯席保薦人為中金公司、國金證券（香港）有限公司。
-
----
-
-### 2026-07-22 21:58:53  #公司 #市場 #焦點
-
-【7月22日增減持彙總】7月22日盤後，據不完全統計，包括興業證券、雷迪克、海倫哲、威馬農機、榮盛發展、通裕重工、神開股份在內的7家A股上市公司披露擬增持情況；百合花、大千生態披露擬減持情況。
-
----
-
-### 2026-07-22 21:58:53  #市場
-
-紐約期金日內漲2%，現報4158.00美元/盎司。
-
----
-
-### 2026-07-22 21:58:33  #MKT News
-
-CBS reports the US and Saudi Arabia are expected to sign an agreement at about 1:30 PM local time (01:30 Beijing time next day).
-
----
-
-### 2026-07-22 21:58:08  #市場 #焦點
-
-現貨黃金突破4150美元/盎司，日內漲1.80%。
-
----
-
-### 2026-07-22 21:58:06  #其他
-
-美股光通訊板塊多數翻紅，Credo漲超2%，Lumentum漲1%，Coherent漲0.5%，康寧跌幅收窄至1%。
-
----
-
-### 2026-07-22 21:57:50  #央行 #國際
-
-油價飆升疊加美聯儲政策擔憂，10年期美債收益率觸及兩個月高位。
-
----
-
-### 2026-07-22 21:57:43  #其他
-
-市場訊息：美沙協議預計於當地時間下午 1 點 30 分左右簽署。
-
----
-
-### 2026-07-22 21:57:30  #市場
-
-標普500指數抹去開盤跌幅；納斯達克100指數跌幅收窄至0.2%。
-
----
-
-### 2026-07-22 21:56:50  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Reachs Record High — The S&P/TSX Composite Index rose near 1% to trade above 35,500, reaching a record high as rising commodity prices supported related stocks. Gold prices gained on safe-haven demand amid escalating tensions between the US and Iran. Agnico Eagle, Barrick, WPM, and Franco-Nevada gained nearly 2%. The conflict also rose concerns over energy supply, lifting oil prices and improving the outlook for producers. Canadian Natural added 1.5%, Imperial Oil gained 1%, while Suncor and Cenovus advanced nearly 2%. Cenovus is scheduled to report earnings on Thursday. Elsewhere, Waste Connections edged higher ahead of its earnings release, due after today's closing bell. Investors are also focused on quarterly results from US tech giants Alphabet and Tesla, scheduled after the close. On the trade front, Prime Minister Carney said late Tuesday that he and US President Trump agreed to intensify trade negotiations after Trump unveiled plans to impose 50% tariffs on a broad range of Canadian imports.
 
 ---

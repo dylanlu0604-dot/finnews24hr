@@ -1,7 +1,247 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-25 05:17:36_
-_本檔包含 3667 則快訊，約 693636 字_
+_更新時間：2026-07-25 06:38:37_
+_本檔包含 3677 則快訊，約 694347 字_
+
+---
+
+### 2026-07-25 06:35:14  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Titanium Falls by 1.08% — Top commodity losers are Titanium (-1.08%), Lithium Carbonate (-0.68%) and Platinum (-0.60%). Gains are led by Silver (0.96%) and Gold (0.06%).
+
+---
+
+### 2026-07-25 06:33:35  #公司 #市場
+
+【資金 重新迴流黃金主題ETF 機構：積極因素正在積聚】國際金價近期持續震盪，資金正在悄然行動。從黃金商品ETF的資金流向看，前期淨流出狀態正在逆轉，近日吸引較多資金加倉。與此同時，部分基金經理在二季度減持黃金後，正在等待新的入場時機。在多家機構看來，黃金正在迎來重要的佈局時點。
+
+---
+
+### 2026-07-25 06:33:02  #其他
+
+【萬那杜群島發生5.9級地震 震源深度40公里】中國地震臺網正式測定：7月25日5時37分，在萬那杜群島（南緯14.10度，東經166.95度）發生5.9級地震，震源深度40公里。（央視新聞）
+
+---
+
+### 2026-07-25 06:30:14  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Naphtha Falls by 2.79% — Top commodity losers are Naphtha (-2.79%), Heating Oil (-2.67%), Propane (-2.38%), Brent Crude Oil (-2.29%) and Crude Oil WTI (-1.87%). Gains are led by Germany Natural Gas THE (2.30%), Natural Gas UK (2.07%) and Natural Gas EU (1.83%).
+
+---
+
+### 2026-07-25 06:30:07  #國際
+
+兩名知情人士透露，特朗普總統週五在白宮閉門會見核心幕僚，商議針對伊朗的各類應對方案，其中包括大幅擴大對伊軍事行動的可能性。
+
+---
+
+### 2026-07-25 06:25:57  #國際
+
+【伊朗常駐聯合國代表致函安理會：美方蓄意襲擊伊朗船隻構成戰爭罪】當地時間7月24日，伊朗常駐聯合國代表致函聯合國安理會，強烈譴責美國近期蓄意襲擊伊朗“納吉-15”和“納吉-16”兩艘船隻的行徑，指控美方此舉嚴重違反國際人道法，已構成戰爭罪。伊朗方面在信函中強調，這兩艘船隻遭襲時並未參與任何軍事活動，美方針對非軍事目標的蓄意打擊是對國際法的公然踐踏。伊方敦促聯合國安理會履行維護國際和平與安全的職責，對美方的非法軍事行動予以譴責，並要求美方立即停止此類侵犯他國主權與海上安全的行徑。
+
+---
+
+### 2026-07-25 06:18:10  #市場 #國際
+
+【美股大類資產類ETF漲跌各異，新興市場ETF收跌將近2%】週五（7月24日），新興市場ETF收跌1.97%，巴克萊美國可轉債ETF跌1.64%，美國布倫特油價基金跌1.63%，納指100 ETF跌1.12%，羅素2000指數ETF、歐元做多至多跌0.32%。農產品基金收平，日元做多、做多美元指數、黃金ETF、美國國債20+年ETF至多漲0.10%，道指ETF漲0.48%，大豆基金漲0.73%，美國房地產ETF漲2.15%。
+
+---
+
+### 2026-07-25 06:15:14  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: South Korean Won Rises by 1.11% — Top currency gainers are South Korean Won (1.11%), New Zealand Dollar (0.41%), Indian Rupee (0.37%) and British Pound (0.19%). Biggest loser is Euro (-0.07%). Meanwhile, Japanese Yen and Dollar Index were little changed.
+
+---
+
+### 2026-07-25 06:12:39  #國際
+
+【美軍稱在阿曼灣對一艘商船開火】美軍中央司令部稱，當天在阿曼灣向一艘商船開火，使其失去航行能力，該船至少4次試圖突破美方針對伊朗港口的封鎖。美軍稱曾向該船船員發出警告，但對方未遵從指令，隨後美軍向該船機艙開火。這是美軍重新對伊朗實施海上封鎖以來第二艘被擊中的商業船隻。美軍中央司令部表示，還有12艘船被迫改變航向。（央視新聞）
+
+---
+
+### 2026-07-25 06:10:47  #其他
+
+【沙特主導的多國聯軍稱打擊葉門胡塞武裝軍事目標】沙烏地阿拉伯主導的多國聯軍25日凌晨發表宣告說，聯軍當天對葉門荷臺達省胡塞武裝軍事目標實施打擊，以回應胡塞武裝近期針對紅海商船的襲擊。宣告稱，胡塞武裝襲擊紅海商業船隻危害國際海上航運安全，聯軍此次行動針對與胡塞武裝海上威脅直接相關的軍事目標展開。宣告說，此次行動並未針對荷臺達港，葉門港口仍正常開放，機場航班執行也未受影響。宣告還強調，多國聯軍將繼續採取一切必要行動保護航運安全，維護沙特的國家利益。如胡塞武裝繼續實施敵對行動，聯軍將繼續予以回應。（新華社）
+
+---
+
+### 2026-07-25 06:08:48  #國際
+
+【中央氣象臺7月25日06時繼續釋出高溫黃色預警】中央氣象臺7月25日06時繼續釋出高溫黃色預警：預計7月25日白天，新疆、內蒙古西部、甘肅中西部、寧夏北部、四川盆地、重慶西部、陝西中南部以及河南東南部、安徽大部、江蘇中南部、上海、湖北中東部、湖南北部和東部、江西、浙江西部、廣西中東部、廣東中西部、海南島北部等地有35℃以上高溫天氣，其中，新疆東部和南疆盆地、內蒙古西部、甘肅西部、四川盆地、重慶西部、浙江西北部、江西中部等地部分地區最高氣溫37～39℃，新疆東部和南疆盆地、內蒙古西部、重慶西部等地局地可達40℃以上。
+
+---
+
+### 2026-07-25 06:07:24  #國際
+
+【中央氣象臺7月25日06時釋出暴雨橙色預警】預計，7月25日08時至26日08時，廣東東部和南部沿海、福建南部和西部、臺灣島東南部及黑龍江中東部、吉林東部、遼寧東部、山東南部、河南中部、雲南西南部等地部分地區有大到暴雨，其中，廣東東南部、臺灣島東南部等地部分地區有大暴雨，廣東東南部沿海局地特大暴雨（250～320毫米）。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風等強對流天氣。
+
+---
+
+### 2026-07-25 06:07:00  #國際
+
+【特朗普威脅對墨西哥收生菜稅】美國總統特朗普當地時間7月24日下午在白宮對媒體表示，將對加拿大加徵關稅，以報復加拿大山火飄入美國的煙霾；同時對墨西哥加徵關稅，理由是據稱來自墨西哥的“問題生菜”。（CCTV國際時訊）
+
+---
+
+### 2026-07-25 06:06:03  #其他
+
+民調資料顯示，巴西總統選舉第一輪投票民調中，盧拉支援率40%，弗拉維奧·博索納羅32%，卡亞多4%。
+
+---
+
+### 2026-07-25 06:05:01  #其他
+
+中國地震臺網正式測定：07月25日05時37分在萬那杜群島（南緯14.10度，東經166.95度）發生5.9級地震，震源深度40千米。
+
+---
+
+### 2026-07-25 06:04:11  #其他
+
+民調機構顯示，巴西總統選舉第二輪投票中，盧拉支援率48%，弗拉維奧·博索納羅支援率43%。
+
+---
+
+### 2026-07-25 06:00:41  #市場 #焦點
+
+暗盤金價突破4050美元/盎司，日內漲幅0.2%。
+
+---
+
+### 2026-07-25 06:00:18  #其他
+
+【古特雷斯呼籲紅海緊張局勢立即降級】聯合國秘書長古特雷斯24日透過發言人迪雅裡克發表宣告，對葉門胡塞武裝恢復襲擊紅海商船並威脅紅海通航表示震驚，呼籲局勢立即降級。宣告說，胡塞武裝襲擊商船進一步加劇地區緊張局勢並讓葉門進一步深陷衝突風險。新的敵對行動將破壞葉門和平前景並導致地區及域外出現嚴重的經濟、人道主義和環境後果。宣告說，古特雷斯呼籲立即降級緊張局勢，敦促胡塞武裝不要發動新的襲擊或採取其他升級行為。曼德海峽及附近海域通航權利及自由必須完全恢復。（新華社）
+
+---
+
+### 2026-07-25 05:55:39  #其他
+
+紐約市釋出閒置豪宅稅應稅房產首份預估資料，超 3.1 萬處房產或需繳納紐約閒置豪宅稅。
+
+---
+
+### 2026-07-25 05:53:26  #其他
+
+中國地震臺網自動測定：07月25日05時37分在萬那杜群島附近（南緯13.92度，東經167.13度）發生6.2級左右地震，最終結果以正式速報為準。（中國地震臺網）
+
+---
+
+### 2026-07-25 05:52:03  #其他
+
+市場訊息：美軍週五在阿曼灣向商船開火，並使其失去行動能力。
+
+---
+
+### 2026-07-25 05:49:57  #國際
+
+市場訊息：美國軍方向一艘商船開火，聲稱後者違反“對伊朗的封鎖”。
+
+---
+
+### 2026-07-25 05:49:02  #MKT News
+
+【Saudi-led coalition strikes Yemen's Hodeidah】On the evening of July 24 local time, Hodeidah in Houthi-controlled Yemen was hit by air strikes, the Saudi-led coalition said. The coalition said it struck Houthi military sites in Hodeidah directly linked to threats against Red Sea commercial shipping, called the operation a 'moderate military response', and said Hodeidah port was not a target and all local ports remain open to shipping. The coalition warned it would 'respond without compromise' to further Houthi hostile actions and would take necessary measures to protect its vessels and Saudi interests. Houthi-affiliated Masirah TV reported strikes hit a state telecom facility in Hodeidah city and that Kamaran Island off Yemen’s west coast was also attacked.
+
+---
+
+### 2026-07-25 05:47:40  #公司
+
+【沙特空襲葉門荷臺達   葉門荷臺達遭空襲  】當地時間7月24日晚，葉門胡塞武裝控制下的葉門荷臺達地區遭空襲。沙特主導的多國聯軍宣佈，對荷臺達的胡塞武裝軍事據點實施打擊，但未將荷臺達港口列為攻擊目標，並強調當地所有港口目前均對航運開放。沙特主導的多國聯軍稱，此次空襲為“適度軍事回應行動”，專門針對荷臺達當地隸屬於胡塞武裝的、與紅海商業航運面臨威脅直接相關的軍事目標。若胡塞武裝繼續採取“敵對”行動，聯軍將“毫不妥協”地予以回擊，將繼續採取必要措施，以保護本國船隻及沙特王國利益。 隸屬胡塞武裝的“馬西拉電視臺”報道稱，沙特空襲擊中了荷臺達市內國有電信公司的設施。該電視臺還稱，沙特軍隊襲擊了葉門西海岸外的卡馬蘭島。（CCTV國際時訊）
+
+---
+
+### 2026-07-25 05:47:01  #國際
+
+市場訊息：奧地利航空與漢莎航空已經取消近日飛往以色列的航班。
+
+---
+
+### 2026-07-25 05:38:27  #市場
+
+【紐約股市三大股指24日漲跌不一 】截至當天收盤，道瓊斯工業平均指數比前一交易日上漲235.60點，收於51947.25點，漲幅為0.46%；標準普爾500種股票指數上漲3.68點，收於7411.98點，漲幅為0.05%；納斯達克綜合指數下跌161.87點，收於24975.82點，跌幅為0.64%。板塊方面，標普500指數十一大板塊十漲一跌。房地產板塊和材料板塊分別以2.36%和1.44%的漲幅領漲，科技板塊下跌0.88%。（新華社）
+
+---
+
+### 2026-07-25 05:34:24  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Oil prices slide sharply on the 24th】NYMEX WTI September fell $2.88 to $89.31/bbl (-3.12%); ICE Brent September fell $3.91 to $96.78/bbl (-3.88%) at the close on the 24th.
+
+---
+
+### 2026-07-25 05:34:21  #MKT News
+
+【Dollar index up 0.02% to 101.468 at New York close】Dollar index (DXY) rose 0.02% to 101.468 at the New York close. EUR/USD 1.1370 (prior 1.1377). GBP/USD 1.3326 (prior 1.3318). USD/JPY 163.84 (prior 163.80). USD/CHF 0.8182 (prior 0.8169). USD/CAD 1.4096 (prior 1.4076). USD/SEK 9.7158 (prior 9.7663), with the Swedish krona firming against the dollar.
+
+---
+
+### 2026-07-25 05:33:44  #市場 #國際
+
+週五（7月24日）紐約尾盤，美國10年期基準國債收益率跌1.61個基點，報4.6771%，本週累計上漲12.96個基點，整體持續走高，交投於4.5415%-4.7117%區間。兩年期美債收益率跌1.71個基點，報4.3306%，本週累漲15.60個基點，整體交投於4.1640%-4.3683%區間。
+
+---
+
+### 2026-07-25 05:33:21  #市場
+
+【美元指數24日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.02%，在匯市尾市收於101.468。截至紐約匯市尾市，1歐元兌換1.1370美元，低於前一交易日的1.1377美元；1英鎊兌換1.3326美元，高於前一交易日的1.3318美元。1美元兌換163.84日元，高於前一交易日的163.80日元；1美元兌換0.8182瑞士法郎，高於前一交易日的0.8169瑞士法郎；1美元兌換1.4096加元，高於前一交易日的1.4076加元；1美元兌換9.7158瑞典克朗，低於前一交易日的9.7663瑞典克朗。（新華社）
+
+---
+
+### 2026-07-25 05:33:19  #MKT News #Brent #Impact bullish #WTI #DXY
+
+Saudi-led coalition in Yemen says it will continue to take necessary measures to protect its vessels and Saudi Arabia's interests.
+
+---
+
+### 2026-07-25 05:32:55  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+The Saudi-led coalition said it carried out a 'reciprocal' military response in Yemen's Hodeidah, striking military targets linked to the Houthi movement. The coalition warned it would respond 'uncompromisingly' if the Houthis continue 'hostile' actions.
+
+---
+
+### 2026-07-25 05:30:23  #市場
+
+【國際油價24日顯著下跌】國際油價24日顯著下跌。截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌2.88美元，收於每桶89.31美元，跌幅為3.12%；9月交貨的倫敦布倫特原油期貨價格下跌3.91美元，收於每桶96.78美元，跌幅為3.88%。（新華社）
+
+---
+
+### 2026-07-25 05:29:10  #其他
+
+沙特方面表示，此次空襲行動系針對胡塞武裝襲擊商船作出回應。
+
+---
+
+### 2026-07-25 05:27:23  #國際
+
+【特朗普稱美國與伊朗仍在對話】儘管美國和伊朗近日持續相互空襲，但美國總統特朗普24日在白宮對媒體表示，美國與伊朗現在仍在對話。被問及是否已作出對伊朗發動大規模打擊的決定時，特朗普說，“我們現在仍在與他們進行對話”，並稱伊朗方面“這次是認真的”，但這並不意味著一定能夠達成協議。他同時威脅說，美方也可繼續目前對伊朗的軍事打擊，“如有必要，完全可以提升到一個更高水平。我們已經做好準備，隨時可以行動”。（新華社）
+
+---
+
+### 2026-07-25 05:25:49  #國際
+
+美國能源部長賴特：特朗普總統重新確立了美國在核能領域的領導地位。
+
+---
+
+### 2026-07-25 05:24:33  #其他
+
+【葉門胡塞武裝：沙特空襲荷臺達省將付出沉重代價】胡塞武裝當地時間24日發表宣告，強烈譴責沙烏地阿拉伯對葉門荷臺達省發動的空襲，並警告沙特將為此次行動付出沉重代價。宣告指出，沙烏地阿拉伯必須為其侵略行徑引發的所有後果承擔全部責任。胡塞武裝表示，沙特非但沒有順應國際社會呼籲解除對葉門封鎖的正當合理訴求，反而犯下嚴重錯誤，必將為此付出沉重代價。宣告強調，隨著荷臺達省遭到空襲，葉門局勢將進入“以升級對升級”的新階段。
+
+---
+
+### 2026-07-25 05:21:09  #市場
+
+週五（7月24日），美股儲存晶片與硬體供應鏈指數跌7.29%，報200.25點，本週累計上漲5.74%，整體處於上漲狀態，7月23-24日持續回撤。
+
+---
+
+### 2026-07-25 05:18:06  #其他
+
+【委內瑞拉正式通報聯合國 決定退出國際刑事法院】當地時間24日，委內瑞拉外長普拉森西亞宣佈，應代總統羅德里格斯的指示，委內瑞拉已正式通知聯合國秘書長古特雷斯，委決定根據《國際刑事法院羅馬規約》第127條，堅定且不可撤銷地退出《國際刑事法院羅馬規約》，並啟動退出國際刑事法院的程式。委外長稱，委內瑞拉認為，國際刑事法院的運作存在明顯的地域偏見，國際司法並未真正做到公平適用，而是被工具化，用於加劇各國之間的不平等，並無視各國人民享有的自決權和國家主權。（央視新聞）
+
+---
+
+### 2026-07-25 05:17:39  #其他
+
+阿拉伯訊息人士：美軍第五艦隊駐巴林基地發生3起劇烈爆炸。
 
 ---
 
@@ -21959,185 +22199,5 @@ US 30-Year Mortgage Rate Edges Up to 6.58% — The average rate on a 30-year fix
 ### 2026-07-24 00:12:05  #MKT News #XAUUSD #Impact bullish #DXY #WTI
 
 The U.S. State Department warned U.S. citizens in the Middle East that host countries' airspace may face closure risk amid potential escalation.
-
----
-
-### 2026-07-24 00:12:02  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 2.80% Lower — The FTSE MIB Index decreased 1476 points or 2.80 percent on Thursday to close at 51316 points. The decline was led by STMicroelectronics (-18.18%), Moncler (-9.01%) and Nexi (-5.62%).
-
----
-
-### 2026-07-24 00:11:02  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 1.56% Lower — The DAX Index fell 392 points or 1.56 percent on Thursday to close at 24763 points. Leading the losses are Infineon (-6.56%), Commerzbank (-5.44%) and Deutsche Telekom (-4.04%).
-
----
-
-### 2026-07-24 00:10:08  #MKT News
-
-The Trump‑nominated head of the U.S. Consumer Financial Protection Bureau said he would remain "open" to plans to cut most of the agency's staff.
-
----
-
-### 2026-07-24 00:10:02  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 1.88% Lower — The CAC 40 Index dropped 158 points or 1.88 percent on Thursday to close at 8280 points. Losses were led by STMicroelectronics (-16.72%), Eurofins Scientific SE (-6.09%) and Kering (-4.96%).
-
----
-
-### 2026-07-24 00:09:52  #其他
-
-訊息稱西雅圖海鷹隊（NFL球隊）新任所有者正洽談引入新投資方。
-
----
-
-### 2026-07-24 00:09:33  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Slides on Geopolitical Risks — The CAC 40 fell 1.6% to close at 8,299 on Thursday on escalating geopolitical tensions. Oil prices surged as renewed attacks heightened concerns over global energy supplies, reigniting inflation fears and reinforcing expectations that interest rates could remain higher for longer. Financials traded lower, with Société Générale down 2.9% and BNP Paribas shedding 2.8% despite upbeat Q2 results. Luxury stocks tumbled on increased risk aversion, with LVMH down 4.3%, L'Oréal shedding 3.1%, Hermès losing 3.4%, and Kering falling 4.8%. STMicroelectronics plunged 17.7% after issuing weaker-than-expected Q3 sales guidance. In contrast, Thales gained 5.1% after reporting a surge in first-half orders and beating EPS forecasts, while TotalEnergies rose 2.5% after posting a 68% jump in adjusted net income to $6.03 billion and revenue above estimates. The ECB left interest rates unchanged, saying its energy price outlook remains broadly in line with its June projections despite ongoing volatility.
-
----
-
-### 2026-07-24 00:08:53  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Falls on Thursday — The FTSE 100 fell more than 0.5% on Thursday, as Brent extended gains for a fifth straight session to above $100 a barrel. Oil prices rallied after Iran-backed Houthi forces claimed attacks on two oil tankers in the Red Sea, reinforcing supply concerns. Shell and BP rose around 1.7% and 3%, respectively. RELX closed slightly lower, having opened around 2% higher, after reporting first-half operating profit in line with expectations, while reaffirming its full-year guidance. BT fell more than 1% after maintaining its annual outlook despite a slight decline in quarterly profit. Centrica (-10.4%) also reaffirmed guidance after posting stronger-than-expected first-half earnings. Meanwhile, EasyJet said profit fell by 70% in its fiscal third quarter, with its outlook still dependent on fuel prices and remaining summer demand. On the monetary policy front, the ECB kept rates unchanged, as expected.
-
----
-
-### 2026-07-24 00:07:31  #公司 #國際
-
-【黃仁勳力挺中國AI模型：DeepSeek、Kimi這樣優秀的大模型得到廣泛應用】據美國媒體當地時間22日報道，英偉達公司創始人兼執行長黃仁勳在接受採訪時談及中國人工智慧發展，稱中國開源AI模型非常優秀，美國不應懼怕中國的開源AI模型。黃仁勳表示，中國大模型非常出色，優秀的開源大模型應該得到使用，上一次市場誤解了DeepSeek的影響，這次又誤解了Kimi的影響。他認為優秀的開源AI大模型對整個行業大有裨益，技術將擴散到更多行業。黃仁勳認為，DeepSeek、Kimi這樣優秀的大模型得到廣泛應用，進而會帶來巨大的增長。（央視財經）
-
----
-
-### 2026-07-24 00:07:03  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.82% Lower — The FTSE 100 Index decreased 87 points or 0.82 percent on Thursday to close at 10630 points. The decline was led by Centrica (-10.37%), Fresnillo (-6.73%) and Endeavour (-5.26%). On the upside, the strongest performers were Segro (7.13%), 3i (4.70%) and BP (3.01%).
-
----
-
-### 2026-07-24 00:06:07  #觀點
-
-【年內科創債發行總規模超1萬億元】今年以來，科創債發行持續火熱，服務科技創新質效顯著提升。資料顯示，以上市日期計，截至7月23日，年內新增科創債數量1070只，發行總額為10573.13億元。中信證券首席經濟學家明明在接受記者採訪時表示，科創債發行活躍，一方面是因為政策層面持續釋放支援訊號，監管部門最佳化發行機制、拓寬科創主體認定標準；另一方面是因為科創債融資成本低於同級別普通訊用債，企業發債意願強，同時科創債ETF等投資工具快速擴容，機構配置需求持續釋放，供需兩端共同推高發行熱度。
-
----
-
-### 2026-07-24 00:05:54  #國際
-
-【伊朗外長阿拉格齊駁斥有關伊拉克總理將攜美方訊息前往德黑蘭的報道】伊朗外長阿巴斯・阿拉格齊表示，伊朗並不缺少與美國傳遞資訊的中間人，同時強調，雙方談判取得進展的核心阻礙在於美國採取 “非理性、過度且霸權主義” 的行事方式。
-
----
-
-### 2026-07-24 00:04:58  #MKT News
-
-According to Israel's Channel 12, the Prime Minister's Office will hold a limited security consultation meeting Friday afternoon local time.
-
----
-
-### 2026-07-24 00:04:07  #公司
-
-市場訊息：貝萊德旗下GIP計劃將基金股份打包出售給證券化交易機構。
-
----
-
-### 2026-07-24 00:03:50  #MKT News
-
-Iran's Mehr news agency reports an explosion in Kuwait.
-
----
-
-### 2026-07-24 00:03:00  #公司
-
-EPC集團：獲得塞內加爾一座金礦的新合同。
-
----
-
-### 2026-07-24 00:02:01  #MKT News #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Freddie Mac said the U.S. 30-year fixed mortgage rate averaged 6.58% in the week of July 23, 2023, up from 6.55% the prior week and the highest since August 21, 2025.
-
----
-
-### 2026-07-24 00:00:22  #國際
-
-房地美：美國上週30年期按揭貸款/抵押貸款利率6.58%，前值6.55%。
-
----
-
-### 2026-07-24 00:00:18  #國際
-
-以色列媒體：在緊張局勢加劇之際，明天上午將以色列總理辦公室將舉行一次小範圍的安全討論。
-
----
-
-### 2026-07-23 23:59:42  #其他
-
-阿拉伯媒體報道，科威特發生爆炸事件。
-
----
-
-### 2026-07-23 23:58:58  #市場
-
-【英國2/10年期國債收益率漲約7個基點】週四（7月23日）歐市尾盤，英國10年期國債收益率漲6.9個基點，報5.104%，北京時間19:00以來加速上漲、23:32達到5.122%。兩年期英債收益率漲6.8個基點，報4.490%，23:32也重新整理日高至4.507%。30年期英債收益率漲5.1個基點，50年期英債收益率漲3.3個基點。2/10年期英債收益率利差漲0.246個基點，報+61.427個基點。
-
----
-
-### 2026-07-23 23:58:20  #國際
-
-伊朗議長卡利巴夫：美國想要懲罰伊朗，卻用三位數的油價懲罰了自己，這個策略我給10分。
-
----
-
-### 2026-07-23 23:57:16  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Fall Sharply — European stocks closed sharply lower on Thursday, as the surge in energy prices risked higher interest rates in the Eurozone, while markets parsed a series of earnings results. The Euro STOXX 50 fell 1.7% to 6,210 and the STOXX Europe 600 dropped 1.3% to 638. UniCredit sank 4.8% despite posting results that reflected a strong quarter, as its ambition to acquire Germany's Commerzbank jeopardized its share buyback program. Meanwhile, BNP Paribas lost 2.8% despite beating profit estimates, tracking other banks after amid tighter financial conditions. The ECB held rate unchanged, as expected, and signaled that pro-inflationary risks may warrant more rate hikes in the future. Such risks were consolidated by a surge in gas prices as escalation to the US-Iran war further dented tanker flows from the region. Meanwhile, luxury stocks fell with LVMH, Hermes, and Ferrari dropping over 3.5%, pressured by poor results from Moncler.
-
----
-
-### 2026-07-23 23:55:46  #市場
-
-洲際交易所 8 月柴油期貨結算價報每噸 1291.50 美元。
-
----
-
-### 2026-07-23 23:53:54  #MKT News
-
-XAI will roll out GROK 4.5 to iOS, Android, web and X.
-
----
-
-### 2026-07-23 23:53:32  #其他
-
-XAI：Grok 4.5 將登陸 iOS、安卓、網頁端以及 X 平臺。
-
----
-
-### 2026-07-23 23:52:28  #其他
-
-【育碧娛樂第一財季銷售2.682億歐元 分析師預期2.729億歐元】育碧娛樂第一財季銷售2.682億歐元，分析師預期2.729億歐元；第一財季淨預定2.558億歐元，分析師預期2.543億歐元；預計第二財季淨預定大約3.70億歐元，分析師預期4.264億歐元。
-
----
-
-### 2026-07-23 23:52:24  #MKT News
-
-IAEA said once the United States and Saudi Arabia submit the request it will refer it to the Board of Governors to seek the authorization needed for implementation.
-
----
-
-### 2026-07-23 23:51:46  #其他
-
-國際原子能機構：一旦兩國提交該請求，總幹事將會把它提交給理事會，以便為這項工作的實施獲得正式授權。
-
----
-
-### 2026-07-23 23:51:29  #公司
-
-PJM 電網執行長：將在 72 小時內推出應急電力拍賣方案。
-
----
-
-### 2026-07-23 23:51:14  #國際
-
-伊朗媒體：一枚美國導彈擊中了該國南部格什姆島蘇扎市海岸的一處區域。
 
 ---
