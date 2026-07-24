@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-25 03:05:46",
+  "updated": "2026-07-25 03:09:39",
   "count": 18181,
   "items": [
+    {
+      "id": "5007488",
+      "time": "2026-07-25 03:08:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數跌幅擴大至新低，下跌1.3%。"
+    },
+    {
+      "id": "5007487",
+      "time": "2026-07-25 03:08:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西稅務部門負責人弗雷雷：石油出口稅收入表現強勁；預計四個月內將達到156億雷亞爾。"
+    },
+    {
+      "id": "5007486",
+      "time": "2026-07-25 03:07:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥玉米期貨本週漲超4.2%，豆粕漲約4.3%】週五（7月24日）紐約尾盤，彭博穀物分類指數跌0.51%——幾乎完全回吐7月22日漲幅，報32.8021點，本週累計上漲2.92%。本週，CBOT玉米期貨累漲4.22%，報4.8725美元/蒲式耳。CBOT小麥期貨累跌0.84%，報6.79美元/蒲式耳。CBOT大豆期貨累漲4.16%，報12.5250美元/蒲式耳，豆粕期貨累漲5.27%，雙雙持續走高，豆油期貨累跌0.77%。CBOT瘦肉豬期貨累漲1.14%，活牛期貨漲0.85%，飼牛期貨累漲0.80%。"
+    },
+    {
+      "id": "5007485",
+      "time": "2026-07-25 03:07:27",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根士丹利：SpaceX股價若跌至100美元 將意味著AI業務估值歸零】摩根士丹利分析師指出，近期市場對SpaceX股票的拋售已將其股價推至接近人工智慧（AI）業務零估值的水平。該機構認為，當前市場悲觀情緒與公司基本面之間出現的顯著脫節，為投資者提供了具有吸引力的佈局視窗。自6月中旬完成創紀錄的860億美元首次公開募股（IPO）以來，SpaceX股價走勢持續承壓。該股在上市初期短暫衝高後一路下挫，本週早些時候一度觸及110.85美元的低位，較IPO發行價下跌18%。摩根士丹利分析師亞當·喬納斯（Adam Jonas）在7月25日釋出的最新研報中強調，許多投資者預計，隨著首批限售股於下月解禁，SpaceX股價可能進一步下探至每股100美元。他指出，若股價跌至該水平，意味著投資者不僅完全無視其AI業務的價值，甚至給出了負估值。喬納斯重申了對SpaceX股票的“增持”評級，並維持300美元的目標價。在採用分部估值法測算中，超過50%的估值來自公司的AI業務。他表示，多數投資者對SpaceX旗下Grok和Cursor等AI資產大幅折價，主要擔憂AI業務資本支出高企、經濟效益存在不確定性，且需要管理層投入大量精力。"
+    },
+    {
+      "id": "5007484",
+      "time": "2026-07-25 03:07:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【在岸人民幣兌美元較週四夜盤收盤漲75點】在岸人民幣兌美元（CNY）北京時間03:00收報6.7702元，較週四夜盤收盤漲75點。成交量295.88億美元。"
+    },
+    {
+      "id": "5007483",
+      "time": "2026-07-25 03:06:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗電視臺援引一名知情人士訊息：美國襲擊液化天然氣運輸船，導致兩名船員遇難，船舶機艙受損，致使該船停航。"
+    },
     {
       "id": "mkt:019f9584-7ec4-7aab-8e8e-efe782431d4c",
       "time": "2026-07-25 03:05:16",
@@ -166586,61 +166636,6 @@
         "Impact bullish"
       ],
       "text": "【SpaceX in talks to provide Pentagon with tens of billions of dollars of AI compute】SpaceX is negotiating with the Pentagon to supply compute capacity worth tens of billions of dollars to run AI models; talks remain ongoing and could still collapse. Sources say SpaceX signed similar deals with Anthropic and Google in recent months and plans a major expansion of its cloud-computing business. In recent weeks employees discussed offering compute to AI customers at lower prices to compete directly with existing suppliers such as CoreWeave."
-    },
-    {
-      "id": "mkt:019f717b-e5ec-7aab-8dea-a96774614988",
-      "time": "2026-07-18 03:09:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "An adviser to Iran's supreme leader, Rezaei, said if U.S. attacks continue for several days Iran will move into a full-scale offensive operations phase."
-    },
-    {
-      "id": "4995013",
-      "time": "2026-07-18 03:09:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：世界盃決賽沒有應急預案。"
-    },
-    {
-      "id": "mkt:019f717b-07c2-7aab-8dea-a21c6e717b3c",
-      "time": "2026-07-18 03:08:36",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact bearish"
-      ],
-      "text": "SpaceX (SPCX.O) shares rapidly pared losses to a 2.6% decline after an earlier slide of more than 6%."
-    },
-    {
-      "id": "4995012",
-      "time": "2026-07-18 03:08:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國和國際足聯正在密切關注山火對世界盃決賽的影響。"
-    },
-    {
-      "id": "4995011",
-      "time": "2026-07-18 03:07:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "SPACEX的交易將類似於與 ANTHROPOLOGIE 和谷歌簽署的協議。"
-    },
-    {
-      "id": "4995010",
-      "time": "2026-07-18 03:06:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：SpaceX正與國防部洽談，擬提供價值數十億美元的資料中心容量，用於執行人工智慧模型。"
     }
   ]
 }
