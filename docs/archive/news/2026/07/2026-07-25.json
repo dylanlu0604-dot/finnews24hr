@@ -1,7 +1,50 @@
 {
   "date": "2026-07-25",
-  "count": 109,
+  "count": 113,
   "items": [
+    {
+      "id": "mkt:019f9535-fba6-7aab-8e8d-bd3c9593503f",
+      "time": "2026-07-25 01:39:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said House Republicans have made significant progress advancing a budget measure and urged the Senate to pass a budget resolution that can be approved by a simple majority before the August recess."
+    },
+    {
+      "id": "mkt:019f9535-dac6-7aab-8e8d-b596f52ba468",
+      "time": "2026-07-25 01:39:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【ANTHROPIC launches lower-cost Claude OPUS 5 model】ANTHROPIC launched Claude OPUS 5, a general-purpose AI model priced at about half the cost of its more advanced Fable 5 while delivering near-Fable 5 performance across multiple categories. The firm said OPUS 5 is targeted at routine office workloads and improves self-checking, scientific-research and code-optimization capabilities. ANTHROPIC added OPUS 5’s ability to find cybersecurity vulnerabilities is close to MYTHOS 5, though it remains notably weaker at exploiting those vulnerabilities; the release comes as enterprises and rivals including OpenAI, Meta and SpaceXAI compete to offer more cost-efficient models."
+    },
+    {
+      "id": "mkt:019f9534-f00d-7aab-8e8d-afa5555ed4df",
+      "time": "2026-07-25 01:38:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Pakistan warned Iran that closing the \"Bab al-Mandeb\" Strait would further complicate the situation."
+    },
+    {
+      "id": "mkt:019f9534-96e4-7aab-8e8d-a6b5cdbe2b98",
+      "time": "2026-07-25 01:37:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "【China's mission to EU urges immediate correction after EU lists Chinese firms in 21st Russia sanctions round】On July 24 China's mission to the EU said the EU added Chinese firms to its 21st round of sanctions on Russia despite repeated Chinese objections. China said it is strongly dissatisfied and firmly opposed, has lodged stern representations and taken measures to protect the legitimate rights of its companies, and urged the EU to immediately correct the action."
+    },
     {
       "id": "mkt:019f9532-1c4b-7aab-8e8d-9fa093b8fbc0",
       "time": "2026-07-25 01:35:16",
