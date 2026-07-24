@@ -1,7 +1,69 @@
 {
-  "updated": "2026-07-25 03:44:45",
-  "count": 18226,
+  "updated": "2026-07-25 03:48:37",
+  "count": 18230,
   "items": [
+    {
+      "id": "mkt:019f95ab-8c1e-7aab-8e8f-e0eb30832e79",
+      "time": "2026-07-25 03:47:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump says he has not decided on a major strike against Iran, sees Iran taking talks more seriously】US President Trump said he is prepared to undertake higher-level military action against Iran but has not decided on a major strike. He said he believes Iran has become more serious in negotiations over time, is not in a hurry to reach a deal, and will monitor progress in the talks."
+    },
+    {
+      "id": "5007553",
+      "time": "2026-07-25 03:46:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沙烏地阿拉伯清楚核協議的各項條件。"
+    },
+    {
+      "id": "5007552",
+      "time": "2026-07-25 03:46:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談沙特核協議：如果沙烏地阿拉伯不加入相關協議，我們就不會推進這項協議。"
+    },
+    {
+      "id": "5007551",
+      "time": "2026-07-25 03:46:08",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "阿根廷央行今日外匯儲備規模為491.8億美元。"
+    },
+    {
+      "id": "5007550",
+      "time": "2026-07-25 03:44:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱美方正與伊朗談判 不排除加大軍事打擊】當地時間7月24日，美國總統特朗普在白宮談及對伊朗戰爭的“退出戰略”時表示，美國有兩種選擇：一是繼續當前軍事行動，並可能加大打擊力度，逐步摧毀伊朗的軍事能力；二是透過談判達成協議。特朗普稱，伊朗方面希望達成協議，但目前“還沒有準備好”。他表示，美國可以繼續按現有方式行動，也可以更迅速地加強打擊。特朗普同時表示，美方目前仍在與伊朗進行談判，“就在我們說話的時候，雙方正在交談”。(央視新聞)"
+    },
+    {
+      "id": "mkt:019f95a8-6eca-7aab-8e8f-d87734d0ee6f",
+      "time": "2026-07-25 03:44:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Press Agency said the Saudi vessel NCC MASA is continuing to its destination; the ship and crew are reported safe."
+    },
+    {
+      "id": "mkt:019f95a8-4c70-7aab-8e8f-d29305d6a17b",
+      "time": "2026-07-25 03:44:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he is talking with Iranians and believes they are becoming more serious."
+    },
     {
       "id": "mkt:019f95a7-f426-7aab-8e8f-cddb20693292",
       "time": "2026-07-25 03:43:59",
@@ -167003,34 +167065,6 @@
         "國際"
       ],
       "text": "【美元指數本週累跌約0.2%】週五（7月17日）紐約尾盤，ICE美元指數大致持平，報100.766點，本週累跌0.18%，整體交投區間為101.327-100.353點，美國CPI和PPI帶來兩波顯著的下跌行情。彭博美元指數漲0.09%，報1217.29點，本週累跌0.14%，交投區間為1222.56-1212.47點。美元兌日元漲0.04%，報162.46日元，本週累漲0.48%，交投區間為161.62-162.55日元。歐元兌日元累漲0.69%，報185.84日元；英鎊兌日元累漲0.86%，報218.611日元。"
-    },
-    {
-      "id": "mkt:019f719f-571b-7aab-8deb-37e0999978df",
-      "time": "2026-07-18 03:48:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "IRNA reported Iran said it fired cruise missiles in the northern Indian Ocean at US naval vessels, launching the 13th phase of \"Operation Lightning\"."
-    },
-    {
-      "id": "4995042",
-      "time": "2026-07-18 03:47:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息：伊朗軍方稱，海軍向印度洋北部一艘具有敵意的美國艦船發射了岸對海巡航導彈。"
-    },
-    {
-      "id": "4995041",
-      "time": "2026-07-18 03:45:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：阿根廷中央銀行今日儲備金為487.8億美元。"
     }
   ]
 }
