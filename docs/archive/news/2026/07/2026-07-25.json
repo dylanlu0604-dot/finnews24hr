@@ -1,7 +1,54 @@
 {
   "date": "2026-07-25",
-  "count": 307,
+  "count": 312,
   "items": [
+    {
+      "id": "5007563",
+      "time": "2026-07-25 03:53:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：另一種關稅方案操作起來更簡便，但我們手握多種徵稅手段。"
+    },
+    {
+      "id": "mkt:019f95b0-938e-7aab-8e90-16d437fa1cf1",
+      "time": "2026-07-25 03:53:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he had not spoken with Energy Secretary Wright before signing the Saudi nuclear agreement."
+    },
+    {
+      "id": "5007562",
+      "time": "2026-07-25 03:53:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：哥倫比亞當選副總統稱將與美方就關稅問題展開談判 。"
+    },
+    {
+      "id": "mkt:019f95af-ba63-7aab-8e90-083e96361077",
+      "time": "2026-07-25 03:52:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Brazil estimates 16.5% of its exports will be affected by a 37.5% US composite tariff."
+    },
+    {
+      "id": "mkt:019f95af-5db4-7aab-8e90-03e604714209",
+      "time": "2026-07-25 03:52:05",
+      "tags": [
+        "MKT News",
+        "PARA.O",
+        "Impact bearish",
+        "WBD.O"
+      ],
+      "text": "The New York Times reports Paramount has agreed to delay its merger with Warner Bros. by several months."
+    },
     {
       "id": "mkt:019f95af-2195-7aab-8e8f-ff6da2bfccea",
       "time": "2026-07-25 03:51:50",
