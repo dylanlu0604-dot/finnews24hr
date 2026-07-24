@@ -1,7 +1,217 @@
 {
-  "updated": "2026-07-24 15:26:34",
-  "count": 17971,
+  "updated": "2026-07-24 15:30:34",
+  "count": 17981,
   "items": [
+    {
+      "id": "mkt:019f9307-f5f7-7aab-8e7f-25c052553035",
+      "time": "2026-07-24 15:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Services PMI Flash (Jul) | actual 49.6 | consensus 49 | previous 48.6"
+    },
+    {
+      "id": "mkt:019f9307-f5b6-7aab-8e7f-1a7042045cd2",
+      "time": "2026-07-24 15:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Manufacturing PMI Flash (Jul) | actual 52.2 | consensus 50.5 | previous 50.3"
+    },
+    {
+      "id": "mkt:019f9307-f592-7aab-8e7f-162baf4556b3",
+      "time": "2026-07-24 15:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Composite PMI Flash (Jul) | actual 51.2 | consensus 49.8 | previous 49.5"
+    },
+    {
+      "id": "mkt:019f9307-dc27-7aab-8e7f-0a5979f1c33e",
+      "time": "2026-07-24 15:29:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign Ministry: US not a party to South China Sea issue】Foreign Ministry spokesman Lin Jian told a regular briefing China has noted reports that in Thursday’s call President Trump told Philippine President Marcos he would raise Manila’s concerns with Xi. Lin said the US is not a party to the South China Sea issue and that attempts to provoke via external actors will only end up being used and suffer the consequences."
+    },
+    {
+      "id": "5006214",
+      "time": "2026-07-24 15:29:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【訊息稱MacBook Neo 2擬搭載A19 Pro晶片和12GB記憶體】據悉，蘋果正在研發下一代MacBook Neo，該機型將搭載A19 Pro晶片。效能方面，A19 Pro在單核和多核CPU測試中比 A18 Pro快約10-15%。GPU效能的提升更為顯著，基準測試顯示 A19 Pro 的效能提升高達40%。（MacRumors）"
+    },
+    {
+      "id": "mkt:019f9307-9a48-7aab-8e7f-04fa7bd1d27c",
+      "time": "2026-07-24 15:29:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Mehr News Agency reported the United States shelled a location in Piranshahr in Iran's West Azerbaijan province."
+    },
+    {
+      "id": "mkt:019f9306-4cbf-7aab-8e7e-fc7719e9930f",
+      "time": "2026-07-24 15:28:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Foreign Ministry: China closely monitoring Red Sea situation】Houthi forces announced a maritime blockade on vessels entering and leaving Saudi Arabia and attacked a Saudi oil tanker. Foreign Ministry spokesman Lin Jian said at a regular briefing on the 24th that China is closely monitoring Red Sea developments, that the sovereignty and security of regional states should be respected, and that the safety and openness of international sea lanes should be jointly safeguarded. China called on relevant parties to exercise restraint, resolve disputes through dialogue and consultation, avoid actions that escalate confrontation, and help restore peace and stability in the Gulf region promptly."
+    },
+    {
+      "id": "5006213",
+      "time": "2026-07-24 15:28:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部回應韓國贈還中國石獅】23日，韓國贈還我國一對清代石獅。今天，外交部發言人林劍對此表示，中方對韓方贈還被日本掠奪的清代石獅表示高度讚賞。“中韓歷史上都曾遭受日本軍國主義侵略，都曾經歷文物流失的傷痛。韓國向中國贈還清代石獅文物，彰顯了中韓銘記歷史、攜手合作的積極意願。”（央視新聞）"
+    },
+    {
+      "id": "mkt:019f9305-fe1b-7aab-8e7e-f41977b830a7",
+      "time": "2026-07-24 15:27:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index",
+        "S&P500"
+      ],
+      "text": "【China's Foreign Ministry says willing to implement U.S.-China leaders' AI consensus】U.S. President Trump reportedly said the two leaders would discuss AI. At a regular briefing on the 24th, Foreign Ministry spokesman Lin Jian said summit-level diplomacy provides an irreplaceable strategic steer for U.S.-China ties and that China is willing to work with the U.S. to implement the leaders' important consensus on artificial intelligence."
+    },
+    {
+      "id": "5006212",
+      "time": "2026-07-24 15:27:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【外交部：願在人工智慧領域落實好中美元首重要共識】就有報道稱美國總統特朗普表示美中兩國領導人將討論人工智慧相關議題，外交部發言人林劍24日在例行記者會上答問時表示，元首外交對中美關係具有不可替代的戰略引領作用。中方願同美方一道，在人工智慧領域落實好兩國元首的重要共識。（新華社）"
+    },
+    {
+      "id": "5006211",
+      "time": "2026-07-24 15:27:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：臺當局四處刷存在感註定徒勞無功】7月24日，外交部發言人林劍主持例行記者會。 彭博社記者提問，據報道，中國外交官在澳大利亞要求臺當局代表不出席工黨的會議。否則中方將離場抗議，外交部對此有何評論？ 林劍表示，臺灣當局人員四處蹭會、刷“存在感”，進行謀“獨”的活動，註定徒勞無功。中方敦促有關方面切實按照一箇中國原則妥善處理涉臺問題，不為“臺獨”分裂行徑提供任何便利和平臺。（北京日報）"
+    },
+    {
+      "id": "mkt:019f9305-9d3d-7aab-8e7e-ed28baa1267c",
+      "time": "2026-07-24 15:27:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell 2.0% intraday to $93.02/bbl."
+    },
+    {
+      "id": "mkt:019f9305-8e12-7aab-8e7e-e441539b2d1d",
+      "time": "2026-07-24 15:27:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's agriculture ministry urges coordinated effort to sustain hog price rebound, avoid sharp swings】July 24 — Chen Bangxun, director-general of the Development Planning Department at China's Ministry of Agriculture and Rural Affairs, said at a State Council briefing that since late June hog supply-demand has gradually improved and prices have rebounded, easing farm losses. He warned overall supply remains ample and the supply-strong, demand-weak pattern has not fundamentally changed. The ministry will continue comprehensive capacity regulation, issue multi-channel warnings and guide better supply-demand matching, and urged farms to closely monitor market shifts and adjust production to help stabilize the price recovery and avoid large fluctuations."
+    },
+    {
+      "id": "mkt:019f9305-2abd-7aab-8e7e-d9d499249c27",
+      "time": "2026-07-24 15:26:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish",
+        "Aluminum",
+        "Zinc"
+      ],
+      "text": "SHFE reported this week that exchange inventories fell: copper down 10,299 tonnes, aluminum down 21,192 tonnes, zinc down 1,234 tonnes, lead down 3,566 tonnes, nickel down 83 tonnes, tin down 147 tonnes; natural rubber rose 902 tonnes."
+    },
+    {
+      "id": "5006209",
+      "time": "2026-07-24 15:26:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "上期所：本週銅庫存減少10299噸，鋁庫存減少21192噸，鋅庫存減少1234噸，鉛庫存減少3566噸，鎳庫存減少83噸，錫庫存減少147噸，天然橡膠庫存增加902噸。"
+    },
+    {
+      "id": "5006208",
+      "time": "2026-07-24 15:26:50",
+      "tags": [
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【農業農村部：希望各方共同努力穩住生豬價格回升勢頭 避免大起大落】7月24日，農業農村部發展規劃司司長陳邦勳在國新辦新聞釋出會上表示，6月底以來，生豬市場供需關係逐步改善，價格波動回升，養殖虧損有所減輕。但是，當前生豬市場供應仍是總體充裕，供強需弱格局尚未根本改變，農業農村部將繼續抓好生豬產能綜合調控，多渠道釋出預警，引導供需更加適配，也希望廣大養殖場密切關注供需形勢變化，合理安排生產，希望各方共同努力，穩住生豬價格回升勢頭，避免大起大落。"
+    },
+    {
+      "id": "5006207",
+      "time": "2026-07-24 15:26:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【外交部：菲方應立即停止侵權挑釁和炒作】7月24日，外交部發言人林劍主持例行記者會。針對菲律賓船隻在中國黃巖島海域侵權挑釁，林劍表示，中國海警局已經闡明瞭事實的真相，黃巖島是中國的固有領土，菲律賓有關船隻蓄意衝闖在先，中方採取必要措施，維護自身權利和安全，合理合法，現場的操作專業規範無可指摘，菲方應立即停止侵權挑釁和炒作。需要特別指出的是，菲方又一次安排記者參與侵權行動，蓄意挑釁滋事並藉機炒作，人為製造海上緊張局勢，這恰恰證明了菲律賓就是南海和平穩定的破壞者和麻煩製造者。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f9304-c447-7aab-8e7e-d2da99780b6f",
+      "time": "2026-07-24 15:26:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Foreign Ministry says China will expand exchanges and cooperation with Slovakia】China's foreign ministry said it will use Slovak President Peter Pellegrini's visit to deepen political trust, align development strategies and expand cooperation across sectors. President Xi Jinping will meet Pellegrini to map the future trajectory of China–Slovakia ties and exchange views on bilateral and international and regional issues."
+    },
+    {
+      "id": "mkt:019f9304-7ca9-7aab-8e7e-cafa00225b05",
+      "time": "2026-07-24 15:26:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【China: Tariff, trade wars not in any party's interest】Foreign Ministry spokesman Lin Jian, asked about a new round of US tariffs set to take effect today, said China's position on Sino-US trade is consistent and clear: Beijing opposes unilateral tariff measures and warned tariff wars and trade wars are not in any party's interest."
+    },
+    {
+      "id": "5006206",
+      "time": "2026-07-24 15:26:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中方願同斯洛伐克拓展各領域的交流合作】7月24日，外交部發言人林劍主持例行記者會。有記者問：今天中方剛剛釋出了斯洛伐克總統佩列格里尼訪華的訊息，中方能否介紹此訪有關安排？如何看待當前中斯關係，對此訪有何期待？林劍表示，斯洛伐克是最早承認並同新中國建交的國家之一，是中國在歐洲的重要合作伙伴。訪問期間，習近平主席將同佩列格里尼總統舉行會談，共同擘畫中斯關係未來發展的藍圖，就雙邊關係和共同關心的國際地區問題深入交換意見。林劍指出，中方願同斯方一道，以此訪為契機，不斷深化傳統友誼和政治互信，加強發展戰略對接，拓展各領域的交流合作。"
+    },
     {
       "id": "5006205",
       "time": "2026-07-24 15:25:50",
@@ -164645,96 +164855,6 @@
         "國際"
       ],
       "text": "【習近平將會見泰國總理阿努廷】7月17日下午，國家主席習近平將在上海西郊賓館會見來華出席2026世界人工智慧大會暨人工智慧全球治理高階別會議並進行正式訪問的泰國總理阿努廷。（央視新聞）"
-    },
-    {
-      "id": "te:markets:567809",
-      "time": "2026-07-17 15:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.44% Lower — The CAC 40 Index is falling 37 points. Losses were driven by STMicroelectronics (-5.75%), Legrand (-2.14%) and Schneider Electric (-2.12%). Biggest rises came from Orange (1.96%), ENGIE (1.58%) and Danone (1.10%)."
-    },
-    {
-      "id": "4993815",
-      "time": "2026-07-17 15:30:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港建築地盤全面禁菸法例生效】香港《2026年建築地盤（安全）（修訂）規例》17日刊憲並生效，同時，於2026年5月22日在憲報刊登的《2026年吸菸（公眾衛生）條例（修訂附表2）令》及《2026年定額罰款（吸菸罪行）（指明主管當局及公職人員）（修訂）公告》也於17日生效。（新華社）"
-    },
-    {
-      "id": "4993814",
-      "time": "2026-07-17 15:29:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "EQT股價在釋出上半年業績後上漲9.5%，目前有望創下2023年12月以來最大單日漲幅。"
-    },
-    {
-      "id": "4993813",
-      "time": "2026-07-17 15:29:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣東商業航天保險共保體成立】近日，從人保財險廣東分公司獲悉，廣東商業航天保險共保體在廣東陽江正式成立。據瞭解，為全面規範共保體運營管理體系、統一行業服務標尺、切實提升商業航天產業金融服務質效，人保財險廣東分公司代表共保體釋出專項服務倡議，確立“統一承保、統一風控、統一服務、統一理賠”“四統一”執行機制。透過標準化流程、專業化管控、一體化服務模式，聚合行業承保資源、深耕商業航天專屬風控體系，為產業鏈量身打造覆蓋全生命週期的保險保障方案。（中國經營報）"
-    },
-    {
-      "id": "4993812",
-      "time": "2026-07-17 15:28:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【理財非標壓降因地施策：部分機構實現清零 多地暫未接通知】記者從業內獲悉，部分地區監管部門對理財公司及銀行自營理財提出非標壓降要求，但各地尺度不一，有機構存量非標資產已實現清零。江蘇省某銀行資管部負責人透露，該行已收到監管指引並完成非標資產壓降，目前相關佔比已降至0。江蘇省某理財公司人士也確認，公司於去年收到監管下發的非標壓降任務，並已著手執行，但監管並未要求清零。北方地區某銀行資管部負責人告訴記者，監管要求其非標資產佔理財存續規模的比例不得進一步上升。記者進一步向多個地區理財公司求證，對方均表示目前未收到明確的非標壓降要求。上海地區某理財公司人士稱，暫未接到相關通知，“當前監管僅設定了公司整體非標資產佔比不得超過35%的紅線，尚未對單隻理財產品非標資產佔比制定約束標準，不過行業內普遍將單隻理財產品非標資產佔比控制在50%以內。” (中證金牛座)"
-    },
-    {
-      "id": "te:economy:567807",
-      "time": "2026-07-17 15:28:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "India 10Y Yield Steadies Ahead of Debt Sale — The yields on India’s 10-Year G-Sec hovered around 6.75%, steadying after falling in the previous session as investors awaited the auction of INR 320 billion worth of three- and 30-year government bonds. Yields found support from relatively stable crude oil prices near $85 per barrel and softer US Treasury yields, which eased external pressure despite renewed geopolitical tensions in the Middle East. Demand for Indian sovereign debt also remained resilient despite higher-than-expected domestic inflation, rupee weakness, and escalating geopolitical tensions. Overseas investors purchased about INR 16.5 billion of bonds under the Fully Accessible Route this week amid expectations of India's inclusion in the Bloomberg bond index, while foreign banks turned net buyers on Thursday, acquiring more than INR 50 billion of government bonds after a three-session selling streak, supporting sentiment ahead of the debt sale."
-    },
-    {
-      "id": "4993811",
-      "time": "2026-07-17 15:28:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本首相高市早苗稱GPIF投資國內資產至關重要】日本首相高市早苗週五在國會會議上表示，鼓勵家庭以及政府養老投資基金(GPIF)增加對日本金融資產的投資非常重要。“鑑於股市持續表現穩健，我們認為採取措施鼓勵家庭和包括GPIF在內的養老基金進一步增加對日本金融資產的投資十分重要，以便民眾能共享日本經濟增長的成果，”她表示。她補充說：“透過這樣做，我們希望推動經濟增長與家庭資產積累之間形成良性迴圈。”受高市講話影響，日元兌美元在東京後市交易一度升至162.13。"
-    },
-    {
-      "id": "4993810",
-      "time": "2026-07-17 15:27:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歐洲科技投資人警告：依賴美國科技資本對歐洲構成戰略風險】據報道，曾投資Spotify和Revolut等公司的歐洲頂級科技投資者警告稱，歐洲對美國技術和資本的依賴已經成為一種戰略脆弱性。風險投資公司Lakestar創始人克勞斯·霍姆斯表示，美國近期對Anthropic人工智慧模型的限制，是歐洲需要建立更大技術自主能力的最新訊號。霍姆斯發表上述警告之際，Lakestar表示已募集一支規模3億美元的“韌性”基金，將投資歐洲以及其他北約盟國的軍民兩用技術和國防科技企業。霍姆斯表示，他認為美國風投機構可以在支援歐洲國防科技初創企業方面發揮作用，但“重要的是，整體治理必須掌握在歐洲手中。如果出現升級局勢，治理體系必須能夠優先考慮歐洲利益。”"
-    },
-    {
-      "id": "4993809",
-      "time": "2026-07-17 15:27:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿曼附近海域一油輪遭不明彈體襲擊】當地時間17日，英國海上貿易行動辦公室表示，當日一艘油輪在航行至阿曼海岸海塞卜以東約19海里處時，遭到不明彈體襲擊。該船左舷受到輕微損壞，船上船員安全，仍繼續駛向目的地。襲擊未造成環境影響。（央視新聞）"
-    },
-    {
-      "id": "4993808",
-      "time": "2026-07-17 15:27:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 日本執政黨要求國會會期延長至 7 月 25 日。"
     }
   ]
 }
