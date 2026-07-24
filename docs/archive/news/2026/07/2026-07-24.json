@@ -1,7 +1,99 @@
 {
   "date": "2026-07-24",
-  "count": 824,
+  "count": 834,
   "items": [
+    {
+      "id": "5005705",
+      "time": "2026-07-24 09:44:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【氟化工概念低開高走 濱化股份2連板】氟化工概念低開高走，孚日股份、濱化股份2連板，永太科技、中船特氣、雲南鍺業、華特氣體、天賜材料跟漲。"
+    },
+    {
+      "id": "5005704",
+      "time": "2026-07-24 09:44:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "HMM計劃到2030年投資29萬億韓元用於擴建船隊和碼頭。"
+    },
+    {
+      "id": "5005703",
+      "time": "2026-07-24 09:43:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數下跌1.1%至6215點。"
+    },
+    {
+      "id": "5005702",
+      "time": "2026-07-24 09:42:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中際旭創據悉將提前結束其香港招股的投資者認購】知情人士稱，中際旭創計劃週五下午5點停止接受投資者對其香港招股的認購，較原計劃提前一個工作日結束簿記。交易條款顯示，該公司原定於7月27日結束機構投資者的認購。知情人士稱，投資者表達的認購意向達到招股規模的數倍。中際旭創計劃透過香港上市融資不超過70億美元，週三開始接受投資者認購。"
+    },
+    {
+      "id": "mkt:019f91ca-054a-7aab-8e77-86dc71b5f9db",
+      "time": "2026-07-24 09:42:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Two tankers suspected of leaking near Strait of Hormuz, slick drifting toward Larak and Qeshm】UK maritime analytics firm Windward published satellite-image analysis on the 23rd showing two tankers near the Strait of Hormuz suspected of leaking oil; the slick is drifting toward Iran’s Larak and Qeshm island coasts. The eastern vessel is the Kavomarias, which was attacked and set alight on the 20th near the strait; Windward says the ship was in ballast at the time, so the discharge is likely ship fuel rather than crude or cargo. The western vessel is a dark ship with its AIS switched off; its identity is unknown and satellite imagery indicates it has been stationary in the same area since May with suspected leakage around the hull."
+    },
+    {
+      "id": "mkt:019f91c9-c007-7aab-8e77-7a5c4a228b50",
+      "time": "2026-07-24 09:42:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Retail cash yield tracker】Licaitong Current+ 7-day annualized yield ranged 0.7420%–1.4950%. WeChat Lingqian Tong 7-day annualized yield ranged 0.9240%–1.0130%. Alipay Yu'ebao 7-day annualized yield ranged 0.9640%–1.0620%."
+    },
+    {
+      "id": "mkt:019f91c9-5d27-7aab-8e77-72b8355a8d02",
+      "time": "2026-07-24 09:42:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share chemical stocks rallied; Furi and Kaien both hit the daily trading limit, Yongtai Technology rose over 6%. CSSC Special Gas, Tinci Materials, Xingfa Group, Xinya Process, Jinhong Gas and Do-Fluoride also advanced."
+    },
+    {
+      "id": "5005701",
+      "time": "2026-07-24 09:41:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴港股下跌4.1％，快手下跌3.8％。"
+    },
+    {
+      "id": "5005700",
+      "time": "2026-07-24 09:41:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽附近兩艘油輪疑似漏油】總部位於英國的溫沃德海事分析公司23日在社交媒體釋出衛星影象分析稱，霍爾木茲海峽附近兩艘油輪疑似發生漏油，形成的油汙帶正向伊朗拉臘克島和格什姆島沿岸漂移。溫沃德公司說，東側涉事油輪為20日在霍爾木茲海峽附近遇襲起火的“卡沃馬利亞斯”號。分析認為，鑑於該船當時為空載狀態，洩漏物或為船用燃油，而非原油或其他貨物。"
+    },
+    {
+      "id": "5005699",
+      "time": "2026-07-24 09:41:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報91.26美元/桶。"
+    },
     {
       "id": "5005698",
       "time": "2026-07-24 09:40:31",
