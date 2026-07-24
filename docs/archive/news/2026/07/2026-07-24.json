@@ -1,7 +1,119 @@
 {
   "date": "2026-07-24",
-  "count": 855,
+  "count": 866,
   "items": [
+    {
+      "id": "te:markets:569476",
+      "time": "2026-07-24 09:58:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Languishes Near 4-Decade Low — The Japanese yen hovered near a four-decade low around 163.8 per US dollar, with repeated warnings of possible intervention failing to curb the currency’s weakness amid broad US dollar strength. Traders largely shrugged off remarks from Japan’s Finance Minister that the government was prepared to take decisive action in the foreign exchange market if needed, as well as reports that Bank of Japan officials are open to a faster pace of rate increases than markets currently expect. Concerns over Prime Minister Sanae Takaichi’s fiscal policy are also weighing on the currency, while escalating US-Iran tensions have fueled concerns about Japan’s economy given its heavy reliance on imported energy. Meanwhile, Japan’s headline inflation rose to a six-month high in June, supporting expectations for further rate hikes. The yen has fallen 0.8% so far this week, putting it on track for its worst weekly performance since May, when it weakened following Japan’s record currency intervention."
+    },
+    {
+      "id": "5005725",
+      "time": "2026-07-24 09:58:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元漲幅達0.7%，領漲亞洲外匯市場。"
+    },
+    {
+      "id": "te:markets:569475",
+      "time": "2026-07-24 09:57:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Aussie Set for 1st Weekly Loss in a Month — The Australian dollar traded below $0.698 and was on track for its first weekly loss in a month, pressured by a stronger US dollar as higher oil prices and renewed trade tensions fueled inflation concerns. Brent crude climbed above $100 per barrel after Houthi attacks on Saudi oil tankers in the Red Sea, while President Donald Trump threatened further action against Iran. Fresh US tariffs on goods from 60 trading partners added to inflation concerns, reinforcing expectations that interest rates could remain higher for longer. The stronger greenback erased gains the Aussie had made after domestic jobs data beat forecasts, while soaring oil prices also strengthened the case for another Reserve Bank of Australia rate hike. Markets now imply a 40% chance the RBA will lift the 4.35% cash rate in August, up from just 10% a few weeks ago, with a move by November almost fully priced. Investors now await second-quarter inflation data due next week for further clues on the policy outlook."
+    },
+    {
+      "id": "5005724",
+      "time": "2026-07-24 09:57:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟調查亞太地區 Teams 會議及通話問題。"
+    },
+    {
+      "id": "mkt:019f91d6-edbf-7aab-8e77-ceb2e6953c43",
+      "time": "2026-07-24 09:56:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "06809.HK",
+        "Impact bullish",
+        "00981.HK",
+        "06082.HK"
+      ],
+      "text": "Hong Kong chip stocks climbed: Lanqi Technology (06809.HK) rose more than 5%; Tianshu Zhixin (09903.HK) and SMIC (00981.HK) gained over 3% each. Hua Hong Semiconductor (01347.HK), ASM Pacific Technology (00522.HK), Biren Technology (06082.HK) and GigaDevice (03986.HK) also advanced."
+    },
+    {
+      "id": "5005723",
+      "time": "2026-07-24 09:56:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內跌5%，現報298.30元。"
+    },
+    {
+      "id": "5005722",
+      "time": "2026-07-24 09:56:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電子特氣概念震盪反彈 中船特氣漲超10%】電子特氣概念盤中震盪反彈，中船特氣漲超10%，中巨芯、華特氣體、廣鋼氣體、正帆科技、金宏氣體等跟漲。"
+    },
+    {
+      "id": "te:markets:569473",
+      "time": "2026-07-24 09:55:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Fall on Tech Weakness — Asian equity markets mostly declined on Friday, tracking sharp losses on Wall Street as investors grew increasingly skeptical that massive spending on artificial intelligence will generate sufficient returns. Technology-heavy markets in Japan and South Korea led regional losses as major chipmakers came under pressure. Sentiment was further weighed by Brent crude climbing above $100 a barrel amid escalating Middle East tensions, fueling inflation concerns and reinforcing expectations of tighter US monetary policy. Investors also assessed fresh US tariffs of 10%–12.5% on imports from most major trading partners."
+    },
+    {
+      "id": "5005721",
+      "time": "2026-07-24 09:55:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟產業大臣赤澤亮正：美國最新關稅舉措令人遺憾。"
+    },
+    {
+      "id": "mkt:019f91d5-6e75-7aab-8e77-c0e3cf5f8f52",
+      "time": "2026-07-24 09:55:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 10-year government bond yield rose 4.0 bps to 2.810%."
+    },
+    {
+      "id": "5005720",
+      "time": "2026-07-24 09:55:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲4.0個基點至2.810%。"
+    },
     {
       "id": "mkt:019f91d4-df55-7aab-8e77-bb778aa27161",
       "time": "2026-07-24 09:54:34",
