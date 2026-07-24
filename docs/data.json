@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-24 09:16:29",
-  "count": 18021,
+  "updated": "2026-07-24 09:20:26",
+  "count": 18027,
   "items": [
+    {
+      "id": "mkt:019f91b4-c0cc-7aab-8e76-bf38e9bd6030",
+      "time": "2026-07-24 09:19:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said she will not comment on specific exchange-rate levels."
+    },
+    {
+      "id": "mkt:019f91b4-aca2-7aab-8e76-b3e58b535d61",
+      "time": "2026-07-24 09:19:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Capital Economics: Japan July PMI suggests economy has shrugged off energy-cost shock】Capital Economics Asia chief economist Marcel Thieliant said preliminary July PMIs indicate Japan’s economy has continued to shrug off the energy-cost shock and remains resilient, pointing to a sharp acceleration in inf. The composite PMI rose to 53.1 in July from 52.8, a four-month high, consistent with GDP running roughly 1.5% above trend. Thieliant flagged the improvement is hard to reconcile with softer services and manufacturing PMIs and suggested stronger demand for AI-related products may explain the surprise."
+    },
+    {
+      "id": "5005655",
+      "time": "2026-07-24 09:19:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：不對具體匯率水平置評。"
+    },
+    {
+      "id": "mkt:019f91b4-a60d-7aab-8e76-af47eaacd241",
+      "time": "2026-07-24 09:19:22",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan's finance minister Katayama said the U.S. Treasury's FX report referenced a U.S.-Japan joint statement noting excessive exchange-rate volatility is undesirable."
+    },
+    {
+      "id": "5005654",
+      "time": "2026-07-24 09:19:00",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "日本財務大臣片山表示：美國財政部匯率報告引用了美日聯合宣告，該宣告稱匯率過度波動是不可取的。"
+    },
+    {
+      "id": "mkt:019f91b2-36cf-7aab-8e76-a498a8a1f9ba",
+      "time": "2026-07-24 09:16:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China General Nuclear's Daesan Phase II 557 MW gas plant begins commercial operation in South Korea】China General Nuclear (CGN)'s Daesan Phase II 557 MW gas-fired plant entered commercial operation at 00:00 local time on July 24. The greenfield project, developed by CGN in South Korea, engaged more than 100 Korean firms, improved construction efficiency by about 15% and has a maximum annual output of roughly 3.9 bln kWh, which will bolster local power supply."
+    },
+    {
+      "id": "5005653",
+      "time": "2026-07-24 09:16:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中廣核韓國大山二期557MW氣電專案商運發電】韓國當地時間7月24日0點，中廣核韓國大山二期557MW（兆瓦）氣電專案正式商運。作為中廣核在韓國自主開發的綠地專案，累計帶動100餘家韓國企業共同參與專案建設，施工效率提升約15%，年最高發電量可達39億千瓦時，將為韓國當地電力供應提供有力支撐。"
+    },
+    {
+      "id": "5005652",
+      "time": "2026-07-24 09:16:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中糧科工：公司及控股子公司未持有長鑫科技股份】中糧科工7月24日在互動平臺表示，公司及控股子公司未持有長鑫科技股份。"
+    },
     {
       "id": "mkt:019f91b1-4687-7aab-8e76-9b7be40ea0e6",
       "time": "2026-07-24 09:15:41",
@@ -165149,22 +165226,6 @@
         "國際"
       ],
       "text": "30年期日本國債<JP30YTN=JBTC>收益率下跌1個基點，至3.820%。"
-    },
-    {
-      "id": "4993192",
-      "time": "2026-07-17 09:18:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍週五早間襲擊了伊朗阿巴斯港鐵路樞紐。"
-    },
-    {
-      "id": "4993191",
-      "time": "2026-07-17 09:17:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東：每年投入超百億元為全職騎手、快遞小哥等繳納五險一金】7月17日，京東宣佈，每年投入超百億元為全職騎手、快遞小哥等繳納五險一金。"
     }
   ]
 }
