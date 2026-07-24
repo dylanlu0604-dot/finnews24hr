@@ -1,7 +1,168 @@
 {
-  "updated": "2026-07-24 09:20:26",
-  "count": 18027,
+  "updated": "2026-07-24 09:25:26",
+  "count": 18028,
   "items": [
+    {
+      "id": "te:markets:569461",
+      "time": "2026-07-24 09:24:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "US Dollar Hovers Near 3-Week High — The dollar index traded around 101.3 on Friday, hovering near a three-week high as US President Donald Trump's latest tariffs on major trading partners reinforced concerns over a renewed tariff wall. Under the new framework, imports from countries including Mexico, Canada, the UK, and India will face 10% tariffs linked to alleged forced-labor concerns, while goods from the European Union and Taiwan will be capped at 10%. Products from Japan, South Korea, and Switzerland will generally face duties of up to 12.5%, with additional charges applying to some goods. The greenback also drew support from rising expectations of tighter Federal Reserve policy amid escalating Middle East tensions that have fueled energy prices, as well as resilient US labor market conditions. Swap markets currently assign roughly a 34% chance of a Fed rate increase next week, with at least one hike fully priced in by September and the possibility of another before year-end."
+    },
+    {
+      "id": "5005663",
+      "time": "2026-07-24 09:23:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍結束連續第13晚對伊朗襲擊。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f91b8-5289-7aab-8e76-e24c641a3f21",
+      "time": "2026-07-24 09:23:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "06693.HK",
+        "03330.HK"
+      ],
+      "text": "Hong Kong-listed gold miners opened lower: Chifeng Gold (06693.HK) and Lingbao Gold (03330.HK) fell more than 6%; Zijin Gold International (02259.HK) dropped over 5%; Zhaojin Mining (01818.HK) fell over 4%. Shandong Gold (01787.HK), Zijin Mining (02899.HK) and Tongguan Gold (00340.HK) also declined. Earlier, spot gold slipped $10 to $4,041.5/oz."
+    },
+    {
+      "id": "5005662",
+      "time": "2026-07-24 09:22:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：打擊伊朗通訊網路和監控網站，打擊伊朗海上能力。"
+    },
+    {
+      "id": "te:economy:569459",
+      "time": "2026-07-24 09:22:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "House Price Index MoM",
+        "Importance 1"
+      ],
+      "text": "Singapore Home Price Growth Confirmed at 2-Year Low — Private home prices in Singapore rose 0.5% quarter-on-quarter in Q2 2026, easing from a 0.9% increase in Q1, confirming preliminary estimates. The cumulative gain in the first half of the year reached 1.4%, below the 1.8% increase recorded in the same period of 2025. The slower increase reflected a decline in non-landed property prices (-0.1% vs. 1.3% in Q1), led by weaker prices in the Rest of Central Region (-1.2% vs. 0.8%) and the Outside Central Region (-0.1% vs. 2.2%), partly offset by stronger gains in the Core Central Region (1.8% vs. 0.6%). Meanwhile, landed property prices rebounded 2.5% after falling 0.4% in the previous quarter. The government reiterated that it will maintain a high and steady supply of private housing, with 4,745 units to be launched under the Government Land Sales Programme in the second half of 2026, while about 60,600 private residential units are expected to be completed in the coming years."
+    },
+    {
+      "id": "em:qqyh_zgyh:202607243819824067",
+      "time": "2026-07-24 09:22:08",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展890億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019f91b7-0150-7aab-8e76-d8abe003b9d1",
+      "time": "2026-07-24 09:21:57",
+      "tags": [
+        "MKT News",
+        "HSI",
+        "Impact bearish",
+        "HSCEI",
+        "Hang Seng Tech Index"
+      ],
+      "text": "Hong Kong's Hang Seng Index (HSI) opened July 24 down 278.31 points (-1.1%) at 24,932.5; Hang Seng Tech Index opened down 87.35 points (-1.86%) at 4,611.13; Hang Seng China Enterprises Index (HSCEI) opened down 94.75 points (-1.13%) at 8,257.92; Red Chip Index opened down 25.82 points (-0.62%) at 4,167.3."
+    },
+    {
+      "id": "5005661",
+      "time": "2026-07-24 09:21:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：襲擊伊朗軍事指揮中心和無人機設施。"
+    },
+    {
+      "id": "5005660",
+      "time": "2026-07-24 09:21:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展890億元7天逆回購操作，投標量890億元，中標量890億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "5005659",
+      "time": "2026-07-24 09:21:35",
+      "tags": [],
+      "text": "港股恒指低開跌1.1％，國企指數跌1.13％，恒生科技指數開跌1.86%；黃金、PCB、明星科網等板塊跌幅居前。"
+    },
+    {
+      "id": "5005658",
+      "time": "2026-07-24 09:21:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：已做好準備，隨時可在必要時對匯率波動採取適當應對措施。"
+    },
+    {
+      "id": "mkt:019f91b6-7d1b-7aab-8e76-d360c59cc4ab",
+      "time": "2026-07-24 09:21:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02259.HK",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong open: HSI down 1.10%, Hang Seng Tech Index down 1.86%. Gold, PCB and large internet-tech names led sector declines. Zijin Gold International (02259.HK) opened down 5.44%."
+    },
+    {
+      "id": "5005657",
+      "time": "2026-07-24 09:21:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國完成對伊朗軍事目標的打擊。"
+    },
+    {
+      "id": "mkt:019f91b5-d3ed-7aab-8e76-cb904c9cbc5d",
+      "time": "2026-07-24 09:20:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Trump frustrated by protracted Iran war, sources say】Sources said at a recent Oval Office meeting Trump denounced Iranian leaders as 'scum' and 'madmen' and used profanity, saying he is frustrated as the campaign enters its fifth month after expecting a weeks‑long conflict. Advisers say the war has contributed to higher prices, lower approval ratings and the deaths of more than a dozen U.S. service members; they worry it is consuming his presidency and weakening Republican prospects ahead of the midterms. Sources say Trump believes Tehran only understands force and is in 'retaliation mode,' and sees few viable options beyond continued strikes."
+    },
+    {
+      "id": "mkt:019f91b5-d375-7aab-8e76-c0ec05c9aa05",
+      "time": "2026-07-24 09:20:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "PBOC conducted CNY 89 billion 7-day reverse repo today; bids CNY 89 billion, allotment CNY 89 billion; rate 1.40%, unchanged."
+    },
+    {
+      "id": "5005656",
+      "time": "2026-07-24 09:20:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：全年365天，每天24小時隨時與美國方面保持聯絡。"
+    },
     {
       "id": "mkt:019f91b4-c0cc-7aab-8e76-bf38e9bd6030",
       "time": "2026-07-24 09:19:29",
@@ -165079,153 +165240,6 @@
         "SZSE Component"
       ],
       "text": "At the open, China’s A-share market slipped: Shanghai Composite down 0.44%, Shenzhen Composite Index down 0.97% and ChiNext Index down 1.36%; storage‑chip and CRO stocks led declines."
-    },
-    {
-      "id": "4993199",
-      "time": "2026-07-17 09:25:13",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指低開，滬指跌0.44％，深成指跌0.97％，創業板跌1.36％。"
-    },
-    {
-      "id": "4993198",
-      "time": "2026-07-17 09:24:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普威脅要吊銷ABC和NBC的電視牌照。"
-    },
-    {
-      "id": "mkt:019f6dac-7c5b-7aab-8dd4-eb9f23f1cc91",
-      "time": "2026-07-17 09:24:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "MOFCOM spokesperson responded to reporters' questions on the UK government's nationalisation of British steel."
-    },
-    {
-      "id": "4993197",
-      "time": "2026-07-17 09:22:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【商務部新聞發言人就英國政府將英國鋼鐵國有化答記者問】有記者問：7月16日，英國政府宣佈已透過相關立法，將中國敬業集團旗下的英國鋼鐵公司國有化。請問中方對此有何評論？答：中方對英政府相關決定表示堅決反對和強烈不滿。英鋼在敬業收購之前就已多年虧損。敬業收購後對英鋼注入鉅額資金，使公司經營得以維繫，就業崗位得以保留。英方罔顧敬業對英經濟社會做出的重要貢獻，以國家安全之名，強行接管、進而對英鋼實施國有化，嚴重損害了敬業的正當權益，嚴重挫傷了中國企業對英投資信心。中方敦促英國政府遵守相關國際規則，切實履行中英投資保護協定有關義務，公平公正對待在英中資企業，充分保障其正當合法權益。中方將密切關注事件進展，支援中國企業運用法律手段維權，並將採取有力措施堅定維護中國企業利益。"
-    },
-    {
-      "id": "4993196",
-      "time": "2026-07-17 09:22:02",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放4,305.0億元人民幣。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202607173809903961",
-      "time": "2026-07-17 09:21:32",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展4505億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "4993195",
-      "time": "2026-07-17 09:21:29",
-      "tags": [],
-      "text": "港股恒指高開漲0.06％，國企指數漲0.2％，恒生科技指數開跌0.05%，智譜開跌12.14%。"
-    },
-    {
-      "id": "mkt:019f6daa-0f44-7aab-8dd4-e1ccbcb40b1a",
-      "time": "2026-07-17 09:21:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index"
-      ],
-      "text": "Hong Kong open July 17: Hang Seng Index (HSI) +13.94 pts (+0.06%) at 25,022.54; Hang Seng Tech Index -2.37 pts (-0.05%) at 4,832.07; Hang Seng China Enterprises Index (HSCEI) +16.53 pts (+0.20%) at 8,334.67; Red Chip Index +4.68 pts (+0.12%) at 3,996.06."
-    },
-    {
-      "id": "mkt:019f6da9-fa59-7aab-8dd4-dbf84fb07d31",
-      "time": "2026-07-17 09:21:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Tata Electronics to start wafer production at 90nm; India chip push faces headwinds】Tata Electronics plans to begin wafer production on a 90nm process at a planned large-scale fab in Dholera, Gujarat, people familiar said. 90nm is a mature node primarily used for low-end industrial and automotive chips and faces a risk of obsolescence over the next few years. The move is more conservative than Tata’s annual report for the year to March 2025, which had cited 28nm as the intended starting point for its chip-making business. The decision highlights execution and technology-capability challenges for India’s effort to build a domestic semiconductor industry from scratch."
-    },
-    {
-      "id": "mkt:019f6da9-f74d-7aab-8dd4-d19854de8976",
-      "time": "2026-07-17 09:21:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "PBOC conducted CNY 450.5 bln of 7-day reverse repos today; bids and allotments both CNY 450.5 bln; operation rate 1.40%, unchanged."
-    },
-    {
-      "id": "te:markets:567688",
-      "time": "2026-07-17 09:21:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Set for Weekly Fall — The dollar index steadied around 100.7 on Friday but remained on track for a weekly decline, as softer-than-expected US inflation prompted traders to scale back expectations of near-term Federal Reserve rate hikes, although the escalating conflict between the US and Iran continued to fuel inflation concerns. The US launched multiple strikes against Iran this week, while Tehran retaliated by targeting US bases in neighboring countries. Economic data released earlier this week showed US consumer inflation increased less than expected in June, while producer prices unexpectedly fell. Retail sales also rose in line with forecasts, as lower gasoline prices weighed on receipts at fuel stations, while spending at motor vehicle dealers and online retailers remained strong. Meanwhile, initial jobless claims dropped to a two-month low of 208K. Markets have now largely ruled out a Fed rate hike this month, though expectations remain split over the possibility of a move in September."
-    },
-    {
-      "id": "mkt:019f6da9-e519-7aab-8dd4-cbb69f03c434",
-      "time": "2026-07-17 09:21:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "02513.HK",
-        "Impact bearish",
-        "06127.HK"
-      ],
-      "text": "Hong Kong stocks opened: HSI 0.06% higher, Hang Seng Tech Index 0.05% lower. Zhipu (02513.HK) down 12.14% at the open; Zhaoyan Xinyao (06127.HK) down 1.16% at the open."
-    },
-    {
-      "id": "4993194",
-      "time": "2026-07-17 09:21:16",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行開展4505億元7天期逆回購操作，利率1.40%，持平上次。"
-    },
-    {
-      "id": "mkt:019f6da9-92c5-7aab-8dd4-c598c0eb8ee4",
-      "time": "2026-07-17 09:20:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENC reported a magnitude 3.9 earthquake at 09:08 on July 17 in Haixi Prefecture, Qinghai (37.81°N, 95.57°E); depth 10 km."
-    },
-    {
-      "id": "4993193",
-      "time": "2026-07-17 09:20:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "30年期日本國債<JP30YTN=JBTC>收益率下跌1個基點，至3.820%。"
     }
   ]
 }
