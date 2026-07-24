@@ -1,7 +1,191 @@
 {
   "date": "2026-07-24",
-  "count": 785,
+  "count": 806,
   "items": [
+    {
+      "id": "mkt:019f91c1-1241-7aab-8e77-4247a1e61af2",
+      "time": "2026-07-24 09:32:57",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【China index futures open】China equity index futures opened lower: CSI 500 (IC) most-active contract -1.70%, CSI 1000 (IM) -1.65%, CSI 300 (IF) -1.04%, SSE 50 (IH) -0.67%."
+    },
+    {
+      "id": "mkt:019f91c0-f5e4-7aab-8e77-3b0848c34493",
+      "time": "2026-07-24 09:32:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures open】China government-bond futures opened lower. Most-active contracts: 2-year (TS) down 0.01%, 5-year (TF) down 0.02%, 10-year (T) down 0.03%, 30-year (TL) down 0.11%."
+    },
+    {
+      "id": "mkt:019f91c0-d2be-7aab-8e77-33f853417bc3",
+      "time": "2026-07-24 09:32:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "07366.HK",
+        "Impact bullish",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Southern's 2x short Tesla product (07366.HK) rose more than 15% after reports that Tesla's quarterly profit missed expectations and its free cash flow turned negative for the first time in over two years."
+    },
+    {
+      "id": "5005686",
+      "time": "2026-07-24 09:32:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "南方兩倍做空特斯拉(07366.HK)漲超15%；訊息面上，特斯拉季度利潤未達預期且自由現金流逾兩年來首度轉負。"
+    },
+    {
+      "id": "mkt:019f91c0-a07c-7aab-8e77-2bd765262e76",
+      "time": "2026-07-24 09:32:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NBS: Mid-July live hog (three-way crossbred) price up 0.9% MoM at 11 yuan/kg】China's National Bureau of Statistics said the mid-July price of live hogs (three-way crossbred) was 11 yuan/kg, up 0.9% from early July. NBS monitoring of 9 major categories across 50 key production-material markets showed 26 prices rose, 19 fell and 5 were unchanged."
+    },
+    {
+      "id": "5005685",
+      "time": "2026-07-24 09:32:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國家統計局：7月中旬生豬（外三元）價格環比增長0.9%】據對全國流通領域9大類50種重要生產資料市場價格的監測顯示，2026年7月中旬與7月上旬相比，26種產品價格上漲，19種下降，5種持平。其中生豬（外三元）價格為11元/千克，環比增長0.9%。"
+    },
+    {
+      "id": "5005684",
+      "time": "2026-07-24 09:31:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2％，成分股中，源傑科技跌5.5％，華虹宏力跌4.7％，生益電子跌3.8％，佰維儲存跌3.7％。"
+    },
+    {
+      "id": "mkt:019f91bf-06b2-7aab-8e77-21b10c01e9bc",
+      "time": "2026-07-24 09:30:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-shares humanoid-robotics sector opened lower; Lude Xiebo fell nearly 6%, Top Group slipped over 4%, while Sanhua Zhikong, Haozhi Jidian, Guoji Jinggong and Buke Co. also declined."
+    },
+    {
+      "id": "5005683",
+      "time": "2026-07-24 09:30:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數下跌1%至4,679.00點。"
+    },
+    {
+      "id": "5005682",
+      "time": "2026-07-24 09:30:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.04%，現報3502.473點；上證指數跌0.69%，現報3850.023點；深證成指跌1.73%，現報13878.769點。"
+    },
+    {
+      "id": "5005681",
+      "time": "2026-07-24 09:30:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌2%，現報7450.40點。"
+    },
+    {
+      "id": "5005680",
+      "time": "2026-07-24 09:30:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內跌1%，現報4612.40點。"
+    },
+    {
+      "id": "5005679",
+      "time": "2026-07-24 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.08%， 10年期主力合約跌0.02%， 5年期主力合約跌0.02%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "5005678",
+      "time": "2026-07-24 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.34%，成分股中，戈碧迦跌4.80%，聚星科技跌4.10%，雲星宇跌3.28%，則成電子跌2.56%。"
+    },
+    {
+      "id": "5005677",
+      "time": "2026-07-24 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.31%，成分股中，華虹宏力跌4.07%，盛科通訊跌3.56%，源傑科技跌3.11%，芯原股份跌2.69%。"
+    },
+    {
+      "id": "5005676",
+      "time": "2026-07-24 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌1.18%， 滬深300指數期貨連續跌0.85%， 中證500指數期貨連續跌1.07%， 上證50指數期貨連續跌0.18%。"
+    },
+    {
+      "id": "5005675",
+      "time": "2026-07-24 09:29:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AMD：第二代AI伺服器Helios已全面量產，預計三季末開始出貨】AMD執行長蘇姿豐當地時間7月23日表示，搭載MI455X AI加速器和Venice處理器的第二代AI伺服器Helios已進入全面量產階段，預計將於第三季末開始出貨。"
+    },
+    {
+      "id": "5005674",
+      "time": "2026-07-24 09:29:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內跌4%，現報395.50元。"
+    },
+    {
+      "id": "mkt:019f91bd-b907-7aab-8e77-1dab838961d3",
+      "time": "2026-07-24 09:29:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share precious metals sector opened sharply lower; Hunan Baiyin opened down more than 7%, with Shanjin International, Chifeng Gold, Xiaocheng Technology and Western Gold also sliding."
+    },
+    {
+      "id": "5005673",
+      "time": "2026-07-24 09:29:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深交所：“肇民轉債”盤中臨時停牌】深交所公告，“肇民轉債”（123275）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
+    },
     {
       "id": "5005672",
       "time": "2026-07-24 09:29:00",
@@ -100,6 +284,15 @@
         "Brent"
       ],
       "text": "CENTCOM said strike targets included Iran’s military command centers, drone storage facilities, communications networks, coastal surveillance posts and maritime combat assets, aimed at further degrading Iran’s ability to threaten civilian mariners and merchant vessels transiting the Strait of Hormuz."
+    },
+    {
+      "id": "em:qqyh_ozyh:202607243819836546",
+      "time": "2026-07-24 09:26:39",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行研究調整準備金制度方案以減輕財務損失】據報道，知情人士稱，歐洲央行正研究多種方案以減輕其財務損失，圍繞這一議題的討論預計將在秋季進入關鍵階段。歐洲央行行長拉加德7月23日證實，決策者將討論提高法定準備金率，即增加銀行必須存放在無息賬戶中的資金。其他選項還包括對部分超額準備金停止付息，甚至向銀行收取費用。這些措施將減輕各國央行負擔，以部分抵消歐洲央行過去十年刺激政策帶來的損失。"
     },
     {
       "id": "5005666",

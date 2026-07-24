@@ -1,7 +1,191 @@
 {
-  "updated": "2026-07-24 09:29:33",
-  "count": 18034,
+  "updated": "2026-07-24 09:33:29",
+  "count": 18028,
   "items": [
+    {
+      "id": "mkt:019f91c1-1241-7aab-8e77-4247a1e61af2",
+      "time": "2026-07-24 09:32:57",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【China index futures open】China equity index futures opened lower: CSI 500 (IC) most-active contract -1.70%, CSI 1000 (IM) -1.65%, CSI 300 (IF) -1.04%, SSE 50 (IH) -0.67%."
+    },
+    {
+      "id": "mkt:019f91c0-f5e4-7aab-8e77-3b0848c34493",
+      "time": "2026-07-24 09:32:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures open】China government-bond futures opened lower. Most-active contracts: 2-year (TS) down 0.01%, 5-year (TF) down 0.02%, 10-year (T) down 0.03%, 30-year (TL) down 0.11%."
+    },
+    {
+      "id": "mkt:019f91c0-d2be-7aab-8e77-33f853417bc3",
+      "time": "2026-07-24 09:32:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "07366.HK",
+        "Impact bullish",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Southern's 2x short Tesla product (07366.HK) rose more than 15% after reports that Tesla's quarterly profit missed expectations and its free cash flow turned negative for the first time in over two years."
+    },
+    {
+      "id": "5005686",
+      "time": "2026-07-24 09:32:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "南方兩倍做空特斯拉(07366.HK)漲超15%；訊息面上，特斯拉季度利潤未達預期且自由現金流逾兩年來首度轉負。"
+    },
+    {
+      "id": "mkt:019f91c0-a07c-7aab-8e77-2bd765262e76",
+      "time": "2026-07-24 09:32:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NBS: Mid-July live hog (three-way crossbred) price up 0.9% MoM at 11 yuan/kg】China's National Bureau of Statistics said the mid-July price of live hogs (three-way crossbred) was 11 yuan/kg, up 0.9% from early July. NBS monitoring of 9 major categories across 50 key production-material markets showed 26 prices rose, 19 fell and 5 were unchanged."
+    },
+    {
+      "id": "5005685",
+      "time": "2026-07-24 09:32:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國家統計局：7月中旬生豬（外三元）價格環比增長0.9%】據對全國流通領域9大類50種重要生產資料市場價格的監測顯示，2026年7月中旬與7月上旬相比，26種產品價格上漲，19種下降，5種持平。其中生豬（外三元）價格為11元/千克，環比增長0.9%。"
+    },
+    {
+      "id": "5005684",
+      "time": "2026-07-24 09:31:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2％，成分股中，源傑科技跌5.5％，華虹宏力跌4.7％，生益電子跌3.8％，佰維儲存跌3.7％。"
+    },
+    {
+      "id": "mkt:019f91bf-06b2-7aab-8e77-21b10c01e9bc",
+      "time": "2026-07-24 09:30:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-shares humanoid-robotics sector opened lower; Lude Xiebo fell nearly 6%, Top Group slipped over 4%, while Sanhua Zhikong, Haozhi Jidian, Guoji Jinggong and Buke Co. also declined."
+    },
+    {
+      "id": "5005683",
+      "time": "2026-07-24 09:30:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數下跌1%至4,679.00點。"
+    },
+    {
+      "id": "5005682",
+      "time": "2026-07-24 09:30:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.04%，現報3502.473點；上證指數跌0.69%，現報3850.023點；深證成指跌1.73%，現報13878.769點。"
+    },
+    {
+      "id": "5005681",
+      "time": "2026-07-24 09:30:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌2%，現報7450.40點。"
+    },
+    {
+      "id": "5005680",
+      "time": "2026-07-24 09:30:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內跌1%，現報4612.40點。"
+    },
+    {
+      "id": "5005679",
+      "time": "2026-07-24 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.08%， 10年期主力合約跌0.02%， 5年期主力合約跌0.02%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "5005678",
+      "time": "2026-07-24 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.34%，成分股中，戈碧迦跌4.80%，聚星科技跌4.10%，雲星宇跌3.28%，則成電子跌2.56%。"
+    },
+    {
+      "id": "5005677",
+      "time": "2026-07-24 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.31%，成分股中，華虹宏力跌4.07%，盛科通訊跌3.56%，源傑科技跌3.11%，芯原股份跌2.69%。"
+    },
+    {
+      "id": "5005676",
+      "time": "2026-07-24 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌1.18%， 滬深300指數期貨連續跌0.85%， 中證500指數期貨連續跌1.07%， 上證50指數期貨連續跌0.18%。"
+    },
+    {
+      "id": "5005675",
+      "time": "2026-07-24 09:29:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AMD：第二代AI伺服器Helios已全面量產，預計三季末開始出貨】AMD執行長蘇姿豐當地時間7月23日表示，搭載MI455X AI加速器和Venice處理器的第二代AI伺服器Helios已進入全面量產階段，預計將於第三季末開始出貨。"
+    },
+    {
+      "id": "5005674",
+      "time": "2026-07-24 09:29:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內跌4%，現報395.50元。"
+    },
+    {
+      "id": "mkt:019f91bd-b907-7aab-8e77-1dab838961d3",
+      "time": "2026-07-24 09:29:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share precious metals sector opened sharply lower; Hunan Baiyin opened down more than 7%, with Shanjin International, Chifeng Gold, Xiaocheng Technology and Western Gold also sliding."
+    },
+    {
+      "id": "5005673",
+      "time": "2026-07-24 09:29:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深交所：“肇民轉債”盤中臨時停牌】深交所公告，“肇民轉債”（123275）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
+    },
     {
       "id": "5005672",
       "time": "2026-07-24 09:29:00",
@@ -100,6 +284,15 @@
         "Brent"
       ],
       "text": "CENTCOM said strike targets included Iran’s military command centers, drone storage facilities, communications networks, coastal surveillance posts and maritime combat assets, aimed at further degrading Iran’s ability to threaten civilian mariners and merchant vessels transiting the Strait of Hormuz."
+    },
+    {
+      "id": "em:qqyh_ozyh:202607243819836546",
+      "time": "2026-07-24 09:26:39",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行研究調整準備金制度方案以減輕財務損失】據報道，知情人士稱，歐洲央行正研究多種方案以減輕其財務損失，圍繞這一議題的討論預計將在秋季進入關鍵階段。歐洲央行行長拉加德7月23日證實，決策者將討論提高法定準備金率，即增加銀行必須存放在無息賬戶中的資金。其他選項還包括對部分超額準備金停止付息，甚至向銀行收取費用。這些措施將減輕各國央行負擔，以部分抵消歐洲央行過去十年刺激政策帶來的損失。"
     },
     {
       "id": "5005666",
@@ -165051,257 +165244,6 @@
         "焦點"
       ],
       "text": "中證1000指數期貨連續主力合約日內跌1%，現報7477.00點。"
-    },
-    {
-      "id": "4993224",
-      "time": "2026-07-17 09:33:23",
-      "tags": [
-        "市場",
-        "國際",
-        "原創"
-      ],
-      "text": "【UBP將黃金年底目標價下調至4800美元 等待更明確買入訊號】UBP將年底黃金目標價下調至每盎司4800美元，儘管長期看好黃金，但仍暫不增持倉位。目前其黃金配置比例為中性，約為5%，低於今年早些時候的超配水平，UBP亞洲區自主投資組合管理主管Paras Gupta在一次採訪中表示Gupta表示，此前的超配配置“對我們的投資組合構成了最大的風險”。UBP希望看到中東停火協議得以維持，同時通脹和利率走勢更加明朗，然後再增持其倉位。Gupta表示，對目前沒有黃金持倉的投資者來說，金價跌破每盎司4000美元將是一個極具吸引力的入場點。"
-    },
-    {
-      "id": "mkt:019f6db4-ece7-7aab-8dd5-40c3f917cd2b",
-      "time": "2026-07-17 09:33:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's CSI Convertible Bond Index opened down 0.08%. Decliners: Zhengfan CB -4.98%, Weidao CB -3.23%, Luwei CB -2.06%, Huicheng CB -1.92%, Lingkang CB -1.89%. Risers: N Dingtong CB +30.00%, N Huafeng CB +30.00%, Meijin CB +3.79%, Jizhi CB +3.74%, Weixin CB +2.00%."
-    },
-    {
-      "id": "mkt:019f6db4-bd35-7aab-8dd5-39513e7b26e6",
-      "time": "2026-07-17 09:33:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "002185.SZ",
-        "Impact bearish"
-      ],
-      "text": "China A-share storage-chip sector extended losses; Demingli hit limit down for a third straight session, while Huatian Technology, Jiangbolong, Shannon Xinchuang and Baiwei Storage also declined."
-    },
-    {
-      "id": "4993223",
-      "time": "2026-07-17 09:33:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌3％，上證指數跌0.55％，深證成指跌2.10％，儲存晶片板塊延續跌勢。"
-    },
-    {
-      "id": "4993222",
-      "time": "2026-07-17 09:33:08",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【上半年全國鐵路完成固定資產投資3632億元 同比增長2.1%】2026年上半年，鐵路建設優質高效推進，全國鐵路完成固定資產投資3632億元，同比增長2.1%，累計投產新線355.2公里，實現“十五五”良好開局。下一步，國鐵集團將深入貫徹落實黨中央、國務院關於完善現代化綜合交通運輸體系的部署要求，全面落實國家“十五五”規劃《綱要》確定的各項鐵路重點工程建設任務，加快推進重點專案前期工作，科學最佳化在建專案施工組織，提升鐵路投資質量和效益，確保完成全年建設任務，助力經濟社會高質量發展。（中國鐵路）"
-    },
-    {
-      "id": "mkt:019f6db4-9aac-7aab-8dd5-364cf4165d9d",
-      "time": "2026-07-17 09:33:00",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish",
-        "CSI300",
-        "CNH"
-      ],
-      "text": "【China's railways complete 363.2 bln yuan fixed-asset investment in 1H, up 2.1% YoY】China State Railway Group said 1H 2026 fixed-asset investment in railways totaled 363.2 bln yuan, up 2.1% YoY, and 355.2 km of new lines were commissioned. The group said it will accelerate preparatory work on key projects, optimize construction organization of ongoing projects, and boost investment quality and efficiency to ensure completion of annual construction targets under the 15th Five-Year Plan."
-    },
-    {
-      "id": "4993221",
-      "time": "2026-07-17 09:32:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【儲存晶片板塊延續跌勢，德明利連續第三日跌停】儲存晶片板塊延續跌勢，德明利連續第三日跌停，華天科技、江波龍、夏農芯創、佰維儲存跟跌。"
-    },
-    {
-      "id": "mkt:019f6db4-3ac3-7aab-8dd5-2f42f4c8721f",
-      "time": "2026-07-17 09:32:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "FTSE China A50 index futures losses widened to 1%."
-    },
-    {
-      "id": "mkt:019f6db3-f9aa-7aab-8dd5-2170fc88e8b9",
-      "time": "2026-07-17 09:32:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "06809.HK",
-        "Impact bearish"
-      ],
-      "text": "Mainland A-share Lanqi Technology opened over 6% lower again; Hong Kong-listed Lanqi Technology (06809.HK) fell 6.1%."
-    },
-    {
-      "id": "4993220",
-      "time": "2026-07-17 09:32:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指跌2.00%，現報14198.632點；上證指數跌0.55%，現報3860.897點；創業板指跌2.90%，現報3585.535點。"
-    },
-    {
-      "id": "4993219",
-      "time": "2026-07-17 09:32:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達3.06%，成分股中，源傑科技跌10.19%，盛科通訊跌7.91%，瀾起科技跌6.14%，中科飛測跌5.90%。"
-    },
-    {
-      "id": "4993218",
-      "time": "2026-07-17 09:32:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨跌幅擴大至1%。"
-    },
-    {
-      "id": "4993217",
-      "time": "2026-07-17 09:32:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.01%，成分股中，科力股份漲6.03%，安達科技漲3.64%，林泰新材漲2.83%，五新智慧漲2.76%。"
-    },
-    {
-      "id": "4993216",
-      "time": "2026-07-17 09:31:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬深300指數下跌1%至4,650.87點。"
-    },
-    {
-      "id": "4993215",
-      "time": "2026-07-17 09:31:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌1%，現報7781.20點。"
-    },
-    {
-      "id": "4993214",
-      "time": "2026-07-17 09:31:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深300指數期貨連續主力合約日內跌1%，現報4598.20點。"
-    },
-    {
-      "id": "4993213",
-      "time": "2026-07-17 09:31:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2.36%，成分股中，盛科通訊跌8.97%，源傑科技跌7.99%，瀾起科技跌4.85%，佰維儲存跌4.39%。"
-    },
-    {
-      "id": "4993212",
-      "time": "2026-07-17 09:31:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科創50指數跌幅擴大至2%】科創50指數跌幅擴大至2%，現報1808.49點。"
-    },
-    {
-      "id": "mkt:019f6db3-2590-7aab-8dd5-1a39b81928fc",
-      "time": "2026-07-17 09:31:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chinese equity index futures open】Morning open: CSI 300 index futures (IF) most‑active contract down 0.50%; SSE 50 index futures (IH) most‑active contract down 0.30%; CSI 500 index futures (IC) most‑active contract down 0.81%; CSI 1000 index futures (IM) most‑active contract down 0.86%."
-    },
-    {
-      "id": "mkt:019f6db3-251a-7aab-8dd5-154ce95493fa",
-      "time": "2026-07-17 09:31:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China government bond futures open】2-year government bond futures (TS) main contract fell 0.01%; 5-year (TF) main contract unchanged; 10-year (T) unchanged; 30-year (TL) main contract down 0.02% at the morning open."
-    },
-    {
-      "id": "mkt:019f6db3-0ccc-7aab-8dd5-0bb34d9888a0",
-      "time": "2026-07-17 09:31:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SZSE Component",
-        "Impact bearish"
-      ],
-      "text": "China's Shenzhen Composite Index widened losses to 1% in early trade; the ChiNext Index extended declines to 2%."
-    },
-    {
-      "id": "4993211",
-      "time": "2026-07-17 09:31:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.60%，成分股中，源傑科技跌6.26%，盛科通訊跌5.70%，佰維儲存跌4.11%，中科飛測跌3.90%。"
-    },
-    {
-      "id": "4993210",
-      "time": "2026-07-17 09:30:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌2.01%，現報3618.130點；上證指數跌0.38%，現報3867.718點；深證成指跌1.39%，現報14287.958點。"
-    },
-    {
-      "id": "4993209",
-      "time": "2026-07-17 09:30:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：三菱電機尋求在9月前與東芝和羅姆達成協議，合併其功率半導體業務。"
-    },
-    {
-      "id": "4993208",
-      "time": "2026-07-17 09:30:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指跌1.03%，現報14339.657點；上證指數跌0.36%，現報3868.434點；創業板指跌1.57%，現報3634.306點。"
-    },
-    {
-      "id": "4993207",
-      "time": "2026-07-17 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.46%， 滬深300指數期貨連續跌0.47%， 中證500指數期貨連續跌0.34%， 上證50指數期貨連續跌0.41%。"
-    },
-    {
-      "id": "4993206",
-      "time": "2026-07-17 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約基本持平， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約基本持平。"
     }
   ]
 }
