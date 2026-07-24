@@ -1,7 +1,107 @@
 {
   "date": "2026-07-24",
-  "count": 580,
+  "count": 591,
   "items": [
+    {
+      "id": "mkt:019f916f-b2ba-7aab-8e75-8e53aa93333c",
+      "time": "2026-07-24 08:04:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK opens 'Northern Downing Street No.10' in Manchester】The prime minister's office said on the 23rd it has opened a 'Northern Downing Street No.10' in Manchester. The facility, in the city-centre Heron Building, will be a regular workplace for Prime Minister Burnham and other cabinet ministers and will coordinate local economic development and devolution policy. The move is described as an effort to shift economic decision-making away from London. Burnham will chair the restarted National Economic Council's first meeting at the site on the 24th; senior cabinet members and English regional mayors are scheduled to attend. The office said Burnham is expected to work from Manchester on a weekly basis going forward."
+    },
+    {
+      "id": "5005548",
+      "time": "2026-07-24 08:03:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國將燃油稅減免政策延長兩個月至9月底。"
+    },
+    {
+      "id": "5005547",
+      "time": "2026-07-24 08:02:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心稱，熱帶風暴伯莎減弱為熱帶低氣壓。"
+    },
+    {
+      "id": "5005546",
+      "time": "2026-07-24 08:01:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數開盤下跌1.3%，報65584.25點，市場遭遇拋售。"
+    },
+    {
+      "id": "mkt:019f916d-713b-7aab-8e75-87409d6befb1",
+      "time": "2026-07-24 08:01:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【KOSPI opens 1.5% lower】KOSPI fell to 7,000, down 1.55% intraday. SK Hynix -1.8%, Samsung Electronics -1.4%. South Korean regulators advanced by three days an increase in cash deposit requirements for single-stock leveraged ETF trading."
+    },
+    {
+      "id": "5005545",
+      "time": "2026-07-24 08:01:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上升1.5個基點，至2.015%。"
+    },
+    {
+      "id": "mkt:019f916d-1cff-7aab-8e75-7af8c9d781d4",
+      "time": "2026-07-24 08:01:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 831.52 points, or 1.25%, at 65,591.08 on Friday, July 24."
+    },
+    {
+      "id": "5005544",
+      "time": "2026-07-24 08:00:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日韓股市開盤】日經指數開盤下跌1.3％，報65584.25點。 韓國綜合股價指數（KOSPI）開盤下跌1.4％，至7000.78點。"
+    },
+    {
+      "id": "5005543",
+      "time": "2026-07-24 08:00:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股定增一覽：5家公司披露定增進展】Wind資料顯示，7月24日，A股共5家公司釋出定增相關公告。其中1家公司披露股票定增預案，3家定增預案獲股東大會透過。從當日最新披露定增預案來看，ST宏達定增募資預案金額最高，擬定增不超6.0億元。今年以來，已有103家公司公告定增方案已完成，37家公司定增金額超10億元。具體來看，中國國航、中國神華、松發股份定增募資金額最高，募資總額分別為200.0億元、200.0億元、70.0億元。"
+    },
+    {
+      "id": "5005542",
+      "time": "2026-07-24 07:59:02",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：谷歌有望透過組織調整、算力供給改善、AI生態優勢實現追趕】中信證券研報稱，我們認為谷歌已經構建起資料、算力、模型、應用、商業化五位一體的全棧AI護城河，並透過廣告、訂閱、雲端計算等業務實現高效AI變現，疊加生態賦能價值和降本增效空間，具備更好的AI受益邏輯。儘管當下市場對於谷歌大模型研發節奏存在質疑，但我們認為谷歌有望透過組織調整、算力供給改善、AI生態優勢實現追趕，多模態及世界模型的前沿探索仍預留了反超空間。"
+    },
+    {
+      "id": "5005541",
+      "time": "2026-07-24 07:57:34",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：當前生豬企業頭均市值已處於相對低位，繼續推薦板塊】中信證券研報稱，26H1豬價低位震盪，板塊深度虧損，上市公司成本分化較大。當前行業虧損持續，現金流壓力較大，同時政策約束持續強化，調控效果逐步落地，疊加極端天氣可能的影響，我們預估26H2去產能有望持續，2027年豬價景氣可期。當前生豬企業頭均市值已處於相對低位，繼續推薦板塊。"
+    },
     {
       "id": "5005540",
       "time": "2026-07-24 07:57:08",
