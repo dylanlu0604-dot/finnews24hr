@@ -1,7 +1,101 @@
 {
   "date": "2026-07-24",
-  "count": 1402,
+  "count": 1412,
   "items": [
+    {
+      "id": "te:economy:569614",
+      "time": "2026-07-24 14:24:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Sweden Producer Inflation Hits Over 3-Year High — Producer prices in Sweden climbed 7.4% year-on-year in June 2026, accelerating from 6.6% in May and marking the fourth consecutive monthly gain as well as the fastest pace since February 2023. The increase was driven primarily by persistently higher energy prices (37.7% vs 32.7% in May). Prices for capital goods also rose at a slightly faster pace (1.5% vs 1.4%), while the decline in consumer goods prices eased (-1.8% vs -2.7%). Excluding energy-related products, producer prices rose by 3.3%, accelerating from a 2.7% increase in the prior month. Domestic prices grew by 7.9%, while import prices climbed by 7.0%. On a monthly basis, producer prices went up by 0.1% in June, following a 1.3% gain in previous month. \"Although the monthly rate of PPI in June does not show any larger change, the yearly rate of 7,4 percent indicate an upward trend\", said Carl Mårtensson, statistician at Statistics Sweden."
+    },
+    {
+      "id": "mkt:019f92ca-e0a1-7aab-8e7c-b69687f4b04d",
+      "time": "2026-07-24 14:23:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Energy Administration official on China Green Certificate Price Index】The China Green Certificate Price Index is compiled from nationwide green-certificate transaction prices, using the national average price for a specified period as the base and standardized into a composite, nationwide authoritative price index. It is designed to objectively reflect the supply-demand balance and price trend in China’s green certificate market. The index uses January 2025 as the base period; the initial release provides monthly index values from January 2025 onward and the NEA will publish the index on a regular monthly basis."
+    },
+    {
+      "id": "5006083",
+      "time": "2026-07-24 14:22:45",
+      "tags": [
+        "行業"
+      ],
+      "text": "【國家能源局：6月中國綠證價格指數收於181.0點，同比上漲23.2%】2026年6月，中國綠證價格指數收於181.0點（以2025年1月為基期100點），環比下跌0.2%，同比上漲23.2%。"
+    },
+    {
+      "id": "5006082",
+      "time": "2026-07-24 14:22:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【直真科技新設子公司 含多項AI相關業務】企查查APP顯示，近日，深圳雙雋科技有限公司成立，經營範圍包含人工智慧基礎資源與技術平臺；人工智慧行業應用系統整合服務；人工智慧公共資料平臺；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由直真科技(003007)全資持股。"
+    },
+    {
+      "id": "mkt:019f92c9-e331-7aab-8e7c-acfb749ab6a7",
+      "time": "2026-07-24 14:22:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan 40-year government bond yield rose 10 bps to 4.01%."
+    },
+    {
+      "id": "5006081",
+      "time": "2026-07-24 14:21:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【煤炭板塊震盪走弱 大有能源觸及跌停】午後煤炭板塊震盪走弱，大有能源觸及跌停，兗礦能源、遼寧能源、鄭州煤電、晉控煤業、山煤國際均跌超5%。"
+    },
+    {
+      "id": "mkt:019f92c9-61f3-7aab-8e7c-a59351721f0c",
+      "time": "2026-07-24 14:21:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS"
+      ],
+      "text": "ZDNet reports SK Hynix is accelerating development of 3D-stacked DRAM, regarded as next-generation DRAM for edge/on-device AI. The company has begun recruiting talent and is co-designing the technology with a US customer."
+    },
+    {
+      "id": "mkt:019f92c9-3702-7aab-8e7c-9fa97b9591e2",
+      "time": "2026-07-24 14:21:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australian S&P/ASX 200 index closed down 69.60 points, or 0.79%, at 8,769.40 on Friday, July 24."
+    },
+    {
+      "id": "5006080",
+      "time": "2026-07-24 14:21:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯想等在貴州成立新科技公司 註冊資本2000萬】天眼查App顯示，近日，貴州新聯智想科技有限公司成立，法定代表人為吳明疆，註冊資本2000萬人民幣，經營範圍包括人工智慧應用軟體開發、大資料服務、資訊系統整合服務等。股東資訊顯示，該公司由聯想旗下廣西聯想智聯資訊科技有限公司、海南黔源投資有限公司、海南漪迪能源科技有限公司共同持股。"
+    },
+    {
+      "id": "5006079",
+      "time": "2026-07-24 14:20:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲議息會議臨近，期權交易員一個月內空前看多美元】受中東地緣緊張局勢影響，疊加下週美聯儲政策決議落地前的市場情緒，美元期權看漲情緒升溫。油價走高拖累美債收益率下行，美元有望創下一個月以來表現最佳單週。利率互換定價顯示，美聯儲下次議息會議加息 25 個基點的機率為 37%。偏鷹政策預期與利差優勢助推美元期權看漲押注，一週期風險反轉指標升至 27 個基點，創下近一個月最高看多水平。"
+    },
     {
       "id": "mkt:019f92c7-b09f-7aab-8e7c-94769e7a6f7d",
       "time": "2026-07-24 14:19:48",

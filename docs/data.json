@@ -1,7 +1,101 @@
 {
-  "updated": "2026-07-24 14:21:05",
+  "updated": "2026-07-24 14:25:13",
   "count": 17960,
   "items": [
+    {
+      "id": "te:economy:569614",
+      "time": "2026-07-24 14:24:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Sweden Producer Inflation Hits Over 3-Year High — Producer prices in Sweden climbed 7.4% year-on-year in June 2026, accelerating from 6.6% in May and marking the fourth consecutive monthly gain as well as the fastest pace since February 2023. The increase was driven primarily by persistently higher energy prices (37.7% vs 32.7% in May). Prices for capital goods also rose at a slightly faster pace (1.5% vs 1.4%), while the decline in consumer goods prices eased (-1.8% vs -2.7%). Excluding energy-related products, producer prices rose by 3.3%, accelerating from a 2.7% increase in the prior month. Domestic prices grew by 7.9%, while import prices climbed by 7.0%. On a monthly basis, producer prices went up by 0.1% in June, following a 1.3% gain in previous month. \"Although the monthly rate of PPI in June does not show any larger change, the yearly rate of 7,4 percent indicate an upward trend\", said Carl Mårtensson, statistician at Statistics Sweden."
+    },
+    {
+      "id": "mkt:019f92ca-e0a1-7aab-8e7c-b69687f4b04d",
+      "time": "2026-07-24 14:23:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Energy Administration official on China Green Certificate Price Index】The China Green Certificate Price Index is compiled from nationwide green-certificate transaction prices, using the national average price for a specified period as the base and standardized into a composite, nationwide authoritative price index. It is designed to objectively reflect the supply-demand balance and price trend in China’s green certificate market. The index uses January 2025 as the base period; the initial release provides monthly index values from January 2025 onward and the NEA will publish the index on a regular monthly basis."
+    },
+    {
+      "id": "5006083",
+      "time": "2026-07-24 14:22:45",
+      "tags": [
+        "行業"
+      ],
+      "text": "【國家能源局：6月中國綠證價格指數收於181.0點，同比上漲23.2%】2026年6月，中國綠證價格指數收於181.0點（以2025年1月為基期100點），環比下跌0.2%，同比上漲23.2%。"
+    },
+    {
+      "id": "5006082",
+      "time": "2026-07-24 14:22:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【直真科技新設子公司 含多項AI相關業務】企查查APP顯示，近日，深圳雙雋科技有限公司成立，經營範圍包含人工智慧基礎資源與技術平臺；人工智慧行業應用系統整合服務；人工智慧公共資料平臺；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由直真科技(003007)全資持股。"
+    },
+    {
+      "id": "mkt:019f92c9-e331-7aab-8e7c-acfb749ab6a7",
+      "time": "2026-07-24 14:22:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan 40-year government bond yield rose 10 bps to 4.01%."
+    },
+    {
+      "id": "5006081",
+      "time": "2026-07-24 14:21:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【煤炭板塊震盪走弱 大有能源觸及跌停】午後煤炭板塊震盪走弱，大有能源觸及跌停，兗礦能源、遼寧能源、鄭州煤電、晉控煤業、山煤國際均跌超5%。"
+    },
+    {
+      "id": "mkt:019f92c9-61f3-7aab-8e7c-a59351721f0c",
+      "time": "2026-07-24 14:21:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS"
+      ],
+      "text": "ZDNet reports SK Hynix is accelerating development of 3D-stacked DRAM, regarded as next-generation DRAM for edge/on-device AI. The company has begun recruiting talent and is co-designing the technology with a US customer."
+    },
+    {
+      "id": "mkt:019f92c9-3702-7aab-8e7c-9fa97b9591e2",
+      "time": "2026-07-24 14:21:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australian S&P/ASX 200 index closed down 69.60 points, or 0.79%, at 8,769.40 on Friday, July 24."
+    },
+    {
+      "id": "5006080",
+      "time": "2026-07-24 14:21:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯想等在貴州成立新科技公司 註冊資本2000萬】天眼查App顯示，近日，貴州新聯智想科技有限公司成立，法定代表人為吳明疆，註冊資本2000萬人民幣，經營範圍包括人工智慧應用軟體開發、大資料服務、資訊系統整合服務等。股東資訊顯示，該公司由聯想旗下廣西聯想智聯資訊科技有限公司、海南黔源投資有限公司、海南漪迪能源科技有限公司共同持股。"
+    },
+    {
+      "id": "5006079",
+      "time": "2026-07-24 14:20:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲議息會議臨近，期權交易員一個月內空前看多美元】受中東地緣緊張局勢影響，疊加下週美聯儲政策決議落地前的市場情緒，美元期權看漲情緒升溫。油價走高拖累美債收益率下行，美元有望創下一個月以來表現最佳單週。利率互換定價顯示，美聯儲下次議息會議加息 25 個基點的機率為 37%。偏鷹政策預期與利差優勢助推美元期權看漲押注，一週期風險反轉指標升至 27 個基點，創下近一個月最高看多水平。"
+    },
     {
       "id": "mkt:019f92c7-b09f-7aab-8e7c-94769e7a6f7d",
       "time": "2026-07-24 14:19:48",
@@ -164559,98 +164653,6 @@
         "其他"
       ],
       "text": "【中際旭創成交額超500億元】7月17日下午，中際旭創成交額超500億元，現跌8%。"
-    },
-    {
-      "id": "4993692",
-      "time": "2026-07-17 14:24:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "沃爾沃汽車首席財務官：我們看到間接成本同比顯著改善，這實際上抵消了市場不利因素的影響。"
-    },
-    {
-      "id": "4993691",
-      "time": "2026-07-17 14:23:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "沃爾沃汽車首席財務官：去年我們出售了額度更高的二氧化碳排放額度，今年不會再有這種情況了。"
-    },
-    {
-      "id": "4993690",
-      "time": "2026-07-17 14:23:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【石泰峰在河南調研時強調 持續一體推進學查改 確保學習教育質效】7月15日至16日，中共中央政治局委員、中央組織部部長石泰峰在河南調研時強調，要深入學習貫徹習近平總書記“七一”重要講話精神，學習貫徹習近平黨建思想，深刻領悟“兩個確立”的決定性意義，堅決做到“兩個維護”，以更高標準更嚴要求抓好樹立和踐行正確政績觀學習教育，擰緊發條、保持力度，善作善成、善始善終。（新華社）"
-    },
-    {
-      "id": "te:markets:567770",
-      "time": "2026-07-17 14:23:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Head for Lower Open — European equity markets were set to open lower on Friday as a global selloff in semiconductor stocks gathered pace, driven by mounting concerns over heavy AI-related spending and stretched valuations. Investors also continued to assess the impact of the escalating conflict between the US and Iran, which pushed oil prices higher and kept inflationary pressures and interest rate concerns firmly in focus. In Europe, attention will turn to final Eurozone inflation data for June, along with current account figures for both the euro area and Italy. On the corporate front, investors will monitor earnings reports from Novartis, Burberry Group, Volvo, Swedbank, and Danske Bank, among others. In premarket trading, Euro Stoxx 50 futures were down 0.9%, while Stoxx 600 futures declined 0.7%."
-    },
-    {
-      "id": "mkt:019f6ebd-efc9-7aab-8ddc-240965b6988d",
-      "time": "2026-07-17 14:22:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share chip supply chain staged a localized rebound: Youyan Silicon rose over 10%; Changdian Technology surged, at one point up more than 8% intraday; Hua Hong Hongli, Tuojing Technology, Yandong Micro and AMEC also rallied."
-    },
-    {
-      "id": "4993689",
-      "time": "2026-07-17 14:22:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鋰電專用裝置板塊重挫】鋰電專用裝置板塊重挫，龍鑫智慧跌超18%，驕成超聲、星雲股份、杭可科技、利元亨等跟跌。"
-    },
-    {
-      "id": "4993688",
-      "time": "2026-07-17 14:22:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "沃爾沃汽車首席商務官：我們已在以德國為起點的歐洲核心市場推行一項商業業績最佳化專案，我們認為該專案將對我們未來在這一市場的表現產生重大影響。"
-    },
-    {
-      "id": "4993687",
-      "time": "2026-07-17 14:22:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "據燈塔專業版，截至7月17日，《功夫女足》總票房（含預售）突破10億，成為2026年第6部票房破10億影片。"
-    },
-    {
-      "id": "4993686",
-      "time": "2026-07-17 14:22:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【投資人Michael Burry稱現在是逢低買入香港股票的“好時機”】電影《大空頭》原型、知名投資人Michael Burry建議投資者在香港股市尋找逢低買入機會，港股在今年的全球AI浪潮中表現落後。“現在正是關注香港廉價股票的好時機，隨著韓股、日股和Soxx的光芒逐漸褪去，這些股票應該會有良好表現，”Scion Asset Management創始人Burry週五在X上發帖稱。Burry本月早些時候表示，他加倉了京東股票。"
-    },
-    {
-      "id": "4993685",
-      "time": "2026-07-17 14:21:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "沃爾沃汽車首席商務官：我們還在德國等歐洲主要市場啟動了一項商業績效計劃，我們認為這將對我們在該市場的未來表現產生重大影響。"
     }
   ]
 }
