@@ -1,7 +1,26 @@
 {
   "date": "2026-07-25",
-  "count": 410,
+  "count": 412,
   "items": [
+    {
+      "id": "te:markets:569861",
+      "time": "2026-07-25 06:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Naphtha Falls by 2.79% — Top commodity losers are Naphtha (-2.79%), Heating Oil (-2.67%), Propane (-2.38%), Brent Crude Oil (-2.29%) and Crude Oil WTI (-1.87%). Gains are led by Germany Natural Gas THE (2.30%), Natural Gas UK (2.07%) and Natural Gas EU (1.83%)."
+    },
+    {
+      "id": "5007633",
+      "time": "2026-07-25 06:30:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩名知情人士透露，特朗普總統週五在白宮閉門會見核心幕僚，商議針對伊朗的各類應對方案，其中包括大幅擴大對伊軍事行動的可能性。"
+    },
     {
       "id": "5007632",
       "time": "2026-07-25 06:25:57",
