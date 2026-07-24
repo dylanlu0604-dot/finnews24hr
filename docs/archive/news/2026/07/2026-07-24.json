@@ -1,7 +1,118 @@
 {
   "date": "2026-07-24",
-  "count": 2820,
+  "count": 2833,
   "items": [
+    {
+      "id": "mkt:019f9429-bd84-7aab-8e88-8d9df0d0d93b",
+      "time": "2026-07-24 20:46:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Jordan says it intercepted seven missiles and six drones launched from direction of Iran】Jordan Armed Forces General Command said on the 24th Jordanian air-defence systems and the Royal Jordanian Air Force intercepted and shot down seven missiles and six drones launched from the direction of Iran toward Jordanian territory."
+    },
+    {
+      "id": "5007090",
+      "time": "2026-07-24 20:46:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門全國談判代表團團長薩爾米表示，與部分說法相反，曼德海峽並未封鎖。"
+    },
+    {
+      "id": "5007089",
+      "time": "2026-07-24 20:46:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【約旦稱攔截伊朗7枚導彈和6架無人機】約旦武裝部隊總司令部當地時間24日釋出訊息稱，約旦防空系統和皇家空軍當天攔截並擊落了自伊朗方向射向約旦領土的7枚導彈以及6架無人機。約旦軍方表示，此次攔截行動未造成人員傷亡和財產損失。約旦皇家工兵部隊已前往彈片墜落地點，並按照相關技術和安全程式進行處置。約旦軍方稱，將繼續嚴密監控領空，保持高度戰備狀態，隨時應對任何威脅約旦國家和公民安全的風險。（央視新聞）"
+    },
+    {
+      "id": "te:markets:569779",
+      "time": "2026-07-24 20:45:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Rise as Oil Prices Ease — Futures tracking the S&P/TSX Composite Index moved higher on Friday as the rally for oil prices halted and cooled energy-driven inflation concerns. Lower bond yields supported financials and the broader market. Gold prices edged higher, lifting mining stocks. Elsewhere, Dutch engineering consultancy Arcadis said it had received a second unsolicited takeover bid from Canadian peer WSP Global. Earlier this week, the Trump administration imposed a 50% tariff on a range of Canadian imports, although the US is aiming to reach interim trade deals with Canada and Mexico by the end of 2026."
+    },
+    {
+      "id": "mkt:019f9428-0d8c-7aab-8e88-842c859e7e52",
+      "time": "2026-07-24 20:44:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says it struck US regional facilities, destroyed Patriot air-defence system】Iran's Islamic Revolutionary Guard Corps said during the 27th wave of its \"Victory 2\" operations it struck the US base in Azraq, Jordan, damaging several aircraft and hitting US personnel accommodation, causing casualties. It said it also destroyed a Patriot air-defence system and a reconnaissance balloon in Erbil, Iraq, and struck a US personnel lodging."
+    },
+    {
+      "id": "5007088",
+      "time": "2026-07-24 20:43:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年全國國際科技合作工作會議在京召開】2026年7月23日，全國國際科技合作工作會議在北京召開。會議要求，要加強國際科技合作的工作統籌，切實抓好“十五五”時期各項重點任務推進落實，以元首外交為戰略引領，積極擴大國際科技交流合作，加快建設具有全球競爭力的科技創新開放環境，促進科技創新和產業創新深度融合，為科技強國建設、實現中國式現代化作出新的更大貢獻。"
+    },
+    {
+      "id": "mkt:019f9427-058c-7aab-8e88-78254fc1011f",
+      "time": "2026-07-24 20:43:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【M5.4 earthquake hits Papua, Indonesia】Indonesia's Agency for Meteorology, Climatology and Geophysics (BMKG) reported a magnitude 5.4 earthquake at 19:14 local time on July 24, 28 km NE of Sarmi regency, Papua province; hypocenter depth 16 km."
+    },
+    {
+      "id": "5007087",
+      "time": "2026-07-24 20:43:28",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【50家粵科技支行考核出爐，B與C居多，科技貸佔比成關鍵】科技支行是金融賦能科技創新最具活力、最具延展性和持續性的市場觸角、前沿陣地，是做好科技金融大文章的重要支點。早在2025年，國家金融監督管理總局廣東監管局制定出臺關於全面加強科技支行建設的專項通知，並組織召開粵港澳大灣區科技支行建設動員大會，提出以做專、做優、做強一批產品特色化、制度差異化、管理體系化、服務多元化的科技支行為著力點，推動廣東科技金融服務實現“量”與“質”的全面提升。南方財經記者獲悉，去年，廣東金融監管局批准了首批試點的50家科技支行。今年上半年，首批科技支行的考核結果亦出爐，其中B及C的考核結果居多，而目前暫無A評級的科技支行。多位銀行業人士對南方財經記者表示：“從結果來看，監管部門希望科技支行能實實在在服務科技企業，也期待科技支行能越來越好。”（南方財經）"
+    },
+    {
+      "id": "5007086",
+      "time": "2026-07-24 20:43:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "威瑞森執行長：我們正按計劃在2026年實現至少90億美元的運營支出與資本支出節省。"
+    },
+    {
+      "id": "mkt:019f9426-6e8f-7aab-8e88-757735797a84",
+      "time": "2026-07-24 20:42:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nabiullina, governor of the Russian central bank, said the bank has downgraded Russia's economic outlook due to reduced production capacity."
+    },
+    {
+      "id": "5007085",
+      "time": "2026-07-24 20:42:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗稱襲擊地區內美軍設施 摧毀一套“愛國者”防空系統】當地時間24日，伊朗伊斯蘭革命衛隊發表宣告稱，在“勝利2”第27波行動中，伊方再次襲擊位於約旦阿茲拉克的美軍基地，造成數架戰機受損，並襲擊了一處美軍人員駐地，導致人員傷亡。此外，伊朗還在伊拉克埃爾比勒摧毀一套“愛國者”防空系統和一個偵察氣球，並襲擊一處美方人員駐地。（央視新聞）"
+    },
+    {
+      "id": "5007084",
+      "time": "2026-07-24 20:42:35",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國銀行的分析師表示，覆蓋全歐洲的歐洲斯托克600指數仍接近歷史高點，同時對歐洲公司利潤率的預期也處於歷史最高水平。"
+    },
     {
       "id": "mkt:019f9425-c665-7aab-8e88-68fb7b73b247",
       "time": "2026-07-24 20:42:11",
@@ -83,6 +194,14 @@
         "國際"
       ],
       "text": "波蘭總統提請最高法院審議超額利潤稅法案。"
+    },
+    {
+      "id": "5007077",
+      "time": "2026-07-24 20:40:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以政府指示以軍在約旦河西岸採取一系列強硬措施】當地時間24日，以色列總理內塔尼亞胡與國防部長卡茨發表聯合宣告，宣佈在與小範圍安全內閣成員及軍方和情報部門負責人磋商後，已指示以色列國防軍在約旦河西岸採取一系列強硬安全措施。根據這份聯合宣告，以軍將採取五項具體行動：拆毀24日上午在泰勒村附近衝突中被以方指控“發動襲擊”的巴勒斯坦人住宅；在相關巴勒斯坦村莊展開強力軍事行動，包括收繳武器和吊銷當地居民的工作許可證；在整個約旦河西岸地區進一步增派兵力；在相關路段實施巴以車輛隔離通行並加設軍事檢查站；加速推進以色列猶太人定居者在約旦河西岸設立的所謂“前哨農場”的“合法化”，並批准建立新的“前哨農場”。宣告最後強調，必須確保以色列安全部隊能夠全面、自由地開展軍事行動，並呼籲相關平民避免採取任何干擾以軍軍事任務的獨立的暴力報復行為。（央視新聞）"
     },
     {
       "id": "mkt:019f9424-3ee3-7aab-8e88-6502240810ce",
