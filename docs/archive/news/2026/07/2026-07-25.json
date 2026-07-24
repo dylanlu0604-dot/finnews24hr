@@ -1,7 +1,24 @@
 {
   "date": "2026-07-25",
-  "count": 101,
+  "count": 102,
   "items": [
+    {
+      "id": "mkt:019f9529-5b35-7aab-8e8d-867cbac8fded",
+      "time": "2026-07-25 01:25:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Trump threatens high tariffs on EU, seeks revocation of fines on U.S. tech firms】U.S. President Trump said the EU has imposed discriminatory fines on American tech companies, citing Apple $15bln, Meta $3bln, Amazon $2.5bln and a new $1bln penalty on Google that he said brings Google’s total to over $18bln. He said the administration will immediately open a Section 301 investigation into the EU’s treatment of U.S. firms, seek revocation of the fines and expects to impose substantial tariffs on EU goods in short order."
+    },
     {
       "id": "5007440",
       "time": "2026-07-25 01:22:52",
