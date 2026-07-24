@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-25 05:59:20",
-  "count": 18227,
+  "updated": "2026-07-25 06:03:39",
+  "count": 18226,
   "items": [
+    {
+      "id": "5007622",
+      "time": "2026-07-25 06:00:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤金價突破4050美元/盎司，日內漲幅0.2%。"
+    },
+    {
+      "id": "5007621",
+      "time": "2026-07-25 06:00:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【古特雷斯呼籲紅海緊張局勢立即降級】聯合國秘書長古特雷斯24日透過發言人迪雅裡克發表宣告，對葉門胡塞武裝恢復襲擊紅海商船並威脅紅海通航表示震驚，呼籲局勢立即降級。宣告說，胡塞武裝襲擊商船進一步加劇地區緊張局勢並讓葉門進一步深陷衝突風險。新的敵對行動將破壞葉門和平前景並導致地區及域外出現嚴重的經濟、人道主義和環境後果。宣告說，古特雷斯呼籲立即降級緊張局勢，敦促胡塞武裝不要發動新的襲擊或採取其他升級行為。曼德海峽及附近海域通航權利及自由必須完全恢復。（新華社）"
+    },
     {
       "id": "5007620",
       "time": "2026-07-25 05:55:39",
@@ -166990,42 +167007,6 @@
         "國際"
       ],
       "text": "【美聯儲7月維持利率不變的機率85.6%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為85.6%，累計加息25個基點的機率為14.4%。 美聯儲到9月維持利率不變的機率為41.4%，累計加息25個基點的機率為51.2%，累計加息50個基點的機率為7.5%。"
-    },
-    {
-      "id": "mkt:019f7218-ae89-7aab-8dec-1e6263c6a0da",
-      "time": "2026-07-18 06:00:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran says it shot down US MQ-9 drone】Iran said early on the 18th local time that an Islamic Revolutionary Guard Corps naval air-defense system shot down a US MQ-9 drone."
-    },
-    {
-      "id": "4995115",
-      "time": "2026-07-18 06:00:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "暗盤金價突破4000美元/盎司 日內漲幅0.5%。"
-    },
-    {
-      "id": "mkt:019f7217-f0ca-7aab-8dec-1100fd619e83",
-      "time": "2026-07-18 05:59:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian state TV, citing the Islamic Revolutionary Guard Corps, said two oil tankers exploded and caught fire after transiting a route south of the Strait of Hormuz that the IRGC said was seeded with sea mines."
     }
   ]
 }
