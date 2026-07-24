@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-25 06:38:37_
-_本檔包含 3607 則快訊，約 694373 字_
+_更新時間：2026-07-25 07:37:56_
+_本檔包含 3632 則快訊，約 694209 字_
+
+---
+
+### 2026-07-22 22:32:42  #公司
+
+【蘋果計劃全面改版MacBook與iMac，以應對AI需求】據媒體報道，蘋果公司正準備在今年秋季至明年期間，為其在售的所有Mac產品線推出新版本，包括桌上型電腦和膝上型電腦的更新。新電腦將包括搭載全新M6晶片的入門級14英寸MacBook Pro、全新iMac，以及採用全新設計和OLED觸控屏的高階14英寸與16英寸MacBook。蘋果還計劃更新MacBook Air和MacBook Pro產品線，並推出搭載升級晶片的新款Mac mini和Mac Studio，儘管這些產品的釋出時間可能會受到記憶體晶片供應挑戰的影響。
+
+---
+
+### 2026-07-22 22:31:49  #MKT News #WTI #Impact bullish #Brent
+
+U.S. crude production in the week to July 17 posted its largest weekly drop since the week of Jan. 30, 2026. EIA Strategic Petroleum Reserve stocks in the week to July 17 were at their lowest level since the week of March 25, 1983.
+
+---
+
+### 2026-07-22 22:31:44  #國際
+
+美國至7月17日當週國內原油產量降幅錄得2026年1月30日當週以來最大。美國至7月17日當週EIA戰略石油儲備庫存為1983年3月25日當週以來最低。
+
+---
+
+### 2026-07-22 22:30:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. EIA distillate fuel implied demand for the week to July 17: 5.3227 mln b/d, up from 4.7011 mln b/d the prior week.
+
+---
+
+### 2026-07-22 22:30:42  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. EIA implied crude oil demand for week to July 17: 19.32 mln b/d, down from 19.79 mln b/d previously.
+
+---
+
+### 2026-07-22 22:30:39  #MKT News #Commodities #Energy
+
+US EIA motor gasoline implied demand for week ended July 17: 9.75 mln b/d, down from 9.81 mln b/d in the prior week.
+
+---
+
+### 2026-07-22 22:30:37  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. EIA Strategic Petroleum Reserve inventories fell 5.057 mln barrels in the week to July 17; prior week decline was 2.985 mln barrels.
+
+---
+
+### 2026-07-22 22:30:37  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. EIA refined products inventories rose 1.395 mln barrels in the week to July 17, versus market expected +0.738 mln and prior +4.556 mln.
+
+---
+
+### 2026-07-22 22:30:35  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Distillate Fuel Implied Demand (Jul.17) | actual 5322700M | previous 4701100M
+
+---
+
+### 2026-07-22 22:30:32  #MKT News #Commodities #Energy
+
+U.S. EIA crude oil imports for week ended July 17: 485,000 barrels; prior -399,000 barrels.
+
+---
+
+### 2026-07-22 22:30:32  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. EIA heating oil inventory change for week to July 17: +231,000 barrels; prior +30,000.
+
+---
+
+### 2026-07-22 22:30:32  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+US EIA crude oil volume brought online in week ended July 17: -58,000 bpd; prior +99,000 bpd.
+
+---
+
+### 2026-07-22 22:30:30  #MKT News #Commodities #Energy
+
+US EIA reformulated gasoline (RFG) stocks for week to July 17: 0k bbl; prior +3k bbl.
+
+---
+
+### 2026-07-22 22:30:29  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US EIA weekly refined product production rose to 90,000 b/d in the week to July 17 from 72,000 b/d a week earlier.
+
+---
+
+### 2026-07-22 22:30:29  #MKT News #Commodities #Energy
+
+U.S. EIA weekly finished petroleum products imports for week to July 17: 280,000 bpd, prior 13,000 bpd.
+
+---
+
+### 2026-07-22 22:30:28  #國際
+
+美國至7月17日當週EIA戰略石油儲備庫存 -505.7萬桶，前值-298.5萬桶。
+
+---
+
+### 2026-07-22 22:30:27  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. EIA gasoline production for week to July 17 +60,000 b/d; prior -96,000 b/d.
+
+---
+
+### 2026-07-22 22:30:27  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Motor Gasoline Implied Demand (Jul.17) | actual 9753900M | previous 9809700M
+
+---
+
+### 2026-07-22 22:30:22  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+EIA: US refinery utilization for the week to July 17 96.1% (consensus 95.9%, prior 96.2%).
+
+---
+
+### 2026-07-22 22:30:22  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+EIA: US crude inventories for week to July 17 rose 2.01 mln bbl; consensus expected a 1.052 mln bbl draw; prior week was a 1.692 mln bbl draw.
+
+---
+
+### 2026-07-22 22:30:19  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. EIA gasoline inventories for week ending July 17 rose 765,000 barrels vs. -1,517,000 expected and -1,533,000 prior.
+
+---
+
+### 2026-07-22 22:30:19  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
+
+US EIA: week to July 17 Cushing, Oklahoma crude inventories down 674,000 bbl, prior +430,000 bbl.
+
+---
+
+### 2026-07-22 22:30:10  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Crude Oil Implied Demand (Jul.17) | actual 19317000M | previous 19792000M
+
+---
+
+### 2026-07-22 22:30:09  #焦點 #國際
+
+美國能源資訊署稱，原油庫存增加201萬桶。
+
+---
+
+### 2026-07-22 22:30:08  #MKT News #Economic Calendar #Important
+
+United States | EIA Strategic Petroleum Reserve Stocks Change (Jul.17) | actual -5057000M | previous -2985000M
+
+---
+
+### 2026-07-22 22:28:39  #國際
+
+美國貿易代表格里爾：原產地規則、勞工與環境等部分議題可能需要更長時間，會推遲至明年解決。
+
+---
+
+### 2026-07-22 22:27:55  #公司
+
+【中國長安汽車與中國電信簽署戰略合作協議】7月22日，中國長安汽車集團有限公司與中國電信集團有限公司在北京簽署戰略合作協議。雙方將加速推動車輛採購與員工服務、穿透式監管與司庫體系建設、車聯網服務與運營、高質量資料集打造、海外數字工廠建設等方面的深度合作。
+
+---
+
+### 2026-07-22 22:27:50  #國際
+
+美國貿易代表格里爾：希望在年底前與加拿大和墨西哥達成一些臨時安排。
+
+---
+
+### 2026-07-22 22:27:43  #國際
+
+彭博調查使用者預期美國原油庫存減少 50 萬桶。
+
+---
+
+### 2026-07-22 22:27:19  #國際
+
+美國貿易代表格里爾：我們希望《美墨加協定》的原產地規則具備極高力度，以此激勵北美地區的生產活動。
+
+---
+
+### 2026-07-22 22:26:55  #國際
+
+美國貿易代表格里爾：我們正以應有的速度推進《美墨加協定》（USMCA）談判。
+
+---
+
+### 2026-07-22 22:26:36  #國際
+
+滙豐認為長期美國通脹保值債券（TIPS）具有投資價值。
+
+---
+
+### 2026-07-22 22:26:05  #公司
+
+【三星Galaxy Z Fold8 Ultra國行版售價公佈：14999元起】7月22日，三星Galaxy Z Fold8 Ultra摺疊手機正式釋出，國行版本即日起開啟預售，起售價為14999元。具體來看，12GB+256GB版本售價14999元，12GB+512GB版本售價16599元，16GB+1TB版本售價19799元，提供松杉綠、雅暮紫、巖影灰和雲凝白四款配色，搶先預訂可享8月3日優先發貨。
+
+---
+
+### 2026-07-22 22:25:15  #央行 #其他
+
+迦納央行行長：霍爾木茲海峽局勢、公用事業成本是通脹面臨的最大威脅。
+
+---
+
+### 2026-07-22 22:23:31  #其他
+
+訊息人士稱，巴拿馬實體將擁有該採礦特許權，並把運營控制權交給第一量子礦業。
+
+---
+
+### 2026-07-22 22:23:27  #公司
+
+訊息人士稱，巴拿馬正考慮成立一家國有礦業公司，就巴拿馬銅礦（Cobre Panama）的重啟條款展開談判。
+
+---
+
+### 2026-07-22 22:23:21  #公司 #市場
+
+【百億私募真金白銀自購 基金行業掀起自購潮】近期，基金行業掀起自購熱潮。多家公募基金、私募基金機構密集公告，使用自有資金申購旗下產品，傳遞長期看好A股市場的堅定信心。 國金基金表示，運用公司固有資金和高階管理人員自有資金，投資旗下權益基金，累計投資金額不低於1500萬元。博時基金公告稱，基於對我國資本市場長期健康穩定發展的信心，將動用5000萬元自有資金投資旗下權益類公募基金。 近期多傢俬募機構也相繼宣佈自購，由百億元級量化私募機構主導。7月22日，海南碩豐私募、思瑞投資、晨曦基金、因諾資產等私募機構同日釋出公告，以自有資金申購旗下私募證券投資基金產品。7月19日，靈均投資、平方和投資釋出大額自購公告，分別將以2億元、1億元自有資金申購旗下產品。 （央視財經）
+
+---
+
+### 2026-07-22 22:22:10  #國際
+
+市場訊息： 美國最高法院考慮組建類似特勤局規格的安保力量。
+
+---
+
+### 2026-07-22 22:19:53  #市場 #國際
+
+美國兩年期國債收益率上漲3個基點至4.29%，為2025年2月以來最高水平。
+
+---
+
+### 2026-07-22 22:19:40  #國際
+
+美國貿易代表格里爾：美國將再次實現農業貿易順差。
+
+---
+
+### 2026-07-22 22:18:01  #焦點 #國際
+
+伊朗媒體援引軍方訊息人士言論：若美國打擊伊朗境內橋樑或發電廠，伊朗將相應打擊該地區基礎設施與橋樑，其中包含美國享有相關利益的能源設施。
+
+---
+
+### 2026-07-22 22:17:39  #其他
+
+北達科他州監管機構：北達科他州5月份石油產量為112.5萬桶/日，較4月份下降1.6萬桶/日。
+
+---
+
+### 2026-07-22 22:17:19  #其他
+
+迦納將基準利率維持在14%不變。
+
+---
+
+### 2026-07-22 22:16:28  #其他
+
+監管機構資料顯示，5月巴肯三地區原油產量為每日109.6萬桶。
+
+---
+
+### 2026-07-22 22:15:24  #其他
+
+市場訊息：紐約小型房東發起訴訟，要求撤銷曼達尼主推的租金凍結政策。
+
+---
+
+### 2026-07-22 22:14:20  #國際
+
+【哈馬斯新任領導人：首要任務是停止以色列加沙軍事行動】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）新任領導人哈利勒·哈亞發表電視講話，就停火談判等多個事項闡明立場。哈亞表示，哈馬斯將沿著先前的道路繼續前行，並將在每一個領域和方向繼續努力，直到解除巴勒斯坦加沙人民遭受的傷害與痛苦。哈亞在講話中列出了一系列優先事項。他強調，首要任務是全面停止以色列對加沙地帶的軍事行動，並呼籲各方採取行動制止以色列的侵略與殺戮。他表示，哈馬斯將繼續在所有領域採取行動，維護加沙地帶、約旦河西岸、東耶路撒冷巴勒斯坦民眾的利益以及巴勒斯坦被關押人員的權益。哈亞指出，恢復加沙人民的日常生活秩序並全面開展重建工作是加沙人民固有的權利，絕不能將其與任何政治交換相捆綁。他同時對國際社會表示，如果未能保護加沙人民，相關人道與正義標準將徹底失效。在巴勒斯坦內部事務上，哈亞呼籲開展民族對話。他強調，哈馬斯願向所有巴勒斯坦派別伸出雙手，以便在共同的原則上團結一致。他同時指出，捍衛巴勒斯坦約旦河西岸是該組織的重要責任之一。在對外關係和地區局勢方面，哈亞表示，哈馬斯將加強與周邊阿拉伯和伊斯蘭國家的戰略關係。他高度讚賞埃及、卡達和土耳其等斡旋方的作用，感謝他們盡一切努力制止加沙地帶流血衝突的蔓延。他呼籲主持談判程序的國家向以色列政府施加真正的壓力，以執行此前已達成的協議。哈亞指出，當前局勢證明，巴勒斯坦人民的安全與穩定正是整個地區安全與穩定的關鍵。他最後強調，巴勒斯坦人民的抵抗運動最終將迎來勝利，哈馬斯在巴勒斯坦領土問題上絕不會做出任何妥協。（央視新聞）
 
 ---
 
@@ -21686,131 +21962,5 @@ Charles Schwab (SCHW.N) reported net new assets of $118.7 bln in Q2, versus mark
 ### 2026-07-21 19:29:32  #其他
 
 聯合社群銀行二季度營收2.793億美元，預期2.802億美元，二季度淨息差3.68%，預期3.68%。
-
----
-
-### 2026-07-21 19:28:21  #國際
-
-美國地質調查局：關島梅里佐村西南偏南 58 公里處發生 5.0 級地震。
-
----
-
-### 2026-07-21 19:28:05  #國際
-
-【日印高鐵合作再生事端 印度被指“不守誠信”】比原定投運時間落後3年的印度孟買-艾哈邁達巴德高速鐵路專案近日再生事端。一名日本前高階官員公開指責印度方面在這一日印合作專案中“不守誠信”且試圖“踢”開日方。對此，印方予以否認，反稱相關責任在日方。日本政府前法務大臣牧原秀樹上週在社交媒體發文稱，高鐵專案進展遲滯“百分之百是印方的責任”，他要為“所有付出努力的日方相關人員的名譽”發聲。牧原表示，他曾參與這一專案，印方“不守誠信，即使約定的事也會馬上推翻”，“始終只顧及自己的利益”。（新華社）
-
----
-
-### 2026-07-21 19:27:47  #公司
-
-【影石創新：擬申請註冊發行不超20億元科技創新債券】影石創新(688775)7月21日公告，董事會同意公司向上交所申請並由證監會註冊發行不超過20億元的科技創新債券，該事項尚需提交公司股東會審議透過，並經上交所批准及證監會同意註冊後方可實施。
-
----
-
-### 2026-07-21 19:27:25  #公司 #國際
-
-【鹽田港區首票水水中轉出口業務落地】據“深圳港集團”公眾號訊息，7月19日，由中國建造的全球最大級別的甲醇雙燃料集裝箱船“東方智慧”號首航鹽田港區。次日，鹽田港區首票水水中轉出口業務同步落地，480臺空調從中山港發出，經鹽田港區接駁裝船搭乘“東方智慧”號發往歐洲，為粵港澳大灣區企業拓展海外市場提供物流支援。
-
----
-
-### 2026-07-21 19:27:20  #其他
-
-標普全球目標價被Baird從520.00美元上調至521.00美元/股。
-
----
-
-### 2026-07-21 19:26:37  #公司
-
-【格靈深瞳：擬5000萬至1億元回購股份】格靈深瞳公告稱，公司擬以集中競價交易方式回購股份，回購資金總額不低於5000萬元，不超過1億元，資金源於自有資金。回購價格不超25元/股，回購股份數量為200萬股至400萬股，佔總股本的0.77%至1.54%。本次回購股份擬在披露實施結果暨股份變動公告12個月後出售，3年內完成，未售部分將登出。回購期限自董事會審議透過方案之日起3個月內。此外，相關人員未來3個月、6個月暫無減持計劃。本次回購存在一定不確定性風險。
-
----
-
-### 2026-07-21 19:25:10  #市場
-
-通用汽車股價回升，目前上漲1.6%。
-
----
-
-### 2026-07-21 19:24:34  #公司 #市場
-
-Ally Financial股價盤前下跌2.2%，此前該公司公佈的第二季度利潤低於市場預期。
-
----
-
-### 2026-07-21 19:24:12  #MKT News
-
-【NASA estimates $2.1 bln for nuclear-powered Mars mission; launch targeted end-2028】NASA says a preliminary cost estimate for the agency-led nuclear-powered Mars mission Space Reactor-1 Freedom is about $2.1 billion; figure may be adjusted during procurement. Funding plan submitted to Congress calls for $640m in 2026, $890m in 2027, $415m in 2028 and $180m in 2029. The estimate excludes the science payload mission SkyFall, whose budget has not been released; Mars researchers warn SkyFall could crowd out other NASA science funding. The mission, slated for launch in late 2028, would be the first in-flight validation of a nuclear electric propulsion system and is expected to carry three helicopters to Mars to collect scientific data and search for potential water sources.
-
----
-
-### 2026-07-21 19:23:19  #其他
-
-【長鑫科技：網上投資者放棄認購6,586,227股】長鑫科技(688825.SH)公告稱，公司首次公開發行股票並在科創板上市發行結果已公佈。本次發行價格為8.66元/股，初始發行股份數量為668,808.8608萬股，佔發行後總股本約10%。最終戰略配售數量為166,706.4720萬股，網上發行最終中籤率約為0.47141739%。網上投資者繳款認購3,844,517,273股，放棄認購6,586,227股；網下投資者繳款認購2,173,101,821股，放棄認購31,567股。聯席主承銷商包銷股份6,617,794股，包銷金額5731.01萬元。超額配售選擇權行使前，發行費用為2.81億元。
-
----
-
-### 2026-07-21 19:22:54  #公司
-
-【同源康醫藥：與齊魯達成許可及合作協議】同源康醫藥公告，公司與齊魯或其指定關聯方達成許可及合作協議以及供應及商業化協議，以合作開展在中國的合作原料藥（即TY-9591原料藥）的開發、生產及TY-9591的商業化。根據許可及合作協議，公司將收取合共約人民幣7億元的首付款，包括認購協議項下所得款項約人民幣4億元，以及潛在里程碑付款。此外，公司還與齊魯訂立供應及商業化協議，協議期限為三年，並可重續。
-
----
-
-### 2026-07-21 19:22:48  #其他
-
-【第十二架南航C919國產大飛機正式入列】7月21日，一架飛機尾號為B-659G的國產大飛機C919飛抵廣州白雲國際機場，標誌著第十二架南航C919正式入列，這也是今年暑運期間入列南航的首架C919。據瞭解，自暑運啟動以來，南航現有C919機隊累計執行航班超800個航段，高效承接暑期客流高峰出行需求。這架全新的C919在完成入列相關籌備後，也將迅速投入到暑運旺季航班的保障中，計劃後續參與執飛長沙至北京大興、成都天府、西安、瀋陽等航線。（央視新聞）
-
----
-
-### 2026-07-21 19:22:44  #MKT News #Commodities #Energy
-
-WSJ: Despite Middle East conflict underscoring supply vulnerabilities, Abu Dhabi National Oil Company (ADNOC) will proceed with a $6.2bn Umm Shaif gas-cap development, reinforcing its bet on persistently strong long-term natural gas demand.
-
----
-
-### 2026-07-21 19:22:42  #其他
-
-普惠商用發動機部門總裁表示，空客A320neo系列因發動機問題停飛的飛機數量較峰值下降了40%。
-
----
-
-### 2026-07-21 19:22:36  #公司
-
-【星雲股份：使用5000萬元閒置募集資金購買理財產品】星雲股份公告稱，公司此前已透過議案，同意使用不超5億元閒置募集資金進行現金管理，使用期限自2025年度股東會審議透過日起至2026年度股東會召開日止，可迴圈滾動使用。近日，公司繼續使用暫時閒置募集資金購買理財產品，分別向交通銀行、興業銀行購買了共5000萬元的保本浮動收益型產品。截至公告日，公司尚未贖回的金額為3.48億元，未超授權額度範圍。
-
----
-
-### 2026-07-21 19:22:22  #公司
-
-【證監會：將主動回應市場關切，增強市場內在穩定性】7月20日下午至21日，證監會黨委班子成員分別召開座談會，就促進資本市場穩定健康發展聽取各方面意見建議，來自上市公司、證券基金機構和專家學者的29位代表參加會議。與會代表圍繞當前資本市場形勢進行了深入研討，並對證監會工作提出意見建議。
-
----
-
-### 2026-07-21 19:21:48  #公司 #觀點
-
-【天弘基金：旗下部分基金參與長鑫科技網下申購併披露獲配結果】天弘基金公告稱，旗下部分基金參加長鑫科技首次公開發行股票的網下申購，發行價格為8.66元/股。本次發行的聯席主承銷商中信建投證券、招商證券、國泰海通證券為上述基金的託管人，華泰聯合證券為託管人重要關聯方。公告披露了各基金獲配結果，如天弘滬深300交易型開放式指數證券投資基金聯接基金獲配421781股、金額3652623.46元等。
-
----
-
-### 2026-07-21 19:21:45  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #Hang Seng Index
-
-【CSRC urges listed firms to boost compliance and competitiveness to better reward investors】The CSRC held consultations with listed companies, industry groups and academics to solicit views. It urged listed firms to strengthen compliance and core competitiveness to better reward investors, and asked industry bodies to adopt more countercyclical positioning and improve investor services. The regulator said it will study proposals, proactively address market concerns, coordinate risk prevention, strengthen supervision, advance market infrastructure, bolster market stability and refine long-term investor-protection mechanisms to support high-quality, steady development of China’s capital markets.
-
----
-
-### 2026-07-21 19:21:24  #公司
-
-【長高電氣：全資子公司中標國家電網專案 金額4.16億元】長高電氣公告稱，2026年7月21日，國家電網電子商務平臺釋出中標公告，公司全資子公司湖南長高電氣等4家公司分別在組合電器、隔離開關、開關櫃三類產品招標中中標，合計中標4.16億元，佔公司2025年經審計合併營收的25%。簽署正式合同後，預計將對公司2026年及以後年度業績產生積極影響，合同執行期限以正式合同為準。
-
----
-
-### 2026-07-21 19:21:14  #公司
-
-【君實生物：特瑞普利單抗補充申請用於肺癌治療獲受理】君實生物公告稱，近日收到國家藥監局《受理通知書》，特瑞普利單抗聯合化療用於可切除II - III期非小細胞肺癌患者圍手術期治療的補充申請獲受理，申請適應症範圍擴大。該藥品研發和審批易受不確定因素影響，本次補充申請能否獲批存在不確定性。
-
----
-
-### 2026-07-21 19:19:32  #公司
-
-【證監會召開上市公司、行業機構、專家學者系列座談會聽取意見建議】7月20日下午至21日，證監會黨委班子成員分別召開座談會，就促進資本市場穩定健康發展聽取各方面意見建議，來自上市公司、證券基金機構和專家學者的29位代表參加會議。與會代表圍繞當前資本市場形勢進行了深入研討，並對證監會工作提出意見建議。座談中，大家表示，當前我國經濟呈現總體平穩、向新向優的發展態勢，新“國九條”釋出以來，資本市場整體生態發生深刻變化，投融資綜合改革效應持續釋放，上市公司質量和投資價值有效提升，保持市場穩健執行具備堅實基礎。與會代表圍繞進一步加強資本市場基礎制度建設、落實中長期資金長週期考核機制、不斷提升上市公司規範運作和治理水平、進一步規範量化交易行為、加大市場違法違規懲處力度、強化資本市場預期引導、進一步推動穩市機制制度化等方面提出了意見建議。會上，證監會負責同志表示，資本市場高質量發展，離不開上市公司、行業機構、專家學者等各方面的共同參與、共同努力。希望上市公司著力增強合規經營能力、提升核心競爭力，更好回報投資者；行業機構加大逆週期佈局力度，切實提升投資者服務水平；專家學者積極建言獻策、理性發聲，共同營造良好市場環境。證監會將認真研究吸收各方面提出的意見建議，主動回應市場關切，統籌防風險、強監管、促高質量發展，持續加強市場基礎制度建設，增強市場內在穩定性，完善投資者合法權益保護長效機制，更好推動資本市場長期平穩健康發展。證監會有關司局、系統單位主要負責同志參加座談。
 
 ---
