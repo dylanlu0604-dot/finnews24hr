@@ -1,7 +1,96 @@
 {
   "date": "2026-07-24",
-  "count": 1135,
+  "count": 1144,
   "items": [
+    {
+      "id": "te:markets:569553",
+      "time": "2026-07-24 12:03:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Hits 15-Week High on Biodiesel Demand, India Outlook — Malaysian palm oil futures hovered around MYR 4,750 per tonne, extending recent gains to their highest level since early April. Sentiment was boosted by stronger edible oils on the Dalian market, a weaker ringgit, and firmer oil prices amid persistent hostilities in the Middle East. The market was also on track for a third weekly gain, up about 3.3% so far, buoyed by higher biodiesel mandates in Indonesia and Malaysia, which are expected to boost demand for palm oil as a biofuel feedstock. In top buyer India, demand prospects improved after forecasts pointed to higher edible oil imports between July and October, as tightening supplies ahead of the festive season are likely to lift palm oil purchases. Weather concerns added further support after Kuala Lumpur warned that record-high temperatures could weigh on production next year. Meanwhile, July 1–20 export data were mixed, with AmSpec Agri noting shipments fell 0.9% from June, while Intertek Testing Services reported a 4.1% growth."
+    },
+    {
+      "id": "5005912",
+      "time": "2026-07-24 12:03:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金河生物向特定物件發行股票申請獲受理】金河生物公告，向特定物件發行股票申請獲受理；*ST康佳A公告，對子公司提供的內部借款逾期且預計無法全部收回的本金合計人民幣 442,483.34 萬元及對應利息。"
+    },
+    {
+      "id": "5005911",
+      "time": "2026-07-24 12:02:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨下跌0.5%，回吐了早盤漲幅。"
+    },
+    {
+      "id": "mkt:019f924a-50cb-7aab-8e7a-1db06b315335",
+      "time": "2026-07-24 12:02:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Hang Seng Index",
+        "Impact bearish",
+        "03330.HK",
+        "02259.HK"
+      ],
+      "text": "【Hong Kong midday: HSI down 1.27% at midday; gold miners plunge】Hong Kong equities opened lower and slid through the morning; Hang Seng Index was down 1.27% and the Hang Seng Tech Index down 1.69% at the midday break after the tech gauge fell over 2% intraday. Chip names recovered: Lanqi Technology (06809.HK) rose about 5%, SMIC (00981.HK) gained ~1%. BOC Hong Kong (02388.HK) advanced over 4%, marking a fresh intraday record high. PCB-related stocks led losses: Kingboard Laminates (01888.HK) -9%, Kingboard Holdings (00148.HK) -7%, Shenghong Technology (02476.HK) -5%. Gold miners tumbled: Lingbao Gold (03330.HK) and Zijin Gold International (02259.HK) both down more than 5%. Robotics, select internet names, power equipment, smart-driving suppliers, Chinese brokers and mainland property shares were weaker. Stock movers: Zhipu (02513.HK) +7%, UBTECH Robotics (09880.HK) -5%."
+    },
+    {
+      "id": "mkt:019f9249-43c8-7aab-8e7a-11187a6dfc72",
+      "time": "2026-07-24 12:01:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Thai official said Mitsubishi Motors plans to invest 16 billion baht in Thailand by 2030."
+    },
+    {
+      "id": "mkt:019f9249-089b-7aab-8e7a-0ef28c0887ed",
+      "time": "2026-07-24 12:01:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "Copper",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【Dongguan unveils Computing Power Industry Island; plans 100 bln yuan investment over five years】At a July 24 server industry supply-demand event in Dongguan, municipal authorities launched the Dongguan Computing Power Industry Island and invited global compute firms to settle there. The project in Shatian town is presented as the Pearl River Delta’s rare — and Dongguan’s only — near-10,000-mu contiguous industrial zone dedicated to compute hardware. The island consolidates 9,000 mu of industrial land with a permitted gross floor area of 7.3 million sqm. Under city-level top planning, Dongguan plans to invest 100 billion yuan over the next five years to develop the site and targets, by 2030, making it the core growth pole of a 500 billion yuan AI server industry cluster."
+    },
+    {
+      "id": "5005910",
+      "time": "2026-07-24 12:01:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數跌1.27%，恒生科技指數跌1.69%】港股午間收盤，恒生指數跌1.27%，恒生科技指數跌1.69%。恒指港股通ETF銀華（159318）跌1.3%，港股通科技ETF鵬華（159751）跌1.47%。板塊方面，電氣裝置、個人護理用品板塊跌幅靠前。個股方面，現代牧業漲8.13%，智譜漲7.6%，中國再保險漲7.03%，大新金融漲6.95%，威華達控股漲6.8%；聖邦股份跌10.38%，旺山旺水-B跌9.55%，建滔積層板跌9.14%，海致科技集團跌8.9%，思格新能跌8.64%。"
+    },
+    {
+      "id": "5005909",
+      "time": "2026-07-24 12:00:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【未來五年計劃投入1000億元 “東莞算力產業島”亮相】據東莞釋出，7月24日，2026年伺服器產業供需對接活動在東莞舉行。大會正式釋出“一策一島”，“東莞算力產業島”全新亮相，面向全球算力企業發出落戶邀約。東莞算力產業島位於沙田鎮，是珠三角稀缺、東莞唯一近萬畝連片算力硬體專屬產業片區。島內統籌9000畝產業用地，計容總建築面積730萬平方米。按照市級頂層規劃，未來五年東莞計劃投入1000億元開發建設算力產業島。至2030年，目標成為全市5000億元AI伺服器產業叢集核心增長極。"
+    },
+    {
+      "id": "5005908",
+      "time": "2026-07-24 12:00:28",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院成立廣西南寧橫州市六藍水庫“7·6”潰壩災害調查評估組】7月24日，國務院廣西南寧橫州市六藍水庫“7·6”潰壩災害調查評估組在廣西南寧召開第一次全體會議。7月6日，廣西南寧橫州市六藍水庫發生潰壩，造成重大人員傷亡。根據國家有關法律法規規定，國務院成立調查評估組，由應急管理部牽頭，自然資源部、住房城鄉建設部、水利部、農業農村部、國家發展改革委、工業和資訊化部、公安部、財政部、交通運輸部、中國氣象局、國家能源局、國家消防救援局和廣西壯族自治區人民政府等相關方面參加，對廣西南寧橫州市六藍水庫“7·6”潰壩災害進行調查評估。"
+    },
     {
       "id": "5005907",
       "time": "2026-07-24 11:59:55",

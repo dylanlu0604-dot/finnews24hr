@@ -1,7 +1,96 @@
 {
-  "updated": "2026-07-24 12:01:38",
-  "count": 18008,
+  "updated": "2026-07-24 12:05:39",
+  "count": 18002,
   "items": [
+    {
+      "id": "te:markets:569553",
+      "time": "2026-07-24 12:03:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Hits 15-Week High on Biodiesel Demand, India Outlook — Malaysian palm oil futures hovered around MYR 4,750 per tonne, extending recent gains to their highest level since early April. Sentiment was boosted by stronger edible oils on the Dalian market, a weaker ringgit, and firmer oil prices amid persistent hostilities in the Middle East. The market was also on track for a third weekly gain, up about 3.3% so far, buoyed by higher biodiesel mandates in Indonesia and Malaysia, which are expected to boost demand for palm oil as a biofuel feedstock. In top buyer India, demand prospects improved after forecasts pointed to higher edible oil imports between July and October, as tightening supplies ahead of the festive season are likely to lift palm oil purchases. Weather concerns added further support after Kuala Lumpur warned that record-high temperatures could weigh on production next year. Meanwhile, July 1–20 export data were mixed, with AmSpec Agri noting shipments fell 0.9% from June, while Intertek Testing Services reported a 4.1% growth."
+    },
+    {
+      "id": "5005912",
+      "time": "2026-07-24 12:03:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金河生物向特定物件發行股票申請獲受理】金河生物公告，向特定物件發行股票申請獲受理；*ST康佳A公告，對子公司提供的內部借款逾期且預計無法全部收回的本金合計人民幣 442,483.34 萬元及對應利息。"
+    },
+    {
+      "id": "5005911",
+      "time": "2026-07-24 12:02:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨下跌0.5%，回吐了早盤漲幅。"
+    },
+    {
+      "id": "mkt:019f924a-50cb-7aab-8e7a-1db06b315335",
+      "time": "2026-07-24 12:02:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Hang Seng Index",
+        "Impact bearish",
+        "03330.HK",
+        "02259.HK"
+      ],
+      "text": "【Hong Kong midday: HSI down 1.27% at midday; gold miners plunge】Hong Kong equities opened lower and slid through the morning; Hang Seng Index was down 1.27% and the Hang Seng Tech Index down 1.69% at the midday break after the tech gauge fell over 2% intraday. Chip names recovered: Lanqi Technology (06809.HK) rose about 5%, SMIC (00981.HK) gained ~1%. BOC Hong Kong (02388.HK) advanced over 4%, marking a fresh intraday record high. PCB-related stocks led losses: Kingboard Laminates (01888.HK) -9%, Kingboard Holdings (00148.HK) -7%, Shenghong Technology (02476.HK) -5%. Gold miners tumbled: Lingbao Gold (03330.HK) and Zijin Gold International (02259.HK) both down more than 5%. Robotics, select internet names, power equipment, smart-driving suppliers, Chinese brokers and mainland property shares were weaker. Stock movers: Zhipu (02513.HK) +7%, UBTECH Robotics (09880.HK) -5%."
+    },
+    {
+      "id": "mkt:019f9249-43c8-7aab-8e7a-11187a6dfc72",
+      "time": "2026-07-24 12:01:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Thai official said Mitsubishi Motors plans to invest 16 billion baht in Thailand by 2030."
+    },
+    {
+      "id": "mkt:019f9249-089b-7aab-8e7a-0ef28c0887ed",
+      "time": "2026-07-24 12:01:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "Copper",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【Dongguan unveils Computing Power Industry Island; plans 100 bln yuan investment over five years】At a July 24 server industry supply-demand event in Dongguan, municipal authorities launched the Dongguan Computing Power Industry Island and invited global compute firms to settle there. The project in Shatian town is presented as the Pearl River Delta’s rare — and Dongguan’s only — near-10,000-mu contiguous industrial zone dedicated to compute hardware. The island consolidates 9,000 mu of industrial land with a permitted gross floor area of 7.3 million sqm. Under city-level top planning, Dongguan plans to invest 100 billion yuan over the next five years to develop the site and targets, by 2030, making it the core growth pole of a 500 billion yuan AI server industry cluster."
+    },
+    {
+      "id": "5005910",
+      "time": "2026-07-24 12:01:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數跌1.27%，恒生科技指數跌1.69%】港股午間收盤，恒生指數跌1.27%，恒生科技指數跌1.69%。恒指港股通ETF銀華（159318）跌1.3%，港股通科技ETF鵬華（159751）跌1.47%。板塊方面，電氣裝置、個人護理用品板塊跌幅靠前。個股方面，現代牧業漲8.13%，智譜漲7.6%，中國再保險漲7.03%，大新金融漲6.95%，威華達控股漲6.8%；聖邦股份跌10.38%，旺山旺水-B跌9.55%，建滔積層板跌9.14%，海致科技集團跌8.9%，思格新能跌8.64%。"
+    },
+    {
+      "id": "5005909",
+      "time": "2026-07-24 12:00:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【未來五年計劃投入1000億元 “東莞算力產業島”亮相】據東莞釋出，7月24日，2026年伺服器產業供需對接活動在東莞舉行。大會正式釋出“一策一島”，“東莞算力產業島”全新亮相，面向全球算力企業發出落戶邀約。東莞算力產業島位於沙田鎮，是珠三角稀缺、東莞唯一近萬畝連片算力硬體專屬產業片區。島內統籌9000畝產業用地，計容總建築面積730萬平方米。按照市級頂層規劃，未來五年東莞計劃投入1000億元開發建設算力產業島。至2030年，目標成為全市5000億元AI伺服器產業叢集核心增長極。"
+    },
+    {
+      "id": "5005908",
+      "time": "2026-07-24 12:00:28",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院成立廣西南寧橫州市六藍水庫“7·6”潰壩災害調查評估組】7月24日，國務院廣西南寧橫州市六藍水庫“7·6”潰壩災害調查評估組在廣西南寧召開第一次全體會議。7月6日，廣西南寧橫州市六藍水庫發生潰壩，造成重大人員傷亡。根據國家有關法律法規規定，國務院成立調查評估組，由應急管理部牽頭，自然資源部、住房城鄉建設部、水利部、農業農村部、國家發展改革委、工業和資訊化部、公安部、財政部、交通運輸部、中國氣象局、國家能源局、國家消防救援局和廣西壯族自治區人民政府等相關方面參加，對廣西南寧橫州市六藍水庫“7·6”潰壩災害進行調查評估。"
+    },
     {
       "id": "5005907",
       "time": "2026-07-24 11:59:55",
@@ -164996,140 +165085,6 @@
         "00981.HK"
       ],
       "text": "【Hong Kong midday: Hang Seng Tech down nearly 4%; Zhipu, MINIMAX-W plunge】Hong Kong stocks slipped at midday: Hang Seng Index down 1.98% and Hang Seng Tech Index down 4.04%. AI agent-related names led losses—Zhipu (02513.HK) fell about 21% and MINIMAX-W (00100.HK) dropped 13.8%. Semiconductor stocks also weakened: 02577.HK declined over 10%, while 03986.HK and 02676.HK fell more than 8%. Major internet names were broadly lower: Meituan (03690.HK) and SMIC (00981.HK) near 6% down; Kuaishou (01024.HK) and Bilibili (09626.HK) off over 5%; Tencent (00700.HK), Baidu (09888.HK) and Alibaba (09988.HK) down more than 3%."
-    },
-    {
-      "id": "mkt:019f6e40-549c-7aab-8dd9-377408bde3bb",
-      "time": "2026-07-17 12:05:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "Xi Jinping announced major measures for China to support global artificial intelligence development, Xinhua reports."
-    },
-    {
-      "id": "4993480",
-      "time": "2026-07-17 12:05:28",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【習近平宣佈中國支援全球人工智慧發展重大舉措】7月17日上午，國家主席習近平在上海世界會客廳出席2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式並發表主旨講話。習近平指出，在各方共同努力下，世界人工智慧合作組織在上海應運而生。這是中方響應全球南方呼聲、團結國際社會積極推動人工智慧發展和治理的重大舉措，將成為人工智慧發展史上的一個重要里程碑。習近平宣佈，為進一步支援全球人工智慧發展、推進全球人工智慧能力建設，未來5年，中國將面向發展中國家提供5000個人工智慧專題研修培訓名額；面向東盟、阿盟、非盟、拉共體、上合組織、金磚國家建設國際人工智慧應用合作中心；推動氣象智慧預警方案“媽祖”在30個國家落地應用，守望萬家燈火，護佑四海安瀾。（新華社）"
-    },
-    {
-      "id": "4993479",
-      "time": "2026-07-17 12:05:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中公教育、武漢東湖學院合資成立教育科技公司 註冊資本1000萬】天眼查App顯示，近日，國稷（湖北）教育科技有限公司成立，法定代表人為周寶生，註冊資本1000萬人民幣，經營範圍包括資訊科技諮詢服務、教育諮詢服務、人力資源服務、企業管理諮詢等。股東資訊顯示，該公司由武漢東湖學院、中公教育科技股份有限公司共同持股。"
-    },
-    {
-      "id": "4993478",
-      "time": "2026-07-17 12:04:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本東證指數(TOPIX)跌幅擴大，最新下跌3.15%，報3,902點。"
-    },
-    {
-      "id": "4993477",
-      "time": "2026-07-17 12:04:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "鎧俠控股：業務前景影響正在調查中。"
-    },
-    {
-      "id": "4993476",
-      "time": "2026-07-17 12:03:27",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家外匯局：今年上半年我國跨境資金呈現淨流入】國務院新聞辦今天（17日）10時舉行新聞釋出會，介紹2026年上半年我國外匯收支情況。國家外匯管理局資料顯示，上半年跨境資金呈現淨流入。國家外匯管理局副局長 李斌：上半年，企業、個人等非銀行部門跨境資金淨流入2472億美元。從月度變化看，1—2月，企業在春節前集中收款，跨境資金淨流入處於較高規模；3月，地緣政治衝突升級，國際金融市場波動加大，我國跨境資金小幅淨流出，隨後重回淨流入，6月以來淨流入規模放緩。分專案看，上半年，貨物貿易項下資金淨流入同比繼續增加，外資對我國投資總體回升，服務貿易收入增長加快、收支逆差收窄，境內主體對外投資總體保持增長。（央視）"
-    },
-    {
-      "id": "mkt:019f6e3e-54ad-7aab-8dd9-2c13bf18f59c",
-      "time": "2026-07-17 12:03:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Malaysia June housing, water, electricity, gas and other fuels prices rose 1.4% YoY."
-    },
-    {
-      "id": "te:markets:567736",
-      "time": "2026-07-17 12:03:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Falls as US-Iran Conflict Weighs — Copper futures fell below $6.2 per pound on Friday, hitting a one-week low as the escalating conflict between the US and Iran triggered a broad selloff across metals markets. The US launched multiple strikes against Iran this week, while Tehran retaliated by targeting US bases in neighboring countries, driving oil prices higher and keeping inflationary risks in focus. Investors are increasingly concerned that central banks may keep interest rates elevated for longer or even raise them further to contain inflation. Still, copper prices found some support from mounting supply concerns after a powerful storm struck top producer Chile, causing widespread power outages and significant damage. In addition, Antofagasta reported this week that first-half copper production fell 9.5% to 285,000 tonnes due to lower output at two key mines. BHP also warned that its Chilean production is expected to decline next year, while the IEA flagged tightening sulphuric acid supplies."
-    },
-    {
-      "id": "mkt:019f6e3e-158e-7aab-8dd9-2587d9e4bb59",
-      "time": "2026-07-17 12:03:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Malaysia June CPI-based inflation rose 1.9% YoY, below expectations. Inflation in information and communication climbed 2.4% YoY; insurance and financial services inflation rose 5.7% YoY."
-    },
-    {
-      "id": "4993475",
-      "time": "2026-07-17 12:02:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "鎧俠控股：將繼續尋求所有可行的法律途徑，包括提出判決後動議，並在必要時提起上訴。"
-    },
-    {
-      "id": "4993474",
-      "time": "2026-07-17 12:02:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "鎧俠控股：強烈反對Viasat的主張及本案判決，該判決認定鎧俠部分產品侵犯了Viasat向陪審團提出的單項專利權利要求。"
-    },
-    {
-      "id": "mkt:019f6e3d-86cc-7aab-8dd9-1c67abdf3b55",
-      "time": "2026-07-17 12:02:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Malaysia's core inf rose 1.9% YoY in June, down from 2.0% in May."
-    },
-    {
-      "id": "mkt:019f6e3d-41f3-7aab-8dd9-126d32c917e6",
-      "time": "2026-07-17 12:02:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Malaysia preliminary Q2 GDP estimate shows manufacturing output rose 7.5% YoY."
-    },
-    {
-      "id": "4993473",
-      "time": "2026-07-17 12:02:15",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "【出口拉動超預期  馬來西亞二季度GDP大增5.8% 通脹降溫】受服務業向好、電子產品出口強勁提振，抵消中東戰事帶來的衝擊，馬來西亞二季度經濟增速大幅超出市場預期。馬來西亞統計局週五釋出初值資料顯示，今年4至6月國內生產總值（GDP）同比增長5.8%，高於彭博調研經濟學家給出的5.2%預期中值；2026年一季度該國經濟增速為5.4%。內需旺盛疊加半導體出口景氣，對沖了中東衝突造成的擾動，市場進一步看好馬來西亞今年維持東南亞經濟高增速梯隊地位。儘管全球經濟前景不確定性上升，但半導體與人工智慧相關投資大幅擴張，持續託舉本國經濟增長。統計局表示：“2026年二季度，服務業仍是拉動經濟增長的核心動力。”礦業板塊亦實現復甦，同比增長10.2%。通脹方面，6月居民消費價格指數（CPI）回落至1.9%，而分析師此前預估該資料將維持5月2%的水平。馬來西亞依靠燃油補貼對沖國際原油高價影響，基本穩住國內消費品漲價幅度。"
-    },
-    {
-      "id": "mkt:019f6e3c-faab-7aab-8dd9-0e55eaba8f68",
-      "time": "2026-07-17 12:01:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Malaysia preliminary Q2 GDP estimate: construction rose 6.6% YoY, services rose 5.4% YoY."
     }
   ]
 }
