@@ -1,7 +1,24 @@
 {
   "date": "2026-07-25",
-  "count": 335,
+  "count": 337,
   "items": [
+    {
+      "id": "mkt:019f95ce-cac3-7aab-8e90-62ad9dad6124",
+      "time": "2026-07-25 04:26:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Houthi-affiliated Almasirah TV said Saudi air strikes hit Kamaran Island in Yemen."
+    },
+    {
+      "id": "5007577",
+      "time": "2026-07-25 04:23:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝旗下媒體：沙特空襲目標指向卡馬蘭島（位於葉門紅海海岸，是紅海上的一個重要戰略島嶼）。"
+    },
     {
       "id": "mkt:019f95c8-e5ec-7aab-8e90-5bc6c60221c4",
       "time": "2026-07-25 04:19:58",
