@@ -1,7 +1,29 @@
 {
   "date": "2026-07-25",
-  "count": 116,
+  "count": 118,
   "items": [
+    {
+      "id": "5007447",
+      "time": "2026-07-25 01:48:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府因新一輪全球關稅而被推上被告席，多家小微企業挑戰美國總統特朗普的301關稅。"
+    },
+    {
+      "id": "mkt:019f953d-a363-7aab-8e8d-ca93d83413d0",
+      "time": "2026-07-25 01:47:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "【Meta adds Gmail and Google Calendar access to AI assistant via Muse Spark 1.1】Meta Platforms (META.O) said its AI assistant, powered by the Muse Spark 1.1 model, can now access Google Calendar and Gmail to produce daily briefings, assist research and support tasks such as home redecoration. The upgrade is part of CEO Mark Zuckerberg’s push for a “personal superintelligence” and follows an AI-positive publicity campaign this week. Meta cautioned its AI capabilities remain weaker than rivals; OpenAI, Anthropic and Google continue to offer agent systems that handle broader task sets and run autonomously for longer."
+    },
     {
       "id": "5007446",
       "time": "2026-07-25 01:44:08",

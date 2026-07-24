@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-25 01:45:38",
-  "count": 18161,
+  "updated": "2026-07-25 01:49:33",
+  "count": 18158,
   "items": [
+    {
+      "id": "5007447",
+      "time": "2026-07-25 01:48:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府因新一輪全球關稅而被推上被告席，多家小微企業挑戰美國總統特朗普的301關稅。"
+    },
+    {
+      "id": "mkt:019f953d-a363-7aab-8e8d-ca93d83413d0",
+      "time": "2026-07-25 01:47:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "【Meta adds Gmail and Google Calendar access to AI assistant via Muse Spark 1.1】Meta Platforms (META.O) said its AI assistant, powered by the Muse Spark 1.1 model, can now access Google Calendar and Gmail to produce daily briefings, assist research and support tasks such as home redecoration. The upgrade is part of CEO Mark Zuckerberg’s push for a “personal superintelligence” and follows an AI-positive publicity campaign this week. Meta cautioned its AI capabilities remain weaker than rivals; OpenAI, Anthropic and Google continue to offer agent systems that handle broader task sets and run autonomously for longer."
+    },
     {
       "id": "5007446",
       "time": "2026-07-25 01:44:08",
@@ -166395,49 +166417,6 @@
         "Brent"
       ],
       "text": "【U.S. oil rig count continues to rise】Baker Hughes reported U.S. oil rigs rose by 7 last week to 452, up 30 YoY and up 45 since the U.S.-Iran conflict began, citing firmer oil prices as the driver. The EIA says higher drilling activity is expected to lift U.S. crude output from 13.8 mln bpd this year to 14.0 mln bpd next year. U.S. natural-gas rigs were unchanged for a second week at 126, up 9 YoY."
-    },
-    {
-      "id": "4994983",
-      "time": "2026-07-18 01:49:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：ACI 環球正考慮出售旗下賬單計費業務部門，該賬單業務板塊若出售，估值約 15 億美元。"
-    },
-    {
-      "id": "mkt:019f7131-ad87-7aab-8de9-d5f26c6aff45",
-      "time": "2026-07-18 01:48:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent"
-      ],
-      "text": "Barclays leaves its 2026 and 2027 Brent crude forecasts unchanged at $96/bbl and $85/bbl, respectively."
-    },
-    {
-      "id": "mkt:019f7131-6fa1-7aab-8de9-c924954a3035",
-      "time": "2026-07-18 01:48:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pacific Tsunami Warning Center says earthquake offshore Chiapas, Mexico no longer poses a tsunami threat."
-    },
-    {
-      "id": "4994982",
-      "time": "2026-07-18 01:47:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊維持布倫特原油 2026 年、2027 年油價預測，分別為每桶 96 美元、每桶 85 美元。"
-    },
-    {
-      "id": "mkt:019f7130-66fa-7aab-8de9-c448c86b4694",
-      "time": "2026-07-18 01:47:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli media report Prime Minister Netanyahu has postponed a visit to the United States, citing both changes to arrangements for the funeral of the late Republican Senator Lindsey Graham and an intensifying rift with the Trump administration, notably recent sharp criticism from U.S. Vice President Vance."
     }
   ]
 }
