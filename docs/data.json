@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-24 11:52:42",
-  "count": 18020,
+  "updated": "2026-07-24 11:56:53",
+  "count": 18016,
   "items": [
+    {
+      "id": "5005902",
+      "time": "2026-07-24 11:55:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美眾院投票限制對伊動武 類似決議未獲參院推進 】美國國會眾議院23日投票透過一項決議，要求總統特朗普停止對伊朗的軍事行動。但參議院當天在程式性表決中未能推進一項類似決議。當天，眾議院以214票贊成、208票反對的結果透過一項限制總統戰爭權力決議，要求特朗普結束對伊朗的軍事行動，並在今後對伊朗採取軍事行動前必須獲得國會授權。其中，有4名共和黨人投了贊成票。"
+    },
+    {
+      "id": "5005901",
+      "time": "2026-07-24 11:54:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽油輪過境量週四只剩一艘，創兩個多月來新低】據船舶追蹤資料顯示，週四穿越霍爾木茲海峽的油輪數量降至僅一艘，為5月7日以來的最低水平；目前中東地區航運風險持續居高不下，且油價已再度飆升至每桶100美元。資料分析公司Kpler的資料顯示，7月23日僅有一艘油輪穿越霍爾木茲海峽，而前一天則為三艘。"
+    },
+    {
+      "id": "5005900",
+      "time": "2026-07-24 11:53:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒稱伊朗拒絕特朗普停火提議】據美國《紐約時報》23日報道，伊朗和伊拉克官員稱，伊朗當天拒絕了美國總統特朗普經由伊拉克總理扎伊迪轉交的一份停火提議。此次調解努力正值特朗普威脅要重啟對伊朗的大規模作戰行動。 報道稱，這些匿名官員表示，扎伊迪訪問伊朗前在白宮與特朗普會面，但經由扎伊迪轉交的停火提議細節尚不明確。伊朗官員表示，這是目前擺在談判桌上的唯一一份停火方案，但伊朗政府對擱置霍爾木茲海峽控制權問題的臨時協議不感興趣。 報道援引伊朗外長阿拉格齊的話說，扎伊迪分享了其華盛頓之行的“看法和印象”，但伊美之間已有足夠的調解人，“問題不在於傳遞資訊。問題在於美國的態度是不合邏輯、貪婪且具有控制慾的”。 此前，美國媒體報道，卡達、埃及、巴基斯坦等調解方已向美國和伊朗提出一項為期10天的停火提議。特朗普政府正在研究停火可能性，同時也在為全面戰爭做準備。 本月以來，美伊緊張局勢持續升級。美軍不僅打擊伊朗軍事目標，還轟炸伊朗鐵路、橋樑和海港等基礎設施。伊朗則實施報復性打擊，向美國位於中東的軍事設施發射彈道導彈和無人機。(新華社)"
+    },
+    {
+      "id": "5005899",
+      "time": "2026-07-24 11:53:19",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗：東方甄選盈喜確認轉勢，重申“買入”評級】花旗發表研報指，東方甄選釋出2026財年正面盈利預告，預期全年度收入達56億至58億元，同比增長27%至32%；淨利潤預計達5.2億至5.5億元，相較2025財年的600萬元顯著改善。以指引中位數約57億元計算，收入較市場預期高出約9%，淨利潤亦超越市場預期的4.8億元。淨利潤率中位數達約9.4%，相比2025財年的0.1%大幅提升，屬會員平臺業務轉型成果首度反映於盈利資料上。業務增長動能主要來自下半財年，管理層將業績改善歸因於自有品牌規模及產品組合最佳化、抖音矩陣直播賬號與時長增加，以及自家App會員基礎擴大。花旗表示正等待公司於8月21日公佈的經審計業績，屆時將重新檢視財務模型，目前重申東方甄選“買入”評級，目標價維持33港元。"
+    },
+    {
+      "id": "5005897",
+      "time": "2026-07-24 11:52:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國商務部：前期集中出貨熱潮消退，下半年該國出口增速將放緩。"
+    },
     {
       "id": "5005895",
       "time": "2026-07-24 11:51:35",
@@ -165159,91 +165201,6 @@
         "市場"
       ],
       "text": "【7月17日午間漲停分析】創業板指半日大跌4.71%，電力板塊逆勢走強。艾艾精工4連板，一圖看懂>>"
-    },
-    {
-      "id": "4993461",
-      "time": "2026-07-17 11:56:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【首批主動ETF已被證監會接收申報材料】證監會官網最新披露顯示，首批主動ETF審批狀態已顯示為接收材料，首批產品名稱也披露。分別為建信競爭優勢主動管理ETF、國泰鑫匯均衡收益主動管理ETF、華寶優選穩健股票主動管理ETF、工銀瑞信紅利主動管理ETF、大成紅利智選主動管理ETF、南方大盤風格配置主動管理ETF、鵬華價值臻選主動管理ETF、富國價值優選主動管理ETF、招商價值智選主動管理ETF、華泰柏瑞價值精選主動管理ETF、天弘均衡優選主動管理ETF、華夏質量價值甄選主動管理ETF、華安品質嚴選主動管理ETF、永贏景氣精選主動管理ETF、匯添富均衡策略主動管理ETF、易方達品質未來主動管理ETF、平安行業優選主動管理ETF、摩根核心成長主動管理ETF。從名稱來看，多數為均衡風格型產品，但也有聚焦成長賽道的少數產品在列。"
-    },
-    {
-      "id": "4993460",
-      "time": "2026-07-17 11:56:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新易盛：1.6T光模組目前訂單情況良好 公司根據客戶需求情況持續進行擴產】新易盛(300502)7月17日在互動平臺表示，1.6T光模組目前訂單情況良好，公司根據客戶需求情況持續進行擴產，當前公司供應鏈體系整體穩定。"
-    },
-    {
-      "id": "4993459",
-      "time": "2026-07-17 11:55:59",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通將 百度公司  目標價從230美元下調至205美元。"
-    },
-    {
-      "id": "te:markets:567733",
-      "time": "2026-07-17 11:55:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Extends Gains on FDI Boost, Set for Weekly Rise — The Indonesian rupiah hovered around IDR 17,960 per U.S. dollar on Friday, extending gains for a fourth session. Sentiment was supported by foreign direct investment, which surged 27.4% yoy in Q2, pointing to resilient investor confidence. Meanwhile, the government is preparing to stabilise food prices amid El Niño-related supply risks after June headline inflation moved closer to the upper end of Bank Indonesia's target range. For the week, the currency was set for a modest 0.2% rise after prior weakness, with S&P reaffirming Indonesia's investment-grade rating with a stable outlook. However, gains were capped by higher oil prices and reports of fuel shortages in Sumatra. Traders also braced for Bank Indonesia's policy meeting next week after it delivered a cumulative 100bp rate hike in May and June. Globally, a softer U.S. dollar lent support, with the dollar index steady on Friday but on track for a weekly decline after cooler U.S. inflation tempered Federal Reserve rate hike bets."
-    },
-    {
-      "id": "mkt:019f6e37-0223-7aab-8dd8-e1234fc64b02",
-      "time": "2026-07-17 11:55:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "BIDU.O",
-        "Impact bearish"
-      ],
-      "text": "JP Morgan cut Baidu (BIDU.O) price target to $205 from $230."
-    },
-    {
-      "id": "4993458",
-      "time": "2026-07-17 11:54:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數下跌5%至43,342.48點。"
-    },
-    {
-      "id": "mkt:019f6e36-2509-7aab-8dd8-d8adbf9599d5",
-      "time": "2026-07-17 11:54:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【HKEX to accept RMB for stamp duty and trading levies】The Hong Kong SAR government gazetted the 2026 Stamp Duty (Amendment) (No. 2) Ordinance, specifying that stamp duty on RMB‑counter trades of dual‑counter securities will be calculated and paid in RMB. HKEX will permit participants to settle regulatory levies and trading‑related fees in RMB, including the SFC transaction levy, FSTB transaction levy, the investor compensation levy (currently suspended) and fees payable to the Exchange. HKEX said the measure standardizes payment currency for RMB counter trades to ease global investor use of RMB, and to help pave the way for potential inclusion of RMB counters in Stock Connect; it will continue coordinating with regulators and market participants to strengthen market infrastructure and expand the RMB product ecosystem."
-    },
-    {
-      "id": "4993457",
-      "time": "2026-07-17 11:54:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "派珀·桑德勒將 奈飛  目標股價從115美元下調至85美元。"
-    },
-    {
-      "id": "mkt:019f6e35-5ab9-7aab-8dd8-d75d861cc756",
-      "time": "2026-07-17 11:53:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【DRC Ebola cases exceed 2,100】DRC health ministry said in a report on the 16th the current Ebola outbreak’s cumulative confirmed cases stood at 2,124. As of the 15th there had been 828 deaths; 725 patients remained in isolation or hospital and 390 had recovered."
     }
   ]
 }
