@@ -1,7 +1,63 @@
 {
   "date": "2026-07-24",
-  "count": 3225,
+  "count": 3231,
   "items": [
+    {
+      "id": "5007362",
+      "time": "2026-07-24 23:28:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌4%，現報90.39美元/桶。"
+    },
+    {
+      "id": "5007361",
+      "time": "2026-07-24 23:28:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守88美元/桶，日內跌4.56%。"
+    },
+    {
+      "id": "5007360",
+      "time": "2026-07-24 23:27:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗表示打擊中東多國境內美軍目標】伊朗伊斯蘭革命衛隊24日釋出多份公告說，伊朗伊斯蘭革命衛隊當天對約旦、伊拉克、科威特和巴林境內多個美軍目標發動打擊。公告說，伊朗伊斯蘭革命衛隊空天部隊襲擊了約旦阿茲拉克美軍基地，造成美方數架戰機受損，並打擊了一處美軍人員駐地，造成部分美軍人員傷亡。伊方在伊拉克北部埃爾比勒摧毀了一套“愛國者”防空導彈系統和一個美軍偵察氣球，並打擊了一處美軍人員駐地。公告還說，伊方當天襲擊了位於科威特烏代里美軍基地的3座彈藥和裝備倉庫，相關設施被毀。伊方還打擊了位於巴林的美海軍第五艦隊設施。（新華社）"
+    },
+    {
+      "id": "mkt:019f94bd-4aca-7aab-8e8b-8ce191bf1aec",
+      "time": "2026-07-24 23:27:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says he is in contact with Putin and Zelensky; Putin pledges not to sell arms to Iran】US President Trump said on social media he remains in contact with Russian President Putin and Ukrainian President Zelensky amid the Ukraine war. Trump reported Putin told him Russia will not sell weapons to Iran. Trump said he understands Russia does not supply weapons directly to Ukraine but sells equipment to NATO members who pay full price, and he said he does not know how those systems are subsequently redistributed."
+    },
+    {
+      "id": "mkt:019f94bd-2db5-7aab-8e8b-81b376a55f94",
+      "time": "2026-07-24 23:27:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "SC crude oil front-month contract fell 4.00% intraday to 569.00 yuan a barrel."
+    },
+    {
+      "id": "5007359",
+      "time": "2026-07-24 23:27:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌4%，現報569.00元。"
+    },
     {
       "id": "mkt:019f94ba-bce4-7aab-8e8b-7c811da59ff6",
       "time": "2026-07-24 23:24:53",
