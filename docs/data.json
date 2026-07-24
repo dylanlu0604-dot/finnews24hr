@@ -1,7 +1,117 @@
 {
-  "updated": "2026-07-24 08:12:30",
-  "count": 18010,
+  "updated": "2026-07-24 08:16:27",
+  "count": 18012,
   "items": [
+    {
+      "id": "5005561",
+      "time": "2026-07-24 08:14:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞豐光電：基於公司重要在研專案Micro LED研究程序 可實現短距離光通訊場景應用】瑞豐光電近日接受機構調研時表示，基於公司重要在研專案Micro LED研究程序，可實現短距離光通訊場景應用，推薦有效範圍在十米之內，主要適用於兩個場景：一是機櫃內部，用於機櫃內的短距離資料傳輸，同樣適配十米內的通訊需求；二是汽車內部，用於車內所有預控通訊，如主機與座椅安全、智控攝像頭、顯示器等裝置間的通訊，該光通訊產品尚在開發程序中。"
+    },
+    {
+      "id": "5005560",
+      "time": "2026-07-24 08:12:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率上漲1.5個基點，至3.640%。"
+    },
+    {
+      "id": "te:markets:569430",
+      "time": "2026-07-24 08:12:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Netherlands",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "argenx SE earnings above expectations at 6.44 USD — argenx SE (ARGX) released earnings per share at 6.44 USD, compared to market expectations of 5.41 USD."
+    },
+    {
+      "id": "te:markets:569429",
+      "time": "2026-07-24 08:12:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Comfort Systems USA earnings above expectations at 12.53 USD — Comfort Systems USA (FIX) released earnings per share at 12.53 USD, compared to market expectations of 10.42 USD."
+    },
+    {
+      "id": "te:markets:569428",
+      "time": "2026-07-24 08:12:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Digital Realty earnings above expectations at 1.21 USD — Digital Realty (DLR) released earnings per share at 1.21 USD, compared to market expectations of 0.49 USD."
+    },
+    {
+      "id": "te:markets:569427",
+      "time": "2026-07-24 08:12:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Newmont Corporation earnings below expectations at 3.01 AUD — Newmont Corporation (NEM) released earnings per share at 3.01 AUD, compared to market expectations of 3.12 AUD."
+    },
+    {
+      "id": "te:markets:569426",
+      "time": "2026-07-24 08:12:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "SAP earnings below expectations at 1.59 EUR — SAP (SAP) released earnings per share at 1.59 EUR, compared to market expectations of 1.76 EUR."
+    },
+    {
+      "id": "te:markets:569425",
+      "time": "2026-07-24 08:12:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Infosys earnings above expectations at 19.17 INR — Infosys (INFO) released earnings per share at 19.17 INR, compared to market expectations of 19.15 INR."
+    },
+    {
+      "id": "5005559",
+      "time": "2026-07-24 08:12:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片價格劇烈波動 智慧手機集體漲價】今年以來，國內智慧手機市場迎來一輪罕見的集體漲價。近日，記者在調研時發現，無論是線上電商還是線下門店，主流廠商旗下多款新機及在售機型價格普遍上調，漲幅多在300元至1000元區間，部分高階旗艦產品漲幅甚至突破千元。據瞭解，vivo旗下iQOO產品價格出現明顯上漲，標準版單輪漲價400元至1000元，其中16GB+1TB頂配版本對比首發價累計上漲1500元。在京東之家等門店，相關產品上漲超1600元。榮耀以及華為nova系列等產品相比上一代產品價格漲幅普遍在300元到1000元區間。業內普遍認為，儲存晶片價格的劇烈波動是本輪手機漲價的主因。小米集團總裁盧偉冰預計本輪漲價趨勢至少延續到2027年底。IDC分析師認為，預計2028年至2029年隨著新一輪換機週期到來，市場有望迎來需求復甦。（證券日報）"
+    },
+    {
+      "id": "te:markets:569424",
+      "time": "2026-07-24 08:12:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Hyundai Motor earnings below expectations at 11018.73 KRW — Hyundai Motor (005380) released earnings per share at 11018.73 KRW, compared to market expectations of 11823.38 KRW."
+    },
     {
       "id": "mkt:019f9175-d763-7aab-8e75-caf5624f21ee",
       "time": "2026-07-24 08:10:46",
@@ -164966,82 +165076,6 @@
         "觀點"
       ],
       "text": "【中信證券：xAI當前呈現“基建一線、模型二線”的特徵 Grok4.5模型及應用的商業化潛力仍待驗證】中信證券研報表示，xAI是全球AI模型產業的重要參與者，也是SpaceX“航天—連線—AI”戰略的重要組成部分。公司依託Colossus叢集、X實時資料、Grok模型及Cursor開發者入口，初步形成“算力—資料—模型—應用”閉環。我們認為，xAI當前呈現“基建一線、模型二線”的特徵，中期增長將主要來自算力租賃與Cursor，Grok4.5模型及應用的商業化潛力仍待驗證。當前公司算力基建資本開支達127億美元，但AI原生收入不足5億美元，商業化進度與基礎設施投入仍存在明顯錯配。我們認為，公司增長將主要依賴其算力租賃與Cursor的增長，其中算力租賃業務訂單規模達800億美元，是xAI增長的核心動力。當前大模型產業處於技術與商業雙重拐點，我們看好具備訂單和交付能力的AI基建廠商，以及能夠率先兌現使用者增長與商業價值的AI應用投資機會。後續重點跟蹤商業化產品形態、模型廠商競爭格局演變及收入利潤增長曲線等。"
-    },
-    {
-      "id": "mkt:019f6d6d-40fd-7aab-8dd3-88a5647e5704",
-      "time": "2026-07-17 08:15:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 fell 3.00% intraday to 64,828.46 points."
-    },
-    {
-      "id": "4993115",
-      "time": "2026-07-17 08:14:54",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信證券：霍爾木茲海峽通航問題仍將繼續擾動全球各類資產】中信證券研報表示，霍爾木茲海峽局勢再度升級，美伊的海峽控制權等核心矛盾並未因6月《伊斯蘭堡諒解備忘錄》而得到解決。備忘錄一度推動海峽通航恢復，但隨著美國推行南部航道、伊朗強化對航道的實際控制，雙方矛盾重新激化致使通航再度受阻。資產方面，預計原油短期走強，後續仍大幅波動；全球股市等風險資產仍然能走出獨立行情；黃金短期內繼續表現為風險資產受到壓制。預計美伊核心分歧短時間無法真正解決，在此之前霍爾木茲海峽通航問題仍將繼續擾動全球各類資產。"
-    },
-    {
-      "id": "4993114",
-      "time": "2026-07-17 08:14:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數擴大跌幅，最新下跌3%至64,822.86點。"
-    },
-    {
-      "id": "mkt:019f6d6c-deac-7aab-8dd3-81092373fa57",
-      "time": "2026-07-17 08:14:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "09678.HK"
-      ],
-      "text": "Yunzhisheng (09678.HK) said it completed an iterative upgrade of its U2 base model and launched U2-Med, marketed as the industry’s first specialized large model for medical care, medical insurance (including commercial insurance) and pharmaceuticals."
-    },
-    {
-      "id": "4993113",
-      "time": "2026-07-17 08:13:48",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【上半年全國鐵路完成固定資產投資3632億元 同比增長2.1%】2026年上半年，全國鐵路完成固定資產投資3632億元，同比增長2.1%，累計投產新線355.2公里。下一步，國鐵集團將深入貫徹落實黨中央、國務院關於完善現代化綜合交通運輸體系的部署要求，全面落實國家“十五五”規劃《綱要》確定的各項鐵路重點工程建設任務，加快推進重點專案前期工作，科學最佳化在建專案施工組織，提升鐵路投資質量和效益，確保完成全年建設任務，助力經濟社會高質量發展。"
-    },
-    {
-      "id": "4993112",
-      "time": "2026-07-17 08:13:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數在交易時段內跌破 65000 點，為 6 月 12 日以來首次。"
-    },
-    {
-      "id": "mkt:019f6d6b-5c01-7aab-8dd3-7c73c7b69b56",
-      "time": "2026-07-17 08:13:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Republican Senator Bernie Moreno said he had just been briefed by the WHITE HOUSE on tonight’s speech and urged Americans to watch President Trump’s address at 9:00 a.m. Beijing time, calling it possibly the most important Oval Office speech since the Cuban Missile Crisis."
-    },
-    {
-      "id": "4993111",
-      "time": "2026-07-17 08:12:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數較6月份高點下跌10%。"
     }
   ]
 }

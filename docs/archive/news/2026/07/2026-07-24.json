@@ -1,7 +1,117 @@
 {
   "date": "2026-07-24",
-  "count": 609,
+  "count": 619,
   "items": [
+    {
+      "id": "5005561",
+      "time": "2026-07-24 08:14:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞豐光電：基於公司重要在研專案Micro LED研究程序 可實現短距離光通訊場景應用】瑞豐光電近日接受機構調研時表示，基於公司重要在研專案Micro LED研究程序，可實現短距離光通訊場景應用，推薦有效範圍在十米之內，主要適用於兩個場景：一是機櫃內部，用於機櫃內的短距離資料傳輸，同樣適配十米內的通訊需求；二是汽車內部，用於車內所有預控通訊，如主機與座椅安全、智控攝像頭、顯示器等裝置間的通訊，該光通訊產品尚在開發程序中。"
+    },
+    {
+      "id": "5005560",
+      "time": "2026-07-24 08:12:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率上漲1.5個基點，至3.640%。"
+    },
+    {
+      "id": "te:markets:569430",
+      "time": "2026-07-24 08:12:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Netherlands",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "argenx SE earnings above expectations at 6.44 USD — argenx SE (ARGX) released earnings per share at 6.44 USD, compared to market expectations of 5.41 USD."
+    },
+    {
+      "id": "te:markets:569429",
+      "time": "2026-07-24 08:12:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Comfort Systems USA earnings above expectations at 12.53 USD — Comfort Systems USA (FIX) released earnings per share at 12.53 USD, compared to market expectations of 10.42 USD."
+    },
+    {
+      "id": "te:markets:569428",
+      "time": "2026-07-24 08:12:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Digital Realty earnings above expectations at 1.21 USD — Digital Realty (DLR) released earnings per share at 1.21 USD, compared to market expectations of 0.49 USD."
+    },
+    {
+      "id": "te:markets:569427",
+      "time": "2026-07-24 08:12:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Newmont Corporation earnings below expectations at 3.01 AUD — Newmont Corporation (NEM) released earnings per share at 3.01 AUD, compared to market expectations of 3.12 AUD."
+    },
+    {
+      "id": "te:markets:569426",
+      "time": "2026-07-24 08:12:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "SAP earnings below expectations at 1.59 EUR — SAP (SAP) released earnings per share at 1.59 EUR, compared to market expectations of 1.76 EUR."
+    },
+    {
+      "id": "te:markets:569425",
+      "time": "2026-07-24 08:12:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Infosys earnings above expectations at 19.17 INR — Infosys (INFO) released earnings per share at 19.17 INR, compared to market expectations of 19.15 INR."
+    },
+    {
+      "id": "te:markets:569424",
+      "time": "2026-07-24 08:12:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Hyundai Motor earnings below expectations at 11018.73 KRW — Hyundai Motor (005380) released earnings per share at 11018.73 KRW, compared to market expectations of 11823.38 KRW."
+    },
+    {
+      "id": "5005559",
+      "time": "2026-07-24 08:12:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片價格劇烈波動 智慧手機集體漲價】今年以來，國內智慧手機市場迎來一輪罕見的集體漲價。近日，記者在調研時發現，無論是線上電商還是線下門店，主流廠商旗下多款新機及在售機型價格普遍上調，漲幅多在300元至1000元區間，部分高階旗艦產品漲幅甚至突破千元。據瞭解，vivo旗下iQOO產品價格出現明顯上漲，標準版單輪漲價400元至1000元，其中16GB+1TB頂配版本對比首發價累計上漲1500元。在京東之家等門店，相關產品上漲超1600元。榮耀以及華為nova系列等產品相比上一代產品價格漲幅普遍在300元到1000元區間。業內普遍認為，儲存晶片價格的劇烈波動是本輪手機漲價的主因。小米集團總裁盧偉冰預計本輪漲價趨勢至少延續到2027年底。IDC分析師認為，預計2028年至2029年隨著新一輪換機週期到來，市場有望迎來需求復甦。（證券日報）"
+    },
     {
       "id": "mkt:019f9175-d763-7aab-8e75-caf5624f21ee",
       "time": "2026-07-24 08:10:46",
