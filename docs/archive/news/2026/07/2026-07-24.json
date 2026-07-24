@@ -1,7 +1,91 @@
 {
   "date": "2026-07-24",
-  "count": 619,
+  "count": 628,
   "items": [
+    {
+      "id": "5005569",
+      "time": "2026-07-24 08:19:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年上半年船舶行業執行分析會在北京召開】7月23日，為全面分析2026年上半年我國船舶行業經濟執行情況，研判行業未來走勢，中國船舶工業行業協會在北京組織召開了2026年上半年船舶行業執行分析會。會議研究了影響船舶行業平穩執行的各類挑戰，重點研判地緣政治環境、保交付履約壓力、關鍵配套供應鏈穩定、匯率波動與技術工人短缺等苗頭性、趨勢性風險。與會代表一致認為，我國船舶企業應持續推進綠色化、智慧化、融合化發展，健全風險預警機制，夯實產業鏈供應鏈基礎，深化全球海事產業合作，強化專業人才隊伍培育。（人民財訊）"
+    },
+    {
+      "id": "5005568",
+      "time": "2026-07-24 08:19:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大總理卡尼稱若美國實施50%關稅 加拿大將考慮所有反制選項】加拿大總理馬克·卡尼表示，如果加拿大無法與美國達成協議以避免下個月生效的50%關稅，加拿大正在權衡一切可能的反制措施。“如果無法達成協議，所有選項都在考慮之中，具體取決於談判結果，”他週四在愛德華王子島夏洛特敦對記者表示。本週，美國總統唐納德·特朗普政府援引一項可追溯至大蕭條時期的法律，威脅對包括電氣裝置、包裝材料、冰球裝備和啤酒在內的一系列加拿大產品徵收50%關稅。這些關稅將影響加拿大約5%的對美商品出口，最早將於8月19日生效。卡尼表示，兩國政府代表目前正在就所有現行關稅及貿易措施展開討論。"
+    },
+    {
+      "id": "5005567",
+      "time": "2026-07-24 08:18:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本航空股隨原油價格上漲而下跌，日本航空股價下跌3.1%，全日空控股股價下跌3.1%。"
+    },
+    {
+      "id": "5005566",
+      "time": "2026-07-24 08:18:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞將追加投資46億澳元支援核潛艇造船廠建設】澳大利亞政府在一份宣告中表示，將追加 46 億澳元投資於海軍基礎設施，以支援其世界一流的核動力潛艇建造船廠的持續建設。這使得政府迄今為止對該建築工地的出資額達到85億澳元。"
+    },
+    {
+      "id": "5005565",
+      "time": "2026-07-24 08:17:05",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數下跌2.3%，受科技和晶片股拖累】在能源成本上升再度引發擔憂之際，日本股市下跌。科技股、晶片股和航空股領跌。軟銀集團下跌5.2%，鎧俠下跌3.5%，日本航空下跌3.3%。 在布倫特原油兩個月來首次突破每桶100美元后，投資者正密切關注中東局勢的發展和油價。日經指數下跌2.3%，至64904.21點。"
+    },
+    {
+      "id": "te:economy:569431",
+      "time": "2026-07-24 08:16:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "Japan Food Prices Rise the Least in Near Two years — Japan's food prices increased 3.2% year-on-year in June 2026, slowing from 3.5% in May and marking the softest rise since July 2024. Price growth slowed for fresh vegetables (2.6% vs 3.8% in May), cakes and candies (5.7% vs 8.1%), prepared foods (4.2% vs 4.4%), and beverages (6.8% vs 8.7%). At the same time, cereal cost fell for the second straight month (-2.5% vs -0.9%) while fresh fruit prices stayed in deflation (-0.9% vs -1.6%). In contrast, inflation accelerated for fish and seafood (6.9% vs 5.5%), meats (4.3% vs 3.5%), dairy products and eggs (4.6% vs 3.6%), oils, fats, and seasonings (4.2% vs 3.9%), alcoholic beverages (0.4% vs 0.2%), and meals eaten out (1.2% vs 1.0%). Among staple foods, rice prices declined 8.7% from a year earlier, falling for the second consecutive month and registering the largest drop since August 2015."
+    },
+    {
+      "id": "5005564",
+      "time": "2026-07-24 08:16:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指跌幅擴大至3%】韓國綜指跌幅擴大至3%，現報6883.91點。個股方面，SK海力士跌超4%，三星電子跌超3%。"
+    },
+    {
+      "id": "mkt:019f917a-d3fb-7aab-8e75-d3a9e7c5ba98",
+      "time": "2026-07-24 08:16:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI extends losses to 3%; Samsung Electronics down 3.5%, SK Hynix down 4.2%."
+    },
+    {
+      "id": "5005562",
+      "time": "2026-07-24 08:16:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1%至266.43點。"
+    },
     {
       "id": "5005561",
       "time": "2026-07-24 08:14:17",
