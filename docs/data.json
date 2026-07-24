@@ -1,7 +1,134 @@
 {
-  "updated": "2026-07-24 20:19:05",
-  "count": 18104,
+  "updated": "2026-07-24 20:23:10",
+  "count": 18106,
   "items": [
+    {
+      "id": "5007043",
+      "time": "2026-07-24 20:22:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽微電子：全資子公司8000萬元投資初芯共創穫11.43%股權】賽微電子公告稱，公司全資子公司微芯科技與海盈基金作為增資方，與初芯共創及其股東簽署《增資協議》。微芯科技以自有資金8000萬元對初芯共創出資，其中1481.48萬元計入註冊資本，佔其增資後註冊資本的11.43%。初芯共創已申請工商變更登記。此次投資符合公司戰略，或提升綜合實力，但初芯共創運營有不確定性，投資可能無法達預期。"
+    },
+    {
+      "id": "5007042",
+      "time": "2026-07-24 20:21:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【農業銀行支援印尼首期熊貓債成功發行】近日，農業銀行成功支援印度尼西亞共和國在中國銀行間債券市場發行的首期熊貓債，投資規模居同業前列。本次發行採用“3年+5年”組合模式，品種一發行金額56億元，期限3年；品種二發行金額14億元，期限5年。債券合計發行規模70億元，創主權熊貓債發行規模新高。其中，5年期品種為今年以來主權熊貓債最長期限。（中國農業銀行）"
+    },
+    {
+      "id": "mkt:019f9412-cf9e-7aab-8e87-c80243afe704",
+      "time": "2026-07-24 20:21:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump seeks to unfreeze tens of bln USD in Venezuelan assets to fund earthquake relief."
+    },
+    {
+      "id": "5007041",
+      "time": "2026-07-24 20:21:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國請求啟動歐盟民事保護機制應對野火】法國總統馬克龍24日在社交媒體上發文表示，法國已請求啟動歐盟民事保護機制，以應對全國多地持續蔓延的野火。馬克龍表示，法國各地野火形勢仍然高度緊張，尤其是西南部吉倫特省火情嚴峻。他說，法國將很快獲得來自克羅埃西亞、葡萄牙、捷克和斯洛伐克的滅火飛機和直升機支援滅火。（新華社）"
+    },
+    {
+      "id": "mkt:019f9412-5e53-7aab-8e87-c189f33be430",
+      "time": "2026-07-24 20:20:59",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "MORGAN STANLEY raises Intel (INTC.O) PT to $84 from $75."
+    },
+    {
+      "id": "5007040",
+      "time": "2026-07-24 20:20:42",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將英特爾目標股價從75.00美元上調至84.00美元。"
+    },
+    {
+      "id": "mkt:019f9412-173c-7aab-8e87-b82b8d0fac5d",
+      "time": "2026-07-24 20:20:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Russia Governor Nabiullina said there is no need to raise interest rates."
+    },
+    {
+      "id": "5007039",
+      "time": "2026-07-24 20:20:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行行長納比烏琳娜：沒有理由預防性加息。"
+    },
+    {
+      "id": "mkt:019f9411-f0ac-7aab-8e87-b09f3c42cd94",
+      "time": "2026-07-24 20:20:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jordan's military said it intercepted Iranian missiles and drones and reported no casualties or damage."
+    },
+    {
+      "id": "mkt:019f9411-aefa-7aab-8e87-ac2d30ed657a",
+      "time": "2026-07-24 20:20:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Jordanian military says it shot down seven Iranian missiles and six drones."
+    },
+    {
+      "id": "5007038",
+      "time": "2026-07-24 20:19:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦國家電視臺報道：約旦軍方稱其擊落了七枚伊朗導彈和六架無人機。"
+    },
+    {
+      "id": "5007037",
+      "time": "2026-07-24 20:19:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：保加利亞議會透過 2026 年預演算法案。"
+    },
+    {
+      "id": "mkt:019f9410-de2f-7aab-8e87-a627d26afbdb",
+      "time": "2026-07-24 20:19:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps struck US military assets in Jordan and in Erbil, Iraq."
+    },
+    {
+      "id": "5007036",
+      "time": "2026-07-24 20:18:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST英飛：董事長劉肇懷因年事已高辭職】*ST英飛公告稱，公司董事會近日收到董事長劉肇懷的辭職函，其因年事已高擬退休，辭去董事、董事長等職務，原定任期至第六屆董事會屆滿。辭職後他不在公司任職，但作為股東支援公司發展。其辭職未使董事會成員低於法定人數，不影響日常經營，辭職函已生效。公司將盡快完成相關補選及變更工作。截至公告日，劉肇懷合計持股比例32.43%（有表決權比例20.27%），辭職後仍遵守相關規定和承諾。"
+    },
     {
       "id": "5007035",
       "time": "2026-07-24 20:18:11",
@@ -165966,114 +166093,6 @@
         "公司"
       ],
       "text": "【聯想陳敏儀：AI不應是少數人的奢侈品，而是像“水電”一樣的基礎設施】2026世界人工智慧大會（2026WAIC）開幕首日，聯想集團副總裁、SSG業務應用服務交付部負責人陳敏儀分享指出，當前人工智慧技術正在從共識走向實踐，成為推動產業升級和社會經濟發展的核心生產力。作為2026 FIFA世界盃官方技術合作夥伴，聯想將把在國際頂級賽事沉澱的AI能力，轉化為適配全行業、全要素智慧化運營的增長紅利，加速在製造、能源、交通、零售等實體經濟領域的落地應用。（新浪科技）"
-    },
-    {
-      "id": "4994605",
-      "time": "2026-07-17 20:23:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滙豐將蘋果評級上調至買入】滙豐控股週五將蘋果公司股票評級上調至買入，這也體現出華爾街對這家 iPhone 廠商的信心持續升溫；當下大量人工智慧相關標的走勢疲軟，蘋果的市場地位凸顯優勢。此前給予蘋果持有評級的分析師尼古拉斯・科特 - 科利森撰文稱，蘋果 “如今迎來經營拐點”，一方面公司無需再承受市場對高額資本開支的爭議，另一方面依託 25 億臺存量裝置，搭配即將推出的全新 Apple Intelligence 蘋果智慧系統，具備充分的發展優勢。蘋果近期股價表現亮眼，自 6 月末以來漲幅超 20%，股價創下歷史新高。"
-    },
-    {
-      "id": "4994604",
-      "time": "2026-07-17 20:22:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南礦業：星之海首批碳酸鋰產品下線】據海南礦業訊息，繼6月30日新增碳化線正式投產後，7月17日，經過前期裝置除錯、工藝最佳化與試執行磨合，星之海新增碳化線成功產出第一批碳酸鋰產品，順利實現首批產品下線，標誌著新產線工藝鏈路全面打通，為後續產線穩定運轉和產能爬坡奠定堅實基礎。"
-    },
-    {
-      "id": "4994602",
-      "time": "2026-07-17 20:22:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "據相關報道，伊拉克蘇萊曼尼亞地區一夜之間發生多起劇烈爆炸。"
-    },
-    {
-      "id": "4994601",
-      "time": "2026-07-17 20:21:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局（USGS）：葉門哈迪布以北203公里處發生5.3級地震。"
-    },
-    {
-      "id": "4994600",
-      "time": "2026-07-17 20:21:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱美軍襲擊霍爾木茲甘省已致8死19傷】當地時間17日，伊朗南部霍爾木茲甘省副省長表示，美軍於16日晚至17日凌晨對該省發動的襲擊已造成8人死亡，19人受傷。據悉，美軍前一晚對霍爾木茲甘省首府阿巴斯港和多座橋樑發動空襲。（央視新聞）"
-    },
-    {
-      "id": "4994599",
-      "time": "2026-07-17 20:21:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國成為埃塞咖啡第三大出口市場】衣索比亞咖啡和茶葉管理局副局長沙菲·烏邁爾日前接受新華社記者採訪時表示，在截至7月7日的2025/26財年，中國成為衣索比亞咖啡第三大出口市場。（新華社）"
-    },
-    {
-      "id": "mkt:019f7005-fd2f-7aab-8de4-19b875ab1955",
-      "time": "2026-07-17 20:21:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "CSI300",
-        "SZSE Component"
-      ],
-      "text": "【Shenzhen Stock Exchange and HKEX sign memorandum to deepen information sharing and cross-border cooperation】July 17, 2026 — Shenzhen Stock Exchange and Hong Kong Exchanges and Clearing Ltd signed a memorandum to deepen information sharing and cross-border cooperation. The memorandum establishes coordinated information exchange and supports voluntary reporting of relevant data by HKEX participants to help refine the Stock Connect interlinkage. Shenzhen Stock Exchange said it will, under the CSRC's coordination, continue to optimize cross-border cooperation, enhance interconnect mechanism efficiency and advance institutional opening of China’s capital market."
-    },
-    {
-      "id": "4994598",
-      "time": "2026-07-17 20:21:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深交所和香港聯交所簽署合作備忘錄】2026年7月17日，深圳證券交易所與香港聯合交易所有限公司簽署合作備忘錄，以進一步促進資訊交流及跨境合作。自深港通推出以來，深交所與香港聯交所根據市場發展情況，已持續最佳化完善多項機制安排，積極促進兩地市場穩定健康發展。此次簽署的備忘錄將進一步推動雙方在資訊交流方面的協同合作，支援有關香港聯交所參與者自願報送相關資訊，促進互聯互通機制持續深化完善。下一步，深交所將在中國證監會統籌指導下，持續最佳化完善跨境合作，提升互聯互通機制效能，堅定不移推動資本市場高水平制度型開放。"
-    },
-    {
-      "id": "4994597",
-      "time": "2026-07-17 20:20:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "JSW鋼鐵高管：第二季度焦煤成本預計每噸上漲12至15美元。"
-    },
-    {
-      "id": "mkt:019f7005-14ab-7aab-8de4-153c3d30a121",
-      "time": "2026-07-17 20:20:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "US June import price index MoM, housing starts (annualized) and total building permits to be released in 10 minutes."
-    },
-    {
-      "id": "4994596",
-      "time": "2026-07-17 20:19:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【達卯科技2026WAIC上釋出算電協同2.0平臺】7月17日，2026世界人工智慧大會（WAIC）首日，達卯科技釋出算電協同2.0平臺･AIDC綠電直連能源運營作業系統，讓電力從算力的成本單元，轉變為Token的價值支點。"
-    },
-    {
-      "id": "4994594",
-      "time": "2026-07-17 20:19:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "奧本海默將黑石集團目標股價從156美元下調至139美元。"
     }
   ]
 }

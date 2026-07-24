@@ -1,7 +1,134 @@
 {
   "date": "2026-07-24",
-  "count": 2743,
+  "count": 2757,
   "items": [
+    {
+      "id": "5007043",
+      "time": "2026-07-24 20:22:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽微電子：全資子公司8000萬元投資初芯共創穫11.43%股權】賽微電子公告稱，公司全資子公司微芯科技與海盈基金作為增資方，與初芯共創及其股東簽署《增資協議》。微芯科技以自有資金8000萬元對初芯共創出資，其中1481.48萬元計入註冊資本，佔其增資後註冊資本的11.43%。初芯共創已申請工商變更登記。此次投資符合公司戰略，或提升綜合實力，但初芯共創運營有不確定性，投資可能無法達預期。"
+    },
+    {
+      "id": "5007042",
+      "time": "2026-07-24 20:21:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【農業銀行支援印尼首期熊貓債成功發行】近日，農業銀行成功支援印度尼西亞共和國在中國銀行間債券市場發行的首期熊貓債，投資規模居同業前列。本次發行採用“3年+5年”組合模式，品種一發行金額56億元，期限3年；品種二發行金額14億元，期限5年。債券合計發行規模70億元，創主權熊貓債發行規模新高。其中，5年期品種為今年以來主權熊貓債最長期限。（中國農業銀行）"
+    },
+    {
+      "id": "mkt:019f9412-cf9e-7aab-8e87-c80243afe704",
+      "time": "2026-07-24 20:21:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump seeks to unfreeze tens of bln USD in Venezuelan assets to fund earthquake relief."
+    },
+    {
+      "id": "5007041",
+      "time": "2026-07-24 20:21:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國請求啟動歐盟民事保護機制應對野火】法國總統馬克龍24日在社交媒體上發文表示，法國已請求啟動歐盟民事保護機制，以應對全國多地持續蔓延的野火。馬克龍表示，法國各地野火形勢仍然高度緊張，尤其是西南部吉倫特省火情嚴峻。他說，法國將很快獲得來自克羅埃西亞、葡萄牙、捷克和斯洛伐克的滅火飛機和直升機支援滅火。（新華社）"
+    },
+    {
+      "id": "mkt:019f9412-5e53-7aab-8e87-c189f33be430",
+      "time": "2026-07-24 20:20:59",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "MORGAN STANLEY raises Intel (INTC.O) PT to $84 from $75."
+    },
+    {
+      "id": "5007040",
+      "time": "2026-07-24 20:20:42",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將英特爾目標股價從75.00美元上調至84.00美元。"
+    },
+    {
+      "id": "mkt:019f9412-173c-7aab-8e87-b82b8d0fac5d",
+      "time": "2026-07-24 20:20:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Russia Governor Nabiullina said there is no need to raise interest rates."
+    },
+    {
+      "id": "5007039",
+      "time": "2026-07-24 20:20:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行行長納比烏琳娜：沒有理由預防性加息。"
+    },
+    {
+      "id": "mkt:019f9411-f0ac-7aab-8e87-b09f3c42cd94",
+      "time": "2026-07-24 20:20:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jordan's military said it intercepted Iranian missiles and drones and reported no casualties or damage."
+    },
+    {
+      "id": "mkt:019f9411-aefa-7aab-8e87-ac2d30ed657a",
+      "time": "2026-07-24 20:20:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Jordanian military says it shot down seven Iranian missiles and six drones."
+    },
+    {
+      "id": "5007038",
+      "time": "2026-07-24 20:19:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦國家電視臺報道：約旦軍方稱其擊落了七枚伊朗導彈和六架無人機。"
+    },
+    {
+      "id": "5007037",
+      "time": "2026-07-24 20:19:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：保加利亞議會透過 2026 年預演算法案。"
+    },
+    {
+      "id": "mkt:019f9410-de2f-7aab-8e87-a627d26afbdb",
+      "time": "2026-07-24 20:19:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps struck US military assets in Jordan and in Erbil, Iraq."
+    },
+    {
+      "id": "5007036",
+      "time": "2026-07-24 20:18:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST英飛：董事長劉肇懷因年事已高辭職】*ST英飛公告稱，公司董事會近日收到董事長劉肇懷的辭職函，其因年事已高擬退休，辭去董事、董事長等職務，原定任期至第六屆董事會屆滿。辭職後他不在公司任職，但作為股東支援公司發展。其辭職未使董事會成員低於法定人數，不影響日常經營，辭職函已生效。公司將盡快完成相關補選及變更工作。截至公告日，劉肇懷合計持股比例32.43%（有表決權比例20.27%），辭職後仍遵守相關規定和承諾。"
+    },
     {
       "id": "5007035",
       "time": "2026-07-24 20:18:11",
