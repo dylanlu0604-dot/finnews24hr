@@ -1,7 +1,148 @@
 {
   "date": "2026-07-24",
-  "count": 2031,
+  "count": 2046,
   "items": [
+    {
+      "id": "mkt:019f9368-8209-7aab-8e82-75f24a482847",
+      "time": "2026-07-24 17:15:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "HKEX filing: China Petroleum & Chemical Corp (00386.HK) repurchased 1,000,000 A shares on other exchanges on July 24 for RMB 5.2 mln."
+    },
+    {
+      "id": "mkt:019f9368-79ba-7aab-8e82-6b18c4c49982",
+      "time": "2026-07-24 17:15:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "029.HK"
+      ],
+      "text": "【Cathay Pacific to raise passenger fuel surcharge from Aug 1】July 24 — Cathay Pacific said it will raise its passenger fuel surcharge effective Aug 1, 2026, citing a recent rise in aviation fuel prices. The airline said the surcharge had been lowered multiple times since May as fuel costs eased, indicating the current mechanism tracks fuel-price moves, and that it will continue to review the surcharge every two weeks."
+    },
+    {
+      "id": "5006511",
+      "time": "2026-07-24 17:15:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "港交所公告：中石化於7月24日在其他交易所回購100萬股A股，總金額為520萬元人民幣。"
+    },
+    {
+      "id": "mkt:019f9367-e8fd-7aab-8e82-67f13d06dabf",
+      "time": "2026-07-24 17:14:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Indian court said news agency ANI failed to show to the court that ANI's original content appeared in ChatGPT's responses."
+    },
+    {
+      "id": "mkt:019f9367-9fec-7aab-8e82-5ec4ffd3e248",
+      "time": "2026-07-24 17:14:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "RUSSIAN DEFENCE MINISTRY said Russian forces struck 27 vessels used by the Ukrainian military over the past week."
+    },
+    {
+      "id": "5006510",
+      "time": "2026-07-24 17:14:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興蓉環境：持股5%以上股東增持2985.66萬股 持股達8.12%】興蓉環境公告稱，2026年7月17日至23日，持股5%以上股東信環綠色控股透過深交所集中競價交易方式增持公司股份2985.66萬股，佔總股本的1.00%。增持後，信環綠色控股持有公司股份2.42億股，佔總股本的8.12%，本次持股變動觸及1%的整數倍。此次增持系履行增持計劃，該計劃尚未實施完畢，信環綠色控股將繼續增持並及時披露。"
+    },
+    {
+      "id": "5006509",
+      "time": "2026-07-24 17:14:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【博邁科：上半年虧損7044.03萬元】博邁科(603727)7月24日披露半年報，2026年上半年實現營業收入7.64億元，同比下降26.72%；歸母淨利潤虧損7044.03萬元，上年同期淨利潤1238.58萬元。歸母淨利潤減少主要系本期專案收入減少所致。"
+    },
+    {
+      "id": "mkt:019f9367-5a83-7aab-8e82-53533f92aebc",
+      "time": "2026-07-24 17:14:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "German 2-year bond yield extended losses, slipping 5bps intraday to 2.8399%."
+    },
+    {
+      "id": "5006508",
+      "time": "2026-07-24 17:14:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【魚躍醫療：腕部動態血壓記錄儀取得醫療器械註冊證】魚躍醫療公告，近日收到了江蘇省藥品監督管理局頒發的關於腕部動態血壓記錄儀的《醫療器械註冊證》。該產品用於單次或24小時內設定的不同時間段裡在靜止情況下測量成人（18週歲及以上）的收縮壓、舒張壓、脈率，其數值供臨床參考。"
+    },
+    {
+      "id": "5006507",
+      "time": "2026-07-24 17:14:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄部隊控制烏克蘭哈爾科夫州扎哈里夫卡與伊瓦希奇內。"
+    },
+    {
+      "id": "5006506",
+      "time": "2026-07-24 17:13:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行：將預付卡發行與受理歸入儲值賬戶運營Ⅱ類業務】為做好《非銀行支付機構監督管理條例》配套制度制定，規範儲值賬戶運營Ⅱ類業務管理，中國人民銀行組織起草了《儲值賬戶運營Ⅱ類業務管理辦法》。《條例》及實施細則重新劃定支付業務分類，將預付卡發行與受理歸入儲值賬戶運營Ⅱ類業務，並提出基本業務要求。《辦法》作為《條例》的配套制度之一，明確儲值賬戶運營Ⅱ類業務具體規則，確保《條例》要求落實落細。隨著預付卡業務發展，市場中出現了一些新情1況，既有便民利民的創新實踐，也有違規問題和風險事件。對此，有必要結合預付卡業務發展趨勢和風險隱患，適配完善監管制度，營造良好的政策環境，促進預付卡行業健康有序發展。"
+    },
+    {
+      "id": "mkt:019f9366-5c2c-7aab-8e82-4cfc3a6c9820",
+      "time": "2026-07-24 17:13:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "SSE Composite"
+      ],
+      "text": "【Cushman & Wakefield: China public REITs market enters dual‑pillar growth cycle】Cushman & Wakefield's 2025-2026 Asia REITs report says the global REIT market entered a structural expansion phase in 2025-26. Asia is broadening as mature markets stabilize and emerging markets accelerate. Mainland China's public REITs market has formed a dual pillar of infrastructure and commercial real estate and is the region's fastest-growing REIT hub. As of March 31, 2026, Asia had 289 active REITs with total market value $279.4 bln, up 18% from end-2024. The period saw 26 new REIT listings, 21 from mainland China, concentrated in logistics/warehousing, industrial factories, consumer infrastructure and sustainability-focused assets."
+    },
+    {
+      "id": "5006505",
+      "time": "2026-07-24 17:12:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油價格延續跌勢，下跌3.8%至每桶96.89美元。"
+    },
+    {
+      "id": "mkt:019f9365-d9ed-7aab-8e82-400e24992162",
+      "time": "2026-07-24 17:12:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese researchers build 'molecular bridge' in tandem PV cells】Soochow University researchers led by Professors Yang Xinbo and Zhang Xiaohong, with Hong Kong Polytechnic University and several photovoltaic firms, developed an indium-free composite interlayer that forms a molecular bridge between perovskite and crystalline silicon. The layer improved power conversion efficiency and long-term stability in tandem photovoltaic cells in a next-generation industrialization project; results were published online in Nature Energy on July 24."
+    },
+    {
+      "id": "mkt:019f9365-ccf7-7aab-8e82-3bd07ee3acde",
+      "time": "2026-07-24 17:12:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry says Russian forces have taken control of the Zakharyivka and Ivashkino settlements in Ukraine's Kharkiv region."
+    },
     {
       "id": "5006504",
       "time": "2026-07-24 17:11:51",
