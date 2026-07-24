@@ -1,7 +1,139 @@
 {
   "date": "2026-07-24",
-  "count": 2868,
+  "count": 2883,
   "items": [
+    {
+      "id": "5007126",
+      "time": "2026-07-24 21:02:42",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "羅馬尼亞財政部資料顯示，截至6月底，羅馬尼亞合併預算赤字佔GDP的比例為2.0%，2025年同期該比例為3.64%。"
+    },
+    {
+      "id": "te:markets:569783",
+      "time": "2026-07-24 21:02:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Steadies After Sharp Drop as Markets Assess Middle East Risks — Gold prices were little changed at around $4,050 per ounce on Friday, steadying after a nearly 2% drop in the previous session as investors monitored developments in the Middle East for clues on energy-driven inflation risks and the outlook for US interest rates. Higher oil prices, driven by concerns over Gulf supply disruptions, have reinforced expectations that interest rates could remain higher for longer, reducing the appeal of non-yielding gold. Investors now await next week's Federal Reserve meeting, where rates are widely expected to remain unchanged, though markets still price in an roughly 80% chance of a hike in September. Meanwhile, the European Central Bank kept rates unchanged on Thursday while leaving the door open to a September increase. In Asia, gold discounts in India widened to a seven-week high as higher prices curbed demand, while buying interest improved in China."
+    },
+    {
+      "id": "5007125",
+      "time": "2026-07-24 21:02:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東將防風Ⅳ級應急響應提升為Ⅲ級】鑑於今年第12號颱風“紅霞”強度進一步增強，給廣東省帶來的風雨影響進一步加大。根據《廣東省防汛防旱防風防凍應急預案》和省防總有關規定，廣東省防汛防旱防風總指揮部已於7月24日20時將防風Ⅳ級應急響應提升為防風Ⅲ級應急響應。"
+    },
+    {
+      "id": "5007124",
+      "time": "2026-07-24 21:01:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟宣佈對六名伊朗個人實施限制性措施】當地時間24日，歐盟理事會發布訊息稱，根據歐盟的原則立場，決定對六名伊朗個人實施限制性措施，其中包括五名伊朗法官。歐盟理事會稱，根據今天的決定，與伊朗相關的限制措施現已適用於269名個人和53個實體。這些限制措施包括凍結資產、禁止其前往歐盟旅行，以及禁止向其提供資金等。伊朗方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "5007123",
+      "time": "2026-07-24 21:00:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西南證券股份有限公司原二級專務彭世斌接受審查調查】據重慶市紀委監委訊息：西南證券股份有限公司原二級專務彭世斌涉嫌嚴重違紀違法，目前正接受重慶市紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5007122",
+      "time": "2026-07-24 21:00:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古自治區體育局副局長劉胡成接受審查調查】據內蒙古自治區紀委監委訊息：內蒙古自治區體育局黨組成員、副局長劉胡成涉嫌嚴重違紀違法，目前正接受內蒙古自治區紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5007121",
+      "time": "2026-07-24 21:00:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通首席財務官談及地緣政治緊張局勢時表示，地緣衝突對往返中東的旅行確有一定影響，但全球旅行總體呈上升態勢。"
+    },
+    {
+      "id": "mkt:019f9436-5563-7aab-8e88-e1b75b9e1b08",
+      "time": "2026-07-24 21:00:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "At the night session open, China’s main futures contracts were mostly lower. PTA slipped nearly 3%; low-sulfur fuel oil (LU), paraxylene (PX), styrene (EB), fuel oil, benzene and SC crude each fell more than 2%. Rapeseed meal, Shanghai silver and Shanghai tin rose over 1%."
+    },
+    {
+      "id": "5007120",
+      "time": "2026-07-24 21:00:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "伯克希爾哈撒韋完成收購泰勒莫里森公司。"
+    },
+    {
+      "id": "5007119",
+      "time": "2026-07-24 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲1%，現報909.00元。"
+    },
+    {
+      "id": "5007118",
+      "time": "2026-07-24 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌2%，現報5802.00元。"
+    },
+    {
+      "id": "5007117",
+      "time": "2026-07-24 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】鈀連續跌5.46%，鉑連續跌4.09%，對二甲苯連續跌2.78%，PTA連續跌2.75%，燃料油連續跌2.70%。"
+    },
+    {
+      "id": "5007116",
+      "time": "2026-07-24 20:59:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用電氣航空與捷特航空簽訂長期發動機服務協議，為其擴張的機隊提供服務。"
+    },
+    {
+      "id": "5007114",
+      "time": "2026-07-24 20:59:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "Vertical Aerospace：正與英國政府深入洽談，擬獲高達1350萬美元支援計劃，用於在英國建立公司首個全規模生產設施。"
+    },
+    {
+      "id": "5007113",
+      "time": "2026-07-24 20:58:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用電氣航空集團：捷特航空選擇CFM LEAP-1A發動機為其54架空客A321neo飛機提供動力。"
+    },
     {
       "id": "5007112",
       "time": "2026-07-24 20:58:40",
