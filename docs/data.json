@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-25 02:28:36",
-  "count": 18164,
+  "updated": "2026-07-25 02:32:27",
+  "count": 18156,
   "items": [
+    {
+      "id": "5007462",
+      "time": "2026-07-25 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌2.55%，報577.70元人民幣/桶。滬金夜盤收漲0.22%，滬銀收漲1.39%。"
+    },
+    {
+      "id": "te:markets:569841",
+      "time": "2026-07-25 02:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Drops by 1.50% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a -1.50% decrease."
+    },
     {
       "id": "te:markets:569840",
       "time": "2026-07-25 02:25:02",
@@ -166395,107 +166414,6 @@
         "國際"
       ],
       "text": "【伊拉克庫區遭空襲】當地時間17日晚，伊拉克北部庫爾德自治區（庫區）蘇萊曼尼亞省塔斯盧賈的一處伊朗庫爾德反對派組織營地遭空襲。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f7159-b913-7aab-8dea-5e30bb67cbf1",
-      "time": "2026-07-18 02:32:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Night session most-active contracts close】As of 02:30, Shanghai gold most-active contract rose 0.67% to 878 yuan/gram; Shanghai silver most-active contract rose 1.05% to 13,729 yuan/kg; Shanghai crude (SC) most-active contract rose 5.23% to 543 yuan/barrel."
-    },
-    {
-      "id": "mkt:019f7159-91e8-7aab-8dea-52eadd56f348",
-      "time": "2026-07-18 02:32:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. crude futures settled at $82.49/bbl, up $3.54, or 4.48%."
-    },
-    {
-      "id": "mkt:019f7159-89d0-7aab-8dea-4da27f288aa5",
-      "time": "2026-07-18 02:32:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D rose 0.61% in the July 17 evening session, closing at 876.0 yuan/gram; Silver T+D gained 1.16%, closing at 13,636.0 yuan/kg."
-    },
-    {
-      "id": "4994997",
-      "time": "2026-07-18 02:31:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 8月原油期貨收漲3.54美元，漲幅4.48%，報82.49美元/桶。NYMEX 8月天然氣期貨收報2.9110美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.3927美元/加侖，NYMEX 8月取暖油期貨收報4.0646美元/加侖。"
-    },
-    {
-      "id": "4994996",
-      "time": "2026-07-18 02:30:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克已與星鏈簽署運營合作協議，准許星鏈在伊開展業務。"
-    },
-    {
-      "id": "4994995",
-      "time": "2026-07-18 02:30:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國就伊拉克-敘利亞原油管道發表宣告：美國歡迎伊拉克與敘利亞就管道專案合作，管道完成後初始輸送能力將達每天200萬桶。"
-    },
-    {
-      "id": "te:markets:567977",
-      "time": "2026-07-18 02:30:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Drops by 1.44% — Top crypto losers are Ether (-1.44%) and Binance (-1.19%). Gains are led by Bitcoin (0.20%)."
-    },
-    {
-      "id": "4994994",
-      "time": "2026-07-18 02:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲5.23%，報542.90元人民幣/桶。滬金夜盤收漲0.71%，滬銀收漲1.05%。"
-    },
-    {
-      "id": "mkt:019f7156-de7a-7aab-8dea-45c486d18907",
-      "time": "2026-07-18 02:29:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraqi state media reported the government has signed an agreement with SpaceX to allow Starlink to operate in Iraq."
-    },
-    {
-      "id": "mkt:019f7156-bb01-7aab-8dea-3dae12076e77",
-      "time": "2026-07-18 02:28:57",
-      "tags": [
-        "MKT News",
-        "WBD.O",
-        "Impact mixed",
-        "PARA.O"
-      ],
-      "text": "A judge said he will issue a ruling by July 22 on the Paramount-Warner Bros. Discovery (WBD.O) transaction."
     }
   ]
 }

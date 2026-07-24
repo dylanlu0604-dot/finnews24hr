@@ -1,7 +1,26 @@
 {
   "date": "2026-07-25",
-  "count": 149,
+  "count": 151,
   "items": [
+    {
+      "id": "te:markets:569841",
+      "time": "2026-07-25 02:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Drops by 1.50% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a -1.50% decrease."
+    },
+    {
+      "id": "5007462",
+      "time": "2026-07-25 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌2.55%，報577.70元人民幣/桶。滬金夜盤收漲0.22%，滬銀收漲1.39%。"
+    },
     {
       "id": "te:markets:569840",
       "time": "2026-07-25 02:25:02",
