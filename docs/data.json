@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-24 22:45:57",
-  "count": 18078,
+  "updated": "2026-07-24 22:49:54",
+  "count": 18085,
   "items": [
+    {
+      "id": "5007321",
+      "time": "2026-07-24 22:48:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "密歇根州衛生部官網：截至7月24日，共報告8176例環孢子蟲病確診病例。"
+    },
+    {
+      "id": "mkt:019f9499-baa9-7aab-8e8a-da310054a2d0",
+      "time": "2026-07-24 22:48:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran foreign minister says mediators not lacking between Iran and US; problem is US policy】On the 24th, Iran’s foreign minister said the issue between Iran and the US is not a shortage of mediators but US policy and conduct. He said Iran will not yield to US pressure or accept threats, coercion or force, and will defend Iranian interests and those in the Strait of Hormuz. Iran will continue actions until the Iranian people’s legitimate objectives and demands are met."
+    },
+    {
+      "id": "mkt:019f9499-3612-7aab-8e8a-d44967e07d73",
+      "time": "2026-07-24 22:48:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's central bank governor says the central bank monitors multiple sectors, not just financial markets."
+    },
+    {
+      "id": "mkt:019f9499-0bfe-7aab-8e8a-c80bcceb33af",
+      "time": "2026-07-24 22:48:05",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Axios reports Israeli Prime Minister Netanyahu will visit Washington next week; this could imply no major escalation before his trip."
+    },
+    {
+      "id": "mkt:019f9497-b5d9-7aab-8e8a-c7f2cd4ac3a7",
+      "time": "2026-07-24 22:46:38",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Market sources: the UK will take more active measures if markets and regulators fail to meet expectations."
+    },
+    {
+      "id": "5007320",
+      "time": "2026-07-24 22:46:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "龍光集團：計劃獲得多數債權人支援。"
+    },
+    {
+      "id": "5007319",
+      "time": "2026-07-24 22:46:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼外交代表團前往德黑蘭討論霍爾木茲海峽相關機制。"
+    },
+    {
+      "id": "5007318",
+      "time": "2026-07-24 22:46:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯倫貝謝預計2026年第四季度調整後EBITDA利潤率將與2025年第四季度保持一致。"
+    },
+    {
+      "id": "mkt:019f9497-5f81-7aab-8e8a-baa290ec2d8a",
+      "time": "2026-07-24 22:46:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reports an Omani diplomatic delegation traveled to Tehran to discuss mechanisms related to the Strait of Hormuz."
+    },
+    {
+      "id": "5007317",
+      "time": "2026-07-24 22:46:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國表態：若市場與監管機構履職不力，政府將加大幹預力度。"
+    },
+    {
+      "id": "5007316",
+      "time": "2026-07-24 22:45:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "中東股市收盤播報｜週五（7月24日），迪拜金融市場綜合指數收跌0.21%，報5786.97點，本週累跌0.46%，整體呈現出M形走勢。阿布扎比證券市場綜合指數收跌0.13%，報9828.14點，本週累漲0.48%，整體持續走高。"
+    },
+    {
+      "id": "5007315",
+      "time": "2026-07-24 22:45:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長：美伊之間不缺斡旋方 問題在於美國本身】當地時間24日，伊朗外長阿拉格齊在接受採訪時表示，伊朗與美國之間不存在“缺少斡旋方”的問題，癥結在於美國的政策和做法。阿拉格齊強調，伊朗不會屈服於美國的施壓，不會接受威脅、壓力或強制手段，並將繼續維護伊朗人民利益以及霍爾木茲海峽相關利益。他表示，在伊朗人民的正當目標和訴求得到實現之前，伊朗將繼續採取行動。（央視新聞）"
+    },
+    {
+      "id": "5007314",
+      "time": "2026-07-24 22:45:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【APEC人工智慧高階別論壇關於促進亞太地區人工智慧發展的宣告】 2026年7月24日，中方在四川省成都市主辦APEC人工智慧高階別論壇，論壇主題為“促進人工智慧普惠包容發展”。APEC成員經濟體重申，我們致力於在人工智慧領域深化交流、凝聚共識、加強合作、促進創新，並致力於繼續實施《2040年APEC布特拉加亞願景》、《APEC網際網路和數字經濟路線圖》和《APEC人工智慧倡議（2026—2030）》。\n\n考慮到APEC成員經濟體的多樣化需求，我們鼓勵各經濟體開展經驗分享，推動人工智慧在亞太地區負責任的發展和應用，並期待在以下人工智慧領域促進合作：\n\n促進人工智慧安全發展和部署。我們鼓勵推動安全優先的人工智慧發展，促進旨在應對風險、造福人民的創新。鼓勵各成員經濟體就促進發展可靠、可及、可擴充套件、可信、安全且有韌性的人工智慧基礎設施，以及提升數字基礎設施可及性交流最佳實踐。我們將促進資料跨境流動，這對人工智慧發展至關重要，同時增強消費者和企業信任。\n\n加快人工智慧的負責任普及應用。我們鼓勵以多種形式推進人工智慧賦能經濟發展，為人工智慧融入經濟社會各領域營造有利環境。我們推動面向社會各群體提供可及的教育和培訓資源，提高人工智慧素養和技能。我們認識到，人工智慧在促進貿易、推動海關程式現代化和提升企業競爭力方面的作用日益增強，並鼓勵進一步交流這些領域的最佳實踐，支援經濟增長。\n\n營造有利於人工智慧創新的環境。我們讚賞採取以市場為導向、以創新為驅動的政策，促進人工智慧發展和廣泛應用。我們鼓勵成員經濟體考慮採取兼顧風險應對和負責任應用的人工智慧政策。在尊重安全、資料保護和智慧財產權的同時，我們鼓勵各成員經濟體支援在開發和部署過程中採用強大安全保障措施的開源模型和專案。\n\n推動廣泛參與、普惠共享的APEC合作。我們歡迎加強亞太地區成員經濟體之間的能力建設和知識分享，並透過開放對話和協同行動，包括同公共部門和私營部門開展合作，促進創新和經濟增長。我們將繼續支援所有APEC成員經濟體參與人工智慧驅動型經濟，並使人工智慧最大限度惠及全體民眾。"
+    },
     {
       "id": "5007312",
       "time": "2026-07-24 22:44:04",
@@ -165595,59 +165712,6 @@
         "其他"
       ],
       "text": "富國銀行將網飛目標股價從每股105.00美元下調至每股80.00美元。"
-    },
-    {
-      "id": "4994897",
-      "time": "2026-07-17 22:49:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "Meta一度下跌4.9%，重新整理日低至632.01美元，失守200日均線。"
-    },
-    {
-      "id": "4994896",
-      "time": "2026-07-17 22:49:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家衛健委組織國家級專家醫療救治組支援重慶傷員救治】7月17日9時許，重慶市彭水縣漢葭街道發生山體垮塌。國家衛生健康委第一時間安排國家緊急醫學救援隊伍和重慶市緊急醫學救援隊伍集結，調派醫務人員和救護車輛趕赴現場；立即派出有關負責同志急赴當地指導醫療救治工作，組織北京積水潭醫院（國家骨科醫學中心）創傷、重症和神外等專業國家級專家會同當地醫務人員組成醫療救治組，開展多學科會診，“一人一策”制定診療方案，盡最大努力挽救生命和減少因傷殘疾。指導重慶市選派心理專家對傷員及家屬開展心理諮詢和疏導。國家衛生健康委將繼續支援重慶市做好傷員醫療救治等工作，根據需要隨時增派國家級專家力量，全力減損失、護生命。"
-    },
-    {
-      "id": "mkt:019f708d-873e-7aab-8de7-fad972740fbe",
-      "time": "2026-07-17 22:49:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran says it still firmly controls the Strait of Hormuz】State media quoted Iranian authorities saying shipping through the Strait of Hormuz remains routed via Iranian waters, with confirmed transits down to eight vessels. Of eight completed transits, seven used Iranian waters; none were recorded via the Oman route and no shadow-fleet movement was observed. Transits were split roughly evenly between commercial and non‑commercial vessels; about half were Iranian‑flagged."
-    },
-    {
-      "id": "4994895",
-      "time": "2026-07-17 22:49:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "富國銀行維持美國鋁業「增持」評級，將美國鋁業目標價從72.00美元下調至71.00美元。"
-    },
-    {
-      "id": "4994893",
-      "time": "2026-07-17 22:46:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟小麥價格即將迎來2022年以來最大單週漲幅。"
-    },
-    {
-      "id": "mkt:019f708a-9835-7aab-8de7-f6afce1ce2ec",
-      "time": "2026-07-17 22:45:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "France's foreign ministry said it summoned the Russian embassy's chargé d'affaires in Paris on July 17."
     }
   ]
 }
