@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-25 02:13:04",
-  "count": 18164,
+  "updated": "2026-07-25 02:16:59",
+  "count": 18165,
   "items": [
+    {
+      "id": "mkt:019f9556-e6e7-7aab-8e8e-190dbcabcc0b",
+      "time": "2026-07-25 02:15:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Zelenskiy says intelligence indicates Russia plans to increase troop presence in Ukraine this autumn."
+    },
+    {
+      "id": "5007458",
+      "time": "2026-07-25 02:15:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基警告，未來 48 小時內俄羅斯可能發動新一輪導彈襲擊，情報顯示俄羅斯計劃在秋季向烏克蘭增派兵力。"
+    },
+    {
+      "id": "te:markets:569838",
+      "time": "2026-07-25 02:15:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Drops by 4.41% — Top commodity losers are Brent Crude Oil (-4.41%), Heating Oil (-3.92%) and Crude Oil WTI (-3.78%). Gains are led by Germany Natural Gas THE (2.30%), Natural Gas UK (2.07%) and Natural Gas EU (1.76%)."
+    },
+    {
+      "id": "5007457",
+      "time": "2026-07-25 02:13:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英媒：俄羅斯極有可能最早於今晚或未來幾天內發動新一輪大規模空襲】據英國金融時報報道，烏克蘭總統澤連斯基以及西方情報人士均發出警告，俄羅斯極有可能最早於今晚或在未來幾天內發動新一輪大規模空襲。澤連斯基在晚間講話中表示：“我們從合作伙伴處獲悉，俄方已準備好導彈，計劃對烏克蘭發動新一輪大規模打擊。此次打擊可能就在今天；初步情報顯示，行動將在未來48小時內進行。請大家務必注意安全，密切關注防空警報。”"
+    },
+    {
+      "id": "mkt:019f9555-2562-7aab-8e8e-162c84db7a51",
+      "time": "2026-07-25 02:13:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Financial Times: Zelenskiy, Western intelligence say Russia highly likely to launch large-scale air strikes within 48 hours】The Financial Times reports Ukrainian President Zelenskiy and Western intelligence warn Russia is highly likely to launch a new large-scale air strike as soon as tonight or within the next few days. Zelenskiy said in an evening address: “Partners have told us Russia has missiles ready and plans a new large-scale strike, possibly today; preliminary intelligence indicates action within 48 hours. Please stay safe and monitor air-raid alerts.”"
+    },
     {
       "id": "mkt:019f9554-1556-7aab-8e8e-0c868583a838",
       "time": "2026-07-25 02:12:23",
@@ -166441,45 +166493,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Platinum Falls by 2.03% — Top commodity losers are Platinum (-2.03%), Silicon (-1.31%) and Copper (-1.25%). Gains are led by Silver (1.07%), Gold (0.90%) and Lithium Carbonate (0.66%)."
-    },
-    {
-      "id": "mkt:019f714b-35e7-7aab-8dea-11cd19a7141a",
-      "time": "2026-07-18 02:16:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "ICE data: For the week to July 14, speculative net long positions in Brent crude rose by 114,752 contracts to 169,839; speculative net longs in diesel increased by 2,389 contracts to 71,875."
-    },
-    {
-      "id": "mkt:019f714a-5df7-7aab-8dea-0c9ecb0530a7",
-      "time": "2026-07-18 02:15:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kuwait's state news agency KUNA said two fires in southern Kuwait at facilities that were earlier attacked by Iran have been brought under control; no casualties reported."
-    },
-    {
-      "id": "te:markets:567974",
-      "time": "2026-07-18 02:15:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas EU Soars by 6.95% — Top commodity gainers are Natural Gas EU (6.95%), Natural Gas UK (6.02%), Crude Oil WTI (4.72%) and Brent Crude Oil (4.69%). Biggest loser is Methanol (-0.72%)."
-    },
-    {
-      "id": "4994990",
-      "time": "2026-07-18 02:15:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特國家通訊社：科威特南部兩處遭伊朗襲擊的地點發生火情，目前火勢已得到控制，暫無人員傷亡報告。"
     }
   ]
 }
