@@ -1,7 +1,61 @@
 {
   "date": "2026-07-24",
-  "count": 1458,
+  "count": 1464,
   "items": [
+    {
+      "id": "5006120",
+      "time": "2026-07-24 14:52:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "據行業訊息人士透露，印度政府已將德里中部地區的移動網際網路中斷措施延長至週五午夜。"
+    },
+    {
+      "id": "5006119",
+      "time": "2026-07-24 14:52:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：澤連斯基將於7月28日在美國會晤特朗普，還將在訪問期間出席美國參議員Lindsey Graham的葬禮。"
+    },
+    {
+      "id": "mkt:019f92e3-bcea-7aab-8e7d-0fd5d3005837",
+      "time": "2026-07-24 14:50:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "XPEV.O"
+      ],
+      "text": "【XPeng humanoid robot enters small-batch pilot production】XPeng has started small-batch pilot production of its humanoid robot at its Guangzhou factory; the mass-production line is in final joint debugging and the mass-production sprint is in its final countdown. The company targets mass production in 2026 and plans phased deployments to XPeng stores and commercial venues from 2027 for roles such as sales and customer guidance. XPeng says the robot unit will consolidate group capabilities across hardware, large AI models, supply chain and marketing, and reuse its automotive soft/hardware co-development, intelligent manufacturing and global channel experience for the robotics business."
+    },
+    {
+      "id": "em:qqyh_zgyh:202607243820374986",
+      "time": "2026-07-24 14:49:31",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【7月中期流動性淨投放8000億，扭轉連續四個月回籠態勢】7月24日，中國人民銀行開展5000億元一年期中期借貸便利（MLF）操作，當月MLF到期規模為4000億元，本次操作實現1000億元淨投放，這也是央行連續三個月加量續作MLF。疊加當月6個月期買斷式逆回購淨投放5000億元，3個月期買斷式逆回購淨投放2000億元，7月央行三大中期流動性工具合計淨投放8000億元，一舉扭轉此前連續四個月中期工具縮量回籠態勢，宣告市場中長期流動性由回籠轉向全面淨投放。"
+    },
+    {
+      "id": "mkt:019f92e2-d7d9-7aab-8e7d-049a871303bf",
+      "time": "2026-07-24 14:49:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Momenta enters Robovan unmanned freight; Robovan has operated in Suzhou for months】Market rumors circulated that autonomous-driving leader Momenta has entered unmanned freight (Robovan). On July 24 a person familiar with the matter confirmed Momenta’s Robovan has been operating in Suzhou for several months."
+    },
+    {
+      "id": "5006118",
+      "time": "2026-07-24 14:49:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Momenta入局Robovan，已在蘇州運營數月】近日，市場傳言自動駕駛龍頭Momenta已入局無人貨運（Robovan）。7月24日，知情人士向記者確認，Momenta的Robovan已在蘇州運營數月。（21財經）"
+    },
     {
       "id": "mkt:019f92e2-3493-7aab-8e7c-fd34be332ab6",
       "time": "2026-07-24 14:48:45",
