@@ -1,7 +1,104 @@
 {
   "date": "2026-07-24",
-  "count": 834,
+  "count": 844,
   "items": [
+    {
+      "id": "5005714",
+      "time": "2026-07-24 09:50:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東日照港轉型升級專案進入主體結構施工階段】7月24日，隨著首個新建碼頭沉箱完成出運，國家“十五五”重大工程日照港轉型升級專案進入主體結構施工階段。日照港是全球重要的能源和大宗原材料中轉基地，“十五五”期間將實現全面綠色智慧轉型。正在實施的轉型升級專案計劃新建6個大型泊位，改建2個大型泊位，年設計透過能力1.41億噸，計劃工期為6年。專案建成後，日照港石臼港區東、北作業區將形成以集裝箱、客運、高階港航服務及現代物流為主的現代化港區，南作業區實現全流程化作業，清潔能源佔比達到90%。（央視新聞）"
+    },
+    {
+      "id": "5005713",
+      "time": "2026-07-24 09:49:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數跌3%。"
+    },
+    {
+      "id": "5005712",
+      "time": "2026-07-24 09:49:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量604億元。"
+    },
+    {
+      "id": "5005711",
+      "time": "2026-07-24 09:47:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "科創50指數盤中翻紅，盤初一度跌超2%。"
+    },
+    {
+      "id": "mkt:019f91cd-9f96-7aab-8e77-91973f5aa0e0",
+      "time": "2026-07-24 09:46:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources said Abu Dhabi National Oil Company (ADNOC) is offering spot crude for loading Aug–Oct in a tender, its seventh such offering since early June."
+    },
+    {
+      "id": "5005708",
+      "time": "2026-07-24 09:46:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體裝置概念表現活躍 至純科技直線漲停】半導體裝置概念表現活躍，至純科技直線漲停，託倫斯漲超12%，強一股份、長川科技、華亞智慧跟漲。"
+    },
+    {
+      "id": "mkt:019f91cd-5689-7aab-8e77-8ac1515f3b33",
+      "time": "2026-07-24 09:46:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share storage chip sector reversed early losses to rally; Tuolunsi jumped over 13%, Zhichun Technology hit the daily trading limit. Tongfu Microelectronics, Baicheng, Zhengfan Technology, Zhongjing Electronics and Jingyi Equipment also advanced."
+    },
+    {
+      "id": "te:markets:569467",
+      "time": "2026-07-24 09:45:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Heating Oil Hovers Near April Highs — US heating oil prices held above $4.30 per gallon, near their highest level since early April, as the escalating US-Iran conflict spilled into other key shipping routes, heightening concerns over deeper disruptions to energy supplies. With US strikes on Iran approaching a second week, tensions spread to the Red Sea after President Donald Trump warned Tehran it would be held accountable for any further attacks, following claims by Iran-backed Houthi rebels that they had struck two Saudi oil tankers. The growing security risks have prompted more tankers to avoid the Bab el-Mandeb Strait, threatening further disruptions to a vital global shipping route. Further supporting distillate prices, less than half of the Russian refining capacity damaged by Ukrainian drone attacks has been restored, leaving about 45 million tonnes per year of capacity offline. Even so, fuel supplies in Russia have shown signs of improving after Ukraine shifted its attacks from major refineries to maritime targets."
+    },
+    {
+      "id": "5005707",
+      "time": "2026-07-24 09:44:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "醫藥股震盪走低，哈藥股份跌停，隴神戎發跌超10%，海思科、哈三聯、珍寶島、必貝特跌超5%。"
+    },
+    {
+      "id": "5005706",
+      "time": "2026-07-24 09:44:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊拉昇 託倫斯漲超13%】半導體板塊拉昇，託倫斯漲超13%，晶晨股份、炬芯科技、南芯科技等股上漲。"
+    },
     {
       "id": "5005705",
       "time": "2026-07-24 09:44:34",
