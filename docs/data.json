@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-24 14:33:27",
-  "count": 17957,
+  "updated": "2026-07-24 14:37:26",
+  "count": 17956,
   "items": [
+    {
+      "id": "5006102",
+      "time": "2026-07-24 14:35:25",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "市場訊息：德國總理默茨將於上午9點（北京時間15:00）在柏林發表宣告。"
+    },
+    {
+      "id": "5006101",
+      "time": "2026-07-24 14:35:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【受颱風“紅霞”影響，26日廣東省內鐵路全線停運】據氣象部門訊息，第12號颱風“紅霞”將在廣東陸豐沿海登陸，將給廣東地區帶來雷暴大風天氣。為確保旅客列車執行安全，國鐵廣州局根據颱風和降雨影響範圍，自7月25日起，廣東省內高速、普速列車將陸續停運，預計7月26日廣東省內全部高鐵、普速列車停運。 具體停運車次資訊，旅客可透過鐵路12306網站、手機客戶端查詢。鐵路部門將密切跟蹤颱風及雨情變化，動態調整列車執行方案。由此給廣大旅客出行帶來不便，敬請諒解。請有出行計劃的旅客密切關注鐵路12306官方資訊及車站公告，及時掌握列車開行動態，合理安排行程。（南方+）"
+    },
+    {
+      "id": "5006100",
+      "time": "2026-07-24 14:34:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守91美元/桶，日內跌1.32%。"
+    },
+    {
+      "id": "5006099",
+      "time": "2026-07-24 14:34:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾汽車：此事項對參與其中的量產品牌：大眾乘用車、斯柯達、西雅特暨庫佩拉，以及大眾商用車的架構與運營流程所產生的影響。"
+    },
+    {
+      "id": "mkt:019f92d5-4696-7aab-8e7c-e0baf7c25d37",
+      "time": "2026-07-24 14:34:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SPIEGEL reports German chancellor Merz is scheduled to deliver a statement in Berlin at 09:00 local time (15:00 Beijing time)."
+    },
+    {
+      "id": "5006098",
+      "time": "2026-07-24 14:34:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車：自7月起品牌核心集團內部合作邁入新階段。"
+    },
+    {
+      "id": "5006097",
+      "time": "2026-07-24 14:32:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【黃金板塊走弱，*ST萃華跌停】黃金板塊走弱，*ST萃華跌停，招金黃金、四川黃金、白銀有色、湖南白銀等跟跌。"
+    },
     {
       "id": "mkt:019f92d3-9162-7aab-8e7c-df109879e948",
       "time": "2026-07-24 14:32:46",
@@ -164523,89 +164581,6 @@
         "其他"
       ],
       "text": "英國海上貿易行動辦公室（UKMTO）表示，一艘油輪在阿曼附近遇襲，報告稱其結構輕微受損。"
-    },
-    {
-      "id": "4993711",
-      "time": "2026-07-17 14:36:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室（UKMTO）表示，油輪在阿曼附近遭不明彈丸擊中。"
-    },
-    {
-      "id": "mkt:019f6eca-850b-7aab-8ddc-610309136c60",
-      "time": "2026-07-17 14:36:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Tasnim news agency reports an Iranian citizen was killed in a U.S. strike on Chabahar port."
-    },
-    {
-      "id": "4993710",
-      "time": "2026-07-17 14:35:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室（UKMTO）表示，收到阿曼哈薩布以東19海里處發生事故的報告。"
-    },
-    {
-      "id": "4993709",
-      "time": "2026-07-17 14:35:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純鹼連續主力合約日內跌3%，現報1010.00元。"
-    },
-    {
-      "id": "mkt:019f6ec9-6a0e-7aab-8ddc-5a7564387e4c",
-      "time": "2026-07-17 14:35:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Japan & APAC",
-        "Star Stocks",
-        "JD.com",
-        "Hang Seng Index",
-        "Impact bullish",
-        "JD.O"
-      ],
-      "text": "【Michael Burry flags buy opportunities in Hong Kong stocks as AI halo fades】Michael Burry said on Friday investors should hunt for cheap opportunities in the Hong Kong market that could outperform once the halo around Korean and Japanese stocks and the iShares Semiconductor ETF cools. He also said earlier this month he increased his JD.com position. Morgan Stanley has likewise recommended overweighting Hong Kong equities, citing a supportive corporate earnings outlook."
-    },
-    {
-      "id": "4993708",
-      "time": "2026-07-17 14:34:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【股票私募倉位創近4年新高 超七成百億私募處於滿倉】私募排排網資料顯示，截至7月10日，股票私募倉位指數升至83.70%，較前一週提高0.15%，連續第三週加倉，創近四年以來新高。自5月15日以來，該指數累計提高3.61%。分佈來看，倉位超過80%的股票私募佔比為69.55%，倉位在50%至80%的佔比為18.78%。百億私募加倉更為明顯，倉位指數升至87.41%，單週提高3.35個百分點；其中72.57%的百億私募倉位超過80%，倉位在五成以上的合計佔比達96.32%。"
-    },
-    {
-      "id": "mkt:019f6ec8-1083-7aab-8ddc-53dd27b8d39f",
-      "time": "2026-07-17 14:33:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nikkei 225",
-        "Impact bearish",
-        "Hang Seng Index"
-      ],
-      "text": "【Kioxia rout drags Nikkei as AI rally cools; bottom still unclear】Kioxia Holdings plunged as much as 16% intraday on Friday as investors unwound leverage in AI-related tech names, dragging the Nikkei 225 down more than 6% to a one-month intraday low. Taiwan’s TAIEX fell about 6.5%. South Korea was closed for a holiday; Australia, Hong Kong and Singapore markets also declined. Kioxia, a key beneficiary of this year’s AI-led rally, hit intraday limit down; its market value fell to roughly ¥28 trillion from a peak near ¥60 trillion (about $370 billion), and the stock is about 50% below its June 22 intraday high. JP Morgan’s quantitative strategies team said recent market sentiment has swung toward excess pessimism — narratives that the AI boom is ending or an AI bubble is bursting — and added: “Although supply-demand adjustment in AI names may be nearing completion, AI stocks driven by sentiment and flows may still need more time to bottom as these pessimistic narratives fully unwind.”"
-    },
-    {
-      "id": "4993707",
-      "time": "2026-07-17 14:33:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "新臺幣兌美元下跌0.5%至32.412。"
     }
   ]
 }
