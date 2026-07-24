@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-25 04:58:15",
-  "count": 18210,
+  "updated": "2026-07-25 05:02:08",
+  "count": 18214,
   "items": [
+    {
+      "id": "5007593",
+      "time": "2026-07-25 05:01:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：Grok4.5的表現非常出色。"
+    },
+    {
+      "id": "mkt:019f95ee-f5f0-7aab-8e90-8153fcbd918b",
+      "time": "2026-07-25 05:01:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi state television reported the Saudi-led coalition said targets destroyed inside Yemen were linked to activity threatening commercial shipping in the Red Sea."
+    },
+    {
+      "id": "5007592",
+      "time": "2026-07-25 05:01:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬克·扎克伯格：開源是一種積極且重要的趨勢，既能賦能大眾，又能防止權力集中。我很自豪能支援這一理念。"
+    },
+    {
+      "id": "mkt:019f95ed-44d4-7aab-8e90-7fac5992be28",
+      "time": "2026-07-25 04:59:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Saudi-led coalition struck Houthi military targets in Yemen's Hudaydah governorate, Saudi state TV reported. The coalition said the action did not target Hudaydah port and that all governorate ports remain open to shipping."
+    },
+    {
+      "id": "5007591",
+      "time": "2026-07-25 04:59:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：開源正收穫排山倒海般的支援。"
+    },
+    {
+      "id": "5007590",
+      "time": "2026-07-25 04:58:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特媒體援引沙特軍方訊息：沙特未將荷臺達港作為打擊目標，該省所有港口仍正常對船舶開放 。"
+    },
     {
       "id": "te:markets:569859",
       "time": "2026-07-25 04:57:04",
@@ -166858,30 +166910,6 @@
         "其他"
       ],
       "text": "【美元指數17日微漲】美元指數17日微漲。衡量美元對六種主要貨幣的美元指數當天在匯市尾市收於100.765，略高於前一交易日的100.763。截至紐約匯市尾市，1歐元兌換1.1436美元，低於前一交易日的1.1438美元；1英鎊兌換1.3454美元，低於前一交易日的1.3470美元。1美元兌換162.45日元，高於前一交易日的162.39日元；1美元兌換0.8075瑞士法郎，低於前一交易日的0.8089瑞士法郎；1美元兌換1.4011加元，低於前一交易日的1.4048加元；1美元兌換9.6497瑞典克朗，低於前一交易日的9.6499瑞典克朗。（新華社）"
-    },
-    {
-      "id": "te:economy:567987",
-      "time": "2026-07-18 05:02:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Colombia Consumer Confidence Jumps in June — Colombia’s Consumer Confidence Index rose 6.5 percentage points to 24.3% in June 2026 from 17.8% in May. The Consumer Expectations Index climbed to 31.4% in June from 26.7% in May, while the Current Economic Conditions Index rose to 13.8% from 4.4%. Consumers became more optimistic about both their household finances and the country's economic outlook. The share of respondents expecting \"good economic times\" over the next 12 months increased to 31.3% from 21.1%, while expectations for an improvement in the national economy rose to 22.5% from 16.8%. Households also reported a better assessment of their current financial situation. The balance of respondents who said their household's financial condition was better than a year earlier increased to 11.5% from 3.1%. Meanwhile, willingness to purchase durable goods jumped to 16.1% from 5.8%."
-    },
-    {
-      "id": "mkt:019f71df-9cdc-7aab-8deb-f3928349a524",
-      "time": "2026-07-18 04:58:27",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran says it attacked US facilities in Bahrain, warns US AI assets in Middle East may be targeted】Iran's Islamic Revolutionary Guard Corps said its forces attacked US facilities in Bahrain, destroying a US military unmanned-boat storage facility and striking an AI center used for targeting. Tehran said the action was in response to earlier US strikes on Iranian bridges and other infrastructure, and warned that if the US continues attacks on Iranian targets, Iran will expand strikes to target US industrial, technology and AI-related assets in the Middle East."
     }
   ]
 }

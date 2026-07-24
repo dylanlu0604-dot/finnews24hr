@@ -1,7 +1,59 @@
 {
   "date": "2026-07-25",
-  "count": 355,
+  "count": 361,
   "items": [
+    {
+      "id": "5007593",
+      "time": "2026-07-25 05:01:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：Grok4.5的表現非常出色。"
+    },
+    {
+      "id": "mkt:019f95ee-f5f0-7aab-8e90-8153fcbd918b",
+      "time": "2026-07-25 05:01:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi state television reported the Saudi-led coalition said targets destroyed inside Yemen were linked to activity threatening commercial shipping in the Red Sea."
+    },
+    {
+      "id": "5007592",
+      "time": "2026-07-25 05:01:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬克·扎克伯格：開源是一種積極且重要的趨勢，既能賦能大眾，又能防止權力集中。我很自豪能支援這一理念。"
+    },
+    {
+      "id": "mkt:019f95ed-44d4-7aab-8e90-7fac5992be28",
+      "time": "2026-07-25 04:59:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Saudi-led coalition struck Houthi military targets in Yemen's Hudaydah governorate, Saudi state TV reported. The coalition said the action did not target Hudaydah port and that all governorate ports remain open to shipping."
+    },
+    {
+      "id": "5007591",
+      "time": "2026-07-25 04:59:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：開源正收穫排山倒海般的支援。"
+    },
+    {
+      "id": "5007590",
+      "time": "2026-07-25 04:58:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特媒體援引沙特軍方訊息：沙特未將荷臺達港作為打擊目標，該省所有港口仍正常對船舶開放 。"
+    },
     {
       "id": "te:markets:569859",
       "time": "2026-07-25 04:57:04",
