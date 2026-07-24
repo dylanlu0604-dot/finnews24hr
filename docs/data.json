@@ -1,7 +1,137 @@
 {
-  "updated": "2026-07-24 17:28:28",
-  "count": 17981,
+  "updated": "2026-07-24 17:32:31",
+  "count": 17990,
   "items": [
+    {
+      "id": "mkt:019f9377-8a5e-7aab-8e82-c6c73bae4f85",
+      "time": "2026-07-24 17:31:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Southbound Stock Connect net sold Rmb 1.518 bln today. Via Shanghai-Hong Kong Connect, Alibaba-W and Kingboard Laminates were the top net sells at HKD 1.831 bln and HKD 389 mln respectively; Zhipu led net buys at HKD 145 mln. Via Shenzhen-Hong Kong Connect, Alibaba-W and Tencent were top net sells at HKD 1.377 bln and HKD 458 mln respectively; Huahong Hongli led net buys at HKD 347 mln."
+    },
+    {
+      "id": "mkt:019f9377-5a12-7aab-8e82-bcd697a69538",
+      "time": "2026-07-24 17:31:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS: Iran and Pakistan foreign ministers met on the sidelines of the SCO summit to discuss bilateral issues."
+    },
+    {
+      "id": "5006568",
+      "time": "2026-07-24 17:31:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外長：俄方無論如何都將完成對烏行動既定任務】當地時間7月24日，俄羅斯外交部長拉夫羅夫表示，儘管美國已改變對2025年8月俄美元首阿拉斯加峰會所達成“共識”的立場，俄羅斯無論如何都將完成在烏克蘭的特別軍事行動既定任務。拉夫羅夫強調，俄方在阿拉斯加峰會上表達了願達成協議的誠意，但美國國務卿魯比奧的言論表明美方已修改了相關立場。他指出，美方曾向俄方保證澤連斯基會為和平解決俄烏衝突採取必要步驟，但這一承諾未能兌現。（央視新聞）"
+    },
+    {
+      "id": "5006567",
+      "time": "2026-07-24 17:31:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東易日盛：5%以上股東180萬股股份將被拍賣】東易日盛公告稱，公司5%以上股東霖鯤科技持有的180萬股（佔其所持公司股份的2.66%，佔公司總股本的0.19%）非限售流通股擬被拍賣，拍賣時間為2026年8月15日10:00至8月16日15:00止（延時除外）。霖鯤科技及其一致行動人非公司控股股東、實控人，本次拍賣不會導致公司控制權變更，也不影響生產經營和公司治理。拍賣結果及股份變動情況存在不確定性，公司將密切關注並及時披露。"
+    },
+    {
+      "id": "5006566",
+      "time": "2026-07-24 17:31:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金字火腿：實控人部分股份質押及解除質押】金字火腿公告稱，近日，實控人鄭慶昇質押2756萬股，佔其所持股份比例19.01%，佔公司總股本比例2.28%，質權人為西藏信託有限公司，用於個人資金需求；解除質押5026萬股，佔其所持股份比例34.66%，佔公司總股本比例4.15%，質權人為雲南國際信託有限公司。截至公告披露日，實控人及其一致行動人累計質押1.38億股，佔其所持股份比例60.69%，佔公司總股本比例11.43%。實控人及其一致行動人未來半年和一年到期質押股份對應融資餘額分別為0和2.41億元，還款資金來源多樣，資信良好，此次質押對公司無實質性影響。"
+    },
+    {
+      "id": "5006565",
+      "time": "2026-07-24 17:30:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國鋁業：控股股東獲18億元增持專項貸款承諾】中國鋁業公告稱，公司控股股東中鋁集團及其一致行動人此前計劃增持公司A股及H股，金額不低於10億元、不超20億元，數量不超總股本2%，期限不超12個月。7月22日，中鋁集團取得中國工商銀行北京市分行出具的《貸款承諾函》，銀行承諾提供不超18億元貸款，期限不超3年，專項用於中鋁集團在A股增持公司股份。中鋁集團將按計劃擇機增持，公司會及時披露進展。"
+    },
+    {
+      "id": "5006564",
+      "time": "2026-07-24 17:30:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 科尼起重機第二季度訂單額 12.4 億歐元，市場預期 11 億歐元。"
+    },
+    {
+      "id": "5006563",
+      "time": "2026-07-24 17:30:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長華集團：收到國內新能源車企定點通知書 預計生命週期總金額7.4億元】長華集團(605018.SH)公告稱，公司近期收到國內新能源車企的定點開發通知書，定點產品主要為關鍵金屬結構件。該專案生命週期4年，預計生命週期總銷售金額約7.4億元，預計2027年第2季度逐步開始量產，對公司本年度業績不會構成重大影響。"
+    },
+    {
+      "id": "mkt:019f9375-7303-7aab-8e82-b071d61c4894",
+      "time": "2026-07-24 17:29:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UN urges evacuation of 6,000 seafarers stranded in the Strait of Hormuz, Al Arabiya reports."
+    },
+    {
+      "id": "5006562",
+      "time": "2026-07-24 17:29:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【觀想科技：發行股份購錦州遼晶100%股份事項正推進中】觀想科技公告稱，公司擬發行股份及支付現金，向蘇舟等購買錦州遼晶電子科技股份有限公司100%股份，並募集配套資金，該交易預計構成重大資產重組及關聯交易。公司股票曾於2025年12月22日起停牌，2026年1月7日起復牌。截至公告披露日，公司已與交易對方達成共識及方案，因標的公司財務資料超有效期，中介正開展新一期審計、評估及補充盡調，待完成後將再開董事會，交易最終能否實施尚不確定。"
+    },
+    {
+      "id": "5006561",
+      "time": "2026-07-24 17:29:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【平治資訊：為子公司2.5億元融資提供連帶責任保證擔保】平治資訊公告稱，公司為全資子公司杭州藍胖子物流產業有限公司向農業銀行申請的2.5億元固定資產貸款提供連帶責任保證擔保，融資期限為15年，擔保期間為主合同約定的主債務人履行債務期限屆滿之日起三年。截至公告發布日，公司對下屬控股公司擔保餘額為11.66億元，佔最近一期經審計淨資產94.86%，無逾期擔保等情形。"
+    },
+    {
+      "id": "5006560",
+      "time": "2026-07-24 17:29:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上海國際能源交易中心關於釋出低硫燃料油期貨期權合約的公告】上期能源公告，《上海國際能源交易中心低硫燃料油期貨期權合約》經上海國際能源交易中心董事會審議透過，並已報告中國證監會，現予以釋出。上述合約自發布之日起實施。"
+    },
+    {
+      "id": "5006559",
+      "time": "2026-07-24 17:28:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上期所釋出上海期貨交易所熱軋卷板、不鏽鋼期貨期權合約】7月24日，上海期貨交易所釋出關於釋出上海期貨交易所熱軋卷板、不鏽鋼期貨期權合約的公告。《上海期貨交易所熱軋卷板期貨期權合約》《上海期貨交易所不鏽鋼期貨期權合約》經上海期貨交易所理事會審議透過，並已報告中國證監會，現予以釋出。上述合約自發布之日起實施。"
+    },
+    {
+      "id": "5006558",
+      "time": "2026-07-24 17:28:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國人壽：擬調整合夥企業利潤分配機制】中國人壽公告稱，公司、江蘇基金及財產險公司擬於2026年12月31日前與國壽江蘇公司簽訂《江蘇疌泉成達股權投資中心(有限合夥)合夥協議之補充協議(二)》，將合夥企業的利潤分配機制從按單一投資專案分配調整為按整體分配。調整後，普通合夥人基於整體收益獲超額收益，超額收益20%歸普通合夥人，80%在有限合夥人中按實繳出資比例分配。《合夥協議》其他條款不變。"
+    },
+    {
+      "id": "5006557",
+      "time": "2026-07-24 17:28:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新華保險：第九屆董事會第十次會議審議透過多項議案】新華保險公告稱，公司2026年7月24日召開第九屆董事會第十次會議，審議透過多項議案，包括《關於2026年二季度償付能力報告的議案》《關於2026年度定點幫扶計劃及對外捐贈資金整體安排的議案》等。其中，《關於修訂<績效薪酬追索扣回管理辦法>的議案》表決時，執行董事楊玉成、龔興峰迴避，最終8票同意透過。其他議案均以10票同意透過。"
+    },
+    {
+      "id": "5006556",
+      "time": "2026-07-24 17:27:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【青雲科技：終止241.39萬股股份協議轉讓】青雲科技公告，公司於2026年4月8日披露了《關於公司股東協議轉讓部分股份暨權益變動的提示性公告》，控股股東、實際控制人黃允松先生、林源先生及其一致行動人與中能國聯（北京）投資管理有限公司簽署了《股份轉讓協議》，轉讓方擬向受讓方協議轉讓其所持公司合計241.39萬股股份（佔公司總股本的5.04%）。近日，因商業安排調整，雙方同意終止已簽署的《股份轉讓協議》及《股份轉讓補充協議》，不再繼續履行。"
+    },
     {
       "id": "mkt:019f9373-e077-7aab-8e82-a85edaa5b58a",
       "time": "2026-07-24 17:27:52",
@@ -9,6 +139,14 @@
         "MKT News"
       ],
       "text": "【Orient Securities 1H net profit 4.518 bln yuan, +30.46% YoY; revenue 9.56 bln, +19.49% YoY】Orient Securities reported 1H operating revenue of 9.56 bln yuan, up 19.49% YoY, and net profit of 4.518 bln yuan, up 30.46% YoY. Revenue growth was driven by wealth and asset management, investment banking and alternative investments, and institutional and sales trading businesses."
+    },
+    {
+      "id": "5006555",
+      "time": "2026-07-24 17:27:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新科菲爾茲獎得主鄧煜：為中國數學進步感到鼓舞】2026年菲爾茲獎得主、中國籍數學家鄧煜23日在接受新華社記者採訪時表示，近年來中國在數學及基礎科學研究方面取得重要進展，他為此感到高興和鼓舞。他同時指出，國際交流與合作對於推動數學研究發展越來越重要。鄧煜與合作者一起解決了狹義希爾伯特第六問題，首次以數學嚴格方式推匯出從微觀粒子系統到宏觀玻爾茲曼方程的完整邏輯鏈條。他表示，獲得菲爾茲獎是對自己的科研工作以及所從事研究領域的重要認可。當前數學領域有許多令人振奮的新進展，比如偏微分方程領域中的計算機輔助證明，以及統計物理領域一些關鍵問題取得的新突破，這些都是數學研究的重要前沿方向。（新華社）"
     },
     {
       "id": "5006554",
@@ -164832,76 +164970,6 @@
         "市場"
       ],
       "text": "【艾艾精工：股票連續4日漲停 提示多項風險】艾艾精工公告稱，2026年7月14日至17日公司股票連續4個交易日漲停，已披露異常波動公告。公司控制權變更尚需交易所合規確認、辦理股份過戶等，能否完成及時間不確定。未來36個月無重大資產重組注入資產計劃。2025年收購泰州中石信形成商譽8708.90萬元，已減值1224.47萬元，新客戶未籤協議，收入佔比小有商譽減值風險。2026年一季度精密金屬等業務收入環比降44.83%，新能源電池配件業務降72.12%，有業績下滑風險。"
-    },
-    {
-      "id": "4994170",
-      "time": "2026-07-17 17:32:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆實科技：控股股東錢蘇晉、張小紅股份被司法凍結】恆實科技公告稱，近日公司股東錢蘇晉、張小紅所持有公司的股份被司法凍結。錢蘇晉被凍結16,357,720股，佔其所持股份比例100%，佔總股本比例5.21%；張小紅被凍結9,441,657股，佔其所持股份比例100%，佔總股本比例3.01%。凍結起始日為2026年7月16日，到期日為2029年7月15日。此次凍結繫個人合同糾紛引發，目前正在協商解決。雖暫不影響公司經營，但二人股份全被質押及凍結，後續若司法處置或影響其控股股東及實控人地位。"
-    },
-    {
-      "id": "4994169",
-      "time": "2026-07-17 17:32:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東省深圳市委原常委、統戰部部長王強接受審查調查】據廣東省紀委監委訊息：深圳市委原常委、統戰部部長王強涉嫌嚴重違紀違法，主動投案，目前正接受廣東省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4994168",
-      "time": "2026-07-17 17:32:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "《招標投標領域信用管理暫行辦法》已經2026年6月12日第32次國家發展改革委委務會議審議透過和工業和資訊化部、住房城鄉建設部、交通運輸部、水利部、農業農村部、商務部、廣電總局審籤，現予公佈，自2027年1月1日起施行。（發改委）"
-    },
-    {
-      "id": "mkt:019f6f69-8d70-7aab-8de1-2baea5c657ae",
-      "time": "2026-07-17 17:30:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US-Iran attacks escalate; which side most urgently needs a ceasefire?】US-Iran tit‑for‑tat strikes have accelerated, keeping oil markets, regional risk and US munitions inventories in focus. Iran faces deep economic strain from decades of US sanctions and recent fighting: per‑capita GDP has fallen from about $8,000 to $5,000 and oil exports have dropped from roughly 2.2m bpd to 1.5m bpd. A June memorandum briefly eased restrictions — 60‑day waivers and asset unfreezing pushed the rial up ~15% — but the US has reimposed sanctions this week. CSIS analysis says Iran has taken heavy military attrition: as of April 1 missile stocks down ~30% and drone stocks down ~60%, with significant damage to naval infrastructure and weapons production sites; strikes have continued, including recent attacks on Greater Tunb island. Oil jumped about 12% after the latest strikes amid renewed fears for Strait of Hormuz transit; roughly one‑fifth of global oil flows use the strait. US domestic politics and costs matter: US average gasoline rose from $2.98/gal pre‑conflict to a May peak of $4.63/gal, and a YouGov poll shows 57% of Americans view participation as wrong ahead of November midterms. US munitions consumption is also a constraint — CSIS reports four of seven main combat munitions were more than half expended in the first phase; replenishment under industrial measures would take months to years — and analysts warn key interceptors and cruise missiles are being consumed rapidly. Iran appears resilient: analysts say leadership views the fight as existential, drone production reportedly resumed after April ceasefire and could replenish stocks within months. Regionally, Gulf states are strengthening data‑sharing and early‑warning coordination. Market takeaway: elevated oil risk premium, potential for protracted disruption to regional supply, and near‑term pressure on US military inventories and political capital."
-    },
-    {
-      "id": "4994167",
-      "time": "2026-07-17 17:30:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲2%，現報79.85美元/桶。"
-    },
-    {
-      "id": "4994166",
-      "time": "2026-07-17 17:29:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ChatGPT核心貢獻者、亮源新創創始人姜旭：找到適合模型的產品和場景比訓練模型更難】7月17日，在2026世界人工智慧大會（WAIC）期間，亮源新創創始人兼CEO、ChatGPT核心貢獻者姜旭提出了具身智慧發展的三大正規化：規模化預訓練（Scalable Pre-training）、規模化對齊（Scalable Alignment）和規模化部署（Scalable Deployment）。他表示，大模型的訓練路徑已經越來越清晰，但真正找到適合模型能力的產品形態和商業場景，並不比訓練模型本身更容易。OpenAI在ChatGPT成功之前，也經歷了大量產品探索，其中很多都沒有成功。對於具身智慧公司而言，更現實的策略，是保持開放心態，持續探索豐富的應用場景，而不是過早假設唯一正確的商業化方向。"
-    },
-    {
-      "id": "4994165",
-      "time": "2026-07-17 17:29:02",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【大摩：理想汽車全新L6車型鞏固五座SUV領域競爭力，重申“增持”評級】摩根士丹利發表研報指，理想汽車推出全新L6車型，單一配置售價為24.98萬元，在五座SUV市場中價值極具吸引力。該行相信，更強大的功能配置和價格優勢將擴大L6對年輕家庭的吸引力，並鞏固其在五座SUV領域的競爭力。L6與L8及L9車型將支援自7月起交付量實現環比增長，並推動理想汽車的整體交付量在2026年第三季度恢復同比增長。該行重申理想汽車的“增持”評級，目標價78.5港元。"
-    },
-    {
-      "id": "4994164",
-      "time": "2026-07-17 17:28:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國創高新：5%以上股東部分股份被輪候凍結】國創高新公告稱，公司5%以上股東國創集團所持部分股份被輪候凍結。本次凍結2000萬股，佔其所持股份的32.55%，佔公司總股本的2.19%，輪候期36個月。截至公告披露日，國創集團累計被凍結6144.48萬股，佔其所持股份的100%，佔公司總股本的6.71%。國創集團非控股股東，其股份被凍結不影響公司正常經營。"
     }
   ]
 }
