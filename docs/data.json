@@ -1,7 +1,69 @@
 {
-  "updated": "2026-07-25 02:32:27",
-  "count": 18156,
+  "updated": "2026-07-25 02:36:20",
+  "count": 18159,
   "items": [
+    {
+      "id": "mkt:019f9569-593d-7aab-8e8e-4f7119053442",
+      "time": "2026-07-25 02:35:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session most-active contracts close】As of 02:30 Beijing time, SHFE most-active gold contract rose 0.18% to 885 yuan/gram, SHFE most-active silver contract rose 1.39% to 14,323 yuan/kg, and SC crude most-active contract fell 2.55% to 578 yuan/barrel."
+    },
+    {
+      "id": "mkt:019f9569-3653-7aab-8e8e-411becc771f7",
+      "time": "2026-07-25 02:35:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 0.62% at 886.61 yuan/gram in the July 24 night session; silver T+D closed up 1.45% at 14,268.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019f9568-e758-7aab-8e8e-3d4c327b7595",
+      "time": "2026-07-25 02:35:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $89.31/bbl, down $2.88 or 3.12%."
+    },
+    {
+      "id": "5007465",
+      "time": "2026-07-25 02:33:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 9月原油期貨收跌2.88美元，跌幅超過3.12%，報89.31美元/桶，本週累計上漲將近9.21%，連續第三週反彈——之前連跌四周。NYMEX 8月天然氣期貨收報2.8710美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.3959美元/加侖，NYMEX 8月取暖油期貨收報4.1806美元/加侖。"
+    },
+    {
+      "id": "5007464",
+      "time": "2026-07-25 02:33:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月25日02時28分在新疆阿克蘇地區庫車市（北緯41.29度，東經83.90度）發生3.4級地震，震源深度17千米。"
+    },
+    {
+      "id": "5007463",
+      "time": "2026-07-25 02:32:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1%。"
+    },
     {
       "id": "5007462",
       "time": "2026-07-25 02:30:02",
@@ -166385,35 +166447,6 @@
         "Brent"
       ],
       "text": "【US oil rigs rise for 12th straight week】Baker Hughes said on Friday U.S. energy firms added rigs for a fifth consecutive week, the longest run since early June, pushing the total to its highest level since April 2025. U.S. oil rigs increased by 7 to 452, marking a 12th straight weekly rise — the longest streak since January 2022."
-    },
-    {
-      "id": "mkt:019f715d-382b-7aab-8dea-602be7498181",
-      "time": "2026-07-18 02:36:02",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Airstrike hits Iranian Kurdish opposition camp in Iraq's Kurdistan Region】An airstrike hit a camp belonging to an Iranian Kurdish opposition group in Tasluja, Sulaymaniyah province, in Iraq's Kurdistan Region on the evening of the 17th (local time)."
-    },
-    {
-      "id": "4994999",
-      "time": "2026-07-18 02:35:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "百勝餐飲集團午後股價下跌 2.1%；業內訊息稱，生鮮供應商泰勒農場昨日已致電包括百勝餐飲、思科在內的合作客戶，要求渠道停售其碎生菜產品。"
-    },
-    {
-      "id": "4994998",
-      "time": "2026-07-18 02:34:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊拉克庫區遭空襲】當地時間17日晚，伊拉克北部庫爾德自治區（庫區）蘇萊曼尼亞省塔斯盧賈的一處伊朗庫爾德反對派組織營地遭空襲。（央視新聞）"
     }
   ]
 }
