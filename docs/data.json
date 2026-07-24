@@ -1,7 +1,30 @@
 {
-  "updated": "2026-07-24 23:22:03",
-  "count": 18102,
+  "updated": "2026-07-24 23:26:04",
+  "count": 18101,
   "items": [
+    {
+      "id": "mkt:019f94ba-bce4-7aab-8e8b-7c811da59ff6",
+      "time": "2026-07-24 23:24:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "【Pakistan says Houthis' halt of attacks on Saudi, Gulf a precondition for resuming US‑Iran talks】The Houthis on Thursday said they struck two Saudi oil tankers. A Pakistani official said the Houthis stopping attacks on Saudi Arabia and other Gulf states would be a precondition for restoring US‑Iran ceasefire talks, and Pakistan has conveyed that message to Iran."
+    },
+    {
+      "id": "te:markets:569818",
+      "time": "2026-07-24 23:21:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Steady on Softer Inflation — The Canadian dollar was at 1.41 per USD, holding most of the pullback from the one-month low of 1.40 on July 17th after a soft PPI added to the disinflationary momentum in Canada. Canada's producer prices fell 1.4% month-over-month in June 2026, the sharpest decline since December 2023. Meanwhile, annual consumer inflation eased to 2.8% in June from 3.2% in May, slightly below forecasts of 2.9%. The Bank of Canada's preferred core inflation measures fell to their lowest levels in more than five years, reinforcing the BoC's view that higher energy costs stemming from the Middle East oil supply crisis are not spreading broadly through the economy. The softer inflation data reduced expectations of further Bank of Canada rate hikes this year, limiting the yield advantage that has supported the Canadian dollar."
+    },
     {
       "id": "5007358",
       "time": "2026-07-24 23:19:42",
@@ -165854,30 +165877,6 @@
         "宏觀"
       ],
       "text": "巴西財政部長將在未來數日至數週內與多家企業舉行會談。"
-    },
-    {
-      "id": "mkt:019f70af-4927-7aab-8de8-66fb169d2f91",
-      "time": "2026-07-17 23:26:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico's navy minister said the earthquake caused no major problems."
-    },
-    {
-      "id": "4994926",
-      "time": "2026-07-17 23:23:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會民主黨籍委員戈麥斯：委員會無權因各大電視臺拒絕播放特朗普的演講而對其進行處罰。"
-    },
-    {
-      "id": "4994925",
-      "time": "2026-07-17 23:22:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西財長：令人遺憾的是，有人將關稅當作選舉籌碼。美國關稅明顯是政治工具。將在合適時機、以恰當方式評估對等反制舉措。"
     }
   ]
 }

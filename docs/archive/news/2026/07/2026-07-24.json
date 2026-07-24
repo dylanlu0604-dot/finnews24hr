@@ -1,7 +1,30 @@
 {
   "date": "2026-07-24",
-  "count": 3223,
+  "count": 3225,
   "items": [
+    {
+      "id": "mkt:019f94ba-bce4-7aab-8e8b-7c811da59ff6",
+      "time": "2026-07-24 23:24:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "【Pakistan says Houthis' halt of attacks on Saudi, Gulf a precondition for resuming US‑Iran talks】The Houthis on Thursday said they struck two Saudi oil tankers. A Pakistani official said the Houthis stopping attacks on Saudi Arabia and other Gulf states would be a precondition for restoring US‑Iran ceasefire talks, and Pakistan has conveyed that message to Iran."
+    },
+    {
+      "id": "te:markets:569818",
+      "time": "2026-07-24 23:21:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Steady on Softer Inflation — The Canadian dollar was at 1.41 per USD, holding most of the pullback from the one-month low of 1.40 on July 17th after a soft PPI added to the disinflationary momentum in Canada. Canada's producer prices fell 1.4% month-over-month in June 2026, the sharpest decline since December 2023. Meanwhile, annual consumer inflation eased to 2.8% in June from 3.2% in May, slightly below forecasts of 2.9%. The Bank of Canada's preferred core inflation measures fell to their lowest levels in more than five years, reinforcing the BoC's view that higher energy costs stemming from the Middle East oil supply crisis are not spreading broadly through the economy. The softer inflation data reduced expectations of further Bank of Canada rate hikes this year, limiting the yield advantage that has supported the Canadian dollar."
+    },
     {
       "id": "5007358",
       "time": "2026-07-24 23:19:42",
