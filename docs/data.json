@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-24 08:24:16",
-  "count": 18019,
+  "updated": "2026-07-24 08:28:15",
+  "count": 18021,
   "items": [
+    {
+      "id": "5005579",
+      "time": "2026-07-24 08:26:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德黑蘭防空系統啟動應對空中威脅】據伊朗努爾新聞網報道，當地時間今天（7月24日）凌晨，伊朗首都德黑蘭的防空系統啟動，應對“敵對”空中威脅。（ CCTV國際時訊 ）"
+    },
+    {
+      "id": "mkt:019f9183-babb-7aab-8e75-f1d30796b8dc",
+      "time": "2026-07-24 08:25:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: Valuation-recovery opportunity as copper price expectations and sentiment improve】CITIC Securities says multiple positives have driven copper toward $14,000/ton, and core drivers—declining inventories and supply disruptions—are likely to persist. Most tariff scenarios remain supportive for copper. Under a neutral assumption, copper could test $15,000/ton within a year. The copper sector is at the start of valuation recovery; rising price expectations and improving market sentiment should continue to drive multiple expansion."
+    },
+    {
+      "id": "mkt:019f9183-7d3c-7aab-8e75-e9e719c6f9eb",
+      "time": "2026-07-24 08:25:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Huatai Securities: AI agents set to accelerate inference compute and storage expansion; domestic supply-chain localization to speed up】Huatai Securities says the AI industry will shift in 2026 from large‑model pretraining to AI Agent commercialization, pushing inference compute and storage demand into a faster growth phase. The report highlights three market implications: domestic compute closed loops will form faster as super‑node interconnect and storage upgrades amplify inference demand, with upcoming edge product cycles (foldable devices, AI glasses) supporting further uptake; higher AI power consumption will lift volumes and prices for MLCCs, inductors, capacitors and power semiconductors, creating a price‑up cycle that dovetails with domestic substitution; and upstream manufacturing, equipment and component localization will accelerate while advanced packaging content and value per system rise."
+    },
+    {
+      "id": "5005578",
+      "time": "2026-07-24 08:25:16",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：AI Agent加速推理算力與存力擴容 自主可控鏈國產化再加速】華泰證券研報認為，2026年AI產業正從大模型預訓練切換至AI Agent商業化落地，推理算力需求進入加速增長通道。看好三條主線：AI鏈方向，國產算力閉環加速形成，超節點互聯與儲存升級共振，推理需求拐點明確，AI端側上摺疊機、AI眼鏡等新品週期將至，結構性創新機遇值得重視；功率與被動元件方向，AI功耗驅動MLCC、電感、電容、功率半導體量價齊升，漲價週期與國產替代共振；自主可控方向，上游製造、裝置以及零部件國產化程序加速，同時先進封裝價值量系統性提升。"
+    },
+    {
+      "id": "5005577",
+      "time": "2026-07-24 08:25:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬克龍打電話祝賀王虹獲獎】當地時間7月23日上午，2026年國際數學家大會在美國費城開幕，現場揭曉2026年菲爾茲獎得主，中國青年數學家王虹、鄧煜獲獎。法國總統馬克龍打電話祝賀王虹：“這是您應得的榮譽，真了不起。” （中國僑網）"
+    },
     {
       "id": "mkt:019f9181-6e3e-7aab-8e75-e7824b1f522c",
       "time": "2026-07-24 08:23:26",
@@ -165114,33 +165162,6 @@
         "Importance 2"
       ],
       "text": "Japanese Shares Track Wall Street Lower — The Nikkei 225 Index fell 2.8% to below 65,000, while the broader Topix Index declined 1.3% to 3,975 on Friday, extending losses from the previous session and following Wall Street lower after a sharp selloff in semiconductor stocks. The weakness came as investors increasingly questioned whether the elevated valuations of AI-related chipmakers remain justified by the industry's ambitious growth expectations. Market sentiment was also pressured by the escalating conflict between the US and Iran, which pushed oil prices higher and kept inflationary pressures and interest rate concerns in focus. Technology and AI-related stocks led the declines in Japan, with Kioxia Holdings plunging 15%, Tokyo Electron falling 4.5%, SoftBank Group losing 6.3%, Advantest dropping 5.9%, and Murata Manufacturing sliding 7.7%. The Nikkei 225 and Topix indexes are now on track to post weekly losses of nearly 6% and 2%, respectively."
-    },
-    {
-      "id": "4993125",
-      "time": "2026-07-17 08:27:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【最準分析師稱日元兌美元匯率明年最低貶至170】在彭博最新排名中，預測美元兌日元匯率最準的分析師認為，明年日元兌美元匯率最低將跌至170。他的預測模型幾乎不理會新聞，主要依靠技術分析。Kshitij Consultancy Services創始人兼首席貨幣策略師Vikram Murarka在距離東京數千英里之外的印度加爾各答辦公室裡，對日元走勢做出預測。但在上個季度的調查中，他在預測美元兌日元匯率上最為準確，也是少數曾預測該匯率會跌破160的分析師。這位策略師表示，他的優勢之一在於專注於市場訊號，而非日本財務省或首相府釋出的每一則新聞。他辦公桌上的螢幕布滿圖表，追蹤著日經225指數與道瓊斯指數的比值、短天期利差以及人民幣兌日元匯率等變數。“我們不太關注新聞，”Murarka說道，他使用類似的方法預測了歐元兌美元匯率，排名第二。他說，我們追蹤的任何因素，都應該能夠反映在價格走勢圖上。"
-    },
-    {
-      "id": "4993124",
-      "time": "2026-07-17 08:26:29",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【AI板塊遭遇拋售 日本晶片廠商鎧俠市值較高點腰斬】受市場愈發擔憂人工智慧帶動的儲存晶片板塊漲幅過高影響，日本儲存晶片企業鎧俠控股在登頂日本市值最高企業僅一個月後，總市值直接腰斬。週五東京股市早盤，鎧俠股價最大跌幅達14%，較上月峰值累計下跌51%，市值蒸發至少29.5萬億日元（摺合1817億美元）。6月中旬，受人工智慧熱潮下市場對記憶體、資料儲存需求的樂觀情緒推動，鎧俠股價年內漲幅超600%，市值一舉超越汽車巨頭豐田汽車，登頂日本企業市值榜首。如今其市值排名已滑落至日本上市公司第四位。"
-    },
-    {
-      "id": "4993123",
-      "time": "2026-07-17 08:25:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小鵬X9遭遇空氣彈簧故障，官方致歉：將提供專項升級質保方案】針對車主反饋的空氣彈簧故障，小鵬近日在官方社群釋出《關於小鵬X9空氣彈簧的質保方案升級》的公告。 公告表示，關注到部分小鵬X9使用者在高溫等極端場景遇到空氣彈簧故障，帶來不好的用車體驗，小鵬對此深表歉意。針對部分小鵬X9空氣彈簧出現的故障，小鵬集團將提供小鵬X9專項升級質保方案。即日起小鵬X9前空氣彈簧系統(含前空簧滑柱總成、供氣單元、供氣單元電磁閥盒、儲氣罐)質保延長至8年或16萬公里，該質保不受車主變更的影響。此前有媒體報道，重慶多名小鵬X9車主反饋車輛行駛途中突發故障趴窩，引發關注。 （新浪科技）"
     }
   ]
 }
