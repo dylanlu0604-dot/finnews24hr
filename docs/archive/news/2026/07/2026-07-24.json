@@ -1,7 +1,60 @@
 {
   "date": "2026-07-24",
-  "count": 689,
+  "count": 695,
   "items": [
+    {
+      "id": "5005615",
+      "time": "2026-07-24 08:58:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧克股份：光固化單體原材料產品小規模供貨】奧克股份(300082)7月24日在互動平臺表示，光固化單體原材料產品小規模供貨，但屬上游原料，不直接對應PCB終端客戶。"
+    },
+    {
+      "id": "te:markets:569449",
+      "time": "2026-07-24 08:58:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Decline — Silver hovered around $57.7 per ounce on Friday after falling more than 3% in the previous session, as surging oil prices fueled by the escalating Middle East conflict strengthened the case for tighter US monetary policy. President Donald Trump threatened broader military action against Iran and said Tehran would be held responsible for any future Houthi attacks on Red Sea shipping, helping propel Brent crude above $100 a barrel for the first time since May. The jump in oil prices stoked inflation concerns, reinforcing expectations of tighter Fed policy and weighing on non-yielding assets. Markets now see a 34% chance of a rate hike next week, with the probability of a September increase exceeding 78%. Separately, fresh US tariffs of 10%–12.5% on imports from major trading partners added to market uncertainty. Despite the recent pullback, silver remained on track for a weekly gain."
+    },
+    {
+      "id": "5005614",
+      "time": "2026-07-24 08:57:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "海南省氣象臺2026年07月24日08時55分繼續釋出海上雷雨大風黃色預警訊號：受對流雲團影響，北部灣南部海面24日08時55分到17時可能出現雷雨大風天氣，風力達7～9級並伴有強雷電，建議有關單位和人員做好防範工作。"
+    },
+    {
+      "id": "5005613",
+      "time": "2026-07-24 08:56:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：美國針對強迫勞動徵收關稅令人遺憾。"
+    },
+    {
+      "id": "5005612",
+      "time": "2026-07-24 08:56:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【五糧液普五八代領跌 白酒大單品總價創四天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月24日再度走弱。如果主要單品各取一瓶整體打包售賣，今日總售價為9877元，較昨日下跌20元，在短暫反彈一日後重新轉跌，自昨日創下的17天高點明顯回落，並創下四天以來最低，但較7月18日的階段低點仍高出72元。縱觀全場，過去一天酒市終端交投情緒環比轉冷，前期低位修復行情遭遇明顯回踩。\n\n今日11大白酒單品四漲七跌，輸家盡佔上風。上漲方面，洋河夢之藍M6+的漲幅居前，上漲7元/瓶，連續兩日回升，進一步站穩590元關口並叩關600元；習酒君品上漲3元/瓶，終結此前兩連陰，重新站上630元一線；國窖1573與青花郎均小漲1元/瓶，其中前者自昨日創下的近一月最低位微幅反彈，後者連續兩日走升，續創近一個月最高價。下跌方面，五糧液普五八代跌幅居前，下跌8元/瓶，連續三日回落累計下跌18元/瓶，價格降至776元/瓶，再平“酒價內參”自去年11月有統計以來的最低價紀錄；古井貢古20下跌7元/瓶，續創7月份以來最低；精品茅臺下跌6元/瓶，結束此前四連漲，價格回落至2400元關口；五糧液1618與青花汾20均跌4元/瓶，其中前者四連漲告終，回吐昨日全部漲幅重回820元關口，後者結束此前連續兩日平盤，再度跌破370元關口，平近半個月最低價紀錄。飛天茅臺下跌2元/瓶，全國零售均價連續三日自提價後的階段高位小幅回撥；水晶劍南春小跌1元/瓶，結束此前連續兩日平盤。"
+    },
+    {
+      "id": "5005611",
+      "time": "2026-07-24 08:55:32",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：目前黃金市場最大的風險是油價失控】 美伊衝突升級，尤其是以色列和胡塞加入，局勢升級的機率進一步提升，油價大漲，這給剛剛開始反彈的黃金重重一擊，黃金大幅回落。如果短期內油價繼續大漲，金價毫無疑問將繼續承壓，目前黃金市場最大的風險是油價失控。（中金財富期貨）"
+    },
     {
       "id": "5005610",
       "time": "2026-07-24 08:54:44",
