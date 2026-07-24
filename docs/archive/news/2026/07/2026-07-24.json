@@ -1,7 +1,192 @@
 {
   "date": "2026-07-24",
-  "count": 2935,
+  "count": 2953,
   "items": [
+    {
+      "id": "mkt:019f9453-571b-7aab-8e89-4f06de8a8cbe",
+      "time": "2026-07-24 21:31:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. wheat futures tumbled 4.00% intraday to 668.25¢/bu."
+    },
+    {
+      "id": "mkt:019f9453-45a1-7aab-8e89-462b809c02c6",
+      "time": "2026-07-24 21:31:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SLB.N",
+        "Impact bullish"
+      ],
+      "text": "Schlumberger (SLB.N) shares rose 6.6% after Q2 profit fell 26% YoY but beat expectations; North America revenue jumped 36% YoY, helping offset geopolitical pressures in the Middle East."
+    },
+    {
+      "id": "5007177",
+      "time": "2026-07-24 21:31:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國運通股價開盤下跌5.7%，創2月以來最大跌幅。"
+    },
+    {
+      "id": "5007176",
+      "time": "2026-07-24 21:31:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "查特通訊股價下跌9.9%，此前該公司下調全年EBITDA預期，且第二季度寬頻使用者虧損幅度超出市場預期。"
+    },
+    {
+      "id": "5007175",
+      "time": "2026-07-24 21:31:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "蒂森克虜伯海洋系統股份兩合公司（TKMS AG & CO KGAA）與納凡提亞推進戰略潛艇合作專案。"
+    },
+    {
+      "id": "mkt:019f9453-0a29-7aab-8e89-3875e18ee7f8",
+      "time": "2026-07-24 21:31:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. equities opened mixed on July 24 (Fri): Dow Jones Industrial Average +101.65 pts (+0.20%) at 51,813.30; S&P 500 +1.66 pts (+0.02%) at 7,409.76; Nasdaq Composite -15.39 pts (-0.06%) at 25,122.31."
+    },
+    {
+      "id": "mkt:019f9453-0909-7aab-8e89-33397656a213",
+      "time": "2026-07-24 21:31:37",
+      "tags": [
+        "MKT News",
+        "AXP.N",
+        "Impact mixed"
+      ],
+      "text": "American Express (AXP.N) shares fell more than 5% after mixed Q2 results: revenue missed expectations, but the company raised its full-year guidance."
+    },
+    {
+      "id": "5007174",
+      "time": "2026-07-24 21:31:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "甲骨文股價上漲2.2%，此前五角大樓授予該公司一份價值70億美元的軟體合同。"
+    },
+    {
+      "id": "5007173",
+      "time": "2026-07-24 21:31:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國科技公司公開信： 美國需就人工智慧開源權重模型做出抉擇。"
+    },
+    {
+      "id": "5007172",
+      "time": "2026-07-24 21:30:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國科技公司公開信：僅僅依賴封閉式人工智慧模型並非本質上安全。"
+    },
+    {
+      "id": "5007171",
+      "time": "2026-07-24 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指漲0.23%，標普500指數漲0.08%，納指跌0.06%。斯倫貝謝漲6.68%，數字房地信託漲5.94%，愛德華茲漲5.48%，Universal Health Services Inc Cl漲5.43%，特許通訊跌10.20%，羅賓遜物流跌6.75%。“七姐妹”方面：微軟漲1.63%，蘋果漲0.95%，特斯拉漲0.56%，谷歌漲0.51%，亞馬遜漲0.09%，Meta Platforms跌0.21%，英偉達跌0.76%。"
+    },
+    {
+      "id": "mkt:019f9452-33e1-7aab-8e89-2cc3716eb3e0",
+      "time": "2026-07-24 21:30:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Alibaba",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact mixed",
+        "MSFT.O",
+        "Impact bullish",
+        "MU.O",
+        "Impact bearish"
+      ],
+      "text": "【US major indices open mixed】At the open the Dow rose 0.17%, the S&P 500 gained 0.07% and the Nasdaq fell 0.12%. Tech names diverged: ORACLE climbed nearly 2% (ORCL.N), AMD and Microsoft rose over 1% (AMD.O, MSFT.O); Micron Technology fell about 3% (MU.O), SpaceX slipped nearly 2% (SPCX.O), and Alibaba and Broadcom declined more than 1% (BABA.N, AVGO.O)."
+    },
+    {
+      "id": "5007170",
+      "time": "2026-07-24 21:30:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌CEO：開源權重模型對健康發展的人工智慧生態至關重要。我們聯合行業內各方，規劃開源權重模型發展路徑，以此提升美國競爭力、拓寬經濟發展機遇，同時維護國家安全。"
+    },
+    {
+      "id": "5007169",
+      "time": "2026-07-24 21:30:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度斯坦鋅業公佈第一季度淨利潤創紀錄，達5.78億美元，同比增長145%；受強勁產量和最低生產成本推動，息稅折舊及攤銷前利潤（EBITDA）也創下歷史新高。"
+    },
+    {
+      "id": "te:markets:569794",
+      "time": "2026-07-24 21:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "American Express Stock Price Hits 6-week Low — American Express shares decreased to 324.51 USD, the lowest since June 2026. Over the past 4 weeks, American Express lost 0.5%, and in the last 12 months, it increased 10.57%."
+    },
+    {
+      "id": "mkt:019f9451-bf54-7aab-8e89-2688c8faf17c",
+      "time": "2026-07-24 21:30:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "INTC.O",
+        "Impact mixed"
+      ],
+      "text": "【Morgan Stanley: investors appear enthusiastic about Intel's spending plans】Morgan Stanley says Intel has raised its full-year capital expenditure outlook to about $20bn from roughly $15bn and expects next-year spending to be materially higher; MS models roughly $30bn of capex in FY2027. The firm warns investor enthusiasm depends on confidence in long-term returns from the investments. Intel should benefit from AI demand that relies on its CPUs, supporting some server growth, but MS cautions server profitability partly requires continued supply tightness — abundant CPU supply could trigger share loss and price pressure."
+    },
+    {
+      "id": "5007168",
+      "time": "2026-07-24 21:30:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國多家科技企業釋出關於開源權重模型的公開信。"
+    },
+    {
+      "id": "5007167",
+      "time": "2026-07-24 21:28:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗打擊四國多處美軍目標】今天（7月24日），為回擊美軍連續第13晚襲擊，伊朗武裝力量對科威特、巴林、約旦、伊拉克的多處美軍目標發動多輪襲擊。目前，美國方面及相關國家未證實伊朗所稱打擊造成的損失。伊朗方面則表示針對美軍目標的行動仍將繼續。 （CCTV國際時訊）"
+    },
     {
       "id": "5007166",
       "time": "2026-07-24 21:27:55",
