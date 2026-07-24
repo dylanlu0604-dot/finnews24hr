@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-25 04:04:18",
-  "count": 18230,
+  "updated": "2026-07-25 04:08:11",
+  "count": 18229,
   "items": [
+    {
+      "id": "mkt:019f95bd-3ce2-7aab-8e90-47e9e496cbdb",
+      "time": "2026-07-25 04:07:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Dow Jones Industrial Average closed up 235.60 points (+0.46%) at 51,947.25 on Friday, July 24. S&P 500 closed up 3.72 points (+0.05%) at 7,412.02. Nasdaq Composite closed down 161.87 points (-0.64%) at 24,975.82."
+    },
+    {
+      "id": "mkt:019f95bd-0fd0-7aab-8e90-3ecbc351f090",
+      "time": "2026-07-25 04:07:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fars News, citing Arab sources, reported Saudi Arabia carried out airstrikes on Yemen's Hodeidah port."
+    },
+    {
+      "id": "5007572",
+      "time": "2026-07-25 04:06:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙：（要約期限）已延長至 8 月 7 日。"
+    },
+    {
+      "id": "5007571",
+      "time": "2026-07-25 04:06:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息： 派拉蒙公告延長收購要約有效期。"
+    },
+    {
+      "id": "5007570",
+      "time": "2026-07-25 04:05:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽通航量下降 曼德海峽回升】國際市場服務機構克普勒24日在社交媒體釋出訊息說，中東兩大關鍵海上通道23日船舶通航情況出現分化，霍爾木茲海峽通航量明顯下降，而連線紅海和亞丁灣的曼德海峽通航量有所回升。克普勒資料顯示，霍爾木茲海峽23日共有6艘船舶完成通行，較前一日下降60%。除一艘船舶外，其餘均經由伊朗劃設的航道通行。與此同時，曼德海峽當天共有49艘船舶完成過境，高於此前水平。其中包括4艘關閉船舶自動識別系統進行“暗航”的船舶。克普勒表示，此前在亞丁灣和紅海因安全風險掉頭返航的部分船舶已恢復航行並完成通行，但仍有部分船舶在掉頭後繼續停留觀望。目前國際航運企業仍在持續評估地區安全形勢，整體通航活動呈現“謹慎但選擇性恢復”的特點。（新華社）"
+    },
     {
       "id": "mkt:019f95b9-159b-7aab-8e90-31c3cf4271e8",
       "time": "2026-07-25 04:02:42",
@@ -166982,70 +167032,6 @@
         "其他"
       ],
       "text": "市場訊息： iPhone 破解技術廠商起訴前員工，指控其涉嫌竊取機密。"
-    },
-    {
-      "id": "te:markets:567982",
-      "time": "2026-07-18 04:07:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Fall as Chip Selloff Deepens — US stock indices closed lower on Friday amid a fresh selloff in chipmakers and renewed geopolitical tensions. The S&P 500 lost 1%, the Nasdaq shed 1.5%, and the Dow Jones retreated 407 points. Semiconductor manufacturers plunged on concerns that AI hyperscalers may scale back investment in AI infrastructure, reversing part of this year's rally. Fears of weaker capital expenditure were also fueled by improvements in Chinese AI models, including Moonshot's latest Kimi release. Nvidia lost 2.2%, Broadcom shed 1%, AMD fell 1%, and Intel retreated 2%. Meanwhile, inflationary risks gained momentum as the war in the Middle East continued and fuel prices rose. Economic headwinds were also reinforced after US President Trump claimed China had interfered in the 2020 US presidential election, raising concerns over the durability of the trade truce reached following last year's tariff exchanges. On the earnings front, Netflix sank 7.3% after forecasting another quarter of slowing sales."
-    },
-    {
-      "id": "mkt:019f71b0-f7c0-7aab-8deb-977482b7d60d",
-      "time": "2026-07-18 04:07:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "SOX",
-        "Impact bearish"
-      ],
-      "text": "【Philadelphia Semiconductor Index enters bear market】The U.S. Philadelphia Semiconductor Index (SOX) has retraced more than 20% from its June 22 closing record high, entering a bear market. The index fell 10% this week, its largest weekly decline since April 2025."
-    },
-    {
-      "id": "4995062",
-      "time": "2026-07-18 04:07:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西班牙東北部山火過火面積已達1.4萬公頃】當地時間17日，西班牙東北部阿拉貢自治區五鎮地區山火仍在持續蔓延，過火面積已達1.4萬公頃。受風向多變、地形複雜等因素影響，火場形勢依然嚴峻。目前，隆加斯、伊蘇埃雷和翁塞利亞-德洛韋拉等地已進入預警狀態，相關部門正準備視情況實施預防性疏散。當天，火勢一度逼近並進入盧埃西亞城區，但其蔓延已得到控制，僅造成輕微影響。盧埃西亞與溫卡斯蒂略之間部分路段的火勢還越過了公路，成為夜間重點監控區域。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f71af-9e7b-7aab-8deb-894c4517ac52",
-      "time": "2026-07-18 04:06:02",
-      "tags": [
-        "MKT News",
-        "LCID.O",
-        "Impact bullish"
-      ],
-      "text": "Lucid Group (LCID.O) shares rose 32%, the largest one-day gain in nearly a year."
-    },
-    {
-      "id": "mkt:019f71ae-c1ef-7aab-8deb-8018de7e1cfa",
-      "time": "2026-07-18 04:05:06",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "This week the S&P 500 fell 1.55%, the Nasdaq dropped 2.9% and the Dow fell 0.93%."
-    },
-    {
-      "id": "4995061",
-      "time": "2026-07-18 04:04:44",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美軍稱對伊朗發動新一輪打擊】當地時間7月17日，美國中央司令部表示，美軍於美東時間當天下午3時對伊朗啟動新一輪打擊，這是美軍連續第七晚發動空襲。美國中央司令部稱，此輪行動奉特朗普總統指示實施，旨在繼續削弱伊朗的軍事能力。（央視新聞）"
     }
   ]
 }
