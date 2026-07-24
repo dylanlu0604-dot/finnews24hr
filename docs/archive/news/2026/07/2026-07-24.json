@@ -1,7 +1,99 @@
 {
   "date": "2026-07-24",
-  "count": 642,
+  "count": 651,
   "items": [
+    {
+      "id": "5005583",
+      "time": "2026-07-24 08:31:04",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本7月製造業採購經理人指數(PMI)初值為54.7 (上月為54.8)；日本7月服務業採購經理人指數(PMI)初值為51.9 (上月為52.2)；日本7月份標普全球綜合PMI報53.1。"
+    },
+    {
+      "id": "5005582",
+      "time": "2026-07-24 08:30:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥衛生部表示，對泰勒農場生菜與水樣的檢測結果顯示，並未檢出環孢子蟲。"
+    },
+    {
+      "id": "mkt:019f9187-91c8-7aab-8e76-1bbf514e554c",
+      "time": "2026-07-24 08:30:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan July preliminary composite PMI 53.1; prior 52.8."
+    },
+    {
+      "id": "mkt:019f9187-8d57-7aab-8e76-14f4aa7cfb2b",
+      "time": "2026-07-24 08:30:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan preliminary July manufacturing PMI 54.7, versus 54.8 previously."
+    },
+    {
+      "id": "mkt:019f9187-8b65-7aab-8e76-08c79ee58a88",
+      "time": "2026-07-24 08:30:07",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan preliminary July services PMI 51.9, down from 52.2."
+    },
+    {
+      "id": "mkt:019f9187-7050-7aab-8e76-07a90727eee8",
+      "time": "2026-07-24 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Manufacturing PMI Flash (Jul) | actual 54.7 | previous 54.8"
+    },
+    {
+      "id": "5005581",
+      "time": "2026-07-24 08:29:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Stripe據悉洽購AI模型聚合平臺創企OpenRouter】據報道，支付公司Stripe正洽談收購AI模型聚合平臺創企OpenRouter，可能很快宣佈達成交易，但洽談仍可能破裂或出現其他競購者。OpenRouter此前估值約13億美元，若達成收購協議，其估值可能達到約100億美元。"
+    },
+    {
+      "id": "mkt:019f9186-17f4-7aab-8e75-fcc11b73463a",
+      "time": "2026-07-24 08:28:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea's Lee vows to press housing tax and mortgage reforms despite political cost】South Korea's Lee said on Thursday he will press ahead with housing policy reform even if it provokes expected conflict, resistance and \"political cost\". He warned failure to act could inflate a property bubble and trigger decades-long economic stagnation, citing Japan's \"lost decades\". Lee said forthcoming measures and discussions will cover property holding taxes, capital gains taxes and housing loan rules."
+    },
+    {
+      "id": "5005580",
+      "time": "2026-07-24 08:28:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【紐西蘭表示美國加徵關稅令人失望，並駁斥有關強迫勞動的調查結果】紐西蘭貿易部長託德·麥克萊在電子郵件宣告中表示，美國決定對紐西蘭產品徵收關稅“非常令人失望”，但並非出乎意料。他說，美國總統唐納德·特朗普競選時承諾要徵收關稅，而這就是後果。紐西蘭方面表示不接受調查結果，並稱美國的調查程式不夠嚴謹。“強迫勞動生產的進口商品在紐西蘭經濟中發揮任何可衡量的作用，這根本令人難以置信。”紐西蘭稱這項調查只是為徵收大額關稅提供了一個法律藉口，而不是有效打擊強迫勞動。“在世界貿易體系面臨巨大壓力的當下，這些舉措加劇了不確定性。志同道合的國家比以往任何時候都更需要攜手合作，加強貿易和投資，包括減少貿易壁壘，使貿易更加便利。”"
+    },
     {
       "id": "5005579",
       "time": "2026-07-24 08:26:14",

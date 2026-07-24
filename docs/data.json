@@ -1,7 +1,99 @@
 {
-  "updated": "2026-07-24 08:28:15",
-  "count": 18021,
+  "updated": "2026-07-24 08:32:12",
+  "count": 18024,
   "items": [
+    {
+      "id": "5005583",
+      "time": "2026-07-24 08:31:04",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本7月製造業採購經理人指數(PMI)初值為54.7 (上月為54.8)；日本7月服務業採購經理人指數(PMI)初值為51.9 (上月為52.2)；日本7月份標普全球綜合PMI報53.1。"
+    },
+    {
+      "id": "5005582",
+      "time": "2026-07-24 08:30:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥衛生部表示，對泰勒農場生菜與水樣的檢測結果顯示，並未檢出環孢子蟲。"
+    },
+    {
+      "id": "mkt:019f9187-91c8-7aab-8e76-1bbf514e554c",
+      "time": "2026-07-24 08:30:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan July preliminary composite PMI 53.1; prior 52.8."
+    },
+    {
+      "id": "mkt:019f9187-8d57-7aab-8e76-14f4aa7cfb2b",
+      "time": "2026-07-24 08:30:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan preliminary July manufacturing PMI 54.7, versus 54.8 previously."
+    },
+    {
+      "id": "mkt:019f9187-8b65-7aab-8e76-08c79ee58a88",
+      "time": "2026-07-24 08:30:07",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan preliminary July services PMI 51.9, down from 52.2."
+    },
+    {
+      "id": "mkt:019f9187-7050-7aab-8e76-07a90727eee8",
+      "time": "2026-07-24 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Manufacturing PMI Flash (Jul) | actual 54.7 | previous 54.8"
+    },
+    {
+      "id": "5005581",
+      "time": "2026-07-24 08:29:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Stripe據悉洽購AI模型聚合平臺創企OpenRouter】據報道，支付公司Stripe正洽談收購AI模型聚合平臺創企OpenRouter，可能很快宣佈達成交易，但洽談仍可能破裂或出現其他競購者。OpenRouter此前估值約13億美元，若達成收購協議，其估值可能達到約100億美元。"
+    },
+    {
+      "id": "mkt:019f9186-17f4-7aab-8e75-fcc11b73463a",
+      "time": "2026-07-24 08:28:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea's Lee vows to press housing tax and mortgage reforms despite political cost】South Korea's Lee said on Thursday he will press ahead with housing policy reform even if it provokes expected conflict, resistance and \"political cost\". He warned failure to act could inflate a property bubble and trigger decades-long economic stagnation, citing Japan's \"lost decades\". Lee said forthcoming measures and discussions will cover property holding taxes, capital gains taxes and housing loan rules."
+    },
+    {
+      "id": "5005580",
+      "time": "2026-07-24 08:28:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【紐西蘭表示美國加徵關稅令人失望，並駁斥有關強迫勞動的調查結果】紐西蘭貿易部長託德·麥克萊在電子郵件宣告中表示，美國決定對紐西蘭產品徵收關稅“非常令人失望”，但並非出乎意料。他說，美國總統唐納德·特朗普競選時承諾要徵收關稅，而這就是後果。紐西蘭方面表示不接受調查結果，並稱美國的調查程式不夠嚴謹。“強迫勞動生產的進口商品在紐西蘭經濟中發揮任何可衡量的作用，這根本令人難以置信。”紐西蘭稱這項調查只是為徵收大額關稅提供了一個法律藉口，而不是有效打擊強迫勞動。“在世界貿易體系面臨巨大壓力的當下，這些舉措加劇了不確定性。志同道合的國家比以往任何時候都更需要攜手合作，加強貿易和投資，包括減少貿易壁壘，使貿易更加便利。”"
+    },
     {
       "id": "5005579",
       "time": "2026-07-24 08:26:14",
@@ -165106,62 +165198,6 @@
         "國際"
       ],
       "text": "【因國稅局稅務稽查事宜與白宮產生衝突，美財政部最高稅務官員遭解職】據報道，多位知情人士透露，美國財政部首席稅務政策官員遭強制離職，此前他曾警示白宮方面存在違反聯邦法律的風險 —— 該法律禁止高階官員干預美國國稅局稅務稽查工作。財政部助理部長、美國國稅局代理總法律顧問肯尼斯・基斯將於未來幾周卸任上述兩項職務。知情人士稱，基斯曾多次在私下與白宮官員發生分歧。其中一名訊息人士表示，在近期一場會議上，基斯提出，白宮一項擬議訴求將違反《國內稅收法典》第 7217 條。該法條規定，總統、副總統、白宮工作人員以及部分機構負責人，不得直接或間接要求國稅局啟動或終止針對任何特定納稅人的稽查或調查。"
-    },
-    {
-      "id": "4993128",
-      "time": "2026-07-17 08:31:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貴州重慶等地暴雨來襲 明起華北東北降雨再增多 】今明天（7月17日至18日），我國較強降雨帶將呈現逐步南壓的趨勢，貴州、重慶等地雨勢明顯加強，大到暴雨連成片，與此同時，華北、東北降雨將再度增多。隨著降雨發展、副熱帶高壓減弱，今天起南方持續盤踞的高溫將快速收斂，悶熱感得到緩和。"
-    },
-    {
-      "id": "4993127",
-      "time": "2026-07-17 08:30:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍被曝擱置伊朗小學遇襲事件調查】美國和以色列2月28日對伊朗發起大規模軍事行動，伊朗南部米納卜市一所小學遭到導彈襲擊，造成175人死亡，死者大部分是兒童。距離此次事件發生已過去數月，美國方面16日援引三名知情人士訊息稱，美國軍方對伊朗米納卜小學遭襲事件的調查已擱置許久，軍方高層遲遲沒有批准相關調查進入關鍵的情報審查程式。訊息人士表示，米納卜小學遭襲後一週內，本次空襲的“戰鬥毀傷評估”前兩階段已完成，調查重點為釐清空襲是否擊中並毀傷預定目標，前兩階段調查結果表明美軍因使用過時情報“意外”擊中小學。但截至7月初，由美國國防情報局負責的第三階段核心情報審查仍未獲批啟動。按照常規流程，這一階段需由專業分析人員調取全部衛星影象與相關情報，對事件全貌及對美軍整體任務的影響作出全面研判，按慣例通常會在事件發生後立即啟動。"
-    },
-    {
-      "id": "mkt:019f6d7b-5f47-7aab-8dd3-b7e74e3a4788",
-      "time": "2026-07-17 08:30:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore June electronics exports rose 105.1% YoY."
-    },
-    {
-      "id": "mkt:019f6d7b-3154-7aab-8dd3-a9159ccce09c",
-      "time": "2026-07-17 08:30:17",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "【Cuban foreign minister says US testing public opinion for possible military action against Cuba】Cuban foreign minister Rodríguez said on the 16th that some US media have repeatedly joined a US government effort to hype threats of force against Cuba. He said the government is using information \"fed to\" the media to test \"public opinion\" ahead of an unjustified military adventure, and stressed Cuba is not a threat, a fact US intelligence agencies know."
-    },
-    {
-      "id": "4993126",
-      "time": "2026-07-17 08:30:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海證交所上日融資餘額下跌1.0%至14,308.2億元。"
-    },
-    {
-      "id": "te:markets:567670",
-      "time": "2026-07-17 08:28:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Track Wall Street Lower — The Nikkei 225 Index fell 2.8% to below 65,000, while the broader Topix Index declined 1.3% to 3,975 on Friday, extending losses from the previous session and following Wall Street lower after a sharp selloff in semiconductor stocks. The weakness came as investors increasingly questioned whether the elevated valuations of AI-related chipmakers remain justified by the industry's ambitious growth expectations. Market sentiment was also pressured by the escalating conflict between the US and Iran, which pushed oil prices higher and kept inflationary pressures and interest rate concerns in focus. Technology and AI-related stocks led the declines in Japan, with Kioxia Holdings plunging 15%, Tokyo Electron falling 4.5%, SoftBank Group losing 6.3%, Advantest dropping 5.9%, and Murata Manufacturing sliding 7.7%. The Nikkei 225 and Topix indexes are now on track to post weekly losses of nearly 6% and 2%, respectively."
     }
   ]
 }
