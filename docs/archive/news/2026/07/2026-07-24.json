@@ -1,7 +1,35 @@
 {
   "date": "2026-07-24",
-  "count": 3231,
+  "count": 3234,
   "items": [
+    {
+      "id": "5007364",
+      "time": "2026-07-24 23:32:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲1.04%，報25019.62點，本週累漲約0.7%。法國股指初步收漲0.56%，義大利股指初步收漲0.62%、銀行指數漲1.68%，英國股指初步收漲0.78%。"
+    },
+    {
+      "id": "5007363",
+      "time": "2026-07-24 23:32:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.61%，報643.20點，本週累漲約0.2%。歐元區STOXX 50指數初步收漲0.86%，報6263.42點，本週累漲約0.4%。富時泛歐績優300指數初步收漲0.79%，報2576.66點。"
+    },
+    {
+      "id": "te:markets:569819",
+      "time": "2026-07-24 23:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "HRC Steel Hits 4-week High — HRC Steel increased to 1200.00 USD/T, the highest since June 2026. Over the past 4 weeks, Hot-Rolled Coil Steel lost 0%, and in the last 12 months, it increased 41.44%."
+    },
     {
       "id": "5007362",
       "time": "2026-07-24 23:28:26",
