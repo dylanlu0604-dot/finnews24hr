@@ -1,7 +1,190 @@
 {
   "date": "2026-07-24",
-  "count": 2681,
+  "count": 2700,
   "items": [
+    {
+      "id": "5007000",
+      "time": "2026-07-24 20:03:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【澄天偉業：2026年上半年淨利潤273.08萬元，同比下降74.89%】澄天偉業公告，2026年上半年營業收入2.55億元，同比增長21.76%。淨利潤273.08萬元，同比下降74.89%。"
+    },
+    {
+      "id": "5006999",
+      "time": "2026-07-24 20:03:34",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯央行行長納比烏琳娜：燃料價格上漲已開始向其他商品和服務溢位。"
+    },
+    {
+      "id": "5006998",
+      "time": "2026-07-24 20:03:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "波羅的海乾散貨指數漲0.66%，報2743點。"
+    },
+    {
+      "id": "mkt:019f9402-22ce-7aab-8e87-67a05bd2f1e6",
+      "time": "2026-07-24 20:03:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Russian central bank governor Nabiullina said rising fuel prices are beginning to spill over into other goods and services."
+    },
+    {
+      "id": "mkt:019f9402-223e-7aab-8e87-5ab787957d39",
+      "time": "2026-07-24 20:03:15",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Russian Cenbank governor Nabiullina said a surge in fuel prices has accelerated inf."
+    },
+    {
+      "id": "5006997",
+      "time": "2026-07-24 20:03:09",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯央行行長納比烏琳娜：通脹升溫源於燃料價格大幅上漲。"
+    },
+    {
+      "id": "mkt:019f9401-fdfd-7aab-8e87-575256f1f5f6",
+      "time": "2026-07-24 20:03:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index rose 0.66% to 2,743."
+    },
+    {
+      "id": "5006996",
+      "time": "2026-07-24 20:02:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行行長納比烏琳娜：通脹回升只是暫時性現象。"
+    },
+    {
+      "id": "mkt:019f9401-66d0-7aab-8e87-488df3ff26b3",
+      "time": "2026-07-24 20:02:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian central bank governor Nabiullina said the acceleration in inflation is temporary."
+    },
+    {
+      "id": "5006995",
+      "time": "2026-07-24 20:02:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭檢察總長：俄羅斯空襲導致基輔地區10人遇難。"
+    },
+    {
+      "id": "5006994",
+      "time": "2026-07-24 20:02:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克否認向伊朗轉交特朗普停火提議】伊拉克總理新聞辦公室24日發表宣告，否認美國《紐約時報》關於伊拉克總理扎伊迪曾向伊朗轉交美方停火提議的報道，稱相關報道“毫無事實根據，與現實完全不符”。《紐約時報》23日援引伊朗和伊拉克官員的話報道稱，伊朗當天拒絕了美國總統特朗普經由扎伊迪轉交的一份停火提議。扎伊迪23日訪問伊朗，與伊朗總統佩澤希齊揚舉行會談。扎伊迪表示，伊拉克和伊朗兩國的安全緊密相連，伊拉克絕不允許任何威脅伊朗的行動從其領土上發起。（新華社）"
+    },
+    {
+      "id": "5006993",
+      "time": "2026-07-24 20:01:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "黑石房地產收益信託 6 月淨收益率 1.1%。"
+    },
+    {
+      "id": "5006992",
+      "time": "2026-07-24 20:01:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "藍威斯頓預計2027年調整後每股收益2.95美元至3.25美元。藍威斯頓預計2027年調整後EBITDA 11億美元至12億美元。"
+    },
+    {
+      "id": "mkt:019f9400-4a47-7aab-8e87-4122ed2bc7e7",
+      "time": "2026-07-24 20:01:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's former CSRC vice chairman Fang Xinghai under investigation】Former CSRC Party Committee member and vice chairman Fang Xinghai is suspected of serious disciplinary and legal violations and is under disciplinary review and investigation by the Central Commission for Discipline Inspection and the National Supervisory Commission."
+    },
+    {
+      "id": "5006991",
+      "time": "2026-07-24 20:00:49",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【中國證監會原副主席方星海接受審查調查】中國證券監督管理委員會原黨委委員、副主席方星海涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f93ff-bdb0-7aab-8e87-3bc932607ad6",
+      "time": "2026-07-24 20:00:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "China's Shanghai Gold Exchange Gold T+D fell 1.91% in early trade of the July 24 evening session to 883.3 yuan/gram. Silver T+D rose 1.36% to 14,255 yuan/kg."
+    },
+    {
+      "id": "mkt:019f93ff-a5c1-7aab-8e87-3530a914175e",
+      "time": "2026-07-24 20:00:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran state TV reports explosions in the Jask area of southern Iran."
+    },
+    {
+      "id": "5006990",
+      "time": "2026-07-24 20:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【唐山高爐將執行限產 鋼廠盈利率跌破35%】本週247家鋼廠高爐開工率82.09%，環比上週減少0.64個百分點；鋼廠盈利率34.63%，環比上週減少2.60個百分點；日均鐵水產量237.7萬噸，環比上週減少1.51萬噸。福建三鋼中板產線檢修影響量約6.6萬噸。唐山鋼企已接到限產通知。當前部分高爐已停產檢修，另有鋼企表示將控產或輪流休風。"
+    },
+    {
+      "id": "mkt:019f93ff-2e96-7aab-8e87-2e4b97ca6efe",
+      "time": "2026-07-24 20:00:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. crude and Brent slid about $1 intraday, trading at $89.70/bbl and $92.02/bbl respectively."
+    },
     {
       "id": "5006989",
       "time": "2026-07-24 19:59:24",
