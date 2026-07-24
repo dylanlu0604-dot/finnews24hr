@@ -1,7 +1,27 @@
 {
   "date": "2026-07-25",
-  "count": 340,
+  "count": 342,
   "items": [
+    {
+      "id": "5007580",
+      "time": "2026-07-25 04:38:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝旗下媒體：沙特襲擊了卡馬蘭島與荷臺達市的一座通訊設施，有一人在襲擊中受傷。"
+    },
+    {
+      "id": "te:markets:569854",
+      "time": "2026-07-25 04:35:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.46% Higher — The Dow Jones Index gained 236 points or 0.46 percent on Friday to close at 51947 points. Gains were led by Salesforce (4.05%), IBM (3.61%) and Apple (3.52%). Biggest losers were American Express (-4.41%), Honeywell International (-1.85%) and Goldman Sachs (-1.37%)."
+    },
     {
       "id": "5007579",
       "time": "2026-07-25 04:33:06",
