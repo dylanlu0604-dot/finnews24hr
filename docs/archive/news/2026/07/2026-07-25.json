@@ -1,7 +1,18 @@
 {
   "date": "2026-07-25",
-  "count": 414,
+  "count": 415,
   "items": [
+    {
+      "id": "te:markets:569862",
+      "time": "2026-07-25 06:35:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Titanium Falls by 1.08% — Top commodity losers are Titanium (-1.08%), Lithium Carbonate (-0.68%) and Platinum (-0.60%). Gains are led by Silver (0.96%) and Gold (0.06%)."
+    },
     {
       "id": "5007635",
       "time": "2026-07-25 06:33:35",
