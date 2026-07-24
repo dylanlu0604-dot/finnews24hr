@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-24 10:28:00",
-  "count": 18022,
+  "updated": "2026-07-24 10:31:56",
+  "count": 18020,
   "items": [
+    {
+      "id": "mkt:019f91f6-7325-7aab-8e78-6fe9f801ee2e",
+      "time": "2026-07-24 10:31:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia will invest an additional US$3.2 bln to build nuclear-powered submarines, Defence Minister Marles said, calling it another key step in establishing sovereign capability and saying Australia needs the capacity to build, operate, maintain and secure its future submarine fleet."
+    },
+    {
+      "id": "mkt:019f91f6-5f93-7aab-8e78-600d5e5b80b5",
+      "time": "2026-07-24 10:31:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China to launch international telecom-fraud enforcement alliance in September】The Ministry of Public Security will hold a founding conference for an International Alliance to Combat Telecom Network Fraud in September at the 2026 Global Public Safety Cooperation Forum in Lianyungang. Vice Minister Qi Yanjun said telecom fraud case counts in China have fallen YoY for nine consecutive months since October 2025."
+    },
+    {
+      "id": "5005782",
+      "time": "2026-07-24 10:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年將成立國際打擊電信網路詐騙聯盟】從國新辦新聞釋出會上獲悉，9月，公安部將在全球公共安全合作論壇（連雲港）2026年大會期間舉辦國際打擊電信網路詐騙聯盟成立大會。公安部分管日常工作的副部長亓延軍在釋出會上表示，2025年10月以來，我國電詐案件發案數連續9個月同比下降。（新華社）"
+    },
+    {
+      "id": "mkt:019f91f4-dce4-7aab-8e78-5aab20f43e0d",
+      "time": "2026-07-24 10:29:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China public security agencies recover 12.15 bln yuan in 1H fighting economic and financial crime】In 1H, Chinese public security agencies investigated 48,000 economic and financial crime cases and recovered 12.15 bln yuan in economic losses. Filings for traditional theft, robbery and fraud fell to 307,000, down 38.9% YoY. Homicide cases dropped to a historic low. Authorities handled 1,744 organised-crime cases; public satisfaction with anti-gang efforts has risen for a third consecutive year. Telecom-fraud filings were down 15.6% YoY; authorities dissuaded 2.926 mln people from meeting suspected scammers. Telecom-fraud case counts have posted nine consecutive months of YoY decline since Oct 2025. National road-traffic safety was broadly stable; major accidents fell 8.8% YoY."
+    },
+    {
+      "id": "5005781",
+      "time": "2026-07-24 10:28:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數下跌2%。"
+    },
+    {
+      "id": "mkt:019f91f3-9a8f-7aab-8e78-55a6ae7cd1ae",
+      "time": "2026-07-24 10:28:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MOFCOM: Jan–Jun online retail value of smart exoskeletons and smart glasses up 458.4% and 151.7%】MOFCOM e‑commerce department said online shopping festivals helped boost consumption in Jan–Jun 2026. NBS data show nationwide online goods retail sales rose 4.8% in Jan–Jun, contributing 1.2 percentage points to total retail sales growth; online services retail sales increased 6.0%. MOFCOM big‑data monitoring recorded online retail value for smart exoskeletons and smart glasses up 458.4% and 151.7%, while online tourism and catering sales rose 27.2% and 13.9%, respectively."
+    },
+    {
+      "id": "5005779",
+      "time": "2026-07-24 10:27:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞3年期國債收益率升至2020年5月以來最高水平。"
+    },
+    {
+      "id": "5005778",
+      "time": "2026-07-24 10:27:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥斯大黎加央行將基準利率從3.25%下調至3%。"
+    },
     {
       "id": "5005777",
       "time": "2026-07-24 10:27:10",
@@ -165149,92 +165219,6 @@
         "其他"
       ],
       "text": "【外匯局：近年來人民幣匯率雙向浮動增強 企業更需堅持匯率風險中性理念】7月17日，國家外匯管理局副局長李斌在國新辦新聞釋出會上表示，匯率由市場供求決定，是很難預測的。近年來人民幣匯率雙向浮動增強，企業更需要堅持匯率風險中性的理念，主動採取措施管理匯率風險，儘可能降低匯率波動對主營業務和財務的影響。外匯局會同相關部門及金融機構，持續加強匯率風險中性理念宣傳，重點引導企業關注市場環境變化，提升避險意識，完善自主決策。"
-    },
-    {
-      "id": "4993337",
-      "time": "2026-07-17 10:31:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數早盤收盤下跌4.4%，至63,896.48點；東證指數早盤收盤下跌2.6%，至3923.45點。"
-    },
-    {
-      "id": "4993336",
-      "time": "2026-07-17 10:31:21",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "外匯局：繼續完善企業匯率避險政策供給和服務。一是會同相關部門及金融機構，持續加強匯率風險中性理念宣傳。二是搭建銀企服務橋樑。建立並不斷完善涉外企業資訊庫，已將29萬家外貿企業納入服務清單，幫助銀行依託企業清單提供精準高效服務。三是鼓勵銀行提升服務水平。簡化銀行為企業辦理外匯衍生品交易的單證稽核要求。推動銀行在創新外匯衍生品、拓展線上交易渠道等方面持續發力。引導銀行最佳化外匯衍生品授信和保證金管理機制。（金融一線）"
-    },
-    {
-      "id": "4993335",
-      "time": "2026-07-17 10:31:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報152450元/噸，較上日16:30價格上漲1250元/噸。"
-    },
-    {
-      "id": "4993334",
-      "time": "2026-07-17 10:30:55",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【上汽集團等在蘇州成立新興產業基金】企查查APP顯示，近日，蘇州中金上汽貳期新興產業基金合夥企業（有限合夥）成立，出資額約47億元，經營範圍包含：私募股權投資基金管理、創業投資基金管理服務；自有資金投資的資產管理服務等。企查查股權穿透顯示，該合夥企業由上汽集團旗下青島上汽創新升級產業股權投資基金合夥企業（有限合夥）等共同持股。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202607173810303242",
-      "time": "2026-07-17 10:30:40",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【工信部副部長柯吉欣：人形機器人產量今年或超10萬臺】在7月16日浙江紹興上虞舉行的工業和資訊化部人形機器人與具身智慧標準化技術委員會2026年度全體會議暨“標準周”活動上，工業和資訊化部黨組成員、副部長柯吉欣透露，去年我國人形機器人產量約為2萬臺，今年上半年已超過4萬臺，預計全年將超過10萬臺。柯吉欣判斷，未來兩三年可能是人形機器人產業發展的關鍵點，甚至是新的起點。"
-    },
-    {
-      "id": "4993333",
-      "time": "2026-07-17 10:30:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國航油在海南成立新公司 含航空運營支援業務】企查查APP顯示，近日，中國航油集團海南有限公司成立，經營範圍包含：航空運營支援服務；保稅倉庫經營；民用航空油料儲運及加註（含抽取）服務；民用航空油料檢測服務等。企查查股權穿透顯示，該公司由中國航空油料集團有限公司全資持股。"
-    },
-    {
-      "id": "4993332",
-      "time": "2026-07-17 10:29:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美團王莆中：持續提升騎手保障，讓騎手們的付出獲得尊重、生活有所依託】“職業化將是網約配送行業走向成熟的重要標誌，也是我們未來長期努力的方向”，7月16日，在全國總工會指導下，第九屆美團717騎士節年度榮譽盛典在北京舉行，美團核心本地商業CEO王莆中現場發言表示，美團將在有關部門指導下，從“效率優先”向“安全、收入、權益並重”轉變。王莆中認為，騎手正在成為專業化的新就業形態勞動者，“美團將繼續努力，提升騎手保障，讓騎手跑的每一單都值得，讓騎手成為更有尊嚴的職業力量”。活動現場，美團也透露了“等燈停表”的試點進展，目前已與蘇州交管部門完成資料對接。同時，美團也宣佈了騎手醫療保障的升級計劃，美團騎手在冬夏季跑單將額外獲得美團提供的專項保障。"
-    },
-    {
-      "id": "te:markets:567717",
-      "time": "2026-07-17 10:29:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesia Stocks Retreat But Eye Solid Weekly Gain — Indonesia’s IDX Composite fell 26 points or 0.4% to 6,0982 in Friday morning trade, snapping a six-session gain. Sentiment turned cautious as U.S. futures tumbled after a weak Wall Street session overnight led by chip losses, while traders parsed earnings updates. Locally, concerns resurfaced over external debt, which hit USD 444 billion in May, though officials maintain it is manageable. Markets also braced for Bank Indonesia’s policy meeting next week, with focus on whether a tightening bias holds after 100bp hikes in May–June. Basic materials, healthcare, and industrials weighed, amid weakness from Hartadinata Abadi (-3.3%), Aneka Tambang (-2.3%), AKR Corp. (-1.5%), and Alamtri Minerals (-1.0%). Still, the index is tracking a second weekly gain, up about 3%, on strong Q2 FDI growth, which rose at the fastest rate since Q4 2024, driven by downstream mineral investment. Meantime, the government plans stronger steps to stabilise food prices and curb inflation amid El Niño supply risks."
-    },
-    {
-      "id": "4993331",
-      "time": "2026-07-17 10:28:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，道達爾能源因重整裝置維修削減得克薩斯煉油廠產量。"
-    },
-    {
-      "id": "4993330",
-      "time": "2026-07-17 10:28:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心：環孢子蟲與塔可鍾餐廳供應的生菜有關。塔可鍾正在努力停止使用這種生菜。"
     }
   ]
 }

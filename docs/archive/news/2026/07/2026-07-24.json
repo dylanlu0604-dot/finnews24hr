@@ -1,7 +1,77 @@
 {
   "date": "2026-07-24",
-  "count": 943,
+  "count": 951,
   "items": [
+    {
+      "id": "mkt:019f91f6-7325-7aab-8e78-6fe9f801ee2e",
+      "time": "2026-07-24 10:31:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia will invest an additional US$3.2 bln to build nuclear-powered submarines, Defence Minister Marles said, calling it another key step in establishing sovereign capability and saying Australia needs the capacity to build, operate, maintain and secure its future submarine fleet."
+    },
+    {
+      "id": "mkt:019f91f6-5f93-7aab-8e78-600d5e5b80b5",
+      "time": "2026-07-24 10:31:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China to launch international telecom-fraud enforcement alliance in September】The Ministry of Public Security will hold a founding conference for an International Alliance to Combat Telecom Network Fraud in September at the 2026 Global Public Safety Cooperation Forum in Lianyungang. Vice Minister Qi Yanjun said telecom fraud case counts in China have fallen YoY for nine consecutive months since October 2025."
+    },
+    {
+      "id": "5005782",
+      "time": "2026-07-24 10:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年將成立國際打擊電信網路詐騙聯盟】從國新辦新聞釋出會上獲悉，9月，公安部將在全球公共安全合作論壇（連雲港）2026年大會期間舉辦國際打擊電信網路詐騙聯盟成立大會。公安部分管日常工作的副部長亓延軍在釋出會上表示，2025年10月以來，我國電詐案件發案數連續9個月同比下降。（新華社）"
+    },
+    {
+      "id": "mkt:019f91f4-dce4-7aab-8e78-5aab20f43e0d",
+      "time": "2026-07-24 10:29:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China public security agencies recover 12.15 bln yuan in 1H fighting economic and financial crime】In 1H, Chinese public security agencies investigated 48,000 economic and financial crime cases and recovered 12.15 bln yuan in economic losses. Filings for traditional theft, robbery and fraud fell to 307,000, down 38.9% YoY. Homicide cases dropped to a historic low. Authorities handled 1,744 organised-crime cases; public satisfaction with anti-gang efforts has risen for a third consecutive year. Telecom-fraud filings were down 15.6% YoY; authorities dissuaded 2.926 mln people from meeting suspected scammers. Telecom-fraud case counts have posted nine consecutive months of YoY decline since Oct 2025. National road-traffic safety was broadly stable; major accidents fell 8.8% YoY."
+    },
+    {
+      "id": "5005781",
+      "time": "2026-07-24 10:28:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數下跌2%。"
+    },
+    {
+      "id": "mkt:019f91f3-9a8f-7aab-8e78-55a6ae7cd1ae",
+      "time": "2026-07-24 10:28:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MOFCOM: Jan–Jun online retail value of smart exoskeletons and smart glasses up 458.4% and 151.7%】MOFCOM e‑commerce department said online shopping festivals helped boost consumption in Jan–Jun 2026. NBS data show nationwide online goods retail sales rose 4.8% in Jan–Jun, contributing 1.2 percentage points to total retail sales growth; online services retail sales increased 6.0%. MOFCOM big‑data monitoring recorded online retail value for smart exoskeletons and smart glasses up 458.4% and 151.7%, while online tourism and catering sales rose 27.2% and 13.9%, respectively."
+    },
+    {
+      "id": "5005779",
+      "time": "2026-07-24 10:27:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞3年期國債收益率升至2020年5月以來最高水平。"
+    },
+    {
+      "id": "5005778",
+      "time": "2026-07-24 10:27:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥斯大黎加央行將基準利率從3.25%下調至3%。"
+    },
     {
       "id": "5005777",
       "time": "2026-07-24 10:27:10",
