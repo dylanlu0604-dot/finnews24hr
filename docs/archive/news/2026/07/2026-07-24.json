@@ -1,7 +1,87 @@
 {
   "date": "2026-07-24",
-  "count": 1152,
+  "count": 1160,
   "items": [
+    {
+      "id": "5005925",
+      "time": "2026-07-24 12:18:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後下跌0.5%，至171,037點。"
+    },
+    {
+      "id": "mkt:019f9257-12f1-7aab-8e7a-346809f1768d",
+      "time": "2026-07-24 12:16:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Chip sell-off and Middle East tensions push South Korean stocks sharply lower】An overnight rout in US chip stocks and renewed Middle East tensions pressured Asian markets, sending South Korea’s KOSPI down as much as 6.1% on Friday. Samsung Electronics and SK Hynix fell more than 7%; the Korea Exchange temporarily halted program trading. The safeguard has been triggered increasingly in recent weeks in South Korea’s $4.1 tln equity market. The sell-off intensified as investors cut risk ahead of the weekend after oil rose toward $100 a barrel. After four days of net buying, global investors resumed selling Korean stocks, trimming technology positions. NH Investment & Securities Korea cash equities head Shawn Oh said local funds reduced tech holdings and lowered risk ahead of the weekend amid ongoing Middle East tensions. Samsung Securities sales trader Roy Lim said some Asian hedge funds were selling Samsung and SK Hynix to build positions in China’s ChangXin Technology ahead of its July 27 listing."
+    },
+    {
+      "id": "5005924",
+      "time": "2026-07-24 12:16:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱兩地遭美方襲擊 有人員受傷】當地時間24日，伊朗中部伊斯法罕省相關負責人表示，當天凌晨3時，該省納因縣一處地區遭到美國襲擊。目前，有關襲擊造成的人員傷亡及設施受損情況尚不清楚。此外，當天，伊朗西部洛雷斯坦省相關負責人表示，該省省會城市霍拉馬巴德郊區遭到美方無人機襲擊，造成2人受傷。"
+    },
+    {
+      "id": "5005923",
+      "time": "2026-07-24 12:15:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "TD Cowen將意法半導體目標價從61歐元下調至48.50歐元。"
+    },
+    {
+      "id": "5005922",
+      "time": "2026-07-24 12:15:19",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【印度盧比走高 印度央行干預在岸及離岸外匯市場】交易員稱，印度央行在離岸和在岸外匯市場拋售美元以支撐盧比匯率，推動盧比走高。因無權公開發表評論，這些交易員要求匿名。美元/盧比1個月期NDF一度跌0.4%至96.82。交易員表示，離岸美元拋盤始於孟買時間上午9點本地市場開盤前。美元/盧比一度跌0.1%至96.4962。交易員表示，離岸市場的美元拋售規模很大。注：在岸盧比接近5月份觸及的紀錄低點96.9650。盧比是今年亞洲表現最差的貨幣之一，年初至今已累計下跌近7%。"
+    },
+    {
+      "id": "5005921",
+      "time": "2026-07-24 12:14:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度SENSEX指數下跌1%，至75627.20點。"
+    },
+    {
+      "id": "5005920",
+      "time": "2026-07-24 12:14:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀·桑德勒將特斯拉（TSLA.O）目標股價從500美元下調至450美元。"
+    },
+    {
+      "id": "mkt:019f9253-e573-7aab-8e7a-2e19bd00a30a",
+      "time": "2026-07-24 12:13:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Piper Sandler cuts Tesla (TSLA.O) PT to $450 from $500."
+    },
     {
       "id": "5005919",
       "time": "2026-07-24 12:12:35",
