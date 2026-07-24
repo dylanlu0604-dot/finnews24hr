@@ -1,7 +1,51 @@
 {
   "date": "2026-07-24",
-  "count": 1227,
+  "count": 1231,
   "items": [
+    {
+      "id": "5005971",
+      "time": "2026-07-24 13:04:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【採購經理人指數顯示：印度7月私營部門擴張速度跌至四年多低點】一項調查資料顯示，儘管出口訂單增加、用工擴張帶來小幅支撐，但服務業大幅降溫拖累整體經濟，印度7月私營部門經濟活動擴張速度創下四年多來新低。標普全球編制的滙豐印度綜合採購經理人指數（初值）7月錄得54.3，低於6月的57.1；此前調查分析師預期中值為升至57.7，實際資料與市場預期相悖。不過該指數仍高於榮枯分界線50，代表經濟維持擴張態勢。出口訂單表現亮眼，海外訂單增速創下3月以來新高。"
+    },
+    {
+      "id": "mkt:019f9282-1ddb-7aab-8e7a-e96fbb67c049",
+      "time": "2026-07-24 13:03:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A‑share storage chip sector rebounded in the afternoon. Tuolunsi surged over 15%, Zhichun Technology hit the daily limit, Zhengfan Technology rose more than 9%; Tongfu Microelectronics, Jingce Electronics, Qiangyi Co., Shen Technology and Tuojing Technology also advanced. Changxin Technology is scheduled to list on the Shanghai Stock Exchange STAR Market on July 27, 2026."
+    },
+    {
+      "id": "te:economy:569574",
+      "time": "2026-07-24 13:02:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "India Composite PMI Slips to Over 4-Year Low — India’s HSBC Composite PMI dropped to 54.3 in July 2026 from a final 57.1 in the previous month, flash data showed. It was the lowest reading since March 2022, reflecting the impact of persistent hostilities in the Middle East."
+    },
+    {
+      "id": "mkt:019f927f-b38d-7aab-8e7a-e41e6ba6f8a9",
+      "time": "2026-07-24 13:01:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Governing Council member Nagel said the ECB is well positioned and can closely monitor further developments."
+    },
     {
       "id": "5005970",
       "time": "2026-07-24 13:00:37",

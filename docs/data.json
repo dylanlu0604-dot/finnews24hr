@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-24 13:01:26",
-  "count": 17992,
+  "updated": "2026-07-24 13:06:53",
+  "count": 17986,
   "items": [
+    {
+      "id": "5005971",
+      "time": "2026-07-24 13:04:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【採購經理人指數顯示：印度7月私營部門擴張速度跌至四年多低點】一項調查資料顯示，儘管出口訂單增加、用工擴張帶來小幅支撐，但服務業大幅降溫拖累整體經濟，印度7月私營部門經濟活動擴張速度創下四年多來新低。標普全球編制的滙豐印度綜合採購經理人指數（初值）7月錄得54.3，低於6月的57.1；此前調查分析師預期中值為升至57.7，實際資料與市場預期相悖。不過該指數仍高於榮枯分界線50，代表經濟維持擴張態勢。出口訂單表現亮眼，海外訂單增速創下3月以來新高。"
+    },
+    {
+      "id": "mkt:019f9282-1ddb-7aab-8e7a-e96fbb67c049",
+      "time": "2026-07-24 13:03:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A‑share storage chip sector rebounded in the afternoon. Tuolunsi surged over 15%, Zhichun Technology hit the daily limit, Zhengfan Technology rose more than 9%; Tongfu Microelectronics, Jingce Electronics, Qiangyi Co., Shen Technology and Tuojing Technology also advanced. Changxin Technology is scheduled to list on the Shanghai Stock Exchange STAR Market on July 27, 2026."
+    },
+    {
+      "id": "te:economy:569574",
+      "time": "2026-07-24 13:02:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "India Composite PMI Slips to Over 4-Year Low — India’s HSBC Composite PMI dropped to 54.3 in July 2026 from a final 57.1 in the previous month, flash data showed. It was the lowest reading since March 2022, reflecting the impact of persistent hostilities in the Middle East."
+    },
+    {
+      "id": "mkt:019f927f-b38d-7aab-8e7a-e41e6ba6f8a9",
+      "time": "2026-07-24 13:01:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Governing Council member Nagel said the ECB is well positioned and can closely monitor further developments."
+    },
     {
       "id": "5005970",
       "time": "2026-07-24 13:00:37",
@@ -164834,108 +164878,6 @@
         "公司"
       ],
       "text": "【沃爾沃汽車二季度利潤環比收窄】瑞典車企沃爾沃汽車週五公佈，其二季度利潤較一季度出現下滑；該車企寄望於後續新款純電車型 EX60 交付落地，以此加快業績復甦步伐。沃爾沃汽車由中國吉利控股集團控股，公司披露 4 至 6 月營業利潤為 8 億瑞典克朗（摺合 8276 萬美元），低於今年一季度錄得的 16 億瑞典克朗。"
-    },
-    {
-      "id": "4993549",
-      "time": "2026-07-17 13:06:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數下跌6%至42,869.42點。"
-    },
-    {
-      "id": "4993548",
-      "time": "2026-07-17 13:06:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "沃爾沃汽車：預計美國市場的復甦將在下半年持續。"
-    },
-    {
-      "id": "4993546",
-      "time": "2026-07-17 13:05:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【7月20日上線！鐵路部門試點提前60天預約購票服務】記者今天（17日）從國鐵集團客運中心瞭解到，7月20日起，將在京滬高鐵、京滬鐵路試點新增火車票預約購票服務，旅客可預約開車前第60天至第17天的車票。"
-    },
-    {
-      "id": "mkt:019f6e76-7067-7aab-8dda-49a581bf011f",
-      "time": "2026-07-17 13:04:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hang Seng Index",
-        "Impact bearish",
-        "S&P500",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "China's Shanghai Composite Index fell as much as 2% in afternoon trade; Shenzhen Composite Index down 4.22%; ChiNext Index down 5.4%."
-    },
-    {
-      "id": "4993545",
-      "time": "2026-07-17 13:04:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上證指數跌2.00%，現報3804.753點；深證成指跌4.22%，現報13877.117點；創業板指跌5.41%，現報3492.771點。"
-    },
-    {
-      "id": "mkt:019f6e75-8d8f-7aab-8dda-45fcc3e50b9f",
-      "time": "2026-07-17 13:03:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "China Tech Giants",
-        "CSI300",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "China Sci‑Tech Innovation 50 Index (STAR 50) extended losses to 5% in afternoon trade; Yuanjie Technology, Beiwei Storage and Shengke Communication each fell more than 10%."
-    },
-    {
-      "id": "4993544",
-      "time": "2026-07-17 13:03:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達5.07%，成分股中，源傑科技跌12.70%，佰維儲存跌11.52%，盛科通訊跌10.81%，沐曦股份跌9.57%。"
-    },
-    {
-      "id": "4993542",
-      "time": "2026-07-17 13:03:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.03%，成分股中，德源藥業跌8.62%，諾思蘭德跌8.36%，錦波生物跌7.37%，森萱醫藥跌4.61%。"
-    },
-    {
-      "id": "mkt:019f6e73-e625-7aab-8dda-3f04ebd85006",
-      "time": "2026-07-17 13:01:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China's Ministry of Emergency Management launches national Level II geological disaster response】At about 09:00 on July 17 a landslide near Wujiang Third Bridge, Hanjia subdistrict, Pengshui county, Chongqing caused house collapses and left people trapped. The Ministry of Emergency Management activated a national Level II geological disaster emergency response. Minister Zhang Chengzhong led a working group to the scene and ordered full search-and-rescue, rapid accounting of those trapped and measures to prevent secondary disasters; Vice Minister Xu Jia'ai continued coordination. The ministry dispatched 100 professional rescuers with equipment from the Natural Disaster Engineering Emergency Rescue Center (China Aneng Group). The national comprehensive fire and rescue team deployed 49 vehicles and 206 personnel to the site."
-    },
-    {
-      "id": "4993541",
-      "time": "2026-07-17 13:01:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【應急管理部排程重慶彭水縣山體垮塌搶險救援 啟動國家地質災害二級應急響應 派出工作組趕赴現場指導救援處置】7月17日9時許，重慶市彭水縣漢葭街道烏江三橋附近發生山體垮塌，造成房屋倒塌，有人員被困。 應急管理部啟動國家地質災害二級應急響應，部長張成中率工作組趕赴現場指導救援處置。接報後，張成中立即排程部署搶險救援工作，要求全力搜救被困人員，迅速核清人數，科學開展救援，防止次生災害。副部長徐加愛持續排程。 應急管理部調派自然災害工程應急救援中心（中國安能集團）專業救援力量100人攜帶裝備趕赴現場處置。國家綜合性消防救援隊伍49車206人已赴現場開展救援。"
     }
   ]
 }
