@@ -1,7 +1,1233 @@
 {
   "date": "2026-07-24",
-  "count": 2957,
+  "count": 3099,
   "items": [
+    {
+      "id": "mkt:019f9480-29c5-7aab-8e8a-4f1f62e20807",
+      "time": "2026-07-24 22:20:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US official denies Iran rejected ceasefire proposal】On July 24 local time, a US official denied reports that Iran had rejected a new ceasefire proposal, calling the reports \"inaccurate.\""
+    },
+    {
+      "id": "5007277",
+      "time": "2026-07-24 22:20:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【濱化集團：股價波動無合理解釋 電子級高純氟化氫氣體投產】濱化集團公告稱，公司股價及成交量近期出現異常波動，董事會不知悉波動原因，也無內幕訊息需披露。目前集團業務運營正常，財務狀況無重大變動。此外，公司電子級高純氟化氫氣體近日投產，已完成50噸/年高純氟化氫鋼瓶充裝線建設與除錯，並取得許可手續，正進行產品推介，但後期能否獲客戶認可不確定，預計該氣體銷售收入佔公司總營收比例較小，對2026年業績無重大影響。"
+    },
+    {
+      "id": "mkt:019f947e-e4d3-7aab-8e8a-4627f0798265",
+      "time": "2026-07-24 22:19:31",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Copper",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【US new home sales rise for first time in three months】US new home sales rose in June for the first time in three months as builders enacted large price cuts that offset high mortgage rates and weak consumer confidence. Annualized sales were 628,000 units, up 1.6% YoY and above the 607,000 consensus. The median sale price fell 2.7% YoY to $398,300, the fifth YoY decline in six months. The improvement likely reflects heavy discounting and promotional activity by developers to stimulate weak demand."
+    },
+    {
+      "id": "5007276",
+      "time": "2026-07-24 22:19:24",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【美國6月新建住宅摺合年率銷量三個月來首次增長】美國6月新建住宅銷量三個月來首次增長，建商大幅降價促銷幫助抵消了按揭貸款利率高企和消費者信心低迷的影響。"
+    },
+    {
+      "id": "mkt:019f947e-a325-7aab-8e8a-3d148b7eab0b",
+      "time": "2026-07-24 22:19:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "NATO said allied fighter jets shot down a drone in Romanian airspace."
+    },
+    {
+      "id": "5007275",
+      "time": "2026-07-24 22:19:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "滬上阿姨在港交所公告稱，預計上半年錄得期內溢利3.04億-3.25億元，同比增長50%-60%。"
+    },
+    {
+      "id": "mkt:019f947e-8e89-7aab-8e8a-36e2b3b4c64f",
+      "time": "2026-07-24 22:19:09",
+      "tags": [
+        "MKT News",
+        "02589.HK",
+        "Impact bullish"
+      ],
+      "text": "【Hu Shang Ayi expects 1H2026 adjusted profit to rise 36%-46% YoY】Hu Shang Ayi (02589.HK) issued a positive profit alert, saying it expects statutory interim profit for 1H2026 of about RMB 304–325 mln, versus RMB 203 mln a year earlier (up ~50%–60% YoY). Adjusted interim profit (non‑IFRS) is expected at about RMB 331–356 mln, versus RMB 244 mln a year earlier (up ~36%–46% YoY)."
+    },
+    {
+      "id": "5007274",
+      "time": "2026-07-24 22:18:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國政府拉美事務特別代表邱小琪出席秘魯獨立205週年招待會】2026年7月24日，中國政府拉美事務特別代表邱小琪出席秘魯駐華使館舉辦的慶祝秘魯獨立205週年招待會並致辭。邱小琪代表中國政府祝賀秘魯獨立205週年，並表示，中國和秘魯是好朋友、好夥伴。建交55年來，兩國務實合作成果豐碩，兩國人民結下深厚情誼。中方願同秘方共同努力，賡續傳統友誼，推動兩國全面戰略伙伴關係不斷邁上新臺階。（外交部）"
+    },
+    {
+      "id": "5007273",
+      "time": "2026-07-24 22:18:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約表示盟軍戰機在羅馬尼亞領空擊落一架無人機。"
+    },
+    {
+      "id": "5007272",
+      "time": "2026-07-24 22:18:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "斯倫貝謝（SLB）在電話會議上表示，預計未來幾周和數月將獲得更多專案授出，這些專案將鞏固該公司在中東的市場地位。"
+    },
+    {
+      "id": "5007271",
+      "time": "2026-07-24 22:17:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "眾安信科（深圳）股份有限公司向港交所提交上市申請書，聯席保薦人為工銀國際、國聯證券國際。"
+    },
+    {
+      "id": "te:markets:569807",
+      "time": "2026-07-24 22:17:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Canadian National Railway earnings above expectations at 2.08 CAD — Canadian National Railway (CNR) released earnings per share at 2.08 CAD, compared to market expectations of 1.92 CAD."
+    },
+    {
+      "id": "mkt:019f947c-1f17-7aab-8e8a-292df7e6f282",
+      "time": "2026-07-24 22:16:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury: Certain transactions involving Lukoil International LLC will be permitted until 12:01 a.m. on Aug. 22."
+    },
+    {
+      "id": "5007270",
+      "time": "2026-07-24 22:16:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯倫貝謝認為，2026年下半年，受非洲業務推動，勘探支出及上游資本支出將有所上升。"
+    },
+    {
+      "id": "mkt:019f947b-b5f6-7aab-8e8a-251186c2b6ca",
+      "time": "2026-07-24 22:16:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury says it has issued a revised Russia-related general license covering Lukoil International Ltd."
+    },
+    {
+      "id": "5007269",
+      "time": "2026-07-24 22:15:54",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國財政部網站：美國將允許涉及盧克石油國際有限公司的特定交易繼續開展至8月22日凌晨12點01分。"
+    },
+    {
+      "id": "5007268",
+      "time": "2026-07-24 22:15:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國巴黎銀行埃克森研究部門將洛克希德·馬丁目標股價從680美元上調至700美元。"
+    },
+    {
+      "id": "5007267",
+      "time": "2026-07-24 22:15:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【黃仁勳聲援科技巨頭公開信：AI未來需開源和閉源模型並存】25家美國科技巨頭聯名簽署公開信，力挺開放權重AI模型。對此，英偉達CEO黃仁勳在社交媒體平臺“X”發文表態稱，工智慧將改變每一個行業，賦能每個公司，並由每個國家構建。 開源模型加強安全性和網路安全，加速創新和傳播，並實現主權。世界既需要前沿的閉源模型，也需要前沿的開源模型。值得注意的是，這是黃仁勳在該平臺釋出的第一篇帖子。"
+    },
+    {
+      "id": "mkt:019f947b-223d-7aab-8e8a-1e89840885bf",
+      "time": "2026-07-24 22:15:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's prime minister's office said Prime Minister Netanyahu will visit Washington on Monday at the invitation of U.S. President Trump."
+    },
+    {
+      "id": "mkt:019f947b-20c8-7aab-8e8a-10e3ccaaa8df",
+      "time": "2026-07-24 22:15:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's prime minister's office says Netanyahu will meet US President Trump at the White House on Tuesday."
+    },
+    {
+      "id": "5007266",
+      "time": "2026-07-24 22:15:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基： 魯斯特姆・烏梅羅夫將重點負責對接各方合作伙伴、開展談判、推進安全領域合作、搭建烏克蘭與合作方情報機構的協作體系，落地無人機採購合作、烏克蘭弗雷亞反彈道專案等我方主推計劃。"
+    },
+    {
+      "id": "5007265",
+      "time": "2026-07-24 22:13:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡將於週一飛往華盛頓，會晤特朗普，並出席林賽·格雷厄姆的葬禮。"
+    },
+    {
+      "id": "5007264",
+      "time": "2026-07-24 22:13:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局批准含萘普生的泰諾藥物上市，該產品可實現12小時長效鎮痛。"
+    },
+    {
+      "id": "5007263",
+      "time": "2026-07-24 22:12:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國允許與盧克石油公司相關的某些交易。"
+    },
+    {
+      "id": "5007262",
+      "time": "2026-07-24 22:12:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "自由港液化天然氣公司報告稱，在跳閘故障解決後，該廠運營團隊已完成1號液化天然氣生產線的降溫與重啟作業。"
+    },
+    {
+      "id": "5007261",
+      "time": "2026-07-24 22:12:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普將於週二會見以色列總理內塔尼亞胡。"
+    },
+    {
+      "id": "5007260",
+      "time": "2026-07-24 22:12:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯倫貝謝預計大宗商品價格將維持區間震盪，這種環境有利於上游投資。"
+    },
+    {
+      "id": "mkt:019f9478-68ba-7aab-8e8a-0b07ab41e4eb",
+      "time": "2026-07-24 22:12:26",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "New U.S. sanctions on Iran target four individuals and nine companies, including one firm in Turkey and two in the United Arab Emirates."
+    },
+    {
+      "id": "mkt:019f9478-586c-7aab-8e8a-0462abaa8cab",
+      "time": "2026-07-24 22:12:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury imposes further sanctions on individuals and companies linked to Iranian financier Babak Zanjani for suspected sanctions evasion."
+    },
+    {
+      "id": "5007259",
+      "time": "2026-07-24 22:12:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "自由港液化天然氣（Freeport LNG）液化廠報告稱，該廠在執行期間發生了1號液化裝置跳車事故。"
+    },
+    {
+      "id": "5007258",
+      "time": "2026-07-24 22:11:50",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部宣佈對規避制裁、與伊朗金融家巴巴克·贊賈尼存在關聯的個人及企業追加制裁。"
+    },
+    {
+      "id": "5007257",
+      "time": "2026-07-24 22:11:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "自由港液化天然氣廠報告稱液化裝置火炬發生洩漏排放 （自由港液化天然氣：Freeport LNG，美國主要液化天然氣出口設施之一）。"
+    },
+    {
+      "id": "5007256",
+      "time": "2026-07-24 22:11:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國對伊朗實施新制裁，制裁物件為四名個人與九家企業，其中一家企業註冊地位於土耳其，兩家位於阿聯酋。"
+    },
+    {
+      "id": "5007255",
+      "time": "2026-07-24 22:11:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員否認伊朗拒絕停火提議】當地時間7月24日，央視記者自美國方面獲悉，一位美國官員否認了有關伊朗拒絕一項新的停火提議的訊息，稱該訊息“不準確”。據美國方面當地時間23日訊息，伊朗當天拒絕了美國總統特朗普經由伊拉克總理扎伊迪轉交的一份停火提議。該提議的具體內容尚不清楚，但訊息稱伊朗政府對一項無法解決霍爾木茲海峽控制權懸而未決問題的臨時協議不感興趣。伊朗方面23日表示該訊息“轉移視線且具有誤導性”，而伊拉克總理辦公室則駁斥該訊息“毫無根據”。（央視新聞）"
+    },
+    {
+      "id": "5007254",
+      "time": "2026-07-24 22:10:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川釋出超120億元國資國企應用場景需求清單】四川省國資國企應用場景開放對接大會24日在成都舉辦，一次性推出111個標杆應用場景需求清單，總投資規模超120億元，面向全社會企業、高校和科研院所敞開合作大門。"
+    },
+    {
+      "id": "5007253",
+      "time": "2026-07-24 22:09:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【德國檢方：“北溪”天然氣管道破壞行動系烏克蘭授意所為】俄羅斯衛星通訊社7月24日報道，“北溪”天然氣管道爆炸案其中一名被告的律師尼古拉·卡內斯特里尼表示，德國檢察院認為，“北溪”天然氣管道的破壞行動是在烏克蘭國家機關授意下實施的。卡內斯特里尼在宣告中說：“起訴書中寫道，‘有充分理由懷疑，破壞行為是根據烏克蘭國家機關的指示並在其指揮下實施的’。”2022年9月26日，將俄羅斯天然氣輸往歐洲的“北溪”天然氣管道一線和二線發生爆炸。運營該管道的北溪天然氣管道公司通報稱，天然氣管道遭受的損壞前所未有，修復時間無法估計。（參考訊息）"
+    },
+    {
+      "id": "5007252",
+      "time": "2026-07-24 22:08:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯倫貝謝預計2026年下半年自由現金流將高於上半年。"
+    },
+    {
+      "id": "5007251",
+      "time": "2026-07-24 22:08:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版，截至21時48分，《八仙！》獲得今日20個省份票房日冠。"
+    },
+    {
+      "id": "5007250",
+      "time": "2026-07-24 22:08:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲骨文股價走勢反轉，最新下跌2.4%。"
+    },
+    {
+      "id": "5007249",
+      "time": "2026-07-24 22:07:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會指控庫茲達斯與羅蘭挪用投資者資金。"
+    },
+    {
+      "id": "5007248",
+      "time": "2026-07-24 22:07:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "ADM宣佈將投資數百萬美元，擴建其位於俄克拉荷馬州奧普蒂瑪的穀物升降機，以提升吞吐量。"
+    },
+    {
+      "id": "mkt:019f9473-cd3a-7aab-8e89-fb24118fe2e0",
+      "time": "2026-07-24 22:07:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA CEO backs tech giants' open‑weight AI letter, says open and closed models must coexist】Twenty-five U.S. tech giants signed an open letter backing open‑weight AI models. NVIDIA (NVDA.O) CEO Jensen Huang said AI will transform every industry, empower every company and be developed by each country. He said open‑source models improve safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty, but the world also needs cutting‑edge closed‑source models."
+    },
+    {
+      "id": "te:economy:569806",
+      "time": "2026-07-24 22:06:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "New Home Sales",
+        "Importance 3"
+      ],
+      "text": "US New Home Sales Rebound — Sales of new single-family homes in the US increased 1.6% month-over-month to a seasonally adjusted annualized rate of 628 thousand in June 2026, following a revised 4.3% drop to 618 thousand in May and compared to forecasts of 610 thousand. Sales rose in the South (9.9% to 412 thousand), the Northeast (3.6% to 29 thousand), and the Midwest (2.5% to 83 thousand), but fell 22.4% to 104 thousand in the West. Meanwhile, housing supply edged down 0.2% to 485,00 units, equivalent to 9.3 months of supply at the last sales rate. Also, the median sales price of homes was at $398,300, compared to $412,000 in May and $409,200 a year earlier."
+    },
+    {
+      "id": "te:markets:569805",
+      "time": "2026-07-24 22:06:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Wheat is down by 5% — Wheat decreased 5% to 661.47 USd/Bu"
+    },
+    {
+      "id": "5007247",
+      "time": "2026-07-24 22:06:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯倫貝謝預計第四季度營收同比增長5%。"
+    },
+    {
+      "id": "5007246",
+      "time": "2026-07-24 22:06:24",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【美國商業活動因世界盃和獨立日消費而回暖】PMI資料顯示，美國商業活動以八個月來最快的速度擴張，強勁的國內服務業需求抵消了工廠生產放緩、供應鏈延遲增加以及成本上升的影響。美國7月標普全球服務業PMI初值升至53.6，創下自2025年11月以來的最高水平，因世界盃和7月4日獨立日慶祝活動帶動了酒店業及其他服務業的需求。美國7月標普全球製造業PMI初值降至53.8，為自3月以來的最低水平。標普全球市場情報首席商業經濟學家克里斯·威廉姆森表示：“7月份供應鏈延遲問題持續加劇，伴隨價格壓力再度上升，制約了經濟增長並抑制了需求。最近幾天中東地區發生的事件只會進一步加劇供應鏈和價格方面的擔憂，並增加經濟短期前景的下行風險，暗示7月份的復甦可能並非改善趨勢的開端。”"
+    },
+    {
+      "id": "mkt:019f9472-60b0-7aab-8e89-f26c641edd14",
+      "time": "2026-07-24 22:05:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【BlackRock says emerging‑market debt offers attractive opportunities】BlackRock analyst Michel Aubenas said in a report that emerging‑market debt offers attractive investment opportunities, particularly where real yields remain high. He said a more moderate global rate environment could make parts of Latin America, Central and Eastern Europe, the Middle East and Africa stand out. Aubenas added that a drop in energy prices could reduce expectations for central bank rate hikes and improve risk appetite for EM assets."
+    },
+    {
+      "id": "5007245",
+      "time": "2026-07-24 22:05:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "據知情人士透露，特朗普此前僅私下對比考量萬斯與魯比奧二人，如今已公開表態力挺萬斯，將其視作自己 2028 年大選屬意的繼任者。"
+    },
+    {
+      "id": "5007244",
+      "time": "2026-07-24 22:05:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "斯倫貝謝（SLB）表示，近幾周來，其與中東客戶的對接頻次有所增加。"
+    },
+    {
+      "id": "5007243",
+      "time": "2026-07-24 22:04:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【能源、關稅與AI投資 三重衝擊重燃全球通脹擔憂】能源價格飆升、美國加徵更多關稅以及人工智慧支出迅速膨脹，正重新喚起投資者對通脹的擔憂。本週伊始，中東暴力衝突不斷升級；到本週結束時，油價已突破每桶100美元，這將推高全球供應鏈成本。與此同時，美國總統唐納德·特朗普再次推動徵收貿易關稅，科技投資熱潮不受約束的跡象也進一步增多。這三股可能推高價格的力量在一個敏感時刻同時衝擊全球經濟：就在各國央行官員剛剛看到通脹前景有所緩解之際，形勢卻再次逆轉。從美聯儲到英國央行，下週都將作出政策決定，官員們需要迅速判斷這些新風險。"
+    },
+    {
+      "id": "5007242",
+      "time": "2026-07-24 22:04:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長杜裡甘：巴西將在2027年實現0.5%的初級財政盈餘。"
+    },
+    {
+      "id": "mkt:019f9470-a238-7aab-8e89-e82741999201",
+      "time": "2026-07-24 22:03:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "WTI",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【U.S. business activity rebounds on World Cup, July 4 demand】S&P Global preliminary July services PMI rose to 53.6, the strongest reading since Nov 2025, while preliminary manufacturing PMI fell to 53.8, its lowest since March. Overall PMI expansion was the fastest in eight months as robust domestic services demand — boosted by World Cup and July 4 hospitality and leisure spending — offset slower factory output, longer supply-chain delays and rising costs. S&P Global Market Intelligence chief business economist Chris Williamson said persistent supply delays and renewed price pressures are constraining growth and demand, and recent Middle East events could worsen supply and price risks and increase near-term downside, suggesting July’s rebound may not mark a sustained improvement."
+    },
+    {
+      "id": "5007241",
+      "time": "2026-07-24 22:03:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Anduril據悉洽談新一輪融資 估值有望升至約1000億美元】美國國防技術初創公司Anduril正與投資者洽談新一輪融資，融資完成後公司估值有望達到約1000億美元，將接近美國軍工巨頭諾斯羅普·格魯曼和洛克希德·馬丁等上市公司的市值。知情人士表示，目前融資方案和估值仍處於討論階段，尚未最終敲定。其中一種正在討論的方案是採用“兩階段融資”模式：投資者不僅需要參與當前融資，還需承諾在未來一年內參與第二輪融資，且第二輪融資估值將高於第一輪。知情人士稱，第二輪融資能否啟動以及估值水平，可能將取決於Anduril是否達到預先設定的若干財務指標。"
+    },
+    {
+      "id": "5007240",
+      "time": "2026-07-24 22:03:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【7月24日增減持彙總】7月24日盤後，據不完全統計，包括ST寧科、青島啤酒、溫氏股份、中國寶安、北汽藍谷、渤海汽車、泰禾智慧、福田汽車在內的8家A股上市公司披露擬增持情況；昆藥集團、統一股份披露擬減持情況。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607243820778384",
+      "time": "2026-07-24 22:02:39",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國6月新屋銷售年化月率1.6%】美國6月新屋銷售年化月率1.6%，預期4.70%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607243820777943",
+      "time": "2026-07-24 22:02:19",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國6月新建住宅銷量摺合年率62.80萬套】美國6月新建住宅銷量摺合年率62.80萬套，預估為60.70萬套。"
+    },
+    {
+      "id": "te:economy:569804",
+      "time": "2026-07-24 22:01:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "US Services Activity Rises Most in 8 Months — The S&P Global US Services PMI rose to 53.6 in July of 2026 from 51.2 in the previous month, marking the fastest expansion in services sector activity so far this year, according to a flash estimate. Output was supported by a larger intake of new work for companies, with companies noting a pickup in activity due to FIFA World Cup spending and higher investments in sales, marketing, and product development. Still, the impact of the war in Iran, mainly though higher energy prices that lifted operating cars and squeezed consumers' purchasing power, continued to impact activity levels. Therefore, employment growth was only marginal. Input prices for the sector grew to a 14-month high, and output inflation surged to its highest in nearly four years. Despite inflationary risks, the sentiment gauge rose to a one-year high."
+    },
+    {
+      "id": "5007239",
+      "time": "2026-07-24 22:01:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長杜里根表示，政府並不關心服務於特定行業。"
+    },
+    {
+      "id": "5007238",
+      "time": "2026-07-24 22:01:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "斯倫貝謝預計，在基準情景下，第三季度全球營收環比將增長3%-4%，其中中東營收將逐步復甦。"
+    },
+    {
+      "id": "mkt:019f946e-6237-7aab-8e89-e5c56d409ddd",
+      "time": "2026-07-24 22:01:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "UN Secretary-General Guterres called for immediate de-escalation and urged Houthi forces to halt any further attacks or other escalation."
+    },
+    {
+      "id": "te:economy:569803",
+      "time": "2026-07-24 22:01:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Edge Down on Friday — The yield on the US 10-year Treasury note edged lower to 4.67% on Friday, pausing after a four-session rally that had lifted the benchmark yield to its highest level since January 2025. Oil prices eased during the session, helping push yields slightly lower, although tensions in the Middle East remained elevated, with US President Trump saying he would soon decide whether to launch a \"massive attack\" on Iran. On the data front, flash S&P Global PMIs showed that US services sector activity strengthened in July, while manufacturing growth slowed and price pressures intensified. Investors are now turning their attention to next week's Federal Reserve policy decision. The central bank is widely expected to leave the federal funds rate unchanged, although markets are pricing in roughly a 35% probability of a rate hike. The probability of a September hike currently stands at nearly 80%."
+    },
+    {
+      "id": "mkt:019f946e-30f9-7aab-8e89-dcf3d56f98bc",
+      "time": "2026-07-24 22:01:17",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "UN Secretary-General Guterres said further hostilities in Yemen would undermine prospects for peace and cause severe economic, humanitarian and environmental consequences for Yemen and the wider region."
+    },
+    {
+      "id": "mkt:019f946e-1347-7aab-8e89-d227dc2820a1",
+      "time": "2026-07-24 22:01:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "UN Secretary-General GUTERRES said he was deeply concerned by the resumption of Houthi attacks on commercial vessels in the Red Sea and the threat they pose to maritime navigation."
+    },
+    {
+      "id": "5007237",
+      "time": "2026-07-24 22:00:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百果園：預計上半年淨利潤不低於2000萬元】 百果園公告，預計2026年上半年收入增長不低於7%，淨利潤不低於2000萬元，去年同期為淨虧損約人民幣3.42億元。"
+    },
+    {
+      "id": "mkt:019f946d-4a54-7aab-8e89-ca71ad0f027c",
+      "time": "2026-07-24 22:00:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "US new-home sales MoM (annualized) +1.6% in June vs. +4.7% expected; May revised to -4.3% from -7.3%."
+    },
+    {
+      "id": "mkt:019f946d-3e07-7aab-8e89-c1061812ce28",
+      "time": "2026-07-24 22:00:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US new-home sales (annualized) 628,000 in June vs 610,000 expected; May revised up to 618,000 from 580,000."
+    },
+    {
+      "id": "5007236",
+      "time": "2026-07-24 22:00:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國6月新屋銷售總數年化 62.8萬戶，預期61萬戶，前值由58萬戶修正為61.8萬戶。\n美國6月新屋銷售年化月率 1.6%，預期4.70%，前值由-7.30%修正為-4.3%。"
+    },
+    {
+      "id": "mkt:019f946d-0989-7aab-8e89-ba4a8664ea8c",
+      "time": "2026-07-24 22:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New Home Sales (MoM) (Jun) | actual 1.6% | consensus 4.70% | previous -7.30%"
+    },
+    {
+      "id": "mkt:019f946d-096e-7aab-8e89-b752ddd4d89a",
+      "time": "2026-07-24 22:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New Home Sales (SAAR) (Jun) | actual 628000K | consensus 610000K | previous 580000K"
+    },
+    {
+      "id": "5007235",
+      "time": "2026-07-24 21:59:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【25家科技巨頭聯名簽署公開信，力挺開放權重AI模型】包括IBM、Meta Platforms、英偉達、微軟在內的25家美國科技公司聯名簽署公開信，呼籲開放權重AI模型。該公開信指出，開源權重模型對健康的AI生態系統至關重要。美國在人工智慧領域面臨開放權重的選擇。誠然，開放權重模型確實存在真實且獨特的風險。但事實上，開放可能是實現AI安全與保障的最重要路徑之一。僅僅依賴封閉模型本身並非安全：它們可能被攻破、被濫用，或以外部無法察覺的方式失效。開放權重模型則允許更廣泛的研究人員和開發者社群檢查其行為、識別漏洞、制定防護措施並隨時間推移不斷改進它們。"
+    },
+    {
+      "id": "5007234",
+      "time": "2026-07-24 21:59:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4070美元/盎司，日內漲0.51%。"
+    },
+    {
+      "id": "mkt:019f946b-e43d-7aab-8e89-ac8ff9384bfd",
+      "time": "2026-07-24 21:58:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Meta Platforms",
+        "Microsoft",
+        "MSFT.O",
+        "META.O",
+        "NVDA.O"
+      ],
+      "text": "【25 U.S. tech firms urge open AI model weights】Twenty-five U.S. technology companies, including IBM, Meta Platforms, NVIDIA and Microsoft, signed a joint letter urging open model weights. The letter says open-weight models are critical to a healthy AI ecosystem and that the U.S. faces a choice on openness. It acknowledges real, unique risks from openness but argues that openness may be essential to AI safety, since closed models can be hacked, misused or fail in ways undetectable externally. Open weights, the letter says, allow broader researcher and developer scrutiny to identify vulnerabilities, build defenses and iteratively improve models."
+    },
+    {
+      "id": "5007233",
+      "time": "2026-07-24 21:58:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【票房超304億元 上半年演出市場活力足】中國演出行業協會7月24日釋出的全國演出市場發展簡報顯示，上半年全國營業性演出（不含娛樂場所演出）票房收入304.08億元，同比增長9.41%；觀眾人數9881.18萬人次，同比增長5.28%。（新華社）"
+    },
+    {
+      "id": "te:economy:569801",
+      "time": "2026-07-24 21:57:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Chile Producer Price Growth Eases in June — Chile's producer prices rose 19.7% year-on-year in June 2026, easing from a 20.5% increase in May. Mining prices recorded the strongest gain, rising 32.5% after a 35% increase in the previous month, driven by a 32.9% jump in copper prices. Manufactured goods prices increased 5.5%, accelerating from 4.8% in May, while utility prices rose 5.2% after a 5% gain. On a monthly basis, producer prices advanced 0.6%, slowing from a 2.8% increase in May, bringing the year-to-date rise to 8.8%."
+    },
+    {
+      "id": "5007232",
+      "time": "2026-07-24 21:57:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "斯倫貝謝：中東局勢若驟然惡化，公司三季度營收或將減少1.5億美元。"
+    },
+    {
+      "id": "5007231",
+      "time": "2026-07-24 21:57:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長杜里根表示，公共債務令他擔憂。"
+    },
+    {
+      "id": "5007230",
+      "time": "2026-07-24 21:56:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "SLB漲幅擴大至9%。"
+    },
+    {
+      "id": "5007229",
+      "time": "2026-07-24 21:55:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1%。"
+    },
+    {
+      "id": "5007228",
+      "time": "2026-07-24 21:55:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破64000美元，日內跌1.69%。"
+    },
+    {
+      "id": "5007227",
+      "time": "2026-07-24 21:55:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數跌幅擴大至3% SK海力士跌超6%閃迪跌7%】費城半導體指數跌幅擴大至3.01%，美光科技下跌5.58%，SK海力士下跌6.59%，閃迪下跌7.19%，西部資料下跌4.91%，希捷科技下跌3.76%，鎧俠ADR下跌10.29%。"
+    },
+    {
+      "id": "5007226",
+      "time": "2026-07-24 21:55:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨週五小幅上漲約1%，創下兩週新高。"
+    },
+    {
+      "id": "5007225",
+      "time": "2026-07-24 21:54:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上交所舉辦在港機構座談會】近日，為深化國際投資者對科創板的認知了解，加強與外資機構的溝通交流，推動資本市場高水平對外開放，上海證券交易所（下稱“上交所”）舉辦在港機構座談會，邀請在港外資資管、投行及長線資金等近40位機構代表參會。據悉，本次座談會圍繞科創板建設，就科創板最新發展情況、改革政策，以及科創板指數化投資情況等進行介紹，並廣泛聽取外資機構對於科創板發展的意見建議。座談會上，外資機構代表結合投資實踐作了發言。參會機構普遍認為，中國宏觀經濟具備較強韌性，中國資本市場總體呈現穩中向好發展態勢。近期外資機構尤其是長線資金對中國優質科創資產的關注度明顯提升，投資興趣不斷增強，未來將持續佈局A股硬科技領域。"
+    },
+    {
+      "id": "5007224",
+      "time": "2026-07-24 21:54:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "英特爾早盤跌幅擴大至約4%。"
+    },
+    {
+      "id": "5007223",
+      "time": "2026-07-24 21:53:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，他已與國防高層官員討論了針對俄羅斯襲擊烏克蘭港口基礎設施的應對方案。"
+    },
+    {
+      "id": "5007222",
+      "time": "2026-07-24 21:51:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧士康：取得金融機構股票回購專項貸款承諾函】奧士康(002913)7月24日公告，近日，公司取得中信銀行出具的《貸款承諾函》，中信銀行股份有限公司長沙分行將給公司提供額度最高不超過1.08億元的貸款用於股票回購，貸款期限不超過36個月。"
+    },
+    {
+      "id": "5007221",
+      "time": "2026-07-24 21:50:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股光通訊、雲端計算服務商板塊走低】美股光通訊、雲端計算服務商板塊走低，NEBIUS、Cerebras Systems跌逾6%，Coherent、諾基亞、CoreWeave跌逾4%。"
+    },
+    {
+      "id": "5007220",
+      "time": "2026-07-24 21:50:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "斯倫貝謝在財報電話會議上表示，伊朗局勢衝突對其第二季度每股收益的影響，處於此前給出的每股6至8美分指引區間的偏下水平。"
+    },
+    {
+      "id": "mkt:019f9463-f5d8-7aab-8e89-a23dbbe1c1be",
+      "time": "2026-07-24 21:50:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Jun new-home sales (annualized) due in 10 minutes."
+    },
+    {
+      "id": "5007219",
+      "time": "2026-07-24 21:50:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "斯倫貝謝在財報電話會議上表示，已採取若干臨時成本措施緩解第二季度伊朗衝突帶來的影響。"
+    },
+    {
+      "id": "5007218",
+      "time": "2026-07-24 21:49:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "北美科技軟體股指數ETF漲約1.8%，報88.69美元，有望脫離6月26日以來最低位87.10美元。"
+    },
+    {
+      "id": "te:economy:569799",
+      "time": "2026-07-24 21:48:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Composite PMI",
+        "Importance 2"
+      ],
+      "text": "US Business Activity Growth Accelerates to 8-Month High — The S&P Global US Composite PMI rose to 53.6 in July 2026 from 51.9 in June, marking its highest level since November and signaling a stronger expansion in private sector activity after near-stagnation in March. Growth was driven by the services sector, where business activity accelerated to an 8-month high on stronger inflows of new orders. Manufacturing output continued to expand but at a much slower pace, with factories reporting the weakest increases in production and new orders since March. The stronger overall performance encouraged firms to increase hiring for the first time in 3 months, while business confidence climbed to its highest level in 8 months. However, supply chain pressures intensified, with supplier delivery times deteriorating to the greatest extent in nearly four years amid ongoing conflict in the Middle East. Inflationary pressures also strengthened, as input cost inflation accelerated to a 14-month high and selling price inflation approached a 4-year peak."
+    },
+    {
+      "id": "5007217",
+      "time": "2026-07-24 21:48:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯2026年6月經黑海港口碼頭外運出口量增至240萬噸，同比上漲86.7%。"
+    },
+    {
+      "id": "5007216",
+      "time": "2026-07-24 21:48:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "資料顯示，俄羅斯6月海運穀物出口量翻倍。"
+    },
+    {
+      "id": "5007215",
+      "time": "2026-07-24 21:48:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百靈新一代原生混合推理模型 Ling-3.0-flash正式釋出】百靈新一代原生混合推理模型 Ling-3.0-flash正式釋出。Ling-3.0 系列模型在架構設計上實現系統性升級，深度融合長上下文計算、狀態記憶與專家路由最佳化，以更低的單 Token 啟用規模承載並轉化更大容量的知識與能力。"
+    },
+    {
+      "id": "te:economy:569798",
+      "time": "2026-07-24 21:48:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "US Manufacturing Growth Eases Slightly in July — The S&P Global US Manufacturing PMI edged down to 53.8 in July 2026 from 53.9 in June, falling short of market expectations of 54.3, according to the preliminary estimate. Despite the slight decline, the index remained close to its highest levels in more than four years. The modest slowdown reflected a sharp easing in production growth, which weakened to its slowest pace since March, while new orders expanded at the weakest rate in four months. Slower inventory accumulation, following exceptionally strong stockbuilding in May and June, also weighed on the headline PMI. These headwinds were partly offset by a renewed increase in factory employment and longer supplier delivery times. Unlike the delays typically associated with strong demand, the latest deterioration in supplier performance was primarily linked to supply disruptions stemming from the Middle East."
+    },
+    {
+      "id": "5007214",
+      "time": "2026-07-24 21:48:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "NextEra能源：可再生能源重新簽約電價溢價20美元/兆瓦時。"
+    },
+    {
+      "id": "te:markets:569797",
+      "time": "2026-07-24 21:47:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "EU Gas Hits 18-week High — EU Gas increased to 64.02 EUR/MWh, the highest since March 2026. Over the past 4 weeks, Natural Gas EU gained 56.97%, and in the last 12 months, it increased 93.8%."
+    },
+    {
+      "id": "5007213",
+      "time": "2026-07-24 21:47:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國股指在標普全球7月採購經理人指數資料公佈後變動不大。"
+    },
+    {
+      "id": "5007212",
+      "time": "2026-07-24 21:46:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至0.5%。"
+    },
+    {
+      "id": "5007211",
+      "time": "2026-07-24 21:46:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將T-Mobile目標股價從255美元下調至235美元。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607243820767279",
+      "time": "2026-07-24 21:45:30",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國7月標普全球製造業PMI初值53.8 預期54.3】美國7月標普全球製造業PMI初值53.8，預期54.3，前值53.9；7月標普全球服務業PMI初值53.6，預期51.5，前值51.2。"
+    },
+    {
+      "id": "mkt:019f945f-7060-7aab-8e89-99334239acdf",
+      "time": "2026-07-24 21:45:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "S&P Global preliminary US manufacturing PMI for July 53.8, below a 54.3 consensus and slightly under June's 53.9."
+    },
+    {
+      "id": "mkt:019f945f-6cfa-7aab-8e89-90f7daf10170",
+      "time": "2026-07-24 21:45:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y"
+      ],
+      "text": "US July S&P Global Services PMI preliminary 53.6; consensus 51.5; prior 51.2."
+    },
+    {
+      "id": "5007210",
+      "time": "2026-07-24 21:45:08",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國7月標普全球製造業PMI初值 53.8，預期54.3，前值53.9。美國7月標普全球服務業PMI初值 53.6，預期51.5，前值51.2。"
+    },
+    {
+      "id": "mkt:019f945f-64d3-7aab-8e89-8be634a7623a",
+      "time": "2026-07-24 21:45:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US July S&P Global Composite PMI preliminary 53.6 vs. 51.8 expected, 51.9 prior."
+    },
+    {
+      "id": "5007209",
+      "time": "2026-07-24 21:45:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：谷歌威脅情報小組將開始推出統一命名體系，以追蹤威脅行為者。"
+    },
+    {
+      "id": "mkt:019f945f-4895-7aab-8e89-80bc2fa08e38",
+      "time": "2026-07-24 21:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Composite PMI Flash (Jul) | actual 53.6 | consensus 51.8 | previous 51.9"
+    },
+    {
+      "id": "mkt:019f945f-4894-7aab-8e89-7e6d54c8ae77",
+      "time": "2026-07-24 21:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Services PMI Flash (Jul) | actual 53.6 | consensus 51.5 | previous 51.2"
+    },
+    {
+      "id": "mkt:019f945f-483c-7aab-8e89-72919077b02a",
+      "time": "2026-07-24 21:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Manufacturing PMI Flash (Jul) | actual 53.8 | consensus 54.3 | previous 53.9"
+    },
+    {
+      "id": "5007208",
+      "time": "2026-07-24 21:44:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將Mobileye Global目標價從10美元下調至9美元。"
+    },
+    {
+      "id": "5007207",
+      "time": "2026-07-24 21:44:11",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美股七巨頭單日蒸發近8000億美元 AI燒錢拖累科技巨頭大跳水】當地時間23日，美股七大科技巨頭股價集體跳水，包括特斯拉和字母表在內的七家公司總市值一天內縮水近8000億美元（7970億美元），追蹤七巨頭表現的Mag7指數創下2025年4月，也就是15個月以來最大單日跌幅。暴跌的誘因是什麼？ 外媒普遍認為，這場股價集體跳水的導火索來自谷歌母公司字母表以及特斯拉22日美股盤後釋出的二季度財報。業內分析師指出，核心原因就一個——兩家巨頭為搶佔AI賽道瘋狂砸錢，手裡的自由現金流由正轉負。為在AI領域佔得先機，兩家企業砸錢力度遠超市場預期。字母表二季度資本開支超過449億美元，主要用於AI算力基建和資料中心擴建。公司上市21年來首次出現季度自由現金流為負，缺口達到約59億美元。即便如此，公司仍把今年全年的資本支出指引上調到1950億美元至2050億美元之間。（央視財經）"
+    },
+    {
+      "id": "5007206",
+      "time": "2026-07-24 21:42:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "塔塔消費品公司高管表示，由於成本持續波動，可能進一步上調產品價格。"
+    },
+    {
+      "id": "5007205",
+      "time": "2026-07-24 21:42:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "費城半導體指數跌2%，報12093.96點。"
+    },
+    {
+      "id": "mkt:019f945c-3b86-7aab-8e89-6d6a9901e6ad",
+      "time": "2026-07-24 21:41:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "US technology firms published an open letter saying open-weight AI models are essential to a healthy AI ecosystem, warning that reliance on closed models alone is unsafe and framing a policy choice for the US on whether to permit or promote open-weight models in AI development."
+    },
+    {
+      "id": "5007204",
+      "time": "2026-07-24 21:40:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芯朋微：擬增加50億元綜合授信額度保障首次發債】芯朋微公告稱，公司近日收到交易商協會《接受註冊通知書》，為保障首次發債順利完成，擬向銀行等金融機構增加申請50億元綜合授信額度，授信業務包括貸款、承兌匯票等，具體額度和期限以金融機構核定為準。授權有效期自第五屆董事會第二十七次會議審議透過之日起至2026年度股東會召開之日止。該議案表決結果為贊成7票，反對0票，棄權0票。"
+    },
+    {
+      "id": "5007203",
+      "time": "2026-07-24 21:40:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【強一股份：擬用10.27億元超募資金投建專案 部分專案延期】強一股份公告稱，公司第二屆董事會第十次會議審議透過使用全部超募資金10.27億元（含利息收入）用於在建專案，包括南通探針卡研發及生產專案、強一半導體探針卡製造基地專案，並等額減少原先預計投入的自有及自籌資金。南通探針卡研發及生產專案達到預定可使用狀態日期由2026年11月延期至2027年12月。此外，公司擬於2026年8月10日召開2026年第四次臨時股東會，審議相關議案。上述議案尚需提交公司股東會審議。"
+    },
+    {
+      "id": "5007202",
+      "time": "2026-07-24 21:40:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國造大型LNG船“海能”輪在大連交付】我國自主研發設計的17.5萬立方米LNG運輸船“海能”輪7月24日在遼寧大連命名交付。“海能”輪由中船大連造船聯合中船貿易為招商輪船建造，配有雙燃料主機及發電機、常規燃油鍋爐、貨物處理系統、再液化裝置。“海能”輪綜合最佳化船體線型、螺旋槳及節能裝置，在經濟性、靈活性、相容性等方面達到全面均衡，可停靠全球絕大多數大型LNG岸站。（新華社）"
+    },
+    {
+      "id": "te:markets:569796",
+      "time": "2026-07-24 21:40:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.20% Higher — The Dow Jones Index is picking up 105 points or 0.20 percent on Friday. Gains are led by IBM (2.02%), Walt Disney (1.58%) and Travelers Companies (1.33%). Biggest losers are American Express (-5.59%), Nvidia (-0.63%) and P&G (-0.54%)."
+    },
+    {
+      "id": "5007201",
+      "time": "2026-07-24 21:39:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國科技公司公開信稱可行舉措包括：為初創企業與科研人員擴充算力供給、共建共享訓練資源（資料集、工具、評估框架）；避免過早限制開源模型，維持前沿技術賽道多元競爭格局，防止抑制行業創新、倒逼技術研發外流。相關政策還需關注如何完善應用層生態，讓各行各業都能自主可控地使用人工智慧技術。"
+    },
+    {
+      "id": "5007200",
+      "time": "2026-07-24 21:39:04",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根士丹利：投資者目前似乎對英特爾的支出計劃充滿熱情】摩根士丹利表示，英特爾將今年的總資本支出預期從約150億美元上調至200億美元，並且該公司預計明年的支出將大幅高於這一水平。摩根士丹利的分析師預計2027財年的資本支出約為300億美元。“我們預計投資者對這種支出的熱情將完全取決於對這些投資的長期前景的熱情，”他們在研究報告中表示。英特爾將受益於蓬勃發展的AI技術，該技術依賴於該公司擅長的CPU。“伺服器領域的敘事確實支援了一些增長，”摩根士丹利的分析師說。“但僅靠伺服器的盈利前景至少在一定程度上取決於維持短缺狀態，因為CPU供應充足可能會導致一些市場份額流失和價格下跌。”"
+    },
+    {
+      "id": "5007199",
+      "time": "2026-07-24 21:38:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳市委常委會召開會議 研究進一步做好人工智慧、城市建設、地質災害防範和颱風防禦等工作 靳磊主持】7月24日，深圳市委常委會召開會議，認真學習貫徹習近平總書記近期重要講話重要指示精神，研究我市落實意見。市委書記靳磊主持會議並講話。會議強調，要認真學習貫徹習近平總書記在2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式上的重要講話精神，搶抓人工智慧發展的歷史性機遇，堅持有效市場和有為政府相結合，以走在前列、勇當尖兵的擔當作為推動人工智慧創新發展，加快關鍵核心技術攻關，加強算力基礎設施建設，深化算電協同等改革，深入實施“人工智慧+”行動，務實開展人工智慧國際合作，集聚國內國際企業、技術、人才等要素資源，全面促進人工智慧科技創新、產業發展、場景應用，推動人工智慧安全、可靠、可控發展，加快打造人工智慧產業高地。（深圳釋出）"
+    },
+    {
+      "id": "5007198",
+      "time": "2026-07-24 21:38:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾走弱，現跌幅擴大至2.5%。"
+    },
+    {
+      "id": "5007197",
+      "time": "2026-07-24 21:38:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股AI應用軟體股盤初集體上漲】美股AI應用軟體股盤初集體上漲，SAP、ServiceNow升逾5%，Figma升逾4%，Workday、賽富時、Adobe升逾2%。"
+    },
+    {
+      "id": "5007196",
+      "time": "2026-07-24 21:37:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行稱，摩洛哥2026年經濟增速將放緩至4.2%。"
+    },
+    {
+      "id": "5007195",
+      "time": "2026-07-24 21:37:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將AMD目標股價從560美元上調至620美元。"
+    },
+    {
+      "id": "5007194",
+      "time": "2026-07-24 21:36:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "斯倫貝謝執行長在電話會議上表示，第二季度中東多個國家的業務活動已恢復，但伊拉克的運營仍受到限制。"
+    },
+    {
+      "id": "5007193",
+      "time": "2026-07-24 21:36:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機器人合夥開餐廳了 超400億元AI餐飲新風口來了】當鍋氣遇上演算法，當後廚連線雲端，AI早已不是遙不可及的科技概念，而是悄然滲透餐飲行業的“新幫手”。機器人合夥開餐廳，在北京亦莊已經成為現實。在餐廳裡，機器人的工作還有很多——機器人多功能吧檯可實現“日咖夜酒”，搭配機器人制作的熱狗、冰激凌等，提供全天候輕餐體驗。互動體驗區內，人形機器人參與互動表演。科技、餐飲與體驗在這裡融為一體，為消費者打造出一個全新的未來餐廳樣本。事實上，這股“AI+餐飲”的熱潮正在加速蔓延。行業資料顯示，國內智慧食堂市場規模今年將突破410億元，持續保持28%以上的高速增長。全球餐飲AI市場也處於快速擴張期，2025年全球餐飲AI市場規模達到150億美元，同比增長38.9%，預計2026年將突破200億美元。 （央視財經）"
+    },
+    {
+      "id": "5007192",
+      "time": "2026-07-24 21:36:08",
+      "tags": [
+        "行業",
+        "市場"
+      ],
+      "text": "【乘聯分會：6月份皮卡市場銷售6.2萬輛 同比增長29%】乘聯分會資料顯示，皮卡產銷呈現春季的拉昇特徵，6月出口走勢超強。2026年6月份皮卡市場銷售6.2萬輛，同比增長29%，環比增長3%，處於近5年的當月次高位水平。1-6月銷量34.3萬輛，增長18%。"
+    },
+    {
+      "id": "5007191",
+      "time": "2026-07-24 21:35:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多家航司釋出受颱風“紅霞”影響航線客票處置方案】記者24日從多家航空公司獲悉，為做好受颱風“紅霞”影響航班的旅客服務，協助旅客更好地安排出行，國航、深航、廈航等航空公司已釋出相關航線客票特殊處置方案。以國航為例，旅客在7月24日16時（含）前購買的，旅行日期為7月25日至26日的廣州、深圳、珠海等機場進出港航線國航客票，可按特殊處置方案辦理免費變更或退票，具體規則以國航官網公告為準。航空公司方面提醒相關旅客，密切留意天氣狀況和航班狀態，建議優先透過航空公司線上渠道辦理客票退改手續。（新華社）"
+    },
+    {
+      "id": "5007190",
+      "time": "2026-07-24 21:35:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "斯倫貝謝股價在第二季度利潤超預期後上漲6.6%。"
+    },
     {
       "id": "mkt:019f9456-38e3-7aab-8e89-67c790db53c9",
       "time": "2026-07-24 21:35:06",
@@ -18,6 +1244,34 @@
       "text": "S&P Global US preliminary manufacturing and services PMIs for July due in 10 minutes."
     },
     {
+      "id": "5007189",
+      "time": "2026-07-24 21:34:59",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國科技公司公開信：開源或許是實現人工智慧安全可控最重要的路徑之一。單純依賴閉源模型本身並不安全：閉源系統存在被入侵、濫用、隱性故障等外部無法察覺的風險。"
+    },
+    {
+      "id": "5007188",
+      "time": "2026-07-24 21:34:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，優品車跌6.99%，再鼎醫藥跌2.95%，逸仙電商跌2.42%，名創優品跌2.18%，中比能源跌1.90%。"
+    },
+    {
+      "id": "5007187",
+      "time": "2026-07-24 21:34:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國科技公司公開信：開源權重模型能夠拓寬全民參與 AI 經濟的渠道。初創企業、成熟大廠、高校及公共機構無需從零訓練大模型，也不必為每項業務支付前沿模型高額使用費，就能基於成熟先進模型開展研發。"
+    },
+    {
       "id": "te:markets:569795",
       "time": "2026-07-24 21:34:27",
       "tags": [
@@ -28,6 +1282,15 @@
         "Importance 2"
       ],
       "text": "US Equities Muted on Friday — US equity indices were muted on Friday, holding losses from last session as markets assessed earnings and risks of higher interest rates. The S&P 500 was flat, while the Nasdaq 100 inched down and the Dow inched up. Oil and product prices eased but remained sharply higher on the week as escalating strikes between Iran and the US halted tanker flows through the Persian Gulf and Red Sea. Treasury yields tracked the moves in energy prices as a portion of the market positioned for a Fed hike next week. Intel fell nearly 1% despite posting its highest revenue growth in 17 years, tracking volatility in the chip sector following manufacturers' soaring valuations since the second quarter. Also, Amex sank 5% after posting their results. On the other hand, Verizon gained around 2% each on a subscriber growth beat. The Nasdaq 100 was due to close the week 0.5% lower amid concerns of AI overspending for hyperscalers. Tesla dropped 16%, Alphabet lost 9%, and Meta slipped 7% since last Friday."
+    },
+    {
+      "id": "5007186",
+      "time": "2026-07-24 21:34:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國科技公司公開信：如今美國在人工智慧領域正面臨相似抉擇。評判美國能否持續領跑 AI 行業，標準不在於單一前沿大模型，而在於美國能否搭建起完善、開放的產業生態，將 AI 技術滲透至各行各業。"
     },
     {
       "id": "mkt:019f9454-fe16-7aab-8e89-588eca93bc3a",
@@ -42,6 +1305,30 @@
       "text": "MaxLinear (MXL.O) fell more than 9% after reporting disappointing Q2 results and weak guidance."
     },
     {
+      "id": "5007185",
+      "time": "2026-07-24 21:33:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國證監會對天健會計師事務所作出行政處罰】7月24日，中國證監會公佈對天健會計師事務所作出行政處罰。天健會計師事務所，為海南普利製藥股份有限公司出具的2021年、2022年年度審計報告存在虛假記載。根據相關規定，對天健會計師事務所責令改正，沒收審計業務收入210萬元，並處以420萬元罰款；對施其林、沈筱敏給予警告，並分別處以60萬元罰款；對何昌堅給予警告，並處以30萬元罰款。（央視新聞）"
+    },
+    {
+      "id": "5007184",
+      "time": "2026-07-24 21:32:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "美小麥日內大跌4.00%，現報668.25美分/蒲式耳。"
+    },
+    {
+      "id": "5007183",
+      "time": "2026-07-24 21:32:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "邁芯睿股價在第二季度業績及前景公佈後下跌8.6%。"
+    },
+    {
       "id": "mkt:019f9454-0e20-7aab-8e89-52f9d119e779",
       "time": "2026-07-24 21:32:44",
       "tags": [
@@ -50,6 +1337,46 @@
         "Impact bullish"
       ],
       "text": "Livewire Group (LVWR.N) shares rose 60% after Q2 sales came in well above year-ago levels."
+    },
+    {
+      "id": "5007182",
+      "time": "2026-07-24 21:32:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "威瑞森上調經調整利潤及自由現金流年度預期後，其股價上漲1.7%。"
+    },
+    {
+      "id": "5007181",
+      "time": "2026-07-24 21:32:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "安靠科技開盤大漲9.4%，創7月9日以來最大單日開盤漲幅。"
+    },
+    {
+      "id": "5007180",
+      "time": "2026-07-24 21:32:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "安德森·霍洛維茨基金、IBM、Meta及多家企業聯合簽署人工智慧公開信。"
+    },
+    {
+      "id": "5007179",
+      "time": "2026-07-24 21:32:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "ServiceNow股價上漲4.5%，此前滙豐銀行將其目標股價從177美元上調至179美元。"
+    },
+    {
+      "id": "5007178",
+      "time": "2026-07-24 21:32:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "蒂森克虜伯海洋系統股份兩合公司（TKMS AG & CO KGAA）將在年底前建立合作框架。"
     },
     {
       "id": "mkt:019f9453-571b-7aab-8e89-4f06de8a8cbe",
