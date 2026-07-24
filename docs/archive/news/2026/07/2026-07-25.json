@@ -1,7 +1,23 @@
 {
   "date": "2026-07-25",
-  "count": 333,
+  "count": 335,
   "items": [
+    {
+      "id": "mkt:019f95c8-e5ec-7aab-8e90-5bc6c60221c4",
+      "time": "2026-07-25 04:19:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Peru, Venezuela begin process to restore bilateral relations】Peru and Venezuela issued a joint communique on July 24 launching a gradual process to fully restore bilateral relations. They agreed to first restore consular relations to ensure citizens residing in each country receive consular protection and services. On July 30, 2024 Peru refused to recognize the Venezuelan presidential election results, after which Venezuela severed diplomatic ties with Peru."
+    },
+    {
+      "id": "5007576",
+      "time": "2026-07-25 04:19:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗和阿曼就霍爾木茲海峽問題舉行會談】據伊朗伊斯蘭共和國通訊社24日報道，阿曼外交代表團當天抵達伊朗首都德黑蘭，就霍爾木茲海峽管理問題舉行會談。報道稱，此訪旨在建立霍爾木茲海峽海上交通管理的適當機制。另據伊朗媒體報道，伊朗外長阿拉格齊24日晚間與阿曼外交大臣巴德爾通電話，討論近期地區局勢、霍爾木茲海峽和波斯灣商業航運安全等問題。(新華社)"
+    },
     {
       "id": "mkt:019f95c7-a324-7aab-8e90-52115975f38d",
       "time": "2026-07-25 04:18:36",
