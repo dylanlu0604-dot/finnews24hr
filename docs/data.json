@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-25 04:42:36",
-  "count": 18212,
+  "updated": "2026-07-25 04:46:30",
+  "count": 18207,
   "items": [
+    {
+      "id": "mkt:019f95df-a094-7aab-8e90-6ab04959d6bd",
+      "time": "2026-07-25 04:44:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera cited Yemen's Saba News Agency reporting that telecommunications company facilities in Hodeidah and Kamaran Island were attacked."
+    },
+    {
+      "id": "5007583",
+      "time": "2026-07-25 04:44:33",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "馬斯克：計劃將特斯拉 Model S 與 Model X 車載軟體開源。"
+    },
+    {
+      "id": "5007582",
+      "time": "2026-07-25 04:42:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普敦促參議院在8月休會前透過預算決議】美國總統特朗普當地時間24日發表宣告，祝賀國會眾議院議長邁克·約翰遜及共和黨人在推動預演算法案透過方面取得重大進展，並敦促參議院在8月休會前儘快透過預算決議。特朗普表示，該預演算法案是美國歷史上最具深遠影響的法案之一，旨在加強美國軍事力量、為農民提供援助，並儘可能推進“拯救美國法案”。他呼籲參議院在休會前以簡單多數票透過預算決議，並表示白宮已準備好與參議院密切合作，共同推動法案落地。"
+    },
     {
       "id": "5007581",
       "time": "2026-07-25 04:38:53",
@@ -166827,83 +166852,6 @@
         "MKT News"
       ],
       "text": "Sources said Trump's media is pitching \"Truth API\" to financial institutions at a three-year promotional price of USD 60,000 per month."
-    },
-    {
-      "id": "4995091",
-      "time": "2026-07-18 04:46:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "格里爾將繼續就美墨加協定進行雙邊磋商。"
-    },
-    {
-      "id": "mkt:019f71d4-371b-7aab-8deb-dfe5b5770f7f",
-      "time": "2026-07-18 04:46:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iran’s Islamic Revolutionary Guard Corps said the operation was a response to earlier US strikes on Iranian bridges and other infrastructure. It warned that if the US continues to hit Iranian targets, Iran will expand attacks on US industrial, technology and AI assets in the Middle East."
-    },
-    {
-      "id": "4995090",
-      "time": "2026-07-18 04:45:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國貿易代表格里爾將於7月22日至24日訪問墨西哥。"
-    },
-    {
-      "id": "te:markets:567985",
-      "time": "2026-07-18 04:45:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Slips as Tech Weakness Offsets Energy Gains — The S&P/TSX Composite Index edged 0.2% lower to close at 35,264 on Friday amid a selloff in US semiconductor stocks. Technology shares came under pressure as investors reassessed the sustainability of this year's AI-driven rally. Fresh weakness in chipmakers and a disappointing forecast from streaming giant Netflix added to the negative sentiment. Shopify lost 1.4%, Constellation Software was down 0.9%, and Celestica shed 1.2%. Meanwhile, the US and Iran intensified attacks across the Gulf, with their collapsed truce disrupting oil flows through the Strait of Hormuz. The conflict pushed oil prices higher, stoking inflation fears and weighing on financials and the broader market. BMO and Scotiabank lost 0.5% each, while Brookfield shed 1.7%. In contrast, energy stocks posted gains on higher oil prices, with Canadian Natural up 2.0% and Suncor adding 2.6%."
-    },
-    {
-      "id": "mkt:019f71d2-78e4-7aab-8deb-d2bf4ee873b8",
-      "time": "2026-07-18 04:44:06",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said it attacked US facilities in Bahrain, destroying a drone-boat warehouse and an artificial intelligence center."
-    },
-    {
-      "id": "4995089",
-      "time": "2026-07-18 04:43:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊稱，其使用彈道導彈與無人機摧毀了 “巴林主要人工智慧中心”。"
-    },
-    {
-      "id": "4995088",
-      "time": "2026-07-18 04:43:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉強震遇難人數上升至5069人】當地時間17日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報，該國6月24日發生的強震造成的遇難人數上升至5069人，受傷人數為16740人，強震過後發生餘震1331次。（央視新聞）"
-    },
-    {
-      "id": "4995087",
-      "time": "2026-07-18 04:42:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗伊斯蘭革命衛隊稱其襲擊了美國位於巴林的無人機倉庫。"
     }
   ]
 }
