@@ -1,7 +1,75 @@
 {
-  "updated": "2026-07-25 03:21:22",
-  "count": 18187,
+  "updated": "2026-07-25 03:25:15",
+  "count": 18191,
   "items": [
+    {
+      "id": "5007508",
+      "time": "2026-07-25 03:24:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：戴文能源據稱正考慮作價 40 億美元出售伊格爾福德與粉河油氣資產，退出相關產區。"
+    },
+    {
+      "id": "mkt:019f9595-e010-7aab-8e8f-27d978a91a8f",
+      "time": "2026-07-25 03:24:15",
+      "tags": [
+        "MKT News",
+        "UBER.N",
+        "Impact bearish"
+      ],
+      "text": "Uber (UBER.N) hit an intraday low and is down more than 4%, after earlier rallying as much as 1.5%."
+    },
+    {
+      "id": "5007507",
+      "time": "2026-07-25 03:22:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將新建私人投資的核反應堆。"
+    },
+    {
+      "id": "mkt:019f9593-8eb5-7aab-8e8f-1a58e4af3502",
+      "time": "2026-07-25 03:21:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact mixed",
+        "UBER.O",
+        "Impact bearish"
+      ],
+      "text": "【Waymo weighing exit from Uber tie-up as competition intensifies】FT reports Alphabet’s Waymo is exploring options to end its partnership with Uber as rivalry in the robotaxi market heats up. People familiar say Waymo has discussed terminating the deal that supports Uber’s robotaxi operations in Austin and Atlanta. Uber said Waymo notified the company it plans to operate independently in those markets from January 2028 if the contract allows. The companies began the partnership in 2023; relations have soured as they have become direct competitors in some markets and lobbied for local robotaxi rules that favor their respective businesses."
+    },
+    {
+      "id": "mkt:019f9593-7e4d-7aab-8e8f-17ba2a4eafb6",
+      "time": "2026-07-25 03:21:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said nuclear power is the future."
+    },
+    {
+      "id": "5007506",
+      "time": "2026-07-25 03:21:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：特斯拉稱其得州供應商扣押零部件索要贖金。"
+    },
+    {
+      "id": "5007505",
+      "time": "2026-07-25 03:20:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "提示：特朗普在橢圓形辦公室發表講話。"
+    },
     {
       "id": "5007504",
       "time": "2026-07-25 03:20:12",
@@ -166650,30 +166718,6 @@
         "國際"
       ],
       "text": "特朗普：加拿大未能妥善管護本國森林，應當為此承擔責任。"
-    },
-    {
-      "id": "4995024",
-      "time": "2026-07-18 03:25:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將追究加拿大的責任。"
-    },
-    {
-      "id": "4995023",
-      "time": "2026-07-18 03:23:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：E&成功完成沃達豐股份出售，實現59.5億美元現金收益。"
-    },
-    {
-      "id": "4995022",
-      "time": "2026-07-18 03:21:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國和塞爾維亞簽署能源基礎設施諒解備忘錄。"
     }
   ]
 }
