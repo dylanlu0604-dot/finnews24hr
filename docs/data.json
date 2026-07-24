@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-25 04:12:05",
-  "count": 18230,
+  "updated": "2026-07-25 04:19:13",
+  "count": 18226,
   "items": [
+    {
+      "id": "mkt:019f95c7-a324-7aab-8e90-52115975f38d",
+      "time": "2026-07-25 04:18:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Hormuz Strait traffic drops; Bab al-Mandeb transits rebound】Kpler said on the 24th that traffic diverged at two Middle East chokepoints on the 23rd. The Strait of Hormuz recorded six transits, down 60% from the prior day; all but one vessel used Iran-designated channels. Bab al-Mandeb saw 49 transits, above earlier levels, including four vessels that switched off their AIS for “dark” passage. Kpler said some ships that had turned back from the Red Sea/Gulf of Aden over security concerns have since resumed and completed transit, while others remain waiting. Shipping companies are continuing to assess regional security; overall activity shows a cautious, selective recovery."
+    },
+    {
+      "id": "mkt:019f95c5-2a04-7aab-8e90-4e61900ee1ee",
+      "time": "2026-07-25 04:15:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Reports: Saudi airstrikes on Yemen's Hodeidah port】Iranian Fars News, citing Arab sources, reported Saudi Arabia carried out airstrikes on Yemen’s Hodeidah port. Houthi-linked Al Masirah TV also reported strikes on Hodeidah. Earlier, the Saudi state news agency said Saudi vessel NCC MASA was attacked in the Red Sea and sustained light hull damage."
+    },
+    {
+      "id": "5007575",
+      "time": "2026-07-25 04:14:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝旗下媒體：沙特空襲葉門西部荷臺達市。"
+    },
+    {
+      "id": "5007574",
+      "time": "2026-07-25 04:11:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【秘魯與委內瑞拉啟動恢復雙邊關係程序】當地時間7月24日，秘魯和委內瑞拉發表聯合公報，宣佈啟動逐步全面恢復雙邊關係的程序。根據公報，雙方決定首先恢復領事關係，作為全面恢復雙邊關係的第一步，確保居住在兩國的雙方公民能夠獲得領事保護和領事服務。2024年7月30日，因委內瑞拉總統選舉結果引發爭議，秘魯不承認委總統選舉結果，委內瑞拉宣佈與秘魯斷絕外交關係。（央視新聞）"
+    },
     {
       "id": "te:markets:569843",
       "time": "2026-07-25 04:10:31",
@@ -166976,74 +167016,6 @@
         "其他"
       ],
       "text": "週五（7月17日），美股行業ETF普遍收跌，全球航空業ETF跌2.53%，半導體ETF跌2.18%，可選消費ETF跌1.62%，區域銀行ETF回撤1.58%，全球科技股指數ETF、網路股指數ETF、科技行業ETF至多跌1.31%，能源業ETF漲1.16%。"
-    },
-    {
-      "id": "mkt:019f71ba-b999-7aab-8deb-a1c44311682a",
-      "time": "2026-07-18 04:18:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US bank deposits fell to $19.361 tln from $19.435 tln the prior week."
-    },
-    {
-      "id": "4995069",
-      "time": "2026-07-18 04:16:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息：伊朗南部錫裡克地區聽到三聲爆炸。"
-    },
-    {
-      "id": "mkt:019f71b9-8992-7aab-8deb-9f167c52f5ff",
-      "time": "2026-07-18 04:16:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's state TV reported three explosions were heard in Sirik in southern Iran."
-    },
-    {
-      "id": "4995068",
-      "time": "2026-07-18 04:16:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國銀行存款從前一週的19.435萬億美元降至19.361萬億美元。"
-    },
-    {
-      "id": "4995067",
-      "time": "2026-07-18 04:15:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥駐美國大使：持續圍繞美國墨西哥加拿大貿易協議（USMCA）取得談判進展。這是翻新USMCA的好時機。每次我們損失，都是在喪失競爭。快速達成新版USMCA協議符合地區的最佳利益。"
-    },
-    {
-      "id": "4995066",
-      "time": "2026-07-18 04:14:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗：海軍利用岸基巡航導彈打擊了美軍艦艇】伊朗軍隊當地時間17日釋出宣告稱，伊朗海軍利用岸基巡航導彈，打擊了位於印度洋北部的一艘美軍艦艇。該艦艇被迫駛離伊朗的打擊範圍。截至目前，美國方面對此尚無回應。（央視新聞）"
-    },
-    {
-      "id": "4995065",
-      "time": "2026-07-18 04:13:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥駐美國大使：我們需要給投資者帶來確定性。"
-    },
-    {
-      "id": "4995064",
-      "time": "2026-07-18 04:12:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥駐美國大使：美墨加協定正在不斷取得進展。"
     }
   ]
 }

@@ -1,7 +1,47 @@
 {
   "date": "2026-07-25",
-  "count": 329,
+  "count": 333,
   "items": [
+    {
+      "id": "mkt:019f95c7-a324-7aab-8e90-52115975f38d",
+      "time": "2026-07-25 04:18:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Hormuz Strait traffic drops; Bab al-Mandeb transits rebound】Kpler said on the 24th that traffic diverged at two Middle East chokepoints on the 23rd. The Strait of Hormuz recorded six transits, down 60% from the prior day; all but one vessel used Iran-designated channels. Bab al-Mandeb saw 49 transits, above earlier levels, including four vessels that switched off their AIS for “dark” passage. Kpler said some ships that had turned back from the Red Sea/Gulf of Aden over security concerns have since resumed and completed transit, while others remain waiting. Shipping companies are continuing to assess regional security; overall activity shows a cautious, selective recovery."
+    },
+    {
+      "id": "mkt:019f95c5-2a04-7aab-8e90-4e61900ee1ee",
+      "time": "2026-07-25 04:15:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Reports: Saudi airstrikes on Yemen's Hodeidah port】Iranian Fars News, citing Arab sources, reported Saudi Arabia carried out airstrikes on Yemen’s Hodeidah port. Houthi-linked Al Masirah TV also reported strikes on Hodeidah. Earlier, the Saudi state news agency said Saudi vessel NCC MASA was attacked in the Red Sea and sustained light hull damage."
+    },
+    {
+      "id": "5007575",
+      "time": "2026-07-25 04:14:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝旗下媒體：沙特空襲葉門西部荷臺達市。"
+    },
+    {
+      "id": "5007574",
+      "time": "2026-07-25 04:11:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【秘魯與委內瑞拉啟動恢復雙邊關係程序】當地時間7月24日，秘魯和委內瑞拉發表聯合公報，宣佈啟動逐步全面恢復雙邊關係的程序。根據公報，雙方決定首先恢復領事關係，作為全面恢復雙邊關係的第一步，確保居住在兩國的雙方公民能夠獲得領事保護和領事服務。2024年7月30日，因委內瑞拉總統選舉結果引發爭議，秘魯不承認委總統選舉結果，委內瑞拉宣佈與秘魯斷絕外交關係。（央視新聞）"
+    },
     {
       "id": "te:markets:569843",
       "time": "2026-07-25 04:10:31",
