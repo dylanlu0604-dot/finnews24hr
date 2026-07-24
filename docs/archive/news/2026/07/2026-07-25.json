@@ -1,7 +1,27 @@
 {
   "date": "2026-07-25",
-  "count": 407,
+  "count": 409,
   "items": [
+    {
+      "id": "5007631",
+      "time": "2026-07-25 06:18:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美股大類資產類ETF漲跌各異，新興市場ETF收跌將近2%】週五（7月24日），新興市場ETF收跌1.97%，巴克萊美國可轉債ETF跌1.64%，美國布倫特油價基金跌1.63%，納指100 ETF跌1.12%，羅素2000指數ETF、歐元做多至多跌0.32%。農產品基金收平，日元做多、做多美元指數、黃金ETF、美國國債20+年ETF至多漲0.10%，道指ETF漲0.48%，大豆基金漲0.73%，美國房地產ETF漲2.15%。"
+    },
+    {
+      "id": "te:markets:569860",
+      "time": "2026-07-25 06:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Rises by 1.11% — Top currency gainers are South Korean Won (1.11%), New Zealand Dollar (0.41%), Indian Rupee (0.37%) and British Pound (0.19%). Biggest loser is Euro (-0.07%). Meanwhile, Japanese Yen and Dollar Index were little changed."
+    },
     {
       "id": "5007630",
       "time": "2026-07-25 06:12:39",
