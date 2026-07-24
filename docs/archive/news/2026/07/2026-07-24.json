@@ -1,7 +1,223 @@
 {
   "date": "2026-07-24",
-  "count": 2762,
+  "count": 2786,
   "items": [
+    {
+      "id": "mkt:019f941b-3664-7aab-8e88-38b37da6a078",
+      "time": "2026-07-24 20:30:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU foreign policy chief says as Tehran steps up domestic crackdown, the EU will continue to hold those responsible to account."
+    },
+    {
+      "id": "mkt:019f941a-f4ed-7aab-8e88-344625f54d24",
+      "time": "2026-07-24 20:30:22",
+      "tags": [
+        "MKT News",
+        "USDCAD",
+        "Impact mixed"
+      ],
+      "text": "Canada raw materials price index +20.7% YoY in June, down from 33.4% previously."
+    },
+    {
+      "id": "5007058",
+      "time": "2026-07-24 20:30:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大6月原材料價格指數環比 -6.9%，預期 -1.3%，前值 0.7%。"
+    },
+    {
+      "id": "mkt:019f941a-f208-7aab-8e88-2a92473f178a",
+      "time": "2026-07-24 20:30:21",
+      "tags": [
+        "MKT News",
+        "USDCAD",
+        "Impact bearish"
+      ],
+      "text": "Canada industrial product price index YoY 12.4% in June, down from 13.6% previously."
+    },
+    {
+      "id": "mkt:019f941a-ee84-7aab-8e88-22fe5d232cb2",
+      "time": "2026-07-24 20:30:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada New Housing Price Index (NHPI) MoM -0.1% in June; prior -0.3%."
+    },
+    {
+      "id": "5007057",
+      "time": "2026-07-24 20:30:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大6月工業品價格指數環比 -1.4%，預期 -0.4%，前值 1.2%。"
+    },
+    {
+      "id": "mkt:019f941a-ee20-7aab-8e88-1a712a504d54",
+      "time": "2026-07-24 20:30:14",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "Canada June raw materials price index m/m -6.9% (expected -1.3%, prior +0.7%)."
+    },
+    {
+      "id": "mkt:019f941a-d716-7aab-8e88-17a0e3d5b31c",
+      "time": "2026-07-24 20:30:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Canada June industrial product price index (IPPI) MoM -1.4% vs -0.4% expected; prior +1.2%."
+    },
+    {
+      "id": "mkt:019f941a-c7e5-7aab-8e88-0d87aab19f9d",
+      "time": "2026-07-24 20:30:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | New Housing Price Index (MoM) (Jun) | actual -0.1% | previous -0.3%"
+    },
+    {
+      "id": "mkt:019f941a-b2c4-7aab-8e88-023173939207",
+      "time": "2026-07-24 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Raw Material Price Index (YoY) (Jun) | actual 20.7% | previous 33.4%"
+    },
+    {
+      "id": "mkt:019f941a-b265-7aab-8e87-f8d8e9d4826a",
+      "time": "2026-07-24 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Raw Material Price Index (MoM) (Jun) | actual -6.9% | consensus -1.30% | previous 0.70%"
+    },
+    {
+      "id": "mkt:019f941a-b203-7aab-8e87-f75be65f1cfe",
+      "time": "2026-07-24 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Industrial Product Price Index (YoY) (Jun) | actual 12.4% | previous 13.6%"
+    },
+    {
+      "id": "mkt:019f941a-b202-7aab-8e87-ee9fd104ed7f",
+      "time": "2026-07-24 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Industrial Product Price Index (MoM) (Jun) | actual -1.4% | consensus -0.40% | previous 1.20%"
+    },
+    {
+      "id": "5007056",
+      "time": "2026-07-24 20:29:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交政策負責人：隨著德黑蘭加大國內鎮壓力度，歐盟將繼續追究相關責任人的責任。"
+    },
+    {
+      "id": "5007055",
+      "time": "2026-07-24 20:29:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美年健康：終止發行股份購買資產申請稽核】美年健康公告，公司於2026年7月17日召開第九屆董事會第二十五次（臨時）會議，審議透過《關於終止發行股份購買資產暨關聯交易事項並撤回申請檔案的議案》，同意公司終止發行股份購買資產暨關聯交易事項並向深圳證券交易所撤回本次交易的申請檔案。2026年7月24日，公司收到深圳證券交易所《關於終止對美年大健康產業控股股份有限公司發行股份購買資產申請稽核的決定》（深證上審〔2026〕233號），根據《深圳證券交易所上市公司重大資產重組稽核規則》第五十二條的有關規定，深圳證券交易所決定終止對公司發行股份購買資產申請的稽核。"
+    },
+    {
+      "id": "mkt:019f941a-22d8-7aab-8e87-e2b86561cbe0",
+      "time": "2026-07-24 20:29:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU foreign policy chief says the bloc has sanctioned senior figures of a cyber group that aided the Iranian regime's suppression of information."
+    },
+    {
+      "id": "5007054",
+      "time": "2026-07-24 20:29:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交政策負責人：我們還制裁了一個網路組織的主要人物，此人協助該政權壓制資訊。"
+    },
+    {
+      "id": "5007053",
+      "time": "2026-07-24 20:29:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦軍方稱伊朗襲擊未造成物質損壞或人員傷亡。"
+    },
+    {
+      "id": "mkt:019f9419-c960-7aab-8e87-da43d5f22c9a",
+      "time": "2026-07-24 20:29:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU foreign policy chief said the EU has imposed new restrictive measures on Iranian judges responsible for serious human rights violations."
+    },
+    {
+      "id": "5007052",
+      "time": "2026-07-24 20:29:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表：歐盟對應對嚴重侵犯人權行為負責的伊朗法官實施了新的限制性措施。"
+    },
+    {
+      "id": "5007051",
+      "time": "2026-07-24 20:28:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST寧科：部分董事及高管擬增持不低於370萬元】ST 寧科公告，公司部分董事、全體高階管理人員計劃自本公告披露之日起6個月內，透過上海證券交易所股票交易系統以集中競價交易方式增持公司股份，合計增持金額不低於人民幣370萬元（含交易費用），不超過人民幣600萬元（含交易費用）。本次增持計劃實施期間為2026年7月28日～2027年1月27日，不設固定價格區間。"
+    },
+    {
+      "id": "5007050",
+      "time": "2026-07-24 20:28:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康希通訊：副總經理、核心技術人員虞強離任】康希通訊(688653)7月24日公告，公司董事會於近日收到副總經理、核心技術人員虞強遞交的書面辭職報告，虞強因個人原因申請辭去公司副總經理的職務，辭任後不再擔任公司任何職務，亦不再被認定為核心技術人員。截至本公告披露日，虞強已完成工作交接，公司各項研發活動均處於正常有序的推進狀態。虞強的離職不會對公司的技術研發和生產經營帶來實質性影響，不會影響公司擁有的核心技術。"
+    },
+    {
+      "id": "mkt:019f9418-5500-7aab-8e87-d1ce6a562713",
+      "time": "2026-07-24 20:27:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tasnim News Agency reported explosions heard in Saudi Arabia."
+    },
+    {
+      "id": "5007049",
+      "time": "2026-07-24 20:27:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "馬達加斯加 6 月居民消費價格同比上漲 8.61%。"
+    },
     {
       "id": "5007048",
       "time": "2026-07-24 20:26:22",

@@ -1,7 +1,223 @@
 {
-  "updated": "2026-07-24 20:27:14",
-  "count": 18104,
+  "updated": "2026-07-24 20:31:16",
+  "count": 18095,
   "items": [
+    {
+      "id": "mkt:019f941b-3664-7aab-8e88-38b37da6a078",
+      "time": "2026-07-24 20:30:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU foreign policy chief says as Tehran steps up domestic crackdown, the EU will continue to hold those responsible to account."
+    },
+    {
+      "id": "5007058",
+      "time": "2026-07-24 20:30:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大6月原材料價格指數環比 -6.9%，預期 -1.3%，前值 0.7%。"
+    },
+    {
+      "id": "mkt:019f941a-f4ed-7aab-8e88-344625f54d24",
+      "time": "2026-07-24 20:30:22",
+      "tags": [
+        "MKT News",
+        "USDCAD",
+        "Impact mixed"
+      ],
+      "text": "Canada raw materials price index +20.7% YoY in June, down from 33.4% previously."
+    },
+    {
+      "id": "mkt:019f941a-f208-7aab-8e88-2a92473f178a",
+      "time": "2026-07-24 20:30:21",
+      "tags": [
+        "MKT News",
+        "USDCAD",
+        "Impact bearish"
+      ],
+      "text": "Canada industrial product price index YoY 12.4% in June, down from 13.6% previously."
+    },
+    {
+      "id": "mkt:019f941a-ee84-7aab-8e88-22fe5d232cb2",
+      "time": "2026-07-24 20:30:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada New Housing Price Index (NHPI) MoM -0.1% in June; prior -0.3%."
+    },
+    {
+      "id": "5007057",
+      "time": "2026-07-24 20:30:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大6月工業品價格指數環比 -1.4%，預期 -0.4%，前值 1.2%。"
+    },
+    {
+      "id": "mkt:019f941a-ee20-7aab-8e88-1a712a504d54",
+      "time": "2026-07-24 20:30:14",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "Canada June raw materials price index m/m -6.9% (expected -1.3%, prior +0.7%)."
+    },
+    {
+      "id": "mkt:019f941a-d716-7aab-8e88-17a0e3d5b31c",
+      "time": "2026-07-24 20:30:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Canada June industrial product price index (IPPI) MoM -1.4% vs -0.4% expected; prior +1.2%."
+    },
+    {
+      "id": "mkt:019f941a-c7e5-7aab-8e88-0d87aab19f9d",
+      "time": "2026-07-24 20:30:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | New Housing Price Index (MoM) (Jun) | actual -0.1% | previous -0.3%"
+    },
+    {
+      "id": "mkt:019f941a-b2c4-7aab-8e88-023173939207",
+      "time": "2026-07-24 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Raw Material Price Index (YoY) (Jun) | actual 20.7% | previous 33.4%"
+    },
+    {
+      "id": "mkt:019f941a-b265-7aab-8e87-f8d8e9d4826a",
+      "time": "2026-07-24 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Raw Material Price Index (MoM) (Jun) | actual -6.9% | consensus -1.30% | previous 0.70%"
+    },
+    {
+      "id": "mkt:019f941a-b203-7aab-8e87-f75be65f1cfe",
+      "time": "2026-07-24 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Industrial Product Price Index (YoY) (Jun) | actual 12.4% | previous 13.6%"
+    },
+    {
+      "id": "mkt:019f941a-b202-7aab-8e87-ee9fd104ed7f",
+      "time": "2026-07-24 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Industrial Product Price Index (MoM) (Jun) | actual -1.4% | consensus -0.40% | previous 1.20%"
+    },
+    {
+      "id": "5007056",
+      "time": "2026-07-24 20:29:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交政策負責人：隨著德黑蘭加大國內鎮壓力度，歐盟將繼續追究相關責任人的責任。"
+    },
+    {
+      "id": "5007055",
+      "time": "2026-07-24 20:29:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美年健康：終止發行股份購買資產申請稽核】美年健康公告，公司於2026年7月17日召開第九屆董事會第二十五次（臨時）會議，審議透過《關於終止發行股份購買資產暨關聯交易事項並撤回申請檔案的議案》，同意公司終止發行股份購買資產暨關聯交易事項並向深圳證券交易所撤回本次交易的申請檔案。2026年7月24日，公司收到深圳證券交易所《關於終止對美年大健康產業控股股份有限公司發行股份購買資產申請稽核的決定》（深證上審〔2026〕233號），根據《深圳證券交易所上市公司重大資產重組稽核規則》第五十二條的有關規定，深圳證券交易所決定終止對公司發行股份購買資產申請的稽核。"
+    },
+    {
+      "id": "5007054",
+      "time": "2026-07-24 20:29:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交政策負責人：我們還制裁了一個網路組織的主要人物，此人協助該政權壓制資訊。"
+    },
+    {
+      "id": "mkt:019f941a-22d8-7aab-8e87-e2b86561cbe0",
+      "time": "2026-07-24 20:29:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU foreign policy chief says the bloc has sanctioned senior figures of a cyber group that aided the Iranian regime's suppression of information."
+    },
+    {
+      "id": "5007053",
+      "time": "2026-07-24 20:29:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦軍方稱伊朗襲擊未造成物質損壞或人員傷亡。"
+    },
+    {
+      "id": "5007052",
+      "time": "2026-07-24 20:29:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表：歐盟對應對嚴重侵犯人權行為負責的伊朗法官實施了新的限制性措施。"
+    },
+    {
+      "id": "mkt:019f9419-c960-7aab-8e87-da43d5f22c9a",
+      "time": "2026-07-24 20:29:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU foreign policy chief said the EU has imposed new restrictive measures on Iranian judges responsible for serious human rights violations."
+    },
+    {
+      "id": "5007051",
+      "time": "2026-07-24 20:28:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST寧科：部分董事及高管擬增持不低於370萬元】ST 寧科公告，公司部分董事、全體高階管理人員計劃自本公告披露之日起6個月內，透過上海證券交易所股票交易系統以集中競價交易方式增持公司股份，合計增持金額不低於人民幣370萬元（含交易費用），不超過人民幣600萬元（含交易費用）。本次增持計劃實施期間為2026年7月28日～2027年1月27日，不設固定價格區間。"
+    },
+    {
+      "id": "5007050",
+      "time": "2026-07-24 20:28:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康希通訊：副總經理、核心技術人員虞強離任】康希通訊(688653)7月24日公告，公司董事會於近日收到副總經理、核心技術人員虞強遞交的書面辭職報告，虞強因個人原因申請辭去公司副總經理的職務，辭任後不再擔任公司任何職務，亦不再被認定為核心技術人員。截至本公告披露日，虞強已完成工作交接，公司各項研發活動均處於正常有序的推進狀態。虞強的離職不會對公司的技術研發和生產經營帶來實質性影響，不會影響公司擁有的核心技術。"
+    },
+    {
+      "id": "mkt:019f9418-5500-7aab-8e87-d1ce6a562713",
+      "time": "2026-07-24 20:27:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tasnim News Agency reported explosions heard in Saudi Arabia."
+    },
+    {
+      "id": "5007049",
+      "time": "2026-07-24 20:27:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "馬達加斯加 6 月居民消費價格同比上漲 8.61%。"
+    },
     {
       "id": "5007048",
       "time": "2026-07-24 20:26:22",
@@ -165708,371 +165924,6 @@
         "Importance 1"
       ],
       "text": "Brazil's IBC-Br Growth Slows in May — Brazil’s IBC-Br economic activity index rose 0.1% month-over-month in May 2026, easing from a 0.5% increase in the previous month but slightly above forecasts for a flat reading. Industrial activity increased 0.4%, matching April's pace, while services rose 0.1% after a 0.3% increase in the previous month. Likewise, the taxes index advanced 0.1% following a 0.3% rise in April. Meanwhile, the agriculture and livestock sector contracted 1.0% after posting a flat reading in April. Excluding agriculture and livestock, the IBC-Br rose 0.2% in May."
-    },
-    {
-      "id": "em:jjsj_mgsj:202607173811266684",
-      "time": "2026-07-17 20:31:11",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國6月進口價格上升0.3%，市場預期下降0.8%。美國6月石油進口價格下降0.7%。"
-    },
-    {
-      "id": "4994619",
-      "time": "2026-07-17 20:31:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國6月石油進口價格環比下降0.7%，美國6月非石油進口價格環比上漲0.5%。"
-    },
-    {
-      "id": "mkt:019f700f-1bdc-7aab-8de4-dae29ee28960",
-      "time": "2026-07-17 20:31:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "U.S. export price index YoY 10.6% in June, down from 11.2% previously."
-    },
-    {
-      "id": "mkt:019f700e-fa50-7aab-8de4-d1aa0d718e3f",
-      "time": "2026-07-17 20:30:57",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Export Price Index (YoY) (Jun) | actual 10.6% | previous 11.20%"
-    },
-    {
-      "id": "4994618",
-      "time": "2026-07-17 20:30:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本一所保育園發生食物中毒事件 64人出現症狀】當地時間17日，日本東京都政府釋出訊息稱，八王子市一所保育園內的59名幼兒及5名職員，因食用該園供餐設施製作的午餐和點心，出現腹瀉、腹痛等食物中毒症狀。經檢測，多名患者體內檢出了一種與大腸桿菌關係密切的細菌。目前所有患者的身體狀況均在恢復中。八王子市方面決定，自17日起對該園的供餐設施實施為期3天的停業處分。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f700e-ab69-7aab-8de4-c935c94dcdd8",
-      "time": "2026-07-17 20:30:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "U.S. import price index YoY rose 7.1% in June; consensus 6.7%, prior 6.7%."
-    },
-    {
-      "id": "em:jjsj_mgsj:202607173811266338",
-      "time": "2026-07-17 20:30:36",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國6月營建許可總數136.7萬戶，預期140萬戶，前值141萬戶。"
-    },
-    {
-      "id": "mkt:019f700e-8897-7aab-8de4-c6bb46fec611",
-      "time": "2026-07-17 20:30:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "U.S. June total building permits 1.367 mln units, vs. 1.40 mln expected; prior 1.41 mln."
-    },
-    {
-      "id": "mkt:019f700e-87cf-7aab-8de4-b93f75e2110d",
-      "time": "2026-07-17 20:30:28",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Import Price Index (YoY) (Jun) | actual 7.1% | consensus 6.70% | previous 6.70%"
-    },
-    {
-      "id": "mkt:019f700e-876b-7aab-8de4-b0b68dc24572",
-      "time": "2026-07-17 20:30:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "US import price index rose 0.3% MoM in June, the smallest monthly gain since December 2025. US total building permits in June were 1.367 mln units, the lowest since August 2025."
-    },
-    {
-      "id": "4994617",
-      "time": "2026-07-17 20:30:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大5月投資者淨買入海外證券 222.7億加元，前值由-113.6億加元修正為-113.7億加元。\n加拿大5月海外投資者淨買入加拿大證券 79億加元，前值由469.1億加元修正為469.2億加元。"
-    },
-    {
-      "id": "mkt:019f700e-7450-7aab-8de4-a88b976e30ee",
-      "time": "2026-07-17 20:30:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Foreign investors net bought CAD 7.9 bln of Canadian securities in May; April's net inflow revised to CAD 46.92 bln from CAD 46.91 bln."
-    },
-    {
-      "id": "mkt:019f700e-73b2-7aab-8de4-a54dd56b70e7",
-      "time": "2026-07-17 20:30:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US housing starts, June +19.0% MoM annualized vs consensus +11.3%; May revised to -15.2% from -15.4%."
-    },
-    {
-      "id": "mkt:019f700e-6cdc-7aab-8de4-9d02d98f3f07",
-      "time": "2026-07-17 20:30:20",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Canadian investors net purchased CAD 22.27 bln of foreign securities in May; prior reading revised from a CAD 11.36 bln net sale to a CAD 11.37 bln net sale."
-    },
-    {
-      "id": "mkt:019f700e-6bb3-7aab-8de4-92a18f1ff766",
-      "time": "2026-07-17 20:30:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "US June building permits MoM -3.0% (exp -0.2%, prior -0.9%)."
-    },
-    {
-      "id": "mkt:019f700e-6b56-7aab-8de4-89466612e3fe",
-      "time": "2026-07-17 20:30:20",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "US June export prices m/m -0.6% vs -0.4% expected; May revised to 1.2% from 1.30%."
-    },
-    {
-      "id": "em:jjsj_mgsj:202607173811265918",
-      "time": "2026-07-17 20:30:18",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國6月新屋開工總數年化142.7萬戶】美國6月新屋開工總數年化142.7萬戶，預期131萬戶，前值由117.7萬戶修正為119.9萬戶。"
-    },
-    {
-      "id": "4994616",
-      "time": "2026-07-17 20:30:15",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國6月出口物價指數月率 -0.6%，預期-0.4%，前值由1.30%修正為1.2%。\n美國6月進口物價指數月率 0.3%，預期-0.7%，前值由1.90%修正為1.7%。"
-    },
-    {
-      "id": "4994615",
-      "time": "2026-07-17 20:30:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國6月新屋開工總數年化 142.7萬戶，預期131萬戶，前值由117.7萬戶修正為119.9萬戶。美國6月營建許可總數 136.7萬戶，預期140萬戶，前值141萬戶。"
-    },
-    {
-      "id": "mkt:019f700e-48ed-7aab-8de4-81625761154a",
-      "time": "2026-07-17 20:30:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US import price index MoM June +0.3% vs -0.7% expected; May revised to +1.7% from +1.9%."
-    },
-    {
-      "id": "mkt:019f700e-484a-7aab-8de4-7f1a946aa596",
-      "time": "2026-07-17 20:30:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "US housing starts in June annualized at 1.427 mln units vs 1.31 mln expected; May revised to 1.199 mln from 1.177 mln."
-    },
-    {
-      "id": "mkt:019f700e-2830-7aab-8de4-73d317fe3881",
-      "time": "2026-07-17 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Canadian Holdings Of Foreign Securities (May) | actual 22270000000B | previous -11360000000B"
-    },
-    {
-      "id": "mkt:019f700e-281f-7aab-8de4-6b2c378f1dec",
-      "time": "2026-07-17 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Foreign Holdings Of Canada Securities (May) | actual 7900000000B | previous 46910000000B"
-    },
-    {
-      "id": "mkt:019f700e-258d-7aab-8de4-62c82864f7c6",
-      "time": "2026-07-17 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Building Permits Total (Jun) | actual 1367000M | consensus 1400000M | previous 1410000M"
-    },
-    {
-      "id": "mkt:019f700e-257a-7aab-8de4-599128051810",
-      "time": "2026-07-17 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Building Permits (MoM) (Jun) | actual -3% | consensus -0.20% | previous -0.90%"
-    },
-    {
-      "id": "mkt:019f700e-2237-7aab-8de4-5560c5b592f8",
-      "time": "2026-07-17 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Housing Starts SAAR (MoM) (Jun) | actual 19% | consensus 11.30% | previous -15.40%"
-    },
-    {
-      "id": "mkt:019f700e-21b2-7aab-8de4-4cbcafb9d13c",
-      "time": "2026-07-17 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Housing Starts Total SAAR (Jun) | actual 1427000K | consensus 1310000K | previous 1177000K"
-    },
-    {
-      "id": "mkt:019f700e-2124-7aab-8de4-420ff0c1a61e",
-      "time": "2026-07-17 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Export Price Index (MoM) (Jun) | actual -0.6% | consensus -0.4% | previous 1.30%"
-    },
-    {
-      "id": "mkt:019f700e-20db-7aab-8de4-3d4e32e9b173",
-      "time": "2026-07-17 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Import Price Index (MoM) (Jun) | actual 0.3% | consensus -0.7% | previous 1.90%"
-    },
-    {
-      "id": "4994614",
-      "time": "2026-07-17 20:29:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【航新科技：股東李鳳瑞完成減持20萬股 持股降至0.55%】航新科技公告稱，股東李鳳瑞於2026年5月28日透過集中競價交易方式減持公司股份20萬股，減持均價22.69元/股，減持比例0.08%。本次減持前，李鳳瑞持有公司股份1,615,935股，佔總股本0.66%；減持後，持有公司股份1,415,935股，佔總股本降至0.55%。本次減持計劃已實施完成，且公司控制權未變，不影響公司治理結構和持續經營。"
-    },
-    {
-      "id": "mkt:019f700d-69c8-7aab-8de4-35a056e465e9",
-      "time": "2026-07-17 20:29:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior adviser to Iran's supreme leader said the Iraqi prime minister's visit to the US is untimely and that he did not know the visit's intent or objectives."
-    },
-    {
-      "id": "mkt:019f700c-2819-7aab-8de4-2b761124efce",
-      "time": "2026-07-17 20:27:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "CNH",
-        "SSE Composite"
-      ],
-      "text": "【Shanghai Stock Exchange and HKEX sign cooperation memorandum】July 17, 2026 — The Shanghai Stock Exchange and Hong Kong Exchanges and Clearing (HKEX) signed a memorandum to deepen information exchange and cross‑border cooperation. The MoU supports voluntary submission of relevant information by HKEX participants and aims to further develop and optimise interconnectivity mechanisms, including Stock Connect. The SSE said it will, under CSRC guidance, continue to refine cross‑border cooperation and improve the effectiveness of connectivity as part of institutional market‑opening efforts."
-    },
-    {
-      "id": "4994613",
-      "time": "2026-07-17 20:27:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨鉑金下跌3%至每盎司1569.38美元。"
     }
   ]
 }
