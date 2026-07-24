@@ -1,7 +1,141 @@
 {
-  "updated": "2026-07-24 14:53:37",
-  "count": 17930,
+  "updated": "2026-07-24 14:57:39",
+  "count": 17926,
   "items": [
+    {
+      "id": "mkt:019f92e9-133b-7aab-8e7d-2dbdb0b3e306",
+      "time": "2026-07-24 14:56:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy told Trump ally Laura Loomer he may visit Washington next week and would meet with Trump again."
+    },
+    {
+      "id": "5006131",
+      "time": "2026-07-24 14:56:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守93美元/桶，日內跌1.34%。"
+    },
+    {
+      "id": "5006130",
+      "time": "2026-07-24 14:56:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代入股屹艮科技】天眼查App顯示，近日，深圳屹艮科技有限公司發生工商變更，新增寧德時代（300750）為股東，同時，註冊資本由500萬人民幣增至約557.14萬人民幣。深圳屹艮科技有限公司成立於2020年12月，法定代表人為鄭家新，經營範圍包括軟體開發、計算機系統服務、新材料研發等，現由嘉興屹艮企業管理合夥企業（有限合夥）、鄭家新及上述新增股東等共同持股。公開資訊顯示，該公司是一家材料模擬模擬軟體開發商。"
+    },
+    {
+      "id": "5006129",
+      "time": "2026-07-24 14:55:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印尼重申將積極開拓新市場。"
+    },
+    {
+      "id": "5006128",
+      "time": "2026-07-24 14:55:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伍斌任福建省副省長】7月24日，福建省十四屆人大常委會第二十三次會議閉幕。會議表決透過了有關人事事項。因工作需要，決定免去魏曉奎的福建省人民政府副省長職務，任命魏曉奎為福建省監察委員會副主任，決定其代理福建省監察委員會主任職務。決定任命伍斌為福建省人民政府副省長。"
+    },
+    {
+      "id": "5006127",
+      "time": "2026-07-24 14:55:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印尼正等待美國對產能過剩問題的調查結果。"
+    },
+    {
+      "id": "5006126",
+      "time": "2026-07-24 14:55:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼諮詢美國貿易代表辦公室，以獲得最具競爭力的關稅。"
+    },
+    {
+      "id": "mkt:019f92e8-4cf3-7aab-8e7d-277da2a9e5ad",
+      "time": "2026-07-24 14:55:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Temasek executive said the firm is targeting dual-use technologies and is actively expanding into the defense sector."
+    },
+    {
+      "id": "5006125",
+      "time": "2026-07-24 14:55:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印尼重申將重點簡化原材料進口規則。"
+    },
+    {
+      "id": "mkt:019f92e8-0183-7aab-8e7d-1fb93ecd0822",
+      "time": "2026-07-24 14:55:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "A Temasek executive said the Singapore sovereign investor is seeking more defence deals and has noted rising European military budgets."
+    },
+    {
+      "id": "5006124",
+      "time": "2026-07-24 14:54:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名高階高管表示，淡馬錫計劃投資更多防務交易，同時注意到歐洲各國軍事預算正不斷增長。"
+    },
+    {
+      "id": "5006123",
+      "time": "2026-07-24 14:54:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "淡馬錫一位高管表示，過去兩年淡馬錫已在歐洲、中東和非洲地區投資130億歐元。"
+    },
+    {
+      "id": "5006122",
+      "time": "2026-07-24 14:54:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：西班牙將加強對住宅房地產投資信託基金的稅收。"
+    },
+    {
+      "id": "mkt:019f92e7-4d59-7aab-8e7d-15c8a1a0ee41",
+      "time": "2026-07-24 14:54:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Inflation concerns lift Japan 40-year JGB yield】Japan's 40-year government bond yield rose about 10bp intraday to 4.010%, and the 5-year JGB hit its highest level since its 2000 issuance. Moves tracked U.S. Treasuries as oil gains boosted Fed rate-hike expectations. Ataru Okumura, chief rates strategist at SMBC Nikko Securities, said markets are focused on the Bank of Japan's slow response to rising oil prices, prompting investors to demand a higher premium to hold long-dated bonds; with concerns about fiscal expansion ahead of the government's expected early-August finalization of a consumption tax-cut plan, yields could rise further."
+    },
+    {
+      "id": "5006121",
+      "time": "2026-07-24 14:53:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本消費者大舉購入珠寶，對沖日元貶值風險】通脹高企、日元持續走弱，日本民眾紛紛搶購奢侈珠寶，將其當作保值避險資產，帶動珠寶銷量大幅上漲。2026年上半年，日本各大百貨商場寶石、貴金屬及藝術品銷售額同比增長19%，達3300億日元，創下2008年有統計以來同期最高紀錄。日元貶值疊加核心物價上漲，民眾消費傾向發生轉變，更願意購置保值能力更強的珠寶資產。"
+    },
     {
       "id": "5006120",
       "time": "2026-07-24 14:52:34",
@@ -164150,172 +164284,6 @@
         "國際"
       ],
       "text": "日本首相高市早苗：依據現行投資準則，日本政府養老金投資基金（GPIF）已透過另類投資增持本土資產，助力日本經濟增長。"
-    },
-    {
-      "id": "4993754",
-      "time": "2026-07-17 14:57:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌3%，現報1233.00美元/盎司。"
-    },
-    {
-      "id": "4993753",
-      "time": "2026-07-17 14:57:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列第25屆議會正式解散】當地時間17日凌晨，以色列第25屆議會以62票贊成、0票反對，三讀透過一項有關政黨經費法的相關修正案。根據該法律相關規定，以色列第25屆議會正式宣告解散。據瞭解，根據安排，以色列議會隨後將進入休會期。如無特殊情況，在新一屆議會宣誓就職前，議會將不再召開全體會議。（央視新聞）"
-    },
-    {
-      "id": "4993752",
-      "time": "2026-07-17 14:56:58",
-      "tags": [
-        "市場",
-        "其他"
-      ],
-      "text": "美元兌日元USD/JPY短線走低20點。"
-    },
-    {
-      "id": "te:markets:567787",
-      "time": "2026-07-17 14:56:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Wheat Futures Retreat — Wheat futures slipped to around $6.70 per bushel in mid-July, retreating from a more than two-year high reached on July 15 as traders locked in profits. Despite the pullback, prices remained elevated as the Russia-Ukraine conflict showed no signs of easing, with Russian forces resuming strikes on Ukrainian port infrastructure along the Black Sea coast in response to recent Ukrainian attacks on Russian vessels in the Sea of Azov and the Black Sea. Adding pressure on prices, the USDA reported US wheat net export sales of 235,100 metric tons for the week ended July 9, below market expectations. Meanwhile, supply concerns emerged after the Grain Industry Association of Western Australia projected the state’s 2026 wheat harvest at 9.5 million tons, down nearly 30% from 13.3 million tons in 2025 due to hotter and drier conditions. Australia, one of the world’s largest wheat exporters, supplies key markets across Southeast Asia, the Middle East, and China."
-    },
-    {
-      "id": "4993751",
-      "time": "2026-07-17 14:56:21",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "日本首相高市早苗：政府將出臺相關舉措，鼓勵家庭、政府養老金投資基金（GPIF）等主體增持日本金融資產。"
-    },
-    {
-      "id": "4993750",
-      "time": "2026-07-17 14:56:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【UBS瑞銀首予Momenta“買入”評級】7月17日訊息，UBS（瑞銀）發表研究報告，首予Momenta“買入”評級，目標價為360港元。UBS在報告中介紹，Momenta在行業中覆蓋的OEM數量最廣，其輕資產業務模式配合強勁的收入增長，有望為公司提供運營槓桿以產生高利潤率，從而支撐較高的市銷率(P/S)估值。"
-    },
-    {
-      "id": "mkt:019f6edc-2391-7aab-8ddd-1f081843570a",
-      "time": "2026-07-17 14:55:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Azerbaijan exported 5.9 bcm of natural gas to Europe in January-June, the Ministry of Energy said."
-    },
-    {
-      "id": "4993749",
-      "time": "2026-07-17 14:55:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞塞拜然國家統計委員會：該國 1 至 6 月國內生產總值同比增長 0.8%。"
-    },
-    {
-      "id": "te:markets:567784",
-      "time": "2026-07-17 14:55:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Malaysia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Malaysia Stocks Hover Near 2-Month Peak After Solid Q2 GDP Data — Bursa Malaysia’s KLCI extended gains into Friday afternoon, hovering near 1,729 and edging toward a two-month high. Sentiment was buoyed by upbeat Q2 GDP flash data, with resilient services and electronics exports helping offset the drag from Middle East tensions. For the first half of the year, Malaysia’s economy expanded 5.6% yoy, accelerating from 4.5% in the corresponding period of 2025. Meanwhile, inflation eased a bit in June to 1.9% from May’s 2%, as fuel subsidies cushioned higher crude costs. Financials led the strength, with gains from Malayan Banking (1.6%), Hong Leong Bank (1.5%), and CIMB Group (1.2%). Energy and communications also supported the upside, highlighted by Petronas Chemicals’ 2.8% climb, Telekom Malaysia’s 0.9% rise, and Carlsberg Brewery’s 0.8% gain. With the benchmark tracking a 2.1% advance so far, the market is on course for a third consecutive weekly gain, underscoring steady momentum amid improving macro signals."
-    },
-    {
-      "id": "4993748",
-      "time": "2026-07-17 14:55:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "截止14:55，兩市203只個股跌停。"
-    },
-    {
-      "id": "4993747",
-      "time": "2026-07-17 14:55:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【隆基綠能在貴州成立新公司 含充電樁業務】企查查APP顯示，近日，貴州隆基樂葉新能源有限公司成立，經營範圍包含：新能源汽車電附件銷售；集中式快速充電站；充電樁銷售；機動車充電銷售等。企查查股權穿透顯示，該公司由隆基綠能間接全資持股。"
-    },
-    {
-      "id": "4993746",
-      "time": "2026-07-17 14:55:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌7%，現報7021.00點。"
-    },
-    {
-      "id": "mkt:019f6edb-1530-7aab-8ddd-128ee743984d",
-      "time": "2026-07-17 14:54:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Azerbaijan's Ministry of Energy said average daily oil production in Jan–Jun was 61,000 tonnes."
-    },
-    {
-      "id": "4993745",
-      "time": "2026-07-17 14:54:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國中免等在呼和浩特成立商貿新公司】企查查APP顯示，近日，中免（呼和浩特）商貿有限公司成立，經營範圍包含：免稅商品銷售；菸草製品零售；食品銷售；酒類經營等。企查查股權穿透顯示，該公司由中國中免全資子公司中國免稅品（集團）有限責任公司等共同持股。"
-    },
-    {
-      "id": "mkt:019f6eda-e477-7aab-8ddd-0a15278fab41",
-      "time": "2026-07-17 14:54:26",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Palladium most-active contract dropped over 5% to 294.7 yuan/gram."
-    },
-    {
-      "id": "4993744",
-      "time": "2026-07-17 14:54:21",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【高盛：上調臺積電目標價至3100元新臺幣，AI需求增加帶動全年指引樂觀】高盛發表報告指，臺積電於第二季業績會議中，2026年全年營收及資本支出指引的顯著上調是主要驚喜。管理層將2026年營收同比增長展望上調至略高於40%，之前為高於30%，好過該行預估的39%；並將資本支出上調至600-640億美元，之前為520-560億美元，該行預估為560億美元。第二季毛利率67.7%雖好過公司自身指引，但低於該行預估的68.5%及投資者的樂觀預期，成為相對較弱的一點。整體而言，該行認為會中對AI需求的更正面論調強化了長期需求展望。管理層表示需求較上季更強，並據此加速產能建置，額外在亞利桑那州投資1000億美元。該行將臺積電目標價由3000元新臺幣上調至3100元新臺幣，重申“買入”評級。"
-    },
-    {
-      "id": "4993743",
-      "time": "2026-07-17 14:54:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "亞塞拜然能源部：該國 1 至 6 月向歐洲出口天然氣 59 億立方米。"
-    },
-    {
-      "id": "4993742",
-      "time": "2026-07-17 14:54:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍襲擊伊朗基礎設施 伊朗繼續打擊美軍中東目標】美軍中央司令部16日說，美國東部時間16日21時40分（北京時間17日9時40分），美軍完成了針對伊朗的最新一輪大規模打擊。多家伊朗媒體報道，美軍襲擊伊朗南部機場、橋樑、火車站等基礎設施，造成多人死傷。與此同時，伊朗武裝力量繼續對美軍在科威特、巴林、敘利亞等地的軍事目標發動打擊。美軍中央司令部當天在社交媒體上說，美軍動用戰鬥機、無人機和軍艦，發射精確制導彈藥，擊中數十個伊朗軍事目標，包括沿海監視和防空設施、軍事後勤基礎設施以及海上作戰設施。此次行動共持續7小時40分鐘。這是美軍連續第六晚對伊朗實施打擊。（新華社）"
-    },
-    {
-      "id": "4993741",
-      "time": "2026-07-17 14:53:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞塞拜然能源部：該國 1 至 6 月石油日均產量為 6.1 萬噸。"
     }
   ]
 }

@@ -1,7 +1,141 @@
 {
   "date": "2026-07-24",
-  "count": 1464,
+  "count": 1479,
   "items": [
+    {
+      "id": "mkt:019f92e9-133b-7aab-8e7d-2dbdb0b3e306",
+      "time": "2026-07-24 14:56:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy told Trump ally Laura Loomer he may visit Washington next week and would meet with Trump again."
+    },
+    {
+      "id": "5006131",
+      "time": "2026-07-24 14:56:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守93美元/桶，日內跌1.34%。"
+    },
+    {
+      "id": "5006130",
+      "time": "2026-07-24 14:56:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代入股屹艮科技】天眼查App顯示，近日，深圳屹艮科技有限公司發生工商變更，新增寧德時代（300750）為股東，同時，註冊資本由500萬人民幣增至約557.14萬人民幣。深圳屹艮科技有限公司成立於2020年12月，法定代表人為鄭家新，經營範圍包括軟體開發、計算機系統服務、新材料研發等，現由嘉興屹艮企業管理合夥企業（有限合夥）、鄭家新及上述新增股東等共同持股。公開資訊顯示，該公司是一家材料模擬模擬軟體開發商。"
+    },
+    {
+      "id": "5006129",
+      "time": "2026-07-24 14:55:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印尼重申將積極開拓新市場。"
+    },
+    {
+      "id": "5006128",
+      "time": "2026-07-24 14:55:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伍斌任福建省副省長】7月24日，福建省十四屆人大常委會第二十三次會議閉幕。會議表決透過了有關人事事項。因工作需要，決定免去魏曉奎的福建省人民政府副省長職務，任命魏曉奎為福建省監察委員會副主任，決定其代理福建省監察委員會主任職務。決定任命伍斌為福建省人民政府副省長。"
+    },
+    {
+      "id": "5006127",
+      "time": "2026-07-24 14:55:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印尼正等待美國對產能過剩問題的調查結果。"
+    },
+    {
+      "id": "mkt:019f92e8-4cf3-7aab-8e7d-277da2a9e5ad",
+      "time": "2026-07-24 14:55:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Temasek executive said the firm is targeting dual-use technologies and is actively expanding into the defense sector."
+    },
+    {
+      "id": "5006126",
+      "time": "2026-07-24 14:55:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼諮詢美國貿易代表辦公室，以獲得最具競爭力的關稅。"
+    },
+    {
+      "id": "5006125",
+      "time": "2026-07-24 14:55:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印尼重申將重點簡化原材料進口規則。"
+    },
+    {
+      "id": "mkt:019f92e8-0183-7aab-8e7d-1fb93ecd0822",
+      "time": "2026-07-24 14:55:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "A Temasek executive said the Singapore sovereign investor is seeking more defence deals and has noted rising European military budgets."
+    },
+    {
+      "id": "5006124",
+      "time": "2026-07-24 14:54:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名高階高管表示，淡馬錫計劃投資更多防務交易，同時注意到歐洲各國軍事預算正不斷增長。"
+    },
+    {
+      "id": "5006123",
+      "time": "2026-07-24 14:54:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "淡馬錫一位高管表示，過去兩年淡馬錫已在歐洲、中東和非洲地區投資130億歐元。"
+    },
+    {
+      "id": "5006122",
+      "time": "2026-07-24 14:54:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：西班牙將加強對住宅房地產投資信託基金的稅收。"
+    },
+    {
+      "id": "mkt:019f92e7-4d59-7aab-8e7d-15c8a1a0ee41",
+      "time": "2026-07-24 14:54:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Inflation concerns lift Japan 40-year JGB yield】Japan's 40-year government bond yield rose about 10bp intraday to 4.010%, and the 5-year JGB hit its highest level since its 2000 issuance. Moves tracked U.S. Treasuries as oil gains boosted Fed rate-hike expectations. Ataru Okumura, chief rates strategist at SMBC Nikko Securities, said markets are focused on the Bank of Japan's slow response to rising oil prices, prompting investors to demand a higher premium to hold long-dated bonds; with concerns about fiscal expansion ahead of the government's expected early-August finalization of a consumption tax-cut plan, yields could rise further."
+    },
+    {
+      "id": "5006121",
+      "time": "2026-07-24 14:53:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本消費者大舉購入珠寶，對沖日元貶值風險】通脹高企、日元持續走弱，日本民眾紛紛搶購奢侈珠寶，將其當作保值避險資產，帶動珠寶銷量大幅上漲。2026年上半年，日本各大百貨商場寶石、貴金屬及藝術品銷售額同比增長19%，達3300億日元，創下2008年有統計以來同期最高紀錄。日元貶值疊加核心物價上漲，民眾消費傾向發生轉變，更願意購置保值能力更強的珠寶資產。"
+    },
     {
       "id": "5006120",
       "time": "2026-07-24 14:52:34",
