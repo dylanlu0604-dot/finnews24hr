@@ -1,7 +1,93 @@
 {
-  "updated": "2026-07-24 09:37:27",
-  "count": 18017,
+  "updated": "2026-07-24 09:41:16",
+  "count": 18014,
   "items": [
+    {
+      "id": "5005698",
+      "time": "2026-07-24 09:40:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報93.30美元/桶。"
+    },
+    {
+      "id": "5005697",
+      "time": "2026-07-24 09:40:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "mkt:019f91c7-92f4-7aab-8e77-6f7e9babd62e",
+      "time": "2026-07-24 09:40:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "06681.HK",
+        "Impact bullish",
+        "00553.HK",
+        "06613.HK"
+      ],
+      "text": "Hong Kong brain–computer interface stocks rallied after a Chinese research team unveiled a novel EEG acquisition device that for the first time globally enables cross-region synchronous EEG recording of thousands of people. 06681.HK surged over 10%; 00553.HK, 06613.HK and 02172.HK also rose."
+    },
+    {
+      "id": "mkt:019f91c6-9a3f-7aab-8e77-62dd60b7f7e6",
+      "time": "2026-07-24 09:38:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share maritime equipment sector rose intraday; Jianglong Shipbuilding jumped over 7%, while Tianhai Defense, Songfa Co., Zhongke Haixun, China Haifang and Guorui Technology also gained."
+    },
+    {
+      "id": "mkt:019f91c6-1956-7aab-8e77-5f3321099461",
+      "time": "2026-07-24 09:38:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share defense stocks extended gains. Beifang Changlong rose more than 11%; Changcheng Military hit the daily trading limit. Neimeng Yiji, Jieqiang Equipment, Guoke Military Industry and Beifang Navigation also advanced."
+    },
+    {
+      "id": "5005696",
+      "time": "2026-07-24 09:38:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧飛資料新設子公司 含多項AI相關業務】企查查APP顯示，近日，崑山奧辰資料科技有限公司成立，註冊資本2億元，經營範圍包含人工智慧應用軟體開發；人工智慧公共資料平臺；人工智慧基礎軟體開發；人工智慧基礎資源與技術平臺等。企查查股權穿透顯示，該公司由奧飛資料(300738)全資持股。"
+    },
+    {
+      "id": "5005695",
+      "time": "2026-07-24 09:37:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【地面兵裝板塊再度活躍 長城軍工漲停】地面兵裝板塊再度活躍，長城軍工漲停，北方長龍、建設工業、內蒙一機等股跟漲。"
+    },
+    {
+      "id": "mkt:019f91c5-01f8-7aab-8e77-5688c4605ffb",
+      "time": "2026-07-24 09:37:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "09988.HK",
+        "Impact bearish",
+        "00700.HK",
+        "03690.HK"
+      ],
+      "text": "Hong Kong internet stocks slid: Alibaba (09988.HK) and Kuaishou (01024.HK) dropped over 3pct, Tencent Holdings (00700.HK) and Meituan (03690.HK) fell more than 2pct; Baidu (09888.HK), JD.com (09618.HK) and NetEase (09999.HK) also declined."
+    },
     {
       "id": "5005694",
       "time": "2026-07-24 09:36:30",
@@ -165037,108 +165123,6 @@
         "市場"
       ],
       "text": "【乳業板塊短線衝高，一鳴食品漲停】乳業板塊短線衝高，一鳴食品漲停，西部牧業、品渥食品、騎士乳業、陽光乳業、貝因美跟漲、"
-    },
-    {
-      "id": "4993245",
-      "time": "2026-07-17 09:41:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國發明的“量子快閃記憶體”技術成功構建出共面的漏極-溝道-源極“歸壹”結構，觸達理論極限】北京時間7月17日凌晨，復旦大學整合晶片與系統全國重點實驗室積體電路與微納電子創新學院周鵬-劉春森研究團隊在《科學》（Science）發表重磅成果，他們發明的“量子快閃記憶體”（Quantum Flash）技術，成功構建出共面的漏極-溝道-源極“歸壹”結構，首次在室溫（27℃）環境下清晰觀測到了單電子的非易失性儲存行為，這不僅徹底打破了“單電子儲存”無法實現的傳統認知，開創了單電子量子儲存的全新理論體系，更為AI時代算力革命奠定關鍵理論基礎。該研究將電荷儲存的資訊密度提升至理論極限，實現了“一電子一位元”，也為面向人工通用智慧（AGI）需求的高密度儲存器研發提供了新的技術基礎。目前，團隊已系統性地打通了從底層材料、器件創新到高階晶片整合與應用的全鏈條：“破曉”實現存取速度突破，“歸壹”解決密度極限，“長纓”完成了與現有CMOS矽工藝相容的原型晶片驗證。（澎湃新聞）"
-    },
-    {
-      "id": "4993244",
-      "time": "2026-07-17 09:40:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CPO板塊大幅調整，光迅科技盤中觸及跌停】CPO板塊大幅調整，光迅科技盤中觸及跌停，源傑科技、中際旭創、新易盛、仕佳光子、劍橋科技、長芯博創等跟跌。"
-    },
-    {
-      "id": "te:markets:567701",
-      "time": "2026-07-17 09:40:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Holds Near 2-Month High — Gasoline futures in the US rose above $3.30 per gallon, remaining close to their highest level since late May, driven by growing concerns over global refined fuel supplies. The collapse of the US-Iran truce and renewed tanker attacks in the Strait of Hormuz heightened fears of disruptions to fuel shipments from the Persian Gulf. Additionally, Ukrainian strikes on Russia's energy infrastructure continued to hamper operations at major refineries, including NORSI and Omsk. US and global refiners also reduced gasoline output in favor of higher-margin diesel and jet fuel production, while strong overseas demand pushed US fuel exports to record highs. EIA data showed gasoline inventories fell by 1.5 million barrels in the week ending July 10, leaving stockpiles about 14 million barrels below their five-year seasonal average and at their lowest level for this time of year since 2012. The US gasoline crack spread climbed to about $59 per barrel, its highest level since June 2022."
-    },
-    {
-      "id": "mkt:019f6dba-78f6-7aab-8dd5-8da9c57686f9",
-      "time": "2026-07-17 09:39:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Survey: Japanese firms' rare-earth procurement costs up 22.3% on average; pass-through limited】Tokyo-based supply-chain risk firm Resilire’s online June survey of 400 decision-makers at manufacturers that buy rare earths and rare-earth materials found average procurement costs rose 22.3% year-on-year. About 30% of respondents reported cost increases of 20–29% (the largest share); roughly 20% reported increases of 10–19%; just over 10% reported increases of 30–39%. Most firms report limited ability to pass higher input costs to customers: among firms with rising procurement costs, 4.2% said they can almost fully pass the increase through to prices, about 10% said they cannot pass costs on at all, and more than 40% said they can absorb less than half of the added cost when combining the under-25% and 25–49% pass-through groups."
-    },
-    {
-      "id": "4993243",
-      "time": "2026-07-17 09:39:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股電力裝置股走低 偉能集團跌超8%】截至發稿，偉能集團(01608.HK)跌8.11%，濰柴動力(02338.HK)跌4.56%，哈爾濱電氣(01133.HK)跌3.98%。"
-    },
-    {
-      "id": "mkt:019f6dba-67b8-7aab-8dd5-875867c5a943",
-      "time": "2026-07-17 09:39:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share retail sector rallied; Zhongbai Group and Central Department Store hit limit-up, while Ningbo Zhongbai, Xinhua Department Store and Sanjiang Shopping also gained."
-    },
-    {
-      "id": "te:economy:567700",
-      "time": "2026-07-17 09:39:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Treasury Yield Steadies — The yield on the 10-year US Treasury note steadied around 4.56% on Friday and was on track to finish the week little changed, as investors balanced softer US inflation data against the escalating conflict between the US and Iran and its potential impact on the interest rate outlook. The US launched multiple strikes against Iran this week, while Tehran responded by targeting US bases in neighboring countries, driving oil prices higher and intensifying inflation concerns. Meanwhile, data released earlier this week showed US consumer inflation rose less than expected in June, while producer prices unexpectedly declined. Markets have now largely priced out the possibility of a Fed rate hike this month, though expectations remain divided over whether policymakers will raise rates in September."
-    },
-    {
-      "id": "4993242",
-      "time": "2026-07-17 09:39:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【零售板塊拉昇， 中央商場漲停】零售板塊拉昇，中百集團、中央商場漲停，寧波中百、新華百貨、三江購物跟漲。"
-    },
-    {
-      "id": "4993241",
-      "time": "2026-07-17 09:38:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江蘇華辰、國晟科技等成立能源科技新公司】企查查APP顯示，近日，徐儲能源科技（江蘇）有限公司成立，經營範圍包含：人工智慧行業應用系統整合服務；人工智慧基礎軟體開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，該公司由江蘇華辰、國晟科技等共同持股。"
-    },
-    {
-      "id": "mkt:019f6db9-78c5-7aab-8dd5-7ce58b333e62",
-      "time": "2026-07-17 09:38:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "07709.HK",
-        "Impact bearish",
-        "07747.HK",
-        "06809.HK"
-      ],
-      "text": "Hong Kong storage-chip names slid. China Southern 2x-long SK Hynix (07709) fell over 13%; China Southern 2x-long Samsung Electronics (07747), Lanqi Technology (06809.HK) and GigaDevice (03986.HK) each dropped more than 3%."
-    },
-    {
-      "id": "4993240",
-      "time": "2026-07-17 09:37:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海蘭信在南京成立科技新公司】企查查APP顯示，近日，海蘭信（南京）科技有限公司成立，經營範圍包含：船舶自動化、檢測、監控系統製造；海洋工程裝備製造；海洋工程裝備銷售等。企查查股權穿透顯示，該公司由海蘭信全資持股。"
     }
   ]
 }

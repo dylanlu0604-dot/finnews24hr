@@ -1,7 +1,93 @@
 {
   "date": "2026-07-24",
-  "count": 816,
+  "count": 824,
   "items": [
+    {
+      "id": "5005698",
+      "time": "2026-07-24 09:40:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報93.30美元/桶。"
+    },
+    {
+      "id": "5005697",
+      "time": "2026-07-24 09:40:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "mkt:019f91c7-92f4-7aab-8e77-6f7e9babd62e",
+      "time": "2026-07-24 09:40:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "06681.HK",
+        "Impact bullish",
+        "00553.HK",
+        "06613.HK"
+      ],
+      "text": "Hong Kong brain–computer interface stocks rallied after a Chinese research team unveiled a novel EEG acquisition device that for the first time globally enables cross-region synchronous EEG recording of thousands of people. 06681.HK surged over 10%; 00553.HK, 06613.HK and 02172.HK also rose."
+    },
+    {
+      "id": "mkt:019f91c6-9a3f-7aab-8e77-62dd60b7f7e6",
+      "time": "2026-07-24 09:38:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share maritime equipment sector rose intraday; Jianglong Shipbuilding jumped over 7%, while Tianhai Defense, Songfa Co., Zhongke Haixun, China Haifang and Guorui Technology also gained."
+    },
+    {
+      "id": "mkt:019f91c6-1956-7aab-8e77-5f3321099461",
+      "time": "2026-07-24 09:38:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share defense stocks extended gains. Beifang Changlong rose more than 11%; Changcheng Military hit the daily trading limit. Neimeng Yiji, Jieqiang Equipment, Guoke Military Industry and Beifang Navigation also advanced."
+    },
+    {
+      "id": "5005696",
+      "time": "2026-07-24 09:38:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧飛資料新設子公司 含多項AI相關業務】企查查APP顯示，近日，崑山奧辰資料科技有限公司成立，註冊資本2億元，經營範圍包含人工智慧應用軟體開發；人工智慧公共資料平臺；人工智慧基礎軟體開發；人工智慧基礎資源與技術平臺等。企查查股權穿透顯示，該公司由奧飛資料(300738)全資持股。"
+    },
+    {
+      "id": "5005695",
+      "time": "2026-07-24 09:37:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【地面兵裝板塊再度活躍 長城軍工漲停】地面兵裝板塊再度活躍，長城軍工漲停，北方長龍、建設工業、內蒙一機等股跟漲。"
+    },
+    {
+      "id": "mkt:019f91c5-01f8-7aab-8e77-5688c4605ffb",
+      "time": "2026-07-24 09:37:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "09988.HK",
+        "Impact bearish",
+        "00700.HK",
+        "03690.HK"
+      ],
+      "text": "Hong Kong internet stocks slid: Alibaba (09988.HK) and Kuaishou (01024.HK) dropped over 3pct, Tencent Holdings (00700.HK) and Meituan (03690.HK) fell more than 2pct; Baidu (09888.HK), JD.com (09618.HK) and NetEase (09999.HK) also declined."
+    },
     {
       "id": "5005694",
       "time": "2026-07-24 09:36:30",
