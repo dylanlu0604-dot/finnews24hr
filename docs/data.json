@@ -1,7 +1,382 @@
 {
-  "updated": "2026-07-24 15:02:22",
-  "count": 17925,
+  "updated": "2026-07-24 15:06:25",
+  "count": 17944,
   "items": [
+    {
+      "id": "mkt:019f92f1-e733-7aab-8e7d-ea319866e178",
+      "time": "2026-07-24 15:05:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【SCFI composite 3,062.95; CCFI composite 1,901.27】As of July 24, the Shanghai Shipping Exchange reported the SCFI (Shanghai export container freight composite index) at 3,062.95, down 17.36 points from the prior period. The CCFI (China export container freight composite index) was 1,901.27, down 0.5% from the prior period."
+    },
+    {
+      "id": "5006169",
+      "time": "2026-07-24 15:05:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SCFI綜合指數報3062.95點，CCFI綜合指數報1901.27點】上海航運交易所資料顯示，截至7月24日，上海出口集裝箱運價指數（綜合指數）SCFI報3062.95點，與上期相比下跌17.36點。中國出口集裝箱運價綜合指數CCFI報1901.27點，與上期相比跌0.5%。"
+    },
+    {
+      "id": "mkt:019f92f1-c377-7aab-8e7d-e71fe50fe733",
+      "time": "2026-07-24 15:05:45",
+      "tags": [
+        "MKT News",
+        "F.N",
+        "Impact bearish"
+      ],
+      "text": "NHTSA says Ford Motor Co. is recalling 565,691 vehicles in the U.S."
+    },
+    {
+      "id": "5006168",
+      "time": "2026-07-24 15:05:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "福特汽車公司將在美國召回565,691輛汽車。"
+    },
+    {
+      "id": "5006167",
+      "time": "2026-07-24 15:05:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【斯泰蘭蒂斯（上海）汽車有限公司召回部分進口朱麗葉、斯坦維汽車】日前，斯泰蘭蒂斯（上海）汽車有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0072V：自即日起，召回2017年1月19日至2019年7月30日期間生產的部分進口朱麗葉、斯坦維汽車，共計17360輛。本次召回範圍內的部分車輛，由於設計原因，低壓燃油泵可能無法正常輸出燃油，導致供油不足。極端情況下，可能造成行駛中發動機熄火，存在安全隱患。"
+    },
+    {
+      "id": "5006166",
+      "time": "2026-07-24 15:05:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "維美德第二季度股價飆升28%；正在考慮將公司拆分為兩家公司。"
+    },
+    {
+      "id": "mkt:019f92f1-664e-7aab-8e7d-dbbab15b520c",
+      "time": "2026-07-24 15:05:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MERZ: Linnemann will be appointed health minister."
+    },
+    {
+      "id": "mkt:019f92f1-326a-7aab-8e7d-d69228052a74",
+      "time": "2026-07-24 15:05:08",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【Three ministries issue pilot environmental protection tax for volatile organic compounds】Three ministries including the Ministry of Finance issued Implementation Measures for a pilot environmental protection tax on volatile organic compounds (VOCs). Initial pilot industries are: printing; petroleum, coal and other fuel processing; chemical raw materials and chemical products manufacturing; pharmaceutical manufacturing; iron and steel smelting; general and special equipment manufacturing; and automobile manufacturing, classified per China’s national economic industry classification. Authorities said other sectors subject to VOC controls will be added to the pilot as appropriate."
+    },
+    {
+      "id": "mkt:019f92f1-26b2-7aab-8e7d-c83bfc77a21f",
+      "time": "2026-07-24 15:05:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD"
+      ],
+      "text": "France preliminary July manufacturing PMI due in 10 minutes."
+    },
+    {
+      "id": "5006165",
+      "time": "2026-07-24 15:04:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "育碧股價在第一財季銷售額公佈後下跌4.3%。"
+    },
+    {
+      "id": "5006164",
+      "time": "2026-07-24 15:04:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：林內曼將被任命為衛生部長。"
+    },
+    {
+      "id": "5006163",
+      "time": "2026-07-24 15:04:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平主席特使陰和俊將出席秘魯總統權力交接儀式】外交部發言人宣佈：應秘魯共和國政府邀請，國家主席習近平特使、科技部部長陰和俊將赴秘魯首都利馬出席於7月27日至28日舉行的秘魯總統權力交接儀式。"
+    },
+    {
+      "id": "5006162",
+      "time": "2026-07-24 15:04:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "大眾汽車(VOLKSWAGEN AG) <VOWG.DE> 在公佈業績和展望後股價下跌3%。"
+    },
+    {
+      "id": "5006161",
+      "time": "2026-07-24 15:04:01",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "倫敦 Wise 集團股價下跌7.8%，此前該集團宣佈美國貨幣監理署已拒絕其申請國家信託銀行牌照的請求。"
+    },
+    {
+      "id": "5006160",
+      "time": "2026-07-24 15:03:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【三部門：徵收揮發性有機物環境保護稅試點】財政部等三部門印發《徵收揮發性有機物環境保護稅試點實施辦法》的通知。首批納入徵收試點範圍的行業包括：印刷業；石油、煤炭及其他燃料加工業；化學原料和化學制品製造業；醫藥製造業；鍊鐵、鍊鋼業；通用裝置製造業；專用裝置製造業；汽車製造業。上述行業根據國民經濟行業分類確定。結合試點情況，適時將涉及揮發性有機物管控的其他行業全面納入徵收試點範圍。"
+    },
+    {
+      "id": "5006159",
+      "time": "2026-07-24 15:03:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：尼娜·瓦爾肯將被任命為幕僚長。"
+    },
+    {
+      "id": "5006158",
+      "time": "2026-07-24 15:03:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古巴譴責美國對古新一輪制裁】針對美國政府23日宣佈的對古巴新一輪制裁，古巴外交部長羅德里格斯當天在社交媒體發文，譴責美國政府企圖透過經濟封鎖對全體古巴人民實施“集體懲罰”，並在古巴挑動人道主義危機。羅德里格斯強調，美國針對古巴國際醫療合作專案的打擊，無異於侵犯世界許多地區數十萬民眾享有醫療衛生服務的基本的人權。古巴因向國際社會提供公認的人道主義與團結互助服務，反而遭美方懲罰。（新華社）"
+    },
+    {
+      "id": "mkt:019f92ef-981b-7aab-8e7d-c632c939cf84",
+      "time": "2026-07-24 15:03:23",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "German chancellor Merz said Nina Warken will be appointed chief of staff."
+    },
+    {
+      "id": "5006157",
+      "time": "2026-07-24 15:03:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "在媒體報道阿卡迪斯遭收購意向後，該公司股價延續週四漲勢，當前漲幅擴大至5.4%。"
+    },
+    {
+      "id": "5006156",
+      "time": "2026-07-24 15:02:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報5128.01億元，較昨日此時放量360.2億元】截至目前，ETF兩市成交額報5128.01億元，較昨日此時放量360.2億元，分型別來看，股票型ETF成交額1788.23億元，債券型ETF成交額2080.84億元，貨幣型ETF成交額307.1億元，商品型ETF成交額68.98億元，QDII型ETF成交額882.86億元。"
+    },
+    {
+      "id": "mkt:019f92ee-dfd6-7aab-8e7d-be62f013ee4e",
+      "time": "2026-07-24 15:02:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Over 29 million farm households sign 30-year extensions in second-round land-contract pilot】At a July 24 press briefing, the Ministry of Agriculture and Rural Affairs said China is advancing province-wide pilots to extend expiring second-round land contracts for another 30 years; to date more than 29 million farm households have signed extension contracts."
+    },
+    {
+      "id": "5006155",
+      "time": "2026-07-24 15:02:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2900多萬農戶順利簽訂二輪到期土地延包合同】農業農村部7月24日在國新辦舉行的新聞釋出會上釋出資訊顯示，我國紮實推進第二輪土地承包到期後再延長30年整省試點，截至目前2900多萬農戶順利簽訂延包合同。（新華社）"
+    },
+    {
+      "id": "mkt:019f92ee-db72-7aab-8e7d-b248b47f55e8",
+      "time": "2026-07-24 15:02:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Over 29 million Chinese farm households sign 30-year land contract extensions in second-round pilot】The Ministry of Agriculture and Rural Affairs said at a July 24 briefing China is advancing province‑wide pilots to extend second‑round rural land contract terms by 30 years; as of the briefing more than 29 million farm households have signed extension contracts."
+    },
+    {
+      "id": "5006154",
+      "time": "2026-07-24 15:02:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "訊息人士稱，印度將為銀行、保險公司推出統一客戶標識，共同基金領域後續也將推行該制度。"
+    },
+    {
+      "id": "mkt:019f92ee-a06a-7aab-8e7d-ac32e7266620",
+      "time": "2026-07-24 15:02:19",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "Swiss National Bank says it will neither try to prevent adjustments in the international balance of payments nor seek to secure an undue competitive advantage for the Swiss economy."
+    },
+    {
+      "id": "mkt:019f92ee-99e5-7aab-8e7d-a7793808aa44",
+      "time": "2026-07-24 15:02:18",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite Index closed down 62.58 points (-1.61%) at 3,814.20 on July 24 (Friday); Shenzhen Composite Index closed down 348.63 points (-2.47%) at 13,774.68; CSI 300 Index closed down 78.81 points (-1.67%) at 4,649.19; ChiNext Index closed down 94.65 points (-2.65%) at 3,480.87; STAR 50 Index closed down 2.49 points (-0.14%) at 1,787.20."
+    },
+    {
+      "id": "mkt:019f92ee-951f-7aab-8e7d-988115deb7c0",
+      "time": "2026-07-24 15:02:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China autumn grain sowing area steady; crop growth broadly normal — agriculture ministry】China’s autumn grain sowing area is steady with a slight increase and in-field crop growth is broadly normal, providing a sound basis to secure the full-year grain harvest, the Ministry of Agriculture and Rural Affairs said at a July 24 press briefing."
+    },
+    {
+      "id": "5006153",
+      "time": "2026-07-24 15:02:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行：瑞士央行不參與操縱瑞士法郎。既不試圖阻止國際收支的調整，也不試圖為瑞士經濟獲取不當的競爭優勢。"
+    },
+    {
+      "id": "5006152",
+      "time": "2026-07-24 15:02:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【秋糧作物長勢總體正常 奪取全年糧食豐收有較好基礎】農業農村部7月24日在國新辦舉行的新聞釋出會上釋出資訊顯示，今年我國秋糧種植面積穩中略增，在田作物長勢總體正常，奪取全年糧食豐收有較好基礎。"
+    },
+    {
+      "id": "mkt:019f92ee-46a8-7aab-8e7d-948bf2f8a867",
+      "time": "2026-07-24 15:01:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【July 24: China stocks turnover CNY1.93trn; Zhongji Xuchuang tops by turnover】July 24 — Shanghai and Shenzhen combined turnover CNY1.93 trillion, down CNY264.16 billion from the prior session. Shanghai turnover CNY915.37 billion (prior CNY1,025.88 billion); volume 508 million lots (prior 562 million). Shenzhen turnover CNY1,015.77 billion (prior CNY1,169.43 billion); volume 569 million lots (prior 626 million). Top stocks by turnover: Zhongji Xuchuang CNY22.94 billion, GigaDevice CNY22.86 billion, Tongfu Microelectronics CNY19.82 billion, Xinyisheng CNY16.32 billion, Tsinghua Unigroup CNY15.22 billion."
+    },
+    {
+      "id": "mkt:019f92ee-3f90-7aab-8e7d-8c923cfad1c4",
+      "time": "2026-07-24 15:01:55",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Stock index futures midday close】A-share index futures at midday: CSI 300 (IF) most-active contract down 1.73pct; SSE 50 (IH) down 1.28pct; CSI 500 (IC) down 2.35pct; CSI 1000 (IM) down 2.67pct."
+    },
+    {
+      "id": "5006151",
+      "time": "2026-07-24 15:01:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SAP股價上漲4.2%，此前該公司公佈第二季度業績超出預期。"
+    },
+    {
+      "id": "mkt:019f92ee-07eb-7aab-8e7d-86c8048ed1ab",
+      "time": "2026-07-24 15:01:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank says it does not participate in manipulation of the Swiss franc."
+    },
+    {
+      "id": "mkt:019f92ed-ee50-7aab-8e7d-7a39b08b1313",
+      "time": "2026-07-24 15:01:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Slovak President Pellegrini to make state visit to China July 27-29】At the invitation of CHINA, Slovak President Pellegrini will make a state visit to China from July 27 to 29, the foreign ministry said."
+    },
+    {
+      "id": "5006150",
+      "time": "2026-07-24 15:01:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【斯洛伐克總統佩列格里尼將對中國進行國事訪問】外交部發言人宣佈：應國家主席習近平邀請，斯洛伐克總統佩列格里尼將於7月27日至29日對中國進行國事訪問。"
+    },
+    {
+      "id": "mkt:019f92ed-bb7e-7aab-8e7d-76064b17e0ae",
+      "time": "2026-07-24 15:01:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "European equities opened mixed on July 24 (Friday): Germany's DAX rose 79.88 pts (+0.32%) to 24,789.21; UK's FTSE 100 fell 29.74 pts (-0.28%) to 10,609.43; France's CAC 40 fell 18.34 pts (-0.22%) to 8,280.75; Euro Stoxx 50 down 0.07 pts (0.00%) at 6,210.10; Spain's IBEX 35 rose 24.25 pts (+0.13%) to 19,291.25; Italy's FTSE MIB rose 13.16 pts (+0.03%) to 51,329.00."
+    },
+    {
+      "id": "5006149",
+      "time": "2026-07-24 15:01:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古上半年GDP同比增長4.5%】內蒙古自治區統計局、國家統計局內蒙古調查總隊公佈資料顯示，根據地區生產總值統一核算結果，上半年全區地區生產總值12810億元，按不變價格計算，同比增長4.5%。分產業看，第一產業增加值425億元，同比增長4.4%；第二產業增加值5920億元，增長5.1%；第三產業增加值6466億元，增長3.9%。"
+    },
+    {
+      "id": "5006148",
+      "time": "2026-07-24 15:01:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF收評：科創半導體裝置ETF領漲3.63%，工業有色ETF領跌5.5%】ETF收盤漲跌不一，科創半導體裝置ETF（588710）領漲3.63%，科創半導體ETF（588170）漲3.37%，科創半導體裝置ETF（589020）漲3.36%，工業有色ETF（159032）領跌5.5%，黃金股ETF（517520）跌5.36%，黃金股ETF（159562）跌5.31%。"
+    },
+    {
+      "id": "mkt:019f92ed-9ef7-7aab-8e7d-6ec627c4b655",
+      "time": "2026-07-24 15:01:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "By midday close, China's main futures contracts were mixed: palladium fell nearly 6%, platinum dropped over 4%, Shanghai silver fell nearly 4%; Shanghai gold, polysilicon, live hogs and eggs were down more than 2%. SC crude rose over 4%, rapeseed meal gained nearly 4%, ethylene glycol (EG) climbed over 3% and rapeseed oil rose more than 2%."
+    },
+    {
+      "id": "5006147",
+      "time": "2026-07-24 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數跌1.61%，深證成指跌2.47%，創業板指跌2.65%。"
+    },
+    {
+      "id": "5006146",
+      "time": "2026-07-24 15:00:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部北海局原正局級幹部劉刻福接受審查調查】據中央紀委國家監委駐自然資源部紀檢監察組、吉林省紀委監委訊息：自然資源部北海局原正局級幹部劉刻福涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐自然資源部紀檢監察組紀律審查和吉林省監委監察調查。"
+    },
     {
       "id": "mkt:019f92ed-4012-7aab-8e7d-67749cc5e27e",
       "time": "2026-07-24 15:00:49",
@@ -78,6 +453,14 @@
         "Important"
       ],
       "text": "Spain | Producer Price Index (MoM) (Jun) | actual 0% | previous 1.00%"
+    },
+    {
+      "id": "5006143",
+      "time": "2026-07-24 15:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克中央銀行將基準利率下調25個基點至16.75%，此前為17%。"
     },
     {
       "id": "5006142",
@@ -164068,239 +164451,6 @@
         "MKT News"
       ],
       "text": "UK police said a man has been charged with Iran-related offences."
-    },
-    {
-      "id": "mkt:019f6ee5-c339-7aab-8ddd-aef234805b19",
-      "time": "2026-07-17 15:06:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's CSI convertible bond index closed down 0.76% at 492.88. Shuiyang, Zhengfan and Yinwei convertible bonds fell 14.04%, 11.34% and 11.32% respectively; N Huafeng and N Dingtong convertible bonds rose 57.30% and 48.15%."
-    },
-    {
-      "id": "4993780",
-      "time": "2026-07-17 15:05:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【比依股份成立科技新公司 含智慧機器人業務】企查查APP顯示，近日，杭州靈知行科技有限公司成立，經營範圍包含：智慧機器人的研發；人工智慧硬體銷售；人工智慧應用軟體開發；半導體分立器件製造等。企查查股權穿透顯示，該公司由比依股份間接全資持股。"
-    },
-    {
-      "id": "mkt:019f6ee5-437d-7aab-8ddd-a70d6b7651be",
-      "time": "2026-07-17 15:05:46",
-      "tags": [
-        "MKT News",
-        "F.O",
-        "Impact bearish"
-      ],
-      "text": "The U.S. National Highway Traffic Safety Administration said Ford Motor Co. is recalling 288,314 vehicles in the United States."
-    },
-    {
-      "id": "4993779",
-      "time": "2026-07-17 15:05:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國防部：希望有關方客觀理性看待中俄軍事合作】7月17日下午，國防部新聞發言人蔣斌大校就近期涉軍問題釋出訊息。\n\n記者：據報道，近期中俄兩國海軍舉行聯合演習及海上聯合巡航。有分析稱，此次聯演恰逢美盟開展系列聯演之際，表明中俄致力於打破美西方主導的世界格局。請問對此有何評論？\n\n蔣斌：近期，中俄“海上聯合-2026”聯合演習位青島附近海空域成功舉行，雙方參演部隊圍繞聯合偵察、防空反導等多個課目展開演練，順利完成了各項任務，目前已轉入海上聯合巡航階段。上述活動是中俄兩軍年度合作計劃內安排，旨在提升兩軍聯合行動能力、共同應對海上安全威脅，與當前國際和地區局勢無關。\n\n需要強調的是，中俄兩軍合作始終堅持不結盟、不對抗、不針對第三方的原則，為捍衛兩國主權安全、維護國際與地區和平穩定發揮了重要作用。我們希望有關方客觀理性看待中俄軍事合作，停止主觀臆測和抹黑炒作。"
-    },
-    {
-      "id": "4993778",
-      "time": "2026-07-17 15:05:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達40億港元。"
-    },
-    {
-      "id": "mkt:019f6ee4-c8f6-7aab-8ddd-9df05348aa06",
-      "time": "2026-07-17 15:05:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "DAX",
-        "Impact bearish"
-      ],
-      "text": "German semiconductor stocks fell 3.0–5.6%."
-    },
-    {
-      "id": "mkt:019f6ee4-a4f2-7aab-8ddd-94ae57dec697",
-      "time": "2026-07-17 15:05:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Swiss government said it will expand international cooperation on ammunition procurement."
-    },
-    {
-      "id": "mkt:019f6ee4-81c1-7aab-8ddd-8f69994a8a91",
-      "time": "2026-07-17 15:04:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "Chip Wars",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component"
-      ],
-      "text": "【A‑shares close: three major indices oscillated lower in afternoon; ChiNext down >7%】A‑shares opened lower and slid through the session; ChiNext briefly fell more than 8% intraday and closed down 7.15%. Shanghai Composite -3.05%; Shenzhen Component -5.40%. Combined turnover 2.65 trillion yuan, up 251.4 billion yuan vs prior session. Power sector outperformed, with several regional generators hitting daily limit-ups and Jiawei New Energy up >10%. Major banks showed resilience: China Construction Bank, Bank of China, Industrial & Commercial Bank of China and Agricultural Bank of China led gains. Semiconductor names plunged — multiple chip stocks hit limit-down and more than 50 stocks fell >10%. CRO/contract drug‑development stocks and optical‑fiber/telecom equipment sectors also sharply corrected, with numerous limit-downs and widespread >10% declines (ZTE among the weak names)."
-    },
-    {
-      "id": "mkt:019f6ee4-4151-7aab-8ddd-8205dcbe23cf",
-      "time": "2026-07-17 15:04:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "At the midday close, China's most-active futures contracts were mostly lower. Palladium tumbled over 5%; platinum and glass fell more than 4%. SHFE silver, PVC, soda ash, red dates and polysilicon monthly average prices dropped over 3%. On the upside, container freight on the Europe route gained nearly 4%; SHFE lead, asphalt and low-sulfur fuel oil rose over 1%."
-    },
-    {
-      "id": "mkt:019f6ee4-307a-7aab-8ddd-7cafca226ffc",
-      "time": "2026-07-17 15:04:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Hong Kong SAR Legislative Council passes Huanggang Port Hong Kong Port Area Ordinance at third reading】Hong Kong SAR Legislative Council today (17th) passed the Huanggang Port Hong Kong Port Area Ordinance at its third reading."
-    },
-    {
-      "id": "mkt:019f6ee3-f7e7-7aab-8ddd-720ebb5d67a6",
-      "time": "2026-07-17 15:04:20",
-      "tags": [
-        "MKT News",
-        "ENR.DE",
-        "Impact bearish"
-      ],
-      "text": "Siemens Energy shares fell 3%."
-    },
-    {
-      "id": "mkt:019f6ee3-f515-7aab-8ddd-6d499f10364a",
-      "time": "2026-07-17 15:04:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China equities closed sharply lower on Friday, July 17: Shanghai Composite Index down 3.05% at 3,764.15; Shenzhen Composite Index down 5.40% at 13,706.88; CSI 300 Index down 3.60% at 4,529.10; ChiNext Index down 7.15% at 3,428.63; STAR 50 Index down 7.12% at 1,715.40."
-    },
-    {
-      "id": "4993777",
-      "time": "2026-07-17 15:04:18",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【特朗普1.5萬億美元國防預算遇阻 共和黨加急撥款600億填補伊朗戰爭缺口】美國眾議院共和黨人為支撐對伊朗戰事推出的最新撥款方案，或將徹底擊碎特朗普敲定1.5萬億美元國防總預算的設想。 中東戰事大量消耗攔截導彈與各類彈藥庫存，給美國國防部賬面留下鉅額資金窟窿。共和黨高層正加急推動一項600億美元專項法案填補缺口。為繞開參議院民主黨方面的阻撓，共和黨打算啟用預算和解程式推進該法案——該特殊立法流程無需湊齊參議院常規所需60票終結冗長辯論，僅需簡單多數即可透過法案。 特朗普政府官員此前曾敦促議員先出臺規模更小的法案，優先滿足戰時緊急資金需求。但這一方案會重創特朗普這份體量驚人的國防預算藍圖：總統原本計劃，1.5萬億總預算中，拿出3500億美元同樣走這套預算和解通道獲批落地。 今年春季國會已經單獨透過一份700億美元和解法案，用於移民管控與邊境巡邏專案撥款。參眾兩院共和黨均僅握有微弱多數席位，在中期選舉臨近的情況下，本年度接連再推出兩份和解法案，在政治層面幾乎沒有可行性。"
-    },
-    {
-      "id": "4993776",
-      "time": "2026-07-17 15:04:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿斯麥股價在阿姆斯特丹下跌 4.2%。"
-    },
-    {
-      "id": "mkt:019f6ee3-f1da-7aab-8ddd-60d165e9018a",
-      "time": "2026-07-17 15:04:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【China raises retail fuel prices from 24:00 July 17; 50L tank of 92 gasoline costs 12 yuan more】The NDRC Price Monitoring Center said international oil prices rose over the current pricing cycle (24:00 July 3–24:00 July 17). Effective 24:00 on July 17, domestic retail caps for gasoline and diesel are increased by 300 yuan/ton and 290 yuan/ton, respectively. Nationwide average retail adjustments: 92 gasoline +0.24 yuan/L, 95 gasoline +0.25 yuan/L, 0 diesel +0.25 yuan/L. A 50L fill of 92 gasoline will cost an extra 12 yuan."
-    },
-    {
-      "id": "mkt:019f6ee3-f19e-7aab-8ddd-5b19b6e840ba",
-      "time": "2026-07-17 15:04:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shanghai, Shenzhen combined turnover CNY 2.655 tln on July 17; Zhongji Xuchuang tops turnover】July 17 — Shanghai and Shenzhen combined turnover was CNY 2.655 tln, up CNY 251.39 bln from the prior session. Shanghai turnover CNY 1.246 tln (prior CNY 1.124 tln); traded volume 650 mln lots (prior 535 mln). Shenzhen turnover CNY 1.409 tln (prior CNY 1.279 tln); traded volume 764 mln lots (prior 666 mln). Top stocks by turnover: Zhongji Xuchuang CNY 56.49 bln, Xinyisheng CNY 37.49 bln, Zhaoyi Chuangxin CNY 32.12 bln, Dongshan Jingmi CNY 26.77 bln, Changdian Keji CNY 20.78 bln."
-    },
-    {
-      "id": "4993775",
-      "time": "2026-07-17 15:04:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《皇崗口岸港方口岸區條例草案》獲香港特區立法會三讀透過】香港特區立法會今日（17日）三讀透過《皇崗口岸港方口岸區條例草案》。"
-    },
-    {
-      "id": "4993774",
-      "time": "2026-07-17 15:03:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國警方：週三逮捕一名男子，調查與伊朗有關。"
-    },
-    {
-      "id": "mkt:019f6ee3-e24a-7aab-8ddd-51335239a713",
-      "time": "2026-07-17 15:03:55",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "【China equity index futures midday close】At midday, China equity index futures main contracts: CSI 300 (IF) -3.53%, SSE 50 (IH) -2.46%, CSI 500 (IC) -6.09%, CSI 1000 (IM) -6.48%."
-    },
-    {
-      "id": "mkt:019f6ee3-e1bb-7aab-8ddd-4b4f85e5f0ed",
-      "time": "2026-07-17 15:03:55",
-      "tags": [
-        "MKT News",
-        "VOW3.DE"
-      ],
-      "text": "Volkswagen's works council said it will hold a special all-staff meeting with CEO Blume after the summer break."
-    },
-    {
-      "id": "mkt:019f6ee3-79a6-7aab-8ddd-3cbb97fb4b2f",
-      "time": "2026-07-17 15:03:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【National Supercomputing Internet launches scientific AI‑agent co‑creation program】At the 2026 World Artificial Intelligence Conference, China’s National Supercomputing Internet launched a six‑month “Scientific Computing AI‑Agent Ecosystem Co‑creation and Developer Recruitment Program.” The initiative will solicit AI agents, research models, MCP tools and Skills from universities, research institutes, individual developers and corporate R&D teams to build an open, collaborative scientific‑intelligence ecosystem."
-    },
-    {
-      "id": "mkt:019f6ee3-923f-7aab-8ddd-4471bd83dc32",
-      "time": "2026-07-17 15:03:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "European equities opened broadly lower: Euro Stoxx 50 -1.03%, Germany's DAX -0.61%, Britain's FTSE 100 -0.21%; Italy's FTSE MIB down 1.00% intraday."
-    },
-    {
-      "id": "4993773",
-      "time": "2026-07-17 15:02:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞士政府表示將擴大彈藥採購方面的國際合作。"
     }
   ]
 }

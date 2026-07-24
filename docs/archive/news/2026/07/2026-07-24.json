@@ -1,7 +1,382 @@
 {
   "date": "2026-07-24",
-  "count": 1500,
+  "count": 1542,
   "items": [
+    {
+      "id": "mkt:019f92f1-e733-7aab-8e7d-ea319866e178",
+      "time": "2026-07-24 15:05:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【SCFI composite 3,062.95; CCFI composite 1,901.27】As of July 24, the Shanghai Shipping Exchange reported the SCFI (Shanghai export container freight composite index) at 3,062.95, down 17.36 points from the prior period. The CCFI (China export container freight composite index) was 1,901.27, down 0.5% from the prior period."
+    },
+    {
+      "id": "5006169",
+      "time": "2026-07-24 15:05:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SCFI綜合指數報3062.95點，CCFI綜合指數報1901.27點】上海航運交易所資料顯示，截至7月24日，上海出口集裝箱運價指數（綜合指數）SCFI報3062.95點，與上期相比下跌17.36點。中國出口集裝箱運價綜合指數CCFI報1901.27點，與上期相比跌0.5%。"
+    },
+    {
+      "id": "mkt:019f92f1-c377-7aab-8e7d-e71fe50fe733",
+      "time": "2026-07-24 15:05:45",
+      "tags": [
+        "MKT News",
+        "F.N",
+        "Impact bearish"
+      ],
+      "text": "NHTSA says Ford Motor Co. is recalling 565,691 vehicles in the U.S."
+    },
+    {
+      "id": "5006168",
+      "time": "2026-07-24 15:05:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "福特汽車公司將在美國召回565,691輛汽車。"
+    },
+    {
+      "id": "5006167",
+      "time": "2026-07-24 15:05:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【斯泰蘭蒂斯（上海）汽車有限公司召回部分進口朱麗葉、斯坦維汽車】日前，斯泰蘭蒂斯（上海）汽車有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0072V：自即日起，召回2017年1月19日至2019年7月30日期間生產的部分進口朱麗葉、斯坦維汽車，共計17360輛。本次召回範圍內的部分車輛，由於設計原因，低壓燃油泵可能無法正常輸出燃油，導致供油不足。極端情況下，可能造成行駛中發動機熄火，存在安全隱患。"
+    },
+    {
+      "id": "mkt:019f92f1-664e-7aab-8e7d-dbbab15b520c",
+      "time": "2026-07-24 15:05:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MERZ: Linnemann will be appointed health minister."
+    },
+    {
+      "id": "5006166",
+      "time": "2026-07-24 15:05:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "維美德第二季度股價飆升28%；正在考慮將公司拆分為兩家公司。"
+    },
+    {
+      "id": "mkt:019f92f1-326a-7aab-8e7d-d69228052a74",
+      "time": "2026-07-24 15:05:08",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【Three ministries issue pilot environmental protection tax for volatile organic compounds】Three ministries including the Ministry of Finance issued Implementation Measures for a pilot environmental protection tax on volatile organic compounds (VOCs). Initial pilot industries are: printing; petroleum, coal and other fuel processing; chemical raw materials and chemical products manufacturing; pharmaceutical manufacturing; iron and steel smelting; general and special equipment manufacturing; and automobile manufacturing, classified per China’s national economic industry classification. Authorities said other sectors subject to VOC controls will be added to the pilot as appropriate."
+    },
+    {
+      "id": "mkt:019f92f1-26b2-7aab-8e7d-c83bfc77a21f",
+      "time": "2026-07-24 15:05:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD"
+      ],
+      "text": "France preliminary July manufacturing PMI due in 10 minutes."
+    },
+    {
+      "id": "5006165",
+      "time": "2026-07-24 15:04:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "育碧股價在第一財季銷售額公佈後下跌4.3%。"
+    },
+    {
+      "id": "5006164",
+      "time": "2026-07-24 15:04:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：林內曼將被任命為衛生部長。"
+    },
+    {
+      "id": "5006163",
+      "time": "2026-07-24 15:04:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平主席特使陰和俊將出席秘魯總統權力交接儀式】外交部發言人宣佈：應秘魯共和國政府邀請，國家主席習近平特使、科技部部長陰和俊將赴秘魯首都利馬出席於7月27日至28日舉行的秘魯總統權力交接儀式。"
+    },
+    {
+      "id": "5006162",
+      "time": "2026-07-24 15:04:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "大眾汽車(VOLKSWAGEN AG) <VOWG.DE> 在公佈業績和展望後股價下跌3%。"
+    },
+    {
+      "id": "5006161",
+      "time": "2026-07-24 15:04:01",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "倫敦 Wise 集團股價下跌7.8%，此前該集團宣佈美國貨幣監理署已拒絕其申請國家信託銀行牌照的請求。"
+    },
+    {
+      "id": "5006160",
+      "time": "2026-07-24 15:03:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【三部門：徵收揮發性有機物環境保護稅試點】財政部等三部門印發《徵收揮發性有機物環境保護稅試點實施辦法》的通知。首批納入徵收試點範圍的行業包括：印刷業；石油、煤炭及其他燃料加工業；化學原料和化學制品製造業；醫藥製造業；鍊鐵、鍊鋼業；通用裝置製造業；專用裝置製造業；汽車製造業。上述行業根據國民經濟行業分類確定。結合試點情況，適時將涉及揮發性有機物管控的其他行業全面納入徵收試點範圍。"
+    },
+    {
+      "id": "5006159",
+      "time": "2026-07-24 15:03:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：尼娜·瓦爾肯將被任命為幕僚長。"
+    },
+    {
+      "id": "5006158",
+      "time": "2026-07-24 15:03:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古巴譴責美國對古新一輪制裁】針對美國政府23日宣佈的對古巴新一輪制裁，古巴外交部長羅德里格斯當天在社交媒體發文，譴責美國政府企圖透過經濟封鎖對全體古巴人民實施“集體懲罰”，並在古巴挑動人道主義危機。羅德里格斯強調，美國針對古巴國際醫療合作專案的打擊，無異於侵犯世界許多地區數十萬民眾享有醫療衛生服務的基本的人權。古巴因向國際社會提供公認的人道主義與團結互助服務，反而遭美方懲罰。（新華社）"
+    },
+    {
+      "id": "mkt:019f92ef-981b-7aab-8e7d-c632c939cf84",
+      "time": "2026-07-24 15:03:23",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "German chancellor Merz said Nina Warken will be appointed chief of staff."
+    },
+    {
+      "id": "5006157",
+      "time": "2026-07-24 15:03:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "在媒體報道阿卡迪斯遭收購意向後，該公司股價延續週四漲勢，當前漲幅擴大至5.4%。"
+    },
+    {
+      "id": "5006156",
+      "time": "2026-07-24 15:02:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報5128.01億元，較昨日此時放量360.2億元】截至目前，ETF兩市成交額報5128.01億元，較昨日此時放量360.2億元，分型別來看，股票型ETF成交額1788.23億元，債券型ETF成交額2080.84億元，貨幣型ETF成交額307.1億元，商品型ETF成交額68.98億元，QDII型ETF成交額882.86億元。"
+    },
+    {
+      "id": "mkt:019f92ee-dfd6-7aab-8e7d-be62f013ee4e",
+      "time": "2026-07-24 15:02:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Over 29 million farm households sign 30-year extensions in second-round land-contract pilot】At a July 24 press briefing, the Ministry of Agriculture and Rural Affairs said China is advancing province-wide pilots to extend expiring second-round land contracts for another 30 years; to date more than 29 million farm households have signed extension contracts."
+    },
+    {
+      "id": "mkt:019f92ee-db72-7aab-8e7d-b248b47f55e8",
+      "time": "2026-07-24 15:02:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Over 29 million Chinese farm households sign 30-year land contract extensions in second-round pilot】The Ministry of Agriculture and Rural Affairs said at a July 24 briefing China is advancing province‑wide pilots to extend second‑round rural land contract terms by 30 years; as of the briefing more than 29 million farm households have signed extension contracts."
+    },
+    {
+      "id": "5006155",
+      "time": "2026-07-24 15:02:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2900多萬農戶順利簽訂二輪到期土地延包合同】農業農村部7月24日在國新辦舉行的新聞釋出會上釋出資訊顯示，我國紮實推進第二輪土地承包到期後再延長30年整省試點，截至目前2900多萬農戶順利簽訂延包合同。（新華社）"
+    },
+    {
+      "id": "5006154",
+      "time": "2026-07-24 15:02:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "訊息人士稱，印度將為銀行、保險公司推出統一客戶標識，共同基金領域後續也將推行該制度。"
+    },
+    {
+      "id": "mkt:019f92ee-a06a-7aab-8e7d-ac32e7266620",
+      "time": "2026-07-24 15:02:19",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "Swiss National Bank says it will neither try to prevent adjustments in the international balance of payments nor seek to secure an undue competitive advantage for the Swiss economy."
+    },
+    {
+      "id": "mkt:019f92ee-99e5-7aab-8e7d-a7793808aa44",
+      "time": "2026-07-24 15:02:18",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite Index closed down 62.58 points (-1.61%) at 3,814.20 on July 24 (Friday); Shenzhen Composite Index closed down 348.63 points (-2.47%) at 13,774.68; CSI 300 Index closed down 78.81 points (-1.67%) at 4,649.19; ChiNext Index closed down 94.65 points (-2.65%) at 3,480.87; STAR 50 Index closed down 2.49 points (-0.14%) at 1,787.20."
+    },
+    {
+      "id": "mkt:019f92ee-951f-7aab-8e7d-988115deb7c0",
+      "time": "2026-07-24 15:02:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China autumn grain sowing area steady; crop growth broadly normal — agriculture ministry】China’s autumn grain sowing area is steady with a slight increase and in-field crop growth is broadly normal, providing a sound basis to secure the full-year grain harvest, the Ministry of Agriculture and Rural Affairs said at a July 24 press briefing."
+    },
+    {
+      "id": "5006153",
+      "time": "2026-07-24 15:02:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行：瑞士央行不參與操縱瑞士法郎。既不試圖阻止國際收支的調整，也不試圖為瑞士經濟獲取不當的競爭優勢。"
+    },
+    {
+      "id": "5006152",
+      "time": "2026-07-24 15:02:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【秋糧作物長勢總體正常 奪取全年糧食豐收有較好基礎】農業農村部7月24日在國新辦舉行的新聞釋出會上釋出資訊顯示，今年我國秋糧種植面積穩中略增，在田作物長勢總體正常，奪取全年糧食豐收有較好基礎。"
+    },
+    {
+      "id": "mkt:019f92ee-46a8-7aab-8e7d-948bf2f8a867",
+      "time": "2026-07-24 15:01:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【July 24: China stocks turnover CNY1.93trn; Zhongji Xuchuang tops by turnover】July 24 — Shanghai and Shenzhen combined turnover CNY1.93 trillion, down CNY264.16 billion from the prior session. Shanghai turnover CNY915.37 billion (prior CNY1,025.88 billion); volume 508 million lots (prior 562 million). Shenzhen turnover CNY1,015.77 billion (prior CNY1,169.43 billion); volume 569 million lots (prior 626 million). Top stocks by turnover: Zhongji Xuchuang CNY22.94 billion, GigaDevice CNY22.86 billion, Tongfu Microelectronics CNY19.82 billion, Xinyisheng CNY16.32 billion, Tsinghua Unigroup CNY15.22 billion."
+    },
+    {
+      "id": "mkt:019f92ee-3f90-7aab-8e7d-8c923cfad1c4",
+      "time": "2026-07-24 15:01:55",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Stock index futures midday close】A-share index futures at midday: CSI 300 (IF) most-active contract down 1.73pct; SSE 50 (IH) down 1.28pct; CSI 500 (IC) down 2.35pct; CSI 1000 (IM) down 2.67pct."
+    },
+    {
+      "id": "5006151",
+      "time": "2026-07-24 15:01:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SAP股價上漲4.2%，此前該公司公佈第二季度業績超出預期。"
+    },
+    {
+      "id": "mkt:019f92ee-07eb-7aab-8e7d-86c8048ed1ab",
+      "time": "2026-07-24 15:01:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank says it does not participate in manipulation of the Swiss franc."
+    },
+    {
+      "id": "mkt:019f92ed-ee50-7aab-8e7d-7a39b08b1313",
+      "time": "2026-07-24 15:01:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Slovak President Pellegrini to make state visit to China July 27-29】At the invitation of CHINA, Slovak President Pellegrini will make a state visit to China from July 27 to 29, the foreign ministry said."
+    },
+    {
+      "id": "5006150",
+      "time": "2026-07-24 15:01:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【斯洛伐克總統佩列格里尼將對中國進行國事訪問】外交部發言人宣佈：應國家主席習近平邀請，斯洛伐克總統佩列格里尼將於7月27日至29日對中國進行國事訪問。"
+    },
+    {
+      "id": "mkt:019f92ed-bb7e-7aab-8e7d-76064b17e0ae",
+      "time": "2026-07-24 15:01:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "European equities opened mixed on July 24 (Friday): Germany's DAX rose 79.88 pts (+0.32%) to 24,789.21; UK's FTSE 100 fell 29.74 pts (-0.28%) to 10,609.43; France's CAC 40 fell 18.34 pts (-0.22%) to 8,280.75; Euro Stoxx 50 down 0.07 pts (0.00%) at 6,210.10; Spain's IBEX 35 rose 24.25 pts (+0.13%) to 19,291.25; Italy's FTSE MIB rose 13.16 pts (+0.03%) to 51,329.00."
+    },
+    {
+      "id": "5006149",
+      "time": "2026-07-24 15:01:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古上半年GDP同比增長4.5%】內蒙古自治區統計局、國家統計局內蒙古調查總隊公佈資料顯示，根據地區生產總值統一核算結果，上半年全區地區生產總值12810億元，按不變價格計算，同比增長4.5%。分產業看，第一產業增加值425億元，同比增長4.4%；第二產業增加值5920億元，增長5.1%；第三產業增加值6466億元，增長3.9%。"
+    },
+    {
+      "id": "mkt:019f92ed-9ef7-7aab-8e7d-6ec627c4b655",
+      "time": "2026-07-24 15:01:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "By midday close, China's main futures contracts were mixed: palladium fell nearly 6%, platinum dropped over 4%, Shanghai silver fell nearly 4%; Shanghai gold, polysilicon, live hogs and eggs were down more than 2%. SC crude rose over 4%, rapeseed meal gained nearly 4%, ethylene glycol (EG) climbed over 3% and rapeseed oil rose more than 2%."
+    },
+    {
+      "id": "5006148",
+      "time": "2026-07-24 15:01:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF收評：科創半導體裝置ETF領漲3.63%，工業有色ETF領跌5.5%】ETF收盤漲跌不一，科創半導體裝置ETF（588710）領漲3.63%，科創半導體ETF（588170）漲3.37%，科創半導體裝置ETF（589020）漲3.36%，工業有色ETF（159032）領跌5.5%，黃金股ETF（517520）跌5.36%，黃金股ETF（159562）跌5.31%。"
+    },
+    {
+      "id": "5006147",
+      "time": "2026-07-24 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數跌1.61%，深證成指跌2.47%，創業板指跌2.65%。"
+    },
+    {
+      "id": "5006146",
+      "time": "2026-07-24 15:00:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部北海局原正局級幹部劉刻福接受審查調查】據中央紀委國家監委駐自然資源部紀檢監察組、吉林省紀委監委訊息：自然資源部北海局原正局級幹部劉刻福涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐自然資源部紀檢監察組紀律審查和吉林省監委監察調查。"
+    },
     {
       "id": "mkt:019f92ed-4012-7aab-8e7d-67749cc5e27e",
       "time": "2026-07-24 15:00:49",
@@ -78,6 +453,14 @@
         "Important"
       ],
       "text": "Spain | Producer Price Index (MoM) (Jun) | actual 0% | previous 1.00%"
+    },
+    {
+      "id": "5006143",
+      "time": "2026-07-24 15:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克中央銀行將基準利率下調25個基點至16.75%，此前為17%。"
     },
     {
       "id": "5006142",
