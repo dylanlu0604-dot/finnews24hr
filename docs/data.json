@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-24 12:09:46",
-  "count": 18001,
+  "updated": "2026-07-24 12:16:22",
+  "count": 17993,
   "items": [
+    {
+      "id": "5005919",
+      "time": "2026-07-24 12:12:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【機構：英特爾上調資本支出料將惠及晶片測試公司AEM】星展集團分析師Amanda Tan在一份報告中表示，英特爾計劃的產能擴張料將惠及晶片測試公司AEM的盈利。英特爾在公佈第二財季業績後，將其2026年資本支出從180億美元上調至200多億美元。該分析師表示，儘管考慮到晶圓廠成本較高，前端製造將佔投資的大部分，但英特爾也預計將擴大後端產能，這將惠及將英特爾視為主要客戶的AEM。與此同時，星展集團認為英特爾的言論對更廣泛的半導體行業來說是一個積極訊號。AEM的其他客戶可能會經歷同樣強勁的由人工智慧驅動的需求。"
+    },
+    {
+      "id": "5005918",
+      "time": "2026-07-24 12:11:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股瑛泰醫療“回A”輔導期捲入杭州“準獨角獸”股權糾紛，德諾電生理股東會兩議案遭投資方股東四大質疑】三個月前，“德諾系”公司——“準獨角獸”杭州德諾電生理醫療科技有限公司（簡稱德諾電生理）被投資方股東曝出存在“反稀釋權和優先清算權”的股東權利糾紛。近期，這起收購案又有了新的進展。記者從前新財富醫藥“一姐”張明芳處瞭解到，德諾電生理將於7月29日召開臨時股東會，審議上海辰耀基金和瑛泰醫療提供的增資方案以及修改公司章程議案。張明芳對這兩個議案的審議內容提出四點質疑：一是，本次增資是公司大股東為滿足一己之私所做的“預備動作”；二是，公司以5億元估值增資擴股已經觸發了投資方小股東的“反稀釋權”；三是，公司拒絕向包括馨瑞元福在內的股東提供財務報表、審計報告等重要資訊；四是，瑛泰醫療多次公告收購德諾系醫療資產，且多為低價收購控制權實現實控人股權退出。對此，上海明倫律師事務所王智斌律師向記者表示，公司法明確規定股東享有查閱、複製財務會計報告的權利，投資協議或股東協議中也通常對此有具體約定。在公司擬進行增資擴股的背景下，財務資訊是股東行使表決權的重要基礎，公司更應當以合理方式保障股東獲取相關檔案的權利。(每日經濟新聞)"
+    },
+    {
+      "id": "5005917",
+      "time": "2026-07-24 12:10:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方代表團有力駁斥日方攻擊抹黑】在菲律賓馬尼拉舉行的東盟地區論壇和東亞峰會外長會期間，日本炒作臺海、南海、中國威脅等問題，對此，中方代表團予以有力駁斥。關於臺灣問題，中方指出，臺灣問題是中國的內政。中國決不允許“臺獨”分裂勢力以任何名義、任何方式把臺灣從中國分裂出去。國際社會反對“臺獨”分裂活動的立場越鮮明，堅持一箇中國原則的立場越堅定，臺海的和平穩定就越有保障。關於南海問題，中方指出，作為世界上最繁忙、最安全、最自由的航道，每年全球30%的集裝箱、34%的液化天然氣和40%的原油運經南海，另有上百萬架次民用飛機在南海上空活動，沒有哪一艘船哪一架飛機受到過任何干擾和阻礙。倒是個別國家派軍艦和軍機不遠萬里來到南海挑事碰瓷。中國願繼續同有關直接當事國透過雙邊友好協商妥善解決有關爭議，同時同東盟國家一道全面有效落實《南海各方行為宣言》，爭取儘早達成“南海行為準則”，共同維護南海和平與穩定。外部勢力越少挑撥離間，越少煽風點火，地區國家越有信心和能力維護好本地區和平穩定。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f9251-5e2c-7aab-8e7a-23f5057f2c0e",
+      "time": "2026-07-24 12:10:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Federation of Thai Industries expects Thailand's automobile production in 2026 to decline 3.33%."
+    },
     {
       "id": "te:economy:569556",
       "time": "2026-07-24 12:09:04",
@@ -164953,126 +164987,6 @@
         "MKT News"
       ],
       "text": "【Approval status of first active ETF batch updated】CSRC’s website shows the approval status for the first batch of active ETFs has changed to materials received and discloses the product names: Jianxin Competitive Advantage Active Management ETF; Guotai Xinhui Balanced Income Active Management ETF; Huabao Select Stable Equity Active Management ETF; ICBC Credit Suisse Dividend Active Management ETF; Dacheng Dividend Smart-Select Active Management ETF; Southern Large‑Cap Style Allocation Active Management ETF; Penghua Value Select Active Management ETF; Fullgoal Value Preferred Active Management ETF; China Merchants Value Smart‑Select Active Management ETF; Huatai‑PineBridge Value Select Active Management ETF; Tianhong Balanced Preferred Active Management ETF; Hua Xia Quality Value Select Active Management ETF; Huaan Quality Strict‑Select Active Management ETF; Yongying Prosperity Select Active Management ETF; Huitianfu Balanced Strategy Active Management ETF; E Fund Quality Future Active Management ETF; Ping An Industry Preferred Active Management ETF; Morgan Core Growth Active Management ETF. Most of the products are balanced-style mandates; a minority focus on growth."
-    },
-    {
-      "id": "4993493",
-      "time": "2026-07-17 12:16:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "EOPTOLINK （新易盛） 據悉將提交至多50億美元的香港上市申請。"
-    },
-    {
-      "id": "mkt:019f6e49-fdbe-7aab-8dd9-5cff1ade053f",
-      "time": "2026-07-17 12:16:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's ISNA, citing provincial officials, reported that US forces struck an area in Lorestan province."
-    },
-    {
-      "id": "te:economy:567739",
-      "time": "2026-07-17 12:16:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "GDP Annual Growth Rate",
-        "Importance 2"
-      ],
-      "text": "Malaysia’s Economy Expands 5.8% in Q2 — Malaysia’s economy expanded 5.8% year-on-year in Q2 2026, accelerating from 5.4% in the previous period, according to preliminary estimates. Chief Statistician Datuk Seri Dr Mohd Uzir Mahidin said resilient domestic demand and improvements across key productive sectors continued to underpin growth, despite weakness in agriculture. Mining and quarrying rebounded strongly (10.2% vs. -2.1% in Q1), mainly driven by higher natural gas production. Manufacturing growth also accelerated (7.5% vs. 5.9%), primarily supported by increased output of electrical, electronic and optical products, as well as petroleum, chemical, rubber and plastic products. Growth remained solid but eased in services (5.4% vs. 5.6%) and construction (6.6% vs. 7.0%). Meanwhile, agriculture contracted (-3.7% vs. 2.6%), reflecting weaker output in the oil palm and fishing subsectors. In the first half of 2026, Malaysia’s economy grew 5.6%, up from 4.5% in the same period a year earlier."
-    },
-    {
-      "id": "4993491",
-      "time": "2026-07-17 12:14:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "車車科技宣佈進行35比1的股份合併。"
-    },
-    {
-      "id": "mkt:019f6e47-6973-7aab-8dd9-54e7813117c9",
-      "time": "2026-07-17 12:13:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "According to the Financial Times, investors say the Bank of England should slow or halt sales of long-dated gilts."
-    },
-    {
-      "id": "4993490",
-      "time": "2026-07-17 12:12:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年7月票房破20億 】據燈塔專業版，截至7月17日，2026年7月總票房（含預售）突破20億，《功夫女足》《小黃人與大怪獸》《四渡》《特立獨行》《後室》暫列7月票房榜前五。"
-    },
-    {
-      "id": "mkt:019f6e45-e888-7aab-8dd9-4cfda6643703",
-      "time": "2026-07-17 12:11:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TASNIM NEWS: Iran's Islamic Revolutionary Guard Corps said it would block oil and gas exports through the Strait of Hormuz for as long as US attacks continue."
-    },
-    {
-      "id": "4993489",
-      "time": "2026-07-17 12:11:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率下跌1.5個基點，至1.935%。"
-    },
-    {
-      "id": "4993488",
-      "time": "2026-07-17 12:11:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊稱，只要美國的攻擊持續，就不會有石油或天然氣經霍爾木茲海峽出口。"
-    },
-    {
-      "id": "4993487",
-      "time": "2026-07-17 12:11:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【重慶彭水山體崩塌已救出8人】7月17日9時8分，重慶彭水縣漢葭街道突發山體崩塌，致下方多棟居民樓垮塌。經初步核實，17日8時許，社群網格員發現有零星落石後緊急預警，屬地迅速組織60餘名群眾全部安全轉移。截至11時38分，已搜救出8名被困人員，並立刻送醫救治，均暫無生命危險。目前搜救工作正在全面開展。"
-    },
-    {
-      "id": "mkt:019f6e45-508b-7aab-8dd9-417501cd5dcf",
-      "time": "2026-07-17 12:11:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "TASNIM News reported Iran's Islamic Revolutionary Guard Corps said it struck the US military command center at Al-Tanf in Syria."
-    },
-    {
-      "id": "4993486",
-      "time": "2026-07-17 12:10:34",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據伊朗塔斯尼姆通訊社：伊朗伊斯蘭革命衛隊稱對美軍位於敘利亞坦夫（Al-Tanf）的指揮中心發動了襲擊。"
     }
   ]
 }
