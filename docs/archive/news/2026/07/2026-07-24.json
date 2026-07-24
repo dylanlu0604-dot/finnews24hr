@@ -1,7 +1,198 @@
 {
   "date": "2026-07-24",
-  "count": 2178,
+  "count": 2199,
   "items": [
+    {
+      "id": "5006635",
+      "time": "2026-07-24 17:51:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "西姆庫斯：加息的可能性仍高於維持利率不變。"
+    },
+    {
+      "id": "5006634",
+      "time": "2026-07-24 17:51:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東莞提出到2030年全市伺服器全產業鏈產值突破5000億元】7月24日，東莞釋出《東莞市推動AI伺服器產業高質量發展實施方案》。這是東莞首個專門面向伺服器產業的專項政策檔案。根據《方案》，東莞提出，到2030年，全市伺服器全產業鏈產值力爭突破5000億元。未來五年，東莞計劃投入1000億元，開發建設約9000畝的算力產業島。"
+    },
+    {
+      "id": "5006633",
+      "time": "2026-07-24 17:51:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度執法局（ED）：查封遊戲科技公司 Gameskraft 及其股東、關聯實體價值 190.6 億盧比資產  。"
+    },
+    {
+      "id": "5006632",
+      "time": "2026-07-24 17:51:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【幸福藍海：參投影片《八仙！》6天票房達4.5億元】幸福藍海公告稱，公司參與出品的影片《八仙！》於2026年7月18日起在中國大陸公映，截至7月23日24時，上映6天累計票房（含服務費）達4.5億元，超公司最近一個會計年度經審計的合併財務報表營業收入的50%。截至該日，影片對公司營收暫無影響，且影片還在上映，票房等營收與公司實際可確認營收或存在差異。"
+    },
+    {
+      "id": "5006631",
+      "time": "2026-07-24 17:50:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮旗科技：首次回購0.14%公司股份，成交金額為人民幣455.07萬元】榮旗科技公告，2026年7月24日，公司透過回購專用證券賬戶以集中競價交易方式首次回購公司股份10萬股，佔公司當前總股本的0.14%，最高成交價為46.45元/股，最低成交價為44.92元/股，成交金額為人民幣455.07萬元（不含交易費用）。"
+    },
+    {
+      "id": "5006630",
+      "time": "2026-07-24 17:50:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聚光科技：截至7月23日累計回購1.22億元股份】聚光科技公告稱，公司於2025年8月20日審議透過回購股份方案，回購資金1億-1.5億元，回購價不超29.5元/股，回購期限12個月。截至2026年7月23日，公司累計回購股份710.01萬股，佔總股本的1.58%，最高成交價20.82元/股，最低成交價11.05元/股，成交總金額1.22億元（不含交易費用）。公司後續將根據市場情況繼續實施回購計劃。"
+    },
+    {
+      "id": "mkt:019f9388-7c1c-7aab-8e83-63ee42bb16d4",
+      "time": "2026-07-24 17:50:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB policymaker Simkus said additional inflation data will arrive in September."
+    },
+    {
+      "id": "5006629",
+      "time": "2026-07-24 17:50:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克否認替美向伊朗轉交停火提議】伊拉克總理媒體辦公室今天（7月24日）發表宣告稱，美國《紐約時報》所謂“伊朗拒絕美國總統特朗普經由伊拉克總理扎伊迪轉交的停火提議”相關報道毫無根據，與事實不符。據《紐約時報》報道，伊朗和伊拉克官員稱，伊朗當地時間7月23日拒絕了特朗普經由扎伊迪轉交的一份停火提議。報道稱，扎伊迪訪問伊朗前先赴美國，在白宮與特朗普會面——但經他轉交的停火提議細節尚不明確。報道還稱，這是目前擺在談判桌上的唯一一份停火方案，但伊朗方面對擱置霍爾木茲海峽控制權問題的臨時協議不感興趣。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f9388-4745-7aab-8e83-5a7c48a6f0bb",
+      "time": "2026-07-24 17:50:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB Governing Council member SIMKUS said the past six weeks have shown uncertainty in the environment."
+    },
+    {
+      "id": "5006628",
+      "time": "2026-07-24 17:50:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福田汽車：控股股東擬增持5000萬至1億元股份】福田汽車公告稱，公司控股股東北汽集團基於對公司長期投資價值的認可，計劃自公告披露之日起6個月內，透過上交所繫統以集中競價方式增持公司A股股份，累計增持金額為5000萬元至1億元。截至公告披露日，北汽集團持有公司32.34億股，佔總股本的40.84%。本次增持計劃可能因市場變化等因素延遲或無法實施，公司將及時披露進展。"
+    },
+    {
+      "id": "mkt:019f9388-3b0a-7aab-8e83-5502f664e219",
+      "time": "2026-07-24 17:50:06",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member SIMKUS said there is no value in rushing to make decisions now."
+    },
+    {
+      "id": "mkt:019f9388-1422-7aab-8e83-4a78336fd119",
+      "time": "2026-07-24 17:49:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "ECB governing council member Simkus said oil at $100 a barrel would affect inflation."
+    },
+    {
+      "id": "mkt:019f9387-ffca-7aab-8e83-42b382800509",
+      "time": "2026-07-24 17:49:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【Sources say Bank of Japan plans to keep policy rate at 1% next week】Nikkei reports the Bank of Japan intends to hold its policy rate at 1% at the July 30-31 meeting; a majority of the nine-member policy board is expected to vote to maintain rates. Board members broadly view financial conditions as accommodative and acknowledge a case for further rate hikes to stabilise inflation, but many say there is no urgency to act. Some members had pushed for a follow-up increase in July after June’s hike; the BOJ is closely monitoring the effects of June’s move amid Middle East tensions and oil-price inflation risk. The committee may raise its fiscal 2026 median real GDP growth forecast from April’s 0.5% as economic conditions have improved — alternative Middle East oil supplies have increased, corporate output concerns have eased, and AI-related sectors have outperformed expectations, supporting growth."
+    },
+    {
+      "id": "mkt:019f9387-e1c4-7aab-8e83-3d6d1d62ca94",
+      "time": "2026-07-24 17:49:43",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB governing council member SIMKUS says inflation risks are tilted to the upside."
+    },
+    {
+      "id": "5006626",
+      "time": "2026-07-24 17:49:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "義大利郵政執行長：將在倫巴第大區開發70兆瓦資料中心，作為大規模人工智慧模型訓練樞紐建設計劃的一部分。"
+    },
+    {
+      "id": "5006625",
+      "time": "2026-07-24 17:49:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【周鴻禕談Open AI智慧體逃逸事故：智慧體安全比模型安全嚴重十倍】近期，OpenAI智慧體在內部安全測試中突破隔離環境、跨網入侵HuggingFace生產系統的事件持續發酵。360集團創始人周鴻禕將這起事件定義為\"AI安全發展的關鍵分水嶺\"，並圍繞智慧體失控風險與行業治理路徑發表觀點，引發業內廣泛討論。針對輿論普遍將本次AI逃逸等同於科幻敘事裡“AI 覺醒反叛”的認知誤區，周鴻禕作出糾正，本次事故並非AI產生自我意識，而是典型的目標驅動型失控，無主觀惡意卻行為不可預判，具備更為緊迫的現實安全威脅。他特別強調，智慧體具備實操能力，如果行業在高速迭代技術的同時持續放寬安全約束，類似的智慧體失控、自主攻擊事件只會更加頻繁。對此，周鴻禕從事前管控、實時監管、源頭防禦、風險預警、攻防體系、產業發展六個維度，梳理了智慧體安全治理思路。（新浪科技）"
+    },
+    {
+      "id": "5006624",
+      "time": "2026-07-24 17:48:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "西姆庫斯：9 月我們將再度獲得更多通脹相關資料。"
+    },
+    {
+      "id": "5006623",
+      "time": "2026-07-24 17:48:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委西姆庫斯：通脹存在上行風險。"
+    },
+    {
+      "id": "mkt:019f9386-cf60-7aab-8e83-365cf68cd0d8",
+      "time": "2026-07-24 17:48:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "HKEX filings show BlackRock's long position in Zijin Mining (02899.HK) H shares fell to 7.94% on July 20 from 8.44%."
+    },
+    {
+      "id": "5006622",
+      "time": "2026-07-24 17:47:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聖達生物：擬1650萬-3000萬元回購股份用於員工持股或激勵】聖達生物公告稱，公司擬以集中競價交易方式回購股份，回購金額不低於1650萬元且不超過3000萬元，回購價格不超過15元/股，回購股份數量約為110萬股至200萬股，佔總股本的比例為0.58%至1.06%，回購股份用於員工持股計劃或股權激勵。回購期限自董事會審議透過之日（7月24日）起不超過12個月。此外，公司董監高、控股股東等未來3個月、6個月無減持計劃。本次回購存在價格、實施等風險。"
+    },
+    {
+      "id": "5006621",
+      "time": "2026-07-24 17:47:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金鐘股份：擬現金收購楷馳100%股權】金鐘股份公告，公司擬以現金收購合肥楷馳汽車零部件有限公司的全部股權，併購買夢達馳汽車系統（安徽）有限公司截至2026年7月31日持有的所有固定資產。此舉旨在切入汽車保險槓、擾流板、門護板等外飾件領域，完善產品佈局，提升綜合競爭力。"
+    },
     {
       "id": "mkt:019f9385-fe37-7aab-8e83-2f681d9234ae",
       "time": "2026-07-24 17:47:39",
