@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-24 14:37:26",
-  "count": 17956,
+  "updated": "2026-07-24 14:41:24",
+  "count": 17947,
   "items": [
+    {
+      "id": "5006106",
+      "time": "2026-07-24 14:40:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯將限制從亞美尼亞進口乳製品。"
+    },
+    {
+      "id": "5006105",
+      "time": "2026-07-24 14:39:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【無問芯穹Agentic Infra戰略釋出，跨越計算規模將拓展至十萬卡級】近日，無問芯穹首次公佈Agentic Infra 的“前店後廠一中心”戰略佈局，涵蓋三大核心技術能力與產品服務體系：一，“算力集散中心”，Agentic Infra 自主式基礎設施平臺；二，“Token工廠”，Agentic MaaS 大模型服務平臺；三，“AI生產力商店”，Agentic Infra 行業解決方案。（新浪科技）"
+    },
+    {
+      "id": "5006104",
+      "time": "2026-07-24 14:37:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "菜粕連續主力合約日內漲3%，現報2449.00元。"
+    },
+    {
+      "id": "5006103",
+      "time": "2026-07-24 14:37:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行管委Kocher稱9月會議將在加息與按兵不動間抉擇】歐洲央行管委會成員Martin Kocher表示，歐洲央行將在夏季期間仔細評估所有資訊，以判斷下次會議應加息還是維持利率不變。“我們目前處於這樣一個位置，可以觀察未來幾周公布的資料，包括採購經理人指數資料、通脹資料以及其他指標，並判斷這些資料究竟支援9月加息還是按兵不動，”他週五接受採訪時表示。 這位奧地利央行行長表示，歐洲央行6月加息後，決策者“已處於能夠分析形勢、並在未來數週保持警惕的位置”。"
+    },
     {
       "id": "5006102",
       "time": "2026-07-24 14:35:25",
@@ -164455,132 +164489,6 @@
         "MKT News"
       ],
       "text": "【CITIGROUP: New Zealand Q2 CPI likely strongest quarterly rise in nearly four years】CITIGROUP’s Australia and New Zealand chief economist Josh Williamson expects New Zealand Q2 CPI to record its strongest quarterly rise in nearly four years, led by a sharp jump in fuel prices. The surge in tradeable-goods inflation was largely in line with RBNZ expectations and masked a milder 0.4% increase in non-tradeable inflation. The RBNZ has begun tightening; some economists say the central bank may need around three further rate hikes to return the official cash rate to neutral."
-    },
-    {
-      "id": "mkt:019f6ece-9f53-7aab-8ddc-91ad1c1992ed",
-      "time": "2026-07-17 14:41:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "WRD.O"
-      ],
-      "text": "【CHINA'S WERIDE (WRD.O) launches physical-AI foundation model WITT】CHINA'S WERIDE said it has launched WeRide WITT, a self-developed physical-AI cognitive foundation model. Built on visual-language model capabilities, WITT introduces the \"minimum physical fact unit\" concept to integrate video, image and text multimodal data, decomposing continuous real-world scenes into identifiable, verifiable fact units and forming a new AI understanding framework centered on physical facts."
-    },
-    {
-      "id": "4993718",
-      "time": "2026-07-17 14:40:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "沃爾沃汽車首席商務官表示：關於EX60，我們仍堅持今年產量達4萬輛的目標，但目前銷售節奏遠快於生產節奏。"
-    },
-    {
-      "id": "4993717",
-      "time": "2026-07-17 14:40:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【影石回應重大假冒品牌記憶體卡產銷案】7月17日，影石法務部發文：近期，我司聯合公安機關成功破獲一起重大假冒品牌記憶體卡產銷案件，現場查獲大量假冒產品及製假裝置，多名涉案人員落網，核心嫌疑人已被依法採取刑事強制措施。該案有力打擊產業鏈侵權造假行為，切實維護公司品牌權益、智慧財產權以及正常市場經營秩序。"
-    },
-    {
-      "id": "mkt:019f6ecd-ec77-7aab-8ddc-88b3beb000f0",
-      "time": "2026-07-17 14:40:16",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【CITIGROUP: Australia to add 20,000 jobs in June; unemployment may fall to 4.3%】CITIGROUP's Australia and New Zealand chief economist Josh Williamson expects Australia to add about 20,000 jobs in June, reflecting a seasonal slowdown after strong May payrolls. With the participation rate seen roughly steady, the unemployment rate should tick down to around 4.3%. Williamson said CITIGROUP's employment forecast is skewed to the downside due to weak productivity, a low potential growth backdrop and elevated inflation."
-    },
-    {
-      "id": "mkt:019f6ecd-c55c-7aab-8ddc-80c485848e2e",
-      "time": "2026-07-17 14:40:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Polysilicon most-active futures fell more than 3%, now at 34,000 yuan/ton."
-    },
-    {
-      "id": "4993716",
-      "time": "2026-07-17 14:39:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華銀基金：洪娟出任副總經理】7月17日華銀基金公告稱，洪娟出任副總經理。該事項經華銀基金董事會會議審議透過，並按相關規定報監管機構備案。公告顯示，洪娟2007年6月參加工作，歷任中加基金戰略客戶部總監、深圳分公司總經理、機構銷售部負責人等職務，2025年9月加入華銀基金。"
-    },
-    {
-      "id": "4993715",
-      "time": "2026-07-17 14:38:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "沃爾沃汽車執行長談及新車型時表示：旅行車是頗具吸引力的機遇，但今年秋季大機率不會推出旅行車車型，因為我們有其他新品計劃，而且我們需要滿足歐洲的排放要求。"
-    },
-    {
-      "id": "4993714",
-      "time": "2026-07-17 14:38:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "伯恩斯坦：臺積電上調2026年資本支出合理，AI需求支撐增長。"
-    },
-    {
-      "id": "mkt:019f6ecc-01fb-7aab-8ddc-7ed4ba51be46",
-      "time": "2026-07-17 14:38:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "TSM.O",
-        "Impact bullish"
-      ],
-      "text": "【Bernstein: TSMC raises 2026 capex; AI demand supports growth】Bernstein says TSMC (TSM.N) has reasonably increased its 2026 capex plan on the back of a solid demand base. Management reiterated on its recent earnings call it will not impose sudden large price hikes; with limited near-term price upside and shipments constrained by capacity, TSMC’s upward revenue revision suggests prior forecasts may have been too conservative. Bernstein states that, despite market volatility, sustainability of AI demand has improved over the past three months and that the recent market pullback should be viewed as an opportunity to add AI-related stocks."
-    },
-    {
-      "id": "4993713",
-      "time": "2026-07-17 14:38:06",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛：小鵬Mona L03上市後訂單強勁，維持“買入”評級】高盛發表報告指，小鵬集團於7月16日在德國慕尼黑正式釋出全新SUV車型Mona L03，官方起售價為12.38萬元，低於預售起售價的14.38萬元。該車型在全球上市後首7分鐘及首一小時內，分別錄得2萬張及4.7萬張不可退還的訂單。高盛預計Mona L03將能實現每月1.4萬輛的穩定銷量，並在今年第三及第四季度分別貢獻小鵬汽車總銷量的22%及23%，進一步推動第三及第四季銷量同比增長28%及59%。小鵬同時強調其全球化戰略，包括所有未來車型都將在海外上市，目標在2026年進入65個全球市場；並計劃於2027年在歐洲推出VLA2.0車型、交付人形機器人；以及未來在歐洲推出飛行汽車。高盛預期，一系列新車型的陸續推出及海外擴張，將提高小鵬汽車銷量持續增長和利潤率改善的能見度，維持“買入”評級，H股目標價為89港元，ADR目標價為23美元。"
-    },
-    {
-      "id": "mkt:019f6ecb-d6d9-7aab-8ddc-721156916a20",
-      "time": "2026-07-17 14:38:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK Maritime Trade Operations says crew are safe and there are no reported environmental impacts."
-    },
-    {
-      "id": "mkt:019f6ecb-b7e9-7aab-8ddc-6817e6c6801a",
-      "time": "2026-07-17 14:37:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "UK Maritime Trade Operations said it received a report that a tanker was struck by an unidentified aerial object 19 nm east of Khasab, Oman."
-    },
-    {
-      "id": "4993712",
-      "time": "2026-07-17 14:37:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室（UKMTO）表示，一艘油輪在阿曼附近遇襲，報告稱其結構輕微受損。"
     }
   ]
 }
