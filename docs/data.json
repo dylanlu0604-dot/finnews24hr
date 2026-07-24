@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-24 12:40:44",
-  "count": 17989,
+  "updated": "2026-07-24 12:44:51",
+  "count": 17987,
   "items": [
+    {
+      "id": "5005946",
+      "time": "2026-07-24 12:43:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍第五艦隊總部區域響起爆炸聲 】當地時間今天（7月24日）早上，據伊朗邁赫爾通訊社報道，巴林境內美國海軍第五艦隊總部所在區域附近傳出爆炸聲。"
+    },
+    {
+      "id": "5005945",
+      "time": "2026-07-24 12:42:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【泰國政府：日本三菱汽車計劃2030年前向泰國投資4.73億美元】泰國政府發言人拉莉達・佩里斯維瓦塔納於週五表示，日本三菱汽車計劃到2030年在泰國投資160億泰銖（摺合4.7323億美元），助力當地汽車產業能源轉型。泰國政府在宣告中稱，這筆新增投資將聚焦電動汽車相關技術研發製造。宣告提及，三菱正研究以泰國作為生產基地，在此投產並外銷皮卡車，以及帕傑羅運動型多用途車的電動版本。泰國作為東南亞第二大經濟體，聚集了多家頭部車企，包括豐田、本田以及中國比亞迪等。"
+    },
+    {
+      "id": "mkt:019f926e-91d2-7aab-8e7a-860891c66aa1",
+      "time": "2026-07-24 12:42:27",
+      "tags": [
+        "MKT News",
+        "HON.O",
+        "Impact bullish"
+      ],
+      "text": "RBC raises Honeywell (HON.O) price target to $298 from $272."
+    },
+    {
+      "id": "5005944",
+      "time": "2026-07-24 12:40:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "國泰航空：因應燃油價格近期升勢，國泰航空及國泰貨運將由8月1日起調整客運及貨運燃油附加費。"
+    },
+    {
+      "id": "5005943",
+      "time": "2026-07-24 12:40:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "國泰航空根據燃油價格上漲情況調整燃油附加費。"
+    },
     {
       "id": "mkt:019f926c-62fb-7aab-8e7a-7921d37860df",
       "time": "2026-07-24 12:40:04",
@@ -164851,80 +164893,6 @@
         "國際"
       ],
       "text": "印度央行行長：黃金貸款和中小微企業增長更快，未發現任何風險。近期政策措施及印度外部部門的固有優勢對盧比構成利好。國際收支狀況在中短期內有望保持強勁。"
-    },
-    {
-      "id": "mkt:019f6e63-beea-7aab-8dd9-e98612fd6ab5",
-      "time": "2026-07-17 12:44:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBI governor expects India's balance of payments to remain strong in the near- to medium-term."
-    },
-    {
-      "id": "4993521",
-      "time": "2026-07-17 12:43:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "MSCI除日本亞洲指數下跌超2%。"
-    },
-    {
-      "id": "mkt:019f6e63-39a9-7aab-8dd9-e6068be2e800",
-      "time": "2026-07-17 12:43:44",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Reserve Bank of India governor said recent policy measures and the underlying strength of India’s external sector are supportive of the Indian rupee."
-    },
-    {
-      "id": "mkt:019f6e62-f2c1-7aab-8dd9-d930e3d4f0f4",
-      "time": "2026-07-17 12:43:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Hang Seng Index",
-        "Impact bearish",
-        "CSI300"
-      ],
-      "text": "MSCI Asia Pacific ex-Japan index falls more than 2%."
-    },
-    {
-      "id": "4993520",
-      "time": "2026-07-17 12:43:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界人工智慧大會期間國家發展改革委釋出2項重要成果】7月17日（週五），2026世界人工智慧大會暨人工智慧全球治理高階別會議在上海召開。會上，國家發展改革委會同有關部門共同釋出了《人工智慧合作發展行動計劃》《中國智·惠世界（2026）》案例集兩項成果。"
-    },
-    {
-      "id": "mkt:019f6e62-29ae-7aab-8dd9-d25be5b78146",
-      "time": "2026-07-17 12:42:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【NDRC unveils AI cooperation action plan and international casebook at World AI Conference】At the 2026 World Artificial Intelligence Conference in Shanghai, the National Development and Reform Commission (NDRC) and other agencies released two outputs: the Artificial Intelligence Cooperation Development Action Plan and the China Smart·Benefits the World (2026) casebook. The Action Plan, framed to implement Xi’s directive that AI be treated as an international public good, sets eight priority actions spanning data, compute, ecosystem, deployment, talent, rules, governance and ethics: high‑quality data supply, democratized/ubiquitous compute, open‑source ecosystem sharing, deep sectoral AI enablement, joint cultivation of digital‑intelligence talent, co‑development of rules and standards, collaborative security governance, and promoting AI for good. The NDRC says the plan responds to UN calls for strengthened international AI cooperation, narrowing the digital divide and using AI for sustainable development. The China Smart·Benefits the World (2026) casebook, the NDRC’s third annual edition, compiles 10 international AI cooperation projects; it reports broader country coverage, richer “AI+” application scenarios and an increased emphasis on people‑centered, benevolent AI, presenting China’s contributions to global AI development."
-    },
-    {
-      "id": "mkt:019f6e60-957b-7aab-8dd9-c8b37fa1df8a",
-      "time": "2026-07-17 12:40:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 fell 6%, sliding below 63,000 points to its lowest level since June 11."
     }
   ]
 }
