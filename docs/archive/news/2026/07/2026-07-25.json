@@ -1,7 +1,34 @@
 {
   "date": "2026-07-25",
-  "count": 98,
+  "count": 101,
   "items": [
+    {
+      "id": "5007440",
+      "time": "2026-07-25 01:22:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "Claude：根據我們的自動化行為審計結果，Opus 5 是迄今為止我們安全對齊程度最高的模型。與我們的其他模型相比，它表現出最低的魯莽或欺騙性行為發生率，並且在遵循 Claude 憲章（Claude’s Constitution）方面表現最為出色。Opus5在網路安全任務上比Opus 4.8更強。但在開發漏洞方面，仍然遠遠落後於Mythos 5。它的安全措施旨在幫助開發者識別和修復軟體漏洞，同時阻止高風險使用。"
+    },
+    {
+      "id": "mkt:019f9526-b0ae-7aab-8e8d-7bc6880fabcc",
+      "time": "2026-07-25 01:22:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Claude: OPUS 5 outperforms OPUS 4.8 on cybersecurity tasks but still trails MYTHOS 5 by a wide margin on exploit development. Its safety measures are designed to help developers identify and patch software vulnerabilities while blocking high-risk uses."
+    },
+    {
+      "id": "mkt:019f9525-b396-7aab-8e8d-7122772c47b2",
+      "time": "2026-07-25 01:21:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China foreign minister Wang Yi meets Iranian foreign minister Alaghezi】China foreign minister Wang Yi met Iran foreign minister Alaghezi on July 24 in Kyrgyzstan at the SCO foreign ministers' meeting. China said the recent renewed escalation in the Gulf is a source of deep concern and said the memorandum of understanding signed just over a month ago is a valuable product of multilateral mediation that should not be discarded. China urged keeping negotiation channels open, returning to implementation of the MoU consensus and persisting with talks while there is hope for peace. As a comprehensive strategic partner, China said it will continue to support Pakistan and other parties’ mediation efforts to restore direct dialogue and properly address issues in and around the Strait of Hormuz."
+    },
     {
       "id": "5007439",
       "time": "2026-07-25 01:18:08",
