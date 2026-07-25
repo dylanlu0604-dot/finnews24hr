@@ -1,7 +1,17 @@
 {
   "date": "2026-07-25",
-  "count": 534,
+  "count": 535,
   "items": [
+    {
+      "id": "mkt:019f96e4-03c4-7aab-8e91-60698794ace0",
+      "time": "2026-07-25 09:29:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【South Korea to become core of global AI semiconductor supply chain, Lee says】South Korea's President Lee announced at a high-level San Francisco meeting the government will position the country as a trusted AI semiconductor production base and supply partner and formally released the San Francisco AI Declaration. The meeting included global tech executives and Korean conglomerate chiefs, including Samsung Electronics chairman Lee Jae-yong and SK Group chairman Choi Tae-won. Lee said: \"South Korea will achieve leapfrog development and become an irreplaceable core country in the global AI supply chain.\" He added: \"Leveraging Korea's world-leading competitiveness and production capacity in memory chips, Korea will become a trusted AI chip production base and supply-chain partner.\""
+    },
     {
       "id": "5007738",
       "time": "2026-07-25 09:22:01",
