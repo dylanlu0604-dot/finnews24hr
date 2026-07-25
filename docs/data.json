@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-25 08:38:46",
-  "count": 18237,
+  "updated": "2026-07-25 08:42:35",
+  "count": 18236,
   "items": [
+    {
+      "id": "5007710",
+      "time": "2026-07-25 08:39:59",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【禮來支援的Scribe Therapeutics美國IPO，首日飆升超44%】專注於心臟病基因療法的臨床階段開發商Scribe Therapeutics Inc.，透過擴大規模的IPO籌集1.287億美元后，週五股價收盤飆升44.33%。檔案顯示，賽諾菲（Sanofi SA）的關聯公司已同意以IPO價格購買約750萬美元的股份，作為同步私募配售的一部分。Scribe的現有支持者之一禮來公司表示有興趣在IPO中購買更多股份，以便在發行和配售後持有Scribe高達11%的股份。"
+    },
+    {
+      "id": "5007709",
+      "time": "2026-07-25 08:39:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美迪西：近期實驗用猴整體供應偏緊，公司對相關業務採用更加靈活的報價策略】美迪西近日在機構調研時表示，隨著行業需求逐步回暖，近期實驗用猴市場價格呈上行趨勢，整體供應偏緊。公司已積極採取豐富採購渠道、深化與實驗動物供應商的合作等多項措施保障公司實驗動物，特別是實驗用猴的供應穩定，能夠滿足經營需求。根據市場發展情況，公司對實驗用猴相關業務採用更加靈活的報價策略，以保障公司的盈利能力和持續發展能力。"
+    },
+    {
+      "id": "5007708",
+      "time": "2026-07-25 08:39:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆表示，正尋求儘快恢復牛出口。"
+    },
     {
       "id": "5007706",
       "time": "2026-07-25 08:37:14",
@@ -167052,52 +167078,6 @@
         "公司"
       ],
       "text": "【中國電信廣東分公司到訪海蘭信 共商海上風電算力合作】7月17日，中國電信股份有限公司廣東分公司黨委書記、總經理張濤、深圳電信總經理胡志良一行走訪調研海蘭信。雙方圍繞海上風電與算力基礎設施融合發展、區域算力網路協同、產業生態共建等議題展開深入探討，就廣東專案落地推進路徑、合作模式創新等方面充分交換意見，達成多項共識。"
-    },
-    {
-      "id": "4995188",
-      "time": "2026-07-18 08:42:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：墨西哥總統辛鮑姆將前往美國觀看世界盃決賽。"
-    },
-    {
-      "id": "mkt:019f72ac-2c04-7aab-8dec-853e2318818e",
-      "time": "2026-07-18 08:41:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "300207.SZ",
-        "Impact bullish",
-        "300438.SZ",
-        "300274.SZ"
-      ],
-      "text": "【AI data-center energy storage gains traction; listed suppliers position】Energy-storage systems for AI data centers are emerging as a new growth segment as demand climbs. Dedicated storage is cited as better suited than traditional grids for AI workloads’ high energy draw, heavy loads, elevated safety requirements and need for fast response, improving supply reliability and energy efficiency and becoming a core requirement for compute infrastructure. Industry participants say technical barriers are higher than for conventional storage, so clients prioritize quality and delivery, show lower price sensitivity and tend to contract with leading suppliers. Listed companies actively building capacity across the value chain include Sunwoda, Penghui Energy and Sungrow."
-    },
-    {
-      "id": "mkt:019f72ab-513a-7aab-8dec-7ff80771de63",
-      "time": "2026-07-18 08:40:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact mixed"
-      ],
-      "text": "Market sources say Apple (AAPL.O) will raise iPhone prices in Japan by 10%."
-    },
-    {
-      "id": "4995187",
-      "time": "2026-07-18 08:39:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加速器驅動先進核能系統智慧解決方案發布】我國核能基礎研究再添“AI助手”。昨天，在2026世界人工智慧大會上，我國科研機構正式釋出“面向加速器驅動先進核能系統的智慧化解決方案”，旨在為核能系統賦能，提升執行效率與安全水平。（央視新聞）"
     }
   ]
 }
