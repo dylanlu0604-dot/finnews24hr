@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-25 22:30:28",
-  "count": 18182,
+  "updated": "2026-07-25 22:34:39",
+  "count": 18179,
   "items": [
+    {
+      "id": "5008056",
+      "time": "2026-07-25 22:32:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【福建啟動防汛四級應急響應 維持防颱風三級應急響應】記者從福建省防汛抗旱指揮部瞭解到，受颱風“紅霞”影響，預計今天夜間至26日白天，漳州和廈門兩市大部、龍巖（永定、上杭、武平、新羅）、泉州（安溪、南安）有暴雨或大暴雨，其餘地區區域性暴雨，24小時累計雨量50—100毫米，區域性200毫米；最大小時雨量80毫米。福建省防指於25日20時啟動防汛四級應急響應並維持防颱風三級應急響應。（央視新聞）"
+    },
     {
       "id": "mkt:019f99ae-34a5-7aab-8e95-8bd5870e50de",
       "time": "2026-07-25 22:29:18",
@@ -166588,45 +166596,6 @@
         "國際"
       ],
       "text": "比利時禁止進口來自巴勒斯坦被佔領土的商品。"
-    },
-    {
-      "id": "mkt:019f75a6-66ed-7aab-8df1-5c4b602f40b3",
-      "time": "2026-07-18 22:34:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "An Iranian security official warned, according to Fars News, that if the United States attacks Iranian infrastructure, Dubai and Abu Dhabi airports and the ports of Fujairah and Jebel Ali should prepare for evacuations."
-    },
-    {
-      "id": "4995582",
-      "time": "2026-07-18 22:34:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯合國關切美伊衝突升級 雙方互襲民用基礎設施】聯合國對美伊持續軍事升級態勢深感關切，尤其是針對伊朗及整個地區民用基礎設施發動的襲擊。聯合國副發言人法爾漢·哈克轉達古特雷斯的表態，稱此類襲擊“令人無法接受”，並表示聯合國秘書長認為這場衝突不存在軍事解決途徑。美國於7月17日（週五）空襲了伊朗境內多座橋樑與一處機場，此舉促使德黑蘭方面展開反擊，打擊了科威特一座發電及海水淡化工廠。衝突雙方將打擊目標擴大至基礎設施，局勢面臨進一步升級風險。"
-    },
-    {
-      "id": "mkt:019f75a3-9112-7aab-8df1-52e72a1171fc",
-      "time": "2026-07-18 22:31:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's foreign minister said parties must adhere to the memorandum of understanding and avoid escalating tensions."
-    },
-    {
-      "id": "mkt:019f75a3-0dc7-7aab-8df1-4ade9113a2b4",
-      "time": "2026-07-18 22:30:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Xingchen Technology: expects 1H2026 net profit up 583.72%–650.42% YoY】Xingchen Technology expects 1H2026 net profit attributable to shareholders of RMB 820–900 mln, up 583.72%–650.42% YoY. The company said endpoint and edge AI applications reached large-scale deployment during the period and AI is increasingly penetrating smart terminals and edge hardware; concentrated demand growth in embodied intelligence, service robots, home intelligent agents, in-vehicle edge computing and LiDAR is providing strong market support for its core business."
     }
   ]
 }
