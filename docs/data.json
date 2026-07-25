@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-25 22:34:39",
-  "count": 18179,
+  "updated": "2026-07-25 22:38:42",
+  "count": 18181,
   "items": [
+    {
+      "id": "mkt:019f99b6-4b4b-7aab-8e95-a2c7f23742ce",
+      "time": "2026-07-25 22:38:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France said it will deploy an additional 500 soldiers to assist in fighting forest fires."
+    },
+    {
+      "id": "mkt:019f99b5-c630-7aab-8e95-9f424a0fbe60",
+      "time": "2026-07-25 22:37:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【IDF conducts large-scale West Bank raids, detains more than 70 Palestinians】On the 25th, the Israel Defense Forces said the military, Shin Bet and border police carried out joint large-scale raids across the West Bank over the past 24 hours. They searched more than 300 locations, detained over 70 Palestinians and conducted on-site checks of about 130 others. Those detained were handed to authorities for interrogation, including individuals Israel identified as Hamas members and suspects accused of involvement in shootings, plotting attacks and weapons trafficking."
+    },
+    {
+      "id": "mkt:019f99b5-37e1-7aab-8e95-971f5e0ef975",
+      "time": "2026-07-25 22:36:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US using 'hot‑cold' tactics on Iran; likely aim to reopen Strait of Hormuz】A former Austrian defense attaché said the US is coordinating diplomatic pressure, a maritime blockade and military options against Iran, and that the immediate objective appears to be reopening the Strait of Hormuz. He said Washington is employing a 'hot‑and‑cold' tactic—periodic strikes followed by lulls—to induce Iran to abandon intent to continue the conflict. He added that, while Trump is reportedly seeking negotiations, Iran's leadership is split between a faction favoring restoration of a memorandum of understanding and a faction seeking to secure control of the Strait of Hormuz by military means."
+    },
+    {
+      "id": "5008057",
+      "time": "2026-07-25 22:35:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心預測，吉納維芙颶風將在未來幾天內迅速增強。"
+    },
     {
       "id": "5008056",
       "time": "2026-07-25 22:32:36",
@@ -166578,24 +166617,6 @@
         "國際"
       ],
       "text": "【加拿大山火持續 美多地釋出空氣質量、強風暴、洪水等預警】受加拿大山火的濃煙影響，截至當地時間7月18日早晨，從美國上中西部、五大湖地區一直延伸到新英格蘭地區，再向南覆蓋東北部和中大西洋地區的十餘州已釋出空氣質量警報。據悉，目前加拿大有900多處山火仍在燃燒，大量煙霧持續飄向美國東北部和中大西洋地區。不過，一個將在18日經過的風暴系統有望幫助驅散部分煙霾。與此同時，在西北風的推動下，一股濃煙帶正進入美國中西部和五大湖上游地區，預計當地空氣質量將在整個週末維持較差水平。另一方面，美國風暴預測中心已對俄亥俄河谷、東北部和中大西洋部分地區釋出三級（最高五級）強對流天氣風險預警。95號州際公路沿線的紐約、費城、巴爾的摩和華盛頓特區等主要城市都可能受到影響，匹茲堡、克利夫蘭和布法羅也預計將遭遇強雷暴。多輪降雨和雷暴將帶來破壞性大風、冰雹、少量龍捲風，部分地區有山洪暴發的風險。紐約市、費城等美國東北部部分地區已釋出洪水監測預警，有效期持續至18日晚間。"
-    },
-    {
-      "id": "4995585",
-      "time": "2026-07-18 22:38:08",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【王毅：讚賞印尼方重申歡迎中資企業赴印尼投資合作】7月18日，中共中央政治局委員、外交部長王毅在上海會見來華出席世界人工智慧大會的印度尼西亞經濟統籌部長艾爾朗加。王毅強調，在兩國元首戰略引領下，近年來中印尼命運共同體建設取得積極進展。中印尼作為全球南方和新興經濟體代表，發展目標相近、共同利益廣泛、互補優勢明顯。雙方要加強發展戰略對接，相向而行，積極互動，排除干擾，保持定力，不斷深化各領域互利合作，作全球南方團結互助、聯合自強的典範。中方讚賞統籌部長先生重申歡迎中資企業赴印尼投資合作，希望印尼為此提供公平公正營商環境。中印尼合作不針對第三方，也不應受第三方干擾。雙方要帶頭捍衛多邊貿易體制，共同反對“脫鉤斷鏈”，維護全球產供鏈安全穩定。中方願同印尼在國際和地區事務中密切協作，推進具有地區和全球影響力的中印尼命運共同體建設，為兩國和人類共同發展作出貢獻。（外交部）"
-    },
-    {
-      "id": "4995584",
-      "time": "2026-07-18 22:36:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "比利時禁止進口來自巴勒斯坦被佔領土的商品。"
     }
   ]
 }
