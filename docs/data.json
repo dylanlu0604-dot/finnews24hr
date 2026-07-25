@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-25 22:18:08",
-  "count": 18178,
+  "updated": "2026-07-25 22:22:12",
+  "count": 18177,
   "items": [
+    {
+      "id": "5008050",
+      "time": "2026-07-25 22:19:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026暑期檔電影票房破55億】據網路平臺資料，截至目前，2026年暑期檔電影總票房（含預售）突破55億元。2026年度電影總票房（含預售）突破212億元。"
+    },
     {
       "id": "5008049",
       "time": "2026-07-25 22:16:37",
@@ -166579,22 +166587,6 @@
         "國際"
       ],
       "text": "巴基斯坦外交部長：必須遵守諒解備忘錄，避免局勢升級。"
-    },
-    {
-      "id": "mkt:019f759a-2676-7aab-8df1-408b78602a95",
-      "time": "2026-07-18 22:21:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yangtze Optical Fibre CEO says polarization‑maintaining fiber demand could rise 10x–20x in 1–2 years】Yangtze Optical Fibre executive director and CEO Zhuang Dan said on July 18 that global fiber demand has shifted from telecom to AI/compute‑center drivers. He cited forecasts to 2030 showing FTTx CAGR of 2.47% versus a 20.74% CAGR for compute‑center demand. Zhuang said Yangtze ranks first domestically in polarization‑maintaining (PM) fiber market share for five consecutive years and predicted PM fiber demand could increase by an order of magnitude — possibly 10x–20x — over the next one to two years, driven by next‑generation high‑performance CPUs and silicon photonics components."
-    },
-    {
-      "id": "4995578",
-      "time": "2026-07-18 22:18:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聚焦極端天氣與城市災害預警，“華雨GeoAI”大模型在WAIC首發】7月18日，2026年世界人工智慧大會暨人工智慧全球治理高階別會議（WAIC 2026）重要分論壇——“GeoAI空間人工智慧論壇”在華東師範大學空間人工智慧學院正式啟幕。論壇上，由華東師範大學自主研發的“華雨GeoAI”大模型首次對外發布，標誌著地理空間資訊科技與人工智慧融合創新邁入新階段。（澎湃新聞）"
     }
   ]
 }
