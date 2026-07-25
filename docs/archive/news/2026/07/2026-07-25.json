@@ -1,7 +1,36 @@
 {
   "date": "2026-07-25",
-  "count": 908,
+  "count": 911,
   "items": [
+    {
+      "id": "5008016",
+      "time": "2026-07-25 21:13:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "安全訊息人士稱，伊拉克防空部隊在埃爾比勒美國領事館附近擊落一架無人機。"
+    },
+    {
+      "id": "5008015",
+      "time": "2026-07-25 21:11:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯方面任命的扎波羅熱地區行政長官葉夫根尼·巴利茨基稱，烏克蘭軍隊24日夜間至25日凌晨襲擊了該地區的旅遊營地。死亡人數已升至11人，其中包括四名兒童。"
+    },
+    {
+      "id": "mkt:019f9966-0dd9-7aab-8e95-4aef1a2ec80b",
+      "time": "2026-07-25 21:10:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "A Russia-appointed governor said the death toll from an attack on a holiday camp in the Russian-controlled area of Ukraine's Zaporizhzhia region has risen to 11, including four children."
+    },
     {
       "id": "mkt:019f9962-41df-7aab-8e95-473e022727e4",
       "time": "2026-07-25 21:06:21",
