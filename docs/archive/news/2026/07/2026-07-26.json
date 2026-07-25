@@ -1,7 +1,25 @@
 {
   "date": "2026-07-26",
-  "count": 71,
+  "count": 73,
   "items": [
+    {
+      "id": "5008124",
+      "time": "2026-07-26 03:20:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗伊斯蘭革命衛隊稱15天內摧毀多架美軍戰機】當地時間25日，伊朗伊斯蘭革命衛隊發言人穆赫比表示，伊朗伊斯蘭革命衛隊在15天內摧毀了11架停放在美軍基地的美軍戰鬥機和直升機，還摧毀了17架軍用無人機，一架停放在機庫內的F-15戰鬥機，一架P-8反潛巡邏機，一架C-17運輸機和8架空中加油機。目前，上述說法尚未得到美國軍方證實。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f9ab7-a2e3-7aab-8e96-a42154133af9",
+      "time": "2026-07-26 03:19:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI's Codex product lead Tibo said the firm has reset usage quotas for all Codex and ChatGPT Work users after a near-global outage between about 02:00 and 04:00 last night. All services have been restored."
+    },
     {
       "id": "mkt:019f9ab5-b6db-7aab-8e96-9bb336fad5e9",
       "time": "2026-07-26 03:17:07",
