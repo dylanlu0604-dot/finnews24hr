@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-25 18:09:03",
-  "count": 18204,
+  "updated": "2026-07-25 18:13:17",
+  "count": 18205,
   "items": [
+    {
+      "id": "mkt:019f98c1-48d7-7aab-8e94-c49516467921",
+      "time": "2026-07-25 18:10:31",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Zelenskiy: Ukraine struck Caspian Sea ships carrying Iranian military cargo and a warship】Zelenskiy said Ukraine’s long-range strikes in the Caspian Sea hit vessels transporting Iranian military cargo and a military ship. He also said strikes hit a factory in Kirov Oblast that supplies components for Russian attacks on Ukraine, about 1,200 km from the Ukrainian border, as well as a refinery in Tyumen Oblast, a logistics facility in Yekaterinburg and a fuel depot in Rostov-on-Don."
+    },
+    {
+      "id": "5007931",
+      "time": "2026-07-25 18:10:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約軍事總部一名實習生因涉嫌間諜活動被捕。"
+    },
+    {
+      "id": "5007930",
+      "time": "2026-07-25 18:09:07",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【三星電子拿下博通2000億美元大單】三星電子獲得一份價值逾2000億美元的合同，將向博通供應晶片，兩家公司正努力在人工智慧(AI)基礎設施市場爭取更大份額。三星電子週六在一份宣告中稱，這項為期五年的協議將持續至2030年，重點圍繞為博通產品提供三星2奈米及以下先進製程工藝。協議將深化兩公司在儲存晶片和晶圓代工技術領域的戰略合作。三星表示，在儲存晶片領域，將支援博通的下一代AI加速器落地。雙方的合作預計將擴充套件至基於三星2奈米工藝的先進封裝技術，包括2.3D和2.5D整合技術，以打造更高效能、更節能的AI和網路晶片。"
+    },
     {
       "id": "mkt:019f98bf-497c-7aab-8e94-bcbcb29302a3",
       "time": "2026-07-25 18:08:20",
@@ -166833,26 +166863,6 @@
         "其他"
       ],
       "text": "【重慶彭水山體崩塌救援最新進展：已在生命跡象位置上方開口】今天上午10時50分許，重慶彭水山體崩塌救援現場發現生命跡象。目前，救援人員已在疑似生命跡象上方破開口子，陸續清理出各類生活用品。救援仍在謹慎推進中。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f74b5-40d9-7aab-8def-d7af9c0f20c8",
-      "time": "2026-07-18 18:11:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Kuwait Oil Company says facility struck in Iranian attack; multiple casualties】Kuwait Oil Company said a key facility was struck repeatedly in attacks by Iranian forces, causing multiple casualties and significant damage. Injured personnel have received medical treatment and the site has been evacuated. KOC is coordinating with authorities. The statement did not identify the facility's location."
-    },
-    {
-      "id": "4995457",
-      "time": "2026-07-18 18:10:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【科威特石油公司稱一設施遭伊朗襲擊致多人傷亡】科威特石油公司在一份通告上表示，一處“重要”設施遭到伊朗方面多次猛烈襲擊，造成多人傷亡和重大損失。目前傷者已接受醫療救助，該設施也已疏散人員。科威特石油公司正與相關部門協調應對此次襲擊。通告沒有提及遇襲設施的具體位置。（央視新聞）"
     }
   ]
 }
