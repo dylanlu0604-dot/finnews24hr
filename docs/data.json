@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 01:20:26",
+  "updated": "2026-07-26 01:24:20",
   "count": 18147,
   "items": [
+    {
+      "id": "5008098",
+      "time": "2026-07-26 01:21:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：普京正在為俄羅斯擴大徵兵動員規模鋪墊條件，烏克蘭已掌握俄方秋季相關計劃的完整情報。"
+    },
     {
       "id": "5008097",
       "time": "2026-07-26 01:15:01",
@@ -166286,18 +166294,6 @@
         "國際"
       ],
       "text": "美國正籌備資金，用以在歐洲推行貼合“讓美國再次偉大”理念的相關活動。"
-    },
-    {
-      "id": "mkt:019f763f-f14f-7aab-8df2-4a30d11757a1",
-      "time": "2026-07-19 01:22:09",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Iran missile strike on Jordan airbase kills two U.S. service members, wounds others】Axios cited U.S. military officials saying two U.S. service members were killed and several wounded after Iran fired at least two ballistic missiles on Saturday that struck Jordan’s Muwaffaq Salti Airbase, which hosts U.S. forces and fighter jets. The deaths are the first U.S. fatalities since the conflict resumed two weeks ago and raise U.S. deaths in this round to 16."
     }
   ]
 }
