@@ -1,7 +1,46 @@
 {
   "date": "2026-07-25",
-  "count": 950,
+  "count": 954,
   "items": [
+    {
+      "id": "mkt:019f99c0-e646-7aab-8e95-af26f7c8deed",
+      "time": "2026-07-25 22:49:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【CSC Financial sees favorable investment outlook for power equipment sector】CSC Financial research says Chinese power-equipment exporters are entering a golden growth period. Transformer demand in the US and Europe is the largest globally and remains highly buoyant amid tight supply; Chinese firms’ North America exports are growing rapidly and should continue to gain share. The report expects sustained high demand in developed markets, rising demand in the Middle East and other non-US markets, and a shift of global capacity toward US/EU procurement — creating further opportunities for Chinese exporters. Top exporters are continuing to deliver on fundamentals, with strong market expectations being realised."
+    },
+    {
+      "id": "5008061",
+      "time": "2026-07-25 22:49:42",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：看好電力裝置產業投資前景】中信建投研報表示，中國電力裝置出海迎來黃金髮展期。分市場來看，美歐市場對變壓器需求規模全球領先，需求持續高景氣而供需偏緊，中國企業北美出海保持高增長，有望持續提升市場滲透率。我們預計，歐美市場需求持續高景氣；中東等非美市場需求增加+歐美虹吸全球產能的背景下，中國企業將大有可為。出口頭部公司持續兌現基本面，強預期持續照進現實。"
+    },
+    {
+      "id": "5008060",
+      "time": "2026-07-25 22:47:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "加沙內政部：呼籲國際社會及各斡旋國家向佔領方施壓，使其停止針對警務機構的打擊行動。"
+    },
+    {
+      "id": "5008059",
+      "time": "2026-07-25 22:47:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "加沙內政部：佔領方正加大力度打擊警務行動，企圖在加沙地帶製造混亂。"
+    },
     {
       "id": "5008058",
       "time": "2026-07-25 22:41:00",
