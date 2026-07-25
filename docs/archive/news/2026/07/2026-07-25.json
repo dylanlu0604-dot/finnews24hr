@@ -1,7 +1,33 @@
 {
   "date": "2026-07-25",
-  "count": 817,
+  "count": 820,
   "items": [
+    {
+      "id": "mkt:019f98a1-83c4-7aab-8e94-99c67dbed5f3",
+      "time": "2026-07-25 17:35:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Navigation warning: military operations in Bohai Strait, northern Yellow Sea】Dalian Maritime Safety Administration said on its website that parts of the Bohai Strait and the northern Yellow Sea will be closed for military operations from 1600 local time on July 26 to 1600 on August 2; entry is prohibited."
+    },
+    {
+      "id": "5007924",
+      "time": "2026-07-25 17:33:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克：霍爾木茲發生衝突事件後，我們在瑞士會談期間決定開通一條直接溝通渠道，以避免誤解。"
+    },
+    {
+      "id": "5007923",
+      "time": "2026-07-25 17:33:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海海峽黃海北部執行軍事任務】據中國海事局網站訊息，大連海事局釋出航行警告，7月26日16時至8月2日16時，渤海海峽黃海北部部分海域執行軍事任務，禁止駛入。"
+    },
     {
       "id": "5007922",
       "time": "2026-07-25 17:30:13",

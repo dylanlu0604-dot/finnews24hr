@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-25 17:33:13",
-  "count": 18211,
+  "updated": "2026-07-25 17:37:16",
+  "count": 18213,
   "items": [
+    {
+      "id": "mkt:019f98a1-83c4-7aab-8e94-99c67dbed5f3",
+      "time": "2026-07-25 17:35:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Navigation warning: military operations in Bohai Strait, northern Yellow Sea】Dalian Maritime Safety Administration said on its website that parts of the Bohai Strait and the northern Yellow Sea will be closed for military operations from 1600 local time on July 26 to 1600 on August 2; entry is prohibited."
+    },
+    {
+      "id": "5007924",
+      "time": "2026-07-25 17:33:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克：霍爾木茲發生衝突事件後，我們在瑞士會談期間決定開通一條直接溝通渠道，以避免誤解。"
+    },
+    {
+      "id": "5007923",
+      "time": "2026-07-25 17:33:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海海峽黃海北部執行軍事任務】據中國海事局網站訊息，大連海事局釋出航行警告，7月26日16時至8月2日16時，渤海海峽黃海北部部分海域執行軍事任務，禁止駛入。"
+    },
     {
       "id": "5007922",
       "time": "2026-07-25 17:30:13",
@@ -166924,16 +166950,6 @@
         "原創"
       ],
       "text": "【德國將安全警戒級別上調至“高威脅級別”】德國內政部長亞歷山大·多布林特（Alexander Dobrindt）週六接受採訪時表示，鑑於不斷增加的報告和情報，德國已將安全警戒級別從之前的“抽象威脅級別”提升至“高威脅級別”。多布林特表示：“這意味著在德國，我們必須時刻警惕襲擊風險。”他補充道：“針對我國的襲擊計劃顯而易見。”他指出，德國的基礎設施、個人和機構都面臨著風險。"
-    },
-    {
-      "id": "mkt:019f7492-b64e-7aab-8def-91f1e9272916",
-      "time": "2026-07-18 17:33:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【China foreign minister Wang Yi met Dominica foreign minister Henderson】July 18, 2026 — China foreign minister Wang Yi met Dominica foreign minister Henderson in Shanghai on the sidelines of the World Artificial Intelligence Conference. Wang said China opposes an emerging global AI divide, affirmed every country's right to economic development and technological progress, and urged AI be inclusive and benefit humanity. China offered to deepen coordination with developing countries, including Dominica, within the World Artificial Intelligence Cooperation Organization to strengthen the body and support Global South development."
     }
   ]
 }
