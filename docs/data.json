@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-25 18:21:17",
-  "count": 18207,
+  "updated": "2026-07-25 18:25:16",
+  "count": 18209,
   "items": [
+    {
+      "id": "5007937",
+      "time": "2026-07-25 18:24:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧德時代與臨汾公交簽署戰略合作框架協議】近日，寧德時代與臨汾公交簽署戰略合作框架協議。雙方將圍繞後市場服務、電池梯次回收利用與車網互動（V2G）領域深化合作，建立從裝車運營到迴圈回收的電池全生命週期管理體系。"
+    },
+    {
+      "id": "mkt:019f98cd-d9e0-7aab-8e94-d0a8b1fd8942",
+      "time": "2026-07-25 18:24:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "300750.SZ",
+        "Impact bullish"
+      ],
+      "text": "【CATL and Linfen Public Transport sign strategic cooperation framework】CATL and Linfen Public Transport have signed a strategic cooperation framework to deepen collaboration on aftermarket services, battery second‑life recycling and vehicle‑to‑grid (V2G) integration. The parties will establish a full‑lifecycle battery management system spanning vehicle installation, operation and circular recycling."
+    },
+    {
+      "id": "5007936",
+      "time": "2026-07-25 18:24:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗公佈摧毀駐約旦美軍彈藥庫畫面】伊朗國家電視臺今天（7月25日）釋出衛星影象顯示，約旦費薩爾國王空軍基地的美軍部隊彈藥倉庫被完全摧毀。（CCTV國際時訊）"
+    },
     {
       "id": "5007935",
       "time": "2026-07-25 18:20:26",
@@ -166875,16 +166903,6 @@
         "公司"
       ],
       "text": "【中建西部建設與國電投貴州金元簽署戰略合作協議】7月17日，中建西部建設黨委書記、董事長章維成與國家電投集團貴州金元股份有限公司（簡稱“國電投貴州金元”）黨委書記、董事長朱仕祥在貴陽舉行會談，共同見證中建西部建設與國電投貴州金元簽署戰略合作協議，雙方圍繞落實國家“雙碳”戰略、新能源業務合作、固廢資源化利用等議題開展深度座談交流。雙方共同簽署戰略合作協議，將聚焦核心合作領域推動重點專案落地見效，攜手賦能高質量發展。"
-    },
-    {
-      "id": "mkt:019f74bf-6e9b-7aab-8def-dda1fef6045d",
-      "time": "2026-07-18 18:22:10",
-      "tags": [
-        "MKT News",
-        "300433.SZ",
-        "Impact bullish"
-      ],
-      "text": "【Lens Technology unit and Shangwei New Materials agree first-phase 10,000-unit robot production-line cooperation】July 18, 2026 — Lens Technology’s unit Lens Intelligent Robotics (Changsha) and Shangwei New Materials signed a strategic cooperation to build a first-phase production line targeting a 10,000‑unit robot capacity. The agreement covers precision parts machining, joint-module manufacture and final assembly, and aims to deploy capacity and advance mass-production delivery."
     }
   ]
 }
