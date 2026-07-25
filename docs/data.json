@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-25 22:01:31",
-  "count": 18179,
+  "updated": "2026-07-25 22:05:43",
+  "count": 18178,
   "items": [
+    {
+      "id": "5008045",
+      "time": "2026-07-25 22:04:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼金屬出口因稀土核查面臨延誤】 印度尼西亞（印尼）部分金屬產品的出口正因針對稀土和鈾等放射性元素的新檢查而受阻，導致這家主要大宗商品生產國的供應鏈出現混亂。據知情人士透露，7月份多批貨物出現延誤，原因是印尼海關要求對特定關鍵礦物進行額外檢測，可加工成鋁的氧化鋁以及鎳生鐵的出口均受到了影響。目前尚不清楚此次中斷將持續多久，以及受影響的出口量有多大。印尼海關辦公室的一位發言人表示，政府正引入獨立檢驗機構以查明礦產出口的構成，包括檢測是否含有稀土金屬。政府並非隨意暫停或禁止氧化鋁和鎳等礦產商品的出口，並正確保符合要求的商品出口順暢。"
+    },
     {
       "id": "mkt:019f998d-e47b-7aab-8e95-727017470503",
       "time": "2026-07-25 21:54:00",
@@ -166587,25 +166595,6 @@
         "MKT News"
       ],
       "text": "According to the Wall Street Journal, Turkey plans to sell Russian air-defense systems and is seeking to procure U.S. F-35 fighters."
-    },
-    {
-      "id": "4995574",
-      "time": "2026-07-18 22:02:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及譴責伊朗對科威特、巴林和阿曼的襲擊。"
-    },
-    {
-      "id": "mkt:019f7588-9341-7aab-8df1-361dc0f9885a",
-      "time": "2026-07-18 22:01:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Russia, UAE foreign ministers speak; urge US and Iran to cease fire, resume talks】The Russian foreign ministry said on the 18th that Russian FM Lavrov spoke with UAE Deputy Prime Minister and FM Abdullah. Against the backdrop of ongoing US‑Iran exchanges in the Persian Gulf, both ministers called for an immediate ceasefire, resumption of negotiations and measures to保障 navigation safety in the Strait of Hormuz. They also discussed consolidating the Russia‑UAE strategic partnership, including expanding economic ties, and agreed to continue close diplomatic coordination bilaterally and in multilateral forums."
     }
   ]
 }
