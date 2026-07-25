@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-26 06:07:18_
-_本檔包含 3811 則快訊，約 686164 字_
+_更新時間：2026-07-26 07:04:52_
+_本檔包含 3808 則快訊，約 685902 字_
+
+---
+
+### 2026-07-22 04:23:00  #公司
+
+KKR基礎設施集團：截至2026年6月30日，交易型淨資產價值為80.7億美元。
+
+---
+
+### 2026-07-22 04:22:41  #市場 #國際
+
+【美伊衝突疊加紅海風險 國際油價升至五週高點】當地時間7月21日，受美伊相互襲擊升級及葉門胡塞武裝威脅封鎖沙烏地阿拉伯海運影響，國際油價上漲約2%，升至五週以來最高水平。布倫特原油期貨上漲1.79美元，漲幅2%，收於每桶91.01美元；美國西得州中質原油期貨上漲1.68美元，漲幅2%，收於每桶84.91美元。布倫特原油創6月10日以來最高收盤價，西得州中質原油則創6月11日以來最高。
+
+---
+
+### 2026-07-22 04:21:54  #市場
+
+【超微電腦大幅上調毛利率指引 股價盤後大漲】超微電腦預計第四財季營收接近指引區間110億-125億美元的底部。預計第四財季毛利潤率15%-17%，遠高於此前8.2%至8.4%的指引。本財年結束時，未交付訂單創下歷史新高，該季度錄得超過600億美元的待交付新訂單。超微電腦盤後漲超20%。
+
+---
+
+### 2026-07-22 04:21:50  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Capital One Financial earnings above expectations at 5.81 USD — Capital One Financial (COF) released earnings per share at 5.81 USD, compared to market expectations of 4.73 USD.
+
+---
+
+### 2026-07-22 04:21:49  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Chubb earnings above expectations at 7.26 USD — Chubb (CB) released earnings per share at 7.26 USD, compared to market expectations of 6.72 USD.
+
+---
+
+### 2026-07-22 04:21:30  #MKT News #Important #SMCI.O #Impact bullish
+
+【Super Micro sharply raises gross-margin guidance; shares surge after hours】Super Micro Computer (SMCI.O) said it expects fiscal Q4 revenue near the low end of its $11.0-12.5 bln guidance and now forecasts Q4 gross margin of 15-17%, versus prior guidance of 8.2-8.4%. Backlog at fiscal year-end reached a record high, and the quarter booked more than $60 bln of new orders for future delivery. Shares rose over 20% in after-hours trading.
 
 ---
 
@@ -22891,59 +22927,5 @@ On July 20, CHINA'S LI phoned Andy Burnham to congratulate him on assuming offic
 ### 2026-07-20 22:32:07  #央行 #市場 #觀點
 
 【摩根大通：英國“政策真空期”將給英鎊帶來走強機會】摩根大通外匯業務全球聯席主管Meera Chandan表示，在英國首相安迪·伯納姆公佈秋季預算案之前的“政策真空期”，英鎊將受到其相對較高收益率的支撐。預算案將使其財政政策更加明朗。在預算案公佈——通常是在11月份——之前，英鎊的交易將“取決於更為切實的因素，即經濟增長情況以及英國央行將如何應對”。“經濟增長帶來上行意外，其表現好於英國央行的預測，也好於市場一致預期”；英鎊作為G10貨幣中收益率最高幣種的地位，“使英鎊保持了相當強的韌性”。
-
----
-
-### 2026-07-20 22:31:46  #市場 #央行 #國際
-
-【美債期貨市場倉位分化：5年期合約遭大幅平倉，資金向8月聯邦基金期貨集中 】據芝加哥商品交易所（CME）公佈的最新未平倉合約資料顯示，美債及利率期貨市場正經歷顯著的倉位調整，不同期限合約的未平倉量呈現明顯的分化態勢。在國債期貨方面，5年期美國國債合約連續第二個交易日遭遇平倉，未平倉合約量大幅下降約3.4萬張（相當於每基點下降約150萬美元），創下6月30日以來的最大平倉幅度。與此同時，2年期國債合約未平倉量已連續第四個交易日下降，四個交易日累計降幅相當於每基點下降約500萬美元。相比之下，10年期和超10年期國債的未平倉合約量則出現了增加。在利率衍生品市場，大多數SOFR（有擔保隔夜融資利率）期貨期限的未平倉合約均出現下降，其中2027年到期的四份合約每基點下跌約160萬美元。而在聯邦基金期貨方面，7月合約的未平倉合約量下降近2.1萬份，跌至6月23日以來的最低水平；與之形成鮮明對比的是，8月合約的未平倉合約量延續了上升勢頭，目前已接近80萬份，是7月合約的兩倍多。這一倉位變動表明，隨著7月合約到期臨近，交易員正加速平倉或移倉。資金正顯著向8月聯邦基金期貨集中，反映出市場對美聯儲8月利率決議的高度關注與博弈正在升溫。
-
----
-
-### 2026-07-20 22:30:52  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
-
-JP Morgan said a UK policy vacuum could provide an opportunity for sterling to strengthen.
-
----
-
-### 2026-07-20 22:30:46  #宏觀
-
-土耳其財政部：截至6月底中央政府債務餘額為14.9925萬億里拉。
-
----
-
-### 2026-07-20 22:29:51  #其他
-
-巴西農業部：6月下半月巴西中南部甘蔗壓榨量同比下降28.4%，至3115萬噸；食糖產量同比下降44.2%，至161萬噸；乙醇產量同比下降13.1%，至17億升。
-
----
-
-### 2026-07-20 22:27:50  #央行 #市場
-
-【英債收益率創近期新高 市場大幅加碼英國央行加息預期 】英國國債市場遭遇拋售，跌幅進一步擴大。交易員大幅加碼對英國央行加息的押注，推動英國10年期國債收益率攀升至本週以來的最高水平。資料顯示，英國10年期國債收益率當日上漲6個基點，升至5.01%。作為對比，德國10年期國債收益率同期上漲2個基點至3.14%。
-
----
-
-### 2026-07-20 22:27:02  #國際
-
-【伊朗設拉子傳出爆炸聲】當地時間20日獲悉，伊朗設拉子部分地區的居民聽到城市西北部傳出爆炸聲。（央視新聞）
-
----
-
-### 2026-07-20 22:24:39  #公司
-
-空客：各公司期待繼續與政府合作伙伴保持協作。
-
----
-
-### 2026-07-20 22:24:37  #Trading Economics #Markets #commodity #Importance 0
-
-Lumber Hits 49-week High — Lumber increased to 642.50 USD/1000 board feet, the highest since August 2025. Over the past 4 weeks, Lumber gained 0.64%, and in the last 12 months, it decreased 4.18%.
-
----
-
-### 2026-07-20 22:22:26  #其他
-
-【元腦伺服器推出CXL記憶體跨代擴充套件方案】7月20日，元腦伺服器宣佈推出CXL（Compute Express Link）記憶體跨代擴充套件方案，實現DDR5和DDR4同機部署記憶體擴容。據介紹，基於元腦伺服器NF5280，在24條本地DDR5記憶體基本配置下，透過自研CXL記憶體擴充套件卡，單機最多可擴充套件16條DDR4記憶體，按照單條記憶體32GB容量，額外擴充套件512GB記憶體，整機記憶體容量提升33%，成本大幅降低25%。目前，該方案已在國內某大型網際網路客戶完成驗證並實現規模應用。
 
 ---
