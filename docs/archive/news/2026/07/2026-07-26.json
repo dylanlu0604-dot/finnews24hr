@@ -1,7 +1,64 @@
 {
   "date": "2026-07-26",
-  "count": 119,
+  "count": 125,
   "items": [
+    {
+      "id": "5008156",
+      "time": "2026-07-26 06:01:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月26日06時繼續釋出強對流天氣黃色預警。"
+    },
+    {
+      "id": "5008155",
+      "time": "2026-07-26 06:00:57",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "中央氣象臺7月26日06時繼續釋出暴雨紅色預警。"
+    },
+    {
+      "id": "5008154",
+      "time": "2026-07-26 06:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月26日06時繼續釋出高溫黃色預警。"
+    },
+    {
+      "id": "mkt:019f9b4b-0a7b-7aab-8e97-403ccf5d8047",
+      "time": "2026-07-26 06:00:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukrainian Air Force says Russian forces are launching ballistic-missile strikes on Kyiv."
+    },
+    {
+      "id": "mkt:019f9b4a-f119-7aab-8e97-3a34729ae009",
+      "time": "2026-07-26 06:00:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kyiv mayor says the city was hit in a Russian attack; falling debris ignited fires in at least three districts."
+    },
+    {
+      "id": "5008153",
+      "time": "2026-07-26 05:58:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：基輔遭俄軍襲擊，墜落的碎片在至少三個區引發火災。"
+    },
     {
       "id": "5008152",
       "time": "2026-07-26 05:58:54",

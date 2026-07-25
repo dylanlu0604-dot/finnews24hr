@@ -1,7 +1,64 @@
 {
-  "updated": "2026-07-26 05:59:25",
-  "count": 18135,
+  "updated": "2026-07-26 06:03:31",
+  "count": 18138,
   "items": [
+    {
+      "id": "5008156",
+      "time": "2026-07-26 06:01:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月26日06時繼續釋出強對流天氣黃色預警。"
+    },
+    {
+      "id": "5008155",
+      "time": "2026-07-26 06:00:57",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "中央氣象臺7月26日06時繼續釋出暴雨紅色預警。"
+    },
+    {
+      "id": "5008154",
+      "time": "2026-07-26 06:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月26日06時繼續釋出高溫黃色預警。"
+    },
+    {
+      "id": "mkt:019f9b4b-0a7b-7aab-8e97-403ccf5d8047",
+      "time": "2026-07-26 06:00:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukrainian Air Force says Russian forces are launching ballistic-missile strikes on Kyiv."
+    },
+    {
+      "id": "mkt:019f9b4a-f119-7aab-8e97-3a34729ae009",
+      "time": "2026-07-26 06:00:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kyiv mayor says the city was hit in a Russian attack; falling debris ignited fires in at least three districts."
+    },
+    {
+      "id": "5008153",
+      "time": "2026-07-26 05:58:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：基輔遭俄軍襲擊，墜落的碎片在至少三個區引發火災。"
+    },
     {
       "id": "5008152",
       "time": "2026-07-26 05:58:54",
@@ -166134,32 +166191,6 @@
         "國際"
       ],
       "text": "美國中央司令部：打擊行動旨在削弱伊朗威脅航運的能力。"
-    },
-    {
-      "id": "4995706",
-      "time": "2026-07-19 06:03:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局（FDA）：泰勒農場已確認，這批檢測呈陽性的碎冰山生菜不屬於該公司當前召回範圍。"
-    },
-    {
-      "id": "mkt:019f7740-6400-7aab-8df3-a690f2388bf5",
-      "time": "2026-07-19 06:02:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israeli military says explosive that killed Lebanese soldier was not its device】Israeli military said the explosive that killed a Lebanese soldier earlier today in Mansouri, southern Lebanon, was not its device. Lebanon’s army said a \"suspicious object\" inside a military vehicle exploded in the southern town, killing one soldier and wounding another. The Israeli military said the Lebanese vehicle ran over the device in the border \"security zone\", that Israeli troops had not been operating in the area recently, and that the device may have been emplaced by Hezbollah."
-    },
-    {
-      "id": "4995705",
-      "time": "2026-07-19 06:01:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局（FDA）：泰勒農場墨西哥分公司供應的碎冰山萵苣樣本檢測出環孢子菌呈陽性。"
     }
   ]
 }
