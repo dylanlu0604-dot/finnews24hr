@@ -1,7 +1,26 @@
 {
   "date": "2026-07-25",
-  "count": 778,
+  "count": 780,
   "items": [
+    {
+      "id": "5007899",
+      "time": "2026-07-25 15:24:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩稱以軍行動致該國南部發生強烈爆炸】當地時間25日上午，黎巴嫩南部提爾地區馬沙阿曼蘇里發生強烈爆炸，周邊村莊均能聽到爆炸聲。黎巴嫩方面稱，此次爆炸系以色列國防軍所為。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f9829-87ea-7aab-8e94-23ed4c77b14a",
+      "time": "2026-07-25 15:24:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Lebanon says Israel Defense Forces action caused powerful blast in south】On the morning of the 25th local time, a powerful explosion struck Masha Aman Souri in the Tyre district of southern Lebanon, audible in surrounding villages. Lebanese authorities said the blast was caused by the Israel Defense Forces."
+    },
     {
       "id": "5007898",
       "time": "2026-07-25 15:21:02",
