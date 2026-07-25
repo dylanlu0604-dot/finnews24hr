@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 04:17:23",
-  "count": 18137,
+  "updated": "2026-07-26 04:21:17",
+  "count": 18135,
   "items": [
+    {
+      "id": "5008132",
+      "time": "2026-07-26 04:19:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊指責美國宣佈另一條途經霍爾木茲海峽的航運通道，此舉違反相關諒解備忘錄。其表示，該諒解備忘錄明確規定，航運通行須遵循伊朗公佈的相關安排。"
+    },
     {
       "id": "mkt:019f9ae6-cb63-7aab-8e96-e62b110ca47e",
       "time": "2026-07-26 04:10:44",
@@ -166150,32 +166158,6 @@
         "其他"
       ],
       "text": "世界盃季軍爭奪戰開打前，預測平臺Kalshi市場押注法國獲勝的比例達69%，英格蘭為31%，相關賽果投注交易額已超5700萬美元。"
-    },
-    {
-      "id": "4995686",
-      "time": "2026-07-19 04:20:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟與海灣國家強烈譴責伊朗對商船和該地區國家的攻擊，拒絕任何國家對霍爾木茲提出的主權或控制主張。"
-    },
-    {
-      "id": "4995685",
-      "time": "2026-07-19 04:19:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟與海灣國家要求伊朗無條件、無收費地永久開放霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019f76e1-3360-7aab-8df3-3bdbfb3dba8c",
-      "time": "2026-07-19 04:18:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Burnham to drop digital ID scheme, shift resources to cost-of-living relief】Incoming UK prime minister Burnham, who assumes office next Monday, will abandon the Starmer government's proposed digital ID scheme and redirect resources toward cost-of-living relief, Burnham’s team said on Saturday. The scheme drew about 3 million signatures on an opposition petition last year. It is unclear how much fiscal saving abandonment would yield: the Starmer government did not publish a clear budget for the plan, and the Office for Budget Responsibility previously estimated costs around £1.8bn, a figure government officials have contested."
     }
   ]
 }
