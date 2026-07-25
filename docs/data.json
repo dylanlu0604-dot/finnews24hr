@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-25 12:50:01",
+  "updated": "2026-07-25 12:53:53",
   "count": 18270,
   "items": [
+    {
+      "id": "5007846",
+      "time": "2026-07-25 12:51:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗戰事擾亂供應鏈 印度健怡可樂漲價換包裝】健怡可樂一向在印度市場熱銷，賣得最多的是300毫升鋁罐裝。然而，伊朗戰事延宕擾亂鋁罐供應鏈，可口可樂公司不得不調整進口源，推出330毫升鋁罐裝，並上調售價。媒體認為，這一案例表明，受伊朗戰事影響，不少企業正被迫調整供應鏈以及在主要消費市場提高售價。（新華社）"
+    },
     {
       "id": "mkt:019f979a-2144-7aab-8e93-33ffb7b8efd5",
       "time": "2026-07-25 12:48:08",
@@ -167424,14 +167433,6 @@
         "Europe & UK"
       ],
       "text": "【China-Europe freight train from Fuzhou departs; four-year trade value CNY1.6 bln】A China-Europe freight train carrying 55 containers departed Fuzhou's Jiangyin rail logistics park on the 17th, bound for Eastern Europe via the Erenhot border crossing, Fuzhou Customs said. The Fuzhou route has run 77 trains over four years, shipping 7,918 standard containers and handling more than CNY1.6 billion in import-export trade."
-    },
-    {
-      "id": "4995321",
-      "time": "2026-07-18 12:52:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中歐班列（福州）開行4年進出口總貨值超16億元】昨天（17日），一列滿載55個集裝箱的中歐班列從福建福州江陰鐵路物流園區緩緩出發，將經由二連浩特口岸前往東歐。福州海關資料顯示，中歐班列（福州）運營四年來，已累計開行77列，發運貨物7918標箱，進出口貨值總額超16億元。（央視新聞）"
     }
   ]
 }
