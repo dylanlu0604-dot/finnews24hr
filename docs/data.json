@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 00:27:35",
-  "count": 18173,
+  "updated": "2026-07-26 00:31:42",
+  "count": 18168,
   "items": [
+    {
+      "id": "mkt:019f9a1c-5955-7aab-8e95-e496d01c92ea",
+      "time": "2026-07-26 00:29:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sudan's army said it has retaken Bara in North Kordofan after heavy fighting with the Rapid Support Forces."
+    },
     {
       "id": "5008085",
       "time": "2026-07-26 00:26:20",
@@ -166475,63 +166483,6 @@
         "Important"
       ],
       "text": "Iran Supreme Leader Mujtaba Khamenei said the United States has repeatedly violated agreements, proving how worthless and untrustworthy a U.S. president's signature is, and that coercion, hegemonism and brutal conduct are inseparable elements of U.S. policy and practice."
-    },
-    {
-      "id": "4995618",
-      "time": "2026-07-19 00:31:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖穆傑塔巴釋出書面宣告。"
-    },
-    {
-      "id": "mkt:019f7611-2767-7aab-8df1-df72f790f885",
-      "time": "2026-07-19 00:31:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "An adviser to Ukraine's interior minister said Ukrainian strikes have reduced Russia's oil refining capacity."
-    },
-    {
-      "id": "mkt:019f7610-e3cf-7aab-8df1-d58653820401",
-      "time": "2026-07-19 00:30:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Advisor to Ukraine's interior minister says Russian President Putin's approval rating has fallen significantly."
-    },
-    {
-      "id": "mkt:019f7610-526e-7aab-8df1-cd360336131d",
-      "time": "2026-07-19 00:30:08",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Palantir",
-        "PLTR.N",
-        "Impact bearish"
-      ],
-      "text": "【France and Germany to study European military software to reduce reliance on Palantir】France and Germany said they will study and develop Europe-controlled military software as an alternative to US firm Palantir Technologies Inc (PLTR.N). France’s domestic intelligence service announced in June it would terminate its Palantir contract, and Germany’s intelligence service has selected the French alternative ChapsVision. In a joint statement after talks between Macron and German chancellor Merz, the two governments said they will pursue European sovereign digital infrastructure and assess joint capabilities in data-centric security, artificial intelligence and cloud solutions, citing France’s Arcadia project and a similar German solution."
-    },
-    {
-      "id": "mkt:019f760e-b68a-7aab-8df1-c4a3eb369d14",
-      "time": "2026-07-19 00:28:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to a statement, Hungary's president has signed a constitutional amendment that ends his tenure as head of state."
-    },
-    {
-      "id": "4995617",
-      "time": "2026-07-19 00:27:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總統舒尤克簽署憲法修正案，結束其國家元首任期。"
     }
   ]
 }

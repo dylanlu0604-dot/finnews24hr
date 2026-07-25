@@ -1,7 +1,15 @@
 {
   "date": "2026-07-26",
-  "count": 9,
+  "count": 10,
   "items": [
+    {
+      "id": "mkt:019f9a1c-5955-7aab-8e95-e496d01c92ea",
+      "time": "2026-07-26 00:29:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sudan's army said it has retaken Bara in North Kordofan after heavy fighting with the Rapid Support Forces."
+    },
     {
       "id": "5008085",
       "time": "2026-07-26 00:26:20",
