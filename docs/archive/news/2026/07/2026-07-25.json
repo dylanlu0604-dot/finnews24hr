@@ -1,7 +1,23 @@
 {
   "date": "2026-07-25",
-  "count": 903,
+  "count": 905,
   "items": [
+    {
+      "id": "mkt:019f9957-6366-7aab-8e95-3cc7db5a7c95",
+      "time": "2026-07-25 20:54:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Syrian transitional government president meets United Nations secretary-general in Damascus】On July 25 local time, Syrian transitional government president Shara met United Nations Secretary-General GUTERRES and his delegation in Damascus. Foreign Minister Hibani and other officials attended. They discussed strengthening Syria‑UN cooperation on humanitarian and development assistance, support for reconstruction, and reaffirmed respect for Syria’s sovereignty, unity and territorial integrity."
+    },
+    {
+      "id": "5008008",
+      "time": "2026-07-25 20:53:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國將重新開放南部邊境口岸 恢復墨西哥活牛進口】美國農業部24日說，將從下月起逐步開放部分美墨邊境活牛貿易口岸。為防止“新大陸螺旋蠅蛆病”蔓延，美國已暫停從南部邊境進口牛等活畜一年多。根據美國農業部宣告，美方計劃於8月24日重新開放位於亞利桑那州道格拉斯的活牛進口口岸，並逐步開放位於新墨西哥州聖特雷莎和哥倫布的兩個口岸。宣告說，經上述口岸進入美國的所有牲畜均需接受全面檢疫，以確保未感染新大陸螺旋蠅蛆。特朗普政府2025年5月以墨西哥暴發新大陸螺旋蠅蛆病為由，暫停經南部邊境進口活牛、馬和野牛。（新華社）"
+    },
     {
       "id": "5008006",
       "time": "2026-07-25 20:48:08",
