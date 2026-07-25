@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-26 03:00:50",
+  "updated": "2026-07-26 03:04:49",
   "count": 18139,
   "items": [
+    {
+      "id": "5008119",
+      "time": "2026-07-26 03:01:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩和巴勒斯坦遺址申遺成功】正在韓國釜山舉行的聯合國教科文組織第48屆世界遺產大會24日透過決議，將位於黎巴嫩南部的博福特城堡等五座城堡和約旦河西岸的塞巴斯蒂亞考古遺址，同時列入《世界遺產名錄》和《瀕危世界遺產名錄》。（央視新聞）"
+    },
+    {
+      "id": "5008118",
+      "time": "2026-07-26 03:00:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：如果不100%滿足我們對伊朗的要求，戰爭將以全力度重啟】美國總統特朗普週六在接受法國媒體採訪時表示，若無法拿到美方想要的全部條件，他“完全有可能”重啟針對伊朗的全面戰爭。當被問及想對美國的歐洲盟友傳遞何種資訊時，特朗普稱：“有我當他們的盟友，是他們的幸運。”"
+    },
+    {
+      "id": "mkt:019f9aa6-79c2-7aab-8e96-83fd7e2ea376",
+      "time": "2026-07-26 03:00:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's foreign ministry condemned Ukraine for an attack on an Iranian merchant ship in the Caspian Sea, saying an explosion killed one crew member and injured another."
+    },
     {
       "id": "5008117",
       "time": "2026-07-26 02:58:55",
@@ -166194,30 +166220,6 @@
         "XAUUSD"
       ],
       "text": "CENTCOM said U.S. forces continue to strictly enforce a maritime blockade against Iran. As of July 18, CENTCOM has diverted five merchant vessels and rendered one vessel inoperable."
-    },
-    {
-      "id": "4995671",
-      "time": "2026-07-19 03:02:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：部隊嚴格執行針對伊朗的海上封鎖行動。"
-    },
-    {
-      "id": "4995670",
-      "time": "2026-07-19 03:02:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部已調改5艘商船航線。"
-    },
-    {
-      "id": "mkt:019f769b-7a8f-7aab-8df2-cff9ed2e097c",
-      "time": "2026-07-19 03:02:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ZELENSKIY said decisions on the military will continue to be negotiated."
     }
   ]
 }
