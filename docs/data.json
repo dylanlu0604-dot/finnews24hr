@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-26 03:13:59",
-  "count": 18136,
+  "updated": "2026-07-26 03:17:55",
+  "count": 18140,
   "items": [
+    {
+      "id": "mkt:019f9ab5-b6db-7aab-8e96-9bb336fad5e9",
+      "time": "2026-07-26 03:17:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Gaza hospital said Israeli forces' gunfire in Gaza killed at least seven Palestinians and wounded 20."
+    },
+    {
+      "id": "5008123",
+      "time": "2026-07-26 03:16:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：今早以來，以軍在加沙地帶開火，造成至少7名巴勒斯坦人死亡、20人受傷。"
+    },
+    {
+      "id": "mkt:019f9ab3-e5ab-7aab-8e96-9259e06e3413",
+      "time": "2026-07-26 03:15:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. appeals court refused to allow enforcement of Trump's executive order restricting mail-in voting."
+    },
+    {
+      "id": "5008122",
+      "time": "2026-07-26 03:14:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國上訴法院拒絕允許實施特朗普限制郵寄投票的行政令。"
+    },
+    {
+      "id": "5008121",
+      "time": "2026-07-26 03:14:15",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【卡達宣佈將恢復海上航行】卡達7月25日宣佈，自26日起，全面恢復各類船舶的海上航行活動。此前，卡達曾於7月12日建議公民暫停所有海上活動。海事部門在宣告中表示，所有船員和運營方須嚴格遵守國家海事法規。出航前及航行期間，務必全面檢查並配齊安全與安保裝置，保障海上航行安全。（央視新聞）"
+    },
     {
       "id": "mkt:019f9ab2-0310-7aab-8e96-8e276fa63ab5",
       "time": "2026-07-26 03:13:05",
@@ -166173,19 +166214,6 @@
         "國際"
       ],
       "text": "最新畫面顯示，美軍從一處據稱位於科威特的陣地向伊朗發射陸軍戰術導彈系統（ATACMS）導彈。"
-    },
-    {
-      "id": "mkt:019f76a9-4a05-7aab-8df2-e9c95a5a0d19",
-      "time": "2026-07-19 03:17:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian Student News Agency reported minutes ago that explosion-like sounds were heard at Abbas Port. A Hormozgan provincial official confirmed the noises but said there were no reports of missile strikes or U.S. fighter attacks; some media said the sounds may have come from IRGC Navy warnings to vessels in the Strait of Hormuz."
     }
   ]
 }
