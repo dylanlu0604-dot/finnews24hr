@@ -1,7 +1,15 @@
 {
   "date": "2026-07-25",
-  "count": 482,
+  "count": 483,
   "items": [
+    {
+      "id": "mkt:019f96ab-2173-7aab-8e90-faab19a9a8a4",
+      "time": "2026-07-25 08:27:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SpaceX conducts successful 13th Starship test flight】According to launch livestream footage, SpaceX successfully carried out the 13th test flight of its super-heavy Starship from its Texas Starbase after multiple weather delays and pre-launch automatic aborts. The mission had been postponed three times; an initial attempt was halted at the 11-TH HOUR when an automatic system stopped the countdown seconds before liftoff over a technical parameter, and later postponements were due to adverse weather around the Starbase launch area."
+    },
     {
       "id": "mkt:019f96a1-933c-7aab-8e90-f35a6eed8e12",
       "time": "2026-07-25 08:16:39",

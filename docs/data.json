@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-25 08:23:43",
-  "count": 18233,
+  "updated": "2026-07-25 08:27:31",
+  "count": 18232,
   "items": [
+    {
+      "id": "mkt:019f96ab-2173-7aab-8e90-faab19a9a8a4",
+      "time": "2026-07-25 08:27:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SpaceX conducts successful 13th Starship test flight】According to launch livestream footage, SpaceX successfully carried out the 13th test flight of its super-heavy Starship from its Texas Starbase after multiple weather delays and pre-launch automatic aborts. The mission had been postponed three times; an initial attempt was halted at the 11-TH HOUR when an automatic system stopped the countdown seconds before liftoff over a technical parameter, and later postponements were due to adverse weather around the Starbase launch area."
+    },
     {
       "id": "mkt:019f96a1-933c-7aab-8e90-f35a6eed8e12",
       "time": "2026-07-25 08:16:39",
@@ -167046,24 +167054,6 @@
         "國際"
       ],
       "text": "【葉門薩那舉行大規模集會 反對外部軍事幹】葉門胡塞武裝控制下的葉門首都薩那17日舉行大規模民眾集會。集會參與者表示，反對對葉門實施封鎖和干預，同時反對美國對地區的軍事行動。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f729e-2079-7aab-8dec-6e696855088c",
-      "time": "2026-07-18 08:26:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kuwaiti military says its air-defence system successfully intercepted an enemy drone attack."
-    },
-    {
-      "id": "4995181",
-      "time": "2026-07-18 08:24:27",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：蘋果公司將日本iPhone售價上調10%。"
     }
   ]
 }
