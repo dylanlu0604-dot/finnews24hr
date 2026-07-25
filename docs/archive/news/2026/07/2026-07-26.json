@@ -1,7 +1,21 @@
 {
   "date": "2026-07-26",
-  "count": 22,
+  "count": 23,
   "items": [
+    {
+      "id": "mkt:019f9a39-0ff7-7aab-8e96-10b8686bec25",
+      "time": "2026-07-26 01:00:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Trump instructed US military on Friday not to launch new strikes on Iran, Axios says】Axios, citing two sources, reported Trump on Friday instructed the US military not to launch new strikes in Iran, halting 13 consecutive days of daily strikes. Sources said it is unclear whether the order is a one-off pause or signals a sustained halt. They said the move creates diplomatic space and reflects limits to the effect of strikes absent renewed large-scale operations. The military can mobilize relatively quickly if ordered to resume and is planning for a possible return to large-scale action, but has not received such an order. The White House did not respond."
+    },
     {
       "id": "5008092",
       "time": "2026-07-26 00:58:52",

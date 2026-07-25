@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-26 01:00:16",
-  "count": 18154,
+  "updated": "2026-07-26 01:04:17",
+  "count": 18152,
   "items": [
+    {
+      "id": "mkt:019f9a39-0ff7-7aab-8e96-10b8686bec25",
+      "time": "2026-07-26 01:00:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Trump instructed US military on Friday not to launch new strikes on Iran, Axios says】Axios, citing two sources, reported Trump on Friday instructed the US military not to launch new strikes in Iran, halting 13 consecutive days of daily strikes. Sources said it is unclear whether the order is a one-off pause or signals a sustained halt. They said the move creates diplomatic space and reflects limits to the effect of strikes absent renewed large-scale operations. The military can mobilize relatively quickly if ordered to resume and is planning for a possible return to large-scale action, but has not received such an order. The White House did not respond."
+    },
     {
       "id": "5008092",
       "time": "2026-07-26 00:58:52",
@@ -166325,30 +166339,6 @@
         "XAUUSD"
       ],
       "text": "UK Maritime Trade Operations said military authorities reported the vessel had been forced into Somali territorial waters and the office has reclassified the incident as a hijacking."
-    },
-    {
-      "id": "4995638",
-      "time": "2026-07-19 01:04:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國海上貿易行動辦公室：葉門沿岸海域事件重新定性為船隻劫持】英國海上貿易行動辦公室將葉門穆卡拉港以南65海里處發生的事件重新歸類為劫持事件，涉事船隻遭不明人員登船控制。事發時該船正於亞丁灣向東航行。軍方向英國海上貿易行動辦公室通報，涉事船隻已被操控駛入索馬利亞領海。"
-    },
-    {
-      "id": "4995637",
-      "time": "2026-07-19 01:02:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方稱其對黎巴嫩南部的真主黨武裝人員發動了襲擊。"
-    },
-    {
-      "id": "mkt:019f762d-6fc7-7aab-8df2-210bf8bb83da",
-      "time": "2026-07-19 01:01:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Study: Extreme heat could cost Italy EUR 60–120 billion annually】On the 18th, a study by the Italian federation of commerce, tourism and services estimated that more frequent extreme heat could impose EUR 60–120 billion in annual economic losses. If Italy sees 30–60 days of extreme heat a year, firms would face higher energy costs, lower labor productivity, forced adaptation investment and revenue declines; shifts in household consumption and tourism patterns would further strain retail and tourism sector revenues."
     }
   ]
 }
