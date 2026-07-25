@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-25 15:14:18",
-  "count": 18271,
+  "updated": "2026-07-25 15:18:22",
+  "count": 18273,
   "items": [
+    {
+      "id": "mkt:019f9823-2ca0-7aab-8e94-13332d4aca26",
+      "time": "2026-07-25 15:17:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Press TV reports long queues at petrol stations across Saudi Arabia after a Yemeni attack on a refinery."
+    },
+    {
+      "id": "mkt:019f9822-3cd5-7aab-8e94-0841fb4253cc",
+      "time": "2026-07-25 15:16:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "TCOM.O",
+        "Impact bearish"
+      ],
+      "text": "【Trip.com Group announces 19 rectification measures after SAMR administrative penalty】The State Administration for Market Regulation (SAMR) today imposed an administrative penalty on Trip.com Group and required rectification. Trip.com said it fully accepts the decision, will strictly implement the requirements and has drawn up a remediation plan under SAMR guidance. The group published 19 measures across five areas: immediately cease exclusive partnership practices and guarantee hotels’ operational autonomy; stop unreasonable “lowest price online” demands and ensure hotels’ independent pricing; protect hotels’ legal rights and solicit merchant feedback to improve the business environment; strengthen consumer rights protection and service guarantees; and enhance compliance and establish durable governance mechanisms."
+    },
+    {
+      "id": "mkt:019f9820-9eab-7aab-8e94-04b6d6ccddbb",
+      "time": "2026-07-25 15:15:02",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Typhoon Hongxia approaching; Hong Kong–Zhuhai–Macao Bridge channel put under temporary traffic control】Typhoon Hongxia intensified to typhoon strength on the morning of July 25 and is forecast to make landfall between Shenzhen and Huilai overnight July 25–26 as a typhoon or strong typhoon; expected landfall location is roughly 150 km from Zhuhai. The Hong Kong–Zhuhai–Macao Bridge Maritime Safety Administration raised its tropical cyclone response from Level IV to Level III at 10:20 on July 25 and at 12:00 implemented temporary traffic control, prohibiting inland river vessels from entering the bridge channel."
+    },
+    {
+      "id": "5007897",
+      "time": "2026-07-25 15:14:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大金重工自主研發、自主建造的KING TWO正式交付】據大金重工訊息，近日，大金重工自主研發、自主建造的KING系列二號船KING TWO正式命名交付。這是繼首船KING ONE投入商業運營後的又一里程碑，標誌著KING系列船型全面進入標準化、批次化建造階段，按照船隊規劃，KING系列三號船KING THREE將於9月底交付，2026年內實現三船全面投運；定位更高運力的EMPEROR系列超寬過載甲板運輸船正穩步推進。"
+    },
     {
       "id": "mkt:019f981a-c94d-7aab-8e93-f97c9488b9a6",
       "time": "2026-07-25 15:08:39",
@@ -167461,22 +167502,6 @@
         "其他"
       ],
       "text": "【重慶釋出地質災害氣象風險橙色預警】18日，重慶市規劃和自然資源局、重慶市氣象局聯合釋出全市地質災害氣象風險預警。 7月18日8時至19日8時，重慶市彭水、武隆、黔江、酉陽屬於風險高地區，地質災害氣象風險等級為Ⅱ級（橙色預警），涪陵、南川、豐都、忠縣、萬州、開州、奉節、巫山、城口、石柱、秀山屬於風險較高地區，地質災害氣象風險等級為Ⅲ級（黃色預警），沙坪壩、北碚、兩江新區、墊江、長壽、梁平、雲陽、巫溪屬於有一定風險地區，地質災害氣象風險等級為Ⅳ級（藍色預警）。"
-    },
-    {
-      "id": "4995384",
-      "time": "2026-07-18 15:17:14",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【投資中國AI產業鏈成全球共識 中國AI科技零部件訂單排至2027年底】今年以來，我國人形機器人賽道持續火爆，發展迎來多項里程碑式的跨越。而這背後，是強大的AI產業鏈作為核心支撐。多家外資機構在接受記者採訪時表示，看好中國AI產業鏈，目前投資中國AI產業鏈已經成為全球投資者的共識。資料顯示，目前，中國平均每天生產晶片超15億塊，大模型日均呼叫量達數百萬億詞元，居世界首位。今年中國AI核心產業規模增速預計將繼續超過30%。高盛近期釋出的行業研究報告指出，當前中國AI板塊總市值約4萬億美元，對比其自身產業優勢而言，仍有很大增長潛力。瑞銀在近日發表的中國股票策略中也指出，中國AI科技零部件需求依然非常強勁，訂單已經排到2027年底。（央視財經）"
-    },
-    {
-      "id": "4995383",
-      "time": "2026-07-18 15:16:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本發生兩起集體食物中毒 百餘人出現症狀】據日本媒體報道，日本岐阜縣高山市和東京都八王子市近日分別發生集體食物中毒事件，共130多人出現食物中毒症狀。（新華社）"
     }
   ]
 }
