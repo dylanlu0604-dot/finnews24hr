@@ -1,7 +1,23 @@
 {
   "date": "2026-07-26",
-  "count": 51,
+  "count": 53,
   "items": [
+    {
+      "id": "mkt:019f9a93-fcc8-7aab-8e96-742be639fd94",
+      "time": "2026-07-26 02:40:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Former Israeli prime minister Naftali Bennett said he is the most suitable person to serve as prime minister and will accept the people's choice."
+    },
+    {
+      "id": "5008110",
+      "time": "2026-07-26 02:37:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果不100%滿足我們對伊朗的要求，戰爭將以全力度重啟。"
+    },
     {
       "id": "mkt:019f9a8a-f3e6-7aab-8e96-6ac6a6ee2317",
       "time": "2026-07-26 02:30:25",
