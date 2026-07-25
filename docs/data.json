@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-25 08:35:00",
-  "count": 18235,
+  "updated": "2026-07-25 08:38:46",
+  "count": 18237,
   "items": [
+    {
+      "id": "5007706",
+      "time": "2026-07-25 08:37:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥總統辛鮑姆表示，墨西哥將加強與美國在牛業方面的合作。"
+    },
+    {
+      "id": "5007705",
+      "time": "2026-07-25 08:36:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Waymo計劃終止與Uber的Robotaxi合作，加劇雙方競爭】Alphabet旗下無人駕駛部門Waymo正在探索退出其與Uber Technologies的Robotaxi合作關係的選項。Waymo已發出通知，計劃於2028年1月在奧斯汀和亞特蘭大透過其自有App推出服務，從而結束其在這兩個城市的獨家合作。根據現有合同，目前的Waymo車隊將至少在2028年5月之前繼續保留在Uber的平臺上。"
+    },
+    {
+      "id": "5007704",
+      "time": "2026-07-25 08:36:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "柒和伊控股宣佈，將不再投資波蘭連鎖便利店企業。"
+    },
+    {
+      "id": "5007703",
+      "time": "2026-07-25 08:35:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門駐華盛頓大使：面對胡塞武裝的威脅，國際社會需採取統一且強有力的威懾應對措施。"
+    },
     {
       "id": "5007702",
       "time": "2026-07-25 08:34:29",
@@ -167066,23 +167098,6 @@
         "其他"
       ],
       "text": "【加速器驅動先進核能系統智慧解決方案發布】我國核能基礎研究再添“AI助手”。昨天，在2026世界人工智慧大會上，我國科研機構正式釋出“面向加速器驅動先進核能系統的智慧化解決方案”，旨在為核能系統賦能，提升執行效率與安全水平。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f72a6-b43c-7aab-8dec-71906b6c4c56",
-      "time": "2026-07-18 08:35:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shanghai Shipping Exchange: Available capacity tight this week; composite coastal freight index rises】Shanghai Shipping Exchange said heat in southern China and rising downstream procurement, together with a typhoon that left vessels delayed at the Yangtze River estuary and reduced turnover efficiency, have tightened available capacity and firmed shipowners' pricing. The China coastal (dry-bulk) composite freight index closed at 1,158.33 on July 17, up 7.9% from the previous reading."
-    },
-    {
-      "id": "4995186",
-      "time": "2026-07-18 08:35:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【上海航交所：本週原油運價高位震盪】據上海航交所，本週，美國能源資訊署(EIA)公佈資料顯示，截至2026年7月10日當週，美國除卻戰略儲備的商業原油庫存減少169.2萬桶至4.1億桶，降幅0.41%。美國國內原油產量增加0.1萬桶至1386.1萬桶/日，原油出口增加45.9萬桶/日至372.1萬桶/日，進口568.9萬桶/日，較前一週增加6.0萬桶/日。原油產品四周平均供應量為2031.6萬桶/日，較去年同期增加0.27%。本週美伊衝突持續升級，美軍對伊朗境內導彈基地、無人機生產設施及相關指揮系統發動新一輪精準空襲，削弱伊朗的區域投射能力。德黑蘭迅速作出回應，對波斯灣地區與美國有關聯的軍事目標和盟友設施實施報復性打擊，地區緊張局勢進一步升溫。伊朗指示胡塞武裝，一旦美軍打擊其電網，立即封鎖曼德海峽；美軍則重啟對伊海上封鎖，單日通行船隻數量驟降。全球兩大能源咽喉首次瀕臨同時癱瘓，市場情緒緊繃，推動油價攀升。本週布倫特原油期貨價格大幅上漲，週四報84.84美元/桶，較7月9日上漲11.25%。全球原油運輸市場VLCC型油輪運價高位波動。中國進口VLCC運輸市場運價高位震盪。7月16日，上海航運交易所釋出的中國進口原油綜合指數（CTFI）報4360.85點，較7月9日上漲0.7%。"
     }
   ]
 }
