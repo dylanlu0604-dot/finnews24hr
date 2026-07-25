@@ -1,7 +1,52 @@
 {
   "date": "2026-07-25",
-  "count": 579,
+  "count": 583,
   "items": [
+    {
+      "id": "mkt:019f970b-ed1e-7aab-8e92-05c262bde78c",
+      "time": "2026-07-25 10:12:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ICC prosecutor Karim Khan removed from office】International Criminal Court prosecutor Karim Khan was removed from office on the 24th after a joint meeting of the Court’s oversight body and the Assembly of States Parties at UN headquarters in New York. Of 125 Rome Statute states parties, 82 voted to dismiss him amid allegations of \"serious misconduct\" and \"serious dereliction of duty.\""
+    },
+    {
+      "id": "mkt:019f970b-50b6-7aab-8e91-f95bc1f7bbab",
+      "time": "2026-07-25 10:12:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said Iran has very few drones remaining, occasional activity notwithstanding."
+    },
+    {
+      "id": "mkt:019f970a-7c42-7aab-8e91-f505a8d864b4",
+      "time": "2026-07-25 10:11:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said the situation with Iran is progressing very well and urged the public not to believe fake news."
+    },
+    {
+      "id": "mkt:019f9709-876b-7aab-8e91-ed368050db52",
+      "time": "2026-07-25 10:10:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Trump said Iran is currently in contact with the US, but he does not believe they are ready to reach an agreement."
+    },
     {
       "id": "5007768",
       "time": "2026-07-25 10:08:11",

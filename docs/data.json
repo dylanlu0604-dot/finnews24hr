@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-25 10:10:23",
-  "count": 18256,
+  "updated": "2026-07-25 10:14:20",
+  "count": 18257,
   "items": [
+    {
+      "id": "mkt:019f970b-ed1e-7aab-8e92-05c262bde78c",
+      "time": "2026-07-25 10:12:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ICC prosecutor Karim Khan removed from office】International Criminal Court prosecutor Karim Khan was removed from office on the 24th after a joint meeting of the Court’s oversight body and the Assembly of States Parties at UN headquarters in New York. Of 125 Rome Statute states parties, 82 voted to dismiss him amid allegations of \"serious misconduct\" and \"serious dereliction of duty.\""
+    },
+    {
+      "id": "mkt:019f970b-50b6-7aab-8e91-f95bc1f7bbab",
+      "time": "2026-07-25 10:12:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said Iran has very few drones remaining, occasional activity notwithstanding."
+    },
+    {
+      "id": "mkt:019f970a-7c42-7aab-8e91-f505a8d864b4",
+      "time": "2026-07-25 10:11:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said the situation with Iran is progressing very well and urged the public not to believe fake news."
+    },
+    {
+      "id": "mkt:019f9709-876b-7aab-8e91-ed368050db52",
+      "time": "2026-07-25 10:10:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Trump said Iran is currently in contact with the US, but he does not believe they are ready to reach an agreement."
+    },
     {
       "id": "5007768",
       "time": "2026-07-25 10:08:11",
@@ -167214,31 +167259,6 @@
         "國際"
       ],
       "text": "【特朗普“點評”英格蘭隊戰術決定：凱恩怎麼能去打防守？不過我哪懂球呢】在15日的美加墨世界盃半決賽中，英格蘭隊先贏後輸，最終以1:2不敵阿根廷隊，無緣決賽。賽後，英格蘭隊主教練圖赫爾保守的臨場戰術安排和換人調整飽受詬病。據法新社、美國娛樂和體育電視臺（ESPN）等媒體報道，美國總統特朗普17日在紐約與國際足聯主席因凡蒂諾共同出席活動時，委婉批評了圖赫爾的戰術決定。法新社稱，特朗普在講話中提到了英格蘭隊隊長哈里·凱恩，兩人18個月前曾在美國佛羅里達州一起打過一場高爾夫球。“英格蘭隊有位很棒的球員，我和他一起打過高爾夫，他就是哈里。”特朗普說，“他們讓他打防守或許是個錯誤。不過，我哪兒懂足球呢？”特朗普接著說，“他們領先後，卻把隊裡最好的球員放到防守位置上。我們得（踢得）更有進攻性一點，對吧？”“不過，我哪懂執教呢？”（環球網）"
-    },
-    {
-      "id": "4995238",
-      "time": "2026-07-18 10:13:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【直擊WAIC丨騰訊副總裁林松濤：模型的差距正在縮小，但工程的差距在拉開】7月17日至20日，2026世界人工智慧大會暨人工智慧全球治理高階別會議在上海舉行。今日，騰訊AI應用創新論壇舉行。騰訊公司副總裁林松濤現場表示：“模型的差距正在縮小，但是工程的差距在拉開。現在主流模型推理的差距其實是越做越廣，但能不能把它轉化為企業生產力，轉化為個人和組織的效率，是大家熱議的案例。”（新浪科技）"
-    },
-    {
-      "id": "4995236",
-      "time": "2026-07-18 10:11:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【默茨：德國將首次派常規部隊參與法國核演習】德國總理默茨17日在北萊茵-威斯特法倫州說，德國今年將首次派遣常規部隊參與法國武裝部隊核演習。 德法部長理事會和德法防務與安全理事會會議16日至17日在德國北萊茵-威斯特法倫州舉行。默茨和法國總統馬克龍在會後共同會見記者時表示，兩國將進一步加強防務合作。 默茨表示，德國和法國正在核威懾領域開闢新的共同道路。此外，應法方倡議，歐洲援烏克蘭“志願聯盟”將於今年秋季舉行軍事演習，德國將參與其中，雙方將共同商定具體參與方式。 談及防務工業合作，默茨表示，德法此前共同推進的“未來空中作戰系統”框架下的戰鬥機專案因產業分歧而告失敗，但雙方將繼續推進該框架下“戰鬥雲”等關鍵技術研發，並加強綜合防空系統、遠端武器等領域合作。 馬克龍強調法德達成相關共識的重要性，同時表示法國核威懾力量將繼續完全由法方出資。（新華社）"
-    },
-    {
-      "id": "4995235",
-      "time": "2026-07-18 10:11:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【蘋果與美國司法部就反壟斷訴訟展開和解談判】7月18日訊息，據報道，蘋果公司與美國司法部正就2024年提起的反壟斷訴訟進行早期和解談判。美國政府在拜登任內起訴蘋果，指控其透過限制競爭對手、軟體開發商和消費者選擇，維護iPhone生態系統優勢。蘋果今年已多次向司法部提出結束訴訟的方案。此前，蘋果已針對部分指控調整政策，包括向開發者開放小程式功能、支援由谷歌推動的RCS簡訊標準、允許雲遊戲應用以及開放iPhone支付晶片介面。不過，蘋果仍未允許Apple Watch完全相容安卓裝置。2025年6月，蘋果曾申請駁回該反壟斷訴訟，但未獲法院支援。"
     }
   ]
 }
