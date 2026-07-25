@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-25 18:52:49",
-  "count": 18204,
+  "updated": "2026-07-25 18:56:44",
+  "count": 18205,
   "items": [
+    {
+      "id": "mkt:019f98ea-f009-7aab-8e94-e7756393a0cf",
+      "time": "2026-07-25 18:56:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Typhoon Hongxia forces widespread cancellations, delays at Guangdong airports】Typhoon Hongxia and its peripheral circulation prompted thunderstorm warnings across Guangdong, Fujian, Hunan, Hubei, Sichuan and Chongqing on July 25. Flight-data platforms at 18:15 on July 25 showed Shenzhen Bao'an and Zhuhai Jinwan airports experiencing large-scale delays, with peak delay rates up to 93%; Huizhou Pingtan reported widespread cancellations and Jieyang Chaoshan recorded limited cancellations."
+    },
+    {
+      "id": "5007948",
+      "time": "2026-07-25 18:55:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "受颱風“紅霞”影響，香港天文臺將於今晚（25日）10時10分改發八號烈風或暴風訊號。（大灣區之聲）"
+    },
+    {
+      "id": "5007947",
+      "time": "2026-07-25 18:55:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“紅霞”逼近 廣東珠海啟動防颱二級應急響應】今年第12號颱風“紅霞”正逐步逼近廣東沿海，目前“紅霞”正以每小時15~20公里的速度向西偏北方向快速移動，強度逐漸加強，預計今天夜間至26日早晨在香港到廣東陸豐一帶沿海登陸（12~14級，颱風級或強颱風級），登陸後轉向偏北方向移動，強度逐漸減弱。為應對臺風影響，廣東珠海海事局已於25日17時啟動防颱二級應急響應。"
+    },
     {
       "id": "mkt:019f98dc-917c-7aab-8e94-decb4d25ffda",
       "time": "2026-07-25 18:40:19",
@@ -166840,22 +166864,6 @@
         "WTI"
       ],
       "text": "ILNA: Lebanese parliament speaker said the immediate priority is a full Israeli troop withdrawal from Lebanese territory and an end to the occupation."
-    },
-    {
-      "id": "4995474",
-      "time": "2026-07-18 18:55:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：07月18日18時36分在塔吉克（北緯37.70度，東經72.55度）發生5.3級地震，震源深度140千米。"
-    },
-    {
-      "id": "4995473",
-      "time": "2026-07-18 18:54:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西水利廳和廣西氣象局聯合釋出山洪災害氣象預警】廣西水利廳和廣西氣象局於7月18日16時聯合釋出山洪災害氣象預警：預計，7月18日20時至7月19日20時，百色市田林縣發生山洪災害可能性很大（紅色預警）；百色市凌雲縣可能發生山洪災害（藍色預警）。"
     }
   ]
 }
