@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-25 08:42:35",
-  "count": 18236,
+  "updated": "2026-07-25 08:46:20",
+  "count": 18237,
   "items": [
+    {
+      "id": "mkt:019f96bb-cc38-7aab-8e91-132fcfd42108",
+      "time": "2026-07-25 08:45:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Large deep coalbed methane field discovered in Ordos Basin; proven reserves 53.7 bln cubic meters】Yanchang Petroleum Group said its Yandong coalbed methane field in the Ordos Basin has proven geological reserves of 53.7 bln cubic meters, with the reserves reviewed and filed by the Ministry of Natural Resources. The company said the discovery marks a major advance in China’s deep unconventional resource exploration."
+    },
+    {
+      "id": "5007711",
+      "time": "2026-07-25 08:44:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鄂爾多斯盆地發現大型深層煤層氣田 探明儲量537億立方米】記者今天（25日）從延長石油集團獲悉，位於鄂爾多斯盆地的延東煤層氣田探明地質儲量達537億立方米，相關儲量已透過自然資源部評審備案。此次發現標誌著我國在深層非常規資源勘探領域取得重大進展。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f96ba-efa7-7aab-8e91-0b0aac41f691",
+      "time": "2026-07-25 08:44:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's President Sheinbaum has instructed relevant departments to accelerate preparations to resume livestock exports to the US."
+    },
     {
       "id": "5007710",
       "time": "2026-07-25 08:39:59",
@@ -167062,22 +167088,6 @@
         "WTI"
       ],
       "text": "【Vessel transits through Strait of Hormuz drop to three-week low】Kpler said on the 17th that vessel traffic through the Strait of Hormuz weakened on the 16th, with confirmed transits falling to eight — the lowest in about three weeks. Seven of the eight ships used the northern, Iranian-side channel, reflecting ship operators' concentration of transits there after reassessing regional security, crew safety and insurance risk."
-    },
-    {
-      "id": "4995190",
-      "time": "2026-07-18 08:45:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【霍爾木茲海峽船舶透過量降至三週來最低點】國際市場服務機構克普勒公司17日釋出的資料顯示，霍爾木茲海峽船舶通行活動16日繼續走弱，經確認當天透過該海峽的船舶數量降至8艘，為近三週以來最低水平。（央視新聞）"
-    },
-    {
-      "id": "4995189",
-      "time": "2026-07-18 08:45:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國電信廣東分公司到訪海蘭信 共商海上風電算力合作】7月17日，中國電信股份有限公司廣東分公司黨委書記、總經理張濤、深圳電信總經理胡志良一行走訪調研海蘭信。雙方圍繞海上風電與算力基礎設施融合發展、區域算力網路協同、產業生態共建等議題展開深入探討，就廣東專案落地推進路徑、合作模式創新等方面充分交換意見，達成多項共識。"
     }
   ]
 }

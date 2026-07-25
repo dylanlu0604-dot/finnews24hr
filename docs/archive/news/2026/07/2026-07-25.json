@@ -1,7 +1,33 @@
 {
   "date": "2026-07-25",
-  "count": 497,
+  "count": 500,
   "items": [
+    {
+      "id": "mkt:019f96bb-cc38-7aab-8e91-132fcfd42108",
+      "time": "2026-07-25 08:45:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Large deep coalbed methane field discovered in Ordos Basin; proven reserves 53.7 bln cubic meters】Yanchang Petroleum Group said its Yandong coalbed methane field in the Ordos Basin has proven geological reserves of 53.7 bln cubic meters, with the reserves reviewed and filed by the Ministry of Natural Resources. The company said the discovery marks a major advance in China’s deep unconventional resource exploration."
+    },
+    {
+      "id": "5007711",
+      "time": "2026-07-25 08:44:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鄂爾多斯盆地發現大型深層煤層氣田 探明儲量537億立方米】記者今天（25日）從延長石油集團獲悉，位於鄂爾多斯盆地的延東煤層氣田探明地質儲量達537億立方米，相關儲量已透過自然資源部評審備案。此次發現標誌著我國在深層非常規資源勘探領域取得重大進展。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f96ba-efa7-7aab-8e91-0b0aac41f691",
+      "time": "2026-07-25 08:44:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's President Sheinbaum has instructed relevant departments to accelerate preparations to resume livestock exports to the US."
+    },
     {
       "id": "5007710",
       "time": "2026-07-25 08:39:59",
