@@ -1,7 +1,43 @@
 {
   "date": "2026-07-26",
-  "count": 47,
+  "count": 51,
   "items": [
+    {
+      "id": "mkt:019f9a8a-f3e6-7aab-8e96-6ac6a6ee2317",
+      "time": "2026-07-26 02:30:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Palestinian foreign minister said the Palestinians hope the peace committee will play a role in the Gaza Strip."
+    },
+    {
+      "id": "mkt:019f9a8a-b495-7aab-8e96-601ffcaba161",
+      "time": "2026-07-26 02:30:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Palestinian foreign minister says Israel is seeking to drive Palestinians to the brink of collapse."
+    },
+    {
+      "id": "mkt:019f9a8a-779e-7aab-8e96-59d60f8e1c5c",
+      "time": "2026-07-26 02:29:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Palestinian foreign minister said Palestinians' blood is being used as a bargaining chip in Israel's elections and urged urgent international intervention, warning the situation in the West Bank is very serious."
+    },
+    {
+      "id": "mkt:019f9a8a-348f-7aab-8e96-54cbf6600e6d",
+      "time": "2026-07-26 02:29:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Palestinian foreign minister said Palestinians' existence is under threat and accused Israel of carrying out terrorism against Palestinians; he described the Netanyahu government as \"fascist\" and said it is using settlers to control the West Bank."
+    },
     {
       "id": "5008109",
       "time": "2026-07-26 02:21:03",

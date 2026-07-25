@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-26 02:28:57",
-  "count": 18140,
+  "updated": "2026-07-26 02:32:51",
+  "count": 18143,
   "items": [
+    {
+      "id": "mkt:019f9a8a-f3e6-7aab-8e96-6ac6a6ee2317",
+      "time": "2026-07-26 02:30:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Palestinian foreign minister said the Palestinians hope the peace committee will play a role in the Gaza Strip."
+    },
+    {
+      "id": "mkt:019f9a8a-b495-7aab-8e96-601ffcaba161",
+      "time": "2026-07-26 02:30:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Palestinian foreign minister says Israel is seeking to drive Palestinians to the brink of collapse."
+    },
+    {
+      "id": "mkt:019f9a8a-779e-7aab-8e96-59d60f8e1c5c",
+      "time": "2026-07-26 02:29:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Palestinian foreign minister said Palestinians' blood is being used as a bargaining chip in Israel's elections and urged urgent international intervention, warning the situation in the West Bank is very serious."
+    },
+    {
+      "id": "mkt:019f9a8a-348f-7aab-8e96-54cbf6600e6d",
+      "time": "2026-07-26 02:29:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Palestinian foreign minister said Palestinians' existence is under threat and accused Israel of carrying out terrorism against Palestinians; he described the Netanyahu government as \"fascist\" and said it is using settlers to control the West Bank."
+    },
     {
       "id": "5008109",
       "time": "2026-07-26 02:21:03",
@@ -166217,19 +166253,6 @@
         "國際"
       ],
       "text": "【美軍連續七夜打擊伊朗設施 伊朗反擊多國美軍基地並封鎖海峽】美軍連續第七晚對伊朗境內多處偵察據點、武器倉庫及海上基礎設施發動打擊。伊朗展開反擊，襲擊了科威特、約旦、巴林境內的美軍基地；連續第二天打擊科威特電力與供水設施，致使科威特國際機場暫停航班運營。伊朗革命衛隊稱兩艘油輪在霍爾木茲海峽觸雷，但美軍對此予以否認。伊朗方面表示已扣押四艘試圖通行該海峽的船隻。布倫特原油價格重回每桶88美元上方。美軍打擊造成伊朗電力設施受損，伊朗官方呼籲民眾減少用電、停用空調。伊朗南部四省學校取消考試。伊朗官方媒體報道，此次襲擊已造成至少8人死亡、20人受傷。伊朗發出警告：美方若繼續發動打擊，將面臨伊朗的“全面進攻行動”。"
-    },
-    {
-      "id": "mkt:019f767f-87d5-7aab-8df2-a12649467b10",
-      "time": "2026-07-19 02:31:37",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "TASNIM News released footage showing Iranian missiles striking Jordan's Muwaffaq Salti Air Base. The attack killed two US service members and left one US service member missing."
     }
   ]
 }
