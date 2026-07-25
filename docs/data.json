@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-25 17:41:18",
-  "count": 18214,
+  "updated": "2026-07-25 17:45:19",
+  "count": 18212,
   "items": [
+    {
+      "id": "5007926",
+      "time": "2026-07-25 17:42:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴林、科威特被曝曾秘密空襲伊朗 科方否認】美國方面7月24日援引訊息人士的話稱，科威特和巴林於本月早些時候秘密派出戰機襲擊伊朗境內目標，目標包括無人機和導彈倉庫。阿聯酋為巴林和科威特提供了目標情報和空中掩護。據悉，科威特駐美國大使否認科威特參與任何針對伊朗的軍事行動，科威特也從未允許其領土被用於對任何鄰國發動進攻。巴林政府暫未對此事作出回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f98a7-5d47-7aab-8e94-ae296e91475c",
+      "time": "2026-07-25 17:42:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Report: Bahrain, Kuwait allegedly carried out covert strikes inside Iran; Kuwait denies】US outlets, citing unnamed sources on July 24, reported that Bahrain and Kuwait earlier this month covertly dispatched warplanes to strike targets inside Iran, including drone and missile storage facilities. The report said the UAE provided targeting intelligence and aerial cover. Kuwait’s ambassador to the United States denied Kuwait participated in any military action against Iran and said Kuwait would not allow its territory to be used to attack neighbors. Bahrain has not commented."
+    },
     {
       "id": "mkt:019f98a5-db2f-7aab-8e94-a3819fe4ab20",
       "time": "2026-07-25 17:40:34",
@@ -166919,44 +166935,6 @@
         "DXY"
       ],
       "text": "【Iran says it struck US military targets in Kuwait, Bahrain and Jordan】On the 18th the Islamic Revolutionary Guard Corps (IRGC) said it struck multiple US military targets in Kuwait, Bahrain and Jordan in response to a US strike on the 17th. The IRGC said drones and missiles hit a fuel resupply pier for the US fleet at Ahmadi Port in Kuwait, struck an aircraft staging area at Sheikh Isa and a data centre in Bahrain, and destroyed a signal communications centre in Kuwait. In a separate statement the IRGC said missile and drone strikes on Jordan's Muwaffaq Salti (Azraq) air base destroyed at least two fighter aircraft and three other aircraft and severely damaged several more."
-    },
-    {
-      "id": "mkt:019f749c-f92d-7aab-8def-a4baa75a2eee",
-      "time": "2026-07-18 17:44:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【China deploys domestically developed core jacket-installation tooling】Offshore Oil Engineering Co. (Haiyou Engineering) said China-developed Qinghai-series jacket auxiliary devices were used in the offshore installation of the jacket for the new wellhead platform at the Dongfang 1-1 gas field. The tools provide temporary fixation, attitude control, structural connection and collision protection during jacket installation and are designed for prolonged maintenance-free operation; the company said key technologies for such equipment had previously been held by only a few countries."
-    },
-    {
-      "id": "4995448",
-      "time": "2026-07-18 17:42:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗說以色列是地區戰爭根源】在7月17日釋出的採訪影片中，伊朗外交部發言人巴加埃表示，以色列是過去三年地區內所有戰爭的共同主體，以色列襲擊了包括伊朗、敘利亞、黎巴嫩在內的多個國家，並在被佔的巴勒斯坦領土上犯下種族滅絕罪行，如果希望地區實現真正的和平，就必須遏制無休止戰爭的根源。（CCTV國際時訊）"
-    },
-    {
-      "id": "4995447",
-      "time": "2026-07-18 17:42:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【長飛光纖總裁莊丹：未來一兩年保偏光纖需求增長在10倍甚至20倍級】7月18日，長飛光纖執行董事兼總裁莊丹在2026世界人工智慧大會“曦智科技·光計算與光互連雙輪驅動的AI基礎設施新正規化論壇”上提出，全球光纖市場需求已由電信驅動轉向智算中心驅動，預計到2030年，全球FTTx（光纖通訊網路）的年複合增長率為2.47%，而智算中心的年複合增長率將達到20.74%。他強調，長飛光纖在國內保偏光纖市場份額已經連續五年排名第一。同時他預判，受新一代高效能CPU、矽光光元件拉動，未來1-2年保偏光纖需求（增長）在10倍甚至20倍級。（澎湃新聞）"
-    },
-    {
-      "id": "mkt:019f749a-7722-7aab-8def-98b7c99b3cc6",
-      "time": "2026-07-18 17:41:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps released footage showing a ballistic missile strike on Prince Sultan Air Base in al-Kharj province, Saudi Arabia."
     }
   ]
 }
