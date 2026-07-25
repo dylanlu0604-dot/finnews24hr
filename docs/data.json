@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-25 12:46:08",
-  "count": 18269,
+  "updated": "2026-07-25 12:50:01",
+  "count": 18270,
   "items": [
+    {
+      "id": "mkt:019f979a-2144-7aab-8e93-33ffb7b8efd5",
+      "time": "2026-07-25 12:48:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Speedboat carrying 11 foreign tourists missing off eastern Indonesia】Indonesian media reported on the 25th that a speedboat carrying 11 foreign tourists went missing in waters off Gorontalo province, Sulawesi, in eastern Indonesia. A joint search-and-rescue operation is underway."
+    },
+    {
+      "id": "5007845",
+      "time": "2026-07-25 12:47:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【載有11名外國遊客的快艇在印尼東部海域失聯】據印度尼西亞媒體25日報道，一艘載有11名外國遊客的快艇在該國東部蘇拉威西島哥倫打洛省附近海域失聯。目前，聯合搜救隊正在展開搜救行動。（新華社）"
+    },
     {
       "id": "mkt:019f9796-6a9f-7aab-8e93-2abfa5735438",
       "time": "2026-07-25 12:44:04",
@@ -167416,14 +167432,6 @@
         "其他"
       ],
       "text": "【中歐班列（福州）開行4年進出口總貨值超16億元】昨天（17日），一列滿載55個集裝箱的中歐班列從福建福州江陰鐵路物流園區緩緩出發，將經由二連浩特口岸前往東歐。福州海關資料顯示，中歐班列（福州）運營四年來，已累計開行77列，發運貨物7918標箱，進出口貨值總額超16億元。（央視新聞）"
-    },
-    {
-      "id": "4995320",
-      "time": "2026-07-18 12:46:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西門子Eigen工程智慧體在2026世界人工智慧大會上首發】2026世界人工智慧大會7月17日至7月20日在上海舉行。西門子對Eigen工程智慧體進行了首發。該智慧體可獨立完成工程作業，實現端到端的工業自動化工程任務規劃、執行和驗證。憑藉其PLC程式碼智慧生成、HMI視覺化開發、驅動配置最佳化、專案配置支援等核心能力，該智慧體可助力多項日常工程任務實現提速，執行效率較手動工作流提升2至5倍，工程效率提升50%，方案質量提升80%。"
     }
   ]
 }

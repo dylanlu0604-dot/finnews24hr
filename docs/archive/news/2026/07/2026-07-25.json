@@ -1,7 +1,23 @@
 {
   "date": "2026-07-25",
-  "count": 696,
+  "count": 698,
   "items": [
+    {
+      "id": "mkt:019f979a-2144-7aab-8e93-33ffb7b8efd5",
+      "time": "2026-07-25 12:48:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Speedboat carrying 11 foreign tourists missing off eastern Indonesia】Indonesian media reported on the 25th that a speedboat carrying 11 foreign tourists went missing in waters off Gorontalo province, Sulawesi, in eastern Indonesia. A joint search-and-rescue operation is underway."
+    },
+    {
+      "id": "5007845",
+      "time": "2026-07-25 12:47:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【載有11名外國遊客的快艇在印尼東部海域失聯】據印度尼西亞媒體25日報道，一艘載有11名外國遊客的快艇在該國東部蘇拉威西島哥倫打洛省附近海域失聯。目前，聯合搜救隊正在展開搜救行動。（新華社）"
+    },
     {
       "id": "mkt:019f9796-6a9f-7aab-8e93-2abfa5735438",
       "time": "2026-07-25 12:44:04",
