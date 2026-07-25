@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-25 13:17:08",
-  "count": 18270,
+  "updated": "2026-07-25 13:20:59",
+  "count": 18271,
   "items": [
+    {
+      "id": "5007859",
+      "time": "2026-07-25 13:19:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京蚊蟲密度已達全年最高峰值】北京市氣象服務中心介紹，當前，北京蚊蟲密度已達全年最高峰值期。今年入伏之後，氣溫適宜，雨水充沛，有利於蚊蟲繁殖，全市蚊蟲密度較去年同期有所上升。 北京市氣象服務中心高階工程師孫雨其表示，今年入伏以後，北京氣溫在23℃至34℃，剛好處於蚊蟲繁殖的黃金溫度區間，再加上持續充沛的降水，全市蚊蟲密度較去年同期有所上升，尤其要注意花蚊子（白蚊伊蚊）的佔比還在逐年攀升。 （北京日報）"
+    },
+    {
+      "id": "5007858",
+      "time": "2026-07-25 13:17:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東汕尾啟動防風Ⅰ級應急響應】根據《汕尾市防汛防旱防風防凍應急預案》，經汕尾市人民政府同意，汕尾市防汛防旱防風指揮部決定於7月25日13時將防風Ⅱ級應急響應提升為防風Ⅰ級應急響應。全市各級人民政府、駐汕部隊、各有關單位緊急動員，全力以赴做好防風各項工作，確保人民群眾生命財產安全。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f97b4-bf20-7aab-8e93-7bdf08f9e855",
+      "time": "2026-07-25 13:17:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "000660.KS",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "SK Hynix said it has formed a long-term partnership with NVIDIA on AI memory."
+    },
+    {
+      "id": "5007857",
+      "time": "2026-07-25 13:16:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：將與英偉達建立長期人工智慧儲存晶片合作伙伴關係。"
+    },
     {
       "id": "mkt:019f97af-ee31-7aab-8e93-77ef6c9ca559",
       "time": "2026-07-25 13:11:57",
@@ -167419,34 +167458,6 @@
         "其他"
       ],
       "text": "市場訊息：首爾遭受暴雨襲擊，關鍵道路關閉。"
-    },
-    {
-      "id": "4995337",
-      "time": "2026-07-18 13:19:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "2026年上半年海南出入境人員160.3萬人次。（新華社）"
-    },
-    {
-      "id": "mkt:019f73a8-a25d-7aab-8ded-f6cf3958fd72",
-      "time": "2026-07-18 13:17:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "EURUSD"
-      ],
-      "text": "【Scotiabank: ECB likely to hold rates in July amid elevated uncertainty】Scotiabank expects the ECB to hold rates in July, arguing policy need not move in a straight line during periods of high uncertainty. Markets have priced a 25bp June hike and expect the deposit rate to be left at 2.25% thereafter, with consensus leaning to stand pat in July. ECB President Lagarde said on July 1: \"I think the upside risks to inflation and downside risks to growth may be more balanced than a few weeks ago, because things are changing fast.\" Since then US‑Iran tensions have flared and WTI and Brent have each risen roughly $12/barrel. June euro‑area CPI fell 0.1% MoM and core CPI eased YoY to 2.4% from 2.6%, which may give the ECB more time to assess under its data‑dependent framework; market sentiment indicators nonetheless remain overall tilted hawkish."
-    },
-    {
-      "id": "4995336",
-      "time": "2026-07-18 13:17:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宜家要賣掉8座商場】宜家中國正集中出售八座城市的閒置賣場。長安街知事從商業地產服務投資管理機構仲量聯行獲悉，該機構已獲得宜家母公司英格卡集團獨家銷售委託，將上海、廣州、天津、哈爾濱、南通、徐州、貴陽、寧波八座城市的宜家自持閒置物業整體出售。這是宜家進入中國市場近30年來最大規模自持資產集中處置，折射出家居零售巨頭在中國市場的全方位戰略重構。據仲量聯行披露，本次推向市場的八處資產均為英格卡中國的自持物業，上述資產目前已全面清空，無租約限制，可實現現狀即時交付。"
     }
   ]
 }
