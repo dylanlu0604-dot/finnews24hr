@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-26 00:12:38",
-  "count": 18171,
+  "updated": "2026-07-26 00:16:40",
+  "count": 18173,
   "items": [
+    {
+      "id": "5008084",
+      "time": "2026-07-26 00:14:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：《大空頭》原型人物邁克爾・伯裡增持英偉達空頭頭寸。"
+    },
+    {
+      "id": "mkt:019f9a0d-36df-7aab-8e95-c57b9f3197b3",
+      "time": "2026-07-26 00:13:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Zakharova: Lavrov held no substantive talks with Japan's Motegi in Manila】Russian Foreign Ministry spokeswoman Zakharova said Foreign Minister Lavrov did not hold substantive talks with Japanese Foreign Minister Motegi in Manila. She said there were no discussions on international, regional or bilateral issues, and that Lavrov returned Motegi’s greeting with a formal, polite remark."
+    },
     {
       "id": "5008083",
       "time": "2026-07-26 00:11:06",
