@@ -1,7 +1,301 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-25 21:57:22_
-_本檔包含 3758 則快訊，約 687615 字_
+_更新時間：2026-07-25 23:15:48_
+_本檔包含 3766 則快訊，約 688146 字_
+
+---
+
+### 2026-07-22 01:31:55  #MKT News
+
+Bahrain Interior Ministry says alarms have been sounded.
+
+---
+
+### 2026-07-22 01:30:34  #其他
+
+ONERUGGED 推出搭載英特爾Lunar Lake平臺的 AI 加固 Windows 平板，邊緣 AI 算力最高可達 115 TOPS。
+
+---
+
+### 2026-07-22 01:29:47  #MKT News #WTI #Impact bullish #DXY #S&P500 #Impact bearish
+
+【U.S. defense secretary and Joint Chiefs chair to testify to Congress at 02:30 Beijing time】The U.S. defense secretary and the chairman of the Joint Chiefs will testify at a Senate committee hearing on Tuesday amid rising U.S.-Iran tensions. The session will focus on the Trump administration's supplemental funding request. At least two U.S. service members were killed in an Iranian strike on Friday, and another died in Iraq during a controlled demolition of an Iranian drone. The hearing is scheduled for the Senate afternoon, 02:30 Beijing time.
+
+---
+
+### 2026-07-22 01:28:48  #公司 #國際
+
+【美眾議長約翰遜：美伊戰爭需要結束，應為談判留空間】據美國哥倫比亞廣播公司（CBS）報道，美國眾議院議長邁克·約翰遜週二在被問及是否會推動《戰爭權力法》相關表決時未予明確回應，但表示，美伊戰爭需要結束，美國也應該獲得其他方面的支援，以推動戰爭終結。約翰遜表示，他認為政界人士應該“給政府留出空間”，讓其透過談判尋求結束戰爭。他說，“我知道，本屆政府正在全天候努力，尋求以一種能夠避免更多美軍人員傷亡的方式解決這一問題。”不過，約翰遜再次強調，美國必須確保伊朗不會擁有核武器。
+
+---
+
+### 2026-07-22 01:25:31  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+【US House Speaker Johnson says US‑Iran war must end, declines to commit on War Powers Act vote】CBS reports House Speaker Mike Johnson declined to say whether he will push for a War Powers Act vote, saying the US‑Iran war needs to end and lawmakers should give the administration room to negotiate an end that avoids further U.S. casualties. He said the administration is working around the clock on that effort and reiterated the US must ensure Iran does not acquire nuclear weapons.
+
+---
+
+### 2026-07-22 01:23:52  #其他
+
+法國參議院透過農業緊急法案。
+
+---
+
+### 2026-07-22 01:23:11  #國際
+
+美國參議院多數黨領袖約翰·圖恩（John Thune，南達科他州共和黨人）：我們將快速確認Keith E. Sonderling的勞工部長提名資格。
+
+---
+
+### 2026-07-22 01:17:01  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $275 million from one counterparty in its fixed-rate reverse repo operation.
+
+---
+
+### 2026-07-22 01:16:34  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+U.S. House Speaker Johnson said the war with Iran must end.
+
+---
+
+### 2026-07-22 01:16:29  #央行 #國際
+
+週三（8月6日），美聯儲隔夜逆回購協議（RRP）使用規模為2.75億美元（交易對手1家），上個交易日報0.3億美元。
+
+---
+
+### 2026-07-22 01:16:09  #國際
+
+【特朗普：胡塞武裝若封鎖紅海 美國將採取行動】美國總統特朗普21日在白宮會見到訪的黎巴嫩總統奧恩時表示，如果葉門胡塞武裝封鎖紅海，美國將採取行動。特朗普在談及胡塞武裝可能封鎖紅海一事時說，目前還沒有發生這種情況，“如果真發生了，我們會採取行動，處理好”。葉門胡塞武裝20日宣佈對沙烏地阿拉伯實施“海上禁運”且立即生效。沙特主導的多國聯軍隨後表示，已採取措施保護成員國船隻安全通行曼德海峽，並將堅決回應胡塞武裝的任何威脅。關於黎巴嫩局勢，特朗普說，他願意與黎巴嫩真主黨對話，並將同奧恩討論對黎援助，協調其他各方參與協助。(新華社)
+
+---
+
+### 2026-07-22 01:10:48  #MKT News #Macro & Rates #US Economy
+
+FITCH says failure to renew the US-Mexico-Canada Agreement (USMCA) would widen credit divergence among Mexican corporates.
+
+---
+
+### 2026-07-22 01:09:29  #公司
+
+空客民用飛機執行長：我們有意進軍併購市場。
+
+---
+
+### 2026-07-22 01:09:26  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O
+
+Amazon Web Services (AWS): Amazon Simple Email Service (SES) will no longer offer its exclusive free tier to new customers. Previously, new customers received 3,000 free emails per month for the first 12 months after initial use.
+
+---
+
+### 2026-07-22 01:08:46  #MKT News
+
+Lebanese President Aoun said the meeting went very smoothly.
+
+---
+
+### 2026-07-22 01:07:49  #公司
+
+空客民用飛機執行長：不排除將 A350 產能大幅提升至月產 12 架以上的可能性。
+
+---
+
+### 2026-07-22 01:07:06  #MKT News #Important #Market Themes #AI Revolution
+
+OpenAI said it is rolling out ChatGPT services for small businesses, making ChatGPT Work and GPT-5.6 available to small enterprises effective today.
+
+---
+
+### 2026-07-22 01:06:34  #其他
+
+OpenAI：ChatGPT Work 與 GPT‑5.6 現已面向中小企業開放。
+
+---
+
+### 2026-07-22 01:05:56  #其他
+
+OpenAI：推出面向中小企業的 ChatGPT 方案。
+
+---
+
+### 2026-07-22 01:04:49  #其他
+
+黎巴嫩總統奧恩：會談進展非常順利。
+
+---
+
+### 2026-07-22 01:04:18  #其他
+
+AWS ：針對 SES 專屬免費套餐（使用者首次啟用 SES 後 12 個月內每月可免費傳送 3000 封郵件），新客戶將無法再申領。
+
+---
+
+### 2026-07-22 01:04:18  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7
+
+Amazon Web Services (AWS): From July 21, 2026, all newly created Amazon Simple Email Service accounts will default to the Basic tier.
+
+---
+
+### 2026-07-22 01:04:16  #MKT News
+
+Tasnim news agency reported Iran's military said it shot down a one-way attack drone in northwest Iran.
+
+---
+
+### 2026-07-22 01:02:53  #其他
+
+【Tibo正式宣佈活躍使用者數突破1000萬】OpenAI產品負責人Tibo在X上表示，Codex和 ChatGPT Work每週活躍使用者在2026年7月21日突破1000萬人。
+
+---
+
+### 2026-07-22 01:01:44  #焦點 #國際
+
+塔斯尼姆通訊社訊息：伊朗軍方稱，在該國西北部擊落一架單向攻擊無人機。
+
+---
+
+### 2026-07-22 01:01:03  #公司
+
+AWS ：自 2026 年 7 月 21 日起，所有新建亞馬遜簡單電子郵件服務（SES）賬戶預設啟用基礎套餐（Essentials Plan）。
+
+---
+
+### 2026-07-22 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲1.49%，滬銅收漲1.69%，滬鋁收漲0.56%，滬鋅收漲0.55%，滬鉛收跌0.95%，滬鎳收漲0.77%，滬錫收漲0.97%。氧化鋁夜盤收漲0.22%，鋁合金收漲0.50%。不鏽鋼夜盤收漲0.20%。
+
+---
+
+### 2026-07-22 00:56:25  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
+
+U.S. equities extended gains; the Dow and S&P 500 are up more than 1%, the Nasdaq is up 1.4%.
+
+---
+
+### 2026-07-22 00:55:14  #市場 #焦點
+
+道指漲1.01%，現報52361.461點；納指漲1.40%，現報25864.536點；標普500指數漲0.96%，現報7514.730點。
+
+---
+
+### 2026-07-22 00:54:48  #其他
+
+納斯達克 100 指數漲幅擴大至 2%，創下日內新高。
+
+---
+
+### 2026-07-22 00:54:44  #MKT News #Market Themes #AI Revolution
+
+SpaceXAI to bring GROK to Microsoft Outlook. GROK for Outlook is a Microsoft 365 add-in and is available today to all paid X and SUPERGROK users.
+
+---
+
+### 2026-07-22 00:54:25  #其他
+
+LME期銅收漲263美元，報13885美元/噸。LME期鋁收漲18美元，報3158美元/噸。LME期鋅收漲32美元，報3552美元/噸。LME期鉛收跌10美元，報1869美元/噸。LME期鎳收漲156美元，報17085美元/噸。LME期錫收漲1007美元，報53885美元/噸。LME期鈷收平，報56290美元/噸。
+
+---
+
+### 2026-07-22 00:53:04  #其他
+
+空客首席財務官：我們預計至 2029 年，A320 專案產能將達到滿負荷水平。
+
+---
+
+### 2026-07-22 00:51:54  #其他
+
+SpaceX AI：適用於 Outlook 的 Grok 為微軟 365 載入項，現已面向所有付費 X 使用者及 SuperGrok 使用者開放。
+
+---
+
+### 2026-07-22 00:51:37  #國際
+
+市場訊息：太空噴氣客機專案落幕三年後，日本著手研發下一款國產客機。
+
+---
+
+### 2026-07-22 00:50:59  #其他
+
+SpaceX AI：將 Grok 接入微軟 Outlook。
+
+---
+
+### 2026-07-22 00:50:19  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran warns Bulgaria against allowing US military use of its territory】Iran's foreign ministry spokesman on Tuesday warned Bulgaria not to permit US forces to use Bulgarian territory for military action against Iran. Bulgaria has said it will seek parliamentary approval to host up to eight US tanker aircraft at a domestic airbase; Bulgaria is an EU and NATO member. State media quoted spokesman Baghaei saying any assistance enabling US attacks on Iran would amount to complicity in "aggression and war crimes" and urging Bulgaria not to become an accomplice.
+
+---
+
+### 2026-07-22 00:48:34  #國際
+
+美國能源部與勞工部簽署諒解備忘錄，加快人工智慧在礦業領域的落地應用。
+
+---
+
+### 2026-07-22 00:45:46  #MKT News #Market Themes #AI Revolution #GOOGL.O #Impact bullish #Nasdaq100
+
+【Google launches lower-cost GEMINI "Flash" models】Google on Tuesday launched three lower-cost GEMINI "Flash" models focused on efficiency as usage of lower-cost open-source models surges. GEMINI 3.6 Flash is a faster, cheaper upgrade to 3.5 Flash; Google says it cuts output tokens by up to 17% while improving coding, reasoning and multimodal performance. GEMINI 3.5 Flash-Lite is a lower-cost model aimed at high-frequency AI agents and document-processing workloads. GEMINI 3.5 Flash Cyber targets cybersecurity use cases to identify and remediate software vulnerabilities and is currently available only to government agencies and select partners via Google’s CodeMender platform.
+
+---
+
+### 2026-07-22 00:43:14  #MKT News #Commodities #Energy
+
+Al Arabiya reported Yemen's oil minister instructed oil companies to draft plans to raise production capacity by 25% within the first month and to deposit oil export revenues into Yemen's central bank.
+
+---
+
+### 2026-07-22 00:42:29  #其他
+
+市場訊息：伊拉克非官方渠道報道稱，三架美軍直升機在伊拉克巴迪亞沙漠投放作戰人員。大約一小時後，直升機再度起飛，朝著約旦方向飛去。
+
+---
+
+### 2026-07-22 00:41:42  #公司
+
+空客執行長：航天業務發展進度超出公司預期。
+
+---
+
+### 2026-07-22 00:41:26  #公司
+
+空客執行長：供應鏈現狀已 “大幅好轉” 。
+
+---
+
+### 2026-07-22 00:40:59  #其他
+
+市場訊息：迪士尼在電視業務與影視製片部門裁員數百人。
+
+---
+
+### 2026-07-22 00:38:26  #MKT News #Market Themes #The Trump Trade
+
+【White House announces trade agreement with Jordan】The White House said on July 21 that President Trump announced a trade agreement with Jordan that will remove long-standing trade barriers for U.S. exporters and open new market access for key U.S. industries, building on bilateral economic ties including the U.S.-Jordan free trade agreement in force since Dec. 17, 2001.
+
+---
+
+### 2026-07-22 00:35:40  #國際
+
+【特朗普稱很快重擊伊朗鎬山核設施】美國總統特朗普7月21日在白宮會見到訪的黎巴嫩總統奧恩時對媒體稱，美國“很快”將對伊朗位於納坦茲以南的“鎬山”地下設施發動打擊，而且打擊力度將“非常猛烈”。據悉，“鎬山”是一座經過加固的地下設施。伊朗2020年曾向國際原子能機構申報，該地點未來將用於組裝生產核燃料所需的離心機。特朗普上週接受採訪時也曾表示，美國“可能會很快對‘鎬山’採取行動”。有報道稱，以色列方面認為，在去年6月持續12天的以伊衝突結束後，伊朗已將先進離心機及部分高濃縮鈾庫存轉移至該地下設施。（CCTV國際時訊）
+
+---
+
+### 2026-07-22 00:34:19  #國際
+
+【美國白宮宣佈與約旦達成貿易協議】當地時間7月21日，美國白宮釋出宣告表示，美國總統特朗普宣佈與約旦達成一項貿易協議，這項美約貿易協議將消除美國出口商長期面臨的貿易壁壘，併為美國關鍵產業開闢新的市場準入機會。宣告表示，這項貿易協議將建立在雙方長期經濟關係的基礎上，其中包括於2001年12月17日生效的《美國-約旦自由貿易協定》。（央視新聞）
+
+---
+
+### 2026-07-22 00:34:18  #MKT News
+
+The IDF said it killed several armed militants who were moving weapons in the Gaza Strip.
+
+---
+
+### 2026-07-22 00:34:05  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Extend Rebound — US stocks gained further ground on Tuesday with support from the tech sector ahead of key earnings results. The S&P 500 and the Dow rose around 0.8%, gaining ground after multiple muted sessions, while the Nasdaq 100 advanced 1.5%. Micron and Sandisk surged over 12% each, while Applied Materials and Marvell gained over 8%. Chip manufacturers extended their rebound from last week's rout after strong export data from Taiwan and South Korea maintained the momentum for semiconductor producers. The sector rose ahead of Alphabet's earnings tomorrow, serving as the latest signal for AI infrastructure demand by hyperscalers Meanwhile, other sectors halted recent selling pressure despite further escalation between Iran and the US and its impact on higher energy prices. Treasury yields remained high and drove financial stocks to trim part of their earnings-fueled rally last week. GM rose 5% after posting their results, while Charles Schwab sank 3% after missing earnings estimates.
 
 ---
 
@@ -22375,251 +22669,5 @@ At the open on Monday, July 20, the Dow Jones Industrial Average rose 187.31 poi
 ### 2026-07-20 21:24:55  #MKT News #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #Alphabet #GOOGL.O
 
 【Google developing "Frozen v2" server chip to boost GEMINI efficiency】Google is developing a new server chip, codenamed "Frozen v2", that would embed the GEMINI model's design blueprint to deliver AI services more efficiently, sources said. The chip is intended to ease severe compute shortages that have triggered internal resource competition and forced Google Cloud to turn away some external customers. Project participants estimate Frozen v2 could process 6–10x more tokens per unit of power than Google's current latest in-house AI chip; engineers are still finalizing its core functions and component integration. Deployment is planned as early as 2028.
-
----
-
-### 2026-07-20 21:24:49  #公司
-
-【慧智微：擬募資3億元投向科技創新領域研發專案】慧智微公告稱，公司擬向特定物件發行股票募資不超3億元，扣除發行費用後用於新一代行動通訊射頻前端模組研發、面向新興應用場景的通訊模組研發及補充流動資金，分別投入1.35億元、7445.56萬元、9063.27萬元。專案建設期均為36個月，已取得廣東省企業投資專案備案證，無需辦理環評審批或備案。公司所處積體電路設計屬戰略性新興產業，本次募資投向符合國家戰略及政策支援的科技創新領域。
-
----
-
-### 2026-07-20 21:24:23  #MKT News
-
-The Shanghai Stock Exchange has issued a regulatory letter to Chengdu Zhimingda Electronics Co., Ltd. regarding material matters.
-
----
-
-### 2026-07-20 21:24:21  #公司
-
-上交所對智明達下發相關重要事項的監管工作函，涉及物件為上市公司，處理日期為7月20日。
-
----
-
-### 2026-07-20 21:22:37  #市場
-
-【霍爾木茲海峽幾近癱瘓，國際油價盤中突破90美元大關】由於美伊報復性互襲節奏加快，7月20日開盤後國際原油期貨價格顯著上漲，作為全球基準的布倫特原油盤中突破90美元/桶大關。這是布油時隔一個多月重新站上90美元關口，短短20天漲幅超過23%，重新整理近年來的單月最高漲幅紀錄。（澎湃）
-
----
-
-### 2026-07-20 21:22:01  #市場
-
-【銀行股又香了，過半銀行股7月漲超10%】7月20日，中證銀行指數（399986.SZ）上漲2.3%，板塊個股全線飄紅。7月以來，伴隨前期熱門板塊陷入全面持續回撥，銀行股則在悄然收復“失地”。中證銀行指數月內已上漲8.93%，而同期滬指卻下挫7.28%。銀行板塊42只個股中，有22只個股股價實現兩位數上漲，佔比超50%。 如今，銀行板塊總市值、A股市值分別重回14萬億元、10萬億元以上。第一財經記者注意到，面對近一個月來市場行情的極致反轉，越來越多機構開始提示紅利板塊機會，也有機構加大了紅利主題產品營銷力度。（一財）
-
----
-
-### 2026-07-20 21:21:35  #MKT News #Market Regions #Europe & UK
-
-European Commission recommends member states waive penalties for companies that breach the methane emissions law between 2027 and 2029.
-
----
-
-### 2026-07-20 21:21:33  #其他
-
-利雅得銀行：本季度特別佣金收入實現增長，第二季度總營業收入為47.4億里亞爾。
-
----
-
-### 2026-07-20 21:21:17  #MKT News
-
-The U.S. State Department released a 100-page report accusing Cuba of waging a revolution "against Western civilization itself".
-
----
-
-### 2026-07-20 21:20:42  #國際
-
-歐盟委員會建議各成員國豁免2027年至2029年間違反甲烷排放法規企業的處罰。
-
----
-
-### 2026-07-20 21:19:38  #公司
-
-【中文線上：今年末公司AI短劇年化產能有望達3000部】中文線上日前在路演活動上表示，目前公司AI短劇業務展現出強勁的增長勢頭，行業頭部客戶訂單量需求旺盛。預計到2026年末，公司AI短劇年化產能有望達3000部，較去年同期呈現數倍增長，有望對公司未來業務表現帶來積極作用。
-
----
-
-### 2026-07-20 21:18:55  #MKT News
-
-U.S. State Department said that under the tripartite framework and chaired by the Lebanese Military Coordination Group, the Lebanese army has begun "pilot-zone" operations in the villages of Froun, Srifa and Zawtar al-Gharbiyah to achieve Hezbollah demilitarization.
-
----
-
-### 2026-07-20 21:18:08  #MKT News #Nasdaq100 #Impact bearish
-
-Goldman Sachs says hedge funds are selling US technology stocks at a record pace.
-
----
-
-### 2026-07-20 21:17:34  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
-
-Fars News Agency reported the Islamic Revolutionary Guard Corps claimed to have struck Bahrain's Sakhir air base, Salman Port and Kuwait's Camp Arifjan.
-
----
-
-### 2026-07-20 21:17:15  #MKT News #Important #Commodities #Energy
-
-SC crude most-active contract fell 2.00% intraday to 526.80 yuan/barrel.
-
----
-
-### 2026-07-20 21:16:29  #MKT News #DXY #Impact bullish #Copper #Impact bearish #S&P500 #Impact mixed
-
-【Baltic dry-bulk index falls to two-week low】The Baltic Dry Index fell 81 points (-2.94%) to 2,671, its lowest since July 2. The Capesize index (BCI) dropped 208 points (-5.1%) to 3,889, also a July 2 low; Capesize daily earnings slid $1,885 to $31,768. Capesizes typically carry ~150,000 dwt of iron ore and coal. The Panamax index (BPI) fell 21 points (-0.9%) to 2,227; Panamax daily earnings fell $191 to $20,045. The Supramax index (BSI) rose 1 point (0.06%) to 1,738, its highest since August 2022. The Handysize index (BHSI) eased 2 points to 901.
-
----
-
-### 2026-07-20 21:16:07  #公司 #市場 #國際
-
-【新易盛：預計下半年訂單交付情況仍處於快速增長階段】7月19日晚，新易盛在電話會議上表示，公司成都、泰國兩地的產能一直在基於未來訂單的指引進行擴充，公司對市場需求端充滿信心，預計下半年訂單交付情況仍處於快速增長階段，行業景氣度持續高位，Q3/Q4及明年的訂單能見度很清晰；Q1供應鏈緊張的情況對交付造成一定影響，Q2起逐步緩解，Q3/Q4將趨於穩定，得益於公司前期針對核心原材料做了充分的備貨與鎖定安排。今年800G出貨量增長提升，已成為出貨的主力產品；1.6T光模組Q2出貨量較Q1明顯增長，預計Q3/Q4起放量節奏將進一步加快；矽光產品份額持續提升，增長趨勢強勁。目前整個供應鏈端仍處於相對緊張的狀態，部分原材料緊缺問題突出，保障原材料供應、保障生產交付是公司當前的重點工作之一。
-
----
-
-### 2026-07-20 21:15:53  #MKT News
-
-Iran's central bank governor told US Treasury Secretary Bessent not to post his "delusions" about the Iranian economy on social media, Press TV reports.
-
----
-
-### 2026-07-20 21:15:42  #公司
-
-【自由現金流ETF工銀：2026年Q2淨值增長率-16.23%】自由現金流ETF工銀公告稱，2026年第二季度，該基金本期已實現收益為-540.10萬元，本期利潤為-1220.51萬元，期末基金資產淨值為5163.04萬元，期末基金份額淨值為1.1051元。報告期內，基金淨值增長率為-16.23%，業績比較基準收益率為-17.11%。本基金跟蹤誤差主要源於申購贖回、成份股票停牌、指數成份股調整等因素。
-
----
-
-### 2026-07-20 21:15:11  #市場 #國際
-
-【富國銀行：韓元對股市的支援作用將減弱】富國銀行釋出最新市場研判指出，當前韓國股市的上漲行情不太可能在長期內對韓元匯率形成有效支撐。該機構亞太區首席策略師奇杜·納拉亞南表示，與股票及美國存託憑證（ADR）相關的匯率驅動因素屬於一次性事件，建議投資者採取做空韓元兌美元的看跌交易策略。富國銀行認為，外部不利因素依然存在，全球能源價格上漲及股市避險情緒的加劇，正對韓元構成壓力。納拉亞南強調，韓國嚴重依賴能源進口以滿足國內需求，且相當比例的石油進口需途經霍爾木茲海峽，這一結構性弱點可能進一步損害韓元匯率。此外，儘管韓國受益於人工智慧（AI）熱潮帶來的鉅額出口順差，但企業出口收益兌換率的下降，限制了其對韓元的支撐作用。
-
----
-
-### 2026-07-20 21:14:45  #MKT News
-
-【Xinyisheng says working with customers on NPO business; commercial ramp expected from H2 2027】Xinyisheng told investors on a conference call it is working closely with customers to advance NPO-related business and, based on current progress, expects commercial volumes to begin in H2 2027. The company said NPO products follow the same competitive logic as other optical modules, with R&D/design, process flow, mass-production capability and yield being the key competitive factors.
-
----
-
-### 2026-07-20 21:14:13  #公司
-
-【新易盛：正和客戶合作推進NPO相關業務，預計2027年下半年開始商業起量】7月19日晚，新易盛在電話會議上表示，目前公司正和客戶密切合作推進NPO相關業務，從現有進度來看，預計2027年下半年開始商業起量。NPO產品的競爭邏輯和其他光模組產品一致，核心比拼研發設計、工藝流程、批次生產能力、良率等綜合競爭力。
-
----
-
-### 2026-07-20 21:13:45  #MKT News
-
-Market sources: Iran's interior minister has departed for Pakistan.
-
----
-
-### 2026-07-20 21:13:21  #公司
-
-量子計算公司QumulusAI因應強勁客戶需求購入1,632顆英偉達Blackwell B300 GPU。
-
----
-
-### 2026-07-20 21:13:05  #國際
-
-【伊朗革命衛隊宣佈對中東美軍基地發動三階段聯合打擊】伊朗伊斯蘭革命衛隊發表第33號宣告宣佈，在“納斯爾2”軍事行動的第23波攻勢中，革命衛隊海軍部隊同時從三個方向對中東地區的美軍目標發動了沉重打擊。宣告詳細通報了此次聯合打擊的具體目標與戰果。在第一階段行動中，革命衛隊精準打擊了位於巴林薩赫爾機場的美軍無人機維修與存放機庫，並宣佈將其徹底摧毀。在第二階段行動中，伊方對位於巴林薩爾曼港的美軍T-59型快艇準備機庫實施打擊，導致該設施被毀，多艘快艇遭受重創。在第三階段行動中，位於科威特阿里夫堅軍營的美軍海軍特種突擊隊員駐紮、支援與裝備機庫遭到猛烈攻擊並被完全摧毀。針對當前持續升級的軍事衝突，伊朗革命衛隊重申，面對美軍的侵略行徑，伊斯蘭武裝力量將繼續使用海量導彈與無人機實施對等反擊。
-
----
-
-### 2026-07-20 21:11:56  #MKT News
-
-Market sources say Russian steel billionaire Vladimir Lisin has sold his main shipping company operating in the Sea of Azov to agricultural group Demetra.
-
----
-
-### 2026-07-20 21:11:38  #公司 #國際
-
-訊息人士稱，俄羅斯鋼鐵大亨弗拉基米爾·利辛將一家在亞速海運營的大型航運公司出售給農業集團Demetra。
-
----
-
-### 2026-07-20 21:11:25  #宏觀 #國際
-
-【王毅會見下任聯合國秘書長候選人羅德里格斯－伯基特】7月20日，中共中央政治局委員、外交部長王毅在北京會見下任聯合國秘書長候選人、蓋亞那常駐聯合國代表羅德里格斯－伯基特。羅德里格斯－伯基特介紹其競選主張及對聯合國未來發展的願景，表示中國是聯合國事業的堅定支持者、發展議題的引領者。我支援聯大第2758號決議，高度讚賞中方提出的四大全球倡議。王毅表示，以聯合國為核心的國際體系面臨衝擊，各方期待下任秘書長帶領聯合國直面困難挑戰。中方將以負責任和建設性態度參與下任秘書長選舉程序，推動聯合國重振權威和活力。（新華社）
-
----
-
-### 2026-07-20 21:10:40  #公司 #國際
-
-航空環境公司（Aerovironment）將向美國陸軍提供82套P550無人機系統。
-
----
-
-### 2026-07-20 21:10:35  #MKT News
-
-U.S. State Department: We will continue to work with Lebanon and Israel to successfully implement the framework agreement.
-
----
-
-### 2026-07-20 21:10:29  #市場 #焦點
-
-燃料油連續主力合約日內跌2%，現報3613.00元。
-
----
-
-### 2026-07-20 21:10:21  #其他
-
-【新能源汽車維修安全國標將實施】國家市場監督管理總局7月20日通報，《新能源汽車維修作業安全要求》（GB/T 47439—2026）國家標準將於8月1日起實施。該標準主要規定了新能源汽車維修的人員與場地、作業準備、風險排查與處置、作業流程和操作安全等要求。該標準聚焦新能源汽車高壓系統和氫燃料汽車供氫系統維修，提出了作業前、作業中和作業後的關鍵操作要求，重點明確了防護裝備及工具檢查、場地環境確認、作業風險識別以及B級電壓電路維修等內容。該標準的實施將有效指導新能源汽車維修人員規範作業和維修企業能力建設，進一步提升新能源汽車維修企業的安全風險防範能力和維修服務規範化水平，對保障新能源汽車維修安全和質量、促進維修行業安全發展具有重要作用。（新華社）
-
----
-
-### 2026-07-20 21:09:15  #公司
-
-【勝宏科技：擬授予限制性股票總量為不超過486.24萬股】勝宏科技公告，本激勵計劃擬向激勵物件授予的限制性股票總量為不超過486.24萬股，約佔本激勵計劃草案公告時公司股本總額9.83億股0.4948%。其中，首次授予466.24萬股，約佔本激勵計劃草案公告時公司股本總額的0.4744%，佔擬授予權益總額的95.89%；預留授予20萬股，約佔本激勵計劃草案公告時公司股本總額的0.0204%，佔擬授予權益總額的4.11%。本激勵計劃授予的限制性股票（含預留）的授予價格為155.94元/股。激勵計劃首次授予的激勵物件總人數為1545人。
-
----
-
-### 2026-07-20 21:09:07  #公司
-
-【深100ETF工銀：2026年Q2淨值增長率21.79%】深100ETF工銀公告稱，2026年Q2報告顯示，期末基金資產淨值1242.35萬元，份額淨值1.1867元。報告期內，基金淨值增長率為21.79%，業績比較基準收益率為21.31%。本期已實現收益107.32萬元，利潤220.61萬元。報告期內，該基金出現連續六十個工作日資產淨值低於5000萬元的情形，公司已向監管機構遞交解決方案。
-
----
-
-### 2026-07-20 21:08:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index Falls to Over 2-Week Low — The Baltic dry index fell 2.9% to 2,671 on Monday, its lowest since July 2. The capesize index, which typically transport 150,000-ton cargoes, including iron ore and coal, dropped 5.1% to an over two-week low of 3,889. Also, the panamax index, which usually carry 60,000 to 70,000 tons of coal or grain, decreased 0.9% to 2,227. Among smaller vessels, the supramax index increased to 1,738, its highest level since August 2022.
-
----
-
-### 2026-07-20 21:08:56  #國際
-
-市場訊息：印度各家銀行迄今透過非居民美元存款募資174億美元。
-
----
-
-### 2026-07-20 21:08:44  #市場 #焦點
-
-PTA連續主力合約日內跌2%，現報5746.00元。
-
----
-
-### 2026-07-20 21:08:37  #市場 #焦點
-
-焦煤連續主力合約日內跌3%，現報1242.00元。
-
----
-
-### 2026-07-20 21:08:18  #Trading Economics #Markets #commodity #Importance 0
-
-Canola Hits 34-month High — Canola increased to 801.80 CAD/T, the highest since September 2023. Over the past 4 weeks, Canola gained 7.75%, and in the last 12 months, it increased 15.51%.
-
----
-
-### 2026-07-20 21:08:06  #公司 #市場
-
-Alphabet股價盤前續漲，訊息稱公司正研發適配AI模型的新型晶片，盤前最新漲幅1.3%。
-
----
-
-### 2026-07-20 21:07:35  #央行 #國際
-
-印度央行：截至7月17日，累計外匯流入規模為207.2億美元。
-
----
-
-### 2026-07-20 21:06:58  #公司 #市場 #觀點 #國際
-
-【摩根大通：近期晶片股下跌並非長期下跌的開端 而是下一輪上漲的蓄力】摩根大通指出，隨著許多AI晶片龍頭股遭遇兩位數的跌幅，晶片股的價格與基本面之間的差距正在日益擴大——這一點在歐洲半導體股的身上尤為明顯：儘管歐洲半導體股票未來12個月的預期盈利持續上升，但其股價甚至已經落後於大盤平均水平。該行預計，AI驅動下DRAM供需緊張將延續至2028年，Q2財報季將會是下一輪上漲的催化劑。
 
 ---

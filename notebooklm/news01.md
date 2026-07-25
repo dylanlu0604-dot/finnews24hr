@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-25 21:57:22_
-_本檔包含 3567 則快訊，約 688474 字_
+_更新時間：2026-07-25 23:15:48_
+_本檔包含 3572 則快訊，約 688141 字_
+
+---
+
+### 2026-07-25 23:10:20  #國際
+
+印度政府：內閣部長普拉哈拉德·喬希將被任命兼任教育部部長職務。
+
+---
+
+### 2026-07-25 23:10:18  #國際
+
+印度政府：印度總統已接受達門德拉·普拉丹辭去聯邦部長職務，辭職立即生效。
+
+---
+
+### 2026-07-25 23:09:11  #其他
+
+【香港天文臺發出“八號風球”】受天氣影響，香港九龍長沙灣道一大廈工地外牆的棚架發生倒塌7月25日22時10分，香港天文臺釋出八號烈風或暴風訊號（即“八號風球”）。香港天文臺表示，按照當前預測路徑，颱風“紅霞”將於26日早晨在惠州至汕尾一帶登陸，從香港東北方向約100公里處掠過。預計其烈風區將逐步影響香港，晚間風力會持續加大，天文臺考慮在26日凌晨1時至2時釋出九號烈風或暴風風力增強訊號（即“九號風球”）。（央視新聞）
+
+---
+
+### 2026-07-25 23:02:20  #國際
+
+伊朗外長：伊朗不會向外界壓力屈服，將持續捍衛本國在霍爾木茲海峽的合法權益。
+
+---
+
+### 2026-07-25 22:59:55  #國際
+
+普拉哈德·喬希週六獲任命為印度新任聯邦教育部長。
+
+---
+
+### 2026-07-25 22:59:48  #國際
+
+印度總統接受普拉丹辭去教育部長一職。
+
+---
+
+### 2026-07-25 22:59:01  #國際
+
+【俄羅斯延長汽油出口禁令至年底 以應對燃料短缺】俄羅斯副總理諾瓦克表示，俄羅斯將把汽油出口限制延長至今年年底，以應對燃料短缺問題，不過一旦市場復甦，政府計劃取消柴油出口禁令。 諾瓦克週六在西伯利亞鄂木斯克對記者表示，柴油出口禁令將在適當時候解除，以防止煉油廠面臨供應過剩而不得不削減加工量。 他表示，關於汽油，“我們工作組也決定延長，適用於生產商和非生產商。也就是說，將延長至今年年底。”
+
+---
+
+### 2026-07-25 22:56:24  #MKT News #Market Regions #Greater China
+
+【Typhoon Hongxia upgraded to strong typhoon; China issues first red typhoon warning of year】China's Central Meteorological Observatory issued a red typhoon warning at 22:00 on July 25: Typhoon No.12 Hongxia was upgraded to a strong typhoon at 22:00. The center was located about 100 km southeast of Huidong County, Huizhou, Guangdong (22.0N, 115.6E). Near‑center maximum wind 14 (42 m/s); central pressure 955 hPa. Radius of level‑7 winds 180–250 km; level‑10 winds 90 km; level‑12 winds 50 km.
+
+---
+
+### 2026-07-25 22:56:21  #公司 #焦點
+
+【受颱風影響 7月26日0時起港珠澳大橋主橋臨時封橋】記者獲悉，受今年第12號颱風“紅霞”影響，為確保交通安全，經粵港澳三地共同會商決定，定於7月26日0時0分起，對港珠澳大橋主橋實施臨時封橋，珠海公路口岸珠港之間暫停通關服務。請旅客留意新聞媒體釋出的天氣資訊和指引，及時調整出行計劃。解封時間將另行通知，請留意官方公告。（央視新聞）
+
+---
+
+### 2026-07-25 22:55:50  #其他
+
+【一艘越南籍漁船在南沙遇險 29人獲救33人待救】記者從三沙海上搜救中心獲悉，25日傍晚，一艘越南籍漁船在南沙永暑礁附近海域遇險，船上共62人。截至25日18時54分，交通運輸部南海救助局“南海救115”輪已救起29人，仍有33人待救。目前搜救工作正在進行中。（新華社）
+
+---
+
+### 2026-07-25 22:53:28  #公司
+
+【颱風對深圳機場執行影響較大 各航司將調減明日午前航班計劃】根據颱風“紅霞”影響評估，預計7月26日凌晨至上午為颱風對機場執行影響較強時段。為確保執行安全，深圳機場計劃於7月25日晚24時前完成當日進出港航班執行，7月26日上午至中午時段的航班計劃，各航司將根據天氣影響進行集中調減，具體航班調整情況，請聯絡購票航空公司查詢瞭解。
+
+---
+
+### 2026-07-25 22:49:43  #MKT News #Market Regions #Greater China #Copper #Impact bullish
+
+【CSC Financial sees favorable investment outlook for power equipment sector】CSC Financial research says Chinese power-equipment exporters are entering a golden growth period. Transformer demand in the US and Europe is the largest globally and remains highly buoyant amid tight supply; Chinese firms’ North America exports are growing rapidly and should continue to gain share. The report expects sustained high demand in developed markets, rising demand in the Middle East and other non-US markets, and a shift of global capacity toward US/EU procurement — creating further opportunities for Chinese exporters. Top exporters are continuing to deliver on fundamentals, with strong market expectations being realised.
+
+---
+
+### 2026-07-25 22:49:42  #公司 #市場 #觀點 #國際
+
+【中信建投：看好電力裝置產業投資前景】中信建投研報表示，中國電力裝置出海迎來黃金髮展期。分市場來看，美歐市場對變壓器需求規模全球領先，需求持續高景氣而供需偏緊，中國企業北美出海保持高增長，有望持續提升市場滲透率。我們預計，歐美市場需求持續高景氣；中東等非美市場需求增加+歐美虹吸全球產能的背景下，中國企業將大有可為。出口頭部公司持續兌現基本面，強預期持續照進現實。
+
+---
+
+### 2026-07-25 22:47:42  #國際
+
+加沙內政部：呼籲國際社會及各斡旋國家向佔領方施壓，使其停止針對警務機構的打擊行動。
+
+---
+
+### 2026-07-25 22:47:36  #國際
+
+加沙內政部：佔領方正加大力度打擊警務行動，企圖在加沙地帶製造混亂。
+
+---
+
+### 2026-07-25 22:41:00  #公司
+
+【葉門胡塞武裝稱打擊沙特能源設施】葉門胡塞武裝25日宣佈，該組織當天使用導彈和無人機對位於沙烏地阿拉伯吉贊和延布的阿美石油公司設施實施打擊，並稱此次襲擊是為了回應沙特領導的聯軍空襲胡塞武裝控制區。（新華社）
+
+---
+
+### 2026-07-25 22:38:08  #MKT News
+
+France said it will deploy an additional 500 soldiers to assist in fighting forest fires.
+
+---
+
+### 2026-07-25 22:37:34  #MKT News #XAUUSD #Impact bullish #WTI
+
+【IDF conducts large-scale West Bank raids, detains more than 70 Palestinians】On the 25th, the Israel Defense Forces said the military, Shin Bet and border police carried out joint large-scale raids across the West Bank over the past 24 hours. They searched more than 300 locations, detained over 70 Palestinians and conducted on-site checks of about 130 others. Those detained were handed to authorities for interrogation, including individuals Israel identified as Hamas members and suspects accused of involvement in shootings, plotting attacks and weapons trafficking.
+
+---
+
+### 2026-07-25 22:36:58  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【US using 'hot‑cold' tactics on Iran; likely aim to reopen Strait of Hormuz】A former Austrian defense attaché said the US is coordinating diplomatic pressure, a maritime blockade and military options against Iran, and that the immediate objective appears to be reopening the Strait of Hormuz. He said Washington is employing a 'hot‑and‑cold' tactic—periodic strikes followed by lulls—to induce Iran to abandon intent to continue the conflict. He added that, while Trump is reportedly seeking negotiations, Iran's leadership is split between a faction favoring restoration of a memorandum of understanding and a faction seeking to secure control of the Strait of Hormuz by military means.
+
+---
+
+### 2026-07-25 22:35:54  #國際
+
+美國國家颶風中心預測，吉納維芙颶風將在未來幾天內迅速增強。
+
+---
+
+### 2026-07-25 22:32:36  #其他
+
+【福建啟動防汛四級應急響應 維持防颱風三級應急響應】記者從福建省防汛抗旱指揮部瞭解到，受颱風“紅霞”影響，預計今天夜間至26日白天，漳州和廈門兩市大部、龍巖（永定、上杭、武平、新羅）、泉州（安溪、南安）有暴雨或大暴雨，其餘地區區域性暴雨，24小時累計雨量50—100毫米，區域性200毫米；最大小時雨量80毫米。福建省防指於25日20時啟動防汛四級應急響應並維持防颱風三級應急響應。（央視新聞）
+
+---
+
+### 2026-07-25 22:29:18  #MKT News
+
+【Qatar transport ministry to fully resume maritime navigation from July 26】Qatar's Ministry of Transport said it will fully resume all maritime vessel movements from Sunday, July 26, 2026. The ministry urged operators to comply with existing maritime regulations and directives and to ensure vessels carry required safety and security equipment before and during voyages.
+
+---
+
+### 2026-07-25 22:28:09  #國際
+
+【以軍在約旦河西岸展開大規模搜捕 扣押70多名巴勒斯坦人】當地時間25日，以色列國防軍發表宣告，以色列軍隊、國家安全域性（辛貝特）和邊防警察過去24小時在約旦河西岸展開大規模聯合搜捕行動。宣告稱，以軍在軍事行動中搜查了300多個地點，共扣押了70多名巴勒斯坦人，另有約130人遭到現場盤查。以方稱，被扣押人員已被移交審查，其中包括以方認定的巴勒斯坦伊斯蘭抵抗運動（哈馬斯）成員，以及涉嫌參與槍擊、策動襲擊和販運武器的武裝人員。（央視新聞）
+
+---
+
+### 2026-07-25 22:26:34  #其他
+
+【廣東省減災委員會啟動Ⅳ級救災應急響應】針對今年第12號颱風“紅霞”帶來的風雨浪潮及次生災害影響，根據《廣東省自然災害救助應急預案》規定，廣東省減災委員會已於7月25日20時啟動省Ⅳ級救災應急響應。（央視新聞）
+
+---
+
+### 2026-07-25 22:26:07  #其他
+
+【“紅霞”加強為強颱風級，將於26日凌晨登陸】中央氣象臺7月25日22時釋出颱風紅色預警：今年第12號颱風“紅霞”已於今天（25日）晚上10點鐘由颱風級加強為強颱風級，其中心位於廣東惠州市惠東縣東南方向大約100公里的近海海面上，就是北緯22.0度、東經115.6度，中心附近最大風力有14級（42米/秒），中心最低氣壓為955百帕，七級風圈半徑180-250公里，十級風圈半徑90公里，十二級風圈半徑50公里。預計，“紅霞”將以每小時20公里左右的速度向西北方向移動，強度還將有所增強，將於明天（26日）凌晨在廣東深圳到海豐一帶沿海登陸（42-48米/秒，14-15級，強颱風級），登陸後轉向北偏西方向移動，強度逐漸減弱。
+
+---
+
+### 2026-07-25 22:24:29  #其他
+
+據網路平臺資料，截至目前， 動畫電影《八仙！》 票房（含預售）突破6億元。
+
+---
+
+### 2026-07-25 22:23:19  #MKT News
+
+Two Brazilian sources said the US plans to send a special envoy aimed at influencing Brazil's October presidential election.
+
+---
+
+### 2026-07-25 22:23:16  #MKT News
+
+Two Brazilian sources said Brazil refused to issue visas to two Trump administration envoys who sought to question Brazil's electoral system.
+
+---
+
+### 2026-07-25 22:23:13  #國際
+
+兩名巴西訊息人士稱，巴西拒發籤證給兩名旨在質疑巴西選舉制度的特朗普政府特使。美國派遣特使的計劃是試圖干預巴西10月總統選舉以影響選舉結果。
+
+---
+
+### 2026-07-25 22:19:34  #其他
+
+【2026暑期檔電影票房破55億】據網路平臺資料，截至目前，2026年暑期檔電影總票房（含預售）突破55億元。2026年度電影總票房（含預售）突破212億元。
+
+---
+
+### 2026-07-25 22:16:37  #公司
+
+【海康威視：預計下半年毛利率仍將維持在相對高位】海康威視(002415)7月25日在業績說明會上表示，公司預計下半年毛利率仍將維持在相對高位。毛利率提升的原因方面，雖然有低價存貨轉收入的影響，但公司產品競爭力增強、產品線梳理以及行業反內卷帶來的毛利率中樞上移更關鍵。此外，硬碟漲價帶來的毛利增加與人民幣升值導致的匯兌損失（今年上半年與去年同期的匯兌差值帶來的費用同比影響約12億元）基本對沖，整體影響中性略偏正面。
+
+---
+
+### 2026-07-25 22:12:54  #其他
+
+香港天文臺釋出8號風球。
+
+---
+
+### 2026-07-25 22:10:50  #其他
+
+今年第12號颱風“紅霞”已於今天晚上10時由颱風級加強為強颱風級。（央視新聞）
+
+---
+
+### 2026-07-25 22:06:12  #其他
+
+“紅霞”即將登陸，中央氣象臺釋出今年首個颱風紅色預警。（央視新聞）
+
+---
+
+### 2026-07-25 22:04:40  #國際
+
+【印尼金屬出口因稀土核查面臨延誤】 印度尼西亞（印尼）部分金屬產品的出口正因針對稀土和鈾等放射性元素的新檢查而受阻，導致這家主要大宗商品生產國的供應鏈出現混亂。據知情人士透露，7月份多批貨物出現延誤，原因是印尼海關要求對特定關鍵礦物進行額外檢測，可加工成鋁的氧化鋁以及鎳生鐵的出口均受到了影響。目前尚不清楚此次中斷將持續多久，以及受影響的出口量有多大。印尼海關辦公室的一位發言人表示，政府正引入獨立檢驗機構以查明礦產出口的構成，包括檢測是否含有稀土金屬。政府並非隨意暫停或禁止氧化鋁和鎳等礦產商品的出口，並正確保符合要求的商品出口順暢。
 
 ---
 
@@ -21366,185 +21576,5 @@ SK海力士領跌韓國晶片股，股價下跌5％，至1,823,000韓元。三�
 ### 2026-07-24 08:45:15  #公司 #國際
 
 【美國總統特朗普推動科技巨頭承諾自行承擔AI資料中心新增電力成本】美國總統唐納德·特朗普週四歡迎電力公司和資料中心開發商最新作出的承諾，要求科技企業承擔執行高耗能人工智慧系統所需的電力成本。“資料中心和人工智慧正在急劇推高電力需求。為滿足這一需求而建設新基礎設施的成本，理應由企業自身承擔，而不是由美國消費者承擔，”特朗普在一場活動上表示。該活動旨在宣傳其今年早些時候推出的“電力使用者保護承諾”的新增參與方。這項倡議並不具有法律約束力。特朗普表示：“根據這項開創性計劃，美國最大的科技公司已正式承諾，將出資或建設滿足其新增用電需求所需的全部能源基礎設施。與此同時，我們將允許他們建設自己的發電廠。”
-
----
-
-### 2026-07-24 08:44:35  #國際
-
-【美媒：美國會未能及時透過撥款，“特朗普”級戰列艦開局不利】備受特朗普政府重視的美國海軍新一代“特朗普”級戰列艦計劃在2028財年開工，然而美國海軍學會網站22日透露，相關準備工作卻因為美國國會未能及時透過撥款而陷入僵局，可謂“開局不利”。 報道稱，總金額高達1.5萬億美元的《2027財年國防授權法案》因參議院民主黨人抗議美國與伊朗之間的持續衝突而被擱置。其中涉及“特朗普”級戰列艦和“福特”級航母“威廉·J·克林頓”號（CVN-82）等的前期撥款。如果沒有批准相關預算，五角大樓就無法開始為這些大型艦艇建造所需的核動力推進裝置等進行先期採購。（環球網）
-
----
-
-### 2026-07-24 08:44:17  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Oil surge raises rate pressure; South Korea stocks tumble in early trade】The KOSPI fell more than 3% in early trade, slipping below 6,900, after oil surged on escalating Middle East tensions and renewed concerns about upward pressure on interest rates. Foreign investors, net buyers for four straight sessions, turned net sellers of 291.8 billion won; institutional investors sold 71.5 billion won; retail investors bought 380.0 billion won. Large caps: Samsung Electronics down >4%, SK Hynix down >5%, SK Square down >7%, Samsung Electro‑Mechanics down >5%. Sector moves: electrical & electronics -3.40%, IT services -3.28%, manufacturing -2.79%; pharmaceuticals +2.98%, paper & wood +1.13%, diversified services +0.54%.
-
----
-
-### 2026-07-24 08:43:54  #公司
-
-【華宇軟體子公司大連華宇與星河智聯簽署技術開發（委託）合同】近日，華宇軟體子公司大連華宇與星河智聯簽署技術開發（委託）合同，根據雙方簽署的技術開發合同，大連華宇將承接星河智聯委託的軟體開發業務。本次合作涉及SR渲染、智駕泊車、主動安全等高技術壁壘模組，將推動大連華宇在智慧座艙軟體棧、AI互動邏輯、車規級程式碼質量等方面實現能力躍升。
-
----
-
-### 2026-07-24 08:43:54  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-Japanese Shares Drop as Tech Stocks Tumble — The Nikkei 225 Index fell more than 2% to below 64,900 on Friday, reversing the Thursday's gains amid a broad tech-led selloff due to concerns over AI-related spending. Investor caution was further amplified by escalating tensions in the Middle East, which pushed oil prices higher and heightened inflation fears. On the data front, Japan's headline inflation rose 1.7% in June, the highest in six months, from 1.5% in May, reinforcing expectations of further interest rate hikes by the Bank of Japan. Technology and AI-related shares led the declines in Japan, including Kioxia Holdings (-3.1%), Advantest (-3.9%), SoftBank Group (-5.1%), Tokyo Electron (-2.0%), Taiyo Yuden (-3.4%), Lasertec (-1.2%), and Murata Manufacturing (-2.1%). Despite Friday's pullback, the Nikkei 225 Index is up more than 1% for the week, on track for its first weekly advance in three.
-
----
-
-### 2026-07-24 08:43:47  #其他
-
-【2026年APEC數字和人工智慧部長會議透過《成都宣告》】2026年亞太經合組織數字和人工智慧部長會議昨天（23日）下午舉行新聞釋出會，各經濟體在本次會議上達成共識，透過了《2026年APEC數字和人工智慧部長宣告》（簡稱《成都宣告》）。與會各方一致同意，共同推動數字和人工智慧技術賦能亞太共同體，為未來一段時期APEC深化數字和人工智慧領域合作搭建了行動框架。專家指出，宣告傳遞出技術紅利要惠及亞太地區所有經濟體和廣大民眾的強烈訊號。各方將透過能力建設、經驗分享、公共教育專案等多元路徑，提升亞太各經濟體民眾數字和人工智慧素養和技能，讓數字和人工智慧技術的發展既有創新“高度”，更有民生“溫度”，切實縮小數字和智慧鴻溝，真正實現人人可及、人人受益。
-
----
-
-### 2026-07-24 08:42:21  #公司
-
-【深交所：港股通標的證券名單調入禾賽-W、聖邦股份、芯碁微裝】深交所公告，深港通下的港股通標的證券名單調入禾賽-W、聖邦股份、芯碁微裝，7月24日起生效。
-
----
-
-### 2026-07-24 08:42:11  #市場 #國際
-
-【布倫特原油突破100美元大關 中東供應風險加劇】布倫特原油價格突破每桶100美元大關，此前胡塞武裝對紅海油輪發動襲擊使中東衝突開闢了新戰線，美國總統唐納德·特朗普威脅要擴大對伊朗的軍事打擊。 週四，這一全球基準油價兩個月來首次突破三位數大關，本週該期貨價格上漲約13%。WTI交易價格突破每桶92美元。特朗普威脅稱，如果紅海船隻遭到進一步襲擊，將對伊朗和胡塞武裝實施“重大軍事懲罰”，並告訴Axios他正在考慮對伊朗發動“大規模襲擊”。 市場還面臨著俄羅斯黑海沿岸裡海輸油管道聯盟終端遭襲的影響，該終端出口著哈薩克大部分石油。中東地區數月的衝突已導致全球庫存減少，加劇了供應短缺和更廣泛經濟衝擊的風險。
-
----
-
-### 2026-07-24 08:40:21  #公司
-
-【信長星劉小濤會見淡馬錫控股客人】據新華日報，7月23日，江蘇省委書記信長星、省長劉小濤在南京會見新加坡淡馬錫控股執行董事兼首席執行長狄瀾。信長星說，淡馬錫作為國際知名投資公司，與江蘇有著良好合作基礎。我們願同淡馬錫一道，抓住人工智慧加速賦能千行百業的機遇，推動雙方合作朝著更高質量、更寬領域邁進。狄瀾表示，淡馬錫關注的數字化、可持續、新消費、大健康等領域，在中國、在江蘇都有很多合作契機。我們堅定看好中國經濟前景、看好江蘇未來發展，將進一步深化與江蘇務實合作，更好實現共贏發展。
-
----
-
-### 2026-07-24 08:39:20  #其他
-
-【耐普礦機與必和必拓簽訂全球框架合作協議】據耐普礦機訊息，7月22日，耐普礦機在上饒總部接待全球礦業巨頭必和必拓（BHP）高層代表團一行，並正式簽署全球框架協議（GFA），標誌著耐普礦機正式納入必和必拓的全球供應商體系，雙方合作自此進入系統化對接與專案落地的新階段。
-
----
-
-### 2026-07-24 08:38:37  #公司
-
-【7月197款遊戲版號獲批 機構預計遊戲板塊維持高景氣度】國家新聞出版署7月23日釋出2026年7月份國產網路遊戲審批資訊，共197款遊戲獲得版號，其中國產網路遊戲193款、進口網路遊戲4款。主要產品包括靈遊坊旗下《影之刃零》、星輝娛樂旗下《守衛穹頂》、心動公司旗下《仙境傳說：守護永恆的愛2》等。財信證券研報指出，2026年6月共有38家中國手遊發行商進入全球收入前100名，合計收入20.6億美元，中報預告進一步驗證頭部公司的產品週期，世紀華通、巨人網路、愷英網路和吉位元預計上半年利潤同比增長。建議關注產品儲備豐富、核心產品流水穩定、業績與估值相匹配的公司。
-
----
-
-### 2026-07-24 08:37:43  #公司
-
-【武漢市委書記盛閱春會見中芯聚源董事長高永崗】7月22日，湖北省委常委、武漢市委書記盛閱春會見中芯聚源私募基金管理（上海）有限公司董事長高永崗。會見後，武漢光谷金融控股集團有限公司與中芯聚源簽署《戰略合作協議》。（長江日報）
-
----
-
-### 2026-07-24 08:36:52  #Trading Economics #Economy #Japan #Services PMI #Importance 1
-
-Japan Services Growth Slows Slightly — Japan’s S&P Global Services PMI Business Activity Index edged down to 51.9 in July 2026 from a final 52.2 in the previous month. Still, the latest reading remained firmly in expansion territory, signaling the 16th straight month of growth in the services sector.
-
----
-
-### 2026-07-24 08:36:03  #公司 #市場
-
-SK海力士股價下跌 5%，因投資者拋售這家半導體巨頭股票。
-
----
-
-### 2026-07-24 08:35:14  #Trading Economics #Economy #Japan #Manufacturing PMI #Importance 2
-
-Japan Manufacturing Growth Eases Slightly — The S&P Global Japan Manufacturing PMI inched down to 54.7 in July 2026 from 54.8 in the previous month, but surpassed market expectations of 54.5, preliminary estimates showed. It was the seventh straight month of expansion in factory activity, supported by faster increases in output, while new orders grew at the fastest pace in over five years.
-
----
-
-### 2026-07-24 08:34:26  #國際
-
-【韓國將燃油稅減免措施延長至9月底】據韓聯社報道，韓國將把燃油稅減免措施再延長兩個月至9月30日，維持目前汽油稅減免15%、柴油和丁烷稅減免25%的政策，以幫助緩解中東局勢相關油價波動帶來的燃料成本壓力。
-
----
-
-### 2026-07-24 08:33:20  #公司 #市場 #國際
-
-【韓綜指三連漲後回落，晶片股拖累大盤】受美股晶片板塊隔夜大跌拖累，韓國基準股指綜合指數（Kospi）最大跌幅達 3.2%，終結連續三日上漲行情。SK 海力士、三星電子、SK Square 是拖累大盤下跌的主要權重個股。外資持續拋售韓綜指成分股，散戶逆勢買入，本土基金同步賣出。小盤股科斯達克指數最大跌幅 3%。韓國股市表現弱於MSCI 亞太指數，該指數最大跌幅 1.1%。
-
----
-
-### 2026-07-24 08:32:54  #觀點
-
-【華泰證券：光伏落後產能出清紅線漸清晰】華泰證券研報稱，7月22日，《矽多晶和鍺單位產品能源消耗限額》《晶體矽光伏元件和逆變器能效限定值及能效等級》《矽單晶單位產品能源消耗限額》三項強制性國家標準具體細則公開，並將於2027年1月1日實施。從能效等級上看，矽料能耗等級要求較為超預期，3級標準要求較2025年9月16日徵求意見稿收緊。強制性國標釋出意味著矽料、矽片、電池、元件四大主鏈環節的剛性准入門檻將抬高，華泰證券重申看好2026年下半年光伏需求側同比壓力有望緩解，2027年強制性國標手段加速供給側出清，看好：具備存量高效產能，在能耗要求“縮圈”下仍達標的矽料龍頭，主鏈中技術屬性更強的電池元件，輔材環節受益賤金屬匯入產業化趨勢的漿料龍頭有望率先迎來盈利改善。
-
----
-
-### 2026-07-24 08:32:50  #其他
-
-【6股獲券商買入評級，國電電力目標漲幅達19.44%】Wind資料顯示，7月23日，共有6只個股獲券商買入評級，其中1只個股公佈了目標價格。按最高目標價計算，國電電力目標漲幅排名居前，漲幅分別達19.44%。從評級調整方向來看，2只個股評級維持不變，1只個股評級獲調高，3只個股為首次評級。從獲買入評級個股所屬Wind行業來看，半導體與半導體生產裝置、資本貨物、食品、飲料與菸草買入評級個股數量最多，分別有2只、1只、1只。
-
----
-
-### 2026-07-24 08:32:48  #Trading Economics #Economy #Japan #Composite PMI #Importance 1
-
-Japan Composite PMI Highest in Five Months — Japan’s S&P Global Composite PMI Business Activity Index edged up to 53.1 in July 2026 from a final 52.8 in the prior month, flash data showed. It was the highest reading since February, marking the 16th straight month of expansion in private sector activity.
-
----
-
-### 2026-07-24 08:32:27  #資料 #國際
-
-韓國部長表示，韓國將努力把7月份的CPI降至2%的水平。
-
----
-
-### 2026-07-24 08:31:04  #資料 #國際
-
-日本7月製造業採購經理人指數(PMI)初值為54.7 (上月為54.8)；日本7月服務業採購經理人指數(PMI)初值為51.9 (上月為52.2)；日本7月份標普全球綜合PMI報53.1。
-
----
-
-### 2026-07-24 08:30:45  #經濟數據 #日本
-
-日本7月服務業PMI初值51.9，前值52.2。
-
----
-
-### 2026-07-24 08:30:25  #經濟數據 #日本
-
-日本7月製造業PMI初值54.7，前值54.8。
-
----
-
-### 2026-07-24 08:30:17  #其他
-
-墨西哥衛生部表示，對泰勒農場生菜與水樣的檢測結果顯示，並未檢出環孢子蟲。
-
----
-
-### 2026-07-24 08:30:08  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
-
-Japan July preliminary composite PMI 53.1; prior 52.8.
-
----
-
-### 2026-07-24 08:30:07  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
-
-Japan preliminary July manufacturing PMI 54.7, versus 54.8 previously.
-
----
-
-### 2026-07-24 08:30:07  #MKT News #USDJPY #Impact bullish #DXY #Nikkei 225 #Impact bearish
-
-Japan preliminary July services PMI 51.9, down from 52.2.
-
----
-
-### 2026-07-24 08:30:00  #MKT News #Economic Calendar #Important
-
-Japan | Manufacturing PMI Flash (Jul) | actual 54.7 | previous 54.8
-
----
-
-### 2026-07-24 08:29:55  #公司
-
-【Stripe據悉洽購AI模型聚合平臺創企OpenRouter】據報道，支付公司Stripe正洽談收購AI模型聚合平臺創企OpenRouter，可能很快宣佈達成交易，但洽談仍可能破裂或出現其他競購者。OpenRouter此前估值約13億美元，若達成收購協議，其估值可能達到約100億美元。
-
----
-
-### 2026-07-24 08:28:31  #MKT News
-
-【South Korea's Lee vows to press housing tax and mortgage reforms despite political cost】South Korea's Lee said on Thursday he will press ahead with housing policy reform even if it provokes expected conflict, resistance and "political cost". He warned failure to act could inflate a property bubble and trigger decades-long economic stagnation, citing Japan's "lost decades". Lee said forthcoming measures and discussions will cover property holding taxes, capital gains taxes and housing loan rules.
 
 ---
