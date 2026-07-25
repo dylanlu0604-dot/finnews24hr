@@ -1,7 +1,15 @@
 {
   "date": "2026-07-26",
-  "count": 40,
+  "count": 41,
   "items": [
+    {
+      "id": "mkt:019f9a69-63ef-7aab-8e96-38f6afaf13cd",
+      "time": "2026-07-26 01:53:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【HKO reissues Tropical Cyclone Warning Signal No.9】The HKO early this morning reissued the No.9 gale-or-storm signal. The No.9 or higher tropical cyclone warning is expected to remain in force at least until 7:00 a.m. HKT."
+    },
     {
       "id": "5008105",
       "time": "2026-07-26 01:51:00",
