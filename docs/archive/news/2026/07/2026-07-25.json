@@ -1,7 +1,39 @@
 {
   "date": "2026-07-25",
-  "count": 936,
+  "count": 940,
   "items": [
+    {
+      "id": "5008052",
+      "time": "2026-07-25 22:24:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "據網路平臺資料，截至目前， 動畫電影《八仙！》 票房（含預售）突破6億元。"
+    },
+    {
+      "id": "mkt:019f99a8-b946-7aab-8e95-8495deb738a2",
+      "time": "2026-07-25 22:23:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Two Brazilian sources said the US plans to send a special envoy aimed at influencing Brazil's October presidential election."
+    },
+    {
+      "id": "mkt:019f99a8-ad7c-7aab-8e95-7f0ae5a862bc",
+      "time": "2026-07-25 22:23:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Two Brazilian sources said Brazil refused to issue visas to two Trump administration envoys who sought to question Brazil's electoral system."
+    },
+    {
+      "id": "5008051",
+      "time": "2026-07-25 22:23:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩名巴西訊息人士稱，巴西拒發籤證給兩名旨在質疑巴西選舉制度的特朗普政府特使。美國派遣特使的計劃是試圖干預巴西10月總統選舉以影響選舉結果。"
+    },
     {
       "id": "5008050",
       "time": "2026-07-25 22:19:34",
