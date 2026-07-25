@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-26 00:44:01",
-  "count": 18154,
+  "updated": "2026-07-26 00:48:14",
+  "count": 18153,
   "items": [
+    {
+      "id": "5008088",
+      "time": "2026-07-26 00:47:12",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【深圳市釋出颱風紅色預警訊號】颱風“紅霞”（強颱風級）將給深圳帶來嚴重風雨影響，深圳東部將進入12級風圈，深圳市氣象臺7月26日0時30分將鹽田區、坪山區、大鵬新區、大鵬灣、大亞灣和龍崗區（坪地、龍城、龍崗、寶龍、園山街道）颱風橙色預警訊號升級為紅色；同時將羅湖區、南山區、福田區、寶安區、光明區、龍華區、珠江口、深圳灣和龍崗區（平湖、南灣、坂田、橫崗、吉華街道）颱風黃色預警訊號升級為橙色。請做好防風防雨工作。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f9a2a-1945-7aab-8e95-f6be748d5122",
+      "time": "2026-07-26 00:44:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Poll shows Democrats could flip House; Republicans under pressure】An Emerson College poll finds Democrats leading Republicans 53% to 42% on midterm election preference—the largest Democratic margin in the series. Trump's approval is 39% with 57% disapproval. The Democratic edge is concentrated among women, where Democrats lead by 27 percentage points. Newsweek applied a uniform national swing to House districts and estimates Democrats could flip about 36 Republican-held seats, implying a hypothetical 251-184 House split; Newsweek stressed this is a national-model stress test, not a forecast, and actual outcomes will depend on candidate quality, local issues, turnout and districting."
+    },
     {
       "id": "5008087",
       "time": "2026-07-26 00:42:13",
@@ -166331,34 +166348,6 @@
         "其他"
       ],
       "text": "英國海上貿易行動辦公室：葉門海岸附近事件重新定性為船隻劫持事件，已有不明人員登船。"
-    },
-    {
-      "id": "mkt:019f761f-956e-7aab-8df2-0196830eec7c",
-      "time": "2026-07-19 00:46:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "UK Maritime Trade Operations said it received a report of an incident involving a merchant vessel and military forces about 100 nm east of Duqm, Oman. The report said an oil tanker was affected amid ongoing military activity in the area."
-    },
-    {
-      "id": "4995633",
-      "time": "2026-07-19 00:46:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海事貿易運營機構表示，報告顯示該油輪因該地區持續的軍事活動而遭遇接觸。"
-    },
-    {
-      "id": "4995632",
-      "time": "2026-07-19 00:45:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易組織(UKMTO)表示，已收到報告稱，在阿曼杜庫姆以東約100海里處發生一起涉及商船和軍隊的事件。"
     }
   ]
 }
