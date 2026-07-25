@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-25 09:16:49",
-  "count": 18239,
+  "updated": "2026-07-25 09:20:32",
+  "count": 18241,
   "items": [
+    {
+      "id": "5007734",
+      "time": "2026-07-25 09:19:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【7月以來發布擬增持計劃的績優股梳理】7月以來，上市公司密集釋出擬增持計劃。據證券時報·資料寶統計，按照首次公告日統計，截至7月24日收盤，7月以來，近80家公司釋出擬增持計劃，公司數量創今年以來月度新高。按披露擬增持金額統計，近80家公司擬增持金額上限合計超過102億元，是6月的3倍多，擬增持金額同樣創下今年以來月度新高。結合業績預告進一步來看，上述近80家公司中，已披露今年上半年業績預告且業績預喜（扭虧、預增、略增）的公司有12家，主要分佈於電力裝置、有色金屬、機械裝置等行業。"
+    },
+    {
+      "id": "mkt:019f96db-65a9-7aab-8e91-581bea74eb4d",
+      "time": "2026-07-25 09:19:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "【China Meteorological Administration launches Level II emergency response for major meteorological disasters】Typhoon No.12 Hongxia is forecast to make landfall overnight July 25–26 along the coast between Hong Kong and Huilai, Guangdong, likely at typhoon or strong-typhoon intensity. The system is expected to persist, bring large cumulative rainfall and carry a high disaster risk. At 06:00 on July 25 the Central Meteorological Observatory issued a typhoon orange warning, a heavy-rain orange warning and a severe-convective-weather blue warning. After comprehensive assessment and emergency consultation, the China Meteorological Administration activated a Level II emergency response for major meteorological disasters (typhoon, heavy rain, severe convective weather)."
+    },
+    {
+      "id": "5007733",
+      "time": "2026-07-25 09:19:09",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【中國氣象局啟動重大氣象災害Ⅱ級應急響應】預計今年第12號颱風“紅霞”將於25日夜間至26日早晨在香港到廣東惠來一帶沿海登陸（颱風級或強颱風級），過程維持時間長、累計雨量大、致災風險高，中央氣象臺7月25日6時繼續釋出颱風橙色預警、強對流天氣藍色預警，釋出暴雨橙色預警。經綜合研判和應急會商，中國氣象局啟動重大氣象災害（颱風、暴雨、強對流）Ⅱ級應急響應。"
+    },
+    {
+      "id": "5007732",
+      "time": "2026-07-25 09:16:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯大批准圖爾克連任聯合國人權高專】聯合國大會24日以144票贊成、10票反對、13票棄權的表決結果透過一項決議，批准聯合國秘書長有關圖爾克連任聯合國人權事務高階專員的提議。圖爾克的新任期從2026年10月12日開始，到2030年10月11日結束。圖爾克來自奧地利。2022年9月，聯合國大會根據聯合國秘書長的提議，批准任命圖爾克為聯合國人權事務高階專員，任期4年。圖爾克於當年10月上任。（新華社）"
+    },
     {
       "id": "5007731",
       "time": "2026-07-25 09:15:41",
@@ -167073,22 +167112,6 @@
         "國際"
       ],
       "text": "伊朗塔斯尼姆通訊社稱，美國襲擊了賈斯克附近一處地點。"
-    },
-    {
-      "id": "4995209",
-      "time": "2026-07-18 09:17:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果上調Apple Music訂閱價格】7月18日訊息，蘋果公司上調Apple Music全球訂閱價格。其中，個人版月費由10.99美元升至11.99美元，家庭版由16.99美元升至19.99美元，學生版由5.99美元升至6.99美元。蘋果表示，此次調價主要反映音樂版權授權成本上升，並支援持續向音樂人提供合理報酬。與此同時，學生版訂閱新增免費Apple TV+權益。蘋果基礎版Apple One套餐價格維持19.95美元/月不變，但更高等級Apple One套餐價格同步上調2美元。"
-    },
-    {
-      "id": "4995208",
-      "time": "2026-07-18 09:16:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【賽力斯：捐贈1000萬馳援重慶災區】7月18日，賽力斯集團宣佈向重慶災區捐贈1000萬元，用於山體崩塌受災地區的緊急救援與災後重建工作。"
     }
   ]
 }
