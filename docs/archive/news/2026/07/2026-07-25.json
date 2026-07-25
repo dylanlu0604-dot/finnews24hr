@@ -1,7 +1,15 @@
 {
   "date": "2026-07-25",
-  "count": 708,
+  "count": 709,
   "items": [
+    {
+      "id": "mkt:019f97aa-609a-7aab-8e93-50444a10c0a7",
+      "time": "2026-07-25 13:05:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's General Staff reported 230 combat engagements in the past 24 hours."
+    },
     {
       "id": "5007852",
       "time": "2026-07-25 13:04:03",

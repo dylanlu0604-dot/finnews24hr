@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-25 13:05:34",
-  "count": 18274,
+  "updated": "2026-07-25 13:09:25",
+  "count": 18269,
   "items": [
+    {
+      "id": "mkt:019f97aa-609a-7aab-8e93-50444a10c0a7",
+      "time": "2026-07-25 13:05:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's General Staff reported 230 combat engagements in the past 24 hours."
+    },
     {
       "id": "5007852",
       "time": "2026-07-25 13:04:03",
@@ -167423,57 +167431,6 @@
         "Impact bearish"
       ],
       "text": "TASNIM NEWS reported Iran’s Islamic Revolutionary Guard Corps said it struck US fighter facilities at Sheikh Isa airbase."
-    },
-    {
-      "id": "4995329",
-      "time": "2026-07-18 13:09:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊表示，其襲擊了謝赫伊薩空軍基地的美軍作戰飛機設施。"
-    },
-    {
-      "id": "4995328",
-      "time": "2026-07-18 13:07:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【燧原科技於WAIC展出高效能超節點及NPO光互連技術】7月17日至20日，2026世界人工智慧大會（WAIC 2026）在上海召開。期間，燧原科技集中展示最新國產AI算力系統級成果。硬體方面，燧原展出基於自研加速模組打造的高效能超節點，包括基於先進正交架構方案的“雲燧 ESL64-O”，以及基於成熟Cable-tray方案的“雲燧 ESL64-C”，可滿足萬卡級以上大規模叢集組網需求。同時推出NPO光互連原型系統方案，突破銅互連限制，支援512卡以上部署。"
-    },
-    {
-      "id": "4995327",
-      "time": "2026-07-18 13:07:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新疆上半年外送電量同比增長逾25%】新疆電力交易中心有限公司資料顯示，新疆2026年上半年累計外送電量達790.24億千瓦時，同比增長25.11%，其中新能源外送電量278.4億千瓦時，同比增長33.92%。（新華社）"
-    },
-    {
-      "id": "4995326",
-      "time": "2026-07-18 13:07:22",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊稱其襲擊了科威特艾哈邁迪港的美國海軍燃料補給碼頭。"
-    },
-    {
-      "id": "mkt:019f739e-cf3b-7aab-8ded-dc2565dee66d",
-      "time": "2026-07-18 13:06:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【CAICT: China's daily token calls up more than 1,000x】The China Academy of Information and Communications Technology (CAICT) said daily token calls in China rose from about 100 bln at the start of 2024 to 140 tln by end‑March 2026, an increase of over 1,000x. CAICT vice president Wei Liang said tokens — the units large models use to process information and measure model invocation cost — are spawning a new token economy. The multi‑round model invocations driven by agent-scale applications are sharply increasing AI compute demand and are prompting the development of token metering, scheduling, pricing and trading models."
-    },
-    {
-      "id": "4995325",
-      "time": "2026-07-18 13:06:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家地方共建人形機器人創新中心中試公共服務平臺啟用】記者7月18日獲悉，國家地方共建人形機器人創新中心中試公共服務平臺正式啟用，該平臺坐落於上海浦東張江機器人谷，構建研發試製、精密裝配、全項測試、倉儲交付一體化中試閉環，具備年產2000臺整機、2000套核心精密元件能力，將為浦東具身智慧產業提供從研發到量產的關鍵支撐，有效降低研發建線成本，沉澱標準工藝與實測資料，助力長三角相關產業叢集化發展。（央視新聞）"
     }
   ]
 }
