@@ -1,7 +1,46 @@
 {
   "date": "2026-07-26",
-  "count": 23,
+  "count": 27,
   "items": [
+    {
+      "id": "5008095",
+      "time": "2026-07-26 01:06:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：確認已成功部署24顆星鏈衛星。"
+    },
+    {
+      "id": "mkt:019f9a3e-72ef-7aab-8e96-19061619bbe3",
+      "time": "2026-07-26 01:06:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Islamic Revolutionary Guard Corps (IRGC) spokesman said its forces destroyed 11 U.S. fighter jets and helicopters over 15 days of fighting."
+    },
+    {
+      "id": "5008094",
+      "time": "2026-07-26 01:05:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場資訊：美國特種部隊正籌備突襲行動，意圖奪取伊朗濃縮鈾。"
+    },
+    {
+      "id": "5008093",
+      "time": "2026-07-26 01:05:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "訊息人士：阿曼與伊朗的會談取得進展，可能於週末達成協議。"
+    },
     {
       "id": "mkt:019f9a39-0ff7-7aab-8e96-10b8686bec25",
       "time": "2026-07-26 01:00:58",
