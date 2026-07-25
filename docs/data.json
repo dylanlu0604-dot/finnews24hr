@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25 20:57:16",
-  "count": 18194,
+  "updated": "2026-07-25 21:01:50",
+  "count": 18191,
   "items": [
     {
       "id": "mkt:019f9957-6366-7aab-8e95-3cc7db5a7c95",
@@ -166710,30 +166710,6 @@
         "其他"
       ],
       "text": "【太空計算服務專委會正式成立】7月18日，在2026世界人工智慧大會（WAIC）期間，由工業和資訊化部中小企業發展促進中心發起的中國中小企業國際合作協會太空計算服務專業委員會正式成立。作為國內首個聚焦太空計算、面向廣大中小企業服務的全國性產業協同平臺，專委會將搭建一體化產業對接載體，助力中小企業貫通星地算力全產業鏈條，助推我國空天資訊產業高質量發展。東方天算作為專委會常務理事單位，聯合四十餘家產業鏈上下游主體，共同構建產學研用深度融合的產業樞紐。"
-    },
-    {
-      "id": "mkt:019f7550-a0fc-7aab-8df0-c5ec3c8c7811",
-      "time": "2026-07-18 21:00:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Turing Quantum launches industry-grade quantum-classical hybrid agent platform QAgent】July 18 — Turing Quantum unveiled QAgent at the 2026 World Artificial Intelligence Conference (WAIC). The company says QAgent is the world’s first photonic-quantum-based, industry-deployable quantum-classical hybrid agent platform, exposing large language models and agents as a single scheduling interface. Built on Turing Quantum’s proprietary photonic quantum computing stack, QAgent integrates a hybrid quantum-classical compute layer, the DeepQuantum quantum AI programming framework, a quantum algorithm library and industry toolkits, and supports an end-to-end workflow from natural-language input and task decomposition to coordinated quantum-agent invocation, quantum compute scheduling and result aggregation. Turing positions the product as a step toward moving quantum computing from frontier research capacity to industry capability and agent-driven commercial services."
-    },
-    {
-      "id": "4995535",
-      "time": "2026-07-18 20:59:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗衛生部：自6月27日以來美對伊襲擊已致至少50人死亡】當地時間18日，伊朗衛生部發表宣告稱，自6月27日以來，美國對伊朗發動的襲擊已導致至少50人死亡，近500人受傷。（央視新聞）"
-    },
-    {
-      "id": "4995534",
-      "time": "2026-07-18 20:58:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國首創人工智慧賦能核能技術路線全球首發】記者18日從中國科學院近代物理研究所獲悉，在2026世界人工智慧大會暨人工智慧全球治理高階別會議期間，中國首創的人工智慧賦能加速器驅動先進核能系統(AI for ADANES)技術路線面向全球首發，其全域創新聯盟同步揭牌成立。據介紹，該技術路線透過搭建物理本徵世界模型智慧體系，首創“資料+物理模型+專家經驗三重驅動”全新正規化，破解了AI“黑箱不可控”與核工業“安全零容錯”的核心矛盾，填補了全球先進核能智慧化落地的技術空白。（中國新聞網）"
     }
   ]
 }
