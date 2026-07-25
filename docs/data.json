@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-25 09:35:42",
-  "count": 18240,
+  "updated": "2026-07-25 09:42:31",
+  "count": 18239,
   "items": [
+    {
+      "id": "mkt:019f96ee-1a3e-7aab-8e91-90675cb75220",
+      "time": "2026-07-25 09:40:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Mehr news agency reported multiple explosions heard in Saudi Arabia's Jazan region."
+    },
+    {
+      "id": "mkt:019f96ec-ec4d-7aab-8e91-8d3481ea3d51",
+      "time": "2026-07-25 09:38:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said a second presidential term is always better and a third would be better, adding he was joking."
+    },
+    {
+      "id": "mkt:019f96ec-1dca-7aab-8e91-85b6e63afd93",
+      "time": "2026-07-25 09:38:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump shook hands with Secret Service officer Victor Gonzales; Gonzales subdued a suspected armed assailant at the White House Correspondents' Dinner in April."
+    },
+    {
+      "id": "5007740",
+      "time": "2026-07-25 09:37:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普（在白宮記者晚宴）與特勤局官員維克多·岡薩雷斯握手，岡薩雷斯在4月的白宮記者協會晚宴上制服了涉嫌槍手。"
+    },
+    {
+      "id": "mkt:019f96ea-abdf-7aab-8e91-7ae0668b717e",
+      "time": "2026-07-25 09:36:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump spoke to reporters at the White House Correspondents' Dinner."
+    },
     {
       "id": "mkt:019f96e8-2aec-7aab-8e91-7435c83dc8c1",
       "time": "2026-07-25 09:33:45",
@@ -167050,65 +167090,6 @@
         "其他"
       ],
       "text": "【中國發起 面向世界 首屆世界人工智慧大會·學術正式亮相】今天上午（18日），依託世界人工智慧大會（WAIC）八年深厚積澱打造的首屆世界人工智慧大會·學術（WAIC-Academic，簡稱WAICA）正式亮相。這是一個由中國發起、面向世界的開放學術公共平臺，為全球AI學者構建一個迴歸學術本質的創新舞臺。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f72e3-0c0c-7aab-8dec-e5700ad7e1cd",
-      "time": "2026-07-18 09:41:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【CENTCOM says seventh consecutive night of strikes on Iran ends】CENTCOM said U.S. forces ended a seventh consecutive night of strikes on Iran at 9:30 p.m. ET on July 17. Strikes struck reconnaissance sites, military logistics infrastructure, underground weapons storage and maritime targets, using fighters, drones, warships and other assets. CENTCOM said it is following commander direction to continue holding Iran accountable and is fully enforcing a maritime blockade of Iranian ports. More than 50,000 U.S. service members are deployed in the Middle East, remaining vigilant with lethal strike capability and on standby."
-    },
-    {
-      "id": "4995219",
-      "time": "2026-07-18 09:41:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【直擊WAIC丨騰訊副總裁林松濤：真實場景永遠是AI價值的第一現場，讓懂業務的人去拿起AI能創造更大價值】7月17日至20日，2026世界人工智慧大會暨人工智慧全球治理高階別會議在上海舉行。今日，騰訊AI應用創新論壇舉行。騰訊公司副總裁林松濤現場表示：“真實場景永遠是AI價值的第一現場。AI發展到今天，不同領域、不同企業、不同個體每天都要遇到大量問題，不是大模型繼續升級迭代就能夠徹底解決。”林松濤指出：“AI要想真正創造價值，必須先理解企業和個人面臨的垂直領域需求。我們也發現，讓懂業務的垂直領域的這些人去拿起AI，遠比讓懂AI的人去學業務快得多，能創造更大的價值和能力。這也是我們一直希望真正去做到AI普惠的真實意義所在，它應該是服務於方方面面和每個行業。”（新浪科技）"
-    },
-    {
-      "id": "mkt:019f72e1-9e69-7aab-8dec-de860642a617",
-      "time": "2026-07-18 09:40:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. military said it ended its seventh consecutive night of strikes on Iran."
-    },
-    {
-      "id": "4995218",
-      "time": "2026-07-18 09:40:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美軍中央司令部：結束了對伊朗連續第七夜的打擊】美軍中央司令部：美國東部時間7月17日晚9時30分，美軍結束連續第七晚對伊朗實施的打擊行動。美軍中央司令部（CENTCOM）此次打擊目標包含偵察據點、軍用後勤設施、地下武器儲存庫以及海上作戰力量。美軍動用戰鬥機、空中無人機、軍艦及其他作戰裝備實施攻擊。遵照美軍最高統帥指示，中央司令部將持續追究伊朗相關責任，同時全面執行針對伊朗港口的海上封鎖措施。超5萬名美軍官兵部署於中東各地，始終保持戒備、具備作戰能力、隨時待命。"
-    },
-    {
-      "id": "4995217",
-      "time": "2026-07-18 09:39:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國代表敦促全力推動烏克蘭危機局勢降溫】中國常駐聯合國代表團參贊滕飛17日在俄羅斯舉辦的烏克蘭問題安理會阿里亞模式會議上說，中方譴責任何針對無辜平民的襲擊，敦促當事方保持冷靜剋制，切實履行國際人道法，避免採取任何傷害平民、導致形勢惡化的行動，保護平民和民用基礎設施安全，全力推動局勢降溫，為早日停火止戰創造條件。（新華社）"
-    },
-    {
-      "id": "4995216",
-      "time": "2026-07-18 09:37:11",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "【巴林境內連續拉響兩輪防空警報】當地時間18日清晨，巴林境內連續拉響兩輪防空警報。（央視新聞）"
     }
   ]
 }

@@ -1,7 +1,47 @@
 {
   "date": "2026-07-25",
-  "count": 538,
+  "count": 543,
   "items": [
+    {
+      "id": "mkt:019f96ee-1a3e-7aab-8e91-90675cb75220",
+      "time": "2026-07-25 09:40:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Mehr news agency reported multiple explosions heard in Saudi Arabia's Jazan region."
+    },
+    {
+      "id": "mkt:019f96ec-ec4d-7aab-8e91-8d3481ea3d51",
+      "time": "2026-07-25 09:38:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said a second presidential term is always better and a third would be better, adding he was joking."
+    },
+    {
+      "id": "mkt:019f96ec-1dca-7aab-8e91-85b6e63afd93",
+      "time": "2026-07-25 09:38:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump shook hands with Secret Service officer Victor Gonzales; Gonzales subdued a suspected armed assailant at the White House Correspondents' Dinner in April."
+    },
+    {
+      "id": "5007740",
+      "time": "2026-07-25 09:37:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普（在白宮記者晚宴）與特勤局官員維克多·岡薩雷斯握手，岡薩雷斯在4月的白宮記者協會晚宴上制服了涉嫌槍手。"
+    },
+    {
+      "id": "mkt:019f96ea-abdf-7aab-8e91-7ae0668b717e",
+      "time": "2026-07-25 09:36:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump spoke to reporters at the White House Correspondents' Dinner."
+    },
     {
       "id": "mkt:019f96e8-2aec-7aab-8e91-7435c83dc8c1",
       "time": "2026-07-25 09:33:45",
