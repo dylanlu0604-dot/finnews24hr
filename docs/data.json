@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-25 10:22:27",
-  "count": 18262,
+  "updated": "2026-07-25 10:26:28",
+  "count": 18264,
   "items": [
+    {
+      "id": "5007775",
+      "time": "2026-07-25 10:24:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：內塔尼亞胡下週將訪問華盛頓。"
+    },
+    {
+      "id": "5007774",
+      "time": "2026-07-25 10:24:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為國會需要任期限制。"
+    },
+    {
+      "id": "mkt:019f9716-43f3-7aab-8e92-31c7a6eb5494",
+      "time": "2026-07-25 10:24:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Israeli Prime Minister Netanyahu will visit Washington next week."
+    },
+    {
+      "id": "mkt:019f9715-a554-7aab-8e92-2f6351984562",
+      "time": "2026-07-25 10:23:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DRC Ebola cases 2,905 after database reconciliation】DRC Ministry of Health said in a report on the 24th the current Ebola outbreak has 2,905 confirmed cases and 1,269 deaths. The ministry attributed the sharp rise in confirmed and fatal cases to a regional-to-national database reconciliation completed on the 22nd that added previously uncounted cases. As of the 22nd, 722 patients were in isolation or hospital and cumulative recoveries stood at 519."
+    },
     {
       "id": "mkt:019f9712-8c64-7aab-8e92-2796b79a3433",
       "time": "2026-07-25 10:20:02",
@@ -167298,22 +167330,6 @@
         "其他"
       ],
       "text": "【廣州越秀天河釋出暴雨橙色預警】廣州市氣象臺18日10時06分發布暴雨橙色預警訊號：受局地加強的雷雨雲團影響，預計未來三小時廣州市越秀區、天河區有強雷雨，累積雨量40—60毫米。從18日10時06分起，廣州市越秀區、天河區暴雨橙色預警訊號生效，後期升級預警訊號可能性較小。請注意做好防禦工作。（廣州市氣象臺）"
-    },
-    {
-      "id": "mkt:019f730b-030f-7aab-8ded-26d3719b22f5",
-      "time": "2026-07-18 10:25:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Hadas reports Lebanese President Joseph Aoun has departed for a formal visit to Washington."
-    },
-    {
-      "id": "4995241",
-      "time": "2026-07-18 10:23:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【重慶崩塌山石最大相當於1棟樓】昨天（7月17日），重慶彭水山體崩塌發生後，多方救援力量第一時間趕赴現場搜救。救援人員表示，此次的崩塌體巨大，最大的山石體積大約相當於一棟樓。總檯記者在現場瞭解到，昨晚，現場又下起瓢潑大雨，救援難度增加。目前，救援人員採取“機械+人力”的方式，先清理巨石，再進一步搜救。（央視新聞）"
     }
   ]
 }
