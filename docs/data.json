@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-25 12:57:44",
-  "count": 18274,
+  "updated": "2026-07-25 13:01:37",
+  "count": 18272,
   "items": [
+    {
+      "id": "mkt:019f97a3-b72b-7aab-8e93-454dab0c7aee",
+      "time": "2026-07-25 12:58:36",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【ECB chief economist: US not dominant force in international trade】ECB chief economist Lane, commenting on recent US tariffs on some trading partners, said the euro-area economy is primarily supported by domestic demand. He added that while transatlantic trade matters, it is \"not the dominant issue\" and that \"the US is not the dominant force in international trade,\" noting Europe trades with the whole world, not just the United States."
+    },
+    {
+      "id": "5007850",
+      "time": "2026-07-25 12:57:22",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行首席經濟學家：美國並非國際貿易主導力量】歐洲央行首席經濟學家菲利普·萊恩日前就美國對一些貿易伙伴徵收新關稅發表評論說，歐洲經濟主要依靠內需支撐，歐美之間的貿易固然重要，但“並非主導問題”。彭博社報道，萊恩在愛爾蘭參加一場活動時表示，“美國並非國際貿易主導力量”，歐洲面向全世界進行貿易，而不僅僅是美國。美國貿易代表辦公室23日釋出公告，宣佈依據《1974年貿易法》第301條，以所謂“強迫勞動”為名對60個國家和地區徵收10%至12.5%的關稅，以替代24日到期的全球進口關稅。（新華社）"
+    },
     {
       "id": "5007849",
       "time": "2026-07-25 12:56:43",
@@ -167431,43 +167453,6 @@
         "國際"
       ],
       "text": "【紐約已有一人死於軍團菌感染】美國紐約市衛生部門官員17日說，紐約近期暴發的軍團病導致至少67人感染，目前已有1人死亡。感染可能與建築物頂部安裝的空調系統有關。紐約市衛生官員說，紐約曼哈頓上東區發現至少67人感染軍團菌，12人住院，已有1人死亡。衛生部門沒有公開感染者的個人資訊，也沒有詳述他們何時以及如何染病。（新華社）"
-    },
-    {
-      "id": "mkt:019f7399-4e93-7aab-8ded-d449af495560",
-      "time": "2026-07-18 13:00:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kuwait Airways said it has rescheduled most flights after Kuwait closed its airspace on Saturday."
-    },
-    {
-      "id": "4995323",
-      "time": "2026-07-18 12:59:42",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "科威特航空在X平臺發文稱，由於週六科威特領空關閉，已對大部分航班進行重新安排。"
-    },
-    {
-      "id": "4995322",
-      "time": "2026-07-18 12:59:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普透露：因凡蒂諾曾建議美國和中國聯合舉辦一屆世界盃】特朗普透露，國際足聯主席因凡蒂諾曾提出由美國和中國聯合舉辦一屆世界盃，並打趣道，“這樣球員們在比賽間隙就能享受一段輕鬆的短途飛行了”。（澎湃新聞）"
-    },
-    {
-      "id": "mkt:019f7396-b184-7aab-8ded-ca9b25c33c50",
-      "time": "2026-07-18 12:58:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Europe & UK"
-      ],
-      "text": "【China-Europe freight train from Fuzhou departs; four-year trade value CNY1.6 bln】A China-Europe freight train carrying 55 containers departed Fuzhou's Jiangyin rail logistics park on the 17th, bound for Eastern Europe via the Erenhot border crossing, Fuzhou Customs said. The Fuzhou route has run 77 trains over four years, shipping 7,918 standard containers and handling more than CNY1.6 billion in import-export trade."
     }
   ]
 }

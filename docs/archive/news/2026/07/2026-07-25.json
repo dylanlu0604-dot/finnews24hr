@@ -1,7 +1,29 @@
 {
   "date": "2026-07-25",
-  "count": 703,
+  "count": 705,
   "items": [
+    {
+      "id": "mkt:019f97a3-b72b-7aab-8e93-454dab0c7aee",
+      "time": "2026-07-25 12:58:36",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【ECB chief economist: US not dominant force in international trade】ECB chief economist Lane, commenting on recent US tariffs on some trading partners, said the euro-area economy is primarily supported by domestic demand. He added that while transatlantic trade matters, it is \"not the dominant issue\" and that \"the US is not the dominant force in international trade,\" noting Europe trades with the whole world, not just the United States."
+    },
+    {
+      "id": "5007850",
+      "time": "2026-07-25 12:57:22",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行首席經濟學家：美國並非國際貿易主導力量】歐洲央行首席經濟學家菲利普·萊恩日前就美國對一些貿易伙伴徵收新關稅發表評論說，歐洲經濟主要依靠內需支撐，歐美之間的貿易固然重要，但“並非主導問題”。彭博社報道，萊恩在愛爾蘭參加一場活動時表示，“美國並非國際貿易主導力量”，歐洲面向全世界進行貿易，而不僅僅是美國。美國貿易代表辦公室23日釋出公告，宣佈依據《1974年貿易法》第301條，以所謂“強迫勞動”為名對60個國家和地區徵收10%至12.5%的關稅，以替代24日到期的全球進口關稅。（新華社）"
+    },
     {
       "id": "5007849",
       "time": "2026-07-25 12:56:43",
