@@ -1,7 +1,20 @@
 {
   "date": "2026-07-26",
-  "count": 65,
+  "count": 66,
   "items": [
+    {
+      "id": "mkt:019f9ab2-0310-7aab-8e96-8e276fa63ab5",
+      "time": "2026-07-26 03:13:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump says he would consider resuming full-scale war if he cannot get 100% from Iran】French broadcaster LCI reported Trump said the U.S. would absolutely consider resuming a full-scale war if it cannot obtain 100% of what it wants from Iran. When asked what he would say to European allies, he said they are lucky to have a friend like him."
+    },
     {
       "id": "5008120",
       "time": "2026-07-26 03:04:40",
