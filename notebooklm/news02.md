@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-25 23:15:48_
-_本檔包含 3763 則快訊，約 688290 字_
+_更新時間：2026-07-26 00:27:35_
+_本檔包含 3761 則快訊，約 688155 字_
+
+---
+
+### 2026-07-24 08:52:18  #央行 #歐洲央行
+
+【歐央行按兵不動 油價重返100美元推高九月加息預期】當地時間週四（23日），歐洲央行宣佈維持三大關鍵利率不變，存款便利利率、主要再融資利率和邊際貸款利率分別維持於2.25%、2.40%和2.65%，符合市場預期。這是歐央行6月近三年來首次加息之後的首次按兵不動。7月並非季度預測會議，管委會手中沒有新的工作人員宏觀預測，下一次預測將於9月10日釋出，這也讓本次會議的訊號意義遠大於決議本身。
+
+---
+
+### 2026-07-24 08:51:30  #宏觀
+
+【商務部消費促進司負責人談2026年上半年我國消費市場情況】今年以來，各級商務部門認真貫徹落實黨中央、國務院決策部署，堅持“政策+活動”雙輪驅動，深入實施提振消費專項行動，最佳化消費品以舊換新政策，推動服務消費高質量發展，開展有獎發票試點，出臺離境退稅2.0版政策，打造“購在中國”品牌，促消費工作在擴內需、穩增長方面發揮了重要作用。
+
+一、從整體結構看，消費市場已進入“商品+服務”並重的發展階段。近年來，隨著我國居民生活水平不斷提升，消費市場從以商品消費為主，邁向商品消費與服務消費並重的發展階段。上半年，社會消費商品和服務零售總額同比（下同）增長2.7%，其中，服務零售額增長5.3%，增速高於商品零售額4.2個百分點。服務消費增速快於商品消費，既符合我國當前經濟社會發展實際，又反映了我國居民消費結構持續最佳化、居民生活需求不斷提升的趨勢。
+
+二、從商品消費看，消費市場持續擴容升級、韌性十足。在去年同期高基數情況下，上半年社會消費品零售總額增長1.3%，6月份增速止跌回升，增長1.0%。限額以上單位16大類商品中，10類商品保持增長，其中7類商品增速在5%以上，商品消費總體平穩、基本面良好，呈現進一步企穩向好態勢。綠色、智慧、健康等商品消費需求旺盛，限額以上單位通訊器材零售額增長14.4%，高能效等級家電零售額增長超過30%；商務部商務大資料顯示，上半年重點平臺智慧眼鏡銷售額增長1.5倍、心電監護儀銷售額增長89.5%、運動相機銷售額增長21.4%、有機食品銷售額增長5.2%。
+
+三、從發展前景看，消費作為經濟發展第一拉動力的作用將持續鞏固。上半年，最終消費支出拉動GDP增長2.1個百分點，持續發揮經濟增長第一拉動力作用。隨著技術迭代升級、供需更好適配，更多新產品將進入消費市場，在滿足人民美好生活需要的同時，帶來新的消費增量。此外，我國縣域市場以及銀髮、青年、嬰童等消費群體體量龐大，消費需求升級趨勢明顯，具有廣闊的消費增長前景。隨著系列促消費政策持續落地見效，商品和服務供給不斷最佳化，消費新增長點和新場景加速湧現，我國超大規模市場優勢將進一步凸顯，消費市場將持續發展壯大，作為經濟增長“主引擎”的作用會越來越強。
+
+---
+
+### 2026-07-24 08:50:38  #國際
+
+韓國表示，美國對韓國的301調查部分緩解了關稅的不確定性，韓國將積極應對正在進行的產能過剩301調查。
+
+---
+
+### 2026-07-24 08:49:50  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Holds Losses — Gold prices hovered around $4,050 per ounce on Friday, holding a nearly 2% decline in the previous session, as surging oil prices fueled by the escalating Middle East conflict strengthened the case for tighter US monetary policy. President Donald Trump warned of expanded military action against Iran and vowed to hold Tehran accountable for any future Houthi attacks on commercial vessels in the Red Sea, helping lift Brent crude above $100 a barrel for the first time since May. Higher oil prices stoked inflation fears, boosting expectations of tighter Fed policy and pressuring non-yielding assets. Markets currently assign a 34% probability to a Fed rate hike next week, while the odds of a September increase have climbed above 78%. Meanwhile, fresh US tariffs of 10%–12.5% on imports from major trading partners added to the uncertain market backdrop. Gold is still heading for a modest weekly gain.
+
+---
+
+### 2026-07-24 08:49:22  #市場
+
+新加坡市區重建局（URA）資料顯示，新加坡第二季度私人住宅價格季環比上漲0.5%，與初步預估的漲幅一致。
+
+---
+
+### 2026-07-24 08:49:06  #國際
+
+【訊息人士：美國首次進口經敘利亞出口的伊拉克燃料油】據航運資料及兩位知情人士透露，美國已首次開始進口經敘利亞出口的伊拉克原產燃料油。此前由於今年早些時候海灣地區貿易航線受阻，伊拉克進一步擴大了地中海出口通道。這一替代運輸路線再次反映出，在霍爾木茲海峽實際上已連續數月處於受阻狀態、伊朗戰爭持續影響海灣地區石油出口的情況下，託運商正設法尋找繞開霍爾木茲海峽、將能源運往全球市場的新途徑。跟據Kpler航運資料，今年6月至7月期間，三艘阿芙拉型油輪在敘利亞地中海港口巴尼亞斯裝載了燃料油，運往美國墨西哥灣沿岸。熟悉巴尼亞斯碼頭運營情況的訊息人士稱，這些貨物來自伊拉克。訊息人士稱，這些貨物均為透過卡車從伊拉克跨境運至敘利亞後，在巴尼亞斯裝船的伊拉克燃料油。跟據Kpler資料，這是歷史上首次有從敘利亞出口、目的地為美國的燃料油貨運。
+
+---
+
+### 2026-07-24 08:48:06  #MKT News #Market Regions #Greater China #000001.SS #Impact bearish #000300.SS #399001.SZ
+
+【Shanghai-Shenzhen margin financing balance down 9.82 bln yuan】As of July 23, margin financing on the Shanghai Stock Exchange stood at 1,358.64 bln yuan, down 4.59 bln yuan from the prior trading day; Shenzhen stood at 1,321.80 bln yuan, down 5.23 bln yuan; combined 2,680.45 bln yuan, down 9.82 bln yuan.
+
+---
+
+### 2026-07-24 08:47:47  #其他
+
+【兩市融資餘額減少98.21億元】截至7月23日，上交所融資餘額報13586.43億元，較前一交易日減少45.88億元；深交所融資餘額報13218.04億元，較前一交易日減少52.33億元；兩市合計26804.47億元，較前一交易日減少98.21億元。
+
+---
+
+### 2026-07-24 08:47:17  #宏觀
+
+【商務部：消費品以舊換新帶動銷售額超1.25萬億元】在國務院新聞辦公室昨天（23日）舉行的新聞釋出會上，商務部有關負責人介紹，今年以來，消費品以舊換新政策穩住了消費市場基本盤，投入資金撬動比由去年的1∶7.8提升至目前的1∶10.3。截至昨天，帶動銷售額超過1.25萬億元，受益面達到1.69億人次，有力支撐了消費平穩增長。（央視）
+
+---
+
+### 2026-07-24 08:46:57  #國際
+
+韓國產業通商資源部：重申遵守韓美關於美國301條款關稅的關稅協定的目標。
+
+---
+
+### 2026-07-24 08:45:51  #公司 #市場 #國際
+
+SK海力士領跌韓國晶片股，股價下跌5％，至1,823,000韓元。三星電子股價下跌4.4％，至258,000韓元。
+
+---
+
+### 2026-07-24 08:45:15  #公司 #國際
+
+【美國總統特朗普推動科技巨頭承諾自行承擔AI資料中心新增電力成本】美國總統唐納德·特朗普週四歡迎電力公司和資料中心開發商最新作出的承諾，要求科技企業承擔執行高耗能人工智慧系統所需的電力成本。“資料中心和人工智慧正在急劇推高電力需求。為滿足這一需求而建設新基礎設施的成本，理應由企業自身承擔，而不是由美國消費者承擔，”特朗普在一場活動上表示。該活動旨在宣傳其今年早些時候推出的“電力使用者保護承諾”的新增參與方。這項倡議並不具有法律約束力。特朗普表示：“根據這項開創性計劃，美國最大的科技公司已正式承諾，將出資或建設滿足其新增用電需求所需的全部能源基礎設施。與此同時，我們將允許他們建設自己的發電廠。”
 
 ---
 
@@ -22660,108 +22738,5 @@ South Korea | GDP Growth Rate Flash (QoQ) (Q2) | actual 0.6% | consensus 0.4% | 
 ### 2026-07-23 06:49:27  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
 
 New Zealand Equities Track Wall Street Lower — The NZX 50 dropped 52 points, or 0.4%, to 13,711 in Thursday morning deals, halting the gains of the previous session and pulling back from its highest level since July 9, reached a day earlier, tracking a decline in US futures following a downbeat session on Wall Street overnight ahead of the start of earnings season for mega-cap tech companies. Persistently high oil prices also pressured sentiment as inflation concerns fueled expectations of further interest rate hikes, after the RBNZ raised its cash rate by 25 bps earlier this month. Tuesday's data showed that New Zealand's inflation rate accelerated to the highest level since Q4 2023 in Q2. Healthcare, consumer staples, and industrial stocks mainly weighed on the index, with early losers including Gentrack Group (-4.4%), Hallenstein Glasson (-1.0%), Ventia Services (-0.7%), Auckland International Airport (-0.6%), Fisher & Paykel (-0.5%), and Infratil (-0.4%).
-
----
-
-### 2026-07-23 06:47:23  #資料
-
-紐西蘭將於 2027 年 7 月首次釋出月度消費者物價指數（CPI）。
-
----
-
-### 2026-07-23 06:43:42  #國際
-
-市場訊息：韓國最快可能會在8月份宣佈雙邊貿易協議中第一個對美國投資專案。
-
----
-
-### 2026-07-23 06:40:16  #其他
-
-特斯拉分析師電話會議結束。
-
----
-
-### 2026-07-23 06:40:02  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Falls by 4.53% — Top commodity losers are Cocoa (-4.53%), Coffee (-1.38%) and Sugar (-0.87%). Gains are led by Wheat (4.09%) and Canola (2.40%).
-
----
-
-### 2026-07-23 06:39:05  #市場
-
-【境外發行人態度積極，熊貓債累計發行量突破1.3萬億元】近日，法國農業信貸銀行在中國銀行間債券市場完成2026年“首單”熊貓債發行，並實現多項突破：外資金融機構單筆最大發行規模、首次採用“3年+5年+7年”三期限組合，以及首發7年期品種，填補了長期限金融熊貓債的發行空白。中國人民銀行資料顯示：2026年上半年，熊貓債發行超過1600億元，同比增長69%；截至6月末，熊貓債累計發行量超過1.3萬億元。業內人士認為，熊貓債市場正經歷結構性增長，其吸引力不再侷限於融資成本優勢，功能也從簡單的融資工具，升級為境外機構戰略性配置人民幣資產的重要通道。（上證報）
-
----
-
-### 2026-07-23 06:36:33  #MKT News #005930.KS #Impact bearish #000660.KS
-
-【Korean shareholder group files criminal complaint over profit-linked bonus deals at Samsung, SK Hynix】A Korean shareholder-rights group has filed a criminal complaint accusing SK Hynix’s chief executive and Samsung Electronics’ vice chairman and chief executive of breaching fiduciary duties by agreeing profit-linked bonus arrangements with labour unions. The group lodged the complaint with police and separately reported the labour minister to the unit that investigates crimes by senior public officials, alleging he abused his authority by intervening in Samsung’s May pay talks. The group argues profit-linked performance bonuses are profit distributions that require shareholder approval and should not be settled through collective bargaining.
-
----
-
-### 2026-07-23 06:35:25  #公司 #市場 #國際
-
-【7月23日隔夜要聞一覽】
-1、美軍稱開始對伊朗軍事目標發起新一輪打擊。
-2、特朗普：預計美聯邦政府在9月將出現“停擺”。
-3、美眾議院透過一項年度國防政策法案，總額超萬億美元。
-4、Alphabet第二季度營收同比增長24%，達到1198億美元。公司各業務板塊表現強勁，實現連續12個季度營收雙位數增長。
-5、特斯拉第二季度總營收282.36億美元，同比增長26%。運營利潤僅3.98億美元，同比下降57%，運營利潤率1.4%
-6、AMD週三宣佈與Anthropic建立戰略合作，計劃在未來向其投資高達50億美元。
-7、特斯拉CEO馬斯克：無法在財報電話會議上討論特斯拉與 SpaceX 合併相關事宜。
-8、WTI原油期貨價格上漲2.49美元，收於每桶86.83美元，漲2.95%；倫特原油期貨價格上漲3.06美元，收於每桶94.07美元，漲3.36%。
-9、歐盟委員會有條件批准派拉蒙天舞收購華納兄弟的交易。
-
----
-
-### 2026-07-23 06:35:02  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Gains by 1.30% — Top commodity gainers are Silver (1.30%) and Gold (1.18%). Biggest losers are Iron Ore CNY (-1.27%), Copper (-1.07%) and Lithium Carbonate (-0.69%).
-
----
-
-### 2026-07-23 06:34:10  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #CNH #DXY #Impact bearish
-
-【China to step up implementation of fiscal-financial package to boost domestic demand】An article in People’s Daily said implementation of China’s fiscal-financial package to boost domestic demand is proceeding broadly as expected. Measures have supported countercyclical growth in lending to key investment and consumption sectors and are redirecting more social capital to priority domestic-demand areas. Beijing called for dogged execution to ensure policy benefits reach businesses and consumers, remove bottlenecks constraining investment and consumption, and expand new sources of domestic demand.
-
----
-
-### 2026-07-23 06:33:59  #宏觀
-
-【財政部部長藍佛安：以更大力度落實財政金融協同促內需一攬子政策】財政部部長藍佛安在人民日報刊發題為“以更大力度落實財政金融協同促內需一攬子政策”的文章。文中指出，總的看，政策實施進展符合預期，支援重點投資和消費領域信貸投放逆勢增長，帶動更多社會資源流向擴內需重點領域。下一步，要認真貫徹落實黨中央、國務院決策部署，樹立和踐行正確政績觀，以釘釘子精神實施好財政金融協同促內需一攬子政策，確保政策紅利充分惠及各類經營主體和廣大消費者，推動打通制約投資消費的堵點卡點，拓展內需增長新空間。
-
----
-
-### 2026-07-23 06:32:40  #公司 #國際
-
-特斯拉CEO埃隆·馬斯克：我們試圖在美國生產大量光伏產品。
-
----
-
-### 2026-07-23 06:32:25  #公司 #市場 #央行 #國際
-
-【週四重要財經資訊提醒（以下均為北京時間）】
-① 07:00 韓國二季度GDP初值；
-② 09:30 澳大利亞6月就業報告（含就業人數與失業率）；
-③ 時間待定 2026年APEC數字和人工智慧部長會議；
-④ 歐股開盤之前 諾基亞、道達爾能源釋出業績報告；
-⑤ 19:00 土耳其央行公佈利率決議；
-⑥ 20:15 歐洲央行公佈利率決議（含主要再融資利率、存款機制利率、邊際貸款利率）；
-⑦ 20:30 美國7月18日當週首次申請失業救濟人數；
-⑧ 20:45 歐洲央行行長拉加德舉行新聞釋出會；
-⑨ 次日00:30 AMD Advancing AI大會，CEO蘇姿豐講話；
-⑩ 美股盤後 英特爾、德國思愛普Sap釋出業績報告。
-
----
-
-### 2026-07-23 06:31:02  #市場
-
-【多路增量資金入市，逆向佈局構築承接防線】A股市場波動之際，多路增量資金入場佈局。7月以來，資金大幅流入ETF，部分次新基金火速建倉，公私募基金密集自購，績優基金也放開限購吸納“新子彈”。業內人士表示，歷史上A股多次在調整中出現過資金逆向入場的現象，這對市場有託舉作用。當下機構資金對當前點位的配置價值認可度不低，具有下方承接力量。（上證報）
-
----
-
-### 2026-07-23 06:30:50  #其他
-
-【分析師：電話會進一步證實，特斯拉仍處於“建設模式”，可能會繼續如此】Karobaar Capital首席投資官Haris Khurshid表示，此次電話會議進一步證實，特斯拉仍處於“建設模式（build mode）”，且這種狀態可能會持續下去。“部分投資者原本指望其投資週期已接近見頂，但管理層釋放的訊號卻是：最沉重的資本支出仍是其核心戰略，且回報週期將長達數年。“馬斯克在電話會上幾乎沒有為當季業績辯護，而是將幾乎所有時間都用於解釋其資本配置邏輯。他實際上是在要求投資者：將今天的支出視為未來業務的基石，而不是對當前盈利的拖累。”“這次電話會後的核心爭論，不再是特斯拉本季度是否花錢太多，而是投資者是否相信這種基礎設施建設是‘超前於需求’，還是‘超前於現實’。這最終將決定這一輪資本支出週期究竟能創造巨大的價值，還是僅僅淪為一場昂貴的彎路。”
 
 ---

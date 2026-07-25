@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-25 23:15:48_
-_本檔包含 3766 則快訊，約 688146 字_
+_更新時間：2026-07-26 00:27:35_
+_本檔包含 3761 則快訊，約 688121 字_
+
+---
+
+### 2026-07-22 02:03:38  #MKT News
+
+【Netherlands to impose three-year trade sanctions on Israeli settlements from Sept 22】The Dutch government announced on the 21st that it will from Sept. 22 impose three-year trade sanctions on goods originating in Israeli settlements. Products from settlements in the West Bank, Gaza Strip and Golan Heights will be barred from entry into the Netherlands and prohibited from direct or indirect purchase, marketing and provision of related intermediary services. The government said the measures aim to use economic means to counter Israel’s establishment of illegal settlements in those territories.
+
+---
+
+### 2026-07-22 02:01:08  #國際
+
+【法國議會透過法案 禁止15歲以下未成年人使用社交媒體】當地時間7月21日，法國國民議會和參議院正式透過一項禁止15歲以下未成年人使用社交媒體的法案。這項法案被視為法國總統馬克龍本屆任期的重要改革之一。根據法案，禁令將分兩個階段執行：自9月1日起，15歲以下未成年人將不得註冊新的社交媒體賬號；自2027年1月起，現有屬於15歲以下未成年人的社交媒體賬號也將被暫停或關閉。（央視新聞）
+
+---
+
+### 2026-07-22 02:00:46  #其他
+
+市場訊息：法國議會支援禁止 15 歲以下未成年人使用社交媒體。
+
+---
+
+### 2026-07-22 02:00:22  #國際
+
+【荷蘭宣佈對以色列非法定居點實施貿易制裁 】荷蘭政府21日宣佈，從9月22日起對以色列非法定居點實施貿易制裁措施，為期三年。根據荷蘭政府當日釋出的公報，原產於以色列非法定居點的貨物將受到多項限制，包括禁止運入荷蘭境內、禁止直接或間接購買、投放市場以及提供相關中介服務等。荷蘭政府表示，此舉旨在透過經濟手段打擊以色列在約旦河西岸、加沙地帶以及敘利亞戈蘭高地非法建立定居點的行為。此前，英國商業和貿易部貿易國務大臣克里斯·布賴恩特15日證實，英國政府正著手製定一項針對以色列非法定居點的進出口貿易禁令。（新華社）
+
+---
+
+### 2026-07-22 01:59:44  #國際
+
+空客正為未來 FCAS 戰機考量若干歐洲合作方案。
+
+---
+
+### 2026-07-22 01:55:39  #公司
+
+【CoreWeave執行長：公司正在大規模部署AI基礎設施】CoreWeave執行長稱，公司正在大規模部署AI基礎設施，公司在構建AI原生雲方面走在正確的道路上，此外，隨著AI雲收入增長，折舊的會計影響將減小。
+
+---
+
+### 2026-07-22 01:54:47  #MKT News #Market Themes #AI Revolution
+
+According to the Wall Street Journal, CoreWeave's CEO said the company is deploying AI infrastructure at scale and building an AI-native cloud, and that as AI cloud revenue grows the accounting impact from depreciation is expected to shrink.
+
+---
+
+### 2026-07-22 01:53:33  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Security sources said three explosive-laden drones were shot down near the U.S. consulate in Erbil, Iraq.
+
+---
+
+### 2026-07-22 01:52:22  #國際
+
+市場訊息：三架搭載爆炸物的無人機在伊拉克埃爾比勒美國領事館附近被擊落。
+
+---
+
+### 2026-07-22 01:51:10  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Trump says U.S. will bomb "Gaoshan" deep-underground site; may hold centrifuges】President Trump said on Tuesday the U.S. military will bomb the deep-buried site he called "Gaoshan," which U.S. and Israeli officials suspect may be linked to nuclear activity. Speaking at a White House meeting with Lebanon’s president, he signaled he is not seeking a ceasefire and favors further military escalation. Trump said the U.S. believes Iran may be storing centrifuges at the site but that the U.S. has no records; he added stored centrifuges would be useless without nuclear material and asserted Iran currently does not possess such material. Axios reported it is unclear whether U.S. forces have munitions capable of penetrating the facility’s deep rock, though a strike could still damage the complex and seal its entrances.
+
+---
+
+### 2026-07-22 01:50:17  #國際
+
+【胡塞武裝發出封鎖威脅前，沙特從紅海碼頭的原油出口創新高】油輪追蹤資料顯示，截至7月17日的一週，沙特透過延布港的兩個碼頭日均出口原油590萬桶，創歷史新高。截至7月20日的七天內，日均出口量回落至550萬桶。這些資料包括運往吉讚的原油以及向紅海沿岸發電廠供應的原油，沙特阿美在吉贊運營一座煉油廠。胡塞武裝表示，實施封鎖是為了回應沙烏地阿拉伯對葉門首都薩那的圍困，不過該組織也與伊朗存在聯絡。胡塞武裝還在一封電子郵件中警告船東，不要停靠沙特港口。
+
+---
+
+### 2026-07-22 01:49:58  #MKT News #Brent #Impact bullish #XAUUSD #DXY #Impact mixed
+
+Iran's Fars News reported the area struck in Bahrain was a site where U.S. military personnel are stationed.
+
+---
+
+### 2026-07-22 01:49:08  #MKT News
+
+Iran's Press TV reported an explosion near the U.S. consulate in Erbil, the capital of Iraq's Kurdistan region.
+
+---
+
+### 2026-07-22 01:47:32  #市場 #國際
+
+【美國銀行對英鎊態度轉為中性 預計新首相將帶來密集訊息】美國銀行策略師已軟化了他們對英鎊的“超出共識的看漲觀點”，預計隨著政治不確定性持續高企，英鎊近期的漲幅將會回落。由Kamal Sharma為首的策略師在報告中表示，在本月英鎊“急劇、快速上漲”之後，他們對英鎊的觀點已經轉為短線中性。隨著新政府就位，市場將尋求新的平衡。“鑑於這個原因，以及歐元/英鎊跌破0.85，我們對英鎊持中性態度，” Sharma寫道。“雖然現在是夏季市場，但未來幾周訊息可能會持續不斷”。
+
+---
+
+### 2026-07-22 01:46:35  #國際
+
+美國國家颶風中心：伯莎開始向西轉向，熱帶風暴影響範圍將蔓延至佛羅里達狹長地帶預警區域內部分地區。
+
+---
+
+### 2026-07-22 01:38:51  #公司
+
+巴西航空工業公司與阿布扎比穆巴達拉集團簽署協議，旨在鞏固阿聯酋在全球航空航天領域的地位，並擴大巴航工業在該國及區域內的業務佈局。
+
+---
+
+### 2026-07-22 01:36:08  #MKT News #Important #WTI #Impact bullish #Brent #DXY
+
+【Trump warns Houthis US will act if they block Red Sea shipping or Saudi energy exports】President Trump said on Tuesday the United States would “deal with” Yemen’s Houthi group if it imposes a blockade on shipping or energy exports from Saudi Arabia via the Red Sea. Speaking in the Oval Office, he said the action has not occurred “so far” but “maybe will,” and reiterated “if this happens, we will act.” He added the US has taken action against the Houthis before and “haven’t heard from them” since those initial measures.
+
+---
+
+### 2026-07-22 01:33:00  #MKT News
+
+TASNIM NEWS reports explosions heard in Erbil, Iraq.
+
+---
+
+### 2026-07-22 01:32:18  #其他
+
+巴林內政部：巴林響起警報聲。
 
 ---
 
@@ -22525,149 +22639,5 @@ Kuwait's military said it is intercepting missiles and drones.
 ### 2026-07-20 21:33:05  #MKT News
 
 CENTCOM said US Marines replaced the transmission on a HIMARS vehicle during a Middle East deployment. CENTCOM added military logistics and sustainment personnel remain mission-ready to support the force’s operational readiness.
-
----
-
-### 2026-07-20 21:32:53  #公司 #市場
-
-AMC娛樂控股股價上漲17.7%，此前該公司公佈第二季度調整後每股收益高於市場預期。
-
----
-
-### 2026-07-20 21:32:45  #其他
-
-科威特軍方宣告稱，其正在攔截導彈與無人機。
-
----
-
-### 2026-07-20 21:32:40  #市場 #國際
-
-美國聯邦航空管理局表示，波音737 MAX 7、MAX 10兩款機型預計很快將獲得認證，波音股價上漲1%。
-
----
-
-### 2026-07-20 21:32:28  #其他
-
-高通<QCOM.O>：瑞銀將目標價從235美元下調至190美元。
-
----
-
-### 2026-07-20 21:32:17  #市場
-
-TEMPUS AI股價下跌7.3%，PERSONALIS股價暴跌12%。
-
----
-
-### 2026-07-20 21:32:08  #市場
-
-HubSpot股價下跌3.1%，此前富國銀行將其評級從增持下調至持股觀望。
-
----
-
-### 2026-07-20 21:31:53  #公司
-
-科磊公司<KLA Corp>：瑞銀下調目標價至240美元，原為255美元。
-
----
-
-### 2026-07-20 21:31:36  #MKT News
-
-Alarms sounded in Kuwait.
-
----
-
-### 2026-07-20 21:31:34  #其他
-
-瑞銀將迪士尼目標價由 138 美元下調至 133 美元。
-
----
-
-### 2026-07-20 21:31:24  #MKT News #Market Themes #AI Revolution #S&P500 #Impact bearish
-
-【US equity short positions hit record highs as AI-driven rally raises concern】Short positions in US equities have climbed to record levels amid doubts about the sustainability of an AI-driven rally. S&P 500 constituents' short interest as a share of free float rose to 3.79%, a record in S3 Partners' data series dating to 2010, while Russell 3000 constituents' ratio climbed to 6.3%, also a record. The moves follow an S&P 500 gain of about 18% since end-March. Shorting has generally been an unsuccessful trade this year, but shorting activity and the universe of shorted stocks have expanded, S3 Partners LLC head of predictive analytics Ihor Dusaniwsky said.
-
----
-
-### 2026-07-20 21:31:21  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500
-
-At the open on Monday, July 20, the Dow Jones Industrial Average rose 187.31 points (0.36%) to 52,333.73; the S&P 500 gained 44.33 points (0.59%) to 7,502.01; the Nasdaq Composite added 223.33 points (0.88%) to 25,743.58.
-
----
-
-### 2026-07-20 21:30:59  #其他
-
-科威特拉響警報。
-
----
-
-### 2026-07-20 21:30:52  #其他
-
-加拿大航空與空中客車將向加拿大可持續航空燃料產業投資至多1370萬加元，約合1000萬美元。
-
----
-
-### 2026-07-20 21:30:48  #市場 #焦點
-
-【美股開盤：三大股指齊漲】道指漲0.29%，標普500指數漲0.53%，納指漲0.84%。達美樂比薩漲6.98%，Lumentum Holdings Inc. Common Stock When Issued漲5.42%，泰瑞達漲5.31%，Coherent Corp漲4.66%，閃迪漲4.49%。“七姐妹”方面：谷歌漲2.18%，英偉達漲1.45%，亞馬遜漲0.86%，特斯拉漲0.72%，蘋果跌0.12%，Meta Platforms跌0.34%，微軟跌0.90%。
-
----
-
-### 2026-07-20 21:30:39  #市場
-
-達美樂披薩股價上漲6.8%，創下自2025年1月以來最大盤中漲幅。
-
----
-
-### 2026-07-20 21:30:38  #市場 #焦點
-
-納斯達克中國金龍指數漲超1%，金山雲漲4.93%，阿里巴巴漲3.24%，百度漲3.57%，京東漲2.90%，嗶哩嗶哩漲2.88%。
-
----
-
-### 2026-07-20 21:30:17  #其他
-
-【王曉暉主持召開四川省委財經委員會第十三次會議強調：始終保持高質量發展戰略定力，奮力推動經濟實現質的有效提升和量的合理增長】7月20日，四川省委財經委員會第十三次會議召開，省委書記、省委財經委員會主任王曉暉主持會議並講話。他強調，要深入貫徹習近平總書記對四川工作系列重要指示精神和黨中央決策部署，始終保持高質量發展戰略定力，錨定目標全力以赴補齊短板弱項，奮力推動經濟實現質的有效提升和量的合理增長。會議指出，要堅決穩住投資底線，全力扭轉負增長態勢。要堅持投資於物和投資於人協同發力，積極向上爭取“兩重”“兩新”等專案支援和各類資金支援，做好專案全生命週期服務管理，加力推進“六張網”規劃建設各項工作，推動投資止跌回升。要重視發揮投資基金的作用，進一步完善全省投資基金政策體系、運作模式和考評機制，堅持投早、投小、投長期、投硬科技，培育形成多元化、高質效的耐心資本生態。要發揮政府投資引導基金“四兩撥千斤”作用，吸引更多龍頭資本、創投機構參與我省重大戰略科技力量建設和重點產業培育發展；進一步增強國資國企基金的專業化運營效能，確保規範執行、風險可控；深化投融資體制改革，規範實施政府和社會資本合作新機制，不斷擴寬市場化投資空間、激發社會投資活力。（四川釋出）
-
----
-
-### 2026-07-20 21:30:12  #公司
-
-【特種領域獲取訂單受限三年，智明達收上交所監管工作函】7月20日，上交所就智明達相關重要事項下發監管工作函，涉及物件為上市公司。智明達同日公告，因特殊事項影響，從即日起三年，公司在特種領域獲取訂單受限，預計對公司生產經營和財務狀況產生一定負面影響。目前公司整體生產經營活動正常，已簽訂的合同預計不受影響。
-
----
-
-### 2026-07-20 21:29:20  #公司
-
-瑞銀將泰瑞達公司（股票程式碼：TER.O）目標價從440美元上調至500美元。
-
----
-
-### 2026-07-20 21:27:51  #公司
-
-瑞銀集團啟動覆蓋霍尼韋爾航空航天公司 <HONA.O>  ，給予中性評級；目標價231美元。
-
----
-
-### 2026-07-20 21:27:11  #市場 #國際
-
-【歐盟擬暫緩實施甲烷排放違規處罰 以平衡能源安全與氣候目標】歐盟委員會正式透過一項非約束性指導建議，建議各成員國在2027年至2029年期間，暫不對違反歐盟甲烷排放法規的能源進口商實施處罰。此舉旨在緩解因能源供應安全引發的爭議，尋求氣候目標與能源穩定之間的平衡。根據歐盟現行甲烷監管框架，自2027年1月起，進口至歐盟的天然氣等化石燃料必須符合嚴格的監測、報告與核查（MRV）標準，並需在2030年前滿足具體的甲烷排放強度限制要求。不合規的進口商將面臨高額罰款。然而，由於全球能源供應鏈的複雜性，該法規引發了廣泛擔憂。美國、卡達等主要天然氣出口國近期多次向歐盟發出警告，指出在複雜的天然氣供應鏈中全程追蹤甲烷排放面臨極大的技術與物理障礙。出口國強調，由於法律合規是最高原則，若歐盟堅持推行該法規，進出口商將拒絕簽署明知可能違規的長期供應合同，這不僅將導致歐洲面臨天然氣短缺和價格上漲的風險，還可能迫使美國等國的液化天然氣（LNG）轉向其他市場。
-
----
-
-### 2026-07-20 21:26:51  #其他
-
-【美團上線“本科專送”“碩士優送”“博士尊享”配送服務？官方客服回應】近日，一張標註著本科專送、碩士優送的外賣結算截圖，引發廣泛關注。截圖顯示，商家是一家潮汕牛肉火鍋店，商品、收貨地址、價格明細一應俱全。但配送選項欄分成四檔，3元的標準配送之外，8元“本科專送”標註騎手會持學位證上崗，還能用英文報餐；15元“碩士優送”附贈考研擇校諮詢；88元“博士尊享”更標註接單要導師批准。對此，記者聯絡美團平臺官方工作人員求證。負責使用者配送服務的官方客服工作人員明確回應，從沒有上線過任何按騎手學歷劃分收費標準的配送增值服務。工作人員表示，平臺所有配送服務收費標準，只和配送距離、天氣、訂單時段、運力情況掛鉤，目前平臺只施行使用者拉黑騎手和打賞騎手的功能，不存在以學歷為依據額外加價的規則。（第一財經）
-
----
-
-### 2026-07-20 21:26:39  #其他
-
-富國銀行將安森美半導體目標價從140.00美元下調至130.00美元。
-
----
-
-### 2026-07-20 21:24:55  #MKT News #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #Alphabet #GOOGL.O
-
-【Google developing "Frozen v2" server chip to boost GEMINI efficiency】Google is developing a new server chip, codenamed "Frozen v2", that would embed the GEMINI model's design blueprint to deliver AI services more efficiently, sources said. The chip is intended to ease severe compute shortages that have triggered internal resource competition and forced Google Cloud to turn away some external customers. Project participants estimate Frozen v2 could process 6–10x more tokens per unit of power than Google's current latest in-house AI chip; engineers are still finalizing its core functions and component integration. Deployment is planned as early as 2028.
 
 ---

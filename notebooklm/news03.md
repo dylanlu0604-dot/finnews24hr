@@ -1,7 +1,110 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-25 23:15:48_
-_本檔包含 3594 則快訊，約 687820 字_
+_更新時間：2026-07-26 00:27:35_
+_本檔包含 3589 則快訊，約 687668 字_
+
+---
+
+### 2026-07-23 06:47:23  #資料
+
+紐西蘭將於 2027 年 7 月首次釋出月度消費者物價指數（CPI）。
+
+---
+
+### 2026-07-23 06:43:42  #國際
+
+市場訊息：韓國最快可能會在8月份宣佈雙邊貿易協議中第一個對美國投資專案。
+
+---
+
+### 2026-07-23 06:40:16  #其他
+
+特斯拉分析師電話會議結束。
+
+---
+
+### 2026-07-23 06:40:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Falls by 4.53% — Top commodity losers are Cocoa (-4.53%), Coffee (-1.38%) and Sugar (-0.87%). Gains are led by Wheat (4.09%) and Canola (2.40%).
+
+---
+
+### 2026-07-23 06:39:05  #市場
+
+【境外發行人態度積極，熊貓債累計發行量突破1.3萬億元】近日，法國農業信貸銀行在中國銀行間債券市場完成2026年“首單”熊貓債發行，並實現多項突破：外資金融機構單筆最大發行規模、首次採用“3年+5年+7年”三期限組合，以及首發7年期品種，填補了長期限金融熊貓債的發行空白。中國人民銀行資料顯示：2026年上半年，熊貓債發行超過1600億元，同比增長69%；截至6月末，熊貓債累計發行量超過1.3萬億元。業內人士認為，熊貓債市場正經歷結構性增長，其吸引力不再侷限於融資成本優勢，功能也從簡單的融資工具，升級為境外機構戰略性配置人民幣資產的重要通道。（上證報）
+
+---
+
+### 2026-07-23 06:36:33  #MKT News #005930.KS #Impact bearish #000660.KS
+
+【Korean shareholder group files criminal complaint over profit-linked bonus deals at Samsung, SK Hynix】A Korean shareholder-rights group has filed a criminal complaint accusing SK Hynix’s chief executive and Samsung Electronics’ vice chairman and chief executive of breaching fiduciary duties by agreeing profit-linked bonus arrangements with labour unions. The group lodged the complaint with police and separately reported the labour minister to the unit that investigates crimes by senior public officials, alleging he abused his authority by intervening in Samsung’s May pay talks. The group argues profit-linked performance bonuses are profit distributions that require shareholder approval and should not be settled through collective bargaining.
+
+---
+
+### 2026-07-23 06:35:25  #公司 #市場 #國際
+
+【7月23日隔夜要聞一覽】
+1、美軍稱開始對伊朗軍事目標發起新一輪打擊。
+2、特朗普：預計美聯邦政府在9月將出現“停擺”。
+3、美眾議院透過一項年度國防政策法案，總額超萬億美元。
+4、Alphabet第二季度營收同比增長24%，達到1198億美元。公司各業務板塊表現強勁，實現連續12個季度營收雙位數增長。
+5、特斯拉第二季度總營收282.36億美元，同比增長26%。運營利潤僅3.98億美元，同比下降57%，運營利潤率1.4%
+6、AMD週三宣佈與Anthropic建立戰略合作，計劃在未來向其投資高達50億美元。
+7、特斯拉CEO馬斯克：無法在財報電話會議上討論特斯拉與 SpaceX 合併相關事宜。
+8、WTI原油期貨價格上漲2.49美元，收於每桶86.83美元，漲2.95%；倫特原油期貨價格上漲3.06美元，收於每桶94.07美元，漲3.36%。
+9、歐盟委員會有條件批准派拉蒙天舞收購華納兄弟的交易。
+
+---
+
+### 2026-07-23 06:35:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Gains by 1.30% — Top commodity gainers are Silver (1.30%) and Gold (1.18%). Biggest losers are Iron Ore CNY (-1.27%), Copper (-1.07%) and Lithium Carbonate (-0.69%).
+
+---
+
+### 2026-07-23 06:34:10  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #CNH #DXY #Impact bearish
+
+【China to step up implementation of fiscal-financial package to boost domestic demand】An article in People’s Daily said implementation of China’s fiscal-financial package to boost domestic demand is proceeding broadly as expected. Measures have supported countercyclical growth in lending to key investment and consumption sectors and are redirecting more social capital to priority domestic-demand areas. Beijing called for dogged execution to ensure policy benefits reach businesses and consumers, remove bottlenecks constraining investment and consumption, and expand new sources of domestic demand.
+
+---
+
+### 2026-07-23 06:33:59  #宏觀
+
+【財政部部長藍佛安：以更大力度落實財政金融協同促內需一攬子政策】財政部部長藍佛安在人民日報刊發題為“以更大力度落實財政金融協同促內需一攬子政策”的文章。文中指出，總的看，政策實施進展符合預期，支援重點投資和消費領域信貸投放逆勢增長，帶動更多社會資源流向擴內需重點領域。下一步，要認真貫徹落實黨中央、國務院決策部署，樹立和踐行正確政績觀，以釘釘子精神實施好財政金融協同促內需一攬子政策，確保政策紅利充分惠及各類經營主體和廣大消費者，推動打通制約投資消費的堵點卡點，拓展內需增長新空間。
+
+---
+
+### 2026-07-23 06:32:40  #公司 #國際
+
+特斯拉CEO埃隆·馬斯克：我們試圖在美國生產大量光伏產品。
+
+---
+
+### 2026-07-23 06:32:25  #公司 #市場 #央行 #國際
+
+【週四重要財經資訊提醒（以下均為北京時間）】
+① 07:00 韓國二季度GDP初值；
+② 09:30 澳大利亞6月就業報告（含就業人數與失業率）；
+③ 時間待定 2026年APEC數字和人工智慧部長會議；
+④ 歐股開盤之前 諾基亞、道達爾能源釋出業績報告；
+⑤ 19:00 土耳其央行公佈利率決議；
+⑥ 20:15 歐洲央行公佈利率決議（含主要再融資利率、存款機制利率、邊際貸款利率）；
+⑦ 20:30 美國7月18日當週首次申請失業救濟人數；
+⑧ 20:45 歐洲央行行長拉加德舉行新聞釋出會；
+⑨ 次日00:30 AMD Advancing AI大會，CEO蘇姿豐講話；
+⑩ 美股盤後 英特爾、德國思愛普Sap釋出業績報告。
+
+---
+
+### 2026-07-23 06:31:02  #市場
+
+【多路增量資金入市，逆向佈局構築承接防線】A股市場波動之際，多路增量資金入場佈局。7月以來，資金大幅流入ETF，部分次新基金火速建倉，公私募基金密集自購，績優基金也放開限購吸納“新子彈”。業內人士表示，歷史上A股多次在調整中出現過資金逆向入場的現象，這對市場有託舉作用。當下機構資金對當前點位的配置價值認可度不低，具有下方承接力量。（上證報）
+
+---
+
+### 2026-07-23 06:30:50  #其他
+
+【分析師：電話會進一步證實，特斯拉仍處於“建設模式”，可能會繼續如此】Karobaar Capital首席投資官Haris Khurshid表示，此次電話會議進一步證實，特斯拉仍處於“建設模式（build mode）”，且這種狀態可能會持續下去。“部分投資者原本指望其投資週期已接近見頂，但管理層釋放的訊號卻是：最沉重的資本支出仍是其核心戰略，且回報週期將長達數年。“馬斯克在電話會上幾乎沒有為當季業績辯護，而是將幾乎所有時間都用於解釋其資本配置邏輯。他實際上是在要求投資者：將今天的支出視為未來業務的基石，而不是對當前盈利的拖累。”“這次電話會後的核心爭論，不再是特斯拉本季度是否花錢太多，而是投資者是否相信這種基礎設施建設是‘超前於需求’，還是‘超前於現實’。這最終將決定這一輪資本支出週期究竟能創造巨大的價值，還是僅僅淪為一場昂貴的彎路。”
 
 ---
 
@@ -21635,119 +21738,5 @@ Fars News reports explosions in Iraq's Erbil region have continued for about 30 
 ### 2026-07-22 02:04:47  #MKT News
 
 【French parliament passes law banning social media use by under-15s】On July 21 France’s National Assembly and Senate approved a law banning social media use by children under 15. The ban is phased: from Sept. 1 registrations for under-15s will be prohibited; from Jan. 2027 existing accounts identified as belonging to under-15s will be suspended or closed.
-
----
-
-### 2026-07-22 02:03:38  #MKT News
-
-【Netherlands to impose three-year trade sanctions on Israeli settlements from Sept 22】The Dutch government announced on the 21st that it will from Sept. 22 impose three-year trade sanctions on goods originating in Israeli settlements. Products from settlements in the West Bank, Gaza Strip and Golan Heights will be barred from entry into the Netherlands and prohibited from direct or indirect purchase, marketing and provision of related intermediary services. The government said the measures aim to use economic means to counter Israel’s establishment of illegal settlements in those territories.
-
----
-
-### 2026-07-22 02:01:08  #國際
-
-【法國議會透過法案 禁止15歲以下未成年人使用社交媒體】當地時間7月21日，法國國民議會和參議院正式透過一項禁止15歲以下未成年人使用社交媒體的法案。這項法案被視為法國總統馬克龍本屆任期的重要改革之一。根據法案，禁令將分兩個階段執行：自9月1日起，15歲以下未成年人將不得註冊新的社交媒體賬號；自2027年1月起，現有屬於15歲以下未成年人的社交媒體賬號也將被暫停或關閉。（央視新聞）
-
----
-
-### 2026-07-22 02:00:46  #其他
-
-市場訊息：法國議會支援禁止 15 歲以下未成年人使用社交媒體。
-
----
-
-### 2026-07-22 02:00:22  #國際
-
-【荷蘭宣佈對以色列非法定居點實施貿易制裁 】荷蘭政府21日宣佈，從9月22日起對以色列非法定居點實施貿易制裁措施，為期三年。根據荷蘭政府當日釋出的公報，原產於以色列非法定居點的貨物將受到多項限制，包括禁止運入荷蘭境內、禁止直接或間接購買、投放市場以及提供相關中介服務等。荷蘭政府表示，此舉旨在透過經濟手段打擊以色列在約旦河西岸、加沙地帶以及敘利亞戈蘭高地非法建立定居點的行為。此前，英國商業和貿易部貿易國務大臣克里斯·布賴恩特15日證實，英國政府正著手製定一項針對以色列非法定居點的進出口貿易禁令。（新華社）
-
----
-
-### 2026-07-22 01:59:44  #國際
-
-空客正為未來 FCAS 戰機考量若干歐洲合作方案。
-
----
-
-### 2026-07-22 01:55:39  #公司
-
-【CoreWeave執行長：公司正在大規模部署AI基礎設施】CoreWeave執行長稱，公司正在大規模部署AI基礎設施，公司在構建AI原生雲方面走在正確的道路上，此外，隨著AI雲收入增長，折舊的會計影響將減小。
-
----
-
-### 2026-07-22 01:54:47  #MKT News #Market Themes #AI Revolution
-
-According to the Wall Street Journal, CoreWeave's CEO said the company is deploying AI infrastructure at scale and building an AI-native cloud, and that as AI cloud revenue grows the accounting impact from depreciation is expected to shrink.
-
----
-
-### 2026-07-22 01:53:33  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Security sources said three explosive-laden drones were shot down near the U.S. consulate in Erbil, Iraq.
-
----
-
-### 2026-07-22 01:52:22  #國際
-
-市場訊息：三架搭載爆炸物的無人機在伊拉克埃爾比勒美國領事館附近被擊落。
-
----
-
-### 2026-07-22 01:51:10  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Trump says U.S. will bomb "Gaoshan" deep-underground site; may hold centrifuges】President Trump said on Tuesday the U.S. military will bomb the deep-buried site he called "Gaoshan," which U.S. and Israeli officials suspect may be linked to nuclear activity. Speaking at a White House meeting with Lebanon’s president, he signaled he is not seeking a ceasefire and favors further military escalation. Trump said the U.S. believes Iran may be storing centrifuges at the site but that the U.S. has no records; he added stored centrifuges would be useless without nuclear material and asserted Iran currently does not possess such material. Axios reported it is unclear whether U.S. forces have munitions capable of penetrating the facility’s deep rock, though a strike could still damage the complex and seal its entrances.
-
----
-
-### 2026-07-22 01:50:17  #國際
-
-【胡塞武裝發出封鎖威脅前，沙特從紅海碼頭的原油出口創新高】油輪追蹤資料顯示，截至7月17日的一週，沙特透過延布港的兩個碼頭日均出口原油590萬桶，創歷史新高。截至7月20日的七天內，日均出口量回落至550萬桶。這些資料包括運往吉讚的原油以及向紅海沿岸發電廠供應的原油，沙特阿美在吉贊運營一座煉油廠。胡塞武裝表示，實施封鎖是為了回應沙烏地阿拉伯對葉門首都薩那的圍困，不過該組織也與伊朗存在聯絡。胡塞武裝還在一封電子郵件中警告船東，不要停靠沙特港口。
-
----
-
-### 2026-07-22 01:49:58  #MKT News #Brent #Impact bullish #XAUUSD #DXY #Impact mixed
-
-Iran's Fars News reported the area struck in Bahrain was a site where U.S. military personnel are stationed.
-
----
-
-### 2026-07-22 01:49:08  #MKT News
-
-Iran's Press TV reported an explosion near the U.S. consulate in Erbil, the capital of Iraq's Kurdistan region.
-
----
-
-### 2026-07-22 01:47:32  #市場 #國際
-
-【美國銀行對英鎊態度轉為中性 預計新首相將帶來密集訊息】美國銀行策略師已軟化了他們對英鎊的“超出共識的看漲觀點”，預計隨著政治不確定性持續高企，英鎊近期的漲幅將會回落。由Kamal Sharma為首的策略師在報告中表示，在本月英鎊“急劇、快速上漲”之後，他們對英鎊的觀點已經轉為短線中性。隨著新政府就位，市場將尋求新的平衡。“鑑於這個原因，以及歐元/英鎊跌破0.85，我們對英鎊持中性態度，” Sharma寫道。“雖然現在是夏季市場，但未來幾周訊息可能會持續不斷”。
-
----
-
-### 2026-07-22 01:46:35  #國際
-
-美國國家颶風中心：伯莎開始向西轉向，熱帶風暴影響範圍將蔓延至佛羅里達狹長地帶預警區域內部分地區。
-
----
-
-### 2026-07-22 01:38:51  #公司
-
-巴西航空工業公司與阿布扎比穆巴達拉集團簽署協議，旨在鞏固阿聯酋在全球航空航天領域的地位，並擴大巴航工業在該國及區域內的業務佈局。
-
----
-
-### 2026-07-22 01:36:08  #MKT News #Important #WTI #Impact bullish #Brent #DXY
-
-【Trump warns Houthis US will act if they block Red Sea shipping or Saudi energy exports】President Trump said on Tuesday the United States would “deal with” Yemen’s Houthi group if it imposes a blockade on shipping or energy exports from Saudi Arabia via the Red Sea. Speaking in the Oval Office, he said the action has not occurred “so far” but “maybe will,” and reiterated “if this happens, we will act.” He added the US has taken action against the Houthis before and “haven’t heard from them” since those initial measures.
-
----
-
-### 2026-07-22 01:33:00  #MKT News
-
-TASNIM NEWS reports explosions heard in Erbil, Iraq.
-
----
-
-### 2026-07-22 01:32:18  #其他
-
-巴林內政部：巴林響起警報聲。
 
 ---

@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-25 23:15:48_
-_本檔包含 3486 則快訊，約 687999 字_
+_更新時間：2026-07-26 00:27:35_
+_本檔包含 3483 則快訊，約 687730 字_
+
+---
+
+### 2026-07-20 21:32:53  #公司 #市場
+
+AMC娛樂控股股價上漲17.7%，此前該公司公佈第二季度調整後每股收益高於市場預期。
+
+---
+
+### 2026-07-20 21:32:45  #其他
+
+科威特軍方宣告稱，其正在攔截導彈與無人機。
+
+---
+
+### 2026-07-20 21:32:40  #市場 #國際
+
+美國聯邦航空管理局表示，波音737 MAX 7、MAX 10兩款機型預計很快將獲得認證，波音股價上漲1%。
+
+---
+
+### 2026-07-20 21:32:28  #其他
+
+高通<QCOM.O>：瑞銀將目標價從235美元下調至190美元。
+
+---
+
+### 2026-07-20 21:32:17  #市場
+
+TEMPUS AI股價下跌7.3%，PERSONALIS股價暴跌12%。
+
+---
+
+### 2026-07-20 21:32:08  #市場
+
+HubSpot股價下跌3.1%，此前富國銀行將其評級從增持下調至持股觀望。
+
+---
+
+### 2026-07-20 21:31:53  #公司
+
+科磊公司<KLA Corp>：瑞銀下調目標價至240美元，原為255美元。
+
+---
+
+### 2026-07-20 21:31:36  #MKT News
+
+Alarms sounded in Kuwait.
+
+---
+
+### 2026-07-20 21:31:34  #其他
+
+瑞銀將迪士尼目標價由 138 美元下調至 133 美元。
+
+---
+
+### 2026-07-20 21:31:24  #MKT News #Market Themes #AI Revolution #S&P500 #Impact bearish
+
+【US equity short positions hit record highs as AI-driven rally raises concern】Short positions in US equities have climbed to record levels amid doubts about the sustainability of an AI-driven rally. S&P 500 constituents' short interest as a share of free float rose to 3.79%, a record in S3 Partners' data series dating to 2010, while Russell 3000 constituents' ratio climbed to 6.3%, also a record. The moves follow an S&P 500 gain of about 18% since end-March. Shorting has generally been an unsuccessful trade this year, but shorting activity and the universe of shorted stocks have expanded, S3 Partners LLC head of predictive analytics Ihor Dusaniwsky said.
+
+---
+
+### 2026-07-20 21:31:21  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500
+
+At the open on Monday, July 20, the Dow Jones Industrial Average rose 187.31 points (0.36%) to 52,333.73; the S&P 500 gained 44.33 points (0.59%) to 7,502.01; the Nasdaq Composite added 223.33 points (0.88%) to 25,743.58.
+
+---
+
+### 2026-07-20 21:30:59  #其他
+
+科威特拉響警報。
+
+---
+
+### 2026-07-20 21:30:52  #其他
+
+加拿大航空與空中客車將向加拿大可持續航空燃料產業投資至多1370萬加元，約合1000萬美元。
+
+---
+
+### 2026-07-20 21:30:48  #市場 #焦點
+
+【美股開盤：三大股指齊漲】道指漲0.29%，標普500指數漲0.53%，納指漲0.84%。達美樂比薩漲6.98%，Lumentum Holdings Inc. Common Stock When Issued漲5.42%，泰瑞達漲5.31%，Coherent Corp漲4.66%，閃迪漲4.49%。“七姐妹”方面：谷歌漲2.18%，英偉達漲1.45%，亞馬遜漲0.86%，特斯拉漲0.72%，蘋果跌0.12%，Meta Platforms跌0.34%，微軟跌0.90%。
+
+---
+
+### 2026-07-20 21:30:39  #市場
+
+達美樂披薩股價上漲6.8%，創下自2025年1月以來最大盤中漲幅。
+
+---
+
+### 2026-07-20 21:30:38  #市場 #焦點
+
+納斯達克中國金龍指數漲超1%，金山雲漲4.93%，阿里巴巴漲3.24%，百度漲3.57%，京東漲2.90%，嗶哩嗶哩漲2.88%。
+
+---
+
+### 2026-07-20 21:30:17  #其他
+
+【王曉暉主持召開四川省委財經委員會第十三次會議強調：始終保持高質量發展戰略定力，奮力推動經濟實現質的有效提升和量的合理增長】7月20日，四川省委財經委員會第十三次會議召開，省委書記、省委財經委員會主任王曉暉主持會議並講話。他強調，要深入貫徹習近平總書記對四川工作系列重要指示精神和黨中央決策部署，始終保持高質量發展戰略定力，錨定目標全力以赴補齊短板弱項，奮力推動經濟實現質的有效提升和量的合理增長。會議指出，要堅決穩住投資底線，全力扭轉負增長態勢。要堅持投資於物和投資於人協同發力，積極向上爭取“兩重”“兩新”等專案支援和各類資金支援，做好專案全生命週期服務管理，加力推進“六張網”規劃建設各項工作，推動投資止跌回升。要重視發揮投資基金的作用，進一步完善全省投資基金政策體系、運作模式和考評機制，堅持投早、投小、投長期、投硬科技，培育形成多元化、高質效的耐心資本生態。要發揮政府投資引導基金“四兩撥千斤”作用，吸引更多龍頭資本、創投機構參與我省重大戰略科技力量建設和重點產業培育發展；進一步增強國資國企基金的專業化運營效能，確保規範執行、風險可控；深化投融資體制改革，規範實施政府和社會資本合作新機制，不斷擴寬市場化投資空間、激發社會投資活力。（四川釋出）
+
+---
+
+### 2026-07-20 21:30:12  #公司
+
+【特種領域獲取訂單受限三年，智明達收上交所監管工作函】7月20日，上交所就智明達相關重要事項下發監管工作函，涉及物件為上市公司。智明達同日公告，因特殊事項影響，從即日起三年，公司在特種領域獲取訂單受限，預計對公司生產經營和財務狀況產生一定負面影響。目前公司整體生產經營活動正常，已簽訂的合同預計不受影響。
+
+---
+
+### 2026-07-20 21:29:20  #公司
+
+瑞銀將泰瑞達公司（股票程式碼：TER.O）目標價從440美元上調至500美元。
+
+---
+
+### 2026-07-20 21:27:51  #公司
+
+瑞銀集團啟動覆蓋霍尼韋爾航空航天公司 <HONA.O>  ，給予中性評級；目標價231美元。
+
+---
+
+### 2026-07-20 21:27:11  #市場 #國際
+
+【歐盟擬暫緩實施甲烷排放違規處罰 以平衡能源安全與氣候目標】歐盟委員會正式透過一項非約束性指導建議，建議各成員國在2027年至2029年期間，暫不對違反歐盟甲烷排放法規的能源進口商實施處罰。此舉旨在緩解因能源供應安全引發的爭議，尋求氣候目標與能源穩定之間的平衡。根據歐盟現行甲烷監管框架，自2027年1月起，進口至歐盟的天然氣等化石燃料必須符合嚴格的監測、報告與核查（MRV）標準，並需在2030年前滿足具體的甲烷排放強度限制要求。不合規的進口商將面臨高額罰款。然而，由於全球能源供應鏈的複雜性，該法規引發了廣泛擔憂。美國、卡達等主要天然氣出口國近期多次向歐盟發出警告，指出在複雜的天然氣供應鏈中全程追蹤甲烷排放面臨極大的技術與物理障礙。出口國強調，由於法律合規是最高原則，若歐盟堅持推行該法規，進出口商將拒絕簽署明知可能違規的長期供應合同，這不僅將導致歐洲面臨天然氣短缺和價格上漲的風險，還可能迫使美國等國的液化天然氣（LNG）轉向其他市場。
+
+---
+
+### 2026-07-20 21:26:51  #其他
+
+【美團上線“本科專送”“碩士優送”“博士尊享”配送服務？官方客服回應】近日，一張標註著本科專送、碩士優送的外賣結算截圖，引發廣泛關注。截圖顯示，商家是一家潮汕牛肉火鍋店，商品、收貨地址、價格明細一應俱全。但配送選項欄分成四檔，3元的標準配送之外，8元“本科專送”標註騎手會持學位證上崗，還能用英文報餐；15元“碩士優送”附贈考研擇校諮詢；88元“博士尊享”更標註接單要導師批准。對此，記者聯絡美團平臺官方工作人員求證。負責使用者配送服務的官方客服工作人員明確回應，從沒有上線過任何按騎手學歷劃分收費標準的配送增值服務。工作人員表示，平臺所有配送服務收費標準，只和配送距離、天氣、訂單時段、運力情況掛鉤，目前平臺只施行使用者拉黑騎手和打賞騎手的功能，不存在以學歷為依據額外加價的規則。（第一財經）
+
+---
+
+### 2026-07-20 21:26:39  #其他
+
+富國銀行將安森美半導體目標價從140.00美元下調至130.00美元。
+
+---
+
+### 2026-07-20 21:24:55  #MKT News #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #Alphabet #GOOGL.O
+
+【Google developing "Frozen v2" server chip to boost GEMINI efficiency】Google is developing a new server chip, codenamed "Frozen v2", that would embed the GEMINI model's design blueprint to deliver AI services more efficiently, sources said. The chip is intended to ease severe compute shortages that have triggered internal resource competition and forced Google Cloud to turn away some external customers. Project participants estimate Frozen v2 could process 6–10x more tokens per unit of power than Google's current latest in-house AI chip; engineers are still finalizing its core functions and component integration. Deployment is planned as early as 2028.
 
 ---
 
@@ -20890,167 +21034,5 @@ According to a statement, Hungary's president has signed a constitutional amendm
 ### 2026-07-19 00:27:41  #其他
 
 匈牙利總統舒尤克簽署憲法修正案，結束其國家元首任期。
-
----
-
-### 2026-07-19 00:26:25  #MKT News
-
-【Iran's Hormozgan province warns residents to avoid non-essential travel】Iran's Hormozgan provincial government warned residents to avoid non-essential travel on provincial roads and main transport arteries until further notice, citing the possibility of renewed enemy attacks. It urged travel only when necessary and asked people to avoid intercity roads and areas judged to be at risk.
-
----
-
-### 2026-07-19 00:23:08  #公司 #國際
-
-市場資訊：法國和德國將攜手合作，對標美國巨頭帕蘭提爾，研發可替代美國帕蘭提爾公司軍用軟體的歐洲本土產品，旨在降低對美國防務技術的依賴。
-
----
-
-### 2026-07-19 00:20:17  #MKT News
-
-【Iran foreign ministry says MoU does not allow US to open independent parallel route in Strait of Hormuz】On the 18th, Iran’s foreign ministry said Article 5 of the US‑Iran MoU does not permit the US to open an independent parallel route in the Strait of Hormuz. The MoU is based on reciprocal commitments; Iran will abide by its obligations so long as the US fulfills its own.
-
----
-
-### 2026-07-19 00:18:41  #MKT News
-
-【AIPAC removes online donation links for House Democrats who voted to halt U.S. military aid to Israel】Politico and other outlets report AIPAC’s political action committee has removed online donation options for more than ten House Democrats who had previously supported U.S. military aid to Israel but recently voted to halt it, including House Democratic No.2 Katherine Clark. AIPAC spokesman Darin Sousa said, "AIPAC members are very grateful to representatives who stood by their position and disappointed in those who did not."
-
----
-
-### 2026-07-19 00:12:06  #國際
-
-伊朗霍爾木茲甘省有關部門警告當地居民，鑑於美國可能發動新一輪襲擊，在另行通知前，請避免在省內各公路進行非必要出行。
-
----
-
-### 2026-07-19 00:10:54  #國際
-
-【俄稱烏無人機襲擊致9死 烏稱打擊俄物流樞紐】俄羅斯多地17日夜到18日上午遭烏克蘭無人機襲擊，已造成9人死亡、數十人受傷。烏克蘭總統澤連斯基18日說，烏軍成功打擊俄兩處物流樞紐和一處石油設施。
-
----
-
-### 2026-07-19 00:08:46  #MKT News #WTI #Impact bullish #Brent #DXY
-
-【Iran desalination plant struck; drinking water cut for 10,000】Iranian sources said on the 18th that US strikes on Hormozgan province infrastructure continued, hitting the Benji desalination plant west of Jask. Seawater intake pumps and associated power transformers were destroyed, cutting drinking water to about 10,000 people across 20 villages, Hormozgan Water and Wastewater Company CEO Abdul Hamid Hamzehpour said. Company crews are supplying emergency water and repairing equipment to restore service as soon as possible.
-
----
-
-### 2026-07-19 00:08:14  #國際
-
-以色列軍方稱，其發現了一個真主黨小組，該小組一直在安全區和以色列士兵附近操作無人機並藏匿。
-
----
-
-### 2026-07-19 00:07:58  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Israeli military said that after detecting a drone the Israeli Air Force located a Hezbollah armed group in the area and struck them to remove a threat to Israeli soldiers conducting nearby operations.
-
----
-
-### 2026-07-19 00:07:29  #MKT News
-
-Israeli military says it found a Hezbollah drone in the Tebnit area of southern Lebanon.
-
----
-
-### 2026-07-19 00:07:17  #國際
-
-以色列軍方表示，其在黎巴嫩南部提卜尼特地區識別出一架真主黨無人機。
-
----
-
-### 2026-07-19 00:07:00  #國際
-
-沙烏地阿拉伯：強烈譴責伊朗持續對科威特、巴林和約旦採取侵略行徑。
-
----
-
-### 2026-07-19 00:04:58  #市場 #焦點
-
-紐約原油暗盤突破82美元 日內漲超2.4%。
-
----
-
-### 2026-07-19 00:04:01  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-【Israeli strikes on residential building in west Gaza City kill five】On the 18th local time, Israeli forces struck a residential building in west Gaza City, killing five Palestinians and wounding several. Israeli strikes across Gaza from early morning through evening killed nine people in total, including three children. Israeli authorities had not commented on the reports.
-
----
-
-### 2026-07-19 00:03:26  #焦點 #國際
-
-伊朗最高領袖穆傑塔巴將很快就國家問題發表宣告。
-
----
-
-### 2026-07-19 00:03:18  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【Iran says US carried out three airstrikes in Hormozgan; 116 telecom towers disrupted】Iranian sources said on the 18th local time that US military forces carried out three airstrikes in southern Hormozgan province. The Hormozgan communications authority said the strikes disrupted 116 telecom towers.
-
----
-
-### 2026-07-19 00:02:56  #國際
-
-伊朗國家媒體稱，伊朗最高領袖即將釋出訊息  。
-
----
-
-### 2026-07-19 00:02:35  #MKT News
-
-Iranian state media says a speech by the Supreme Leader on a martyrs' funeral and several key national issues will be released in minutes.
-
----
-
-### 2026-07-18 23:58:10  #公司 #國際
-
-【伊朗一海水淡化廠遭襲，萬人飲用水中斷】據伊朗政府網站18日報道，美國持續對霍爾木茲甘省基礎設施發動襲擊，位於該省賈斯克市西部的本吉海水淡化廠遭襲，導致約1萬居民的飲用水供應完全中斷。據報道，霍爾木茲甘省水務和汙水處理公司執行長阿卜杜勒哈米德·哈姆澤普爾說，本吉海水淡化廠的海水抽取泵站和相關電力變壓器被徹底摧毀，導致周邊20個村莊約1萬居民的飲用水供應完全中斷，這些村莊正面臨缺水危機。
-
----
-
-### 2026-07-18 23:49:47  #國際
-
-【以軍空襲加沙城西部居民樓 致5人死亡】當地時間18日，以色列部隊襲擊了位於加沙城西部的一棟居民樓，造成5名巴勒斯坦人死亡、另有多人受傷。自當天凌晨至傍晚，以軍在加沙多地的襲擊已造成9人死亡，其中包括3名兒童。以色列方面尚未對上述訊息予以回應。
-
----
-
-### 2026-07-18 23:45:01  #其他
-
-科威特消防部門表示，消防隊伍已撲滅彈片落入居民區引發的另外三起火災。
-
----
-
-### 2026-07-18 23:43:02  #國際
-
-科威特消防部門表示，消防隊伍已控制住伊朗襲擊所針對地點的兩處火情。
-
----
-
-### 2026-07-18 23:37:32  #國際
-
-【伊議員稱海灣各國基建抗打擊能力弱於伊朗】伊朗議會建設委員會成員穆傑塔巴·優素菲週六表示，如果雙方將基礎設施列為打擊目標，伊朗將佔據上風，伊朗有能力打擊以色列的鐵路與橋樑。他還稱，在基礎設施抗打擊能力方面，以色列及波斯灣國家比伊朗更為脆弱。
-
----
-
-### 2026-07-18 23:25:18  #國際
-
-美國空襲伊朗位於波斯灣沿岸的錫裡克港。
-
----
-
-### 2026-07-18 23:24:16  #焦點 #國際
-
-【伊朗外交部：諒解備忘錄不允許美在霍爾木茲海峽開闢獨立平行航線】當地時間18日，伊朗外交部稱，伊美諒解備忘錄第五條不允許美國在霍爾木茲海峽開闢一條獨立的平行航線。伊美諒解備忘錄基於兩國相互承諾，只要美國履行承諾，伊朗就會遵守其承諾。
-
----
-
-### 2026-07-18 23:20:48  #焦點 #國際
-
-【伊朗霍爾木茲甘省一日內遭美軍三輪空襲】當地時間18日，據伊朗方面訊息，伊朗南部霍爾木茲甘省當天已遭美軍三輪空襲。霍爾木茲甘省通訊管理局稱，美軍空襲已致當地116座通訊塔中斷。
-
----
-
-### 2026-07-18 23:17:35  #國際
-
-伊朗媒體：美方持續違規，伊朗將不再履行諒解備忘錄項下義務。
 
 ---
