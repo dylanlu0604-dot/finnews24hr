@@ -1,7 +1,24 @@
 {
   "date": "2026-07-26",
-  "count": 82,
+  "count": 84,
   "items": [
+    {
+      "id": "mkt:019f9ade-de6e-7aab-8e96-cad941676fb2",
+      "time": "2026-07-26 04:02:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Typhoon Hongxia makes landfall in Huizhou, Guangdong; near-center winds 45 m/s, central pressure 955 hPa】Typhoon Hongxia, the 12th typhoon of the year and classified as a strong typhoon, made landfall at about 03:50 on the 26th in Pinhai Town, Huidong County, Huizhou, Guangdong province. Near-center maximum winds were 14 on the scale (45 m/s) and central pressure was 955 hPa."
+    },
+    {
+      "id": "5008130",
+      "time": "2026-07-26 04:00:47",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【颱風“紅霞”在廣東惠州登陸 中心附近最大風力14級】中央氣象臺訊息，今年第12號颱風“紅霞”（強颱風級）的中心已於26日03時50分前後在廣東省惠州市惠東縣平海鎮登陸，登陸時中心附近最大風力有14級（45米/秒），中心最低氣壓955百帕。（央視新聞）"
+    },
     {
       "id": "mkt:019f9ada-3f3a-7aab-8e96-c3ef3ca983a3",
       "time": "2026-07-26 03:57:01",
