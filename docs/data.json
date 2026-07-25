@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-25 15:05:42",
-  "count": 18273,
+  "updated": "2026-07-25 15:10:11",
+  "count": 18274,
   "items": [
+    {
+      "id": "mkt:019f981a-c94d-7aab-8e93-f97c9488b9a6",
+      "time": "2026-07-25 15:08:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shipping data provider ITS estimates Malaysia's palm oil exports at 1,307,012 tonnes for July 1-25, up 15.9%."
+    },
+    {
+      "id": "mkt:019f9817-8b93-7aab-8e93-f0f3e9ffe1af",
+      "time": "2026-07-25 15:05:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Austrian minister opposes fast-track EU accession for Ukraine】On July 25, Austria’s minister for Europe, integration and families, Claudia Bauer, said she opposes a fast-track for Ukraine’s EU accession, arguing membership must follow normal procedures. Bauer warned Ukraine’s agricultural structure differs markedly from current EU members and that accession would have significant effects on the bloc, so the decision requires careful weighing. She said all applicants must follow the same rules and reach accession conditions through reform and demonstrable performance."
+    },
+    {
+      "id": "5007896",
+      "time": "2026-07-25 15:04:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【攜程集團就行政處罰決定公佈十九項整改措施】針對國家市場監督管理總局依法對攜程集團作出的行政處罰決定，攜程集團公佈了包括停止獨家合作行為、保障酒店經營者自主經營權，停止不合理“全網最低價”要求、保障酒店經營者自主定價權，維護酒店經營者合法權益，強化消費者權益保護，加強合規建設，健全長效機制等五個方面、共十九項整改措施。攜程集團表示將全盤接受、堅決服從，並嚴格落實各項整改要求。（攜程黑板報）"
+    },
     {
       "id": "5007895",
       "time": "2026-07-25 15:04:13",
@@ -167477,23 +167501,6 @@
         "其他"
       ],
       "text": "【VIP群成員滿倉融資虧超千萬元？任澤平回應】近日，一張聊天截圖在投資圈廣泛傳播。截圖顯示，一位花費2980元加入“澤平宏觀VIP群”的付費會員表示，在聽信任澤平關於“科技牛”行情的判斷後，滿倉加融資重倉儲存晶片股德明利、江波龍，賬戶爆倉，虧損超過1000萬元。微信公眾號“澤平宏觀展望”釋出《宣告：波動、槓桿警示和長期主義的真心話》一文進行回應，該文署名任澤平。該宣告稱：“最近聽到個別放槓桿付出慘痛代價，因涉及個人隱私，尚難核實該人員所說的前因後果和實際情況。深感心痛，非常惋惜，這與我們一直提示風險的‘勿加槓桿、勿負債炒股’理念嚴重不符，且南轅北轍。” (介面新聞)"
-    },
-    {
-      "id": "4995380",
-      "time": "2026-07-18 15:06:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "福特在美國召回387911輛汽車，因座椅可能意外移動，在碰撞發生時無法有效約束乘員，從而增加受傷風險。"
-    },
-    {
-      "id": "4995379",
-      "time": "2026-07-18 15:06:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【印度初創公司Skyroot發射該國首枚私營軌道火箭】印度航天初創企業Skyroot Aerospace於7月18日發射該國首枚由民營企業自主研發的軌道火箭Vikram-1，成為印度首家實現軌道火箭發射的私營航天企業。印度近年來逐步放寬對私營企業參與航天活動的限制，Skyroot Aerospace此前曾於2022年完成印度首枚私營企業研製火箭Vikram-S的亞軌道飛行。"
     }
   ]
 }
