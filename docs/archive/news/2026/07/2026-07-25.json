@@ -1,7 +1,40 @@
 {
   "date": "2026-07-25",
-  "count": 535,
+  "count": 538,
   "items": [
+    {
+      "id": "mkt:019f96e8-2aec-7aab-8e91-7435c83dc8c1",
+      "time": "2026-07-25 09:33:45",
+      "tags": [
+        "MKT News",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "UBS raises PT on AMD (AMD.O) to $730 from $700."
+    },
+    {
+      "id": "mkt:019f96e7-17d7-7aab-8e91-68cba47fef71",
+      "time": "2026-07-25 09:32:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "005380.KS"
+      ],
+      "text": "Yonhap reported NVIDIA CEO Jensen Huang said NVIDIA plans to jointly develop a Genesis autonomous sedan with Hyundai Motor."
+    },
+    {
+      "id": "5007739",
+      "time": "2026-07-25 09:31:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將AMD目標價從每股700.00美元上調至730.00美元。"
+    },
     {
       "id": "mkt:019f96e4-03c4-7aab-8e91-60698794ace0",
       "time": "2026-07-25 09:29:13",
