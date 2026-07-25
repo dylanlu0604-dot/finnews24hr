@@ -1,7 +1,26 @@
 {
   "date": "2026-07-26",
-  "count": 56,
+  "count": 58,
   "items": [
+    {
+      "id": "mkt:019f9aa0-e7ad-7aab-8e96-7acf34b86c4b",
+      "time": "2026-07-26 02:54:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "A spokesman for Iran's parliamentary national security committee said the primary point of contention with the U.S. is the Strait of Hormuz and that the strait will never return to its pre-war state."
+    },
+    {
+      "id": "5008114",
+      "time": "2026-07-26 02:52:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗近半年原油創收超180億美元，完成年度預算六成收入】伊朗石油部長穆赫森·帕克內賈德表示，自2月28日戰事爆發以來，伊朗石油銷售收入達115億美元；停火階段石油銷售額為65億美元。帕克內賈德補充說明，本次停火始於4月7日，7月10日宣告結束。即便遭遇戰事與制裁衝擊，伊朗石油營收仍完成年度預算石油收入預期目標的六成以上。"
+    },
     {
       "id": "5008113",
       "time": "2026-07-26 02:40:43",
