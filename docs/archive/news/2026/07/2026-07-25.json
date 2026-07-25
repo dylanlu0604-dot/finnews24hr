@@ -1,7 +1,52 @@
 {
   "date": "2026-07-25",
-  "count": 573,
+  "count": 579,
   "items": [
+    {
+      "id": "5007768",
+      "time": "2026-07-25 10:08:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我認為現在還不是伊朗達成協議的時候。"
+    },
+    {
+      "id": "5007767",
+      "time": "2026-07-25 10:08:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：別以為伊朗已經做好準備了。"
+    },
+    {
+      "id": "5007766",
+      "time": "2026-07-25 10:07:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗現在正在和我們對話。"
+    },
+    {
+      "id": "5007765",
+      "time": "2026-07-25 10:07:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗局勢進展非常順利。"
+    },
+    {
+      "id": "mkt:019f9706-90ee-7aab-8e91-e6f9210684c9",
+      "time": "2026-07-25 10:06:57",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iran's Press TV reported missiles and drones from Yemen struck Saudi Arabia's Jazan, sparking fires."
+    },
     {
       "id": "mkt:019f9705-91e5-7aab-8e91-dde3cf877e9f",
       "time": "2026-07-25 10:05:52",
@@ -9,6 +54,14 @@
         "MKT News"
       ],
       "text": "U.S. President Trump will attend next year's White House Correspondents' Dinner."
+    },
+    {
+      "id": "5007764",
+      "time": "2026-07-25 10:05:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱他將出席明年的白宮記者晚宴。"
     },
     {
       "id": "mkt:019f9704-c4b8-7aab-8e91-d4225b90820b",
