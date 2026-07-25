@@ -1,7 +1,107 @@
 {
-  "updated": "2026-07-25 09:58:24",
-  "count": 18241,
+  "updated": "2026-07-25 10:02:22",
+  "count": 18249,
   "items": [
+    {
+      "id": "5007760",
+      "time": "2026-07-25 10:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【本週寬基ETF淨流入超500億】資料顯示，7月20日到7月24日，ETF資金整體淨流入697.01億元，股票型淨流入550.99億元，寬基型淨流入533.52億元。當週ETF資金淨流入榜單排名前3依次為：華夏上證科創板50成份ETF（588000）淨流入145.67億元，華泰柏瑞滬深300ETF（510300）淨流入123.07億元，易方達創業板ETF（159915）淨流入58.39億元。"
+    },
+    {
+      "id": "mkt:019f9700-fe7b-7aab-8e91-cd48fb84e449",
+      "time": "2026-07-25 10:00:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CTRP.O",
+        "Impact bearish"
+      ],
+      "text": "China's State Administration for Market Regulation (SAMR) has imposed an administrative penalty on Ctrip Group Co. for monopolistic conduct and ordered comprehensive rectification."
+    },
+    {
+      "id": "5007759",
+      "time": "2026-07-25 10:00:15",
+      "tags": [
+        "行業",
+        "公司",
+        "焦點"
+      ],
+      "text": "【濫用市場支配地位實施壟斷行為 攜程被罰沒51.79億元】7月25日，市場監管總局依法對攜程集團有限公司（以下簡稱攜程）濫用市場支配地位實施壟斷行為作出行政處罰，罰沒款合計51.79億元。（央視新聞）"
+    },
+    {
+      "id": "5007758",
+      "time": "2026-07-25 10:00:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【海峽通行受阻 中東多國著手另闢能源通道】隨著美國和伊朗戰事再度激化，霍爾木茲海峽和曼德海峽這兩條重要國際能源運輸通道的通航受到影響，中東多國能源出口受阻。有訊息稱，中東多國正在著手開闢新的能源通道，力圖減少對這兩條海峽的依賴。（央視新聞）"
+    },
+    {
+      "id": "5007757",
+      "time": "2026-07-25 09:59:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門透過國家預警平臺向延布省釋出緊急警報。"
+    },
+    {
+      "id": "5007756",
+      "time": "2026-07-25 09:59:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【北汽集團：堅定看好中國資本市場發展前景，全力支援控股上市公司高質量發展】7月25日，北汽集團發文稱，堅信中國經濟長期向好基本面，堅定看好中國資本市場發展前景，全力支援控股上市公司高質量發展。北汽集團表示，未來將穩步加大對控股上市公司支援力度，推動上市公司併購重組和優質資產注入，培育新能源、智慧化領域優質企業對接資本市場。同時，引導和推動控股上市公司持續提升經營質量，提高投資者回報水平。7月24日，北汽藍谷、福田汽車、渤海汽車同步釋出增持公告，北汽集團擬增持北汽藍谷股份5000萬元至1億元、福田汽車股份5000萬元至1億元、渤海汽車股份2500萬元至5000萬元，合計增持金額不超過2.5億元。"
+    },
+    {
+      "id": "mkt:019f96ff-c057-7aab-8e91-c6b38cd8e059",
+      "time": "2026-07-25 09:59:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Saudi Civil Defense issued an emergency alert for Yanbu province via the national warning platform."
+    },
+    {
+      "id": "5007755",
+      "time": "2026-07-25 09:59:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【特朗普嘲笑美聯儲總部翻新工程造價過高】美國總統特朗普在白宮記者協會晚宴上開場，先是拿晚宴的獎項開玩笑，然後吹噓自己建造這個會場的成本遠低於美聯儲大樓。特朗普稱：“能回到這個我非常熟悉的地方真是太好了，因為這是我建造的。”“我為此感到非常自豪，因為我建造它的成本比美聯儲大樓低了29億美元，順便說一句，美聯儲大樓的規模也小得多。”"
+    },
+    {
+      "id": "5007754",
+      "time": "2026-07-25 09:59:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在白宮記者晚宴表示：今晚每個人看起來都棒極了。而且我知道，找到與你們的防彈背心搭配的鞋子並不容易，很多人都不想穿防彈背心，因為他們寧願死也不願看起來重20磅。"
+    },
+    {
+      "id": "mkt:019f96ff-0ed5-7aab-8e91-be29c90872f8",
+      "time": "2026-07-25 09:58:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Trump mocks Fed headquarters renovation cost as excessive】Fox News reported that at the White House Correspondents' Dinner Trump joked the venue was built by him and cost dlr 2.9 bln less than the Federal Reserve building, adding the Fed building is much smaller."
+    },
+    {
+      "id": "5007753",
+      "time": "2026-07-25 09:58:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克發影片：從星鏈衛星看到的星艦。"
+    },
     {
       "id": "5007752",
       "time": "2026-07-25 09:57:32",
@@ -167080,34 +167180,6 @@
         "其他"
       ],
       "text": "【國家智慧教育平臺全面深化應用試點推進會召開】7月16日，教育部在山東省濟南市召開國家智慧教育平臺全面深化應用試點推進會。教育部黨組成員、副部長王光彥出席會議並講話。 會議指出，要提高政治站位，以對新形勢的準確把握增強國家平臺全面深化應用試點的使命感緊迫感，深刻認識人工智慧技術發展給教育帶來的機遇和挑戰，準確理解國家智慧教育平臺的戰略支撐作用，全面把握國家平臺全面深化應用試點工作的重要意義，以點上突破帶動教育數字化戰略的面上提質和系統躍升，有力支撐教育強國建設。（教育部）"
-    },
-    {
-      "id": "4995230",
-      "time": "2026-07-18 10:02:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：今晚將揭秘併發布關於美國選舉系統的關鍵情報】美國總統特朗普：多年來，我一直呼籲採取果敢、迅速且堅決的行動，以保護美國選舉的完整性。每一位美國人都理應確信，當他們投下選票時，這張選票將在安全的系統中被準確計票。遺憾的是，我們今天的選舉系統遠遠達不到這一標準。今晚，我將宣佈立即解密併發布關鍵情報，這些情報揭示了我國選舉基礎設施中令人震驚的脆弱性。這些證據表明，我們現有的選舉系統極易受到駭客攻擊、利用和外國干涉。同樣令人不安的是，這些關鍵資訊多年來一直被掩蓋，不讓美國人民知道，而這一切將從現在開始改變。我們今晚開始釋出的檔案，由白宮政府透明度工作組以及總統情報顧問委員會的工作人員收集整理，並得到了我們最高情報機構負責人的支援，他們均已親自審閱了今晚公佈的內容，並完全確認其真實性。"
-    },
-    {
-      "id": "mkt:019f72f5-8a6f-7aab-8ded-0d43f2cbed7e",
-      "time": "2026-07-18 10:02:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【TRUMP to declassify and release intelligence on US election system tonight】President TRUMP said he will immediately declassify and publish intelligence tonight that he says exposes “shocking” vulnerabilities in US election infrastructure, including susceptibility to hacking, exploitation and foreign interference. He said the material—previously withheld from the public—was compiled by the White House Government Transparency Task Force and staff of the President’s Intelligence Advisory Board and has been reviewed and confirmed as authentic by the heads of senior US intelligence agencies."
-    },
-    {
-      "id": "mkt:019f72f2-b583-7aab-8ded-065ae46344f4",
-      "time": "2026-07-18 09:58:56",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Kuwait's military says it is responding to missile and drone threats."
     }
   ]
 }
