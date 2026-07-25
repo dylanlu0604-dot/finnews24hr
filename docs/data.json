@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 01:36:16",
-  "count": 18147,
+  "updated": "2026-07-26 01:40:10",
+  "count": 18146,
   "items": [
+    {
+      "id": "5008102",
+      "time": "2026-07-26 01:35:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：我們致力於公平談判，並保證船隻透過霍爾木茲海峽的安全和平通行；我們不會允許美國霸權強加於霍爾木茲海峽，我們將行使合法防禦的權利。"
+    },
     {
       "id": "mkt:019f9a58-9fdc-7aab-8e96-31c805cb18a5",
       "time": "2026-07-26 01:35:27",
@@ -166277,30 +166285,6 @@
         "國際"
       ],
       "text": "美國地質調查局：墨西哥馬德羅港西南72公里處發生5.7級地震。"
-    },
-    {
-      "id": "mkt:019f764f-c50c-7aab-8df2-71008ad0759d",
-      "time": "2026-07-19 01:39:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【CNN: Trump administration has not specified duration or end goals of current Iran strikes】CNN reports that since the U.S. resumed daily airstrikes on Iran and reimposed a maritime blockade of Iranian ports a week ago after a fragile ceasefire collapsed, the Trump administration has not defined how long operations will continue or what the ultimate objectives are. Officials say Trump has received multiple options to expand the campaign; the U.S. military is seeking to degrade Iran’s control of the Strait of Hormuz. Trump has signaled intent to further escalate airstrikes, including threats to hit civilian infrastructure and potentially energy facilities, and has downplayed the importance of operation duration. Vice President Vance, the administration’s chief Iran negotiator, said military force alone would not be sufficient to eliminate Iranian control of the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019f764d-742b-7aab-8df2-69131bc53b24",
-      "time": "2026-07-19 01:36:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Trump administration preparing grants to back MAGA-aligned projects in Europe; $2m proposed to counter EU digital rules】FT reports the Trump administration is preparing a package of grants for Europe and other regions to support initiatives aligned with MAGA, as part of a major reprioritization of U.S. foreign-aid priorities. A copy of a State Department notice to lawmakers shows proposed funding includes $2m for \"countering censorship,\" aimed at addressing impacts from EU rules such as the Digital Services Act and Digital Markets Act; other listed projects resemble traditional U.S. aid programs."
     }
   ]
 }
