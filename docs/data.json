@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-26 01:12:28",
-  "count": 18153,
+  "updated": "2026-07-26 01:16:29",
+  "count": 18150,
   "items": [
+    {
+      "id": "5008097",
+      "time": "2026-07-26 01:15:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港發出九號颱風預警訊號。"
+    },
+    {
+      "id": "5008096",
+      "time": "2026-07-26 01:13:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人：我方在15天內於中東區域擊毀了11架停放在地面的美軍戰鬥機與直升機。"
+    },
     {
       "id": "5008095",
       "time": "2026-07-26 01:06:59",
@@ -166309,46 +166325,6 @@
         "其他"
       ],
       "text": "英國海上貿易行動辦公室：相關報告顯示，葉門海域的相關船隻系當地持續軍事行動衝突波及目標。"
-    },
-    {
-      "id": "4995643",
-      "time": "2026-07-19 01:15:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖：絕不能讓敵人看到我們露出絲毫軟弱；只要我們保持團結一心、眾志成城，敵人就必將被迫退卻、遭受挫敗。"
-    },
-    {
-      "id": "4995642",
-      "time": "2026-07-19 01:14:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方稱另有一名軍人在行動中失蹤。"
-    },
-    {
-      "id": "4995641",
-      "time": "2026-07-19 01:14:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方表示，兩名駐約旦的美國軍人於7月17日在行動中喪生。"
-    },
-    {
-      "id": "mkt:019f7639-00f2-7aab-8df2-3a63e7eaa443",
-      "time": "2026-07-19 01:14:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENTCOM said two U.S. service members were killed in Jordan on July 17 and another is missing."
-    },
-    {
-      "id": "mkt:019f7638-2dab-7aab-8df2-302faf01c14b",
-      "time": "2026-07-19 01:13:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Indonesia minister confident on China-Indonesia investment cooperation】Indonesia's Investment and Downstream Industry Minister Rosan said the government will continue policies to promote trade and investment and improve the business environment, expressing confidence in future China-Indonesia investment cooperation. He highlighted bilateral gains in downstream chemicals, manufacturing, infrastructure, natural resources and energy transition, and said China invested about USD 3.9 bln in Indonesia in 1H2026, keeping China among Indonesia's largest foreign investors. Rosan reiterated the government's priority of maintaining long-term stability in the comprehensive strategic partnership and reaffirmed commitments from President Prabowo's China visit to deepen trade and investment ties."
     }
   ]
 }
