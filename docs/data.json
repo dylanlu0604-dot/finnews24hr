@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-25 19:31:52",
-  "count": 18203,
+  "updated": "2026-07-25 19:35:50",
+  "count": 18204,
   "items": [
+    {
+      "id": "5007964",
+      "time": "2026-07-25 19:34:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯葉卡捷琳堡遭遇無人機威脅，Wildberries運營及田徑錦標賽受擾。"
+    },
+    {
+      "id": "5007963",
+      "time": "2026-07-25 19:33:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱烏軍襲擊扎波羅熱旅遊營地致8死14傷】俄羅斯方面任命的扎波羅熱地區行政長官葉夫根尼·巴利茨基25日在社交媒體發文稱，烏克蘭軍隊24日夜間至25日凌晨襲擊了該地區的旅遊營地，造成8人死亡、14人受傷。巴利茨基說，8名死者中包括2名兒童，受傷的14人中有3名兒童。當前，緊急救援工作正在進行中。據俄新社25日報道，俄羅斯偵查委員會表示，已按照恐怖襲擊對此事進行立案調查。（新華社）"
+    },
+    {
+      "id": "mkt:019f990c-0d09-7aab-8e94-f8e22c13a400",
+      "time": "2026-07-25 19:32:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Two Yemeni military officials said Yemen's air force struck Houthi missile and drone launch sites along frontlines in Marib and al-Jawf provinces."
+    },
+    {
+      "id": "5007962",
+      "time": "2026-07-25 19:31:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "兩名葉門軍方官員訊息：葉門空軍空襲了位於馬裡卜與焦夫前線地帶的胡塞導彈及無人機發射陣地。"
+    },
+    {
+      "id": "5007961",
+      "time": "2026-07-25 19:31:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國今年森林火災過火面積近10萬公頃 創歷史新高】當地時間7月24日，法國內政部長洛朗·努內茲在跨部門危機管理中心通報該國森林火災形勢時表示，今年法國森林火災累計過火面積已接近9.8萬公頃，創歷史新高。其中，僅吉倫特省過火面積就已超過4萬公頃。目前，吉倫特省、朗德省和瓦爾省仍有多處火災尚未得到控制。（央視新聞）"
+    },
     {
       "id": "mkt:019f98fe-cdbf-7aab-8e94-f540937f5008",
       "time": "2026-07-25 19:17:43",
@@ -166792,39 +166833,6 @@
         "國際"
       ],
       "text": "伊朗衛生部門：美國襲擊自7月6日起已造成至少50名伊朗人死亡。"
-    },
-    {
-      "id": "4995485",
-      "time": "2026-07-18 19:35:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本一快遞企業使用者資訊洩露】日本大型物流企業佐川急便18日承認，由於日前在修復系統故障時出現失誤，享受其會員服務的約7萬名使用者資訊遭洩露。佐川急便的宣告稱，由於該公司在系統故障修復作業中出現設定錯誤，致使其“Smart Club”會員服務的使用者的姓名、電子郵箱地址和包裹查詢號於15日晚間洩露。“Smart Club”服務會向使用者傳送包裹預計送達通知，並允許會員自定義送達日期和時間。依照佐川急便的說法，洩露的資訊不涉及信用卡和地址；暫未接到有關資料被非法使用的報告。"
-    },
-    {
-      "id": "4995483",
-      "time": "2026-07-18 19:34:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊拉克石油部長：美國與伊朗局勢升級前，伊拉克日均石油出口量為150萬桶】伊拉克石油部長Basim Mohammed Khudair表示，在美伊敵對行動升級之前，伊拉克透過霍爾木茲海峽和傑伊漢（Ceyhan）管道的石油出口量平均為每天150萬桶。伊拉克尋求大幅增加出口，以彌補霍爾木茲海峽關閉造成的財務損失。伊拉克將石油產量目標定為每天700萬桶。該戰略尋求擴大煉油能力及石油衍生產品的生產。"
-    },
-    {
-      "id": "4995482",
-      "time": "2026-07-18 19:34:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩南部發生軍車爆炸事件，造成一名士兵死亡，爆炸原因尚不明。"
-    },
-    {
-      "id": "mkt:019f7500-335a-7aab-8df0-40755d86bf73",
-      "time": "2026-07-18 19:32:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Youdao debuts AI earphones OpenPods at WAIC】July 18, 2026 — At the World Artificial Intelligence Conference, NetEase Youdao unveiled OpenPods, an AI earphone supporting real-time simultaneous interpretation in over a dozen languages, recording-to-transcript, automated structured summaries and mind-map generation. The device has entered mass production and is scheduled for an August commercial launch. Youdao said OpenPods will be marketed overseas."
     }
   ]
 }
