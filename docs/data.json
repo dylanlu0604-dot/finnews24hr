@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-25 10:18:25",
-  "count": 18261,
+  "updated": "2026-07-25 10:22:27",
+  "count": 18262,
   "items": [
+    {
+      "id": "mkt:019f9712-8c64-7aab-8e92-2796b79a3433",
+      "time": "2026-07-25 10:20:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "AP: US military said on Friday it fired on another commercial vessel attempting to breach a blockade of Iranian ports, disabling tanker M/T Lavine in the Gulf of Oman."
+    },
+    {
+      "id": "5007773",
+      "time": "2026-07-25 10:19:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國不會在沒有協議參與的情況下推進與沙特的核協議。"
+    },
+    {
+      "id": "mkt:019f9710-941b-7aab-8e92-1f45bab0ef08",
+      "time": "2026-07-25 10:17:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "According to Iran's Press TV, a powerful explosion struck the Saudi port city of Yanbu as Saudi Arabia launched strikes on Yemen."
+    },
     {
       "id": "mkt:019f970f-dfc6-7aab-8e92-142cbeea3b29",
       "time": "2026-07-25 10:17:07",
@@ -167282,26 +167314,6 @@
         "其他"
       ],
       "text": "【重慶崩塌山石最大相當於1棟樓】昨天（7月17日），重慶彭水山體崩塌發生後，多方救援力量第一時間趕赴現場搜救。救援人員表示，此次的崩塌體巨大，最大的山石體積大約相當於一棟樓。總檯記者在現場瞭解到，昨晚，現場又下起瓢潑大雨，救援難度增加。目前，救援人員採取“機械+人力”的方式，先清理巨石，再進一步搜救。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f7307-2ff0-7aab-8ded-1bf35a81ea31",
-      "time": "2026-07-18 10:21:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Explosions reported in Kuwait, Bahrain】IRNA cites Kuwait's defense ministry saying Kuwait was again targeted by drones and missiles and urging the public that audible explosions are from air‑defense intercepts."
-    },
-    {
-      "id": "4995240",
-      "time": "2026-07-18 10:21:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：正在絕食的印度社會活動家索南旺楚克被送醫。"
     }
   ]
 }

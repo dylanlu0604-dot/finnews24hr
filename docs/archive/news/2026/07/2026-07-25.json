@@ -1,7 +1,39 @@
 {
   "date": "2026-07-25",
-  "count": 589,
+  "count": 592,
   "items": [
+    {
+      "id": "mkt:019f9712-8c64-7aab-8e92-2796b79a3433",
+      "time": "2026-07-25 10:20:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "AP: US military said on Friday it fired on another commercial vessel attempting to breach a blockade of Iranian ports, disabling tanker M/T Lavine in the Gulf of Oman."
+    },
+    {
+      "id": "5007773",
+      "time": "2026-07-25 10:19:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國不會在沒有協議參與的情況下推進與沙特的核協議。"
+    },
+    {
+      "id": "mkt:019f9710-941b-7aab-8e92-1f45bab0ef08",
+      "time": "2026-07-25 10:17:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "According to Iran's Press TV, a powerful explosion struck the Saudi port city of Yanbu as Saudi Arabia launched strikes on Yemen."
+    },
     {
       "id": "mkt:019f970f-dfc6-7aab-8e92-142cbeea3b29",
       "time": "2026-07-25 10:17:07",
