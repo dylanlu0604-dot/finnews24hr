@@ -1,7 +1,19 @@
 {
   "date": "2026-07-26",
-  "count": 42,
+  "count": 43,
   "items": [
+    {
+      "id": "mkt:019f9a78-18e9-7aab-8e96-44d450eed890",
+      "time": "2026-07-26 02:09:49",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【IRGC says US military deaths exceed official figures】An IRGC spokesman said US fatalities after breaching an agreement exceed 200 and called official US casualty figures a complete falsehood. He said IRGC strikes hit eight US garrisons in the \"Victory 2\" operation, destroying 20 warehouses at one site, and that injuries are substantially higher than the death toll. He urged the US government to allow journalists to visit strike sites to verify casualties."
+    },
     {
       "id": "5008106",
       "time": "2026-07-26 02:04:19",

@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-26 02:09:22",
-  "count": 18144,
+  "updated": "2026-07-26 02:13:19",
+  "count": 18142,
   "items": [
+    {
+      "id": "mkt:019f9a78-18e9-7aab-8e96-44d450eed890",
+      "time": "2026-07-26 02:09:49",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【IRGC says US military deaths exceed official figures】An IRGC spokesman said US fatalities after breaching an agreement exceed 200 and called official US casualty figures a complete falsehood. He said IRGC strikes hit eight US garrisons in the \"Victory 2\" operation, destroying 20 warehouses at one site, and that injuries are substantially higher than the death toll. He urged the US government to allow journalists to visit strike sites to verify casualties."
+    },
     {
       "id": "5008106",
       "time": "2026-07-26 02:04:19",
@@ -166235,35 +166247,6 @@
         "國際"
       ],
       "text": "伊朗總統：最高領袖的智慧且促進團結的資訊，以及他對三權領導人和國家官員的支援，是維護國家利益和伊朗繁榮的最重要後盾和資本。 堅持團結的要求並避免分歧和分裂，是在這一歷史關頭取得勝利的秘訣。"
-    },
-    {
-      "id": "4995655",
-      "time": "2026-07-19 02:12:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖：民眾應充分信任政府三大部門恪盡職守的官員，他們為人民福祉與國家繁榮付出的努力有目共睹；與此同時，民眾也將保持警醒、積極行動，全力捍衛伊朗的各項利益。"
-    },
-    {
-      "id": "mkt:019f766d-c3e3-7aab-8df2-8c3c149f35a2",
-      "time": "2026-07-19 02:12:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israel's Channel 13 reported the U.S. is preparing to deploy about 100 aerial-refueling tankers to the Middle East to extend its operational range against Iran. Israel's defense establishment is preparing for a possible major escalation in the region."
-    },
-    {
-      "id": "4995654",
-      "time": "2026-07-19 02:10:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列官員：美國正準備擴大針對伊朗的打擊行動範圍，計劃向該地區部署約100架空中加油機。"
     }
   ]
 }
