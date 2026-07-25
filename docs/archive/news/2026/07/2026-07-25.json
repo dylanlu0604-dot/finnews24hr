@@ -1,7 +1,15 @@
 {
   "date": "2026-07-25",
-  "count": 893,
+  "count": 894,
   "items": [
+    {
+      "id": "mkt:019f9946-09f8-7aab-8e95-1e5980b55b15",
+      "time": "2026-07-25 20:35:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【France wildfires burn record area, nearly 98,000 hectares】Interior Minister Laurent Nunez told an interdepartmental crisis management center on July 25 that this year’s wildfires have burned nearly 98,000 hectares, a record. Gironde alone has exceeded 40,000 hectares. Fires in Gironde, Landes and Var remain uncontained. Nunez urged the public to avoid Gironde fire zones to allow firefighting operations. Firefighters and the military are concentrating on defending fire perimeters and are prepared for afternoon wind shifts to prevent further spread."
+    },
     {
       "id": "5008000",
       "time": "2026-07-25 20:27:18",
