@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 03:45:38",
-  "count": 18140,
+  "updated": "2026-07-26 03:49:32",
+  "count": 18139,
   "items": [
+    {
+      "id": "5008129",
+      "time": "2026-07-26 03:47:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國家安全部長辦公室：安保人員向本-格維爾部長通報，一架無人機墜落在其住宅附近，事件具體情況目前正在調查。以色列國防軍已回收該無人機，本次事件未造成人員受傷。"
+    },
     {
       "id": "5008128",
       "time": "2026-07-26 03:44:04",
@@ -166191,28 +166199,6 @@
         "DXY"
       ],
       "text": "【U.S. State Department issues global security alert; warns of possible sudden escalation in Middle East】The U.S. State Department issued a global security alert saying Middle East tensions could unexpectedly escalate. It urged U.S. citizens worldwide, especially those in the region, to increase vigilance. The alert said U.S. diplomatic facilities, including posts outside the Middle East, have been targeted. Iran-backed groups may target U.S. overseas interests or locations associated with the U.S. and U.S. citizens globally."
-    },
-    {
-      "id": "mkt:019f76c5-af32-7aab-8df3-1e9366123aa3",
-      "time": "2026-07-19 03:48:14",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Saudi state television reported the EU and Gulf states urged Iran to unconditionally, permanently and without transit fees open the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019f76c3-aa90-7aab-8df3-13ed66d20160",
-      "time": "2026-07-19 03:46:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Saudi state TV said the EU and Gulf states oppose imposing permit requirements or fees on international navigation through the Strait of Hormuz."
     }
   ]
 }
