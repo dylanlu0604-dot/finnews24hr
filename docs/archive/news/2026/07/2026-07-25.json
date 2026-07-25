@@ -1,7 +1,26 @@
 {
   "date": "2026-07-25",
-  "count": 776,
+  "count": 778,
   "items": [
+    {
+      "id": "5007898",
+      "time": "2026-07-25 15:21:02",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【韓美科技巨頭達成價值9500億美元合作專案】韓國總統政策室長金容範週六表示，韓國企業集團與包括英偉達在內的全球科技巨頭達成協議，將推進一系列總價值達9500億美元的合作專案。這些專案包括一項長期協議，根據該協議，SK集團將向包括英偉達在內的全球科技公司供應價值7500億美元的高效能半導體。韓國企業和全球科技公司還同意共同投資建設總容量達5吉瓦、擁有200萬個圖形處理器（GPU）的大型人工智慧資料中心。韓國網際網路入口網站Naver將透過與英偉達的戰略投資協議以及與加拿大投資管理公司Brookfield Corp.的基礎設施供應協議，建設價值100億美元的全球人工智慧工廠。協議是在韓國總統李在明訪問舊金山期間舉行的一次高階別會議上達成的，與會者包括包括三星電子會長李在鎔和SK集團會長崔泰源，以及OpenAI執行長薩姆·奧特曼和英偉達CEO黃仁勳等。"
+    },
+    {
+      "id": "mkt:019f9825-64cd-7aab-8e94-182d51f33fbd",
+      "time": "2026-07-25 15:20:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Greek security sources: ballistic missiles launched from Yemen targeting Yanbu refinery intercepted】Greek security sources said on Saturday an air-defence system in Saudi Arabia operated by Greek military personnel intercepted two ballistic missiles launched from Yemen that were aimed at the Yanbu refinery."
+    },
     {
       "id": "mkt:019f9823-2ca0-7aab-8e94-13332d4aca26",
       "time": "2026-07-25 15:17:49",
