@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-26 05:25:44",
-  "count": 18131,
+  "updated": "2026-07-26 05:29:34",
+  "count": 18133,
   "items": [
+    {
+      "id": "5008146",
+      "time": "2026-07-26 05:28:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國柏林發生汽車衝撞行人事件致多人受傷】據德國警方訊息，德國首都柏林25日晚發生一起汽車衝撞行人事件，造成多人受傷，警方正在搜捕犯罪嫌疑人。（新華社）"
+    },
+    {
+      "id": "mkt:019f9b2d-b9ed-7aab-8e97-144f08f01d78",
+      "time": "2026-07-26 05:28:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian Students' News Agency (ISNA), citing Iraqi sources, reported multiple large explosions and a widespread fire at the Jambur oilfield in Kirkuk province, Iraq."
+    },
+    {
+      "id": "5008145",
+      "time": "2026-07-26 05:27:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗要求伊拉克償還110億美元的天然氣進口欠款 】伊拉克總理阿里·扎伊迪近期訪問德黑蘭期間，伊朗方面要求伊拉克償還累計約110億美元的伊朗天然氣進口欠款。巴格達方面告知德黑蘭，目前無力全額清償欠款；而伊朗拒絕了伊拉克提出的透過替代方案償還部分債務的提議。"
+    },
     {
       "id": "mkt:019f9b25-868c-7aab-8e97-0871fa5f3a33",
       "time": "2026-07-26 05:19:15",
@@ -166112,19 +166141,6 @@
         "國際"
       ],
       "text": "沙特、科威特外交部長譴責伊朗在該地區實施的“惡劣襲擊”。"
-    },
-    {
-      "id": "mkt:019f771f-5661-7aab-8df3-87b4bf990b10",
-      "time": "2026-07-19 05:26:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Trump: \"Completely doesn't care\" after Iran suspends compliance with interim agreement】Per NewsNation, US President Trump reiterated that Iran \"cannot and should not\" possess nuclear weapons. After Iran announced it would suspend compliance with commitments under an interim agreement, Trump said he \"completely doesn't care.\""
     }
   ]
 }
