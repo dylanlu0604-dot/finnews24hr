@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-26 05:29:34",
-  "count": 18133,
+  "updated": "2026-07-26 05:33:23",
+  "count": 18134,
   "items": [
+    {
+      "id": "5008148",
+      "time": "2026-07-26 05:32:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：今日早些時候，美軍在阿拉伯海對葛摩籍油輪查米納爾號完成核查登船作業，該油輪現已恢復航行。7月24日，阿曼灣海域，莫三比克籍油輪拉維恩號船員多次企圖突破封鎖、無視我方反覆警告，中央司令部部隊對該船實施裝備癱瘓處置，目前這艘油輪已停止駛往伊朗的航行。"
+    },
+    {
+      "id": "5008147",
+      "time": "2026-07-26 05:32:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：針對伊朗的海上封鎖措施仍全面生效。截至7月25日，中央司令部已截停12艘試圖突破封鎖的民用商船，癱瘓2艘拒不配合的船隻，並登檢2艘以確保其完全遵守封鎖規定。"
+    },
     {
       "id": "5008146",
       "time": "2026-07-26 05:28:47",
@@ -166133,14 +166149,6 @@
         "DXY"
       ],
       "text": "Iranian government: Iranian foreign minister Araghchi and Iraqi foreign minister Fouad Hussein discussed latest regional developments following a US military strike on Iran, Washington’s repeated violations of the Islamabad Memorandum of Understanding, and Iran’s responses to those actions."
-    },
-    {
-      "id": "4995700",
-      "time": "2026-07-19 05:31:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特、科威特外交部長譴責伊朗在該地區實施的“惡劣襲擊”。"
     }
   ]
 }
