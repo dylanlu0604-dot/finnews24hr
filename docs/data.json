@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 02:01:26",
-  "count": 18148,
+  "updated": "2026-07-26 02:05:25",
+  "count": 18147,
   "items": [
+    {
+      "id": "5008106",
+      "time": "2026-07-26 02:04:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：特朗普堅持要求沙特加入《亞伯拉罕協議》，以此作為美方批准沙特開展民用核專案交易的前提條件。"
+    },
     {
       "id": "mkt:019f9a69-63ef-7aab-8e96-38f6afaf13cd",
       "time": "2026-07-26 01:53:45",
@@ -166281,27 +166289,6 @@
         "焦點"
       ],
       "text": "紐約原油暗盤突破83美元 日內漲超1.5%。"
-    },
-    {
-      "id": "mkt:019f7665-f736-7aab-8df2-7ccd07e5b60b",
-      "time": "2026-07-19 02:03:41",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Expert: US-Iran conflict could further escalate in coming weeks】Abbas Aslani, senior researcher at Tehran’s Middle East Strategic Studies Center, said CENTCOM’s latest statement may be a prelude to further escalation. \"In the past few days we have seen limited, controlled exchanges of fire. It appears the conflict has not reached its final phase of confrontation. In the coming days or weeks we may see more intense hostile actions,\" he said."
-    },
-    {
-      "id": "4995651",
-      "time": "2026-07-19 02:02:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【SpaceX跌破發行價 “木頭姐”抄底增持】根據“木頭姐”Cathie Wood旗下ARK Invest投資管理公司7月17日的交易披露，在SpaceX(SPCX.O)股價週五跌破發行價後，ARK Invest買入了價值1830萬美元的該股股票。ARK Invest四隻主動管理型ETF合計買入147,623股。當日該股收盤價為123.99美元，盤中最低觸及122.12美元。此次買入更像是在股價走弱過程中堅定增持而非對沖操作，因為此次交易進一步擴大了ARK此前已經持有的較大倉位。根據追蹤ARK持倉的資料顯示，截至7月10日當週，該公司透過旗下ARKK、ARKQ、ARKW和ARKX基金合計累計買入約5210萬美元的相關股票，使ARK自6月SpaceX上市以來累計投入金額超過4.75億美元。這表明Cathie Wood領導的團隊一直將每次下跌都視為買入機會，而非警示訊號。"
     }
   ]
 }
