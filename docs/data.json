@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-25 15:43:02",
+  "updated": "2026-07-25 15:47:11",
   "count": 18261,
   "items": [
+    {
+      "id": "5007902",
+      "time": "2026-07-25 15:44:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭和加拿大討論天然氣及核能領域的合作。"
+    },
+    {
+      "id": "mkt:019f9839-d193-7aab-8e94-2d8043f24db4",
+      "time": "2026-07-25 15:42:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "【China's digital industry revenue reaches 39.6 tln yuan in 2025】The Cyberspace Administration of China’s National Informatization Development Report (2025) shows core digital industry value-added accounted for over 10.5% of GDP; digital industry revenue reached 39.6 tln yuan, up 8.8% YoY, while household digital consumption was 25.3 tln yuan, up 8.7% YoY. Network infrastructure upgrades continued: 5G base stations totaled 4.838 mln by end‑2025, about two‑thirds of prefecture‑level cities meet gigabit‑city standards, and active IPv6 users reached 869 mln."
+    },
     {
       "id": "5007901",
       "time": "2026-07-25 15:34:53",
@@ -167379,29 +167401,6 @@
         "公司"
       ],
       "text": "【“商湯號”算力衛星將於2026年首發組網 2030年建成“商湯太空算力星座”】7月18日，在WAIC 2026商湯科技“基座大模型架構創新與生態合作論壇”上，商湯大裝置與成都國星宇航科技股份有限公司簽署戰略合作協議。雙方宣佈共建商湯算力星座，星座規模預計將達到千星萬P，共同推動AI基礎設施從地面萬卡叢集邁向在軌多星協同，構築起全球化天地一體AI基礎設施體系。據悉，雙方將按照“單星驗證—平臺建設—星座成網”的路徑，分階段推進天地一體AI基礎設施建設，預計2026年，“商湯號”系列算力衛星將完成首發並組網；到2030年，雙方將建成由千顆級算力衛星、總算力超萬P組成的“商湯太空算力星座”。"
-    },
-    {
-      "id": "4995397",
-      "time": "2026-07-18 15:43:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟擬調整碳排放交易體系 減輕企業脫碳壓力】歐盟委員會17日提出修訂歐盟碳排放交易體系的方案，以減輕企業在脫碳過程中的壓力，同時確保歐盟實現2040年氣候目標。根據歐盟委員會公佈的方案，歐盟將更新碳排放的“線性削減係數”，即每年歐盟碳排放總量限額下降的幅度。該係數將在2031年至2035年間下調至3.7%，2036年至2040年間調整至1.7%，使減排更趨平緩。目前該係數是4.3%，在2028年到2030年間計劃為4.4%。（新華社）"
-    },
-    {
-      "id": "mkt:019f742e-67ea-7aab-8dee-71e657f4552b",
-      "time": "2026-07-18 15:43:46",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "USDJPY",
-        "Impact bullish",
-        "AAPL.O"
-      ],
-      "text": "【Apple raises iPhone prices in Japan】Apple raised official iPhone prices in Japan on the 17th, citing yen weakness and a surge in semiconductor costs. Multiple models were repriced on Apple’s Japan website; the high-end iPhone 17 Pro Max was increased from ¥194,800 to ¥214,800, a ¥20,000 rise (about 834.6 yuan), roughly +10.3%. Analysts said the change likely reflects exchange-rate-driven price adjustments."
     }
   ]
 }

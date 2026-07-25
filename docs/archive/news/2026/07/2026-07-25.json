@@ -1,7 +1,29 @@
 {
   "date": "2026-07-25",
-  "count": 782,
+  "count": 784,
   "items": [
+    {
+      "id": "5007902",
+      "time": "2026-07-25 15:44:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭和加拿大討論天然氣及核能領域的合作。"
+    },
+    {
+      "id": "mkt:019f9839-d193-7aab-8e94-2d8043f24db4",
+      "time": "2026-07-25 15:42:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "【China's digital industry revenue reaches 39.6 tln yuan in 2025】The Cyberspace Administration of China’s National Informatization Development Report (2025) shows core digital industry value-added accounted for over 10.5% of GDP; digital industry revenue reached 39.6 tln yuan, up 8.8% YoY, while household digital consumption was 25.3 tln yuan, up 8.7% YoY. Network infrastructure upgrades continued: 5G base stations totaled 4.838 mln by end‑2025, about two‑thirds of prefecture‑level cities meet gigabit‑city standards, and active IPv6 users reached 869 mln."
+    },
     {
       "id": "5007901",
       "time": "2026-07-25 15:34:53",
