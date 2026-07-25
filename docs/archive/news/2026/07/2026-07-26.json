@@ -1,7 +1,30 @@
 {
   "date": "2026-07-26",
-  "count": 84,
+  "count": 86,
   "items": [
+    {
+      "id": "mkt:019f9ae3-01b4-7aab-8e96-d02c02b35e61",
+      "time": "2026-07-26 04:06:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Fars News Agency cited an Islamic Revolutionary Guard Corps spokesman saying the UK would become a clear and legitimate target if it backed US entry into the conflict."
+    },
+    {
+      "id": "5008131",
+      "time": "2026-07-26 04:06:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人表示，如果英國在戰爭中支援美國，將成為“明確且合法的打擊目標”。"
+    },
     {
       "id": "mkt:019f9ade-de6e-7aab-8e96-cad941676fb2",
       "time": "2026-07-26 04:02:04",
