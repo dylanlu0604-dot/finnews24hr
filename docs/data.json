@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-26 03:41:41",
-  "count": 18143,
+  "updated": "2026-07-26 03:45:38",
+  "count": 18140,
   "items": [
+    {
+      "id": "5008128",
+      "time": "2026-07-26 03:44:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬斯克旗下Boring Company洽談新一輪融資 估值200億美元】據知情人士透露，馬斯克的隧道企業Boring Company正洽談一輪新融資，投後估值預計達200億美元，計劃募資規模約40億美元。多名知情人士稱，公司本輪融資目標募資40億美元，但融資尚未完成交割，相關條款仍存在變動可能。該企業自主研發隧道掘進機，宣稱地下挖掘施工成本低於傳統工程企業。這家2018年從SpaceX分拆獨立的公司，已在拉斯維加斯大道建成地下交通隧道網路，依靠特斯拉車輛搭載乘客往返拉斯維加斯會展中心。2022年一輪融資完成後，Boring Company估值約57億美元，該輪融資共籌集6.75億美元，投資方包括維資本、紅杉資本、創始人基金。公司曾向巴爾的摩、芝加哥、洛杉磯等城市推介私人出資建設的地下隧道專案，計劃依靠乘客購票通行實現盈利，但多數專案最終未能落地。"
+    },
+    {
+      "id": "mkt:019f9acc-835c-7aab-8e96-b9e4f1809581",
+      "time": "2026-07-26 03:42:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Wall Street Journal reports Musk's The Boring Company is seeking financing at a $20 billion valuation."
+    },
     {
       "id": "mkt:019f9acb-4647-7aab-8e96-b08b5b9b98b4",
       "time": "2026-07-26 03:40:40",
@@ -166196,49 +166213,6 @@
         "Brent"
       ],
       "text": "Saudi state TV said the EU and Gulf states oppose imposing permit requirements or fees on international navigation through the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019f76c2-a577-7aab-8df3-09b96d4742e0",
-      "time": "2026-07-19 03:44:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Saudi state TV said the EU and Gulf states, in a joint statement on the Strait of Hormuz and freedom of navigation, rejected any claims of \"illegal sovereignty or control\" over the strait."
-    },
-    {
-      "id": "4995678",
-      "time": "2026-07-19 03:44:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特國家電視臺：歐盟與海灣國家反對在霍爾木茲海峽對國際航行強制推行許可制度或徵收通行費。"
-    },
-    {
-      "id": "4995677",
-      "time": "2026-07-19 03:43:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特國家電視臺：歐盟與海灣國家在一份關於霍爾木茲海峽與航行自由的聯合宣告中，共同反對任何對該海峽主權或控制權的“非法主張”。"
-    },
-    {
-      "id": "mkt:019f76c1-94f0-7aab-8df3-027edd124301",
-      "time": "2026-07-19 03:43:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE Foreign Ministry urged all parties to exercise maximum restraint."
-    },
-    {
-      "id": "4995676",
-      "time": "2026-07-19 03:41:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：阿巴斯發生的爆炸很可能與美國襲擊無關，而是革命衛隊向霍爾木茲海峽中的船隻發出的警告射擊。"
     }
   ]
 }
