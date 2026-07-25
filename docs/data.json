@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-25 19:47:41",
-  "count": 18203,
+  "updated": "2026-07-25 19:51:36",
+  "count": 18205,
   "items": [
+    {
+      "id": "5007976",
+      "time": "2026-07-25 19:50:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍隊在約旦河西岸村莊圍捕巴勒斯坦人，此前發生涉及定居者的槍戰。"
+    },
+    {
+      "id": "5007975",
+      "time": "2026-07-25 19:48:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀輪股份：行業主流觀點認為2026年是伺服器液冷進入產業化應用的關鍵階段，公司正致力於拓展相關客戶】銀輪股份在互動平臺表示，公司目前在資料中心領域，明確了資料中心液冷模組零部件供應商的定位，制定了中期發展規劃，實施“技術+製造”的組合策略，以不鏽鋼板式換熱器等零部件為突破口，服務資料中心液冷模組（總成）客戶，行業主流觀點認為2026年是伺服器液冷進入產業化應用的關鍵階段，公司正致力於拓展相關客戶，目前不鏽鋼板式換熱器等產品已經為多家模組客戶送樣並開展驗證，部分客戶已經下達小批訂單。"
+    },
+    {
+      "id": "5007974",
+      "time": "2026-07-25 19:48:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【敘利亞兩輛巴士相撞致35人死亡】據敘利亞國家通訊社25日援引敘過渡政府衛生部訊息報道，兩輛巴士當天在連線代爾祖爾省和首都大馬士革的公路上相撞，造成至少35人死亡、30人受傷。敘過渡政府內政部表示，涉事兩輛巴士中的一輛載有內政部安全部隊人員，另一輛為民用巴士。事發後，救援人員迅速趕赴事故現場，目前正在轉運傷者和遇難者遺體。（新華社）"
+    },
+    {
+      "id": "5007973",
+      "time": "2026-07-25 19:47:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港特區立法會議員完成國家事務研修考察】就香港特區立法會議員完成國家事務研修考察，特區立法會主席李慧瓊25日會見傳媒時表示，這是特區立法會全體議員首次赴京進行研修考察，具有歷史性意義，並以“啟發於心，回饋於行”予以總結。香港特區立法會全體議員19日啟程前往北京，展開為期一週的國家事務研修考察。李慧瓊表示，特區立法會全體議員將認真總結此次學習經驗。特區行政長官李家超28日將到特區立法會進行交流，屆時議員將分享學習體會，並學以致用，思考未來工作方向。（新華社）"
+    },
     {
       "id": "5007971",
       "time": "2026-07-25 19:45:13",
@@ -166809,22 +166841,6 @@
         "MKT News"
       ],
       "text": "【Sagawa Express confirms SmartClub data leak affecting about 70,000 users】Sagawa Express on the 18th acknowledged a data leak affecting about 70,000 users of its \"SmartClub\" membership service after a configuration error during system-fault repairs exposed names, email addresses and parcel tracking numbers on the evening of the 15th. The company said the breach did not include credit-card data or postal addresses and there have been no reports of the data being used illegally; \"SmartClub\" sends delivery ETA notices and allows members to set delivery dates and times."
-    },
-    {
-      "id": "mkt:019f750e-fe59-7aab-8df0-5ff52946b8c1",
-      "time": "2026-07-18 19:49:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Major data leak at India's largest nuclear plant, Kudankulam】Indian authorities reported on the 17th that the country's largest nuclear plant, the Kudankulam nuclear power plant, suffered a major data breach that exposed nearly 19,000 files, including engineering design drawings, supplier information and employee records. Some experts warned the leak could pose security and safety risks to the facility; the plant operator said the breach does not pose related operational or safety risk."
-    },
-    {
-      "id": "mkt:019f750e-7c48-7aab-8df0-53dfe03e3d6f",
-      "time": "2026-07-18 19:48:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ren Zeping team dissolves VIP chat after scam links; annual-membership course sales ≈26.22 mln yuan】Ren Zeping's team dissolved its VIP group chat mid-week after discovering, according to the team's assistant, that \"some people were using our group to send scam links and creating unauthorized groups to post prohibited content.\" The team said it will stop using group chat for notifications; course enrollment and member benefits continue to be delivered. Third-party platform data show year-to-date single-platform paid-course sales of 20,000–100,000 units; the top five courses are an annual membership priced at 2,980 yuan with cumulative sales above 8,800 units, implying at least 26.22 mln yuan of revenue. The membership remains available for purchase on WeChat store and other platforms."
     }
   ]
 }
