@@ -1,7 +1,325 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-26 02:32:51_
-_本檔包含 3789 則快訊，約 687871 字_
+_更新時間：2026-07-26 03:49:32_
+_本檔包含 3810 則快訊，約 686730 字_
+
+---
+
+### 2026-07-22 04:02:19  #市場 #焦點
+
+SPACEX股價收盤上漲3.1%，結束連續七天的下跌。
+
+---
+
+### 2026-07-22 04:02:07  #國際
+
+克里姆林宮：對於安迪・伯納姆就任英國新首相後俄英關係改善，俄方 “不抱任何希望”，批評伯納姆對烏克蘭提供支援。
+
+---
+
+### 2026-07-22 04:01:01  #MKT News
+
+Lebanon's prime minister said the government is ready to implement the administrative and technical measures following Trump’s approval for US carriers to operate direct flights to Lebanon.
+
+---
+
+### 2026-07-22 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收漲】道指漲0.74%，標普500指數漲0.89%，納指漲1.26%。閃迪漲14.27%，西部資料漲12.51%，泰瑞達漲12.07%，美光漲12.03%。“七姐妹”方面：特斯拉漲2.53%，英偉達漲1.96%，蘋果漲0.33%，Meta Platforms跌0.36%，亞馬遜跌0.99%，微軟跌1.14%，谷歌跌1.49%。
+
+---
+
+### 2026-07-22 04:00:42  #國際
+
+特朗普對比二戰後美國發動的戰爭情況。
+阿富汗戰爭：歷時20年，2000人陣亡。
+伊拉克戰爭：歷時9年，4600人陣亡。
+越南戰爭：歷時19年5個月，58220人陣亡。
+朝鮮戰爭：歷時3年1個月，36574人陣亡。
+委內瑞拉軍事行動：歷時1天，0人陣亡。
+伊朗軍事衝突：歷時4個月，18人陣亡。
+
+---
+
+### 2026-07-22 04:00:03  #市場 #焦點
+
+【納斯達克中國金龍指數收跌0.67%】盛豐物流跌5.71%，復朗集團跌4.55%，優品車跌4.55%，華住酒店集團跌3.75%，網易跌3.44%。
+
+---
+
+### 2026-07-22 03:59:42  #公司 #國際
+
+黎巴嫩總理：政府已準備好落實與特朗普允許美國航空公司直飛黎巴嫩的決定相關的行政及技術程式。
+
+---
+
+### 2026-07-22 03:58:23  #國際
+
+伊朗國家電視臺：過去24小時內美軍發動的襲擊打擊了六個省份的軍事目標，霍爾木茲甘省、錫斯坦-俾路支斯坦省遭受的打擊最為猛烈。
+
+---
+
+### 2026-07-22 03:57:34  #公司 #觀點
+
+高盛私募信貸公司6月末投資組合公允價值182億美元，淨資產92億美元。
+
+---
+
+### 2026-07-22 03:56:03  #MKT News #Important #Market Themes #AI Revolution
+
+Axios reported OpenAI said a security vulnerability at Hugging Face was caused by one of OpenAI's models.
+
+---
+
+### 2026-07-22 03:54:01  #國際
+
+澤連斯基表示，在新任總司令的領導下，烏克蘭將繼續對俄羅斯發動縱深打擊。
+
+---
+
+### 2026-07-22 03:53:47  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+ZELENSKIY said Ukraine, under its new armed forces commander-in-chief, will continue to conduct deep strikes on Russian targets.
+
+---
+
+### 2026-07-22 03:53:38  #國際
+
+美國防長赫格塞思：我實在搞不清勞埃德・奧斯汀（上任防長）任職四年都做了些什麼。真的不清楚。我們接手相關工作時發現，各類問題積重難返，思維僵化、官僚主義現象十分嚴重，情況令人震驚。
+
+---
+
+### 2026-07-22 03:51:52  #MKT News #Macro & Rates #US Economy #WTI #Impact bullish #XAUUSD #DXY
+
+Gen. Dan Kain, chairman of the U.S. Joint Chiefs of Staff, said the U.S. conflict with Iran has cost about $37.5 billion to date.
+
+---
+
+### 2026-07-22 03:50:47  #焦點 #國際
+
+美國高階將領凱恩談伊朗：戰爭迄今已耗費375億美元。
+
+---
+
+### 2026-07-22 03:50:42  #MKT News #AIR.PA #Impact bullish
+
+Airbus' commercial aircraft chief said engine supplier CFM is currently meeting its engine supply commitments and that production has modest upside. He expects engine delivery issues to be resolved in 2028.
+
+---
+
+### 2026-07-22 03:50:24  #其他
+
+【Hugging Face 稱內部資料入侵事件由AI智慧體發起】承載人工智慧模型與資料集的平臺Hugging Face表示，近期部分內部資料庫與服務金鑰遭遇入侵，此次攻擊的幕後推手是一套AI智慧體框架。這起入侵事件屬於有正式記錄、首批由AI智慧體主導網路攻擊的案例之一，標誌著網路攻擊模式從AI輔助駭客攻擊轉向AI自主主導攻擊行動。
+
+---
+
+### 2026-07-22 03:49:52  #國際
+
+【伊朗總統強調團結對當前局勢至關重要】據伊朗邁赫爾通訊社21日報道，伊朗總統佩澤希齊揚當天強調，伊朗當前務必維護內部團結與凝聚力，不應無端貶低談判成果。（新華社）
+
+---
+
+### 2026-07-22 03:48:45  #其他
+
+OpenAI：此次Hugging Face資料洩露事件由旗下一個模型引發。
+
+---
+
+### 2026-07-22 03:48:39  #MKT News #Market Regions #Europe & UK
+
+【Moldovan parliament approves confidence vote for new government】Moldovan parliament approved a vote of confidence on the 21st for a new government led by Vasili Tofan. Cabinet ministers will be sworn in before President Maia Sandu on the morning of the 22nd. Under the constitution, Sandu will formally appoint the government following the vote; ministers assume their duties after taking the oath.
+
+---
+
+### 2026-07-22 03:48:25  #國際
+
+美國眾議員托馬斯·馬西：程式性規則已獲得透過，法案第219條款未允許進行辯論與表決。該條款旨在推動美國軍事技術及供應鏈與以色列實現整合。《國防授權法案》明日將進行記名投票，第219條款包含在內。
+
+---
+
+### 2026-07-22 03:47:48  #其他
+
+【摩爾多瓦議會透過對新政府的信任投票】摩爾多瓦議會21日透過對瓦西里·託凡領導的新政府的信任投票。新一屆內閣成員22日上午將在總統桑杜面前宣誓就職。根據憲法，投票透過後，桑杜將正式任命新政府，新政府成員在宣誓就職後即可行使職權。
+
+---
+
+### 2026-07-22 03:47:36  #公司
+
+空客商用飛機執行長預計發動機交付問題將在2028年得到解決。
+
+---
+
+### 2026-07-22 03:45:54  #MKT News
+
+The Wall Street Journal reports OpenAI has added two independent directors ahead of its IPO: Nubank founder and CEO David Velez and BNY Mellon CEO Robin Vince.
+
+---
+
+### 2026-07-22 03:45:44  #公司
+
+空中客車執行長表示，CFM國際公司正在按承諾交付發動機，交付量還可進一步小幅提升。
+
+---
+
+### 2026-07-22 03:45:32  #公司
+
+空中客車商用飛機執行長表示，普惠公司2027年提供的發動機數量少於空客期望的水平。
+
+---
+
+### 2026-07-22 03:45:15  #焦點 #國際
+
+特朗普在白宮與黎巴嫩總統約瑟夫·奧恩會晤時表示，若黎巴嫩方面提出請求，他願意與真主黨展開直接對話。特朗普承諾美國將持續向黎巴嫩提供支援。
+
+---
+
+### 2026-07-22 03:44:43  #其他
+
+OpenAI任命NuBank的大衛·貝萊斯以及紐約梅隆銀行的羅賓·文斯出任董事。
+
+---
+
+### 2026-07-22 03:44:34  #其他
+
+【規模 二季度公募規模大增 距40萬億元僅一步之遙】2026年二季度，公募基金管理規模迎來顯著增長，距離40萬億元僅一步之遙。主動管理類產品憑藉亮眼業績，成為二季度增幅最大的品類，績優產品“吸金”顯著。業內人士認為，公募基金行業在規模快速擴張的同時，也在從“量的增長”向“質的提升”轉型。
+
+---
+
+### 2026-07-22 03:44:03  #國際
+
+美國防長赫格塞思：不可否認，伊朗依舊保有作戰能力，但我方造成的打擊重創對手，使其陷入前所未有的不利處境。
+
+---
+
+### 2026-07-22 03:43:39  #MKT News #Commodities #Energy
+
+Iraq's cabinet approved allowing the State Oil Marketing Organization (SOMO) to import diesel for the Ministry of Energy to "secure energy‑sector demand".
+
+---
+
+### 2026-07-22 03:43:32  #其他 #焦點
+
+OpenAI擬在IPO前增設兩名獨立董事。
+
+---
+
+### 2026-07-22 03:42:55  #公司
+
+伊拉克內閣批准允許國有石油銷售公司SOMO為伊拉克能源部進口瓦斯油，以“保障能源部門需求”。
+
+---
+
+### 2026-07-22 03:42:52  #MKT News
+
+Ukrainian President Zelenskiy has offered former defense minister Feodorov an "important position" to oversee work in the defense technology sector.
+
+---
+
+### 2026-07-22 03:41:49  #國際
+
+空客首席財務官表示，歐洲投資銀行貸款採用“完全標準的市場利率”。
+
+---
+
+### 2026-07-22 03:41:39  #國際
+
+澤連斯基稱，已向烏克蘭前國防部長費多羅夫提供一個“體面職位”，負責監督國防技術事務。
+
+---
+
+### 2026-07-22 03:41:26  #MKT News
+
+Ukrainian President Zelenskiy has dismissed Commander-in-Chief of the Ukrainian Armed Forces Oleksandr Syrskyi.
+
+---
+
+### 2026-07-22 03:40:47  #國際
+
+市場資訊：美國擬於週五前實施新關稅，當前臨時關稅措施即將到期。
+
+---
+
+### 2026-07-22 03:40:02  #MKT News #WTI #Impact bullish #Brent
+
+U.S. military said that as of July 21 U.S. forces had altered the course of eight commercial vessels and disabled one during operations to fully enforce a blockade against Iran.
+
+---
+
+### 2026-07-22 03:39:58  #國際
+
+美國軍方：截至7月21日，美軍已重新排程8艘商船，並扣押1艘，以全面實施封鎖。
+
+---
+
+### 2026-07-22 03:39:54  #其他
+
+英國：計劃醫療撤離一名在剛果（金）救治埃博拉患者的工作人員，疑似發生職業暴露；該人員正在隔離環境下接受評估與監測，目前尚未出現任何症狀。
+
+---
+
+### 2026-07-22 03:39:14  #公司
+
+空中客車執行長在被問及是否會在2028年後連任第四屆任期時表示，他願意接受董事會作出的任何恰當安排。
+
+---
+
+### 2026-07-22 03:39:08  #國際
+
+澤連斯基表示，他已提名米哈伊洛·德拉帕季指揮官出任烏克蘭武裝部隊總司令。
+
+---
+
+### 2026-07-22 03:38:12  #MKT News
+
+A Ukrainian lawmaker says Mykhailo Drapaty will be appointed chief of the Ukrainian Armed Forces' General Staff and Volodymyr Horbatiuk will be named head of the National Guard.
+
+---
+
+### 2026-07-22 03:37:18  #國際
+
+烏克蘭議員：米哈伊洛·德拉帕季將出任烏克蘭武裝部隊新任總參謀長，沃洛迪米爾·戈爾巴季烏克將擔任國民警衛隊新任司令。
+
+---
+
+### 2026-07-22 03:36:49  #國際
+
+美國參謀長聯席會議主席丹·凱恩上將：美國民眾必須認識到，戰爭形態正在發生轉變。技術進步正從根本上、不可逆轉地改變作戰模式，因此需要資金投入以保障美軍獲得充足裝備。
+
+---
+
+### 2026-07-22 03:35:10  #MKT News
+
+U.S. Defense Secretary Hegseth said some training will need to be urgently scaled back if additional funding is not provided.
+
+---
+
+### 2026-07-22 03:34:49  #國際
+
+美國參議院聽證會現場發生示威抗議，示威者打斷赫格塞思，呼籲停止轟炸伊朗、巴勒斯坦兒童。
+
+---
+
+### 2026-07-22 03:34:46  #MKT News
+
+Senator Collins said some U.S. military services are facing near-term funding challenges.
+
+---
+
+### 2026-07-22 03:34:17  #國際
+
+美國國防部長赫格塞思向國會表示，如果無法獲得更多撥款，部分訓練專案將不得不緊急削減。
+
+---
+
+### 2026-07-22 03:34:06  #焦點 #國際
+
+美國參議員柯林斯稱，部分軍種近期面臨償債能力挑戰。
+
+---
+
+### 2026-07-22 03:33:46  #其他
+
+【匈牙利總理就倉促提名棋壇名將波爾加競選總統致歉】匈牙利總理毛焦爾公開致歉，此前國際象棋傳奇棋手尤迪特·波爾加拒絕出任匈牙利下一任總統的提名。毛焦爾稱自己過於倉促地對外公佈提名波爾加一事，並表示對此事承擔全部責任。他上週日在臉書發文稱，49歲的波爾加能夠代表國家團結，計劃週一與波爾加會面，徵詢她是否接受提名。儘管總統職位大多屬於禮儀性職務，但波爾加表示，自己尚未準備好承擔“團結分歧重重的國家這一歷史性重任”。
 
 ---
 
@@ -22621,191 +22939,5 @@ EU Carbon Permits Hits 23-week High — EU Carbon Permits increased to 82.67 EUR
 ### 2026-07-20 22:03:56  #MKT News
 
 Iran's interior minister is leading a delegation on a visit to Pakistan today, Iranian media reported. Officials will hold talks and joint meetings to discuss deepening bilateral ties, including strengthening border cooperation and expanding economic, transit and agricultural cooperation.
-
----
-
-### 2026-07-20 22:03:00  #公司 #市場
-
-【7月20日增減持彙總】據不完全統計，7月20日盤後，包括上海銀行、川投能源、華勤技術、共達電聲、仙鶴股份、中國建築、億緯鋰能、長纜科技、宇晶股份、新亞製程、斯迪克在內的11家A股上市公司披露增持情況，當日暫無公司披露減持情況。
-
----
-
-### 2026-07-20 22:02:58  #公司
-
-西部證券股份有限公司給予萬華化學增持的初始評級。
-
----
-
-### 2026-07-20 22:02:41  #公司 #國際
-
-【菲律賓航空確認訂購多達20架波音787夢想飛機】7月20日，據波音公司訊息，2026範堡羅航展期間，菲律賓航空確認訂購多達20架787夢想飛機。
-
----
-
-### 2026-07-20 22:02:27  #市場
-
-英國國債延續跌勢，10年期收益率上升5個基點至5%。
-
----
-
-### 2026-07-20 22:02:22  #國際
-
-市場訊息：據一名美國官員透露，美國計劃從歐洲基地增派F-16和F-35戰鬥機，以及額外的空中加油機。
-
----
-
-### 2026-07-20 22:02:14  #MKT News
-
-UK government bonds fell further; the 10-year gilt yield rose 5bps to 5.00%.
-
----
-
-### 2026-07-20 22:01:42  #公司 #市場
-
-【“木頭姐”減持1170萬美元AMD股票】依據方舟投資每日交易披露資料：7月17日，“木頭姐”凱西·伍德旗下多隻方舟基金合計賣出超威半導體（AMD）23573股；按照當日收盤價495.76美元計算，這筆股票總價值約1170萬美元。 近數月以來伍德一直在持續縮減AMD持倉，7月減持節奏仍未停下。算上本次拋售，方舟投資7月累計賣出AMD股票137421股，按最新收盤價折算市值約6810萬美元。 即便伍德持續減持，AMD依舊位列方舟創新ETF第八大重倉股。 7月22日至23日，AMD將舉辦2026人工智慧推進大會，執行長蘇姿豐預計將公佈全套AI產品路線圖更新，涵蓋MI450X加速器、MI500 GPU系列以及新一代伺服器處理器。
-
----
-
-### 2026-07-20 22:01:29  #MKT News #Important #DXY #Impact bullish #EURUSD #Impact bearish #WTI
-
-CNN reports a U.S. official says Washington plans to deploy additional F-16 and F-35 fighters and extra aerial-refueling tankers from European bases.
-
----
-
-### 2026-07-20 22:01:14  #其他
-
-【中國聯通將在上海投資超250億元】2026世界人工智慧大會暨人工智慧全球治理高階別會議7月20日閉幕。當天，“UniAI·智聯申城”專案啟動，中國聯通將在上海投資超250億元，加強智算基建，推進人工智慧與產業升級、惠民服務、城市治理及數智生態的深度融合。
-
----
-
-### 2026-07-20 22:01:13  #經濟數據 #美國
-
-美國6月份領先經濟指標下降0.2%，市場預估為下降0.1%。
-
----
-
-### 2026-07-20 22:00:36  #MKT News #Macro & Rates #US Economy
-
-U.S. Conference Board lagging economic index MoM 0.0% in June; May -0.1%.
-
----
-
-### 2026-07-20 22:00:33  #MKT News #Macro & Rates #US Economy
-
-US Conference Board coincident index MoM +0.2% in June, matching May's +0.2%.
-
----
-
-### 2026-07-20 22:00:32  #資料 #國際
-
-美國6月諮商會領先指標月率 -0.2%，預期-0.1%，前值0.10%。
-
----
-
-### 2026-07-20 22:00:28  #MKT News #Economic Calendar #Important
-
-United States | Conference Board Lagging Indicator (MoM) (Jun) | actual 0% | previous -0.1%
-
----
-
-### 2026-07-20 22:00:28  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #Impact bullish
-
-US Conference Board Leading Economic Index (LEI) for June 99.1, down from 99.3 previously.
-
----
-
-### 2026-07-20 22:00:24  #MKT News #Economic Calendar #Important
-
-United States | Conference Board Coincident Indicator (MoM) (Jun) | actual 0.2% | previous 0.2%
-
----
-
-### 2026-07-20 22:00:19  #MKT News #Economic Calendar #Important
-
-United States | Conference Board Leading Indicator (Jun) | actual 99.1 | previous 99.3
-
----
-
-### 2026-07-20 22:00:17  #MKT News #Important #S&P500 #Impact bearish #US10Y #Impact bullish #DXY #Impact mixed
-
-US Conference Board leading index MoM -0.2% in June; consensus -0.1%; May +0.10%.
-
----
-
-### 2026-07-20 22:00:07  #MKT News #Economic Calendar #Important
-
-United States | Conference Board Leading Indicator (MoM) (Jun) | actual -0.2% | consensus -0.1% | previous 0.10%
-
----
-
-### 2026-07-20 21:59:03  #其他
-
-【伯納姆正式就任英國首相 承諾推動40年來最大變革 】國執政黨工黨新任黨首安迪·伯納姆在白金漢宮接受國王查爾斯三世任命，正式就任英國首相併獲權組建新一屆內閣。這是英國十餘年來的第七位首相。伯納姆在就職後首次講話中承諾，將推出“新經濟模式”與“新政治模式”，推動英國近40年來最大規模的變革，以終結長期的政治動盪。伯納姆在唐寧街10號外發表首次講話時強調，他將直面民眾對政治的失望，讓當前時刻成為英國的“分水嶺”。在施政綱領方面，他宣佈將立即採取行動降低民眾生活成本，並明確相關措施的籌資方式。此舉將作為邁向“十年計劃”的第一步，該計劃的核心目標包括重組政府、向地方政府下放更多權力，以及將部分基本生活必需品置於“更強有力的公共控制之下”。
-
----
-
-### 2026-07-20 21:58:39  #MKT News #WTI #Impact bullish #Brent
-
-The UAE strongly condemned Iran's renewed hostile attacks on Bahrain and Kuwait.
-
----
-
-### 2026-07-20 21:57:42  #國際
-
-【美稱仍對外交解決伊朗問題持開放態度】，美國國務卿魯比奧表示，儘管美軍已連續第九晚對伊朗發動打擊，但美國“仍對外交解決方案持開放態度”。魯比奧稱，美方將繼續推動與伊朗實現長期和平，特朗普政府“仍然願意透過外交途徑解決問題”。他表示，美方已“直接”以及“透過其他國家的多個渠道”收到伊朗希望對話和談判的訊號，但美國目前的行動是“對伊方行為作出的回應”。伊朗外交部發言人巴加埃20日也表示，伊朗“仍對外交持開放態度”，各方調解努力仍在繼續，但只要襲擊持續，伊朗就將繼續進行“防禦性軍事行動”。儘管美國和伊朗官員均暗示外交談判仍有可能重啟，但雙方仍在持續發動軍事打擊，美伊此前簽署的諒解備忘錄事實上已經破裂，地區局勢升級風險仍在加劇。（央視新聞）
-
----
-
-### 2026-07-20 21:56:36  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 2
-
-Treasury Yields Higher on Monday — The yield on the US 10-year Treasury note edged up to 4.57% on Monday, after declining about 7bps the previous week, as investors continued to assess developments in the Middle East and their implications for the economic and monetary policy outlook. Tensions between the US and Iran escalated over the weekend, sending oil prices to six-week highs before they pared most of their gains following comments from Iran's foreign ministry indicating that negotiations with the US could continue if the country's national interests are respected. Last week, both CPI and PPI reports came in softer than expected, but the recent surge in oil prices has raised concerns that the disinflation trend could stall. Markets continue to price in one Fed rate hike this year, with the probability of a September move remaining above 60%. Meanwhile, Fed officials have entered the blackout period ahead of next week's FOMC meeting, where policymakers are widely expected to leave the federal funds rate unchanged.
-
----
-
-### 2026-07-20 21:55:50  #其他
-
-市場訊息：一艘希臘貨船在霍爾木茲海峽附近遭不明拋射物擊中後起火。
-
----
-
-### 2026-07-20 21:55:02  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Edges Higher on Softer Inflation Data — The S&P/TSX Composite Index inched up to trade above 35,000 on Monday following the release of June's inflation report. Canada's annual inflation rate eased to 2.8% in June 2026 from 3.2% in May, slightly below forecasts of 2.9%. Gasoline prices increased at a slower pace, while the Bank of Canada's preferred core inflation measures fell to their lowest levels in more than five years, reinforcing the BoC's view that the impact of higher energy costs stemming from the Middle East oil supply crisis is not spreading broadly throughout the economy. Canadian bond yields moved lower following the data release. Most financials traded higher, with TD Bank, BMO, CIBC, and Scotiabank edging up. Shopify (+1%) and Celestica (+4%) advanced, tracking the rebound in US technology shares. Energy stocks weighed on the index, with Canadian Natural and Suncor down about 1% each as oil prices pulled back from recent peaks.
-
----
-
-### 2026-07-20 21:54:38  #MKT News
-
-Mexican President sheinbaum said she held brief talks with U.S. President TRUMP and Canadian Prime Minister CARNEY at the World Cup.
-
----
-
-### 2026-07-20 21:54:29  #公司
-
-奧本海默將SPX科技公司的目標股價從每股272.00美元上調至每股280.00美元。
-
----
-
-### 2026-07-20 21:54:26  #MKT News #Market Themes #The Trump Trade
-
-Mexican President Sheinbaum will meet U.S. Trade Representative Greer on Wednesday or Thursday.
-
----
-
-### 2026-07-20 21:54:23  #MKT News
-
-Mexican President Sheinbaum spoke with U.S. Trade Representative Greer, Commerce Secretary Lutnick and Secretary of State Rubio during a soccer match.
-
----
-
-### 2026-07-20 21:54:03  #國際
-
-墨西哥總統稱在世界盃期間與特朗普和卡尼進行了簡短交談。
-
----
-
-### 2026-07-20 21:53:27  #Trading Economics #Markets #Commodity #Importance 1
-
-Platinum Steadies Near Eight-Month Low — Platinum futures traded near $1,610 per ounce, stabilizing around their lowest since November, as traders weighed the metal's supply and demand outlook against renewed tensions in the Middle East. Rising inflation concerns prompted markets to price in at least one Federal Reserve rate hike by year-end, weighing on demand for non-yielding metals such as platinum. Meanwhile, Sibanye-Stillwater plans to advance seven PGM mining projects, although production is not expected to begin until next year. However, the World Platinum Investment Council expects a fourth consecutive market deficit in 2026, as constrained mine supply, elevated energy costs, and higher winter electricity tariffs continue to pressure producers' margins. On the demand side, China's industrial policies supporting AI, electric vehicles, and clean energy, together with the launch of the first platinum investment bar series by Caibai and the WPIC, are expected to support long-term platinum consumption.
 
 ---

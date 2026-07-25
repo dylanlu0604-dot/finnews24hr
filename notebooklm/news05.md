@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-26 02:32:51_
-_本檔包含 3459 則快訊，約 685980 字_
+_更新時間：2026-07-26 03:49:32_
+_本檔包含 3456 則快訊，約 686586 字_
+
+---
+
+### 2026-07-20 22:03:00  #公司 #市場
+
+【7月20日增減持彙總】據不完全統計，7月20日盤後，包括上海銀行、川投能源、華勤技術、共達電聲、仙鶴股份、中國建築、億緯鋰能、長纜科技、宇晶股份、新亞製程、斯迪克在內的11家A股上市公司披露增持情況，當日暫無公司披露減持情況。
+
+---
+
+### 2026-07-20 22:02:58  #公司
+
+西部證券股份有限公司給予萬華化學增持的初始評級。
+
+---
+
+### 2026-07-20 22:02:41  #公司 #國際
+
+【菲律賓航空確認訂購多達20架波音787夢想飛機】7月20日，據波音公司訊息，2026範堡羅航展期間，菲律賓航空確認訂購多達20架787夢想飛機。
+
+---
+
+### 2026-07-20 22:02:27  #市場
+
+英國國債延續跌勢，10年期收益率上升5個基點至5%。
+
+---
+
+### 2026-07-20 22:02:22  #國際
+
+市場訊息：據一名美國官員透露，美國計劃從歐洲基地增派F-16和F-35戰鬥機，以及額外的空中加油機。
+
+---
+
+### 2026-07-20 22:02:14  #MKT News
+
+UK government bonds fell further; the 10-year gilt yield rose 5bps to 5.00%.
+
+---
+
+### 2026-07-20 22:01:42  #公司 #市場
+
+【“木頭姐”減持1170萬美元AMD股票】依據方舟投資每日交易披露資料：7月17日，“木頭姐”凱西·伍德旗下多隻方舟基金合計賣出超威半導體（AMD）23573股；按照當日收盤價495.76美元計算，這筆股票總價值約1170萬美元。 近數月以來伍德一直在持續縮減AMD持倉，7月減持節奏仍未停下。算上本次拋售，方舟投資7月累計賣出AMD股票137421股，按最新收盤價折算市值約6810萬美元。 即便伍德持續減持，AMD依舊位列方舟創新ETF第八大重倉股。 7月22日至23日，AMD將舉辦2026人工智慧推進大會，執行長蘇姿豐預計將公佈全套AI產品路線圖更新，涵蓋MI450X加速器、MI500 GPU系列以及新一代伺服器處理器。
+
+---
+
+### 2026-07-20 22:01:29  #MKT News #Important #DXY #Impact bullish #EURUSD #Impact bearish #WTI
+
+CNN reports a U.S. official says Washington plans to deploy additional F-16 and F-35 fighters and extra aerial-refueling tankers from European bases.
+
+---
+
+### 2026-07-20 22:01:14  #其他
+
+【中國聯通將在上海投資超250億元】2026世界人工智慧大會暨人工智慧全球治理高階別會議7月20日閉幕。當天，“UniAI·智聯申城”專案啟動，中國聯通將在上海投資超250億元，加強智算基建，推進人工智慧與產業升級、惠民服務、城市治理及數智生態的深度融合。
+
+---
+
+### 2026-07-20 22:01:13  #經濟數據 #美國
+
+美國6月份領先經濟指標下降0.2%，市場預估為下降0.1%。
+
+---
+
+### 2026-07-20 22:00:36  #MKT News #Macro & Rates #US Economy
+
+U.S. Conference Board lagging economic index MoM 0.0% in June; May -0.1%.
+
+---
+
+### 2026-07-20 22:00:33  #MKT News #Macro & Rates #US Economy
+
+US Conference Board coincident index MoM +0.2% in June, matching May's +0.2%.
+
+---
+
+### 2026-07-20 22:00:32  #資料 #國際
+
+美國6月諮商會領先指標月率 -0.2%，預期-0.1%，前值0.10%。
+
+---
+
+### 2026-07-20 22:00:28  #MKT News #Economic Calendar #Important
+
+United States | Conference Board Lagging Indicator (MoM) (Jun) | actual 0% | previous -0.1%
+
+---
+
+### 2026-07-20 22:00:28  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #Impact bullish
+
+US Conference Board Leading Economic Index (LEI) for June 99.1, down from 99.3 previously.
+
+---
+
+### 2026-07-20 22:00:24  #MKT News #Economic Calendar #Important
+
+United States | Conference Board Coincident Indicator (MoM) (Jun) | actual 0.2% | previous 0.2%
+
+---
+
+### 2026-07-20 22:00:19  #MKT News #Economic Calendar #Important
+
+United States | Conference Board Leading Indicator (Jun) | actual 99.1 | previous 99.3
+
+---
+
+### 2026-07-20 22:00:17  #MKT News #Important #S&P500 #Impact bearish #US10Y #Impact bullish #DXY #Impact mixed
+
+US Conference Board leading index MoM -0.2% in June; consensus -0.1%; May +0.10%.
+
+---
+
+### 2026-07-20 22:00:07  #MKT News #Economic Calendar #Important
+
+United States | Conference Board Leading Indicator (MoM) (Jun) | actual -0.2% | consensus -0.1% | previous 0.10%
+
+---
+
+### 2026-07-20 21:59:03  #其他
+
+【伯納姆正式就任英國首相 承諾推動40年來最大變革 】國執政黨工黨新任黨首安迪·伯納姆在白金漢宮接受國王查爾斯三世任命，正式就任英國首相併獲權組建新一屆內閣。這是英國十餘年來的第七位首相。伯納姆在就職後首次講話中承諾，將推出“新經濟模式”與“新政治模式”，推動英國近40年來最大規模的變革，以終結長期的政治動盪。伯納姆在唐寧街10號外發表首次講話時強調，他將直面民眾對政治的失望，讓當前時刻成為英國的“分水嶺”。在施政綱領方面，他宣佈將立即採取行動降低民眾生活成本，並明確相關措施的籌資方式。此舉將作為邁向“十年計劃”的第一步，該計劃的核心目標包括重組政府、向地方政府下放更多權力，以及將部分基本生活必需品置於“更強有力的公共控制之下”。
+
+---
+
+### 2026-07-20 21:58:39  #MKT News #WTI #Impact bullish #Brent
+
+The UAE strongly condemned Iran's renewed hostile attacks on Bahrain and Kuwait.
+
+---
+
+### 2026-07-20 21:57:42  #國際
+
+【美稱仍對外交解決伊朗問題持開放態度】，美國國務卿魯比奧表示，儘管美軍已連續第九晚對伊朗發動打擊，但美國“仍對外交解決方案持開放態度”。魯比奧稱，美方將繼續推動與伊朗實現長期和平，特朗普政府“仍然願意透過外交途徑解決問題”。他表示，美方已“直接”以及“透過其他國家的多個渠道”收到伊朗希望對話和談判的訊號，但美國目前的行動是“對伊方行為作出的回應”。伊朗外交部發言人巴加埃20日也表示，伊朗“仍對外交持開放態度”，各方調解努力仍在繼續，但只要襲擊持續，伊朗就將繼續進行“防禦性軍事行動”。儘管美國和伊朗官員均暗示外交談判仍有可能重啟，但雙方仍在持續發動軍事打擊，美伊此前簽署的諒解備忘錄事實上已經破裂，地區局勢升級風險仍在加劇。（央視新聞）
+
+---
+
+### 2026-07-20 21:56:36  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 2
+
+Treasury Yields Higher on Monday — The yield on the US 10-year Treasury note edged up to 4.57% on Monday, after declining about 7bps the previous week, as investors continued to assess developments in the Middle East and their implications for the economic and monetary policy outlook. Tensions between the US and Iran escalated over the weekend, sending oil prices to six-week highs before they pared most of their gains following comments from Iran's foreign ministry indicating that negotiations with the US could continue if the country's national interests are respected. Last week, both CPI and PPI reports came in softer than expected, but the recent surge in oil prices has raised concerns that the disinflation trend could stall. Markets continue to price in one Fed rate hike this year, with the probability of a September move remaining above 60%. Meanwhile, Fed officials have entered the blackout period ahead of next week's FOMC meeting, where policymakers are widely expected to leave the federal funds rate unchanged.
+
+---
+
+### 2026-07-20 21:55:50  #其他
+
+市場訊息：一艘希臘貨船在霍爾木茲海峽附近遭不明拋射物擊中後起火。
+
+---
+
+### 2026-07-20 21:55:02  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Edges Higher on Softer Inflation Data — The S&P/TSX Composite Index inched up to trade above 35,000 on Monday following the release of June's inflation report. Canada's annual inflation rate eased to 2.8% in June 2026 from 3.2% in May, slightly below forecasts of 2.9%. Gasoline prices increased at a slower pace, while the Bank of Canada's preferred core inflation measures fell to their lowest levels in more than five years, reinforcing the BoC's view that the impact of higher energy costs stemming from the Middle East oil supply crisis is not spreading broadly throughout the economy. Canadian bond yields moved lower following the data release. Most financials traded higher, with TD Bank, BMO, CIBC, and Scotiabank edging up. Shopify (+1%) and Celestica (+4%) advanced, tracking the rebound in US technology shares. Energy stocks weighed on the index, with Canadian Natural and Suncor down about 1% each as oil prices pulled back from recent peaks.
+
+---
+
+### 2026-07-20 21:54:38  #MKT News
+
+Mexican President sheinbaum said she held brief talks with U.S. President TRUMP and Canadian Prime Minister CARNEY at the World Cup.
+
+---
+
+### 2026-07-20 21:54:29  #公司
+
+奧本海默將SPX科技公司的目標股價從每股272.00美元上調至每股280.00美元。
+
+---
+
+### 2026-07-20 21:54:26  #MKT News #Market Themes #The Trump Trade
+
+Mexican President Sheinbaum will meet U.S. Trade Representative Greer on Wednesday or Thursday.
+
+---
+
+### 2026-07-20 21:54:23  #MKT News
+
+Mexican President Sheinbaum spoke with U.S. Trade Representative Greer, Commerce Secretary Lutnick and Secretary of State Rubio during a soccer match.
+
+---
+
+### 2026-07-20 21:54:03  #國際
+
+墨西哥總統稱在世界盃期間與特朗普和卡尼進行了簡短交談。
+
+---
+
+### 2026-07-20 21:53:27  #Trading Economics #Markets #Commodity #Importance 1
+
+Platinum Steadies Near Eight-Month Low — Platinum futures traded near $1,610 per ounce, stabilizing around their lowest since November, as traders weighed the metal's supply and demand outlook against renewed tensions in the Middle East. Rising inflation concerns prompted markets to price in at least one Federal Reserve rate hike by year-end, weighing on demand for non-yielding metals such as platinum. Meanwhile, Sibanye-Stillwater plans to advance seven PGM mining projects, although production is not expected to begin until next year. However, the World Platinum Investment Council expects a fourth consecutive market deficit in 2026, as constrained mine supply, elevated energy costs, and higher winter electricity tariffs continue to pressure producers' margins. On the demand side, China's industrial policies supporting AI, electric vehicles, and clean energy, together with the launch of the first platinum investment bar series by Caibai and the WPIC, are expected to support long-term platinum consumption.
 
 ---
 
@@ -20686,209 +20872,5 @@ According to the Wall Street Journal, U.S. officials familiar with the attacks s
 ### 2026-07-19 03:57:44  #MKT News #XAUUSD #Impact bullish #WTI #DXY
 
 【U.S. State Department issues global security alert; warns of possible sudden escalation in Middle East】The U.S. State Department issued a global security alert saying Middle East tensions could unexpectedly escalate. It urged U.S. citizens worldwide, especially those in the region, to increase vigilance. The alert said U.S. diplomatic facilities, including posts outside the Middle East, have been targeted. Iran-backed groups may target U.S. overseas interests or locations associated with the U.S. and U.S. citizens globally.
-
----
-
-### 2026-07-19 03:48:14  #MKT News #WTI #Impact bearish #Brent
-
-Saudi state television reported the EU and Gulf states urged Iran to unconditionally, permanently and without transit fees open the Strait of Hormuz.
-
----
-
-### 2026-07-19 03:46:02  #MKT News #WTI #Impact bearish #Brent
-
-Saudi state TV said the EU and Gulf states oppose imposing permit requirements or fees on international navigation through the Strait of Hormuz.
-
----
-
-### 2026-07-19 03:44:55  #MKT News #WTI #Impact bearish #Brent
-
-Saudi state TV said the EU and Gulf states, in a joint statement on the Strait of Hormuz and freedom of navigation, rejected any claims of "illegal sovereignty or control" over the strait.
-
----
-
-### 2026-07-19 03:44:50  #國際
-
-沙特國家電視臺：歐盟與海灣國家反對在霍爾木茲海峽對國際航行強制推行許可制度或徵收通行費。
-
----
-
-### 2026-07-19 03:43:56  #國際
-
-沙特國家電視臺：歐盟與海灣國家在一份關於霍爾木茲海峽與航行自由的聯合宣告中，共同反對任何對該海峽主權或控制權的“非法主張”。
-
----
-
-### 2026-07-19 03:43:45  #MKT News
-
-UAE Foreign Ministry urged all parties to exercise maximum restraint.
-
----
-
-### 2026-07-19 03:41:53  #國際
-
-伊朗媒體：阿巴斯發生的爆炸很可能與美國襲擊無關，而是革命衛隊向霍爾木茲海峽中的船隻發出的警告射擊。
-
----
-
-### 2026-07-19 03:41:16  #MKT News
-
-【Iran's ambassador to Pakistan says US has no intention of making agreement succeed】Iran's ambassador to Pakistan said the US violated the memorandum of understanding before the 60‑day post‑signing window had elapsed, arguing this demonstrates Washington lacks the determination, will or genuine intent to make any agreement succeed. He said US statements on peace and stability are hollow and accused the US of seeking to create instability — outside an agreement, within its framework, or by exploiting the agreement itself.
-
----
-
-### 2026-07-19 03:36:45  #國際
-
-【以軍空襲加沙城致8人死亡】據巴勒斯坦通訊社18日報道，以色列軍隊當天空襲加沙城兩處社群，共造成8人死亡。以軍尚未對此發表回應。據加沙地帶衛生部門18日釋出的資料，自2025年10月加沙停火第一階段協議生效以來，以軍在加沙地帶的行動已造成1144人死亡、3703人受傷。
-
----
-
-### 2026-07-19 03:34:28  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish
-
-【U.S. long-term unemployed rise; nearly 2 million jobless at least six months】The Wall Street Journal reports nearly 2 million Americans have been unemployed for at least six months. U.S. Labor Department data show June long-term unemployment (27 weeks+) accounted for 27.3% of total unemployed, up 4 percentage points year-on-year and near the highest level since late 2021. Overall unemployment remains low, so the stock of long-term unemployed is not yet large enough to materially hit the economy, but analysts warn spillovers are accumulating. Employ America senior economist Preston Mui said: "We haven't seen large-scale layoffs in recent years, so short-term unemployment has stayed relatively stable. At the same time hiring activity has fallen off noticeably. Even if some long-term unemployed find jobs, the weak hiring environment means more people keep joining the long-term unemployed pool, keeping the count elevated."
-
----
-
-### 2026-07-19 03:19:27  #國際
-
-最新畫面顯示，美軍從一處據稱位於科威特的陣地向伊朗發射陸軍戰術導彈系統（ATACMS）導彈。
-
----
-
-### 2026-07-19 03:17:13  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Iranian Student News Agency reported minutes ago that explosion-like sounds were heard at Abbas Port. A Hormozgan provincial official confirmed the noises but said there were no reports of missile strikes or U.S. fighter attacks; some media said the sounds may have come from IRGC Navy warnings to vessels in the Strait of Hormuz.
-
----
-
-### 2026-07-19 03:13:34  #其他
-
-挪威奧斯陸西部德拉門發生重大火災，超百棟房屋被毀。數百名居民緊急疏散，消防員與直升機協同作業控制火勢，目前暫無人員傷亡報告。
-
----
-
-### 2026-07-19 03:11:38  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Reports say the US is carrying out airstrikes on Iran's southern Bandar Abbas port. Local residents reported hearing three to five explosions across the port.
-
----
-
-### 2026-07-19 03:08:48  #MKT News #Important #WTI #Impact bullish #Brent #DXY
-
-Preliminary reports indicate an explosion at Iran's port city Bandar Abbas.
-
----
-
-### 2026-07-19 03:06:34  #國際
-
-伊朗港口城市阿巴斯港發生爆炸。
-
----
-
-### 2026-07-19 03:04:50  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-CENTCOM said U.S. forces continue to strictly enforce a maritime blockade against Iran. As of July 18, CENTCOM has diverted five merchant vessels and rendered one vessel inoperable.
-
----
-
-### 2026-07-19 03:02:49  #國際
-
-美國中央司令部：部隊嚴格執行針對伊朗的海上封鎖行動。
-
----
-
-### 2026-07-19 03:02:21  #國際
-
-美國中央司令部已調改5艘商船航線。
-
----
-
-### 2026-07-19 03:02:08  #MKT News
-
-ZELENSKIY said decisions on the military will continue to be negotiated.
-
----
-
-### 2026-07-19 02:57:19  #公司
-
-巴西戈爾航空母公司即將達成採購最多20架巴航工業E2支線客機的交易。
-
----
-
-### 2026-07-19 02:56:23  #MKT News
-
-Ukrainian President Zelenskiy said he spoke today with the commander-in-chief of the Armed Forces of Ukraine.
-
----
-
-### 2026-07-19 02:52:22  #MKT News
-
-U.S. defense secretary Hegseth posted after two U.S. service members were killed in Jordan that their sacrifice will only strengthen our resolve.
-
----
-
-### 2026-07-19 02:50:49  #焦點 #國際
-
-【伊朗革命衛隊稱打擊三國美軍目標】伊朗伊斯蘭革命衛隊7月18日釋出影片，顯示當天發射導彈和無人機，打擊位於科威特、巴林和約旦的多個美軍目標。
-
----
-
-### 2026-07-19 02:47:22  #國際
-
-市場資訊：本週近半數美國眾議院民主黨議員投票主張取消對以色列的援助後，親以色列遊說團體美國以色列公共事務委員會（AIPAC）關閉了其支援的十餘名議員的線上捐款渠道。
-
----
-
-### 2026-07-19 02:45:48  #國際
-
-週六，美國東北部多地遭遇雷暴天氣，野火濃煙帶來的刺鼻空氣得以驅散。但氣象預報員警告，紐約市與費城將出現時速超70英里的大風。
-
----
-
-### 2026-07-19 02:43:55  #MKT News #WTI #Brent
-
-IRNA reported Bushehr province governor Mohammad Mozafari said there is currently neither a request nor a formal order to evacuate residents of Kharg Island.
-
----
-
-### 2026-07-19 02:43:16  #國際
-
-市場資訊：伊朗波斯灣領海內的哈爾克島與本土之間常規海上運輸仍保持24小時不間斷正常運營。
-
----
-
-### 2026-07-19 02:43:03  #國際
-
-伊朗布什爾省省長：目前並未收到任何撤離哈爾克島居民的申請，也未下發相關官方指令。
-
----
-
-### 2026-07-19 02:42:05  #其他
-
-市場資訊：自去年2月美伊衝突爆發以來，已有16名美軍士兵身亡，超430人受傷。
-
----
-
-### 2026-07-19 02:38:21  #焦點 #國際
-
-【仍有近200萬美國人至少半年未能進入勞動力市場】6月，失業半年及以上的美國求職者佔比達到27.3%，逼近2021年末以來的最高值。多項核心指標顯示，美國勞動力市場整體表現向好：經濟已連續四個月新增就業崗位，較去年年底大幅回暖，失業率緩慢降至4.2%。但仍有近200萬美國人失業時長至少達到半年。長期失業人群（失業27周及以上，為美國勞工部月度就業報告統計的最長失業分類）在6月全部失業人口中佔比27.3%，同比上升4個百分點。該比例已接近2021年末疫情衝擊後勞動力市場恢復期的峰值。長期失業隱患重重，多數求職者在失業滿六個月時，會喪失離職補償金或失業救濟金。聯邦資料顯示，白領群體失業週期最長，適齡青壯年受長期失業問題衝擊尤為嚴重。
-
----
-
-### 2026-07-19 02:36:19  #MKT News #WTI #Impact bullish #Brent
-
-【Iran first vice president says US attacked while MOU ink still wet】Iran’s First Vice President Mohammad‑Reza Aref told Fars news agency the US attacked Iran before the Iran‑US memorandum of understanding (MOU) had been finalised. Aref said the MOU had assigned Iran responsibility for managing navigation through the Strait of Hormuz for the initial 60 days, yet the US nonetheless launched an attack. He added both sides accuse each other of breaching MOU terms, including Article 5 requiring safe passage for merchant vessels through the Strait of Hormuz.
-
----
-
-### 2026-07-19 02:35:35  #國際
-
-評估資料顯示，烏克蘭無人機襲擊俄羅斯最大的電子商務零售商Wildberries倉庫並引發後續火災造成的損失至少達12億美元。烏方聲稱該倉庫被用於存放、供應FPV無人機零部件。
-
----
-
-### 2026-07-19 02:33:18  #國際
-
-【美軍連續七夜打擊伊朗設施 伊朗反擊多國美軍基地並封鎖海峽】美軍連續第七晚對伊朗境內多處偵察據點、武器倉庫及海上基礎設施發動打擊。伊朗展開反擊，襲擊了科威特、約旦、巴林境內的美軍基地；連續第二天打擊科威特電力與供水設施，致使科威特國際機場暫停航班運營。伊朗革命衛隊稱兩艘油輪在霍爾木茲海峽觸雷，但美軍對此予以否認。伊朗方面表示已扣押四艘試圖通行該海峽的船隻。布倫特原油價格重回每桶88美元上方。美軍打擊造成伊朗電力設施受損，伊朗官方呼籲民眾減少用電、停用空調。伊朗南部四省學校取消考試。伊朗官方媒體報道，此次襲擊已造成至少8人死亡、20人受傷。伊朗發出警告：美方若繼續發動打擊，將面臨伊朗的“全面進攻行動”。
 
 ---
