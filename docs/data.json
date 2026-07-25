@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-25 15:26:35",
-  "count": 18268,
+  "updated": "2026-07-25 15:30:41",
+  "count": 18267,
   "items": [
+    {
+      "id": "5007900",
+      "time": "2026-07-25 15:25:55",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "國泰航空：受颱風紅霞影響，取消部分往返香港機場的航班。受影響的是7月26日凌晨1點15分至下午6點之間的航班，少量其他航班也將延誤。"
+    },
     {
       "id": "5007899",
       "time": "2026-07-25 15:24:49",
@@ -167443,22 +167452,6 @@
         "國際"
       ],
       "text": "伊朗確定國家利益委員會穆扎法爾表示，伊朗之所以攻擊霍爾木茲海峽阿曼段的船隻，是因為敵人正透過阿曼水域運輸軍事裝備，威脅伊朗的國家安全。"
-    },
-    {
-      "id": "mkt:019f7421-53e6-7aab-8dee-5b94d5a9f46d",
-      "time": "2026-07-18 15:29:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market news: Bahrain's alarm systems continue sounding."
-    },
-    {
-      "id": "mkt:019f741f-f955-7aab-8dee-5454f121fe38",
-      "time": "2026-07-18 15:28:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet al-Hadath, citing Lebanese sources, says CENTCOM leadership is expected to visit Beirut next week to follow up on implementation of the framework agreement."
     }
   ]
 }
