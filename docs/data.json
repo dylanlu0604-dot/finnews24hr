@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-25 18:56:44",
-  "count": 18205,
+  "updated": "2026-07-25 19:00:43",
+  "count": 18203,
   "items": [
+    {
+      "id": "5007951",
+      "time": "2026-07-25 18:59:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【約旦譴責以色列定居者在約旦河西岸發動襲擊】當地時間25日，約旦外交與僑務部發表宣告，譴責以色列定居者針對約旦河西岸巴勒斯坦人的暴力行為不斷升級。宣告稱，最新一輪襲擊波及多個巴勒斯坦村莊，定居者縱火焚燒民宅、農田和車輛，大量砍伐樹木，並對當地巴勒斯坦居民實施襲擊。約旦外交與僑務部表示，約旦堅決譴責以色列定居者實施的上述暴力行徑，認為這些行為是以色列極右翼政府政策及其在約旦河西岸採取非法措施的延續，助長了針對巴勒斯坦人民的極端主義和暴力，破壞了以“兩國方案”為基礎實現和平的前景。約旦方面強調，以色列應對上述襲擊事件承擔全部責任。"
+    },
+    {
+      "id": "5007950",
+      "time": "2026-07-25 18:57:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞發生兩輛客車相撞事故，初步統計造成19人死亡，27人受傷。"
+    },
+    {
+      "id": "5007949",
+      "time": "2026-07-25 18:56:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國首個陸相斷陷湖盆頁岩油國家級示範區建成】國家能源局日前釋出《中國油氣勘探開發發展報告（2026）》顯示，勝利濟陽建成國內首個陸相斷陷湖盆頁岩油國家級示範區，建立大平臺立體開發高效建產模式，上報探明地質儲量3.27億噸，2025年頁岩油年產量突破70萬噸。頁岩油是以頁岩為主的頁岩層系中所含的石油資源，屬於非常規資源。勝利濟陽頁岩油國家級示範區是繼新疆吉木薩爾、大慶古龍國家級示範區之後，第三個頁岩油國家級示範區，旨在完善我國陸相斷陷湖盆頁岩油勘探開發技術體系，破解關鍵技術瓶頸，實現勘探開發重要突破，形成可複製、可推廣的高效勘探和開發模式。（新華社）"
+    },
     {
       "id": "mkt:019f98ea-f009-7aab-8e94-e7756393a0cf",
       "time": "2026-07-25 18:56:01",
@@ -166816,54 +166840,6 @@
         "XAUUSD"
       ],
       "text": "Kuwait's defense ministry said that since early today its forces detected hostile ballistic missiles and drones in Kuwaiti airspace and have intercepted and dealt with them. The ministry said Iran's attacks continued to strike multiple military and security sites and several critical infrastructure and civilian facilities, hitting oil and power-sector installations and causing fires and severe damage."
-    },
-    {
-      "id": "mkt:019f74e2-31e3-7aab-8df0-15020aeb1830",
-      "time": "2026-07-18 19:00:08",
-      "tags": [
-        "MKT News",
-        "AVNT.O",
-        "Impact bullish",
-        "LHX.O",
-        "LMT.O"
-      ],
-      "text": "Ukraine's Defense Ministry said the military signed roughly $7.5 billion of drone contracts in 1H2026, about double last year's total, with FPV drones accounting for the largest share."
-    },
-    {
-      "id": "mkt:019f74e0-e00f-7aab-8df0-0e9185199a66",
-      "time": "2026-07-18 18:58:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shanghai releases first difficult-case AI diagnostic evaluation benchmark】July 18, 2026 — At the medical forum of the World Artificial Intelligence Conference in Shanghai's Xuhui West Bund, Shanghai issued the industry's first evaluation benchmark for AI diagnosis of difficult clinical cases covering 30 clinical specialties to assess large medical models' ability to handle complex cases. The city's medical AI evaluation framework was upgraded to version 5.0, adding an 'atomic skills' assessment intended to detect and correct AI-generated false information."
-    },
-    {
-      "id": "4995475",
-      "time": "2026-07-18 18:57:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海釋出首個疑難病例AI診療評測基準】7月18日，2026世界人工智慧大會醫學分論壇在上海徐匯西岸舉行。論壇上，上海釋出了業界首個針對疑難病例的AI診療評測基準，覆蓋30個臨床專科，專門用於檢驗醫療大模型處理複雜病例的真實能力。同時，原有的醫療AI評測體系也更新到5.0版本，新增“原子技能”評測方式，可對AI模型生成的虛假資訊進行校正。在基礎設施方面，上海市衛生健康行業算力服務中心正式揭牌，打通了從算力供給、資料合成到模型訓練、智慧應用的全鏈條。預計到2026年底，上海醫療健康語料庫規模將超過2PB，資料準備週期可縮短超六成。論壇還發布了《2026人工智慧+衛生健康上海實踐》案例集，梳理了AI在臨床輔助決策、患者就醫、中醫智慧化、基層公共衛生、醫院管理等七大場景的應用經驗。目前，上海已獲批國家醫療領域人工智慧應用中試基地，覆蓋全部七大醫療應用場景。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f74df-62e5-7aab-8df0-07f7f37b45ea",
-      "time": "2026-07-18 18:57:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENC reported a magnitude 5.3 earthquake at 18:36 on July 18 in Tajikistan (37.70°N, 72.55°E); hypocenter depth 140 km."
-    },
-    {
-      "id": "mkt:019f74df-3cae-7aab-8def-f8c404339101",
-      "time": "2026-07-18 18:56:54",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "ILNA: Lebanese parliament speaker said the immediate priority is a full Israeli troop withdrawal from Lebanese territory and an end to the occupation."
     }
   ]
 }
