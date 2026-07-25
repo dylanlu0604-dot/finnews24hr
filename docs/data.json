@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-25 09:46:31",
+  "updated": "2026-07-25 09:50:29",
   "count": 18238,
   "items": [
+    {
+      "id": "mkt:019f96f5-8dd0-7aab-8e91-ad5576f0d8d0",
+      "time": "2026-07-25 09:48:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran military says it will carry out proportionate strikes on US forces】Iran's health ministry said on July 24 that US airstrikes between June 27 and July 24 11:00 local time had killed 59 people and wounded 666 inside Iran. The commander of the Khatam al-Anbiya Central Command said Iran has adopted a battlefield principle of striking one US service member for each Iranian civilian killed and that the policy would be implemented immediately."
+    },
+    {
+      "id": "mkt:019f96f5-2e69-7aab-8e91-a7ced6c05e19",
+      "time": "2026-07-25 09:47:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Nicaragua revokes appointment of ambassador to Colombia】Nicaragua said in an official gazette on July 24 it has revoked the appointment of its ambassador to Colombia, Harold de Jesús Delgado, effective July 22. The move was presented as a response to Colombia’s incoming foreign minister, Omar Bra Escobar, stating he will not establish a diplomatic mission in Managua."
+    },
+    {
+      "id": "5007746",
+      "time": "2026-07-25 09:47:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在白宮晚宴上講話： 我懷疑這個地方是迄今為止聚集在一起的最大一群特朗普妄想症患者。"
+    },
+    {
+      "id": "mkt:019f96f4-5586-7aab-8e91-984e57d92256",
+      "time": "2026-07-25 09:47:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN: At the White House Correspondents' Dinner, President Trump joked it was \"not easy\" to watch critical reporting win awards, rhetorically asking, \"Do I have a say on these awards?\""
+    },
     {
       "id": "5007745",
       "time": "2026-07-25 09:45:34",
@@ -167047,38 +167083,6 @@
         "其他"
       ],
       "text": "【雲南貴州至長江中下游等地有較強降雨 華北東北降雨頻繁】今天（7月18日）起，南方雨帶明顯南壓，較強降雨將集中在雲南、貴州至長江中下游一帶。與此同時，華北、東北降雨將再度進入集中期，未來一週多陣雨或雷陣雨天氣。氣溫方面，隨著副熱帶高壓減弱東退以及降雨增多，長江中下游高溫會大幅收斂，合肥、武漢、南京、長沙等地將陸續退出高溫圈。（央視新聞）"
-    },
-    {
-      "id": "4995225",
-      "time": "2026-07-18 09:49:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體報道，霍拉馬巴德地區傳出爆炸聲。"
-    },
-    {
-      "id": "mkt:019f72ea-4dde-7aab-8dec-f6eca6f72d0e",
-      "time": "2026-07-18 09:49:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian media reported explosions were heard in the Khorramabad area."
-    },
-    {
-      "id": "4995224",
-      "time": "2026-07-18 09:48:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黃賢君被開除黨籍、取消退休待遇】據國家金融監督管理總局江蘇監管局紀委、無錫市紀委監委訊息：日前，國家金融監督管理總局江蘇監管局紀委、江蘇省無錫市監委對原無錫銀保監分局黨委委員、副局長黃賢君嚴重違紀違法問題立案審查調查。"
-    },
-    {
-      "id": "4995223",
-      "time": "2026-07-18 09:47:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國航司半年訂購476架空客飛機】記者發現，近一年來，空客公司已從中國多家航司收穫了近500架飛機大單，目錄價值近千億美元。（第一財經）"
     }
   ]
 }
