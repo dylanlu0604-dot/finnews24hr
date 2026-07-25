@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-26 04:55:10",
+  "updated": "2026-07-26 04:58:59",
   "count": 18133,
   "items": [
+    {
+      "id": "5008141",
+      "time": "2026-07-26 04:55:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗召見烏克蘭代辦，就伊朗商船遇襲事件提出交涉。"
+    },
+    {
+      "id": "mkt:019f9b0f-90de-7aab-8e97-079634674990",
+      "time": "2026-07-26 04:55:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "IRNA reported Iran summoned Ukraine's acting chargé d'affaires over an attack on an Iranian merchant vessel."
+    },
     {
       "id": "5008140",
       "time": "2026-07-26 04:48:00",
@@ -166124,22 +166141,6 @@
         "國際"
       ],
       "text": "美國國防部長：美軍人員遇難一事“堅定了我們的決心”。"
-    },
-    {
-      "id": "mkt:019f7704-9ce6-7aab-8df3-6f9d5b27bddc",
-      "time": "2026-07-19 04:56:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian Foreign Minister Araghchi held a phone call with Iraqi Foreign Minister Fouad Hussein to discuss the Middle East situation and bilateral cooperation."
-    },
-    {
-      "id": "mkt:019f7704-25f6-7aab-8df3-64f398c294c4",
-      "time": "2026-07-19 04:56:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanese President Aoun has arrived in Washington and will meet US Secretary of State Rubio tomorrow, followed by a meeting with US President Trump next Tuesday."
     }
   ]
 }
