@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-26 05:06:39_
-_本檔包含 3581 則快訊，約 686544 字_
+_更新時間：2026-07-26 06:07:18_
+_本檔包含 3582 則快訊，約 686269 字_
+
+---
+
+### 2026-07-26 06:01:19  #其他
+
+中央氣象臺7月26日06時繼續釋出強對流天氣黃色預警。
+
+---
+
+### 2026-07-26 06:00:57  #其他 #焦點
+
+中央氣象臺7月26日06時繼續釋出暴雨紅色預警。
+
+---
+
+### 2026-07-26 06:00:27  #其他
+
+中央氣象臺7月26日06時繼續釋出高溫黃色預警。
+
+---
+
+### 2026-07-26 06:00:14  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Ukrainian Air Force says Russian forces are launching ballistic-missile strikes on Kyiv.
+
+---
+
+### 2026-07-26 06:00:07  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Kyiv mayor says the city was hit in a Russian attack; falling debris ignited fires in at least three districts.
+
+---
+
+### 2026-07-26 05:58:58  #國際
+
+基輔市長：基輔遭俄軍襲擊，墜落的碎片在至少三個區引發火災。
+
+---
+
+### 2026-07-26 05:58:54  #國際
+
+烏克蘭空軍表示，俄羅斯部隊正使用彈道導彈打擊基輔。
+
+---
+
+### 2026-07-26 05:51:10  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Series of explosions heard within Kyiv; city earlier sounded air-raid sirens.
+
+---
+
+### 2026-07-26 05:50:43  #國際
+
+【烏克蘭基輔傳出連續爆炸聲】當地時間26日，烏克蘭基輔市內傳出連續爆炸聲。此前基輔拉響防空警報。
+
+---
+
+### 2026-07-26 05:50:13  #國際
+
+伊朗外長在與歐盟外交與安全政策高階代表卡拉斯通話時，譴責烏克蘭襲擊伊朗船隻的行為。
+
+---
+
+### 2026-07-26 05:41:37  #其他
+
+德國警方：柏林25日晚發生一起汽車衝撞行人事件，已造成一人死亡。
+
+---
+
+### 2026-07-26 05:36:01  #MKT News #WTI #Impact bullish #Brent
+
+CENTCOM said on July 24 it took measures in the Gulf of Oman to halt the Mozambique‑flagged tanker "Lavine" after the crew repeatedly attempted to breach a blockade and ignored repeated warnings. The vessel is no longer en route to Iran.
+
+---
+
+### 2026-07-26 05:33:52  #MKT News
+
+CENTCOM said earlier today US forces in the Arabian Sea conducted a boarding inspection of the Comoros-flagged tanker Charminar; the vessel has since resumed transit.
+
+---
+
+### 2026-07-26 05:33:19  #MKT News #WTI #Impact bullish #Brent
+
+CENTCOM said the US maritime blockade of Iran remains fully enforced. As of July 25 it had forced 12 commercial vessels attempting to breach the blockade to change course, disabled two noncompliant vessels' ability to navigate, and boarded two vessels for inspection to ensure compliance.
+
+---
+
+### 2026-07-26 05:32:37  #國際
+
+美國中央司令部：今日早些時候，美軍在阿拉伯海對葛摩籍油輪查米納爾號完成核查登船作業，該油輪現已恢復航行。7月24日，阿曼灣海域，莫三比克籍油輪拉維恩號船員多次企圖突破封鎖、無視我方反覆警告，中央司令部部隊對該船實施裝備癱瘓處置，目前這艘油輪已停止駛往伊朗的航行。
+
+---
+
+### 2026-07-26 05:32:05  #國際
+
+美國中央司令部：針對伊朗的海上封鎖措施仍全面生效。截至7月25日，中央司令部已截停12艘試圖突破封鎖的民用商船，癱瘓2艘拒不配合的船隻，並登檢2艘以確保其完全遵守封鎖規定。
+
+---
+
+### 2026-07-26 05:28:47  #其他
+
+【德國柏林發生汽車衝撞行人事件致多人受傷】據德國警方訊息，德國首都柏林25日晚發生一起汽車衝撞行人事件，造成多人受傷，警方正在搜捕犯罪嫌疑人。（新華社）
+
+---
+
+### 2026-07-26 05:28:12  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Iranian Students' News Agency (ISNA), citing Iraqi sources, reported multiple large explosions and a widespread fire at the Jambur oilfield in Kirkuk province, Iraq.
+
+---
+
+### 2026-07-26 05:27:11  #國際
+
+【伊朗要求伊拉克償還110億美元的天然氣進口欠款 】伊拉克總理阿里·扎伊迪近期訪問德黑蘭期間，伊朗方面要求伊拉克償還累計約110億美元的伊朗天然氣進口欠款。巴格達方面告知德黑蘭，目前無力全額清償欠款；而伊朗拒絕了伊拉克提出的透過替代方案償還部分債務的提議。
+
+---
+
+### 2026-07-26 05:19:15  #MKT News
+
+【Car rams into pedestrians in Berlin, several injured】German police said a vehicle struck pedestrians in Berlin on the evening of the 25th, injuring multiple people; officers are searching for the suspect.
+
+---
+
+### 2026-07-26 05:07:18  #國際
+
+伊朗陸軍發言人：軍方目前正在使用比阿拉什-2更為先進的攻擊無人機。
+
+---
+
+### 2026-07-26 05:06:17  #其他
+
+馬斯克：受人工智慧與機器人技術發展影響，“2036年金錢將失去實際意義”。
 
 ---
 
@@ -21502,131 +21634,5 @@ Southern's 2x short Tesla product (07366.HK) rose more than 15% after reports th
 ### 2026-07-24 09:30:43  #MKT News
 
 A-shares humanoid-robotics sector opened lower; Lude Xiebo fell nearly 6%, Top Group slipped over 4%, while Sanhua Zhikong, Haozhi Jidian, Guoji Jinggong and Buke Co. also declined.
-
----
-
-### 2026-07-24 09:30:39  #市場
-
-滬深300指數下跌1%至4,679.00點。
-
----
-
-### 2026-07-24 09:30:38  #市場 #焦點
-
-創業板指跌2.04%，現報3502.473點；上證指數跌0.69%，現報3850.023點；深證成指跌1.73%，現報13878.769點。
-
----
-
-### 2026-07-24 09:30:32  #市場 #焦點
-
-中證500指數期貨連續主力合約日內跌2%，現報7450.40點。
-
----
-
-### 2026-07-24 09:30:30  #市場 #焦點
-
-滬深300指數期貨連續主力合約日內跌1%，現報4612.40點。
-
----
-
-### 2026-07-24 09:30:03  #市場
-
-【國債期貨開盤】 30年期主力合約跌0.08%， 10年期主力合約跌0.02%， 5年期主力合約跌0.02%， 2年期主力合約跌0.01%。
-
----
-
-### 2026-07-24 09:30:03  #市場 #焦點
-
-北證50日內跌幅達1.34%，成分股中，戈碧迦跌4.80%，聚星科技跌4.10%，雲星宇跌3.28%，則成電子跌2.56%。
-
----
-
-### 2026-07-24 09:30:03  #市場 #焦點
-
-科創50日內跌幅達1.31%，成分股中，華虹宏力跌4.07%，盛科通訊跌3.56%，源傑科技跌3.11%，芯原股份跌2.69%。
-
----
-
-### 2026-07-24 09:30:03  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續跌1.18%， 滬深300指數期貨連續跌0.85%， 中證500指數期貨連續跌1.07%， 上證50指數期貨連續跌0.18%。
-
----
-
-### 2026-07-24 09:29:23  #公司
-
-【AMD：第二代AI伺服器Helios已全面量產，預計三季末開始出貨】AMD執行長蘇姿豐當地時間7月23日表示，搭載MI455X AI加速器和Venice處理器的第二代AI伺服器Helios已進入全面量產階段，預計將於第三季末開始出貨。
-
----
-
-### 2026-07-24 09:29:19  #市場 #焦點
-
-鉑連續主力合約日內跌4%，現報395.50元。
-
----
-
-### 2026-07-24 09:29:17  #MKT News #Commodities #Precious Metals #CSI300 #Impact bearish
-
-China A-share precious metals sector opened sharply lower; Hunan Baiyin opened down more than 7%, with Shanjin International, Chifeng Gold, Xiaocheng Technology and Western Gold also sliding.
-
----
-
-### 2026-07-24 09:29:07  #公司 #市場
-
-【深交所：“肇民轉債”盤中臨時停牌】深交所公告，“肇民轉債”（123275）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。
-
----
-
-### 2026-07-24 09:29:00  #市場 #焦點
-
-中證1000指數期貨連續主力合約日內跌1%，現報7000.00點。
-
----
-
-### 2026-07-24 09:28:56  #MKT News
-
-N Changying opened 265.27% higher.
-
----
-
-### 2026-07-24 09:28:55  #其他
-
-N長鷹開漲265.27%。
-
----
-
-### 2026-07-24 09:27:51  #國際
-
-【OPEC+或從9月起再次上調石油產量目標】據報道，知情人士稱稱，OPEC+產油國聯盟很可能在8月2日開會時同意從9月起進一步提高產量目標，儘管伊朗戰事再次導致部分成員國難以增產。據悉，OPEC+七個核心成員國很可能將9月產量目標提高約18.8萬桶/日，與6-8月的增幅相同。
-
----
-
-### 2026-07-24 09:27:46  #其他
-
-【黑龍江省釋出暴雨紅色預警】黑龍江省氣象臺2026年7月24日8時50分發布暴雨紅色預警訊號：過去2小時綏化市慶安、北林的部分鄉鎮降水量已達70～80毫米，預計未來1小時還將有30～50毫米的降水，累計雨量將超過100毫米，請注意防範。
-
----
-
-### 2026-07-24 09:27:40  #MKT News #Important #Market Regions #Greater China #Commodities #Energy #CSI300 #Impact bullish #WTI #Brent
-
-A-share oil services and engineering sector opened higher; Zhongman Petroleum up >8%, Keli up >5%, with Qianeng Hengxin, Tongyuan Petroleum, Bomaike, Haiyou Engineering, Zhongyou Engineering and CNOOC oilfield services also rising. The New York Times reports Iranian and Iraqi officials say Iran on Thursday rejected a ceasefire proposal from U.S. President Trump that had been delivered to Tehran by the Iraqi prime minister.
-
----
-
-### 2026-07-24 09:27:34  #市場
-
-【貴金屬板塊大幅低開】貴金屬板塊大幅低開，湖南白銀低開超7%，山金國際、赤峰黃金、曉程科技、西部黃金跟跌。
-
----
-
-### 2026-07-24 09:27:22  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #CSI300 #SZSE Component
-
-China's Shanghai Composite Index opened down 23.15 points (-0.60%) at 3,853.63 on Friday, July 24; Shenzhen Composite Index opened down 208.27 points (-1.47%) at 13,915.04; CSI 300 Index opened down 42.59 points (-0.90%) at 4,685.41; ChiNext Index opened down 60.02 points (-1.68%) at 3,515.50; STAR 50 Index opened down 23.43 points (-1.31%) at 1,766.26.
-
----
-
-### 2026-07-24 09:27:18  #國際
-
-【中國政府拉美事務特別代表邱小琪會見厄瓜多多黨議員考察團】7月23日，中國政府拉美事務特別代表邱小琪會見由厄瓜多國會厄中議員友好小組主席薩拉薩爾率領的多黨議員考察團。邱小琪表示，建交46年來，中厄關係始終保持良好發展勢頭。去年6月，習近平主席同來華出席夏季達沃斯論壇的諾沃亞總統會晤，兩國元首共同為中厄關係發展指明方向。今年是中厄建立全面戰略伙伴關係10週年，中方願同厄方落實好兩國元首共識，進一步鞏固政治互信，密切各領域合作，推動中厄關係再上新臺階。薩拉薩爾表示，厄國會各黨派在加強厄中友好上有高度共識。厄方堅定恪守一箇中國原則，願同中方深化政治互信，拓展經貿、文化、科技、旅遊、農業等各領域合作，更好造福兩國人民。（外交部網站）
 
 ---

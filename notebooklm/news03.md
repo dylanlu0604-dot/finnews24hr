@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-26 05:06:39_
-_本檔包含 3500 則快訊，約 686702 字_
+_更新時間：2026-07-26 06:07:18_
+_本檔包含 3502 則快訊，約 686274 字_
+
+---
+
+### 2026-07-23 07:49:00  #公司 #市場 #國際
+
+【特斯拉第二財季營收飆升 向AI和機器人領域投入58億美元 公司股價盤後跌逾4%】為著眼於AI和機器人技術驅動的未來，汽車製造商特斯拉第二財季支出增至58億美元，導致其自由現金流兩年來首次轉為負值，儘管當季收入大幅增長。“今年是資本支出大年，但我相信我們投資的所有專案都將產生令人難以置信的回報，”執行長埃隆.馬斯克週三在電話會議上對投資者表示。儘管馬斯克信心滿滿，特斯拉股價在週三盤後交易中依然下跌逾4%。財報顯示，特斯拉第二季度自由現金流為負11億美元，淨利潤下降5%。該公司當季每股收益為33美分，不及華爾街預期。總體而言，特斯拉當季收入增至280億美元，較上年同期增長26%。儘管面臨美國需求疲軟和競爭加劇的雙重困境，其核心汽車業務收入仍同比增長了23%。
+
+---
+
+### 2026-07-23 07:47:54  #市場 #國際
+
+【日經指數或維持區間震盪；市場關注伊朗衝突】隨著伊朗衝突的不確定性持續存在，日本股市可能維持區間震盪。新加坡交易所的日經指數期貨上漲0.4%，報66330點。在美國總統特朗普威脅稱如果伊朗攻擊過境霍爾木茲海峽的船隻，將摧毀伊朗基礎設施之後，投資者正關注中東局勢發展和原油價格。日經指數週三下跌0.2%，至66115.60點。
+
+---
+
+### 2026-07-23 07:47:34  #市場 #國際
+
+基準10年期日本國債期貨早盤下跌0.25點。
+
+---
+
+### 2026-07-23 07:44:50  #公司
+
+【優步裁減10%的客服崗位，理由是“擁抱”人工智慧】優步科技公司表示，作為精簡人員架構、全面擁抱人工智慧整體戰略的一環，公司已裁撤客服業務10%的崗位。優步一名發言人透過郵件透露，公司於週三公佈了社群運營團隊的裁員計劃，稱此次調整旨在“簡化運營流程、強化線下協作，並持續推進人工智慧落地應用”。該發言人補充，按照公司全員返崗辦公要求，該團隊原遠端辦公員工也需前往線下中心辦公室履職。
+
+---
+
+### 2026-07-23 07:44:28  #MKT News #Commodities #Industrial Metals #Macro & Rates #The Fed (FOMC) #Copper #Impact bullish
+
+【CSC Financial: Copper, aluminum demand growth to improve】CSC Financial says industrial metal prices reflect both financial and commodity attributes; the Fed has begun an easing cycle and global copper and aluminum inventories are relatively low. With an expected Chinese economic rebound and continued demand from the new energy sector, CSC says copper and aluminum demand growth should pick up.
+
+---
+
+### 2026-07-23 07:43:56  #觀點 #央行 #國際
+
+【中信建投：銅鋁需求增長將有所好轉】中信建投研報稱，工業金屬價格由“金融屬性”及“商品屬性”共同決定，從金融屬性來看，美聯儲已開啟降息週期；從商品屬性來看，全球銅鋁庫存均處於相對低位，中國經濟復甦可期，疊加新能源行業的拉動，銅鋁需求增長將有所好轉。
+
+---
+
+### 2026-07-23 07:43:52  #市場
+
+日經指數期貨在新加坡交易所開盤上漲175點，報66235點。
+
+---
+
+### 2026-07-23 07:40:40  #公司
+
+麥格理即將履新的執行長格雷格·沃德表示，該行所有業務長期來看都實現了增長，平臺整體佈局態勢良好。
+
+---
+
+### 2026-07-23 07:40:24  #國際
+
+美國國家颶風中心表示，熱帶風暴"伯莎"正從路易斯安那州東南部略偏西南方向移動。
+
+---
+
+### 2026-07-23 07:39:51  #其他
+
+馬斯克：用 Grok 製作影片遊戲很容易。
+
+---
+
+### 2026-07-23 07:39:06  #央行 #國際
+
+【韓國經濟增速超預期 晶片熱帶來持續推動】受人工智慧驅動的晶片行業繁榮推動，韓國經濟第二季度增速超出預期，這也為進一步加息提供了依據。韓國央行週四表示，第二季度國內生產總值環比增長0.6%，第一季度增幅為1.8%。這一數字高於彭博調查經濟學家的預期中值0.4%。雖然較第一季度的2021年底以來最快增速的出色表現有所放緩，但週四公佈的資料延續了此前一系列強於預期的經濟資料，這些資料促使政府、央行和國際貨幣基金組織多次上調韓國經濟增長預期。這將為央行官員在未來幾個月考慮再次加息提供依據，此前他們於上週進行了自2023年以來的首次加息。對經濟學家的調查顯示，他們預計10月還會再有一次行動，少數人預測可能會在8月27日的會議上發生。
+
+---
+
+### 2026-07-23 07:37:54  #公司
+
+【上證報：穩市場聚合力 證監會系列座談會釋放四大訊號】7月20日至21日，從投資者、上市公司到行業機構、專家學者，中國證監會以少見的密度和廣度舉行系列座談會，圍繞促進資本市場穩定健康發展聽取意見建議。此外，中國證監會主席吳清會見外資基金公司，就投資中國資本市場等議題交換意見。這背後，釋放出四大政策訊號：——堅定穩市決心，全力維護市場平穩執行。投資者座談會上傳遞出一個清晰判斷：新“國九條”實施以來，我國資本市場總體呈現穩中向好發展態勢。“9·26”以來資本市場政策邏輯、創新邏輯、安全邏輯沒有改變，短期波動不改變長期向好趨勢。——明確市場重心，強調以投資者為本。系列座談會最鮮明的特徵，是將“投資者”置於核心位置。吳清強調，廣大投資者是市場之本，是資本市場最重要的參與群體。——強調公平交易，嚴打違法違規行為。維護公開、公平、公正的市場秩序，是系列座談會的重要議題。其中，“規範量化交易和AI應用”“加大市場違法違規懲處力度”成為討論的核心話題。——匯聚穩市力量，政策“組合拳”協同發力。穩市不僅需要決心，更需要方法。系列座談會彙集市場各方力量，有望形成系列可行的政策工具箱。
 
 ---
 
@@ -21194,65 +21266,5 @@ Chubb earnings above expectations at 7.26 USD — Chubb (CB) released earnings p
 ### 2026-07-22 04:21:30  #MKT News #Important #SMCI.O #Impact bullish
 
 【Super Micro sharply raises gross-margin guidance; shares surge after hours】Super Micro Computer (SMCI.O) said it expects fiscal Q4 revenue near the low end of its $11.0-12.5 bln guidance and now forecasts Q4 gross margin of 15-17%, versus prior guidance of 8.2-8.4%. Backlog at fiscal year-end reached a record high, and the quarter booked more than $60 bln of new orders for future delivery. Shares rose over 20% in after-hours trading.
-
----
-
-### 2026-07-22 04:20:29  #國際
-
-【美國擬不遲於週五加徵新關稅 銜接即將到期的臨時性10%全球關稅】知情人士稱，美國總統特朗普準備不遲於週五對數十個經濟體商品加徵新關稅。此舉旨在確保即使臨時性的10%全球關稅到期，其關稅體系仍可維持。特朗普政府上月提議，以強迫勞動為由對60個貿易伙伴徵收至少10%的新關稅。知情人士稱，總統的團隊正準備在本週結束前實施這些關稅，但目前尚不清楚最終稅率是否會偏離最初提案。
-
----
-
-### 2026-07-22 04:20:09  #MKT News #Important #Commodities #Energy #WTI
-
-U.S. API weekly crude oil stocks for week to July 17 due in 10 minutes.
-
----
-
-### 2026-07-22 04:18:13  #其他
-
-【吉利德預計Q2收購產生的內部研發資產費用達112億美元】吉利德表示，第二季度收購形成的112億美元內部研發資產費用，對應公認會計准則口徑及調整後每股收益約產生9.12美元的一次性損益，其中包含相關交易所帶來的稅務影響。
-
----
-
-### 2026-07-22 04:16:03  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
-
-【Zelenskiy dismisses armed forces commander Sersky amid nationwide protests】Ukraine President Zelenskiy has dismissed Armed Forces Commander-in-Chief Sersky and appointed Joint Forces commander Mykhailo Drlapati as his replacement, the Kyiv Independent reports. The move comes amid large protests across Kyiv and other cities demanding Sersky’s removal and the reinstatement of popular reformist Defence Minister Fedorov, whom Zelenskiy sacked last week. Fedorov said at a post-dismissal press conference that Sersky had issued Zelenskiy an ultimatum. Tensions between Fedorov and Sersky, reflecting divergent approaches to military leadership and organisation — Sersky favouring a highly centralised, Soviet-style command — were long-running. MPs, veterans and protesters criticised the decision, warning that removing Fedorov could undermine Defence Ministry reforms and raise concerns about military leadership.
-
----
-
-### 2026-07-22 04:14:31  #國際
-
-【澤連斯基任命德拉帕蒂為烏克蘭武裝部隊總司令】烏克蘭總統澤連斯基當地時間21日晚釋出影片講話，宣佈由德拉帕蒂接替瑟爾斯基出任烏克蘭武裝部隊總司令。
-
----
-
-### 2026-07-22 04:13:29  #市場
-
-戴爾、慧與股價跟隨超微電腦走高，上漲3%。
-
----
-
-### 2026-07-22 04:13:18  #市場 #焦點
-
-超微電腦盤後漲超26%。
-
----
-
-### 2026-07-22 04:12:30  #MKT News #FFIE.O #Impact bearish
-
-Faraday Future (FFIE.O) will implement a 150-for-1 reverse stock split before market open on July 24, 2026.
-
----
-
-### 2026-07-22 04:12:14  #國際
-
-美國防長赫格塞思向國會申請1.5萬億美元撥款，用於新設“戰爭部”，這意味著軍費將大幅擴張；隨後他又將五角大樓還需追加5000億美元預算的緣由歸咎於喬·拜登。
-
----
-
-### 2026-07-22 04:12:10  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-US Stocks Advance on Chipmaker Rally — US stock indices closed higher on Tuesday as a rally in chipmakers lifted the broader market. The S&P 500 added 0.9%, the Nasdaq 100 advanced 1.9%, and the Dow Jones gained 385 points. Semiconductor stocks extended their rebound from last week's rout after strong export data from Taiwan and South Korea reinforced optimism for the sector. Nvidia gained 2% after saying its latest chip designs are reaching customers, while Intel climbed 8.6% on plans for job cuts. Micron (+12.2%), Sandisk (+14.3%), and AMD (+8.1%) surged. The sector rallied ahead of Alphabet's (-1.4%) earnings on Wednesday, which are expected to provide fresh signals on AI infrastructure demand from hyperscalers. Meanwhile, other sectors stabilized despite further escalation between the US and Iran and the resulting rise in oil prices. Treasury yields remained elevated, limiting gains in financial stocks. Elsewhere, GM rose 4.9 % after reporting earnings, while Charles Schwab fell 2.5% after missing estimates.
 
 ---

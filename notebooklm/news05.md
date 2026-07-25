@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-26 05:06:39_
-_本檔包含 3444 則快訊，約 685842 字_
+_更新時間：2026-07-26 06:07:18_
+_本檔包含 3444 則快訊，約 686108 字_
+
+---
+
+### 2026-07-20 22:22:04  #央行 #國際
+
+Nassau 1982銀行首席經濟學Win Thin表示：“加拿大央行採取的觀望策略似乎是正確的選擇，這也暗示了美聯儲和英國央行應採取同樣的策略。”
+
+---
+
+### 2026-07-20 22:21:25  #MKT News
+
+U.S. authorities seized more than 1,000 domain names tied to illegal live streams of World Cup matches.
+
+---
+
+### 2026-07-20 22:20:51  #MKT News
+
+Fars News Agency reports explosions heard in Shiraz, Iran.
+
+---
+
+### 2026-07-20 22:20:39  #市場
+
+智利中央銀行以平均每盎司932.48智利比索的價格賣出7300萬美元外匯遠期合約。
+
+---
+
+### 2026-07-20 22:20:26  #國際
+
+市場訊息：伊朗設拉子傳出爆炸聲。
+
+---
+
+### 2026-07-20 22:19:49  #公司
+
+【天創時尚：擬2.2億元收購迅微精密部分股權並增資1.8億元】天創時尚公告稱，公司擬以2.2億元自有資金收購關聯方持有的安徽迅微精密工業有限公司24.4444%的股權，同時對其增資1.8億元。本次股權轉讓及增資完成後，公司對迅微精密的持股比例為37.0370%，並派駐1位董事。公司將透過該股權收購事項尋求新發展機遇，創造新利潤增長點。該議案已透過相關會議審議，將在2026年8月5日的臨時股東會上提請審議，關聯股東需迴避表決。
+
+---
+
+### 2026-07-20 22:19:28  #MKT News #BA.N #Impact bullish
+
+U.S. appeals court overturned a class-action lawsuit against Boeing Co (BA.N) stemming from a 737 MAX 9 cabin-door separation incident.
+
+---
+
+### 2026-07-20 22:18:20  #其他
+
+【汽車第一省成功衛冕】國家統計局最新資料顯示，2026年上半年，安徽省汽車產量達168.67萬輛，位居全國各省份之首。這也是安徽繼2025年上半年、2025年全年登頂全國汽車產量榜首後，再次成功實現衛冕。 從總量來看，安徽以168.67萬輛的絕對優勢穩居第一，廣東（137.85萬輛）、浙江（117.4萬輛）、江蘇（112.2萬輛）分列二至四位。 新能源汽車領域，安徽同樣表現搶眼，上半年產量達88.18萬輛，繼續位居全國第一，浙江以85.57萬輛的微弱劣勢屈居第二，上海（72.67萬輛）和江蘇（69.6萬輛）緊隨其後。
+
+---
+
+### 2026-07-20 22:17:16  #MKT News #Market Regions #Europe & UK
+
+【US requests to deploy tankers to Bulgaria to support Middle East operations】Bulgarian Prime Minister Radev said on the 20th the government received a US request on the 17th to deploy up to eight air-to-air refuelling tankers to Bezmer airbase to support Middle East military operations. The US cited the 2006 bilateral defence cooperation agreement that permits US use of Bulgarian bases; the government has not approved the deployment and will submit a proposal to parliament, as Bulgarian law requires parliamentary approval for such moves.
+
+---
+
+### 2026-07-20 22:15:36  #國際
+
+市場訊息：安迪·伯納姆剛剛與美國總統特朗普進行了他出任英國首相後的首次通話。
+
+---
+
+### 2026-07-20 22:14:19  #其他
+
+多哈銀行上半年淨利潤為4.36億里亞爾。
+
+---
+
+### 2026-07-20 22:14:18  #MKT News #Important #Brent #Impact bullish #WTI
+
+Market sources: a tanker managed by Greek firm Dynacom Tankers Management was attacked in the Strait of Hormuz.
+
+---
+
+### 2026-07-20 22:13:51  #其他
+
+上海市氣象臺2026年07月20日22時07分更新中心城區暴雨黃色預警訊號為暴雨藍色預警訊號：預計今天半夜以前，中心城區大部仍將出現一小時雨量30-40毫米的短時強降水天氣，暴雨黃色預警訊號更新為暴雨藍色預警訊號，請注意防範強降雨可能引發的城市積澇。（上海天氣）
+
+---
+
+### 2026-07-20 22:13:19  #MKT News
+
+British political reports say Andy Burnham has just had his first call with US President Trump since assuming office as prime minister.
+
+---
+
+### 2026-07-20 22:12:27  #國際
+
+【美請求在保加利亞部署加油機以支援中東戰事】保加利亞總理拉德夫20日稱，保加利亞政府已收到美國在保加利亞貝茲梅爾空軍基地部署至多8架加油機的請求，將提請議會批准。 拉德夫表示，政府17日收到美方此項旨在支援其中東軍事行動的請求。美方援引了2006年簽署的兩國政府間防務合作協議。該協議允許美軍使用貝茲梅爾空軍基地等保境內基地。 拉德夫說，儘管美方緊急提出部署請求，但保政府尚未批准，因為根據保加利亞法律，須由議會作出此類決定。政府將向議會提議允許這些加油機部署在貝茲梅爾空軍基地。 拉德夫說，美軍加油機今年2月部署在索非亞機場，保加利亞時任政府繞過議會對此予以許可。隨後，看守內閣延長了美方加油機的駐留時間。5月底，由於美方在保加利亞公民入境美國簽證問題上未給予保方想要的積極回應，拉德夫領導的新政府將授權期限縮短至6月30日。美軍軍機於6月底撤離。（新華社）
+
+---
+
+### 2026-07-20 22:11:50  #MKT News #Commodities #Energy
+
+【KPMG: Canada's energy-cost pass-through to consumer prices not yet evident】KPMG Canada chief economist Ali Jaffery said June CPI shows limited evidence that rising energy costs have transmitted to food and other goods. Headline inflation slowed to 2.8% in June from 3.2% in May. Jaffery noted academic literature suggests such pass-through can take a year or more to peak, so the slow start is encouraging, and said concerns that higher energy prices combined with U.S. tariffs are accelerating goods inflation are not borne out. Excluding travel services the CPI basket shows "considerable weakness"; travel services rose in June amid World Cup matches in Toronto and Vancouver.
 
 ---
 
@@ -20698,101 +20794,5 @@ Saudi satellite TV reports a loud explosion at Abbas Port.
 ### 2026-07-19 06:19:14  #國際
 
 美國中央司令部：打擊行動旨在削弱伊朗威脅航運的能力。
-
----
-
-### 2026-07-19 06:03:00  #公司 #國際
-
-美國食品藥品監督管理局（FDA）：泰勒農場已確認，這批檢測呈陽性的碎冰山生菜不屬於該公司當前召回範圍。
-
----
-
-### 2026-07-19 06:02:16  #MKT News
-
-【Israeli military says explosive that killed Lebanese soldier was not its device】Israeli military said the explosive that killed a Lebanese soldier earlier today in Mansouri, southern Lebanon, was not its device. Lebanon’s army said a "suspicious object" inside a military vehicle exploded in the southern town, killing one soldier and wounding another. The Israeli military said the Lebanese vehicle ran over the device in the border "security zone", that Israeli troops had not been operating in the area recently, and that the device may have been emplaced by Hezbollah.
-
----
-
-### 2026-07-19 06:01:48  #公司 #國際
-
-美國食品藥品監督管理局（FDA）：泰勒農場墨西哥分公司供應的碎冰山萵苣樣本檢測出環孢子菌呈陽性。
-
----
-
-### 2026-07-19 05:59:17  #國際
-
-美國國務卿魯比奧向古巴喊話：釋放700名遭不公正關押的政治犯。
-
----
-
-### 2026-07-19 05:55:12  #國際
-
-美國食品藥品監督管理局：泰勒農場生菜環孢子蟲檢測呈陽性，泰勒農場正在核查涉事產品是否已流入消費者手中。
-
----
-
-### 2026-07-19 05:54:12  #MKT News #Market Themes #AI Revolution
-
-Former White House AI policy official and OpenAI director of strategic futures Dean Bower said Kimi K3 is a very capable model; in agent-programming scenarios its performance appears broadly comparable to the best public models from Q1 2026.
-
----
-
-### 2026-07-19 05:45:52  #MKT News
-
-Samsung Electronics' U.S. unit cut 739 jobs in New Jersey.
-
----
-
-### 2026-07-19 05:44:59  #公司 #國際
-
-三星電子美國分公司將在新澤西州裁員739人。
-
----
-
-### 2026-07-19 05:35:50  #公司
-
-OpenAI與Anthropic均表示不會利用企業客戶的提示詞開展模型訓練，但企業仍會因員工使用聊天機器人、反饋工具以及留存的使用資料產生資訊洩露風險。兩家公司的競品廠商正藉助企業的這類顧慮，主推私密性更強的替代產品。
-
----
-
-### 2026-07-19 05:35:23  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iranian government: Iranian foreign minister Araghchi and Iraqi foreign minister Fouad Hussein discussed latest regional developments following a US military strike on Iran, Washington’s repeated violations of the Islamabad Memorandum of Understanding, and Iran’s responses to those actions.
-
----
-
-### 2026-07-19 05:31:47  #國際
-
-沙特、科威特外交部長譴責伊朗在該地區實施的“惡劣襲擊”。
-
----
-
-### 2026-07-19 05:26:10  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Trump: "Completely doesn't care" after Iran suspends compliance with interim agreement】Per NewsNation, US President Trump reiterated that Iran "cannot and should not" possess nuclear weapons. After Iran announced it would suspend compliance with commitments under an interim agreement, Trump said he "completely doesn't care."
-
----
-
-### 2026-07-19 05:22:54  #國際
-
-【特朗普：痛心美軍士兵遇難，絕不允許伊朗擁核，無視協議停擺】美國總統特朗普稱兩名美軍人員在約旦遇難一事“令人萬分痛心”。他表示：“我們不願看到這樣的悲劇發生，這些軍人是為國效力。”同時再次強調，伊朗“不能、也絕不應該擁有核武器”。此後伊朗宣佈暫停履行臨時協議相關承諾，特朗普對此表示自己“毫不在意”。
-
----
-
-### 2026-07-19 05:22:27  #MKT News
-
-NewsNation reported President Trump, in his first response after two US service members were killed in an Iranian attack, called the deaths "very sad" and said they were serving the country.
-
----
-
-### 2026-07-19 05:15:11  #MKT News
-
-【UAE urges immediate halt to escalation】The UAE Foreign Ministry called for an immediate end to hostilities and resumption of talks amid recent regional developments, warned any attack on civilian infrastructure breaches international law and is unacceptable, and stressed securing the Strait of Hormuz to ensure uninterrupted navigation.
-
----
-
-### 2026-07-19 05:09:42  #國際
-
-【伊前副石油部長：美在阿聯酋建基地募僱傭兵，籌備九月入侵伊朗南部】伊朗前石油部副部長阿斯加爾·易卜拉欣-阿斯勒於週六聲稱，美國正在阿聯酋等國修建大型軍事基地，並招募外籍僱傭兵，為入侵伊朗做準備。他表示，美方潛在打擊目標包括格什姆島、哈爾克島部分割槽域以及伊朗南部海岸多處地帶，還稱美國或將推遲地面進攻行動，等到9月氣候轉涼後再實施。
 
 ---

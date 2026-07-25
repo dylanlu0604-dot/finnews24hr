@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-26 05:06:39_
-_本檔包含 3817 則快訊，約 686506 字_
+_更新時間：2026-07-26 06:07:18_
+_本檔包含 3811 則快訊，約 686164 字_
+
+---
+
+### 2026-07-22 04:20:29  #國際
+
+【美國擬不遲於週五加徵新關稅 銜接即將到期的臨時性10%全球關稅】知情人士稱，美國總統特朗普準備不遲於週五對數十個經濟體商品加徵新關稅。此舉旨在確保即使臨時性的10%全球關稅到期，其關稅體系仍可維持。特朗普政府上月提議，以強迫勞動為由對60個貿易伙伴徵收至少10%的新關稅。知情人士稱，總統的團隊正準備在本週結束前實施這些關稅，但目前尚不清楚最終稅率是否會偏離最初提案。
+
+---
+
+### 2026-07-22 04:20:09  #MKT News #Important #Commodities #Energy #WTI
+
+U.S. API weekly crude oil stocks for week to July 17 due in 10 minutes.
+
+---
+
+### 2026-07-22 04:18:13  #其他
+
+【吉利德預計Q2收購產生的內部研發資產費用達112億美元】吉利德表示，第二季度收購形成的112億美元內部研發資產費用，對應公認會計准則口徑及調整後每股收益約產生9.12美元的一次性損益，其中包含相關交易所帶來的稅務影響。
+
+---
+
+### 2026-07-22 04:16:03  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
+
+【Zelenskiy dismisses armed forces commander Sersky amid nationwide protests】Ukraine President Zelenskiy has dismissed Armed Forces Commander-in-Chief Sersky and appointed Joint Forces commander Mykhailo Drlapati as his replacement, the Kyiv Independent reports. The move comes amid large protests across Kyiv and other cities demanding Sersky’s removal and the reinstatement of popular reformist Defence Minister Fedorov, whom Zelenskiy sacked last week. Fedorov said at a post-dismissal press conference that Sersky had issued Zelenskiy an ultimatum. Tensions between Fedorov and Sersky, reflecting divergent approaches to military leadership and organisation — Sersky favouring a highly centralised, Soviet-style command — were long-running. MPs, veterans and protesters criticised the decision, warning that removing Fedorov could undermine Defence Ministry reforms and raise concerns about military leadership.
+
+---
+
+### 2026-07-22 04:14:31  #國際
+
+【澤連斯基任命德拉帕蒂為烏克蘭武裝部隊總司令】烏克蘭總統澤連斯基當地時間21日晚釋出影片講話，宣佈由德拉帕蒂接替瑟爾斯基出任烏克蘭武裝部隊總司令。
+
+---
+
+### 2026-07-22 04:13:29  #市場
+
+戴爾、慧與股價跟隨超微電腦走高，上漲3%。
+
+---
+
+### 2026-07-22 04:13:18  #市場 #焦點
+
+超微電腦盤後漲超26%。
+
+---
+
+### 2026-07-22 04:12:30  #MKT News #FFIE.O #Impact bearish
+
+Faraday Future (FFIE.O) will implement a 150-for-1 reverse stock split before market open on July 24, 2026.
+
+---
+
+### 2026-07-22 04:12:14  #國際
+
+美國防長赫格塞思向國會申請1.5萬億美元撥款，用於新設“戰爭部”，這意味著軍費將大幅擴張；隨後他又將五角大樓還需追加5000億美元預算的緣由歸咎於喬·拜登。
+
+---
+
+### 2026-07-22 04:12:10  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+US Stocks Advance on Chipmaker Rally — US stock indices closed higher on Tuesday as a rally in chipmakers lifted the broader market. The S&P 500 added 0.9%, the Nasdaq 100 advanced 1.9%, and the Dow Jones gained 385 points. Semiconductor stocks extended their rebound from last week's rout after strong export data from Taiwan and South Korea reinforced optimism for the sector. Nvidia gained 2% after saying its latest chip designs are reaching customers, while Intel climbed 8.6% on plans for job cuts. Micron (+12.2%), Sandisk (+14.3%), and AMD (+8.1%) surged. The sector rallied ahead of Alphabet's (-1.4%) earnings on Wednesday, which are expected to provide fresh signals on AI infrastructure demand from hyperscalers. Meanwhile, other sectors stabilized despite further escalation between the US and Iran and the resulting rise in oil prices. Treasury yields remained elevated, limiting gains in financial stocks. Elsewhere, GM rose 4.9 % after reporting earnings, while Charles Schwab fell 2.5% after missing estimates.
 
 ---
 
@@ -22885,101 +22945,5 @@ Lumber Hits 49-week High — Lumber increased to 642.50 USD/1000 board feet, the
 ### 2026-07-20 22:22:26  #其他
 
 【元腦伺服器推出CXL記憶體跨代擴充套件方案】7月20日，元腦伺服器宣佈推出CXL（Compute Express Link）記憶體跨代擴充套件方案，實現DDR5和DDR4同機部署記憶體擴容。據介紹，基於元腦伺服器NF5280，在24條本地DDR5記憶體基本配置下，透過自研CXL記憶體擴充套件卡，單機最多可擴充套件16條DDR4記憶體，按照單條記憶體32GB容量，額外擴充套件512GB記憶體，整機記憶體容量提升33%，成本大幅降低25%。目前，該方案已在國內某大型網際網路客戶完成驗證並實現規模應用。
-
----
-
-### 2026-07-20 22:22:04  #央行 #國際
-
-Nassau 1982銀行首席經濟學Win Thin表示：“加拿大央行採取的觀望策略似乎是正確的選擇，這也暗示了美聯儲和英國央行應採取同樣的策略。”
-
----
-
-### 2026-07-20 22:21:25  #MKT News
-
-U.S. authorities seized more than 1,000 domain names tied to illegal live streams of World Cup matches.
-
----
-
-### 2026-07-20 22:20:51  #MKT News
-
-Fars News Agency reports explosions heard in Shiraz, Iran.
-
----
-
-### 2026-07-20 22:20:39  #市場
-
-智利中央銀行以平均每盎司932.48智利比索的價格賣出7300萬美元外匯遠期合約。
-
----
-
-### 2026-07-20 22:20:26  #國際
-
-市場訊息：伊朗設拉子傳出爆炸聲。
-
----
-
-### 2026-07-20 22:19:49  #公司
-
-【天創時尚：擬2.2億元收購迅微精密部分股權並增資1.8億元】天創時尚公告稱，公司擬以2.2億元自有資金收購關聯方持有的安徽迅微精密工業有限公司24.4444%的股權，同時對其增資1.8億元。本次股權轉讓及增資完成後，公司對迅微精密的持股比例為37.0370%，並派駐1位董事。公司將透過該股權收購事項尋求新發展機遇，創造新利潤增長點。該議案已透過相關會議審議，將在2026年8月5日的臨時股東會上提請審議，關聯股東需迴避表決。
-
----
-
-### 2026-07-20 22:19:28  #MKT News #BA.N #Impact bullish
-
-U.S. appeals court overturned a class-action lawsuit against Boeing Co (BA.N) stemming from a 737 MAX 9 cabin-door separation incident.
-
----
-
-### 2026-07-20 22:18:20  #其他
-
-【汽車第一省成功衛冕】國家統計局最新資料顯示，2026年上半年，安徽省汽車產量達168.67萬輛，位居全國各省份之首。這也是安徽繼2025年上半年、2025年全年登頂全國汽車產量榜首後，再次成功實現衛冕。 從總量來看，安徽以168.67萬輛的絕對優勢穩居第一，廣東（137.85萬輛）、浙江（117.4萬輛）、江蘇（112.2萬輛）分列二至四位。 新能源汽車領域，安徽同樣表現搶眼，上半年產量達88.18萬輛，繼續位居全國第一，浙江以85.57萬輛的微弱劣勢屈居第二，上海（72.67萬輛）和江蘇（69.6萬輛）緊隨其後。
-
----
-
-### 2026-07-20 22:17:16  #MKT News #Market Regions #Europe & UK
-
-【US requests to deploy tankers to Bulgaria to support Middle East operations】Bulgarian Prime Minister Radev said on the 20th the government received a US request on the 17th to deploy up to eight air-to-air refuelling tankers to Bezmer airbase to support Middle East military operations. The US cited the 2006 bilateral defence cooperation agreement that permits US use of Bulgarian bases; the government has not approved the deployment and will submit a proposal to parliament, as Bulgarian law requires parliamentary approval for such moves.
-
----
-
-### 2026-07-20 22:15:36  #國際
-
-市場訊息：安迪·伯納姆剛剛與美國總統特朗普進行了他出任英國首相後的首次通話。
-
----
-
-### 2026-07-20 22:14:19  #其他
-
-多哈銀行上半年淨利潤為4.36億里亞爾。
-
----
-
-### 2026-07-20 22:14:18  #MKT News #Important #Brent #Impact bullish #WTI
-
-Market sources: a tanker managed by Greek firm Dynacom Tankers Management was attacked in the Strait of Hormuz.
-
----
-
-### 2026-07-20 22:13:51  #其他
-
-上海市氣象臺2026年07月20日22時07分更新中心城區暴雨黃色預警訊號為暴雨藍色預警訊號：預計今天半夜以前，中心城區大部仍將出現一小時雨量30-40毫米的短時強降水天氣，暴雨黃色預警訊號更新為暴雨藍色預警訊號，請注意防範強降雨可能引發的城市積澇。（上海天氣）
-
----
-
-### 2026-07-20 22:13:19  #MKT News
-
-British political reports say Andy Burnham has just had his first call with US President Trump since assuming office as prime minister.
-
----
-
-### 2026-07-20 22:12:27  #國際
-
-【美請求在保加利亞部署加油機以支援中東戰事】保加利亞總理拉德夫20日稱，保加利亞政府已收到美國在保加利亞貝茲梅爾空軍基地部署至多8架加油機的請求，將提請議會批准。 拉德夫表示，政府17日收到美方此項旨在支援其中東軍事行動的請求。美方援引了2006年簽署的兩國政府間防務合作協議。該協議允許美軍使用貝茲梅爾空軍基地等保境內基地。 拉德夫說，儘管美方緊急提出部署請求，但保政府尚未批准，因為根據保加利亞法律，須由議會作出此類決定。政府將向議會提議允許這些加油機部署在貝茲梅爾空軍基地。 拉德夫說，美軍加油機今年2月部署在索非亞機場，保加利亞時任政府繞過議會對此予以許可。隨後，看守內閣延長了美方加油機的駐留時間。5月底，由於美方在保加利亞公民入境美國簽證問題上未給予保方想要的積極回應，拉德夫領導的新政府將授權期限縮短至6月30日。美軍軍機於6月底撤離。（新華社）
-
----
-
-### 2026-07-20 22:11:50  #MKT News #Commodities #Energy
-
-【KPMG: Canada's energy-cost pass-through to consumer prices not yet evident】KPMG Canada chief economist Ali Jaffery said June CPI shows limited evidence that rising energy costs have transmitted to food and other goods. Headline inflation slowed to 2.8% in June from 3.2% in May. Jaffery noted academic literature suggests such pass-through can take a year or more to peak, so the slow start is encouraging, and said concerns that higher energy prices combined with U.S. tariffs are accelerating goods inflation are not borne out. Excluding travel services the CPI basket shows "considerable weakness"; travel services rose in June amid World Cup matches in Toronto and Vancouver.
 
 ---
