@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26 05:51:42",
-  "count": 18137,
+  "updated": "2026-07-26 05:55:37",
+  "count": 18135,
   "items": [
     {
       "id": "mkt:019f9b42-bfe4-7aab-8e97-333f1be74beb",
@@ -166160,24 +166160,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧向古巴喊話：釋放700名遭不公正關押的政治犯。"
-    },
-    {
-      "id": "4995703",
-      "time": "2026-07-19 05:55:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局：泰勒農場生菜環孢子蟲檢測呈陽性，泰勒農場正在核查涉事產品是否已流入消費者手中。"
-    },
-    {
-      "id": "mkt:019f7739-018e-7aab-8df3-9e5f201e52ef",
-      "time": "2026-07-19 05:54:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Former White House AI policy official and OpenAI director of strategic futures Dean Bower said Kimi K3 is a very capable model; in agent-programming scenarios its performance appears broadly comparable to the best public models from Q1 2026."
     }
   ]
 }
