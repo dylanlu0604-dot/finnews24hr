@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 03:04:49",
-  "count": 18139,
+  "updated": "2026-07-26 03:10:00",
+  "count": 18137,
   "items": [
+    {
+      "id": "5008120",
+      "time": "2026-07-26 03:04:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基：俄羅斯持續對海灣國家及其境內美軍設施開展衛星偵察活動】烏克蘭總統澤連斯基表示，自7月初以來，烏方監測到俄羅斯持續對海灣國家及其境內美軍設施開展衛星偵察活動。他表示，這些衛星影像隨後會流轉至伊朗手中。與此同時，俄軍拍攝的目標點位衛星圖與伊朗發動的打擊行動存在明確關聯：無論是襲擊前的目標籌備定位，還是襲擊結束後用於評估損毀程度，伊朗都在依託俄方衛星資料行動。澤連斯基舉例：僅7月19日、20日兩天，就有四座空軍基地被俄羅斯衛星重點監測，其中兩座位於巴林、一座位於約旦、一座位於科威特，俄方此舉意圖十分明確。"
+    },
     {
       "id": "5008119",
       "time": "2026-07-26 03:01:53",
@@ -166186,40 +166194,6 @@
         "XAUUSD"
       ],
       "text": "Reports say the US is carrying out airstrikes on Iran's southern Bandar Abbas port. Local residents reported hearing three to five explosions across the port."
-    },
-    {
-      "id": "mkt:019f76a1-93c9-7aab-8df2-db729fe94abb",
-      "time": "2026-07-19 03:08:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Preliminary reports indicate an explosion at Iran's port city Bandar Abbas."
-    },
-    {
-      "id": "4995672",
-      "time": "2026-07-19 03:06:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗港口城市阿巴斯港發生爆炸。"
-    },
-    {
-      "id": "mkt:019f769d-f2ec-7aab-8df2-d720b6fd4a28",
-      "time": "2026-07-19 03:04:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said U.S. forces continue to strictly enforce a maritime blockade against Iran. As of July 18, CENTCOM has diverted five merchant vessels and rendered one vessel inoperable."
     }
   ]
 }
