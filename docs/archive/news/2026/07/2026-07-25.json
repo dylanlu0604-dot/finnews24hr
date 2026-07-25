@@ -1,7 +1,36 @@
 {
   "date": "2026-07-25",
-  "count": 705,
+  "count": 708,
   "items": [
+    {
+      "id": "5007852",
+      "time": "2026-07-25 13:04:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【VC價格一個多月漲幅超40%，廠商限量供貨】電解液新增劑碳酸亞乙烯酯（VC）又漲價了！百川盈孚資料顯示，7月24日VC均價為20萬元/噸，近一個多月漲幅超40%；其中7月23日單日跳漲2萬元/噸，時隔4年多再破20萬元/噸關口。受產品漲價刺激，A股VC板塊迎來大漲。7月23日，孚日股份等多股漲停。“明顯感覺供應緊張起來了，目前大多數VC廠商都限量供貨，不再是想要多少就能拿到多少。”華中地區一位電解液企業相關負責人告訴證券時報記者，現階段VC廠都很強勢，賬款哪怕逾期一天，第二天就停止發貨了。"
+    },
+    {
+      "id": "mkt:019f97a8-aa14-7aab-8e93-4df6290bf525",
+      "time": "2026-07-25 13:04:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【Electrolyte additive VC up over 40% in a month; producers ration supply】Vinylene carbonate (VC), an electrolyte additive for lithium-ion batteries, averaged 200,000 yuan/ton on July 24, up more than 40% in just over a month, Baichuan Yingfu data show. On July 23 the price jumped 20,000 yuan/ton in a single day, topping 200,000 yuan/ton for the first time in over four years. The surge spurred a sharp rally in A-share VC-related names, with multiple stocks including Furi Co. hitting daily trading limits on July 23. Market participants report tightening supply: most VC producers are rationing volumes and have stopped shipments if payments are even one day overdue."
+    },
+    {
+      "id": "5007851",
+      "time": "2026-07-25 13:02:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "科威特與黑石集團、布魯克菲爾德和KKR簽署價值160億美元的管道建設協議。"
+    },
     {
       "id": "mkt:019f97a3-b72b-7aab-8e93-454dab0c7aee",
       "time": "2026-07-25 12:58:36",
