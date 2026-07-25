@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-25 18:05:01",
-  "count": 18202,
+  "updated": "2026-07-25 18:09:03",
+  "count": 18204,
   "items": [
+    {
+      "id": "mkt:019f98bf-497c-7aab-8e94-bcbcb29302a3",
+      "time": "2026-07-25 18:08:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine attacked vessels in the Caspian Sea transporting Iranian military materiel."
+    },
+    {
+      "id": "5007929",
+      "time": "2026-07-25 18:07:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，烏克蘭襲擊了裡海海域上涉及伊朗軍事貨物運輸的船隻。"
+    },
     {
       "id": "5007928",
       "time": "2026-07-25 17:56:55",
