@@ -1,7 +1,42 @@
 {
   "date": "2026-07-26",
-  "count": 15,
+  "count": 19,
   "items": [
+    {
+      "id": "5008090",
+      "time": "2026-07-26 00:51:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗石油部：在戰爭期間售出了價值115億美元的石油，停火期間售出了價值65億美元的石油。"
+    },
+    {
+      "id": "mkt:019f9a30-2e2d-7aab-8e96-05da648a9743",
+      "time": "2026-07-26 00:51:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Iran's oil ministry said it sold $11.5 bln of oil during the war and $6.5 bln during the ceasefire."
+    },
+    {
+      "id": "mkt:019f9a2f-bfd4-7aab-8e95-fae2ef6536de",
+      "time": "2026-07-26 00:50:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shenzhen issues red typhoon warning】Typhoon \"Hongxia\" (strong typhoon) will bring severe wind and rain to Shenzhen; eastern Shenzhen will enter a 12-level wind circle. At 00:30 on July 26 the Shenzhen Meteorological Observatory upgraded typhoon warnings: Yantian, Pingshan, Dapeng New District, Dapeng Bay, Daya Bay and parts of Longgang (Pingdi, Longcheng, Longgang, Baolong, Yuanshan subdistricts) were raised from orange to red. Luohu, Nanshan, Futian, Bao'an, Guangming, Longhua, the Pearl River estuary, Shenzhen Bay and other parts of Longgang (Pinghu, Nanwan, Bantian, Henggang, Jihua subdistricts) were raised from yellow to orange."
+    },
+    {
+      "id": "5008089",
+      "time": "2026-07-26 00:50:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達與埃及外交部長於多哈舉行會晤，就地區穩定及緩和局勢的相關舉措展開磋商。"
+    },
     {
       "id": "5008088",
       "time": "2026-07-26 00:47:12",
