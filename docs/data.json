@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-26 00:07:30",
-  "count": 18174,
+  "updated": "2026-07-26 00:12:38",
+  "count": 18171,
   "items": [
+    {
+      "id": "5008083",
+      "time": "2026-07-26 00:11:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "目擊者釋出影片顯示：一架俄軍蘇-35S戰鬥機正在列寧格勒州上空追擊獵殺烏軍FP-1無人機。交戰結果未知。"
+    },
+    {
+      "id": "mkt:019f9a08-97a5-7aab-8e95-b8807b9cf753",
+      "time": "2026-07-26 00:08:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【APEC issues chair's statement from High-Level Roundtable on Data for Growth】The 2026 APEC High-Level Roundtable on Data for Growth met in Chengdu on the 25th and issued a Chair’s Statement focused on data’s role in promoting innovation, raising productivity and driving economic growth, and outlining future cooperation priorities. The statement, citing rapid advances in digital technology and AI, calls for APEC data cooperation to shift from “managing data” to “using data,” moving beyond a primary focus on privacy protection and cross-border flow rules to, while safeguarding security, cover the full chain of data supply, flow, application and value creation to enable growth."
+    },
     {
       "id": "5008082",
       "time": "2026-07-26 00:03:55",
@@ -166497,54 +166515,6 @@
         "MKT News"
       ],
       "text": "【AIPAC removes online donation links for House Democrats who voted to halt U.S. military aid to Israel】Politico and other outlets report AIPAC’s political action committee has removed online donation options for more than ten House Democrats who had previously supported U.S. military aid to Israel but recently voted to halt it, including House Democratic No.2 Katherine Clark. AIPAC spokesman Darin Sousa said, \"AIPAC members are very grateful to representatives who stood by their position and disappointed in those who did not.\""
-    },
-    {
-      "id": "4995615",
-      "time": "2026-07-19 00:12:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗霍爾木茲甘省有關部門警告當地居民，鑑於美國可能發動新一輪襲擊，在另行通知前，請避免在省內各公路進行非必要出行。"
-    },
-    {
-      "id": "4995614",
-      "time": "2026-07-19 00:10:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱烏無人機襲擊致9死 烏稱打擊俄物流樞紐】俄羅斯多地17日夜到18日上午遭烏克蘭無人機襲擊，已造成9人死亡、數十人受傷。烏克蘭總統澤連斯基18日說，烏軍成功打擊俄兩處物流樞紐和一處石油設施。"
-    },
-    {
-      "id": "mkt:019f75fc-bf7b-7aab-8df1-a3abb3f0ec69",
-      "time": "2026-07-19 00:08:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Iran desalination plant struck; drinking water cut for 10,000】Iranian sources said on the 18th that US strikes on Hormozgan province infrastructure continued, hitting the Benji desalination plant west of Jask. Seawater intake pumps and associated power transformers were destroyed, cutting drinking water to about 10,000 people across 20 villages, Hormozgan Water and Wastewater Company CEO Abdul Hamid Hamzehpour said. Company crews are supplying emergency water and repairing equipment to restore service as soon as possible."
-    },
-    {
-      "id": "4995613",
-      "time": "2026-07-19 00:08:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方稱，其發現了一個真主黨小組，該小組一直在安全區和以色列士兵附近操作無人機並藏匿。"
-    },
-    {
-      "id": "mkt:019f75fc-04a8-7aab-8df1-9adf6b220d9f",
-      "time": "2026-07-19 00:07:58",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Israeli military said that after detecting a drone the Israeli Air Force located a Hezbollah armed group in the area and struck them to remove a threat to Israeli soldiers conducting nearby operations."
     }
   ]
 }
