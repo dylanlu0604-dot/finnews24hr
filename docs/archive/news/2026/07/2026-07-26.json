@@ -1,7 +1,35 @@
 {
   "date": "2026-07-26",
-  "count": 115,
+  "count": 118,
   "items": [
+    {
+      "id": "mkt:019f9b42-bfe4-7aab-8e97-333f1be74beb",
+      "time": "2026-07-26 05:51:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Series of explosions heard within Kyiv; city earlier sounded air-raid sirens."
+    },
+    {
+      "id": "5008151",
+      "time": "2026-07-26 05:50:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭基輔傳出連續爆炸聲】當地時間26日，烏克蘭基輔市內傳出連續爆炸聲。此前基輔拉響防空警報。"
+    },
+    {
+      "id": "5008150",
+      "time": "2026-07-26 05:50:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長在與歐盟外交與安全政策高階代表卡拉斯通話時，譴責烏克蘭襲擊伊朗船隻的行為。"
+    },
     {
       "id": "5008149",
       "time": "2026-07-26 05:41:37",
