@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25 15:38:51",
-  "count": 18262,
+  "updated": "2026-07-25 15:43:02",
+  "count": 18261,
   "items": [
     {
       "id": "5007901",
@@ -167402,16 +167402,6 @@
         "AAPL.O"
       ],
       "text": "【Apple raises iPhone prices in Japan】Apple raised official iPhone prices in Japan on the 17th, citing yen weakness and a surge in semiconductor costs. Multiple models were repriced on Apple’s Japan website; the high-end iPhone 17 Pro Max was increased from ¥194,800 to ¥214,800, a ¥20,000 rise (about 834.6 yuan), roughly +10.3%. Analysts said the change likely reflects exchange-rate-driven price adjustments."
-    },
-    {
-      "id": "mkt:019f742b-750c-7aab-8dee-6cc2bc2c1695",
-      "time": "2026-07-18 15:40:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【PatSnap unveils four upgraded AI products at WAIC 2026】PatSnap unveiled four upgraded products at the 2026 World Artificial Intelligence Conference in Shanghai (July 17–20): the Eureka AI Agent platform, Eureka desktop, a patent-database AI model, and an open platform, positioning the company to shift from delivering tools to delivering outcomes. PatSnap also showcased more than 50 AI agent products at the event."
     }
   ]
 }
