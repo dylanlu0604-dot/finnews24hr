@@ -1,7 +1,23 @@
 {
   "date": "2026-07-26",
-  "count": 86,
+  "count": 88,
   "items": [
+    {
+      "id": "mkt:019f9ae6-cb63-7aab-8e96-e62b110ca47e",
+      "time": "2026-07-26 04:10:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Broadcasting Corporation says a drone that crashed near the residence of Israel's national security minister, Itamar Ben-Gvir, carried only a camera."
+    },
+    {
+      "id": "mkt:019f9ae6-3aac-7aab-8e96-d978559ee5f0",
+      "time": "2026-07-26 04:10:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An IRGC spokesperson said the current conflict is not a full-scale war but a response to U.S. aggression."
+    },
     {
       "id": "mkt:019f9ae3-01b4-7aab-8e96-d02c02b35e61",
       "time": "2026-07-26 04:06:36",
