@@ -1,7 +1,16 @@
 {
   "date": "2026-07-25",
-  "count": 809,
+  "count": 810,
   "items": [
+    {
+      "id": "mkt:019f9893-6692-7aab-8e94-83bc01f02d1a",
+      "time": "2026-07-25 17:20:24",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Social media reported widespread outages rendering OpenAI's ChatGPT and Codex unavailable."
+    },
     {
       "id": "mkt:019f988a-4e5f-7aab-8e94-7b2a179162ba",
       "time": "2026-07-25 17:10:28",
