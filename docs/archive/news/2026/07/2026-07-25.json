@@ -1,7 +1,23 @@
 {
   "date": "2026-07-25",
-  "count": 516,
+  "count": 518,
   "items": [
+    {
+      "id": "5007726",
+      "time": "2026-07-25 09:05:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI稱將釋出Hugging Face被黑事件技術報告】OpenAI：我們注意到，圍繞抱抱臉系統（Hugging Face）被入侵事件流傳著許多疑問和各種猜測。我們正與外部顧問合作，並在安全與安保委員會的監督下，繼續進行全面審查。審查完成後，我們計劃在未來幾周內釋出一份技術報告，分享我們從中汲取的經驗與見解。"
+    },
+    {
+      "id": "mkt:019f96cd-f708-7aab-8e91-30ccca00b094",
+      "time": "2026-07-25 09:05:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【OpenAI to publish technical report on Hugging Face breach】OpenAI said it is conducting a comprehensive review of the Hugging Face system breach, working with external advisers under the oversight of its Security and Safety Committee, and plans to publish a technical report in the coming weeks outlining lessons learned and findings."
+    },
     {
       "id": "5007724",
       "time": "2026-07-25 09:01:39",
