@@ -1,7 +1,23 @@
 {
   "date": "2026-07-26",
-  "count": 76,
+  "count": 78,
   "items": [
+    {
+      "id": "mkt:019f9acb-4647-7aab-8e96-b08b5b9b98b4",
+      "time": "2026-07-26 03:40:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli reports said a drone crashed near the residence of Israeli national security minister Ben-Gvir in Hebron; details are under investigation."
+    },
+    {
+      "id": "5008127",
+      "time": "2026-07-26 03:39:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體：一架無人機在國家安全部長希伯倫本-格維爾住宅附近墜毀，相關細節正在調查中。"
+    },
     {
       "id": "5008126",
       "time": "2026-07-26 03:33:31",
