@@ -1,7 +1,29 @@
 {
   "date": "2026-07-25",
-  "count": 730,
+  "count": 732,
   "items": [
+    {
+      "id": "mkt:019f97ca-f0b0-7aab-8e93-97b06c480b26",
+      "time": "2026-07-25 13:41:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Saudi-led coalition confirms strikes on Yemen’s Houthi forces】Saudi-led multinational coalition spokesman Major General Turki al-Maliki said on July 25 the coalition’s military operations struck Houthi military targets linked to threats against Red Sea shipping."
+    },
+    {
+      "id": "5007867",
+      "time": "2026-07-25 13:41:24",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【沙特證實多國聯軍打擊葉門胡塞武裝】沙特主導的多國聯軍官方發言人圖爾基·馬利基少將今天（7月25日）表示，多國聯軍軍事行動打擊的是胡塞武裝的軍事目標，這些目標與對紅海航運的威脅有關。馬利基少將表示，葉門荷臺達港並未遭到襲擊，包括荷臺達、拉斯伊薩和薩利夫在內的所有葉門港口均對海上航行開放，並正常運營，接收運載食品、貨物、燃料和建築材料的商船。飛往葉門機場的航班也正常運營。胡塞武裝繼續拒絕允許航班從薩那國際機場起飛，並堅持圍困葉門人民。 (CCTV國際時訊)"
+    },
     {
       "id": "5007866",
       "time": "2026-07-25 13:38:20",
