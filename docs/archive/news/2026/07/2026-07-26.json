@@ -1,7 +1,25 @@
 {
   "date": "2026-07-26",
-  "count": 19,
+  "count": 21,
   "items": [
+    {
+      "id": "mkt:019f9a33-0456-7aab-8e96-097a14eecc25",
+      "time": "2026-07-26 00:54:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Iran's oil ministry says it has achieved over 60% of its annual oil revenue budget target despite war and sanctions."
+    },
+    {
+      "id": "5008091",
+      "time": "2026-07-26 00:53:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗石油部：儘管面臨戰爭與制裁，伊朗已實現預算中年度石油收入預期的60%以上。"
+    },
     {
       "id": "5008090",
       "time": "2026-07-26 00:51:24",
