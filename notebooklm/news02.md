@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-26 01:36:16_
-_本檔包含 3781 則快訊，約 687835 字_
+_更新時間：2026-07-26 02:32:51_
+_本檔包含 3777 則快訊，約 687460 字_
+
+---
+
+### 2026-07-24 09:08:42  #其他
+
+【上半年我國農業保險已賠付460億元】國家金融監督管理總局今天（24日）公佈的資料顯示，今年上半年，我國農業保險保費規模居全球首位，提供風險保障3.31萬億元。資料顯示，2026年上半年，全國農業保險保費收入1093億元，為8300萬戶次農戶提供風險保障3.31萬億元。上半年，我國農業保險已向受災農戶支付賠款460億元，受益農戶1597萬戶次。種植業中糧食作物保險已支付賠款89億元；養殖業保險支付賠款257.7億元，其中生豬保險支付賠款135.8億元，同比增長18.4%。
+
+---
+
+### 2026-07-24 09:08:04  #國際
+
+蓋洛普民調顯示，韓國總理李在明 的支援率從52%降至51%。
+
+---
+
+### 2026-07-24 09:07:45  #MKT News #Copper #Impact bullish
+
+【China-ASEAN foreign ministers joint statement: further strengthen regional grid interconnection】China and ASEAN foreign ministers issued a joint statement agreeing to explore a cooperation mechanism to bolster regional energy security and resilience. They said they will further strengthen regional grid interconnection, energy supply chains, clean, low-carbon and renewable energy deployment, energy-technology innovation and civil nuclear cooperation. The ministers endorsed the ASEAN Energy Cooperation Action Plan (2026–2030) and said they would seek cooperation opportunities under China’s Global Development Initiative and the Belt and Road. Subject to mutual agreement, they plan to mobilize public‑private financing and leverage platforms including the ASEAN Centre for Energy, the China‑ASEAN Clean Energy Cooperation Center, multilateral development banks, international financial institutions and the China‑ASEAN Investment Cooperation Fund to support projects.
+
+---
+
+### 2026-07-24 09:07:12  #央行 #市場 #國際
+
+【油價走高 菲律賓比索創歷史新低】國際油價持續上漲，菲律賓比索匯率跌至全新歷史低位，該國央行面臨加大護匯力度的壓力。週五比索兌美元貶值0.1%，報61.83，跌破4月末創下的61.75歷史最低紀錄。本月原油價格漲幅超30%，重創亞洲石油進口國貨幣，印度與菲律賓央行本週均已入場干預匯市。小費迪南德・馬科斯政府表態，相信央行會果斷出手穩定比索匯率。今年以來比索累計貶值近5%，位列亞洲表現最差貨幣之一。
+
+---
+
+### 2026-07-24 09:06:45  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #XAUUSD
+
+【China-ASEAN foreign ministers joint statement welcomes ongoing diplomatic contacts in the Middle East】China-ASEAN foreign ministers issued a joint statement on addressing the regional impact of developments in the Middle East and on strengthening regional energy cooperation. The statement welcomed ongoing diplomatic contacts, including Pakistan- and Qatar-mediated talks between the United States and Iran backed by other parties, and urged parties to pursue multilateral, sincere dialogue and a peaceful, lasting resolution through diplomacy in accordance with the UN Charter and international law.
+
+---
+
+### 2026-07-24 09:05:44  #公司
+
+【蘇文電能新設子公司 含通用航空服務業務】企查查APP顯示，近日，南京驛充科技有限公司成立，經營範圍包含通用航空服務；民用航空器維修；航空運營支援服務；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由蘇文電能(300982)全資持股。
 
 ---
 
@@ -22799,65 +22835,5 @@ b、AI Mode/ AI Overviews對傳統搜尋廣告模式的衝擊與變現。
 c、谷歌雲相比競爭對手的差異化優勢。
 
 管理層認為：核心在於自研晶片（TPU）與GPU混合部署的全棧優勢，以及從基礎大模型（Gemini）到資料安全、Agent平臺的全套垂直整合。大量企業客戶選擇將傳統雲工作負載遷移至谷歌雲，正是為了更好地對接Gemini的生態。
-
----
-
-### 2026-07-23 07:11:14  #MKT News
-
-Arizona health department confirms first Clade I MPOX case in the state; risk to the general public remains low.
-
----
-
-### 2026-07-23 07:10:36  #其他
-
-【多數新上市企業招股書已明顯“瘦身” 港股招股書監管見成效】港股IPO招股書正變得更“乾淨”了。證券時報記者注意到，與去年底相比，多數新上市企業的招股書已明顯“瘦身”，不再堆砌過多的廣告化表述，行業排名的“美化”痕跡也明顯收斂。這一變化，源自香港監管層今年以來對資訊披露質量的一系列制度加碼與視窗指導。
-
----
-
-### 2026-07-23 07:10:26  #其他
-
-【私募掀起自購熱潮 “均衡配置”應對市場波動】近期A股經歷一輪快速回撥，前期擁擠度較高的科技板塊持續承壓。本週上半周，市場迎來反彈。多傢俬募表示，本輪調整屬於擁擠交易出清，市場進一步下行空間有限。與此同時，7月私募自購隊伍持續擴容，頭部、中型私募持續掀起“自購潮”，成為市場情緒修復的重要支撐因素，並傳遞出積極的訊號。（中國證券報）
-
----
-
-### 2026-07-23 07:10:15  #其他
-
-【澳大利亞監管機構計劃簡化賣方研究指南】根據澳大利亞證券和投資委員會提出的一項新的基於原則的提案，澳大利亞賣方研究的監管指南將從 42 頁減少到 8 頁，以促進對當地市場的更多投資。澳大利亞證券與投資委員會（ASIC）正在就擬議的變更徵求意見；意見徵集截止日期為8月21日。
-
----
-
-### 2026-07-23 07:08:57  #公司 #國際
-
-【高純紅磷供需缺口擴大 磷化工企業競相入局】AI算力資料中心建設對高速光模組需求的持續增加傳導至產業鏈上游，直接加劇了磷化銦襯底核心原料電子級高純紅磷（通常為6N或7N——99.9999%以上）的供需矛盾，供需缺口持續擴大。目前，全球高純紅磷的主要供應商是日本化學與日本RASA工業兩家化工巨頭，佔據了超過80%的市場份額。記者採訪瞭解到，面對全球供應緊張的矛盾，國內多家磷化工企業正加速競逐電子級高純紅磷這一高附加值新賽道。其中，湖北、貴州等地的企業已進入試生產階段，並透過了磷化銦襯底廠商的驗證。同時，興福電子等上市公司的相關產品也已成功研發，正在進行產業化論證。（上海證券報）
-
----
-
-### 2026-07-23 07:08:44  #公司
-
-【AI需求驅動磷化銦景氣度高漲 金屬銦迎來量價齊升視窗】“2026年公司磷化銦襯底滿產，訂單已排到2027年。”某磷化銦廠商人士近日對記者表示，業內頭部廠商雖有擴產計劃，但新建產能釋放基本要等到2027年下半年，“近兩年下游需求沒問題，兩年後市場供需格局如何，要看需求是否符合英偉達預測的增幅”。公開資訊顯示，英偉達近期要求供應商在2030年前，將磷化銦鐳射器產能擴充至現有規模的20倍。在AI算力基礎設施建設全面提速的背景下，磷化銦作為光通訊核心材料，正迎來從供需錯配到產業重構的關鍵時期。作為上游核心原材料，金屬銦或迎來量價齊升的價值重估視窗。2026年以來，國內精銦價格已漲80%以上。據行業機構測算：2025年至2030年，AI資料中心對磷化銦需求有望從60萬片大幅增長至1300萬片；對應銦的需求量，將從2025年的19噸攀升至2030年的419噸。（上海證券報）
-
----
-
-### 2026-07-23 07:08:23  #其他
-
-亞利桑那州衛生部門：確認該州首例I型猴痘病毒分支病例；對公眾的風險仍然較低。
-
----
-
-### 2026-07-23 07:07:51  #Trading Economics #Economy #South Korea #GDP Growth Rate #Importance 2
-
-South Korea Q2 GDP Growth Beats Estimates — South Korea’s economy expanded by 0.6% QoQ in the second quarter of 2026, slowing from 1.8% growth in the first quarter, which was the strongest quarterly expansion since Q1 2021, but surpassing market expectations of 0.4%, preliminary estimates showed. GDP growth was mainly driven by robust exports, which offset downward pressure from the lingering conflict in the Middle East. On a yearly basis, the economy grew 3.7% in Q2, easing slightly from 3.8% in Q1, which marked the fastest annual growth since Q4 2021, while remaining above market estimates of 3.5%.
-
----
-
-### 2026-07-23 07:07:32  #宏觀 #國際
-
-【墨西哥要求美方調查17名墨公民在美死亡事件 】墨西哥外交部22日說，自2025年5月以來，共有17名墨西哥公民在美國針對移民的執法行動中或羈押期間死亡，墨方已就此在美提出20項“刑事投訴”並要求美司法部門啟動調查。墨外交部發表宣告說，墨西哥駐美大使羅伯託·拉澤裡13日向事發地司法轄區提出這20項“刑事投訴”，包括向州檢察機關提出8項、向縣檢察機關提出12項。相關事件涉及美亞利桑那州、加利福尼亞州、佛羅里達州、佐治亞州、伊利諾伊州、路易斯安那州、密蘇里州和得克薩斯州。宣告說，墨駐美大使館14日透過美國國務院向美國司法部轉交了墨西哥聯邦總檢察院的投訴，要求正式對17起墨公民死亡事件啟動調查。
-
----
-
-### 2026-07-23 07:07:15  #MKT News
-
-【Mexico asks US to investigate deaths of 17 Mexican citizens in US】Mexico’s foreign ministry said on the 22nd that since May 2025, 17 Mexican citizens have died in the United States during immigration enforcement actions or while detained. Mexico has filed 20 criminal complaints in the US and asked the U.S. Department of Justice to open investigations.
 
 ---

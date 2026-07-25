@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-26 01:36:16_
-_本檔包含 3565 則快訊，約 687593 字_
+_更新時間：2026-07-26 02:32:51_
+_本檔包含 3574 則快訊，約 687278 字_
+
+---
+
+### 2026-07-26 02:30:25  #MKT News
+
+Palestinian foreign minister said the Palestinians hope the peace committee will play a role in the Gaza Strip.
+
+---
+
+### 2026-07-26 02:30:09  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Palestinian foreign minister says Israel is seeking to drive Palestinians to the brink of collapse.
+
+---
+
+### 2026-07-26 02:29:53  #MKT News
+
+The Palestinian foreign minister said Palestinians' blood is being used as a bargaining chip in Israel's elections and urged urgent international intervention, warning the situation in the West Bank is very serious.
+
+---
+
+### 2026-07-26 02:29:36  #MKT News
+
+Palestinian foreign minister said Palestinians' existence is under threat and accused Israel of carrying out terrorism against Palestinians; he described the Netanyahu government as "fascist" and said it is using settlers to control the West Bank.
+
+---
+
+### 2026-07-26 02:21:03  #國際
+
+以色列軍方：上週在加沙擊斃哈馬斯一支精銳小隊指揮官及兩名武裝人員，該指揮官參與過10月7日襲擊行動。
+
+---
+
+### 2026-07-26 02:18:43  #其他
+
+英國海上貿易行動辦公室釋出宣告稱，一艘油輪在距離沙特舒蓋格港約70海里處遭炮彈襲擊。
+
+---
+
+### 2026-07-26 02:15:54  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Zelenskiy said Russian satellite monitoring shows Moscow is assisting Tehran with strike operations in the Middle East.
+
+---
+
+### 2026-07-26 02:14:33  #國際
+
+市場資訊： 烏克蘭總統澤連斯基稱：俄方衛星偵察情報顯示，俄羅斯正在為伊朗提供指引，協助其在中東發動打擊行動。
+
+---
+
+### 2026-07-26 02:09:49  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【IRGC says US military deaths exceed official figures】An IRGC spokesman said US fatalities after breaching an agreement exceed 200 and called official US casualty figures a complete falsehood. He said IRGC strikes hit eight US garrisons in the "Victory 2" operation, destroying 20 warehouses at one site, and that injuries are substantially higher than the death toll. He urged the US government to allow journalists to visit strike sites to verify casualties.
+
+---
+
+### 2026-07-26 02:04:19  #國際
+
+市場資訊：特朗普堅持要求沙特加入《亞伯拉罕協議》，以此作為美方批准沙特開展民用核專案交易的前提條件。
+
+---
+
+### 2026-07-26 01:53:45  #MKT News
+
+【HKO reissues Tropical Cyclone Warning Signal No.9】The HKO early this morning reissued the No.9 gale-or-storm signal. The No.9 or higher tropical cyclone warning is expected to remain in force at least until 7:00 a.m. HKT.
+
+---
+
+### 2026-07-26 01:51:00  #其他
+
+【香港天文臺改發“九號風球”】7月26日凌晨1時10分，香港天文臺改發九號烈風或暴風風力增強訊號（即“九號風球”）。
+
+---
+
+### 2026-07-26 01:42:33  #國際
+
+埃及石油部資料顯示，1月至6月埃及石油產品出口額達23億美元。
+
+---
+
+### 2026-07-26 01:40:41  #市場 #焦點
+
+布倫特原油暗盤跌破90美元，日內跌超1.6%。
+
+---
+
+### 2026-07-26 01:35:59  #國際
+
+伊朗副外長：我們致力於公平談判，並保證船隻透過霍爾木茲海峽的安全和平通行；我們不會允許美國霸權強加於霍爾木茲海峽，我們將行使合法防禦的權利。
 
 ---
 
@@ -21496,41 +21586,5 @@ Iranian media reported an explosion in the Taft district of Yazd province in cen
 ### 2026-07-24 09:11:00  #市場 #央行 #國際
 
 【美聯儲將迎來最難預測會議之一 新主席態度撲朔迷離】下週的美聯儲會議將成為多年來最難預測的會議之一。新一輪石油衝擊和敦促加息的偏緊縮陣營與支援利率不變的溫和通脹資料發生碰撞。主持會議的是一位新任主席，而他並未透露自己傾向於哪一方。過去兩個月來，沃什一再重申要恢復價格穩定，試圖打消投資者對美聯儲已預設接受更高通脹的念頭。他尚未說明在當前利率水平下將如何實現這一目標。敦促加息的美聯儲官員態度更為堅決，如果利率維持不變，其中幾位可能會投反對票。上週，一些有影響力的決策者暗示支援按兵不動，但可能會在今年晚些時候支援更緊縮的政策。因此，維持利率不變可能無助於解決問題，只會將爭論推遲到9月份。在上個月的美聯儲會議上，沃什的18位同事中有一半預計今年需要加息。另一半認為不需要。瑞銀首席美國經濟學家喬納森.平格爾(Jonathan Pingle)表示，沃什“可以隨心所欲地打破天平的平衡”。據芝商所資料顯示，週三，期貨市場反映出的美聯儲在7月28日至29日會議上加息的機率約為三分之一，高於上週晚些時候的約十分之一。隨著中東衝突再次爆發，加息機率的躍升與能源價格的新一輪上漲步調一致。
-
----
-
-### 2026-07-24 09:08:42  #其他
-
-【上半年我國農業保險已賠付460億元】國家金融監督管理總局今天（24日）公佈的資料顯示，今年上半年，我國農業保險保費規模居全球首位，提供風險保障3.31萬億元。資料顯示，2026年上半年，全國農業保險保費收入1093億元，為8300萬戶次農戶提供風險保障3.31萬億元。上半年，我國農業保險已向受災農戶支付賠款460億元，受益農戶1597萬戶次。種植業中糧食作物保險已支付賠款89億元；養殖業保險支付賠款257.7億元，其中生豬保險支付賠款135.8億元，同比增長18.4%。
-
----
-
-### 2026-07-24 09:08:04  #國際
-
-蓋洛普民調顯示，韓國總理李在明 的支援率從52%降至51%。
-
----
-
-### 2026-07-24 09:07:45  #MKT News #Copper #Impact bullish
-
-【China-ASEAN foreign ministers joint statement: further strengthen regional grid interconnection】China and ASEAN foreign ministers issued a joint statement agreeing to explore a cooperation mechanism to bolster regional energy security and resilience. They said they will further strengthen regional grid interconnection, energy supply chains, clean, low-carbon and renewable energy deployment, energy-technology innovation and civil nuclear cooperation. The ministers endorsed the ASEAN Energy Cooperation Action Plan (2026–2030) and said they would seek cooperation opportunities under China’s Global Development Initiative and the Belt and Road. Subject to mutual agreement, they plan to mobilize public‑private financing and leverage platforms including the ASEAN Centre for Energy, the China‑ASEAN Clean Energy Cooperation Center, multilateral development banks, international financial institutions and the China‑ASEAN Investment Cooperation Fund to support projects.
-
----
-
-### 2026-07-24 09:07:12  #央行 #市場 #國際
-
-【油價走高 菲律賓比索創歷史新低】國際油價持續上漲，菲律賓比索匯率跌至全新歷史低位，該國央行面臨加大護匯力度的壓力。週五比索兌美元貶值0.1%，報61.83，跌破4月末創下的61.75歷史最低紀錄。本月原油價格漲幅超30%，重創亞洲石油進口國貨幣，印度與菲律賓央行本週均已入場干預匯市。小費迪南德・馬科斯政府表態，相信央行會果斷出手穩定比索匯率。今年以來比索累計貶值近5%，位列亞洲表現最差貨幣之一。
-
----
-
-### 2026-07-24 09:06:45  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #XAUUSD
-
-【China-ASEAN foreign ministers joint statement welcomes ongoing diplomatic contacts in the Middle East】China-ASEAN foreign ministers issued a joint statement on addressing the regional impact of developments in the Middle East and on strengthening regional energy cooperation. The statement welcomed ongoing diplomatic contacts, including Pakistan- and Qatar-mediated talks between the United States and Iran backed by other parties, and urged parties to pursue multilateral, sincere dialogue and a peaceful, lasting resolution through diplomacy in accordance with the UN Charter and international law.
-
----
-
-### 2026-07-24 09:05:44  #公司
-
-【蘇文電能新設子公司 含通用航空服務業務】企查查APP顯示，近日，南京驛充科技有限公司成立，經營範圍包含通用航空服務；民用航空器維修；航空運營支援服務；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由蘇文電能(300982)全資持股。
 
 ---

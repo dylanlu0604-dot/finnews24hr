@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-26 01:36:16_
-_本檔包含 3779 則快訊，約 687417 字_
+_更新時間：2026-07-26 02:32:51_
+_本檔包含 3789 則快訊，約 687871 字_
+
+---
+
+### 2026-07-22 03:32:33  #MKT News #S&P500 #Impact bullish #US10Y #Impact bearish #DXY
+
+【House Republicans advance short-term funding bill and $95bn reconciliation framework】House Republicans cleared a procedural hurdle 241-211 to advance a short-term funding measure and a budget framework that underpins a $95bn partisan policy package via reconciliation. The stopgap aims to fund the federal government through December; leadership seeks to pass the CR Tuesday night and the House is expected to vote on a budget resolution Wednesday. Republicans intend to use the framework to draft and pass a third conservative policy package this Congress without Democratic support.
+
+---
+
+### 2026-07-22 03:32:03  #國際
+
+美國防長赫格塞思：倘若我們當下不在技術、算力、人工智慧、自主系統與太空領域開展關鍵投入，我們的對手已然在佈局相關投資，或將實現對美國的趕超。
+
+---
+
+### 2026-07-22 03:31:26  #其他
+
+伊拉克石油部長表示，該國石油產能為每日480萬桶。
+
+---
+
+### 2026-07-22 03:31:21  #MKT News
+
+Iraq's oil minister said the country's crude production capacity is currently 4.8 million barrels per day.
+
+---
+
+### 2026-07-22 03:29:13  #其他
+
+空中客車首席財務官表示，潛在補強型收購的搜尋範圍涵蓋商業服務與網路安全領域。
+
+---
+
+### 2026-07-22 03:26:11  #國際
+
+美國防長赫格塞思：五角大樓不再由官僚主導管理，取而代之的是歷經實戰考驗的老兵以及頂尖商界領袖，他們正以企業化模式運營國防部。
+
+---
+
+### 2026-07-22 03:25:06  #MKT News #AAL.O #Impact bullish #DAL.O #UAL.O
+
+Trump has instructed the U.S. government to permit all U.S. carriers to operate nonstop flights to Lebanon.
+
+---
+
+### 2026-07-22 03:24:31  #公司 #焦點 #國際
+
+特朗普：特此指示我的行政部門允許所有美國航空公司直飛黎巴嫩。
+
+---
+
+### 2026-07-22 03:24:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Islamic Revolutionary Guard Corps says it destroyed two radar installations in Kuwait.
+
+---
+
+### 2026-07-22 03:24:03  #國際
+
+美國參議院共和黨領袖圖恩計劃在8月休會前將臨時撥款法案提交參議院審議。
+
+---
+
+### 2026-07-22 03:23:36  #Trading Economics #Economy #Colombia #Balance of Trade #Importance 1
+
+Colombia Trade Deficit Narrows in May — Colombia's trade deficit narrowed to $1.59 billion in May 2026 from $1.78 billion a year earlier. Exports rose 19.2% year-on-year to $5.19 billion, driven by a 33.3% increase in fuels and extractive industry products, led by petroleum and related goods. Agricultural exports edged up 0.7%, supported by higher shipments of cut flowers and coffee extracts, while manufactured exports increased 0.2%, driven by chemicals and machinery. Exports from other sectors surged 67.0%, mainly reflecting higher non-monetary gold shipments. Meanwhile, imports rose 10.6% to $6.79 billion, led by an 8.2% increase in manufactured goods, particularly machinery and transport equipment, as well as chemicals. Imports of agricultural products rose 2.7%, while purchases of fuels and extractive industry products climbed 35.2%.
+
+---
+
+### 2026-07-22 03:23:26  #國際
+
+伊朗革命衛隊：發動勝利2號行動第二波打擊，摧毀科威特薩拉姆基地、布比延島多處雷達設施。
+
+---
+
+### 2026-07-22 03:22:27  #公司 #觀點
+
+【算力超節點帶火液冷 浸沒式液冷嶄露頭角】隨著算力新基建超節點的湧現，其背後的液冷技術引發了行業新一輪關注。在2026世界人工智慧大會（WAIC 2026）上，華為、中興通訊、新華三、浪潮等知名伺服器廠商超節點的熱管理系統已全線向液冷升級，其中包括主流的冷板液冷，還有方興未艾的浸沒式液冷。中金公司預測，隨著新技術的亮相，2026年迎來液冷放量元年，全球智算中心液冷市場將達1147億元，同比增長273%，2027年仍有望保持高增長。受訪人士普遍認為，受高算力提振，液冷新技術正在不斷升級，並落地應用。伴隨著氟化液價格走低，浸沒式液冷將迎來工程化階段，市場景氣度可期。
+
+---
+
+### 2026-07-22 03:20:38  #焦點 #國際
+
+烏克蘭武裝部隊總司令亞歷山大·瑟爾斯基遭解職。
+
+---
+
+### 2026-07-22 03:20:06  #國際
+
+美國國防部長赫格塞思：當今世界局勢充滿風險，需要果斷迅速採取行動，因此我們提出2026財年追加撥款申請。這筆資金是緊急且必要的資源投入，用以滿足國防部當下迫切需求。
+
+---
+
+### 2026-07-22 03:19:47  #MKT News
+
+SpaceX launched a Falcon 9 from California, successfully placing 24 Starlink satellites into orbit.
+
+---
+
+### 2026-07-22 03:17:39  #MKT News #WTI #Impact bearish #Brent
+
+Iraq's oil minister says agreements with US firms will significantly boost Iraq's oil production capacity and drive investment in associated natural gas.
+
+---
+
+### 2026-07-22 03:17:02  #國際
+
+伊拉克石油部長表示，與美國企業達成的協議將為伊拉克大幅提升油氣產能，並帶來伴生氣領域的投資。
+
+---
+
+### 2026-07-22 03:16:44  #MKT News #Important
+
+Iraq's oil minister said that during the prime minister's visit to the U.S., Iraq's oil ministry and U.S. companies signed agreements expected to total about $200 billion.
+
+---
+
+### 2026-07-22 03:15:28  #焦點 #國際
+
+伊拉克石油部長表示，總理訪美期間，伊拉克石油部與美國企業簽署的協議總金額預估為2000億美元。
+
+---
+
+### 2026-07-22 03:15:01  #市場
+
+【“金融引擎”馬力全開 上海上半年金融業增加值勁增10.2%】近日，上海市統計局釋出的2026年上半年上海經濟執行資料顯示：上海地區生產總值（GDP）達27886.63億元，同比增長5.6%，增速跑贏全國平均水平。其中，金融業增加值為4964.18億元，同比增長10.2%，延續了一季度的良好勢頭。金融業的增長動力，來自金融市場交易的全面活躍。上半年，上海主要金融市場實現成交額2269.16萬億元，同比增長24.1%。具體而言，各大金融基礎設施全面開花：上海期貨交易所成交額同比增長53.9%，上海黃金交易所成交額同比增長38.2%，上海證券交易所有價證券成交額同比增長35.2%，銀行間市場成交額同比增長16.6%。(上證報)
+
+---
+
+### 2026-07-22 03:14:51  #MKT News #Market Regions #Europe & UK #Brent #Impact bullish #XAUUSD #DXY
+
+【New UK prime minister approves US use of UK bases for partial 'defensive strikes' on Iran】According to foreign media and people familiar with the matter, new UK prime minister Andy Burnham has approved US use of UK military bases for partial 'defensive strikes' on Iran, continuing policy under former prime minister Keir Starmer. Starmer chaired a meeting of senior ministers and officials last Friday to review UK policy after the US resumed military action earlier this month; the meeting agreed to allow US aircraft to operate from the Diego Garcia base in the Indian Ocean and RAF Fairford in Gloucestershire. The missions are described as aimed at countering Iranian missile threats and striking assets used to attack facilities in the Strait of Hormuz. Burnham, who took office on Monday, was briefed on the discussion and has agreed to the decision.
 
 ---
 
@@ -22675,77 +22807,5 @@ Mexican President Sheinbaum spoke with U.S. Trade Representative Greer, Commerce
 ### 2026-07-20 21:53:27  #Trading Economics #Markets #Commodity #Importance 1
 
 Platinum Steadies Near Eight-Month Low — Platinum futures traded near $1,610 per ounce, stabilizing around their lowest since November, as traders weighed the metal's supply and demand outlook against renewed tensions in the Middle East. Rising inflation concerns prompted markets to price in at least one Federal Reserve rate hike by year-end, weighing on demand for non-yielding metals such as platinum. Meanwhile, Sibanye-Stillwater plans to advance seven PGM mining projects, although production is not expected to begin until next year. However, the World Platinum Investment Council expects a fourth consecutive market deficit in 2026, as constrained mine supply, elevated energy costs, and higher winter electricity tariffs continue to pressure producers' margins. On the demand side, China's industrial policies supporting AI, electric vehicles, and clean energy, together with the launch of the first platinum investment bar series by Caibai and the WPIC, are expected to support long-term platinum consumption.
-
----
-
-### 2026-07-20 21:52:05  #公司
-
-【A股迎多重積極訊號，多方合力提振資本市場信心】7月20日，A股迎來多重積極訊號，市場主體護盤舉措落地。“六大方陣”協同發力，以提振市場信心，包括：證監會召開投資者座談會傾聽市場訴求；“國家隊”、央企、上市公司、公募私募、保險資金同步推出增持、回購、自購、加大權益配置等動作；股票ETF持續迎來大額資金淨流入，外資機構、頭部券商也釋放樂觀判斷，多方合力提振資本市場信心。（中國基金報）
-
----
-
-### 2026-07-20 21:51:35  #其他
-
-【2026世界人工智慧大會暨人工智慧全球治理高階別會議閉幕，龔正出席閉幕式併為上海物理智慧與機器人研究院揭牌】7月17日至20日，2026世界人工智慧大會暨人工智慧全球治理高階別會議在上海成功舉辦。國家主席習近平出席大會開幕式並發表主旨講話，102個國家和國際組織的官方代表、產學研界嘉賓等出席大會。本屆大會是全球人工智慧領域規模最大、影響力最廣的國際盛會之一，也是我國首次在人工智慧領域舉辦的高規格主場外交活動。今天（7月20日），大會閉幕式在世博中心舉行。上海市市長龔正出席，併為上海物理智慧與機器人研究院揭牌。副市長陳杰作成果總結。（澎湃）
-
----
-
-### 2026-07-20 21:50:36  #其他
-
-【官方通報“有黑水排入雅礱江”：沿途無礦山礦企和導致水體變黑的排口】7月20日，四川甘孜州九龍生態環境局釋出情況通報：7月20日15時38分，博主“朱凱釣魚”反映甘孜州九龍縣子耳鄉有大量黑水排入雅礱江，汙染帶長達數十公里。該博主釋出此條資訊之前，我局已發現子耳河水體變黑並組織工作人員開展溯源核查，並上報州生態環境局，對甘孜州境內河段開展全面溯源排查，沿途無礦山礦企和導致水體變黑的排口。同時，對上游入境斷面、中游對照斷面、下游入江斷面3個點位水質進行快檢，氨氮、總氮、總磷、化學需氧量均不超標。州生態環境局已派出執法監測人員趕赴現場進一步核查。感謝大家對我縣生態環境保護工作的關心，後續進一步的核查結果和水質檢測報告我們將及時通報。
-
----
-
-### 2026-07-20 21:50:15  #公司
-
-【不超28.8億元，杭電股份擬募資加碼光通訊與高階銅箔】7月20日晚間，杭電股份（SH603618，股價26.29元，市值181.76億元）披露2026年度向特定物件發行A股股票預案。公司計劃向不超過35名特定投資者發行股票，募集資金總額不超過28.7986億元，扣除發行費用後將全部用於“光纖預製棒、石英母材與新型光纖研發與製造超級工廠建設專案”以及“年產3萬噸人工智慧用高階電子電路銅箔專案”。（每經）
-
----
-
-### 2026-07-20 21:50:06  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact mixed #S&P500
-
-US Conference Board leading economic index m/m for June due in 10 minutes.
-
----
-
-### 2026-07-20 21:50:05  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-【Russian central bank gold reserves fall for sixth month; dollar value drops about $26.9 bln】The Russian central bank reported gold reserves fell for a sixth consecutive month in June, down 0.4% (–9.3 t) to 73.4 mln troy oz (2,282.995 t) as of July 1. The dollar value of those holdings declined 8.25% in June to $298.991 bln from $325.872 bln on June 1, a reduction of roughly $26.9 bln. Gold's share of international reserves slipped to 41.5% from 43.6%. For 2025 the bank's gold volume edged down 0.27% while value rose 66.85% YoY from $195.707 bln, lifting gold's reserve share from 32.13% to 43.26%. Physical gold holdings were unchanged in 2023–24 at 75.0 mln troy oz (2,332.76 t).
-
----
-
-### 2026-07-20 21:50:03  #MKT News
-
-Ukrainian President Zelenskiy said airborne assault units of the Ukrainian Armed Forces are achieving necessary results.
-
----
-
-### 2026-07-20 21:49:08  #MKT News
-
-CNN reports the suspect in a thrown-device incident has been detained.
-
----
-
-### 2026-07-20 21:48:52  #宏觀 #國際
-
-【黎巴嫩啟動首批“試點區”行動 推進美黎以三方框架協議落實】美國國務院發表宣告宣佈，黎巴嫩軍隊已在黎南部啟動首批“試點區”行動。此舉是落實美黎以三方框架協議的重要步驟，旨在透過小範圍試點，檢驗黎巴嫩政府軍接管區域安全及解除真主黨武裝的能力。據美國國務院介紹，此次行動是根據6月26日在華盛頓達成的三方框架協議推進的。在黎巴嫩軍事協調小組的主持下，黎巴嫩軍隊已在弗龍、斯里法和扎烏塔爾·阿爾-加爾比亞三個村莊開始“試點區”行動，以實現真主黨非軍事化。此前，黎巴嫩和以色列於7月14日至15日在義大利羅馬舉行了新一輪談判，雙方就“試點區”的結構、運作準則以及黎巴嫩軍隊進駐部署機制等問題取得了進展。根據三方框架協議的核心安排，以色列軍隊將逐步撤出黎巴嫩南部劃定的“試點區”，交由黎巴嫩政府軍接管，並在美軍陪同下完成部署。該計劃旨在透過小範圍試點，檢驗黎巴嫩政府軍接管區域安全、防止真主黨重新進入的能力。若實施順利，這一機制將逐步推廣至黎南部更多地區，最終實現以軍全面撤出和黎巴嫩恢復國家主權。然而，協議落地仍面臨多重挑戰。黎巴嫩真主黨已明確拒絕該協議及任何解除武裝的努力，並譴責協議“可恥且無效”。分析人士指出，只要真主黨拒絕解除武裝，以色列就不會給出明確的撤軍時間表，黎巴嫩政府軍也無法安全接管區域。此外，美伊對抗的走向也可能成為影響協議執行的變數。美國國務卿魯比奧在19日與黎巴嫩總統奧恩會晤時重申，美國支援落實三方框架協議，並呼籲各方推進解除真主黨武裝、摧毀其恐怖主義基礎設施等事宜。美國國務院發言人表示，雙方現在將進入擴大後的技術性會談階段，重點是落實三方框架協議的所有內容，目標是推動以色列和黎巴嫩達成一項全面協議。
-
----
-
-### 2026-07-20 21:48:50  #MKT News
-
-CNN reports a man threw an incendiary device at the FBI headquarters in New York City.
-
----
-
-### 2026-07-20 21:48:26  #其他
-
-市場訊息： 有人向紐約聯邦調查局總部投擲燃燒裝置。
-
----
-
-### 2026-07-20 21:47:46  #Trading Economics #Economy #Ethiopia #Inflation Rate #Importance 1
-
-Ethiopia Inflation Rate at 1-Year High — The annual inflation rate in Ethiopia rose to 13.9% in June 2026, marking the highest level in a year and accelerating from 13.4% in the previous month. Food inflation accelerated to 15.1% from 15% in May, the highest level since January 2025, due to increases in most food commodities such as bread and cereals (7.3%) and vegetables (12.8%), while costs for meat products eased to 19.2%. Non-food inflation also accelerated, to 12.2% from 11.1%. Housing and utilities costs rose further (9.5% vs 6.8%), along with restaurants and hotels (12% vs 10.5%), furnishings (13% vs 12.7%), clothing and footwear (13.5% vs 13.2%) and education (17.3% vs 9.6%). In contrast, inflation eased for transports (14.3% vs 17.1%) and alcoholic beverges and tobacco (14.5% vs 14.6%). On a monthly basis, consumer prices rose 1% in June, easing from a 1.7% increase in the previous month.
 
 ---

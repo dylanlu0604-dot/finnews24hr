@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-26 01:36:16_
-_本檔包含 3556 則快訊，約 687685 字_
+_更新時間：2026-07-26 02:32:51_
+_本檔包含 3544 則快訊，約 686104 字_
+
+---
+
+### 2026-07-23 07:11:14  #MKT News
+
+Arizona health department confirms first Clade I MPOX case in the state; risk to the general public remains low.
+
+---
+
+### 2026-07-23 07:10:36  #其他
+
+【多數新上市企業招股書已明顯“瘦身” 港股招股書監管見成效】港股IPO招股書正變得更“乾淨”了。證券時報記者注意到，與去年底相比，多數新上市企業的招股書已明顯“瘦身”，不再堆砌過多的廣告化表述，行業排名的“美化”痕跡也明顯收斂。這一變化，源自香港監管層今年以來對資訊披露質量的一系列制度加碼與視窗指導。
+
+---
+
+### 2026-07-23 07:10:26  #其他
+
+【私募掀起自購熱潮 “均衡配置”應對市場波動】近期A股經歷一輪快速回撥，前期擁擠度較高的科技板塊持續承壓。本週上半周，市場迎來反彈。多傢俬募表示，本輪調整屬於擁擠交易出清，市場進一步下行空間有限。與此同時，7月私募自購隊伍持續擴容，頭部、中型私募持續掀起“自購潮”，成為市場情緒修復的重要支撐因素，並傳遞出積極的訊號。（中國證券報）
+
+---
+
+### 2026-07-23 07:10:15  #其他
+
+【澳大利亞監管機構計劃簡化賣方研究指南】根據澳大利亞證券和投資委員會提出的一項新的基於原則的提案，澳大利亞賣方研究的監管指南將從 42 頁減少到 8 頁，以促進對當地市場的更多投資。澳大利亞證券與投資委員會（ASIC）正在就擬議的變更徵求意見；意見徵集截止日期為8月21日。
+
+---
+
+### 2026-07-23 07:08:57  #公司 #國際
+
+【高純紅磷供需缺口擴大 磷化工企業競相入局】AI算力資料中心建設對高速光模組需求的持續增加傳導至產業鏈上游，直接加劇了磷化銦襯底核心原料電子級高純紅磷（通常為6N或7N——99.9999%以上）的供需矛盾，供需缺口持續擴大。目前，全球高純紅磷的主要供應商是日本化學與日本RASA工業兩家化工巨頭，佔據了超過80%的市場份額。記者採訪瞭解到，面對全球供應緊張的矛盾，國內多家磷化工企業正加速競逐電子級高純紅磷這一高附加值新賽道。其中，湖北、貴州等地的企業已進入試生產階段，並透過了磷化銦襯底廠商的驗證。同時，興福電子等上市公司的相關產品也已成功研發，正在進行產業化論證。（上海證券報）
+
+---
+
+### 2026-07-23 07:08:44  #公司
+
+【AI需求驅動磷化銦景氣度高漲 金屬銦迎來量價齊升視窗】“2026年公司磷化銦襯底滿產，訂單已排到2027年。”某磷化銦廠商人士近日對記者表示，業內頭部廠商雖有擴產計劃，但新建產能釋放基本要等到2027年下半年，“近兩年下游需求沒問題，兩年後市場供需格局如何，要看需求是否符合英偉達預測的增幅”。公開資訊顯示，英偉達近期要求供應商在2030年前，將磷化銦鐳射器產能擴充至現有規模的20倍。在AI算力基礎設施建設全面提速的背景下，磷化銦作為光通訊核心材料，正迎來從供需錯配到產業重構的關鍵時期。作為上游核心原材料，金屬銦或迎來量價齊升的價值重估視窗。2026年以來，國內精銦價格已漲80%以上。據行業機構測算：2025年至2030年，AI資料中心對磷化銦需求有望從60萬片大幅增長至1300萬片；對應銦的需求量，將從2025年的19噸攀升至2030年的419噸。（上海證券報）
+
+---
+
+### 2026-07-23 07:08:23  #其他
+
+亞利桑那州衛生部門：確認該州首例I型猴痘病毒分支病例；對公眾的風險仍然較低。
+
+---
+
+### 2026-07-23 07:07:51  #Trading Economics #Economy #South Korea #GDP Growth Rate #Importance 2
+
+South Korea Q2 GDP Growth Beats Estimates — South Korea’s economy expanded by 0.6% QoQ in the second quarter of 2026, slowing from 1.8% growth in the first quarter, which was the strongest quarterly expansion since Q1 2021, but surpassing market expectations of 0.4%, preliminary estimates showed. GDP growth was mainly driven by robust exports, which offset downward pressure from the lingering conflict in the Middle East. On a yearly basis, the economy grew 3.7% in Q2, easing slightly from 3.8% in Q1, which marked the fastest annual growth since Q4 2021, while remaining above market estimates of 3.5%.
+
+---
+
+### 2026-07-23 07:07:32  #宏觀 #國際
+
+【墨西哥要求美方調查17名墨公民在美死亡事件 】墨西哥外交部22日說，自2025年5月以來，共有17名墨西哥公民在美國針對移民的執法行動中或羈押期間死亡，墨方已就此在美提出20項“刑事投訴”並要求美司法部門啟動調查。墨外交部發表宣告說，墨西哥駐美大使羅伯託·拉澤裡13日向事發地司法轄區提出這20項“刑事投訴”，包括向州檢察機關提出8項、向縣檢察機關提出12項。相關事件涉及美亞利桑那州、加利福尼亞州、佛羅里達州、佐治亞州、伊利諾伊州、路易斯安那州、密蘇里州和得克薩斯州。宣告說，墨駐美大使館14日透過美國國務院向美國司法部轉交了墨西哥聯邦總檢察院的投訴，要求正式對17起墨公民死亡事件啟動調查。
+
+---
+
+### 2026-07-23 07:07:15  #MKT News
+
+【Mexico asks US to investigate deaths of 17 Mexican citizens in US】Mexico’s foreign ministry said on the 22nd that since May 2025, 17 Mexican citizens have died in the United States during immigration enforcement actions or while detained. Mexico has filed 20 criminal complaints in the US and asked the U.S. Department of Justice to open investigations.
 
 ---
 
@@ -21409,137 +21469,5 @@ Senator Collins said some U.S. military services are facing near-term funding ch
 ### 2026-07-22 03:33:46  #其他
 
 【匈牙利總理就倉促提名棋壇名將波爾加競選總統致歉】匈牙利總理毛焦爾公開致歉，此前國際象棋傳奇棋手尤迪特·波爾加拒絕出任匈牙利下一任總統的提名。毛焦爾稱自己過於倉促地對外公佈提名波爾加一事，並表示對此事承擔全部責任。他上週日在臉書發文稱，49歲的波爾加能夠代表國家團結，計劃週一與波爾加會面，徵詢她是否接受提名。儘管總統職位大多屬於禮儀性職務，但波爾加表示，自己尚未準備好承擔“團結分歧重重的國家這一歷史性重任”。
-
----
-
-### 2026-07-22 03:32:33  #MKT News #S&P500 #Impact bullish #US10Y #Impact bearish #DXY
-
-【House Republicans advance short-term funding bill and $95bn reconciliation framework】House Republicans cleared a procedural hurdle 241-211 to advance a short-term funding measure and a budget framework that underpins a $95bn partisan policy package via reconciliation. The stopgap aims to fund the federal government through December; leadership seeks to pass the CR Tuesday night and the House is expected to vote on a budget resolution Wednesday. Republicans intend to use the framework to draft and pass a third conservative policy package this Congress without Democratic support.
-
----
-
-### 2026-07-22 03:32:03  #國際
-
-美國防長赫格塞思：倘若我們當下不在技術、算力、人工智慧、自主系統與太空領域開展關鍵投入，我們的對手已然在佈局相關投資，或將實現對美國的趕超。
-
----
-
-### 2026-07-22 03:31:26  #其他
-
-伊拉克石油部長表示，該國石油產能為每日480萬桶。
-
----
-
-### 2026-07-22 03:31:21  #MKT News
-
-Iraq's oil minister said the country's crude production capacity is currently 4.8 million barrels per day.
-
----
-
-### 2026-07-22 03:29:13  #其他
-
-空中客車首席財務官表示，潛在補強型收購的搜尋範圍涵蓋商業服務與網路安全領域。
-
----
-
-### 2026-07-22 03:26:11  #國際
-
-美國防長赫格塞思：五角大樓不再由官僚主導管理，取而代之的是歷經實戰考驗的老兵以及頂尖商界領袖，他們正以企業化模式運營國防部。
-
----
-
-### 2026-07-22 03:25:06  #MKT News #AAL.O #Impact bullish #DAL.O #UAL.O
-
-Trump has instructed the U.S. government to permit all U.S. carriers to operate nonstop flights to Lebanon.
-
----
-
-### 2026-07-22 03:24:31  #公司 #焦點 #國際
-
-特朗普：特此指示我的行政部門允許所有美國航空公司直飛黎巴嫩。
-
----
-
-### 2026-07-22 03:24:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Islamic Revolutionary Guard Corps says it destroyed two radar installations in Kuwait.
-
----
-
-### 2026-07-22 03:24:03  #國際
-
-美國參議院共和黨領袖圖恩計劃在8月休會前將臨時撥款法案提交參議院審議。
-
----
-
-### 2026-07-22 03:23:36  #Trading Economics #Economy #Colombia #Balance of Trade #Importance 1
-
-Colombia Trade Deficit Narrows in May — Colombia's trade deficit narrowed to $1.59 billion in May 2026 from $1.78 billion a year earlier. Exports rose 19.2% year-on-year to $5.19 billion, driven by a 33.3% increase in fuels and extractive industry products, led by petroleum and related goods. Agricultural exports edged up 0.7%, supported by higher shipments of cut flowers and coffee extracts, while manufactured exports increased 0.2%, driven by chemicals and machinery. Exports from other sectors surged 67.0%, mainly reflecting higher non-monetary gold shipments. Meanwhile, imports rose 10.6% to $6.79 billion, led by an 8.2% increase in manufactured goods, particularly machinery and transport equipment, as well as chemicals. Imports of agricultural products rose 2.7%, while purchases of fuels and extractive industry products climbed 35.2%.
-
----
-
-### 2026-07-22 03:23:26  #國際
-
-伊朗革命衛隊：發動勝利2號行動第二波打擊，摧毀科威特薩拉姆基地、布比延島多處雷達設施。
-
----
-
-### 2026-07-22 03:22:27  #公司 #觀點
-
-【算力超節點帶火液冷 浸沒式液冷嶄露頭角】隨著算力新基建超節點的湧現，其背後的液冷技術引發了行業新一輪關注。在2026世界人工智慧大會（WAIC 2026）上，華為、中興通訊、新華三、浪潮等知名伺服器廠商超節點的熱管理系統已全線向液冷升級，其中包括主流的冷板液冷，還有方興未艾的浸沒式液冷。中金公司預測，隨著新技術的亮相，2026年迎來液冷放量元年，全球智算中心液冷市場將達1147億元，同比增長273%，2027年仍有望保持高增長。受訪人士普遍認為，受高算力提振，液冷新技術正在不斷升級，並落地應用。伴隨著氟化液價格走低，浸沒式液冷將迎來工程化階段，市場景氣度可期。
-
----
-
-### 2026-07-22 03:20:38  #焦點 #國際
-
-烏克蘭武裝部隊總司令亞歷山大·瑟爾斯基遭解職。
-
----
-
-### 2026-07-22 03:20:06  #國際
-
-美國國防部長赫格塞思：當今世界局勢充滿風險，需要果斷迅速採取行動，因此我們提出2026財年追加撥款申請。這筆資金是緊急且必要的資源投入，用以滿足國防部當下迫切需求。
-
----
-
-### 2026-07-22 03:19:47  #MKT News
-
-SpaceX launched a Falcon 9 from California, successfully placing 24 Starlink satellites into orbit.
-
----
-
-### 2026-07-22 03:17:39  #MKT News #WTI #Impact bearish #Brent
-
-Iraq's oil minister says agreements with US firms will significantly boost Iraq's oil production capacity and drive investment in associated natural gas.
-
----
-
-### 2026-07-22 03:17:02  #國際
-
-伊拉克石油部長表示，與美國企業達成的協議將為伊拉克大幅提升油氣產能，並帶來伴生氣領域的投資。
-
----
-
-### 2026-07-22 03:16:44  #MKT News #Important
-
-Iraq's oil minister said that during the prime minister's visit to the U.S., Iraq's oil ministry and U.S. companies signed agreements expected to total about $200 billion.
-
----
-
-### 2026-07-22 03:15:28  #焦點 #國際
-
-伊拉克石油部長表示，總理訪美期間，伊拉克石油部與美國企業簽署的協議總金額預估為2000億美元。
-
----
-
-### 2026-07-22 03:15:01  #市場
-
-【“金融引擎”馬力全開 上海上半年金融業增加值勁增10.2%】近日，上海市統計局釋出的2026年上半年上海經濟執行資料顯示：上海地區生產總值（GDP）達27886.63億元，同比增長5.6%，增速跑贏全國平均水平。其中，金融業增加值為4964.18億元，同比增長10.2%，延續了一季度的良好勢頭。金融業的增長動力，來自金融市場交易的全面活躍。上半年，上海主要金融市場實現成交額2269.16萬億元，同比增長24.1%。具體而言，各大金融基礎設施全面開花：上海期貨交易所成交額同比增長53.9%，上海黃金交易所成交額同比增長38.2%，上海證券交易所有價證券成交額同比增長35.2%，銀行間市場成交額同比增長16.6%。(上證報)
-
----
-
-### 2026-07-22 03:14:51  #MKT News #Market Regions #Europe & UK #Brent #Impact bullish #XAUUSD #DXY
-
-【New UK prime minister approves US use of UK bases for partial 'defensive strikes' on Iran】According to foreign media and people familiar with the matter, new UK prime minister Andy Burnham has approved US use of UK military bases for partial 'defensive strikes' on Iran, continuing policy under former prime minister Keir Starmer. Starmer chaired a meeting of senior ministers and officials last Friday to review UK policy after the US resumed military action earlier this month; the meeting agreed to allow US aircraft to operate from the Diego Garcia base in the Indian Ocean and RAF Fairford in Gloucestershire. The missions are described as aimed at countering Iranian missile threats and striking assets used to attack facilities in the Strait of Hormuz. Burnham, who took office on Monday, was briefed on the discussion and has agreed to the decision.
 
 ---

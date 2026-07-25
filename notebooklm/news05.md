@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-26 01:36:16_
-_本檔包含 3466 則快訊，約 687208 字_
+_更新時間：2026-07-26 02:32:51_
+_本檔包含 3459 則快訊，約 685980 字_
+
+---
+
+### 2026-07-20 21:52:05  #公司
+
+【A股迎多重積極訊號，多方合力提振資本市場信心】7月20日，A股迎來多重積極訊號，市場主體護盤舉措落地。“六大方陣”協同發力，以提振市場信心，包括：證監會召開投資者座談會傾聽市場訴求；“國家隊”、央企、上市公司、公募私募、保險資金同步推出增持、回購、自購、加大權益配置等動作；股票ETF持續迎來大額資金淨流入，外資機構、頭部券商也釋放樂觀判斷，多方合力提振資本市場信心。（中國基金報）
+
+---
+
+### 2026-07-20 21:51:35  #其他
+
+【2026世界人工智慧大會暨人工智慧全球治理高階別會議閉幕，龔正出席閉幕式併為上海物理智慧與機器人研究院揭牌】7月17日至20日，2026世界人工智慧大會暨人工智慧全球治理高階別會議在上海成功舉辦。國家主席習近平出席大會開幕式並發表主旨講話，102個國家和國際組織的官方代表、產學研界嘉賓等出席大會。本屆大會是全球人工智慧領域規模最大、影響力最廣的國際盛會之一，也是我國首次在人工智慧領域舉辦的高規格主場外交活動。今天（7月20日），大會閉幕式在世博中心舉行。上海市市長龔正出席，併為上海物理智慧與機器人研究院揭牌。副市長陳杰作成果總結。（澎湃）
+
+---
+
+### 2026-07-20 21:50:36  #其他
+
+【官方通報“有黑水排入雅礱江”：沿途無礦山礦企和導致水體變黑的排口】7月20日，四川甘孜州九龍生態環境局釋出情況通報：7月20日15時38分，博主“朱凱釣魚”反映甘孜州九龍縣子耳鄉有大量黑水排入雅礱江，汙染帶長達數十公里。該博主釋出此條資訊之前，我局已發現子耳河水體變黑並組織工作人員開展溯源核查，並上報州生態環境局，對甘孜州境內河段開展全面溯源排查，沿途無礦山礦企和導致水體變黑的排口。同時，對上游入境斷面、中游對照斷面、下游入江斷面3個點位水質進行快檢，氨氮、總氮、總磷、化學需氧量均不超標。州生態環境局已派出執法監測人員趕赴現場進一步核查。感謝大家對我縣生態環境保護工作的關心，後續進一步的核查結果和水質檢測報告我們將及時通報。
+
+---
+
+### 2026-07-20 21:50:15  #公司
+
+【不超28.8億元，杭電股份擬募資加碼光通訊與高階銅箔】7月20日晚間，杭電股份（SH603618，股價26.29元，市值181.76億元）披露2026年度向特定物件發行A股股票預案。公司計劃向不超過35名特定投資者發行股票，募集資金總額不超過28.7986億元，扣除發行費用後將全部用於“光纖預製棒、石英母材與新型光纖研發與製造超級工廠建設專案”以及“年產3萬噸人工智慧用高階電子電路銅箔專案”。（每經）
+
+---
+
+### 2026-07-20 21:50:06  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact mixed #S&P500
+
+US Conference Board leading economic index m/m for June due in 10 minutes.
+
+---
+
+### 2026-07-20 21:50:05  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+【Russian central bank gold reserves fall for sixth month; dollar value drops about $26.9 bln】The Russian central bank reported gold reserves fell for a sixth consecutive month in June, down 0.4% (–9.3 t) to 73.4 mln troy oz (2,282.995 t) as of July 1. The dollar value of those holdings declined 8.25% in June to $298.991 bln from $325.872 bln on June 1, a reduction of roughly $26.9 bln. Gold's share of international reserves slipped to 41.5% from 43.6%. For 2025 the bank's gold volume edged down 0.27% while value rose 66.85% YoY from $195.707 bln, lifting gold's reserve share from 32.13% to 43.26%. Physical gold holdings were unchanged in 2023–24 at 75.0 mln troy oz (2,332.76 t).
+
+---
+
+### 2026-07-20 21:50:03  #MKT News
+
+Ukrainian President Zelenskiy said airborne assault units of the Ukrainian Armed Forces are achieving necessary results.
+
+---
+
+### 2026-07-20 21:49:08  #MKT News
+
+CNN reports the suspect in a thrown-device incident has been detained.
+
+---
+
+### 2026-07-20 21:48:52  #宏觀 #國際
+
+【黎巴嫩啟動首批“試點區”行動 推進美黎以三方框架協議落實】美國國務院發表宣告宣佈，黎巴嫩軍隊已在黎南部啟動首批“試點區”行動。此舉是落實美黎以三方框架協議的重要步驟，旨在透過小範圍試點，檢驗黎巴嫩政府軍接管區域安全及解除真主黨武裝的能力。據美國國務院介紹，此次行動是根據6月26日在華盛頓達成的三方框架協議推進的。在黎巴嫩軍事協調小組的主持下，黎巴嫩軍隊已在弗龍、斯里法和扎烏塔爾·阿爾-加爾比亞三個村莊開始“試點區”行動，以實現真主黨非軍事化。此前，黎巴嫩和以色列於7月14日至15日在義大利羅馬舉行了新一輪談判，雙方就“試點區”的結構、運作準則以及黎巴嫩軍隊進駐部署機制等問題取得了進展。根據三方框架協議的核心安排，以色列軍隊將逐步撤出黎巴嫩南部劃定的“試點區”，交由黎巴嫩政府軍接管，並在美軍陪同下完成部署。該計劃旨在透過小範圍試點，檢驗黎巴嫩政府軍接管區域安全、防止真主黨重新進入的能力。若實施順利，這一機制將逐步推廣至黎南部更多地區，最終實現以軍全面撤出和黎巴嫩恢復國家主權。然而，協議落地仍面臨多重挑戰。黎巴嫩真主黨已明確拒絕該協議及任何解除武裝的努力，並譴責協議“可恥且無效”。分析人士指出，只要真主黨拒絕解除武裝，以色列就不會給出明確的撤軍時間表，黎巴嫩政府軍也無法安全接管區域。此外，美伊對抗的走向也可能成為影響協議執行的變數。美國國務卿魯比奧在19日與黎巴嫩總統奧恩會晤時重申，美國支援落實三方框架協議，並呼籲各方推進解除真主黨武裝、摧毀其恐怖主義基礎設施等事宜。美國國務院發言人表示，雙方現在將進入擴大後的技術性會談階段，重點是落實三方框架協議的所有內容，目標是推動以色列和黎巴嫩達成一項全面協議。
+
+---
+
+### 2026-07-20 21:48:50  #MKT News
+
+CNN reports a man threw an incendiary device at the FBI headquarters in New York City.
+
+---
+
+### 2026-07-20 21:48:26  #其他
+
+市場訊息： 有人向紐約聯邦調查局總部投擲燃燒裝置。
+
+---
+
+### 2026-07-20 21:47:46  #Trading Economics #Economy #Ethiopia #Inflation Rate #Importance 1
+
+Ethiopia Inflation Rate at 1-Year High — The annual inflation rate in Ethiopia rose to 13.9% in June 2026, marking the highest level in a year and accelerating from 13.4% in the previous month. Food inflation accelerated to 15.1% from 15% in May, the highest level since January 2025, due to increases in most food commodities such as bread and cereals (7.3%) and vegetables (12.8%), while costs for meat products eased to 19.2%. Non-food inflation also accelerated, to 12.2% from 11.1%. Housing and utilities costs rose further (9.5% vs 6.8%), along with restaurants and hotels (12% vs 10.5%), furnishings (13% vs 12.7%), clothing and footwear (13.5% vs 13.2%) and education (17.3% vs 9.6%). In contrast, inflation eased for transports (14.3% vs 17.1%) and alcoholic beverges and tobacco (14.5% vs 14.6%). On a monthly basis, consumer prices rose 1% in June, easing from a 1.7% increase in the previous month.
 
 ---
 
@@ -20818,119 +20890,5 @@ IRNA reported Bushehr province governor Mohammad Mozafari said there is currentl
 ### 2026-07-19 02:33:18  #國際
 
 【美軍連續七夜打擊伊朗設施 伊朗反擊多國美軍基地並封鎖海峽】美軍連續第七晚對伊朗境內多處偵察據點、武器倉庫及海上基礎設施發動打擊。伊朗展開反擊，襲擊了科威特、約旦、巴林境內的美軍基地；連續第二天打擊科威特電力與供水設施，致使科威特國際機場暫停航班運營。伊朗革命衛隊稱兩艘油輪在霍爾木茲海峽觸雷，但美軍對此予以否認。伊朗方面表示已扣押四艘試圖通行該海峽的船隻。布倫特原油價格重回每桶88美元上方。美軍打擊造成伊朗電力設施受損，伊朗官方呼籲民眾減少用電、停用空調。伊朗南部四省學校取消考試。伊朗官方媒體報道，此次襲擊已造成至少8人死亡、20人受傷。伊朗發出警告：美方若繼續發動打擊，將面臨伊朗的“全面進攻行動”。
-
----
-
-### 2026-07-19 02:31:37  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
-
-TASNIM News released footage showing Iranian missiles striking Jordan's Muwaffaq Salti Air Base. The attack killed two US service members and left one US service member missing.
-
----
-
-### 2026-07-19 02:25:11  #國際
-
-以色列總理內塔尼亞胡對阿根廷總統米萊表示：在諸多方面都支援阿根廷，明天也同樣如此。毫不掩飾自己支援阿根廷，相信大多數以色列民眾都站在阿根廷這邊。祝好運！阿根廷加油！
-
----
-
-### 2026-07-19 02:23:24  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
-
-【U.S. media: U.S. military casualties in Jordan may further erode domestic support for the war】CNN reported the U.S. military said two U.S. service members were killed in operations in Jordan yesterday and one is missing. In the first phase of U.S. operations against Iran, 13 service members had died; a later pilot fatality raised that to 14. The latest losses bring the total to 16, possibly 17. The report says the casualties are likely to further weaken already-low U.S. public support for the war and are politically sensitive for President Trump.
-
----
-
-### 2026-07-19 02:22:10  #國際
-
-黎巴嫩：以色列無人機對黎巴嫩南部邁夫敦鎮通往祖塔爾一帶的郊區實施空襲。
-
----
-
-### 2026-07-19 02:21:50  #MKT News
-
-【New York mayor says Netanyahu should be arrested if he attends UNGA in New York】New York mayor Mamdani said in a Saturday interview that if Israeli Prime Minister Netanyahu travels to New York to attend the UN General Assembly in September, he believes Netanyahu should be arrested on alleged war crimes. The International Criminal Court has previously charged Netanyahu with alleged war crimes and crimes against humanity over Israel’s military campaign in Gaza. I think Netanyahu should appear in The Hague, he said, adding I will follow current New York law, a comment the mayor said indicates he will not proactively move to enforce prior threats of arrest. The ICC has no jurisdiction in the United States and U.S. federal law bars local governments from cooperating with the court.
-
----
-
-### 2026-07-19 02:20:57  #國際
-
-美國民主黨聯邦參議員魯本·加列戈指責特朗普宣稱重啟對伊朗敵對行動，此舉意在規避《戰爭權力決議案》。他表示，這場衝突從未真正停歇，同時他質疑新一輪海上封鎖能否提升美國安全，或是推動衝突走向終結。
-
----
-
-### 2026-07-19 02:17:52  #國際
-
-伊朗總統：最高領袖的智慧且促進團結的資訊，以及他對三權領導人和國家官員的支援，是維護國家利益和伊朗繁榮的最重要後盾和資本。 堅持團結的要求並避免分歧和分裂，是在這一歷史關頭取得勝利的秘訣。
-
----
-
-### 2026-07-19 02:12:34  #國際
-
-伊朗最高領袖：民眾應充分信任政府三大部門恪盡職守的官員，他們為人民福祉與國家繁榮付出的努力有目共睹；與此同時，民眾也將保持警醒、積極行動，全力捍衛伊朗的各項利益。
-
----
-
-### 2026-07-19 02:12:12  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-Israel's Channel 13 reported the U.S. is preparing to deploy about 100 aerial-refueling tankers to the Middle East to extend its operational range against Iran. Israel's defense establishment is preparing for a possible major escalation in the region.
-
----
-
-### 2026-07-19 02:10:50  #國際
-
-以色列官員：美國正準備擴大針對伊朗的打擊行動範圍，計劃向該地區部署約100架空中加油機。
-
----
-
-### 2026-07-19 02:08:33  #國際
-
-美國民主黨聯邦參議員科裡·布克指責特朗普在對伊朗問題上“一條道走到黑，執意延續這場失敗的戰爭”。他表示，這場衝突毫無意義，既沒有清晰作戰目標，還推高燃油與食品物價，耗費納稅人數十億美元資金。
-
----
-
-### 2026-07-19 02:07:25  #MKT News
-
-Senator Sanders said the United States once inspired the world through its steadfast commitment to democracy and justice; regrettably, under President Trump it no longer does.
-
----
-
-### 2026-07-19 02:07:00  #市場 #焦點
-
-紐約原油暗盤突破83美元 日內漲超1.5%。
-
----
-
-### 2026-07-19 02:03:41  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Expert: US-Iran conflict could further escalate in coming weeks】Abbas Aslani, senior researcher at Tehran’s Middle East Strategic Studies Center, said CENTCOM’s latest statement may be a prelude to further escalation. "In the past few days we have seen limited, controlled exchanges of fire. It appears the conflict has not reached its final phase of confrontation. In the coming days or weeks we may see more intense hostile actions," he said.
-
----
-
-### 2026-07-19 02:02:41  #公司 #市場
-
-【SpaceX跌破發行價 “木頭姐”抄底增持】根據“木頭姐”Cathie Wood旗下ARK Invest投資管理公司7月17日的交易披露，在SpaceX(SPCX.O)股價週五跌破發行價後，ARK Invest買入了價值1830萬美元的該股股票。ARK Invest四隻主動管理型ETF合計買入147,623股。當日該股收盤價為123.99美元，盤中最低觸及122.12美元。此次買入更像是在股價走弱過程中堅定增持而非對沖操作，因為此次交易進一步擴大了ARK此前已經持有的較大倉位。根據追蹤ARK持倉的資料顯示，截至7月10日當週，該公司透過旗下ARKK、ARKQ、ARKW和ARKX基金合計累計買入約5210萬美元的相關股票，使ARK自6月SpaceX上市以來累計投入金額超過4.75億美元。這表明Cathie Wood領導的團隊一直將每次下跌都視為買入機會，而非警示訊號。
-
----
-
-### 2026-07-19 02:00:37  #觀點
-
-摩根大通與Coinbase至今仍未推出雙方近一年前官宣的面向普通使用者的加密貨幣相關服務。
-
----
-
-### 2026-07-19 01:43:52  #國際
-
-美國地質調查局：墨西哥馬德羅港西南72公里處發生5.7級地震。
-
----
-
-### 2026-07-19 01:39:26  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【CNN: Trump administration has not specified duration or end goals of current Iran strikes】CNN reports that since the U.S. resumed daily airstrikes on Iran and reimposed a maritime blockade of Iranian ports a week ago after a fragile ceasefire collapsed, the Trump administration has not defined how long operations will continue or what the ultimate objectives are. Officials say Trump has received multiple options to expand the campaign; the U.S. military is seeking to degrade Iran’s control of the Strait of Hormuz. Trump has signaled intent to further escalate airstrikes, including threats to hit civilian infrastructure and potentially energy facilities, and has downplayed the importance of operation duration. Vice President Vance, the administration’s chief Iran negotiator, said military force alone would not be sufficient to eliminate Iranian control of the Strait of Hormuz.
-
----
-
-### 2026-07-19 01:36:55  #MKT News #Market Themes #The Trump Trade #Market Regions #Europe & UK
-
-【Trump administration preparing grants to back MAGA-aligned projects in Europe; $2m proposed to counter EU digital rules】FT reports the Trump administration is preparing a package of grants for Europe and other regions to support initiatives aligned with MAGA, as part of a major reprioritization of U.S. foreign-aid priorities. A copy of a State Department notice to lawmakers shows proposed funding includes $2m for "countering censorship," aimed at addressing impacts from EU rules such as the Digital Services Act and Digital Markets Act; other listed projects resemble traditional U.S. aid programs.
 
 ---
