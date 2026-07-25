@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-25 16:11:31",
-  "count": 18247,
+  "updated": "2026-07-25 16:15:44",
+  "count": 18246,
   "items": [
+    {
+      "id": "mkt:019f9855-6bcd-7aab-8e94-44d456196712",
+      "time": "2026-07-25 16:12:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Flood Control and Drought Relief Headquarters raises Guangdong flood/typhoon emergency response to Level 3】Typhoon Hongxia intensified to typhoon strength on the morning of July 25 and is forecast to make landfall along the coast between Hong Kong and Lufeng, Guangdong, between the night of July 25 and the morning of July 26. Forecast intensity: typhoon to strong typhoon, wind force 12–14 (35–42 m/s). Under the National Flood and Drought Emergency Response Plan and related rules, the National Flood Control and Drought Relief Headquarters upgraded Guangdong’s flood and typhoon emergency response to Level 3 at 16:00 on July 25 and simultaneously activated Level 4 responses for Jiangxi and Hunan."
+    },
     {
       "id": "5007905",
       "time": "2026-07-25 16:08:08",
@@ -167247,22 +167255,6 @@
         "Brent"
       ],
       "text": "Zelenskiy said Ukraine struck two major logistics facilities in Russia's Moscow and Tambov regions and hit Russian oil facilities."
-    },
-    {
-      "id": "4995408",
-      "time": "2026-07-18 16:15:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱對特朗普和內塔尼亞胡提起訴訟】伊朗司法部門發言人阿斯加爾·賈漢吉爾週六表示，伊朗司法部門已就最近的戰爭對美國總統唐納德·特朗普和以色列總理本雅明·內塔尼亞胡提起訴訟。他表示，伊朗已“記錄了近期戰爭造成的所有損失”，並補充說，“根據國際法，任何侵略者都必須受到起訴並支付賠償。”賈漢吉爾表示，針對特朗普和內塔尼亞胡的法律訴訟“正在國際法庭進行”。上個月，伊朗總檢察長表示，司法部門已就近期衝突對內塔尼亞胡、特朗普和其他以色列官員提起201項刑事訴訟，並補充說，當局正在追究這些案件引發的賠償要求。"
-    },
-    {
-      "id": "4995407",
-      "time": "2026-07-18 16:12:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：今天遠端打擊了位於莫斯科州和坦波夫州的兩處重要後勤設施，這兩處設施供應用於生產無人機和導航裝置的零部件。一處石油設施也遭到打擊。此外，烏克蘭特種作戰部隊還對亞速海、黑海以及克里米亞地區的目標實施了打擊。"
     }
   ]
 }
