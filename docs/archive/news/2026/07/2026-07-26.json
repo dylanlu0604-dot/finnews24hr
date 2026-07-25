@@ -1,7 +1,27 @@
 {
   "date": "2026-07-26",
-  "count": 43,
+  "count": 45,
   "items": [
+    {
+      "id": "mkt:019f9a7d-a84a-7aab-8e96-4debca2efbd0",
+      "time": "2026-07-26 02:15:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Zelenskiy said Russian satellite monitoring shows Moscow is assisting Tehran with strike operations in the Middle East."
+    },
+    {
+      "id": "5008107",
+      "time": "2026-07-26 02:14:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊： 烏克蘭總統澤連斯基稱：俄方衛星偵察情報顯示，俄羅斯正在為伊朗提供指引，協助其在中東發動打擊行動。"
+    },
     {
       "id": "mkt:019f9a78-18e9-7aab-8e96-44d450eed890",
       "time": "2026-07-26 02:09:49",
