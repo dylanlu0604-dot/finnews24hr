@@ -1,7 +1,36 @@
 {
   "date": "2026-07-25",
-  "count": 814,
+  "count": 817,
   "items": [
+    {
+      "id": "5007922",
+      "time": "2026-07-25 17:30:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長阿拉格齊：諒解備忘錄第五條規定明確，伊朗是決定穿越霍爾木茲海峽機制的實體。"
+    },
+    {
+      "id": "5007921",
+      "time": "2026-07-25 17:29:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德國工商界批評美國新關稅加劇貿易不確定性】當地時間7月24日，德國工商大會、德國批發和外貿協會分別就美國最新關稅措施發表宣告，批評美方頻繁調整關稅政策，加劇企業經營和投資的不確定性。德國工商大會外貿主管福爾克·特賴爾表示，美國正試圖透過新的法律依據恢復此前被法院叫停的關稅措施，持續變化的政策增加了企業行政負擔和法律風險，難以形成穩定、可預期的經營環境。他強調，美方違反世貿組織規則的關稅措施應全面取消，特別是目前仍在實施的對鋼鋁產品徵收的額外關稅。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f989b-b0e9-7aab-8e94-948d19730d35",
+      "time": "2026-07-25 17:29:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【German business groups say US tariff shifts increase trade uncertainty】On July 24 the Association of German Chambers of Commerce (DIHK) and the German Wholesale and Foreign Trade Association said recent US tariff measures and frequent policy shifts are exacerbating operational and investment uncertainty. Volker Treier, DIHK head of foreign trade, said the US appears to be seeking a new legal basis to reinstate tariffs previously suspended by courts; the ongoing changes increase firms’ administrative and legal costs and undermine a predictable business environment. He urged the full removal of US tariffs that violate WTO rules, singling out the additional steel and aluminum duties still in effect."
+    },
     {
       "id": "5007920",
       "time": "2026-07-25 17:24:12",
