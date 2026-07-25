@@ -1,7 +1,88 @@
 {
   "date": "2026-07-25",
-  "count": 709,
+  "count": 717,
   "items": [
+    {
+      "id": "mkt:019f97af-ee31-7aab-8e93-77ef6c9ca559",
+      "time": "2026-07-25 13:11:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "005930.KS",
+        "Impact bullish",
+        "AVGO.O"
+      ],
+      "text": "Samsung Electronics and Broadcom signed a memorandum of understanding to cooperate through 2030 on memory chips, foundry services and advanced packaging, with potential deal value up to $200 billion. Samsung will work with Broadcom to develop Broadcom’s next-generation AI accelerators using Samsung HBM technology and will provide sub-2nm foundry process capabilities and advanced packaging solutions."
+    },
+    {
+      "id": "5007856",
+      "time": "2026-07-25 13:11:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：已與博通簽署諒解備忘錄，截至2030年，合作規模涉及儲存晶片、晶圓代工服務及先進封裝領域，總金額最高達2000億美元。"
+    },
+    {
+      "id": "5007855",
+      "time": "2026-07-25 13:11:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：將與博通合作，基於三星的高頻寬記憶體（HBM）技術開發博通的下一代人工智慧加速器。"
+    },
+    {
+      "id": "mkt:019f97af-9e8c-7aab-8e93-6ef31b5a1846",
+      "time": "2026-07-25 13:11:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "005380.KS"
+      ],
+      "text": "Hyundai Motor Group chairman Chung Eui-sun unveiled a \"physical AI\" vision at the AI Summit in San Francisco."
+    },
+    {
+      "id": "5007854",
+      "time": "2026-07-25 13:11:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：將提供2奈米以下晶圓代工工藝及先進封裝解決方案。"
+    },
+    {
+      "id": "mkt:019f97af-0694-7aab-8e93-64831f332025",
+      "time": "2026-07-25 13:10:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "SK Group deepens strategic partnership with NVIDIA covering an AI factory and next-generation storage technologies."
+    },
+    {
+      "id": "mkt:019f97ae-d475-7aab-8e93-5dbadcb93423",
+      "time": "2026-07-25 13:10:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Ministry of Science and ICT said SK Group will partner with ANTHROPIC to invest in a gigawatt (GW)-scale AI data center project in South Korea."
+    },
+    {
+      "id": "5007853",
+      "time": "2026-07-25 13:09:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國科技部：SK集團將與Anthropic開展投資合作，在韓國建設吉瓦級人工智慧資料中心專案。"
+    },
     {
       "id": "mkt:019f97aa-609a-7aab-8e93-50444a10c0a7",
       "time": "2026-07-25 13:05:53",

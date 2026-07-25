@@ -1,7 +1,88 @@
 {
-  "updated": "2026-07-25 13:09:25",
-  "count": 18269,
+  "updated": "2026-07-25 13:13:18",
+  "count": 18274,
   "items": [
+    {
+      "id": "mkt:019f97af-ee31-7aab-8e93-77ef6c9ca559",
+      "time": "2026-07-25 13:11:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "005930.KS",
+        "Impact bullish",
+        "AVGO.O"
+      ],
+      "text": "Samsung Electronics and Broadcom signed a memorandum of understanding to cooperate through 2030 on memory chips, foundry services and advanced packaging, with potential deal value up to $200 billion. Samsung will work with Broadcom to develop Broadcom’s next-generation AI accelerators using Samsung HBM technology and will provide sub-2nm foundry process capabilities and advanced packaging solutions."
+    },
+    {
+      "id": "5007856",
+      "time": "2026-07-25 13:11:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：已與博通簽署諒解備忘錄，截至2030年，合作規模涉及儲存晶片、晶圓代工服務及先進封裝領域，總金額最高達2000億美元。"
+    },
+    {
+      "id": "5007855",
+      "time": "2026-07-25 13:11:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：將與博通合作，基於三星的高頻寬記憶體（HBM）技術開發博通的下一代人工智慧加速器。"
+    },
+    {
+      "id": "mkt:019f97af-9e8c-7aab-8e93-6ef31b5a1846",
+      "time": "2026-07-25 13:11:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "005380.KS"
+      ],
+      "text": "Hyundai Motor Group chairman Chung Eui-sun unveiled a \"physical AI\" vision at the AI Summit in San Francisco."
+    },
+    {
+      "id": "5007854",
+      "time": "2026-07-25 13:11:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：將提供2奈米以下晶圓代工工藝及先進封裝解決方案。"
+    },
+    {
+      "id": "mkt:019f97af-0694-7aab-8e93-64831f332025",
+      "time": "2026-07-25 13:10:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "SK Group deepens strategic partnership with NVIDIA covering an AI factory and next-generation storage technologies."
+    },
+    {
+      "id": "mkt:019f97ae-d475-7aab-8e93-5dbadcb93423",
+      "time": "2026-07-25 13:10:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Ministry of Science and ICT said SK Group will partner with ANTHROPIC to invest in a gigawatt (GW)-scale AI data center project in South Korea."
+    },
+    {
+      "id": "5007853",
+      "time": "2026-07-25 13:09:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國科技部：SK集團將與Anthropic開展投資合作，在韓國建設吉瓦級人工智慧資料中心專案。"
+    },
     {
       "id": "mkt:019f97aa-609a-7aab-8e93-50444a10c0a7",
       "time": "2026-07-25 13:05:53",
@@ -167402,35 +167483,6 @@
         "國際"
       ],
       "text": "科威特軍方表示，科威特目前正在攔截從伊朗發射的導彈和無人機。"
-    },
-    {
-      "id": "4995331",
-      "time": "2026-07-18 13:12:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【重慶山體崩塌現場發現生命跡象】今天10時50分左右，重慶彭水山體崩塌現場，在一隻搜救犬的幫助下，救援人員發現生命跡象。但現場雷達檢測出現位移，目前，指揮部正在研究科學搜救方案。（央視新聞）"
-    },
-    {
-      "id": "4995330",
-      "time": "2026-07-18 13:10:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國盯上跨國大橋收益 加拿大堅持優先回本】圍繞連線美國密歇根州與加拿大安大略省的戈迪·豪跨國大橋，美國與加拿大的博弈還在繼續。加拿大總理馬克·卡尼16日說，在收回全部前期建設投入前，加拿大不會與美國共享這座大橋的過橋費收入。（新華社）"
-    },
-    {
-      "id": "mkt:019f73a1-961b-7aab-8ded-e29f11af2fef",
-      "time": "2026-07-18 13:09:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "TASNIM NEWS reported Iran’s Islamic Revolutionary Guard Corps said it struck US fighter facilities at Sheikh Isa airbase."
     }
   ]
 }
