@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-25 19:16:16",
+  "updated": "2026-07-25 19:20:13",
   "count": 18204,
   "items": [
+    {
+      "id": "mkt:019f98fe-cdbf-7aab-8e94-f540937f5008",
+      "time": "2026-07-25 19:17:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Hong Kong chief executive orders preparations as Typhoon Hongxia approaches】Hong Kong Chief Executive John Lee said he has directed government departments to mount full contingency preparations as Typhoon Hongxia approaches. The Hong Kong government will keep departments on duty and deploy measures to protect life, property and public safety; the public was urged to remain alert and follow official weather updates. Officials warned that even after the No. 8 gale or storm signal is lowered, Hongxia may still bring strong winds and heavy rain. The district consultation session on the first five-year plan and the 2026 Policy Address scheduled for tomorrow (26th) has been postponed."
+    },
     {
       "id": "mkt:019f98fa-c077-7aab-8e94-e9e1478b07df",
       "time": "2026-07-25 19:13:17",
@@ -166823,15 +166833,6 @@
         "MKT News"
       ],
       "text": "Lebanese military said a suspected explosive device detonated on a military vehicle in the Mansouri area, killing one soldier and wounding another."
-    },
-    {
-      "id": "4995478",
-      "time": "2026-07-18 19:17:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油暗盤突破87美元 日內漲超3.5%。"
     }
   ]
 }
