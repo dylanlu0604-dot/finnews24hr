@@ -1,7 +1,15 @@
 {
   "date": "2026-07-26",
-  "count": 5,
+  "count": 6,
   "items": [
+    {
+      "id": "mkt:019f9a10-fcd2-7aab-8e95-ce24545c6f6b",
+      "time": "2026-07-26 00:17:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera said West Bank settlers are blocking the tunnel road to a village northwest of Jerusalem and throwing stones at vehicles."
+    },
     {
       "id": "5008084",
       "time": "2026-07-26 00:14:54",

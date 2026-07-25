@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 00:16:40",
-  "count": 18173,
+  "updated": "2026-07-26 00:20:46",
+  "count": 18172,
   "items": [
+    {
+      "id": "mkt:019f9a10-fcd2-7aab-8e95-ce24545c6f6b",
+      "time": "2026-07-26 00:17:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera said West Bank settlers are blocking the tunnel road to a village northwest of Jerusalem and throwing stones at vehicles."
+    },
     {
       "id": "5008084",
       "time": "2026-07-26 00:14:54",
@@ -166517,22 +166525,6 @@
         "國際"
       ],
       "text": "市場資訊：法國和德國將攜手合作，對標美國巨頭帕蘭提爾，研發可替代美國帕蘭提爾公司軍用軟體的歐洲本土產品，旨在降低對美國防務技術的依賴。"
-    },
-    {
-      "id": "mkt:019f7607-4d0b-7aab-8df1-b7f3b85c84d0",
-      "time": "2026-07-19 00:20:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran foreign ministry says MoU does not allow US to open independent parallel route in Strait of Hormuz】On the 18th, Iran’s foreign ministry said Article 5 of the US‑Iran MoU does not permit the US to open an independent parallel route in the Strait of Hormuz. The MoU is based on reciprocal commitments; Iran will abide by its obligations so long as the US fulfills its own."
-    },
-    {
-      "id": "mkt:019f7605-d6cc-7aab-8df1-ad4ae4f1c715",
-      "time": "2026-07-19 00:18:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【AIPAC removes online donation links for House Democrats who voted to halt U.S. military aid to Israel】Politico and other outlets report AIPAC’s political action committee has removed online donation options for more than ten House Democrats who had previously supported U.S. military aid to Israel but recently voted to halt it, including House Democratic No.2 Katherine Clark. AIPAC spokesman Darin Sousa said, \"AIPAC members are very grateful to representatives who stood by their position and disappointed in those who did not.\""
     }
   ]
 }
