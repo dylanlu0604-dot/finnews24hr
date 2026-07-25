@@ -1,7 +1,426 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-25 18:33:21_
-_本檔包含 3771 則快訊，約 691384 字_
+_更新時間：2026-07-25 19:43:44_
+_本檔包含 3790 則快訊，約 690633 字_
+
+---
+
+### 2026-07-21 23:33:10  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+President Trump said the U.S. will not withdraw now and has already had a significant impact on Iran.
+
+---
+
+### 2026-07-21 23:32:50  #焦點 #國際
+
+特朗普：我們眼下不會撤離，我們已對伊朗形成重大震懾。
+
+---
+
+### 2026-07-21 23:32:20  #宏觀 #市場 #國際
+
+美國財政部拍賣六週期國債，得標利率3.650%，投標倍數2.79。
+
+---
+
+### 2026-07-21 23:32:14  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+President Trump said the U.S. is far from finished with Iran.
+
+---
+
+### 2026-07-21 23:32:12  #MKT News
+
+US President Trump said he would talk to Hezbollah if Lebanese President Aoun asked him to.
+
+---
+
+### 2026-07-21 23:32:03  #國際
+
+特朗普：我們與伊朗的鬥爭根本沒結束。
+
+---
+
+### 2026-07-21 23:31:54  #國際
+
+【聯合國人權高專辦：以色列對加沙的襲擊升級】聯合國人權事務高階專員辦事處發言人薩明·希坦21日在日內瓦舉行的記者會上指出，以色列近日加大了對加沙地帶的襲擊力度，僅13日至20日的襲擊已造成至少57名巴勒斯坦人死亡。希坦說，巴以停火宣佈9個月後，加沙地帶的巴勒斯坦人仍無安全之地。以本月17日至18日為例，以色列在加沙城、北加沙省和南部的汗尤尼斯等地發動了10次襲擊，造成至少21名巴勒斯坦人死亡，包括4名兒童和3名婦女。希坦表示，這些襲擊造成平民喪生，引發了人們對加沙地帶持續違反國際人道主義法、犯下戰爭罪以及可能發生其他暴行罪行的擔憂。希坦警告，加沙地帶的巴勒斯坦人仍被困在日益縮小的區域內。以色列不斷將“黃線”向西推移，使當地民眾持續面臨生命威脅。據巴勒斯坦衛生部資料，自2025年10月以來，已有超過1100名巴勒斯坦人被以軍殺害。(新華社)
+
+---
+
+### 2026-07-21 23:31:52  #MKT News
+
+US President Trump said he will hold talks with Hezbollah.
+
+---
+
+### 2026-07-21 23:31:34  #國際
+
+特朗普：若奧恩提出要求，我願意與真主黨展開對話。
+
+---
+
+### 2026-07-21 23:31:15  #公司
+
+倫敦金屬交易所（LME）公告：伊斯蒂姆金屬有限責任公司底特律倉庫新增納入銅交割倉庫名錄，自 2026 年 10 月 6 日生效；該倉庫自 2026 年 10 月 13 日起方可出具銅倉單。
+
+---
+
+### 2026-07-21 23:30:21  #其他
+
+德國DAX 30指數初步收漲0.51%，報24973.35點。法國股指初步收漲0.10%，義大利股指初步收漲0.69%、銀行指數漲0.94%，英國股指初步收漲0.39%。
+
+---
+
+### 2026-07-21 23:30:19  #MKT News
+
+【Trump says US will step up support for Lebanon; not interested in meeting Iran】At a White House meeting with Lebanon’s president, Trump said US-Lebanon ties are strong and the US will substantially increase assistance to Lebanon. He said Israel is withdrawing forces from Lebanon and redeploying them elsewhere. On a new round of US-Iran talks, Trump said Iran wants a meeting but he will not meet until Iran is ready.
+
+---
+
+### 2026-07-21 23:30:18  #國際
+
+歐洲STOXX 600指數初步收漲0.43%，報642.37點。歐元區STOXX 50指數初步收漲0.78%，報6275.86點。富時泛歐績優300指數初步收漲0.48%，報2568.14點。
+
+---
+
+### 2026-07-21 23:30:11  #國際
+
+【俄烏持續發動無人機互襲】21日，俄國防部稱在多地攔截並摧毀烏克蘭無人機，烏克蘭方面則稱在多個方向壓制或擊落俄無人機。21日，俄羅斯國防部通報，20日夜間至21日凌晨，俄軍防空力量在莫斯科地區等多地以及克里米亞、亞速海和黑海水域上空，攔截並摧毀209架烏克蘭固定翼無人機。俄羅斯別爾哥羅德州代理州長舒瓦耶夫21日通報，過去一天內，該州因烏軍襲擊導致9人死亡、77人受傷。烏克蘭空軍21日通報稱，自20日18點起，俄軍使用58架攻擊型無人機襲擊烏克蘭。根據初步資料，烏克蘭防空部隊在北部、南部和東部擊落或壓制46架各型別無人機。烏克蘭蘇梅州軍事行政長官格里戈羅夫通報，俄軍一架無人機襲擊造成6人受傷。(央視新聞)
+
+---
+
+### 2026-07-21 23:30:03  #MKT News #SPCX.O #Impact bullish
+
+After seven straight trading-day declines, SpaceX (SPCX.O) shares rose 7.6%.
+
+---
+
+### 2026-07-21 23:29:19  #國際
+
+特朗普：這是有史以來最成功的一屆世界盃。
+
+---
+
+### 2026-07-21 23:28:52  #市場
+
+SpaceX 結束連續七日下跌，股價上漲 7.6%。
+
+---
+
+### 2026-07-21 23:26:38  #國際
+
+特朗普：約旦一事，倘若當時換其他執行人員，事態本不會演變成這樣。
+
+---
+
+### 2026-07-21 23:26:09  #國際
+
+美國防長赫格塞思：伊朗已獲得所有談判機會。
+
+---
+
+### 2026-07-21 23:25:58  #國際
+
+特朗普：沒人能突破封鎖。
+
+---
+
+### 2026-07-21 23:25:04  #市場
+
+美元兌日元上漲 0.26%，報 162.92；盤中觸及 163.04，為 1986 年 12 月以來首次突破 163 關口。
+
+---
+
+### 2026-07-21 23:23:44  #其他
+
+英國首相伯納姆發言人：英國政府在有關泰晤士水務的所有可能情況中“做好準備”，將考慮關於泰晤士水務的新提案。英國首相一直明確表示支援公共控股的好處。
+
+---
+
+### 2026-07-21 23:23:36  #MKT News
+
+A spokesperson for UK Prime Minister Burnham said the prime minister has consistently and explicitly expressed support for the benefits of public ownership.
+
+---
+
+### 2026-07-21 23:23:16  #MKT News #Important #Market Themes #The Trump Trade #XAUUSD #Impact bullish #WTI #DXY
+
+U.S. President Trump said he has no interest in holding a meeting until Iran is ready.
+
+---
+
+### 2026-07-21 23:23:06  #國際
+
+特朗普：在伊朗做好準備之前，我沒有興趣與他們會面。
+
+---
+
+### 2026-07-21 23:23:04  #MKT News #Important
+
+U.S. President Trump said Iran has sought a meeting and the U.S. is not interested.
+
+---
+
+### 2026-07-21 23:22:48  #其他
+
+英國官員：英國不會透過發行戰爭債券來籌集國防資金。
+
+---
+
+### 2026-07-21 23:22:41  #MKT News #Market Regions #Europe & UK
+
+A spokesperson for UK Prime Minister Braverman said the government is "prepared" for all eventualities regarding Thames Water and will consider new proposals on the company.
+
+---
+
+### 2026-07-21 23:22:39  #國際
+
+特朗普：伊朗迫切希望會面。
+
+---
+
+### 2026-07-21 23:21:56  #國際
+
+特朗普：將考察試點區域內的相關問題。
+
+---
+
+### 2026-07-21 23:21:52  #MKT News
+
+A spokesperson for UK Prime Minister Burnham said the UK will not issue war bonds to finance defence.
+
+---
+
+### 2026-07-21 23:21:34  #國際
+
+特朗普：將談及黎巴嫩軍隊接管真主黨撤離村莊相關事宜。
+
+---
+
+### 2026-07-21 23:21:34  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+【Indian refiners absorb record Russian crude; India ports received >2.3m bpd last month】Indian refiners are helping Russian exporters absorb record crude supplies, with large volumes routed to the South Asian market. Vessel-tracking data show India ports received Russian crude at an average of more than 2.3 million bpd last month; deliveries July-to-date are near that level. Where shipments were nearly zero before the Russia-Ukraine war, India has become a major buyer, easing seaborne build-ups. US sanctions still target some major Russian producers, but buyers continue to source Russian crude and exports have risen since sanctions introduced late last year, often via intermediaries.
+
+---
+
+### 2026-07-21 23:21:32  #MKT News
+
+U.S. President Trump said Israel is redeploying to other areas.
+
+---
+
+### 2026-07-21 23:21:18  #宏觀 #國際
+
+【王毅會見澳大利亞外長黃英賢】中共中央政治局委員、外交部長王毅21日在馬尼拉會見澳大利亞外長黃英賢。
+王毅表示，在兩國領導人共同引領下，中澳關係走上改善發展正軌，這符合兩國人民利益，符合國際社會期待。中方願同澳方加強交往，積累互信，拓展合作，推動中澳關係不斷取得新進展。雙方應秉持平等尊重態度妥處分歧，聚同化異，讓雙邊關係實現良性迴圈、向上發展，而不是被某些偏見所幹擾破壞。希望澳方堅持不干涉內政原則，摒棄雙重標準，同中方相向而行，維護好兩國關係改善勢頭。
+黃英賢表示，澳方重視對華關係，堅定奉行一箇中國政策，不支援“臺獨”。澳方願同中方落實好兩國領導人達成的重要共識，密切各層級交往，推進互利合作，透過對話接觸妥處矛盾分歧，推動澳中關係健康穩定發展。一個和平、穩定、繁榮的亞太符合澳中共同利益。澳方將支援中方辦好今年亞太經合組織領導人非正式會議。（央視新聞）
+
+---
+
+### 2026-07-21 23:21:13  #MKT News #XAUUSD #Impact bearish #DXY #WTI
+
+U.S. President Trump said Israel is withdrawing forces from Lebanon.
+
+---
+
+### 2026-07-21 23:20:15  #MKT News
+
+Venezuela's Ministry of Health said there is no scientific evidence of human-to-human transmission of hantavirus in the country.
+
+---
+
+### 2026-07-21 23:19:29  #宏觀 #國際
+
+【王毅會見加拿大外長阿南德】中共中央政治局委員、外交部長王毅21日在馬尼拉會見加拿大外長阿南德。
+王毅表示，今年以來，中加關係持續向好發展，各層級交往日益密切，各領域合作成果湧現。上半年雙邊貿易額同比增長16%，特別是加方對華出口增長23.3%。加油菜籽、牛肉等農產品重返中國市場，中國電動汽車進入加方市場，為兩國民眾提供更多優質選擇。事實證明，中加關係改善發展符合兩國共同利益，受到兩國人民歡迎，是歷史正確的選擇。中方願同加方一道，落實兩國領導人重要共識，籌備好下階段高層交往，增進政治互信，拓展交流合作，加強在全球治理、人工智慧等多邊事務協作，妥處分歧敏感問題，不斷豐富中加新型戰略伙伴關係內涵，為變亂交織的世界注入更多確定性。
+阿南德表示，對華關係是加方最重視的雙邊關係之一。當前加中關係改善發展勢頭良好強勁。雙方積極落實今年1月卡尼總理訪華期間兩國領導人會晤共識，各層級交往日趨熱絡，經貿合作不斷深化，特別是加方對華出口實現增長，兩國構建新型戰略伙伴關係不斷取得新成果。加方堅定奉行一箇中國政策，願同中方進一步密切高層交往，深化能源、貿易、金融、禁毒等領域互利合作，促進人文交流，加強多邊協調，透過對話消弭分歧，推動加中關係長期健康穩定發展。
+雙方還就共同關心的國際和地區問題交換意見。（央視新聞）
+
+---
+
+### 2026-07-21 23:19:11  #MKT News #Market Themes #The Trump Trade
+
+President Trump said if the Red Sea is blocked, he would have to address related matters.
+
+---
+
+### 2026-07-21 23:18:49  #市場
+
+有訊息稱蘋果將攜手 Klarna 推出 “Upgrade” 裝置租賃計劃以提振銷量，Klarna 股價上漲 7.9%。
+
+---
+
+### 2026-07-21 23:18:28  #國際
+
+特朗普談及胡塞武裝封鎖：一旦事態爆發，我們將採取必要行動處置。
+
+---
+
+### 2026-07-21 23:18:23  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+US President Trump, asked about a possible Red Sea blockade, said if it occurs the US will handle it.
+
+---
+
+### 2026-07-21 23:18:13  #國際
+
+被問及《亞伯拉罕協議》時，特朗普表示將與奧恩就此展開磋商。
+
+---
+
+### 2026-07-21 23:18:02  #國際
+
+特朗普談及胡塞武裝封鎖行動：後續事態有待觀察。
+
+---
+
+### 2026-07-21 23:18:01  #MKT News #WTI #Impact bullish #Brent
+
+U.S. President Trump said he would wait and see on the Houthi blockade.
+
+---
+
+### 2026-07-21 23:17:38  #其他
+
+委內瑞拉衛生部證實已有三人死於漢坦病毒感染。
+
+---
+
+### 2026-07-21 23:17:35  #MKT News
+
+New Zealand Global Dairy Trade (GDT) price index rose 1.5% on July 7; prior reading -4.9%.
+
+---
+
+### 2026-07-21 23:17:27  #MKT News #Economic Calendar #Important
+
+New Zealand | Global Dairy Trade Price Index (MoM) (Jul.7) | actual 1.5% | previous -4.9%
+
+---
+
+### 2026-07-21 23:17:02  #市場
+
+由紐西蘭運營的全球乳製品交易價格指數上漲 1.5%，拍賣平均成交價格為每噸 3815 美元。
+
+---
+
+### 2026-07-21 23:16:16  #MKT News
+
+President Aoun said Lebanon must achieve stability and security.
+
+---
+
+### 2026-07-21 23:16:15  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+【Apple to partner with Klarna on Apple Upgrade device-leasing program to boost sales】Apple (AAPL.O) plans to launch a device-leasing program called Apple Upgrade on July 28, a move sources say will be one of the largest changes to its device sales model. The US-first rollout will cover most iPhone, Mac, iPad and Apple Watch models and will be available in Apple retail stores and online. Klarna Group will provide funding for the program. The subscription-style service allows customers to prepay, upgrade early (early upgrades may incur fees), keep devices after the lease or return them. Lease terms: 24 months for iPhone and Apple Watch; 36 months for Mac and iPad.
+
+---
+
+### 2026-07-21 23:16:02  #國際
+
+黎巴嫩總統奧恩感謝特朗普，稱框架協議簽署具有歷史性意義。
+
+---
+
+### 2026-07-21 23:16:02  #MKT News
+
+Lebanese President Aoun thanked U.S. President Trump for the historic achievement in signing the framework agreement.
+
+---
+
+### 2026-07-21 23:15:29  #國際
+
+特朗普：黎巴嫩將得到公正對待，受到尊重。
+
+---
+
+### 2026-07-21 23:15:25  #MKT News
+
+U.S. President Trump said he will treat Lebanon properly and accord it due respect.
+
+---
+
+### 2026-07-21 23:15:01  #國際
+
+特朗普：我們將大力援助黎巴嫩。
+
+---
+
+### 2026-07-21 23:14:46  #MKT News
+
+President Trump said the U.S. will provide substantial assistance to Lebanon.
+
+---
+
+### 2026-07-21 23:14:27  #MKT News
+
+U.S. President Trump says he expects to make significant progress with Lebanon President Aoun.
+
+---
+
+### 2026-07-21 23:14:18  #國際
+
+特朗普：數十年來黎巴嫩遭受沉重打擊。
+
+---
+
+### 2026-07-21 23:14:18  #MKT News
+
+Trump said U.S. relations with Lebanon are very good.
+
+---
+
+### 2026-07-21 23:14:17  #MKT News
+
+U.S. President Trump said Lebanon has suffered severe damage for decades.
+
+---
+
+### 2026-07-21 23:14:08  #MKT News
+
+Klarna shares jumped more than 9% in a sharp intraday rally.
+
+---
+
+### 2026-07-21 23:13:56  #國際
+
+特朗普：將與黎巴嫩總統奧恩取得諸多進展。
+
+---
+
+### 2026-07-21 23:13:29  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) partners with Klarna to launch an "Upgrade" device-leasing program.
+
+---
+
+### 2026-07-21 23:13:06  #國際
+
+特朗普：我們對黎巴嫩的形勢感到非常樂觀。
+
+---
+
+### 2026-07-21 23:12:53  #國際
+
+蘋果將與 Klarna 合作於 7 月 28 日在美國 推出全新「Apple Upgrade」租賃計劃，全新「Apple Upgrade」租賃計劃將覆蓋 iPhone、iPad、Mac 以及 Apple Watch 產品。
+
+---
+
+### 2026-07-21 23:12:51  #MKT News
+
+President Trump said he is very optimistic about the situation in Lebanon.
+
+---
+
+### 2026-07-21 23:12:20  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100
+
+【NVIDIA says Vera Rubin chips being delivered to customers; mass production under way】NVIDIA (NVDA.O) said its next-generation Vera Rubin chip architecture is being delivered to major AI customers and has entered mass production, reinforcing its industry lead, Vice President and General Manager Ian Buck said. "We have fully entered mass production; all major customers are deploying the systems," he said.
+
+---
+
+### 2026-07-21 23:12:14  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) plans to launch an "Upgrade" device leasing program in the U.S. on July 28.
 
 ---
 
@@ -22395,305 +22814,5 @@ President Zelenskiy said Ukraine is discussing its defense strategy and cooperat
 ### 2026-07-20 20:25:50  #公司
 
 【智明達：因特殊事項影響 公司特種領域訂單受限三年】智明達(688636.SH)公告稱，公司近日獲悉，因特殊事項影響，從即日起三年，公司在特種領域獲取訂單受限，預計對公司生產經營和財務狀況產生一定負面影響。目前公司整體生產經營活動正常，已簽訂的合同預計不受影響。
-
----
-
-### 2026-07-20 20:25:47  #宏觀 #國際
-
-歐盟委員會主席：我與馬里奧・德拉吉探討了提升歐洲競爭力的相關議程。我們已同歐洲議會、歐盟理事會達成共識，出臺《一個歐洲、一個市場》路線圖，明確配套落地舉措與清晰推進時間表。
-
----
-
-### 2026-07-20 20:25:43  #MKT News
-
-Market sources say the EU is considering keeping the option to impose new sanctions on Russian liquefied natural gas.
-
----
-
-### 2026-07-20 20:24:36  #國際
-
-【外媒：挪威一小鎮發生大規模火災，100多棟房屋被毀，數百人被疏散】據英國《衛報》、美聯社等媒體報道，挪威東南部德拉門市一座小鎮上週發生大規模火災，導致100多棟房屋被毀，約400人被疏散。截至當地時間20日，火勢持續陰燃。相關部門表示，火災撲救工作還將持續多日。（環球網）
-
----
-
-### 2026-07-20 20:24:12  #MKT News #WTI #Impact bullish #Brent
-
-【Iran says it will firmly defend national interests in Strait of Hormuz】Iran Foreign Ministry spokesman Baghaei said on the 20th Iran will not allow the Strait of Hormuz to be maliciously exploited in ways that threaten its security and national interests. He said Iran, as a littoral state, has been coordinating with Oman to take necessary measures and set up mechanisms to protect its interests and sovereignty. Responding to a US strike on the under‑construction Darkhovin nuclear site on the 19th, Baghaei said IAEA silence and neglect will not increase Iran’s trust in the agency and called for international condemnation of the US attack, noting the facility had previously been under IAEA supervision.
-
----
-
-### 2026-07-20 20:23:03  #公司
-
-【北京君正：預計儲存晶片緊缺將延續較長時間，公司今年業績將逐季增長】北京君正7月20日在互動平臺表示，根據目前總體供需情況，預計儲存晶片緊缺的情形會延續較長時間，公司預計今年總體經營業績會逐季增長，公司密切跟進上游供應鏈資源，努力實現產品的穩定持續供應，以保障經營業績的持續穩定增長。
-
----
-
-### 2026-07-20 20:22:16  #公司 #國際
-
-【伊朗外交部稱將堅定維護在霍爾木茲海峽的國家利益】伊朗外交部發言人巴加埃20日說，伊朗絕不允許霍爾木茲海峽“被惡意利用”，從而威脅伊朗的安全和國家利益。巴加埃在新聞釋出會上強調，在霍爾木茲海峽問題上，作為海峽沿岸國家，伊朗一直努力與另一個沿岸國家阿曼合作，採取必要措施並建立必要機制，堅定維護國家利益和主權。針對伊朗西南部達爾霍溫一處在建核電站的工地19日遭美國襲擊，巴加埃表示，國際原子能機構的沉默和漠視絕對不會增強伊朗對該機構的信任。他說，達爾霍溫在建核設施此前處於國際原子能機構的監督之下，美國的襲擊必須受到國際社會的譴責。巴加埃還駁斥了美國總統特朗普15日關於伊朗已允許一名被關押的美國公民離開伊朗的說法。他強調，根據司法部門的公告，沒有符合特朗普所提及特徵的美國囚犯從伊朗監獄獲釋的訊息，而且“他們（美國）所提到的那個人既不是囚犯，也沒有被指控從事間諜活動”。（新華社）
-
----
-
-### 2026-07-20 20:20:04  #MKT News #Important
-
-Canada June CPI m/m due in 10 minutes.
-
----
-
-### 2026-07-20 20:19:59  #MKT News
-
-Interfax reports Uzbekistan raised its 2026 GDP growth forecast to 8.1%.
-
----
-
-### 2026-07-20 20:19:13  #公司 #國際
-
-【招商證券終止為中韓半導體等6只基金提供主做市服務，回應：單純商業行為，非市場方向判斷】近日，上交所公告稱，經招商證券股份有限公司備案申請，自2026年7月20日起，招商證券終止為6只QDII基金提供主做市服務。對此，招商證券20日回覆記者稱，這只是單純的商業行為，不涉及對市場方向的判斷。具體來看，6只基金包括華泰柏瑞中韓半導體交易型開放式指數證券投資基金（QDII）（程式碼：513310）、華夏野村日經225交易型開放式指數證券投資基金（QDII）的基金（程式碼：513520）、華安三菱日聯日經225交易型開放式指數證券投資基金（QDII）（程式碼：513880）、富國納斯達克100交易型開放式指數證券投資基金（QDII）（程式碼：513870）、博時納斯達克100交易型開放式指數證券投資基金（QDII）（程式碼：513390）、華夏納斯達克100交易型開放式指數證券投資基金（QDII）（程式碼：513300）。 (中新經緯)
-
----
-
-### 2026-07-20 20:18:56  #其他
-
-烏茲別克政府上調 2026 年國內生產總值增長預期至 8.1%。
-
----
-
-### 2026-07-20 20:18:43  #其他
-
-【蔚來螢火蟲釋出尋光系列首款車型】7月20日晚，蔚來旗下firefly螢火蟲宣佈，halo尋光系列首款車型“棲息地”正式釋出，整車售價13.33萬元起。
-
----
-
-### 2026-07-20 20:18:38  #國際
-
-【俄邊境州遭烏無人機襲擊5死23傷】據俄羅斯別爾哥羅德州代理州長今天（7月20日）通報，烏克蘭無人機襲擊該州，造成5人死亡、23人受傷。（CCTV國際時訊）
-
----
-
-### 2026-07-20 20:18:06  #其他
-
-奈及利亞監管機構表示，預計到2030年將實現石油產量翻倍。
-
----
-
-### 2026-07-20 20:17:56  #MKT News #NFLX.O
-
-SEC filings show Netflix (NFLX.O) has announced the issuance of senior notes.
-
----
-
-### 2026-07-20 20:17:31  #公司 #觀點
-
-【博時基金：旗下多隻基金參與長鑫科技A股申購獲配】博時基金公告稱，旗下管理基金參與長鑫科技首次公開發行A股的申購。長鑫科技發行的聯席主承銷商招商證券、中信建投證券、國泰海通證券、華泰聯合證券分別為本公司關聯方或旗下部分公募基金的託管人及關聯方。長鑫科技本次發行價格為8.66元/股，公告展示了旗下多隻基金的獲配數量和金額，如博時匯興回報一年持有期靈活配置混合型證券投資基金等多隻基金獲配421781股，金額為3,652,623.46元。
-
----
-
-### 2026-07-20 20:17:17  #其他
-
-Netflix宣佈發行優先票據。
-
----
-
-### 2026-07-20 20:16:24  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
-
-Nigeria's regulator expects oil production to double by 2030.
-
----
-
-### 2026-07-20 20:16:18  #其他
-
-【M87黑洞視界尺度輻射特性研究獲新進展】記者從中國科學院上海天文臺獲悉，近期，該天文臺科研團隊與國外合作者利用2018年事件視界望遠鏡（EHT）和全球毫米波VLBI（甚長基線干涉測量）陣列獲得的觀測資料，對M87黑洞開展了雙頻聯合光譜研究。研究利用1.3毫米和3.5毫米兩個波段獲得黑洞視界尺度影象，透過聯合分析，首次獲得了黑洞事件視界尺度的空間分辨譜指數分佈，並揭示了譜指數隨距離黑洞中心變化的規律。在這項研究中，譜指數反映了黑洞周圍不同位置的輻射在不同頻率下的亮度變化規律。這相當於為黑洞開展了一次高精度的“空間光譜體檢”。這也是迄今為止人類獲得的首張空間分辨的黑洞事件視界尺度譜指數影象。相關成果7月20日在國際學術期刊《天體物理學快報》發表。（央視新聞）
-
----
-
-### 2026-07-20 20:15:29  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-The acting governor of Russia's Belgorod region said a Ukrainian drone attack on the region killed five people and injured 23.
-
----
-
-### 2026-07-20 20:14:50  #國際
-
-烏克蘭對俄羅斯別爾哥羅德州發動無人機襲擊，造成5人死亡、23人受傷。
-
----
-
-### 2026-07-20 20:14:26  #其他
-
-共和黨眾議員弗萊宣佈競選南卡羅來納州參議員席位。
-
----
-
-### 2026-07-20 20:14:20  #其他
-
-【廣發證券上調兩融總規模上限 調整為淨資本2.5倍】廣發證券董事會審議透過議案，將融資融券業務總規模上限調整為不超過同期淨資本的2.5倍，授權經營管理層根據市場及淨資本變動等情況在上述額度內決定具體額度。此次改為與淨資本掛鉤的倍數計量，是參照行業慣例，前期公佈的多家券商普遍設為淨資本的3倍。截至一季度末，廣發證券淨資本為1131億元，調整後融資融券業務總規模上限將不超過2875億，較1900億上限有所提高。
-
----
-
-### 2026-07-20 20:13:57  #公司 #市場
-
-【東芯股份：預計2026年上半年淨利潤6.4億元至6.8億元】東芯股份公告，預計2026年上半年淨利潤6.4億元至6.8億元，與上年同期相比，將增加7.51億元至7.91億元，同比扭虧為盈。報告期內，受益於AI算力需求持續爆發及國內利基型儲存技術競爭力的增強，海外儲存原廠加速退出利基型市場，供給端收縮態勢明顯；與此同時，網路通訊、工業控制、汽車電子等下游應用需求穩步復甦，利基型儲存晶片供需缺口持續擴大。公司所面對的儲存晶片市場的供需關係呈現結構性緊缺態勢，產品市場價格大幅攀升。公司緊抓市場機遇，以SLC NAND Flash為代表的儲存業務實現量價齊升，帶動上半年營業收入實現大幅增長，整體毛利率亦顯著上漲，帶動上半年利潤水平的顯著提高。
-
----
-
-### 2026-07-20 20:13:54  #其他
-
-葉門胡塞武裝發言人今天（7月20日）宣佈，對沙烏地阿拉伯實施海上封鎖。 （CCTV國際時訊）
-
----
-
-### 2026-07-20 20:13:36  #公司
-
-【牧原股份：增持計劃完成，累計購入0.22%】牧原股份公告，截至2026年7月17日，本次增持計劃已全部完成。透過擬定增持股東設立的信託計劃，合共1264.46萬股A股已透過深圳證券交易所交易系統以集中競價方式購入，佔本公司已發行股份（包括庫存股份）總數的0.22%，總代價約為人民幣5億元（包括交易成本）。
-
----
-
-### 2026-07-20 20:13:28  #觀點
-
-摩根士丹利將德州儀器目標股價從221.00美元上調至230.00美元。
-
----
-
-### 2026-07-20 20:12:59  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【Houthis impose immediate maritime navigation ban on Saudi Arabia; five-point statement】Yemen’s Houthi movement said on July 20 it is imposing an immediate maritime navigation ban on Saudi Arabia under a “blockade-for-blockade” principle. The statement reiterated a right to reciprocal escalation, warned armed forces are on full alert and that any Saudi full-scale escalation would be met with a “comprehensive and severe” response, called for nationwide mobilization to support front lines, and vowed to press on to reclaim rights and end what it called an unjust blockade.
-
----
-
-### 2026-07-20 20:12:36  #公司
-
-【Anthropic被曝測試AMD GPU AI巨頭正在系統性降低單一算力依賴】晶片分析機構SemiAnalysis從AMD高管公開程式碼中發現，Anthropic將成為AMD新客戶，這家Claude背後的AI獨角獸已構建起涵蓋谷歌TPU、三星的多元算力矩陣，如今再引AMD入局，劍指供應鏈風險與英偉達壟斷議價的雙重破局。
-
----
-
-### 2026-07-20 20:12:01  #國際
-
-【高鐵開通超期，日本前高官指責印度】據日本《讀賣新聞》網站7月18日報道，針對採用日本新幹線技術興建的印度西部高鐵線路開通時間遠超2023年這一既定目標一事，日本前法務大臣牧原秀樹在X社交平臺上發帖稱：“百分之百是印方的責任。”此番表態招致印度政府不滿。報道稱，牧原提到的這條高速鐵路連線孟買和艾哈邁達巴德，最初的目標是在2023年開通，但由於土地徵用和其他問題，開通時間被迫推遲，目前預計將於2027年8月部分通車。（參考訊息）
-
----
-
-### 2026-07-20 20:11:46  #公司
-
-【興森科技：完成回購0.19%公司股份】興森科技公告，公司於2026年4月30日首次透過回購股份專用證券賬戶以集中競價方式回購公司股份，截至2026年7月20日，本次回購方案實施完畢。累計回購公司股份329.49萬股，佔公司現有總股本的0.19%，成交均價30.2元/股，成交總金額為9950.36萬元（不含交易費用）。
-
----
-
-### 2026-07-20 20:11:36  #國際
-
-市場訊息：美國總統唐納德・特朗普週一在 “真相社交” 平臺釋出一項民調結果，資料顯示多數民眾支援其政府與伊朗達成和平協議。這份民調由大資料民調機構出具，圖表顯示，60.4% 的登記選民、62.2% 的意向選民支援這份旨在結束對伊戰事的協議，約四分之一民眾持反對態度。
-
----
-
-### 2026-07-20 20:10:53  #宏觀 #公司
-
-【國家能源局主要負責同志赴上海調研迎峰度夏能源保供與科技創新工作】7月16日至17日，國家能源局黨組書記、局長王宏志帶隊赴上海開展迎峰度夏能源保供和科技創新調研，國家能源局黨組成員、副局長宋宏坤一同參加。王宏志一行實地調研國家電網華東分部、上海電氣集團股份有限公司、華東能源監管局，深入生產執行和科技創新工作一線，詳細瞭解能源電力保供、電力市場建設、能源裝備生產和能源科技攻關等情況。王宏志強調，要深入貫徹落實黨中央、國務院決策部署，扛牢能源電力保供責任，嚴守電網安全和民生用電底線，確保迎峰度夏、重大活動期間能源電力安全穩定供應。用足用好市場機制，進一步打破市場壁壘，提升互濟水平，靈活調節供需，縱深推進全國統一電力市場建設。統籌能源安全保障和綠色低碳轉型，深入推進能源科技自主創新，加快提升能源裝備製造能力，大力推動人工智慧與能源雙向賦能，加快發展新質生產力，助力新型能源體系、能源強國建設，為中國式現代化提供堅強能源保障。
-
----
-
-### 2026-07-20 20:10:32  #MKT News #Important #Brent #Impact bullish #WTI
-
-【Houthi forces declare maritime navigation ban on Saudi Arabia】On July 20 local time, Yemen’s Houthi-aligned armed forces issued a statement declaring an immediate maritime navigation ban on Saudi Arabia, citing Saudi “unjust and brutal” blockade and aggression. The statement, effective on issuance, invoked religious texts and accused Saudi Arabia of a 12-year comprehensive blockade of Yemeni ports, airports and land crossings that it said had “no legal or humanitarian justification” and imposed “unbearable suffering” on the Yemeni people. It also condemned a recent Saudi strike on Sanaa International Airport as a “brazen act of treacherous aggression.”
-
----
-
-### 2026-07-20 20:09:56  #其他
-
-葉門胡塞武裝：我們號召全體民眾持續全面動員、全民應徵，隨時做好應對各類局勢變化的萬全準備，派遣戰士支援各前線戰場。
-
----
-
-### 2026-07-20 20:09:30  #公司 #觀點
-
-高盛啟動存托股份發行計劃。
-
----
-
-### 2026-07-20 20:09:16  #觀點
-
-高盛：若股票發售完成，高盛擬贖回所有已發行的U系列3.65%優先股。
-
----
-
-### 2026-07-20 20:09:09  #其他
-
-匈牙利蒂薩黨議會黨團領袖表示，該黨一致支援國際象棋傳奇人物朱迪特·波爾加參選總統。
-
----
-
-### 2026-07-20 20:09:03  #其他
-
-【胡塞武裝宣佈對沙特實施海上封鎖】當地時間2026年7月20日，胡塞武裝發表宣告，宣佈立即對沙烏地阿拉伯實施海上封鎖，以回應沙特長達近十二年的“不公正和壓迫性圍困”。 宣告強調，胡塞武裝有權以封鎖回應封鎖，以全面升級回應一切升級。胡塞武裝已做好充分準備，將對沙特任何魯莽行為作出“全面而果斷的”回應。
-
----
-
-### 2026-07-20 20:08:59  #其他
-
-胡塞武裝：沙特敵軍若敢肆意妄為、全面升級衝突，我方必將以全方位、強硬的反擊予以回擊。
-
----
-
-### 2026-07-20 20:08:31  #公司
-
-【*ST網達：擬2000萬-3000萬元回購股份維護公司價值】*ST網達公告稱，公司擬以集中競價交易方式回購股份，回購資金總額不低於2000萬元、不超過3000萬元，回購價格不超過12元/股，預計回購股份166.67萬股-250萬股，佔總股本比例0.62%-0.93%。回購資金為自有資金，用於維護公司價值和股東權益。回購期限為董事會審議透過後3個月內。截至董事會決議日，董監高、持股5%以上股東未來3-6個月無減持計劃。本次回購存在價格超出區間、重大事項等導致無法實施風險。
-
----
-
-### 2026-07-20 20:08:07  #公司
-
-【中國商飛：290座級C929寬體飛機設計工作正在穩步推進】7月20日，中國商飛公司參加2026年範堡羅國際航展，展出了C909基本型和衍生型飛機模型以及C919、C929飛機模型。據中國商飛介紹，公司持續豐富飛機產品譜系、推進系列化發展。90座級的C909支線飛機對高溫、高原、短窄跑道等執行環境具備良好的適應性，目前已交付十餘家客戶，主要在中國和東南亞地區投入商業運營。190座級的C919單通道幹線飛機已交付東航、國航、南航並投入商業運營。290座級的C929寬體飛機設計工作正在穩步推進。在此基礎上，中國商飛公司還推出了C909醫療機、滅火機、貨機、公務機、應急救援指揮機。
-
----
-
-### 2026-07-20 20:08:05  #公司
-
-【萊伯泰科：多名股東擬減持股份】萊伯泰科公告，股東劉海霞等因自身資金需求，擬透過集中競價方式減持公司股份不超過24.11萬股，減持比例不超過0.3575%，減持期間為2026年8月11日～2026年11月10日，擬減持股份來源為IPO前取得。
-
----
-
-### 2026-07-20 20:07:55  #國際
-
-伯納姆：今日晚些時候將與澤連斯基通話，予以支援。
-
----
-
-### 2026-07-20 20:07:36  #公司 #國際
-
-【多款西班牙球衣售罄，阿迪達斯預計相關銷售超17億美元】北京時間7月20日，美加墨世界盃決賽吹響終場哨音。美國市場，曾被稱為足球的“荒漠”，然而，在本屆世界盃的成功舉辦之下，美國市場整體足球消費熱情顯著提升。與此同時，因西班牙奪冠而引發的相關球衣、周邊銷售被明顯拉動，整體世界盃經濟熱度升溫。研究機構Placer.ai資料顯示，世界盃首周，阿迪達斯美國門店到訪量較2026年日均水平飆升47%。阿迪達斯全球CEO比約恩·古爾登近日在美國接受當地媒體採訪時也表示，阿迪達斯本屆世界盃的球衣銷量是上屆卡達世界盃的四倍，足球銷量是上屆的兩倍。該公司預計與賽事相關的銷售額將超過17億美元。儘管勢頭正盛，但需要指出的是阿迪達斯仍有不小的差距要追趕。上一財年，其在北美市場的銷售額為55億美元，而耐克達到了205億美元。（第一財經）
-
----
-
-### 2026-07-20 20:06:16  #國際
-
-【美媒稱美軍隱瞞伊朗戰事中受傷人員數量】據美國《紐約時報》19日援引多名匿名美國官員的話報道，伊朗上週多次襲擊約旦境內美軍基地，造成數十名美軍人員受傷，但美軍中央司令部並未公佈這一資訊。報道稱，美軍中央司令部18日在宣告中公佈兩名美軍人員17日在約旦境內遭伊朗襲擊身亡的訊息，卻並未提及伊朗上週另外三次襲擊造成數十名美軍受傷和多架直升機受損的情況。報道稱，這體現了五角大樓所謂的“作戰安全”需求與政府向公眾通報戰爭程序義務之間的角力。一名美軍軍官表示，美軍中央司令部沒有義務公佈受傷人員的資訊，尤其是在他們可以很快返回崗位的情況下。（新華社）
-
----
-
-### 2026-07-20 20:06:01  #市場
-
-布倫特原油期貨轉漲。
-
----
-
-### 2026-07-20 20:04:57  #公司
-
-【泰林生物：子公司近期取得13項專利證書】泰林生物公告稱，公司全資子公司泰林生命科學、泰林醫學工程、泰林分析儀器近期共取得13項專利證書，其中發明專利1項。授權公告日多為2026年7月14日，僅“一種陰道分泌物染色液及其製備方法與染色方法”發明專利授權公告日為2026年7月7日。上述專利取得對近期生產經營無重大影響，但利於完善智慧財產權保護體系，提升核心競爭力。
-
----
-
-### 2026-07-20 20:04:39  #其他
-
-胡塞武裝敦促其追隨者做好應對各種情況的準備。
-
----
-
-### 2026-07-20 20:04:33  #其他
-
-Strategy：截至7月19日，美元儲備為32.25億美元。
-
----
-
-### 2026-07-20 20:04:15  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
-
-Houthi militants said they will impose a maritime navigation ban on Saudi Arabia on Monday.
 
 ---

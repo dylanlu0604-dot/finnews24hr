@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-25 18:33:21_
-_本檔包含 3591 則快訊，約 691635 字_
+_更新時間：2026-07-25 19:43:44_
+_本檔包含 3594 則快訊，約 690569 字_
+
+---
+
+### 2026-07-25 19:37:17  #其他
+
+沙特支援的聯軍襲擊胡塞武裝補給和軍事設施，目前襲擊仍在繼續。
+
+---
+
+### 2026-07-25 19:36:31  #國際
+
+聯合國秘書長古特雷斯：侵犯敘利亞領土主權是不可接受的，必須立即停止。我們在維護敘利亞領土完整的問題上立場明確，我們強調必須制止一切侵犯行為。
+
+---
+
+### 2026-07-25 19:36:25  #國際
+
+聯合國秘書長古特雷斯在大馬士革會見敘利亞外長。這是聯合國秘書長17年來首次訪問敘利亞。
+
+---
+
+### 2026-07-25 19:34:12  #國際
+
+俄羅斯葉卡捷琳堡遭遇無人機威脅，Wildberries運營及田徑錦標賽受擾。
+
+---
+
+### 2026-07-25 19:33:56  #國際
+
+【俄稱烏軍襲擊扎波羅熱旅遊營地致8死14傷】俄羅斯方面任命的扎波羅熱地區行政長官葉夫根尼·巴利茨基25日在社交媒體發文稱，烏克蘭軍隊24日夜間至25日凌晨襲擊了該地區的旅遊營地，造成8人死亡、14人受傷。巴利茨基說，8名死者中包括2名兒童，受傷的14人中有3名兒童。當前，緊急救援工作正在進行中。據俄新社25日報道，俄羅斯偵查委員會表示，已按照恐怖襲擊對此事進行立案調查。（新華社）
+
+---
+
+### 2026-07-25 19:32:11  #MKT News #Important
+
+Two Yemeni military officials said Yemen's air force struck Houthi missile and drone launch sites along frontlines in Marib and al-Jawf provinces.
+
+---
+
+### 2026-07-25 19:31:36  #其他
+
+兩名葉門軍方官員訊息：葉門空軍空襲了位於馬裡卜與焦夫前線地帶的胡塞導彈及無人機發射陣地。
+
+---
+
+### 2026-07-25 19:31:26  #其他
+
+【法國今年森林火災過火面積近10萬公頃 創歷史新高】當地時間7月24日，法國內政部長洛朗·努內茲在跨部門危機管理中心通報該國森林火災形勢時表示，今年法國森林火災累計過火面積已接近9.8萬公頃，創歷史新高。其中，僅吉倫特省過火面積就已超過4萬公頃。目前，吉倫特省、朗德省和瓦爾省仍有多處火災尚未得到控制。（央視新聞）
+
+---
+
+### 2026-07-25 19:17:43  #MKT News #Market Regions #Greater China
+
+【Hong Kong chief executive orders preparations as Typhoon Hongxia approaches】Hong Kong Chief Executive John Lee said he has directed government departments to mount full contingency preparations as Typhoon Hongxia approaches. The Hong Kong government will keep departments on duty and deploy measures to protect life, property and public safety; the public was urged to remain alert and follow official weather updates. Officials warned that even after the No. 8 gale or storm signal is lowered, Hongxia may still bring strong winds and heavy rain. The district consultation session on the first five-year plan and the 2026 Policy Address scheduled for tomorrow (26th) has been postponed.
+
+---
+
+### 2026-07-25 19:13:17  #MKT News
+
+France's anti-terrorism prosecutor said six people have been remanded in custody pending trial in the attempted attack on a synagogue in the Paris region in early July.
+
+---
+
+### 2026-07-25 19:13:04  #其他
+
+法國反恐檢察官稱，六名嫌疑人因涉嫌7月初在巴黎地區一座猶太教堂發動未遂襲擊而被還押候審。
+
+---
+
+### 2026-07-25 19:12:21  #其他
+
+【李家超：為應對臺風“紅霞”做好準備】香港特區行政長官李家超在社交平臺發文表示，由於颱風“紅霞”逐漸逼近香港，他已指示各相關部門作出全面和充分的準備及應變部署，以應對“紅霞”可能為香港帶來的威脅。 李家超指出，香港特區政府各部門會堅守崗位，全方位部署，致力保障市民的生命財產和公共安全。並呼籲市民保持警覺，繼續留意政府發放的最新天氣訊息。 此外，八號烈風或暴風訊號除下後，“紅霞”仍可能為香港帶來狂風暴雨。故此，為確保參加者安全，原定明日（26日）舉行的香港第一個五年規劃及2026年《施政報告》地區諮詢會將會延期進行。（大灣區之聲）
+
+---
+
+### 2026-07-25 19:11:41  #國際
+
+敘利亞衛生部：客車相撞事故已造成35人死亡，30人受傷。
+
+---
+
+### 2026-07-25 19:07:38  #公司 #國際
+
+【伊朗公佈打擊美亞馬遜公司衛星影象】伊朗法爾斯通訊社今天（7月25日）釋出了伊朗導彈擊中亞馬遜位於巴林的資料中心第三棟建築的衛星影象。當地時間22日，伊朗伊斯蘭革命衛隊宣佈襲擊了位於巴林境內的亞馬遜資料中心的核心基礎設施，並稱該設施是與美國軍方交換敏感資訊的主要節點之一。（CCTV國際時訊）
+
+---
+
+### 2026-07-25 19:05:03  #其他
+
+【高德掃街榜聯合九城釋出“城市書香地圖”】阿里旗下高德聯合九座城市共同釋出了全國首批“城市書香地圖”，覆蓋北京、上海、廣州、長沙、長春、成都、西安、杭州、南寧9座城市。城市書香地圖由“書香地圖掃街榜”、“書店飛行街景”、聯合作家發起的“遛遛書店閱讀行動”三個部分構成，為9城400餘家實體書店建立榜單。
+
+---
+
+### 2026-07-25 19:02:48  #其他
+
+【颱風致廣東多機場大面積取消或延誤】受颱風“紅霞”及其外圍環流影響，7月25日，廣東、福建、湖南、湖北、四川、重慶等多地機場釋出雷雨天氣預警。其中，廣東多個機場出現不同程度的航班延誤和取消情況。 航旅縱橫民航官方直銷平臺大資料顯示，截至25日18:15，深圳寶安機場、珠海金灣機場大面積延誤，最高延誤比例達93%；惠州平潭機場大面積取消，揭陽潮汕機場小面積取消。（第一財經）
+
+---
+
+### 2026-07-25 18:59:01  #國際
+
+【約旦譴責以色列定居者在約旦河西岸發動襲擊】當地時間25日，約旦外交與僑務部發表宣告，譴責以色列定居者針對約旦河西岸巴勒斯坦人的暴力行為不斷升級。宣告稱，最新一輪襲擊波及多個巴勒斯坦村莊，定居者縱火焚燒民宅、農田和車輛，大量砍伐樹木，並對當地巴勒斯坦居民實施襲擊。約旦外交與僑務部表示，約旦堅決譴責以色列定居者實施的上述暴力行徑，認為這些行為是以色列極右翼政府政策及其在約旦河西岸採取非法措施的延續，助長了針對巴勒斯坦人民的極端主義和暴力，破壞了以“兩國方案”為基礎實現和平的前景。約旦方面強調，以色列應對上述襲擊事件承擔全部責任。
+
+---
+
+### 2026-07-25 18:57:04  #國際
+
+敘利亞發生兩輛客車相撞事故，初步統計造成19人死亡，27人受傷。
+
+---
+
+### 2026-07-25 18:56:30  #其他
+
+【我國首個陸相斷陷湖盆頁岩油國家級示範區建成】國家能源局日前釋出《中國油氣勘探開發發展報告（2026）》顯示，勝利濟陽建成國內首個陸相斷陷湖盆頁岩油國家級示範區，建立大平臺立體開發高效建產模式，上報探明地質儲量3.27億噸，2025年頁岩油年產量突破70萬噸。頁岩油是以頁岩為主的頁岩層系中所含的石油資源，屬於非常規資源。勝利濟陽頁岩油國家級示範區是繼新疆吉木薩爾、大慶古龍國家級示範區之後，第三個頁岩油國家級示範區，旨在完善我國陸相斷陷湖盆頁岩油勘探開發技術體系，破解關鍵技術瓶頸，實現勘探開發重要突破，形成可複製、可推廣的高效勘探和開發模式。（新華社）
+
+---
+
+### 2026-07-25 18:56:01  #MKT News
+
+【Typhoon Hongxia forces widespread cancellations, delays at Guangdong airports】Typhoon Hongxia and its peripheral circulation prompted thunderstorm warnings across Guangdong, Fujian, Hunan, Hubei, Sichuan and Chongqing on July 25. Flight-data platforms at 18:15 on July 25 showed Shenzhen Bao'an and Zhuhai Jinwan airports experiencing large-scale delays, with peak delay rates up to 93%; Huizhou Pingtan reported widespread cancellations and Jieyang Chaoshan recorded limited cancellations.
+
+---
+
+### 2026-07-25 18:55:58  #其他
+
+受颱風“紅霞”影響，香港天文臺將於今晚（25日）10時10分改發八號烈風或暴風訊號。（大灣區之聲）
+
+---
+
+### 2026-07-25 18:55:47  #其他
+
+【颱風“紅霞”逼近 廣東珠海啟動防颱二級應急響應】今年第12號颱風“紅霞”正逐步逼近廣東沿海，目前“紅霞”正以每小時15~20公里的速度向西偏北方向快速移動，強度逐漸加強，預計今天夜間至26日早晨在香港到廣東陸豐一帶沿海登陸（12~14級，颱風級或強颱風級），登陸後轉向偏北方向移動，強度逐漸減弱。為應對臺風影響，廣東珠海海事局已於25日17時啟動防颱二級應急響應。
+
+---
+
+### 2026-07-25 18:40:19  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Iran releases satellite images claiming U.S. munitions depot in Jordan destroyed】On the 25th Iran released satellite imagery it says shows the U.S. munitions depot at Jordan's King Faisal Air Base was completely destroyed; Tehran said a day earlier it struck U.S. bases in the region. Jordan said on the 24th its air defenses and the Royal Jordanian Air Force intercepted and shot down seven missiles and six drones launched from the direction of Iran toward Jordanian territory.
+
+---
+
+### 2026-07-25 18:36:33  #國際
+
+【王毅同吉爾吉斯斯坦外長庫魯巴耶夫會談】中共中央政治局委員、外交部長王毅25日同吉爾吉斯斯坦外長庫魯巴耶夫舉行會談。王毅祝賀吉方成功舉辦上海合作組織外長會，為比什凱克峰會打下良好基礎。王毅表示，“好鄰居，金不換”。中國是吉方永遠可以信賴的好鄰居。近年來，在習近平主席和扎帕羅夫總統戰略引領下，中吉本著同舟共濟、互利共贏精神結為新時代全面戰略伙伴，正攜手構建睦鄰友好、共享繁榮的中吉命運共同體。去年，兩國元首三度會晤，對中吉關係發展作出規劃部署，為深化全方位互利合作注入強勁動力。在扎帕羅夫總統領導下，吉國家建設欣欣向榮，煥發生機，中方對吉方發展成就感到由衷高興。王毅表示，今年是中國共產黨成立105週年，也是“十五五”開局之年。中方正以中國式現代化全面推進強國建設、民族復興偉業。吉方在積極實施“2030年前國家發展綱要”。中吉對接發展戰略、攜手發展振興擁有廣闊前景。下階段要籌備好高層交往，鞏固政治互信，弘揚傳統友好。要落實好中長期經貿合作規劃，推進中吉烏鐵路建設，加快跨境口岸建設改造，深化農業、能源礦產等領域合作，打造人工智慧、數字經濟等新合作增長點。中方將繼續鼓勵有信譽、有實力的中國企業赴吉投資興業，希望吉方持續最佳化營商環境，維護中資企業、機構和人員合法權益。中方讚賞吉方在涉臺、涉疆、人權等問題上支援中方正當立場，將繼續支援吉方走符合本國國情的發展道路，維護吉國家主權、安全和發展利益，反對任何外部勢力干涉吉內政。中方歡迎吉方加入世界人工智慧合作組織和國際調解院，祝賀吉方高票當選聯合國安理會非常任理事國，樂見吉方在國際事務中發揮更大作用，期待同吉方密切國際協作，踐行真正的多邊主義，維護發展中國家共同利益。（新華社）
+
+---
+
+### 2026-07-25 18:33:57  #其他
+
+法國內政部長表示：森林火災已焚燬近 950 平方公里土地。
 
 ---
 
@@ -21558,137 +21708,5 @@ Japan | Weekly Foreign investment in Japanese Stocks (Jul.17) | actual -79600000
 ### 2026-07-24 07:49:33  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
 
 The New York Times reports Iran on Thursday rejected a ceasefire proposal from U.S. President Trump that had been delivered to Tehran by Iraq's prime minister. The mediation collapsed as Trump was threatening to escalate the conflict and was considering strikes on Iran's critical infrastructure.
-
----
-
-### 2026-07-24 07:49:12  #公司 #國際
-
-【構建中國產品出海核心優勢 跨境電商新生代換了一種打法】近段時間，一款精準適配歐洲老建築安裝痛點、符合歐盟嚴苛環保標準的國產行動式分體空調，在歐洲“一機難求”，成為中國產品拓展海外市場的又一典範。今年上半年，中國出口增速超過10%，已連續11個季度保持增長。海關總署副署長王軍近日在國新辦新聞釋出會上表示，出口增長的根本原因在於中國製造與全球各類需求的精準適配。在愈發激烈的海外市場競爭中，中國賣家們如何洞察並滿足市場需求？證券時報記者近期採訪多位跨境電商新生代企業負責人發現，中國賣家正憑藉敏銳的市場洞察力、極致的反應速度以及靈活的銷售策略，構建起中國產品出海的核心優勢。“新一批的跨境電商入局者換了一種打法：不靠低價，不走通貨，用真正的產品和技術創新，面向全球消費者爭取屬於自己的品牌位置。”亞馬遜中國副總裁、亞馬遜全球開店中國新賣家拓展、新興市場及企業購業務負責人宋曉俊表示，跨境電商正從一個貿易渠道，成為中國創新能力向全球展示的視窗。（證券時報）
-
----
-
-### 2026-07-24 07:48:54  #MKT News #Important
-
-【South Korea advances cash deposit hike for single-stock leveraged ETFs by three days】The Financial Services Commission said on the 24th it will bring forward to the 31st of this month the strengthened base margin measures for single-stock leveraged ETFs originally scheduled for next month. In a supplemental plan released on the 16th, the FSC said the base margin will rise from 10 mln won to 30 mln won and must be held in cash only, a move described as intended to rapidly stabilize market demand.
-
----
-
-### 2026-07-24 07:48:21  #市場 #國際
-
-【日經指數或因能源成本擔憂下跌】由於能源成本上升再度引發擔憂，加之華爾街股市隔夜下跌，日本股市可能下跌。新加坡交易所的日經指數期貨下跌1.1%，報65505點。在布倫特原油兩個月來首次突破每桶100美元后，投資者正關注中東局勢的發展和油價走勢。日經指數週四上漲0.5%，至66422.60點。
-
----
-
-### 2026-07-24 07:47:26  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-US Futures Steady After Selloff — US futures were little changed on Friday as investors looked to stabilize after a broad market selloff driven by soaring oil prices and disappointing earnings from major technology companies. During Thursday’s regular session, the Dow lost more than 500 points, while the S&P 500 and Nasdaq posted their biggest one-day declines since June 23, falling 1.2% and 2.2%, respectively. Brent crude climbed above $100 per barrel for the first time since late May after two Saudi oil tankers were reportedly struck in the Red Sea, intensifying concerns over Middle East supply disruptions. Meanwhile, Tesla tumbled nearly 15% after missing second-quarter earnings expectations, marking its worst daily decline since March 2025, while Alphabet fell 7% after raising its full-year capital expenditure guidance. The major indexes were also on track for weekly losses, with the Nasdaq leading the declines.
-
----
-
-### 2026-07-24 07:46:55  #市場 #國際
-
-基準10年期日本國債期貨早盤下跌0.16點。
-
----
-
-### 2026-07-24 07:46:51  #市場 #國際
-
-日本日經平均指數期貨早盤下跌1.1%。
-
----
-
-### 2026-07-24 07:46:20  #其他
-
-【10個月落地近600家AI企業 張江人工智慧創新小鎮重塑AI產業轉化路徑】在上海浦東，有一片規劃面積約2平方公里的土地，集聚了近600家人工智慧（AI）垂類應用企業和3萬餘名AI從業者——張江AI創新小鎮。經過10個月的運營，小鎮公佈了最新的生態藍圖及發展座標：到2027年，集聚AI企業超800家，產業規模達650億元，30個示範應用場景落地；到2030年，落地AI企業超1000家，產業規模超1000億元。證券時報記者近日實探張江AI創新小鎮發現，這裡正以平臺賦能、生態聚變、場景落地等機制，重塑AI產業從實驗室到市場的轉化路徑。
-
----
-
-### 2026-07-24 07:46:16  #國際
-
-【伊朗拒絕由美國提出的、伊拉克領導人轉交的停火協議】據伊朗與伊拉克官方訊息，伊朗於週四拒絕了由伊拉克總理轉交至德黑蘭的特朗普總統停火提議。此次調停宣告失敗之際，特朗普正揚言升級衝突、打擊伊朗關鍵基礎設施。相關官員因討論敏感國家安全事務要求匿名，他們表示，伊拉克總理阿里・扎伊迪此次出訪伊朗，是其近期前往白宮會見特朗普後的後續行動。這份停火提議的具體條款暫未對外披露。但伊朗官員表示，美方僅提出這一項方案，伊朗政府無意接受一份未能解決霍爾木茲海峽控制權爭端的臨時性協議。據當地媒體報道，扎伊迪總理率領伊拉克高階官員代表團前往德黑蘭，先後會見伊朗總統馬蘇德・佩澤希基揚、伊朗首席談判代表穆罕默德・巴蓋爾・加利巴夫准將以及伊朗外交部長阿巴斯・阿拉格奇。
-
----
-
-### 2026-07-24 07:44:43  #公司 #國際
-
-【烏總統稱與美企聯合生產愛國者導彈 】烏克蘭總統澤連斯基當地時間7月23日晚在社交媒體發文稱，他當天會見了到訪的美國雷神公司代表團，烏克蘭將與雷神公司聯合生產“愛國者”防空系統攔截彈，雙方後續將保持聯絡、敲定所有細節。 美國總統特朗普和澤連斯基7月8日在北約峰會期間會晤，特朗普稱將授權烏克蘭生產“愛國者”系統。
-
----
-
-### 2026-07-24 07:44:21  #國際
-
-市場訊息：伊朗拒絕由美國提出的、伊拉克領導人轉交的停火協議。
-
----
-
-### 2026-07-24 07:42:58  #MKT News #IBM.N #Impact bullish
-
-IBM (IBM.N) CEO said roughly 70% of daily financial transaction activity by value runs on mainframes. Clients typically spend $3–4 across IBM for every $1 invested in a mainframe. The AI boom will boost revenue because most clients require hands-on guidance.
-
----
-
-### 2026-07-24 07:41:09  #MKT News
-
-IBM (IBM.N) CEO says quantum technology will generate trillions of dollars of incremental value by the late 2030s.
-
----
-
-### 2026-07-24 07:41:04  #國際
-
-ISPACE將與歐洲航天局簽署補充協議。
-
----
-
-### 2026-07-24 07:40:36  #公司 #國際 #原創
-
-【馬斯克呼籲AI公司攜手合作自我審查安全問題，為此可放下與奧特曼個人恩怨】馬斯克表示，他希望最先進的AI模型在釋出前接受同行之間的審查，而不是由政府來負責審查。馬斯克在週四發表的與《經濟學人》主編的訪談中說：“我們能做的最直接的事情，就是讓領先的AI公司至少每隔幾周舉行一次會議，討論一下安全和隱私方面的問題。”各家企業可提前一到兩週獲取新模型進行審查，“同行之間互相監督、彼此約束”。只有當企業上報安全隱患而未著手解決時，政府才應當採取干預措施。馬斯克承認，領先的AI公司之間的合作需要他與OpenAI執行長薩姆·奧特曼放下分歧，“說到底，如果有溝通的必要，我們就會坐下來談。為了全世界的利益，把個人分歧暫時擱置一下。”
-
----
-
-### 2026-07-24 07:40:26  #公司 #國際
-
-【吉利攜手福特加碼歐洲本土化生產】7月23日，吉利汽車控股有限公司釋出公告稱，該公司全資附屬公司GeelySPV與福特汽車全資附屬公司FordNL訂立股份購買協議，擬以2.21億歐元收購西班牙目標公司34%的股權。交易完成後，FordNL持有目標公司66%股權，GeelySPV持股34%；該主體將作為聯營公司按權益法入賬，不納入吉利合併報表範圍。
-
----
-
-### 2026-07-24 07:39:04  #宏觀 #市場 #國際
-
-【王毅會見烏茲別克外長賽義多夫】 當地時間2026年7月23日晚，中共中央政治局委員、外交部長王毅在吉爾吉斯斯坦出席上海合作組織外長會前會見烏茲別克外長賽義多夫。王毅表示，今年是中烏建立全面戰略伙伴關係10週年，是一個繼往開來、承前啟後的年份。十年來，習近平主席和米爾濟約耶夫總統建立起深厚互信與友誼，為雙邊關係全方位、跨越式發展提供了最重要政治保障。中烏戰略互信成色更足、務實合作全域鋪開，實現了從全面戰略伙伴關係到新時代全天候全面戰略伙伴關係的歷史性躍升。 王毅說，今年是烏茲別克獨立35週年，相信在米爾濟約耶夫總統領導下，烏方定能如期實現“烏茲別克－2030”戰略，推動自身發展振興。今年也是中國共產黨成立105週年。中國共產黨現已成為世界上規模最大的執政黨，引領中國取得舉世矚目的歷史性成就。中方將堅定支援烏方走符合自身國情的發展道路，相信烏方在涉及中方核心利益問題上將繼續予以堅定支援。王毅表示，中烏髮展戰略互補，是現代化征程上的同路人，完全可以共同發展、彼此成就，合力擘畫新的“黃金10年”。中方願同烏方全面挖掘釋放合作潛能，高質量推動中吉烏鐵路建設，在新型工業化領域打造更多標誌性專案。中方倡導成立世界人工智慧合作組織，旨在幫助發展中國家加強人工智慧能力建設，助力各自現代化程序，祝賀烏方成為創始成員國。雙方要用好中烏執法安全合作機制，打擊“三股勢力”和跨國有組織犯罪。要在聯合國、上海合作組織、中國－中亞機制等多邊平臺加強團結協作，推動構建更加公正合理的全球治理體系。
-
----
-
-### 2026-07-24 07:38:00  #其他
-
-XAI：Grok Build 現已支援執行工作流。
-
----
-
-### 2026-07-24 07:36:49  #公司 #國際
-
-【韓國7月31日起將槓桿ETF交易的現金存款要求提高至3000萬韓元】韓國金融服務委員會發布宣告稱，韓國將把針對散戶投資者交易單一個股槓桿ETF的更嚴格存款額要求提前至7月31日實施，較原定的8月實施時間提前，存款額要求為3000萬韓元，且為現金形式。現金存款要求由1000萬韓元提高至3000萬韓元；股票、ETF和債券將不再計入最低存款額。新規適用於購買韓國國內及海外上市的單一個股槓桿ETF。對於未能於7月31日前完成系統升級的公司，將被建議限制這種產品的新交易。
-
----
-
-### 2026-07-24 07:36:23  #國際
-
-【英偉達與Amkor達成15億美元晶片封裝與測試合作協議】美國半導體產品封裝和測試服務提供商Amkor Technology當地時間7月23日宣佈，與英偉達達成15億美元多年期合作協議，共同開發面向下一代人工智慧和加速計算平臺的先進半導體封裝與測試技術。根據協議，英偉達將提供預付款，支援Amkor在美國擴充先進封裝產能。
-
----
-
-### 2026-07-24 07:36:09  #觀點
-
-【中信建投：淡季不淡旺季可期 鋰價有望低位反升】中信建投證券研報指出，由於鋰價近期快速下行，上游惜售情緒加重，挺價明顯，部分散單報價仍維持在16萬元/噸以上；同時下游逢低採購，材料廠15萬元/噸以下的採購情緒較為積極，但採購行為依然謹慎，整體以剛需為主。供給端，碳酸鋰產量下行，部分鋰鹽廠按計劃進入檢修，導致鋰輝石產線減量明顯。需求方面，7月排產預計延續增長態勢，材料廠開工率保持高位執行，預計環比增長超5%，預計8月排產環比繼續保持正增長，淡季不淡，年內搶裝搶出口預期下，四季度旺季可期。
-
----
-
-### 2026-07-24 07:36:02  #Trading Economics #Economy #Japan #Inflation Rate #Importance 2
-
-Japan Inflation Rate Rises to 6-Month High — Japan's annual inflation rate accelerated to 1.7% in June 2026 from 1.5% in the prior month, marking the highest reading since December. Core inflation, which excludes fresh food, also picked up to 1.6% from 1.4%, matching market expectations and reaching its highest level since March. However, core inflation remained below the Bank of Japan's 2% target for a fifth consecutive month
-
----
-
-### 2026-07-24 07:35:57  #Trading Economics #Economy #Japan #Core Inflation Rate #Importance 2
-
-Japan Core Inflation Matches Estimates — Japan’s core consumer price index, which excludes fresh food but includes energy, increased 1.6% year-on-year in June 2026, following a 1.4% rise in May, which was the lowest level since March 2022. It was the highest core inflation rate since March and was in line with market forecasts of 1.6%. Still, the latest reading remained below the Bank of Japan’s 2% target for a fifth straight month, as government fuel subsidies helped offset price pressures from higher oil costs linked to the Middle East conflict.
 
 ---
