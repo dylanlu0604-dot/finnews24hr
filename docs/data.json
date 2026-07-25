@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 00:56:17",
-  "count": 18155,
+  "updated": "2026-07-26 01:00:16",
+  "count": 18154,
   "items": [
+    {
+      "id": "5008092",
+      "time": "2026-07-26 00:58:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“紅霞”逼近 廣東已累計轉移人員超71萬人】今年第12號颱風“紅霞”已於25日22時由颱風級加強為強颱風級，其中心位於惠州惠東縣東南方向大約100公里的近海海面上。預計，“紅霞”將以每小時20公里的速度向西北方向移動，將於26日凌晨在廣東深圳到海豐一帶沿海登陸，登陸後轉向北偏西方向移動，強度逐漸減弱。截至7月26日0時，廣東省累計轉移人員715351人。目前，潮州、汕頭、揭陽、汕尾、河源、梅州、深圳、珠海、江門、廣州、東莞、惠州等12個地市已採取“五停”或部分“五停”措施。（央視新聞）"
+    },
     {
       "id": "mkt:019f9a33-0456-7aab-8e96-097a14eecc25",
       "time": "2026-07-26 00:54:22",
@@ -166341,26 +166349,6 @@
         "MKT News"
       ],
       "text": "【Study: Extreme heat could cost Italy EUR 60–120 billion annually】On the 18th, a study by the Italian federation of commerce, tourism and services estimated that more frequent extreme heat could impose EUR 60–120 billion in annual economic losses. If Italy sees 30–60 days of extreme heat a year, firms would face higher energy costs, lower labor productivity, forced adaptation investment and revenue declines; shifts in household consumption and tourism patterns would further strain retail and tourism sector revenues."
-    },
-    {
-      "id": "mkt:019f762a-4609-7aab-8df2-1eb4ff5b23eb",
-      "time": "2026-07-19 00:58:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "Codelco said storm impacts in Chile have eased and its Andina copper mine has resumed mining."
-    },
-    {
-      "id": "4995636",
-      "time": "2026-07-19 00:57:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "智利國家銅業公司：智利風暴災情緩解，安第納銅礦恢復開採。"
     }
   ]
 }
