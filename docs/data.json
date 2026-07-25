@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-25 17:21:00",
-  "count": 18213,
+  "updated": "2026-07-25 17:25:11",
+  "count": 18216,
   "items": [
+    {
+      "id": "5007920",
+      "time": "2026-07-25 17:24:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國軍方將訂購新型Tekever AR5偵察無人機。"
+    },
+    {
+      "id": "5007919",
+      "time": "2026-07-25 17:23:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度教育部長在抗議活動後遞交辭呈。"
+    },
+    {
+      "id": "mkt:019f9896-413c-7aab-8e94-88471644aaf2",
+      "time": "2026-07-25 17:23:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese eVTOL completes public flight in Kazakhstan】Fengfei Aviation Technology, with Alatau Pioneer Aviation Group (AAAG), completed a public flight of a 2-ton eVTOL in Astana, Kazakhstan. Kazakhstan has legislated to incorporate eVTOL into its transport framework; authorities say this is the first eVTOL flight since those rules took effect and a key step toward systematic deployment of urban air mobility (UAM)."
+    },
+    {
+      "id": "5007918",
+      "time": "2026-07-25 17:22:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國eVTOL在哈薩克完成公開飛行】峰飛航空科技今日宣佈，攜手阿拉套先鋒航空集團（AAAG），在哈薩克首都阿斯塔納完成“先進空中交通”2噸級eVTOL公開飛行。此次公開飛行是哈薩克系統性部署城市空中交通（UAM）的關鍵組成部分，哈薩克已立法將eVTOL納入交通框架，此次飛行也是該國規則落地後的首次eVTOL飛行。"
+    },
     {
       "id": "mkt:019f9893-6692-7aab-8e94-83bc01f02d1a",
       "time": "2026-07-25 17:20:24",
@@ -166937,14 +166969,6 @@
         "其他"
       ],
       "text": "【自然資源部部署全國地質災害風險隱患巡查排查】7月18日，自然資源部聯合相關部門緊急部署全國地質災害風險隱患巡查排查。自然資源部要求各省（區、市）自然資源部門聯合相關部門，緊盯基層末梢、強化以防為主，組織力量做好地質災害巡查排查工作。一是做好重要隱患點巡查排查。二是做好重點風險區巡查排查。三是對重點區域加密巡查排查頻次。四是加強三峽庫區風險隱患排查。"
-    },
-    {
-      "id": "4995438",
-      "time": "2026-07-18 17:21:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國自研導管架安裝專用核心工機具投用】從海洋石油工程股份有限公司(簡稱“海油工程”)獲悉，中國自主研發製造的導管架安裝專用核心工機具——“擎海”裝具系列導管架附屬裝置，在東方1-1氣田新建井口平臺專案導管架海上安裝中投用。據介紹，此次成功應用標誌著中國海洋油氣工程安裝專用工機具研發製造取得關鍵進展，對構建自主可控的海洋工程裝備體系、加快培育發展海洋能源新質生產力具有重要意義。（中新網）"
     }
   ]
 }

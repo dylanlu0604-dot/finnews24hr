@@ -1,7 +1,39 @@
 {
   "date": "2026-07-25",
-  "count": 810,
+  "count": 814,
   "items": [
+    {
+      "id": "5007920",
+      "time": "2026-07-25 17:24:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國軍方將訂購新型Tekever AR5偵察無人機。"
+    },
+    {
+      "id": "5007919",
+      "time": "2026-07-25 17:23:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度教育部長在抗議活動後遞交辭呈。"
+    },
+    {
+      "id": "mkt:019f9896-413c-7aab-8e94-88471644aaf2",
+      "time": "2026-07-25 17:23:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese eVTOL completes public flight in Kazakhstan】Fengfei Aviation Technology, with Alatau Pioneer Aviation Group (AAAG), completed a public flight of a 2-ton eVTOL in Astana, Kazakhstan. Kazakhstan has legislated to incorporate eVTOL into its transport framework; authorities say this is the first eVTOL flight since those rules took effect and a key step toward systematic deployment of urban air mobility (UAM)."
+    },
+    {
+      "id": "5007918",
+      "time": "2026-07-25 17:22:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國eVTOL在哈薩克完成公開飛行】峰飛航空科技今日宣佈，攜手阿拉套先鋒航空集團（AAAG），在哈薩克首都阿斯塔納完成“先進空中交通”2噸級eVTOL公開飛行。此次公開飛行是哈薩克系統性部署城市空中交通（UAM）的關鍵組成部分，哈薩克已立法將eVTOL納入交通框架，此次飛行也是該國規則落地後的首次eVTOL飛行。"
+    },
     {
       "id": "mkt:019f9893-6692-7aab-8e94-83bc01f02d1a",
       "time": "2026-07-25 17:20:24",
