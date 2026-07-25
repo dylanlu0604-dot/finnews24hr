@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-26 05:33:23",
-  "count": 18134,
+  "updated": "2026-07-26 05:37:12",
+  "count": 18135,
   "items": [
+    {
+      "id": "mkt:019f9b34-e01e-7aab-8e97-2c656ed8eeff",
+      "time": "2026-07-26 05:36:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM said on July 24 it took measures in the Gulf of Oman to halt the Mozambique‑flagged tanker \"Lavine\" after the crew repeatedly attempted to breach a blockade and ignored repeated warnings. The vessel is no longer en route to Iran."
+    },
+    {
+      "id": "mkt:019f9b32-ea60-7aab-8e97-2087726065c5",
+      "time": "2026-07-26 05:33:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said earlier today US forces in the Arabian Sea conducted a boarding inspection of the Comoros-flagged tanker Charminar; the vessel has since resumed transit."
+    },
+    {
+      "id": "mkt:019f9b32-68da-7aab-8e97-1e8c24487400",
+      "time": "2026-07-26 05:33:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM said the US maritime blockade of Iran remains fully enforced. As of July 25 it had forced 12 commercial vessels attempting to breach the blockade to change course, disabled two noncompliant vessels' ability to navigate, and boarded two vessels for inspection to ensure compliance."
+    },
     {
       "id": "5008148",
       "time": "2026-07-26 05:32:37",
@@ -166129,26 +166159,6 @@
         "國際"
       ],
       "text": "三星電子美國分公司將在新澤西州裁員739人。"
-    },
-    {
-      "id": "4995701",
-      "time": "2026-07-19 05:35:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI與Anthropic均表示不會利用企業客戶的提示詞開展模型訓練，但企業仍會因員工使用聊天機器人、反饋工具以及留存的使用資料產生資訊洩露風險。兩家公司的競品廠商正藉助企業的這類顧慮，主推私密性更強的替代產品。"
-    },
-    {
-      "id": "mkt:019f7727-c902-7aab-8df3-8d27e2d8a1db",
-      "time": "2026-07-19 05:35:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iranian government: Iranian foreign minister Araghchi and Iraqi foreign minister Fouad Hussein discussed latest regional developments following a US military strike on Iran, Washington’s repeated violations of the Islamabad Memorandum of Understanding, and Iran’s responses to those actions."
     }
   ]
 }

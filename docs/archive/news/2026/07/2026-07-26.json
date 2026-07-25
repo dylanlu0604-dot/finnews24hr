@@ -1,7 +1,37 @@
 {
   "date": "2026-07-26",
-  "count": 111,
+  "count": 114,
   "items": [
+    {
+      "id": "mkt:019f9b34-e01e-7aab-8e97-2c656ed8eeff",
+      "time": "2026-07-26 05:36:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM said on July 24 it took measures in the Gulf of Oman to halt the Mozambique‑flagged tanker \"Lavine\" after the crew repeatedly attempted to breach a blockade and ignored repeated warnings. The vessel is no longer en route to Iran."
+    },
+    {
+      "id": "mkt:019f9b32-ea60-7aab-8e97-2087726065c5",
+      "time": "2026-07-26 05:33:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said earlier today US forces in the Arabian Sea conducted a boarding inspection of the Comoros-flagged tanker Charminar; the vessel has since resumed transit."
+    },
+    {
+      "id": "mkt:019f9b32-68da-7aab-8e97-1e8c24487400",
+      "time": "2026-07-26 05:33:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM said the US maritime blockade of Iran remains fully enforced. As of July 25 it had forced 12 commercial vessels attempting to breach the blockade to change course, disabled two noncompliant vessels' ability to navigate, and boarded two vessels for inspection to ensure compliance."
+    },
     {
       "id": "5008148",
       "time": "2026-07-26 05:32:37",
