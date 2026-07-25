@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-26 04:39:53",
+  "updated": "2026-07-26 04:43:42",
   "count": 18132,
   "items": [
+    {
+      "id": "mkt:019f9b03-45e9-7aab-8e96-f045fbdb22dc",
+      "time": "2026-07-26 04:41:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRGC spokesman warned Israel knows what would happen if it returned to war and the IRGC concentrated forces against it."
+    },
+    {
+      "id": "5008138",
+      "time": "2026-07-26 04:41:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人：以色列清楚，一旦其重啟戰事、我們將火力對準以色列，我們會給以色列帶來何等深重的災難。"
+    },
     {
       "id": "mkt:019f9aff-cb6c-7aab-8e96-ecbf47f76b01",
       "time": "2026-07-26 04:38:02",
@@ -166116,24 +166136,6 @@
         "其他"
       ],
       "text": "【英國下一任首相伯納姆宣佈取消數字身份證計劃】英國工黨領袖的發言人表示，將於週一正式就職的英國首相安迪·伯納姆，上臺後將廢止政府這項爭議重重的數字身份證方案。該發言人稱，跨黨派議員委員會將這套數字身份證專案評價為一場“徹底失敗的工程”，原本投入該專案的資金資源，將被調撥至伯納姆重點推進的民生事項。伯納姆於週五當選執政黨工黨領袖，他將在週一就任首相。斯塔默曾在去年9月推出數字身份證規劃，要求所有務工人員持有數字身份憑證，初衷是打擊非法移民、對沖英國改革黨的政治影響力。但該政策引發民眾強烈反對，斯塔默今年1月取消了強制辦理的要求。伯納姆的發言人表示：“原本計劃投入全國數字身份證專案的全部人力財力，將轉投最急需資金的領域，例如緩解民眾生活開支壓力。”英國預算責任辦公室去年11月測算，2026/27至2028/29三個財年內，這套數字身份證專案總成本約18億英鎊（摺合24億美元）。"
-    },
-    {
-      "id": "mkt:019f76f7-c6c3-7aab-8df3-515d6a31f686",
-      "time": "2026-07-19 04:42:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "Commerce Secretary Lutnick said the US reached an agreement on the Gordie Howe International Bridge (US-Canada cross-border project), securing a 50% share of net revenues through 2041 and a US role in toll-setting."
-    },
-    {
-      "id": "4995694",
-      "time": "2026-07-19 04:40:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部長盧特尼克：美國就戈迪·豪大橋達成優厚協議，美方可分得戈迪·豪大橋五成淨運營收益。\n注：戈迪·豪國際大橋，連線加拿大溫莎與美國底特律。"
     }
   ]
 }

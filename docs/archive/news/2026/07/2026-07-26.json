@@ -1,7 +1,27 @@
 {
   "date": "2026-07-26",
-  "count": 95,
+  "count": 97,
   "items": [
+    {
+      "id": "mkt:019f9b03-45e9-7aab-8e96-f045fbdb22dc",
+      "time": "2026-07-26 04:41:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRGC spokesman warned Israel knows what would happen if it returned to war and the IRGC concentrated forces against it."
+    },
+    {
+      "id": "5008138",
+      "time": "2026-07-26 04:41:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人：以色列清楚，一旦其重啟戰事、我們將火力對準以色列，我們會給以色列帶來何等深重的災難。"
+    },
     {
       "id": "mkt:019f9aff-cb6c-7aab-8e96-ecbf47f76b01",
       "time": "2026-07-26 04:38:02",
