@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-25 20:37:23",
-  "count": 18192,
+  "updated": "2026-07-25 20:41:18",
+  "count": 18194,
   "items": [
+    {
+      "id": "mkt:019f994a-704d-7aab-8e95-331dc4ee9a26",
+      "time": "2026-07-25 20:40:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said the prime minister and foreign minister stressed the importance of ensuring freedom of navigation in the Strait of Hormuz and enhancing regional stability."
+    },
+    {
+      "id": "5008001",
+      "time": "2026-07-25 20:40:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：首相和外交大臣與埃及外交部長討論了為緩和該地區局勢升級所做的努力。首相和外交大臣重申，各方必須致力於執行華盛頓和德黑蘭之間的諒解備忘錄，並強調了確保霍爾木茲海峽航行自由和加強地區穩定的重要性。"
+    },
+    {
+      "id": "mkt:019f994a-3b70-7aab-8e95-2ad521bb115b",
+      "time": "2026-07-25 20:40:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said the prime minister and foreign minister affirmed the necessity for all parties to commit to implementing the memorandum of understanding between Washington and Tehran."
+    },
+    {
+      "id": "mkt:019f994a-1978-7aab-8e95-261e6f987269",
+      "time": "2026-07-25 20:39:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said the prime minister and foreign minister met with Egypt's foreign minister to discuss efforts to reduce regional tensions."
+    },
     {
       "id": "mkt:019f9946-09f8-7aab-8e95-1e5980b55b15",
       "time": "2026-07-25 20:35:31",
@@ -166705,22 +166737,6 @@
         "國際"
       ],
       "text": "【伊朗駐巴基斯坦大使譴責美方曲解伊美諒解備忘錄】伊朗駐巴基斯坦大使穆加達姆18日在社交媒體發帖說，美國曲解伊美諒解備忘錄內容並控制霍爾木茲海峽部分割槽域，以圖獲取其在戰場上未能獲得的利益，伊朗不會接受美方對備忘錄內容的肆意解讀。穆加達姆說，伊美雙方在巴基斯坦長達數月的積極斡旋下達成了包含14點內容的諒解備忘錄，美方無視備忘錄內容和國際原則發動戰爭，破壞了伊朗的基礎設施。"
-    },
-    {
-      "id": "4995522",
-      "time": "2026-07-18 20:39:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家發展改革委安排3000萬元中央預算內投資支援重慶山體崩塌災害災後應急恢復】7月17日，重慶市彭水縣發生山體崩塌，造成多人被埋失聯。國家防災減災救災委員會啟動國家四級救災應急響應。為貫徹落實習近平總書記對重慶彭水縣山體崩塌作出的重要指示精神，根據《國家自然災害救助應急預案》，國家發展改革委安排中央預算內投資3000萬元，支援災區基礎設施和公共服務設施災後應急恢復建設。"
-    },
-    {
-      "id": "4995521",
-      "time": "2026-07-18 20:38:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國地共建人形機器人創新中心首席科學家江磊：將聚力做好機器人全生命週期管理】國地共建人形機器人創新中心（以下簡稱“國地中心”）首席科學家江磊7月18日接受採訪時透露，今年下半年將重點做好一系列工作，包括：將人形機器人開源公版機做得更加紮實，讓任何一家企業能用國地中心的公版機進行開發和迭代；聚力做好機器人全生命週期管理，探索機器人相關保險、維修維保渠道等生態建設。日前，國地中心中試公共服務平臺正式啟用，該平臺坐落於上海張江機器人谷。江磊透露，一些頭部企業也將集聚到張江機器人谷，共同完善當地一體化中試閉環。（證券時報）"
     }
   ]
 }
