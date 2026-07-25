@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-25 16:15:44",
-  "count": 18246,
+  "updated": "2026-07-25 16:19:51",
+  "count": 18243,
   "items": [
+    {
+      "id": "mkt:019f9859-cad5-7aab-8e94-4c2facfc4c85",
+      "time": "2026-07-25 16:17:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Local governor said drones sparked a fire at an oil refinery in Russia's Tyumen region."
+    },
+    {
+      "id": "5007906",
+      "time": "2026-07-25 16:16:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總提升針對廣東的應急響應至Ⅲ級】今年第12號颱風“紅霞”已於7月25日早晨加強為颱風級。預計，“紅霞”將於25日夜間至26日早晨在香港到廣東陸豐一帶沿海登陸（颱風級或強颱風級，12～14級，35～42米每秒）。受其影響，南海東北部部分海域、廣東東部沿海、珠江口風力可達9～11級、陣風12～13級，颱風中心經過的海域或地區風力有12～13級、陣風14～16級。25日至27日，廣東、江西、湖南等地有強降雨，廣東東部、江西南部、湖南南部等地部分地區累計降雨量150～300毫米，局地400～500毫米，單點最大600毫米左右。中央氣象臺25日10時釋出颱風、暴雨橙色預警。根據《國家防汛抗旱應急預案》及有關規定，國家防總決定於7月25日16時將針對廣東的防汛防颱風應急響應提升至Ⅲ級，並同步針對江西、湖南啟動防汛Ⅳ級應急響應。"
+    },
     {
       "id": "mkt:019f9855-6bcd-7aab-8e94-44d456196712",
       "time": "2026-07-25 16:12:42",
@@ -167208,53 +167227,6 @@
         "國際"
       ],
       "text": "【朝鮮國防省：美日韓軍事勾結破壞地區和平與穩定】據朝中社18日報道，朝鮮國防省發言人當天發表談話，譴責美國、日本和韓國軍事勾結破壞地區和平與穩定。該發言人說，15日在美國召開的美日韓總參謀長會議表明，美日韓企圖透過加強三角軍事共助在本地區佔據軍事優勢，謀求霸權主義的地緣政治利益。美日韓軍事勾結成為破壞朝鮮半島和亞太地區和平與穩定的根源。該發言人強調，朝鮮武裝力量決不允許美日韓軍事勾結導致地區實力失衡，始終忠實履行憲法所賦予的使命，粉碎現實的安全挑戰和潛在威脅，捍衛國家安全與地區和平。（新華社）"
-    },
-    {
-      "id": "mkt:019f744f-3786-7aab-8dee-d1aee9f002d4",
-      "time": "2026-07-18 16:19:36",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Iran's Islamic Revolutionary Guard Corps says it struck U.S. base in Azraq, Jordan】In a statement on the 18th local time, Iran's Islamic Revolutionary Guard Corps said it launched missile and drone strikes on the U.S. base in Azraq, Jordan on the night of the 17th, destroying at least two U.S. fighter jets and three other aircraft and severely damaging several more."
-    },
-    {
-      "id": "4995411",
-      "time": "2026-07-18 16:19:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗伊斯蘭革命衛隊稱襲擊約旦阿茲拉克美軍基地】當地時間18日，伊朗伊斯蘭革命衛隊發表宣告稱，17日晚對位於約旦阿茲拉克的美軍基地發動了導彈和無人機打擊，摧毀了至少2架美軍戰鬥機和3架飛機，並使其他數架飛機遭受重大損毀。（央視新聞）"
-    },
-    {
-      "id": "4995410",
-      "time": "2026-07-18 16:19:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【螞蟻密算升級可信智慧Fabric解決方案】在2026世界人工智慧大會暨人工智慧全球治理高階別會議（WAIC）期間，螞蟻密算正式釋出高階智慧體架構HOP 3.0，創新提出“智慧體原生語言”，旨在透過顯性結構化邏輯與大模型模糊推理邏輯的雙態融合，幫助產業智慧體成為可信賴的專業智慧體。"
-    },
-    {
-      "id": "4995409",
-      "time": "2026-07-18 16:18:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿里與榮耀共創面向手機場景的解決方案，已落地Robot Phone】7月18日，在WAIC 2026“從數字螢幕到具身智慧，開啟物理世界新正規化”分論壇，阿里巴巴宣佈聯合榮耀，基於“千問大模型”共創面向手機場景深度最佳化的解決方案，已在榮耀的Robot Phone落地。未來的手機Agent，核心問題是完成複雜長程任務，比如“預訂下週三上海參加智造大會的行程”，看似日常，但對於手機Agent來說並不容易。Agent需先結合使用者偏好，訂車程短的靠窗二等座高鐵票、挑選離會場最近的酒店；如果車票售罄，Agent需重新規劃，切換到臨近的車次；使用者上傳大會日程表的照片後，Agent 需看懂圖片、掃描二維碼、填寫表單報名。全程涉及意圖補全、記憶注入、skill呼叫、異常恢復和多工具複雜操作等，任何一個環節不穩健，都會導致任務失敗。阿里巴巴集團副總裁、ATH事業群Token Foundry多模態互動負責人許主洪博士在圓桌論壇中表示，在手機Agent火熱的當下，最需要做的“第一件事”，正是找到一個高頻、有價值的真實場景，構建模型-Harness工程-真實場景反饋的Agent閉環，讓模型被大量使用者真正用起來。（硬AI）"
-    },
-    {
-      "id": "mkt:019f744d-57c7-7aab-8dee-cd1f237c4b5d",
-      "time": "2026-07-18 16:17:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Zelenskiy said Ukraine struck two major logistics facilities in Russia's Moscow and Tambov regions and hit Russian oil facilities."
     }
   ]
 }
