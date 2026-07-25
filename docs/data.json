@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-26 04:47:33",
-  "count": 18133,
+  "updated": "2026-07-26 04:51:22",
+  "count": 18135,
   "items": [
+    {
+      "id": "5008140",
+      "time": "2026-07-26 04:48:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：梁文鋒不滿投資人洩露內部檔案，DeepSeek新一輪融資或暫停。"
+    },
+    {
+      "id": "mkt:019f9b08-3297-7aab-8e96-fe50729293ca",
+      "time": "2026-07-26 04:47:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thomas Ricouard, an OpenAI Codex developer, said he slightly raised geometry precision and material detail in 5.6 Sol with surprisingly strong results. The scene is built entirely in Blender, supports free manipulation and roaming, and can continuously generate aesthetically pleasing still images."
+    },
     {
       "id": "5008139",
       "time": "2026-07-26 04:44:12",
