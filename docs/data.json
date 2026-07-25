@@ -1,7 +1,64 @@
 {
-  "updated": "2026-07-25 08:46:20",
-  "count": 18237,
+  "updated": "2026-07-25 08:50:08",
+  "count": 18240,
   "items": [
+    {
+      "id": "mkt:019f96bf-5ee6-7aab-8e91-24f53b097d8d",
+      "time": "2026-07-25 08:49:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal reports Elon Musk's tunneling company The Boring Company is in talks with investors to raise about $4 billion."
+    },
+    {
+      "id": "5007716",
+      "time": "2026-07-25 08:47:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國麻疹病例數創35年來新高】美國疾病控制與預防中心24日報告稱，今年以來美國全國麻疹確診病例總數已達2318例，超過了2025年全年的2289例。這一資料令2026年成為美國自1991年以來麻疹疫情最為嚴重的一年。美國於2000年宣佈消除麻疹，但2025年至今病例數已經超過2000年至2024年這25年間的病例總和。公共衛生專家認為，這一情況並不令人意外，美國近年來疫苗接種率持續下降，部分接種率較低的地區將成為麻疹疫情持續暴發和擴散的高風險區域。（央視新聞）"
+    },
+    {
+      "id": "5007715",
+      "time": "2026-07-25 08:47:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【市場傳聞的7N級六氟化鎢產品及價格體系情況如何？中船特氣回應】關於市場傳聞的7N級六氟化鎢產品及價格體系情況如何？中船特氣近日在機構調研時表示，目前國內尚無7N級六氟化鎢的統一國家標準，公司現階段統一按6N標準報價和交付，不單獨區分7N報價。根據公司技術判斷，6N級六氟化鎢已可適配當前所有先進製程需求。公司將持續關注相關行業標準的制定進展。"
+    },
+    {
+      "id": "5007714",
+      "time": "2026-07-25 08:46:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大交通部長表示，政府當前的工作重點是提升比利·畢曉普多倫多機場的安全保障水平，否決了該機場的擴建計劃。"
+    },
+    {
+      "id": "mkt:019f96bd-4ab0-7aab-8e91-1f0a52e97399",
+      "time": "2026-07-25 08:46:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal reports Elon Musk's tunnel firm The Boring Company is seeking a $20 billion valuation in a new financing round."
+    },
+    {
+      "id": "5007713",
+      "time": "2026-07-25 08:46:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "上海市氣象臺2026年07月25日08時38分發布中心城區高溫黃色預警訊號：預計今天中心城區大部的最高氣溫將超過35℃，請注意用火用電安全，做好防暑防曬工作。"
+    },
+    {
+      "id": "5007712",
+      "time": "2026-07-25 08:45:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SK集團會長稱Anthropic向其求購晶片原料 計劃自研晶片】SK集團會長崔泰源透露，人工智慧企業Anthropic PBC已向全球頂級儲存晶片廠商SK海力士提出採購需求，用於自研自有半導體晶片。 崔泰源在舊金山一場人工智慧峰會上與Anthropic執行長達里奧·阿莫代伊及一眾科技高管同臺發言。他表示，一家AI企業立志自主研發晶片，此舉意義非凡。崔泰源執掌的SK集團正是韓國晶片企業SK海力士的母公司。 崔泰源此次出訪恰逢韓國總統李在明到訪矽谷並主持人工智慧峰會。總統此行期間，多項科技合作落地官宣，其中就包括英偉達分別與韓國Naver、SK集團達成的合作協議。"
+    },
     {
       "id": "mkt:019f96bb-cc38-7aab-8e91-132fcfd42108",
       "time": "2026-07-25 08:45:17",
@@ -167048,46 +167105,6 @@
         "AI Revolution"
       ],
       "text": "【Biren launches BR2xx GPUs and 1024‑card NPO optical supernode at WAIC】At the World Artificial Intelligence Conference in Shanghai (July 17-20, 2026), Biren Technology unveiled a next‑generation NPO optical interconnect, distributed-decoupled supernode architecture that scales up to 1024 cards per supernode. The company said its BR2xx series continues a chiplet architecture, supports low-precision high-throughput FP8/FP4 compute, increases memory bandwidth, and natively integrates supernode interconnect. Biren’s BLink2.0 protocol reportedly lets up to 1,024 GPUs share a single memory space. Product lineup includes a 16-card standard server supernode (electrical interconnect), a 128-card high-density rack supernode (electrical), and a 1,024-card distributed, decoupled supernode using NPO optical interconnect."
-    },
-    {
-      "id": "mkt:019f72b2-6bab-7aab-8dec-99a5976a8eb1",
-      "time": "2026-07-18 08:48:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ISNA reports the deputy governor of Iran's Hormozgan province said communications infrastructure is being repaired."
-    },
-    {
-      "id": "mkt:019f72b1-8987-7aab-8dec-90c1b0e53a1c",
-      "time": "2026-07-18 08:47:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian Students' News Agency said the U.S. military struck a site near Bandar Abbas."
-    },
-    {
-      "id": "4995191",
-      "time": "2026-07-18 08:47:16",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美軍否認兩艘油輪在霍爾木茲海峽觸雷爆炸】當地時間7月17日，美國中央司令部表示，伊朗伊斯蘭革命衛隊有關“兩艘油輪在霍爾木茲海峽國際航道觸雷併發生爆炸”的說法不實。美國中央司令部稱，這一訊息與伊朗伊斯蘭革命衛隊此前釋出的許多說法一樣，屬於虛假資訊。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f72b0-5336-7aab-8dec-8a62281c8458",
-      "time": "2026-07-18 08:46:25",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Vessel transits through Strait of Hormuz drop to three-week low】Kpler said on the 17th that vessel traffic through the Strait of Hormuz weakened on the 16th, with confirmed transits falling to eight — the lowest in about three weeks. Seven of the eight ships used the northern, Iranian-side channel, reflecting ship operators' concentration of transits there after reassessing regional security, crew safety and insurance risk."
     }
   ]
 }
