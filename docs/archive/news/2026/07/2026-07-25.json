@@ -1,7 +1,17 @@
 {
   "date": "2026-07-25",
-  "count": 907,
+  "count": 908,
   "items": [
+    {
+      "id": "mkt:019f9962-41df-7aab-8e95-473e022727e4",
+      "time": "2026-07-25 21:06:21",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Heatwave scorches central U.S., raises electricity demand】A heatwave from the Rockies to the Mississippi Valley is pushing south toward the Gulf Coast and increasing strain on regional power grids and cooling demand. The NWS has extended extreme-heat warnings from Montana to Texas, including Dallas where highs are forecast near 100°F (38°C) through at least next Wednesday and heat index values could reach about 107°F. A separate hot dome covers Southern California and Arizona; Phoenix highs may reach 117°F. A senior branch forecaster at the Weather Prediction Center said the pattern is fairly persistent, likely into next week, with only minor day-to-day variation and overall persistence through the end of the month."
+    },
     {
       "id": "5008012",
       "time": "2026-07-25 21:02:57",

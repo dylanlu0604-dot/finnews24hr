@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-25 21:05:51",
-  "count": 18186,
+  "updated": "2026-07-25 21:09:50",
+  "count": 18185,
   "items": [
+    {
+      "id": "mkt:019f9962-41df-7aab-8e95-473e022727e4",
+      "time": "2026-07-25 21:06:21",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Heatwave scorches central U.S., raises electricity demand】A heatwave from the Rockies to the Mississippi Valley is pushing south toward the Gulf Coast and increasing strain on regional power grids and cooling demand. The NWS has extended extreme-heat warnings from Montana to Texas, including Dallas where highs are forecast near 100°F (38°C) through at least next Wednesday and heat index values could reach about 107°F. A separate hot dome covers Southern California and Arizona; Phoenix highs may reach 117°F. A senior branch forecaster at the Weather Prediction Center said the pattern is fairly persistent, likely into next week, with only minor day-to-day variation and overall persistence through the end of the month."
+    },
     {
       "id": "5008012",
       "time": "2026-07-25 21:02:57",
@@ -166643,25 +166653,6 @@
         "Greater China"
       ],
       "text": "【China launches Space Computing Services Special Committee】China launched a Space Computing Services Special Committee on July 18 during the 2026 World Artificial Intelligence Conference, initiated by the MIIT Center for SME Development Promotion under the China Association for International Cooperation on Small and Medium Enterprises. The committee, China’s first nationwide industry coordination platform focused on space computing for SMEs, will build an integrated industry-matching vehicle to help SMEs link the space-to-ground computing value chain and support high-quality development of China’s aerospace information industry. Dongfang Tiansuan will serve as a standing council member and, with more than 40 upstream and downstream industry participants, will jointly construct an industry hub integrating industry, academia, research and application."
-    },
-    {
-      "id": "4995543",
-      "time": "2026-07-18 21:08:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美銅暗盤日內漲超1% 現報6.2924美元。"
-    },
-    {
-      "id": "mkt:019f7555-4a53-7aab-8df0-e8958e2e5970",
-      "time": "2026-07-18 21:05:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【China launches AI-enabled accelerator-driven advanced nuclear roadmap (AIforADANES) globally】At the 2026 World Artificial Intelligence Conference, the Institute of Modern Physics at the Chinese Academy of Sciences said China globally launched an AI-empowered accelerator-driven advanced nuclear system technology roadmap, AIforADANES, and established an associated all-domain innovation alliance. The roadmap adopts a physics-intrinsic world-model intelligence framework and a ‘‘data + physical model + expert experience’’ triple-driven paradigm, which the institute says addresses AI black-box controllability concerns against the nuclear sector’s zero-tolerance safety requirements and fills a technical gap for deploying intelligent advanced nuclear systems."
     }
   ]
 }
