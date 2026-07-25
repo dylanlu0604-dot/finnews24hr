@@ -1,7 +1,15 @@
 {
   "date": "2026-07-26",
-  "count": 105,
+  "count": 106,
   "items": [
+    {
+      "id": "mkt:019f9b25-868c-7aab-8e97-0871fa5f3a33",
+      "time": "2026-07-26 05:19:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Car rams into pedestrians in Berlin, several injured】German police said a vehicle struck pedestrians in Berlin on the evening of the 25th, injuring multiple people; officers are searching for the suspect."
+    },
     {
       "id": "5008144",
       "time": "2026-07-26 05:07:18",
