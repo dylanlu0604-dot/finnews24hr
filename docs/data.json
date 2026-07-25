@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-25 09:09:14",
-  "count": 18237,
+  "updated": "2026-07-25 09:13:01",
+  "count": 18235,
   "items": [
+    {
+      "id": "mkt:019f96d3-1bff-7aab-8e91-4523074a6513",
+      "time": "2026-07-25 09:10:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dengfeng, Henan issues red rainstorm warning】Dengfeng Meteorological Observatory upgraded an orange rainstorm warning to red at 06:39 on July 25. It forecasts over 100 mm of rain in the next three hours for parts of Dengfeng, including Songyang, Shaolin, Zhongyue and Ludian subdistricts and Donghua, Dajindian, Gaocheng, Daye, Xuanhua, Xuzhuang, Tangzhuang and Baiping towns, and warned of secondary hazards: mountain floods, geological disasters and urban waterlogging."
+    },
+    {
+      "id": "mkt:019f96d2-bf86-7aab-8e91-3ab00bd26781",
+      "time": "2026-07-25 09:10:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shenzhen upgrades typhoon warning from white to blue】Shenzhen Meteorological Observatory at 08:00 on July 25, 2026 upgraded the city’s typhoon warning from white to blue. Typhoon Hongxia is expected to enter a 500 km radius of Shenzhen and will move closer to Guangdong’s mid‑eastern offshore waters; wind and rain will strengthen from tonight."
+    },
+    {
+      "id": "5007727",
+      "time": "2026-07-25 09:09:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南登封釋出暴雨紅色預警】河南鄭州登封市氣象臺7月25日6時39分將暴雨橙色預警訊號升級為暴雨紅色預警訊號：預計未來3小時，嵩陽街道、少林街道、中嶽街道、盧店街道、東華鎮、大金店鎮、告成鎮、大冶鎮、宣化鎮、徐莊鎮、唐莊鎮、白坪鎮等部分鄉鎮（街道）降雨量將達100毫米以上，請注意防範強降雨引發的山洪、地質災害和城市內澇等次生災害。"
+    },
     {
       "id": "5007726",
       "time": "2026-07-25 09:05:23",
@@ -167033,48 +167057,6 @@
         "國際"
       ],
       "text": "【伊朗稱襲擊位於科威特和約旦的美軍基地】當地時間18日，伊朗國家電視臺援引軍方訊息稱，伊朗軍方襲擊了位於科威特和約旦的美軍基地。（央視新聞）"
-    },
-    {
-      "id": "4995205",
-      "time": "2026-07-18 09:12:23",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【昨日多隻寬基ETF顯著放量，高盛稱中國股市“國家隊”ETF錄得15個月最大四日資金流入】高盛的“國家隊”ETF資金流動追蹤指標顯示，7月13-16日期間淨流入達290億元人民幣，這一金額為2025年4月以來最大的四個交易日累計規模。此外，7月17日寬基ETF持續放量。截至收盤，易方達創業板ETF、華泰柏瑞滬深300ETF、華夏科創50ETF全天成交額均超百億元，分別達到154.27億元、146.49億元及142.87億元。 值得注意的是，昨日易方達創業板ETF、華夏科創50ETF成交額均重新整理了2024年“9·24”行情以來最高紀錄。此前，易方達創業板ETF在2025年8月28日創下的最高紀錄為127.14億元，華夏科創50ETF在2026年1月16日創下的最高紀錄為137.21億元。"
-    },
-    {
-      "id": "4995204",
-      "time": "2026-07-18 09:11:58",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【工信部原副部長王江平：建議加大對優質人工智慧終端消費的補貼】“引導高質量的應用，促進消費升級，要探索跨行業、跨領域的合作，促進人工智慧終端在智慧製造、智慧教育、文旅、視聽等領域的垂類示範作用。依託智慧化分級等標準體系，加大對優質人工智慧終端產品消費的補貼，引導、鼓勵消費者採購人工智慧終端優品、名品，提高公眾的認知度和接受度。”7月17日，2026世界人工智慧大會（WAIC2026）開幕，在“人工智慧終端產業演進與協同發展”論壇上，全國政協委員、工業和資訊化部原副部長王江平圍繞“人工智慧終端”提出上述建議，他認為，當前正是人工智慧終端發展浪潮的一個關鍵的視窗期，業界人士應該要抓住機遇。（澎湃新聞）"
-    },
-    {
-      "id": "4995203",
-      "time": "2026-07-18 09:10:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【網傳四川都江堰趙公山“貓貓廟”文創攤遭盜竊，官方通報】都江堰市人民政府玉堂街道辦事處7月17日晚通報，近日，網傳趙公山“貓貓廟”文創攤遭盜竊引發網路關注。現將有關情況通報如下：經初步核查，相關文創產品被髮帖人的其他合夥人收撿，已於7月15日當日歸還本人。網傳“貓貓廟”位於玉堂街道趙公山，為遊客和網友俗稱，無實體“貓貓廟”存在。該區域現有50餘隻貓，未發現有虐待、丟棄等行為。相關情況還在進一步調查中，街道辦將繼續加強監管，感謝大家的關心與理解。"
-    },
-    {
-      "id": "4995202",
-      "time": "2026-07-18 09:09:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "據貓眼專業版資料，電影《功夫女足》上映8天， 總票房破11億。"
-    },
-    {
-      "id": "4995201",
-      "time": "2026-07-18 09:09:15",
-      "tags": [
-        "公司",
-        "資料"
-      ],
-      "text": "【PPIO釋出智慧模型閘道器 打造面向Agent時代的智慧Token工廠】7月17日至7月20日，2026世界人工智慧大會（WAIC）在上海舉行。AI雲端計算服務商PPIO會上釋出智慧模型閘道器新品，打造面向Agent時代的智慧Token工廠。今年6月，該公司日均Token呼叫量逾1.2萬億，較2025年同期增長逾8倍。"
     }
   ]
 }

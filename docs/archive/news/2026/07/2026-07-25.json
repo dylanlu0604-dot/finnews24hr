@@ -1,7 +1,31 @@
 {
   "date": "2026-07-25",
-  "count": 518,
+  "count": 521,
   "items": [
+    {
+      "id": "mkt:019f96d3-1bff-7aab-8e91-4523074a6513",
+      "time": "2026-07-25 09:10:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dengfeng, Henan issues red rainstorm warning】Dengfeng Meteorological Observatory upgraded an orange rainstorm warning to red at 06:39 on July 25. It forecasts over 100 mm of rain in the next three hours for parts of Dengfeng, including Songyang, Shaolin, Zhongyue and Ludian subdistricts and Donghua, Dajindian, Gaocheng, Daye, Xuanhua, Xuzhuang, Tangzhuang and Baiping towns, and warned of secondary hazards: mountain floods, geological disasters and urban waterlogging."
+    },
+    {
+      "id": "mkt:019f96d2-bf86-7aab-8e91-3ab00bd26781",
+      "time": "2026-07-25 09:10:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shenzhen upgrades typhoon warning from white to blue】Shenzhen Meteorological Observatory at 08:00 on July 25, 2026 upgraded the city’s typhoon warning from white to blue. Typhoon Hongxia is expected to enter a 500 km radius of Shenzhen and will move closer to Guangdong’s mid‑eastern offshore waters; wind and rain will strengthen from tonight."
+    },
+    {
+      "id": "5007727",
+      "time": "2026-07-25 09:09:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南登封釋出暴雨紅色預警】河南鄭州登封市氣象臺7月25日6時39分將暴雨橙色預警訊號升級為暴雨紅色預警訊號：預計未來3小時，嵩陽街道、少林街道、中嶽街道、盧店街道、東華鎮、大金店鎮、告成鎮、大冶鎮、宣化鎮、徐莊鎮、唐莊鎮、白坪鎮等部分鄉鎮（街道）降雨量將達100毫米以上，請注意防範強降雨引發的山洪、地質災害和城市內澇等次生災害。"
+    },
     {
       "id": "5007726",
       "time": "2026-07-25 09:05:23",
