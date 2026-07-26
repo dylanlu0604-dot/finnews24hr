@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-27 06:30:01",
+  "updated": "2026-07-27 06:33:55",
   "count": 18000,
   "items": [
+    {
+      "id": "mkt:019fa08e-e8df-7aab-8e9c-cbc9816d60f1",
+      "time": "2026-07-27 06:32:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthis say they attacked three Saudi oil tankers in 48 hours】Yemen's Houthi movement said on the 26th it attacked three Saudi oil tankers in the past 48 hours and is enforcing maritime blockade measures against vessels linked to Saudi Arabia. The Houthis announced a maritime blockade of Saudi targets on the 20th and warned international shipping that vessels trading with Saudi ports could face military strikes. Lebanese Al Mayadeen reported on the 26th that 16 Saudi vessels were denied passage and forced to turn back in the Bab al-Mandeb Strait."
+    },
+    {
+      "id": "5008749",
+      "time": "2026-07-27 06:32:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【葉門胡塞武裝稱48小時內襲擊三艘沙特油輪】葉門胡塞武裝26日稱，該組織在過去48小時內襲擊了三艘沙特油輪，並繼續針對與沙特有關聯船隻實施海上禁運措施。葉門胡塞武裝20日宣佈對沙特實施海上禁運，並警告國際航運公司稱，與沙特港口開展貿易往來的船隻可能面臨軍事打擊。據黎巴嫩邁亞丁電視臺26日報道，目前共有16艘沙特船隻未準通行，在曼德海峽被迫掉頭。（新華社）"
+    },
+    {
+      "id": "5008748",
+      "time": "2026-07-27 06:31:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普釋出多張AI生成的襲擊伊朗設施的圖片。"
+    },
     {
       "id": "mkt:019fa08b-a2a0-7aab-8e9c-c5ef25ad290a",
       "time": "2026-07-27 06:28:53",
@@ -164888,35 +164916,6 @@
         "國際"
       ],
       "text": "【週一重要財經資訊（以下均為北京時間）】 \n① 09:00 中國7月貸款市場報價利率；\n② 14:00 德國6月PPI；\n③ 20:30 加拿大6月CPI；\n④ 22:00 美國6月諮商會領先指標。"
-    },
-    {
-      "id": "4996333",
-      "time": "2026-07-20 06:31:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：在美國總統特朗普與國際足聯主席詹尼·因凡蒂諾走上球場出席世界盃獎盃頒發儀式時，看臺上響起了噓聲。"
-    },
-    {
-      "id": "4996332",
-      "time": "2026-07-20 06:30:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報55.76美元/盎司。"
-    },
-    {
-      "id": "mkt:019f7c80-2a06-7aab-8dfb-51da9d393802",
-      "time": "2026-07-20 06:30:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude touched $85/bbl, up 3.24% on the day."
     }
   ]
 }
