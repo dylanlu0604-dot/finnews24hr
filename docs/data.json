@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-27 01:05:19",
-  "count": 18027,
+  "updated": "2026-07-27 01:09:14",
+  "count": 18028,
   "items": [
+    {
+      "id": "5008671",
+      "time": "2026-07-27 01:07:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國前副總統卡瑪拉·哈里斯競選團隊已向加州內部人士透露，她正籌備參與2028年美國總統大選。"
+    },
+    {
+      "id": "5008670",
+      "time": "2026-07-27 01:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【短期調整不改長期邏輯 QDII基金經理看好AI板塊後市】近1年來，在人工智慧投資熱潮帶動下，多隻重點佈局相關板塊的QDII基金收穫頗豐，多隻產品淨值漲幅超過60%。不過，7月以來，伴隨全球市場波動加劇，AI板塊一度出現大幅回撤。展望後市，多位QDII基金經理認為，AI硬體、儲存晶片及光通訊等細分賽道基本面依然穩固，應緊盯資本開支與訂單資料。"
+    },
+    {
+      "id": "mkt:019f9f64-8587-7aab-8e9b-8b7df37a2fd6",
+      "time": "2026-07-27 01:06:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Axios reports CENTCOM commander Cooper advised halting bombing operations around the Strait of Hormuz, saying the campaign’s effectiveness had reached its limit. That recommendation influenced Trump’s decision on Friday to pause planned strikes on Iran."
+    },
+    {
+      "id": "5008669",
+      "time": "2026-07-27 01:05:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：美軍中央司令部司令認為針對霍爾木茲海峽周邊的打擊已發揮最大效果，建議停止空襲。"
+    },
     {
       "id": "5008668",
       "time": "2026-07-27 01:03:43",
@@ -165124,31 +165161,6 @@
         "MKT News"
       ],
       "text": "【Iraq's prime minister to visit Iran, sign cooperation MOUs】Iraq's Prime Minister Ali Zaydi will visit Iran within the next week and sign multiple MOUs in Tehran covering several areas of cooperation, local media reported."
-    },
-    {
-      "id": "4996231",
-      "time": "2026-07-20 01:07:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普動向不明 以色列警惕與伊朗衝突擴大】以色列官員稱，受美國後續動向不明影響，以伊衝突升級風險上升，並就此發出警示。一名以色列高層訊息人士表示，特朗普下一步行動難以預判，美方存在擴大對伊朗打擊範圍的可能性；與此同時，其特使據稱正推進重啟談判的相關工作。以色列方面稱已針對各類局勢做好全面應對準備。"
-    },
-    {
-      "id": "4996230",
-      "time": "2026-07-20 01:07:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡辦公室痛批國際刑事法院逮捕令，稱該法院“不具備合法地位”。"
-    },
-    {
-      "id": "mkt:019f7b57-c39c-7aab-8df9-fb82306b733b",
-      "time": "2026-07-20 01:06:16",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Saudi outlet Alhadath, citing sources, reports a high-level Iranian delegation is due in Islamabad tomorrow for a two-day visit."
     }
   ]
 }

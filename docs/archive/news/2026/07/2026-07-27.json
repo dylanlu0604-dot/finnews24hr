@@ -1,7 +1,44 @@
 {
   "date": "2026-07-27",
-  "count": 22,
+  "count": 26,
   "items": [
+    {
+      "id": "5008671",
+      "time": "2026-07-27 01:07:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國前副總統卡瑪拉·哈里斯競選團隊已向加州內部人士透露，她正籌備參與2028年美國總統大選。"
+    },
+    {
+      "id": "5008670",
+      "time": "2026-07-27 01:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【短期調整不改長期邏輯 QDII基金經理看好AI板塊後市】近1年來，在人工智慧投資熱潮帶動下，多隻重點佈局相關板塊的QDII基金收穫頗豐，多隻產品淨值漲幅超過60%。不過，7月以來，伴隨全球市場波動加劇，AI板塊一度出現大幅回撤。展望後市，多位QDII基金經理認為，AI硬體、儲存晶片及光通訊等細分賽道基本面依然穩固，應緊盯資本開支與訂單資料。"
+    },
+    {
+      "id": "mkt:019f9f64-8587-7aab-8e9b-8b7df37a2fd6",
+      "time": "2026-07-27 01:06:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Axios reports CENTCOM commander Cooper advised halting bombing operations around the Strait of Hormuz, saying the campaign’s effectiveness had reached its limit. That recommendation influenced Trump’s decision on Friday to pause planned strikes on Iran."
+    },
+    {
+      "id": "5008669",
+      "time": "2026-07-27 01:05:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：美軍中央司令部司令認為針對霍爾木茲海峽周邊的打擊已發揮最大效果，建議停止空襲。"
+    },
     {
       "id": "5008668",
       "time": "2026-07-27 01:03:43",
