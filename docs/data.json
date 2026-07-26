@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-26 23:36:15",
-  "count": 18038,
+  "updated": "2026-07-26 23:40:17",
+  "count": 18039,
   "items": [
+    {
+      "id": "mkt:019f9f13-42b6-7aab-8e9b-12b4d3c887eb",
+      "time": "2026-07-26 23:37:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar foreign ministry: Prime Minister reiterated Qatar's support for all efforts aimed at easing tensions and reaching a comprehensive agreement."
+    },
+    {
+      "id": "5008645",
+      "time": "2026-07-26 23:37:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：大多數以色列民眾支援打擊真主黨的軍事行動，以軍打擊的是在平民區域活動的真主黨武裝人員。"
+    },
     {
       "id": "mkt:019f9f10-c78c-7aab-8e9b-0868127bb503",
       "time": "2026-07-26 23:35:04",
@@ -165241,14 +165257,6 @@
         "Brent"
       ],
       "text": "【Former US admiral warns Suez Canal merits heightened monitoring alongside Strait of Hormuz】Former US Navy Admiral James Stavridis warned Washington to closely monitor Iranian activity in the Suez Canal, saying shipping traffic through Suez exceeds the Strait of Hormuz and that Iran has begun signaling it could seek to use Houthi forces to close the waterway. He added Tehran is closely observing the war in Ukraine and appears to be adopting asymmetric tools—drones, unmanned systems and mobile tactics—to impose costs on adversaries."
-    },
-    {
-      "id": "4996202",
-      "time": "2026-07-19 23:39:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國下一任首相伯納姆將維持北海勘探開採許可禁令。"
     }
   ]
 }

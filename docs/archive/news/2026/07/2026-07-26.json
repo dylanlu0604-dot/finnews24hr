@@ -1,7 +1,23 @@
 {
   "date": "2026-07-26",
-  "count": 691,
+  "count": 693,
   "items": [
+    {
+      "id": "mkt:019f9f13-42b6-7aab-8e9b-12b4d3c887eb",
+      "time": "2026-07-26 23:37:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar foreign ministry: Prime Minister reiterated Qatar's support for all efforts aimed at easing tensions and reaching a comprehensive agreement."
+    },
+    {
+      "id": "5008645",
+      "time": "2026-07-26 23:37:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：大多數以色列民眾支援打擊真主黨的軍事行動，以軍打擊的是在平民區域活動的真主黨武裝人員。"
+    },
     {
       "id": "mkt:019f9f10-c78c-7aab-8e9b-0868127bb503",
       "time": "2026-07-26 23:35:04",
