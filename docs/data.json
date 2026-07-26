@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 18:21:50",
-  "count": 18126,
+  "updated": "2026-07-26 18:25:42",
+  "count": 18124,
   "items": [
+    {
+      "id": "5008506",
+      "time": "2026-07-26 18:21:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "迅策科技<3317.HK>稱，公司與深圳開鴻數字簽署合作協議，共同探索Token工廠系統。"
+    },
     {
       "id": "5008505",
       "time": "2026-07-26 18:21:13",
@@ -166025,32 +166033,6 @@
         "MKT News"
       ],
       "text": "Al Jazeera cites a Jordanian official saying a U.S. embassy report that Aqaba airport and port were being evacuated is false."
-    },
-    {
-      "id": "mkt:019f79e8-9d50-7aab-8df6-cc3a842bb919",
-      "time": "2026-07-19 18:25:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders"
-      ],
-      "text": "【Avita 07L opens pre-sale from 249,900 yuan】Avita Technology said pre-sales have begun for the Avita 07L, offering two all-electric variants: the Max+ pre-sale priced at 249,900 yuan and the Ultra three-motor pre-sale priced at 279,900 yuan."
-    },
-    {
-      "id": "4996049",
-      "time": "2026-07-19 18:23:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阡視科技釋出超節點系統wylon】在正在進行的2026世界人工智慧大會上，新一代AI基礎設施服務商阡視科技釋出了專為Token工廠而生的超節點系統wylon。據悉，基於wylon超節點架構的wylon新雲Token工廠，現已在華東叢集節點上線並邀請測試中。（上證報）"
-    },
-    {
-      "id": "4996048",
-      "time": "2026-07-19 18:22:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：約旦官方人士訊息稱美國駐約旦大使館對亞喀巴國際機場進行疏散的訊息不實。"
     }
   ]
 }
