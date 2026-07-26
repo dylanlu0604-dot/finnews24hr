@@ -1,7 +1,21 @@
 {
   "date": "2026-07-27",
-  "count": 51,
+  "count": 52,
   "items": [
+    {
+      "id": "mkt:019f9fa9-b475-7aab-8e9b-f612ab883ca9",
+      "time": "2026-07-27 02:22:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Brent"
+      ],
+      "text": "Romania summoned Russia's ambassador and said it had shot down three drones within three days."
+    },
     {
       "id": "5008684",
       "time": "2026-07-27 02:16:51",

@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-27 02:19:13",
-  "count": 18023,
+  "updated": "2026-07-27 02:23:05",
+  "count": 18022,
   "items": [
+    {
+      "id": "mkt:019f9fa9-b475-7aab-8e9b-f612ab883ca9",
+      "time": "2026-07-27 02:22:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Brent"
+      ],
+      "text": "Romania summoned Russia's ambassador and said it had shot down three drones within three days."
+    },
     {
       "id": "5008684",
       "time": "2026-07-27 02:16:51",
@@ -165090,22 +165104,6 @@
         "國際"
       ],
       "text": "【科威特軍方稱伊朗襲擊造成“嚴重損毀”】科威特軍方表示，伊朗針對科威特電力、水利與可再生能源部下屬設施發動襲擊，引發火情，當地基礎設施及關鍵民生機構遭受“嚴重損毀”。科威特軍方稱，自週日凌晨起，其已成功攔截多枚彈道導彈與無人機。"
-    },
-    {
-      "id": "mkt:019f7b9b-d68b-7aab-8dfa-54181e4143a1",
-      "time": "2026-07-20 02:20:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fox News: White House confirmed President Trump will present the World Cup trophy to the winner of today’s Argentina v Spain final."
-    },
-    {
-      "id": "4996252",
-      "time": "2026-07-20 02:20:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮證實，特朗普總統將為今日阿根廷對陣西班牙的世界盃決賽冠軍頒發大力神杯。"
     }
   ]
 }
