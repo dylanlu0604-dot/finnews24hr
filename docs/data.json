@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 19:20:45",
-  "count": 18102,
+  "updated": "2026-07-26 19:24:57",
+  "count": 18098,
   "items": [
+    {
+      "id": "5008527",
+      "time": "2026-07-26 19:23:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SK集團與英偉達達成5000億美元合作 2027年上線首個AI工廠】SK集團日前與英偉達達成價值超過5000億美元的AI合作計劃，包括SK集團旗下的SK電訊將建設2吉瓦容量的AI雲端計算中心，採用英偉達Vera Rubin DSX，並部署基於SK海力士HBM4的Vera Rubin加速計算系統，首個AI工廠計劃於2027年上線；與SK海力士合作開發HBM在內的下一代人工智慧記憶體技術。"
+    },
     {
       "id": "mkt:019f9e24-9ccc-7aab-8e99-fe0e6246e2d6",
       "time": "2026-07-26 19:17:07",
@@ -165791,46 +165799,6 @@
         "公司"
       ],
       "text": "【90餘家深市化工企業披露半年度業績預告，多家淨利增幅下限超10倍】近日，深市化工行業公司密集披露2026年半年度業績預告，呈現良好復甦態勢。截至目前，深市已有90餘家化工行業公司披露上半年業績預告，逾六成公司預計盈利且業績預增；10家公司預計扭虧為盈，恆逸石化等企業預計歸母淨利潤增長下限超過10倍。（上證報）"
-    },
-    {
-      "id": "mkt:019f7a1e-0a8d-7aab-8df7-599824b9c9c7",
-      "time": "2026-07-19 19:23:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Alhadath reports Kuwait Power Company said a power and seawater desalination plant was attacked for the second time in two days."
-    },
-    {
-      "id": "4996083",
-      "time": "2026-07-19 19:22:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特：受損機組搶修恢復供電作業正在進行中。"
-    },
-    {
-      "id": "4996082",
-      "time": "2026-07-19 19:22:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特訊息：發電及海水淡化設施再度遭到伊朗襲擊，致使當地發電及供水廠起火。"
-    },
-    {
-      "id": "4996081",
-      "time": "2026-07-19 19:21:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特：大量發電機組受伊朗打擊影響。"
-    },
-    {
-      "id": "mkt:019f7a1b-b8ed-7aab-8df7-5353715e2115",
-      "time": "2026-07-19 19:21:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Canada says all-hands mobilized to fight wildfires】Prime Minister Mark Carney said on July 18 Canada is facing one of its most severe wildfire seasons amid extreme heat and record drought and the government has launched an all‑hands mobilization. More than 5,300 firefighters and nearly 300 aircraft have been deployed; the interdepartmental wildland fire centre reported 3,815 fires YTD and over 2.9 mln ha burned. Rising temperatures and more frequent heatwaves linked to global climate change have heightened fire risk, and wildfire smoke has degraded air quality across Canada and parts of the US Northeast."
     }
   ]
 }
