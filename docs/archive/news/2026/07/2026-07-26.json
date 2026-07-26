@@ -1,7 +1,43 @@
 {
   "date": "2026-07-26",
-  "count": 210,
+  "count": 214,
   "items": [
+    {
+      "id": "5008232",
+      "time": "2026-07-26 09:06:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日媒坦言人形機器人短期內趕不上中國】日本日經xTECH網站7月23日釋出了一段日本技術人員拆解中國宇樹科技G1人形機器人的影片，嘗試探究其內部結構與技術水平。在這段影片中，日方技術人員和媒體記者邊拆邊感嘆中國人形機器人的技術水平之高，並最終得出結論：中國機器人研發顯然已超越了“只會展示”的階段，在人形機器人領域，日本想在短時間內縮小與中國的差距“恐怕並不現實”。（央視財經）"
+    },
+    {
+      "id": "mkt:019f9bf4-d3c6-7aab-8e97-bbff3718bfbe",
+      "time": "2026-07-26 09:05:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vehicle ramming in Berlin kills 1, injures 14】Berlin police said on the 25th a vehicle rammed pedestrians in central Berlin, killing at least one and injuring 14, several seriously. Preliminary assessment is that a car struck multiple people near Tiergarten Park; victims are receiving treatment. Police are searching for a suspect who reportedly exited the vehicle and fled on foot. German newspaper Bild reported the incident occurred at about 2200 local time. The area remains sealed off; the cause is unknown."
+    },
+    {
+      "id": "mkt:019f9bf3-79dc-7aab-8e97-b4f6479735ca",
+      "time": "2026-07-26 09:04:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China issues navigation warning for live-fire exercises in northern Yellow Sea】China's Dalian Maritime Safety Administration posted a navigation warning on the Maritime Safety Administration website saying parts of the northern Yellow Sea will host live-fire exercises from 08:00 on July 27 to 17:30 on July 29; entry is prohibited."
+    },
+    {
+      "id": "mkt:019f9bf3-21d6-7aab-8e97-af7a9f968291",
+      "time": "2026-07-26 09:03:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "USDJPY"
+      ],
+      "text": "【Brazil's Lula warns against external interference in presidential election】President Lula told a Workers' Party congress in São Paulo on July 25 that any attempt by external actors to interfere in Brazil's election \"will pay a heavy price,\" stressing sovereignty and that voters will decide the country's fate. The government on July 24 denied visas to U.S. State Department Assistant Secretary Riley M. Barnes and Assistant Deputy Secretary Samuel Samson, giving no reason; the two had reportedly questioned the fairness and reliability of Brazil's electoral system. The U.S. State Department had no immediate comment. Brazil's presidential election begins in October."
+    },
     {
       "id": "5008231",
       "time": "2026-07-26 09:01:16",
