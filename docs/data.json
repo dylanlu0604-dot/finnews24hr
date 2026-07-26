@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-27 07:01:27",
-  "count": 17983,
+  "updated": "2026-07-27 07:05:25",
+  "count": 17981,
   "items": [
+    {
+      "id": "5008762",
+      "time": "2026-07-27 07:04:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英偉達將以10億美元收購韓國Naver的新股】韓國Naver公司週一在一份監管檔案中表示，英偉達將收購該公司10億美元的新發行股份，此舉是雙方為建設新資料中心而建立投資合作伙伴關係的一部分。"
+    },
+    {
+      "id": "5008761",
+      "time": "2026-07-27 07:04:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【“六張網”鋪開、資金就位 下半年投資企穩向好可期】基礎設施建設投資先行指標回暖，多地加快部署推進“六張網”建設，超長期特別國債等資金加速落地……一系列訊號顯示，投資企穩勢能正在積蓄。分析人士認為，下半年，隨著穩投資政策落地，基建投資有望企穩回升，並對整體投資形成支撐。（上海證券報）"
+    },
+    {
+      "id": "5008760",
+      "time": "2026-07-27 07:03:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯 5 月石油出口額同比增長 19.5%。"
+    },
+    {
+      "id": "5008759",
+      "time": "2026-07-27 07:02:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達將收購 NAVER 4.5% 股份。"
+    },
+    {
+      "id": "mkt:019fa0a9-8da0-7aab-8e9c-fcd405b3f03e",
+      "time": "2026-07-27 07:01:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【Week ahead: Fed-led central bank week, PCE and major tech earnings in focus】Key market themes: Fed-led “super central bank week” with a pivotal FOMC decision and Fed Chair KEVIN WARSH press conference, June core PCE and US GDP data, heavy US tech earnings, weekly US oil inventories and an OPEC+ meeting. Monday — German IFO, UK CBI retail, US durable goods (Jun MoM) and Dallas Fed business index. Tuesday — US ADP payrolls (week to Jul 11), FHFA house prices (May MoM), S&P/Case‑Shiller 20‑city YoY (May), Conference Board consumer confidence (Jul) and RESERVE BANK OF AUSTRALIA Governor BULLOCK speaks. Wednesday — API crude stocks (week to Jul 24); EIA crude, Cushing and SPR weekly stocks; Australia unadj CPI (Jun YoY); Swiss ZEW; UK mortgage approvals; SK Hynix Q2 results. Thursday — FOMC rate decision and Chair KEVIN WARSH press conference; BOE rate decision, minutes, monetary policy report and Governor BAILEY press conference; BOC minutes; US advance Q2 GDP (annualized), Q2 core PCE (annualized preliminary), Jun core PCE (MoM/Yr), personal spending (Jun MoM), initial jobless claims; Eurozone and major European GDP preliminaries and sentiment indicators; Germany Jul CPI prelim; EIA weekly gas stocks; Meta, Microsoft, Qualcomm and ARM report Q2 after US close. Friday — Japan unemployment (Jun); China Jul official manufacturing PMI; UK Nationwide house prices; Eurozone Jul CPI prelim (YoY/MoM); France CPI prelim (Jul MoM); Germany unemployment data; Canada May GDP; US Q2 unit labour costs, Chicago PMI (Jul), U. of Michigan final confidence and 1‑yr inflation expectation (Jul); BANK OF JAPAN rate decision and Governor UEDA press conference; China opens new domestic refined‑fuel price adjustment window; Amazon and Apple report after US close. Saturday — US rotary/drill rig count (week to Jul 31). Sunday — OPEC+ monthly ministerial meeting."
+    },
     {
       "id": "mkt:019fa0a4-d3c8-7aab-8e9c-f5d30257d175",
       "time": "2026-07-27 06:56:24",
@@ -164693,77 +164742,6 @@
         "市場"
       ],
       "text": "【兩大央企增持股票資產 近一週資金淨流入寬基ETF超1500億元】7月19日，中國誠通釋出公告稱，近日，中國誠通及所屬誠通資本、誠暘投資聚焦國資央企大額增持中國股票資產，累計買入近百億元。中國誠通表示，堅定看好中國經濟和中國資本市場前景，後續將繼續使用自有資金和股票回購增持再貸款大額增持國資央企和科技企業股票及ETF，全力維護資本市場平穩執行。同日，中國國新發布公告稱，堅定看好資本市場發展前景，堅定支援央企科技創新和高質量發展，旗下國新投資有限公司相關主體已經使用股票回購增持專項再貸款超500億元，用於維護市場穩定，未來還將繼續用好用足再貸款這一政策工具，同時配以自有資金繼續增持中央企業股票，堅決維護資本市場核心資產戰略價值，堅決維護資本市場平穩健康執行。資金持續入場。近一週，全市場ETF合計淨流入2290.83億元，其中寬基ETF淨流入1561.28億元。跟蹤滬深300、中證1000、科創50指數的ETF分別獲資金淨流入399.84億元、256.28億元和196.19億元，成為吸金主力。"
-    },
-    {
-      "id": "4996350",
-      "time": "2026-07-20 07:04:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【臺積電：預計人工智慧晶片需求將“強勁且持續多年”，同時正加大在亞利桑那州的投資力度】臺積電正面臨對其人工智慧晶片的強勁且持續多年的需求，並計劃再投資1000億美元擴建其亞利桑那州工廠，但一位高管表示，公司仍需應對若干挑戰，例如當地建築工人短缺等問題。上週四在臺積電公佈了令人矚目的第二季度財報後，首席財務官黃文德表示，公司對亞利桑那州的進展“非常滿意”，這也是公司決定將投資額提高至2650億美元的原因。“我們將繼續投資，”他在接受採訪時表示，並補充說公司非常感謝美國政府的支援。“我們持續看到客戶強勁的需求——這種需求具有多年期的結構性特徵。”作為全球領先的先進AI晶片製造商及英偉達的主要供應商，臺積電激進的資本支出和飆升的利潤率使其成為全球半導體行業需求的風向標。"
-    },
-    {
-      "id": "4996349",
-      "time": "2026-07-20 07:03:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【臺積電CFO：看到人工智慧晶片需求“強勁且將持續多年”】臺積電CFO稱， 看到人工智慧晶片需求“強勁且將持續多年”；亞利桑那州建廠工程存在實際條件限制；將與美國政府密切合作解決問題；若市場時機有利，不排除發行債券籌措資本支出所需資金。"
-    },
-    {
-      "id": "mkt:019f7c9d-d5b0-7aab-8dfb-dc1649e23cc2",
-      "time": "2026-07-20 07:02:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK July Rightmove average asking price index YoY -0.4% (prior -0.5%)."
-    },
-    {
-      "id": "te:economy:567996",
-      "time": "2026-07-20 07:02:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Imports",
-        "Importance 1"
-      ],
-      "text": "New Zealand Imports Surge 28% in June — Imports to New Zealand surged 28% year-on-year to NZD 8.1 billion in June 2026, following a 25.9% rise in the previous month. The surge in import growth was mainly driven by higher purchases of petroleum and petroleum products (up 100%), mechanical machinery and equipment (23%), vehicles, parts, and accessories (12%), and electrical machinery and equipment (36%)."
-    },
-    {
-      "id": "mkt:019f7c9d-bfd2-7aab-8dfb-d6bce4a9011a",
-      "time": "2026-07-20 07:02:20",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Rightmove House Price Index (YoY) (Jul) | actual -0.4% | previous -0.50%"
-    },
-    {
-      "id": "mkt:019f7c9d-bdc1-7aab-8dfb-ccf838e10fe4",
-      "time": "2026-07-20 07:02:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "UK July Rightmove average asking price index MoM -1.0%; prior -0.6%."
-    },
-    {
-      "id": "mkt:019f7c9d-a084-7aab-8dfb-c0be3763d0aa",
-      "time": "2026-07-20 07:02:12",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Rightmove House Price Index (MoM) (Jul) | actual -1% | previous -0.60%"
     }
   ]
 }

@@ -1,7 +1,56 @@
 {
   "date": "2026-07-27",
-  "count": 156,
+  "count": 161,
   "items": [
+    {
+      "id": "5008762",
+      "time": "2026-07-27 07:04:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英偉達將以10億美元收購韓國Naver的新股】韓國Naver公司週一在一份監管檔案中表示，英偉達將收購該公司10億美元的新發行股份，此舉是雙方為建設新資料中心而建立投資合作伙伴關係的一部分。"
+    },
+    {
+      "id": "5008761",
+      "time": "2026-07-27 07:04:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【“六張網”鋪開、資金就位 下半年投資企穩向好可期】基礎設施建設投資先行指標回暖，多地加快部署推進“六張網”建設，超長期特別國債等資金加速落地……一系列訊號顯示，投資企穩勢能正在積蓄。分析人士認為，下半年，隨著穩投資政策落地，基建投資有望企穩回升，並對整體投資形成支撐。（上海證券報）"
+    },
+    {
+      "id": "5008760",
+      "time": "2026-07-27 07:03:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯 5 月石油出口額同比增長 19.5%。"
+    },
+    {
+      "id": "5008759",
+      "time": "2026-07-27 07:02:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達將收購 NAVER 4.5% 股份。"
+    },
+    {
+      "id": "mkt:019fa0a9-8da0-7aab-8e9c-fcd405b3f03e",
+      "time": "2026-07-27 07:01:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【Week ahead: Fed-led central bank week, PCE and major tech earnings in focus】Key market themes: Fed-led “super central bank week” with a pivotal FOMC decision and Fed Chair KEVIN WARSH press conference, June core PCE and US GDP data, heavy US tech earnings, weekly US oil inventories and an OPEC+ meeting. Monday — German IFO, UK CBI retail, US durable goods (Jun MoM) and Dallas Fed business index. Tuesday — US ADP payrolls (week to Jul 11), FHFA house prices (May MoM), S&P/Case‑Shiller 20‑city YoY (May), Conference Board consumer confidence (Jul) and RESERVE BANK OF AUSTRALIA Governor BULLOCK speaks. Wednesday — API crude stocks (week to Jul 24); EIA crude, Cushing and SPR weekly stocks; Australia unadj CPI (Jun YoY); Swiss ZEW; UK mortgage approvals; SK Hynix Q2 results. Thursday — FOMC rate decision and Chair KEVIN WARSH press conference; BOE rate decision, minutes, monetary policy report and Governor BAILEY press conference; BOC minutes; US advance Q2 GDP (annualized), Q2 core PCE (annualized preliminary), Jun core PCE (MoM/Yr), personal spending (Jun MoM), initial jobless claims; Eurozone and major European GDP preliminaries and sentiment indicators; Germany Jul CPI prelim; EIA weekly gas stocks; Meta, Microsoft, Qualcomm and ARM report Q2 after US close. Friday — Japan unemployment (Jun); China Jul official manufacturing PMI; UK Nationwide house prices; Eurozone Jul CPI prelim (YoY/MoM); France CPI prelim (Jul MoM); Germany unemployment data; Canada May GDP; US Q2 unit labour costs, Chicago PMI (Jul), U. of Michigan final confidence and 1‑yr inflation expectation (Jul); BANK OF JAPAN rate decision and Governor UEDA press conference; China opens new domestic refined‑fuel price adjustment window; Amazon and Apple report after US close. Saturday — US rotary/drill rig count (week to Jul 31). Sunday — OPEC+ monthly ministerial meeting."
+    },
     {
       "id": "mkt:019fa0a4-d3c8-7aab-8e9c-f5d30257d175",
       "time": "2026-07-27 06:56:24",
