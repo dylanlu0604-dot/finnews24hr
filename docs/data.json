@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-27 06:57:11",
-  "count": 17992,
+  "updated": "2026-07-27 07:01:27",
+  "count": 17983,
   "items": [
     {
       "id": "mkt:019fa0a4-d3c8-7aab-8e9c-f5d30257d175",
@@ -164764,94 +164764,6 @@
         "Important"
       ],
       "text": "United Kingdom | Rightmove House Price Index (MoM) (Jul) | actual -1% | previous -0.60%"
-    },
-    {
-      "id": "4996348",
-      "time": "2026-07-20 07:01:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國7月房價環比下跌1%。"
-    },
-    {
-      "id": "4996347",
-      "time": "2026-07-20 07:01:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國7月房價同比下跌0.4%。"
-    },
-    {
-      "id": "mkt:019f7c9c-a71b-7aab-8dfb-ba614813db03",
-      "time": "2026-07-20 07:01:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "TSM.O",
-        "Impact mixed"
-      ],
-      "text": "TSMC CFO said the company may issue bonds to fund capital expenditure if market conditions are favorable."
-    },
-    {
-      "id": "mkt:019f7c9c-5a24-7aab-8dfb-b347037c310e",
-      "time": "2026-07-20 07:00:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.N",
-        "Impact bearish"
-      ],
-      "text": "TSMC (TSM.N) CFO said construction of the Arizona fab is facing physical constraints and the company is working closely with the US government."
-    },
-    {
-      "id": "mkt:019f7c9c-4e6b-7aab-8dfb-a810df9678c6",
-      "time": "2026-07-20 07:00:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.N",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "TSMC (TSM.N) CFO said AI chip demand is strong and will persist for years."
-    },
-    {
-      "id": "te:economy:567995",
-      "time": "2026-07-20 07:00:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Exports",
-        "Importance 1"
-      ],
-      "text": "New Zealand Exports Rise 25% in June — New Zealand’s exports increased 25% year-on-year to NZD 8.1 billion in June 2026, after an 8.1% rise in the previous month. Export growth was mainly driven by higher sales of milk powder, butter, and cheese (16%); meat and edible offal (52%); preparations of milk, cereals, flour, and starch (130%); and aluminum and aluminum articles (74%)."
-    },
-    {
-      "id": "4996346",
-      "time": "2026-07-20 06:59:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部表示，已有30多個國家確認將出席俄羅斯—非洲峰會。"
-    },
-    {
-      "id": "4996345",
-      "time": "2026-07-20 06:58:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星生物將以2.7萬億韓元收購多肽集團（Polypeptide Group AG）。"
-    },
-    {
-      "id": "4996344",
-      "time": "2026-07-20 06:57:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【經濟日報金觀平：著力破解人才用工適配難】文章指出，細看當下就業市場，一面是高校畢業生規模持續增長，一面是不少企業求賢若渴卻招不到適配人才，“有人沒活幹”“有活沒人幹”同時存在。這種人才供需雙向承壓的“兩頭難”現象表明，人才供需銜接的“最後一公里”仍存梗阻。因此，要進一步完善人才培養與經濟社會發展需求適配機制，提升人才培養質效。當前，人工智慧加速重塑勞動力市場。新技術催生新崗位，各類傳統工種不斷迭代，單一技能勞動力需求下降，兼具實操、創新能力的複合型人才缺口擴大。完善供需匹配機制，助力勞動者快速適應崗位、平穩應對職業迭代與轉換，是化解就業結構性矛盾、適配產業發展的應有之義。"
     }
   ]
 }
