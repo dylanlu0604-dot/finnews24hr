@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-27 00:06:05",
-  "count": 18049,
+  "updated": "2026-07-27 00:10:06",
+  "count": 18050,
   "items": [
+    {
+      "id": "5008659",
+      "time": "2026-07-27 00:06:28",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國駐聯合國大使：儘管伊朗內部存在分歧，美伊雙方仍在多個層面持續開展談判。"
+    },
+    {
+      "id": "5008658",
+      "time": "2026-07-27 00:06:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：澤連斯基受以色列指使襲擊伊朗商船，企圖將歐洲拖入（中東）戰火。"
+    },
     {
       "id": "mkt:019f9f29-5253-7aab-8e9b-3f61394231b0",
       "time": "2026-07-27 00:01:53",
@@ -165332,19 +165349,6 @@
         "MKT News"
       ],
       "text": "Lebanon's National News Agency reported Israeli forces dropped a blast bomb on the southern town of Harris and shelled the nearby towns of Shamaa, Majdal Zoun and Beit Sayyed."
-    },
-    {
-      "id": "mkt:019f7b21-f0e7-7aab-8df9-700859926184",
-      "time": "2026-07-20 00:07:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【FT: Incoming UK PM Burnham to retain ban on new North Sea exploration licences】The FT reports incoming UK prime minister Burnham will uphold Labour’s pledge to stop issuing new North Sea exploration licences, dashing industry hopes for a significant reversal of fossil-fuel policy. Labour deputy leader Lucy Powell said on Sunday Burnham will not overturn the manifesto commitment; an industry source warned the sector would be highly discontent if the ban remains. Recent reports that Burnham might pivot to a pro‑drilling North Sea strategy now appear unlikely."
     }
   ]
 }
