@@ -1,7 +1,17 @@
 {
   "date": "2026-07-27",
-  "count": 8,
+  "count": 9,
   "items": [
+    {
+      "id": "mkt:019f9f3d-3565-7aab-8e9b-51c53045a5c9",
+      "time": "2026-07-27 00:23:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK defence secretary said Europe will thank Trump for forcing it toward greater self-reliance; Britain does not always agree with Trump or his methods, but his pressure helped prevent complacency."
+    },
     {
       "id": "5008661",
       "time": "2026-07-27 00:19:16",

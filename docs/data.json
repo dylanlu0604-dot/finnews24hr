@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-27 00:22:11",
-  "count": 18048,
+  "updated": "2026-07-27 00:26:19",
+  "count": 18046,
   "items": [
+    {
+      "id": "mkt:019f9f3d-3565-7aab-8e9b-51c53045a5c9",
+      "time": "2026-07-27 00:23:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK defence secretary said Europe will thank Trump for forcing it toward greater self-reliance; Britain does not always agree with Trump or his methods, but his pressure helped prevent complacency."
+    },
     {
       "id": "5008661",
       "time": "2026-07-27 00:19:16",
@@ -165299,34 +165309,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊在南部作戰區擊落一架敵對的間諜無人機，並完整繳獲。"
-    },
-    {
-      "id": "mkt:019f7b32-6c97-7aab-8df9-99563a5773ab",
-      "time": "2026-07-20 00:25:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Israel Defense Forces said the Israeli Air Force recently intercepted a drone near the Israel-Syria border. The origin of the launch is under investigation and no air-defense alerts were activated."
-    },
-    {
-      "id": "4996208",
-      "time": "2026-07-20 00:25:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：以方在以敘邊境區域攔截一架無人機。"
-    },
-    {
-      "id": "mkt:019f7b2f-b93b-7aab-8df9-95cd2ec8eb92",
-      "time": "2026-07-20 00:22:32",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Saudi outlet Alhadath cites the Israel Defense Forces chief of staff saying the IDF has observed attacks targeting Jordan's Aqaba region and Israel's air-defence systems are on high alert."
     }
   ]
 }
