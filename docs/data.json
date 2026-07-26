@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 22:38:59",
-  "count": 18036,
+  "updated": "2026-07-26 22:43:11",
+  "count": 18034,
   "items": [
+    {
+      "id": "5008623",
+      "time": "2026-07-26 22:39:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中汽股份：目前公司可一站式滿足L2強標全場景覆蓋】中汽股份(301215)近日在機構調研時表示，目前中汽股份可一站式滿足L2強標全場景覆蓋，有效解決客戶跨場地試驗帶來的流程繁瑣、效率偏低等問題。"
+    },
     {
       "id": "5008622",
       "time": "2026-07-26 22:34:14",
@@ -165219,30 +165227,6 @@
         "MKT News"
       ],
       "text": "【Knife attack in Bavarian village injures eight; suspect at large】German media reported on the 19th that a knife attack in a village in Bavaria in the early hours injured eight people; the attacker remains at large."
-    },
-    {
-      "id": "4996181",
-      "time": "2026-07-19 22:42:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心風暴預警：熱帶低氣壓可能在未來幾天顯著增強。"
-    },
-    {
-      "id": "4996180",
-      "time": "2026-07-19 22:40:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，埃莉達颶風大機率將在未來幾天內減弱為殘餘低壓。"
-    },
-    {
-      "id": "4996179",
-      "time": "2026-07-19 22:39:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "據德國媒體19日報道，德國巴伐利亞州一村莊當天凌晨發生持刀襲擊事件，已造成8人受傷，目前襲擊者在逃。（新華社）"
     }
   ]
 }
