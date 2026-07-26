@@ -1,7 +1,63 @@
 {
   "date": "2026-07-26",
-  "count": 669,
+  "count": 675,
   "items": [
+    {
+      "id": "mkt:019f9efe-90d6-7aab-8e9a-ed71810fd302",
+      "time": "2026-07-26 23:15:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Islamic Revolutionary Guard Corps (IRGC) said controlled explosions may be heard in the eastern area of Abadan port on Monday between 08:00 and 12:00; residents were told there is no cause for concern."
+    },
+    {
+      "id": "mkt:019f9efb-239d-7aab-8e9a-e25918cb56cf",
+      "time": "2026-07-26 23:11:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Prime Minister's Office official said international forces currently number about 200 and are drawn from friendly countries."
+    },
+    {
+      "id": "mkt:019f9efa-3220-7aab-8e9a-d954e8d2c51b",
+      "time": "2026-07-26 23:10:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An official at Israel’s Prime Minister’s Office said any international forces entering Gaza must obtain separate approval from each of the prime minister, the defense minister and the foreign minister."
+    },
+    {
+      "id": "mkt:019f9ef9-d5b2-7aab-8e9a-d7f3939f01fe",
+      "time": "2026-07-26 23:10:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact mixed",
+        "WTI",
+        "DXY"
+      ],
+      "text": "An Israeli Prime Minister's Office official said international forces will operate outside the Gaza yellow line under full coordination with the Israeli military."
+    },
+    {
+      "id": "mkt:019f9ef9-a47c-7aab-8e9a-c9410cbf3733",
+      "time": "2026-07-26 23:09:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Israeli Prime Minister's Office official said Israel has agreed to allow a peacekeeping commission and international forces into Gaza, as stipulated in Trump's plan."
+    },
+    {
+      "id": "mkt:019f9ef8-f979-7aab-8e9a-c73a6327bf6f",
+      "time": "2026-07-26 23:09:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "An official in Israel's Prime Minister's Office said Israel will maintain control of the Gaza \"yellow line\" area unless Hamas and the Gaza Strip are disarmed."
+    },
     {
       "id": "mkt:019f9ef7-b7ee-7aab-8e9a-bb0eacbb3093",
       "time": "2026-07-26 23:07:42",

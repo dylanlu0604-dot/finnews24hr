@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-26 23:09:00",
-  "count": 18037,
+  "updated": "2026-07-26 23:16:02",
+  "count": 18040,
   "items": [
+    {
+      "id": "mkt:019f9efe-90d6-7aab-8e9a-ed71810fd302",
+      "time": "2026-07-26 23:15:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Islamic Revolutionary Guard Corps (IRGC) said controlled explosions may be heard in the eastern area of Abadan port on Monday between 08:00 and 12:00; residents were told there is no cause for concern."
+    },
+    {
+      "id": "mkt:019f9efb-239d-7aab-8e9a-e25918cb56cf",
+      "time": "2026-07-26 23:11:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Prime Minister's Office official said international forces currently number about 200 and are drawn from friendly countries."
+    },
+    {
+      "id": "mkt:019f9efa-3220-7aab-8e9a-d954e8d2c51b",
+      "time": "2026-07-26 23:10:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An official at Israel’s Prime Minister’s Office said any international forces entering Gaza must obtain separate approval from each of the prime minister, the defense minister and the foreign minister."
+    },
+    {
+      "id": "mkt:019f9ef9-d5b2-7aab-8e9a-d7f3939f01fe",
+      "time": "2026-07-26 23:10:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact mixed",
+        "WTI",
+        "DXY"
+      ],
+      "text": "An Israeli Prime Minister's Office official said international forces will operate outside the Gaza yellow line under full coordination with the Israeli military."
+    },
+    {
+      "id": "mkt:019f9ef9-a47c-7aab-8e9a-c9410cbf3733",
+      "time": "2026-07-26 23:09:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Israeli Prime Minister's Office official said Israel has agreed to allow a peacekeeping commission and international forces into Gaza, as stipulated in Trump's plan."
+    },
+    {
+      "id": "mkt:019f9ef8-f979-7aab-8e9a-c73a6327bf6f",
+      "time": "2026-07-26 23:09:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "An official in Israel's Prime Minister's Office said Israel will maintain control of the Gaza \"yellow line\" area unless Hamas and the Gaza Strip are disarmed."
+    },
     {
       "id": "mkt:019f9ef7-b7ee-7aab-8e9a-bb0eacbb3093",
       "time": "2026-07-26 23:07:42",
@@ -165222,34 +165278,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊聖城旅指揮官伊斯梅爾·卡尼：在伊朗最高領袖穆傑塔巴的領導下，“抵抗運動”這條“光榮道路”將延續下去。"
-    },
-    {
-      "id": "4996190",
-      "time": "2026-07-19 23:14:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統新聞秘書佩斯科夫：普京在克里姆林宮會見朝鮮外務相崔善姬。"
-    },
-    {
-      "id": "4996189",
-      "time": "2026-07-19 23:13:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【載客百人渡輪在蓋亞那附近沉沒 67人已獲救】蓋亞那公共工程部長埃奇希爾19日說，一艘載有116名乘客的渡輪在蓋亞那海岸附近沉沒，已有67人獲救。"
-    },
-    {
-      "id": "mkt:019f7aed-1f8d-7aab-8df9-08294dd34529",
-      "time": "2026-07-19 23:09:48",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran says it shot down US LUCAS drone】Al Jazeera reported Iran's military said its naval air-defence systems intercepted and shot down a US LUCAS drone over southern Iran; state news agency IRNA released a photograph of an apparently damaged drone. LUCAS is a low-cost unmanned combat-attack system/loitering munition used as a suicide drone, and the US first deployed it earlier this year in operations targeting Iran."
     }
   ]
 }
