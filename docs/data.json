@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-27 06:33:55",
+  "updated": "2026-07-27 06:37:49",
   "count": 18000,
   "items": [
+    {
+      "id": "5008750",
+      "time": "2026-07-27 06:35:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗最高領袖：保衛黎巴嫩是伊“戰略使命”】據伊朗伊斯蘭共和國通訊社26日報道，伊朗最高領袖穆傑塔巴表示，伊朗對“抵抗陣線”的支援是一項“戰略使命”。穆傑塔巴強調，根據伊朗已故最高領袖哈梅內伊制定的政策，伊朗將保衛黎巴嫩視為其戰略使命，“維護黎巴嫩領土完整，並徹底、無條件地停止猶太復國主義政權的侵略，仍然是結束這場戰爭的首要條件”。報道說，穆傑塔巴在給黎巴嫩真主黨領導人納伊姆·卡西姆的相關回信中作出上述表態。（新華社）"
+    },
+    {
+      "id": "mkt:019fa091-3f7b-7aab-8e9c-d23c9d00187a",
+      "time": "2026-07-27 06:35:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran supreme leader says defending Lebanon a strategic mission】Iran’s supreme leader Mujtaba said Tehran’s support for the resistance front is a strategic mission and, citing policy set by the late supreme leader Khamenei, Tehran will defend Lebanon, preserve its territorial integrity and seek the complete, unconditional cessation of Israel’s aggression — which he said remains the primary condition for ending the war — in a reply to HEZBOLLAH leader Naim Qassem."
+    },
     {
       "id": "mkt:019fa08e-e8df-7aab-8e9c-cbc9816d60f1",
       "time": "2026-07-27 06:32:27",
@@ -164899,23 +164919,6 @@
         "其他"
       ],
       "text": "【科威特軍方稱正在攔截進入領空的“敵對”目標】科威特軍方當地時間20日1時30分左右釋出訊息稱，科威特防空系統正在攔截進入科領空的“敵對”空中目標。"
-    },
-    {
-      "id": "4996335",
-      "time": "2026-07-20 06:36:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：星艦下一次發射嘗試定於本週五進行。"
-    },
-    {
-      "id": "4996334",
-      "time": "2026-07-20 06:34:47",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "【週一重要財經資訊（以下均為北京時間）】 \n① 09:00 中國7月貸款市場報價利率；\n② 14:00 德國6月PPI；\n③ 20:30 加拿大6月CPI；\n④ 22:00 美國6月諮商會領先指標。"
     }
   ]
 }
