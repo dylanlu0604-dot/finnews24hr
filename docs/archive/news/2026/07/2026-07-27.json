@@ -1,7 +1,33 @@
 {
   "date": "2026-07-27",
-  "count": 45,
+  "count": 48,
   "items": [
+    {
+      "id": "mkt:019f9fa2-3c8f-7aab-8e9b-e7766e881ac8",
+      "time": "2026-07-27 02:13:57",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "DAL.O"
+      ],
+      "text": "The Wall Street Journal reports sources say United Airlines approached Delta Air Lines last year about a potential merger; preliminary talks did not progress."
+    },
+    {
+      "id": "5008682",
+      "time": "2026-07-27 02:13:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：伊拉克總理將於下週四訪問沙烏地阿拉伯。"
+    },
+    {
+      "id": "mkt:019f9f9f-f55f-7aab-8e9b-df2269a573b6",
+      "time": "2026-07-27 02:11:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi prime minister to visit Saudi Arabia next Thursday, Al Arabiya reports."
+    },
     {
       "id": "mkt:019f9f9a-6ae3-7aab-8e9b-d6c07834054e",
       "time": "2026-07-27 02:05:24",

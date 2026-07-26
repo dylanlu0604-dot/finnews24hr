@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-27 02:11:25",
-  "count": 18022,
+  "updated": "2026-07-27 02:15:18",
+  "count": 18021,
   "items": [
+    {
+      "id": "mkt:019f9fa2-3c8f-7aab-8e9b-e7766e881ac8",
+      "time": "2026-07-27 02:13:57",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "DAL.O"
+      ],
+      "text": "The Wall Street Journal reports sources say United Airlines approached Delta Air Lines last year about a potential merger; preliminary talks did not progress."
+    },
+    {
+      "id": "5008682",
+      "time": "2026-07-27 02:13:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：伊拉克總理將於下週四訪問沙烏地阿拉伯。"
+    },
+    {
+      "id": "mkt:019f9f9f-f55f-7aab-8e9b-df2269a573b6",
+      "time": "2026-07-27 02:11:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi prime minister to visit Saudi Arabia next Thursday, Al Arabiya reports."
+    },
     {
       "id": "mkt:019f9f9a-6ae3-7aab-8e9b-d6c07834054e",
       "time": "2026-07-27 02:05:24",
@@ -165064,43 +165090,6 @@
         "其他"
       ],
       "text": "預測平臺Kalshi世界盃決賽市場賠率傾向：\n西班牙 58.4%，\n阿根廷 42%。"
-    },
-    {
-      "id": "4996250",
-      "time": "2026-07-20 02:14:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普現身世界盃決賽現場，觀戰阿根廷對陣西班牙】當地時間週日下午，美國總統特朗普抵達世界盃決賽賽場。他將現場觀看本屆賽事最後一場較量，見證阿根廷與西班牙爭奪大力神杯。隨行記者團訊息顯示，特朗普在美國東部時間下午1點前抵達賽場，賽後不久記者便被引匯入場，參與賽前系列活動。週五，特朗普設宴招待國際足聯主席詹尼·因凡蒂諾，並召開新聞釋出會。他表示，會向因凡蒂諾提出美國再次承辦世界盃的訴求。而未來兩屆世界盃的主辦權已全部敲定。"
-    },
-    {
-      "id": "4996249",
-      "time": "2026-07-20 02:12:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普抵達世界盃決賽現場，本場對決為阿根廷對陣西班牙。"
-    },
-    {
-      "id": "mkt:019f7b93-f734-7aab-8dfa-4f4f21b71dd3",
-      "time": "2026-07-20 02:12:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Reports of explosions heard in Kuwait."
-    },
-    {
-      "id": "4996248",
-      "time": "2026-07-20 02:11:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特軍隊：伊朗的襲擊波及電力與水務部的設施，造成火災並引發嚴重損失。"
     }
   ]
 }
