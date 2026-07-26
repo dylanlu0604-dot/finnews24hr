@@ -1,7 +1,19 @@
 {
   "date": "2026-07-26",
-  "count": 447,
+  "count": 448,
   "items": [
+    {
+      "id": "mkt:019f9d44-2105-7aab-8e99-2729bc6d10a8",
+      "time": "2026-07-26 15:11:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【IRGC says it intercepted six vessels in Strait of Hormuz in past 24 hours】Iran's Islamic Revolutionary Guard Corps said on the 26th its navy is conducting continuous patrols and surveillance across roughly 240,000 sq km of the Persian Gulf and Strait of Hormuz. The IRGC said any vessel that does not accept Iranian rules cannot transit the strait. It said US forces attempted to alter vessel routes but were met with warning shots and the vessels returned. Over the past 24 hours six vessels were ordered to anchor after IRGC warnings and complied with Iranian directives."
+    },
     {
       "id": "5008423",
       "time": "2026-07-26 15:10:51",

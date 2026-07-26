@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-26 15:11:54",
-  "count": 18199,
+  "updated": "2026-07-26 15:15:54",
+  "count": 18196,
   "items": [
+    {
+      "id": "mkt:019f9d44-2105-7aab-8e99-2729bc6d10a8",
+      "time": "2026-07-26 15:11:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【IRGC says it intercepted six vessels in Strait of Hormuz in past 24 hours】Iran's Islamic Revolutionary Guard Corps said on the 26th its navy is conducting continuous patrols and surveillance across roughly 240,000 sq km of the Persian Gulf and Strait of Hormuz. The IRGC said any vessel that does not accept Iranian rules cannot transit the strait. It said US forces attempted to alter vessel routes but were met with warning shots and the vessels returned. Over the past 24 hours six vessels were ordered to anchor after IRGC warnings and complied with Iranian directives."
+    },
     {
       "id": "5008423",
       "time": "2026-07-26 15:10:51",
@@ -166648,38 +166660,6 @@
         "Brent"
       ],
       "text": "Caspian Pipeline Consortium says an offshore terminal was attacked."
-    },
-    {
-      "id": "4995911",
-      "time": "2026-07-19 15:15:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "裡海管道集團：其海上石油碼頭遇襲。"
-    },
-    {
-      "id": "4995910",
-      "time": "2026-07-19 15:14:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【今日特朗普要聞】\n1、特朗再次下令於美國東部時間當日18時（北京時間06:00）空襲伊朗，打擊霍爾木茲海峽航運威脅武裝。\n2、特朗普稱兩名美軍人員在約旦遇難一事“令人萬分痛心”，並再次強調伊朗絕對不應該擁有核武器，同時表示對伊朗暫停履行相關協議一事毫不在意。\n3、特朗普稱，正在讓美國再次成為能源主導國家。不再向其他國家乞求石油。\n4、特朗普稱，國際足聯主席因凡蒂諾曾提出由美國和中國聯合舉辦一屆世界盃。"
-    },
-    {
-      "id": "4995909",
-      "time": "2026-07-19 15:12:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【百型智慧在WAIC釋出企業本體OntoZ】7月17日至20日，2026世界人工智慧大會（WAIC）在上海舉行。大會期間，跨境B2B產業AI企業百型智慧在Future Tech論壇現場正式釋出企業本體OntoZ。"
-    },
-    {
-      "id": "4995908",
-      "time": "2026-07-19 15:12:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗恰巴哈爾市傳出爆炸聲 官方回應系銷燬未爆彈藥】當地時間7月19日，伊朗東南部錫斯坦-俾路支斯坦省恰巴哈爾市附近傳出爆炸聲。伊朗官方隨後證實，此次聲響系當地實施受控排爆作業所致，未對公眾安全構成威脅。"
     }
   ]
 }
