@@ -1,7 +1,31 @@
 {
   "date": "2026-07-26",
-  "count": 688,
+  "count": 691,
   "items": [
+    {
+      "id": "mkt:019f9f10-c78c-7aab-8e9b-0868127bb503",
+      "time": "2026-07-26 23:35:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's energy minister said 70 MW of solar capacity came online last week; about 100 MW is expected to come online this week, and the rollout will continue."
+    },
+    {
+      "id": "mkt:019f9f0f-18e6-7aab-8e9b-0580b677190b",
+      "time": "2026-07-26 23:33:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Foreign Ministry said the prime minister spoke with Saudi Arabia's foreign minister to discuss recent regional developments and diplomatic efforts."
+    },
+    {
+      "id": "5008644",
+      "time": "2026-07-26 23:31:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗和俄羅斯外長通話討論地區局勢。"
+    },
     {
       "id": "5008643",
       "time": "2026-07-26 23:31:25",

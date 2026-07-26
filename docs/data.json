@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-26 23:32:15",
-  "count": 18036,
+  "updated": "2026-07-26 23:36:15",
+  "count": 18038,
   "items": [
+    {
+      "id": "mkt:019f9f10-c78c-7aab-8e9b-0868127bb503",
+      "time": "2026-07-26 23:35:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's energy minister said 70 MW of solar capacity came online last week; about 100 MW is expected to come online this week, and the rollout will continue."
+    },
+    {
+      "id": "mkt:019f9f0f-18e6-7aab-8e9b-0580b677190b",
+      "time": "2026-07-26 23:33:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Foreign Ministry said the prime minister spoke with Saudi Arabia's foreign minister to discuss recent regional developments and diplomatic efforts."
+    },
+    {
+      "id": "5008644",
+      "time": "2026-07-26 23:31:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗和俄羅斯外長通話討論地區局勢。"
+    },
     {
       "id": "5008643",
       "time": "2026-07-26 23:31:25",
@@ -165225,14 +165249,6 @@
         "其他"
       ],
       "text": "英國下一任首相伯納姆將維持北海勘探開採許可禁令。"
-    },
-    {
-      "id": "4996201",
-      "time": "2026-07-19 23:33:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：週日凌晨，以軍在加沙地帶多個地區實施打擊，摧毀多處基礎設施，包括一處武器儲存設施、一處武器生產場所以及一處火箭發射陣地。"
     }
   ]
 }
