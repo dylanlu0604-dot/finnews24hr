@@ -1,7 +1,25 @@
 {
   "date": "2026-07-27",
-  "count": 64,
+  "count": 66,
   "items": [
+    {
+      "id": "mkt:019f9fd0-dde6-7aab-8e9c-08d3cd842d23",
+      "time": "2026-07-27 03:04:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran Foreign Ministry spokesperson BAGHAEI said information exchanges between Iran and the United States and mediators' activities are continuing."
+    },
+    {
+      "id": "5008695",
+      "time": "2026-07-27 03:03:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：伊朗與美國之間仍在交換訊息，調解方也在持續開展斡旋工作。"
+    },
     {
       "id": "5008694",
       "time": "2026-07-27 02:59:55",
