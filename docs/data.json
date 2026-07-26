@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-27 00:34:20",
-  "count": 18047,
+  "updated": "2026-07-27 00:41:14",
+  "count": 18041,
   "items": [
+    {
+      "id": "5008664",
+      "time": "2026-07-27 00:38:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官員：過去兩日伊朗與阿曼官員的會談富有建設性，旨在恢復霍爾木茲海峽通航的談判也取得積極進展。"
+    },
     {
       "id": "mkt:019f9f44-e45b-7aab-8e9b-7ab12ba23375",
       "time": "2026-07-27 00:31:59",
@@ -165262,67 +165270,6 @@
         "MKT News"
       ],
       "text": "Saudi outlet Alhadath, citing Lebanese officials, reports President Aoun and US Secretary of State Rubio agreed on a full Israeli withdrawal from southern Lebanon."
-    },
-    {
-      "id": "4996217",
-      "time": "2026-07-20 00:40:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗導彈擊中約旦美軍基地瞬間】美聯社7月19日釋出一段影片畫面，據信內容為當地時間7月18日凌晨伊朗導彈擊中約旦一處美軍基地的瞬間。影片中，導彈擊中一處建築後火光四濺，有人用英語大喊“快撤”。據美軍中央司令部訊息，這次襲擊造成美軍2人死亡、1人失蹤，多人受傷，其中4人需住院治療。 伊朗伊斯蘭革命衛隊稱，為回應美軍襲擊，7月18日對位於約旦阿茲拉克的穆沃費格薩勒提空軍基地的戰機掩體和大型停機坪發動導彈和無人機打擊，“摧毀至少2架戰鬥機和3架其他飛行器，並嚴重損毀若干飛行器”。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f7b3f-c912-7aab-8df9-bcd3d9cfc1e5",
-      "time": "2026-07-20 00:40:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Jordan summons Iran's chargé in Amman over ongoing attacks】Jordan's foreign ministry said it summoned Iran's chargé d'affaires in Amman and delivered a formal protest note over Iran's continued attacks on Jordanian territory and provocative statements by Iranian official bodies. A ministry spokesman said Jordan asked the chargé to convey a clear message to Tehran to immediately halt the attacks and cease the unacceptable incendiary rhetoric."
-    },
-    {
-      "id": "4996216",
-      "time": "2026-07-20 00:37:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗軍方：防空系統在西部擊落一架MQ-9型敵方無人機。"
-    },
-    {
-      "id": "mkt:019f7b3d-967c-7aab-8df9-b5a198ffbd66",
-      "time": "2026-07-20 00:37:41",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iranian military said air-defence units shot down an enemy MQ-9 Reaper drone in western Iran."
-    },
-    {
-      "id": "4996215",
-      "time": "2026-07-20 00:37:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列參謀長：以色列防空系統已進入高度戒備狀態，已做好應對伊朗方面任何局勢變化的準備。"
-    },
-    {
-      "id": "4996214",
-      "time": "2026-07-20 00:36:57",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "國際原子能機構迴避譴責美國打擊伊朗達爾霍溫核設施一事。"
-    },
-    {
-      "id": "4996213",
-      "time": "2026-07-20 00:34:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎巴嫩遇難者人數升至4328人】黎巴嫩衛生部在最新統計中宣佈，自以色列發動打擊以來，黎巴嫩遇難者人數已達4328人。"
     }
   ]
 }
