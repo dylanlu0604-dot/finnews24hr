@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-27 05:06:09_
-_本檔包含 3397 則快訊，約 684336 字_
+_更新時間：2026-07-27 06:06:41_
+_本檔包含 3406 則快訊，約 684046 字_
+
+---
+
+### 2026-07-23 13:08:07  #公司
+
+意法半導體第二季度淨利潤為2.22億美元，分析師預期為2.099億美元；第二季度毛利率為34.8%，公司此前給出的第二季度毛利率指引約為34.8%；意法半導體第二季度營收為34.9億美元。意法半導體預計第三季度營收約為37億美元，預計第三季度毛利率約為37%。
+
+---
+
+### 2026-07-23 13:08:04  #MKT News #005380.KS #Impact bearish
+
+Hyundai Motor said Q2 operating profit margin declined after a parts-supplier fire and higher raw-material costs.
+
+---
+
+### 2026-07-23 13:07:54  #MKT News #Market Themes #Chip Wars #STM.PA #Impact bullish
+
+STMicroelectronics CEO says Q2 demand rose further; orders strong across all end markets.
+
+---
+
+### 2026-07-23 13:07:35  #MKT News #Market Regions #Japan & APAC
+
+TASS reported U.S. Secretary of State Rubio met Russian Foreign Minister Lavrov in Manila for about 30 minutes.
+
+---
+
+### 2026-07-23 13:07:13  #公司 #國際
+
+【伊朗軍隊稱打擊科威特境內多處美軍基地】當地時間23日，伊朗軍隊在一份公告中指出，幾小時前，伊朗軍隊對科威特多哈營地的美軍彈藥和後勤倉庫、阿里夫詹美軍基地的彈藥庫以及位於阿里·薩利姆基地的燃料庫發動大規模無人機襲擊。（央視新聞）
+
+---
+
+### 2026-07-23 13:07:00  #MKT News #GBPUSD #Impact bullish #FTSE100 #DXY #Impact bearish
+
+UK Prime Minister's Office says pubs, clubs and live music venues will receive a 20% reduction in business rates.
+
+---
+
+### 2026-07-23 13:05:22  #MKT News #Market Themes #China Tech Giants #Hang Seng Index #Impact bullish
+
+Hang Seng Tech Index rose more than 1% as high-profile tech and internet names rebounded.
+
+---
+
+### 2026-07-23 13:04:49  #MKT News #STM.O #Impact bearish
+
+STMicroelectronics expects Q3 net revenue of $3.70 bln, versus consensus $3.79 bln.
+
+---
+
+### 2026-07-23 13:04:36  #市場 #焦點
+
+恒生指數漲超1%，現報25254.311點；恒生科技指數現漲1.021%。
+
+---
+
+### 2026-07-23 13:04:26  #MKT News #STM.PA
+
+STMicroelectronics reported Q2 net profit of $222 mln, gross profit about $1.22 bln and a gross margin of 34.8%.
+
+---
+
+### 2026-07-23 13:02:58  #其他
+
+裕信銀行第二季度營收65.2億歐元，預估65億歐元。裕信銀行第二季度淨利息收入36.6億歐元，預估36.6億歐元。
+
+---
+
+### 2026-07-23 13:01:34  #MKT News #005380.KS #Impact bearish
+
+Hyundai Motor to pay a quarterly dividend of KRW2,500 per share.
+
+---
+
+### 2026-07-23 13:01:17  #其他
+
+諾基亞第二季度調整後營業利潤4.34億歐元，預估3.723億歐元。
+
+---
+
+### 2026-07-23 13:01:14  #MKT News
+
+【Mossad chief visited Washington, provided U.S. intelligence on Iran site, uranium feedstock and economy】U.S. media on the 22nd, citing sources, reported Mossad director Roman Gofman visited Washington two weeks ago to meet U.S. officials on Iran’s regional situation and its nuclear program. CNN reported Gofman provided U.S. authorities with intelligence on an Iran site referred to as Gaoshan, on uranium feedstock and on Iran’s economic conditions.
+
+---
+
+### 2026-07-23 13:01:01  #公司
+
+法國巴黎銀行有限公司 第二季度營收140.9億歐元，預估134.8億歐元。法國巴黎銀行有限公司 第二季度淨利潤43.5億歐元，預估42.3億歐元。
+
+---
+
+### 2026-07-23 13:00:44  #其他
+
+雀巢上半年銷售額431.1億瑞士法郎，預估430.2億瑞士法郎。
+
+---
+
+### 2026-07-23 13:00:32  #其他
+
+諾基亞 預計全年調整後營業利潤21億歐元至26億歐元，預估23.6億歐元。
+
+---
+
+### 2026-07-23 13:00:22  #MKT News #Important #01986.HK #Impact bullish
+
+Caike New Energy (01986.HK) shares rose over 12% in afternoon trade after the company forecast net profit attributable to owners of the parent for 1H 2026 of at least RMB 90 mln, implying YoY growth of at least 867.7%.
+
+---
+
+### 2026-07-23 13:00:14  #國際
+
+【美媒稱以色列情報機構負責人訪美提供鎬山情報 】美國媒體22日援引知情人士訊息稱，以色列情報和特勤局（摩薩德）的新任局長羅曼·戈夫曼於兩週前訪問美國華盛頓，就伊朗地區局勢和伊朗核計劃相關議題同美方舉行會談。 美國有線電視新聞網報道說，戈夫曼在此次訪問期間向美方提供了關於伊朗鎬山、鈾原料和伊朗經濟狀況等方面的情報。 阿克西奧斯網站報道說，戈夫曼是以色列總理內塔尼亞胡的核心幕僚之一。這是他自6月上任以來首次到訪華盛頓，訪問正值霍爾木茲海峽緊張局勢升級前夕。戈夫曼與美國中央情報局局長約翰·拉特克利夫以及白宮官員舉行了會談。
+
+---
+
+### 2026-07-23 13:00:07  #MKT News
+
+Singapore June CPI YoY 1.9% vs 2.0% expected; May 1.8%.
+
+---
+
+### 2026-07-23 13:00:00  #MKT News #Economic Calendar #Important
+
+Singapore | CPI (YoY) (Jun) | actual 1.9% | consensus 2% | previous 1.80%
+
+---
+
+### 2026-07-23 12:59:13  #公司 #市場
+
+【中智人民幣跨境投融資推介會聚焦雙邊金融合作】由中國銀行和跨境銀行間支付清算有限責任公司聯合舉辦的中智人民幣跨境投融資推介會22日在智利首都聖地亞哥舉行，中智兩國金融界、政商界百餘名嘉賓出席。與會人士認為，中國金融市場持續擴大開放，將為中智經貿合作高質量發展貢獻更多金融力量。中國駐智利大使牛清報致辭說，深化金融互聯互通、擴大人民幣在雙邊貿易投資中的使用，既是兩國企業降本避險的務實選擇，更是中智合作向更深層次邁進的必然要求，希望金融合作成為中智全面戰略伙伴關係提質升級的新引擎。智利金融市場委員會委員貝爾特蘭·德拉蒙接受新華社記者採訪時表示，智中兩國經貿合作密切，不斷深化兩國金融合作是必然趨勢。雙邊金融和貿易往來有望加大本幣結算比例，造福廣大進出口企業和普通民眾。推介會上，中智工商企業界代表探討中國市場對外開放與投資機遇，圍繞完善人民幣產品體系、拓展雙邊金融合作等話題展開交流。2015年，中國人民銀行與智利中央銀行簽署人民幣/智利比索雙邊本幣互換協議，並於2021年續簽，為雙邊貿易投資提供流動性保障，也為人民幣在智利及拉美地區使用創造穩定的金融環境。（新華社）
+
+---
+
+### 2026-07-23 12:58:57  #MKT News #005380.KS #Impact bearish
+
+Hyundai Motor said Q2 production was disrupted by interruptions to auto-parts supplies in South Korea.
+
+---
+
+### 2026-07-23 12:58:45  #MKT News #Market Regions #Greater China #CNH #Impact bullish
+
+【China, Chile push renminbi cross-border investment in Santiago】Bank of China and Cross‑Border Interbank Payment and Settlement Co., Ltd. (CIPS) jointly hosted a renminbi cross‑border investment and financing promotion event in Santiago on the 22nd; more than 100 finance, political and business representatives attended. Participants said China’s ongoing financial opening will expand renminbi use in bilateral trade and investment; China’s ambassador to Chile said deepening financial connectivity and broader renminbi usage is a pragmatic cost‑and‑risk management choice for firms and necessary to deepen bilateral cooperation, urging financial ties to become a new engine for upgrading the strategic partnership.
 
 ---
 
@@ -20504,95 +20648,5 @@ Hong Kong property stocks rallied intraday: CIFI Holdings (00884.HK) rose over 7
 ### 2026-07-22 10:54:07  #MKT News
 
 【China's zero-tariff coverage reaches 63 countries】China told a State Council Information Office briefing that, as part of implementing the 15th Five-Year Plan and accelerating customs modernization, its autonomous and unilateral opening policies are taking effect. In May it extended comprehensive zero-tariff measures to all African diplomatic partners, bringing the total number of countries covered by China's zero-tariff program to 63.
-
----
-
-### 2026-07-22 10:54:05  #市場
-
-富時中國A50指數期貨漲超1%。
-
----
-
-### 2026-07-22 10:54:01  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index #CNH
-
-FTSE China A50 index futures up more than 1%.
-
----
-
-### 2026-07-22 10:53:58  #宏觀
-
-【國臺辦：熱誠歡迎廣大臺商融入大陸新發展格局】國務院臺辦舉行例行新聞釋出會。有記者問：近日，兩岸人工智慧融合發展創新論壇在2026年世界人工智慧大會期間舉辦，受到兩岸業界的關注。請介紹有關情況。發言人張晗表示，2026年世界人工智慧大會兩岸人工智慧融合發展創新論壇及展覽展示活動，於7月17日至20日在上海舉辦。兩岸展區邀請20餘家兩岸人工智慧代表性企業參展，集中展示兩岸人工智慧產業鏈關鍵環節的發展成果與前沿技術突破。我們熱誠歡迎廣大臺商參加類似活動，在融入新發展格局中擁抱更廣闊的大陸發展機遇。
-
----
-
-### 2026-07-22 10:53:22  #公司 #市場
-
-【房地產板塊異動拉昇 珠江股份觸及漲停】房地產板塊異動拉昇，珠江股份觸及漲停，招商蛇口、濱江集團、特發服務、保利發展、萬科A跟漲。
-
----
-
-### 2026-07-22 10:53:11  #其他
-
-【廣州：加大“賣舊買新”政策支援力度，落實相關稅收優惠措施】廣州住建局公開徵求《廣州市住房發展“十五五”規劃（徵求意見稿）》意見。最佳化商品住宅用地供應規模和節奏，推動市場供需平衡。將高品質城市設計、“好房子”建設要求納入土地出讓條件，提高住宅建設品質。鼓勵房地產開發企業從“規模導向”轉向“品質導向”，不斷最佳化標準，打造更宜居的高品質住宅。穩步推進對新引進人才、新就業大學生、初婚初育家庭、多子女家庭、贍養老人家庭的住房支援力度，降低首套住房購房壓力。加大“賣舊買新”政策支援力度，落實相關稅收優惠措施。規範房產經紀服務，有序引導各類房地產經紀機構依法經營、公平競爭，明碼標價。加強存量住房交易監管，建立健全存量住房交易資金監管制度。
-
----
-
-### 2026-07-22 10:52:56  #宏觀
-
-【我國實施零關稅的國家已達63個】國務院新聞辦舉行新聞釋出會。介紹貫徹落實“十五五”規劃，加快推進海關現代化，服務貿易強國建設有關情況。會上介紹，我國推動自主開放、單邊開放政策落地見效。今年5月我國對非洲建交國全面實施了零關稅舉措。目前，我國實施零關稅的國家已達到63個。海關制定了落實“零關稅”政策的監管方案，升級農食產品輸華“綠色通道”，創新實施風險分級管理，採取“一體准入”等便利化措施。落實高水平經貿協定，加強海關程式、檢驗檢疫、原產地規則對接銜接。今年上半年，我國自非洲進出口增長19.6%，對31個自貿協定夥伴進出口增長28.1%。
-
----
-
-### 2026-07-22 10:52:53  #Trading Economics #Markets #Thailand #Currency #Importance 1
-
-Thai Baht Weakens to 15-Month Low — The Thai baht extended its bearish run to around 33.8 per dollar in late July, hitting its lowest level since April 2025, as expectations for a looser monetary policy stance and persistent domestic headwinds weighed on the currency. The Bank of Thailand kept its policy rate unchanged at 1% in June to support an uneven economic recovery, with policymakers signaling that monetary policy would remain accommodative as growth remains below potential. Softer inflation has provided additional room for policymakers to maintain supportive conditions, with annual consumer price inflation easing to 2.42% in June from 2.79% in May, remaining within the BOT’s 1%-3% target range. Meanwhile, weak domestic demand, elevated household debt, and subdued credit growth continue to weigh on growth. Rising oil prices amid escalating Middle East tensions have also added pressure on the baht, as Thailand’s reliance on energy imports raised concerns over higher import costs and a weaker external balance.
-
----
-
-### 2026-07-22 10:52:22  #公司
-
-【揚州軒元雲意股權投資合夥企業成立，出資額1億】天眼查App顯示，近日，揚州軒元雲意股權投資合夥企業（有限合夥）成立，執行事務合夥人為上海軒元私募基金管理有限公司，出資額1億人民幣，經營範圍為股權投資、創業投資。合夥人資訊顯示，該合夥企業由雲意電氣、上海軒元私募基金管理有限公司共同出資。
-
----
-
-### 2026-07-22 10:52:13  #公司
-
-【雲意電氣等在揚州成立新合夥企業 出資額1億】天眼查App顯示，近日，揚州軒元雲意股權投資合夥企業（有限合夥）成立，執行事務合夥人為上海軒元私募基金管理有限公司，出資額1億人民幣，經營範圍為股權投資、創業投資。合夥人資訊顯示，該合夥企業由雲意電氣（300304）、上海軒元私募基金管理有限公司共同出資。
-
----
-
-### 2026-07-22 10:52:04  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #CNH
-
-China A-share property sector saw localized gains: Zhujiang shares jumped over 6%, Xincheng Holdings and Binjiang Group rose more than 4%, with Poly Developments, Gemdale, China Vanke A and Joy City also higher. Guangzhou plans, during the '15th Five-Year' period, to steadily and orderly advance a completed-housing sales system and to push reforms of real-estate development financing.
-
----
-
-### 2026-07-22 10:51:50  #市場 #國際
-
-【銅價下跌；投資者權衡宏觀擔憂與供應緊張】亞洲交易時段銅價下跌，三個月期倫敦金屬交易所(LME)銅合約下跌0.3%，報每噸13,840.00美元。澳新銀行研究部分析師在評論中表示，投資者正在消化源於中東衝突的宏觀擔憂以及供應影響。南華期貨分析師指出，由於淡季拖累終端使用者需求，價格面臨壓力。
-
----
-
-### 2026-07-22 10:51:33  #市場
-
-保險板塊低開高走，中國人保、中國太保漲超2%，中國平安、中國人壽跟漲。
-
----
-
-### 2026-07-22 10:51:18  #其他
-
-【海關總署：將大力推行無感通關等模式 助力企業降本增效】7月22日，海關總署副署長張寶峰在國新辦新聞釋出會上表示，“十五五”時期將大力推行監管順勢嵌入企業物流鏈、產業鏈和無感通關等模式，助力海運、內河、鐵路相關資訊的聯通，切實幫助廣大企業降本增效。比如，現在很多港口海鐵集裝箱的相互轉換操作時間已壓縮到半小時以內，綜合轉運成本較以前已降低20%。
-
----
-
-### 2026-07-22 10:50:54  #其他
-
-VINFAST：有望在2027年實現越南業務的盈虧平衡。
-
----
-
-### 2026-07-22 10:50:43  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index
-
-【Guangzhou plans property relief and developer transformation】Guangzhou plans to prioritize property-sector relief and development during the 15th Five-Year Plan period, applying problem‑oriented, classified measures to prevent and resolve developer debt risks. The city will continue rescuing troubled projects, using a mix of tools to advance construction and delivery, and its real‑estate financing coordination mechanism will support reasonable project financing needs while guiding developers toward moderate leverage, reasonable debt levels and normal cash‑turnover speeds. Policymakers will also steer developers from pure property development to integrated development, operation and service models, promoting participation in urban renewal and stock‑asset revitalization and expansion into rental housing, property management, asset operation and life‑service businesses.
 
 ---

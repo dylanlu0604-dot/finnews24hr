@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-27 05:06:09_
-_本檔包含 3701 則快訊，約 683321 字_
+_更新時間：2026-07-27 06:06:41_
+_本檔包含 3692 則快訊，約 683635 字_
+
+---
+
+### 2026-07-22 10:54:05  #市場
+
+富時中國A50指數期貨漲超1%。
+
+---
+
+### 2026-07-22 10:54:01  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index #CNH
+
+FTSE China A50 index futures up more than 1%.
+
+---
+
+### 2026-07-22 10:53:58  #宏觀
+
+【國臺辦：熱誠歡迎廣大臺商融入大陸新發展格局】國務院臺辦舉行例行新聞釋出會。有記者問：近日，兩岸人工智慧融合發展創新論壇在2026年世界人工智慧大會期間舉辦，受到兩岸業界的關注。請介紹有關情況。發言人張晗表示，2026年世界人工智慧大會兩岸人工智慧融合發展創新論壇及展覽展示活動，於7月17日至20日在上海舉辦。兩岸展區邀請20餘家兩岸人工智慧代表性企業參展，集中展示兩岸人工智慧產業鏈關鍵環節的發展成果與前沿技術突破。我們熱誠歡迎廣大臺商參加類似活動，在融入新發展格局中擁抱更廣闊的大陸發展機遇。
+
+---
+
+### 2026-07-22 10:53:22  #公司 #市場
+
+【房地產板塊異動拉昇 珠江股份觸及漲停】房地產板塊異動拉昇，珠江股份觸及漲停，招商蛇口、濱江集團、特發服務、保利發展、萬科A跟漲。
+
+---
+
+### 2026-07-22 10:53:11  #其他
+
+【廣州：加大“賣舊買新”政策支援力度，落實相關稅收優惠措施】廣州住建局公開徵求《廣州市住房發展“十五五”規劃（徵求意見稿）》意見。最佳化商品住宅用地供應規模和節奏，推動市場供需平衡。將高品質城市設計、“好房子”建設要求納入土地出讓條件，提高住宅建設品質。鼓勵房地產開發企業從“規模導向”轉向“品質導向”，不斷最佳化標準，打造更宜居的高品質住宅。穩步推進對新引進人才、新就業大學生、初婚初育家庭、多子女家庭、贍養老人家庭的住房支援力度，降低首套住房購房壓力。加大“賣舊買新”政策支援力度，落實相關稅收優惠措施。規範房產經紀服務，有序引導各類房地產經紀機構依法經營、公平競爭，明碼標價。加強存量住房交易監管，建立健全存量住房交易資金監管制度。
+
+---
+
+### 2026-07-22 10:52:56  #宏觀
+
+【我國實施零關稅的國家已達63個】國務院新聞辦舉行新聞釋出會。介紹貫徹落實“十五五”規劃，加快推進海關現代化，服務貿易強國建設有關情況。會上介紹，我國推動自主開放、單邊開放政策落地見效。今年5月我國對非洲建交國全面實施了零關稅舉措。目前，我國實施零關稅的國家已達到63個。海關制定了落實“零關稅”政策的監管方案，升級農食產品輸華“綠色通道”，創新實施風險分級管理，採取“一體准入”等便利化措施。落實高水平經貿協定，加強海關程式、檢驗檢疫、原產地規則對接銜接。今年上半年，我國自非洲進出口增長19.6%，對31個自貿協定夥伴進出口增長28.1%。
+
+---
+
+### 2026-07-22 10:52:53  #Trading Economics #Markets #Thailand #Currency #Importance 1
+
+Thai Baht Weakens to 15-Month Low — The Thai baht extended its bearish run to around 33.8 per dollar in late July, hitting its lowest level since April 2025, as expectations for a looser monetary policy stance and persistent domestic headwinds weighed on the currency. The Bank of Thailand kept its policy rate unchanged at 1% in June to support an uneven economic recovery, with policymakers signaling that monetary policy would remain accommodative as growth remains below potential. Softer inflation has provided additional room for policymakers to maintain supportive conditions, with annual consumer price inflation easing to 2.42% in June from 2.79% in May, remaining within the BOT’s 1%-3% target range. Meanwhile, weak domestic demand, elevated household debt, and subdued credit growth continue to weigh on growth. Rising oil prices amid escalating Middle East tensions have also added pressure on the baht, as Thailand’s reliance on energy imports raised concerns over higher import costs and a weaker external balance.
+
+---
+
+### 2026-07-22 10:52:22  #公司
+
+【揚州軒元雲意股權投資合夥企業成立，出資額1億】天眼查App顯示，近日，揚州軒元雲意股權投資合夥企業（有限合夥）成立，執行事務合夥人為上海軒元私募基金管理有限公司，出資額1億人民幣，經營範圍為股權投資、創業投資。合夥人資訊顯示，該合夥企業由雲意電氣、上海軒元私募基金管理有限公司共同出資。
+
+---
+
+### 2026-07-22 10:52:13  #公司
+
+【雲意電氣等在揚州成立新合夥企業 出資額1億】天眼查App顯示，近日，揚州軒元雲意股權投資合夥企業（有限合夥）成立，執行事務合夥人為上海軒元私募基金管理有限公司，出資額1億人民幣，經營範圍為股權投資、創業投資。合夥人資訊顯示，該合夥企業由雲意電氣（300304）、上海軒元私募基金管理有限公司共同出資。
+
+---
+
+### 2026-07-22 10:52:04  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #CNH
+
+China A-share property sector saw localized gains: Zhujiang shares jumped over 6%, Xincheng Holdings and Binjiang Group rose more than 4%, with Poly Developments, Gemdale, China Vanke A and Joy City also higher. Guangzhou plans, during the '15th Five-Year' period, to steadily and orderly advance a completed-housing sales system and to push reforms of real-estate development financing.
+
+---
+
+### 2026-07-22 10:51:50  #市場 #國際
+
+【銅價下跌；投資者權衡宏觀擔憂與供應緊張】亞洲交易時段銅價下跌，三個月期倫敦金屬交易所(LME)銅合約下跌0.3%，報每噸13,840.00美元。澳新銀行研究部分析師在評論中表示，投資者正在消化源於中東衝突的宏觀擔憂以及供應影響。南華期貨分析師指出，由於淡季拖累終端使用者需求，價格面臨壓力。
+
+---
+
+### 2026-07-22 10:51:33  #市場
+
+保險板塊低開高走，中國人保、中國太保漲超2%，中國平安、中國人壽跟漲。
+
+---
+
+### 2026-07-22 10:51:18  #其他
+
+【海關總署：將大力推行無感通關等模式 助力企業降本增效】7月22日，海關總署副署長張寶峰在國新辦新聞釋出會上表示，“十五五”時期將大力推行監管順勢嵌入企業物流鏈、產業鏈和無感通關等模式，助力海運、內河、鐵路相關資訊的聯通，切實幫助廣大企業降本增效。比如，現在很多港口海鐵集裝箱的相互轉換操作時間已壓縮到半小時以內，綜合轉運成本較以前已降低20%。
+
+---
+
+### 2026-07-22 10:50:54  #其他
+
+VINFAST：有望在2027年實現越南業務的盈虧平衡。
+
+---
+
+### 2026-07-22 10:50:43  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index
+
+【Guangzhou plans property relief and developer transformation】Guangzhou plans to prioritize property-sector relief and development during the 15th Five-Year Plan period, applying problem‑oriented, classified measures to prevent and resolve developer debt risks. The city will continue rescuing troubled projects, using a mix of tools to advance construction and delivery, and its real‑estate financing coordination mechanism will support reasonable project financing needs while guiding developers toward moderate leverage, reasonable debt levels and normal cash‑turnover speeds. Policymakers will also steer developers from pure property development to integrated development, operation and service models, promoting participation in urban renewal and stock‑asset revitalization and expansion into rental housing, property management, asset operation and life‑service businesses.
 
 ---
 
@@ -22149,149 +22239,5 @@ Hong Kong PCB-related stocks strengthened: Kingboard Laminates (01888.HK) rose o
 ### 2026-07-21 09:40:11  #公司 #市場
 
 【樂鑫科技：有望獲得更多成本敏感型專案的匯入機會】樂鑫科技近日接受機構調研時表示，公司認為，儲存器價格上漲對公司的直接影響相對有限。一方面，公司產品主要搭配NOR Flash，相關儲存成本在整體方案中的佔比相對較低，因此成本波動整體可控。另一方面，從市場角度來看，儲存器漲價可能推動部分終端產品重新評估硬體架構。一些原本採用Linux搭配NAND Flash、DDR的方案，在成本上升後，可能更傾向於採用RTOS搭配NOR Flash的輕量化方案，在滿足功能需求的同時實現更優的成本控制。公司長期深耕RTOS平臺，在軟體生態、開發工具和應用積累方面具有較好的基礎，因此有望受益於這一趨勢，獲得更多成本敏感型專案的匯入機會。總體來看，公司認為這一變化更多體現為產品結構和方案選擇的調整，為公司進一步擴大AIoT市場覆蓋範圍提供了新的機會。
-
----
-
-### 2026-07-21 09:39:49  #公司
-
-【睿郡資產：擬1億元申購公司旗下私募證券投資基金】7月21日，睿郡資產公告，基於對中國資本市場長期穩健發展的看好，以及對公司主動管理投研實力的信心，公司計劃在本月內，使用自有資金人民幣1億元申購公司旗下私募證券投資基金。
-
----
-
-### 2026-07-21 09:39:42  #其他
-
-【螞蟻保推出張雪機車聯名款摩托車意外險】7月21日，張雪機車宣佈，螞蟻保正式成為張雪機車WSBK全球戰略合作伙伴，並推出張雪機車聯名款摩托車意外險。
-
----
-
-### 2026-07-21 09:39:40  #MKT News #Important #1810.HK #Impact bullish
-
-【Xiaomi raises 2026 smartphone shipment target】Chinese smartphone maker Xiaomi raised its 2026 smartphone shipment target to 110m units from about 90m, roughly a 16% increase, supply-chain sources said. The incremental volume will mainly come from low-end models; Xiaomi internally expects the current memory-chip cycle may reverse. Xiaomi had cut shipment targets twice earlier this year after upstream memory-chip shortages and sustained cost increases.
-
----
-
-### 2026-07-21 09:39:39  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【U.S. State Department issues global security alert, urges U.S. citizens to increase vigilance】July 20 — The U.S. State Department issued a global security alert warning of elevated risk from escalating Middle East tensions and possible sudden deterioration in the security environment. U.S. citizens in the Middle East were urged to remain highly vigilant and to be prepared for flight cancellations, temporary airspace closures and other travel disruptions; those outside the region were advised to reconsider travel to or through the area. U.S. diplomatic facilities, including sites outside the Middle East, have been identified as potential targets. The advisory said Iran and its proxies may target U.S. overseas interests, U.S.-related sites worldwide or U.S. citizens.
-
----
-
-### 2026-07-21 09:39:35  #市場
-
-【小米上調手機出貨目標】從供應鏈獲悉，小米已將2026年全年智慧手機出貨目標從約9000萬部上調至1.1億部，增幅約16%，上調的增量部分主要來自低端機型。一位接近小米的人士表示，此次上調出貨目標是小米內部認為當前的儲存行情有望迎來反轉。受上游儲存晶片的短期與成本持續上漲，小米在今年曾兩次下調其出貨目標。(介面新聞)
-
----
-
-### 2026-07-21 09:39:06  #MKT News #Important
-
-CSI 500 index futures front contract (IC) breached 7,400 points, up 2.65% intraday.
-
----
-
-### 2026-07-21 09:38:49  #MKT News #Important #SZSE Component #Impact bullish
-
-Shenzhen Composite Index rose over 1%. Among constituents, Guoci Materials, Yuxin Technology and Sifang Jingchuang each gained more than 11%.
-
----
-
-### 2026-07-21 09:38:36  #MKT News #Market Regions #Greater China
-
-【China retail cash-product 7‑day yield snapshot】Licaitong on-demand 7‑day annualized yield ranged 0.7710%–1.4500%. WeChat Wallet 7‑day annualized yield ranged 0.9220%–1.0520%. Alipay Yu’e Bao 7‑day annualized yield ranged 0.9860%–1.0670%.
-
----
-
-### 2026-07-21 09:37:56  #MKT News #Important #Market Themes #China Tech Giants
-
-Yangdian Technology shares hit the 20% daily trading limit after its wholly owned subsidiary signed an RMB 860 mln computing-power services contract, equivalent to 67.22% of the company's 2025 revenue.
-
----
-
-### 2026-07-21 09:37:51  #市場
-
-【覆銅板概念股盤初走弱 金安國紀等股跌停】覆銅板概念股盤初走弱，銅冠銅箔跌超18%，寶鼎科技、金安國紀、賢豐控股跌停，華正新材、宏昌電子等股跌幅靠前。
-
----
-
-### 2026-07-21 09:37:38  #市場 #焦點
-
-深證成指漲1.01%，現報13747.695點；上證指數跌0.05%，現報3794.388點；創業板指漲1.64%，現報3499.543點。
-
----
-
-### 2026-07-21 09:37:28  #市場 #國際
-
-菲律賓股市指數上漲1.1%，至6487.37點。
-
----
-
-### 2026-07-21 09:37:19  #MKT News #CSI300 #Impact bullish #SSE Composite
-
-A-share digital-currency sector strengthened in early trade; Sifang Jingchuang rose over 10% and Zhongjia Bochuang hit the daily limit. Xingwang Ruijie, Changliang Technology, Zhengtong Electronics, Dianke Wang'an and Tianyang Technology also advanced.
-
----
-
-### 2026-07-21 09:37:07  #其他
-
-【港股人工智慧股延續漲勢 智譜漲近9%】截至發稿，智譜(02513.HK)漲8.93%，天數智芯(09903.HK)漲2.93%，MINIMAX-W(00100.HK)漲3.57%。
-
----
-
-### 2026-07-21 09:36:59  #公司 #市場
-
-【網際網路金融板塊短線拉昇】網際網路金融板塊短線拉昇，智度股份、中嘉博創漲停，證通電子、新晨科技、科藍軟體、四方精創、宇信科技等紛紛走高。
-
----
-
-### 2026-07-21 09:36:27  #MKT News #Important
-
-South Korea's Lee said market participants believe leveraged products present material policy concerns and that supplementary measures are needed.
-
----
-
-### 2026-07-21 09:36:27  #市場 #焦點
-
-南向資金淨買入額達10億港元。
-
----
-
-### 2026-07-21 09:35:53  #宏觀 #國際
-
-韓國總統：市場參與者認為槓桿產品的政策問題十分嚴重，需要出臺補充措施。
-
----
-
-### 2026-07-21 09:35:11  #國際
-
-韓國稱已確保9月原油需求量的90%。
-
----
-
-### 2026-07-21 09:34:52  #市場
-
-德明利跌停5連板，總市值回落至985.87億元。
-
----
-
-### 2026-07-21 09:34:45  #市場
-
-【電力板塊震盪下挫 湖南發展、杭州熱電雙雙跌停】早盤電力板塊震盪下挫，湖南發展、杭州熱電跌停，深南電A、桂冠電力、寧波能源等跟跌。
-
----
-
-### 2026-07-21 09:34:44  #MKT News #Important #Market Regions #Greater China
-
-Demingli hit the daily limit-down for a fifth consecutive session; market capitalization fell to 98.587 bln yuan.
-
----
-
-### 2026-07-21 09:34:24  #其他
-
-【委內瑞拉強震遇難人數升至5278人】當地時間20日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報，該國6月24日發生的兩次強震造成遇難人數上升至5278人，發生餘震1405次。
-
----
-
-### 2026-07-21 09:34:00  #MKT News #Important #WTI #Impact bullish #Brent #CSI300 #Impact bearish
-
-A-share oilfield services and engineering stocks pulled back: Tongyuan Petroleum down over 14%, Keli Co. down more than 11%, with Bomaike, Renzhi, Beiken Energy and Zhongman Petroleum also weaker. On July 20 CENTCOM said U.S. forces completed a latest round of strikes against Iran at 21:00 EDT.
 
 ---

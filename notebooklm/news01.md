@@ -1,7 +1,229 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-27 05:06:09_
-_本檔包含 3530 則快訊，約 684063 字_
+_更新時間：2026-07-27 06:06:41_
+_本檔包含 3549 則快訊，約 683982 字_
+
+---
+
+### 2026-07-27 06:03:17  #MKT News #Commodities #Energy #Macro & Rates #The Fed (FOMC) #WTI #Impact bearish #US10Y
+
+As oil prices fell, U.S. federal funds futures rose, with the December contract up five points.
+
+---
+
+### 2026-07-27 06:03:13  #市場 #國際
+
+美國聯邦基金利率期貨上漲，12月合約上升5個基點。
+
+---
+
+### 2026-07-27 06:02:53  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
+
+WTI crude futures plunged 8.00% in early trade to $83.23/bbl.
+
+---
+
+### 2026-07-27 06:02:03  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY #Impact bearish
+
+Spot gold gapped up to $4,090/oz, up 0.94% on the day.
+
+---
+
+### 2026-07-27 06:01:37  #市場 #焦點
+
+布倫特原油失守86美元/桶，日內跌6.29%。
+
+---
+
+### 2026-07-27 06:01:15  #市場
+
+布倫特原油日內跌6%，現報86.13美元/桶。
+
+---
+
+### 2026-07-27 06:01:08  #市場 #焦點
+
+標準普爾500指數期貨上漲0.6%，納斯達克指數期貨上漲1.4%，布倫特原油價格下跌5%。
+
+---
+
+### 2026-07-27 06:01:02  #MKT News #Important #Market Regions #Wall Street (US) #Nasdaq100 #Impact bullish #S&P500
+
+Nasdaq futures opened 1.4% higher on Monday; S&P 500 futures were up 0.76%.
+
+---
+
+### 2026-07-27 06:00:32  #市場
+
+現貨黃金日內漲1%，現報4094.91美元/盎司。
+
+---
+
+### 2026-07-27 06:00:24  #市場 #焦點
+
+布倫特原油失守87美元/桶，日內跌5.31%。
+
+---
+
+### 2026-07-27 06:00:22  #市場
+
+布倫特原油日內跌5%，現報87.03美元/桶。
+
+---
+
+### 2026-07-27 06:00:21  #市場 #焦點
+
+WTI原油失守84美元/桶，日內跌6.36%。
+
+---
+
+### 2026-07-27 06:00:21  #市場
+
+WTI原油日內跌6%，現報83.63美元/桶。
+
+---
+
+### 2026-07-27 06:00:21  #市場 #焦點
+
+比特幣升破65000美元，日內漲1.05%。
+
+---
+
+### 2026-07-27 06:00:17  #市場
+
+布倫特原油日內跌4%，現報87.77美元/桶。
+
+---
+
+### 2026-07-27 06:00:16  #市場
+
+WTI原油日內跌5%，現報84.78美元/桶。
+
+---
+
+### 2026-07-27 06:00:11  #市場 #焦點
+
+紐約期金突破4100美元/盎司，日內漲0.72%。
+
+---
+
+### 2026-07-27 06:00:06  #市場 #焦點
+
+WTI原油突破86美元/桶，日內跌3.80%。
+
+---
+
+### 2026-07-27 06:00:03  #市場
+
+鈀金期貨日內漲1%，現報1270.00美元/盎司。
+
+---
+
+### 2026-07-27 06:00:02  #市場
+
+紐約期銀日內漲1%，現報59.76美元/盎司。
+
+---
+
+### 2026-07-27 06:00:02  #市場 #焦點
+
+布倫特原油突破89美元/桶，日內跌3.57%。
+
+---
+
+### 2026-07-27 06:00:01  #市場
+
+布倫特原油日內跌3%，現報88.31美元/桶。
+
+---
+
+### 2026-07-27 05:58:52  #其他
+
+中央氣象臺7月27日06時繼續釋出暴雨橙色預警。
+
+---
+
+### 2026-07-27 05:58:39  #其他
+
+中央氣象臺7月27日06時繼續釋出強對流天氣黃色預警。
+
+---
+
+### 2026-07-27 05:57:02  #其他 #焦點
+
+香港天文臺釋出紅色暴雨警告。
+
+---
+
+### 2026-07-27 05:56:07  #央行 #國際
+
+【美聯儲本週維持利率不變的機率63.7%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為63.7%，累計加息25個基點的機率為36.3%。 美聯儲到9月維持利率不變的機率為19.6%，累計加息25個基點的機率為55.2%，累計加息50個基點的機率為25.2%。
+
+---
+
+### 2026-07-27 05:49:47  #MKT News
+
+DOE instructed grid operator Southwest Power Pool to dispatch generators as needed to maintain grid reliability.
+
+---
+
+### 2026-07-27 05:49:28  #MKT News
+
+U.S. DOE issued electrical grid emergency declarations for 17 states due to extreme heat.
+
+---
+
+### 2026-07-27 05:47:38  #央行 #國際
+
+日元匯率跌至數十年新低，市場押注日本央行將提前加息的情緒持續升溫。
+
+---
+
+### 2026-07-27 05:46:19  #國際
+
+美國一家聯邦上訴法院駁回了特朗普政府試圖在中期選舉前推行限制郵寄投票行政令的計劃。
+
+---
+
+### 2026-07-27 05:37:20  #國際
+
+伊朗議員易卜拉欣・阿齊茲： 任何針對伊朗的襲擊都必將付出代價，如今這一點依舊成立，美國和以色列對此心知肚明。
+
+---
+
+### 2026-07-27 05:34:24  #其他
+
+【部分地區性銀行下調存款利率 專家稱非降息前奏】近期，浙江部分城商行、農商行主動下調存款利率，降幅從1個基點到20個基點不等。業內專家表示，此次部分銀行主動下調存款利率僅為區域性自律機制調整，不應理解為降息前的訊號。針對此次浙江地區部分銀行調整存款利率的行為，招聯首席經濟學家董希淼認為：“這並非全面降息訊號，而是源於區域性自律機制調整。”
+
+---
+
+### 2026-07-27 05:33:10  #國際
+
+美國能源部指令西南電力聯營排程發電機組，保障17個州高溫天氣電力供應。
+
+---
+
+### 2026-07-27 05:32:26  #其他
+
+香港天文臺釋出黃色暴雨警告。
+
+---
+
+### 2026-07-27 05:19:36  #MKT News #WTI #Impact bearish #Brent
+
+【CENTCOM commander urged pause in strikes near Strait of Hormuz, called continued airstrikes "meaningless"】Admiral Cooper, commander of U.S. Central Command, advised pausing strikes near the Strait of Hormuz, Axios reports. His recommendation to the Pentagon, the Joint Chiefs and the White House helped persuade President Trump to suspend planned strikes on Iran on Friday. Cooper told officials two weeks of strikes had significantly degraded Iran’s ability to attack ships and that most designated targets had been struck. He said roughly 20% of targets assigned in the "Epic Fury" operation remain unstruck and that the next step could be resuming large-scale operations to complete them. Cooper warned that continuing the recent air campaign without deciding to resume large-scale operations would be "meaningless." Military and civilian advisers told the president gains achievable by military action, particularly air power, are limited.
+
+---
+
+### 2026-07-27 05:12:07  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+At the FX open, the dollar index (DXY) fell 0.16% to 101.31; AUD/USD rose 0.23%; USD/JPY fell 0.16%; EUR/USD rose 0.18%.
+
+---
+
+### 2026-07-27 05:06:43  #國際
+
+【墨西哥民眾遊行聲援古巴】當日，大批民眾在墨西哥城遊行，聲援古巴政府和人民，反對美國對古巴長期實施的封鎖和干涉。1953年7月26日，古巴前領導人菲德爾·卡斯特羅率領100餘名青年，向當時古巴巴蒂斯塔獨裁政權的第二大軍事要塞——蒙卡達兵營進發，打響了推翻親美獨裁政權的古巴革命第一槍。“7·26國家起義日”因此成為古巴最重要的紀念日之一。（新華社）
 
 ---
 
@@ -21251,113 +21473,5 @@ Hungary Jobless Rate Unchanged at 4.5% in April–June — The unemployment rate
 ### 2026-07-24 15:06:35  #MKT News #Market Regions #Greater China #Market Themes #Chip Wars #SSE Composite #Impact bearish #SZSE Component #CSI300
 
 【A-shares close: Shanghai Composite down 1.61%; memory-chip sector active】China A-shares closed lower: Shanghai Composite -1.61%, Shenzhen Component -2.47%, ChiNext -2.65%. Gold miners plunged—Zhaojin Gold down >8%; Sichuan Gold and Hunan Baiyin off >7%. Minor metals weakened; Dongfang Zirconium down >9%. Innovative-drug names Zhenbaodao and Harbin Pharmaceutical hit limit-downs. Coal miners fell; Dayou Energy hit limit-down. Power, compute, AI corpus, internet services, cross-border payments, planting, new consumption and oil & petrochem were among the heaviest decliners. Memory-chip stocks were active: Zhichun Technology hit the daily limit, Zhongke Feice rose ~7%. Military sector saw pockets of strength; Changcheng Military hit limit-up. Shanghai-Shenzhen turnover RMB 1.93 trillion, down ~RMB 264.2 billion versus the prior session. Market breadth ~500 advancers versus ~4,900 decliners.
-
----
-
-### 2026-07-24 15:06:27  #市場
-
-【收盤：滬指跌1.61%逼近3800點，全市場成交不足2萬億】1、市場全天縮量調整，三大指數集體下挫。軍工板塊逆勢活躍，長城軍工2連板，中光防雷、建設工業等漲停。半導體晶片股盤中拉昇，託倫斯4天3板，至純科技、博通整合等漲停。下跌方面，電力股集體調整，京能電力、深南電A、粵電力A、大唐發電等多股跌停。個股呈現普跌態勢，滬深京三市近5000股飄綠，今日成交1.94萬億。截止收盤滬指跌1.61%，深成指跌2.47%，創業板指跌2.65%。2、板塊概念方面，僅電子特氣、高頻寬儲存等少數板塊飄紅，貴金屬、電力、煤炭、醫藥等板塊跌幅居前。3、兩市共534只個股上漲，42只個股漲停，4632只個股下跌，24只個股跌停，11只股票炸板，炸板率25%。
-
----
-
-### 2026-07-24 15:06:05  #MKT News #F.O #Impact bearish
-
-NHTSA says Ford Motor is recalling certain U.S. vehicles after an engine‑bay short circuit could produce heat or sparks, increasing the risk of fire.
-
----
-
-### 2026-07-24 15:06:04  #公司
-
-【肇慶小鵬新能源投資有限公司召回部分小鵬X9汽車】日前，肇慶小鵬新能源投資有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0082V：自2026年8月28日起，召回2023年8月8日至2025年8月11日期間生產的小鵬X9汽車，共計33473輛。本次召回範圍內部分車輛，由於製造工藝波動，導致前空氣彈簧氣密性下降，在高溫高溼等環境長時間使用後，前空氣彈簧可能緩慢漏氣，進而觸發故障燈點亮及文字提醒。極端情況下，影響車輛的操控性，存在安全隱患。
-
----
-
-### 2026-07-24 15:05:54  #MKT News #Important
-
-【SCFI composite 3,062.95; CCFI composite 1,901.27】As of July 24, the Shanghai Shipping Exchange reported the SCFI (Shanghai export container freight composite index) at 3,062.95, down 17.36 points from the prior period. The CCFI (China export container freight composite index) was 1,901.27, down 0.5% from the prior period.
-
----
-
-### 2026-07-24 15:05:49  #市場
-
-【SCFI綜合指數報3062.95點，CCFI綜合指數報1901.27點】上海航運交易所資料顯示，截至7月24日，上海出口集裝箱運價指數（綜合指數）SCFI報3062.95點，與上期相比下跌17.36點。中國出口集裝箱運價綜合指數CCFI報1901.27點，與上期相比跌0.5%。
-
----
-
-### 2026-07-24 15:05:45  #MKT News #F.N #Impact bearish
-
-NHTSA says Ford Motor Co. is recalling 565,691 vehicles in the U.S.
-
----
-
-### 2026-07-24 15:05:40  #公司 #國際
-
-福特汽車公司將在美國召回565,691輛汽車。
-
----
-
-### 2026-07-24 15:05:35  #公司
-
-【斯泰蘭蒂斯（上海）汽車有限公司召回部分進口朱麗葉、斯坦維汽車】日前，斯泰蘭蒂斯（上海）汽車有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0072V：自即日起，召回2017年1月19日至2019年7月30日期間生產的部分進口朱麗葉、斯坦維汽車，共計17360輛。本次召回範圍內的部分車輛，由於設計原因，低壓燃油泵可能無法正常輸出燃油，導致供油不足。極端情況下，可能造成行駛中發動機熄火，存在安全隱患。
-
----
-
-### 2026-07-24 15:05:21  #公司
-
-維美德第二季度股價飆升28%；正在考慮將公司拆分為兩家公司。
-
----
-
-### 2026-07-24 15:05:21  #MKT News
-
-MERZ: Linnemann will be appointed health minister.
-
----
-
-### 2026-07-24 15:05:08  #MKT News #CSI300 #Impact bearish
-
-【Three ministries issue pilot environmental protection tax for volatile organic compounds】Three ministries including the Ministry of Finance issued Implementation Measures for a pilot environmental protection tax on volatile organic compounds (VOCs). Initial pilot industries are: printing; petroleum, coal and other fuel processing; chemical raw materials and chemical products manufacturing; pharmaceutical manufacturing; iron and steel smelting; general and special equipment manufacturing; and automobile manufacturing, classified per China’s national economic industry classification. Authorities said other sectors subject to VOC controls will be added to the pilot as appropriate.
-
----
-
-### 2026-07-24 15:05:05  #MKT News #Important #EURUSD
-
-France preliminary July manufacturing PMI due in 10 minutes.
-
----
-
-### 2026-07-24 15:04:54  #市場
-
-育碧股價在第一財季銷售額公佈後下跌4.3%。
-
----
-
-### 2026-07-24 15:04:39  #其他
-
-德國總理默茨：林內曼將被任命為衛生部長。
-
----
-
-### 2026-07-24 15:04:32  #國際
-
-【習近平主席特使陰和俊將出席秘魯總統權力交接儀式】外交部發言人宣佈：應秘魯共和國政府邀請，國家主席習近平特使、科技部部長陰和俊將赴秘魯首都利馬出席於7月27日至28日舉行的秘魯總統權力交接儀式。
-
----
-
-### 2026-07-24 15:04:09  #市場
-
-大眾汽車(VOLKSWAGEN AG) <VOWG.DE> 在公佈業績和展望後股價下跌3%。
-
----
-
-### 2026-07-24 15:04:01  #公司 #市場 #國際
-
-倫敦 Wise 集團股價下跌7.8%，此前該集團宣佈美國貨幣監理署已拒絕其申請國家信託銀行牌照的請求。
-
----
-
-### 2026-07-24 15:03:52  #宏觀
-
-【三部門：徵收揮發性有機物環境保護稅試點】財政部等三部門印發《徵收揮發性有機物環境保護稅試點實施辦法》的通知。首批納入徵收試點範圍的行業包括：印刷業；石油、煤炭及其他燃料加工業；化學原料和化學制品製造業；醫藥製造業；鍊鐵、鍊鋼業；通用裝置製造業；專用裝置製造業；汽車製造業。上述行業根據國民經濟行業分類確定。結合試點情況，適時將涉及揮發性有機物管控的其他行業全面納入徵收試點範圍。
 
 ---

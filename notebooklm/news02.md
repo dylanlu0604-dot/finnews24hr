@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-27 05:06:09_
-_本檔包含 3906 則快訊，約 684509 字_
+_更新時間：2026-07-27 06:06:41_
+_本檔包含 3900 則快訊，約 683654 字_
+
+---
+
+### 2026-07-24 15:06:27  #市場
+
+【收盤：滬指跌1.61%逼近3800點，全市場成交不足2萬億】1、市場全天縮量調整，三大指數集體下挫。軍工板塊逆勢活躍，長城軍工2連板，中光防雷、建設工業等漲停。半導體晶片股盤中拉昇，託倫斯4天3板，至純科技、博通整合等漲停。下跌方面，電力股集體調整，京能電力、深南電A、粵電力A、大唐發電等多股跌停。個股呈現普跌態勢，滬深京三市近5000股飄綠，今日成交1.94萬億。截止收盤滬指跌1.61%，深成指跌2.47%，創業板指跌2.65%。2、板塊概念方面，僅電子特氣、高頻寬儲存等少數板塊飄紅，貴金屬、電力、煤炭、醫藥等板塊跌幅居前。3、兩市共534只個股上漲，42只個股漲停，4632只個股下跌，24只個股跌停，11只股票炸板，炸板率25%。
+
+---
+
+### 2026-07-24 15:06:05  #MKT News #F.O #Impact bearish
+
+NHTSA says Ford Motor is recalling certain U.S. vehicles after an engine‑bay short circuit could produce heat or sparks, increasing the risk of fire.
+
+---
+
+### 2026-07-24 15:06:04  #公司
+
+【肇慶小鵬新能源投資有限公司召回部分小鵬X9汽車】日前，肇慶小鵬新能源投資有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0082V：自2026年8月28日起，召回2023年8月8日至2025年8月11日期間生產的小鵬X9汽車，共計33473輛。本次召回範圍內部分車輛，由於製造工藝波動，導致前空氣彈簧氣密性下降，在高溫高溼等環境長時間使用後，前空氣彈簧可能緩慢漏氣，進而觸發故障燈點亮及文字提醒。極端情況下，影響車輛的操控性，存在安全隱患。
+
+---
+
+### 2026-07-24 15:05:54  #MKT News #Important
+
+【SCFI composite 3,062.95; CCFI composite 1,901.27】As of July 24, the Shanghai Shipping Exchange reported the SCFI (Shanghai export container freight composite index) at 3,062.95, down 17.36 points from the prior period. The CCFI (China export container freight composite index) was 1,901.27, down 0.5% from the prior period.
+
+---
+
+### 2026-07-24 15:05:49  #市場
+
+【SCFI綜合指數報3062.95點，CCFI綜合指數報1901.27點】上海航運交易所資料顯示，截至7月24日，上海出口集裝箱運價指數（綜合指數）SCFI報3062.95點，與上期相比下跌17.36點。中國出口集裝箱運價綜合指數CCFI報1901.27點，與上期相比跌0.5%。
+
+---
+
+### 2026-07-24 15:05:45  #MKT News #F.N #Impact bearish
+
+NHTSA says Ford Motor Co. is recalling 565,691 vehicles in the U.S.
+
+---
+
+### 2026-07-24 15:05:40  #公司 #國際
+
+福特汽車公司將在美國召回565,691輛汽車。
+
+---
+
+### 2026-07-24 15:05:35  #公司
+
+【斯泰蘭蒂斯（上海）汽車有限公司召回部分進口朱麗葉、斯坦維汽車】日前，斯泰蘭蒂斯（上海）汽車有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0072V：自即日起，召回2017年1月19日至2019年7月30日期間生產的部分進口朱麗葉、斯坦維汽車，共計17360輛。本次召回範圍內的部分車輛，由於設計原因，低壓燃油泵可能無法正常輸出燃油，導致供油不足。極端情況下，可能造成行駛中發動機熄火，存在安全隱患。
+
+---
+
+### 2026-07-24 15:05:21  #公司
+
+維美德第二季度股價飆升28%；正在考慮將公司拆分為兩家公司。
+
+---
+
+### 2026-07-24 15:05:21  #MKT News
+
+MERZ: Linnemann will be appointed health minister.
+
+---
+
+### 2026-07-24 15:05:08  #MKT News #CSI300 #Impact bearish
+
+【Three ministries issue pilot environmental protection tax for volatile organic compounds】Three ministries including the Ministry of Finance issued Implementation Measures for a pilot environmental protection tax on volatile organic compounds (VOCs). Initial pilot industries are: printing; petroleum, coal and other fuel processing; chemical raw materials and chemical products manufacturing; pharmaceutical manufacturing; iron and steel smelting; general and special equipment manufacturing; and automobile manufacturing, classified per China’s national economic industry classification. Authorities said other sectors subject to VOC controls will be added to the pilot as appropriate.
+
+---
+
+### 2026-07-24 15:05:05  #MKT News #Important #EURUSD
+
+France preliminary July manufacturing PMI due in 10 minutes.
+
+---
+
+### 2026-07-24 15:04:54  #市場
+
+育碧股價在第一財季銷售額公佈後下跌4.3%。
+
+---
+
+### 2026-07-24 15:04:39  #其他
+
+德國總理默茨：林內曼將被任命為衛生部長。
+
+---
+
+### 2026-07-24 15:04:32  #國際
+
+【習近平主席特使陰和俊將出席秘魯總統權力交接儀式】外交部發言人宣佈：應秘魯共和國政府邀請，國家主席習近平特使、科技部部長陰和俊將赴秘魯首都利馬出席於7月27日至28日舉行的秘魯總統權力交接儀式。
+
+---
+
+### 2026-07-24 15:04:09  #市場
+
+大眾汽車(VOLKSWAGEN AG) <VOWG.DE> 在公佈業績和展望後股價下跌3%。
+
+---
+
+### 2026-07-24 15:04:01  #公司 #市場 #國際
+
+倫敦 Wise 集團股價下跌7.8%，此前該集團宣佈美國貨幣監理署已拒絕其申請國家信託銀行牌照的請求。
+
+---
+
+### 2026-07-24 15:03:52  #宏觀
+
+【三部門：徵收揮發性有機物環境保護稅試點】財政部等三部門印發《徵收揮發性有機物環境保護稅試點實施辦法》的通知。首批納入徵收試點範圍的行業包括：印刷業；石油、煤炭及其他燃料加工業；化學原料和化學制品製造業；醫藥製造業；鍊鐵、鍊鋼業；通用裝置製造業；專用裝置製造業；汽車製造業。上述行業根據國民經濟行業分類確定。結合試點情況，適時將涉及揮發性有機物管控的其他行業全面納入徵收試點範圍。
 
 ---
 
@@ -23404,149 +23512,5 @@ STMicroelectronics CEO observed business visibility has improved and several pro
 ### 2026-07-23 13:08:12  #MKT News #005380.KS #Impact bearish
 
 Hyundai Motor says it expects intensifying competition and continued macroeconomic uncertainty.
-
----
-
-### 2026-07-23 13:08:07  #公司
-
-意法半導體第二季度淨利潤為2.22億美元，分析師預期為2.099億美元；第二季度毛利率為34.8%，公司此前給出的第二季度毛利率指引約為34.8%；意法半導體第二季度營收為34.9億美元。意法半導體預計第三季度營收約為37億美元，預計第三季度毛利率約為37%。
-
----
-
-### 2026-07-23 13:08:04  #MKT News #005380.KS #Impact bearish
-
-Hyundai Motor said Q2 operating profit margin declined after a parts-supplier fire and higher raw-material costs.
-
----
-
-### 2026-07-23 13:07:54  #MKT News #Market Themes #Chip Wars #STM.PA #Impact bullish
-
-STMicroelectronics CEO says Q2 demand rose further; orders strong across all end markets.
-
----
-
-### 2026-07-23 13:07:35  #MKT News #Market Regions #Japan & APAC
-
-TASS reported U.S. Secretary of State Rubio met Russian Foreign Minister Lavrov in Manila for about 30 minutes.
-
----
-
-### 2026-07-23 13:07:13  #公司 #國際
-
-【伊朗軍隊稱打擊科威特境內多處美軍基地】當地時間23日，伊朗軍隊在一份公告中指出，幾小時前，伊朗軍隊對科威特多哈營地的美軍彈藥和後勤倉庫、阿里夫詹美軍基地的彈藥庫以及位於阿里·薩利姆基地的燃料庫發動大規模無人機襲擊。（央視新聞）
-
----
-
-### 2026-07-23 13:07:00  #MKT News #GBPUSD #Impact bullish #FTSE100 #DXY #Impact bearish
-
-UK Prime Minister's Office says pubs, clubs and live music venues will receive a 20% reduction in business rates.
-
----
-
-### 2026-07-23 13:05:22  #MKT News #Market Themes #China Tech Giants #Hang Seng Index #Impact bullish
-
-Hang Seng Tech Index rose more than 1% as high-profile tech and internet names rebounded.
-
----
-
-### 2026-07-23 13:04:49  #MKT News #STM.O #Impact bearish
-
-STMicroelectronics expects Q3 net revenue of $3.70 bln, versus consensus $3.79 bln.
-
----
-
-### 2026-07-23 13:04:36  #市場 #焦點
-
-恒生指數漲超1%，現報25254.311點；恒生科技指數現漲1.021%。
-
----
-
-### 2026-07-23 13:04:26  #MKT News #STM.PA
-
-STMicroelectronics reported Q2 net profit of $222 mln, gross profit about $1.22 bln and a gross margin of 34.8%.
-
----
-
-### 2026-07-23 13:02:58  #其他
-
-裕信銀行第二季度營收65.2億歐元，預估65億歐元。裕信銀行第二季度淨利息收入36.6億歐元，預估36.6億歐元。
-
----
-
-### 2026-07-23 13:01:34  #MKT News #005380.KS #Impact bearish
-
-Hyundai Motor to pay a quarterly dividend of KRW2,500 per share.
-
----
-
-### 2026-07-23 13:01:17  #其他
-
-諾基亞第二季度調整後營業利潤4.34億歐元，預估3.723億歐元。
-
----
-
-### 2026-07-23 13:01:14  #MKT News
-
-【Mossad chief visited Washington, provided U.S. intelligence on Iran site, uranium feedstock and economy】U.S. media on the 22nd, citing sources, reported Mossad director Roman Gofman visited Washington two weeks ago to meet U.S. officials on Iran’s regional situation and its nuclear program. CNN reported Gofman provided U.S. authorities with intelligence on an Iran site referred to as Gaoshan, on uranium feedstock and on Iran’s economic conditions.
-
----
-
-### 2026-07-23 13:01:01  #公司
-
-法國巴黎銀行有限公司 第二季度營收140.9億歐元，預估134.8億歐元。法國巴黎銀行有限公司 第二季度淨利潤43.5億歐元，預估42.3億歐元。
-
----
-
-### 2026-07-23 13:00:44  #其他
-
-雀巢上半年銷售額431.1億瑞士法郎，預估430.2億瑞士法郎。
-
----
-
-### 2026-07-23 13:00:32  #其他
-
-諾基亞 預計全年調整後營業利潤21億歐元至26億歐元，預估23.6億歐元。
-
----
-
-### 2026-07-23 13:00:22  #MKT News #Important #01986.HK #Impact bullish
-
-Caike New Energy (01986.HK) shares rose over 12% in afternoon trade after the company forecast net profit attributable to owners of the parent for 1H 2026 of at least RMB 90 mln, implying YoY growth of at least 867.7%.
-
----
-
-### 2026-07-23 13:00:14  #國際
-
-【美媒稱以色列情報機構負責人訪美提供鎬山情報 】美國媒體22日援引知情人士訊息稱，以色列情報和特勤局（摩薩德）的新任局長羅曼·戈夫曼於兩週前訪問美國華盛頓，就伊朗地區局勢和伊朗核計劃相關議題同美方舉行會談。 美國有線電視新聞網報道說，戈夫曼在此次訪問期間向美方提供了關於伊朗鎬山、鈾原料和伊朗經濟狀況等方面的情報。 阿克西奧斯網站報道說，戈夫曼是以色列總理內塔尼亞胡的核心幕僚之一。這是他自6月上任以來首次到訪華盛頓，訪問正值霍爾木茲海峽緊張局勢升級前夕。戈夫曼與美國中央情報局局長約翰·拉特克利夫以及白宮官員舉行了會談。
-
----
-
-### 2026-07-23 13:00:07  #MKT News
-
-Singapore June CPI YoY 1.9% vs 2.0% expected; May 1.8%.
-
----
-
-### 2026-07-23 13:00:00  #MKT News #Economic Calendar #Important
-
-Singapore | CPI (YoY) (Jun) | actual 1.9% | consensus 2% | previous 1.80%
-
----
-
-### 2026-07-23 12:59:13  #公司 #市場
-
-【中智人民幣跨境投融資推介會聚焦雙邊金融合作】由中國銀行和跨境銀行間支付清算有限責任公司聯合舉辦的中智人民幣跨境投融資推介會22日在智利首都聖地亞哥舉行，中智兩國金融界、政商界百餘名嘉賓出席。與會人士認為，中國金融市場持續擴大開放，將為中智經貿合作高質量發展貢獻更多金融力量。中國駐智利大使牛清報致辭說，深化金融互聯互通、擴大人民幣在雙邊貿易投資中的使用，既是兩國企業降本避險的務實選擇，更是中智合作向更深層次邁進的必然要求，希望金融合作成為中智全面戰略伙伴關係提質升級的新引擎。智利金融市場委員會委員貝爾特蘭·德拉蒙接受新華社記者採訪時表示，智中兩國經貿合作密切，不斷深化兩國金融合作是必然趨勢。雙邊金融和貿易往來有望加大本幣結算比例，造福廣大進出口企業和普通民眾。推介會上，中智工商企業界代表探討中國市場對外開放與投資機遇，圍繞完善人民幣產品體系、拓展雙邊金融合作等話題展開交流。2015年，中國人民銀行與智利中央銀行簽署人民幣/智利比索雙邊本幣互換協議，並於2021年續簽，為雙邊貿易投資提供流動性保障，也為人民幣在智利及拉美地區使用創造穩定的金融環境。（新華社）
-
----
-
-### 2026-07-23 12:58:57  #MKT News #005380.KS #Impact bearish
-
-Hyundai Motor said Q2 production was disrupted by interruptions to auto-parts supplies in South Korea.
-
----
-
-### 2026-07-23 12:58:45  #MKT News #Market Regions #Greater China #CNH #Impact bullish
-
-【China, Chile push renminbi cross-border investment in Santiago】Bank of China and Cross‑Border Interbank Payment and Settlement Co., Ltd. (CIPS) jointly hosted a renminbi cross‑border investment and financing promotion event in Santiago on the 22nd; more than 100 finance, political and business representatives attended. Participants said China’s ongoing financial opening will expand renminbi use in bilateral trade and investment; China’s ambassador to Chile said deepening financial connectivity and broader renminbi usage is a pragmatic cost‑and‑risk management choice for firms and necessary to deepen bilateral cooperation, urging financial ties to become a new engine for upgrading the strategic partnership.
 
 ---

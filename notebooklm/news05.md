@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-27 05:06:09_
-_本檔包含 3471 則快訊，約 683915 字_
+_更新時間：2026-07-27 06:06:41_
+_本檔包含 3452 則快訊，約 683599 字_
+
+---
+
+### 2026-07-21 09:39:49  #公司
+
+【睿郡資產：擬1億元申購公司旗下私募證券投資基金】7月21日，睿郡資產公告，基於對中國資本市場長期穩健發展的看好，以及對公司主動管理投研實力的信心，公司計劃在本月內，使用自有資金人民幣1億元申購公司旗下私募證券投資基金。
+
+---
+
+### 2026-07-21 09:39:42  #其他
+
+【螞蟻保推出張雪機車聯名款摩托車意外險】7月21日，張雪機車宣佈，螞蟻保正式成為張雪機車WSBK全球戰略合作伙伴，並推出張雪機車聯名款摩托車意外險。
+
+---
+
+### 2026-07-21 09:39:40  #MKT News #Important #1810.HK #Impact bullish
+
+【Xiaomi raises 2026 smartphone shipment target】Chinese smartphone maker Xiaomi raised its 2026 smartphone shipment target to 110m units from about 90m, roughly a 16% increase, supply-chain sources said. The incremental volume will mainly come from low-end models; Xiaomi internally expects the current memory-chip cycle may reverse. Xiaomi had cut shipment targets twice earlier this year after upstream memory-chip shortages and sustained cost increases.
+
+---
+
+### 2026-07-21 09:39:39  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+【U.S. State Department issues global security alert, urges U.S. citizens to increase vigilance】July 20 — The U.S. State Department issued a global security alert warning of elevated risk from escalating Middle East tensions and possible sudden deterioration in the security environment. U.S. citizens in the Middle East were urged to remain highly vigilant and to be prepared for flight cancellations, temporary airspace closures and other travel disruptions; those outside the region were advised to reconsider travel to or through the area. U.S. diplomatic facilities, including sites outside the Middle East, have been identified as potential targets. The advisory said Iran and its proxies may target U.S. overseas interests, U.S.-related sites worldwide or U.S. citizens.
+
+---
+
+### 2026-07-21 09:39:35  #市場
+
+【小米上調手機出貨目標】從供應鏈獲悉，小米已將2026年全年智慧手機出貨目標從約9000萬部上調至1.1億部，增幅約16%，上調的增量部分主要來自低端機型。一位接近小米的人士表示，此次上調出貨目標是小米內部認為當前的儲存行情有望迎來反轉。受上游儲存晶片的短期與成本持續上漲，小米在今年曾兩次下調其出貨目標。(介面新聞)
+
+---
+
+### 2026-07-21 09:39:06  #MKT News #Important
+
+CSI 500 index futures front contract (IC) breached 7,400 points, up 2.65% intraday.
+
+---
+
+### 2026-07-21 09:38:49  #MKT News #Important #SZSE Component #Impact bullish
+
+Shenzhen Composite Index rose over 1%. Among constituents, Guoci Materials, Yuxin Technology and Sifang Jingchuang each gained more than 11%.
+
+---
+
+### 2026-07-21 09:38:36  #MKT News #Market Regions #Greater China
+
+【China retail cash-product 7‑day yield snapshot】Licaitong on-demand 7‑day annualized yield ranged 0.7710%–1.4500%. WeChat Wallet 7‑day annualized yield ranged 0.9220%–1.0520%. Alipay Yu’e Bao 7‑day annualized yield ranged 0.9860%–1.0670%.
+
+---
+
+### 2026-07-21 09:37:56  #MKT News #Important #Market Themes #China Tech Giants
+
+Yangdian Technology shares hit the 20% daily trading limit after its wholly owned subsidiary signed an RMB 860 mln computing-power services contract, equivalent to 67.22% of the company's 2025 revenue.
+
+---
+
+### 2026-07-21 09:37:51  #市場
+
+【覆銅板概念股盤初走弱 金安國紀等股跌停】覆銅板概念股盤初走弱，銅冠銅箔跌超18%，寶鼎科技、金安國紀、賢豐控股跌停，華正新材、宏昌電子等股跌幅靠前。
+
+---
+
+### 2026-07-21 09:37:38  #市場 #焦點
+
+深證成指漲1.01%，現報13747.695點；上證指數跌0.05%，現報3794.388點；創業板指漲1.64%，現報3499.543點。
+
+---
+
+### 2026-07-21 09:37:28  #市場 #國際
+
+菲律賓股市指數上漲1.1%，至6487.37點。
+
+---
+
+### 2026-07-21 09:37:19  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+A-share digital-currency sector strengthened in early trade; Sifang Jingchuang rose over 10% and Zhongjia Bochuang hit the daily limit. Xingwang Ruijie, Changliang Technology, Zhengtong Electronics, Dianke Wang'an and Tianyang Technology also advanced.
+
+---
+
+### 2026-07-21 09:37:07  #其他
+
+【港股人工智慧股延續漲勢 智譜漲近9%】截至發稿，智譜(02513.HK)漲8.93%，天數智芯(09903.HK)漲2.93%，MINIMAX-W(00100.HK)漲3.57%。
+
+---
+
+### 2026-07-21 09:36:59  #公司 #市場
+
+【網際網路金融板塊短線拉昇】網際網路金融板塊短線拉昇，智度股份、中嘉博創漲停，證通電子、新晨科技、科藍軟體、四方精創、宇信科技等紛紛走高。
+
+---
+
+### 2026-07-21 09:36:27  #MKT News #Important
+
+South Korea's Lee said market participants believe leveraged products present material policy concerns and that supplementary measures are needed.
+
+---
+
+### 2026-07-21 09:36:27  #市場 #焦點
+
+南向資金淨買入額達10億港元。
+
+---
+
+### 2026-07-21 09:35:53  #宏觀 #國際
+
+韓國總統：市場參與者認為槓桿產品的政策問題十分嚴重，需要出臺補充措施。
+
+---
+
+### 2026-07-21 09:35:11  #國際
+
+韓國稱已確保9月原油需求量的90%。
+
+---
+
+### 2026-07-21 09:34:52  #市場
+
+德明利跌停5連板，總市值回落至985.87億元。
+
+---
+
+### 2026-07-21 09:34:45  #市場
+
+【電力板塊震盪下挫 湖南發展、杭州熱電雙雙跌停】早盤電力板塊震盪下挫，湖南發展、杭州熱電跌停，深南電A、桂冠電力、寧波能源等跟跌。
+
+---
+
+### 2026-07-21 09:34:44  #MKT News #Important #Market Regions #Greater China
+
+Demingli hit the daily limit-down for a fifth consecutive session; market capitalization fell to 98.587 bln yuan.
+
+---
+
+### 2026-07-21 09:34:24  #其他
+
+【委內瑞拉強震遇難人數升至5278人】當地時間20日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報，該國6月24日發生的兩次強震造成遇難人數上升至5278人，發生餘震1405次。
+
+---
+
+### 2026-07-21 09:34:00  #MKT News #Important #WTI #Impact bullish #Brent #CSI300 #Impact bearish
+
+A-share oilfield services and engineering stocks pulled back: Tongyuan Petroleum down over 14%, Keli Co. down more than 11%, with Bomaike, Renzhi, Beiken Energy and Zhongman Petroleum also weaker. On July 20 CENTCOM said U.S. forces completed a latest round of strikes against Iran at 21:00 EDT.
 
 ---
 
@@ -20706,263 +20850,5 @@ SpaceX：目標最早於7月23日進行星艦（Starship）的第13次試飛。
 ### 2026-07-20 06:08:47  #其他
 
 【姆巴佩獲金靴】2026年美加墨世界盃決賽戰罷，本屆賽事的射手榜正式塵埃落定。姆巴佩以10粒進球領跑射手榜，成功摘得世界盃金靴；梅西打入8粒進球，位列射手榜第二位；貝林厄姆、哈蘭德均打入7粒進球，分列三、四名。
-
----
-
-### 2026-07-20 06:06:36  #公司 #國際
-
-特朗普媒體與科技集團：特朗普媒體公司、帕特里克·奧蘭多、ARC環球公司各方之間所有索賠主張，已透過一份保密和解協議達成互相撤訴、全部解決。
-
----
-
-### 2026-07-20 06:03:48  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
-
-U.S. 10‑year Treasury futures fell 6 bps; 30‑year futures fell 10 bps.
-
----
-
-### 2026-07-20 06:03:40  #市場 #國際
-
-油價上漲拖累美國10年期國債期貨下跌6個基點，30年期國債期貨下滑10個基點。
-
----
-
-### 2026-07-20 06:03:02  #其他 #焦點
-
-【西班牙奪得2026世界盃冠軍】北京時間7月20日凌晨3時整，2026年美加墨世界盃決賽在紐約新澤西體育場展開角逐，西班牙對陣阿根廷。最終憑藉著加時賽費蘭的破門，西班牙1比0戰勝阿根廷，奪得世界盃冠軍。
-
----
-
-### 2026-07-20 06:02:38  #MKT News #Important #Market Themes #The Trump Trade
-
-Spain beat Argentina 1-0 to win the US-Mexico-Canada World Cup final; Trump had earlier said he backed Argentina.
-
----
-
-### 2026-07-20 06:02:36  #市場
-
-WTI原油日內漲3%，現報84.31美元/桶。
-
----
-
-### 2026-07-20 06:02:35  #市場
-
-布倫特原油日內漲3%，現報90.83美元/桶。
-
----
-
-### 2026-07-20 06:02:31  #市場 #焦點
-
-布倫特原油期貨價格突破每桶90美元，為6月11日以來首次。
-
----
-
-### 2026-07-20 06:02:14  #MKT News #USDJPY #Impact bullish
-
-USD/JPY gained 20 pips intraday to 162.56, approaching the prior high of 162.83.
-
----
-
-### 2026-07-20 06:02:05  #市場
-
-標普500指數期貨盤初持平，納斯達克指數期貨上漲0.1%。
-
----
-
-### 2026-07-20 06:02:01  #MKT News #Commodities #Precious Metals
-
-Spot silver fell 0.4% in early trade to $55.64/oz.
-
----
-
-### 2026-07-20 06:01:59  #公司 #國際
-
-特朗普科技和媒體集團了結多項法律糾紛。
-
----
-
-### 2026-07-20 06:01:20  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold opened Monday down nearly $20, slipping below $4,000/oz.
-
----
-
-### 2026-07-20 06:01:11  #市場 #焦點
-
-WTI原油突破84美元/桶，日內漲2.71%。
-
----
-
-### 2026-07-20 06:00:43  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-WTI crude rose 2% at Monday's open to $84/bbl.
-
----
-
-### 2026-07-20 06:00:22  #市場 #焦點
-
-布倫特原油突破90美元/桶，日內漲2.16%。
-
----
-
-### 2026-07-20 06:00:17  #MKT News
-
-U.S. stock index futures opened essentially flat on Monday.
-
----
-
-### 2026-07-20 06:00:13  #市場 #焦點
-
-布倫特原油日內漲2%，現報89.92美元/桶。
-
----
-
-### 2026-07-20 06:00:10  #市場 #焦點
-
-WTI原油日內漲2%，現報83.44美元/桶。
-
----
-
-### 2026-07-20 06:00:09  #市場 #焦點
-
-紐約期金突破4010美元/盎司，日內跌0.24%。
-
----
-
-### 2026-07-20 06:00:04  #市場 #焦點
-
-WTI原油突破83美元/桶，日內漲1.53%。
-
----
-
-### 2026-07-20 06:00:02  #市場
-
-WTI原油日內漲1%，現報82.99美元/桶。
-
----
-
-### 2026-07-20 06:00:01  #市場
-
-布倫特原油日內漲1%，現報89.50美元/桶。
-
----
-
-### 2026-07-20 05:52:25  #央行 #國際
-
-【美聯儲7月維持利率不變的機率85.6%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為85.6%，累計加息25個基點的機率為14.4%。 美聯儲到9月維持利率不變的機率為38.5%，累計加息25個基點的機率為53.5%，累計加息50個基點的機率為7.9%。
-
----
-
-### 2026-07-20 05:43:16  #國際
-
-【伊朗防空系統擊落多架敵方無人機和一枚巡航導彈】伊朗的綜合防空網路已成功攔截並摧毀了該國多個地區的數架敵機和一枚導彈，其中包括在西部擊落的一架MQ-9“死神”無人機、一枚巡航導彈、“盧卡斯”無人機，以及在阿瓦士上空擊落的另一架MQ-9，與此同時，伊朗軍隊持續彰顯其在應對美國侵略方面的空中優勢。
-
----
-
-### 2026-07-20 05:41:35  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Kyiv hit by largest ballistic-missile strike since crisis escalation; 1 killed, 17 injured】Kyiv police and Ukrainian media said the Russian strike on Kyiv from the evening of the 18th into the early hours of the 19th was the largest-scale ballistic-missile attack since the crisis escalated. As of the evening of the 19th the attack had killed one and wounded 17. TCH TV cited the Ukrainian Air Force saying Russian forces launched 41 missiles and 125 drones toward Kyiv, including 10 Zircon hypersonic missiles and 25 Iskander-M and S-400 missiles.
-
----
-
-### 2026-07-20 05:38:30  #國際
-
-【基輔市遭“最大規模彈道導彈襲擊”致1死17傷】據烏克蘭首都基輔市警方和烏媒19日晚訊息，俄羅斯18日晚至19日凌晨對基輔市發動的導彈襲擊是烏克蘭危機升級以來“最大規模的彈道導彈襲擊”。截至19日晚，襲擊已造成該市1人死亡、17人受傷。
-
----
-
-### 2026-07-20 05:33:25  #國際
-
-【美軍在伊拉克1死1傷】北京時間今天（7月20日）凌晨，美軍中央司令部在社交媒體平臺通報稱，美東時間7月18日，在伊拉克北部，一名美軍士兵在對一架伊朗無人機遺留未爆彈藥進行受控引爆作業時死亡，另一名士兵受傷。美軍中央司令部此前曾通報在約旦美軍因伊朗襲擊2人死亡、1人失蹤。據最新通報，經全面搜救，美軍在約旦遭襲現場發現了身份不明的遺骸，目前正在進行鑑定核實工作。（CCTV國際時訊）
-
----
-
-### 2026-07-20 05:30:36  #其他
-
-伊拉克埃爾比勒傳出爆炸聲。
-
----
-
-### 2026-07-20 05:28:03  #國際
-
-【特朗普至今未明確伊朗應對戰略，美軍陣亡人數升至17人】上週末美伊衝突持續升級；此前伊朗襲擊造成兩名美軍駐約旦軍人身亡、多人受傷，此後雙方互相發動打擊。特朗普尚未明確對伊戰事的後續走向，其政府釋放的戰略訊號自相矛盾：部分官員呼籲保持克制，另一些官員則暗示衝突可能進一步升級。開戰以來美軍陣亡人數已達17人。專家警告衝突存在徹底失控的風險，有專家評價，特朗普當下“沒有理想選項，只有差與更差兩種選擇”。
-
----
-
-### 2026-07-20 05:26:52  #國際
-
-伊拉克抵抗組織：一旦（美國）對伊朗的侵略擴大，將以全部力量和堅決態度打擊周邊地區的所有美國利益和基地。
-
----
-
-### 2026-07-20 05:21:10  #MKT News #005930.KS #Impact bullish #000660.KS
-
-【South Korea policy chief says no plan to delist single-stock leveraged ETFs】South Korea's presidential office policy chief told JoongAng Ilbo on Sunday the government has no plans to delist single-stock leveraged ETFs tied to Samsung Electronics and SK Hynix, saying removal would cause a large market shock. Investor holdings exceed 10 trillion won (about $6.72 billion); the focus, he said, should be on restricting these products' trading impact rather than delisting.
-
----
-
-### 2026-07-20 05:19:14  #公司 #國際
-
-市場資訊：SK集團正籌劃在美國建廠，以增加供應、應對價格異常高企。
-
----
-
-### 2026-07-20 05:17:28  #其他
-
-世界盃決賽常規時間結束，雙方均無進球進入加時賽。
-
----
-
-### 2026-07-20 05:15:37  #國際
-
-伊朗多地已發射多枚導彈，瞄準美軍在該區域的相關目標。美方官員暫未對此作出即時證實，也暫無遭襲地點的詳細資訊。
-
----
-
-### 2026-07-20 05:12:47  #國際
-
-【日本近2.5萬民眾集會 反對高市政府修憲擴軍】當地時間19日，近2.5萬名日本民眾在日本國會前舉行大規模集會，強烈抗議高市政府推動修改和平憲法、放寬武器出口限制、突破無核三原則等一系列再軍事化動向。（央視新聞）
-
----
-
-### 2026-07-20 05:11:10  #其他
-
-【巴林境內拉響防空警報】當地時間20日0時05分左右，巴林境內拉響防空警報。
-
----
-
-### 2026-07-20 05:09:07  #MKT News #Market Themes #Chip Wars #000660.KS #Impact bullish
-
-【Chey Tae-won: SK Hynix exploring U.S. fab to boost supply and curb abnormally high prices】SK Hynix is scouting U.S. sites to add memory-chip manufacturing capacity, SK Group chairman Chey Tae-won said, noting demand far exceeds supply and current prices are “abnormally” high. He said the company needs fabs not only in Gwangju and Jeolla but also in the U.S., and that construction would proceed only “if conditions permit,” with trade pressures and other factors to be weighed.
-
----
-
-### 2026-07-20 05:07:27  #其他
-
-巴林內政部：鳴響空襲警報。
-
----
-
-### 2026-07-20 05:07:17  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Bahrain's Interior Ministry raised an air-defence alert.
-
----
-
-### 2026-07-20 05:07:12  #其他
-
-加拿大汽車工人聯合工會（UNIFOR）與福特達成協議：為該工會的5150名成員實現每年3%的工資漲幅，並保障就業穩定。
-
----
-
-### 2026-07-20 05:07:11  #MKT News
-
-CENTCOM said that as of July 19 it had diverted 6 merchant vessels and disabled 1 vessel to ensure relevant parties fully comply with blockade regulations.
-
----
-
-### 2026-07-20 05:07:00  #公司
-
-加拿大汽車工人工會（UNIFOR）成員批准與福特汽車加拿大分公司簽訂為期三年的集體勞資協議。
 
 ---
