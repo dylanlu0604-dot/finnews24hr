@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-27 04:23:49",
-  "count": 18028,
+  "updated": "2026-07-27 04:27:47",
+  "count": 18027,
   "items": [
+    {
+      "id": "5008709",
+      "time": "2026-07-27 04:23:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古巴國家主席：美對古封鎖是“殘酷策劃的種族滅絕”】古巴國家主席迪亞斯-卡內爾26日譴責美國對古巴封鎖是犯罪行為，並表示古巴不對美國或世界上任何其他國家構成威脅，是美國“殘酷策劃的種族滅絕”政策受害者。（新華社）"
+    },
     {
       "id": "mkt:019fa017-660a-7aab-8e9c-4bf5ad46a691",
       "time": "2026-07-27 04:21:55",
@@ -165132,24 +165140,6 @@
         "其他"
       ],
       "text": "Dollar Tree計劃關閉75家門店，同時擴大整體經營佈局。"
-    },
-    {
-      "id": "4996272",
-      "time": "2026-07-20 04:27:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI員工已向一項政治活動捐款逾21.5萬美元，該活動旨在反對“引領未來”組織，而這家組織由公司總裁格雷格·布羅克曼提供資金支援。"
-    },
-    {
-      "id": "mkt:019f7c0c-c1ff-7aab-8dfa-a9201c09ee9f",
-      "time": "2026-07-20 04:23:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【South Korea pledges to ease access to the won, pursue freely convertible currency goal】YONHAP reported on Sunday that South Korea's finance ministry will intensify efforts to broaden access to the won, aiming to make it a freely convertible currency. The Ministry of Economy and Finance published a roadmap for won internationalization — defined as removing barriers for non-residents to obtain or use the won offshore — and said this requires building an offshore won trading and settlement system and eliminating institutional restrictions. The government cited strong economic fundamentals and a maturing capital-market system as the rationale."
     }
   ]
 }
