@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-26 15:56:33",
-  "count": 18187,
+  "updated": "2026-07-26 16:00:38",
+  "count": 18185,
   "items": [
+    {
+      "id": "5008447",
+      "time": "2026-07-26 15:58:25",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：二次原油衝擊不改8月行情修復趨勢】中信證券釋出研報稱，此輪中東原油衝擊不再是第一輪的小號重演，而是緩衝耗盡後的二次衝擊。兩輪油價衝擊過程中，市場最擁擠的交易結構完全不同，意味著市場不會簡單複製二季度的行情執行模式。唯一相對確定的是中東戰爭走向越發難以預測，矛盾長期化的風險在提高，意味著市場短期不可避免地需要經歷降低風偏的過程。不過從量價和情緒指標來看，負面的事件和敘事已經反映到了短期比較極端的跌幅當中，降風偏的過程已經接近尾聲，8月市場出現普遍輪動修復的機率很高。依舊看好三個維度的收斂：1）Al鏈上游硬體和漲價品種相對下游平臺型企業超額收益的收斂；2）國內非AI工業股相對海外對標的公司的折價修復；3）科技與非科技的收斂。"
+    },
     {
       "id": "5008446",
       "time": "2026-07-26 15:52:56",
@@ -166548,32 +166558,6 @@
         "國際"
       ],
       "text": "【泰國總理阿努廷抵達北京】7月19日，泰國總理阿努廷抵達北京，繼續對中國的正式訪問。 阿努廷應邀於7月16日至20日對中國進行正式訪問，這是阿努廷就任泰國總理後首次正式訪華。抵京前，阿努廷在上海出席了2026世界人工智慧大會暨人工智慧全球治理高階別會議，併到四川省參訪。（新華社）"
-    },
-    {
-      "id": "4995943",
-      "time": "2026-07-19 16:00:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【山西印發服務業擴能提質行動方案】據山西釋出，近日，山西省人民政府辦公廳印發《山西省服務業擴能提質行動方案（2026—2030年）》，《行動方案》提出，到2028年，生產性服務業向專業化和價值鏈高階延伸，形成一批可複製推廣的先進製造業與現代服務業融合典型模式；生活性服務業高品質多樣化便利化發展，培育一批數智化、融合化的服務新業態新場景。到2030年，服務業質量效益明顯改善，服務研發投入和創新成果較快增長，培育一批服務業細分市場龍頭企業，形成一批具有較強競爭力的服務品牌，高附加值服務貿易出口持續提升，全省服務業增加值力爭突破1.8萬億元，優質高效的服務業新體系基本形成。"
-    },
-    {
-      "id": "mkt:019f7962-0cd0-7aab-8df5-db2b017f077c",
-      "time": "2026-07-19 15:58:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Russia calls Japan-Ukraine drone cooperation an act of hostility】Russian Deputy Foreign Minister said on July 18 in an interview with Russian media that Moscow is closely monitoring cooperation between Japanese drone manufacturers and Ukrainian drone developers, saying Ukrainian drones are \"killing Russian civilians\" and Japan is providing assistance. He said Russia views the collaboration as \"openly hostile\" and that weapons posing a threat to Russia, and facilities in Ukraine producing those weapons, are legitimate targets for Russian strikes. He added Japan is pushing Russia-Japan relations \"further into the abyss.\""
-    },
-    {
-      "id": "4995942",
-      "time": "2026-07-19 15:58:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗釋出衛星影象，證實美軍駐約旦基地戰機機庫遭伊朗導彈摧毀 】最新公開的衛星影象證實，在伊朗針對美軍駐約旦基地發動的導彈襲擊中，美軍戰機機庫遭到嚴重破壞。分析指出，該基礎設施的損毀將直接削弱美軍在當地的空中作戰出動能力。據伊朗援引開源情報報道，衛星影象顯示，除了造成人員傷亡外，美軍用於戰機出動前準備的機庫已被徹底摧毀。該機庫是戰機執行飛行前檢查、武器掛載、燃料補給、技術準備及故障排除等核心任務的關鍵設施，對維持戰機的高頻次出動率具有直接作用。"
     }
   ]
 }
