@@ -1,7 +1,18 @@
 {
   "date": "2026-07-27",
-  "count": 96,
+  "count": 97,
   "items": [
+    {
+      "id": "mkt:019fa04c-35fe-7aab-8e9c-80640b242f4a",
+      "time": "2026-07-27 05:19:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【CENTCOM commander urged pause in strikes near Strait of Hormuz, called continued airstrikes \"meaningless\"】Admiral Cooper, commander of U.S. Central Command, advised pausing strikes near the Strait of Hormuz, Axios reports. His recommendation to the Pentagon, the Joint Chiefs and the White House helped persuade President Trump to suspend planned strikes on Iran on Friday. Cooper told officials two weeks of strikes had significantly degraded Iran’s ability to attack ships and that most designated targets had been struck. He said roughly 20% of targets assigned in the \"Epic Fury\" operation remain unstruck and that the next step could be resuming large-scale operations to complete them. Cooper warned that continuing the recent air campaign without deciding to resume large-scale operations would be \"meaningless.\" Military and civilian advisers told the president gains achievable by military action, particularly air power, are limited."
+    },
     {
       "id": "mkt:019fa045-5cd1-7aab-8e9c-79ac44691f75",
       "time": "2026-07-27 05:12:07",

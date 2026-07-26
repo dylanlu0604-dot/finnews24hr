@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-27 05:17:58",
-  "count": 17997,
+  "updated": "2026-07-27 05:21:47",
+  "count": 17996,
   "items": [
+    {
+      "id": "mkt:019fa04c-35fe-7aab-8e9c-80640b242f4a",
+      "time": "2026-07-27 05:19:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【CENTCOM commander urged pause in strikes near Strait of Hormuz, called continued airstrikes \"meaningless\"】Admiral Cooper, commander of U.S. Central Command, advised pausing strikes near the Strait of Hormuz, Axios reports. His recommendation to the Pentagon, the Joint Chiefs and the White House helped persuade President Trump to suspend planned strikes on Iran on Friday. Cooper told officials two weeks of strikes had significantly degraded Iran’s ability to attack ships and that most designated targets had been struck. He said roughly 20% of targets assigned in the \"Epic Fury\" operation remain unstruck and that the next step could be resuming large-scale operations to complete them. Cooper warned that continuing the recent air campaign without deciding to resume large-scale operations would be \"meaningless.\" Military and civilian advisers told the president gains achievable by military action, particularly air power, are limited."
+    },
     {
       "id": "mkt:019fa045-5cd1-7aab-8e9c-79ac44691f75",
       "time": "2026-07-27 05:12:07",
@@ -164867,26 +164878,6 @@
         "國際"
       ],
       "text": "伊拉克抵抗組織：一旦（美國）對伊朗的侵略擴大，將以全部力量和堅決態度打擊周邊地區的所有美國利益和基地。"
-    },
-    {
-      "id": "mkt:019f7c41-1f0f-7aab-8dfa-fdb2f9ed35d5",
-      "time": "2026-07-20 05:21:10",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "【South Korea policy chief says no plan to delist single-stock leveraged ETFs】South Korea's presidential office policy chief told JoongAng Ilbo on Sunday the government has no plans to delist single-stock leveraged ETFs tied to Samsung Electronics and SK Hynix, saying removal would cause a large market shock. Investor holdings exceed 10 trillion won (about $6.72 billion); the focus, he said, should be on restricting these products' trading impact rather than delisting."
-    },
-    {
-      "id": "4996302",
-      "time": "2026-07-20 05:19:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場資訊：SK集團正籌劃在美國建廠，以增加供應、應對價格異常高企。"
     }
   ]
 }
