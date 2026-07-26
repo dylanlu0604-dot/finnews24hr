@@ -1,7 +1,247 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-26 20:13:34_
-_本檔包含 3515 則快訊，約 687913 字_
+_更新時間：2026-07-26 21:52:43_
+_本檔包含 3509 則快訊，約 687325 字_
+
+---
+
+### 2026-07-26 21:48:30  #其他
+
+克里姆林宮稱，就美烏空中停火談判的報道置評還為時過早。
+
+---
+
+### 2026-07-26 21:47:38  #MKT News
+
+【Russia to build new ocean-going destroyers】The Russian navy commander said next-generation warships now under construction will displace about 9,500 tonnes. He said the class is designed for extended at-sea deployment and to conduct blue-water and long-range operations.
+
+---
+
+### 2026-07-26 21:43:47  #MKT News
+
+【Iran official: Iranian merchant ship attacked off Volga–Caspian anchorage; 1 killed, 3 injured】Gilan governor Hadi Haghshenas said an Iranian merchant vessel anchored off the Volga-to-Caspian route was attacked, killing one crew member and wounding three. The ship, loaded with steel and other cargo and en route from Russia’s Astrakhan to Iran’s Anzali, had its wheelhouse destroyed and is unable to continue; authorities did not specify the attack type and are investigating.
+
+---
+
+### 2026-07-26 21:39:18  #MKT News #Market Themes #AI Revolution #WTI #Impact bullish #US10Y #Impact bearish
+
+【CITIC Securities: A‑share market to sustain near‑term W‑shaped bottom consolidation; AI remains long‑term theme】July saw rapid margin‑financing outflows, but regulatory support and onshore incremental funds have helped stabilise short‑term liquidity. External pressures — Middle East tensions lifting oil, higher US Treasury yields and renewed Fed hike expectations — have dented global risk appetite. CITIC says the AI sector’s mid‑to‑long‑term thesis remains intact: KimiK3 is reshaping the performance/cost narrative, expanding workflow coverage and accelerating vertical penetration, and Google’s counter‑trend capex increase supports a compute supply‑demand mismatch. Near term the market is likely to trade a W‑shaped bottom; investors should wait for external uncertainty to clear while rebalancing into low‑base areas with solid fundamentals and valuation‑recovery potential. Key focus: AI (upstream materials/equipment, domestic compute), midstream export manufacturing chains (new energy, machinery, shipbuilding), upstream resources and defensive dividend plays.
+
+---
+
+### 2026-07-26 21:37:57  #MKT News
+
+【Navigation warning: Bohai Sea live-fire exercises】Dalian Maritime Safety Administration issued a navigation warning: parts of the Bohai Sea will be closed for live-fire exercises from Jul 27 to Aug 13, daily 06:00–24:00; vessels are prohibited from entering.
+
+---
+
+### 2026-07-26 21:37:49  #國際
+
+【古巴舉行“7·26國家起義日”紀念活動】當地時間7月26日，古巴“7·26國家起義日”的紀念活動在古巴西部城市比那爾德里奧舉行。古巴國家主席迪亞斯-卡內爾、總理馬雷羅等國家領導、約萬名古巴群眾和來自世界各地的支持者參加了活動。古巴國家主席迪亞斯-卡內爾在紀念活動上發表講話，譴責美國封鎖給古巴電力、醫療、藥品等方面帶來的嚴重影響，並控訴美國對古巴實施新一輪系列制裁，散佈不實言論，企圖為發動軍事攻擊製造藉口。他同時感謝國際社會對古巴的支援，感謝在聯合國大會上投票支援古巴反對封鎖決議的各國政府。最後，他強調了古巴進行經濟改革的必要性，並勉勵青年人發揮創造力、積極投身生產。（央視新聞）
+
+---
+
+### 2026-07-26 21:37:19  #國際
+
+印度總理莫迪：印度將組建高階別工作組推進考試製度改革，考試改革工作組將由南丹·尼勒卡尼領導。
+
+---
+
+### 2026-07-26 21:35:45  #公司
+
+【寧德時代：587Ah儲能大電芯已規模化交付】寧德時代(300750.SZ)釋出投資者關係活動記錄表公告，公司上半年動力和儲能電池合計銷量同比增長約60%，其中儲能電池銷量佔比約1/4。儲能市場今明年仍將保持較快增長，上半年產能利用率基本飽和，已為客戶需求備貨及推進產能建設，境內儲能銷量佔比略高於境外，儲能系統佔比接近七成，587Ah儲能大電芯已實現規模化交付。公司看好AIDC業務前景，可提供整套能源創新解決方案。
+
+---
+
+### 2026-07-26 21:34:26  #其他
+
+大連海事局釋出航行警告，7月27日至8月13日每天6時至24時，渤海部分海域進行實彈射擊，禁止駛入。
+
+---
+
+### 2026-07-26 21:27:30  #MKT News #Important #Brent #Impact mixed #WTI
+
+【Saudi media: Iran says it has not quit talks, willing to resume US negotiations in Geneva, Qatar or Islamabad】Al Arabiya and Saudi outlet Hadas report Iran told Pakistani officials it has not withdrawn from negotiations but has temporarily suspended them and urged resumption of stalled talks. Tehran rejected opening new shipping lanes in the Strait of Hormuz. Iran confirmed to Pakistan it is willing to continue talks with the US in Geneva, Qatar or Islamabad and said negotiations should restart on the Hormuz issue first, followed by frozen funds, then the nuclear file.
+
+---
+
+### 2026-07-26 21:26:26  #國際
+
+【伊朗官員：一艘裡海通行伊朗商船遭襲致1死3傷】據伊朗邁赫爾通訊社26日報道，伊朗吉蘭省省長哈迪·哈格沙納斯表示，一艘伊朗商船日前在伏爾加河通往裡海的港外錨地遭襲，致船上1人死亡、3人受傷。哈格沙納斯說，遭襲船隻上裝載了鋼鐵等貨物，正從俄羅斯阿斯特拉罕港駛往伊朗安扎利港。襲擊導致船舶駕駛臺被完全摧毀，船隻無法繼續航行。他沒有透露這艘船遭遇何種襲擊。伊方有關部門正在對事件展開調查。（新華社）
+
+---
+
+### 2026-07-26 21:15:59  #MKT News #Important #Brent #Impact bearish #WTI #XAUUSD
+
+Refinitiv: a senior Iranian source said Iran will stop attacks as long as the US maintains the current ceasefire.
+
+---
+
+### 2026-07-26 21:15:53  #國際
+
+伊朗訊息人士：美國暫停攻擊伊朗後，“懷疑多於樂觀”。
+
+---
+
+### 2026-07-26 21:15:27  #焦點 #國際
+
+伊朗訊息人士表示，只要美國維持最新停火狀態，伊朗將停止此後襲擊。
+
+---
+
+### 2026-07-26 21:13:20  #其他
+
+【河南鄭州升級釋出暴雨橙色預警】鄭州市氣象臺7月26日20時27分將暴雨黃色預警訊號升級為暴雨橙色預警訊號：預計未來3小時，中原區、二七區、管城回族區、金水區、經開區、高新區、鄭東新區等鄉鎮和街道降雨量將達70毫米以上，請注意防範強降雨引發的城市內澇等次生災害。（央視新聞）
+
+---
+
+### 2026-07-26 21:09:39  #MKT News
+
+U.S. permanent representative to the UN Mike Waltz said President Trump is leaving some room for negotiations with Iran.
+
+---
+
+### 2026-07-26 21:06:15  #其他
+
+【英國首相拒絕透露將國防開支佔GDP比重提高至3%的具體時間表】在英國首相伯納姆的內閣中，新任財政大臣約翰·希利（前首相斯塔默的國防大臣）預計將把國防開支視為優先事項。伯納姆表示：“我在任命新的財政大臣時，非常清楚他曾就國防開支的至關重要性發表過什麼言論，以及他對此採取的立場。”“我們兩人面臨的第一個挑戰是確保國防投資計劃獲得全額資金，這是擺在我們面前的首要任務，我們需要在今年晚些時候編制預算的過程中逐步解決這個問題。”
+
+---
+
+### 2026-07-26 21:00:23  #MKT News #Important #Star Stocks #Apple #Microsoft #Amazon #Meta Platforms #Macro & Rates #The Fed (FOMC) #Market Themes #Magnificent 7 #DXY #Impact mixed #WTI #Nasdaq100
+
+【Weekly preview: Fed-led central-bank week, core PCE and GDP in focus; Meta, Microsoft, Amazon, Apple, SK Hynix earnings; OPEC+ meeting】Monday — Germany IFO (Jul); UK CBI retail (Jul); US June durable goods orders (MoM) and Dallas Fed activity. Tuesday — US ADP (week to Jul 11), FHFA house prices (May MoM), S&P/Case‑Shiller 20‑city (May YoY), Conference Board consumer confidence (Jul), Richmond Fed manufacturing; RBA chair BULLOCK speaks. Wednesday — API crude inventories (week to Jul 24); Australia unadjusted CPI (Jun YoY); Swiss ZEW (Jul); UK mortgage approvals (Jun); EIA crude, Cushing and SPR stocks (week to Jul 24); SK Hynix Q2 results. Thursday — FOMC rate decision and press conference with KEVIN WARSH; BOE rate decision, minutes and BAILEY press conference; BOC minutes. Major US data: June core PCE (MoM and YoY), personal spending (Jun), Q2 preliminary real GDP (annualized) and preliminary PCE‑based core inflation (Q2 annualized), initial jobless claims; Germany, France and euro‑area Q2 preliminary GDP; euro‑area June unemployment and July sentiment surveys; German July CPI flash; EIA weekly gas stocks. Tech earnings after US close: Meta, Microsoft, Qualcomm, Arm. Friday — BOJ rate decision and economic outlook; BOJ governor UEDA press conference; China official manufacturing PMI (Jul); Japan unemployment (Jun); UK Nationwide house prices (Jul); euro‑area and France CPI flash (Jul); Germany unemployment (Jul); Canada GDP (May MoM); US Q2 labor‑costs, Chicago PMI (Jul), Michigan final consumer sentiment and 1‑yr inflation expectation; domestic China starts new refined‑oil price adjustment window; Amazon and Apple report after US close (Jul 30). Saturday — US oil rig count (week to Jul 31). Sunday — OPEC+ monthly ministerial meeting on oil policy.
+
+---
+
+### 2026-07-26 21:00:01  #公司 #國際
+
+【俄羅斯“聯盟MS-28”飛船搭載宇航員返回地球】俄羅斯國家航天集團26日在社交媒體釋出訊息說，“聯盟MS-28”載人飛船搭載3名宇航員從國際空間站返回地球，並於莫斯科時間26日13時27分（北京時間26日18時27分）在哈薩克傑茲卡茲甘市附近著陸。（新華社）
+
+---
+
+### 2026-07-26 20:53:51  #MKT News
+
+CENC reported a magnitude 4.8 earthquake at 20:36 on July 26 in New Taipei City, Taiwan (24.94°N, 121.82°E). Hypocenter depth 95 km.
+
+---
+
+### 2026-07-26 20:51:50  #其他
+
+【臺灣新北市發生4.8級地震 震源深度95千米】中國地震臺網正式測定：07月26日20時36分在臺灣新北市（北緯24.94度，東經121.82度）發生4.8級地震，震源深度95千米。（央視新聞）
+
+---
+
+### 2026-07-26 20:51:23  #其他
+
+【甘肅省定西市洪水防禦應急響應升至Ⅱ級】記者從甘肅省水利廳瞭解到，26日下午，定西市渭源縣發生山洪災害，已造成10人死亡。依據《甘肅省水利廳水旱災害防禦應急預案》規定，甘肅省水利廳決定自7月26日19時起，將定西市洪水防禦Ⅳ級應急響應調整為Ⅱ級。（央視新聞）
+
+---
+
+### 2026-07-26 20:50:44  #MKT News #Market Regions #Greater China
+
+【Guangdong allocates 50 mln yuan provincial disaster relief fund for Typhoon Hongxia】On July 26, the Guangdong Provincial Department of Finance and Provincial Department of Emergency Management urgently allocated 50 mln yuan in provincial natural disaster relief funds for emergency response to Typhoon Hongxia. The funds will support Huizhou, Shanwei, Jieyang, Meizhou and Heyuan for emergency rescue and relief to affected residents, procurement and transport of relief supplies, inspection and emergency remediation of secondary hazards, and repair and reconstruction of damaged housing to limit impact and protect lives and property.
+
+---
+
+### 2026-07-26 20:49:58  #其他
+
+【廣東省財政廳、省應急管理廳向廣東受災地區撥付省級自然災害救災資金5000萬元】為切實做好颱風“紅霞”應急救災工作，7月26日，廣東省財政廳、省應急管理廳緊急下達省級自然災害救災資金5000萬元，支援惠州、汕尾、揭陽、梅州、河源等受災地區開展應急搶險和受災群眾救助，救災物資購置、儲運，次生災害隱患排查和應急整治，倒損住房恢復重建等工作，最大程度減輕災害影響，保障受災群眾生命財產安全。（央視新聞）
+
+---
+
+### 2026-07-26 20:41:04  #MKT News
+
+CENC automatic determination: at 20:36 on July 26 a magnitude ~4.8 earthquake occurred offshore near Yilan County, Taiwan (24.90°N, 121.87°E). Final magnitude subject to confirmation by a formal bulletin.
+
+---
+
+### 2026-07-26 20:40:49  #其他
+
+中國地震臺網自動測定：07月26日20時36分在臺灣宜蘭縣海域附近（北緯24.90度，東經121.87度）發生4.8級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-07-26 20:40:45  #其他
+
+【烏海銀行“換帥”：趙孔章已出任黨委書記】據烏海銀行訊息，7月26日，烏海銀行黨委書記趙孔章一行調研走訪海勃灣區轄內相關支行經營執行情況。在此之前，該行黨委書記、董事長一職由崔洪傑擔任。據瞭解，55歲的趙孔章原系烏海市財政局黨組書記、局長。
+
+---
+
+### 2026-07-26 20:35:18  #國際
+
+美國駐聯合國大使就《紐約時報》報道發表評論：美國已擁有伊朗戰爭所需的一切裝備。
+
+---
+
+### 2026-07-26 20:32:44  #公司
+
+【嘉立創：首次公開發行股票網上發行最終中籤率為0.0218%】嘉立創公告稱，公司首次公開發行股票並在主機板上市，發行價84.46元/股，發行股份5556.00萬股。本次網上發行有效申購戶數16360198戶，有效申購股數144558780500股。因網上初步有效申購倍數高於100倍，啟動回撥機制，回撥後網上最終發行數量為3158.0000萬股，中籤率為0.0218457847%。主承銷商與發行人7月27日進行搖號抽籤，7月28日公佈結果。投資者需於7月28日及時履行繳款義務。
+
+---
+
+### 2026-07-26 20:32:13  #國際
+
+美國駐聯合國大使：特朗普為伊朗談判留出空間，談判“正在進行中”。
+
+---
+
+### 2026-07-26 20:31:50  #國際
+
+美國駐聯合國大使：特朗普並未排除對伊朗採取戰爭手段的所有可能性。
+
+---
+
+### 2026-07-26 20:30:46  #國際
+
+【沙特阿美週日收跌將近0.9%，埃及股市跌超0.9%】週日（7月26日），沙特證交所全股指數收跌0.34%，報10766.84點。沙特阿美收跌0.89%，報26.60沙特里亞爾。在沙特上市的Albilad南方東英MSCI香港中國股票ETF收跌0.72%，報10.96沙特里亞爾。埃及證交所EGX 30指數收跌0.95%，報53417.59點。阿曼MSM 30指數收漲0.15%，報7127.88點。卡達證交所指數收跌0.29%，報10003.67點。科威特證交所超級市場價格回報指數收漲0.57%，報9123.98點。
+
+---
+
+### 2026-07-26 20:26:40  #MKT News #Market Regions #Greater China
+
+【China's first airworthiness-compliant multi-role long-endurance UAV TP200 completes maiden flight】TP200, China's first multi-role long-endurance UAV developed to airworthiness requirements, completed its maiden flight in Yantai, Shandong. Built by Yitong UAV, the platform demonstrated stable attitude control and met design targets for climb and cruise speed during trials. Designed for long-endurance, high-altitude operations, TP200 achieves full-load endurance of more than 24 hours. Its modular, multi-payload, one-airframe multiple-configuration design enables rapid mission switching and targets higher equipment reuse, greater commonality and lower procurement and O&M costs, and will support the shift of large unmanned aircraft from specialised applications into scaled government and civilian markets.
+
+---
+
+### 2026-07-26 20:25:17  #國際
+
+【美國在酷暑中煎熬，熱浪中心本週或向西轉移】“熱穹頂”效應正推高各區域電網的用電需求，導致美國中部超過1億人飽受酷暑折磨。美國中部地區釋出了極端高溫警告和高溫提示，受高溫和高溼度影響，體感溫度預計將高達112華氏度（約44.4攝氏度）。本週“熱穹頂”將繼續推高美國西部和中部的溫度，西南部和加利福尼亞州的酷暑天氣可能會持續到8月初。此外，在太平洋海域，預計颶風“福斯托”（Fausto）將減弱，並於週二和週三以熱帶風暴的強度從夏威夷群島北部掠過；與此同時，颶風“珍妮薇”（Genevieve）正在墨西哥下加利福尼亞州海岸附近增強。
+
+---
+
+### 2026-07-26 20:23:24  #市場
+
+【甘肅省將重大氣象保障（暴雨）Ⅲ級應急響應升級為Ⅱ級】2026年7月26日19時30分，甘肅省氣象局將重大氣象保障（暴雨）Ⅲ級應急響應升級為Ⅱ級。定西、平涼、慶陽、天水、隴南、白銀、甘南等市（州）氣象局根據實際情況研判，啟動或升級相應應急響應。（央視新聞）
+
+---
+
+### 2026-07-26 20:22:15  #其他
+
+德國內政部長：襲擊嫌疑人是德國公民。注：25日德國柏林晚間發生一起汽車衝撞行人襲擊事件。
+
+---
+
+### 2026-07-26 20:20:02  #市場
+
+本週兩融餘額增幅最大：廈門銀行兩融餘額：0.2億元，餘額增幅：135.37%；聯德股份兩融餘額：0.19億元，餘額增幅：123.76%
+
+---
+
+### 2026-07-26 20:18:54  #市場 #焦點
+
+紐約原油暗盤跌破86美元，日內跌超4.7%。
+
+---
+
+### 2026-07-26 20:14:52  #公司
+
+【上緯新材子公司啟元新創落戶上海 計劃每年推不少於2款消費級機器人】近日，上緯新材全資子公司啟元新創作為上海市人工智慧重點專案，正式簽約落戶浦東張江機器人谷，計劃打造最大消費級機器人企業的研發創新、生態共建共享及產業化總部基地。
+
+---
+
+### 2026-07-26 20:14:04  #其他
+
+【國內首款按適航要求研製的多功能長航時無人機完成首飛】7月26日，國內首款按適航要求研製的多功能長航時無人機TP200在山東煙臺完成首飛。TP200無人機由壹通無人機自主研製，試飛過程中姿態穩定可控，爬升高度、巡航速度等均達到設計指標。TP200是專門針對長航時高空作業打造的機型，滿載續航能力突破24小時。不同於功能單一的傳統無人機，TP200在設計中兼顧多工載荷的靈活適配能力，採用模組化一機多構型設計，可根據任務快速切換作業模式，有效破解行業內裝備複用率低、裝置通用性差、採購運維成本高等問題，將推動大型無人航空器從特種專項應用走向規模化政務與民用市場普及。（央視新聞）
 
 ---
 
@@ -20993,281 +21233,5 @@ Swedish Jobless Rate Jumps to 17-Month High — Sweden’s unemployment rate jum
 ### 2026-07-24 14:09:59  #MKT News #Market Regions #Greater China
 
 【China Resources Group chairman change】July 23, 2026 — The Central Organization Department announced the CPC Central Committee's decision to appoint Wang Haimin as chairman of China Resources (Group) Co., Ltd. and to relieve Wang Xiangming of the chairmanship. Wang Haimin was also relieved of his chairmanship at Hong Kong China Travel Service (Group) Co. The announcement was made at a China Resources senior management meeting.
-
----
-
-### 2026-07-24 14:09:16  #焦點 #國際
-
-【伊外長：任何襲擊伊朗的源頭都將成防禦行動合法目標】當地時間24日，伊朗外交部長阿拉格齊表示，伊朗將把任何針對伊朗人民發動襲擊的源頭，視為伊朗武裝力量採取防禦行動的合法目標。阿拉格齊同時強調，任何參與、配合或協助對伊朗實施襲擊的行為，都將使相關方面承擔相應的國際責任。（央視新聞）
-
----
-
-### 2026-07-24 14:08:38  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DAX #WTI #Impact bullish
-
-【War uncertainty weighs on German consumer confidence】Escalation in the Middle East and rising oil prices have dented German consumer sentiment: GfK's August consumer confidence index fell to -29.6, below economists' forecasts, with July revised to -29.3 from -29.2. The survey attributed the decline mainly to weaker income expectations and a stronger propensity to save, saying consumers are pessimistic about their finances over the next 12 months. Purchase intentions and general economic expectations ticked up modestly. Rolf Buerkl, head of consumer confidence at the Nuremberg market research institute, said persistent uncertainty is keeping many households cautious on spending.
-
----
-
-### 2026-07-24 14:08:28  #市場
-
-起亞：韓元疲軟將緩解原材料價格上漲的影響。
-
----
-
-### 2026-07-24 14:08:19  #其他
-
-加拿大皇家銀行將Mobileye目標價從10美元下調至7美元。
-
----
-
-### 2026-07-24 14:07:42  #Trading Economics #Economy #United Kingdom #Retail Sales MoM #Importance 2
-
-UK Retail Sales Unexpectedly Rise — UK retail sales volumes increased 1.0% month-on-month in June 2026, defying market expectations of a 0.3% decline, though easing from a 1.2% increase in the previous month. Growth was driven by stronger non-store retail sales, as retailers reported that sales promotions and robust demand for sports merchandise, clothing, outdoor products, fans, and air conditioning equipment boosted activity. Clothing store sales rose 1.9%, marking their largest monthly increase since September 2025, supported by promotional discounts and warm weather. Meanwhile, other non-food stores also recorded solid performance, with art galleries posting strong sales and retailers broadly citing increased demand for seasonal goods due to the favorable weather. On an annual basis, retail sales rose 4.2%, surpassing market expectations of a 2.3% increase and accelerating from a 3.5% gain in May.
-
----
-
-### 2026-07-24 14:07:14  #公司
-
-【TVB宣佈正式更名為“無線集團”，由傳統電視臺升級為跨媒體娛樂集團，市場拓寬到大灣區】據TVB官方微博訊息，TVB宣佈正式更名為“無線集團”，由傳統電視臺升級為跨媒體娛樂集團。業務更多元化，擁抱創新AI技術，市場拓寬到大灣區。
-
----
-
-### 2026-07-24 14:07:07  #公司 #國際
-
-【日本再排7900噸核汙染水入海 超此前預計排放量】日本東京電力公司7月24日釋出訊息稱，本年度福島第一核電站第三輪核汙染水排海結束，本次排海量約7900噸，超出此前該公司公佈的預計排放量。本月2日，日本東電公司公佈的資料顯示，本輪核汙染水排放總量預計約7800噸，含放射性氚總量約1.3萬億貝克勒爾。（央視新聞）
-
----
-
-### 2026-07-24 14:06:06  #其他
-
-越南擬禁止16歲以下青少年在社交媒體上發帖。
-
----
-
-### 2026-07-24 14:05:19  #市場
-
-新臺幣兌美元下跌0.4%至32.396。
-
----
-
-### 2026-07-24 14:05:07  #MKT News #Market Themes #Chip Wars #MS.O #Impact bearish #000660.KS
-
-【MORGAN STANLEY passed over as sole lead on SK Hynix US ADR; internal fallout】MORGAN STANLEY was not selected as the sole lead underwriter for SK Hynix’s US ADR listing, a deal sized at about $26.5 billion (roughly 40 trillion won) — the largest foreign IPO in the US by scale. At an assumed 0.5% underwriting fee the commission totals roughly $130 million. The final syndicate is Bank of America, CITIGROUP, Goldman Sachs and JP Morgan. Inside MORGAN STANLEY the loss is viewed as a reputational setback; the bank had recently won mandates on SpaceX and ANTHROPIC and was a frontrunner for an OpenAI listing. Market participants largely attribute MORGAN STANLEY’s exclusion to its repeated bearish Korea semiconductor research, including a well-known “memory winter” analysis. Several bankers, including former MORGAN STANLEY executives, say the firm’s Seoul office increasingly believes those bearish reports may have cost the deal and that the office will be more cautious publishing similar views going forward.
-
----
-
-### 2026-07-24 14:05:01  #公司
-
-【新加坡GIC擬向對沖基金再投300億美元 看好全球宏觀、量化與多策略】新加坡主權財富基金新加坡政府投資公司(GIC Pte)未來三年將向對沖基金再投入300億美元，這將是對這個已蓬勃發展的行業最大規模的資金挹注之一。集團投資長Bryan Yeo表示，GIC過去十年投資對沖基金的規模已增長兩倍，但未透露具體金額。他指出，全球宏觀、量化和多策略對沖基金是GIC重點擴張的領域。根據Global SWF估計，GIC管理的資產規模約為9,360億美元。此舉將進一步鞏固GIC在對沖基金領域的重要地位。GIC早年就支援橋水基金及其創始人達利歐；最近從Jain Global撤資 ，後者幾個月前同意專門為Millennium Management管理資金。此外，GIC也投資了城堡投資和Viking Global Investors管理的基金。
-
----
-
-### 2026-07-24 14:04:58  #MKT News #Market Themes #The Trump Trade
-
-【Analyst: Trump's tariff threats louder but losing bite】The Trump administration has announced tariffs on about 60 economies of roughly 10–12.5%, yet evidence of market impact is limited. Polling shows roughly 60% of Americans lack confidence in the trade policy; manufacturing has not picked up despite some investment announcements. The recent narrowing of the goods deficit mainly reflects import front‑loading ahead of tariffs. Academic studies indicate exporters absorbed about 60% of tariff costs—US import prices stayed largely unchanged—and when US buyers switched suppliers an 8 percentage‑point tariff increase was associated with about a 5% drop in pre‑tariff import prices, roughly half caused by lower quality. Supreme Court rulings against some tariff measures and repeated unfulfilled threats have eroded the policy's deterrent effect.
-
----
-
-### 2026-07-24 14:04:52  #公司 #觀點 #國際
-
-【大摩錯失SK海力士在美上市承銷 投行內部反應激烈】摩根士丹利未被選為SK海力士美國存託憑證（ADR）上市的唯一主承銷商，該交易規模約265億美元（約40萬億韓元），為外資在美最大規模IPO，按0.5%承銷費率計算佣金約1.3億美元。最終承銷團由美銀、花旗、高盛和摩根大通組成。大摩此前曾拿下SpaceX、Anthropic等專案，並一度被視為OpenAI上市專案的熱門承銷行，因此此次落選被其內部視為一次聲譽打擊。業內普遍認為，大摩落選與其多次釋出看空韓國半導體報告有關，其中包括著名的“儲存寒冬”分析。包括大摩前高管在內的多名投行人士表示，首爾辦公室內部越來越多人認為，此前的看空報告可能讓公司失去了SK海力士這筆交易，因此今後在釋出相關觀點時需要更加謹慎。
-
----
-
-### 2026-07-24 14:04:49  #市場 #國際
-
-日本40年期國債收益率上升10個基點至4.01%。
-
----
-
-### 2026-07-24 14:04:38  #Trading Economics #Economy #Germany #Consumer Confidence #Importance 2
-
-German Consumer Mood Unexpectedly Weakens — Germany's GfK Consumer Climate Indicator edged down to -29.6 heading into August 2026 from a revised -29.3 in July, remaining at a low level and missing expectations for a modest improvement to -28.5. The slight deterioration reflected weaker income expectations, which fell by 2.3 points to -14.5 as consumers became less optimistic about their financial outlook, while the propensity to save increased by 3.1 points to 17.0, remaining historically elevated as households continued to favor saving amid persistent uncertainty. In contrast, willingness to buy rose by 3.5 points to -9.9, though it remained subdued, while economic expectations improved for a third consecutive month, rising by 2.4 points to -6.3 as pessimism eased. Nevertheless, most consumers still expected economic conditions to worsen over the next 12 months. Inflation concerns also increased after the expiry of the fuel subsidy pushed fuel prices higher.
-
----
-
-### 2026-07-24 14:02:19  #市場 #焦點
-
-菜粕連續主力合約日內漲2%，現報2425.00元。
-
----
-
-### 2026-07-24 14:00:52  #MKT News #DAX #EURUSD
-
-Sources said on Thursday that German Chancellor MERZ may announce a cabinet reshuffle on Friday.
-
----
-
-### 2026-07-24 14:00:21  #經濟數據 #歐元區
-
-德國8月Gfk消費者信心指數為-29.6，預期-28.5，前值由-29.2修正為-29.3。
-
----
-
-### 2026-07-24 14:00:17  #資料
-
-德國8月Gfk消費者信心指數 -29.6，預期-28.5，前值由-29.2修正為-29.3。
-
----
-
-### 2026-07-24 14:00:14  #資料
-
-英國6月季調後零售銷售月率 1%，預期-0.30%，前值1.20%。
-
----
-
-### 2026-07-24 14:00:12  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100 #DXY #Impact bearish
-
-UK June seasonally adjusted retail sales YoY 4.2% (expected 2.3%); May revised to 3.5% from 3.2%.
-
----
-
-### 2026-07-24 14:00:11  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
-
-UK June seasonally adjusted core retail sales YoY 5.4% (consensus 3.2%); May revised to 4.9% from 4.6%.
-
----
-
-### 2026-07-24 14:00:10  #資料
-
-英國6月季調後核心零售銷售年率 5.4%，預期3.20%，前值由4.60%修正為4.9%。
-
----
-
-### 2026-07-24 14:00:09  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
-
-UK seasonally adjusted core retail sales MoM +1.1% in June (est -0.4%); prior +1.20%.
-
----
-
-### 2026-07-24 14:00:09  #MKT News #Important #GBPUSD #Impact bullish #FTSE100
-
-UK June seasonally adjusted retail sales MoM +1.0% (consensus -0.3%); May +1.2%.
-
----
-
-### 2026-07-24 14:00:09  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact bearish #DAX #DXY #Impact bullish
-
-Germany August GfK consumer confidence index -29.6; consensus -28.5; prior revised to -29.3 from -29.2.
-
----
-
-### 2026-07-24 14:00:01  #MKT News #Economic Calendar #Important
-
-United Kingdom | Core Retail Sales (YoY) (Jun) | actual 5.4% | consensus 3.20% | previous 4.60%
-
----
-
-### 2026-07-24 14:00:01  #MKT News #Economic Calendar #Important
-
-United Kingdom | Core Retail Sales (MoM) (Jun) | actual 1.1% | consensus -0.4% | previous 1.20%
-
----
-
-### 2026-07-24 14:00:01  #MKT News #Economic Calendar #Important
-
-United Kingdom | Retail Sales (YoY) (Jun) | actual 4.2% | consensus 2.3% | previous 3.20%
-
----
-
-### 2026-07-24 14:00:01  #MKT News #Economic Calendar #Important
-
-United Kingdom | Retail Sales (MoM) (Jun) | actual 1% | consensus -0.30% | previous 1.20%
-
----
-
-### 2026-07-24 14:00:00  #其他
-
-【颱風“紅霞”趨近 交通運輸部啟動颱風三級防禦響應】中央氣象臺今早繼續釋出颱風橙色預警，交通運輸部已啟動颱風三級防禦響應。預計“紅霞”25日晚上至26日早晨在廣東珠海到福建漳浦一帶沿海登陸。交通運輸部嚴格落實災害天氣主動防禦措施，做到應停盡停、應關盡關、應撤盡撤；強化應急力量預置。交通運輸部也將根據天氣預警變化，及時調整防禦響應等級。
-
----
-
-### 2026-07-24 14:00:00  #MKT News #Economic Calendar #Important
-
-Germany | Gfk Consumer Confidence Survey (Aug) | actual -29.6 | consensus -28.5 | previous -29.2
-
----
-
-### 2026-07-24 13:59:36  #公司 #市場
-
-【貴金屬板塊持續走低 招金黃金跌超9%】貴金屬板塊午後持續走低，招金黃金跌超9%，盛龍股份、四川黃金、湖南白銀等股紛紛下挫。
-
----
-
-### 2026-07-24 13:59:13  #其他
-
-起亞汽車 第二季度營業利潤2.6萬億韓元，同比下降4.9%。
-
----
-
-### 2026-07-24 13:58:28  #MKT News #000270.KS #Impact bearish
-
-Kia Motors shares plunged 13% after the company released second-quarter financial results.
-
----
-
-### 2026-07-24 13:58:19  #其他
-
-起亞：考慮調整汽車價格以更好地與中國車企競爭。
-
----
-
-### 2026-07-24 13:58:05  #國際
-
-【美國防部公佈下調的對伊戰事美軍陣亡人數】美國國防部23日更新了美伊衝突中美軍陣亡人數，由此前公佈的18人下調至14人。據美國媒體報道，針對此次資料下調原因，美軍方內部說法與國防部給出的官方解釋相互矛盾。 美國國防部官網當天將美伊衝突中美軍陣亡人數調整為14人，其中7人被劃定為交戰陣亡。 美國國防部代理新聞秘書喬爾·瓦爾迪茲對《紐約時報》表示，此次資料變動為官網“臨時資料故障”所致，且相關問題將很快修復，並稱國防部“致力於保障所有傷亡通報資訊的準確”。 另據《紐約時報》援引3名匿名美軍官員的說法報道，作出上述修改，是因為日前在約旦身亡的3名美軍和在伊拉克北部身亡的1名美軍，其死亡時間均在美國總統特朗普4月宣佈美伊臨時停火之後，故此不再計入對伊戰事的美軍陣亡名單。 美國輿論表示，美伊停火協議破裂以來，美國防部甚少披露美方軍事部署情況，且公佈美軍人員傷亡相關資訊遲緩。包括民主黨聯邦參議員在內的批評人士認為，美政府有義務向公眾公開戰事進展相關情況。(新華社)
-
----
-
-### 2026-07-24 13:57:36  #公司
-
-【王海民任華潤（集團）有限公司董事長】7月23日，華潤（集團）有限公司召開中層以上管理人員大會。中央組織部有關負責同志宣佈了黨中央關於華潤（集團）有限公司董事長調整的決定：王海民同志任華潤（集團）有限公司董事長，免去其香港中旅（集團）有限公司董事長職務；免去王祥明同志的華潤（集團）有限公司董事長職務。相關職務任免，按有關法律和章程的規定辦理。
-
----
-
-### 2026-07-24 13:57:29  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Closes 0.2% Lower but Posts Weekly Gain — New Zealand's stocks dropped 23 points, or 0.2%, to close at 13,772 on Friday, mainly weighed down by declines in consumer discretionary, energy, healthcare, and financials. The broader index pulled back from a record high touched a day earlier as traders took profits, while tracking a decline on Wall Street overnight amid disappointing economic data and renewed doubts over AI spending. US plans to impose new tariffs ranging from 10% to 12.5% on 60 economies, including New Zealand, pressured sentiment. Persistently high oil prices also weighed on sentiment as inflation concerns fueled expectations of further interest rate hikes. Fletcher Building fell 2.9%, F&C Investment dropped 1.3%, Infratil shed 1.5%, Fisher & Paykel declined 1.2%, Henderson Far East Income went down 0.9%, and Freightways Group decreased 0.6%. For the week, the index rose 0.6% after falling last week.
-
----
-
-### 2026-07-24 13:57:00  #公司 #市場
-
-起亞股價在第二季度財報釋出後下跌13%。
-
----
-
-### 2026-07-24 13:56:35  #公司 #市場
-
-【染料塗料板塊走弱，閏土股份跌停】染料塗料板塊走弱，閏土股份跌停，善水科技、聯合化學、浙江龍盛、吉華集團、錦雞股份、福萊蒽特等跟跌。
-
----
-
-### 2026-07-24 13:56:19  #宏觀 #市場 #國際
-
-【美財政部報告認定“日元被嚴重低估”】美國財政部週四在華盛頓釋出半年度外匯報告，對日元持續疲軟發出警告。報告援引財政部資料稱，從2011年底至2026年4月底，日元無論按實際有效匯率還是兌美元匯率計算，均累計下跌約51%，據此認定＂日元被嚴重低估＂。（新華財經）
-
----
-
-### 2026-07-24 13:55:43  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Poised for Muted Open — European equity markets were set to open little changed on Friday after posting their steepest one-day decline in over two weeks in the previous session, as investors weighed elevated oil prices and fresh US tariffs. Brent crude held above $100 a barrel after escalating Middle East tensions heightened fears of deeper supply disruptions. Investors also assessed fresh US tariffs of 10%-12.5% on imports from most major trading partners, adding to uncertainty over the global trade outlook. Meanwhile, technology stocks were expected to remain under pressure, tracking the AI-driven selloff on Wall Street and in Asia. Attention now turns to the UK's retail sales data, Germany's GfK consumer confidence survey, and flash PMI readings across the region for fresh clues on economic momentum. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were broadly flat.
-
----
-
-### 2026-07-24 13:55:08  #公司
-
-【百億私募希瓦再出手自購】7月24日，海南希瓦釋出公告稱，基於對中國資本市場長期健康穩定發展的信心，公司希瓦自由之路系列基金經理徐大為當天使用自有資金申購希瓦私募旗下希瓦自由之路系列基金產品份額共計1000萬元。
-
----
-
-### 2026-07-24 13:54:58  #公司
-
-【國機集團副總經理範志超一行到訪中復神鷹】據中復神鷹訊息，7月21日，國機集團副總經理範志超一行到訪中復神鷹並座談。雙方一致認為，高效能碳纖維是航空航天、新能源領域核心戰略材料，材料研發與裝備製造密不可分。中復神鷹專注碳纖維自主研發生產，國機集團、鄭紡機擁有高階成套裝備製造優勢，產業鏈互補、合作空間廣闊。下一步，雙方將建立常態化長效溝通機制，持續深化裝備聯合開發、技術資源共享等多維度合作，合力突破國產碳纖維高階裝備瓶頸，加速先進複合材料在高階製造領域普及應用。
-
----
-
-### 2026-07-24 13:54:35  #公司
-
-【SK海力士清州P&T7潔淨室將提前三個月投入使用】SK海力士正在加快其清州P&T7先進半導體封裝工廠的建設，將其首個潔淨室的啟用時間提前了約三個月。據業內人士7月23日透露，SK海力士目前預計最早將於2027年7月啟用位於P&T7的首個潔淨室。該公司此前曾宣佈的目標是2027年10月。一位業內人士透露：“SK海力士近期提前啟動了P&T7潔淨室公用設施和基礎設施專案的招標工作。公司內部預計，潔淨室的啟用時間將比原計劃提前約一個季度。”部分裝置相關的招標專案未能吸引到投標人，目前正在重新發布。業內人士預計，所有公用設施基礎設施的招標工作最遲將於8月左右完成。 (the elec)
 
 ---
