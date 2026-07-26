@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-27 02:46:25",
+  "updated": "2026-07-27 02:50:20",
   "count": 18015,
   "items": [
+    {
+      "id": "5008688",
+      "time": "2026-07-27 02:48:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐洲太空公司The Exploration Company Gmbh正洽談籌資至少3億美元，估值20億美元。"
+    },
+    {
+      "id": "mkt:019f9fc0-7fcc-7aab-8e9c-01af3178d8c4",
+      "time": "2026-07-27 02:47:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【SpaceX European rival The Exploration Company in talks to raise $300m】The Exploration Company GmbH is negotiating to raise at least $300m, including part of the financing from the EU’s European Scale‑up Fund, in a deal that would value the company at over $2bn. The round is not finalised and is earmarked to support development of Europe’s first reusable space capsule to ferry cargo to the ISS and planned successor stations. The company previously raised about $160m in 2024 with French and German government‑backed support, funding development of its Nyx reusable capsule."
+    },
     {
       "id": "5008687",
       "time": "2026-07-27 02:43:56",
@@ -165035,22 +165054,6 @@
         "Brent"
       ],
       "text": "Syria has emerged as a regional hub for Iraqi fuel oil exports, with more than a quarter of Middle East fuel oil shipments transiting Syrian Mediterranean ports, Syrian state news agency reports. The US is supporting efforts to open alternative transport routes to bypass the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019f7bb4-170f-7aab-8dfa-6560cf5690c0",
-      "time": "2026-07-20 02:47:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Wildfire in France's Var department】A wildfire broke out in France's Var department on July 19. As of 18:45 local time the blaze had burned about 180 hectares, forced the evacuation of roughly 160 residents and damaged multiple homes. Authorities deployed about 285 firefighters and firefighting helicopters. Several roads were closed and rail services between Toulon and Nice were suspended."
-    },
-    {
-      "id": "4996263",
-      "time": "2026-07-20 02:46:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫：響應最高領袖關於“神聖團結”的號召，是伊朗在面對敵人時取得成功的關鍵。"
     }
   ]
 }
