@@ -1,7 +1,52 @@
 {
   "date": "2026-07-27",
-  "count": 152,
+  "count": 156,
   "items": [
+    {
+      "id": "mkt:019fa0a4-d3c8-7aab-8e9c-f5d30257d175",
+      "time": "2026-07-27 06:56:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "035420.KS"
+      ],
+      "text": "South Korea’s internet portal operator Naver said NVIDIA (NVDA.O) will acquire a US$1 billion stake in the company."
+    },
+    {
+      "id": "mkt:019fa0a4-44b9-7aab-8e9c-ec0325b89bf3",
+      "time": "2026-07-27 06:55:47",
+      "tags": [
+        "MKT News",
+        "035420.KS",
+        "Impact bullish"
+      ],
+      "text": "Naver will cancel treasury shares worth 1 trillion won."
+    },
+    {
+      "id": "5008757",
+      "time": "2026-07-27 06:55:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱控制一定居點 烏稱襲擊俄油氣設施】當地時間26日，俄羅斯國防部通報稱，過去24小時內，俄軍在頓涅茨克地區控制了1個定居點，並打擊了烏軍無人機車間、物流中心、能源和交通基礎設施等目標。烏克蘭武裝部隊總參謀部同日通報稱，烏軍對位於克里米亞地區的俄羅斯油氣設施、無人機地面中繼站等目標發動了襲擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fa0a2-25ce-7aab-8e9c-e1e0cc02d478",
+      "time": "2026-07-27 06:53:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Odds of a new ceasefire between the US and Iran appear to have risen after reports that US President Trump decided to pause recent strikes on southern Iran. Traders on prediction market Polymarket price a 75% probability of a ceasefire by Aug. 31, 2026."
+    },
     {
       "id": "5008756",
       "time": "2026-07-27 06:49:26",

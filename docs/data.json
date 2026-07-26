@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-27 06:53:17",
-  "count": 17989,
+  "updated": "2026-07-27 06:57:11",
+  "count": 17992,
   "items": [
+    {
+      "id": "mkt:019fa0a4-d3c8-7aab-8e9c-f5d30257d175",
+      "time": "2026-07-27 06:56:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "035420.KS"
+      ],
+      "text": "South Korea’s internet portal operator Naver said NVIDIA (NVDA.O) will acquire a US$1 billion stake in the company."
+    },
+    {
+      "id": "mkt:019fa0a4-44b9-7aab-8e9c-ec0325b89bf3",
+      "time": "2026-07-27 06:55:47",
+      "tags": [
+        "MKT News",
+        "035420.KS",
+        "Impact bullish"
+      ],
+      "text": "Naver will cancel treasury shares worth 1 trillion won."
+    },
+    {
+      "id": "5008757",
+      "time": "2026-07-27 06:55:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱控制一定居點 烏稱襲擊俄油氣設施】當地時間26日，俄羅斯國防部通報稱，過去24小時內，俄軍在頓涅茨克地區控制了1個定居點，並打擊了烏軍無人機車間、物流中心、能源和交通基礎設施等目標。烏克蘭武裝部隊總參謀部同日通報稱，烏軍對位於克里米亞地區的俄羅斯油氣設施、無人機地面中繼站等目標發動了襲擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fa0a2-25ce-7aab-8e9c-e1e0cc02d478",
+      "time": "2026-07-27 06:53:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Odds of a new ceasefire between the US and Iran appear to have risen after reports that US President Trump decided to pause recent strikes on southern Iran. Traders on prediction market Polymarket price a 75% probability of a ceasefire by Aug. 31, 2026."
+    },
     {
       "id": "5008756",
       "time": "2026-07-27 06:49:26",
@@ -164807,18 +164852,6 @@
         "其他"
       ],
       "text": "【經濟日報金觀平：著力破解人才用工適配難】文章指出，細看當下就業市場，一面是高校畢業生規模持續增長，一面是不少企業求賢若渴卻招不到適配人才，“有人沒活幹”“有活沒人幹”同時存在。這種人才供需雙向承壓的“兩頭難”現象表明，人才供需銜接的“最後一公里”仍存梗阻。因此，要進一步完善人才培養與經濟社會發展需求適配機制，提升人才培養質效。當前，人工智慧加速重塑勞動力市場。新技術催生新崗位，各類傳統工種不斷迭代，單一技能勞動力需求下降，兼具實操、創新能力的複合型人才缺口擴大。完善供需匹配機制，助力勞動者快速適應崗位、平穩應對職業迭代與轉換，是化解就業結構性矛盾、適配產業發展的應有之義。"
-    },
-    {
-      "id": "te:economy:567994",
-      "time": "2026-07-20 06:56:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Balance of Trade",
-        "Importance 2"
-      ],
-      "text": "New Zealand Trade Surplus Below Estimates — New Zealand's trade surplus declined to NZD 0.02 billion in June 2026, down from NZD 0.2 billion in the same month a year earlier and below estimates of NZD 0.25 billion, as exports grew less than imports. Exports rose 25% year-on-year to NZD 8.1 billion, while imports jumped 28% year-on-year to NZD 8.1 billion."
     }
   ]
 }
