@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 21:11:37",
-  "count": 18074,
+  "updated": "2026-07-26 21:15:45",
+  "count": 18064,
   "items": [
+    {
+      "id": "5008588",
+      "time": "2026-07-26 21:13:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南鄭州升級釋出暴雨橙色預警】鄭州市氣象臺7月26日20時27分將暴雨黃色預警訊號升級為暴雨橙色預警訊號：預計未來3小時，中原區、二七區、管城回族區、金水區、經開區、高新區、鄭東新區等鄉鎮和街道降雨量將達70毫米以上，請注意防範強降雨引發的城市內澇等次生災害。（央視新聞）"
+    },
     {
       "id": "mkt:019f9e8b-a402-7aab-8e9a-4859aa7d34f5",
       "time": "2026-07-26 21:09:39",
@@ -165504,97 +165512,6 @@
         "國際"
       ],
       "text": "【科威特稱其發電及海水淡化廠三日內連續遭襲】科威特電力、水利和可再生能源部19日發表宣告說，該國17日遭襲的發電及海水淡化廠當天再次遭到襲擊。這是該國三天內第三次有發電及海水淡化廠遭襲。 該部門當天在社交媒體發表宣告說，襲擊由伊朗發動，導致廠區起火併造成大量發電機組執行受影響。科威特政府立即啟動應急預案，全力控制損失，維護國家電網穩定執行。 宣告同時呼籲當地民眾節約用電，以減輕電力系統負荷。 該部門18日表示，該國當天有發電及海水淡化廠受到襲擊並引發火災。 19日早些時候，科威特武裝部隊表示，其防空系統“正在攔截敵方的導彈和無人機襲擊”。（新華社）"
-    },
-    {
-      "id": "4996140",
-      "time": "2026-07-19 21:15:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "賴特：將採取一切措施，在數週、數月內壓低能源價格。"
-    },
-    {
-      "id": "4996139",
-      "time": "2026-07-19 21:15:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音表示，寬體客機的增產進度受發動機產能制約。"
-    },
-    {
-      "id": "4996138",
-      "time": "2026-07-19 21:14:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【包鋼股份產品成功進入國內戶用光伏領域龍頭企業採購名單】日前，記者從包鋼股份營銷中心獲悉，包鋼股份鋅鋁鎂鍍層產品成功進入國內戶用光伏領域龍頭企業採購名單，並獲得3480噸供貨訂單。"
-    },
-    {
-      "id": "4996137",
-      "time": "2026-07-19 21:14:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：阿拉伯灣地區原油日出口量略低於1400萬桶。"
-    },
-    {
-      "id": "mkt:019f7a82-81f5-7aab-8df8-2a2b4a1b5208",
-      "time": "2026-07-19 21:13:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Jingke Technology, SenseTime agree compute-power coordination strategic partnership】On July 19 Jingke Technology and SenseTime’s Big Device unit signed a strategic agreement to jointly build a compute-power coordination ecosystem targeting source–grid–load–storage integration, aiming to deepen integration between energy systems and AI infrastructure."
-    },
-    {
-      "id": "4996136",
-      "time": "2026-07-19 21:12:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "賴特：目前已有更大噸位油輪經霍爾木茲海峽通行。"
-    },
-    {
-      "id": "mkt:019f7a81-b1fe-7aab-8df8-25e9337a6a42",
-      "time": "2026-07-19 21:12:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Energy Secretary Wright said ships will continue to transit the strait along two routes."
-    },
-    {
-      "id": "mkt:019f7a81-8b99-7aab-8df8-1a39c9d9c575",
-      "time": "2026-07-19 21:12:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "U.S. Energy Secretary Wright said the U.S. will ensure oil shipments through the Strait of Hormuz regardless of whether Iran provides assistance. He said the seven-day truncated mean of flows through the strait is below 7 mln bpd."
-    },
-    {
-      "id": "4996135",
-      "time": "2026-07-19 21:12:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音：飛機內飾、推進系統仍存在供應鏈問題。"
-    },
-    {
-      "id": "4996134",
-      "time": "2026-07-19 21:11:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【晶科科技與商湯科技達成算電協同戰略合作】7月19日，晶科科技同商湯科技旗下商湯大裝置正式簽署戰略協議，共建面向源網荷儲一體化的算電協同生態，推動能源系統與AI基礎設施深度融合。"
-    },
-    {
-      "id": "4996133",
-      "time": "2026-07-19 21:11:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音表示供應鏈仍存在一定波動。"
     }
   ]
 }
