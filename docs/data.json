@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 12:52:22",
-  "count": 18187,
+  "updated": "2026-07-26 12:56:17",
+  "count": 18186,
   "items": [
+    {
+      "id": "5008346",
+      "time": "2026-07-26 12:54:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“大空頭”邁克爾·伯裡據悉加碼做空美光和英偉達】“大空頭”邁克爾·伯裡繼續做空美光、英偉達和其他半導體公司。伯裡在一篇Substack帖子中表示，他在933.86美元價位進一步做空了美光科技，並在210.28美元價位增持了英偉達(NVDA.O)的空頭頭寸。伯裡還以893.49美元的價格進一步做空了卡特彼勒，並以535.83美元的價格增持了iShares半導體ETF的空頭頭寸。"
+    },
     {
       "id": "mkt:019f9cbf-f807-7aab-8e98-c0a913caf6e8",
       "time": "2026-07-26 12:47:34",
@@ -166561,22 +166569,6 @@
         "公司"
       ],
       "text": "【全球首款AI智慧體手機努比亞NaviX Ultra亮相WAIC】搭載豆包手機助手的全球首款AI智慧體手機努比亞NaviX Ultra在WAIC期間正式亮相。中興通訊高階副總裁、努比亞總裁倪飛在接受採訪時表示，豆包擁有領先的大模型和智慧體能力，努比亞則擁有軟體、硬體、產品工程、質量管理、渠道和使用者服務等方面的長期積累，從M153到現在的NaviX Ultra，雙方的合作即將走過完整的技術驗證和產品迭代週期。"
-    },
-    {
-      "id": "4995850",
-      "time": "2026-07-19 12:54:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海釋出中心城區雷電黃色預警訊號】上海市氣象臺2026年07月19日12時42分發布中心城區雷電黃色預警訊號：預計今天半夜以前，中心城區大部將發生雷電活動，可能會造成雷電災害事故，請注意防範。"
-    },
-    {
-      "id": "mkt:019f78b8-a601-7aab-8df5-1003cedea8ce",
-      "time": "2026-07-19 12:53:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Samsung Electronics America lays off staff ahead of HQ move; most offered transfers】According to filings and two people familiar with the matter, Samsung Electronics America has cut roles in its display, mobile and other consumer-electronics units, mainly in New Jersey and Texas. About 739 positions at the Englewood Cliffs, New Jersey site are affected as SEA prepares to move its U.S. headquarters to Texas. SEA covers consumer electronics and does not include Samsung’s chip unit. The company said most affected employees were offered transfer opportunities; others were eliminated. One person who said they were laid off put the number at roughly 100 dismissed at SEA’s Plano, Texas office, including mobile staff. While tied to the HQ relocation, the cuts underscore a divergence within Samsung: the chip division has seen record profit gains while consumer electronics are under pressure from rising chip costs."
     }
   ]
 }
