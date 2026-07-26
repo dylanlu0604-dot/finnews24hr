@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 23:57:36",
-  "count": 18050,
+  "updated": "2026-07-27 00:02:10",
+  "count": 18049,
   "items": [
+    {
+      "id": "5008656",
+      "time": "2026-07-26 23:59:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大將以觀察員身份加入英國、日本、義大利聯合開展的下一代戰鬥機專案。"
+    },
     {
       "id": "5008655",
       "time": "2026-07-26 23:53:26",
@@ -165333,23 +165341,6 @@
         "MKT News"
       ],
       "text": "Financial Times reports incoming UK prime minister Burnham will uphold Labour’s controversial ban on new North Sea exploration licences, dashing oil and gas industry hopes for a substantial shift in fossil-fuel policy."
-    },
-    {
-      "id": "4996204",
-      "time": "2026-07-19 23:59:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【富創精密：上半年淨利同比預增877%-1122% 半導體裝置核心零部件需求提升公司產能釋放】富創精密(688409.SH)公告稱，預計上半年實現營業收入21億元到25億元，同比增長21.83%到45.03%；歸屬於上市公司股東的淨利潤1.20億元-1.50億元，同比增長877.49%-1121.86%。業績變動主要系境內外晶圓製造企業持續推進產能建設，帶動半導體裝置核心零部件市場需求提升，同時公司各生產基地產能逐步釋放，單位制造成本最佳化。公司Q2淨利潤預計0.62億-0.92億，Q1淨利潤0.58億，據此計算，Q2淨利潤預計環比增長7%-58%。"
-    },
-    {
-      "id": "mkt:019f7b19-ebb6-7aab-8df9-5c83f1af44a8",
-      "time": "2026-07-19 23:58:44",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Tasnim News Agency reports Iran says the explosion in Abadan was related to Iranian military operations and was not a U.S. attack."
     }
   ]
 }
