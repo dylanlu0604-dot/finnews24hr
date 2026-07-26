@@ -1,7 +1,15 @@
 {
   "date": "2026-07-27",
-  "count": 18,
+  "count": 19,
   "items": [
+    {
+      "id": "mkt:019f9f53-d797-7aab-8e9b-84c2b262eab6",
+      "time": "2026-07-27 00:48:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's embassy in France said the Strait of Hormuz is a heritage passed down through generations."
+    },
     {
       "id": "5008665",
       "time": "2026-07-27 00:42:22",
