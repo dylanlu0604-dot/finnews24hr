@@ -1,7 +1,35 @@
 {
   "date": "2026-07-26",
-  "count": 666,
+  "count": 669,
   "items": [
+    {
+      "id": "mkt:019f9ef7-b7ee-7aab-8e9a-bb0eacbb3093",
+      "time": "2026-07-26 23:07:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CBS News, citing sources, reports the US has paused airstrikes on Iran after Omani officials traveled to Tehran on Friday for talks."
+    },
+    {
+      "id": "5008632",
+      "time": "2026-07-26 23:07:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：我方從未謀求在北極製造對立衝突，相反，我們一直邀請各國依據國際法開展合作。"
+    },
+    {
+      "id": "5008631",
+      "time": "2026-07-26 23:05:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：由於阿曼官員週五前往德黑蘭舉行會談，美國已暫停對伊朗的轟炸行動。"
+    },
     {
       "id": "mkt:019f9ef1-dcf7-7aab-8e9a-b0fed40114d2",
       "time": "2026-07-26 23:01:18",

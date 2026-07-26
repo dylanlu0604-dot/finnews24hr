@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-26 23:04:50",
+  "updated": "2026-07-26 23:09:00",
   "count": 18037,
   "items": [
+    {
+      "id": "mkt:019f9ef7-b7ee-7aab-8e9a-bb0eacbb3093",
+      "time": "2026-07-26 23:07:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CBS News, citing sources, reports the US has paused airstrikes on Iran after Omani officials traveled to Tehran on Friday for talks."
+    },
+    {
+      "id": "5008632",
+      "time": "2026-07-26 23:07:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：我方從未謀求在北極製造對立衝突，相反，我們一直邀請各國依據國際法開展合作。"
+    },
+    {
+      "id": "5008631",
+      "time": "2026-07-26 23:05:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：由於阿曼官員週五前往德黑蘭舉行會談，美國已暫停對伊朗的轟炸行動。"
+    },
     {
       "id": "mkt:019f9ef1-dcf7-7aab-8e9a-b0fed40114d2",
       "time": "2026-07-26 23:01:18",
@@ -165222,35 +165250,6 @@
         "DXY"
       ],
       "text": "【Iran says it shot down US LUCAS drone】Al Jazeera reported Iran's military said its naval air-defence systems intercepted and shot down a US LUCAS drone over southern Iran; state news agency IRNA released a photograph of an apparently damaged drone. LUCAS is a low-cost unmanned combat-attack system/loitering munition used as a suicide drone, and the US first deployed it earlier this year in operations targeting Iran."
-    },
-    {
-      "id": "4996188",
-      "time": "2026-07-19 23:06:15",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗稱阿巴丹爆炸事件與伊朗軍隊行動有關，並非美國空襲。"
-    },
-    {
-      "id": "4996187",
-      "time": "2026-07-19 23:05:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【傳音控股：2026年上半年營收356.57億元 淨利潤同比增44.82%】傳音控股公告稱，預計2026年半年度實現營業收入356.57億元左右，同比增長22.63%；歸屬於母公司所有者的淨利潤17.56億元左右，同比增長44.82%；扣非淨利潤15.32億元左右，同比增長70.71%。業績增長因儲存價格增長，產品價格相應調整，平均售價上漲，且成本上漲滯後，毛利率提升。"
-    },
-    {
-      "id": "mkt:019f7ae9-1c95-7aab-8df9-04cdf7a64d88",
-      "time": "2026-07-19 23:05:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Moonshot AI Kimi pauses new consumer subscriptions citing compute shortage】Moonshot AI’s Kimi said effective immediately it will suspend new consumer subscriptions and allocate all available compute to serve existing subscribers, assuring current subscribers’ rights will not be affected. The firm said it is accelerating compute-capacity expansion and will progressively reopen subscription slots as new capacity comes online until normal subscription levels resume. Future new subscribers will see Kimi’s core benefits (Kimi Web, Kimi APP, Kimi Work) separated from Kimi Code benefits to allow more precise compute allocation and protect user experience."
     }
   ]
 }
