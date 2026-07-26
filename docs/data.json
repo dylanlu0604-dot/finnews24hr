@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-26 09:11:51",
-  "count": 18170,
+  "updated": "2026-07-26 09:15:47",
+  "count": 18173,
   "items": [
+    {
+      "id": "mkt:019f9bfd-5daf-7aab-8e97-dcc15bdfa325",
+      "time": "2026-07-26 09:15:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangdong raises disaster emergency response to level three】Guangdong Provincial Disaster Reduction Commission raised the province’s disaster‑relief emergency response from level four to level three at 04:00 on July 26, citing current provincial disaster conditions and pursuant to the Guangdong Natural Disaster Relief Emergency Plan."
+    },
+    {
+      "id": "mkt:019f9bfd-4275-7aab-8e97-d58174a2ea68",
+      "time": "2026-07-26 09:14:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SK Hynix's Chey Tae-won: South Korea must become an \"AI-native\" country】Chey Tae-won, head of SK Hynix, said South Korea must become an \"AI-native\" country, targeting \"each person to have at least one AI agent,\" which would make Korea a global AI testing ground. He said SK Group will increase R&D investment to support AI development and stressed cutting AI costs is critical, calling current costs \"too high.\" He said Korea can lower costs by scaling storage-chip production and building more AI data centers, aiming to position the country as a global AI data-center hub linking the US, Europe and Asia."
+    },
+    {
+      "id": "5008239",
+      "time": "2026-07-26 09:14:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年長江干線港口集裝箱吞吐量1421.8萬標箱】從交通運輸部長江航務管理局（以下簡稱“長航局”）獲悉，今年上半年，長江干線港口完成集裝箱吞吐量1421.8萬標箱，同比增長3.9%。"
+    },
+    {
+      "id": "5008238",
+      "time": "2026-07-26 09:13:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【油價預計7月31日上調】7月31日24時，國內成品油價格將迎調整。 本次油價10個工作日的統計週期，已經進行了50%的時間，受到今天國際油價大漲的影響，目前原油變化率達到：14.64%，預計上調油價780元/噸，根據目前的預期漲幅，下週汽柴油價格將會繼續大漲0.59元/升-0.70元/升。（極目新聞）"
+    },
+    {
+      "id": "5008237",
+      "time": "2026-07-26 09:12:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今年上半年韓國汽車出口量同比增長2.1%】韓國汽車與移動產業協會資料顯示，今年上半年韓國汽車出口量同比增長2.1%，達到144.1萬輛。該機構預計，韓國下半年國內汽車銷量將同比增長2.7%，達到86.5萬輛，全年銷量將達到171萬輛。"
+    },
+    {
+      "id": "5008236",
+      "time": "2026-07-26 09:11:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "蔚來：截至今日，蔚來全國建成9,112座充換電站，其中換電站3,983座，充電站5,129座、充電樁29,614根，累計提供超1.1億次換電。"
+    },
     {
       "id": "5008235",
       "time": "2026-07-26 09:10:43",
@@ -166441,30 +166491,6 @@
         "其他"
       ],
       "text": "【知乎Tech Club新知科技大會落地WAIC 2026】7月17日-20日，2026世界人工智慧大會（WAIC 2026）在上海召開。記者瞭解到，知乎在浦東、徐匯兩大展區設定展位，以“AI的最後一公里，還要走多久”為主題的第二屆Tech Club新知科技大會也落地WAIC 2026，各領域專家、開發者、答主齊聚，將AI前沿探索從理論推向真實使用與創造，為全球人工智慧盛會增加獨特的觀點碰撞和觀察視野。（澎湃）"
-    },
-    {
-      "id": "mkt:019f77ef-3211-7aab-8df3-fdfcf4f728b5",
-      "time": "2026-07-19 09:13:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【High-level global AI governance meeting held in Shanghai】The 2026 World Artificial Intelligence Conference and High-Level Meeting on Global AI Governance convened in Shanghai on July 18, with dozens of government agency representatives discussing global governance challenges, widening access and sharing of AI technologies, and mitigating AI security risks. China urged support for the UN Global AI Governance Dialogue and the International AI Science Panel to play an active role, provide more international public goods, help strengthen capacity building in the Global South and advance a broadly consensual global AI governance framework; the proposals drew positive responses."
-    },
-    {
-      "id": "4995760",
-      "time": "2026-07-19 09:12:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：烏克蘭無人機襲擊俄羅斯斯塔夫羅波爾邊疆區米哈伊洛夫斯克一處油庫。"
-    },
-    {
-      "id": "4995759",
-      "time": "2026-07-19 09:11:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【簡智機器人與速騰聚創達成戰略合作】7月19日，WAIC 2026展會期間，簡智機器人與RoboSense速騰聚創共同宣佈達成戰略合作。雙方將圍繞真實世界多視角Ego資料採集等業務展開協同，共同建設高質量、多模態三維物理世界資料體系。"
     }
   ]
 }
