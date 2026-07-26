@@ -1,7 +1,94 @@
 {
-  "updated": "2026-07-26 16:00:38",
-  "count": 18185,
+  "updated": "2026-07-26 16:04:45",
+  "count": 18193,
   "items": [
+    {
+      "id": "mkt:019f9d73-6d6b-7aab-8e99-6cfff8153934",
+      "time": "2026-07-26 16:03:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kyodo: Prime Minister Takaichi's cabinet approval rating fell to 53.7%, the lowest since formation."
+    },
+    {
+      "id": "5008452",
+      "time": "2026-07-26 16:03:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【迅遊科技：海知天、海貴天擬合計4000萬元—8000萬元增持公司股份】迅遊科技(300467)7月26日公告，公司合計持股5%以上股東重慶海運天企業管理有限公司（簡稱“海運天”）及重慶海行天企業管理有限公司（簡稱“海行天”）的一致行動人重慶海知天科技合夥企業（有限合夥）（簡稱“海知天”）、重慶海貴天企業管理合夥企業（有限合夥）（簡稱“海貴天”）計劃6個月內增持公司股份，海知天、海貴天擬合計增持不低於4000萬元（含），不超過8000萬元（含），其中海知天、海貴天擬分別增持不低於2000萬元（含），此次增持不設定固定價格區間。"
+    },
+    {
+      "id": "5008451",
+      "time": "2026-07-26 16:03:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【馬斯克警告SpaceX空頭風險】本週特斯拉由於二季度業績不及預期，財報釋出後的第二天股價大跌約14.5%，市值蒸發了約2145億美元。而馬斯克的另一家太空探索技術公司SpaceX目前距離首次公開募股過去一個多月，股價跌破了發行價，並且押注其股價下跌的投資者還在不斷增加。資料顯示，目前SpaceX的空頭倉位已上升至流通股的約32%。對此，馬斯克警告稱，長期維持SpaceX大規模空頭倉位的機構，“生存機率非常低”。現在市場還在關注的就是SpaceX和特斯拉是否可能合併，對此馬斯克在財報會上既沒有承認，也沒有否認，只是表示兩家公司之間的業務重疊會越來越多。目前部分華爾街的分析人士越來越看好兩家公司最終將達成交易。（央視財經）"
+    },
+    {
+      "id": "mkt:019f9d72-3896-7aab-8e99-661950fbc245",
+      "time": "2026-07-26 16:02:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "2222.SR",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Saudi Aramco shares fall after Houthi strikes on oil facilities】Saudi Aramco shares fell as much as 1.0% in early Sunday trading to SAR26.56 after Yemen’s Houthi forces struck two Aramco oil facilities in Jizan and Yanbu, stoking concern about potential operational and infrastructure disruption. The stock is still about 11.8% higher year-to-date. LSEG data show 17 brokers cover the stock; 10 rate it buy or higher and seven hold, with a median price target of SAR30.80, implying roughly 16% upside from the intraday low."
+    },
+    {
+      "id": "5008450",
+      "time": "2026-07-26 16:01:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商局集團黨委書記繆建民部署颱風“紅霞”防禦工作】招商局集團有限公司微信公眾號26日下午發文稱，招商局集團黨委書記、董事長繆建民7月25日對今年第12號颱風“紅霞”防禦工作提出明確要求，強調堅決守住安全底線，全力保障人員財產安全。"
+    },
+    {
+      "id": "5008449",
+      "time": "2026-07-26 16:01:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本高市內閣支援率跌至53.7%"
+    },
+    {
+      "id": "mkt:019f9d70-eb3b-7aab-8e99-5b73af59d411",
+      "time": "2026-07-26 16:00:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "African Development Bank head of climate says African countries need up to $50 billion in additional climate financing this year to help address climate change."
+    },
+    {
+      "id": "mkt:019f9d70-d124-7aab-8e99-5640d1d9e1c4",
+      "time": "2026-07-26 16:00:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "African Development Bank climate chief says a super El Nifio could cause $10–20 billion in economic losses for affected African countries."
+    },
+    {
+      "id": "mkt:019f9d70-b1d3-7aab-8e99-4d8a9d88c263",
+      "time": "2026-07-26 16:00:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "African Development Bank climate chief says a super El Nifio event threatens to trigger large-scale displacement from Sudan, Mali, Somalia, the Democratic Republic of the Congo and Nigeria."
+    },
+    {
+      "id": "5008448",
+      "time": "2026-07-26 16:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "非洲開發銀行氣候事務主管表示，超級厄爾尼諾現象可能給受影響非洲國家造成合計100億至200億美元經濟損失。非洲國家今年將需要額外籌集至多500億美元氣候資金，以協助適應氣候變化。"
+    },
     {
       "id": "5008447",
       "time": "2026-07-26 15:58:25",
@@ -166540,24 +166627,6 @@
         "AI Revolution"
       ],
       "text": "【Thailand PM Anutin arrives in Beijing】Thailand Prime Minister Anutin arrived in Beijing on July 19 as part of an official visit to China running July 16-20. The trip is his first official visit to China since taking office. He earlier attended the 2026 World Artificial Intelligence Conference and the High-Level Global AI Governance meeting in Shanghai and visited Sichuan."
-    },
-    {
-      "id": "mkt:019f7966-816d-7aab-8df5-e5288c471f49",
-      "time": "2026-07-19 16:03:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanxi issues 2026–2030 plan to expand and upgrade services】Shanxi provincial government office issued a 2026–2030 action plan to expand and upgrade the province's service sector. By 2028 the plan aims for producer services to move up the value chain toward greater specialization and high-end functions, to establish replicable integration models linking advanced manufacturing and modern services, and to develop higher-quality, diversified, convenient consumer services alongside new digitalized, integrated service formats. By 2030 it targets clear gains in service quality and efficiency, faster growth in service R&D and innovation, cultivation of leading firms and competitive service brands, rising high-value service trade exports, and service sector value-added aimed to surpass 1.8 trillion yuan as a high-quality, efficient service system is formed."
-    },
-    {
-      "id": "4995944",
-      "time": "2026-07-19 16:02:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【泰國總理阿努廷抵達北京】7月19日，泰國總理阿努廷抵達北京，繼續對中國的正式訪問。 阿努廷應邀於7月16日至20日對中國進行正式訪問，這是阿努廷就任泰國總理後首次正式訪華。抵京前，阿努廷在上海出席了2026世界人工智慧大會暨人工智慧全球治理高階別會議，併到四川省參訪。（新華社）"
     }
   ]
 }
