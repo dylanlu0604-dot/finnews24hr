@@ -1,7 +1,33 @@
 {
   "date": "2026-07-26",
-  "count": 197,
+  "count": 200,
   "items": [
+    {
+      "id": "mkt:019f9be3-9a37-7aab-8e97-90ed0fdfdd61",
+      "time": "2026-07-26 08:46:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea's Lee urges US venture capital to expand investments in Korean tech】South Korea's Lee urged US venture capital firms to deepen cooperation and increase investment in South Korean technology, saying ties should extend beyond the security alliance to cover technology, innovation and startups. He pledged visa reforms to attract overseas entrepreneurial talent, promised to establish collaboration frameworks among domestic and foreign companies, research institutes and investors, and said Seoul will link private and government-managed funds to help startups scale into globally competitive firms."
+    },
+    {
+      "id": "mkt:019f9be2-e432-7aab-8e97-8c05ce3ebd9b",
+      "time": "2026-07-26 08:46:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China's first low-altitude smart logistics large model deployed in Zhengzhou】On July 24 in Zhengzhou High-tech Zone, Jiafei Aviation deployed what it describes as China’s first low-altitude smart logistics large model. Developed by Jiafei Aviation Institute’s air-space-ground integrated laboratory, the platform integrates software and hardware and combines air/space/ground data fusion, intelligent scheduling, heavy-load operations and risk alerts. It supports payloads up to 200 kg and is marketed as adaptable to full scenarios including emergency rescue, mountain infrastructure and rural logistics, signaling a shift from single-drone manual control to AI-enabled, scalable and scenario-driven heavy-drone logistics."
+    },
+    {
+      "id": "5008221",
+      "time": "2026-07-26 08:43:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【坦尚尼亞加強防疫 防止埃博拉病毒輸入】當地時間25日，剛果（金）衛生部公佈該國埃博拉確診病例達到2973例，死亡1309例。為了防止病毒輸入，剛果（金）的鄰國已紛紛升級了防疫措施。近日，總檯記者探訪了坦尚尼亞的邊境城市基戈馬，當地正在港口和機場加強防疫。（央視新聞）"
+    },
     {
       "id": "5008220",
       "time": "2026-07-26 08:43:04",
