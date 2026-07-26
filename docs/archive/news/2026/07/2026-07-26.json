@@ -1,7 +1,15 @@
 {
   "date": "2026-07-26",
-  "count": 675,
+  "count": 676,
   "items": [
+    {
+      "id": "mkt:019f9f01-aad7-7aab-8e9a-f143946b24af",
+      "time": "2026-07-26 23:18:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces says it has neutralized Hamam Eid, commander of Hamas's central-camp UAV unit. The IDF said Eid had recently been violating the ceasefire while working to restore and strengthen Hamas's aerial combat capability."
+    },
     {
       "id": "mkt:019f9efe-90d6-7aab-8e9a-ed71810fd302",
       "time": "2026-07-26 23:15:11",
