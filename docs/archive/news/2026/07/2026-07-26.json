@@ -1,7 +1,15 @@
 {
   "date": "2026-07-26",
-  "count": 620,
+  "count": 621,
   "items": [
+    {
+      "id": "mkt:019f9e8b-a402-7aab-8e9a-4859aa7d34f5",
+      "time": "2026-07-26 21:09:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. permanent representative to the UN Mike Waltz said President Trump is leaving some room for negotiations with Iran."
+    },
     {
       "id": "5008583",
       "time": "2026-07-26 21:06:15",

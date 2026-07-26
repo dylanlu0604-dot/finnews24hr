@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 21:07:27",
-  "count": 18078,
+  "updated": "2026-07-26 21:11:37",
+  "count": 18074,
   "items": [
+    {
+      "id": "mkt:019f9e8b-a402-7aab-8e9a-4859aa7d34f5",
+      "time": "2026-07-26 21:09:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. permanent representative to the UN Mike Waltz said President Trump is leaving some room for negotiations with Iran."
+    },
     {
       "id": "5008583",
       "time": "2026-07-26 21:06:15",
@@ -165587,48 +165595,6 @@
         "其他"
       ],
       "text": "波音表示供應鏈仍存在一定波動。"
-    },
-    {
-      "id": "4996132",
-      "time": "2026-07-19 21:11:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度計劃試點發行小面額塑膠鈔票】印度中央銀行計劃於2027年試點發行小面額的塑膠材質鈔票，評估用其替代紙幣的可行性，以提高鈔票耐用性和防偽性。印度儲備銀行計劃，試點階段發行面額10盧比和20盧比的塑膠鈔票，如果試點順利，或將進一步推廣。（新華社）"
-    },
-    {
-      "id": "4996131",
-      "time": "2026-07-19 21:10:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "賴特：船舶運輸仍經霍爾木茲海峽兩條航道正常通行。"
-    },
-    {
-      "id": "4996130",
-      "time": "2026-07-19 21:09:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "賴特：霍爾木茲原油7日滾動平均產量低於每日700萬桶。"
-    },
-    {
-      "id": "mkt:019f7a7e-b594-7aab-8df8-11cb91938e18",
-      "time": "2026-07-19 21:09:12",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish"
-      ],
-      "text": "A Boeing (BA.N) executive said the company is studying several options to increase future 737 MAX production."
-    },
-    {
-      "id": "4996129",
-      "time": "2026-07-19 21:08:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：無論伊朗是否配合，都將保障霍爾木茲海峽石油運輸暢通。"
     }
   ]
 }
