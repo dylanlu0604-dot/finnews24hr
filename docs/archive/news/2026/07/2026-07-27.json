@@ -1,7 +1,95 @@
 {
   "date": "2026-07-27",
-  "count": 174,
+  "count": 184,
   "items": [
+    {
+      "id": "te:markets:569872",
+      "time": "2026-07-27 07:17:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Tumbles as US Halts Iran Strikes — Brent fell as much as 7% to below $90 per barrel on Monday before trimming some losses, after the US suspended strikes against Iran for a second consecutive night, easing concerns over potential supply disruptions in the Middle East following weeks of heightened conflict. The pause began late Friday without any official announcement, while Tehran said it had halted its retaliatory military operations in response and engaged in talks with Oman regarding the Strait of Hormuz. Still, Iran-backed Houthi forces in Yemen claimed responsibility for attacks on facilities associated with Saudi Aramco at the Red Sea ports of Jizan and Yanbu over the weekend. Oil prices have climbed nearly 40% this month as supply disruptions expanded from the Strait of Hormuz to the Red Sea, an increasingly important alternative route for Saudi Arabian crude exports that transports millions of barrels each day."
+    },
+    {
+      "id": "5008781",
+      "time": "2026-07-27 07:16:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【沙特5月石油出口額同比大增19.5%】沙特統計局資料顯示，該國5月石油出口額同比上漲19.5%，4月修正後同比增幅為11.2%。石油出口額達708.91億沙特里亞爾，4月修正數值為693.52億里亞爾。石油出口佔總出口比重由4月修正後的68.3%升至75.6%。貿易順差擴大至260.24億沙特里亞爾，4月修正後順差為227.55億里亞爾。"
+    },
+    {
+      "id": "te:markets:569871",
+      "time": "2026-07-27 07:15:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Tumbles as US Halts Iran Strikes — Crude oil fell as much as 7% toward $83 per barrel on Monday before trimming some losses, after the US suspended strikes against Iran for a second consecutive night, easing concerns over potential supply disruptions in the Middle East following weeks of heightened conflict. The pause began late Friday without any official announcement, while Tehran said it had halted its retaliatory military operations in response and engaged in talks with Oman regarding the Strait of Hormuz. Still, Iran-backed Houthi forces in Yemen claimed responsibility for attacks on facilities associated with Saudi Aramco at the Red Sea ports of Jizan and Yanbu over the weekend. Oil prices have climbed nearly 40% this month as supply disruptions expanded from the Strait of Hormuz to the Red Sea, an increasingly important alternative route for Saudi Arabian crude exports that transports millions of barrels each day."
+    },
+    {
+      "id": "5008780",
+      "time": "2026-07-27 07:15:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【信用債新增違約率處於多年來最低水平 年內僅新增2家主體違約】隨著地方化債政策落地見效、信用風險市場化處置體系持續健全，疊加市場流動性維持寬鬆格局，國內信用債市場風險實現收斂。Wind資料顯示，今年以來信用債市場新增違約主體只有2家，新增違約率處於多年來最低水平。業內分析指出，本輪信用債市場環境持續修復由多重因素共同驅動：一是貨幣政策保持適度寬鬆，市場長期處於低利率區間，有效緩解企業融資壓力；二是重點領域風險化解成效凸顯，存量信用風險持續出清。中長期來看，信用債市場新增違約率有望持續維持歷史低位，但市場尾部弱資質主體仍存隱患。"
+    },
+    {
+      "id": "5008779",
+      "time": "2026-07-27 07:15:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、上海第一百貨引入沉浸式集合演藝空間 劇場進商場，消費活力新（年中資料微視角）；\n2、培育高質量的文化生活消費場景（專家點評）；\n3、上半年我國金融市場執行平穩；\n4、中國—辛巴威中醫藥中心2020年成立以來，接診患者數萬人次 “讓中醫藥福祉更廣泛惠及非洲人民”（2026中非人文交流年）；\n5、斯洛伐克總統佩列格里尼今起對我國進行國事訪問；\n6、中國與葡語國家企業經貿合作洽談會在莫三比克舉辦；\n7、多部門聯合研判“紅霞”發展趨勢，部署重點工作 做好災害救助，儘快恢復生產生活秩序；\n8、亞太經合組織公民人工智慧素養提升行動的新理念和新路徑研討會舉辦；\n9、走出實驗室，機器人迎來中試“考場”；\n10、最高法、最高檢修改相關司法解釋 依法從嚴懲處內幕交易、洩露內幕資訊犯罪；\n11、無視反對戰爭正義呼聲 復刻戰前軍國主義體制 日本強推“國家情報局”引發廣泛擔憂和批評（國際視點）；\n12、啟用大型智慧功率半導體工廠——德國加速推進微電子產業發展；\n13、烏干達咖啡出口穩定增長；\n14、讓人工智慧成為造福人類的國際公共產品（權威論壇）；\n15、2.1萬戶科技企業拿到首貸的啟示（財經觀）；\n16、全球每5件毛衣約有1件產自這裡 大朗毛織煥新記（財經深一度·寶藏小城的出口生意經）；\n17、深耕“藍色種業” 推動海洋經濟高質量發展（財經茶座）；\n18、首個全國產10萬卡人工智慧超叢集正式投用 “超級大腦”運轉起來（深度觀察）；\n19、為量子位元打造完美“隔音室”（我身邊的最強大腦）。"
+    },
+    {
+      "id": "5008778",
+      "time": "2026-07-27 07:15:09",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、不斷增強黨的思想引領力；\n2、凝聚僑心僑力 共襄復興偉業——新時代僑務工作綜述；\n3、湖北幹字當頭建支點；\n4、新唐山建設五十年——鳳凰再涅槃；\n5、從“中國智造”亮麗名片感悟中國式現代化。"
+    },
+    {
+      "id": "mkt:019fa0b5-d8a2-7aab-8e9d-091ef811ab97",
+      "time": "2026-07-27 07:14:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Brazil recalls ambassador to Argentina over Milei remarks】Brazil's foreign ministry on the 26th recalled its ambassador to Argentina, Julio Bitelli, to protest Argentine President Javier Milei's recent conduct in Brazil. Milei attended the Liberal Party national convention in São Paulo on the 25th, sharply criticized President Luiz Inácio Lula da Silva and said Supreme Court Justice Alexandre de Moraes had blocked his attempt to visit jailed former president Jair Bolsonaro. The Liberal Party formally nominated Bolsonaro's son Flavio Bolsonaro as its presidential candidate at the gathering."
+    },
+    {
+      "id": "5008777",
+      "time": "2026-07-27 07:14:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長譴責烏克蘭襲擊伊商船 強調將作出回應 】伊朗外交部長阿拉格齊26日在社交媒體發文說，烏克蘭日前襲擊一艘伊朗商船，造成一名船員死亡，此舉公然違反《聯合國憲章》。阿拉格齊說，這一襲擊是在以色列授意下進行的，其目的是將歐洲拖入戰爭。他表示，已分別與歐盟外交與安全政策高階代表卡拉斯和俄羅斯外長拉夫羅夫通電話，並強調烏克蘭的所作所為“絕不會沒有回應”。"
+    },
+    {
+      "id": "5008776",
+      "time": "2026-07-27 07:14:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯當局稱，烏克蘭無人機襲擊俄羅斯邊境城市別爾哥羅德，造成12人受傷。"
+    },
+    {
+      "id": "5008775",
+      "time": "2026-07-27 07:13:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國養老金機構擬設立10億英鎊科技成長基金】英國多家養老金機構計劃設立一支規模10億英鎊的專項基金，投資本國科創企業，以此引導更多養老儲蓄資金流向本土企業、拉動經濟增長。週一釋出的一份報道顯示，這支企業成長基金的構想得到多家英國頭部養老金機構支援，包括Railpen與Nest，專案由英國商業銀行協同推進。該基金將投資經營成熟的優質企業，助力企業擴大經營規模、新技術商業化落地並創造就業崗位。英國首相安迪・伯納姆稱此項計劃是對英國本土企業投下的“信任票”。"
+    },
     {
       "id": "5008774",
       "time": "2026-07-27 07:12:00",
