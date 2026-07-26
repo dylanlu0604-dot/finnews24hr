@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-26 21:15:45",
-  "count": 18064,
+  "updated": "2026-07-26 21:19:44",
+  "count": 18059,
   "items": [
+    {
+      "id": "mkt:019f9e91-713d-7aab-8e9a-5521ded62295",
+      "time": "2026-07-26 21:15:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bearish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Refinitiv: a senior Iranian source said Iran will stop attacks as long as the US maintains the current ceasefire."
+    },
+    {
+      "id": "5008590",
+      "time": "2026-07-26 21:15:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗訊息人士：美國暫停攻擊伊朗後，“懷疑多於樂觀”。"
+    },
+    {
+      "id": "5008589",
+      "time": "2026-07-26 21:15:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗訊息人士表示，只要美國維持最新停火狀態，伊朗將停止此後襲擊。"
+    },
     {
       "id": "5008588",
       "time": "2026-07-26 21:13:20",
@@ -165434,84 +165464,6 @@
         "其他"
       ],
       "text": "據秘魯民防機構Indeci：秘魯中部Junin地區在週六發生5.1級地震，造成4人死亡、20人受傷。"
-    },
-    {
-      "id": "4996144",
-      "time": "2026-07-19 21:19:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗：美國近期發動的襲擊已造成伊朗超過50人罹難，517人受傷。"
-    },
-    {
-      "id": "mkt:019f7a87-f1e8-7aab-8df8-498f0cbfdcfc",
-      "time": "2026-07-19 21:19:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Energy Secretary Wright said he will take all actions in the coming weeks and months to reduce energy prices."
-    },
-    {
-      "id": "mkt:019f7a87-8e6c-7aab-8df8-46d7190578a7",
-      "time": "2026-07-19 21:18:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Energy Secretary Wright said the DOE is tracking large oil tankers transiting the strait."
-    },
-    {
-      "id": "mkt:019f7a87-4172-7aab-8df8-3f03cfbde7b1",
-      "time": "2026-07-19 21:18:32",
-      "tags": [
-        "MKT News",
-        "BA.N"
-      ],
-      "text": "A Boeing (BA.N) executive said 737 production is critical to the company's investment in next-generation aircraft."
-    },
-    {
-      "id": "4996143",
-      "time": "2026-07-19 21:18:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美能源部長：將採取一切行動降低能源價格 確保霍爾木茲海峽石油輸送 】當地時間7月19日，美國能源部長克里斯·賴特（Chris Wright）在接受媒體採訪時表示，無論伊朗方面是否予以配合，美方都將採取措施確保霍爾木茲海峽的石油輸送暢通。賴特披露了當前該海域的石油運輸資料。他指出，目前霍爾木茲海峽石油流量的“七天截尾均值”低於700萬桶/日，整個波斯灣地區的石油供應量也略微低於1400萬桶/日。儘管局勢緊張，但仍有船隻按照既定路線透過海峽，美方正在密切追蹤大型油輪的通行情況。賴特強調，考慮到美國夏季駕車出遊旺季的到來以及中期選舉臨近，美國政府將在未來數週乃至數月內，採取一切必要行動來降低國內能源價格。"
-    },
-    {
-      "id": "mkt:019f7a85-c1da-7aab-8df8-31947f44a34f",
-      "time": "2026-07-19 21:16:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Kuwait says power and desalination plants struck three times in three days】Kuwait's Ministry of Electricity, Water and Renewable Energy said on the 19th that the power and desalination plant hit on the 17th was struck again, marking the third attack on such facilities in three days. The ministry blamed Iran for the strikes, saying fires and damage affected multiple generating units. Kuwait activated emergency plans to contain losses and maintain national grid stability and urged residents to conserve electricity to reduce system load."
-    },
-    {
-      "id": "4996142",
-      "time": "2026-07-19 21:16:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "波音高管波普表示，737型飛機生產對公司投資下一代機型至關重要。"
-    },
-    {
-      "id": "4996141",
-      "time": "2026-07-19 21:16:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【科威特稱其發電及海水淡化廠三日內連續遭襲】科威特電力、水利和可再生能源部19日發表宣告說，該國17日遭襲的發電及海水淡化廠當天再次遭到襲擊。這是該國三天內第三次有發電及海水淡化廠遭襲。 該部門當天在社交媒體發表宣告說，襲擊由伊朗發動，導致廠區起火併造成大量發電機組執行受影響。科威特政府立即啟動應急預案，全力控制損失，維護國家電網穩定執行。 宣告同時呼籲當地民眾節約用電，以減輕電力系統負荷。 該部門18日表示，該國當天有發電及海水淡化廠受到襲擊並引發火災。 19日早些時候，科威特武裝部隊表示，其防空系統“正在攔截敵方的導彈和無人機襲擊”。（新華社）"
     }
   ]
 }

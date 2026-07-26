@@ -1,7 +1,37 @@
 {
   "date": "2026-07-26",
-  "count": 622,
+  "count": 625,
   "items": [
+    {
+      "id": "mkt:019f9e91-713d-7aab-8e9a-5521ded62295",
+      "time": "2026-07-26 21:15:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bearish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Refinitiv: a senior Iranian source said Iran will stop attacks as long as the US maintains the current ceasefire."
+    },
+    {
+      "id": "5008590",
+      "time": "2026-07-26 21:15:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗訊息人士：美國暫停攻擊伊朗後，“懷疑多於樂觀”。"
+    },
+    {
+      "id": "5008589",
+      "time": "2026-07-26 21:15:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗訊息人士表示，只要美國維持最新停火狀態，伊朗將停止此後襲擊。"
+    },
     {
       "id": "5008588",
       "time": "2026-07-26 21:13:20",
