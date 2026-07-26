@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-27 00:18:15",
-  "count": 18047,
+  "updated": "2026-07-27 00:22:11",
+  "count": 18048,
   "items": [
+    {
+      "id": "5008661",
+      "time": "2026-07-27 00:19:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "日經民調：日本首相高市早苗支援率大跌10個百分點，降至58%。"
+    },
+    {
+      "id": "5008660",
+      "time": "2026-07-27 00:18:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普因阿曼斡旋暫停襲擊伊朗】美國常駐聯合國代表華爾茲7月26日在接受美國媒體採訪時表示，美國總統特朗普已暫停對伊朗的軍事打擊，“為外交談判留出更多空間”。華爾茲稱，“過去幾周，尤其是最近幾天，阿曼、伊朗以及美國的多名談判代表已在各層級展開接觸，從最高層一直延伸到技術層面。” 華爾茲還稱，有關美軍在中東地區缺乏足夠火力和彈藥供應的報道純屬“無稽之談”。美媒此前報道稱，美軍目前“無法維持精確制導彈藥的消耗速度”，相關彈藥“使用速度超過補充速度”。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f9f38-5735-7aab-8e9b-4a93d701855a",
+      "time": "2026-07-27 00:18:17",
+      "tags": [
+        "MKT News",
+        "Nikkei 225"
+      ],
+      "text": "Nikkei and Tokyo TV poll: Japanese Prime Minister Takaichi's cabinet approval fell 10 percentage points month-on-month to 58%, the first reading below 60% since she took office in October last year."
+    },
     {
       "id": "mkt:019f9f35-3a5e-7aab-8e9b-42497ddfaa1d",
       "time": "2026-07-27 00:14:53",
@@ -165302,26 +165327,6 @@
         "Brent"
       ],
       "text": "Saudi outlet Alhadath cites the Israel Defense Forces chief of staff saying the IDF has observed attacks targeting Jordan's Aqaba region and Israel's air-defence systems are on high alert."
-    },
-    {
-      "id": "4996207",
-      "time": "2026-07-20 00:21:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國邊境事務主管稱，移民與海關執法局官員在攔停車輛期間必須佩戴隨身執法記錄儀。"
-    },
-    {
-      "id": "mkt:019f7b2c-30f3-7aab-8df9-8dece23c4877",
-      "time": "2026-07-20 00:18:41",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "According to Israel's Channel 14, the IDF chief of staff said the military is maintaining the highest alert level and is prepared to return to combat at any time."
     }
   ]
 }
