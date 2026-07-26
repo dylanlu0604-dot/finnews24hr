@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 18:06:17",
-  "count": 18129,
+  "updated": "2026-07-26 18:10:11",
+  "count": 18128,
   "items": [
+    {
+      "id": "mkt:019f9de5-17ad-7aab-8e99-c9b9093fd5c5",
+      "time": "2026-07-26 18:07:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry of Water Resources and CMA issue red mountain‑flood meteorological warning】The Ministry of Water Resources and the China Meteorological Administration jointly issued a red mountain‑flood meteorological warning at 18:00 on July 25. Forecast for 20:00 July 25–20:00 July 26: parts of southern Jiangxi and central‑eastern Guangdong face a high probability of mountain‑flood disasters (orange warning), with local areas at very high probability (red warning). Other areas may see mountain floods from localized short‑duration heavy rain. Authorities urged real‑time monitoring, flood warnings and evacuation preparedness."
+    },
     {
       "id": "5008499",
       "time": "2026-07-26 18:03:53",
@@ -166058,22 +166066,6 @@
         "焦點"
       ],
       "text": "【中信證券：指數行情處於一輪中期行情的休整到新一輪行情的醞釀階段】中信證券研報指出，當前有如下四個判斷：第一，指數行情處於一輪中期行情的休整（以科技板塊補跌為特徵）到新一輪行情的醞釀階段（需要新的有估值提升空間的板塊啟動），短期出清已接近尾聲。第二，北美AI鏈短期可能是科技內部的避風港，7月底北美CSP的指引前後可能迎來一波修復，但重新上一個臺階需要新一次的AI模型/產品能力躍升和商業變現空間拓展，關鍵是打破硬體公司週期股估值框架，實現硬體和應用的新一輪系統級抬升。第三，國產AI鏈高度依賴催化和趨勢資金強度，目前主要催化已陸續兌現，而趨勢資金強度在經歷劇烈回撤後很難迅速回歸，國內目前仍相對健康的融資盤意味著目前不存在籌碼出清式的佈局點，國產切北美的估值收斂是比較可能的走向。第四，非AI鏈以輪流修復為特徵，從創新藥和非銀開始，過渡到有色、化工和鋰電的工業鏈條，期間伴隨著內需鏈的政策預期交易。配置上聚焦三個維度的收斂：Al鏈上游硬體和漲價品種相對下游雲服務大廠超額收益的收斂；非AI工業股相對海外對標的公司的折價修復；科技與非科技的收斂。"
-    },
-    {
-      "id": "mkt:019f79d9-7ecb-7aab-8df6-c0ecf3c52908",
-      "time": "2026-07-19 18:08:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. embassy in Jordan issues security alert】The U.S. Embassy in Jordan said on July 19 that Jordanian authorities, citing a \"specific and credible threat,\" evacuated Aqaba's international airport and port area. The embassy advised U.S. citizens to avoid those areas and follow Jordanian security instructions. Refinitiv reported Jordan's government had not yet issued an official statement."
-    },
-    {
-      "id": "4996037",
-      "time": "2026-07-19 18:08:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大曉機器人釋出三項核心成果 為物理AI落地提供技術底座】7月19日，2026世界人工智慧大會“世界模型‘六小龍’巔峰論壇”上，大曉機器人釋出三項核心成果，分別為開悟世界模型 3.1（Kairos 3.1）、環境式資料採集方案 2.0以及覆蓋三大垂直場景的成套解決方案，為物理AI落地提供完整技術底座。"
     }
   ]
 }

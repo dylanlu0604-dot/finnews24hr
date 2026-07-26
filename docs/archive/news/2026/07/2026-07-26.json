@@ -1,7 +1,15 @@
 {
   "date": "2026-07-26",
-  "count": 539,
+  "count": 540,
   "items": [
+    {
+      "id": "mkt:019f9de5-17ad-7aab-8e99-c9b9093fd5c5",
+      "time": "2026-07-26 18:07:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry of Water Resources and CMA issue red mountain‑flood meteorological warning】The Ministry of Water Resources and the China Meteorological Administration jointly issued a red mountain‑flood meteorological warning at 18:00 on July 25. Forecast for 20:00 July 25–20:00 July 26: parts of southern Jiangxi and central‑eastern Guangdong face a high probability of mountain‑flood disasters (orange warning), with local areas at very high probability (red warning). Other areas may see mountain floods from localized short‑duration heavy rain. Authorities urged real‑time monitoring, flood warnings and evacuation preparedness."
+    },
     {
       "id": "5008499",
       "time": "2026-07-26 18:03:53",
