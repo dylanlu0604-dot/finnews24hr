@@ -1,7 +1,62 @@
 {
   "date": "2026-07-27",
-  "count": 217,
+  "count": 223,
   "items": [
+    {
+      "id": "5008816",
+      "time": "2026-07-27 07:44:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【隨著對伊朗衝突升溫的擔憂緩解，日經指數或將上漲】隨著對伊朗衝突升溫的擔憂暫時緩解，日本股市可能上漲。新加坡交易所的日經指數期貨上漲1.2%，至65460點。 在美國總統特朗普暫停對伊朗軍事行動的重大升級後，投資者正關注中東局勢的發展和原油價格。日經指數週五下跌2.7%，至64611.15點。"
+    },
+    {
+      "id": "mkt:019fa0d0-7993-7aab-8e9d-36996f166458",
+      "time": "2026-07-27 07:44:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi media reported multiple loud explosions in Erbil in northern Iraq; the nature of the blasts is unclear."
+    },
+    {
+      "id": "5008815",
+      "time": "2026-07-27 07:44:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京經開區：上半年地區生產總值同比增長6.1%】“十五五”開局之年過半，北京經開區近日交出一份成色十足、量質齊升的期中成績單：上半年，經開區實現地區生產總值1967.8億元、同比增長6.1%，工業總產值接近3600億元，進出口總額1188.5億元、增幅高達33.8%。（北京日報）"
+    },
+    {
+      "id": "5008814",
+      "time": "2026-07-27 07:43:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤上漲785點，報65450點。"
+    },
+    {
+      "id": "mkt:019fa0cf-5b29-7aab-8e9d-2d28f7997c4c",
+      "time": "2026-07-27 07:42:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium's intraday gain widened to 2.0%, trading at $1,268.70/oz."
+    },
+    {
+      "id": "te:markets:569875",
+      "time": "2026-07-27 07:41:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Advance as Oil Prices Retreat — US stock futures moved higher on Monday as oil prices fell sharply after the US refrained from attacking Iran over the weekend, while Tehran also suspended its retaliatory strikes. The pause followed nearly two weeks of escalating conflict, although Iran-backed Houthis in Yemen claimed attacks on Saudi Arabian facilities along the Red Sea, leaving markets cautious about the risk of further supply disruptions. Investors are also preparing for a busy week of corporate earnings and the Federal Reserve's upcoming policy meeting. Quarterly results are expected from megacap technology firms including Apple, Microsoft, and Meta Platforms, along with major companies such as Visa, Exxon Mobil, Starbucks, Ford, and PayPal. On the policy front, the Fed is widely expected to keep interest rates unchanged on Wednesday before raising them in September, although some market participants believe the central bank could act as soon as this week's meeting."
+    },
     {
       "id": "5008813",
       "time": "2026-07-27 07:41:06",
