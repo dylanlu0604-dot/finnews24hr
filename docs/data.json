@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-27 01:01:18",
-  "count": 18030,
+  "updated": "2026-07-27 01:05:19",
+  "count": 18027,
   "items": [
+    {
+      "id": "5008668",
+      "time": "2026-07-27 01:03:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗稱將就商船遭襲報復烏克蘭】伊朗外長阿拉格齊7月26日在社交媒體發文，譴責烏克蘭在裡海襲擊伊朗商船一事。阿拉格齊在帖文中稱，烏克蘭“襲擊了一艘伊朗商船，致一名水手喪生。這是公然違反《聯合國憲章》的行徑，系聽命於以色列，意在將歐洲拖入其戰爭。在與歐盟外交與安全政策高階代表卡拉斯及俄羅斯外長拉夫羅夫通話時，我已明確表明：基輔這個‘吃白食的’所為，絕不可能不遭回擊。” 伊朗外交部此前釋出宣告稱，7月25日，一艘伊朗商船在裡海遭到烏克蘭方面襲擊後發生爆炸，導致一名船員死亡、另有一人受傷。（CCTV國際時訊）"
+    },
     {
       "id": "5008667",
       "time": "2026-07-27 00:51:39",
@@ -165140,39 +165149,6 @@
         "Important"
       ],
       "text": "Saudi outlet Alhadath, citing sources, reports a high-level Iranian delegation is due in Islamabad tomorrow for a two-day visit."
-    },
-    {
-      "id": "4996229",
-      "time": "2026-07-20 01:04:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達提出一項為期10天的停火方案：美國停止對伊朗實施打擊，伊朗則開放霍爾木茲海峽兩條航運通道；西方官員質疑美國不會接受該條款。"
-    },
-    {
-      "id": "4996228",
-      "time": "2026-07-20 01:03:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克媒體：伊拉克總理將於本週末訪問德黑蘭。"
-    },
-    {
-      "id": "mkt:019f7b55-78b7-7aab-8df9-f143dcf4648c",
-      "time": "2026-07-20 01:03:46",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iraq's state news agency reported that the Iraqi prime minister will visit Tehran this weekend."
-    },
-    {
-      "id": "mkt:019f7b54-f366-7aab-8df9-ee74ac911022",
-      "time": "2026-07-20 01:03:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya, citing sources, reports Iran's interior minister will meet Pakistan's leadership in Islamabad tomorrow."
     }
   ]
 }
