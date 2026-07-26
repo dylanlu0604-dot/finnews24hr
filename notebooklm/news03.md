@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-26 23:16:02_
-_本檔包含 3372 則快訊，約 685589 字_
+_更新時間：2026-07-27 00:30:18_
+_本檔包含 3373 則快訊，約 684761 字_
+
+---
+
+### 2026-07-23 12:02:50  #MKT News
+
+【YONHAP: South Korea election commission raided over ballot shortages】YONHAP reported July 23 that a special investigation team of police and prosecutors raided the National Election Commission headquarters and its branches. Authorities say evidence suggests some commission staff allegedly manipulated data to hide errors in reported turnout for the June 3 local elections; the raids follow an ongoing probe into ballot shortages during the polls and mark a new development in the investigation.
+
+---
+
+### 2026-07-23 12:02:41  #公司 #市場
+
+【港股午評：恒生指數漲1.34%，恒生科技指數漲0.79%】港股午間收盤，恒生指數漲1.34%，恒生科技指數漲0.79%。恒指港股通ETF銀華（159318）漲1.71%，港股通科技ETF鵬華（159751）漲0.68%。板塊方面，工業集團企業、電力板塊漲幅靠前；酒店和度假村REIT、航空貨運與物流板塊跌幅靠前。個股方面，真健康醫療-B漲14.23%，智雲科技建設漲14.03%，旺山旺水-B漲13.17%，中偉新材漲12.71%，迅策漲11.4%；天數智芯跌8.46%，怡俊集團控股跌7.05%，華虹宏力跌6.44%，鳴鳴很忙跌5.41%，應星控股跌5.07%。
+
+---
+
+### 2026-07-23 12:02:38  #國際
+
+歐洲汽車工業協會（ACEA）：比亞迪6月歐盟新車註冊量同比增長兩倍。特斯拉6月註冊量增長72%。
+
+---
+
+### 2026-07-23 12:02:35  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
+
+Canaccord Genuity cut its price target on Tesla (TSLA.O) to $410 from $450.
+
+---
+
+### 2026-07-23 12:01:42  #國際
+
+歐洲汽車製造商協會（ACEA）：上半年歐盟新車註冊量增長6%，至590萬輛。
+
+---
+
+### 2026-07-23 12:01:05  #市場
+
+【7月23日午間漲停分析】科創50半日下跌超4%，電網裝置概念逆勢爆發， 半導體產業鏈全線下挫。立新能源6連板，美利雲4連板，一圖看懂>>
+
+---
+
+### 2026-07-23 12:00:52  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+ACEA: Tesla (TSLA.O) EU new car registrations rose 72% in June.
+
+---
+
+### 2026-07-23 12:00:09  #Trading Economics #Economy #European Union #Car Registrations #Importance 2
+
+EU Car Registrations Jump 13.6% in June — EU passenger car registrations surged 13.6% yoy to a three-month high of 1.15 million units in June 2026, marking the fifth straight month of growth and accelerating sharply from a 3.2% rise in May. The market continued to benefit from robust consumer demand for a range of electrified technologies, driven primarily by market support measures. The bloc’s four largest markets all posted notable growth: Germany (15.7%), France (11.4%), Italy (10.6%), and Spain (7.8%). In H1 of 2026, new EU car registrations grew 5.7%, with a strong performance in June contributing to a positive first half despite persistent geopolitical headwinds weighing on the outlook. Battery-electric vehicles (BEVs) accounted for 20.7% of the EU market, up from 15.6% a year earlier, highlighting continued momentum in the shift toward electrification. Three of the four largest markets, together representing 63% of total BEV registrations, registered strong growth: France (62.9%), Germany (48.0%), and Denmark (41.2%).
+
+---
+
+### 2026-07-23 11:58:36  #其他
+
+【卡萊特與天津具身智慧創新中心展開戰略合作】據卡萊特訊息，近日，卡萊特與天津具身智慧創新中心正式簽署戰略合作框架協議，雙方將圍繞具身智慧領域建立長期合作機制，共同推動技術融合與產業生態建設。
+
+---
+
+### 2026-07-23 11:58:08  #資料 #國際
+
+【阿里速賣通率中國品牌團出征歐洲最大消費電子展IFA】7月23日訊息，阿里旗下跨境電商平臺速賣通AliExpress今日宣佈，將於今年9月率領數十家中國品牌組成的Brand+天團參展歐洲最大的消費電子展——柏林國際消費電子展（IFA），這也是中國電商“出海四小龍”首次亮相國際頂級消費電子展會。此次參展陣容聚焦高科技品牌，涵蓋機器人、3D列印、AR眼鏡、智慧出行等前沿賽道。
+
+---
+
+### 2026-07-23 11:57:40  #公司
+
+奧本海默將谷歌母公司字母表公司目標股價從445美元下調至400美元。
+
+---
+
+### 2026-07-23 11:57:12  #其他
+
+【中銀國際：降特步國際目標價至4.3港元 上半年銷售遜預期】中銀國際釋出研報稱，特步國際(01368) 第二季營運資料較預期疲弱，核心特步品牌及Saucony分別錄得中單位數同比跌幅及低單位數同比升幅，均遜於該行預期。中銀國際將特步2026至2028年每股盈利下調預測2%至3%，以反映第二季零售銷售疲弱及實體零售經營去槓桿化影響，目標價由5港元下調至4.3港元，評級“買入”。
+
+---
+
+### 2026-07-23 11:56:46  #其他
+
+【東方證券：內銷掃地機份額持續集中 海外大盤延續增長】東方證券釋出研報稱，整體來看，二季度國內掃地機市場受618促銷影響的高基數零售規模有所回落，行業份額高度集中，兩大頭部品牌合計佔據近七成市場份額，寡頭競爭格局凸顯。掃地機全球大盤呈現增長趨勢，其中國內份額持續向CR2集中，海外大盤增長但延續競爭，洗地機出海有望打造新的增長曲線。相關標的：科沃斯、石頭科技。
+
+---
+
+### 2026-07-23 11:55:48  #市場 #國際
+
+印度盧比最新匯率為1美元兌96.4675盧比，較前收盤價上漲0.1%。
+
+---
+
+### 2026-07-23 11:55:40  #市場 #央行 #國際
+
+據交易員稱，印度央行正在盧比兌美元匯率接近96.50水平時拋售美元。
+
+---
+
+### 2026-07-23 11:54:05  #市場 #央行 #國際
+
+【日本當局入市干預難改跌勢 日元一度重新整理40年低點】鑑於日元貶值在推升進口價格和家庭開支中所扮演的角色，這已成為該國決策者日益關注的問題。市場擔憂曾於4月下旬加劇，當時日元跌至2024年7月以來的低點。日本當局隨即出手，動用了近740億美元以支撐日元，該干預規模為單月最大，引發了日元的強勁反彈。不過，這一效果未能持久。7月21日，日元兌美元重新整理了自1986年以來的低點，凸顯出在貨幣政策未發生更廣泛轉變的情況下，干預措施存在侷限性。政策轉向可能正在醞釀之中。據知情人士透露，由於日元持續疲軟加劇了通脹上行風險，日本央行官員對選擇比經濟學家普遍預期更快的加息節奏持開放態度。
+
+---
+
+### 2026-07-23 11:53:57  #公司
+
+【領益智造：公司AMD系列顯示卡散熱模組已實現批次出貨】領益智造7月22日接受機構調研時表示，作為AMD核心供應商，公司在不同系列產品專案上與客戶展開合作，為散熱設計最佳化、量產效率提升等關鍵環節提供解決方案，公司生產的AMD系列顯示卡散熱模組已實現批次出貨。
+
+---
+
+### 2026-07-23 11:52:15  #公司
+
+【神州數碼：神州鯤泰超節點伺服器產品目前進展順利】神州數碼(000034)7月23日在互動平臺表示，公司於2026年2月釋出神州鯤泰超節點伺服器產品，主要面向政企與行業客戶，目前進展順利。
+
+---
+
+### 2026-07-23 11:52:09  #MKT News #Market Themes #AI Revolution
+
+【Qujing Technology aims to build 10,000‑card AI Token factory within five years】Qujing Technology has launched its East China regional headquarters project in Qianjiang Century City, Xiaoshan District, Hangzhou. The firm will establish a high‑efficiency AI Token production service platform (ATaaS) as an East China delivery and service center and seeks to build a cluster‑scale, high‑quality AI Token factory of about 10,000 cards within five years.
+
+---
+
+### 2026-07-23 11:51:49  #其他
+
+【趨境科技力爭五年內建成萬卡級AI Token工廠】近日，趨境科技華東區域總部專案正式落地杭州蕭山區錢江世紀城。據悉，趨境科技將在錢江世紀城重點建設高效能人工智慧Token生產服務平臺（ATaaS）華東區域交付與服務中心，力爭在五年內建成萬卡級叢集規模的高品質AI Token工廠。
+
+---
+
+### 2026-07-23 11:51:43  #國際
+
+馬來西亞將於10月初提交2027年預算案。
+
+---
+
+### 2026-07-23 11:49:30  #公司
+
+【上海：探索推動將S基金納入巢狀層級豁免範圍】中共上海市委金融委員會辦公室、上海市發展和改革委員會等部門印發《上海市充分發揮直接融資功能 進一步加強科技金融服務的若干措施》，其中提出，構建投資接續長效機制。加快與全國社保基金會合作設立優選專案基金，建立資本接力、協同賦能的長效機制。研究設立S母基金，引導更多S基金在滬集聚，吸引保險公司、金融資產投資公司（AIC）、金融資產管理公司（AMC）等多種主體出資設立S基金或參與份額交易。探索推動將S基金納入巢狀層級豁免範圍。
+
+---
+
+### 2026-07-23 11:49:14  #公司 #市場 #觀點
+
+【全球燃機市場迎來一輪強勁景氣週期 國內產業鏈加速出海（附名單）】全球燃機市場有望迎來一輪強勁景氣週期。行業機構不久前釋出的《2026燃氣輪機產業發展白皮書》顯示，全球燃機市場的供需失衡至少延續到2030年。國內產業鏈同樣意味著巨大的機遇。東方證券表示，此前市場普遍認為海外燃機訂單排產已滿、行業景氣上行空間有限，卻忽視國內供應商正處於出海匯入初期，份額擴張帶來的成長性將遠超行業增速。近期，貝克休斯到訪應流集團開展新品認證，航宇科技披露與某國際商用發動機客戶簽署長期供貨協議，新增供應低壓轉子部件產品。部分產業鏈公司出海加速跡象顯著。7月22日晚間，傑瑞股份釋出公告稱，其控股子公司J&F Power Systems LLC與某國際知名雲服務提供商簽署了燃氣輪機發電機組供應合同，並接受了高達14.65億美元（約合99.5億元）的採購訂單。該訂單金額佔傑瑞股份2025年度經審計營業收入的61.33%，屬於重大經營合同。在此訊息影響下，傑瑞股份今天（7月23日）早盤一字漲停。光大證券梳理了燃氣輪機國產產業鏈，合計有14只A股入選。從股價表現來看，傑瑞股份大漲超74%居首，萬澤股份、東方電氣、應流股份等個股逆市上漲。航宇科技、福鞍股份、常寶股份等個股則大跌超20%。
+
+---
+
+### 2026-07-23 11:49:11  #國際
+
+【英國外交部說從伊朗暫時撤出工作人員】英國外交部22日說，鑑於地區局勢緊張，英國工作人員已暫時從伊朗撤出，使館以遠端方式辦公。（新華社）
+
+---
+
+### 2026-07-23 11:48:33  #公司
+
+【貴州習酒股份有限公司總經理助理、酒旅融合發展部部長謝遠東被查】7月23日，貴州省紀委監委網站通報，據貴州省紀委監委派駐習酒集團紀檢監察組、匯川區紀委監委訊息：貴州習酒股份有限公司總經理助理、酒旅融合發展部部長謝遠東涉嫌嚴重違紀違法，主動投案，目前正接受貴州省紀委監委派駐習酒集團紀檢監察組紀律審查和匯川區監委監察調查。
+
+---
+
+### 2026-07-23 11:48:24  #宏觀
+
+【上海：鼓勵公募基金、銀行理財等資產管理機構設立更多科創主題ETF基金、科創理財產品等】中共上海市委金融委員會辦公室、上海市發展和改革委員會等部門印發《上海市充分發揮直接融資功能 進一步加強科技金融服務的若干措施》，其中提出，最佳化一二級市場投資接力。做好科創板重點硬科技企業規範培育工作、境外上市溝通協調工作和創業板地方政府推送企業資訊工作，市區聯動做好企業合規輔導，支援上海市重點科技企業對接境內外資本市場。最佳化面向科技企業的上市輔導體系，整合中介機構資源，提供精準的資本市場培訓與對接服務。支援設立基石投資基金，併為其跨境投資提供稽核備案匯兌等便利。鼓勵公募基金、銀行理財等資產管理機構設立更多科創主題ETF基金、科創理財產品等，培育二級市場科技投資力量。
+
+---
+
+### 2026-07-23 11:47:57  #公司
+
+【公司阿克蘇算力專案已終止？華孚時尚回應】針對投資者關於“ 網路貼文公司阿克蘇算力專案已經終止請問是否屬實？ ”的提問，華孚時尚7月23日在互動平臺回應稱，相關傳言不實。相關團隊正在積極對接意向客戶，專案會綜合考慮市場行情、客戶需求、裝置供貨等因素合理安排投產運營進度。專案尚未正式完工。
+
+---
+
+### 2026-07-23 11:47:44  #其他
+
+【上海：鼓勵上海市國資基金與AIC合作設立股權投資基金】中共上海市委金融委員會辦公室、上海市發展和改革委員會等部門印發《上海市充分發揮直接融資功能 進一步加強科技金融服務的若干措施》，其中提出，拓展金融資本來源。探索經相關決策程式後，對優秀基金管理人設定差異化國資出資比例、門檻收益率等條件，積極吸引社保基金、保險資金等在上海市出資設立股權投資基金。引導保險、養老金等長期資本擴大以“優先股+可轉債”方式參與早期科技企業融資的規模。借鑑巨災債券的風險分層設計，探索發行結構化科技金融產品。鼓勵上海市國資基金與AIC合作設立股權投資基金。（人民財訊）
+
+---
+
+### 2026-07-23 11:47:41  #MKT News
+
+DP World said on Wednesday it will develop two new container terminals in Fujairah, UAE. Once operational the project will raise the group's UAE container handling capacity from about 19.4 mln TEU to nearly 22.0 mln TEU and significantly expand breakbulk and RoRo capacity.
+
+---
+
+### 2026-07-23 11:47:35  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+【Analyst: Brent could hit $100/bbl if tensions persist】Phillip Nova analyst Priyanka Sachdeva said in a note that sustained escalation could push Brent to $100/bbl. She said the market currently faces logistics risk rather than direct crude losses, but persistent attacks could erase that distinction rapidly. The biggest energy-market risk is simultaneous, prolonged disruptions in the Bab al‑Mandeb and the Strait of Hormuz; if that occurs, flexibility to reroute cargoes would be very limited and shipping interruptions could quickly feed into broader inflationary pressure.
 
 ---
 
@@ -20270,179 +20450,5 @@ A St. Louis Fed paper finds U.S. AI adoption materially outpaces Europe, and the
 ### 2026-07-22 10:32:10  #市場
 
 【港股黃金股走強 赤峰黃金漲超15%】截至發稿，赤峰黃金(06693.HK)漲15.20%，紫金黃金國際(02259.HK)漲14.33%，靈寶黃金(03330.HK)漲13.99%，潼關黃金(00340.HK)漲7.81%。
-
----
-
-### 2026-07-22 10:32:07  #市場
-
-截至早盤收盤，日經225指數漲1.9%，東證指數漲1.3%。
-
----
-
-### 2026-07-22 10:31:57  #宏觀 #國際
-
-【國臺辦：民進黨當局喪失民族立場】國務院臺辦舉行例行新聞釋出會。有記者問：對於菲律賓近日在仁愛礁蓄意挑釁，暴力襲擊中方執法人員，事後還歪曲炒作。臺外事部門竟然附和稱，“譴責大陸使用武力傷人”，反對任何片面以武力、脅迫及灰色地帶襲擾等方式改變現狀的企圖與行動。請問對此有何評論?發言人張晗表示，仁愛礁是中國南沙群島的一部分，是中國領土。民進黨當局喪失民族立場，附和外部勢力混淆是非，攻擊抹黑大陸，再次暴露了其數典忘祖、“倚外謀獨”的邪惡本質。
-
----
-
-### 2026-07-22 10:31:46  #市場 #焦點
-
-甲醇連續主力合約日內跌1%，現報2687.00元。
-
----
-
-### 2026-07-22 10:31:29  #公司
-
-【中堅科技：樺之堅與上海市長寧區簽約】據中堅科技訊息，7月20日，長寧區與中堅科技旗下上海樺之堅科技有限公司正式簽約。今後，長寧區將在“樺之堅具身智慧機器人研發專案”上與樺之堅展開合作。
-
----
-
-### 2026-07-22 10:31:19  #其他
-
-【海關總署：“十五五”時期將擴大先進技術裝置等進口】7月22日，海關總署署長孫梅君在國新辦釋出會上表示，“十五五”時期海關將促進進口和出口更加協調，商籤更多貿易合作檔案，擴大先進技術裝置、關鍵零部件、能源資源、優質農產品進口和來源國，便利全球好物出口中國、分享中國大市場機遇，也為中國消費者提供更多多樣化的選擇。(新華社)
-
----
-
-### 2026-07-22 10:31:06  #市場
-
-上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報141400元/噸，較上日16:30價格持平。
-
----
-
-### 2026-07-22 10:31:00  #宏觀
-
-【臺當局威脅民眾審慎赴陸 國臺辦：其行可恥其心可誅】國務院臺辦舉行例行新聞釋出會。有記者問，臺陸委會近日稱，今後每週定期公佈民眾赴大陸失聯、遭關押等資料，提醒大眾赴大陸要審慎評估，“能不去就不去”。請問對此有何評論？ 發言人張晗答問表示，據國家出入境管理局統計，今年1-6月兩岸人員往來311.9萬人次，同比增長22.1%。其中，臺胞來大陸285萬人次，同比增長24.9%。越來越多的臺灣同胞來大陸交流參訪、學習就業、旅遊觀光。 她表示，我們依法維護來大陸的臺灣同胞生命財產安全和合法權益，廣大臺灣同胞平安順利往返兩岸。民進黨當局罔顧事實，編造謊言，屢屢翻炒所謂“失聯人員資料”，企圖製造“寒蟬效應”，欺騙、恐嚇臺灣民眾以達到限縮兩岸交流、隔斷兩岸同胞親情的目的，其行可恥，其心可誅。
-
----
-
-### 2026-07-22 10:30:55  #MKT News #Important
-
-China's General Administration of Customs said it will expand imports of advanced technology equipment during the 15th Five-Year Plan period, Xinhua reported.
-
----
-
-### 2026-07-22 10:30:48  #MKT News #Market Regions #Greater China
-
-【Jiangsu 1H GDP +5.2% YoY】Jiangsu provincial statistics bureau reported 1H real GDP of 7.039 trillion yuan, up 5.2% YoY. By sector, value added: primary 193.1 billion yuan (+3.4% YoY); secondary 2.952 trillion yuan (+4.9%); tertiary 3.894 trillion yuan (+5.5%).
-
----
-
-### 2026-07-22 10:30:32  #MKT News #CNH #Impact bullish #Copper #DXY #Impact bearish
-
-【China Customs says new China-US positioning stabilizes trade outlook】China Customs Director Sun Meijun said on July 22 that China-US goods trade shifted from contraction to growth in April, with volumes expanding further in May and June, reflecting a new China‑US positioning that provides a stabilizing outlook for bilateral and international trade and economic activity.
-
----
-
-### 2026-07-22 10:30:32  #經濟數據 #中國
-
-【江蘇上半年GDP增長5.2%】7月22日訊息，據江蘇省統計局，根據地區生產總值統一核算結果，上半年全省實現地區生產總值70387.3億元，按不變價格計算，同比增長5.2%。其中，第一產業增加值1930.7億元，同比增長3.4%；第二產業增加值29520.6億元，增長4.9%；第三產業增加值38935.9億元，增長5.5%。
-
----
-
-### 2026-07-22 10:29:56  #公司
-
-【海南省“十五五”服務業發展規劃：島內居民日用消費品免稅店實現各市縣全覆蓋】海南省人民政府辦公廳近日印發《海南省“十五五”服務業發展規劃》，其中提出，島內居民日用消費品免稅店實現各市縣全覆蓋。支援開設跨境電商線上線下體驗店，構建“離島免稅＋島內居民日消品免稅＋跨境電商”多層次消費供給。挖掘國潮、海南獨家、科技新品等新供給。完善消費爭議解決機制，營造安全放心、國際一流的免稅購物環境。“十五五”時期，招引高階品牌直營免稅運營中心5家以上，國際頂級免稅集團分銷中心1家，國內免稅集團國際免稅事業部門以及特色商品經營部門等3—4家。
-
----
-
-### 2026-07-22 10:29:39  #焦點 #國際
-
-【海關總署：中美關係新定位為中美和國際經貿發展提供穩定預期】7月22日，海關總署署長孫梅君在國新辦新聞釋出會上表示，對美進出口今年4月由降轉增，5月、6月規模持續擴大，這表明中美關係新定位，為中美和國際經貿發展提供了穩定預期。
-
----
-
-### 2026-07-22 10:29:39  #MKT News #Market Regions #Greater China
-
-【Taiwan Affairs Office says cross‑strait exchanges mutually beneficial, unstoppable】China's Taiwan Affairs Office spokeswoman Zhang Han said cross‑strait trade in 1H 2026 totaled $185bn, with mainland imports from Taiwan at $133.1bn (+22.5% YoY) and mainland exports to Taiwan $31.9bn (+32.9% YoY). She said the data show complementary industrial structures and broad cooperation prospects, adding that strengthening cross‑strait economic and trade ties and deepening integration align with market forces and enterprise interests.
-
----
-
-### 2026-07-22 10:29:30  #其他
-
-【江蘇上半年GDP增長5.2%】據江蘇省統計局，根據地區生產總值統一核算結果，上半年全省實現地區生產總值70387.3億元，按不變價格計算，同比增長5.2%。其中，第一產業增加值1930.7億元，同比增長3.4%；第二產業增加值29520.6億元，增長4.9%；第三產業增加值38935.9億元，增長5.5%。
-
----
-
-### 2026-07-22 10:29:27  #宏觀
-
-【國臺辦：兩岸交流合作互利互贏任何人都阻擋不了】國務院臺辦發言人張晗答記者問。有記者詢問，近日，臺灣地區行政機構負責人卓榮泰在出席“亞洲臺灣商會聯合總會”活動時稱，臺灣已修正過去對“中國單一市場”的依賴，移轉到歐美及南向國家；對於臺商在全世界投資也組成了協助平臺。請問對此有何評論？ 張晗答問表示，2026年上半年，兩岸貿易額達到1850億美元，其中大陸自臺進口1331億美元，同比增幅22.5%。大陸對臺出口319億美元，同比增幅32.9%。這充分說明，兩岸產業結構優勢互補，合作前景廣闊。加強兩岸經貿合作，深化兩岸融合發展，符合兩岸同胞企業的共同利益，也是經濟規律和市場原則共同作用的結果。兩岸交流合作、互利互贏是任何人都阻擋不了的。
-
----
-
-### 2026-07-22 10:28:54  #MKT News
-
-China A-share liquid-cooled server sector oscillated higher; Tongfei Co. jumped more than 10%, with Yingweike, Feilong Co., Shenglan Co., Dayuan Pump and Jialitu also advancing.
-
----
-
-### 2026-07-22 10:28:30  #其他
-
-【滔搏回應耐克線上渠道調整：將共同促進耐克品牌的長期、健康及可持續發展】7月22日，滔搏確認，其在中國內地的耐克產品線上平臺銷售將於2027年1月1日起全面終止。滔搏是耐克在中國最大的經銷商，雙方合作已逾27年。滔搏表示，中長期看，這有助於耐克進一步提升消費者體驗、增強產品吸引力，並推動市場生態更加健康、有序和可持續發展。未來將繼續秉持互利雙贏的原則，與耐克保持緊密合作，充分發揮其線上下零售運營、本地消費者服務等優勢，透過新概念運動門店和高質量零售場景，為中國消費者帶來更專業、更豐富的運動體驗。
-
----
-
-### 2026-07-22 10:27:31  #公司 #市場
-
-【液冷伺服器概念震盪走強 同飛股份漲超10%】液冷伺服器概念震盪走強，同飛股份漲超10%，英維克、飛龍股份、勝藍股份、大元泵業、佳力圖跟漲。
-
----
-
-### 2026-07-22 10:27:24  #國際
-
-【美眾議院透過短期撥款法案】當地時間7月21日晚，由共和黨掌控的美國國會眾議院透過一項短期撥款措施，為聯邦機構提供運轉資金至12月4日，以避免在11月中期選舉前出現政府“停擺”。若國會屆時未採取行動，大部分聯邦機構的專案資金將在當前財年結束的9月30日午夜到期。 該議案現已提交參議院。據悉，參議院共和黨領袖正與民主黨磋商，醞釀推出參議院版本的短期撥款法案。 （CCTV國際時訊）
-
----
-
-### 2026-07-22 10:26:58  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #DXY #Impact bearish
-
-【140 million Chinese shopped globally via cross-border e-commerce in 1H】In 1H, cross-border e-commerce exports via overseas warehouses rose 3.3x and about 140 million Chinese consumers bought goods internationally through cross-border e-commerce. CUSTOMS says China’s cross-border e-commerce import‑export value reached 2.84 trillion yuan in 2025, up 4.8% YoY, with market procurement exports exceeding 800 billion yuan.
-
----
-
-### 2026-07-22 10:26:10  #其他 #焦點
-
-【今年上半年我國1.4億人透過跨境電商全球購物】在國新辦7月22日舉行的釋出會上，海關總署署長孫梅君介紹，今年上半年，跨境電商出口海外倉增長3.3倍，我國已有1.4億人透過跨境電商全球購物，新業態新模式蓬勃發展。（新華社）
-
----
-
-### 2026-07-22 10:25:51  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Holds Firm on Middle East Risks — The dollar index held above 101 on Wednesday after advancing for a fourth straight session, supported by higher Treasury yields and rising oil prices as the US carried out strikes on Iranian targets for an 11th consecutive night. President Donald Trump also downplayed the likelihood of near-term talks with Tehran, while Iran-backed Houthi rebels in Yemen disrupted shipping through the Red Sea. Meanwhile, a series of attacks on the Caspian Pipeline Consortium terminal along Russia’s Black Sea coast added to supply concerns. On the economic front, ADP data showed US private employers added an average of 16,500 jobs per week over the four weeks ending July 4, down from an average weekly gain of 19,250 in the prior four-week period, marking a fourth straight slowdown in hiring. Markets expect the Federal Reserve to leave interest rates unchanged at next week’s meeting, while pricing in more than a 55% chance of a rate hike in September.
-
----
-
-### 2026-07-22 10:25:45  #MKT News #Market Regions #Greater China #02259.HK #Impact bullish #02899.HK #01787.HK
-
-Hong Kong-listed gold miners surged: Zijin Gold International (02259.HK), Chifeng Gold (06693.HK) and Lingbao Gold (03330.HK) rose over 14%; Tongguan Gold (00340.HK), Zijin Mining (02899.HK) and Shandong Gold (01787.HK) gained more than 7%; Zhaojin Mining (01818.HK) and Jihai Gold (02489.HK) advanced over 5%.
-
----
-
-### 2026-07-22 10:25:22  #國際
-
-【海關總署：2025年榴蓮進口186.8萬噸 較2022年翻番】7月22日，海關總署副署長王軍在國新辦新聞釋出會上表示，從“車釐子自由”到“榴蓮自由”，越來越多全球好物“飛入尋常百姓家”。以榴蓮為例，2022年以來，先後完成了越南、馬來西亞、寮國等五國榴蓮輸華准入，進口來源持續拓寬。去年榴蓮進口達到186.8萬噸，數量較2022年翻了一番。王軍指出，目前我國已經成為全球160多個國家和地區的主要貿易伙伴，進口商品來源更廣、品類更多、結構更優，大洋洲的牛奶、非洲的咖啡、歐洲的冰鮮三文魚漂洋過海進入中國老百姓的購物車。“十五五”時期，海關總署將從最佳化准入、監管、服務三個方面，擴大進口。
-
----
-
-### 2026-07-22 10:25:14  #宏觀
-
-【國臺辦：民進黨當局迎合外部勢力掏空臺灣優勢產業是不折不扣的害臺、禍臺】國務院臺辦舉行例行新聞釋出會。有記者問：近日，臺灣地區行政機構負責人卓榮泰在出席“亞洲臺灣商會聯合總會”活動時稱，臺灣已修正過去對“中國單一市場”的依賴，移轉到歐美及南向國家；對於臺商在全世界投資也組成了協助平臺。請問對此有何評論?發言人張晗表示，加強兩岸經貿合作，深化兩岸融合發展，符合兩岸同胞企業的共同利益，也是經濟規律和市場原則共同作用的結果。兩岸交流合作、互利互贏是任何人都阻擋不了的。民進黨當局為“倚外謀獨”、無恥賣臺、獻媚輸誠，迎合外部勢力掏空臺灣優勢產業，是不折不扣的害臺、禍臺行為。
-
----
-
-### 2026-07-22 10:24:32  #其他
-
-【胡可果掛職出任吉林省地方金融管理局副局長，原系遼寧證監局副局長】吉林省地方金融管理局官網資訊顯示，胡可果已掛職出任吉林省委金融辦（吉林省地方金融管理局）副主任（副局長），分管研究室、資本市場處。據瞭解，胡可果現年47歲，曾先後擔任西藏證監局副局長、遼寧證監局副局長等職。
-
----
-
-### 2026-07-22 10:24:02  #其他
-
-【上海虹橋機場口岸7月出入境旅客已超21萬人次，親子游與研學成主力】從上海邊檢獲悉，隨著暑運到來，疊加近期上海重要國際會議、賽事活動密集舉辦，虹橋國際機場口岸迎來出入境客流高峰。7月以來，截至目前，虹橋機場口岸出入境旅客總量已達21萬餘人次，出入境航班970餘架次，整體客流環比6月增加1.2%。當前口岸客流主要以暑期親子游、跨境研學、探親訪友為主，往返日韓、東南亞及港澳地區的旅客佔比最高。此外，受各類涉外展會、高階賽事、商務活動在滬舉辦的影響，虹橋機場口岸公務機、專包機數量顯著增加。7月以來，該站累計查驗公務機及專包機近100架次，較去年同期增長8%。（澎湃新聞）
-
----
-
-### 2026-07-22 10:23:53  #MKT News #WTI #Impact bullish #Brent
-
-【Vanda Insights: Asian fuel importers likely to face prolonged geopolitical volatility】Vanda Insights founder Vandana Hari warned Asia's reliance on fossil-fuel imports—about 90% of primary energy consumption—leaves regional economies exposed to global supply shocks for decades as demand rises and major new fuel discoveries remain scarce. She said import dependence is deepening and that geopolitical turbulence could persist for years to decades. A New Energy Outlook report said Asian economies would gain most from an energy transition and estimates energy import costs in Vietnam, Japan, Indonesia and India will be 3–6% of GDP in 2025.
 
 ---

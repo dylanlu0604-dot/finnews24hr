@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-26 23:16:02_
-_本檔包含 3479 則快訊，約 685303 字_
+_更新時間：2026-07-27 00:30:18_
+_本檔包含 3465 則快訊，約 685081 字_
+
+---
+
+### 2026-07-21 08:51:40  #市場 #焦點
+
+紐約期金突破4030美元/盎司，日內漲0.35%。
+
+---
+
+### 2026-07-21 08:51:12  #MKT News #Market Themes #Chip Wars #AI Revolution #S&P500 #Impact bullish #Hang Seng Index #CNH
+
+【AI-driven surge lifts South Korea exports; July 1-20 chip exports jump 180%】South Korea's exports rose 52.3% YoY in July 1-20 as AI-driven semiconductor demand pushed chip shipments up 180% to 22.1 bln dlr, customs data showed. Total exports were 54.9 bln dlr versus 36.0 bln dlr a year earlier. Imports increased 20.0% to 42.7 bln dlr, leaving a trade surplus of 12.2 bln dlr. Auto exports fell 10.6% to 3.24 bln dlr. Exports to China nearly doubled to 13.3 bln dlr; shipments to the US rose 39.6% to 8.96 bln dlr. Year-to-date exports through Monday reached 551.2 bln dlr, up 48.7% YoY.
+
+---
+
+### 2026-07-21 08:50:49  #國際
+
+日本內閣官房長官木原稔：日本將加強與新政府領導下的英國的關係。
+
+---
+
+### 2026-07-21 08:50:35  #國際
+
+【全球最大甲醇雙燃料集裝箱船開啟首航】據深圳特區報，7月20日，由中國自主建造、全球載箱量最大的甲醇雙燃料集裝箱船“東方智慧”號從深圳鹽田港首航出境。該船將滿載國產機電產品、傢俱輕工製品等出口貨物，駛往荷蘭鹿特丹、德國漢堡等歐洲樞紐港口，這標誌著我國在超大型清潔能源船舶設計建造領域取得又一重大突破。
+
+---
+
+### 2026-07-21 08:47:30  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
+
+【Margin financing across both exchanges falls CNY 59.685 bln】As of July 20, Shanghai Stock Exchange margin financing balance was CNY 1.362747 tln, down CNY 30.086 bln from the previous trading day; Shenzhen Stock Exchange margin financing balance was CNY 1.326713 tln, down CNY 29.599 bln. Combined margin financing across the two exchanges was CNY 2.68946 tln, down CNY 59.685 bln versus the prior trading day.
+
+---
+
+### 2026-07-21 08:47:28  #其他
+
+【兩市融資餘額減少596.85億元】截至7月20日，上交所融資餘額報13627.47億元，較前一交易日減少300.86億元；深交所融資餘額報13267.13億元，較前一交易日減少295.99億元；兩市合計26894.6億元，較前一交易日減少596.85億元。
+
+---
+
+### 2026-07-21 08:47:26  #其他
+
+【整治AI毒動畫、炒作網紅兒童等亂象 “清朗”行動劃定監管紅線】為進一步加強未成年人網路保護，營造風清氣正的網路空間，近日，中央網信辦印發通知，在全國範圍內部署啟動為期4個月的“清朗·未成年人網路保護”專項行動，覆蓋內容生產傳播全流程、全鏈條。中央網信辦釋出通知明確，在釋出環節，將整治編造毒動畫，利用AI技術惡搞經典動畫形象，刻意放大暴力恐怖元素，釋出窒息挑戰等鼓動危險行為，還要整治包裝炒作“神童轉世”“早熟小美女”等，打造爭議兒童人設。還有整治擺拍逃學曠課、厭學躺平等，宣揚不良價值觀等影片內容。（央視）
+
+---
+
+### 2026-07-21 08:47:05  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australia Shares Retreat to Near 2-Week Low — Australian equities fell 47 points or 0.5% to 8,744 on Tuesday morning deals, extending weakness for the fourth straight session and approaching their lowest level in nearly two weeks. Sentiment tracked weaker U.S. futures after Wall Street closed lower overnight, pressured by rising oil and Treasury yields. Geopolitical tensions added to caution as President Trump vowed Iran would “pay” for the deaths of three U.S. service members, while Yemen’s Houthis declared a maritime embargo on Saudi Arabia. Locally, traders stayed guarded ahead of June labor data and July flash PMIs later this week. Most sectors dropped, led by manufacturing, healthcare, logistics, and process industries. The big four banks lost 0.9–1.2%, while Pro Medicus (-3.6%), QBE (-2.1%), Brambles (-1.9%), and Lynas (-1.0%) weighed. Bucking the trend, Yancoal Australia jumped 3.9% while South32 was up 3.7%. Nextdc rose 2.6% after reporting an 11% rise in contracted utilisation over the final ten weeks of its fiscal year.
+
+---
+
+### 2026-07-21 08:46:02  #公司
+
+【合肥產投促進新興產業股權基金成立】企查查APP顯示，近日，合肥產投促進新興產業股權投資基金合夥企業（有限合夥）成立，出資額20億元，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由合肥市產業投資控股（集團）有限公司等共同出資。
+
+---
+
+### 2026-07-21 08:45:45  #觀點
+
+【華泰證券：半年報盈利兌現快遞行業景氣，關注淡季價格表現】華泰證券研報指出，6月，消費資料環比改善，社零、商品零售額當月同比分別增長1.0%、0.9%；線上零售保持韌性，網上商品零售額同比增長3.9%，去年618大促前置的高基數影響消除。快遞行業件量增速雖較5月有所回落，但“反內卷”背景下價格同比增幅繼續擴大，行業盈利修復趨勢延續。近期電商快遞龍頭陸續釋出半年報業績預告，利潤同比高增驗證行業景氣改善。往後展望，隨著618旺季結束，行業將進入傳統淡季，短期需關注價格競爭及半年報情況；中長期，《擴大消費“十五五”規劃》有望支撐快遞需求持續增長，當前板塊估值仍處歷史較低水平，優質龍頭或具備配置價值。
+
+---
+
+### 2026-07-21 08:44:44  #國際
+
+【海軍83艦編隊繼續執行遠海綜合實習訪問任務】20日上午，由中國海軍戚繼光艦和崑崙山艦組成的83艦編隊，搭載900餘名海軍學員和官兵，從湛江某軍港解纜起航，繼續執行遠海綜合實習訪問任務。 本次隨艦實習訪問的學員主要來自海軍大連艦艇學院，9名來自韓國、越南、孟加拉國等國的外國海軍軍官將與中方學員混編同訓，共同完成此次實習訪問。 此次任務旨在透過遠海實踐，全面提升海軍學員航海技能、崗位認知和綜合素養，為未來海軍職業生涯發展奠定堅實基礎。（國防部發布）
+
+---
+
+### 2026-07-21 08:44:22  #MKT News #Market Themes #AI Revolution #Chip Wars
+
+【Kioxia shares halved but analysts remain bullish; average target 130% above current price】Analysts remain bullish on Japan’s memory-chip maker Kioxia despite a sharp price correction, citing intact fundamentals and strong AI-driven demand. The mean analyst target is 121,959 JPY, roughly 130% above the current share price. Kioxia fell to 52,110 JPY last Friday, about half its record high from under a month ago. Iwai Cosmo Securities senior analyst Kazuyoshi Saito sets a 132,000 JPY target, saying fundamentals are unchanged and that easing of supply-demand distortions tied to factors such as Korean ETFs would allow robust earnings and AI demand to lift the stock.
+
+---
+
+### 2026-07-21 08:43:34  #公司 #市場
+
+【上海資產管理協會：堅定看好中國資本市場、當好維護資本市場穩定的壓艙石】上海資產管理協會及其銀行理財、保險資管、信託公司、券商資管、公募基金、私募基金以及資管服務機構等會員單位，堅定看好中國資本市場發展前景，全力服務國家戰略佈局。上海資產管理協會理事會監事會持續組織會員單位積極踐行資本市場“理性投資、價值投資、長期投資”理念。堅決當好中國資本市場的價值發現者、維護資本市場穩定的壓艙石和服務實體經濟的主力軍。上海資產管理協會發揮好資產管理行業協會、資產管理專業技術協會作用，組織會員單位建設“一流投資機構”，提升服務實體經濟、科技創新和居民財富管理能力，以上海資產管理業高質量發展促進中國資本市場高質量發展。
+
+---
+
+### 2026-07-21 08:43:23  #MKT News #Important
+
+South Korea's KOSPI rose as much as 1.00% intraday after earlier falling 1%.
+
+---
+
+### 2026-07-21 08:43:15  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+【Shanghai Asset Management Association pledges support for Chinese capital markets, to act as ballast for market stability】The Shanghai Asset Management Association and its members — including bank wealth managers, insurance asset managers, trust companies, securities asset managers, public and private funds and asset-management service firms — said they remain firmly positive on the outlook for China’s capital markets and will fully support national strategic priorities. The association’s council and supervisory board said they will continue to organize members to pursue rational, value and long-term investment, and to act as value discoverers, a stabilizing ballast for market stability and a principal source of capital for the real economy.
+
+---
+
+### 2026-07-21 08:43:02  #公司 #國際
+
+【韓國綜指漲幅擴大至1%】韓國綜指漲幅擴大至1%，現報6593.03點。個股方面，三星電子漲超3%，SK海力士漲超2%。
+
+---
+
+### 2026-07-21 08:42:27  #公司 #市場
+
+三星電子股價上漲2.7%，至250,500韓元。
+
+---
+
+### 2026-07-21 08:41:16  #公司
+
+畢馬威澳大利亞任命約翰·薩姆斯為執行長。
+
+---
+
+### 2026-07-21 08:39:33  #國際
+
+【美國總統特朗普簽署行政令 要求國防承包商梳理關鍵供應鏈以評估風險】根據白宮週一新簽署的一項行政命令，美國國防承包商將被要求梳理關鍵供應鏈，以識別供應來源。“這是在為戰場做準備。如果某套導彈系統依賴一家受外國控制的供應商，那麼戰爭爆發前，戰爭部就必須掌握這一情況，”總統高階貿易顧問彼得·納瓦羅向記者表示。美國總統唐納德·特朗普簽署這項行政命令，要求國防部長皮特·海格塞斯啟動相關程式，推動承包商梳理關鍵供應鏈。政府高階官員表示，這項工作將覆蓋從原材料到最終交付軍方產品的整個生產鏈，尤其關注供應鏈較下游的環節。不過，他們未透露相關規則制定的具體時間表。
+
+---
+
+### 2026-07-21 08:38:29  #國際
+
+【IMF經審查後批准向烏克蘭提供6.9億美元】國際貨幣基金組織(IMF)表示，其執行董事會已完成對烏克蘭融資安排的審議，為該國立即獲得約6.9億美元的資金鋪平了道路。
+
+---
+
+### 2026-07-21 08:38:01  #國際
+
+【調查：韓國第二季經濟增速或將放緩，內需疲軟抵消強勁出口增長】路透對經濟學家進行的一項調查顯示，由於強勁的出口增長被內需疲軟所抵消，韓國第二季經濟增速可能比第一季慢得多。根據24位受訪經濟學家的預估中值，韓國2026年第二季經季調國內生產總值(GDP)為增長0.4%，低於今年第一季度的1.8%增幅，後者為近六年來最快增速。這項調查在7月7日至20日進行，預測區間在0.1%至1.0%之間。
+
+---
+
+### 2026-07-21 08:37:32  #Trading Economics #Markets #India #Earnings #Importance 0
+
+UltraTech Cement earnings above expectations at 88.31 INR — UltraTech Cement (UTCEM) released earnings per share at 88.31 INR, compared to market expectations of 74.89 INR.
+
+---
+
+### 2026-07-21 08:37:22  #公司 #市場 #觀點
+
+【上證報：A股市場經歷階段性調整 穩市場力量在集結】近期，A股市場經歷階段性調整，市場情緒承壓。然而，在劇烈波動之中，穩市場的各方力量正在集結：萬億險資逆勢加倉，堅定做“耐心資本”；多家券商接力回購股份，密集發聲穩定預期；券商首席普遍認為調整屬技術性回撥，A股中長期韌性充足。經濟基本面向好、政策託底有力、產業趨勢未變，正是機構看多後市的底氣所在。對於市場調整後的操作策略，券商趨於一致的建議是：不恐慌“割肉”，也不盲目抄底。中國銀河證券首席經濟學家、研究院院長章俊表示：本輪下跌屬於良性的技術性調整，當下市場已具備企穩反彈條件，指數迎來修復視窗。中信證券研報認為，前期指數調整更類似於市場K形分化後的再平衡。在高位板塊估值壓力釋放後，A股市場定價有望逐步迴歸基本面邏輯。
+
+---
+
+### 2026-07-21 08:36:22  #市場 #焦點
+
+現貨黃金突破4020美元/盎司，日內漲0.33%。
+
+---
+
+### 2026-07-21 08:36:16  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Climb in Post-Holiday Trading — The Nikkei 225 Index rose 1.2% to above 64,900, while the broader Topix Index gained 0.8% to 3,950 on Tuesday, recovering part of last week's losses as investors returned from a holiday-extended weekend, with technology stocks leading the advance. The recent selloff in semiconductor and artificial intelligence-related shares showed signs of easing after US chipmakers posted overnight gains. Leading technology performers in Japan included Kioxia Holdings (3.4%), Advantest (0.8%), Taiyo Yuden (0.9%), Ibiden Co (3%), and Fujikura (0.9%). Financial and consumer stocks also moved higher, including Mitsubishi UFJ (0.8%), Sumitomo Mitsui (0.9%), and Fast Retailing (1.3%). Meanwhile, investors continued to monitor ongoing hostilities in the Middle East, which drove oil prices higher and reignited concerns over inflation and the possibility of interest rate hikes.
+
+---
+
+### 2026-07-21 08:35:53  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【US official: Trump to decide within days whether to expand operations against Iran】According to Fox News, US senior officials said President Trump is expected to decide within days whether to broaden military action against Iran and resume full-scale operations; no final decision has been made. Officials said any order to resume full-scale operations would be far larger and more intense than the airstrikes that began July 7 and ran nine nights, which mainly targeted Iranian military assets tied to activity around the Strait of Hormuz. One official said US forces have largely avoided strikes near Tehran or against Iranian nuclear facilities to date; that could change if full-scale operations are ordered.
 
 ---
 
@@ -20772,245 +20928,5 @@ Iranian military said air-defence units shot down an enemy MQ-9 Reaper drone in 
 ### 2026-07-20 00:30:54  #MKT News
 
 Saudi outlet Alhadath reported President Aoun told US Secretary of State Rubio Washington should strengthen support for the Lebanese army and military institutions. Rubio said Lebanon must not be treated as a subsidiary issue of other negotiations and that Lebanon’s sovereignty can only be decided and upheld by its constitutional institutions.
-
----
-
-### 2026-07-20 00:29:49  #國際
-
-【伊朗外長：伊朗打擊美軍基地一舉重塑地區安全格局】伊朗外長阿拉格齊表示，伊朗針對地區內美軍基地發起的報復性軍事打擊，從根本上重塑了區域安全格局。阿拉格齊於週日一檔電視訪談中，詳述了伊美談判、自2月末爆發的美以挑起的衝突，以及伊朗針對侵略行為採取的反制舉措。他稱，地區各國此前並未料到，伊朗會在整片區域多點發起打擊，而各方卻無力做出有效回擊。他補充道：“地區各方原本不相信我們能全域出擊，更沒想到他們無從反擊。這一重大事態徹底改寫了地區安全架構。”
-
----
-
-### 2026-07-20 00:29:24  #MKT News
-
-【NYT: FBI told agents it will stop probing clashes involving immigration officers】The New York Times, citing people familiar with the matter, reported the FBI has notified federal agents nationwide it will no longer investigate altercations involving immigration enforcement officers. Such probes have sometimes led to prosecutions of Department of Homeland Security officers in violent incidents; if put into effect, the change would significantly reduce oversight of immigration agents amid rising criticism of the Trump administration over deaths involving federal officers. Local FBI managers received written notice on Thursday, and ICE personnel in parts of the country received corresponding notice the same day. The Department of Justice and the Department of Homeland Security issued a joint statement denying they are moving forward with the change.
-
----
-
-### 2026-07-20 00:28:37  #國際
-
-伊朗外長阿拉格齊表示，伊朗對美軍基地的打擊重塑了地區安全格局。
-
----
-
-### 2026-07-20 00:27:57  #國際
-
-伊朗革命衛隊在南部作戰區擊落一架敵對的間諜無人機，並完整繳獲。
-
----
-
-### 2026-07-20 00:25:29  #MKT News
-
-The Israel Defense Forces said the Israeli Air Force recently intercepted a drone near the Israel-Syria border. The origin of the launch is under investigation and no air-defense alerts were activated.
-
----
-
-### 2026-07-20 00:25:12  #國際
-
-以色列國防軍：以方在以敘邊境區域攔截一架無人機。
-
----
-
-### 2026-07-20 00:22:32  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Saudi outlet Alhadath cites the Israel Defense Forces chief of staff saying the IDF has observed attacks targeting Jordan's Aqaba region and Israel's air-defence systems are on high alert.
-
----
-
-### 2026-07-20 00:21:52  #國際
-
-美國邊境事務主管稱，移民與海關執法局官員在攔停車輛期間必須佩戴隨身執法記錄儀。
-
----
-
-### 2026-07-20 00:18:41  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-According to Israel's Channel 14, the IDF chief of staff said the military is maintaining the highest alert level and is prepared to return to combat at any time.
-
----
-
-### 2026-07-20 00:17:25  #MKT News #BA.N #Impact bullish #AER.N
-
-Market sources say aircraft lessor AerCap is in talks with Boeing to buy 787 Dreamliners at the Farnborough Airshow in the UK.
-
----
-
-### 2026-07-20 00:17:17  #公司
-
-【航空租賃公司AerCap將在英國航展洽談採購波音787夢想客機】知情人士透露，全球飛機租賃巨頭AerCap控股公司正洽談採購波音787夢想客機，這筆交易有望成為即將開幕的範堡羅國際航展上租賃企業大單中的一筆。這家全球規模最大的飛機租賃公司考慮採購至多15架波音這款美製寬體客機。相關談判尚處保密階段。交易尚未敲定，條款存在變動可能，雙方也有可能洽談無果、無法達成協議。本屆行業年度航展將於週一在倫敦郊外舉辦，各大全球頭部航空融資企業的購機訂單，或將成為本次航展簽約交易的核心板塊。
-
----
-
-### 2026-07-20 00:16:12  #公司
-
-航空租賃公司AerCap正於英國航展洽談採購波音787夢想客機。
-
----
-
-### 2026-07-20 00:15:14  #MKT News
-
-Lebanon's National News Agency reported Israeli forces dropped a blast bomb on the southern town of Harris and shelled the nearby towns of Shamaa, Majdal Zoun and Beit Sayyed.
-
----
-
-### 2026-07-20 00:07:29  #MKT News #Market Regions #Europe & UK #Brent #Impact bullish #WTI
-
-【FT: Incoming UK PM Burnham to retain ban on new North Sea exploration licences】The FT reports incoming UK prime minister Burnham will uphold Labour’s pledge to stop issuing new North Sea exploration licences, dashing industry hopes for a significant reversal of fossil-fuel policy. Labour deputy leader Lucy Powell said on Sunday Burnham will not overturn the manifesto commitment; an industry source warned the sector would be highly discontent if the ban remains. Recent reports that Burnham might pivot to a pro‑drilling North Sea strategy now appear unlikely.
-
----
-
-### 2026-07-20 00:04:54  #MKT News
-
-【Central Peru earthquake kills five】Peru's National Civil Defense Institute official Luis Vasquez said on July 19 that a magnitude-5.1 earthquake on the evening of July 18 in central Peru has killed five. The quake has injured more than 20 people and affected about 300. Peru's Geophysical Institute said the tremor occurred at 21:24 local time on July 18 (10:24 Beijing time on July 19); the epicenter was 7 km south of Chupaca in Junín province and the focal depth was 24 km.
-
----
-
-### 2026-07-20 00:04:05  #MKT News
-
-Financial Times reports incoming UK prime minister Burnham will uphold Labour’s controversial ban on new North Sea exploration licences, dashing oil and gas industry hopes for a substantial shift in fossil-fuel policy.
-
----
-
-### 2026-07-19 23:59:30  #公司
-
-【富創精密：上半年淨利同比預增877%-1122% 半導體裝置核心零部件需求提升公司產能釋放】富創精密(688409.SH)公告稱，預計上半年實現營業收入21億元到25億元，同比增長21.83%到45.03%；歸屬於上市公司股東的淨利潤1.20億元-1.50億元，同比增長877.49%-1121.86%。業績變動主要系境內外晶圓製造企業持續推進產能建設，帶動半導體裝置核心零部件市場需求提升，同時公司各生產基地產能逐步釋放，單位制造成本最佳化。公司Q2淨利潤預計0.62億-0.92億，Q1淨利潤0.58億，據此計算，Q2淨利潤預計環比增長7%-58%。
-
----
-
-### 2026-07-19 23:58:44  #MKT News #Important
-
-Tasnim News Agency reports Iran says the explosion in Abadan was related to Iranian military operations and was not a U.S. attack.
-
----
-
-### 2026-07-19 23:47:57  #MKT News #Important
-
-【CSRC to hold roundtable tomorrow on market stability】Several listed companies and market institutions have been notified to attend a CSRC roundtable tomorrow. The regulator will solicit views and suggestions on promoting market stability and healthy development.
-
----
-
-### 2026-07-19 23:47:25  #公司 #焦點
-
-【證監會明天將召開座談會促進市場穩定健康發展】證券時報記者瞭解到，多家上市公司、市場機構已收到監管部門通知，將於明日參加證監會座談會。本次座談，證監會旨在就促進市場穩定健康發展聽取各方意見建議。
-
----
-
-### 2026-07-19 23:43:19  #MKT News #WTI #Impact bullish #Brent
-
-【Former US admiral warns Suez Canal merits heightened monitoring alongside Strait of Hormuz】Former US Navy Admiral James Stavridis warned Washington to closely monitor Iranian activity in the Suez Canal, saying shipping traffic through Suez exceeds the Strait of Hormuz and that Iran has begun signaling it could seek to use Houthi forces to close the waterway. He added Tehran is closely observing the war in Ukraine and appears to be adopting asymmetric tools—drones, unmanned systems and mobile tactics—to impose costs on adversaries.
-
----
-
-### 2026-07-19 23:39:38  #其他
-
-英國下一任首相伯納姆將維持北海勘探開採許可禁令。
-
----
-
-### 2026-07-19 23:33:34  #國際
-
-以色列國防軍：週日凌晨，以軍在加沙地帶多個地區實施打擊，摧毀多處基礎設施，包括一處武器儲存設施、一處武器生產場所以及一處火箭發射陣地。
-
----
-
-### 2026-07-19 23:32:00  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Iranian media: Strait of Hormuz transit volume down to zero】Iranian media on the 19th, citing an IRGC naval source, reported that shipping through the Strait of Hormuz has fallen to zero. The source said no vessels are currently transiting, any transit attempts would be struck, and the strait will remain closed with no transit permits issued so long as the United States continues what Iran describes as hostile and provocative actions.
-
----
-
-### 2026-07-19 23:27:03  #其他
-
-【姚期智：中國AI產業領跑全球 AI將徹底改變科研】在本屆世界人工智慧大會上，姚期智院士在7月19日的思想者論壇上暢談AI發展新方向、人機協同與青年成長思考。談及國內AI發展現狀，姚期智直言，近幾年我國人工智慧產業進步速度非常快，整體發展水平位於世界前列。同時他也提到，人的本身是最寶貴的，當人學會了使用工具，和工具加在一起才會變得更加強大。“我覺得兩三年以後，AI會給這些做科學研究的人一個翻天覆地的變化。未來個人能力加上AI工具變成一個組合，競爭物件是組合，而不是個人。”
-
----
-
-### 2026-07-19 23:26:25  #MKT News #Market Themes #AI Revolution
-
-【Yao Qizhi: China’s AI industry among world leaders】Speaking at the World Artificial Intelligence Conference thought-leader forum on July 19, academic Yao Qizhi said China’s AI sector has progressed very rapidly in recent years and is at the global forefront. He said people remain the most valuable asset and that combining human skills with AI tools will substantially increase capability. He forecast AI will deliver a revolutionary impact on scientific research within 2–3 years and that future competition will be between human+AI combinations, not individuals.
-
----
-
-### 2026-07-19 23:26:08  #其他
-
-哈薩克評估油輪遇襲造成的損失，並保留要求賠償的權利。
-
----
-
-### 2026-07-19 23:26:00  #其他
-
-哈薩克要求停止針對其石油出口基礎設施的襲擊，呼籲各夥伴國譴責此類行為。
-
----
-
-### 2026-07-19 23:21:51  #MKT News
-
-U.S. State Department said Secretary of State Rubio reiterated U.S. commitment to support successful implementation of the framework.
-
----
-
-### 2026-07-19 23:21:41  #宏觀 #國際
-
-美國國務院：魯比奧重申美國承諾支援該框架的順利落實。
-
----
-
-### 2026-07-19 23:20:40  #MKT News
-
-U.S. State Department said Secretary of State Rubio discussed implementation of a tripartite framework with Lebanese President Aoun.
-
----
-
-### 2026-07-19 23:20:34  #MKT News
-
-The IDF said it detected missiles launched by Iran toward Aqaba, Jordan, near Israel. To prevent debris from falling into Israeli territory the IDF fired multiple interceptors to intercept missile remnants; there were no casualties or damage reported, air-raid sirens were not activated under established procedures, and the incident has ended.
-
----
-
-### 2026-07-19 23:20:27  #宏觀 #國際
-
-美國國務院：魯比奧與奧恩討論了三邊框架的落實工作。
-
----
-
-### 2026-07-19 23:20:09  #MKT News
-
-US State Department: US Secretary of State Rubio met Lebanese President Aoun on Sunday.
-
----
-
-### 2026-07-19 23:20:00  #宏觀 #國際
-
-美國國務院：魯比奧週日與黎巴嫩總統奧恩舉行了會晤。
-
----
-
-### 2026-07-19 23:18:45  #其他
-
-環球影業：《奧德賽》全球票房收入達2.641億美元。
-
----
-
-### 2026-07-19 23:18:25  #國際
-
-烏克蘭哈爾科夫州軍事管理部門稱，俄軍炮擊該州，造成4人死亡、數十人受傷。
-
----
-
-### 2026-07-19 23:17:05  #其他
-
-【光電融合晶片有望讓Token成本降50% 國產算力叢集或成降本關鍵】當前，隨著AI智慧體在各行業的應用深入，Token的呼叫量一直保持著高速增長態勢。未來如何能讓算力成本進一步下降，成為各方發力的重點。業內人士介紹，他們正透過算力平臺來協調多個主流大模型的使用，綜合降低詞元成本。同時，還在全國範圍加快大規模算力叢集的建設。而國產算力晶片支撐的超大規模算力叢集，被業內視作是下一步降本的關鍵。此外，未來三五年內，光晶片等更前沿的新技術落地，也有望成為降低算力成本的另一探索方向。“光電融合的晶片相比電晶片的話，核心在於它的計算延遲更低、功耗也會更低。每單位Token成本會相應下降50%，甚至更多。”
-
----
-
-### 2026-07-19 23:16:39  #MKT News #Market Themes #Chip Wars #AI Revolution
-
-【Optoelectronic fusion chips could halve per-token cost; China-made compute clusters seen as key】Rising use of AI agents has driven rapid growth in token consumption. Firms are deploying compute platforms to orchestrate multiple leading LLMs and compress token costs, while accelerating China-wide buildout of large-scale compute clusters. Industry participants say hyperscale clusters powered by China-made compute chips are the next key lever to cut costs. Over the next 3–5 years, photonic/optoelectronic chips and other frontier technologies could further reduce per-token compute costs by roughly 50% or more by lowering latency and power per operation.
-
----
-
-### 2026-07-19 23:16:04  #國際
-
-伊朗革命衛隊聖城旅指揮官伊斯梅爾·卡尼：在伊朗最高領袖穆傑塔巴的領導下，“抵抗運動”這條“光榮道路”將延續下去。
 
 ---
