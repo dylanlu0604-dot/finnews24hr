@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 17:25:48",
-  "count": 18142,
+  "updated": "2026-07-26 17:29:39",
+  "count": 18138,
   "items": [
+    {
+      "id": "5008486",
+      "time": "2026-07-26 17:27:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國海上貿易行動辦公室收到紅海南部週五發生事故的相關報告。"
+    },
     {
       "id": "mkt:019f9dba-0b95-7aab-8e99-a61412bd7c0a",
       "time": "2026-07-26 17:20:43",
@@ -166152,53 +166160,6 @@
         "其他"
       ],
       "text": "【產業資本密集出手！7月以來深市新增回購增持54單，上限超76億元】近期，面對二級市場持續調整，產業資本密集出手。以深市為例，7月以來，深市合計披露回購增持計劃54單。其中，回購計劃披露33單，回購金額上限為60.38億元；增持計劃披露21單，增持金額上限為16.09億元。（中證金牛座）"
-    },
-    {
-      "id": "mkt:019f79b5-9077-7aab-8df6-7829e72f9f8c",
-      "time": "2026-07-19 17:29:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China's IP collectible toy sector could top 100 billion yuan】Over 36,000 firms now operate in China's designer/collectible toy sector. The IP-driven market is forecast to exceed 100 billion yuan by 2027 and reach roughly 130 billion yuan by 2029; the industry is expected to create substantial hiring demand and is expanding school-enterprise cooperation to develop creative and AI-related skills."
-    },
-    {
-      "id": "4996020",
-      "time": "2026-07-19 17:29:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【陝西首條專業化星載鐳射通訊終端智慧產線在西安投產】據陝西釋出，近日，陝西首條專業化星載鐳射通訊終端智慧產線在西安投產，標誌著星載鐳射通訊終端正式從實驗室走向生產線，將全面提升我國衛星自主執行、高效組網與大規模星座管理能力。陝西首條專業化星載鐳射通訊終端智慧產線一期可年產600套鐳射通訊終端，預計2027年可實現年產千套以上能力。量產終端通訊速率覆蓋5Gbps至100Gbps，體積小、功耗低、抗干擾能力強，核心光學部件均為西安光機所自主研發，可充分適配各類低軌巨型星座批次配套需求。"
-    },
-    {
-      "id": "4996019",
-      "time": "2026-07-19 17:28:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基宣佈烏軍對俄境內多處石油及海上目標實施遠端打擊 】烏克蘭總統澤連斯基在社交媒體發文證實，烏方已啟動遠端打擊行動，對俄羅斯境內多處石油設施及海上目標實施打擊。澤連斯基表示，此次打擊目標分佈廣泛，縱深跨度極大。烏克蘭國家安全域性作戰人員摧毀了斯塔夫羅波爾地區的三座油庫；烏國防力量則打擊了該地區另一處燃料儲備設施。此外，烏軍在黑海海域對三艘俄羅斯“影子艦隊”油輪實施了精準打擊。"
-    },
-    {
-      "id": "mkt:019f79b3-a045-7aab-8df6-77388920d53b",
-      "time": "2026-07-19 17:27:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukrainian President Zelenskiy said Kyiv's forces struck three oil depots and a fuel facility in Russia's Stavropol region."
-    },
-    {
-      "id": "4996018",
-      "time": "2026-07-19 17:27:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基稱，基輔軍隊襲擊了俄羅斯斯塔夫羅波爾地區的三處油庫和一處燃料設施。"
     }
   ]
 }
