@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-26 20:09:27",
-  "count": 18101,
+  "updated": "2026-07-26 20:13:34",
+  "count": 18097,
   "items": [
+    {
+      "id": "5008551",
+      "time": "2026-07-26 20:09:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊媒：一艘油輪在霍爾木茲海峽觸雷爆炸】據伊朗法爾斯通訊社26日報道，當天，一艘在霍爾木茲海峽偏離伊朗指定航線的油輪觸雷爆炸。（新華社）"
+    },
     {
       "id": "5008550",
       "time": "2026-07-26 20:07:03",
@@ -165784,55 +165793,6 @@
         "其他"
       ],
       "text": "新華社記者19日在約旦首都安曼聽到防空警報聲。（新華社）"
-    },
-    {
-      "id": "mkt:019f7a4b-79d6-7aab-8df7-9634e2dbc692",
-      "time": "2026-07-19 20:13:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps navy told Fars News that the Strait of Hormuz will remain closed so long as U.S. hostile actions continue. The IRGC said no vessels are currently transiting the strait and any attempt to pass, particularly by what it called provocative ships, would be met by Iran's armed forces."
-    },
-    {
-      "id": "4996100",
-      "time": "2026-07-19 20:12:26",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "約旦國家電視臺：全境鳴響警報。"
-    },
-    {
-      "id": "mkt:019f7a4a-6ebc-7aab-8df7-8c6dff890301",
-      "time": "2026-07-19 20:12:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jordanian state television reports warning sirens have sounded."
-    },
-    {
-      "id": "4996099",
-      "time": "2026-07-19 20:11:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊針對霍爾木茲海峽關閉問題通報稱：在美國持續襲擊之際，海峽將維持關閉狀態。"
-    },
-    {
-      "id": "mkt:019f7a48-6c46-7aab-8df7-865cc9f40745",
-      "time": "2026-07-19 20:09:54",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Israel Defense Forces (IDF) said it recently detected missiles launched by Iran toward Jordan's port city of Aqaba, adjacent to Israeli territory. Debris from the strike could fall into Israel, and air-raid sirens may sound in southern Israel."
     }
   ]
 }
