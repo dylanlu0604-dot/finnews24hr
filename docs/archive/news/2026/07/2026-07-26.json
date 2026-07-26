@@ -1,7 +1,33 @@
 {
   "date": "2026-07-26",
-  "count": 469,
+  "count": 472,
   "items": [
+    {
+      "id": "mkt:019f9d68-1f44-7aab-8e99-457d5c009d95",
+      "time": "2026-07-26 15:51:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKO issues Yellow Rainstorm Warning."
+    },
+    {
+      "id": "mkt:019f9d67-7d8d-7aab-8e99-3b09a769028e",
+      "time": "2026-07-26 15:50:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Xindian Software expects ~63.02 mln yuan loss in 1H2026】On July 26 Xindian Software said it expects 1H2026 revenue of 570 mln yuan, down 14.93% YoY, and a net loss attributable to the parent of about 63.02 mln yuan. The company cited constrained customer budgets and extended delivery cycles on some projects as the main drivers of the revenue decline."
+    },
+    {
+      "id": "5008445",
+      "time": "2026-07-26 15:50:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“紅霞”將至 湖南啟動防汛抗災三級應急響應】記者26日從湖南省應急管理廳獲悉，根據當前天氣形勢和後期雨水情預測，湖南省應急委員會決定自7月26日16時起，對全省14個市州同步啟動防汛、地質災害、自然災害救助三級應急響應。據湖南省氣象部門預報，受颱風“紅霞”北上影響，7月26日至28日湘東、湘北有暴雨到大暴雨，其中26日湘東南局地有特大暴雨，並伴有8至10級雷暴大風等強對流天氣。經綜合研判和應急會商，7月26日11時起，湖南省氣象局決定將暴雨、強對流四級應急響應提升為三級。（新華社）"
+    },
     {
       "id": "5008444",
       "time": "2026-07-26 15:46:45",
