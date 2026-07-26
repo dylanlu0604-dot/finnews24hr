@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-26 23:24:06",
-  "count": 18030,
+  "updated": "2026-07-26 23:28:09",
+  "count": 18032,
   "items": [
+    {
+      "id": "5008639",
+      "time": "2026-07-26 23:27:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受降雨影響，黑龍江多列車停運】7月26日，大興安嶺地區行署交通運輸局釋出訊息，受降雨影響，黑龍江多列車停運。當日，加格達奇開K7103次、加格達奇開K7104次、哈爾濱開K7041次、漠河開K7042次、綏化開K7038/9次、漠河開K7040/37次、加格達奇開6245次、古蓮開6246次、滿洲里開K7094次停運。 此外，7月26日加格達奇開K498次、K2062次、K490次變更為齊齊哈爾站始發，加格達奇至齊齊哈爾間停運。7月25日天津開K489次變更為齊齊哈爾終到，北京開K497次變更為齊齊哈爾終到，大連開K2061次變更為齊齊哈爾終到，齊齊哈爾至加格達奇間停運；哈爾濱開K7093次停運。（新華社）"
+    },
+    {
+      "id": "mkt:019f9f08-d42c-7aab-8e9a-f841070d72f9",
+      "time": "2026-07-26 23:26:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Mehr News Agency said Iran's foreign minister Araghchi spoke by phone with Russian foreign minister Lavrov this afternoon to discuss recent regional and international developments."
+    },
+    {
+      "id": "5008637",
+      "time": "2026-07-26 23:26:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡辦公室官員：內閣已作出決定，只有以色列有權批准哪些國家可向加沙派遣軍隊。"
+    },
+    {
+      "id": "5008636",
+      "time": "2026-07-26 23:25:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡辦公室官員：我方同意和平委員會及國際部隊進駐加沙的相關條款，已寫入特朗普和平方案。"
+    },
+    {
+      "id": "5008635",
+      "time": "2026-07-26 23:24:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：必須讓俄羅斯民眾深刻認識到，執行特別軍事行動計程車兵肩負使命的重大意義，他們正在為國效力。"
+    },
+    {
+      "id": "5008634",
+      "time": "2026-07-26 23:24:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士：伊方可對等停火 但對美方持懷疑態度】一名伊朗訊息人士說，只要美國停止軍事打擊，伊朗也將停止軍事行動，但伊方仍對美方的意圖持“懷疑態度”。這名訊息人士表示，伊朗的立場還是“以反擊回應攻擊”。如果攻擊停止，伊朗也同樣會停止行動。這一立場已經傳達給美國。但伊方對美方此次停火的誠意“懷疑大於樂觀”，認為這一決定更多出於戰術考量。（新華社）"
+    },
     {
       "id": "5008633",
       "time": "2026-07-26 23:22:27",
@@ -165158,40 +165206,6 @@
         "Brent"
       ],
       "text": "【Iranian media: Strait of Hormuz transit volume down to zero】Iranian media on the 19th, citing an IRGC naval source, reported that shipping through the Strait of Hormuz has fallen to zero. The source said no vessels are currently transiting, any transit attempts would be struck, and the strait will remain closed with no transit permits issued so long as the United States continues what Iran describes as hostile and provocative actions."
-    },
-    {
-      "id": "4996200",
-      "time": "2026-07-19 23:27:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【姚期智：中國AI產業領跑全球 AI將徹底改變科研】在本屆世界人工智慧大會上，姚期智院士在7月19日的思想者論壇上暢談AI發展新方向、人機協同與青年成長思考。談及國內AI發展現狀，姚期智直言，近幾年我國人工智慧產業進步速度非常快，整體發展水平位於世界前列。同時他也提到，人的本身是最寶貴的，當人學會了使用工具，和工具加在一起才會變得更加強大。“我覺得兩三年以後，AI會給這些做科學研究的人一個翻天覆地的變化。未來個人能力加上AI工具變成一個組合，競爭物件是組合，而不是個人。”"
-    },
-    {
-      "id": "mkt:019f7afc-57e6-7aab-8df9-39e0d06595f1",
-      "time": "2026-07-19 23:26:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Yao Qizhi: China’s AI industry among world leaders】Speaking at the World Artificial Intelligence Conference thought-leader forum on July 19, academic Yao Qizhi said China’s AI sector has progressed very rapidly in recent years and is at the global forefront. He said people remain the most valuable asset and that combining human skills with AI tools will substantially increase capability. He forecast AI will deliver a revolutionary impact on scientific research within 2–3 years and that future competition will be between human+AI combinations, not individuals."
-    },
-    {
-      "id": "4996199",
-      "time": "2026-07-19 23:26:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈薩克評估油輪遇襲造成的損失，並保留要求賠償的權利。"
-    },
-    {
-      "id": "4996198",
-      "time": "2026-07-19 23:26:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈薩克要求停止針對其石油出口基礎設施的襲擊，呼籲各夥伴國譴責此類行為。"
     }
   ]
 }
