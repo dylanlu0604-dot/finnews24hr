@@ -1,7 +1,38 @@
 {
   "date": "2026-07-26",
-  "count": 617,
+  "count": 619,
   "items": [
+    {
+      "id": "mkt:019f9e83-278b-7aab-8e9a-409808ffee45",
+      "time": "2026-07-26 21:00:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Microsoft",
+        "Amazon",
+        "Meta Platforms",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "Magnificent 7",
+        "DXY",
+        "Impact mixed",
+        "WTI",
+        "Nasdaq100"
+      ],
+      "text": "【Weekly preview: Fed-led central-bank week, core PCE and GDP in focus; Meta, Microsoft, Amazon, Apple, SK Hynix earnings; OPEC+ meeting】Monday — Germany IFO (Jul); UK CBI retail (Jul); US June durable goods orders (MoM) and Dallas Fed activity. Tuesday — US ADP (week to Jul 11), FHFA house prices (May MoM), S&P/Case‑Shiller 20‑city (May YoY), Conference Board consumer confidence (Jul), Richmond Fed manufacturing; RBA chair BULLOCK speaks. Wednesday — API crude inventories (week to Jul 24); Australia unadjusted CPI (Jun YoY); Swiss ZEW (Jul); UK mortgage approvals (Jun); EIA crude, Cushing and SPR stocks (week to Jul 24); SK Hynix Q2 results. Thursday — FOMC rate decision and press conference with KEVIN WARSH; BOE rate decision, minutes and BAILEY press conference; BOC minutes. Major US data: June core PCE (MoM and YoY), personal spending (Jun), Q2 preliminary real GDP (annualized) and preliminary PCE‑based core inflation (Q2 annualized), initial jobless claims; Germany, France and euro‑area Q2 preliminary GDP; euro‑area June unemployment and July sentiment surveys; German July CPI flash; EIA weekly gas stocks. Tech earnings after US close: Meta, Microsoft, Qualcomm, Arm. Friday — BOJ rate decision and economic outlook; BOJ governor UEDA press conference; China official manufacturing PMI (Jul); Japan unemployment (Jun); UK Nationwide house prices (Jul); euro‑area and France CPI flash (Jul); Germany unemployment (Jul); Canada GDP (May MoM); US Q2 labor‑costs, Chicago PMI (Jul), Michigan final consumer sentiment and 1‑yr inflation expectation; domestic China starts new refined‑oil price adjustment window; Amazon and Apple report after US close (Jul 30). Saturday — US oil rig count (week to Jul 31). Sunday — OPEC+ monthly ministerial meeting on oil policy."
+    },
+    {
+      "id": "5008580",
+      "time": "2026-07-26 21:00:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄羅斯“聯盟MS-28”飛船搭載宇航員返回地球】俄羅斯國家航天集團26日在社交媒體釋出訊息說，“聯盟MS-28”載人飛船搭載3名宇航員從國際空間站返回地球，並於莫斯科時間26日13時27分（北京時間26日18時27分）在哈薩克傑茲卡茲甘市附近著陸。（新華社）"
+    },
     {
       "id": "mkt:019f9e7d-2ce5-7aab-8e9a-383fbb9d7723",
       "time": "2026-07-26 20:53:51",

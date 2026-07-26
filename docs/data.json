@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-26 20:58:35",
-  "count": 18077,
+  "updated": "2026-07-26 21:03:24",
+  "count": 18078,
   "items": [
+    {
+      "id": "mkt:019f9e83-278b-7aab-8e9a-409808ffee45",
+      "time": "2026-07-26 21:00:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Microsoft",
+        "Amazon",
+        "Meta Platforms",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "Magnificent 7",
+        "DXY",
+        "Impact mixed",
+        "WTI",
+        "Nasdaq100"
+      ],
+      "text": "【Weekly preview: Fed-led central-bank week, core PCE and GDP in focus; Meta, Microsoft, Amazon, Apple, SK Hynix earnings; OPEC+ meeting】Monday — Germany IFO (Jul); UK CBI retail (Jul); US June durable goods orders (MoM) and Dallas Fed activity. Tuesday — US ADP (week to Jul 11), FHFA house prices (May MoM), S&P/Case‑Shiller 20‑city (May YoY), Conference Board consumer confidence (Jul), Richmond Fed manufacturing; RBA chair BULLOCK speaks. Wednesday — API crude inventories (week to Jul 24); Australia unadjusted CPI (Jun YoY); Swiss ZEW (Jul); UK mortgage approvals (Jun); EIA crude, Cushing and SPR stocks (week to Jul 24); SK Hynix Q2 results. Thursday — FOMC rate decision and press conference with KEVIN WARSH; BOE rate decision, minutes and BAILEY press conference; BOC minutes. Major US data: June core PCE (MoM and YoY), personal spending (Jun), Q2 preliminary real GDP (annualized) and preliminary PCE‑based core inflation (Q2 annualized), initial jobless claims; Germany, France and euro‑area Q2 preliminary GDP; euro‑area June unemployment and July sentiment surveys; German July CPI flash; EIA weekly gas stocks. Tech earnings after US close: Meta, Microsoft, Qualcomm, Arm. Friday — BOJ rate decision and economic outlook; BOJ governor UEDA press conference; China official manufacturing PMI (Jul); Japan unemployment (Jun); UK Nationwide house prices (Jul); euro‑area and France CPI flash (Jul); Germany unemployment (Jul); Canada GDP (May MoM); US Q2 labor‑costs, Chicago PMI (Jul), Michigan final consumer sentiment and 1‑yr inflation expectation; domestic China starts new refined‑oil price adjustment window; Amazon and Apple report after US close (Jul 30). Saturday — US oil rig count (week to Jul 31). Sunday — OPEC+ monthly ministerial meeting on oil policy."
+    },
+    {
+      "id": "5008580",
+      "time": "2026-07-26 21:00:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄羅斯“聯盟MS-28”飛船搭載宇航員返回地球】俄羅斯國家航天集團26日在社交媒體釋出訊息說，“聯盟MS-28”載人飛船搭載3名宇航員從國際空間站返回地球，並於莫斯科時間26日13時27分（北京時間26日18時27分）在哈薩克傑茲卡茲甘市附近著陸。（新華社）"
+    },
     {
       "id": "mkt:019f9e7d-2ce5-7aab-8e9a-383fbb9d7723",
       "time": "2026-07-26 20:53:51",
@@ -165598,14 +165629,6 @@
         "其他"
       ],
       "text": "【馬裡政府軍車隊遭伏擊 逾50人死亡】馬裡政府軍一支車隊18日在該國北部地區遭極端組織和分離主義武裝聯合襲擊，逾50人喪生。這支車隊在從馬裡北部阿內菲斯鎮前往加奧市的途中遇襲。馬裡軍方說，車隊遭“恐怖武裝團伙伏擊”。馬裡分離主義武裝“阿扎瓦德解放陣線”和極端組織“支援伊斯蘭教和穆斯林”發表宣告，宣稱它們聯合發動這次襲擊，打死大量士兵並俘獲多人。一名不願公開姓名的地方政府官員告訴法新社，政府軍方面“超過50人死亡，至少24人被俘”。馬裡軍方一名訊息人士說，一些被俘士兵遭處決。據美聯社報道，發動襲擊的武裝人員釋出多個影片，顯示政府軍士兵在被包圍後投降。在一段影片中，武裝人員向一些躺在地上計程車兵開火。這些影片的真實性尚未得到證實。（新華社）"
-    },
-    {
-      "id": "4996127",
-      "time": "2026-07-19 20:59:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿聯酋向加沙地帶運送近千噸援助物資】過去一週內，阿拉伯聯合大公國向巴勒斯坦加沙地帶運送了62輛卡車的援助物資，總計980噸，其中包括加沙民眾急需的食品和藥品等。據阿聯酋通訊社19日報道，上述物資分5個車隊運入加沙地帶。在埃及阿里什市，阿聯酋人道援助支援團隊仍在準備和裝運更多援助物資。加沙地帶18日再遭以色列襲擊。據加沙民防部門和醫院訊息，以軍當天襲擊造成11人死亡，包括3名兒童及其父母。加沙地帶民防部門發言人說，上述一家五口死於以軍對加沙城一處住宅樓的襲擊。以軍發言人證實發動襲擊，稱打擊目標為一名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）“恐怖分子”。（新華社）"
     }
   ]
 }
