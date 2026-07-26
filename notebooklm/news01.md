@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-26 19:04:32_
-_本檔包含 3541 則快訊，約 688429 字_
+_更新時間：2026-07-26 20:13:34_
+_本檔包含 3515 則快訊，約 687913 字_
+
+---
+
+### 2026-07-26 20:09:57  #焦點 #國際
+
+【伊媒：一艘油輪在霍爾木茲海峽觸雷爆炸】據伊朗法爾斯通訊社26日報道，當天，一艘在霍爾木茲海峽偏離伊朗指定航線的油輪觸雷爆炸。（新華社）
+
+---
+
+### 2026-07-26 20:07:03  #其他
+
+【甘肅省委書記、省長在渭源縣現場指揮搶險救災並看望慰問受傷人員】今天14時許，定西市渭源縣會川鎮羅家磨村雙石門溝因上游短時強降雨引發山洪，導致附近露營自駕遊遊客被困。險情發生後，甘肅省委書記、省人大常委會主任胡昌升，省委副書記、省長任振鶴第一時間趕到現場指揮救援，併到醫院看望慰問受傷人員。截至目前，應急、消防、衛健等部門正在緊張有序推進各項搶險救援工作。（澎湃）
+
+---
+
+### 2026-07-26 20:04:40  #其他
+
+【武契奇：塞爾維亞總統選舉最早可能於今年12月底舉行】當地時間7月26日，塞爾維亞總統武契奇表示，總統選舉的時間將取決於議會選舉的安排。如果議會選舉於今年10月舉行，總統選舉最早可能在今年12月底或明年1月初舉行；如果議會選舉於11月舉行，總統選舉將在明年1月舉行，最遲不超過2月初。武契奇表示，相信選民將在選舉中決定塞爾維亞未來的發展方向。武契奇2017年4月當選總統，2022年5月連任。根據塞爾維亞憲法，總統任期5年，可連任一次。（央視新聞）
+
+---
+
+### 2026-07-26 20:03:22  #國際
+
+【美國中期選舉進入100天倒計時，民調顯示特朗普支援率處於低位】據報道，在距離美國中期選舉僅剩100天之際，美國總統特朗普領導的共和黨正面臨嚴峻形勢。美國選舉網站“Decision Desk HQ”預測，民主黨贏得眾議院席位的機率為59%。民主黨援引的民調顯示，在通脹、醫療保健甚至長期被視為共和黨強項的移民問題上，選民現在對民主黨的信任度已超過共和黨。
+
+---
+
+### 2026-07-26 20:02:48  #國際
+
+伊朗方面訊息：一艘油輪在霍爾木茲海峽與水雷相撞後發生爆炸。違規油輪已偏離伊朗在霍爾木茲海峽指定的航道。
+
+---
+
+### 2026-07-26 20:02:00  #國際
+
+【以軍空襲加沙地帶中部 造成多名巴勒斯坦人傷亡】以色列軍隊當地時間26日對加沙地帶中部城市代爾拜拉赫發動空襲，據巴勒斯坦紅新月會訊息，一輛汽車被擊中，造成2名巴勒斯坦人死亡，7人受傷。以色列方面援引相關訊息人士的話稱，2名死者分別為巴勒斯坦伊斯蘭抵抗運動（哈馬斯）在加沙地帶中部地區的內部安全部門負責人和一名安全官員。（央視新聞）
+
+---
+
+### 2026-07-26 20:00:40  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+Mehr News Agency reported an oil tanker exploded in the Strait of Hormuz after striking a sea mine. The agency said the tanker had deviated from the Iran-designated transit lane in the strait.
+
+---
+
+### 2026-07-26 19:58:45  #國際
+
+【巴勒斯坦總統呼籲國際社會制止以方行動】當地時間26日，巴勒斯坦總統阿巴斯向世界多國領導人、歐盟、阿拉伯國家聯盟秘書長以及聯合國安理會輪值主席發出信函，呼籲國際社會採取緊急行動，制止以色列在包括東耶路撒冷在內的約旦河西岸對巴勒斯坦人採取的持續軍事行動以及以色列猶太定居者的襲擊行為。阿巴斯在信函中指出，由於以色列軍隊和武裝猶太人定居者持續對巴勒斯坦人實施襲擊，被佔領的巴勒斯坦領土局勢面臨嚴重升級。這些行動導致數百名平民傷亡，大批財產、房屋、宗教場所和農田遭到破壞。他強調，上述行為並非孤立事件，而是以色列政府有系統的政策，旨在透過擴大定居點建設、強化定居者行為來強行改變現狀，並蓄意削弱巴勒斯坦民族權力機構，從而破壞“兩國方案”的實施可能，威脅地區安全與穩定。（央視新聞）
+
+---
+
+### 2026-07-26 19:57:37  #焦點 #國際
+
+【伊朗稱就霍爾木茲海峽航運管理與阿曼會談有進展】據伊朗邁赫爾通訊社26日報道，伊朗外交部發言人巴加埃表示，伊朗近日就霍爾木茲海峽安全航運管理與阿曼舉行副外長級會談，會談“富有成效並取得一些進展”。他說，阿曼代表團已於25日離開德黑蘭，但雙方技術和政治磋商仍將繼續。巴加埃還表示，目前霍爾木茲海峽通航狀況沒有發生變化。（新華社）
+
+---
+
+### 2026-07-26 19:56:00  #MKT News #Important #WTI #Brent
+
+【Iran says progress in talks with Oman on Strait of Hormuz shipping management】Iranian foreign ministry spokesman Baghaei said Iran and Oman held deputy foreign minister-level talks in Tehran on managing safe shipping in the Strait of Hormuz, which he described as productive and making some progress. He said the Omani delegation left Tehran on the 25th but technical and political consultations will continue, and that current navigation conditions in the strait remain unchanged.
+
+---
+
+### 2026-07-26 19:51:39  #宏觀 #焦點 #國際
+
+【7月26日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【新思想引領新徵程】創新驅動 激發更強發展新動能； 2.【樹立和踐行正確政績觀】辦好民生實事 推動學習教育見行見效； 3.颱風“紅霞”今天凌晨登陸 各地各部門全力應對； 4.我國成為世界上少數紅樹林面積持續增加的國家之一； 5.我國冷鏈物流網路加速提質升級； 6.多元文旅資源和消費場景帶動入境遊快速增長； 7.【文化中國行】千年窯火綻芳華； 8.國內聯播快訊： （1）APEC將拓展資料資源開發利用等新領域合作； （2）1—6月我國農業保險提供風險保障3.31萬億元； （3）我國將進一步加強建築市場監管； （4）2025年我國能源重點專案投資同比增長近11%； （5）北京162項公安政務服務事項實現“全程網辦”； （6）第十二批援疆幹部人才赴新疆工作； （7）一艘越南籍船舶遇險沉沒 中方持續救援； 9.美媒稱美總統中斷空襲伊朗 伊朗稱摧毀美軍彈藥庫； 10.法國和西班牙林火災情持續惡化 超30萬人疏散； 11.國際聯播快訊： （1）伊朗譴責烏克蘭襲擊伊朗商船； （2）葉門胡塞武裝稱打擊沙特能源設施； （3）以軍空襲加沙 在西岸扣押巴勒斯坦人； （4）防美干預大選 巴西拒向美官員發籤證。
+
+---
+
+### 2026-07-26 19:50:05  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Iran president: U.S. strikes on Iranian civilian infrastructure are 'clear war crimes'】On the 26th, President PEZESHKIAN and the minister of Roads and Urban Development received a briefing on damage to border crossings, ports, highways and railways. He said U.S. strikes on those civilian transport facilities were "clear war crimes" and called for legal accountability through relevant international organizations and bodies.
+
+---
+
+### 2026-07-26 19:46:38  #國際
+
+【日本沖繩縣宜野灣市議會等要求明確普天間機場歸還期限】日本沖繩縣宜野灣市議會及當地經濟團體等7月26日發表聯合宣告，要求日美兩國政府明確駐日美軍普天間機場的歸還期限。聯合宣告指出，當地居民長期面臨美軍飛機事故風險和噪音侵擾，“忍耐已經到了極限”。宣告呼籲儘快歸還普天間機場並明確歸還期限。宜野灣市市長佐喜真淳表示，日美兩國政府就歸還普天間機場達成協議已過去30年，“照這樣下去，即使再過40年，機場也可能繼續存在”。宜野灣市還計劃向日本首相官邸、防衛省及美國駐日本大使館等機構提出相關要求。（央視新聞）
+
+---
+
+### 2026-07-26 19:42:17  #其他
+
+週日（7月26日），阿曼MSM 30指數收漲0.15%，報7127.88點。卡達證交所指數收跌0.29%，報10003.67點。科威特證交所超級市場價格回報指數收漲0.57%，報9123.98點。
+
+---
+
+### 2026-07-26 19:39:58  #公司 #市場 #國際
+
+【調查顯示日本8月將有近1900種食品漲價】一項最新調查顯示，今年8月日本將有近1900種食品漲價，全年漲價的食品預計將達到約2萬種。日本帝國資料庫公司對全國195家主要食品和飲料生產商展開調查，詢問其漲價意向。結果顯示，8月日本市場將有1898種食品漲價，包括麵粉、泡麵和冷凍食品；9月將有逾3000種食品漲價。該公司預測，按照當前趨勢，日本今年全年將有約2萬種食品漲價。據該公司分析，8月食品漲價主要緣於原材料價格、物流成本、包裝材料價格上漲等。此外，日元貶值導致進口成本增加也是推動食品漲價的因素。（新華社）
+
+---
+
+### 2026-07-26 19:36:59  #公司
+
+【山西汾酒：2025年度每股派發現金紅利6.56元 股權登記日為7月30日】山西汾酒(600809.SH)公告稱，公司2025年年度權益分派方案已獲股東會審議透過，以總股本1,219,964,222股為基數，每股派發現金紅利6.56元(含稅)，共計派發現金紅利約80.03億元。股權登記日為2026年7月30日，除權(息)日及現金紅利發放日為2026年7月31日。
+
+---
+
+### 2026-07-26 19:35:35  #國際
+
+【韓國氣象廳釋出多地最高階別高溫警報】韓國氣象廳26日對該國東南部大邱市和慶尚北道等地釋出最高階別高溫警報，預報將出現“危及生命”的極端高溫，建議民眾立即暫停戶外活動。韓國氣象廳當天上午11時釋出針對大邱市達城郡部分地區、慶尚北道慶山市和清道郡的“高溫重大警報”。對慶尚北道浦項市和慶州市的這一警報已於當天早些時候釋出。據韓聯社報道，截至當地時間13時，慶州市氣溫已達38.4攝氏度，大邱市和浦項市最高溫度分別達到35.4和32.1攝氏度。
+
+---
+
+### 2026-07-26 19:33:34  #其他
+
+【希音披露聆訊後資料集：2025年營收418億美元，業務覆蓋約160個市場】7月26日晚間訊息，希音（SHEIN）向港交所披露聆訊後資料集。若順利掛牌，將成為2026年港股最大的跨境電商IPO。2025年，希音實現總收入418億美元，2023至2025年複合年均增長率達14.2%；2025年同期實現淨利潤20.6億美元。截至2025年底，平臺服務約2.73億活躍客戶，業務覆蓋約160個市場。（新浪科技）
+
+---
+
+### 2026-07-26 19:31:50  #其他
+
+【貴州織金髮生一起山體危巖垮塌 提前轉移未造成人員傷亡】記者從貴州織金縣政府新聞辦獲悉，2026年7月26日10時左右，織金縣馬場鎮中心村二屯組一山體發生危巖垮塌，初步估算垮塌量約400m³。前期經省市縣有關部門和專家進行聯合研判，劃定了該隱患點的緊急避讓區域，相關區域內全部人員已提前轉移，進行了臨時避讓。經核實，現場未造成人員傷亡。（央視新聞）
+
+---
+
+### 2026-07-26 19:28:42  #其他
+
+【甘肅省繼續釋出山洪災害氣象風險橙色預警】甘肅省水利廳、甘肅省氣象局於2026年7月26日18時00分聯合釋出山洪災害氣象風險橙色預警。（央視新聞）
+
+---
+
+### 2026-07-26 19:26:40  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Analysts: Ukraine strike on Iranian merchant ship had two aims】Analysts say Ukrainian forces struck an Iranian merchant ship in the Caspian Sea on July 25; Tehran strongly condemned the attack and summoned Ukraine’s acting chargé d’affaires in Tehran. They assess Kyiv had two objectives. First, to disrupt Iranian military support for Russia: Kyiv has recently stepped up strikes on deep Russian targets—notably energy and logistics infrastructure—which analysts say have harmed Russia’s economy and civilian welfare, while Russia has responded with large-scale drone and ballistic missile attacks inside Ukraine. Second, to help U.S. efforts to pressure Iran in hopes of securing renewed U.S. support: analysts say Washington, long Kyiv’s main military backer, has since President Trump’s second term increasingly pressed Ukraine for concessions to end the conflict, and Kyiv is trying to demonstrate its value to regain U.S. backing.
+
+---
+
+### 2026-07-26 19:23:47  #公司
+
+【SK集團與英偉達達成5000億美元合作 2027年上線首個AI工廠】SK集團日前與英偉達達成價值超過5000億美元的AI合作計劃，包括SK集團旗下的SK電訊將建設2吉瓦容量的AI雲端計算中心，採用英偉達Vera Rubin DSX，並部署基於SK海力士HBM4的Vera Rubin加速計算系統，首個AI工廠計劃於2027年上線；與SK海力士合作開發HBM在內的下一代人工智慧記憶體技術。
+
+---
+
+### 2026-07-26 19:17:07  #MKT News #Market Regions #Greater China
+
+【Xiyin International Holdings Limited passes HKEX listing hearing】Xiyin International Holdings Ltd filed updated post-hearing materials, indicating its HKEX IPO has cleared the listing hearing.
+
+---
+
+### 2026-07-26 19:15:48  #其他
+
+【受颱風“紅霞”影響 江西南部、廣東中北部等地局地特大暴雨】颱風“紅霞”雖已減弱，但它仍將製造強風雨，今天夜間到明天，江西南部、廣東中北部等地局地特大暴雨。之後，颱風的低壓渦旋或在陸地維持較長時間，還將導致湖南、湖北、河南等地出現強降雨。（央視新聞）
+
+---
+
+### 2026-07-26 19:12:03  #國際
+
+【印尼東努沙登加拉省發生5.5級地震】據印度尼西亞氣象、氣候和地球物理局釋出的報告，當地時間26日17時57分，印尼東努沙登加拉省古邦市西南19公里處發生5.5級地震，震源深度26公里。（央視新聞）
+
+---
+
+### 2026-07-26 19:10:44  #國際
+
+【以總理：以色列已準備好升級約旦河西岸軍事行動】當地時間26日，以色列總理內塔尼亞胡在每週內閣會議上發表講話稱，他將於次日啟程前往美國華盛頓會晤美國總統特朗普，雙方將就包括伊朗局勢在內的多項議題展開討論。內塔尼亞胡還稱，此行他還將參加美國已故參議員林賽·格雷厄姆的葬禮。在談及約旦河西岸局勢時，內塔尼亞胡證實，他已下令以軍強行進入當地多個巴勒斯坦村莊進行搜查、繳獲武器並扣押相關人員。他披露，以安全部隊已闖入納布盧斯的一家醫院，扣押了兩名被指控協助襲擊的巴勒斯坦人，並封鎖了一名巴勒斯坦武裝人員的住宅以準備將其拆除。他揚言，以方已準備好在當地展開更大規模的軍事行動。此外，內塔尼亞胡還就國際刑事法院首席檢察官近期遭罷免一事發表評論。他指責該檢察官此前對其和以色列前國防部長加蘭特發出所謂“逮捕令”是出於政治動機，並藉此抨擊海牙國際司法機構。內塔尼亞胡最後表示，他已於25日晚與美國國務卿魯比奧通電話，美方在通話中重申將對海牙相關國際司法機構採取強硬立場和行動。（央視新聞）
+
+---
+
+### 2026-07-26 19:09:37  #其他
+
+市場訊息：SHEIN 1-3月營業收入為2.58億美元，而去年同期為3.48億美元。
+
+---
+
+### 2026-07-26 19:09:03  #宏觀 #國際
+
+印度財政部長：目前不打算調整預算數字。
+
+---
+
+### 2026-07-26 19:08:34  #宏觀 #國際
+
+印度財政部長： 季風氣候不穩定或將加劇印度通脹。
+
+---
+
+### 2026-07-26 19:08:00  #其他
+
+市場訊息： 希音向港交所遞交聆訊後招股檔案。
+
+---
+
+### 2026-07-26 19:06:41  #國際
+
+【伊軍方：因美方過去兩晚停止對伊打擊 伊朗暫停對等打擊】伊朗陸軍發言人阿克拉米尼亞在接受採訪時表示，伊朗現階段採取的是“報復性威懾”戰略，即透過實施對等打擊，威懾美國不要繼續違反其承諾，並迫使其遵守相關諒解備忘錄。他補充說，美方在過去兩晚停止針對伊朗的打擊行動，由於伊朗採取的是報復性戰略，伊朗的對等打擊行動也隨之暫停。 (央視新聞)
 
 ---
 
@@ -21083,347 +21269,5 @@ European Stocks Poised for Muted Open — European equity markets were set to op
 ### 2026-07-24 13:54:35  #公司
 
 【SK海力士清州P&T7潔淨室將提前三個月投入使用】SK海力士正在加快其清州P&T7先進半導體封裝工廠的建設，將其首個潔淨室的啟用時間提前了約三個月。據業內人士7月23日透露，SK海力士目前預計最早將於2027年7月啟用位於P&T7的首個潔淨室。該公司此前曾宣佈的目標是2027年10月。一位業內人士透露：“SK海力士近期提前啟動了P&T7潔淨室公用設施和基礎設施專案的招標工作。公司內部預計，潔淨室的啟用時間將比原計劃提前約一個季度。”部分裝置相關的招標專案未能吸引到投標人，目前正在重新發布。業內人士預計，所有公用設施基礎設施的招標工作最遲將於8月左右完成。 (the elec)
-
----
-
-### 2026-07-24 13:54:13  #MKT News #Market Themes #The Trump Trade #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-European Central Bank Governing Council member Moulin said President Trump’s tariffs have added further uncertainty to the global economy and growth.
-
----
-
-### 2026-07-24 13:54:08  #國際
-
-穆蘭：特朗普的關稅政策給世界經濟和經濟增長增添了更多不確定性。
-
----
-
-### 2026-07-24 13:53:56  #央行 #國際
-
-歐洲央行管委穆蘭：法國銀行業資本充足，穩健可靠。
-
----
-
-### 2026-07-24 13:53:28  #央行 #歐洲央行
-
-歐洲央行管委穆蘭表示，將關注石油衝擊的規模和持續時間。
-
----
-
-### 2026-07-24 13:53:21  #其他
-
-SK海力士股價跌7.2%。
-
----
-
-### 2026-07-24 13:52:28  #MKT News
-
-ECB Governing Council member Moulin said she will monitor the size and persistence of the oil shock.
-
----
-
-### 2026-07-24 13:52:21  #央行 #國際
-
-穆蘭表示，歐洲央行正在密切關注油價的影響。
-
----
-
-### 2026-07-24 13:52:05  #宏觀
-
-起亞：儘管面臨中國車企的競爭，但預計下半年不會出臺更高的激勵措施。
-
----
-
-### 2026-07-24 13:51:04  #國際
-
-起亞：在美國喬治亞州工廠開始生產獅跑，以提高混合動力車型的產量。
-
----
-
-### 2026-07-24 13:50:49  #MKT News #USDJPY #Impact bearish #Nikkei 225
-
-Japan 5-year JGB yield rose to a record 2.045%.
-
----
-
-### 2026-07-24 13:50:40  #央行 #國際
-
-歐洲央行管委穆蘭：將關注石油危機的規模和持續時間。
-
----
-
-### 2026-07-24 13:50:19  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
-
-【SOCGEN: Seasonal narrowing in euro-area bond yield spreads has not materialized】SOCGEN interest-rate strategists say renewed geopolitical tensions have left euro-area government bond yield spreads under widening pressure and the usual seasonal narrowing has not materialized. "The usual seasonal narrowing has not worked because, with expected new issuance after summer and rising political uncertainty, investors appear reluctant to hold spread-long positions," they said. They expect the 10-year France-Germany spread may trade range-bound over the summer but warn that weak fundamentals, heavy bond supply and uncertain investor demand warrant caution in the medium term. Italy-Germany spreads remain linked to oil prices; strategists still prefer short-dated sovereign exposure.
-
----
-
-### 2026-07-24 13:50:05  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact mixed #GBPUSD #DXY
-
-Germany's August GfK consumer confidence index and the UK June seasonally adjusted retail sales (MoM) are due in 10 minutes.
-
----
-
-### 2026-07-24 13:49:07  #公司
-
-【曬出317萬年終獎後，騰訊一員工疑因洩密被辭退】近日，有網友曬出疑似騰訊內部發布的通報：WXG某專案組負責人葉某在職期間，因私自洩露公司敏感資訊，被公司辭退並列入黑名單，永不錄用。此次事件源於此前一張刷屏全網的年終收入截圖。截圖顯示，該員工年終收入由現金和股票獎勵兩部分組成，共計約317萬元，其中現金部分約82萬元，股票獎勵約235.59萬元。隨後，有網友發現截圖自帶騰訊內部水印，隨即引發薪資洩密爭議。風波發酵後，葉某的內部會議日程被迅速清空。據悉，葉某2025年兩次斬獲騰訊最高績效評級“outstanding”，這份頂尖業績也成為其拿到高額年終獎的重要原因。（海報新聞）
-
----
-
-### 2026-07-24 13:49:02  #市場
-
-富時中國A50指數期貨下跌1%。
-
----
-
-### 2026-07-24 13:48:48  #公司
-
-【中國工程院院士陸建勳逝世，享年97歲】7月24日，中國船舶集團有限公司第七研究院釋出訃告，中國共產黨黨員，中國工程院院士，原中國船舶工業總公司第七研究院院長、黨組書記陸建勳同志因病醫治無效，於2026年7月23日18時31分，在北京逝世，享年97歲。
-
----
-
-### 2026-07-24 13:48:17  #公司 #市場 #國際 #原創
-
-【SpaceX據悉暫停部分獵鷹9號發射服務預訂 加快向星艦過渡】據知情人士透露，SpaceX已開始拒絕希望在2028年後透過其主力火箭“獵鷹9號”獲得專屬發射服務的衛星運營商，這凸顯出埃隆·馬斯克對尚未成熟的“星艦”（Starship）專案所下的重注。其中一位知情人士表示，馬斯克旗下這家火箭、衛星和人工智慧巨頭還已停止生產“獵鷹”系列部分不可重複使用的元件，例如火箭的大型上面級。知情人士稱，SpaceX目前也不再接受“獵鷹9號”拼單發射專案的未來預訂。該專案允許多家衛星運營商共用同一枚火箭進入軌道。知情人士表示，SpaceX的計劃仍可能因多種因素髮生變化，包括“星艦”研發遭遇新的挫折。部分知情人士稱，該公司未來仍可能繼續使用“獵鷹9號”為美國國防部和美國國家航空航天局(NASA)執行發射任務。
-
----
-
-### 2026-07-24 13:48:09  #MKT News #VOW3.DE #Impact bearish #DAX
-
-Volkswagen Q2 operating margin 4.2% (market est. 4.79%); operating profit €3.47bln (est. €4.07bln); revenue €82.44bln (est. €81.72bln).
-
----
-
-### 2026-07-24 13:47:31  #央行 #美聯儲
-
-【摩根士丹利：預計美聯儲將在7月會議上按兵不動】摩根士丹利策略師在一份報告中表示，近期資料表明，美聯儲將在7月份的會議上按兵不動，並且有可能在今年剩餘時間裡維持利率不變。他們寫道：“美聯儲對高於目標的通脹正失去耐心。未來幾個月通脹走勢至關重要——我們預計通脹將如預期般回落——否則美聯儲可能會在今年晚些時候轉而加息。”目前貨幣市場已消化了美聯儲在年底前加息近兩次的預期。
-
----
-
-### 2026-07-24 13:47:21  #國際
-
-馬來西亞總理表示，馬來西亞將就新關稅問題與美國進行磋商。
-
----
-
-### 2026-07-24 13:46:59  #公司
-
-【金信資本等成立低空經濟產業創投基金】企查查APP顯示，近日，東莞金信低空經濟產業創業投資基金合夥企業（有限合夥）成立，出資額3億元，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由廣東金信資本投資有限公司、東莞市創新創業投資母基金合夥企業（有限合夥）、東莞市科創資本投資管理有限公司共同持股。
-
----
-
-### 2026-07-24 13:46:35  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bullish #S&P500 #DXY #Impact bearish
-
-【Morgan Stanley: Fed likely to hold at July meeting】Morgan Stanley strategists say recent data point to the Fed holding policy at its July meeting and potentially keeping rates unchanged for the rest of the year. They warn the Fed is losing patience with above-target inflation and that inflation’s path over the coming months is critical — if disinflation proceeds as expected the Fed may stay on hold, but failure to slow could prompt tightening later in the year. Money markets have priced in nearly two hikes by year-end. Morgan Stanley expects disinflation will allow the federal funds rate to remain at 3.50%-3.75% through the year.
-
----
-
-### 2026-07-24 13:46:13  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時縮量2558億元。
-
----
-
-### 2026-07-24 13:45:53  #公司
-
-【瀋陽飛機工業（集團）有限公司一行到華中數控考察調研】據華中數控訊息，7月19日，瀋陽飛機工業（集團）有限公司黨委副書記、總經理左林玄一行到公司考察調研。雙方圍繞高階數控系統核心技術攻關、國產裝置規模化應用等議題展開深入探討。隨後，雙方人員一同前往華中科技大學機械科學與工程學院及國家智慧設計與數控技術創新中心，開展專題技術交流。座談會上，校企三方就聯合技術攻關、創新成果轉化、應用場景拓展等達成多項共識。
-
----
-
-### 2026-07-24 13:44:24  #央行 #歐洲央行
-
-【歐洲央行管委科赫爾：歐洲央行需嚴防第二輪通脹效應 力爭將通脹回落至2%的目標水平】歐洲央行管委科赫爾表示，擔憂通脹走高、中東局勢升級風險。歐洲央行需嚴防第二輪通脹效應，力爭將通脹回落至2%的目標水平。
-
----
-
-### 2026-07-24 13:43:33  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
-
-ECB executive board member Kocher said the growth outlook is weak but the economy remains far from recession.
-
----
-
-### 2026-07-24 13:43:22  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #DAX
-
-ECB executive board member Kocher said there is currently no risk of a recession in the euro area.
-
----
-
-### 2026-07-24 13:43:06  #國際
-
-科赫爾：歐洲經濟增長預測並不樂觀，但預計不會出現衰退。
-
----
-
-### 2026-07-24 13:42:42  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed
-
-ECB Governing Council member Kocher said the duration of the Middle East conflict is clearly critical for monetary policy.
-
----
-
-### 2026-07-24 13:42:39  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #Hang Seng Index
-
-FTSE China A50 index futures fell more than 1%.
-
----
-
-### 2026-07-24 13:42:36  #MKT News #Market Themes #The Trump Trade
-
-EU: on Trump's tariffs, said the outcome is consistent with the tariff commitments the US agreed to under the EU-US joint statement.
-
----
-
-### 2026-07-24 13:42:24  #央行 #國際
-
-歐洲央行管委科赫爾：我們將竭盡全力實現中期目標。
-
----
-
-### 2026-07-24 13:42:09  #公司
-
-【首鋼氣體完成兩軌衛星推進劑加註】據首鋼集團訊息，近日，首鋼氣體依託自研航天氙氪智慧加註成套裝備，圓滿完成兩軌共計42顆衛星電推進劑加註任務。這套自主研發裝置填補國內商業航天高純智慧加註技術空白。
-
----
-
-### 2026-07-24 13:41:53  #央行 #國際
-
-歐洲央行管委卡西克 ：歐洲央行的政策目前處於評估形勢的有利位置。
-
----
-
-### 2026-07-24 13:40:55  #央行 #國際
-
-歐洲央行管委科切爾：如果通脹前景惡化，通脹預期走弱，就有必要採取行動。
-
----
-
-### 2026-07-24 13:40:44  #市場 #國際
-
-5年期日本國債收益率升至2.040%，追平歷史最高紀錄。
-
----
-
-### 2026-07-24 13:40:40  #MKT News #Market Themes #Chip Wars #SMH.O #Impact bullish
-
-【Afternoon surge lifts several Chinese semiconductor names to trading limits】July 24 afternoon — Tongfu Microelectronics jumped to its 10% daily limit while Tuolunsi surged to a 20% limit; Zhongchuan Teqi, Jingchen and Zhongke Feice also rose. In the morning Guangli Technology hit a 20% limit and Zhichun Technology and Botong Integration reached 10% limits. Traders said U.S. after-hours gains in some semiconductor names boosted sector sentiment, and stronger H1 results from multiple A-share semiconductor companies continued to draw flows. Some institutions said the semiconductor cyclical uptrend remains intact and advised positioning on the capacity-expansion theme, focusing on advanced packaging, wafer foundry, semiconductor equipment and materials.
-
----
-
-### 2026-07-24 13:40:39  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB executive board member Kocher said if the inflation outlook worsens and inflation expectations decline, it would be necessary to act.
-
----
-
-### 2026-07-24 13:40:31  #其他
-
-科赫爾：我們隨時都有可能採取行動。
-
----
-
-### 2026-07-24 13:40:18  #央行 #國際
-
-科赫爾：如果通脹前景惡化，歐洲央行將採取行動。
-
----
-
-### 2026-07-24 13:40:16  #MKT News
-
-ECB Governing Council member Kocher said: If I knew whether a September rate hike is the most likely outcome, I would tell you.
-
----
-
-### 2026-07-24 13:40:12  #央行 #歐洲央行
-
-歐洲央行管委科赫爾表示，近期石油市場發展動態令人擔憂，歐洲央行9月要麼加息要麼維持利率不變，沒有看到任何確鑿證據表明存在第二輪（通脹）效應。
-
----
-
-### 2026-07-24 13:40:00  #公司
-
-大眾汽車：上半年特殊專案包括重組費用減去撥備轉回後的淨額為負3億歐元，主要涉及傳拓、核心品牌集團及運動豪華品牌。
-
----
-
-### 2026-07-24 13:39:45  #其他
-
-科赫爾：9月之前一切皆有可能.。
-
----
-
-### 2026-07-24 13:39:27  #其他
-
-科赫爾：決心達到2%的通脹目標。
-
----
-
-### 2026-07-24 13:39:01  #MKT News #Market Regions #Europe & UK
-
-ECB Governing Council member Kocher said second-round inflation effects are primarily linked to wage dynamics.
-
----
-
-### 2026-07-24 13:38:50  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish
-
-ECB executive board member Kocher said the ECB has not seen any conclusive evidence of second-round inflation effects.
-
----
-
-### 2026-07-24 13:38:33  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB Governing Council member Kocher said the current stance allows the bank to assess whether data in the coming weeks point to a September rate hike.
-
----
-
-### 2026-07-24 13:38:16  #其他
-
-科赫爾：僅看到個別案例中的第二輪效應。
-
----
-
-### 2026-07-24 13:38:02  #MKT News
-
-EU will continue engaging the US government to ensure the United States fully honors its commitments.
-
----
-
-### 2026-07-24 13:37:58  #其他
-
-科赫爾：沒有看到任何確鑿證據表明存在第二輪（通脹）效應。
-
----
-
-### 2026-07-24 13:37:52  #MKT News #Market Regions #Europe & UK
-
-EU expects the US to continue complying with the terms of the EU-US joint statement.
-
----
-
-### 2026-07-24 13:37:38  #MKT News #Market Regions #Europe & UK #S&P500 #Impact bullish #EURUSD #DXY #Impact bearish
-
-The EU said it has taken note of the final remedial measures the US announced under its Section 301 investigation. The EU's tariff commitments became effective on July 1, 2026, and the bloc says it has fulfilled its obligations under the agreement.
-
----
-
-### 2026-07-24 13:37:35  #央行 #國際
-
-科赫爾：歐洲央行9月要麼加息要麼維持利率不變。
-
----
-
-### 2026-07-24 13:36:50  #央行 #國際
-
-科赫爾：歐洲央行將在未來幾周保持警惕。
-
----
-
-### 2026-07-24 13:36:33  #央行 #國際
-
-歐洲央行管委科赫爾：近期石油市場發展動態令人擔憂。
-
----
-
-### 2026-07-24 13:36:05  #MKT News
-
-【SK chairman Chey Tae-won ordered to pay 944 billion won divorce settlement; would be South Korea record if upheld】A South Korean court has ordered SK Group chairman Chey Tae-won to pay his ex-wife 944 billion won (about $643 million) in a divorce property settlement, a ruling that brings the long-running case closer to conclusion. If upheld, the award would be the largest divorce settlement in South Korean history. Bloomberg Billionaires Index estimates Chey’s net worth at roughly $5.6 billion, more than double over the past year amid an AI-driven surge in his wealth. The court has not specified whether the payment will be made in cash or shares.
 
 ---
