@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-26 20:29:13",
-  "count": 18090,
+  "updated": "2026-07-26 20:33:49",
+  "count": 18091,
   "items": [
+    {
+      "id": "5008564",
+      "time": "2026-07-26 20:32:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐聯合國大使：特朗普為伊朗談判留出空間，談判“正在進行中”。"
+    },
+    {
+      "id": "5008563",
+      "time": "2026-07-26 20:31:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐聯合國大使：特朗普並未排除對伊朗採取戰爭手段的所有可能性。"
+    },
+    {
+      "id": "5008562",
+      "time": "2026-07-26 20:30:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特阿美週日收跌將近0.9%，埃及股市跌超0.9%】週日（7月26日），沙特證交所全股指數收跌0.34%，報10766.84點。沙特阿美收跌0.89%，報26.60沙特里亞爾。在沙特上市的Albilad南方東英MSCI香港中國股票ETF收跌0.72%，報10.96沙特里亞爾。埃及證交所EGX 30指數收跌0.95%，報53417.59點。阿曼MSM 30指數收漲0.15%，報7127.88點。卡達證交所指數收跌0.29%，報10003.67點。科威特證交所超級市場價格回報指數收漲0.57%，報9123.98點。"
+    },
     {
       "id": "mkt:019f9e64-48df-7aab-8e9a-26420725459c",
       "time": "2026-07-26 20:26:40",
@@ -165716,22 +165740,6 @@
         "CNH"
       ],
       "text": "【KPMG China chairman: AI accelerating into core engine of economic growth】July 19 — KPMG China chairman Zou Jun said at the 2026 World Artificial Intelligence Conference that AI has penetrated multiple areas of the real economy and is accelerating from an efficiency tool into a core engine of economic growth. He said China’s AI industry layout is active, tracks are diverse, the sector benefits from supply-chain advantages, and industry scale is expanding rapidly."
-    },
-    {
-      "id": "4996113",
-      "time": "2026-07-19 20:30:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英知名搖滾歌手批以色列搞種族隔離】英國搖滾樂隊Pink Floyd創始人羅傑·沃特斯在7月18日播出的一檔播客節目中表示，他曾與聯合國近東救濟工程處的人一起開車探訪約旦河西岸，目睹了以色列在當地實施的種族隔離行徑。沃特斯說，阿拉伯人在約旦河西岸甚至不被允許使用某些公路，只有猶太人才能使用。他認為以色列在約旦河西岸“創造了人間地獄”。沃特斯表示，他希望能積極發聲反對種族隔離，並幫助巴勒斯坦人獲得與猶太人平等的人權。（CCTV國際時訊）"
-    },
-    {
-      "id": "4996112",
-      "time": "2026-07-19 20:29:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【業內：首批主動ETF有望在10個交易日內迎來快速落地、有序推進】從監管層6月17日首次表態“支援推出主動ETF”，到如今18只產品的註冊申請材料齊刷刷掛上證監會官網，不到一個月時間。據業內訊息反饋，首批主動ETF有望在10個交易日內迎來快速落地、有序推進。據多方瞭解，各機構早已暗中介入研究籌備，如今18家管理人、18只產品落定，部分公司甚至祭出雙基金經理陣容，策略上刻意避開了激進賽道，轉而以“低換手、高分散”的穩健姿態起步。（第一財經）"
     }
   ]
 }
