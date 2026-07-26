@@ -1,7 +1,175 @@
 {
-  "updated": "2026-07-27 06:01:03",
-  "count": 17996,
+  "updated": "2026-07-27 06:06:41",
+  "count": 17999,
   "items": [
+    {
+      "id": "mkt:019fa074-3370-7aab-8e9c-b6fa3b4c888b",
+      "time": "2026-07-27 06:03:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "As oil prices fell, U.S. federal funds futures rose, with the December contract up five points."
+    },
+    {
+      "id": "5008740",
+      "time": "2026-07-27 06:03:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國聯邦基金利率期貨上漲，12月合約上升5個基點。"
+    },
+    {
+      "id": "mkt:019fa073-d57b-7aab-8e9c-a89522403cbb",
+      "time": "2026-07-27 06:02:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude futures plunged 8.00% in early trade to $83.23/bbl."
+    },
+    {
+      "id": "mkt:019fa073-13cc-7aab-8e9c-a082196d62a5",
+      "time": "2026-07-27 06:02:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spot gold gapped up to $4,090/oz, up 0.94% on the day."
+    },
+    {
+      "id": "5008739",
+      "time": "2026-07-27 06:01:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守86美元/桶，日內跌6.29%。"
+    },
+    {
+      "id": "5008738",
+      "time": "2026-07-27 06:01:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌6%，現報86.13美元/桶。"
+    },
+    {
+      "id": "5008737",
+      "time": "2026-07-27 06:01:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標準普爾500指數期貨上漲0.6%，納斯達克指數期貨上漲1.4%，布倫特原油價格下跌5%。"
+    },
+    {
+      "id": "mkt:019fa072-238e-7aab-8e9c-9bd656c88483",
+      "time": "2026-07-27 06:01:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Nasdaq futures opened 1.4% higher on Monday; S&P 500 futures were up 0.76%."
+    },
+    {
+      "id": "5008735",
+      "time": "2026-07-27 06:00:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4094.91美元/盎司。"
+    },
+    {
+      "id": "5008734",
+      "time": "2026-07-27 06:00:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守87美元/桶，日內跌5.31%。"
+    },
+    {
+      "id": "5008733",
+      "time": "2026-07-27 06:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌5%，現報87.03美元/桶。"
+    },
+    {
+      "id": "5008732",
+      "time": "2026-07-27 06:00:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守84美元/桶，日內跌6.36%。"
+    },
+    {
+      "id": "5008731",
+      "time": "2026-07-27 06:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌6%，現報83.63美元/桶。"
+    },
+    {
+      "id": "5008730",
+      "time": "2026-07-27 06:00:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破65000美元，日內漲1.05%。"
+    },
+    {
+      "id": "5008729",
+      "time": "2026-07-27 06:00:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌4%，現報87.77美元/桶。"
+    },
+    {
+      "id": "5008728",
+      "time": "2026-07-27 06:00:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌5%，現報84.78美元/桶。"
+    },
+    {
+      "id": "5008727",
+      "time": "2026-07-27 06:00:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4100美元/盎司，日內漲0.72%。"
+    },
     {
       "id": "5008726",
       "time": "2026-07-27 06:00:06",
@@ -164733,140 +164901,6 @@
         "其他"
       ],
       "text": "【姆巴佩獲金靴】2026年美加墨世界盃決賽戰罷，本屆賽事的射手榜正式塵埃落定。姆巴佩以10粒進球領跑射手榜，成功摘得世界盃金靴；梅西打入8粒進球，位列射手榜第二位；貝林厄姆、哈蘭德均打入7粒進球，分列三、四名。"
-    },
-    {
-      "id": "4996325",
-      "time": "2026-07-20 06:06:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普媒體與科技集團：特朗普媒體公司、帕特里克·奧蘭多、ARC環球公司各方之間所有索賠主張，已透過一份保密和解協議達成互相撤訴、全部解決。"
-    },
-    {
-      "id": "mkt:019f7c68-29c9-7aab-8dfb-39221863f3d3",
-      "time": "2026-07-20 06:03:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "U.S. 10‑year Treasury futures fell 6 bps; 30‑year futures fell 10 bps."
-    },
-    {
-      "id": "4996324",
-      "time": "2026-07-20 06:03:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "油價上漲拖累美國10年期國債期貨下跌6個基點，30年期國債期貨下滑10個基點。"
-    },
-    {
-      "id": "4996323",
-      "time": "2026-07-20 06:03:02",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【西班牙奪得2026世界盃冠軍】北京時間7月20日凌晨3時整，2026年美加墨世界盃決賽在紐約新澤西體育場展開角逐，西班牙對陣阿根廷。最終憑藉著加時賽費蘭的破門，西班牙1比0戰勝阿根廷，奪得世界盃冠軍。"
-    },
-    {
-      "id": "mkt:019f7c67-15e4-7aab-8dfb-30c63b35e6cf",
-      "time": "2026-07-20 06:02:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Spain beat Argentina 1-0 to win the US-Mexico-Canada World Cup final; Trump had earlier said he backed Argentina."
-    },
-    {
-      "id": "4996322",
-      "time": "2026-07-20 06:02:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲3%，現報84.31美元/桶。"
-    },
-    {
-      "id": "4996321",
-      "time": "2026-07-20 06:02:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲3%，現報90.83美元/桶。"
-    },
-    {
-      "id": "4996320",
-      "time": "2026-07-20 06:02:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油期貨價格突破每桶90美元，為6月11日以來首次。"
-    },
-    {
-      "id": "mkt:019f7c66-b885-7aab-8dfb-2ba7bf11171f",
-      "time": "2026-07-20 06:02:14",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "USD/JPY gained 20 pips intraday to 162.56, approaching the prior high of 162.83."
-    },
-    {
-      "id": "4996319",
-      "time": "2026-07-20 06:02:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨盤初持平，納斯達克指數期貨上漲0.1%。"
-    },
-    {
-      "id": "mkt:019f7c66-84a4-7aab-8dfb-21dfbd88affd",
-      "time": "2026-07-20 06:02:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell 0.4% in early trade to $55.64/oz."
-    },
-    {
-      "id": "4996318",
-      "time": "2026-07-20 06:01:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普科技和媒體集團了結多項法律糾紛。"
-    },
-    {
-      "id": "mkt:019f7c65-e670-7aab-8dfb-18b128e4076a",
-      "time": "2026-07-20 06:01:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold opened Monday down nearly $20, slipping below $4,000/oz."
-    },
-    {
-      "id": "4996317",
-      "time": "2026-07-20 06:01:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破84美元/桶，日內漲2.71%。"
     }
   ]
 }

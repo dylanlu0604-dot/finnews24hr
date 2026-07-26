@@ -1,7 +1,175 @@
 {
   "date": "2026-07-27",
-  "count": 114,
+  "count": 131,
   "items": [
+    {
+      "id": "mkt:019fa074-3370-7aab-8e9c-b6fa3b4c888b",
+      "time": "2026-07-27 06:03:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "As oil prices fell, U.S. federal funds futures rose, with the December contract up five points."
+    },
+    {
+      "id": "5008740",
+      "time": "2026-07-27 06:03:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國聯邦基金利率期貨上漲，12月合約上升5個基點。"
+    },
+    {
+      "id": "mkt:019fa073-d57b-7aab-8e9c-a89522403cbb",
+      "time": "2026-07-27 06:02:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude futures plunged 8.00% in early trade to $83.23/bbl."
+    },
+    {
+      "id": "mkt:019fa073-13cc-7aab-8e9c-a082196d62a5",
+      "time": "2026-07-27 06:02:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spot gold gapped up to $4,090/oz, up 0.94% on the day."
+    },
+    {
+      "id": "5008739",
+      "time": "2026-07-27 06:01:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守86美元/桶，日內跌6.29%。"
+    },
+    {
+      "id": "5008738",
+      "time": "2026-07-27 06:01:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌6%，現報86.13美元/桶。"
+    },
+    {
+      "id": "5008737",
+      "time": "2026-07-27 06:01:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標準普爾500指數期貨上漲0.6%，納斯達克指數期貨上漲1.4%，布倫特原油價格下跌5%。"
+    },
+    {
+      "id": "mkt:019fa072-238e-7aab-8e9c-9bd656c88483",
+      "time": "2026-07-27 06:01:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Nasdaq futures opened 1.4% higher on Monday; S&P 500 futures were up 0.76%."
+    },
+    {
+      "id": "5008735",
+      "time": "2026-07-27 06:00:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4094.91美元/盎司。"
+    },
+    {
+      "id": "5008734",
+      "time": "2026-07-27 06:00:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守87美元/桶，日內跌5.31%。"
+    },
+    {
+      "id": "5008733",
+      "time": "2026-07-27 06:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌5%，現報87.03美元/桶。"
+    },
+    {
+      "id": "5008732",
+      "time": "2026-07-27 06:00:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守84美元/桶，日內跌6.36%。"
+    },
+    {
+      "id": "5008731",
+      "time": "2026-07-27 06:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌6%，現報83.63美元/桶。"
+    },
+    {
+      "id": "5008730",
+      "time": "2026-07-27 06:00:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破65000美元，日內漲1.05%。"
+    },
+    {
+      "id": "5008729",
+      "time": "2026-07-27 06:00:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌4%，現報87.77美元/桶。"
+    },
+    {
+      "id": "5008728",
+      "time": "2026-07-27 06:00:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌5%，現報84.78美元/桶。"
+    },
+    {
+      "id": "5008727",
+      "time": "2026-07-27 06:00:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4100美元/盎司，日內漲0.72%。"
+    },
     {
       "id": "5008726",
       "time": "2026-07-27 06:00:06",
