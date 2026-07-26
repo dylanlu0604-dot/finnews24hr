@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-27 03:48:28_
-_本檔包含 3541 則快訊，約 684803 字_
+_更新時間：2026-07-27 05:06:09_
+_本檔包含 3530 則快訊，約 684063 字_
+
+---
+
+### 2026-07-27 05:03:34  #MKT News #Brent #Impact bullish #XAUUSD
+
+【Iran senior official warns Ukraine any action against Iran will be met with retaliation】Ebrahim Azizi, chairman of Iran’s parliament National Security and Foreign Policy Commission, said any attack on Iran inevitably carries a price and that the US and Israel are aware. He warned Ukraine may soon learn this too, saying Iran will not leave any action unanswered and that the list of those who miscalculate continues to grow.
+
+---
+
+### 2026-07-27 04:55:22  #其他
+
+【有毒“養生神藥”曝光後 安徽亳州已成立調查組】《財經調查》欄目7月26日晚間曝光毒性中藥材銷售亂象，安徽亳州市有商戶違規“代購”毒性中藥材生附子，透過線下的隱蔽交易，線上商戶再以“1元連結”為掩護，將一些國家嚴格管控的毒性中藥材銷往全國各地。在亳州，記者透過大量調查工作，摸清了線下流竄、線上交易的藥材代購和打著“冷門藥材”生意幌子的“冷背”藥材店銷售生附子、生半夏等毒性中藥材的不法行為。當晚，亳州市市場監督管理局釋出情況通報表示，總檯報道亳州市四芝堂冷背店、迎春堂冷背店、佑源堂冷背店銷售毒性中藥材生附子、生半夏的問題後，亳州市市場監督管理局已會同公安等部門成立調查組，認真開展全面調查，並將根據調查結果依法作出處理。 (央視新聞)
+
+---
+
+### 2026-07-27 04:52:16  #MKT News
+
+【Four U.S. service members reclassified; U.S.-Iran casualty data questioned】According to AP, four U.S. service members previously listed as killed in the U.S.-Iran conflict have been removed from the Pentagon’s official Iran casualty list and reclassified under a new "overseas operations" category. The Defense Casualty Analysis System (DCAS) last week deleted the four deaths and dozens of wounded from its Iran-war tally. On Sunday DCAS added an "overseas operations" listing naming the four dead and 207 wounded, but it is unclear whether the full wounded cohort is tied to the Iran conflict. The move, and the Pentagon’s suspension of public casualty briefings since early May and CENTCOM’s halt to updates, has prompted questions about the transparency of U.S. military casualty reporting; the Pentagon says DCAS is its transparency mechanism.
+
+---
+
+### 2026-07-27 04:42:41  #MKT News
+
+AP: The Pentagon's official U.S. death toll for the Iran war no longer includes four U.S. soldiers killed in recent fighting; those four, along with 207 wounded, have been reclassified into a new "overseas operations" category.
+
+---
+
+### 2026-07-27 04:39:34  #MKT News #Market Themes #AI Revolution #WTI #Impact mixed #Brent #XAUUSD #Impact bullish
+
+【Trump posts AI "victory" images during reported ceasefire; Iranian state media says he's buying virtual "firepower"】US President Trump posted AI-generated images on social media on Sunday local time showing US forces bombing Iran's Hormuz Island and seizing an Iranian tanker, timed to a reported temporary ceasefire with no attacks in the prior 48 hours. Iranian state-run Press TV, citing US media reports of strained US munitions stocks, said Trump appears to be investing in virtual "firepower" by commissioning AI imagery.
+
+---
+
+### 2026-07-27 04:28:25  #MKT News
+
+【Cuban president calls U.S. blockade 'cruelly planned genocide'】Cuban President Miguel Díaz-Canel on the 26th condemned the U.S. blockade as criminal, said Cuba poses no threat to the U.S. or any other country, and described Cuba as a victim of a U.S. policy he called a 'cruelly planned genocide'.
+
+---
+
+### 2026-07-27 04:23:34  #國際
+
+【古巴國家主席：美對古封鎖是“殘酷策劃的種族滅絕”】古巴國家主席迪亞斯-卡內爾26日譴責美國對古巴封鎖是犯罪行為，並表示古巴不對美國或世界上任何其他國家構成威脅，是美國“殘酷策劃的種族滅絕”政策受害者。（新華社）
+
+---
+
+### 2026-07-27 04:21:55  #MKT News
+
+Qatari PM and foreign minister Mohammed reaffirmed Qatar's full support for efforts to defuse tensions and reach a comprehensive agreement to secure sustainable peace in the region.
+
+---
+
+### 2026-07-27 04:21:53  #MKT News #WTI #Impact bearish #Brent
+
+Qatar foreign ministry said Qatari PM and foreign minister Mohammed, in a call, stressed parties must pursue dialogue and diplomacy and implement the consensus reached under the US‑Iran memorandum framework, including ensuring freedom of navigation in the Strait of Hormuz to safeguard regional security and preserve stability.
+
+---
+
+### 2026-07-27 04:21:37  #MKT News
+
+Qatar's foreign ministry said QATARI PM and foreign minister Mohammed held a phone call with Oman's foreign minister.
+
+---
+
+### 2026-07-27 04:18:29  #市場
+
+【公募FOF規模和利潤雙創新高 債券基金依然是“壓艙石”】Wind資料顯示，公募FOF重倉的前50大基金中，債券型基金佔據36席，數量佔比超過七成。與此同時，隨著指數化投資時代的到來，ETF產品在FOF持倉中的比重明顯提升，尤其短久期、高流動性的債券ETF及利率債ETF受到青睞，反映出FOF管理人對工具化、低費率、高透明度品種的偏好。
+
+---
+
+### 2026-07-27 04:16:09  #國際
+
+特朗普：我們的彈藥儲備遠超全球任何國家，也遠遠超出本國實際需求。
 
 ---
 
@@ -21287,143 +21359,5 @@ France preliminary July manufacturing PMI due in 10 minutes.
 ### 2026-07-24 15:03:52  #宏觀
 
 【三部門：徵收揮發性有機物環境保護稅試點】財政部等三部門印發《徵收揮發性有機物環境保護稅試點實施辦法》的通知。首批納入徵收試點範圍的行業包括：印刷業；石油、煤炭及其他燃料加工業；化學原料和化學制品製造業；醫藥製造業；鍊鐵、鍊鋼業；通用裝置製造業；專用裝置製造業；汽車製造業。上述行業根據國民經濟行業分類確定。結合試點情況，適時將涉及揮發性有機物管控的其他行業全面納入徵收試點範圍。
-
----
-
-### 2026-07-24 15:03:35  #其他
-
-德國總理默茨：尼娜·瓦爾肯將被任命為幕僚長。
-
----
-
-### 2026-07-24 15:03:30  #國際
-
-【古巴譴責美國對古新一輪制裁】針對美國政府23日宣佈的對古巴新一輪制裁，古巴外交部長羅德里格斯當天在社交媒體發文，譴責美國政府企圖透過經濟封鎖對全體古巴人民實施“集體懲罰”，並在古巴挑動人道主義危機。羅德里格斯強調，美國針對古巴國際醫療合作專案的打擊，無異於侵犯世界許多地區數十萬民眾享有醫療衛生服務的基本的人權。古巴因向國際社會提供公認的人道主義與團結互助服務，反而遭美方懲罰。（新華社）
-
----
-
-### 2026-07-24 15:03:23  #MKT News #Important
-
-German chancellor Merz said Nina Warken will be appointed chief of staff.
-
----
-
-### 2026-07-24 15:03:10  #公司
-
-在媒體報道阿卡迪斯遭收購意向後，該公司股價延續週四漲勢，當前漲幅擴大至5.4%。
-
----
-
-### 2026-07-24 15:02:50  #其他
-
-【ETF兩市成交額報5128.01億元，較昨日此時放量360.2億元】截至目前，ETF兩市成交額報5128.01億元，較昨日此時放量360.2億元，分型別來看，股票型ETF成交額1788.23億元，債券型ETF成交額2080.84億元，貨幣型ETF成交額307.1億元，商品型ETF成交額68.98億元，QDII型ETF成交額882.86億元。
-
----
-
-### 2026-07-24 15:02:36  #MKT News
-
-【Over 29 million farm households sign 30-year extensions in second-round land-contract pilot】At a July 24 press briefing, the Ministry of Agriculture and Rural Affairs said China is advancing province-wide pilots to extend expiring second-round land contracts for another 30 years; to date more than 29 million farm households have signed extension contracts.
-
----
-
-### 2026-07-24 15:02:34  #其他
-
-【2900多萬農戶順利簽訂二輪到期土地延包合同】農業農村部7月24日在國新辦舉行的新聞釋出會上釋出資訊顯示，我國紮實推進第二輪土地承包到期後再延長30年整省試點，截至目前2900多萬農戶順利簽訂延包合同。（新華社）
-
----
-
-### 2026-07-24 15:02:34  #MKT News #Market Regions #Greater China
-
-【Over 29 million Chinese farm households sign 30-year land contract extensions in second-round pilot】The Ministry of Agriculture and Rural Affairs said at a July 24 briefing China is advancing province‑wide pilots to extend second‑round rural land contract terms by 30 years; as of the briefing more than 29 million farm households have signed extension contracts.
-
----
-
-### 2026-07-24 15:02:31  #公司 #國際
-
-訊息人士稱，印度將為銀行、保險公司推出統一客戶標識，共同基金領域後續也將推行該制度。
-
----
-
-### 2026-07-24 15:02:19  #MKT News #EURUSD #Impact mixed #DXY #XAUUSD
-
-Swiss National Bank says it will neither try to prevent adjustments in the international balance of payments nor seek to secure an undue competitive advantage for the Swiss economy.
-
----
-
-### 2026-07-24 15:02:18  #MKT News #SSE Composite #Impact bearish #SZSE Component #CSI300
-
-China's Shanghai Composite Index closed down 62.58 points (-1.61%) at 3,814.20 on July 24 (Friday); Shenzhen Composite Index closed down 348.63 points (-2.47%) at 13,774.68; CSI 300 Index closed down 78.81 points (-1.67%) at 4,649.19; ChiNext Index closed down 94.65 points (-2.65%) at 3,480.87; STAR 50 Index closed down 2.49 points (-0.14%) at 1,787.20.
-
----
-
-### 2026-07-24 15:02:16  #MKT News
-
-【China autumn grain sowing area steady; crop growth broadly normal — agriculture ministry】China’s autumn grain sowing area is steady with a slight increase and in-field crop growth is broadly normal, providing a sound basis to secure the full-year grain harvest, the Ministry of Agriculture and Rural Affairs said at a July 24 press briefing.
-
----
-
-### 2026-07-24 15:02:13  #央行 #其他
-
-瑞士央行：瑞士央行不參與操縱瑞士法郎。既不試圖阻止國際收支的調整，也不試圖為瑞士經濟獲取不當的競爭優勢。
-
----
-
-### 2026-07-24 15:02:02  #其他
-
-【秋糧作物長勢總體正常 奪取全年糧食豐收有較好基礎】農業農村部7月24日在國新辦舉行的新聞釋出會上釋出資訊顯示，今年我國秋糧種植面積穩中略增，在田作物長勢總體正常，奪取全年糧食豐收有較好基礎。
-
----
-
-### 2026-07-24 15:01:56  #MKT News #Market Regions #Greater China
-
-【July 24: China stocks turnover CNY1.93trn; Zhongji Xuchuang tops by turnover】July 24 — Shanghai and Shenzhen combined turnover CNY1.93 trillion, down CNY264.16 billion from the prior session. Shanghai turnover CNY915.37 billion (prior CNY1,025.88 billion); volume 508 million lots (prior 562 million). Shenzhen turnover CNY1,015.77 billion (prior CNY1,169.43 billion); volume 569 million lots (prior 626 million). Top stocks by turnover: Zhongji Xuchuang CNY22.94 billion, GigaDevice CNY22.86 billion, Tongfu Microelectronics CNY19.82 billion, Xinyisheng CNY16.32 billion, Tsinghua Unigroup CNY15.22 billion.
-
----
-
-### 2026-07-24 15:01:55  #MKT News #CSI300 #Impact bearish #SSE Composite #SZSE Component
-
-【Stock index futures midday close】A-share index futures at midday: CSI 300 (IF) most-active contract down 1.73pct; SSE 50 (IH) down 1.28pct; CSI 500 (IC) down 2.35pct; CSI 1000 (IM) down 2.67pct.
-
----
-
-### 2026-07-24 15:01:46  #公司 #市場
-
-SAP股價上漲4.2%，此前該公司公佈第二季度業績超出預期。
-
----
-
-### 2026-07-24 15:01:40  #MKT News
-
-Swiss National Bank says it does not participate in manipulation of the Swiss franc.
-
----
-
-### 2026-07-24 15:01:34  #MKT News #Market Regions #Greater China
-
-【Slovak President Pellegrini to make state visit to China July 27-29】At the invitation of CHINA, Slovak President Pellegrini will make a state visit to China from July 27 to 29, the foreign ministry said.
-
----
-
-### 2026-07-24 15:01:24  #國際
-
-【斯洛伐克總統佩列格里尼將對中國進行國事訪問】外交部發言人宣佈：應國家主席習近平邀請，斯洛伐克總統佩列格里尼將於7月27日至29日對中國進行國事訪問。
-
----
-
-### 2026-07-24 15:01:21  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #Impact bearish
-
-European equities opened mixed on July 24 (Friday): Germany's DAX rose 79.88 pts (+0.32%) to 24,789.21; UK's FTSE 100 fell 29.74 pts (-0.28%) to 10,609.43; France's CAC 40 fell 18.34 pts (-0.22%) to 8,280.75; Euro Stoxx 50 down 0.07 pts (0.00%) at 6,210.10; Spain's IBEX 35 rose 24.25 pts (+0.13%) to 19,291.25; Italy's FTSE MIB rose 13.16 pts (+0.03%) to 51,329.00.
-
----
-
-### 2026-07-24 15:01:15  #其他
-
-【內蒙古上半年GDP同比增長4.5%】內蒙古自治區統計局、國家統計局內蒙古調查總隊公佈資料顯示，根據地區生產總值統一核算結果，上半年全區地區生產總值12810億元，按不變價格計算，同比增長4.5%。分產業看，第一產業增加值425億元，同比增長4.4%；第二產業增加值5920億元，增長5.1%；第三產業增加值6466億元，增長3.9%。
-
----
-
-### 2026-07-24 15:01:13  #市場
-
-【ETF收評：科創半導體裝置ETF領漲3.63%，工業有色ETF領跌5.5%】ETF收盤漲跌不一，科創半導體裝置ETF（588710）領漲3.63%，科創半導體ETF（588170）漲3.37%，科創半導體裝置ETF（589020）漲3.36%，工業有色ETF（159032）領跌5.5%，黃金股ETF（517520）跌5.36%，黃金股ETF（159562）跌5.31%。
 
 ---

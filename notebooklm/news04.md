@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-27 03:48:28_
-_本檔包含 3735 則快訊，約 685031 字_
+_更新時間：2026-07-27 05:06:09_
+_本檔包含 3701 則快訊，約 683321 字_
+
+---
+
+### 2026-07-22 10:50:17  #宏觀
+
+【海關備案的智慧財產權權利人近6萬家】國務院新聞辦舉行“開局起步‘十五五’”系列主題新聞釋出會，海關總署相關負責人介紹加快推進海關現代化、服務貿易強國建設等相關情況，並回答記者提問。會上介紹，中國海關按照我國入世承諾，履行《與貿易有關的智慧財產權協定》，在進出口環節保護智慧財產權，防止侵權假冒商品進出國門、進入市場，讓創新者獲得利益回報，維護中外企業、中外消費者的合法權益。目前，海關備案的智慧財產權權利人近6萬家，涉及各類智慧財產權13.4萬項，智慧財產權邊境保護效能日益彰顯。
+
+---
+
+### 2026-07-22 10:49:46  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component
+
+A-share liquor stocks opened lower, then rallied; Shede Spirits climbed more than 6%, while Golden Seed, Yingjia Distillery, Jinhui Liquor, Huangtai Distillery, Shanxi Fenjiu and Jiugui Liquor also advanced.
+
+---
+
+### 2026-07-22 10:49:28  #Trading Economics #Markets #New Zealand #Currency #Importance 1
+
+New Zealand Dollar Holds Near 6-Week High — The New Zealand dollar steadied at 0.582, remaining near a six-week high, supported by growing expectations of further interest rate increases following a hot inflation reading. New Zealand’s annual inflation accelerated to 4.1% in Q2 from 3.1% in Q1, exceeding both market forecasts of 4% and the RBNZ's projection of 3.9%. It marked the highest level since Q4 2023 and pushed inflation further above the central bank’s 1–3% target range. The hot print solidified wagers that the central bank will deliver another 25-basis-point rate hike in September, with swaps also implying additional increases in either October or December, followed by another move in February next year. Last week, RBNZ Chief Economist Paul Conway said that Middle East-driven inflation risks to the third quarter outlook have increased, and that some further reduction in monetary stimulus is likely to be needed.
+
+---
+
+### 2026-07-22 10:48:48  #公司
+
+【廣州：擬切實推動房地產紓困和發展 引導房地產市場企業轉型升級】記者獲悉，“十五五”時期，廣州擬切實推動房地產紓困和發展。堅持問題導向、分類處置，防範化解房企債務風險。繼續做好睏難房地產專案紓困工作，綜合運用各類舉措，推動專案建設交付。發揮房地產融資協調機制作用，支援專案合理融資需求，引導房地產開發企業逐步形成適度槓桿比例、合理負債水平和正常週轉速度的發展機制；引導房地產市場企業轉型升級。引導房地產開發企業由傳統開發向開發、運營、服務一體化轉型，深度參與城市更新、存量資產盤活等城市運營業務，拓展房屋租賃、物業服務、資產運營、生活服務等非開發類業務。房地產企業應加強戰略謀劃，健全公司治理體系，規範運營管理，加強風險控制，推動行業平穩有序發展。（證券時報）
+
+---
+
+### 2026-07-22 10:48:44  #MKT News #Important #CSI300
+
+【Guangzhou to broaden "housing coupon" resettlement policy】Guangzhou plans to optimize its "housing coupon" resettlement policy and broaden its scope during the 15th Five-Year Plan period to reduce stock of commodity housing. The city will establish an all‑caliber inventory database to dynamically monitor unsold supply across categories — supplied but not started, started but not sold, under-construction unsold, and completed unsold. Policy measures include supporting acquisition of existing commodity housing as resettlement units in urban-village redevelopment, encouraging purchase of stock commercial and office properties for operational resettlement use, and stepping up destocking of commercial-office assets with targeted conversions to medical, education, elderly-care, hotel, wellness and affordable housing where appropriate. Guangzhou will also steadily advance purchases of stock commodity housing for affordable housing.
+
+---
+
+### 2026-07-22 10:48:32  #MKT News #Market Regions #Europe & UK #AIR.PA #Impact bullish
+
+JP Morgan raises Airbus PT to €245 from €240.
+
+---
+
+### 2026-07-22 10:47:49  #其他
+
+【廣州：擬最佳化“房票”安置政策，拓寬“房票”適用範圍】記者獲悉，“十五五”時期，廣州擬綜合施策消化存量商品房庫存。建立全口徑庫存資料庫，動態監測已供應未開工、已開工未批售、在建未售、竣工未售等各類商品住宅規模。最佳化“房票”安置政策，拓寬“房票”適用範圍，提升“房票”使用效能。支援在城中村改造過程中收購存量商品住宅用作安置房，鼓勵收購存量商辦用房用於經營性物業的安置。加大商辦物業去庫存力度，因地制宜推動存量商辦物業合規轉為醫療、教育、養老、酒店、康養、保障性住房等用途。穩步推進收購存量商品房用作保障性住房。（證券時報）
+
+---
+
+### 2026-07-22 10:47:43  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10-Year Yield Edges Higher — Japan’s 10-year government bond yield climbed to around 2.74% on Wednesday, reaching a one-week high as it tracked the rise in US Treasury yields amid ongoing hostilities in the Middle East that drove oil prices higher. The increase in energy prices could accelerate inflation in Japan and reinforce expectations for a faster pace of Bank of Japan interest rate hikes. Meanwhile, the yen’s slide to a fresh 40-year low also strengthened the case for quicker BOJ policy normalization. Investors are also watching the Finance Ministry’s auction of about JPY 300 billion in 40-year government bonds later in the day for clues on demand at current yield levels. On the economic front, Japan’s trade balance returned to a deficit in June as import growth outpaced exports.
+
+---
+
+### 2026-07-22 10:47:34  #市場 #焦點
+
+滬深兩市成交額超1.5萬億元，較上日此時縮量41億元。
+
+---
+
+### 2026-07-22 10:47:12  #公司 #焦點
+
+【廣州：擬穩步有序推進現房銷售制，推進房地產開發融資方式改革】廣州市力爭構建高品質供給、高效率保障、高水平執行的房地產發展新模式。記者獲悉，“十五五”時期，廣州擬積極穩妥謀劃現售制試點專案，適時選取合適地塊開展試點。強化金融服務支援，鼓勵商業銀行提高現房銷售專案開發貸款額度，給予利率優惠。對現房銷售地塊給予分期繳納地價和公共資源配套支援等。繼續實行預售的，規範商品房預售資金監管，規範資金使用。同時，加大金融協調聯動，推進房地產開發融資方式改革，推動實現房地產開發企業融資從依賴主體信用向滿足房地產專案合理融資需求轉變。一個專案確定一家銀行或銀團為主辦銀行，專案開發、建設、銷售等資金存入主辦銀行，主辦銀行保證專案公司合理融資需求，形成主辦銀行與專案公司利益共享、風險共擔的良性迴圈機制。落實房地產專案資金封閉管理要求，專案交付前，嚴禁投資人違規抽挪專案公司銷售、融資等資金，嚴禁抽逃出資或提前分紅。（證券時報）
+
+---
+
+### 2026-07-22 10:46:52  #市場 #焦點
+
+現貨黃金突破4130美元/盎司，日內漲1.29%。
+
+---
+
+### 2026-07-22 10:46:20  #MKT News
+
+【ThunderSoft: AquaClaw commercialization accelerates after selection by leading domestic JV automaker】ThunderSoft said its in-vehicle multi-agent product AquaClaw has been selected for a real-vehicle project by a leading domestic joint-venture automaker; customer name and commercial terms are undisclosed under confidentiality. The company said the win marks important progress in AquaClaw’s commercial rollout.
+
+---
+
+### 2026-07-22 10:46:06  #其他
+
+【海關總署：跨境電商等新業態新模式已成為外貿高質量發展有力支撐】7月22日，海關總署副署長王軍在國新辦新聞釋出會上表示，跨境電商、海外倉、市場採購為代表的新業態新模式，已成為我國外貿高質量發展的有力支撐。“十五五”時期，將繼續推動通關提速、暢通物流、規範管理。其中，在暢通物流方面，將支援跨境運輸、跨境公路運輸、電商出口一次申報、一站到底、一車直達，將多式聯運一單制通關改革擴大到市場採購模式，打造適配小商品特點的跨境物流網路，實現一張物流單據走全城，運費更低、速度更快。
+
+---
+
+### 2026-07-22 10:45:55  #其他
+
+【受大風天氣影響，新疆部分旅客列車將停運】記者從新疆鐵路部門瞭解到，受大風天氣影響，新疆鐵路部門調整7月22日、23日列車執行方案，部分列車停運。7月22日停運車次：烏魯木齊至庫爾勒C802次、C806次、C810次、C814次、C818次，烏魯木齊南至庫爾勒C872次，烏魯木齊至和田T9526次，烏魯木齊南至喀什K6736次，哈密至庫爾勒C995次，庫爾勒至烏魯木齊C804次、C808次、C812次、C816次、C820次，庫爾勒至烏魯木齊南C874次，庫爾勒至哈密C996次，喀什至成都西T62次、喀什至西安T270次旅客列車停運；7月23日停運車次：和田至烏魯木齊T9528次。鐵路部門將密切關注天氣變化情況，動態調整列車開行方案，一旦天氣好轉，將及時恢復列車開行。已購買停運列車車票的旅客，可透過12306網站、12306App、自助售取票機、車站視窗辦理退票、改簽業務，均不收取手續費。（央視新聞）
 
 ---
 
@@ -22209,293 +22293,5 @@ Demingli hit the daily limit-down for a fifth consecutive session; market capita
 ### 2026-07-21 09:34:00  #MKT News #Important #WTI #Impact bullish #Brent #CSI300 #Impact bearish
 
 A-share oilfield services and engineering stocks pulled back: Tongyuan Petroleum down over 14%, Keli Co. down more than 11%, with Bomaike, Renzhi, Beiken Energy and Zhongman Petroleum also weaker. On July 20 CENTCOM said U.S. forces completed a latest round of strikes against Iran at 21:00 EDT.
-
----
-
-### 2026-07-21 09:33:57  #市場 #觀點
-
-【貴金屬板塊短線走高】貴金屬板塊短線走高，赤峰黃金、山金國際、曉程科技、中金黃金、興業銀錫跟漲。
-
----
-
-### 2026-07-21 09:33:47  #市場
-
-【天然氣板塊盤初走弱，水發燃氣跌停】天然氣板塊盤初走弱，水發燃氣跌停，潛能恆信跌超10%，山東墨龍、新錦動力、凱添燃氣、特瑞斯、德龍匯能等跟跌。
-
----
-
-### 2026-07-21 09:33:37  #國際
-
-韓國總統李在明：有批評觀點認為槓桿產品放大了股市波動性。
-
----
-
-### 2026-07-21 09:33:22  #市場 #焦點
-
-恒生科技指數漲超1%，現報4799.800點；恒生指數現漲0.425%。
-
----
-
-### 2026-07-21 09:33:18  #MKT News #Important
-
-South Korea's KOSPI rose 3% intraday to 6,712.53.
-
----
-
-### 2026-07-21 09:33:16  #國際
-
-韓國KOSPI指數日內漲3%，現報6712.53點。
-
----
-
-### 2026-07-21 09:33:15  #市場 #焦點
-
-碳酸鋰連續主力合約日內跌7%，現報137500.00元。
-
----
-
-### 2026-07-21 09:33:10  #市場
-
-【有色·鋯概念表現活躍 東方鋯業直線漲停】有色·鋯概念表現活躍，東方鋯業直線漲停，國瓷材料漲超10%，愛迪特、三祥新材、凱盛科技跟漲。
-
----
-
-### 2026-07-21 09:33:08  #MKT News
-
-South Korea's Lee said critics contend leveraged products have amplified stock volatility.
-
----
-
-### 2026-07-21 09:33:04  #公司 #國際
-
-【韓國電商巨頭物流中心大火連燒3天 面臨垮塌風險】韓國電商巨頭酷澎公司一處物流中心18日燃起大火，火情持續3天仍未被完全控制。當地消防部門20日警告，如果火勢蔓延至存有大量鋰電池的區域，整個樓體將面臨垮塌風險。為防止險情發生，政府部門已組織附近居民疏散，並要求學校停課。這一物流中心位於首爾以西的仁川市，18日6時54分起火。根據當天釋出的國家消防動員令，當地已部署813名消防員和231件裝置參與滅火。消防部門官員20日說，火情雖得到一定控制，但將火完全撲滅所需時間“比預想要長”，加上該物流中心規模較大，目前無法預計完全控制火情的具體時間。（新華社）
-
----
-
-### 2026-07-21 09:32:28  #市場
-
-【電網裝置板塊短線走低】電網裝置板塊短線走低，信通電子跌停，億能電力、山大電力、燦能電力、新能泰山、雙傑電氣等跟跌。
-
----
-
-### 2026-07-21 09:32:09  #其他
-
-【油氣開採及服務板塊盤初走弱】油氣開採及服務板塊盤初走弱，通源石油跌超10%，潛能恆信、藍焰控股、博邁科、新天然氣等跟跌。
-
----
-
-### 2026-07-21 09:32:02  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index #CNH
-
-China's ChiNext index rose more than 1%, led by storage-chip, semiconductor and gaming sectors.
-
----
-
-### 2026-07-21 09:31:31  #MKT News #SSE Composite #Impact bullish #CSI300
-
-China A-share memory chip sector opened higher; Dongxin Co. jumped over 9%. Puran Co., Hengshuo Co., Zhengfan Technology, Beijing Junzheng, Tianshan Electronics and Debang Technology also advanced.
-
----
-
-### 2026-07-21 09:31:26  #市場 #焦點
-
-創業板指漲1.04%，現報3478.759點；上證指數跌0.08%，現報3793.318點；深證成指漲0.57%，現報13688.419點。
-
----
-
-### 2026-07-21 09:31:25  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-【China stock-index futures open higher】Most-active China stock-index futures opened higher: CSI 500 futures (IC main) up 2.03%, CSI 1000 futures (IM main) up 1.54%, CSI 300 futures (IF main) up 1.14%, SSE 50 futures (IH main) up 0.94%.
-
----
-
-### 2026-07-21 09:31:25  #MKT News #Market Regions #Greater China
-
-【China government bond futures open】At the morning open, China government bond futures: 2-year (TS) most-active contract up 0.01%, 5-year (TF) up 0.01%, 10-year (T) up 0.01%, 30-year (TL) down 0.01%.
-
----
-
-### 2026-07-21 09:31:10  #國際
-
-【美軍稱完成針對伊朗的最新一輪打擊行動】當地時間7月20日，美軍中央司令部表示，美軍於美東時間當天21時完成對伊朗的最新一輪打擊行動。宣告稱，美軍此次打擊目標包括伊朗軍事指揮中心、海上作戰能力、導彈和無人機發射場以及防空系統，“旨在削弱伊朗繼續襲擊經由霍爾木茲海峽商業船隻的能力”。美軍中央司令部稱，霍爾木茲海峽的商業船舶通行仍在繼續。自5月初以來，美軍已協助約900艘商業船隻和約4.5億桶原油透過這一重要國際航道。（央視新聞）
-
----
-
-### 2026-07-21 09:31:03  #MKT News
-
-SOUTH KOREA'S LEE said he finds USD/KRW near 1,500-1,600 unusual.
-
----
-
-### 2026-07-21 09:30:54  #公司
-
-【財通基金金梓才在管產品二季報出爐，投資組合大換血】7月21日，財通基金副總經理金梓才管理的基金披露2026年第二季度報告。以財通成長優選為例，該基金前十大重倉股“六進六出”，南亞新材、三環集團、德福科技、風華高科、博遷新材和華正新材新進入前十大，而此前重倉的中際旭創、生益電子、永鼎股份、滬電股份、生益科技和烽火通訊則退出前十大重倉股名單，金梓才表示自己將有限的組合倉位進一步配置到出現緊缺環節的行業中去，包括被動元件中的MLCC、PCB上游等各個緊缺物料方向。
-
----
-
-### 2026-07-21 09:30:32  #公司
-
-【8只資管同日集體賣出， 中國人壽減持兆易創新套現6.8億】中國人壽7月20日晚間披露，該公司名下的8只資管計劃，7月8日集體賣出兆易創新約110.92萬股，減持價格介於611.46元至624.61元之間，套現金額共計約為6.85億元，所有交易均在當天確認成交。由於未能得知買入時間，這8只資管計劃的收益尚難測算。公告還顯示，該公司上述減持兆易創新的8只資管計劃，7只與匯添富合作設立，1只與華夏基金合作設立，投資方向包括均衡、成長兩大型別。從資管產品名稱來看，對應賬戶包括傳統、萬能險A、萬能B以及分紅等四個型別。（第一財經）
-
----
-
-### 2026-07-21 09:30:27  #其他
-
-日經225指數日內漲幅擴大至2.00%。
-
----
-
-### 2026-07-21 09:30:14  #國際
-
-韓國總統李在明：美元兌韓元匯率在1500至1600韓元區間波動實屬異常。
-
----
-
-### 2026-07-21 09:30:03  #市場
-
-【國債期貨開盤】 30年期主力合約漲0.02%， 10年期主力合約漲0.01%， 5年期主力合約基本持平， 2年期主力合約基本持平。
-
----
-
-### 2026-07-21 09:30:03  #MKT News #Important #Nikkei 225 #Impact bullish
-
-Japan's Nikkei index extended intraday gains to 2.00%.
-
----
-
-### 2026-07-21 09:30:02  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續漲1.94%， 滬深300指數期貨連續漲1.33%， 中證500指數期貨連續漲2.16%， 上證50指數期貨連續漲1.41%。
-
----
-
-### 2026-07-21 09:30:02  #市場 #焦點
-
-科創50日內漲幅達1.68%，成分股中，寒武紀漲4.22%，瀾起科技漲4.12%，拓荊科技漲3.13%，華海清科漲3.08%。
-
----
-
-### 2026-07-21 09:29:37  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Islamic Revolutionary Guard Corps said it struck the MQ-9 drone hangar at Kuwait's Ali Al Salem air base.
-
----
-
-### 2026-07-21 09:29:29  #國際
-
-伊朗革命衛隊稱，其已對科威特阿里阿勒 Salem空軍基地的MQ-9無人機機庫發動打擊。
-
----
-
-### 2026-07-21 09:29:29  #MKT News #Commodities #Precious Metals
-
-China A-share precious metals sector opened higher; Xingye Silver-Tin rose over 3%, with Shan Jin International, Chifeng Gold, Xiaocheng Technology, Zhaojin Gold and Sichuan Gold also advancing.
-
----
-
-### 2026-07-21 09:29:05  #國際
-
-GPIF向專注於日本的私募股權基金投資200億日元。
-
----
-
-### 2026-07-21 09:29:00  #市場 #焦點
-
-中證1000指數期貨連續主力合約日內漲1%，現報6920.00點。
-
----
-
-### 2026-07-21 09:29:00  #市場 #焦點
-
-中證500指數期貨連續主力合約日內漲1%，現報7385.00點。
-
----
-
-### 2026-07-21 09:28:54  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Islamic Revolutionary Guard Corps (IRGC) said it struck US military radar, communications and satellite facilities in Kuwait with missiles and drones.
-
----
-
-### 2026-07-21 09:28:27  #國際
-
-GPIF將首次自營投資於專注於日本的私募股權基金。
-
----
-
-### 2026-07-21 09:28:19  #Trading Economics #Markets #Commodity #Importance 1
-
-Gasoline Holds Near 2-Month Highs — US gasoline prices traded around $3.38 per gallon, remaining near the highest level in two months, as markets weighed renewed diplomatic efforts between the US and Iran against escalating military exchanges. Iran said it had received a 10-day ceasefire proposal from mediators aimed at preserving the interim agreement and advancing a lasting peace deal. The diplomatic push followed another night of US strikes on Iranian cities and Iranian attacks on US military assets across the region. Amid the tensions, shipping activity through the Strait of Hormuz came close to a standstill. Adding to supply concerns, Yemen's Houthi militants threatened to blockade shipping to and from Saudi Arabia through the Red Sea. Meanwhile, Ukrainian attacks on Russian energy infrastructure continued to disrupt refinery operations, while stronger diesel and jet fuel margins prompted refiners to curb gasoline output. At the pump, average US gasoline prices climbed back above $4 per gallon.
-
----
-
-### 2026-07-21 09:27:57  #國際
-
-韓國副財長稱韓元匯率仍弱於基本面。
-
----
-
-### 2026-07-21 09:27:55  #MKT News #Important
-
-Newly listed stock N Tainuo-U jumped 246.82% at the open; its prospectus says the company develops blood-product substitute therapies.
-
----
-
-### 2026-07-21 09:27:41  #公司 #市場
-
-【智明達開盤20CM一字跌停】智明達開盤20CM一字跌停，訊息面上，智明達同日公告，因特殊事項影響，從即日起三年，公司在特種領域獲取訂單受限，預計對公司生產經營和財務狀況產生一定負面影響。
-
----
-
-### 2026-07-21 09:27:36  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component #CSI300
-
-At the open on July 21, China's Shanghai Composite Index was up 15.88 points (0.42%) at 3,812.16; Shenzhen Composite Index was up 45.85 points (0.34%) at 13,656.08; CSI 300 Index was up 32.53 points (0.71%) at 4,630.85; China's ChiNext Index was up 26.12 points (0.76%) at 3,469.22; China STAR 50 Index was up 28.80 points (1.68%) at 1,747.49.
-
----
-
-### 2026-07-21 09:27:15  #市場
-
-【港股人工智慧概念股走強 MINIMAX漲超5%】截至發稿，MINIMAX-W(00100.HK)漲5.13%，智譜(02513.HK)漲4.44%，兆易創新(03986.HK)漲3.47%。
-
----
-
-### 2026-07-21 09:27:10  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【US completes new round of strikes on Iran】CENTCOM said US forces conducted a new round of strikes on Iran on July 20 at 9:00 p.m. EDT (July 21 9:00 a.m. Beijing), targeting a military command center, maritime operations facilities, missile and UAV launch sites and air‑defense systems to degrade Iran's ability to attack merchant ships transiting the Strait of Hormuz. Merchant ships continued to transit the route; since early May CENTCOM said its forces have assisted about 900 merchant ships and the passage of roughly 450 mln barrels of crude. CENTCOM said US forces remain on alert and are prepared to hold Iran accountable for unprovoked aggression against civilian vessels attempting free, open passage through the strait.
-
----
-
-### 2026-07-21 09:27:05  #市場 #焦點
-
-雞蛋連續主力合約日內跌3%，現報4129.00元。
-
----
-
-### 2026-07-21 09:27:03  #公司 #市場
-
-【泰諾麥博上市首日開盤大漲超246%】泰諾麥博上市首日開盤漲246.82%，現報50.15元，該股發行價為14.46元。珠海泰諾麥博製藥股份有限公司主營業務是全人源抗體藥物的開發、生產和銷售。公司的主要產品有斯泰度塔單抗注射液等。公司曾獲得廣東省“專精特新”中小企業、廣東省全人源單克隆抗體藥物工程技術研究中心、高新技術企業、廣東省博士工作站等獎項。
-
----
-
-### 2026-07-21 09:26:57  #國際
-
-韓國副財長表示，韓元可能進一步升值。
-
----
-
-### 2026-07-21 09:26:19  #市場
-
-德明利開跌6.81%，此前跌停4連板，總市值回落至1020.83億元。
-
----
-
-### 2026-07-21 09:26:18  #MKT News #Important #Market Regions #Greater China
-
-Demingli opened down 6.81% after four consecutive limit-down sessions; market capitalization fell to 102.083 bln yuan.
-
----
-
-### 2026-07-21 09:25:54  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China
-
-【Z.ai commissions 1GW domestic AI compute centre, completes acquisition of XCore Sigma】Z.ai has commissioned a 1GW-class domestic AI compute data centre that uses only domestic AI chips, and today completed the acquisition of XCore Sigma, a heterogeneous AI compute software firm spun out of the Institute of Computing Technology at the Chinese Academy of Sciences. XCore Sigma specialises in heterogeneous compute software stacks and compiler optimisation and is regarded as one of China’s leading AI infra teams, sources said. The two moves respectively address compute supply and compute utilisation: the data centre expands large-model training capacity, while XCore Sigma’s compiler, runtime and inference-engine capabilities aim to raise heterogeneous-chip utilisation, lower inference costs and speed model deployment.
 
 ---

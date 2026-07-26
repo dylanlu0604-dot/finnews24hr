@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-27 03:48:28_
-_本檔包含 3914 則快訊，約 685439 字_
+_更新時間：2026-07-27 05:06:09_
+_本檔包含 3906 則快訊，約 684509 字_
+
+---
+
+### 2026-07-24 15:03:35  #其他
+
+德國總理默茨：尼娜·瓦爾肯將被任命為幕僚長。
+
+---
+
+### 2026-07-24 15:03:30  #國際
+
+【古巴譴責美國對古新一輪制裁】針對美國政府23日宣佈的對古巴新一輪制裁，古巴外交部長羅德里格斯當天在社交媒體發文，譴責美國政府企圖透過經濟封鎖對全體古巴人民實施“集體懲罰”，並在古巴挑動人道主義危機。羅德里格斯強調，美國針對古巴國際醫療合作專案的打擊，無異於侵犯世界許多地區數十萬民眾享有醫療衛生服務的基本的人權。古巴因向國際社會提供公認的人道主義與團結互助服務，反而遭美方懲罰。（新華社）
+
+---
+
+### 2026-07-24 15:03:23  #MKT News #Important
+
+German chancellor Merz said Nina Warken will be appointed chief of staff.
+
+---
+
+### 2026-07-24 15:03:10  #公司
+
+在媒體報道阿卡迪斯遭收購意向後，該公司股價延續週四漲勢，當前漲幅擴大至5.4%。
+
+---
+
+### 2026-07-24 15:02:50  #其他
+
+【ETF兩市成交額報5128.01億元，較昨日此時放量360.2億元】截至目前，ETF兩市成交額報5128.01億元，較昨日此時放量360.2億元，分型別來看，股票型ETF成交額1788.23億元，債券型ETF成交額2080.84億元，貨幣型ETF成交額307.1億元，商品型ETF成交額68.98億元，QDII型ETF成交額882.86億元。
+
+---
+
+### 2026-07-24 15:02:36  #MKT News
+
+【Over 29 million farm households sign 30-year extensions in second-round land-contract pilot】At a July 24 press briefing, the Ministry of Agriculture and Rural Affairs said China is advancing province-wide pilots to extend expiring second-round land contracts for another 30 years; to date more than 29 million farm households have signed extension contracts.
+
+---
+
+### 2026-07-24 15:02:34  #其他
+
+【2900多萬農戶順利簽訂二輪到期土地延包合同】農業農村部7月24日在國新辦舉行的新聞釋出會上釋出資訊顯示，我國紮實推進第二輪土地承包到期後再延長30年整省試點，截至目前2900多萬農戶順利簽訂延包合同。（新華社）
+
+---
+
+### 2026-07-24 15:02:34  #MKT News #Market Regions #Greater China
+
+【Over 29 million Chinese farm households sign 30-year land contract extensions in second-round pilot】The Ministry of Agriculture and Rural Affairs said at a July 24 briefing China is advancing province‑wide pilots to extend second‑round rural land contract terms by 30 years; as of the briefing more than 29 million farm households have signed extension contracts.
+
+---
+
+### 2026-07-24 15:02:31  #公司 #國際
+
+訊息人士稱，印度將為銀行、保險公司推出統一客戶標識，共同基金領域後續也將推行該制度。
+
+---
+
+### 2026-07-24 15:02:19  #MKT News #EURUSD #Impact mixed #DXY #XAUUSD
+
+Swiss National Bank says it will neither try to prevent adjustments in the international balance of payments nor seek to secure an undue competitive advantage for the Swiss economy.
+
+---
+
+### 2026-07-24 15:02:18  #MKT News #SSE Composite #Impact bearish #SZSE Component #CSI300
+
+China's Shanghai Composite Index closed down 62.58 points (-1.61%) at 3,814.20 on July 24 (Friday); Shenzhen Composite Index closed down 348.63 points (-2.47%) at 13,774.68; CSI 300 Index closed down 78.81 points (-1.67%) at 4,649.19; ChiNext Index closed down 94.65 points (-2.65%) at 3,480.87; STAR 50 Index closed down 2.49 points (-0.14%) at 1,787.20.
+
+---
+
+### 2026-07-24 15:02:16  #MKT News
+
+【China autumn grain sowing area steady; crop growth broadly normal — agriculture ministry】China’s autumn grain sowing area is steady with a slight increase and in-field crop growth is broadly normal, providing a sound basis to secure the full-year grain harvest, the Ministry of Agriculture and Rural Affairs said at a July 24 press briefing.
+
+---
+
+### 2026-07-24 15:02:13  #央行 #其他
+
+瑞士央行：瑞士央行不參與操縱瑞士法郎。既不試圖阻止國際收支的調整，也不試圖為瑞士經濟獲取不當的競爭優勢。
+
+---
+
+### 2026-07-24 15:02:02  #其他
+
+【秋糧作物長勢總體正常 奪取全年糧食豐收有較好基礎】農業農村部7月24日在國新辦舉行的新聞釋出會上釋出資訊顯示，今年我國秋糧種植面積穩中略增，在田作物長勢總體正常，奪取全年糧食豐收有較好基礎。
+
+---
+
+### 2026-07-24 15:01:56  #MKT News #Market Regions #Greater China
+
+【July 24: China stocks turnover CNY1.93trn; Zhongji Xuchuang tops by turnover】July 24 — Shanghai and Shenzhen combined turnover CNY1.93 trillion, down CNY264.16 billion from the prior session. Shanghai turnover CNY915.37 billion (prior CNY1,025.88 billion); volume 508 million lots (prior 562 million). Shenzhen turnover CNY1,015.77 billion (prior CNY1,169.43 billion); volume 569 million lots (prior 626 million). Top stocks by turnover: Zhongji Xuchuang CNY22.94 billion, GigaDevice CNY22.86 billion, Tongfu Microelectronics CNY19.82 billion, Xinyisheng CNY16.32 billion, Tsinghua Unigroup CNY15.22 billion.
+
+---
+
+### 2026-07-24 15:01:55  #MKT News #CSI300 #Impact bearish #SSE Composite #SZSE Component
+
+【Stock index futures midday close】A-share index futures at midday: CSI 300 (IF) most-active contract down 1.73pct; SSE 50 (IH) down 1.28pct; CSI 500 (IC) down 2.35pct; CSI 1000 (IM) down 2.67pct.
+
+---
+
+### 2026-07-24 15:01:46  #公司 #市場
+
+SAP股價上漲4.2%，此前該公司公佈第二季度業績超出預期。
+
+---
+
+### 2026-07-24 15:01:40  #MKT News
+
+Swiss National Bank says it does not participate in manipulation of the Swiss franc.
+
+---
+
+### 2026-07-24 15:01:34  #MKT News #Market Regions #Greater China
+
+【Slovak President Pellegrini to make state visit to China July 27-29】At the invitation of CHINA, Slovak President Pellegrini will make a state visit to China from July 27 to 29, the foreign ministry said.
+
+---
+
+### 2026-07-24 15:01:24  #國際
+
+【斯洛伐克總統佩列格里尼將對中國進行國事訪問】外交部發言人宣佈：應國家主席習近平邀請，斯洛伐克總統佩列格里尼將於7月27日至29日對中國進行國事訪問。
+
+---
+
+### 2026-07-24 15:01:21  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #Impact bearish
+
+European equities opened mixed on July 24 (Friday): Germany's DAX rose 79.88 pts (+0.32%) to 24,789.21; UK's FTSE 100 fell 29.74 pts (-0.28%) to 10,609.43; France's CAC 40 fell 18.34 pts (-0.22%) to 8,280.75; Euro Stoxx 50 down 0.07 pts (0.00%) at 6,210.10; Spain's IBEX 35 rose 24.25 pts (+0.13%) to 19,291.25; Italy's FTSE MIB rose 13.16 pts (+0.03%) to 51,329.00.
+
+---
+
+### 2026-07-24 15:01:15  #其他
+
+【內蒙古上半年GDP同比增長4.5%】內蒙古自治區統計局、國家統計局內蒙古調查總隊公佈資料顯示，根據地區生產總值統一核算結果，上半年全區地區生產總值12810億元，按不變價格計算，同比增長4.5%。分產業看，第一產業增加值425億元，同比增長4.4%；第二產業增加值5920億元，增長5.1%；第三產業增加值6466億元，增長3.9%。
+
+---
+
+### 2026-07-24 15:01:13  #市場
+
+【ETF收評：科創半導體裝置ETF領漲3.63%，工業有色ETF領跌5.5%】ETF收盤漲跌不一，科創半導體裝置ETF（588710）領漲3.63%，科創半導體ETF（588170）漲3.37%，科創半導體裝置ETF（589020）漲3.36%，工業有色ETF（159032）領跌5.5%，黃金股ETF（517520）跌5.36%，黃金股ETF（159562）跌5.31%。
 
 ---
 
@@ -23410,191 +23548,5 @@ Hyundai Motor said Q2 production was disrupted by interruptions to auto-parts su
 ### 2026-07-23 12:58:45  #MKT News #Market Regions #Greater China #CNH #Impact bullish
 
 【China, Chile push renminbi cross-border investment in Santiago】Bank of China and Cross‑Border Interbank Payment and Settlement Co., Ltd. (CIPS) jointly hosted a renminbi cross‑border investment and financing promotion event in Santiago on the 22nd; more than 100 finance, political and business representatives attended. Participants said China’s ongoing financial opening will expand renminbi use in bilateral trade and investment; China’s ambassador to Chile said deepening financial connectivity and broader renminbi usage is a pragmatic cost‑and‑risk management choice for firms and necessary to deepen bilateral cooperation, urging financial ties to become a new engine for upgrading the strategic partnership.
-
----
-
-### 2026-07-23 12:57:33  #國際
-
-【伊朗塔斯尼姆通訊社：伊朗打擊科威特境內美軍基地及通訊塔】伊朗半官方媒體塔斯尼姆通訊社報道，伊朗革命衛隊對科威特境內美軍薩勒姆基地與阿迪裡基地發動打擊，目標包含愛國者防空系統、直升機等軍用裝備，以及一座通訊塔。報道稱，此次針對通訊塔的打擊，是為報復美方此前對伊朗通訊塔實施的襲擊。塔斯尼姆另一則報道補充，數小時前伊朗軍方同樣襲擊了科威特美軍基地，打擊目標涵蓋薩勒姆基地燃料儲存區、多哈補給倉庫，以及阿里凡軍營彈藥庫。
-
----
-
-### 2026-07-23 12:56:47  #MKT News
-
-Hyundai Motor says hybrid vehicles accounted for 18.9% of its Q2 vehicle sales.
-
----
-
-### 2026-07-23 12:56:39  #MKT News #005380.KS
-
-Hyundai Motor Co reported Q2 revenue of 49.2 trillion won and net profit of 2.5 trillion won.
-
----
-
-### 2026-07-23 12:56:28  #其他
-
-海南省氣象臺2026年07月23日12時54分發布海上雷雨大風黃色預警訊號：受對流雲團影響，瓊州海峽海面23日12時54分到19時可能出現雷雨大風天氣，風力達7～9級並伴有強雷電，建議有關單位和人員做好防範工作。
-
----
-
-### 2026-07-23 12:56:16  #公司 #國際
-
-【阿聯酋加速建設新港口以減少對霍爾木茲海峽依賴 】據阿聯酋媒體22日報道，在近期地區局勢持續緊張、霍爾木茲海峽航運受阻背景下，阿聯酋正加快推進位於東海岸富查伊拉酋長國的新港口專案建設，以降低對霍爾木茲海峽的依賴、提升本國集裝箱吞吐能力和海上貿易水平。據報道，迪拜環球港務集團當天與富查伊拉港務局簽署一項為期50年的港口特許經營協議，以推進魯蓋拉特集裝箱港和迪巴-富查伊拉港口專案建設。富查伊拉位於阿聯酋東海岸，瀕臨阿曼灣，船舶無需經由霍爾木茲海峽即可進出印度洋。根據規劃，魯蓋拉特集裝箱港設計年處理能力為250萬標準箱，迪巴-富查伊拉港口專案建成後將新增每年360萬噸普通貨物處理能力。專案將分階段實施，預計建設週期為24至30個月。
-
----
-
-### 2026-07-23 12:55:39  #其他
-
-現代汽車第二季度銷售額49.22萬億韓元，預估49.09萬億韓元。現代汽車第二季度淨利潤2.52萬億韓元，預估2.74萬億韓元。現代汽車第二季度營業利潤2.85萬億韓元，預估3.11萬億韓元。
-
----
-
-### 2026-07-23 12:54:32  #MKT News #WTI #Impact bearish #Brent
-
-Hindustan Petroleum executive says August oil supplies have been secured.
-
----
-
-### 2026-07-23 12:54:20  #其他
-
-諾基亞：第二季度人工智慧與雲業務訂單承接額為28億歐元，銷售額同比實現翻倍以上增長。
-
----
-
-### 2026-07-23 12:53:57  #其他
-
-諾基亞：目前對2026年可比營業利潤的預期區間為21億至26億歐元。
-
----
-
-### 2026-07-23 12:53:42  #其他
-
-諾基亞：第二季度網路基礎設施部門淨銷售額按固定匯率計算同比增長12%，其中光網路業務領漲，增幅達20%。
-
----
-
-### 2026-07-23 12:53:22  #其他
-
-諾基亞：從運營層面來看，諾基亞全年業績展望保持不變。
-
----
-
-### 2026-07-23 12:50:49  #國際
-
-伊朗塔斯尼姆通訊社：伊朗打擊在科威特境內的美軍基地和通訊塔。
-
----
-
-### 2026-07-23 12:50:39  #MKT News #Market Regions #Japan & APAC
-
-【Japan completes Epsilon S engine burn test after lowering payload target】JAXA carried out a second-stage engine burn test for the Epsilon S solid rocket on the morning of the 23rd. After two failed tests in 2023 and 2024, the agency replaced the E-21 engine with a refurbished M-35a and cut the sun-synchronous orbit payload target from at least 600 kg to 400 kg. The engine burned for about two minutes and met test objectives. JAXA plans a verification launch in FY2026.
-
----
-
-### 2026-07-23 12:50:11  #國際
-
-【日本降低載重目標後完成火箭發動機燃燒試驗】日本宇宙航空研究開發機構（JAXA）23日上午進行新型固體火箭“埃普西隆S”第二級發動機燃燒試驗。繼2023年和2024年兩次試驗失敗後，此次試驗更換了發動機並下調了運載能力目標。 當地時間23日9時（北京時間8時），JAXA開始在南部鹿兒島縣種子島宇宙中心實施“埃普西隆S”火箭第二級發動機地面燃燒試驗。JAXA官方社交媒體賬號直播畫面顯示，發動機點火後噴發出火焰和煙霧，燃燒約兩分鐘後試驗結束，完成預定目標。本次試驗，JAXA改用M-35a發動機，替代此前連續兩次試驗失敗的E-21。（新華社）
-
----
-
-### 2026-07-23 12:49:20  #MKT News #Commodities #Energy
-
-India's Hindustan Petroleum executives said they expect the Rajasthan refinery to run at full capacity in Q4. The company aims to stop purchasing fuel from other refineries for domestic sales within nine months.
-
----
-
-### 2026-07-23 12:49:00  #公司 #國際
-
-印度斯坦石油公司高管：目標9個月內終止向其他煉油商採購燃料用於本土銷售。
-
----
-
-### 2026-07-23 12:47:26  #其他
-
-【十四五期間廣州保交樓保交房專案已全部完成交付】廣州加快建立多主體供給、多渠道保障、租購併舉的住房制度，不斷完善住房市場體系和保障體系，房地產市場風險化解成效顯著，推動居民居住水平從“住有所居”向“住有宜居”邁進。（羊城晚報）
-
----
-
-### 2026-07-23 12:46:00  #央行 #國際
-
-【調查：半數經濟學家估日本央行12月才升息 受高市政府掣肘】在接受彭博調查的經濟學家中，半數預計日本央行將等到12月才會上調基準利率，首相高市早苗的政府是阻礙央行進一步採取行動的主要因素。根據這項調查，在52位受訪的經濟學家中，約50%認為，日本央行上月升息後，下一次行動最可能落在12月；另有40%認為升息將在10月。59%的受訪者稱，高市向來支援寬鬆貨幣政策，她領導的政府對央行推進利率政策正常化上形成掣肘。高達82%的受訪者預估，升息步調將大致維持每六個月一次，高於6月調查時的71%。該調查顯示，經濟學家對日本央行升息能力的信心仍低於市場參與者；截至週四上午，市場參與者認定在10月前採取行動的機率為83%。在該項調查結束後釋出的報道中，知情人士透露，由於日元持續疲軟加劇了通脹上行風險，日本央行官員對選擇比經濟學家的共識更快的加息節奏持開放態度。
-
----
-
-### 2026-07-23 12:45:43  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iran's Islamic Revolutionary Guard Corps said it struck U.S. military positions at Camp Arifjan and Camp Doha in Kuwait.
-
----
-
-### 2026-07-23 12:45:35  #國際
-
-【伊朗稱打擊科威特境內美軍目標 】伊朗革命衛隊今天（7月23日）稱打擊了美軍位於科威特的阿達伊裡營地和阿里·薩利姆空軍基地。伊朗軍隊也表示，打擊了美軍位於科威特的阿里夫堅軍營和多哈營地。（ CCTV國際時訊  ）
-
----
-
-### 2026-07-23 12:45:13  #公司 #國際
-
-訊息人士稱，印度阿達尼集團正考慮創辦自有航空公司。
-
----
-
-### 2026-07-23 12:44:16  #其他
-
-【Seed STEM科學家計劃啟動】7月23日，Seed Edge團隊正式釋出Seed STEM 科學家計劃。該計劃擬邀請100位前沿科學領域學者，與Seed 團隊一起，圍繞真實科研問題展開合作。該計劃希望學者在STEM相關學科領域已獲得或正在攻讀博士學位。首期STEM科學家計劃約持續6個月，在此期間，參與學者需來到Seed辦公區，與團隊一起開展工作。該計劃將為參與學者提供充足的算力資源、先進的模型體驗和專業的AI研究團隊支援。為充分認可參與學者的科研價值和貢獻，Seed團隊將為其提供業界具有競爭力的薪酬回報。
-
----
-
-### 2026-07-23 12:43:54  #國際
-
-【俄羅斯外長拉夫羅夫和美國國務卿魯比奧的會談結束】據塔斯社報道，俄羅斯外交部長謝爾蓋·拉夫羅夫和美國國務卿馬可·魯比奧在馬尼拉舉行了會談，會談持續了30多分鐘。報道稱，會議於當地時間上午11點54分開始，下午12點31分結束。報道還表示，會談按計劃進行。拉夫羅夫和魯比奧分別率領各自的代表團出席了會議。
-
----
-
-### 2026-07-23 12:42:18  #國際
-
-俄羅斯外長拉夫羅夫和美國國務卿魯比奧的會談持續了30多分鐘。
-
----
-
-### 2026-07-23 12:41:31  #國際
-
-塔斯社稱，俄羅斯外長拉夫羅夫和美國國務卿魯比奧在馬尼拉的會談結束。
-
----
-
-### 2026-07-23 12:40:44  #公司 #國際
-
-印度石油公司（HPCL）董事長：拉賈斯坦邦煉油廠第三季度將滿負荷運轉。
-
----
-
-### 2026-07-23 12:40:07  #MKT News
-
-Vietnam National Oil and Gas Group said Yishan refinery has secured crude supply and can maintain operations through end-September.
-
----
-
-### 2026-07-23 12:39:56  #公司 #國際
-
-【韓國GS採購8月船期美國原油 較迪拜原油升水約18美元/桶】多位知情交易員透露，韓國煉油企業GS加德士（GS Caltex）購入200萬桶美國原油，提貨裝船時間為8月下旬，成交價格較10月迪拜原油基準價升水約18美元每桶。交易員表示，這批原油貨輪預計10月上旬抵達目的地。本次原油賣方為托克集團（Trafigura）。GS加德士此前也曾採購過8月船期的美國原油，當時較迪拜原油基準價升水約14美元/桶。
-
----
-
-### 2026-07-23 12:39:01  #公司 #國際
-
-印度石油公司（HPCL）高管：拉賈斯坦煉廠900萬噸/年原油裝置目前開工率為60%。
-
----
-
-### 2026-07-23 12:34:49  #MKT News
-
-【HKEX adds Bursa Malaysia as recognized stock exchange】The Stock Exchange of Hong Kong Ltd, a wholly owned subsidiary of Hong Kong Exchanges and Clearing, has added Bursa Malaysia as a recognized stock exchange. Companies primarily listed on Bursa Malaysia’s Main Market may now apply for secondary listings in Hong Kong. The count of Southeast Asian recognized exchanges rises to four, joining the Indonesia Stock Exchange, Singapore Exchange and the Stock Exchange of Thailand.
-
----
-
-### 2026-07-23 12:33:44  #Trading Economics #Economy #Netherlands #Consumer Confidence #Importance 1
-
-Dutch Consumer Confidence Less Negative in July — Consumer confidence in the Netherlands improved to -35 in July 2026 from -39 in June, marking a further recovery but remaining well below its long-term average of -11 over the past 20 years. The improvement was mainly driven by a less negative assessment of the economic climate, which rose to -59 from -64, as consumers became more optimistic about both the economic situation over the past 12 months and expectations for the year ahead. Willingness to buy also strengthened to -19 from -22, supported by improved views of household finances and a more favorable assessment of major purchases. The assessment of the financial situation over the past year improved to -15 from -16, while expectations for the next 12 months rose to -2 from -6. The view on the timing for major purchases increased to -40 from -44. Despite the improvement, confidence remained below its long-term average and far below the record high of +36 reached in January 2000.
 
 ---

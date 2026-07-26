@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-27 03:48:28_
-_本檔包含 3380 則快訊，約 684361 字_
+_更新時間：2026-07-27 05:06:09_
+_本檔包含 3397 則快訊，約 684336 字_
+
+---
+
+### 2026-07-23 12:57:33  #國際
+
+【伊朗塔斯尼姆通訊社：伊朗打擊科威特境內美軍基地及通訊塔】伊朗半官方媒體塔斯尼姆通訊社報道，伊朗革命衛隊對科威特境內美軍薩勒姆基地與阿迪裡基地發動打擊，目標包含愛國者防空系統、直升機等軍用裝備，以及一座通訊塔。報道稱，此次針對通訊塔的打擊，是為報復美方此前對伊朗通訊塔實施的襲擊。塔斯尼姆另一則報道補充，數小時前伊朗軍方同樣襲擊了科威特美軍基地，打擊目標涵蓋薩勒姆基地燃料儲存區、多哈補給倉庫，以及阿里凡軍營彈藥庫。
+
+---
+
+### 2026-07-23 12:56:47  #MKT News
+
+Hyundai Motor says hybrid vehicles accounted for 18.9% of its Q2 vehicle sales.
+
+---
+
+### 2026-07-23 12:56:39  #MKT News #005380.KS
+
+Hyundai Motor Co reported Q2 revenue of 49.2 trillion won and net profit of 2.5 trillion won.
+
+---
+
+### 2026-07-23 12:56:28  #其他
+
+海南省氣象臺2026年07月23日12時54分發布海上雷雨大風黃色預警訊號：受對流雲團影響，瓊州海峽海面23日12時54分到19時可能出現雷雨大風天氣，風力達7～9級並伴有強雷電，建議有關單位和人員做好防範工作。
+
+---
+
+### 2026-07-23 12:56:16  #公司 #國際
+
+【阿聯酋加速建設新港口以減少對霍爾木茲海峽依賴 】據阿聯酋媒體22日報道，在近期地區局勢持續緊張、霍爾木茲海峽航運受阻背景下，阿聯酋正加快推進位於東海岸富查伊拉酋長國的新港口專案建設，以降低對霍爾木茲海峽的依賴、提升本國集裝箱吞吐能力和海上貿易水平。據報道，迪拜環球港務集團當天與富查伊拉港務局簽署一項為期50年的港口特許經營協議，以推進魯蓋拉特集裝箱港和迪巴-富查伊拉港口專案建設。富查伊拉位於阿聯酋東海岸，瀕臨阿曼灣，船舶無需經由霍爾木茲海峽即可進出印度洋。根據規劃，魯蓋拉特集裝箱港設計年處理能力為250萬標準箱，迪巴-富查伊拉港口專案建成後將新增每年360萬噸普通貨物處理能力。專案將分階段實施，預計建設週期為24至30個月。
+
+---
+
+### 2026-07-23 12:55:39  #其他
+
+現代汽車第二季度銷售額49.22萬億韓元，預估49.09萬億韓元。現代汽車第二季度淨利潤2.52萬億韓元，預估2.74萬億韓元。現代汽車第二季度營業利潤2.85萬億韓元，預估3.11萬億韓元。
+
+---
+
+### 2026-07-23 12:54:32  #MKT News #WTI #Impact bearish #Brent
+
+Hindustan Petroleum executive says August oil supplies have been secured.
+
+---
+
+### 2026-07-23 12:54:20  #其他
+
+諾基亞：第二季度人工智慧與雲業務訂單承接額為28億歐元，銷售額同比實現翻倍以上增長。
+
+---
+
+### 2026-07-23 12:53:57  #其他
+
+諾基亞：目前對2026年可比營業利潤的預期區間為21億至26億歐元。
+
+---
+
+### 2026-07-23 12:53:42  #其他
+
+諾基亞：第二季度網路基礎設施部門淨銷售額按固定匯率計算同比增長12%，其中光網路業務領漲，增幅達20%。
+
+---
+
+### 2026-07-23 12:53:22  #其他
+
+諾基亞：從運營層面來看，諾基亞全年業績展望保持不變。
+
+---
+
+### 2026-07-23 12:50:49  #國際
+
+伊朗塔斯尼姆通訊社：伊朗打擊在科威特境內的美軍基地和通訊塔。
+
+---
+
+### 2026-07-23 12:50:39  #MKT News #Market Regions #Japan & APAC
+
+【Japan completes Epsilon S engine burn test after lowering payload target】JAXA carried out a second-stage engine burn test for the Epsilon S solid rocket on the morning of the 23rd. After two failed tests in 2023 and 2024, the agency replaced the E-21 engine with a refurbished M-35a and cut the sun-synchronous orbit payload target from at least 600 kg to 400 kg. The engine burned for about two minutes and met test objectives. JAXA plans a verification launch in FY2026.
+
+---
+
+### 2026-07-23 12:50:11  #國際
+
+【日本降低載重目標後完成火箭發動機燃燒試驗】日本宇宙航空研究開發機構（JAXA）23日上午進行新型固體火箭“埃普西隆S”第二級發動機燃燒試驗。繼2023年和2024年兩次試驗失敗後，此次試驗更換了發動機並下調了運載能力目標。 當地時間23日9時（北京時間8時），JAXA開始在南部鹿兒島縣種子島宇宙中心實施“埃普西隆S”火箭第二級發動機地面燃燒試驗。JAXA官方社交媒體賬號直播畫面顯示，發動機點火後噴發出火焰和煙霧，燃燒約兩分鐘後試驗結束，完成預定目標。本次試驗，JAXA改用M-35a發動機，替代此前連續兩次試驗失敗的E-21。（新華社）
+
+---
+
+### 2026-07-23 12:49:20  #MKT News #Commodities #Energy
+
+India's Hindustan Petroleum executives said they expect the Rajasthan refinery to run at full capacity in Q4. The company aims to stop purchasing fuel from other refineries for domestic sales within nine months.
+
+---
+
+### 2026-07-23 12:49:00  #公司 #國際
+
+印度斯坦石油公司高管：目標9個月內終止向其他煉油商採購燃料用於本土銷售。
+
+---
+
+### 2026-07-23 12:47:26  #其他
+
+【十四五期間廣州保交樓保交房專案已全部完成交付】廣州加快建立多主體供給、多渠道保障、租購併舉的住房制度，不斷完善住房市場體系和保障體系，房地產市場風險化解成效顯著，推動居民居住水平從“住有所居”向“住有宜居”邁進。（羊城晚報）
+
+---
+
+### 2026-07-23 12:46:00  #央行 #國際
+
+【調查：半數經濟學家估日本央行12月才升息 受高市政府掣肘】在接受彭博調查的經濟學家中，半數預計日本央行將等到12月才會上調基準利率，首相高市早苗的政府是阻礙央行進一步採取行動的主要因素。根據這項調查，在52位受訪的經濟學家中，約50%認為，日本央行上月升息後，下一次行動最可能落在12月；另有40%認為升息將在10月。59%的受訪者稱，高市向來支援寬鬆貨幣政策，她領導的政府對央行推進利率政策正常化上形成掣肘。高達82%的受訪者預估，升息步調將大致維持每六個月一次，高於6月調查時的71%。該調查顯示，經濟學家對日本央行升息能力的信心仍低於市場參與者；截至週四上午，市場參與者認定在10月前採取行動的機率為83%。在該項調查結束後釋出的報道中，知情人士透露，由於日元持續疲軟加劇了通脹上行風險，日本央行官員對選擇比經濟學家的共識更快的加息節奏持開放態度。
+
+---
+
+### 2026-07-23 12:45:43  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iran's Islamic Revolutionary Guard Corps said it struck U.S. military positions at Camp Arifjan and Camp Doha in Kuwait.
+
+---
+
+### 2026-07-23 12:45:35  #國際
+
+【伊朗稱打擊科威特境內美軍目標 】伊朗革命衛隊今天（7月23日）稱打擊了美軍位於科威特的阿達伊裡營地和阿里·薩利姆空軍基地。伊朗軍隊也表示，打擊了美軍位於科威特的阿里夫堅軍營和多哈營地。（ CCTV國際時訊  ）
+
+---
+
+### 2026-07-23 12:45:13  #公司 #國際
+
+訊息人士稱，印度阿達尼集團正考慮創辦自有航空公司。
+
+---
+
+### 2026-07-23 12:44:16  #其他
+
+【Seed STEM科學家計劃啟動】7月23日，Seed Edge團隊正式釋出Seed STEM 科學家計劃。該計劃擬邀請100位前沿科學領域學者，與Seed 團隊一起，圍繞真實科研問題展開合作。該計劃希望學者在STEM相關學科領域已獲得或正在攻讀博士學位。首期STEM科學家計劃約持續6個月，在此期間，參與學者需來到Seed辦公區，與團隊一起開展工作。該計劃將為參與學者提供充足的算力資源、先進的模型體驗和專業的AI研究團隊支援。為充分認可參與學者的科研價值和貢獻，Seed團隊將為其提供業界具有競爭力的薪酬回報。
+
+---
+
+### 2026-07-23 12:43:54  #國際
+
+【俄羅斯外長拉夫羅夫和美國國務卿魯比奧的會談結束】據塔斯社報道，俄羅斯外交部長謝爾蓋·拉夫羅夫和美國國務卿馬可·魯比奧在馬尼拉舉行了會談，會談持續了30多分鐘。報道稱，會議於當地時間上午11點54分開始，下午12點31分結束。報道還表示，會談按計劃進行。拉夫羅夫和魯比奧分別率領各自的代表團出席了會議。
+
+---
+
+### 2026-07-23 12:42:18  #國際
+
+俄羅斯外長拉夫羅夫和美國國務卿魯比奧的會談持續了30多分鐘。
+
+---
+
+### 2026-07-23 12:41:31  #國際
+
+塔斯社稱，俄羅斯外長拉夫羅夫和美國國務卿魯比奧在馬尼拉的會談結束。
+
+---
+
+### 2026-07-23 12:40:44  #公司 #國際
+
+印度石油公司（HPCL）董事長：拉賈斯坦邦煉油廠第三季度將滿負荷運轉。
+
+---
+
+### 2026-07-23 12:40:07  #MKT News
+
+Vietnam National Oil and Gas Group said Yishan refinery has secured crude supply and can maintain operations through end-September.
+
+---
+
+### 2026-07-23 12:39:56  #公司 #國際
+
+【韓國GS採購8月船期美國原油 較迪拜原油升水約18美元/桶】多位知情交易員透露，韓國煉油企業GS加德士（GS Caltex）購入200萬桶美國原油，提貨裝船時間為8月下旬，成交價格較10月迪拜原油基準價升水約18美元每桶。交易員表示，這批原油貨輪預計10月上旬抵達目的地。本次原油賣方為托克集團（Trafigura）。GS加德士此前也曾採購過8月船期的美國原油，當時較迪拜原油基準價升水約14美元/桶。
+
+---
+
+### 2026-07-23 12:39:01  #公司 #國際
+
+印度石油公司（HPCL）高管：拉賈斯坦煉廠900萬噸/年原油裝置目前開工率為60%。
+
+---
+
+### 2026-07-23 12:34:49  #MKT News
+
+【HKEX adds Bursa Malaysia as recognized stock exchange】The Stock Exchange of Hong Kong Ltd, a wholly owned subsidiary of Hong Kong Exchanges and Clearing, has added Bursa Malaysia as a recognized stock exchange. Companies primarily listed on Bursa Malaysia’s Main Market may now apply for secondary listings in Hong Kong. The count of Southeast Asian recognized exchanges rises to four, joining the Indonesia Stock Exchange, Singapore Exchange and the Stock Exchange of Thailand.
+
+---
+
+### 2026-07-23 12:33:44  #Trading Economics #Economy #Netherlands #Consumer Confidence #Importance 1
+
+Dutch Consumer Confidence Less Negative in July — Consumer confidence in the Netherlands improved to -35 in July 2026 from -39 in June, marking a further recovery but remaining well below its long-term average of -11 over the past 20 years. The improvement was mainly driven by a less negative assessment of the economic climate, which rose to -59 from -64, as consumers became more optimistic about both the economic situation over the past 12 months and expectations for the year ahead. Willingness to buy also strengthened to -19 from -22, supported by improved views of household finances and a more favorable assessment of major purchases. The assessment of the financial situation over the past year improved to -15 from -16, while expectations for the next 12 months rose to -2 from -6. The view on the timing for major purchases increased to -40 from -44. Despite the improvement, confidence remained below its long-term average and far below the record high of +36 reached in January 2000.
 
 ---
 
@@ -20408,89 +20594,5 @@ VINFAST：有望在2027年實現越南業務的盈虧平衡。
 ### 2026-07-22 10:50:43  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index
 
 【Guangzhou plans property relief and developer transformation】Guangzhou plans to prioritize property-sector relief and development during the 15th Five-Year Plan period, applying problem‑oriented, classified measures to prevent and resolve developer debt risks. The city will continue rescuing troubled projects, using a mix of tools to advance construction and delivery, and its real‑estate financing coordination mechanism will support reasonable project financing needs while guiding developers toward moderate leverage, reasonable debt levels and normal cash‑turnover speeds. Policymakers will also steer developers from pure property development to integrated development, operation and service models, promoting participation in urban renewal and stock‑asset revitalization and expansion into rental housing, property management, asset operation and life‑service businesses.
-
----
-
-### 2026-07-22 10:50:17  #宏觀
-
-【海關備案的智慧財產權權利人近6萬家】國務院新聞辦舉行“開局起步‘十五五’”系列主題新聞釋出會，海關總署相關負責人介紹加快推進海關現代化、服務貿易強國建設等相關情況，並回答記者提問。會上介紹，中國海關按照我國入世承諾，履行《與貿易有關的智慧財產權協定》，在進出口環節保護智慧財產權，防止侵權假冒商品進出國門、進入市場，讓創新者獲得利益回報，維護中外企業、中外消費者的合法權益。目前，海關備案的智慧財產權權利人近6萬家，涉及各類智慧財產權13.4萬項，智慧財產權邊境保護效能日益彰顯。
-
----
-
-### 2026-07-22 10:49:46  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component
-
-A-share liquor stocks opened lower, then rallied; Shede Spirits climbed more than 6%, while Golden Seed, Yingjia Distillery, Jinhui Liquor, Huangtai Distillery, Shanxi Fenjiu and Jiugui Liquor also advanced.
-
----
-
-### 2026-07-22 10:49:28  #Trading Economics #Markets #New Zealand #Currency #Importance 1
-
-New Zealand Dollar Holds Near 6-Week High — The New Zealand dollar steadied at 0.582, remaining near a six-week high, supported by growing expectations of further interest rate increases following a hot inflation reading. New Zealand’s annual inflation accelerated to 4.1% in Q2 from 3.1% in Q1, exceeding both market forecasts of 4% and the RBNZ's projection of 3.9%. It marked the highest level since Q4 2023 and pushed inflation further above the central bank’s 1–3% target range. The hot print solidified wagers that the central bank will deliver another 25-basis-point rate hike in September, with swaps also implying additional increases in either October or December, followed by another move in February next year. Last week, RBNZ Chief Economist Paul Conway said that Middle East-driven inflation risks to the third quarter outlook have increased, and that some further reduction in monetary stimulus is likely to be needed.
-
----
-
-### 2026-07-22 10:48:48  #公司
-
-【廣州：擬切實推動房地產紓困和發展 引導房地產市場企業轉型升級】記者獲悉，“十五五”時期，廣州擬切實推動房地產紓困和發展。堅持問題導向、分類處置，防範化解房企債務風險。繼續做好睏難房地產專案紓困工作，綜合運用各類舉措，推動專案建設交付。發揮房地產融資協調機制作用，支援專案合理融資需求，引導房地產開發企業逐步形成適度槓桿比例、合理負債水平和正常週轉速度的發展機制；引導房地產市場企業轉型升級。引導房地產開發企業由傳統開發向開發、運營、服務一體化轉型，深度參與城市更新、存量資產盤活等城市運營業務，拓展房屋租賃、物業服務、資產運營、生活服務等非開發類業務。房地產企業應加強戰略謀劃，健全公司治理體系，規範運營管理，加強風險控制，推動行業平穩有序發展。（證券時報）
-
----
-
-### 2026-07-22 10:48:44  #MKT News #Important #CSI300
-
-【Guangzhou to broaden "housing coupon" resettlement policy】Guangzhou plans to optimize its "housing coupon" resettlement policy and broaden its scope during the 15th Five-Year Plan period to reduce stock of commodity housing. The city will establish an all‑caliber inventory database to dynamically monitor unsold supply across categories — supplied but not started, started but not sold, under-construction unsold, and completed unsold. Policy measures include supporting acquisition of existing commodity housing as resettlement units in urban-village redevelopment, encouraging purchase of stock commercial and office properties for operational resettlement use, and stepping up destocking of commercial-office assets with targeted conversions to medical, education, elderly-care, hotel, wellness and affordable housing where appropriate. Guangzhou will also steadily advance purchases of stock commodity housing for affordable housing.
-
----
-
-### 2026-07-22 10:48:32  #MKT News #Market Regions #Europe & UK #AIR.PA #Impact bullish
-
-JP Morgan raises Airbus PT to €245 from €240.
-
----
-
-### 2026-07-22 10:47:49  #其他
-
-【廣州：擬最佳化“房票”安置政策，拓寬“房票”適用範圍】記者獲悉，“十五五”時期，廣州擬綜合施策消化存量商品房庫存。建立全口徑庫存資料庫，動態監測已供應未開工、已開工未批售、在建未售、竣工未售等各類商品住宅規模。最佳化“房票”安置政策，拓寬“房票”適用範圍，提升“房票”使用效能。支援在城中村改造過程中收購存量商品住宅用作安置房，鼓勵收購存量商辦用房用於經營性物業的安置。加大商辦物業去庫存力度，因地制宜推動存量商辦物業合規轉為醫療、教育、養老、酒店、康養、保障性住房等用途。穩步推進收購存量商品房用作保障性住房。（證券時報）
-
----
-
-### 2026-07-22 10:47:43  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
-
-Japan 10-Year Yield Edges Higher — Japan’s 10-year government bond yield climbed to around 2.74% on Wednesday, reaching a one-week high as it tracked the rise in US Treasury yields amid ongoing hostilities in the Middle East that drove oil prices higher. The increase in energy prices could accelerate inflation in Japan and reinforce expectations for a faster pace of Bank of Japan interest rate hikes. Meanwhile, the yen’s slide to a fresh 40-year low also strengthened the case for quicker BOJ policy normalization. Investors are also watching the Finance Ministry’s auction of about JPY 300 billion in 40-year government bonds later in the day for clues on demand at current yield levels. On the economic front, Japan’s trade balance returned to a deficit in June as import growth outpaced exports.
-
----
-
-### 2026-07-22 10:47:34  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時縮量41億元。
-
----
-
-### 2026-07-22 10:47:12  #公司 #焦點
-
-【廣州：擬穩步有序推進現房銷售制，推進房地產開發融資方式改革】廣州市力爭構建高品質供給、高效率保障、高水平執行的房地產發展新模式。記者獲悉，“十五五”時期，廣州擬積極穩妥謀劃現售制試點專案，適時選取合適地塊開展試點。強化金融服務支援，鼓勵商業銀行提高現房銷售專案開發貸款額度，給予利率優惠。對現房銷售地塊給予分期繳納地價和公共資源配套支援等。繼續實行預售的，規範商品房預售資金監管，規範資金使用。同時，加大金融協調聯動，推進房地產開發融資方式改革，推動實現房地產開發企業融資從依賴主體信用向滿足房地產專案合理融資需求轉變。一個專案確定一家銀行或銀團為主辦銀行，專案開發、建設、銷售等資金存入主辦銀行，主辦銀行保證專案公司合理融資需求，形成主辦銀行與專案公司利益共享、風險共擔的良性迴圈機制。落實房地產專案資金封閉管理要求，專案交付前，嚴禁投資人違規抽挪專案公司銷售、融資等資金，嚴禁抽逃出資或提前分紅。（證券時報）
-
----
-
-### 2026-07-22 10:46:52  #市場 #焦點
-
-現貨黃金突破4130美元/盎司，日內漲1.29%。
-
----
-
-### 2026-07-22 10:46:20  #MKT News
-
-【ThunderSoft: AquaClaw commercialization accelerates after selection by leading domestic JV automaker】ThunderSoft said its in-vehicle multi-agent product AquaClaw has been selected for a real-vehicle project by a leading domestic joint-venture automaker; customer name and commercial terms are undisclosed under confidentiality. The company said the win marks important progress in AquaClaw’s commercial rollout.
-
----
-
-### 2026-07-22 10:46:06  #其他
-
-【海關總署：跨境電商等新業態新模式已成為外貿高質量發展有力支撐】7月22日，海關總署副署長王軍在國新辦新聞釋出會上表示，跨境電商、海外倉、市場採購為代表的新業態新模式，已成為我國外貿高質量發展的有力支撐。“十五五”時期，將繼續推動通關提速、暢通物流、規範管理。其中，在暢通物流方面，將支援跨境運輸、跨境公路運輸、電商出口一次申報、一站到底、一車直達，將多式聯運一單制通關改革擴大到市場採購模式，打造適配小商品特點的跨境物流網路，實現一張物流單據走全城，運費更低、速度更快。
-
----
-
-### 2026-07-22 10:45:55  #其他
-
-【受大風天氣影響，新疆部分旅客列車將停運】記者從新疆鐵路部門瞭解到，受大風天氣影響，新疆鐵路部門調整7月22日、23日列車執行方案，部分列車停運。7月22日停運車次：烏魯木齊至庫爾勒C802次、C806次、C810次、C814次、C818次，烏魯木齊南至庫爾勒C872次，烏魯木齊至和田T9526次，烏魯木齊南至喀什K6736次，哈密至庫爾勒C995次，庫爾勒至烏魯木齊C804次、C808次、C812次、C816次、C820次，庫爾勒至烏魯木齊南C874次，庫爾勒至哈密C996次，喀什至成都西T62次、喀什至西安T270次旅客列車停運；7月23日停運車次：和田至烏魯木齊T9528次。鐵路部門將密切關注天氣變化情況，動態調整列車開行方案，一旦天氣好轉，將及時恢復列車開行。已購買停運列車車票的旅客，可透過12306網站、12306App、自助售取票機、車站視窗辦理退票、改簽業務，均不收取手續費。（央視新聞）
 
 ---
