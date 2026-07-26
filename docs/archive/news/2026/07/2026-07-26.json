@@ -1,7 +1,67 @@
 {
   "date": "2026-07-26",
-  "count": 648,
+  "count": 654,
   "items": [
+    {
+      "id": "mkt:019f9ecf-eb49-7aab-8e9a-a02f372e46ac",
+      "time": "2026-07-26 22:24:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said the Iran issue depends on President Trump's decision."
+    },
+    {
+      "id": "mkt:019f9ece-f225-7aab-8e9a-98b2cfb8e6dd",
+      "time": "2026-07-26 22:23:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said any attack by Iran, in any form, would be met with a forceful response."
+    },
+    {
+      "id": "mkt:019f9ece-d968-7aab-8e9a-918622fbc8e6",
+      "time": "2026-07-26 22:23:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Israel's Prime Minister Netanyahu said the war will end only when the Iranian regime collapses or is weakened to the point that it must abandon its nuclear program."
+    },
+    {
+      "id": "mkt:019f9ece-2b9a-7aab-8e9a-8af0225662a4",
+      "time": "2026-07-26 22:22:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Iran's nuclear programme must be ended, either through an agreement or by other means."
+    },
+    {
+      "id": "5008618",
+      "time": "2026-07-26 22:22:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡：若成功連任，我計劃組建廣泛聯合國民政府。"
+    },
+    {
+      "id": "5008617",
+      "time": "2026-07-26 22:21:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡談及伊朗問題：在諸多層面，此事取決於特朗普的決定。"
+    },
     {
       "id": "5008616",
       "time": "2026-07-26 22:20:02",
