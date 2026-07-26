@@ -1,7 +1,24 @@
 {
   "date": "2026-07-26",
-  "count": 347,
+  "count": 349,
   "items": [
+    {
+      "id": "mkt:019f9caa-7fd2-7aab-8e98-adec7af3d55d",
+      "time": "2026-07-26 12:24:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China records first full-passage, three-dimensional typhoon observations using swarm drones】The China Meteorological Administration said researchers deployed a swarm of drones to perform high-frequency, multidimensional observations of Typhoon Hongxia throughout its landfall — the first time China has applied swarm-drone technology to full-process typhoon observation."
+    },
+    {
+      "id": "5008339",
+      "time": "2026-07-26 12:23:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國蜂群無人機首次實現颱風過境全程立體觀測】記者從中國氣象局獲悉，颱風“紅霞”影響我國期間，氣象科研人員首次採用蜂群無人機觀測方式，針對颱風登陸全過程開展高頻率、多維度觀測試驗。這也是我國首次將蜂群無人機技術應用於颱風過境全過程觀測。（央視新聞）"
+    },
     {
       "id": "5008337",
       "time": "2026-07-26 12:21:09",
