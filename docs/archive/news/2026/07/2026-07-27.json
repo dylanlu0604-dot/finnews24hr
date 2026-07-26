@@ -1,7 +1,23 @@
 {
   "date": "2026-07-27",
-  "count": 103,
+  "count": 105,
   "items": [
+    {
+      "id": "mkt:019fa067-d9dd-7aab-8e9c-962267060753",
+      "time": "2026-07-27 05:49:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DOE instructed grid operator Southwest Power Pool to dispatch generators as needed to maintain grid reliability."
+    },
+    {
+      "id": "mkt:019fa067-8bb3-7aab-8e9c-89898d6d3fec",
+      "time": "2026-07-27 05:49:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. DOE issued electrical grid emergency declarations for 17 states due to extreme heat."
+    },
     {
       "id": "5008717",
       "time": "2026-07-27 05:47:38",

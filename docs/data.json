@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-27 05:48:58",
-  "count": 17995,
+  "updated": "2026-07-27 05:52:52",
+  "count": 17996,
   "items": [
+    {
+      "id": "mkt:019fa067-d9dd-7aab-8e9c-962267060753",
+      "time": "2026-07-27 05:49:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DOE instructed grid operator Southwest Power Pool to dispatch generators as needed to maintain grid reliability."
+    },
+    {
+      "id": "mkt:019fa067-8bb3-7aab-8e9c-89898d6d3fec",
+      "time": "2026-07-27 05:49:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. DOE issued electrical grid emergency declarations for 17 states due to extreme heat."
+    },
     {
       "id": "5008717",
       "time": "2026-07-27 05:47:38",
@@ -164858,15 +164874,6 @@
         "市場"
       ],
       "text": "布倫特原油日內漲1%，現報89.50美元/桶。"
-    },
-    {
-      "id": "4996309",
-      "time": "2026-07-20 05:52:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲7月維持利率不變的機率85.6%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為85.6%，累計加息25個基點的機率為14.4%。 美聯儲到9月維持利率不變的機率為38.5%，累計加息25個基點的機率為53.5%，累計加息50個基點的機率為7.9%。"
     }
   ]
 }
