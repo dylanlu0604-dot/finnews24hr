@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-27 02:50:20",
-  "count": 18015,
+  "updated": "2026-07-27 02:54:15",
+  "count": 18016,
   "items": [
+    {
+      "id": "5008691",
+      "time": "2026-07-27 02:53:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱超288個美軍在中東基地目標於近期衝突中遭打擊】伊朗胡齊斯坦省革命衛隊司令表示，在近期伊朗與美國衝突期間，美軍在中東地區基地共有超過288個目標遭到打擊。該官員還稱，在近期一次行動中，約旦境內一處美軍基地有超過11架飛機被摧毀，此外還有大量設施和無人機遭到破壞。"
+    },
+    {
+      "id": "5008690",
+      "time": "2026-07-27 02:52:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國柏林車輛衝撞人群事件嫌疑人被警方擊斃】當地時間7月26日晚，德國柏林警方確認，柏林蒂爾加滕公園附近車輛衝撞人群事件嫌疑人在警方行動中被擊斃。（央視新聞）"
+    },
+    {
+      "id": "5008689",
+      "time": "2026-07-27 02:50:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮公佈將於7月28日前往秘魯的美方代表團完整名單。"
+    },
     {
       "id": "5008688",
       "time": "2026-07-27 02:48:36",
@@ -165033,27 +165057,6 @@
         "MKT News"
       ],
       "text": "【Israeli PM office criticizes NYC mayor for studying Netanyahu arrest】Israel's prime minister's office criticized New York City's mayor after the mayor said he was studying how to arrest Prime Minister Benjamin Netanyahu should he travel to New York. The PMO called the International Criminal Court a \"kangaroo court\", said it lacks jurisdiction over Americans and Israelis, and said the warrant was issued by \"disgraced former ICC chief prosecutor Karim Khan\", adding that sexual-misconduct allegations against Khan surfaced days later and alleging the move was intended to distract public attention."
-    },
-    {
-      "id": "mkt:019f7bba-765a-7aab-8dfa-73b872a82723",
-      "time": "2026-07-20 02:54:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's foreign ministry said Qatari PM spoke with Jordan's deputy prime minister and condemned Iran's attack on Jordan."
-    },
-    {
-      "id": "mkt:019f7bb7-9a81-7aab-8dfa-6f6e45013227",
-      "time": "2026-07-20 02:50:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Syria has emerged as a regional hub for Iraqi fuel oil exports, with more than a quarter of Middle East fuel oil shipments transiting Syrian Mediterranean ports, Syrian state news agency reports. The US is supporting efforts to open alternative transport routes to bypass the Strait of Hormuz."
     }
   ]
 }
