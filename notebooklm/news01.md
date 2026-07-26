@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-27 02:38:35_
-_本檔包含 3536 則快訊，約 685880 字_
+_更新時間：2026-07-27 03:48:28_
+_本檔包含 3541 則快訊，約 684803 字_
+
+---
+
+### 2026-07-27 03:46:07  #國際
+
+特朗普：要讓敵人夜夜難安、心生恐懼。
+
+---
+
+### 2026-07-27 03:45:55  #MKT News
+
+Wall Street Journal: Trump denied the U.S. faces an ammunition shortage, saying U.S. stockpiles exceed those of any other country and surpass actual operational demand.
+
+---
+
+### 2026-07-27 03:42:46  #國際
+
+特朗普在社交媒體釋出了戰機空襲哈爾克島的AI圖片。
+
+---
+
+### 2026-07-27 03:40:22  #國際
+
+敘利亞領導人：我方已採取防範措施，應對與伊拉克接壤邊境地區武裝派系可能構成的任何威脅。
+
+---
+
+### 2026-07-27 03:40:10  #MKT News
+
+Syria's president says the government has taken precautionary measures to counter any potential threats from armed groups in areas bordering Iraq.
+
+---
+
+### 2026-07-27 03:37:50  #國際
+
+特朗普稱美國彈藥儲備遠超實際所需。
+
+---
+
+### 2026-07-27 03:31:49  #MKT News
+
+Syrian president said a successful security agreement with Israel could pave the way for comprehensive peace, but would not be achieved at the expense of Syria’s sovereignty over the Golan Heights.
+
+---
+
+### 2026-07-27 03:31:09  #MKT News
+
+Al Jazeera reports Syria's president said Syria is seeking a security agreement with Israel and seeks multilateral participation.
+
+---
+
+### 2026-07-27 03:31:03  #國際
+
+敘利亞領導人：與以色列達成的安全協議若能取得成功，將可為達成全面和平鋪平道路，同時不會損害敘利亞對戈蘭高地的主權權利。
+
+---
+
+### 2026-07-27 03:28:43  #國際
+
+敘利亞領導人：敘利亞正尋求在多國參與下同以色列達成安全協議。
+
+---
+
+### 2026-07-27 03:27:49  #其他
+
+英國首相伯納姆正考慮推行選舉改革，強制投票制度已納入討論議程。
+
+---
+
+### 2026-07-27 03:18:53  #國際
+
+【美國中央司令部司令建議暫停打擊伊朗】美國中央司令部司令布拉德・庫珀建議美方暫停在霍爾木茲海峽周邊針對伊朗的打擊行動，除非華盛頓方面做好進一步升級衝突的準備。他表示，這一輪打擊行動的效果基本已觸達上限。庫珀向美國官員透露，此次軍事行動已大幅削弱伊朗襲擊過往船隻的能力，且美方原定計劃內的絕大多數打擊目標均已完成打擊。
+
+---
+
+### 2026-07-27 03:18:18  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's foreign ministry said it will never allow the United States to pursue hegemony in the waters of the Arabian Gulf and the Strait of Hormuz.
+
+---
+
+### 2026-07-27 03:15:45  #國際
+
+市場資訊：美國副總統萬斯與參謀長聯席會議主席丹·凱恩上將向特朗普總統表達了對美伊衝突持續升級的擔憂，凱恩還警示美軍彈藥儲備已出現短缺。
+
+---
+
+### 2026-07-27 03:13:04  #焦點 #國際
+
+【伊朗外交部：伊美間資訊交流及斡旋方活動仍在進行】當地時間7月26日，伊朗外交部發言人巴加埃表示，伊朗與美國之間的資訊交流仍在持續，斡旋方也正繼續開展相關工作。他同時表示，伊美諒解備忘錄並不是一份篇幅冗長、內容複雜的檔案，而是一份僅包含14項條款的簡短諒解備忘錄。國際社會原本期待美國“至少這一次”能夠履行自身承諾，但美國的所作所為公然嚴重違反了該諒解備忘錄的多項內容，使外交努力“第三次遭到背棄”。
+
+---
+
+### 2026-07-27 03:09:51  #國際
+
+市場資訊：美國副總統萬斯週五就戰事升級問題向特朗普表達了擔憂。
+
+---
+
+### 2026-07-27 03:04:53  #MKT News #Important
+
+Iran Foreign Ministry spokesperson BAGHAEI said information exchanges between Iran and the United States and mediators' activities are continuing.
+
+---
+
+### 2026-07-27 03:03:10  #焦點 #國際
+
+伊朗外交部發言人：伊朗與美國之間仍在交換訊息，調解方也在持續開展斡旋工作。
+
+---
+
+### 2026-07-27 02:59:55  #國際
+
+【以總理稱伊朗政權倒臺戰爭才會結束】7月26日，以色列總理內塔尼亞胡在接受美國福克斯新聞臺採訪時表示，“戰爭只有在伊朗現政權倒臺或被徹底削弱到被迫放棄其核計劃時才會結束。”內塔尼亞胡還發出警告稱，如果伊朗或其支援的武裝組織襲擊以色列，以色列將做出“非常非常強硬”的回應。 內塔尼亞胡即將再次訪美。在談及計劃與美國總統特朗普舉行的會晤時，內塔尼亞胡稱，會晤重點並非如美媒此前所報道的“遞交有關伊朗核計劃的新情報”，因為美以兩國的軍事和情報部門一直在密切合作。內塔尼亞胡稱此行的目的是同特朗普商討並瞭解其想法，並稱在很大程度上局勢的發展“取決於特朗普的最終決定”。（CCTV國際時訊）
+
+---
+
+### 2026-07-27 02:58:46  #國際
+
+【普京：俄海軍發展計劃將切實得到落實】當地時間26日，俄羅斯總統普京在聖彼得堡出席海軍節相關活動時表示，海軍艦隊是保障國家安全的重要因素，在三位一體的核力量中具有重大意義。海軍發展計劃將切實得到落實。（央視新聞）
+
+---
+
+### 2026-07-27 02:56:46  #國際
+
+伊朗總統：伊朗所有重大事務的相關舉措，均需經過最高領袖穆傑塔巴的協調與許可才會落地。
+
+---
+
+### 2026-07-27 02:53:38  #國際
+
+【伊朗稱超288個美軍在中東基地目標於近期衝突中遭打擊】伊朗胡齊斯坦省革命衛隊司令表示，在近期伊朗與美國衝突期間，美軍在中東地區基地共有超過288個目標遭到打擊。該官員還稱，在近期一次行動中，約旦境內一處美軍基地有超過11架飛機被摧毀，此外還有大量設施和無人機遭到破壞。
+
+---
+
+### 2026-07-27 02:52:17  #其他
+
+【德國柏林車輛衝撞人群事件嫌疑人被警方擊斃】當地時間7月26日晚，德國柏林警方確認，柏林蒂爾加滕公園附近車輛衝撞人群事件嫌疑人在警方行動中被擊斃。（央視新聞）
+
+---
+
+### 2026-07-27 02:50:03  #其他
+
+白宮公佈將於7月28日前往秘魯的美方代表團完整名單。
+
+---
+
+### 2026-07-27 02:48:36  #公司 #國際
+
+歐洲太空公司The Exploration Company Gmbh正洽談籌資至少3億美元，估值20億美元。
+
+---
+
+### 2026-07-27 02:47:00  #MKT News #Market Regions #Europe & UK
+
+【SpaceX European rival The Exploration Company in talks to raise $300m】The Exploration Company GmbH is negotiating to raise at least $300m, including part of the financing from the EU’s European Scale‑up Fund, in a deal that would value the company at over $2bn. The round is not finalised and is earmarked to support development of Europe’s first reusable space capsule to ferry cargo to the ISS and planned successor stations. The company previously raised about $160m in 2024 with French and German government‑backed support, funding development of its Nyx reusable capsule.
+
+---
+
+### 2026-07-27 02:43:56  #國際
+
+特朗普宣佈派遣代表團前往秘魯，出席藤森的就職典禮。
+
+---
+
+### 2026-07-27 02:39:38  #國際
+
+【黎軍稱以軍違反協議 阻礙黎軍“試點區域”部署】黎巴嫩政府軍26日發表宣告說，以色列持續違反現有協議安排，阻礙黎軍在黎南部地區部署，並延緩邊境村莊居民返鄉程序。 宣告說，以軍在多個地區持續實施破壞活動，包括拆毀民宅、破壞供水設施、焚燬數百年樹齡的橄欖樹等。此外，以軍還在泰卜尼特村和西扎烏塔爾等地向黎軍部署區域附近開火，干擾黎軍部署行動。 宣告說，儘管受到以軍干擾，黎軍仍將在西扎烏塔爾執行任務，協助當地居民返鄉並保障其安全，同時繼續在夫龍鎮和斯里法鎮推進部署行動。
 
 ---
 
@@ -21257,143 +21425,5 @@ European equities opened mixed on July 24 (Friday): Germany's DAX rose 79.88 pts
 ### 2026-07-24 15:01:13  #市場
 
 【ETF收評：科創半導體裝置ETF領漲3.63%，工業有色ETF領跌5.5%】ETF收盤漲跌不一，科創半導體裝置ETF（588710）領漲3.63%，科創半導體ETF（588170）漲3.37%，科創半導體裝置ETF（589020）漲3.36%，工業有色ETF（159032）領跌5.5%，黃金股ETF（517520）跌5.36%，黃金股ETF（159562）跌5.31%。
-
----
-
-### 2026-07-24 15:01:13  #MKT News #Important #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI #Impact bullish
-
-By midday close, China's main futures contracts were mixed: palladium fell nearly 6%, platinum dropped over 4%, Shanghai silver fell nearly 4%; Shanghai gold, polysilicon, live hogs and eggs were down more than 2%. SC crude rose over 4%, rapeseed meal gained nearly 4%, ethylene glycol (EG) climbed over 3% and rapeseed oil rose more than 2%.
-
----
-
-### 2026-07-24 15:01:02  #市場 #焦點
-
-A股收盤，上證指數跌1.61%，深證成指跌2.47%，創業板指跌2.65%。
-
----
-
-### 2026-07-24 15:00:51  #其他
-
-【自然資源部北海局原正局級幹部劉刻福接受審查調查】據中央紀委國家監委駐自然資源部紀檢監察組、吉林省紀委監委訊息：自然資源部北海局原正局級幹部劉刻福涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐自然資源部紀檢監察組紀律審查和吉林省監委監察調查。
-
----
-
-### 2026-07-24 15:00:49  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact mixed #SSE Composite
-
-China's Supreme People's Court and Supreme People's Procuratorate jointly amended judicial interpretations to step up enforcement and increase penalties for insider trading and unlawful disclosure of inside information.
-
----
-
-### 2026-07-24 15:00:28  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #XAUUSD #Impact bearish
-
-Spain June PPI YoY 7.0% (prior 10.5%).
-
----
-
-### 2026-07-24 15:00:25  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish #XAUUSD
-
-Spain June PPI MoM 0.0%; May 1.0%.
-
----
-
-### 2026-07-24 15:00:24  #其他
-
-【“兩高”修改司法解釋 加大力度懲治內幕交易、洩露內幕資訊犯罪】今天（24日），最高人民法院、最高人民檢察院聯合釋出《關於修改〈最高人民法院、最高人民檢察院關於辦理內幕交易、洩露內幕資訊刑事案件具體應用法律若干問題的解釋〉的決定》（法釋〔2026〕13號），自2026年7月27日起施行。（央視新聞）
-
----
-
-### 2026-07-24 15:00:23  #市場
-
-WTI原油日內跌2%，現報90.34美元/桶。
-
----
-
-### 2026-07-24 15:00:22  #MKT News #Economic Calendar #Important
-
-Spain | Producer Price Index (YoY) (Jun) | actual 7% | previous 10.50%
-
----
-
-### 2026-07-24 15:00:18  #MKT News #Economic Calendar #Important
-
-Spain | Producer Price Index (MoM) (Jun) | actual 0% | previous 1.00%
-
----
-
-### 2026-07-24 15:00:08  #其他
-
-哈薩克中央銀行將基準利率下調25個基點至16.75%，此前為17%。
-
----
-
-### 2026-07-24 15:00:03  #市場
-
-歐股開盤普跌，德國DAX指數跌1.56%，英國富時100指數跌0.73%，法國CAC40指數跌1.64%，歐洲斯托克50指數跌1.69%，義大利富時MIB指數跌2.8%。
-
----
-
-### 2026-07-24 15:00:02  #市場
-
-【商品期貨收盤】鈀連續跌5.46%，上海原油連續漲4.52%，鉑連續跌4.09%，白銀連續跌3.92%，菜粕連續漲3.79%，乙二醇連續漲3.55%。
-
----
-
-### 2026-07-24 15:00:02  #市場
-
-【股指期貨午盤收盤】 中證1000指數期貨連續跌2.67%， 滬深300指數期貨連續跌1.73%， 中證500指數期貨連續跌2.35%， 上證50指數期貨連續跌1.28%。
-
----
-
-### 2026-07-24 14:59:51  #公司 #市場
-
-【中國人壽回應減持兆易創新】中國人壽7月20日披露，該公司名下8個單一資管計劃於7月8日同日賣出兆易創新約110.97萬股，變現約6.82億元，賣出均價611.46——624.61元/股。該股票二季度末曾觸及846.66元/股高點，7月24日午間收盤價報447.00元/股，較高點回撥超四成。7月24日，中國人壽相關業務負責人回應記者稱，公司的股票管理人對二級市場個股增持或減持，屬於常態化投資行為，均基於投資配置需要。（上證報）
-
----
-
-### 2026-07-24 14:59:37  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-WTI crude dropped below $91/barrel, down 1.94% on the day; Brent slipped 1.6% to $93.41/barrel.
-
----
-
-### 2026-07-24 14:59:22  #國際
-
-新加坡貿工部：將繼續與美國貿易代表辦公室保持溝通。
-
----
-
-### 2026-07-24 14:59:11  #國際
-
-新加坡：藥品和晶片免徵12.5%的美國關稅。
-
----
-
-### 2026-07-24 14:59:04  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-ASX 200 Ends Week Lower as Tech, Gold Miners Slide — Australia's ASX 200 dropped 67 points, or 0.75%, to finish at 8,772 on Friday, reversing gains from the previous three sessions as weakness spread across tech, consumer durables, non-energy minerals, and healthcare. Sentiment soured after Wall Street’s sharp tech sell-off the night before. For the week, the index shed 0.3%, marking a third consecutive weekly decline, with strong June jobs data reinforcing expectations of further tightening by the Reserve Bank after three hikes this year. Inflation figures for June and Q2, due next week, remain in focus amid persistent price concerns. Tech leaders Xero (-4.5%), Wisetech Global (-4.6%), and Megaport (-3.3%) led losses, while gold miners Northern Star (-3.9%) and Evolution (-2.4%) also retreated. In contrast, the big four banks advanced between 1.0% and 1.5%. Energy stocks also firmed as oil surged past USD 100 following U.S. President Donald Trump’s warning of “major military punishment” against Iran after Houthi-linked tanker attacks.
-
----
-
-### 2026-07-24 14:58:48  #公司 #市場
-
-【優機股份尾盤下挫 跌超12%】優機股份今天尾盤下挫，截至發稿，跌幅超過12%。
-
----
-
-### 2026-07-24 14:58:16  #公司
-
-【國盛證券：維持華勤技術“買入”評級，超節點與交換機卡位優越】國盛證券研報指出，華勤技術超節點+交換機雙輪驅動資料中心高增長。伴隨行業競爭重心從單晶片效能轉向叢集系統綜合排程效率，AI正式邁入算力“系統時代”，疊加《超節點定義與實踐白皮書》於7月19日正式釋出、行業統一標準落地確立全新基建正規化，多重產業訊號共振預示超節點即將迎來放量元年。超節點對交換機效能提出代際躍升要求，埠速率正從100Gbps、200Gbps向400Gbps、800Gbps快速迭代，海內外廠商全面加碼高階智算交換機賽道，硬體規格全面迭代開啟高速交換機長期增量空間。公司覆蓋資料中心全棧解決方案，超節點與交換機卡位優越。考慮到公司上調資料中心整體收入指引，上修預期，維持“買入”評級。
-
----
-
-### 2026-07-24 14:57:39  #公司
-
-【理想汽車公佈網路侵權維權工作進展】7月24日，理想汽車法務部發文稱，針對近期多起涉及理想汽車的不實資訊傳播及惡意侵權行為，公司持續透過法律途徑維護合法權益，現將部分處理進展說明如下：
-
----
-
-### 2026-07-24 14:57:33  #Trading Economics #Markets #Commodity #Importance 1
-
-UK Natural Gas Hovers at 4-Month High — UK natural gas prices climbed back to above 150 pence per therm on Friday, hovering at a four-month high, amid concerns over Europe’s LNG supply security as US-Iran fighting intensifies. The US carried out its 13th consecutive night of strikes on Iran, with President Donald Trump warning Tehran and its Houthi allies in Yemen of “major military punishment” if the group launches further attacks on vessels in the Red Sea. UK gas prices have risen over 9% so far this week and surged more than 44% so far in July, as curtailed LNG flows from the Persian Gulf intensified competition with Asian buyers, while hot weather across Europe boosted electricity demand for cooling. These factors are making it more challenging for Europe to replenish its gas storage facilities ahead of winter. Equinor, Europe’s largest gas supplier, said the bloc is unlikely to reach its 80% storage target before the heating season, leaving the market more vulnerable to sharp price swings when colder weather arrives.
 
 ---

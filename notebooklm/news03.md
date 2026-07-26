@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-27 02:38:35_
-_本檔包含 3377 則快訊，約 684305 字_
+_更新時間：2026-07-27 03:48:28_
+_本檔包含 3380 則快訊，約 684361 字_
+
+---
+
+### 2026-07-23 12:33:17  #國際
+
+【中東地區緊張局勢升溫，多國發生戰事，中國駐沙特大使館釋出安全提醒】近日，中東地區緊張局勢升溫，多國發生戰事。據沙特官方訊息，在過去24小時內，東部達曼地區釋出安全警報，有沙特運營的船隻在紅海航行時遭襲。局勢有進一步惡化的可能。中國駐沙特大使館提醒在沙中資機構和中國公民密切關注形勢發展，切實加強安全防範。減少不必要外出，保持冷靜。在接到當地安全警報時及時避險，不要拍攝軍事行動，不傳播未經證實的訊息。有乘飛機或輪船出行計劃的旅客請注意航班變化，與有關航司保持密切聯絡。
+
+---
+
+### 2026-07-23 12:33:04  #其他
+
+【位元組跳動Seed STEM科學家計劃啟動】7月23日，位元組跳動Seed Edge團隊正式釋出Seed STEM 科學家計劃。該計劃擬邀請100位前沿科學領域學者，與Seed 團隊一起，圍繞真實科研問題展開合作，識別和突破研究級問題，共同探索 AI 加速科學發現的可能性。相關領域學者可根據自身情況，選擇以科學家顧問或博士實習生的身份加入專案組。據悉，首期STEM科學家計劃約持續6個月，在此期間，參與學者需來到Seed辦公區，與團隊一起開展工作。
+
+---
+
+### 2026-07-23 12:32:53  #MKT News
+
+Iran's Islamic Revolutionary Guard Corps said it attacked US forces at Kuwait's Al-Adili camp and the Ali Al-Salem airbase.
+
+---
+
+### 2026-07-23 12:32:35  #國際
+
+伊朗伊斯蘭革命衛隊稱，其對美軍位於科威特的阿迪裡營地以及阿里薩勒姆空軍基地發動了襲擊。
+
+---
+
+### 2026-07-23 12:32:19  #宏觀 #公司 #國際
+
+【香港交易所新增馬來西亞交易所為認可證券交易所 在馬來西亞交易所主市場主要上市的公司可以在香港申請第二上市】香港交易及結算所有限公司（香港交易所）的全資附屬公司香港聯合交易所有限公司（聯交所）今天（星期四）宣佈，已新增馬來西亞交易所為認可證券交易所。日後，在馬來西亞交易所主市場主要上市的公司可以在香港申請第二上市。東南亞地區的認可證券交易所數目將增至四家，其餘三家分別為印尼證券交易所、新加坡交易所及泰國證券交易所。
+
+---
+
+### 2026-07-23 12:31:45  #公司 #國際
+
+【歐洲6月新車銷量同比增13%，比亞迪等中國車企市場份額提升】7月23日，歐洲汽車製造商協會（ACEA）資料顯示，歐盟、歐洲自由貿易聯盟（EFTA）及英國6月新車銷量同比增長13%，達到141萬輛。從市場份額看，大眾集團6月以24.6%的份額繼續位居歐洲市場第一，Stellantis和雷諾集團分別以13.6%和10.5%的份額位列第二、第三。寶馬集團、豐田、梅賽德斯-賓士等主要車企份額保持穩定。特斯拉6月在歐洲的市場份額由去年同期的2.8%升至3.7%。中國車企在歐洲市場份額持續擴大。其中，比亞迪6月銷量同比增長逾140%，市場份額升至2.7%；奇瑞汽車銷量同比增長約266%，市場份額由去年同期約0.7%升至2.3%；吉利汽車（含極氪等品牌）銷量同比增長約18%，市場份額升至3.5%。
+
+---
+
+### 2026-07-23 12:31:25  #國際
+
+香港交易所：港交所將馬來西亞交易所納入認可證券交易所名單。
+
+---
+
+### 2026-07-23 12:30:41  #國際
+
+馬來西亞證券監管機構表示，該諒解備忘錄還旨在加強受監管基金在互認與跨境上市方面的合作。
+
+---
+
+### 2026-07-23 12:30:33  #國際
+
+馬來西亞證券監管機構表示，已與香港證監會簽署諒解備忘錄，以推動兩地簡化雙重主要上市框架。
+
+---
+
+### 2026-07-23 12:28:57  #公司
+
+【濰宿高鐵全線唯一不平衡轉體梁成功完成轉體施工】記者23日從中鐵十四局集團有限公司瞭解到，濰宿高鐵臨沂祊河特大橋跨兗石鐵路轉體梁順利完成轉體施工，實現精準對接就位。這一轉體梁是全線唯一一座不平衡轉體梁，轉體完成後成功打通全線關鍵架樑通道，為後續無砟軌道鋪設、全線貫通施工奠定堅實基礎。濰坊至宿遷高鐵是京滬高鐵輔助通道的重要組成部分，建成後將進一步完善山東、江蘇北部區域路網布局，極大便利沂蒙山、蘇北革命老區人民群眾出行，對助力區域經濟社會高質量發展具有重要意義。（新華社）
+
+---
+
+### 2026-07-23 12:27:52  #公司
+
+康諾亞-B(02162)釋出公告，公司的重點研發產品CM512(TSLP/IL-13雙抗)已被國家藥品監督管理局藥品審評中心納入突破性治療品種名單，用於治療慢性鼻竇炎伴鼻息肉(CRSwNP)。
+
+---
+
+### 2026-07-23 12:27:16  #MKT News #Market Themes #China Tech Giants
+
+【AliExpress to lead Brand+ brands at IFA Berlin in September】Alibaba-owned cross-border e-commerce platform AliExpress said on July 23 it will lead Brand+ brands to exhibit at IFA Berlin in September, joining Europe’s largest consumer electronics trade show. The lineup will focus on high-tech categories including robotics, 3D printing, AR glasses and smart mobility.
+
+---
+
+### 2026-07-23 12:26:19  #其他
+
+【明確多項任務！未來5年我國可再生能源這樣發展】國家發展改革委、國家能源局近日聯合印發《可再生能源發展“十五五”規劃》（以下簡稱《規劃》）。《規劃》從能源佈局、產業創新等方面明確多項任務，推動我國可再生能源擴規模、拓場景、提質量。《規劃》提出進一步最佳化“三北”風電光伏基地、海上風電、水風光一體化和分散式新能源佈局，“十五五”期間，“三北”風電光伏基地新增裝機3.7億千瓦以上，全國海上風電新增開工規模1億千瓦左右。推動可再生能源非電利用實現突破，積極發展綠色氫氨醇、風光供熱，推進生物質能多元高效利用，同時全面提升可再生能源消費水平。此外，《規劃》還提出要拓展可再生能源技術和產業優勢，強化技術創新攻關和產業鏈供應鏈建設，提升新能源電站市場化運營能力。在此基礎上要從法律法規、發展機制、市場機制、要素保障機制等方面，健全可再生能源高質量發展政策體系和長效機制。（央視）
+
+---
+
+### 2026-07-23 12:25:09  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Sensex Set for 4th Day of Losses — India’s BSE Sensex fell about 0.4% to 76,429 at the open on Thursday, extending losses to a fourth session as oil topped $95 a barrel after fresh US strikes on Iran and Houthi attacks on Red Sea oil tankers dented risk appetite and raised concerns over inflation and corporate earnings. Market participants are also tracking a busy earnings calendar. IndusInd Bank was in focus after reporting better-than-expected quarterly profit, while Dr. Reddy’s Laboratories came under pressure after issuing a supply warning and missing profit estimates. Hindustan Petroleum reported its first quarterly loss since 2022 as elevated crude prices squeezed refining margins. Investors are also awaiting earnings from Cipla, Infosys, and InterGlobe Aviation later in the day for further cues on corporate performance and market direction. IndusInd Bank (-5.6%), Adani Green (-4.6%), Data Patterns (-3.1%), Dr. Reddy’s Laboratories (-2.9%), and HFCL (-2.2%) posted declines.
 
 ---
 
@@ -20408,71 +20492,5 @@ Japan 10-Year Yield Edges Higher — Japan’s 10-year government bond yield cli
 ### 2026-07-22 10:45:55  #其他
 
 【受大風天氣影響，新疆部分旅客列車將停運】記者從新疆鐵路部門瞭解到，受大風天氣影響，新疆鐵路部門調整7月22日、23日列車執行方案，部分列車停運。7月22日停運車次：烏魯木齊至庫爾勒C802次、C806次、C810次、C814次、C818次，烏魯木齊南至庫爾勒C872次，烏魯木齊至和田T9526次，烏魯木齊南至喀什K6736次，哈密至庫爾勒C995次，庫爾勒至烏魯木齊C804次、C808次、C812次、C816次、C820次，庫爾勒至烏魯木齊南C874次，庫爾勒至哈密C996次，喀什至成都西T62次、喀什至西安T270次旅客列車停運；7月23日停運車次：和田至烏魯木齊T9528次。鐵路部門將密切關注天氣變化情況，動態調整列車開行方案，一旦天氣好轉，將及時恢復列車開行。已購買停運列車車票的旅客，可透過12306網站、12306App、自助售取票機、車站視窗辦理退票、改簽業務，均不收取手續費。（央視新聞）
-
----
-
-### 2026-07-22 10:45:23  #其他
-
-【中科創達：AquaClaw商業化再提速 獲頭部車企專案定點】據中科創達訊息，近日，中科創達車載多智慧體產品AquaClaw成功獲得國內頭部合資整車廠實車專案定點（基於雙方保密協議，客戶名稱及商務資訊暫不披露），標誌著AquaClaw商業化落地取得重要進展。
-
----
-
-### 2026-07-22 10:45:18  #市場 #國際 #原創
-
-【韓國散戶再度湧向高風險的差價合約 外界擔心重演2023年暴跌危機】韓國資金雄厚的散戶正湧向一種過去曾造成重大損失的槓桿工具；外界擔心，隨著股市劇烈震盪，相關押注恐遭集中平倉。韓國仍允許帳戶資產達一定門檻的投資人買賣所謂的差價合約(contracts for difference)，美國則是禁止一般散戶交易CFD。韓國金融投資協會的資料顯示，截至週一，這類商品的未平倉部位較一年前大增近三分之二，達約3.3萬億韓元(約22億美元)。CFD之所以受到青睞在於其槓桿效果。投資人只需投入相當於總曝險40%的資金，即可取得最高2.5倍的曝險部位。然而，CFD在2023年因引發市場動盪而遭韓國限制，如今再度捲土重來，時機卻相當敏感。與晶片股掛鉤的槓桿ETF已經加劇市場波動，甚至促使主管機關暫停核准新的單一個股槓桿ETF上市。
-
----
-
-### 2026-07-22 10:44:05  #MKT News #GM.O #Impact bullish
-
-JP Morgan raises its PT for GM to $120 from $110.
-
----
-
-### 2026-07-22 10:43:50  #宏觀
-
-【海南省“十五五”服務業發展規劃：加大擬上市企業培育力度】海南省人民政府辦公廳近日印發《海南省“十五五”服務業發展規劃》，其中提出，拓寬融資渠道。透過專項調研、政策宣講、經驗交流等方式，加大擬上市企業培育力度。擴大直接融資渠道，開展多層次資本市場政策常態化培訓。引導金融機構在依法合規、風險可控前提下，開展基於存貨、訂單、倉單等的動產和權利質押融資。積極引進保險系、銀行系長期耐心資本，積極發展私募股權和創投基金，高質量建設區域性股權市場。發揮國家創業投資引導基金作用，最佳化推廣“創新積分制”。
-
----
-
-### 2026-07-22 10:43:42  #MKT News #Commodities #Energy
-
-China A-share coal stocks rose on choppy trade; Xindazhou A hit the daily limit, Dayou Energy climbed over 8%, and Zhengzhou Coal & Power, Haohua Energy, Liaoning Energy and Lu'an Huaneng also advanced.
-
----
-
-### 2026-07-22 10:42:24  #其他
-
-【海南省“十五五”服務業發展規劃：金融領域深化合格境外有限合夥人試點 發展綠色金融和離岸貿易】海南省人民政府辦公廳近日印發《海南省“十五五”服務業發展規劃》，其中提出，紮實推進服務業擴大開放綜合試點。電信服務領域健全資料交易與安全體系。醫療康養領域放寬機構合作限制和罕見病藥品進口限制。金融領域深化合格境外有限合夥人（QFLP）試點，發展綠色金融和離岸貿易。商貿文旅領域最佳化跨境電商與國際化消費設施。交通領域打通跨境貨運綠色通道，探索多式聯運新模式。推動製造業與服務業深度融合，培育商業航天、智慧網聯汽車等新興產業鏈。同時最佳化外資外匯管理、簡化口岸流程，放寬外籍人才執業居留限制。完善資料、運輸等重點領域的行業規範，推動國際標準互認銜接。
-
----
-
-### 2026-07-22 10:42:10  #公司 #其他 #國際
-
-馬斯克：在今年結束之前，Grok Imagine 將製作一部完整長度的《奧德賽》電影，該電影在歷史上準確且忠實於荷馬的藝術。
-
----
-
-### 2026-07-22 10:41:44  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Holds at 2-Month High — The yield on the US 10-year Treasury note held around 4.63% on Wednesday, hovering at two-month highs as ongoing hostilities between the US and Iran lifted oil prices, heightening concerns over inflation and interest rates. President Donald Trump also downplayed the likelihood of near-term talks with Iran, while Iran-backed Houthi rebels in Yemen disrupted shipping through the Red Sea. Meanwhile, a series of attacks on the Caspian Pipeline Consortium terminal along Russia’s Black Sea coast added to supply concerns. On the economic front, ADP data showed US private employers added an average of 16,500 jobs per week over the four weeks ending July 4, down from an average weekly gain of 19,250 in the prior four-week period, marking a fourth straight slowdown in hiring. Markets widely expect the Federal Reserve to leave interest rates unchanged at next week’s meeting, while pricing in more than a 55% chance of a rate hike in September.
-
----
-
-### 2026-07-22 10:40:58  #宏觀 #國際
-
-【臺胞在俄羅斯伊爾庫茨克州附近遭遇車禍 國臺辦：目前受傷臺胞情況穩定】國務院臺辦舉行例行新聞釋出會。有記者問：近日，有臺胞在俄羅斯伊爾庫茨克州附近遭遇車禍。中國駐伊爾庫茨克總領館獲悉後第一時間協助傷員前往當地醫院救治，並探望慰問受傷臺胞。請問對此有何評論?發言人張晗表示，中國駐伊爾庫茨克總領館深夜接獲臺胞求助資訊後，第一時間協調當地醫院派出救護車輛實施救助，並探望慰問了傷勢較重的臺灣同胞。目前受傷臺胞情況穩定。兩岸同胞都是中國人，為包括臺灣同胞在內的中國公民在境外提供領事保護和協助是我們的職責所在。
-
----
-
-### 2026-07-22 10:39:52  #市場
-
-兆易創新A股成交額達200億元，現漲3.08%。
-
----
-
-### 2026-07-22 10:39:46  #MKT News #Market Themes #Chip Wars #TSM.N #Impact mixed
-
-【Taiwan Affairs Office responds to TSMC's $100 billion U.S. investment plan】At a routine briefing the Taiwan Affairs Office commented on reports that TSMC plans to increase U.S. investment by $100 billion, including four additional wafer fabs and an advanced packaging facility in Arizona. The move has revived concerns in Taiwan about industry relocation and the hollowing out of the island’s semiconductor sector. Spokesperson Zhang Han blamed the DPP’s pro‑U.S. policies for damaging Taiwan’s economy, accusing the authority of selling out industrial interests and hollowing the island’s economic base, and said the outcome would harm both industry prospects and residents’ livelihoods.
 
 ---

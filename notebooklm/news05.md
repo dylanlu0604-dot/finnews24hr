@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-27 02:38:35_
-_本檔包含 3456 則快訊，約 684814 字_
+_更新時間：2026-07-27 03:48:28_
+_本檔包含 3460 則快訊，約 684302 字_
+
+---
+
+### 2026-07-21 09:25:38  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
+
+A-share market opened higher: Shanghai Composite up 0.42%, Shenzhen Composite Index up 0.34%, ChiNext Index up 0.76%. Coal stocks extended gains; robotic actuators, insurance, precious metals and blade-cell batteries led sector advances.
+
+---
+
+### 2026-07-21 09:25:31  #公司
+
+【智譜AI落地1GW國產算力中心 同步完成對中科加禾的收購】記者獲悉，智譜AI（Z.ai）已落地1GW級國產AI算力資料中心建設，並全部採用國產AI晶片。與此同時，智譜也於今日正式完成對國產AI異構算力軟體公司中科加禾（XCore Sigma）的收購。後者源自中科院計算所編譯實驗室，長期深耕異構算力軟體棧及編譯最佳化，被業內視為國內頂尖AI Infra團隊之一。知情人士表示，這兩項動作分別補齊了算力供給與算力釋放兩大關鍵能力。前者提供大規模模型訓練所需的計算資源，後者則透過編譯器、Runtime、推理引擎等基礎軟體能力，提高異構晶片利用率，降低推理成本，並提升模型部署效率。 (科創板日報)
+
+---
+
+### 2026-07-21 09:25:15  #焦點
+
+三大股指高開，滬指漲0.42％，深成指漲0.34％，創業板漲0.76％。
+
+---
+
+### 2026-07-21 09:23:49  #宏觀 #國際
+
+【美國務院釋出全球安全警示】美國國務院當地時間7月20日在其官方網站釋出全球安全警示，建議世界各地的美國公民提高警惕。 美國務院稱，中東緊張局勢加劇，安全環境複雜，存在局勢意外升級的風險。目前身處中東的美國公民應保持高度警覺，併為航班取消、空域階段性關閉及其他旅行中斷做好準備；中東以外的美國公民則應重新考慮前往或經由該地區旅行。 美國國務院還表示，包括中東以外地區在內的美國外交設施已成為襲擊目標。伊朗及其支持者可能針對海外其他美國利益，以及全球範圍內與美國和美國公民有關的地點發動襲擊。
+
+---
+
+### 2026-07-21 09:23:34  #MKT News
+
+UK Maritime Trade Operations said the tanker’s chief security officer reported the crew abandoned ship and are in lifeboats after an incident 8 nautical miles northeast of Lima, Oman. No environmental impact reported so far.
+
+---
+
+### 2026-07-21 09:23:30  #其他
+
+英國海事貿易機構(UKMTO)表示，針對阿曼利馬角東北方向8海里處發生的事件，涉事油輪的船舶保安官（CSO）報告稱，全體船員已棄船，目前都在救生艇上。
+
+---
+
+### 2026-07-21 09:22:57  #MKT News #Market Themes #Chip Wars #06809.HK #Impact bullish #01347.HK #03986.HK
+
+Hong Kong chip shares opened higher: 06809.HK rose over 4%, 01347.HK nearly 4%, while 03986.HK, 09903.HK and 00981.HK also advanced.
+
+---
+
+### 2026-07-21 09:22:45  #MKT News
+
+【South Korea equity margin balances drop to lowest since April 15】South Korea equity margin balances for financed stock purchases fell to 33.4 tln won (about $22.6bn) as of July 16, the Korea Financial Investment Association (KFIA) said — the lowest level since April 15 and down 13% from an end-June peak of 38.6 tln won. The KFIA also reported investor deposits fell to 108.1 tln won on July 16 from a June 4 high of 139.7 tln won, suggesting retail appetite for equities may be cooling.
+
+---
+
+### 2026-07-21 09:22:04  #MKT News #Important #Commodities #Industrial Metals
+
+China lithium carbonate most-active contract fell as much as 6.00% intraday and is trading at 138,940 yuan/ton.
+
+---
+
+### 2026-07-21 09:21:44  #市場 #焦點
+
+碳酸鋰連續主力合約日內跌6%，現報138940.00元。
+
+---
+
+### 2026-07-21 09:21:40
+
+港股恒指高開漲0.03％，國企指數跌0.01％，恒生科技指數開漲0.07%。
+
+---
+
+### 2026-07-21 09:21:27  #MKT News #Market Regions #Greater China #Hang Seng Index
+
+At the Hong Kong open on July 21, the Hang Seng Index (HSI) rose 7.49 points (+0.03%) to 25,150.54; the Hang Seng TECH Index gained 3.51 points (+0.07%) to 4,755.66; the China Enterprises Index (HSCEI) fell 0.71 points (-0.01%) to 8,381.19; the Red Chip Index slipped 4.19 points (-0.10%) to 4,069.11.
+
+---
+
+### 2026-07-21 09:21:23  #MKT News #Important #Market Themes #Chip Wars #Hang Seng Index #Impact bullish #02513.HK
+
+Hong Kong stocks opened mixed: HSI +0.03%, Hang Seng Tech +0.07%. Chip, PCB and high-profile internet/tech names led gains while oil stocks opened lower. Zhipu (02513.HK) opened +4.44%.
+
+---
+
+### 2026-07-21 09:21:16  #央行 #中國央行
+
+央行今日開展2530億元7天期逆回購操作，操作利率為1.40%，與此前持平。
+
+---
+
+### 2026-07-21 09:20:42  #央行 #其他
+
+央行今日開展2530億元7天逆回購操作，投標量2530億元，中標量2530億元，操作利率為1.40%，與此前持平。
+
+---
+
+### 2026-07-21 09:20:35  #MKT News #Important #CNH #Impact bullish
+
+PBOC conducted a 7-day reverse repo of 253.0 bln yuan; tender and allotment 253.0 bln yuan; operation rate 1.40%, unchanged.
+
+---
+
+### 2026-07-21 09:19:58  #MKT News #WTI #Impact mixed #Brent
+
+U.S. military says latest round of strikes on Iran has concluded.
+
+---
+
+### 2026-07-21 09:19:49  #市場 #焦點
+
+紐約期金突破4040美元/盎司，日內漲0.60%。
+
+---
+
+### 2026-07-21 09:19:49  #MKT News #Market Themes #Chip Wars #Nasdaq100 #Impact bullish
+
+Morgan Stanley says the recent pullback in US memory-chip stocks is a buying opportunity; memory-chip shortages are expected to worsen through the year after next. Consumer electronics, PC and smartphone markets are sending mixed signals that will affect spot pricing and inventory at different times, and recent weakness in share prices appears linked to those factors.
 
 ---
 
@@ -20784,95 +20898,5 @@ Faraday Future (FFIE.O) said it has agreed a partnership with the Argentine Foot
 ### 2026-07-20 03:59:30  #國際
 
 美國共和黨參議員湯姆·科頓在：持續的打擊行動既能保護美國人，又能削弱伊朗控制霍爾木茲海峽的能力。
-
----
-
-### 2026-07-20 03:47:28  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-The Times of Israel, citing officials, says Prime Minister Netanyahu’s planned US trip next week for Senator Graham’s funeral may be canceled amid heightened regional security. Israeli officials warn Iran could broaden strikes to other senior Israeli figures, saying many people are under threat.
-
----
-
-### 2026-07-20 03:32:55  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Kuwait says Iran strikes damage critical infrastructure】Kuwait's defense ministry said Iran has carried out sustained strikes against civil and critical infrastructure on Kuwaiti territory, causing multiple fires and severe damage. A ministry spokesman said the attacks hit facilities under the Ministry of Electricity, Water and Renewable Energy.
-
----
-
-### 2026-07-20 03:14:26  #國際
-
-美國軍方：一名駐伊拉克北部軍人於7月18日在行動中陣亡。
-
----
-
-### 2026-07-20 03:13:17  #其他
-
-美軍中央司令部：軍方人員發現不明身份遺體殘骸。
-
----
-
-### 2026-07-20 03:13:16  #MKT News
-
-CENTCOM said a U.S. service member died on July 18 in northern Iraq during a combat mission while conducting a controlled detonation of an unexploded munition left by a downed Iranian one-way attack drone. A second U.S. service member was wounded in the incident.
-
----
-
-### 2026-07-20 03:12:27  #市場
-
-週一悉尼盤初，美元兌日元報價大致持平，窄幅震盪於162.38-162.43日元。歐元兌美元跌0.06%，至1.1431；英鎊兌美元持平於1.3453。商品貨幣對中，澳元兌美元跌0.2%，至0.6970下方；紐元兌美元跌0.13%，至0.5835下方；美元兌加元跌0.06%，至1.4013下方。
-
----
-
-### 2026-07-20 03:04:11  #MKT News
-
-【Israeli PM office criticizes NYC mayor for studying Netanyahu arrest】Israel's prime minister's office criticized New York City's mayor after the mayor said he was studying how to arrest Prime Minister Benjamin Netanyahu should he travel to New York. The PMO called the International Criminal Court a "kangaroo court", said it lacks jurisdiction over Americans and Israelis, and said the warrant was issued by "disgraced former ICC chief prosecutor Karim Khan", adding that sexual-misconduct allegations against Khan surfaced days later and alleging the move was intended to distract public attention.
-
----
-
-### 2026-07-20 02:54:05  #MKT News
-
-Qatar's foreign ministry said Qatari PM spoke with Jordan's deputy prime minister and condemned Iran's attack on Jordan.
-
----
-
-### 2026-07-20 02:50:57  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Syria has emerged as a regional hub for Iraqi fuel oil exports, with more than a quarter of Middle East fuel oil shipments transiting Syrian Mediterranean ports, Syrian state news agency reports. The US is supporting efforts to open alternative transport routes to bypass the Strait of Hormuz.
-
----
-
-### 2026-07-20 02:47:07  #MKT News
-
-【Wildfire in France's Var department】A wildfire broke out in France's Var department on July 19. As of 18:45 local time the blaze had burned about 180 hectares, forced the evacuation of roughly 160 residents and damaged multiple homes. Authorities deployed about 285 firefighters and firefighting helicopters. Several roads were closed and rail services between Toulon and Nice were suspended.
-
----
-
-### 2026-07-20 02:46:33  #國際
-
-伊朗議會議長卡利巴夫：響應最高領袖關於“神聖團結”的號召，是伊朗在面對敵人時取得成功的關鍵。
-
----
-
-### 2026-07-20 02:44:09  #MKT News
-
-【Trump says US will immediately reapply to host World Cup; backs Argentina in final】President Trump told FIFA president Gianni Infantino the US will "immediately" reapply to host the World Cup, saying "based on this tournament's data, we will immediately apply again." He noted the 2030 World Cup will be hosted by Spain, Portugal and Morocco, and the 2034 tournament is confirmed for Saudi Arabia; the 2038 host remains undecided. On the final, Trump said it is hard to bet against Lionel Messi and that he would not take sides.
-
----
-
-### 2026-07-20 02:44:01  #其他
-
-【法國南部瓦爾省發生森林火災】當地時間7月19日，法國南部瓦爾省發生森林火災。截至當天18時45分，火災已燒燬約180公頃林地，約160名居民被疏散，多棟房屋受損。據瓦爾省政府介紹，火災發生於當天下午，隨後迅速蔓延。當地共投入約285名消防員以及滅火直升機等力量參與撲救。受火災影響，多條道路封閉，土倫至尼斯鐵路交通暫停。
-
----
-
-### 2026-07-20 02:43:24  #其他
-
-【西班牙瓜達拉哈拉省山火過火面積達1.6萬公頃】總檯記者當地時間7月19日獲悉，西班牙卡斯蒂利亞-拉曼恰大區瓜達拉哈拉省拉米耶拉地區山火過火面積已達1.6萬公頃。20個村鎮人員被疏散，另有5個村鎮居民被要求留在室內，約800人被轉移安置。這場山火於當地時間16日發生。截至19日下午，火勢仍未得到控制，應急響應級別維持在二級。大部分過火區域位於北部山脈自然公園範圍內，當地生態環境價值較高。（央視新聞）
-
----
-
-### 2026-07-20 02:40:26  #國際
-
-【美國向中東增派F-16、F-35戰機及加油機】美國官員透露，美國正向中東增派F-16、F-35戰鬥機以及空中加油機。這項部署指令早在伊朗近期襲擊約旦、造成兩名美軍士兵身亡之前就已下達，當前美伊之間緊張局勢仍在持續升級。一名以色列軍方官員表示，部分新增戰機或將部署至以色列空軍基地。
 
 ---
