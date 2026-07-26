@@ -1,7 +1,17 @@
 {
   "date": "2026-07-26",
-  "count": 573,
+  "count": 574,
   "items": [
+    {
+      "id": "mkt:019f9e24-9ccc-7aab-8e99-fe0e6246e2d6",
+      "time": "2026-07-26 19:17:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Xiyin International Holdings Limited passes HKEX listing hearing】Xiyin International Holdings Ltd filed updated post-hearing materials, indicating its HKEX IPO has cleared the listing hearing."
+    },
     {
       "id": "5008526",
       "time": "2026-07-26 19:15:48",
