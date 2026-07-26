@@ -1,7 +1,46 @@
 {
   "date": "2026-07-27",
-  "count": 134,
+  "count": 138,
   "items": [
+    {
+      "id": "5008746",
+      "time": "2026-07-27 06:24:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國防部：美軍因伊朗戰事累計傷亡642人】隸屬於美國國防部的“國防傷亡分析系統”網站26日更新的美軍傷亡統計顯示，自2月28日美國和以色列聯合發動對伊朗的大規模軍事行動以來，美軍累計傷亡人數達642人，其中18人死亡。（新華社）"
+    },
+    {
+      "id": "5008745",
+      "time": "2026-07-27 06:24:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果眼鏡或亮相WWDC27】7月26日，科技記者馬克 · 古爾曼稱，蘋果即將推出的智慧眼鏡計劃最早於明年6月舉行的全球開發者大會WWDC27上亮相，並於明年秋季正式釋出。 代號為N50的蘋果智慧眼鏡原計劃於今年晚些時候亮相，並於2027年初正式發售。"
+    },
+    {
+      "id": "5008744",
+      "time": "2026-07-27 06:22:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報60.09美元/盎司。"
+    },
+    {
+      "id": "mkt:019fa085-8a29-7aab-8e9c-bd9f34d1a289",
+      "time": "2026-07-27 06:22:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Oil plunges at Monday open as US, Iran pause strikes, raising ceasefire hopes】Oil slumped at Monday’s open as traders reassessed Middle East supply risk after the US and Iran paused reciprocal strikes. Brent futures fell about 6% to near $91/bbl and WTI dropped below $84/bbl. European gas slid as much as 7.8%. The US suspended strikes late Friday after 13 days of operations; Iran’s army said Tehran had paused its responses. Yemen’s Houthi movement said it struck ARAMCO facilities at Jazan and Yanbu on Saturday; Riyadh and ARAMCO did not immediately confirm. The conflict has spread from the Strait of Hormuz to the Red Sea; Brent is up roughly 30% this month and briefly topped $100/bbl last week. The near five‑month-old hostilities, thin global spare capacity and rising refined-product prices have intensified concerns about upward pressure on global inflation, and markets questioned the US administration’s next move."
+    },
     {
       "id": "5008743",
       "time": "2026-07-27 06:21:39",
