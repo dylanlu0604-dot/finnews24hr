@@ -1,7 +1,23 @@
 {
   "date": "2026-07-26",
-  "count": 633,
+  "count": 635,
   "items": [
+    {
+      "id": "mkt:019f9eae-6b92-7aab-8e9a-7d4ea79bc8a3",
+      "time": "2026-07-26 21:47:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia to build new ocean-going destroyers】The Russian navy commander said next-generation warships now under construction will displace about 9,500 tonnes. He said the class is designed for extended at-sea deployment and to conduct blue-water and long-range operations."
+    },
+    {
+      "id": "mkt:019f9eaa-e3d5-7aab-8e9a-74f667309957",
+      "time": "2026-07-26 21:43:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran official: Iranian merchant ship attacked off Volga–Caspian anchorage; 1 killed, 3 injured】Gilan governor Hadi Haghshenas said an Iranian merchant vessel anchored off the Volga-to-Caspian route was attacked, killing one crew member and wounding three. The ship, loaded with steel and other cargo and en route from Russia’s Astrakhan to Iran’s Anzali, had its wheelhouse destroyed and is unable to continue; authorities did not specify the attack type and are investigating."
+    },
     {
       "id": "mkt:019f9ea6-caa6-7aab-8e9a-694fd60e69ad",
       "time": "2026-07-26 21:39:18",
