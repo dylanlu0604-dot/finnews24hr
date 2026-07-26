@@ -1,7 +1,34 @@
 {
   "date": "2026-07-27",
-  "count": 84,
+  "count": 87,
   "items": [
+    {
+      "id": "mkt:019fa017-660a-7aab-8e9c-4bf5ad46a691",
+      "time": "2026-07-27 04:21:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatari PM and foreign minister Mohammed reaffirmed Qatar's full support for efforts to defuse tensions and reach a comprehensive agreement to secure sustainable peace in the region."
+    },
+    {
+      "id": "mkt:019fa017-5ee8-7aab-8e9c-406180a417f1",
+      "time": "2026-07-27 04:21:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Qatar foreign ministry said Qatari PM and foreign minister Mohammed, in a call, stressed parties must pursue dialogue and diplomacy and implement the consensus reached under the US‑Iran memorandum framework, including ensuring freedom of navigation in the Strait of Hormuz to safeguard regional security and preserve stability."
+    },
+    {
+      "id": "mkt:019fa017-1eb7-7aab-8e9c-39d0967b115a",
+      "time": "2026-07-27 04:21:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said QATARI PM and foreign minister Mohammed held a phone call with Oman's foreign minister."
+    },
     {
       "id": "5008708",
       "time": "2026-07-27 04:18:29",
