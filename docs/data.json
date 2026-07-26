@@ -1,7 +1,30 @@
 {
-  "updated": "2026-07-27 04:39:33",
-  "count": 18025,
+  "updated": "2026-07-27 04:46:26",
+  "count": 18023,
   "items": [
+    {
+      "id": "mkt:019fa02a-6950-7aab-8e9c-66ce1cc82420",
+      "time": "2026-07-27 04:42:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AP: The Pentagon's official U.S. death toll for the Iran war no longer includes four U.S. soldiers killed in recent fighting; those four, along with 207 wounded, have been reclassified into a new \"overseas operations\" category."
+    },
+    {
+      "id": "mkt:019fa027-8d83-7aab-8e9c-5c0ec49344d2",
+      "time": "2026-07-27 04:39:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Trump posts AI \"victory\" images during reported ceasefire; Iranian state media says he's buying virtual \"firepower\"】US President Trump posted AI-generated images on social media on Sunday local time showing US forces bombing Iran's Hormuz Island and seizing an Iranian tanker, timed to a reported temporary ceasefire with no attacks in the prior 48 hours. Iranian state-run Press TV, citing US media reports of strained US munitions stocks, said Trump appears to be investing in virtual \"firepower\" by commissioning AI imagery."
+    },
     {
       "id": "mkt:019fa01d-5855-7aab-8e9c-53079d6b3108",
       "time": "2026-07-27 04:28:25",
@@ -165085,41 +165108,6 @@
         "國際"
       ],
       "text": "美國國家颶風中心（NHC）表示，埃莉達（Elida）預計將在未來幾天內減弱為殘餘低壓。"
-    },
-    {
-      "id": "4996277",
-      "time": "2026-07-20 04:45:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【白宮調整審批規則，大幅簡化華盛頓基建稽核】特朗普正推動其華盛頓特區紀念拱門專案走完審批流程，與此同時，本屆政府計劃修改一項監管規則。新規落地後，華盛頓多項由特朗普主推的基建專案審批速度將大幅加快，且專案所需接受的審查力度也會相應縮減。"
-    },
-    {
-      "id": "mkt:019f7c20-5582-7aab-8dfa-bce3059fb166",
-      "time": "2026-07-20 04:45:21",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Saudi state television reported that Iranian media said explosions struck Delijan in southern Markazi province and Arak in western Iran."
-    },
-    {
-      "id": "4996276",
-      "time": "2026-07-20 04:40:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗中央省薩韋市居民稱，當地時間23時45分左右聽到遠處傳來爆炸聲，未感受到衝擊波。多名當地民眾表示全城都能聽見該聲響。"
-    },
-    {
-      "id": "4996275",
-      "time": "2026-07-20 04:40:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美襲擊伊朗達爾霍溫在建核設施，伊朗副外長表態將採取對應行動】伊朗副外長卡齊姆·加里巴巴迪週日在社交平臺發文表示，在美國襲擊達爾霍溫核電站在建設施後，伊朗將採取恰當行動捍衛本國國家利益與安全。他寫道：“美國襲擊達爾霍溫核電站在建設施，是對伊朗和平核基礎設施的危險侵犯，由此加劇安全動盪、局勢不穩產生的一切後果，責任完全在美國政府一方。”"
     }
   ]
 }
