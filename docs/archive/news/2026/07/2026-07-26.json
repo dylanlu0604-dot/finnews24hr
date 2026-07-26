@@ -1,7 +1,18 @@
 {
   "date": "2026-07-26",
-  "count": 586,
+  "count": 587,
   "items": [
+    {
+      "id": "mkt:019f9e48-37a6-7aab-8e9a-12c50fa14675",
+      "time": "2026-07-26 19:56:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Iran says progress in talks with Oman on Strait of Hormuz shipping management】Iranian foreign ministry spokesman Baghaei said Iran and Oman held deputy foreign minister-level talks in Tehran on managing safe shipping in the Strait of Hormuz, which he described as productive and making some progress. He said the Omani delegation left Tehran on the 25th but technical and political consultations will continue, and that current navigation conditions in the strait remain unchanged."
+    },
     {
       "id": "5008542",
       "time": "2026-07-26 19:51:39",

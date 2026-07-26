@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-26 19:53:08",
-  "count": 18099,
+  "updated": "2026-07-26 19:57:11",
+  "count": 18096,
   "items": [
+    {
+      "id": "mkt:019f9e48-37a6-7aab-8e9a-12c50fa14675",
+      "time": "2026-07-26 19:56:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Iran says progress in talks with Oman on Strait of Hormuz shipping management】Iranian foreign ministry spokesman Baghaei said Iran and Oman held deputy foreign minister-level talks in Tehran on managing safe shipping in the Strait of Hormuz, which he described as productive and making some progress. He said the Omani delegation left Tehran on the 25th but technical and political consultations will continue, and that current navigation conditions in the strait remain unchanged."
+    },
     {
       "id": "5008542",
       "time": "2026-07-26 19:51:39",
@@ -165775,46 +165786,6 @@
         "MKT News"
       ],
       "text": "【Ferry capsizes in Guyana; 8 rescued】Local media in Guyana on the 19th reported a ferry carrying 116 people, including crew, capsized late on the 18th while en route from the capital Georgetown to Kaituma Port. Eight people have been rescued. Government and civilian emergency services launched a search-and-rescue operation, and the military said air force and coast guard units were dispatched to the scene."
-    },
-    {
-      "id": "mkt:019f7a3b-86ac-7aab-8df7-7432c0c08de4",
-      "time": "2026-07-19 19:55:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Trump urges Republicans to include Iran in a sanctions bill targeting Russia."
-    },
-    {
-      "id": "4996094",
-      "time": "2026-07-19 19:55:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：共和黨人應將伊朗納入對俄製裁法案。"
-    },
-    {
-      "id": "4996093",
-      "time": "2026-07-19 19:54:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【槓桿資金大手筆買入CRO龍頭】近一週（7月10日至16日），A股融資餘額持續下降，但仍保持在2.8萬億元上方，最新為28377.01億元（截至7月16日）。A股融資資金呈現淨償還態勢，金額合計淨流出987.04億元。個股方面，近一週，共51股融資淨買入額在1億元以上，藥明康德、中興通訊、中國船舶、紫光股份排名前四，淨買入額依次為8.35億元、7.51億元、5.42億元、4.61億元。藥明康德、康龍化成、凱萊英等CRO龍頭股均獲得融資資金大手筆加持。30股融資淨償還額超過5億元。佰維儲存、中際旭創淨償還額超過20億元，分別為21.42億元、20.39億元；德明利、江波龍、勝宏科技、寒武紀多股隨後，淨償還額均在15億元以上。"
-    },
-    {
-      "id": "4996092",
-      "time": "2026-07-19 19:53:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "世界黃金協會CEO泰達維高度評價中國市場湧現的創新和活力。“中國是全球黃金市場當中至關重要且充滿活力的一部分，在市場發展、消費者培育、產品創新等方面的實踐為全球黃金產業的發展提供了寶貴經驗。”（新華社）"
     }
   ]
 }
