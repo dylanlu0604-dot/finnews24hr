@@ -1,7 +1,517 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-26 08:10:10_
-_本檔包含 3814 則快訊，約 686947 字_
+_更新時間：2026-07-26 09:47:26_
+_本檔包含 3828 則快訊，約 689911 字_
+
+---
+
+### 2026-07-22 06:42:23  #國際
+
+【日元匯率跌至1986年以來最低水平】21日紐約外匯市場上，日元匯率跌至1美元兌163日元區間，為1986年以來首次。受中東局勢迅速緊張影響，市場避險情緒升溫，推動了買入美元的走勢。
+
+---
+
+### 2026-07-22 06:40:48  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
+
+The Information reports Meta Platforms (META.O) is developing an OpenRouter rival through its AI incubator aimed at cutting encoding costs.
+
+---
+
+### 2026-07-22 06:40:09  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Oat Drops by 2.56% — Top commodity losers are Oat (-2.56%) and Canola (-0.74%). Gains are led by Cotton (1.87%), Cocoa (1.51%) and Rice (1.50%).
+
+---
+
+### 2026-07-22 06:39:49  #國際
+
+美國防長赫格塞思談及伊朗：核設施已遭摧毀，但伊朗方面仍執意推進核能力建設，此舉實屬不智。
+
+---
+
+### 2026-07-22 06:39:30  #MKT News #Market Themes #The Trump Trade
+
+US President Trump plans to visit Michigan next week for a campaign rally.
+
+---
+
+### 2026-07-22 06:35:09  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Drops by 4.95% — Top commodity losers are Lithium Carbonate (-4.95%) and Iron Ore CNY (-1.19%). Gains are led by Silver (4.40%), Copper (3.11%), Platinum (2.20%) and Gold (1.88%).
+
+---
+
+### 2026-07-22 06:34:24  #國際
+
+特朗普：如果沒有1400萬非法移民居留在美國、和本土家庭爭搶住房，租金與房價本會大幅回落。
+
+---
+
+### 2026-07-22 06:30:57  #國際
+
+黨內初選臨近，特朗普計劃下週到訪密歇根州開展造勢活動。
+
+---
+
+### 2026-07-22 06:30:09  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Methanol Drops by 4.18% — Top commodity losers are Methanol (-4.18%) and Coking Coal (-1.10%). Gains are led by Naphtha (3.75%), Crude Oil WTI (2.64%) and Brent Crude Oil (2.61%).
+
+---
+
+### 2026-07-22 06:27:19  #宏觀 #焦點 #國際
+
+【白宮擬重調配數十億美元科研資金投向人工智慧，削減高校資助】特朗普政府計劃加速推進聯邦科研體系改革，加大對獨立科研人員與人工智慧研究的扶持力度，減少面向高校的資助。這是美方為加快技術突破、應對中國競爭採取的最新舉措。相關草案顯示，白宮科學和技術政策辦公室將於週二釋出一份新報告及備忘錄，資助獨立科研人員，能夠助力美國更快將人工智慧應用於科研工作。在特朗普第二任期剩餘時間內，該辦公室出臺的相關指令，將指導全美規模約2000億美元年度聯邦研發預算的分配方向。這份新指引或將進一步衝擊依賴聯邦科研經費的大型高校。
+
+---
+
+### 2026-07-22 06:27:12  #MKT News #Important #Market Themes #Chip Wars #SKHY.O #Impact bullish #INTC.O
+
+【SK Hynix in talks to buy Intel Ohio campus to produce memory chips in US】South Korea’s JoongAng Ilbo reports SK Hynix (SKHY.O) is negotiating to acquire Intel’s (INTC.O) large semiconductor campus in Ohio, aiming to start front-end production of memory chips at the site within five years. SK Hynix is conducting internal reviews and seeking required government approvals; price and timing are still being worked out. If completed, the deal would help SK Hynix meet U.S. domestic-production requirements and provide cash relief to Intel’s strained foundry business.
+
+---
+
+### 2026-07-22 06:24:02  #公司 #國際
+
+【美國議員要求美國證券交易委員會調查Truth Social資料商業化方案】紐約州民主黨聯邦眾議員裡奇·託雷斯已致函美國證券交易委員會，要求其調查Truth Social母公司向華爾街機構出售特朗普總統帖文實時訪問許可權的計劃是否違反聯邦證券法。這封信函意味著監管層對特朗普媒體科技集團（TMTG）計劃的審查進一步升級。該集團打算向機構投資者出售優先獲取特朗普具備市場影響力社交帖文的許可權，以此變現。特朗普媒體科技集團推出全新產品Truth API，計劃於8月1日正式上線，該介面可實時調取平臺熱度前十賬號的公開帖文。集團高管對外推介這項服務，最高收取每月10萬美元授權費。集團臨時執行長凱文·麥格恩表示，未來只要客戶願意支付更高費用，該介面可擴容支援更多賬號的資料調取。
+
+---
+
+### 2026-07-22 06:22:45  #MKT News
+
+【White House plans to shift federal R&D funding toward AI and individual scientists】The White House plans to accelerate federal research reform, redirecting more R&D funding toward AI applications and individual investigators rather than primarily to universities, according to a draft report and memos seen by the Wall Street Journal. The Office of Science and Technology Policy is expected to release guidance on Tuesday that would influence roughly $200 billion of annual federal R&D spending and steer allocations through the remainder of the Trump administration. The administration says it will prioritize funding mechanisms aimed at individual researchers—scholarships, prize programs and investigator awards—over direct university block grants; cited demonstration programs include NSF graduate-level initiatives and NIH awards for innovative scientists.
+
+---
+
+### 2026-07-22 06:20:55  #國際
+
+美國議員要求SEC 調查特朗普旗下的Truth Social資料商業化計劃。
+
+---
+
+### 2026-07-22 06:20:37  #MKT News #DJT.O #Impact bearish
+
+U.S. lawmakers have asked the SEC to investigate Trump Media & Technology Group (DJT.O) over plans to commercialize data access on Truth Social, Axios reported. Earlier reports said the company plans to launch a Truth API on Aug. 1 that would sell real-time access to public posts from the platform’s top-10 accounts.
+
+---
+
+### 2026-07-22 06:18:42  #其他
+
+中際旭創擬在港上市，最高募資70億美元。
+
+---
+
+### 2026-07-22 06:16:04  #其他
+
+SK海力士正洽談收購英特爾俄亥俄州晶片廠區。
+
+---
+
+### 2026-07-22 06:15:09  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Rises by 0.61% — Top currency gainers are Brazilian Real (0.61%), Norwegian Krone (0.43%) and Dollar Index (0.25%). Biggest losers are Japanese Yen (-0.42%), British Pound (-0.41%), Swiss Franc (-0.32%) and Euro (-0.13%).
+
+---
+
+### 2026-07-22 06:13:15  #其他
+
+中際旭創香港IPO最高發行價定在每股1010港元。
+
+---
+
+### 2026-07-22 06:11:58  #其他
+
+【公募二季度盈利近2萬億元 多隻產品首次披露長期業績】天相投顧資料顯示，2026年二季度公募基金合計盈利19390.35億元，一舉扭轉一季度虧損2029.42億元的局面，權益類產品在其中起到了關鍵作用。不僅如此，成立期限滿足相關要求的基金在2026年二季報中首度披露過去7年、10年的長期業績。在業內人士看來，此舉有助於強化長期投資、價值投資理念，從而有效提升投資者獲得感。（上證報）
+
+---
+
+### 2026-07-22 06:10:01  #公司
+
+【半年報預喜率超44% 機構淨買入多隻科技股】近期A股上市公司半年度業績預告持續披露。截至發稿，近1800家A股公司釋出了上半年業績預告，預喜比例超44%，電子、化工、有色板塊表現突出。 多位券商首席經濟學家表示，當前市場寬幅震盪更多源於情緒波動，我國經濟基本面與科技創新發展趨勢保持穩健，A股中長期配置價值不變。（證券時報）
+
+---
+
+### 2026-07-22 06:09:41  #其他
+
+【私募規模23.66萬億創歷史新高 單月發行額年內第3次突破千億元】7月20日，中國證券投資基金業協會發布最新一期《私募基金管理人登記及產品備案月報》。資料顯示，截至2026年6月末，私募基金存續規模達到23.66萬億元，再度重新整理歷史紀錄，連續9個月創出歷史新高。其中，私募證券基金存續規模首次突破8萬億元。 與此同時，私募發行端持續火熱。6月份，全市場新備案私募基金規模達1091.67億元，繼今年2月、3月之後，再度突破千億元大關，單月備案產品數量也重新站上2000只。
+
+---
+
+### 2026-07-22 06:08:12  #公司 #市場
+
+【7月以來機構調研375家公司 電子行業業績亮眼備受青睞】7月以來，A股上市公司陸續披露 2026年半年度業績預告，機構調研熱度顯著升溫，受AI賦能的電子行業成長優勢突出，成為機構重點調研賽道。據統計，7月以來，共有375家上市公司獲機構調研，其中，新易盛、京東方A、華燦光電、華勤技術等22家公司獲50家以上機構調研。具體來看，新易盛獲417家機構調研，居首。京東方A獲243家機構調研，居次席。上述22家獲機構密集調研公司7月以來股價平均下跌22.86%，其中燕京啤酒、天壕能源、華勤技術和立中集團股價上漲，累計漲幅分別為24.49%、9.77%、7.31%和3.52%。統計顯示，上述機構調研公司中，112家已釋出2026年半年度業績相關公告。按業績快報淨利潤、業績預告淨利潤下限順序計算，13家預計扭虧為盈、2家同比減虧、67家歸母淨利潤實現同比增長，報喜比例超過七成。(證券時報)
+
+---
+
+### 2026-07-22 06:06:49  #公司 #國際
+
+肯德基日本公司：在日冷食品遭遇網路攻擊後，業務運營已恢復正常。
+
+---
+
+### 2026-07-22 06:03:43  #央行 #國際
+
+【美聯儲7月維持利率不變的機率74.9%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為74.9%，累計加息25個基點的機率為25.1%。 美聯儲到9月維持利率不變的機率為28.9%，累計加息25個基點的機率為55.7%，累計加息50個基點的機率為15.4%。
+
+---
+
+### 2026-07-22 06:02:25  #國際
+
+美國擬調整科研資金投向，從高校撤出資金、轉而投入人工智慧領域，計劃調撥數十億美元資金投向人工智慧。
+
+---
+
+### 2026-07-22 06:01:46  #MKT News #NVDA.O #Impact bullish #MSFT.O #S&P500
+
+According to the Wall Street Journal, the White House plans to redirect tens of billions of dollars in research funding from U.S. universities to artificial intelligence, cutting federal support for higher-education research.
+
+---
+
+### 2026-07-22 06:01:34  #其他
+
+白宮擬為科研人員申請2000億美元研發預算。
+
+---
+
+### 2026-07-22 06:00:47  #MKT News #Market Themes #AI Revolution
+
+The Wall Street Journal reports officials say the Trump administration plans to de-emphasize universities in federal scientific research and instead prioritize artificial intelligence.
+
+---
+
+### 2026-07-22 05:59:17  #其他
+
+中央氣象臺7月22日06時繼續釋出暴雨黃色預警。
+
+---
+
+### 2026-07-22 05:59:02  #其他
+
+中央氣象臺7月22日06時釋出高溫黃色預警。
+
+---
+
+### 2026-07-22 05:58:47  #市場
+
+【淡水河谷鐵礦石產量超預期，維持全年產量指引】全球頭部鐵礦石生產商淡水河谷第二季度鍊鋼原料鐵礦石產量高於市場預期，銅產量同步增長。截至6月30日的三個月內，鐵礦石總產量達8426萬噸，環比上升21%，同比小幅上漲近1%。分析師此前預期產量為8384萬噸。競爭對手力拓在澳大利亞氣旋災害影響消退後，同期產出8880萬噸鐵礦石。這家大型鐵礦石礦企維持全年鐵礦石產量目標不變，區間為3.35億–3.45億噸。
+
+---
+
+### 2026-07-22 05:58:25  #其他
+
+【科威特稱遭無人機襲擊 】當地時間22日凌晨，科威特武裝部隊釋出訊息稱，科方防空系統“正在”應對無人機襲擊。
+
+---
+
+### 2026-07-22 05:58:13  #其他
+
+中央氣象臺7月22日06時繼續釋出強對流天氣黃色預警。
+
+---
+
+### 2026-07-22 05:53:47  #其他
+
+英國首相伯納姆任命露西·裡格比為倫敦金融城事務部長。
+
+---
+
+### 2026-07-22 05:53:25  #國際
+
+科威特軍方：伊朗發起襲擊後，本國防空部隊正在攔截無人機。居民聽到的任何爆炸聲，均是防空系統攔截無人機所產生。
+
+---
+
+### 2026-07-22 05:52:56  #國際
+
+特朗普：希望國際足聯主席因凡蒂諾出任下一任聯合國秘書長。
+
+---
+
+### 2026-07-22 05:50:35  #MKT News #Market Themes #The Trump Trade #LMT.O #Impact bullish #NOC.O #RTX.O
+
+Federal Communications Commission says the Trump administration is considering a ban on imports of military-grade drones.
+
+---
+
+### 2026-07-22 05:50:21  #焦點 #國際
+
+特朗普政府正考慮禁止軍用級無人機進口。
+
+---
+
+### 2026-07-22 05:50:21  #MKT News
+
+【Zelenskiy names Mykhailo Drapat as commander of Ukraine's armed forces】Ukrainian President Zelenskiy said on the evening of the 21st he has decided to appoint Mykhailo Drapat to replace Alexander Syrskyi as commander-in-chief of Ukraine's armed forces. Zelenskiy said he discussed changes to the general staff with Drapat, acting defence minister Yevhen Khmara and deputy head of the presidential office Pavlo Palisa; he expects all decisions to be finalised on the 22nd. Drapat has recently served as commander of the ground forces and commander of the Joint Forces.
+
+---
+
+### 2026-07-22 05:47:35  #其他
+
+淡水河谷：第二季度銅產量為9.84萬噸。
+
+---
+
+### 2026-07-22 05:47:27  #其他
+
+淡水河谷：第二季度銅銷量為9.76萬噸。
+
+---
+
+### 2026-07-22 05:47:20  #其他
+
+淡水河谷：第二季度鎳銷量為4.44萬噸。
+
+---
+
+### 2026-07-22 05:47:06  #MKT News #VALE.N #Impact bullish
+
+Brazilian miner Vale said Q2 iron-ore production was 84.30 mln t, versus Visible Alpha estimate 82.20 mln t. Q2 iron-ore shipments were 79.70 mln t, versus Visible Alpha 78.20 mln t.
+
+---
+
+### 2026-07-22 05:46:29  #市場
+
+淡水河谷第二季度鐵礦石粉礦平均實現價格為每噸95美元。
+
+---
+
+### 2026-07-22 05:46:15  #市場
+
+淡水河谷第二季度鐵礦石銷量為7970萬噸，市場普遍預期為7820萬噸。
+
+---
+
+### 2026-07-22 05:46:06  #市場
+
+淡水河谷二季度鐵礦石產量為8430萬噸，市場預期為8220萬噸。
+
+---
+
+### 2026-07-22 05:45:46  #其他
+
+葉門實施海上封鎖，迫使六艘船隻折返。
+
+---
+
+### 2026-07-22 05:43:21  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bullish #000660.KS
+
+【Korean media: Wealthy investors buy Samsung, SK Hynix single-stock leveraged ETFs】Seoul Economic Daily, citing a major broker’s analysis of 25,000 high-net-worth investors (≥10 bln won in financial assets) from May 27–July 10, reports concentrated net buying of Samsung Electronics and SK Hynix single-stock leveraged ETFs. Net purchases were: KODEX SK Hynix Single-Stock Leverage ETF 178.1 bln won, TIGER SK Hynix Single-Stock Leverage ETF 140.1 bln won, and KODEX Samsung Electronics Single-Stock Leverage ETF 116.6 bln won. The other two names in the top-five net-buys were ordinary shares of Samsung Electronics and SK Hynix, signaling wealthy investors are heavily overweight Korea’s two large chip names; retail buyers in their 40s were the largest cohort buying these single-stock leveraged ETFs.
+
+---
+
+### 2026-07-22 05:41:06  #國際
+
+科威特軍方稱其防空部隊目前正在攔截伊朗無人機。
+
+---
+
+### 2026-07-22 05:41:05  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Kuwait's military says its air-defence system is currently intercepting Iranian drones.
+
+---
+
+### 2026-07-22 05:35:01  #國際
+
+【以軍空襲加沙造成至少12人死亡】據巴勒斯坦通訊社21日報道，以色列軍隊當天對加沙地帶多處地點發動空襲，造成至少12名巴勒斯坦人死亡，另有多人受傷。報道稱，以軍當天空襲加沙城中心一處公寓樓，造成4人死亡、多人受傷；對加沙地帶中部努賽賴特難民營一輛汽車發動空襲，造成2人死亡、4人受傷。
+
+---
+
+### 2026-07-22 05:32:37  #市場
+
+【中國醫藥控股在美股市場一度暴漲逾2000% 收盤升幅仍近八倍】中國醫藥控股週二在美股市場一度飆升逾2000%，創下紀錄最大漲幅。盤中股價最高達19.19美元，收盤上漲790%，達到2023年9月1日以來最高位，當天成交量為三個月日均值的3643%。
+
+---
+
+### 2026-07-22 05:29:11  #國際
+
+特朗普提名亞當・坎德烏布出任司法部反壟斷司負責人。
+
+---
+
+### 2026-07-22 05:28:51  #公司 #國際
+
+【韓國交易所收緊ETF關鍵詞調整規則，基金變更成分股需提前溝通】據韓國金融投資行業訊息，韓國交易所近日向主要資產管理公司釋出了《關於調整ETF關鍵詞的指導方針》。核心內容是，對於在指數編制方法中透過特定關鍵詞篩選成分股的ETF，任何關鍵詞調整都必須事先與交易所進行協商。交易所指出：“基於關鍵詞的編制方法往往依賴定性判斷，而非定量標準。”並表示：“我們發現了一些指數構成頻繁變動的情況。”交易所特別強調：“變更用於篩選成分股的關鍵詞可能被視為指數計算標準的變更，根據現行規則，這可能觸發退市條件。”此前有報道稱，未來資產全球投資旗下的“TIGER 半導體TOP10”ETF在定期調倉前變更了指數計算標準以更換成分股，引發了業界爭議。
+
+---
+
+### 2026-07-22 05:28:40  #MKT News
+
+【Korea Exchange tightens ETF keyword rules; issuers must consult before changing constituent screens】Korea Exchange (KRX) has told major asset managers they must consult the exchange in advance of any changes to keywords used to screen index constituents for ETFs, market sources said. KRX warned keyword-based indexing often relies on qualitative judgment and cited instances of frequent index turnover, saying changes to constituent-selection keywords may be treated as a change to index calculation methodology and, under current rules, could trigger delisting. The guidance follows industry controversy after Mirae Asset Global Investments’ TIGER Semiconductor TOP10 ETF altered index rules ahead of a scheduled rebalance to replace constituents.
+
+---
+
+### 2026-07-22 05:27:04  #MKT News #WTI #Impact bullish #Brent #DXY
+
+【Iran military warns US strikes on nuclear sites would trigger attacks on US, allied interests in Middle East】Early on the 22nd, Iran's Hatam al-Anbiya Central Command said Washington's threats to strike Iranian nuclear sites and other sensitive centers would be treated as an expansion of regional war. If US forces carry out such strikes, all US and allied interests in the Middle East would be considered targets for forceful attack by the Iranian armed forces.
+
+---
+
+### 2026-07-22 05:25:51  #焦點 #國際
+
+【伊朗軍方：若美攻擊伊核設施 中東地區美方利益都將遭報復】當地時間22日凌晨，伊朗哈塔姆·安比亞中央司令部發表宣告稱，美國威脅要攻擊伊朗的核設施和敏感中心，一旦美軍採取這種行動，伊朗將視其為地區戰爭的擴張，地區內美國及其盟友的所有利益都將成為伊朗武裝部隊強力打擊的目標。
+
+---
+
+### 2026-07-22 05:20:41  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #XAUUSD
+
+【Carney says Ottawa will consider full response if U.S. 50% tariffs on certain Canadian goods are enacted】On the 21st, Canada’s prime minister Carney said Ottawa would consider all response options if proposed U.S. tariffs of 50% on certain Canadian goods are enacted. Carney said he spoke by phone with U.S. President Trump and they agreed to intensify trade talks in the coming weeks; he said Ottawa’s immediate priorities are boosting domestic resilience, encouraging domestic procurement and diversifying international partners.
+
+---
+
+### 2026-07-22 05:20:03  #公司 #市場
+
+【英特爾確認將進一步裁員 股價大漲近9%】英特爾股價週二大漲，此前該公司確認將進一步裁員，以削減成本並調整其關鍵的資料中心部門。英特爾股價上漲8.6%，這家科技公司表示將在資料中心部門(DCG)裁員，但未披露具體人數。這延續了該股今年以來的漲勢，有跡象顯示在執行長陳立武的領導下，英特爾在扭轉頹勢方面取得進展。
+
+---
+
+### 2026-07-22 05:16:17  #國際
+
+【美國駐伊拉克埃爾比勒領館又遭無人機襲擊】伊拉克北部庫爾德自治區（庫區）一名訊息人士21日告訴新華社記者，4架無人機當晚在美國駐伊拉克埃爾比勒領館附近被擊落，暫無人員傷亡報告。近日，美國駐伊拉克埃爾比勒領館頻繁遭遇無人機襲擊。
+
+---
+
+### 2026-07-22 05:15:25  #市場
+
+富時A50期指連續夜盤收漲0.11%，報15179點。
+
+---
+
+### 2026-07-22 05:15:21  #國際
+
+美國防長赫格塞思：從軍事層面來看，伊朗自衝突伊始就完全處於劣勢、遭到壓制。他們的軍力遠不及我方。
+
+---
+
+### 2026-07-22 05:14:25  #Trading Economics #Economy #South Korea #Producer Prices Change #Importance 1
+
+South Korean PPI Remains at Highest Since 2022 — South Korea's producer prices rose 8.6% year-on-year in June 2026, the same pace as in May, which was the strongest increase since July 2022. Manufacturing producer prices climbed 13.2%, led by a 65.8% surge in coal and petroleum products. Prices for computers, electronic and optical equipment rose 24.6%, while chemical products increased 19.2% and basic metal products advanced 16.0%. Meanwhile, prices of agricultural, forestry, and marine products rose 4.8%, supported by a 10.0% increase in livestock prices. Service prices also increased 4.9%, driven by a 35.2% jump in financial and insurance activities, while utility prices rose 1.3%. On a monthly basis, the Producer Price Index was unchanged in June after rising 1.0% in May.
+
+---
+
+### 2026-07-22 05:06:16  #國際
+
+美國防長赫格塞思：這場戰爭並非由我們挑起。伊朗早在47年前就開啟了這場對抗。不是我們開的頭，是他們。
+
+---
+
+### 2026-07-22 05:04:39  #MKT News
+
+South Korea June PPI MoM 0.0% vs 0.8% prior.
+
+---
+
+### 2026-07-22 05:04:35  #MKT News
+
+South Korea June PPI YoY 8.6% vs 8.5% prior.
+
+---
+
+### 2026-07-22 05:04:34  #MKT News #Economic Calendar #Important
+
+South Korea | PPI (MoM) (Jun) | actual 0% | previous 0.8%
+
+---
+
+### 2026-07-22 05:04:28  #MKT News #Economic Calendar #Important
+
+South Korea | PPI (YoY) (Jun) | actual 8.6% | previous 8.50%
+
+---
+
+### 2026-07-22 05:01:20  #市場
+
+【金價漲超1.7%，白銀漲4.2%，紐約銅漲超2.9%】週二（7月21日）紐約尾盤，現貨黃金漲1.76%，報4078.31美元/盎司，亞太盤初微跌至3999.95美元重新整理日低，隨後持續反彈，14:50前後收復4080美元，日內過半時間高位持穩。COMEX黃金期貨漲1.69%，報4083.70美元/盎司。現貨白銀漲4.21%，報58.7980美元/盎司，走勢與金價類似。COMEX白銀期貨漲4.23%，報59.065美元/盎司。COMEX銅期貨漲2.95%，報6.5280美元/磅。現貨鉑金漲2.15%，報1631.15美元/盎司；現貨鈀金漲1.98%，報1281.01美元/盎司。在美股時段交易的費城金銀指數收漲5.35%，報310.17點。在全球市場全天交易的紐約證交所ARCA金礦開採商指數漲4.81%，報2129.29點。在美股時段交易的原材料指數收漲1.45%，報232.06點。在美股時段交易的金屬與礦業指數收漲3.51%，報267.28點。
+
+---
+
+### 2026-07-22 05:00:06  #國際
+
+美國防長赫格塞思：特朗普總統表明，我們不會再打類似伊拉克戰爭、阿富汗戰爭這種得不償失的戰爭，而他也確實做到了。正因如此，我們並不謀求改造伊朗社會，只是秉持現實主義、美國優先原則，確保伊朗永遠無法擁有獲取核彈的途徑，僅此而已。
+
+---
+
+### 2026-07-22 04:58:00  #國際
+
+美國防長赫格塞思：我們不會再發動毫無意義的戰爭，我們無意改造伊朗社會。
+
+---
+
+### 2026-07-22 04:56:23  #國際
+
+美國國家颶風中心（NHC）：預計今晚颶風強度幾乎不會發生變化，週三至週五將逐步減弱。
+
+---
+
+### 2026-07-22 04:55:06  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+According to Iranian state television, Iran's Supreme Joint Military Command said a US attack on Iran's nuclear facilities would be considered 'an escalation of regional war'.
+
+---
+
+### 2026-07-22 04:54:39  #焦點 #國際
+
+伊朗最高聯合軍事司令部表示，如果美國襲擊伊朗核設施，這將是該區域戰爭的升級。
+
+---
+
+### 2026-07-22 04:54:34  #國際
+
+美國國家颶風中心表示，熱帶風暴天氣正沿佛羅里達狹地沿海區域向西蔓延，熱帶風暴觀察預警和警告已向西延伸至路易斯安那州沿海地區。
+
+---
+
+### 2026-07-22 04:53:02  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+Iran's Supreme Joint Military Command said if the United States strikes Iranian nuclear facilities, all US and allied interests in the region would be targeted.
+
+---
+
+### 2026-07-22 04:52:39  #其他
+
+【英國新任首相伯納姆召開首次內閣會議】英國新任首相伯納姆21日主持召開首次內閣會議。伯納姆在內閣會議上表示，本屆政府的核心任務是降低民眾生活成本，所有政策將圍繞為家庭減負展開，以此提振社會信心。此外，伯納姆還要求各部門大臣全面梳理本領域內圍繞降低生活成本可採取的可行措施，並強調政府需隨時準備調整財政支出的優先次序。
+
+---
+
+### 2026-07-22 04:52:34  #MKT News #Market Themes #The Trump Trade
+
+President Trump urged House Republicans to back a budget resolution and to push implementation of the Rescue America Act.
+
+---
+
+### 2026-07-22 04:52:11  #焦點 #國際
+
+伊朗最高聯合軍事司令部稱，若美國襲擊伊朗核設施，美國及其盟友在該地區的所有利益目標都將遭到打擊。
+
+---
+
+### 2026-07-22 04:48:28  #國際
+
+特朗普：感謝所有眾議院共和黨議員，你們支援將《拯救美國法案》的儘可能多的內容納入預演算法案，邁出了關鍵第一步；同時也感謝眾議院議長邁克·約翰遜。我呼籲全體眾議院共和黨議員對這份至關重要的預算決議投下贊成票。我會密切關注此次投票，也希望共和黨人能夠團結一致，防範各類外國勢力干預選舉、杜絕非法移民參與投票，保障選舉安全。
+
+---
+
+### 2026-07-22 04:45:48  #其他
+
+穆迪：阿根廷違約風險大幅回落，支撐評級上調。
+
+---
+
+### 2026-07-22 04:43:18  #其他
+
+加拿大各省將放開省際酒類直接銷售限制。
+
+---
+
+### 2026-07-22 04:40:28  #MKT News #Commodities #Energy #Market Themes #The Trump Trade
+
+Nuclear firms Oklo and X-energy have joined the Trump administration's new reactor construction program, which aims to accelerate power supplies for AI data centers.
+
+---
+
+### 2026-07-22 04:38:21  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Edges Lower on Geopolitical Uncertainty — The Ibovespa inched down to close at 173,325 on Tuesday amid mixed signals over the Middle East conflict. Hopes for diplomacy were boosted by reports that Iran is considering a proposal from mediators for a 10-day ceasefire aimed at paving the way for a lasting peace agreement. However, continued attacks between the US and Iran tempered optimism. Utilities posted losses, with Sabesp down 1.3%. Manufacturers also traded lower, with WEG down 1.5% and Embraer losing 0.8%. Rede D'Or tumbled 4.3% after Congress approved legislation related to the health sector aimed at restructuring the country's healthcare ecosystem. The measure has introduced uncertainty for private hospital operators, which rely on regulatory stability and clear reimbursement rules. Oil prices remained elevated, supporting Petrobras (+1.2%). Vale rebounded 0.6% after retreating in the previous session on lower iron ore prices. Banks advanced on lower bond yields, with Banco do Brasil up 3.5%.
 
 ---
 
@@ -22543,431 +23053,5 @@ FTSE 100 Falls on Monday — The FTSE 100 fell more than 0.5% on Monday, underpe
 ### 2026-07-20 23:20:43  #其他
 
 【10年第7相的伯納姆能否破解英國困局】安迪·伯納姆今天（7月20日）就任英國首相。在就任後的首次公開講話中，伯納姆表示，自己是2016年6月英國舉行公投決定“脫歐”以來的第7任首相，“英國需要向世界證明，英國能夠重歸穩定”。伯納姆在講話中簡要闡述了本屆政府未來的施政重點，承諾新政府將更關注民生，採取措施解決生活水平下降等問題。伯納姆承諾，將建立一套全新的政治與經濟模式，並將於今年晚些時候公佈一項為期十年的國家發展計劃。（CCTV國際時訊）
-
----
-
-### 2026-07-20 23:19:55  #宏觀
-
-【中華人民共和國政府和泰王國政府聯合宣告】應中華人民共和國國務院總理李強邀請，泰王國總理阿努廷·參威拉軍於2026年7月16日至20日對中國進行正式訪問。訪問期間，中華人民共和國主席習近平會見阿努廷總理，國務院總理李強、全國人民代表大會常務委員會委員長趙樂際分別同阿努廷總理會談會見。阿努廷總理還赴上海市出席2026世界人工智慧大會。(新華社)
-
----
-
-### 2026-07-20 23:19:26  #MKT News #SPCX.O
-
-SpaceX (SPCX.O) canceled today's Starlink launch; the rocket and payload remain in a safe state.
-
----
-
-### 2026-07-20 23:18:59  #其他
-
-達美樂披薩首席財務官：業務持續受不利宏觀環境影響，該環境令消費者承壓，且競爭加劇。
-
----
-
-### 2026-07-20 23:18:43  #其他
-
-【英國政府考慮凍結租金以緩解生活成本壓力】英國新任首相安迪·伯納姆表示，為緩解民眾生活成本壓力，政府正在研究包括凍結租金、降低能源賬單和下調公交票價在內的多項措施。政府將於週二公佈相關措施，目前仍在敲定細節。他說：“我們只想做一些能讓民眾切身感受到、且能迅速見效的實事。”當被問及是否考慮在公交票價、能源賬單和房租凍結方面提供援助時，伯納姆回答稱：“我們正在研究所有這些方案，但具體情況將於明天公佈。現在說會採取哪項具體措施還為時過早。”他表示：“這些措施無法解決所有問題，也不能完全消除民眾面臨的壓力，但它們能夠表明政府的施政方向，以及我們確實認真致力於幫助民眾減輕負擔。”
-
----
-
-### 2026-07-20 23:18:33  #國際
-
-達美樂披薩首席財務官：仍預計2026財年美國及國際市場可比銷售額將實現低個位數增長。
-
----
-
-### 2026-07-20 23:17:30  #MKT News
-
-【UK government weighs rent freeze to ease cost-of-living pressure】New prime minister Andy Burnham said the government is studying measures including a rent freeze, cuts to energy bills and lower bus fares to ease cost-of-living pressures. The government will announce measures on Tuesday; details are still being finalised. Burnham said all options were under consideration but it was too early to say which specific measures would be taken, and warned the steps would not solve all problems though they would signal the government’s intent to help households.
-
----
-
-### 2026-07-20 23:17:16  #MKT News
-
-India's Ministry of External Affairs condemned attacks on commercial vessels.
-
----
-
-### 2026-07-20 23:16:28  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-The Russian Defence Ministry said Russian armed forces struck two vessels—a bulk carrier and a dry-cargo ship—carrying supplies to Ukrainian armed forces while en route to the port of Chernomorsk.
-
----
-
-### 2026-07-20 23:16:19  #國際
-
-俄羅斯國防部通報，俄軍打擊了兩艘分別為散貨船和乾貨船的海上船舶，這些船隻當時正向切爾諾莫斯克港運送供烏克蘭軍方使用的物資。
-
----
-
-### 2026-07-20 23:16:02  #其他 #焦點
-
-SpaceX：取消今日星鏈衛星發射計劃，火箭與所載衛星均完好無損。
-
----
-
-### 2026-07-20 23:13:57  #MKT News
-
-Mexican drug lord Ismael "El Mayo" Zambada was sentenced to life in prison in the United States.
-
----
-
-### 2026-07-20 23:13:27  #國際
-
-墨西哥大毒梟伊斯梅爾·"埃爾·梅奧"·桑巴達在美國被判終身監禁。
-
----
-
-### 2026-07-20 23:11:57  #其他
-
-西門子將收購Precision Innovations，以拓展人工智慧驅動的系統級晶片設計探索與最佳化業務。
-
----
-
-### 2026-07-20 23:11:48  #國際
-
-伊朗外長阿拉格齊將出訪巴基斯坦。
-
----
-
-### 2026-07-20 23:11:33  #MKT News #Important
-
-IRNA reports Iran's foreign minister Araghchi will travel to Pakistan.
-
----
-
-### 2026-07-20 23:10:37  #MKT News #GBPUSD #FTSE100
-
-【Burnham to seek flexibility within UK fiscal rules】New UK prime minister Andy Burnham said he will seek to use the flexibility available within existing UK fiscal rules to fund the next budget. Asked whether he would increase borrowing to boost infrastructure investment, he said he would comply with current rules and make full use of any flexibility they permit. He added this would not put the UK economy at risk, said he has not taken such risks in prior roles, and described his approach as cautious. Burnham said he will set out funding sources and financing arrangements clearly in the budget.
-
----
-
-### 2026-07-20 23:08:43  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Crude Holds At $88 — Brent crude oil steadied around $88 per barrel on Monday, hovering at a five-week high, after swinging sharply between gains and losses as traders weighed escalating Middle East tensions against renewed diplomatic efforts. Yemen's Iran-backed Houthi rebels announced a ban on maritime traffic from Saudi Arabia, raising concerns over Red Sea energy shipments, while recent attacks on oil tankers and facilities in Kuwait kept supply risks elevated. At the same time, reports suggested mediators had proposed a 10-day pause in hostilities between the US and Iran to revive their fragile interim peace agreement. Iran also confirmed it had received diplomatic proposals aimed at easing the conflict. Still, shipping through the Strait of Hormuz remained severely disrupted after fresh attacks on commercial vessels. Beyond the Middle East, supply concerns intensified after drone strikes again halted oil loading at Russia's Caspian Pipeline Consortium terminal on the Black Sea.
-
----
-
-### 2026-07-20 23:08:15  #MKT News #Macro & Rates #GBPUSD #Impact bullish
-
-UK 30-year gilt yield climbed 9bp to 5.75%, the highest since May 20.
-
----
-
-### 2026-07-20 23:07:59  #MKT News #Important #Market Regions #Europe & UK #GBPUSD
-
-GBP/USD slid about 20 pips in a short move, now 1.3423.
-
----
-
-### 2026-07-20 23:07:57  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Hovers at 5-Week High — Crude oil steadied around $82.5 per barrel on Monday, hovering at a five-week high, after swinging sharply between gains and losses as traders weighed escalating Middle East tensions against renewed diplomatic efforts. Yemen's Iran-backed Houthi rebels announced a ban on maritime traffic from Saudi Arabia, raising concerns over Red Sea energy shipments, while recent attacks on oil tankers and facilities in Kuwait kept supply risks elevated. At the same time, reports suggested mediators had proposed a 10-day pause in hostilities between the US and Iran to revive their fragile interim peace agreement. Iran also confirmed it had received diplomatic proposals aimed at easing the conflict. Still, shipping through the Strait of Hormuz remained severely disrupted after fresh attacks on commercial vessels. Beyond the Middle East, supply concerns intensified after drone strikes again halted oil loading at Russia's Caspian Pipeline Consortium terminal on the Black Sea.
-
----
-
-### 2026-07-20 23:07:49  #市場
-
-英鎊兌美元重新整理日低，跌0.2%暫報1.3427。
-
----
-
-### 2026-07-20 23:07:39  #市場 #焦點
-
-英國30年期國債收益率上漲9個基點至5.75%，為2020年5月以來最高水平。
-
----
-
-### 2026-07-20 23:07:06  #其他
-
-靛藍航空與CFM國際簽署諒解備忘錄，為採購超千臺LEAP-1A發動機的創紀錄合作協議鋪路。
-
----
-
-### 2026-07-20 23:06:21  #MKT News #AIR.PA #Impact bullish
-
-Mitsui Sumitomo Financial Leasing has agreed to buy 65 Airbus A321neo and 35 A320neo aircraft, totaling 100 narrow-body jets.
-
----
-
-### 2026-07-20 23:06:03  #其他
-
-【英國內閣改組大幕拉開，多位大臣相繼辭職】英國住房大臣裡德、副首相拉米、財政大臣裡夫斯、商務大臣凱爾相繼辭職。其中裡夫斯據悉收到政府的另一份工作邀請，但已拒絕。此前英國執政黨工黨新任黨首安迪·伯納姆獲國王任命成為新一任首相，並被授權組建新一屆內閣。英國衛報政治主編髮文指出，（英國內閣改組的）序幕已經拉開。基爾·斯塔默的親密盟友史蒂夫·裡德成為首位離職的內閣大臣。但他在離開之際還不忘就工黨的（不）忠誠問題發出臨別抨擊。“基爾·斯塔默任命我進入內閣，以此展現了他的信任與忠誠。我選擇回饋這份忠誠，對此我毫不抱歉。這本應是一個良性運轉的團隊所應有的默契。我只希望，那些此前未曾對基爾表現出忠誠的人，如今能夠將這份忠誠轉向你。”
-
----
-
-### 2026-07-20 23:06:02  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100
-
-【UK cabinet reshuffle under way as multiple ministers resign】Housing Secretary Steve Reed, Deputy Prime Minister David Lammy, Chancellor Rachel Reeves and Business Secretary Kyle have resigned. Reeves reportedly declined an alternative government post offered to her. The King has appointed Labour leader Andy Burnham as prime minister and authorised him to form a new cabinet. Reed, described as a close ally of Keir Starmer, was the first to leave and on departure attacked perceived disloyalty within the party, saying Starmer had appointed him as a show of trust which he repaid and urging those who had not shown loyalty to Starmer to shift it to Burnham.
-
----
-
-### 2026-07-20 23:05:45  #MKT News #AF.PA #Impact bearish
-
-Air France suspends flights to and from Riyadh through July 24 and to and from Dubai through July 27.
-
----
-
-### 2026-07-20 23:05:21  #國際
-
-【伊朗稱打擊多處美軍事目標 最新畫面公佈】當地時間7月20日，伊朗伊斯蘭革命衛隊釋出當天打擊多處美軍事目標的影片畫面。第一段影片畫面顯示，20日凌晨，伊朗發射導彈打擊美軍位於約旦和科威特的目標。第二段影片畫面顯示，伊朗海軍同時從三個方向對美軍發動猛烈打擊。（央視新聞）
-
----
-
-### 2026-07-20 23:05:02  #其他 #焦點
-
-三井住友金融租賃向空客採購65架A321NEO、35架A320NEO客機。
-
----
-
-### 2026-07-20 23:04:46  #其他
-
-法航暫停往返迪拜的航班，直至7月27日（含當日）。
-
----
-
-### 2026-07-20 23:04:18  #其他
-
-法航暫停往返利雅得的航班至7月24日（含當日）。
-
----
-
-### 2026-07-20 23:03:50  #央行 #英國央行
-
-【英國10年期國債收益率升至自7月14日以來最高位】英國10年期國債收益率升至自7月14日以來最高位，達到5.025%，盤中上漲7個基點。
-
----
-
-### 2026-07-20 23:03:49  #Trading Economics #Economy #Switzerland #Government Bond 10Y #Importance 0
-
-Swiss 10-Year Yield Near 2-Month High — Switzerland's 10-year government bond yield rose above 0.45%, further increasing to a near two-month high, as escalating tensions in the Middle East lifted inflation expectations. Oil prices surged amid intensifying hostilities between the US and Iran, raising energy costs and prompting markets to reassess the outlook for inflation, economic growth, and monetary policy. The Swiss National Bank left its key policy rate unchanged at 0% at its latest meeting, expecting inflation to remain little changed in the medium term. However, meeting minutes highlighted that policymakers see rising geopolitical tensions as a near-term inflation risk. The SNB also reiterated its willingness to intervene in the foreign exchange market to counter excessive franc appreciation and preserve price stability, while the IMF urged the central bank to remain cautious should a stagflation scenario emerge.
-
----
-
-### 2026-07-20 23:03:40  #其他
-
-英國財政大臣裡夫斯獲邀出任政府其他職務，但她予以拒絕。
-
----
-
-### 2026-07-20 23:03:25  #其他
-
-美元指數DXY突破101，日內漲0.25%。
-
----
-
-### 2026-07-20 23:03:19  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
-
-UK 10-year gilt yield rose to 5.025%, the highest since July 14, up 7 bps intraday.
-
----
-
-### 2026-07-20 23:03:13  #國際
-
-市場訊息：以色列高階官員表示，以色列國防軍將於當地時間週二從黎巴嫩南部的試點區域撤出。
-
----
-
-### 2026-07-20 23:03:09  #MKT News
-
-UK Chancellor Reeves was offered another government post but declined.
-
----
-
-### 2026-07-20 23:03:02  #市場
-
-英國10年期國債收益率升至7月14日以來新高，報5.025%，單日上漲7個基點。
-
----
-
-### 2026-07-20 23:02:25  #其他
-
-巴林內政部表示，巴林第五次響起警報。
-
----
-
-### 2026-07-20 23:01:52  #MKT News #Market Regions #Europe & UK
-
-UK Prime Minister Burnham said he will use all flexibility available within the UK's fiscal rules.
-
----
-
-### 2026-07-20 23:01:06  #MKT News #GBPUSD #Impact bullish #FTSE100
-
-UK Prime Minister Burnham said he would never take risks with the economy and reiterated his commitment to adhering to fiscal rules.
-
----
-
-### 2026-07-20 23:00:57  #MKT News #Important #Market Regions #Greater China #Commodities #Energy #WTI #Impact bearish #Brent
-
-As of the 23:00 close, China's main futures contracts were mostly lower. Low-sulfur fuel oil (LU) slid nearly 3%; coking coal, p-xylene, PTA and coke fell over 2%; bottle-grade PET chips dropped about 2%; short fiber and fuel oil eased more than 1%. Soybean meal, rapeseed meal and Soybean No.2 rose over 1%.
-
----
-
-### 2026-07-20 23:00:55  #央行 #英國央行
-
-英國新任首相伯納姆表示，他將在英國財政規則範圍內運用“任何靈活性”。
-
----
-
-### 2026-07-20 23:00:52  #MKT News
-
-UK Prime Minister Burnham pledged to use "political capital" to address social care issues.
-
----
-
-### 2026-07-20 23:00:47  #MKT News #GBPUSD #Impact mixed #FTSE100
-
-UK Prime Minister Burnham said he is considering adjusting the income threshold for the personal tax allowance, saying the change would have significant impact.
-
----
-
-### 2026-07-20 23:00:34  #其他
-
-【英國前財政大臣蕾切爾·裡夫斯發文告別 回顧執政成就並祝福新政府 】隨著英國新任首相安迪·伯納姆正式組建新一屆內閣，剛剛卸任的英國財政大臣蕾切爾·裡夫斯（Rachel Reeves）在社交媒體上發表長文，深情回顧了自己擔任財政大臣期間的施政成績，並對繼任者表達了祝福。裡夫斯在文中表示，擔任財政大臣是她一生中的榮幸。她指出，在過去兩年裡，工黨政府所作出的選擇，使得當下的英國經濟變得更加強大、公平且更具韌性。她強調，國家已經恢復了穩定，實現了投資落地，並正在推進經濟改革。裡夫斯回憶道，她在就任財政大臣時曾承諾，將以“普通工薪階層民眾的生活是否得到改善”作為衡量自己任期成敗的標準。她自豪地表示，這一目標已經實現。此外，她還特別寄語每一位年輕女性與女孩，希望她在任內的經歷能夠向她們證明，在追求抱負、希望與夢想時不應設有任何“天花板”。最後，裡夫斯向繼任者安迪·伯納姆及其新一屆內閣致以最美好的祝願。她表示，自己將全力支援新政府，並承諾將繼續發揮自己的作用，協助工黨政府落實國家亟需的變革。
-
----
-
-### 2026-07-20 23:00:19  #其他
-
-伯納姆稱，他將在英國財政規則框架內動用一切可用靈活調整空間。
-
----
-
-### 2026-07-20 23:00:05  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Appreciates by 0.81% — Top currency gainers are Brazilian Real (0.81%), South Korean Won (0.52%), Mexican Peso (0.30%) and Dollar Index (0.23%). Biggest losers are Swedish Krona (-0.47%), Swiss Franc (-0.35%), Norwegian Krone (-0.33%), Euro (-0.29%), British Pound (-0.10%) and Japanese Yen (-0.09%).
-
----
-
-### 2026-07-20 23:00:02  #市場
-
-【夜盤期貨收盤】低硫燃料油連續跌2.95%，焦煤連續跌2.73%，PTA連續跌2.29%，焦炭連續跌2.23%，液化石油氣連續跌1.96%。
-
----
-
-### 2026-07-20 23:00:00  #公司 #觀點
-
-摩根大通將哈特福德保險集團的目標股價從每股149.00美元上調至每股152.00美元道，維持哈特福德保險的“中性”評級。
-
----
-
-### 2026-07-20 22:59:29  #MKT News #Important
-
-Bahrain's Interior Ministry said the national alert siren sounded for the fifth time.
-
----
-
-### 2026-07-20 22:58:47  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100 #Impact mixed
-
-UK Chancellor of the Exchequer Reeves resigns.
-
----
-
-### 2026-07-20 22:58:23  #其他
-
-【華為超充上線上汽大眾充電地圖】7月20日，華為超充官宣上線上汽大眾充電地圖，首批上線574座城市超充站和127座高速超充站，新增超1萬隻華為超充槍。
-
----
-
-### 2026-07-20 22:57:56  #其他
-
-民調顯示，英國首相伯納姆將難以贏回改革黨選民。
-
----
-
-### 2026-07-20 22:57:35  #資料
-
-Monex表示，加拿大較低的CPI應該會消除加息預期。
-
----
-
-### 2026-07-20 22:56:52  #其他
-
-據法律網站資料，波音 737 MAX 相關案件中的投資者集體訴訟資格被駁回  。
-
----
-
-### 2026-07-20 22:56:45  #MKT News #Important #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-Axios reported senior Israeli officials said the Israel Defense Forces will withdraw from a pilot area in southern Lebanon on Tuesday local time.
-
----
-
-### 2026-07-20 22:54:58  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #XAUUSD
-
-US dollar index (DXY) crossed above 101, up 0.25% intraday.
-
----
-
-### 2026-07-20 22:54:51  #MKT News #GBPUSD #Impact bearish #FTSE100
-
-Sky News reported UK business secretary Kail has been dismissed.
-
----
-
-### 2026-07-20 22:54:25  #國際
-
-【韓國官員：韓國必須自主研發本土前沿AI大模型】韓國科學技術部長官Bae Kyung-hoon週一表態：前沿人工智慧大模型或將演變為堪比核武器的地緣戰略資產，並重申韓國必須自主研發本土前沿AI大模型。 就在一個月前，美國政府以安全為由，突然封禁境外使用者呼叫Anthropic的Fable、Mythos兩款頂尖大模型。 BaeKyung-hoon恰逢就任部長一週年，他在相關會議上指出：“前沿層級AI大模型愈發具備核武器般的戰略屬性，部分國家想要掌控這類頂級AI系統的訴求只會愈發強烈。” 他補充道：“我們正在制定專項方案，並積極協調政府內部各相關部門。韓國必須迎難而上，自研前沿AI大模型，以此打造具備全球水準的人工智慧競爭力。”
-
----
-
-### 2026-07-20 22:54:25  #其他
-
-市場訊息：英國商務大臣凱爾遭解職。
-
----
-
-### 2026-07-20 22:53:39  #其他
-
-【英國前副首相兼外交大臣戴維·拉米發文告別內閣 回顧執政成就並表態支援新政府】當地時間7月20日，隨著英國新任首相安迪·伯納姆組建新一屆內閣，剛剛卸任的英國前副首相兼外交大臣戴維·拉米（David Lammy）在社交媒體上發表長文，深情回顧了自己從政以來的經歷與執政成就，並對新政府表達了祝福。拉米在文中表示，能夠以托特納姆（Tottenham）普通家庭出身的背景，在基爾·斯塔默（Keir Starmer）政府中擔任外交大臣、司法大臣以及英國首位黑人副首相，是他一生中最大的榮幸。他對自己在野黨和執政期間取得的成就感到無比自豪。拉米坦言，他本會非常自豪地繼續在內閣任職，但新任首相有權組建自己的團隊。他祝願安迪·伯納姆及新一屆內閣取得一切成功。最後，拉米承諾將繼續為托特納姆的偉大人民服務，在後座議員席上支援工黨政府，並竭盡全力在下屆大選中擊敗英國改革黨（Reform）。
-
----
-
-### 2026-07-20 22:53:39  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100 #DXY #Impact bullish
-
-UK Deputy Prime Minister Lammy announced his resignation. Earlier, Housing Secretary Reed had also resigned.
-
----
-
-### 2026-07-20 22:51:55  #MKT News #Market Themes #China EV Leaders
-
-Evergrande Auto said independent non-executive director Xie Wu has resigned.
-
----
-
-### 2026-07-20 22:50:56  #其他
-
-英國副首相戴維・拉米辭職。
-
----
-
-### 2026-07-20 22:50:39  #其他
-
-【廣西貴港市釋出暴雨紅色預警】廣西壯族自治區貴港市氣象臺2026年7月20日20時04分將覃塘區、港北區、港南區暴雨橙色預警訊號提升為紅色：過去1小時，覃塘區樟木鎮已出現60毫米的強降雨，目前強降雨雲團正緩慢東移，強度維持，預計未來3小時內覃塘區、港北區、港南區大部鄉鎮仍將有30到60毫米，局地80毫米以上強降雨，山洪地質災害、城鄉積澇氣象風險大，建議加強災害易發區和隱患點、山塘水庫及堤防等的巡查防範。（央視新聞）
-
----
-
-### 2026-07-20 22:50:17  #其他
-
-恒大汽車：謝武辭任獨立非執行董事。
-
----
-
-### 2026-07-20 22:50:14  #國際
-
-美國國家颶風中心表示，熱帶低氣壓結構正增強，已對墨西哥灣沿岸部分地區釋出新的預警。
-
----
-
-### 2026-07-20 22:48:58  #MKT News #Important
-
-Iran said a US airstrike hit Shiraz and caused no casualties, Fars News Agency reported.
-
----
-
-### 2026-07-20 22:48:50  #其他
-
-【三大亮點看懂工業半年報 我國智慧算力規模翻番】2026年上半年工業和資訊化發展“半年報”釋出。今年上半年高技術製造業領跑，智慧算力規模同比翻倍，這份成績單亮點頻出，其中有三項關鍵資料與趨勢尤為值得關注。 亮點一：工業“壓艙石”作用凸顯 上半年規上工業增加值同比增長5.4%，工業對經濟增長貢獻率超35%，41個大類行業中32個保持增長。前5個月規模以上工業企業利潤總額同比增長18.8%，營業收入利潤率5.56%、為2024年以來月度累計最高水平。 亮點二：新動能引領經濟發展向新向優 資料顯示，規模以上裝備製造業、高技術製造業增加值分別同比增長9.3%和13.3%。這不僅是量的擴張，更是“向新向優”質效提升的體現。 亮點三：“以價換量”轉向“以智取勝”  四足機器人佔全球銷量近70%，人形機器人整機400餘款、超全球半數。1至5月造船新接訂單佔全球81.2%，穩居首位。人工智慧、半導體、新能源、生物醫藥等領域，湧現一批全球獨角獸企業，在國際標準研製、產業治理等方面積極貢獻“中國方案”。（央視財經）
 
 ---
