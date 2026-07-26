@@ -1,7 +1,28 @@
 {
   "date": "2026-07-27",
-  "count": 138,
+  "count": 140,
   "items": [
+    {
+      "id": "mkt:019fa08b-a2a0-7aab-8e9c-c5ef25ad290a",
+      "time": "2026-07-27 06:28:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Pentagon: 642 U.S. military casualties in Iran conflict, 18 killed】Pentagon-affiliated Defense Casualty Analysis System updated its tally on the 26th, reporting 642 U.S. military casualties, including 18 deaths, since Feb. 28 when the U.S. and Israel jointly launched large-scale military operations against Iran."
+    },
+    {
+      "id": "5008747",
+      "time": "2026-07-27 06:27:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金正恩參謁中國人民志願軍烈士陵園】總檯記者7月27日獲悉，在朝鮮祖國解放戰爭勝利73週年之際，朝鮮勞動黨總書記、國務委員長金正恩於7月26日前往並參謁位於平安南道檜倉郡的中國人民志願軍烈士陵園，向志願軍烈士們表示崇高敬意。（央視新聞）"
+    },
     {
       "id": "5008746",
       "time": "2026-07-27 06:24:50",
