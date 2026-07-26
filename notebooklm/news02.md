@@ -1,7 +1,131 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-27 06:06:41_
-_本檔包含 3900 則快訊，約 683654 字_
+_更新時間：2026-07-27 07:09:26_
+_本檔包含 3861 則快訊，約 683289 字_
+
+---
+
+### 2026-07-24 15:09:43  #其他
+
+小鵬汽車：小鵬MONA M03 Ultra SE 版本下週起開啟提前交付，由八月提前至七月底，比計劃提早近一個月。
+
+---
+
+### 2026-07-24 15:09:25  #Trading Economics #Markets #Commodity #Importance 0
+
+Soybeans Near May 2024 High — Soybean futures climbed toward $12.5 per bushel, approaching a break above their highest level since May 2024 as strong export demand, higher crude oil prices, and mounting weather concerns continued to underpin the market. USDA reported multiple soybean export sales to China this month, including 340,000 metric tons and 264,000 metric tons, alongside 256,634 tons to Mexico, highlighting robust overseas demand for US supplies. Meanwhile, crude oil prices remained elevated near $100 per barrel amid escalating tensions in the Middle East, improving the outlook for soybean oil demand in biofuel production. Weather risks also supported prices as hot and dry conditions in parts of Europe and the Black Sea region raised concerns over global crop prospects, while traders continued to monitor US weather during the key pod-setting stage for soybean development.
+
+---
+
+### 2026-07-24 15:08:53  #MKT News #Important #CNH #Impact bullish
+
+【Ministry of Agriculture and Rural Affairs: comprehensive hog capacity controls showing initial effects】At a July 24 State Council Information Office briefing, Vice Minister Zhang Xingwang said comprehensive measures to control hog production capacity have shown initial effects; the breeding sow herd has fallen to 37.8 million head, returning to the green, reasonable range for capacity control.
+
+---
+
+### 2026-07-24 15:08:50  #宏觀 #行業 #其他 #焦點
+
+【農業農村部：生豬產能綜合調控效果初步顯現】7月24日，農業農村部副部長張興旺在國新辦新聞釋出會上表示，生豬產能綜合調控效果初步顯現，能繁母豬存欄量目前調減到3780萬頭，重新回到產能調控的綠色合理區間。（證券時報）
+
+---
+
+### 2026-07-24 15:08:36  #Trading Economics #Economy #Czech Republic #Business Confidence #Importance 1
+
+Czechia Business Confidence Rises in July — The business confidence indicator in the Czech Republic rose to 100.2 in July 2026 from 99.8 in the previous month, reflecting improved sentiment across all sectors. Confidence in industry edged up to 97.8 from 97.5 in June, marking the strongest reading in four months. Meanwhile, construction confidence increased to 113.2 from 111.4, while trade sentiment strengthened to 93.3 from 91.9. Confidence in the services sector also improved slightly, with the indicator rising to 102.4 from 102.2.
+
+---
+
+### 2026-07-24 15:08:35  #MKT News #Important #EURUSD #Impact bearish #DAX #DXY #Impact bullish
+
+German Chancellor MERZ said further cabinet changes are expected and will take more time.
+
+---
+
+### 2026-07-24 15:08:34  #公司 #市場
+
+阿爾米拉股份有限公司股價在公佈上半年業績後上漲7.6%，目前有望創下2025年5月以來最大單日漲幅。
+
+---
+
+### 2026-07-24 15:08:28  #其他
+
+德國總理默茨：未來內閣將有更多變動，這需要更多時間。
+
+---
+
+### 2026-07-24 15:08:01  #MKT News
+
+【China summer grain output tops 300 billion jin for first time; meat and seafood supplies rise】China’s Agriculture Ministry said summer grain output reached 301.49 billion jin (≈150.7 mln tonnes), the first time it has exceeded 300 billion jin, despite widespread late sowing and multiple harvest-period rains. Summer oilseed harvest was also strong. In 1H national pork, beef, mutton and poultry production totaled 50.5 mln tonnes, up 4.3% YoY; aquatic product output was 35.12 mln tonnes, up 4.4% YoY. Vegetable and fruit supplies remained stable. Measures to curb pig capacity are beginning to show: breeding sow stock fell to 37.8 mln head, returning to a green, reasonable range.
+
+---
+
+### 2026-07-24 15:07:55  #公司
+
+【捷豹路虎（中國）投資有限公司、捷豹路虎（寧波）貿易有限公司召回部分進口汽車】日前，捷豹路虎（中國）投資有限公司、捷豹路虎（寧波）貿易有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。
+
+一、捷豹路虎（中國）投資有限公司
+
+召回編號S2026M0079V：召回2018年4月11日至2020年7月13日生產的部分進口捷豹I-Pace汽車，共計854輛。
+
+本次召回範圍內車輛的動力電池可能出現熱過載，極端情況下導致動力電池起火，存在安全隱患。
+
+捷豹路虎（中國）投資有限公司自即日起為召回範圍內車輛實施階段性措施：升級電池能量控制模組（BECM）軟體，該軟體將車輛的充電上限設定為90%並監測動力電池執行狀態，當軟體監測出現預警提示時，將為車輛免費更換動力電池模組，以保證車輛正常安全行駛。捷豹路虎技術團隊正在開發進一步的解決方案，屆時，將為召回範圍內的車輛實施該方案，以消除安全隱患。
+
+二、捷豹路虎（中國）投資有限公司、捷豹路虎（寧波）貿易有限公司
+
+召回編號S2026M0080V：自2026年8月8日起，召回2020年12月7日至2026年5月7日期間生產的部分進口路虎攬勝、路虎發現汽車，共計76422輛。
+
+召回編號S2026M0081V：自2026年8月8日起，召回2020年1月13日至2026年4月24日期間生產的部分進口路虎衛士汽車，共計83810輛。
+
+本次召回範圍內的車輛，由於設計原因，方向盤遊絲連線到駕駛員安全氣囊的接頭可能出現微動腐蝕，造成駕駛員安全氣囊電路的電阻增加，觸發輔助約束系統警告燈點亮，可能導致駕駛員安全氣囊無法正常展開，存在安全隱患。
+
+---
+
+### 2026-07-24 15:07:33  #Trading Economics #Economy #Spain #Producer Prices Change #Importance 1
+
+Spain Producer Inflation Slows to 7% in June — Producer prices in Spain rose 7% year-on-year in June 2026, easing from a 10.5% jump in the previous month. Cost slowed for energy (14.3% vs 28.5% in May), due to lower prices in electricity production, transmission and distribution and a decline in oil refining prices; and consumer goods (1% vs 1.3%). On the other hand, prices accelerate for intermediate goods (6.6% vs 6.1%) and capital goods (2.5% vs 2.3%). Excluding energy, producer inflation picked up to 3.6% from 3.4% in the prior month. On a monthly basis, producer prices showed no growth, after a 1% increase in May.
+
+---
+
+### 2026-07-24 15:07:28  #MKT News #Market Regions #Greater China #Copper #Impact bullish #CNH #Impact mixed #Hang Seng Index
+
+【Ministry of Agriculture and Rural Affairs says central finance allocates 177 bln yuan to support industry employment assistance and improve development conditions】At a July 24 State Council Information Office briefing on 1H 2026 rural economic performance, the Ministry of Agriculture and Rural Affairs said this year is the first year of normalized assistance and that monitoring mechanisms and targeted one-household-one-policy measures have been strengthened. Central government has allocated 177 bln yuan in regular assistance funds, prioritizing development-led support for industry employment and improvements to development conditions in underdeveloped areas.
+
+---
+
+### 2026-07-24 15:07:04  #公司
+
+【風暴導致SpaceX星艦第13次試飛再推遲 週五衝擊收官亞軌道任務】受伯莎熱帶風暴帶來的天氣影響，SpaceX取消了原定於當地時間週四進行的星艦第13次試飛發射計劃，將任務推遲至週五執行。該公司在X平臺上確認了此次延期，並表示：“受天氣條件限制，星艦第13次試飛現調整目標時間為7月24日（週五）。本次試飛一項核心目標是，在箭體上升至更高動壓區間時，從地面獲取星艦隔熱盾的清晰影像，而今日的天氣狀況無法完成該項拍攝。”本次第13次試飛是星艦飛船與超重助推器V3版本繼5月第12次試飛首飛後的第二次升空。本次任務搭載20顆量產版第三代星鏈（Starlink V3）運營衛星，這是SpaceX首次在星艦試飛中搭載正式服役衛星，而非以往的質量模擬配重體。其中6顆衛星搭載了攝像裝置，可在上升階段從另一視角對隔熱盾進行觀測，為工程師提供除地面拍攝（本次天氣受阻）之外的第二套資料來源。 若週五發射嘗試順利完成，第13次試飛或將是該專案最後一次亞軌道測試。SpaceX已規劃在第14次試飛直接挑戰入軌軌道級飛行。
+
+---
+
+### 2026-07-24 15:07:03  #MKT News #XPEV.O #Impact bearish #Hang Seng Index #CSI300
+
+【Zhaoqing Xpeng New Energy Investment Co recalls Xpeng X9 vehicles】Zhaoqing Xpeng New Energy Investment Co filed a recall plan with the State Administration for Market Regulation (SAMR) under recall ID S2026M0082V. Effective Aug 28, 2026, the recall covers 33,473 Xpeng X9 vehicles produced between Aug 8, 2023 and Aug 11, 2025. A manufacturing process fluctuation reduced the airtightness of the front air springs; prolonged use in high-temperature, high-humidity conditions can cause slow air leaks that trigger a fault lamp and text warning. In extreme cases the leak may impair vehicle handling, creating a safety hazard.
+
+---
+
+### 2026-07-24 15:06:57  #宏觀
+
+【夏糧產量首超3000億斤！農業農村經濟執行穩中向好】國務院新聞辦今天舉行新聞釋出會，農業農村部有關負責人表示，今年上半年農業農村經濟執行保持穩中向好勢頭，為國民經濟延續總體平穩、向新向優態勢提供有力支撐。夏糧喜獲豐收。夏糧生產克服大面積晚播、收穫期多輪降雨等影響，產量達到3014.9億斤，首次突破3000億斤，實現全年糧食生產首戰告捷；夏收油料也再獲豐收。秋糧種植面積預計穩中略增，在田作物長勢總體正常，奪取全年糧食豐收有較好基礎。（央視新聞）
+
+---
+
+### 2026-07-24 15:06:43  #Trading Economics #Economy #Hungary #Unemployment Rate #Importance 1
+
+Hungary Jobless Rate Unchanged at 4.5% in April–June — The unemployment rate in Hungary stood at 4.5% in the period from April to June 2026, unchanged from the corresponding period a year earlier. The number of unemployed individuals declined by 0.4 thousand from a year earlier to 218 thousand. Of the total unemployed, 106 thousand were men, with an unemployment rate of 4.1%, while 112 thousand were women, with an unemployment rate of 4.9%. Moreover, the average time spent looking for a job was 12.5 months. Among unemployed individuals, 36.7% had been seeking work for less than three months, while 28.0% had been looking for work for 4–11 months. The proportion of those searching for work for more than a year increased by 3.6 percentage points to 35.3%. Meanwhile, the number of employed persons decreased by 28 thousand year-on-year to 4.633 million. Employment among men increased by 1 thousand to 2.473 million, while employment among women decreased by 29 thousand to 2.160 million.
+
+---
+
+### 2026-07-24 15:06:35  #其他
+
+【農業農村部：中央財政安排1770億元支援產業就業幫扶和改善發展條件】今天（7月24日）下午，國新辦舉行新聞釋出會，介紹2026年上半年農業農村經濟執行情況。相關負責人介紹，今年是常態化幫扶的第一年，各相關部門在保持政策總體穩定的前提下適度調整最佳化，基本構建起常態化幫扶政策體系。持續完善監測幫扶機制，“一戶一策”制定落實針對性幫扶措施。以開發式幫扶為主，中央財政安排常態化幫扶資金1770億元，重點支援產業就業幫扶和欠發達地區改善發展條件。
+
+---
+
+### 2026-07-24 15:06:35  #MKT News #Market Regions #Greater China #Market Themes #Chip Wars #SSE Composite #Impact bearish #SZSE Component #CSI300
+
+【A-shares close: Shanghai Composite down 1.61%; memory-chip sector active】China A-shares closed lower: Shanghai Composite -1.61%, Shenzhen Component -2.47%, ChiNext -2.65%. Gold miners plunged—Zhaojin Gold down >8%; Sichuan Gold and Hunan Baiyin off >7%. Minor metals weakened; Dongfang Zirconium down >9%. Innovative-drug names Zhenbaodao and Harbin Pharmaceutical hit limit-downs. Coal miners fell; Dayou Energy hit limit-down. Power, compute, AI corpus, internet services, cross-border payments, planting, new consumption and oil & petrochem were among the heaviest decliners. Memory-chip stocks were active: Zhichun Technology hit the daily limit, Zhongke Feice rose ~7%. Military sector saw pockets of strength; Changcheng Military hit limit-up. Shanghai-Shenzhen turnover RMB 1.93 trillion, down ~RMB 264.2 billion versus the prior session. Market breadth ~500 advancers versus ~4,900 decliners.
 
 ---
 
@@ -23170,347 +23294,5 @@ Taiwan Stock Exchange Weighted Index (TAIEX) closed up 25.03 points, or 0.06%, a
 ### 2026-07-23 13:36:17  #宏觀 #公司 #市場 #央行 #國際
 
 【槓桿ETF被限 韓國散戶湧向高風險差價合約】韓國金融服務委員會、財政部和韓國央行7月16日舉行聯合會議後決定，收緊韓國單一股票槓桿交易保證金要求，最低保證金從1000萬韓元提高至3000萬韓元，且僅認可現金作為保證金。然而，追逐風險的散戶投資者正湧向差價合約（CFDs）。根據韓國金融投資協會的資料，截至週一（7月20日），韓國綜合KOSPI指數的CFDs的持有量在過去一年中躍升了近三分之二，達到約3.3萬億韓元（22億美元）接近峰值，它們的槓桿率可能高達2.5倍。在單一股票層面，過去一年的流量追蹤了市場的明星股：SK海力士的CFDs的持有量飆升了近2500%，達到2350億韓元。三星電子的持股量躍升了五倍，達到2170億韓元。CFDs是一種以資產價格變化差額進行結算的金融衍生品，交易者無需實際持有標的資產即可參與市場漲跌，被廣泛應用於股票、外匯、指數、大宗商品以及加密貨幣市場，並通常結合槓桿機制放大交易敞口。
-
----
-
-### 2026-07-23 13:36:11  #MKT News #Market Themes #China Tech Giants #09888.HK #Impact bullish
-
-Baidu (09888.HK) rose as much as 4% in afternoon trade, trimming gains to 2.59%.
-
----
-
-### 2026-07-23 13:35:46  #其他
-
-【“太空光伏工作組”將成立 擬構建太空光伏領域標準體系框架】為補齊我國太空光伏領域標準空白，規範技術研發、試驗驗證與工程應用，推動太空光伏產業規範化、高質量、體系化發展，中國材料與試驗標準化委員會建築材料標準化領域委員會太陽能光伏系統應用標準化技術委員會（CSTM/FC03/TC22）擬正式籌備成立太空光伏工作組。工作組主要職責包括開展太空光伏領域國內外標準現狀、技術現狀、產業需求調研，構建領域標準體系框架；圍繞太空光伏極端環境測試、可靠性評價、在軌驗證、系統整合等關鍵技術開展技術研討與課題研究；推動太空光伏先進技術、測試方法、創新成果的標準化轉化與行業推廣應用等。
-
----
-
-### 2026-07-23 13:35:13  #市場
-
-臺灣加權股價指數收盤變動不大，報44,850.81。
-
----
-
-### 2026-07-23 13:34:33  #國際
-
-伊朗襲擊了位於約旦的美國導彈防禦系統和雷達。
-
----
-
-### 2026-07-23 13:33:39  #市場
-
-【腦機介面概念異動拉昇 創新醫療直線漲停】午後腦機介面概念異動拉昇，創新醫療直線漲停，三博腦科、塞力醫療、南京熊貓、愛朋醫療、美好醫療等跟漲。
-
----
-
-### 2026-07-23 13:31:36  #國際
-
-韓國KOSPI指數向上觸及7100點，日內漲4.48%。
-
----
-
-### 2026-07-23 13:31:29  #MKT News #Important #KOSPI #Impact bullish
-
-South Korea's KOSPI rose to 7,100, up 4.48% intraday.
-
----
-
-### 2026-07-23 13:31:12  #MKT News
-
-Sources said Indonesian sovereign wealth fund Danantara is exploring issuance of at least $500m of long-dated U.S.-dollar bonds.
-
----
-
-### 2026-07-23 13:30:05  #MKT News
-
-Korea Exchange triggered the automated trading-pause mechanism for the KOSDAQ.
-
----
-
-### 2026-07-23 13:29:55  #公司 #國際
-
-【雷諾集團：上半年全球銷量達116萬輛】據雷諾集團訊息，2026年上半年，雷諾集團全球銷量累計達到1,165,133輛（同比下降0.4%）。在歐洲市場，集團乘用車及輕型商用車銷量達821,092輛（-1.3%）。雷諾品牌銷量達528,849 輛（+2.6%），穩居歐洲市場第二。達契亞（Dacia）品牌乘用車銷量達到284,021輛（-8.7%）。Alpine品牌乘用車銷量達到8,222（+67.6%）。2026年上半年，歐洲市場電動化車型銷量佔集團銷量的52.0%，提升8.2個百分點，其中純電動車型（BEV）佔比為18.8%。下半年，雷諾Trafic Van E-Tech、面向拉丁美洲的雷諾Niagara、搭載全新混動動力總成的達契亞Sandero、全新達契亞Spring、達契亞 Striker以及Alpine A390 GTS將陸續釋出。
-
----
-
-### 2026-07-23 13:27:27  #焦點 #國際
-
-韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化買盤。
-
----
-
-### 2026-07-23 13:27:11  #國際
-
-美軍週四清晨空襲了伊朗西部基亞爾地區。
-
----
-
-### 2026-07-23 13:26:55  #MKT News #005380.KS
-
-Hyundai Motor says it does not plan to revise its 2026 operating profit margin target.
-
----
-
-### 2026-07-23 13:26:33  #其他
-
-現代汽車：不打算調整2026年營業利潤率目標。
-
----
-
-### 2026-07-23 13:25:19  #市場 #焦點
-
-南向資金淨賣出額達20億港元。
-
----
-
-### 2026-07-23 13:24:48  #MKT News #005380.KS
-
-Hyundai Motor plans to normalize incentive spending in H2.
-
----
-
-### 2026-07-23 13:24:29  #MKT News #Market Regions #Wall Street (US) #Europe & UK #005380.KS #Impact mixed
-
-Hyundai Motor increased sales incentives in the US and Europe in Q2.
-
----
-
-### 2026-07-23 13:24:21  #其他
-
-現代汽車：第二季度在美歐市場加大促銷力度。
-
----
-
-### 2026-07-23 13:24:09  #MKT News #HPCL.NS
-
-A Hindustan Petroleum executive said the company has diversified its liquefied petroleum gas (LPG) procurement.
-
----
-
-### 2026-07-23 13:24:06  #公司 #國際
-
-印度斯坦石油公司高管：液化石油氣採購已實現多元化。
-
----
-
-### 2026-07-23 13:23:55  #MKT News #005380.KS #Impact bearish #Brent #Impact bullish
-
-Hyundai Motor said the Middle East conflict pushed up raw material prices in the second quarter.
-
----
-
-### 2026-07-23 13:23:42  #Trading Economics #Economy #Singapore #Inflation Rate #Importance 1
-
-Singapore Inflation Rate Highest Since 2024 — Singapore’s annual inflation rate edged up to 1.9% in June 2026 from 1.8% in the previous month, slightly below market expectations of 2%. Still, it marked the highest level since September 2024, suggesting that recent increases in global energy prices and transportation costs are beginning to filter through to domestic prices. Price growth accelerated across several key categories, particularly food (2.1% vs 1.8% in May), housing and utilities (0.3% vs 0.2%), and transport (7.5% vs 7.4%). In addition, services inflation ticked higher to 1.5% from 1.4%, driven largely by higher airfares and holiday-related expenses. On a monthly basis, consumer prices stalled in June after rising 0.7% in the previous month. Meanwhile, core inflation, which excludes accommodation and private transport costs, accelerated to 1.6% from 1.4%. The MAS raised its 2026 core inflation forecast to 1.5%-2.5% from 1%-2%, citing risks that persistent price pressures could dampen household spending and demand.
-
----
-
-### 2026-07-23 13:22:37  #MKT News #005380.KS
-
-Hyundai Motor says Genesis production disruption was caused by a parts supplier.
-
----
-
-### 2026-07-23 13:21:53  #MKT News #Macro & Rates #005380.KS #Impact bearish
-
-Hyundai Motor said inflation, tariffs and geopolitical issues affected global sales in Q2.
-
----
-
-### 2026-07-23 13:20:39  #公司 #市場 #國際
-
-【因汽車需求疲軟及勞工騷亂拖累 現代汽車利潤下滑】在全球需求降溫導致汽車銷量下滑之際，現代汽車公佈的第二季度淨利潤走弱，這是這家韓國最大汽車製造商遭遇的最新挫折。在現代汽車公佈疲軟業績之際，該公司在韓國的工會工人為要求提高工資而連續第二週舉行部分罷工，本週每班罷工時間增加一倍，至四小時。在人工智慧和機器人技術發展之際，該工會還在尋求就業保護，反對管理層在兩年內部署人形機器人到裝配線的計劃。這家汽車製造商週四表示，在4-6月期間，其淨利潤同比下降11%，至2.888萬億韓元（合19.6億美元）。該業績好於FactSet彙總的2.661萬億韓元的平均預期。收入增長1.9%，至49.215萬億韓元，而營業利潤下降21%，至2.851萬億韓元。該公司表示，該季度全球汽車銷量同比下降6.9%，導致上半年銷量降幅達到4.9%。業績公佈後，現代汽車股價最新上漲2.5%。按銷量計算，現代汽車與其姊妹公司起亞是全球第三大汽車製造商。今年以來，該公司股價已上漲超過40%，落後於基準的韓國綜合指數(Kospi)超過60%的漲幅。
-
----
-
-### 2026-07-23 13:20:39  #Trading Economics #Markets #Commodity #Importance 1
-
-Copper Climbs Toward Seven-Week High — Copper futures rose toward $6.53 per pound on Thursday, hovering near their highest level in seven weeks, as tightening supply and falling inventories continued to support prices. Copper stockpiles in LME-registered and Shanghai-monitored warehouses have declined sharply in recent months, boosting the Yangshan copper premium, a gauge of China's import demand, to a multi-year high of $115 per ton. Supply was further constrained by smelter maintenance, typhoon-related stockpiling, and limited scrap availability in China, while traders continued shipping metal to the US ahead of a potential tariff on refined copper imports. However, gains were capped as rising oil prices renewed inflation concerns and strengthened expectations for higher interest rates, weighing on the demand outlook for industrial metals.
-
----
-
-### 2026-07-23 13:19:34  #MKT News #IBM.O
-
-Barclays cuts IBM (IBM.N) PT to $262 from $288.
-
----
-
-### 2026-07-23 13:19:23  #其他
-
-巴克萊將 IBM 目標價從288美元下調至262美元。
-
----
-
-### 2026-07-23 13:18:38  #其他
-
-【珠江、長江、淮河、海河流域部分河流將出現漲水過程】今天上午，水利部舉行會商，分析研判全國的防汛形勢，安排部署暴雨洪水防禦工作。截至7月23日9時，吉林、遼寧、黑龍江、內蒙古、天津、河北、江蘇等地11條河流仍維持超警，最大超警幅度1.46米。據預報，7月23日至7月24日，受上游來水影響，松花江流域松花江幹流肇源江段、遼河流域渾河下游幹流邢家窩棚以下河段、海河流域薊運河等主要河流及江蘇裡下河地區部分河流將維持超警；受降雨影響，珠江流域桂南沿海、長江流域鄂東四水、淮河流域淠河及山東半島小清河、海河流域漳衛河上游等河流將出現漲水過程，暴雨區內部分中小河流可能發生超警洪水。
-
----
-
-### 2026-07-23 13:18:09  #其他
-
-【全國6條河流發生超警洪水】水利部7月23日訊息，受降雨影響，昨天8時到今天8時，廣西柳江支流浪溪河、古宜河、平等河，雲南南盤江支流瀘江，河北北澧河支流牛尾河，江蘇裡下河地區串場河等6條河流發生超警洪水，最大超警幅度2.87米，目前均已退至警戒以下。
-
----
-
-### 2026-07-23 13:17:43  #公司
-
-【意法半導體上調2026年與2027年人工智慧資料中心業務營收預期】意法半導體執行長稱，我們預計第四季度營收增長將加速，預計第四季度營收將超過40億美元。 意法半導體上調2026年與2027年人工智慧資料中心業務營收預期，預計2026年人工智慧資料中心收入將超過10億美元，此前預期約為10億美元。預計2027年人工智慧資料中心營收將遠超20億美元，此前預期約為20億美元。
-
----
-
-### 2026-07-23 13:16:51  #MKT News
-
-IRNA reports Iranian armed forces will conduct controlled explosions to destroy ammunition in areas outside Dezful today between 09:00 and 11:00 local time.
-
----
-
-### 2026-07-23 13:16:07  #公司
-
-滙豐將沃爾沃汽車公司目標價從22瑞典克朗下調至17.5瑞典克朗。
-
----
-
-### 2026-07-23 13:15:57  #MKT News #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-China A-share military-equipment restructuring concept stocks extended gains; Great Wall Military Industry hit the daily trading limit. Construction Industry, Hunan Tianyan, Zhongguang Optics, Huaqiang Technology and Dong'an Power also rose.
-
----
-
-### 2026-07-23 13:15:38  #市場
-
-【兵裝重組概念板塊持續走高 長城軍工漲停】兵裝重組概念板塊持續走高，長城軍工漲停，建設工業、湖南天雁、中光學、華強科技、東安動力等紛紛走高。
-
----
-
-### 2026-07-23 13:15:02  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: South Korean Won Appreciates by 0.60% — Top currency gainers are South Korean Won (0.60%), Norwegian Krone (0.32%), Australian Dollar (0.25%), Euro (0.19%) and British Pound (0.09%). Biggest loser is Dollar Index (-0.15%). Meanwhile Japanese Yen was little changed.
-
----
-
-### 2026-07-23 13:14:29  #MKT News #STM.O #Impact bullish
-
-STMicroelectronics expects AI data-center revenue to exceed $1 bln in 2026, versus prior guidance of about $1 bln, and to top $2 bln in 2027, versus prior guidance of about $2 bln.
-
----
-
-### 2026-07-23 13:14:17  #市場 #央行 #國際
-
-【瑞銀：金價料將在2026年底前反彈】瑞銀的Joni Teves對中長期黃金走勢保持樂觀。該黃金策略師在評論中表示，一個積極跡象是，金價自本週初以來有所上漲，而香港和中國內地的黃金股在三天內上漲了約20%。“我們認為對黃金的市場情緒正開始改善，（並且）繼續預計金價將在年底前從目前水平反彈，“她說。瑞銀的全球團隊對黃金的中期前景保持樂觀，並預計到2026年底和2027年底，金價將分別達到每盎司4,675美元和每盎司4,800美元。她說，下一個需要關注的關鍵事件是美聯儲在7月底美國聯邦公開市場委員會會議上的政策基調，以及中東地區的進一步事態發展。
-
----
-
-### 2026-07-23 13:13:38  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component #SSE Composite
-
-China A-share chemical and pharmaceutical sector surged intraday; Lianhuan Pharmaceutical hit the daily limit, Ha Sanlian had earlier hit limit-up. Gongtong Pharmaceutical, Yahong Pharmaceutical, Keyuan Pharmaceutical, Haisco and Kelun Pharmaceutical also rose.
-
----
-
-### 2026-07-23 13:13:30  #其他
-
-【中國超級跑車錦標賽回應安保升級】7月23日，@CHINAGT中國超級跑車錦標賽發文稱，本次賽事全程嚴格依照大型群眾性活動管理相關法規，規範開展賽事統籌、證件製作與人員核發全流程工作。組委會已將通行證發放數量及所需資訊統一下發至各參賽車隊，同步明確人員註冊申報截止時限，已於賽前完成全部通行證件資訊登記。結合本場賽事預估人流規模，相關賽事組織各單位對安保方案進行合規升級與細化完善，核心目標是全面保障參賽車手、車隊工作人員及到場觀賽群眾的人身安全，確保賽事平穩推進。
-
----
-
-### 2026-07-23 13:12:58  #市場
-
-【化學制藥板塊短線拉昇 聯環藥業漲停】化學制藥板塊短線拉昇，聯環藥業漲停，哈三聯此前封板，共同藥業、亞虹醫藥、科源製藥、海思科、科倫藥業等跟漲。
-
----
-
-### 2026-07-23 13:12:48  #市場 #央行 #國際
-
-【歐洲央行料按兵不動 以評估美伊衝突再度升級的影響】歐洲央行週四將公佈利率決策，料維持利率不變，以爭取時間評估美伊衝突再度升級的影響交易員和經濟學家均預測歐洲央行在上月加息後不會再次行動。央行官員此前認為存款利率在2.25%的水平是“合適的”。美國和伊朗6月份達成臨時停火協議，並且當月的歐元區通脹低於預期，一度令人期待這場戰爭最壞的階段可能已經過去。但隨著衝突再起，原油期貨升至六週高點，市場對於歐洲央行進一步收緊政策的預期再次升溫。決策者尚未釋放對於9月及以後政策路徑的線索，因此市場將關注歐洲央行行長拉加德的表態。歐洲央行將在法蘭克福時間下午2:15公佈利率決定，拉加德將在30分鐘後召開記者會。拉加德料強調歐洲央行將依據資料逐次會議作出決定。不過，她仍可能就當前形勢下市場對9月加息的預期是否合理釋放一些訊號。
-
----
-
-### 2026-07-23 13:12:36  #MKT News #Market Themes #AI Revolution #STM.PA #Impact bullish
-
-STMicroelectronics raised its 2026 and 2027 revenue outlook for its AI data-center business.
-
----
-
-### 2026-07-23 13:12:13  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時縮量3364億元。
-
----
-
-### 2026-07-23 13:11:28  #MKT News #Commodities #Industrial Metals #Copper #TECK.O
-
-Teck Resources Q2 copper production was 55,800 tonnes.
-
----
-
-### 2026-07-23 13:11:16  #宏觀 #國際
-
-【中國歐盟商會副主席李滌凡會見歐洲議會外事委員會代表團】7月21日，中國歐盟商會副主席李滌凡（Stefan Bernhart）會見了由麥克阿里斯特（David McAllister）率領的歐洲議會外事委員會代表團。李滌凡介紹了影響歐洲企業在華經營的主要經濟走勢。過去幾年，受房地產危機、消費者信心不足、將生產作為增長驅動力的強政策導向等因素影響，供需失衡問題顯著，引發國內不可持續的競爭及出口規模大幅增長。受上述趨勢影響，歐洲企業商業信心跌至歷史低位，但或已顯現觸底回暖跡象，這得益於企業為應對此形勢而開展的結構性調整。李滌凡表示，儘管挑戰持續存在，依託創新能力、產業生態與採購優勢，中國仍是歐洲企業的重要市場。他還向歐盟政策制定者提出了一系列建議，包括出臺舉措保護歐洲關鍵戰略性產業、提升歐洲自身競爭力，並持續與中國開展溝通交流。隨後，雙方開展了交流研討與問答。
-
----
-
-### 2026-07-23 13:11:08  #MKT News
-
-Jinghua New Materials hit its daily limit down for a sixth consecutive session; trading turnover exceeded 900 mln yuan.
-
----
-
-### 2026-07-23 13:10:35  #公司 #市場
-
-電網裝置板塊持續走高，雙傑電氣、摩恩電氣漲停，此前益坤電氣、中能電氣、中國西電、保變電氣、望變電氣等十餘股漲停，宏遠股份、金冠電氣、凱發電氣漲超10%。
-
----
-
-### 2026-07-23 13:10:22  #MKT News #CSI300 #Impact bullish
-
-A-share transportation sector rallied in the afternoon session; Dazhong Transportation jumped over 8%, Jinjiang Online gained more than 6%. Yuanda Holdings, Haichen Co., HNA Technology, Phoenix Shipping and Longzhou Co. also advanced.
-
----
-
-### 2026-07-23 13:10:22  #MKT News #Market Themes #Chip Wars #STM.O #Impact bullish
-
-STMicroelectronics CEO says fourth-quarter revenue will exceed $4 billion.
-
----
-
-### 2026-07-23 13:10:20  #市場
-
-【晶華新材觸及跌停 已連續6日跌停】晶華新材觸及跌停，已連續6日跌停，成交額9.22億元。
-
----
-
-### 2026-07-23 13:09:50  #MKT News #Market Themes #The Trump Trade #005380.KS #Impact bearish
-
-Hyundai Motor said it will activate contingency plans to offset profit deterioration from tariffs and production disruptions.
-
----
-
-### 2026-07-23 13:09:42  #其他
-
-現代汽車：將實施應急計劃，以抵消關稅和生產中斷導致盈利能力惡化帶來的影響。
-
----
-
-### 2026-07-23 13:08:45  #MKT News #STM.O #Impact bullish
-
-STMicroelectronics CEO expects Q4 revenue growth to accelerate.
-
----
-
-### 2026-07-23 13:08:34  #MKT News #STM.N #Impact bullish
-
-STMicroelectronics CEO observed business visibility has improved and several product categories are showing signs of supply tightness.
-
----
-
-### 2026-07-23 13:08:28  #公司
-
-意法半導體執行長：我們已看到能見度提升，多個產品類別出現供應趨緊的跡象。
-
----
-
-### 2026-07-23 13:08:12  #MKT News #005380.KS #Impact bearish
-
-Hyundai Motor says it expects intensifying competition and continued macroeconomic uncertainty.
 
 ---
