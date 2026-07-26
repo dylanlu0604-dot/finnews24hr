@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-27 00:02:10",
+  "updated": "2026-07-27 00:06:05",
   "count": 18049,
   "items": [
+    {
+      "id": "mkt:019f9f29-5253-7aab-8e9b-3f61394231b0",
+      "time": "2026-07-27 00:01:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israel's security cabinet approved exemption measures allowing an international stabilization force to enter Gaza areas not under Israeli control."
+    },
+    {
+      "id": "5008657",
+      "time": "2026-07-27 00:01:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列安全內閣批准加沙國際穩定部隊享有“豁免權”，允許該部隊進入以色列控制範圍外的區域。"
+    },
     {
       "id": "5008656",
       "time": "2026-07-26 23:59:07",
@@ -165325,22 +165345,6 @@
         "WTI"
       ],
       "text": "【FT: Incoming UK PM Burnham to retain ban on new North Sea exploration licences】The FT reports incoming UK prime minister Burnham will uphold Labour’s pledge to stop issuing new North Sea exploration licences, dashing industry hopes for a significant reversal of fossil-fuel policy. Labour deputy leader Lucy Powell said on Sunday Burnham will not overturn the manifesto commitment; an industry source warned the sector would be highly discontent if the ban remains. Recent reports that Burnham might pivot to a pro‑drilling North Sea strategy now appear unlikely."
-    },
-    {
-      "id": "mkt:019f7b1f-92ba-7aab-8df9-6edc8c9f2954",
-      "time": "2026-07-20 00:04:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Central Peru earthquake kills five】Peru's National Civil Defense Institute official Luis Vasquez said on July 19 that a magnitude-5.1 earthquake on the evening of July 18 in central Peru has killed five. The quake has injured more than 20 people and affected about 300. Peru's Geophysical Institute said the tremor occurred at 21:24 local time on July 18 (10:24 Beijing time on July 19); the epicenter was 7 km south of Chupaca in Junín province and the focal depth was 24 km."
-    },
-    {
-      "id": "mkt:019f7b1e-d2e0-7aab-8df9-62688a43b291",
-      "time": "2026-07-20 00:04:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Financial Times reports incoming UK prime minister Burnham will uphold Labour’s controversial ban on new North Sea exploration licences, dashing oil and gas industry hopes for a substantial shift in fossil-fuel policy."
     }
   ]
 }
