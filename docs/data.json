@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-27 01:29:07",
+  "updated": "2026-07-27 01:33:02",
   "count": 18023,
   "items": [
+    {
+      "id": "5008676",
+      "time": "2026-07-27 01:31:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：認為要麼推翻伊朗現政權，要麼將其嚴重削弱，迫使伊朗主動終止核計劃、徹底改變現有路線。"
+    },
     {
       "id": "mkt:019f9f77-adc8-7aab-8e9b-9191df6d3566",
       "time": "2026-07-27 01:27:28",
@@ -165101,17 +165109,6 @@
         "MKT News"
       ],
       "text": "NHC: A tropical depression is currently lingering offshore near Florida's west coast."
-    },
-    {
-      "id": "mkt:019f7b6d-d595-7aab-8dfa-22c6eacad04d",
-      "time": "2026-07-20 01:30:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Jerusalem Post: Israel may join action against Iran under three conditions】The Jerusalem Post reports Israeli officials assess that, provided the US does not significantly escalate military action against Tehran, Iran will temporarily avoid striking Israel. Two officials told the paper Israel could intervene in strikes on Iran in three cases: if Iran attacks Israel; if Israeli intelligence detects Iran preparing to launch missiles or drones at Israel; or if US President Trump formally requests Israeli participation."
     }
   ]
 }
