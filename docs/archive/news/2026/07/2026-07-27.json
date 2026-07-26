@@ -1,7 +1,39 @@
 {
   "date": "2026-07-27",
-  "count": 72,
+  "count": 76,
   "items": [
+    {
+      "id": "mkt:019f9fe9-8885-7aab-8e9c-250d9caa8d11",
+      "time": "2026-07-27 03:31:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian president said a successful security agreement with Israel could pave the way for comprehensive peace, but would not be achieved at the expense of Syria’s sovereignty over the Golan Heights."
+    },
+    {
+      "id": "mkt:019f9fe8-ea62-7aab-8e9c-1c66470d1a8b",
+      "time": "2026-07-27 03:31:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reports Syria's president said Syria is seeking a security agreement with Israel and seeks multilateral participation."
+    },
+    {
+      "id": "5008702",
+      "time": "2026-07-27 03:31:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞領導人：與以色列達成的安全協議若能取得成功，將可為達成全面和平鋪平道路，同時不會損害敘利亞對戈蘭高地的主權權利。"
+    },
+    {
+      "id": "5008701",
+      "time": "2026-07-27 03:28:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞領導人：敘利亞正尋求在多國參與下同以色列達成安全協議。"
+    },
     {
       "id": "5008700",
       "time": "2026-07-27 03:27:49",
