@@ -1,7 +1,62 @@
 {
   "date": "2026-07-26",
-  "count": 331,
+  "count": 337,
   "items": [
+    {
+      "id": "5008330",
+      "time": "2026-07-26 12:09:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國散戶搶在監管收緊前買入三星和Sk海力士單股槓桿ETF】資料顯示，韓國散戶在24日大舉買入14只單隻股票槓桿ETF，單日買入規模約4500億韓元。此前，韓國散戶曾連續三天累計淨賣出約5000億韓元。"
+    },
+    {
+      "id": "mkt:019f9c9b-2db2-7aab-8e98-9229b940cac9",
+      "time": "2026-07-26 12:07:23",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【New York Times: Trump puts major Iran strike plans on hold】The New York Times reports President Trump has put plans for a major escalation of strikes on Iran on hold, citing concern that such action would dangerously deplete the Pentagon’s already reduced Patriot interceptor and other air‑defense munitions stockpiles in the Middle East. U.S. officials said pressure on interceptor inventories is among factors that make renewed large‑scale military action highly risky. Trump and senior advisers are also reportedly worried escalation could broaden the Middle East conflict, push vulnerable Gulf allies away, shock the global economy and worsen energy and refugee crises."
+    },
+    {
+      "id": "5008329",
+      "time": "2026-07-26 12:07:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI產品負責人Tibo：ChatGPT Work的活躍使用者數量正式超越Codex。"
+    },
+    {
+      "id": "mkt:019f9c9a-627b-7aab-8e98-8c87f00c6a5d",
+      "time": "2026-07-26 12:06:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI product lead Tibo said ChatGPT Work's active-user count has officially surpassed Codex."
+    },
+    {
+      "id": "5008328",
+      "time": "2026-07-26 12:05:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤跌破87美元，日內跌超2.7%。"
+    },
+    {
+      "id": "5008327",
+      "time": "2026-07-26 12:05:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【IIHS研究：Waymo自動駕駛計程車事故率比人類駕駛員低68%】根據美國公路安全保險協會（IIHS）最新發布的一項研究，Waymo 的自動駕駛計程車發生事故的機率比普通人類駕駛員低 68%，而且即便發生事故，整體嚴重程度也更低。不過，這項結論仍存在不少限制因素，需要謹慎解讀。"
+    },
     {
       "id": "mkt:019f9c97-6f09-7aab-8e98-84bd3c53a4c0",
       "time": "2026-07-26 12:03:17",
