@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-27 01:25:10",
-  "count": 18024,
+  "updated": "2026-07-27 01:29:07",
+  "count": 18023,
   "items": [
+    {
+      "id": "mkt:019f9f77-adc8-7aab-8e9b-9191df6d3566",
+      "time": "2026-07-27 01:27:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Putin: Arctic is a legitimate part of Russia's sovereign territory】Speaking to naval personnel in St. Petersburg on Navy Day, Putin said, “When I say international law is fully on our side, I mean the Arctic is a legitimate part of Russia's sovereign territory.”"
+    },
     {
       "id": "5008675",
       "time": "2026-07-27 01:15:00",
@@ -165104,22 +165112,6 @@
         "XAUUSD"
       ],
       "text": "【Jerusalem Post: Israel may join action against Iran under three conditions】The Jerusalem Post reports Israeli officials assess that, provided the US does not significantly escalate military action against Tehran, Iran will temporarily avoid striking Israel. Two officials told the paper Israel could intervene in strikes on Iran in three cases: if Iran attacks Israel; if Israeli intelligence detects Iran preparing to launch missiles or drones at Israel; or if US President Trump formally requests Israeli participation."
-    },
-    {
-      "id": "4996236",
-      "time": "2026-07-20 01:27:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普預測世界盃決賽】世界盃決賽，西班牙vs阿根廷，賽前美國總統特朗普接受了福克斯體育的採訪。 實際上，再回到這次的世界盃，我必須得問問，阿根廷對西班牙，給個預測吧？ 特朗普：我知道你會問這個，所以我非常認真地思考過了，我想了很久。我知道會有這個問題。雖然在政治上這沒那麼要緊，但我還是討厭做出選擇。阿根廷的領導人是我的朋友，他工作做得非常出色。 但我得說，很難去賭梅西會輸。我看了那個傳球，我想你會稱之為傳球，它極其完美。雖然要把那個速度飛過來的球用頭頂進去確實需要一些天賦，但那個傳球太完美了。如果有個好球區的話，它正好就在它該在的位置。 而且在那之前，我還看了他擺脫防守隊員的方式。他被防得很死，突然之間，他就一個人站在那兒，完美地把球踢了出去。很難賭他會輸，所以，我不會太激動，我只是覺得，很難賭梅西會輸，他太棒了。"
-    },
-    {
-      "id": "4996235",
-      "time": "2026-07-20 01:25:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伯納姆或將放開北海石油開採，特朗普對此表示歡迎】美國總統特朗普稱，有報道稱伯納姆或將支援北海新一輪油氣開採，蘇格蘭阿伯丁民眾會為此 “走上街頭歡慶”。目前有訊息稱伯納姆考慮批准北海羅斯班克油田、寒鴉油田新增化石燃料開採專案，但伯納姆本人並未證實該訊息。不過特朗普週日在自家社交平臺 “真實社交” 發帖，聲稱伯納姆已表態會放開開採。特朗普發文寫道：“蘇格蘭阿伯丁民眾都要上街狂歡了，因為新任首相安迪・伯納姆宣佈，將全面開發價值不可估量的北海石油！”這位長期公開力挺化石能源的美國總統表示，擴大北海開採能讓英國從 “深陷貧困的災難國家，蛻變為全球最富庶的國家之一”。他再度抨擊風電產業，稱英國應當遷走那些矗立在阿伯丁上空、觀感醜陋、破壞城市風貌的風力發電機。"
     }
   ]
 }

@@ -1,7 +1,15 @@
 {
   "date": "2026-07-27",
-  "count": 29,
+  "count": 30,
   "items": [
+    {
+      "id": "mkt:019f9f77-adc8-7aab-8e9b-9191df6d3566",
+      "time": "2026-07-27 01:27:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Putin: Arctic is a legitimate part of Russia's sovereign territory】Speaking to naval personnel in St. Petersburg on Navy Day, Putin said, “When I say international law is fully on our side, I mean the Arctic is a legitimate part of Russia's sovereign territory.”"
+    },
     {
       "id": "5008675",
       "time": "2026-07-27 01:15:00",
