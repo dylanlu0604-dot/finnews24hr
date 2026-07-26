@@ -1,7 +1,15 @@
 {
   "date": "2026-07-27",
-  "count": 4,
+  "count": 5,
   "items": [
+    {
+      "id": "mkt:019f9f35-3a5e-7aab-8e9b-42497ddfaa1d",
+      "time": "2026-07-27 00:14:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya, citing sources, reported that Oman has proposed forming a regional coalition to provide services in the Strait of Hormuz, modeled on the Malacca Strait approach."
+    },
     {
       "id": "5008659",
       "time": "2026-07-27 00:06:28",

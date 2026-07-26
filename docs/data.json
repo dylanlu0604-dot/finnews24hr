@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-27 00:14:08",
-  "count": 18050,
+  "updated": "2026-07-27 00:18:15",
+  "count": 18047,
   "items": [
+    {
+      "id": "mkt:019f9f35-3a5e-7aab-8e9b-42497ddfaa1d",
+      "time": "2026-07-27 00:14:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya, citing sources, reported that Oman has proposed forming a regional coalition to provide services in the Strait of Hormuz, modeled on the Malacca Strait approach."
+    },
     {
       "id": "5008659",
       "time": "2026-07-27 00:06:28",
@@ -165314,41 +165322,6 @@
         "DXY"
       ],
       "text": "According to Israel's Channel 14, the IDF chief of staff said the military is maintaining the highest alert level and is prepared to return to combat at any time."
-    },
-    {
-      "id": "mkt:019f7b2b-07d9-7aab-8df9-8022f10baec5",
-      "time": "2026-07-20 00:17:25",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish",
-        "AER.N"
-      ],
-      "text": "Market sources say aircraft lessor AerCap is in talks with Boeing to buy 787 Dreamliners at the Farnborough Airshow in the UK."
-    },
-    {
-      "id": "4996206",
-      "time": "2026-07-20 00:17:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【航空租賃公司AerCap將在英國航展洽談採購波音787夢想客機】知情人士透露，全球飛機租賃巨頭AerCap控股公司正洽談採購波音787夢想客機，這筆交易有望成為即將開幕的範堡羅國際航展上租賃企業大單中的一筆。這家全球規模最大的飛機租賃公司考慮採購至多15架波音這款美製寬體客機。相關談判尚處保密階段。交易尚未敲定，條款存在變動可能，雙方也有可能洽談無果、無法達成協議。本屆行業年度航展將於週一在倫敦郊外舉辦，各大全球頭部航空融資企業的購機訂單，或將成為本次航展簽約交易的核心板塊。"
-    },
-    {
-      "id": "4996205",
-      "time": "2026-07-20 00:16:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "航空租賃公司AerCap正於英國航展洽談採購波音787夢想客機。"
-    },
-    {
-      "id": "mkt:019f7b29-0746-7aab-8df9-7e3b7768ed38",
-      "time": "2026-07-20 00:15:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanon's National News Agency reported Israeli forces dropped a blast bomb on the southern town of Harris and shelled the nearby towns of Shamaa, Majdal Zoun and Beit Sayyed."
     }
   ]
 }
