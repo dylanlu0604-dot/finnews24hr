@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-26 19:24:57",
-  "count": 18098,
+  "updated": "2026-07-26 19:28:58",
+  "count": 18097,
   "items": [
+    {
+      "id": "mkt:019f9e2d-5ce5-7aab-8e9a-05ca9603635e",
+      "time": "2026-07-26 19:26:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Analysts: Ukraine strike on Iranian merchant ship had two aims】Analysts say Ukrainian forces struck an Iranian merchant ship in the Caspian Sea on July 25; Tehran strongly condemned the attack and summoned Ukraine’s acting chargé d’affaires in Tehran. They assess Kyiv had two objectives. First, to disrupt Iranian military support for Russia: Kyiv has recently stepped up strikes on deep Russian targets—notably energy and logistics infrastructure—which analysts say have harmed Russia’s economy and civilian welfare, while Russia has responded with large-scale drone and ballistic missile attacks inside Ukraine. Second, to help U.S. efforts to pressure Iran in hopes of securing renewed U.S. support: analysts say Washington, long Kyiv’s main military backer, has since President Trump’s second term increasingly pressed Ukraine for concessions to end the conflict, and Kyiv is trying to demonstrate its value to regain U.S. backing."
+    },
     {
       "id": "5008527",
       "time": "2026-07-26 19:23:47",
@@ -165783,22 +165795,6 @@
         "其他"
       ],
       "text": "德國總理默茨：（盟友）斯潘的辭職可能是重新思考政府組成人員的一個契機。"
-    },
-    {
-      "id": "mkt:019f7a21-3ba0-7aab-8df7-6613d8e3a832",
-      "time": "2026-07-19 19:27:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kuwait says power and desalination plants were attacked again by Iran, damaging multiple generating units. Repair crews are working to restore power supply."
-    },
-    {
-      "id": "4996084",
-      "time": "2026-07-19 19:25:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【90餘家深市化工企業披露半年度業績預告，多家淨利增幅下限超10倍】近日，深市化工行業公司密集披露2026年半年度業績預告，呈現良好復甦態勢。截至目前，深市已有90餘家化工行業公司披露上半年業績預告，逾六成公司預計盈利且業績預增；10家公司預計扭虧為盈，恆逸石化等企業預計歸母淨利潤增長下限超過10倍。（上證報）"
     }
   ]
 }

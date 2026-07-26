@@ -1,7 +1,19 @@
 {
   "date": "2026-07-26",
-  "count": 575,
+  "count": 576,
   "items": [
+    {
+      "id": "mkt:019f9e2d-5ce5-7aab-8e9a-05ca9603635e",
+      "time": "2026-07-26 19:26:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Analysts: Ukraine strike on Iranian merchant ship had two aims】Analysts say Ukrainian forces struck an Iranian merchant ship in the Caspian Sea on July 25; Tehran strongly condemned the attack and summoned Ukraine’s acting chargé d’affaires in Tehran. They assess Kyiv had two objectives. First, to disrupt Iranian military support for Russia: Kyiv has recently stepped up strikes on deep Russian targets—notably energy and logistics infrastructure—which analysts say have harmed Russia’s economy and civilian welfare, while Russia has responded with large-scale drone and ballistic missile attacks inside Ukraine. Second, to help U.S. efforts to pressure Iran in hopes of securing renewed U.S. support: analysts say Washington, long Kyiv’s main military backer, has since President Trump’s second term increasingly pressed Ukraine for concessions to end the conflict, and Kyiv is trying to demonstrate its value to regain U.S. backing."
+    },
     {
       "id": "5008527",
       "time": "2026-07-26 19:23:47",
