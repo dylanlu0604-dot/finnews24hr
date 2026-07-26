@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-26 20:50:10",
-  "count": 18083,
+  "updated": "2026-07-26 20:54:11",
+  "count": 18081,
   "items": [
+    {
+      "id": "5008578",
+      "time": "2026-07-26 20:51:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【臺灣新北市發生4.8級地震 震源深度95千米】中國地震臺網正式測定：07月26日20時36分在臺灣新北市（北緯24.94度，東經121.82度）發生4.8級地震，震源深度95千米。（央視新聞）"
+    },
+    {
+      "id": "5008577",
+      "time": "2026-07-26 20:51:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甘肅省定西市洪水防禦應急響應升至Ⅱ級】記者從甘肅省水利廳瞭解到，26日下午，定西市渭源縣發生山洪災害，已造成10人死亡。依據《甘肅省水利廳水旱災害防禦應急預案》規定，甘肅省水利廳決定自7月26日19時起，將定西市洪水防禦Ⅳ級應急響應調整為Ⅱ級。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f9e7a-5233-7aab-8e9a-3432ec0c35df",
+      "time": "2026-07-26 20:50:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangdong allocates 50 mln yuan provincial disaster relief fund for Typhoon Hongxia】On July 26, the Guangdong Provincial Department of Finance and Provincial Department of Emergency Management urgently allocated 50 mln yuan in provincial natural disaster relief funds for emergency response to Typhoon Hongxia. The funds will support Huizhou, Shanwei, Jieyang, Meizhou and Heyuan for emergency rescue and relief to affected residents, procurement and transport of relief supplies, inspection and emergency remediation of secondary hazards, and repair and reconstruction of damaged housing to limit impact and protect lives and property."
+    },
+    {
+      "id": "5008575",
+      "time": "2026-07-26 20:49:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東省財政廳、省應急管理廳向廣東受災地區撥付省級自然災害救災資金5000萬元】為切實做好颱風“紅霞”應急救災工作，7月26日，廣東省財政廳、省應急管理廳緊急下達省級自然災害救災資金5000萬元，支援惠州、汕尾、揭陽、梅州、河源等受災地區開展應急搶險和受災群眾救助，救災物資購置、儲運，次生災害隱患排查和應急整治，倒損住房恢復重建等工作，最大程度減輕災害影響，保障受災群眾生命財產安全。（央視新聞）"
+    },
     {
       "id": "mkt:019f9e71-7959-7aab-8e9a-2bb179a36865",
       "time": "2026-07-26 20:41:04",
@@ -165604,54 +165638,6 @@
         "其他"
       ],
       "text": "約旦軍方：工程兵部隊已按照現行的技術和安全程式，對導彈墜落地點進行了處置並實施了安全管控。我們將繼續保持最高戒備狀態，嚴密監視約旦領空，並以以最強硬的姿態應對任何針對約旦安全及公民人身安全的威脅。"
-    },
-    {
-      "id": "mkt:019f7a6f-4b76-7aab-8df7-fbfac3df0d99",
-      "time": "2026-07-19 20:52:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jordanian military said three Iranian ballistic missiles aimed at the southern city of Aqaba were intercepted and a fourth landed in an open area."
-    },
-    {
-      "id": "mkt:019f7a6e-be21-7aab-8df7-f03196aec6f5",
-      "time": "2026-07-19 20:51:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jordan's state news agency, citing military officials, said an Iranian missile that fell in Jordan caused no casualties or significant damage."
-    },
-    {
-      "id": "4996123",
-      "time": "2026-07-19 20:51:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "約旦軍方：伊朗導彈墜落約旦 無人員傷亡或物質損失。"
-    },
-    {
-      "id": "mkt:019f7a6e-4826-7aab-8df7-ef2443dafb08",
-      "time": "2026-07-19 20:51:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IAEA said it has contacted Iran regarding publicly reported information."
-    },
-    {
-      "id": "4996122",
-      "time": "2026-07-19 20:50:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際原子能機構：已就公開報道與伊朗進行接觸。"
-    },
-    {
-      "id": "mkt:019f7a6d-7779-7aab-8df7-e307dad68e2d",
-      "time": "2026-07-19 20:50:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IAEA says the facility is currently in the early stages of construction; during the agency's most recent visit it contained no nuclear material."
     }
   ]
 }
