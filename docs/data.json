@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-26 17:54:14",
+  "updated": "2026-07-26 17:58:08",
   "count": 18130,
   "items": [
+    {
+      "id": "mkt:019f9dda-d07f-7aab-8e99-baafeb787ca7",
+      "time": "2026-07-26 17:56:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Expert: Trump halt to US strikes on Iran likely tactical; conflict to cycle】US President Trump on the 24th ordered US forces not to strike Iran, ending a 13-day run of strikes, US sources said. Qin Tian, deputy director of the Middle East Institute at the China Institute of Contemporary International Relations, said the pause is likely a tactical adjustment rather than a strategic shift. The duration of the halt, whether strikes will resume, or whether decisions to escalate will recur remain uncertain. Qin said the move should produce a short-term lull in US‑Iran military exchanges, but without a package solution the relationship is likely to see repeated cycles of fighting and negotiations, including compromises that may be difficult to implement."
+    },
     {
       "id": "5008494",
       "time": "2026-07-26 17:46:09",
@@ -166071,14 +166082,6 @@
         "MKT News"
       ],
       "text": "German Chancellor Merz said the government may have an opportunity to reshuffle the cabinet."
-    },
-    {
-      "id": "4996031",
-      "time": "2026-07-19 17:57:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國總理默茨：我們或許有機會對內閣進行調整。"
     }
   ]
 }
