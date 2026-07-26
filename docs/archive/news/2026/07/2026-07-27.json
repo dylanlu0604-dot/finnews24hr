@@ -1,7 +1,23 @@
 {
   "date": "2026-07-27",
-  "count": 80,
+  "count": 82,
   "items": [
+    {
+      "id": "5008706",
+      "time": "2026-07-27 03:46:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：要讓敵人夜夜難安、心生恐懼。"
+    },
+    {
+      "id": "mkt:019f9ff6-6fde-7aab-8e9c-3513633c735f",
+      "time": "2026-07-27 03:45:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal: Trump denied the U.S. faces an ammunition shortage, saying U.S. stockpiles exceed those of any other country and surpass actual operational demand."
+    },
     {
       "id": "5008705",
       "time": "2026-07-27 03:42:46",

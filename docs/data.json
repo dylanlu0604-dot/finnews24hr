@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-27 03:44:31",
-  "count": 18029,
+  "updated": "2026-07-27 03:48:28",
+  "count": 18030,
   "items": [
+    {
+      "id": "5008706",
+      "time": "2026-07-27 03:46:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：要讓敵人夜夜難安、心生恐懼。"
+    },
+    {
+      "id": "mkt:019f9ff6-6fde-7aab-8e9c-3513633c735f",
+      "time": "2026-07-27 03:45:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal: Trump denied the U.S. faces an ammunition shortage, saying U.S. stockpiles exceed those of any other country and surpass actual operational demand."
+    },
     {
       "id": "5008705",
       "time": "2026-07-27 03:42:46",
@@ -165152,18 +165168,6 @@
         "國際"
       ],
       "text": "美國共和黨參議員湯姆·科頓在：持續的打擊行動既能保護美國人，又能削弱伊朗控制霍爾木茲海峽的能力。"
-    },
-    {
-      "id": "mkt:019f7beb-57ca-7aab-8dfa-9499caa21074",
-      "time": "2026-07-20 03:47:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "The Times of Israel, citing officials, says Prime Minister Netanyahu’s planned US trip next week for Senator Graham’s funeral may be canceled amid heightened regional security. Israeli officials warn Iran could broaden strikes to other senior Israeli figures, saying many people are under threat."
     }
   ]
 }
