@@ -1,7 +1,23 @@
 {
   "date": "2026-07-26",
-  "count": 179,
+  "count": 181,
   "items": [
+    {
+      "id": "mkt:019f9bcf-d707-7aab-8e97-6c295887c682",
+      "time": "2026-07-26 08:25:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Spain's Sanchez says wildfires still severe across multiple regions】Spain's Prime Minister Sanchez said on July 25 wildfires remain severe across multiple regions. Year-to-date burned area has reached 130,000 hectares, he said, exceeding the country's ten-year annual average. The Interior Ministry on July 25 declared a national emergency for Toledo province due to the fires, following earlier declarations for the Madrid region and Avila province."
+    },
+    {
+      "id": "5008207",
+      "time": "2026-07-26 08:21:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馮飛劉小明會見駐華使節參訪海南代表團】7月22日至25日，外交部組織駐華使節代表團赴海南參訪。25日，海南省委書記馮飛、省長劉小明在海口會見代表團一行。 馮飛、劉小明代表海南省委省政府向代表團一行表示熱烈歡迎，介紹了海南自由貿易港建設進展。馮飛表示，建設海南自由貿易港是習近平主席親自謀劃、部署、推動的重大國家戰略。去年12月18日，海南自由貿易港順利實現全島封關運作，這是中國堅定不移擴大高水平對外開放、推動建設開放型世界經濟的標誌性舉措。當前，海南堅持完整、準確、全面貫徹新發展理念，加快打造國內國際雙迴圈戰略交匯點，助力全國構建新發展格局，正成為中國對外開放的新前沿、地區互利合作的新熱土、推動經濟全球化的新引擎。海南與各位使節所在國交往密切，合作空間廣闊，願以此次駐華使節代表團參訪為契機，與各國進一步深化在熱帶農業、科技創新、人文交流、綠色低碳等領域務實合作，共同譜寫互利共贏發展新篇章。（海南日報）"
+    },
     {
       "id": "5008206",
       "time": "2026-07-26 08:16:17",
