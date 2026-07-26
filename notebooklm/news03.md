@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-26 21:52:43_
-_本檔包含 3386 則快訊，約 686944 字_
+_更新時間：2026-07-26 23:16:02_
+_本檔包含 3372 則快訊，約 685589 字_
+
+---
+
+### 2026-07-23 11:47:24  #公司
+
+【海思科：創新藥琥珀酸思普可泮片獲批上市】海思科(002653)7月23日午間公告，公司於7月23日透過國家藥監局官網查詢，國家藥監局批准公司申報的1類創新藥琥珀酸思普可泮片上市。本次獲批上市的適應症為治療既往未接受過補體抑制劑治療的陣發性睡眠性血紅蛋白尿症（PNH）成人患者。
+
+---
+
+### 2026-07-23 11:47:17  #Trading Economics #Markets #India #Currency #Importance 1
+
+Rupee Pauses Losses Despite Oil Rally — The Indian rupee hovered around 96.4 per dollar, pausing its recent slide after touching its weakest level in more than two months, though it remained under pressure from surging oil prices. Escalating tensions between the US and Iran pushed Brent crude above $96 per barrel, heightening concerns over disruptions to oil supplies and worsening the outlook for the world's third-largest oil importer. Traders also warned the rupee could face renewed depreciation should Brent climb above the $100 mark. Meanwhile, sentiment was supported by expectations that the RBI would continue to back the currency if volatility intensified, following its net sale of $6.1 billion in the foreign exchange market in May after a net $8.9 billion sale in April. Additional support came from stronger foreign inflows into Indian bonds and equities after the central bank introduced measures to attract overseas capital, while foreign exchange reserves remained sufficient to cover around 10 months of imports.
+
+---
+
+### 2026-07-23 11:47:07  #國際
+
+【中國海警局新聞發言人就菲公務船侵闖中國黃巖島管轄海域發表談話】中國海警局新聞發言人姜略表示，7月23日，菲律賓3012、3018兩艘公務船不顧中方一再勸阻和警告，執意侵闖中國黃巖島管轄海域。中國海警依法對菲船採取跟監外逼、攔阻管制等必要措施予以驅離，現場操作專業規範、正當合法。黃巖島是中國固有領土。我們敦促菲方立即停止侵權挑釁行徑。中國海警將依法持續在黃巖島海域開展維權執法活動，堅決維護國家領土主權和海洋權益。
+
+---
+
+### 2026-07-23 11:46:50  #MKT News #Market Regions #Greater China #000001.SS #Impact bullish #000300.SS
+
+【Shanghai to strengthen public disclosure of listed-company tech M&A review standards】Shanghai Municipal Development and Reform Commission and other departments issued Measures to Better Leverage Direct Financing to Strengthen Tech-Financial Services, directing policymakers to: strengthen public disclosure of review standards for listed-company acquisitions of technology firms; support counterparties negotiating transaction pricing based on diversified valuation methods; leverage third-party market platforms and build a tech M&A case library and valuation database; pilot simplified review procedures for typical tech deals and promote third-party‑led M&A; coordinate national‑level M&A fund linkages and deploy Shanghai’s state‑owned asset M&A fund matrix to attract market‑oriented M&A funds around tech industry chains; and encourage domestic insurers to partner with overseas institutions to develop localized M&A insurance products.
+
+---
+
+### 2026-07-23 11:46:26  #MKT News #Macro & Rates #The Fed (FOMC) #USDJPY #Impact bullish
+
+【DBS: Investors to watch US-Japan short-end rate gap】Eugene Leow, senior rates strategist at DBS Group Research, said investors will closely watch the US-Japan short-end rate gap after media reports the Bank of Japan is open to faster tightening. He noted the one-year USD vs JPY rate spread has widened since early 2026 as markets shifted from pricing Federal Reserve cuts to hikes while Japanese rates have moved far more slowly. Leow added: "Assuming the Federal Reserve's hawkish stance persists, investors would likely need to see the Bank of Japan willing to speed hikes to 25bp per quarter to narrow the widening gap."
+
+---
+
+### 2026-07-23 11:45:05  #其他
+
+【上海：建設直接融資試驗區】中共上海市委金融委員會辦公室、上海市發展和改革委員會等部門印發《上海市充分發揮直接融資功能 進一步加強科技金融服務的若干措施》，其中提出，建設直接融資試驗區。依託上海市股權投資集聚區及張江科學城、大零號灣等高能級科創集聚區，規劃建設直接融資試驗區。建立政策評估與反饋機制，定期梳理政策落地堵點，推動及時解決落實，總結形成可複製推廣的經驗做法。推動在試驗區內形成資本、人才、技術、資訊的高度集聚，構建覆蓋從“0到1”概念驗證，到“1到10”孵化加速，再到“10到100”產業放大的全鏈條融資服務體系。
+
+---
+
+### 2026-07-23 11:45:01  #其他
+
+【上海：探索引入境外離岸人民幣資金支援境內科技創新】上海市發展和改革委員會等部門印發《上海市充分發揮直接融資功能 進一步加強科技金融服務的若干措施》，其中提出，深化合格境外有限合夥人（QFLP）試點，發揮國資基金管理人的本土資源優勢，推廣“外資內管”模式，吸引境外優質資金。探索引入境外離岸人民幣資金支援境內科技創新。對運作成熟、信譽良好的外資管理機構，推動最佳化設立審批流程，完善外匯資金匯兌便利，加強稅務合規操作輔導。
+
+---
+
+### 2026-07-23 11:44:43  #Trading Economics #Markets #Singapore #Stock Market #Importance 1
+
+STI Falls from Record High on Profit-Taking — Singapore's stocks fell 40 points, or 0.7%, to 5,555 around noon, erasing the previous two sessions' gains, as traders took profits after the benchmark index hit a record high a day earlier. The STI reached a new record high, closing at 5,595 on Wednesday, up 1.2%, mainly boosted by the banking sector as the earnings season begins. Traders were cautious ahead of the release of June inflation data, with the market expecting headline inflation to accelerate to 2.0%, the highest since August 2024, while core inflation is expected to rise to 1.6%, the highest in three months, raising expectations of further monetary tightening. Singapore tightened monetary policy for the first time since 2022 in mid-April 2026. Communications, electronic technology, and transportation stocks mainly weighed on the index, with notable losses from Sembcorp (-2.8%), OCBC (-1.9%), Jardine Cycle & Carriage (-1.9%), Jardine Matheson Holdings (-1.4%), and Venture Corp (-1.4%).
+
+---
+
+### 2026-07-23 11:44:37  #MKT News #AMD.O #Impact bullish
+
+Benchmark raises AMD (AMD.O) PT to $685 from $485.
+
+---
+
+### 2026-07-23 11:44:34  #MKT News #Market Regions #Greater China #CNH
+
+【Shanghai explores offshore-RMB funding for domestic tech innovation, deepens QFLP pilot】Shanghai Development and Reform Commission and other departments issued measures to strengthen tech finance: deepen the QFLP pilot, leverage state-capital fund managers’ local resources, promote a foreign-capital domestic-management model to attract high-quality offshore funding, and explore introducing offshore RMB capital to support onshore tech innovation. For reputable, mature foreign asset managers the city will push to streamline establishment approvals, ease foreign-exchange conversion of fund proceeds, and provide tax compliance guidance.
+
+---
+
+### 2026-07-23 11:44:12  #MKT News #Market Regions #Emerging Markets
+
+【Indonesian stocks near bull-market territory as sentiment recovers】Jakarta Composite Index rose as much as 1.2% on Thursday to 6,413.06, bringing gains to about 20% from the early‑June low and signaling a move toward bull‑market territory. Market sentiment has been supported by S&P Global Ratings’ affirmation of Indonesia’s sovereign rating and outlook, a retreat in oil prices and Bank Indonesia’s consecutive 50bp hikes in June. MNC Sekuritas said the index is trading in an established rising channel, with recent rupiah stabilization further boosting sentiment.
+
+---
+
+### 2026-07-23 11:43:57  #其他
+
+券商BENCHMARK將AMD目標價從485美元上調至685美元。
+
+---
+
+### 2026-07-23 11:43:10  #MKT News #Market Regions #Greater China
+
+【Shanghai explores including S funds in nested-tier exemption】Shanghai Development and Reform Commission and other municipal agencies issued measures to strengthen tech-finance services, urging accelerated cooperation with the National Council for Social Security Fund to set up selected-project funds and establish a long-term capital-relay and coordinated-empowerment mechanism. The measures call for studying an S parent fund to cluster more S funds in Shanghai and for attracting insurers, financial asset investment companies (AICs) and asset management companies (AMCs) to capitalise S funds or participate in quota trading. They also propose exploring inclusion of S funds within the nested-tier exemption framework.
 
 ---
 
@@ -20366,167 +20444,5 @@ Hong Kong-listed gold miners surged: Zijin Gold International (02259.HK), Chifen
 ### 2026-07-22 10:23:53  #MKT News #WTI #Impact bullish #Brent
 
 【Vanda Insights: Asian fuel importers likely to face prolonged geopolitical volatility】Vanda Insights founder Vandana Hari warned Asia's reliance on fossil-fuel imports—about 90% of primary energy consumption—leaves regional economies exposed to global supply shocks for decades as demand rises and major new fuel discoveries remain scarce. She said import dependence is deepening and that geopolitical turbulence could persist for years to decades. A New Energy Outlook report said Asian economies would gain most from an energy transition and estimates energy import costs in Vietnam, Japan, Indonesia and India will be 3–6% of GDP in 2025.
-
----
-
-### 2026-07-22 10:23:29  #市場 #焦點
-
-紐約期金突破4130美元/盎司，日內漲1.32%。
-
----
-
-### 2026-07-22 10:23:00  #宏觀
-
-【國臺辦駁斥賴清德分裂謬論：再次暴露其“臺獨”立場冥頑不化】國務院臺辦舉行例行新聞釋出會。有記者問：民進黨7月19日舉行全代會，兼任民進黨主席的臺灣地區領導人賴清德在會上再度鼓吹兩岸“互不隸屬”等分裂言論，大肆渲染大陸對臺“威脅”。請問對此有何評論?發言人張晗表示，賴清德在民進黨全代會上大放厥詞，再次暴露其“臺獨”立場冥頑不化、滋事挑釁、激進冒險、害臺毀臺、一意孤行。民進黨成立後不久就走上了“臺獨”分裂的錯誤道路，此後數十年裡處心積慮搞“臺獨”分裂，妄圖改變兩岸同屬一中的臺海現狀，是徹頭徹尾的“臺獨”黨。臺灣是中國的臺灣，從來不是一個國家，過去不是今後也絕對不是。臺灣問題是上世紀40年代中國內戰遺留問題，不管臺灣地區以什麼方式選舉選了什麼人，都改變不了臺灣是中國一部分的地位，都割裂不了兩岸同屬一箇中國的歷史和法理聯結，都打破不了臺灣前途只能由包括臺灣同胞在內的全體中國人民共同決定的鐵律。
-
----
-
-### 2026-07-22 10:22:45  #Trading Economics #Markets #Commodity #Importance 1
-
-Platinum Hits 1-Month Peak — Platinum futures climbed to around $1,670 an ounce, reaching a four-week high as renewed buying across precious metals and persistent global supply constraints supported prices. After weeks of heavy losses across the precious metals complex, prices are showing signs of support from dip-buying as traders weighed higher energy prices against soft US economic data. Meanwhile, the World Platinum Investment Council expects a fourth consecutive market deficit in 2026, as constrained mine supply, elevated energy costs, and higher winter electricity tariffs continue to pressure producers' margins. Sibanye-Stillwater plans to advance seven PGM mining projects, although production is not expected to begin until next year. China's industrial policies supporting AI, electric vehicles, and clean energy, together with the launch of the first platinum investment bar series, are also expected to support long-term platinum consumption.
-
----
-
-### 2026-07-22 10:22:22  #MKT News #Market Regions #Greater China #CNH #Impact bullish
-
-【China has become a major trading partner for more than 160 countries and regions】At a State Council Information Office briefing on the morning of the 22nd, officials said China is now a major trading partner for over 160 countries and regions and that import sources, product categories and quality have broadened and improved. As part of implementing the 15th Five-Year Plan and accelerating customs modernization to support services-trade development, customs will simplify tax-refund procedures for foreign visitors departing China: from July 1 refund claims under 10,000 yuan will move to a spot-check sampling regime and refunds will be processed fully paperlessly. Authorities said further supervisory optimizations will follow to enhance inbound consumption and promote the "Shop in China" brand.
-
----
-
-### 2026-07-22 10:21:44  #宏觀
-
-【我國已成為全球160多個國家和地區的主要貿易伙伴】今天（22日）上午，國務院新聞辦舉行新聞釋出會。介紹貫徹落實“十五五”規劃，加快推進海關現代化，服務貿易強國建設有關情況。會上介紹，從“車釐子自由”到“榴蓮自由”，越來越多全球好物“飛入尋常百姓家”，既是中國持續開放市場、與全球共享發展機遇的生動體現，也是不斷擴大內需、滿足群眾美好生活需要的真實寫照。今年以來，新增越南柚子、比利時蘋果等138種次農產品以及15個國家29種次食品准入，進口食品來源地覆蓋全球150多個國家和地區。目前，我國已成為全球160多個國家和地區的主要貿易伙伴，進口商品來源更廣、品類更多、結構更優。大洋洲的牛奶、非洲的咖啡、厄瓜多的對蝦等優質商品漂洋過海進入中國百姓的“購物車”。“十五五”時期，海關將持續最佳化通關流程，降低跨境物流成本，保障鮮活農食產品快速通關，確保以最新鮮的品質、最經濟的價格擺上百姓餐桌。海關還將進一步簡化境外旅客離境退稅流程，7月1日起，對1萬元以下的退稅申請實行抽檢模式，全面推行無紙化辦理，後續還將透過最佳化監管持續提升入境消費體驗，擦亮“購在中國”品牌。
-
----
-
-### 2026-07-22 10:21:22  #MKT News
-
-Newly listed N Qiaoluming surged over 50%.
-
----
-
-### 2026-07-22 10:20:25  #MKT News #Market Themes #China Tech Giants #09999.HK #Impact bearish #00700.HK #09626.HK
-
-Hong Kong tech names slipped: NetEase-S (09999.HK) down more than 5%, Tencent Holdings (00700.HK) nearly 5% lower, Bilibili (09626.HK) off over 3%; Xiaomi (01810.HK), Tencent Music (01698.HK), Kuaishou (01024.HK), Alibaba (09988.HK) and Baidu (09888.HK) also declined.
-
----
-
-### 2026-07-22 10:20:06  #Trading Economics #Markets #Commodity #Importance 1
-
-US Natgas Rises But Remains Near 2-Month Low — US natural gas futures rose toward $2.90 per MMBtu but remained close to a two-month low amid adequate domestic supply and weaker LNG export flows. Gas inventories were 6.4% above their five-year seasonal average as of July 10, signaling comfortable supply conditions. On top of that, average gas output in the Lower 48 states rose to 110.5 bcfd so far in July from 110.0 bcfd in June. Meanwhile, gas flows to major LNG export terminals declined to 17.3 bcfd in July so far from 17.4 bcfd in June, partly due to scheduled maintenance at Freeport LNG’s export facility in Texas, reducing the amount of gas being processed for exports and leaving more supply available in the domestic market. Tropical Storm Bertha also poses a potential threat to LNG export facilities along the Gulf Coast in the coming days. The ample supply situation in the US contrasts with tighter LNG availability for European and Asian buyers, as flows from the Persian Gulf have been disrupted amid renewed US-Iran tensions.
-
----
-
-### 2026-07-22 10:19:55  #觀點
-
-【華福證券任志強：科技板塊做空動能持續走弱 市場整體有望迴歸結構性成長主線】華福證券總裁助理兼研究所所長任志強接受採訪時表示，本輪科技板塊深度調整屬於典型的情緒與資金驅動型波動，與實體產業基本面背離，行業高景氣、高成長的核心發展趨勢並未改變，中長期成長確定性依舊突出。整體而言，科技產業技術持續突破、國產化替代加速、下游需求全面升級的三重核心驅動邏輯穩固不變。本輪市場非理性深度回撥，並非行業行情與產業成長週期的終結，反而充分釋放了前期估值壓力，為中長期機構資金佈局優質硬核科技資產、把握行業長期成長紅利，創造了估值修復與低位佈局視窗期。當前市場悲觀情緒已充分計價外部利空，地緣衝擊與美債上行帶來的流動性壓制已階段性消化，海外非理性拋售及北向結構性調倉的動能持續衰減，外部不確定性邊際顯著收斂。目前科技板塊風險或已充分出清，做空動能持續走弱。後續A股科技板塊有望開啟估值修復行情，市場整體將回歸結構性成長主線。（證券時報）
-
----
-
-### 2026-07-22 10:19:38  #其他
-
-【科創50指數漲幅擴大至1%】科創50指數漲幅擴大至1%，現報1922.67點。
-
----
-
-### 2026-07-22 10:19:35  #市場 #焦點
-
-科創50日內漲幅達1.07%，成分股中，盛科通訊漲13.17%，格科微漲5.86%，晶晨股份漲5.19%，芯原股份漲4.62%。
-
----
-
-### 2026-07-22 10:17:35  #公司
-
-【匯川技術等在青島成立軌道交通裝置公司】企查查APP顯示，近日，青島經緯銳驥利軌道交通裝置有限公司成立，法定代表人為王基雙，經營範圍包含城市軌道交通裝置製造；電機制造；軌道交通專用裝置、關鍵系統及部件銷售；高鐵裝置、配件銷售等。企查查股權穿透顯示，該公司由王基雙、匯川技術(300124)全資子公司江蘇經緯軌道交通裝置有限公司共同持股。
-
----
-
-### 2026-07-22 10:16:43  #其他
-
-【工業氣體概念股走低 中船特氣跌超8%】工業氣體概念股持續走低，中船特氣跌超8%，華特氣體、金宏氣體、正帆科技等股跌幅居前。
-
----
-
-### 2026-07-22 10:15:45  #公司
-
-【三菱電機與索尼半導體解決方案公司將組建AI視覺合資企業】7月22日，三菱電機與索尼半導體解決方案公司宣佈已簽署最終協議，將共同成立一家名為Advanced Vision Solutions的合資企業，目標是為製造業自動化提供AI視覺感測器解決方案。該企業計劃於2026年10月開始運營，目前尚需獲得監管批准。其中，三菱電機將持股60%，索尼半導體解決方案持股40%。
-
----
-
-### 2026-07-22 10:15:27  #MKT News #Market Regions #Greater China #Commodities #Energy #CSI300 #Impact bullish #SSE Composite
-
-China A-share power sector rose, with Xineng Co., Xinzhonggang, Shimao Energy and Li New Energy hitting daily limit-ups; Huadian Liaoning jumped over 9% and Jiuzhou Group gained more than 8%. Huaguang Huaneng, Huadian Energy, Jiawei New Energy, Disen Co. and Datang Power also advanced.
-
----
-
-### 2026-07-22 10:15:00  #公司 #市場
-
-電力股震盪走強，華電遼能逼近漲停，新能股份、新中港、世茂能源、立新能源此前封板，九洲集團、華電能源等漲幅居前。
-
----
-
-### 2026-07-22 10:13:36  #市場
-
-【化肥農藥板塊震盪走強 廣康生化漲超9%】化肥農藥板塊震盪走強，廣康生化漲超9%，東方鐵塔、藏格礦業、利爾化學等漲幅居前。
-
----
-
-### 2026-07-22 10:13:22  #其他
-
-【2026國際低空經濟博覽會開幕 23項全球首發將亮相】以“馭低空新勢，啟經濟新篇”為主題的2026國際低空經濟博覽會7月22日在上海開幕。本屆博覽會將進行23項全球首發、42項國內首發，首發成果覆蓋eVTOL整機、核心航電系統、輕量化航空材料、智慧空域管理、低空運營解決方案等全產業鏈核心環節。
-
----
-
-### 2026-07-22 10:13:03  #宏觀
-
-【“臺青e家”平臺上線執行 國務院臺辦：支援兩岸青年多往來、深交融】7月22日，國務院臺辦舉行例行新聞釋出會。為暢通臺灣青年來大陸交流、求學、實習、就業渠道，更好服務兩岸青年融合發展，“臺青e家”服務平臺於7月15日在中國臺灣網正式上線執行。平臺聚焦臺灣青年需求，設定來實習、找工作、去交流、選學校四大板塊，同時設立省市政策資訊交流活動、生活指南及臺青經驗談等專區，為臺灣青年提供一站式服務。我們歡迎廣大臺灣青年用好“臺青e家”服務平臺。後續我們將持續充實平臺資源供給，迭代最佳化平臺功能，不斷提升服務精細化、便利化水平，支援兩岸青年多往來、深交融，共同推動兩岸融合發展走深走實。（央視新聞）
-
----
-
-### 2026-07-22 10:12:43  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-The US House passed a stopgap funding measure to finance federal agencies through the November election, averting an immediate government shutdown.
-
----
-
-### 2026-07-22 10:12:34  #國際
-
-【國際能源署：中東局勢增加能源市場不確定性】國際能源署署長法提赫·比羅爾21日表示，當前國際原油市場的供應緊張面臨多重緩衝因素，但中東局勢最新發展加劇了國際社會擔憂，給市場前景增加更多不確定性。 比羅爾當天在一份宣告中列舉了國際原油市場的幾個緩衝因素。首先，海灣產油國保持較大規模供應，特別是在沙烏地阿拉伯和阿聯酋推動下，部分原油透過繞開霍爾木茲海峽的替代路線進入國際市場。據估計，海灣地區當前原油出口量雖較6月下旬高點有所回落，但仍明顯高於3月初至6月中旬的水平。 其次，美國、巴西、委內瑞拉和哈薩克等國增加原油出口，部分彌補了供應缺口。 此外，國際能源署成員國持續釋放戰略石油儲備，也一定程度緩解了市場壓力。自3月11日宣佈聯合釋放4億桶戰略石油儲備以來，成員國已實際釋放約2.9億桶，且仍持有大量儲備，其中政府控制的儲備超過10億桶。 國際能源署同時警告，隨著戰事升級和商業庫存下降，石油供應安全風險不容忽視。與原油供應相比，煉油活動和成品油供應恢復較慢，成品油市場更為緊張。 在天然氣市場，美國、加拿大等國增加液化天然氣供應，已彌補霍爾木茲海峽供應缺口的約70%，但若海灣地區出口延遲恢復，市場緊張局面可能延續，並影響包括歐洲在內的液化天然氣進口方。 國際能源署呼籲，應儘快解決當前衝突，“全面、無條件”恢復霍爾木茲海峽通行，避免全球能源安全形勢進一步惡化。(新華社)
-
----
-
-### 2026-07-22 10:12:33  #其他
-
-【廣發證券：第四監管週期輸配電價落地 配網投資大幕將啟】廣發證券釋出研報稱，配網升級改造日益迫切，該行預計配網補強將成為“十五五”建設重點。由於前期低價訂單交付、25Q4銅價暴漲後維持高位等諸多因素，配電裝置企業26H1業績仍有所承壓，但26H2有望迎系統性反轉。建議關注在網內、網外、海外及AIDC供電多點佈局的配電企業。
-
----
-
-### 2026-07-22 10:12:27  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australia Stocks Rise Modestly — Australian shares added 22 points or 0.3% to 8,815 in early trade on Wednesday, reversing weakness in the prior four sessions amid gains in non-energy minerals, energy minerals, and consumer services. A rebound on Wall Street overnight supported sentiment as traders shrugged off geopolitical risks, focusing instead on the tech sector. However, gains were limited by caution ahead of domestic labor market data for June and July flash PMI readings later this week. Miners jumped, as copper prices hit their highest in more than six weeks due to firm demand in top consumer China and sharp declines in inventories. BHP Group climbed 2.9% to its highest level since July 16, and Rio Tinto added 2.5%. Gold stocks also rose, with solid gains from Evolution Mining (4.6%) and Northern Star Resources (3.3%). Conversely, the four major banks fell modestly, while Technology One (-3.6%), Wisetech Global (-2.7%), and Seek (-1.5%) were among top laggards from the tech sector.
-
----
-
-### 2026-07-22 10:12:14  #國際
-
-美國眾議院透過臨時撥款法案，為聯邦機構提供資金至11月選舉。
-
----
-
-### 2026-07-22 10:10:46  #其他
-
-木原稔：不就外匯市場形勢發表評論。
-
----
-
-### 2026-07-22 10:10:31  #其他
-
-木原稔：將確保財政管理維持市場信任。
-
----
-
-### 2026-07-22 10:10:16  #公司
-
-市場訊息：Reddit正在考慮阻止谷歌使用其內容進行人工智慧分析。
 
 ---

@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-26 21:52:43_
-_本檔包含 3509 則快訊，約 687325 字_
+_更新時間：2026-07-26 23:16:02_
+_本檔包含 3525 則快訊，約 685919 字_
+
+---
+
+### 2026-07-26 23:15:11  #MKT News
+
+The Islamic Revolutionary Guard Corps (IRGC) said controlled explosions may be heard in the eastern area of Abadan port on Monday between 08:00 and 12:00; residents were told there is no cause for concern.
+
+---
+
+### 2026-07-26 23:11:26  #MKT News
+
+A Prime Minister's Office official said international forces currently number about 200 and are drawn from friendly countries.
+
+---
+
+### 2026-07-26 23:10:24  #MKT News
+
+An official at Israel’s Prime Minister’s Office said any international forces entering Gaza must obtain separate approval from each of the prime minister, the defense minister and the foreign minister.
+
+---
+
+### 2026-07-26 23:10:00  #MKT News #XAUUSD #Impact mixed #WTI #DXY
+
+An Israeli Prime Minister's Office official said international forces will operate outside the Gaza yellow line under full coordination with the Israeli military.
+
+---
+
+### 2026-07-26 23:09:48  #MKT News
+
+An Israeli Prime Minister's Office official said Israel has agreed to allow a peacekeeping commission and international forces into Gaza, as stipulated in Trump's plan.
+
+---
+
+### 2026-07-26 23:09:04  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+An official in Israel's Prime Minister's Office said Israel will maintain control of the Gaza "yellow line" area unless Hamas and the Gaza Strip are disarmed.
+
+---
+
+### 2026-07-26 23:07:42  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+CBS News, citing sources, reports the US has paused airstrikes on Iran after Omani officials traveled to Tehran on Friday for talks.
+
+---
+
+### 2026-07-26 23:07:02  #國際
+
+俄羅斯總統普京：我方從未謀求在北極製造對立衝突，相反，我們一直邀請各國依據國際法開展合作。
+
+---
+
+### 2026-07-26 23:05:42  #國際
+
+訊息人士：由於阿曼官員週五前往德黑蘭舉行會談，美國已暫停對伊朗的轟炸行動。
+
+---
+
+### 2026-07-26 23:01:18  #MKT News
+
+【German interior minister: Berlin car ramming suspected terrorist attack】Germany’s Interior Minister Dobrindt said on the 26th a vehicle ramming into pedestrians in Berlin on the evening of the 25th is suspected to be a terrorist attack. The incident killed one and injured 29, several seriously. The suspect remains at large.
+
+---
+
+### 2026-07-26 23:00:41  #其他
+
+【德國內政部長：柏林汽車撞人事件疑似恐怖襲擊】德國內政部長多布林特26日說，首都柏林25日晚發生的汽車衝撞行人事件疑似是一起恐怖襲擊。多布林特在當日的新聞釋出會上說，這起事件已造成1人死亡、29人受傷，其中部分人傷勢嚴重。目前犯罪嫌疑人依然在逃。
+
+---
+
+### 2026-07-26 22:58:06  #國際
+
+市場訊息：宏都拉斯前總統埃爾南德斯獲特朗普特赦後，已返回宏都拉斯。
+
+---
+
+### 2026-07-26 22:54:56  #MKT News
+
+【Zelenskiy says Chernihiv supermarket struck, 2 dead, 13 injured】Chernihiv city military-civil administration said on July 26 local time a supermarket was struck by a Russian military drone. President Zelenskiy said the attack killed 2 and injured 13. Russia has not responded.
+
+---
+
+### 2026-07-26 22:53:28  #國際
+
+【澤連斯基稱烏切爾尼戈夫市一超市遭襲致2死13傷】烏克蘭切爾尼戈夫市軍政管理局當地時間7月26日通報稱，當地一家超市遭俄軍無人機襲擊。烏克蘭總統澤連斯基說，襲擊已造成2人死亡，13人受傷。截至目前，俄方暫無回應。（央視新聞）
+
+---
+
+### 2026-07-26 22:48:30  #國際
+
+美國國家颶風中心：吉納維芙颶風強度持續快速增強。
+
+---
+
+### 2026-07-26 22:46:49  #其他
+
+【越南籍船舶南沙海域沉沒 我向越轉交41名獲救人員】記者從海南省三沙市獲悉，越南籍船舶“KHOI NGUYEN 18”在南沙永暑礁附近海域遇險沉沒，截至26日21時，已有46人獲救（含越方救助1人）。20時05分，我方已將救起的41名遇險人員轉交越方，剩餘4名遇險人員計劃明天轉交。（新華社）
+
+---
+
+### 2026-07-26 22:45:57  #國際
+
+美國國家颶風中心（NHC）表示，福斯托颶風將持續逐步減弱，預計本週夏威夷群島部分割槽域將遭遇巨浪。
+
+---
+
+### 2026-07-26 22:45:39  #其他
+
+市場訊息： 蘭多・諾里斯代表邁凱倫車隊奪得 F1 匈牙利大獎賽冠軍。
+
+---
+
+### 2026-07-26 22:39:13  #公司
+
+【中汽股份：目前公司可一站式滿足L2強標全場景覆蓋】中汽股份(301215)近日在機構調研時表示，目前中汽股份可一站式滿足L2強標全場景覆蓋，有效解決客戶跨場地試驗帶來的流程繁瑣、效率偏低等問題。
+
+---
+
+### 2026-07-26 22:34:14  #其他
+
+JMIC（Joint Maritime Information Center，聯合海上資訊中心）釋出訊息：過去72小時內，海峽沒有新的已確認對商船的攻擊。
+
+---
+
+### 2026-07-26 22:27:21  #其他
+
+【九寨溝景區發生泥石流致部分道路交通受阻 無人員傷亡】四川阿壩州九寨溝風景名勝區管理局釋出通報，7月26日15時50分，九寨溝景區區域性受短時強降雨引發泥石流，造成景區內部分道路交通受阻。災害發生後，九寨溝管理局啟動二級防汛及地質災害應急響應，聯合九寨溝縣有關單位，開展現場救援、遊客疏散、搶險處置和地質隱患排查工作。目前，滯留遊客正有序安全撤離，現場秩序平穩，無人員傷亡。後續景區將根據排險進展和天氣變化，適時調整遊覽區域，並透過官方渠道向社會公佈。
+
+---
+
+### 2026-07-26 22:24:13  #MKT News
+
+Israeli Prime Minister Netanyahu said the Iran issue depends on President Trump's decision.
+
+---
+
+### 2026-07-26 22:23:10  #MKT News #XAUUSD #Impact bullish #Brent #WTI
+
+Israeli Prime Minister Netanyahu said any attack by Iran, in any form, would be met with a forceful response.
+
+---
+
+### 2026-07-26 22:23:03  #MKT News #XAUUSD #Impact bullish #Brent #WTI
+
+Israel's Prime Minister Netanyahu said the war will end only when the Iranian regime collapses or is weakened to the point that it must abandon its nuclear program.
+
+---
+
+### 2026-07-26 22:22:19  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israeli Prime Minister Netanyahu said Iran's nuclear programme must be ended, either through an agreement or by other means.
+
+---
+
+### 2026-07-26 22:22:17  #其他
+
+內塔尼亞胡：若成功連任，我計劃組建廣泛聯合國民政府。
+
+---
+
+### 2026-07-26 22:21:07  #國際
+
+內塔尼亞胡談及伊朗問題：在諸多層面，此事取決於特朗普的決定。
+
+---
+
+### 2026-07-26 22:20:02  #其他
+
+德國司法部長：聯邦調查人員將接手柏林襲擊案的調查工作。
+
+---
+
+### 2026-07-26 22:19:48  #國際
+
+內塔尼亞胡：將與特朗普會面，聽取他對伊朗問題的想法。
+
+---
+
+### 2026-07-26 22:18:13  #國際
+
+內塔尼亞胡：如果伊朗以任何方式發動攻擊，我們的回應將是強有力的。
+
+---
+
+### 2026-07-26 22:17:05  #其他
+
+德國總理默茨：儘管存在各種政治分歧，我們將捍衛我們的自由。
+
+---
+
+### 2026-07-26 22:16:49  #國際
+
+內塔尼亞胡：我支援特朗普在不開戰的情況下結束伊朗核計劃的提議。
+
+---
+
+### 2026-07-26 22:16:24  #其他
+
+德國總理默茨：我們將考慮（採取）相應後續措施。
+
+---
+
+### 2026-07-26 22:15:56  #其他
+
+德國總理默茨就柏林襲擊事件表態：此類襲擊意在分裂我們，切勿被嚇倒。
+
+---
+
+### 2026-07-26 22:15:45  #市場 #焦點
+
+布倫特原油暗盤跌破88美元，日內跌超2.2%。
+
+---
+
+### 2026-07-26 22:09:36  #公司
+
+【富國基金：提示旗下ETF新股上市首日投資風險】富國基金公告稱，旗下部分交易型開放式指數基金參與滬深交易所部分上市新股網下配售，上市前按發行價對新股估值。因新股上市首日前5個交易日不設漲跌幅限制，股價波動大，而當日基金份額參考淨值（IOPV）僅含發行價，未含市場價格波動，IOPV與當日基金份額淨值或有差異，提醒投資者關注投資風險。
+
+---
+
+### 2026-07-26 22:02:52  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Iran army spokesman says US lacks a clear next step, faces limited options】Iran army spokesman Akraminia said on the 26th that Tehran does not see a concrete US next-step strategy and judges Washington to be in a dilemma. He listed possible US options as withdrawal, large-scale air strikes under Israeli pressure, or a ground operation, and said Iran will watch US moves and is prepared for various scenarios. Akraminia added the conflict’s geographic scope has expanded to the Bab el-Mandeb Strait and that Iranian actions have included US targets from Jordan to the Gulf littoral states.
+
+---
+
+### 2026-07-26 22:02:25  #其他
+
+【四川洪雅玉屏山森林火災明火已撲滅】7月26日，四川省眉山市洪雅縣柳江鎮玉屏山突發森林火災，四川消防救援機動總隊調派332名指戰員、66臺消防車開展撲救。截至21時，明火已撲滅。（央視新聞）
+
+---
+
+### 2026-07-26 22:01:36  #其他
+
+光大控股：807 萬美元新股發行確定發行價。
 
 ---
 
@@ -21095,143 +21329,5 @@ Japan 40-year government bond yield rose 10 bps to 4.01%.
 ### 2026-07-24 14:21:39  #MKT News #Market Themes #Chip Wars #000660.KS
 
 ZDNet reports SK Hynix is accelerating development of 3D-stacked DRAM, regarded as next-generation DRAM for edge/on-device AI. The company has begun recruiting talent and is co-designing the technology with a US customer.
-
----
-
-### 2026-07-24 14:21:28  #MKT News
-
-Australian S&P/ASX 200 index closed down 69.60 points, or 0.79%, at 8,769.40 on Friday, July 24.
-
----
-
-### 2026-07-24 14:21:08  #公司
-
-【聯想等在貴州成立新科技公司 註冊資本2000萬】天眼查App顯示，近日，貴州新聯智想科技有限公司成立，法定代表人為吳明疆，註冊資本2000萬人民幣，經營範圍包括人工智慧應用軟體開發、大資料服務、資訊系統整合服務等。股東資訊顯示，該公司由聯想旗下廣西聯想智聯資訊科技有限公司、海南黔源投資有限公司、海南漪迪能源科技有限公司共同持股。
-
----
-
-### 2026-07-24 14:20:44  #央行 #國際
-
-【美聯儲議息會議臨近，期權交易員一個月內空前看多美元】受中東地緣緊張局勢影響，疊加下週美聯儲政策決議落地前的市場情緒，美元期權看漲情緒升溫。油價走高拖累美債收益率下行，美元有望創下一個月以來表現最佳單週。利率互換定價顯示，美聯儲下次議息會議加息 25 個基點的機率為 37%。偏鷹政策預期與利差優勢助推美元期權看漲押注，一週期風險反轉指標升至 27 個基點，創下近一個月最高看多水平。
-
----
-
-### 2026-07-24 14:19:48  #MKT News #Commodities #Energy #Market Regions #Greater China
-
-【China NEA issues 373 mln green certificates in June】China's National Energy Administration issued 373 million renewable energy green certificates in June, covering 1.2475 million projects. Of these, 206 million (55.41%) are tradable, roughly unchanged MoM. The issuance primarily reflects May 2026 renewable generation (270 million certificates, 72.38%). Certificates for conventional hydropower, biomass and other renewables rose MoM, with conventional hydropower recording the largest increase.
-
----
-
-### 2026-07-24 14:19:47  #其他
-
-【國家能源局：6月國家能源局核發綠證3.73億個】2026年6月，國家能源局核發綠證3.73億個，涉及可再生能源發電專案124.75萬個，其中可交易綠證2.06億個，佔比55.41%，可交易綠證數量較上月基本持平。本期核發2026年5月可再生能源電量對應綠證2.70億個，佔比72.38%。本月常規水電、生物質發電及其他可再生能源發電型別綠證核發數量均有所增長，其中常規水電綠證核發增幅最大。（國家能源局）
-
----
-
-### 2026-07-24 14:19:37  #其他
-
-德意志銀行將意法半導體目標股價從75歐元下調至70歐元。
-
----
-
-### 2026-07-24 14:19:03  #MKT News #Market Regions #Greater China #01141.HK #Impact bearish
-
-Minyin Capital (01141.HK) plunged in afternoon trading, down more than 40% at one point; now down 30%.
-
----
-
-### 2026-07-24 14:18:53  #觀點
-
-【大摩：大幅下調IBM目標價至190美元，維持“與大市同步”評級】摩根士丹利發表報告指，IBM下半年復甦情境具有可行性，受早期訂單回補及生產力提升支撐，但指引幾乎沒有容許錯誤空間，並需要Z業務(企業級大型主機)強勁反彈。第三季業務與第四季指引，應能釐清第二季表現是暫時性還是更廣泛的優先順序調整趨勢。該行將其目標價由293美元大幅下調至190美元，維持“與大市同步”評級。
-
----
-
-### 2026-07-24 14:17:50  #公司
-
-【重慶武隆能源發展集團董事長李志強接受審查調查】據重慶武隆區紀委監委訊息，重慶武隆能源發展（集團）有限公司黨委書記、董事長李志強涉嫌嚴重違紀違法，目前正接受區紀委監委紀律審查和監察調查。
-
----
-
-### 2026-07-24 14:17:37  #市場
-
-【港股民銀資本午後下挫 盤中跌幅一度超40%】港股民銀資本午後股價下挫，跌幅一度超過40%，股價一度低至2.19港元。
-
----
-
-### 2026-07-24 14:16:44  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100 #DXY #Impact bearish
-
-【UK June retail sales unexpectedly rise 1.0% MoM; YoY up 4.2%】ONS data show UK retail sales rose 1.0% MoM in June (consensus -0.3%) and 4.2% YoY (consensus 2.3%). ONS senior statistician Hannah Finselbach said demand was strong for outdoor goods, air conditioners and clothing, and online sales of sports goods were robust. The report notes household inflation has fallen to its lowest in over a year as fuel and food prices decline, and labour market weakness is showing tentative signs of stabilising. ONS cautioned the recovery remains fragile; the recent breakdown of a US–Iran ceasefire has revived concerns about higher energy bills and rising mortgage costs.
-
----
-
-### 2026-07-24 14:16:31  #MKT News
-
-【Fubao Info: Lithium carbonate spot down 1,500 yuan/ton; battery-grade at 140,850 yuan/ton】Fubao battery-grade spot basis index -1,620 yuan/ton (unchanged). Battery-grade lithium carbonate 140,850 yuan/ton (-1,500). Industrial-grade lithium carbonate (composite) 138,350 yuan/ton (-1,500). Premium battery-grade lithium carbonate 141,850 yuan/ton (-1,500). Lithium hydroxide index 126,333.33 yuan/ton (-1,500). Metallic lithium index 1,032,500 yuan/ton (unchanged). Fubao brine-derived lithium sulfate discount factor 76.5% (+0.5 pts).
-
----
-
-### 2026-07-24 14:15:25  #市場 #焦點
-
-豆粕連續主力合約日內漲1%，現報3215.00元。
-
----
-
-### 2026-07-24 14:15:07  #MKT News #Market Themes #AI Revolution
-
-【Tencent reorganizes Hunyuan teams, merges large-language and multimodal units to accelerate model R&D】Tencent has merged its Hunyuan multimodal and large-language model teams into a single Foundation Model Department overseen by Chief AI Scientist Yao Shunyu, aiming to improve R&D and coordination efficiency and to advance full‑modality model capabilities.
-
----
-
-### 2026-07-24 14:13:53  #其他
-
-【騰訊混元組織架構調整：合併大語言模型和多模態團隊，統一由姚順雨管理】騰訊宣佈混元多模態模型部門與大語言模型部門合併，成立基礎模型部，統一由騰訊首席 AI 科學家姚順雨管理，以進一步提升模型研發和協同效率，探索全模態模型的智慧上限。 （新浪科技）
-
----
-
-### 2026-07-24 14:13:42  #市場
-
-澳大利亞S&P/ASX 200指數收盤下跌0.8%，報8772.30點。
-
----
-
-### 2026-07-24 14:11:16  #其他
-
-【上海貝殼省心租宣佈全面推開“0押月付”服務】7月23日，上海貝殼省心租宣佈，將全面推開“0押月付”服務，並同步推出最高30萬元的服務保障體系。
-
----
-
-### 2026-07-24 14:11:01  #國際
-
-【伊朗外長：國際社會面臨非法使用武力等多重挑戰】當地時間24日，伊朗外交部長阿拉格齊在吉爾吉斯斯坦舉行的上海合作組織成員國外長理事會會議上發表講話。阿拉格齊表示，當前國際社會面臨單邊主義、非法使用武力、單邊制裁以及將經濟金融機制政治化等挑戰。阿拉格齊稱，繼2025年6月的襲擊後，伊朗在2026年2月至4月再次遭到美國和以色列軍事襲擊。他表示，2月28日，伊朗最高領袖及其家人在襲擊中身亡，霍爾木茲甘省米納卜市一所學校和法爾斯省拉默爾德市一座體育場也遭襲，造成大量人員傷亡。阿拉格齊表示，在伊朗與有關方面進行外交談判期間發生軍事襲擊，將削弱各方對外交與和平解決爭端機制的信任。他呼籲國際社會反對任何違反國際法的行為，並追究相關責任。（央視新聞）
-
----
-
-### 2026-07-24 14:10:46  #其他
-
-【深圳機場上半年旅客量超3360萬人次】據深視新聞，記者從深圳機場瞭解到，今年上半年，深圳機場客貨主要業務指標均保持穩步增長，其中旅客吞吐量達到3361.5萬人次，航班起降達到22.4萬架次，貨郵吞吐量達到98.3萬噸。
-
----
-
-### 2026-07-24 14:10:16  #Trading Economics #Economy #Sweden #Unemployment Rate #Importance 1
-
-Swedish Jobless Rate Jumps to 17-Month High — Sweden’s unemployment rate jumped to 9.9% in June 2026 from 9.4% in the same month a year earlier, marking the highest level since January 2025. The total number of unemployed people climbed by 42.7 thousand from June 2025 to 591,500, which consists of 261,000 women and 331,000 men, corresponding to 9.1% and 10.6%, respectively. Among people aged 15-24, 280,000 were unemployed, corresponding to a youth unemployment rate of 31.4%, of whom 149,000 were full-time students. The number of long-term unemployed, defined as those jobless for at least 27 weeks, reached 157,000, including 53,000 women and 104,000 men. Meanwhile, employment among people aged 15-74 rose by 98,800 from a year earlier to 5.4 million, including 2.796 million men and 2.602 million women. The average total number of hours worked per week stood at 165.7 million. On a seasonally adjusted basis, the unemployment rate was 8.7%, while the youth unemployment stood at 24.9%.
-
----
-
-### 2026-07-24 14:10:09  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran foreign minister says any source of attacks on Iran will be lawful target for defensive action】On the 24th, Iran’s foreign minister said Tehran will treat any source that launches attacks against the Iranian people as a legitimate target for defensive action by Iran’s armed forces. He warned that any party participating in, assisting, or cooperating with attacks on Iran will bear corresponding international responsibility.
-
----
-
-### 2026-07-24 14:10:06  #其他
-
-【部分飲料概念港股急升 安德利果汁漲超20%】部分飲料概念港股午後急升。截至發稿，安德利果汁(02218.HK)漲超20%，滬上阿姨(02589.HK)漲超10%。
-
----
-
-### 2026-07-24 14:09:59  #MKT News #Market Regions #Greater China
-
-【China Resources Group chairman change】July 23, 2026 — The Central Organization Department announced the CPC Central Committee's decision to appoint Wang Haimin as chairman of China Resources (Group) Co., Ltd. and to relieve Wang Xiangming of the chairmanship. Wang Haimin was also relieved of his chairmanship at Hong Kong China Travel Service (Group) Co. The announcement was made at a China Resources senior management meeting.
 
 ---

@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-26 21:52:43_
-_本檔包含 3881 則快訊，約 686606 字_
+_更新時間：2026-07-26 23:16:02_
+_本檔包含 3891 則快訊，約 685969 字_
+
+---
+
+### 2026-07-24 14:21:28  #MKT News
+
+Australian S&P/ASX 200 index closed down 69.60 points, or 0.79%, at 8,769.40 on Friday, July 24.
+
+---
+
+### 2026-07-24 14:21:08  #公司
+
+【聯想等在貴州成立新科技公司 註冊資本2000萬】天眼查App顯示，近日，貴州新聯智想科技有限公司成立，法定代表人為吳明疆，註冊資本2000萬人民幣，經營範圍包括人工智慧應用軟體開發、大資料服務、資訊系統整合服務等。股東資訊顯示，該公司由聯想旗下廣西聯想智聯資訊科技有限公司、海南黔源投資有限公司、海南漪迪能源科技有限公司共同持股。
+
+---
+
+### 2026-07-24 14:20:44  #央行 #國際
+
+【美聯儲議息會議臨近，期權交易員一個月內空前看多美元】受中東地緣緊張局勢影響，疊加下週美聯儲政策決議落地前的市場情緒，美元期權看漲情緒升溫。油價走高拖累美債收益率下行，美元有望創下一個月以來表現最佳單週。利率互換定價顯示，美聯儲下次議息會議加息 25 個基點的機率為 37%。偏鷹政策預期與利差優勢助推美元期權看漲押注，一週期風險反轉指標升至 27 個基點，創下近一個月最高看多水平。
+
+---
+
+### 2026-07-24 14:19:48  #MKT News #Commodities #Energy #Market Regions #Greater China
+
+【China NEA issues 373 mln green certificates in June】China's National Energy Administration issued 373 million renewable energy green certificates in June, covering 1.2475 million projects. Of these, 206 million (55.41%) are tradable, roughly unchanged MoM. The issuance primarily reflects May 2026 renewable generation (270 million certificates, 72.38%). Certificates for conventional hydropower, biomass and other renewables rose MoM, with conventional hydropower recording the largest increase.
+
+---
+
+### 2026-07-24 14:19:47  #其他
+
+【國家能源局：6月國家能源局核發綠證3.73億個】2026年6月，國家能源局核發綠證3.73億個，涉及可再生能源發電專案124.75萬個，其中可交易綠證2.06億個，佔比55.41%，可交易綠證數量較上月基本持平。本期核發2026年5月可再生能源電量對應綠證2.70億個，佔比72.38%。本月常規水電、生物質發電及其他可再生能源發電型別綠證核發數量均有所增長，其中常規水電綠證核發增幅最大。（國家能源局）
+
+---
+
+### 2026-07-24 14:19:37  #其他
+
+德意志銀行將意法半導體目標股價從75歐元下調至70歐元。
+
+---
+
+### 2026-07-24 14:19:03  #MKT News #Market Regions #Greater China #01141.HK #Impact bearish
+
+Minyin Capital (01141.HK) plunged in afternoon trading, down more than 40% at one point; now down 30%.
+
+---
+
+### 2026-07-24 14:18:53  #觀點
+
+【大摩：大幅下調IBM目標價至190美元，維持“與大市同步”評級】摩根士丹利發表報告指，IBM下半年復甦情境具有可行性，受早期訂單回補及生產力提升支撐，但指引幾乎沒有容許錯誤空間，並需要Z業務(企業級大型主機)強勁反彈。第三季業務與第四季指引，應能釐清第二季表現是暫時性還是更廣泛的優先順序調整趨勢。該行將其目標價由293美元大幅下調至190美元，維持“與大市同步”評級。
+
+---
+
+### 2026-07-24 14:17:50  #公司
+
+【重慶武隆能源發展集團董事長李志強接受審查調查】據重慶武隆區紀委監委訊息，重慶武隆能源發展（集團）有限公司黨委書記、董事長李志強涉嫌嚴重違紀違法，目前正接受區紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-07-24 14:17:37  #市場
+
+【港股民銀資本午後下挫 盤中跌幅一度超40%】港股民銀資本午後股價下挫，跌幅一度超過40%，股價一度低至2.19港元。
+
+---
+
+### 2026-07-24 14:16:44  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100 #DXY #Impact bearish
+
+【UK June retail sales unexpectedly rise 1.0% MoM; YoY up 4.2%】ONS data show UK retail sales rose 1.0% MoM in June (consensus -0.3%) and 4.2% YoY (consensus 2.3%). ONS senior statistician Hannah Finselbach said demand was strong for outdoor goods, air conditioners and clothing, and online sales of sports goods were robust. The report notes household inflation has fallen to its lowest in over a year as fuel and food prices decline, and labour market weakness is showing tentative signs of stabilising. ONS cautioned the recovery remains fragile; the recent breakdown of a US–Iran ceasefire has revived concerns about higher energy bills and rising mortgage costs.
+
+---
+
+### 2026-07-24 14:16:31  #MKT News
+
+【Fubao Info: Lithium carbonate spot down 1,500 yuan/ton; battery-grade at 140,850 yuan/ton】Fubao battery-grade spot basis index -1,620 yuan/ton (unchanged). Battery-grade lithium carbonate 140,850 yuan/ton (-1,500). Industrial-grade lithium carbonate (composite) 138,350 yuan/ton (-1,500). Premium battery-grade lithium carbonate 141,850 yuan/ton (-1,500). Lithium hydroxide index 126,333.33 yuan/ton (-1,500). Metallic lithium index 1,032,500 yuan/ton (unchanged). Fubao brine-derived lithium sulfate discount factor 76.5% (+0.5 pts).
+
+---
+
+### 2026-07-24 14:15:25  #市場 #焦點
+
+豆粕連續主力合約日內漲1%，現報3215.00元。
+
+---
+
+### 2026-07-24 14:15:07  #MKT News #Market Themes #AI Revolution
+
+【Tencent reorganizes Hunyuan teams, merges large-language and multimodal units to accelerate model R&D】Tencent has merged its Hunyuan multimodal and large-language model teams into a single Foundation Model Department overseen by Chief AI Scientist Yao Shunyu, aiming to improve R&D and coordination efficiency and to advance full‑modality model capabilities.
+
+---
+
+### 2026-07-24 14:13:53  #其他
+
+【騰訊混元組織架構調整：合併大語言模型和多模態團隊，統一由姚順雨管理】騰訊宣佈混元多模態模型部門與大語言模型部門合併，成立基礎模型部，統一由騰訊首席 AI 科學家姚順雨管理，以進一步提升模型研發和協同效率，探索全模態模型的智慧上限。 （新浪科技）
+
+---
+
+### 2026-07-24 14:13:42  #市場
+
+澳大利亞S&P/ASX 200指數收盤下跌0.8%，報8772.30點。
+
+---
+
+### 2026-07-24 14:11:16  #其他
+
+【上海貝殼省心租宣佈全面推開“0押月付”服務】7月23日，上海貝殼省心租宣佈，將全面推開“0押月付”服務，並同步推出最高30萬元的服務保障體系。
+
+---
+
+### 2026-07-24 14:11:01  #國際
+
+【伊朗外長：國際社會面臨非法使用武力等多重挑戰】當地時間24日，伊朗外交部長阿拉格齊在吉爾吉斯斯坦舉行的上海合作組織成員國外長理事會會議上發表講話。阿拉格齊表示，當前國際社會面臨單邊主義、非法使用武力、單邊制裁以及將經濟金融機制政治化等挑戰。阿拉格齊稱，繼2025年6月的襲擊後，伊朗在2026年2月至4月再次遭到美國和以色列軍事襲擊。他表示，2月28日，伊朗最高領袖及其家人在襲擊中身亡，霍爾木茲甘省米納卜市一所學校和法爾斯省拉默爾德市一座體育場也遭襲，造成大量人員傷亡。阿拉格齊表示，在伊朗與有關方面進行外交談判期間發生軍事襲擊，將削弱各方對外交與和平解決爭端機制的信任。他呼籲國際社會反對任何違反國際法的行為，並追究相關責任。（央視新聞）
+
+---
+
+### 2026-07-24 14:10:46  #其他
+
+【深圳機場上半年旅客量超3360萬人次】據深視新聞，記者從深圳機場瞭解到，今年上半年，深圳機場客貨主要業務指標均保持穩步增長，其中旅客吞吐量達到3361.5萬人次，航班起降達到22.4萬架次，貨郵吞吐量達到98.3萬噸。
+
+---
+
+### 2026-07-24 14:10:16  #Trading Economics #Economy #Sweden #Unemployment Rate #Importance 1
+
+Swedish Jobless Rate Jumps to 17-Month High — Sweden’s unemployment rate jumped to 9.9% in June 2026 from 9.4% in the same month a year earlier, marking the highest level since January 2025. The total number of unemployed people climbed by 42.7 thousand from June 2025 to 591,500, which consists of 261,000 women and 331,000 men, corresponding to 9.1% and 10.6%, respectively. Among people aged 15-24, 280,000 were unemployed, corresponding to a youth unemployment rate of 31.4%, of whom 149,000 were full-time students. The number of long-term unemployed, defined as those jobless for at least 27 weeks, reached 157,000, including 53,000 women and 104,000 men. Meanwhile, employment among people aged 15-74 rose by 98,800 from a year earlier to 5.4 million, including 2.796 million men and 2.602 million women. The average total number of hours worked per week stood at 165.7 million. On a seasonally adjusted basis, the unemployment rate was 8.7%, while the youth unemployment stood at 24.9%.
+
+---
+
+### 2026-07-24 14:10:09  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran foreign minister says any source of attacks on Iran will be lawful target for defensive action】On the 24th, Iran’s foreign minister said Tehran will treat any source that launches attacks against the Iranian people as a legitimate target for defensive action by Iran’s armed forces. He warned that any party participating in, assisting, or cooperating with attacks on Iran will bear corresponding international responsibility.
+
+---
+
+### 2026-07-24 14:10:06  #其他
+
+【部分飲料概念港股急升 安德利果汁漲超20%】部分飲料概念港股午後急升。截至發稿，安德利果汁(02218.HK)漲超20%，滬上阿姨(02589.HK)漲超10%。
+
+---
+
+### 2026-07-24 14:09:59  #MKT News #Market Regions #Greater China
+
+【China Resources Group chairman change】July 23, 2026 — The Central Organization Department announced the CPC Central Committee's decision to appoint Wang Haimin as chairman of China Resources (Group) Co., Ltd. and to relieve Wang Xiangming of the chairmanship. Wang Haimin was also relieved of his chairmanship at Hong Kong China Travel Service (Group) Co. The announcement was made at a China Resources senior management meeting.
 
 ---
 
@@ -23320,83 +23458,5 @@ DP World said on Wednesday it will develop two new container terminals in Fujair
 ### 2026-07-23 11:47:35  #MKT News #Commodities #Energy #Brent #Impact bullish
 
 【Analyst: Brent could hit $100/bbl if tensions persist】Phillip Nova analyst Priyanka Sachdeva said in a note that sustained escalation could push Brent to $100/bbl. She said the market currently faces logistics risk rather than direct crude losses, but persistent attacks could erase that distinction rapidly. The biggest energy-market risk is simultaneous, prolonged disruptions in the Bab al‑Mandeb and the Strait of Hormuz; if that occurs, flexibility to reroute cargoes would be very limited and shipping interruptions could quickly feed into broader inflationary pressure.
-
----
-
-### 2026-07-23 11:47:24  #公司
-
-【海思科：創新藥琥珀酸思普可泮片獲批上市】海思科(002653)7月23日午間公告，公司於7月23日透過國家藥監局官網查詢，國家藥監局批准公司申報的1類創新藥琥珀酸思普可泮片上市。本次獲批上市的適應症為治療既往未接受過補體抑制劑治療的陣發性睡眠性血紅蛋白尿症（PNH）成人患者。
-
----
-
-### 2026-07-23 11:47:17  #Trading Economics #Markets #India #Currency #Importance 1
-
-Rupee Pauses Losses Despite Oil Rally — The Indian rupee hovered around 96.4 per dollar, pausing its recent slide after touching its weakest level in more than two months, though it remained under pressure from surging oil prices. Escalating tensions between the US and Iran pushed Brent crude above $96 per barrel, heightening concerns over disruptions to oil supplies and worsening the outlook for the world's third-largest oil importer. Traders also warned the rupee could face renewed depreciation should Brent climb above the $100 mark. Meanwhile, sentiment was supported by expectations that the RBI would continue to back the currency if volatility intensified, following its net sale of $6.1 billion in the foreign exchange market in May after a net $8.9 billion sale in April. Additional support came from stronger foreign inflows into Indian bonds and equities after the central bank introduced measures to attract overseas capital, while foreign exchange reserves remained sufficient to cover around 10 months of imports.
-
----
-
-### 2026-07-23 11:47:07  #國際
-
-【中國海警局新聞發言人就菲公務船侵闖中國黃巖島管轄海域發表談話】中國海警局新聞發言人姜略表示，7月23日，菲律賓3012、3018兩艘公務船不顧中方一再勸阻和警告，執意侵闖中國黃巖島管轄海域。中國海警依法對菲船採取跟監外逼、攔阻管制等必要措施予以驅離，現場操作專業規範、正當合法。黃巖島是中國固有領土。我們敦促菲方立即停止侵權挑釁行徑。中國海警將依法持續在黃巖島海域開展維權執法活動，堅決維護國家領土主權和海洋權益。
-
----
-
-### 2026-07-23 11:46:50  #MKT News #Market Regions #Greater China #000001.SS #Impact bullish #000300.SS
-
-【Shanghai to strengthen public disclosure of listed-company tech M&A review standards】Shanghai Municipal Development and Reform Commission and other departments issued Measures to Better Leverage Direct Financing to Strengthen Tech-Financial Services, directing policymakers to: strengthen public disclosure of review standards for listed-company acquisitions of technology firms; support counterparties negotiating transaction pricing based on diversified valuation methods; leverage third-party market platforms and build a tech M&A case library and valuation database; pilot simplified review procedures for typical tech deals and promote third-party‑led M&A; coordinate national‑level M&A fund linkages and deploy Shanghai’s state‑owned asset M&A fund matrix to attract market‑oriented M&A funds around tech industry chains; and encourage domestic insurers to partner with overseas institutions to develop localized M&A insurance products.
-
----
-
-### 2026-07-23 11:46:26  #MKT News #Macro & Rates #The Fed (FOMC) #USDJPY #Impact bullish
-
-【DBS: Investors to watch US-Japan short-end rate gap】Eugene Leow, senior rates strategist at DBS Group Research, said investors will closely watch the US-Japan short-end rate gap after media reports the Bank of Japan is open to faster tightening. He noted the one-year USD vs JPY rate spread has widened since early 2026 as markets shifted from pricing Federal Reserve cuts to hikes while Japanese rates have moved far more slowly. Leow added: "Assuming the Federal Reserve's hawkish stance persists, investors would likely need to see the Bank of Japan willing to speed hikes to 25bp per quarter to narrow the widening gap."
-
----
-
-### 2026-07-23 11:45:05  #其他
-
-【上海：建設直接融資試驗區】中共上海市委金融委員會辦公室、上海市發展和改革委員會等部門印發《上海市充分發揮直接融資功能 進一步加強科技金融服務的若干措施》，其中提出，建設直接融資試驗區。依託上海市股權投資集聚區及張江科學城、大零號灣等高能級科創集聚區，規劃建設直接融資試驗區。建立政策評估與反饋機制，定期梳理政策落地堵點，推動及時解決落實，總結形成可複製推廣的經驗做法。推動在試驗區內形成資本、人才、技術、資訊的高度集聚，構建覆蓋從“0到1”概念驗證，到“1到10”孵化加速，再到“10到100”產業放大的全鏈條融資服務體系。
-
----
-
-### 2026-07-23 11:45:01  #其他
-
-【上海：探索引入境外離岸人民幣資金支援境內科技創新】上海市發展和改革委員會等部門印發《上海市充分發揮直接融資功能 進一步加強科技金融服務的若干措施》，其中提出，深化合格境外有限合夥人（QFLP）試點，發揮國資基金管理人的本土資源優勢，推廣“外資內管”模式，吸引境外優質資金。探索引入境外離岸人民幣資金支援境內科技創新。對運作成熟、信譽良好的外資管理機構，推動最佳化設立審批流程，完善外匯資金匯兌便利，加強稅務合規操作輔導。
-
----
-
-### 2026-07-23 11:44:43  #Trading Economics #Markets #Singapore #Stock Market #Importance 1
-
-STI Falls from Record High on Profit-Taking — Singapore's stocks fell 40 points, or 0.7%, to 5,555 around noon, erasing the previous two sessions' gains, as traders took profits after the benchmark index hit a record high a day earlier. The STI reached a new record high, closing at 5,595 on Wednesday, up 1.2%, mainly boosted by the banking sector as the earnings season begins. Traders were cautious ahead of the release of June inflation data, with the market expecting headline inflation to accelerate to 2.0%, the highest since August 2024, while core inflation is expected to rise to 1.6%, the highest in three months, raising expectations of further monetary tightening. Singapore tightened monetary policy for the first time since 2022 in mid-April 2026. Communications, electronic technology, and transportation stocks mainly weighed on the index, with notable losses from Sembcorp (-2.8%), OCBC (-1.9%), Jardine Cycle & Carriage (-1.9%), Jardine Matheson Holdings (-1.4%), and Venture Corp (-1.4%).
-
----
-
-### 2026-07-23 11:44:37  #MKT News #AMD.O #Impact bullish
-
-Benchmark raises AMD (AMD.O) PT to $685 from $485.
-
----
-
-### 2026-07-23 11:44:34  #MKT News #Market Regions #Greater China #CNH
-
-【Shanghai explores offshore-RMB funding for domestic tech innovation, deepens QFLP pilot】Shanghai Development and Reform Commission and other departments issued measures to strengthen tech finance: deepen the QFLP pilot, leverage state-capital fund managers’ local resources, promote a foreign-capital domestic-management model to attract high-quality offshore funding, and explore introducing offshore RMB capital to support onshore tech innovation. For reputable, mature foreign asset managers the city will push to streamline establishment approvals, ease foreign-exchange conversion of fund proceeds, and provide tax compliance guidance.
-
----
-
-### 2026-07-23 11:44:12  #MKT News #Market Regions #Emerging Markets
-
-【Indonesian stocks near bull-market territory as sentiment recovers】Jakarta Composite Index rose as much as 1.2% on Thursday to 6,413.06, bringing gains to about 20% from the early‑June low and signaling a move toward bull‑market territory. Market sentiment has been supported by S&P Global Ratings’ affirmation of Indonesia’s sovereign rating and outlook, a retreat in oil prices and Bank Indonesia’s consecutive 50bp hikes in June. MNC Sekuritas said the index is trading in an established rising channel, with recent rupiah stabilization further boosting sentiment.
-
----
-
-### 2026-07-23 11:43:57  #其他
-
-券商BENCHMARK將AMD目標價從485美元上調至685美元。
-
----
-
-### 2026-07-23 11:43:10  #MKT News #Market Regions #Greater China
-
-【Shanghai explores including S funds in nested-tier exemption】Shanghai Development and Reform Commission and other municipal agencies issued measures to strengthen tech-finance services, urging accelerated cooperation with the National Council for Social Security Fund to set up selected-project funds and establish a long-term capital-relay and coordinated-empowerment mechanism. The measures call for studying an S parent fund to cluster more S funds in Shanghai and for attracting insurers, financial asset investment companies (AICs) and asset management companies (AMCs) to capitalise S funds or participate in quota trading. They also propose exploring inclusion of S funds within the nested-tier exemption framework.
 
 ---
