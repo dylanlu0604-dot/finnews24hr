@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-26 23:00:06",
-  "count": 18039,
+  "updated": "2026-07-26 23:04:50",
+  "count": 18037,
   "items": [
+    {
+      "id": "mkt:019f9ef1-dcf7-7aab-8e9a-b0fed40114d2",
+      "time": "2026-07-26 23:01:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【German interior minister: Berlin car ramming suspected terrorist attack】Germany’s Interior Minister Dobrindt said on the 26th a vehicle ramming into pedestrians in Berlin on the evening of the 25th is suspected to be a terrorist attack. The incident killed one and injured 29, several seriously. The suspect remains at large."
+    },
+    {
+      "id": "5008630",
+      "time": "2026-07-26 23:00:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國內政部長：柏林汽車撞人事件疑似恐怖襲擊】德國內政部長多布林特26日說，首都柏林25日晚發生的汽車衝撞行人事件疑似是一起恐怖襲擊。多布林特在當日的新聞釋出會上說，這起事件已造成1人死亡、29人受傷，其中部分人傷勢嚴重。目前犯罪嫌疑人依然在逃。"
+    },
     {
       "id": "5008629",
       "time": "2026-07-26 22:58:06",
@@ -165235,38 +165251,6 @@
         "AI Revolution"
       ],
       "text": "【Moonshot AI Kimi pauses new consumer subscriptions citing compute shortage】Moonshot AI’s Kimi said effective immediately it will suspend new consumer subscriptions and allocate all available compute to serve existing subscribers, assuring current subscribers’ rights will not be affected. The firm said it is accelerating compute-capacity expansion and will progressively reopen subscription slots as new capacity comes online until normal subscription levels resume. Future new subscribers will see Kimi’s core benefits (Kimi Web, Kimi APP, Kimi Work) separated from Kimi Code benefits to allow more precise compute allocation and protect user experience."
-    },
-    {
-      "id": "4996186",
-      "time": "2026-07-19 23:03:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江西一地釋出暴雨紅色預警 累計雨量將達100毫米以上】江西省瑞昌市氣象臺2026年7月19日21時17分變更暴雨紅色預警訊號：瑞昌市南部、東部、中部鄉鎮目前普遍已降暴雨，橫港水庫近三小時降水量已達90毫米，預計累計雨量將達100毫米以上，請注意防範強降雨可能引發的城鄉內澇、中小河流洪水、山洪和地質災害等次生災害。（央視新聞）"
-    },
-    {
-      "id": "4996185",
-      "time": "2026-07-19 23:02:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【月之暗面Kimi稱算力緊缺：暫停C端新使用者訂閱 將已有算力全部投入於服務已訂閱使用者】月之暗面Kimi釋出通知，決定即日起，暫停C端新使用者訂閱，將已有算力全部投入於服務已訂閱使用者，保障已訂閱使用者的全部權益不受影響。同時，已在全速推進算力擴容。隨著新算力陸續到位，將逐步開放更多訂閱名額直至全面恢復正常訂閱。對於後續新訂閱使用者，將拆分Kimi主權益(包含KimiWeb,Kimi APP, Kimi Work)和Kimi Code 益，以方便更精準匹配算力，保障使用者體驗。"
-    },
-    {
-      "id": "4996184",
-      "time": "2026-07-19 23:02:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩總理譴責伊朗襲擊科威特與約旦的行為。"
-    },
-    {
-      "id": "4996183",
-      "time": "2026-07-19 23:01:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗媒體：霍爾木茲海峽通航量已降至零】伊朗法爾斯通訊社19日援引訊息人士的話報道說，霍爾木茲海峽的通航量已降至零，只要美國繼續其挑釁行為，該海峽將保持關閉。這名來自伊朗伊斯蘭革命衛隊海軍的訊息人士透露，目前沒有任何船隻透過霍爾木茲海峽，任何穿越海峽的企圖都將遭到伊朗的打擊。該訊息人士說，只要美國繼續採取“敵對和挑釁行為”，霍爾木茲海峽就將保持關閉狀態，伊朗不會向任何船隻發放通行許可。"
     }
   ]
 }
