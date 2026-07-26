@@ -1,7 +1,75 @@
 {
-  "updated": "2026-07-27 07:46:37",
-  "count": 17979,
+  "updated": "2026-07-27 07:51:24",
+  "count": 17977,
   "items": [
+    {
+      "id": "mkt:019fa0d3-51e7-7aab-8e9d-42c190ab8621",
+      "time": "2026-07-27 07:47:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "International coalition air-defence systems shot down a drone near Erbil airport, Iraqi security sources told Saudi outlet Alhadath; no casualties or damage reported."
+    },
+    {
+      "id": "5008822",
+      "time": "2026-07-27 07:46:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出黃色暴雨警告。"
+    },
+    {
+      "id": "5008821",
+      "time": "2026-07-27 07:46:32",
+      "tags": [
+        "央行",
+        "觀點"
+      ],
+      "text": "中信證券首席經濟學家明明等稱，7月中下旬存單中樞較為穩定，或指向商業銀行長期負債壓力穩健。央行本月對基於實際需求綜合運用各類貨幣政策工具表述積極，寬貨幣基調整體延續。伴隨三季度後續政府債供給壓力上行，預計主要貨幣政策工具仍將繼續維持寬鬆。"
+    },
+    {
+      "id": "5008820",
+      "time": "2026-07-27 07:45:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤上漲0.35點。"
+    },
+    {
+      "id": "5008819",
+      "time": "2026-07-27 07:45:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【績優基金提前減倉鎖定收益 公募對科技賽道走勢判斷現巨大分歧】進入下半年，此前持續火熱的科技細分賽道迎來大幅回撥，市場行情快速降溫，部分重倉科技個股的基金回撤幅度更是突破四成。然而，一批上半年業績亮眼的績優基金經理早在二季度便主動下調股票倉位、分散行業配置，減持高估值科技標的同時佈局傳統價值板塊，依靠提前避險操作大幅收窄淨值回撤，跑出顯著優於行業平均的表現。隨著科技板塊震盪加劇，公募基金行業對賽道後市走勢的判斷也出現巨大分歧，爭議核心集中在當前科技板塊估值是已經脫離基本面合理區間，還是即將邁入由堅實產業供需支撐的超級週期。"
+    },
+    {
+      "id": "mkt:019fa0d1-e6e3-7aab-8e9d-3d8c7a8055c2",
+      "time": "2026-07-27 07:45:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen transport minister Mohammed Ayash Kassem told Houthi-affiliated Al Masirah TV that damage to Yemen’s ports from Saudi invasion operations has exceeded $12 bln."
+    },
+    {
+      "id": "5008818",
+      "time": "2026-07-27 07:45:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數期貨早盤上漲1.2%。"
+    },
+    {
+      "id": "5008817",
+      "time": "2026-07-27 07:45:20",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "本週央行公開市場短期限逆回購到期規模將為10205億元，較上週減少約48%。"
+    },
     {
       "id": "5008816",
       "time": "2026-07-27 07:44:42",
@@ -164638,99 +164706,6 @@
         "國際"
       ],
       "text": "美國聯邦航空管理局因安全問題對紐瓦克國際機場釋出地面停飛令。"
-    },
-    {
-      "id": "4996410",
-      "time": "2026-07-20 07:50:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海事貿易運營處（UKMTO）表示，目前火災起因尚未得到核實。"
-    },
-    {
-      "id": "mkt:019f7cc9-f517-7aab-8dfc-2c085a4d0c14",
-      "time": "2026-07-20 07:50:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "UK Maritime Trade Operations (UKMTO) said it received a report of an incident 8 nautical miles northwest of Kumzar, Oman. A verified source reported a vessel on fire."
-    },
-    {
-      "id": "mkt:019f7cc9-f03d-7aab-8dfc-20d69239b78d",
-      "time": "2026-07-20 07:50:36",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "UK Maritime Trade Operations (UKMTO) says it has received a report from a verified source that a vessel was on fire about 8 nm northwest of Kumzar, Oman; cause of the fire is unconfirmed."
-    },
-    {
-      "id": "4996409",
-      "time": "2026-07-20 07:50:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室（UKMTO）表示，已從可靠信源獲得訊息，稱一艘船舶目前處於起火狀態。"
-    },
-    {
-      "id": "4996408",
-      "time": "2026-07-20 07:49:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室（UKMTO）表示，已接到報告稱，阿曼庫姆扎爾西北方向8海里處發生一起安全事件。"
-    },
-    {
-      "id": "4996407",
-      "time": "2026-07-20 07:49:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "廣發證券資深分析師鍾林楠報告稱，就下半年而言，流動性大機率不如二季度寬鬆，預計流動性中性偏寬。下半年財政刺激落地前，固投與融資需求的修復始終存在想象空間，寬鬆預期又較難升溫，利率中樞較難快速明顯的下行，可能繼續在低位震盪；在財政效果呈現出來後可能會有所回升。"
-    },
-    {
-      "id": "mkt:019f7cc8-0064-7aab-8dfc-18bffa6625d4",
-      "time": "2026-07-20 07:48:29",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "U.S. Embassy in Manama, Bahrain says information on hand indicates Iran may attempt to mount an attack against an unspecified location in downtown Manama."
-    },
-    {
-      "id": "4996406",
-      "time": "2026-07-20 07:48:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股票私募倉位指數7月上旬創新高】私募近期正忙於“低吸”。7月以來，A股科技股出現波動，但私募卻持續加碼佈局。私募排排網資料顯示，截至7月10日，股票私募倉位指數連續三週上漲，創下近四年以來的新高。與此同時，頭部梯隊頻頻出手自購。在業內人士看來，經歷短期股價調整和籌碼交換後，具有業績兌現能力的科技股仍具有中期投資價值。（證券時報）"
-    },
-    {
-      "id": "4996405",
-      "time": "2026-07-20 07:47:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國大使館：伊朗可能尋求襲擊麥納麥的某些地點。"
-    },
-    {
-      "id": "mkt:019f7cc6-875f-7aab-8dfc-12a5a2df25c8",
-      "time": "2026-07-20 07:46:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian media reported explosions were heard in Tabriz, Chabahar, Konarak, the port of Mahshahr and Imam Khomeini Port."
     }
   ]
 }
