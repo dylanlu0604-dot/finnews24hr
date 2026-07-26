@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-26 18:56:18",
-  "count": 18104,
+  "updated": "2026-07-26 19:00:29",
+  "count": 18102,
   "items": [
+    {
+      "id": "5008517",
+      "time": "2026-07-26 18:59:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "市場訊息：中聯發展控股 <00264.HK> 公告，旗下附屬公司簽訂金額 2498 萬美元採購供貨合約，向 Brighray Veridian 供應 AI 資料中心模組。"
+    },
     {
       "id": "5008516",
       "time": "2026-07-26 18:54:13",
@@ -165820,32 +165829,6 @@
         "宏觀"
       ],
       "text": "【陳茂波：香港將出臺政策支援中小企業採用AI】香港特區政府財政司司長陳茂波19日發表網誌表示，特區政府今年內將推出最佳化版“數碼轉型支援先導計劃”，支援中小企業採用現成的人工智慧方案。香港的AI佈局已由逐項推進，進入系統佈局階段，力求讓AI賦能千行百業。"
-    },
-    {
-      "id": "4996072",
-      "time": "2026-07-19 18:59:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【靈均投資宣佈2億元自購旗下私募基金產品】7月19日，靈均投資釋出公告稱，基於對中國資本市場長期穩健發展及公司主動管理能力的堅定信心，為踐行長期投資理念，公司及主要核心人員將在兩週內使用自有資金人民幣2億元參與申購公司旗下私募證券基金產品。"
-    },
-    {
-      "id": "mkt:019f7a07-f479-7aab-8df7-3bd75f80e12c",
-      "time": "2026-07-19 18:59:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Regulators hold closed-door meeting on emotion-capable robots, probe trillion-yuan market and compliance gaps】Industry sources said regulators last week convened a closed-door workshop with leading firms to discuss the sector’s potential trillion-yuan market and compliance dilemmas, focusing on three priorities: data security, cybersecurity and standards for emotional interaction."
-    },
-    {
-      "id": "4996071",
-      "time": "2026-07-19 18:56:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【萬拿機器人釋出兩款靈巧手產品】7月19日，萬拿機器人在2026世界人工智慧大會期間釋出兩款靈巧手產品，分別為工業實戰型靈巧手萬拿Std16A和輕量擬人型靈巧手萬拿Eco12。其中，萬拿Std16A重點面向工業分揀、倉儲作業、精密操作及需要與機械臂、視覺和控制系統深度整合的真實作業任務；萬拿Eco12接近真人手的尺寸，可服務於遙操作、人機互動、科研教育、機器人展示及輕量化應用驗證。"
     }
   ]
 }
