@@ -1,7 +1,23 @@
 {
   "date": "2026-07-27",
-  "count": 76,
+  "count": 78,
   "items": [
+    {
+      "id": "mkt:019f9ff1-2c5d-7aab-8e9c-2a1213b0d93c",
+      "time": "2026-07-27 03:40:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syria's president says the government has taken precautionary measures to counter any potential threats from armed groups in areas bordering Iraq."
+    },
+    {
+      "id": "5008703",
+      "time": "2026-07-27 03:37:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱美國彈藥儲備遠超實際所需。"
+    },
     {
       "id": "mkt:019f9fe9-8885-7aab-8e9c-250d9caa8d11",
       "time": "2026-07-27 03:31:49",
