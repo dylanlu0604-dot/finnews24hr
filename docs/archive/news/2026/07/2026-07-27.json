@@ -1,7 +1,31 @@
 {
   "date": "2026-07-27",
-  "count": 35,
+  "count": 38,
   "items": [
+    {
+      "id": "mkt:019f9f86-dbc7-7aab-8e9b-abe6616f62db",
+      "time": "2026-07-27 01:44:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lebanon condemns Israel's ongoing military operations in southern Lebanon】The Lebanese army on July 26 condemned ongoing Israeli military operations in southern Lebanon, saying they obstruct full Lebanese troop deployments under a trilateral framework agreed last month with Israel and the United States. The army said the Israeli Defense Forces continue attacks it says breach international law, systematically destroying homes and bombing multiple southern areas, and that the strikes have prevented troop deployment and stopped residents from returning home."
+    },
+    {
+      "id": "5008679",
+      "time": "2026-07-27 01:43:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國政府發言人：默茨總理將提名保守派議會黨團幹事長斯特芬·比爾格出任交通部長。"
+    },
+    {
+      "id": "mkt:019f9f85-7ff3-7aab-8e9b-a64335740ab9",
+      "time": "2026-07-27 01:42:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president has approved implementation of the first amendment to the Islamic Consultative Assembly's internal regulations."
+    },
     {
       "id": "mkt:019f9f7e-db13-7aab-8e9b-9833a2420b87",
       "time": "2026-07-27 01:35:18",

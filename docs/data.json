@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-27 01:40:55",
-  "count": 18024,
+  "updated": "2026-07-27 01:44:52",
+  "count": 18025,
   "items": [
+    {
+      "id": "mkt:019f9f86-dbc7-7aab-8e9b-abe6616f62db",
+      "time": "2026-07-27 01:44:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lebanon condemns Israel's ongoing military operations in southern Lebanon】The Lebanese army on July 26 condemned ongoing Israeli military operations in southern Lebanon, saying they obstruct full Lebanese troop deployments under a trilateral framework agreed last month with Israel and the United States. The army said the Israeli Defense Forces continue attacks it says breach international law, systematically destroying homes and bombing multiple southern areas, and that the strikes have prevented troop deployment and stopped residents from returning home."
+    },
+    {
+      "id": "5008679",
+      "time": "2026-07-27 01:43:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國政府發言人：默茨總理將提名保守派議會黨團幹事長斯特芬·比爾格出任交通部長。"
+    },
+    {
+      "id": "mkt:019f9f85-7ff3-7aab-8e9b-a64335740ab9",
+      "time": "2026-07-27 01:42:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president has approved implementation of the first amendment to the Islamic Consultative Assembly's internal regulations."
+    },
     {
       "id": "mkt:019f9f7e-db13-7aab-8e9b-9833a2420b87",
       "time": "2026-07-27 01:35:18",
@@ -165097,27 +165121,6 @@
         "國際"
       ],
       "text": "訊息人士：伊朗內政部長埃斯坎達爾・穆梅尼明日將在伊斯蘭堡會見巴基斯坦領導層。"
-    },
-    {
-      "id": "4996239",
-      "time": "2026-07-20 01:43:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理支援國際象棋大師朱迪特·波爾加爾參選該國總統。"
-    },
-    {
-      "id": "mkt:019f7b78-9552-7aab-8dfa-3295c01f9f0f",
-      "time": "2026-07-20 01:42:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Jerusalem Post: Trump inclined to further escalate military action against Iran】Jerusalem Post cites multiple Israeli and US officials saying on Sunday President Trump is inclined to further escalate US military action against Iran. One official said, \"It appears Trump is prepared to expand military action against Iran; the remaining questions are the extent and timing. He believes the diplomatic option is now unlikely barring a surprise.\" Another official warned Trump has reversed decisions at the 11th hour in the past, so his stance could still change. Israeli Prime Minister Netanyahu signaled at a Likud committee meeting that the situation could escalate in the coming days."
     }
   ]
 }
