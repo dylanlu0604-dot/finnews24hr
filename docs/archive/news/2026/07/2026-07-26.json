@@ -1,7 +1,23 @@
 {
   "date": "2026-07-26",
-  "count": 451,
+  "count": 453,
   "items": [
+    {
+      "id": "5008428",
+      "time": "2026-07-26 15:26:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【極氪最佳化出境車機功能，凌晨已正式上線】7月26日，極氪釋出境外自駕車機提示及後續最佳化的說明，對出境車輛安全守護策略進行調整。極氪表示，已於7月26日凌晨在極氪App正式上線“跨境守護”功能入口。車主只需一鍵提起，即可快速獲取驗證碼，完成自助解鎖，簡化流程，提升響應效率。另外，正在開發“跨境守護功能開關”，後續將透過OTA推送。開關功能上線後，“跨境守護”將預設處於關閉狀態，出境前車主可根據自身需求，在手機端手動選擇開啟或關閉。極氪強調，若車主主動開啟該功能，車輛出境後會出現車機提示及部分功能受限，屆時車主仍可透過App“跨境守護”入口進行自助解鎖，實現“防盜保障”與“自由通行”的兼顧。（極氪）"
+    },
+    {
+      "id": "mkt:019f9d50-da61-7aab-8e99-37aa11f571fb",
+      "time": "2026-07-26 15:25:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zeekr rolls out Cross-Border Guard in app; OTA switch planned】On July 26 Zeekr activated a Cross-Border Guard entry in the Zeekr app overnight as part of an adjustment to its outbound vehicle security policy. Owners can one‑tap to receive a verification code and self‑unlock the infotainment system, shortening the process and improving response time. Zeekr is developing an on/off switch for the feature to be delivered via OTA; once deployed the feature will default to off and owners can manually enable it on their phones before travel. If enabled, vehicles will show infotainment prompts and some functions will be restricted after crossing borders; owners can still self‑unlock via the app to balance theft protection with free movement."
+    },
     {
       "id": "5008427",
       "time": "2026-07-26 15:21:31",

@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-26 15:24:03",
-  "count": 18191,
+  "updated": "2026-07-26 15:28:07",
+  "count": 18189,
   "items": [
+    {
+      "id": "5008428",
+      "time": "2026-07-26 15:26:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【極氪最佳化出境車機功能，凌晨已正式上線】7月26日，極氪釋出境外自駕車機提示及後續最佳化的說明，對出境車輛安全守護策略進行調整。極氪表示，已於7月26日凌晨在極氪App正式上線“跨境守護”功能入口。車主只需一鍵提起，即可快速獲取驗證碼，完成自助解鎖，簡化流程，提升響應效率。另外，正在開發“跨境守護功能開關”，後續將透過OTA推送。開關功能上線後，“跨境守護”將預設處於關閉狀態，出境前車主可根據自身需求，在手機端手動選擇開啟或關閉。極氪強調，若車主主動開啟該功能，車輛出境後會出現車機提示及部分功能受限，屆時車主仍可透過App“跨境守護”入口進行自助解鎖，實現“防盜保障”與“自由通行”的兼顧。（極氪）"
+    },
+    {
+      "id": "mkt:019f9d50-da61-7aab-8e99-37aa11f571fb",
+      "time": "2026-07-26 15:25:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zeekr rolls out Cross-Border Guard in app; OTA switch planned】On July 26 Zeekr activated a Cross-Border Guard entry in the Zeekr app overnight as part of an adjustment to its outbound vehicle security policy. Owners can one‑tap to receive a verification code and self‑unlock the infotainment system, shortening the process and improving response time. Zeekr is developing an on/off switch for the feature to be delivered via OTA; once deployed the feature will default to off and owners can manually enable it on their phones before travel. If enabled, vehicles will show infotainment prompts and some functions will be restricted after crossing borders; owners can still self‑unlock via the app to balance theft protection with free movement."
+    },
     {
       "id": "5008427",
       "time": "2026-07-26 15:21:31",
@@ -166571,42 +166587,6 @@
         "公司"
       ],
       "text": "義大利郵政對義大利電信股份發起自願公開要約收購與交換要約。"
-    },
-    {
-      "id": "4995919",
-      "time": "2026-07-19 15:27:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴勒斯坦訊息人士：以色列車輛在加沙地帶中部布里傑難民營東部開火。"
-    },
-    {
-      "id": "mkt:019f7945-b010-7aab-8df5-c33fbc258bff",
-      "time": "2026-07-19 15:27:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Kuwait says its air defenses are intercepting 'enemy' missile and drone attack】Kuwait Armed Forces said on the 19th its air-defense systems are intercepting 'enemy' missile and drone attacks. The General Staff said explosions heard were caused by interceptions and urged residents to follow government safety instructions."
-    },
-    {
-      "id": "4995918",
-      "time": "2026-07-19 15:25:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科威特稱攔截“敵方”導彈和無人機襲擊】科威特武裝部隊19日表示，其防空系統“正在攔截敵方的導彈和無人機襲擊”。科威特武裝部隊總參謀部在社交媒體發表宣告說，居民聽到的爆炸聲是防空系統攔截“敵方”襲擊的結果，所有人應遵守政府釋出的安全指示。（新華社）"
-    },
-    {
-      "id": "4995917",
-      "time": "2026-07-19 15:24:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【專家：海南兩輪赤潮是分開的，藻類來源、暴發原因有待研究】從6月27日開始，海南啟動了兩輪赤潮災害應急響應。赤潮幾乎覆蓋了海南省的整個西部和南部海岸線，對多個縣市的海水養殖造成巨大損失。目前赤潮還有可能入侵海南陵水，對這個海洋水產苗種核心產區造成威脅。 “海南這次赤潮非常罕見。”海南省海洋災害應急處置專家組首席專家、暨南大學赤潮與海洋生物學研究中心主任呂頌輝向財新介紹，海南人口少，周圍海域水質好，也沒有大型工業企業，赤潮很少發生。在他的記錄裡，2026年6月底開始的這兩輪赤潮是海南規模最大、損失最嚴重的一次。他表示，據衛星遙感資料，在三亞市疑似赤潮的水色異常斑塊從近岸延伸到了20—30公里之外的海域。（財新）"
     }
   ]
 }
