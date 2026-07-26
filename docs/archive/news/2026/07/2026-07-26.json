@@ -1,7 +1,23 @@
 {
   "date": "2026-07-26",
-  "count": 661,
+  "count": 663,
   "items": [
+    {
+      "id": "mkt:019f9eec-0885-7aab-8e9a-ac057e14cc88",
+      "time": "2026-07-26 22:54:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy says Chernihiv supermarket struck, 2 dead, 13 injured】Chernihiv city military-civil administration said on July 26 local time a supermarket was struck by a Russian military drone. President Zelenskiy said the attack killed 2 and injured 13. Russia has not responded."
+    },
+    {
+      "id": "5008628",
+      "time": "2026-07-26 22:53:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基稱烏切爾尼戈夫市一超市遭襲致2死13傷】烏克蘭切爾尼戈夫市軍政管理局當地時間7月26日通報稱，當地一家超市遭俄軍無人機襲擊。烏克蘭總統澤連斯基說，襲擊已造成2人死亡，13人受傷。截至目前，俄方暫無回應。（央視新聞）"
+    },
     {
       "id": "5008627",
       "time": "2026-07-26 22:48:30",
