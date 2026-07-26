@@ -1,7 +1,27 @@
 {
   "date": "2026-07-26",
-  "count": 540,
+  "count": 542,
   "items": [
+    {
+      "id": "mkt:019f9de8-bdf9-7aab-8e99-d11dcda13648",
+      "time": "2026-07-26 18:11:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says it has halted retaliatory strikes after two nights without US strikes】Iran's military spokesman Mohammad Akraminia told state media that because US forces did not carry out strikes over the past two nights, Iran has halted retaliatory attacks and its actions are currently suspended."
+    },
+    {
+      "id": "5008500",
+      "time": "2026-07-26 18:10:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：中國旺旺4 至 6 月營收預計下滑約 6%。4-6月淨利潤同比下降約38%。"
+    },
     {
       "id": "mkt:019f9de5-17ad-7aab-8e99-c9b9093fd5c5",
       "time": "2026-07-26 18:07:44",
