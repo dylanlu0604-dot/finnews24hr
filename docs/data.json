@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-27 00:30:18",
-  "count": 18045,
+  "updated": "2026-07-27 00:34:20",
+  "count": 18047,
   "items": [
+    {
+      "id": "mkt:019f9f44-e45b-7aab-8e9b-7ab12ba23375",
+      "time": "2026-07-27 00:31:59",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Russian Foreign Ministry said Alagazzi briefed Lavrov on ongoing diplomatic efforts to ease Middle East tensions triggered by US strikes on Iran."
+    },
+    {
+      "id": "mkt:019f9f44-75fb-7aab-8e9b-7292cbc8fb47",
+      "time": "2026-07-27 00:31:31",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Russia's foreign minister expressed sincere condolences over a July 25 Ukrainian drone strike on an Iranian merchant ship that killed one Iranian crewman, the Russian foreign ministry said. Alagazi thanked Astrakhan authorities for assisting the attacked vessel's crew and stressed the need to prevent Kyiv from carrying out similar risky actions."
+    },
+    {
+      "id": "5008663",
+      "time": "2026-07-27 00:31:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：儘管與紐約市長馬姆達尼因國際刑事法院對其簽發逮捕令一事產生分歧，但仍計劃前往紐約出席聯合國大會。"
+    },
+    {
+      "id": "mkt:019f9f43-5347-7aab-8e9b-6bf7d1ceb2f7",
+      "time": "2026-07-27 00:30:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Foreign Ministry said on July 26 that, at Iran's request, Foreign Minister Lavrov held a phone call with Iranian counterpart Araghchi."
+    },
     {
       "id": "5008662",
       "time": "2026-07-27 00:27:57",
@@ -165285,22 +165323,6 @@
         "國際"
       ],
       "text": "【黎巴嫩遇難者人數升至4328人】黎巴嫩衛生部在最新統計中宣佈，自以色列發動打擊以來，黎巴嫩遇難者人數已達4328人。"
-    },
-    {
-      "id": "4996212",
-      "time": "2026-07-20 00:32:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩總統府：總統奧恩在與魯比奧會晤期間，重申了在執行三方框架方面協調黎巴嫩和美國立場的必要性。"
-    },
-    {
-      "id": "mkt:019f7b37-5f6e-7aab-8df9-abf6d2360292",
-      "time": "2026-07-20 00:30:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Alhadath reported President Aoun told US Secretary of State Rubio Washington should strengthen support for the Lebanese army and military institutions. Rubio said Lebanon must not be treated as a subsidiary issue of other negotiations and that Lebanon’s sovereignty can only be decided and upheld by its constitutional institutions."
     }
   ]
 }
