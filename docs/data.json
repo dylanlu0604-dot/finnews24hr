@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-26 22:13:29",
+  "updated": "2026-07-26 22:17:38",
   "count": 18038,
   "items": [
+    {
+      "id": "5008611",
+      "time": "2026-07-26 22:16:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡：我支援特朗普在不開戰的情況下結束伊朗核計劃的提議。"
+    },
+    {
+      "id": "5008610",
+      "time": "2026-07-26 22:16:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：我們將考慮（採取）相應後續措施。"
+    },
+    {
+      "id": "5008609",
+      "time": "2026-07-26 22:15:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨就柏林襲擊事件表態：此類襲擊意在分裂我們，切勿被嚇倒。"
+    },
+    {
+      "id": "5008608",
+      "time": "2026-07-26 22:15:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤跌破88美元，日內跌超2.2%。"
+    },
     {
       "id": "5008607",
       "time": "2026-07-26 22:09:36",
@@ -165234,43 +165267,6 @@
         "Greater China"
       ],
       "text": "Shanghai Stock Exchange website shows Jiangsu Leuven Instruments Co., Ltd.'s STAR Market IPO review status changed to 'inquiry'."
-    },
-    {
-      "id": "4996168",
-      "time": "2026-07-19 22:16:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國誠通大額增持中國股票資產 】近日，中國誠通及所屬誠通資本、誠暘投資聚焦國資央企大額增持中國股票資產，累計買入近百億元。中國誠通堅定看好中國經濟和中國資本市場前景，後續將繼續使用自有資金和股票回購增持再貸款大額增持國資央企和科技企業股票及ETF，全力維護資本市場平穩執行。（新華社）"
-    },
-    {
-      "id": "4996166",
-      "time": "2026-07-19 22:15:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國國新500億元增持，維護市場穩定】據中國證券報，記者7月19日晚間從中國國新控股有限責任公司（簡稱“中國國新”）獲悉，中國國新堅定看好中國資本市場發展前景，堅定支援央企科技創新和高質量發展，旗下國新投資有限公司相關主體已經使用股票回購增持專項再貸款及配套資金超500億元，用於維護市場穩定，未來還將繼續用好用足再貸款這一政策工具，同時配以自有資金繼續增持中央企業股票，堅決維護資本市場核心資產戰略價值，堅決維護資本市場平穩健康執行。（中國證券報）"
-    },
-    {
-      "id": "4996165",
-      "time": "2026-07-19 22:14:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《人工智慧發展與安全倡議書》釋出：為構建安全、可信、可控的人工智慧共同奮鬥】7月19日上午，在WAIC 2026世界人工智慧大會的“人工智慧引領產業變革”思客會上，《人工智慧發展與安全倡議書》釋出，該倡議旨在呼籲各方凝聚共識、協同行動，為構建安全、可信、可控的人工智慧共同奮鬥。"
-    },
-    {
-      "id": "mkt:019f7aba-0e38-7aab-8df8-d26fff182f02",
-      "time": "2026-07-19 22:14:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US energy secretary Wright says military action against Iran will continue】On July 19, US Energy Secretary Wright said in an interview that US military action against Iran will continue until President Trump achieves his military objectives. Wright said the administration aims to prevent Iran from acquiring nuclear weapons and to degrade its ability to threaten regional neighbors and global commerce. \"Therefore, this task will continue until the mission is complete,\" he said."
     }
   ]
 }
