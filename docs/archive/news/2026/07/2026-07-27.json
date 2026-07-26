@@ -1,7 +1,37 @@
 {
   "date": "2026-07-27",
-  "count": 146,
+  "count": 149,
   "items": [
+    {
+      "id": "mkt:019fa098-c255-7aab-8e9c-de20950dbd8b",
+      "time": "2026-07-27 06:43:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Probability of a new Iran–U.S. ceasefire has risen after reports that U.S. President Trump decided to pause recent strikes on southern Iran. Traders on prediction market Polymarket now assign a 75% probability to a ceasefire by Aug 31, 2026."
+    },
+    {
+      "id": "5008753",
+      "time": "2026-07-27 06:43:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "Naver：英偉達將收購Naver價值10億美元的股份。"
+    },
+    {
+      "id": "5008752",
+      "time": "2026-07-27 06:42:26",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "預測市場Polymarket資料顯示，市場押注美伊雙方在2026年8月31日前達成停火協議的機率為75%。"
+    },
     {
       "id": "5008751",
       "time": "2026-07-27 06:38:50",

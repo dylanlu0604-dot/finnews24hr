@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-27 06:41:41",
-  "count": 17999,
+  "updated": "2026-07-27 06:45:31",
+  "count": 17993,
   "items": [
+    {
+      "id": "mkt:019fa098-c255-7aab-8e9c-de20950dbd8b",
+      "time": "2026-07-27 06:43:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Probability of a new Iran–U.S. ceasefire has risen after reports that U.S. President Trump decided to pause recent strikes on southern Iran. Traders on prediction market Polymarket now assign a 75% probability to a ceasefire by Aug 31, 2026."
+    },
+    {
+      "id": "5008753",
+      "time": "2026-07-27 06:43:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "Naver：英偉達將收購Naver價值10億美元的股份。"
+    },
+    {
+      "id": "5008752",
+      "time": "2026-07-27 06:42:26",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "預測市場Polymarket資料顯示，市場押注美伊雙方在2026年8月31日前達成停火協議的機率為75%。"
+    },
     {
       "id": "5008751",
       "time": "2026-07-27 06:38:50",
@@ -164828,90 +164858,6 @@
         "Impact bullish"
       ],
       "text": "【Shanghai GDP up 5.6% YoY in 1H 2026】Shanghai reported 1H 2026 GDP of CNY 2.789 trillion, up 5.6% YoY. By sector, primary industry value added was CNY 3.576 bln (+0.9% YoY); secondary industry CNY 569.667 bln (+4.7%); tertiary industry CNY 2.215421 trillion (+5.9%)."
-    },
-    {
-      "id": "4996338",
-      "time": "2026-07-20 06:45:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年上半年上海市地區生產總值同比增長5.6%】據上海釋出，根據地區生產總值統一核算結果，上半年，上海全市實現地區生產總值27886.63億元，按不變價格計算，同比增長5.6%。分產業看，第一產業增加值35.76億元，同比增長0.9%；第二產業增加值5696.66億元，增長4.7%；第三產業增加值22154.21億元，增長5.9%。"
-    },
-    {
-      "id": "mkt:019f7c8e-1f19-7aab-8dfb-9592b2fa3058",
-      "time": "2026-07-20 06:45:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand June imports NZD 8.07 bln; prior month revised from NZD 8.08 bln to NZD 8.07 bln."
-    },
-    {
-      "id": "mkt:019f7c8e-1e05-7aab-8dfb-8cf1a4a3cbd7",
-      "time": "2026-07-20 06:45:16",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "New Zealand 12-month trade balance to June -NZD 3.75 bln; prior revised from -NZD 3.367 bln to -NZD 3.61 bln."
-    },
-    {
-      "id": "mkt:019f7c8e-1db6-7aab-8dfb-8664d4de21db",
-      "time": "2026-07-20 06:45:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand June exports NZD 8.09 bln; May revised down to NZD 8.65 bln from NZD 8.88 bln."
-    },
-    {
-      "id": "mkt:019f7c8e-0910-7aab-8dfb-7afded298bdc",
-      "time": "2026-07-20 06:45:10",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "New Zealand June trade balance NZ$23 mln; prior month revised down from NZ$800 mln to NZ$577 mln."
-    },
-    {
-      "id": "mkt:019f7c8d-e23f-7aab-8dfb-680d77a9c032",
-      "time": "2026-07-20 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Exports (Jun) | actual 8090000000.000001B | previous 8880000000B"
-    },
-    {
-      "id": "mkt:019f7c8d-e240-7aab-8dfb-770ae2c4df0a",
-      "time": "2026-07-20 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Imports (Jun) | actual 8070000000B | previous 8080000000B"
-    },
-    {
-      "id": "mkt:019f7c8d-e22a-7aab-8dfb-630dd1358916",
-      "time": "2026-07-20 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Trade Balance (Jun) | actual 23000000B | previous 800000000B"
-    },
-    {
-      "id": "mkt:019f7c8d-e227-7aab-8dfb-5b302b73ae33",
-      "time": "2026-07-20 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | 12-Month Trade Balance (Jun) | actual -3750000000B | previous -3367000000B"
     }
   ]
 }
