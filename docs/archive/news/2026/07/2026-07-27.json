@@ -1,7 +1,25 @@
 {
   "date": "2026-07-27",
-  "count": 43,
+  "count": 45,
   "items": [
+    {
+      "id": "mkt:019f9f9a-6ae3-7aab-8e9b-d6c07834054e",
+      "time": "2026-07-27 02:05:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reports settlers stormed into the Samra area in the northern Jordan Valley."
+    },
+    {
+      "id": "mkt:019f9f98-870b-7aab-8e9b-cbba31aad382",
+      "time": "2026-07-27 02:03:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Brazil's President Lula: U.S. tariff pressure on Brazil a strategic mistake】Writing in The Washington Post, President Lula criticized recent U.S. tariff pressure on Brazil. He said negotiations and a U.S. Supreme Court ruling annulled the initial tariff measures introduced in July last year, but in July this year the U.S. imposed new tariffs of 12.5%–37.5%. Lula called the new duties unfair and a strategic error, saying they harm the U.S. economy and the bilateral partnership and will, over the medium to long term, disrupt highly integrated supply chains as Brazilian firms replace U.S. suppliers with other partners."
+    },
     {
       "id": "5008681",
       "time": "2026-07-27 02:01:39",
