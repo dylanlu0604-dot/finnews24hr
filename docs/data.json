@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 23:20:10",
-  "count": 18034,
+  "updated": "2026-07-26 23:24:06",
+  "count": 18030,
   "items": [
+    {
+      "id": "5008633",
+      "time": "2026-07-26 23:22:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡將敦促特朗普持續緊盯伊朗核計劃】以色列總理內塔尼亞胡計劃敦促美國總統特朗普，對伊朗核計劃保持 “一刻不停、持續不斷的嚴密監控”。內塔尼亞胡稱，美以兩國已將伊朗核研發能力延後 “數年之久”，但他同時警告，德黑蘭方面仍有可能重建遭摧毀的核設施。特朗普表示美方優先選擇外交途徑解決爭端，但若伊朗持續在霍爾木茲海峽針對美國盟友發動襲擊，美國保留一切應對手段。"
+    },
     {
       "id": "mkt:019f9f01-aad7-7aab-8e9a-f143946b24af",
       "time": "2026-07-26 23:18:34",
@@ -165184,48 +165192,6 @@
         "其他"
       ],
       "text": "哈薩克要求停止針對其石油出口基礎設施的襲擊，呼籲各夥伴國譴責此類行為。"
-    },
-    {
-      "id": "mkt:019f7af8-2925-7aab-8df9-3395285934bb",
-      "time": "2026-07-19 23:21:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. State Department said Secretary of State Rubio reiterated U.S. commitment to support successful implementation of the framework."
-    },
-    {
-      "id": "4996197",
-      "time": "2026-07-19 23:21:41",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：魯比奧重申美國承諾支援該框架的順利落實。"
-    },
-    {
-      "id": "mkt:019f7af7-1590-7aab-8df9-2ee8f6bdecad",
-      "time": "2026-07-19 23:20:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. State Department said Secretary of State Rubio discussed implementation of a tripartite framework with Lebanese President Aoun."
-    },
-    {
-      "id": "mkt:019f7af6-fbc7-7aab-8df9-24b80090ee36",
-      "time": "2026-07-19 23:20:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The IDF said it detected missiles launched by Iran toward Aqaba, Jordan, near Israel. To prevent debris from falling into Israeli territory the IDF fired multiple interceptors to intercept missile remnants; there were no casualties or damage reported, air-raid sirens were not activated under established procedures, and the incident has ended."
-    },
-    {
-      "id": "4996196",
-      "time": "2026-07-19 23:20:27",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：魯比奧與奧恩討論了三邊框架的落實工作。"
     }
   ]
 }
