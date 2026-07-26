@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-26 20:37:55",
+  "updated": "2026-07-26 20:42:01",
   "count": 18091,
   "items": [
+    {
+      "id": "mkt:019f9e71-7959-7aab-8e9a-2bb179a36865",
+      "time": "2026-07-26 20:41:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC automatic determination: at 20:36 on July 26 a magnitude ~4.8 earthquake occurred offshore near Yilan County, Taiwan (24.90°N, 121.87°E). Final magnitude subject to confirmation by a formal bulletin."
+    },
+    {
+      "id": "5008572",
+      "time": "2026-07-26 20:40:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：07月26日20時36分在臺灣宜蘭縣海域附近（北緯24.90度，東經121.87度）發生4.8級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5008571",
+      "time": "2026-07-26 20:40:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【烏海銀行“換帥”：趙孔章已出任黨委書記】據烏海銀行訊息，7月26日，烏海銀行黨委書記趙孔章一行調研走訪海勃灣區轄內相關支行經營執行情況。在此之前，該行黨委書記、董事長一職由崔洪傑擔任。據瞭解，55歲的趙孔章原系烏海市財政局黨組書記、局長。"
+    },
     {
       "id": "5008566",
       "time": "2026-07-26 20:35:18",
@@ -165710,30 +165734,6 @@
         "Impact bullish"
       ],
       "text": "Guolian Minsheng Securities said it plans to repurchase its A shares via centralized bidding using its own funds, targeting RMB 100-200 mln. Repurchased shares may be used, among other legally permitted purposes, to support company value and shareholder interests or to reduce registered capital."
-    },
-    {
-      "id": "4996117",
-      "time": "2026-07-19 20:41:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國聯民生：籌劃回購1 - 2億元A股股份】國聯民生公告稱，公司正在籌劃回購股份事項，擬回購A股，用途包括維護公司價值及股東權益、減少註冊資本等。資金來源於自有資金，擬透過集中競價交易方式回購，資金額預計1 - 2億元，按法律法規允許的價格進行。實施期限將符合相關規則。該事項正在籌劃，需履行審批程式，存在不確定性。"
-    },
-    {
-      "id": "4996116",
-      "time": "2026-07-19 20:39:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音：預計2027年向客戶交付777X客機。"
-    },
-    {
-      "id": "4996115",
-      "time": "2026-07-19 20:38:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "波普表示，波音即將完成 737-10 機型的飛行測試。"
     }
   ]
 }
