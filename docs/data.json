@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26 20:46:04",
-  "count": 18088,
+  "updated": "2026-07-26 20:50:10",
+  "count": 18083,
   "items": [
     {
       "id": "mkt:019f9e71-7959-7aab-8e9a-2bb179a36865",
@@ -165652,60 +165652,6 @@
         "MKT News"
       ],
       "text": "IAEA says the facility is currently in the early stages of construction; during the agency's most recent visit it contained no nuclear material."
-    },
-    {
-      "id": "mkt:019f7a6d-4865-7aab-8df7-def038a3cab4",
-      "time": "2026-07-19 20:50:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "The IAEA is investigating reports of a nighttime attack on the construction site of the planned Darkhoveyn nuclear power plant in Iran."
-    },
-    {
-      "id": "4996121",
-      "time": "2026-07-19 20:49:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際原子能機構(IAEA)正在調查有關伊朗達爾霍溫(Darkhovin)一座擬建核電站施工現場夜間遇襲的報道。"
-    },
-    {
-      "id": "mkt:019f7a6c-b902-7aab-8df7-d4061c6e0718",
-      "time": "2026-07-19 20:49:33",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Jordan state television reported the Jordan Armed Forces said it shot down three Iranian missiles targeting Jordan."
-    },
-    {
-      "id": "4996120",
-      "time": "2026-07-19 20:48:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "約旦軍方：成功攔截並擊落 3 枚襲擊約旦領土的伊朗導彈，另有 1 枚落入偏遠區域。"
-    },
-    {
-      "id": "mkt:019f7a6a-a478-7aab-8df7-ca68c5ff0b9b",
-      "time": "2026-07-19 20:47:16",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Israel's Channel 12 said the US military intercepted an Iranian missile launched toward Aqaba, Jordan."
     }
   ]
 }
