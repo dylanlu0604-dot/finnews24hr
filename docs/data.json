@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-26 19:12:39",
-  "count": 18102,
+  "updated": "2026-07-26 19:16:44",
+  "count": 18101,
   "items": [
+    {
+      "id": "5008526",
+      "time": "2026-07-26 19:15:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受颱風“紅霞”影響 江西南部、廣東中北部等地局地特大暴雨】颱風“紅霞”雖已減弱，但它仍將製造強風雨，今天夜間到明天，江西南部、廣東中北部等地局地特大暴雨。之後，颱風的低壓渦旋或在陸地維持較長時間，還將導致湖南、湖北、河南等地出現強降雨。（央視新聞）"
+    },
+    {
+      "id": "5008525",
+      "time": "2026-07-26 19:12:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼東努沙登加拉省發生5.5級地震】據印度尼西亞氣象、氣候和地球物理局釋出的報告，當地時間26日17時57分，印尼東努沙登加拉省古邦市西南19公里處發生5.5級地震，震源深度26公里。（央視新聞）"
+    },
     {
       "id": "5008524",
       "time": "2026-07-26 19:10:44",
@@ -165805,31 +165821,6 @@
         "MKT News"
       ],
       "text": "【Canada says all-hands mobilized to fight wildfires】Prime Minister Mark Carney said on July 18 Canada is facing one of its most severe wildfire seasons amid extreme heat and record drought and the government has launched an all‑hands mobilization. More than 5,300 firefighters and nearly 300 aircraft have been deployed; the interdepartmental wildland fire centre reported 3,815 fires YTD and over 2.9 mln ha burned. Rising temperatures and more frequent heatwaves linked to global climate change have heightened fire risk, and wildfire smoke has degraded air quality across Canada and parts of the US Northeast."
-    },
-    {
-      "id": "4996080",
-      "time": "2026-07-19 19:15:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美媒：KimiK3或使AI行業重新洗牌】中國AI企業月之暗面7月16日釋出了新一代模型Kimi K3，引數規模達2.8萬億，是目前全球引數最大的開源模型，引起業界的廣泛關注。據月之暗面公司介紹，Kimi K3原生支援視覺理解，具備100萬詞元上下文視窗，面向軟體工程、知識工作、深度研究、多模態理解等複雜任務場景進行最佳化，進一步提升了大模型複雜任務的處理能力。此外，和絕大多數國產AI 產品一樣，Kimi K3定價更低，且開放原始碼，開發者可按需自主定製。據法新社報道，Kimi K3釋出後，短短數小時便登頂業內備受關注的AI程式碼工具評測榜單Arena，這也是中國大模型首次拿下該榜單榜首位置。Arena榜單運營負責人安傑洛普洛斯表示，Kimi K3或將倒逼投資者重新審視整個AI行業，此次釋出很可能“引發資本市場的重新洗牌”，因為它“動搖了OpenAI、Anthropic等美國閉源模型的主導地位”。（央視財經）"
-    },
-    {
-      "id": "4996079",
-      "time": "2026-07-19 19:14:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加拿大政府稱全員動員應對山火】加拿大總理馬克·卡尼7月18日表示，在極端熱浪與破紀錄的乾旱天氣影響下，加拿大正面臨史上最嚴峻的野火季之一，政府正採取“全員動員”方式應對災情。卡尼說，目前全國已部署5300多名消防人員，近300架各類飛機在滅火前線。加拿大跨部門森林消防中心18日釋出的最新資料顯示，今年以來加拿大全境已記錄3815起山火，過火面積超過290萬公頃。加拿大森林覆蓋率在全球排名前列。由於全球氣候變化導致氣溫上升、熱浪頻繁，森林火災風險加劇，加拿大近年來經常爆發大規模山火。山火產生的大量煙霾，導致加拿大和美國東北部多地空氣質量惡化。（CCTV國際時訊）"
-    },
-    {
-      "id": "4996078",
-      "time": "2026-07-19 19:13:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【卡達埃米爾與伊拉克總理通話 強調落實諒解備忘錄及保障霍爾木茲海峽航行自由 】卡達埃米爾塔米姆與伊拉克總理蘇達尼舉行通話，，兩國領導人在通話中一致強調，必須切實落實此前達成的美伊諒解備忘錄。雙方特別指出，保障霍爾木茲海峽的航行自由是維護地區安全與穩定的關鍵前提。"
     }
   ]
 }
