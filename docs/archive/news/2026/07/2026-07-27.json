@@ -1,7 +1,18 @@
 {
   "date": "2026-07-27",
-  "count": 93,
+  "count": 94,
   "items": [
+    {
+      "id": "mkt:019fa03d-8831-7aab-8e9c-7400e2f828b1",
+      "time": "2026-07-27 05:03:34",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Iran senior official warns Ukraine any action against Iran will be met with retaliation】Ebrahim Azizi, chairman of Iran’s parliament National Security and Foreign Policy Commission, said any attack on Iran inevitably carries a price and that the US and Israel are aware. He warned Ukraine may soon learn this too, saying Iran will not leave any action unanswered and that the list of those who miscalculate continues to grow."
+    },
     {
       "id": "5008710",
       "time": "2026-07-27 04:55:22",
