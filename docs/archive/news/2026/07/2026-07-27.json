@@ -1,7 +1,19 @@
 {
   "date": "2026-07-27",
-  "count": 149,
+  "count": 150,
   "items": [
+    {
+      "id": "te:markets:569867",
+      "time": "2026-07-27 06:48:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Edge Lower to Start the Week — New Zealand's stocks fell 25 points, or 0.2%, to 13,748 in Monday morning trade, extending losses from the previous session, mainly weighed down by declines in financials, utilities, and real estate. Traders continued to assess US plans to impose new tariffs ranging from 10% to 12.5% on 60 economies, including New Zealand, while persistently high oil prices also weighed on sentiment as inflation concerns fueled expectations of further interest rate hikes. Caution also prevailed ahead of the Fed's monetary policy decision and China's PMI data due this week. Domestically, traders also anticipated the release of New Zealand's consumer confidence and business outlook data for July, also due this week. However, a rise in US stock futures capped the fall ahead of big tech earnings this week. Among the early losers were Infratil (-1.4%), South Port NZ (-1.2%), Contact Energy (-0.6%), F&C Investment (-0.4%), and Freightways (-0.3%)."
+    },
     {
       "id": "mkt:019fa098-c255-7aab-8e9c-de20950dbd8b",
       "time": "2026-07-27 06:43:13",

@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-27 06:45:31",
-  "count": 17993,
+  "updated": "2026-07-27 06:49:26",
+  "count": 17987,
   "items": [
+    {
+      "id": "te:markets:569867",
+      "time": "2026-07-27 06:48:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Edge Lower to Start the Week — New Zealand's stocks fell 25 points, or 0.2%, to 13,748 in Monday morning trade, extending losses from the previous session, mainly weighed down by declines in financials, utilities, and real estate. Traders continued to assess US plans to impose new tariffs ranging from 10% to 12.5% on 60 economies, including New Zealand, while persistently high oil prices also weighed on sentiment as inflation concerns fueled expectations of further interest rate hikes. Caution also prevailed ahead of the Fed's monetary policy decision and China's PMI data due this week. Domestically, traders also anticipated the release of New Zealand's consumer confidence and business outlook data for July, also due this week. However, a rise in US stock futures capped the fall ahead of big tech earnings this week. Among the early losers were Infratil (-1.4%), South Port NZ (-1.2%), Contact Energy (-0.6%), F&C Investment (-0.4%), and Freightways (-0.3%)."
+    },
     {
       "id": "mkt:019fa098-c255-7aab-8e9c-de20950dbd8b",
       "time": "2026-07-27 06:43:13",
@@ -164790,74 +164802,6 @@
         "Importance 2"
       ],
       "text": "New Zealand Trade Surplus Below Estimates — New Zealand's trade surplus declined to NZD 0.02 billion in June 2026, down from NZD 0.2 billion in the same month a year earlier and below estimates of NZD 0.25 billion, as exports grew less than imports. Exports rose 25% year-on-year to NZD 8.1 billion, while imports jumped 28% year-on-year to NZD 8.1 billion."
-    },
-    {
-      "id": "4996343",
-      "time": "2026-07-20 06:47:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上半年上海主要金融市場實現成交額同比增長24.1%】據上海釋出，上半年，上海全市主要金融市場實現成交額2269.16萬億元，同比增長24.1%。其中，上海期貨交易所成交額同比增長53.9%，上海黃金交易所成交額增長38.2%，上海證券交易所有價證券成交額增長35.2%，銀行間市場成交額增長16.6%。6月末，全市中外資金融機構本外幣存款餘額25.40萬億元，同比增長10.9%；貸款餘額13.60萬億元，增長5.9%。上半年，全市地方一般公共預算收入4943.33億元，同比增長5.5%；地方一般公共預算支出5302.14億元，增長10.7%。"
-    },
-    {
-      "id": "4996342",
-      "time": "2026-07-20 06:47:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【SpaceX將“星艦”第13次試飛推遲至7月23日】總檯記者當地時間7月19日獲悉，美國太空探索技術公司（SpaceX）表示，計劃於7月23日再次嘗試發射“星艦”火箭。16日，太空探索技術公司原定當天進行的“星艦”第13次試飛在點火階段因部分發動機未能啟動而自動中止。這原本將是太空探索技術公司今年6月上市後的首次發射任務。太空探索技術公司在該試飛取消後市值一度蒸發約1000億美元。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f7c90-4ec1-7aab-8dfb-a2964b7f7b54",
-      "time": "2026-07-20 06:47:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【Shanghai main financial markets 1H turnover up 24.1% YoY】Shanghai's main financial markets recorded turnover of 2,269.16 tln yuan in 1H, up 24.1% YoY. By venue, Shanghai Futures Exchange turnover rose 53.9% YoY, Shanghai Gold Exchange +38.2%, Shanghai Stock Exchange tradable securities turnover +35.2%, and interbank market +16.6%. At end-June, deposits (domestic and foreign currency) at Shanghai financial institutions totaled 25.40 tln yuan, up 10.9% YoY; loans were 13.60 tln yuan, up 5.9%. Shanghai's 1H local general public budget revenue was 494.33 bln yuan, +5.5% YoY, with expenditure 530.21 bln yuan, +10.7%."
-    },
-    {
-      "id": "4996341",
-      "time": "2026-07-20 06:47:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊拉克武裝組織否認近期一系列襲擊事件，同時揚言將打擊美國相關利益目標。"
-    },
-    {
-      "id": "4996340",
-      "time": "2026-07-20 06:46:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭6月進口額為80.7億紐西蘭元，出口額為80.9億紐西蘭元。"
-    },
-    {
-      "id": "4996339",
-      "time": "2026-07-20 06:45:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普將大力神杯頒給西班牙隊。"
-    },
-    {
-      "id": "mkt:019f7c8e-581a-7aab-8dfb-9870d2ea204a",
-      "time": "2026-07-20 06:45:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "000001.SS",
-        "Impact bullish"
-      ],
-      "text": "【Shanghai GDP up 5.6% YoY in 1H 2026】Shanghai reported 1H 2026 GDP of CNY 2.789 trillion, up 5.6% YoY. By sector, primary industry value added was CNY 3.576 bln (+0.9% YoY); secondary industry CNY 569.667 bln (+4.7%); tertiary industry CNY 2.215421 trillion (+5.9%)."
     }
   ]
 }
