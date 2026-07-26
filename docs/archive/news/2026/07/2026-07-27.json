@@ -1,7 +1,20 @@
 {
   "date": "2026-07-27",
-  "count": 95,
+  "count": 96,
   "items": [
+    {
+      "id": "mkt:019fa045-5cd1-7aab-8e9c-79ac44691f75",
+      "time": "2026-07-27 05:12:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "At the FX open, the dollar index (DXY) fell 0.16% to 101.31; AUD/USD rose 0.23%; USD/JPY fell 0.16%; EUR/USD rose 0.18%."
+    },
     {
       "id": "5008711",
       "time": "2026-07-27 05:06:43",
