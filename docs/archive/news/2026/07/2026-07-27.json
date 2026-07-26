@@ -1,7 +1,15 @@
 {
   "date": "2026-07-27",
-  "count": 88,
+  "count": 89,
   "items": [
+    {
+      "id": "mkt:019fa01d-5855-7aab-8e9c-53079d6b3108",
+      "time": "2026-07-27 04:28:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Cuban president calls U.S. blockade 'cruelly planned genocide'】Cuban President Miguel Díaz-Canel on the 26th condemned the U.S. blockade as criminal, said Cuba poses no threat to the U.S. or any other country, and described Cuba as a victim of a U.S. policy he called a 'cruelly planned genocide'."
+    },
     {
       "id": "5008709",
       "time": "2026-07-27 04:23:34",
