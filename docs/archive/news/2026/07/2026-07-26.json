@@ -1,7 +1,15 @@
 {
   "date": "2026-07-26",
-  "count": 616,
+  "count": 617,
   "items": [
+    {
+      "id": "mkt:019f9e7d-2ce5-7aab-8e9a-383fbb9d7723",
+      "time": "2026-07-26 20:53:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a magnitude 4.8 earthquake at 20:36 on July 26 in New Taipei City, Taiwan (24.94°N, 121.82°E). Hypocenter depth 95 km."
+    },
     {
       "id": "5008578",
       "time": "2026-07-26 20:51:50",

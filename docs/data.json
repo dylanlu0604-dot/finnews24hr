@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-26 20:54:11",
-  "count": 18081,
+  "updated": "2026-07-26 20:58:35",
+  "count": 18077,
   "items": [
+    {
+      "id": "mkt:019f9e7d-2ce5-7aab-8e9a-383fbb9d7723",
+      "time": "2026-07-26 20:53:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a magnitude 4.8 earthquake at 20:36 on July 26 in New Taipei City, Taiwan (24.94°N, 121.82°E). Hypocenter depth 95 km."
+    },
     {
       "id": "5008578",
       "time": "2026-07-26 20:51:50",
@@ -165598,46 +165606,6 @@
         "國際"
       ],
       "text": "【阿聯酋向加沙地帶運送近千噸援助物資】過去一週內，阿拉伯聯合大公國向巴勒斯坦加沙地帶運送了62輛卡車的援助物資，總計980噸，其中包括加沙民眾急需的食品和藥品等。據阿聯酋通訊社19日報道，上述物資分5個車隊運入加沙地帶。在埃及阿里什市，阿聯酋人道援助支援團隊仍在準備和裝運更多援助物資。加沙地帶18日再遭以色列襲擊。據加沙民防部門和醫院訊息，以軍當天襲擊造成11人死亡，包括3名兒童及其父母。加沙地帶民防部門發言人說，上述一家五口死於以軍對加沙城一處住宅樓的襲擊。以軍發言人證實發動襲擊，稱打擊目標為一名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）“恐怖分子”。（新華社）"
-    },
-    {
-      "id": "mkt:019f7a74-40f8-7aab-8df8-0e65f528109a",
-      "time": "2026-07-19 20:57:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kalshi, an event prediction platform, added 3 million users during the World Cup."
-    },
-    {
-      "id": "4996126",
-      "time": "2026-07-19 20:56:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【約旦武裝部隊稱攔截3枚伊朗發射的導彈】當地時間7月19日，約旦武裝部隊總司令部發表宣告稱，約旦防空系統當天成功攔截並擊落了4枚針對約旦境內目標發射的伊朗導彈中的3枚，另有1枚導彈落在約旦南部一處遠離居民區的偏遠地區。宣告表示，此次事件未造成人員傷亡和財產損失。約旦皇家工兵部隊已前往導彈墜落地點，按照相關技術和安全程式開展處置和現場警戒工作。宣告強調，約旦武裝部隊將繼續保持最高戒備狀態，持續監控約旦領空，並將堅決應對任何威脅約旦國家安全和公民生命安全的行為。（央視）"
-    },
-    {
-      "id": "mkt:019f7a72-fb69-7aab-8df8-035fe4c7f7ee",
-      "time": "2026-07-19 20:56:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Jordan says it intercepted three of four Iran-launched missiles】Jordan Armed Forces General Command said on July 19 its air defenses intercepted and shot down three of four missiles fired at targets inside Jordan by Iran; the fourth fell in a remote area in southern Jordan away from populated areas. The command said there were no casualties or damage. Royal Engineers are at the impact site conducting technical disposal and security procedures. The armed forces said they remain at highest alert, continue to monitor Jordanian airspace and will decisively respond to any threats to national security or civilian lives."
-    },
-    {
-      "id": "4996125",
-      "time": "2026-07-19 20:55:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：Kalshi平臺世界盃期間新增 300 萬美國使用者。"
-    },
-    {
-      "id": "4996124",
-      "time": "2026-07-19 20:55:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "約旦軍方：工程兵部隊已按照現行的技術和安全程式，對導彈墜落地點進行了處置並實施了安全管控。我們將繼續保持最高戒備狀態，嚴密監視約旦領空，並以以最強硬的姿態應對任何針對約旦安全及公民人身安全的威脅。"
     }
   ]
 }
