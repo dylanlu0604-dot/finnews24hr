@@ -1,7 +1,15 @@
 {
   "date": "2026-07-27",
-  "count": 38,
+  "count": 39,
   "items": [
+    {
+      "id": "mkt:019f9f87-80ef-7aab-8e9b-b401e11a431d",
+      "time": "2026-07-27 01:44:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German government spokesman said Chancellor Merz will nominate conservative Steffen Bilger as transport minister."
+    },
     {
       "id": "mkt:019f9f86-dbc7-7aab-8e9b-abe6616f62db",
       "time": "2026-07-27 01:44:03",
