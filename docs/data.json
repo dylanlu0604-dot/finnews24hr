@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-26 22:17:38",
-  "count": 18038,
+  "updated": "2026-07-26 22:22:13",
+  "count": 18036,
   "items": [
+    {
+      "id": "5008616",
+      "time": "2026-07-26 22:20:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國司法部長：聯邦調查人員將接手柏林襲擊案的調查工作。"
+    },
+    {
+      "id": "5008615",
+      "time": "2026-07-26 22:19:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡：將與特朗普會面，聽取他對伊朗問題的想法。"
+    },
+    {
+      "id": "5008614",
+      "time": "2026-07-26 22:18:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡：如果伊朗以任何方式發動攻擊，我們的回應將是強有力的。"
+    },
+    {
+      "id": "5008613",
+      "time": "2026-07-26 22:17:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：儘管存在各種政治分歧，我們將捍衛我們的自由。"
+    },
     {
       "id": "5008611",
       "time": "2026-07-26 22:16:49",
@@ -165205,68 +165237,6 @@
         "公司"
       ],
       "text": "【無人化智慧裝備交付量大增 三德科技上半年淨利預增30%-50%】）7月19日晚間，三德科技釋出2026年半年度業績預告稱，預計今年上半年歸屬於上市公司股東的淨利潤7976萬元-9203萬元，同比增長30%-50%；扣非淨利潤為7559萬元-8722萬元，同比增長30%-50%。三德科技表示，報告期內，受益於無人化智慧裝備產品交付量的同比大幅增加，公司營業收入同比增長，公司報告期內歸屬於上市公司股東的淨利潤同比上升。據悉，無人化智慧裝備已經成為三德科技第二增長曲線，其營業收入近3年複合增長率達54.2%。三德科技2025年年報顯示，無人化智慧裝備營收佔比達52%，成為核心收入支柱。今年5月，國家能源局公佈了首批51個“人工智慧+”能源高價值場景清單，在“火電機組入廠燃料智慧管控”與“煤炭生產利用過程煤質快速精準檢測與智慧控制”兩個入選的高價值場景中，三德科技均有產品應用。（上證報）"
-    },
-    {
-      "id": "mkt:019f7abf-97f0-7aab-8df8-ec935c0983b2",
-      "time": "2026-07-19 22:20:04",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【China Reform says it has used over 50 billion yuan to stabilize markets】China Reform Holdings said entities under its Guoxin Investment unit have deployed more than 50 billion yuan of special re-lending for share buybacks and matching funds to support market stability. The firm said it will continue to use the re-lending policy tool and its own capital to further increase holdings in central state-owned enterprise shares to defend core-asset strategic value and maintain orderly market functioning."
-    },
-    {
-      "id": "4996171",
-      "time": "2026-07-19 22:19:36",
-      "tags": [
-        "公司",
-        "資料",
-        "國際"
-      ],
-      "text": "埃及稱，Petrojet與ENPPI同阿曼石油開發公司簽署的EPC框架協議涵蓋專案價值超過60億美元。"
-    },
-    {
-      "id": "mkt:019f7abe-c430-7aab-8df8-e6a8f2927838",
-      "time": "2026-07-19 22:19:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【China Chengtong makes large-scale purchases of Chinese equities】China Chengtong and affiliates Chengtong Capital and Chengyang Investment have bought nearly 10 bln yuan of Chinese equities in recent transactions, concentrated in central state-owned enterprises. The group says it will keep using proprietary funds, share repurchases and re‑lending to further increase large purchases of central SOE and technology stocks and ETFs to support market stability."
-    },
-    {
-      "id": "4996170",
-      "time": "2026-07-19 22:18:44",
-      "tags": [
-        "公司",
-        "資料",
-        "國際"
-      ],
-      "text": "埃及石油部稱，Petrojet-ENPPI聯合體贏得與阿曼石油開發公司為期六年的EPC框架協議。"
-    },
-    {
-      "id": "4996169",
-      "time": "2026-07-19 22:17:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "據上交所官網，江蘇魯汶儀器股份有限公司科創板IPO稽核狀態變更為“已問詢”。"
-    },
-    {
-      "id": "mkt:019f7abd-655a-7aab-8df8-db8d28472407",
-      "time": "2026-07-19 22:17:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Shanghai Stock Exchange website shows Jiangsu Leuven Instruments Co., Ltd.'s STAR Market IPO review status changed to 'inquiry'."
     }
   ]
 }
