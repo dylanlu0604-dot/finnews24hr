@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-27 00:30:18_
-_本檔包含 3776 則快訊，約 685622 字_
+_更新時間：2026-07-27 01:40:55_
+_本檔包含 3747 則快訊，約 684494 字_
+
+---
+
+### 2026-07-22 10:35:35  #其他
+
+【海南省“十五五”服務業發展規劃：探索貨運電動垂直起降飛行器、大載荷無人機跨海運輸 全面提升物流時效】海南省人民政府辦公廳近日印發《海南省“十五五”服務業發展規劃》，其中提出，創新發展低空物流。支援開展“無人機+生活場景”配送，服務海南特色水產品、熱帶水果、時效快遞等貨物外運需求。依託通用機場、馬村港、金馬物流園，探索貨運電動垂直起降飛行器（eVTOL）、大載荷無人機跨海運輸，全面提升物流時效，服務特色產品外運。支援各市縣依託產業園、商圈、大學城，綜合開發無人機外賣配送、急件閃送、即時零售等物流場景。
+
+---
+
+### 2026-07-22 10:35:21  #公司
+
+【耐克宣佈重構大中華區市場生態，第三方分銷商2027年起逐步停售】耐克正聚焦戰略採取行動，從數字渠道開始重塑市場生態。自 2027 年 1 月起，耐克將以天貓、京東和抖音的官方旗艦店以及Nike官方網站和App為核心，重新打造在中國的數字市場生態。作為這一調整的一部分，除部分授權合作伙伴外，目前由合作伙伴運營並銷售耐克產品的線上店鋪，將逐步停止銷售耐克產品。耐克集團副總裁、大中華區總經理申凱希表示，“這一調整的目的並不是減少購物入口，而是減少線上渠道碎片化，加強消費旅程的完整性。當消費體驗一致連貫，品牌也會變得更加強大。Nike和Jordan門店仍然是消費者體驗我們品牌的核心場域。我們的零售合作伙伴在將運動帶入社群方面發揮著關鍵作用，我們也將繼續致力於與他們共同成長。”對此調整，滔搏國際控股有限公司董事長、執行長兼執行董事於武表示：“滔搏公司作為耐克公司在中國大陸最大的經銷商，雙方本著互利雙贏的原則共同發展，已歷經27年。此次調整從短期看，將對公司業務產生明顯壓力。但我們堅信，從中長期來看，這一方向將有助於推動中國市場零售生態更加健康、有序和可持續發展，進一步提升消費者體驗和產品吸引力。未來，我們將繼續與耐克緊密合作，充分發揮我們線上下零售運營、本地消費者服務以及各級城市市場深耕方面的優勢，透過新概念運動門店和高質量實體零售場景，為中國消費者帶來更專業、更豐富的運動體驗。”（新浪科技）
+
+---
+
+### 2026-07-22 10:35:01  #其他
+
+【康芝藥業與廣東醫科大學簽署戰略協議】近日，康芝藥業與廣東醫科大學簽署戰略合作意向協議，雙方擬在醫院製劑轉化、老年康養、營養醫學研究、兒童精準康養研究等領域開展合作。
+
+---
+
+### 2026-07-22 10:34:32  #經濟數據 #中國
+
+【浙江上半年GDP同比增長5.7%】7月22日訊息，據浙江省統計局，根據地區生產總值統一核算結果，上半年全省地區生產總值47937億元，按不變價格計算，同比增長5.7%。分產業看，第一產業增加值1129億元，增長4.4%；第二產業增加值18130億元，增長6.2%；第三產業增加值28678億元，增長5.5%。
+
+---
+
+### 2026-07-22 10:34:26  #國際
+
+【阿盟秘書長呼籲胡塞武裝停止升級衝突】阿拉伯國家聯盟（阿盟）秘書長納比勒·法赫米21日重申阿盟對沙烏地阿拉伯的堅定支援，呼籲胡塞武裝停止發表升級衝突的言論，避免採取任何可能加劇地區緊張局勢的行動。 法赫米當天在宣告中就胡塞武裝發言人近期宣告作出回應。法赫米強調，沙烏地阿拉伯的安全、領土完整是阿拉伯國家安全體系不可分割的部分，阿盟堅定支援沙特為維護自身安全和領土完整所採取的一切合法措施。 法赫米說，胡塞武裝近期對沙特毫無根據的指責和威脅，是“危險的升級”，不利於維護地區安全與穩定，只會進一步加劇地區緊張，破壞緩和局勢的外交努力。 法赫米強調，堅持對話、尊重地區和國際社會為全面政治解決葉門危機所作的努力，是實現葉門及地區安全穩定的唯一途徑。 胡塞武裝與伊朗關係密切，並與沙特支援的葉門政府長期對峙，目前主要控制首都薩那和紅海港口城市荷臺達等西北部地區。胡塞武裝發言人葉海亞·薩雷亞20日發表宣告說，立即對沙特實施海上禁運，這一決定基於“封鎖對封鎖”原則作出。沙特主導的多國聯軍隨後表示，已採取措施保護成員國船隻安全通行曼德海峽，並將堅決回應胡塞武裝的任何威脅。(新華社)
+
+---
+
+### 2026-07-22 10:34:08  #公司
+
+【金梓才旗下四隻產品解除全部限購】金梓才旗下財通品質甄選混合、財通成長優選混合、財通價值動量混合、財通積體電路產業股票四隻產品於今日起恢復大額申購。此前，四隻產品於7月15日放鬆限購，單日申購限額從100元調整至10000元。公告稱，解除限購是為了滿足廣大投資者的投資需求。目前金梓才旗下財通景氣甄選一年持有期混合、財通匠心優選一年持有混合仍處於暫停申購狀態，財通多策略福鑫定開混合處於封閉運作期。
+
+---
+
+### 2026-07-22 10:33:59  #MKT News #Market Themes #AI Revolution
+
+A St. Louis Fed paper finds U.S. AI adoption materially outpaces Europe, and the gap is driven less by age, education or industry mix than by firm management and organizational culture. The study shows firms with higher management quality — not greater technology availability — and those that actively encourage employee AI use and provide AI-tool support have significantly higher AI adoption rates.
+
+---
+
+### 2026-07-22 10:33:54  #MKT News #Market Regions #Greater China
+
+【Zhejiang 1H GDP up 5.7% YoY】Zhejiang 1H GDP totaled RMB 4.794 tln at constant prices, up 5.7% YoY. By sector, primary industry value added was RMB 112.9 bln, up 4.4%; secondary was RMB 1.813 tln, up 6.2%; tertiary was RMB 2.868 tln, up 5.5%.
+
+---
+
+### 2026-07-22 10:33:52  #國際
+
+【海南省“十五五”服務業發展規劃：探索建立國際資料交易中心 探索“綠電+智算”出海服務新模式】海南省人民政府辦公廳近日印發《海南省“十五五”服務業發展規劃》，其中提出，打造資料服務開放與應用高地。建設面向歐盟、東盟的數字加工貿易區，開展商業、文化、工業、地理資訊等資料跨境服務。培育資料合作聯合體，大力吸引國際資料服務企業入駐，為境內外客戶提供資料清洗、挖掘、託管、交易等專業服務。探索建立國際資料交易中心，建立分類分級的資料確權、評估、定價機制，探索“綠電+智算”出海服務新模式。加快海口國家資料標註基地試點建設，重點承接國內外AI大模型訓練所需的高質量資料集標註與處理服務。“十五五”時期，每年引育資料服務商和大模型標註服務企業1—2家，引進數字內容製作和出海服務龍頭企業1—2家。到2030年，軟體與資訊科技服務業規上企業數量超過140家。
+
+---
+
+### 2026-07-22 10:33:48  #其他
+
+【浙江上半年GDP同比增長5.7%】據浙江省統計局，根據地區生產總值統一核算結果，上半年全省地區生產總值47937億元，按不變價格計算，同比增長5.7%。分產業看，第一產業增加值1129億元，增長4.4%；第二產業增加值18130億元，增長6.2%；第三產業增加值28678億元，增長5.5%。
+
+---
+
+### 2026-07-22 10:33:44  #MKT News #Market Regions #Greater China
+
+【Hainan issues 15th Five-Year service plan to develop commercial space technology services】Hainan provincial government office issued its 15th Five-Year services development plan, directing development of commercial space technology services. The plan targets an international satellite data-trading platform, a Phase II smart launch-service system at a commercial launch site, a third-party intelligent testing center for low‑Earth-orbit satellites and upgrades to remote-sensing mapping application services. It seeks to shift the commercial space sector from hardware manufacturing toward higher‑value operational and service offerings and to elevate Hainan’s service capacity in international aerospace and telemetry, tracking and control support.
+
+---
+
+### 2026-07-22 10:33:41  #其他
+
+【海關總署：將商籤更多貿易合作檔案 促進進口、出口更協調】7月22日，海關總署署長孫梅君在國新辦新聞釋出會上表示，下一步，將促進進口、出口更加協調，商籤更多貿易合作檔案，擴大先進技術裝置、關鍵零部件、能源資源、優質農產品的進口來源國，建立全球好物出口中國、分享中國大市場的機遇，也為中國消費者提供更多樣化的選擇。
+
+---
+
+### 2026-07-22 10:33:24  #MKT News
+
+【Hainan 15th Five-Year service plan to build Wenchang International Space City tech platform, star‑rocket R&D centre and satellite manufacturing hub】The Hainan provincial government issued a 15th Five-Year service-industry plan prioritizing tech, marine, biotech and commercial space clusters. Yazhou Bay Science City will host 16 specialised service platforms (including gene sequencing, molecular testing and variety testing) to create one-stop R&D outsourcing, testing and tech-transfer services; Haikou will develop a Pharma Valley CRO/CMO platform covering the full new‑drug R&D chain. The plan targets industrialisation of underwater robots, deep‑sea sensors and offshore operation platforms and the creation of a national marine equipment manufacturing innovation centre. It directs construction of a Wenchang International Space City technology-innovation public platform, an International Star‑Rocket Collaborative R&D Center and an International Satellite Advanced Manufacturing Center, and supports application and commercialisation of green propellants, rocket launch-and-recovery technologies and integrated LEO communications satellite constellations to build an integrated launch+service+manufacturing+application commercial space industry ecosystem.
+
+---
+
+### 2026-07-22 10:33:16  #市場 #焦點
+
+南向資金淨買入額達30億港元。
+
+---
+
+### 2026-07-22 10:33:04  #其他
+
+【海南省“十五五”服務業發展規劃：建設文昌國際航天城科技創新公共平臺、國際星箭協同研發中心、國際衛星先進製造中心】海南省人民政府辦公廳近日印發《海南省“十五五”服務業發展規劃》，其中提出，以崖州灣科技城為核心，佈局基因測序、分子檢測、品種測試等16類專業服務平臺，打造“一站式”研發外包、檢驗檢測、成果轉化服務體系。推動水下機器人、深海感測器、海上作業平臺等技術的產業化程序，打造國家海洋裝備製造業創新中心。建設文昌國際航天城科技創新公共平臺、國際星箭協同研發中心、國際衛星先進製造中心，支援綠色推進劑、火箭發射與回收、低軌通訊衛星星座一體化等關鍵技術的應用轉化，完善“發射+服務+製造+應用”一體化商用航天產業體系。建設海口“藥谷”生物醫藥合同研發、合同生產服務平臺，構建覆蓋新藥研發全鏈條的科技服務體系。
+
+---
+
+### 2026-07-22 10:32:31  #市場
+
+【端側AI概念震盪拉昇 瑞芯微漲停】端側AI概念盤中震盪拉昇，瑞芯微漲停，星宸科技、中科藍訊漲超10%，全志科技、廣和通、樂鑫科技、泰凌微、移遠通訊跟漲。
+
+---
+
+### 2026-07-22 10:32:22  #其他
+
+【海南省“十五五”服務業發展規劃：發展商業航天技術服務】海南省人民政府辦公廳近日印發《海南省“十五五”服務業發展規劃》，其中提出，發展商業航天技術服務。依託國際衛星資料交易服務平臺、商業航天發射場智慧發射服務系統（二期）、低軌衛星第三方智慧化檢測服務中心、遙感測繪應用服務能力提升專案，推動商業航天從硬體製造向高附加值運營服務延伸，提升海南在國際航天與測控保障領域的服務能級。
+
+---
+
+### 2026-07-22 10:32:10  #市場
+
+【港股黃金股走強 赤峰黃金漲超15%】截至發稿，赤峰黃金(06693.HK)漲15.20%，紫金黃金國際(02259.HK)漲14.33%，靈寶黃金(03330.HK)漲13.99%，潼關黃金(00340.HK)漲7.81%。
 
 ---
 
@@ -22461,289 +22569,5 @@ U.S. State Department issued a "Worldwide Caution" to U.S. citizens amid escalat
 ### 2026-07-21 09:10:44  #MKT News
 
 【Nationz Technologies N32A automotive MCU adopted in Bosch radars for mainstream Chinese NEVs, enters volume production】Nationz Technologies said its N32A series automotive-grade MCU has been integrated into Bosch wading and reversing radars fitted on mainstream domestic new-energy vehicle models and has entered volume application.
-
----
-
-### 2026-07-21 09:10:25  #公司 #市場
-
-【第一創業李懷軍：短期市場大機率延續震盪格局，但進一步大幅下跌空間有限】第一創業證券研究所宏觀分析師李懷軍7月21日表示，當前A股具備一定支撐條件。一是基本面具備韌性，經濟溫和復甦的總體態勢沒有改變，6月生產和零售資料呈現溫和復甦態勢。上市公司業績增長趨勢不變，不少高科技行業上市公司釋出半年報業績預增公告。二是估值已具備吸引力，部分板塊估值回到歷史較低分位，具備中長期投資價值。展望未來走勢，李懷軍表示，從短期看，以時間換空間，市場大機率延續震盪格局，但進一步大幅下跌的空間有限。從中期看結構分化，應聚焦產業主線，比如AI驅動的科技行情仍有產業根基支撐，全球五大雲廠商2026年一季度資本開支同比飆升91%；資源週期板塊受益於能源價格上漲，具備階段性投資機會；消費板塊有望在促消費政策推動下也有望逐步復甦。從長期看，A股趨勢向上，慢牛格局不變。中國經濟的長期增長潛力為A股提供堅實基礎。外資配置邏輯從“買增長”轉向“買安全”，中長期資金仍將持續流入。
-
----
-
-### 2026-07-21 09:10:04  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-Iran’s Islamic Revolutionary Guard Corps said it targeted a US-made Patriot air-defence system deployed in Riffa, Bahrain, in a missile and drone attack.
-
----
-
-### 2026-07-21 09:10:00  #市場
-
-【國民技術N32A車規晶片已應用於主流新能源車企】據國民技術訊息，搭載國民技術N32A系列車規級MCU的博世汽車涉水雷達及倒車雷達，已成功應用於國內主流新能源車企的主力車型，並進入批次應用階段。
-
----
-
-### 2026-07-21 09:09:56  #公司 #國際
-
-【韓國綜指漲幅擴大至2%】韓國綜指漲幅擴大至2%，現報6646.48點。個股方面，三星電子漲超4%，SK海力士漲超2%。
-
----
-
-### 2026-07-21 09:09:36  #國際
-
-伊朗革命衛隊稱，他們在導彈和無人機襲擊中瞄準了位於巴林裡法的美國愛國者防空系統。
-
----
-
-### 2026-07-21 09:09:11  #MKT News #Important
-
-South Korea's KOSPI index rose as much as 2% intraday.
-
----
-
-### 2026-07-21 09:08:55  #市場
-
-【華泰柏瑞滬深300ETF最新規模1136億元 時隔22天再現千億ETF】Choice資料顯示，截至7月20日，華泰柏瑞滬深300ETF最新規模達1135.92億元。時隔22天，該產品規模重新站上千億規模關口，A股再度出現千億級ETF。此前，該ETF在6月29日規模回落至989.20億元，正式跌破千億關口，全市場千億ETF數量清零。7月以來，該ETF規模一度被華安黃金ETF、銀華日利A超越，失去全市場規模第一ETF頭銜。但在7月16日，該ETF規模達935.53億元，超越銀華日利A重新成為全市場規模最大ETF。
-
----
-
-### 2026-07-21 09:08:55  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Islamic Revolutionary Guard Corps says it has designated U.S. radar and air-defense systems in Muharraq, Bahrain, as strike targets.
-
----
-
-### 2026-07-21 09:08:29  #國際
-
-伊朗革命衛隊稱已瞄準巴林穆哈拉格的美軍雷達及防空系統。
-
----
-
-### 2026-07-21 09:07:57  #公司
-
-【贛鋒鋰業等在廣東成立能源科技新公司】企查查APP顯示，近日，贛鋒算電（廣東）能源科技有限公司成立，經營範圍包含充電樁銷售；機動車充電銷售；新興能源技術研發；合同能源管理等。企查查股權穿透顯示，該公司由贛鋒鋰業等共同持股。
-
----
-
-### 2026-07-21 09:07:41  #國際
-
-【美國總統特朗普與英國新任首相伯納姆通話 獲邀訪問曼徹斯特】美國總統唐納德·特朗普表示，他與英國新任首相安迪·伯納姆進行了一次“非常好的通話”，雙方將在“不久的將來”會面。這顯示在伯納姆前任基爾·斯塔默任內一度趨緊的美英關係，可能出現改善跡象。“首相面臨著艱鉅的任務，但他一定能夠勝任，當然，美國也會提供幫助！”特朗普在社交媒體上發文稱。特朗普表示：“我們討論了許多議題，包括我們與英國長期保持的卓越關係。我們將在不久的將來就雙方共同關心的話題舉行會晤。”他補充稱，雙方討論的內容包括北海石油、貿易以及霍爾木茲海峽排雷工作。此前，由於前首相基爾·斯塔默拒絕在特朗普對伊朗發動襲擊後提供初步軍事支援，近幾個月來美英關係一度承壓。伯納姆辦公室表示，首相在通話中向特朗普祝賀世界盃賽事成功舉行。該賽事於週日落幕，最終由西班牙擊敗阿根廷奪冠。作為就任英國領導人後最早進行的幾通電話之一，伯納姆還邀請特朗普訪問曼徹斯特。
-
----
-
-### 2026-07-21 09:07:11  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-Brent crude fell about $0.50 intraday, slipping below $87/barrel and down 0.58% on the day.
-
----
-
-### 2026-07-21 09:06:43  #MKT News #Commodities #Precious Metals
-
-Shanghai silver most-active contract rose 2.00% intraday to 13,960 yuan/kg.
-
----
-
-### 2026-07-21 09:06:15  #市場
-
-MSCI亞太指數上漲1%至263.41點。
-
----
-
-### 2026-07-21 09:05:50  #市場
-
-臺灣證交所加權股價指數上漲2.1%至43,324.19點。
-
----
-
-### 2026-07-21 09:05:22  #國際
-
-伊朗革命衛隊稱，兩艘油輪在試圖透過霍爾木茲海峽南部航道時發生爆炸後起火。
-
----
-
-### 2026-07-21 09:05:02  #市場 #焦點
-
-PTA連續主力合約日內跌3%，現報5688.00元。
-
----
-
-### 2026-07-21 09:04:24  #市場 #焦點
-
-碳酸鋰連續主力合約日內跌5%，現報140400.00元。
-
----
-
-### 2026-07-21 09:04:16  #國際
-
-日本貿易大臣赤澤亮正：已確保日本整體石油供應充足。
-
----
-
-### 2026-07-21 09:04:07  #國際
-
-日本貿易大臣赤澤亮正：中東局勢惡化令人擔憂。
-
----
-
-### 2026-07-21 09:03:23  #MKT News #Market Regions #Greater China
-
-Taiwan Weighted Index opened 581.4 points higher, up 1.37% at 43,031.1 on Tuesday, July 21.
-
----
-
-### 2026-07-21 09:03:16  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange Gold T+D rose 0.44% in early trade on July 21 to 876.17 yuan/gram; Silver T+D rose 0.73% to 13,823 yuan/kg.
-
----
-
-### 2026-07-21 09:02:35  #國際
-
-日本貿易大臣赤澤亮正：沙特海軍封鎖存在諸多未知數。
-
----
-
-### 2026-07-21 09:02:29  #市場 #國際
-
-5年期日本國債收益率上漲1.5個基點，至1.945%。
-
----
-
-### 2026-07-21 09:02:19  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Wall Street Journal reports Israel believes Iran has moved nuclear centrifuges to the "Gaoshan" facility.
-
----
-
-### 2026-07-21 09:02:09  #公司
-
-【中國三峽集團廣西分公司總經理吳啟仁接受審查調查】據中央紀委國家監委駐中國三峽集團紀檢監察組、湖南省紀委監委訊息：中國三峽集團廣西分公司總經理吳啟仁涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國三峽集團紀檢監察組紀律審查和湖南省長沙市監察委員會監察調查。
-
----
-
-### 2026-07-21 09:01:33  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver is up 1.00% intraday at $57/oz.
-
----
-
-### 2026-07-21 09:01:26  #市場
-
-現貨白銀日內漲1%，現報56.97美元/盎司。
-
----
-
-### 2026-07-21 09:01:20  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Islamic Revolutionary Guard Corps said one hour ago two oil tankers attempting to transit a hazardous route south of the Strait of Hormuz, allegedly after US misdirection, suffered explosions and fires and were forced to stop; rescue teams are evacuating the vessels' crews.
-
----
-
-### 2026-07-21 09:00:56  #公司 #國際
-
-【三星電子將成立機器人部門加速研發及商業化，打造增長引擎】韓國三星電子週二表示，將設立一個機器人部門RX(Robotics eXperience)，直接向執行長彙報，以加速該領域的研發和商業化，將機器人技術打造為增長引擎。三星電子表示，RX部門將負責中長期機器人戰略、核心技術開發和業務執行，同時擴大在國內和海外的研究能力。
-
----
-
-### 2026-07-21 09:00:31  #市場 #焦點
-
-雞蛋連續主力合約日內跌2%，現報4170.00元。
-
----
-
-### 2026-07-21 09:00:29  #MKT News #005930.KS #Impact bullish
-
-Samsung Electronics announced it will form a robotics business division.
-
----
-
-### 2026-07-21 09:00:25  #MKT News #Important #Commodities #Industrial Metals #Precious Metals #Energy #Copper #Impact bullish
-
-At the morning open, China's main futures contracts were mixed. Decliners: coking coal, paraxylene (PX), PTA, low-sulfur fuel oil (LU) and coke fell over 2%; PET chips and eggs declined around 2%; short-fiber polyester fell over 1%. Risers: Shanghai silver, soybean meal, Europe-route container shipping, international copper, rapeseed meal and palladium rose over 1%; soybean No.2 and Shanghai copper gained about 1%.
-
----
-
-### 2026-07-21 09:00:19  #市場 #焦點
-
-碳酸鋰連續主力合約日內跌4%，現報141900.00元。
-
----
-
-### 2026-07-21 09:00:14  #其他
-
-臺灣證交所加權股價指數開高0.3%報42,566.93。
-
----
-
-### 2026-07-21 09:00:13  #MKT News #CSI300 #Impact bullish #CNH #Hang Seng Index
-
-FTSE China A50 futures opened 0.05% higher.
-
----
-
-### 2026-07-21 09:00:03  #市場
-
-富時中國A50指數期貨開盤上漲0.01%。
-
----
-
-### 2026-07-21 09:00:03  #市場
-
-【商品期貨開盤】碳酸鋰連續跌2.85%，焦煤連續跌2.66%，焦炭連續跌2.25%，低硫燃料油連續跌2.20%，對二甲苯連續跌2.17%。
-
----
-
-### 2026-07-21 08:58:34  #市場
-
-【飛天茅臺再度大漲 白酒大單品總價創13天新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月21日延續強勢反彈。如果主要單品各取一瓶整體打包售賣，今日總售價為9891元，較昨日大幅上漲42元，連續三天回升，較7月18日創下的階段低點累計上漲86元，創下13天以來最高。飛天茅臺全國零售均價大幅上漲29元/瓶，重新整理今年2月14日以來最高價，成為今日總價上行的核心驅動力。縱觀全場，贏家數量及漲幅均佔據明顯優勢，終端交投情緒環比明顯回暖，總價低位反彈勢頭進一步增強。
-
-今日11大白酒單品七漲三跌一平，贏家盡佔上風。上漲方面，飛天茅臺的漲幅居前，大幅上漲29元/瓶，連續五日快速上行，零售均價升至1787元/瓶，重新整理今年2月14日以來最高價；以i茅臺最新的官方定價1639元/瓶計，其全國終端零售均價相對官方定價的溢價擴大至148元/瓶。精品茅臺與青花郎均上漲7元/瓶，其中前者連續兩日回升，重新站上2400元大關；後者重返700元關口，並創下7月份以來最高價。習酒君品上漲4元/瓶，連續三日回升，創近半月最高價。五糧液普五八代與五糧液1618均上漲3元/瓶，其中前者連續四日自“酒價內參”去年11月有統計以來最低位處反彈，累計回升18元/瓶，進一步逼近800元關口；後者連續兩日自近一月最低位修復，但仍未收復820元關口。洋河夢之藍M6+上漲2元/瓶，連續兩日回升，進一步叩關590元。下跌方面，國窖1573與古井貢古20的跌幅居前，均下跌6元/瓶，其中前者平近一月最大單日跌幅，價格創近一月最低；後者連續兩日回落，創7月份以來最低。水晶劍南春小跌1元/瓶，結束此前連續四日持平穩態。青花汾20價格環比昨日保持不變，連續兩日維持在370元/瓶。
-
----
-
-### 2026-07-21 08:58:14  #Trading Economics #Economy #Canada #Balance of Trade #Importance 1
-
-U.S. to Hit Canada with Broad 50% Tariffs — Canada faces the threat of steep new U.S. trade measures after the Trump administration on Monday announced plans to impose a 50% tariff on Canadian imports starting in 30 days, accusing Ottawa of discriminating against U.S. exports, including alcohol, automobiles, and dairy products. The White House said the tariffs would cover a broad range of goods, from hockey sticks to cement, and would also apply to products covered under the U.S.-Mexico-Canada Agreement (USMCA) that had been exempt from previous tariff actions. Only a limited number of products would be spared, including energy, critical minerals, potash, fish, and goods already subject to sector-specific Section 232 tariffs. The move marks a significant escalation in trade tensions between the two neighboring economies and could disrupt cross-border supply chains if implemented.
-
----
-
-### 2026-07-21 08:58:06  #資料 #市場 #央行 #國際
-
-【中信期貨：4000關鍵關口震盪整理，黃金中期仍偏弱，短期方向待明】宏觀層面，6月CPI環比雖出現2020年以來首次下降，但美聯儲主席沃什明確表示通脹任務尚未完成，多位官員持類似鷹派立場。當前市場預期7月加息機率偏低，9月或10月加息 25個基點的預期持續升溫，年底前至少一次加息已基本定價。美伊停火破裂後油價再度上漲，疊加 AI 支出持續注入動力，通脹壓力仍存。2年期國債收益率自2月底累計漲約75個基點，市場已提前定價鷹派預期。資金層面，熱門資產輪動流出，黃金作為前期共識交易持續面臨資金撤離，歷史規律顯示收復前高通常需10個月以上，調整時間或仍不充分。地緣方面，美伊衝突進入第五個月，霍爾木茲海峽局勢持續緊張。情緒層面，前期多頭倉位大幅調整後，市場情緒趨於謹慎，對地緣波動反應明顯鈍化。實物層面，央行購金需求依然強勁，提供底部支撐、限制深度回撥空間。
-
----
-
-### 2026-07-21 08:57:19  #國際
-
-美國總統特朗普將於週二美國東部時間上午11:15會見黎巴嫩總統。
-
----
-
-### 2026-07-21 08:56:52  #其他
-
-據韓聯社：現代汽車推出全球車聯網服務。
-
----
-
-### 2026-07-21 08:56:33  #MKT News #Commodities #Precious Metals #XAUUSD
-
-【Hong Kong, Laos sign MoU to boost gold market and financial services cooperation】Hong Kong's Financial Services and the Treasury Bureau Secretary Christopher Hui on the 20th in Vientiane signed a memorandum of understanding with Laos' deputy prime minister and finance minister to promote cooperation in the gold market and financial services, the Hong Kong SAR government said.
-
----
-
-### 2026-07-21 08:54:08  #宏觀 #市場
-
-【香港與寮國財政部簽訂黃金市場和金融服務合作諒解備忘錄】香港政府：財經事務及庫務局局長許正宇7月20日展開其寮國永珍訪問行程，並與寮國財政部簽訂推動兩地黃金巿場和金融服務合作的諒解備忘錄。諒解備忘錄勾勒出清晰的合作範疇，當中包括為合資格的寮國黃金持有者提供便利對接香港認可黃金精煉網路的渠道，以推動實物黃金流動；同時鼓勵更廣泛採用符合國際標準的精煉金條在港進行交易和交割，並深化人才培訓，以及促進涵蓋代幣化方案在內的金融科技合作。同一儀式上，許正宇也見證了寮國黃金銀行與已在港設立其第三個區域總部的知名貴金屬交易商及精煉商MKS PAMP簽署有關黃金市場發展的諒解備忘錄。
-
----
-
-### 2026-07-21 08:52:53  #公司
-
-【廈門鎢業等成立新公司 含智慧機器人業務】企查查APP顯示，近日，廈門眾鑭高科有限公司成立，註冊資本15億元，經營範圍包含智慧機器人銷售；工業機器人銷售；工業機器人制造；智慧機器人的研發；智慧基礎製造裝備製造等。企查查股權穿透顯示，該公司由廈門鎢業(600549)等共同持股。
-
----
-
-### 2026-07-21 08:51:46  #國際
-
-【加拿大總理回應美加徵關稅：單邊貿易行動的最新舉措】當地時間7月20日，加拿大總理馬克·卡尼就美政府宣佈對多種加拿大商品加徵50%關稅一事發表宣告。卡尼表示，這是美國一系列單邊貿易行動中的最新舉措，違反了“美國—墨西哥—加拿大協定”（美墨加協定）。加拿大團結一致應對這些“對加拿大主權的威脅”，並正在採取行動保護其經濟和公民。卡尼說，過去18個月來，美國一直在改變其各類貿易關係，包括美墨加協定涵蓋的貿易關係，因此，加拿大提出了一系列詳細而全面的建議，以解決當前爭端並使美墨加協定現代化。他表示，“我們隨時準備在未來幾周內加強相關磋商。”（央視新聞）
 
 ---

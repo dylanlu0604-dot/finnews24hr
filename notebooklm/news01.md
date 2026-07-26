@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-27 00:30:18_
-_本檔包含 3529 則快訊，約 685396 字_
+_更新時間：2026-07-27 01:40:55_
+_本檔包含 3536 則快訊，約 684867 字_
+
+---
+
+### 2026-07-27 01:35:18  #MKT News
+
+Pakistan's foreign minister and the IAEA director general, while reviewing the latest regional situation, stressed the need to advance diplomatic efforts to secure lasting peace.
+
+---
+
+### 2026-07-27 01:35:01  #國際
+
+【伊朗最高領袖：支援黎真主黨並要求全面結束以對黎軍事行動】伊朗最高領袖穆傑塔巴·哈梅內伊當地時間7月26日晚對黎巴嫩真主黨領導人納伊姆·卡西姆及其武裝人員日前的來信作出回覆。回信稱，在當前地區局勢下，黎巴嫩真主黨是抵抗以色列及其支持者的主要力量，並已成為鼓舞世界各地反對霸權主義及其代理人的重要力量。回信表示，黎真主黨能夠持續堅持，不僅依靠其武裝人員，也離不開黎巴嫩民眾，特別是南部地區民眾的支援。穆傑塔巴重申，根據已故伊朗最高領袖哈梅內伊確立的路線，支援黎巴嫩真主黨已成為伊朗的一項戰略政策。他表示，伊朗將維護黎巴嫩領土完整、全面且無條件結束以色列對黎軍事行動，作為與美國達成結束衝突相關諒解備忘錄的首要條件。穆傑塔巴還表示，世界各國人民已經無法忍受美國和以色列的“壓迫與暴行”，並稱將繼續堅持抵抗路線。（央視新聞）
+
+---
+
+### 2026-07-27 01:32:25  #國際
+
+以色列總理內塔尼亞胡：（伊朗放棄核計劃）這正是特朗普總統想要實現的目標，我全力支援他。無論透過何種方式，伊朗都必須終止核計劃。無論是否達成協議，伊朗核計劃都必須畫上句號。
+
+---
+
+### 2026-07-27 01:31:42  #國際
+
+以色列總理內塔尼亞胡：認為要麼推翻伊朗現政權，要麼將其嚴重削弱，迫使伊朗主動終止核計劃、徹底改變現有路線。
+
+---
+
+### 2026-07-27 01:27:28  #MKT News
+
+【Putin: Arctic is a legitimate part of Russia's sovereign territory】Speaking to naval personnel in St. Petersburg on Navy Day, Putin said, “When I say international law is fully on our side, I mean the Arctic is a legitimate part of Russia's sovereign territory.”
+
+---
+
+### 2026-07-27 01:15:00  #國際
+
+【南海搜救持續進行 中國海警夜間再救起2名越南遇險船員】記者從海南省海上搜救中心獲悉，7月26日晚，南海越南籍漁船沉沒搜救工作再獲進展，在中國海警宣德艦和南沙艦持續開展搜救過程中，其中宣德艦先後發現兩名落水越南籍遇險船員，海警執法員迅速開展施救，分別於22時38分、23時32分成功將兩人安全救起，兩名獲救人員生命體徵正常。按照現場統一救援部署，兩名獲救人員將在27日轉運至現場指揮船“南海救115”輪妥善安置。截至目前，中方始終秉持人道主義救援原則，24小時不間斷排程各類海上搜救力量，持續對周邊海域進行拉網式排查，全力搜尋剩餘失聯人員，搜救工作仍在緊張有序推進中。（央視新聞）
+
+---
+
+### 2026-07-27 01:13:05  #焦點 #國際
+
+【美軍中東最高指揮官建議暫停霍爾木茲海峽轟炸行動】訊息人士透露，美軍中東戰區最高指揮官布拉德·庫珀海軍上將建議美方停止針對霍爾木茲海峽周邊區域的轟炸行動，理由是該輪空襲已達到作戰效果上限。訊息人士稱，中央司令部司令庫珀的建議，疊加其他幕僚的意見，直接影響了特朗普總統上週五做出暫停打擊伊朗的決定。軍方與白宮文職顧問均向總統承認，單純依靠軍事手段、尤其是空中打擊能達成的戰果存在明顯侷限。
+
+---
+
+### 2026-07-27 01:09:43  #國際
+
+伊朗最高領袖：伊朗明確，任何旨在結束與美國衝突的協議，首要前提必須是維護黎巴嫩領土完整，且徹底、無條件終止以色列的侵略行徑。
+
+---
+
+### 2026-07-27 01:09:24  #國際
+
+伊朗最高領袖對真主黨信函回應：如今，世界各國早已厭倦美國與以色列的殘暴壓迫，二者屠戮生靈、禍及世代，除奮起抵抗外別無出路。
+
+---
+
+### 2026-07-27 01:07:54  #國際
+
+市場資訊：美國前副總統卡瑪拉·哈里斯競選團隊已向加州內部人士透露，她正籌備參與2028年美國總統大選。
+
+---
+
+### 2026-07-27 01:07:08  #其他
+
+【短期調整不改長期邏輯 QDII基金經理看好AI板塊後市】近1年來，在人工智慧投資熱潮帶動下，多隻重點佈局相關板塊的QDII基金收穫頗豐，多隻產品淨值漲幅超過60%。不過，7月以來，伴隨全球市場波動加劇，AI板塊一度出現大幅回撤。展望後市，多位QDII基金經理認為，AI硬體、儲存晶片及光通訊等細分賽道基本面依然穩固，應緊盯資本開支與訂單資料。
+
+---
+
+### 2026-07-27 01:06:32  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
+
+Axios reports CENTCOM commander Cooper advised halting bombing operations around the Strait of Hormuz, saying the campaign’s effectiveness had reached its limit. That recommendation influenced Trump’s decision on Friday to pause planned strikes on Iran.
+
+---
+
+### 2026-07-27 01:05:47  #其他
+
+訊息人士：美軍中央司令部司令認為針對霍爾木茲海峽周邊的打擊已發揮最大效果，建議停止空襲。
+
+---
+
+### 2026-07-27 01:03:43  #焦點 #國際
+
+【伊朗稱將就商船遭襲報復烏克蘭】伊朗外長阿拉格齊7月26日在社交媒體發文，譴責烏克蘭在裡海襲擊伊朗商船一事。阿拉格齊在帖文中稱，烏克蘭“襲擊了一艘伊朗商船，致一名水手喪生。這是公然違反《聯合國憲章》的行徑，系聽命於以色列，意在將歐洲拖入其戰爭。在與歐盟外交與安全政策高階代表卡拉斯及俄羅斯外長拉夫羅夫通話時，我已明確表明：基輔這個‘吃白食的’所為，絕不可能不遭回擊。” 伊朗外交部此前釋出宣告稱，7月25日，一艘伊朗商船在裡海遭到烏克蘭方面襲擊後發生爆炸，導致一名船員死亡、另有一人受傷。（CCTV國際時訊）
+
+---
+
+### 2026-07-27 00:51:39  #國際
+
+美軍中東戰區指揮官：可打擊目標基本已耗盡，軍方這一建議推動特朗普做出暫停空襲伊朗的決定。
+
+---
+
+### 2026-07-27 00:49:47  #國際
+
+市場資訊：美國中東戰區指揮官建議暫停霍爾木茲海峽轟炸行動。
+
+---
+
+### 2026-07-27 00:48:19  #MKT News
+
+Iran's embassy in France said the Strait of Hormuz is a heritage passed down through generations.
+
+---
+
+### 2026-07-27 00:42:22  #國際
+
+【伊朗商船在裡海遭襲 伊外長：絕不能不予以回應】當地時間7月26日晚，伊朗外交部長阿拉格齊在社交媒體平臺發文稱，烏克蘭方面襲擊了一艘伊朗商船，造成一名船員死亡，此舉“公然違反《聯合國憲章》”。阿拉格齊表示，他已分別與歐盟外交與安全政策高階代表卡拉斯以及俄羅斯外長拉夫羅夫通電話，並明確表示，烏方此次行動“絕不能不予以回應”。伊朗外交部此前釋出宣告稱，25日，一艘伊朗商船在裡海遭到烏克蘭方面襲擊後發生爆炸。（央視新聞）
+
+---
+
+### 2026-07-27 00:38:05  #國際
+
+伊朗官員：過去兩日伊朗與阿曼官員的會談富有建設性，旨在恢復霍爾木茲海峽通航的談判也取得積極進展。
+
+---
+
+### 2026-07-27 00:31:59  #MKT News #Brent #Impact bearish
+
+Russian Foreign Ministry said Alagazzi briefed Lavrov on ongoing diplomatic efforts to ease Middle East tensions triggered by US strikes on Iran.
+
+---
+
+### 2026-07-27 00:31:31  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Russia's foreign minister expressed sincere condolences over a July 25 Ukrainian drone strike on an Iranian merchant ship that killed one Iranian crewman, the Russian foreign ministry said. Alagazi thanked Astrakhan authorities for assisting the attacked vessel's crew and stressed the need to prevent Kyiv from carrying out similar risky actions.
+
+---
+
+### 2026-07-27 00:31:13  #國際
+
+以色列總理內塔尼亞胡：儘管與紐約市長馬姆達尼因國際刑事法院對其簽發逮捕令一事產生分歧，但仍計劃前往紐約出席聯合國大會。
+
+---
+
+### 2026-07-27 00:30:17  #MKT News
+
+Russia's Foreign Ministry said on July 26 that, at Iran's request, Foreign Minister Lavrov held a phone call with Iranian counterpart Araghchi.
 
 ---
 
@@ -21257,101 +21395,5 @@ A Temasek executive said the Singapore sovereign investor is seeking more defenc
 ### 2026-07-24 14:50:26  #MKT News #Market Themes #AI Revolution #XPEV.O
 
 【XPeng humanoid robot enters small-batch pilot production】XPeng has started small-batch pilot production of its humanoid robot at its Guangzhou factory; the mass-production line is in final joint debugging and the mass-production sprint is in its final countdown. The company targets mass production in 2026 and plans phased deployments to XPeng stores and commercial venues from 2027 for roles such as sales and customer guidance. XPeng says the robot unit will consolidate group capabilities across hardware, large AI models, supply chain and marketing, and reuse its automotive soft/hardware co-development, intelligent manufacturing and global channel experience for the robotics business.
-
----
-
-### 2026-07-24 14:49:31  #央行 #中國央行
-
-【7月中期流動性淨投放8000億，扭轉連續四個月回籠態勢】7月24日，中國人民銀行開展5000億元一年期中期借貸便利（MLF）操作，當月MLF到期規模為4000億元，本次操作實現1000億元淨投放，這也是央行連續三個月加量續作MLF。疊加當月6個月期買斷式逆回購淨投放5000億元，3個月期買斷式逆回購淨投放2000億元，7月央行三大中期流動性工具合計淨投放8000億元，一舉扭轉此前連續四個月中期工具縮量回籠態勢，宣告市場中長期流動性由回籠轉向全面淨投放。
-
----
-
-### 2026-07-24 14:49:27  #MKT News #Market Themes #AI Revolution
-
-【Momenta enters Robovan unmanned freight; Robovan has operated in Suzhou for months】Market rumors circulated that autonomous-driving leader Momenta has entered unmanned freight (Robovan). On July 24 a person familiar with the matter confirmed Momenta’s Robovan has been operating in Suzhou for several months.
-
----
-
-### 2026-07-24 14:49:18  #其他
-
-【Momenta入局Robovan，已在蘇州運營數月】近日，市場傳言自動駕駛龍頭Momenta已入局無人貨運（Robovan）。7月24日，知情人士向記者確認，Momenta的Robovan已在蘇州運營數月。（21財經）
-
----
-
-### 2026-07-24 14:48:45  #MKT News #GBPUSD #Impact bullish
-
-On the US's latest tariffs, the UK government said the US has accepted the measures the UK has taken on forced labour.
-
----
-
-### 2026-07-24 14:48:34  #國際
-
-英國政府就美國最新關稅措施表態：美方已認可英國在強迫勞動問題上正採取的措施。
-
----
-
-### 2026-07-24 14:48:07  #國際
-
-英國政府就美國最新關稅措施表態：此次公佈的調整並未導致英國企業面臨的關稅稅率發生任何不利變動。
-
----
-
-### 2026-07-24 14:47:34  #公司
-
-【絲路視覺接連中標三個專案】據絲路視覺訊息，近日，公司接連中標南寧市城市規劃展示館、上海青少年科創體驗中心與張江高科科創展廳三個專案。
-
----
-
-### 2026-07-24 14:46:17  #Trading Economics #Markets #Indonesia #Currency #Importance 1
-
-BI Support Lifts Rupiah, But Weekly Loss Still Looms — The Indonesian rupiah edged up to around IDR 17,970 per U.S. dollar on Friday afternoon after briefly sliding to IDR 18,030 previously. The move was supported by Bank Indonesia's fresh support measures, including cheaper FX hedging facilities, efforts to expand local-currency use in trade, and adjustments to its liquidity framework to improve liquidity distribution across banks. Earlier this week, the central bank kept its policy rate unchanged after delivering a total 100bps of hikes since May to aid the rupiah. Even so, the currency remains on track to weaken slightly for the week, weighed by fragile sentiment as oil prices topped USD 100 a barrel, stoking fiscal concerns for Indonesia as a net oil importer. The central bank also flagged El Niño risks that could lift food prices, though it expects inflation to stay within the target range through 2027. Globally, the dollar index hovered near a three-week high as President Trump's latest tariffs reignited fears of a renewed trade war.
-
----
-
-### 2026-07-24 14:45:48  #國際
-
-【罕見埃及北部至韓國原油運輸油輪敲定租船訂單】租船成交單據顯示，一艘超大型原油運輸船已暫定簽約，承運一批從埃及北部運往韓國的原油，該航線租船訂單尚屬史上首例。成交單據記錄，DHTStallion號油輪將於8月18日至20日在埃及西迪基里爾港裝載原油，隨後駛往韓國蔚山港卸貨。大宗商品航運資料機構Kpler自2008年起留存運輸記錄，本次貨運是該資料庫中首筆此類跨區域運輸訂單。
-
----
-
-### 2026-07-24 14:44:47  #市場
-
-【兆易創新A股成交額超200億元】7月24日下午，兆易創新A股成交額超200億元，現漲1.31%。
-
----
-
-### 2026-07-24 14:44:41  #央行 #國際
-
-【歐洲央行公佈新版歐元紙幣入圍設計方案】歐洲中央銀行23日公佈計劃發行的新版歐元紙幣10份入圍設計方案，並開啟線上調查，徵求民眾意見。新版歐元紙幣包括5歐元、10歐元、20歐元、50歐元、100歐元和200歐元面值。歐洲央行此前已敲定兩個設計主題，分別是“歐洲文化”和“河流與鳥類”。此次每個主題各公佈了5份入圍設計方案，紙幣正面分別出現科學家居里夫人、音樂家貝多芬、藝術家達·芬奇等歐洲知名人物以及翠鳥、白鸛等鳥類形象。紙幣背面則是歐洲央行等歐洲重要機構及圍繞自然或公共生活主題的藝術、科學等場景。（新華社）
-
----
-
-### 2026-07-24 14:44:28  #公司
-
-【艾羅能源成立智碳新能源公司】企查查APP顯示，近日，杭州艾羅智碳新能源有限公司成立，經營範圍包含碳減排、碳轉化、碳捕捉、碳封存技術研發；以自有資金從事投資活動；充電樁銷售；機動車充電銷售等。企查查股權穿透顯示，該公司由艾羅能源(688717)全資持股。
-
----
-
-### 2026-07-24 14:44:19  #Trading Economics #Markets #Commodity #Importance 1
-
-Wheat Futures Hit 3-Year High — Wheat futures climbed more than 1% to above $7 per bushel in late July, reaching their highest level since July 2023, as worsening geopolitical tensions and adverse weather conditions fueled supply concerns. President Trump warned that the US would hold Iran accountable for any further Houthi attacks after Yemen's Houthis said they had targeted two Saudi oil tankers for allegedly breaching their maritime blockade. The attacks, the first since the Iran-backed group announced a naval blockade against Saudi Arabia, heightened fears of broader disruptions to global energy and shipping routes. Adding support to wheat prices, intense heat weakened crop prospects in France and Germany. Moreover, EU grain output is forecast to decline by more than 9% this year, marking the sharpest annual contraction in more than two decades. Elsewhere, extreme temperatures across North Dakota, a key US spring wheat-producing state, have increased stress on crops and raised concerns over yield losses.
-
----
-
-### 2026-07-24 14:43:46  #市場
-
-【顯盈科技午後拉昇 盤中一度漲逾13%】顯盈科技午後股價出現一波拉昇，盤中一度漲逾13%。
-
----
-
-### 2026-07-24 14:42:43  #公司
-
-【怡顆莓：網傳不實內容嚴重損害品牌聲譽及合法權益，公司已依法開展維權準備工作】7月24日，怡顆莓釋出宣告稱，近日，網路平臺上及部分媒體散播有關怡顆莓產品食品安全問題的虛假言論、誤導性資訊及不實內容已嚴重損害怡顆莓品牌聲譽及合法權益，給廣大種植戶及相關經營主體的正常經營造成不良影響，並擾亂正常市場秩序、破壞健康網路環境。對此，公司已正式委託北京市中倫（上海）律師事務所提供專項法律服務，並已啟動相關證據收集、固定及核查工作，依法開展維權準備工作。
-
----
-
-### 2026-07-24 14:42:15  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Fars news agency, citing Arab sources, reported two explosions in Erbil, Iraq.
 
 ---

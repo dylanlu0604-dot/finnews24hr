@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-27 00:30:18_
-_本檔包含 3373 則快訊，約 684761 字_
+_更新時間：2026-07-27 01:40:55_
+_本檔包含 3381 則快訊，約 683571 字_
+
+---
+
+### 2026-07-23 12:18:55  #公司
+
+【梁文鋒：AGI才是我們的劇本，C端B端只是副產品，卻實現了降維打擊】今日，一場DeepSeek投資者交流會內容流出，梁文鋒就公司戰略、AGI願景與商業化路徑發表核心觀點，引發行業熱議。 分享中，梁文鋒首先明確了公司的長期目標——我們的長期目標就是做AGI。但回到現實，去年大家都要做Chatbot、搶C端流量；今年大家又都要搶To B收入，生怕不在牌桌上。在梁文鋒看來，這些都不是重要的事情。 他指出，在DeepSeek內部，公司真正關心的是AGI的路線圖，以及下一步技術怎麼突破。 他坦言一個有趣的悖論：“最想得到的東西，反而得不到；那些不太在意的事情，反而很容易得到。”這正是DeepSeek的戰略優勢——“心裡想著AGI，做著AGI，再做C端、B端的時候，根本不用太多心思，花很少精力就能做好。站在技術高位來做相對低階別的技術，這就是降維打擊。”（新浪科技）
+
+---
+
+### 2026-07-23 12:17:58  #國際
+
+【巴西宣佈將拓展貿易伙伴應對美關稅衝擊】巴西總統盧拉22日宣佈，巴西將拓展貿易伙伴以應對美國關稅影響，並憑藉自身信譽和國際市場地位為本國經濟找到新出路。 盧拉表示，巴西政府將推出總額185億雷亞爾（約合37億美元）的信貸支援計劃，以減輕美國對巴西產品加徵關稅和中東局勢對巴西出口帶來的衝擊。 據介紹，此次信貸支援計劃主要扶持受美國加徵關稅影響的鋼鐵、鋁、汽車、木材、機械等行業，以及化肥、製藥等戰略性工業領域和受中東局勢影響的出口商。 同日，盧拉簽署法案，為一項此前設立的信貸支援計劃追加150億雷亞爾（約合30億美元）信貸額度。該計劃旨在應對去年美國首輪加徵關稅對巴西經濟造成的衝擊。 美國貿易代表辦公室15日釋出宣告，宣佈依據《1974年貿易法》第301條款，對部分巴西產品加徵25%的關稅。加徵關稅措施從7月22日開始生效，涉及數千種巴西產品。(新華社)
+
+---
+
+### 2026-07-23 12:17:54  #公司 #市場
+
+【聯訊儀器據悉考慮香港上市】知情人士稱，聯訊儀器考慮在香港上市。該公司自4月在上海科創板上市以來，股價已飆升約22倍。據媒體援引因涉及未公開資訊而不願具名的知情人士稱，這家總部位於蘇州的半導體測試儀器製造商已與潛在顧問討論赴港上市計劃。聯訊儀器此前在上海IPO融資約21億元人民幣，上市後股價一路上漲，市值接近290億美元。知情人士稱，相關討論仍處於初步階段，尚未作出最終決定。
+
+---
+
+### 2026-07-23 12:17:08  #觀點
+
+摩根大通將德州儀器目標價從280美元上調至340美元。
+
+---
+
+### 2026-07-23 12:16:21  #市場 #國際
+
+【電動化車型拉動歐洲汽車銷量增長  中國品牌持續搶佔市場】歐洲汽車製造商協會（ACEA）週四釋出的資料顯示，6 月歐洲汽車市場的增長持續由電動車型需求支撐，汽油車、柴油車銷量大幅下滑的態勢由此得到對沖。新車註冊量（行業銷量參考指標）整體走高，助力中國車企在歐盟、英國及歐洲自由貿易聯盟區域進一步擴大市場份額。乘用車註冊總量同比上漲 13.1%，達 1407332 輛。純電動、插電混動、油電混動車型註冊量分別大漲 51%、22.7%、17.1%，三類車型合計佔新車總註冊量八成以上。汽油車、柴油車註冊量分別同比下滑 12.2%、16.9%。
+
+---
+
+### 2026-07-23 12:15:32  #MKT News #Nasdaq100 #Impact mixed
+
+Jun Seki, Foxconn executive overseeing its electric-vehicle business, said advanced autonomous driving could arrive sooner than expected. "About four months ago I began to think L4 autonomy would come earlier than anticipated," he said. Seki expects autonomous driving to be widespread by around 2040, with L4 or higher penetration above 80%.
+
+---
+
+### 2026-07-23 12:15:03  #其他
+
+【慶祝《中俄睦鄰友好合作條約》簽署25週年大會舉行 】22日，慶祝《中俄睦鄰友好合作條約》簽署25週年大會在黑龍江省哈爾濱市舉行。來自中俄兩國相關部門、高校、文旅協會、婦女組織和媒體代表等約500人參會。與會嘉賓認為，中俄關系已成為當今動盪世界中的穩定基石，期待雙方築牢更高質量政治互信、賦能更高質量互利合作、推進更高質量民心相通、開展更高質量國際協作，推動中俄關系實現更高質量發展。與會嘉賓表示，站在新的歷史起點上，雙方應繼續攜手前行，繼續推動兩國關係向更深層次、更高水平發展，為賡續兩國世代友好、促進兩國發展振興、維護國際公平正義作出更大貢獻。（新華社）
+
+---
+
+### 2026-07-23 12:14:31  #其他
+
+【法國西南部山火持續蔓延 】連日來，法國西南部吉倫特省的山火持續蔓延，該省的聖埃萊娜、索莫、勒波日等多地都受到影響。法國氣象部門表示，近期法國西部和西南部出現更多山火的風險很高。
+
+---
+
+### 2026-07-23 12:14:17  #市場
+
+歐元兌美元上漲0.20%，報1.1435美元。
+
+---
+
+### 2026-07-23 12:11:15  #國際
+
+香港證監會稱與馬來西亞簽訂諒解備忘錄，以擴大基金互認安排下合資格產品範圍。
+
+---
+
+### 2026-07-23 12:09:57  #公司
+
+【位元組跳動在中衛成立新科技公司 註冊資本22億】天眼查App顯示，近日，中衛塞上鳴沙科技有限公司成立，法定代表人為田凱，註冊資本22億人民幣，經營範圍包括資訊科技諮詢服務、軟體開發、資訊系統整合服務、計算機軟硬體及輔助裝置零售等。股東資訊顯示，該公司由北京字跳網路技術有限公司全資持股。
+
+---
+
+### 2026-07-23 12:09:17  #其他
+
+聯訊儀器據悉考慮香港上市，此前在上海科創板上市後股價飆升約22倍。
+
+---
+
+### 2026-07-23 12:08:22  #市場
+
+臺灣證交所加權股價指數下跌1.1%至44,354.54點。
+
+---
+
+### 2026-07-23 12:08:08  #公司 #市場 #國際
+
+【中國車企歐洲單月銷量大幅增長】6月中國車企在歐洲市場單月銷量再度大幅攀升，進一步鞏固了自身強勁競爭者的地位，對當地急於提振銷量的本土車企形成有力衝擊。歐洲汽車製造商協會（簡稱ACEA）資料顯示，上月比亞迪旗下車型新車註冊量（銷量核心參考指標）在歐盟、英國、冰島、列支敦斯登、挪威、瑞士市場同比翻倍有餘，達38455輛。上汽集團新車註冊量同比增長47%，至38647輛；零跑汽車銷量暴漲超6倍，註冊量達12829輛。同期德國大眾銷量增長6.4%，註冊量345937輛；吉普母公司斯特蘭蒂斯銷量上漲5.3%，達191012輛。歐洲純電動乘用車市場上月整體銷量增長51%；混動車型註冊量上漲17%，插電混動車型增幅接近23%。歐洲汽車製造商協會資料顯示，歐洲整體乘用車單月註冊量同比上漲13%，歐盟區域漲幅近14%；其中德國銷量增長16%，法國、義大利均上漲約11%。
+
+---
+
+### 2026-07-23 12:07:36  #MKT News #USDJPY #Impact bearish #DXY #XAUUSD #Impact bullish
+
+A Reuters survey found 70% of economists expect the Bank of Japan to raise policy rates to at least 1.50% by Q2 2027; 51% said 1.50% would be the terminal rate.
+
+---
+
+### 2026-07-23 12:07:03  #其他
+
+加通貝祥將特斯拉目標價從450美元下調至410美元。
+
+---
+
+### 2026-07-23 12:06:39  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225
+
+REUTERS SURVEY: 58% of economists say rising Japanese government bond yields are "very" or "somewhat" concerning for Japan's debt financing costs over the next 2-3 years.
+
+---
+
+### 2026-07-23 12:06:21  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY
+
+REUTERS SURVEY: 79% of economists say the yen is too weak at roughly 160 per dollar relative to Japan's economic fundamentals.
+
+---
+
+### 2026-07-23 12:06:16  #公司 #國際
+
+據印度《經濟時報》報道，印度阿達尼集團(Adani Group)已請求該國航空監管機構修改一項規定，該規定要求印度航空公司必須擁有20架飛機才能獲准執飛海外航線，此舉旨在為其航空合資企業掃清道路。
+
+---
+
+### 2026-07-23 12:06:10  #MKT News #USDJPY #Impact bearish #DXY
+
+Reuters survey: 86% of economists expect the Bank of Japan to raise its policy rate to 1.25% by end-Q4; June survey showed 79% forecasting that outcome.
+
+---
+
+### 2026-07-23 12:05:34  #市場 #國際
+
+路透調查：79%的經濟學家認為，美元兌日元位於160關口附近時，日元相對日本經濟基本面而言過於疲軟。
+
+---
+
+### 2026-07-23 12:05:30  #市場 #國際
+
+路透社調查：58%的經濟學家認為，未來2-3年日本國債收益率上行對日本債務融資成本的影響“非常”或“在一定程度上”令人擔憂。
+
+---
+
+### 2026-07-23 12:05:25  #央行 #國際
+
+路透調查：86%的經濟學家認為日本央行將在第四季度末將基準利率上調至1.25%，6月調查中該比例為79%。
+
+---
+
+### 2026-07-23 12:04:30  #公司
+
+【大唐發電在福州成立清潔能源公司】企查查APP顯示，近日，大唐（福州）清潔能源有限公司成立，法定代表人為王輝，註冊資本為1億元，經營範圍包含發電業務、輸電業務、供（配）電業務；太陽能發電技術服務；電力行業高效節能技術研發等。企查查股權穿透顯示，該公司由大唐發電(601991)全資子公司福建大唐國際新能源有限公司、DATANG INTERNATIONAL（HONG KONG） LIMITED共同持股。
+
+---
+
+### 2026-07-23 12:03:15  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX
+
+EU27 new car registrations rose 13.6% YoY in June, up from a previous reading of 3.2%.
+
+---
+
+### 2026-07-23 12:02:57  #MKT News #Star Stocks #Meituan #Commodities #Industrial Metals #09696.HK #Impact bullish #02600.HK #Hang Seng Index
+
+【Hong Kong midday: HSI up 1.34%; non‑ferrous metals lead gains】At midday Hong Kong stocks were firmer: the Hang Seng Index was up 1.34% and the Hang Seng Tech Index rose 0.79%. Non‑ferrous metals led gains—Ganfeng Lithium +9%+, Tianqi Lithium (09696.HK) and Aluminum Corporation of China (Chalco, 02600.HK) each up over 7%. Power-equipment names outperformed: Dongfang Electric (01072.HK) +5%+, Harbin Electric (01133.HK) +4%, Goldwind (02208.HK) +3%. Brokerages including GF Securities (01776.HK), Guotai Haitong (02611.HK) and China Merchants Securities (06099.HK) rose >2%. Lithium-battery, domestic bank, property and logistics stocks were also strong; semiconductor names underperformed—Tianshu Zhixin (09903.HK) -8%+, Hua Hong Hongli (01347.HK) -6%+. Optical-communications, OLED and baby-products sectors lagged. Meituan (03690.HK) rebounded >5%; Zhipu (02513.HK) fell ~3%.
 
 ---
 
@@ -20342,113 +20498,5 @@ Indonesia Shares Hover at 5-Week High — Indonesia's IDX Composite rose 0.4% to
 ### 2026-07-22 10:36:03  #MKT News #Market Regions #Greater China
 
 【Hainan '15th Five' plan backs low‑altitude logistics, pilots cargo eVTOL and heavy‑load drone cross‑sea transport】Hainan provincial government issued its '15th Five' service‑industry development plan, directing support for low‑altitude logistics. The plan backs 'drone+life‑scene' delivery to serve Hainan specialty seafood, tropical fruit and time‑sensitive express shipments for export. It calls for pilots of cargo eVTOLs and heavy‑load drone cross‑sea transport using general airports, Macun Port and Jinma Logistics Park to accelerate logistics timeliness. Local governments are encouraged to develop drone food delivery, urgent parcel flash‑delivery and instant‑retail logistics in industrial parks, shopping districts and university towns.
-
----
-
-### 2026-07-22 10:35:35  #其他
-
-【海南省“十五五”服務業發展規劃：探索貨運電動垂直起降飛行器、大載荷無人機跨海運輸 全面提升物流時效】海南省人民政府辦公廳近日印發《海南省“十五五”服務業發展規劃》，其中提出，創新發展低空物流。支援開展“無人機+生活場景”配送，服務海南特色水產品、熱帶水果、時效快遞等貨物外運需求。依託通用機場、馬村港、金馬物流園，探索貨運電動垂直起降飛行器（eVTOL）、大載荷無人機跨海運輸，全面提升物流時效，服務特色產品外運。支援各市縣依託產業園、商圈、大學城，綜合開發無人機外賣配送、急件閃送、即時零售等物流場景。
-
----
-
-### 2026-07-22 10:35:21  #公司
-
-【耐克宣佈重構大中華區市場生態，第三方分銷商2027年起逐步停售】耐克正聚焦戰略採取行動，從數字渠道開始重塑市場生態。自 2027 年 1 月起，耐克將以天貓、京東和抖音的官方旗艦店以及Nike官方網站和App為核心，重新打造在中國的數字市場生態。作為這一調整的一部分，除部分授權合作伙伴外，目前由合作伙伴運營並銷售耐克產品的線上店鋪，將逐步停止銷售耐克產品。耐克集團副總裁、大中華區總經理申凱希表示，“這一調整的目的並不是減少購物入口，而是減少線上渠道碎片化，加強消費旅程的完整性。當消費體驗一致連貫，品牌也會變得更加強大。Nike和Jordan門店仍然是消費者體驗我們品牌的核心場域。我們的零售合作伙伴在將運動帶入社群方面發揮著關鍵作用，我們也將繼續致力於與他們共同成長。”對此調整，滔搏國際控股有限公司董事長、執行長兼執行董事於武表示：“滔搏公司作為耐克公司在中國大陸最大的經銷商，雙方本著互利雙贏的原則共同發展，已歷經27年。此次調整從短期看，將對公司業務產生明顯壓力。但我們堅信，從中長期來看，這一方向將有助於推動中國市場零售生態更加健康、有序和可持續發展，進一步提升消費者體驗和產品吸引力。未來，我們將繼續與耐克緊密合作，充分發揮我們線上下零售運營、本地消費者服務以及各級城市市場深耕方面的優勢，透過新概念運動門店和高質量實體零售場景，為中國消費者帶來更專業、更豐富的運動體驗。”（新浪科技）
-
----
-
-### 2026-07-22 10:35:01  #其他
-
-【康芝藥業與廣東醫科大學簽署戰略協議】近日，康芝藥業與廣東醫科大學簽署戰略合作意向協議，雙方擬在醫院製劑轉化、老年康養、營養醫學研究、兒童精準康養研究等領域開展合作。
-
----
-
-### 2026-07-22 10:34:32  #經濟數據 #中國
-
-【浙江上半年GDP同比增長5.7%】7月22日訊息，據浙江省統計局，根據地區生產總值統一核算結果，上半年全省地區生產總值47937億元，按不變價格計算，同比增長5.7%。分產業看，第一產業增加值1129億元，增長4.4%；第二產業增加值18130億元，增長6.2%；第三產業增加值28678億元，增長5.5%。
-
----
-
-### 2026-07-22 10:34:26  #國際
-
-【阿盟秘書長呼籲胡塞武裝停止升級衝突】阿拉伯國家聯盟（阿盟）秘書長納比勒·法赫米21日重申阿盟對沙烏地阿拉伯的堅定支援，呼籲胡塞武裝停止發表升級衝突的言論，避免採取任何可能加劇地區緊張局勢的行動。 法赫米當天在宣告中就胡塞武裝發言人近期宣告作出回應。法赫米強調，沙烏地阿拉伯的安全、領土完整是阿拉伯國家安全體系不可分割的部分，阿盟堅定支援沙特為維護自身安全和領土完整所採取的一切合法措施。 法赫米說，胡塞武裝近期對沙特毫無根據的指責和威脅，是“危險的升級”，不利於維護地區安全與穩定，只會進一步加劇地區緊張，破壞緩和局勢的外交努力。 法赫米強調，堅持對話、尊重地區和國際社會為全面政治解決葉門危機所作的努力，是實現葉門及地區安全穩定的唯一途徑。 胡塞武裝與伊朗關係密切，並與沙特支援的葉門政府長期對峙，目前主要控制首都薩那和紅海港口城市荷臺達等西北部地區。胡塞武裝發言人葉海亞·薩雷亞20日發表宣告說，立即對沙特實施海上禁運，這一決定基於“封鎖對封鎖”原則作出。沙特主導的多國聯軍隨後表示，已採取措施保護成員國船隻安全通行曼德海峽，並將堅決回應胡塞武裝的任何威脅。(新華社)
-
----
-
-### 2026-07-22 10:34:08  #公司
-
-【金梓才旗下四隻產品解除全部限購】金梓才旗下財通品質甄選混合、財通成長優選混合、財通價值動量混合、財通積體電路產業股票四隻產品於今日起恢復大額申購。此前，四隻產品於7月15日放鬆限購，單日申購限額從100元調整至10000元。公告稱，解除限購是為了滿足廣大投資者的投資需求。目前金梓才旗下財通景氣甄選一年持有期混合、財通匠心優選一年持有混合仍處於暫停申購狀態，財通多策略福鑫定開混合處於封閉運作期。
-
----
-
-### 2026-07-22 10:33:59  #MKT News #Market Themes #AI Revolution
-
-A St. Louis Fed paper finds U.S. AI adoption materially outpaces Europe, and the gap is driven less by age, education or industry mix than by firm management and organizational culture. The study shows firms with higher management quality — not greater technology availability — and those that actively encourage employee AI use and provide AI-tool support have significantly higher AI adoption rates.
-
----
-
-### 2026-07-22 10:33:54  #MKT News #Market Regions #Greater China
-
-【Zhejiang 1H GDP up 5.7% YoY】Zhejiang 1H GDP totaled RMB 4.794 tln at constant prices, up 5.7% YoY. By sector, primary industry value added was RMB 112.9 bln, up 4.4%; secondary was RMB 1.813 tln, up 6.2%; tertiary was RMB 2.868 tln, up 5.5%.
-
----
-
-### 2026-07-22 10:33:52  #國際
-
-【海南省“十五五”服務業發展規劃：探索建立國際資料交易中心 探索“綠電+智算”出海服務新模式】海南省人民政府辦公廳近日印發《海南省“十五五”服務業發展規劃》，其中提出，打造資料服務開放與應用高地。建設面向歐盟、東盟的數字加工貿易區，開展商業、文化、工業、地理資訊等資料跨境服務。培育資料合作聯合體，大力吸引國際資料服務企業入駐，為境內外客戶提供資料清洗、挖掘、託管、交易等專業服務。探索建立國際資料交易中心，建立分類分級的資料確權、評估、定價機制，探索“綠電+智算”出海服務新模式。加快海口國家資料標註基地試點建設，重點承接國內外AI大模型訓練所需的高質量資料集標註與處理服務。“十五五”時期，每年引育資料服務商和大模型標註服務企業1—2家，引進數字內容製作和出海服務龍頭企業1—2家。到2030年，軟體與資訊科技服務業規上企業數量超過140家。
-
----
-
-### 2026-07-22 10:33:48  #其他
-
-【浙江上半年GDP同比增長5.7%】據浙江省統計局，根據地區生產總值統一核算結果，上半年全省地區生產總值47937億元，按不變價格計算，同比增長5.7%。分產業看，第一產業增加值1129億元，增長4.4%；第二產業增加值18130億元，增長6.2%；第三產業增加值28678億元，增長5.5%。
-
----
-
-### 2026-07-22 10:33:44  #MKT News #Market Regions #Greater China
-
-【Hainan issues 15th Five-Year service plan to develop commercial space technology services】Hainan provincial government office issued its 15th Five-Year services development plan, directing development of commercial space technology services. The plan targets an international satellite data-trading platform, a Phase II smart launch-service system at a commercial launch site, a third-party intelligent testing center for low‑Earth-orbit satellites and upgrades to remote-sensing mapping application services. It seeks to shift the commercial space sector from hardware manufacturing toward higher‑value operational and service offerings and to elevate Hainan’s service capacity in international aerospace and telemetry, tracking and control support.
-
----
-
-### 2026-07-22 10:33:41  #其他
-
-【海關總署：將商籤更多貿易合作檔案 促進進口、出口更協調】7月22日，海關總署署長孫梅君在國新辦新聞釋出會上表示，下一步，將促進進口、出口更加協調，商籤更多貿易合作檔案，擴大先進技術裝置、關鍵零部件、能源資源、優質農產品的進口來源國，建立全球好物出口中國、分享中國大市場的機遇，也為中國消費者提供更多樣化的選擇。
-
----
-
-### 2026-07-22 10:33:24  #MKT News
-
-【Hainan 15th Five-Year service plan to build Wenchang International Space City tech platform, star‑rocket R&D centre and satellite manufacturing hub】The Hainan provincial government issued a 15th Five-Year service-industry plan prioritizing tech, marine, biotech and commercial space clusters. Yazhou Bay Science City will host 16 specialised service platforms (including gene sequencing, molecular testing and variety testing) to create one-stop R&D outsourcing, testing and tech-transfer services; Haikou will develop a Pharma Valley CRO/CMO platform covering the full new‑drug R&D chain. The plan targets industrialisation of underwater robots, deep‑sea sensors and offshore operation platforms and the creation of a national marine equipment manufacturing innovation centre. It directs construction of a Wenchang International Space City technology-innovation public platform, an International Star‑Rocket Collaborative R&D Center and an International Satellite Advanced Manufacturing Center, and supports application and commercialisation of green propellants, rocket launch-and-recovery technologies and integrated LEO communications satellite constellations to build an integrated launch+service+manufacturing+application commercial space industry ecosystem.
-
----
-
-### 2026-07-22 10:33:16  #市場 #焦點
-
-南向資金淨買入額達30億港元。
-
----
-
-### 2026-07-22 10:33:04  #其他
-
-【海南省“十五五”服務業發展規劃：建設文昌國際航天城科技創新公共平臺、國際星箭協同研發中心、國際衛星先進製造中心】海南省人民政府辦公廳近日印發《海南省“十五五”服務業發展規劃》，其中提出，以崖州灣科技城為核心，佈局基因測序、分子檢測、品種測試等16類專業服務平臺，打造“一站式”研發外包、檢驗檢測、成果轉化服務體系。推動水下機器人、深海感測器、海上作業平臺等技術的產業化程序，打造國家海洋裝備製造業創新中心。建設文昌國際航天城科技創新公共平臺、國際星箭協同研發中心、國際衛星先進製造中心，支援綠色推進劑、火箭發射與回收、低軌通訊衛星星座一體化等關鍵技術的應用轉化，完善“發射+服務+製造+應用”一體化商用航天產業體系。建設海口“藥谷”生物醫藥合同研發、合同生產服務平臺，構建覆蓋新藥研發全鏈條的科技服務體系。
-
----
-
-### 2026-07-22 10:32:31  #市場
-
-【端側AI概念震盪拉昇 瑞芯微漲停】端側AI概念盤中震盪拉昇，瑞芯微漲停，星宸科技、中科藍訊漲超10%，全志科技、廣和通、樂鑫科技、泰凌微、移遠通訊跟漲。
-
----
-
-### 2026-07-22 10:32:22  #其他
-
-【海南省“十五五”服務業發展規劃：發展商業航天技術服務】海南省人民政府辦公廳近日印發《海南省“十五五”服務業發展規劃》，其中提出，發展商業航天技術服務。依託國際衛星資料交易服務平臺、商業航天發射場智慧發射服務系統（二期）、低軌衛星第三方智慧化檢測服務中心、遙感測繪應用服務能力提升專案，推動商業航天從硬體製造向高附加值運營服務延伸，提升海南在國際航天與測控保障領域的服務能級。
-
----
-
-### 2026-07-22 10:32:10  #市場
-
-【港股黃金股走強 赤峰黃金漲超15%】截至發稿，赤峰黃金(06693.HK)漲15.20%，紫金黃金國際(02259.HK)漲14.33%，靈寶黃金(03330.HK)漲13.99%，潼關黃金(00340.HK)漲7.81%。
 
 ---

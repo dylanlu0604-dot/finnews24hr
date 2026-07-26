@@ -1,7 +1,291 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-27 00:30:18_
-_本檔包含 3465 則快訊，約 685081 字_
+_更新時間：2026-07-27 01:40:55_
+_本檔包含 3468 則快訊，約 684505 字_
+
+---
+
+### 2026-07-21 09:10:25  #公司 #市場
+
+【第一創業李懷軍：短期市場大機率延續震盪格局，但進一步大幅下跌空間有限】第一創業證券研究所宏觀分析師李懷軍7月21日表示，當前A股具備一定支撐條件。一是基本面具備韌性，經濟溫和復甦的總體態勢沒有改變，6月生產和零售資料呈現溫和復甦態勢。上市公司業績增長趨勢不變，不少高科技行業上市公司釋出半年報業績預增公告。二是估值已具備吸引力，部分板塊估值回到歷史較低分位，具備中長期投資價值。展望未來走勢，李懷軍表示，從短期看，以時間換空間，市場大機率延續震盪格局，但進一步大幅下跌的空間有限。從中期看結構分化，應聚焦產業主線，比如AI驅動的科技行情仍有產業根基支撐，全球五大雲廠商2026年一季度資本開支同比飆升91%；資源週期板塊受益於能源價格上漲，具備階段性投資機會；消費板塊有望在促消費政策推動下也有望逐步復甦。從長期看，A股趨勢向上，慢牛格局不變。中國經濟的長期增長潛力為A股提供堅實基礎。外資配置邏輯從“買增長”轉向“買安全”，中長期資金仍將持續流入。
+
+---
+
+### 2026-07-21 09:10:04  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Iran’s Islamic Revolutionary Guard Corps said it targeted a US-made Patriot air-defence system deployed in Riffa, Bahrain, in a missile and drone attack.
+
+---
+
+### 2026-07-21 09:10:00  #市場
+
+【國民技術N32A車規晶片已應用於主流新能源車企】據國民技術訊息，搭載國民技術N32A系列車規級MCU的博世汽車涉水雷達及倒車雷達，已成功應用於國內主流新能源車企的主力車型，並進入批次應用階段。
+
+---
+
+### 2026-07-21 09:09:56  #公司 #國際
+
+【韓國綜指漲幅擴大至2%】韓國綜指漲幅擴大至2%，現報6646.48點。個股方面，三星電子漲超4%，SK海力士漲超2%。
+
+---
+
+### 2026-07-21 09:09:36  #國際
+
+伊朗革命衛隊稱，他們在導彈和無人機襲擊中瞄準了位於巴林裡法的美國愛國者防空系統。
+
+---
+
+### 2026-07-21 09:09:11  #MKT News #Important
+
+South Korea's KOSPI index rose as much as 2% intraday.
+
+---
+
+### 2026-07-21 09:08:55  #市場
+
+【華泰柏瑞滬深300ETF最新規模1136億元 時隔22天再現千億ETF】Choice資料顯示，截至7月20日，華泰柏瑞滬深300ETF最新規模達1135.92億元。時隔22天，該產品規模重新站上千億規模關口，A股再度出現千億級ETF。此前，該ETF在6月29日規模回落至989.20億元，正式跌破千億關口，全市場千億ETF數量清零。7月以來，該ETF規模一度被華安黃金ETF、銀華日利A超越，失去全市場規模第一ETF頭銜。但在7月16日，該ETF規模達935.53億元，超越銀華日利A重新成為全市場規模最大ETF。
+
+---
+
+### 2026-07-21 09:08:55  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Islamic Revolutionary Guard Corps says it has designated U.S. radar and air-defense systems in Muharraq, Bahrain, as strike targets.
+
+---
+
+### 2026-07-21 09:08:29  #國際
+
+伊朗革命衛隊稱已瞄準巴林穆哈拉格的美軍雷達及防空系統。
+
+---
+
+### 2026-07-21 09:07:57  #公司
+
+【贛鋒鋰業等在廣東成立能源科技新公司】企查查APP顯示，近日，贛鋒算電（廣東）能源科技有限公司成立，經營範圍包含充電樁銷售；機動車充電銷售；新興能源技術研發；合同能源管理等。企查查股權穿透顯示，該公司由贛鋒鋰業等共同持股。
+
+---
+
+### 2026-07-21 09:07:41  #國際
+
+【美國總統特朗普與英國新任首相伯納姆通話 獲邀訪問曼徹斯特】美國總統唐納德·特朗普表示，他與英國新任首相安迪·伯納姆進行了一次“非常好的通話”，雙方將在“不久的將來”會面。這顯示在伯納姆前任基爾·斯塔默任內一度趨緊的美英關係，可能出現改善跡象。“首相面臨著艱鉅的任務，但他一定能夠勝任，當然，美國也會提供幫助！”特朗普在社交媒體上發文稱。特朗普表示：“我們討論了許多議題，包括我們與英國長期保持的卓越關係。我們將在不久的將來就雙方共同關心的話題舉行會晤。”他補充稱，雙方討論的內容包括北海石油、貿易以及霍爾木茲海峽排雷工作。此前，由於前首相基爾·斯塔默拒絕在特朗普對伊朗發動襲擊後提供初步軍事支援，近幾個月來美英關係一度承壓。伯納姆辦公室表示，首相在通話中向特朗普祝賀世界盃賽事成功舉行。該賽事於週日落幕，最終由西班牙擊敗阿根廷奪冠。作為就任英國領導人後最早進行的幾通電話之一，伯納姆還邀請特朗普訪問曼徹斯特。
+
+---
+
+### 2026-07-21 09:07:11  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+Brent crude fell about $0.50 intraday, slipping below $87/barrel and down 0.58% on the day.
+
+---
+
+### 2026-07-21 09:06:43  #MKT News #Commodities #Precious Metals
+
+Shanghai silver most-active contract rose 2.00% intraday to 13,960 yuan/kg.
+
+---
+
+### 2026-07-21 09:06:15  #市場
+
+MSCI亞太指數上漲1%至263.41點。
+
+---
+
+### 2026-07-21 09:05:50  #市場
+
+臺灣證交所加權股價指數上漲2.1%至43,324.19點。
+
+---
+
+### 2026-07-21 09:05:22  #國際
+
+伊朗革命衛隊稱，兩艘油輪在試圖透過霍爾木茲海峽南部航道時發生爆炸後起火。
+
+---
+
+### 2026-07-21 09:05:02  #市場 #焦點
+
+PTA連續主力合約日內跌3%，現報5688.00元。
+
+---
+
+### 2026-07-21 09:04:24  #市場 #焦點
+
+碳酸鋰連續主力合約日內跌5%，現報140400.00元。
+
+---
+
+### 2026-07-21 09:04:16  #國際
+
+日本貿易大臣赤澤亮正：已確保日本整體石油供應充足。
+
+---
+
+### 2026-07-21 09:04:07  #國際
+
+日本貿易大臣赤澤亮正：中東局勢惡化令人擔憂。
+
+---
+
+### 2026-07-21 09:03:23  #MKT News #Market Regions #Greater China
+
+Taiwan Weighted Index opened 581.4 points higher, up 1.37% at 43,031.1 on Tuesday, July 21.
+
+---
+
+### 2026-07-21 09:03:16  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange Gold T+D rose 0.44% in early trade on July 21 to 876.17 yuan/gram; Silver T+D rose 0.73% to 13,823 yuan/kg.
+
+---
+
+### 2026-07-21 09:02:35  #國際
+
+日本貿易大臣赤澤亮正：沙特海軍封鎖存在諸多未知數。
+
+---
+
+### 2026-07-21 09:02:29  #市場 #國際
+
+5年期日本國債收益率上漲1.5個基點，至1.945%。
+
+---
+
+### 2026-07-21 09:02:19  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Wall Street Journal reports Israel believes Iran has moved nuclear centrifuges to the "Gaoshan" facility.
+
+---
+
+### 2026-07-21 09:02:09  #公司
+
+【中國三峽集團廣西分公司總經理吳啟仁接受審查調查】據中央紀委國家監委駐中國三峽集團紀檢監察組、湖南省紀委監委訊息：中國三峽集團廣西分公司總經理吳啟仁涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國三峽集團紀檢監察組紀律審查和湖南省長沙市監察委員會監察調查。
+
+---
+
+### 2026-07-21 09:01:33  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver is up 1.00% intraday at $57/oz.
+
+---
+
+### 2026-07-21 09:01:26  #市場
+
+現貨白銀日內漲1%，現報56.97美元/盎司。
+
+---
+
+### 2026-07-21 09:01:20  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Islamic Revolutionary Guard Corps said one hour ago two oil tankers attempting to transit a hazardous route south of the Strait of Hormuz, allegedly after US misdirection, suffered explosions and fires and were forced to stop; rescue teams are evacuating the vessels' crews.
+
+---
+
+### 2026-07-21 09:00:56  #公司 #國際
+
+【三星電子將成立機器人部門加速研發及商業化，打造增長引擎】韓國三星電子週二表示，將設立一個機器人部門RX(Robotics eXperience)，直接向執行長彙報，以加速該領域的研發和商業化，將機器人技術打造為增長引擎。三星電子表示，RX部門將負責中長期機器人戰略、核心技術開發和業務執行，同時擴大在國內和海外的研究能力。
+
+---
+
+### 2026-07-21 09:00:31  #市場 #焦點
+
+雞蛋連續主力合約日內跌2%，現報4170.00元。
+
+---
+
+### 2026-07-21 09:00:29  #MKT News #005930.KS #Impact bullish
+
+Samsung Electronics announced it will form a robotics business division.
+
+---
+
+### 2026-07-21 09:00:25  #MKT News #Important #Commodities #Industrial Metals #Precious Metals #Energy #Copper #Impact bullish
+
+At the morning open, China's main futures contracts were mixed. Decliners: coking coal, paraxylene (PX), PTA, low-sulfur fuel oil (LU) and coke fell over 2%; PET chips and eggs declined around 2%; short-fiber polyester fell over 1%. Risers: Shanghai silver, soybean meal, Europe-route container shipping, international copper, rapeseed meal and palladium rose over 1%; soybean No.2 and Shanghai copper gained about 1%.
+
+---
+
+### 2026-07-21 09:00:19  #市場 #焦點
+
+碳酸鋰連續主力合約日內跌4%，現報141900.00元。
+
+---
+
+### 2026-07-21 09:00:14  #其他
+
+臺灣證交所加權股價指數開高0.3%報42,566.93。
+
+---
+
+### 2026-07-21 09:00:13  #MKT News #CSI300 #Impact bullish #CNH #Hang Seng Index
+
+FTSE China A50 futures opened 0.05% higher.
+
+---
+
+### 2026-07-21 09:00:03  #市場
+
+富時中國A50指數期貨開盤上漲0.01%。
+
+---
+
+### 2026-07-21 09:00:03  #市場
+
+【商品期貨開盤】碳酸鋰連續跌2.85%，焦煤連續跌2.66%，焦炭連續跌2.25%，低硫燃料油連續跌2.20%，對二甲苯連續跌2.17%。
+
+---
+
+### 2026-07-21 08:58:34  #市場
+
+【飛天茅臺再度大漲 白酒大單品總價創13天新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月21日延續強勢反彈。如果主要單品各取一瓶整體打包售賣，今日總售價為9891元，較昨日大幅上漲42元，連續三天回升，較7月18日創下的階段低點累計上漲86元，創下13天以來最高。飛天茅臺全國零售均價大幅上漲29元/瓶，重新整理今年2月14日以來最高價，成為今日總價上行的核心驅動力。縱觀全場，贏家數量及漲幅均佔據明顯優勢，終端交投情緒環比明顯回暖，總價低位反彈勢頭進一步增強。
+
+今日11大白酒單品七漲三跌一平，贏家盡佔上風。上漲方面，飛天茅臺的漲幅居前，大幅上漲29元/瓶，連續五日快速上行，零售均價升至1787元/瓶，重新整理今年2月14日以來最高價；以i茅臺最新的官方定價1639元/瓶計，其全國終端零售均價相對官方定價的溢價擴大至148元/瓶。精品茅臺與青花郎均上漲7元/瓶，其中前者連續兩日回升，重新站上2400元大關；後者重返700元關口，並創下7月份以來最高價。習酒君品上漲4元/瓶，連續三日回升，創近半月最高價。五糧液普五八代與五糧液1618均上漲3元/瓶，其中前者連續四日自“酒價內參”去年11月有統計以來最低位處反彈，累計回升18元/瓶，進一步逼近800元關口；後者連續兩日自近一月最低位修復，但仍未收復820元關口。洋河夢之藍M6+上漲2元/瓶，連續兩日回升，進一步叩關590元。下跌方面，國窖1573與古井貢古20的跌幅居前，均下跌6元/瓶，其中前者平近一月最大單日跌幅，價格創近一月最低；後者連續兩日回落，創7月份以來最低。水晶劍南春小跌1元/瓶，結束此前連續四日持平穩態。青花汾20價格環比昨日保持不變，連續兩日維持在370元/瓶。
+
+---
+
+### 2026-07-21 08:58:14  #Trading Economics #Economy #Canada #Balance of Trade #Importance 1
+
+U.S. to Hit Canada with Broad 50% Tariffs — Canada faces the threat of steep new U.S. trade measures after the Trump administration on Monday announced plans to impose a 50% tariff on Canadian imports starting in 30 days, accusing Ottawa of discriminating against U.S. exports, including alcohol, automobiles, and dairy products. The White House said the tariffs would cover a broad range of goods, from hockey sticks to cement, and would also apply to products covered under the U.S.-Mexico-Canada Agreement (USMCA) that had been exempt from previous tariff actions. Only a limited number of products would be spared, including energy, critical minerals, potash, fish, and goods already subject to sector-specific Section 232 tariffs. The move marks a significant escalation in trade tensions between the two neighboring economies and could disrupt cross-border supply chains if implemented.
+
+---
+
+### 2026-07-21 08:58:06  #資料 #市場 #央行 #國際
+
+【中信期貨：4000關鍵關口震盪整理，黃金中期仍偏弱，短期方向待明】宏觀層面，6月CPI環比雖出現2020年以來首次下降，但美聯儲主席沃什明確表示通脹任務尚未完成，多位官員持類似鷹派立場。當前市場預期7月加息機率偏低，9月或10月加息 25個基點的預期持續升溫，年底前至少一次加息已基本定價。美伊停火破裂後油價再度上漲，疊加 AI 支出持續注入動力，通脹壓力仍存。2年期國債收益率自2月底累計漲約75個基點，市場已提前定價鷹派預期。資金層面，熱門資產輪動流出，黃金作為前期共識交易持續面臨資金撤離，歷史規律顯示收復前高通常需10個月以上，調整時間或仍不充分。地緣方面，美伊衝突進入第五個月，霍爾木茲海峽局勢持續緊張。情緒層面，前期多頭倉位大幅調整後，市場情緒趨於謹慎，對地緣波動反應明顯鈍化。實物層面，央行購金需求依然強勁，提供底部支撐、限制深度回撥空間。
+
+---
+
+### 2026-07-21 08:57:19  #國際
+
+美國總統特朗普將於週二美國東部時間上午11:15會見黎巴嫩總統。
+
+---
+
+### 2026-07-21 08:56:52  #其他
+
+據韓聯社：現代汽車推出全球車聯網服務。
+
+---
+
+### 2026-07-21 08:56:33  #MKT News #Commodities #Precious Metals #XAUUSD
+
+【Hong Kong, Laos sign MoU to boost gold market and financial services cooperation】Hong Kong's Financial Services and the Treasury Bureau Secretary Christopher Hui on the 20th in Vientiane signed a memorandum of understanding with Laos' deputy prime minister and finance minister to promote cooperation in the gold market and financial services, the Hong Kong SAR government said.
+
+---
+
+### 2026-07-21 08:54:08  #宏觀 #市場
+
+【香港與寮國財政部簽訂黃金市場和金融服務合作諒解備忘錄】香港政府：財經事務及庫務局局長許正宇7月20日展開其寮國永珍訪問行程，並與寮國財政部簽訂推動兩地黃金巿場和金融服務合作的諒解備忘錄。諒解備忘錄勾勒出清晰的合作範疇，當中包括為合資格的寮國黃金持有者提供便利對接香港認可黃金精煉網路的渠道，以推動實物黃金流動；同時鼓勵更廣泛採用符合國際標準的精煉金條在港進行交易和交割，並深化人才培訓，以及促進涵蓋代幣化方案在內的金融科技合作。同一儀式上，許正宇也見證了寮國黃金銀行與已在港設立其第三個區域總部的知名貴金屬交易商及精煉商MKS PAMP簽署有關黃金市場發展的諒解備忘錄。
+
+---
+
+### 2026-07-21 08:52:53  #公司
+
+【廈門鎢業等成立新公司 含智慧機器人業務】企查查APP顯示，近日，廈門眾鑭高科有限公司成立，註冊資本15億元，經營範圍包含智慧機器人銷售；工業機器人銷售；工業機器人制造；智慧機器人的研發；智慧基礎製造裝備製造等。企查查股權穿透顯示，該公司由廈門鎢業(600549)等共同持股。
+
+---
+
+### 2026-07-21 08:51:46  #國際
+
+【加拿大總理回應美加徵關稅：單邊貿易行動的最新舉措】當地時間7月20日，加拿大總理馬克·卡尼就美政府宣佈對多種加拿大商品加徵50%關稅一事發表宣告。卡尼表示，這是美國一系列單邊貿易行動中的最新舉措，違反了“美國—墨西哥—加拿大協定”（美墨加協定）。加拿大團結一致應對這些“對加拿大主權的威脅”，並正在採取行動保護其經濟和公民。卡尼說，過去18個月來，美國一直在改變其各類貿易關係，包括美墨加協定涵蓋的貿易關係，因此，加拿大提出了一系列詳細而全面的建議，以解決當前爭端並使美墨加協定現代化。他表示，“我們隨時準備在未來幾周內加強相關磋商。”（央視新聞）
 
 ---
 
@@ -20664,269 +20948,5 @@ Houthi armed group says it will issue a statement tomorrow announcing an importa
 ### 2026-07-20 01:42:07  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
 
 【Jerusalem Post: Trump inclined to further escalate military action against Iran】Jerusalem Post cites multiple Israeli and US officials saying on Sunday President Trump is inclined to further escalate US military action against Iran. One official said, "It appears Trump is prepared to expand military action against Iran; the remaining questions are the extent and timing. He believes the diplomatic option is now unlikely barring a surprise." Another official warned Trump has reversed decisions at the 11th hour in the past, so his stance could still change. Israeli Prime Minister Netanyahu signaled at a Likud committee meeting that the situation could escalate in the coming days.
-
----
-
-### 2026-07-20 01:39:30  #國際
-
-特朗普：已提議美國再承辦一屆世界盃。
-
----
-
-### 2026-07-20 01:38:44  #國際
-
-以色列方面研判：除非美國大幅升級針對德黑蘭的軍事施壓，否則伊朗不會發起直接打擊。
-
----
-
-### 2026-07-20 01:37:52  #MKT News
-
-NHC: A tropical depression is currently lingering offshore near Florida's west coast.
-
----
-
-### 2026-07-20 01:30:23  #MKT News #WTI #Impact bullish #XAUUSD
-
-【Jerusalem Post: Israel may join action against Iran under three conditions】The Jerusalem Post reports Israeli officials assess that, provided the US does not significantly escalate military action against Tehran, Iran will temporarily avoid striking Israel. Two officials told the paper Israel could intervene in strikes on Iran in three cases: if Iran attacks Israel; if Israeli intelligence detects Iran preparing to launch missiles or drones at Israel; or if US President Trump formally requests Israeli participation.
-
----
-
-### 2026-07-20 01:27:01  #國際
-
-【特朗普預測世界盃決賽】世界盃決賽，西班牙vs阿根廷，賽前美國總統特朗普接受了福克斯體育的採訪。 實際上，再回到這次的世界盃，我必須得問問，阿根廷對西班牙，給個預測吧？ 特朗普：我知道你會問這個，所以我非常認真地思考過了，我想了很久。我知道會有這個問題。雖然在政治上這沒那麼要緊，但我還是討厭做出選擇。阿根廷的領導人是我的朋友，他工作做得非常出色。 但我得說，很難去賭梅西會輸。我看了那個傳球，我想你會稱之為傳球，它極其完美。雖然要把那個速度飛過來的球用頭頂進去確實需要一些天賦，但那個傳球太完美了。如果有個好球區的話，它正好就在它該在的位置。 而且在那之前，我還看了他擺脫防守隊員的方式。他被防得很死，突然之間，他就一個人站在那兒，完美地把球踢了出去。很難賭他會輸，所以，我不會太激動，我只是覺得，很難賭梅西會輸，他太棒了。
-
----
-
-### 2026-07-20 01:25:56  #國際
-
-【伯納姆或將放開北海石油開採，特朗普對此表示歡迎】美國總統特朗普稱，有報道稱伯納姆或將支援北海新一輪油氣開採，蘇格蘭阿伯丁民眾會為此 “走上街頭歡慶”。目前有訊息稱伯納姆考慮批准北海羅斯班克油田、寒鴉油田新增化石燃料開採專案，但伯納姆本人並未證實該訊息。不過特朗普週日在自家社交平臺 “真實社交” 發帖，聲稱伯納姆已表態會放開開採。特朗普發文寫道：“蘇格蘭阿伯丁民眾都要上街狂歡了，因為新任首相安迪・伯納姆宣佈，將全面開發價值不可估量的北海石油！”這位長期公開力挺化石能源的美國總統表示，擴大北海開採能讓英國從 “深陷貧困的災難國家，蛻變為全球最富庶的國家之一”。他再度抨擊風電產業，稱英國應當遷走那些矗立在阿伯丁上空、觀感醜陋、破壞城市風貌的風力發電機。
-
----
-
-### 2026-07-20 01:23:51  #國際
-
-以色列官員：隨著伊朗襲擊行動不斷加劇，美國將向以色列增派空中加油機。
-
----
-
-### 2026-07-20 01:22:59  #MKT News #Important #WTI #Impact bullish #XAUUSD
-
-【Israeli media: Trump warns Gulf mediators failure to secure ceasefire this week could trigger significant escalation】Israeli Channel 13 reported President Trump told Gulf states involved in mediation that if a ceasefire is not secured this week, parties should prepare for a marked escalation. The warning followed Iran’s Sunday launch of four missiles toward Jordan and other parts of the Gulf and U.S. airstrikes inside Iran the same night. An Israeli senior military officer said that if missiles aimed at Jordan strike the southern Israeli city of Eilat, Israel would have to respond.
-
----
-
-### 2026-07-20 01:22:38  #MKT News
-
-【Rubio, Aoun discuss implementation of US-Lebanon-Israel framework】The US State Department said on the 19th that Secretary of State Rubio met visiting Lebanese President Aoun to discuss implementation of the US-Lebanon-Israel trilateral framework. They discussed disarming Hezbollah, destroying its "terrorist infrastructure" and steps to restore peace in Lebanon; Rubio reiterated US support for implementing the framework. Middle East media reported President Trump will meet Aoun at the White House on the 21st — Aoun's first formal meeting with a US president since taking office in Jan 2025 and the first visit by a Lebanese head of state to the White House since 2009.
-
----
-
-### 2026-07-20 01:21:19  #宏觀 #國際
-
-【魯比奧與黎巴嫩總統討論美黎以框架協議落實情況】美國國務院19日說，美國務卿魯比奧當天會見來訪的黎巴嫩總統奧恩，討論美黎以三方框架協議的落實情況。美國國務院發表宣告說，雙方討論瞭解除黎巴嫩真主黨武裝、摧毀其“恐怖主義基礎設施”、在黎實現和平等事宜，魯比奧在會談中重申美國支援落實三方框架協議。
-
----
-
-### 2026-07-20 01:15:58  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【IDF chief says forces ready to resume operations immediately】On the 19th local time, Israel Defense Forces Chief of Staff Zamir said the IDF is closely monitoring the situation with Iran and remains at high readiness, prepared to resume operations immediately. He said forces detected projectiles headed toward Jordan's southern Aqaba region and that air defenses remain on alert; he added the IDF will strike anyone who harms Israel "with firm determination."
-
----
-
-### 2026-07-20 01:15:44  #國際
-
-【以軍總參謀長稱已做好立即恢復作戰準備】當地時間19日，以色列國防軍總參謀長扎米爾表示，以軍正密切關注伊朗局勢，並保持高度戰備狀態，已做好立即恢復作戰的準備。扎米爾當天在約旦河西岸舉行局勢評估會議時表示，以軍當天監測到有發射物飛向約旦南部亞喀巴地區，以軍防空系統始終保持戒備。他強調，以軍已做好隨時恢復作戰的準備，並將以“堅定決心”打擊任何“傷害以色列的人”。
-
----
-
-### 2026-07-20 01:15:42  #MKT News
-
-【Iraq's prime minister to visit Iran, sign cooperation MOUs】Iraq's Prime Minister Ali Zaydi will visit Iran within the next week and sign multiple MOUs in Tehran covering several areas of cooperation, local media reported.
-
----
-
-### 2026-07-20 01:07:42  #國際
-
-【特朗普動向不明 以色列警惕與伊朗衝突擴大】以色列官員稱，受美國後續動向不明影響，以伊衝突升級風險上升，並就此發出警示。一名以色列高層訊息人士表示，特朗普下一步行動難以預判，美方存在擴大對伊朗打擊範圍的可能性；與此同時，其特使據稱正推進重啟談判的相關工作。以色列方面稱已針對各類局勢做好全面應對準備。
-
----
-
-### 2026-07-20 01:07:06  #國際
-
-以色列總理內塔尼亞胡辦公室痛批國際刑事法院逮捕令，稱該法院“不具備合法地位”。
-
----
-
-### 2026-07-20 01:06:16  #MKT News #Important
-
-Saudi outlet Alhadath, citing sources, reports a high-level Iranian delegation is due in Islamabad tomorrow for a two-day visit.
-
----
-
-### 2026-07-20 01:04:14  #國際
-
-卡達提出一項為期10天的停火方案：美國停止對伊朗實施打擊，伊朗則開放霍爾木茲海峽兩條航運通道；西方官員質疑美國不會接受該條款。
-
----
-
-### 2026-07-20 01:03:51  #其他
-
-伊拉克媒體：伊拉克總理將於本週末訪問德黑蘭。
-
----
-
-### 2026-07-20 01:03:46  #MKT News #Important
-
-Iraq's state news agency reported that the Iraqi prime minister will visit Tehran this weekend.
-
----
-
-### 2026-07-20 01:03:12  #MKT News
-
-Al Arabiya, citing sources, reports Iran's interior minister will meet Pakistan's leadership in Islamabad tomorrow.
-
----
-
-### 2026-07-20 00:57:55  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-TASNIM News reported Iran said a US-launched cruise missile was intercepted and destroyed by Iranian air defences in western Iran several hours earlier.
-
----
-
-### 2026-07-20 00:54:59  #MKT News #BA.N #Impact bullish #LMT.N
-
-【Boeing expands PAC-3 guidance-head capacity to help replenish US air-defence interceptors】Boeing (BA.N) increased PAC-3 interceptor guidance-head production about 30% last year to 650 units and plans a similar rise this year, targeting 850 sets, Boeing Defense CEO Steve Parker said. Last year’s output is roughly comparable to Lockheed Martin’s (LMT.N) planned PAC-3 missile production in 2026. A framework agreement signed this year is expected to boost related output to about 2,000 interceptors per year by 2030. Demand rose after Iran launched ballistic missiles at multiple regional targets, prompting US and allied forces to expend thousands of PAC-3 interceptors.
-
----
-
-### 2026-07-20 00:53:49  #其他
-
-阿曼與約旦兩國外長強調，必須加大外交斡旋力度，阻止局勢持續升級。
-
----
-
-### 2026-07-20 00:53:41  #國際
-
-阿曼與約旦外交部長警告，謹防地區局勢滑向更多衝突。
-
----
-
-### 2026-07-20 00:51:29  #國際
-
-伊朗原子能組織呼籲立即譴責美國的侵略行為。
-
----
-
-### 2026-07-20 00:50:57  #MKT News
-
-According to Al Jazeera, the foreign ministers of Oman and Jordan called for intensified political mediation to prevent escalation and warned the region could slide into further confrontation.
-
----
-
-### 2026-07-20 00:47:03  #MKT News
-
-Kuwait condemned Iran's attack on a power and seawater desalination facility and said Iran should bear full responsibility for attacks on civilian infrastructure, the Kuwait News Agency reported.
-
----
-
-### 2026-07-20 00:46:53  #國際
-
-科威特稱伊朗對襲擊民用基礎設施負有全部責任。
-
----
-
-### 2026-07-20 00:46:48  #國際
-
-科威特譴責伊朗對電力和海水淡化設施的襲擊。
-
----
-
-### 2026-07-20 00:45:07  #公司 #國際
-
-【波音加速生產關鍵攔截彈導引頭】為充實核心防空攔截彈儲備，美國加速補庫，波音公司去年PAC-3導彈導引頭產能提升30%，今年計劃再度實現同等幅度增產。波音防務部門執行長史蒂夫·帕克表示，公司去年生產了650套導引頭，該產量與洛克希德·馬丁2026年導彈計劃產能持平；波音今年的導引頭生產目標為850套。此前伊朗向區域多地發射彈道導彈，美國及其盟友在衝突中消耗了數千枚該型攔截彈。波音今年簽署多份框架協議，目標在2030年前將導引頭年產量暴漲至2000套。當地時間週日，帕克在範堡羅國際航展前瞻簡報會上稱：“這是國家交給我們的任務。我們準備充分，正與客戶緊密協作。”
-
----
-
-### 2026-07-20 00:43:14  #國際
-
-伊朗議會議防委員會主席：不應歪曲解讀官員的行事，不能把忠心為國者塑造成叛徒，也不能將叛徒美化成忠臣。
-
----
-
-### 2026-07-20 00:43:03  #國際
-
-伊朗議會議防委員會主席：伊朗已做好充分戰備，高層官員在國防安全議題上立場統一、不存在分歧；最高領袖穆傑塔巴的指示是最終定論。
-
----
-
-### 2026-07-20 00:42:31  #國際
-
-約旦召見伊朗使節，就襲擊事件發出警告，稱王國的安全與主權是“紅線”。
-
----
-
-### 2026-07-20 00:41:55  #公司 #國際
-
-三星美國總部遷往得州，新澤西739個崗位受此次搬遷調整波及。
-
----
-
-### 2026-07-20 00:41:46  #MKT News
-
-Saudi outlet Alhadath, citing Lebanese officials, reports President Aoun and US Secretary of State Rubio agreed on a full Israeli withdrawal from southern Lebanon.
-
----
-
-### 2026-07-20 00:40:07  #國際
-
-【伊朗導彈擊中約旦美軍基地瞬間】美聯社7月19日釋出一段影片畫面，據信內容為當地時間7月18日凌晨伊朗導彈擊中約旦一處美軍基地的瞬間。影片中，導彈擊中一處建築後火光四濺，有人用英語大喊“快撤”。據美軍中央司令部訊息，這次襲擊造成美軍2人死亡、1人失蹤，多人受傷，其中4人需住院治療。 伊朗伊斯蘭革命衛隊稱，為回應美軍襲擊，7月18日對位於約旦阿茲拉克的穆沃費格薩勒提空軍基地的戰機掩體和大型停機坪發動導彈和無人機打擊，“摧毀至少2架戰鬥機和3架其他飛行器，並嚴重損毀若干飛行器”。（CCTV國際時訊）
-
----
-
-### 2026-07-20 00:40:05  #MKT News
-
-【Jordan summons Iran's chargé in Amman over ongoing attacks】Jordan's foreign ministry said it summoned Iran's chargé d'affaires in Amman and delivered a formal protest note over Iran's continued attacks on Jordanian territory and provocative statements by Iranian official bodies. A ministry spokesman said Jordan asked the chargé to convey a clear message to Tehran to immediately halt the attacks and cease the unacceptable incendiary rhetoric.
-
----
-
-### 2026-07-20 00:37:45  #國際
-
-伊朗軍方：防空系統在西部擊落一架MQ-9型敵方無人機。
-
----
-
-### 2026-07-20 00:37:41  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iranian military said air-defence units shot down an enemy MQ-9 Reaper drone in western Iran.
-
----
-
-### 2026-07-20 00:37:24  #國際
-
-以色列參謀長：以色列防空系統已進入高度戒備狀態，已做好應對伊朗方面任何局勢變化的準備。
-
----
-
-### 2026-07-20 00:36:57  #焦點 #國際
-
-國際原子能機構迴避譴責美國打擊伊朗達爾霍溫核設施一事。
-
----
-
-### 2026-07-20 00:34:39  #國際
-
-【黎巴嫩遇難者人數升至4328人】黎巴嫩衛生部在最新統計中宣佈，自以色列發動打擊以來，黎巴嫩遇難者人數已達4328人。
-
----
-
-### 2026-07-20 00:32:26  #國際
-
-黎巴嫩總統府：總統奧恩在與魯比奧會晤期間，重申了在執行三方框架方面協調黎巴嫩和美國立場的必要性。
-
----
-
-### 2026-07-20 00:30:54  #MKT News
-
-Saudi outlet Alhadath reported President Aoun told US Secretary of State Rubio Washington should strengthen support for the Lebanese army and military institutions. Rubio said Lebanon must not be treated as a subsidiary issue of other negotiations and that Lebanon’s sovereignty can only be decided and upheld by its constitutional institutions.
 
 ---
