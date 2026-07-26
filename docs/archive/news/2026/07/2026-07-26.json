@@ -1,7 +1,31 @@
 {
   "date": "2026-07-26",
-  "count": 351,
+  "count": 354,
   "items": [
+    {
+      "id": "5008342",
+      "time": "2026-07-26 12:40:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港釋出3號強風訊號。"
+    },
+    {
+      "id": "mkt:019f9cb8-d112-7aab-8e98-b342ef3eded0",
+      "time": "2026-07-26 12:39:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait denied the Wall Street Journal report that Iran launched an attack, calling it 'entirely fabricated'."
+    },
+    {
+      "id": "5008341",
+      "time": "2026-07-26 12:39:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港珠澳大橋恢復通行、通關】總檯記者從港珠澳大橋管理局獲悉，颱風“紅霞”對大橋區域影響已減弱，經粵港澳三地協商一致，港珠澳大橋定於7月26日12時40分恢復通行、通關。（央視新聞）"
+    },
     {
       "id": "5008340",
       "time": "2026-07-26 12:28:21",
