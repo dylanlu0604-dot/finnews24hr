@@ -1,7 +1,39 @@
 {
   "date": "2026-07-26",
-  "count": 337,
+  "count": 341,
   "items": [
+    {
+      "id": "mkt:019f9c9f-52b8-7aab-8e98-a53490a1c3c2",
+      "time": "2026-07-26 12:11:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangdong raises provincial disaster emergency response from Level III to Level II】Guangdong provincial disaster reduction committee said it raised the provincial disaster emergency response from Level III to Level II at 10:00 on July 26, under the provincial natural disaster rescue emergency plan."
+    },
+    {
+      "id": "mkt:019f9c9e-7452-7aab-8e98-9c8312997188",
+      "time": "2026-07-26 12:10:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vietnam-flagged vessel sinks in South China Sea; Chinese rescuers save 44】The Sansha maritime rescue sub-center said a Vietnam-flagged vessel sank in the South China Sea. Of 62 crew aboard, Chinese rescuers have saved 44 and 18 remain missing as of 1100 on the 26th."
+    },
+    {
+      "id": "5008332",
+      "time": "2026-07-26 12:10:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東省減災委將省Ⅲ級救災應急響應提升至Ⅱ級】針對當前廣東省災情，根據《廣東省自然災害救助應急預案》規定，省減災委員會已於7月26日10時將省Ⅲ級救災應急響應提升至Ⅱ級。（央視新聞）"
+    },
+    {
+      "id": "5008331",
+      "time": "2026-07-26 12:10:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【越南籍船舶南海遇險沉沒 中方已救起44人】記者從三沙海上搜救分中心獲悉，一艘越南籍船舶在南海海域遇險沉沒，船上共有62名船員。截至26日11時，已救起44人，仍有18人失聯。（央視新聞）"
+    },
     {
       "id": "5008330",
       "time": "2026-07-26 12:09:52",

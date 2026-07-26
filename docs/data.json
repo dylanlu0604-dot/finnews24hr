@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-26 12:10:31",
-  "count": 18178,
+  "updated": "2026-07-26 12:14:26",
+  "count": 18181,
   "items": [
+    {
+      "id": "mkt:019f9c9f-52b8-7aab-8e98-a53490a1c3c2",
+      "time": "2026-07-26 12:11:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangdong raises provincial disaster emergency response from Level III to Level II】Guangdong provincial disaster reduction committee said it raised the provincial disaster emergency response from Level III to Level II at 10:00 on July 26, under the provincial natural disaster rescue emergency plan."
+    },
+    {
+      "id": "mkt:019f9c9e-7452-7aab-8e98-9c8312997188",
+      "time": "2026-07-26 12:10:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vietnam-flagged vessel sinks in South China Sea; Chinese rescuers save 44】The Sansha maritime rescue sub-center said a Vietnam-flagged vessel sank in the South China Sea. Of 62 crew aboard, Chinese rescuers have saved 44 and 18 remain missing as of 1100 on the 26th."
+    },
+    {
+      "id": "5008332",
+      "time": "2026-07-26 12:10:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東省減災委將省Ⅲ級救災應急響應提升至Ⅱ級】針對當前廣東省災情，根據《廣東省自然災害救助應急預案》規定，省減災委員會已於7月26日10時將省Ⅲ級救災應急響應提升至Ⅱ級。（央視新聞）"
+    },
+    {
+      "id": "5008331",
+      "time": "2026-07-26 12:10:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【越南籍船舶南海遇險沉沒 中方已救起44人】記者從三沙海上搜救分中心獲悉，一艘越南籍船舶在南海海域遇險沉沒，船上共有62名船員。截至26日11時，已救起44人，仍有18人失聯。（央視新聞）"
+    },
     {
       "id": "5008330",
       "time": "2026-07-26 12:09:52",
@@ -166498,14 +166530,6 @@
         "XAUUSD"
       ],
       "text": "【US strikes Iran's Qeshm Island again before declaring end of strikes】Iranian sources said US warplanes struck parts of southern Qeshm Island on July 19, with explosions heard at about 03:38 and again at 06:10 local time. Residents reported 3–5 missiles; Iranian authorities have reached the affected areas to assess damage. US Central Command said on July 18 it had completed another round of airstrikes at 23:30 ET (07:00 Iran time, July 19)."
-    },
-    {
-      "id": "4995841",
-      "time": "2026-07-19 12:12:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【藍思科技與上緯新材在WAIC正式簽約，達成首期規劃萬臺級機器人的產線合作】7月18日，2026世界人工智慧大會期間，藍思科技子公司藍思智慧機器人(長沙)有限公司與上緯新材正式簽約，達成首期規劃萬臺級機器人的產線合作。上緯新材聚焦消費級個人機器人規模化量產賽道，持續擴充產能佈局、最佳化精密智造流程，依託啟元T1、Q1兩大產品體系，穩步推進大批次、標準化的產業化交付建設。據悉，此次與上緯新材合作，雙方將圍繞機器人精密零部件加工、關節模組生產、整機組裝等智造環節開展深度協同，穩步推進機器人產能落地與量產交付工作。本次合作聚焦的啟元Q1與啟元T1，是上緯新材在具身智慧領域的核心產品。啟元Q1主打人形個人機器人，啟元T1融合四足穩定與輪式高效，適應室內外複雜地形。(證券時報)"
     }
   ]
 }
