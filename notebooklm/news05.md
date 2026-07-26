@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-26 07:04:52_
-_本檔包含 3439 則快訊，約 686053 字_
+_更新時間：2026-07-26 08:10:10_
+_本檔包含 3449 則快訊，約 686832 字_
+
+---
+
+### 2026-07-20 22:48:04  #國際
+
+伊朗法爾斯省副省長通報：設拉子市某地區遭到襲擊；未造成人員傷亡，目前評估小組已抵達現場。
+
+---
+
+### 2026-07-20 22:47:46  #MKT News #Macro & Rates
+
+【Goldman Sachs: Turkey may tolerate faster lira depreciation】Goldman Sachs economists expect Turkey may allow a faster depreciation of the Turkish lira to prioritize external balance stability over keeping inflation suppression as the top priority. Clemens Grafe and Basak Edizgil say the lira could depreciate at an annualized rate of more than 20% against the dollar, even if that slows disinflation. They add that faster currency weakness implies policy rates will need to remain higher than current market pricing to preserve financial stability amid ongoing de-dollarization. Turkey’s disinflation strategy partly relies on a real appreciation of the lira — i.e. nominal depreciation slower than inflation — to relieve price pressures. The lira has fallen about 9% versus the dollar year-to-date.
+
+---
+
+### 2026-07-20 22:46:30  #MKT News
+
+Canada's foreign minister Anita Anand said last year Canadian exports to Pakistan rose 65%, lifting bilateral goods trade to $1.2 billion. Anand said the momentum lays a solid foundation for expanded investment and broader market access for companies.
+
+---
+
+### 2026-07-20 22:46:04  #市場
+
+巴西中央銀行展期所有5萬份外匯掉期合約。
+
+---
+
+### 2026-07-20 22:44:34  #MKT News
+
+Goldman Sachs says Turkey may tolerate an accelerated depreciation of the Turkish lira.
+
+---
+
+### 2026-07-20 22:43:43  #MKT News
+
+Billionaire Mark Walter's company is under investigation by U.S. federal prosecutors.
+
+---
+
+### 2026-07-20 22:43:28  #MKT News
+
+U.S. Department of Transportation spokesperson: the U.S. is "deeply concerned" about any expansion of the EU Emissions Trading System.
+
+---
+
+### 2026-07-20 22:43:16  #公司
+
+市場訊息：億萬富翁馬克·沃爾特旗下多家公司遭聯邦檢察官調查。
+
+---
+
+### 2026-07-20 22:42:14  #MKT News
+
+People familiar with the matter said Iran's interior minister will meet Pakistan's chief of army staff in Islamabad tomorrow.
+
+---
+
+### 2026-07-20 22:42:00  #公司
+
+【泰晤士水務尋求再次上調水費，正值英國新任首相承諾推行改革】泰晤士水務正尋求再次上調英國家庭用水費用，以為英格蘭東南部的一座水庫專案提供資金。在已獲准將賬單上調約三分之一後，這家陷入困境公用事業公司再次向監管機構Ofwat提交了漲價申請。儘管遭到當地居民的批評，泰晤士水務表示仍需額外資金來建設一座耗資24億英鎊的水庫和一座水迴圈處理廠。
+
+---
+
+### 2026-07-20 22:40:20  #其他
+
+【浦東國際機場口岸年度出入境人員率先突破2000萬】上海邊檢紹，截至7月19日，浦東機場口岸今年出入境客流突破2000萬人次，出入境客流穩居全國空港口岸首位。當前外籍入境、暑期出境、國際展會客流疊加，邊檢站多措並舉最佳化通關服務，全方位保障中外旅客順暢出行。（上海釋出）
+
+---
+
+### 2026-07-20 22:39:44  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+【Russia accuses Ukraine of drone strikes on Caspian Pipeline Consortium loading tankers】On July 20 Russian foreign ministry spokesperson Zakharova said drone attacks between July 17 and 20 struck several tankers loading at the Caspian Pipeline Consortium offshore terminal, and blamed Ukraine. She called the incidents the fifth 'act of aggression' by the Kyiv authorities against the consortium's civilian facilities. Attacked vessels included a tanker serving Kazakhstan's oil industry; hulls were damaged but there were no oil spills or casualties. Zakharova said the strikes were intended to harm the economic interests of consortium participants, including Russia, Kazakhstan, the US and some Western European countries, and to further destabilize global oil markets. Kyiv has not responded.
+
+---
+
+### 2026-07-20 22:39:27  #國際
+
+【俄外交部譴責烏克蘭多次襲擊裡海管道聯盟終端作業油輪】當地時間20日，俄羅斯外交部發言人扎哈羅娃發表宣告，譴責針對裡海管道聯盟海上石油終端油輪的襲擊事件，並稱襲擊是烏克蘭方面所為。她稱，這是基輔政權對該聯盟民用設施發動的第五次“侵略行為”。扎哈羅娃稱，在7月17日至20日期間，數艘油輪在裡海管道聯盟海上終端進行裝載作業時遭無人機襲擊，遇襲船隻包括服務於哈薩克石油工業的油輪。船體受損，但未發生石油洩漏和人員傷亡。（央視新聞）
+
+---
+
+### 2026-07-20 22:38:49  #觀點
+
+AIG目標價被摩根大通從86.00美元/股上調至90.00美元/股。
+
+---
+
+### 2026-07-20 22:38:38  #其他
+
+道瓊斯指數跌幅擴大至0.30%，納斯達克綜合指數漲幅收窄至0.56%。
+
+---
+
+### 2026-07-20 22:38:29  #MKT News #Commodities #Energy
+
+Lionheart Capital is nearing a deal to acquire Venezuelan oilfields valued at about $400 million.
+
+---
+
+### 2026-07-20 22:37:41  #MKT News #Important #Market Regions #Europe & UK
+
+UK housing minister Reid announced his resignation.
+
+---
+
+### 2026-07-20 22:37:06  #公司
+
+【耐威克回應“13歲寵物犬吃完狗糧後吐血身亡”：產品符合國家標準】7月20日，耐威克透過其微信公眾號釋出宣告稱，關於近日網傳13歲寵物犬吃完狗糧後吐血身亡一事，已於7月16日釋出溝通宣告，現將事件最新進展公佈如下：本次事件發生後，公司積極配合上級各監管部門進行全面核查：生產記錄、產品留樣及第三方檢測報告均顯示完全符合國家標準。
+
+---
+
+### 2026-07-20 22:36:44  #公司
+
+【溫氏股份：當前公司疫病防控效果較好 畜禽大生產穩定】溫氏股份7月20日在互動平臺表示，公司從硬體和軟體等方面，建立了嚴格的常態化生物安全防控體系。當前公司疫病防控效果較好，畜禽大生產穩定，生產成績穩步提升。
+
+---
+
+### 2026-07-20 22:36:26  #其他
+
+【上半年，上海三大先導產業製造業產值同比增長14.5%】從上海市經信委獲悉，今年上半年，上海工業生產穩步增長，軟信業繼續保持較快增速，產業經濟穩中有進、向新向優。據上海市經信委披露，上半年本市三大先導產業製造業保持較高增速。三大先導產業製造業產值同比增長14.5%。其中，人工智慧製造業、積體電路製造業、生物醫藥製造業產值分別增長21.8%、19.5%和7.2%。（澎湃）
+
+---
+
+### 2026-07-20 22:35:23  #MKT News
+
+A White House official said President Trump spoke with new UK Prime Minister Burnham.
+
+---
+
+### 2026-07-20 22:35:07  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+【Iran warns Gulf states: cooperating with US against Iran 'unacceptable'】Iran Army spokesman Brigadier General Akbaraminia said the Strait of Hormuz remains firmly under Iranian armed forces' control and warned the US military and its regional partners would face 'serious difficulties' if they tried to use the waterway to strike Iran. He accused some southern Persian Gulf states—long users of the route for billions of dollars of oil exports and imports—of collaborating with the US against Iran and called that unjust and 'completely unacceptable.' Akbaraminia added Iran will sustain fighting until it achieves comprehensive deterrence, warning failure to do so could produce enemy miscalculation and potentially trigger an invasion of Iranian territory.
+
+---
+
+### 2026-07-20 22:34:56  #宏觀
+
+7月20日，國務院總理李強致電安迪·伯納姆，祝賀他就任英國首相。（新華社）
+
+---
+
+### 2026-07-20 22:34:40  #MKT News
+
+On July 20, CHINA'S LI phoned Andy Burnham to congratulate him on assuming office as UK prime minister.
+
+---
+
+### 2026-07-20 22:34:39  #公司 #國際
+
+美國國家颶風中心風暴公告：埃莉達已變性為溫帶後氣旋。
+
+---
+
+### 2026-07-20 22:34:19  #國際
+
+美國國家颶風中心（NHC）表示，福斯托（Fausto）氣旋強度持續增強，預計將很快增強為颶風。
+
+---
+
+### 2026-07-20 22:34:10  #其他
+
+市場訊息：貝萊德計劃為資料中心籌集超過120億美元的債務。
+
+---
+
+### 2026-07-20 22:33:28  #其他
+
+市場訊息： 加拿大阿斯彭製藥旗下阿斯彭司美格魯肽獲審批透過。
+
+---
+
+### 2026-07-20 22:33:02  #其他
+
+密歇根州衛生部門：截至7月20日，報告圓孢子蟲病病例總數達6,148例。
+
+---
+
+### 2026-07-20 22:32:18  #觀點
+
+摩根大通近期重新建立了做多英鎊兌歐元、瑞士法郎和瑞典克朗的頭寸。該行預計，歐元兌英鎊第三季度將在0.87一線，此前預期為0.88；預計該匯率第四季度將在0.88，此前預期為0.89；目前該貨幣對約為0.85。
+
+---
+
+### 2026-07-20 22:32:07  #央行 #市場 #觀點
+
+【摩根大通：英國“政策真空期”將給英鎊帶來走強機會】摩根大通外匯業務全球聯席主管Meera Chandan表示，在英國首相安迪·伯納姆公佈秋季預算案之前的“政策真空期”，英鎊將受到其相對較高收益率的支撐。預算案將使其財政政策更加明朗。在預算案公佈——通常是在11月份——之前，英鎊的交易將“取決於更為切實的因素，即經濟增長情況以及英國央行將如何應對”。“經濟增長帶來上行意外，其表現好於英國央行的預測，也好於市場一致預期”；英鎊作為G10貨幣中收益率最高幣種的地位，“使英鎊保持了相當強的韌性”。
 
 ---
 
@@ -20612,157 +20798,5 @@ Market sources report multiple explosions on Qeshm Island in Iran's Hormozgan pr
 ### 2026-07-19 08:10:14  #國際
 
 【安大略省省長：美方不應將山火煙霾問題歸咎於加拿大】隨著加拿大進入野火季，連日來，席捲該國安大略省西北部的森林野火導致多地空氣質量急劇惡化。加拿大煙霾還“跨境”影響到包括紐約在內的美國多個城市的空氣質量，引發健康警告。18日，加拿大安大略省省長道格·福特就美國總統特朗普指責加拿大山火煙霾影響美國做出回應，批評美方不應將山火煙霾問題歸咎於加拿大。（央視新聞）
-
----
-
-### 2026-07-19 08:09:06  #MKT News
-
-Saudi satellite TV reports a loud explosion at Abbas Port.
-
----
-
-### 2026-07-19 08:08:57  #其他
-
-【首屆世界人工智慧大會·學術正式亮相】昨天（18日），2026世界人工智慧大會暨人工智慧全球治理高階別會議在上海召開。依託世界人工智慧大會八年深厚積澱打造的首屆世界人工智慧大會·學術正式亮相。這是一個由中國發起、面向世界的開放學術公共平臺，為全球AI學者構建一個迴歸學術本質的創新舞臺。（央視新聞）
-
----
-
-### 2026-07-19 08:08:00  #國際
-
-美媒記者凱特琳・多恩博斯：今晚在美國對伊朗發起報復性打擊之際，我與特朗普總統進行了交談。他表示美軍士兵遇難，根源是美方不願讓伊朗擁有核武器。
-
----
-
-### 2026-07-19 08:06:01  #其他
-
-【中國（新疆）—中亞“中心藥房”助力中國醫藥企業“走出去”】為深度對接“一帶一路”醫療保障合作需求，依託新疆絲綢之路經濟帶核心區區位優勢，中國（新疆）—中亞“中心藥房”綜合服務平臺正式上線，面向全國各類醫藥企業敞開合作大門，助力國內藥械產品打通中亞及周邊國家海外市場通道。中國（新疆）—中亞“中心藥房”是面向中亞及周邊國家的一站式醫藥跨境綜合樞紐，也是國內首個面向中亞開展醫保經驗共享、醫藥跨境貿易的專業化平臺。“中心藥房”平臺（官網為https://silk-pharm.com）功能全覆蓋：藥品耗材醫療器械交易、創新藥價格登記、輔助藥械海外註冊、跨境訂單撮合、國際醫療服務展示等十餘項功能，線上一站式解決藥企出海全流程難題。（醫保局）
-
----
-
-### 2026-07-19 08:03:59  #其他
-
-【世界盃銅牌賽英格蘭6:4戰勝法國，斯塔默發聲】對於英格蘭隊於當地時間18日在美加墨世界盃銅牌賽中戰勝法國隊，斯塔默隨後在社交平臺上發帖稱，英格蘭隊取得了“非常棒的成績”，“讓我們感到驕傲”。（環球網）
-
----
-
-### 2026-07-19 08:03:19  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Multiple ballistic missile strikes hit Kyiv】At 01:25-01:48 local time on the 19th, three rounds of intense explosions were heard in Kyiv, Xinhua reported. The Ukrainian military said Russian forces launched multiple ballistic missiles at Kyiv from Bryansk and Kursk regions. The Ukrainian air force said missiles were approaching from the north, east and southeast and warned residents to take shelter. Kyiv Mayor Klitschko said multiple buildings in Desnianskyi, Shevchenkivskyi, Sviatoshynskyi and Solomianskyi districts were struck and ablaze; emergency services and medical teams were dispatched.
-
----
-
-### 2026-07-19 07:58:02  #其他
-
-【地瓜機器人與思特威達成戰略合作】7月18日，地瓜機器人宣佈與CMOS影象感測器供應商思特威正式達成戰略合作。雙方將基於地瓜機器人旭日S600的ISP模組深度適配思特威方形全域性快門（Global Shutter）CMOS影象感測器，聯合開發“感知+計算”一體化系統級解決方案。
-
----
-
-### 2026-07-19 07:53:25  #公司
-
-【IPO排隊券商“半年考”！首份成績單出爐，淨利大增超70%】正在IPO排隊的東莞證券率先報喜。近日，錦龍股份披露東莞證券上半年未經審計業績顯示，該公司今年以來業績繼續實現穩健增長，淨利潤8.2億元同比增長超七成。東莞證券的業績增長，也為其參股股東錦龍股份的扣非淨利潤扭虧提供了關鍵支撐。目前排隊IPO券商共有4家，分別為東莞證券、財信證券、華龍證券和渤海證券。
-
----
-
-### 2026-07-19 07:46:33  #國際
-
-【伊朗民眾強烈譴責美軍空襲 呼籲強硬反擊】美軍中央司令部18日在社交媒體發表宣告稱，美軍於美國東部時間18日18時開始對伊朗發動新一輪空襲。這是美軍連續第八晚發動空襲。另據伊朗方面當地時間19日凌晨訊息，伊朗南部錫裡克當地居民稱聽到爆炸聲。霍爾木茲甘省政府官員表示，當天1時30分，美軍一枚導彈擊中錫裡克附近一處地點。針對美軍連續多晚對伊朗境內基礎設施發動軍事打擊，當地時間18日，伊朗首都德黑蘭民眾在接受採訪時表示強烈譴責，並呼籲伊朗官方採取強硬回擊措施、反制外部施壓。（央視新聞）
-
----
-
-### 2026-07-19 07:41:15  #其他
-
-【阡視科技釋出超節點系統】7月18日訊息，在2026世界人工智慧大會暨人工智慧全球治理高階別會議上，AI基礎設施服務商阡視科技釋出自主研發的wylon超節點系統，稱系統打通異構存力資源的層級架構，支援百TB級GPU近存、系統記憶體以及PB級大頻寬快閃記憶體空間。
-
----
-
-### 2026-07-19 07:38:47  #國際
-
-【墨西哥總統將赴美觀看世界盃決賽】墨西哥總統辛鮑姆17日說，她將前往美國觀看19日舉行的美加墨世界盃決賽。加拿大總理卡尼也將到場觀賽。 墨西哥媒體報道，為能觀賽，辛鮑姆已調整國內行程，並計劃於20日從美國返回墨西哥。（新華社）
-
----
-
-### 2026-07-19 07:32:26  #其他
-
-【世界首臺（套）500兆瓦衝擊式水電機組球閥完成現場裝配並透過試驗】近日，世界首臺（套）500兆瓦衝擊式水電機組——大唐扎拉水電站1號機組進水球閥在專案現場順利透過水壓試驗，各工況下的密封效能均達設計要求。這標誌著該電站首臺巨型進水球閥現場裝配及試驗工作圓滿完成。大唐扎拉水電站共裝設2臺單機容量500兆瓦的衝擊式水電機組，東方電氣負責其中1臺套機組的研製供貨。該專案已入選國家能源局能源領域首臺（套）重大技術裝備專案，不僅是國內唯一可開展500兆瓦級高水頭大容量衝擊式機組研製及應用示範的水電專案，也是目前世界在建綜合難度最大的衝擊式水電專案。
-
----
-
-### 2026-07-19 07:30:57  #其他
-
-【上海電氣攜適配人形機器人全工況的自主研發核心零部件矩陣亮相WAIC 2026】在2026世界人工智慧大會（WAIC 2026）上，上海電氣攜適配人形機器人全工況的自主研發核心零部件矩陣亮相，構建覆蓋人形機器人從結構連線、傳動運轉再到運動執行的完整國產化配套體系，全力為具身智慧產業築牢硬核底座。
-
----
-
-### 2026-07-19 07:25:35  #國際
-
-【伊朗稱哈吉阿巴德遭美軍襲擊】據伊朗方面當地時間19日訊息，伊朗霍爾木茲甘省的哈吉阿巴德遭到美軍襲擊。（央視新聞）
-
----
-
-### 2026-07-19 07:25:21  #其他
-
-【階躍星辰與上海期智研究院共建“智慧體前沿研究院”】7月18日，階躍星辰與上海期智研究院宣佈合作，共同設立智慧體前沿研究院。雙方將圍繞智慧體網路及經濟原理、AI安全等方向，聯合探索Agent時代的基礎理論、核心技術、標準體系與產業正規化。揭牌儀式上，上海期智研究院院長姚期智與階躍星辰董事長、千里科技董事長印奇共同出席，並聯合提出“智慧體時代五大全球新命題”，從行動權利、責任秩序、安全正規化、經濟基礎和人機共生五個維度，回應智慧體大規模進入真實世界後的基礎性問題。此次合作旨在加強學術與產業協同，加速前沿成果走向實踐，構建開放、可信、可持續的智慧體產業生態。 (科創板日報）
-
----
-
-### 2026-07-19 07:24:52  #其他
-
-【四部門印發通知部署做好地質災害風險隱患巡排查工作】
-記者18日從應急管理部獲悉，國家防災減災救災委員會辦公室、自然資源部、水利部、應急管理部17日印發緊急通知，部署各地區、各有關部門和單位切實做好地質災害風險隱患巡查排查和災害防範應對等工作。
-
-通知指出，近日，甘肅宕昌縣、重慶彭水縣接連發生山體滑坡、崩塌造成重大人員傷亡，暴露出地質災害風險隱患常態化巡查排查覆蓋不全面、對災害前兆發現研判不及時等問題。
-
-通知強調，要做好重要隱患點巡查排查，排查穩定性差、近期活動跡象明顯、近兩年監測預警裝置出現過紅色預警、切坡建房擾動、降雨為主要影響因素的在冊地質災害點。排查複核災害點（含近5年已銷號點）基本特徵、威脅物件、危險區範圍、已安裝監測裝置執行情況和已採取的防治措施及有效性。要做好重點風險區巡查排查，對轄區內已確定的中等及以上等級風險區，特別是位於城鎮、村組等重點部位的風險區，要逐一排查，要對陡坡陡崖、切坡建房等開展重點複核，對出現變形跡象的要立即納入隱患臺賬，安排監測預警等防範措施。
-
-通知要求，針對前期降雨量大、地下水豐富、溼度變化大、旱澇急轉、人類工程活動強烈的地質災害風險區要加強防範手段，及時研判地質災害發生發展趨勢，及時透過多渠道、多形式釋出預警預報資訊。要落實好臨災預警“叫醒”“叫應”機制，果斷轉移受威脅群眾，對於老弱病殘孕幼等特殊群體落實幫扶措施，切實做到“應轉早轉”“應轉盡轉”，不落一戶一人。（新華社）
-
----
-
-### 2026-07-19 07:21:08  #國際
-
-市場訊息：據伊朗國家電視臺，伊朗對伊拉克北部庫爾德反對派武裝基地發動襲擊。
-
----
-
-### 2026-07-19 07:13:08  #國際
-
-【烏克蘭首都基輔響起密集爆炸聲】當地時間19日凌晨1時25分至1時48分，新華社記者在烏克蘭首都基輔市聽到三輪密集且強烈的爆炸聲。烏軍稱，俄軍從布良斯克州和庫爾斯克州向基輔發射了多枚彈道導彈。 截至記者發稿時，空襲仍在持續。（新華社）
-
----
-
-### 2026-07-19 07:09:53  #國際
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1.為構建公正合理的全球人工智慧治理體系指明方向——習近平主席出席2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式並發表主旨講話引發熱烈反響
-2、中國經濟堅韌向前，持續為世界注入發展信心
-3、王毅分別會見印尼、賴索托、多米尼克客人
-4、“2026世界市長對話·西雙版納”共話雨林與城市發展
-5、“一帶一路”國際合作高峰論壇諮詢委員會舉行2026年會議
-6、外交部發言人就英鋼國有化問題答記者問
-7、中國氣象局釋出“媽祖”風雲衛星AI工具箱
-8、捷克眾議長將訪華
-9、領航級工廠支援數百種光纖光纜產品並行高效生產 用人工智慧建廠 促人工智慧發展
-10、“促進全球人工智慧朝著向上向善、造福人類的方向發展”——習近平主席出席二〇二六世界人工智慧大會暨人工智慧全球治理高階別會議系列活動紀實
-11、C919首條國際航線將於8月12日開通
-12、全國已建成高質量資料集12萬個
-13、高技術製造業綻放澎湃動
-
----
-
-### 2026-07-19 07:06:16  #國際
-
-伊朗媒體稱美軍襲擊了哈吉阿巴德市附近區域。
-
----
-
-### 2026-07-19 07:05:33  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、“促進全球人工智慧朝著向上向善、造福人類的方向發展”——習近平主席出席二〇二六世界人工智慧大會暨人工智慧全球治理高階別會議系列活動紀實
-2、高技術製造業綻放澎湃動能
-3、廣西百色引導幹部群眾奮發有為——傳承紅色精神 推動老區振興
-4、三峽已有船閘，為什麼還要建新通道
-5、上半年全社會用電量同比增長5.3%
-6、上半年快遞業務量同比增長5.0%
 
 ---
