@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-26 08:51:58",
-  "count": 18164,
+  "updated": "2026-07-26 08:55:53",
+  "count": 18163,
   "items": [
+    {
+      "id": "mkt:019f9be9-1156-7aab-8e97-9b4f1ce331af",
+      "time": "2026-07-26 08:52:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "Copper",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【South Korea's Lee seeks resource and trade ties with South America; to restart Mercosur FTA talks】South Korean President Lee said Seoul will push to open free-trade agreement negotiations with Mercosur and deepen cooperation on critical minerals to build resilient cross-regional supply chains. He highlighted South America’s sizable agriculture, food, energy and key mineral resources alongside Korea’s strengths in high-end manufacturing, digital technology, shipbuilding and batteries, saying the two sides can combine advantages to secure supply chains, foster emerging industries and create quality jobs. Lee said Korea will leverage its technology, industrial experience and investment capacity in cooperation on mineral supply and related sectors, and will restart FTA talks with Mercosur."
+    },
     {
       "id": "5008226",
       "time": "2026-07-26 08:50:36",
@@ -166387,24 +166400,6 @@
         "市場"
       ],
       "text": "【飛天茅臺大漲 白酒大單品總價創五天新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月19日顯著反彈。如果主要單品各取一瓶整體打包售賣，今日總售價為9840元，較昨日大幅飆升35元，結束此前連續七天回落頹勢，並創下五天以來最高。飛天茅臺零售均價在i茅臺平臺上調售價後快速跟漲，單日上漲35元/瓶，漲幅與今日白酒大單品總價的增量相同，成為今日總價反彈的核心驅動力。縱觀全場，核心單品的漲跌分化依然顯著，終端交投情緒環比回暖，總價自階段低點明顯修復，但低位震盪格局尚未完全扭轉。今日11大白酒單品五漲五跌一平，漲跌家數均衡，但贏家漲幅大幅勝出。上漲方面，飛天茅臺漲幅居前，大幅上漲35元/瓶，創近一月最大單日漲幅，價格升至1753元/瓶並創近一月最高價紀錄；按照i茅臺最新官方定價1639元/瓶計，其全國終端零售均價相對官方定價的價差擴大至114元/瓶。古井貢古20上漲8元/瓶，重新站上530元關口；五糧液普五八代上漲6元/瓶，連續兩日自“酒價內參”去年11月有統計以來最低位處修復，但仍處於790元關口下方；國窖1573上漲4元/瓶，回補昨日全部跌幅；習酒君品漲2元/瓶，再度逼近630元關口。下跌方面，五糧液1618跌幅居前，下跌6元/瓶，平近一月最大單日跌幅，價格降至813元/瓶並創近一月最低價紀錄，近一月其價格中樞持續下移；青花汾20與洋河夢之藍M6+均下跌5元/瓶，其中前者回吐此前兩日全部漲幅，再度跌破370元關口，後者同樣盡失此前兩日全部戰果，再平近一月最低價紀錄；精品茅臺下跌3元/瓶；青花郎小跌1元/瓶。水晶劍南春價格環比昨日保持不變，連續三日維持在403元/瓶。"
-    },
-    {
-      "id": "4995754",
-      "time": "2026-07-19 08:53:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 據伊朗媒體報道，當地居民稱在伊朗南部布什爾聽到爆炸聲。"
-    },
-    {
-      "id": "mkt:019f77dd-40aa-7aab-8df3-e39c58c5b722",
-      "time": "2026-07-19 08:53:36",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent"
-      ],
-      "text": "【Tencent Cloud launches ADP 4.0 overseas edition】July 18 — At the 2026 World Artificial Intelligence Conference, Tencent Cloud launched the overseas edition of its agent development platform ADP 4.0 and concurrently upgraded three modules: Intelligent Workbench, Claw mode and Skill Marketplace."
     }
   ]
 }

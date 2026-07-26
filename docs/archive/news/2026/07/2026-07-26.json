@@ -1,7 +1,20 @@
 {
   "date": "2026-07-26",
-  "count": 205,
+  "count": 206,
   "items": [
+    {
+      "id": "mkt:019f9be9-1156-7aab-8e97-9b4f1ce331af",
+      "time": "2026-07-26 08:52:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "Copper",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【South Korea's Lee seeks resource and trade ties with South America; to restart Mercosur FTA talks】South Korean President Lee said Seoul will push to open free-trade agreement negotiations with Mercosur and deepen cooperation on critical minerals to build resilient cross-regional supply chains. He highlighted South America’s sizable agriculture, food, energy and key mineral resources alongside Korea’s strengths in high-end manufacturing, digital technology, shipbuilding and batteries, saying the two sides can combine advantages to secure supply chains, foster emerging industries and create quality jobs. Lee said Korea will leverage its technology, industrial experience and investment capacity in cooperation on mineral supply and related sectors, and will restart FTA talks with Mercosur."
+    },
     {
       "id": "5008226",
       "time": "2026-07-26 08:50:36",
