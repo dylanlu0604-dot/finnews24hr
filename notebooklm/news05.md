@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-27 01:40:55_
-_本檔包含 3468 則快訊，約 684505 字_
+_更新時間：2026-07-27 02:38:35_
+_本檔包含 3456 則快訊，約 684814 字_
+
+---
+
+### 2026-07-21 09:19:23  #公司 #市場
+
+【上海資產管理協會：堅定看好中國資本市場，當好維護資本市場穩定的壓艙石】7月21日，上海資產管理協會及其銀行理財、保險資管、信託公司、券商資管、公募基金、私募基金以及資管服務機構等會員單位發聲，堅定看好中國資本市場發展前景，全力服務國家戰略佈局。上海資產管理協會理事會監事會將持續組織會員單位堅定踐行資本市場“理性投資、價值投資、長期投資”理念，堅決當好中國資本市場的價值發現者、維護資本市場穩定的壓艙石和服務實體經濟的主力軍。上海資產管理協會發揮好資產管理行業協會、資產管理專業技術協會作用，組織會員單位建設“一流投資機構”，提升服務實體經濟、科技創新和居民財富管理能力，以上海資產管理業高質量發展促進中國資本市場高質量發展。(中證金牛座)
+
+---
+
+### 2026-07-21 09:16:39  #市場 #焦點
+
+現貨黃金突破4030美元/盎司，日內漲0.58%。
+
+---
+
+### 2026-07-21 09:16:29  #市場 #焦點
+
+WTI原油失守81美元/桶，日內跌0.58%。
+
+---
+
+### 2026-07-21 09:16:28  #公司
+
+【同飛股份集裝箱乾冷器成功交付 助力資料中心高效散熱】據同飛股份訊息，近日，同飛股份在資料中心室外冷源側成功交付集裝箱乾冷器產品。本次交付的集裝箱乾冷器產品，單臺換熱量可達2.3MW，能夠滿足高功率密度資料中心的散熱需求。
+
+---
+
+### 2026-07-21 09:16:02  #MKT News #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures opened the day session up 0.29% at 25,225, trading 82 points above the cash index.
+
+---
+
+### 2026-07-21 09:15:50  #市場
+
+【人民幣兌美元中間價報6.7917，較上日調高31點】人民幣兌美元中間價報6.7917，較上日調高31點。
+
+---
+
+### 2026-07-21 09:15:34  #Trading Economics #Markets #United States #Currency #Importance 2
+
+Dollar Holds Firm Amid US-Iran Conflict — The dollar index traded near 101 on Tuesday after rising for three straight sessions, as ongoing hostilities between the US and Iran drove oil prices higher, reviving concerns about inflation and interest rate hikes. US attacks on Iran continued for a tenth straight day, with President Donald Trump warning that Tehran would be held responsible for the deaths of three US service members. Iran-backed Houthi militants also announced a maritime embargo against Saudi Arabia, raising concerns over energy shipments through the Red Sea. Meanwhile, Iran said mediators had presented proposals to ease tensions with the US after several days of hostilities, while reports pointed to a possible 10-day ceasefire. Markets now price in about a 55% chance of a Fed rate hike in September, up from 51% a day earlier. Meanwhile, Fed officials have entered the blackout period ahead of next week's FOMC meeting, where policymakers are widely expected to keep the federal funds rate unchanged.
+
+---
+
+### 2026-07-21 09:15:22  #市場
+
+人民幣兌美元中間價報6.7917元。
+
+---
+
+### 2026-07-21 09:15:03  #市場
+
+恒指期貨日盤開盤漲0.33%，報25232.40點，高水89.35點。
+
+---
+
+### 2026-07-21 09:14:48  #國際
+
+【中國政府朝鮮半島事務特別代表劉曉明會見韓國青年友好使者代表團】2026年7月20日，中國政府朝鮮半島事務特別代表劉曉明會見韓國青年友好使者代表團。劉曉明表示，中韓友好交往歷史源遠流長，兩國是搬不走的近鄰，分不開的合作伙伴。希望韓國青年透過此訪，讀懂真實立體全面的中國，積極做中韓友好的傳播者，為兩國關係發展貢獻青春力量。代表團團長、韓國國際交流財團副理事長金鏞鬱感謝中方熱情接待，並表示相信此次訪華有助於韓國青年加深對中國經濟社會發展和歷史文化的瞭解，使其逐步成為促進韓中友好的生力軍。(外交部)
+
+---
+
+### 2026-07-21 09:12:33  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+U.S. State Department issued a "Worldwide Caution" to U.S. citizens amid escalating tensions in the Middle East.
+
+---
+
+### 2026-07-21 09:11:41  #宏觀 #國際
+
+美國國務院表示，因“中東局勢緊張加劇”，已對美國公民釋出“全球旅行警示”。
+
+---
+
+### 2026-07-21 09:10:59  #國際
+
+【特朗普稱內塔尼亞胡不會在美國被捕 】美國總統特朗普20日在社交媒體發文稱，以色列總理內塔尼亞胡在美國期間“絕不會以任何形式遭到逮捕”。特朗普稱，內塔尼亞胡“正在對抗伊朗”，“真正應該被逮捕的是那些將伊朗拖入這場前所未有的死亡與毀滅惡性迴圈的人”。有媒體報道說，特朗普雖未在帖文中提及，但他這番言論顯然是針對紐約市長馬姆達尼關於可能在今年聯合國大會期間逮捕內塔尼亞胡的說法。馬姆達尼在《紐約時報》18日播出的採訪中說，紐約市政府正在評估相關法律許可權，以確定如果內塔尼亞胡今年9月赴紐約出席聯合國大會，是否可以對其實施逮捕。他還表示，內塔尼亞胡是“被國際刑事法院指控的戰爭罪犯”。（新華社）
+
+---
+
+### 2026-07-21 09:10:44  #MKT News
+
+【Nationz Technologies N32A automotive MCU adopted in Bosch radars for mainstream Chinese NEVs, enters volume production】Nationz Technologies said its N32A series automotive-grade MCU has been integrated into Bosch wading and reversing radars fitted on mainstream domestic new-energy vehicle models and has entered volume application.
 
 ---
 
@@ -20790,163 +20874,5 @@ Syria has emerged as a regional hub for Iraqi fuel oil exports, with more than a
 ### 2026-07-20 02:40:26  #國際
 
 【美國向中東增派F-16、F-35戰機及加油機】美國官員透露，美國正向中東增派F-16、F-35戰鬥機以及空中加油機。這項部署指令早在伊朗近期襲擊約旦、造成兩名美軍士兵身亡之前就已下達，當前美伊之間緊張局勢仍在持續升級。一名以色列軍方官員表示，部分新增戰機或將部署至以色列空軍基地。
-
----
-
-### 2026-07-20 02:36:57  #國際
-
-卡達外交部：首相兼外交部長強調各方必須堅持外交途徑，並確保霍爾木茲海峽的航行自由。
-
----
-
-### 2026-07-20 02:35:22  #國際
-
-特朗普談梅西與C羅：我前不久剛見過梅西，也和克里斯蒂亞諾（C羅）相識，他倆日子過得相當愜意。我覺得他們的生活特別舒服，說實話，比我的輕鬆太多。真的，我都想跟他們互換身份，哪怕就換一個月左右也好。
-
----
-
-### 2026-07-20 02:32:48  #公司
-
-格里芬租賃公司：一架波音737 MAX 8飛機完成交付，以租賃形式交付越捷航空（越南低成本航空公司）。
-
----
-
-### 2026-07-20 02:28:25  #國際
-
-卡達外交部：首相兼外交部長已與約旦外交部長通話，約旦譴責伊朗對其國家的持續侵犯。
-
----
-
-### 2026-07-20 02:28:13  #國際
-
-卡達外交部：首相兼外交部長強調，各方必須堅持對話並落實諒解備忘錄。
-
----
-
-### 2026-07-20 02:28:07  #國際
-
-卡達外交部：首相兼外交部長重申卡達國對緩解緊張局勢、達成全面協議的努力予以支援。
-
----
-
-### 2026-07-20 02:27:41  #國際
-
-【科威特軍方稱伊朗襲擊造成“嚴重損毀”】科威特軍方表示，伊朗針對科威特電力、水利與可再生能源部下屬設施發動襲擊，引發火情，當地基礎設施及關鍵民生機構遭受“嚴重損毀”。科威特軍方稱，自週日凌晨起，其已成功攔截多枚彈道導彈與無人機。
-
----
-
-### 2026-07-20 02:20:38  #MKT News
-
-Fox News: White House confirmed President Trump will present the World Cup trophy to the winner of today’s Argentina v Spain final.
-
----
-
-### 2026-07-20 02:20:08  #國際
-
-白宮證實，特朗普總統將為今日阿根廷對陣西班牙的世界盃決賽冠軍頒發大力神杯。
-
----
-
-### 2026-07-20 02:16:42  #其他
-
-預測平臺Kalshi世界盃決賽市場賠率傾向：
-西班牙 58.4%，
-阿根廷 42%。
-
----
-
-### 2026-07-20 02:14:00  #國際
-
-【特朗普現身世界盃決賽現場，觀戰阿根廷對陣西班牙】當地時間週日下午，美國總統特朗普抵達世界盃決賽賽場。他將現場觀看本屆賽事最後一場較量，見證阿根廷與西班牙爭奪大力神杯。隨行記者團訊息顯示，特朗普在美國東部時間下午1點前抵達賽場，賽後不久記者便被引匯入場，參與賽前系列活動。週五，特朗普設宴招待國際足聯主席詹尼·因凡蒂諾，並召開新聞釋出會。他表示，會向因凡蒂諾提出美國再次承辦世界盃的訴求。而未來兩屆世界盃的主辦權已全部敲定。
-
----
-
-### 2026-07-20 02:12:25  #焦點 #國際
-
-特朗普抵達世界盃決賽現場，本場對決為阿根廷對陣西班牙。
-
----
-
-### 2026-07-20 02:12:01  #MKT News #Important #WTI #Impact bullish #Brent
-
-Reports of explosions heard in Kuwait.
-
----
-
-### 2026-07-20 02:11:25  #國際
-
-科威特軍隊：伊朗的襲擊波及電力與水務部的設施，造成火災並引發嚴重損失。
-
----
-
-### 2026-07-20 02:11:19  #其他
-
-威特軍隊：自今日凌晨起，我們在領空內摧毀了多枚彈道導彈和多架無人機。
-
----
-
-### 2026-07-20 02:10:38  #其他
-
-市場資訊：俄軍使用制導炸彈襲擊扎波羅熱地區，造成3人死亡、33人受傷。
-
----
-
-### 2026-07-20 02:09:44  #其他
-
-科威特境內再傳爆炸聲。
-
----
-
-### 2026-07-20 02:02:44  #國際
-
-美國地質調查局：墨西哥馬德羅港西南81公里處發生5.5級地震。
-
----
-
-### 2026-07-20 01:58:14  #國際
-
-【美國通知以色列將強化對伊打擊】以美兩國安全訊息人士稱，美國已通知以色列，計劃在未來數日加大對伊朗的打擊力度。訊息人士稱，美方預判伊朗可能發射導彈襲擊以色列、進一步升級衝突，以色列或將隨之展開反擊。儘管存在該風險，美國當下仍希望以色列不捲入衝突升級迴圈。
-
----
-
-### 2026-07-20 01:54:14  #MKT News
-
-Saudi outlet Alhadath reports Jordan’s Aqaba airport is operating normally and flights are continuing. The report follows a US embassy message on the 19th saying Jordan had evacuated Aqaba’s international airport and port area over a “specific and credible security threat”; Jordanian officials later denied the evacuation.
-
----
-
-### 2026-07-20 01:51:34  #宏觀 #國際
-
-鑑於剛果民主共和國當前正暴發埃博拉疫情，美國官方出臺新管控措施，美國公民將無法搭乘直飛航班從剛果（金）返回本國。
-
----
-
-### 2026-07-20 01:50:11  #MKT News #Important
-
-Houthi armed group says it will issue a statement tomorrow announcing an important position.
-
----
-
-### 2026-07-20 01:47:42  #國際
-
-訊息人士：一支伊朗高階代表團明日抵達伊斯蘭堡，開啟為期兩天的訪問。
-
----
-
-### 2026-07-20 01:47:33  #國際
-
-訊息人士：伊朗內政部長埃斯坎達爾・穆梅尼明日將在伊斯蘭堡會見巴基斯坦領導層。
-
----
-
-### 2026-07-20 01:43:27  #其他
-
-匈牙利總理支援國際象棋大師朱迪特·波爾加爾參選該國總統。
-
----
-
-### 2026-07-20 01:42:07  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-【Jerusalem Post: Trump inclined to further escalate military action against Iran】Jerusalem Post cites multiple Israeli and US officials saying on Sunday President Trump is inclined to further escalate US military action against Iran. One official said, "It appears Trump is prepared to expand military action against Iran; the remaining questions are the extent and timing. He believes the diplomatic option is now unlikely barring a surprise." Another official warned Trump has reversed decisions at the 11th hour in the past, so his stance could still change. Israeli Prime Minister Netanyahu signaled at a Likud committee meeting that the situation could escalate in the coming days.
 
 ---

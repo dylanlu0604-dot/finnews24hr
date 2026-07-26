@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-27 01:40:55_
-_本檔包含 3747 則快訊，約 684494 字_
+_更新時間：2026-07-27 02:38:35_
+_本檔包含 3743 則快訊，約 684786 字_
+
+---
+
+### 2026-07-22 10:39:35  #國際
+
+【國臺辦回應臺積電將加碼投資美國1000億美元】國臺辦舉行例行新聞釋出會。據報道，臺積電將在美國亞利桑那州加碼投資1000億美元，預估還將再建置4座晶圓廠以及先進封裝廠，再度引發島內輿論對於臺積電變“美積電”、臺灣半導體產業將被掏空的擔憂。請問對此有何評論？國臺辦發言人張晗表示，民進黨當局“倚美謀獨”、“跪美賣臺”，是損害臺灣經濟、導致臺灣優勢逐步喪失的罪魁禍首。他們為了政治私利，出賣產業界利益，掏空臺灣經濟根基，受害的不僅是產業的未來，更是廣大臺灣民眾的生計。（日月譚天）
+
+---
+
+### 2026-07-22 10:39:31  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
+
+Indonesia Shares Hover at 5-Week High — Indonesia's IDX Composite rose 0.4% to 6,365 in Wednesday morning trading, extending gains for a tenth session and lingering at its highest level in five weeks. A strong lead from Wall Street overnight lifted sentiment following solid earnings from major U.S. companies. Domestically, Indonesia's fiscal position remained solid, Finance Minister Purbaya Yudhi said, citing a stable credit outlook and a manageable budget deficit. However, the upside was limited ahead of Bank Indonesia's policy decision later in the day. The central bank is widely expected to raise its key interest rate by 25 bps to 6.0%, following a cumulative 100bps hike in May and June aimed at supporting the rupiah. Separately, public criticism mounted over government plans to involve military officers in collecting taxpayer data. Aneka Tambang climbed 2.3% after reports that BlackRock increased its stake in the miner. Other standouts were ESSA Industries (3.3%), Medco Energi (3.1%), and Merdeka Copper Gold (2.2%).
+
+---
+
+### 2026-07-22 10:39:30  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #DXY
+
+【Arab League chief urges Houthi rebels to halt escalation】On the 21st, Arab League secretary-general Nabil Fahmy reaffirmed the League's firm support for Saudi Arabia and urged Houthi forces to stop rhetoric that escalates the conflict and to refrain from actions that could increase regional tensions.
+
+---
+
+### 2026-07-22 10:39:02  #其他
+
+【國臺辦回應臺經濟部門阻撓張雪機車入臺】7月22日上午，國臺辦舉行例行新聞釋出會。記者：對於“張雪機車”希望在臺開店，臺經濟部門稱，依現行海關進口稅則規定，中國大陸制機車（整車）屬“大陸物品不準輸入”專案，依法不得輸入臺灣。請問對此有何評論？國臺辦發言人張晗：隨著“張雪機車”在全球專業賽事中不斷取得佳績，越來越多臺灣同胞表示希望騎上“張雪機車”，親身體驗大陸科技的進步。我們樂見臺灣同胞用上大陸好的產品，共享中國式現代化的發展成果。奉勸民進黨當局順應民意，儘早解除不合理的限制措施，多做有利於臺灣民眾的實事、好事。（日月譚天）
+
+---
+
+### 2026-07-22 10:37:52  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內跌1%，現報7090.00點。
+
+---
+
+### 2026-07-22 10:37:22  #其他
+
+中際旭創成交額達200億元，現跌3.38%。
+
+---
+
+### 2026-07-22 10:37:02  #宏觀
+
+【國臺辦：堅持一箇中國原則是大義所在、大勢所趨】國務院臺辦舉行例行新聞釋出會。有記者問：近日，巴布亞紐幾內亞政府宣佈關閉“駐巴新臺北經濟辦事處”。臺外事部門對此表示抗議。請問對此有何評論?發言人張晗表示，我們對巴布亞紐幾內亞政府有關做法表示高度讚賞。事實一再證明，一箇中國原則是國際關係基本準則和國際社會普遍共識，堅持一箇中國原則是大義所在、大勢所趨。得道多助，失道寡助。民進黨當局頑固堅持“臺獨”分裂立場，逆歷史潮流，只會在國際社會四處碰壁。
+
+---
+
+### 2026-07-22 10:36:09  #公司 #市場
+
+【CPO概念股震盪走強 銳捷網路、紫光股份等多股漲停】CPO概念股震盪走強，銳捷網路、紫光股份等多股漲停，深科達、中科藍訊、順絡電子等股跟漲。
+
+---
+
+### 2026-07-22 10:36:03  #公司
+
+【雷軍回應小米澎程首保時間】7月22日，小米創辦人，董事長兼CEO雷軍發文稱，小米澎程首保後，整車3年或增程器3萬公里才需保養一次。其評論區下有網友詢問首保時間，雷軍回覆表示“1年或者1萬公里”。
+
+---
+
+### 2026-07-22 10:36:03  #MKT News #Market Regions #Greater China
+
+【Hainan '15th Five' plan backs low‑altitude logistics, pilots cargo eVTOL and heavy‑load drone cross‑sea transport】Hainan provincial government issued its '15th Five' service‑industry development plan, directing support for low‑altitude logistics. The plan backs 'drone+life‑scene' delivery to serve Hainan specialty seafood, tropical fruit and time‑sensitive express shipments for export. It calls for pilots of cargo eVTOLs and heavy‑load drone cross‑sea transport using general airports, Macun Port and Jinma Logistics Park to accelerate logistics timeliness. Local governments are encouraged to develop drone food delivery, urgent parcel flash‑delivery and instant‑retail logistics in industrial parks, shopping districts and university towns.
 
 ---
 
@@ -22485,89 +22545,5 @@ U.S. military says latest round of strikes on Iran has concluded.
 ### 2026-07-21 09:19:49  #MKT News #Market Themes #Chip Wars #Nasdaq100 #Impact bullish
 
 Morgan Stanley says the recent pullback in US memory-chip stocks is a buying opportunity; memory-chip shortages are expected to worsen through the year after next. Consumer electronics, PC and smartphone markets are sending mixed signals that will affect spot pricing and inventory at different times, and recent weakness in share prices appears linked to those factors.
-
----
-
-### 2026-07-21 09:19:23  #公司 #市場
-
-【上海資產管理協會：堅定看好中國資本市場，當好維護資本市場穩定的壓艙石】7月21日，上海資產管理協會及其銀行理財、保險資管、信託公司、券商資管、公募基金、私募基金以及資管服務機構等會員單位發聲，堅定看好中國資本市場發展前景，全力服務國家戰略佈局。上海資產管理協會理事會監事會將持續組織會員單位堅定踐行資本市場“理性投資、價值投資、長期投資”理念，堅決當好中國資本市場的價值發現者、維護資本市場穩定的壓艙石和服務實體經濟的主力軍。上海資產管理協會發揮好資產管理行業協會、資產管理專業技術協會作用，組織會員單位建設“一流投資機構”，提升服務實體經濟、科技創新和居民財富管理能力，以上海資產管理業高質量發展促進中國資本市場高質量發展。(中證金牛座)
-
----
-
-### 2026-07-21 09:16:39  #市場 #焦點
-
-現貨黃金突破4030美元/盎司，日內漲0.58%。
-
----
-
-### 2026-07-21 09:16:29  #市場 #焦點
-
-WTI原油失守81美元/桶，日內跌0.58%。
-
----
-
-### 2026-07-21 09:16:28  #公司
-
-【同飛股份集裝箱乾冷器成功交付 助力資料中心高效散熱】據同飛股份訊息，近日，同飛股份在資料中心室外冷源側成功交付集裝箱乾冷器產品。本次交付的集裝箱乾冷器產品，單臺換熱量可達2.3MW，能夠滿足高功率密度資料中心的散熱需求。
-
----
-
-### 2026-07-21 09:16:02  #MKT News #Hang Seng Index #Impact bullish
-
-Hang Seng Index futures opened the day session up 0.29% at 25,225, trading 82 points above the cash index.
-
----
-
-### 2026-07-21 09:15:50  #市場
-
-【人民幣兌美元中間價報6.7917，較上日調高31點】人民幣兌美元中間價報6.7917，較上日調高31點。
-
----
-
-### 2026-07-21 09:15:34  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Holds Firm Amid US-Iran Conflict — The dollar index traded near 101 on Tuesday after rising for three straight sessions, as ongoing hostilities between the US and Iran drove oil prices higher, reviving concerns about inflation and interest rate hikes. US attacks on Iran continued for a tenth straight day, with President Donald Trump warning that Tehran would be held responsible for the deaths of three US service members. Iran-backed Houthi militants also announced a maritime embargo against Saudi Arabia, raising concerns over energy shipments through the Red Sea. Meanwhile, Iran said mediators had presented proposals to ease tensions with the US after several days of hostilities, while reports pointed to a possible 10-day ceasefire. Markets now price in about a 55% chance of a Fed rate hike in September, up from 51% a day earlier. Meanwhile, Fed officials have entered the blackout period ahead of next week's FOMC meeting, where policymakers are widely expected to keep the federal funds rate unchanged.
-
----
-
-### 2026-07-21 09:15:22  #市場
-
-人民幣兌美元中間價報6.7917元。
-
----
-
-### 2026-07-21 09:15:03  #市場
-
-恒指期貨日盤開盤漲0.33%，報25232.40點，高水89.35點。
-
----
-
-### 2026-07-21 09:14:48  #國際
-
-【中國政府朝鮮半島事務特別代表劉曉明會見韓國青年友好使者代表團】2026年7月20日，中國政府朝鮮半島事務特別代表劉曉明會見韓國青年友好使者代表團。劉曉明表示，中韓友好交往歷史源遠流長，兩國是搬不走的近鄰，分不開的合作伙伴。希望韓國青年透過此訪，讀懂真實立體全面的中國，積極做中韓友好的傳播者，為兩國關係發展貢獻青春力量。代表團團長、韓國國際交流財團副理事長金鏞鬱感謝中方熱情接待，並表示相信此次訪華有助於韓國青年加深對中國經濟社會發展和歷史文化的瞭解，使其逐步成為促進韓中友好的生力軍。(外交部)
-
----
-
-### 2026-07-21 09:12:33  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-U.S. State Department issued a "Worldwide Caution" to U.S. citizens amid escalating tensions in the Middle East.
-
----
-
-### 2026-07-21 09:11:41  #宏觀 #國際
-
-美國國務院表示，因“中東局勢緊張加劇”，已對美國公民釋出“全球旅行警示”。
-
----
-
-### 2026-07-21 09:10:59  #國際
-
-【特朗普稱內塔尼亞胡不會在美國被捕 】美國總統特朗普20日在社交媒體發文稱，以色列總理內塔尼亞胡在美國期間“絕不會以任何形式遭到逮捕”。特朗普稱，內塔尼亞胡“正在對抗伊朗”，“真正應該被逮捕的是那些將伊朗拖入這場前所未有的死亡與毀滅惡性迴圈的人”。有媒體報道說，特朗普雖未在帖文中提及，但他這番言論顯然是針對紐約市長馬姆達尼關於可能在今年聯合國大會期間逮捕內塔尼亞胡的說法。馬姆達尼在《紐約時報》18日播出的採訪中說，紐約市政府正在評估相關法律許可權，以確定如果內塔尼亞胡今年9月赴紐約出席聯合國大會，是否可以對其實施逮捕。他還表示，內塔尼亞胡是“被國際刑事法院指控的戰爭罪犯”。（新華社）
-
----
-
-### 2026-07-21 09:10:44  #MKT News
-
-【Nationz Technologies N32A automotive MCU adopted in Bosch radars for mainstream Chinese NEVs, enters volume production】Nationz Technologies said its N32A series automotive-grade MCU has been integrated into Bosch wading and reversing radars fitted on mainstream domestic new-energy vehicle models and has entered volume application.
 
 ---

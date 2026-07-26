@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-27 01:40:55_
-_本檔包含 3536 則快訊，約 684867 字_
+_更新時間：2026-07-27 02:38:35_
+_本檔包含 3536 則快訊，約 685880 字_
+
+---
+
+### 2026-07-27 02:35:06  #國際
+
+【伊朗與俄羅斯外長通話 討論伊商船遭襲及地區局勢】當地時間7月26日下午，伊朗外交部長阿拉格齊與俄羅斯外長拉夫羅夫通電話，就裡海一艘伊朗商船遇襲事件及地區局勢交換意見。根據伊朗外交部發布的訊息，阿拉格齊表示，烏克蘭襲擊伊朗商船是危險的冒險行為，也是對《聯合國憲章》基本原則的公然侵犯。他表示，伊朗將堅決維護自身安全和國家利益。拉夫羅夫譴責針對伊朗商船的襲擊，稱這一事件違反國際法，對伊朗和俄羅斯貿易航線構成威脅，並表示應追究烏克蘭方面發動襲擊、危及裡海商業航運的責任。雙方還就霍爾木茲海峽等地區最新局勢交換了意見。
+
+---
+
+### 2026-07-27 02:32:21  #MKT News #WTI #Impact bullish #Brent
+
+The Islamic Revolutionary Guard Corps' Khuzestan provincial commander said more than 288 targets inside U.S. bases in the area were destroyed.
+
+---
+
+### 2026-07-27 02:22:06  #MKT News #Market Regions #Europe & UK #DXY #Impact bullish #XAUUSD #Brent
+
+Romania summoned Russia's ambassador and said it had shot down three drones within three days.
+
+---
+
+### 2026-07-27 02:16:51  #國際
+
+以色列總理內塔尼亞胡指責紐約市長馬姆達尼煽動仇恨，起因是馬姆達尼稱其在加沙戰爭中犯下戰爭罪，應當遭到逮捕。
+
+---
+
+### 2026-07-27 02:15:21  #MKT News
+
+【Avila wildfire scorches about 50,000 hectares; central Spain fires total ~77,000 hectares, largest on record】On July 26 a wildfire in Avila province, central Spain, burned roughly 50,000 hectares, the largest wildfire recorded in Spain, the Interior Ministry said. Central-region blazes have destroyed about 77,000 hectares in total; a large fire in neighboring Toledo remains active and crews are working to prevent the two fires from joining.
+
+---
+
+### 2026-07-27 02:15:05  #其他
+
+美聯航與達美航空的初步磋商未能取得進展。美聯航去年曾主動接洽達美航空，商談合併事宜。
+
+---
+
+### 2026-07-27 02:13:57  #MKT News #UAL.O #DAL.O
+
+The Wall Street Journal reports sources say United Airlines approached Delta Air Lines last year about a potential merger; preliminary talks did not progress.
+
+---
+
+### 2026-07-27 02:13:31  #其他
+
+市場資訊：伊拉克總理將於下週四訪問沙烏地阿拉伯。
+
+---
+
+### 2026-07-27 02:11:28  #MKT News
+
+Iraqi prime minister to visit Saudi Arabia next Thursday, Al Arabiya reports.
+
+---
+
+### 2026-07-27 02:05:24  #MKT News
+
+Al Jazeera reports settlers stormed into the Samra area in the northern Jordan Valley.
+
+---
+
+### 2026-07-27 02:03:21  #MKT News #Macro & Rates #US Economy
+
+【Brazil's President Lula: U.S. tariff pressure on Brazil a strategic mistake】Writing in The Washington Post, President Lula criticized recent U.S. tariff pressure on Brazil. He said negotiations and a U.S. Supreme Court ruling annulled the initial tariff measures introduced in July last year, but in July this year the U.S. imposed new tariffs of 12.5%–37.5%. Lula called the new duties unfair and a strategic error, saying they harm the U.S. economy and the bilateral partnership and will, over the medium to long term, disrupt highly integrated supply chains as Brazilian firms replace U.S. suppliers with other partners.
+
+---
+
+### 2026-07-27 02:01:39  #國際
+
+【巴西總統盧拉：美持續在關稅上對巴施壓系戰略錯誤】當地時間7月26日，巴西總統盧拉在美媒《華盛頓郵報》上發文，批評美國近期對巴西接連施加關稅壓力的做法。盧拉在文中表示，巴美之間的談判以及美國最高法院的裁決，廢止了去年7月開始的第一版關稅政策。但今年7月，美國政府決定對巴西征收12.5%至37.5%的新關稅。新的關稅不僅不公平，而且是一個戰略錯誤：它們損害了美國經濟和與巴西的夥伴關係，還將在中長期導致目前兩國高度整合的生產鏈出現混亂，巴西企業將用其他合作伙伴取代美國供應商。
+
+---
+
+### 2026-07-27 01:59:50  #其他
+
+【過火面積達約5萬公頃 西班牙阿維拉山火規模創紀錄】西班牙中部山火持續蔓延。據西班牙埃菲社26日報道，阿維拉省山火過火面積約5萬公頃，為西班牙有記錄以來規模最大的山火。
+
+---
+
+### 2026-07-27 01:57:04  #MKT News
+
+Syria's foreign minister thanked UN Secretary-General Guterres for his visit and said they discussed UN support for reconstruction priorities, human rights and economic development to bolster Syria's efforts to build a more stable future.
+
+---
+
+### 2026-07-27 01:44:45  #MKT News
+
+German government spokesman said Chancellor Merz will nominate conservative Steffen Bilger as transport minister.
+
+---
+
+### 2026-07-27 01:44:03  #MKT News
+
+【Lebanon condemns Israel's ongoing military operations in southern Lebanon】The Lebanese army on July 26 condemned ongoing Israeli military operations in southern Lebanon, saying they obstruct full Lebanese troop deployments under a trilateral framework agreed last month with Israel and the United States. The army said the Israeli Defense Forces continue attacks it says breach international law, systematically destroying homes and bombing multiple southern areas, and that the strikes have prevented troop deployment and stopped residents from returning home.
+
+---
+
+### 2026-07-27 01:43:07  #其他
+
+德國政府發言人：默茨總理將提名保守派議會黨團幹事長斯特芬·比爾格出任交通部長。
+
+---
+
+### 2026-07-27 01:42:34  #MKT News
+
+Iran's president has approved implementation of the first amendment to the Islamic Consultative Assembly's internal regulations.
 
 ---
 
@@ -14,6 +122,12 @@ Pakistan's foreign minister and the IAEA director general, while reviewing the l
 ### 2026-07-27 01:35:01  #國際
 
 【伊朗最高領袖：支援黎真主黨並要求全面結束以對黎軍事行動】伊朗最高領袖穆傑塔巴·哈梅內伊當地時間7月26日晚對黎巴嫩真主黨領導人納伊姆·卡西姆及其武裝人員日前的來信作出回覆。回信稱，在當前地區局勢下，黎巴嫩真主黨是抵抗以色列及其支持者的主要力量，並已成為鼓舞世界各地反對霸權主義及其代理人的重要力量。回信表示，黎真主黨能夠持續堅持，不僅依靠其武裝人員，也離不開黎巴嫩民眾，特別是南部地區民眾的支援。穆傑塔巴重申，根據已故伊朗最高領袖哈梅內伊確立的路線，支援黎巴嫩真主黨已成為伊朗的一項戰略政策。他表示，伊朗將維護黎巴嫩領土完整、全面且無條件結束以色列對黎軍事行動，作為與美國達成結束衝突相關諒解備忘錄的首要條件。穆傑塔巴還表示，世界各國人民已經無法忍受美國和以色列的“壓迫與暴行”，並稱將繼續堅持抵抗路線。（央視新聞）
+
+---
+
+### 2026-07-27 01:34:39  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Khamenei reiterates Iran's strategic support for Hezbollah, demands full end to Israeli operations in Lebanon】Iran's supreme leader Khamenei replied to a letter from Hezbollah leader Naim Qassem and his fighters, reaffirming that support for Hezbollah is a strategic policy under the line established by the late supreme leader Khamenei. He said Iran will defend Lebanon's territorial integrity and that a comprehensive, unconditional end to Israeli military operations in Lebanon is the primary precondition for any US-linked memorandum to end the conflict. Khamenei added that people worldwide can no longer tolerate US and Israeli "oppression and violence" and vowed to continue the resistance line.
 
 ---
 
@@ -21281,119 +21395,5 @@ ASX 200 Ends Week Lower as Tech, Gold Miners Slide — Australia's ASX 200 dropp
 ### 2026-07-24 14:57:33  #Trading Economics #Markets #Commodity #Importance 1
 
 UK Natural Gas Hovers at 4-Month High — UK natural gas prices climbed back to above 150 pence per therm on Friday, hovering at a four-month high, amid concerns over Europe’s LNG supply security as US-Iran fighting intensifies. The US carried out its 13th consecutive night of strikes on Iran, with President Donald Trump warning Tehran and its Houthi allies in Yemen of “major military punishment” if the group launches further attacks on vessels in the Red Sea. UK gas prices have risen over 9% so far this week and surged more than 44% so far in July, as curtailed LNG flows from the Persian Gulf intensified competition with Asian buyers, while hot weather across Europe boosted electricity demand for cooling. These factors are making it more challenging for Europe to replenish its gas storage facilities ahead of winter. Equinor, Europe’s largest gas supplier, said the bloc is unlikely to reach its 80% storage target before the heating season, leaving the market more vulnerable to sharp price swings when colder weather arrives.
-
----
-
-### 2026-07-24 14:57:18  #MKT News #Market Regions #Japan & APAC #Commodities #Energy #USDJPY #Impact bullish #WTI
-
-【Economist: Upside risks to Japan inflation intensify】Okasan Securities economist Ko Nakayama said yen weakness and a rebound in crude oil have increased cost pressures and left upside risks to Japan's inflation outlook high. He said current price gains reflect multiple drivers — rising oil and napatha prices, higher wages, a weaker yen and rising raw-material and logistics costs. Government data on Friday showed a modest rebound in June consumer inflation; BOJ policymakers have said oil-driven effects are likely to feed into consumer prices around summer.
-
----
-
-### 2026-07-24 14:56:16  #MKT News
-
-Zelenskiy told Trump ally Laura Loomer he may visit Washington next week and would meet with Trump again.
-
----
-
-### 2026-07-24 14:56:15  #市場 #焦點
-
-布倫特原油失守93美元/桶，日內跌1.34%。
-
----
-
-### 2026-07-24 14:56:13  #公司
-
-【寧德時代入股屹艮科技】天眼查App顯示，近日，深圳屹艮科技有限公司發生工商變更，新增寧德時代（300750）為股東，同時，註冊資本由500萬人民幣增至約557.14萬人民幣。深圳屹艮科技有限公司成立於2020年12月，法定代表人為鄭家新，經營範圍包括軟體開發、計算機系統服務、新材料研發等，現由嘉興屹艮企業管理合夥企業（有限合夥）、鄭家新及上述新增股東等共同持股。公開資訊顯示，該公司是一家材料模擬模擬軟體開發商。
-
----
-
-### 2026-07-24 14:55:57  #國際
-
-市場訊息：印尼重申將積極開拓新市場。
-
----
-
-### 2026-07-24 14:55:37  #其他
-
-【伍斌任福建省副省長】7月24日，福建省十四屆人大常委會第二十三次會議閉幕。會議表決透過了有關人事事項。因工作需要，決定免去魏曉奎的福建省人民政府副省長職務，任命魏曉奎為福建省監察委員會副主任，決定其代理福建省監察委員會主任職務。決定任命伍斌為福建省人民政府副省長。
-
----
-
-### 2026-07-24 14:55:33  #國際
-
-市場訊息：印尼正等待美國對產能過剩問題的調查結果。
-
----
-
-### 2026-07-24 14:55:25  #國際
-
-印尼諮詢美國貿易代表辦公室，以獲得最具競爭力的關稅。
-
----
-
-### 2026-07-24 14:55:25  #MKT News
-
-A Temasek executive said the firm is targeting dual-use technologies and is actively expanding into the defense sector.
-
----
-
-### 2026-07-24 14:55:18  #國際
-
-市場訊息：印尼重申將重點簡化原材料進口規則。
-
----
-
-### 2026-07-24 14:55:05  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #EURUSD
-
-A Temasek executive said the Singapore sovereign investor is seeking more defence deals and has noted rising European military budgets.
-
----
-
-### 2026-07-24 14:54:59  #國際
-
-一名高階高管表示，淡馬錫計劃投資更多防務交易，同時注意到歐洲各國軍事預算正不斷增長。
-
----
-
-### 2026-07-24 14:54:51  #國際
-
-淡馬錫一位高管表示，過去兩年淡馬錫已在歐洲、中東和非洲地區投資130億歐元。
-
----
-
-### 2026-07-24 14:54:30  #其他
-
-市場訊息：西班牙將加強對住宅房地產投資信託基金的稅收。
-
----
-
-### 2026-07-24 14:54:19  #MKT News #Commodities #Energy #USDJPY #Impact bullish #DXY #US10Y #Impact bearish
-
-【Inflation concerns lift Japan 40-year JGB yield】Japan's 40-year government bond yield rose about 10bp intraday to 4.010%, and the 5-year JGB hit its highest level since its 2000 issuance. Moves tracked U.S. Treasuries as oil gains boosted Fed rate-hike expectations. Ataru Okumura, chief rates strategist at SMBC Nikko Securities, said markets are focused on the Bank of Japan's slow response to rising oil prices, prompting investors to demand a higher premium to hold long-dated bonds; with concerns about fiscal expansion ahead of the government's expected early-August finalization of a consumption tax-cut plan, yields could rise further.
-
----
-
-### 2026-07-24 14:53:31  #市場 #國際
-
-【日本消費者大舉購入珠寶，對沖日元貶值風險】通脹高企、日元持續走弱，日本民眾紛紛搶購奢侈珠寶，將其當作保值避險資產，帶動珠寶銷量大幅上漲。2026年上半年，日本各大百貨商場寶石、貴金屬及藝術品銷售額同比增長19%，達3300億日元，創下2008年有統計以來同期最高紀錄。日元貶值疊加核心物價上漲，民眾消費傾向發生轉變，更願意購置保值能力更強的珠寶資產。
-
----
-
-### 2026-07-24 14:52:34  #國際
-
-據行業訊息人士透露，印度政府已將德里中部地區的移動網際網路中斷措施延長至週五午夜。
-
----
-
-### 2026-07-24 14:52:03  #國際
-
-市場訊息：澤連斯基將於7月28日在美國會晤特朗普，還將在訪問期間出席美國參議員Lindsey Graham的葬禮。
-
----
-
-### 2026-07-24 14:50:26  #MKT News #Market Themes #AI Revolution #XPEV.O
-
-【XPeng humanoid robot enters small-batch pilot production】XPeng has started small-batch pilot production of its humanoid robot at its Guangzhou factory; the mass-production line is in final joint debugging and the mass-production sprint is in its final countdown. The company targets mass production in 2026 and plans phased deployments to XPeng stores and commercial venues from 2027 for roles such as sales and customer guidance. XPeng says the robot unit will consolidate group capabilities across hardware, large AI models, supply chain and marketing, and reuse its automotive soft/hardware co-development, intelligent manufacturing and global channel experience for the robotics business.
 
 ---
