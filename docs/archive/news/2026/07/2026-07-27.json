@@ -1,7 +1,18 @@
 {
   "date": "2026-07-27",
-  "count": 52,
+  "count": 53,
   "items": [
+    {
+      "id": "mkt:019f9fb3-14bb-7aab-8e9b-fc64585844b7",
+      "time": "2026-07-27 02:32:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The Islamic Revolutionary Guard Corps' Khuzestan provincial commander said more than 288 targets inside U.S. bases in the area were destroyed."
+    },
     {
       "id": "mkt:019f9fa9-b475-7aab-8e9b-f612ab883ca9",
       "time": "2026-07-27 02:22:06",

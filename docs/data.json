@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-27 02:30:50",
+  "updated": "2026-07-27 02:34:42",
   "count": 18018,
   "items": [
+    {
+      "id": "mkt:019f9fb3-14bb-7aab-8e9b-fc64585844b7",
+      "time": "2026-07-27 02:32:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The Islamic Revolutionary Guard Corps' Khuzestan provincial commander said more than 288 targets inside U.S. bases in the area were destroyed."
+    },
     {
       "id": "mkt:019f9fa9-b475-7aab-8e9b-f612ab883ca9",
       "time": "2026-07-27 02:22:06",
@@ -165064,14 +165075,6 @@
         "國際"
       ],
       "text": "特朗普談梅西與C羅：我前不久剛見過梅西，也和克里斯蒂亞諾（C羅）相識，他倆日子過得相當愜意。我覺得他們的生活特別舒服，說實話，比我的輕鬆太多。真的，我都想跟他們互換身份，哪怕就換一個月左右也好。"
-    },
-    {
-      "id": "4996257",
-      "time": "2026-07-20 02:32:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "格里芬租賃公司：一架波音737 MAX 8飛機完成交付，以租賃形式交付越捷航空（越南低成本航空公司）。"
     }
   ]
 }
