@@ -1,7 +1,15 @@
 {
   "date": "2026-07-27",
-  "count": 91,
+  "count": 92,
   "items": [
+    {
+      "id": "mkt:019fa033-2ee8-7aab-8e9c-6d7e2db85327",
+      "time": "2026-07-27 04:52:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Four U.S. service members reclassified; U.S.-Iran casualty data questioned】According to AP, four U.S. service members previously listed as killed in the U.S.-Iran conflict have been removed from the Pentagon’s official Iran casualty list and reclassified under a new \"overseas operations\" category. The Defense Casualty Analysis System (DCAS) last week deleted the four deaths and dozens of wounded from its Iran-war tally. On Sunday DCAS added an \"overseas operations\" listing naming the four dead and 207 wounded, but it is unclear whether the full wounded cohort is tied to the Iran conflict. The move, and the Pentagon’s suspension of public casualty briefings since early May and CENTCOM’s halt to updates, has prompted questions about the transparency of U.S. military casualty reporting; the Pentagon says DCAS is its transparency mechanism."
+    },
     {
       "id": "mkt:019fa02a-6950-7aab-8e9c-66ce1cc82420",
       "time": "2026-07-27 04:42:41",
