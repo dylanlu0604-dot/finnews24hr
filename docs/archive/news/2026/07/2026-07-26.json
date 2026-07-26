@@ -1,7 +1,27 @@
 {
   "date": "2026-07-26",
-  "count": 449,
+  "count": 451,
   "items": [
+    {
+      "id": "5008427",
+      "time": "2026-07-26 15:21:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列國防軍稱擊斃了兩名哈馬斯成員。"
+    },
+    {
+      "id": "mkt:019f9d4b-75c9-7aab-8e99-2df14c8e3155",
+      "time": "2026-07-26 15:19:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says US bases in Jordan, Kuwait and Bahrain are primary targets for retaliation】Brigadier General Akraminia told TASNIM NEWS Tehran will \"take action to defend its rights\" after the US, he said, violated commitments by attempting to open a false, illegal shipping lane in the Strait of Hormuz and breaching a June bilateral memorandum. He said Iranian forces will treat US bases in Jordan, Kuwait and Bahrain as core targets, describing them as among Washington's most important regional bases. The June understanding on Strait of Hormuz shipping has broken down; US strikes on Iran ran for 13 consecutive nights and Iran subsequently struck US bases in Bahrain, Kuwait and Jordan. US media reported Trump suspended further strikes on Friday, citing concerns about interceptor missile stocks and to leave room for diplomacy."
+    },
     {
       "id": "5008426",
       "time": "2026-07-26 15:16:28",

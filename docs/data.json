@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-26 15:20:01",
-  "count": 18193,
+  "updated": "2026-07-26 15:24:03",
+  "count": 18191,
   "items": [
+    {
+      "id": "5008427",
+      "time": "2026-07-26 15:21:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列國防軍稱擊斃了兩名哈馬斯成員。"
+    },
+    {
+      "id": "mkt:019f9d4b-75c9-7aab-8e99-2df14c8e3155",
+      "time": "2026-07-26 15:19:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says US bases in Jordan, Kuwait and Bahrain are primary targets for retaliation】Brigadier General Akraminia told TASNIM NEWS Tehran will \"take action to defend its rights\" after the US, he said, violated commitments by attempting to open a false, illegal shipping lane in the Strait of Hormuz and breaching a June bilateral memorandum. He said Iranian forces will treat US bases in Jordan, Kuwait and Bahrain as core targets, describing them as among Washington's most important regional bases. The June understanding on Strait of Hormuz shipping has broken down; US strikes on Iran ran for 13 consecutive nights and Iran subsequently struck US bases in Bahrain, Kuwait and Jordan. US media reported Trump suspended further strikes on Friday, citing concerns about interceptor missile stocks and to leave room for diplomacy."
+    },
     {
       "id": "5008426",
       "time": "2026-07-26 15:16:28",
@@ -166587,45 +166607,6 @@
         "其他"
       ],
       "text": "【專家：海南兩輪赤潮是分開的，藻類來源、暴發原因有待研究】從6月27日開始，海南啟動了兩輪赤潮災害應急響應。赤潮幾乎覆蓋了海南省的整個西部和南部海岸線，對多個縣市的海水養殖造成巨大損失。目前赤潮還有可能入侵海南陵水，對這個海洋水產苗種核心產區造成威脅。 “海南這次赤潮非常罕見。”海南省海洋災害應急處置專家組首席專家、暨南大學赤潮與海洋生物學研究中心主任呂頌輝向財新介紹，海南人口少，周圍海域水質好，也沒有大型工業企業，赤潮很少發生。在他的記錄裡，2026年6月底開始的這兩輪赤潮是海南規模最大、損失最嚴重的一次。他表示，據衛星遙感資料，在三亞市疑似赤潮的水色異常斑塊從近岸延伸到了20—30公里之外的海域。（財新）"
-    },
-    {
-      "id": "mkt:019f7941-e39a-7aab-8df5-bb8004e6c554",
-      "time": "2026-07-19 15:23:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Greater China",
-        "601318.SS",
-        "Impact bullish",
-        "2318.HK"
-      ],
-      "text": "【Ping An unveils AI products for healthcare, insurance and payments at WAIC 2026】Ping An unveiled new AI-driven products and commercial service systems for healthcare, insurance and payments at the World Artificial Intelligence Conference (WAIC) in Shanghai, held July 17–19, 2026."
-    },
-    {
-      "id": "4995916",
-      "time": "2026-07-19 15:22:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "裡海管道聯盟通報稱，集團工作人員及合作承包商無人員傷亡，未發生原油洩漏事故。"
-    },
-    {
-      "id": "4995915",
-      "time": "2026-07-19 15:21:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【煙霾跨境蔓延 美加齟齬再添一把火】加拿大安大略省省長道格·福特18日說，美國政府因加拿大野火影響美國空氣質量而批評加方“無能”並威脅施以關稅“懲罰”，他認為這種做法“完全不可接受”。福特暗諷美國沒有“友鄰情誼”，說若換作美國遭災，加方會“南下支援鄰居”。美國總統特朗普及部分共和黨國會議員17日責怪加拿大維護森林不善，致野火煙霾蔓延而汙染美國空氣質量，每年給美方造成鉅額損失。特朗普還威脅要對加方加徵關稅，以補償美方為此付出的代價。對於美方指責，福特表示，加方正在努力抗災，“假如雙方境地倒轉，美國正在經歷野火，我們會趕赴南邊，支援我們的鄰居。”他還提議，特朗普若是想要加方“清除森林”，就應該取消美方對加拿大所產軟木材的進口關稅，“那樣會解決我們當前面臨的許多問題”。（新華社）"
-    },
-    {
-      "id": "4995914",
-      "time": "2026-07-19 15:20:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：黑海地區裡海管道集團石油碼頭的兩艘油輪遭到無人機襲擊。"
     }
   ]
 }
