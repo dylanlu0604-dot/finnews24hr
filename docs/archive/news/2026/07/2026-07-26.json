@@ -1,7 +1,31 @@
 {
   "date": "2026-07-26",
-  "count": 524,
+  "count": 527,
   "items": [
+    {
+      "id": "5008488",
+      "time": "2026-07-26 17:29:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：船隻及船員均平安。"
+    },
+    {
+      "id": "mkt:019f9dc2-0315-7aab-8e99-af584e1a10a8",
+      "time": "2026-07-26 17:29:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. munitions consumption in Iran conflict】U.S. forces have expended roughly one-third of pre-conflict stocks of key precision-guided munitions, per ABC News and the Center for Strategic and International Studies. Interceptors were most affected: THAAD spent about 80% of a 360-round stock (≈190–290 rounds); SM-3 used more than half of a 410-round stock (≈130–250 rounds); Patriot interceptors saw ~61% consumption (≈1,060–1,430 of 2,330 rounds). Long-range strike inventories also drew down: more than 1,000 Tomahawk cruise missiles and over 1,100 JASSM long-range air-launched cruise missiles were fired. Precision Strike Missile (PrSM) stocks are nearly depleted—of 90 on hand, about 40–70 were launched. Sources: ABC News, CSIS."
+    },
+    {
+      "id": "5008487",
+      "time": "2026-07-26 17:29:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：油輪目擊不明拋射物激起水花。"
+    },
     {
       "id": "5008486",
       "time": "2026-07-26 17:27:53",
