@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-26 20:24:54",
-  "count": 18091,
+  "updated": "2026-07-26 20:29:13",
+  "count": 18090,
   "items": [
+    {
+      "id": "mkt:019f9e64-48df-7aab-8e9a-26420725459c",
+      "time": "2026-07-26 20:26:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's first airworthiness-compliant multi-role long-endurance UAV TP200 completes maiden flight】TP200, China's first multi-role long-endurance UAV developed to airworthiness requirements, completed its maiden flight in Yantai, Shandong. Built by Yitong UAV, the platform demonstrated stable attitude control and met design targets for climb and cruise speed during trials. Designed for long-endurance, high-altitude operations, TP200 achieves full-load endurance of more than 24 hours. Its modular, multi-payload, one-airframe multiple-configuration design enables rapid mission switching and targets higher equipment reuse, greater commonality and lower procurement and O&M costs, and will support the shift of large unmanned aircraft from specialised applications into scaled government and civilian markets."
+    },
+    {
+      "id": "5008561",
+      "time": "2026-07-26 20:25:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國在酷暑中煎熬，熱浪中心本週或向西轉移】“熱穹頂”效應正推高各區域電網的用電需求，導致美國中部超過1億人飽受酷暑折磨。美國中部地區釋出了極端高溫警告和高溫提示，受高溫和高溼度影響，體感溫度預計將高達112華氏度（約44.4攝氏度）。本週“熱穹頂”將繼續推高美國西部和中部的溫度，西南部和加利福尼亞州的酷暑天氣可能會持續到8月初。此外，在太平洋海域，預計颶風“福斯托”（Fausto）將減弱，並於週二和週三以熱帶風暴的強度從夏威夷群島北部掠過；與此同時，颶風“珍妮薇”（Genevieve）正在墨西哥下加利福尼亞州海岸附近增強。"
+    },
     {
       "id": "5008560",
       "time": "2026-07-26 20:23:24",
@@ -165714,30 +165732,6 @@
         "公司"
       ],
       "text": "【業內：首批主動ETF有望在10個交易日內迎來快速落地、有序推進】從監管層6月17日首次表態“支援推出主動ETF”，到如今18只產品的註冊申請材料齊刷刷掛上證監會官網，不到一個月時間。據業內訊息反饋，首批主動ETF有望在10個交易日內迎來快速落地、有序推進。據多方瞭解，各機構早已暗中介入研究籌備，如今18家管理人、18只產品落定，部分公司甚至祭出雙基金經理陣容，策略上刻意避開了激進賽道，轉而以“低換手、高分散”的穩健姿態起步。（第一財經）"
-    },
-    {
-      "id": "4996111",
-      "time": "2026-07-19 20:29:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長：“核領域存在一些無法解決的問題，或許即使在目前情況下，這些問題仍然無法解決。”"
-    },
-    {
-      "id": "4996110",
-      "time": "2026-07-19 20:28:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【特斯拉計劃提高德國工廠產量】特斯拉正在提高其位於德國格倫海德工廠的產量，並計劃拓展新市場，同時該公司也確認了今年德國市場需求將更加強勁的預期。“公司預測，2026財年的產量將比上一年大幅增長，並預計產能利用率也將相應提高。” 特斯拉制造勃蘭登堡分公司 在其年度報告中指出 報告 2025年。該公司表示，其Model Y運動型多用途車的需求正在推動位於德國東部勃蘭登堡州的工廠實現增長，該工廠目前為30多個市場供貨。"
-    },
-    {
-      "id": "4996109",
-      "time": "2026-07-19 20:25:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商湯大裝置與國信數算簽署全國一體化算力網試驗場戰略合作】7月19日，WAIC 2026期間，商湯大裝置與國信數算簽署全國一體化算力網試驗場戰略合作，與多家能源企業啟動“算電協同戰略合作”，並聯合眾多創新平臺發起“AI科創加速計劃”，合力推動AI基礎設施生態協同發展。"
     }
   ]
 }
