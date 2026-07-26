@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-27 02:15:18",
-  "count": 18021,
+  "updated": "2026-07-27 02:19:13",
+  "count": 18023,
   "items": [
+    {
+      "id": "5008684",
+      "time": "2026-07-27 02:16:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡指責紐約市長馬姆達尼煽動仇恨，起因是馬姆達尼稱其在加沙戰爭中犯下戰爭罪，應當遭到逮捕。"
+    },
+    {
+      "id": "mkt:019f9fa3-8725-7aab-8e9b-ef112d7844c8",
+      "time": "2026-07-27 02:15:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Avila wildfire scorches about 50,000 hectares; central Spain fires total ~77,000 hectares, largest on record】On July 26 a wildfire in Avila province, central Spain, burned roughly 50,000 hectares, the largest wildfire recorded in Spain, the Interior Ministry said. Central-region blazes have destroyed about 77,000 hectares in total; a large fire in neighboring Toledo remains active and crews are working to prevent the two fires from joining."
+    },
+    {
+      "id": "5008683",
+      "time": "2026-07-27 02:15:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "美聯航與達美航空的初步磋商未能取得進展。美聯航去年曾主動接洽達美航空，商談合併事宜。"
+    },
     {
       "id": "mkt:019f9fa2-3c8f-7aab-8e9b-e7766e881ac8",
       "time": "2026-07-27 02:13:57",
@@ -165082,14 +165106,6 @@
         "國際"
       ],
       "text": "白宮證實，特朗普總統將為今日阿根廷對陣西班牙的世界盃決賽冠軍頒發大力神杯。"
-    },
-    {
-      "id": "4996251",
-      "time": "2026-07-20 02:16:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "預測平臺Kalshi世界盃決賽市場賠率傾向：\n西班牙 58.4%，\n阿根廷 42%。"
     }
   ]
 }
