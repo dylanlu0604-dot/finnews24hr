@@ -1,7 +1,63 @@
 {
   "date": "2026-07-27",
-  "count": 2546,
+  "count": 2552,
   "items": [
+    {
+      "id": "5010606",
+      "time": "2026-07-27 22:40:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍還打擊了切爾諾莫爾斯克港與尼古拉耶夫港。"
+    },
+    {
+      "id": "mkt:019fa404-cbf4-7aab-8eb1-d2e0e6754f48",
+      "time": "2026-07-27 22:40:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq-100 fell more than 1% to its lowest level since May 4."
+    },
+    {
+      "id": "mkt:019fa404-20c7-7aab-8eb1-cb08d631cc1c",
+      "time": "2026-07-27 22:39:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Russian Defence Ministry said Russian forces struck facilities at Ukraine's port of Odesa."
+    },
+    {
+      "id": "5010605",
+      "time": "2026-07-27 22:38:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數下跌1%，觸及5月4日以來最低點。"
+    },
+    {
+      "id": "5010604",
+      "time": "2026-07-27 22:37:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哈工大學生團隊平均22歲“手搓”5釐米超薄衛星】7月22日10時54分，上海附近海域，乘搭引力一號遙四運載火箭，一顆特殊的衛星升空。11時41分，地面成功接收到衛星遙測資料。這顆衛星叫“紫丁香三號”，來自哈工大紫丁香學生微納衛星團隊——一支被譽為“中國最年輕的航天力量”的隊伍。"
+    },
+    {
+      "id": "5010603",
+      "time": "2026-07-27 22:36:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克指數與標普500指數回吐漲幅；納斯達克下跌0.5%，標普500下跌0.1%。"
+    },
     {
       "id": "5010602",
       "time": "2026-07-27 22:35:22",
