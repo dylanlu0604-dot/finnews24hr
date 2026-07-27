@@ -1,7 +1,69 @@
 {
   "date": "2026-07-28",
-  "count": 492,
+  "count": 498,
   "items": [
+    {
+      "id": "5010980",
+      "time": "2026-07-28 07:49:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4130美元/盎司，日內跌0.15%。"
+    },
+    {
+      "id": "mkt:019fa5fb-d87b-7aab-8eb8-3f79bace7bbe",
+      "time": "2026-07-28 07:49:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Guojin Securities: AI optical modules and NV‑CoWoP expected to drive rapid mSAP‑PCB capacity expansion】Guojin Securities says the mSAP process suits applications requiring tight line width/spacing (down to <15um); primary technical bottlenecks are base copper, plating and flash‑etch. mSAP was initially used in consumer electronics, but AI optical modules and NV‑CoWoP are expected to spur rapid mSAP‑PCB capacity expansion. The report flags upstream material demand to watch: direct‑write photolithography, plating lines, carrier copper foil, chemical solutions, low‑CTE electronic cloth, second‑generation low‑DK cloth and HVLP4 copper foil."
+    },
+    {
+      "id": "5010979",
+      "time": "2026-07-28 07:49:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國科技股隔夜下跌後，日經指數可能走低】在伊朗衝突存在不確定性的情況下，且隨著美國科技股隔夜下跌，日本股市可能走低。新加坡交易所的日經指數期貨下跌1.7%，報63930點。在沙烏地阿拉伯表示攔截了伊拉克境內受伊朗支援的民兵組織向該國石油設施發射的無人機後，投資者正關注原油價格和中東局勢的發展。日經指數週一上漲0.5%，至64931.19點。"
+    },
+    {
+      "id": "mkt:019fa5fb-70a8-7aab-8eb8-309fbcc2452b",
+      "time": "2026-07-28 07:49:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【CITIC Securities: Eight macro perspectives supporting A‑shares' long‑term win】CITIC Securities says A‑shares will win over the long term: the market’s upward trend is intact, aggregate market capitalization is solid and investment opportunities are broad; a handful of individual-stock bubbles exist but there is no systemic risk, and industry upgrading and earnings growth are substantial. By contrast, US equities carry high market‑wide bubble risk despite technology and monetary edges, with industrial hollowing and price froth posing systemic vulnerabilities. It lists eight comparative advantages for A‑shares: 1) total market‑cap level, providing a safety‑margin advantage; 2) lower leverage scale, supplying superior liquidity conditions; 3) different monetary/credit profile, yielding a sovereign‑credit advantage; 4) a domestic AI development model, offering AI outlook advantages; 5) faster industry renewal, enabling quicker adoption of new sectors; 6) higher‑quality industrial chains; 7) stronger industry earnings performance; 8) greater future revaluation potential."
+    },
+    {
+      "id": "5010978",
+      "time": "2026-07-28 07:48:20",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【國金證券：AI光模組+NV-CoWoP預計將帶動mSAP-PCB快速擴容】國金證券研報指出，mSAP工藝適用於線寬線距要求高的應用場景（線寬/線距可達15um以下），技術難點環節主要在基銅、電鍍、閃蝕等。mSAP最初應用場景主要為消費電子，AI光模組+NV-CoWoP預計將帶動mSAP-PCB快速擴容。mSAP-PCB對於上游材料的拉動方面，建議關注①直寫光刻，②電鍍線，③載體銅箔，④藥水，⑤low-CTE電子布，⑥low-dk二代布、HVLP4銅箔等方向。"
+    },
+    {
+      "id": "5010977",
+      "time": "2026-07-28 07:47:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【強生公司宣佈就滑石粉訴訟達成55億美元和解協議】強生公司週一表示，將支付55億美元以解決數萬起指控其嬰兒爽身粉及其他滑石粉產品導致卵巢癌的訴訟。這項具有里程碑意義的和解協議旨在為困擾該公司多年的爭議性訴訟畫上句號。強生公司表示，該和解協議涵蓋 在新澤西州聯邦法院合併審理的約6.9萬起案件，以及各州法院的相關案件，共計佔剩餘滑石粉索賠案件的99.75%。原告方的律師事務所週一證實了該協議，稱這是歷經十年法庭拉鋸戰後一個良好的解決方案。該協議仍需獲得負責監督聯邦訴訟的法官批准。強生公司訴訟事務副總裁埃裡克·哈斯（Erik Haas）表示，這些索賠“毫無依據”，公司願意和解以了結此事。"
+    },
     {
       "id": "5010976",
       "time": "2026-07-28 07:46:19",
