@@ -1,7 +1,57 @@
 {
   "date": "2026-07-27",
-  "count": 949,
+  "count": 954,
   "items": [
+    {
+      "id": "te:markets:569966",
+      "time": "2026-07-27 12:53:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Eases from Over-2-Month High — The South Korean won traded around 1,466 per dollar in late July, easing slightly from an over-two-month high as investors adopted a more cautious stance ahead of this week's Federal Reserve policy decision. The currency's pullback came as markets awaited further guidance on the US interest rate outlook, with uncertainty over the timing of future policy moves lending some strength to the dollar. Meanwhile, the won remained underpinned by improved external conditions, as the US pause in strikes on Iran eased geopolitical concerns, pushed oil prices lower, and improved risk sentiment. Exporter dollar selling also helped sustain the currency, with SK hynix's record US listing raising around $26.5 billion and prompting dollar conversions that contributed to broader corporate repatriation flows. Authorities have also encouraged exporters to bring overseas earnings back into the domestic market, helping extend the won's rebound from its late-June low near 1,555 per dollar."
+    },
+    {
+      "id": "te:markets:569965",
+      "time": "2026-07-27 12:52:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Futures Rise — Platinum futures rose to around $1,630 an ounce, tracking strength across the precious metals complex as oil prices dropped following a pause in the US-Iran conflict. The US suspended its nearly two-week campaign of strikes against Iran beginning late Friday, while Tehran said it had ended its retaliatory strikes and held talks with Oman regarding the Strait of Hormuz. Still, platinum prices remained near late-November lows due to prospects of higher interest rates and persistent inflation. The Federal Reserve is widely expected to leave interest rates unchanged at its policy meeting this week, although some believe the central bank could move as early as this meeting. Prices were also weighed down by expectations for softer industrial and automotive demand despite the tight supply outlook. The ongoing shift toward electric vehicles, which do not require autocatalysts, has clouded demand prospects even as the platinum market is forecast to post a fourth straight annual supply deficit."
+    },
+    {
+      "id": "5009342",
+      "time": "2026-07-27 12:51:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌6.0個基點，至2.755%。"
+    },
+    {
+      "id": "mkt:019fa1ea-280a-7aab-8ea2-af1d01fa10f7",
+      "time": "2026-07-27 12:51:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Japan 10-year government bond yield fell 6bps to 2.755%."
+    },
+    {
+      "id": "5009341",
+      "time": "2026-07-27 12:50:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甘肅定西山洪災害核心區域出現降雨】昨天（7月26日）下午，甘肅省定西市渭源縣會川鎮雙石門溝受短時強降雨影響，引發山洪，致部分露營遊客被困。截至目前，已致10人遇難、23人受傷，傷員均在醫院接受救治，同時，已轉移、疏散被困群眾共247人。現場救援仍在進行中。甘肅定西市渭源縣會川鎮雙石門溝是這次受災的核心區。從今天凌晨開始，會川鎮出現持續性降雨天氣，給救援工作帶來一定難度。為了確保救援人員的安全，現場指揮部也在實時進行研判評估，雨量變大的時候就及時安排救援力量撤出，保持待命狀態。一旦雨勢變小或停止，搜救工作會立刻啟動。一個多小時前，當地雨勢進一步加大，記者也跟隨救援力量及時撤離到了外圍安全的區域。（央視）"
+    },
     {
       "id": "5009340",
       "time": "2026-07-27 12:49:38",
