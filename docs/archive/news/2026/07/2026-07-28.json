@@ -1,7 +1,43 @@
 {
   "date": "2026-07-28",
-  "count": 234,
+  "count": 238,
   "items": [
+    {
+      "id": "mkt:019fa50e-bb9a-7aab-8eb6-542ac8ea7cd3",
+      "time": "2026-07-28 03:30:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【CME 24/7 gold futures draw strong demand in inaugural weekend】CME Group said nearly 15,000 1‑oz gold futures contracts traded in the first weekend since it launched a 24/7 trading schedule, with notional turnover around $60m. Jin Hennig, CME’s head of global precious metals, said the uptake shows retail traders were prepared for a regulated, round‑the‑clock product to manage gold positions."
+    },
+    {
+      "id": "5010800",
+      "time": "2026-07-28 03:30:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局（FAA）因人手短缺，對紐約肯尼迪機場釋出地面停飛指令。"
+    },
+    {
+      "id": "mkt:019fa50c-97b6-7aab-8eb6-48ae600f615f",
+      "time": "2026-07-28 03:28:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Trump administration asked the U.S. Supreme Court to intervene after a lower court allowed legal challenges to an order restricting Trump’s ability to vote by mail."
+    },
+    {
+      "id": "5010799",
+      "time": "2026-07-28 03:28:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：對所有進口卡車徵收25%關稅。"
+    },
     {
       "id": "5010798",
       "time": "2026-07-28 03:25:56",

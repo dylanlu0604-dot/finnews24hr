@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-28 03:27:48",
-  "count": 17816,
+  "updated": "2026-07-28 03:31:37",
+  "count": 17818,
   "items": [
+    {
+      "id": "mkt:019fa50e-bb9a-7aab-8eb6-542ac8ea7cd3",
+      "time": "2026-07-28 03:30:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【CME 24/7 gold futures draw strong demand in inaugural weekend】CME Group said nearly 15,000 1‑oz gold futures contracts traded in the first weekend since it launched a 24/7 trading schedule, with notional turnover around $60m. Jin Hennig, CME’s head of global precious metals, said the uptake shows retail traders were prepared for a regulated, round‑the‑clock product to manage gold positions."
+    },
+    {
+      "id": "5010800",
+      "time": "2026-07-28 03:30:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局（FAA）因人手短缺，對紐約肯尼迪機場釋出地面停飛指令。"
+    },
+    {
+      "id": "mkt:019fa50c-97b6-7aab-8eb6-48ae600f615f",
+      "time": "2026-07-28 03:28:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Trump administration asked the U.S. Supreme Court to intervene after a lower court allowed legal challenges to an order restricting Trump’s ability to vote by mail."
+    },
+    {
+      "id": "5010799",
+      "time": "2026-07-28 03:28:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：對所有進口卡車徵收25%關稅。"
+    },
     {
       "id": "5010798",
       "time": "2026-07-28 03:25:56",
@@ -163335,26 +163371,6 @@
         "國際"
       ],
       "text": "據Axios援引美國官員訊息：特朗普將讓伊朗為近期美軍士兵遇難一事付出代價；此類強力打擊行動會持續進行，直至特朗普另行下達指令，不過美伊兩國之間的溝通仍在持續。"
-    },
-    {
-      "id": "4998433",
-      "time": "2026-07-21 03:30:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數20日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.19%，在匯市尾市收於100.957。截至紐約匯市尾市，1歐元兌換1.1415美元，低於前一交易日的1.1436美元；1英鎊兌換1.3436美元，低於前一交易日的1.3454美元。1美元兌換162.50日元，高於前一交易日的162.45日元；1美元兌換0.8100瑞士法郎，高於前一交易日的0.8075瑞士法郎；1美元兌換1.4059加元，高於前一交易日的1.4011加元；1美元兌換9.6856瑞典克朗，高於前一交易日的9.6497瑞典克朗。"
-    },
-    {
-      "id": "mkt:019f8100-8437-7aab-8e14-22072e1138f1",
-      "time": "2026-07-21 03:28:42",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Expert: US lacks capability to destroy Iran】Veteran war reporter Elijah Magnier said the US can mount high‑intensity strikes on Iranian facilities but, at best, would only weaken Iran. He noted the US has large offensive munitions stocks but limited interceptor missile inventories, constraining its ability to defend US assets, allies and Israel from retaliatory strikes. Sustaining a large campaign would force hard choices about which bases, cities and incoming threats to protect. Magnier said Iran is likely to broaden the geographic scope of any conflict to increase the number of targets Washington must defend, raising the political — and especially economic — cost of further strikes. By using concentrated ballistic and cruise‑missile saturation attacks to wear down air defenses and force interceptors onto decoy targets, Iran could target US regional bases, logistics hubs, ports, radar facilities and fuel storage. Strikes on Gulf allies could increase domestic pressure on those governments to push the US to de‑escalate."
     }
   ]
 }
