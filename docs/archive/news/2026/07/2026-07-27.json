@@ -1,7 +1,749 @@
 {
   "date": "2026-07-27",
-  "count": 2589,
+  "count": 2665,
   "items": [
+    {
+      "id": "5010675",
+      "time": "2026-07-27 23:57:21",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "俄羅斯總統新聞秘書佩斯科夫： 歐盟能出臺、且不會損害自身利益的對俄製裁手段已所剩無幾。"
+    },
+    {
+      "id": "5010674",
+      "time": "2026-07-27 23:56:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國國債收益率普遍跌超3個基點】週一（7月27日）歐市尾盤，英國10年期國債收益率跌3.7個基點，報4.995%，跳空低開之後持續低位震盪。兩年期英債收益率跌3.0個基點，報4.380%。30年期英債收益率跌3.3個基點，50年期英債收益率跌2.6個基點。2/10年期英債收益率利差跌0.504個基點，報+61.385個基點。"
+    },
+    {
+      "id": "te:markets:570154",
+      "time": "2026-07-27 23:56:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Edges Up — The FTSE MIB rose 0.5% to 52,055 on Monday, tracking a broader improvement in risk appetite amid hopes for renewed diplomacy in the Middle East. Banking stocks gained on the session amid lower energy prices and easing concerns over inflationary pressures as sovereign bond yields retreated. UniCredit advanced 1.6%, following positive reviews from JPMorgan and Morgan Stanley. Amplifon gained 2.6% after JPMorgan raised its recommendation of the stock. Buzzi gained 2.8% on reconstruction activity prospects. In the luxury sector, Brunello Cucinelli (2.4%) and Campari (1.9%) climbed ahead of LVMH's earnings release. Ferrari outperformed with a 4.3% gain, leading gains on the index, following progress reports regarding its share buyback program. Meanwhile, technology and energy stocks underperformed, with Prysmian, Tenaris, and Eni all falling more than 2%, weighed by ongoing concerns over AI-related overspending and lower oil prices."
+    },
+    {
+      "id": "5010673",
+      "time": "2026-07-27 23:55:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國將南蘇丹羚羊遷徙廊道列入瀕危世界遺產名錄。"
+    },
+    {
+      "id": "te:markets:570152",
+      "time": "2026-07-27 23:53:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Inch Higher — European stocks closed slightly higher, outperforming North American counterparts with support from lower bond yields. The Euro STOXX 60 inched higher to 6,290 and the STOXX Europe 600 rose 0.2% to 645.6. Sovereign yields fell sharply as the momentary pause in strikes between Iran and the US reignited hopes of LNG and fuel exports from the region, limiting inflationary risks. Banks were sharply higher, with Santander and BNP Paribas adding over 2% while Intesa Sanapaolo rose 1% ahead of its earnings this week. Meanwhile, software producers jumped, tracking Wall Street counterparts ahead of AI hyperscaler earnings this week, with SAP soaring 7.8%. In turn, chip producers remained volatile and sold off after a series of circular investments by Nvidia added to concerns of overspending on the sector. ASML sank 8.4% and Infineon dropped 4.5%. Also, Argenx dropped 2.3% after buying Forte Biosciences for $2.2 billion."
+    },
+    {
+      "id": "5010672",
+      "time": "2026-07-27 23:53:11",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "義大利財政部：原定於 8 月 13 日發行的中長期國債及 8 月 26 日發行的通脹保值國債（BTPEI）拍賣取消。"
+    },
+    {
+      "id": "5010671",
+      "time": "2026-07-27 23:52:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國政府：已抓獲162名涉嫌故意縱火人員】當地時間7月27日，法國總理塞巴斯蒂安·勒科爾尼表示，自7月6日以來，法國警方已抓獲162名涉嫌故意縱火人員。他強調，故意縱火屬於重罪，最高可判處15年有期徒刑。目前，法國安全部門正全力追查縱火嫌疑人，所有涉案人員都將被依法追究責任。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fa446-d047-7aab-8eb3-0b7b47b5f642",
+      "time": "2026-07-27 23:52:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported Pakistan's interior minister made an unannounced visit to Doha and met his Qatari counterpart to discuss security matters."
+    },
+    {
+      "id": "mkt:019fa446-5d43-7aab-8eb3-0764190f75f7",
+      "time": "2026-07-27 23:51:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The US has directed 17 commercial vessels to change course during its blockade of Iran."
+    },
+    {
+      "id": "5010670",
+      "time": "2026-07-27 23:51:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "據IRNA： 巴基斯坦內政部長突訪多哈，與卡達內政部長會晤磋商安全相關事宜。"
+    },
+    {
+      "id": "5010669",
+      "time": "2026-07-27 23:50:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：為確保各方遵守相關管控規定，中央司令部已勒令 17 艘商船改道、扣押 2 艘船舶並登臨檢查 2 艘船隻。"
+    },
+    {
+      "id": "mkt:019fa445-6b4a-7aab-8eb2-ffc9e4a6c982",
+      "time": "2026-07-27 23:50:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon said AWS has launched the AWS Healthomics service in the Asia Pacific (Tokyo) region."
+    },
+    {
+      "id": "mkt:019fa444-f740-7aab-8eb2-f17bf19b1a6f",
+      "time": "2026-07-27 23:50:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "AMD.O",
+        "Impact bearish",
+        "NVDA.O",
+        "INTC.O"
+      ],
+      "text": "【US chip stocks slide; Philadelphia Semiconductor Index down about 5%】US chip stocks are down; the Philadelphia Semiconductor Index is down about 5%. AMD (AMD.O) is down more than 8%, NVIDIA (NVDA.O) is down more than 7%, Intel (INTC.O) is down about 4%."
+    },
+    {
+      "id": "5010668",
+      "time": "2026-07-27 23:48:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：AWS 於亞太（東京）區域推出 AWS HealthOmics 服務。"
+    },
+    {
+      "id": "mkt:019fa442-dbe9-7aab-8eb2-e985264794ac",
+      "time": "2026-07-27 23:47:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham seeks stronger defense cooperation with Kuwait."
+    },
+    {
+      "id": "te:markets:570151",
+      "time": "2026-07-27 23:47:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Gains as Oil Prices Retreat — The CAC 40 rose 0.4% to close at 8,406 on Monday as a pause in US-Iran hostilities over the weekend sent oil prices lower. Crude prices fell after both countries halted strikes amid renewed diplomatic efforts, with President Donald Trump reportedly open to restarting peace talks. The decline in oil prices eased energy-driven inflation concerns, supporting the broader market. Financials led the gains, with BNP Paribas up 2.1% and AXA adding 1.2%. Luxury stocks also advanced amid lower risk aversion ahead of upcoming earnings, with LVMH up 0.9%, L'Oréal gaining 0.7%, Hermès rising 1.7%, and Kering adding 1.3%. Safran (+1.6%), Air Liquide (+0.7%), Airbus (+1.6%), EssilorLuxottica (+1.7%), and Danone (+1.4%) are also due to report earnings this week. Meanwhile, TotalEnergies fell 1.7% on lower oil prices, while Engie (-2.5%) and STMicroelectronics (-1.7%) were among the session's biggest laggards."
+    },
+    {
+      "id": "5010667",
+      "time": "2026-07-27 23:46:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數下跌 4.7%，ARM下跌 2.7%，西部資料下跌 6.6%，美光科技下跌 5.6%。"
+    },
+    {
+      "id": "mkt:019fa441-766a-7aab-8eb2-e4df0ea4ea2e",
+      "time": "2026-07-27 23:46:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Capital Economics: Fed policy may diverge from ECB and BoE by 2027】Capital Economics economist Neil Shearing said in a note markets price just over 50bps of tightening for the Fed, the Bank of England and the European Central Bank by mid-2027, but policy paths could start to diverge as soon as next year. He said an end to the Iran conflict would likely push energy prices lower, leaving domestic fundamentals as the main driver of policy; underlying inflation pressures in the UK and euro area are weak, while the US faces a stronger inflation backdrop and fiscal policy remains relatively loose. Shearing added it is increasingly hard to justify market-implied tightening for the ECB and BoE, whereas the Fed may resume tightening sooner."
+    },
+    {
+      "id": "mkt:019fa441-4bb8-7aab-8eb2-d8f0ebcdeb0f",
+      "time": "2026-07-27 23:46:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham said he wants to strengthen defence ties with Qatar."
+    },
+    {
+      "id": "5010666",
+      "time": "2026-07-27 23:45:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "LVMH集團（路易威登母公司）二季度時裝與皮草有機銷售增長1%，分析師預期增長1.52%。\n二季度有機營收增長3%，分析師預期增長2.32%。\n二季度美國有機營收增長6%，分析師預期增長4%。\n二季度亞洲（剔除日本）有機增長4%，分析師預期增長4.6%。\n二季度紅酒與烈酒有機銷售增長5%，分析師預期下滑1.94%。"
+    },
+    {
+      "id": "5010665",
+      "time": "2026-07-27 23:45:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "米其林上半年營收126.9億歐元，分析師預期127.4億歐元。上半年淨利潤7.66億歐元，分析師預期9.77億歐元。確認全年業績指引。"
+    },
+    {
+      "id": "mkt:019fa43f-92df-7aab-8eb2-d6a1962c431d",
+      "time": "2026-07-27 23:44:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA (NVDA.O) extends losses to 5%."
+    },
+    {
+      "id": "5010663",
+      "time": "2026-07-27 23:43:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達股價跌幅擴大至5%。"
+    },
+    {
+      "id": "5010661",
+      "time": "2026-07-27 23:41:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：伊朗已證明本國絕不會向美國的霸凌行徑低頭。"
+    },
+    {
+      "id": "mkt:019fa43c-d3bc-7aab-8eb2-cda0baff87b4",
+      "time": "2026-07-27 23:41:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Armenian government said the prime minister asked Russian President Putin to resolve Moscow's export restrictions on Armenia."
+    },
+    {
+      "id": "5010660",
+      "time": "2026-07-27 23:40:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "亞美尼亞總理請求俄羅斯總統普京解決俄方限制亞美尼亞出口相關問題。"
+    },
+    {
+      "id": "te:markets:570150",
+      "time": "2026-07-27 23:39:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX 40 Rises Toward 3-Week High — The DAX 40 rose more than 1% to above 25,400 on Monday, the highest in nearly three weeks, as improving US-Iran relations, weaker oil prices and falling bond yields boosted investor sentiment. The decline in energy prices eased inflation concerns and reduced expectations for additional monetary tightening ahead of a busy week of central bank decisions and major technology earnings. SAP led the gains, jumping more than 7% after launching the second phase of its €10 billion share buyback programme and extending the positive momentum following stronger-than-expected second-quarter results. Deutsche Telekom (+2.6%) and Rheinmetall (+1.3%) also gained. In contrast, Infineon dropped 4.5% after ASML shares declined following reports that a Chinese state-backed company is developing chipmaking equipment that could challenge its market position. Lower energy prices weighed on Siemens Energy (-2%) and E.ON (-2.5%)."
+    },
+    {
+      "id": "mkt:019fa43a-d25a-7aab-8eb2-c3339ef8977d",
+      "time": "2026-07-27 23:39:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham phoned the UAE president and expressed intent to deepen UK‑UAE trade ties."
+    },
+    {
+      "id": "mkt:019fa43a-0c9a-7aab-8eb2-befb63af497e",
+      "time": "2026-07-27 23:38:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Armenian government said Russian President Putin spoke by phone with Armenian Prime Minister Pashinyan."
+    },
+    {
+      "id": "5010659",
+      "time": "2026-07-27 23:38:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "亞美尼亞政府訊息：俄羅斯總統普京與亞美尼亞總理通電話。"
+    },
+    {
+      "id": "5010658",
+      "time": "2026-07-27 23:37:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆：希望加強英國與阿聯酋的貿易往來。"
+    },
+    {
+      "id": "5010657",
+      "time": "2026-07-27 23:37:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列前高官發聯名信警告約旦河西岸局勢或升級】約600名以色列軍方、警方、國家安全總局以及情報和特勤局前高階官員聯合致信美國總統特朗普，呼籲美方敦促以色列政府遏制約旦河西岸日益加劇的定居者暴力，並警告當地局勢可能導致衝突升級。聯名信指出，約旦河西岸的衝突可能進一步升級，不斷增加的暴力活動正在“危及以色列安全、美國利益和地區穩定”。這些前官員還在聯名信中警告稱，局勢進一步惡化所造成的後果，甚至可能比2023年10月7日新一輪巴以衝突及此後以色列面對的多線衝突“更具災難性”。（新華社）"
+    },
+    {
+      "id": "mkt:019fa438-d727-7aab-8eb2-b3b8b76a8808",
+      "time": "2026-07-27 23:36:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities closed higher on Monday July 27: Germany's DAX rose 280.47 points (1.12%) to 25,372.16; the FTSE 100 rose 46.56 points (0.43%) to 10,782.79; France's CAC 40 rose 33.78 points (0.40%) to 8,406.06; the Euro Stoxx 50 rose 3.41 points (0.05%) to 6,284.35; Spain's IBEX 35 rose 157.21 points (0.80%) to 19,742.91; Italy's FTSE MIB rose 253.77 points (0.49%) to 52,056.00."
+    },
+    {
+      "id": "5010656",
+      "time": "2026-07-27 23:35:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐吉達總領館再次提醒在沙特中資機構和中國公民注意安全】中國駐吉達總領館釋出提醒稱，連日來，沙特多地遭導彈和無人機攻擊，數艘沙特運營的船隻在紅海航行時遭襲，部分地區航班受到影響，局勢還有可能進一步惡化。中國駐吉達總領館再次提醒在沙中資機構和中國公民密切關注沙特和中東地區形勢發展，採取必要措施切實加強安全防範，及時避險。不要拍攝軍事行動，不傳播未經證實的訊息。有乘飛機或輪船出行計劃的旅客請與有關航司保持密切聯絡，以免影響行程。如遇緊急情況，請及時報警並聯系駐沙使領館。"
+    },
+    {
+      "id": "mkt:019fa436-ecca-7aab-8eb2-ae534214d454",
+      "time": "2026-07-27 23:34:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US two-year Treasury yield dipped to 4.315% from 4.320% ahead of a Treasury auction."
+    },
+    {
+      "id": "5010655",
+      "time": "2026-07-27 23:34:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "參議院發言人：OpenAI 執行長山姆・奧特曼本週將會見民主黨參議員馬克・沃納。"
+    },
+    {
+      "id": "mkt:019fa436-4ac1-7aab-8eb2-a133f1347630",
+      "time": "2026-07-27 23:34:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury auctioned $69.0 bln 2-year notes; stop-out yield 4.315%, bid-cover ratio 2.66 (prior 2.64)."
+    },
+    {
+      "id": "5010654",
+      "time": "2026-07-27 23:33:51",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣690億美元兩年期國債，得標利率4.315%（6月23日為4.189%，至少創2025年2月份以來新高），投標倍數2.66（前次為2.64）。"
+    },
+    {
+      "id": "5010653",
+      "time": "2026-07-27 23:33:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2 年期美國國債收益率在 690 億美元國債拍賣後延續跌勢，最新下跌 1.51 個基點，報 4.316%。"
+    },
+    {
+      "id": "5010652",
+      "time": "2026-07-27 23:32:51",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六個月期國債，得標利率3.945%，投標倍數3.12。"
+    },
+    {
+      "id": "mkt:019fa434-94d1-7aab-8eb2-9e3edd251f33",
+      "time": "2026-07-27 23:32:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. 6M Treasury auction on July 27: 36.13% of the awarded amount allocated at the stop-out rate, down from 51.45% previously."
+    },
+    {
+      "id": "mkt:019fa434-8ff9-7aab-8eb2-95eea57569cd",
+      "time": "2026-07-27 23:32:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 6-month Treasury auction on July 27 bid-cover ratio 3.12; prior 2.94."
+    },
+    {
+      "id": "mkt:019fa434-8fac-7aab-8eb2-8b950e583860",
+      "time": "2026-07-27 23:32:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "6-month U.S. Treasury auction (settlement July 27) stop-out yield 3.945% vs 3.84% prior."
+    },
+    {
+      "id": "mkt:019fa434-6c5f-7aab-8eb2-850f7fc97ec5",
+      "time": "2026-07-27 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Bid/Cover Ratio (Jul.27) | actual 3.12 | previous 2.94"
+    },
+    {
+      "id": "mkt:019fa434-6c48-7aab-8eb2-7ac2af8f3574",
+      "time": "2026-07-27 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Accepted at High (Jul.27) | actual 36.13% | previous 51.45%"
+    },
+    {
+      "id": "mkt:019fa434-6c35-7aab-8eb2-7253788ae284",
+      "time": "2026-07-27 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction High Yield Rate (Jul.27) | actual 3.945% | previous 3.84%"
+    },
+    {
+      "id": "5010651",
+      "time": "2026-07-27 23:31:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱若談判破裂將強力打擊伊朗】今天（7月27日），據美國“阿克西奧斯新聞網（Axios）”報道，美國總統特朗普稱，他決定暫停對伊朗的打擊，以便給談判一個機會。但他強調，如果外交努力失敗，他可能會下令恢復並擴大軍事行動。 特朗普稱，美國正與伊朗進行“非常深入”的談判，如果談判沒有結果，美國將轉而採取非常強硬的軍事行動。當被問及願意給外交努力多長時間時，特朗普回答說：“時間不多，要麼進展迅速，要麼乾脆作罷。” （CCTV國際時訊）"
+    },
+    {
+      "id": "5010650",
+      "time": "2026-07-27 23:30:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲1.34%，報25438.84點。法國股指初步收漲0.75%，義大利股指初步收漲0.64%、銀行指數漲1.33%，英國股指初步收漲0.74%。荷蘭股指初步收跌0.49%。"
+    },
+    {
+      "id": "5010649",
+      "time": "2026-07-27 23:30:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.30%，報646.37點。歐元區STOXX 50指數初步收漲0.37%，報6304.11點。富時泛歐績優300指數初步收漲0.23%，報2584.44點。"
+    },
+    {
+      "id": "5010648",
+      "time": "2026-07-27 23:30:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：卡達首相兼外交大臣接到加拿大外交部長的來電。 通話期間，雙方回顧了兩國合作關係，探討鞏固並深化雙邊合作的途徑；同時就地區最新局勢交換意見，重點談及各方開展的外交行動，以及為緩和衝突、維護地區安全穩定所開展的協同工作。"
+    },
+    {
+      "id": "mkt:019fa431-8e9a-7aab-8eb2-694932eecfe4",
+      "time": "2026-07-27 23:28:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "KimiAI has open-sourced MoonEP, a high-performance communication library for distributed Mixture-of-Experts (MoE) workloads. MoonEP is designed to improve expert-parallel communication efficiency at scale and reduce communication overhead for large MoE models in training and inference."
+    },
+    {
+      "id": "5010647",
+      "time": "2026-07-27 23:25:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統新聞秘書佩斯科夫：俄羅斯是社會福利型國家，這點與美國不同，我國不會在社交媒體上投入數千億美元資金。"
+    },
+    {
+      "id": "te:markets:570149",
+      "time": "2026-07-27 23:25:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Climbs to 5-Month High — The FTSE 100 gained 0.4% on Monday, climbing above 10,780 to its highest level since the record close on February 27, supported by strong corporate earnings and easing energy costs. The US and Iran refrained from further attacks for a third consecutive night, reducing concerns over inflationary pressures. Vodafone was among the strongest performers, rising nearly 5% after reporting better-than-expected organic service revenue growth and maintaining a positive outlook. AstraZeneca advanced 1.7% after quarterly earnings exceeded expectations and the company reaffirmed its full-year guidance and 2030 targets. GSK gained more than 2%, while Unilever and BAE Systems also moved higher. In contrast, energy stocks declined as oil prices weakened, with Shell down 0.9% and BP falling 2.6%. Mining stocks also lagged, including Glencore (-3.4%), Anglo American (-2.4%) and Antofagasta (-1.9%)."
+    },
+    {
+      "id": "mkt:019fa42c-0e02-7aab-8eb2-61a4ea087430",
+      "time": "2026-07-27 23:22:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham said the next budget will not change or abolish stamp duty on property purchases."
+    },
+    {
+      "id": "mkt:019fa42b-ab3e-7aab-8eb2-5fe68318b73a",
+      "time": "2026-07-27 23:22:32",
+      "tags": [
+        "MKT News",
+        "PAH3.DE",
+        "Impact mixed"
+      ],
+      "text": "【Porsche to cut 5,000 jobs in Germany by 2035】Porsche said on the 27th it will cut 5,000 jobs in Germany by 2035. The latest round of large-scale layoffs is aimed at reducing labour costs and improving competitiveness."
+    },
+    {
+      "id": "5010646",
+      "time": "2026-07-27 23:22:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保時捷將在德國再裁員5000人】德國跑車製造商保時捷27日宣佈，將於2035年前在德國再裁減5000個工作崗位。這是該公司近期又一輪大規模裁員計劃，旨在降低人力成本、提升競爭力。（新華社）"
+    },
+    {
+      "id": "mkt:019fa42a-b18c-7aab-8eb2-51f5d491a39d",
+      "time": "2026-07-27 23:21:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China's SC crude oil front-month contract fell 4.00% intraday to 542.40 yuan/barrel."
+    },
+    {
+      "id": "5010645",
+      "time": "2026-07-27 23:21:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌4%，現報542.40元。"
+    },
+    {
+      "id": "mkt:019fa42a-04ca-7aab-8eb2-4830a719501b",
+      "time": "2026-07-27 23:20:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Kimi AI announced a new model architecture that it says increases intelligence per unit of compute by 2.5x, not merely through parameter scaling. Alongside Kimi K3, the company will open supporting components including high-performance attention compute kernels, an MoE communication library and infrastructure for large-scale agent environments."
+    },
+    {
+      "id": "5010644",
+      "time": "2026-07-27 23:19:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：澤連斯基在英國會見伯納姆。"
+    },
+    {
+      "id": "5010643",
+      "time": "2026-07-27 23:18:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆：下一輪財政預算案不會調整或取消房產交易印花稅。"
+    },
+    {
+      "id": "5010642",
+      "time": "2026-07-27 23:17:50",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "Kimi AI：釋出 Kimi K3的模型權重和技術報告。Kimi K3是我們目前能力最強的模型，這款模型擁有2.8萬億引數的 MoE（混合專家）模型，具備原生視覺理解能力，並支援100萬 Token上下文視窗。"
+    },
+    {
+      "id": "5010641",
+      "time": "2026-07-27 23:17:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆：計劃就社會護理改革開展跨黨派磋商。"
+    },
+    {
+      "id": "mkt:019fa427-05cc-7aab-8eb2-46f9d846d369",
+      "time": "2026-07-27 23:17:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Kimi AI released model weights and a technical report for Kimi K3. Kimi K3 is the firm's most capable model: a 2.8 tln-parameter MoE (mixture-of-experts) architecture with native visual understanding and support for a 1,000,000-token context window."
+    },
+    {
+      "id": "5010640",
+      "time": "2026-07-27 23:17:25",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：若與伊朗談判失敗，我準備實施“強力軍事行動”】週一，美國總統特朗普接受 Axios 採訪時表示，他決定暫停美國針對伊朗的打擊行動，為談判再留一次機會，但同時強調，若外交談判無果，他將下令重啟大規模軍事行動。談判主要由伊朗與阿曼牽頭開展，卡達、巴基斯坦、埃及，以及特朗普的特使史蒂夫・維特科夫、賈裡德・庫什納均深度參與其中。\n“我們正與伊朗展開深度談判。倘若談判失敗，我們將重新採取高強度軍事打擊。” 特朗普在採訪中說道。當被問及願意為外交斡旋預留多久時間時，特朗普回應：“時間不會太多，要麼迅速達成共識，要麼直接終止談判。”\n特朗普透露，上週五他決定暫停打擊行動，是因為多國調解方懇請他給談判留出緩衝期。“所有對接伊朗事務的相關國家都勸我：不要動武。” 特朗普稱，他認為伊朗方面有意達成協議。\n談及為何答應調解方的請求，特朗普表示：“這麼做不會有損失，也不存在風險。”他還提到，自己宣佈暫停軍事打擊後，國際油價應聲下跌，股市同步走高。"
+    },
+    {
+      "id": "5010639",
+      "time": "2026-07-27 23:14:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（被問及願意給外交談判多長時間時）時間不多，要麼速談速決，要麼直接作罷。"
+    },
+    {
+      "id": "5010638",
+      "time": "2026-07-27 23:13:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英偉達擬為OpenAI提供鉅額融資擔保】美國《華爾街日報》7月26日援引知情人士訊息報道稱，英偉達正與美國開放人工智慧研究中心、也就是OpenAI談判，計劃為其提供約2500億美元的融資擔保，以幫助OpenAI從一個正在建設的龐大資料中心專案中獲得算力支援。不過，市場對於AI基礎設施投資熱潮也出現了一些擔憂。一些投資者擔心，目前正在建設的資料中心可能超過未來AI服務的實際需求，推高AI產業估值泡沫風險。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019fa423-00e9-7aab-8eb2-3a166deaa7ba",
+      "time": "2026-07-27 23:13:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump says Iran negotiation window limited; will resume military action if talks fail】President Trump said the window for negotiations with Iran is limited and he will not give Iran much time. He warned that if talks collapse the U.S. will resume \"powerful\" military action. Trump said he paused attacks at mediators' request to allow talks and that he believes the Iranians want a deal."
+    },
+    {
+      "id": "5010637",
+      "time": "2026-07-27 23:12:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：調解方請求給予談判視窗期，他已應允該請求。"
+    },
+    {
+      "id": "5010636",
+      "time": "2026-07-27 23:10:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "智利國家銅業公司（Codelco）：智利暴風雨（雪）天氣過後，銅運營正常。"
+    },
+    {
+      "id": "5010635",
+      "time": "2026-07-27 23:10:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【4名中國公民在巴新船隻傾覆事故中遇難】中國駐巴布亞紐幾內亞大使館27日透過微信公眾號釋出訊息，巴新新愛爾蘭省利希爾島附近海域日前發生一起小型船隻傾覆事故，遇難者中包括4名中國公民。（新華社）"
+    },
+    {
+      "id": "mkt:019fa41f-f01d-7aab-8eb2-32f0df217a3c",
+      "time": "2026-07-27 23:09:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish presidency said Iraq’s prime minister will visit Ankara on Tuesday at the invitation of President Erdogan."
+    },
+    {
+      "id": "5010634",
+      "time": "2026-07-27 23:08:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：英偉達向伊利亞・薩茨凱弗（OpenAI 前聯合創始人）旗下安全超級智慧公司注資數十億美元。"
+    },
+    {
+      "id": "mkt:019fa41e-e60c-7aab-8eb2-2d961084b121",
+      "time": "2026-07-27 23:08:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "According to The Information, NVIDIA has invested up to several billion dollars in a safety-focused superintelligence project led by OpenAI co-founder Ilya Sutskever."
+    },
+    {
+      "id": "mkt:019fa41d-0783-7aab-8eb2-23ff7644d871",
+      "time": "2026-07-27 23:06:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "According to Israel's Channel 12, U.S. President Trump said he will not spend much time negotiating and, if talks fail, will rely on strong military measures."
+    },
+    {
+      "id": "5010633",
+      "time": "2026-07-27 23:05:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我不會給他們太多談判時間，若談判無果，我們將重啟高強度軍事行動。"
+    },
     {
       "id": "5010632",
       "time": "2026-07-27 23:04:16",
