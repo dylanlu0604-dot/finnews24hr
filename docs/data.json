@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-28 01:16:48",
-  "count": 17784,
+  "updated": "2026-07-28 01:20:37",
+  "count": 17786,
   "items": [
+    {
+      "id": "5010735",
+      "time": "2026-07-28 01:19:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：紐瓦克機場因人員短缺出現航班延誤。"
+    },
+    {
+      "id": "5010734",
+      "time": "2026-07-28 01:19:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍視察法國野火受災地區。"
+    },
+    {
+      "id": "mkt:019fa496-a3f8-7aab-8eb4-fd1ff6d234e3",
+      "time": "2026-07-28 01:19:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French President MACRON visits wildfire-affected area."
+    },
+    {
+      "id": "mkt:019fa496-8bdc-7aab-8eb4-f0136c65daca",
+      "time": "2026-07-28 01:19:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Fed accepted $1.38 billion from three counterparties in a fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "mkt:019fa496-8976-7aab-8eb4-ea8b5a3ce4c1",
+      "time": "2026-07-28 01:19:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Bahrain's state news agency condemned an attempted terrorist drone attack launched from Iraqi territory targeting oil facilities in Saudi Arabia."
+    },
+    {
+      "id": "mkt:019fa496-42eb-7aab-8eb4-e7a85e907c6c",
+      "time": "2026-07-28 01:18:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Strategic Petroleum Reserve crude stocks fell about 3.7 mln barrels last week to 307.7 mln barrels, the lowest level since 1983."
+    },
+    {
+      "id": "5010733",
+      "time": "2026-07-28 01:17:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週一（7月27日），美聯儲隔夜逆回購協議（RRP）使用規模為13.80億美元（交易對手3家），上個交易日報6.75億美元。"
+    },
     {
       "id": "5010732",
       "time": "2026-07-28 01:16:12",
@@ -163048,51 +163118,6 @@
         "PSKY.O"
       ],
       "text": "Warner Bros. Discovery (WBD.O) and Paramount Global (PSKY.O) extended intraday losses, down 1.38% and 1.66% respectively."
-    },
-    {
-      "id": "4998391",
-      "time": "2026-07-21 01:20:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮：新的空軍一號專機將於秋季接受額外升級改造，整個升級過程預計耗時約一個月。"
-    },
-    {
-      "id": "4998390",
-      "time": "2026-07-21 01:19:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "蓋亞那政府通報，失事渡輪已打撈起10具遇難者遺體。"
-    },
-    {
-      "id": "mkt:019f8089-ce9b-7aab-8e13-23e28a26ecff",
-      "time": "2026-07-21 01:19:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Fed accepted $30 mln from six counterparties in its fixed-rate reverse repurchase operation."
-    },
-    {
-      "id": "mkt:019f8089-8c66-7aab-8e13-19c0487dd1c5",
-      "time": "2026-07-21 01:18:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK government says MP John Healey has been appointed Chancellor of the Exchequer."
-    },
-    {
-      "id": "em:qqyh_mlc:202607213813784698",
-      "time": "2026-07-21 01:17:58",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "週一（7月20日），美聯儲隔夜逆回購協議（RRP）使用規模為0.3億美元。"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-28 01:16:55",
+  "updated": "2026-07-28 01:20:46",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 503,
+  "count": 505,
   "history_summary": {
     "cached": 503,
-    "fetched": 0,
+    "fetched": 2,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,11 +18,11 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 275,
+      "count": 277,
       "dates": [
         {
           "date": "2026-07-27",
-          "count": 38,
+          "count": 37,
           "events": [
             {
               "id": "capital:1178328",
@@ -1939,64 +1939,6 @@
               "history_checked_at": "2026-07-19 00:01:00"
             },
             {
-              "id": "capital:1182415",
-              "fid": "1182415",
-              "interval": "this_week",
-              "date": "2026-07-27",
-              "time": "23:30",
-              "datetime": "2026-07-27 23:30:00",
-              "display_time": "07/27 23:30",
-              "country": "美國",
-              "title": "美國至7月27日3個月國債競拍-得標利率配置百分比",
-              "importance": 1,
-              "previous": "73.01 %",
-              "forecast": "-- %",
-              "actual": "-- %",
-              "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182415",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "07/20",
-                  "actual": "73.01",
-                  "forecast": "-",
-                  "previous": "8.47"
-                },
-                {
-                  "date": "07/13",
-                  "actual": "8.47",
-                  "forecast": "-",
-                  "previous": "93.49"
-                },
-                {
-                  "date": "07/06",
-                  "actual": "93.49",
-                  "forecast": "-",
-                  "previous": "85.81"
-                },
-                {
-                  "date": "06/22",
-                  "actual": "87.55",
-                  "forecast": "-",
-                  "previous": "25.15"
-                },
-                {
-                  "date": "06/15",
-                  "actual": "25.15",
-                  "forecast": "-",
-                  "previous": "6.48"
-                },
-                {
-                  "date": "06/08",
-                  "actual": "6.48",
-                  "forecast": "-",
-                  "previous": "44.66"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-07-25 12:38:13"
-            },
-            {
               "id": "capital:1178348",
               "fid": "1178348",
               "interval": "this_week",
@@ -2232,7 +2174,7 @@
         },
         {
           "date": "2026-07-28",
-          "count": 32,
+          "count": 35,
           "events": [
             {
               "id": "capital:1178352",
@@ -2409,6 +2351,180 @@
               "history_checked_at": "2026-07-19 00:01:00"
             },
             {
+              "id": "capital:1181559",
+              "fid": "1181559",
+              "interval": "this_week",
+              "date": "2026-07-28",
+              "time": "01:00",
+              "datetime": "2026-07-28 01:00:00",
+              "display_time": "07/28 01:00",
+              "country": "美國",
+              "title": "美國至7月27日3個月國債競拍-得標利率",
+              "importance": 1,
+              "previous": "3.73 %",
+              "forecast": "-- %",
+              "actual": "3.815 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181559",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/20",
+                  "actual": "3.73",
+                  "forecast": "-",
+                  "previous": "3.76"
+                },
+                {
+                  "date": "07/13",
+                  "actual": "3.76",
+                  "forecast": "-",
+                  "previous": "3.74"
+                },
+                {
+                  "date": "07/06",
+                  "actual": "3.735",
+                  "forecast": "-",
+                  "previous": "3.74"
+                },
+                {
+                  "date": "06/22",
+                  "actual": "3.695",
+                  "forecast": "-",
+                  "previous": "3.64"
+                },
+                {
+                  "date": "06/15",
+                  "actual": "3.64",
+                  "forecast": "-",
+                  "previous": "3.64"
+                },
+                {
+                  "date": "06/08",
+                  "actual": "3.64",
+                  "forecast": "-",
+                  "previous": "3.63"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-28 01:20:44"
+            },
+            {
+              "id": "capital:1182415",
+              "fid": "1182415",
+              "interval": "this_week",
+              "date": "2026-07-28",
+              "time": "01:00",
+              "datetime": "2026-07-28 01:00:00",
+              "display_time": "07/28 01:00",
+              "country": "美國",
+              "title": "美國至7月27日3個月國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "73.01 %",
+              "forecast": "-- %",
+              "actual": "83.44 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182415",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/20",
+                  "actual": "73.01",
+                  "forecast": "-",
+                  "previous": "8.47"
+                },
+                {
+                  "date": "07/13",
+                  "actual": "8.47",
+                  "forecast": "-",
+                  "previous": "93.49"
+                },
+                {
+                  "date": "07/06",
+                  "actual": "93.49",
+                  "forecast": "-",
+                  "previous": "85.81"
+                },
+                {
+                  "date": "06/22",
+                  "actual": "87.55",
+                  "forecast": "-",
+                  "previous": "25.15"
+                },
+                {
+                  "date": "06/15",
+                  "actual": "25.15",
+                  "forecast": "-",
+                  "previous": "6.48"
+                },
+                {
+                  "date": "06/08",
+                  "actual": "6.48",
+                  "forecast": "-",
+                  "previous": "44.66"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-07-25 12:38:13"
+            },
+            {
+              "id": "capital:1181560",
+              "fid": "1181560",
+              "interval": "this_week",
+              "date": "2026-07-28",
+              "time": "01:00",
+              "datetime": "2026-07-28 01:00:00",
+              "display_time": "07/28 01:00",
+              "country": "美國",
+              "title": "美國至7月27日3個月國債競拍-投標倍數",
+              "importance": 1,
+              "previous": "3",
+              "forecast": "--",
+              "actual": "3.06",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181560",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/20",
+                  "actual": "3",
+                  "forecast": "-",
+                  "previous": "2.84"
+                },
+                {
+                  "date": "07/13",
+                  "actual": "2.84",
+                  "forecast": "-",
+                  "previous": "2.58"
+                },
+                {
+                  "date": "07/06",
+                  "actual": "2.58",
+                  "forecast": "-",
+                  "previous": "2.32"
+                },
+                {
+                  "date": "06/22",
+                  "actual": "2.68",
+                  "forecast": "-",
+                  "previous": "2.47"
+                },
+                {
+                  "date": "06/15",
+                  "actual": "2.47",
+                  "forecast": "-",
+                  "previous": "2.79"
+                },
+                {
+                  "date": "06/08",
+                  "actual": "2.79",
+                  "forecast": "-",
+                  "previous": "2.69"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-28 01:20:44"
+            },
+            {
               "id": "capital:1178353",
               "fid": "1178353",
               "interval": "this_week",
@@ -2421,7 +2537,7 @@
               "importance": 1,
               "previous": "4.2 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "4.408 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178353",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -2479,7 +2595,7 @@
               "importance": 1,
               "previous": "86.81 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "51.71 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178645",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -2537,8 +2653,8 @@
               "importance": 1,
               "previous": "2.35",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "2.28",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178354",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -31156,64 +31272,6 @@
       "history_checked_at": "2026-07-19 00:01:00"
     },
     {
-      "id": "capital:1182415",
-      "fid": "1182415",
-      "interval": "this_week",
-      "date": "2026-07-27",
-      "time": "23:30",
-      "datetime": "2026-07-27 23:30:00",
-      "display_time": "07/27 23:30",
-      "country": "美國",
-      "title": "美國至7月27日3個月國債競拍-得標利率配置百分比",
-      "importance": 1,
-      "previous": "73.01 %",
-      "forecast": "-- %",
-      "actual": "-- %",
-      "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182415",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "07/20",
-          "actual": "73.01",
-          "forecast": "-",
-          "previous": "8.47"
-        },
-        {
-          "date": "07/13",
-          "actual": "8.47",
-          "forecast": "-",
-          "previous": "93.49"
-        },
-        {
-          "date": "07/06",
-          "actual": "93.49",
-          "forecast": "-",
-          "previous": "85.81"
-        },
-        {
-          "date": "06/22",
-          "actual": "87.55",
-          "forecast": "-",
-          "previous": "25.15"
-        },
-        {
-          "date": "06/15",
-          "actual": "25.15",
-          "forecast": "-",
-          "previous": "6.48"
-        },
-        {
-          "date": "06/08",
-          "actual": "6.48",
-          "forecast": "-",
-          "previous": "44.66"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-07-25 12:38:13"
-    },
-    {
       "id": "capital:1178348",
       "fid": "1178348",
       "interval": "this_week",
@@ -31620,6 +31678,180 @@
       "history_checked_at": "2026-07-19 00:01:00"
     },
     {
+      "id": "capital:1181559",
+      "fid": "1181559",
+      "interval": "this_week",
+      "date": "2026-07-28",
+      "time": "01:00",
+      "datetime": "2026-07-28 01:00:00",
+      "display_time": "07/28 01:00",
+      "country": "美國",
+      "title": "美國至7月27日3個月國債競拍-得標利率",
+      "importance": 1,
+      "previous": "3.73 %",
+      "forecast": "-- %",
+      "actual": "3.815 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181559",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/20",
+          "actual": "3.73",
+          "forecast": "-",
+          "previous": "3.76"
+        },
+        {
+          "date": "07/13",
+          "actual": "3.76",
+          "forecast": "-",
+          "previous": "3.74"
+        },
+        {
+          "date": "07/06",
+          "actual": "3.735",
+          "forecast": "-",
+          "previous": "3.74"
+        },
+        {
+          "date": "06/22",
+          "actual": "3.695",
+          "forecast": "-",
+          "previous": "3.64"
+        },
+        {
+          "date": "06/15",
+          "actual": "3.64",
+          "forecast": "-",
+          "previous": "3.64"
+        },
+        {
+          "date": "06/08",
+          "actual": "3.64",
+          "forecast": "-",
+          "previous": "3.63"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-28 01:20:44"
+    },
+    {
+      "id": "capital:1182415",
+      "fid": "1182415",
+      "interval": "this_week",
+      "date": "2026-07-28",
+      "time": "01:00",
+      "datetime": "2026-07-28 01:00:00",
+      "display_time": "07/28 01:00",
+      "country": "美國",
+      "title": "美國至7月27日3個月國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "73.01 %",
+      "forecast": "-- %",
+      "actual": "83.44 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182415",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/20",
+          "actual": "73.01",
+          "forecast": "-",
+          "previous": "8.47"
+        },
+        {
+          "date": "07/13",
+          "actual": "8.47",
+          "forecast": "-",
+          "previous": "93.49"
+        },
+        {
+          "date": "07/06",
+          "actual": "93.49",
+          "forecast": "-",
+          "previous": "85.81"
+        },
+        {
+          "date": "06/22",
+          "actual": "87.55",
+          "forecast": "-",
+          "previous": "25.15"
+        },
+        {
+          "date": "06/15",
+          "actual": "25.15",
+          "forecast": "-",
+          "previous": "6.48"
+        },
+        {
+          "date": "06/08",
+          "actual": "6.48",
+          "forecast": "-",
+          "previous": "44.66"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-07-25 12:38:13"
+    },
+    {
+      "id": "capital:1181560",
+      "fid": "1181560",
+      "interval": "this_week",
+      "date": "2026-07-28",
+      "time": "01:00",
+      "datetime": "2026-07-28 01:00:00",
+      "display_time": "07/28 01:00",
+      "country": "美國",
+      "title": "美國至7月27日3個月國債競拍-投標倍數",
+      "importance": 1,
+      "previous": "3",
+      "forecast": "--",
+      "actual": "3.06",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181560",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/20",
+          "actual": "3",
+          "forecast": "-",
+          "previous": "2.84"
+        },
+        {
+          "date": "07/13",
+          "actual": "2.84",
+          "forecast": "-",
+          "previous": "2.58"
+        },
+        {
+          "date": "07/06",
+          "actual": "2.58",
+          "forecast": "-",
+          "previous": "2.32"
+        },
+        {
+          "date": "06/22",
+          "actual": "2.68",
+          "forecast": "-",
+          "previous": "2.47"
+        },
+        {
+          "date": "06/15",
+          "actual": "2.47",
+          "forecast": "-",
+          "previous": "2.79"
+        },
+        {
+          "date": "06/08",
+          "actual": "2.79",
+          "forecast": "-",
+          "previous": "2.69"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-28 01:20:44"
+    },
+    {
       "id": "capital:1178353",
       "fid": "1178353",
       "interval": "this_week",
@@ -31632,7 +31864,7 @@
       "importance": 1,
       "previous": "4.2 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "4.408 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178353",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -31690,7 +31922,7 @@
       "importance": 1,
       "previous": "86.81 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "51.71 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178645",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -31748,8 +31980,8 @@
       "importance": 1,
       "previous": "2.35",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "2.28",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1178354",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [

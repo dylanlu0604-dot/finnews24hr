@@ -1,7 +1,77 @@
 {
   "date": "2026-07-28",
-  "count": 118,
+  "count": 125,
   "items": [
+    {
+      "id": "5010735",
+      "time": "2026-07-28 01:19:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：紐瓦克機場因人員短缺出現航班延誤。"
+    },
+    {
+      "id": "5010734",
+      "time": "2026-07-28 01:19:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍視察法國野火受災地區。"
+    },
+    {
+      "id": "mkt:019fa496-a3f8-7aab-8eb4-fd1ff6d234e3",
+      "time": "2026-07-28 01:19:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French President MACRON visits wildfire-affected area."
+    },
+    {
+      "id": "mkt:019fa496-8bdc-7aab-8eb4-f0136c65daca",
+      "time": "2026-07-28 01:19:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Fed accepted $1.38 billion from three counterparties in a fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "mkt:019fa496-8976-7aab-8eb4-ea8b5a3ce4c1",
+      "time": "2026-07-28 01:19:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Bahrain's state news agency condemned an attempted terrorist drone attack launched from Iraqi territory targeting oil facilities in Saudi Arabia."
+    },
+    {
+      "id": "mkt:019fa496-42eb-7aab-8eb4-e7a85e907c6c",
+      "time": "2026-07-28 01:18:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Strategic Petroleum Reserve crude stocks fell about 3.7 mln barrels last week to 307.7 mln barrels, the lowest level since 1983."
+    },
+    {
+      "id": "5010733",
+      "time": "2026-07-28 01:17:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週一（7月27日），美聯儲隔夜逆回購協議（RRP）使用規模為13.80億美元（交易對手3家），上個交易日報6.75億美元。"
+    },
     {
       "id": "5010732",
       "time": "2026-07-28 01:16:12",
