@@ -1,7 +1,117 @@
 {
-  "updated": "2026-07-27 08:07:09",
-  "count": 18005,
+  "updated": "2026-07-27 08:12:38",
+  "count": 18003,
   "items": [
+    {
+      "id": "5008875",
+      "time": "2026-07-27 08:10:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數日內轉跌，此前漲超1.7%。"
+    },
+    {
+      "id": "mkt:019fa0e8-3984-7aab-8e9d-da227aa450a3",
+      "time": "2026-07-27 08:10:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI slipped into negative territory intraday after earlier gains of more than 1.7%."
+    },
+    {
+      "id": "5008874",
+      "time": "2026-07-27 08:09:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲1.0%，報8,857.20點。"
+    },
+    {
+      "id": "5008873",
+      "time": "2026-07-27 08:09:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4110美元/盎司，日內漲0.96%。"
+    },
+    {
+      "id": "5008872",
+      "time": "2026-07-27 08:09:29",
+      "tags": [
+        "央行",
+        "公司",
+        "國際"
+      ],
+      "text": "【物價承壓，新加坡再度收緊貨幣政策】中東地緣衝突持續發酵，能源價格或將長期高企，通脹風險升溫。新加坡央行於週一推出新一輪貨幣緊縮政策，以此抵禦通脹上行壓力。新加坡金融管理局（MAS）不採用利率作為核心政策工具，而是以匯率調控為主要手段。該局公告稱，將小幅上調新元名義有效匯率政策區間的升值斜率，匯率區間的波動寬度與中心軸維持不變。媒體調研18位分析師中，僅4人預判金管局會調陡升值斜率，1人預測調整區間中心軸，剩餘13人均預計政策維持不變。新加坡金管局在宣告中表示：“未來一段時期，外部輸入性物價壓力或將持續，並更廣泛傳導至國內居民消費價格。”政策制定者當前多重權衡美伊衝突帶來的連鎖影響：一方面油價走高加劇通脹，另一方面衝突可能引發全球經濟放緩；同時人工智慧產業熱潮拉動出口增長，也為經濟提供支撐。新加坡上季度經濟同比增長5.7%，全年增速有望突破政府此前設定的2%–4%預期區間。與此同時，特朗普政府重啟加徵關稅，全球貿易不確定性再度升溫。上週五新加坡商品被加徵12.5%關稅，不過該國輸美核心電子產品與醫藥產品目前暫獲豁免。多重壓力之下，新加坡通脹雖有所抬頭，但今年整體仍相對溫和，上月通脹率為1.6%，低於金管局2%左右的中期通脹目標。新加坡金管局週一指出：“未來數個季度，新加坡進口成本或將持續上行。”"
+    },
+    {
+      "id": "5008871",
+      "time": "2026-07-27 08:09:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1279.50美元/盎司。"
+    },
+    {
+      "id": "5008870",
+      "time": "2026-07-27 08:08:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本最大化工企業信越化學股價下跌4.7%，因第一季度淨利潤不及分析師預期。"
+    },
+    {
+      "id": "5008869",
+      "time": "2026-07-27 08:08:31",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛對沖基金業務主管Tony Pasquariello：當前投機性多頭已被清洗，疊加央行購金重啟、金價多次在4000美元附近獲得支撐，當前是建立黃金結構性多頭頭寸的合適時機，黃金中期價格預測風險偏向上行。"
+    },
+    {
+      "id": "mkt:019fa0e6-ac8c-7aab-8e9d-d16d93262975",
+      "time": "2026-07-27 08:08:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "MAS says global AI-related capital expenditure will drive activity in Singapore's technology sectors."
+    },
+    {
+      "id": "5008868",
+      "time": "2026-07-27 08:07:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股股票回購一覽：4家公司披露回購進展】Wind資料顯示，7月27日，4家公司共釋出4個股票回購相關進展。其中，3家公司披露股票回購實施進展，1家公司回購方案已實施完畢。從回購實施進展來看，潤建股份、惠威科技、聯檢科技回購金額最高，分別回購6092.04萬元、253.42萬元、209.57萬元。從已完成回購來看，當日共1家公司回購金額超千萬。英科再生已完成回購金額最高，回購1429.05萬元。截至7月27日，今年以來已有848個回購方案已實施完畢，涉及682家公司，其中193家公司已完成回購金額超億元。其中順豐控股、京東方A、寧德時代回購金額居前，分別已完成回購59.99億元、57.03億元、43.86億元。"
+    },
+    {
+      "id": "5008867",
+      "time": "2026-07-27 08:07:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡金融管理局：目前預計2026年經濟正產出缺口將小幅擴大。"
+    },
+    {
+      "id": "5008866",
+      "time": "2026-07-27 08:07:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南：穩步擴大服務業制度型開放】近日，海南省政府辦公廳印發《海南省“十五五”服務業發展規劃》（以下簡稱《規劃》）。 根據《規劃》，“十五五”期間，海南聚焦生產性服務業重點領域，分層分類推動服務業發展，打造內外聯通、安全高效、智慧綠色的綜合交通運輸體系。暢通資料和資本要素雙向迴圈，推動跨境資料安全有序流動，提升金融對外開放能級。 《規劃》提出，穩步擴大服務業制度型開放，紮實推進服務業擴大開放綜合試點。加強政策協同和資源整合，著力破除制約數字經濟、跨境金融、航運服務、離岸貿易等重點服務業領域發展的體制機制障礙。用足用好自貿港稅收優惠政策，重點支援現代物流、資訊科技、會展商務、文化創意等服務業領域。（海南日報）"
+    },
     {
       "id": "5008865",
       "time": "2026-07-27 08:06:21",
@@ -9,6 +119,14 @@
         "其他"
       ],
       "text": "新加坡金管局：新加坡經濟在2026年下半年應繼續以穩健步伐增長。"
+    },
+    {
+      "id": "5008864",
+      "time": "2026-07-27 08:06:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南：島內居民日用消費品免稅店將實現市縣全覆蓋】近日，海南省政府辦公廳印發《海南省“十五五”服務業發展規劃》（以下簡稱《規劃》），提出深入實施服務業擴能提質行動，圍繞居民日常生活需要、對高品質生活的追求、多樣化消費需求、研發設計專業化和高階化、生產環節價值提升、市場價值實現等六個重點，加快構建現代服務業體系，塑造具有國際競爭力的“海南服務”品牌。 《規劃》提出，“十五五”期間，海南服務業規模實力邁上新臺階，結構更加最佳化，區域佈局更加合理，形成有影響力的制度創新，服務業增加值年均增速保持在6％以上，到2030年佔地區生產總值的比重維持61％左右，保持經濟主引擎地位。 在促進生活性服務業發展方面，《規劃》提出，建設高水平國際健康島、國際教育創新島和宜居宜業的高品質生活社群，吸引新經濟新業態群體來瓊生活工作。構建零售業新模式，夯實免稅消費基礎，島內居民日用消費品免稅店實現各市縣全覆蓋，支援開設跨境電商線上線下體驗店，構建“離島免稅＋島內居民日消品免稅＋跨境電商”多層次消費供給。"
     },
     {
       "id": "5008863",
@@ -164804,143 +164922,6 @@
         "焦點"
       ],
       "text": "比特幣升破65000美元，日內漲0.50%。"
-    },
-    {
-      "id": "mkt:019f7cdd-c2e5-7aab-8dfc-a86f5bad149e",
-      "time": "2026-07-20 08:12:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "South Korea's KOSPI index trimmed losses to below 1% after tumbling over 4% at the open."
-    },
-    {
-      "id": "4996437",
-      "time": "2026-07-20 08:11:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國首爾綜指跌幅收窄至1.3%，稍早一度跌超4%。"
-    },
-    {
-      "id": "4996436",
-      "time": "2026-07-20 08:10:34",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "SK海力士轉漲，此前跌超5%；三星電子接近抹平跌幅。"
-    },
-    {
-      "id": "mkt:019f7cdc-2c6e-7aab-8dfc-a3dd9ce799dd",
-      "time": "2026-07-20 08:10:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bullish",
-        "005930.KS",
-        "Impact mixed"
-      ],
-      "text": "SK Hynix shares turned positive after earlier falling more than 5%; Samsung Electronics shares nearly erased losses."
-    },
-    {
-      "id": "mkt:019f7cdb-e2c4-7aab-8dfc-9c780b87ef2a",
-      "time": "2026-07-20 08:10:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 opened up 38.00 points (0.43%) at 8,834.70 on Monday, July 20."
-    },
-    {
-      "id": "4996435",
-      "time": "2026-07-20 08:10:04",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：科技行情尚未終結】中信建投證券研報指出，科技行情是否結束了？這是當下市場最關注的話題。覆盤歷史經驗，科技是否迎來“泡沫崩潰”，取決於三點，第一，科技的產業趨勢是否真的終結；第二，流動性是否到了非緊不可的地步；第三，傳統增長是否迎來反轉。如果不是，尚不能認為科技終結。當下對科技行情的討論和5月份對美伊衝突的關注一樣。中信建投的觀點沒有變化，全球當下正在經歷一輪供給側，科技尚未終結，地緣也是。配置上建議聚焦半年報業績確定性較強的方向，重點關注三條景氣線索：一是AI硬體上游半導體裝置、材料等核心環節，業績兌現確定性高；二是工業金屬、化工材料等週期品，兼具AI需求拉動與產能約束，盈利彈性有望釋放；三是出海優勢突出的高階製造，出口韌性支撐業績增長。"
-    },
-    {
-      "id": "te:markets:568017",
-      "time": "2026-07-20 08:09:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Flat to Start the Week — US stock futures were little changed on Monday as investors awaited fresh market catalysts this week, with the major indexes coming off a losing week after a sharp selloff in semiconductor stocks. Last week, the Nasdaq Composite fell 2.9%, while the S&P 500 and Dow Jones lost 1.55% and 0.93%, respectively. The VanEck Semiconductor ETF tumbled nearly 9%, marking its third weekly decline in the past four weeks. Investors also continued to monitor escalating hostilities between the US and Iran, which pushed oil prices higher and heightened concerns over inflation and the potential for interest rate hikes. Iran said its ceasefire with the US had effectively collapsed, while the US military reported the death of a third service member in the past two days. Market participants are now turning their attention to a new wave of corporate earnings this week, including results from Alphabet, Tesla, and Intel."
-    },
-    {
-      "id": "mkt:019f7cda-f463-7aab-8dfc-9334adbc6dc0",
-      "time": "2026-07-20 08:09:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli military said alerts that sounded earlier in Kfar Aza and Sa'ad were confirmed to be false alarms."
-    },
-    {
-      "id": "4996434",
-      "time": "2026-07-20 08:08:54",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：看好目前處於低位的內需高壓裝置龍頭迎來拐點】中信證券研報稱，國家電網新一代電子商務平臺資料顯示，近日國網相繼開啟2026年特高壓專案第三次裝置招標、輸變電專案第三次變電裝置（含電纜）招標的中標候選人公示。特高壓年內前三批採購金額已超2025年全年，高壓預計也將在主網架建設的景氣度拉動下維持高位。看好目前處於低位的內需高壓裝置龍頭迎來拐點。"
-    },
-    {
-      "id": "mkt:019f7cda-8cd8-7aab-8dfc-887caa576a12",
-      "time": "2026-07-20 08:08:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian media Fars News reported explosions heard in southern Hormozgan and Bushehr provinces."
-    },
-    {
-      "id": "4996433",
-      "time": "2026-07-20 08:08:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【加拿大實施新入境限制措施 嚴防埃博拉疫情輸入 】加拿大公共衛生局19日發表宣告，宣佈實施新的臨時入境限制措施，以降低埃博拉病毒傳入加拿大並在加境內傳播的風險。宣告稱，自加東時間20日23時59分起，過去21天內到訪過剛果（金）的任何外國公民將被禁止入境加拿大。同時，加政府根據相關航空法要求航空公司不得允許此類外國公民登機前往加拿大。加拿大公共衛生局表示，目前埃博拉疫情對加拿大人的健康風險仍處於較低水平，且加境內迄今尚未報告過相關旅行輸入病例，臨時入境措施完全是出於謹慎考量。"
-    },
-    {
-      "id": "mkt:019f7cda-1a88-7aab-8dfc-84cbc2da0a5d",
-      "time": "2026-07-20 08:08:16",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Air-raid sirens sound in southern Israel near Gaza】The Israeli military said early on July 20 local time air-raid sirens sounded in Kfar Aza and Sa'ad in southern Israel. The cause is unclear; both locations are adjacent to the Gaza Strip."
-    },
-    {
-      "id": "4996432",
-      "time": "2026-07-20 08:08:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方表示，不久前卡法阿扎和薩阿德地區拉響了警報，事後確認這是誤報。"
-    },
-    {
-      "id": "4996431",
-      "time": "2026-07-20 08:07:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列南部拉響防空警報 】以色列軍方稱，當地時間今天（7月20日）凌晨，以色列南部克法爾阿扎和薩阿德地區響起防空警報。目前具體原因不明。據悉，這兩處地區均緊鄰巴勒斯坦加沙地帶。"
-    },
-    {
-      "id": "4996430",
-      "time": "2026-07-20 08:07:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "據美聯社報道，英國軍方稱一艘船隻在阿曼海岸附近的霍爾木茲海峽起火。"
     }
   ]
 }
