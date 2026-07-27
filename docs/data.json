@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-28 04:21:47",
-  "count": 17833,
+  "updated": "2026-07-28 04:25:39",
+  "count": 17829,
   "items": [
+    {
+      "id": "5010837",
+      "time": "2026-07-28 04:24:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【BuzzFeed啟動重組，裁員約35%】美國知名數字新媒體平臺BuzzFeed董事會已於7月22日批准裁員重組方案，計劃在全球各地區、各業務線裁減約35%全職員工及專屬外包人員，以此壓縮運營成本。本次重組相關費用預估650萬至850萬美元，主要計入第三季度財報；該公司預計從三季度起，每年可節省約2900萬至3200萬美元開支；絕大部分重組支出為現金支出，預計在第四季度末完成兌付；此次裁員旨在推動企業實現盈利、創造正向現金流。"
+    },
+    {
+      "id": "te:markets:570181",
+      "time": "2026-07-28 04:24:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Closes at Record High — The S&P/TSX Composite Index rose 0.6% to a record close of 35,568 on Monday as oil prices tumbled following a pause in hostilities between the US and Iran. Crude prices fell after both countries halted strikes over the weekend amid renewed diplomatic efforts, with President Trump reportedly open to restarting peace talks. The decline in oil prices eased energy-driven inflation concerns, pushing Canadian bond yields lower and supporting financials. CIBC gained 0.8% and Brookfield advanced 1.1%. Gold prices rose as lower US Treasury yields boosted demand for the metal, lifting miners. Agnico Eagle and WPM gained 0.6%, while Barrick added 0.8%. Cameco climbed 1.8% after UBS upgraded the stock to Buy. Technology stocks rallied, with Shopify soaring 11.6%, Constellation Software rising 6.4%, and Celestica gaining 4.5%. Shopify jumped after RBC said the company's software has \"great defensibility\" against AI-driven disruption. Celestica is scheduled to report earnings after the closing bell."
+    },
+    {
+      "id": "5010836",
+      "time": "2026-07-28 04:22:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普政府AI自願監管框架即將落地】知情人士透露，特朗普政府即將敲定一套自願性AI監管框架，要求人工智慧企業在向公眾釋出頂尖前沿模型前，先將模型提交政府稽核。知情人士稱，白宮國家網路總監辦公室約兩週前已向OpenAI、Anthropic、谷歌三家企業分發框架草案，三家企業也聯合提交了修改意見。特朗普總統6月初簽署AI相關行政令，要求8月1日前完成這套監管框架制定。該框架旨在建立標準化流程，管控具備快速挖掘網路漏洞能力的新一代高算力AI模型。"
+    },
     {
       "id": "5010835",
       "time": "2026-07-28 04:17:56",
@@ -163462,67 +163492,6 @@
         "DXY"
       ],
       "text": "Mehr news agency reports sounds of air-defence systems heard near Iran's Bushehr nuclear power plant."
-    },
-    {
-      "id": "4998466",
-      "time": "2026-07-21 04:25:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "邁赫爾通訊社訊息：布什爾核電站周邊伊朗防空系統已啟動。"
-    },
-    {
-      "id": "mkt:019f8134-0379-7aab-8e14-de1e7893687f",
-      "time": "2026-07-21 04:24:57",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【US officials: Iran strikes this month injured nearly 100 US service members】US officials said on July 20 that multiple Iranian strikes on US bases in the Middle East this month have injured nearly 100 US service members. Pentagon chief spokesman Sean Parnell said that since July 7 nearly 100 personnel have been identified with varying injuries; 96% have returned to duty. He said the vast majority suffered mild concussions and are actively returning to combat roles."
-    },
-    {
-      "id": "4998465",
-      "time": "2026-07-21 04:24:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美官員：本月伊朗襲擊已致近100名美軍人員受傷】當地時間20日獲悉，美國官員表示，本月伊朗針對中東地區美軍基地發動的多次空襲已造成近100名美軍人員受傷。美國國防部首席發言人肖恩·帕內爾證實，自7月7日以來，近100名美軍人員被認定受到不同程度傷害，其中96%已經返回崗位。帕內爾稱，絕大多數傷勢為輕微腦震盪，相關人員“正積極重返戰鬥崗位”。（央視）"
-    },
-    {
-      "id": "mkt:019f8133-e0cb-7aab-8e14-d399190a4e50",
-      "time": "2026-07-21 04:24:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Explosions heard at Iran's Bandar Abbas port, Iranian state television reported."
-    },
-    {
-      "id": "4998464",
-      "time": "2026-07-21 04:24:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【貝萊德擬發逾120億美元債券 為Meta得州資料中心提供融資】最新訊息顯示，貝萊德正計劃發行超過120億美元債券，為Meta位於美國得州埃爾帕索的資料中心園區提供融資。這是近期一系列為科技公司大規模人工智慧（AI）投資提供資金支援的債務融資交易中的最新一筆。"
-    },
-    {
-      "id": "4998463",
-      "time": "2026-07-21 04:24:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺稱阿巴斯港傳來爆炸聲。"
-    },
-    {
-      "id": "4998462",
-      "time": "2026-07-21 04:22:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門宣佈恢復石油出口】當地時間7月20日，葉門總統領導委員會主席拉沙德·穆罕默德·阿里米宣佈，葉門將自當天起恢復石油出口，並將石油收入用於發放工資、改善公共服務、促進經濟穩定，確保國家資源惠及全體人民。宣告中，阿里米表示政府將採取一切必要措施恢復石油出口，維護經濟穩定。此外，阿里米在宣告中指責胡塞武裝將葉門捲入地區衝突，並再次呼籲胡塞武裝控制地區民眾支援國家建設。2022年10月，胡塞武裝連續襲擊葉門政府控制區石油出口港口和相關設施，導致葉門原油出口中斷，政府財政收入受到嚴重影響。（央視新聞）"
     }
   ]
 }
