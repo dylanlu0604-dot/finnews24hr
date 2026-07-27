@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-28 02:01:48",
-  "count": 17795,
+  "updated": "2026-07-28 02:05:35",
+  "count": 17796,
   "items": [
+    {
+      "id": "mkt:019fa4be-8c8a-7aab-8eb5-83b292f446bf",
+      "time": "2026-07-28 02:02:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran deputy foreign minister said investigations into US crimes will continue even if they take 15 years."
+    },
+    {
+      "id": "mkt:019fa4be-7890-7aab-8eb5-78a401c5757a",
+      "time": "2026-07-28 02:02:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Romania will take protective measures to shut one nuclear reactor because Danube water levels are too low."
+    },
+    {
+      "id": "5010753",
+      "time": "2026-07-28 02:01:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌、微軟表示兩家公司發現的軟體漏洞數量創下歷史新高。"
+    },
     {
       "id": "mkt:019fa4bc-051b-7aab-8eb5-734318e3d1b9",
       "time": "2026-07-28 02:00:13",
@@ -163172,27 +163198,6 @@
         "DXY"
       ],
       "text": "According to TASNIM NEWS, Israeli media report explosions heard in Eilat, a southern Israeli port city."
-    },
-    {
-      "id": "mkt:019f80b3-3849-7aab-8e13-8830473c03f6",
-      "time": "2026-07-21 02:04:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "TASNIM NEWS reports explosions heard in Jordan."
-    },
-    {
-      "id": "4998403",
-      "time": "2026-07-21 02:03:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "約旦拉響防空警報。"
     }
   ]
 }
