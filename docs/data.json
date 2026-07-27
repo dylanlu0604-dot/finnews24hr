@@ -1,7 +1,181 @@
 {
-  "updated": "2026-07-27 12:58:52",
-  "count": 17916,
+  "updated": "2026-07-27 13:03:11",
+  "count": 17928,
   "items": [
+    {
+      "id": "mkt:019fa1f3-9736-7aab-8ea3-12c0192ae59c",
+      "time": "2026-07-27 13:02:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's cabinet secretary urged market participants to remain calm during Bank Indonesia's leadership transition."
+    },
+    {
+      "id": "5009348",
+      "time": "2026-07-27 13:01:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼內閣秘書宣告：敦促市場參與者在印尼央行領導層過渡期間保持冷靜。"
+    },
+    {
+      "id": "mkt:019fa1f3-12cd-7aab-8ea3-0e77e4422fe2",
+      "time": "2026-07-27 13:01:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan leading index, May final MoM +0.4% (prior +0.7%)."
+    },
+    {
+      "id": "mkt:019fa1f2-f9a6-7aab-8ea3-0682da99f363",
+      "time": "2026-07-27 13:01:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Leading Index Final (MoM) (May) | actual 0.4% | previous 0.7%"
+    },
+    {
+      "id": "mkt:019fa1f2-b9d9-7aab-8ea2-fe23b05e3353",
+      "time": "2026-07-27 13:01:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan May coincident index (final) 117.9, down from 118.5 prior."
+    },
+    {
+      "id": "mkt:019fa1f2-ab8b-7aab-8ea2-f19690a77dea",
+      "time": "2026-07-27 13:01:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan May leading index (final) 116.5; prior 116.8."
+    },
+    {
+      "id": "mkt:019fa1f2-a163-7aab-8ea2-e8f93d703480",
+      "time": "2026-07-27 13:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Coincident Index Final (May) | actual 117.9 | previous 118.5"
+    },
+    {
+      "id": "mkt:019fa1f2-952b-7aab-8ea2-e16ff946a9af",
+      "time": "2026-07-27 13:00:57",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Leading Index Final (May) | actual 116.5 | previous 116.8"
+    },
+    {
+      "id": "mkt:019fa1f2-71a2-7aab-8ea2-dd4e59daf4ca",
+      "time": "2026-07-27 13:00:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan May coincident index (final) MoM -0.2%; prior +0.4%."
+    },
+    {
+      "id": "mkt:019fa1f2-5a87-7aab-8ea2-d39988abf819",
+      "time": "2026-07-27 13:00:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Coincident Index Final (MoM) (May) | actual -0.2% | previous 0.4%"
+    },
+    {
+      "id": "5009347",
+      "time": "2026-07-27 13:00:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本5月領先指標終值 116.5，初值 116.8。日本5月同步指標終值 117.9，初值 118.5。"
+    },
+    {
+      "id": "mkt:019fa1f1-d887-7aab-8ea2-cbb03b9ac54f",
+      "time": "2026-07-27 13:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore June seasonally adjusted industrial production MoM -7.2% (consensus -1.0%); prior reading revised from -0.7% to 6.9%."
+    },
+    {
+      "id": "mkt:019fa1f1-d258-7aab-8ea2-c744ba809847",
+      "time": "2026-07-27 13:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore June industrial production YoY 7.2% (consensus 11.0%); prior revised from 13.0% to 17.8%."
+    },
+    {
+      "id": "mkt:019fa1f1-b6e4-7aab-8ea2-bdc04a3601b4",
+      "time": "2026-07-27 13:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Singapore | Industrial Production (YoY) (Jun) | actual 7.2% | consensus 11% | previous 13.00%"
+    },
+    {
+      "id": "mkt:019fa1f1-b6d8-7aab-8ea2-b2c4010fac82",
+      "time": "2026-07-27 13:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Singapore | Industrial Production Index SA (MoM) (Jun) | actual -7.2% | consensus -1% | previous -0.70%"
+    },
+    {
+      "id": "5009346",
+      "time": "2026-07-27 12:59:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【碧桂園2.22元每股賣飛長鑫科技（現價54.65元） 痛失470億】有股東沒能“把持”長鑫科技，提早出局，與這場資本盛宴失之交臂。2024年12月，匯碧五號(碧桂園創投關聯方)將其持有的長鑫科技1.56%的股份以20億元的價格轉讓給合肥建長，轉讓價格為2.22元/股。該轉讓價格約為發行價的四分之一，為開盤價的4.5%。按午盤價計算，匯碧五號錯失了超470億元的浮盈。（中新經緯）"
+    },
+    {
+      "id": "5009345",
+      "time": "2026-07-27 12:59:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紅霞已離開廣東進入湖南 27日梅州轉陣雨為主，28日東南部有暴雨】據 梅州市氣象局訊息，今天（27日）凌晨“紅霞”已離開廣東進入湖南。 今年第12號颱風“紅霞”已於昨天（26日）夜間減弱為熱帶低壓，並於今天（27日）凌晨移入湖南境內，早晨5點鐘其中心位於湖南省永興縣境內，就是北緯26.3度、東經113.4度，外圍最大風力有7級（15米/秒），中心最低氣壓為1000百帕。預計，“紅霞”將以每小時10-15公里左右的速度向北偏西方向移動，強度繼續減弱。（梅州釋出）"
+    },
+    {
+      "id": "5009344",
+      "time": "2026-07-27 12:58:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里上線享造Agent 聚焦AI原生柔性定製】阿里享造Agent目前已上線App和PC端。記者從知情人士處獲悉，“享造Agent”是阿里巴巴1688最新打造的AI原生柔性定製服務產品，目前仍處於早期探索階段，致力於將AI智慧體嵌入製造供應鏈中。目前在工藝能力方面，已支援印刷和3D列印，品類覆蓋包裝、紡織服裝、文創等20多個細分輕定製品類，覆蓋線下門店的物料全案定製、企業文化物料定製、會展物料定製、二次元與應援定製、3D印花和立體模具定製等場景。（科創板日報）"
+    },
     {
       "id": "5009343",
       "time": "2026-07-27 12:57:09",
@@ -164118,60 +164292,6 @@
         "Impact bullish"
       ],
       "text": "ChinaSoft International (00354.HK) shares surge over 30% in Hong Kong trading."
-    },
-    {
-      "id": "4996982",
-      "time": "2026-07-20 13:02:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "長治市應急管理局黨委書記、局長張文波接受省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4996981",
-      "time": "2026-07-20 13:02:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "中國軟體國際持續拉昇，漲幅一度擴大至29%。"
-    },
-    {
-      "id": "4996980",
-      "time": "2026-07-20 13:00:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國軟體國際午後漲超20％。公司與北京月之暗面科技有限公司正式簽署“登月計劃”之Token分成及聯合創新合作協議。"
-    },
-    {
-      "id": "mkt:019f7de5-afe1-7aab-8e01-c5679fe92f8f",
-      "time": "2026-07-20 13:00:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "00354.HK",
-        "Impact bullish"
-      ],
-      "text": "China Software International (00354.HK) rose more than 20% in afternoon trade after signing a token revenue-sharing and joint innovation cooperation agreement under the “Lunar Project” with Beijing Moonshot AI Technology Co., Ltd."
-    },
-    {
-      "id": "4996979",
-      "time": "2026-07-20 13:00:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞安航空第一季度稅後利潤為5.38億歐元，低於預期的6.235億歐元。"
-    },
-    {
-      "id": "4996978",
-      "time": "2026-07-20 13:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲1.23%，現報3470.745點；上證指數漲1.18%，現報3808.389點；深證成指漲0.24%，現報13739.226點。"
     }
   ]
 }
