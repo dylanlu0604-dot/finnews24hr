@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-27 22:09:31",
-  "count": 17773,
+  "updated": "2026-07-27 22:13:25",
+  "count": 17771,
   "items": [
+    {
+      "id": "mkt:019fa3eb-7b7a-7aab-8eb0-fb331166e456",
+      "time": "2026-07-27 22:12:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry reiterated full support for all measures taken by Saudi Arabia to safeguard its sovereignty and security."
+    },
+    {
+      "id": "5010565",
+      "time": "2026-07-27 22:11:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特稱摧毀數架來自伊拉克方向的無人機】沙烏地阿拉伯國防部27日發表宣告說，沙特防空部隊當天攔截並摧毀了數架來自伊拉克方向、企圖襲擊沙特境內石油設施的無人機。沙特國防部發言人圖爾基·馬利基說，沙特防空部隊在過去數小時內攔截並摧毀數架無人機。這些無人機自伊拉克境內發射，試圖襲擊沙特東部地區和首都利雅得的石油設施。馬利基表示，沙特擁有維護國家安全、保衛自身及國家能力的合法權利，並保留在適當時間和地點作出回應的權利。沙特外交部同日發表宣告，對本國遭遇無人機襲擊表示“最強烈譴責”，並敦促伊拉克政府採取措施，防止其領土被用於發動針對沙特的襲擊。（新華社）"
+    },
+    {
+      "id": "5010564",
+      "time": "2026-07-27 22:11:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：我們強烈譴責從伊拉克領土發射無人機企圖襲擊沙特石油設施的企圖。"
+    },
+    {
+      "id": "5010563",
+      "time": "2026-07-27 22:10:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【SpaceX股價跌超4%】SpaceX股價跌超4%，創歷史新低。"
+    },
+    {
+      "id": "5010562",
+      "time": "2026-07-27 22:10:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "海南省氣象臺2026年07月27日22時10分發布海上雷雨大風黃色預警訊號：受對流雲團影響，北部灣南部海面27日22時10分到28日05時可能出現雷雨大風天氣，風力達7～9級並伴有強雷電，建議有關單位和人員做好防範工作。(海南氣象）"
+    },
+    {
+      "id": "5010561",
+      "time": "2026-07-27 22:09:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【L2級組合駕駛輔助功能乘用車滲透率達70.5%】工業和資訊化部裝備工業一司司長郭守剛27日介紹，今年以來，L2級組合駕駛輔助功能乘用車滲透率達到70.5%，領航駕駛輔助（NOA）功能乘用車滲透率達到34.2%，首批L3級有條件自動駕駛車型開始在特定區域上路通行。2026世界智慧網聯汽車大會媒體圓桌會當天在北京召開。郭守剛說，近年來，我國不斷完善智慧網聯汽車政策法規和標準體系，加快推進技術創新、產品准入、示範應用和產業生態建設，推動智慧網聯汽車產業發展取得積極成效，在全球範圍內形成一定優勢。據介紹，大算力智駕晶片、艙駕融合晶片加快迭代升級，高效能鐳射雷達、智慧線控底盤等核心零部件批次裝車，中央集中式電子電氣架構正加速從研發走向量產應用。全國各地累計發放測試示範牌照超過2萬張，開放測試示範道路超5.7萬公里，累計測試超過2.2億公里；20個“車路雲一體化”應用試點城市部署各類智慧化裝置超6萬套，服務各類車輛超過10萬臺。（新華社）"
+    },
+    {
+      "id": "mkt:019fa3e8-b89b-7aab-8eb0-f718ac31bdb4",
+      "time": "2026-07-27 22:09:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry of Emergency Management orders sectoral safety crackdown in mines, fire protection, hazardous chemicals, fireworks and industrial-commercial sectors】On July 27 the Ministry of Emergency Management held party and administrative meetings, instructing strengthened monitoring and warnings for the aftermath of Typhoon Hongxia and intensified measures to prevent casualties from localized extreme heavy rainfall. It ordered reinforced flood-control work during the key July–early August period, requiring local authorities to pre-position personnel, supplies and equipment in high-risk areas for rapid response and effective incident handling. The ministry said it will conduct central safety-production assessments in Q3, using both announced and unannounced inspections, and urged local governments and relevant departments to strictly fulfil responsibilities, carry out targeted rectifications in mines, fire safety, hazardous chemicals, fireworks and industrial-commercial sectors, and strengthen risk assessment and deployment to firmly stabilise the safety-production situation."
+    },
     {
       "id": "mkt:019fa3e8-4e0e-7aab-8eb0-eae830d148b0",
       "time": "2026-07-27 22:08:58",
@@ -162758,90 +162814,6 @@
         "其他"
       ],
       "text": "上海市氣象臺2026年07月20日22時07分更新中心城區暴雨黃色預警訊號為暴雨藍色預警訊號：預計今天半夜以前，中心城區大部仍將出現一小時雨量30-40毫米的短時強降水天氣，暴雨黃色預警訊號更新為暴雨藍色預警訊號，請注意防範強降雨可能引發的城市積澇。（上海天氣）"
-    },
-    {
-      "id": "mkt:019f7fdf-c4d4-7aab-8e0f-c83ed15bfd99",
-      "time": "2026-07-20 22:13:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "British political reports say Andy Burnham has just had his first call with US President Trump since assuming office as prime minister."
-    },
-    {
-      "id": "4998224",
-      "time": "2026-07-20 22:12:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美請求在保加利亞部署加油機以支援中東戰事】保加利亞總理拉德夫20日稱，保加利亞政府已收到美國在保加利亞貝茲梅爾空軍基地部署至多8架加油機的請求，將提請議會批准。 拉德夫表示，政府17日收到美方此項旨在支援其中東軍事行動的請求。美方援引了2006年簽署的兩國政府間防務合作協議。該協議允許美軍使用貝茲梅爾空軍基地等保境內基地。 拉德夫說，儘管美方緊急提出部署請求，但保政府尚未批准，因為根據保加利亞法律，須由議會作出此類決定。政府將向議會提議允許這些加油機部署在貝茲梅爾空軍基地。 拉德夫說，美軍加油機今年2月部署在索非亞機場，保加利亞時任政府繞過議會對此予以許可。隨後，看守內閣延長了美方加油機的駐留時間。5月底，由於美方在保加利亞公民入境美國簽證問題上未給予保方想要的積極回應，拉德夫領導的新政府將授權期限縮短至6月30日。美軍軍機於6月底撤離。（新華社）"
-    },
-    {
-      "id": "mkt:019f7fde-6cc5-7aab-8e0f-c7f2755d3b78",
-      "time": "2026-07-20 22:11:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【KPMG: Canada's energy-cost pass-through to consumer prices not yet evident】KPMG Canada chief economist Ali Jaffery said June CPI shows limited evidence that rising energy costs have transmitted to food and other goods. Headline inflation slowed to 2.8% in June from 3.2% in May. Jaffery noted academic literature suggests such pass-through can take a year or more to peak, so the slow start is encouraging, and said concerns that higher energy prices combined with U.S. tariffs are accelerating goods inflation are not borne out. Excluding travel services the CPI basket shows \"considerable weakness\"; travel services rose in June amid World Cup matches in Toronto and Vancouver."
-    },
-    {
-      "id": "te:markets:568266",
-      "time": "2026-07-20 22:11:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Dollar Steady on Monday — The dollar index hovered around 101 on Monday, as investors continued to assess developments in the Middle East and their implications for the economic and monetary policy outlook. Tensions between the US and Iran escalated over the weekend, sending oil prices to six-week highs before they pared most of their gains following comments from Iran's foreign ministry indicating that negotiations with the US could continue if the country's national interests are respected. Last week, both CPI and PPI reports came in softer than expected, but the recent surge in oil prices has raised concerns that the disinflation trend could stall. Markets continue to price in one Fed rate hike this year, with the probability of a September move remaining above 60%. Meanwhile, Fed officials have entered the blackout period ahead of next week's FOMC meeting, where policymakers are widely expected to leave the federal funds rate unchanged."
-    },
-    {
-      "id": "4998223",
-      "time": "2026-07-20 22:11:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長盈精密：與宇樹科技不存在股權關係】長盈精密7月20日在互動平臺表示，公司與宇樹科技不存在股權關係。"
-    },
-    {
-      "id": "mkt:019f7fdd-a844-7aab-8e0f-b85a23cd0dc6",
-      "time": "2026-07-20 22:11:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "USGS: A magnitude 6.4 earthquake occurred about 86 km WSW of San Agustín, Chiapas, Mexico."
-    },
-    {
-      "id": "4998222",
-      "time": "2026-07-20 22:09:57",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【北京召開全市半年工作會議，尹力劃出重點任務】7月20日上午，全市半年工作會議召開。市委書記尹力主持會議並講話，強調，要深入貫徹習近平總書記考察北京重要講話精神和黨中央決策部署，慎終如始抓好樹立和踐行正確政績觀學習教育，精準務實推動經濟社會發展，確保完成全年目標任務，努力爭取“十五五”開好局、起好步。市委副書記、市長殷勇，市人大常委會主任李秀領出席。尹力強調，我市經濟增長基礎紮實、韌性強，有基礎、有條件進一步鞏固穩中有進的良好態勢。要發揮教育科技人才優勢，推進北京（京津冀）國際科技創新中心建設，深入實施“人工智慧+”行動，加快建設體現北京特色的現代化產業體系，發展壯大積體電路、機器人、量子科技、商業航天、醫藥健康等產業，深化北交所改革，壯大耐心資本，加快促進新的增長點織鏈成群。紮實推動重點產業和傳統產業提質增效，穩住經濟基本盤。緊抓數字經濟、綠色經濟“雙標杆”城市建設，積極推進數字產業化和產業數字化，打造更多智慧工廠、零碳工廠，同時支援小微企業數字化轉型。出臺促進服務業擴能提質政策，提升服務業整體發展水平。著力促消費擴投資，豐富夜間、濱水休閒等消費場景，辦好中網、WTT等品牌賽事和百花獎、北京文化論壇等文化活動，促進文商旅體展融合發展。加快城市更新，抓好“3個100”重點工程、“十五五”重大專案進度和要素保障，挖掘超大城市內需潛力。加強京津冀協作，深入實施現代化首都都市圈空間協同規劃，堅定不移疏解非首都功能，強化協同創新和產業協作，抓好“六鏈七群”落地，拓展三地協同發展深度廣度。持續最佳化營商環境，堅持抓大穩小，全面做好各類企業服務，激發企業發展活力。辦好服貿會、金融街論壇等活動，透過活動招商引資、促進發展。（北京日報）"
-    },
-    {
-      "id": "mkt:019f7fdc-a772-7aab-8e0f-b4cce0eb4a8f",
-      "time": "2026-07-20 22:09:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Jupiter Asset Management said weak UK economic growth could eventually allow the Bank of England to cut rates."
-    },
-    {
-      "id": "mkt:019f7fdc-5942-7aab-8e0f-ae296c6735d8",
-      "time": "2026-07-20 22:09:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jupiter Asset Management said it is particularly bullish on 5-year UK government bonds."
     }
   ]
 }
