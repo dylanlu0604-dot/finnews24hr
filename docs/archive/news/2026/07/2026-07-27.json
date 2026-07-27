@@ -1,7 +1,95 @@
 {
   "date": "2026-07-27",
-  "count": 2489,
+  "count": 2498,
   "items": [
+    {
+      "id": "5010578",
+      "time": "2026-07-27 22:20:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【MAIRE旗下子公司獲授阿根廷價值13億歐元大型化肥綜合體專案合同】7月27日，MAIRE宣佈，其子公司Tecnimont（綜合工程與建設解決方案）已獲得Fértil Pampa S.A.U.（Pampa Energia S.A.的全資子公司）授予的阿根廷大型化肥綜合體專案合同。該專案基於NextChem尿素技術，總價值13億歐元，其中1.4億歐元涵蓋尿素許可、工藝設計包、專有裝置及合成氣轉化爐供應。該設施預計在41個月內完工，包括一座大型氨廠和兩條並行的超低能耗（ULE）尿素生產線，每條生產線均配備獨立的造粒裝置，合計日產能為6000公噸（年產210萬噸），按產量計算將成為拉丁美洲最大的尿素工廠。"
+    },
+    {
+      "id": "mkt:019fa3f2-7b38-7aab-8eb1-125f3030e162",
+      "time": "2026-07-27 22:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Dallas Fed business activity index for July due in 10 minutes."
+    },
+    {
+      "id": "5010577",
+      "time": "2026-07-27 22:19:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【7月27日增減持彙總】7月27日盤後，據不完全統計，賽分科技、財達證券、彩客科技等3家A股公司披露擬減持情況；ST中珠、中晟高科、索寶蛋白等披露擬增持情況。"
+    },
+    {
+      "id": "5010576",
+      "time": "2026-07-27 22:18:45",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美銀：美股二季度財報季開局強勁 盈利超預期率創2021年來新高】美國銀行證券股票及量化策略師薩維塔·蘇布拉馬尼安（Savita Subramanian）在7月27日釋出的最新備忘錄中指出，隨著第二季度財報季火熱開局，標普500指數成分股公司的業績表現超出預期，整體盈利增速創下多年來的新高。資料顯示，在目前已公佈業績的標普500指數成分股中，高達80%的企業每股收益（EPS）超出市場預期。蘇布拉馬尼安表示，這是自2021年以來同期業績超預期比例最高的一次。目前，標普500指數成分股的每股收益同比增長率已達24%，較7月1日的統計水平進一步提升了2個百分點。隨著更多企業陸續披露財報，預計該指數整體的每股收益同比增長率將進一步攀升至28%。在企業盈利指引方面，市場同樣釋放出積極訊號。7月份以來，企業釋出的每股收益指引高於市場普遍預期的數量，是低於預期數量的1.3倍，這一比例顯著高於7月份的歷史平均水平。蘇布拉馬尼安特別強調，未來三個月的業績指引比率正朝著1.9倍邁進，若這一趨勢得以確認，將創下自2021年以來的最高水平，進一步印證了當前美股企業盈利的強勁韌性。"
+    },
+    {
+      "id": "5010575",
+      "time": "2026-07-27 22:18:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍宣佈擊斃哈馬斯加沙中部內部安全部隊負責人】以色列國防軍與以色列國家安全域性（辛貝特）發表聯合宣告，宣佈在加沙地帶中部代爾拜拉赫地區發動空襲，擊斃哈馬斯內部安全部隊加沙中部地區負責人瓦埃勒·穆薩·哈拉維（Wael Musa Khaled Ladawi）。"
+    },
+    {
+      "id": "te:markets:570132",
+      "time": "2026-07-27 22:17:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Intel Stock Price Hits 12-week Low — Intel shares decreased to 89.55 USD, the lowest since April 2026. Over the past 4 weeks, Intel lost 32.08%, and in the last 12 months, it increased 335.99%."
+    },
+    {
+      "id": "te:markets:570131",
+      "time": "2026-07-27 22:17:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Stryker Stock Price Hits 13-week High — Stryker shares increased to 337.15 USD, the highest since April 2026. Over the past 4 weeks, Stryker gained 6.45%, and in the last 12 months, it decreased 16.61%."
+    },
+    {
+      "id": "mkt:019fa3ef-dba6-7aab-8eb1-0f6bc4e8bb18",
+      "time": "2026-07-27 22:17:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Citigroup maintains bet Fed will hold rates this week】Citigroup traders are positioned for the Federal Reserve to leave rates unchanged this week, Akshay Singal, the bank’s global head of short-term rates trading, said; their positions would profit if the Fed holds. Singal said Citigroup still expects no change and noted Fed Chair Kevin Warsh has urged markets to focus on the data, which he says currently do not warrant a rate hike."
+    },
+    {
+      "id": "5010574",
+      "time": "2026-07-27 22:17:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "西門子醫療集團與範德堡醫療達成價值 8700 萬美元合作專案，落地前沿醫療技術、提升患者診療水平。"
+    },
     {
       "id": "5010573",
       "time": "2026-07-27 22:16:45",
