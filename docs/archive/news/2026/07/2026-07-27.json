@@ -1,7 +1,144 @@
 {
   "date": "2026-07-27",
-  "count": 708,
+  "count": 724,
   "items": [
+    {
+      "id": "5009177",
+      "time": "2026-07-27 10:38:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧德時代成交額達100億元】寧德時代成交額達100億元，現漲4.52%。"
+    },
+    {
+      "id": "5009176",
+      "time": "2026-07-27 10:37:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【未來五年將深入開展孤獨症全生命週期關愛促進行動】孤獨症是世界醫學難題。中國殘聯黨組書記、理事長周長奎7月27日在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，《殘疾人保障和發展“十五五”規劃》首次將“孤獨症全生命週期關愛促進行動”在殘疾人事業專項規劃中單列專欄。“十五五”期間我國加強對特殊困難殘疾人的關愛服務，將深入開展孤獨症全生命週期關愛促進行動，圍繞孤獨症早篩診斷、康復提升、教康融合等，將完善落實0—6歲兒童孤獨症篩查干預服務規範，實現每個地級市和人口較集中的縣（市、區、旗）具備為孤獨症兒童提供康復救助服務的能力，支援省會城市、計劃單列市及較大城市建設孤獨症特殊教育學校。（新華社）"
+    },
+    {
+      "id": "te:economy:569936",
+      "time": "2026-07-27 10:37:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10-Year Yield Eases as Oil Prices Retreat — Japan’s 10-year government bond yield fell to around 2.76% on Monday, retreating from two-week highs as oil prices declined after the US and Iran suspended strikes against each other over the weekend amid efforts to revive diplomacy. Japan remains heavily reliant on oil imports from the Middle East, leaving its economy vulnerable to supply disruptions and sharp swings in crude prices. On the domestic front, approval ratings for Prime Minister Sanae Takaichi declined as the government's efforts to rein in inflation continued to fall short of household expectations. Japanese bond yields had climbed to 30-year highs earlier this month amid a worsening fiscal outlook, with Takaichi’s administration recently unveiling a massive spending package that could further increase the country's debt burden. Markets are also pricing in a faster pace of Bank of Japan policy tightening as persistent inflation and the weak yen continue to support expectations for additional rate hikes."
+    },
+    {
+      "id": "mkt:019fa16e-a7f2-7aab-8ea0-b7f0e4cc3d00",
+      "time": "2026-07-27 10:36:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "002292.SZ",
+        "Impact bullish",
+        "000802.SZ"
+      ],
+      "text": "China A-share film and cinema sector extended gains; Aofei Entertainment again hit the daily limit-up, while Xingfu Lanhai, Huazhi Shumei, Beijing Culture, Ruyi Film and Ciwen Media also rallied."
+    },
+    {
+      "id": "5009175",
+      "time": "2026-07-27 10:36:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：偵察機探測顯示福斯托仍維持颶風級別，風速85英里每小時。"
+    },
+    {
+      "id": "5009174",
+      "time": "2026-07-27 10:35:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【本田將基於日產現有作業系統聯合研發下一代車載系統】知情人士週日透露，本田汽車與日產汽車敲定合作，將以日產自研作業系統為基礎，聯合開發充當下一代汽車核心運算中樞的車載作業系統。此舉是兩家車企推進技術標準化的關鍵一環。隨著相關研發取得階段性進展，雙方達成該合作，意在加快新一代車型研發進度。兩家車企還計劃共享車載電子控制單元，該硬體將根據作業系統指令管控整車各類系統。雙方最快將於 8 月正式簽署合作協議。雙方此前曾探討由日產在美國代工本田車型，但現階段將優先推進關乎企業長遠發展的新一代整車技術研發合作。"
+    },
+    {
+      "id": "5009173",
+      "time": "2026-07-27 10:35:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊持續走高 奧飛娛樂漲停】影視院線板塊持續走高，奧飛娛樂漲停，幸福藍海、華智數媒、北京文化、儒意電影、慈文傳媒等跟漲。相關ETF方面，影視ETF國泰（516620）漲2.48%，成交額2582.03萬元，傳媒ETF廣發（512980）漲2.02%，成交額6811.32萬元。"
+    },
+    {
+      "id": "mkt:019fa16d-0f90-7aab-8ea0-ac405098bce3",
+      "time": "2026-07-27 10:35:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local officials said a Ukrainian airstrike on Russia's Rostov-on-Don killed two people."
+    },
+    {
+      "id": "5009172",
+      "time": "2026-07-27 10:35:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【長鑫科技上市首小時換手率突破50% 成交額超1035億】7月27日，N長鑫登陸科創板交投活躍，上市首小時換手率達50%，成交額突破1030億元。該股開盤報49.50元，盤中最高49.88元、最低38.11元，隨後快速回升至49元附近。（第一財經）"
+    },
+    {
+      "id": "5009171",
+      "time": "2026-07-27 10:34:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭空襲俄羅斯頓河畔羅斯托夫致兩人死亡。"
+    },
+    {
+      "id": "mkt:019fa16c-63d4-7aab-8ea0-a39d882c6604",
+      "time": "2026-07-27 10:34:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China implemented 33,000 water projects in 1H; water-construction investment CNY 515.1 bln】The Ministry of Water Resources said China has accelerated modern water-network construction and kept water-construction investment at a high level. From January to June, China implemented 33,000 water projects and completed CNY 515.1 bln of water-construction investment. Major projects — including the Beibu Gulf water-resource allocation scheme and the Yellow River Guxian water-control hub — plus national water-network backbone supply/drainage channels and key regulation/storage nodes are being expedited."
+    },
+    {
+      "id": "5009170",
+      "time": "2026-07-27 10:34:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報144550元/噸，較上日16:30價格上漲250元/噸。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607273821834437",
+      "time": "2026-07-27 10:34:02",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【沃什想借“五大工作組”降息和改革美聯儲？高盛詳解：很難如願！】據高盛的一份報告顯示，美聯儲主席凱文·沃什新成立的特別工作組可能只會建議對美國貨幣政策進行漸進式調整，而不是進行全面改革，該行預計央行內部的廣泛共識將令改革的範圍受限。"
+    },
+    {
+      "id": "5009169",
+      "time": "2026-07-27 10:33:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年上半年 全國實施水利專案3.3萬個】記者從水利部瞭解到，今年以來，我國全力加快現代化水網建設，水利建設投資持續保持高水平，開局總體良好。1至6月，全國實施水利專案3.3萬個，完成水利建設投資5151億元。環北部灣水資源配置、黃河古賢水利樞紐等一批國家水網骨幹輸排水通道、重要調蓄結點等重大工程加快建設。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fa16b-9bd1-7aab-8ea0-98d8821ae5af",
+      "time": "2026-07-27 10:33:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Lee said the Korean New Light Accelerator broke ground today in Cheongju, North Chungcheong. He said the facility will rank among the world’s top research infrastructures, positioning Cheongju as a hub for locally led development, and that the government will provide firm support to ensure innovations from the accelerator become a new growth driver for South Korea."
+    },
+    {
+      "id": "5009168",
+      "time": "2026-07-27 10:33:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "李在明： 引領韓國科技與尖端產業未來的「韓國新光加速器」今日正式破土動工。"
+    },
     {
       "id": "5009167",
       "time": "2026-07-27 10:32:06",
