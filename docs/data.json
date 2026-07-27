@@ -1,7 +1,128 @@
 {
-  "updated": "2026-07-27 13:03:11",
-  "count": 17928,
+  "updated": "2026-07-27 13:07:08",
+  "count": 17936,
   "items": [
+    {
+      "id": "mkt:019fa1f7-22e0-7aab-8ea3-422e6cd04ee3",
+      "time": "2026-07-27 13:05:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share compute-power leasing names rallied in the afternoon: Ningbo Construction hit the daily limit, Xingyun Technology and Yakang rose over 10%, and Nongshang Environment, Tianyima and Sitech were among the top gainers."
+    },
+    {
+      "id": "5009352",
+      "time": "2026-07-27 13:05:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "A股算力租賃概念午後拉昇，寧波建工直線漲停，行雲科技、亞康股份漲超10%，農尚環境、天億馬、思特奇漲幅居前。"
+    },
+    {
+      "id": "mkt:019fa1f5-a689-7aab-8ea3-39705b253a95",
+      "time": "2026-07-27 13:04:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's cabinet secretary said leadership changes at Bank Indonesia will not affect monetary policy or national economic stability."
+    },
+    {
+      "id": "mkt:019fa1f5-75b3-7aab-8ea3-3665924cf5a3",
+      "time": "2026-07-27 13:04:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Reuters survey: 68 of 72 economists expect the Reserve Bank of India to hold the repo rate at 5.25% at its Aug. 5 meeting."
+    },
+    {
+      "id": "mkt:019fa1f5-6d00-7aab-8ea3-2ed321a53cd1",
+      "time": "2026-07-27 13:04:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Macro & Rates",
+        "WTI",
+        "Impact bullish",
+        "GBPUSD",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【Economists: Despite oil surge, Bank of England likely to hold rates at 3.75%】Economists expect the Bank of England to adopt a hawkish tone but leave Bank Rate unchanged at 3.75% at Thursday’s MPC meeting, despite renewed Middle East hostilities and a fresh energy-price spike. Since the MPC’s June meeting the collapse of a US–Iran truce has pushed oil back toward $100/bbl and European gas to its highest levels since the conflict began; continued Gulf shipping disruption could lift oil further. UK GDP rose 0.7% in the three months to May. CPI has undershot forecasts for three months and fell to 2.6% in June; wage growth is slowing and food inflation has eased, giving the MPC scope to hold rates while warning it stands ready to tighten if energy shocks intensify or become persistent."
+    },
+    {
+      "id": "5009351",
+      "time": "2026-07-27 13:03:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "總部位於荷蘭阿姆斯特丹的全球生物製藥公司 ARGENX將以每股77美元的現金收購FORTE BIOSCIENCES。"
+    },
+    {
+      "id": "te:economy:569971",
+      "time": "2026-07-27 13:03:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Japan Leading Economic Index Revised Downward — Japan’s leading economic index, which gauges the outlook for economic activity in the months ahead using indicators such as job offers and consumer sentiment, was revised lower to 116.5 in May 2026 from 116.8 in the preliminary estimates after a final 116.1 in April, amid uncertain global conditions. Still, the latest reading was the highest level since July 2021, supported by the government's record fiscal budget, which included comprehensive measures to ease cost-of-living pressures and emergency energy support to cushion the impact of the Middle East conflict."
+    },
+    {
+      "id": "5009350",
+      "time": "2026-07-27 13:03:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞內閣秘書：領導層更迭不會擾亂貨幣政策及國民經濟穩定。"
+    },
+    {
+      "id": "te:economy:569970",
+      "time": "2026-07-27 13:03:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Coincident Index",
+        "Importance 1"
+      ],
+      "text": "Japan Coincident Index Revised Lower — Japan's coincident economic index, a key gauge of current economic activity based on indicators such as industrial production, employment, and retail sales, was at 117.9 in May 2026, less than flash data of 118.5 and lower than April's 118.1."
+    },
+    {
+      "id": "mkt:019fa1f4-49f9-7aab-8ea3-21db4cdbfb00",
+      "time": "2026-07-27 13:02:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's cabinet secretary said the transition will be conducted in a transparent, responsible manner and in accordance with relevant laws."
+    },
+    {
+      "id": "mkt:019fa1f4-3cf0-7aab-8ea3-1ba4a800602c",
+      "time": "2026-07-27 13:02:45",
+      "tags": [
+        "MKT News",
+        "SPMI.MI",
+        "Impact bullish"
+      ],
+      "text": "Saipem SpA said ENI has awarded it new contracts in the Ivory Coast and Italy totalling about €800m, with work expected to run roughly three years."
+    },
+    {
+      "id": "5009349",
+      "time": "2026-07-27 13:02:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼內閣秘書：過渡工作將依照法律，以透明、負責任的方式進行。"
+    },
     {
       "id": "mkt:019fa1f3-9736-7aab-8ea3-12c0192ae59c",
       "time": "2026-07-27 13:02:03",
@@ -164254,44 +164375,6 @@
         "國際"
       ],
       "text": "義大利普睿司曼：擬將美國光纖產能提升逾一倍。"
-    },
-    {
-      "id": "4996985",
-      "time": "2026-07-20 13:06:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞安航空：上週與波音方面溝透過，他們對MAX 10機型在今年9-10月間獲得認證相當有信心。"
-    },
-    {
-      "id": "4996984",
-      "time": "2026-07-20 13:05:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "有色·鋁概念異動拉昇，中國鋁業逼近漲停，天山鋁業、華峰鋁業、神火股份、焦作萬方、中孚實業、雲鋁股份漲幅靠前。"
-    },
-    {
-      "id": "4996983",
-      "time": "2026-07-20 13:05:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "普睿司曼與莫仕簽訂規模最高達 55 億歐元的光纜合作協議。"
-    },
-    {
-      "id": "mkt:019f7de9-5cb7-7aab-8e01-cf6b9b785118",
-      "time": "2026-07-20 13:04:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "00354.HK",
-        "Impact bullish"
-      ],
-      "text": "ChinaSoft International (00354.HK) shares surge over 30% in Hong Kong trading."
     }
   ]
 }
