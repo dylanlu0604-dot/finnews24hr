@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-28 03:06:35",
-  "count": 17807,
+  "updated": "2026-07-28 03:10:19",
+  "count": 17806,
   "items": [
+    {
+      "id": "5010784",
+      "time": "2026-07-28 03:09:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗哈塔姆安比亞中央司令部：過去三天，美國在伊朗沿岸及領海水域威脅伊朗商船與油輪，這是美方持續在該地區製造動盪、對伊朗實施非法海上封鎖的系列舉動之一。我方警告，美國此舉將被視作地區戰爭升級行為。伊朗武裝力量已在戰場證明，絕不會對美軍的任何威脅與敵對行動置之不理。"
+    },
+    {
+      "id": "5010783",
+      "time": "2026-07-28 03:07:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：烏克蘭此舉（襲擊伊朗船隻）完全非法、毫無正當理由，違反《聯合國憲章》，是極具危險性的冒險行徑，我方絕不會就此善罷甘休。烏克蘭此次行動帶來的後果 “必然難以預估”。"
+    },
+    {
+      "id": "mkt:019fa4f9-927d-7aab-8eb6-2bad9e6a801c",
+      "time": "2026-07-28 03:07:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli media report Israel assesses that a drone intercepted over Jordan on Monday was launched by Iran-backed Iraqi militia groups."
+    },
+    {
+      "id": "5010782",
+      "time": "2026-07-28 03:06:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：烏克蘭上週末在裡海襲擊伊朗船隻一事，將引發 “難以預料” 的後果。"
+    },
     {
       "id": "5010781",
       "time": "2026-07-28 03:05:33",
@@ -163240,54 +163276,6 @@
         "國際"
       ],
       "text": "伊朗最高國家安全委員會副秘書長巴蓋裡表示，美國尚未採取行動解凍伊朗被凍結資產，美方違背自身承諾。"
-    },
-    {
-      "id": "mkt:019f80ef-2a52-7aab-8e14-0894a28845df",
-      "time": "2026-07-21 03:09:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Yemen's Presidential Leadership Council chairman said he will push to resume oil exports from Monday local time."
-    },
-    {
-      "id": "4998427",
-      "time": "2026-07-21 03:08:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門總統委員會主席表示，委員會將從週一開始推進恢復石油出口相關工作。"
-    },
-    {
-      "id": "4998426",
-      "time": "2026-07-21 03:07:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "訊息人士稱，飛機租賃公司 AerCap將向波音訂購 15 架波音 787 客機。"
-    },
-    {
-      "id": "mkt:019f80ec-b83a-7aab-8e14-0042f5bae2de",
-      "time": "2026-07-21 03:07:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Trump signals US military may strike Iran after recent U.S. casualties】Trump posted on social media on the 20th saying that, after recent U.S. personnel casualties, the military will carry out a strong retaliation against Iran. He warned “for every American soldier Iran kills it will pay many times over,” and said the directive has been conveyed to the Defense Secretary and Joint Chiefs chairman Caine."
-    },
-    {
-      "id": "mkt:019f80ec-9086-7aab-8e13-f87830c1e869",
-      "time": "2026-07-21 03:06:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Nikita Bier, head of product at X, said the team is accelerating development; video, a video editor and Spaces are due to launch soon. Cashtags, custom timelines and other features have been rolled out, and many upcoming features will debut on Android first."
     }
   ]
 }
