@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-28 00:53:36",
-  "count": 17764,
+  "updated": "2026-07-28 00:57:29",
+  "count": 17766,
   "items": [
+    {
+      "id": "5010720",
+      "time": "2026-07-28 00:56:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "LVMH首席財務官： 迪奧短期業績令人備受鼓舞，上半年所有核心客戶渠道營收均實現增長，手袋品類表現強勁。美國第二季度的需求來自本土銷售的強勁勢頭以及在此基礎上旅遊消費的加速增長。路易威登和迪奧在第二季度均處於正增長區間，迪奧在美洲和日本的增長在第二季度加速。"
+    },
+    {
+      "id": "mkt:019fa481-e038-7aab-8eb4-33412a2ef862",
+      "time": "2026-07-28 00:56:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "MC.PA",
+        "Impact bullish"
+      ],
+      "text": "LVMH CFO said Louis Vuitton and Dior both posted positive growth in Q2, with Dior’s growth accelerating in the Americas and Japan."
+    },
+    {
+      "id": "mkt:019fa481-a5e3-7aab-8eb4-2efb8a9954bb",
+      "time": "2026-07-28 00:56:27",
+      "tags": [
+        "MKT News",
+        "MC.PA",
+        "Impact bullish"
+      ],
+      "text": "LVMH CFO said U.S. Q2 demand was driven by strong domestic sales momentum and accelerating tourist spending."
+    },
+    {
+      "id": "mkt:019fa480-de30-7aab-8eb4-239042e90839",
+      "time": "2026-07-28 00:55:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "【Former Israeli security chiefs warn West Bank tensions could escalate】About 600 former senior Israeli military, police, Shin Bet and intelligence and special-operations officials sent a joint letter to U.S. President Trump on the 27th urging Washington to press the Israeli government to curb rising settler violence in the West Bank, warning it could trigger escalation. The letter, initiated by the National Security Commanders group, was signed by roughly 600 ex-commanders and security heads; Trump is scheduled to meet Prime Minister Netanyahu at the White House on the 28th."
+    },
     {
       "id": "mkt:019fa47e-80ab-7aab-8eb4-1aee1408c0e7",
       "time": "2026-07-28 00:53:01",
@@ -162831,22 +162873,6 @@
         "國際"
       ],
       "text": "美國聯邦法官下令臨時擱置派拉蒙收購華納兄弟探索交易。"
-    },
-    {
-      "id": "4998373",
-      "time": "2026-07-21 00:55:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度證實4名印籍船員在烏克蘭敖德薩港遇襲身亡】印度外交部20日釋出宣告說，一艘名為“金獅”號的商船19日晚駛離烏克蘭南部敖德薩港時遭遇襲擊，造成4名印度籍船員死亡。宣告說，事發時船上共有17名船員，包括5名印籍船員。襲擊造成4名印度籍船員死亡，另有1人傷勢較重，正在醫院接受治療。印方譴責此類襲擊，重申“以商船為目標、危及無辜船員或以其他方式阻礙航行和貿易自由的行為令人震驚，應當避免”。(新華社)"
-    },
-    {
-      "id": "4998372",
-      "time": "2026-07-21 00:54:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：內塔尼亞胡在美國停留期間不會遭到逮捕】特朗普在社交媒體發文稱，以色列總理內塔尼亞胡只要身處美國境內，就絕不會遭到任何形式的逮捕。他正與伊朗對抗。伊朗近期造成5.2萬名平民喪生，過去47年間還持續殺害美軍士兵及其他人員。真正該被追責逮捕的，是將伊朗拖入這場空前死亡與毀滅惡性迴圈的相關人員，這本就該由美國前幾任總統早早出手解決。"
     }
   ]
 }
