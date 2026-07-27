@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-28 06:39:42",
+  "updated": "2026-07-28 06:43:26",
   "count": 17823,
   "items": [
+    {
+      "id": "te:markets:570190",
+      "time": "2026-07-28 06:40:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Drops by 4.59% — Top commodity losers are Oat (-4.59%), Canola (-3.99%) and Cocoa (-3.37%). Gains are led by Coffee (2.89%) and Cotton (1.03%)."
+    },
+    {
+      "id": "5010914",
+      "time": "2026-07-28 06:39:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：新實施的301關稅措施不會對經濟造成超出當前已承受範圍的新影響。"
+    },
     {
       "id": "5010913",
       "time": "2026-07-28 06:38:58",
@@ -163399,25 +163419,6 @@
         "Important"
       ],
       "text": "New Zealand | CPI (QoQ) (Q2) | actual 1.5% | consensus 1.4% | previous 0.90%"
-    },
-    {
-      "id": "te:markets:568321",
-      "time": "2026-07-21 06:40:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Soybeans Rises by 1.78% — Top commodity gainers are Soybeans (1.78%) and Canola (1.77%). Biggest losers are Wheat (-1.28%) and Rubber (-0.51%)."
-    },
-    {
-      "id": "4998543",
-      "time": "2026-07-21 06:39:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "空客執行長：受普惠發動機交付延遲影響，我們不得不調整 2026 至 2027 年的生產排產計劃，但目前相關狀況已趨於穩定。"
     }
   ]
 }

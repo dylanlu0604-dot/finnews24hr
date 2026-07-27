@@ -1,7 +1,27 @@
 {
   "date": "2026-07-28",
-  "count": 410,
+  "count": 412,
   "items": [
+    {
+      "id": "te:markets:570190",
+      "time": "2026-07-28 06:40:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Drops by 4.59% — Top commodity losers are Oat (-4.59%), Canola (-3.99%) and Cocoa (-3.37%). Gains are led by Coffee (2.89%) and Cotton (1.03%)."
+    },
+    {
+      "id": "5010914",
+      "time": "2026-07-28 06:39:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：新實施的301關稅措施不會對經濟造成超出當前已承受範圍的新影響。"
+    },
     {
       "id": "5010913",
       "time": "2026-07-28 06:38:58",
