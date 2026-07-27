@@ -1,7 +1,181 @@
 {
-  "updated": "2026-07-27 16:55:18",
-  "count": 17878,
+  "updated": "2026-07-27 16:59:09",
+  "count": 17885,
   "items": [
+    {
+      "id": "5009823",
+      "time": "2026-07-27 16:58:33",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【柏楚電子：簽訂募集資金專戶儲存四方監管協議】柏楚電子公告稱，2026年5月25日、6月5日，公司分別透過董事會、股東會審議，同意新增控股子公司柏楚精密作為“鋰電焊接智慧解決方案及產業化專案”實施主體，以4125萬元募集資金向其實繳出資。公司已在杭州銀行上海閔行支行開設專戶，賬號3101041060000419729。7月，公司與該行、中信證券簽訂《募集資金專戶儲存四方監管協議》，明確各方在募集資金存放、管理和使用等方面的權利和義務。"
+    },
+    {
+      "id": "5009822",
+      "time": "2026-07-27 16:57:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "CREOTECH INSTRUMENTS股價延續漲勢，最新上漲9.1%。"
+    },
+    {
+      "id": "mkt:019fa2cb-7be2-7aab-8ea9-93c151a855d7",
+      "time": "2026-07-27 16:57:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Fars News reports that in Omidiyeh, Khuzestan province, explosions may be heard today as unexploded ordnance is destroyed."
+    },
+    {
+      "id": "mkt:019fa2cb-2af9-7aab-8ea9-8eb3cd74ff65",
+      "time": "2026-07-27 16:57:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China Association for Listed Companies: 71 IPOs in 1H; proceeds 70.574 bln yuan; total listed firms 5,535】The China Association for Listed Companies said its June monthly report shows 5,535 listed firms in China’s domestic stock market as of June 30, 2026—Shanghai 2,314, Shenzhen 2,898, Beijing Stock Exchange 323. By share type, 5,263 are A-share only, 265 have multiple share classes (A+H, A+B, etc.), and seven are B-share only. In 1H the market added 71 IPOs raising 70.574 bln yuan; 13 companies were delisted (nine from the main board), leaving a net increase of 58 listed companies. By sector, manufacturing contributed a net +63 companies, while five industries including information transmission, software and IT services saw net declines in company counts."
+    },
+    {
+      "id": "mkt:019fa2cb-2262-7aab-8ea9-824854b11357",
+      "time": "2026-07-27 16:57:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "【ING: Pound could fall further versus euro if Bank of England holds rates】ING analyst Francesco Pesole said the Bank of England is likely to hold rates on Thursday; market attention is on whether the MPC's hawkish faction has expanded. He added that if inflation expectations remain contained, ING expects the BoE to keep policy unchanged for the rest of the year. Markets, by contrast, have priced about 37bp of tightening by year-end — the clearest near-term downside risk for sterling versus the euro."
+    },
+    {
+      "id": "5009821",
+      "time": "2026-07-27 16:57:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬朗磁塑：控股股東400萬股質押展期至2027年7月23日】萬朗磁塑公告稱，公司控股股東、實際控制人時乾中質押給國泰海通證券的400萬股已辦理質押展期，原到期日為2026年7月24日，展期後至2027年7月23日，佔其所持股份比例13.60%，佔公司總股本4.68%，融資用於股權投資。截至公告披露日，時乾中累計質押866.50萬股，佔其持股29.47%，佔公司總股本10.14%。本次展期不會致實控人變更，對公司無重大不利影響。"
+    },
+    {
+      "id": "mkt:019fa2ca-9fa1-7aab-8ea9-7b730c900faf",
+      "time": "2026-07-27 16:56:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【WTI and Brent extend intraday losses to 8%】WTI and Brent extended intraday losses to about 8%; WTI fell below $82/bbl, Brent traded at $85.58/bbl."
+    },
+    {
+      "id": "5009820",
+      "time": "2026-07-27 16:56:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 埃及頒佈法案，重組埃及未來可持續發展局。"
+    },
+    {
+      "id": "mkt:019fa2ca-5db5-7aab-8ea9-769bb742f687",
+      "time": "2026-07-27 16:56:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed",
+        "SSE Composite"
+      ],
+      "text": "【China Association of Listed Companies: Q2 market-cap divergence; two firms exceed 1 tln yuan】July 27 — The China Association of Listed Companies’ June monthly report showed Q2 divergence in listed firms’ market-cap structure. Companies above 1 tln yuan rose by 2 (Zhongji Xuchuang, Cambricon); those above 100 bln yuan increased by 38; above 50 bln yuan increased by 76. Firms with market caps of 5–50 bln yuan fell by 270, while companies below 5 bln yuan rose by 226. Median market value at end-1H was 6.15 bln yuan, down 330 mln yuan from end-Q1."
+    },
+    {
+      "id": "5009819",
+      "time": "2026-07-27 16:56:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中企簽約科威特汙水處理廠及配套專案】由中國建築集團有限公司承建的科威特北凱卜德汙水處理廠及配套專案合同簽約儀式日前在科威特哈瓦利省舉行。北凱卜德汙水處理廠及配套專案是中科高質量共建“一帶一路”、深化基礎設施和生態環保領域合作的標誌性專案。專案建成後將進一步提升科威特汙水收集、輸送、處理和再生水利用能力，改善區域生態環境和公共服務保障水平，為科威特落實“2035國家願景”、推動經濟社會可持續發展提供有力支撐。（新華社）"
+    },
+    {
+      "id": "5009818",
+      "time": "2026-07-27 16:55:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中上協：二季度上市公司市值結構發生分化，萬億以上市值公司增加2家】7月27日，中國上市公司協會發布6月統計月報。資料顯示，二季度，上市公司市值結構發生分化：萬億以上市值公司增加2家（中際旭創、寒武紀），千億以上市值公司增加38家，500億以上市值公司增加76家；50-500億市值公司減少270家；50億以下市值公司增加226家。上半年末，全市場市值中位數61.5億元，較上季度末下降3.3億元。"
+    },
+    {
+      "id": "5009817",
+      "time": "2026-07-27 16:55:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中遠海科：與關聯方共同向參股公司增資事項有進展】中遠海科公告稱，公司與關聯方中遠海運國際香港共同向船服公司增資事項已獲審議透過。截至目前，船服公司已辦理工商變更登記，雙方正在開展增資對價支付，尚未完成實繳與交割。其中，中遠海運國際香港正在辦理遠通海運裝置服務有限公司100%股權交割，ODI申請已透過預稽核；公司正在推進平臺資產包轉讓過戶和現金出資準備工作。公司將持續關注進展並及時披露。"
+    },
+    {
+      "id": "5009816",
+      "time": "2026-07-27 16:55:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【諾德股份：控股股東及其一致行動人股權解除質押及質押】諾德股份公告稱，控股股東諾德產業及其一致行動人弘源新材和諾德材料合計持有公司股票5.18億股，佔總股本29.86%。7月24日，三者合計解除質押2.09億股，佔總股本12.04%。同日，諾德材料質押6000萬股，佔總股本3.46%，用於補充流動資金。本次解除質押及質押後，三者處於質押狀態的股份共計2.79億股，佔合計持股總數的53.74%，佔總股本的16.05%。未來一年內到期的質押股份對應融資餘額10億元，目前不存在平倉風險。"
+    },
+    {
+      "id": "5009815",
+      "time": "2026-07-27 16:55:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST金鴻順：立案調查尚在進行中 提醒投資者注意風險】ST金鴻順公告稱，公司於2026年6月26日因涉嫌資訊披露違法違規被中國證監會立案調查。截至目前調查尚在進行，未收到結論性意見或決定。公司生產經營活動正常，將積極配合調查並及時披露資訊。提醒投資者以指定媒體公告為準，理性投資、注意風險。"
+    },
+    {
+      "id": "5009814",
+      "time": "2026-07-27 16:55:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【WTI原油大跌7%】WTI原油大跌7%，現報82.9美元/桶。"
+    },
+    {
+      "id": "5009813",
+      "time": "2026-07-27 16:54:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守83美元/桶，日內跌7.14%。"
+    },
+    {
+      "id": "5009812",
+      "time": "2026-07-27 16:54:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【一心堂：使用5000萬元閒置可轉債募集資金進行現金管理】一心堂公告稱，2026年5月20日公司2025年年度股東會同意使用不超3億元2018年公開發行可轉換公司債券的暫時閒置募集資金進行現金管理。近日，公司與上海浦東發展銀行昆明分行簽訂合同，認購5000萬元“利多多公司穩利26JG3242期（3個月早鳥款）”人民幣對公結構性存款，產品為保本浮動收益型，2026年7月27日起息，2026年10月27日到期，保底收益率0.70%。"
+    },
+    {
+      "id": "5009811",
+      "time": "2026-07-27 16:54:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌7%，現報83.05美元/桶。"
+    },
+    {
+      "id": "5009810",
+      "time": "2026-07-27 16:54:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蜂助手：持股5%以上股東部分股份質押用於融資】蜂助手公告稱，公司股東海峽創新於2026年7月23日質押3313456股，佔其所持股份比例14.29%，佔公司總股本比例1.16%，質押到期日為2029年7月22日，質權人為福建海海峽融資擔保有限公司，用途為融資需求。截至公告披露日，海峽創新累計質押20523489股，佔其所持股份比例88.51%，佔公司總股本比例7.19%。本次質押不會導致公司實際控制權變更，對公司無不利影響。"
+    },
     {
       "id": "5009809",
       "time": "2026-07-27 16:54:10",
@@ -163711,113 +163885,6 @@
         "國際"
       ],
       "text": "市場訊息：巴林稱於7月20日攔截了數架伊朗空襲飛機。"
-    },
-    {
-      "id": "4997479",
-      "time": "2026-07-20 16:59:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：SCALE AI與戴爾科技簽署諒解備忘錄，支援卡達的數字未來與人工智慧能力。"
-    },
-    {
-      "id": "mkt:019f7ebf-fe80-7aab-8e07-35ae28bdc267",
-      "time": "2026-07-20 16:58:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "【Guojin Securities' Song Xuetao: A-share decline primarily reflects overseas risk transmission and trading-level disruption】On July 20, Guojin Securities chief economist Song Xuetao said the global tech sell-off stemmed from overly rapid, concentrated gains that were amplified by leverage and momentum trading. The correction began in the most leveraged Korean market and then transmitted to US, Japanese and Chinese tech stocks. He said recent weakness in A-shares largely reflects overseas risk transmission and trading-flow disruption, not a fundamental reversal of China’s growth logic or industrial trends, and he remains optimistic on A-shares; China’s economy is undergoing structural transition and old-to-new momentum rotation, so headline aggregates may fluctuate short term while the industrial side still offers solid support."
-    },
-    {
-      "id": "te:markets:568206",
-      "time": "2026-07-20 16:58:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Hovers at 2-Month High — US heating oil traded around $4.07 per gallon on Monday after climbing as high as $4.20 earlier in the session, remaining near a two-month high as investors balanced geopolitical risks against signs of renewed diplomacy in the Middle East. Iran's Foreign Ministry said it had received proposals from international mediators aimed at easing tensions with the US, helping trim earlier gains. Even so, markets remained focused on the risk of supply disruptions after fresh military exchanges between Washington and Tehran, including attacks on vessels transiting the Strait of Hormuz and a strike on an oil facility in Kuwait over the weekend. Supply concerns were also supported by continued Ukrainian attacks on Russian refineries following Moscow's diesel export ban. Seasonal refinery maintenance and years of refinery closures in the US and Europe have further tightened fuel markets."
-    },
-    {
-      "id": "4997478",
-      "time": "2026-07-20 16:58:29",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【國金證券宋雪濤：A股近期下跌更多是海外風險傳導和交易層面的擾動】7月20日，國金證券首席經濟學家宋雪濤表示，近期全球科技股大幅回撥，導致市場失速的原因是此前漲得太快、太高、過於集中，而且上漲過程中槓桿和動量交易起到了明顯放大作用。本輪調整最早由槓桿最高的韓國市場引發，隨後逐步傳導至美國、日本和中國科技股。A股近期下跌更多是海外風險傳導和交易層面的擾動，並不意味著國內增長邏輯和產業趨勢發生根本逆轉。展望後市，宋雪濤表示，他對A股依然樂觀。國內經濟仍處於結構轉型和新舊動能切換階段，短期總量資料或有波動，但產業端仍有較強支撐。人工智慧、半導體、高階裝備、新能源和數字基礎設施投資趨勢並未逆轉，央企在戰略性新興產業中的資本開支和資源整合也在持續推進。同時，中國製造業在完整產業鏈、工程師紅利、成本控制和交付能力方面的優勢依然突出，出口競爭力具有較強韌性。隨著政策資金穩定市場預期、外部衝擊逐步被消化，市場有望從流動性驅動的普跌重新回到基本面和盈利主導的結構性行情。"
-    },
-    {
-      "id": "4997477",
-      "time": "2026-07-20 16:57:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【移遠通訊：贖回1億元閒置募集資金結構性存款 收益38.22萬元】移遠通訊公告稱，2026年4月20日，公司使用閒置募集資金在招商銀行上海分行營業部購買1億元結構性存款。截至公告日，該產品已到期贖回，實際收益38.22萬元，本金及收益已歸還至募集資金專戶。最近12個月，公司使用閒置募集資金現金管理累計收益356.69萬元，目前尚未收回本金8億元，未使用現金管理額度2億元。"
-    },
-    {
-      "id": "4997476",
-      "time": "2026-07-20 16:57:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "檔案顯示，伊拉克國家石油營銷公司（SOMO）正招標採購 8 至 9 月船期的柴油，這是該國自 2025 年 1 月以來首次開展此類採購。"
-    },
-    {
-      "id": "4997475",
-      "time": "2026-07-20 16:57:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【賽福天：聘任焦賢麗為公司財務總監】賽福天7月20日公告，公司當天召開第五屆董事會第二十六次會議，審議透過了《關於聘任財務總監的議案》，同意聘任焦賢麗為公司財務總監，任期至公司第五屆董事會屆滿之日止。"
-    },
-    {
-      "id": "4997474",
-      "time": "2026-07-20 16:56:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【普門科技：獲得兩項醫療器械註冊證】普門科技公告稱，公司近期收到廣東省藥品監督管理局頒發的2個《中華人民共和國醫療器械註冊證（體外診斷試劑）》，分別為血栓調節蛋白（TM STAT）測定試劑盒和總I型膠原氨基端延長肽（Total - P1NP）測定試劑盒，註冊證有效期均至2031年7月16日。這兩款試劑盒進一步豐富和完善了公司電化學發光試劑專案檢測選單，有助於提升公司在免疫診斷領域的市場競爭力。截至公告披露日，公司及控股子公司已取得113個電化學發光配套檢測試劑註冊證。不過，產品上市後實際銷售情況尚無法預測。"
-    },
-    {
-      "id": "4997473",
-      "time": "2026-07-20 16:56:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【航天動力：多位董監高辭職並補選董事、獨立董事】航天動力公告稱，公司董事會近日收到董事兼總經理薛曉軍、獨立董事王鋒革、副總經理兼董事會秘書孟非然的辭職報告。薛曉軍、王鋒革辭職後不在公司及子公司任職，孟非然將任子公司董事。薛曉軍、孟非然辭職於7月20日生效，王鋒革辭職待股東會選出新任獨立董事後生效。為保證工作開展，董事長孫彥堂代行董秘職責。7月20日董事會同意補選孟非然為非獨立董事候選人、周龍為獨立董事候選人，尚需股東會審議。"
-    },
-    {
-      "id": "mkt:019f7ebd-6eea-7aab-8e07-2b3451932532",
-      "time": "2026-07-20 16:56:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Documents show Iraq's state oil marketer SOMO is seeking diesel deliveries for Aug-Sep 2025, its first such tender since Jan 2025."
-    },
-    {
-      "id": "mkt:019f7ebc-dc56-7aab-8e07-25a1b17aa5d8",
-      "time": "2026-07-20 16:55:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fox News reports the U.S. House Intelligence Committee will consider the annual intelligence authorization bill on Monday."
-    },
-    {
-      "id": "4997472",
-      "time": "2026-07-20 16:55:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧德時代在惠州成立新能源公司 註冊資本256萬】天眼查App顯示，近日，惠州潤開新能源有限公司成立，法定代表人為戴維，註冊資本256萬人民幣，經營範圍包括太陽能發電技術服務、新興能源技術研發、合同能源管理等。股東資訊顯示，該公司由寧德時代（300750）旗下時代綠色能源有限公司全資持股。"
     }
   ]
 }
