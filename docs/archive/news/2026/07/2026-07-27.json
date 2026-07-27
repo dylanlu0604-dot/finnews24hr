@@ -1,7 +1,54 @@
 {
   "date": "2026-07-27",
-  "count": 926,
+  "count": 931,
   "items": [
+    {
+      "id": "5009331",
+      "time": "2026-07-27 12:37:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊“QQ寵物”正式迴歸，升級為3D毛茸茸形象】今日，騰訊QQ 發文稱，“QQ寵物”正式迴歸。據其透露，“QQ寵物”養寵玩法全面升級，QQ寵物升級為3D毛茸茸形象，保留餵食、洗澡、打工等經典玩法。同時，在騰訊Hy3 大模型助力下，寵物會主動回應，不僅寵物形象可選，還有多種性格任挑。騰訊QQ還表示，3D萌寵支援多屏線上，可走進QQ的更多角落，聊天列表、聊天框等場景，都能看到寵物的身影。此外，新版QQ寵物還支援好友串門互踩，可以給好友的寵物投餵、洗澡，還能踩踩續火花。（新浪科技）"
+    },
+    {
+      "id": "mkt:019fa1dc-a7d8-7aab-8ea2-5bf448804773",
+      "time": "2026-07-27 12:37:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "YONHAP: Bank of Korea says semiconductor manufacturing output will account for more than 10% of South Korea's total manufacturing output in 2024."
+    },
+    {
+      "id": "5009330",
+      "time": "2026-07-27 12:36:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗攔截6艘企圖透過霍爾木茲海峽的船隻】當地時間7月27日，據伊朗一位知情官員透露，當天凌晨有6艘違規船隻關閉了導航和定位系統，在美國的煽動下，企圖非法穿越霍爾木茲海峽以南的危險航道。其中一艘船隻發生事故，其餘船隻在伊朗的管控下被遣返回波斯灣。"
+    },
+    {
+      "id": "te:markets:569963",
+      "time": "2026-07-27 12:36:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Recovers on Lower Oil Prices — India’s BSE Sensex rose about 0.8% to 76,668 at the open on Monday, recovering after five consecutive sessions of losses as a sharp decline in global crude oil prices improved investor sentiment after the US and Iran halted strikes over the weekend. Meanwhile, market participants remained cautious ahead of this week’s US Federal Reserve policy meeting, where the central bank is widely expected to keep interest rates unchanged, while watching for signals on the future policy path. Among individual stocks, Tata Consumer Products gained after reporting stronger-than-expected quarterly earnings, while SBI Card advanced on improved asset quality and solid results. Lodha Developers also climbed following a rise in quarterly profit. In contrast, Bank of Baroda came under pressure after reporting a decline in quarterly earnings. Notable gainers included Caliber Mining and Logistics (8.9%), Ratnaveer (8.1%), Dr. Lal PathLabs (6.6%), IDFC First Bank (6.2%), Infosys (3.1%), and Laurus (2.9%)."
+    },
+    {
+      "id": "5009329",
+      "time": "2026-07-27 12:35:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【軟銀為投資OpenAI股權的400億美元貸款新增21家放款機構】知情人士透露，軟銀集團為投資美國科技巨頭OpenAI安排的400億美元過渡貸款，現已進入大規模分銷階段，新增21家金融機構參與放貸。不願具名、因事項未公開而匿名受訪的知情人士表示，這批新增機構是原有放貸陣容之外的新增投資方，合計分得約70億美元貸款額度。其中阿布扎比第一銀行、新加坡政府投資公司（GIC）、渣打銀行各自承貸近10億美元，剩餘額度由多家歐洲、日本及中國臺灣地區銀行分持。本次新增21家機構統計口徑為各機構母公司，部分機構旗下多家分支機構均參與本次貸款專案。知情人士稱，這筆過渡貸款剩餘330億美元額度由牽頭承銷行與核心高階貸款人持有，後續仍有可能繼續對外分銷。信貸交易中，初始承銷機構向更多金融機構拆分分銷貸款屬於行業常規操作。這筆期限12個月的貸款於今年3月完成簽約，是亞太地區史上規模最大的過渡融資專案之一，承銷機構可從中賺取超1億美元手續費。儘管部分銀行擔憂軟銀對OpenAI的投資敞口風險（OpenAI正面臨Anthropic等競品日益激烈的競爭），該筆貸款在5月全面開放分銷前，就已吸引9家銀行入局。"
+    },
     {
       "id": "5009328",
       "time": "2026-07-27 12:31:37",
