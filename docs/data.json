@@ -1,7 +1,116 @@
 {
-  "updated": "2026-07-27 22:05:39",
-  "count": 17767,
+  "updated": "2026-07-27 22:09:31",
+  "count": 17773,
   "items": [
+    {
+      "id": "mkt:019fa3e8-4e0e-7aab-8eb0-eae830d148b0",
+      "time": "2026-07-27 22:08:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baker Hughes says it expects the impact of the Iran conflict on some projects and supply chains to be offset by stronger performance in other regions."
+    },
+    {
+      "id": "5010560",
+      "time": "2026-07-27 22:08:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：美國的行為表現得像個黑幫團伙，需要學會負責任地行事，才能促成合理的外交程序。"
+    },
+    {
+      "id": "mkt:019fa3e7-bfeb-7aab-8eb0-e58b9d82a982",
+      "time": "2026-07-27 22:08:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "US equities pared earlier gains; Nasdaq-100 briefly dipped into negative territory."
+    },
+    {
+      "id": "5010559",
+      "time": "2026-07-27 22:07:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉跌，此前一度漲超1%。"
+    },
+    {
+      "id": "mkt:019fa3e6-f6bd-7aab-8eb0-df0e7a4b5622",
+      "time": "2026-07-27 22:07:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "The European Commission is considering amending a tax on large companies to unlock a budget agreement, Politico reports."
+    },
+    {
+      "id": "5010558",
+      "time": "2026-07-27 22:06:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝克休斯預計中東業務活動大體穩定，多數其他市場第三季度將實現溫和增長。"
+    },
+    {
+      "id": "5010557",
+      "time": "2026-07-27 22:06:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國民主黨眾議員加西亞詢問泰勒農場公司是否干預了FDA的調查。"
+    },
+    {
+      "id": "mkt:019fa3e6-373d-7aab-8eb0-d08f14deca3e",
+      "time": "2026-07-27 22:06:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukraine has requested an emergency UN Security Council meeting scheduled to convene shortly."
+    },
+    {
+      "id": "5010556",
+      "time": "2026-07-27 22:06:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣藥集團旗下白雲山何濟公收購北京法瑪星醫藥】7月25日，廣藥集團旗下廣州白雲山何濟公藥業有限公司（下稱白雲山何濟公）與北京法瑪星醫藥科技有限公司（以下簡稱：法瑪星醫藥）簽訂股權轉讓協議，以人民幣3.3億元為交易對價，收購法瑪星醫藥股權，成為其控股股東。此次收購完成後，白雲山何濟公將切入新型透皮貼劑領域。"
+    },
+    {
+      "id": "5010555",
+      "time": "2026-07-27 22:06:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【費城半導體指數跌幅擴大至1.74%】費城半導體指數跌幅擴大至1.74%，現報11613.32點。"
+    },
+    {
+      "id": "mkt:019fa3e5-8c24-7aab-8eb0-cc117a94c43e",
+      "time": "2026-07-27 22:05:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Foreign Ministry spokesperson on Ukraine said Russia is willing to consider new ideas and proposals."
+    },
+    {
+      "id": "mkt:019fa3e5-6fea-7aab-8eb0-c31953c9c21d",
+      "time": "2026-07-27 22:05:50",
+      "tags": [
+        "MKT News",
+        "BKR.O",
+        "Impact bearish"
+      ],
+      "text": "Baker Hughes said it expects regional facilities to face higher logistics costs and inflationary pressure amid the Middle East conflict."
+    },
     {
       "id": "mkt:019fa3e4-d98d-7aab-8eb0-bfa94613d83a",
       "time": "2026-07-27 22:05:11",
@@ -162733,61 +162842,6 @@
         "MKT News"
       ],
       "text": "Jupiter Asset Management said it is particularly bullish on 5-year UK government bonds."
-    },
-    {
-      "id": "mkt:019f7fdc-0b15-7aab-8e0f-a17b8a7ee58b",
-      "time": "2026-07-20 22:09:14",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Jupiter Asset Management says UK gilt prices face greater risk than other major sovereign bonds and may offer investment opportunities over the next 12-18 months."
-    },
-    {
-      "id": "4998221",
-      "time": "2026-07-20 22:08:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【牛一兵出席中國—拉美國家網路安全研修班、發展中國家數字能力建設研修班結業式】近日，中央網信辦副主任、國家網信辦副主任牛一兵在京出席中國一拉美國家網路安全研修班、發展中國家數字能力建設研修班結業式並作總結講話。牛一兵表示，中國秉持真實親誠理念和正確義利觀，與廣大發展中國家一道弘揚傳統友誼、共建夥伴關係，積極捍衛全球南方共同權益。面對世界百年未有之大變局，習近平主席提出的四大全球倡議，為構建人類命運共同體提供了系統完備的行動框架。我們應堅守主權平等，反對網路霸權，共建公平公正的全球治理秩序；堅守安全底線，防範各類風險，共建平穩有序的網路空間環境；堅守開放包容，反對脫鉤斷鏈，共建普惠共贏的數字發展格局。希望各位學員做中外友誼的傳播者、網路空間交流合作的促進者、構建網路空間命運共同體的踐行者，講好中國與各國的友好故事，搭建更多合作平臺，以實際行動為全球網路空間和平發展注入更多動力。（網信中國）"
-    },
-    {
-      "id": "te:markets:568265",
-      "time": "2026-07-20 22:08:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "EU Carbon Permits Hits 23-week High — EU Carbon Permits increased to 82.67 EUR, the highest since February 2026. Over the past 4 weeks, EU Carbon Permits gained 0.77%, and in the last 12 months, it increased 17.71%."
-    },
-    {
-      "id": "4998220",
-      "time": "2026-07-20 22:08:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SMBC宣佈訂購100架波音737 MAX系列飛機】7月20日，飛機租賃公司SMBC Aviation Capital在2026範堡羅航展宣佈訂購100架波音737 MAX系列飛機，包括60架737-10。"
-    },
-    {
-      "id": "4998219",
-      "time": "2026-07-20 22:07:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：ASML將向2027至2030年留任員工發放2萬歐元留任獎金。"
-    },
-    {
-      "id": "mkt:019f7fd9-3892-7aab-8e0f-9e994c617c4d",
-      "time": "2026-07-20 22:06:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【UAE non-oil foreign trade hits record in 1H】UAE non-oil foreign trade reached AED 1.937 trillion in 1H 2026 (about USD 528.0 bln at 1 USD = 3.67 AED), up 13.1% YoY to a record. Non-oil exports were the main driver, rising to a record AED 452.8 bln (≈USD 123.4 bln) and lifting their share of non-oil trade to 23.4% from 21.3% a year earlier. By commodity, gold was the largest non-oil item, up 48.8% YoY; telecom equipment, jewellery and vehicles were the next-largest contributors."
     }
   ]
 }

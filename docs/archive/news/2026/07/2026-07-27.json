@@ -1,7 +1,116 @@
 {
   "date": "2026-07-27",
-  "count": 2462,
+  "count": 2474,
   "items": [
+    {
+      "id": "mkt:019fa3e8-4e0e-7aab-8eb0-eae830d148b0",
+      "time": "2026-07-27 22:08:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baker Hughes says it expects the impact of the Iran conflict on some projects and supply chains to be offset by stronger performance in other regions."
+    },
+    {
+      "id": "5010560",
+      "time": "2026-07-27 22:08:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：美國的行為表現得像個黑幫團伙，需要學會負責任地行事，才能促成合理的外交程序。"
+    },
+    {
+      "id": "mkt:019fa3e7-bfeb-7aab-8eb0-e58b9d82a982",
+      "time": "2026-07-27 22:08:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "US equities pared earlier gains; Nasdaq-100 briefly dipped into negative territory."
+    },
+    {
+      "id": "5010559",
+      "time": "2026-07-27 22:07:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉跌，此前一度漲超1%。"
+    },
+    {
+      "id": "mkt:019fa3e6-f6bd-7aab-8eb0-df0e7a4b5622",
+      "time": "2026-07-27 22:07:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "The European Commission is considering amending a tax on large companies to unlock a budget agreement, Politico reports."
+    },
+    {
+      "id": "5010558",
+      "time": "2026-07-27 22:06:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝克休斯預計中東業務活動大體穩定，多數其他市場第三季度將實現溫和增長。"
+    },
+    {
+      "id": "5010557",
+      "time": "2026-07-27 22:06:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國民主黨眾議員加西亞詢問泰勒農場公司是否干預了FDA的調查。"
+    },
+    {
+      "id": "mkt:019fa3e6-373d-7aab-8eb0-d08f14deca3e",
+      "time": "2026-07-27 22:06:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukraine has requested an emergency UN Security Council meeting scheduled to convene shortly."
+    },
+    {
+      "id": "5010556",
+      "time": "2026-07-27 22:06:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣藥集團旗下白雲山何濟公收購北京法瑪星醫藥】7月25日，廣藥集團旗下廣州白雲山何濟公藥業有限公司（下稱白雲山何濟公）與北京法瑪星醫藥科技有限公司（以下簡稱：法瑪星醫藥）簽訂股權轉讓協議，以人民幣3.3億元為交易對價，收購法瑪星醫藥股權，成為其控股股東。此次收購完成後，白雲山何濟公將切入新型透皮貼劑領域。"
+    },
+    {
+      "id": "5010555",
+      "time": "2026-07-27 22:06:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【費城半導體指數跌幅擴大至1.74%】費城半導體指數跌幅擴大至1.74%，現報11613.32點。"
+    },
+    {
+      "id": "mkt:019fa3e5-8c24-7aab-8eb0-cc117a94c43e",
+      "time": "2026-07-27 22:05:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Foreign Ministry spokesperson on Ukraine said Russia is willing to consider new ideas and proposals."
+    },
+    {
+      "id": "mkt:019fa3e5-6fea-7aab-8eb0-c31953c9c21d",
+      "time": "2026-07-27 22:05:50",
+      "tags": [
+        "MKT News",
+        "BKR.O",
+        "Impact bearish"
+      ],
+      "text": "Baker Hughes said it expects regional facilities to face higher logistics costs and inflationary pressure amid the Middle East conflict."
+    },
     {
       "id": "mkt:019fa3e4-d98d-7aab-8eb0-bfa94613d83a",
       "time": "2026-07-27 22:05:11",
