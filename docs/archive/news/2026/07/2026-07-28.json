@@ -1,7 +1,49 @@
 {
   "date": "2026-07-28",
-  "count": 253,
+  "count": 258,
   "items": [
+    {
+      "id": "5010811",
+      "time": "2026-07-28 03:41:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我心裡有點不舒服，因為兩年半之後，總統人選或許就會換人。"
+    },
+    {
+      "id": "mkt:019fa518-861c-7aab-8eb6-9edbab4d53e5",
+      "time": "2026-07-28 03:41:15",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Nikkei reports Japan will significantly expand corporate bond trading disclosures to boost market transparency."
+    },
+    {
+      "id": "5010810",
+      "time": "2026-07-28 03:40:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：油價此前短暫回落。但伊朗方面不守規矩，我只能重新採取強硬措施。如今他們又安分下來了。"
+    },
+    {
+      "id": "mkt:019fa517-77ee-7aab-8eb6-93ffd2d96584",
+      "time": "2026-07-28 03:40:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Iran is begging the US to lift sanctions."
+    },
+    {
+      "id": "5010809",
+      "time": "2026-07-28 03:40:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將很快消除伊朗的核威脅。"
+    },
     {
       "id": "5010808",
       "time": "2026-07-28 03:38:07",
