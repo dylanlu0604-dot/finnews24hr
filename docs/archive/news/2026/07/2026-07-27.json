@@ -1,7 +1,53 @@
 {
   "date": "2026-07-27",
-  "count": 909,
+  "count": 914,
   "items": [
+    {
+      "id": "mkt:019fa1ce-43e7-7aab-8ea2-3341a8702d2f",
+      "time": "2026-07-27 12:21:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Portuguese expert warns extreme 'sixth-generation' wildfires may become more frequent】On the 26th, Portuguese wildfire expert Domingos Viegas warned that as climate change intensifies, extreme 'sixth-generation' wildfires could become more frequent; the wildfires currently burning in Spain and France display those characteristics."
+    },
+    {
+      "id": "5009320",
+      "time": "2026-07-27 12:20:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀·桑德勒將Rivian股票評級從中性上調至增持，目標股價從18美元上調至20美元。"
+    },
+    {
+      "id": "5009319",
+      "time": "2026-07-27 12:20:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【花樣年控股：建議股份合併及更改每手買賣單位】花樣年控股(01777.HK)公告，每5股每股面值0.1港的現有股份將合併為1股每股面值0.5港元的合併股份，待建議股份合併生效後，每手買賣單位將由1500股現有股份更改為5000股合併股份。"
+    },
+    {
+      "id": "5009318",
+      "time": "2026-07-27 12:19:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“中國粉絲在泰國一活動現場被工作人員暴力對待”，中使館發聲】7月27日，中國駐泰國大使館發文：針對一名中國公民7月25日在泰國曼谷參加書展活動時被保安強力對待並帶離現場一事，中國駐泰國使館已收到該公民反映的情況，也注意到活動主辦方釋出宣告，主辦方承認“超出當時情況所需的用力行為”。中國駐泰國使館敦促相關方面儘快查明真相，妥善處理此事。使館將在職責範圍內為中國公民提供必要協助，維護其合法權益。"
+    },
+    {
+      "id": "mkt:019fa1cc-2c56-7aab-8ea2-2d61e53b0ea2",
+      "time": "2026-07-27 12:19:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【Report: Alibaba Cloud holds 37% share of China's AI game cloud model services, ranks first】IDC's China AI Game Cloud Market Insights, 2025 report says Alibaba Cloud holds a 37% share of China's AI game cloud model services and AI applications market, ranking first."
+    },
     {
       "id": "5009317",
       "time": "2026-07-27 12:17:58",
