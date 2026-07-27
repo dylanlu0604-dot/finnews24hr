@@ -1,7 +1,35 @@
 {
   "date": "2026-07-28",
-  "count": 175,
+  "count": 178,
   "items": [
+    {
+      "id": "5010760",
+      "time": "2026-07-28 02:23:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔響起防空警報。"
+    },
+    {
+      "id": "mkt:019fa4d0-97ec-7aab-8eb5-c3ecbcd49779",
+      "time": "2026-07-28 02:22:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Alarms sounded in Kyiv, Ukraine."
+    },
+    {
+      "id": "mkt:019fa4cf-20c4-7aab-8eb5-befdcdae0a0d",
+      "time": "2026-07-28 02:21:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude oil futures fell to $82.00/bbl, down 9.37% intraday."
+    },
     {
       "id": "mkt:019fa4ce-62ad-7aab-8eb5-b4e5d9766b56",
       "time": "2026-07-28 02:20:16",
