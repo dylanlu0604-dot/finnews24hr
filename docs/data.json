@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-28 02:05:35",
+  "updated": "2026-07-28 02:09:24",
   "count": 17796,
   "items": [
+    {
+      "id": "mkt:019fa4c1-646c-7aab-8eb5-8b2b9c508a4a",
+      "time": "2026-07-28 02:06:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish",
+        "MSFT.O"
+      ],
+      "text": "Google (GOOG.O) and Microsoft (MSFT.O) said discovered software vulnerabilities have hit a record high. Known network vulnerabilities are expected to substantially exceed 205."
+    },
+    {
+      "id": "5010754",
+      "time": "2026-07-28 02:05:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Verdek 公司公告：依託本企業持有的美國聯邦總務署（GSA）政府採購框架合同，美國各聯邦政府機構現已可採購特斯拉 V4 超級充電樁。"
+    },
     {
       "id": "mkt:019fa4be-8c8a-7aab-8eb5-83b292f446bf",
       "time": "2026-07-28 02:02:58",
@@ -163177,27 +163203,6 @@
         "國際"
       ],
       "text": "【DoubleLine：美債收益率上升將有助於美聯儲維持利率不變】DoubleLine正在加碼較短期限的政府債券，理由是美聯儲主席凱文·沃什在投資者中的信譽將有助於央行今年維持利率不變。該公司全球主權債和新興市場投資組合經理Bill Campbell表示，處於高位的美國國債收益率正推高借貸成本，如果資料繼續顯示通脹趨緩，可能促使美聯儲維持利率不變。"
-    },
-    {
-      "id": "4998404",
-      "time": "2026-07-21 02:07:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美官員：黎巴嫩試點管控區落地，黎軍接管清剿真主黨設施】美國一名高階官員表示，黎巴嫩試點管控區域的設立代表著 “當地取得實質性進展”。該官員稱，黎巴嫩武裝部隊將接管這些區域，清繳區內武器、拆除設施，開展合規核查行動並維持管控，防止真主黨將當地社群用作襲擊據點。"
-    },
-    {
-      "id": "mkt:019f80b5-1a58-7aab-8e13-94abbe529cc4",
-      "time": "2026-07-21 02:06:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "According to TASNIM NEWS, Israeli media report explosions heard in Eilat, a southern Israeli port city."
     }
   ]
 }
