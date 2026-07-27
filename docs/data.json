@@ -1,7 +1,138 @@
 {
-  "updated": "2026-07-27 16:04:05",
-  "count": 17850,
+  "updated": "2026-07-27 16:07:53",
+  "count": 17855,
   "items": [
+    {
+      "id": "mkt:019fa29d-30e5-7aab-8ea8-2e6fab2407cd",
+      "time": "2026-07-27 16:07:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran says Strait of Hormuz remains closed】On the 27th (local time) Foreign Ministry spokesman Baghaei said the Strait of Hormuz remains closed and that talks with Oman on the strait’s management have made positive progress."
+    },
+    {
+      "id": "5009682",
+      "time": "2026-07-27 16:07:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏工科技：擬6000萬元-9000萬元回購公司股份】宏工科技7月27日公告，擬以集中競價交易方式回購公司股份，回購總金額不低於6000萬元且不超過9000萬元。回購價格不超過100元/股。回購股份將用於員工持股計劃或者股權激勵。回購期限為自公司董事會審議透過本次回購方案之日起12個月內。"
+    },
+    {
+      "id": "mkt:019fa29c-b3d4-7aab-8ea8-20c91708f615",
+      "time": "2026-07-27 16:06:46",
+      "tags": [
+        "MKT News",
+        "PSX.N",
+        "Impact bearish"
+      ],
+      "text": "Phillips 66 (PSX.N) said a unit malfunction occurred at its Wood River, Illinois refinery."
+    },
+    {
+      "id": "5009681",
+      "time": "2026-07-27 16:06:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗外交部：霍爾木茲海峽仍然關閉】當地時間27日，伊朗外交部發言人巴加埃在新聞釋出會上表示，霍爾木茲海峽目前仍處於關閉狀態。發言人還表示，伊朗和阿曼關於霍爾木茲海峽管理的會談取得了積極進展。（央視新聞）"
+    },
+    {
+      "id": "5009680",
+      "time": "2026-07-27 16:06:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代旗下時代綠色能源增資至35億 增幅75%】天眼查App顯示，近日，時代綠色能源有限公司發生工商變更，註冊資本由20億人民幣增至35億人民幣，增幅75%。該公司成立於2006年12月，法定代表人為蔣安奕，經營範圍含海上風電相關係統研發、風電場相關係統研發、新興能源技術研發、太陽能發電技術服務等，由寧德時代（300750）全資持股。"
+    },
+    {
+      "id": "mkt:019fa29b-d6f7-7aab-8ea8-1d3e1ed953c3",
+      "time": "2026-07-27 16:05:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say ByteDance has launched a $20 billion syndicated loan."
+    },
+    {
+      "id": "5009679",
+      "time": "2026-07-27 16:05:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本將成立戰後首箇中央情報機構：顛覆去中心化設計，動搖和平憲法根基】日本政府近日決定，將於7月31日設立旨在強化情報活動職能的“國家情報局”。局長由內閣情報官原和也擔任，而其指揮中樞——“國家情報會議”則由首相高市早苗擔任主席、木原等9名閣僚組成。該會議將於31日首次開會，討論包括制定首份情報活動指標《國家情報戰略》（暫定名），並推進爭議極大的《反間諜法》等。（澎湃新聞）"
+    },
+    {
+      "id": "5009678",
+      "time": "2026-07-27 16:05:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三祥新材：控股股東813.4萬股解除質押 後續暫無再質押計劃】三祥新材公告稱，2026年7月24日，公司控股股東匯阜投資原質押給西南證券的813.4萬股無限售流通股解除質押，佔其所持股份比例8.02%，佔公司總股本1.37%。本次解除質押後，匯阜投資及其一致行動人所持公司股份均不存在質押情形，且暫無計劃將解除質押股份用於後續質押。"
+    },
+    {
+      "id": "te:markets:570050",
+      "time": "2026-07-27 16:05:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Rises by 2.66% — Top commodity gainers are Platinum (2.66%), Silver (1.98%) and Gold (0.90%). Biggest loser is Iron Ore CNY (-0.60%)."
+    },
+    {
+      "id": "5009677",
+      "time": "2026-07-27 16:05:04",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金：維持寧德時代“跑贏行業”評級，分紅+大額回購強化股東回報】中金公司研報指出，寧德時代業績符合預期，分紅+大額回購強化股東回報。公司1H26歸母淨利潤432.84億元、同增41.98%，業績符合市場預期。2Q26鋰電出貨延續同比高增，單位盈利環比有所波動；非鋰部分2Q26營收同比高增，毛利率環比持續改善。公司26 年中期預計分紅達65 億元；同時擬使用200-400 億元資金回購A股，用於登出並減少註冊資本，增厚股東回報並彰顯公司信心。維持A股/H股目標價500.0/715.0元不變，以及“跑贏行業”評級。"
+    },
+    {
+      "id": "mkt:019fa29b-0cd2-7aab-8ea8-15794db451a6",
+      "time": "2026-07-27 16:04:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US-Iran pause raises hopes for Hormuz shipping; European gas and oil tumble】US and Iran paused mutual strikes over the weekend, boosting expectations that Strait of Hormuz energy flows could resume. ICE data at 07:35 GMT showed the Netherlands TTF near-month contract fell EUR4.69 to EUR58.89/MWh and the UK near-month contract dropped 11.44 pence to 142.67 p/therm. Prices had spiked last week to the highest intraday levels since March after 13 days of reciprocal attacks but eased to six-day lows following the pause. Oil prices also fell sharply. ING analysts said the move reflects a market eager for positive news, adding this is the first substantive sign of de‑escalation but the reasons remain unclear and vessel traffic through the Strait of Hormuz has not yet shown a meaningful rebound."
+    },
+    {
+      "id": "te:economy:570049",
+      "time": "2026-07-27 16:04:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yield Falls Below 5% as Oil Prices Ease Inflation Fears — The UK 10-year gilt yield fell below 5% as declining oil prices helped ease short-term inflation concerns. Brent crude retreated from two-month highs after the U.S. and Iran paused hostilities and resumed diplomatic contacts, prompting money markets to slightly scale back expectations for further monetary tightening. Investors now turn their attention to the Bank of England's policy decision later this week, with policymakers widely expected to leave interest rates unchanged at 3.75%. Recent inflation data has reinforced that view, with annual consumer price growth slowing to a 15-month low of 2.6% in June, below the BoE's forecasts. A delayed pass-through of higher wholesale energy costs to regulated household bills has also kept UK inflation below that of the U.S. and the euro area, where the European Central Bank is still expected to raise rates again in September or October."
+    },
+    {
+      "id": "5009676",
+      "time": "2026-07-27 16:03:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱充分利用停火全面強化實力】在伊朗塔斯尼姆通訊社7月26日釋出的影片中，伊朗伊斯蘭革命衛隊發言人穆赫比稱，伊朗在與美國停火期間不斷提升自身實力、加快導彈生產速度、提高導彈打擊精度、強化戰備水平、完善被動防禦體系，真正把這次機會運用到了極致。相比之下，美國並沒有像外界所吹噓的那樣在停火期間撈到好處。他指出，美國的石油虧空不但沒能補上，缺口反而擴大了。（CCTV國際時訊）"
+    },
+    {
+      "id": "5009675",
+      "time": "2026-07-27 16:03:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南省許昌市人大常委會原副主任劉林波被“雙開”】中央紀委國家監委網站7月27日通報，據河南省紀委監委訊息：經中共河南省委批准，河南省紀委監委對許昌市人大常委會原副主任劉林波嚴重違紀違法問題進行了立案審查調查。經查，劉林波喪失理想信念，背棄初心使命，與他人串供，轉移隱匿證據，對抗組織審查；違反中央八項規定精神，收受可能影響公正執行公務的禮品、禮金、消費卡；違背組織原則，利用職權為他人謀取人事利益；廉潔底線失守，借用管理和服務物件車輛，將應由個人支付的費用由他人支付；大搞權錢交易，利用職務便利為他人在工程承攬等方面謀取利益，非法收受鉅額財物。劉林波嚴重違反黨的政治紀律、組織紀律、廉潔紀律和生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大、十九大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經河南省紀委常委會會議研究並報中共河南省委批准，決定給予劉林波開除黨籍處分；由河南省監委給予其開除公職處分；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
+    },
     {
       "id": "te:markets:570048",
       "time": "2026-07-27 16:03:00",
@@ -163458,82 +163589,6 @@
         "公司"
       ],
       "text": "【思泉新材：控股股東及其一致行動人持股比例被動稀釋至25.54%】思泉新材公告稱，2025年度公司向特定物件發行323.82萬股人民幣普通股（A股），發行價格為143.88元/股，發行完成後公司總股本由1.13億股變更為1.16億股。控股股東、實際控制人任澤明及其一致行動人深圳眾森不是認購物件，持股數量未變，合計持股比例由26.27%被動稀釋至25.54%，權益變動觸及1%整數倍。本次權益變動不會導致控股股東、實際控制人發生變化。"
-    },
-    {
-      "id": "4997359",
-      "time": "2026-07-20 16:07:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【武商集團：完成2023年度第一期9.4億元中期票據兌付】武商集團公告稱，公司已於2026年7月19日按期完成“23武商MTN001”中期票據的兌付。該票據於2023年7月17 - 18日發行，金額9.4億元，期限3年，票面利率3.3%。本次兌付相關情況可查閱中國貨幣網、上海清算所。"
-    },
-    {
-      "id": "4997358",
-      "time": "2026-07-20 16:07:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "空中客車歐洲公司：英國國家警察航空局追加訂購兩架空客H135直升機。"
-    },
-    {
-      "id": "mkt:019f7e8f-c180-7aab-8e06-010e8d02ab83",
-      "time": "2026-07-20 16:06:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran’s foreign ministry spokesman said Iran’s interior minister is due to make a scheduled bilateral visit to Pakistan today to hold talks on areas under the two interior ministries’ remit, with a focus on strengthening border and security cooperation."
-    },
-    {
-      "id": "4997357",
-      "time": "2026-07-20 16:06:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家糧食和物資儲備局局長劉煥鑫赴上海調研應急儲備物資保障工作】7月19日，國家發展和改革委員會黨組成員，國家糧食和物資儲備局黨組書記、局長劉煥鑫帶隊赴上海市，圍繞紮實做好應急儲備物資保障工作進行調研。劉煥鑫強調，確保物資儲得好是做好應急儲備工作的重要方面。要持續夯實應急儲備物資管理基礎，完善相關制度，最佳化作業流程，緊盯操作細節，對物資實行分類管理、分割槽存放，加大在庫物資維護保養和巡查巡檢力度，發現問題及時處置，不斷提升儲備庫管理規範化、標準化、精細化水平。要嚴把物資出庫關，強化垂直管理局監管責任和儲備倉庫主體責任落實，切實做到應急儲備物資數量真實、質量良好。"
-    },
-    {
-      "id": "4997356",
-      "time": "2026-07-20 16:05:39",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局：引導平臺企業合理降低佣金、抽成、會員費等費用 減輕個體工商戶運營初期成本壓力】市場監管總局辦公廳印發《推動平臺企業賦能個體工商戶發展行動方案》的通知。引導平臺企業為新入駐個體工商戶提供讓利服務，合理降低佣金、抽成、會員費、技術服務費、資訊服務費、營銷推廣費等費用，減輕個體工商戶運營初期成本壓力。落實《網路交易平臺收費行為合規指南》，規範和引導平臺企業收費行為。"
-    },
-    {
-      "id": "4997355",
-      "time": "2026-07-20 16:05:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：中方始終是泰方可信賴、可依靠的戰略合作伙伴】7月20日，外交部發言人林劍主持例行記者會。有記者就中泰合作提問。林劍表示，泰國總理阿努廷目前正在中國進行正式訪問，他還出席了在上海舉行的2026世界人工智慧大會暨人工智慧全球治理高階別會議。習近平主席在上海會見了阿努廷總理，在會見中習主席指出，中泰友好綿延千年、歷久彌堅。雙方以誠相待、以心相交，結成“中泰一家親”情誼。中方將發展中泰關係置於周邊外交重要位置，始終是泰方可信賴、可依靠的戰略合作伙伴。中泰雙方要進一步增進戰略互信，加強戰略協作，攜手應對挑戰，加快構建更為穩定、更加繁榮、更可持續的中泰命運共同體，助力兩國各自現代化程序，為促進地區和平穩定和發展繁榮作出積極貢獻。（央視新聞）"
-    },
-    {
-      "id": "4997354",
-      "time": "2026-07-20 16:05:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海電氣：預計2026年上半年淨利潤同比增長12%至22%】上海電氣公告，預計2026年半年度歸屬於母公司所有者的淨利潤為9.2億元至10億元，同比增加約為12%至22%。公司2026年半年度利潤增長主要得益於部分核心業務板塊經營提升，以及當期確認的政府補助與部分子公司股權處置所產生的非經常性收益，共同為盈利水平提供了積極支撐，推動公司歸屬於母公司所有者的淨利潤較上年同期實現增長。"
-    },
-    {
-      "id": "4997353",
-      "time": "2026-07-20 16:05:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【白雲山：分公司收到澳門成藥登記證書】白雲山公告，分公司白雲山製藥總廠收到澳門特別行政區政府藥物監督管理局簽發的《成藥登記證書》。該藥品為頭孢氨苄膠囊0.125g，適用於敏感菌所致的急性扁桃體炎、咽峽炎、中耳炎、鼻竇炎、支氣管炎、肺炎等呼吸道感染、尿路感染及皮膚軟組織感染等。該藥品為口服制劑，不宜用於重症感染。"
-    },
-    {
-      "id": "te:markets:568186",
-      "time": "2026-07-20 16:05:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Rises by 2.26% — Top commodity gainers are Silver (2.26%), Copper (0.89%) and Gold (0.15%). Biggest losers are Iron Ore CNY (-0.79%) and Silicon (-0.60%)."
     }
   ]
 }
