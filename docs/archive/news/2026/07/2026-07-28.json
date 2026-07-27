@@ -1,7 +1,77 @@
 {
   "date": "2026-07-28",
-  "count": 60,
+  "count": 68,
   "items": [
+    {
+      "id": "5010716",
+      "time": "2026-07-28 00:41:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 我們已經從委內瑞拉攫取了鉅額資金。 對待伊朗，我們也會如法炮製。"
+    },
+    {
+      "id": "5010715",
+      "time": "2026-07-28 00:40:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們在委內瑞拉相關衝突上付出了鉅額代價，損失早已遠超投入。伊朗這邊也會是同樣的局面。"
+    },
+    {
+      "id": "mkt:019fa471-9b49-7aab-8eb3-f1d4f5f65c76",
+      "time": "2026-07-28 00:38:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said Turkey has been a good ally and, responding to Israeli Prime Minister Netanyahu's opposition to a sale of F-35 fighters to Turkey, said no one tells him what he should sell to them."
+    },
+    {
+      "id": "5010714",
+      "time": "2026-07-28 00:38:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普：（被問及本週美聯儲會議）成本正在快速下降。沃什將作出正確決定，我理解沃什的想法和訴求。"
+    },
+    {
+      "id": "mkt:019fa471-18b4-7aab-8eb3-edc276d571da",
+      "time": "2026-07-28 00:38:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Walsh will make the right decision and that he understands Walsh's views and requests."
+    },
+    {
+      "id": "mkt:019fa470-bf7d-7aab-8eb3-e0de0d2e973c",
+      "time": "2026-07-28 00:38:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Asked about this week's Fed meeting, US President Trump said costs are falling rapidly."
+    },
+    {
+      "id": "5010713",
+      "time": "2026-07-28 00:37:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）總裁Georgieva：沒必要向阿根廷提供更多支援。"
+    },
+    {
+      "id": "5010712",
+      "time": "2026-07-28 00:37:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美銀：成功干預日元需日本央行發出鷹派訊號】美國銀行策略師Shusuke Yamada認為，日本央行想要成功捍衛日元就得發出鷹派訊號。 他認為165是干預美元/日元匯率對的下一個潛在門檻。“儘管7月加息的可能性仍然極低，但決策層可能需要以一種能夠提升市場對9月加息預期的方式來傳達資訊，” 這位外匯/利率策略師在研報中寫道。"
+    },
     {
       "id": "5010711",
       "time": "2026-07-28 00:36:55",
