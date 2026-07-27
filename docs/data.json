@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-28 03:02:49",
-  "count": 17804,
+  "updated": "2026-07-28 03:06:35",
+  "count": 17807,
   "items": [
+    {
+      "id": "5010781",
+      "time": "2026-07-28 03:05:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗中央司令部：任何封鎖企圖等同於升級衝突。"
+    },
+    {
+      "id": "mkt:019fa4f7-1540-7aab-8eb6-277c9945f30b",
+      "time": "2026-07-28 03:04:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's military said the US over the past three days has threatened vessels and oil tankers in waters off Iran's coast, calling the actions an escalation and warning any attack would be met with a response."
+    },
+    {
+      "id": "5010780",
+      "time": "2026-07-28 03:04:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相安迪·伯納姆任命布里奇特·菲利普森為工黨主席。"
+    },
+    {
+      "id": "5010778",
+      "time": "2026-07-28 03:02:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗衛生部：美國近期對伊朗持續12天的軍事打擊已造成本國約60人遇難、670人受傷。"
+    },
+    {
+      "id": "5010777",
+      "time": "2026-07-28 03:02:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列方面判斷，今日在約旦上空攔截的無人機，由伊朗支援的伊拉克民兵組織發射。"
+    },
     {
       "id": "5010776",
       "time": "2026-07-28 03:01:37",
@@ -163243,30 +163288,6 @@
         "MKT News"
       ],
       "text": "Nikita Bier, head of product at X, said the team is accelerating development; video, a video editor and Spaces are due to launch soon. Cashtags, custom timelines and other features have been rolled out, and many upcoming features will debut on Android first."
-    },
-    {
-      "id": "mkt:019f80e8-f7f9-7aab-8e13-f3b855a6795d",
-      "time": "2026-07-21 03:02:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude futures settled at $89.22 per barrel, up $1.12 or 1.27%."
-    },
-    {
-      "id": "mkt:019f80e8-d6c0-7aab-8e13-efbeb5f3d7db",
-      "time": "2026-07-21 03:02:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures closed the night session down 0.21% at 25,099, trading 44 points below the cash index."
     }
   ]
 }
