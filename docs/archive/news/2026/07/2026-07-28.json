@@ -1,7 +1,31 @@
 {
   "date": "2026-07-28",
-  "count": 202,
+  "count": 205,
   "items": [
+    {
+      "id": "5010773",
+      "time": "2026-07-28 02:57:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社：美國聯邦航空管理局稱，由於巴林飛行情報區軍事活動增加，建議飛行員在國際水域上空飛行時提高警惕。"
+    },
+    {
+      "id": "mkt:019fa4f0-4a3f-7aab-8eb6-1abfb8a585a6",
+      "time": "2026-07-28 02:57:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tasnim News reported the US Federal Aviation Administration warned pilots to exercise heightened caution over international waters after increased military activity in the Bahrain flight information region."
+    },
+    {
+      "id": "mkt:019fa4ed-d3ee-7aab-8eb6-12d91566cb1b",
+      "time": "2026-07-28 02:54:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Federal Aviation Administration delayed flights at New York City and Philadelphia airports due to staffing shortages and adverse weather."
+    },
     {
       "id": "5010772",
       "time": "2026-07-28 02:53:36",
