@@ -1,7 +1,40 @@
 {
   "date": "2026-07-28",
-  "count": 68,
+  "count": 71,
   "items": [
+    {
+      "id": "mkt:019fa476-acde-7aab-8eb4-0512f2302fe6",
+      "time": "2026-07-28 00:44:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude slid just over $0.50 intraday to $81.86/bbl and $86.18/bbl respectively after Trump said negotiations with Iran were progressing well and he would agree to meet Iran."
+    },
+    {
+      "id": "5010717",
+      "time": "2026-07-28 00:43:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【受高溫困擾，埃及購買8月LNG貨物以應對需求】據知情人士透露，埃及氣溫飆升及夏季用電高峰，已促使該國能源公司購買液化天然氣（LNG）的即期交貨。埃及國家能源公司埃及通用石油公司（EGPC）已鎖定此前招標的8月交貨貨物，並從現有供應商處額外採購了數批貨物。埃及此前曾是LNG出口國，但隨著國內產量下降且消費量超過供應量，該國日益依賴全球LNG市場。而涉及伊朗的衝突限制了霍爾木茲海峽的運輸，已導致市場可用貨物收緊，進一步加劇了埃及的採購壓力。"
+    },
+    {
+      "id": "mkt:019fa475-40d3-7aab-8eb3-fe75f80d417e",
+      "time": "2026-07-28 00:42:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said prices will fall sharply once the war ends."
+    },
     {
       "id": "5010716",
       "time": "2026-07-28 00:41:06",
