@@ -1,7 +1,78 @@
 {
   "date": "2026-07-28",
-  "count": 359,
+  "count": 366,
   "items": [
+    {
+      "id": "5010879",
+      "time": "2026-07-28 05:53:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭方面訊息：基輔市內傳來爆炸聲。"
+    },
+    {
+      "id": "mkt:019fa591-9080-7aab-8eb7-9763e3fc997a",
+      "time": "2026-07-28 05:53:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Market reports: explosions heard in Kyiv, Ukraine's capital."
+    },
+    {
+      "id": "5010878",
+      "time": "2026-07-28 05:53:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列總理：伊朗的核計劃必須終止】根據以色列總理辦公室釋出的宣告，以色列總理內塔尼亞胡7月27日啟程前往美國，並計劃於28日與美國總統特朗普舉行會談。啟程前，內塔尼亞胡表示，無論是否達成相關協議，伊朗的核計劃必須終止。"
+    },
+    {
+      "id": "5010877",
+      "time": "2026-07-28 05:51:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【城堡證券：沃什本週或將意外加息】城堡證券預計，美聯儲將於本週加息——這一意外舉動將強化主席凱文·沃什在抗擊通脹鬥爭中的信譽。該機構宏觀策略主管弗蘭克·弗萊特在一份報告中寫道，週三加息25個基點將鞏固沃什恢復物價穩定的反覆承諾，同時表明決策者不再依賴提前為每一項政策舉措釋放訊號。“市場可能再次低估了美聯儲鷹派轉向的程度。”本週加息將“果斷終結前瞻指引時代”，同時凸顯美聯儲的獨立性。"
+    },
+    {
+      "id": "mkt:019fa58f-9f2a-7aab-8eb7-8c9f97139704",
+      "time": "2026-07-28 05:51:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Citadel Securities: Fed chair Kevin Wash could surprise with rate hike this week】Citadel Securities expects the Fed to raise rates this week; a Wednesday 25bp hike would bolster Chair Kevin Wash’s credibility in the inflation fight, the firm’s head of macro strategy Frank Flet wrote. The move would signal policymakers no longer rely on pre-signaling every action, could “decisively end the era of forward guidance,” and underscores Fed independence. “Markets may again underestimate the extent of the Fed’s hawkish shift.”"
+    },
+    {
+      "id": "5010876",
+      "time": "2026-07-28 05:51:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗武裝部隊對美國海上封鎖發出警告】當地時間7月27日，伊朗武裝部隊哈塔姆安比亞中央總部發表宣告稱，美國在加劇地區不安全域性勢的同時，持續對伊朗實施非法的海上封鎖，並在過去三天裡威脅伊朗沿海和領海的商船、油輪等。美國的這一行動將被視為對地區戰爭的擴大，伊朗武裝力量絕不會放過美軍的任何威脅，將作出回應。（央視新聞）"
+    },
+    {
+      "id": "5010875",
+      "time": "2026-07-28 05:50:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官方媒體：伊拉克北部最大氣田遭遇襲擊。"
+    },
     {
       "id": "te:markets:570186",
       "time": "2026-07-28 05:49:41",
