@@ -1,7 +1,18 @@
 {
   "date": "2026-07-28",
-  "count": 178,
+  "count": 179,
   "items": [
+    {
+      "id": "te:markets:570170",
+      "time": "2026-07-28 02:24:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Falls by 4.00% — Top commodity losers are Oat (-4%), Canola (-3.96%) and Cocoa (-3.36%). Gains are led by Coffee (2.89%) and Cotton (1.08%)."
+    },
     {
       "id": "5010760",
       "time": "2026-07-28 02:23:01",

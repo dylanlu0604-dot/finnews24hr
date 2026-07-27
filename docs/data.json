@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-28 02:24:28",
-  "count": 17805,
+  "updated": "2026-07-28 02:28:13",
+  "count": 17804,
   "items": [
+    {
+      "id": "te:markets:570170",
+      "time": "2026-07-28 02:24:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Falls by 4.00% — Top commodity losers are Oat (-4%), Canola (-3.96%) and Cocoa (-3.36%). Gains are led by Coffee (2.89%) and Cotton (1.08%)."
+    },
     {
       "id": "5010760",
       "time": "2026-07-28 02:23:01",
@@ -163259,25 +163270,6 @@
         "其他"
       ],
       "text": "【約旦境內美軍空軍基地受損程度遠超最初報道】約旦境內美軍空軍基地受損程度遠超最初報道。最新評估顯示，約旦穆瓦法克·薩爾蒂空軍基地並非僅遭到單枚火箭彈襲擊，而是遭遇一場大規模、高度協同、精準定點的打擊。情報偵察/近距離空中支援區域內第二座機庫確認遭擊中；美軍士兵宿舍區損毀嚴重，該區域正是此前有美軍人員遇難的地點。多座其他飛機與無人機掩體被徹底摧毀，其中包括此前停放美軍MQ-9“死神”無人機的設施。"
-    },
-    {
-      "id": "te:markets:568306",
-      "time": "2026-07-21 02:25:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Lumber Gains by 1.91% — Top commodity gainers are Lumber (1.91%) and Canola (1.83%). Biggest losers are Wheat (-1.35%) and Rubber (-0.51%)."
-    },
-    {
-      "id": "4998407",
-      "time": "2026-07-21 02:24:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "約旦全境響起防空警報。"
     }
   ]
 }
