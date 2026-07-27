@@ -1,7 +1,48 @@
 {
   "date": "2026-07-28",
-  "count": 480,
+  "count": 484,
   "items": [
+    {
+      "id": "5010969",
+      "time": "2026-07-28 07:42:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【碳酸亞乙烯酯價格大漲10% 市場供需持續偏緊】百川盈孚資料顯示，7月27日，電解液關鍵原料碳酸亞乙烯酯（VC）加速上漲，單日大漲10%，最新報價為22萬元/噸，再創新高。此前的7月23日，VC調漲11%。7月份以來，累計漲幅近37.5%。"
+    },
+    {
+      "id": "te:markets:570203",
+      "time": "2026-07-28 07:40:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Mixed as Chipmakers Drag — US stock futures traded mixed on Tuesday as another wave of selling in semiconductor stocks dampened investor sentiment, while markets awaited earnings from megacap technology companies and the Federal Reserve's latest policy decision. During Monday's regular session, the Dow and S&P 500 gained 0.51% and 0.02%, respectively, while the tech-heavy Nasdaq Composite slipped 0.18%. Fresh concerns that circular AI financing arrangements could unravel if hyperscalers scale back capital spending continued to pressure chipmakers, with Micron (-2.3%), Nvidia (-5%), Sandisk (-11%), AMD (-5.2%), and SK Hynix (-7.5%) posting steep losses. Investors are now focused on earnings from Amazon, Meta Platforms, and Microsoft later this week for further insight into hyperscaler spending, while Apple is also scheduled to report its results. Meanwhile, the Fed is widely expected to leave interest rates unchanged on Wednesday, with markets continuing to price in the possibility of a rate hike in September."
+    },
+    {
+      "id": "mkt:019fa5f3-6f9f-7aab-8eb8-23ca3fec0642",
+      "time": "2026-07-28 07:40:22",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bearish",
+        "UAL.O",
+        "LUV.N"
+      ],
+      "text": "The US Federal Aviation Administration (FAA) proposed a new rule requiring airlines to repair faulty passenger seats."
+    },
+    {
+      "id": "5010968",
+      "time": "2026-07-28 07:40:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局稱，數百架波音737 MAX飛機座椅安裝不當，飛機在緊急降落時座椅可能鬆動。美國聯邦航空管理局提議出臺新規，要求航空公司修復座椅。"
+    },
     {
       "id": "mkt:019fa5f2-5ce4-7aab-8eb8-1edb78717bc0",
       "time": "2026-07-28 07:39:11",
