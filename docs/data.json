@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-28 04:02:30",
-  "count": 17821,
+  "updated": "2026-07-28 04:06:18",
+  "count": 17820,
   "items": [
+    {
+      "id": "mkt:019fa52c-26ef-7aab-8eb6-d88f3c8503f3",
+      "time": "2026-07-28 04:02:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O): Ryanair renews five-year contract with Amazon Web Services."
+    },
+    {
+      "id": "mkt:019fa52c-0607-7aab-8eb6-d0961c67c648",
+      "time": "2026-07-28 04:02:33",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【Dollar index up 0.07% to 101.539 on 27th】The dollar index, measuring the dollar against six major currencies, rose 0.07% to 101.539. At the New York close, EUR/USD was 1.1368, down from 1.1370; GBP/USD 1.3288, down from 1.3326; USD/JPY 163.78, down from 163.84; USD/CHF 0.8190, up from 0.8182; USD/CAD 1.4125, up from 1.4096; USD/SEK 9.7285, up from 9.7158."
+    },
     {
       "id": "mkt:019fa52b-54ef-7aab-8eb6-ce41610d090e",
       "time": "2026-07-28 04:01:48",
@@ -163371,34 +163399,6 @@
         "國際"
       ],
       "text": "SpaceX：將於 8 月 4 日公佈 2026 年第二季度業績並舉辦線上直播釋出會。"
-    },
-    {
-      "id": "mkt:019f8122-8005-7aab-8e14-95c47f0a5100",
-      "time": "2026-07-21 04:05:49",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "At the close on Monday, July 20, the Dow Jones Industrial Average fell 305.32 points, or 0.59%, to 51,841.10. The S&P 500 dropped 14.28 points, or 0.19%, to 7,443.41. The Nasdaq Composite slipped 12.17 points, or 0.05%, to 25,508.07."
-    },
-    {
-      "id": "mkt:019f8120-61ca-7aab-8e14-8ee3f21352e0",
-      "time": "2026-07-21 04:03:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump orders defense supply-chain review to secure critical wartime links】The White House on Monday signed an executive order requiring U.S. defense contractors to map key supply chains and identify components sourced from adversary countries. White House trade adviser Peter Navarro called it 'battlefield preparation' and said 'if a missile system depends on a foreign-controlled supplier, the war minister must know before firing.' Senior U.S. officials said the review will cover entire production chains from raw materials to final military deliveries, with particular focus on lower-tier suppliers; they did not provide a timetable for rulemaking."
-    },
-    {
-      "id": "4998454",
-      "time": "2026-07-21 04:03:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "IREN Ltd.（IREN）收漲20%，創2024年11月份以來最大單日漲幅，該公司上調2026年ARR目標至超過40億美元，簽訂28億美元新客戶合同。"
     }
   ]
 }
