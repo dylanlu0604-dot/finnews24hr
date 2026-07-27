@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-27 23:01:20",
-  "count": 17795,
+  "updated": "2026-07-27 23:05:18",
+  "count": 17783,
   "items": [
+    {
+      "id": "5010632",
+      "time": "2026-07-27 23:04:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱打擊沙特石油基礎設施】葉門胡塞武裝27日稱，該組織當天出動多架無人機，對沙特原油運輸網路相關基礎設施發動打擊。胡塞武裝發言人葉海亞·薩雷亞當天在社交媒體發表宣告稱，胡塞武裝使用多架無人機打擊了“多處敏感目標和設施”，這些設施用於將沙特東部地區的原油運輸至紅海的延布港。薩雷亞表示，此次行動是對“沙特無人機侵犯葉門領空”的回應。（新華社）"
+    },
     {
       "id": "5010630",
       "time": "2026-07-27 23:00:29",
@@ -162964,122 +162972,6 @@
         "國際"
       ],
       "text": "【伊朗稱打擊多處美軍事目標 最新畫面公佈】當地時間7月20日，伊朗伊斯蘭革命衛隊釋出當天打擊多處美軍事目標的影片畫面。第一段影片畫面顯示，20日凌晨，伊朗發射導彈打擊美軍位於約旦和科威特的目標。第二段影片畫面顯示，伊朗海軍同時從三個方向對美軍發動猛烈打擊。（央視新聞）"
-    },
-    {
-      "id": "4998283",
-      "time": "2026-07-20 23:05:02",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "三井住友金融租賃向空客採購65架A321NEO、35架A320NEO客機。"
-    },
-    {
-      "id": "4998282",
-      "time": "2026-07-20 23:04:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "法航暫停往返迪拜的航班，直至7月27日（含當日）。"
-    },
-    {
-      "id": "4998281",
-      "time": "2026-07-20 23:04:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "法航暫停往返利雅得的航班至7月24日（含當日）。"
-    },
-    {
-      "id": "em:qqyh_ygyh:202607203813734390",
-      "time": "2026-07-20 23:03:50",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "【英國10年期國債收益率升至自7月14日以來最高位】英國10年期國債收益率升至自7月14日以來最高位，達到5.025%，盤中上漲7個基點。"
-    },
-    {
-      "id": "te:economy:568274",
-      "time": "2026-07-20 23:03:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Switzerland",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Swiss 10-Year Yield Near 2-Month High — Switzerland's 10-year government bond yield rose above 0.45%, further increasing to a near two-month high, as escalating tensions in the Middle East lifted inflation expectations. Oil prices surged amid intensifying hostilities between the US and Iran, raising energy costs and prompting markets to reassess the outlook for inflation, economic growth, and monetary policy. The Swiss National Bank left its key policy rate unchanged at 0% at its latest meeting, expecting inflation to remain little changed in the medium term. However, meeting minutes highlighted that policymakers see rising geopolitical tensions as a near-term inflation risk. The SNB also reiterated its willingness to intervene in the foreign exchange market to counter excessive franc appreciation and preserve price stability, while the IMF urged the central bank to remain cautious should a stagflation scenario emerge."
-    },
-    {
-      "id": "4998280",
-      "time": "2026-07-20 23:03:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國財政大臣裡夫斯獲邀出任政府其他職務，但她予以拒絕。"
-    },
-    {
-      "id": "4998279",
-      "time": "2026-07-20 23:03:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元指數DXY突破101，日內漲0.25%。"
-    },
-    {
-      "id": "mkt:019f800d-8c93-7aab-8e10-d47f0cd7658c",
-      "time": "2026-07-20 23:03:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "UK 10-year gilt yield rose to 5.025%, the highest since July 14, up 7 bps intraday."
-    },
-    {
-      "id": "4998278",
-      "time": "2026-07-20 23:03:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列高階官員表示，以色列國防軍將於當地時間週二從黎巴嫩南部的試點區域撤出。"
-    },
-    {
-      "id": "mkt:019f800d-6668-7aab-8e10-ceaa9cef8a57",
-      "time": "2026-07-20 23:03:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Chancellor Reeves was offered another government post but declined."
-    },
-    {
-      "id": "4998277",
-      "time": "2026-07-20 23:03:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國10年期國債收益率升至7月14日以來新高，報5.025%，單日上漲7個基點。"
-    },
-    {
-      "id": "4998276",
-      "time": "2026-07-20 23:02:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴林內政部表示，巴林第五次響起警報。"
-    },
-    {
-      "id": "mkt:019f800c-3a21-7aab-8e10-c55645d7be48",
-      "time": "2026-07-20 23:01:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK Prime Minister Burnham said he will use all flexibility available within the UK's fiscal rules."
     }
   ]
 }
