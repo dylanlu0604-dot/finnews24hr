@@ -1,7 +1,50 @@
 {
   "date": "2026-07-28",
-  "count": 72,
+  "count": 76,
   "items": [
+    {
+      "id": "mkt:019fa47e-80ab-7aab-8eb4-1aee1408c0e7",
+      "time": "2026-07-28 00:53:01",
+      "tags": [
+        "MKT News",
+        "F.O"
+      ],
+      "text": "According to the Wall Street Journal, Ford Motor Co (F.N) has joined the competition for the U.S. Army's next-generation truck program."
+    },
+    {
+      "id": "mkt:019fa47e-684f-7aab-8eb4-15e835f99370",
+      "time": "2026-07-28 00:52:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Canada's foreign minister spoke with Qatari PM and foreign minister. Ottawa said it supports Qatar's sovereignty and security, urged Iran to stop attacks, and said reopening the Strait of Hormuz is vital."
+    },
+    {
+      "id": "5010719",
+      "time": "2026-07-28 00:52:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲88美元，報13732美元/噸。LME期鋁收漲8美元，報3168美元/噸。LME期鋅收漲20美元，報3612美元/噸。LME期鉛收漲4美元，報1891美元/噸。LME期鎳收跌166美元，報17213美元/噸。LME期錫收漲560美元，報54341美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
+    {
+      "id": "mkt:019fa47c-7134-7aab-8eb4-0b34f2df35b5",
+      "time": "2026-07-28 00:50:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump says he is in \"good talks\" with Iran, hints something may happen】On Monday en route to Michigan on Air Force One, Trump told reporters the US is in \"good talks\" with Iran, that he has \"plenty of time\" to handle the Iran issue, and that \"it's very possible something will happen\" on a potential agreement. He said he will ask Russia for satellite imagery to assist on Iran and added that once the war ends prices will fall sharply."
+    },
     {
       "id": "5010718",
       "time": "2026-07-28 00:48:24",
