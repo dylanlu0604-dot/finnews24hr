@@ -1,7 +1,71 @@
 {
   "date": "2026-07-28",
-  "count": 307,
+  "count": 314,
   "items": [
+    {
+      "id": "5010845",
+      "time": "2026-07-28 04:35:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國公開批評特朗普政府人權狀況後，美國外交官集體離場，退出聯合國安理會會議。"
+    },
+    {
+      "id": "mkt:019fa54a-16e4-7aab-8eb7-24320b12d034",
+      "time": "2026-07-28 04:35:23",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "NVDA.O",
+        "S&P500"
+      ],
+      "text": "【SK Hynix ADR falls below IPO price, joins SpaceX among large US IPOs trading under issue】SK Hynix (SKHY.O) ADR hit a record low on Monday after its $26.5 bln US listing earlier this month, retreating as investors exited high‑valuation semiconductor names. The stock plunged as much as 10% intraday to $139.01, below the $149 issue price, and closed at $143.02. SK Hynix is among the first of this year’s largest US IPOs to trade below their offer price, alongside SpaceX. The semiconductor sector extended recent losses, with the sector index closing at its lowest level since May 19. Cost of default protection on NVIDIA (NVDA.O) corporate debt rose as a new wave of AI infrastructure deals could exceed $750 bln."
+    },
+    {
+      "id": "te:markets:570182",
+      "time": "2026-07-28 04:35:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.51% Higher — The Dow Jones Index went up by 263 points or 0.51 percent on Monday to close at 52210 points. The rise was led by Salesforce (5.39%), 3M (3.17%) and Sherwin-Williams (3.05%). On the downside, the weakerst performers were Nvidia (-4.97%), Chevron (-2.55%) and Caterpillar (-1.71%)."
+    },
+    {
+      "id": "5010844",
+      "time": "2026-07-28 04:34:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美：6月抵押貸款組合總額年化增長率為2.0%。"
+    },
+    {
+      "id": "5010843",
+      "time": "2026-07-28 04:34:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美：單戶住宅逾期拖欠率從5月的0.59%升至6月的0.60%。"
+    },
+    {
+      "id": "5010842",
+      "time": "2026-07-28 04:34:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美：6月多戶型住宅貸款拖欠率從5月的0.47%升至0.51%。"
+    },
+    {
+      "id": "5010841",
+      "time": "2026-07-28 04:33:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美：6月抵押貸款相關投資組合的未償本金餘額總計增加約13億美元。"
+    },
     {
       "id": "5010840",
       "time": "2026-07-28 04:31:09",

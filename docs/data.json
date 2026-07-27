@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-28 04:33:24",
-  "count": 17831,
+  "updated": "2026-07-28 04:37:13",
+  "count": 17835,
   "items": [
+    {
+      "id": "5010845",
+      "time": "2026-07-28 04:35:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國公開批評特朗普政府人權狀況後，美國外交官集體離場，退出聯合國安理會會議。"
+    },
+    {
+      "id": "mkt:019fa54a-16e4-7aab-8eb7-24320b12d034",
+      "time": "2026-07-28 04:35:23",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "NVDA.O",
+        "S&P500"
+      ],
+      "text": "【SK Hynix ADR falls below IPO price, joins SpaceX among large US IPOs trading under issue】SK Hynix (SKHY.O) ADR hit a record low on Monday after its $26.5 bln US listing earlier this month, retreating as investors exited high‑valuation semiconductor names. The stock plunged as much as 10% intraday to $139.01, below the $149 issue price, and closed at $143.02. SK Hynix is among the first of this year’s largest US IPOs to trade below their offer price, alongside SpaceX. The semiconductor sector extended recent losses, with the sector index closing at its lowest level since May 19. Cost of default protection on NVIDIA (NVDA.O) corporate debt rose as a new wave of AI infrastructure deals could exceed $750 bln."
+    },
+    {
+      "id": "te:markets:570182",
+      "time": "2026-07-28 04:35:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.51% Higher — The Dow Jones Index went up by 263 points or 0.51 percent on Monday to close at 52210 points. The rise was led by Salesforce (5.39%), 3M (3.17%) and Sherwin-Williams (3.05%). On the downside, the weakerst performers were Nvidia (-4.97%), Chevron (-2.55%) and Caterpillar (-1.71%)."
+    },
+    {
+      "id": "5010844",
+      "time": "2026-07-28 04:34:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美：6月抵押貸款組合總額年化增長率為2.0%。"
+    },
+    {
+      "id": "5010843",
+      "time": "2026-07-28 04:34:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美：單戶住宅逾期拖欠率從5月的0.59%升至6月的0.60%。"
+    },
+    {
+      "id": "5010842",
+      "time": "2026-07-28 04:34:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美：6月多戶型住宅貸款拖欠率從5月的0.47%升至0.51%。"
+    },
+    {
+      "id": "5010841",
+      "time": "2026-07-28 04:33:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美：6月抵押貸款相關投資組合的未償本金餘額總計增加約13億美元。"
+    },
     {
       "id": "5010840",
       "time": "2026-07-28 04:31:09",
@@ -163469,42 +163533,6 @@
         "MKT News"
       ],
       "text": "IRNA reported Bushehr provincial governor said local air-defence systems have been activated to counter threats from hostile aircraft. No strikes or impacts have been reported in the Bushehr area so far."
-    },
-    {
-      "id": "te:markets:568315",
-      "time": "2026-07-21 04:37:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Steel Dynamics earnings below expectations at 3.69 USD — Steel Dynamics (STLD) released earnings per share at 3.69 USD, compared to market expectations of 3.98 USD."
-    },
-    {
-      "id": "te:markets:568314",
-      "time": "2026-07-21 04:35:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.59% Lower — The Dow Jones Index decreased 307 points or 0.59 percent on Monday to close at 51839 points. The decline was led by Merck (-2.51%), Sherwin-Williams (-2.19%) and Boeing (-2.12%). On the upside, the strongest performers were Microsoft (2.21%), Alphabet (1.36%) and Chevron (1.24%)."
-    },
-    {
-      "id": "te:markets:568313",
-      "time": "2026-07-21 04:35:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Falls as Financials Post Losses — The S&P/TSX Composite Index fell 0.8% to close at 34,960 on Monday, weighed down by financial stocks. Major banks were among the biggest decliners as escalating US-Iran tensions pushed oil prices higher, lifting bond yields despite Canada's softer-than-expected June inflation report. RBC lost 2.1%, TD Bank shed 2.3%, BMO fell 1.9%, CIBC retreated 2.6%, and Scotiabank closed 2.3% lower. In contrast, Shopify (+1.1%) and Celestica (+2.4%) advanced, tracking the rebound in US technology shares. Energy stocks closed higher on rising oil prices, with Canadian Natural up 0.7% and Cenovus adding 1.5%. On the data front, Canada's annual inflation rate eased to 2.8% in June 2026 from 3.2% in May, slightly below forecasts of 2.9%."
     }
   ]
 }
