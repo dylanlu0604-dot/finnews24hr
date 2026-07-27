@@ -1,7 +1,44 @@
 {
   "date": "2026-07-28",
-  "count": 2,
+  "count": 6,
   "items": [
+    {
+      "id": "5010680",
+      "time": "2026-07-28 00:17:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【受AI熱潮推動，貝萊德韓國ETF連續第三週錄得資金淨流入】在全球部分最大科技公司的財報季到來前，投資者繼續將資金大舉湧入美國上市的最大韓國交易所交易基金（ETF）。規模達233億美元的iShares MSCI韓國ETF上週錄得超10億美元的資金淨流入，將連續三週的流入勢頭進一步延長，使其7月份的總流入額達到37億美元。如果這一增長勢頭能保持到月底，這將是該基金有記錄以來最大的單月資金流入。該基金追蹤韓國股票，其份額自6月18日創下歷史新高以來，已回落超過28%。"
+    },
+    {
+      "id": "5010679",
+      "time": "2026-07-28 00:16:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：軟銀公司正考慮收購大型支付服務商 SP.LINKS，該公司前身為索尼支付服務（Sony Payment Services）。"
+    },
+    {
+      "id": "mkt:019fa45b-9afb-7aab-8eb3-119c44455aae",
+      "time": "2026-07-28 00:14:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian outlet Fars News, citing Syrian sources, reported Israeli forces are advancing from the western suburbs of Daraa province into Syrian territory."
+    },
+    {
+      "id": "5010678",
+      "time": "2026-07-28 00:13:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "法爾斯通訊社援引敘利亞訊息源報道：以色列軍隊正從德拉西部郊區向敘利亞境內推進。"
+    },
     {
       "id": "5010677",
       "time": "2026-07-28 00:11:52",

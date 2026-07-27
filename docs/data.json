@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-28 00:14:02",
-  "count": 17734,
+  "updated": "2026-07-28 00:18:04",
+  "count": 17735,
   "items": [
+    {
+      "id": "5010680",
+      "time": "2026-07-28 00:17:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【受AI熱潮推動，貝萊德韓國ETF連續第三週錄得資金淨流入】在全球部分最大科技公司的財報季到來前，投資者繼續將資金大舉湧入美國上市的最大韓國交易所交易基金（ETF）。規模達233億美元的iShares MSCI韓國ETF上週錄得超10億美元的資金淨流入，將連續三週的流入勢頭進一步延長，使其7月份的總流入額達到37億美元。如果這一增長勢頭能保持到月底，這將是該基金有記錄以來最大的單月資金流入。該基金追蹤韓國股票，其份額自6月18日創下歷史新高以來，已回落超過28%。"
+    },
+    {
+      "id": "5010679",
+      "time": "2026-07-28 00:16:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：軟銀公司正考慮收購大型支付服務商 SP.LINKS，該公司前身為索尼支付服務（Sony Payment Services）。"
+    },
+    {
+      "id": "mkt:019fa45b-9afb-7aab-8eb3-119c44455aae",
+      "time": "2026-07-28 00:14:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian outlet Fars News, citing Syrian sources, reported Israeli forces are advancing from the western suburbs of Daraa province into Syrian territory."
+    },
+    {
+      "id": "5010678",
+      "time": "2026-07-28 00:13:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "法爾斯通訊社援引敘利亞訊息源報道：以色列軍隊正從德拉西部郊區向敘利亞境內推進。"
+    },
     {
       "id": "5010677",
       "time": "2026-07-28 00:11:52",
@@ -162509,35 +162546,6 @@
         "其他"
       ],
       "text": "雀巢計劃至2028年向巴西工廠投資5.4億雷亞爾（合1億美元）。"
-    },
-    {
-      "id": "mkt:019f8051-a6b7-7aab-8e12-6b94a688cc14",
-      "time": "2026-07-21 00:17:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia will expel Italy’s military attaché and his deputy in retaliation, the Russian foreign ministry spokesman said."
-    },
-    {
-      "id": "te:markets:568295",
-      "time": "2026-07-21 00:15:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Ends Flat — The FTSE MIB ended little changed at 51,863 on Monday as traders remained cautious ahead of a busy earnings week. Escalating tensions in the Middle East kept risk sentiment subdued, although markets drew some optimism from reports of a proposed 10-day pause in hostilities. Meanwhile, rising European natural gas prices increased concerns over lower profit margins, weighing on utility stocks, with Terna (-1.2%) and A2A (-0.9%) among the sector's biggest decliners. Avio led losses on the index, falling 2.8%, followed by Telecom Italia (-2.4%) and Inwit (-1.7%). On the upside, Moncler jumped 3.2% ahead of its earnings release, with revenue expected to rise 4.5%. Amplifon (2.6%), Saipem (2.6%), Nexi (2.1%), and STMicroelectronics (2.1%) also advanced, with the latter rebounding from recent losses. Financials were also higher as investors expected the ECB to leave interest rates unchanged at this week's meeting. Banco BPM rose 1.0%, while UniCredit gained 0.6% ahead of its earnings report."
-    },
-    {
-      "id": "mkt:019f804e-b5d4-7aab-8e12-60007566af69",
-      "time": "2026-07-21 00:14:29",
-      "tags": [
-        "MKT News",
-        "AMC.N"
-      ],
-      "text": "AMC Entertainment (AMC.N) extended gains, up 21.7%."
     }
   ]
 }
