@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-28 00:10:03",
-  "count": 17739,
+  "updated": "2026-07-28 00:14:02",
+  "count": 17734,
   "items": [
+    {
+      "id": "5010677",
+      "time": "2026-07-28 00:11:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【羅馬尼亞因無人機事件驅逐俄羅斯外交官】羅馬尼亞外交部27日宣佈將俄羅斯駐羅馬尼亞使館一名外交官列為“不受歡迎的人”，要求其在5日內離境。羅馬尼亞外交部長瓦娜·措尤27日召見俄駐羅大使。羅外交部稱，此次召見是對7月24日至26日間俄羅斯多次侵犯該國領空的強硬回應。羅外交部向俄方展示了在羅境內被擊落的無人機殘骸，並稱羅方調查已正式確認這些無人機部件來自俄羅斯。此前，羅馬尼亞連續3天相繼擊落3架侵犯其領空的無人機。（新華社）"
+    },
     {
       "id": "5010676",
       "time": "2026-07-28 00:01:26",
@@ -162530,71 +162538,6 @@
         "AMC.N"
       ],
       "text": "AMC Entertainment (AMC.N) extended gains, up 21.7%."
-    },
-    {
-      "id": "4998349",
-      "time": "2026-07-21 00:12:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "AMC娛樂股價漲幅進一步擴大，上漲21.7%。"
-    },
-    {
-      "id": "te:markets:568294",
-      "time": "2026-07-21 00:12:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.04% Lower — The FTSE MIB Index decreased 19 points or 0.04 percent on Monday to close at 51863 points. The decline was led by Avio (-2.81%), Enel (-2.64%) and Telecom Italia (-1.91%). On the upside, the strongest performers were Moncler (3.16%), Amplifon (2.61%) and STMicroelectronics (2.01%)."
-    },
-    {
-      "id": "te:markets:568293",
-      "time": "2026-07-21 00:11:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.06% Higher — The DAX Index rose 16 points or 0.06 percent on Monday to close at 24847 points. Leading the gains are RWE (3.57%), Siemens Energy (3.37%) and Fresenius (3.04%). Top losers were Brenntag (-2.38%), Bayer (-2.37%) and HeidelbergCement (-1.67%)."
-    },
-    {
-      "id": "4998348",
-      "time": "2026-07-21 00:10:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "原首相首席秘書達倫・瓊斯正式退出本屆政府內閣，宣稱不會進入新一屆內閣。"
-    },
-    {
-      "id": "mkt:019f804a-e4d8-7aab-8e12-5c2fc08cfa76",
-      "time": "2026-07-21 00:10:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said as of July 20 US forces had forced seven merchant vessels to divert and disabled one merchant vessel to prevent ships from entering or leaving Iranian ports."
-    },
-    {
-      "id": "te:markets:568292",
-      "time": "2026-07-21 00:10:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.15% Higher — The CAC 40 Index gained 13 points or 0.15 percent on Monday to close at 8352 points. Gains were led by STMicroelectronics (5.54%), Dassault Systemes (1.45%) and Edenred (1.43%). Biggest losers were Saint-Gobain (-1.62%), LVMH (-1.45%) and Airbus (-1.31%)."
     }
   ]
 }
