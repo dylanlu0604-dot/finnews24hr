@@ -1,7 +1,65 @@
 {
   "date": "2026-07-28",
-  "count": 80,
+  "count": 86,
   "items": [
+    {
+      "id": "mkt:019fa484-f14a-7aab-8eb4-490671e5e286",
+      "time": "2026-07-28 01:00:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Trump says US should have world's lowest interest rates】On Monday, Trump praised Fed chair Kevin Warsh as outstanding but said Warsh must address issues with the Fed's policymaking committee and expressed confidence Warsh will do the right thing. On rates, Trump said they should be lower and the US should have the world's lowest rates, and added that costs are falling rapidly."
+    },
+    {
+      "id": "mkt:019fa484-e928-7aab-8eb4-400d0e2ca031",
+      "time": "2026-07-28 01:00:01",
+      "tags": [
+        "MKT News",
+        "BRFS.N",
+        "JBS.N"
+      ],
+      "text": "LULA said South Korea will send a delegation to Brazil to conduct sanitary assessments of Brazil's meat-processing plants."
+    },
+    {
+      "id": "5010723",
+      "time": "2026-07-28 01:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.16%，滬銅收漲0.31%，滬鋁收漲0.43%，滬鋅收漲0.04%，滬鉛收漲0.51%，滬鎳收跌0.44%，滬錫收漲0.24%。氧化鋁夜盤收跌0.70%，鋁合金收漲0.37%。不鏽鋼夜盤收跌0.82%。"
+    },
+    {
+      "id": "5010722",
+      "time": "2026-07-28 00:58:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西總統盧拉：韓國將派遣考察團赴巴西，對巴西肉類加工廠開展衛生檢疫評估。"
+    },
+    {
+      "id": "mkt:019fa482-d005-7aab-8eb4-3f141a8bca9f",
+      "time": "2026-07-28 00:57:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President Lula said he will form a working group to advance negotiations with South Korea on a Mercosur trade agreement."
+    },
+    {
+      "id": "5010721",
+      "time": "2026-07-28 00:57:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西總統盧拉：我方將成立工作組，推進韓國與南方共同市場貿易協定相關談判。"
+    },
     {
       "id": "5010720",
       "time": "2026-07-28 00:56:48",
