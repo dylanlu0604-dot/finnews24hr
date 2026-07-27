@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28 05:05:02",
-  "count": 17834,
+  "updated": "2026-07-28 05:08:51",
+  "count": 17829,
   "items": [
     {
       "id": "mkt:019fa564-997a-7aab-8eb7-65cb696129f5",
@@ -163485,57 +163485,6 @@
         "公司"
       ],
       "text": "三星信用卡由巴克萊銀行發行，依託VISA支付網路執行。"
-    },
-    {
-      "id": "te:economy:568317",
-      "time": "2026-07-21 05:08:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Argentina Trade Surplus Widens in June — Argentina's trade surplus widened to $2.19 billion in June 2026 from $0.88 billion a year earlier, marking its 31st consecutive month of positive trade balances. Exports rose 24.5% year-on-year to $9.06 billion, with growth broad-based across all major categories. Agricultural manufactures surged 31.6%, driven by higher shipments of fats and oils, food industry residues and waste, and meat products. Industrial manufactures also advanced 31.4%, supported mainly by chemicals and related products, as well as base metals and metal products. Exports of fuels and energy climbed 31.1%, as higher international prices more than offset lower shipment volumes. Imports increased 7.3% to $6.86 billion, driven primarily by fuels and lubricants, whose purchases soared 126.3%. Imports of intermediate goods rose 9.5%, while consumer goods increased 3.3%. In contrast, capital goods fell 8.0%, parts and accessories for capital goods declined 9.4%, and motor vehicle imports dropped 10.6%."
-    },
-    {
-      "id": "4998487",
-      "time": "2026-07-21 05:08:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜雲科技（AWS）： 希臘雅典 AWS 本地可用區現已正式全面商用。"
-    },
-    {
-      "id": "4998486",
-      "time": "2026-07-21 05:06:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "奈飛從高評級債券市場融資10億美元。"
-    },
-    {
-      "id": "4998485",
-      "time": "2026-07-21 05:06:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星推出首款信用卡產品三星 Galaxy Card。"
-    },
-    {
-      "id": "mkt:019f8159-9e63-7aab-8e15-2b4240a61a5a",
-      "time": "2026-07-21 05:06:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "White House says the U.S. will impose additional tariffs on affected goods to offset discriminatory measures by Canada against U.S. trade in dairy and autos."
     }
   ]
 }
