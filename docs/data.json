@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-28 06:28:27",
+  "updated": "2026-07-28 06:32:10",
   "count": 17824,
   "items": [
+    {
+      "id": "te:markets:570188",
+      "time": "2026-07-28 06:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Tumbles by 10.74% — Top commodity losers are Brent Crude Oil (-10.74%), Natural Gas EU (-10.22%) and Crude Oil WTI (-9.46%). Gains are led by Coking Coal (0.83%)."
+    },
+    {
+      "id": "mkt:019fa5b2-01f2-7aab-8eb7-baffa9a8f983",
+      "time": "2026-07-28 06:28:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Haiti presidential election delayed again; first round set for Dec. 13, 2026】Haiti's Provisional Electoral Council on the 27th published the 2026-27 election calendar, scheduling first-round voting for presidential and legislative elections on Dec. 13, 2026 and a runoff on Feb. 21, 2027. This is the latest postponement in a series of delays."
+    },
+    {
+      "id": "5010905",
+      "time": "2026-07-28 06:28:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海地總統選舉再推遲 首輪投票擬於12月舉行】海地臨時選舉委員會27日公佈2026年至2027年選舉日程，宣佈總統選舉和立法機構選舉首輪投票將於今年12月13日舉行，第二輪投票將於2027年2月21日舉行。這是一再推遲的海地選舉最新進展。"
+    },
     {
       "id": "mkt:019fa5af-b348-7aab-8eb7-b4b42ff0f0de",
       "time": "2026-07-28 06:26:23",
@@ -163419,41 +163446,6 @@
         "公司"
       ],
       "text": "【四大險企發聲看好資本市場，部分險資逆勢加倉】在A股市場劇烈波動下，作為長期資金的險資依舊看好後市投資機會，並且部分險資已逆勢加倉。“近期市場回撥過快，我們有加倉，而且加倉了科技股。”上海一家萬億級險資機構的權益投資相關負責人說，後續市場回撥還會繼續尋找合適機會加倉。一家養老險公司投資部總經理告訴記者：“當前我們依舊保持著較高的權益倉位，只是在持倉板塊內部做了一些結構性調整。”就具體的超額收益投資機會來看，大部分險資機構依舊看好科技股投資機會。 “資本市場短期波動屬於正常現象，被資本市場短期波動牽著鼻子走，從過往經驗看，通常難有好的業績表現。”一家養老險公司的權益投資相關負責人對記者表示。（上證報）"
-    },
-    {
-      "id": "4998534",
-      "time": "2026-07-21 06:30:42",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛：日本政策討論或更多透過訊號傳遞來提振日本國債】高盛表示，日本決策層近期的言論表明，他們正在探索將更多國內儲蓄引導至本土資產的途徑。與直接購買相比，對政府債券的潛在支援可能更多來自於訊號傳遞和正向反饋迴圈。包括George Cole在內的策略師在一份報告中指出，根據日本政府養老金投資基金（GPIF）目前的資產配置框架，如果將國內債券的持有比例從約27%提高至31%，還有大約750億美元的空間可以增加JGBs的持倉。"
-    },
-    {
-      "id": "te:markets:568319",
-      "time": "2026-07-21 06:30:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Spikes by 6.57% — Top commodity gainers are Methanol (6.57%), Germany Natural Gas THE (2.14%), Natural Gas EU (2.14%), Brent Crude Oil (1.27%) and Crude Oil WTI (0.90%). Biggest losers are Natural gas (-2.47%) and Propane (-0.65%)."
-    },
-    {
-      "id": "mkt:019f81a6-12c4-7aab-8e15-af3312e42fa3",
-      "time": "2026-07-21 06:29:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【Analysts: Room for monetary easing may widen in Q3】At its Q2 MPC meeting the PBOC clarified its H2 monetary policy approach. PBOC Deputy Governor Zou Lan said policy will strengthen countercyclical and cross‑cycle adjustments based on domestic and external economic and financial conditions and market developments. Analysts say inflation trends, domestic growth fundamentals and major economies’ monetary policies will be key determinants of PBOC operations. With government bond issuance accelerating in Q3, room for monetary easing may widen to complement fiscal support and bolster the macro outlook."
     }
   ]
 }
