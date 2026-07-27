@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-27 19:09:01",
-  "count": 17832,
+  "updated": "2026-07-27 19:13:02",
+  "count": 17823,
   "items": [
+    {
+      "id": "5010205",
+      "time": "2026-07-27 19:12:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴基斯坦央行行長：已結清大部分遠期負債，目標是在年底前透過提前轉為淨放款行，將這類頭寸轉變為淨資產。"
+    },
+    {
+      "id": "5010204",
+      "time": "2026-07-27 19:11:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浦東金橋：金橋資本擬出資1億元參與設立私募基金】浦東金橋公告稱，公司設立的金橋資本擬出資1億元，與中微公司等合作方共同簽署《上海智微凌峰創業投資合夥企業（有限合夥）合夥協議》，作為有限合夥人參與投資。該基金規模21億元，存續期7年，重點關注半導體、泛半導體領域。本次交易不構成關聯和重大資產重組，無需股東會審議。基金未完成募資，存在募資金額、回報週期、投資標的及收益等風險。"
+    },
+    {
+      "id": "5010203",
+      "time": "2026-07-27 19:11:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浦東金橋：金橋集團擬無償劃轉4.99%股權至浦東資本】浦東金橋公告稱，金橋集團擬將持有的公司56,008,403股A股股份（約佔總股本4.99%）無償劃轉至浦東新區國資委，後者再將上述股份透過非公開協議轉讓給浦東資本，作為非貨幣出資。本次權益變動不會導致公司控股股東、實控人變更，控股股東仍為金橋集團，實控人仍為浦東新區國資委。本次權益變動尚需多項手續，能否完成及時間存在不確定性。"
+    },
+    {
+      "id": "5010202",
+      "time": "2026-07-27 19:11:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：將把加強國防、解決社會問題和支援經濟作為未來三年預算的關鍵優先事項。"
+    },
+    {
+      "id": "5010200",
+      "time": "2026-07-27 19:10:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長杜里根：巴西經濟仍存諸多挑戰，任務尚未完成。"
+    },
+    {
+      "id": "5010199",
+      "time": "2026-07-27 19:09:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST得潤：部分子公司股權凍結及資產查封已解除】ST得潤公告稱，此前因未及時、足額履行股權回購義務，公司部分子公司股權被凍結、名下部分資產被查封。截至目前，公司所持柏拉蒂電子（深圳）有限公司股權已解除凍結，得潤大廈、得潤電子光明工業園宿舍A、宿舍B、工業園廠房已解除查封，其餘子公司股權凍結及資產查封狀況尚未解除。上述情況未對公司日常生產經營產生實質性影響，公司將積極推進後續工作並及時披露進展。"
+    },
+    {
+      "id": "5010198",
+      "time": "2026-07-27 19:09:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：俄羅斯有能力應對一切敵對行徑。西方國家針對俄羅斯實施的制裁無論從數量、收效甚微的程度，還是給制裁發起國自身造成的損失來看，均達到史無前例的水平。"
+    },
+    {
+      "id": "5010197",
+      "time": "2026-07-27 19:08:50",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴基斯坦央行行長：債務狀況因債務來源結構調整得到改善。"
+    },
+    {
+      "id": "5010196",
+      "time": "2026-07-27 19:08:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基稱期待與英國開展無人機合作】烏克蘭總統澤連斯基27日在社交媒體發文稱，他與英國新首相伯納姆進行了通話，期待與伯納姆舉行會晤，討論無人機合作等問題。澤連斯基稱，在無人機合作方面，烏克蘭希望在英國建一個基於新技術的大型無人機製造廠。烏方希望“與夥伴分享”無人機技術和實戰經驗。他還表示，烏方希望生產英國“風暴之影”巡航導彈或類似導彈，而英國希望得到烏克蘭的無人機。烏方對此持開放態度。（新華社）"
+    },
+    {
+      "id": "5010195",
+      "time": "2026-07-27 19:08:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微信影片號全面啟動違規團播專項治理工作】7月27日，微信影片號釋出關於打擊直播“違規團播行為”的公告：根據中央網信辦“清朗·網路娛樂團播亂象整治”專項要求，為維護清朗網路生態、保障創作者與使用者合法權益，平臺近期已全面啟動違規團播專項治理工作。對於在團播中存在違規行為的主播及直播間，平臺將根據違規情節的嚴重程度，對違規賬號採取以下梯度處罰措施，包括但不限於：警告提醒、減少推薦（限流）、中斷直播、限制開播許可權；對於屢教不改或情節極端惡劣的賬號，將予以永久封禁。"
+    },
+    {
+      "id": "5010194",
+      "time": "2026-07-27 19:08:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "蒙特利爾銀行將霍尼韋爾目標股價從253美元上調至276美元。"
+    },
     {
       "id": "5010193",
       "time": "2026-07-27 19:08:06",
@@ -69,6 +159,14 @@
         "WTI"
       ],
       "text": "Putin said Russia has the capacity to respond to any hostile actions. He described Western sanctions as \"record\" both in number and ineffectiveness and said they have harmed the countries imposing them."
+    },
+    {
+      "id": "5010188",
+      "time": "2026-07-27 19:06:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年6月全國查處違反中央八項規定精神問題34700起】中央紀委國家監委公佈了2026年6月全國查處違反中央八項規定精神問題彙總情況。當月，全國共查處違反中央八項規定精神問題34700起，批評教育和處理43318人，其中黨紀政務處分28426人，這是連續第154個月公佈月報資料。（央視新聞）"
     },
     {
       "id": "5010187",
@@ -163188,189 +163286,6 @@
         "Important"
       ],
       "text": "【State Council to explore new social-security model for flexible workers, improve housing support for migrant workers】A State Council executive meeting chaired by Li Qiang urged reforms to strengthen the coherence, resource allocation and sustainability of China’s social-security system. The meeting called for policy innovation toward a multi-tiered system, actively exploring new social-security models for flexible/gig workers, improving housing-support measures for migrant workers, promoting shared long-term-care services, and upgrading social-security platforms with advanced technology to streamline operations and user access."
-    },
-    {
-      "id": "mkt:019f7f3a-9f7d-7aab-8e0a-d81b95685d44",
-      "time": "2026-07-20 19:12:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "AI cloud infrastructure provider IREN raised its year-end AI cloud revenue target to over $4.0 billion from $3.7 billion."
-    },
-    {
-      "id": "4997859",
-      "time": "2026-07-20 19:12:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金博股份：多名董高擬減持不超502,105股公司股份】金博股份公告稱，因個人資金需求，董事、高階副總裁王冰泉等4名董高計劃自公告披露之日起15個交易日後的3個月內（即2026年8月11日至11月10日），透過集中競價或大宗交易方式減持股份。其中，王冰泉擬減持不超171,198股（佔總股本0.0825%），李軍擬減持不超129,384股（佔0.0623%），王躍軍擬減持不超193,981股（佔0.0935%），童宇擬減持不超107,542股（佔0.0518%），合計不超502,105股。本次減持計劃實施存在不確定性，不會對公司治理和持續經營產生影響。"
-    },
-    {
-      "id": "mkt:019f7f3a-3271-7aab-8e0a-d2ae7e615ba8",
-      "time": "2026-07-20 19:12:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【State Council approves 15th Five-Year Plan for intellectual property protection and utilization】A State Council executive meeting chaired by Premier Li Qiang approved the 15th Five-Year Plan for intellectual property protection and utilization. The meeting directed authorities to close institutional gaps and accelerate establishment, amendment, repeal and interpretation of related laws and regulations, and to shore up supporting policies to optimize the IP protection environment for innovation. It called for strengthening high-quality IP supply, deepening reforms on rights-and-benefits distribution, enhancing policy support and market services to raise commercialization and utilization efficiency, and building a full-chain talent-training system to develop high-level, multidisciplinary, application-oriented IP management teams."
-    },
-    {
-      "id": "4997858",
-      "time": "2026-07-20 19:12:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅馬尼亞社會民主黨將支援復甦計劃項下四項核心法案。"
-    },
-    {
-      "id": "mkt:019f7f39-978f-7aab-8e0a-c8370cea31ac",
-      "time": "2026-07-20 19:11:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "【State Council reviews plans to expand and upgrade services sector and supervises ‘six networks’ construction】Li Qiang presided over a State Council executive meeting reviewing measures to expand and upgrade the services sector and supervising progress on the “six networks” planning and construction. The meeting called for fully releasing services-sector potential, refining targeted support policies, and accelerating removal of constraints. It urged stronger support for producer services to back tech innovation, value creation and the real economy, and directed expansion of higher-quality supply in consumer-facing services to meet diversified, multi-tier demand. Authorities were told to advance “six networks” planning systematically, accelerate local and industry-specific implementation, strengthen funding and resource guarantees for major infrastructure networks, and prioritize management, operational capability and other “soft” infrastructure to ensure effective use."
-    },
-    {
-      "id": "mkt:019f7f39-2881-7aab-8e0a-c310368596ac",
-      "time": "2026-07-20 19:11:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hamas appoints new leader】Foreign media reported on the 20th that the Palestinian Islamic Resistance Movement (Hamas) appointed Khalil al-Hayya as its new leader."
-    },
-    {
-      "id": "4997857",
-      "time": "2026-07-20 19:11:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "IREN將年末人工智慧雲年度經常性收入目標由37億美元上調至40億美元以上。"
-    },
-    {
-      "id": "4997856",
-      "time": "2026-07-20 19:10:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【神州泰嶽：增加回購股份資金來源 獲3億貸款承諾】神州泰嶽公告稱，公司於2026年6月26日啟動股份回購，回購資金不低於3億元且不超過6億元，回購期限3個月。截至7月20日，已累計回購631.31萬股，佔總股本0.32%，支付總金額4999.47萬元。公司將回購資金來源由“自有資金”調整為“自有資金和自籌資金”，近日獲中信銀行北京分行3億元《貸款承諾函》，貸款期限3年，利率1.8%，僅用於回購A股。該事項已透過董事會審議，無需股東會審議。"
-    },
-    {
-      "id": "4997855",
-      "time": "2026-07-20 19:10:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通用股份：持股5%以上股東20萬股股份被司法強制執行】通用股份公告稱，近日湖州市吳興區人民法院對公司持股5%以上股東紅豆集團持有的20萬股股份強制執行，佔公司股份總數的0.01%，執行方式為集中競價交易，價格區間4.01 - 4.03元/股。本次被執行股份已包含在減持計劃內。執行後，紅豆集團持股257,695,060股，佔總股本16.21%，其共質押公司股份246,870,000股，佔其所持股份95.80%，佔總股本15.53%。本次執行不影響公司經營及控制權變更。"
-    },
-    {
-      "id": "4997854",
-      "time": "2026-07-20 19:10:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浦發銀行：上海浦東發展銀行股份有限公司2026年上半年主要經營情況公告】浦發銀行：上海浦東發展銀行股份有限公司2026年上半年主要經營情況公告"
-    },
-    {
-      "id": "4997853",
-      "time": "2026-07-20 19:10:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "李強主持召開國務院常務會議，聽取2025年度中央預算執行和其他財政收支審計查出問題整改工作建議彙報。（央視）"
-    },
-    {
-      "id": "mkt:019f7f38-2e8b-7aab-8e0a-b8a09b33536b",
-      "time": "2026-07-20 19:10:16",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CCTV reports Premier Li Qiang chaired a State Council executive meeting and heard a report on recommendations to rectify problems identified in audits of 2025 central budget execution and other fiscal revenues and expenditures."
-    },
-    {
-      "id": "4997852",
-      "time": "2026-07-20 19:10:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【今日特朗普要聞】\n1、特朗普在乘“空中一號”抵達安德魯斯聯合基地後對媒體稱，為在中東地區國家身亡的三名美軍人員報仇，美軍正對伊朗實施“猛烈轟炸”。\n2、特朗普：我們將徹底斷絕伊朗擁有核武器的任何可能性。\n3、特朗普：我們今晚再次對伊朗實施了沉重打擊。\n4、美國總統特朗普稱，與加拿大總理馬克·卡尼關於山火問題對話。“我告訴他，你必須阻止火災蔓延過來、汙染我們的空氣，”特朗普說，“或許他們應該賠償我們一些損失。”\n5、特朗普媒體與科技集團：特朗普媒體公司、帕特里克·奧蘭多、ARC環球公司各方之間所有索賠主張，已透過一份保密和解協議達成互相撤訴、全部解決。\n6、特朗普：已提議美國再承辦一屆世界盃。\n7、特朗普抵達世界盃決賽賽場。他將現場觀看本屆賽事最後一場較量\n8、特朗普正推動其華盛頓特區紀念拱門專案走完審批流程，與此同時，本屆政府計劃修改一項監管規則。"
-    },
-    {
-      "id": "4997851",
-      "time": "2026-07-20 19:10:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部：提升製造業價值創造能力 提升產業鏈自主可控水平和產業核心競爭力】全國工業和資訊化主管部門負責同志座談會7月20日在京召開。會議強調，做好下半年工作，直接關係全年目標實現，關係“十五五”良好開局。要保持製造業合理比重，最佳化資源要素保障，健全保持製造業合理比重投入機制，支援工業大省大市挑大樑，引導各地因地制宜構建各具特色和優勢的現代化產業體系，進一步做強做優做大製造業。提升製造業價值創造能力，推動科技創新和產業創新深度融合，延伸拓展產業鏈條，持續最佳化產業結構，提升產業鏈自主可控水平和產業核心競爭力，推動製造業邁向全球價值鏈中高階。"
-    },
-    {
-      "id": "4997850",
-      "time": "2026-07-20 19:09:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【神州泰嶽：回購股份資金來源由“自有資金”調整為“自有資金和自籌資金”】神州泰嶽公告，公司本次回購股份的資金來源由“自有資金”調整為“自有資金和自籌資金”。近日，公司收到中信銀行股份有限公司北京分行出具的《貸款承諾函》，承諾貸款額度不超過人民幣3億元，貸款期限3年，貸款利率1.8%，貸款用途僅限於回購神州泰嶽A股股票。截至2026年7月20日，公司已透過集中競價方式累計回購公司股份631.31萬股，佔總股本的0.32%，支付總金額為4999.47萬元（不含交易費用）。"
-    },
-    {
-      "id": "4997849",
-      "time": "2026-07-20 19:09:44",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "李強主持召開國務院常務會議，研究最佳化社會保障體系有關工作。（央視）"
-    },
-    {
-      "id": "mkt:019f7f37-a4df-7aab-8e0a-b79854402016",
-      "time": "2026-07-20 19:09:40",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CCTV reported Li Qiang chaired a State Council executive meeting to study measures to optimize China’s social security system."
-    },
-    {
-      "id": "4997848",
-      "time": "2026-07-20 19:09:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【銀星能源：股票交易異常波動 提醒投資者注意風險】銀星能源公告稱，公司股票在2026年7月16日、7月17日、7月20日連續三個交易日收盤價格漲幅累計偏離21.08%，屬於異常波動。截至7月20日收盤，公司市盈率（TTM）為181.75，高於行業平均值。公司經營正常，不存在應披露未披露事項，控股股東和實控人在異常波動期間未買賣公司股票。2026年半年度報告將於8月24日披露，提醒投資者注意交易風險。"
-    },
-    {
-      "id": "mkt:019f7f37-7548-7aab-8e0a-aae0b534069d",
-      "time": "2026-07-20 19:09:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CCTV reported China's Premier Li Qiang presided over a State Council executive meeting that reviewed and approved the \"15th Five-Year Plan for Intellectual Property Protection and Utilization\"."
-    },
-    {
-      "id": "4997847",
-      "time": "2026-07-20 19:09:24",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "李強主持召開國務院常務會議，審議透過《智慧財產權保護和運用“十五五”規劃》。（央視）"
-    },
-    {
-      "id": "4997846",
-      "time": "2026-07-20 19:09:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "安迪·伯納姆就任英國首相。"
     }
   ]
 }
