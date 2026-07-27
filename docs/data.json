@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-28 03:58:38",
-  "count": 17823,
+  "updated": "2026-07-28 04:02:30",
+  "count": 17821,
   "items": [
+    {
+      "id": "mkt:019fa52b-54ef-7aab-8eb6-ce41610d090e",
+      "time": "2026-07-28 04:01:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish",
+        "NVDA.O",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【US close: SK Hynix falls >7%; Apple market value nears $5 trillion】US equities closed mixed on Monday: Dow +0.5%, S&P 500 +0.02%, Nasdaq -0.18%. Semiconductors led weakness—SK Hynix -7.5%, NVIDIA -5%, Micron Technology -2%; SanDisk tumbled 11%. Apple +1%, pushing its market capitalization toward $5 trillion. The Nasdaq China Golden Dragon Index rose 2.5% as NetEase gained 3.5% and Alibaba added 2.5%."
+    },
+    {
+      "id": "5010818",
+      "time": "2026-07-28 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.51%，標普500指數漲0.02%，納指跌0.18%。Shopify漲11.54%，工時公司漲9.01%，湯姆遜-路透漲8.44%，閃迪跌11.02%，Lumentum Holdings Inc. Common Stock When Issued跌6.69%。“七姐妹”方面：谷歌漲2.34%，微軟漲1.94%，蘋果漲1.17%，Meta Platforms跌0.22%，亞馬遜跌0.31%，特斯拉跌1.22%，英偉達跌4.99%。"
+    },
+    {
+      "id": "5010817",
+      "time": "2026-07-28 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲2.50%】盛豐物流漲13.74%，寶尊電商漲13.51%，億咖通科技漲7.51%，能鏈智電漲7.53%，億航漲6.94%。"
+    },
+    {
+      "id": "mkt:019fa528-f208-7aab-8eb6-c7c4ef2e625e",
+      "time": "2026-07-28 03:59:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices plunge on the 27th】At the close on the 27th, NYMEX September light sweet crude (WTI) fell $6.70 to $82.61/bbl, down 7.5%; ICE September Brent fell $8.42 to $88.36/bbl, down 8.7%."
+    },
     {
       "id": "5010816",
       "time": "2026-07-28 03:57:14",
@@ -163354,68 +163399,6 @@
         "公司"
       ],
       "text": "IREN Ltd.（IREN）收漲20%，創2024年11月份以來最大單日漲幅，該公司上調2026年ARR目標至超過40億美元，簽訂28億美元新客戶合同。"
-    },
-    {
-      "id": "4998453",
-      "time": "2026-07-21 04:01:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "AMC院線收漲27%，創2024年5月份以來最大單日漲幅，該公司二季度調整後EBITDA超過分析師預期。"
-    },
-    {
-      "id": "mkt:019f811e-bb32-7aab-8e14-82bd35e45519",
-      "time": "2026-07-21 04:01:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alibaba",
-        "JD.com",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "S&P500",
-        "Impact bearish",
-        "BABA.N",
-        "Impact bullish",
-        "JD.O"
-      ],
-      "text": "【US close: major indexes down; Alibaba up 4.6%】US equities closed lower on Monday: Dow Jones Industrial Average down 0.59%, S&P 500 down 0.19%, Nasdaq Composite down 0.05%. Notable movers: Circle (CRCL.N) +8%; Oracle (ORCL.N) down nearly 4%; Tesla (TSLA.O) down nearly 3%; SK Hynix (SKHY.O) down 1.8%. Nasdaq Golden Dragon China Index +0.9%; Alibaba (BABA.N) +4.6%; JD.com (JD.O) +3%."
-    },
-    {
-      "id": "4998452",
-      "time": "2026-07-21 04:01:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部（USDA）：美國棉花優良 / 極佳長勢佔比 45%，上週為 44%，去年同期 57%。"
-    },
-    {
-      "id": "4998451",
-      "time": "2026-07-21 04:00:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部（USDA）：美國大豆長勢評級優良 / 極佳佔比 66%，較上週 65% 有所上升，去年同期為 68%。"
-    },
-    {
-      "id": "4998450",
-      "time": "2026-07-21 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.59%，標普500指數跌0.19%，納指跌0.05%。Carvana Co.跌4.69%，甲骨文跌3.99%，KKR & Co L.P.跌3.94%，聯合包裹跌3.85%，墨式燒烤跌3.83%，Moderna跌3.77%，Warner Bros Discovery跌3.76%。“七姐妹”方面：微軟漲2.15%，谷歌漲1.55%，亞馬遜漲1.12%，英偉達漲0.28%，Meta Platforms跌0.02%，蘋果跌2.11%，特斯拉跌2.97%。"
-    },
-    {
-      "id": "4998449",
-      "time": "2026-07-21 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲0.85%】1藥網漲6.34%，金山雲漲5.24%，中進醫療漲5.23%，網易有道漲4.88%，阿里巴巴漲4.71%。"
     }
   ]
 }

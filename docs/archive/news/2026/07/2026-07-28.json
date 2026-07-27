@@ -1,7 +1,52 @@
 {
   "date": "2026-07-28",
-  "count": 267,
+  "count": 271,
   "items": [
+    {
+      "id": "mkt:019fa52b-54ef-7aab-8eb6-ce41610d090e",
+      "time": "2026-07-28 04:01:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish",
+        "NVDA.O",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【US close: SK Hynix falls >7%; Apple market value nears $5 trillion】US equities closed mixed on Monday: Dow +0.5%, S&P 500 +0.02%, Nasdaq -0.18%. Semiconductors led weakness—SK Hynix -7.5%, NVIDIA -5%, Micron Technology -2%; SanDisk tumbled 11%. Apple +1%, pushing its market capitalization toward $5 trillion. The Nasdaq China Golden Dragon Index rose 2.5% as NetEase gained 3.5% and Alibaba added 2.5%."
+    },
+    {
+      "id": "5010818",
+      "time": "2026-07-28 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.51%，標普500指數漲0.02%，納指跌0.18%。Shopify漲11.54%，工時公司漲9.01%，湯姆遜-路透漲8.44%，閃迪跌11.02%，Lumentum Holdings Inc. Common Stock When Issued跌6.69%。“七姐妹”方面：谷歌漲2.34%，微軟漲1.94%，蘋果漲1.17%，Meta Platforms跌0.22%，亞馬遜跌0.31%，特斯拉跌1.22%，英偉達跌4.99%。"
+    },
+    {
+      "id": "5010817",
+      "time": "2026-07-28 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲2.50%】盛豐物流漲13.74%，寶尊電商漲13.51%，億咖通科技漲7.51%，能鏈智電漲7.53%，億航漲6.94%。"
+    },
+    {
+      "id": "mkt:019fa528-f208-7aab-8eb6-c7c4ef2e625e",
+      "time": "2026-07-28 03:59:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices plunge on the 27th】At the close on the 27th, NYMEX September light sweet crude (WTI) fell $6.70 to $82.61/bbl, down 7.5%; ICE September Brent fell $8.42 to $88.36/bbl, down 8.7%."
+    },
     {
       "id": "5010816",
       "time": "2026-07-28 03:57:14",
