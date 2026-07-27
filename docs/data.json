@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-28 05:31:56",
+  "updated": "2026-07-28 05:35:44",
   "count": 17826,
   "items": [
+    {
+      "id": "mkt:019fa580-2c36-7aab-8eb7-7d8a2cb8c9fb",
+      "time": "2026-07-28 05:34:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "【Apple overtakes NVIDIA to regain world's largest market cap】On Monday Apple (AAPL.O) closed above NVIDIA (NVDA.O) to become the world's most valuable company for the first time since April 2025. NVIDIA slid nearly 5%, cutting its market value to $4.77 tln as investor concerns over large AI infrastructure spending hit the AI-chip sector. Apple rose about 1% to a $4.95 tln market cap; it is scheduled to report quarterly results after the close on Thursday. NVIDIA had held the top spot since overtaking Microsoft in June 2025 and briefly reached $5 tln last October. Year-to-date through 2026, NVIDIA is up ~4% while Apple has gained ~24%, with investors favoring Apple's more cautious AI capex stance and preference for leasing compute over building owned infrastructure."
+    },
     {
       "id": "mkt:019fa57c-612d-7aab-8eb7-77a6c324c06e",
       "time": "2026-07-28 05:30:19",
@@ -163451,14 +163468,6 @@
         "國際"
       ],
       "text": "【美軍連續第10晚襲擊伊朗】美軍中央司令部在社交媒體平臺發宣告表示，美東時間7月20日下午4點（伊朗時間7月20日晚11點30分，北京時間7月21日凌晨4點），美軍依照美國總統特朗普指示，開始對伊朗發動連續第10晚襲擊，以進一步削弱伊朗用於襲擊霍爾木茲海峽商業航運的軍事能力。（CCTV國際時訊）"
-    },
-    {
-      "id": "4998501",
-      "time": "2026-07-21 05:35:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國廣播電視臺：伊朗瞄準科威特阿里・薩利姆基地內的美軍發動打擊。"
     }
   ]
 }
