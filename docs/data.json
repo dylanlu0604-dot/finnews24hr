@@ -1,7 +1,78 @@
 {
-  "updated": "2026-07-28 04:14:02",
-  "count": 17831,
+  "updated": "2026-07-28 04:17:53",
+  "count": 17835,
   "items": [
+    {
+      "id": "5010834",
+      "time": "2026-07-28 04:17:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱美國在對伊事務上取得重大優勢，同時將全力阻止伊朗擁有核武器。"
+    },
+    {
+      "id": "mkt:019fa539-1c9b-7aab-8eb7-1feb93554641",
+      "time": "2026-07-28 04:16:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "【UBS cuts Microsoft PT to $480, flags 'high-spend, low-growth' risk for earnings】UBS said Microsoft's recent share pullback has already priced in some risk ahead of the fiscal fourth-quarter print, leaving downside relatively limited. The bank retains a Buy rating but trims its PT to $480 from $510, citing the risk Microsoft may raise its capex outlook while merely maintaining — not upping — Azure growth guidance. UBS warned that higher spending coupled with limited revenue growth would be poorly received by markets. The note also flagged Microsoft’s exposure to OpenAI, substitution risk from open‑source models, and renewed scrutiny of its core productivity software business. UBS said it maintains Buy but will take a more balanced view of this report."
+    },
+    {
+      "id": "5010833",
+      "time": "2026-07-28 04:16:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "葉門候任外長表示，胡塞武裝正效仿伊朗管控霍爾木茲海峽航運的模式，企圖在曼德海峽掌控國際海上運輸通道。"
+    },
+    {
+      "id": "mkt:019fa538-96f1-7aab-8eb7-133a3728d198",
+      "time": "2026-07-28 04:16:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to The Information, the Trump administration is finalizing a framework for AI model submissions."
+    },
+    {
+      "id": "5010832",
+      "time": "2026-07-28 04:15:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府即將敲定自願性人工智慧監管框架。"
+    },
+    {
+      "id": "5010831",
+      "time": "2026-07-28 04:15:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【晶片股集體遭拋售，SK海力士跌破IPO發行價】SK海力士美國存託憑證（ADR）首次跌破IPO發行價，晶片板塊遭遇集體拋售，該股上市以來虧損進一步擴大。雖然市場普遍看好AI發展前景，但投資者仍在拋售前期大漲的半導體個股，該股當前較149美元發行價下挫4%。即便英偉達與SK海力士公佈計劃，將在韓國建設總裝機容量超2吉瓦的AI資料中心，股價依舊走低。"
+    },
+    {
+      "id": "5010830",
+      "time": "2026-07-28 04:14:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們會持續將境內危險罪犯、毒販、人口販子以及侵害兒童的犯罪分子驅逐出境。"
+    },
+    {
+      "id": "5010829",
+      "time": "2026-07-28 04:13:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：在本屆政府領導下，我們正為美國軍隊投入史上最大規模資金。"
+    },
     {
       "id": "5010828",
       "time": "2026-07-28 04:12:51",
@@ -163474,48 +163545,6 @@
         "Brent"
       ],
       "text": "The Saudi-led coalition in Yemen said it will ensure the safety of its commercial vessels transiting the Bab al-Mandeb."
-    },
-    {
-      "id": "mkt:019f812d-3cae-7aab-8e14-be034e4c2588",
-      "time": "2026-07-21 04:17:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said U.S. forces launched a new round of strikes against Iran at 4:00 p.m. ET on Monday, aimed at further degrading Iranian military capabilities used to attack commercial vessels in the Strait of Hormuz."
-    },
-    {
-      "id": "4998460",
-      "time": "2026-07-21 04:16:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國中央司令部：今日美國東部時間下午 4 時，根據總統指令，美軍發起新一輪針對伊朗的打擊行動。此次打擊旨在進一步削弱伊朗用於襲擊霍爾木茲海峽商業航運的軍事力量。"
-    },
-    {
-      "id": "te:markets:568310",
-      "time": "2026-07-21 04:14:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Slip as Middle East Risks Weigh — US stock indices closed mostly lower on Monday as gains in technology stocks failed to offset weakness in the broader market amid concerns over further escalation in the Middle East. The S&P 500 lost 0.2%, the Nasdaq 100 inched higher, and the Dow shed 307 points. Traditional sectors came under pressure after oil prices swung sharply amid the worsening conflict between the US and Iran. Treasury yields rose as energy-driven inflation concerns reinforced expectations of a Fed rate hike later this year. Major banks traded lower, with JPMorgan (-0.6%) and Bank of America (-1.4%) declining. Manufacturers also posted losses, with Applied Materials shedding 0.7%. Meanwhile, chipmakers rebounded following the recent tech pullback as markets continued to assess whether AI hyperscalers will slow spending on AI infrastructure in the coming quarters. Broadcom gained 2%, Micron added 1.9%, AMD advanced 1.6%, and Intel rose 2.1%. Alphabet gained 1.5% ahead of its guidance update on Wednesday."
-    },
-    {
-      "id": "4998459",
-      "time": "2026-07-21 04:14:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特：將採取措施來保護（我方）船隻。"
     }
   ]
 }

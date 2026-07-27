@@ -1,7 +1,78 @@
 {
   "date": "2026-07-28",
-  "count": 292,
+  "count": 300,
   "items": [
+    {
+      "id": "5010834",
+      "time": "2026-07-28 04:17:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱美國在對伊事務上取得重大優勢，同時將全力阻止伊朗擁有核武器。"
+    },
+    {
+      "id": "mkt:019fa539-1c9b-7aab-8eb7-1feb93554641",
+      "time": "2026-07-28 04:16:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "【UBS cuts Microsoft PT to $480, flags 'high-spend, low-growth' risk for earnings】UBS said Microsoft's recent share pullback has already priced in some risk ahead of the fiscal fourth-quarter print, leaving downside relatively limited. The bank retains a Buy rating but trims its PT to $480 from $510, citing the risk Microsoft may raise its capex outlook while merely maintaining — not upping — Azure growth guidance. UBS warned that higher spending coupled with limited revenue growth would be poorly received by markets. The note also flagged Microsoft’s exposure to OpenAI, substitution risk from open‑source models, and renewed scrutiny of its core productivity software business. UBS said it maintains Buy but will take a more balanced view of this report."
+    },
+    {
+      "id": "5010833",
+      "time": "2026-07-28 04:16:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "葉門候任外長表示，胡塞武裝正效仿伊朗管控霍爾木茲海峽航運的模式，企圖在曼德海峽掌控國際海上運輸通道。"
+    },
+    {
+      "id": "mkt:019fa538-96f1-7aab-8eb7-133a3728d198",
+      "time": "2026-07-28 04:16:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to The Information, the Trump administration is finalizing a framework for AI model submissions."
+    },
+    {
+      "id": "5010832",
+      "time": "2026-07-28 04:15:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府即將敲定自願性人工智慧監管框架。"
+    },
+    {
+      "id": "5010831",
+      "time": "2026-07-28 04:15:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【晶片股集體遭拋售，SK海力士跌破IPO發行價】SK海力士美國存託憑證（ADR）首次跌破IPO發行價，晶片板塊遭遇集體拋售，該股上市以來虧損進一步擴大。雖然市場普遍看好AI發展前景，但投資者仍在拋售前期大漲的半導體個股，該股當前較149美元發行價下挫4%。即便英偉達與SK海力士公佈計劃，將在韓國建設總裝機容量超2吉瓦的AI資料中心，股價依舊走低。"
+    },
+    {
+      "id": "5010830",
+      "time": "2026-07-28 04:14:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們會持續將境內危險罪犯、毒販、人口販子以及侵害兒童的犯罪分子驅逐出境。"
+    },
+    {
+      "id": "5010829",
+      "time": "2026-07-28 04:13:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：在本屆政府領導下，我們正為美國軍隊投入史上最大規模資金。"
+    },
     {
       "id": "5010828",
       "time": "2026-07-28 04:12:51",
