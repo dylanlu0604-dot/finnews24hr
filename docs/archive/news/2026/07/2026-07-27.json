@@ -1,7 +1,127 @@
 {
   "date": "2026-07-27",
-  "count": 2430,
+  "count": 2443,
   "items": [
+    {
+      "id": "mkt:019fa3dd-674f-7aab-8eb0-a47801a08514",
+      "time": "2026-07-27 21:57:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) shares hit a record low since listing, down about 4% at $110.30."
+    },
+    {
+      "id": "5010540",
+      "time": "2026-07-27 21:56:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英偉達新一輪逾7500億美元的AI基建交易令迴圈融資憂慮重燃】新聞報道 前一 下一 傳送 選項 翻譯101) 英偉達新一輪逾7500億美元的AI基建交易令迴圈融資憂慮重燃 CBN 21:56 102) Nvidia’s $750 Billion Deals Revive Fear of AI Circular Financing BN 18:20 07/27/2026 21:56:06[CBN] 這些交易的風險在於，它們可能扭曲多個行業的商業激勵，導致不良決 策；一旦人工智慧需求未能達到高企的預期，還可能放大損失。一位知情 人士稱，英偉達還在討論為OpenAI為該美國專案購買價值3500億美元的英 偉達晶片提供融資。 Allspring Global Investments投資組合經理Gary Tan表示：“儘管英偉達 的投資和合作增強了市場對人工智慧長期基礎設施建設的信心，但投資者 仍然擔心迴圈融資問題。越來越多的資本正被用於資助未來的人工智慧客 戶和基礎設施部署。”"
+    },
+    {
+      "id": "te:markets:570123",
+      "time": "2026-07-27 21:56:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Corn Falls from 5-Week High — Corn futures fell to around $4.5 per bushel, moving away from a five-week high of $4.64 hit on July 24, pressured by a sharp decline in crude oil prices after the United States and Iran paused military strikes over the weekend, raising hopes that diplomatic efforts could de-escalate tensions in the Middle East and restore shipping through the Strait of Hormuz. Lower energy prices weighed on grain markets as weaker biofuel margins reduced demand expectations for corn-based ethanol. Meanwhile, traders continued to monitor developments in the Black Sea region, where ongoing attacks on grain infrastructure and port facilities in Ukraine remained a risk to global exports. However, reports that Ukraine was discussing mechanisms to keep vessels operating through its Black Sea ports helped ease concerns over a major disruption to grain shipments."
+    },
+    {
+      "id": "mkt:019fa3dc-7aff-7aab-8eb0-9c225475354f",
+      "time": "2026-07-27 21:56:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Soda ash most-active futures contract fell 2.00% intraday to 980.00 yuan/ton, a record low since listing."
+    },
+    {
+      "id": "5010539",
+      "time": "2026-07-27 21:55:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX股價創下歷史新低，最新下跌3.9%，報每股110.6美元。"
+    },
+    {
+      "id": "5010538",
+      "time": "2026-07-27 21:55:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智元啟動赴港IPO，特斯拉百萬級Optimus產線開建】智元機器人赴港IPO正式啟動，出貨量超5100臺，全球第一。2026年，中國人形機器人邁出了量產交付關鍵一步。日媒深度拆解宇樹G1人形機器人後驚歎，短期內難以追上中國技術水平。海外巨頭同樣激進，特斯拉直接停產Model S/X為機器人讓路，百萬級Optimus一代產線年內投產、千萬級二代產線提上日程。2026年成為海內外頭部企業量產兌現關鍵年份，資本、產能、技術、海外口碑多重催化共振，國產人形機器人全球競爭力持續上行，行業長期成長邏輯是否穩固？（第一財經）"
+    },
+    {
+      "id": "mkt:019fa3db-7a7b-7aab-8eb0-909c3788d215",
+      "time": "2026-07-27 21:54:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SASAC to accelerate compute infrastructure, open AI scenarios and datasets under SOE 'AI+' drive】At the 2026 World Artificial Intelligence Conference, the State-owned Assets Supervision and Administration Commission (SASAC) released a second batch of central SOE AI strategic high-value scenarios and industry-grade datasets, launched the AI open-source Huanxin Community 2.0, and initiated a joint central-SOE intelligent software factory foundation project. SASAC said it will deepen the central SOE \"AI+\" special action, prioritizing high-value scenarios, opening scenario resources to the industry chain and promoting upstream–downstream collaborative innovation. It pledged to strengthen key input supply by accelerating compute infrastructure construction, deepening compute–electricity coordination and improving end-to-end data governance. SASAC said it will push open-source openness and ecosystem development to support modernization of the industrial system and the emergence of an intelligent economy."
+    },
+    {
+      "id": "5010537",
+      "time": "2026-07-27 21:54:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌2%，現報980.00元。"
+    },
+    {
+      "id": "5010536",
+      "time": "2026-07-27 21:54:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀將雷蒙德詹姆斯金融公司目標價從175美元上調至184美元。"
+    },
+    {
+      "id": "5010535",
+      "time": "2026-07-27 21:53:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝克休斯在業績電話會議上表示：拉美、非洲海上及北美陸上業務實現增長，但歐洲、中東地區支出疲軟抵消了上述增長。"
+    },
+    {
+      "id": "5010534",
+      "time": "2026-07-27 21:53:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "ASML <ASML.AS> 股價跌幅擴大，下跌4.6%。"
+    },
+    {
+      "id": "mkt:019fa3d9-c18a-7aab-8eb0-8a50c6001d6a",
+      "time": "2026-07-27 21:53:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "BKR.O",
+        "Impact bullish"
+      ],
+      "text": "Baker Hughes estimates the potential market for power systems could reach about $100 billion by 2030."
+    },
+    {
+      "id": "5010533",
+      "time": "2026-07-27 21:52:50",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院國資委：將深入推進央企“AI+”專項行動 加快算力基礎設施建設】2026世界人工智慧大會期間，國務院國資委在“智賦新質 全域煥新”企業人工智慧高質量發展論壇正式釋出第二批央企人工智慧戰略性高價值場景和行業高質量資料集，上線AI開源“煥新社群”2.0，啟動國資央企智慧軟體工廠聯合築基工程。此次釋出的央企人工智慧領域系列成果，構築起涵蓋開源生態、場景落地、資料流通、智慧算力等全鏈條能力佈局，標誌著央企以人工智慧賦能實體經濟進入體系化推進新階段。下一步，國務院國資委將深入推進央企“AI+”專項行動。聚焦高價值場景，加快人工智慧賦能千行百業，主動向產業鏈開放場景資源，聯合上下游同題共答、協同創新。加強關鍵要素供給，加快算力基礎設施建設，深化算電協同，提升全鏈條資料治理能力，夯實智慧化產業發展底座。推動開源開放，培育互利共贏產業生態，為加快構建現代化產業體系、打造智慧經濟新形態注入強勁動能。"
+    },
     {
       "id": "5010532",
       "time": "2026-07-27 21:51:59",
