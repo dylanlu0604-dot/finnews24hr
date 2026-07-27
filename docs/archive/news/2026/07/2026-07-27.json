@@ -1,7 +1,62 @@
 {
   "date": "2026-07-27",
-  "count": 745,
+  "count": 751,
   "items": [
+    {
+      "id": "5009196",
+      "time": "2026-07-27 10:54:39",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "【英國央行料按兵不動 油價飆升將推高歐元區CPI】接下來一週，英國央行利率決議以及歐元區GDP和通脹資料將成為市場關注的焦點。鑑於通脹資料低於預期且勞動力市場較為寬鬆，英國央行很可能會在本週維持利率不變。"
+    },
+    {
+      "id": "5009195",
+      "time": "2026-07-27 10:54:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI應用概念異動拉昇 智度股份直線漲停】AI應用概念盤中異動拉昇，智度股份直線漲停，此前蘇州科達漲停，米奧會展漲超15%，宣亞國際、遊族網路、福石控股、中文線上等跟漲。"
+    },
+    {
+      "id": "5009194",
+      "time": "2026-07-27 10:54:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國AI大模型周呼叫量領跑全球：小米MiMo-V2.5登頂，Claude近一年首次全線落榜，美國僅1款模型上榜】根據OpenRouter最新資料測算，上週（7月20日至26日）全球AI大模型總呼叫量為58萬億Token，環比下滑6.75%。其中，上榜的AI大模型中，中國AI大模型周呼叫量達33萬億Token，環比下滑8.61%；同期美國AI大模型周呼叫量為2.34萬億Token，環比下滑67.86%。中國大模型周呼叫量已達到美國的14.1倍，且連續十三週超過美國，穩居全球首位。上週，全球呼叫量排名前五均為中國AI大模型。其中，小米MiMo-V2.5升至第一，周呼叫量達10.5萬億Token，環比增長12%。此前，處於限時免費階段的騰訊Hy3 (free)連續兩週位居第一。隨著該免費版本上週從OpenRouter下架，其周呼叫量環比下滑85%至1.76萬億Token，排名降至第九。與此同時，前期的免費試用幫助模型完成了開發者觸達，騰訊Hy3（收費版本）呼叫量快速攀升，以3.94萬億Token位居第三，環比增長超過999%。（每經）"
+    },
+    {
+      "id": "5009193",
+      "time": "2026-07-27 10:53:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瓶片連續主力合約日內跌5%，現報7096.00元。"
+    },
+    {
+      "id": "5009192",
+      "time": "2026-07-27 10:52:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股人工智慧股走強 智譜漲超7%】截至發稿，智譜(02513.HK)漲7.03%，微創機器人-B(02252.HK)漲6.03%，明略科技-W(02718.HK)漲4.58%。"
+    },
+    {
+      "id": "te:markets:569937",
+      "time": "2026-07-27 10:51:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "BI Governor’s Sudden Exit Weighs on Indonesian Stocks — Indonesian shares fell 24 points or 0.4% to 6,173 in early deals on Monday, marking a fourth consecutive retreat. Losses were broad-based across infrastructure, transport, non-cyclicals, and energy, as investors digested the unexpected resignation of Bank Indonesia Governor Perry Warjiyo. State Secretariat Minister Prasetyo Hadi confirmed President Prabowo Subianto had accepted Warjiyo's step-down, while senior deputy governor Destry Damayanti was named interim chief, citing personal reasons behind Warjiyo’s decision. Still, sentiment was cushioned by firmer U.S. futures and softer oil prices after a weekend pause in U.S.–Iran hostilities, with traders also eyeing the Fed’s rate call midweek. In main trading partner China, industrial profits rose 18.7% yoy in H1 2026, easing slightly from January–May’s 18.8% pace, underscoring uneven recovery despite policy support. Among notable laggards were Medco Energi (-3.8%), Indosat (-2.1%), Vale Indonesia (-1.6%), and Astra Intl. (-1.2%)."
+    },
     {
       "id": "5009191",
       "time": "2026-07-27 10:50:37",
