@@ -1,7 +1,69 @@
 {
-  "updated": "2026-07-27 21:57:45",
-  "count": 17774,
+  "updated": "2026-07-27 22:01:43",
+  "count": 17766,
   "items": [
+    {
+      "id": "5010546",
+      "time": "2026-07-27 22:00:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國新任國防大臣：歐洲要感謝特朗普 是他把我們從自滿中搖醒 逼得我們自立自強 不再依賴】英國新任國防大臣斯特里廷7月26日表示，他願意在共同關心的問題上與特朗普政府合作。斯特里廷說：我們並不總是喜歡他說的話，也不總是喜歡他的做法。但我真心認為，當這段歷史被書寫時，歐洲會感謝特朗普總統，是他讓我們擺脫了自滿情緒，迫使我們自立自強，結束了在防務上對美國的過度依賴。（參考訊息）"
+    },
+    {
+      "id": "5010545",
+      "time": "2026-07-27 21:59:48",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國解除對墨西哥活牛進口禁令 泰森食品與JBS股價大幅上漲】隨著市場預期美國將恢復從墨西哥進口活牛，美國主要肉類加工企業股價週一集體走高。此前，為防範致命寄生蟲新大陸螺旋蠅的傳播，美國對墨西哥活牛實施了長達一年多的進口禁令。美國農業部上週五宣佈，將從8月24日起分階段重新開放美墨邊境的活牛進口口岸。這一政策調整旨在緩解美國國內因持續乾旱和進口禁令雙重擠壓而導致的牛源短缺問題。受此訊息提振，市場迅速消化了供應恢復的預期，前期因供應緊缺而積聚的多頭倉位遭到集中平倉，活牛期貨價格應聲下跌。供應端的寬鬆預期直接利好下游肉類加工商。在過去一年中，由於美國本土牛群規模降至75年來最低水平，加之墨西哥活牛進口渠道被切斷，肉類加工企業為爭奪稀缺的屠宰原料不得不支付高昂溢價，利潤空間受到嚴重擠壓。截至美東時間週一上午，肉類加工板塊全線飄紅。其中，JBS股價漲幅居前，達到6.8%；泰森食品股價大漲5.8%；荷美爾食品公司上漲1.9%；朝聖者的驕傲上漲1.5%；史密斯菲爾德食品公司上漲1%。"
+    },
+    {
+      "id": "mkt:019fa3de-97c4-7aab-8eb0-aacf003a74bd",
+      "time": "2026-07-27 21:58:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "QCOM.O"
+      ],
+      "text": "【Qualcomm's Zhu Yuankun: Personal AI must have three core capabilities】Qualcomm product technology expert Zhu Yuankun said personal AI must include three core capabilities—personalization, always-on perception and privacy/security—which will drive a systemic reshaping of traditional computing architecture and become central to future chip HW/SW and operating system design. He identified perception, memory, reasoning and tool execution as the four module types that will underpin agent experiences, and said endpoint–cloud collaboration is necessary to leverage cloud and device strengths for truly personalized, efficient agent AI."
+    },
+    {
+      "id": "5010544",
+      "time": "2026-07-27 21:58:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《從AI裝置到個人AI：智慧體驅動的終端進化與產業重構》白皮書釋出】在7月27日舉行的財新圓桌-AI系列活動“智慧體時代終端產業的下一站”專題活動上，由高通委託，IDC獨立開展研究的《從AI裝置到個人AI：智慧體驅動的終端進化與產業重構》白皮書正式釋出。白皮書基於產業及技術演進趨勢，系統梳理和分析了產業現狀，探討了“個人AI”的核心特徵、價值潛力與實現路徑，旨在為產業各方把握智慧體時代的發展機遇、實現戰略轉型提供參考。"
+    },
+    {
+      "id": "5010543",
+      "time": "2026-07-27 21:57:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝克休斯預計 2030 年全球液化天然氣產能將達到 8 億噸 / 年。"
+    },
+    {
+      "id": "5010542",
+      "time": "2026-07-27 21:57:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據美國紐約聯儲資料，上個交易日（7月24日）擔保隔夜融資利率（SOFR）報3.64%，之前一天報3.64%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
+    },
+    {
+      "id": "5010541",
+      "time": "2026-07-27 21:57:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高通朱元堃：個人AI必須具備三大核心能力】在7月27日舉行的財新圓桌-AI系列活動“智慧體時代終端產業的下一站”專題活動上，高通公司產品技術專家朱元堃表示，個人AI必須具備個性化、全時感知、隱私安全三大核心能力，傳統計算架構正迎來系統性重塑。感知、記憶、推理、工具執行四大能力模組將共同構成未來智慧體體驗的基礎，併成為晶片軟硬體設計和作業系統設計未來發展的核心命題。此外，端雲協同將成為智慧體充分利用雲端和終端不同計算和場景優勢，實現真正個性化且高效的智慧體AI體驗的必然方向。"
+    },
     {
       "id": "mkt:019fa3dd-674f-7aab-8eb0-a47801a08514",
       "time": "2026-07-27 21:57:03",
@@ -162710,163 +162772,6 @@
         "MKT News"
       ],
       "text": "UK government bonds fell further; the 10-year gilt yield rose 5bps to 5.00%."
-    },
-    {
-      "id": "4998210",
-      "time": "2026-07-20 22:01:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【“木頭姐”減持1170萬美元AMD股票】依據方舟投資每日交易披露資料：7月17日，“木頭姐”凱西·伍德旗下多隻方舟基金合計賣出超威半導體（AMD）23573股；按照當日收盤價495.76美元計算，這筆股票總價值約1170萬美元。 近數月以來伍德一直在持續縮減AMD持倉，7月減持節奏仍未停下。算上本次拋售，方舟投資7月累計賣出AMD股票137421股，按最新收盤價折算市值約6810萬美元。 即便伍德持續減持，AMD依舊位列方舟創新ETF第八大重倉股。 7月22日至23日，AMD將舉辦2026人工智慧推進大會，執行長蘇姿豐預計將公佈全套AI產品路線圖更新，涵蓋MI450X加速器、MI500 GPU系列以及新一代伺服器處理器。"
-    },
-    {
-      "id": "mkt:019f7fd5-3ec7-7aab-8e0f-7f7be0da0fec",
-      "time": "2026-07-20 22:01:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "CNN reports a U.S. official says Washington plans to deploy additional F-16 and F-35 fighters and extra aerial-refueling tankers from European bases."
-    },
-    {
-      "id": "4998209",
-      "time": "2026-07-20 22:01:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國聯通將在上海投資超250億元】2026世界人工智慧大會暨人工智慧全球治理高階別會議7月20日閉幕。當天，“UniAI·智聯申城”專案啟動，中國聯通將在上海投資超250億元，加強智算基建，推進人工智慧與產業升級、惠民服務、城市治理及數智生態的深度融合。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607203813679580",
-      "time": "2026-07-20 22:01:13",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國6月份領先經濟指標下降0.2%，市場預估為下降0.1%。"
-    },
-    {
-      "id": "mkt:019f7fd4-c2c4-7aab-8e0f-710f741c63c7",
-      "time": "2026-07-20 22:00:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Conference Board lagging economic index MoM 0.0% in June; May -0.1%."
-    },
-    {
-      "id": "mkt:019f7fd4-a285-7aab-8e0f-6d33a383b77c",
-      "time": "2026-07-20 22:00:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US Conference Board coincident index MoM +0.2% in June, matching May's +0.2%."
-    },
-    {
-      "id": "4998208",
-      "time": "2026-07-20 22:00:32",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國6月諮商會領先指標月率 -0.2%，預期-0.1%，前值0.10%。"
-    },
-    {
-      "id": "mkt:019f7fd4-748e-7aab-8e0f-608435b87f34",
-      "time": "2026-07-20 22:00:28",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Conference Board Lagging Indicator (MoM) (Jun) | actual 0% | previous -0.1%"
-    },
-    {
-      "id": "mkt:019f7fd4-545e-7aab-8e0f-598fcea45748",
-      "time": "2026-07-20 22:00:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "US Conference Board Leading Economic Index (LEI) for June 99.1, down from 99.3 previously."
-    },
-    {
-      "id": "mkt:019f7fd4-2655-7aab-8e0f-553e2f198225",
-      "time": "2026-07-20 22:00:24",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Conference Board Coincident Indicator (MoM) (Jun) | actual 0.2% | previous 0.2%"
-    },
-    {
-      "id": "mkt:019f7fd4-060e-7aab-8e0f-4dad34a96d14",
-      "time": "2026-07-20 22:00:19",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Conference Board Leading Indicator (Jun) | actual 99.1 | previous 99.3"
-    },
-    {
-      "id": "mkt:019f7fd3-d82c-7aab-8e0f-4428d8b5943e",
-      "time": "2026-07-20 22:00:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "US Conference Board leading index MoM -0.2% in June; consensus -0.1%; May +0.10%."
-    },
-    {
-      "id": "mkt:019f7fd3-b013-7aab-8e0f-3dcdfb6ec024",
-      "time": "2026-07-20 22:00:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Conference Board Leading Indicator (MoM) (Jun) | actual -0.2% | consensus -0.1% | previous 0.10%"
-    },
-    {
-      "id": "4998207",
-      "time": "2026-07-20 21:59:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【伯納姆正式就任英國首相 承諾推動40年來最大變革 】國執政黨工黨新任黨首安迪·伯納姆在白金漢宮接受國王查爾斯三世任命，正式就任英國首相併獲權組建新一屆內閣。這是英國十餘年來的第七位首相。伯納姆在就職後首次講話中承諾，將推出“新經濟模式”與“新政治模式”，推動英國近40年來最大規模的變革，以終結長期的政治動盪。伯納姆在唐寧街10號外發表首次講話時強調，他將直面民眾對政治的失望，讓當前時刻成為英國的“分水嶺”。在施政綱領方面，他宣佈將立即採取行動降低民眾生活成本，並明確相關措施的籌資方式。此舉將作為邁向“十年計劃”的第一步，該計劃的核心目標包括重組政府、向地方政府下放更多權力，以及將部分基本生活必需品置於“更強有力的公共控制之下”。"
-    },
-    {
-      "id": "mkt:019f7fd2-5a26-7aab-8e0f-358e7b285002",
-      "time": "2026-07-20 21:58:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "The UAE strongly condemned Iran's renewed hostile attacks on Bahrain and Kuwait."
     }
   ]
 }
