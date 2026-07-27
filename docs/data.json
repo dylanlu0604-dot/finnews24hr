@@ -1,7 +1,172 @@
 {
-  "updated": "2026-07-28 01:01:20",
-  "count": 17766,
+  "updated": "2026-07-28 01:05:10",
+  "count": 17778,
   "items": [
+    {
+      "id": "5010726",
+      "time": "2026-07-28 01:03:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "五年期美債收益率在國債拍賣後小幅收窄跌幅，最新下跌 2.37 個基點，報 4.402%。"
+    },
+    {
+      "id": "5010725",
+      "time": "2026-07-28 01:02:50",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣三個月期國債，得標利率3.815%，投標倍數3.06。"
+    },
+    {
+      "id": "5010724",
+      "time": "2026-07-28 01:02:34",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣700億美元五年期國債，得標利率4.408%（6月24日為4.20%、創2025年1月份以來新高），投標倍數2.28（前次為2.35）"
+    },
+    {
+      "id": "mkt:019fa487-2dde-7aab-8eb4-aeae28d5ec69",
+      "time": "2026-07-28 01:02:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 3-month Treasury auction to July 27 bid-cover ratio 3.06, prior 3.00."
+    },
+    {
+      "id": "mkt:019fa487-1e4f-7aab-8eb4-a65b239a6581",
+      "time": "2026-07-28 01:02:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 5-year Treasury auction (Jul 27): share awarded at stop-out yield 51.71%, prior 86.81%."
+    },
+    {
+      "id": "mkt:019fa487-1cf3-7aab-8eb4-9d5744f31d04",
+      "time": "2026-07-28 01:02:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 5-year Treasury auction on July 27 stop-out yield 4.408%, prior 4.20%."
+    },
+    {
+      "id": "mkt:019fa487-1ba5-7aab-8eb4-925da64f072b",
+      "time": "2026-07-28 01:02:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 3-month Treasury auction on July 27: 83.44% of allotments were at the stop-out yield, versus 73.01% previously."
+    },
+    {
+      "id": "mkt:019fa487-1a28-7aab-8eb4-8aed0a4cbd0c",
+      "time": "2026-07-28 01:02:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US 3-month Treasury auction on July 27: stop-out yield 3.815%, prior 3.73%."
+    },
+    {
+      "id": "mkt:019fa487-1a1c-7aab-8eb4-83fb5d4066a7",
+      "time": "2026-07-28 01:02:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US 5-year Treasury auction on July 27: bid-cover ratio 2.28; prior 2.35."
+    },
+    {
+      "id": "mkt:019fa486-cebc-7aab-8eb4-7b8e7b1a1198",
+      "time": "2026-07-28 01:02:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 5-Year Note Auction Bid/Cover Ratio (Jul.27) | actual 2.28 | previous 2.35"
+    },
+    {
+      "id": "mkt:019fa486-ceb4-7aab-8eb4-719bb2b5d51d",
+      "time": "2026-07-28 01:02:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 5-Year Note Auction Accepted at High (Jul.27) | actual 51.71% | previous 86.81%"
+    },
+    {
+      "id": "mkt:019fa486-ce72-7aab-8eb4-6ff9a12e6635",
+      "time": "2026-07-28 01:02:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 5-Year Note Auction High Yield Rate (Jul.27) | actual 4.408% | previous 4.20%"
+    },
+    {
+      "id": "mkt:019fa486-ce53-7aab-8eb4-5feb069581d9",
+      "time": "2026-07-28 01:02:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Bid/Cover Ratio (Jul.27) | actual 3.06 | previous 3"
+    },
+    {
+      "id": "mkt:019fa486-ce5c-7aab-8eb4-6030e2b45783",
+      "time": "2026-07-28 01:02:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Accepted at High (Jul.27) | actual 83.44% | previous 73.01%"
+    },
+    {
+      "id": "mkt:019fa486-ce28-7aab-8eb4-50907c426bc2",
+      "time": "2026-07-28 01:02:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction High Yield Rate (Jul.27) | actual 3.815% | previous 3.73%"
+    },
     {
       "id": "mkt:019fa484-f14a-7aab-8eb4-490671e5e286",
       "time": "2026-07-28 01:00:03",
@@ -162854,31 +163019,6 @@
         "國際"
       ],
       "text": "【特朗普稱美軍死一人伊朗付數倍代價】美國總統特朗普當地時間7月20日在社交媒體平臺發帖稱，“伊朗每殺死一名美軍士兵，都必將為此付出數倍代價！此項指令已傳達給戰爭部長皮特·赫格塞思、參謀長聯席會議主席丹尼爾·凱恩，以及軍方所有高層將領。” 根據美國軍方的說法，2月28日美國、以色列對伊朗發起大規模空襲以來，美軍已有17人死於這場戰爭，此外還有400多人受傷。"
-    },
-    {
-      "id": "4998382",
-      "time": "2026-07-21 01:04:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "雪佛龍：為應對二號熱帶低壓，雪佛龍正在關閉佩特羅尼烏斯油氣設施的生產，所有相關人員正被轉移至岸上。"
-    },
-    {
-      "id": "4998381",
-      "time": "2026-07-21 01:01:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "派拉蒙天舞股價迅速下跌，跌幅達1%。"
-    },
-    {
-      "id": "4998380",
-      "time": "2026-07-21 01:01:30",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國聯邦法官叫停派拉蒙與華納兄弟合併交易】當地時間週一，美國法官阿拉塞莉·馬丁內斯-奧爾金下達臨時禁令，暫停派拉蒙與華納兄弟的合併程序。由多州組成的聯合檢方主張，這筆併購將違反聯邦反壟斷法，最終導致影視服務漲價、影視內容供給縮減。該法官於上週五上午聽取雙方當庭辯論後，作出該項裁決。此前派拉蒙已主動承諾，在7月22日前不會完成交易交割。"
     }
   ]
 }
