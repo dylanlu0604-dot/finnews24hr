@@ -1,7 +1,18 @@
 {
   "date": "2026-07-28",
-  "count": 356,
+  "count": 357,
   "items": [
+    {
+      "id": "mkt:019fa58b-2745-7aab-8eb7-86ecbc40f2e4",
+      "time": "2026-07-28 05:46:27",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bearish",
+        "TSLA.O"
+      ],
+      "text": "【SpaceX market-cap decline roughly equals Tesla's entire value】Since its June peak of $225.64, SpaceX (SPCX.O) has lost more than $1.2trn of market value, roughly equal to Tesla's entire market cap. Tesla shares are trading near a one-year low. Elon Musk's net worth has fallen to about $710bn from a mid‑June record above $1.3trn. Charles Moon, tech and momentum strategist at Prosper Trading Academy, said: \"As an investor it's too early; but as a trader, Wall Street is punishing AI stocks for capex.\" SpaceX will report its first post‑IPO earnings next week; on the second full trading day after the report (Aug 6) holders may sell up to 20% of qualified lock-up shares, about 911.5m shares. Analysts say the lock-up expiry may not be as bad as feared but is unlikely to reverse the share decline."
+    },
     {
       "id": "5010873",
       "time": "2026-07-28 05:41:54",
