@@ -1,7 +1,99 @@
 {
   "date": "2026-07-27",
-  "count": 346,
+  "count": 356,
   "items": [
+    {
+      "id": "5008914",
+      "time": "2026-07-27 08:40:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率下跌2.5個基點至1.495%。"
+    },
+    {
+      "id": "5008913",
+      "time": "2026-07-27 08:40:31",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【高盛：美聯儲大多數有投票權的委員似乎不太可能在本週推動加息】美聯儲將於本週三召開會議，市場預示加息機率約為三分之一，儘管大多數分析師懷疑主席凱文·沃什會支援此次加息。高盛分析師指出：“投資者認為7月會議的結果存在異常大的不確定性，這很可能是因為美聯儲近期內部意見分歧，沃什本人的立場尚不明確，而且與伊朗局勢的再度升級部分發生在資訊封鎖期內。”“會議中可能會有至少一位委員持贊成加息的異議，但在6月通脹資料走軟之後，大多數有投票權的委員似乎不太可能在本週推動加息。”"
+    },
+    {
+      "id": "5008912",
+      "time": "2026-07-27 08:40:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新威奇總部及萬噸裝置工廠落地光谷】7月24日，武漢新威奇科技有限公司（簡稱“新威奇”）與光谷智慧製造產業園（簡稱“光谷智造園”）簽約，落地新威奇總部及萬噸級伺服直驅數控電動螺旋壓力機專案。"
+    },
+    {
+      "id": "te:markets:569887",
+      "time": "2026-07-27 08:38:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Prices Retreat — US gasoline prices slid to around $3.28 per gallon on Monday, retreating from a two-month high, as reports of a pause in hostilities between Iran and the US offered some respite from supply concerns. A senior Iranian official said Tehran would halt attacks if Washington also refrains from striking, adding that the message had already been conveyed to the US. Washington has suspended its bombing campaign since late Friday after nearly two weeks of strikes, following reports that President Donald Trump's advisers warned of dwindling military targets and depleting weapons stockpiles. Still, uncertainty remained after Iran-backed Houthis claimed attacks on Saudi Aramco-linked facilities in Jizan and Yanbu, though neither Saudi Arabia nor Aramco confirmed the strikes. Meanwhile, Ukraine shifted its focus from Russian oil refineries to maritime targets, though supply worries lingered after earlier attacks damaged 24 of Russia's 34 largest refineries."
+    },
+    {
+      "id": "5008911",
+      "time": "2026-07-27 08:37:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：會考慮有關政策的問題以及民眾的感受。"
+    },
+    {
+      "id": "5008910",
+      "time": "2026-07-27 08:37:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：內閣支援率下降的原因很難分析。"
+    },
+    {
+      "id": "te:economy:569885",
+      "time": "2026-07-27 08:37:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Singapore Tightens Monetary Policy Again as Price Pressures Loom — The Monetary Authority of Singapore (MAS) on Monday unexpectedly tightened monetary policy by slightly increasing the rate of appreciation of its Singapore dollar nominal effective exchange rate (S$NEER) policy band, while leaving the width and center of the band unchanged. \"In an environment of continued heightened uncertainty, this calibrated adjustment to the policy stance builds on the tightening in April,\" the central bank said in a statement. The move came despite June core inflation easing to 1.6% yoy, with MAS warning that underlying price pressures are set to intensify from July and remain elevated before easing around mid-2027. The latest adjustment was smaller than April's move, which ended a pause that had been in place since July 2025, reflecting both inflation concerns and confidence in the economy. Preliminary data showed GDP expanded 5.7% yoy in Q2 2026, far exceeding expectations and underscoring resilient economic activity despite global uncertainty."
+    },
+    {
+      "id": "5008909",
+      "time": "2026-07-27 08:35:56",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【科技日報：美政客炒作Kimi K3蒸餾Fable很外行】7月22日，美國白宮科技政策辦公室主任邁克爾·克拉齊奧斯突然在社交媒體上宣稱，中國AI企業“月之暗面”透過蒸餾美國Anthropic公司的Fable開發Kimi K3大模型。僅僅幾個小時後，美國財政部長斯科特·貝森特發文威脅，要用制裁和“實體清單”來應對中國企業的蒸餾。 先炒作“竊取智慧財產權問題”，再對中國實體施加制裁，這是近些年美國打壓中國科技發展的一個常見套路——在出手害人之前，先把自己打扮成一個受害者。對不明真相的人來說，這一伎倆往往具有一定的迷惑性。不過，這次美國的套路卻註定要“翻車”，因為靠蒸餾Fable開發Kimi K3的說法實在是過於外行。 一個很明顯的問題是，就像抄作業抄不出好成績，Kimi K3表現出的先進效能，根本無法靠蒸餾獲得。 毫無疑問，Kimi K3成功的根源在於技術創新。正如美國密歇根州立大學理論物理學和計算數學、科學與工程學教授徐道輝在社交媒體上所說，Kimi K3實現了非凡的神經網路架構創新，它是從零構建的原創、大規模架構，而非透過蒸餾對其他大模型進行壓縮模仿。徐道輝提到了多篇Kimi團隊發表的重要論文，其中一篇介紹了K3大模型使用“線性注意力機制”，實現了100萬詞元的超長上下文視窗；另一篇則概述瞭如何管理“注意力”，使大模型的訓練效率提升25%。 中國在AI領域的發展與成就全球有目共睹。美國部分政客身處關乎美國科技發展的關鍵職位，應當做內行人，不應老說外行話，信口開河地汙衊中國大模型靠蒸餾，這樣只能讓自己看起來很業餘。"
+    },
+    {
+      "id": "5008908",
+      "time": "2026-07-27 08:35:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "名仕快相集團控股有限公司在香港暫停交易。"
+    },
+    {
+      "id": "5008907",
+      "time": "2026-07-27 08:35:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "鎧俠控股在東京股價下跌9.5%。"
+    },
     {
       "id": "mkt:019fa0fc-840e-7aab-8e9e-1293411017ad",
       "time": "2026-07-27 08:32:11",
