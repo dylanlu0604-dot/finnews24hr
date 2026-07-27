@@ -1,7 +1,149 @@
 {
   "date": "2026-07-27",
-  "count": 1618,
+  "count": 1635,
   "items": [
+    {
+      "id": "5009851",
+      "time": "2026-07-27 17:05:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞富時吉隆坡綜合指數收盤上漲 0.7%，報 1713.09 點。"
+    },
+    {
+      "id": "mkt:019fa2d2-c232-7aab-8ea9-b38536bcac19",
+      "time": "2026-07-27 17:05:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "09696.HK"
+      ],
+      "text": "HKEX: UBS reduced its stake in TTANQT LITHIUM (09696.HK) to 5.92% from 6.39% on July 21."
+    },
+    {
+      "id": "5009850",
+      "time": "2026-07-27 17:05:44",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院辦公廳印發《關於國務院行政複議案件處理程式的若干規定》】日前，國務院辦公廳印發《關於國務院行政複議案件處理程式的若干規定》（以下簡稱《若干規定》），自印發之日起施行。《若干規定》旨在全面貫徹落實新修訂的行政複議法及其實施條例，提升行政複議監督質效，促進依法行政，進一步規範國務院行政複議案件有關處理程式。全文共10條，主要內容如下。一是授權國務院法治部門依法處理向國務院提出的行政複議申請，以及向國務院反映下級行政複議機關無正當理由不予受理、駁回申請或者受理後超過行政複議期限不作答覆的行政複議監督申請。二是明確各省、自治區、直轄市人民政府和國務院部門要加大行政爭議先行化解、調解、和解工作力度，積極配合國務院法治部門組織開展調解工作，推動將行政爭議有效化解在行政複議程式中。"
+    },
+    {
+      "id": "5009849",
+      "time": "2026-07-27 17:05:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "BTG Pactual 聯合 Nexus 民調：巴西總統大選第二輪模擬對決，盧拉支援率 47%，弗拉維奧 43%。"
+    },
+    {
+      "id": "mkt:019fa2d1-fe76-7aab-8ea9-adaf59f18d94",
+      "time": "2026-07-27 17:04:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Former South Korean president Yoon Suk-yeol's camp lodged an immediate appeal on the day of the election-law verdict, saying the court had 'misunderstood legal principles and imposed an unjust sentence'."
+    },
+    {
+      "id": "5009848",
+      "time": "2026-07-27 17:04:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【1—6月全國電力市場交易電量同比增長24.2%】國家能源局今天釋出資料顯示，今年1—6月，全國累計完成電力市場交易電量36848億千瓦時，同比增長24.2%。從交易範圍看，省內交易電量同比增長27.9%；跨省跨區交易電量同比增長12.1%。（央視新聞）"
+    },
+    {
+      "id": "te:economy:570071",
+      "time": "2026-07-27 17:04:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovenia",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Slovenia Business Confidence at 2022-Highs — Slovenia's seasonally adjusted manufacturing confidence indicator improved to -2 in July 2026 from -4 in June, marking its least pessimistic reading since August 2022. The improvement was broad-based, while uncertainty eased to its lowest level since October 2025 (30 vs. 33). Production expectations strengthened (13 vs. 7), while the assessment of current production edged up to 5 from 4. Finished goods inventories also increased slightly (3 vs. 2). Order books improved overall (-16 vs. -17) and for exports (-18 vs. -20), while selling price expectations moderated (8 vs. 13). Employment expectations edged up to 8 from 7, although accumulation of labor eased (5 vs. 8). Outside manufacturing, confidence improved in retail trade, was unchanged in construction, and weakened in services, with sentiment in all three sectors remaining above their long-term averages."
+    },
+    {
+      "id": "5009847",
+      "time": "2026-07-27 17:04:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【凱發電氣：股價連續三日漲幅偏離值超30% 提醒投資風險】凱發電氣公告稱，公司股票於2026年7月23日、7月24日和7月27日連續三個交易日收盤價格漲幅偏離值累計超過30%，屬於股票交易異常波動情形。經核實，公司前期資訊無需更正補充，經營及內外部環境未變，股東和實控人無應披露未披露事項。7月23日股東佳都科技集團股份有限公司增持，2026年半年度報告將於8月26日披露，提醒投資者注意交易風險。"
+    },
+    {
+      "id": "5009846",
+      "time": "2026-07-27 17:03:42",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "國務院辦公廳印發《關於國務院行政複議案件處理程式的若干規定》。"
+    },
+    {
+      "id": "5009845",
+      "time": "2026-07-27 17:03:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【香港證監會：對耀才證券作出譴責並處以罰款280萬港元】7月27日，據香港證監會網站，香港證監會對耀才證券國際（香港）有限公司（耀才）作出譴責並處以罰款280萬港元，原因是該公司沒有實施充足而有效的內部監控程式，以監察和偵測由其客戶進行的清洗交易。香港證監會的調查發現，於2023年11月1日至2025年9月13日期間，由於耀才的內部監控措施不足，導致615個客戶帳戶執行了1,021對涉及736只股票及權證的清洗交易。香港證監會亦發現，由於耀才在2024年3月前主要依賴交易後監察及人手審查來識別可疑交易活動，客戶因而得以在被偵測前進行清洗交易。"
+    },
+    {
+      "id": "te:economy:570070",
+      "time": "2026-07-27 17:03:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "Exports YoY",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Exports Reach Record High — Exports from Hong Kong surged 53.4% year-on-year to an all-time high of $641.1 billion in June 2026, accelerating from a 40.8% increase in the previous month. It marked the strongest annual growth since March 1984, driven primarily by robust shipments of electrical machinery, apparatus and appliances, and electrical parts thereof (57.2% vs 56.1% in May), office machines and automatic data processing machines (93.2% vs 50.2%), telecommunications and sound recording and reproducing apparatus and equipment (69.9% vs 37.6%), miscellaneous manufactured articles (58.6% vs 29.6%), power generating machinery and equipment (23.5% vs 7.6%), and professional, scientific and controlling instruments and apparatus (18.1% vs 7.3%). Regionally, exports to Asia climbed 54.4%, led by Mainland China and Hong Kong (59.2%), Singapore (83.0%), and Taiwan (79.9%). Shipments to other major markets also posted strong gains, including the US (114.3%) and Mexico (94.2%)."
+    },
+    {
+      "id": "5009844",
+      "time": "2026-07-27 17:03:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和鉑醫藥：與國藥集團達成戰略合作】和鉑醫藥-B(02142.HK)在港公告，董事會欣然宣佈，本公司已與中國醫藥集團有限公司簽署戰略合作協議，以建立國藥集團-和鉑醫藥創新聯合體，並就創新型生物藥的研發領域開展合作，戰略重點覆蓋腫瘤及免疫炎症等疾病領域。"
+    },
+    {
+      "id": "5009843",
+      "time": "2026-07-27 17:02:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康平科技：擬增加2026年度向關聯方採購商品額度至8700萬元】康平科技公告稱，公司於4月22日審議透過2026年度向關聯方搜鹿電子採購商品，預計總金額不超3700萬元。現根據業務發展需要，擬增加採購額度5000萬元，增加後預計發生日常關聯交易金額不超8700萬元。該議案已透過董事會及獨立董事專門會議審議，尚需提交股東會審議，關聯股東將回避表決。搜鹿電子生產經營及信用狀況良好，具備履約能力。"
+    },
+    {
+      "id": "5009842",
+      "time": "2026-07-27 17:02:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東高速：完成2026年度第一期5億元中期票據發行】山東高速公告稱，經2023年年度股東大會審議批准，公司向交易商協會申請統一註冊非金融企業債務融資工具。2026年7月27日，公司完成2026年度第一期5億元中期票據起息發行，募集資金已到賬。該票據期限3年，發行利率1.68%，合規申購家數14家，合規申購金額13.5億元，簿記管理人與主承銷商均為招商銀行。"
+    },
+    {
+      "id": "5009841",
+      "time": "2026-07-27 17:02:39",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【舒泰神：簽訂募集資金三方監管協議 募資淨額12.28億元】舒泰神公告稱，公司向特定物件發行6357.18萬股，每股發行價19.71元，募集資金總額12.53億元，扣除發行費用後，實際募資淨額12.28億元，已於7月10日到賬。近日，公司和國金證券分別與交通銀行、浦發銀行、華夏銀行相關分行簽訂《募集資金三方監管協議》，對募集資金儲存和使用進行專戶管理，協議自簽署生效至專戶資金支出完畢且督導期結束失效。"
+    },
+    {
+      "id": "5009840",
+      "time": "2026-07-27 17:02:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯環藥業：介紹產品情況、集採影響及研釋出局等】聯環藥業公告稱，在投資者關係活動中介紹多項業務情況。愛普列特產品2025年銷售額同比增長6.2%，公司結合生產特徵管理庫存，產能可滿足需求。LH - 1801已提交Pre - NDA溝通交流申請，後續將遞上市許可申請，計劃參與醫保談判。1 - 8批集採續標中標20個品種，第十二批集採涉5個品種，集採品種銷售額佔營收比重低。公司研發投入從2016年1682.65萬元增至2025年3.26億元，還投入1500萬元開展小核酸藥物聯合研發，處於臨床前早期研究。"
+    },
     {
       "id": "5009839",
       "time": "2026-07-27 17:02:21",
@@ -80,6 +222,14 @@
         "公司"
       ],
       "text": "【鄭中設計：2026年二季度裝修裝飾業務訂單金額達9.17億元】鄭中設計公告稱，2026年第二季度，公司裝修裝飾業務新簽訂單金額9.17億元，其中設計、軟裝、工程業務分別為5.18億元、2.52億元、1.47億元；已中標未簽訂單金額9616.22萬元；已簽約未完工訂單金額43.01億元。該季度不存在重大專案，以上資料為階段性且未經審計。"
+    },
+    {
+      "id": "5009831",
+      "time": "2026-07-27 17:00:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通鼎互聯：控股股東及實控人部分股份解除質押並重新質押】通鼎互聯公告稱，近日控股股東通鼎集團及實控人沈小平部分股份解除質押並重新質押，整體質押數量不變。本次解除質押股份共1.38億股，佔其所持股份比例31.36%，佔總股本比例11.22%；重新質押股份同樣為1.38億股。截至公告披露日，二者累計質押股份3.32億股，佔其所持股份比例75.26%，佔總股本比例26.92%。控股股東及其一致行動人未來半年和一年內到期質押股份均為1700萬股，對應融資餘額9500萬元，還款來源為自籌資金。本次質押對公司無實質性影響。"
     },
     {
       "id": "5009830",
