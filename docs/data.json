@@ -1,7 +1,137 @@
 {
-  "updated": "2026-07-27 22:33:03",
-  "count": 17796,
+  "updated": "2026-07-27 22:36:59",
+  "count": 17801,
   "items": [
+    {
+      "id": "5010602",
+      "time": "2026-07-27 22:35:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證券交易所指數<.GSPTSE>轉跌，下滑0.1%。"
+    },
+    {
+      "id": "5010601",
+      "time": "2026-07-27 22:35:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【官方通報河南“三支一扶”高分爭議】7月27日，河南省“三支一扶”工作領導小組協調辦公室釋出宣告：近日，網路平臺出現我省安陽、平頂山、駐馬店、濟源等地2026年高校畢業生“三支一扶”高分考生集中等相關輿情資訊，引發廣大考生、家長及社會各界關注。我們對此高度重視，第一時間成立工作組，針對網傳內容開展全面、嚴謹的調查核實工作，儘快查明真相，及時通報情況，如發現違規違紀問題，將移交有關部門嚴肅查處，切實保障廣大考生合法權益、維護考試公平公正。"
+    },
+    {
+      "id": "mkt:019fa3ff-7334-7aab-8eb1-c66a655d5250",
+      "time": "2026-07-27 22:34:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Dallas Fed manufacturing employment index 12.2 in July, down from 13.9 previously."
+    },
+    {
+      "id": "mkt:019fa3ff-3fc4-7aab-8eb1-bde5ca8f22af",
+      "time": "2026-07-27 22:34:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed Employment Index (Jul) | actual 12.2 | previous 13.9"
+    },
+    {
+      "id": "mkt:019fa3ff-30ca-7aab-8eb1-b1e4df3c7e77",
+      "time": "2026-07-27 22:33:58",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US Dallas Fed New Orders Index (July) 6.4, prior 2.3."
+    },
+    {
+      "id": "5010600",
+      "time": "2026-07-27 22:33:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達股價下跌4%，報198.680美元/股，總市值報4.81萬億美元。"
+    },
+    {
+      "id": "mkt:019fa3ff-0c15-7aab-8eb1-abbe83a6ac91",
+      "time": "2026-07-27 22:33:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed New Orders Index (Jul) | actual 6.4 | previous 2.3"
+    },
+    {
+      "id": "mkt:019fa3ff-064e-7aab-8eb1-a3c5fd20af63",
+      "time": "2026-07-27 22:33:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US Dallas Fed finished-goods price index July reading 25.6, prior 28.6."
+    },
+    {
+      "id": "mkt:019fa3fe-e68e-7aab-8eb1-9887e36c8523",
+      "time": "2026-07-27 22:33:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Dallas Fed manufacturing raw materials prices paid index, July: 41.3; prior 42.4."
+    },
+    {
+      "id": "mkt:019fa3fe-de24-7aab-8eb1-901c78d43fa9",
+      "time": "2026-07-27 22:33:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed Prices Received for Finished Goods (Jul) | actual 25.6 | previous 28.6"
+    },
+    {
+      "id": "mkt:019fa3fe-d0d1-7aab-8eb1-8db6b0eab405",
+      "time": "2026-07-27 22:33:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Dallas Fed manufacturing shipments index 8.8 in July, up from 7.1 in June."
+    },
+    {
+      "id": "mkt:019fa3fe-c50d-7aab-8eb1-81bbb858af2a",
+      "time": "2026-07-27 22:33:30",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed Prices Paid for Raw Materials (Jul) | actual 41.3 | previous 42.4"
+    },
+    {
+      "id": "mkt:019fa3fe-a87a-7aab-8eb1-780083c68336",
+      "time": "2026-07-27 22:33:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed Shipments Index (Jul) | actual 8.8 | previous 7.1"
+    },
     {
       "id": "mkt:019fa3fd-cbc0-7aab-8eb1-742e1211d84c",
       "time": "2026-07-27 22:32:26",
@@ -32,6 +162,24 @@
         "市場"
       ],
       "text": "加元兌美元匯率觸及近兩週低點，1美元兌換1.4115加元。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607273822429280",
+      "time": "2026-07-27 22:32:07",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美國7月達拉斯聯儲製造業指數報1.3，預期2.0。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607273822429280",
+      "time": "2026-07-27 22:32:07",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國7月達拉斯聯儲製造業指數報1.3，預期2.0。"
     },
     {
       "id": "5010598",
@@ -162985,91 +163133,6 @@
         "公司"
       ],
       "text": "【耐威克回應“13歲寵物犬吃完狗糧後吐血身亡”：產品符合國家標準】7月20日，耐威克透過其微信公眾號釋出宣告稱，關於近日網傳13歲寵物犬吃完狗糧後吐血身亡一事，已於7月16日釋出溝通宣告，現將事件最新進展公佈如下：本次事件發生後，公司積極配合上級各監管部門進行全面核查：生產記錄、產品留樣及第三方檢測報告均顯示完全符合國家標準。"
-    },
-    {
-      "id": "4998250",
-      "time": "2026-07-20 22:36:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【溫氏股份：當前公司疫病防控效果較好 畜禽大生產穩定】溫氏股份7月20日在互動平臺表示，公司從硬體和軟體等方面，建立了嚴格的常態化生物安全防控體系。當前公司疫病防控效果較好，畜禽大生產穩定，生產成績穩步提升。"
-    },
-    {
-      "id": "4998249",
-      "time": "2026-07-20 22:36:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上半年，上海三大先導產業製造業產值同比增長14.5%】從上海市經信委獲悉，今年上半年，上海工業生產穩步增長，軟信業繼續保持較快增速，產業經濟穩中有進、向新向優。據上海市經信委披露，上半年本市三大先導產業製造業保持較高增速。三大先導產業製造業產值同比增長14.5%。其中，人工智慧製造業、積體電路製造業、生物醫藥製造業產值分別增長21.8%、19.5%和7.2%。（澎湃）"
-    },
-    {
-      "id": "mkt:019f7ff3-fc4b-7aab-8e10-17a9131dcef3",
-      "time": "2026-07-20 22:35:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A White House official said President Trump spoke with new UK Prime Minister Burnham."
-    },
-    {
-      "id": "mkt:019f7ff3-bccf-7aab-8e10-0b2508ba5856",
-      "time": "2026-07-20 22:35:07",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Iran warns Gulf states: cooperating with US against Iran 'unacceptable'】Iran Army spokesman Brigadier General Akbaraminia said the Strait of Hormuz remains firmly under Iranian armed forces' control and warned the US military and its regional partners would face 'serious difficulties' if they tried to use the waterway to strike Iran. He accused some southern Persian Gulf states—long users of the route for billions of dollars of oil exports and imports—of collaborating with the US against Iran and called that unjust and 'completely unacceptable.' Akbaraminia added Iran will sustain fighting until it achieves comprehensive deterrence, warning failure to do so could produce enemy miscalculation and potentially trigger an invasion of Iranian territory."
-    },
-    {
-      "id": "4998248",
-      "time": "2026-07-20 22:34:56",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "7月20日，國務院總理李強致電安迪·伯納姆，祝賀他就任英國首相。（新華社）"
-    },
-    {
-      "id": "mkt:019f7ff3-52a8-7aab-8e10-05fa3bb4c8da",
-      "time": "2026-07-20 22:34:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "On July 20, CHINA'S LI phoned Andy Burnham to congratulate him on assuming office as UK prime minister."
-    },
-    {
-      "id": "4998247",
-      "time": "2026-07-20 22:34:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國家颶風中心風暴公告：埃莉達已變性為溫帶後氣旋。"
-    },
-    {
-      "id": "4998246",
-      "time": "2026-07-20 22:34:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，福斯托（Fausto）氣旋強度持續增強，預計將很快增強為颶風。"
-    },
-    {
-      "id": "4998245",
-      "time": "2026-07-20 22:34:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：貝萊德計劃為資料中心籌集超過120億美元的債務。"
-    },
-    {
-      "id": "4998244",
-      "time": "2026-07-20 22:33:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： 加拿大阿斯彭製藥旗下阿斯彭司美格魯肽獲審批透過。"
     }
   ]
 }

@@ -1,7 +1,137 @@
 {
   "date": "2026-07-27",
-  "count": 2531,
+  "count": 2546,
   "items": [
+    {
+      "id": "5010602",
+      "time": "2026-07-27 22:35:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證券交易所指數<.GSPTSE>轉跌，下滑0.1%。"
+    },
+    {
+      "id": "5010601",
+      "time": "2026-07-27 22:35:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【官方通報河南“三支一扶”高分爭議】7月27日，河南省“三支一扶”工作領導小組協調辦公室釋出宣告：近日，網路平臺出現我省安陽、平頂山、駐馬店、濟源等地2026年高校畢業生“三支一扶”高分考生集中等相關輿情資訊，引發廣大考生、家長及社會各界關注。我們對此高度重視，第一時間成立工作組，針對網傳內容開展全面、嚴謹的調查核實工作，儘快查明真相，及時通報情況，如發現違規違紀問題，將移交有關部門嚴肅查處，切實保障廣大考生合法權益、維護考試公平公正。"
+    },
+    {
+      "id": "mkt:019fa3ff-7334-7aab-8eb1-c66a655d5250",
+      "time": "2026-07-27 22:34:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Dallas Fed manufacturing employment index 12.2 in July, down from 13.9 previously."
+    },
+    {
+      "id": "mkt:019fa3ff-3fc4-7aab-8eb1-bde5ca8f22af",
+      "time": "2026-07-27 22:34:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed Employment Index (Jul) | actual 12.2 | previous 13.9"
+    },
+    {
+      "id": "mkt:019fa3ff-30ca-7aab-8eb1-b1e4df3c7e77",
+      "time": "2026-07-27 22:33:58",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US Dallas Fed New Orders Index (July) 6.4, prior 2.3."
+    },
+    {
+      "id": "5010600",
+      "time": "2026-07-27 22:33:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達股價下跌4%，報198.680美元/股，總市值報4.81萬億美元。"
+    },
+    {
+      "id": "mkt:019fa3ff-0c15-7aab-8eb1-abbe83a6ac91",
+      "time": "2026-07-27 22:33:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed New Orders Index (Jul) | actual 6.4 | previous 2.3"
+    },
+    {
+      "id": "mkt:019fa3ff-064e-7aab-8eb1-a3c5fd20af63",
+      "time": "2026-07-27 22:33:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US Dallas Fed finished-goods price index July reading 25.6, prior 28.6."
+    },
+    {
+      "id": "mkt:019fa3fe-e68e-7aab-8eb1-9887e36c8523",
+      "time": "2026-07-27 22:33:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Dallas Fed manufacturing raw materials prices paid index, July: 41.3; prior 42.4."
+    },
+    {
+      "id": "mkt:019fa3fe-de24-7aab-8eb1-901c78d43fa9",
+      "time": "2026-07-27 22:33:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed Prices Received for Finished Goods (Jul) | actual 25.6 | previous 28.6"
+    },
+    {
+      "id": "mkt:019fa3fe-d0d1-7aab-8eb1-8db6b0eab405",
+      "time": "2026-07-27 22:33:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Dallas Fed manufacturing shipments index 8.8 in July, up from 7.1 in June."
+    },
+    {
+      "id": "mkt:019fa3fe-c50d-7aab-8eb1-81bbb858af2a",
+      "time": "2026-07-27 22:33:30",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed Prices Paid for Raw Materials (Jul) | actual 41.3 | previous 42.4"
+    },
+    {
+      "id": "mkt:019fa3fe-a87a-7aab-8eb1-780083c68336",
+      "time": "2026-07-27 22:33:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed Shipments Index (Jul) | actual 8.8 | previous 7.1"
+    },
     {
       "id": "mkt:019fa3fd-cbc0-7aab-8eb1-742e1211d84c",
       "time": "2026-07-27 22:32:26",
@@ -32,6 +162,24 @@
         "市場"
       ],
       "text": "加元兌美元匯率觸及近兩週低點，1美元兌換1.4115加元。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607273822429280",
+      "time": "2026-07-27 22:32:07",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美國7月達拉斯聯儲製造業指數報1.3，預期2.0。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607273822429280",
+      "time": "2026-07-27 22:32:07",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國7月達拉斯聯儲製造業指數報1.3，預期2.0。"
     },
     {
       "id": "5010598",
