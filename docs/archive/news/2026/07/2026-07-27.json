@@ -1,7 +1,158 @@
 {
   "date": "2026-07-27",
-  "count": 1409,
+  "count": 1424,
   "items": [
+    {
+      "id": "mkt:019fa2a0-9bff-7aab-8ea8-57ea069e4ecf",
+      "time": "2026-07-27 16:11:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman Baghaei said Ukraine's President Zelenskiy's \"elders\" should keep him in check."
+    },
+    {
+      "id": "5009689",
+      "time": "2026-07-27 16:11:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【合肥A股市值躍居全國第四】2026年7月27日，長鑫科技(688825)在上海證券交易所科創板掛牌上市，收盤價較發行價大漲近466%，報收49元/股，A股市值約3.28萬億元，躍居A股市值榜首位。資料顯示，長鑫科技是國產DRAM領域的領軍企業，也是合肥重點培育的積體電路產業核心標杆，其上市直接重塑了城市A股版圖。據Wind資料，截至7月27日收盤，合肥A股公司A股市值超過4.5萬億元，在全國城市A股總市值排名中升至第四位。"
+    },
+    {
+      "id": "te:economy:570053",
+      "time": "2026-07-27 16:10:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Armenia",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Armenia Economic Activity Growth Slows in June — Armenia’s economic activity rose 7.7% year-on-year in June 2026, slowing from an 11.7% increase in May, which marked the highest growth since December 2025. Growth moderated in industrial production (4.0% vs 9.5% in May) and construction output (25.4% vs 27.1%). In addition, retail sales edged down 0.1%, after showing no growth in the previous month. Meanwhile, the volume of services, excluding trade, continued to rise, climbing 19.7% following a 14.7% increase. On a monthly basis, economic activity increased 4.4%, easing from 9.9% growth in May. For the first half of the year, overall economic activity was 7.9% higher than in the corresponding period a year earlier."
+    },
+    {
+      "id": "te:markets:570052",
+      "time": "2026-07-27 16:10:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Corn Drops by 2.27% — Top commodity losers are Corn (-2.27%), Soybeans (-2.21%) and Canola (-1.81%)."
+    },
+    {
+      "id": "5009688",
+      "time": "2026-07-27 16:09:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天合光能成立智慧科技公司 含衛星遙感相關業務】企查查APP顯示，近日，甘肅省慶陽市常合智慧科技有限公司成立，法定代表人為胡港生，註冊資本為2000萬元，經營範圍包含：衛星遙感資料處理；人工智慧應用軟體開發；人工智慧公共資料平臺；網際網路安全服務等。企查查股權穿透顯示，該公司由天合光能旗下江蘇天合算力科技有限公司全資持股。"
+    },
+    {
+      "id": "mkt:019fa29f-2546-7aab-8ea8-48d5afaaad48",
+      "time": "2026-07-27 16:09:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【LME aluminium stocks drop to 271,275 tonnes, lowest this century】LME registered warehouse aluminium stocks fell to 271,275 tonnes as of July 24, the lowest level on record since January 1998. Middle East supply constraints linked to geopolitical conflict have prompted end-users to draw metal from inventories to secure supply. Stocks now equal under one day of global aluminium consumption."
+    },
+    {
+      "id": "mkt:019fa29f-0898-7aab-8ea8-46e853b7aaa7",
+      "time": "2026-07-27 16:09:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Xiaomi",
+        "00100.HK",
+        "Impact bullish",
+        "01810.HK",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong close: Hang Seng Index +0.98%, Hang Seng Tech Index +1.57%. MiniMax (00100.HK) surged over 17%; Xiaomi Group (01810.HK) rose more than 7.3%."
+    },
+    {
+      "id": "mkt:019fa29e-d4ee-7aab-8ea8-3ce416308892",
+      "time": "2026-07-27 16:09:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says talks with Oman on Strait of Hormuz unrelated to US】Iranian Foreign Ministry spokesperson Baghaei said on the 27th that Iran and Oman are holding talks on the Strait of Hormuz and the talks are unrelated to the United States."
+    },
+    {
+      "id": "5009687",
+      "time": "2026-07-27 16:09:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數漲0.977%，恒生科技指數漲1.567%】MINIMAX-W漲17.245%，小米集團-W漲7.261%，銀河娛樂漲6.199%，老鋪黃金漲5.277%，地平線機器人-W漲4.525%，攜程集團-S漲3.911%，智譜漲3.638%。"
+    },
+    {
+      "id": "te:economy:570051",
+      "time": "2026-07-27 16:08:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Business Confidence",
+        "Importance 3"
+      ],
+      "text": "German Business Sentiment Improves for Third Straight Month — Germany's Ifo Business Climate Index rose to 86.6 in July 2026, marking a third consecutive monthly increase and slightly surpassing market expectations of 86. The latest reading points to a gradual stabilization in the German economy, although the outlook remains fragile amid ongoing tensions in the Middle East. Business expectations for the coming months improved to 86.7 from 84.3 in June, while firms' assessment of current conditions edged down to 86.5 from 87.0, suggesting that the recovery has yet to fully materialize."
+    },
+    {
+      "id": "5009686",
+      "time": "2026-07-27 16:08:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百誠醫藥：創新藥BIOS0635-048片獲得臨床試驗批准通知書】百誠醫藥公告，近日獲悉，公司自主研發的創新藥BIOS0635-048片獲得國家藥品監督管理局（NMPA）臨床試驗批准通知書。BIOS0635-048片是由公司自主研發的新型小分子抑制劑，擬用於多種實體瘤的治療。"
+    },
+    {
+      "id": "5009685",
+      "time": "2026-07-27 16:08:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST萃華：未披露定期報告 股票或被終止上市】*ST萃華公告稱，公司未在2026年4月30日披露2025年年度報告和2026年第一季度報告，股票於5月6日起停牌，7月7日起被實施退市風險警示。若兩個月內仍未披露2025年年度報告，將被終止上市。此外，公司已被證監會立案調查，若觸及重大違法強制退市情形，股票將被強制退市。7月22日，公司收盤總市值4.89億元，首次低於5億元，存在因觸及市值指標被終止上市風險。"
+    },
+    {
+      "id": "5009684",
+      "time": "2026-07-27 16:08:12",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人巴加埃27日在新聞釋出會上說，目前伊朗與阿曼正就霍爾木茲海峽問題展開會談，會談與美國無關。（新華社）"
+    },
+    {
+      "id": "mkt:019fa29d-fdad-7aab-8ea8-3662108818a1",
+      "time": "2026-07-27 16:08:10",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB board member KAZIMIR said second-round inf effects, once established, would be very costly to reverse, and the ECB must act before they arise."
+    },
+    {
+      "id": "5009683",
+      "time": "2026-07-27 16:08:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機器人被列為中國“新新三樣”之一，今年相關企業註冊量同比增長19.24%】據央視財經訊息，機器人、人工智慧、創新藥正崛起為中國外貿的“新新三樣”。其中，機器人產業正實現從“炫技”到“真幹活”的轉身，市場關注點也從“能不能動”轉向“在哪跑通”和“怎麼批次造”。此外，資料印證了這一趨勢：上半年，清潔機器人和智慧仿生機器人合計出口180.9億元；工業機器人出口62.9億元，增長18.6%，銷往全球141個國家和地區；手術機器人出口4.8億元，猛增3.3倍，出口市場從23個擴大到49個。亮眼出口資料背後，國內各類機器人企業正緊抓海外市場機遇，加速場景落地、規模化量產與全球化佈局。企查查資料顯示，截至7月27日，國內現存機器人相關企業119.94萬家。近十年機器人相關企業註冊量持續增長，其中2025年全年註冊量首次突破20萬家，飆升至27.77萬家，同比增長39%。截至目前，今年已序號產生器器人相關企業15.55萬家，較去年同期增長19.24%。存量方面，從經營時間來看，超半數機器人相關企業成立於近三年，其中成立1-3年的企業佔比最高，達到29.33%。從城市線級分佈上來看，機器人企業集聚效應顯著，資源高度向高線級城市集中，其中新一線城市相關企業佔比30.86%位居首位，一線城市佔比23.28%。"
+    },
     {
       "id": "mkt:019fa29d-30e5-7aab-8ea8-2e6fab2407cd",
       "time": "2026-07-27 16:07:18",
