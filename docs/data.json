@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-28 01:57:59",
+  "updated": "2026-07-28 02:01:48",
   "count": 17795,
   "items": [
+    {
+      "id": "mkt:019fa4bc-051b-7aab-8eb5-734318e3d1b9",
+      "time": "2026-07-28 02:00:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. Consulate General in Toronto shot at again】Canadian media reported the U.S. Consulate General in Toronto was shot at in the early hours of the 27th local time; it is the building’s second attack this year."
+    },
+    {
+      "id": "5010752",
+      "time": "2026-07-28 02:00:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國駐多倫多總領館再遭槍擊】據加拿大媒體報道，當地時間27日凌晨，美國駐多倫多總領事館遭槍擊，這是該建築今年第二次遇襲。（新華社）"
+    },
+    {
+      "id": "5010751",
+      "time": "2026-07-28 01:57:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞因多瑙河水位過低，將保護性關停一座核反應堆。"
+    },
     {
       "id": "5010750",
       "time": "2026-07-28 01:57:19",
@@ -163169,38 +163193,6 @@
         "其他"
       ],
       "text": "約旦拉響防空警報。"
-    },
-    {
-      "id": "4998402",
-      "time": "2026-07-21 01:59:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊對位於巴林、科威特的美軍據點發動三路協同打擊。"
-    },
-    {
-      "id": "mkt:019f80ae-3846-7aab-8e13-81cb287b25f4",
-      "time": "2026-07-21 01:58:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's embassy in France said US pressure and threats do not help secure shipping in the Strait of Hormuz and that engagement with Iran on the basis of mutual respect is the path to regional stability."
-    },
-    {
-      "id": "mkt:019f80ad-90ff-7aab-8e13-7a5d71ff3e18",
-      "time": "2026-07-21 01:58:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【U.S. Strategic Petroleum Reserve at lowest since March 1983】DOE data on July 20 showed SPR crude stocks fell about 5.1 mln bbl last week to 311.4 mln bbl, the lowest level since March 1983. Since late February, when the U.S. and Israel launched military action against Iran, SPR inventories have declined by 104.04 mln bbl through July 17."
     }
   ]
 }
