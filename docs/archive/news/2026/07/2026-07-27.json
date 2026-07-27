@@ -1,7 +1,169 @@
 {
   "date": "2026-07-27",
-  "count": 2081,
+  "count": 2099,
   "items": [
+    {
+      "id": "te:markets:570091",
+      "time": "2026-07-27 19:44:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rebound on Monday — US futures rose on Monday, erasing the losses from last week as drop in energy prices softened worries of a deteriorating macroeconomic backdrop. Contracts for the S&P 500 and the Dow were around 1% higher, while those for the Nasdaq 100 gained nearly 1.5%. The US paused its strikes against Iran over the weekend and benchmark fuel prices eased on hopes that energy exports from the Middle East could return. The consequent drop in yields loosened financial conditions and nearly erased expectations that the Federal Reserve could deliver a rate hike this week, pushing back eventual tightening to September. Amazon, Meta, Microsoft, and Apple were up premarket ahead of their earnings in the coming days. Nvidia underperformed with a 0.5% gain after a $500 billion AI memory chip supply deal from SK Hynix and guaranteeing $250 billion for OpenAI to lease computing from a data center project, reigniting concerns that circular deals in AI computing could trigger contagion should spending ease."
+    },
+    {
+      "id": "5010286",
+      "time": "2026-07-27 19:44:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮發言人佩斯科夫對外通報：普京此番的會談物件並非特朗普，但此次會晤依舊意義重大。"
+    },
+    {
+      "id": "mkt:019fa363-90c7-7aab-8ead-e617cd694b21",
+      "time": "2026-07-27 19:43:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Kremlin spokesman Peskov said Putin's upcoming talks will not involve Trump but remain significant."
+    },
+    {
+      "id": "mkt:019fa363-403e-7aab-8ead-dca09a6ba6dc",
+      "time": "2026-07-27 19:43:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China to host 2026 World Intelligent and Connected Vehicles Congress in October】The Ministry of Industry and Information Technology (MIIT) said the 2026 World Intelligent and Connected Vehicles Congress, co‑hosted by MIIT, the Ministry of Transport and the Beijing municipal government, will be held in mid‑October 2026 in Beijing."
+    },
+    {
+      "id": "5010285",
+      "time": "2026-07-27 19:43:37",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴基斯坦央行行長：央行預計2027財年進口額將增加40億至50億美元，達到690億美元。"
+    },
+    {
+      "id": "5010284",
+      "time": "2026-07-27 19:42:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026世界智慧網聯汽車大會將於10月舉辦】工業和資訊化部表示，由工業和資訊化部、交通運輸部、北京市人民政府聯合主辦的2026世界智慧網聯汽車大會將於2026年10月中旬在北京舉辦。本屆大會以“匯智聚能 網聯無限——穩步邁進自動駕駛新時代”為主題，聚焦產業關鍵節點和發展重大議題，設定3場全體會議。同時集中釋出一批產業發展最新成果，全方位展現自動駕駛新時代的實踐成效與發展藍圖。工業和資訊化部相關負責人表示，本屆大會旨在凝聚全球產業發展共識，系統研判自動駕駛技術演進趨勢、產業發展方向和治理規則，形成高水平思想成果與政策共識。深化國際交流合作，推動各國在政策溝通、標準互認等方面形成更多務實成果。同時推動技術成果展示轉化，加快形成一批可複製、可推廣的產業協同和場景應用成果。（央視新聞）"
+    },
+    {
+      "id": "5010283",
+      "time": "2026-07-27 19:42:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普：受2025年末迪特瓦氣旋及中東局勢影響，預計斯里蘭卡對外收支與財政收支將出現暫時性走弱。"
+    },
+    {
+      "id": "5010282",
+      "time": "2026-07-27 19:42:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：穩定展望反映出我們的判斷，即斯里蘭卡持續經濟增長與財政整頓的條件將在未來6至12個月保持不變。"
+    },
+    {
+      "id": "mkt:019fa362-244f-7aab-8ead-d05587ebb00f",
+      "time": "2026-07-27 19:42:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Prime Minister Netanyahu will ask US President Trump not to sell weapons systems and F-35 fighters to Turkey, Channel 12 Israel reports, citing sources."
+    },
+    {
+      "id": "mkt:019fa362-0efe-7aab-8ead-cdee3460d03b",
+      "time": "2026-07-27 19:42:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Cai Jianchun moves to China Financial Futures Exchange】Cai Jianchun's biography has been removed from the Shanghai Stock Exchange leadership page. Cai, formerly deputy party secretary and general manager of the Shanghai Stock Exchange, has reportedly taken up a position at the China Financial Futures Exchange in recent days, according to multiple sources."
+    },
+    {
+      "id": "5010281",
+      "time": "2026-07-27 19:42:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "據以色列媒體：內塔尼亞胡將向特朗普提供有關伊朗邁向擁有核武器程序的最新情報資訊。"
+    },
+    {
+      "id": "5010280",
+      "time": "2026-07-27 19:41:50",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【蔡建春已赴中金所工作】7月27日，證券時報記者發現蔡建春的簡歷已從上交所官網“領導班子”欄目中撤下。此前，蔡建春曾擔任上交所黨委副書記、總經理。記者多方瞭解到，蔡建春已於近日赴中國金融期貨交易所工作。"
+    },
+    {
+      "id": "mkt:019fa361-92b9-7aab-8ead-c1e003a64d51",
+      "time": "2026-07-27 19:41:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy has arrived in the UK and is due to meet UK Prime Minister Burnham."
+    },
+    {
+      "id": "5010279",
+      "time": "2026-07-27 19:41:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：烏英兩國合作的核心重點為防空、海上安全以及聯合軍工生產。"
+    },
+    {
+      "id": "5010278",
+      "time": "2026-07-27 19:41:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安諾其：擬收購廣州烽雲100%股權，交易方案已調整】安諾其公告，公司擬透過發行股份及支付現金方式收購廣州烽雲資訊科技有限公司100%股權，並募集配套資金。2026年7月27日，公司董事會審議透過了交易預案（修訂稿），對方案進行了調整。目前本次交易的審計、評估等工作尚未完成，公司董事會決定暫不召開股東會審議，待相關工作完成後將再次審議並提交股東會。本次交易尚需經國有資產監管程式及有權監管機構稽核等，存在不確定性。"
+    },
+    {
+      "id": "mkt:019fa361-0f47-7aab-8ead-b8e643ad9b1d",
+      "time": "2026-07-27 19:41:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Israeli Channel 12, citing sources, says Netanyahu will provide Trump with the latest intelligence on Iran's progress toward obtaining nuclear weapons."
+    },
+    {
+      "id": "te:economy:570090",
+      "time": "2026-07-27 19:41:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "El Salvador",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "El Salvador Trade Deficit Widens in June — El Salvador's trade deficit widened to $1,030.96 million on June 2026 from $856.96 million in the same month a year earlier. Imports rose 16.5% year-on-year to $1,628.1 million, driven by purchases from Central America (4.7%), mainly Costa Rica, and Panama (63.5%). Meanwhile, exports rose at a slower pace of 10.5% to $597.2 million, supported by shipments to the UK (38%), Ecuador (25.2%) and Mexico (24.2%). In the January–June 2026 period, the trade deficit widened to $5,919.1 million from $5,302.4 million in the corresponding period a year earlier."
+    },
+    {
+      "id": "5010277",
+      "time": "2026-07-27 19:40:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【徐工首座海外新能源工廠正式投產】7月27日，徐工印尼新能源製造基地落成儀式在印尼緯達貝工業園區（IWIP）舉行。隨著首批新能源裝置正式下線並交付戰略合作伙伴青山實業印尼緯達貝園區，徐工首座海外新能源工廠正式投產。"
+    },
     {
       "id": "5010276",
       "time": "2026-07-27 19:40:26",

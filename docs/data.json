@@ -1,7 +1,169 @@
 {
-  "updated": "2026-07-27 19:41:12",
-  "count": 17802,
+  "updated": "2026-07-27 19:45:17",
+  "count": 17806,
   "items": [
+    {
+      "id": "te:markets:570091",
+      "time": "2026-07-27 19:44:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rebound on Monday — US futures rose on Monday, erasing the losses from last week as drop in energy prices softened worries of a deteriorating macroeconomic backdrop. Contracts for the S&P 500 and the Dow were around 1% higher, while those for the Nasdaq 100 gained nearly 1.5%. The US paused its strikes against Iran over the weekend and benchmark fuel prices eased on hopes that energy exports from the Middle East could return. The consequent drop in yields loosened financial conditions and nearly erased expectations that the Federal Reserve could deliver a rate hike this week, pushing back eventual tightening to September. Amazon, Meta, Microsoft, and Apple were up premarket ahead of their earnings in the coming days. Nvidia underperformed with a 0.5% gain after a $500 billion AI memory chip supply deal from SK Hynix and guaranteeing $250 billion for OpenAI to lease computing from a data center project, reigniting concerns that circular deals in AI computing could trigger contagion should spending ease."
+    },
+    {
+      "id": "5010286",
+      "time": "2026-07-27 19:44:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮發言人佩斯科夫對外通報：普京此番的會談物件並非特朗普，但此次會晤依舊意義重大。"
+    },
+    {
+      "id": "mkt:019fa363-90c7-7aab-8ead-e617cd694b21",
+      "time": "2026-07-27 19:43:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Kremlin spokesman Peskov said Putin's upcoming talks will not involve Trump but remain significant."
+    },
+    {
+      "id": "mkt:019fa363-403e-7aab-8ead-dca09a6ba6dc",
+      "time": "2026-07-27 19:43:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China to host 2026 World Intelligent and Connected Vehicles Congress in October】The Ministry of Industry and Information Technology (MIIT) said the 2026 World Intelligent and Connected Vehicles Congress, co‑hosted by MIIT, the Ministry of Transport and the Beijing municipal government, will be held in mid‑October 2026 in Beijing."
+    },
+    {
+      "id": "5010285",
+      "time": "2026-07-27 19:43:37",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴基斯坦央行行長：央行預計2027財年進口額將增加40億至50億美元，達到690億美元。"
+    },
+    {
+      "id": "5010284",
+      "time": "2026-07-27 19:42:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026世界智慧網聯汽車大會將於10月舉辦】工業和資訊化部表示，由工業和資訊化部、交通運輸部、北京市人民政府聯合主辦的2026世界智慧網聯汽車大會將於2026年10月中旬在北京舉辦。本屆大會以“匯智聚能 網聯無限——穩步邁進自動駕駛新時代”為主題，聚焦產業關鍵節點和發展重大議題，設定3場全體會議。同時集中釋出一批產業發展最新成果，全方位展現自動駕駛新時代的實踐成效與發展藍圖。工業和資訊化部相關負責人表示，本屆大會旨在凝聚全球產業發展共識，系統研判自動駕駛技術演進趨勢、產業發展方向和治理規則，形成高水平思想成果與政策共識。深化國際交流合作，推動各國在政策溝通、標準互認等方面形成更多務實成果。同時推動技術成果展示轉化，加快形成一批可複製、可推廣的產業協同和場景應用成果。（央視新聞）"
+    },
+    {
+      "id": "5010283",
+      "time": "2026-07-27 19:42:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普：受2025年末迪特瓦氣旋及中東局勢影響，預計斯里蘭卡對外收支與財政收支將出現暫時性走弱。"
+    },
+    {
+      "id": "5010282",
+      "time": "2026-07-27 19:42:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：穩定展望反映出我們的判斷，即斯里蘭卡持續經濟增長與財政整頓的條件將在未來6至12個月保持不變。"
+    },
+    {
+      "id": "mkt:019fa362-244f-7aab-8ead-d05587ebb00f",
+      "time": "2026-07-27 19:42:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Prime Minister Netanyahu will ask US President Trump not to sell weapons systems and F-35 fighters to Turkey, Channel 12 Israel reports, citing sources."
+    },
+    {
+      "id": "5010281",
+      "time": "2026-07-27 19:42:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "據以色列媒體：內塔尼亞胡將向特朗普提供有關伊朗邁向擁有核武器程序的最新情報資訊。"
+    },
+    {
+      "id": "mkt:019fa362-0efe-7aab-8ead-cdee3460d03b",
+      "time": "2026-07-27 19:42:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Cai Jianchun moves to China Financial Futures Exchange】Cai Jianchun's biography has been removed from the Shanghai Stock Exchange leadership page. Cai, formerly deputy party secretary and general manager of the Shanghai Stock Exchange, has reportedly taken up a position at the China Financial Futures Exchange in recent days, according to multiple sources."
+    },
+    {
+      "id": "5010280",
+      "time": "2026-07-27 19:41:50",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【蔡建春已赴中金所工作】7月27日，證券時報記者發現蔡建春的簡歷已從上交所官網“領導班子”欄目中撤下。此前，蔡建春曾擔任上交所黨委副書記、總經理。記者多方瞭解到，蔡建春已於近日赴中國金融期貨交易所工作。"
+    },
+    {
+      "id": "mkt:019fa361-92b9-7aab-8ead-c1e003a64d51",
+      "time": "2026-07-27 19:41:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy has arrived in the UK and is due to meet UK Prime Minister Burnham."
+    },
+    {
+      "id": "5010279",
+      "time": "2026-07-27 19:41:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：烏英兩國合作的核心重點為防空、海上安全以及聯合軍工生產。"
+    },
+    {
+      "id": "5010278",
+      "time": "2026-07-27 19:41:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安諾其：擬收購廣州烽雲100%股權，交易方案已調整】安諾其公告，公司擬透過發行股份及支付現金方式收購廣州烽雲資訊科技有限公司100%股權，並募集配套資金。2026年7月27日，公司董事會審議透過了交易預案（修訂稿），對方案進行了調整。目前本次交易的審計、評估等工作尚未完成，公司董事會決定暫不召開股東會審議，待相關工作完成後將再次審議並提交股東會。本次交易尚需經國有資產監管程式及有權監管機構稽核等，存在不確定性。"
+    },
+    {
+      "id": "mkt:019fa361-0f47-7aab-8ead-b8e643ad9b1d",
+      "time": "2026-07-27 19:41:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Israeli Channel 12, citing sources, says Netanyahu will provide Trump with the latest intelligence on Iran's progress toward obtaining nuclear weapons."
+    },
+    {
+      "id": "te:economy:570090",
+      "time": "2026-07-27 19:41:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "El Salvador",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "El Salvador Trade Deficit Widens in June — El Salvador's trade deficit widened to $1,030.96 million on June 2026 from $856.96 million in the same month a year earlier. Imports rose 16.5% year-on-year to $1,628.1 million, driven by purchases from Central America (4.7%), mainly Costa Rica, and Panama (63.5%). Meanwhile, exports rose at a slower pace of 10.5% to $597.2 million, supported by shipments to the UK (38%), Ecuador (25.2%) and Mexico (24.2%). In the January–June 2026 period, the trade deficit widened to $5,919.1 million from $5,302.4 million in the corresponding period a year earlier."
+    },
+    {
+      "id": "5010277",
+      "time": "2026-07-27 19:40:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【徐工首座海外新能源工廠正式投產】7月27日，徐工印尼新能源製造基地落成儀式在印尼緯達貝工業園區（IWIP）舉行。隨著首批新能源裝置正式下線並交付戰略合作伙伴青山實業印尼緯達貝園區，徐工首座海外新能源工廠正式投產。"
+    },
     {
       "id": "5010276",
       "time": "2026-07-27 19:40:26",
@@ -162955,126 +163117,6 @@
         "其他"
       ],
       "text": "伯納姆抵達唐寧街 10 號。"
-    },
-    {
-      "id": "4997953",
-      "time": "2026-07-20 19:45:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債價格抹去了此前跌幅。"
-    },
-    {
-      "id": "te:economy:568238",
-      "time": "2026-07-20 19:44:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Bund Yields Hold Near Two-Month High Ahead of ECB — Germany's 10-year Bund yield erased early gains to trade just above 3.1% as crude prices retreated on signs of renewed diplomatic efforts between the US and Iran. Despite the pullback, the benchmark yield remained close to a two-month high, while the more policy-sensitive two-year Bund yield climbed above 2.8%, its highest level since July 2024. Brent crude touched its highest level in more than a month as escalating US-Iran hostilities threatened oil flows through the Strait of Hormuz, fueling inflation concerns and reinforcing expectations that the European Central Bank will deliver two more rate hikes by early 2027, with the first increase expected as soon as September. Attention now turns to Thursday's ECB policy meeting, where policymakers are widely expected to leave rates unchanged and adopt a wait-and-see stance following June's first rate hike in three years."
-    },
-    {
-      "id": "4997952",
-      "time": "2026-07-20 19:44:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【俄羅斯延長對中國公民的免簽入境政策】俄羅斯總統普京當地時間7月20日簽署總統令，將現行中國公民入境免籤政策延長至2027年12月31日。 (央視新聞)"
-    },
-    {
-      "id": "4997951",
-      "time": "2026-07-20 19:44:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華新科技：董事長提議回購6000萬至1.2億元公司股份】華新科技公告稱，近日公司董事長張軍提議回購股份。因公司股價連續20個交易日累計跌幅35.1%，為維護投資者權益，提議以自有資金集中競價回購，回購資金不低於6000萬元且不超1.2億元，回購價格上限不高於董事會審議透過回購方案決議前30個交易日公司股票交易均價的150%，期限為董事會審議透過之日起3個月內。2026年7月20日，公司董事會已審議透過該議案。"
-    },
-    {
-      "id": "4997950",
-      "time": "2026-07-20 19:44:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國汽油均價重回每加侖4美元高位】美國汽車協會發布的資料顯示，全美普通汽油平均價格20日再次上漲至每加侖4美元以上水平。這一價格去年同期為每加侖3.14美元。此前，受美國和伊朗軍事衝突等因素影響，全美普通汽油平均價格今年3月底突破4美元，創近4年來新高，並持續上揚；美伊6月中旬簽署諒解備忘錄後，全美普通汽油平均價格回落至4美元以下並持續走低一段時間。近期，美伊持續互襲，油價再度攀升。國際原油期貨19日在開始新一週交易後價格顯著上漲，布倫特原油期貨價格突破每桶90美元。業界預計，霍爾木茲海峽阻塞時間越長，對全球經濟的衝擊越大，油價或將繼續攀升。美國將於11月迎來國會中期選舉，高油價已令美國總統特朗普和共和黨承壓。美國媒體16日釋出的民調結果顯示，在伊朗問題上，特朗普的不支援率升至69%；約67%的調查物件預計未來一年美國經濟會進一步惡化；約60%的人質疑美伊談判能否將汽油價格降至衝突前水平。（新華社）"
-    },
-    {
-      "id": "4997949",
-      "time": "2026-07-20 19:43:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【超威半導體美股盤前漲超4%】 超威半導體美股盤前漲超4%，現報515.99美元。"
-    },
-    {
-      "id": "4997948",
-      "time": "2026-07-20 19:43:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【行雲科技：與某國資供應商簽署3億元算力服務合同】 行雲科技公告，公司與某國資供應商簽署了《算力服務合同》及《算力服務框架合作協議》。根據合同，SA供應商將提供32套GPU算力服務，期限為8年（含5年服務期+3年固定續約期），含稅總金額為3億元。合同服務期限為5年，算力服務分批交付、分批驗收、分批計費，各批次獨立驗收、單獨計費。續約期為3年，續約期間公司利用SA供應商的算力資源開展業務所產生的淨利潤70%歸屬公司，30%向SA供應商支付算力服務費。"
-    },
-    {
-      "id": "4997947",
-      "time": "2026-07-20 19:43:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華新科技：擬使用不超過1.2億元回購公司股份】 華新科技公告，擬使用自有資金透過集中競價方式回購公司部分人民幣普通股（A股）股票，回購股份價格不超過人民幣32元/股，回購資金總額不低於人民幣6000萬元且不超過人民幣1.2億元，預計可回購股份數量約為187.5萬-375萬股，約佔公司當前總股本的0.62%-1.24%。"
-    },
-    {
-      "id": "4997946",
-      "time": "2026-07-20 19:43:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST萃華：未披露定期報告 股票或被終止上市】*ST萃華公告稱，公司未在2026年4月30日披露2025年年度報告和2026年第一季度報告，股票於5月6日開市起停牌，7月7日起被實施退市風險警示。若在被實施退市風險警示之日起兩個月內仍未披露過半數董事保證真實、準確、完整的2025年年度報告，深交所將決定終止其股票上市交易。此外，公司因涉嫌資訊披露違法違規等被證監會立案調查，若觸及重大違法強制退市情形，股票將被強制退市。"
-    },
-    {
-      "id": "4997945",
-      "time": "2026-07-20 19:43:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克指數期貨漲幅擴大，最新上漲1.2%。"
-    },
-    {
-      "id": "4997944",
-      "time": "2026-07-20 19:43:00",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【李強主持召開國務院常務會議】國務院總理李強7月20日主持召開國務院常務會議，聽取對服務業擴能提質和水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網等“六張網”規劃建設督查情況彙報，審議透過《智慧財產權保護和運用“十五五”規劃》，研究最佳化社會保障體系有關工作，聽取2025年度中央預算執行和其他財政收支審計查出問題整改工作建議彙報。\n\n會議指出，推動服務業擴能提質和“六張網”規劃建設對於穩投資、擴消費、惠民生具有重要意義。要充分釋放服務業發展潛力，分門別類完善支援政策，加快破除各種制約和障礙。生產性服務業要加力支援科技創新和價值創造，進一步發揮對實體經濟的支撐作用，生活性服務業要著力擴大優質供給，更好滿足人民群眾多樣化多層次需求。要系統推進“六張網”規劃建設，因地因業加快實施，加強資金要素保障，切實把重大基礎設施網路建設好。同時統籌好建和用的關係，更加重視管理機制等“軟建設”，增強運營服務能力。\n\n會議指出，近年來我國智慧財產權事業取得長足發展，為激發全社會創新活力、培育新質生產力提供有力支撐。要抓緊補齊制度短板，加快推動相關法律法規立改廢釋，完善配套政策措施，持續最佳化支援全面創新的智慧財產權保護環境。要強化智慧財產權高質量供給，深化權益分配改革，加強政策支援和市場服務，提升轉化運用效能。要建立全鏈條人才培養體系，加快建設高層次、複合型、應用型人才隊伍，全面提升智慧財產權管理服務水平。\n\n會議指出，要提高社會保障體系的整體性協同性，最佳化相關制度安排，加強銜接聯動，高效配置各種資源，增強社保制度可持續發展能力。要深化政策機制創新，豐富多層次社保體系，積極探索靈活就業人員社保新模式，最佳化農民工等群體住房保障措施，推進失能照護等服務資源共享，增強社保體系適應性。要完善社保平臺功能，加強精細化管理，積極運用先進技術提高社保經辦服務便利度。\n\n會議指出，要全面抓好審計整改工作，對審計查出問題高度重視、嚴肅對待，逐項分解任務、壓緊壓實責任，舉一反三務求整改實效。要進一步強化預算管理，深化財稅體制改革，切實發揮好財政資金的使用效益。要把審計整改作為改進工作的有力抓手，推動黨中央決策部署和政策措施更好落地見效，紮實做好下半年各項工作，確保完成全年經濟社會發展目標任務。（新華社）"
-    },
-    {
-      "id": "4997943",
-      "time": "2026-07-20 19:42:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗陸軍發言人阿米爾・阿克拉米尼亞准將表示，基於 1980 至 1988 年兩伊戰爭的歷史教訓，從理性角度出發，這場衝突必須持續下去，直至為本國構建起全面威懾體系。"
-    },
-    {
-      "id": "4997942",
-      "time": "2026-07-20 19:41:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "據上交所官網，上海紐脈醫療科技股份有限公司科創板IPO稽核狀態變更為“已問詢”。"
-    },
-    {
-      "id": "mkt:019f7f54-f8c5-7aab-8e0b-b453fd9bc781",
-      "time": "2026-07-20 19:41:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Shanghai Stock Exchange shows Shanghai Niumai Medical Technology Co., Ltd.'s STAR Market IPO review status changed to 'inquiry'."
     }
   ]
 }
