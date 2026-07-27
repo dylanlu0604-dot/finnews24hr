@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-27 13:22:59",
-  "count": 17921,
+  "updated": "2026-07-27 13:27:00",
+  "count": 17919,
   "items": [
+    {
+      "id": "5009367",
+      "time": "2026-07-27 13:25:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美高官承認美軍武器庫存短缺又改口】當地時間7月26日，美國常駐聯合國代表華爾茲在接受採訪時被問“美軍是否因為武器庫存短缺放棄對伊朗發動更大規模的軍事行動”。對此，華爾茲先是將美軍武器庫存面臨短缺的問題歸咎於拜登政府，在被主持人追問“所以你是承認武器庫存短缺了吧”後，華爾茲又馬上“澄清”，說美軍擁有開展此次對伊朗打擊行動所需的“一切資源”，而任何洩露所謂“武器庫存短缺”這種“無稽之談”的人都應該進監獄。 值得注意的是，華爾茲是去年3月被美國《大西洋月刊》披露的“白宮群聊洩密門”主角。事發後，他被美國總統特朗普調離總統國家安全事務助理之職，任職聯合國。"
+    },
+    {
+      "id": "5009366",
+      "time": "2026-07-27 13:24:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【合資車企市場份額不足25%】“6月份合資加外資品牌的市場佔比只剩24.5%。四分之一的份額，放在三年前沒人敢信，今天就實實在在擺在眼前。”近日，在2026中國汽車論壇“新合資時代的品牌破局之道”主題論壇上，東風日產汽車銷售有限公司副總經理王騫用這樣一組資料開場。 這是中國汽車論壇品牌專題論壇舉辦七年以來，首次為合資品牌開設專場。這也與合資品牌在華的真實處境息息相關。 近五六年間，合資與自主品牌完成了攻守易勢的格局逆轉。2020年，合資品牌與自主品牌的市場份額比約為六四開（合資約61.6%，自主38.4%）；到2026年上半年，這一格局已徹底反轉——中汽協資料顯示，上半年中國品牌乘用車銷售913.8萬輛，市場份額達71.8%，合資及外資品牌合計份額僅剩28.2%。 “2026年的中國車市，合資品牌的難，已經不是‘月底手頭緊’的小難處，是開啟手機銀行看半年流水，發現原來的穩定進項少了一大截，得趕緊琢磨新營生的真難處。”王騫說。（一財）"
+    },
+    {
+      "id": "5009365",
+      "time": "2026-07-27 13:24:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【兵裝重組概念板塊午後走強】兵裝重組概念板塊午後走強，長城軍工漲停，建設工業、東安動力、中光學、湖南天雁、長安汽車等跟漲。"
+    },
+    {
+      "id": "5009364",
+      "time": "2026-07-27 13:23:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：預計美聯儲的沃什將鞏固其抗通脹聲譽】藍灣首席投資官Mark Dowding在一份報告中表示，投資者可以非常確信，美聯儲主席凱文·沃什將希望釋放出偏緊縮的訊號，並盡一切可能鞏固其抗通脹聲譽，儘管他目前還不會採取任何實際行動。他表示：“這可能會暫時促使美國收益率曲線進一步趨平。”Dowding表示，然而，在美國財政狀況持續惡化以及美國總統特朗普的中東戰爭費用不斷攀升的背景下，這最終可能成為導致該曲線在未來某個時候重新變陡的一個因素。"
+    },
+    {
+      "id": "te:economy:569982",
+      "time": "2026-07-27 13:22:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Singapore Manufacturing Output Hits 4-Month Low — Singapore’s manufacturing production grew by 7.2% year-on-year in June 2026, slowing sharply from an upwardly revised 17.8% increase in the previous month. This marked the weakest annual growth since February, as output growth eased in electronics (21.3% vs 49.2% in May), driven by slower expansion in semiconductors (21.1% vs 53.3%) and infocomms and consumer electronics (32.1% vs 59.2%). Overall manufacturing output was also weighed down by slower growth in precision engineering (14.9% vs 30.5%) and a sharp contraction in general manufacturing industries (-6.8% vs 1.4%). In addition, output continued to decline in chemicals (-11.7% vs -11.4%). On the other hand, transport engineering (4.6% vs -4.9%) rebounded. On a seasonally adjusted monthly basis, manufacturing output fell 7.2%, reversing an upwardly revised 6.9% gain in May."
+    },
     {
       "id": "mkt:019fa205-f541-7aab-8ea3-72ad0c8c2a66",
       "time": "2026-07-27 13:22:07",
@@ -164177,71 +164222,6 @@
         "觀點"
       ],
       "text": "【華泰證券：美的正向全球化科技製造企業轉型，目標價升至134.46港元】華泰證券發表研報指，美的集團正從傳統家電龍頭向全球化科技製造企業轉型，短期具備較強經營防禦能力，中長期海外拓展、ToB業務及AI產業鏈佈局能提供增長空間，形成業績穩健+估值重塑雙重邏輯，維持“買入”評級，上調估值溢價，目標價由120.32港元上調至134.46港元。該行認為，海外市場仍是美的收入增長重要來源，公司持續推進OBM轉型，海外收入佔比持續提升，國內業務透過產品升級和結構最佳化改善盈利，公司積極拓展智慧製造及ToB業務，其中資料中心製冷受益於AI算力基礎設施建設，有望成為新增長動力，加上美的持續推進降本增效，盈利能力預期保持穩定。"
-    },
-    {
-      "id": "mkt:019f7dfc-3579-7aab-8e02-16fe69538601",
-      "time": "2026-07-20 13:25:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China CSI 500 index futures (IC) main contract down 2.00% intraday, now 7,319.0 points. China CSI 1000 index futures (IM) main contract down 3.04% intraday, now 6,925 points."
-    },
-    {
-      "id": "4997016",
-      "time": "2026-07-20 13:25:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.02%，成分股中，錦華新材跌9.28%，民士達跌8.46%，三協電機跌7.13%，則成電子跌6.45%。"
-    },
-    {
-      "id": "4997015",
-      "time": "2026-07-20 13:24:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【韓國今年人均GDP有望達3.9萬美元】據韓聯社報道，得益於半導體旺季推動出口增加，韓國今年人均GDP有望大幅提升。綜合韓國財政經濟部、央行和國家資料處19日的資料，今年韓國人均GDP有望達到3.9164萬美元，同比增加2750美元，增幅為7.6%，增幅為2021年（11.5%）以來近5年之最。"
-    },
-    {
-      "id": "mkt:019f7dfb-c718-7aab-8e02-0ea21cfabe3b",
-      "time": "2026-07-20 13:24:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Media reports say debris from a SpaceX rocket may strike the Moon around Aug 5. SpaceX declined to comment. NASA manager William Cook said the impact would be very difficult to observe from Earth."
-    },
-    {
-      "id": "4997014",
-      "time": "2026-07-20 13:24:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【飛捷科思亮相WAIC2026 釋出Fysiverse物理世界模型】7月19日，2026世界人工智慧大會（WAIC）物理智慧創新生態論壇在上海成功舉辦。論壇上，飛捷科思正式釋出全棧自研、全國產適配的新一代Fysiverse物理世界模型，同時發起聯合32家產學研用資單位，成立物理智慧創新聯合體，成為我國首個系統性落地物理AI產業創新部署的實戰行動，完整落地自主可控的物理AI“中國方案”。（科創板日報）"
-    },
-    {
-      "id": "4997013",
-      "time": "2026-07-20 13:23:43",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【高盛：小米整合硬體、資料與模型推動機器人規模化，維持“買入”評級】高盛發表研報指，小米集團近期在機器人領域取得多項進展，包括人形機器人在自研工場的作業成功率提升，並開始承接新的物流任務；推出380億引數的統一生成式模型Xiaomi-Robotics-U0以解決真實資料稀缺問題；以及釋出具身智慧大模型Xiaomi-Robotics-1。該行認為，小米已完成機器人框架在硬體、資料與模型上的初步整合，有望形成自我強化的閉環，邁向通用工業及家庭自動化。該行指出，具身智慧作為小米AI戰略的三大變現路徑之一，預計小米機器人未來3至5年將聚焦於更結構化的B端商業場景，例如在小米自家(智慧電動車、智慧手機及家電)及合作伙伴的工廠中大規模部署人形機器人。此外，小米電動車業務收入增長較同業更快，加上SkyNomad新車款釋出有望提高2027財年銷售能見度，電動車業務仍具估值上行空間。高盛維持小米“買入”評級及目標價40港元不變。"
-    },
-    {
-      "id": "4997012",
-      "time": "2026-07-20 13:23:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中研股份新設子公司 含多項AI相關業務】企查查APP顯示，近日，中研淘淘塑（深圳）網路科技有限公司成立，經營範圍包含前沿新材料銷售；人工智慧公共資料平臺；人工智慧公共服務平臺技術諮詢服務；人工智慧基礎資源與技術平臺等。企查查股權穿透顯示，該公司由中研股份全資持股。"
     }
   ]
 }
