@@ -1,7 +1,110 @@
 {
   "date": "2026-07-28",
-  "count": 273,
+  "count": 283,
   "items": [
+    {
+      "id": "5010824",
+      "time": "2026-07-28 04:09:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社與益普索聯合民調顯示：僅33%的美國人認可美國對伊朗開戰，這是該衝突爆發初期以來的最低支援率。"
+    },
+    {
+      "id": "5010823",
+      "time": "2026-07-28 04:09:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版實時資料，截至7月28日2時27分，影片《蜘蛛俠：嶄新之日》預售總票房突破9000萬。"
+    },
+    {
+      "id": "5010822",
+      "time": "2026-07-28 04:08:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：如果有人過來問“我們為何要採取這些行動”，你只需回覆一句“我們絕不能讓伊朗擁有核武器。”道理就這麼簡單，只需要說這一句，無需多言。"
+    },
+    {
+      "id": "mkt:019fa531-ac28-7aab-8eb6-f400f8602ca2",
+      "time": "2026-07-28 04:08:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude fell 9.00% intraday to $81.16/bbl."
+    },
+    {
+      "id": "5010821",
+      "time": "2026-07-28 04:08:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達承諾向OpenAI前首席科學家參與創辦的企業投資50億美元】知情人士透露，英偉達承諾向OpenAI前首席科學家Ilya Sutskever創辦的人工智慧企業Safe Superintelligence Inc.投資50億美元。根據雙方週一釋出的聯合宣告，除獲得投資外，Safe Superintelligence還將取得英偉達下一代Vera Rubin平臺的使用權。交易的財務條款未予披露。Safe Superintelligence此前已從投資者處籌集約30億美元，去年估值達到320億美元。其投資者包括Andreessen Horowitz、紅杉資本和DST Global。"
+    },
+    {
+      "id": "5010820",
+      "time": "2026-07-28 04:07:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：有足夠耐心與伊朗達成新協議 否則就開打】美國總統特朗普27日稱，他有足夠的耐心和時間與伊朗達成協議，但如果達不成新的停火協議，美國將恢復對伊朗軍事打擊。據美國媒體報道，特朗普當天在乘坐“空軍一號”前往密歇根州參加活動的途中說，目前美伊談判“進行良好”，“我認為很可能會發生什麼事。如果發生了，那很好；如果沒有發生，我們就恢復到兩天前的狀態”。他還稱，美軍目前彈藥庫存充足，有大量不同型別的彈藥。在談到即將於28日同到訪的以色列總理內塔尼亞胡會談時，特朗普說，兩人在伊朗問題上立場“有一些分歧，但總體來說非常接近”。特朗普當天在接受美國阿克西奧斯新聞網站採訪時說，他決定暫停對伊朗的打擊，以便給談判一次機會，但如果外交努力失敗，他可能下令恢復實施更大規模的軍事行動。他還稱，“時間不多了。要麼速戰速決，要麼乾脆作罷”。特朗普稱，他之所以暫停打擊伊朗，是因為居中斡旋的國家請求他再給談判一次機會，並強調他認為伊朗有意達成協議。（新華社）"
+    },
+    {
+      "id": "5010819",
+      "time": "2026-07-28 04:07:15",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "SK海力士重挫4%，跌破美國IPO發行價。"
+    },
+    {
+      "id": "te:markets:570175",
+      "time": "2026-07-28 04:06:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Cadence Design Systems earnings above expectations at 2.11 USD — Cadence Design Systems (CDNS) released earnings per share at 2.11 USD, compared to market expectations of 2.05 USD."
+    },
+    {
+      "id": "mkt:019fa52f-6348-7aab-8eb6-ecf1d7065aa5",
+      "time": "2026-07-28 04:06:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Trump says he has time to strike a deal with Iran but will resume strikes if talks fail】President Trump said on July 27 he has sufficient patience and time to reach an agreement with Iran but will resume U.S. military strikes if a new truce is not reached. He told Axios aboard Air Force One he paused strikes to give negotiations a chance and could order a larger-scale military response if diplomacy fails, saying there is not much time: either a quick resolution or walk away. Trump added U.S. munitions stocks are ample. He said he and visiting Israeli Prime Minister Netanyahu, who meet July 28, are generally aligned on Iran though \"there are some differences.\""
+    },
+    {
+      "id": "mkt:019fa52f-54ed-7aab-8eb6-e2b17b95f194",
+      "time": "2026-07-28 04:06:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "US stocks closed mixed on Monday July 27: Dow Jones Industrial Average rose 262.44 points (+0.51%) to 52,209.69; S&P 500 gained 1.28 points (+0.02%) to 7,413.26; Nasdaq Composite fell 43.74 points (-0.18%) to 24,932.08."
+    },
     {
       "id": "mkt:019fa52c-26ef-7aab-8eb6-d88f3c8503f3",
       "time": "2026-07-28 04:02:41",
