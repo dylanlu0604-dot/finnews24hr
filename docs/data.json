@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-28 02:32:02",
-  "count": 17805,
+  "updated": "2026-07-28 02:35:47",
+  "count": 17809,
   "items": [
+    {
+      "id": "5010767",
+      "time": "2026-07-28 02:35:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國原油期貨收跌7.5%】WTI 9月原油期貨收跌6.70美元，跌幅7.50%，連續第二個交易日回撤，報82.61美元/桶。中東Abu Dhabi Murban原油期貨跌12.57%，也連跌兩天，報84.85美元/桶。NYMEX 8月天然氣期貨收報2.7670美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.3273美元/加侖，NYMEX 8月取暖油期貨收報4.1116美元/加侖。"
+    },
+    {
+      "id": "5010766",
+      "time": "2026-07-28 02:35:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版實時資料，截至7月28日2時27分，影片《蜘蛛俠：嶄新之日》預售總票房突破9000萬。"
+    },
+    {
+      "id": "mkt:019fa4da-951b-7aab-8eb5-f0bb27f395d3",
+      "time": "2026-07-28 02:33:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $82.61/bbl, down $6.70 or 7.50%."
+    },
+    {
+      "id": "mkt:019fa4da-8d80-7aab-8eb5-e90721f1c500",
+      "time": "2026-07-28 02:33:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ORCL.N",
+        "MSFT.O",
+        "GOOG.O"
+      ],
+      "text": "【US firms: AI-driven discovery to roughly double software security vulnerabilities found in 2026 vs 2025】Software security vulnerabilities found in popular tech products in 2026 are expected to be about twice the number found in 2025, a surge market participants attribute mainly to advances in AI. The US National Vulnerability Database shows 45,207 vulnerabilities recorded from January through Monday, approaching 2025's full-year total after 2025 set a record. Oracle (ORCL.N) said its July fixes addressed 1,449 vulnerabilities versus 309 in the same month a year earlier; Microsoft (MSFT.O) disclosed 642 in July, nearly five times the year-earlier count; Google (GOOG.O) fixed 433 in a recent Chrome update versus 11 a year earlier. SentinelOne research scientist Gabriel Shapiro said AI tools are increasing the ability to find software bugs; Google Chrome engineering director Doug Turner said vulnerabilities are now being found at \"unprecedented scale and speed\" due to AI model progress and related investment."
+    },
+    {
+      "id": "mkt:019fa4d9-5449-7aab-8eb5-e6ee8fab505a",
+      "time": "2026-07-28 02:32:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "GM.N",
+        "Impact bearish"
+      ],
+      "text": "US President Trump said tariffs' impact on General Motors (GM.N) is staggering."
+    },
+    {
+      "id": "5010765",
+      "time": "2026-07-28 02:31:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們對通用汽車一直十分優待，這是有原因的。"
+    },
+    {
+      "id": "mkt:019fa4d8-f7e5-7aab-8eb5-df2399803914",
+      "time": "2026-07-28 02:31:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Night session most-active contracts close】At the 02:30 night session close, SHFE most-active gold futures fell 0.18% to 891 yuan/gram; SHFE most-active silver futures fell 0.72% to 14,322 yuan/kg; Shanghai crude (SC) most-active contract fell 4.50% to 540 yuan/barrel."
+    },
+    {
+      "id": "te:markets:570173",
+      "time": "2026-07-28 02:31:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Continues to Fall — Brent extended losses and fell toward $88 per barrel on Monday, its lowest level in more than a week, as optimism grew that the conflict in the Middle East could soon ease. President Trump said the US was holding \"good talks\" with Iran and that there was a chance of reaching a deal, but warned that US strikes would resume if negotiations failed. The US paused its military strikes on Iran on Friday, following nearly two weeks of hostilities and Tehran said it had suspended its retaliatory military operations in response and entered talks with Oman regarding navigation through Hormuz. Supply conditions also improved after crude loadings resumed at the Caspian Pipeline Consortium terminal on Russia's Black Sea coast, a key export route for Kazakh oil that had recently been disrupted by Ukrainian drone attacks. Meanwhile, Houthi militants claimed to have targeted Saudi Aramco-linked facilities in Jizan and Yanbu, although neither the Saudi government nor Aramco confirmed it."
+    },
     {
       "id": "mkt:019fa4d8-aeab-7aab-8eb5-d05bd0a6687a",
       "time": "2026-07-28 02:31:31",
@@ -163225,46 +163313,6 @@
         "國際"
       ],
       "text": "派拉蒙天空舞傳媒發言人：我方有充分證據證明各州總檢察長針對華納兄弟交易提出的反壟斷主張毫無依據。"
-    },
-    {
-      "id": "4998412",
-      "time": "2026-07-21 02:34:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國新任首相伯納姆任命多名內閣成員】當地時間20日，英國新任首相伯納姆任命多名內閣成員。伯納姆任命前國防大臣約翰·希利為財政大臣。希利曾在斯塔默政府擔任國防大臣，因國防開支爭議於6月辭職。伯納姆還任命埃德·米利班德為外交大臣。米利班德曾於2010年至2015年擔任工黨黨首，並在斯塔默政府中擔任能源大臣。此外，路易絲·黑格被任命為英國首席國務大臣兼蘭卡斯特公爵領地事務大臣。黑格曾任交通大臣，於2024年11月辭職，她被認為是伯納姆的重要支持者。斯塔默政府的內政大臣沙巴娜·馬哈茂德則將繼續擔任原職。伯納姆於20日被英國國王查爾斯三世任命為新任首相併被授權組建新一屆內閣。（央視新聞）"
-    },
-    {
-      "id": "4998411",
-      "time": "2026-07-21 02:33:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "派拉蒙天空舞傳媒發言人：我方將繼續積極推進捍衛與華納兄弟的交易，並期待就各州總檢察長提起訴訟的實質內容舉行聽證會。"
-    },
-    {
-      "id": "mkt:019f80cc-e378-7aab-8e13-c7da7a7065a1",
-      "time": "2026-07-21 02:32:18",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Jordan's armed forces intercepted three missiles fired from Iran, Jordanian state TV reported. No casualties or damage were reported."
-    },
-    {
-      "id": "mkt:019f80cc-e19a-7aab-8e13-bed51d3a98be",
-      "time": "2026-07-21 02:32:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "WTI"
-      ],
-      "text": "【Night session front-month contracts close】At the night-session close (02:30), Shanghai gold front-month contract rose 0.05% to 875 yuan/gram; Shanghai silver front-month contract rose 1.13% to 13,840 yuan/kg; SC crude oil front-month contract fell 0.43% to 535 yuan/barrel."
     }
   ]
 }
