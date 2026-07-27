@@ -1,7 +1,163 @@
 {
-  "updated": "2026-07-28 00:30:02",
-  "count": 17750,
+  "updated": "2026-07-28 00:33:55",
+  "count": 17757,
   "items": [
+    {
+      "id": "mkt:019fa46c-58f1-7aab-8eb3-bcb8ce50abfb",
+      "time": "2026-07-28 00:33:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said Venezuela's funds can be used for the military."
+    },
+    {
+      "id": "5010702",
+      "time": "2026-07-28 00:33:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普：沃什能力出眾，但美聯儲理事會並非由他一人說了算。"
+    },
+    {
+      "id": "mkt:019fa46b-dacf-7aab-8eb3-b767654c885b",
+      "time": "2026-07-28 00:32:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said he will use Iranian funds to pay for losses in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019fa46b-ba38-7aab-8eb3-a9ded33f283c",
+      "time": "2026-07-28 00:32:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said, regarding Israel, the US is very close to reaching an agreement on Iran."
+    },
+    {
+      "id": "5010701",
+      "time": "2026-07-28 00:32:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們將動用伊朗的資金，賠付霍爾木茲地區造成的損失。"
+    },
+    {
+      "id": "5010700",
+      "time": "2026-07-28 00:31:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：委內瑞拉的資金可交由軍方使用。"
+    },
+    {
+      "id": "5010699",
+      "time": "2026-07-28 00:31:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐日使館發言人就日公佈起訴村田晃大訊息答記者問】中國駐日本大使館發言人27日就日方公佈起訴村田晃大訊息答記者問，指出此事暴露出日本國內極右翼思潮和勢力猖獗，日方須負起責任，向中方和國際社會作出負責任的交代。據日本廣播協會27日報道，針對今年3月日本現役自衛隊官員持刀擅闖中國駐日本大使館，日本檢方27日以入侵建築物、威脅使館工作人員等罪名對其提起公訴。被起訴的是日本陸上自衛隊三等陸尉村田晃大，現年24歲，隸屬宮崎縣陸上自衛隊蝦野駐屯地。今年3月，他攜帶刀具，翻牆闖入位於東京的中國駐日本大使館，隨後被警方逮捕。（新華社）"
+    },
+    {
+      "id": "mkt:019fa46a-dc5b-7aab-8eb3-a682bdf76583",
+      "time": "2026-07-28 00:31:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP said he will assess Russia's actions in the war in Ukraine and will ask Putin about satellite imagery regarding Iran."
+    },
+    {
+      "id": "5010698",
+      "time": "2026-07-28 00:31:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：會查清俄羅斯的相關行動。"
+    },
+    {
+      "id": "5010697",
+      "time": "2026-07-28 00:30:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 我和圖恩關係很好，還沒有考慮更換美國參議院多數黨領袖圖恩。"
+    },
+    {
+      "id": "mkt:019fa46a-272f-7aab-8eb3-99c5172eeb4e",
+      "time": "2026-07-28 00:30:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he and Israeli Prime Minister Netanyahu have some differences on Iran."
+    },
+    {
+      "id": "mkt:019fa469-f076-7aab-8eb3-969a19795157",
+      "time": "2026-07-28 00:30:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he has not yet considered replacing Senate Majority Leader Thune."
+    },
+    {
+      "id": "5010696",
+      "time": "2026-07-28 00:30:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：可能需要介入胡塞武裝（問題）。尚未與沙烏地阿拉伯討論加入亞伯拉罕協議。"
+    },
+    {
+      "id": "5010695",
+      "time": "2026-07-28 00:30:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我會向普京求證他是否在向伊朗提供衛星影象。"
+    },
+    {
+      "id": "mkt:019fa469-396a-7aab-8eb3-8a5a20e02f51",
+      "time": "2026-07-28 00:29:47",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "President Trump said the US is building a large number of Patriot air-defense missiles."
+    },
+    {
+      "id": "mkt:019fa469-1bc4-7aab-8eb3-84706e182a6a",
+      "time": "2026-07-28 00:29:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he has not yet discussed Saudi Arabia joining the Abraham Accords."
+    },
+    {
+      "id": "mkt:019fa469-064a-7aab-8eb3-78fd9456b095",
+      "time": "2026-07-28 00:29:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump: may need to intervene against Houthi militants."
+    },
     {
       "id": "5010693",
       "time": "2026-07-28 00:29:04",
@@ -162611,87 +162767,6 @@
         "其他"
       ],
       "text": "英國海上貿易行動辦公室（UKMTO）表示，一名船長報告其船隻被未知彈丸擊中，導致舵機受損。"
-    },
-    {
-      "id": "mkt:019f8060-470a-7aab-8e12-9a5e024a9b69",
-      "time": "2026-07-21 00:33:40",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "UK Maritime Trade Operations said it had received a report of an incident 17 nm east of Dibba, UAE."
-    },
-    {
-      "id": "4998361",
-      "time": "2026-07-21 00:33:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相府：英國首相伯納姆向特朗普通報了英國對保障霍爾木茲海峽航運通行安全的承諾。"
-    },
-    {
-      "id": "4998360",
-      "time": "2026-07-21 00:33:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國海事貿易運營機構(UKMTO)表示，已收到一份關於在阿聯酋迪巴以東17海里處發生事件的報告。"
-    },
-    {
-      "id": "mkt:019f805f-ea14-7aab-8e12-973b8c9d87d8",
-      "time": "2026-07-21 00:33:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy spoke by phone with UK Prime Minister Burnham."
-    },
-    {
-      "id": "mkt:019f805f-dad4-7aab-8e12-8e138dea7745",
-      "time": "2026-07-21 00:33:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An IDF spokesman said the army will conduct a military exercise near the Gaza border at the Zikim coastal area on Wednesday morning local time."
-    },
-    {
-      "id": "4998359",
-      "time": "2026-07-21 00:33:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相伯納姆與特朗普通話。"
-    },
-    {
-      "id": "4998358",
-      "time": "2026-07-21 00:32:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相辦公室稱：英國首相伯納姆向特朗普表示，希望未來能邀請特朗普訪問曼徹斯特，向他展示曼徹斯特的特色與優勢。"
-    },
-    {
-      "id": "mkt:019f805e-978b-7aab-8e12-83f8fe7ae2ec",
-      "time": "2026-07-21 00:31:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iranian media: explosions heard in two southern provinces】Iranian media reported on the evening of the 20th that explosions were heard in southern Iran’s Hormozgan and Fars provinces."
-    },
-    {
-      "id": "4998357",
-      "time": "2026-07-21 00:31:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗軍方凌晨在法爾斯省擊落美方射彈】伊朗一名省級安全官員稱，伊朗武裝部隊於週一凌晨在法爾斯省代什庫德市附近偵測並摧毀了一枚美方射彈。該官員並未透露這枚射彈的型號，也未說明殘骸是否造成損毀或人員傷亡。"
-    },
-    {
-      "id": "4998356",
-      "time": "2026-07-21 00:30:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：已與英國首相伯納姆通話。"
     }
   ]
 }
