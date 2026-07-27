@@ -1,7 +1,68 @@
 {
   "date": "2026-07-28",
-  "count": 107,
+  "count": 113,
   "items": [
+    {
+      "id": "mkt:019fa48f-6167-7aab-8eb4-d394d127ca7f",
+      "time": "2026-07-28 01:11:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Iranian outlet Fars News, citing sources, reported that Israel shelled the Ali Tahir Heights in southern Lebanon."
+    },
+    {
+      "id": "mkt:019fa48d-46c3-7aab-8eb4-c9dd7e0c9179",
+      "time": "2026-07-28 01:09:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury said it removed 84 individuals and entities from its sanctions list as part of sanctions program modernization."
+    },
+    {
+      "id": "mkt:019fa48d-3384-7aab-8eb4-c7de691b11d2",
+      "time": "2026-07-28 01:09:04",
+      "tags": [
+        "MKT News",
+        "Copper"
+      ],
+      "text": "SOUTH KOREA'S LEE says he and LULA agreed to expand cooperation on critical minerals."
+    },
+    {
+      "id": "mkt:019fa48d-10eb-7aab-8eb4-ba96fa49df50",
+      "time": "2026-07-28 01:08:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Italy's Prime Minister Meloni has signed a decree to immediately cut diesel prices after international developments pushed up fuel costs."
+    },
+    {
+      "id": "5010728",
+      "time": "2026-07-28 01:08:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：作為制裁體系現代化改革舉措的一部分，已有 84 名個人及實體從制裁清單中移除。"
+    },
+    {
+      "id": "5010727",
+      "time": "2026-07-28 01:08:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：已與巴西總統盧拉達成共識，擴大關鍵礦產領域合作。"
+    },
     {
       "id": "te:markets:570167",
       "time": "2026-07-28 01:07:49",
