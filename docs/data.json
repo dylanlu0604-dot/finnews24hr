@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-28 01:12:55",
-  "count": 17783,
+  "updated": "2026-07-28 01:16:48",
+  "count": 17784,
   "items": [
+    {
+      "id": "5010732",
+      "time": "2026-07-28 01:16:12",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國戰略石油儲備原油庫存上週減少約 370 萬桶，降至 3.077 億桶，創 1983 年以來新低。"
+    },
+    {
+      "id": "5010731",
+      "time": "2026-07-28 01:14:56",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【大摩：美聯儲決議前夕，投資者增持美元多頭頭寸】摩根士丹利策略師援引資料稱，在本週美聯儲與英國央行議息會議前夕，投資者已增持美元多頭及英鎊空頭頭寸。策略師Molly Nickolin、David Adams、Andrew Watrous在報告中寫道：“期權定價資料顯示，投資者增加了美元指數的多頭頭寸，並增加了英鎊的空頭頭寸。”他們表示：“期權資料指向美元多頭倉位，而期貨市場資料也表明美元倉位偏多。資產管理機構主要做多歐元、做空英鎊，而槓桿基金則主要做多英鎊、做空紐西蘭元。”"
+    },
+    {
+      "id": "5010730",
+      "time": "2026-07-28 01:14:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國農業部批准進口墨西哥牛隻，芝商所遠期飼牛期貨觸及單日跌停。"
+    },
+    {
+      "id": "mkt:019fa491-a754-7aab-8eb4-dd3604cf3dee",
+      "time": "2026-07-28 01:13:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SOUTH KOREA'S LEE says a potential trade agreement with Mercosur cannot wait and is urgent."
+    },
+    {
+      "id": "5010729",
+      "time": "2026-07-28 01:12:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：韓國與南方共同市場的潛在貿易協定刻不容緩，此事迫在眉睫。"
+    },
     {
       "id": "mkt:019fa48f-6167-7aab-8eb4-d394d127ca7f",
       "time": "2026-07-28 01:11:27",
@@ -163048,42 +163093,6 @@
         "美聯儲"
       ],
       "text": "週一（7月20日），美聯儲隔夜逆回購協議（RRP）使用規模為0.3億美元。"
-    },
-    {
-      "id": "4998389",
-      "time": "2026-07-21 01:16:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "6 家交易對手在美聯儲逆回購操作中獲得 3000 萬美元。"
-    },
-    {
-      "id": "4998388",
-      "time": "2026-07-21 01:15:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "約翰·希利被任命為英國財政大臣。"
-    },
-    {
-      "id": "mkt:019f8085-c9b8-7aab-8e13-111b40e37ab5",
-      "time": "2026-07-21 01:14:39",
-      "tags": [
-        "MKT News",
-        "PARA.O",
-        "Impact bearish",
-        "WBD.O"
-      ],
-      "text": "【U.S. judge halts Paramount–Warner Bros merger】After hearing arguments on Friday, U.S. Judge Araceli Martinez-Olguin on Monday issued a temporary injunction blocking the merger of Paramount and Warner Bros. A multi-state coalition of state attorneys general argued the deal would violate federal antitrust law and lead to higher prices for video services and reduced content supply. Paramount had agreed not to close the transaction before July 22."
-    },
-    {
-      "id": "4998387",
-      "time": "2026-07-21 01:14:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄方證實對等驅逐義大利駐俄武官及其助理】俄羅斯外交部發言人扎哈羅娃當地時間20日證實，作為對義大利驅逐2名俄羅斯駐意使館武官的反制措施，俄方決定對等驅逐義大利駐俄武官及其助理。"
     }
   ]
 }
