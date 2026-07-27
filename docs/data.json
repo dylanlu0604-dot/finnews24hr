@@ -1,7 +1,92 @@
 {
-  "updated": "2026-07-27 12:39:02",
-  "count": 17914,
+  "updated": "2026-07-27 12:43:01",
+  "count": 17921,
   "items": [
+    {
+      "id": "mkt:019fa1e1-3e20-7aab-8ea2-8ff41d3b8172",
+      "time": "2026-07-27 12:42:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Xinwei Communication said it is the RF and connector supplier for domestic satellite customers and has participated in multiple satellite-network projects, supplying phased-array antennas, high-frequency/high-speed connectors and related solutions."
+    },
+    {
+      "id": "mkt:019fa1e0-ca13-7aab-8ea2-80f823c3c745",
+      "time": "2026-07-27 12:41:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SoftBank $40bn OpenAI bridge loan adds 21 lenders】SoftBank Group's $40 billion bridge loan to fund its OpenAI investment has attracted 21 new lenders in a wider syndication, sources said. The new lenders took about $7 billion of the facility; First Abu Dhabi Bank, GIC and Standard Chartered each subscribed close to $1 billion. The remainder was allocated to banks in Europe, Japan and Taiwan. Around $33 billion of the bridge remains held by underwriters and senior lenders but could be further syndicated."
+    },
+    {
+      "id": "mkt:019fa1e0-a976-7aab-8ea2-7ecb222ab805",
+      "time": "2026-07-27 12:41:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "People familiar said SoftBank Group's $40 billion bridge loan to fund its investment in OpenAI has drawn 21 additional lenders as the deal moves into a broader syndicated financing phase."
+    },
+    {
+      "id": "5009334",
+      "time": "2026-07-27 12:41:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信維通訊：公司是國內衛星客戶的射頻與聯結器配套方，已參與多個星網相關專案】信維通訊7月27日在互動平臺表示，公司是國內衛星客戶的射頻與聯結器配套方，已參與多個星網相關專案，供應包括相控陣天線、高頻高速聯結器等產品及解決方案。"
+    },
+    {
+      "id": "5009333",
+      "time": "2026-07-27 12:41:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：中際旭創據悉計劃將香港上市價格定為每股980港元。"
+    },
+    {
+      "id": "mkt:019fa1df-d8ad-7aab-8ea2-772db5e04493",
+      "time": "2026-07-27 12:40:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran intercepts six vessels attempting to transit Strait of Hormuz】An Iranian official said six vessels switched off navigation and positioning systems in the early hours of July 27 local time and, the official alleged, attempted an illegal transit of dangerous waters south of the Strait of Hormuz under U.S. instigation. One vessel suffered an accident; the remaining vessels were returned to the Persian Gulf under Iranian control."
+    },
+    {
+      "id": "mkt:019fa1df-952f-7aab-8ea2-6841e4e976ae",
+      "time": "2026-07-27 12:40:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK"
+      ],
+      "text": "【Tencent WorkBuddy listed on HarmonyOS PC app store】WorkBuddy is now listed on the HarmonyOS PC app store, becoming the platform's first desktop office AI assistant."
+    },
+    {
+      "id": "5009332",
+      "time": "2026-07-27 12:39:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊WorkBuddy正式上架鴻蒙電腦應用市場】7月27日，據騰訊雲訊息，騰訊WorkBuddy正式上架鴻蒙電腦應用市場，成為鴻蒙平臺首個桌面辦公智慧體。"
+    },
+    {
+      "id": "mkt:019fa1de-4d16-7aab-8ea2-67e412d76957",
+      "time": "2026-07-27 12:38:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian media Fars News cited sources saying that early today six vessels switched off their navigation systems and attempted to transit an illegal southern route through the Strait of Hormuz; Iranian forces intercepted and returned them to the Persian Gulf, and one vessel was involved in an accident."
+    },
     {
       "id": "5009331",
       "time": "2026-07-27 12:37:21",
@@ -164125,29 +164210,6 @@
         "其他"
       ],
       "text": "【德國土安全部隊擬擴充至逾萬人】德國聯邦國防軍國土安全部隊指揮官表示，該部隊將在2035年以前完成擴容，從當前的6500人擴增至逾1萬人。德國土安全部隊指揮官安德烈亞斯·亨納少將19日告訴德國媒體，該部隊目前人員規模具備初始作戰能力，能在衝突最初階段保證基礎設施安全，但應對“曠日持久的衝突”則人手不足，因此需要顯著增強兵力。"
-    },
-    {
-      "id": "4996963",
-      "time": "2026-07-20 12:42:23",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【花旗下調韓國並上調中國股票評級 因預計新興市場漲勢範圍擴大】花旗在新興市場資產配置中下調韓國股票評級，同時上調中國股票評級，理由是韓國市場交易動盪，而隨著今年由少數人工智慧贏家主導的漲勢有望向更廣泛板塊擴散，中國市場可能從中受益。David Groman等花旗策略師在報告中寫道，“如果宏觀環境繼續保持有利，包括地緣政治風險緩和，則存在範圍擴大的空間。”花旗將韓國股市評級從“高配”下調至“戰術性中性”。與此同時，花旗將中國股市評級上調至“高配”，並將墨西哥市場評級上調至“中性”，認為是新興市場中潛在的漲勢範圍擴大標的。"
-    },
-    {
-      "id": "mkt:019f7dd2-3f82-7aab-8e01-931b248f7436",
-      "time": "2026-07-20 12:39:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "【AI-driven leveraged bets reverse; Korean retail sustains heavy losses】Retail investors who placed AI-driven leveraged bets via single-stock ETFs linked to Samsung Electronics and SK Hynix have incurred heavy losses after a sharp market reversal. KB Financial Group data show domestic retail net purchases of KRW14 trillion (about $9.4bn) since the May 27 launch of single-stock leveraged ETFs, versus roughly KRW2 trillion of net buying by foreigners. LSEG data show the KODEX 2x SK Hynix leveraged ETF is down about 70% from its June peak and roughly 50% since launch, underscoring downside risk from concentrated, leveraged exposure to AI-related chip names."
     }
   ]
 }

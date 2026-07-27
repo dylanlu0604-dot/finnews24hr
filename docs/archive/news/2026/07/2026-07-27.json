@@ -1,7 +1,92 @@
 {
   "date": "2026-07-27",
-  "count": 931,
+  "count": 940,
   "items": [
+    {
+      "id": "mkt:019fa1e1-3e20-7aab-8ea2-8ff41d3b8172",
+      "time": "2026-07-27 12:42:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Xinwei Communication said it is the RF and connector supplier for domestic satellite customers and has participated in multiple satellite-network projects, supplying phased-array antennas, high-frequency/high-speed connectors and related solutions."
+    },
+    {
+      "id": "mkt:019fa1e0-ca13-7aab-8ea2-80f823c3c745",
+      "time": "2026-07-27 12:41:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SoftBank $40bn OpenAI bridge loan adds 21 lenders】SoftBank Group's $40 billion bridge loan to fund its OpenAI investment has attracted 21 new lenders in a wider syndication, sources said. The new lenders took about $7 billion of the facility; First Abu Dhabi Bank, GIC and Standard Chartered each subscribed close to $1 billion. The remainder was allocated to banks in Europe, Japan and Taiwan. Around $33 billion of the bridge remains held by underwriters and senior lenders but could be further syndicated."
+    },
+    {
+      "id": "mkt:019fa1e0-a976-7aab-8ea2-7ecb222ab805",
+      "time": "2026-07-27 12:41:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "People familiar said SoftBank Group's $40 billion bridge loan to fund its investment in OpenAI has drawn 21 additional lenders as the deal moves into a broader syndicated financing phase."
+    },
+    {
+      "id": "5009334",
+      "time": "2026-07-27 12:41:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信維通訊：公司是國內衛星客戶的射頻與聯結器配套方，已參與多個星網相關專案】信維通訊7月27日在互動平臺表示，公司是國內衛星客戶的射頻與聯結器配套方，已參與多個星網相關專案，供應包括相控陣天線、高頻高速聯結器等產品及解決方案。"
+    },
+    {
+      "id": "5009333",
+      "time": "2026-07-27 12:41:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：中際旭創據悉計劃將香港上市價格定為每股980港元。"
+    },
+    {
+      "id": "mkt:019fa1df-d8ad-7aab-8ea2-772db5e04493",
+      "time": "2026-07-27 12:40:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran intercepts six vessels attempting to transit Strait of Hormuz】An Iranian official said six vessels switched off navigation and positioning systems in the early hours of July 27 local time and, the official alleged, attempted an illegal transit of dangerous waters south of the Strait of Hormuz under U.S. instigation. One vessel suffered an accident; the remaining vessels were returned to the Persian Gulf under Iranian control."
+    },
+    {
+      "id": "mkt:019fa1df-952f-7aab-8ea2-6841e4e976ae",
+      "time": "2026-07-27 12:40:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK"
+      ],
+      "text": "【Tencent WorkBuddy listed on HarmonyOS PC app store】WorkBuddy is now listed on the HarmonyOS PC app store, becoming the platform's first desktop office AI assistant."
+    },
+    {
+      "id": "5009332",
+      "time": "2026-07-27 12:39:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊WorkBuddy正式上架鴻蒙電腦應用市場】7月27日，據騰訊雲訊息，騰訊WorkBuddy正式上架鴻蒙電腦應用市場，成為鴻蒙平臺首個桌面辦公智慧體。"
+    },
+    {
+      "id": "mkt:019fa1de-4d16-7aab-8ea2-67e412d76957",
+      "time": "2026-07-27 12:38:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian media Fars News cited sources saying that early today six vessels switched off their navigation systems and attempted to transit an illegal southern route through the Strait of Hormuz; Iranian forces intercepted and returned them to the Persian Gulf, and one vessel was involved in an accident."
+    },
     {
       "id": "5009331",
       "time": "2026-07-27 12:37:21",
