@@ -1,7 +1,87 @@
 {
-  "updated": "2026-07-27 19:37:14",
-  "count": 17805,
+  "updated": "2026-07-27 19:41:12",
+  "count": 17802,
   "items": [
+    {
+      "id": "5010276",
+      "time": "2026-07-27 19:40:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普關於斯里蘭卡的觀點：儘管經濟增長放緩、經常賬戶赤字重現，仍預計財政指標將改善。"
+    },
+    {
+      "id": "5010275",
+      "time": "2026-07-27 19:39:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基抵達英國。"
+    },
+    {
+      "id": "5010274",
+      "time": "2026-07-27 19:39:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認斯里蘭卡“CCC+/C”評級；展望穩定。"
+    },
+    {
+      "id": "te:economy:570089",
+      "time": "2026-07-27 19:38:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Pakistan",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Pakistan Central Bank Holds Policy Rate at 11.5% — The State Bank of Pakistan left its benchmark policy rate unchanged at 11.5% at its July 27th, 2026 meeting, marking a second consecutive pause as policymakers cited an improving macroeconomic outlook. Headline inflation eased to 11.1% in June from 11.7% in May, reflecting lower global energy prices and favorable electricity tariff adjustments. Economic growth slowed to 4.0% in the first quarter of 2026, weighed by the Middle East conflict and the resulting rise in global energy prices. Looking ahead, the central bank expects stronger commodity-producing sectors to support services activity, with FY2027 GDP growth projected at 3.5%-4.5%. Inflation is forecast to gradually ease toward the upper end of the 5%-7% target range by June 2027. However, the outlook remains subject to uncertainty regarding geopolitical tensions and weather conditions, including El Niño effects, and potential fiscal slippages."
+    },
+    {
+      "id": "5010273",
+      "time": "2026-07-27 19:38:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：通脹存在進一步上行風險。"
+    },
+    {
+      "id": "mkt:019fa35e-1638-7aab-8ead-b38f0e96da5d",
+      "time": "2026-07-27 19:37:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin says inflation risks are rising."
+    },
+    {
+      "id": "5010272",
+      "time": "2026-07-27 19:37:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百通能源：向特定物件發行股票獲中國證監會同意註冊批覆】百通能源公告，公司於近日收到中國證監會出具的《關於同意江西百通能源股份有限公司向特定物件發行股票註冊的批覆》，同意公司向特定物件發行股票的註冊申請，批覆自同意註冊之日起12個月內有效。"
+    },
+    {
+      "id": "mkt:019fa35d-b14f-7aab-8ead-afe3a76b7530",
+      "time": "2026-07-27 19:37:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "FTSE100"
+      ],
+      "text": "【Zelenskiy expects drone cooperation with UK, seeks UK-based UAV factory】Ukrainian President Zelenskiy said on the 27th he spoke by phone with new UK Prime Minister Burnham and expects to meet to discuss drone cooperation. He said Ukraine wants to build a large, new-technology UAV manufacturing plant in the UK and to share drone technology and combat experience with partners. Zelenskiy added Kyiv hopes to produce Britain’s Storm Shadow cruise missile or similar systems, and that the UK has sought Ukrainian drones; Kyiv is open to such exchanges."
+    },
+    {
+      "id": "5010271",
+      "time": "2026-07-27 19:36:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鋒龍股份：擬3000萬元-6000萬元回購股份用於員工激勵】鋒龍股份公告稱，公司第五屆董事會第三次會議審議透過回購股份方案，將用自有及自籌資金，透過深交所集中競價交易方式回購已發行社會公眾股，用於員工持股計劃或股權激勵。回購資金3000萬元-6000萬元，回購價不超97.02元/股，回購期限自董事會審議透過日起不超12個月。該事項已獲相關委員會透過。"
+    },
     {
       "id": "5010270",
       "time": "2026-07-27 19:36:25",
@@ -162995,118 +163075,6 @@
         "MKT News"
       ],
       "text": "Shanghai Stock Exchange shows Shanghai Niumai Medical Technology Co., Ltd.'s STAR Market IPO review status changed to 'inquiry'."
-    },
-    {
-      "id": "mkt:019f7f54-6dcb-7aab-8e0b-a951edc615f5",
-      "time": "2026-07-20 19:41:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Brent and WTI crude continued to slide; Brent fell below $85 a barrel, down more than 2% intraday. WTI dropped over $2 to $80.29 a barrel, down 2.5%."
-    },
-    {
-      "id": "te:markets:568234",
-      "time": "2026-07-20 19:40:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Inch Higher — Futures tracking US equity indices were higher on Monday after sharp losses last week, as the chip sector stabilized. Contracts for the S&P 500, Dow, and Nasdaq 100 were around 0.4% higher, with the latter having tested over two-month lows last session. Heavyweight tech stocks were mostly higher as markets continued to gauge whether AI hyperscalers are due to slow spending on AI infrastructure in the next quarters, which have been the source of guidance upgrades for booming chip-manufacturing sector. Alphabet is due to report their outlook on Wednesday, the latest bellwether for both chip and software development capital expenditure. Fuel and energy prices continued to increase amid escalated attacks between Iran and the US in the Middle East, erasing hopes of energy exports from the region. Still, yields held their pullback and remained below their recent peaks. Credit-sensitive bank holding companies remained higher from last week following strong earnings from the sector."
-    },
-    {
-      "id": "te:economy:568233",
-      "time": "2026-07-20 19:40:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Gilt Yields Ease as Markets Weigh Oil and Burnham’s Government — The UK 10-year gilt yield eased to 4.95%, although it remained close to a two-month high, as crude prices retreated on signs of renewed diplomatic efforts between the US and Iran. Even so, oil remained near one-month highs after the two countries exchanged retaliatory strikes, keeping inflation concerns elevated and reinforcing expectations that the Bank of England will maintain a tighter policy stance for longer. Meanwhile, Andy Burnham officially became the UK’s Prime Minister on Monday after accepting King Charles III’s invitation to form a government. Burnham, who stood unopposed in the Labour leadership contest following Keir Starmer’s resignation, is the UK’s seventh prime minister in the past decade and the second since Labour returned to power in 2024. Markets are now focused on Burnham’s choice of Chancellor. Reports that Shabana Mahmood is the leading candidate have reassured investors, easing concerns that the new government could pursue a more expansionary fiscal agenda."
-    },
-    {
-      "id": "4997941",
-      "time": "2026-07-20 19:39:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌2%，現報86.34美元/桶。"
-    },
-    {
-      "id": "4997940",
-      "time": "2026-07-20 19:39:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【無問芯穹：最佳化即利潤；全域協同訓練規模將超越10萬卡】無問芯穹聯合創始人、CEO夏立雪在2026世界人工智慧大會論壇指出，英偉達提出算力即收入，無問芯穹提出最佳化即利潤增長。針對算力地域離散分佈及異構利用難的痛點，無問芯穹打造跨域訓練系統，已覆蓋3.7萬P算力及16種主流晶片，未來將支援10萬卡以上規模。"
-    },
-    {
-      "id": "mkt:019f7f52-062c-7aab-8e0b-a29bed73c28c",
-      "time": "2026-07-20 19:38:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "NASA administrator said he hopes European partners will focus on projects that support US lunar missions."
-    },
-    {
-      "id": "mkt:019f7f51-f3bd-7aab-8e0b-995e2d2474df",
-      "time": "2026-07-20 19:38:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China, Thailand sign MoU to strengthen production and supply‑chain cooperation】China and Thailand signed a memorandum of understanding between MOFCOM and Thailand’s Ministry of Commerce to bolster production and supply‑chain economic cooperation. The MoU was signed in Beijing by MOFCOM minister Wang Wentao and Thailand’s deputy prime minister and commerce minister Suphajee, and witnessed by China’s Li and Thai prime minister Anutin. It commits both sides to regular meetings and information exchanges, support for relevant government bodies, local authorities and companies to deepen pragmatic cooperation, and to build a practical, efficient platform to safeguard supply‑chain security, resilience and smooth flows."
-    },
-    {
-      "id": "mkt:019f7f51-e449-7aab-8e0b-914d8569ba67",
-      "time": "2026-07-20 19:38:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NASA administrator said Artemis III remains on track for 2027 despite a Blue Origin launch-pad explosion."
-    },
-    {
-      "id": "4997939",
-      "time": "2026-07-20 19:38:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國宇航局局長表示：儘管藍色起源發生發射臺爆炸事故，美國航空航天局仍按計劃推進2027年阿爾忒彌斯三號任務。"
-    },
-    {
-      "id": "4997938",
-      "time": "2026-07-20 19:38:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國宇航局局長希望歐洲合作伙伴聚焦於助力美國登月任務的專案。"
-    },
-    {
-      "id": "4997937",
-      "time": "2026-07-20 19:37:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：祝賀親愛的安迪・伯納姆正式就任首相。期待與你攜手深化歐盟與英國夥伴關係，共同守護歐洲大陸安全，讓英吉利海峽兩岸民眾共享繁榮。"
-    },
-    {
-      "id": "4997936",
-      "time": "2026-07-20 19:37:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宇順電子：中恩雲資訊簽署7.31億元算力服務合同】 宇順電子公告，全資子公司中恩雲資訊與客戶簽署了《算力基礎計算伺服器租賃協議》，合同總金額為7.31億元，期限為60個月。該合同佔公司最近一個會計年度經審計主營業務收入50%以上，且絕對金額超過5億元。合同履行期限較長，收入將分期確認，對公司各年度業績的影響存在不確定性。"
     }
   ]
 }
