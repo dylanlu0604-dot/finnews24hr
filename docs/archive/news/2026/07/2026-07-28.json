@@ -1,7 +1,91 @@
 {
   "date": "2026-07-28",
-  "count": 283,
+  "count": 292,
   "items": [
+    {
+      "id": "5010828",
+      "time": "2026-07-28 04:12:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國PJM區域輸電組織將於9月啟動應急電力容量拍賣，本次拍賣產生的電力擴容成本將由資料中心企業承擔。"
+    },
+    {
+      "id": "te:markets:570178",
+      "time": "2026-07-28 04:11:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Welltower earnings below expectations at 0.61 USD — Welltower (WELL) released earnings per share at 0.61 USD, compared to market expectations of 0.66 USD."
+    },
+    {
+      "id": "5010827",
+      "time": "2026-07-28 04:11:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "葉門候任外長：胡塞武裝正效仿伊朗模式掌控國際航運。"
+    },
+    {
+      "id": "te:markets:570176",
+      "time": "2026-07-28 04:11:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Mixed as Chipmakers Extend Selloff — US stock indices closed mixed on Monday as chipmakers extended their selloff ahead of this week's Fed decision and a busy slate of economic data and corporate earnings. The S&P 500 ended little changed, the Nasdaq 100 lost 0.3%, while the Dow gained 263 points. Nvidia fell 5% after announcing a $500 billion AI memory chip supply agreement with SK Hynix. Separately, the company guaranteed $250 billion for OpenAI to lease computing capacity from a major data center project, reviving concerns that circular AI financing deals could unravel if hyperscalers curb capital spending. Micron (-2.2%), AMD (-5.2%), Intel (-0.7%), and Sandisk (-11%) also declined. Meanwhile, easing concerns over tight financial conditions supported the broader market. The US and Iran paused strikes over the weekend, sending oil prices and Treasury yields lower, fading expectations of a Fed rate hike this week. Apple (+1.2%), Meta (-0.2%), Amazon (-0.3%), and Microsoft (+1.9%) traded mixed ahead of earnings releases."
+    },
+    {
+      "id": "mkt:019fa533-32c4-7aab-8eb7-0bb89da8769a",
+      "time": "2026-07-28 04:10:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters/Ipsos poll shows US President Trump's approval rating rose to 37% from 34%."
+    },
+    {
+      "id": "mkt:019fa533-17ca-7aab-8eb7-009ab0f241d5",
+      "time": "2026-07-28 04:10:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters/Ipsos poll shows 69% of Americans say President Trump did not clearly explain the objectives of U.S. military involvement in Iran."
+    },
+    {
+      "id": "mkt:019fa532-b596-7aab-8eb6-fd6fe374d485",
+      "time": "2026-07-28 04:09:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Refinitiv/Ipsos poll: only 33% of Americans support a US war with Iran, the lowest level since the conflict began."
+    },
+    {
+      "id": "5010826",
+      "time": "2026-07-28 04:09:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社與益普索聯合民調顯示：69%的美國人認為，特朗普並未明確說明美國軍事介入伊朗事務的目標。"
+    },
+    {
+      "id": "5010825",
+      "time": "2026-07-28 04:09:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社與益普索聯合民調顯示：特朗普總統支援率從34%微升至37%。"
+    },
     {
       "id": "5010824",
       "time": "2026-07-28 04:09:37",
