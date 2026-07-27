@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-27 12:47:00",
-  "count": 17920,
+  "updated": "2026-07-27 12:50:55",
+  "count": 17919,
   "items": [
+    {
+      "id": "5009340",
+      "time": "2026-07-27 12:49:38",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【油價走低，印度股市六日來首次上漲】早盤印度股市走高，終結連續五日下跌走勢，油價下跌提振全亞洲市場投資情緒。印度國家證券交易所Nifty50指數上漲0.6%，報23917.60點；中小盤股指漲幅均超1%。受美國暫緩對伊朗打擊行動影響，亞洲周邊股市普漲，印度本地股指同步走強。傑富瑞策略分析師在研報中表示，市場對AI板塊行情產生分歧，但印度經濟、企業財報資料持續超預期，全球外資對印度股票態度轉好。印孚瑟斯（Infosys）漲幅達3.3%，為Nifty50指數最大上漲貢獻個股。成分股50只中有42只收漲，8只下跌。"
+    },
+    {
+      "id": "mkt:019fa1e7-3992-7aab-8ea2-a6e949b2d89c",
+      "time": "2026-07-27 12:48:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "002074.SZ",
+        "Impact bullish"
+      ],
+      "text": "【Sinomach, Gotion High‑Tech hold talks】On July 25, Sinomach deputy general manager Fan Zhichao and Sinomach Engineering Group/China CAMC Engineering chairman Wang Bo visited Gotion High‑Tech in Hefei and met Gotion chairman Li Zhen. The parties held in‑depth talks on new‑energy industry‑chain coordination, joint overseas market expansion, and collaborative R&D on high‑end equipment technology."
+    },
+    {
+      "id": "5009339",
+      "time": "2026-07-27 12:47:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國機集團與國軒高科座談交流】據國機工程集團訊息，7月25日，國機集團副總經理範志超，國機工程集團、中工國際董事長王博，赴合肥國軒高科走訪對接，與國軒高科董事長李縝舉行座談交流。雙方圍繞新能源產業鏈協同、海外市場聯合開拓、高階裝備技術攻關等領域開展深度對接洽談。"
+    },
+    {
+      "id": "5009338",
+      "time": "2026-07-27 12:47:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方甄選在合肥設立新公司】企查查APP顯示，近日，東方甄選（合肥）網路科技有限公司成立，法定代表人為張健，註冊資本為800萬元，經營範圍包含組織文化藝術交流活動、網路文化經營、演出經紀、日用品銷售、日用百貨銷售、食品網際網路銷售等，由東方甄選關聯的東方優選（北京）科技有限公司全資持股，股權穿透顯示，公司實際控制人為俞敏洪。"
+    },
     {
       "id": "5009337",
       "time": "2026-07-27 12:44:17",
@@ -164159,51 +164197,6 @@
         "DXY"
       ],
       "text": "Iran's Mehr news agency reports an explosion near a Bahraini naval support base."
-    },
-    {
-      "id": "4996972",
-      "time": "2026-07-20 12:50:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京五預警生效中】受雷雨影響，預計7月20日17時至23時，我市大部分地區有7級左右短時大風，其中，延慶、昌平、門頭溝、房山、懷柔、順義、平谷等區局地陣風可達8級以上，請注意防範。 至此，北京目前“五警”生效中，分別是雷電黃色預警、暴雨藍色預警、大風藍色預警，以及地質災害藍色預警和山洪災害風險藍色預警。 市氣象臺首席預報員雷蕾向記者介紹，受東移高空槽影響，20日白天至前半夜本市有雷陣雨，降雨具有間歇性，上午至午後以分散性降雨為主，城區明顯降雨時段在傍晚至前半夜。雨量分佈不均，全市平均中雨量級，延慶、懷柔、密雲、平谷、順義、昌平、門頭溝、房山等區局地可達暴雨，最大小時雨強30—50毫米，並伴有7—8級短時陣風和冰雹。（北京日報）"
-    },
-    {
-      "id": "4996971",
-      "time": "2026-07-20 12:49:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達國際伊斯蘭銀行：與Visa攜手合作，共同推進支付解決方案創新。"
-    },
-    {
-      "id": "4996970",
-      "time": "2026-07-20 12:48:34",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【德國商業銀行：在經濟穩健增長、通脹可控的情況下，馬來西亞央行料將按兵不動】德國商業銀行研究部的分析師在一份報告中表示，預計馬來西亞央行將在今年剩餘時間裡將其政策利率維持在2.75%不變。馬來西亞上半年經濟同比增長5.6%，超過了馬來西亞央行對全年4%至5%的預測。6月份消費者物價同比上漲1.9%，而5月份的漲幅為2.0%。考慮到溫和的通脹環境和充滿韌性的增長勢頭，德國商業銀行研究部的分析師認為，該央行幾乎沒有必要調整其貨幣政策。他們表示：“中性立場也為馬來西亞央行保留了政策空間，以應對經濟增長或通脹面臨的雙向風險。”"
-    },
-    {
-      "id": "te:markets:568095",
-      "time": "2026-07-20 12:48:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Rebounds Amid Oil Strength, Firm Exports — Malaysian palm oil futures traded above MYR 4,600 per tonne, recovering from the prior weakness as stronger edible oil prices on the Dalian and Chicago exchanges lifted sentiment. Higher crude oil prices also provided support after intensified attacks in the Middle East disrupted energy shipments through the Strait of Hormuz, boosting the appeal of biodiesel feedstocks. Export demand remained solid, with cargo surveyors estimating palm oil shipments during July 1-15 increased by between 4% and 12.4% from the same period in June. Supply concerns also persisted after the U.S. Climate Prediction Center said El Niño had strengthened over the past month and is expected to intensify through 2026 before lasting into early 2027, raising risks of lower palm oil production in the coming months. However, gains were capped by weaker demand from top buyer India, where palm oil imports fell to a 14-month low in June as the narrower price discount against competing edible oils discouraged purchases."
-    },
-    {
-      "id": "4996969",
-      "time": "2026-07-20 12:48:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界盃獎金出爐 冠軍西班牙獲5000萬美元】北京時間7月20日，2026美加墨世界盃決賽落幕，西班牙加時賽1：0戰勝阿根廷，時隔16年第二次奪得世界盃冠軍。國際足聯（FIFA）公佈的參賽球隊將獲得的獎金數額顯示：冠軍西班牙隊可獲5000萬美元獎金；亞軍阿根廷隊可獲3300萬美元賽事獎金；第三名英格蘭隊可獲2900萬美元獎金；第四名法國隊可獲2700萬美元獎金。"
     }
   ]
 }
