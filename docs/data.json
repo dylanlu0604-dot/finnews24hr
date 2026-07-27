@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-28 03:46:58",
-  "count": 17823,
+  "updated": "2026-07-28 03:50:53",
+  "count": 17825,
   "items": [
+    {
+      "id": "5010814",
+      "time": "2026-07-28 03:48:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國延長針對政府公職人員及其家屬前往約旦河西岸的出行限制。"
+    },
+    {
+      "id": "5010813",
+      "time": "2026-07-28 03:48:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：很多共和黨人都很和善，我們本就是溫和的政黨。 但說實話，我們不該太過退讓。"
+    },
+    {
+      "id": "mkt:019fa51e-2a15-7aab-8eb6-acd5f2c2b283",
+      "time": "2026-07-28 03:47:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian media outlet FarsNews, citing Iraqi sources, reported a US drone was shot down in Anbar province in western Iraq."
+    },
     {
       "id": "5010812",
       "time": "2026-07-28 03:46:20",
@@ -163404,15 +163432,6 @@
         "Industrial Metals"
       ],
       "text": "White House says incentive program will require companies to submit industry reshoring plans; once approved, firms may import primary aluminum up to allocated quotas and pay a reduced tariff equal to 50% of the original Section 232 rate."
-    },
-    {
-      "id": "4998445",
-      "time": "2026-07-21 03:47:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國白宮：特朗普簽署公告，授權商務部長設立激勵計劃，扶持投資鋁冶煉廠的企業。"
     }
   ]
 }
