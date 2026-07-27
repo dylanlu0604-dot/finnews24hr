@@ -1,7 +1,122 @@
 {
   "date": "2026-07-27",
-  "count": 2034,
+  "count": 2047,
   "items": [
+    {
+      "id": "5010250",
+      "time": "2026-07-27 19:28:16",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "D-Wave量子公司股價盤前上漲9.1%，此前美國電話電報公司（AT&T）擴大了與該公司的量子計算合作關係。"
+    },
+    {
+      "id": "mkt:019fa355-0c76-7aab-8ead-6dd6a7b96f7f",
+      "time": "2026-07-27 19:28:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State Council Information Office will hold a press briefing at 10:00 Beijing time on 29 July 2026; National Intellectual Property Administration deputy director and spokesperson Rui Wenbiao will outline intellectual property protection and utilization measures for the 15th Five-Year Plan and answer questions."
+    },
+    {
+      "id": "5010249",
+      "time": "2026-07-27 19:27:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "西班牙山黃金公司在可行性研究鑽探專案中擴大礦化範圍，見礦厚度達252.3米，金品位為每噸0.82克，其中包含一段厚度93.5米、金品位每噸1.32克的礦化體。"
+    },
+    {
+      "id": "5010248",
+      "time": "2026-07-27 19:27:12",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【預告】國務院新聞辦公室將於2026年7月29日（星期三）上午10時舉行“開局起步‘十五五’”系列主題新聞釋出會，請國家智慧財產權局新聞發言人、副局長芮文彪介紹“十五五”時期智慧財產權保護和運用有關情況，並答記者問。"
+    },
+    {
+      "id": "5010247",
+      "time": "2026-07-27 19:26:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【民爆光電：披露發行股份購買資產草案修訂說明】民爆光電公告稱，公司擬發行股份向廈門麥達智慧科技有限公司購買廈門廈芝精密科技有限公司49%股權。2026年7月27日，公司第三屆董事會第十六次會議審議透過草案修訂稿。相較7月10日披露的草案，修訂稿主要在釋義、重大事項提示、交易對方基本情況等多個章節進行了補充和更新，包括增加釋義、更新審批程式、補充財務指標等，對交易方案無影響。"
+    },
+    {
+      "id": "5010246",
+      "time": "2026-07-27 19:26:22",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "巴西央行調查：經濟學家預計2026年末雷亞爾兌美元匯率將為5.20雷亞爾兌1美元，與此前預期持平。"
+    },
+    {
+      "id": "5010245",
+      "time": "2026-07-27 19:26:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行調查：經濟學家預計2026年巴西國內生產總值增長1.99%，與前次預期持平。"
+    },
+    {
+      "id": "5010244",
+      "time": "2026-07-27 19:26:02",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行調查：經濟學家預計2026年底 Selic 基準利率為14.00%，與前次預期一致。"
+    },
+    {
+      "id": "5010243",
+      "time": "2026-07-27 19:25:53",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "巴西央行調查：經濟學家預計2026年巴西IPCA通脹率年率將達5.12%，此前預期為5.15%。"
+    },
+    {
+      "id": "5010242",
+      "time": "2026-07-27 19:25:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行調查：經濟學家預計2027年IPCA年度通脹率將達4.22%，此前預期為4.20%。"
+    },
+    {
+      "id": "te:markets:570088",
+      "time": "2026-07-27 19:24:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Wheat Eases from Over 2-Year High — Wheat futures fell below $6.70 per bushel, extending losses from the more than two-year high of $7.06 reached on July 22, as a sharp decline in crude oil prices weighed on agricultural markets. The US and Iran paused military strikes over the weekend following two weeks of hostilities, raising hopes that renewed diplomatic efforts could ease tensions and allow shipping through the Strait of Hormuz to normalize. Despite the pullback, supply risks remain elevated. Heatwaves across Europe and continued attacks between Russia and Ukraine have intensified worries over crop production and exports. Russian strikes on grain infrastructure and ports prompted Allseeds to suspend operations in Ukraine's Odesa region. Still, discussions on mechanisms to protect Black Sea shipping, including coordinated vessel notifications and temporary ceasefire windows, have raised hopes that grain exports can continue with limited disruption."
+    },
+    {
+      "id": "mkt:019fa351-bf5f-7aab-8ead-660eebb17beb",
+      "time": "2026-07-27 19:24:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bright Smart Securities accepts SFC HKD2.8 million fine; says remediation completed】The SFC has censured and fined Bright Smart Securities (Hong Kong) Limited HKD2.8 million for failing to implement adequate and effective internal controls to monitor and detect client wash trading. The firm said it accepts the penalty, completed remediation in September 2025, and that its internal-control technology now meets regulatory requirements. Bright Smart added the matter did not involve cybersecurity issues and did not affect client trading or funds."
+    },
+    {
+      "id": "5010241",
+      "time": "2026-07-27 19:24:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通合科技：股東任獻偉減持計劃期限屆滿 累計減持89.51萬股】通合科技公告稱，股東任獻偉女士減持計劃期限（2026年4月27日至7月26日）已屆滿。其於2026年5月29日至6月22日，透過集中競價交易減持895,100股，佔總股本0.5038%，減持均價40元/股。減持前持股6,302,800股，佔比3.59%；減持後持股5,407,700股，佔比3.04%。本次減持未違規，不會導致公司控制權變更。"
+    },
     {
       "id": "mkt:019fa351-2389-7aab-8ead-5d7ea5deff35",
       "time": "2026-07-27 19:23:51",

@@ -1,7 +1,122 @@
 {
-  "updated": "2026-07-27 19:25:07",
-  "count": 17831,
+  "updated": "2026-07-27 19:29:15",
+  "count": 17822,
   "items": [
+    {
+      "id": "5010250",
+      "time": "2026-07-27 19:28:16",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "D-Wave量子公司股價盤前上漲9.1%，此前美國電話電報公司（AT&T）擴大了與該公司的量子計算合作關係。"
+    },
+    {
+      "id": "mkt:019fa355-0c76-7aab-8ead-6dd6a7b96f7f",
+      "time": "2026-07-27 19:28:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State Council Information Office will hold a press briefing at 10:00 Beijing time on 29 July 2026; National Intellectual Property Administration deputy director and spokesperson Rui Wenbiao will outline intellectual property protection and utilization measures for the 15th Five-Year Plan and answer questions."
+    },
+    {
+      "id": "5010249",
+      "time": "2026-07-27 19:27:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "西班牙山黃金公司在可行性研究鑽探專案中擴大礦化範圍，見礦厚度達252.3米，金品位為每噸0.82克，其中包含一段厚度93.5米、金品位每噸1.32克的礦化體。"
+    },
+    {
+      "id": "5010248",
+      "time": "2026-07-27 19:27:12",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【預告】國務院新聞辦公室將於2026年7月29日（星期三）上午10時舉行“開局起步‘十五五’”系列主題新聞釋出會，請國家智慧財產權局新聞發言人、副局長芮文彪介紹“十五五”時期智慧財產權保護和運用有關情況，並答記者問。"
+    },
+    {
+      "id": "5010247",
+      "time": "2026-07-27 19:26:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【民爆光電：披露發行股份購買資產草案修訂說明】民爆光電公告稱，公司擬發行股份向廈門麥達智慧科技有限公司購買廈門廈芝精密科技有限公司49%股權。2026年7月27日，公司第三屆董事會第十六次會議審議透過草案修訂稿。相較7月10日披露的草案，修訂稿主要在釋義、重大事項提示、交易對方基本情況等多個章節進行了補充和更新，包括增加釋義、更新審批程式、補充財務指標等，對交易方案無影響。"
+    },
+    {
+      "id": "5010246",
+      "time": "2026-07-27 19:26:22",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "巴西央行調查：經濟學家預計2026年末雷亞爾兌美元匯率將為5.20雷亞爾兌1美元，與此前預期持平。"
+    },
+    {
+      "id": "5010245",
+      "time": "2026-07-27 19:26:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行調查：經濟學家預計2026年巴西國內生產總值增長1.99%，與前次預期持平。"
+    },
+    {
+      "id": "5010244",
+      "time": "2026-07-27 19:26:02",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行調查：經濟學家預計2026年底 Selic 基準利率為14.00%，與前次預期一致。"
+    },
+    {
+      "id": "5010243",
+      "time": "2026-07-27 19:25:53",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "巴西央行調查：經濟學家預計2026年巴西IPCA通脹率年率將達5.12%，此前預期為5.15%。"
+    },
+    {
+      "id": "5010242",
+      "time": "2026-07-27 19:25:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行調查：經濟學家預計2027年IPCA年度通脹率將達4.22%，此前預期為4.20%。"
+    },
+    {
+      "id": "te:markets:570088",
+      "time": "2026-07-27 19:24:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Wheat Eases from Over 2-Year High — Wheat futures fell below $6.70 per bushel, extending losses from the more than two-year high of $7.06 reached on July 22, as a sharp decline in crude oil prices weighed on agricultural markets. The US and Iran paused military strikes over the weekend following two weeks of hostilities, raising hopes that renewed diplomatic efforts could ease tensions and allow shipping through the Strait of Hormuz to normalize. Despite the pullback, supply risks remain elevated. Heatwaves across Europe and continued attacks between Russia and Ukraine have intensified worries over crop production and exports. Russian strikes on grain infrastructure and ports prompted Allseeds to suspend operations in Ukraine's Odesa region. Still, discussions on mechanisms to protect Black Sea shipping, including coordinated vessel notifications and temporary ceasefire windows, have raised hopes that grain exports can continue with limited disruption."
+    },
+    {
+      "id": "mkt:019fa351-bf5f-7aab-8ead-660eebb17beb",
+      "time": "2026-07-27 19:24:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bright Smart Securities accepts SFC HKD2.8 million fine; says remediation completed】The SFC has censured and fined Bright Smart Securities (Hong Kong) Limited HKD2.8 million for failing to implement adequate and effective internal controls to monitor and detect client wash trading. The firm said it accepts the penalty, completed remediation in September 2025, and that its internal-control technology now meets regulatory requirements. Bright Smart added the matter did not involve cybersecurity issues and did not affect client trading or funds."
+    },
+    {
+      "id": "5010241",
+      "time": "2026-07-27 19:24:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通合科技：股東任獻偉減持計劃期限屆滿 累計減持89.51萬股】通合科技公告稱，股東任獻偉女士減持計劃期限（2026年4月27日至7月26日）已屆滿。其於2026年5月29日至6月22日，透過集中競價交易減持895,100股，佔總股本0.5038%，減持均價40元/股。減持前持股6,302,800股，佔比3.59%；減持後持股5,407,700股，佔比3.04%。本次減持未違規，不會導致公司控制權變更。"
+    },
     {
       "id": "mkt:019fa351-2389-7aab-8ead-5d7ea5deff35",
       "time": "2026-07-27 19:23:51",
@@ -163166,192 +163281,6 @@
         "公司"
       ],
       "text": "【工信部稱讚深企創新成果“打破技術瓶頸”】今天上午，國務院新聞辦公室舉辦新聞釋出會，工業和資訊化部相關負責人介紹今年上半年工業和資訊化發展情況。其中，深圳比亞迪公司在全球首推的第二代刀片電池、兆瓦閃充系統，被點贊“打破了技術瓶頸”。 （深圳釋出）"
-    },
-    {
-      "id": "mkt:019f7f49-5c62-7aab-8e0b-40cc57ff1b5a",
-      "time": "2026-07-20 19:29:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's central bank survey: economists expect the SELIC at 14.00% at end-2026 and 12.00% at end-2027, unchanged from prior estimates."
-    },
-    {
-      "id": "4997901",
-      "time": "2026-07-20 19:28:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蒙璽投資：公司及合夥人團隊出資3000萬元申購旗下指增產品】7月20日，百億量化私募蒙璽投資公告稱，基於對我國金融市場長期穩健發展的堅定信心，以及對公司投研能力的認可，決定由公司及合夥人團隊合計出資3000萬元於近期申購公司旗下指數增強類私募證券基金產品。這是繼玄信資產自購1000萬元、平方和投資自購1億元和靈均投資自購2億元后，又一家宣佈自購的量化私募。"
-    },
-    {
-      "id": "mkt:019f7f48-e681-7aab-8e0b-3e3a72b0680d",
-      "time": "2026-07-20 19:28:31",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Han's Laser Technology: 1H2026 net profit 1.286 bln yuan, up 163.47% YoY】Han's Laser Technology reported 1H2026 revenue of 13.413 bln yuan, up 76.19% YoY, and net profit of 1.286 bln yuan, up 163.47% YoY. Orders and revenue rose sharply YoY across PCB specialty equipment, consumer electronics equipment, lithium battery and semiconductor equipment, and general industrial laser processing equipment."
-    },
-    {
-      "id": "4997900",
-      "time": "2026-07-20 19:28:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“阿克蘇—寧波舟山港”海鐵聯運出口班列首發】新疆日報訊息，7月20日9時30分許，在阿克蘇紡織工業城（開發區）紡織物流園舉行的“阿克蘇—寧波舟山港”海鐵聯運出口班列首發儀式上，隨著一聲長笛鳴響，一列由47個集裝箱組成的出口班列沿鐵路線向東駛去。本次班列是阿克蘇地區首趟直達寧波舟山港的出口班列，鐵路運距超4900公里，標誌著阿克蘇地區成功打通南疆向東出海通道，直達全球第一大港寧波舟山港，阿克蘇從此邁向東西通、陸海連的對外開放新階段。"
-    },
-    {
-      "id": "mkt:019f7f48-b64c-7aab-8e0b-335042135e82",
-      "time": "2026-07-20 19:28:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BRAZIL CENTRAL BANK survey: economists now expect 2026 annual IPCA inflation at 5.15%, down from 5.16% previously; 2027 annual IPCA inflation expected at 4.20%, unchanged."
-    },
-    {
-      "id": "4997899",
-      "time": "2026-07-20 19:28:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【韋韜到自治區水利廳、自然資源廳、氣象局調研時強調 寧可十防九空不能萬一失防 堅決打贏防汛關鍵時期各場硬仗】7月20日，自治區主席韋韜到自治區水利廳、自然資源廳、氣象局調研督導防汛度汛、水庫隱患排查、地質災害防治等工作，強調要深入學習貫徹習近平總書記對防汛救災工作的重要指示精神，堅持人民至上、生命至上，牢固樹立底線思維、極限思維，全面壓實各方責任，細化各項防禦措施，寧可十防九空，也不能萬一失防，堅決打贏防汛關鍵時期各場硬仗。（廣西釋出）"
-    },
-    {
-      "id": "4997898",
-      "time": "2026-07-20 19:27:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國總理祝賀伯納姆出任英國首相，並邀請他儘早訪問柏林。"
-    },
-    {
-      "id": "mkt:019f7f48-1e54-7aab-8e0b-2962a4650bea",
-      "time": "2026-07-20 19:27:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Central Bank of Brazil survey: Brazilian economists expect BRL/USD at 5.20 at end-2026 and 5.28 at end-2027, unchanged from previous estimates."
-    },
-    {
-      "id": "4997897",
-      "time": "2026-07-20 19:27:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【大族鐳射：2026年上半年營收134.13億元 同比增長76.19%】大族鐳射公告稱，2026年半年度營業總收入134.13億元，同比增長76.19%；歸屬於上市公司股東的淨利潤12.86億元，同比增長163.47%。報告期內，PCB、消費電子、鋰電等多個業務板塊訂單及營業收入均大幅增長，2026年半年度新簽訂單約160億元，同比增超100%。不過，公司持有的靈鴿科技股價下跌，公允價值變動收益為 -1.71億元；上半年匯兌損失約1.9億元。"
-    },
-    {
-      "id": "4997896",
-      "time": "2026-07-20 19:27:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【永和股份：擬以3000萬元-6000萬元回購公司股份】永和股份公告，擬以3000萬元-6000萬元回購公司股份，回購價格不超過38元/股。"
-    },
-    {
-      "id": "4997895",
-      "time": "2026-07-20 19:26:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【成果豐碩！世界人工智慧大會今天閉幕】2026世界人工智慧大會今天下午在上海落下帷幕。為期四天的大會取得豐碩成果。與會嘉賓表示，期待與中國深化合作，讓科技更好賦能各國發展。本次大會共吸引了1568位國內外頂尖專家參加，展品總數4486項，展商數量與展覽面積均較去年增長超三分之一。同時，大會期間還發布了一系列重磅成果：啟動“一網通辦·免申即享”創新型企業專項金融支援服務戰略合作，設立1.18萬億元創新企業意向性信貸支援額度；聚焦智慧體失控風險與應急管理等主題，釋出了多份人工智慧安全領域的重要報告和成果。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f7f47-6ca7-7aab-8e0b-259c2d0c295a",
-      "time": "2026-07-20 19:26:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil central bank survey: Brazilian economists expect GDP to grow 1.99% in 2026 and 1.65% in 2027, unchanged from prior forecasts."
-    },
-    {
-      "id": "4997894",
-      "time": "2026-07-20 19:26:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "空中客車集團的直升機計劃於2027年至2028年間交付。"
-    },
-    {
-      "id": "4997893",
-      "time": "2026-07-20 19:26:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新錦動力：控股子公司籤2800萬元燃氣輪機大修合同】新錦動力公告稱，近日，其控股子公司新錦化機與AMMK簽訂《工程採購協議》，為某型號15兆瓦燃氣輪機提供發動機及自動控制與調節系統的大修，合同總金額約2800萬元。工作履行期限至2028年3月31日，預計對2028年經營業績產生積極影響。不過，合同履行存在回款慢、政策及市場變化等風險。"
-    },
-    {
-      "id": "4997892",
-      "time": "2026-07-20 19:26:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "空中客車歐洲公司：直升機企業追加訂購8架空客H145直升機。"
-    },
-    {
-      "id": "mkt:019f7f46-f3b2-7aab-8e0b-1f0628c529dd",
-      "time": "2026-07-20 19:26:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Shanghai Stock Exchange said registration for Jiangsu Gaokai Precision Fluid Technology Co., Ltd.'s Sci‑Tech Innovation Board (STAR Market) IPO has taken effect."
-    },
-    {
-      "id": "4997891",
-      "time": "2026-07-20 19:26:22",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "巴西央行調查：經濟學家預計2026年底巴西雷亞爾兌美元匯率為5.20雷亞爾兌1美元，與前次預估持平。"
-    },
-    {
-      "id": "4997890",
-      "time": "2026-07-20 19:26:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "上交所：江蘇高凱精密流體技術股份有限公司科創板IPO註冊生效。"
-    },
-    {
-      "id": "4997889",
-      "time": "2026-07-20 19:26:08",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行調查：經濟學家預計2027年巴西GDP將增長1.65%，與此前預期一致。"
-    },
-    {
-      "id": "4997888",
-      "time": "2026-07-20 19:25:46",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行調查顯示，經濟學家預計2027年IPCA年通脹率將達4.20%，與前次預估持平。"
-    },
-    {
-      "id": "4997887",
-      "time": "2026-07-20 19:25:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新錦動力：控股子公司簽訂19.68億堅戈合同】新錦動力公告，控股子公司錦州新錦化機械製造有限公司與阿克託別石油機械成套有限責任公司簽訂了《工程採購協議》，新錦化機將為某型號15兆瓦燃氣輪機提供發動機及自動控制與調節系統的大修，合同總金額為19.68億堅戈（KZT）（人民幣約2,800萬元）。預計本合同將對公司2028年經營業績產生積極的影響。"
-    },
-    {
-      "id": "mkt:019f7f46-04f1-7aab-8e0b-1194305aafc9",
-      "time": "2026-07-20 19:25:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Ireland's prime minister Martin congratulated UK prime minister Andy Burnham on taking office and said he looks forward to working with him to strengthen bilateral partnership."
     }
   ]
 }
