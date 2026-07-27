@@ -1,7 +1,27 @@
 {
   "date": "2026-07-28",
-  "count": 352,
+  "count": 354,
   "items": [
+    {
+      "id": "mkt:019fa57c-612d-7aab-8eb7-77a6c324c06e",
+      "time": "2026-07-28 05:30:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【New York Post: Netanyahu to show Trump intelligence alleging Iran advancing 'Gaoshan' nuclear program】The New York Post reports Israeli Prime Minister Netanyahu is expected to provide U.S. officials intelligence alleging Iran is expanding nuclear facilities at 'Gaoshan' and is lying about wanting to continue peace talks. Netanyahu, who meets President Trump on Monday, is expected to make the Iran war and Iran's nuclear program central topics. Sources say Israel will also present evidence Tehran is rebuilding missile and drone programs damaged by repeated U.S. strikes; the intelligence is said to indicate Iran is not seriously considering giving up its nuclear ambitions or missile program in ceasefire negotiations with the U.S. Netanyahu will also brief Trump on progress maintaining ceasefires in Lebanon and Gaza."
+    },
+    {
+      "id": "5010872",
+      "time": "2026-07-28 05:28:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "嘉能可加拿大公司：將出售2150萬股奧西斯科金屬公司普通股，總對價為3430萬加元。"
+    },
     {
       "id": "5010871",
       "time": "2026-07-28 05:26:14",
