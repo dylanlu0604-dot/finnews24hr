@@ -1,7 +1,51 @@
 {
   "date": "2026-07-27",
-  "count": 905,
+  "count": 909,
   "items": [
+    {
+      "id": "5009317",
+      "time": "2026-07-27 12:17:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報告：阿里雲遊戲雲模型服務市場份額37%，位列第一】近日，國際資料公司（IDC）釋出《中國AI遊戲雲市場洞察，2025》報告，在“AI遊戲雲模型服務與AI應用”市場中，阿里雲以37%的市場份額位列第一。"
+    },
+    {
+      "id": "5009316",
+      "time": "2026-07-27 12:16:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大科學裝置建設全面提速 築牢科技強國根基】大科學裝置是推動科技創新、建設科技強國的核心利器。黨的十八大以來，我國大科學裝置從零散佈局到體系成形，陸續規劃建設六十餘座國家重大科技基礎設施，為取得基礎研究原創突破、實現高水平科技自立自強築牢了堅實根基。從使用過時資料開展天文研究到FAST實現射電天文的絕對領跑；從重離子實驗條件受限到強流重離子實驗裝置賦能前沿攻關；從微觀科研資源匱乏到多代光源搭建全域創新平臺。一座座國之重器的迭代躍升，正是我國科技創新從跟跑、並跑到領跑，實現跨越式發展的生動寫照。據統計，我國全社會研發經費投入已從2012年的1萬億元大幅提升到2025年的接近4萬億元，總量穩居世界第二。2012年至2025年，我國全球創新指數排名從第34位升至第10位，科技創新實現從“技術追隨”到“全球重要貢獻者”的重大跨越。（央視）"
+    },
+    {
+      "id": "mkt:019fa1c9-e4c7-7aab-8ea2-261d4891d630",
+      "time": "2026-07-27 12:16:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Xiaomi",
+        "Meituan",
+        "Hang Seng Index",
+        "Impact bullish",
+        "01810.HK",
+        "09961.HK"
+      ],
+      "text": "【Hong Kong midday: Hang Seng up 0.81%, reclaims 25,000】Hong Kong stocks opened higher and the Hang Seng reclaimed the 25,000 mark, hitting an intraday high of 25,206 (up as much as 243 points). At midday the Hang Seng was up 0.81% and the Hang Seng Tech index was up 1.69%, with market turnover HKD 111.23 bln. Sector winners included media & entertainment, travel, consumer electronics, new consumer, airlines and autos; road transport, semiconductors, oil & gas, optical communications and coal lagged. Notable movers: 00805.HK +22%, Xiaomi Group (01810.HK) +7.6%, 00100.HK +5%; 02513.HK, Trip.com Group (09961.HK) and Meituan (03690.HK) each rose over 3.5%."
+    },
+    {
+      "id": "mkt:019fa1c7-76c5-7aab-8ea2-1ef65b613150",
+      "time": "2026-07-27 12:13:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "【UK lenders tell FT Bank of England report ignores Wall Street capital edge】Several of Britain’s largest lenders told the Financial Times the Bank of England’s UK-US bank capital requirements comparison is flawed, saying it ignores a growing Wall Street advantage from large-scale digital/software investment. A recent study cited by banks finds US lenders gained an edge after deregulatory moves under the Trump administration, partly because regulators treat bank software investment differently. The lenders are lobbying the new UK government to relax post-2008 capital rules to spur growth and IT spending. City executives say the appointment earlier this month of former Barclays executive Katherine Braddick as head of the UK’s top banking regulator should increase their influence."
+    },
     {
       "id": "mkt:019fa1c6-c440-7aab-8ea2-1236e6b16153",
       "time": "2026-07-27 12:13:05",
