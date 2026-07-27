@@ -1,7 +1,67 @@
 {
   "date": "2026-07-28",
-  "count": 464,
+  "count": 470,
   "items": [
+    {
+      "id": "5010959",
+      "time": "2026-07-28 07:31:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤下跌1105點，報63945點。"
+    },
+    {
+      "id": "5010958",
+      "time": "2026-07-28 07:30:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基將會晤美參議院全體議員 對俄制裁案可望表決】兩名參議院助手錶示，烏克蘭總統澤連斯基週二晚間將在華盛頓會晤美國參議院全體100名議員。澤連斯基此次訪問華府是為了出席已故共和黨參議員林賽·格雷厄姆（Lindsey Graham）的葬禮。其中一位助手錶示，參議院預計最快也將於澤連斯基訪美期間開始就一項對俄羅斯實施制裁的法案進行表決。該法案原由格雷厄姆主導推動。在格雷厄姆本月猝逝之前，這項法案已在國會擱置約一年。 為了爭取更多支援，國會議員已將法案中的關稅稅率，從先前版本一體課徵500%，下調至100%。不過，法案也引發國會對於特朗普可能獲得新權力的擔憂。"
+    },
+    {
+      "id": "mkt:019fa5e8-cf18-7aab-8eb8-0a33d444a8fe",
+      "time": "2026-07-28 07:28:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【UK food inflation eases for sixth consecutive month】UK food inflation eased for a sixth consecutive month in July to 2.2% YoY from 2.4%, helped by World Cup-led promotions in snacks and alcohol, the British Retail Consortium said. Despite higher energy costs linked to Middle East tensions, overall domestic price pressures remained moderate: the shop price index fell to 0.9% YoY, a six-month low, dragged down by summer clothing and footwear clearance, while fresh food prices rose 3.1% YoY (June: 2.8%). Dickinson, chief executive of the British Retail Consortium, called July’s reading 'good news for households' but warned that labour costs, a packaging tax, geopolitical conflict and climate disruptions could push prices up in H2."
+    },
+    {
+      "id": "5010957",
+      "time": "2026-07-28 07:28:17",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【大型遊樂設施安全領域基礎性強制性國家標準公開徵求意見 】為全面築牢遊樂園和景區大型遊樂設施安全底線，規範大型遊樂設施設計、製造、安裝和使用全鏈條技術要求，市場監管總局組織修訂了《大型遊樂設施安全要求（徵求意見稿）》，現面向全社會公開徵集意見。 作為我國大型遊樂設施安全領域基礎性、強制性的國家標準，徵求意見稿汲取了近年來大型遊樂設施事故教訓，系統梳理了全國在用大型遊樂設施執行痛點，同步對標國際先進遊樂設施安全標準，適應行業新技術發展需求，制定符合我國國情的大型遊樂設施全生命週期基本安全要求。（人民日報）"
+    },
+    {
+      "id": "5010956",
+      "time": "2026-07-28 07:27:11",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中泰證券：自由現金流“耗竭”下的算力資本開支 全球AI週期是否見頂？】中泰證券釋出研究報告稱，就當前市場而言，“AI資本開支週期是否見頂”是市場博弈的核心。從產業趨勢來看，當前AI產業趨勢並未鬆動。近期調整的核心驅動是市場對AI資本開支可持續性的懷疑。空頭邏輯看似兩頭堵：若巨頭增加資本開支，則舉債稀釋股東權益;若減少開支，則意味著AI週期見頂。但這一邏輯的關鍵遺漏在於：舉債本身不是問題，投資是否有正收益才是。流動性風險或已階段性解除。往後看，長鑫科技上市前市場仍需維持一定熱度和成交規模，疊加槓桿資金已明顯去化，短期市場有望迎來一波反彈。一、科技內部優先關注國產半導體裝置、儲存和算力方向。長鑫上市後，市場或迎來一輪反彈，科創50板塊或為彈性最大方向;二、科技以外：電力裝置(出海外需邏輯)、有色(銅、黃金，油價底部確認後有色彈性開啟)以及創新藥均可適當關注。"
+    },
+    {
+      "id": "te:markets:570200",
+      "time": "2026-07-28 07:26:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Edges Lower as US-Iran Talks Resume — Brent fell to around $88 per barrel on Tuesday, marking a third consecutive session of losses after President Donald Trump said the US was engaged in \"good talks\" with Iran aimed at ending the Middle East conflict, fueling optimism that normal oil flows from the region could resume. Trump reportedly said he chose to suspend strikes on Iran to give negotiations another chance. The US quietly halted attacks on the Islamic Republic late Friday following nearly two weeks of fighting, while Tehran also ceased retaliatory strikes against US bases in neighboring countries. Meanwhile, Iranian and Omani negotiators met over the weekend in an effort to secure an agreement to restore shipping through the strategically important Strait of Hormuz. Elsewhere, supply conditions also improved as crude exports resumed at the Caspian Pipeline Consortium terminal on Russia's Black Sea coast, a major outlet for Kazakh oil that had recently been disrupted by Ukrainian drone attacks."
+    },
     {
       "id": "5010955",
       "time": "2026-07-28 07:25:19",
