@@ -1,7 +1,89 @@
 {
-  "updated": "2026-07-27 19:33:11",
-  "count": 17811,
+  "updated": "2026-07-27 19:37:14",
+  "count": 17805,
   "items": [
+    {
+      "id": "5010270",
+      "time": "2026-07-27 19:36:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總針對湖北四川啟動防汛四級應急響應】據氣象部門預報，7月27日至28日，湖北中南部、四川盆地等地有大到暴雨、局地大暴雨，山洪和地質災害、中小河流洪水等災害風險較高。根據《國家防汛抗旱應急預案》及有關規定，國家防總決定於7月27日18時針對湖北、四川啟動防汛四級應急響應。（央視新聞）"
+    },
+    {
+      "id": "5010269",
+      "time": "2026-07-27 19:36:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：一名安全訊息人士稱，4架無人機襲擊了位於伊拉克埃爾比勒詹姆薩里地區的伊朗庫爾德斯坦自由黨總部。"
+    },
+    {
+      "id": "mkt:019fa35c-19fc-7aab-8ead-a5cfce72ad0f",
+      "time": "2026-07-27 19:35:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV, citing a security source, said four drones struck the headquarters of the Kurdistan Freedom Party of Iran in the Jamissari area of Erbil, Iraq."
+    },
+    {
+      "id": "5010268",
+      "time": "2026-07-27 19:34:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【桂發祥：出售已回購股份達1% 成交總額1785.23萬元】桂發祥公告稱，公司於2024年3月8日至22日累計回購股份552.52萬股，佔總股本2.75%，支付總金額4999.96萬元。2026年5月26日至7月27日，公司以集中競價方式出售已回購股份200.86萬股，佔總股本1%，成交總額1785.23萬元，出售計劃完成。所得資金將用於補充流動資金，不影響當期利潤，對公司無重大影響。"
+    },
+    {
+      "id": "5010267",
+      "time": "2026-07-27 19:34:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉勝訴，特斯拉獲准重啟針對InterDigital和Avanci的英國5G專利許可訴訟。"
+    },
+    {
+      "id": "5010266",
+      "time": "2026-07-27 19:34:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST宏達：股票交易異常波動 多項事項存不確定性】ST宏達公告稱，公司股票2026年7月24日、7月27日收盤價格漲幅偏離值累計超20%，屬異常波動。經核實，前期披露資訊無更正補充，主業經營及內外部環境未變，未發現影響股價重大資訊，控股股東等異常波動期間未買賣股票。此外，公司2025年淨虧損1477.93萬元，股票被繼續實施其他風險警示；多項股份轉讓及發行事項尚需相關審批，能否實施完成存在不確定性。"
+    },
+    {
+      "id": "5010265",
+      "time": "2026-07-27 19:34:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年我國購物中心客流整體溫和上升】中國連鎖經營協會7月27日釋出的2026上半年購物中心（含奧萊）行業經營情況簡報顯示，根據對樣本企業的調查，上半年超70%的購物中心客流量實現增長，客流整體呈現溫和上升趨勢。(新華社)"
+    },
+    {
+      "id": "5010264",
+      "time": "2026-07-27 19:33:52",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【羅博特科：全資子公司ficonTEC與紐交所上市公司H簽訂1.29億元合同 系用於光纖陣列（FAU）等光學元器件量產的自動化製造裝置及服務訂單】羅博特科公告稱，公司全資子公司ficonTEC與一家紐交所上市公司H的子公司簽訂日常經營重大合同，金額約1,674萬歐元(摺合人民幣1.29億元)，用於光纖陣列等光學元器件量產的自動化製造裝置及服務。該合同佔公司2025年度經審計營收的13.59%，預計將對2026年度及未來業績產生積極影響。"
+    },
+    {
+      "id": "mkt:019fa35a-4ee2-7aab-8ead-9f16f72aa49f",
+      "time": "2026-07-27 19:33:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy parliament speaker told Iranian media Iran will respond to Ukraine's provocations in the Caspian Sea and that Kyiv will regret it."
+    },
+    {
+      "id": "5010263",
+      "time": "2026-07-27 19:33:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨和納斯達克100指數期貨漲幅大幅收窄。"
+    },
     {
       "id": "5010262",
       "time": "2026-07-27 19:31:51",
@@ -163025,158 +163107,6 @@
         "公司"
       ],
       "text": "【宇順電子：中恩雲資訊簽署7.31億元算力服務合同】 宇順電子公告，全資子公司中恩雲資訊與客戶簽署了《算力基礎計算伺服器租賃協議》，合同總金額為7.31億元，期限為60個月。該合同佔公司最近一個會計年度經審計主營業務收入50%以上，且絕對金額超過5億元。合同履行期限較長，收入將分期確認，對公司各年度業績的影響存在不確定性。"
-    },
-    {
-      "id": "4997935",
-      "time": "2026-07-20 19:37:03",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【哈馬斯任命新領導人】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）20日宣佈任命哈利勒·哈亞為新任領導人。 宣告說，已選舉哈亞為哈馬斯政治局主席，接替此前身亡的葉海亞·辛瓦爾。 哈亞現年65歲，自2006年以來一直擔任哈馬斯內部重要職務，是該組織現存為數不多的元老之一。哈亞是哈馬斯參與加沙停火談判的首席代表。 2024年10月，以色列說辛瓦爾在加沙地帶的以軍行動中死亡。哈馬斯隨後予以證實。（新華社）"
-    },
-    {
-      "id": "4997934",
-      "time": "2026-07-20 19:36:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "布倫特原油與美國原油期貨因新一輪談判前景預期跌幅超1美元。"
-    },
-    {
-      "id": "4997933",
-      "time": "2026-07-20 19:36:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國國債價格上漲；德國10年期國債收益率下跌1個基點至3.12%。"
-    },
-    {
-      "id": "4997932",
-      "time": "2026-07-20 19:36:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【聯影醫療：2026年至今取得多項境內外醫療器械註冊證】聯影醫療公告稱，2026年至今公司取得多項境內外醫療器械註冊證，包括境內NMPA的彩色多普勒超聲診斷系統等，歐盟CE的正電子發射機及X射線計算機斷層成像掃描系統等，美國FDA的彩色多普勒超聲診斷系統等。截至6月30日，產品註冊准入覆蓋全球80餘國家和地區，累計獲批超160款，報告期內新增歐盟認證7款、FDA認證20款。註冊證取得利於豐富產品種類，增強競爭力，但對營收影響尚無法預測。"
-    },
-    {
-      "id": "te:markets:568231",
-      "time": "2026-07-20 19:36:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Sterling Rises as Burnham Becomes UK Prime Minister — Sterling climbed to $1.347 after Andy Burnham officially became the UK's Prime Minister on Monday, accepting King Charles III's invitation to form a government. Burnham, who stood unopposed in the Labour leadership contest following Keir Starmer's resignation, becomes the UK's seventh prime minister in the past decade and the second since Labour returned to power in 2024. Markets are now focused on Burnham's choice of Chancellor. Reports that Shabana Mahmood is the leading candidate have reassured investors, easing concerns that the new government could adopt a more expansionary fiscal stance. Meanwhile, escalating tensions in the Middle East have pushed oil prices to their highest level in over a month, adding to inflationary pressures and reinforcing expectations that the Bank of England will keep interest rates higher for longer."
-    },
-    {
-      "id": "4997931",
-      "time": "2026-07-20 19:36:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧波東力：擬向控股子公司增資2.28億元】寧波東力公告稱，為滿足精密傳動板塊產業佈局及經營發展需求，公司擬使用自有資金向控股子公司東力精密增資2.28億元，東力精密其他股東按持股比例同比例增資1200萬元。增資完成後，東力精密註冊資本將由6000萬元增至3億元，公司仍為控股股東。該議案已透過董事會審議，無需提交股東會。本次投資不構成關聯交易和重大資產重組。"
-    },
-    {
-      "id": "4997930",
-      "time": "2026-07-20 19:36:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "芬蘭政府撤回對赫爾辛基花園專案的支援。"
-    },
-    {
-      "id": "4997929",
-      "time": "2026-07-20 19:35:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守80美元/桶，日內跌2.32%。"
-    },
-    {
-      "id": "mkt:019f7f4e-d642-7aab-8e0b-8b6e4a27768e",
-      "time": "2026-07-20 19:35:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "Dow"
-      ],
-      "text": "U.S. equity futures rose: Nasdaq-100 futures up more than 1%, S&P 500 futures up 0.57%, Dow futures up 0.43%."
-    },
-    {
-      "id": "mkt:019f7f4e-8a20-7aab-8e0b-831ce6a6d49c",
-      "time": "2026-07-20 19:34:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zhongke Sanhuan 1H 2026 net profit +11.88% YoY】Zhongke Sanhuan reported 1H 2026 operating revenue of 3.614 bln yuan, up 23.67% YoY, and net profit of 49.22 mln yuan, up 11.88% YoY; basic EPS 0.04 yuan. Core product sales increased and cost measures — optimizing formulations and processes and cutting heavy rare earth usage — lifted overall gross margin. Several subsidiaries reduced losses or turned profitable. The company tightened inventory management and optimized key raw-material inventory structure, and asset impairment losses declined YoY."
-    },
-    {
-      "id": "4997928",
-      "time": "2026-07-20 19:34:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【杉杉股份：皖維集團成為控股股東，安徽省國資委成為實際控制人】 杉杉股份公告，公司於2026年7月20日召開2026年第一次臨時股東會，審議透過董事會換屆選舉相關議案。公司第一大股東安徽皖維集團有限責任公司已完成對公司董事會改組程式，公司控股股東變更為皖維集團，實際控制人變更為安徽省人民政府國有資產監督管理委員會。皖維集團與安徽海螺集團有限責任公司、安徽省投資集團控股有限公司、安徽省國有資本運營控股集團有限公司的重組事項完成後，海螺集團將成為公司間接控股股東。"
-    },
-    {
-      "id": "4997927",
-      "time": "2026-07-20 19:33:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克600指數觸及盤中高點，上漲0.3%。"
-    },
-    {
-      "id": "mkt:019f7f4d-5cdd-7aab-8e0b-7b864c330f41",
-      "time": "2026-07-20 19:33:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude fell 2.00% intraday, trading at $80.67/bbl."
-    },
-    {
-      "id": "4997926",
-      "time": "2026-07-20 19:33:23",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【中國與泰國簽署加強產供鏈經濟合作的諒解備忘錄】7月20日，在國務院總理李強和泰國總理阿努廷共同見證下，中國商務部部長王文濤與泰國副總理兼商業部長素帕姬在北京簽署了《中華人民共和國商務部和泰王國商業部關於加強產供鏈經濟合作的諒解備忘錄》(以下簡稱《備忘錄》)。根據《備忘錄》，雙方同意推進兩國產供鏈經濟合作，定期舉行會議、加強交流，支援兩國相關政府部門、地方、企業等不斷深化和促進務實合作，更好為兩國企業營造良好營商環境，共同應對挑戰。近年來，中泰產供鏈合作潛力持續釋放。《備忘錄》的簽署，將推動中泰建立務實高效的產供鏈合作平臺，維護兩國產供鏈安全、韌性和暢通，共同打造更為緊密的中泰產供鏈經濟合作關係。（商務部）"
-    },
-    {
-      "id": "4997925",
-      "time": "2026-07-20 19:33:19",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【商務部與柬埔寨商業部簽署《關於在第三國貿易措施背景下加強合作與相互理解的諒解備忘錄》】近日，中國商務部部長王文濤與柬埔寨商業部大臣佔尼莫簽署《關於在第三國貿易措施背景下加強合作與相互理解的諒解備忘錄》。\n\n雙方同意，將繼續就與第三國貿易措施相關的共同關心問題，保持開放、建設性的對話。在可能影響雙邊經貿關係的有關措施解讀和實施上，雙方會加強溝通、增進理解、提高透明度。\n\n柬方申明，其與第三方的貿易安排不會影響與中國簽署的任何協議、更不會損害中國利益。柬方沒有、也不會採取或實施任何針對或實質性針對中國並妨礙中國與東盟經貿合作的歧視性措施。\n\n備忘錄的簽署，體現了中柬源遠流長的友誼、全面戰略合作伙伴關係以及深厚持久的政治、經濟和人文聯絡。這有助於雙方進一步加強合作與相互理解，對雙方在尊重主權、相互信任和合作共贏基礎上構建新時代全天候中柬命運共同體具有重要意義。（商務部）"
-    },
-    {
-      "id": "4997924",
-      "time": "2026-07-20 19:33:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌2%，現報80.12美元/桶。"
     }
   ]
 }
