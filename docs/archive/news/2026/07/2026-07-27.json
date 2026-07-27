@@ -1,7 +1,94 @@
 {
   "date": "2026-07-27",
-  "count": 2573,
+  "count": 2582,
   "items": [
+    {
+      "id": "5010625",
+      "time": "2026-07-27 22:56:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【納斯達克中國金龍指數漲超2%】納斯達克中國金龍指數漲超2%，寶尊電商漲12.70%，新氧漲12.69%，億咖通科技漲8.01%，盛豐物流漲5.84%，騰訊音樂漲5.42%。"
+    },
+    {
+      "id": "mkt:019fa413-b229-7aab-8eb2-185eedb0b837",
+      "time": "2026-07-27 22:56:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Volkswagen denies urging EU tariffs on Chinese hybrid imports】Volkswagen said on its 1H 2026 results call that management board chairman and CEO Oliver Blume did not explicitly call for EU tariffs on hybrids imported from China. Blume advocated a comprehensive review of options to preserve fair competition between Europe and other regions, including supporting Chinese automakers’ local production in Europe, and said any EU tariff, if imposed, should not exceed the current rate applied to battery-electric vehicles."
+    },
+    {
+      "id": "5010624",
+      "time": "2026-07-27 22:55:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超2%，寶尊電商漲12.70%，新氧漲12.69%，億咖通科技漲8.01%，盛豐物流漲5.84%，騰訊音樂漲5.42%。"
+    },
+    {
+      "id": "mkt:019fa412-7b03-7aab-8eb2-1086e3ba91a1",
+      "time": "2026-07-27 22:55:02",
+      "tags": [
+        "MKT News",
+        "ASML.AS",
+        "Impact bearish",
+        "BESI.AS"
+      ],
+      "text": "Amsterdam-listed ASML and BESI resumed trading; shares fell about 7.4%–8%."
+    },
+    {
+      "id": "5010623",
+      "time": "2026-07-27 22:54:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【大眾汽車否認呼籲歐盟對中國混動汽車加徵關稅】今日，大眾汽車集團釋出宣告稱，2026年上半年財報電話會議上，大眾汽車集團管理董事會主席奧博穆就自由公平的貿易環境這一話題表態。對於當下，歐洲正在討論的擬對從中國進口至歐洲的混動車輛加徵關稅的議題，大眾集團CEO奧博穆並未明確呼籲加徵關稅，而是倡導全面考量各類潛在方案，保障歐洲與全球其他地區之間形成公平的競爭環境。這其中，包括支援中國整車企業在歐洲實現本土化生產。他同時強調，若歐盟未來最終決定加徵相關關稅，為維護與中國的健康貿易關係，該關稅稅率不應超過當前對純電車型已實施的關稅水平。此前，外媒報道稱奧博穆希望歐盟針對中國產插混車型新增關稅機制，參照現行中國產純電動汽車的徵稅方案，即在基礎10%進口關稅之上，最高再加徵35%額外關稅。（第一財經）"
+    },
+    {
+      "id": "5010622",
+      "time": "2026-07-27 22:54:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "荷蘭上市的阿斯麥（ASML）、貝思（BESI）復牌後股價下跌7.4%-8%。"
+    },
+    {
+      "id": "te:markets:570141",
+      "time": "2026-07-27 22:54:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Waver — US stock indices wavered on Monday amid a fresh selloff for chip producers ahead of a Fed decision and major economic updates this week. The S&P 500 swung to 0.3% lower while the Nasdaq 100 dropped 1%. Nvidia dropped 4.5% after announcing a $500 billion AI memory chip supply deal from SK Hynix. Separately, Nvidia guaranteed $250 billion for OpenAI to lease computing from a data center project, reigniting concerns that circular deals in AI computing could trigger contagion and unwind the AI trade should capex growth be halted. Micron, AMD, Indel, and Sandisk dropped between 6% and 10%. Still, the Dow added 0.5% on softer concerns of tight financial conditions. The US and Iran paused strikes over the weekend and fuel prices retreated from peaks. The consequent drop in yields reflected almost null expectations the Federal Reserve may deliver a rate hike this week, pushing back eventual tightening to September. Apple, Meta, Amazon, and Microsoft were higher ahead of earnings this week."
+    },
+    {
+      "id": "5010621",
+      "time": "2026-07-27 22:53:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：巴布亞紐幾內亞金貝以東 147 公里處發生 5.1 級地震。"
+    },
+    {
+      "id": "mkt:019fa411-5a23-7aab-8eb2-0c14f69c8c9a",
+      "time": "2026-07-27 22:53:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Russian President Putin signed a decree to increase the authorized strength of the Russian armed forces by 25,000 personnel."
+    },
     {
       "id": "5010620",
       "time": "2026-07-27 22:52:22",
