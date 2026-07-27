@@ -1,7 +1,260 @@
 {
   "date": "2026-07-28",
-  "count": 128,
+  "count": 155,
   "items": [
+    {
+      "id": "5010750",
+      "time": "2026-07-28 01:57:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪奧上半年營收 386.44 億歐元。"
+    },
+    {
+      "id": "5010749",
+      "time": "2026-07-28 01:57:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：卡達首相與加拿大外交部長商討緩和地區局勢相關舉措。"
+    },
+    {
+      "id": "5010748",
+      "time": "2026-07-28 01:55:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理媒體辦公室：伊拉克表示，在沙特遭遇無人機襲擊事件後，伊方絕不允許本國領土被用作襲擊鄰國的跳板。"
+    },
+    {
+      "id": "mkt:019fa4b7-b999-7aab-8eb5-6f1915e9c5d6",
+      "time": "2026-07-28 01:55:31",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Finnish industry official says U.S. tariffs while failing ILO obligations 'absurd'】Timo Wori, director for international trade and trade policy at the Federation of Finnish Industries, said the U.S. has not fully met its obligations under the International Labour Organization framework yet is imposing tariffs under the banner of \"forced labor,\" calling the move absurd. He said the Trump administration sought legal cover for unilateral tariffs from a 1970s law to justify the \"forced labor\" claim. Wori warned U.S. tariff policy is hitting Finnish steel and pharmaceutical firms, damaging global trade ties and raising uncertainty for the global economy and business operations, and that the ultimate cost falls on U.S. consumers. He also expressed concern that tariffs are being used outside traditional trade policy—citing Greenland, Iran and NATO cooperation disputes—saying the \"weaponization\" of tariffs increases economic and security uncertainty worldwide."
+    },
+    {
+      "id": "mkt:019fa4b7-1866-7aab-8eb5-670d2f67518e",
+      "time": "2026-07-28 01:54:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media report the U.S. embassy in Israel has restricted staff travel to the West Bank due to heightened security tensions; restrictions remain in place through July 29."
+    },
+    {
+      "id": "5010747",
+      "time": "2026-07-28 01:52:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【芬蘭工商界人士：美國不履行義務還強徵關稅很荒謬】芬蘭工業聯合會國際貿易和貿易政策主任蒂莫·沃裡27日表示，美國自身尚未完全履行國際勞工組織框架下的義務，卻以“強迫勞動”為名對其他經濟體加徵關稅，凸顯美方雙重標準。沃裡當天接受芬蘭國家廣播公司採訪時說，特朗普政府為單方面加徵關稅遍尋“法律依據”，最終從一項上世紀70年代的法律中搬出“強迫勞動”這一理由，這一做法十分荒謬。美國貿易代表辦公室23日釋出公告，宣佈依據《1974年貿易法》第301條，以所謂“強迫勞動”為由，對來自60個國家和地區的進口商品徵收10%至12.5%的關稅，以替代24日到期的全球進口關稅。新關稅已於美國東部時間24日生效。（新華社）"
+    },
+    {
+      "id": "5010746",
+      "time": "2026-07-28 01:51:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "據阿拉比亞電視臺：伊拉克總理下令調查使用伊拉克領土發動無人機襲擊沙特的事件。伊拉克方面表示，不會允許任何試圖影響伊沙關係或損害兩國關係的行動。"
+    },
+    {
+      "id": "5010745",
+      "time": "2026-07-28 01:51:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟MARS機構：熱浪導致歐盟玉米、小麥產量預期下調】歐盟農業資源監測中心（MARS）表示，熱浪和乾旱天氣已導致西歐和中歐大部分地區的農作物產量前景惡化。高溫縮短了穀物灌漿期，導致冬季作物提前成熟；而夏季作物在關鍵生長期則遭遇了高溫和土壤水分不足的困擾。歐盟玉米產量預期較上次預測下調6%，目前低於五年平均水平2%。作為歐盟最大的玉米生產國，法國的玉米產量預期被下調13%，目前低於五年平均水平15%。歐盟小麥產量預期下調2%。法國小麥產量預期下調4%，目前比去年低8%。歐盟向日葵產量預期下調7%，但仍比去年高出4%。歐盟油菜籽產量預期下調1%。預計西歐將出現更多炎熱乾燥的天氣，這增加了農作物進一步減產的風險。"
+    },
+    {
+      "id": "mkt:019fa4b3-8bdc-7aab-8eb5-5ef07e8361f7",
+      "time": "2026-07-28 01:50:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq said it will not allow any actions aimed at affecting Iraq–Saudi relations or harming ties between the two countries, Al Arabiya reported."
+    },
+    {
+      "id": "mkt:019fa4b3-6527-7aab-8eb5-55ab46cf4ac8",
+      "time": "2026-07-28 01:50:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "According to Al Arabiya TV, Iraq's prime minister has ordered an investigation into reports that Iraqi territory was used to launch drone strikes on Saudi Arabia."
+    },
+    {
+      "id": "mkt:019fa4ae-52d6-7aab-8eb5-4e3d13e0a3c7",
+      "time": "2026-07-28 01:45:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【FT: NVIDIA to back OpenAI co-founder’s AI project with $5bln investment】Financial Times reports NVIDIA has agreed to invest about $5bln in Safe Superintelligence, an AI startup led by OpenAI co‑founder Ilya Sutskever, and will provide its latest Vera Rubin hardware as part of a \"long-term partnership.\" The companies announced the deal on Monday; people familiar said the $5bln commitment is typically milestone-dependent. Both parties declined to disclose financial terms, calling the investment \"substantial.\" Safe Superintelligence said the funding will help it build the compute to exploit a research breakthrough it claims and increase available compute tenfold within 12 months."
+    },
+    {
+      "id": "5010744",
+      "time": "2026-07-28 01:42:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "Microsoft AI：推出MAI-Cyber-1-Flash，這是我們自主研發的新型網路安全模型。"
+    },
+    {
+      "id": "mkt:019fa4ab-55e8-7aab-8eb5-44cddc23d7a5",
+      "time": "2026-07-28 01:41:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's Foreign Ministry condemned drone attacks targeting Saudi Arabia."
+    },
+    {
+      "id": "5010743",
+      "time": "2026-07-28 01:41:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：巴基斯坦譴責針對沙烏地阿拉伯的無人機襲擊。"
+    },
+    {
+      "id": "mkt:019fa4ab-2446-7aab-8eb5-3c203780f516",
+      "time": "2026-07-28 01:41:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft AI launched MAI-Cyber-1-Flash, a new self-developed cybersecurity model."
+    },
+    {
+      "id": "5010742",
+      "time": "2026-07-28 01:40:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國產手術機器人出口額大增330% “新新三樣”圈粉全球】近日舉辦的“在高質量發展中保障和改善民生”形勢政策系列報告會上，科技部黨組書記、部長陰和俊表示，被稱為“新新三樣”的人工智慧、機器人、創新藥正迅猛發展，有望形成新的支柱產業。某平臺資料顯示，7月13日至19日，中國大模型周呼叫量達36.11萬億詞元，環比增長30.93%，連續八週實現增長，連續十二週穩居全球首位。今年上半年，我國機器人出口額達62.9億元，產品銷往全球141個國家和地區，手術機器人出口額更是增長了3.3倍；上半年，我國創新藥對外授權交易額約1100億美元，全球醫藥交易前十榜單中國藥企佔據8席。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fa4a9-9b09-7aab-8eb5-316d726a094f",
+      "time": "2026-07-28 01:40:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Representative Nancy Mace renewed calls for a one-year moratorium on new data center construction in South Carolina."
+    },
+    {
+      "id": "5010741",
+      "time": "2026-07-28 01:38:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：人工智慧市場的修正正成為主要信用風險。"
+    },
+    {
+      "id": "mkt:019fa4a7-07e5-7aab-8eb5-2ba95c860491",
+      "time": "2026-07-28 01:37:17",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Fitch Ratings: a correction in the AI market is becoming a major credit risk."
+    },
+    {
+      "id": "5010740",
+      "time": "2026-07-28 01:36:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會（FCC）： SpaceX 星鏈路由器豁免有效期至 2028 年 1 月。"
+    },
+    {
+      "id": "mkt:019fa4a5-0cb0-7aab-8eb5-22d73966329b",
+      "time": "2026-07-28 01:35:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. SPR crude stocks down ~3.7 mln barrels to lowest since March 1983】Refinitiv, citing DOE data, reports U.S. Strategic Petroleum Reserve (SPR) crude inventories fell about 3.7 mln barrels last week to 307.7 mln barrels, the lowest level since March 1983. The drawdown is part of an agreement to release 172 mln barrels from the reserve."
+    },
+    {
+      "id": "5010739",
+      "time": "2026-07-28 01:34:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會（FCC）將SpaceX星鏈路由器移出管制清單，予以豁免。"
+    },
+    {
+      "id": "5010738",
+      "time": "2026-07-28 01:31:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍防空系統單日在俄羅斯多個地區、黑海及亞速海上空擊落 182 架烏克蘭無人機。"
+    },
+    {
+      "id": "mkt:019fa4a1-5582-7aab-8eb5-19541935b312",
+      "time": "2026-07-28 01:31:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry: Russian air-defence systems shot down 182 Ukrainian drones in a single day, with targets across several Russian regions and over the Black Sea and the Sea of Azov."
+    },
+    {
+      "id": "mkt:019fa49e-a2c3-7aab-8eb5-126319672ccf",
+      "time": "2026-07-28 01:28:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran ambassador to Russia says Ukraine attack on Iranian ship a criminal act】Iran's ambassador to Russia Jalali said on July 27 that Ukraine's July 25 strike on an Iranian merchant vessel in the Caspian Sea was a criminal act, and that the ship was purely civilian with no military cargo. Tehran strongly condemned the attack and summoned Ukraine's chargé d'affaires in Iran."
+    },
+    {
+      "id": "mkt:019fa49e-9e50-7aab-8eb5-0d8e9ed40e3f",
+      "time": "2026-07-28 01:28:06",
+      "tags": [
+        "MKT News",
+        "UAL.N",
+        "Impact bearish"
+      ],
+      "text": "The U.S. Federal Aviation Administration implemented ground delay measures at Newark Liberty Airport due to staffing issues."
+    },
+    {
+      "id": "5010737",
+      "time": "2026-07-28 01:27:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "飛利浦二季度銷售43.6億歐元，分析師預期43.1億歐元。\n二季度可比銷售增長4.1%，分析師預期增長3.96%。\n二季度調整後EBITDA為7.17億歐元，分析師預期5.174億歐元。\n二季度調整後EBITDA利潤率為16.4%，分析師預期11.9%。"
+    },
     {
       "id": "5010736",
       "time": "2026-07-28 01:22:54",
