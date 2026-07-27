@@ -1,7 +1,26 @@
 {
   "date": "2026-07-28",
-  "count": 357,
+  "count": 359,
   "items": [
+    {
+      "id": "te:markets:570186",
+      "time": "2026-07-28 05:49:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline is down by 5.44% — Gasoline decreased 5.44% to 3.2324 USD/Gal"
+    },
+    {
+      "id": "5010874",
+      "time": "2026-07-28 05:49:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔響起防空警報。"
+    },
     {
       "id": "mkt:019fa58b-2745-7aab-8eb7-86ecbc40f2e4",
       "time": "2026-07-28 05:46:27",
