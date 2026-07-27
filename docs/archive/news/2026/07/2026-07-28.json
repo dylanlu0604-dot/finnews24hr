@@ -1,7 +1,51 @@
 {
   "date": "2026-07-28",
-  "count": 427,
+  "count": 432,
   "items": [
+    {
+      "id": "5010929",
+      "time": "2026-07-28 07:04:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "以太幣下跌3.03%，至1886.3500美元。"
+    },
+    {
+      "id": "5010928",
+      "time": "2026-07-28 07:02:55",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國7月BRC商店物價指數年率 0.9%，前值1.20%。"
+    },
+    {
+      "id": "mkt:019fa5d0-7192-7aab-8eb7-f2fff710aecf",
+      "time": "2026-07-28 07:02:08",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK July BRC shop price index slowed to 0.9% YoY from 1.2%."
+    },
+    {
+      "id": "mkt:019fa5d0-4e93-7aab-8eb7-eab4d390bf11",
+      "time": "2026-07-28 07:01:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | BRC Shop Price Index (YoY) (Jul) | actual 0.9% | previous 1.20%"
+    },
+    {
+      "id": "5010927",
+      "time": "2026-07-28 07:01:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國代表安理會發言時美國代表離場】當地時間7月27日上午，在聯合國安理會關於烏克蘭問題的緊急公開會上，美國代表團在法國代表發言時公然離場。隨後美國代表發言時，更是公開指責這位長期盟友發表“虛偽的作秀言論”。（CCTV國際時訊）"
+    },
     {
       "id": "5010926",
       "time": "2026-07-28 07:00:49",
