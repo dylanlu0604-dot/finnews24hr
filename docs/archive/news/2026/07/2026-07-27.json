@@ -1,7 +1,144 @@
 {
   "date": "2026-07-27",
-  "count": 2107,
+  "count": 2123,
   "items": [
+    {
+      "id": "5010304",
+      "time": "2026-07-27 19:52:40",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "巴基斯坦央行行長：黃金儲備規模約為90億美元。"
+    },
+    {
+      "id": "5010303",
+      "time": "2026-07-27 19:52:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普：將對孟加拉國實施的美國關稅政策目前仍存在變數。"
+    },
+    {
+      "id": "5010302",
+      "time": "2026-07-27 19:52:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普關於孟加拉國的觀點：預計外匯儲備將繼續逐步累積。"
+    },
+    {
+      "id": "mkt:019fa36b-55f7-7aab-8eae-0c8f4df35b63",
+      "time": "2026-07-27 19:52:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD"
+      ],
+      "text": "Pakistan central bank governor said Pakistan's gold reserves are currently about $9 bln."
+    },
+    {
+      "id": "mkt:019fa36b-472d-7aab-8eae-0771854a161b",
+      "time": "2026-07-27 19:52:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Beijing 1H new-car L2 assisted-driving penetration 77.5%; Alpha S among first L3 conditional production models】Beijing reported 1H 2026 new passenger-car L2 combined assisted-driving penetration at 77.5%, above the national average of ~70%. BAIC’s Arcfox Alpha S is among the first nationally certified L3 conditional automated-driving production models, achieving legal road operation and initial commercial deployment. Beijing has issued over 1,500 high-level autonomous-vehicle test permits and logged safety test mileage exceeding 65 mln km. Under Beijing–Tianjin–Hebei collaboration, the city is developing an intelligent connected NEV technology hub that has drawn 200+ supply-chain firms and 53 signed projects. Next steps will prioritize higher-level autonomous-vehicle industrialization, dual-intelligence 4.0 development, core technology R&D, and Beijing–Tianjin–Hebei industry coordination to build a global-scale cluster."
+    },
+    {
+      "id": "5010301",
+      "time": "2026-07-27 19:52:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫銅漲幅擴大，現漲1.0%，最新報13781.0美元/噸。"
+    },
+    {
+      "id": "5010300",
+      "time": "2026-07-27 19:51:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【河南農商銀行再吸收合併9家機構，註冊資本增至超996億元】河南金融監管局釋出的批覆檔案顯示，同意河南農村商業銀行透過吸收合併增加註冊資本8047394081元，由91638155275元變更為99685549356元。"
+    },
+    {
+      "id": "5010299",
+      "time": "2026-07-27 19:51:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普關於孟加拉國的觀點：能源市場紊亂之下，通脹仍居高不下。"
+    },
+    {
+      "id": "te:markets:570093",
+      "time": "2026-07-27 19:51:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indian Stocks Rebound — Indian stocks closed sharply higher on Monday after five sessions of losses, as lower oil prices supported the rupee and aided foreign inflows on domestic equities. The S&P/BSE Sensex and the NSE Nifty 50 each gained 1%. The US paused strikes against Iran over the weekend and oil prices trimmed their surge, easing the outlook of rupee selling from energy importers and aiding foreign demand in Indian capital markets. TCS gained 1.9% after reporting stronger-than-expected quarterly earnings. Lodha Developers also climbed following a rise in quarterly profit. Meanwhile, Infosys surged 3% with support from a rebound in the US tech sector. In contrast, Bank of Baroda came under pressure after reporting a decline in quarterly earnings."
+    },
+    {
+      "id": "5010298",
+      "time": "2026-07-27 19:50:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京上半年乘用車新車L2級輔助駕駛滲透率達77.5% L3量產車型率先落地】7月27日，在2026世界智慧網聯汽車大會媒體圓桌會上，北京市經信局副局長蘇國斌介紹，2026年上半年全市乘用車新車L2級組合輔助駕駛滲透率達77.5%，高於全國70%的平均水平；北汽極狐阿爾法S成為全國首批L3級有條件自動駕駛量產車型，率先實現高階別自動駕駛合法上路和商業化落地；依託全國首個高階別自動駕駛示範區，北京累計發放測試牌照超1500張，安全測試里程突破6500萬公里。京津冀協同方面，北京正聯合津冀共建智慧網聯新能源汽車科技生態港，已吸引200餘家產業鏈企業參與，落地簽約53家。下一步，北京將圍繞高階別自動駕駛產業化、“雙智”4.0建設、核心技術攻關、京津冀產業協同四方面發力，打造世界級產業叢集。（科創板日報）"
+    },
+    {
+      "id": "mkt:019fa369-ae20-7aab-8ead-fbebd371b737",
+      "time": "2026-07-27 19:50:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P lowered Bangladesh's outlook to negative, citing persistent economic risks; sovereign rating unchanged."
+    },
+    {
+      "id": "5010297",
+      "time": "2026-07-27 19:50:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度煤炭公司第一季度淨利潤 885 億盧比，市場預期 864.1 億盧比。"
+    },
+    {
+      "id": "5010296",
+      "time": "2026-07-27 19:50:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中蘭環保：2026年上半年淨利潤732.9萬元，同比增長30.22%】中蘭環保公告，2026年上半年營業收入2.42億元，同比下降16.94%。歸屬於上市公司股東的淨利潤732.9萬元，同比增長30.22%；扣非淨利潤197.82萬元，同比下降31.19%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5010295",
+      "time": "2026-07-27 19:50:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度儲備銀行：根據1949年《銀行監管法》第36(A)條第(2)款的規定，“荷蘭合作銀行”不再作為銀行公司運營。"
+    },
+    {
+      "id": "5010294",
+      "time": "2026-07-27 19:49:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將 標普全球評級將孟加拉國評級展望下調至負面，維持現有信用評級不變。"
+    },
+    {
+      "id": "5010293",
+      "time": "2026-07-27 19:48:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年客流與銷售額雙增 近八成購物中心看好下半年】今天（27日）瞭解到，中國連鎖經營協會7月份對全國53家企業的1978個在營購物中心進行了摸底調查。調查顯示，今年上半年75.5%的企業客流量實現增長，其中43.4%的企業增幅在5%~10%區間；17%的企業增幅在10%~15%區間；上半年客流下降的企業佔比僅13.2%，且以輕微下降為主。中國連鎖經營協會認為，這表明今年以來，購物中心客流整體呈現溫和增長趨勢，而非短期衝高，基本盤較為穩固。中國連鎖經營協會的調查還顯示，上半年69.8%的企業銷售總額實現增長，銷售總額下降的企業佔比是22.6%；69.8%的企業會員消費佔比實現增長，下降的佔比為15.1%；43.4%的企業線上銷售佔比提升，線上銷售佔比下降的企業僅佔7.5%。調查還顯示，各家購物中心企業對下半年經營預期總體樂觀，其中，79.2%的企業對下半年的客流持樂觀態度；67.9%的企業對下半年的銷售量持樂觀態度。（央視新聞）"
+    },
     {
       "id": "mkt:019fa367-9f0d-7aab-8ead-f26077725b0d",
       "time": "2026-07-27 19:48:24",
