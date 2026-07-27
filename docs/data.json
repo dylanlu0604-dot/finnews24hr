@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-27 13:11:04",
-  "count": 17936,
+  "updated": "2026-07-27 13:15:01",
+  "count": 17931,
   "items": [
+    {
+      "id": "mkt:019fa1fe-f72e-7aab-8ea3-6e0b5f8210a7",
+      "time": "2026-07-27 13:14:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jefferies: Surge in token consumption to benefit Chinese AI labs】Jefferies analysts said in a research note that a global surge in token consumption is likely to benefit Chinese AI labs. The firm flagged material opportunities in coding, workspace applications and mid-to-long-form content. It said Baidu, Alibaba and Tencent, along with cloud providers Kingsoft Cloud and Kuaishou’s AI-video business, stand to gain from rising AI demand."
+    },
+    {
+      "id": "5009357",
+      "time": "2026-07-27 13:13:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "鋰電池電解液概念再度拉昇，日科化學20cm3天2板，孚日股份回封漲停，永太科技、泰和科技、海科新源、石大勝華、海辰藥業、富祥股份漲幅靠前。"
+    },
+    {
+      "id": "5009356",
+      "time": "2026-07-27 13:13:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【梅德韋傑夫諷刺英國新首相：小不列顛首相】據俄新社報道，當地時間7月26日，俄羅斯聯邦安全會議副主席梅德韋傑夫諷刺地將英國首相伯納姆稱為“小不列顛首相”。 他在社交平臺上寫道：“小不列顛新首相伯納姆宣稱無條件支援烏克蘭。當然，這沒什麼新鮮的。重要的是另一點：我們的任務——繼續盡一切努力，讓這座尚未沉沒的小島上的生活最大限度地難以忍受。這裡什麼都適用：經濟危機、社會劇變、清潔工罷工。什麼都可以。” 梅德韋傑夫補充說：“不過最好的還是‘波塞冬’。” 7月26日，俄羅斯總統普京表示，“波塞冬”核動力無人潛航器正處於最後準備階段，很快將最終就緒並開始戰備值班。 另據法新社報道，烏克蘭總統澤連斯基將於當地時間7月27日訪問英國。他將成為伯納姆就任後會見的首位外國領導人。 伯納姆的唐寧街辦公室26日晚間宣佈，伯納姆發誓將“繼續兩國之間牢不可破的紐帶”。（觀察者網）"
+    },
+    {
+      "id": "mkt:019fa1fd-fbd9-7aab-8ea3-64e782a51d89",
+      "time": "2026-07-27 13:13:24",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share tourism and hotel sector rallied in the afternoon; Huatian Hotel and Tongqinglou hit the daily limit, while Junting Hotel, Jinjiang Hotels, BTG Hotels and Jinling Hotel also rose."
+    },
+    {
+      "id": "5009355",
+      "time": "2026-07-27 13:12:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【陶氏公司第二季度淨銷售額同比增長20%】7月27日，陶氏公司釋出2026年第二季度財務報告，淨銷售額為121億美元，同比增長20%，所有運營板塊及地區均有增長。本地價格同比增長20%，主要由包裝與特種塑膠運營板塊帶動，各地區聚乙烯價格有所上漲。根據公認會計原則（GAAP）計算的淨利潤為8.02億美元。經營性息稅前利潤（Op. EBIT）為16億美元，同比增加17億美元，主要得益於價格上漲以及公司自主改善舉措的推動。"
+    },
+    {
+      "id": "5009354",
+      "time": "2026-07-27 13:12:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：中國AI實驗室料將受益於token消耗量激增】Jefferies分析師在一份研究報告中表示，全球token消耗量的激增料將使中國AI實驗室受益。Jefferies補充道，在編碼、工作空間場景以及中長篇內容方面存在重大機遇。該行表示，百度、阿里巴巴和騰訊，以及雲端計算服務提供商金山雲和快手的AI影片業務可靈，料將受益於不斷增長的AI需求。"
+    },
+    {
+      "id": "te:economy:569974",
+      "time": "2026-07-27 13:10:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Finnish Consumer Morale Holds Firm in July — Finland’s consumer confidence stood at -5.3 in July 2026, unchanged from the previous month and remaining well below the long-term average of -2.9. Still, it was the highest reading since February 2022, when the indicator was last in positive territory. Expectations for the national economy over the next 12 months improved slightly (8.1 vs 7.0 in June), while views on Finland's economy also became less pessimistic (-4.7 vs -6.3). Households were slightly more optimistic about their own finances (-2.2 vs -3.0), although assessments of the current economic situation remained weak. Consumers continued to view the timing for purchasing durable goods as highly unfavorable (-15.9 vs -13.0), with spending intentions declining further (-22.4 vs -18.8). Meanwhile, unemployment expectations remained pessimistic (-19.5 vs -18.7), while inflation expectations eased to 3.7% from 3.9% in June."
+    },
     {
       "id": "mkt:019fa1fb-54ba-7aab-8ea3-5c153cd2daf3",
       "time": "2026-07-27 13:10:30",
@@ -164273,109 +164337,6 @@
         "Importance 1"
       ],
       "text": "FX Updates: South Korean Won Rises by 0.56% — Top currency gainers are South Korean Won (0.56%) and British Pound (0.10%). Biggest loser is Dollar Index (-0.06%). Meanwhile, Japanese Yen and Euro were little changed."
-    },
-    {
-      "id": "mkt:019f7df2-e364-7aab-8e01-e0a1104ed49c",
-      "time": "2026-07-20 13:14:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Fire at Japan Ground Self-Defense Force Asaka garrison】A fire broke out at the Japan Ground Self-Defense Force Asaka garrison, spanning Asaka city in Saitama Prefecture and Nerima ward in Tokyo, at about 11:30 a.m. local time on July 20 (10:30 a.m. Beijing). The garrison reported a trash pile initially ignited and the blaze spread to an adjacent warehouse; police and fire authorities are investigating. The Asaka garrison, which houses the Ground Component Command headquarters and other units, is regarded as the JGSDF’s nerve center."
-    },
-    {
-      "id": "4996998",
-      "time": "2026-07-20 13:14:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【石油天然氣板塊繼續走強 中國海油漲停】石油天然氣板塊午後繼續走強，中國海油漲停，首華燃氣漲超10%，泰山石油、中國石油等股上漲。"
-    },
-    {
-      "id": "mkt:019f7df2-1330-7aab-8e01-de5200f96d0f",
-      "time": "2026-07-20 13:14:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Hainan plans 223 road and waterway projects in '15th Five-Year' plan; total investment 136.3 bln yuan】Hainan has issued its '15th Five-Year' comprehensive transport (road and waterway) development plan to strengthen transport infrastructure for the Hainan Free Trade Port. The province has scoped 223 projects totaling 136.3 bln yuan: 130 road and hub projects (103.09 bln yuan), 83 waterway projects (31.29 bln yuan) and 10 digitalisation projects (1.92 bln yuan)."
-    },
-    {
-      "id": "4996997",
-      "time": "2026-07-20 13:13:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電子化學品板塊午後持續大幅下挫 格林達連續3日跌停】電子化學品板塊午後持續大幅下挫，宏昌電子、江化微、格林達觸及跌停，方邦股份、中船特氣跌超15%，晶瑞電材、金宏氣體、三孚新科、中巨芯、興福電子跌超10%，菲沃泰、光華科技、萊特光電、華特氣體、國瓷材料跟跌。"
-    },
-    {
-      "id": "4996996",
-      "time": "2026-07-20 13:13:12",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團將德意志銀行目標價從29歐元上調至31.5歐元。"
-    },
-    {
-      "id": "4996995",
-      "time": "2026-07-20 13:12:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【黑石集團同意投資韓國機器人供應商Futronic】黑石集團已同意投資Futronic，這是一家生產用於工業機器人和汽車行業的高精度執行器的韓國供應商。黑石集團週一發表宣告稱，旗下關聯私募股權基金將對Futronic進行“重大投資”，但未透露更多細節。根據宣告，Futronic創始人Jin-ho Ko將繼續擔任董事長兼執行長，並與黑石集團合作，加速公司全球發展。知情人士稱，此次投資對Futronic的估值約為1萬億韓元（6.75億美元）。由於涉及非公開資訊，知情人士要求匿名。黑石集團的一位代表拒絕就估值置評。"
-    },
-    {
-      "id": "4996994",
-      "time": "2026-07-20 13:12:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南：“十五五”時期全省共謀劃公路水路專案223個 總投資1363億元】據海南日報，記者從省交通運輸廳獲悉，《海南省“十五五”綜合交通運輸（公路水路）發展規劃》（以下簡稱“規劃”）日前已正式印發實施，切實推進人享其行、物暢其流，為海南自由貿易港建設夯實交通根基。根據規劃，“十五五”時期，全省共謀劃公路水路專案223個，總投資1363億元。其中，公路及樞紐專案130個，投資1030.9億元；水路專案83個，投資312.9億元；數字化轉型專案10個，投資19.2億元。"
-    },
-    {
-      "id": "4996993",
-      "time": "2026-07-20 13:12:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【普睿司曼與莫仕簽署最高55億歐元光纜供貨協議】公告顯示，普睿司曼已與美國科氏集團旗下企業莫仕簽訂一份期限最長十年、總額最高55億歐元的長期光纜供貨協議，協議包含5.5億歐元預付款，供貨光纜將用於資料中心內部佈設。本次與莫仕達成的合作，是普睿司曼面向超大規模雲廠商及資料中心基礎設施服務商簽署的一系列全新協議與商業合作專案之一。公司預計，以2025年業務規模為基準，至2035年，該系列新增合作將累計帶來超100億歐元增量訂單總額。"
-    },
-    {
-      "id": "4996992",
-      "time": "2026-07-20 13:11:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【野村：金價下跌拖累老鋪黃金銷售，目標價降至905港元】野村發表研報，老鋪黃金管理層在投資者電話會議中表示，今年第二季銷售受金價下跌影響，期內實施應對措施，例如推出更具吸引力的回贈及禮品、推出價格更相宜的新產品，以及為高階客戶提供支援及推廣，效果令人滿意，將於下半年擴充套件至更多門店。野村對老鋪黃金長期增長保持信心，但因第二季銷售增長放緩速度較預期慢，將2026至2028年收入及盈利分別下調預測5%至6%，以及9%至11%，估值基準由預測未來12個月市盈率22.5倍下調至20倍，目標價由1114港元下調至905港元，維持“買入”評級。野村預期，若金價能在未來數季回穩，市場對老鋪黃金銷售的悲觀情緒或將消退。"
-    },
-    {
-      "id": "4996991",
-      "time": "2026-07-20 13:11:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "上海市氣象臺2026年07月20日13時07分發布中心城區高溫黃色預警訊號：預計今天中心城區大部的最高氣溫將超過35℃，請注意用火用電安全，做好防暑防曬工作。"
-    },
-    {
-      "id": "4996990",
-      "time": "2026-07-20 13:11:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本陸自總隊司令部駐地起火】據日本廣播協會（NHK）報道，當地時間今天（7月20日）上午11點30分左右，也就是北京時間10點30分左右，橫跨琦玉縣朝霞市和東京練馬區的日本陸上自衛隊朝霞駐地發生火災，駐地上方冒出黑煙。據朝霞駐地方面訊息，初步資訊顯示，駐地內垃圾堆放處起火，隨後蔓延至相鄰的倉庫。警方及消防部門正在對起火原因等展開調查。據瞭解，朝霞駐地被視為日本陸上自衛隊的“中樞神經”，駐有陸上總隊司令部等單位。（CCTV國際時訊）"
-    },
-    {
-      "id": "4996989",
-      "time": "2026-07-20 13:11:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Kimi K3刷屏 機構預測8只AI大模型概念股高增長】國產AI大模型再一次引爆全球。7月16日，月之暗面正式釋出新一代開源基礎模型Kimi K3，引數規模達2.8萬億，採用MoE混合專家架構（896個專家，每token僅啟用16個），是首個突破2萬億引數級別的開源模型。K3擁有100萬token上下文視窗，原生支援視覺理解，面向軟體工程、知識工作和深度推理等前沿智慧場景最佳化。據澎湃新聞，Kimi K3釋出後，短短數小時便登頂業內備受關注的AI程式碼工具評測榜單Arena，這也是中國大模型首次拿下該榜單榜首位置。據證券時報·資料寶統計，截至7月17日收盤，AI大模型概念股今年以來平均下跌21.15%。6股累計上漲超20%，分別為盛視科技、思泰克、格靈深瞳、東方國信、潤建股份、泓博醫藥。從機構角度來看，根據5家及以上機構一致預測，今明兩年淨利潤增速均有望超30%的AI大模型概念股有8只，包括軟通動力、中科創達、易點天下、中文線上、廣聯達等。以7月17日收盤價與機構一致預測目標價相比，天下秀、廣聯達、易點天下、中科創達上漲空間逾50%。天下秀上漲空間75.53%，排在首位。"
     }
   ]
 }

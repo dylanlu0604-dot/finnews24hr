@@ -1,7 +1,71 @@
 {
   "date": "2026-07-27",
-  "count": 989,
+  "count": 996,
   "items": [
+    {
+      "id": "mkt:019fa1fe-f72e-7aab-8ea3-6e0b5f8210a7",
+      "time": "2026-07-27 13:14:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jefferies: Surge in token consumption to benefit Chinese AI labs】Jefferies analysts said in a research note that a global surge in token consumption is likely to benefit Chinese AI labs. The firm flagged material opportunities in coding, workspace applications and mid-to-long-form content. It said Baidu, Alibaba and Tencent, along with cloud providers Kingsoft Cloud and Kuaishou’s AI-video business, stand to gain from rising AI demand."
+    },
+    {
+      "id": "5009357",
+      "time": "2026-07-27 13:13:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "鋰電池電解液概念再度拉昇，日科化學20cm3天2板，孚日股份回封漲停，永太科技、泰和科技、海科新源、石大勝華、海辰藥業、富祥股份漲幅靠前。"
+    },
+    {
+      "id": "5009356",
+      "time": "2026-07-27 13:13:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【梅德韋傑夫諷刺英國新首相：小不列顛首相】據俄新社報道，當地時間7月26日，俄羅斯聯邦安全會議副主席梅德韋傑夫諷刺地將英國首相伯納姆稱為“小不列顛首相”。 他在社交平臺上寫道：“小不列顛新首相伯納姆宣稱無條件支援烏克蘭。當然，這沒什麼新鮮的。重要的是另一點：我們的任務——繼續盡一切努力，讓這座尚未沉沒的小島上的生活最大限度地難以忍受。這裡什麼都適用：經濟危機、社會劇變、清潔工罷工。什麼都可以。” 梅德韋傑夫補充說：“不過最好的還是‘波塞冬’。” 7月26日，俄羅斯總統普京表示，“波塞冬”核動力無人潛航器正處於最後準備階段，很快將最終就緒並開始戰備值班。 另據法新社報道，烏克蘭總統澤連斯基將於當地時間7月27日訪問英國。他將成為伯納姆就任後會見的首位外國領導人。 伯納姆的唐寧街辦公室26日晚間宣佈，伯納姆發誓將“繼續兩國之間牢不可破的紐帶”。（觀察者網）"
+    },
+    {
+      "id": "mkt:019fa1fd-fbd9-7aab-8ea3-64e782a51d89",
+      "time": "2026-07-27 13:13:24",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share tourism and hotel sector rallied in the afternoon; Huatian Hotel and Tongqinglou hit the daily limit, while Junting Hotel, Jinjiang Hotels, BTG Hotels and Jinling Hotel also rose."
+    },
+    {
+      "id": "5009355",
+      "time": "2026-07-27 13:12:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【陶氏公司第二季度淨銷售額同比增長20%】7月27日，陶氏公司釋出2026年第二季度財務報告，淨銷售額為121億美元，同比增長20%，所有運營板塊及地區均有增長。本地價格同比增長20%，主要由包裝與特種塑膠運營板塊帶動，各地區聚乙烯價格有所上漲。根據公認會計原則（GAAP）計算的淨利潤為8.02億美元。經營性息稅前利潤（Op. EBIT）為16億美元，同比增加17億美元，主要得益於價格上漲以及公司自主改善舉措的推動。"
+    },
+    {
+      "id": "5009354",
+      "time": "2026-07-27 13:12:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：中國AI實驗室料將受益於token消耗量激增】Jefferies分析師在一份研究報告中表示，全球token消耗量的激增料將使中國AI實驗室受益。Jefferies補充道，在編碼、工作空間場景以及中長篇內容方面存在重大機遇。該行表示，百度、阿里巴巴和騰訊，以及雲端計算服務提供商金山雲和快手的AI影片業務可靈，料將受益於不斷增長的AI需求。"
+    },
+    {
+      "id": "te:economy:569974",
+      "time": "2026-07-27 13:10:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Finnish Consumer Morale Holds Firm in July — Finland’s consumer confidence stood at -5.3 in July 2026, unchanged from the previous month and remaining well below the long-term average of -2.9. Still, it was the highest reading since February 2022, when the indicator was last in positive territory. Expectations for the national economy over the next 12 months improved slightly (8.1 vs 7.0 in June), while views on Finland's economy also became less pessimistic (-4.7 vs -6.3). Households were slightly more optimistic about their own finances (-2.2 vs -3.0), although assessments of the current economic situation remained weak. Consumers continued to view the timing for purchasing durable goods as highly unfavorable (-15.9 vs -13.0), with spending intentions declining further (-22.4 vs -18.8). Meanwhile, unemployment expectations remained pessimistic (-19.5 vs -18.7), while inflation expectations eased to 3.7% from 3.9% in June."
+    },
     {
       "id": "mkt:019fa1fb-54ba-7aab-8ea3-5c153cd2daf3",
       "time": "2026-07-27 13:10:30",
