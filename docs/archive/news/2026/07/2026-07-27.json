@@ -1,7 +1,75 @@
 {
   "date": "2026-07-27",
-  "count": 2566,
+  "count": 2573,
   "items": [
+    {
+      "id": "5010620",
+      "time": "2026-07-27 22:52:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【航運資料顯示霍爾木茲海峽通航船隻幾乎全部選擇伊朗指定航線】海事資料集團Marisks的追蹤資料顯示，過去三天內，幾乎所有透過霍爾木茲海峽的船隻均選擇了伊朗指定的航線，未有任何船隻使用美國方面倡導的、靠近阿曼海岸的南部替代航線。這一資料表明，儘管美伊雙方近期圍繞海峽通行規則展開激烈博弈，且美國多次敦促國際商船使用阿曼一側航道，但實際通航情況顯示，伊朗對海峽航線的管控已產生實質性影響。"
+    },
+    {
+      "id": "mkt:019fa40f-cd8a-7aab-8eb2-04790c2bf6fd",
+      "time": "2026-07-27 22:52:06",
+      "tags": [
+        "MKT News",
+        "IFX.DE",
+        "Impact bearish",
+        "WAF.DE"
+      ],
+      "text": "German semiconductor stocks slipped; Infineon shares down about 3%, Siltronic AG down about 4%."
+    },
+    {
+      "id": "mkt:019fa40e-818f-7aab-8eb1-f819b0a23b7d",
+      "time": "2026-07-27 22:50:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact mixed",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【CME lists single-stock futures for SpaceX and 54 U.S. names, raising access for shorts and leverage】CME today launched U.S. single-stock futures covering SpaceX and 54 other companies, offering 100-share standard contracts and 10-share micro contracts. Contracts are cash-settled, trade nearly round-the-clock and do not require borrowing stock, enabling long, short or hedged exposure without stock lend. For SpaceX this creates an additional pricing channel rather than changing fundamentals: futures will likely reflect pre-/post-market moves and news more quickly. SpaceX’s free float is limited and the share price has fallen from its peak; Ortex estimates roughly 56% of the free float is on loan and short interest is still rising. SpaceX is due to report its first post-IPO earnings on Aug. 4 and faces upcoming lock-up expiries. The launch’s market significance is primarily operational—easier entry for shorts, hedgers and leveraged funds—so spot–futures linkage and volatility around earnings and unlocks could be amplified in the near term."
+    },
+    {
+      "id": "5010619",
+      "time": "2026-07-27 22:50:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應急管理部研究部署當前安全生產和防汛防颱風工作】7月27日，應急管理部召開黨委會議、部務會議，研究部署當前安全生產和防汛防颱風工作。會議要求，緊盯颱風“紅霞”後續影響，強化監測預警，嚴防局地極端強降雨造成人員傷亡。要抓實“七下八上”防汛關鍵期各項防範工作，督促各地在高風險區預置力量、物資、裝備，遇到險情快速響應、有效處置。要紮實開展中央安全生產考核巡查三季度明查暗訪，督促各地各有關部門嚴格落實責任，抓好礦山、消防、危化、煙花爆竹、工貿等重點行業領域專項整治，強化風險研判和針對性部署，堅決穩控安全生產形勢。"
+    },
+    {
+      "id": "5010618",
+      "time": "2026-07-27 22:49:34",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美銀：成功捍衛日元需日本央行釋放鷹派訊號】美國銀行證券日本外匯及利率首席策略師山田周介（Shusuke Yamada）表示，要成功捍衛日元匯率，僅靠財務省的匯市干預遠遠不夠，日本央行必須釋放明確的鷹派政策訊號。他指出，隨著美元兌日元匯率逼近165關口，日本當局干預匯市的風險正顯著上升。山田周介在最新研報中分析稱，儘管7月份加息的機率極低，但日本央行決策層需透過前瞻指引，有效提振市場對9月份加息的預期。目前，利率互換市場定價顯示，9月份加息25個基點的機率僅為27%。該策略師強調，165是美元兌日元匯率下一個潛在的干預門檻。若放任匯率大幅突破該水平，將被市場解讀為日本當局缺乏捍衛日元的決心，進而可能引發加速拋售日元的連鎖反應。目前，美元兌日元匯率在163.70附近交投，已逼近上世紀80年代中期以來的歷史低位。此外，大規模匯市干預還可能引發市場對日本國債遭拋售的擔憂。山田周介指出，從貨幣外交的角度來看，任何實質性的外匯干預實際上都會增加日本央行進一步收緊貨幣政策的壓力。在政治層面，隨著日本首相高市早苗的支援率出現下滑，允許日元進一步貶值的政治代價正在攀升。山田周介總結認為，日本當局正接近一個必須實質性加強日元捍衛力度的臨界點。"
+    },
+    {
+      "id": "5010617",
+      "time": "2026-07-27 22:48:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國半導體板塊個股走低。"
+    },
+    {
+      "id": "5010616",
+      "time": "2026-07-27 22:48:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西中央銀行展期所有5萬份外匯掉期合約。"
+    },
     {
       "id": "mkt:019fa40c-5993-7aab-8eb1-f03f8e215f95",
       "time": "2026-07-27 22:48:20",
