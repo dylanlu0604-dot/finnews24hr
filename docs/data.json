@@ -1,7 +1,112 @@
 {
-  "updated": "2026-07-28 03:35:24",
-  "count": 17818,
+  "updated": "2026-07-28 03:39:14",
+  "count": 17824,
   "items": [
+    {
+      "id": "5010808",
+      "time": "2026-07-28 03:38:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本證券業協會將在公開意見徵求期結束後，最早於今年落實規則修訂。"
+    },
+    {
+      "id": "5010807",
+      "time": "2026-07-28 03:37:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本證券業協會：新的A級債券披露標準將取消剩餘期限要求。"
+    },
+    {
+      "id": "mkt:019fa515-3fa5-7aab-8eb6-8ff261bae2dd",
+      "time": "2026-07-28 03:37:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Yemen's incoming foreign minister said security preparations to protect Yemen's oil exports are underway."
+    },
+    {
+      "id": "5010806",
+      "time": "2026-07-28 03:37:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本證券業協會：目前披露要求適用於面值1億日元或以上、信用評級為AA級或更高的交易。"
+    },
+    {
+      "id": "mkt:019fa514-df6f-7aab-8eb6-836bfdd95b6d",
+      "time": "2026-07-28 03:37:16",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Yemen's incoming foreign minister said the Houthi movement is seeking to open direct flights from Iran to plug gaps in military support, personnel, funding and weapons."
+    },
+    {
+      "id": "5010805",
+      "time": "2026-07-28 03:37:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本證券業協會計劃將資訊披露範圍擴大至絕大多數公司債交易。"
+    },
+    {
+      "id": "mkt:019fa514-2ed9-7aab-8eb6-785962e17c2c",
+      "time": "2026-07-28 03:36:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's incoming foreign minister says Houthi forces and the Yemeni government are exchanging fire on front lines, but no offensive has been launched so far."
+    },
+    {
+      "id": "5010804",
+      "time": "2026-07-28 03:36:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：交通部長達菲已批准在美國本土生產微型代步小車。"
+    },
+    {
+      "id": "mkt:019fa513-ede1-7aab-8eb6-73cc8b29d0ca",
+      "time": "2026-07-28 03:36:14",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Yemen's incoming foreign minister said Houthi militants aim to replicate Iran's Strait of Hormuz model in the Bab el-Mandeb."
+    },
+    {
+      "id": "mkt:019fa513-8338-7aab-8eb6-68932f884921",
+      "time": "2026-07-28 03:35:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Yemen's incoming foreign minister said there have been no direct talks with the Houthi movement and that Oman has acted as an intermediary. He said the Houthis have become more emboldened by what he described as the international community's lack of a serious response to their attacks on shipping."
+    },
+    {
+      "id": "5010803",
+      "time": "2026-07-28 03:35:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國的汽油供應夠用一千年。"
+    },
     {
       "id": "5010802",
       "time": "2026-07-28 03:34:51",
@@ -163319,62 +163424,6 @@
         "MKT News"
       ],
       "text": "【Iran interior minister visits Pakistan to push trade targets and discuss regional tensions】Iran aims to raise bilateral trade with Pakistan from about $3 bln to $10 bln and to increase daily freight capacity at their shared border, Interior Minister Momeni said during a visit to Islamabad. Momeni met Pakistani officials to press implementation of agreements signed by the two leaders in June. His delegation included officials from the foreign, oil, industry, finance, agriculture and transport ministries. Talks will also cover a Pakistan-mediated US‑Iran memorandum of understanding and current regional tensions."
-    },
-    {
-      "id": "mkt:019f8108-665c-7aab-8e14-4ef6473fc77a",
-      "time": "2026-07-21 03:37:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【International oil prices rose on the 20th】NYMEX August WTI light sweet crude futures closed up $0.74 at $83.23 per barrel, +0.9%. ICE September Brent crude futures closed up $1.12 at $89.22 per barrel, +1.27%."
-    },
-    {
-      "id": "mkt:019f8108-404c-7aab-8e14-4259facac3b7",
-      "time": "2026-07-21 03:37:09",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "【Dollar index rises on 20th】The dollar index rose 0.19% to 100.957 at the New York close. EUR/USD 1.1415 (prev. 1.1436); GBP/USD 1.3436 (prev. 1.3454); USD/JPY 162.50 (prev. 162.45); USD/CHF 0.8100 (prev. 0.8075); USD/CAD 1.4059 (prev. 1.4011); USD/SEK 9.6856 (prev. 9.6497)."
-    },
-    {
-      "id": "4998437",
-      "time": "2026-07-21 03:36:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價20日上漲】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲74美分，收於每桶83.23美元，漲幅為0.9%；9月交貨的倫敦布倫特原油期貨價格上漲1.12美元，收於每桶89.22美元，漲幅為1.27%。"
-    },
-    {
-      "id": "mkt:019f8106-b56a-7aab-8e14-3ba69570c35b",
-      "time": "2026-07-21 03:35:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "The Israeli military said a pilot zone plan in southern Lebanon was launched on Monday, carried out in cooperation with the U.S. military and the Lebanese Armed Forces."
-    },
-    {
-      "id": "mkt:019f8106-a6e5-7aab-8e14-3186001e5e67",
-      "time": "2026-07-21 03:35:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Axios: US pursues both military and diplomatic pressure on Iran】Axios cites a US official saying President Trump is pressing Iran both militarily and diplomatically in potential ceasefire talks, aiming to make Iran pay for breaching a memorandum of understanding and for continuing \"terrorist acts\" in the Strait of Hormuz. The official said the US holds Iran responsible for recent US service-member deaths and that US strikes will continue until the president decides otherwise, though negotiations are ongoing."
     }
   ]
 }

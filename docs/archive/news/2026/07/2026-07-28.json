@@ -1,7 +1,112 @@
 {
   "date": "2026-07-28",
-  "count": 242,
+  "count": 253,
   "items": [
+    {
+      "id": "5010808",
+      "time": "2026-07-28 03:38:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本證券業協會將在公開意見徵求期結束後，最早於今年落實規則修訂。"
+    },
+    {
+      "id": "5010807",
+      "time": "2026-07-28 03:37:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本證券業協會：新的A級債券披露標準將取消剩餘期限要求。"
+    },
+    {
+      "id": "mkt:019fa515-3fa5-7aab-8eb6-8ff261bae2dd",
+      "time": "2026-07-28 03:37:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Yemen's incoming foreign minister said security preparations to protect Yemen's oil exports are underway."
+    },
+    {
+      "id": "5010806",
+      "time": "2026-07-28 03:37:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本證券業協會：目前披露要求適用於面值1億日元或以上、信用評級為AA級或更高的交易。"
+    },
+    {
+      "id": "mkt:019fa514-df6f-7aab-8eb6-836bfdd95b6d",
+      "time": "2026-07-28 03:37:16",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Yemen's incoming foreign minister said the Houthi movement is seeking to open direct flights from Iran to plug gaps in military support, personnel, funding and weapons."
+    },
+    {
+      "id": "5010805",
+      "time": "2026-07-28 03:37:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本證券業協會計劃將資訊披露範圍擴大至絕大多數公司債交易。"
+    },
+    {
+      "id": "mkt:019fa514-2ed9-7aab-8eb6-785962e17c2c",
+      "time": "2026-07-28 03:36:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's incoming foreign minister says Houthi forces and the Yemeni government are exchanging fire on front lines, but no offensive has been launched so far."
+    },
+    {
+      "id": "5010804",
+      "time": "2026-07-28 03:36:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：交通部長達菲已批准在美國本土生產微型代步小車。"
+    },
+    {
+      "id": "mkt:019fa513-ede1-7aab-8eb6-73cc8b29d0ca",
+      "time": "2026-07-28 03:36:14",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Yemen's incoming foreign minister said Houthi militants aim to replicate Iran's Strait of Hormuz model in the Bab el-Mandeb."
+    },
+    {
+      "id": "mkt:019fa513-8338-7aab-8eb6-68932f884921",
+      "time": "2026-07-28 03:35:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Yemen's incoming foreign minister said there have been no direct talks with the Houthi movement and that Oman has acted as an intermediary. He said the Houthis have become more emboldened by what he described as the international community's lack of a serious response to their attacks on shipping."
+    },
+    {
+      "id": "5010803",
+      "time": "2026-07-28 03:35:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國的汽油供應夠用一千年。"
+    },
     {
       "id": "5010802",
       "time": "2026-07-28 03:34:51",
