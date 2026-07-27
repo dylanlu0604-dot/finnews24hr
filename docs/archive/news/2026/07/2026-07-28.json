@@ -1,7 +1,17 @@
 {
   "date": "2026-07-28",
-  "count": 263,
+  "count": 264,
   "items": [
+    {
+      "id": "mkt:019fa521-90c5-7aab-8eb6-b0071b1f017c",
+      "time": "2026-07-28 03:51:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan Securities Dealers Association to expand corporate bond trade disclosures】Japan Securities Dealers Association plans to broaden daily public disclosure of corporate bond trades, which it posts on its website showing prior-day contract price, trade amount and coupon. Current rules require disclosure for trades with face value ≥¥100m (≈$610,700) and ratings of AA or higher. A-rated bonds are disclosed only if all three conditions are met: issuance size ≥¥30bn, non-subordinated, and remaining maturity <20 years. Under the proposed changes the issuance threshold would be cut to ¥10bn and the remaining-maturity requirement removed. The association will seek public comment and could implement the changes as early as this year."
+    },
     {
       "id": "5010814",
       "time": "2026-07-28 03:48:52",

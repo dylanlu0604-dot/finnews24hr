@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-28 03:50:53",
-  "count": 17825,
+  "updated": "2026-07-28 03:54:43",
+  "count": 17820,
   "items": [
+    {
+      "id": "mkt:019fa521-90c5-7aab-8eb6-b0071b1f017c",
+      "time": "2026-07-28 03:51:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan Securities Dealers Association to expand corporate bond trade disclosures】Japan Securities Dealers Association plans to broaden daily public disclosure of corporate bond trades, which it posts on its website showing prior-day contract price, trade amount and coupon. Current rules require disclosure for trades with face value ≥¥100m (≈$610,700) and ratings of AA or higher. A-rated bonds are disclosed only if all three conditions are met: issuance size ≥¥30bn, non-subordinated, and remaining maturity <20 years. Under the proposed changes the issuance threshold would be cut to ¥10bn and the remaining-maturity requirement removed. The association will seek public comment and could implement the changes as early as this year."
+    },
     {
       "id": "5010814",
       "time": "2026-07-28 03:48:52",
@@ -163378,60 +163388,6 @@
         "焦點"
       ],
       "text": "【納斯達克中國金龍指數收漲0.85%】1藥網漲6.34%，金山雲漲5.24%，中進醫療漲5.23%，網易有道漲4.88%，阿里巴巴漲4.71%。"
-    },
-    {
-      "id": "4998448",
-      "time": "2026-07-21 03:52:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：激勵計劃將要求企業提交“產業迴流計劃”。經批准後，相關企業可按相應額度進口原鋁，並享受降低後的關稅稅率，稅率相當於原本適用的《232條款》關稅稅率的一半。"
-    },
-    {
-      "id": "4998447",
-      "time": "2026-07-21 03:52:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "德州電力可靠性委員會（ERCOT）：隨著高空高壓系統盤踞本州，本週將迎來今年迄今為止最高氣溫。 預計電力需求處於中高位至高位區間，峰值負荷將介於 8.5 萬兆瓦至 9 萬兆瓦出頭區間。"
-    },
-    {
-      "id": "mkt:019f8116-1c95-7aab-8e14-7af9e51da835",
-      "time": "2026-07-21 03:52:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Explosions heard near Sirik, Iran; cause unclear, Fars News reports."
-    },
-    {
-      "id": "4998446",
-      "time": "2026-07-21 03:52:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗法爾斯通訊社訊息：錫裡克附近傳出爆炸聲，爆炸原因尚不明確。"
-    },
-    {
-      "id": "mkt:019f8115-44b6-7aab-8e14-70f0fe3487f3",
-      "time": "2026-07-21 03:51:22",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "White House said the Commerce Secretary will oversee and enforce all approved industrial reshoring plans. If a company fails to meet its commitments, the Commerce Secretary may suspend and revoke its tariff benefits, including retroactive cancellation."
-    },
-    {
-      "id": "mkt:019f8115-1907-7aab-8e14-6d3ffc1b19ab",
-      "time": "2026-07-21 03:51:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "White House says incentive program will require companies to submit industry reshoring plans; once approved, firms may import primary aluminum up to allocated quotas and pay a reduced tariff equal to 50% of the original Section 232 rate."
     }
   ]
 }
