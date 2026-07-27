@@ -1,7 +1,214 @@
 {
   "date": "2026-07-27",
-  "count": 356,
+  "count": 379,
   "items": [
+    {
+      "id": "5008929",
+      "time": "2026-07-27 08:49:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行發言人表示：行長瓦吉約因個人原因辭職。"
+    },
+    {
+      "id": "te:markets:569890",
+      "time": "2026-07-27 08:49:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Rise as Oil Prices Retreat — The Nikkei 225 Index rose 0.2% to above 64,700, while the broader Topix Index gained 0.6% to 4,035 on Monday, recovering some of the previous session's losses as oil prices fell sharply after the US held off on attacking Iran over the weekend, while Tehran also suspended its retaliatory operations. Japan remains heavily dependent on Middle Eastern oil imports, making its economy particularly sensitive to supply disruptions and swings in crude prices. On the domestic front, approval ratings for Prime Minister Sanae Takaichi slipped as the government's measures to ease inflation continued to fall short of household expectations. Among individual stocks, notable gains were seen from Mitsubishi UFJ (0.9%), SUMCO Corp (6%), Nintendo (4.1%), Toyota Motor (1.6%) and Fast Retailing (1%). Meanwhile, technology stock traded mixed following a tech selloff on Wall Street on Friday amid mounting concerns over massive AI spending."
+    },
+    {
+      "id": "5008928",
+      "time": "2026-07-27 08:48:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "全球領先的電子設計自動化（EDA）軟體和半導體IP供應商思瓦科（SILVACO）表示，將藉助英偉達人工智慧與加速計算技術，加快面向半導體設計與製造、基於物理定律構建的數字孿生技術開發。"
+    },
+    {
+      "id": "5008927",
+      "time": "2026-07-27 08:48:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少221.95億元】截至7月24日，上交所融資餘額報13506.44億元，較前一交易日減少79.98億元；深交所融資餘額報13076.07億元，較前一交易日減少141.97億元；兩市合計26582.51億元，較前一交易日減少221.95億元。"
+    },
+    {
+      "id": "mkt:019fa10a-f39b-7aab-8e9e-442b39f0cac0",
+      "time": "2026-07-27 08:47:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【China margin financing balances down CNY22.195 bln on July 24】As of July 24, margin financing balances on China’s stock exchanges totaled CNY2.658251 tln, down CNY22.195 bln from the previous trading day. Shanghai Stock Exchange: CNY1.350644 tln, down CNY7.998 bln; Shenzhen Stock Exchange: CNY1.307607 tln, down CNY14.197 bln."
+    },
+    {
+      "id": "mkt:019fa10a-abfd-7aab-8e9e-3c1b689f8d0e",
+      "time": "2026-07-27 08:47:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia Governor Perry Warjiyo has resigned."
+    },
+    {
+      "id": "5008926",
+      "time": "2026-07-27 08:46:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達擴充套件NVIDIA Agent工具包，新增NVIDIA PhysicsNeMo與CUDA-X庫，旨在變革全球工程、設計與建造方式。"
+    },
+    {
+      "id": "5008925",
+      "time": "2026-07-27 08:46:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼部長：總統已接受央行行長瓦吉約的辭職。"
+    },
+    {
+      "id": "mkt:019fa108-fb0d-7aab-8e9e-3783d8a2c716",
+      "time": "2026-07-27 08:45:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Prime Minister Takaichi said specific monetary policy measures are for the Bank of Japan to decide."
+    },
+    {
+      "id": "mkt:019fa108-f891-7aab-8e9e-2f4d32697cc3",
+      "time": "2026-07-27 08:45:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japanese Prime Minister Takaichi said boosting growth potential and competitiveness will strengthen market confidence in the yen."
+    },
+    {
+      "id": "mkt:019fa108-eb75-7aab-8e9e-27065e339106",
+      "time": "2026-07-27 08:45:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japanese Prime Minister Takaichi said exchange rates move on multiple factors, making it difficult to isolate the impact of any single factor."
+    },
+    {
+      "id": "5008924",
+      "time": "2026-07-27 08:45:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度尼西亞國務秘書部長：印尼央行行長佩裡·瓦吉約卸任。"
+    },
+    {
+      "id": "5008923",
+      "time": "2026-07-27 08:45:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本首相高市早苗：法律也要求日本央行與政府在經濟政策上緊密合作。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202607273821339443",
+      "time": "2026-07-27 08:45:10",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本首相高市早苗：具體的貨幣政策措施由日本央行決定】日本首相高市早苗表示，日本政府準備根據需要採取額外的及時措施，以減輕中東衝突對經濟的影響。匯率受多種因素驅動波動，很難界定單一因素對匯率的影響。具體的貨幣政策措施由日本央行決定。"
+    },
+    {
+      "id": "5008922",
+      "time": "2026-07-27 08:45:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本首相高市早苗：貨幣政策調整及具體貨幣政策手段應由日本央行決定。"
+    },
+    {
+      "id": "5008921",
+      "time": "2026-07-27 08:44:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗： 匯率受多種因素驅動波動，很難界定單一因素對匯率的影響。"
+    },
+    {
+      "id": "5008920",
+      "time": "2026-07-27 08:44:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：匯率由市場根據多種因素決定。"
+    },
+    {
+      "id": "5008919",
+      "time": "2026-07-27 08:44:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本首相高市早苗：具體的貨幣政策措施由日本央行決定。"
+    },
+    {
+      "id": "5008918",
+      "time": "2026-07-27 08:43:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【面對美國12個州集體訴訟，派拉蒙推遲收購華納兄弟】作為好萊塢近年最重要的交易之一，派拉蒙天舞公司與華納兄弟探索公司的併購交易近日又遭遇新變故——面對美國12個州的集體訴訟，派拉蒙表示同意推遲交易到反壟斷審判之後。 本月13日，加利福尼亞州等美國12個州向加州北區聯邦地區法院提起訴訟，要求阻止派拉蒙與華納兄弟之間高達約1110億美元的併購。反對者認為，這起交易如果完成，將減少有線電視、影院市場等領域的競爭。加州總檢察長羅布·邦塔表示，這兩家娛樂巨頭的合併將削弱美國影視行業的合理競爭，並損害消費者利益。紐約州總檢察長萊蒂西亞·詹姆斯認為，阻止這場合並是維護法律和保護影視行業的“關鍵性勝利”。 面對來自多個州的司法壓力，派拉蒙選擇妥協。24日，該公司宣佈與州檢察長聯盟達成協議，將其與華納兄弟的合併推遲到反壟斷審判之後。雖然目前審判日期尚未確定，但根據協議，預計整個合併流程至少會擱置數個月。（環球網）"
+    },
+    {
+      "id": "mkt:019fa106-e777-7aab-8e9e-1a8264a5d75d",
+      "time": "2026-07-27 08:43:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister TAKAICHI said the government stands ready to take additional timely measures as needed to mitigate the economic impact of the Middle East conflict."
+    },
+    {
+      "id": "5008917",
+      "time": "2026-07-27 08:43:29",
+      "tags": [
+        "公司",
+        "央行"
+      ],
+      "text": "【本週中國央行公開市場七天期逆回購到期規模10205億元】其中，週一到週五七天期逆回購到期規模分別為3985億、2530億、760億、2040億和890億元，週一另有4000億元MLF到期。央行上週五公告稱，將在7月29日至7月31日每日開展6000億元隔夜逆回購操作，8月3日開展3000億元隔夜逆回購操作。"
+    },
+    {
+      "id": "5008916",
+      "time": "2026-07-27 08:42:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市：政府準備根據需要進一步及時採取行動，以緩衝中東衝突對經濟的衝擊。"
+    },
+    {
+      "id": "5008915",
+      "time": "2026-07-27 08:42:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果公司稱多項服務出現故障 包括App Store】蘋果公司系統狀態頁面顯示，包括App Store在內的多項服務出現故障。受影響的其他服務包括Apple Music、Apple TV、Apple Music訂閱服務、AppleCare以及Apple School Manager。使用者在部分平臺上可能遇到服務響應緩慢或無法使用的情況。蘋果表示，App Store、Apple Music和Apple TV正在進行例行維護，服務可能暫時不可用。"
+    },
     {
       "id": "5008914",
       "time": "2026-07-27 08:40:51",
