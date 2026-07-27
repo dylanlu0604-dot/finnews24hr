@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-28 06:43:26",
-  "count": 17823,
+  "updated": "2026-07-28 06:47:10",
+  "count": 17819,
   "items": [
+    {
+      "id": "mkt:019fa5c1-2130-7aab-8eb7-e038f47e855d",
+      "time": "2026-07-28 06:45:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pentagon says $400 mln in Congress‑authorised Ukraine aid will be paid out by FY2029, letter shows】The Pentagon told lawmakers in May that $400 mln in Congress‑authorised aid for Ukraine will be paid on a multi‑year schedule, with obligations beginning in FY2026 and full delivery not expected until the fiscal year ending Sept. 30, 2029, a person familiar with the matter said. Two months after the letter the funds remain unobligated and uncontracted, drawing criticism from Democrats and some Republicans. Sources said lawmakers are frustrated at the slow pace as Ukraine faces weapons shortfalls amid ongoing Russian missile strikes. Ukrainian President Volodymyr Zelenskiy is expected to meet President Trump on Tuesday to press for air‑defence capabilities and finalise a US drone agreement, then to meet the full Senate."
+    },
+    {
+      "id": "te:markets:570191",
+      "time": "2026-07-28 06:45:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Depreciates by 2.15% — Top crypto losers are Ether (-2.15%), Bitcoin (-1.76%) and Binance (-1.07%)."
+    },
     {
       "id": "te:markets:570190",
       "time": "2026-07-28 06:40:12",
@@ -163362,63 +163381,6 @@
         "MKT News"
       ],
       "text": "【S.Korea ruling party urges FSC to tighten oversight of single-stock leveraged ETFs, consider further measures】On the 20th the ruling Democratic Party of Korea urged the Financial Services Commission to step up monitoring of single-stock leveraged ETFs and to prepare additional remedial measures if necessary. The request followed a party-government briefing at the National Assembly where FSC Chair Lee Eok-won reviewed recently announced steps; MPs called for intensified market surveillance and ongoing situational assessment."
-    },
-    {
-      "id": "4998544",
-      "time": "2026-07-21 06:45:13",
-      "tags": [
-        "資料"
-      ],
-      "text": "紐西蘭第二季度CPI季率 1.5%，預期1.4%，前值0.90%。\n紐西蘭第二季度CPI年率 4.1%，預期4%，前值3.10%。"
-    },
-    {
-      "id": "mkt:019f81b4-5d4f-7aab-8e15-e42ef335ce74",
-      "time": "2026-07-21 06:45:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand Q2 CPI YoY 4.1% (expected 4.0%; prior 3.1%)."
-    },
-    {
-      "id": "mkt:019f81b4-5a5d-7aab-8e15-d9d69b4fdadd",
-      "time": "2026-07-21 06:45:08",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "New Zealand Q2 CPI q/q 1.5% (consensus 1.4%; prior 0.9%)."
-    },
-    {
-      "id": "te:markets:568322",
-      "time": "2026-07-21 06:45:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Rises by 1.20% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 1.20% increase."
-    },
-    {
-      "id": "mkt:019f81b4-3ce2-7aab-8e15-d580f1788e8e",
-      "time": "2026-07-21 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | CPI (YoY) (Q2) | actual 4.1% | consensus 4% | previous 3.10%"
-    },
-    {
-      "id": "mkt:019f81b4-3cda-7aab-8e15-ca82e37cdef7",
-      "time": "2026-07-21 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | CPI (QoQ) (Q2) | actual 1.5% | consensus 1.4% | previous 0.90%"
     }
   ]
 }

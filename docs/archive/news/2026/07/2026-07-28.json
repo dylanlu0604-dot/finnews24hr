@@ -1,7 +1,26 @@
 {
   "date": "2026-07-28",
-  "count": 412,
+  "count": 414,
   "items": [
+    {
+      "id": "mkt:019fa5c1-2130-7aab-8eb7-e038f47e855d",
+      "time": "2026-07-28 06:45:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pentagon says $400 mln in Congress‑authorised Ukraine aid will be paid out by FY2029, letter shows】The Pentagon told lawmakers in May that $400 mln in Congress‑authorised aid for Ukraine will be paid on a multi‑year schedule, with obligations beginning in FY2026 and full delivery not expected until the fiscal year ending Sept. 30, 2029, a person familiar with the matter said. Two months after the letter the funds remain unobligated and uncontracted, drawing criticism from Democrats and some Republicans. Sources said lawmakers are frustrated at the slow pace as Ukraine faces weapons shortfalls amid ongoing Russian missile strikes. Ukrainian President Volodymyr Zelenskiy is expected to meet President Trump on Tuesday to press for air‑defence capabilities and finalise a US drone agreement, then to meet the full Senate."
+    },
+    {
+      "id": "te:markets:570191",
+      "time": "2026-07-28 06:45:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Depreciates by 2.15% — Top crypto losers are Ether (-2.15%), Bitcoin (-1.76%) and Binance (-1.07%)."
+    },
     {
       "id": "te:markets:570190",
       "time": "2026-07-28 06:40:12",
