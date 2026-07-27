@@ -1,7 +1,74 @@
 {
   "date": "2026-07-27",
-  "count": 2552,
+  "count": 2559,
   "items": [
+    {
+      "id": "mkt:019fa408-9e05-7aab-8eb1-eb2f284a5049",
+      "time": "2026-07-27 22:44:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian lawmaker Hazrian said from a legal perspective Oman cannot open the Strait of Hormuz without coordinating with Iran."
+    },
+    {
+      "id": "mkt:019fa408-1dd8-7aab-8eb1-e37efc1c148f",
+      "time": "2026-07-27 22:43:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.AS",
+        "Impact bearish",
+        "BESI.AS"
+      ],
+      "text": "Amsterdam-listed ASML and BE Semiconductor (Besi) were automatically suspended after shares fell about 8.0%–8.7%."
+    },
+    {
+      "id": "5010610",
+      "time": "2026-07-27 22:43:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利普睿司曼(Prysmian)股價下跌4.49%後自動停牌。"
+    },
+    {
+      "id": "5010609",
+      "time": "2026-07-27 22:43:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【倫丁礦業：智利礦區在風暴後重啟或需2-3周】倫丁礦業公司（Lundin Mining Corp.）表示，在嚴重風暴損壞基礎設施後，其位於智利的關鍵銅礦之一可能需要大約兩到三週的時間才能恢復運營。這家總部位於加拿大溫哥華的公司週一在一份宣告中表示，上週的強降雨和降雪損壞了為倫丁礦業Caserones銅礦供電的兩座輸電塔，該礦自7月18日以來一直處於斷電狀態。目前，公司團隊已動員起來修復受損設施，同時進出礦區的道路正在逐步恢復通行。"
+    },
+    {
+      "id": "5010608",
+      "time": "2026-07-27 22:42:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "阿姆斯特丹上市的阿斯麥和BESI股價在下跌8%至8.7%後被自動暫停交易。"
+    },
+    {
+      "id": "5010607",
+      "time": "2026-07-27 22:41:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議員：阿曼無權單方面決定霍爾木茲海峽通航】當地時間7月27日，伊朗議會國家安全和外交政策委員會委員胡茲裡安（Khazarian）發表宣告，從國際法與歷史條約角度強調，阿曼在未經伊朗協調的情況下，無權單方面定義和執行霍爾木茲海峽的船舶通行規則。胡茲裡安指出，儘管伊朗與阿曼在1974年已根據等分線原則劃定了海底大陸架邊界，但兩國寬度不足24海里的領海水域至今尚未完成劃界。這意味著，若該水域達到24海里寬度，將分別構成伊朗12海里領海與阿曼12海里領海，但在當前未劃界狀態下，任何單方面行動均缺乏法理基礎。他進一步援引歷史檔案說明，兩國於1974年3月7日在阿曼蘇丹卡布斯訪德黑蘭期間發表聯合宣告，明確以“安全合作”取代“海域劃界”，在霍爾木茲海峽實行共同管轄。這一安排實質上確立了兩國在該海峽的“共同使用權”，任何涉及海峽通航的重大決定均需雙方協商一致。"
+    },
+    {
+      "id": "mkt:019fa405-395a-7aab-8eb1-db25db6a68f7",
+      "time": "2026-07-27 22:40:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Russian Defence Ministry said Russian forces also struck the ports of Chornomorsk and Mykolaiv in Ukraine."
+    },
     {
       "id": "5010606",
       "time": "2026-07-27 22:40:06",
