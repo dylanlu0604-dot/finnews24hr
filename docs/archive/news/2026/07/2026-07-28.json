@@ -1,7 +1,58 @@
 {
   "date": "2026-07-28",
-  "count": 332,
+  "count": 338,
   "items": [
+    {
+      "id": "5010860",
+      "time": "2026-07-28 05:00:10",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國7月消費者信心指數升至106.8。"
+    },
+    {
+      "id": "mkt:019fa560-c2b3-7aab-8eb7-5836d099722f",
+      "time": "2026-07-28 05:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea July consumer confidence index 106.8, previous 106.6."
+    },
+    {
+      "id": "mkt:019fa560-9d79-7aab-8eb7-577f2f94613e",
+      "time": "2026-07-28 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Consumer Confidence Index (Jul) | actual 106.8 | previous 106.6"
+    },
+    {
+      "id": "5010859",
+      "time": "2026-07-28 04:59:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們將使用伊朗的錢來賠償它造成的損害，這看起來不錯吧？不是什麼壞事，對吧？我們應該為此得到獎勵。"
+    },
+    {
+      "id": "5010858",
+      "time": "2026-07-28 04:57:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基將於週二晚間與美國參議院全體議員會面。"
+    },
+    {
+      "id": "mkt:019fa55e-0169-7aab-8eb7-4977879858ea",
+      "time": "2026-07-28 04:57:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy will meet with the full U.S. Senate on Tuesday evening local time, two Senate aides said."
+    },
     {
       "id": "mkt:019fa55b-ab6a-7aab-8eb7-41b401294d54",
       "time": "2026-07-28 04:54:35",

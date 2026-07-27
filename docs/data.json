@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-28 04:57:30",
-  "count": 17839,
+  "updated": "2026-07-28 05:01:16",
+  "count": 17837,
   "items": [
+    {
+      "id": "5010860",
+      "time": "2026-07-28 05:00:10",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國7月消費者信心指數升至106.8。"
+    },
+    {
+      "id": "mkt:019fa560-c2b3-7aab-8eb7-5836d099722f",
+      "time": "2026-07-28 05:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea July consumer confidence index 106.8, previous 106.6."
+    },
+    {
+      "id": "mkt:019fa560-9d79-7aab-8eb7-577f2f94613e",
+      "time": "2026-07-28 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Consumer Confidence Index (Jul) | actual 106.8 | previous 106.6"
+    },
+    {
+      "id": "5010859",
+      "time": "2026-07-28 04:59:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們將使用伊朗的錢來賠償它造成的損害，這看起來不錯吧？不是什麼壞事，對吧？我們應該為此得到獎勵。"
+    },
+    {
+      "id": "5010858",
+      "time": "2026-07-28 04:57:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基將於週二晚間與美國參議院全體議員會面。"
+    },
+    {
+      "id": "mkt:019fa55e-0169-7aab-8eb7-4977879858ea",
+      "time": "2026-07-28 04:57:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy will meet with the full U.S. Senate on Tuesday evening local time, two Senate aides said."
+    },
     {
       "id": "mkt:019fa55b-ab6a-7aab-8eb7-41b401294d54",
       "time": "2026-07-28 04:54:35",
@@ -163509,83 +163560,6 @@
         "國際"
       ],
       "text": "【美聯邦法官臨時叫停派拉蒙天舞收購華納兄弟 】美國一名聯邦法官20日釋出臨時限制令，暫停派拉蒙天舞公司對華納兄弟探索公司的收購。該臨時限制令有效期為14天，由加利福尼亞州北區聯邦地區法院法官阿拉塞利·馬丁內斯-奧爾金髮布。法官裁定，這項價值預計高達1110億美元的重磅收購是否違反反壟斷法存在“嚴重疑問”。民主黨籍的加州總檢察長羅布·邦塔在得知限制令後表示，這是“首個關鍵勝利”，“將有助於確保這項超級併購永遠不會成為現實”。（新華社）"
-    },
-    {
-      "id": "mkt:019f8155-2990-7aab-8e15-1ab7ffd54457",
-      "time": "2026-07-21 05:01:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "White House says the U.S. will impose additional tariffs on certain Canadian goods to offset discriminatory measures by Canada in the alcohol trade against U.S. businesses."
-    },
-    {
-      "id": "4998480",
-      "time": "2026-07-21 05:01:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：美國將加徵額外關稅，以抵消加拿大在酒類貿易領域對美國商業實施的歧視性舉措。"
-    },
-    {
-      "id": "mkt:019f8154-bfcc-7aab-8e15-12bf412ceb7b",
-      "time": "2026-07-21 05:00:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Politico reports FBI Director Kash Patel is planning a visit to Russia."
-    },
-    {
-      "id": "4998479",
-      "time": "2026-07-21 05:00:34",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國擬對多款加拿大商品加徵 50% 關稅，含《美墨加協定》項下相關產品。"
-    },
-    {
-      "id": "4998478",
-      "time": "2026-07-21 05:00:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗邁赫爾通訊社：葉門胡塞武裝表示，反艦導彈已準備就緒，將打擊任何突破封鎖的船隻。"
-    },
-    {
-      "id": "mkt:019f8153-c2c6-7aab-8e15-09042b587226",
-      "time": "2026-07-21 04:59:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Market sources: ANTHROPIC has reached a $1.5 billion copyright settlement with a group of authors to end a class-action lawsuit alleging it trained its AI on millions of pirated books."
-    },
-    {
-      "id": "mkt:019f8153-31ce-7aab-8e15-00eb1e2dbfb3",
-      "time": "2026-07-21 04:59:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【Big five insurers pledge firm support for capital markets】PICC, China Life Group, Ping An, CPIC and New China Life said they will support capital-market development and increase investor returns. Their combined invested assets exceeded 20 trillion yuan at end-2025. Under policy guidance to channel more long-term funds into markets, the five materially raised secondary-market equity allocations. Aggregate 2025 dividends (interim and final) reached a record 102.39 billion yuan, up 12.8% YoY. Listed insurers said they will aim to keep dividend distributions continuous and growing despite recent net-profit volatility."
-    },
-    {
-      "id": "4998477",
-      "time": "2026-07-21 04:58:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【五大險資巨頭集體發聲！堅定支援資本市場發展】7月20日，中國人保、中國人壽集團、中國平安、中國太保、新華保險等萬億級保險機構集體發聲，堅定支援資本市場發展，積極回報投資者。截至2025年末，這五大保險巨頭合計投資資產超20萬億元，在加大中長期資金入市力度的政策指引下，保險巨頭二級市場權益投資比例均顯著提升。據統計，A股五大險企即中國平安、中國人壽、中國人保、中國太保、新華保險，2025年分紅（含中期和末期分紅）創歷史新高，首次突破千億元，達到1023.94億元，同比增長12.8%。在近年來淨利潤波動加大的情況下，上市險企力爭保持分紅派息的連續性和穩定增長，以更加確定的分紅積極回報投資者。（證券時報）"
     }
   ]
 }
