@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-28 00:18:04",
-  "count": 17735,
+  "updated": "2026-07-28 00:22:01",
+  "count": 17740,
   "items": [
+    {
+      "id": "mkt:019fa460-9f0e-7aab-8eb3-2827e90ad64a",
+      "time": "2026-07-28 00:20:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Lebanese presidency: President Michel Aoun strongly condemned an attempted drone attack on Saudi Arabia's oil facilities and said Lebanon supports Saudi Arabia in responding to any actions that threaten its security and sovereignty."
+    },
+    {
+      "id": "5010683",
+      "time": "2026-07-28 00:20:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總統府宣告：總統奧恩強烈譴責針對沙烏地阿拉伯石油設施的無人機襲擊企圖。總統認為此類襲擊侵犯沙特的安全與穩定，同時威脅地區安全及各國人民利益。 奧恩總統申明，黎巴嫩將與沙烏地阿拉伯站在一起，共同應對一切損害沙特安全與主權的行徑。黎巴嫩再次呼籲各國尊重國家主權，杜絕任何可能激化地區緊張局勢的行為，優先採取對話與和平解決方案，維護地區安全穩定。"
+    },
+    {
+      "id": "mkt:019fa460-62c7-7aab-8eb3-22673930da04",
+      "time": "2026-07-28 00:20:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US Central Command says 17 merchant vessels forced to divert since resuming maritime blockade of Iran】On July 27 local time, US Central Command said that since resuming a maritime blockade of Iran it has forced 17 merchant vessels to change course, disabled two vessels and boarded and inspected two others."
+    },
+    {
+      "id": "5010682",
+      "time": "2026-07-28 00:19:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱對伊朗海上封鎖期間已迫使17艘商船改道】當地時間7月27日，美軍中央司令部表示，自恢復對伊朗的海上封鎖以來，美軍已迫使17艘商船改變航向，使2艘商船喪失航行能力，並登臨檢查了2艘商船。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fa45f-583f-7aab-8eb3-1be860dabf04",
+      "time": "2026-07-28 00:18:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oman's foreign ministry condemned and strongly opposed drone attacks targeting Saudi Arabia, saying it will support any measures Saudi Arabia takes to safeguard its sovereignty, security and territorial integrity."
+    },
+    {
+      "id": "5010681",
+      "time": "2026-07-28 00:18:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：軟銀有望很快拿下 SP.LINKS 的優先競標方資格。"
+    },
     {
       "id": "5010680",
       "time": "2026-07-28 00:17:14",
@@ -162538,14 +162592,6 @@
         "MKT News"
       ],
       "text": "Former UK defence secretary John Healey arrived at 10 Downing Street and is expected to be appointed to a cabinet post."
-    },
-    {
-      "id": "4998350",
-      "time": "2026-07-21 00:19:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "雀巢計劃至2028年向巴西工廠投資5.4億雷亞爾（合1億美元）。"
     }
   ]
 }
