@@ -1,7 +1,172 @@
 {
   "date": "2026-07-27",
-  "count": 2515,
+  "count": 2531,
   "items": [
+    {
+      "id": "mkt:019fa3fd-cbc0-7aab-8eb1-742e1211d84c",
+      "time": "2026-07-27 22:32:26",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "US Dallas Fed manufacturing production index (July) 10.1, prior 4.1."
+    },
+    {
+      "id": "mkt:019fa3fd-a58b-7aab-8eb1-6ba38d3e08f5",
+      "time": "2026-07-27 22:32:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed Production Index (Jul) | actual 10.1 | previous 4.1"
+    },
+    {
+      "id": "5010599",
+      "time": "2026-07-27 22:32:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "加元兌美元匯率觸及近兩週低點，1美元兌換1.4115加元。"
+    },
+    {
+      "id": "5010598",
+      "time": "2026-07-27 22:31:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數下跌4%。"
+    },
+    {
+      "id": "mkt:019fa3fc-c629-7aab-8eb1-6628e04f914f",
+      "time": "2026-07-27 22:31:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "U.S. Dallas Fed business activity index for July rose to 1.3, the highest reading since January 2025."
+    },
+    {
+      "id": "mkt:019fa3fc-9bc8-7aab-8eb1-5f897ee48d22",
+      "time": "2026-07-27 22:31:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) stock extended losses to 5%."
+    },
+    {
+      "id": "5010597",
+      "time": "2026-07-27 22:30:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "達拉斯聯儲7月德克薩斯州產出指數為10.1，6月該數值為4.1。"
+    },
+    {
+      "id": "mkt:019fa3fc-27c7-7aab-8eb1-51408505196b",
+      "time": "2026-07-27 22:30:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Altman to meet Trump administration officials in Washington this week to preview new OpenAI models】CNBC reports OpenAI founder Altman will meet senior Trump administration officials, lawmakers and economists in Washington this week to preview capabilities of a forthcoming suite of AI models. Sources say he is expected to field policymakers' questions on cybersecurity and OpenAI's stance on open-weight models, and will likely address an \"unprecedented cybersecurity incident\" the company disclosed earlier this month that rattled researchers and executives across the tech sector."
+    },
+    {
+      "id": "mkt:019fa3fc-19b8-7aab-8eb1-4879f59029b6",
+      "time": "2026-07-27 22:30:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "U.S. Dallas Fed business activity index for July 1.3, prior 0."
+    },
+    {
+      "id": "5010596",
+      "time": "2026-07-27 22:30:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國7月達拉斯聯儲商業活動指數 1.3，前值0。"
+    },
+    {
+      "id": "mkt:019fa3fb-f444-7aab-8eb1-412dc5161c7e",
+      "time": "2026-07-27 22:30:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed Business Activity Index (Jul) | actual 1.3 | previous 0"
+    },
+    {
+      "id": "5010595",
+      "time": "2026-07-27 22:30:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數轉跌；納斯達克100指數下跌0.7%。"
+    },
+    {
+      "id": "te:markets:570133",
+      "time": "2026-07-27 22:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Bristol-Myers Squibb Stock Price Hits 16-month High — Bristol-Myers Squibb shares increased to 63.24 USD, the highest since March 2025. Over the past 4 weeks, Bristol-Myers Squibb gained 7.92%, and in the last 12 months, it increased 33.02%."
+    },
+    {
+      "id": "5010594",
+      "time": "2026-07-27 22:29:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股儲存概念跌幅持續擴大】美股儲存概念板塊回吐盤初漲幅，跌幅持續擴大，閃迪(SNDK.O)跌超11%，SK海力士(SKHY.O)跌超7%，美光科技(MU.O)跌超5%。"
+    },
+    {
+      "id": "mkt:019fa3fa-bd6e-7aab-8eb1-38115b62cae3",
+      "time": "2026-07-27 22:29:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SNDK.O",
+        "Impact bearish",
+        "SKHY.O",
+        "MU.O"
+      ],
+      "text": "【US memory-storage stocks extend losses】US memory-storage sector has surrendered early gains and the selloff is widening: SanDisk (SNDK.O) down more than 11%, SK Hynix (SKHY.O) down more than 7%, Micron Technology (MU.O) down more than 5%."
+    },
+    {
+      "id": "5010593",
+      "time": "2026-07-27 22:29:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【亞馬遜申請部署5000顆衛星網路 進軍手機直連市場加劇與SpaceX競爭】亞馬遜公司已正式向美國聯邦通訊委員會（FCC）提交申請，計劃發射一個由5000顆衛星組成的“直連裝置”網路，旨在從太空直接向智慧手機等移動終端提供通訊服務，從而進一步加劇其與SpaceX在衛星網際網路領域的競爭。根據亞馬遜提交的申請檔案，若獲得監管機構批准，該低地球軌道網路將實現全球覆蓋，能夠在傳統地面訊號塔無法觸及的偏遠地區，為智慧手機及其他移動裝置提供訊息傳遞、資料傳輸及緊急救援等關鍵服務。此舉被視為亞馬遜在幾個月前公佈擬以116億美元收購衛星公司Globalstar Inc.後的又一重要戰略動作。該收購交易一旦完成，將使亞馬遜獲得能夠直接向手機傳輸資料的關鍵頻譜使用權。在商業合作方面，亞馬遜表示計劃繼續尋求與傳統電信運營商的結盟。目前，亞馬遜已與沃達豐集團和DirecTV等公司建立合作伙伴關係，允許其向客戶提供基於衛星的服務。此外，亞馬遜旗下的Amazon Leo網路已與蘋果公司達成協議，將為iPhone和Apple Watch提供衛星通訊服務。這一佈局直接對標SpaceX的星鏈（Starlink）計劃。SpaceX此前已與T-Mobile US Inc.達成合作，而同樣致力於構建直連裝置網路的AST SpaceMobile公司也已與威瑞森通訊（Verizon）和美國電話電報公司（AT&T）簽署了相關協議。"
+    },
     {
       "id": "5010592",
       "time": "2026-07-27 22:28:25",
