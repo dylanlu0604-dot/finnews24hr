@@ -1,7 +1,132 @@
 {
   "date": "2026-07-28",
-  "count": 47,
+  "count": 60,
   "items": [
+    {
+      "id": "5010711",
+      "time": "2026-07-28 00:36:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：Project Perception將於 8 月 3 日開啟公開預覽版。"
+    },
+    {
+      "id": "5010710",
+      "time": "2026-07-28 00:35:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：若是沒有美國，以色列撐不下去。"
+    },
+    {
+      "id": "mkt:019fa46e-ae4c-7aab-8eb3-dbce28771381",
+      "time": "2026-07-28 00:35:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump: Israel could not survive without the United States."
+    },
+    {
+      "id": "5010709",
+      "time": "2026-07-28 00:35:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：土耳其一直是不錯的盟友，沒人能對我的軍售指手畫腳。"
+    },
+    {
+      "id": "mkt:019fa46e-5cc5-7aab-8eb3-d797a63cef42",
+      "time": "2026-07-28 00:35:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. President Trump said the Fed should ensure U.S. interest rates are the lowest in the world."
+    },
+    {
+      "id": "mkt:019fa46e-35b5-7aab-8eb3-cfc6ce189347",
+      "time": "2026-07-28 00:35:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "President Trump said Federal Reserve Board members are \"political\"."
+    },
+    {
+      "id": "5010708",
+      "time": "2026-07-28 00:35:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及內塔尼亞胡與土耳其 F-35 戰機事宜：土耳其一直是可靠盟友。"
+    },
+    {
+      "id": "mkt:019fa46d-cf73-7aab-8eb3-c2828792d433",
+      "time": "2026-07-28 00:34:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Trump said Fed Chair Kevin Warsh must address problems at the Fed's policy committee and that interest rates should be cut."
+    },
+    {
+      "id": "5010707",
+      "time": "2026-07-28 00:34:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普：美聯儲理事會成員都帶有政治傾向。"
+    },
+    {
+      "id": "5010706",
+      "time": "2026-07-28 00:34:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "報道：英偉達將向ilya Sutskever的初創公司Safe Superintelligence Inc.投資50億美元，聯合宣告顯示，後者將獲得英偉達下一代Vera Rubin平臺。"
+    },
+    {
+      "id": "5010705",
+      "time": "2026-07-28 00:33:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們應當擁有全球最低的利率。"
+    },
+    {
+      "id": "5010704",
+      "time": "2026-07-28 00:33:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普：沃什必須與美聯儲理事會協商行事。"
+    },
+    {
+      "id": "5010703",
+      "time": "2026-07-28 00:33:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普談及美聯儲：應當下調利率。"
+    },
     {
       "id": "mkt:019fa46c-58f1-7aab-8eb3-bcb8ce50abfb",
       "time": "2026-07-28 00:33:11",
