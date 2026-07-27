@@ -1,7 +1,62 @@
 {
   "date": "2026-07-28",
-  "count": 163,
+  "count": 169,
   "items": [
+    {
+      "id": "5010758",
+      "time": "2026-07-28 02:11:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝商所全天候黃金期貨上線首週末，交易商交易需求十分旺盛。"
+    },
+    {
+      "id": "5010757",
+      "time": "2026-07-28 02:09:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌5%，現報536.70元。"
+    },
+    {
+      "id": "5010756",
+      "time": "2026-07-28 02:09:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Punchbowl ：多名美國參議員受邀於週二與澤連斯基舉行會談。"
+    },
+    {
+      "id": "mkt:019fa4c4-c000-7aab-8eb5-9c340d6dc740",
+      "time": "2026-07-28 02:09:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Haiti's electoral council sets new presidential election dates: first round on Dec. 13 (local time); runoff on Feb. 21."
+    },
+    {
+      "id": "mkt:019fa4c4-a216-7aab-8eb5-93de9f5bf6be",
+      "time": "2026-07-28 02:09:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "VERDEK said U.S. government agencies can now access Tesla V4 Superchargers under a contract the company signed with the U.S. General Services Administration (GSA)."
+    },
+    {
+      "id": "5010755",
+      "time": "2026-07-28 02:09:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：特朗普將與澤連斯基商討俄烏衝突事宜。"
+    },
     {
       "id": "mkt:019fa4c1-646c-7aab-8eb5-8b2b9c508a4a",
       "time": "2026-07-28 02:06:05",

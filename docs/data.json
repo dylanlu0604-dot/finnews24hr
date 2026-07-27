@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-28 02:09:24",
-  "count": 17796,
+  "updated": "2026-07-28 02:13:11",
+  "count": 17800,
   "items": [
+    {
+      "id": "5010758",
+      "time": "2026-07-28 02:11:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝商所全天候黃金期貨上線首週末，交易商交易需求十分旺盛。"
+    },
+    {
+      "id": "5010757",
+      "time": "2026-07-28 02:09:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌5%，現報536.70元。"
+    },
+    {
+      "id": "5010756",
+      "time": "2026-07-28 02:09:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Punchbowl ：多名美國參議員受邀於週二與澤連斯基舉行會談。"
+    },
+    {
+      "id": "mkt:019fa4c4-c000-7aab-8eb5-9c340d6dc740",
+      "time": "2026-07-28 02:09:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Haiti's electoral council sets new presidential election dates: first round on Dec. 13 (local time); runoff on Feb. 21."
+    },
+    {
+      "id": "mkt:019fa4c4-a216-7aab-8eb5-93de9f5bf6be",
+      "time": "2026-07-28 02:09:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "VERDEK said U.S. government agencies can now access Tesla V4 Superchargers under a contract the company signed with the U.S. General Services Administration (GSA)."
+    },
+    {
+      "id": "5010755",
+      "time": "2026-07-28 02:09:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：特朗普將與澤連斯基商討俄烏衝突事宜。"
+    },
     {
       "id": "mkt:019fa4c1-646c-7aab-8eb5-8b2b9c508a4a",
       "time": "2026-07-28 02:06:05",
@@ -163180,29 +163235,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Methanol Surges by 6.57% — Top commodity gainers are Methanol (6.57%), Germany Natural Gas THE (2.14%), Natural Gas UK (1.59%), Brent Crude Oil (0.73%) and Crude Oil WTI (0.17%). Biggest losers are Natural gas (-1.95%), Gasoline (-0.84%) and Propane (-0.65%)."
-    },
-    {
-      "id": "mkt:019f80bb-5262-7aab-8e13-9ae36c210c0d",
-      "time": "2026-07-21 02:13:07",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Ukraine launches overnight drone attack on Moscow; Russia strikes Odesa, Yuzhne ports】Ukraine launched about 400 drones overnight at Moscow and surrounding areas, Russian officials said, causing two injuries and multiple building fires. The Russian Defence Ministry said Russian forces used Oniks anti-ship missiles and air-launched cruise missiles to strike facilities at the ports of Odesa and Yuzhne. Moscow had earlier said it struck Ukrainian ports and vessels on Sunday; exchanges of strikes between the sides are escalating."
-    },
-    {
-      "id": "4998405",
-      "time": "2026-07-21 02:10:56",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【DoubleLine：美債收益率上升將有助於美聯儲維持利率不變】DoubleLine正在加碼較短期限的政府債券，理由是美聯儲主席凱文·沃什在投資者中的信譽將有助於央行今年維持利率不變。該公司全球主權債和新興市場投資組合經理Bill Campbell表示，處於高位的美國國債收益率正推高借貸成本，如果資料繼續顯示通脹趨緩，可能促使美聯儲維持利率不變。"
     }
   ]
 }
