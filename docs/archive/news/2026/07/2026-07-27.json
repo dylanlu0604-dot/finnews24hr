@@ -1,7 +1,87 @@
 {
   "date": "2026-07-27",
-  "count": 2025,
+  "count": 2034,
   "items": [
+    {
+      "id": "mkt:019fa351-2389-7aab-8ead-5d7ea5deff35",
+      "time": "2026-07-27 19:23:51",
+      "tags": [
+        "MKT News",
+        "IBM.N",
+        "Impact bearish"
+      ],
+      "text": "HSBC cut its PT for IBM (IBM.N) to $174 from $175."
+    },
+    {
+      "id": "5010240",
+      "time": "2026-07-27 19:23:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐銀行將IBM目標股價從175美元下調至174美元。"
+    },
+    {
+      "id": "5010239",
+      "time": "2026-07-27 19:22:42",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部長：公共債務處於可控範圍，當前的挑戰是要向外界證明我們長期擁有可持續的債務發展軌跡。"
+    },
+    {
+      "id": "mkt:019fa34f-ff15-7aab-8ead-524d4c95f5b4",
+      "time": "2026-07-27 19:22:36",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "CNH"
+      ],
+      "text": "【MIIT to fast-track 15th Five-Year plan for China's intelligent connected NEV industry】July 27 — The Ministry of Industry and Information Technology said it will fast-track drafting and issuance of the 15th Five-Year plan for China’s intelligent connected new-energy vehicle (NEV) industry. The ministry said it will implement the National Standardization Development Outline, accelerate breakthroughs in key core technologies, speed development, international coordination and implementation of priority standards, advance vehicle–road–cloud integration pilot projects, streamline production access and on‑road trial approvals, and promote building a full, end-to-end industry-chain ecosystem."
+    },
+    {
+      "id": "5010238",
+      "time": "2026-07-27 19:22:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【滙豐銀行上調SAP目標股價】滙豐銀行將SAP（思愛普）目標股價從185歐元上調至196歐元。"
+    },
+    {
+      "id": "5010237",
+      "time": "2026-07-27 19:21:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金融監管總局：穩步推進中小金融機構改革化險，有效防範化解重點領域風險】7月27日，金融監管總局召開系統黨的建設工作會議暨2026年年中工作會議。會議強調，全系統要堅決把思想和行動統一到黨中央對當前形勢的科學判斷和決策部署上來，統籌推進防風險、強監管、促高質量發展各項工作。樹牢底線思維，穩步推進中小金融機構改革化險，有效防範化解重點領域風險，堅決守住不發生系統性金融風險底線。堅持問題導向，堅定不移推進嚴監管強監管，堅守監管姓監定位，做到專注監管、嚴格監管。強化監管引領，督促金融機構加快改革轉型、實現錯位發展，多措並舉營造良好行業生態，有效提升經濟金融適配性，以行業高質量發展促進經濟社會高質量發展。會議還對做好近期安全生產、應急金融服務保障等工作作出部署。"
+    },
+    {
+      "id": "mkt:019fa34f-2941-7aab-8ead-48cc7007260f",
+      "time": "2026-07-27 19:21:41",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【NAFR to push reforms of small- and medium-sized financial firms to defuse risks, prevent systemic risk】July 27 — The National Administration of Financial Regulation said at a party-building and mid-2026 work meeting it will steadily advance reform-led risk resolution of small- and medium-sized financial institutions and effectively prevent and resolve risks in key sectors. The regulator stressed resolving downside risks as a priority, reiterating resolve to prevent systemic financial risk and to pursue problem-oriented, strict supervision while maintaining its supervisory mandate. NAFR said it will push firms to accelerate reform and transformation, promote differentiated positioning across institutions, and deploy multiple measures to improve industry ecology and enhance finance–economy alignment. The meeting also ordered preparations for recent safety-production issues and arrangements for emergency financial service support."
+    },
+    {
+      "id": "5010236",
+      "time": "2026-07-27 19:21:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：目標是從2030年開始降低債務與GDP之比，當前債務水平“不理想”。"
+    },
+    {
+      "id": "5010235",
+      "time": "2026-07-27 19:20:50",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【工信部：將加快編制出臺智慧網聯新能源汽車產業發展“十五五”規劃】工業和資訊化部裝備工業一司司長郭守剛7月27日在2026世界智慧網聯汽車大會媒體圓桌會上介紹了我國智慧網聯汽車產業發展情況。下一步，工信部將加快編制出臺智慧網聯新能源汽車產業發展“十五五”規劃，深入貫徹落實《國家標準化發展綱要》，加快突破一批關鍵核心技術，加速重點標準研製、國際協調和貫徹實施，深入推進“車路雲一體化”應用試點、生產准入和上路通行試點，推動建立貫通全產業鏈的生態體系。"
+    },
     {
       "id": "5010234",
       "time": "2026-07-27 19:19:47",
