@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-28 02:13:11",
-  "count": 17800,
+  "updated": "2026-07-28 02:16:55",
+  "count": 17802,
   "items": [
+    {
+      "id": "mkt:019fa4ca-113d-7aab-8eb5-a945daa40945",
+      "time": "2026-07-28 02:15:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Punchbowl News reported US officials say President Trump will discuss Iran and the Abraham Accords with Israeli Prime Minister Netanyahu."
+    },
+    {
+      "id": "te:markets:570168",
+      "time": "2026-07-28 02:15:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Plunges by 10.25% — Top commodity losers are Brent Crude Oil (-10.25%), Natural Gas EU (-9.81%) and Crude Oil WTI (-8.89%). Gains are led by Coking Coal (0.83%)."
+    },
+    {
+      "id": "mkt:019fa4c7-aeed-7aab-8eb5-a38fc77e689e",
+      "time": "2026-07-28 02:12:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. official told Punchbowl News that President Trump will discuss the Russia-Ukraine war with Ukrainian President Zelenskiy."
+    },
     {
       "id": "5010758",
       "time": "2026-07-28 02:11:53",
@@ -163224,17 +163251,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Silver Rises by 1.54% — Top commodity gainers are Silver (1.54%) and Copper (1.52%). Biggest losers are Steel Rebar (-1.03%), Silicon (-0.60%), Iron Ore CNY (-0.52%) and Gold (-0.22%)."
-    },
-    {
-      "id": "te:markets:568304",
-      "time": "2026-07-21 02:15:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Surges by 6.57% — Top commodity gainers are Methanol (6.57%), Germany Natural Gas THE (2.14%), Natural Gas UK (1.59%), Brent Crude Oil (0.73%) and Crude Oil WTI (0.17%). Biggest losers are Natural gas (-1.95%), Gasoline (-0.84%) and Propane (-0.65%)."
     }
   ]
 }
