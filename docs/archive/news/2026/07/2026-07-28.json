@@ -1,7 +1,23 @@
 {
   "date": "2026-07-28",
-  "count": 394,
+  "count": 396,
   "items": [
+    {
+      "id": "mkt:019fa5af-b348-7aab-8eb7-b4b42ff0f0de",
+      "time": "2026-07-28 06:26:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Senate advanced Walter Clayton’s nomination for Director of National Intelligence by a 51-43 vote."
+    },
+    {
+      "id": "5010904",
+      "time": "2026-07-28 06:24:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院投票透過，推進特朗普提名人克萊頓出任美國最高情報官員一職。"
+    },
     {
       "id": "5010903",
       "time": "2026-07-28 06:20:27",
