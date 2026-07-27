@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-28 04:25:39",
+  "updated": "2026-07-28 04:29:35",
   "count": 17829,
   "items": [
+    {
+      "id": "5010838",
+      "time": "2026-07-28 04:28:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：管理層批准完成辛巴威工作人員監督計劃下的首次審查。"
+    },
     {
       "id": "5010837",
       "time": "2026-07-28 04:24:36",
@@ -163480,18 +163488,6 @@
         "Importance 1"
       ],
       "text": "TSX Falls as Financials Post Losses — The S&P/TSX Composite Index fell 0.8% to close at 34,960 on Monday, weighed down by financial stocks. Major banks were among the biggest decliners as escalating US-Iran tensions pushed oil prices higher, lifting bond yields despite Canada's softer-than-expected June inflation report. RBC lost 2.1%, TD Bank shed 2.3%, BMO fell 1.9%, CIBC retreated 2.6%, and Scotiabank closed 2.3% lower. In contrast, Shopify (+1.1%) and Celestica (+2.4%) advanced, tracking the rebound in US technology shares. Energy stocks closed higher on rising oil prices, with Canadian Natural up 0.7% and Cenovus adding 1.5%. On the data front, Canada's annual inflation rate eased to 2.8% in June 2026 from 3.2% in May, slightly below forecasts of 2.9%."
-    },
-    {
-      "id": "mkt:019f8135-a0b2-7aab-8e14-e4f932f16633",
-      "time": "2026-07-21 04:26:43",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Mehr news agency reports sounds of air-defence systems heard near Iran's Bushehr nuclear power plant."
     }
   ]
 }
