@@ -1,7 +1,350 @@
 {
-  "updated": "2026-07-27 16:00:07",
-  "count": 17841,
+  "updated": "2026-07-27 16:04:05",
+  "count": 17850,
   "items": [
+    {
+      "id": "te:markets:570048",
+      "time": "2026-07-27 16:03:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Pound Rebounds as Easing Middle East Tensions Lift Risk Sentiment — The pound rose to $1.334, rebounding from a three-week low reached last week, as easing tensions between the US and Iran and a sharp decline in oil prices boosted risk sentiment. Brent crude retreated from two-month highs after Washington and Tehran paused hostilities and resumed diplomatic contacts, helping to ease inflation concerns and prompting money markets to slightly scale back expectations for policy tightening. Investors are now focused on the Bank of England's policy decision later this week, with policymakers widely expected to keep interest rates unchanged at 3.75%. Recent inflation data has strengthened that view, with consumer price growth slowing to a 15-month low of 2.6% in June, below the BoE's forecasts. A delayed pass-through of higher wholesale energy prices to regulated household bills has also kept UK inflation below that of the US and the euro area, where the European Central Bank is still expected to deliver another rate hike in September or October."
+    },
+    {
+      "id": "mkt:019fa299-2566-7aab-8ea8-0a34a90770f6",
+      "time": "2026-07-27 16:02:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Kazimir said the ECB needs at least one more rate hike."
+    },
+    {
+      "id": "5009674",
+      "time": "2026-07-27 16:02:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【濱江集團1億元成立房地產開發新公司】企查查APP顯示，近日，杭州濱佳房地產開發有限公司成立，法定代表人為劉奇，註冊資本為1億元，經營範圍包含：房地產開發經營。企查查股權穿透顯示，該公司由濱江集團間接全資持股。"
+    },
+    {
+      "id": "mkt:019fa298-bef3-7aab-8ea8-05dfe476cba6",
+      "time": "2026-07-27 16:02:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "LME aluminium stocks fell to a 21st-century low of 271,275 tonnes."
+    },
+    {
+      "id": "5009673",
+      "time": "2026-07-27 16:02:23",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "土耳其央行透過傳統方式開展規模為6噸的一週期黃金兌里拉賣方掉券拍賣。"
+    },
+    {
+      "id": "5009672",
+      "time": "2026-07-27 16:02:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【7-11母公司柒和伊控股放棄向波蘭最大便利店運營商投資】7-11便利店母公司柒和伊控股日前宣佈，決定放棄向波蘭最大便利店運營商Żabka Group投資，原因是雙方未能就投資條件達成一致。柒和伊此前一直在研究從投資基金等股東手中收購Żabka Group股份，交易規模預計達數千億日元。"
+    },
+    {
+      "id": "5009671",
+      "time": "2026-07-27 16:02:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家能源集團煤炭經營分公司原黨委書記金志剛接受審查調查】據中央紀委國家監委駐國家能源集團紀檢監察組、北京市紀委監委訊息：國家能源集團煤炭經營分公司原黨委書記、董事長金志剛涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐國家能源集團紀檢監察組紀律審查和北京市通州區監察委員會監察調查。"
+    },
+    {
+      "id": "5009670",
+      "time": "2026-07-27 16:01:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所鋁庫存<總MALSTX>降至271,275噸，創下本世紀以來最低水平。"
+    },
+    {
+      "id": "5009669",
+      "time": "2026-07-27 16:01:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委卡齊米爾：如果危機惡化，歐洲央行必須比預期收緊更多貨幣政策。"
+    },
+    {
+      "id": "5009668",
+      "time": "2026-07-27 16:01:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海洋石油工程股份有限公司原副總裁王明陽接受審查調查】中央紀委國家監委網站7月27日通報，據中央紀委國家監委駐中國海油紀檢監察組、天津市紀委監委訊息：海洋石油工程股份有限公司原黨委副書記、副總裁王明陽涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國海油紀檢監察組紀律審查和天津市監委監察調查。"
+    },
+    {
+      "id": "5009667",
+      "time": "2026-07-27 16:01:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【茅臺多地直營店：53度、500ml飛天茅臺售價提至1719元/瓶】近期北京、上海等地茅臺直營店已將53度、500ml飛天茅臺售價提升至1719元/瓶，高於i茅臺平臺1639元/瓶的售價。一位茅臺直營店人士對記者表示，此舉主要是為推行以消費者為中心的市場化改革，價格隨行，未來茅臺直營店定價或將綜合門店運營成本等因素，對標市場零售端的實際成交價，以保障市場公平。"
+    },
+    {
+      "id": "mkt:019fa298-035c-7aab-8ea7-fd2b3555df7f",
+      "time": "2026-07-27 16:01:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Eurozone three-month annualized M3 money supply growth 3% in June, unchanged from May."
+    },
+    {
+      "id": "mkt:019fa297-e742-7aab-8ea7-f5689dab56f5",
+      "time": "2026-07-27 16:01:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | 3-mo M3 Money Supply (YoY) (Jun) | actual 3% | previous 3%"
+    },
+    {
+      "id": "5009666",
+      "time": "2026-07-27 16:01:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前普漲，盛美漲9%】美股中概股盤前普漲，盛美漲9%，攜程漲4%，嗶哩嗶哩漲3%，拼多多、理想汽車、百濟神州、網易、蔚來漲1%。"
+    },
+    {
+      "id": "5009665",
+      "time": "2026-07-27 16:01:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海洋石油工程股份有限公司原董事長金曉劍接受審查調查】中央紀委國家監委網站7月27日通報，據中央紀委國家監委駐中國海油紀檢監察組、遼寧省紀委監委訊息：海洋石油工程股份有限公司原黨委書記、董事長金曉劍涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國海油紀檢監察組紀律審查和遼寧省營口市監委監察調查。"
+    },
+    {
+      "id": "5009664",
+      "time": "2026-07-27 16:01:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委卡齊米爾：通脹衝擊仍在持續。"
+    },
+    {
+      "id": "5009663",
+      "time": "2026-07-27 16:00:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金風科技等在上海成立綠能新能源公司 註冊資本1億元】企查查APP顯示，近日，恆風綠能（上海）新能源有限公司成立，法定代表人為張宇鵬，註冊資本為1億元，經營範圍包含：發電業務、輸電業務、供（配）電業務；風力發電技術服務；太陽能發電技術服務；儲能技術服務等。企查查股權穿透顯示，該公司由東港市海投能源科技有限公司、金風科技全資子公司寧波天朔新能源投資有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:019fa297-41c5-7aab-8ea7-eaeba5ca30a4",
+      "time": "2026-07-27 16:00:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "LME inventories: lead -1,050t; aluminium -1,500t; copper -3,800t; nickel unchanged; zinc -2,075t; tin -375t."
+    },
+    {
+      "id": "5009662",
+      "time": "2026-07-27 16:00:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所（LME）：鉛庫存減少1050噸，鋁庫存減少1500噸，銅庫存減少3800噸，鎳庫存持平，鋅庫存減少2075噸，錫庫存減少375噸。"
+    },
+    {
+      "id": "5009661",
+      "time": "2026-07-27 16:00:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存晶片板塊盤前反彈 SK海力士漲近6%】美股儲存晶片板塊盤前反彈，SK海力士漲近6%，閃迪、西部資料漲超4%，美光科技、希捷科技漲超3%。"
+    },
+    {
+      "id": "mkt:019fa297-149b-7aab-8ea7-e7798eeb609a",
+      "time": "2026-07-27 16:00:37",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany July Ifo business expectations index 86.7 vs. 84.8 expected; June 84.1."
+    },
+    {
+      "id": "5009660",
+      "time": "2026-07-27 16:00:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委卡齊米爾：歐洲央行至少還需要再加息一次。"
+    },
+    {
+      "id": "mkt:019fa296-fbdf-7aab-8ea7-da6559da730e",
+      "time": "2026-07-27 16:00:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | IFO Business Expectations Index (Jul) | actual 86.7 | consensus 84.8 | previous 84.1"
+    },
+    {
+      "id": "mkt:019fa296-e9e0-7aab-8ea7-d48d58c8c867",
+      "time": "2026-07-27 16:00:26",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany July Ifo current assessment index 86.5, below 87.3 expected and 87.0 prior."
+    },
+    {
+      "id": "mkt:019fa296-cfb5-7aab-8ea7-cc254f57009d",
+      "time": "2026-07-27 16:00:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | IFO Business Current Condition Index (Jul) | actual 86.5 | consensus 87.3 | previous 87"
+    },
+    {
+      "id": "mkt:019fa296-bd58-7aab-8ea7-c3d1c47abedc",
+      "time": "2026-07-27 16:00:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Germany July IFO business climate index 86.6 (consensus 86.0; prior 85.6)."
+    },
+    {
+      "id": "mkt:019fa296-a779-7aab-8ea7-bb0a1f69cdf1",
+      "time": "2026-07-27 16:00:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Eurozone M3 money supply YoY 3.3% in June, matching consensus 3.3%; prior 3.2%."
+    },
+    {
+      "id": "mkt:019fa296-a3b8-7aab-8ea7-b28c4d369976",
+      "time": "2026-07-27 16:00:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | IFO Business Climate Index (Jul) | actual 86.6 | consensus 86 | previous 85.6"
+    },
+    {
+      "id": "te:markets:570046",
+      "time": "2026-07-27 16:00:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Plunges by 7.48% — Top commodity losers are Brent Crude Oil (-7.48%), Natural Gas EU (-6.83%), Natural Gas UK (-6.80%) and Crude Oil WTI (-6.78%)."
+    },
+    {
+      "id": "5009659",
+      "time": "2026-07-27 16:00:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊媒：6艘船隻試圖透過霍爾木茲海峽 1艘出事】據伊朗法爾斯通訊社27日援引伊朗知情官員的訊息報道，當天凌晨，6艘關閉導航和定位系統的船隻試圖經霍爾木茲海峽南部一條“非法且不安全”的航道航行，其中1艘發生事故，其餘船隻被“引導”返回波斯灣。(新華社)"
+    },
+    {
+      "id": "mkt:019fa296-8aa6-7aab-8ea7-ae68759cabad",
+      "time": "2026-07-27 16:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | M3 Money Supply (YoY) (Jun) | actual 3.3% | consensus 3.3% | previous 3.20%"
+    },
+    {
+      "id": "mkt:019fa296-7d35-7aab-8ea7-a2d9377ffbcc",
+      "time": "2026-07-27 15:59:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "One-year USD/INR implied rate was 2.82%, down 10bp intraday. Traders said the Reserve Bank of India may be conducting buy-and-sell operations in USD/INR swaps."
+    },
+    {
+      "id": "5009658",
+      "time": "2026-07-27 15:59:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣西能源：擬83.34億元投資建設廣西賀州抽水蓄能電站】廣西能源公告稱，公司擬投資83.34億元（動態投資）建設廣西賀州抽水蓄能電站，該專案位於賀州市八步區，設計裝機容量140萬千瓦，預計“十六五”中後期全面建成投產。專案資金由20%的企業自籌資本金和銀行長期貸款組成，預計40年經營期資本金收益率為4.73% - 5.72%。本次投資不構成重大資產重組，尚需股東會審議。"
+    },
+    {
+      "id": "5009657",
+      "time": "2026-07-27 15:59:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員稱，印度央行可能正在進行美元/盧比買售互換操作。"
+    },
+    {
+      "id": "5009656",
+      "time": "2026-07-27 15:59:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【電池聯盟開通行業意見反饋渠道】7月27日，中國汽車動力電池產業創新聯盟釋出通知：為充分發揮電池聯盟立足政企紐帶、服務行業發展的核心職能，進一步提升企業反饋行業意見的響應效率，經研究決定，即日起電池聯盟正式開通意見反饋專屬渠道，用於企業反饋對行業的相關意見和建議。"
+    },
+    {
+      "id": "5009655",
+      "time": "2026-07-27 15:59:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美元兌印度盧比一年期隱含利率報2.82%，單日下跌10個基點。"
+    },
     {
       "id": "mkt:019fa295-bb09-7aab-8ea7-9c87d942d22c",
       "time": "2026-07-27 15:59:09",
@@ -163191,244 +163534,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Silver Rises by 2.26% — Top commodity gainers are Silver (2.26%), Copper (0.89%) and Gold (0.15%). Biggest losers are Iron Ore CNY (-0.79%) and Silicon (-0.60%)."
-    },
-    {
-      "id": "mkt:019f7e8d-8168-7aab-8e05-fa0dc97508d2",
-      "time": "2026-07-20 16:03:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【State Administration for Market Regulation to further cut individual merchants' digitalization costs by end-2027】The State Administration for Market Regulation office issued an Action Plan directing platform companies to support individual merchants' digital transition. By end-2027 the plan will deliver a rolling set of 'five-batch' outputs: launch targeted, fast-delivery assistance measures; cultivate a cohort of distinctive, transformation-ready quality merchants; design practical, demand-led training courses; build tangible digital application scenarios; and select replicable innovation cases. The objective is to establish a long-term practice for platform-enabled support, lower merchants' digitalization costs, improve the business environment and boost sustainable income capacity."
-    },
-    {
-      "id": "em:qqyh_ozyh:202607203813274866",
-      "time": "2026-07-20 16:03:44",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【歐洲央行SAFE調查：一年、三年及五年期通脹預期仍大致持穩】歐洲央行SAFE調查顯示，一年、三年及五年期通脹預期仍大致持穩，企業預期銷售價格、勞動以外投入成本以及薪資預期漲幅將縮小。"
-    },
-    {
-      "id": "4997352",
-      "time": "2026-07-20 16:03:09",
-      "tags": [
-        "行業",
-        "觀點",
-        "國際"
-      ],
-      "text": "【機構：AI競爭從晶片轉向基建 電力、光通訊、量子計算成核心卡點】K-ASIC在近期釋出的《2026上半年美國半導體產業動向》報告中強調：“半導體產業的競爭重心已從個別晶片效能轉向AI基礎設施。” K-ASIC是2024年9月由韓國產業通商資源部牽頭在美國加利福尼亞州聖何塞設立的韓國系統半導體產業支援基地。K-ASIC基於上半年分析指出：“英偉達、AMD、博通等半導體無晶圓廠企業正在超越GPU和定製半導體（ASIC），展開整合化系統平臺競爭”，“谷歌、亞馬遜、Meta、微軟等超大規模企業正致力於構建包含自研晶片、資料中心、電力資產在內的垂直整合型AI平臺。” 換言之，競爭已從“AI半導體晶片能多快、執行多少運算”轉向了“先發制人搶佔記憶體、電力、網路、資料中心等AI基礎設施整體”的格局。 K-ASIC方面評估認為，AI基礎設施建設存在三大瓶頸，分別是： 電力——決定AI資料中心擴充套件上限； 光通訊——連線數萬個AI半導體加速器； 量子計算——正作為下一代計算正規化崛起。"
-    },
-    {
-      "id": "4997351",
-      "time": "2026-07-20 16:03:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼為金融中心提供50年企業所得稅優惠。"
-    },
-    {
-      "id": "4997350",
-      "time": "2026-07-20 16:03:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人宣佈：伊朗內政部長將於本週一出訪巴基斯坦。"
-    },
-    {
-      "id": "mkt:019f7e8c-a28b-7aab-8e05-f4431dbf11e9",
-      "time": "2026-07-20 16:02:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "The Central Bank of the Republic of Turkey launched a one-week gold-for-lira sell-side swap auction totaling 6 tonnes, conducted in the traditional manner."
-    },
-    {
-      "id": "4997349",
-      "time": "2026-07-20 16:02:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【技源集團：首次回購0.05%公司股份，已支付的總金額為人民幣433.12萬元】技源集團公告，2026年7月20日，公司以集中競價交易方式首次回購公司A股股份20萬股，已回購股份佔公司總股本比例為0.05%，成交最高價為人民幣21.69元/股，成交最低價為人民幣21.65元/股，已支付的總金額為人民幣433.12萬元（不含交易費用）。"
-    },
-    {
-      "id": "4997348",
-      "time": "2026-07-20 16:02:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中飛租賃與土耳其航空簽署七架空客A321neo飛機租賃協議】7月20日，中飛租賃宣佈，與土耳其航空（Turkish Airlines）簽署七架全新空客A321neo飛機租賃協議，標誌著中飛租賃與土耳其國家載旗航空公司正式建立合作關係。該批飛機均配備普惠PW1133GA-JM發動機，並將由中飛租賃訂單簿提供，預計於2027年起陸續交付。"
-    },
-    {
-      "id": "4997347",
-      "time": "2026-07-20 16:02:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【龍建股份：中標5.55億元黑龍江公路養護工程專案】龍建股份公告稱，公司被確定為黑龍江省普通國省幹線公路2026年養護工程施工專案A1標段中標人，中標價5.55億元，專案地點為黑龍江省哈爾濱市、牡丹江市、雞西市，工期365日曆天，缺陷責任期12個月。A1標段道路全長481.1公里。本專案施工份額約佔公司2025年度經審計營收的3.15%。公司將按要求辦理合同簽訂等事宜。"
-    },
-    {
-      "id": "4997346",
-      "time": "2026-07-20 16:02:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST億晶：新增4起訴訟仲裁 涉案金額4266.40萬元】*ST億晶公告稱，控股孫公司滁州億晶因買賣合同糾紛被無錫江松科技起訴，涉案金額3388.35萬元及利息等費用。截至公告披露日，公司及子公司連續十二個月內除已披露案件外，累計新增4起訴訟仲裁案件，其他3起涉案標的金額878.05萬元，佔公司2025年經審計淨資產絕對值的9.83%。部分案件尚在審理，具體影響金額待法院判決和執行確定。"
-    },
-    {
-      "id": "mkt:019f7e8b-ca00-7aab-8e05-ec02461ee987",
-      "time": "2026-07-20 16:01:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukrainian President Zelenskiy said Ukraine struck Russian logistics facilities and an oil depot in the Moscow region."
-    },
-    {
-      "id": "4997345",
-      "time": "2026-07-20 16:01:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基證實：烏克蘭打擊了俄羅斯多處後勤設施以及莫斯科州一處油庫。"
-    },
-    {
-      "id": "mkt:019f7e8b-4dc9-7aab-8e05-e6651cb32ade",
-      "time": "2026-07-20 16:01:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "ECB consumer expectations survey: Middle East war is prompting firms to seek alternative suppliers and increase energy-efficiency measures."
-    },
-    {
-      "id": "4997344",
-      "time": "2026-07-20 16:01:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股盤前，中概股普漲，百度漲約4%，攜程網漲約5%，阿里巴巴漲約4%。"
-    },
-    {
-      "id": "4997343",
-      "time": "2026-07-20 16:01:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股大型科技股盤前漲跌互現，SK海力士漲2%】美股大型科技股盤前漲跌互現，SK海力士、美光科技漲2%，SpaceX漲1%，英偉達漲0.5%，亞馬遜、谷歌A漲0.4%，微軟、特斯拉漲0.1%，蘋果持平，Meta跌0.1%。"
-    },
-    {
-      "id": "4997342",
-      "time": "2026-07-20 16:01:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國標普500迷你電子股指期貨上漲0.3%，納斯達克100股指期貨上漲0.5%，道指期貨上漲0.1%。"
-    },
-    {
-      "id": "4997341",
-      "time": "2026-07-20 16:01:12",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總區域性署開展推動平臺企業賦能個體工商戶發展行動】近日，市場監管總局印發《推動平臺企業賦能個體工商戶發展行動方案》（以下簡稱《行動方案》）。《行動方案》提出，2027年年底前，滾動形成“五個一批”工作成果，即推出一批精準“滴灌”、直達快享的幫扶舉措，培育一批特色鮮明、轉型發展的優質商戶，定製一批“解渴”管用、生動務實的培訓課程，搭建一批數字賦能、有形有感的應用場景，選樹一批創新融合、可學可鑑的典型案例，探索構建平臺企業賦能個體工商戶發展的長效實踐路徑。 《行動方案》部署開展5方面專項行動。一是開展初創幫扶行動。加大對平臺新入駐個體工商戶的支援力度，便利經營准入，降低經營成本。二是開展重點培育行動。打造“名特優新”金字招牌，引導平臺企業開展資源對接，支援地方特色產業發展。三是開展能力提升行動。加強政策法規宣傳和技能培訓，引導個體工商戶守法合規經營，提升市場競爭能力。四是開展數字賦能行動。鼓勵平臺企業推出更多輕量化、低成本數字化運營工具，減輕個體工商戶運營負擔。五是開展創新示範行動。鼓勵各地結合實際出臺支援個體工商戶線上發展的一攬子舉措，用好“全國個體工商戶發展網”等載體平臺。 《行動方案》要求，各級市場監管部門強化統籌協調，因地制宜探索務實舉措，加強工作指導和總結宣傳，營造共同關心支援個體工商戶發展的良好氛圍。"
-    },
-    {
-      "id": "4997340",
-      "time": "2026-07-20 16:01:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國家統計局北京調查總隊：預計北京居民消費價格繼續溫和上漲】7月20日，國家統計局北京調查總隊黨組成員、副總隊長、新聞發言人卞晶在2026年上半年北京經濟執行情況新聞釋出會上回答證券時報記者提問時表示，下階段北京居民消費價格走勢存在諸多不確定影響因素。從長期看，外部環境仍存在較大不確定性，國際原油、黃金價格高位波動，將繼續影響上下游有關商品價格變化。從短期看，夏季降雨、高溫天氣可能影響市場供應，生鮮食品價格存在短期階段性波動的可能性；暑期到來將帶動文旅出行類服務消費需求增加，對部分服務專案價格有一定拉動作用。卞晶表示，綜合來看，北京市經濟韌性強，市場規模大，保供穩價措施完善，有較強的抗風險的能力，預計居民消費價格也將繼續保持溫和上漲的態勢。"
-    },
-    {
-      "id": "4997339",
-      "time": "2026-07-20 16:01:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗霍爾木茲甘省革命衛隊表示，今天12:00至16:00，賈斯克港區將進行未爆彈藥的受控銷燬作業，因此該地區可能會聽到爆炸聲。"
-    },
-    {
-      "id": "mkt:019f7e8a-be2c-7aab-8e05-dc3e4f3e800a",
-      "time": "2026-07-20 16:00:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Central Bank consumer expectations survey: euro-area firms expect the pace of increases in selling prices, non-labor input costs and wages to moderate."
-    },
-    {
-      "id": "mkt:019f7e8a-bb07-7aab-8e05-d390cc68b73a",
-      "time": "2026-07-20 16:00:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "London Metal Exchange (LME) stocks: aluminium down 325 t, copper down 1,350 t, tin down 75 t, zinc down 2,575 t, lead down 300 t, nickel down 1,062 t."
-    },
-    {
-      "id": "4997338",
-      "time": "2026-07-20 16:00:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所(LME)：鋁庫存減少325噸，銅庫存減少1350噸，錫庫存減少75噸，鋅庫存減少2575噸，鉛庫存減少300噸，鎳庫存減少1062噸。"
-    },
-    {
-      "id": "4997337",
-      "time": "2026-07-20 16:00:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京3300套專項保障房啟動配租 覆蓋近五屆畢業生及青年人才】今天（20日），北京保障房中心啟動2026年度新畢業大學生及青年人才專項配租，共推出房源3300套，分佈在14個行政區、59個公租房專案、10個保租房專案。"
-    },
-    {
-      "id": "mkt:019f7e8a-8138-7aab-8e05-cb80b75dba97",
-      "time": "2026-07-20 16:00:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB consumer expectations survey: 1-, 3- and 5-year inf expectations largely unchanged."
-    },
-    {
-      "id": "mkt:019f7e8a-72e7-7aab-8e05-c4d44ef07ef5",
-      "time": "2026-07-20 16:00:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【How many days' supply of U.S. crude including the Strategic Petroleum Reserve is left?】As of July 10, U.S. crude inventories including the Strategic Petroleum Reserve fell to 43 days of supply, the lowest in 45 years. The historic tightening signals tighter energy supply and may put upward pressure on energy prices, raising broader inflation concerns."
-    },
-    {
-      "id": "4997336",
-      "time": "2026-07-20 16:00:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其中央銀行以傳統方式拍賣6噸1週期黃金兌換里拉賣方掉期。"
-    },
-    {
-      "id": "4997335",
-      "time": "2026-07-20 16:00:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "倫敦證券交易所集團（LSEG）資料顯示，德國場外交易日前一天基準電力價格為每兆瓦時118歐元，較上週五敲定的週一交割價格上漲14.3%。"
     }
   ]
 }
