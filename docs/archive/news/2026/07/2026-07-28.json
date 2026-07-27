@@ -1,7 +1,80 @@
 {
   "date": "2026-07-28",
-  "count": 432,
+  "count": 440,
   "items": [
+    {
+      "id": "5010934",
+      "time": "2026-07-28 07:10:34",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【國泰海通：風險資產維持高價效比 建議超配A股、H股與美股】國泰海通釋出研報稱，中東地緣政治局勢反覆變化，虛實不定，但整體脈絡依然向尾部風險下降情景演繹。當前市場仍可能受到企業業績驗證、人工智慧產業回報及地緣政治因素擾動，短期波動尚難完全消退，但市場對負面資訊的敏感度有望邊際下降。該行建議超配A股、H股與美股。"
+    },
+    {
+      "id": "te:economy:570193",
+      "time": "2026-07-28 07:10:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Shop Price Inflation",
+        "Importance 1"
+      ],
+      "text": "UK Shop Price Inflation Slows to 7-Month Low — UK shop price inflation rose by 0.9% year-on-year in July 2026, missing market expectations for a 1.2% gain and marking the slowest increase since December 2025. The latest reading also slowed from a 1.2% rise in the previous month, as widespread summer promotions and supermarket discounts curbed price growth. Food inflation slowed to 2.2%, the lowest since February 2025, from 2.4% in the previous month, while non-food inflation eased to 0.2% from 0.6%, despite higher prices for electrical, health, and beauty products due to rising semiconductor and manufacturing costs. On a monthly basis, shop prices fell 0.1%. The British Retail Consortium said retailers intensified discounts on alcohol, snacks, clothing, and footwear during the men's soccer World Cup and summer sales. BRC Chief Executive Helen Dickinson noted that fierce competition continues to limit price increases, though retailers remain under pressure from rising operating costs."
+    },
+    {
+      "id": "5010933",
+      "time": "2026-07-28 07:10:09",
+      "tags": [
+        "公司",
+        "兩會"
+      ],
+      "text": "【綠電直供資料中心，成就寧夏中衛一片投資熱土】今年以來，算力網、新一代通訊網加速佈局，相關領域投資較快增長。上半年，固定資產投資規模達22.6萬億元，資訊傳輸業投資增長25.6%。今年，“算電協同”首次被寫入《政府工作報告》，與超大規模智算叢集一同被明確為新基建工程。5月，首個大規模“算電協同”綠電直供專案在中衛投運。這一專案總投資87億元，激發了上下游的連鎖反應。光伏電站往南40公里，150萬千瓦風電專案正加緊建設，計劃9月全容量併網。“屆時整個綠電直供專案年發電量將達43億千瓦時，可基本滿足資料中心叢集的用電需求。”大唐中衛新能源有限公司副總經理靳良說。為推動實現“雙碳”目標，國家樞紐節點新建資料中心綠電佔比應不低於80%，電能利用效率低於1.2。綠電直供，成為中衛市發展大資料產業的優勢，帶動了投資增長。(人民日報)"
+    },
+    {
+      "id": "5010932",
+      "time": "2026-07-28 07:09:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方呼籲烏克蘭問題有關各方保持接觸 儘快停火止戰】當地時間27日，聯合國安理會舉行烏克蘭問題緊急公開會。中國常駐聯合國代表團臨時代辦孫磊表示，當前烏克蘭問題局勢發展令人擔憂，衝突烈度持續升級，這一危險趨勢必須儘快扭轉。中方呼籲有關各方保持接觸，展現政治意願，在對話中增進互信，在談判中積累共識，爭取達成全面、持久、有約束力的和平協議。中方還呼籲相關各方摒棄冷戰思維和陣營對抗，妥善解決彼此合理安全關切，在充分、完整、全面遵循聯合國憲章原則基礎上消除危機根源，推動構建均衡、有效、可持續的地區安全架構，實現地區長治久安。"
+    },
+    {
+      "id": "mkt:019fa5d5-c3d0-7aab-8eb7-f9ab32178a6d",
+      "time": "2026-07-28 07:07:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【USTR Greer: new 301 tariffs unlikely to add economic impact】U.S. Trade Representative Greer said on Monday the newly implemented Section 301 tariffs are not expected to create economic effects beyond those already priced in. Greer said President Trump’s tariff increases on roughly 60 trading partners, at about 10% or 12.5%, are similar to prior global tariff actions and therefore may not materially change economic outcomes. She added the set of countries targeted by the new 301 measures is narrower than the earlier broadly applied 10% temporary tariff, but the new duties still cover 99.4% of U.S. imports."
+    },
+    {
+      "id": "5010931",
+      "time": "2026-07-28 07:07:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上市券商開啟中期分紅預熱 釋放股東回報積極訊號】臨近上市券商2026年半年度業績披露季，多位上市券商董事長髮聲，提議推出中期分紅方案。與此同時，2025年年度分紅進入派現實施視窗期，7月以來已有18家上市券商釋出權益分派實施公告。“往年行業很少出現董事長直接提議分紅的情形，大部分由公司董事會統一出方案披露。”博通諮詢金融行業資深分析師王蓬博在接受記者採訪時表示，這一現象的出現，本質是監管層持續推動上市公司常態化分紅的政策要求在證券業落地，同時也反映出上市券商上半年盈利、未分配利潤及現金儲備充足，資本水平可同時覆蓋股東分紅與業務發展需求。（上海證券報）"
+    },
+    {
+      "id": "5010930",
+      "time": "2026-07-28 07:06:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本首相最快週四將下令下調消費稅】據《朝日新聞》援引不願具名官員訊息，日本首相高市早苗最快將於週四下達相關政令，啟動食品飲料類商品消費稅降至 1%、並維持兩年的落地流程。另據《日經新聞》訊息，高市早苗有望於本週內正式公佈該減稅方案。"
+    },
+    {
+      "id": "em:jjsj_ygsj:202607283822544730",
+      "time": "2026-07-28 07:06:53",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國7月BRC商店物價指數同比增0.9%，前值1.20%。"
+    },
     {
       "id": "5010929",
       "time": "2026-07-28 07:04:03",
