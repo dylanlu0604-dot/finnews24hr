@@ -1,7 +1,96 @@
 {
   "date": "2026-07-27",
-  "count": 246,
+  "count": 256,
   "items": [
+    {
+      "id": "te:markets:569878",
+      "time": "2026-07-27 08:00:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Natural gas Hits 10-week Low — Natural gas decreased to 2.82 USD/MMBtu, the lowest since May 2026. Over the past 4 weeks, Natural gas lost 11.27%, and in the last 12 months, it decreased 7.94%."
+    },
+    {
+      "id": "5008837",
+      "time": "2026-07-27 07:58:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州上半年一手商品房網籤面積同比增長10% 城市更新固定資產投資增長33%】2026年1—6月，全市一手商品房網籤面積507.86萬平方米，同比增長10%。截至6月末，全市一手住宅去化週期15.3個月，環比縮短0.3個月，持續處於合理區間，去庫存成效持續顯現。 堅持以推進城市更新為重要抓手，廣州大力推動城市結構最佳化、動能轉換、品質提升、綠色轉型、文脈賡續、治理增效。城市更新固定資產投資逐年遞增，今年上半年完成1209億元，同比增長33%。 2026年上半年，建築業完成在地總產值3185億元，同比增長7%。其中，智慧建造產業產值達1560億元，同比增長15%。（廣州日報）"
+    },
+    {
+      "id": "5008836",
+      "time": "2026-07-27 07:58:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“紅霞”已減弱為熱帶低壓 廣東湖南等地有大到暴雨】中央氣象臺7月27日6時解除颱風藍色預警：今年第12號颱風“紅霞”已於昨天（26日）夜間減弱為熱帶低壓，並於今天（27日）凌晨移入湖南境內，早晨5點鐘其中心位於湖南省永興縣境內，就是北緯26.3度、東經113.4度，外圍最大風力有7級（15米/秒），中心最低氣壓為1000百帕。預計，“紅霞”將以每小時10-15公里左右的速度向北偏西方向移動，強度繼續減弱。中央氣象臺今天早晨6點鐘解除颱風藍色預警。但是受“紅霞”及其殘餘系統影響，27日8時至28日8時，廣東中北部和東南部、福建南部、廣西中北部和西部、湖南中東部、江西西部、湖北中南部、河南中東部、安徽北部等地部分地區有大到暴雨，其中，廣東北部和西部、廣西中北部和西部、湖南南部、河南東部等地部分地區有大暴雨（100～230毫米）。"
+    },
+    {
+      "id": "5008835",
+      "time": "2026-07-27 07:58:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶彭水山體崩塌現場發現人體殘骸】據重慶彭水山體崩塌災害現場救援指揮部，今天，重慶彭水發現失聯中巴車殘骸。在客運中巴殘骸內部和周邊，經過進一步搜尋和技術比對，發現人體殘骸，正在進行DNA檢測確認身份。"
+    },
+    {
+      "id": "mkt:019fa0dd-6f70-7aab-8e9d-79288786a2d2",
+      "time": "2026-07-27 07:58:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Real-time fund NAV services resurge; industry proposes two-pronged regulatory response】Heightened market volatility has revived dormant real-time fund NAV services. Providers have shifted to more flexible, covert models distributed across wealth-management apps, WeChat public accounts, mini-programs and Xiaohongshu. Industry sources say demand for real-time valuation is stronger in fast, tech-driven markets and the covert delivery models are harder to supervise. With financial licensing rules as the regulatory baseline, remediation should pursue two tracks: tighten behavioral-definition standards and detection of regulatory-evasion tactics; and expand compliant alternative services to channel legitimate market demand."
+    },
+    {
+      "id": "te:markets:569877",
+      "time": "2026-07-27 07:56:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Gains as Oil Prices Retreat — Silver climbed more than 2% toward $60 an ounce on Monday, moving away from eight-month lows as oil prices dropped sharply following a pause in hostilities between the US and Iran over the weekend, reducing concerns over supply disruptions and inflation. The US suspended its nearly two-week campaign of strikes against Iran beginning late Friday without an official announcement, while Tehran said it had ended its retaliatory strikes in response and held discussions with Oman regarding the Strait of Hormuz. Precious metals struggled in recent weeks amid escalating hostilities in the Middle East, with supply disruption spreading from the Strait of Hormuz to the Red Sea. Meanwhile, the Federal Reserve is widely expected to leave interest rates unchanged on Wednesday before raising them in September, although some market participants believe the central bank could move as early as this week's meeting in response to renewed inflationary pressures."
+    },
+    {
+      "id": "5008834",
+      "time": "2026-07-27 07:55:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第13版《新華字典》全國出版發行 首版問世至今累計發行逾7億冊】近日，《新華字典》（第13版）已由商務印書館出版在全國發行。《新華字典》是新中國第一部現代漢語規範字典，自1953年首版問世至今累計發行量逾7億冊。（央視）"
+    },
+    {
+      "id": "5008833",
+      "time": "2026-07-27 07:55:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東省內鐵路預計今日全面恢復正常】颱風“紅霞”登陸後強度持續減弱，對廣東地區的風雨影響逐步消退。經全面排查線路裝置狀態、在確認運輸安全的前提下，自7月27日起，廣東省內鐵路預計全面恢復正常。高鐵方面，7月27日，廣東省內所有高鐵預計全部恢復正常執行。普速方面，7月27日，京廣鐵路預計於8時恢復正常執行，京九鐵路預計於14時恢復正常執行，贛韶鐵路預計於20時恢復正常執行。（深圳特區報）"
+    },
+    {
+      "id": "te:markets:569876",
+      "time": "2026-07-27 07:55:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Rises as Oil Prices Drop — Gold climbed 1% toward $4,100 an ounce on Monday, moving away from nine-month lows as oil prices dropped sharply following a pause in hostilities between the US and Iran over the weekend, reducing concerns over supply disruptions and inflation. The US suspended its nearly two-week campaign of strikes against Iran beginning late Friday without an official announcement, while Tehran said it had ended its retaliatory strikes in response and held discussions with Oman regarding the Strait of Hormuz. Gold struggled in recent weeks amid escalating hostilities in the Middle East, with supply disruption spreading from the Strait of Hormuz to the Red Sea. Meanwhile, the Federal Reserve is widely expected to leave interest rates unchanged on Wednesday before raising them in September, although some market participants believe the central bank could move as early as this week's meeting in response to renewed inflationary pressures."
+    },
+    {
+      "id": "mkt:019fa0da-8702-7aab-8e9d-717c9ae5af94",
+      "time": "2026-07-27 07:55:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthi forces say they shot down Saudi drone】On July 26 local time, Yemen’s Houthi movement said it shot down a Saudi drone over northern Jawf province. Spokesman Yahya Saree said the drone, manufactured by Turkey’s Baykar, was carrying out \"hostile activity.\" Saudi authorities did not immediately comment."
+    },
     {
       "id": "5008831",
       "time": "2026-07-27 07:54:24",

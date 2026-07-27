@@ -1,7 +1,96 @@
 {
-  "updated": "2026-07-27 07:56:56",
-  "count": 17986,
+  "updated": "2026-07-27 08:03:13",
+  "count": 17977,
   "items": [
+    {
+      "id": "te:markets:569878",
+      "time": "2026-07-27 08:00:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Natural gas Hits 10-week Low — Natural gas decreased to 2.82 USD/MMBtu, the lowest since May 2026. Over the past 4 weeks, Natural gas lost 11.27%, and in the last 12 months, it decreased 7.94%."
+    },
+    {
+      "id": "5008837",
+      "time": "2026-07-27 07:58:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州上半年一手商品房網籤面積同比增長10% 城市更新固定資產投資增長33%】2026年1—6月，全市一手商品房網籤面積507.86萬平方米，同比增長10%。截至6月末，全市一手住宅去化週期15.3個月，環比縮短0.3個月，持續處於合理區間，去庫存成效持續顯現。 堅持以推進城市更新為重要抓手，廣州大力推動城市結構最佳化、動能轉換、品質提升、綠色轉型、文脈賡續、治理增效。城市更新固定資產投資逐年遞增，今年上半年完成1209億元，同比增長33%。 2026年上半年，建築業完成在地總產值3185億元，同比增長7%。其中，智慧建造產業產值達1560億元，同比增長15%。（廣州日報）"
+    },
+    {
+      "id": "5008836",
+      "time": "2026-07-27 07:58:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“紅霞”已減弱為熱帶低壓 廣東湖南等地有大到暴雨】中央氣象臺7月27日6時解除颱風藍色預警：今年第12號颱風“紅霞”已於昨天（26日）夜間減弱為熱帶低壓，並於今天（27日）凌晨移入湖南境內，早晨5點鐘其中心位於湖南省永興縣境內，就是北緯26.3度、東經113.4度，外圍最大風力有7級（15米/秒），中心最低氣壓為1000百帕。預計，“紅霞”將以每小時10-15公里左右的速度向北偏西方向移動，強度繼續減弱。中央氣象臺今天早晨6點鐘解除颱風藍色預警。但是受“紅霞”及其殘餘系統影響，27日8時至28日8時，廣東中北部和東南部、福建南部、廣西中北部和西部、湖南中東部、江西西部、湖北中南部、河南中東部、安徽北部等地部分地區有大到暴雨，其中，廣東北部和西部、廣西中北部和西部、湖南南部、河南東部等地部分地區有大暴雨（100～230毫米）。"
+    },
+    {
+      "id": "5008835",
+      "time": "2026-07-27 07:58:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶彭水山體崩塌現場發現人體殘骸】據重慶彭水山體崩塌災害現場救援指揮部，今天，重慶彭水發現失聯中巴車殘骸。在客運中巴殘骸內部和周邊，經過進一步搜尋和技術比對，發現人體殘骸，正在進行DNA檢測確認身份。"
+    },
+    {
+      "id": "mkt:019fa0dd-6f70-7aab-8e9d-79288786a2d2",
+      "time": "2026-07-27 07:58:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Real-time fund NAV services resurge; industry proposes two-pronged regulatory response】Heightened market volatility has revived dormant real-time fund NAV services. Providers have shifted to more flexible, covert models distributed across wealth-management apps, WeChat public accounts, mini-programs and Xiaohongshu. Industry sources say demand for real-time valuation is stronger in fast, tech-driven markets and the covert delivery models are harder to supervise. With financial licensing rules as the regulatory baseline, remediation should pursue two tracks: tighten behavioral-definition standards and detection of regulatory-evasion tactics; and expand compliant alternative services to channel legitimate market demand."
+    },
+    {
+      "id": "te:markets:569877",
+      "time": "2026-07-27 07:56:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Gains as Oil Prices Retreat — Silver climbed more than 2% toward $60 an ounce on Monday, moving away from eight-month lows as oil prices dropped sharply following a pause in hostilities between the US and Iran over the weekend, reducing concerns over supply disruptions and inflation. The US suspended its nearly two-week campaign of strikes against Iran beginning late Friday without an official announcement, while Tehran said it had ended its retaliatory strikes in response and held discussions with Oman regarding the Strait of Hormuz. Precious metals struggled in recent weeks amid escalating hostilities in the Middle East, with supply disruption spreading from the Strait of Hormuz to the Red Sea. Meanwhile, the Federal Reserve is widely expected to leave interest rates unchanged on Wednesday before raising them in September, although some market participants believe the central bank could move as early as this week's meeting in response to renewed inflationary pressures."
+    },
+    {
+      "id": "5008834",
+      "time": "2026-07-27 07:55:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第13版《新華字典》全國出版發行 首版問世至今累計發行逾7億冊】近日，《新華字典》（第13版）已由商務印書館出版在全國發行。《新華字典》是新中國第一部現代漢語規範字典，自1953年首版問世至今累計發行量逾7億冊。（央視）"
+    },
+    {
+      "id": "5008833",
+      "time": "2026-07-27 07:55:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東省內鐵路預計今日全面恢復正常】颱風“紅霞”登陸後強度持續減弱，對廣東地區的風雨影響逐步消退。經全面排查線路裝置狀態、在確認運輸安全的前提下，自7月27日起，廣東省內鐵路預計全面恢復正常。高鐵方面，7月27日，廣東省內所有高鐵預計全部恢復正常執行。普速方面，7月27日，京廣鐵路預計於8時恢復正常執行，京九鐵路預計於14時恢復正常執行，贛韶鐵路預計於20時恢復正常執行。（深圳特區報）"
+    },
+    {
+      "id": "te:markets:569876",
+      "time": "2026-07-27 07:55:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Rises as Oil Prices Drop — Gold climbed 1% toward $4,100 an ounce on Monday, moving away from nine-month lows as oil prices dropped sharply following a pause in hostilities between the US and Iran over the weekend, reducing concerns over supply disruptions and inflation. The US suspended its nearly two-week campaign of strikes against Iran beginning late Friday without an official announcement, while Tehran said it had ended its retaliatory strikes in response and held discussions with Oman regarding the Strait of Hormuz. Gold struggled in recent weeks amid escalating hostilities in the Middle East, with supply disruption spreading from the Strait of Hormuz to the Red Sea. Meanwhile, the Federal Reserve is widely expected to leave interest rates unchanged on Wednesday before raising them in September, although some market participants believe the central bank could move as early as this week's meeting in response to renewed inflationary pressures."
+    },
+    {
+      "id": "mkt:019fa0da-8702-7aab-8e9d-717c9ae5af94",
+      "time": "2026-07-27 07:55:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthi forces say they shot down Saudi drone】On July 26 local time, Yemen’s Houthi movement said it shot down a Saudi drone over northern Jawf province. Spokesman Yahya Saree said the drone, manufactured by Turkey’s Baykar, was carrying out \"hostile activity.\" Saudi authorities did not immediately comment."
+    },
     {
       "id": "5008831",
       "time": "2026-07-27 07:54:24",
@@ -164609,179 +164698,6 @@
         "國際"
       ],
       "text": "【提醒】日本股市今日因海洋日休市一日。"
-    },
-    {
-      "id": "mkt:019f7cd5-10de-7aab-8dfc-5a1388785746",
-      "time": "2026-07-20 08:02:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli military said alerts sounded in Kfar Aza and Sa'ad."
-    },
-    {
-      "id": "4996425",
-      "time": "2026-07-20 08:02:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【鴻海首度奪下SpaceX AI伺服器代工訂單】根據臺灣經濟日報未援引訊息來源報道，鴻海精密首度奪下SpaceX AI伺服器代工訂單。下一步雙方將瞄準太空AI資料中心。"
-    },
-    {
-      "id": "4996424",
-      "time": "2026-07-20 08:01:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方表示，卡法阿扎和薩阿德地區拉響了防空警報。"
-    },
-    {
-      "id": "4996423",
-      "time": "2026-07-20 08:01:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價下跌5%。"
-    },
-    {
-      "id": "mkt:019f7cd4-0087-7aab-8dfc-53b35105715e",
-      "time": "2026-07-20 08:01:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "【South Korea KOSPI opens 4.16% lower】South Korea's KOSPI opened down 283.95 points (-4.16%) at 6,536.65 on July 20 (Mon). Samsung Electronics and SK Hynix fell more than 5%."
-    },
-    {
-      "id": "4996422",
-      "time": "2026-07-20 08:01:33",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌4.4%，報6523.62。"
-    },
-    {
-      "id": "4996421",
-      "time": "2026-07-20 08:01:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守3990美元/盎司，日內跌0.72%。"
-    },
-    {
-      "id": "4996420",
-      "time": "2026-07-20 08:01:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價下跌5%。"
-    },
-    {
-      "id": "te:economy:568013",
-      "time": "2026-07-20 08:00:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Australia 10Y Bond Yield Hits 5-week High — Australia 10 Year Government Bond Yield increased to 4.96%, the highest since June 2026. Over the past 4 weeks, Australia 10Y Bond Yield gained 17.20 basis points, and in the last 12 months, it increased 61.70 basis points."
-    },
-    {
-      "id": "4996419",
-      "time": "2026-07-20 08:00:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌2.6%，至6643.58點。"
-    },
-    {
-      "id": "te:markets:568012",
-      "time": "2026-07-20 08:00:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Corn Hits 7-week High — Corn increased to 450.75 USd/BU, the highest since May 2026. Over the past 4 weeks, Corn gained 9.06%, and in the last 12 months, it increased 11.15%."
-    },
-    {
-      "id": "4996418",
-      "time": "2026-07-20 07:59:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "據洲際交易所（ICE）資料，荷蘭近月天然氣合約漲幅超5%，報60.40歐元/兆瓦時。"
-    },
-    {
-      "id": "mkt:019f7cd1-8e84-7aab-8dfc-4d5996cffa37",
-      "time": "2026-07-20 07:58:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mehr News Agency cited local residents reporting several explosions in Sirik, southern Iran."
-    },
-    {
-      "id": "mkt:019f7cd1-776e-7aab-8dfc-43f5504af25e",
-      "time": "2026-07-20 07:58:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Iranian media report multiple explosions; Tabriz said hit in alleged U.S. strike】Iranian media reported in the early hours of July 20 local time that northwest city Tabriz was struck in a U.S. military attack. Multiple explosions were reported in Mahshahr and Imam Khomeini Port in Khuzestan province, and in Chabahar in Sistan-Baluchestan province, where the Konarak area activated air-defence systems."
-    },
-    {
-      "id": "4996417",
-      "time": "2026-07-20 07:58:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗半官方的邁赫爾通訊社表示，當地居民報告稱在伊朗南部錫裡克地區聽到數次爆炸聲響。"
-    },
-    {
-      "id": "4996416",
-      "time": "2026-07-20 07:58:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【澳門釋出停課通知】澳門特區政府今日（20日）釋出停課通知，因暴雨關係，按照規定，中學教育上午停課，小學、幼兒及特殊教育全日停課，校方應確保校舍開放並安排人員照顧已返抵學校的學生，直至情況適宜學生安全回家為止。"
-    },
-    {
-      "id": "4996415",
-      "time": "2026-07-20 07:58:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍襲擊伊朗多地 】據伊朗媒體報道，當地時間今天（7月20日）凌晨，伊朗西北部城市大不里士遭美軍襲擊。西南部胡齊斯坦省的馬赫沙赫爾及伊瑪目霍梅尼港傳出數次爆炸聲。東南部錫斯坦－俾路支斯坦省的恰巴哈爾傳出數次爆炸聲，科納拉克地區啟動防空系統。"
-    },
-    {
-      "id": "mkt:019f7cd0-c379-7aab-8dfc-3b3f0cca7ef2",
-      "time": "2026-07-20 07:58:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US-Iran hostilities persist; rate-hike bets weigh on gold】Weekend escalation in US-Iran hostilities pushed oil higher and undercut gold as markets priced a greater likelihood the Fed may need to raise rates to curb inflation. Gold, down more than 2% last week, trades around $3,995/oz. Attacks including a strike on a key Kuwait oil facility and reported targeting of vessels transiting the Strait of Hormuz lifted oil prices; Tehran said a US-Iran ceasefire is effectively void, heightening concern about deeper disruptions to energy flows through the waterway."
-    },
-    {
-      "id": "4996414",
-      "time": "2026-07-20 07:57:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【領益智造：累計回購2906.24萬股，使用資金總額3.99億元】領益智造7月20日公告，截至2026年7月17日，公司累計透過回購專用證券賬戶以集中競價交易方式回購公司股份29,062,400股，佔公司總股本的0.36%，最高成交價為14.43元/股，最低成交價為12.45元/股，成交金額為399,113,070.31元（不含交易費用）。本次回購符合相關法律、法規的要求，符合公司既定的回購股份方案。"
     }
   ]
 }
