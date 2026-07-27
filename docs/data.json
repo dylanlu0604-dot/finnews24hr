@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-28 00:45:46",
-  "count": 17765,
+  "updated": "2026-07-28 00:49:38",
+  "count": 17763,
   "items": [
+    {
+      "id": "5010718",
+      "time": "2026-07-28 00:48:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所資料：荷蘭近月天然氣合約暴跌超 10%，報 56.83 歐元 / 兆瓦時。"
+    },
     {
       "id": "mkt:019fa476-acde-7aab-8eb4-0512f2302fe6",
       "time": "2026-07-28 00:44:28",
@@ -162821,35 +162829,6 @@
         "國際"
       ],
       "text": "特朗普：內塔尼亞胡在美國停留期間不會遭到逮捕。"
-    },
-    {
-      "id": "4998370",
-      "time": "2026-07-21 00:48:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國北愛爾蘭事務大臣本恩宣佈退出政府內閣。"
-    },
-    {
-      "id": "4998369",
-      "time": "2026-07-21 00:48:13",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【以軍啟動在黎巴嫩南部首個“試點區域”撤軍行動】美國國務院20日發表宣告說，以色列軍隊在黎巴嫩南部首個“試點區域”撤軍行動當天在黎南部的3個村莊啟動。宣告表示，該“試點區域”撤軍行動是根據美黎以三方框架協議並在三方軍事協調小組的主持下啟動的，涉及的3個村莊為夫龍、斯里法和藻塔爾蓋爾比耶。這是以色列和黎巴嫩14日在義大利羅馬舉行會談的直接成果。美國將繼續與雙方密切合作，推動落實該框架協議。(新華社)"
-    },
-    {
-      "id": "mkt:019f806b-cd90-7aab-8e12-e9b69471df26",
-      "time": "2026-07-21 00:46:16",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Russia, N. Korea foreign ministers say U.S. military actions raise regional tensions】The Russian foreign ministry said on the 20th that LAVROV met in Moscow with N. KOREA foreign minister Choe Son-hui for the third round of a Russia–N. KOREA foreign-minister strategic dialogue. They said Northeast Asian and global tensions are deteriorating and attributed the root cause to a series of irresponsible actions by the United States and its allies."
     }
   ]
 }
