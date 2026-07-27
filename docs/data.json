@@ -1,7 +1,67 @@
 {
-  "updated": "2026-07-28 02:51:02",
-  "count": 17796,
+  "updated": "2026-07-28 02:54:49",
+  "count": 17799,
   "items": [
+    {
+      "id": "5010772",
+      "time": "2026-07-28 02:53:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：因人員短缺及天氣問題，紐約、費城各大機場航班出現延誤。"
+    },
+    {
+      "id": "mkt:019fa4ec-af3a-7aab-8eb6-0e335b5872b8",
+      "time": "2026-07-28 02:53:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Israel's opposition leader said that even if Saudi Arabia normalizes ties with Israel, Riyadh must not develop nuclear capabilities and Israel will never accept Saudi uranium enrichment. He said Saudi nuclear development could trigger a Middle East nuclear arms race, which Israel would not accept."
+    },
+    {
+      "id": "mkt:019fa4ec-a698-7aab-8eb6-0419e22bee6e",
+      "time": "2026-07-28 02:53:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $88.36 a barrel, down $8.42, or 8.7%."
+    },
+    {
+      "id": "5010771",
+      "time": "2026-07-28 02:52:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨收盤報每桶 88.36 美元，下跌 8.42 美元，跌幅 8.7%。"
+    },
+    {
+      "id": "5010770",
+      "time": "2026-07-28 02:52:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Pimco擁抱曾經警告的AI熱潮 前提是鉅額融資條款由它主導】Dan Ivascyn希望參與為甲骨文規模達160億美元的大型資料中心園區提供融資的交易，但前提是交易必須按照他的方式設計。知情人士稱，去年年底，這位品浩(Pimco)的首席投資官願意讓公司成為這筆雄心勃勃融資交易的基石投資者，條件是將融資設計為收益率更具吸引力的長期債券，期限與甲骨文的租約相匹配。負責籌組交易的美國銀行最初曾就其他方案徵詢投資者意向，包括髮行期限更短、成本更低的債券，但時機頗為棘手。銀行此前已為甲骨文相關的資料中心專案提供了數十億美元貸款，而一些貸款機構一直難以將這些債務轉售出去。幾個月後，美國銀行重新回到談判桌，並願意按Pimco的條件安排一筆私募交易。"
+    },
+    {
+      "id": "mkt:019fa4ea-7e7d-7aab-8eb5-f9274fb53ed0",
+      "time": "2026-07-28 02:50:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "MVM said Hungary's Paks nuclear power plant will cut output from Unit 1 by 254 MW on Monday after the Danube's water level fell to a record low."
+    },
     {
       "id": "5010769",
       "time": "2026-07-28 02:40:36",
@@ -163167,35 +163227,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收跌0.23%，報25095.40點，低水47.65點。"
-    },
-    {
-      "id": "4998424",
-      "time": "2026-07-21 02:54:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊打擊多國美軍基地】伊朗伊斯蘭革命衛隊7月20日釋出影片顯示，為回應美軍當天襲擊，革命衛隊對約旦、科威特、巴林的美軍基地實施打擊。革命衛隊稱，發射彈道導彈打擊了位於約旦亞喀巴國際機場的美軍飛機，“嚴重損壞多架飛機”；打擊了科威特的阿里夫詹軍營，使用無人機摧毀了美軍一處預警雷達系統，打擊了阿里·薩利姆空軍基地，擊中一處飛機零件倉庫、一座用於停放MQ－9“死神”無人機的機庫，摧毀數架無人機；對巴林的阿爾·薩基爾空軍基地和哈利法·本·薩勒曼港等地目標實施打擊。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f80e0-01b7-7aab-8e13-e35fdc2a44dd",
-      "time": "2026-07-21 02:53:11",
-      "tags": [
-        "MKT News",
-        "X.N",
-        "Impact bearish"
-      ],
-      "text": "U.S. Steel (X.N) has offered the United Steelworkers a five-year contract proposal that includes cumulative wage increases of 18.2% and a $4,000 ratification bonus. Talks will resume in Pittsburgh on Aug. 10."
-    },
-    {
-      "id": "4998423",
-      "time": "2026-07-21 02:52:13",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【多位券商首席談股市：企穩反彈條件已具備 A股市場中長期韌性充足】近期A股市場出現階段性調整，多位券商首席經濟學家及首席分析師表示，近期調整受外部輸入性因素傳導，屬於技術性回撥，當前市場已具備反彈條件且A股中長期韌性充足。中國銀河證券首席經濟學家、研究院院長章俊表示，近期美聯儲官員鷹派表態推升美債收益率與美元指數，壓制全球高估值成長股；美股、日韓科技股集體大跌，儲存產業鏈恐慌情緒跨境傳導，北向資金階段性流出，疊加地緣因素升溫、原油價格抬升，屬於外圍情緒被動傳導。中信建投證券首席經濟學家黃文濤稱，“短期衝擊可能改變交易節奏，但無法改變國內政策方向和科技產業趨勢。海外市場本輪下跌消化的是集中度和槓桿，而A股在流動性環境、交易擁擠度、上漲驅動力等方面與之存在結構性區別。與海外相比，A股承受了與自身風險結構並不完全匹配的折價。”在川財證券首席經濟學家、研究所所長陳靂看來，國內宏觀基本面、產業發展邏輯並未發生趨勢性弱化，經濟託底政策持續落地，製造業盈利修復，未來產業培育穩步推進。(上證報)"
     }
   ]
 }

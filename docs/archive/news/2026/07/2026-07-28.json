@@ -1,7 +1,67 @@
 {
   "date": "2026-07-28",
-  "count": 196,
+  "count": 202,
   "items": [
+    {
+      "id": "5010772",
+      "time": "2026-07-28 02:53:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：因人員短缺及天氣問題，紐約、費城各大機場航班出現延誤。"
+    },
+    {
+      "id": "mkt:019fa4ec-af3a-7aab-8eb6-0e335b5872b8",
+      "time": "2026-07-28 02:53:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Israel's opposition leader said that even if Saudi Arabia normalizes ties with Israel, Riyadh must not develop nuclear capabilities and Israel will never accept Saudi uranium enrichment. He said Saudi nuclear development could trigger a Middle East nuclear arms race, which Israel would not accept."
+    },
+    {
+      "id": "mkt:019fa4ec-a698-7aab-8eb6-0419e22bee6e",
+      "time": "2026-07-28 02:53:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $88.36 a barrel, down $8.42, or 8.7%."
+    },
+    {
+      "id": "5010771",
+      "time": "2026-07-28 02:52:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨收盤報每桶 88.36 美元，下跌 8.42 美元，跌幅 8.7%。"
+    },
+    {
+      "id": "5010770",
+      "time": "2026-07-28 02:52:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Pimco擁抱曾經警告的AI熱潮 前提是鉅額融資條款由它主導】Dan Ivascyn希望參與為甲骨文規模達160億美元的大型資料中心園區提供融資的交易，但前提是交易必須按照他的方式設計。知情人士稱，去年年底，這位品浩(Pimco)的首席投資官願意讓公司成為這筆雄心勃勃融資交易的基石投資者，條件是將融資設計為收益率更具吸引力的長期債券，期限與甲骨文的租約相匹配。負責籌組交易的美國銀行最初曾就其他方案徵詢投資者意向，包括髮行期限更短、成本更低的債券，但時機頗為棘手。銀行此前已為甲骨文相關的資料中心專案提供了數十億美元貸款，而一些貸款機構一直難以將這些債務轉售出去。幾個月後，美國銀行重新回到談判桌，並願意按Pimco的條件安排一筆私募交易。"
+    },
+    {
+      "id": "mkt:019fa4ea-7e7d-7aab-8eb5-f9274fb53ed0",
+      "time": "2026-07-28 02:50:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "MVM said Hungary's Paks nuclear power plant will cut output from Unit 1 by 254 MW on Monday after the Danube's water level fell to a record low."
+    },
     {
       "id": "5010769",
       "time": "2026-07-28 02:40:36",
