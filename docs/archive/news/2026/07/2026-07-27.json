@@ -1,7 +1,72 @@
 {
   "date": "2026-07-27",
-  "count": 2559,
+  "count": 2566,
   "items": [
+    {
+      "id": "mkt:019fa40c-5993-7aab-8eb1-f03f8e215f95",
+      "time": "2026-07-27 22:48:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Most-active coking coal futures contract fell more than 2.00% intraday to 1,245.00 yuan/ton."
+    },
+    {
+      "id": "te:economy:570140",
+      "time": "2026-07-27 22:47:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Dallas Fed Manufacturing Index",
+        "Importance 1"
+      ],
+      "text": "US Dallas Fed Manufacturing Activity Rises in July — The Dallas Fed's general business activity index for Texas manufacturing rose to 1.3 in July 2026, up from 0 in June. Broader conditions strengthened, with the company outlook index jumping 11 points to 13.4 as uncertainty eased (6.4 vs. 10.9). Manufacturing activity accelerated, with the production index rising to 10.1 from 4.1, supported by stronger new orders (6.4 vs. 2.3) and shipments (8.8 vs. 7.1). Meanwhile, finished goods inventories declined (1.5 vs. 7.8), while delivery times lengthened slightly (2.3 vs. 0.9). Labor market conditions remained broadly stable, although employment (12.2 vs. 13.9) and hours worked (4.3 vs. 5.9) eased, while the wages and benefits index climbed (30.8 vs 25.8). Price pressures remained elevated despite slight moderation in prices paid and received. Looking ahead, firms continue to expect strong manufacturing activity over the next six months, with future production (34.6) and general business activity (26.5) remaining little changed."
+    },
+    {
+      "id": "5010615",
+      "time": "2026-07-27 22:47:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，“吉納維芙”正以強四級颶風強度向西北方向移動。"
+    },
+    {
+      "id": "5010614",
+      "time": "2026-07-27 22:46:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深港兩地將共建大灣區植物園】在廣東省林業局、深圳市政府、香港特區政府環境及生態局共同見證下，深圳市規劃和自然資源局（市林業局）、深圳市城市管理和綜合執法局與香港特區政府漁農自然護理署、康樂及文化事務署27日在深圳共同簽署《深港兩地共建植物園合作框架安排》，深港兩地共建大灣區植物園正式啟動，開啟粵港澳大灣區生態合作新篇章。 據深圳市規劃和自然資源局（市林業局）相關負責人介紹，本次合作標誌著深港植物多樣性協同保護邁入全新階段。雙方將圍繞《國家植物園體系佈局方案》總體部署，充分發揮兩地在體制機制、生態區位、科技人才、產業基礎等方面的獨特優勢，聚焦植物多樣性收集與保護、生態保護與廊道建設、科研協同與能力建設、科普宣教與園林園藝展示、植物資源可持續利用五大重點領域，開展全方位、深層次戰略合作，全力打造粵港澳大灣區生態融合發展標杆示範，為健全完善國家植物園體系、講好新時代生態文明建設中國故事貢獻深港力量。（新華社）"
+    },
+    {
+      "id": "5010613",
+      "time": "2026-07-27 22:45:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "SCORPIO GOLD CORP: 擬尋求美國存託憑證在納斯達克上市。"
+    },
+    {
+      "id": "5010612",
+      "time": "2026-07-27 22:45:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "達納天然氣：已從庫爾德地區政府及伊拉克聯邦政府最高層獲得對當前局勢的最新評估與明確承諾。"
+    },
+    {
+      "id": "5010611",
+      "time": "2026-07-27 22:44:45",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股AI硬體個股重挫：費城半導體指數跌5% SK海力士下跌近10%】費城半導體指數下跌5.02%。英偉達股價下跌4.03%，臺積電股價下跌3.47%，博通股價下跌2.02%，SK海力士股價下跌9.73%，美光科技股價下跌6.97%，超威半導體股價下跌8.51%，阿斯麥股價下跌7.3%，英特爾股價下跌5.38%，泛林集團股價下跌7.45%，ARM股價下跌3.02%。美光科技下跌6.94%，SK海力士下跌9.39%，閃迪下跌13.79%，西部資料下跌9.28%，希捷科技下跌8.09%，鎧俠ADR下跌6.65%。"
+    },
     {
       "id": "mkt:019fa408-9e05-7aab-8eb1-eb2f284a5049",
       "time": "2026-07-27 22:44:15",
