@@ -1,7 +1,93 @@
 {
   "date": "2026-07-27",
-  "count": 2194,
+  "count": 2203,
   "items": [
+    {
+      "id": "mkt:019fa384-9ab7-7aab-8eae-7ab6e497bef5",
+      "time": "2026-07-27 20:20:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. June durable goods orders m/m due in 10 minutes."
+    },
+    {
+      "id": "mkt:019fa384-81be-7aab-8eae-7198a18bcdd4",
+      "time": "2026-07-27 20:19:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "AAL.O",
+        "Impact bullish",
+        "DAL.O",
+        "LUV.O"
+      ],
+      "text": "U.S. airline stocks rose in pre-market trading after international crude oil prices fell sharply; Delta Air Lines +2.7%, JetBlue +2.9%, Southwest Airlines +3.6%, American Airlines +4.0%, Alaska Air +3.2%, United Airlines +3.6%."
+    },
+    {
+      "id": "5010371",
+      "time": "2026-07-27 20:19:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受原油價格跌幅超7%影響，美國航空股盤前上漲。達美航空上漲2.7%，捷藍航空上漲2.9%，西南航空上漲3.6%。美國航空股價上漲4%，阿拉斯加航空股價上漲3.2%，聯合航空股價上漲3.6%。"
+    },
+    {
+      "id": "5010370",
+      "time": "2026-07-27 20:19:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：白宮官員稱，華盛頓正權衡外交手段、經濟施壓以及海上封鎖措施，據悉該封鎖每日給德黑蘭造成數億美元損失。"
+    },
+    {
+      "id": "5010369",
+      "time": "2026-07-27 20:19:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：過去三晚美國未對伊朗發動打擊，但白宮表示軍事行動仍在備選方案之列。"
+    },
+    {
+      "id": "mkt:019fa383-03c5-7aab-8eae-69f1e0a2040b",
+      "time": "2026-07-27 20:18:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai Stock Exchange ends review of Rongxin Huike Electric STAR Market IPO】The Shanghai Stock Exchange said it has terminated the review of Rongxin Huike Electric Co., Ltd.'s IPO and proposed STAR Market listing after the company and its sponsor, Guojin Securities Co., Ltd., filed formal applications to withdraw their offering and listing documents."
+    },
+    {
+      "id": "5010368",
+      "time": "2026-07-27 20:18:06",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【上交所終止榮信匯科科創板IPO稽核】7月27日，據上交所網站披露，因榮信匯科電氣股份有限公司和保薦人國金證券股份有限公司向上交所提交了《榮信匯科關於撤回首次公開發行股票並在科創板上市申請檔案的申請》和《國金證券關於撤回榮信匯科電氣股份有限公司首次公開發行股票並在科創板上市申請檔案的申請函》，申請撤回發行上市申請檔案，上交所決定終止其首次公開發行股票並在科創板上市的稽核。"
+    },
+    {
+      "id": "5010367",
+      "time": "2026-07-27 20:17:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：大眾汽車正與其合作伙伴國軒高科就收購大眾位於巴倫西亞的電池工廠進行深入談判。"
+    },
+    {
+      "id": "mkt:019fa381-920f-7aab-8eae-63a11a906e30",
+      "time": "2026-07-27 20:16:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Saudi says it intercepted and destroyed drones launched from Iraqi territory】Saudi Arabia's Defense Ministry said it intercepted and destroyed drones launched from Iraqi territory by Iran-backed militias that were targeting the Eastern Region and oil facilities in Riyadh, and reiterated Riyadh's right to respond."
+    },
     {
       "id": "5010366",
       "time": "2026-07-27 20:16:17",
