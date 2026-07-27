@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-28 06:58:23",
-  "count": 17820,
+  "updated": "2026-07-28 07:03:43",
+  "count": 17819,
   "items": [
+    {
+      "id": "5010926",
+      "time": "2026-07-28 07:00:49",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國CME全天候黃金期貨上線首週末成交將近1.5萬份合約 散戶為主】美國芝加哥商業交易所集團表示，其1盎司黃金期貨全天候（24/7）交易在首個週末上線時，儘管波動率較低，但需求強於預期，且市場流動性充裕。在新全天候交易時間表啟動的首個週末，共成交近1.5萬份1盎司黃金期貨合約，名義價值約為6000萬美元。芝商所的參與者構成與其現有的1盎司黃金客戶群相似，需求繼續主要來自散戶投資者。"
+    },
     {
       "id": "5010925",
       "time": "2026-07-28 06:57:42",
@@ -163365,29 +163375,6 @@
         "Importance 1"
       ],
       "text": "NZX 50 Flat After Inflation Data — The NZX 50 was almost flat, trading around 13,697 in Tuesday morning trade, remaining muted for the second straight session, as gains in healthcare, technology, and financials offset declines in communication services, industrials, and consumer staples. Traders assessed fresh data, as inflation accelerated in Q2 to the highest level since Q4 2023, while also evaluating its impact on the central bank's interest rate decision at the upcoming meeting following a 25-bps rate hike earlier this month. Caution also prevailed amid persistently high oil prices due to escalating tensions in the Middle East, as inflation concerns fueled expectations of further interest rate hikes. RBNZ Chief Economist Paul Conway recently warned that sticky inflation could prompt further interest rate hikes. Ebos Group rose 0.6%, Fisher & Paykel Healthcare gained 0.8%, and Mercury NZ climbed 0.6%, while Chorus, Colonial Motor Company, and Auckland International Airport fell 2.3%, 1.4%, and 1.3%, respectively"
-    },
-    {
-      "id": "4998553",
-      "time": "2026-07-21 07:03:33",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "市場訊息：倫敦證券交易所計劃明年推出全天候交易。"
-    },
-    {
-      "id": "mkt:019f81c5-2acd-7aab-8e15-fb951eed8fac",
-      "time": "2026-07-21 07:03:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "FTSE100",
-        "Impact mixed",
-        "GBPUSD"
-      ],
-      "text": "The Financial Times reports the London Stock Exchange plans to launch 24-hour trading next year."
     }
   ]
 }
