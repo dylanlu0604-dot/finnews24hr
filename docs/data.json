@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-27 13:15:01",
-  "count": 17931,
+  "updated": "2026-07-27 13:18:58",
+  "count": 17926,
   "items": [
+    {
+      "id": "5009360",
+      "time": "2026-07-27 13:18:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福瑞泰克8T8R 4D成像雷達已實現量產】智慧駕駛解決方案供應商福瑞泰克率先實現行業首家8T8R邊緣架構4D成像毫米波雷達量產落地。此次量產8T8R邊緣架構4D毫米波雷達FVR60，是福瑞泰克與汽車半導體公司英飛凌深度合作的產品。福瑞泰克基於英飛凌全新8T8R（CTRX8188F+TC457）邊緣架構方案打造，透過創新設計的稀疏非均勻大孔徑波導天線陣列，使其處理速度與射頻效能雙雙提升30%，最大探測距離達350米，實現業界領先的水平0.9°、俯仰1.2°的卓越角解析度，同時FVR60深度融合了AI演算法，不僅能輸出高密度原始點雲，更能在本地實時完成對車輛、行人的精準目標分類，為決策規劃系統提供更直接、更語義化的感知資訊輸入。（新浪科技）"
+    },
+    {
+      "id": "te:economy:569980",
+      "time": "2026-07-27 13:17:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Finland Industry Mood Rises Further in July — Finland’s manufacturing confidence indicator rose to 7 in July 2026 from 4 in the previous month, holding at its highest level since June 2022 and remaining above its long-term average of 0. Production expectations for the coming months strengthened further to 31 from 28 in June, while spare capacity in the sector remained notable, with 68% of respondents reporting they were operating at full capacity in June, up from 66% in the previous month, although it remained below the historical average of 70%. Assessments of order books remained unchanged from -11, moving closer to normal levels, while views on finished goods inventories declined to -1 from 3."
+    },
+    {
+      "id": "5009359",
+      "time": "2026-07-27 13:16:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方證券：維持海康威視“買入”評級，目標價44.64元】東方證券研報指出，海康威視業績持續超預期，物理AI應用龍頭。公司上半年營收同比增長12%至468億元，歸母淨利潤同比增長40%至79億元。境內主業營收同比增長5%至187億元，其中PBG和EBG營收分別為58.3和77.3億元，同比增速都在5%以內，場景數字化和AI大模型有望開啟業務增長空間；SMBG渠道運營效率進一步提升，營收觸底反彈，同比增長14%至46.2億元。境外主業營收同比增長6%至129億元，深化“一國一策”經營策略，最佳化產品結構和營銷體系，提升本地化營銷、服務和運營能力，積極拓展重點區域市場。截至7月6日，海康移動機器人全品類累計下線突破20萬臺；根據《移動機器人產業聯盟》，海康2025年移動機器人市佔率位居全球第一；公司具有7.5萬臺移動機器人、500萬套機器視覺產品和2萬套關節機器人的年產能。海康觀瀾大模型模態全，覆蓋多種物理感測技術，構建完整的物聯感知能力矩陣。維持可比公司26年平均24倍PE估值，給予44.64元目標價，維持“買入”評級。"
+    },
+    {
+      "id": "te:markets:569979",
+      "time": "2026-07-27 13:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Increases by 0.65% — Top currency gainers are Swedish Krona (0.65%), Polish Zloty (0.41%), Swiss Franc (0.40%), Euro (0.35%), British Pound (0.35%) and Japanese Yen (0.13%). Biggest losers are South Korean Won (-0.57%) and Dollar Index (-0.28%)."
+    },
+    {
+      "id": "5009358",
+      "time": "2026-07-27 13:14:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Argenx將以約22億美元收購Forte Biosciences】荷蘭免疫學公司argenx週一宣佈，將收購Forte Biosciences，以此將其實驗性自身免疫藥物FB102納入產品組合。Argenx將以每股77美元的現金價格完成收購，此次交易對這家美國藥物開發商的估值約為22億美元。透過此次收購，Argenx將獲得一種同類首創的抗CD122抗體，該抗體在治療白癜風和乳糜瀉方面已顯示出早期潛力。"
+    },
     {
       "id": "mkt:019fa1fe-f72e-7aab-8ea3-6e0b5f8210a7",
       "time": "2026-07-27 13:14:28",
@@ -164240,103 +164288,6 @@
         "公司"
       ],
       "text": "德國金融監管局對TeamViewer處以24萬歐元罰款，認定該公司違反了《市場濫用監管條例》。"
-    },
-    {
-      "id": "4997003",
-      "time": "2026-07-20 13:17:15",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【大摩：下調海底撈目標價至17.5港元，下調收入及純利預測】摩根士丹利發表研報指，海底撈第二季度堂食需求較預期疲弱，且消費降級趨勢持續。雖然海底撈的翻檯率表現較市場具韌性，但由於疲弱的行業趨勢，相信公司或會採取更審慎的網路擴張，並專注於成本控制。大摩將海底撈2026至27財年的收入預測下調3至4%，並將純利預測下調8%，目標價由20港元下調至17.5港元，維持“增持”評級。"
-    },
-    {
-      "id": "4997002",
-      "time": "2026-07-20 13:17:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "滙豐將 KKR 目標價從118美元上調至121美元；將黑石集團目標價從131美元上調至135美元。"
-    },
-    {
-      "id": "te:economy:568100",
-      "time": "2026-07-20 13:16:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Estonia",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Estonia Producer Inflation at 5-Month High — Producer prices in Estonia rose by 3.8% year-on-year in June 2026, accelerating from a 2.7% increase in the previous month. This marked the sixth consecutive month of growth and the fastest pace since January, driven largely by a 24.9% surge (vs -5.8% in May) in prices for electricity, gas, steam and air conditioning supply. Manufacturing costs (2.6% vs 3.3%) also continued to increase as costs for the manufacture of coke and refined petroleum products (30.2% vs 52.6%) remained sharply higher, alongside pharmaceutical products (at 8.8%) and rubber and plastic products (7.8%). Additionally, prices rose faster for water supply, sewerage, waste management and remediation activities (2.5% vs 2.1%). In contrast, deflation persisted for food production (-3.5% vs -2.9%), textiles (-4.3% vs -5.6%), and repair of machinery and equipment (-3% vs -2.5%). On a monthly basis, producer prices fell by 0.3% in June, reversing a 1.1% gain in May."
-    },
-    {
-      "id": "mkt:019f7df4-7743-7aab-8e01-f81392b247bf",
-      "time": "2026-07-20 13:16:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea per-capita GDP likely to reach $39,164 this year】YONHAP reported that data compiled by the Ministry of Economy and Finance, the Bank of Korea and Statistics Korea on the 19th indicate South Korea’s per-capita GDP is expected to reach $39,164 this year, up $2,750 YoY (7.6%). The gain, driven by stronger exports from a seasonal semiconductor upswing, would be the largest since 2021’s 11.5% increase."
-    },
-    {
-      "id": "mkt:019f7df4-2906-7aab-8e01-f40eb81818ab",
-      "time": "2026-07-20 13:16:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CAICT holds 'Brain–Computer Interface: Tech for Good and Standards Cooperation' workshop at 2026 AI for Good Global Summit】On July 8, 2026 in Geneva, the China Academy of Information and Communications Technology (CAICT) held a workshop titled Brain–Computer Interface: Tech for Good and Standards Cooperation during the AI for Good Global Summit. CAICT and several international organisations and companies launched a BCI technology standardization pre‑research group. The group said it will continue to recruit global firms, universities and research institutes to coordinate pre‑research on BCI standards and deepen industry cooperation."
-    },
-    {
-      "id": "4997001",
-      "time": "2026-07-20 13:16:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中堅科技WAIC展出概念人形機器人ZERO，四足機器狗最大負載超100公斤】7月20日訊息，2026世界人工智慧大會（WAIC）期間，中堅科技攜展出概念人形機器人ZERO，同步展出四足機器人“靈睿P1”與核心零部件技術成果。四足機器狗\"靈睿P1\"最大速度可超6米/秒，最大負載超100公斤，已應用於電網巡檢、園區巡邏等場景，打磨四足底盤、柔性關節等核心能力。"
-    },
-    {
-      "id": "mkt:019f7df3-d5f7-7aab-8e01-e896f1a95bfb",
-      "time": "2026-07-20 13:15:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "601601.SS",
-        "Impact bullish",
-        "601318.SS",
-        "601628.SS"
-      ],
-      "text": "A-share insurance stocks rose, led by China Pacific Insurance up more than 6% and Ping An up over 4%; PICC and New China Life each gained over 3%, and China Life added about 2%. In a midday statement China Pacific Insurance said it will continue investing in technology-growth, consumption and new-energy equities and ETFs to support the cultivation and development of new productive forces and to act as patient market capital."
-    },
-    {
-      "id": "4997000",
-      "time": "2026-07-20 13:15:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國信通院在2026年人工智慧向善全球峰會期間舉辦“腦機介面：技術向善與標準合作”研討會】當地時間2026年7月8日下午，中國資訊通訊研究院（簡稱“中國信通院”）在日內瓦“2026人工智慧向善”全球峰會期間舉辦“腦機介面：技術向善與標準合作”研討會。本次研討會上，中國信通院聯合多家國際組織和企業，共同成立了腦機介面技術標準化預研組。預研組將持續吸納全球企業、高校和研究機構，佈局腦機介面標準預研並深化產業合作。"
-    },
-    {
-      "id": "4996999",
-      "time": "2026-07-20 13:15:30",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【印度央行計劃試點發行塑膠鈔票】印度多家媒體援引訊息人士的話報道，印度儲備銀行，即印度央行計劃試點階段發行面額10盧比和20盧比的塑膠鈔票，如果試點順利，或將進一步推廣。印度央行下屬的貨幣印製公司釋出招標公告，為印製塑膠鈔票所需的特殊材料招標，投標截止日期為8月18日。由於流通頻繁和氣候因素，印度每年大量破損紙幣被回收銷燬。此外，印度市場上近年來大面額的假幣增多，尤其是500盧比的偽鈔，使用塑膠鈔票也有望提高防偽效能。據悉，這並非印度首次提出發行塑膠鈔票。2007年，印度儲備銀行曾打算在部分地區試點發行面額10盧比的塑膠鈔票，但經過多次招標和可行性研究後未能實行。（央視財經）"
-    },
-    {
-      "id": "te:markets:568099",
-      "time": "2026-07-20 13:15:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Rises by 0.56% — Top currency gainers are South Korean Won (0.56%) and British Pound (0.10%). Biggest loser is Dollar Index (-0.06%). Meanwhile, Japanese Yen and Euro were little changed."
     }
   ]
 }

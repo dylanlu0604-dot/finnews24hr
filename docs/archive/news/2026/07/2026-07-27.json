@@ -1,7 +1,55 @@
 {
   "date": "2026-07-27",
-  "count": 996,
+  "count": 1001,
   "items": [
+    {
+      "id": "5009360",
+      "time": "2026-07-27 13:18:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福瑞泰克8T8R 4D成像雷達已實現量產】智慧駕駛解決方案供應商福瑞泰克率先實現行業首家8T8R邊緣架構4D成像毫米波雷達量產落地。此次量產8T8R邊緣架構4D毫米波雷達FVR60，是福瑞泰克與汽車半導體公司英飛凌深度合作的產品。福瑞泰克基於英飛凌全新8T8R（CTRX8188F+TC457）邊緣架構方案打造，透過創新設計的稀疏非均勻大孔徑波導天線陣列，使其處理速度與射頻效能雙雙提升30%，最大探測距離達350米，實現業界領先的水平0.9°、俯仰1.2°的卓越角解析度，同時FVR60深度融合了AI演算法，不僅能輸出高密度原始點雲，更能在本地實時完成對車輛、行人的精準目標分類，為決策規劃系統提供更直接、更語義化的感知資訊輸入。（新浪科技）"
+    },
+    {
+      "id": "te:economy:569980",
+      "time": "2026-07-27 13:17:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Finland Industry Mood Rises Further in July — Finland’s manufacturing confidence indicator rose to 7 in July 2026 from 4 in the previous month, holding at its highest level since June 2022 and remaining above its long-term average of 0. Production expectations for the coming months strengthened further to 31 from 28 in June, while spare capacity in the sector remained notable, with 68% of respondents reporting they were operating at full capacity in June, up from 66% in the previous month, although it remained below the historical average of 70%. Assessments of order books remained unchanged from -11, moving closer to normal levels, while views on finished goods inventories declined to -1 from 3."
+    },
+    {
+      "id": "5009359",
+      "time": "2026-07-27 13:16:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方證券：維持海康威視“買入”評級，目標價44.64元】東方證券研報指出，海康威視業績持續超預期，物理AI應用龍頭。公司上半年營收同比增長12%至468億元，歸母淨利潤同比增長40%至79億元。境內主業營收同比增長5%至187億元，其中PBG和EBG營收分別為58.3和77.3億元，同比增速都在5%以內，場景數字化和AI大模型有望開啟業務增長空間；SMBG渠道運營效率進一步提升，營收觸底反彈，同比增長14%至46.2億元。境外主業營收同比增長6%至129億元，深化“一國一策”經營策略，最佳化產品結構和營銷體系，提升本地化營銷、服務和運營能力，積極拓展重點區域市場。截至7月6日，海康移動機器人全品類累計下線突破20萬臺；根據《移動機器人產業聯盟》，海康2025年移動機器人市佔率位居全球第一；公司具有7.5萬臺移動機器人、500萬套機器視覺產品和2萬套關節機器人的年產能。海康觀瀾大模型模態全，覆蓋多種物理感測技術，構建完整的物聯感知能力矩陣。維持可比公司26年平均24倍PE估值，給予44.64元目標價，維持“買入”評級。"
+    },
+    {
+      "id": "te:markets:569979",
+      "time": "2026-07-27 13:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Increases by 0.65% — Top currency gainers are Swedish Krona (0.65%), Polish Zloty (0.41%), Swiss Franc (0.40%), Euro (0.35%), British Pound (0.35%) and Japanese Yen (0.13%). Biggest losers are South Korean Won (-0.57%) and Dollar Index (-0.28%)."
+    },
+    {
+      "id": "5009358",
+      "time": "2026-07-27 13:14:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Argenx將以約22億美元收購Forte Biosciences】荷蘭免疫學公司argenx週一宣佈，將收購Forte Biosciences，以此將其實驗性自身免疫藥物FB102納入產品組合。Argenx將以每股77美元的現金價格完成收購，此次交易對這家美國藥物開發商的估值約為22億美元。透過此次收購，Argenx將獲得一種同類首創的抗CD122抗體，該抗體在治療白癜風和乳糜瀉方面已顯示出早期潛力。"
+    },
     {
       "id": "mkt:019fa1fe-f72e-7aab-8ea3-6e0b5f8210a7",
       "time": "2026-07-27 13:14:28",
