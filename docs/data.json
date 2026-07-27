@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-28 03:31:37",
+  "updated": "2026-07-28 03:35:24",
   "count": 17818,
   "items": [
+    {
+      "id": "5010802",
+      "time": "2026-07-28 03:34:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：目前正在進行非常友好的談判。"
+    },
+    {
+      "id": "mkt:019fa512-98e3-7aab-8eb6-6059d24d2e2f",
+      "time": "2026-07-28 03:34:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's incoming foreign minister said the government seeks a peaceful resolution with the Houthi movement but is prepared to escalate if the Houthis continue to apply pressure."
+    },
+    {
+      "id": "5010801",
+      "time": "2026-07-28 03:34:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 收買是行不通的，唯有擊敗他們。 而我們現在正狠狠打壓他們。"
+    },
+    {
+      "id": "mkt:019fa510-da2e-7aab-8eb6-59f08c736e86",
+      "time": "2026-07-28 03:32:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said talks on Iran are very friendly and ongoing."
+    },
     {
       "id": "mkt:019fa50e-bb9a-7aab-8eb6-542ac8ea7cd3",
       "time": "2026-07-28 03:30:33",
@@ -163339,38 +163375,6 @@
         "Impact bullish"
       ],
       "text": "【Axios: US pursues both military and diplomatic pressure on Iran】Axios cites a US official saying President Trump is pressing Iran both militarily and diplomatically in potential ceasefire talks, aiming to make Iran pay for breaching a memorandum of understanding and for continuing \"terrorist acts\" in the Strait of Hormuz. The official said the US holds Iran responsible for recent US service-member deaths and that US strikes will continue until the president decides otherwise, though negotiations are ongoing."
-    },
-    {
-      "id": "mkt:019f8106-a4f1-7aab-8e14-2e9b406f6d44",
-      "time": "2026-07-21 03:35:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Israeli military said it will respond forcefully to any violations of the agreement."
-    },
-    {
-      "id": "4998436",
-      "time": "2026-07-21 03:34:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方：若該協議遭到任何違反，以方將採取強硬回擊。"
-    },
-    {
-      "id": "4998435",
-      "time": "2026-07-21 03:34:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方：黎巴嫩南部試點區域相關計劃已於週一啟動，  該行動是與美軍及黎巴嫩武裝部隊協同開展的。"
-    },
-    {
-      "id": "4998434",
-      "time": "2026-07-21 03:33:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Axios援引美國官員訊息：特朗普將讓伊朗為近期美軍士兵遇難一事付出代價；此類強力打擊行動會持續進行，直至特朗普另行下達指令，不過美伊兩國之間的溝通仍在持續。"
     }
   ]
 }

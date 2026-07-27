@@ -1,7 +1,43 @@
 {
   "date": "2026-07-28",
-  "count": 238,
+  "count": 242,
   "items": [
+    {
+      "id": "5010802",
+      "time": "2026-07-28 03:34:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：目前正在進行非常友好的談判。"
+    },
+    {
+      "id": "mkt:019fa512-98e3-7aab-8eb6-6059d24d2e2f",
+      "time": "2026-07-28 03:34:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's incoming foreign minister said the government seeks a peaceful resolution with the Houthi movement but is prepared to escalate if the Houthis continue to apply pressure."
+    },
+    {
+      "id": "5010801",
+      "time": "2026-07-28 03:34:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 收買是行不通的，唯有擊敗他們。 而我們現在正狠狠打壓他們。"
+    },
+    {
+      "id": "mkt:019fa510-da2e-7aab-8eb6-59f08c736e86",
+      "time": "2026-07-28 03:32:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said talks on Iran are very friendly and ongoing."
+    },
     {
       "id": "mkt:019fa50e-bb9a-7aab-8eb6-542ac8ea7cd3",
       "time": "2026-07-28 03:30:33",
