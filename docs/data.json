@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-28 02:28:13",
-  "count": 17804,
+  "updated": "2026-07-28 02:32:02",
+  "count": 17805,
   "items": [
+    {
+      "id": "mkt:019fa4d8-aeab-7aab-8eb5-d05bd0a6687a",
+      "time": "2026-07-28 02:31:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 0.45% at 888.05 yuan/gram in the July 27 night session; silver T+D closed down 1.27% at 14,283.0 yuan/kg."
+    },
+    {
+      "id": "5010764",
+      "time": "2026-07-28 02:31:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：其他國家都不喜歡我，但沒關係，美國優先。"
+    },
+    {
+      "id": "5010763",
+      "time": "2026-07-28 02:30:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：關稅對通用汽車的影響令人驚歎。"
+    },
+    {
+      "id": "5010762",
+      "time": "2026-07-28 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌4.50%，報539.60元人民幣/桶。滬金夜盤收跌0.18%，滬銀收跌0.72%。"
+    },
+    {
+      "id": "mkt:019fa4d7-0779-7aab-8eb5-c9cdcda5f331",
+      "time": "2026-07-28 02:29:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iraq opens probe after Saudi alleges drones were launched from Iraqi territory】On the evening of the 27th Iraq’s prime minister ordered security agencies to investigate a Saudi defense ministry claim that drones launched from Iraqi territory attacked Saudi Arabia. Baghdad said it will not allow its territory to be used as a launchpad, will pursue legal measures against anyone proven involved, and described relations with Saudi Arabia as firm and based on mutual respect."
+    },
+    {
+      "id": "5010761",
+      "time": "2026-07-28 02:29:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伊拉克政府已就“伊境內無人機襲擊沙特”展開調查】當地時間27日晚，據伊拉克武裝部隊總司令發言人薩巴赫·努曼宣告，伊拉克總理扎伊迪當天已指示相關安全部門調查沙特國防部宣告中關於伊拉克境內無人機襲擊沙特的表態。宣告重申，伊拉克政府堅持睦鄰友好原則，絕不允許伊拉克領土被用作通道或跳板以發動針對兄弟友好國家的襲擊。伊拉克政府正在展開相關調查，並將根據調查結果對任何被證實參與此類行動的人採取法律手段。宣告強調，伊拉克與沙特的關係牢固緊密，建立在相互尊重、共同利益和睦鄰友好原則之上。（央視新聞）"
+    },
+    {
+      "id": "te:markets:570171",
+      "time": "2026-07-28 02:28:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Near $82 — Crude oil extended losses and fell toward $82 per barrel on Monday, its lowest level in a week, as optimism grew that the conflict in the Middle East could soon ease. President Trump said the US was holding \"good talks\" with Iran and that there was a chance of reaching a deal, but warned that US strikes would resume if negotiations failed. The US paused its military strikes on Iran on Friday, following nearly two weeks of hostilities and Tehran said it had suspended its retaliatory military operations in response and entered talks with Oman regarding navigation through Hormuz. Supply conditions also improved after crude loadings resumed at the Caspian Pipeline Consortium terminal on Russia's Black Sea coast, a key export route for Kazakh oil that had recently been disrupted by Ukrainian drone attacks. Meanwhile, Houthi militants claimed to have targeted Saudi Aramco-linked facilities in Jizan and Yanbu, although neither the Saudi government nor Aramco confirmed it."
+    },
     {
       "id": "te:markets:570170",
       "time": "2026-07-28 02:24:59",
@@ -163204,72 +163265,6 @@
         "WTI"
       ],
       "text": "【Night session front-month contracts close】At the night-session close (02:30), Shanghai gold front-month contract rose 0.05% to 875 yuan/gram; Shanghai silver front-month contract rose 1.13% to 13,840 yuan/kg; SC crude oil front-month contract fell 0.43% to 535 yuan/barrel."
-    },
-    {
-      "id": "mkt:019f80cb-2d59-7aab-8e13-b43fe7186a29",
-      "time": "2026-07-21 02:30:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "China's Shanghai Gold Exchange T+D gold rose 0.11% at the late Monday close on July 20 to 873.3 yuan/gram; silver T+D rose 0.29% to 13,763 yuan/kg."
-    },
-    {
-      "id": "te:markets:568307",
-      "time": "2026-07-21 02:30:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Rises by 1.94% — Top crypto gainers are Ether (1.94%) and Bitcoin (1.33%)."
-    },
-    {
-      "id": "mkt:019f80ca-f515-7aab-8e13-ab9df9cbeb7f",
-      "time": "2026-07-21 02:30:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Regions",
-        "Wall Street (US)",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish",
-        "DLR.O",
-        "EQIX.O"
-      ],
-      "text": "【BlackRock leads at least $12 bln debt package for Meta-backed El Paso data center】Wall Street Journal, citing people familiar, says BlackRock is leading at least $12 bln of debt financing to fund a Meta Platforms-backed hyperscale data center campus in El Paso, Texas. BlackRock’s infrastructure and private credit units hold about 80% of the project’s equity; Meta will hold the remaining 20% as the user. The campus is expected to offer roughly 1 GW of compute capacity. JP Morgan and Morgan Stanley are leading the debt issuance and marketing the deal to other investors. BlackRock has invested heavily in data centers over the past year, including a $40 bln acquisition of Aligned Data Centers; Meta recently agreed to lease capacity at an under‑construction Aligned facility in Shippensburg, Pennsylvania."
-    },
-    {
-      "id": "4998410",
-      "time": "2026-07-21 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌0.43%，報535.30元人民幣/桶。滬金夜盤收漲0.02%，滬銀收漲1.13%。"
-    },
-    {
-      "id": "4998409",
-      "time": "2026-07-21 02:29:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "約旦國家電視臺：約旦武裝部隊攔截了三枚從伊朗發射的導彈。"
-    },
-    {
-      "id": "4998408",
-      "time": "2026-07-21 02:28:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【約旦境內美軍空軍基地受損程度遠超最初報道】約旦境內美軍空軍基地受損程度遠超最初報道。最新評估顯示，約旦穆瓦法克·薩爾蒂空軍基地並非僅遭到單枚火箭彈襲擊，而是遭遇一場大規模、高度協同、精準定點的打擊。情報偵察/近距離空中支援區域內第二座機庫確認遭擊中；美軍士兵宿舍區損毀嚴重，該區域正是此前有美軍人員遇難的地點。多座其他飛機與無人機掩體被徹底摧毀，其中包括此前停放美軍MQ-9“死神”無人機的設施。"
     }
   ]
 }

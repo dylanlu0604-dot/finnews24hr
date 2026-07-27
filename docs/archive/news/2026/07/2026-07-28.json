@@ -1,7 +1,68 @@
 {
   "date": "2026-07-28",
-  "count": 179,
+  "count": 186,
   "items": [
+    {
+      "id": "mkt:019fa4d8-aeab-7aab-8eb5-d05bd0a6687a",
+      "time": "2026-07-28 02:31:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 0.45% at 888.05 yuan/gram in the July 27 night session; silver T+D closed down 1.27% at 14,283.0 yuan/kg."
+    },
+    {
+      "id": "5010764",
+      "time": "2026-07-28 02:31:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：其他國家都不喜歡我，但沒關係，美國優先。"
+    },
+    {
+      "id": "5010763",
+      "time": "2026-07-28 02:30:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：關稅對通用汽車的影響令人驚歎。"
+    },
+    {
+      "id": "5010762",
+      "time": "2026-07-28 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌4.50%，報539.60元人民幣/桶。滬金夜盤收跌0.18%，滬銀收跌0.72%。"
+    },
+    {
+      "id": "mkt:019fa4d7-0779-7aab-8eb5-c9cdcda5f331",
+      "time": "2026-07-28 02:29:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iraq opens probe after Saudi alleges drones were launched from Iraqi territory】On the evening of the 27th Iraq’s prime minister ordered security agencies to investigate a Saudi defense ministry claim that drones launched from Iraqi territory attacked Saudi Arabia. Baghdad said it will not allow its territory to be used as a launchpad, will pursue legal measures against anyone proven involved, and described relations with Saudi Arabia as firm and based on mutual respect."
+    },
+    {
+      "id": "5010761",
+      "time": "2026-07-28 02:29:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伊拉克政府已就“伊境內無人機襲擊沙特”展開調查】當地時間27日晚，據伊拉克武裝部隊總司令發言人薩巴赫·努曼宣告，伊拉克總理扎伊迪當天已指示相關安全部門調查沙特國防部宣告中關於伊拉克境內無人機襲擊沙特的表態。宣告重申，伊拉克政府堅持睦鄰友好原則，絕不允許伊拉克領土被用作通道或跳板以發動針對兄弟友好國家的襲擊。伊拉克政府正在展開相關調查，並將根據調查結果對任何被證實參與此類行動的人採取法律手段。宣告強調，伊拉克與沙特的關係牢固緊密，建立在相互尊重、共同利益和睦鄰友好原則之上。（央視新聞）"
+    },
+    {
+      "id": "te:markets:570171",
+      "time": "2026-07-28 02:28:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Near $82 — Crude oil extended losses and fell toward $82 per barrel on Monday, its lowest level in a week, as optimism grew that the conflict in the Middle East could soon ease. President Trump said the US was holding \"good talks\" with Iran and that there was a chance of reaching a deal, but warned that US strikes would resume if negotiations failed. The US paused its military strikes on Iran on Friday, following nearly two weeks of hostilities and Tehran said it had suspended its retaliatory military operations in response and entered talks with Oman regarding navigation through Hormuz. Supply conditions also improved after crude loadings resumed at the Caspian Pipeline Consortium terminal on Russia's Black Sea coast, a key export route for Kazakh oil that had recently been disrupted by Ukrainian drone attacks. Meanwhile, Houthi militants claimed to have targeted Saudi Aramco-linked facilities in Jizan and Yanbu, although neither the Saudi government nor Aramco confirmed it."
+    },
     {
       "id": "te:markets:570170",
       "time": "2026-07-28 02:24:59",
