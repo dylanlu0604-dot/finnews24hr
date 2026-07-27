@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-28 02:16:55",
-  "count": 17802,
+  "updated": "2026-07-28 02:20:44",
+  "count": 17804,
   "items": [
+    {
+      "id": "mkt:019fa4ce-62ad-7aab-8eb5-b4e5d9766b56",
+      "time": "2026-07-28 02:20:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Traders drove strong demand over the first weekend after CME Group launched 24/7 gold futures."
+    },
+    {
+      "id": "te:markets:570169",
+      "time": "2026-07-28 02:19:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Gains by 1.71% — Top commodity gainers are Platinum (1.71%), Lithium Carbonate (0.69%), Copper (0.65%) and Gold (0.58%). Biggest loser is Iron Ore CNY (-0.67%)."
+    },
+    {
+      "id": "5010759",
+      "time": "2026-07-28 02:19:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守82美元/桶，日內跌8.20%。"
+    },
     {
       "id": "mkt:019fa4ca-113d-7aab-8eb5-a945daa40945",
       "time": "2026-07-28 02:15:33",
@@ -163240,17 +163270,6 @@
         "國際"
       ],
       "text": "市場資訊：伊朗導彈上週襲擊約旦境內美軍營房。"
-    },
-    {
-      "id": "te:markets:568305",
-      "time": "2026-07-21 02:20:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Rises by 1.54% — Top commodity gainers are Silver (1.54%) and Copper (1.52%). Biggest losers are Steel Rebar (-1.03%), Silicon (-0.60%), Iron Ore CNY (-0.52%) and Gold (-0.22%)."
     }
   ]
 }
