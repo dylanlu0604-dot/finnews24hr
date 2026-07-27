@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-28 07:36:32",
-  "count": 17829,
+  "updated": "2026-07-28 07:40:19",
+  "count": 17827,
   "items": [
+    {
+      "id": "mkt:019fa5f2-5ce4-7aab-8eb8-1edb78717bc0",
+      "time": "2026-07-28 07:39:11",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bearish"
+      ],
+      "text": "The U.S. Federal Aviation Administration (FAA) says seats on Boeing 737 MAX aircraft may become loose during emergency landings."
+    },
+    {
+      "id": "mkt:019fa5f2-36fb-7aab-8eb8-17dc28e0e7d5",
+      "time": "2026-07-28 07:39:02",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bearish"
+      ],
+      "text": "The U.S. Federal Aviation Administration said seats on hundreds of Boeing (BA.N) 737 MAX aircraft were installed improperly."
+    },
+    {
+      "id": "5010967",
+      "time": "2026-07-28 07:38:50",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：A股長期致勝的八個宏觀視角】中信建投指出，A股市場將長期致勝。當前我國A股的長期趨勢是向上的，整體市值是紮實的，投資機遇是廣闊的，雖有少數個股泡沫現象，但整體市場沒有系統性風險，產業進步和業績成長顯著。而美股全市場系統性泡沫因素極高，雖其仍有科技、貨幣優勢，但全市場產業空心化、價格泡沫化系統性風險不容忽視。相較美股，A股有八個優勢。其一，總市值水平不同，為安全邊際優勢；其二，槓桿規模不同，為流動性條件優勢；其三，貨幣信用不同，為主權信用優勢；其四，AI發展模式不同，為AI前景優勢；其五，產業更新節奏不同，為向新速度優勢；其六，產業鏈質量不同，為產業鏈優勢；其七，產業實績不同，為成長業績優勢；其八，未來潛力不同，為重估潛力優勢。"
+    },
+    {
+      "id": "5010966",
+      "time": "2026-07-28 07:37:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新思科技攜微軟推出AI晶片設計自主智慧體工作流，加速晶片研發】新思科技（Synopsys）7月27日宣佈，與微軟合作開發面向晶片設計的自主智慧體AI工作流，並已上線微軟Discovery平臺供客戶評估。該方案基於新思科技AgentEngineer技術，旨在利用AI智慧體提升工程自動化水平，加快從晶片到系統的產品設計流程。新思科技展示了兩項自主AI工作流，包括用於晶片驗證的自動化除錯閉環流程，以及基於Fusion Compiler和Azure的自動化實現最佳化流程。其中，除錯閉環工作流可透過AI智慧體識別設計缺陷、分析根因並執行除錯任務，早期測試顯示可將除錯周期縮短25%至40%。此外，新思科技還與AMD、微軟合作推進AI驅動的晶片設計流程，AMD正在評估相關技術用於下一代產品研發。"
+    },
+    {
+      "id": "5010965",
+      "time": "2026-07-28 07:36:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美伊衝突持續暫停之際油價下跌】在美伊衝突持續暫停之際，亞洲早盤油價下跌。澳洲聯邦銀行的John Oh在一份研究報告中表示：“美國連續第三個夜晚暫停對伊朗的日常打擊，而伊朗繼續發出避免任何報復性襲擊的訊號。“該經濟學家補充道：“裡海管道聯合體終端在上週關閉後於週一恢復石油出口，為石油市場增添了另一個緩解因素。“近月西得州中質油期貨下跌0.6%，報每桶82.08美元。"
+    },
+    {
+      "id": "5010964",
+      "time": "2026-07-28 07:36:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普為何突然叫停對伊空襲？潛在“最直接原因”曝光：攻擊性彈藥消耗過多】 美軍連續對伊朗空襲13天之後，美國總統特朗普於7月24日宣佈“暫停對伊朗發動新一輪打擊”，伊朗隨即也宣佈“暫停對等打擊行動”，中東戰火暫時告一段落。對於特朗普為何突然叫停對伊空襲，外界猜測紛紛，但廣為流傳的說法是，美軍武器彈藥的極度消耗，讓五角大樓繼續開動戰爭機器已經難以為繼。以色列《新訊息報》網站26日稱，由於彈藥短缺，美國對伊朗境內目標的打擊方式發生了明顯變化。在7月初的對伊朗空襲行動初期，美軍更多地依賴遠端“戰斧”巡航導彈和JASSM隱形巡航導彈。但空襲行動後期，美軍明顯減少了這些遠端導彈的使用，轉而更多地使用衛星定位導引的聯合直接攻擊彈藥（JDAM）和小直徑炸彈（SDB）。美國《紐約時報》25日提到，除了用於進攻的彈藥嚴重不足之外，美軍防禦伊朗反擊的攔截導彈數量也接近見底。（環球網）"
+    },
     {
       "id": "5010963",
       "time": "2026-07-28 07:35:41",
@@ -163401,80 +163454,6 @@
         "資料"
       ],
       "text": "【凱投宏觀：紐西蘭CPI資料尚不足以令紐西蘭央行恐慌】凱投宏觀經濟學家Abhijit Surya表示，第二季度紐西蘭經濟中價格壓力的上升並非特別廣泛，核心通脹指標依然表現良好。他補充說，因此紐西蘭央行沒有充分的理由大幅加息。他表示，整體指標的上升幾乎完全可以歸因於可貿易品通脹，該通脹率從2.5%躍升至4.9%的三年高點。他補充說，儘管整體通脹資料難看，但這些資料不會讓紐西蘭央行產生連續加息的緊迫感。"
-    },
-    {
-      "id": "4998590",
-      "time": "2026-07-21 07:40:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【衝刺“人形機器人第一城” 深圳何以跑成“機圈頂流”】2026年7月，逐際動力完成近2億美元Pre-IPO輪融資，這家成立僅四年的深圳企業半年內吸金4億美元，投後估值達150億元。稍早前，具身智慧企業自變數估值突破200億元，跨維智慧跨入百億俱樂部——短短一個月，多家深圳機器人企業集中完成大額融資。放眼全國，深圳的機器人產業格外耀眼：2025年總產值達2426億元，同比增長20.56%，創歷史新高，產業產值、企業總數、上市公司數量和投融資事件均居全國首位。僅南山區機器人谷，就集聚了超過200家產業鏈企業、32家專精特新“小巨人”企業。從南山“機器人谷”到龍崗“機器人街區”，從萬臺量產下線到全域場景開放，深圳正全速衝刺“人形機器人第一城”。（經濟參考報）"
-    },
-    {
-      "id": "te:markets:568331",
-      "time": "2026-07-21 07:39:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Holds Gains as US-Iran Conflict Continues — Brent held near $89 per barrel on Tuesday, hovering around five-week highs as US attacks on Iran entered a tenth consecutive day, while Tehran continued retaliatory strikes against neighboring countries. Tensions intensified after President Donald Trump said Iran had been warned that it would be held responsible for the deaths of three US service members. Iran-backed Houthi militants also announced a maritime embargo against Saudi Arabia, raising concerns over energy shipments through the Red Sea. Meanwhile, Iran said mediators had put forward proposals to help ease tensions with the US after several days of fighting, while reports pointed to a possible 10-day ceasefire. Vessel traffic through the Strait of Hormuz declined sharply this week following Iranian attacks on ships over the weekend, tightening the global supply outlook and continuing to support oil prices."
-    },
-    {
-      "id": "4998589",
-      "time": "2026-07-21 07:39:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【羅博特科：目前客戶相關方案已有高達160通道光纖FAU需求】7月20日晚，羅博特科在電話會議上表示，隨著光互聯技術向更高光纖數量方向發展——目前我們已接觸到的客戶相關的方案已經有高達160通道的光纖FAU的需求——傳統方式已難以滿足生產效率與一致性要求，整線自動化將成為明確的發展趨勢。目前海外部分FAU製造商已在逐步匯入ficonTEC的全自動化產線。"
-    },
-    {
-      "id": "4998588",
-      "time": "2026-07-21 07:38:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "甲骨文威斯康星州大型資料中心或需繳納超 70 億美元擔保金。該州電力監管機構收緊相關規定後，甲骨文在建的威斯康星大型資料中心或將面臨高達 70 多億美元的擔保繳存要求。"
-    },
-    {
-      "id": "4998587",
-      "time": "2026-07-21 07:38:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【19家食品飲料上市公司中期業績預喜】資料統計顯示，截至7月20日，在已披露2026年半年度業績預告的A股食品飲料上市公司中，有19家公司預喜，其中13家預增、6家扭虧。"
-    },
-    {
-      "id": "4998586",
-      "time": "2026-07-21 07:38:12",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【回購、增持、自購、分紅 多方合力護航資本市場穩健發展】昨日，證監會召開座談會，就促進市場穩定健康發展聽取各方意見建議。上市公司、金融機構等市場參與主體紛紛以實際行動傳遞對資本市場長期投資價值的信心。20日晚間，一批上市公司密集推出股份回購計劃，多家重要股東同步啟動增持。進入7月以來，不少上市公司提議制定2026年中期現金分紅方案，釋放穩定回饋股東的明確訊號。多家企業此次擬定的中期分紅力度，較2025年同期明顯提升。近兩日，不同型別的金融機構紛紛行動起來，為市場的穩健執行添磚加瓦。私募在自購。國內兩家頭部量化私募——靈均投資、平方和投資相繼宣佈，將使用自有資金申購旗下私募證券基金產品。券商在回購。華安證券、國聯民生、紅塔證券、中泰證券相繼公告回購方案。"
-    },
-    {
-      "id": "te:markets:568330",
-      "time": "2026-07-21 07:38:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Holds Gains as US-Iran Conflict Continues — Crude oil held near $83 per barrel on Tuesday, hovering around five-week highs as US attacks on Iran entered a tenth consecutive day, while Tehran continued retaliatory strikes against neighboring countries. Tensions intensified after President Donald Trump said Iran had been warned that it would be held responsible for the deaths of three US service members. Iran-backed Houthi militants also announced a maritime embargo against Saudi Arabia, raising concerns over energy shipments through the Red Sea. Meanwhile, Iran said mediators had put forward proposals to help ease tensions with the US after several days of fighting, while reports pointed to a possible 10-day ceasefire. Vessel traffic through the Strait of Hormuz declined sharply this week following Iranian attacks on ships over the weekend, tightening the global supply outlook and continuing to support oil prices."
-    },
-    {
-      "id": "mkt:019f81e3-77b7-7aab-8e16-1930825aaab7",
-      "time": "2026-07-21 07:36:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【War-risk premiums for Strait of Hormuz transits hit 10%, highest this round of conflict】After weekend attacks, war-risk premiums for vessels transiting the Strait of Hormuz have risen to as much as 10% of ship value, the highest level in this round of conflict. On Monday an underwriter said rates were 8–10%; two other underwriters and one broker put rates at 10%, with one broker saying policies include no-claims discounts. Another broker reported rates around 7.5%. A second underwriter said shipowners are balking at paying such high transit premiums."
     }
   ]
 }
