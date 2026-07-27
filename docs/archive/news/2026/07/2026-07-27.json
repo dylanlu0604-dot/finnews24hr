@@ -1,7 +1,434 @@
 {
   "date": "2026-07-27",
-  "count": 392,
+  "count": 439,
   "items": [
+    {
+      "id": "5008981",
+      "time": "2026-07-27 09:06:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "塑膠連續主力合約日內跌4%，現報7685.00元。"
+    },
+    {
+      "id": "mkt:019fa11c-47ff-7aab-8e9e-715e6ca20750",
+      "time": "2026-07-27 09:06:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Housing Administration Commissioner Pulte said he has been acting Director of National Intelligence for only a few weeks, but the office has already made significant progress on operational execution and in improving transparency."
+    },
+    {
+      "id": "5008980",
+      "time": "2026-07-27 09:06:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌4%，現報4125.00元。"
+    },
+    {
+      "id": "5008979",
+      "time": "2026-07-27 09:06:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瓶片連續主力合約日內跌4%，現報7168.00元。"
+    },
+    {
+      "id": "mkt:019fa11c-2c5f-7aab-8e9e-6a13b87c08f5",
+      "time": "2026-07-27 09:06:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Guojin Securities: Beauty sub-sectors offer breakout opportunities; emphasise AI-driven cost cuts】Guojin Securities says China’s beauty sector is moving to refined, stock-based operations. 618 sales slipped slightly but mix improved; brands are shifting toward repurchase-driven growth and profit orientation. Upgraded categories such as color cosmetics and fragrances are the main sources of incremental demand. Policy now for the first time includes beauty subsidies, with targeted support for leading domestic and high-end efficacy brands. AI-driven, end-to-end cost reduction and efficiency gains are materialising—AI-generated creative and ad-placement/managed-service automation are lifting margins. Channel dynamics: Taobao/Tmall remain the domestic brands’ base, while Douyin is the primary battleground for foreign-capital pushback; domestic names need to deepen moats in efficacy skincare and national-style color cosmetics. Recommended focus: three stock buckets — Q2 earnings recovery, firms with stable high-end brand equity, and mass-market names with clear value-for-money advantages — to capture structural opportunities."
+    },
+    {
+      "id": "5008978",
+      "time": "2026-07-27 09:05:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國窖1573領跌 白酒大單品總價失守9900】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月27日小幅回撥。如果主要單品各取一瓶整體打包售賣，今日總售價為9896元，較昨日下跌7元，在連續兩天回升後回撥，自昨日創下的21天高點小幅回落，再度失守9900元關口，但較7月18日創下的階段低點仍高出91元。縱觀全場，過去一天酒市終端交投情緒環比有所降溫，總價在9900元上方承壓回落，低位修復格局尚未改寫。\n\n今日11大白酒單品三漲六跌兩平，輸家佔據明顯優勢。上漲方面，精品茅臺與五糧液普五八代並列領漲，均上漲9元/瓶。其中，精品茅臺終結此前三連陰，自近一個月最低位明顯反彈，重新逼近2400元大關；五糧液普五八代錄得三連陽，價格快速上探叩關800元。青花汾20上漲2元/瓶，自近一個月次低位小幅反彈，重上370元關口。下跌方面，國窖1573跌幅居前，下跌8元/瓶，創近一個月最大單日跌幅，並重新整理近一個月最低價；古井貢古20與青花郎均下跌6元/瓶，其中前者結束此前兩連漲，後者回吐昨日全部漲幅，自近一個月最高位回落；洋河夢之藍M6+下跌3元/瓶，四連漲告終，再度失守600元大關；飛天茅臺與習酒君品均下跌2元/瓶，其中前者的全國零售均價連續六日自7.18提價後創下的階段高位小幅回撥，後者三連陽告終，自近一個月最高位小幅回落。五糧液1618與水晶劍南春價格環比昨日保持不變，其中前者連續三日維持在818元/瓶，後者連續兩日維持在403元/瓶。"
+    },
+    {
+      "id": "5008977",
+      "time": "2026-07-27 09:05:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丁二烯橡膠連續主力合約日內跌5%，現報13290.00元。"
+    },
+    {
+      "id": "5008976",
+      "time": "2026-07-27 09:04:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "短纖連續主力合約日內跌4%，現報7284.00元。"
+    },
+    {
+      "id": "5008975",
+      "time": "2026-07-27 09:04:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌3%，現報4776.00元。"
+    },
+    {
+      "id": "5008974",
+      "time": "2026-07-27 09:03:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內跌5%，現報8492.00元。"
+    },
+    {
+      "id": "5008973",
+      "time": "2026-07-27 09:03:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國代理國家情報總監稱該部門完成第四輪裁員】美國代理國家情報總監Bill Pulte在X上發帖表示，“我們的團隊一直在明智而謹慎地縮減國家情報總監辦公室的規模，使其重新專注於國家安全、法律和法規。”Pulte表示，截至當晚辦公室已完成第四輪“深思熟慮、有計劃的裁員”。"
+    },
+    {
+      "id": "5008972",
+      "time": "2026-07-27 09:03:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌5%，現報5664.00元。"
+    },
+    {
+      "id": "5008971",
+      "time": "2026-07-27 09:03:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌4%，現報8121.00元。"
+    },
+    {
+      "id": "5008970",
+      "time": "2026-07-27 09:02:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股股票回購一覽：54只個股獲公司回購】Wind資料顯示，7月24日，共54只港股獲公司回購，6只個股回購金額超千萬港元。其中，小米集團-W、林清軒、華潤燃氣回購金額最大，分別獲公司回購4999.94萬港元、2961.04萬港元、1894.77萬港元。截至7月24日，今年已有295只港股獲公司回購，87只個股年內累計回購金額超億港元。其中，騰訊控股、友邦保險、小米集團-W年內累計回購金額最大，分別獲公司回購261.28億港元、136.35億港元、113.16億港元。"
+    },
+    {
+      "id": "5008969",
+      "time": "2026-07-27 09:02:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌2%，現報4535.00元。"
+    },
+    {
+      "id": "5008968",
+      "time": "2026-07-27 09:01:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "油價大跌，菲律賓比索擺脫歷史低點。"
+    },
+    {
+      "id": "mkt:019fa117-1f37-7aab-8e9e-617d51678d34",
+      "time": "2026-07-27 09:01:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan's TAIEX opened down 188.91 points, or 0.43%, at 43,465.93 on Monday, July 27."
+    },
+    {
+      "id": "mkt:019fa116-f005-7aab-8e9e-5db9c9852f56",
+      "time": "2026-07-27 09:01:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 1.56% at the opening on Monday July 27 to 894.96 yuan/gram; silver T+D jumped 3.56% to 14,565 yuan/kg."
+    },
+    {
+      "id": "5008967",
+      "time": "2026-07-27 09:01:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丙烯連續主力合約日內跌4%，現報7728.00元。"
+    },
+    {
+      "id": "5008966",
+      "time": "2026-07-27 09:00:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "塑膠連續主力合約日內跌3%，現報7763.00元。"
+    },
+    {
+      "id": "5008965",
+      "time": "2026-07-27 09:00:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌4%，現報2642.00元。"
+    },
+    {
+      "id": "5008964",
+      "time": "2026-07-27 09:00:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報2720.00點。"
+    },
+    {
+      "id": "5008963",
+      "time": "2026-07-27 09:00:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純苯連續主力合約日內跌5%，現報7402.00元。"
+    },
+    {
+      "id": "5008962",
+      "time": "2026-07-27 09:00:34",
+      "tags": [],
+      "text": "國內期貨主力合約跌多漲少，SC原油跌近7％，低硫燃料油（LU）跌超6％，燃料油跌近6％，液化石油氣（LPG）跌超5％，苯乙烯（EB）、純苯跌近4％，合成橡膠跌超3％，瀝青跌近3％。漲幅方面，滬銀漲超3％，燒鹼漲超2％，鉑、鈀、滬錫、蘋果、碳酸鋰、滬金、玻璃漲超1％，矽鐵漲近1％。"
+    },
+    {
+      "id": "5008961",
+      "time": "2026-07-27 09:00:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌3%，現報8204.00元。"
+    },
+    {
+      "id": "5008960",
+      "time": "2026-07-27 09:00:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "對二甲苯連續主力合約日內跌5%，現報8064.00元。"
+    },
+    {
+      "id": "5008959",
+      "time": "2026-07-27 09:00:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內跌7%，現報4624.00元。"
+    },
+    {
+      "id": "mkt:019fa116-4bc9-7aab-8e9e-57d3cadaa67c",
+      "time": "2026-07-27 09:00:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "At the open, China's main futures contracts were mostly lower. SC crude fell about 7 pct, low-sulfur fuel oil (LU) dropped over 6 pct, fuel oil slid nearly 6 pct and LPG declined more than 5 pct. Styrene (EB) and benzene fell about 4 pct, synthetic rubber dropped over 3 pct and asphalt eased roughly 3 pct. On the upside, Shanghai silver rose over 3 pct and caustic soda gained more than 2 pct; platinum, palladium, Shanghai tin, apples, lithium carbonate, Shanghai gold and glass were up over 1 pct, while ferrosilicon rose about 1 pct."
+    },
+    {
+      "id": "5008958",
+      "time": "2026-07-27 09:00:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丁二烯橡膠連續主力合約日內跌4%，現報13420.00元。"
+    },
+    {
+      "id": "5008957",
+      "time": "2026-07-27 09:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.2%報43,585.92。"
+    },
+    {
+      "id": "5008956",
+      "time": "2026-07-27 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內跌5%，現報5488.00元。"
+    },
+    {
+      "id": "5008955",
+      "time": "2026-07-27 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌2%，現報8242.00元。"
+    },
+    {
+      "id": "5008954",
+      "time": "2026-07-27 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌6%，現報3664.00元。"
+    },
+    {
+      "id": "5008953",
+      "time": "2026-07-27 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.25%。"
+    },
+    {
+      "id": "5008952",
+      "time": "2026-07-27 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內跌4%，現報8560.00元。"
+    },
+    {
+      "id": "5008951",
+      "time": "2026-07-27 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報14606.00元。"
+    },
+    {
+      "id": "5008950",
+      "time": "2026-07-27 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌7%，現報550.90元。"
+    },
+    {
+      "id": "5008949",
+      "time": "2026-07-27 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌5%，現報3689.00元。"
+    },
+    {
+      "id": "5008948",
+      "time": "2026-07-27 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌3%，現報2655.00元。"
+    },
+    {
+      "id": "5008947",
+      "time": "2026-07-27 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "對二甲苯連續主力合約日內跌4%，現報8088.00元。"
+    },
+    {
+      "id": "5008946",
+      "time": "2026-07-27 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌3%，現報4158.00元。"
+    },
+    {
+      "id": "5008945",
+      "time": "2026-07-27 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純苯連續主力合約日內跌4%，現報7477.00元。"
+    },
+    {
+      "id": "5008944",
+      "time": "2026-07-27 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌4%，現報5700.00元。"
+    },
+    {
+      "id": "5008943",
+      "time": "2026-07-27 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內跌6%，現報4629.00元。"
+    },
+    {
+      "id": "5008942",
+      "time": "2026-07-27 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】上海原油連續跌7.07%，低硫燃料油連續跌6.94%，燃料油連續跌5.96%，液化石油氣連續跌5.32%，對二甲苯連續跌4.76%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607273821342149",
+      "time": "2026-07-27 08:59:21",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【加息or不加息？沃什本週面臨任內首個重大抉擇！】當地時間本週二，美聯儲即將開啟為期兩天的7月議息會議。而眼下，美國經濟正面臨物價壓力再度加劇的局面，這可能使他們關於是維持利率不變還是加息的決定，變得更加難以抉擇——且註定將充滿爭議。目前，利率市場的交易員認為，美聯儲本週宣佈加息的可能性超過三分之一，此前中東緊張局勢加劇推高了油價，加劇了人們對通脹和美債收益率上行的擔憂。"
+    },
+    {
+      "id": "5008941",
+      "time": "2026-07-27 08:59:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國風新材：年產10億平米光學級聚酯基膜專案G1線目前已完成裝置安裝】國風新材7月27日在互動平臺表示，公司年產10億平米光學級聚酯基膜專案的G1線為MLCC用光學級聚酯基膜生產線，目前已完成裝置安裝，正按計劃進行裝置除錯及工藝引數的精細化調校，後續將開展帶料試車及全流程穩態執行驗證，專案整體進展符合預期。"
+    },
     {
       "id": "5008940",
       "time": "2026-07-27 08:57:38",
