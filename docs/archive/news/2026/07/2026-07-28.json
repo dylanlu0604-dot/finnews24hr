@@ -1,7 +1,27 @@
 {
   "date": "2026-07-28",
-  "count": 258,
+  "count": 260,
   "items": [
+    {
+      "id": "5010812",
+      "time": "2026-07-28 03:46:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱美國正在強力打壓伊朗，同時雙方也在開展友好談判。"
+    },
+    {
+      "id": "mkt:019fa51a-7a64-7aab-8eb6-a73329278bd9",
+      "time": "2026-07-28 03:43:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said the U.S. will swiftly end Iran's nuclear threat."
+    },
     {
       "id": "5010811",
       "time": "2026-07-28 03:41:23",

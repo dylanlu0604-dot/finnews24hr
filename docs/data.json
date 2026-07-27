@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-28 03:43:07",
+  "updated": "2026-07-28 03:46:58",
   "count": 17823,
   "items": [
+    {
+      "id": "5010812",
+      "time": "2026-07-28 03:46:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱美國正在強力打壓伊朗，同時雙方也在開展友好談判。"
+    },
+    {
+      "id": "mkt:019fa51a-7a64-7aab-8eb6-a73329278bd9",
+      "time": "2026-07-28 03:43:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said the U.S. will swiftly end Iran's nuclear threat."
+    },
     {
       "id": "5010811",
       "time": "2026-07-28 03:41:23",
@@ -163393,28 +163413,6 @@
         "國際"
       ],
       "text": "美國白宮：特朗普簽署公告，授權商務部長設立激勵計劃，扶持投資鋁冶煉廠的企業。"
-    },
-    {
-      "id": "4998444",
-      "time": "2026-07-21 03:45:35",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國白宮：特朗普出臺進一步舉措，調整美國鋁製品進口相關政策。"
-    },
-    {
-      "id": "mkt:019f810d-c653-7aab-8e14-62798aced853",
-      "time": "2026-07-21 03:43:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "Trump issued an executive order stating U.S. defense contractors could lose contracts if they fail to replace foreign suppliers deemed risky. The order requires contractors to prioritize exhausting domestic procurement options and to map supply chains for critical minerals and components in weapons systems."
     }
   ]
 }
