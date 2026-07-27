@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-28 06:32:10",
-  "count": 17824,
+  "updated": "2026-07-28 06:35:55",
+  "count": 17823,
   "items": [
+    {
+      "id": "mkt:019fa5b8-1306-7aab-8eb7-ce3fd54a0696",
+      "time": "2026-07-28 06:35:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said a new round of Section 301 tariffs should not cause economic effects the U.S. has not already experienced."
+    },
+    {
+      "id": "te:markets:570189",
+      "time": "2026-07-28 06:35:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Gains by 1.80% — Top commodity gainers are Platinum (1.80%), Copper (0.73%), Silver (0.72%) and Gold (0.55%). Biggest loser is Iron Ore CNY (-0.67%)."
+    },
+    {
+      "id": "5010907",
+      "time": "2026-07-28 06:34:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "強生擬斥資55億美元和解滑石粉致卵巢癌相關索賠案。"
+    },
+    {
+      "id": "mkt:019fa5b5-f4b9-7aab-8eb7-c629e1e31d15",
+      "time": "2026-07-28 06:33:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu and his delegation arrived in Washington, the prime minister's office said."
+    },
+    {
+      "id": "5010906",
+      "time": "2026-07-28 06:33:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "強生：研究顯示滑石粉安全，不含石棉且不會致癌。"
+    },
     {
       "id": "te:markets:570188",
       "time": "2026-07-28 06:30:11",
@@ -163376,76 +163419,6 @@
         "市場"
       ],
       "text": "紐約期銀日內跌1%，現報56.50美元/盎司。"
-    },
-    {
-      "id": "mkt:019f81ab-91c4-7aab-8e15-be78c1f3818d",
-      "time": "2026-07-21 06:35:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Senate Republican leader John Thune said a sanctions bill targeting Russia could soon be brought to the Senate floor for consideration."
-    },
-    {
-      "id": "te:markets:568320",
-      "time": "2026-07-21 06:35:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Copper Rises by 1.10% — Top commodity gainers are Copper (1.10%) and Silver (0.65%). Biggest losers are Platinum (-1.04%), Steel Rebar (-1.03%), Silicon (-0.60%) and Gold (-0.22%)."
-    },
-    {
-      "id": "4998537",
-      "time": "2026-07-21 06:34:52",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【週二重要財經資訊提醒（以下均為北京時間）】\n① 06:45 紐西蘭二季度CPI；\n② 08:00 韓國7月出口20天；\n③ 時間待定 2026中國汽車論壇開幕（7月21-23日）；\n④ 14:00 英國5月三個月ILO就業人數與失業率；\n⑤ 17:00 歐元區7月ZEW經濟景氣指數，德國7月ZEW經濟景氣指數；\n⑥ 美股盤前 通用汽車、3M等釋出業績報告。"
-    },
-    {
-      "id": "4998536",
-      "time": "2026-07-21 06:33:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日媒：美國五大科技巨頭的“隱性債務”飆升至1.65萬億美元】《日經新聞》的一項研究顯示，隨著人工智慧投資的激增，美國科技巨頭的隱性債務在短短四年內增長了八倍，估計達到1.65萬億美元。這一數字超過了它們賬面上的實際債務，使得投資者更難評估相關風險。《日經新聞》分析了谷歌母公司Alphabet、微軟、亞馬遜、Meta和甲骨文近期的財務報表及其他資料。其中，Meta的表外債務尤為高昂，約為4200億美元，幾乎是其賬面記錄債務的三倍。"
-    },
-    {
-      "id": "mkt:019f81a9-ecad-7aab-8e15-b73f5a9896d1",
-      "time": "2026-07-21 06:33:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "Alphabet",
-        "Amazon",
-        "Meta Platforms",
-        "MSFT.O",
-        "Impact bearish",
-        "GOOGL.O",
-        "AMZN.O"
-      ],
-      "text": "【Nikkei: Hidden liabilities at five US tech giants surge to $1.65 trillion】Nikkei analysis says off‑balance-sheet liabilities at Alphabet, Microsoft, Amazon, Meta and Oracle have risen eightfold in four years to about $1.65 trillion as AI investment surged, exceeding their reported on‑balance debt and complicating investor risk assessment. Meta's off‑balance liabilities are estimated at roughly $420 billion, nearly three times its recorded debt."
-    },
-    {
-      "id": "4998535",
-      "time": "2026-07-21 06:32:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【四大險企發聲看好資本市場，部分險資逆勢加倉】在A股市場劇烈波動下，作為長期資金的險資依舊看好後市投資機會，並且部分險資已逆勢加倉。“近期市場回撥過快，我們有加倉，而且加倉了科技股。”上海一家萬億級險資機構的權益投資相關負責人說，後續市場回撥還會繼續尋找合適機會加倉。一家養老險公司投資部總經理告訴記者：“當前我們依舊保持著較高的權益倉位，只是在持倉板塊內部做了一些結構性調整。”就具體的超額收益投資機會來看，大部分險資機構依舊看好科技股投資機會。 “資本市場短期波動屬於正常現象，被資本市場短期波動牽著鼻子走，從過往經驗看，通常難有好的業績表現。”一家養老險公司的權益投資相關負責人對記者表示。（上證報）"
     }
   ]
 }

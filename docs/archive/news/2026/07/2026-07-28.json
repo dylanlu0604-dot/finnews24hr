@@ -1,7 +1,50 @@
 {
   "date": "2026-07-28",
-  "count": 399,
+  "count": 404,
   "items": [
+    {
+      "id": "mkt:019fa5b8-1306-7aab-8eb7-ce3fd54a0696",
+      "time": "2026-07-28 06:35:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said a new round of Section 301 tariffs should not cause economic effects the U.S. has not already experienced."
+    },
+    {
+      "id": "te:markets:570189",
+      "time": "2026-07-28 06:35:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Gains by 1.80% — Top commodity gainers are Platinum (1.80%), Copper (0.73%), Silver (0.72%) and Gold (0.55%). Biggest loser is Iron Ore CNY (-0.67%)."
+    },
+    {
+      "id": "5010907",
+      "time": "2026-07-28 06:34:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "強生擬斥資55億美元和解滑石粉致卵巢癌相關索賠案。"
+    },
+    {
+      "id": "mkt:019fa5b5-f4b9-7aab-8eb7-c629e1e31d15",
+      "time": "2026-07-28 06:33:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu and his delegation arrived in Washington, the prime minister's office said."
+    },
+    {
+      "id": "5010906",
+      "time": "2026-07-28 06:33:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "強生：研究顯示滑石粉安全，不含石棉且不會致癌。"
+    },
     {
       "id": "te:markets:570188",
       "time": "2026-07-28 06:30:11",
