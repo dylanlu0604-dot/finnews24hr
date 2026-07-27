@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-28 01:20:37",
+  "updated": "2026-07-28 01:24:29",
   "count": 17786,
   "items": [
+    {
+      "id": "5010736",
+      "time": "2026-07-28 01:22:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗駐俄大使：烏克蘭襲擊伊朗船隻是犯罪行為】7月27日，伊朗駐俄羅斯大使賈拉利表示，烏克蘭對伊朗船隻的襲擊是犯罪行為，並強調這艘船完全是民用船隻，未載有任何軍用貨物。烏克蘭軍方25日在裡海襲擊一艘伊朗商船，伊方對此強烈譴責並召見烏克蘭駐伊朗臨時代辦。（央視）"
+    },
+    {
+      "id": "mkt:019fa498-e14e-7aab-8eb5-03ba1b9d4389",
+      "time": "2026-07-28 01:21:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE Foreign Ministry said the UAE strongly condemns the aggressive attack against Jordan."
+    },
     {
       "id": "5010735",
       "time": "2026-07-28 01:19:40",
@@ -62,6 +78,15 @@
         "Brent"
       ],
       "text": "U.S. Strategic Petroleum Reserve crude stocks fell about 3.7 mln barrels last week to 307.7 mln barrels, the lowest level since 1983."
+    },
+    {
+      "id": "em:qqyh_mlc:202607283822497767",
+      "time": "2026-07-28 01:17:22",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "週一（7月27日），美聯儲隔夜逆回購協議（RRP）使用規模為13.80億美元。"
     },
     {
       "id": "5010733",
@@ -163091,33 +163116,6 @@
         "其他"
       ],
       "text": "市場資訊：住友化學將量產電動汽車固態電池材料。"
-    },
-    {
-      "id": "mkt:019f808e-bc42-7aab-8e13-3bbd22492916",
-      "time": "2026-07-21 01:24:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian foreign minister Araghchi congratulated Hamas’s new leader Khalil Hayya on his election and reiterated Iran will continue to support Palestinian-related actions."
-    },
-    {
-      "id": "mkt:019f808b-e75c-7aab-8e13-35afc7f3efcc",
-      "time": "2026-07-21 01:21:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House says the new Air Force One will undergo additional upgrades and modifications this autumn, expected to take about one month."
-    },
-    {
-      "id": "mkt:019f808b-c59f-7aab-8e13-2ffb41ff6a3d",
-      "time": "2026-07-21 01:21:11",
-      "tags": [
-        "MKT News",
-        "WBD.O",
-        "Impact bearish",
-        "PSKY.O"
-      ],
-      "text": "Warner Bros. Discovery (WBD.O) and Paramount Global (PSKY.O) extended intraday losses, down 1.38% and 1.66% respectively."
     }
   ]
 }
