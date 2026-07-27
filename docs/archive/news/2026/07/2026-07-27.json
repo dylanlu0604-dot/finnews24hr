@@ -1,7 +1,61 @@
 {
   "date": "2026-07-27",
-  "count": 341,
+  "count": 346,
   "items": [
+    {
+      "id": "mkt:019fa0fc-840e-7aab-8e9e-1293411017ad",
+      "time": "2026-07-27 08:32:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DXY",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【Science and Technology Daily criticises US claims that Kimi K3 was distilled from ANTHROPIC's Fable】On July 22, White House OSTP director Michael Kratsios posted on social media alleging Chinese AI firm Moonshot AI distilled ANTHROPIC's Fable to develop the Kimi K3 model. Hours later U.S. Treasury Secretary Scott Bessent warned he could respond with sanctions and placement on a U.S. entity list over the alleged distillation."
+    },
+    {
+      "id": "te:markets:569884",
+      "time": "2026-07-27 08:32:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Baker Hughes earnings above expectations at 0.64 USD — Baker Hughes (BKR) released earnings per share at 0.64 USD, compared to market expectations of 0.49 USD."
+    },
+    {
+      "id": "5008906",
+      "time": "2026-07-27 08:31:41",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本6月服務業PPI同比上漲3.2%  伊朗戰爭導致運費居高不下】日本央行週一公佈的資料顯示，6月服務業生產者物價指數(PPI)同比上漲3.2%，反映通脹壓力擴大跡象，將使市場繼續預期央行將進一步加息。5月PPI經修正後為同比上漲3.4%。資料顯示，此次上漲主要受運輸成本持續攀升推動，6月運輸成本同比上漲5.3%，中東衝突導致的燃料價格上漲及供應中斷，使得海運和空運運費居高不下。"
+    },
+    {
+      "id": "5008905",
+      "time": "2026-07-27 08:31:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "CFETS：7月24日人民幣匯率指數按周漲0.33至102.75。"
+    },
+    {
+      "id": "5008904",
+      "time": "2026-07-27 08:31:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大陸首次在臺東海域漁業科考，記者隨船採訪，見證科考人員“不畏巨浪，不懼滋擾”】七月中旬的一個午夜，在臺灣島以東某海域，來自農業農村部中國水產科學研究院東海水產研究所的“藍海201”號漁業科學綜合調查船上依舊熱火朝天。隨著調查網具緩緩吊起，採集到的樣品傾瀉進樣品筐中，一股濃烈的海腥味撲面而來。但中國水產科學研究院東海水產研究所副研究員石永闖博士卻興奮地摘下口罩，俯身湊近這批來自相對陌生海域的小生命。對於平均年齡僅為35歲的漁業科考隊員來說，這是他們首次踏入這片中國漁民的傳統漁場。對他們而言，這是一場傳承歷史使命的科考之旅。他們也為在“波濤洶湧”的時刻來到這片中國管轄海域感到自豪。7月23日，在“藍海201”號啟航7天后，這場在我國臺灣島以東海域開展的綜合性資源與環境科學調查才被官宣。這7天中，跟隨“藍海201”號重新整理航跡的記者，既領略了這片“祖宗海”的美麗，也親歷了外部勢力的滋擾。本次科考航次首席科學家、東海水產研究所副所長鄭漢豐告訴記者，此行最具里程碑意義之處，在於填補了我國臺東海域的漁業調查空白，進而完善了我國專屬經濟區漁業資源科學調查的區域版圖。（環球時報）"
+    },
     {
       "id": "mkt:019fa0fb-35c7-7aab-8e9e-0b44ed4f7758",
       "time": "2026-07-27 08:30:45",
