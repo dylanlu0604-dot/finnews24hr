@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-27 22:57:25",
-  "count": 17804,
+  "updated": "2026-07-27 23:01:20",
+  "count": 17795,
   "items": [
+    {
+      "id": "5010630",
+      "time": "2026-07-27 23:00:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "NBC 環球與 YouTube TV 續簽分銷合作協議。"
+    },
+    {
+      "id": "5010629",
+      "time": "2026-07-27 23:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "NBC 環球與 YouTube 達成合作，將孔雀流媒體平臺接入 YouTube Premium。"
+    },
+    {
+      "id": "te:markets:570142",
+      "time": "2026-07-27 23:00:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Norwegian Krone Depreciates by 0.87% — Top currency losers are Norwegian Krone (-0.87%) and South Korean Won (-0.66%). Gains are led by Indian Rupee (0.38%) and Australian Dollar (0.27%). Meanwhile, Euro, Japanese Yen, British Pound and Dollar Index were little changed."
+    },
+    {
+      "id": "5010628",
+      "time": "2026-07-27 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】燃料油連續跌3.54%，純鹼連續跌2.30%，焦煤連續跌2.04%，玻璃連續跌1.88%，菜粕連續跌1.87%。"
+    },
+    {
+      "id": "5010627",
+      "time": "2026-07-27 22:58:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【市場人士：行情接入方式變更屬常規操作，不針對量化交易】部分券商收到交易所通知並公告：交易所機房內交易行情接入方式統一變更為廣域網線路，原區域網交易線路將於2026年7月31日晚間正式關閉。券商將配合實施交易行情接入模式最佳化調整工作。21世紀經濟報道記者從接近監管的市場人士處獲悉，此次屬於常規操作，並不針對包括量化在內的特定交易。(21財經)"
+    },
+    {
+      "id": "5010626",
+      "time": "2026-07-27 22:56:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【澳門釋出美素佳兒奶粉最新檢測結果】澳門政府官網今日晚間發文稱，多部門聯合跟進“皇家美素力1號”嬰兒奶粉鉛超標事件，在同時增檢該品牌1-4號共13個樣本，重金屬鉛檢測未見異常。衛生局設兒科急診綠色通道，所有求診者無鉛中毒緊急情況。 7月25日，澳門特別行政區政府網站曾釋出訊息，稱皇家美素力1號奶粉被檢出鉛含量超標。菲仕蘭公告回應稱，菲仕蘭香港有限公司在接到通知後，對同批次的產品在第三方權威實驗室進行確認檢測，最終檢測結果和結論為產品鉛含量未超出標準，檢出結果為＜0.007mg/KG，澳門食安標準為＜0.02mg/KG。"
+    },
     {
       "id": "5010625",
       "time": "2026-07-27 22:56:33",
@@ -163029,153 +163080,6 @@
         "Europe & UK"
       ],
       "text": "UK Prime Minister Burnham said he will use all flexibility available within the UK's fiscal rules."
-    },
-    {
-      "id": "mkt:019f800b-849e-7aab-8e10-bce381452cec",
-      "time": "2026-07-20 23:01:06",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "UK Prime Minister Burnham said he would never take risks with the economy and reiterated his commitment to adhering to fiscal rules."
-    },
-    {
-      "id": "mkt:019f800b-647e-7aab-8e10-b7a82838cc0c",
-      "time": "2026-07-20 23:00:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "As of the 23:00 close, China's main futures contracts were mostly lower. Low-sulfur fuel oil (LU) slid nearly 3%; coking coal, p-xylene, PTA and coke fell over 2%; bottle-grade PET chips dropped about 2%; short fiber and fuel oil eased more than 1%. Soybean meal, rapeseed meal and Soybean No.2 rose over 1%."
-    },
-    {
-      "id": "em:qqyh_ygyh:202607203813731982",
-      "time": "2026-07-20 23:00:55",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "英國新任首相伯納姆表示，他將在英國財政規則範圍內運用“任何靈活性”。"
-    },
-    {
-      "id": "mkt:019f800b-4efb-7aab-8e10-ab871e2ee0a4",
-      "time": "2026-07-20 23:00:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Prime Minister Burnham pledged to use \"political capital\" to address social care issues."
-    },
-    {
-      "id": "mkt:019f800b-3d0e-7aab-8e10-a18f17e68c10",
-      "time": "2026-07-20 23:00:47",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact mixed",
-        "FTSE100"
-      ],
-      "text": "UK Prime Minister Burnham said he is considering adjusting the income threshold for the personal tax allowance, saying the change would have significant impact."
-    },
-    {
-      "id": "4998275",
-      "time": "2026-07-20 23:00:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國前財政大臣蕾切爾·裡夫斯發文告別 回顧執政成就並祝福新政府 】隨著英國新任首相安迪·伯納姆正式組建新一屆內閣，剛剛卸任的英國財政大臣蕾切爾·裡夫斯（Rachel Reeves）在社交媒體上發表長文，深情回顧了自己擔任財政大臣期間的施政成績，並對繼任者表達了祝福。裡夫斯在文中表示，擔任財政大臣是她一生中的榮幸。她指出，在過去兩年裡，工黨政府所作出的選擇，使得當下的英國經濟變得更加強大、公平且更具韌性。她強調，國家已經恢復了穩定，實現了投資落地，並正在推進經濟改革。裡夫斯回憶道，她在就任財政大臣時曾承諾，將以“普通工薪階層民眾的生活是否得到改善”作為衡量自己任期成敗的標準。她自豪地表示，這一目標已經實現。此外，她還特別寄語每一位年輕女性與女孩，希望她在任內的經歷能夠向她們證明，在追求抱負、希望與夢想時不應設有任何“天花板”。最後，裡夫斯向繼任者安迪·伯納姆及其新一屆內閣致以最美好的祝願。她表示，自己將全力支援新政府，並承諾將繼續發揮自己的作用，協助工黨政府落實國家亟需的變革。"
-    },
-    {
-      "id": "4998274",
-      "time": "2026-07-20 23:00:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "伯納姆稱，他將在英國財政規則框架內動用一切可用靈活調整空間。"
-    },
-    {
-      "id": "te:markets:568273",
-      "time": "2026-07-20 23:00:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Appreciates by 0.81% — Top currency gainers are Brazilian Real (0.81%), South Korean Won (0.52%), Mexican Peso (0.30%) and Dollar Index (0.23%). Biggest losers are Swedish Krona (-0.47%), Swiss Franc (-0.35%), Norwegian Krone (-0.33%), Euro (-0.29%), British Pound (-0.10%) and Japanese Yen (-0.09%)."
-    },
-    {
-      "id": "4998273",
-      "time": "2026-07-20 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】低硫燃料油連續跌2.95%，焦煤連續跌2.73%，PTA連續跌2.29%，焦炭連續跌2.23%，液化石油氣連續跌1.96%。"
-    },
-    {
-      "id": "4998272",
-      "time": "2026-07-20 23:00:00",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通將哈特福德保險集團的目標股價從每股149.00美元上調至每股152.00美元道，維持哈特福德保險的“中性”評級。"
-    },
-    {
-      "id": "mkt:019f800a-0947-7aab-8e10-9f45a10bdc10",
-      "time": "2026-07-20 22:59:29",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Bahrain's Interior Ministry said the national alert siren sounded for the fifth time."
-    },
-    {
-      "id": "mkt:019f8009-6543-7aab-8e10-96c7c8db5f75",
-      "time": "2026-07-20 22:58:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100",
-        "Impact mixed"
-      ],
-      "text": "UK Chancellor of the Exchequer Reeves resigns."
-    },
-    {
-      "id": "4998271",
-      "time": "2026-07-20 22:58:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為超充上線上汽大眾充電地圖】7月20日，華為超充官宣上線上汽大眾充電地圖，首批上線574座城市超充站和127座高速超充站，新增超1萬隻華為超充槍。"
-    },
-    {
-      "id": "4998270",
-      "time": "2026-07-20 22:57:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "民調顯示，英國首相伯納姆將難以贏回改革黨選民。"
-    },
-    {
-      "id": "4998269",
-      "time": "2026-07-20 22:57:35",
-      "tags": [
-        "資料"
-      ],
-      "text": "Monex表示，加拿大較低的CPI應該會消除加息預期。"
     }
   ]
 }
