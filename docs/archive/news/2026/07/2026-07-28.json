@@ -1,7 +1,31 @@
 {
   "date": "2026-07-28",
-  "count": 338,
+  "count": 340,
   "items": [
+    {
+      "id": "mkt:019fa564-997a-7aab-8eb7-65cb696129f5",
+      "time": "2026-07-28 05:04:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "A Senate aide said the Senate is expected to begin voting as early as Tuesday U.S. time, during Ukrainian President Zelenskiy's U.S. visit, on a Russia sanctions bill."
+    },
+    {
+      "id": "te:economy:570185",
+      "time": "2026-07-28 05:04:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "South Korea Consumer Sentiment Edges Higher — South Korea's Composite Consumer Sentiment Index edged up to 106.8 in July 2026 from 106.6 in June.. Households became slightly more optimistic about future income, with the corresponding index rising to 101 from 100, while expectations for future spending held steady at 110. Sentiment regarding current living standards slipped to 93 from 94, although expectations for future living conditions improved to 98 from 97. Consumers were slightly less optimistic about current domestic economic conditions, with the index falling to 84 from 86, while expectations for the economy over the next six months remained unchanged at 92. Inflation expectations were stable, with households projecting consumer prices to rise 2.7% over the next year, while three- and five-year inflation expectations both stood at 2.6%."
+    },
     {
       "id": "5010860",
       "time": "2026-07-28 05:00:10",

@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-28 05:01:16",
-  "count": 17837,
+  "updated": "2026-07-28 05:05:02",
+  "count": 17834,
   "items": [
+    {
+      "id": "mkt:019fa564-997a-7aab-8eb7-65cb696129f5",
+      "time": "2026-07-28 05:04:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "A Senate aide said the Senate is expected to begin voting as early as Tuesday U.S. time, during Ukrainian President Zelenskiy's U.S. visit, on a Russia sanctions bill."
+    },
+    {
+      "id": "te:economy:570185",
+      "time": "2026-07-28 05:04:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "South Korea Consumer Sentiment Edges Higher — South Korea's Composite Consumer Sentiment Index edged up to 106.8 in July 2026 from 106.6 in June.. Households became slightly more optimistic about future income, with the corresponding index rising to 101 from 100, while expectations for future spending held steady at 110. Sentiment regarding current living standards slipped to 93 from 94, although expectations for future living conditions improved to 98 from 97. Consumers were slightly less optimistic about current domestic economic conditions, with the index falling to 84 from 86, while expectations for the economy over the next six months remained unchanged at 92. Inflation expectations were stable, with households projecting consumer prices to rise 2.7% over the next year, while three- and five-year inflation expectations both stood at 2.6%."
+    },
     {
       "id": "5010860",
       "time": "2026-07-28 05:00:10",
@@ -163512,54 +163536,6 @@
         "EURUSD"
       ],
       "text": "White House says the U.S. will impose additional tariffs on affected goods to offset discriminatory measures by Canada against U.S. trade in dairy and autos."
-    },
-    {
-      "id": "mkt:019f8157-adb9-7aab-8e15-27df49f1f2b3",
-      "time": "2026-07-21 05:03:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "White House says the United States will impose an additional 50% tariff on certain Canadian products, effective 19 August 2026 Eastern Time."
-    },
-    {
-      "id": "4998484",
-      "time": "2026-07-21 05:03:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：將加徵額外關稅，以抵消加拿大在乳製品領域對美國貿易採取的歧視性措施 。"
-    },
-    {
-      "id": "4998483",
-      "time": "2026-07-21 05:03:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國白宮：美國針對加拿大部分產品加徵的 50% 關稅，將於 2026 年 8 月 19 日東部時間凌晨 0 點 01 分正式生效。"
-    },
-    {
-      "id": "4998482",
-      "time": "2026-07-21 05:01:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國FBI局長帕特爾計劃於10月14日至15日訪問俄羅斯。"
-    },
-    {
-      "id": "4998481",
-      "time": "2026-07-21 05:01:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美聯邦法官臨時叫停派拉蒙天舞收購華納兄弟 】美國一名聯邦法官20日釋出臨時限制令，暫停派拉蒙天舞公司對華納兄弟探索公司的收購。該臨時限制令有效期為14天，由加利福尼亞州北區聯邦地區法院法官阿拉塞利·馬丁內斯-奧爾金髮布。法官裁定，這項價值預計高達1110億美元的重磅收購是否違反反壟斷法存在“嚴重疑問”。民主黨籍的加州總檢察長羅布·邦塔在得知限制令後表示，這是“首個關鍵勝利”，“將有助於確保這項超級併購永遠不會成為現實”。（新華社）"
     }
   ]
 }
