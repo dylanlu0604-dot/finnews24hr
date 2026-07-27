@@ -1,7 +1,135 @@
 {
   "date": "2026-07-27",
-  "count": 306,
+  "count": 320,
   "items": [
+    {
+      "id": "mkt:019fa0ed-0c21-7aab-8e9d-fe91729abe6f",
+      "time": "2026-07-27 08:15:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CITIC Securities: China's commercial reusable‑launch tech to cut costs; applications await scale】CITIC Securities says China’s move during the 15th Five‑Year Plan to extend next‑generation communications into integrated air‑space‑sea‑ground networks is turning commercial space into a significant infrastructure investment area. Reusable rockets, represented by Long March‑10B, are entering an intensive technology‑validation phase and are likely to drive material reductions in launch costs; CITIC expects a LEO satellite constellation deployment peak in 2028–2030. Upstream manufacturing and capacity buildout are estimated to require more than 1.7 trillion yuan of productive investment. The industry is likely to follow an S‑curve: after concentrated constellation deployment the sector’s focus should shift from manufacturing and launches to terminal operations and services, with large addressable markets for direct‑to‑handset connectivity. Near‑term market catalysts include reusable‑rocket re‑flights and IPOs; monitor policy actions to shore up launch capacity and cultivate commercial demand, since application scale will determine longer‑term upside."
+    },
+    {
+      "id": "5008886",
+      "time": "2026-07-27 08:15:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：降低債務佔GDP比重是財政管理的關鍵。"
+    },
+    {
+      "id": "5008885",
+      "time": "2026-07-27 08:14:12",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：預計歐央行9月有可能加息、但下半年至多加息一次】中信證券指出，歐央行7月如期維持政策利率不變，宣告措辭簡短，再度提及中東衝突的風險，其面臨的情景與考慮的因素都與4月有些相似。拉加德效仿沃什取消前瞻指引的姿態，透露部分票委曾考慮加息，但也表示目前未觀察到任何第二輪效應，為歐央行未來各種行動的可能性留足餘地。我們現在預計歐央行9月有可能加息、但下半年至多加息一次，歐元近期或將會延續偏弱震盪的表現。"
+    },
+    {
+      "id": "5008884",
+      "time": "2026-07-27 08:13:48",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：對美債交易而言 在當前利率水平下或可選擇謹慎偏多】中信證券指出，本週美債利率快速上行，我們認為有三重驅動：第一，中東衝突升級，油價再度衝高，美國通脹預期受到衝擊。第二，沃什上週在美國國會重申對高通脹零容忍，本週初請失業金人數創1969年以來新低，市場緊縮預期升溫。第三，本週Alphabet財報顯示其單季度自由現金流轉負，科技巨頭髮債分流美債資金預期上升，長期問題遇到短期催化。美債利率快速上行是多重利空的集中催化，恰似今年5月和2025年5月，我們認為美債利率進一步向上突破——接近2025年1月“Trump Trade”利率水平需要增量壞訊息，4.8%是關鍵阻力位。臨近美國中期選舉，特朗普仍有TACO動機。對美債交易而言，在當前利率水平下或可選擇謹慎偏多。"
+    },
+    {
+      "id": "mkt:019fa0eb-2416-7aab-8e9d-f080f7a8a93b",
+      "time": "2026-07-27 08:13:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "The Singapore dollar edged higher against the US dollar intraday after MAS raised the slope of its exchange-rate policy band."
+    },
+    {
+      "id": "5008883",
+      "time": "2026-07-27 08:12:33",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：商業航天可回收技術降本增效，應用端靜待花開】中信證券指出，“十五五”時期，新一代通訊網向“空天地海”一體化延伸，正推動商業航天成為基礎設施投資的重要增量。運力端，以長十乙為代表的可回收火箭正進入技術驗證密集期，發射成本有望大幅縮減，2028-2030年正將迎來低軌衛星組網高峰。製造端，根據我們測算，上游製造與產能建設將帶來1.7萬億以上的生產性投入。應用端，行業或呈S型成長曲線，待星座集中組網後，產業重心自制造發射轉向終端運營服務，手機直連等場景市場空間廣闊。展望後續，建議關注政策層面在運力供給層面的補足及後期商業需求的培育；投資層面，短期可關注可回收火箭復飛、IPO事件催化，而商業化應用規模決定了長期空間。"
+    },
+    {
+      "id": "5008882",
+      "time": "2026-07-27 08:12:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破60美元/盎司，日內漲3.18%。"
+    },
+    {
+      "id": "mkt:019fa0e9-d42f-7aab-8e9d-eec130d003d3",
+      "time": "2026-07-27 08:11:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot silver climbed above $60/oz, up 3.11% intraday."
+    },
+    {
+      "id": "5008881",
+      "time": "2026-07-27 08:11:41",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：8月市場出現普遍輪動修復的機率很高】中信證券指出，此輪中東原油衝擊不再是第一輪的小號重演，而是緩衝耗盡後的二次衝擊。兩輪油價衝擊過程中，市場最擁擠的交易結構完全不同，意味著市場不會簡單複製二季度的行情執行模式。唯一相對確定的是中東戰爭走向越發難以預測，矛盾長期化的風險在提高，意味著市場短期不可避免地需要經歷降低風偏的過程。不過從量價和情緒指標來看，負面的事件和敘事已經反映到了短期比較極端的跌幅當中，降風偏的過程已經接近尾聲，8月市場出現普遍輪動修復的機率很高。中信證券依舊看好三個維度的收斂：1）Al鏈上游硬體和漲價品種相對下游平臺型企業超額收益的收斂；2）國內非AI工業股相對海外對標的公司的折價修復；3）科技與非科技的收斂。"
+    },
+    {
+      "id": "5008880",
+      "time": "2026-07-27 08:11:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲3%，現報59.96美元/盎司。"
+    },
+    {
+      "id": "5008879",
+      "time": "2026-07-27 08:11:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4110美元/盎司，日內漲1.45%。"
+    },
+    {
+      "id": "mkt:019fa0e9-0e1d-7aab-8e9d-e5ff781602fb",
+      "time": "2026-07-27 08:10:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P/ASX 200 opened 86.3 points higher on Monday, July 27, up 0.98% at 8,858.6."
+    },
+    {
+      "id": "5008877",
+      "time": "2026-07-27 08:10:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4112.29美元/盎司。"
+    },
+    {
+      "id": "5008876",
+      "time": "2026-07-27 08:10:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以總理放言：伊朗政權倒臺戰爭才會結束】7月26日，以色列總理內塔尼亞胡在接受媒體採訪時表示，“戰爭只有在伊朗現政權倒臺或被徹底削弱到被迫放棄其核計劃時才會結束。”內塔尼亞胡還發出警告稱，如果伊朗或其支援的武裝組織襲擊以色列，以色列將做出“非常非常強硬”的回應。內塔尼亞胡即將再次訪美。在談及計劃與美國總統特朗普舉行的會晤時，內塔尼亞胡稱，會晤重點並非如美媒此前所報道的“遞交有關伊朗核計劃的新情報”，因為美以兩國的軍事和情報部門一直在密切合作。內塔尼亞胡稱此行的目的是同特朗普商討並瞭解其想法，並稱在很大程度上局勢的發展“取決於特朗普的最終決定”。"
+    },
     {
       "id": "5008875",
       "time": "2026-07-27 08:10:23",
