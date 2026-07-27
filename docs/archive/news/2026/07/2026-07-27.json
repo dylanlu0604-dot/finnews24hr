@@ -1,7 +1,337 @@
 {
   "date": "2026-07-27",
-  "count": 256,
+  "count": 293,
   "items": [
+    {
+      "id": "5008865",
+      "time": "2026-07-27 08:06:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡金管局：新加坡經濟在2026年下半年應繼續以穩健步伐增長。"
+    },
+    {
+      "id": "5008863",
+      "time": "2026-07-27 08:06:09",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【受伊朗衝突推高運費影響，日本6月服務業生產者物價同比上漲】日本央行週一公佈資料顯示，6月日本服務業生產者物價指數同比上漲3.2%，通脹壓力持續擴散，市場進一步加息預期因此維持。該指數反映企業間互相提供服務的交易定價，5月修正後同比漲幅為3.4%，6月漲幅有所回落。資料顯示，運輸成本持續走高是拉動指數上行的核心因素，6月運輸服務價格同比上漲5.3%。中東衝突造成供應鏈中斷，疊加燃油價格走高，海運、空運運費居高不下，推升了該項成本。"
+    },
+    {
+      "id": "mkt:019fa0e4-9353-7aab-8e9d-cd835999bc06",
+      "time": "2026-07-27 08:06:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's government said Prime Minister Takaichi will hold a press conference at 09:00 GMT (17:00 Beijing time)."
+    },
+    {
+      "id": "5008862",
+      "time": "2026-07-27 08:05:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡金融管理局：隨著全球能源價格逐步回落，通脹將在2027年下半年更明顯緩解。"
+    },
+    {
+      "id": "5008861",
+      "time": "2026-07-27 08:05:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南：加快推進數字貿易佈局】近日，海南省政府辦公廳印發《“十五五”海南開放型經濟發展規劃》（以下簡稱《規劃》），明確海南“十五五”時期開放型經濟發展的指導思想、發展思路、發展目標和重點任務。 根據《規劃》，海南將持續推動政策賦能外貿發展，最佳化升級貨物貿易，大力發展服務貿易，創新發展數字貿易、綠色貿易。落實外商獨資醫院、生物技術、增值電信業務等專項試點政策，拓寬服務場景。加快推進數字貿易佈局，推動澄邁老城科技新城、海口復興城網際網路資訊產業園等園區發展國際資料服務業務，培育國際化特色數字產業，鼓勵“一人公司”發展，建設“數字遊民理想社群”，集聚科創人才。加快構建“買全球精品”“享全球醫療”“學全球專業”的國際消費新生態。促進四大主導產業叢集化國際化發展，打造國際化特色的“五向圖強”產業鏈，面向全球前瞻培育“四新”未來產業。（海南日報）"
+    },
+    {
+      "id": "5008860",
+      "time": "2026-07-27 08:05:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡金管局：對貨幣政策立場進行有節制的調整將有助於遏制通脹壓力。"
+    },
+    {
+      "id": "mkt:019fa0e3-27b0-7aab-8e9d-c21cb34467a4",
+      "time": "2026-07-27 08:04:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "MAS expects inflation to moderate more noticeably by H2 2027 as global energy prices gradually ease."
+    },
+    {
+      "id": "5008859",
+      "time": "2026-07-27 08:04:06",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【華泰證券：港股情緒已經快速修復接近中性水平 配置上建議均衡應對】華泰證券研報指出，當前，港股情緒已經快速修復接近中性水平，無論是南向、外資或是沽空資料，波動都有所放緩，資金再平衡或進入歇腳期，等待進一步的催化劑出現。往後看，港股正行至十字路口，對沖性平倉或已行至半程，港股與外圍市場的負相關性弱化，而基本面尚未接棒，盈利預期上修動能再度降溫，中報季臨近或仍有驗證不確定性。因此，配置上我們建議以均衡應對：低波紅利作底倉，如銀行；中報業績或確認盈利改善、再平衡中有望補漲的保險及乳品、部分零售等以及受全球去槓桿壓制但景氣仍上行的晶圓代工、創新藥，恐慌性下跌或創造吸籌視窗。"
+    },
+    {
+      "id": "5008858",
+      "time": "2026-07-27 08:04:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡元漲幅擴大，新加坡金管局上調匯率區間斜率。"
+    },
+    {
+      "id": "mkt:019fa0e2-ba5b-7aab-8e9d-bab881936046",
+      "time": "2026-07-27 08:04:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MAS expects Singapore's economy to maintain steady growth in 2026."
+    },
+    {
+      "id": "5008857",
+      "time": "2026-07-27 08:03:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安克創新：公司H股調入港股通標的證券名單】安克創新(300866)7月27日公告，公司於香港聯合交易所有限公司發行並上市的股票（以下簡稱“H股”）自2026年7月27日起調入滬港通及深港通（以下統稱“港股通”）標的證券名單。"
+    },
+    {
+      "id": "5008856",
+      "time": "2026-07-27 08:03:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本政府表示，首相高市早苗將於0900 GMT舉行記者會。"
+    },
+    {
+      "id": "mkt:019fa0e2-6b54-7aab-8e9d-b6e0f9d72b19",
+      "time": "2026-07-27 08:03:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MAS expects core inflation and headline CPI to average 1.5–2.5% in 2026. It expects core inflation to start rising from July and remain elevated, then ease markedly around mid-2027."
+    },
+    {
+      "id": "5008855",
+      "time": "2026-07-27 08:03:39",
+      "tags": [
+        "宏觀",
+        "資料"
+      ],
+      "text": "【海南出臺“十五五”開放型經濟發展規劃 推動縮減自貿港跨境服務貿易負面清單】近日，海南省政府辦公廳印發《“十五五”海南開放型經濟發展規劃》（以下簡稱《規劃》），明確海南“十五五”時期開放型經濟發展的指導思想、發展思路、發展目標和重點任務。 在統籌構建與開放型經濟相適應的政策制度體系方面，圍繞“五自由便利、一安全有序流動”，加快構建與開放型經濟發展相適應的政策制度體系。動態調整實施禁止、限制進出口貨物、物品清單，深入推進服務貿易“既准入又準營”改革，推動縮減海南自由貿易港跨境服務貿易負面清單，推動擴大海南自由貿易港外商投資准入。推動最佳化外國人免簽入境海南政策，建立完善免籤來瓊外國人服務管理保障體系。推動多功能自由貿易賬戶（EF賬戶）政策最佳化。"
+    },
+    {
+      "id": "5008854",
+      "time": "2026-07-27 08:03:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國NAVER股價上漲8%。"
+    },
+    {
+      "id": "5008853",
+      "time": "2026-07-27 08:03:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數上漲1%。"
+    },
+    {
+      "id": "mkt:019fa0e1-ca3d-7aab-8e9d-a93d316884d5",
+      "time": "2026-07-27 08:02:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MAS says it stands ready to curb excessive Singapore dollar volatility."
+    },
+    {
+      "id": "5008852",
+      "time": "2026-07-27 08:02:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債走高，油價下跌緩解通脹擔憂。"
+    },
+    {
+      "id": "mkt:019fa0e1-7bdf-7aab-8e9d-a2e84f4fd1d6",
+      "time": "2026-07-27 08:02:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MAS said the width and center of its policy band will remain unchanged."
+    },
+    {
+      "id": "5008851",
+      "time": "2026-07-27 08:02:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡金融管理局：若能源價格飆升，通脹可能比預期更強勁回升。"
+    },
+    {
+      "id": "5008850",
+      "time": "2026-07-27 08:02:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡金管局：對政策立場的精準調整使新加坡元名義有效匯率政策區間保持適當的升值路徑。"
+    },
+    {
+      "id": "5008849",
+      "time": "2026-07-27 08:02:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡金管局：未來幾個季度新加坡的進口成本可能上升。"
+    },
+    {
+      "id": "5008848",
+      "time": "2026-07-27 08:02:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡金管局：預計短期內整體國內生產總值將維持在高位。"
+    },
+    {
+      "id": "mkt:019fa0e0-e86d-7aab-8e9d-9e2ef1b269ca",
+      "time": "2026-07-27 08:02:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose $50 intraday to break above $4,100/oz, up 1.23%."
+    },
+    {
+      "id": "5008847",
+      "time": "2026-07-27 08:01:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡金管局：預計新加坡經濟在2026年整體將保持穩健增長步伐。"
+    },
+    {
+      "id": "5008846",
+      "time": "2026-07-27 08:01:50",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "新加坡金管局上調新加坡元匯率區間的斜率；維持寬度和中點不變。"
+    },
+    {
+      "id": "5008845",
+      "time": "2026-07-27 08:01:42",
+      "tags": [
+        "資料"
+      ],
+      "text": "新加坡金管局：就2026年整體而言，金管局核心通脹率和整體消費者物價指數(CPI)通脹率預計平均為1.5%至2.5%。"
+    },
+    {
+      "id": "5008844",
+      "time": "2026-07-27 08:01:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡金管局 ：預計核心通脹率將在7月攀升，並持續高企至明年初。"
+    },
+    {
+      "id": "mkt:019fa0e0-676f-7aab-8e9d-95029b9af30e",
+      "time": "2026-07-27 08:01:28",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "SK Hynix rose 2.3% in early trading; Samsung Electronics rose 2.7%."
+    },
+    {
+      "id": "5008843",
+      "time": "2026-07-27 08:01:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡金管局表示，政策區間的寬度及中心水平將維持不變。"
+    },
+    {
+      "id": "5008842",
+      "time": "2026-07-27 08:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡金管局：預計核心通脹率將從7月起攀升並維持高位，但應會在2027年年中前後明顯回落。"
+    },
+    {
+      "id": "5008841",
+      "time": "2026-07-27 08:01:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4100美元/盎司，日內漲1.16%。"
+    },
+    {
+      "id": "mkt:019fa0e0-200a-7aab-8e9d-89bdec776ea4",
+      "time": "2026-07-27 08:01:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Japan, South Korea equities open higher】South Korea's KOSPI rose to 6,800, up 1.73% intraday. Japan's Nikkei 225 climbed above 65,000, up 0.83% intraday."
+    },
+    {
+      "id": "5008840",
+      "time": "2026-07-27 08:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡金管局：目前預測經濟正向產出缺口將在2026年小幅擴大。"
+    },
+    {
+      "id": "mkt:019fa0df-d7fb-7aab-8e9d-829d6aff3874",
+      "time": "2026-07-27 08:00:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "【CITIC Securities: Second Middle East oil-price shock does not change August recovery trend】CITIC Securities says the latest Middle East oil-price shock is a second, larger shock after initial buffers were exhausted, not a repeat of the earlier, smaller move. Crowded trade structures differ materially between the two shocks, so market dynamics are unlikely to simply replay Q2. The war’s trajectory is increasingly unpredictable and the risk of prolonged conflict has risen, implying an inevitable near-term de-risking phase. However, volume, price and sentiment indicators show negative news has been largely priced into near-term, extreme declines and the de-risking process is close to completion. CITIC sees a high probability of broad, rotation-led repair in August and remains constructive on three convergence trades: narrowing excess returns between AI-chain upstream hardware and price-rally names versus downstream platform companies; compression of the valuation discount for domestic non-AI industrials versus overseas peers; and convergence between tech and non-tech sectors."
+    },
+    {
+      "id": "5008839",
+      "time": "2026-07-27 08:00:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲1.7%，至6806.27點。"
+    },
+    {
+      "id": "5008838",
+      "time": "2026-07-27 08:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報65164.98點，漲幅0.86％。韓國綜合股價指數（KOSPI）開盤上漲1.7％，至6806.27點。"
+    },
     {
       "id": "te:markets:569878",
       "time": "2026-07-27 08:00:04",
