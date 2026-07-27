@@ -1,7 +1,26 @@
 {
   "date": "2026-07-28",
-  "count": 12,
+  "count": 14,
   "items": [
+    {
+      "id": "5010684",
+      "time": "2026-07-28 00:25:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：赫格塞斯做得非常出色。"
+    },
+    {
+      "id": "mkt:019fa463-0ebc-7aab-8eb3-373c5c195a14",
+      "time": "2026-07-28 00:23:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwait condemned drone attacks on Saudi oil facilities, Al Jazeera reported."
+    },
     {
       "id": "mkt:019fa460-9f0e-7aab-8eb3-2827e90ad64a",
       "time": "2026-07-28 00:20:23",

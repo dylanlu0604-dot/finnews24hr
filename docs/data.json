@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-28 00:22:01",
-  "count": 17740,
+  "updated": "2026-07-28 00:26:00",
+  "count": 17739,
   "items": [
+    {
+      "id": "5010684",
+      "time": "2026-07-28 00:25:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：赫格塞斯做得非常出色。"
+    },
+    {
+      "id": "mkt:019fa463-0ebc-7aab-8eb3-373c5c195a14",
+      "time": "2026-07-28 00:23:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwait condemned drone attacks on Saudi oil facilities, Al Jazeera reported."
+    },
     {
       "id": "mkt:019fa460-9f0e-7aab-8eb3-2827e90ad64a",
       "time": "2026-07-28 00:20:23",
@@ -162568,30 +162587,6 @@
         "其他"
       ],
       "text": "蘋果今日跌超2%，同時跑輸道瓊斯工業平均指數與納斯達克100指數。"
-    },
-    {
-      "id": "4998352",
-      "time": "2026-07-21 00:25:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026世界人工智慧大會閉幕 現場觀眾累計超40萬人次】2026世界人工智慧大會暨人工智慧全球治理高階別會議20日在上海世博中心閉幕。統計顯示，大會共吸引現場觀眾超40萬人次；組織了全球177個重要採購團組，預計達成意向採購金額約203.6億元，同比增長25%。（新華社）"
-    },
-    {
-      "id": "4998351",
-      "time": "2026-07-21 00:25:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗中部霍梅因沙赫爾市的一處工業設施遭到美國襲擊。"
-    },
-    {
-      "id": "mkt:019f8055-e106-7aab-8e12-760b9eb29d5f",
-      "time": "2026-07-21 00:22:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Former UK defence secretary John Healey arrived at 10 Downing Street and is expected to be appointed to a cabinet post."
     }
   ]
 }
