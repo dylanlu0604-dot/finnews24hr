@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-28 06:06:28",
-  "count": 17837,
+  "updated": "2026-07-28 06:13:20",
+  "count": 17840,
   "items": [
+    {
+      "id": "mkt:019fa5a3-56d5-7aab-8eb7-ac019c5b5eba",
+      "time": "2026-07-28 06:12:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Israeli Prime Minister Netanyahu has arrived at Joint Base Andrews, Maryland, and is scheduled to meet President Trump on Tuesday local time."
+    },
+    {
+      "id": "5010898",
+      "time": "2026-07-28 06:11:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡抵達美國。"
+    },
+    {
+      "id": "mkt:019fa5a1-6547-7aab-8eb7-a7eb69eeea5e",
+      "time": "2026-07-28 06:10:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【ANTHROPIC clarifies stance: never advocated banning open-weight AI models】ANTHROPIC said it never advocated banning open-weight AI models and rebutted recent claims to that effect. CEO Dario Amodei said the firm does not agree that open-weight models are inherently superior for AI safety research. The statement underscores the industry’s ongoing debate over open development versus safety."
+    },
+    {
+      "id": "5010897",
+      "time": "2026-07-28 06:10:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "中際旭創：預計將於2026年7月29日披露國際發售環節的意向認購規模及其他相關細節。"
+    },
+    {
+      "id": "5010896",
+      "time": "2026-07-28 06:09:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "中際旭創：定價為每股H股980港元。"
+    },
+    {
+      "id": "mkt:019fa59f-7423-7aab-8eb7-9b630838f286",
+      "time": "2026-07-28 06:08:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iranian drones strike near Erbil; Khor Mor gas field in Iraqi Kurdistan hit】Iraqi police said at least four Iranian drones struck areas northeast of Erbil early Tuesday, hitting Halifan and Soran districts; fires broke out and two drones crashed near targets. U.S. forces flew more than 10 warplanes and drones over Erbil in response. Iranian state media IRIB reported the Khor Mor gas field in Sulaymaniyah province was also attacked at roughly the same time; Khor Mor holds about 8.2 tcf of gas and is Iraq’s largest non-associated gas field. IRIB said the timing was broadly simultaneous with explosions reported in Erbil, roughly 200 km away."
+    },
+    {
+      "id": "5010895",
+      "time": "2026-07-28 06:07:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：一架美軍無人機在伊拉克安巴爾省上空被擊落。"
+    },
+    {
+      "id": "5010894",
+      "time": "2026-07-28 06:06:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特指責伊朗支援的民兵組織襲擊石油設施。"
+    },
     {
       "id": "5010893",
       "time": "2026-07-28 06:05:06",
@@ -163533,50 +163605,6 @@
         "其他"
       ],
       "text": "剛果民主共和國官方表示，已確診埃博拉病例增至 2423 例，其中死亡 967 例。"
-    },
-    {
-      "id": "4998517",
-      "time": "2026-07-21 06:13:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室（UKMTO）：已收到多份訊息，一艘油輪透過海事 16 號甚高頻應急頻道通報，其在霍爾木茲海峽遭不明彈體擊中。"
-    },
-    {
-      "id": "4998516",
-      "time": "2026-07-21 06:12:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室（UKMTO）通報：在阿曼利馬東北 8 海里海域收到船舶遇險事件報告。"
-    },
-    {
-      "id": "4998515",
-      "time": "2026-07-21 06:10:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國內政部長伯古姆：近期已與沙特、阿聯酋就輸油管道事宜展開會談。"
-    },
-    {
-      "id": "4998514",
-      "time": "2026-07-21 06:09:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【勝利管道：預計上半年淨利潤約人民幣2200萬元】勝利管道公告，預計2026年上半年淨利潤約人民幣2200萬元，上年同期為虧損約人民幣2540萬元。預計2026年上半年綜合收益總額不少於約人民幣2200萬元，上年同期為虧損約人民幣3960萬元。預計2026年上半年毛利不少於約人民幣7500萬元，上年同期為約人民幣4480萬元。(港交所)"
-    },
-    {
-      "id": "mkt:019f8191-3b56-7aab-8e15-6a2015d2a830",
-      "time": "2026-07-21 06:06:46",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "NVIDIA filed a Schedule 13G disclosing a 9.3% stake in Nebius Group."
     }
   ]
 }
