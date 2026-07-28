@@ -1,7 +1,141 @@
 {
   "date": "2026-07-28",
-  "count": 1417,
+  "count": 1432,
   "items": [
+    {
+      "id": "mkt:019fa778-5510-7aab-8ec1-c2391f37a0b3",
+      "time": "2026-07-28 14:45:08",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "France July INSEE consumer confidence composite index 86; expected 85, prior 84."
+    },
+    {
+      "id": "5011652",
+      "time": "2026-07-28 14:45:05",
+      "tags": [
+        "資料"
+      ],
+      "text": "法國7月消費者信心指數 86，前值 84。"
+    },
+    {
+      "id": "mkt:019fa778-3344-7aab-8ec1-b87c19cdfb0d",
+      "time": "2026-07-28 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | INSEE Consumer Confidence Index (Jul) | actual 86 | consensus 85 | previous 84"
+    },
+    {
+      "id": "5011651",
+      "time": "2026-07-28 14:44:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【越南對原產於中國的預應力鋼材啟動反傾銷調查】7月27日，越南工貿部發布第1903/QD-BCT公告稱，應越南生產商申請，對原產於中國的預應力鋼材啟動反傾銷調查。本案傾銷調查期為2025年7月1日至2026年6月30日，損害調查期為2022年7月1日至2026年6月30日。涉案產品為矽錳合金鋼材，呈棒材、線材或卷狀，橫截面為圓形，未包覆、鍍覆或塗覆金屬；表面光滑或帶有沿長度方向分佈的螺旋肋，直徑7.1毫米至12.6毫米。公告自發布之日起生效。"
+    },
+    {
+      "id": "mkt:019fa777-54e6-7aab-8ec1-b2b521d41528",
+      "time": "2026-07-28 14:44:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell below $84/bbl, down 1.53% on the day."
+    },
+    {
+      "id": "5011650",
+      "time": "2026-07-28 14:43:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【胡塞武裝威脅擾亂紅海貿易，油輪紛紛改道埃及】隨著胡塞武裝威脅導致紅海貿易受擾，空載超級油輪正駛往埃及地中海港口西迪克里爾（Sidi Kerir）裝載沙特原油，而沙特關鍵紅海出口樞紐的可觀測船舶流量正在減少。船舶追蹤資料顯示，至少有八艘超大型原油運輸船（VLCC）已將目的地設為西迪克里爾，並計劃在未來幾周至8月中旬期間抵達。在上週伊朗支援的胡塞武裝襲擊紅海一艘船隻後，沙特阿美一直在增加透過該埃及港口供應的石油量。週二早些時候，沙特紅海港口延布港（Yanbu）沒有觀察到任何油輪停靠，不過部分船隻可能關閉了應答器，在規避監測的情況下裝載了貨物。"
+    },
+    {
+      "id": "5011649",
+      "time": "2026-07-28 14:43:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國和巴西航天機構已簽署諒解備忘錄，擴大雙方在多個領域的合作。"
+    },
+    {
+      "id": "5011648",
+      "time": "2026-07-28 14:42:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本交易所集團要求單筆交易門檻超50萬日元的上市公司考慮實施拆股。"
+    },
+    {
+      "id": "5011647",
+      "time": "2026-07-28 14:42:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本交易所集團山司：市場對進一步延長交易時段需求並不旺盛 。"
+    },
+    {
+      "id": "5011646",
+      "time": "2026-07-28 14:42:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【越南對原產於中國的熱軋板卷啟動反傾銷第一次期中複審調查】7月27日，越南工貿部發布第1902/QD-BCT公告稱，應中國企業申請，對原產於中國的熱軋板卷啟動反傾銷第一次期中複審調查。除另行延期外（最長三個月），預計終裁將於六個月內作出。公告自發布之日起生效。"
+    },
+    {
+      "id": "mkt:019fa775-e758-7aab-8ec1-acb814e619e2",
+      "time": "2026-07-28 14:42:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea, Brazil sign space cooperation MoU】YONHAP: South Korea’s Korea Aerospace Administration (KASA) said on Tuesday it and Brazil’s space agency signed a memorandum of understanding to expand cooperation on launch-permit regulation, aerospace industry development and satellite data sharing. The MoU, a follow-up to the Korea‑Brazil summit in Seoul in February, is KASA’s first agreement with a Latin American country. Brazil, which operates the Alcântara launch center—one of the world’s closest launch sites to the equator—is identified as an important player in space transport."
+    },
+    {
+      "id": "mkt:019fa775-a3ab-7aab-8ec1-a2bc1153e363",
+      "time": "2026-07-28 14:42:12",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Houthi threats disrupt Red Sea trade, tankers reroute to Egypt】Iran-backed Houthi threats have disrupted Red Sea trade; ballast VLCCs are rerouting to Egypt’s Mediterranean port Sidi Kerir to load Saudi crude while observable vessel traffic at key Saudi Red Sea export hubs is falling. Ship-tracking data show at least eight VLCCs have set Sidi Kerir as destination, with arrivals scheduled in the coming weeks through mid-August. After an Iran-backed Houthi attack on a vessel in the Red Sea last week, ARAMCO has increased supplies via the Egyptian port. On Tuesday no tankers were observed berthed at Saudi Red Sea port Yanbu; some ships may have turned off AIS transponders and could be loading outside monitored channels."
+    },
+    {
+      "id": "5011644",
+      "time": "2026-07-28 14:42:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "梅賽德斯-賓士執行長表示：我們所有德國人都意識到，競爭已變得愈發激烈下。"
+    },
+    {
+      "id": "5011643",
+      "time": "2026-07-28 14:41:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【西部證券：維持寧德時代“買入”評級，全球份額持續提升強化格局】西部證券研報指出，寧德時代業績符合預期，全球份額持續提升強化格局。海內外市佔率提升驅動出貨規模高增，原材料上漲盈利短期擾動可控。估算26Q2 合計出貨235GWh，同比+57%，環比+15%。動力業務方面國內份額持續提升，2026 年 1-6 月公司在國內市場乘用車裝車量份額達46.7%，同比+5.6 pct；海外市場佔比穩步提升，據SNE，2026 年1-5 月公司海外市場份額達33.7%，同比+3.7pct。產能擴建貢獻供給增量，全球鈉電儲能訂單加速落子。公司鈉電產品在全球市場搶先發力，驅動鈉電儲能從試點走向規模化應用。考慮到公司擴產逐漸釋放以匹配下游增量需求，預計26年電池出貨量約1000GWh ， 預計公司2026-2028年實現歸母淨利974.39/1387.32/1657.34億元，同比+35%/+42.4%/+19.5%，對應EPS 為21.06/29.99/35.82元，維持“買入”評級。"
+    },
+    {
+      "id": "5011642",
+      "time": "2026-07-28 14:41:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：冰島阿庫雷裡以南109公里處發生5.4級地震。"
+    },
     {
       "id": "5011640",
       "time": "2026-07-28 14:41:04",

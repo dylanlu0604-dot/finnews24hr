@@ -1,7 +1,141 @@
 {
-  "updated": "2026-07-28 14:41:54",
-  "count": 17583,
+  "updated": "2026-07-28 14:45:41",
+  "count": 17584,
   "items": [
+    {
+      "id": "mkt:019fa778-5510-7aab-8ec1-c2391f37a0b3",
+      "time": "2026-07-28 14:45:08",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "France July INSEE consumer confidence composite index 86; expected 85, prior 84."
+    },
+    {
+      "id": "5011652",
+      "time": "2026-07-28 14:45:05",
+      "tags": [
+        "資料"
+      ],
+      "text": "法國7月消費者信心指數 86，前值 84。"
+    },
+    {
+      "id": "mkt:019fa778-3344-7aab-8ec1-b87c19cdfb0d",
+      "time": "2026-07-28 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | INSEE Consumer Confidence Index (Jul) | actual 86 | consensus 85 | previous 84"
+    },
+    {
+      "id": "5011651",
+      "time": "2026-07-28 14:44:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【越南對原產於中國的預應力鋼材啟動反傾銷調查】7月27日，越南工貿部發布第1903/QD-BCT公告稱，應越南生產商申請，對原產於中國的預應力鋼材啟動反傾銷調查。本案傾銷調查期為2025年7月1日至2026年6月30日，損害調查期為2022年7月1日至2026年6月30日。涉案產品為矽錳合金鋼材，呈棒材、線材或卷狀，橫截面為圓形，未包覆、鍍覆或塗覆金屬；表面光滑或帶有沿長度方向分佈的螺旋肋，直徑7.1毫米至12.6毫米。公告自發布之日起生效。"
+    },
+    {
+      "id": "mkt:019fa777-54e6-7aab-8ec1-b2b521d41528",
+      "time": "2026-07-28 14:44:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell below $84/bbl, down 1.53% on the day."
+    },
+    {
+      "id": "5011650",
+      "time": "2026-07-28 14:43:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【胡塞武裝威脅擾亂紅海貿易，油輪紛紛改道埃及】隨著胡塞武裝威脅導致紅海貿易受擾，空載超級油輪正駛往埃及地中海港口西迪克里爾（Sidi Kerir）裝載沙特原油，而沙特關鍵紅海出口樞紐的可觀測船舶流量正在減少。船舶追蹤資料顯示，至少有八艘超大型原油運輸船（VLCC）已將目的地設為西迪克里爾，並計劃在未來幾周至8月中旬期間抵達。在上週伊朗支援的胡塞武裝襲擊紅海一艘船隻後，沙特阿美一直在增加透過該埃及港口供應的石油量。週二早些時候，沙特紅海港口延布港（Yanbu）沒有觀察到任何油輪停靠，不過部分船隻可能關閉了應答器，在規避監測的情況下裝載了貨物。"
+    },
+    {
+      "id": "5011649",
+      "time": "2026-07-28 14:43:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國和巴西航天機構已簽署諒解備忘錄，擴大雙方在多個領域的合作。"
+    },
+    {
+      "id": "5011648",
+      "time": "2026-07-28 14:42:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本交易所集團要求單筆交易門檻超50萬日元的上市公司考慮實施拆股。"
+    },
+    {
+      "id": "5011647",
+      "time": "2026-07-28 14:42:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本交易所集團山司：市場對進一步延長交易時段需求並不旺盛 。"
+    },
+    {
+      "id": "5011646",
+      "time": "2026-07-28 14:42:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【越南對原產於中國的熱軋板卷啟動反傾銷第一次期中複審調查】7月27日，越南工貿部發布第1902/QD-BCT公告稱，應中國企業申請，對原產於中國的熱軋板卷啟動反傾銷第一次期中複審調查。除另行延期外（最長三個月），預計終裁將於六個月內作出。公告自發布之日起生效。"
+    },
+    {
+      "id": "mkt:019fa775-e758-7aab-8ec1-acb814e619e2",
+      "time": "2026-07-28 14:42:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea, Brazil sign space cooperation MoU】YONHAP: South Korea’s Korea Aerospace Administration (KASA) said on Tuesday it and Brazil’s space agency signed a memorandum of understanding to expand cooperation on launch-permit regulation, aerospace industry development and satellite data sharing. The MoU, a follow-up to the Korea‑Brazil summit in Seoul in February, is KASA’s first agreement with a Latin American country. Brazil, which operates the Alcântara launch center—one of the world’s closest launch sites to the equator—is identified as an important player in space transport."
+    },
+    {
+      "id": "mkt:019fa775-a3ab-7aab-8ec1-a2bc1153e363",
+      "time": "2026-07-28 14:42:12",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Houthi threats disrupt Red Sea trade, tankers reroute to Egypt】Iran-backed Houthi threats have disrupted Red Sea trade; ballast VLCCs are rerouting to Egypt’s Mediterranean port Sidi Kerir to load Saudi crude while observable vessel traffic at key Saudi Red Sea export hubs is falling. Ship-tracking data show at least eight VLCCs have set Sidi Kerir as destination, with arrivals scheduled in the coming weeks through mid-August. After an Iran-backed Houthi attack on a vessel in the Red Sea last week, ARAMCO has increased supplies via the Egyptian port. On Tuesday no tankers were observed berthed at Saudi Red Sea port Yanbu; some ships may have turned off AIS transponders and could be loading outside monitored channels."
+    },
+    {
+      "id": "5011644",
+      "time": "2026-07-28 14:42:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "梅賽德斯-賓士執行長表示：我們所有德國人都意識到，競爭已變得愈發激烈下。"
+    },
+    {
+      "id": "5011643",
+      "time": "2026-07-28 14:41:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【西部證券：維持寧德時代“買入”評級，全球份額持續提升強化格局】西部證券研報指出，寧德時代業績符合預期，全球份額持續提升強化格局。海內外市佔率提升驅動出貨規模高增，原材料上漲盈利短期擾動可控。估算26Q2 合計出貨235GWh，同比+57%，環比+15%。動力業務方面國內份額持續提升，2026 年 1-6 月公司在國內市場乘用車裝車量份額達46.7%，同比+5.6 pct；海外市場佔比穩步提升，據SNE，2026 年1-5 月公司海外市場份額達33.7%，同比+3.7pct。產能擴建貢獻供給增量，全球鈉電儲能訂單加速落子。公司鈉電產品在全球市場搶先發力，驅動鈉電儲能從試點走向規模化應用。考慮到公司擴產逐漸釋放以匹配下游增量需求，預計26年電池出貨量約1000GWh ， 預計公司2026-2028年實現歸母淨利974.39/1387.32/1657.34億元，同比+35%/+42.4%/+19.5%，對應EPS 為21.06/29.99/35.82元，維持“買入”評級。"
+    },
+    {
+      "id": "5011642",
+      "time": "2026-07-28 14:41:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：冰島阿庫雷裡以南109公里處發生5.4級地震。"
+    },
     {
       "id": "5011640",
       "time": "2026-07-28 14:41:04",
@@ -160975,143 +161109,6 @@
         "國際"
       ],
       "text": "【高盛：若霍爾木茲海峽受阻持續，布油四季度或突破120美元/桶】高盛集團表示，若霍爾木茲海峽航運中斷問題持續，布倫特原油四季度有望漲至每桶120美元以上，但這並非該行基準預測。分析師達安·斯特魯伊文等人在7月20日釋出的研報中稱：“中東局勢升級，且預估波斯灣原油運輸量降至戰前水平的45%以下，推動油價再度走高。”高盛當前基準預測為，在中東緊張局勢緩和的前提下，四季度布倫特原油價格為每桶80美元，明年油價75美元。分析師同時表示，受霍爾木茲海峽以及紅海航運或持續受阻影響，上述油價預測存在上行風險。"
-    },
-    {
-      "id": "4999499",
-      "time": "2026-07-21 14:45:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑富瑞將IBM目標股價從320美元下調至260美元。"
-    },
-    {
-      "id": "4999498",
-      "time": "2026-07-21 14:45:10",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【貝萊德基金王曉京：維持“看多做多”立場，聚焦業績兌現而非概念炒作】當前市場波動較大、板塊分化明顯，外資堅定看多做多中國股市。貝萊德基金首席權益、多資產及指數投資官王曉京表示，對中國股市“仍然看多做多”，並積極關注AI科技行業以及政策面刺激投資和內需帶來的修復性機會。具體方向上，王曉京聚焦三大主線。首先是大中盤價值凸顯，無論是A股還是港股，目前估值仍低於長期理論現金流價值，在低利率環境下橫向縱向對比均具空間，他維持年初判斷，未來12至18個月內A股有望迎來全面牛市。其次是，科技浪潮是核心主線。通訊、電子、計算機及有色金屬等行業已進入業績兌現階段，AI相關行業增長尤為顯著。全球AI向各行業傳導遠未完成，中國AI頭部企業資本開支相對剋制，算力需求崩塌局面短期難以出現，他看好A股和港股泛科技標的，但提示需辨別現金流兌現，避免概念炒作。此外，內需消費存在“預期差”，王曉京認為，過去一段時間，出口的高增長在一定程度上掩蓋了國內投資和消費的復甦程序，如果相關政內需策落地，泛消費類股票或迎來修復性機會。（第一財經）"
-    },
-    {
-      "id": "mkt:019f836b-cd94-7aab-8e20-04b78199965f",
-      "time": "2026-07-21 14:45:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "Chip Wars",
-        "SZSE Component",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "ChiNext Index rose more than 7% as the semiconductor supply chain rallied; memory chips, CPO and lithography-equipment names led gains. Over 25 constituents, including Sanhuan Group, Beijing Junzheng, Zhongji Xuchuang and Jiangbolong, climbed more than 10%."
-    },
-    {
-      "id": "mkt:019f836b-bb7a-7aab-8e1f-fe25bbe3754f",
-      "time": "2026-07-21 14:45:03",
-      "tags": [
-        "MKT News",
-        "IBM.N",
-        "Impact bearish"
-      ],
-      "text": "Jefferies cuts IBM (IBM.N) PT to $260 from $320."
-    },
-    {
-      "id": "4999497",
-      "time": "2026-07-21 14:44:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲7％，上證指數漲1.70％，深證成指漲4.78％。半導體產業鏈全線走強，儲存晶片、CPO、光刻機等概念漲幅居前。"
-    },
-    {
-      "id": "4999496",
-      "time": "2026-07-21 14:44:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【伊朗戰爭迫使亞洲國家高價買“氣”】由於中東衝突導致供應受阻，巴基斯坦和孟加拉國被迫購買了多年來最昂貴的液化天然氣。據知情交易人士稱，巴基斯坦國有液化天然氣公司於週一以每百萬英熱單位約21.88美元的價格購入了一批貨物，這是自2022年以來的最高價格。這些交易人士表示，孟加拉國的國有買家上週已以較高價格至少採購了一批8月份的貨物。價格約為兩國從卡達長期採購供應價格的兩倍。"
-    },
-    {
-      "id": "mkt:019f836a-8b23-7aab-8e1f-f4554ef4dc69",
-      "time": "2026-07-21 14:43:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China grants first global approval for novel-target drug developed and filed simultaneously】China's National Medical Products Administration approved for marketing today a novel-target innovative drug that was developed and filed simultaneously across jurisdictions, the agency said. Xu Xiaoqiang, director of the Chemical Drugs Office at the NMPA's Drug Registration Department, said the drug was submitted concurrently to China, the United States and Japan and that China approved it first, marking a historic first-in-China filing-and-launch after the drug progressed from original target discovery to international multicenter clinical trials and registration."
-    },
-    {
-      "id": "4999495",
-      "time": "2026-07-21 14:43:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達3.13%，成分股中，戈碧迦漲25.74%，則成電子漲8.43%，民士達漲8.02%，錦華新材漲7.36%。"
-    },
-    {
-      "id": "mkt:019f836a-16e9-7aab-8e1f-ed98f57780cc",
-      "time": "2026-07-21 14:43:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Iran conflict forces Asian buyers to pay multi-year high for LNG】Middle East conflict has disrupted supply, forcing Pakistan and Bangladesh to pay multi-year highs for spot LNG. Trading sources said Pakistan’s state LNG company on Monday bought a cargo at about $21.88/MMBtu, the highest since 2022. Sources said Bangladesh’s state buyer paid an even higher price last week for at least one August cargo. Those spot prices are roughly double the cost under their long-term Qatar supply contracts."
-    },
-    {
-      "id": "4999494",
-      "time": "2026-07-21 14:42:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歷史性突破！全球同步研發創新藥在中國首報首發】記者今天從國家藥監局獲悉，一款在全球同步研發、同步申報的新靶點創新藥今天在我國率先獲批上市，實現全球多中心研發的原創靶點創新藥，在中國首報首發的歷史性突破。\n\n國家藥監局藥審中心化藥藥學一部副部長 劉宗英：國家藥監局最新批准“選擇性食慾素2型受體激動劑”上市，這款新靶點、新機制的創新藥，用於治療16歲及以上青少年和成人的1型發作性睡病。\n\n國家藥監局藥品註冊司化學藥品處處長 徐曉強：這款創新藥向中國、美國、日本等國家同步提交了藥品上市註冊申請。我國在全球範圍內第一個批准它上市，標誌著我國在“全球新”藥物研發領域，從靶點原創到同步推進國際多中心臨床，再到註冊上市，實現了全球範圍內首報首發的歷史性突破。\n\n據瞭解，這款創新藥是一款罕見病治療藥物，它在全球多個國家和地區同步提交上市申請。在我國獲得突破性治療品種認定並納入優先審評審批程式，獲得“雙重加速通道”；在美國獲得突破性治療藥物認定，並納入快速通道；在日本獲得先驅和孤兒藥資格認定，納入快速審評審批；在歐盟獲得孤兒藥資格認定。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f8369-53cf-7aab-8e1f-e7ed35a110de",
-      "time": "2026-07-21 14:42:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Spot gold extended gains, breaking $4,080/oz and rising 1.79% intraday."
-    },
-    {
-      "id": "4999493",
-      "time": "2026-07-21 14:42:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4080美元/盎司，日內漲1.82%。"
-    },
-    {
-      "id": "4999492",
-      "time": "2026-07-21 14:41:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【歐亞經濟聯盟釋出對原產於中國的油井管反傾銷日落複審終裁披露】7月20日，歐亞經濟委員會內部市場保護司釋出對原產於中國的油井管反傾銷第二次日落複審終裁披露（參見第2026/494/AD16R2號公告），裁定若取消現行反傾銷稅，涉案產品的傾銷以及該傾銷對歐亞經濟聯盟相關產業造成的損害將繼續發生，因此建議維持2015年第101號決議確定的反傾銷稅不變，有效期延長五年。"
-    },
-    {
-      "id": "4999491",
-      "time": "2026-07-21 14:41:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破59美元/盎司，日內漲3.38%。"
     }
   ]
 }
