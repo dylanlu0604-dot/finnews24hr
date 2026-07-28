@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-29 03:41:36",
-  "count": 17569,
+  "updated": "2026-07-29 03:45:26",
+  "count": 17562,
   "items": [
+    {
+      "id": "5012978",
+      "time": "2026-07-29 03:44:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數28日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.12%，在匯市尾市收於101.417。截至紐約匯市尾市，1歐元兌換1.1387美元，高於前一交易日的1.1368美元；1英鎊兌換1.3289美元，高於前一交易日的1.3288美元。1美元兌換163.86日元，高於前一交易日的163.78日元；1美元兌換0.8190瑞士法郎，與前一交易日持平；1美元兌換1.4105加元，低於前一交易日的1.4125加元；1美元兌換9.6954瑞典克朗，低於前一交易日的9.7285瑞典克朗。"
+    },
+    {
+      "id": "mkt:019faa40-9225-7aab-8ed4-7669ffbf6e3d",
+      "time": "2026-07-29 03:43:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【NVIDIA CEO backs open-weight AI models】NVIDIA (NVDA.O) CEO Jensen Huang told reporters after meeting U.S. lawmakers in Washington that open-weight AI models are critical for the nascent AI industry. He said open weights are needed to ensure AI can be applied safely and securely across the economy and to keep the sector vibrant."
+    },
+    {
+      "id": "5012977",
+      "time": "2026-07-29 03:41:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事運輸辦公室：收到一份可疑活動報告。一艘油輪船長報告稱，在紅海南部航行時聽到爆炸聲。報告確認船員和船舶安全。未收到環境損害報告。建議船舶謹慎航行。"
+    },
     {
       "id": "mkt:019faa3e-ccbf-7aab-8ed4-6c4bcb65ef6b",
       "time": "2026-07-29 03:41:10",
@@ -161034,90 +161067,6 @@
         "公司"
       ],
       "text": "空中客車商用飛機執行長表示，普惠公司2027年提供的發動機數量少於空客期望的水平。"
-    },
-    {
-      "id": "5000832",
-      "time": "2026-07-22 03:45:15",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普在白宮與黎巴嫩總統約瑟夫·奧恩會晤時表示，若黎巴嫩方面提出請求，他願意與真主黨展開直接對話。特朗普承諾美國將持續向黎巴嫩提供支援。"
-    },
-    {
-      "id": "5000831",
-      "time": "2026-07-22 03:44:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI任命NuBank的大衛·貝萊斯以及紐約梅隆銀行的羅賓·文斯出任董事。"
-    },
-    {
-      "id": "5000830",
-      "time": "2026-07-22 03:44:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【規模 二季度公募規模大增 距40萬億元僅一步之遙】2026年二季度，公募基金管理規模迎來顯著增長，距離40萬億元僅一步之遙。主動管理類產品憑藉亮眼業績，成為二季度增幅最大的品類，績優產品“吸金”顯著。業內人士認為，公募基金行業在規模快速擴張的同時，也在從“量的增長”向“質的提升”轉型。"
-    },
-    {
-      "id": "5000829",
-      "time": "2026-07-22 03:44:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：不可否認，伊朗依舊保有作戰能力，但我方造成的打擊重創對手，使其陷入前所未有的不利處境。"
-    },
-    {
-      "id": "mkt:019f8634-918d-7aab-8e31-233256f62656",
-      "time": "2026-07-22 03:43:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Iraq's cabinet approved allowing the State Oil Marketing Organization (SOMO) to import diesel for the Ministry of Energy to \"secure energy‑sector demand\"."
-    },
-    {
-      "id": "5000828",
-      "time": "2026-07-22 03:43:32",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "OpenAI擬在IPO前增設兩名獨立董事。"
-    },
-    {
-      "id": "5000827",
-      "time": "2026-07-22 03:42:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "伊拉克內閣批准允許國有石油銷售公司SOMO為伊拉克能源部進口瓦斯油，以“保障能源部門需求”。"
-    },
-    {
-      "id": "mkt:019f8633-d81a-7aab-8e31-1a8920a2cc90",
-      "time": "2026-07-22 03:42:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy has offered former defense minister Feodorov an \"important position\" to oversee work in the defense technology sector."
-    },
-    {
-      "id": "5000826",
-      "time": "2026-07-22 03:41:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "空客首席財務官表示，歐洲投資銀行貸款採用“完全標準的市場利率”。"
-    },
-    {
-      "id": "5000825",
-      "time": "2026-07-22 03:41:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱，已向烏克蘭前國防部長費多羅夫提供一個“體面職位”，負責監督國防技術事務。"
     }
   ]
 }

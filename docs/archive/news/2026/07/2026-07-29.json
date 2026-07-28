@@ -1,7 +1,40 @@
 {
   "date": "2026-07-29",
-  "count": 246,
+  "count": 249,
   "items": [
+    {
+      "id": "5012978",
+      "time": "2026-07-29 03:44:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數28日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.12%，在匯市尾市收於101.417。截至紐約匯市尾市，1歐元兌換1.1387美元，高於前一交易日的1.1368美元；1英鎊兌換1.3289美元，高於前一交易日的1.3288美元。1美元兌換163.86日元，高於前一交易日的163.78日元；1美元兌換0.8190瑞士法郎，與前一交易日持平；1美元兌換1.4105加元，低於前一交易日的1.4125加元；1美元兌換9.6954瑞典克朗，低於前一交易日的9.7285瑞典克朗。"
+    },
+    {
+      "id": "mkt:019faa40-9225-7aab-8ed4-7669ffbf6e3d",
+      "time": "2026-07-29 03:43:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【NVIDIA CEO backs open-weight AI models】NVIDIA (NVDA.O) CEO Jensen Huang told reporters after meeting U.S. lawmakers in Washington that open-weight AI models are critical for the nascent AI industry. He said open weights are needed to ensure AI can be applied safely and securely across the economy and to keep the sector vibrant."
+    },
+    {
+      "id": "5012977",
+      "time": "2026-07-29 03:41:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事運輸辦公室：收到一份可疑活動報告。一艘油輪船長報告稱，在紅海南部航行時聽到爆炸聲。報告確認船員和船舶安全。未收到環境損害報告。建議船舶謹慎航行。"
+    },
     {
       "id": "mkt:019faa3e-ccbf-7aab-8ed4-6c4bcb65ef6b",
       "time": "2026-07-29 03:41:10",
