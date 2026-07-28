@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-29 03:37:45",
-  "count": 17576,
+  "updated": "2026-07-29 03:41:36",
+  "count": 17569,
   "items": [
+    {
+      "id": "mkt:019faa3e-ccbf-7aab-8ed4-6c4bcb65ef6b",
+      "time": "2026-07-29 03:41:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Transport Office received a suspicious-activity report: an oil tanker captain reported hearing an explosion while transiting the southern Red Sea. Report confirms crew and vessel are safe and no environmental damage reported. Vessels advised to proceed with caution."
+    },
     {
       "id": "mkt:019faa3a-201f-7aab-8ed4-6113074e2a36",
       "time": "2026-07-29 03:36:03",
@@ -161110,73 +161118,6 @@
         "國際"
       ],
       "text": "澤連斯基稱，已向烏克蘭前國防部長費多羅夫提供一個“體面職位”，負責監督國防技術事務。"
-    },
-    {
-      "id": "mkt:019f8632-88de-7aab-8e31-14628192759a",
-      "time": "2026-07-22 03:41:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy has dismissed Commander-in-Chief of the Ukrainian Armed Forces Oleksandr Syrskyi."
-    },
-    {
-      "id": "5000824",
-      "time": "2026-07-22 03:40:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：美國擬於週五前實施新關稅，當前臨時關稅措施即將到期。"
-    },
-    {
-      "id": "mkt:019f8631-4260-7aab-8e31-098cfb139043",
-      "time": "2026-07-22 03:40:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. military said that as of July 21 U.S. forces had altered the course of eight commercial vessels and disabled one during operations to fully enforce a blockade against Iran."
-    },
-    {
-      "id": "5000823",
-      "time": "2026-07-22 03:39:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方：截至7月21日，美軍已重新排程8艘商船，並扣押1艘，以全面實施封鎖。"
-    },
-    {
-      "id": "5000822",
-      "time": "2026-07-22 03:39:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國：計劃醫療撤離一名在剛果（金）救治埃博拉患者的工作人員，疑似發生職業暴露；該人員正在隔離環境下接受評估與監測，目前尚未出現任何症狀。"
-    },
-    {
-      "id": "5000821",
-      "time": "2026-07-22 03:39:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "空中客車執行長在被問及是否會在2028年後連任第四屆任期時表示，他願意接受董事會作出的任何恰當安排。"
-    },
-    {
-      "id": "5000820",
-      "time": "2026-07-22 03:39:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基表示，他已提名米哈伊洛·德拉帕季指揮官出任烏克蘭武裝部隊總司令。"
-    },
-    {
-      "id": "mkt:019f862f-94d8-7aab-8e31-01608ee05071",
-      "time": "2026-07-22 03:38:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Ukrainian lawmaker says Mykhailo Drapaty will be appointed chief of the Ukrainian Armed Forces' General Staff and Volodymyr Horbatiuk will be named head of the National Guard."
     }
   ]
 }

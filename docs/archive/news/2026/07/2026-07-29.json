@@ -1,7 +1,15 @@
 {
   "date": "2026-07-29",
-  "count": 245,
+  "count": 246,
   "items": [
+    {
+      "id": "mkt:019faa3e-ccbf-7aab-8ed4-6c4bcb65ef6b",
+      "time": "2026-07-29 03:41:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Transport Office received a suspicious-activity report: an oil tanker captain reported hearing an explosion while transiting the southern Red Sea. Report confirms crew and vessel are safe and no environmental damage reported. Vessels advised to proceed with caution."
+    },
     {
       "id": "mkt:019faa3a-201f-7aab-8ed4-6113074e2a36",
       "time": "2026-07-29 03:36:03",
