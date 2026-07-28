@@ -1,7 +1,186 @@
 {
-  "updated": "2026-07-28 14:30:28",
-  "count": 17599,
+  "updated": "2026-07-28 14:34:20",
+  "count": 17595,
   "items": [
+    {
+      "id": "te:markets:570293",
+      "time": "2026-07-28 14:33:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Philippines",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Philippine Peso Trades Near Record Low — The Philippine peso traded around 61.7 per US dollar in late July, hovering near its record low as the Bangko Sentral ng Pilipinas maintained only limited intervention in the foreign exchange market and signaled that aggressive monetary tightening remained unlikely. The central bank intervened modestly last week to maintain orderly market conditions, with Governor Eli Remolona stressing that aggressively defending the peso against a strong US dollar would only deplete the country's foreign exchange reserves. While authorities remain concerned that the peso's weakness could fuel imported inflation, Remolona said the likelihood of aggressive rate hikes to bring inflation back to target remains small. Broad US dollar strength and elevated crude oil prices, which have weighed on Asia's oil-importing economies, have kept the peso under pressure, leaving the currency down more than 7% against the greenback so far this year."
+    },
+    {
+      "id": "5011620",
+      "time": "2026-07-28 14:33:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞標普/澳證200指數收盤上漲0.6%，報8947.80點。"
+    },
+    {
+      "id": "5011619",
+      "time": "2026-07-28 14:32:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【寒武紀盤中跌超10%】A股寒武紀盤中跌10.0%，現報1116.91元。"
+    },
+    {
+      "id": "mkt:019fa76d-0ef9-7aab-8ec1-809ee1c654ea",
+      "time": "2026-07-28 14:32:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【Japan, South Korea stocks plunge; South Korea's KOSPI down nearly 11%】Japan's Nikkei 225 closed July 28 (Tuesday) down 2,566.27 points, or 3.95%, at 62,364.92. South Korea's KOSPI closed July 28 down 732.12 points, or 10.84%, at 6,023.63, after an intraday drop of more than 11% below 6,000; the index is down nearly 30% month-to-date. SK Hynix fell more than 14% and Samsung Electronics fell more than 13%."
+    },
+    {
+      "id": "5011618",
+      "time": "2026-07-28 14:32:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【常潤股份：遠期有望逐步實現海外產能過半】關於“新能源車普及下，傳統備胎、千斤頂需求持續下滑，下滑速度會很快嗎”的問題，常潤股份在機構調研時稱，公司前裝業務60%—70%為出口業務，基於國外新能車基礎設施狀況、消費習慣等，國外整車廠以燃油車為主，傳統備胎、千斤頂需求相當長時間不會下滑。國內公司同時佈局千斤頂、補胎液兩套備胎替代方案，可以雙向適配車企需求。常潤股份同時指出，遠期隨著海外產業鏈配套持續完善、不斷擴充新品類，公司有望逐步實現海外產能過半。"
+    },
+    {
+      "id": "5011617",
+      "time": "2026-07-28 14:32:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷克中央政府預算赤字明年將\"遠低於\"4,000億克朗（2026年計劃為3,100億克朗）。"
+    },
+    {
+      "id": "mkt:019fa76c-a751-7aab-8ec1-78ad1ff1d752",
+      "time": "2026-07-28 14:32:23",
+      "tags": [
+        "MKT News",
+        "Bibeite-U",
+        "Impact bearish",
+        "NewGanjiang-U",
+        "YahongPharma-U"
+      ],
+      "text": "China A-share chemical and pharmaceutical sector weakened in the afternoon; Bibeite hit the 20% limit-down, New Ganjiang slid more than 10%, and C-Tainuo-U, Yahong Pharma-U, Frontier Biotech-U, Nawei Technology and Huayuan Bio also fell."
+    },
+    {
+      "id": "5011616",
+      "time": "2026-07-28 14:32:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "梅賽德斯-賓士執行長表示：將考慮在北美本地化生產發動機，目前尚未做出決定。"
+    },
+    {
+      "id": "5011615",
+      "time": "2026-07-28 14:32:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南方兩倍做多海力士跌超30% 7月以來累跌75%】港股儲存概念跌幅擴大，南方兩倍做多海力士跌超30%，7月以來累計跌75%，南方兩倍做多三星電子跌超27%，7月以來累計跌超64%。"
+    },
+    {
+      "id": "5011614",
+      "time": "2026-07-28 14:31:47",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐元跌至月內谷底 美聯儲決議前美元強勢施壓】歐元兌美元在週二歐洲時段早盤跌至月內低點約1.1362。該主要貨幣對走弱，因在週三美聯儲貨幣政策公佈前，市場保持謹慎，美元延續漲勢。"
+    },
+    {
+      "id": "mkt:019fa76b-e6a7-7aab-8ec1-72b3c490d9b7",
+      "time": "2026-07-28 14:31:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Euro falls to monthly low as dollar gains ahead of Fed decision】EUR/USD dropped to about 1.1362 in early European trade on Tuesday as the dollar strengthened ahead of the Federal Reserve decision on Wednesday. Markets price the Fed holding the policy rate at 3.50%-3.75%. Investors will focus on the Fed statement and the chair's press conference for signals on inflation and the economic outlook; the Fed is unlikely to offer new guidance on the policy path. The CME FedWatch Tool shows an 80.8% probability of a rate hike at the September meeting. In the euro area, markets await preliminary July HICP for Germany on Thursday and for the euro area on Friday; those prints will be monitored for their impact on ECB rate expectations."
+    },
+    {
+      "id": "5011613",
+      "time": "2026-07-28 14:31:18",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市集體大跌 韓國綜指7月累跌近30%】日經225指數收跌3.95%，報62364.92點，觸及5月以來最低水平。韓國KOSPI指數收跌10.84%，報6023.63點，本月累跌近30%。"
+    },
+    {
+      "id": "mkt:019fa76b-8eba-7aab-8ec1-6db7d77bb102",
+      "time": "2026-07-28 14:31:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Oman proposes joint regional mechanism to Iran for Strait of Hormuz, funded by voluntary user fees】Refinitiv — Gulf sources say Oman has offered Iran a proposal to set up a joint regional mechanism to manage the Strait of Hormuz, financed by voluntary contributions from strait users. Modeled on the Malacca Strait system, the plan would allocate user fees to navigation safety, environmental protection and search-and-rescue operations. The proposal has regional backing and would not leave Iran as sole controller of the strait."
+    },
+    {
+      "id": "5011612",
+      "time": "2026-07-28 14:30:55",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "日經225指數大跌4%，創5月以來新低。"
+    },
+    {
+      "id": "te:markets:570292",
+      "time": "2026-07-28 14:30:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Copper Falls as Fed Meeting Looms — Copper futures fell below $6.3 per pound on Tuesday, giving up the previous session’s gains as investors awaited the Federal Reserve’s upcoming policy decision, with markets pricing in better than a one-third chance of a rate hike. That reflects an unusually high level of uncertainty this close to a Fed meeting compared with recent years. Copper also came under pressure even after President Donald Trump said the US was engaged in \"good talks\" with Iran aimed at ending the Middle East conflict, sending oil prices lower and easing concerns over inflation and interest rate hikes. Meanwhile, the red metal continued to find support from its favorable long-term demand outlook, driven by the global transition to clean energy and the rapid expansion of artificial intelligence data centers. On the supply side, signs of near-term tightness in top consumer China continued to underpin prices, while severe storms in leading producer Chile heightened the risk of disruptions to copper production."
+    },
+    {
+      "id": "5011611",
+      "time": "2026-07-28 14:30:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【罕見！法國代表發言時，美國外交官離場抗議】據美聯社7月27日報道，在27日舉行的一次聯合國會議上，美國外交官在法國代表發言時集體離場，以此抗議法國之前批評特朗普政府的人權記錄。這出人意料的一幕發生在聯合國安理會關於烏克蘭問題的會議上，導火索是美國此前反對聯合國人權事務高階專員沃爾克·圖爾克連任。圖爾克上週在聯合國投票中獲得壓倒性支援，法國投了贊成票。美國代表離場，不僅反映出美國總統特朗普與法國總統馬克龍的關係緊張，更凸顯了美國與整個歐洲之間愈發尖銳的矛盾。美國常駐聯合國官員丹·內格雷亞批評法國假裝“道德義憤”，在包括人權問題在內的所有議題上試圖對全世界進行說教。（參考訊息）"
+    },
+    {
+      "id": "5011610",
+      "time": "2026-07-28 14:30:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東陽光成立未來實驗室科技公司，含AI業務】企查查APP顯示，近日，東陽光未來實驗室科技（北京）有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；智慧機器人的研發等。企查查股權穿透顯示，該公司由東陽光全資持股。"
+    },
+    {
+      "id": "te:markets:570291",
+      "time": "2026-07-28 14:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 4.16% Lower — The Nikkei 225 Index dropped 2701 points or 4.16 percent on Tuesday to close at 62230 points. Losses were led by Sumco (-17.54%), Taiyo Yuden (-12.39%) and Resonac Holdings (-11.99%)."
+    },
     {
       "id": "5011609",
       "time": "2026-07-28 14:29:55",
@@ -161045,215 +161224,6 @@
         "觀點"
       ],
       "text": "高盛針對荷蘭所有權轉讓中心（TTF）天然氣價格表示：預計霍爾木茲海峽石油運輸流量恢復速度若快於預期，將推動TTF天然氣價格回落，與煤轉氣閾值40歐元/兆瓦時保持一致。"
-    },
-    {
-      "id": "mkt:019f8361-c815-7aab-8e1f-87b17fb8ea91",
-      "time": "2026-07-21 14:34:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Goldman Sachs says Europe’s vulnerability to winter cold snaps has increased, raising the risk that TTF gas prices could climb to €65/MWh."
-    },
-    {
-      "id": "4999466",
-      "time": "2026-07-21 14:34:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "倫敦證券交易所集團（LSEG）旗下LSE 24交易平臺交易所交易產品將作為首個資產類別於2027年上半年推出。"
-    },
-    {
-      "id": "4999465",
-      "time": "2026-07-21 14:33:50",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛就TTF天然氣價格發表觀點：若中東能源出口到2027年僅能逐步恢復正常，預計2026年12月交割的TTF天然氣價格大機率需要升至100歐元/兆瓦時以上。"
-    },
-    {
-      "id": "mkt:019f8361-454a-7aab-8e1f-7f0d5e707c4a",
-      "time": "2026-07-21 14:33:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Goldman Sachs raised its TTF natural gas price forecasts for Q3 and Q4 to €60/MWh and €53/MWh from €41/MWh and €40/MWh, respectively."
-    },
-    {
-      "id": "4999464",
-      "time": "2026-07-21 14:33:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫銅上漲0.8%，至每噸13731美元，有望創下6月17日以來的最高收盤。"
-    },
-    {
-      "id": "4999463",
-      "time": "2026-07-21 14:33:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "倫敦證券交易所集團：主機板市場將繼續維持現有交易時段執行。"
-    },
-    {
-      "id": "te:economy:568445",
-      "time": "2026-07-21 14:33:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Budget Value",
-        "Importance 1"
-      ],
-      "text": "UK Public Borrowing Lower Than Expected — UK public sector net borrowing (excluding public sector banks) recorded £16.0 billion in June 2026, a third lower than £23.9 billion in the same month last year and below market expectations of £19.8 billion. In the financial year through June 2026, public sector net borrowing stood at £57.6 billion, £3.7 billion lower than in the same period last year but £2.7 billion above the OBR’s March forecast, marking the tenth-highest April-to-June borrowing since comparable records began in 1993. Central government receipts rose to £95.0 billion, up £5.2 billion from a year earlier, supported by strong growth in income-related taxes and Value Added Tax receipts. Meanwhile, central government expenditure eased to £111.4 billion from £112.9 billion, largely reflecting a £5.3 billion decline in debt interest payments to £11.8 billion, although they remained the fourth-highest June on record. Public debt remained close to 95% of GDP, near its highest level since the early 1960s."
-    },
-    {
-      "id": "mkt:019f8360-9955-7aab-8e1f-741e726ddf4e",
-      "time": "2026-07-21 14:32:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Goldman Sachs said elevated uncertainty in the Middle East is likely to further delay normalization of Persian Gulf LNG exports."
-    },
-    {
-      "id": "4999462",
-      "time": "2026-07-21 14:32:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦證券交易所24小時交易系統將於2026年底開放客戶測試。"
-    },
-    {
-      "id": "mkt:019f8360-4ad3-7aab-8e1f-6e2437a962bb",
-      "time": "2026-07-21 14:32:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "ISNA reported Iranian parliament energy committee member Dehghan said the Strait of Hormuz lies within Iranian territorial waters, and Iran may pursue foreseeable national interests in line with conventions and applicable rules, but any actions must have a legal basis."
-    },
-    {
-      "id": "mkt:019f8360-3f65-7aab-8e1f-67522ab90def",
-      "time": "2026-07-21 14:32:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【Japan and South Korea benchmark stock indexes closed higher】Japan's Nikkei 225 closed up 2,091.07 points (3.26%) at 66,232.19 on Tuesday. South Korea's KOSPI closed up 231.68 points (3.56%) at 6,747.95. SK Hynix rose 4.0% and Samsung Electronics gained 6.1%."
-    },
-    {
-      "id": "4999461",
-      "time": "2026-07-21 14:32:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中郵證券：維持冰輪環境“買入”評級，有望受益資料中心建設浪潮】中郵證券研報指出，冰輪環境是工商業製冷領先企業，有望受益資料中心建設浪潮。公司傳統下游為工商業製冷系統，面臨下游需求放緩、市場承壓的挑戰，但近年來資料中心建設節奏加快，逐漸成為影響公司經營業績的重要因素。2025年及2026Q1，公司收入恢復正增長，2026Q1歸母淨利潤同比+25%。同時，公司盈利能力較為穩定，2023-2025年毛利率穩定在25%-28%之間，淨利率穩定在8.5%-10.5%之間。此外，資產負債率持續降低，現金流健康。全球製冷裝置市場規模超千億美元，中國冷鏈裝置市場規模超2500億元，需求端有望穩健增長。公司擁有矩陣式管理的強大技術體系和高素質研發團隊，產品研發和技術服務能力強。公司生產效率及質量明顯優於傳統制造企業。選取申菱環境、大元泵業、聯德股份作為可比公司，冰輪環境對標同行業可比公司PE估值來看，處於較低水平，公司2026-2028年業績對應PE分別為52.42、34.44、25.68倍，維持“買入”評級。"
-    },
-    {
-      "id": "4999460",
-      "time": "2026-07-21 14:32:18",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛關於TTF天然氣的觀點：由於中東不確定性仍居高不下，高盛預計波斯灣液化天然氣出口的常態化將進一步推遲。"
-    },
-    {
-      "id": "te:economy:568443",
-      "time": "2026-07-21 14:32:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Employment Change",
-        "Importance 0"
-      ],
-      "text": "UK Employment Rises Most in 10 Months — The number of employed people in the United Kingdom rose by 148 thousand to 34.475 million in the three months to May 2026, exceeding expectations for a gain of 85 thousand and following a 99 thousand increase in the previous period. This marked the largest increase since July 2025, driven by increases in both full-time and part-time employment. Compared with a year earlier, employment increased by 340 thousand, reflecting gains in both full-time employees and part-time self-employed workers. Despite the increase in employment, the employment rate for those aged 16 to 64 edged up to 75.1% from 75.0% in the previous quarter but remained 0.1 percentage point below a year earlier, extending the broadly stable trend seen since mid-2024. Meanwhile, the number of people holding second jobs rose over the quarter to 1.278 million, accounting for 3.7% of total employment, though it remained below the level recorded a year earlier."
-    },
-    {
-      "id": "mkt:019f835f-4c92-7aab-8e1f-5b79e7281dc2",
-      "time": "2026-07-21 14:31:28",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bearish",
-        "034220.KS"
-      ],
-      "text": "【TrendForce: July TV panel prices down; monitor demand seen -6% QoQ, prices to remain flat】TrendForce said July 2026 TV panel prices fell while monitor and notebook panel prices were broadly stable. It expects Q3 demand from major TV brands could rise QoQ but be concentrated in August–September, leaving July weak; brands are using the softer July demand to press panel suppliers for price cuts. Monitor panel demand began softening in July as buyers trimmed orders; TrendForce estimates overall monitor panel demand may decline about 6% QoQ. Despite weaker demand, panel makers face elevated cost pressure and are reluctant to concede further price cuts, so July monitor panel prices are expected to remain flat within a mutually acceptable range."
-    },
-    {
-      "id": "4999459",
-      "time": "2026-07-21 14:31:20",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【日韓基準股指均收漲】日經225指數7月21日（週二）收盤上漲2091.07點，漲幅3.26%，報66232.19點。韓國KOSPI指數7月21日（週二）收盤上漲231.68點，漲幅3.56%，報6747.95點。SK海力士收漲4%，三星電子漲6.1%。"
-    },
-    {
-      "id": "mkt:019f835f-26d4-7aab-8e1f-566e71ffbc65",
-      "time": "2026-07-21 14:31:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Demingli shares rose as much as 9% in afternoon trade; gains have narrowed to 7.41%."
-    },
-    {
-      "id": "4999458",
-      "time": "2026-07-21 14:31:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "倫敦證券交易所集團：LSE 24是全新的每週5天24小時交易場所。"
-    },
-    {
-      "id": "4999457",
-      "time": "2026-07-21 14:31:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "光迅科技盤中漲停，上演“地天板”，現報187.56元，成交額129.71億元。"
-    },
-    {
-      "id": "4999456",
-      "time": "2026-07-21 14:31:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "倫敦證券交易所集團將推出全新每週五天全天候交易平臺。"
-    },
-    {
-      "id": "4999455",
-      "time": "2026-07-21 14:30:55",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【肉製品行業自律公約釋出，聚焦八方面內容】近日，在湖北省宜昌市召開的2026年中國肉製品行業高質量發展大會上，市場監管總局指導中國肉類協會聯合地方肉類協會共同制定併發布肉製品行業自律公約，中糧、新希望等150餘家肉製品生產經營企業積極響應，現場承諾。 自律公約主要包括八個方面內容。一是落實主體責任，抓好企業主要負責人、食品安全總監、食品安全員“三類人”，做好日管控、周排查、月排程“三件事”，記好每日食品安全檢查記錄、每週食品安全排查治理報告、每月食品安全排程會議紀要“三本賬”，精準識別防控風險隱患。二是大力推廣“網際網路+AI監管”，鼓勵積極對接監管部門資訊化平臺，提升監管質效。三是嚴格原料管理，確保肉類原料可控可溯，堅決抵制採購、使用來源不明、未經檢驗檢疫或檢驗檢疫不合格、過期、走私的肉類原料。四是嚴守生產規範，依法取得食品生產許可，強化生產經營過程管控，堅決杜絕肉製品源性成分造假等摻雜摻假、以次充好等違法行為。五是合法合規新增，堅持食品新增劑非必要不新增，堅決杜絕肉製品生產“兩超一非”。六是規範標籤標識，確保產品標籤標識完整、真實、準確，保障消費者知情權和選擇權。七是提升人員素養，依法組織開展培訓考核，提升肉製品生產經營合規能力。八是堅持誠信合規經營，自覺維護公平競爭的市場秩序，自覺接受政府監管部門、行業協會、新聞媒體及廣大人民群眾的監督。 自律公約的釋出，旨在推動肉製品生產經營企業全面落實食品安全第一責任人的責任，以實際行動保障肉製品食品安全，讓人民群眾吃得放心、安心，推動肉製品產業高質量發展。"
-    },
-    {
-      "id": "4999454",
-      "time": "2026-07-21 14:30:45",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【摩根大通：下半年美股或漲幅有限 四大風險恐擾亂市場】摩根大通最新報告認為，在幾大潛在風險的威脅下，美股市場在下半年將面臨嚴峻挑戰。摩根大通高階研究員扎欣·奧夫（Zahin Ov）領導的研究團隊撰文指出，標普500指數在2026年剩餘時間內相對於國際股市的表現可能“更為疲弱”。報告稱：“我們預計美股從當前水平開始將有所上漲，但到年底的回報不太可能達到2026年上半年的水平。”以下是該銀行認為將在2026年剩餘時間裡影響市場的幾大主要因素：包括“市場功能失靈”和波動風險提高；通脹加劇，利率上升；散戶投資者可能引發負面反饋迴圈；勞動力市場的動盪。"
     }
   ]
 }

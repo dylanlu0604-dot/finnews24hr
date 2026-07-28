@@ -1,7 +1,186 @@
 {
   "date": "2026-07-28",
-  "count": 1377,
+  "count": 1395,
   "items": [
+    {
+      "id": "te:markets:570293",
+      "time": "2026-07-28 14:33:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Philippines",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Philippine Peso Trades Near Record Low — The Philippine peso traded around 61.7 per US dollar in late July, hovering near its record low as the Bangko Sentral ng Pilipinas maintained only limited intervention in the foreign exchange market and signaled that aggressive monetary tightening remained unlikely. The central bank intervened modestly last week to maintain orderly market conditions, with Governor Eli Remolona stressing that aggressively defending the peso against a strong US dollar would only deplete the country's foreign exchange reserves. While authorities remain concerned that the peso's weakness could fuel imported inflation, Remolona said the likelihood of aggressive rate hikes to bring inflation back to target remains small. Broad US dollar strength and elevated crude oil prices, which have weighed on Asia's oil-importing economies, have kept the peso under pressure, leaving the currency down more than 7% against the greenback so far this year."
+    },
+    {
+      "id": "5011620",
+      "time": "2026-07-28 14:33:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞標普/澳證200指數收盤上漲0.6%，報8947.80點。"
+    },
+    {
+      "id": "5011619",
+      "time": "2026-07-28 14:32:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【寒武紀盤中跌超10%】A股寒武紀盤中跌10.0%，現報1116.91元。"
+    },
+    {
+      "id": "mkt:019fa76d-0ef9-7aab-8ec1-809ee1c654ea",
+      "time": "2026-07-28 14:32:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【Japan, South Korea stocks plunge; South Korea's KOSPI down nearly 11%】Japan's Nikkei 225 closed July 28 (Tuesday) down 2,566.27 points, or 3.95%, at 62,364.92. South Korea's KOSPI closed July 28 down 732.12 points, or 10.84%, at 6,023.63, after an intraday drop of more than 11% below 6,000; the index is down nearly 30% month-to-date. SK Hynix fell more than 14% and Samsung Electronics fell more than 13%."
+    },
+    {
+      "id": "5011618",
+      "time": "2026-07-28 14:32:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【常潤股份：遠期有望逐步實現海外產能過半】關於“新能源車普及下，傳統備胎、千斤頂需求持續下滑，下滑速度會很快嗎”的問題，常潤股份在機構調研時稱，公司前裝業務60%—70%為出口業務，基於國外新能車基礎設施狀況、消費習慣等，國外整車廠以燃油車為主，傳統備胎、千斤頂需求相當長時間不會下滑。國內公司同時佈局千斤頂、補胎液兩套備胎替代方案，可以雙向適配車企需求。常潤股份同時指出，遠期隨著海外產業鏈配套持續完善、不斷擴充新品類，公司有望逐步實現海外產能過半。"
+    },
+    {
+      "id": "5011617",
+      "time": "2026-07-28 14:32:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷克中央政府預算赤字明年將\"遠低於\"4,000億克朗（2026年計劃為3,100億克朗）。"
+    },
+    {
+      "id": "mkt:019fa76c-a751-7aab-8ec1-78ad1ff1d752",
+      "time": "2026-07-28 14:32:23",
+      "tags": [
+        "MKT News",
+        "Bibeite-U",
+        "Impact bearish",
+        "NewGanjiang-U",
+        "YahongPharma-U"
+      ],
+      "text": "China A-share chemical and pharmaceutical sector weakened in the afternoon; Bibeite hit the 20% limit-down, New Ganjiang slid more than 10%, and C-Tainuo-U, Yahong Pharma-U, Frontier Biotech-U, Nawei Technology and Huayuan Bio also fell."
+    },
+    {
+      "id": "5011616",
+      "time": "2026-07-28 14:32:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "梅賽德斯-賓士執行長表示：將考慮在北美本地化生產發動機，目前尚未做出決定。"
+    },
+    {
+      "id": "5011615",
+      "time": "2026-07-28 14:32:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南方兩倍做多海力士跌超30% 7月以來累跌75%】港股儲存概念跌幅擴大，南方兩倍做多海力士跌超30%，7月以來累計跌75%，南方兩倍做多三星電子跌超27%，7月以來累計跌超64%。"
+    },
+    {
+      "id": "5011614",
+      "time": "2026-07-28 14:31:47",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐元跌至月內谷底 美聯儲決議前美元強勢施壓】歐元兌美元在週二歐洲時段早盤跌至月內低點約1.1362。該主要貨幣對走弱，因在週三美聯儲貨幣政策公佈前，市場保持謹慎，美元延續漲勢。"
+    },
+    {
+      "id": "mkt:019fa76b-e6a7-7aab-8ec1-72b3c490d9b7",
+      "time": "2026-07-28 14:31:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Euro falls to monthly low as dollar gains ahead of Fed decision】EUR/USD dropped to about 1.1362 in early European trade on Tuesday as the dollar strengthened ahead of the Federal Reserve decision on Wednesday. Markets price the Fed holding the policy rate at 3.50%-3.75%. Investors will focus on the Fed statement and the chair's press conference for signals on inflation and the economic outlook; the Fed is unlikely to offer new guidance on the policy path. The CME FedWatch Tool shows an 80.8% probability of a rate hike at the September meeting. In the euro area, markets await preliminary July HICP for Germany on Thursday and for the euro area on Friday; those prints will be monitored for their impact on ECB rate expectations."
+    },
+    {
+      "id": "5011613",
+      "time": "2026-07-28 14:31:18",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市集體大跌 韓國綜指7月累跌近30%】日經225指數收跌3.95%，報62364.92點，觸及5月以來最低水平。韓國KOSPI指數收跌10.84%，報6023.63點，本月累跌近30%。"
+    },
+    {
+      "id": "mkt:019fa76b-8eba-7aab-8ec1-6db7d77bb102",
+      "time": "2026-07-28 14:31:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Oman proposes joint regional mechanism to Iran for Strait of Hormuz, funded by voluntary user fees】Refinitiv — Gulf sources say Oman has offered Iran a proposal to set up a joint regional mechanism to manage the Strait of Hormuz, financed by voluntary contributions from strait users. Modeled on the Malacca Strait system, the plan would allocate user fees to navigation safety, environmental protection and search-and-rescue operations. The proposal has regional backing and would not leave Iran as sole controller of the strait."
+    },
+    {
+      "id": "5011612",
+      "time": "2026-07-28 14:30:55",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "日經225指數大跌4%，創5月以來新低。"
+    },
+    {
+      "id": "te:markets:570292",
+      "time": "2026-07-28 14:30:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Copper Falls as Fed Meeting Looms — Copper futures fell below $6.3 per pound on Tuesday, giving up the previous session’s gains as investors awaited the Federal Reserve’s upcoming policy decision, with markets pricing in better than a one-third chance of a rate hike. That reflects an unusually high level of uncertainty this close to a Fed meeting compared with recent years. Copper also came under pressure even after President Donald Trump said the US was engaged in \"good talks\" with Iran aimed at ending the Middle East conflict, sending oil prices lower and easing concerns over inflation and interest rate hikes. Meanwhile, the red metal continued to find support from its favorable long-term demand outlook, driven by the global transition to clean energy and the rapid expansion of artificial intelligence data centers. On the supply side, signs of near-term tightness in top consumer China continued to underpin prices, while severe storms in leading producer Chile heightened the risk of disruptions to copper production."
+    },
+    {
+      "id": "5011611",
+      "time": "2026-07-28 14:30:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【罕見！法國代表發言時，美國外交官離場抗議】據美聯社7月27日報道，在27日舉行的一次聯合國會議上，美國外交官在法國代表發言時集體離場，以此抗議法國之前批評特朗普政府的人權記錄。這出人意料的一幕發生在聯合國安理會關於烏克蘭問題的會議上，導火索是美國此前反對聯合國人權事務高階專員沃爾克·圖爾克連任。圖爾克上週在聯合國投票中獲得壓倒性支援，法國投了贊成票。美國代表離場，不僅反映出美國總統特朗普與法國總統馬克龍的關係緊張，更凸顯了美國與整個歐洲之間愈發尖銳的矛盾。美國常駐聯合國官員丹·內格雷亞批評法國假裝“道德義憤”，在包括人權問題在內的所有議題上試圖對全世界進行說教。（參考訊息）"
+    },
+    {
+      "id": "5011610",
+      "time": "2026-07-28 14:30:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東陽光成立未來實驗室科技公司，含AI業務】企查查APP顯示，近日，東陽光未來實驗室科技（北京）有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；智慧機器人的研發等。企查查股權穿透顯示，該公司由東陽光全資持股。"
+    },
+    {
+      "id": "te:markets:570291",
+      "time": "2026-07-28 14:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 4.16% Lower — The Nikkei 225 Index dropped 2701 points or 4.16 percent on Tuesday to close at 62230 points. Losses were led by Sumco (-17.54%), Taiyo Yuden (-12.39%) and Resonac Holdings (-11.99%)."
+    },
     {
       "id": "5011609",
       "time": "2026-07-28 14:29:55",
