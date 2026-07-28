@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-29 03:02:54",
-  "count": 17600,
+  "updated": "2026-07-29 03:06:48",
+  "count": 17601,
   "items": [
+    {
+      "id": "5012970",
+      "time": "2026-07-29 03:04:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7710元，較週一夜盤收盤跌85點。成交量309.95億美元。"
+    },
+    {
+      "id": "mkt:019faa1c-7a89-7aab-8ed4-2ddb48364f8a",
+      "time": "2026-07-29 03:03:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian outlet Fars News reported several loud explosions in Erbil, Iraq."
+    },
+    {
+      "id": "mkt:019faa1b-fff7-7aab-8ed4-25f8d12e4a3c",
+      "time": "2026-07-29 03:03:09",
+      "tags": [
+        "MKT News",
+        "GD.N",
+        "Impact bullish"
+      ],
+      "text": "General Dynamics (GD.N) shares rose 1.3% on higher volume after reports the U.S. approved a next-generation submarine."
+    },
     {
       "id": "mkt:019faa19-f418-7aab-8ed4-1beee00d6df8",
       "time": "2026-07-29 03:00:55",
@@ -161383,22 +161409,6 @@
         "國際"
       ],
       "text": "市場資訊：特朗普重啟了一項源自上世紀30年代飽受爭議關稅法案《1930 年斯姆特 - 霍利關稅法》。"
-    },
-    {
-      "id": "5000794",
-      "time": "2026-07-22 03:05:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "五角大樓擬申請2億美元資金，用於迭戈加西亞戰略樞紐建設。"
-    },
-    {
-      "id": "5000793",
-      "time": "2026-07-22 03:05:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【梅洛尼呼籲徹查博洛尼亞男子拘捕身亡事件，譴責暴力反警抗議】義大利總理梅洛尼呼籲全面調查博洛尼亞男子拘捕期間身亡事件，譴責暴力反警抗議致數十警員受傷；死者阿卜杜拉希姆・法基爾上週日遭警方約束時死亡，輿論將此事比照美國弗洛伊德案，並關聯特朗普時代美國 ICE 執法模式，當地爆發多場暴力示威，保守派政界亦出現激烈反響。"
     }
   ]
 }
