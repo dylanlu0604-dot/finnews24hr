@@ -1,7 +1,145 @@
 {
   "date": "2026-07-28",
-  "count": 1327,
+  "count": 1342,
   "items": [
+    {
+      "id": "mkt:019fa762-e976-7aab-8ec1-27c24d96e8f8",
+      "time": "2026-07-28 14:21:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share oil and gas sector rebounded in the afternoon; Keli Co. rose over 10%, with Tongyuan Petroleum, Shandong Molong, Qianneng Hengxin, Zhongman Petroleum and Haimei Technology also advancing."
+    },
+    {
+      "id": "mkt:019fa762-e50c-7aab-8ec1-1ee7fd508005",
+      "time": "2026-07-28 14:21:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 closed up 45.90 points, or 0.52%, at 8,939.90 on Tuesday, July 28."
+    },
+    {
+      "id": "mkt:019fa762-c73a-7aab-8ec1-16d850ee1462",
+      "time": "2026-07-28 14:21:36",
+      "tags": [
+        "MKT News",
+        "MBG.DE",
+        "Impact mixed"
+      ],
+      "text": "Mercedes-Benz CFO says the ongoing Middle East conflict is adding uncertainty; the company’s outlook assumes the conflict will not fully escalate in H2."
+    },
+    {
+      "id": "5011585",
+      "time": "2026-07-28 14:21:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "梅賽德斯-賓士首席財務官：挑戰性已超出此前預期。"
+    },
+    {
+      "id": "5011584",
+      "time": "2026-07-28 14:21:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "南方兩倍做多海力士跌超30％，南方兩倍做多三星電子跌超27％。"
+    },
+    {
+      "id": "5011583",
+      "time": "2026-07-28 14:21:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯合利華上半年營收256億歐元，基礎銷售額增長4.8%】聯合利華（Unilever）7月28日公佈2026年上半年業績，實現基礎銷售額增長4.8%，其中銷量增長4.2%，價格增長0.6%。公司表示，第二季度基礎銷售額增長5.8%，銷量增長5.5%，增長勢頭較第一季度加快。上半年，聯合利華營業額為256億歐元，同比增長0.5%。基礎營業利潤為52億歐元，同比增長0.9%，基礎營業利潤率為20.3%，同比提升10個基點。基礎每股收益增長2.4%至1.61歐元，攤薄後每股收益下降2.5%至1.38歐元。公司自由現金流達到15億歐元。聯合利華表示，已提前完成8億歐元生產率提升計劃，並完成季度股息同比增長3%的安排，同時完成5億歐元股票回購計劃。公司還表示，聯合利華食品業務分拆計劃正在推進。"
+    },
+    {
+      "id": "5011582",
+      "time": "2026-07-28 14:21:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "梅賽德斯-賓士首席財務官表示：中東衝突持續增添不確定性，（我們的）業績展望假設衝突不會在下半年全面再度升級。"
+    },
+    {
+      "id": "te:economy:570285",
+      "time": "2026-07-28 14:21:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Lithuania",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Lithuania Retail Sales Growth at 4-Month Low — Retail sales in Lithuania rose 5.8% year-on-year in June 2026, easing from a revised 6.9% increase in the previous month and marking the weakest growth rate since February. Sales growth moderated in retail trade excluding automotive sales (9.3% vs 9.6% in May), non-food products (12.5% vs 14.3%), particularly textiles, clothing, and footwear (11.4% vs 12.7%), audio, video, hardware, furniture, and lighting (14.4% vs 16.4%), and information and communication equipment, cultural and recreation goods, watches and jewellery, and other new goods (2.6% vs 5.1%). At the same time, retail activity via mail order houses or the internet slowed (14.6% vs 19.8%), while sales of automotive fuel declined further (-6.9% vs -3.5%). Conversely, sales increased for food, beverages, and tobacco (4.7% vs 3.1%), as well as pharmaceuticals, medical goods, and cosmetics (11.9% vs 10.4%). On a monthly basis, retail sales grew 0.3% in June, rebounding from a revised 1.0% decline in May."
+    },
+    {
+      "id": "5011581",
+      "time": "2026-07-28 14:20:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【油氣板塊震盪回升 科力股份漲超10%】午後油氣板塊震盪回升，科力股份漲超10%，通源石油、山東墨龍、潛能恆信、中曼石油、海默科技跟漲。訊息面上，WTI原油、布倫特原油期貨日內跌幅收窄至0.5%以內，此前一度跌超2%。"
+    },
+    {
+      "id": "5011580",
+      "time": "2026-07-28 14:20:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴克萊：預期滙豐及渣打第二季業績強勁，上調兩行目標價】巴克萊發表研報，預期滙豐控股及渣打集團第二季業績強勁，受惠淨利息收入持續向好，預計兩行有機會上調全年收入指引。巴克萊上調兩行目標價，對匯控評級“增持”，渣打評級“與大市同步”。該行預期匯控次季除稅前溢利較市場共識高6%，收入及費用收入表現強勁，財富管理動力持續，來自收緊對外投資的影響暫時有限。該行預期匯控將重啟20億美元股份回購，並上調2026年銀行淨利息收入指引，目標價上調至1650便士。該行對渣打次季除稅前溢利預測較市場共識高8%，料淨利息收入受惠利率及成交量支援，非利息收入亦受惠資本市場及財富管理強勁表現。該行預期渣打有機會上調全年收入指引，由原來的5%至7%增長區間低端上調，目標價上調至2250便士。"
+    },
+    {
+      "id": "5011579",
+      "time": "2026-07-28 14:19:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "哈莫尼黃金礦業將動用資金為收購MAC銅業的過渡性貸款再融資。"
+    },
+    {
+      "id": "5011578",
+      "time": "2026-07-28 14:19:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴克萊二季度稅前利潤32.5億英鎊，上調全年收入目標至315億英鎊】英國巴克萊銀行7月28日公佈第二季度業績，稅前利潤為32.5億英鎊，利潤總額為83.4億英鎊；淨利息收入為39.2億英鎊。有形股本回報率為16.1%，普通股一級資本充足率為14.3%。此外，固定收益、外匯及大宗商品業務收入為14.7億英鎊，股票業務收入為12.6億英鎊，投行業務手續費收入為7.47億英鎊。上半年，巴克萊向股東派發每股中期股息0.059英鎊，高於去年同期的0.030英鎊。公司同時宣佈總計23億英鎊資本分配計劃，其中包括10億英鎊股票回購。展望全年，巴克萊將2026年集團收入目標上調至約315億英鎊，高於此前約310億英鎊的目標。公司表示，將繼續致力於實現2026年和2028年的財務目標，其中包括2028年有形股本回報率超過14%的目標。"
+    },
+    {
+      "id": "te:economy:570284",
+      "time": "2026-07-28 14:19:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Taiwan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Taiwan 10Y Yield Jumps on Rate Hike Bets — Taiwan's 10-year government bond yield climbed to around 1.88% in late July, its highest level since October 2022, as investors increasingly priced in the prospect of tighter monetary policy. Expectations for higher interest rates have strengthened after inflation remained above the central bank's 2% target in recent months, reinforcing the view that policymakers may need to keep monetary conditions restrictive or consider further tightening if price pressures persist. However, the central bank has continued to stress that future policy decisions will remain data dependent. Rising bond yields have also been supported by the central bank's liquidity withdrawals to curb depreciation of the Taiwan dollar and strong investor interest in AI-related equities. The move has been accompanied by a broader selloff across the bond market, with the 20-year bond yield reaching its highest level since 2014 and the five-year yield climbing to its highest level since 2008."
+    },
+    {
+      "id": "5011577",
+      "time": "2026-07-28 14:18:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【滙豐策略師：風險資產具有韌性 賣出訊號消退】滙豐策略師稱，由於第二季度財報季表現強勁以及估值降低，股市在中東衝突期間展現出了韌性，他們仍超配該資產類別。“過去一週半的這輪小幅回撥，足以消除我們情緒和倉位框架中的賣出訊號，” Max Kettner領導的該團隊在報告中寫道；債券收益率已處於歷史高位，而股票估值倍數已下調，投資者低估了第二季度盈利的強勁程度。"
+    },
+    {
+      "id": "5011576",
+      "time": "2026-07-28 14:18:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應用能力持續躍升！機器人進化八大趨勢釋出】今天（7月28日），中央廣播電視總檯“智競未來——首屆智慧機器人應用技能大展”釋出活動在京舉行，兩項重磅內容釋出：中國機械工業聯合會攜手總檯央視新聞共同釋出《中國工業機器人市場活力資料》。賽迪研究院攜手總檯央視新聞共同釋出《智啟新協作：機器人進化八大趨勢》。中國電子資訊產業發展研究院黨委書記、副院長劉文強解讀：當機器人遇上AI，便不再只是機械幹活的“工具人”。人工智慧使機器人應用技能向自主決策、多機協同、跨場景複用拓展，總體呈現八大發展趨勢。一是底座重構——軟硬體協同複用，模型與資料融合驅動，成本降低、跨場景創新；二是智慧躍升——自感知、自決策、自執行、自適應、自學習等能力大幅提升；三是叢集協同——機器人也講團隊精神，多機聯動提升整體作業技能；四是全域滲透——既能深耕細分領域，也能適配通用場景；五是人機共融——人機深度協作互補增效，機器人成為好搭子；六是生態重塑——產業鏈重構、新基建佈局、新模式湧現，推動產業生態煥新；七是業態創新——新型人機關係催生新崗位、新職業，新技術帶來新機遇、新空間；八是安全築籬——標準規則、倫理規範、治理機制持續完善，護航產業健康有序發展。（央視新聞）"
+    },
     {
       "id": "te:markets:570282",
       "time": "2026-07-28 14:18:10",

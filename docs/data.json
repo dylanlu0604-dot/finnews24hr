@@ -1,7 +1,145 @@
 {
-  "updated": "2026-07-28 14:18:51",
-  "count": 17579,
+  "updated": "2026-07-28 14:22:48",
+  "count": 17583,
   "items": [
+    {
+      "id": "mkt:019fa762-e976-7aab-8ec1-27c24d96e8f8",
+      "time": "2026-07-28 14:21:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share oil and gas sector rebounded in the afternoon; Keli Co. rose over 10%, with Tongyuan Petroleum, Shandong Molong, Qianneng Hengxin, Zhongman Petroleum and Haimei Technology also advancing."
+    },
+    {
+      "id": "mkt:019fa762-e50c-7aab-8ec1-1ee7fd508005",
+      "time": "2026-07-28 14:21:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 closed up 45.90 points, or 0.52%, at 8,939.90 on Tuesday, July 28."
+    },
+    {
+      "id": "mkt:019fa762-c73a-7aab-8ec1-16d850ee1462",
+      "time": "2026-07-28 14:21:36",
+      "tags": [
+        "MKT News",
+        "MBG.DE",
+        "Impact mixed"
+      ],
+      "text": "Mercedes-Benz CFO says the ongoing Middle East conflict is adding uncertainty; the company’s outlook assumes the conflict will not fully escalate in H2."
+    },
+    {
+      "id": "5011585",
+      "time": "2026-07-28 14:21:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "梅賽德斯-賓士首席財務官：挑戰性已超出此前預期。"
+    },
+    {
+      "id": "5011584",
+      "time": "2026-07-28 14:21:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "南方兩倍做多海力士跌超30％，南方兩倍做多三星電子跌超27％。"
+    },
+    {
+      "id": "5011583",
+      "time": "2026-07-28 14:21:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯合利華上半年營收256億歐元，基礎銷售額增長4.8%】聯合利華（Unilever）7月28日公佈2026年上半年業績，實現基礎銷售額增長4.8%，其中銷量增長4.2%，價格增長0.6%。公司表示，第二季度基礎銷售額增長5.8%，銷量增長5.5%，增長勢頭較第一季度加快。上半年，聯合利華營業額為256億歐元，同比增長0.5%。基礎營業利潤為52億歐元，同比增長0.9%，基礎營業利潤率為20.3%，同比提升10個基點。基礎每股收益增長2.4%至1.61歐元，攤薄後每股收益下降2.5%至1.38歐元。公司自由現金流達到15億歐元。聯合利華表示，已提前完成8億歐元生產率提升計劃，並完成季度股息同比增長3%的安排，同時完成5億歐元股票回購計劃。公司還表示，聯合利華食品業務分拆計劃正在推進。"
+    },
+    {
+      "id": "5011582",
+      "time": "2026-07-28 14:21:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "梅賽德斯-賓士首席財務官表示：中東衝突持續增添不確定性，（我們的）業績展望假設衝突不會在下半年全面再度升級。"
+    },
+    {
+      "id": "te:economy:570285",
+      "time": "2026-07-28 14:21:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Lithuania",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Lithuania Retail Sales Growth at 4-Month Low — Retail sales in Lithuania rose 5.8% year-on-year in June 2026, easing from a revised 6.9% increase in the previous month and marking the weakest growth rate since February. Sales growth moderated in retail trade excluding automotive sales (9.3% vs 9.6% in May), non-food products (12.5% vs 14.3%), particularly textiles, clothing, and footwear (11.4% vs 12.7%), audio, video, hardware, furniture, and lighting (14.4% vs 16.4%), and information and communication equipment, cultural and recreation goods, watches and jewellery, and other new goods (2.6% vs 5.1%). At the same time, retail activity via mail order houses or the internet slowed (14.6% vs 19.8%), while sales of automotive fuel declined further (-6.9% vs -3.5%). Conversely, sales increased for food, beverages, and tobacco (4.7% vs 3.1%), as well as pharmaceuticals, medical goods, and cosmetics (11.9% vs 10.4%). On a monthly basis, retail sales grew 0.3% in June, rebounding from a revised 1.0% decline in May."
+    },
+    {
+      "id": "5011581",
+      "time": "2026-07-28 14:20:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【油氣板塊震盪回升 科力股份漲超10%】午後油氣板塊震盪回升，科力股份漲超10%，通源石油、山東墨龍、潛能恆信、中曼石油、海默科技跟漲。訊息面上，WTI原油、布倫特原油期貨日內跌幅收窄至0.5%以內，此前一度跌超2%。"
+    },
+    {
+      "id": "5011580",
+      "time": "2026-07-28 14:20:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴克萊：預期滙豐及渣打第二季業績強勁，上調兩行目標價】巴克萊發表研報，預期滙豐控股及渣打集團第二季業績強勁，受惠淨利息收入持續向好，預計兩行有機會上調全年收入指引。巴克萊上調兩行目標價，對匯控評級“增持”，渣打評級“與大市同步”。該行預期匯控次季除稅前溢利較市場共識高6%，收入及費用收入表現強勁，財富管理動力持續，來自收緊對外投資的影響暫時有限。該行預期匯控將重啟20億美元股份回購，並上調2026年銀行淨利息收入指引，目標價上調至1650便士。該行對渣打次季除稅前溢利預測較市場共識高8%，料淨利息收入受惠利率及成交量支援，非利息收入亦受惠資本市場及財富管理強勁表現。該行預期渣打有機會上調全年收入指引，由原來的5%至7%增長區間低端上調，目標價上調至2250便士。"
+    },
+    {
+      "id": "5011579",
+      "time": "2026-07-28 14:19:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "哈莫尼黃金礦業將動用資金為收購MAC銅業的過渡性貸款再融資。"
+    },
+    {
+      "id": "5011578",
+      "time": "2026-07-28 14:19:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴克萊二季度稅前利潤32.5億英鎊，上調全年收入目標至315億英鎊】英國巴克萊銀行7月28日公佈第二季度業績，稅前利潤為32.5億英鎊，利潤總額為83.4億英鎊；淨利息收入為39.2億英鎊。有形股本回報率為16.1%，普通股一級資本充足率為14.3%。此外，固定收益、外匯及大宗商品業務收入為14.7億英鎊，股票業務收入為12.6億英鎊，投行業務手續費收入為7.47億英鎊。上半年，巴克萊向股東派發每股中期股息0.059英鎊，高於去年同期的0.030英鎊。公司同時宣佈總計23億英鎊資本分配計劃，其中包括10億英鎊股票回購。展望全年，巴克萊將2026年集團收入目標上調至約315億英鎊，高於此前約310億英鎊的目標。公司表示，將繼續致力於實現2026年和2028年的財務目標，其中包括2028年有形股本回報率超過14%的目標。"
+    },
+    {
+      "id": "te:economy:570284",
+      "time": "2026-07-28 14:19:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Taiwan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Taiwan 10Y Yield Jumps on Rate Hike Bets — Taiwan's 10-year government bond yield climbed to around 1.88% in late July, its highest level since October 2022, as investors increasingly priced in the prospect of tighter monetary policy. Expectations for higher interest rates have strengthened after inflation remained above the central bank's 2% target in recent months, reinforcing the view that policymakers may need to keep monetary conditions restrictive or consider further tightening if price pressures persist. However, the central bank has continued to stress that future policy decisions will remain data dependent. Rising bond yields have also been supported by the central bank's liquidity withdrawals to curb depreciation of the Taiwan dollar and strong investor interest in AI-related equities. The move has been accompanied by a broader selloff across the bond market, with the 20-year bond yield reaching its highest level since 2014 and the five-year yield climbing to its highest level since 2008."
+    },
+    {
+      "id": "5011577",
+      "time": "2026-07-28 14:18:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【滙豐策略師：風險資產具有韌性 賣出訊號消退】滙豐策略師稱，由於第二季度財報季表現強勁以及估值降低，股市在中東衝突期間展現出了韌性，他們仍超配該資產類別。“過去一週半的這輪小幅回撥，足以消除我們情緒和倉位框架中的賣出訊號，” Max Kettner領導的該團隊在報告中寫道；債券收益率已處於歷史高位，而股票估值倍數已下調，投資者低估了第二季度盈利的強勁程度。"
+    },
+    {
+      "id": "5011576",
+      "time": "2026-07-28 14:18:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應用能力持續躍升！機器人進化八大趨勢釋出】今天（7月28日），中央廣播電視總檯“智競未來——首屆智慧機器人應用技能大展”釋出活動在京舉行，兩項重磅內容釋出：中國機械工業聯合會攜手總檯央視新聞共同釋出《中國工業機器人市場活力資料》。賽迪研究院攜手總檯央視新聞共同釋出《智啟新協作：機器人進化八大趨勢》。中國電子資訊產業發展研究院黨委書記、副院長劉文強解讀：當機器人遇上AI，便不再只是機械幹活的“工具人”。人工智慧使機器人應用技能向自主決策、多機協同、跨場景複用拓展，總體呈現八大發展趨勢。一是底座重構——軟硬體協同複用，模型與資料融合驅動，成本降低、跨場景創新；二是智慧躍升——自感知、自決策、自執行、自適應、自學習等能力大幅提升；三是叢集協同——機器人也講團隊精神，多機聯動提升整體作業技能；四是全域滲透——既能深耕細分領域，也能適配通用場景；五是人機共融——人機深度協作互補增效，機器人成為好搭子；六是生態重塑——產業鏈重構、新基建佈局、新模式湧現，推動產業生態煥新；七是業態創新——新型人機關係催生新崗位、新職業，新技術帶來新機遇、新空間；八是安全築籬——標準規則、倫理規範、治理機制持續完善，護航產業健康有序發展。（央視新聞）"
+    },
     {
       "id": "te:markets:570282",
       "time": "2026-07-28 14:18:10",
@@ -160970,102 +161108,6 @@
         "Importance 1"
       ],
       "text": "UK Total Pay Growth Below Expectations — Total average weekly earnings in the UK, including bonuses, rose 4.3% year-on-year to GBP 749 in the three months to May 2026, slowing from 4.4% in the previous two periods and falling short of market estimates of 4.5%. The increase marked the slowest pace since the three months to February, with private sector wage growth slowing to 4.0% from 4.2%. Meanwhile, public sector pay growth accelerated to 5.5% from 5.2%, the strongest increase since the three months to January. After adjusting for inflation, total earnings rose 1.1%, slightly below the 1.2% increase in the three months to April."
-    },
-    {
-      "id": "4999439",
-      "time": "2026-07-21 14:21:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【騰訊成中國最賺錢網際網路企業】財富中文網於北京時間 7 月 21 日釋出了 2026 年《財富》中國 500 強排行榜。 國家電網有限公司以 5553.7 億美元（現匯率約合 3.76 萬億元人民幣）的營收位居榜首；中國石油和中國石化分列榜單第二位和第三位；位列第四位的是中國建築集團；蘋果最大代工企業鴻海精密位列第五，較去年上升 1 位；中國工商銀行位列第六；京東集團成為今年前十位中唯一的大陸民營企業，位列第 9 位，較去年上升 2 位。 中國幾家網際網路代表企業的營收規模仍在持續增長： 京東位列第 9 位，較去年上升 2 位； 阿里巴巴位列第 15 位，較去年上升 3 位； 騰訊位列第 27 位，較去年上升 5 位； 拼多多位列第 65 位，較去年上升 5 位； 美團位列第 76 位，較去年上升 4 位。 上述五家企業中，騰訊是唯一淨利潤同比增長的公司，去年的淨利潤超過 312 億美元（現匯率約合 2114.76 億元人民幣），是榜單中最賺錢的網際網路企業。 最賺錢的十家上榜公司中，除五家商業銀行、中石油和中國移動外，今年進入利潤榜前十位的有三家民營企業：臺積電、騰訊、中國平安。這十家公司在去年的總利潤約為 3341 億美元（現匯率約合 2.26 萬億元人民幣），約佔上榜公司利潤總和的 42%。"
-    },
-    {
-      "id": "4999438",
-      "time": "2026-07-21 14:21:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "先導基電盤中漲停，上演“地天板”，現報31.83元，成交額33.62億元。"
-    },
-    {
-      "id": "4999437",
-      "time": "2026-07-21 14:21:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇將重點培育26類重點領域場景】據“微訊江蘇”訊息，近日，江蘇省發展改革委會同省科技廳、省工信廳、省國資委、省資料局聯合印發《江蘇省加快場景培育和開放若干措施》，這是江蘇首個對全省場景培育和開放工作作出系統性安排的政策檔案。《江蘇省場景培育指引（試行）》和《江蘇省多元主體場景開放指引（試行）》同步印發。據瞭解，培育指引圍繞新領域新賽道場景、產業轉型升級場景、重點行業領域應用場景、社會治理應用場景、高品質生活場景等五方面，明確26類重點領域場景重點方向。"
-    },
-    {
-      "id": "4999436",
-      "time": "2026-07-21 14:21:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "韓元對美元匯率升至1美元兌換1472.1韓元，創5月11日以來新高。"
-    },
-    {
-      "id": "4999435",
-      "time": "2026-07-21 14:21:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國駐日本大使館提醒中國公民注意交通安全】近日，日本接連發生涉中國公民嚴重交通事故。7月16日，北海道富良野市某鐵路道口發生一起中國遊客自駕轎車同列車相撞事故，5名遊客受傷。20日，富良野市發生一起兩輛轎車相撞事故，1名中國自駕遊客死亡，5人受傷。中國駐日本大使館再次提醒在日本中國公民提高防範意識、注意交通安全。"
-    },
-    {
-      "id": "4999434",
-      "time": "2026-07-21 14:20:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達40億港元。"
-    },
-    {
-      "id": "4999433",
-      "time": "2026-07-21 14:19:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "A股培育鑽石板塊震盪走高，惠豐鑽石漲超11%，英諾鐳射漲超10%，國力電子、四方達、沃爾德、力量鑽石、黃河旋風等個股跟漲。"
-    },
-    {
-      "id": "te:markets:568429",
-      "time": "2026-07-21 14:19:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Jumps 4.2% on Tech Rally, Rebounding from 2-Month Low — The TAIEX, Taiwan’s benchmark stock index, surged 1,783 points, or 4.2%, to close at 44,233 on Tuesday, erasing losses from the previous two sessions and rebounding from its lowest level since May 22, touched a day earlier, mainly boosted by gains in electronic technology, technology services, distribution services, and producer manufacturing. The electronic technology sector rebounded, jumping 4.6% after falling 0.6% in the previous session, as traders awaited key US tech earnings for clues about the rally in AI-related stocks. TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, continued to advance, rising 3.0% after gaining 1.3% on Monday, as the company expects strong demand for AI chips. Meanwhile, MediaTek, Delta Electronics, and Hon Hai Precision Industry surged 10.0%, 8.5%, and 4.9%, respectively."
-    },
-    {
-      "id": "4999432",
-      "time": "2026-07-21 14:19:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "凱投宏觀：10年期和2年期美國國債收益率差預計將在未來幾個月進一步收窄，並可能導致收益率曲線倒掛。"
-    },
-    {
-      "id": "4999431",
-      "time": "2026-07-21 14:19:08",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【東吳證券：首予濱化股份“買入”評級，港股上市推動新材料業務轉型】東吳證券研報指出，濱化股份是氯鹼老牌企業根基紮實，港股上市推動新材料業務轉型。公司以“北鯤計劃”為中長期核心發展戰略，2025年啟動港股IPO，重點投向四大領域：綠色能源基建、高階電子化學品、高附加值新材料研發生產與海外市場渠道拓展。考慮到燒鹼主業長期盈利水平穩健，景氣度處於磨底狀態；石化業務有望在國內反內卷的加持下迎來反轉；新材料業務蓬勃發展，公司業績彈性顯著。看好公司作為氯鹼行業領先企業，鞏固傳統主業的同時，加大石化、新材料領域的佈局，首次覆蓋給予“買入”評級。"
-    },
-    {
-      "id": "4999430",
-      "time": "2026-07-21 14:18:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江西：今年上半年外貿進出口2625.3億元，同比增長18.5%】今年上半年，江西外貿進出口2625.3億元，同比增長18.5%。其中，出口1606.7億元，增長12%；進口1018.6億元，增長30.5%，展現出強勁韌性。（江西釋出）"
     }
   ]
 }
