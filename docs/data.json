@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-29 04:42:43",
-  "count": 17520,
+  "updated": "2026-07-29 04:46:37",
+  "count": 17519,
   "items": [
+    {
+      "id": "te:markets:570507",
+      "time": "2026-07-29 04:45:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Hits New Peak as Oil Prices Fall — The S&P/TSX Composite Index gained 0.5% to close at a record 35,750 on Wednesday, lifted by strength in financial and technology stocks. Oil prices fell as hopes for a resolution to the US-Iran conflict grew, easing energy-driven inflation concerns and pushing bond yields lower. RBC and BMO rose 1.1%, while TD Bank added 0.6%. Brookfield (+0.7%) announced it had raised about $2 billion for a private equity fund focused on investments the Middle East. Technology stocks soared after Celestica (+9.5%) beat second-quarter adjusted earnings estimates. Shopify rose 2.7%, while Constellation Software jumped 6.4%. Mining stocks fell as gold prices fell ahead of the Fed's policy decision. Agnico Eagle lost 1.6%, Barrick fell 1.7%, and WPM dropped 2.3%. Energy shares lost on lower oil prices, with Canadian Natural down 1.3% and Cenovus shedding 1.4%. Great-West Lifeco (+0%), First Quantum (-2.3%), Cardinal Energy (-1.2%), and Intact Financial (+2.3%) are due to report earnings after the bell."
+    },
     {
       "id": "te:markets:570506",
       "time": "2026-07-29 04:41:22",
@@ -160700,22 +160712,6 @@
         "國際"
       ],
       "text": "特朗普：感謝所有眾議院共和黨議員，你們支援將《拯救美國法案》的儘可能多的內容納入預演算法案，邁出了關鍵第一步；同時也感謝眾議院議長邁克·約翰遜。我呼籲全體眾議院共和黨議員對這份至關重要的預算決議投下贊成票。我會密切關注此次投票，也希望共和黨人能夠團結一致，防範各類外國勢力干預選舉、杜絕非法移民參與投票，保障選舉安全。"
-    },
-    {
-      "id": "5000891",
-      "time": "2026-07-22 04:45:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪：阿根廷違約風險大幅回落，支撐評級上調。"
-    },
-    {
-      "id": "5000890",
-      "time": "2026-07-22 04:43:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大各省將放開省際酒類直接銷售限制。"
     }
   ]
 }
