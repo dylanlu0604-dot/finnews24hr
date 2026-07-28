@@ -1,7 +1,125 @@
 {
-  "updated": "2026-07-29 00:40:14",
-  "count": 17527,
+  "updated": "2026-07-29 00:44:10",
+  "count": 17535,
   "items": [
+    {
+      "id": "5012877",
+      "time": "2026-07-29 00:42:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿根廷將於8月17日起恢復對歐盟的家禽出口。"
+    },
+    {
+      "id": "5012876",
+      "time": "2026-07-29 00:42:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：我們拒絕了阿曼方面提出的允許其他國家進入霍爾木茲海峽南部海域進行排雷的請求。"
+    },
+    {
+      "id": "mkt:019fa99b-1347-7aab-8ed1-d921e49ef3fa",
+      "time": "2026-07-29 00:42:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's deputy foreign minister said he has not received any request to negotiate with the United States in the past 15 days."
+    },
+    {
+      "id": "5012875",
+      "time": "2026-07-29 00:41:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿根廷稱已向歐盟開放雞肉市場。"
+    },
+    {
+      "id": "5012874",
+      "time": "2026-07-29 00:41:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：我們必須就打破戰爭迴圈、隨後實現停火作出果斷決策。"
+    },
+    {
+      "id": "mkt:019fa99a-6a60-7aab-8ed1-d408fdf6418d",
+      "time": "2026-07-29 00:41:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's deputy foreign minister said Oman had proposed bringing in a country to clear mines from the southern shipping lane of the Strait of Hormuz, but Iran did not agree."
+    },
+    {
+      "id": "5012873",
+      "time": "2026-07-29 00:41:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "OpenAI和Anthropic的員工聯名致信，呼籲美國協助調控人工智慧的發展節奏。"
+    },
+    {
+      "id": "5012872",
+      "time": "2026-07-29 00:40:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：美國組建由伊朗、以色列和黎巴嫩組成的三方委員會，違反了諒解備忘錄。"
+    },
+    {
+      "id": "mkt:019fa999-d4c7-7aab-8ed1-cc4715899afe",
+      "time": "2026-07-29 00:40:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude futures fell 5.00% intraday to $77.81/bbl."
+    },
+    {
+      "id": "mkt:019fa999-7f4f-7aab-8ed1-c17b8b7adc82",
+      "time": "2026-07-29 00:40:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's deputy foreign minister says the US, via Oman, conveyed it will not take military action against Tehran."
+    },
+    {
+      "id": "5012871",
+      "time": "2026-07-29 00:40:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：我們並未提出停火請求，我方部隊已在美方停止攻擊後停止行動。"
+    },
+    {
+      "id": "5012870",
+      "time": "2026-07-29 00:40:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌6%，現報80.69美元/桶。"
+    },
+    {
+      "id": "5012869",
+      "time": "2026-07-29 00:40:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：美國已透過阿曼傳話，稱不會對伊朗採取任何軍事行動。"
+    },
     {
       "id": "mkt:019fa998-9ba7-7aab-8ed1-bc81242d3bdf",
       "time": "2026-07-29 00:39:38",
@@ -160686,48 +160804,6 @@
         "Nasdaq100"
       ],
       "text": "【Google launches lower-cost GEMINI \"Flash\" models】Google on Tuesday launched three lower-cost GEMINI \"Flash\" models focused on efficiency as usage of lower-cost open-source models surges. GEMINI 3.6 Flash is a faster, cheaper upgrade to 3.5 Flash; Google says it cuts output tokens by up to 17% while improving coding, reasoning and multimodal performance. GEMINI 3.5 Flash-Lite is a lower-cost model aimed at high-frequency AI agents and document-processing workloads. GEMINI 3.5 Flash Cyber targets cybersecurity use cases to identify and remediate software vulnerabilities and is currently available only to government agencies and select partners via Google’s CodeMender platform."
-    },
-    {
-      "id": "mkt:019f858f-629c-7aab-8e2f-543276da7708",
-      "time": "2026-07-22 00:43:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Al Arabiya reported Yemen's oil minister instructed oil companies to draft plans to raise production capacity by 25% within the first month and to deposit oil export revenues into Yemen's central bank."
-    },
-    {
-      "id": "5000732",
-      "time": "2026-07-22 00:42:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：伊拉克非官方渠道報道稱，三架美軍直升機在伊拉克巴迪亞沙漠投放作戰人員。大約一小時後，直升機再度起飛，朝著約旦方向飛去。"
-    },
-    {
-      "id": "5000731",
-      "time": "2026-07-22 00:41:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "空客執行長：航天業務發展進度超出公司預期。"
-    },
-    {
-      "id": "5000730",
-      "time": "2026-07-22 00:41:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "空客執行長：供應鏈現狀已 “大幅好轉” 。"
-    },
-    {
-      "id": "5000729",
-      "time": "2026-07-22 00:40:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：迪士尼在電視業務與影視製片部門裁員數百人。"
     }
   ]
 }
