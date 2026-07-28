@@ -1,7 +1,73 @@
 {
   "date": "2026-07-28",
-  "count": 652,
+  "count": 659,
   "items": [
+    {
+      "id": "mkt:019fa649-972e-7aab-8eb9-57b31d6794ef",
+      "time": "2026-07-28 09:14:28",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【KOSPI triggers circuit breaker】Korea Exchange (KRX) halted trading for 20 minutes after the KOSPI index fell 8%, triggering a circuit breaker."
+    },
+    {
+      "id": "5011100",
+      "time": "2026-07-28 09:14:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所對韓國綜合股價指數(KOSPI)觸發熔斷機制，暫停交易20分鐘。"
+    },
+    {
+      "id": "mkt:019fa648-75a9-7aab-8eb9-4f6643037941",
+      "time": "2026-07-28 09:13:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xianheng International wins place on China General Technology Group 2026 central procurement e‑mall supplier shortlist】Xianheng International said July 27 it secured a slot on China General Technology Group’s 2026 central procurement platform e‑mall supplier shortlist, renewing 2024 cooperation and adding an office‑supplies package."
+    },
+    {
+      "id": "5011099",
+      "time": "2026-07-28 09:12:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【咸亨國際中標中國通用技術集團2026年中心採購平臺電子商城電商供應商入圍採購專案】據咸亨國際訊息，7月27日，咸亨國際成功中標中國通用技術集團2026年中心採購平臺電子商城電商供應商入圍採購專案。此次中標是在2024年合作基礎上的成功續標，同時新增“辦公用品包”。"
+    },
+    {
+      "id": "5011098",
+      "time": "2026-07-28 09:11:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌4%至41,885.60點。"
+    },
+    {
+      "id": "5011097",
+      "time": "2026-07-28 09:11:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【278股獲融資買入超億元，C長鑫獲買入169.54億元居首】A股7月27日共有3821只個股獲融資資金買入，有278股買入金額超億元。其中，C長鑫、中際旭創、兆易創新融資買入金額排名前三，分別獲買入169.54億元、40.89億元、36.87億元。從融資買入額佔當日總成交金額比重來看，有2只個股融資買入額佔比超30%。其中聖陽股份、振德醫療、中工國際融資買入額佔成交額比重排名前三，分別為44.74%、42.64%、28.18%。從融資淨買入金額來看，有18只個股獲融資淨買入超億元。其中，C長鑫、深南電路、協創資料融資淨買入金額排名前三，分別獲淨買入152.67億元、4.17億元、3.41億元。"
+    },
+    {
+      "id": "mkt:019fa646-98d5-7aab-8eb9-433d1b2d331a",
+      "time": "2026-07-28 09:11:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "8035.T",
+        "Impact bearish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【Chip sell-off intensifies; Japan and South Korea markets plunge】Japan and South Korea equities plunged as concerns about a major NVIDIA AI supply agreement and intensifying competition hit chip names. The Nikkei 225 fell up to 4% to its weakest since May 22, TOPIX slid as much as 2.7% and the KOSPI tumbled as much as 7.6%, its lowest since April 20. Semiconductor and equipment stocks led losses: Tokyo Electron, Kioxia, Samsung Electronics and SK Hynix were down more than 9% at intraday lows; SK Hynix briefly plunged ~30%, its largest single-day drop on record, and Kioxia fell ~18%, its biggest since November. A wave of AI-related deals worth over $750bn coincided with a spike in NVIDIA credit-default-swap costs, weighing on tech shares. Nomura Asset Management strategist Hideyuki Ishiguro said reports of a major NVIDIA investment transaction raised perceived credit risk and warned Chinese advances in semiconductor manufacturing equipment threaten Japan’s long-standing supplier advantage."
+    },
     {
       "id": "mkt:019fa645-c367-7aab-8eb9-3e346b022cca",
       "time": "2026-07-28 09:10:17",
