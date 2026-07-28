@@ -1,7 +1,744 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-29 02:01:05_
-_本檔包含 3448 則快訊，約 668888 字_
+_更新時間：2026-07-29 03:49:22_
+_本檔包含 3458 則快訊，約 667761 字_
+
+---
+
+### 2026-07-23 06:18:16  #MKT News #Important
+
+【U.S. House passes bill limiting lawmakers' stock trades】According to Politico, the U.S. House on Wednesday passed the Stop Insider Trading Act, restricting members of Congress and their families from trading individual stocks. The measure cleared the floor 232-198, with 13 Democrats voting yes; only two of the bill's 93 cosponsors are Democrats. Many House Democrats said the bill is too weak because it does not require lawmakers to sell existing holdings. A separate, tougher bill that would force divestiture had broader bipartisan support but never reached the floor. The Stop Insider Trading Act now goes to the Senate for consideration.
+
+---
+
+### 2026-07-23 06:16:52  #公司
+
+【麥格理執行長Wikramanayake準備退休 Greg Ward將接班】麥格理集團週四發表宣告稱，執行長Shemara Wikramanayake即將退休。該公司已決定，現銀行和金融服務負責人Greg Ward在獲得必要的批准後接班。
+
+---
+
+### 2026-07-23 06:16:33  #公司
+
+【短期震盪創造“擊球區”，頭部私募逢低加倉“靜待花開”】市場波動下，頭部私募並未採取單一防守策略。記者近日採訪獲悉，在7月以來科技板塊快速調整的過程中，部分機構逢低佈局優質成長資產，部分機構則透過降低高位板塊倉位、增加低位方向配置提升組合韌性。與此同時，截至7月22日，當月已有24傢俬募釋出自購公告，自購金額接近14億元。多傢俬募機構人士表示，科技產業的長期發展趨勢並未發生改變，在本輪調整“去偽存真”後，結構性機會正在顯現，具備產業趨勢支撐和業績兌現能力的優質資產迎來“擊球區”。（上證報）
+
+---
+
+### 2026-07-23 06:15:41  #公司
+
+【超節點建設週期開啟 國產光互連生態加速結盟】7月22日，中際旭創啟動港股招股，預計募資545億港元，用於光互連產品研發、全球產能擴充等。7月15日，仕佳光子披露28億元定增預案，擬募資加碼光互連元件建設等專案。光互連，這個一年前還略顯生僻的技術詞彙，正成為算力產業鏈最擁擠的賽道之一。熱潮背後，是AI（人工智慧）產業演進帶來的剛性需求。隨著AI步入推理時代，萬億引數大模型持續迭代、超節點建設週期開啟，光互連技術具備高頻寬、低功耗、高並行、可拓展等優勢備受關注。當前國產光互連生態正在結盟產業鏈上下游廠商，上市公司也持續加碼矽光賽道。(證券時報)
+
+---
+
+### 2026-07-23 06:15:32  #市場
+
+【實探MLCC產業鏈：訂單大增產能拉滿 上游原料擴產競速】近期，MLCC（多層片式陶瓷電容器‌）板塊在二級市場股價劇烈波動，相關訊息魚龍混雜。產業鏈是真實景氣還是虛火一場？供需關係究竟如何，景氣度能否延續？帶著這些問題，記者走訪源頭廠商，向產業鏈核心企業與業內人士深入求證。調研反饋顯示，當前MLCC供需格局偏緊，主力企業產線滿載，出廠價未見鬆動；上游材料商作為“賣鏟人”訂單充沛，有企業表示已被客戶提前鎖定4倍於現有產能的擴產線，未來數年銷售無憂。(證券時報)
+
+---
+
+### 2026-07-23 06:15:23  #公司
+
+【冷板先行浸沒蓄勢 液冷產業鏈業績分化明顯】隨著算力新基建超節點密集湧現，其背後的液冷技術關注度升溫。A股液冷產業鏈公司披露的2026年半年度業績預告顯示，冷板式液冷零部件供應商業績兌現明顯，而浸沒式液冷及資料中心運營配套環節仍處投入爬坡期，行業呈現出“技術熱”與“業績分化”並存的特徵。冷板式液冷環節，多家企業上半年淨利潤實現同比大幅增長。相比之下，涉足液冷但主業承壓或配套業務仍在投入期的企業，業績表現偏弱。總體而言，業績分化格局印證了行業普遍判斷，冷板式液冷產業鏈更加成熟，正從主題炒作進入訂單與業績兌現階段，液冷產品已批次交付的企業普遍實現業績高增；而浸沒式液冷及配套的資料中心運營環節，正如2026WAIC展臺上多數廠商仍將其定位為“技術儲備”一樣，仍處於工程化驗證與產能投入的早期階段，業績兌現仍需時間。(證券時報)
+
+---
+
+### 2026-07-23 06:15:02  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Increases by 0.59% — Top currency gainers are Brazilian Real (0.59%), Norwegian Krone (0.48%), South Korean Won (0.34%) and Euro (0.08%). Biggest losers are Indian Rupee (-0.35%), New Zealand Dollar (-0.26%) and Swiss Franc (-0.25%). Meanwhile, British Pound, Japanese Yen and Dollar Index were little changed.
+
+---
+
+### 2026-07-23 06:14:41  #觀點
+
+【多家外資機構發聲看好A股市場看多中國股票】近日，在全球股票市場顯著回撥、A股市場波動加劇的背景下，外資機構密集釋出觀點，明確看好中國股市下半年表現。花旗將中國股票評級上調至“超配”，並將中國市場視為新興市場資本輪動的首選目標；渣打亦維持對中國股票市場的超配立場。外資機構一致看多的背後，是上半年中國宏觀經濟所展現出的韌性，以及人工智慧、生物科技等創新領域持續釋放的吸引力。（上證報）
+
+---
+
+### 2026-07-23 06:13:04  #國際
+
+【美軍稱開始對伊朗軍事目標發起新一輪打擊】當地時間7月22日，美國中央司令部在社交媒體發文稱，美國東部時間當天下午5時30分，美軍開始對伊朗軍事目標發動新一輪打擊。(央視新聞)
+
+---
+
+### 2026-07-23 06:12:43  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7
+
+Tesla (TSLA.O) CEO Elon Musk said areas of overlap between Tesla and SpaceX are increasing. He said he could not discuss any merger of the two companies on the earnings call.
+
+---
+
+### 2026-07-23 06:12:39  #公司 #焦點 #國際
+
+特斯拉CEO埃隆·馬斯克： 其無法在財報電話會議上討論特斯拉與 SpaceX 合併相關事宜。
+
+---
+
+### 2026-07-23 06:12:21  #公司
+
+特斯拉CEO埃隆·馬斯克： 特斯拉與SpaceX之間業務重合的領域正持續增多。
+
+---
+
+### 2026-07-23 06:12:09  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【WSJ: US rushes forces, medics and equipment to Middle East to give Trump more options against Iran】The Wall Street Journal, citing flight-tracking data and US officials, reports the US is urgently deploying troops, medical personnel and equipment to the Middle East to expand military options as President Trump considers broader action against Iran. Over the past week special operations forces have been moved from US bases to the region. Multiple fighter squadrons have completed deployments across the Middle East and bombers at US and UK bases are on high alert to reinforce operations. More than 150 medical personnel arrived in recent days at Landstuhl Regional Medical Center in Germany, the primary treatment facility for US personnel wounded in Middle Eastern combat.
+
+---
+
+### 2026-07-23 06:10:32  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+Tesla (TSLA.O) CEO Elon Musk said he expects demand for fully autonomous robotaxis will not face any challenges.
+
+---
+
+### 2026-07-23 06:10:25  #公司
+
+特斯拉CEO埃隆·馬斯克： 公司預計Robotaxi 不會面臨需求不足的問題。
+
+---
+
+### 2026-07-23 06:08:53  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
+
+WTI crude up more than 2.00% intraday at $88.64/bbl.
+
+---
+
+### 2026-07-23 06:08:47  #MKT News #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #Tesla #MU.O #Impact bullish
+
+Tesla (TSLA.O) CEO Elon Musk said Micron offered a substantial allocation of memory chips on reasonable terms.
+
+---
+
+### 2026-07-23 06:08:43  #其他
+
+馬斯克表示身體不適，在回答有關供應商滿足Optimus需求的問題時稱自己“今天有點病”。
+
+---
+
+### 2026-07-23 06:08:22  #公司
+
+特斯拉CEO埃隆·馬斯克： 美光以合理的供貨條件向特斯拉供應了數量可觀的儲存晶片配額。
+
+---
+
+### 2026-07-23 06:06:40  #公司
+
+特斯拉CEO埃隆·馬斯克：美光已向特斯拉分配記憶體晶片供貨額度。
+
+---
+
+### 2026-07-23 06:06:22  #國際
+
+【美伊衝突已致美軍18人死亡482人受傷】當地時間7月22日獲悉，美國國防部公佈了美伊衝突中最新的傷亡資料，顯示共有18名美軍人員死亡，至少482人在行動中受傷。（央視新聞）
+
+---
+
+### 2026-07-23 06:05:28  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+CENTCOM said the US military launched a new round of strikes on Iranian military targets at 5:30 p.m. ET today. The action is intended to further degrade Iran's ability to threaten civilian mariners and commercial shipping in regional waters.
+
+---
+
+### 2026-07-23 06:05:05  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+CENTCOM said the US military launched a new round of strikes against Iran on Wednesday.
+
+---
+
+### 2026-07-23 06:04:53  #焦點 #國際
+
+美國中央司令部：美軍於週三對伊朗發起新一輪打擊行動。
+
+---
+
+### 2026-07-23 06:03:59  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+Tesla (TSLA.O) VP of AI business expects the time needed to roll out Robotaxi to additional cities will continue to shorten.
+
+---
+
+### 2026-07-23 06:03:33  #公司
+
+特斯拉人工智慧副總裁表示，未來 Robotaxi 自動駕駛計程車拓展至新城市的落地週期將持續縮短。
+
+---
+
+### 2026-07-23 06:03:14  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact mixed
+
+Tesla (TSLA.O) CFO said the company will opportunistically raise up to $30 billion in debt financing to step up investment across various projects.
+
+---
+
+### 2026-07-23 06:01:37  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold opened about $10 lower, slipped below $4,120/oz and was down 0.29% on the day.
+
+---
+
+### 2026-07-23 06:01:26  #公司
+
+特斯拉CFO： 公司將擇機籌措最高 300 億美元債務融資，用以加碼各類投資專案。
+
+---
+
+### 2026-07-23 06:01:01  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
+
+WTI crude futures opened up about 1.3% after Houthi militants said they struck a Saudi oil tanker.
+
+---
+
+### 2026-07-23 06:00:37  #市場 #焦點
+
+現貨黃金失守4120美元/盎司，日內跌0.25%。
+
+---
+
+### 2026-07-23 06:00:20  #市場 #焦點
+
+紐約期金突破4120美元/盎司，日內跌0.75%。
+
+---
+
+### 2026-07-23 06:00:20  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Houthis say they attacked two Saudi oil tankers, warn of larger strikes inside Saudi】Yemen’s Houthi movement said on the 23rd it attacked two Saudi oil tankers, Encelia and Layla, using ballistic missiles, cruise missiles and drones in retaliation for what it called a Saudi blockade and to enforce a previously announced Red Sea shipping ban. The group said both vessels caught fire and it forced about 10 ships to turn back. It said it will continue maritime military operations and follow its “blockade for blockade” measures, and warned that any new Saudi military action in Yemen would prompt larger strikes on targets inside Saudi Arabia.
+
+---
+
+### 2026-07-23 06:00:18  #市場 #焦點
+
+紐約期金突破4110美元/盎司，日內跌0.95%。
+
+---
+
+### 2026-07-23 06:00:17  #央行 #國際
+
+【美聯儲7月維持利率不變的機率65.3%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為65.3%，累計加息25個基點的機率為34.7%。 美聯儲到9月維持利率不變的機率為22%，累計加息25個基點的機率為54.9%，累計加息50個基點的機率為23%。
+
+---
+
+### 2026-07-23 06:00:14  #市場
+
+WTI原油日內漲1%，現報87.76美元/桶。
+
+---
+
+### 2026-07-23 06:00:12  #市場 #焦點
+
+紐約期金突破4100美元/盎司，日內跌1.15%。
+
+---
+
+### 2026-07-23 06:00:11  #市場
+
+鈀金期貨日內跌1%，現報1295.00美元/盎司。
+
+---
+
+### 2026-07-23 06:00:05  #市場
+
+紐約期銀日內跌2%，現報59.09美元/盎司。
+
+---
+
+### 2026-07-23 06:00:04  #市場 #焦點
+
+紐約期金突破4090美元/盎司，日內跌1.44%。
+
+---
+
+### 2026-07-23 06:00:03  #市場
+
+紐約期金日內跌1%，現報4089.30美元/盎司。
+
+---
+
+### 2026-07-23 06:00:02  #市場 #焦點
+
+紐約期銀突破60美元/盎司，日內跌1.55%。
+
+---
+
+### 2026-07-23 06:00:02  #市場
+
+紐約期銀日內跌1%，現報59.37美元/盎司。
+
+---
+
+### 2026-07-23 05:58:17  #國際
+
+科威特軍方：防空系統當前正在攔截具有威脅的伊朗敵方無人機。
+
+---
+
+### 2026-07-23 05:58:00  #MKT News #Brent #Impact bullish #WTI
+
+Kuwait's military said its air-defence systems are currently intercepting "hostile" Iranian drone threats.
+
+---
+
+### 2026-07-23 05:56:36  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
+
+Tesla (TSLA.O) CFO says negative free cash flow will widen in H2 2026.
+
+---
+
+### 2026-07-23 05:55:58  #公司
+
+特斯拉CFO： 2026 年下半年公司自由現金流缺口將進一步擴大。
+
+---
+
+### 2026-07-23 05:55:09  #MKT News #TSLA.O #Impact mixed
+
+Tesla (TSLA.O) CFO says capex will rise over the next two to three years.
+
+---
+
+### 2026-07-23 05:54:40  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
+
+Tesla (TSLA.O) CFO expects operating expenses, chiefly R&D-driven, to continue rising in 2026 and beyond.
+
+---
+
+### 2026-07-23 05:54:39  #公司 #其他 #焦點 #國際
+
+特斯拉仍預計 2026 年資本支出將超 250 億美元。
+
+---
+
+### 2026-07-23 05:54:04  #公司
+
+特斯拉CFO： 公司運營開支主要由研發投入推動，預計 2026 年及以後該費用將持續增長。
+
+---
+
+### 2026-07-23 05:53:54  #MKT News #Commodities #Energy #Market Regions #Europe & UK #WTI #Impact mixed #Brent
+
+【EU near agreement on new Russia sanctions; gas shipping to be exempted】EU member states are poised to approve a sanctions package that would allow Greek shipowner Dynagas to continue transporting Russian liquefied natural gas (LNG) to third countries for 12 months, renewable; the deal requires approval by EU27 representatives on Thursday. LNG shipments would be capped at 2025 levels. The package would also extend a $44.10-per-barrel price cap on Russian oil for one year to limit Moscow's fossil-fuel revenue.
+
+---
+
+### 2026-07-23 05:53:52  #MKT News #Star Stocks #Tesla #Commodities #Energy #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
+
+Tesla (TSLA.O) CFO said the energy business is "inherently lumpy" and deployment pace depends on customers' timing.
+
+---
+
+### 2026-07-23 05:53:28  #其他
+
+特斯拉CFO： 儲能業務業績天然存在階段性波動，專案落地進度取決於客戶的時間規劃。
+
+---
+
+### 2026-07-23 05:53:23  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+Tesla (TSLA.O) CFO said Model Y set Q2 sales records in key markets including the Netherlands, Australia and New Zealand.
+
+---
+
+### 2026-07-23 05:52:28  #其他
+
+特斯拉CFO： 二季度 Model Y 在荷蘭、澳大利亞、紐西蘭等核心市場銷量創下新高。
+
+---
+
+### 2026-07-23 05:51:18  #MKT News #WTI #Impact bullish #Brent
+
+【Houthi militants say they attacked two Saudi oil tankers in Red Sea】Houthi militants said in the early hours of the 23rd local time they attacked two Saudi oil tankers in the Red Sea, claiming the vessels violated the group's recently announced maritime embargo.
+
+---
+
+### 2026-07-23 05:51:14  #其他
+
+【葉門胡塞武裝稱襲擊兩艘沙特油輪】葉門胡塞武裝當地時間23日凌晨表示已在紅海襲擊兩艘沙特油輪，並稱這兩艘油輪違反該組織近期宣佈的海上禁運令。（新華社）
+
+---
+
+### 2026-07-23 05:50:55  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
+
+Tesla (TSLA.O) CFO said production growth will be constrained by battery and electronic-component supply chains.
+
+---
+
+### 2026-07-23 05:49:51  #其他
+
+特斯拉CFO： 電池與電子零部件供應鏈將制約產能增長。
+
+---
+
+### 2026-07-23 05:49:25  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+Tesla (TSLA.O) CFO said the order backlog at the end of Q2 was the highest since 2023.
+
+---
+
+### 2026-07-23 05:49:06  #公司 #焦點 #國際
+
+特斯拉CFO：二季度末電動汽車在手訂單量創下 2022 年以來新高。
+
+---
+
+### 2026-07-23 05:45:18  #公司
+
+特斯拉CEO埃隆·馬斯克： 公司將佈局一批 “高風險、高回報” 的 AI 晶片專案，研發重心主要服務於 Optimus 人形機器人。
+
+---
+
+### 2026-07-23 05:44:59  #MKT News #Star Stocks #Tesla #Market Themes #Chip Wars #Magnificent 7 #TSLA.O #Impact bullish #AMAT.O #LRCX.O
+
+Tesla CEO Elon Musk said he has ordered equipment for a wafer fab under development in Austin, Texas.
+
+---
+
+### 2026-07-23 05:44:57  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O
+
+Tesla CEO Elon Musk said he will announce Terafab's site selection "soon".
+
+---
+
+### 2026-07-23 05:44:54  #公司
+
+特斯拉CEO埃隆·馬斯克： 已為奧斯汀自研晶片工廠下達裝置採購訂單。
+
+---
+
+### 2026-07-23 05:44:26  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+Tesla CEO Musk said the TeraFab chip fabrication facility is critical to scaling production of Optimus.
+
+---
+
+### 2026-07-23 05:44:25  #公司
+
+特斯拉CEO埃隆·馬斯克：想要實現 Optimus 規模化量產，就必須落地 Terafab 晶片製造工廠。
+
+---
+
+### 2026-07-23 05:42:50  #MKT News #Important #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
+
+Tesla (TSLA.O) after-hours losses widened to 5% after Elon Musk said scaling production of the Optimus robot will face difficulties.
+
+---
+
+### 2026-07-23 05:42:44  #公司
+
+特斯拉CEO埃隆·馬斯克： Optimus 將是首款可應用於日常生活、具備實用價值的人形機器人。
+
+---
+
+### 2026-07-23 05:42:29  #公司
+
+特斯拉CEO埃隆·馬斯克：“很快”就會宣佈Terafab的選址。
+
+---
+
+### 2026-07-23 05:41:39  #MKT News #Market Regions #Europe & UK
+
+UK Prime Minister Burnham appoints Jo White as Parliamentary Under-Secretary of State at the Home Office.
+
+---
+
+### 2026-07-23 05:40:29  #MKT News #Star Stocks #TSLA.O #Impact bearish
+
+Tesla CEO Elon Musk said scaling production of the Optimus robot will be difficult.
+
+---
+
+### 2026-07-23 05:39:51  #公司 #焦點 #國際
+
+特斯拉CEO埃隆·馬斯克： Optimus 人形機器人將是特斯拉最難量產擴產的產品。
+
+---
+
+### 2026-07-23 05:39:22  #MKT News #TSLA.O #Impact bullish
+
+Tesla CEO Elon Musk said he expects demand to rise as FSD gains approval in additional countries.
+
+---
+
+### 2026-07-23 05:39:20  #公司
+
+特斯拉CEO埃隆·馬斯克：隨著FSD陸續獲得各國監管批准，市場需求將進一步攀升。
+
+---
+
+### 2026-07-23 05:38:39  #MKT News #Commodities #Energy
+
+Financial Times: Under an EU sanctions package targeting Moscow set to be agreed, Greek shipper Dynagas will be permitted to continue transporting Russian liquefied natural gas (LNG).
+
+---
+
+### 2026-07-23 05:38:32  #MKT News #Commodities #Energy #Brent #Impact bearish #EURUSD #Impact bullish
+
+Financial Times reports that as the EU prepares to finalize a new sanctions package, transportation of Russian gas will continue to be exempt.
+
+---
+
+### 2026-07-23 05:38:02  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+Tesla CEO Elon Musk said the company is confident current spending will deliver its best capex returns to date.
+
+---
+
+### 2026-07-23 05:37:58  #公司
+
+特斯拉CEO埃隆·馬斯克：公司將持續快速擴大Robotaxi運營規模，特斯拉需謹慎對待事故。
+
+---
+
+### 2026-07-23 05:37:37  #國際
+
+市場訊息：歐盟即將達成新一輪制裁協議，俄羅斯天然氣貨運仍將獲得豁免。
+
+---
+
+### 2026-07-23 05:37:18  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+Tesla CEO Elon Musk said this year will be a year of significant capex.
+
+---
+
+### 2026-07-23 05:36:42  #公司
+
+特斯拉CEO埃隆·馬斯克：FSD是車輛銷售的一個“重大需求推手”。
+
+---
+
+### 2026-07-23 05:36:40  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+Tesla CEO Elon Musk said the company's "FSD" subscription service is an important driver of demand.
+
+---
+
+### 2026-07-23 05:36:31  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+Tesla CEO Elon Musk said production of semi-trailer trucks has begun.
+
+---
+
+### 2026-07-23 05:36:28  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Houthis in Yemen said they struck two Saudi oil tankers, ENCELA and LAYLIA, using ballistic missiles, cruise missiles and drones.
+
+---
+
+### 2026-07-23 05:36:19  #公司
+
+特斯拉CEO埃隆·馬斯克： Semi 電動半掛卡車已投產。
+
+---
+
+### 2026-07-23 05:35:30  #公司 #焦點 #國際
+
+特斯拉CEO埃隆·馬斯克：特斯拉仍計劃迎來 “大額資本開支年”。
+
+---
+
+### 2026-07-23 05:34:18  #其他
+
+Alphabet： 獨立整機 TPU 產品市場需求旺盛。
+
+---
+
+### 2026-07-23 05:33:53  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+Yemeni Houthi forces said the Saudi tanker they attacked violated a maritime blockade the group had imposed.
+
+---
+
+### 2026-07-23 05:31:51  #MKT News #Star Stocks #Tesla #Alphabet #Market Themes #Magnificent 7 #MU.O #Impact bullish #TSLA.O #Impact bearish #GOOGL.O
+
+US-listed SK Hynix (SKHY.O) rose 4.5% in after-hours trading; Micron Technology (MU.O) up 2%; Tesla (TSLA.O) down 3%; Alphabet A (GOOGL.O) down 4%.
+
+---
+
+### 2026-07-23 05:31:15  #其他 #焦點 #國際
+
+葉門胡塞武裝：襲擊了兩艘沙特油輪。
+
+---
+
+### 2026-07-23 05:31:03  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+Yemen's Houthi militants said they attacked two Saudi oil tankers.
+
+---
+
+### 2026-07-23 05:30:13  #國際
+
+伊朗法爾斯通訊社：布什爾周邊區域傳來兩聲爆炸巨響。
+
+---
+
+### 2026-07-23 05:30:02  #MKT News #Brent #Impact bullish #WTI
+
+Iranian outlet Fars News reported two explosions were heard near Bushehr.
+
+---
+
+### 2026-07-23 05:29:53  #其他
+
+Alphabet：旺盛需求將推動 2027 年算力產能相關投資。
+
+---
+
+### 2026-07-23 05:29:30  #MKT News #IBM.O
+
+IBM CFO said Q3 revenue growth is expected to be in line with the full-year trend.
+
+---
+
+### 2026-07-23 05:29:03  #公司
+
+Alphabet：收購Wiz對谷歌雲利潤構成拖累。
+
+---
+
+### 2026-07-23 05:27:33  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish
+
+【Alphabet Q2 investment gains $98.0 bln lift net profit to $116.9 bln, EPS $9.11 vs $2.90 est】Alphabet reported $98.0 billion of investment gains in Q2, which it said were "primarily from unrealized net gains on equity securities." The gains helped drive EPS of $9.11, well above the $2.90 analyst consensus, and net income of $116.86 billion. Alphabet holds a large stake in SpaceX; SpaceX's IPO last month was the largest on record. Alphabet is also a major investor in AI startup Anthropic, which could IPO as early as October. Elon Musk liked the earnings report on social media.
+
+---
+
+### 2026-07-23 05:26:02  #其他
+
+巴拿馬運河正密切監測天氣狀況，7 月強厄爾尼諾現象發生機率已從 4 月的 25% 升至 81%。
+
+---
+
+### 2026-07-23 05:25:38  #公司 #市場 #焦點 #國際
+
+【AI基礎設施概念股盤後大漲，谷歌母公司在電話會上談及產能擴張】週三美股盤後，與人工智慧（AI）基礎設施相關的公司股票集體走高。此前，谷歌母公司Alphabet在財報電話會議上表示，公司計劃在第三季度擴大對第三方算力容量的使用。
+在算力租賃商（Neoclouds）方面，CoreWeave上漲3.7%，Nebius上漲5.4%。
+儲存晶片股方面，閃迪漲3%，美光漲2.9%，西部資料漲2%，SK海力士（SK Hynix）ADR漲3.7%。
+半導體板塊方面，iShares半導體ETF漲0.9%。
+光通訊股方面，Lumentum上漲3.4%，Applied Optoelectronics上漲4%。
+Alphabet業績報告顯示，公司雲業務積壓訂單（Backlog）增至5140億美元，較上一季度的約4600億美元顯著增長。強勁的業績“主要由對AI基礎設施和AI解決方案的強勁需求驅動”。
+
+---
+
+### 2026-07-23 05:24:13  #其他
+
+巴拿馬運河去年 10 月至本年 6 月船舶通行量同比上漲 5.2%，總量達 10726 艘次。
+
+---
+
+### 2026-07-23 05:23:18  #其他
+
+IBM 首席財務官：AI 相關業務佔諮詢簽約總額超五成，在手訂單儲備佔比逾三成。
+
+---
+
+### 2026-07-23 05:18:15  #其他
+
+Alphabet：將加快 AI 模型的釋出節奏。
+
+---
+
+### 2026-07-23 05:17:40  #公司
+
+Alphabet： 公司正將 AI 算力資源集中投入 Gemini 4 的研發訓練。
+
+---
+
+### 2026-07-23 05:17:18  #國際
+
+伊朗邁赫爾通訊社：美軍襲擊擊中伊朗拉姆希爾附近一處瀝青倉庫。
+
+---
+
+### 2026-07-23 05:15:32  #市場
+
+富時A50期指連續夜盤收漲0.31%，報15203點。
+
+---
+
+### 2026-07-23 05:12:49  #MKT News #Important #Brent #Impact bullish #WTI
+
+【Tanker attacked 70 nautical miles off Saudi coast】UK Maritime Trade Operations received a report of an incident 70 nautical miles from Al Shuqaiq, Saudi Arabia. The tanker’s master reported the vessel was struck by an unspecified projectile and caught fire; crew are fighting the blaze.
+
+---
+
+### 2026-07-23 05:12:23  #其他 #焦點 #國際
+
+英國海上貿易行動辦公室（UKMTO）：一艘油輪船長報告船隻遭不明投射物擊中，船體已起火，船員正在全力滅火。暫無人員傷亡報告，也未造成環境影響。
+
+---
+
+### 2026-07-23 05:12:05  #公司
+
+Alphabet：谷歌正全力訓練 Gemini 4 大模型。
+
+---
+
+### 2026-07-23 05:11:05  #MKT News #Market Themes #Chip Wars #INTC.O #Impact bullish
+
+Semafor reports Intel is seeking an operating partner for its Ohio chip fab; SK Hynix is considering a partnership with Intel.
+
+---
+
+### 2026-07-23 05:10:35  #MKT News #Market Themes #AI Revolution #IBM.O #Impact bullish
+
+Anthropic CEO said Mythos could create a potential tens-of-billions-of-dollars TAM for IBM and Red Hat.
+
+---
+
+### 2026-07-23 05:10:32  #公司
+
+Anthropic 執行長表示，旗下 Mythos 大模型為 IBM 與紅帽開闢了規模達數十億美元的潛在市場空間（TAM）。
+
+---
+
+### 2026-07-23 05:10:06  #公司 #其他 #國際
+
+市場訊息：英特爾正為俄亥俄州晶片工廠尋找運營合作方，SK 海力士是合作候選企業之一。
+
+---
+
+### 2026-07-23 05:09:13  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Mehr news agency, citing Khuzestan provincial officials, said a site near Ahvaz was struck by US missiles.
+
+---
+
+### 2026-07-23 05:08:44  #焦點 #國際
+
+伊朗邁赫爾通訊社援引胡齊斯坦省官員訊息稱，美國發動導彈襲擊，目標位於阿瓦士附近區域。
+
+---
+
+### 2026-07-23 05:08:08  #公司
+
+IBM 執行長：儘管第二季度表現承壓，但 Z17 大型機正迎來史上最強銷售週期。
+
+---
+
+### 2026-07-23 05:07:22  #公司 #市場
+
+【大型機銷量下滑 IBM下調全年財測】國際商業機器公司（IBM）報告大型機業務需求下降後下調了全年營收展望，其中包括對備受關注的軟體部門的預期。該公司週三在公告中表示，今年營收有望增長4%至5%，而此前的預估是5%以上。首席財務官Jim Kavanaugh在一次採訪中說，軟體部門年銷售額將增長6%至8%。IBM表示將加快實施成本節約計劃，並繼續預計今年新增10億美元的自由現金流。Kavanaugh表示，這將透過減少第三方技術支出、改善供應鏈管理和降低行政成本來實現。他還說，公司今年的員工總數應該不會有什麼變化。該公司總營收增長了約1%，達到172億美元。不計某些專案的每股收益為2.93美元。IBM在紐約收於205.77美元，盤後交易上漲約3%。截至週三收盤，該股今年已下跌31%，其中包括業績初估釋出後單日重挫的25%。
+
+---
+
+### 2026-07-23 05:06:35  #國際
+
+【委內瑞拉民眾舉行示威，要求美國釋放馬杜羅夫婦】數百名委內瑞拉民眾22日聚集在委首都加拉加斯市中心的一處廣場，要求美國釋放其關押的委總統馬杜羅及其妻子。此次活動由加拉加斯市長卡門·梅倫德斯和馬杜羅之子尼古拉斯·馬杜羅·格拉領導。格拉在演講中表示，這場審判從根源上就是不合法的，沒有任何實質證據能夠證明馬杜羅犯有任何一項被指控的罪行。格拉還呼籲民眾不要訴諸戰爭或武裝犧牲，而應透過外交、談判和國際溝通解決問題。 遭美國強行控制的委內瑞拉總統馬杜羅22日在紐約南區聯邦地區法院再次出庭，法官宣佈定於2027年6月1日開始審理其所涉指控。（新華社）
+
+---
+
+### 2026-07-23 05:04:55  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact mixed
+
+Alphabet's CFO said the company expects capital spending to rise significantly in 2027.
+
+---
+
+### 2026-07-23 05:04:51  #其他
+
+Alphabet： TPU 銷售協議帶來的大部分收入將在 2027 財年確認入賬。
+
+---
+
+### 2026-07-23 05:04:40  #MKT News #S&P500 #Impact bearish #XAUUSD #Impact bullish #US10Y
+
+【Trump predicts U.S. federal government may shut down in September】On July 22 President Trump said he expects a federal government shutdown in September amid GOP-Democratic disputes over spending priorities. On July 21 the Republican-controlled House passed a continuing resolution to fund agencies through Dec. 4 to avoid a pre-midterm shutdown; the bill has been sent to the Senate. Senate Republican leaders are negotiating with Democrats and may propose an alternative short-term funding plan. If Congress does not enact funding, most federal agency appropriations expire at midnight on Sept. 30, the end of the fiscal year.
 
 ---
 
@@ -20196,677 +20933,5 @@ Airbus' commercial aircraft chief said engine supplier CFM is currently meeting 
 ### 2026-07-22 03:49:52  #國際
 
 【伊朗總統強調團結對當前局勢至關重要】據伊朗邁赫爾通訊社21日報道，伊朗總統佩澤希齊揚當天強調，伊朗當前務必維護內部團結與凝聚力，不應無端貶低談判成果。（新華社）
-
----
-
-### 2026-07-22 03:48:45  #其他
-
-OpenAI：此次Hugging Face資料洩露事件由旗下一個模型引發。
-
----
-
-### 2026-07-22 03:48:39  #MKT News #Market Regions #Europe & UK
-
-【Moldovan parliament approves confidence vote for new government】Moldovan parliament approved a vote of confidence on the 21st for a new government led by Vasili Tofan. Cabinet ministers will be sworn in before President Maia Sandu on the morning of the 22nd. Under the constitution, Sandu will formally appoint the government following the vote; ministers assume their duties after taking the oath.
-
----
-
-### 2026-07-22 03:48:25  #國際
-
-美國眾議員托馬斯·馬西：程式性規則已獲得透過，法案第219條款未允許進行辯論與表決。該條款旨在推動美國軍事技術及供應鏈與以色列實現整合。《國防授權法案》明日將進行記名投票，第219條款包含在內。
-
----
-
-### 2026-07-22 03:47:48  #其他
-
-【摩爾多瓦議會透過對新政府的信任投票】摩爾多瓦議會21日透過對瓦西里·託凡領導的新政府的信任投票。新一屆內閣成員22日上午將在總統桑杜面前宣誓就職。根據憲法，投票透過後，桑杜將正式任命新政府，新政府成員在宣誓就職後即可行使職權。
-
----
-
-### 2026-07-22 03:47:36  #公司
-
-空客商用飛機執行長預計發動機交付問題將在2028年得到解決。
-
----
-
-### 2026-07-22 03:45:54  #MKT News
-
-The Wall Street Journal reports OpenAI has added two independent directors ahead of its IPO: Nubank founder and CEO David Velez and BNY Mellon CEO Robin Vince.
-
----
-
-### 2026-07-22 03:45:44  #公司
-
-空中客車執行長表示，CFM國際公司正在按承諾交付發動機，交付量還可進一步小幅提升。
-
----
-
-### 2026-07-22 03:45:32  #公司
-
-空中客車商用飛機執行長表示，普惠公司2027年提供的發動機數量少於空客期望的水平。
-
----
-
-### 2026-07-22 03:45:15  #焦點 #國際
-
-特朗普在白宮與黎巴嫩總統約瑟夫·奧恩會晤時表示，若黎巴嫩方面提出請求，他願意與真主黨展開直接對話。特朗普承諾美國將持續向黎巴嫩提供支援。
-
----
-
-### 2026-07-22 03:44:43  #其他
-
-OpenAI任命NuBank的大衛·貝萊斯以及紐約梅隆銀行的羅賓·文斯出任董事。
-
----
-
-### 2026-07-22 03:44:34  #其他
-
-【規模 二季度公募規模大增 距40萬億元僅一步之遙】2026年二季度，公募基金管理規模迎來顯著增長，距離40萬億元僅一步之遙。主動管理類產品憑藉亮眼業績，成為二季度增幅最大的品類，績優產品“吸金”顯著。業內人士認為，公募基金行業在規模快速擴張的同時，也在從“量的增長”向“質的提升”轉型。
-
----
-
-### 2026-07-22 03:44:03  #國際
-
-美國防長赫格塞思：不可否認，伊朗依舊保有作戰能力，但我方造成的打擊重創對手，使其陷入前所未有的不利處境。
-
----
-
-### 2026-07-22 03:43:39  #MKT News #Commodities #Energy
-
-Iraq's cabinet approved allowing the State Oil Marketing Organization (SOMO) to import diesel for the Ministry of Energy to "secure energy‑sector demand".
-
----
-
-### 2026-07-22 03:43:32  #其他 #焦點
-
-OpenAI擬在IPO前增設兩名獨立董事。
-
----
-
-### 2026-07-22 03:42:55  #公司
-
-伊拉克內閣批准允許國有石油銷售公司SOMO為伊拉克能源部進口瓦斯油，以“保障能源部門需求”。
-
----
-
-### 2026-07-22 03:42:52  #MKT News
-
-Ukrainian President Zelenskiy has offered former defense minister Feodorov an "important position" to oversee work in the defense technology sector.
-
----
-
-### 2026-07-22 03:41:49  #國際
-
-空客首席財務官表示，歐洲投資銀行貸款採用“完全標準的市場利率”。
-
----
-
-### 2026-07-22 03:41:39  #國際
-
-澤連斯基稱，已向烏克蘭前國防部長費多羅夫提供一個“體面職位”，負責監督國防技術事務。
-
----
-
-### 2026-07-22 03:41:26  #MKT News
-
-Ukrainian President Zelenskiy has dismissed Commander-in-Chief of the Ukrainian Armed Forces Oleksandr Syrskyi.
-
----
-
-### 2026-07-22 03:40:47  #國際
-
-市場資訊：美國擬於週五前實施新關稅，當前臨時關稅措施即將到期。
-
----
-
-### 2026-07-22 03:40:02  #MKT News #WTI #Impact bullish #Brent
-
-U.S. military said that as of July 21 U.S. forces had altered the course of eight commercial vessels and disabled one during operations to fully enforce a blockade against Iran.
-
----
-
-### 2026-07-22 03:39:58  #國際
-
-美國軍方：截至7月21日，美軍已重新排程8艘商船，並扣押1艘，以全面實施封鎖。
-
----
-
-### 2026-07-22 03:39:54  #其他
-
-英國：計劃醫療撤離一名在剛果（金）救治埃博拉患者的工作人員，疑似發生職業暴露；該人員正在隔離環境下接受評估與監測，目前尚未出現任何症狀。
-
----
-
-### 2026-07-22 03:39:14  #公司
-
-空中客車執行長在被問及是否會在2028年後連任第四屆任期時表示，他願意接受董事會作出的任何恰當安排。
-
----
-
-### 2026-07-22 03:39:08  #國際
-
-澤連斯基表示，他已提名米哈伊洛·德拉帕季指揮官出任烏克蘭武裝部隊總司令。
-
----
-
-### 2026-07-22 03:38:12  #MKT News
-
-A Ukrainian lawmaker says Mykhailo Drapaty will be appointed chief of the Ukrainian Armed Forces' General Staff and Volodymyr Horbatiuk will be named head of the National Guard.
-
----
-
-### 2026-07-22 03:37:18  #國際
-
-烏克蘭議員：米哈伊洛·德拉帕季將出任烏克蘭武裝部隊新任總參謀長，沃洛迪米爾·戈爾巴季烏克將擔任國民警衛隊新任司令。
-
----
-
-### 2026-07-22 03:36:49  #國際
-
-美國參謀長聯席會議主席丹·凱恩上將：美國民眾必須認識到，戰爭形態正在發生轉變。技術進步正從根本上、不可逆轉地改變作戰模式，因此需要資金投入以保障美軍獲得充足裝備。
-
----
-
-### 2026-07-22 03:35:10  #MKT News
-
-U.S. Defense Secretary Hegseth said some training will need to be urgently scaled back if additional funding is not provided.
-
----
-
-### 2026-07-22 03:34:49  #國際
-
-美國參議院聽證會現場發生示威抗議，示威者打斷赫格塞思，呼籲停止轟炸伊朗、巴勒斯坦兒童。
-
----
-
-### 2026-07-22 03:34:46  #MKT News
-
-Senator Collins said some U.S. military services are facing near-term funding challenges.
-
----
-
-### 2026-07-22 03:34:17  #國際
-
-美國國防部長赫格塞思向國會表示，如果無法獲得更多撥款，部分訓練專案將不得不緊急削減。
-
----
-
-### 2026-07-22 03:34:06  #焦點 #國際
-
-美國參議員柯林斯稱，部分軍種近期面臨償債能力挑戰。
-
----
-
-### 2026-07-22 03:33:46  #其他
-
-【匈牙利總理就倉促提名棋壇名將波爾加競選總統致歉】匈牙利總理毛焦爾公開致歉，此前國際象棋傳奇棋手尤迪特·波爾加拒絕出任匈牙利下一任總統的提名。毛焦爾稱自己過於倉促地對外公佈提名波爾加一事，並表示對此事承擔全部責任。他上週日在臉書發文稱，49歲的波爾加能夠代表國家團結，計劃週一與波爾加會面，徵詢她是否接受提名。儘管總統職位大多屬於禮儀性職務，但波爾加表示，自己尚未準備好承擔“團結分歧重重的國家這一歷史性重任”。
-
----
-
-### 2026-07-22 03:32:33  #MKT News #S&P500 #Impact bullish #US10Y #Impact bearish #DXY
-
-【House Republicans advance short-term funding bill and $95bn reconciliation framework】House Republicans cleared a procedural hurdle 241-211 to advance a short-term funding measure and a budget framework that underpins a $95bn partisan policy package via reconciliation. The stopgap aims to fund the federal government through December; leadership seeks to pass the CR Tuesday night and the House is expected to vote on a budget resolution Wednesday. Republicans intend to use the framework to draft and pass a third conservative policy package this Congress without Democratic support.
-
----
-
-### 2026-07-22 03:32:03  #國際
-
-美國防長赫格塞思：倘若我們當下不在技術、算力、人工智慧、自主系統與太空領域開展關鍵投入，我們的對手已然在佈局相關投資，或將實現對美國的趕超。
-
----
-
-### 2026-07-22 03:31:26  #其他
-
-伊拉克石油部長表示，該國石油產能為每日480萬桶。
-
----
-
-### 2026-07-22 03:31:21  #MKT News
-
-Iraq's oil minister said the country's crude production capacity is currently 4.8 million barrels per day.
-
----
-
-### 2026-07-22 03:29:13  #其他
-
-空中客車首席財務官表示，潛在補強型收購的搜尋範圍涵蓋商業服務與網路安全領域。
-
----
-
-### 2026-07-22 03:26:11  #國際
-
-美國防長赫格塞思：五角大樓不再由官僚主導管理，取而代之的是歷經實戰考驗的老兵以及頂尖商界領袖，他們正以企業化模式運營國防部。
-
----
-
-### 2026-07-22 03:25:06  #MKT News #AAL.O #Impact bullish #DAL.O #UAL.O
-
-Trump has instructed the U.S. government to permit all U.S. carriers to operate nonstop flights to Lebanon.
-
----
-
-### 2026-07-22 03:24:31  #公司 #焦點 #國際
-
-特朗普：特此指示我的行政部門允許所有美國航空公司直飛黎巴嫩。
-
----
-
-### 2026-07-22 03:24:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Islamic Revolutionary Guard Corps says it destroyed two radar installations in Kuwait.
-
----
-
-### 2026-07-22 03:24:03  #國際
-
-美國參議院共和黨領袖圖恩計劃在8月休會前將臨時撥款法案提交參議院審議。
-
----
-
-### 2026-07-22 03:23:36  #Trading Economics #Economy #Colombia #Balance of Trade #Importance 1
-
-Colombia Trade Deficit Narrows in May — Colombia's trade deficit narrowed to $1.59 billion in May 2026 from $1.78 billion a year earlier. Exports rose 19.2% year-on-year to $5.19 billion, driven by a 33.3% increase in fuels and extractive industry products, led by petroleum and related goods. Agricultural exports edged up 0.7%, supported by higher shipments of cut flowers and coffee extracts, while manufactured exports increased 0.2%, driven by chemicals and machinery. Exports from other sectors surged 67.0%, mainly reflecting higher non-monetary gold shipments. Meanwhile, imports rose 10.6% to $6.79 billion, led by an 8.2% increase in manufactured goods, particularly machinery and transport equipment, as well as chemicals. Imports of agricultural products rose 2.7%, while purchases of fuels and extractive industry products climbed 35.2%.
-
----
-
-### 2026-07-22 03:23:26  #國際
-
-伊朗革命衛隊：發動勝利2號行動第二波打擊，摧毀科威特薩拉姆基地、布比延島多處雷達設施。
-
----
-
-### 2026-07-22 03:22:27  #公司 #觀點
-
-【算力超節點帶火液冷 浸沒式液冷嶄露頭角】隨著算力新基建超節點的湧現，其背後的液冷技術引發了行業新一輪關注。在2026世界人工智慧大會（WAIC 2026）上，華為、中興通訊、新華三、浪潮等知名伺服器廠商超節點的熱管理系統已全線向液冷升級，其中包括主流的冷板液冷，還有方興未艾的浸沒式液冷。中金公司預測，隨著新技術的亮相，2026年迎來液冷放量元年，全球智算中心液冷市場將達1147億元，同比增長273%，2027年仍有望保持高增長。受訪人士普遍認為，受高算力提振，液冷新技術正在不斷升級，並落地應用。伴隨著氟化液價格走低，浸沒式液冷將迎來工程化階段，市場景氣度可期。
-
----
-
-### 2026-07-22 03:20:38  #焦點 #國際
-
-烏克蘭武裝部隊總司令亞歷山大·瑟爾斯基遭解職。
-
----
-
-### 2026-07-22 03:20:06  #國際
-
-美國國防部長赫格塞思：當今世界局勢充滿風險，需要果斷迅速採取行動，因此我們提出2026財年追加撥款申請。這筆資金是緊急且必要的資源投入，用以滿足國防部當下迫切需求。
-
----
-
-### 2026-07-22 03:19:47  #MKT News
-
-SpaceX launched a Falcon 9 from California, successfully placing 24 Starlink satellites into orbit.
-
----
-
-### 2026-07-22 03:17:39  #MKT News #WTI #Impact bearish #Brent
-
-Iraq's oil minister says agreements with US firms will significantly boost Iraq's oil production capacity and drive investment in associated natural gas.
-
----
-
-### 2026-07-22 03:17:02  #國際
-
-伊拉克石油部長表示，與美國企業達成的協議將為伊拉克大幅提升油氣產能，並帶來伴生氣領域的投資。
-
----
-
-### 2026-07-22 03:16:44  #MKT News #Important
-
-Iraq's oil minister said that during the prime minister's visit to the U.S., Iraq's oil ministry and U.S. companies signed agreements expected to total about $200 billion.
-
----
-
-### 2026-07-22 03:15:28  #焦點 #國際
-
-伊拉克石油部長表示，總理訪美期間，伊拉克石油部與美國企業簽署的協議總金額預估為2000億美元。
-
----
-
-### 2026-07-22 03:15:01  #市場
-
-【“金融引擎”馬力全開 上海上半年金融業增加值勁增10.2%】近日，上海市統計局釋出的2026年上半年上海經濟執行資料顯示：上海地區生產總值（GDP）達27886.63億元，同比增長5.6%，增速跑贏全國平均水平。其中，金融業增加值為4964.18億元，同比增長10.2%，延續了一季度的良好勢頭。金融業的增長動力，來自金融市場交易的全面活躍。上半年，上海主要金融市場實現成交額2269.16萬億元，同比增長24.1%。具體而言，各大金融基礎設施全面開花：上海期貨交易所成交額同比增長53.9%，上海黃金交易所成交額同比增長38.2%，上海證券交易所有價證券成交額同比增長35.2%，銀行間市場成交額同比增長16.6%。(上證報)
-
----
-
-### 2026-07-22 03:14:51  #MKT News #Market Regions #Europe & UK #Brent #Impact bullish #XAUUSD #DXY
-
-【New UK prime minister approves US use of UK bases for partial 'defensive strikes' on Iran】According to foreign media and people familiar with the matter, new UK prime minister Andy Burnham has approved US use of UK military bases for partial 'defensive strikes' on Iran, continuing policy under former prime minister Keir Starmer. Starmer chaired a meeting of senior ministers and officials last Friday to review UK policy after the US resumed military action earlier this month; the meeting agreed to allow US aircraft to operate from the Diego Garcia base in the Indian Ocean and RAF Fairford in Gloucestershire. The missions are described as aimed at countering Iranian missile threats and striking assets used to attack facilities in the Strait of Hormuz. Burnham, who took office on Monday, was briefed on the discussion and has agreed to the decision.
-
----
-
-### 2026-07-22 03:13:09  #其他
-
-SpaceX：獵鷹9號火箭於加州發射24顆星鏈衛星。
-
----
-
-### 2026-07-22 03:12:38  #MKT News #WTI #Impact bullish
-
-U.S. defense minister Hegseth said Iran has already been given "every opportunity" to negotiate over the Strait of Hormuz and warned that if Iran attacks commercial vessels the U.S. will retaliate with "ten times the intensity."
-
----
-
-### 2026-07-22 03:11:51  #國際
-
-【英國新任首相伯納姆批准英國基地用於部分美軍對伊打擊】英國新任首相安迪·伯納姆已批准美國使用英國軍事基地，對伊朗進行英國所稱的防禦性打擊；儘管美國總統特朗普正加大對伊軍事行動力度，伯納姆仍延續了前任首相斯塔默的政策。知情人士稱，斯塔默上週五主持召開高階大臣和官員會議，討論英國在美國本月早些時候恢復行動後的政策立場。上述人士表示，與會大臣決定延續現行政策，即允許美國軍機使用位於印度洋迪戈加西亞的基地，以及位於英格蘭格洛斯特郡的費爾福德皇家空軍基地，以應對伊朗導彈威脅，並打擊用於瞄準霍爾木茲海峽的相關地點。
-
----
-
-### 2026-07-22 03:11:04  #國際
-
-【美國參議院情報委員會以微弱優勢支援特朗普提名人士出任美國國家情報總監】美國參議院情報委員會共和黨主席週二表示，該委員會支援總統特朗普提名傑伊·克萊頓出任美國國家情報總監。就在數日之前的任命聽證會上，克萊頓拒絕承認拜登贏得2020年總統大選。阿肯色州共和黨參議員湯姆·科頓向記者表示：“委員會剛剛投票，決定將克萊頓的提名提交參議院全體會議審議。”科頓稱投票結果為9票贊成、8票反對。他沒有公佈各黨派投票明細；該委員會共有9名共和黨議員，8名民主黨議員以及一名與民主黨組成黨團的獨立議員。委員會完成此次投票後，克萊頓的國家情報總監提名將交由由100名議員組成的參議院全體審議。
-
----
-
-### 2026-07-22 03:11:04  #MKT News #Important #Market Regions #Europe & UK #Brent #Impact bullish #WTI #XAUUSD
-
-New UK prime minister Burnham has approved US use of British bases to conduct limited strikes against Iran.
-
----
-
-### 2026-07-22 03:08:21  #焦點 #國際
-
-英國新任首相伯納姆批准美國利用英國基地發動部分針對伊朗的打擊。
-
----
-
-### 2026-07-22 03:07:52  #國際
-
-特朗普：黎巴嫩人非常聰明，儘管他們的國家在許多方面面臨危險，但他們熱愛自己的國家；他們說他們不斷聽到爆炸聲，但他們不想離開（自己的土地）。
-
----
-
-### 2026-07-22 03:07:00  #國際
-
-市場資訊：特朗普重啟了一項源自上世紀30年代飽受爭議關稅法案《1930 年斯姆特 - 霍利關稅法》。
-
----
-
-### 2026-07-22 03:05:39  #其他
-
-五角大樓擬申請2億美元資金，用於迭戈加西亞戰略樞紐建設。
-
----
-
-### 2026-07-22 03:05:22  #國際
-
-【梅洛尼呼籲徹查博洛尼亞男子拘捕身亡事件，譴責暴力反警抗議】義大利總理梅洛尼呼籲全面調查博洛尼亞男子拘捕期間身亡事件，譴責暴力反警抗議致數十警員受傷；死者阿卜杜拉希姆・法基爾上週日遭警方約束時死亡，輿論將此事比照美國弗洛伊德案，並關聯特朗普時代美國 ICE 執法模式，當地爆發多場暴力示威，保守派政界亦出現激烈反響。
-
----
-
-### 2026-07-22 03:02:50  #MKT News #DXY
-
-Pakistan is seeking a USD 10 bln foreign-exchange stabilization facility from the United States to bolster reserves and ease funding pressure, sources said.
-
----
-
-### 2026-07-22 03:01:38  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng index futures in the night session closed down 0.70% at 24,978, trading 154 points below the spot index.
-
----
-
-### 2026-07-22 03:01:05  #國際
-
-知情人士透露，巴基斯坦申請100億美元美國匯率穩定工具以提振外匯儲備。
-
----
-
-### 2026-07-22 03:00:56  #MKT News
-
-Panama said it has recalled its ambassador to Nicaragua.
-
----
-
-### 2026-07-22 03:00:03  #市場
-
-恒指期貨夜盤收跌0.70%，報24978.93點，低水153.36點。
-
----
-
-### 2026-07-22 02:59:59  #國際
-
-法國成為歐洲首個正式立法禁止15歲以下人群使用社交媒體的國家。
-
----
-
-### 2026-07-22 02:59:49  #MKT News
-
-According to Axios, ANTHROPIC's US government lobbying spending in 1H exceeded its total for all of last year.
-
----
-
-### 2026-07-22 02:59:18  #其他
-
-市場訊息：Anthropic 2026 年上半年遊說開支已超過 2025 全年總額。
-
----
-
-### 2026-07-22 02:49:35  #MKT News
-
-Iraq's Erbil International Airport, which was temporarily closed following a security incident, has resumed flight operations, Iraq's state news agency reported.
-
----
-
-### 2026-07-22 02:49:08  #其他
-
-伊拉克國家通訊社：伊拉克埃爾比勒機場臨時停航後恢復航班運營。
-
----
-
-### 2026-07-22 02:45:53  #MKT News
-
-Hegseth says the PENTAGON urgently needs a $67 bln supplemental funding package, including $1.5 bln to address critical mission fuel shortages and $2 bln to replenish equipment lost or damaged in combat.
-
----
-
-### 2026-07-22 02:43:54  #Trading Economics #Economy #Colombia #Imports YoY #Importance 0
-
-Colombia Import Growth Slows in May — Colombia's imports rose 10.6% year-on-year to $6.79 billion in May 2026 after increasing 15.8% in April. The increase was mainly driven by an 8.2% rise in manufactured imports, led by higher purchases of machinery and transport equipment (15.1%) and chemicals and related products (5.4%). Imports of agricultural products, food, and beverages rose 2.7%, supported by a 3.3% increase in purchases of food products and live animals. Imports of fuels and extractive industry products climbed 35.2%, driven mainly by a 29.7% increase in purchases of petroleum, petroleum products, and related goods.
-
----
-
-### 2026-07-22 02:43:17  #國際
-
-美國防長赫格塞思對參議院委員會：參議院必須透過670億美元的追加撥款。
-
----
-
-### 2026-07-22 02:40:50  #國際
-
-美國防長赫格塞思將對參議院委員會表示五角大樓急需資金， 赫格塞思擬申請 20 億美元，用於賠付作戰中損毀、遺失的裝備。
-
----
-
-### 2026-07-22 02:39:40  #國際
-
-伊朗法爾斯通訊社援引以色列 14 頻道訊息：有關位於麥納麥的以色列大使館遭到襲擊的報道，相關資訊尚未得到證實，事件正在調查當中。
-
----
-
-### 2026-07-22 02:36:55  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI
-
-【Night session main contracts close】As of the 02:30 close, SHFE gold main contract rose 1.36% to 891 yuan/gram, SHFE silver main contract rose 3.01% to 14,421 yuan/kg, and SC crude main contract rose 3.15% to 547 yuan/barrel.
-
----
-
-### 2026-07-22 02:31:08  #市場
-
-WTI 8月原油期貨收報84.91美元/桶，逼近6月11日收盤位86.16美元。NYMEX 8月天然氣期貨收報2.8650美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.4059美元/加侖，NYMEX 8月取暖油期貨收報4.1266美元/加侖。
-
----
-
-### 2026-07-22 02:30:18  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: XRP Rises by 4.09% — Top crypto gainers are XRP (4.09%), Bitcoin (1.48%) and Ether (0.84%).
-
----
-
-### 2026-07-22 02:30:17  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange July 21 evening session: Gold T+D closed up 0.87% at 889.96 yuan/gram; Silver T+D closed up 2.19% at 14,360.0 yuan/kg.
-
----
-
-### 2026-07-22 02:30:03  #市場
-
-上期所原油期貨夜盤收漲3.15%，報547.40元人民幣/桶。滬金夜盤收漲1.23%，滬銀收漲3.01%。
-
----
-
-### 2026-07-22 02:29:56  #國際
-
-美國國防部長赫格塞思出席參議院聽證會，就特朗普提出的追加資金申請進行作證。
-
----
-
-### 2026-07-22 02:28:15  #MKT News #GS.O
-
-Goldman Sachs launches a private markets platform.
-
----
-
-### 2026-07-22 02:27:27  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-New York gold futures rose 2.00% intraday to $4,092.10/oz.
-
----
-
-### 2026-07-22 02:25:23  #市場 #焦點
-
-紐約期金突破4090美元/盎司，日內漲1.85%。
-
----
-
-### 2026-07-22 02:25:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Oat Falls by 2.56% — Top commodity losers are Oat (-2.56%) and Canola (-1.11%). Gains are led by Cotton (1.84%), Cocoa (1.56%) and Rice (1.50%).
-
----
-
-### 2026-07-22 02:24:42  #觀點
-
-市場訊息：高盛推出私募市場平臺。
-
----
-
-### 2026-07-22 02:23:49  #國際
-
-美國參議員沃納：特朗普媒體推出的 Truth API 將對市場誠信構成風險。
-
----
-
-### 2026-07-22 02:23:06  #其他
-
-伊拉克國家通訊社：伊拉克埃爾比勒機場臨時暫停航班運營。
-
----
-
-### 2026-07-22 02:21:24  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish
-
-EUR/USD slipped below 1.14 for the first time since July 14, down 11 bps intraday.
-
----
-
-### 2026-07-22 02:20:53  #國際
-
-市場訊息：日本 Dynabook 開始在本土生產膝上型電腦。
-
----
-
-### 2026-07-22 02:20:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Lithium Carbonate Falls by 4.95% — Top commodity losers are Lithium Carbonate (-4.95%) and Iron Ore CNY (-1.19%). Gains are led by Silver (4.29%), Copper (2.86%), Platinum (1.73%) and Gold (1.62%).
-
----
-
-### 2026-07-22 02:20:09  #MKT News
-
-TASNIM NEWS: Iraqi sources say Erbil International Airport has suspended operations after recent rocket and drone attacks in Iraq's Kurdistan region.
-
----
-
-### 2026-07-22 02:17:23  #MKT News #XAUUSD #Impact bullish #Brent
-
-IRNA: An Iranian military spokesman said the country’s defensive deployments are not currently confined to its borders.
-
----
-
-### 2026-07-22 02:16:26  #公司 #國際
-
-【OpenAI執行長將向美國官員介紹下一代人工智慧模型】OpenAI的高管表示，該公司執行長Sam Altman計劃下週向特朗普政府和美國議員介紹即將到來的下一代人工智慧模型，眼下美國正著手建立針對前沿人工智慧系統的安全審查程式。OpenAI全球公共事務主管Chris Lehane週二表示，Altman此舉正值美國官員制定人工智慧安全審查框架之際，該框架預計將在未來幾周內完成。Lehane稱，Altman的部分會議將重點討論公司的新模型系列，包括這些模型將如何影響工作。“我們認為，這一系列模型將具備一些非常有趣的功能，尤其是在工作和工作規模化方面，”Lehane在華盛頓舉行的簡報會上表示。
-
----
-
-### 2026-07-22 02:15:37  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Qatar's foreign ministry strongly condemned Iran for renewed attacks on Jordan, Bahrain and Kuwait, and accused Iran of striking a Kuwaiti tanker while it transited the Strait of Hormuz.
-
----
-
-### 2026-07-22 02:15:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Methanol Falls by 3.39% — Top commodity losers are Methanol (-3.39%), Coking Coal (-1.10%) and Propane (-0.65%). Gains are led by Crude Oil WTI (2%), Natural Gas UK (1.89%) and Brent Crude Oil (1.86%).
-
----
-
-### 2026-07-22 02:15:00  #國際
-
-據IRNA： 伊朗軍方發言人表示武裝部隊的防禦戰備並不侷限於邊境地區。
-
----
-
-### 2026-07-22 02:14:28  #MKT News
-
-IRNA: An Iranian military spokesman said Iran has completed repairs to some damaged air-defence systems and integrated new equipment into operational units, significantly boosting its overall air-defence capability.
-
----
-
-### 2026-07-22 02:14:16  #其他
-
-塔斯尼姆通訊社援引伊拉克訊息人士：受伊拉克庫爾德地區近期火箭彈與無人機襲擊影響，埃爾比勒國際機場已關閉。
-
----
-
-### 2026-07-22 02:14:07  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Fars News reports explosions in Iraq's Erbil region have continued for about 30 minutes as multiple missile strikes reportedly hit sites described as bases for 'anti-Iran armed groups'.
-
----
-
-### 2026-07-22 02:11:32  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Iran missile penetration capability rising; US air defenses tested】Iran last week twice launched precision-guided missiles that evaded Jordanian and US missile-defense systems and struck intended targets in Jordan. The Pentagon said nearly 100 US service members have been wounded this month in Iran-linked attacks across Middle East bases; that figure does not include the recent Jordan strike. Asked why Iran could hit the US base in Jordan, President Trump suggested there were “other operators” at the base that allowed “something to get through,” without elaborating. Retired Jordanian Lt. Gen. Qasid Mahmoud, a former deputy chief of staff, said Iran is advancing longer-range missile technology and integrating missiles with drones to suppress radar, using simple missiles to distract defences before launching higher-performance missiles that change course in the final 30–40 km, a trajectory change he said increases interception difficulty.
-
----
-
-### 2026-07-22 02:11:00  #焦點 #國際
-
-據IRNA：伊朗稱已部署新防空系統。
-
----
-
-### 2026-07-22 02:10:25  #國際
-
-據IRNA：伊朗稱已修復遭戰爭損毀的防空設施。
-
----
-
-### 2026-07-22 02:04:47  #MKT News
-
-【French parliament passes law banning social media use by under-15s】On July 21 France’s National Assembly and Senate approved a law banning social media use by children under 15. The ban is phased: from Sept. 1 registrations for under-15s will be prohibited; from Jan. 2027 existing accounts identified as belonging to under-15s will be suspended or closed.
-
----
-
-### 2026-07-22 02:03:38  #MKT News
-
-【Netherlands to impose three-year trade sanctions on Israeli settlements from Sept 22】The Dutch government announced on the 21st that it will from Sept. 22 impose three-year trade sanctions on goods originating in Israeli settlements. Products from settlements in the West Bank, Gaza Strip and Golan Heights will be barred from entry into the Netherlands and prohibited from direct or indirect purchase, marketing and provision of related intermediary services. The government said the measures aim to use economic means to counter Israel’s establishment of illegal settlements in those territories.
-
----
-
-### 2026-07-22 02:01:08  #國際
-
-【法國議會透過法案 禁止15歲以下未成年人使用社交媒體】當地時間7月21日，法國國民議會和參議院正式透過一項禁止15歲以下未成年人使用社交媒體的法案。這項法案被視為法國總統馬克龍本屆任期的重要改革之一。根據法案，禁令將分兩個階段執行：自9月1日起，15歲以下未成年人將不得註冊新的社交媒體賬號；自2027年1月起，現有屬於15歲以下未成年人的社交媒體賬號也將被暫停或關閉。（央視新聞）
 
 ---

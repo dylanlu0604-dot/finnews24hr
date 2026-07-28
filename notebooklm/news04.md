@@ -1,7 +1,361 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-29 02:01:05_
-_本檔包含 3719 則快訊，約 668679 字_
+_更新時間：2026-07-29 03:49:22_
+_本檔包含 3656 則快訊，約 668335 字_
+
+---
+
+### 2026-07-24 07:50:01  #MKT News #Economic Calendar #Important
+
+Japan | Weekly Foreign investment in Japanese Stocks (Jul.17) | actual -79600000000B | previous 745600000000B
+
+---
+
+### 2026-07-24 07:49:59  #市場 #央行 #國際
+
+【日本6月消費者通脹回升 為進一步加息鋪平道路】日本6月消費者通脹小幅加速，為該國央行進一步加息鋪平了道路。週五公佈的政府資料顯示，日本6月剔除生鮮食品的核心消費者物價漲幅為1.6%，高於5月份的1.4%。該資料符合對經濟學家調查得出的平均預期。經濟學家稱，油價和食品成本仍是影響整體價格走勢的關鍵因素。他們還說，這些價格可能繼續受到多種因素的交織影響，包括中東局勢、日元疲軟、政府能源補貼、包裝成本上漲以及計劃中的食品銷售減稅措施。日本央行上月將其政策利率上調至1%，創31年來新高。此舉是因為該行政策委員會日益擔心，油價上漲會將日本的基本通脹率推高至央行2%的目標之上。日本央行決策者曾表示，中東衝突及隨後油價飆升的影響可能會在夏季開始顯現。該央行定於下週在公佈利率決定的同時，釋出最新的經濟增長和通脹預測。
+
+---
+
+### 2026-07-24 07:49:33  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+The New York Times reports Iran on Thursday rejected a ceasefire proposal from U.S. President Trump that had been delivered to Tehran by Iraq's prime minister. The mediation collapsed as Trump was threatening to escalate the conflict and was considering strikes on Iran's critical infrastructure.
+
+---
+
+### 2026-07-24 07:49:12  #公司 #國際
+
+【構建中國產品出海核心優勢 跨境電商新生代換了一種打法】近段時間，一款精準適配歐洲老建築安裝痛點、符合歐盟嚴苛環保標準的國產行動式分體空調，在歐洲“一機難求”，成為中國產品拓展海外市場的又一典範。今年上半年，中國出口增速超過10%，已連續11個季度保持增長。海關總署副署長王軍近日在國新辦新聞釋出會上表示，出口增長的根本原因在於中國製造與全球各類需求的精準適配。在愈發激烈的海外市場競爭中，中國賣家們如何洞察並滿足市場需求？證券時報記者近期採訪多位跨境電商新生代企業負責人發現，中國賣家正憑藉敏銳的市場洞察力、極致的反應速度以及靈活的銷售策略，構建起中國產品出海的核心優勢。“新一批的跨境電商入局者換了一種打法：不靠低價，不走通貨，用真正的產品和技術創新，面向全球消費者爭取屬於自己的品牌位置。”亞馬遜中國副總裁、亞馬遜全球開店中國新賣家拓展、新興市場及企業購業務負責人宋曉俊表示，跨境電商正從一個貿易渠道，成為中國創新能力向全球展示的視窗。（證券時報）
+
+---
+
+### 2026-07-24 07:48:54  #MKT News #Important
+
+【South Korea advances cash deposit hike for single-stock leveraged ETFs by three days】The Financial Services Commission said on the 24th it will bring forward to the 31st of this month the strengthened base margin measures for single-stock leveraged ETFs originally scheduled for next month. In a supplemental plan released on the 16th, the FSC said the base margin will rise from 10 mln won to 30 mln won and must be held in cash only, a move described as intended to rapidly stabilize market demand.
+
+---
+
+### 2026-07-24 07:48:21  #市場 #國際
+
+【日經指數或因能源成本擔憂下跌】由於能源成本上升再度引發擔憂，加之華爾街股市隔夜下跌，日本股市可能下跌。新加坡交易所的日經指數期貨下跌1.1%，報65505點。在布倫特原油兩個月來首次突破每桶100美元后，投資者正關注中東局勢的發展和油價走勢。日經指數週四上漲0.5%，至66422.60點。
+
+---
+
+### 2026-07-24 07:47:26  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+US Futures Steady After Selloff — US futures were little changed on Friday as investors looked to stabilize after a broad market selloff driven by soaring oil prices and disappointing earnings from major technology companies. During Thursday’s regular session, the Dow lost more than 500 points, while the S&P 500 and Nasdaq posted their biggest one-day declines since June 23, falling 1.2% and 2.2%, respectively. Brent crude climbed above $100 per barrel for the first time since late May after two Saudi oil tankers were reportedly struck in the Red Sea, intensifying concerns over Middle East supply disruptions. Meanwhile, Tesla tumbled nearly 15% after missing second-quarter earnings expectations, marking its worst daily decline since March 2025, while Alphabet fell 7% after raising its full-year capital expenditure guidance. The major indexes were also on track for weekly losses, with the Nasdaq leading the declines.
+
+---
+
+### 2026-07-24 07:46:55  #市場 #國際
+
+基準10年期日本國債期貨早盤下跌0.16點。
+
+---
+
+### 2026-07-24 07:46:51  #市場 #國際
+
+日本日經平均指數期貨早盤下跌1.1%。
+
+---
+
+### 2026-07-24 07:46:20  #其他
+
+【10個月落地近600家AI企業 張江人工智慧創新小鎮重塑AI產業轉化路徑】在上海浦東，有一片規劃面積約2平方公里的土地，集聚了近600家人工智慧（AI）垂類應用企業和3萬餘名AI從業者——張江AI創新小鎮。經過10個月的運營，小鎮公佈了最新的生態藍圖及發展座標：到2027年，集聚AI企業超800家，產業規模達650億元，30個示範應用場景落地；到2030年，落地AI企業超1000家，產業規模超1000億元。證券時報記者近日實探張江AI創新小鎮發現，這裡正以平臺賦能、生態聚變、場景落地等機制，重塑AI產業從實驗室到市場的轉化路徑。
+
+---
+
+### 2026-07-24 07:46:16  #國際
+
+【伊朗拒絕由美國提出的、伊拉克領導人轉交的停火協議】據伊朗與伊拉克官方訊息，伊朗於週四拒絕了由伊拉克總理轉交至德黑蘭的特朗普總統停火提議。此次調停宣告失敗之際，特朗普正揚言升級衝突、打擊伊朗關鍵基礎設施。相關官員因討論敏感國家安全事務要求匿名，他們表示，伊拉克總理阿里・扎伊迪此次出訪伊朗，是其近期前往白宮會見特朗普後的後續行動。這份停火提議的具體條款暫未對外披露。但伊朗官員表示，美方僅提出這一項方案，伊朗政府無意接受一份未能解決霍爾木茲海峽控制權爭端的臨時性協議。據當地媒體報道，扎伊迪總理率領伊拉克高階官員代表團前往德黑蘭，先後會見伊朗總統馬蘇德・佩澤希基揚、伊朗首席談判代表穆罕默德・巴蓋爾・加利巴夫准將以及伊朗外交部長阿巴斯・阿拉格奇。
+
+---
+
+### 2026-07-24 07:44:43  #公司 #國際
+
+【烏總統稱與美企聯合生產愛國者導彈 】烏克蘭總統澤連斯基當地時間7月23日晚在社交媒體發文稱，他當天會見了到訪的美國雷神公司代表團，烏克蘭將與雷神公司聯合生產“愛國者”防空系統攔截彈，雙方後續將保持聯絡、敲定所有細節。 美國總統特朗普和澤連斯基7月8日在北約峰會期間會晤，特朗普稱將授權烏克蘭生產“愛國者”系統。
+
+---
+
+### 2026-07-24 07:44:21  #國際
+
+市場訊息：伊朗拒絕由美國提出的、伊拉克領導人轉交的停火協議。
+
+---
+
+### 2026-07-24 07:42:58  #MKT News #IBM.N #Impact bullish
+
+IBM (IBM.N) CEO said roughly 70% of daily financial transaction activity by value runs on mainframes. Clients typically spend $3–4 across IBM for every $1 invested in a mainframe. The AI boom will boost revenue because most clients require hands-on guidance.
+
+---
+
+### 2026-07-24 07:41:09  #MKT News
+
+IBM (IBM.N) CEO says quantum technology will generate trillions of dollars of incremental value by the late 2030s.
+
+---
+
+### 2026-07-24 07:41:04  #國際
+
+ISPACE將與歐洲航天局簽署補充協議。
+
+---
+
+### 2026-07-24 07:40:36  #公司 #國際 #原創
+
+【馬斯克呼籲AI公司攜手合作自我審查安全問題，為此可放下與奧特曼個人恩怨】馬斯克表示，他希望最先進的AI模型在釋出前接受同行之間的審查，而不是由政府來負責審查。馬斯克在週四發表的與《經濟學人》主編的訪談中說：“我們能做的最直接的事情，就是讓領先的AI公司至少每隔幾周舉行一次會議，討論一下安全和隱私方面的問題。”各家企業可提前一到兩週獲取新模型進行審查，“同行之間互相監督、彼此約束”。只有當企業上報安全隱患而未著手解決時，政府才應當採取干預措施。馬斯克承認，領先的AI公司之間的合作需要他與OpenAI執行長薩姆·奧特曼放下分歧，“說到底，如果有溝通的必要，我們就會坐下來談。為了全世界的利益，把個人分歧暫時擱置一下。”
+
+---
+
+### 2026-07-24 07:40:26  #公司 #國際
+
+【吉利攜手福特加碼歐洲本土化生產】7月23日，吉利汽車控股有限公司釋出公告稱，該公司全資附屬公司GeelySPV與福特汽車全資附屬公司FordNL訂立股份購買協議，擬以2.21億歐元收購西班牙目標公司34%的股權。交易完成後，FordNL持有目標公司66%股權，GeelySPV持股34%；該主體將作為聯營公司按權益法入賬，不納入吉利合併報表範圍。
+
+---
+
+### 2026-07-24 07:39:04  #宏觀 #市場 #國際
+
+【王毅會見烏茲別克外長賽義多夫】 當地時間2026年7月23日晚，中共中央政治局委員、外交部長王毅在吉爾吉斯斯坦出席上海合作組織外長會前會見烏茲別克外長賽義多夫。王毅表示，今年是中烏建立全面戰略伙伴關係10週年，是一個繼往開來、承前啟後的年份。十年來，習近平主席和米爾濟約耶夫總統建立起深厚互信與友誼，為雙邊關係全方位、跨越式發展提供了最重要政治保障。中烏戰略互信成色更足、務實合作全域鋪開，實現了從全面戰略伙伴關係到新時代全天候全面戰略伙伴關係的歷史性躍升。 王毅說，今年是烏茲別克獨立35週年，相信在米爾濟約耶夫總統領導下，烏方定能如期實現“烏茲別克－2030”戰略，推動自身發展振興。今年也是中國共產黨成立105週年。中國共產黨現已成為世界上規模最大的執政黨，引領中國取得舉世矚目的歷史性成就。中方將堅定支援烏方走符合自身國情的發展道路，相信烏方在涉及中方核心利益問題上將繼續予以堅定支援。王毅表示，中烏髮展戰略互補，是現代化征程上的同路人，完全可以共同發展、彼此成就，合力擘畫新的“黃金10年”。中方願同烏方全面挖掘釋放合作潛能，高質量推動中吉烏鐵路建設，在新型工業化領域打造更多標誌性專案。中方倡導成立世界人工智慧合作組織，旨在幫助發展中國家加強人工智慧能力建設，助力各自現代化程序，祝賀烏方成為創始成員國。雙方要用好中烏執法安全合作機制，打擊“三股勢力”和跨國有組織犯罪。要在聯合國、上海合作組織、中國－中亞機制等多邊平臺加強團結協作，推動構建更加公正合理的全球治理體系。
+
+---
+
+### 2026-07-24 07:38:00  #其他
+
+XAI：Grok Build 現已支援執行工作流。
+
+---
+
+### 2026-07-24 07:36:49  #公司 #國際
+
+【韓國7月31日起將槓桿ETF交易的現金存款要求提高至3000萬韓元】韓國金融服務委員會發布宣告稱，韓國將把針對散戶投資者交易單一個股槓桿ETF的更嚴格存款額要求提前至7月31日實施，較原定的8月實施時間提前，存款額要求為3000萬韓元，且為現金形式。現金存款要求由1000萬韓元提高至3000萬韓元；股票、ETF和債券將不再計入最低存款額。新規適用於購買韓國國內及海外上市的單一個股槓桿ETF。對於未能於7月31日前完成系統升級的公司，將被建議限制這種產品的新交易。
+
+---
+
+### 2026-07-24 07:36:23  #國際
+
+【英偉達與Amkor達成15億美元晶片封裝與測試合作協議】美國半導體產品封裝和測試服務提供商Amkor Technology當地時間7月23日宣佈，與英偉達達成15億美元多年期合作協議，共同開發面向下一代人工智慧和加速計算平臺的先進半導體封裝與測試技術。根據協議，英偉達將提供預付款，支援Amkor在美國擴充先進封裝產能。
+
+---
+
+### 2026-07-24 07:36:09  #觀點
+
+【中信建投：淡季不淡旺季可期 鋰價有望低位反升】中信建投證券研報指出，由於鋰價近期快速下行，上游惜售情緒加重，挺價明顯，部分散單報價仍維持在16萬元/噸以上；同時下游逢低採購，材料廠15萬元/噸以下的採購情緒較為積極，但採購行為依然謹慎，整體以剛需為主。供給端，碳酸鋰產量下行，部分鋰鹽廠按計劃進入檢修，導致鋰輝石產線減量明顯。需求方面，7月排產預計延續增長態勢，材料廠開工率保持高位執行，預計環比增長超5%，預計8月排產環比繼續保持正增長，淡季不淡，年內搶裝搶出口預期下，四季度旺季可期。
+
+---
+
+### 2026-07-24 07:36:02  #Trading Economics #Economy #Japan #Inflation Rate #Importance 2
+
+Japan Inflation Rate Rises to 6-Month High — Japan's annual inflation rate accelerated to 1.7% in June 2026 from 1.5% in the prior month, marking the highest reading since December. Core inflation, which excludes fresh food, also picked up to 1.6% from 1.4%, matching market expectations and reaching its highest level since March. However, core inflation remained below the Bank of Japan's 2% target for a fifth consecutive month
+
+---
+
+### 2026-07-24 07:35:57  #Trading Economics #Economy #Japan #Core Inflation Rate #Importance 2
+
+Japan Core Inflation Matches Estimates — Japan’s core consumer price index, which excludes fresh food but includes energy, increased 1.6% year-on-year in June 2026, following a 1.4% rise in May, which was the lowest level since March 2022. It was the highest core inflation rate since March and was in line with market forecasts of 1.6%. Still, the latest reading remained below the Bank of Japan’s 2% target for a fifth straight month, as government fuel subsidies helped offset price pressures from higher oil costs linked to the Middle East conflict.
+
+---
+
+### 2026-07-24 07:34:59  #國際
+
+【日本民眾集會 反對政府擴軍備武動向】近日，日本防衛大臣小泉進次郎公開提出，日本應毫無禁忌地討論與核武器相關的政策，引發日本國內和國際社會強烈關注。23日，部分日本民眾在東京江東區舉行集會，反對政府擴軍備武動向。（央視）
+
+---
+
+### 2026-07-24 07:34:53  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY
+
+Japan core-core CPI YoY increase fell to its weakest level since August 2022.
+
+---
+
+### 2026-07-24 07:34:39  #資料 #市場 #央行 #國際
+
+【日本通脹回升 日本央行加息路徑不變】日本核心通脹指標三個月來首次回升，日本央行年內再度加息的預期進一步穩固。日本總務省週五公佈，6月剔除生鮮食品的核心消費者物價指數（CPI）同比上漲1.6%，該資料與調查的預期中值一致。同時，剔除生鮮食品與能源、被日本央行視作核心通脹基準的核心核心CPI同比上漲1.7%，整體CPI同比漲幅同樣為1.7%。
+
+---
+
+### 2026-07-24 07:34:11  #國際
+
+【印尼北馬魯古省附近海域發生5.8級地震】據印度尼西亞氣象、氣候和地球物理局釋出的報告，當地時間7月24日5時58分，印尼北馬魯古省特爾納特市西南117公里處海域發生5.8級地震，震中位於北緯0.72度，東經126.31度，震源深度10公里。
+
+---
+
+### 2026-07-24 07:33:14  #觀點
+
+摩根士丹利將麥格理目標價上調3.8%，至每股273.00澳元。
+
+---
+
+### 2026-07-24 07:32:57  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY
+
+Japan nationwide not-seasonally-adjusted CPI, June MoM 0.0%, prior 0.5%.
+
+---
+
+### 2026-07-24 07:32:51  #MKT News #Economic Calendar #Important
+
+Japan | CPI (MoM) (Jun) | actual 0% | previous 0.5%
+
+---
+
+### 2026-07-24 07:32:23  #國際
+
+【多起致人死亡事故後，美國著手製定車門安全法規】美國汽車安全監管機構將起草全新規範，保障駕乘人員能夠安全下車，以此解決多起致人死亡的車內人員被困事故暴露出的安全隱患。監管檔案顯示，美國國家公路交通安全管理局於週四表示，將啟動聯邦新規制定流程，響應請願方訴求，要求 “所有機動車配備可靠、醒目的車內開門逃生裝置”。新規若正式落地，美國境內所有新車均需遵守相關標準。特斯拉及其他車企設計的隱藏式電動門把手車輛已發生多起事故：車輛斷電（含碰撞後斷電）時車內人員被困車內。多起案例中，特斯拉車主雖在高速撞擊中倖存，卻因無法開門逃生，最終葬身後續起火事故或身受重傷。
+
+---
+
+### 2026-07-24 07:31:18  #市場
+
+日經指數期貨在新加坡交易所開盤下跌750點，報65510點。
+
+---
+
+### 2026-07-24 07:31:07  #資料 #國際
+
+日本核心-核心CPI漲幅創2022年8月以來最低。
+
+---
+
+### 2026-07-24 07:30:56  #經濟數據 #日本
+
+日本6月份整體消費物價同比上漲1.7%；6月份核心消費物價同比上漲1.6%。
+
+---
+
+### 2026-07-24 07:30:44  #Trading Economics #Markets #Japan #Currency #Importance 1
+
+U.S. Treasury Calls for More BoJ Tightening Amid Weak Yen — The U.S. Treasury Department said the Japanese yen has remained weak despite a narrowing in U.S.-Japan interest rate differentials, adding that excessive currency volatility is undesirable. In its semi-annual currency report released Thursday, the Treasury urged the Bank of Japan to continue raising interest rates, arguing that higher borrowing costs would help contain inflation and stabilize the exchange rate. "Monetary policy normalisation would help anchor inflation expectations and reduce excessive exchange rate volatility," the report said. The Treasury noted that while nominal wages have risen significantly, inflation continues to erode households' purchasing power, underscoring the need for further policy normalization. The comments came as the yen fell to a fresh 40-year low against the U.S. dollar Thursday, heightening market expectations that Japanese authorities could intervene in the foreign exchange market after repeatedly warning they would act against excessive moves.
+
+---
+
+### 2026-07-24 07:30:13  #市場 #國際
+
+日本6月份核心消費物價同比上漲1.6%。日本6月份整體消費物價同比上漲1.7%。
+
+---
+
+### 2026-07-24 07:30:13  #MKT News #SPCX.O
+
+SpaceX (SPCX.O) has begun refusing commercial Falcon rocket launch bookings for flights scheduled after 2028, reallocating capacity as it bets on Starship.
+
+---
+
+### 2026-07-24 07:30:09  #MKT News #USDJPY #Impact bullish
+
+Japan national CPI YoY for June 1.7%, matching the expected 1.70% and up from 1.50% in May.
+
+---
+
+### 2026-07-24 07:30:08  #MKT News #Important #Market Regions #Japan & APAC #USDJPY
+
+Japan June core CPI YoY 1.6% (exp 1.60%; prev 1.40%).
+
+---
+
+### 2026-07-24 07:30:00  #MKT News #Economic Calendar #Important
+
+Japan | CPI (YoY) (Jun) | actual 1.7% | consensus 1.70% | previous 1.50%
+
+---
+
+### 2026-07-24 07:30:00  #MKT News #Economic Calendar #Important
+
+Japan | Core CPI (YoY) (Jun) | actual 1.6% | consensus 1.60% | previous 1.40%
+
+---
+
+### 2026-07-24 07:29:49  #其他
+
+【英國政府啟用“北方唐寧街10號” 】英國首相府23日發表宣告宣佈，在英格蘭西北部城市曼徹斯特啟用“北方唐寧街10號”，首相伯納姆及其他內閣大臣今後將定期在此辦公。宣告稱，此舉旨在改變英國經濟決策僅由位於倫敦的中央政府作出的局面。宣告說，“北方唐寧街10號”目前位於曼徹斯特市中心的赫倫大廈，將統籌地方經濟發展和分權政策。伯納姆24日將在此主持重啟後的國家經濟委員會首次會議，高階內閣成員和英格蘭各地區市長將出席。宣告稱，伯納姆預計今後每週都會到曼徹斯特辦公。
+
+---
+
+### 2026-07-24 07:29:34  #國際
+
+【俄稱打擊烏軍用港口 烏稱擊退俄軍進攻】俄羅斯國防部23日通報，俄軍已控制頓涅茨克地區別利茨科耶居民點。過去一天，俄軍動用航空兵、無人機及導彈炮兵部隊，打擊烏軍無人機生產儲存設施、燃料能源基建、人員部署點等目標，並持續對敖德薩等烏軍用港口實施打擊。俄軍防空系統當天擊落多枚制導炸彈、美製火箭彈及480架無人機。烏克蘭武裝部隊總參謀部同日釋出戰況，過去24小時前線共發生261次戰鬥，烏軍在多個方向擊退俄軍進攻，同時打擊俄軍多處人員集結區與關鍵軍事目標。烏空軍稱，俄軍當日動用導彈及上百架無人機發動襲擊，烏防空系統攔截大部分來襲目標。
+
+---
+
+### 2026-07-24 07:28:53  #宏觀
+
+【促消費有了“路線圖” 券商首席經濟學家認為穩就業增收入是關鍵抓手】近日，國務院批覆併發布《擴大消費“十五五”規劃》（下稱《規劃》）。作為消費領域首份國家級專項規劃，這一檔案的出臺進一步明確了消費在經濟發展全域性中的戰略定位。多家券商的首席經濟學家在接受證券時報記者採訪時表示，《規劃》推動促消費政策由短期刺激向中長期制度建設轉變，有助於穩定市場預期、釋放居民消費潛力，為經濟增長動能轉換和高質量發展夯實內需基礎。與此同時，首席經濟學家們認為，居民就業和收入預期偏弱、預防性儲蓄意願較強、服務消費供給不足等問題仍待破解。下一階段，擴大消費應以穩就業、增收入為核心抓手，加快完善社會保障體系，最佳化消費供給，推動居民“有錢消費、敢於消費、願意消費”。
+
+---
+
+### 2026-07-24 07:28:24  #MKT News
+
+Iran's state broadcaster reported explosions heard on the southern shore of Qeshm Island.
+
+---
+
+### 2026-07-24 07:27:44  #公司 #市場
+
+【碳酸亞乙烯酯（VC）近一週價格上漲超21%】百川盈孚資料顯示，7月23日，碳酸亞乙烯酯（VC）均價報20萬元/噸，單日漲價2萬元/噸，漲幅11.11%，近一週累計漲幅超過21%，最新價格已超過去年12月17.5萬元/噸的高點，時隔4年多再度站上20萬元/噸。據悉，本輪VC價格走高，主要由於強國標及儲能需求提振，行業庫存見底，電池巨頭提前鎖單等影響。A股中，擁有VC相關產能的上市公司合計有十多家。其中，華盛鋰電目前擁有VC產能1.4萬噸，富祥股份擬將VC年產能從8000噸提升至1萬噸，泰和科技VC專案一期的設計產能為年產1萬噸，孚日股份VC精製產能是1萬噸。此外，新宙邦、海科新源擁有產能約1萬噸，宏源藥業、海辰藥業分別擁有產能7000噸、6000噸。
+
+---
+
+### 2026-07-24 07:27:43  #央行 #美聯儲
+
+【美聯儲到9月累計加息25個基點的機率為57%】據CME“美聯儲觀察”，美聯儲7月維持利率不變的機率為65.3%，累計加息25個基點的機率為34.7%；美聯儲到9月維持利率不變的機率為17.6%，累計加息25個基點的機率為57%，累計加息50個基點的機率為25.4%；美聯儲到12月維持利率不變的機率為7.6%，累計加息25個基點的機率為32.4%，至少加息50個基點的機率為60%。
+
+---
+
+### 2026-07-24 07:27:31  #公司 #國際
+
+伊朗國家廣播公司：格什姆島南岸傳出爆炸聲。
+
+---
+
+### 2026-07-24 07:27:21  #公司
+
+【美洲開發銀行批准 2.04 億美元玻利維亞亞馬遜能源專案】玻利維亞發展規劃部透過簡訊釋出宣告稱，美洲開發銀行已批准總額 2.042 億美元的一攬子融資方案，用於支援玻利維亞北部亞馬遜地區的能源轉型工作。該專案資金將用於電力基礎設施升級及可再生能源專案建設，降低當地對柴油發電的依賴。本次投資預計將惠及貝尼省、潘多省下轄三座城市及偏遠社群的約 20.9 萬名民眾。
+
+---
+
+### 2026-07-24 07:25:59  #其他
+
+巴西將汽油補貼延長30天。
+
+---
+
+### 2026-07-24 07:25:40  #公司
+
+【AMD蘇姿豐：預計到2030年AI加速器市場將達到1.4萬億美元】AMD CEO蘇姿豐在AMD Advancing AI大會上表示，預計到2030年，資料中心人工智慧加速器市場潛在規模將達到1.4萬億美元，從2025年至2030年的年複合成長率達45%。
+
+---
+
+### 2026-07-24 07:25:25  #Trading Economics #Economy #United States #Balance of Trade #Importance 1
+
+U.S. Sets 10%-12-1/2% Import Tariffs on 60 Trading Partners — The Trump administration announced new tariffs of 10% to 12.5% on imports from about 60 U.S. trading partners, replacing the temporary 10% Section 122 tariffs that expire Friday. The new duties will apply to nearly all U.S. imports, with the administration arguing that the targeted countries have failed to adequately prohibit or enforce restrictions on goods produced with forced labor. Economies with partial bans on forced labor or commitments to strengthen them, including the UK, Canada, Mexico, and India, will face 10% tariffs. Meanwhile, countries deemed to have insufficient safeguards, such as China, South Korea, and Japan, will be subject to 12-1/2% duties. Products already covered by sector-specific or national security-related tariffs are exempt. The move reflects the administration's broader strategy to restore its global tariff agenda after the Supreme Court struck down its earlier tariff framework in February.
+
+---
+
+### 2026-07-24 07:25:05  #宏觀 #國際
+
+【 韓國將繼續與美國財政部在外匯市場開展合作 】 韓國財政部在一份宣告中表示，韓國政府將與美國財政部密切溝通，增進雙方在外匯市場上的相互瞭解和信任。該部表示，將繼續合作穩定外匯市場。此前，美國財政部將韓國繼續列入貨幣監測名單。
+
+---
+
+### 2026-07-24 07:24:32  #國際
+
+【 美軍稱連續第13晚空襲伊朗 】 當地時間7月23日，美軍中央司令部表示，美軍於美東時間當天18時45分開始針對伊朗軍事目標的新一輪打擊。美軍中央司令部稱，這是美軍連續第13晚對伊朗發動空襲，旨在“削弱伊朗伊斯蘭革命衛隊對商業航運構成的威脅”。（央視）
+
+---
+
+### 2026-07-24 07:23:59  #MKT News #Market Themes #AI Revolution
+
+OpenAI president Brockman said the company's goal is to provide the lowest-cost model that can perform any task users require.
+
+---
+
+### 2026-07-24 07:23:23  #公司 #市場 #觀點
+
+【全球燃機行業景氣度高企 產業鏈公司出海加速跡象顯著】 全球電力結構轉型與算力基建擴張共同推升燃氣輪機需求，行業龍頭公司訂單爆滿、產能供給不足，行業長期供需缺口明確。在此背景下，國內燃機產業鏈迎來海外市場增量視窗，本土企業大額海外訂單落地，板塊上市公司業績與估值有望同步修復。產業鏈公司出海加速跡象顯著。早前，傑瑞股份釋出公告稱，其控股子公司與某國際知名雲服務提供商簽署了燃氣輪機發電機組供應合同，並接受了高達14.65億美元（約合99.5億元）的採購訂單。光大證券梳理了燃氣輪機國產產業鏈，合計有14家A股公司入選。從年內股價表現來看，傑瑞股份今年以來股價漲幅超90%，居首；萬澤股份和東方電氣股價均上漲超過14%。
+
+---
+
+### 2026-07-24 07:23:23  #Trading Economics #Economy #United Kingdom #Consumer Confidence #Importance 1
+
+UK Consumer Confidence Improves in July — The UK GfK Consumer Confidence Index rose to -17 in July 2026, exceeding market expectations of -21 and up from -23 in the previous month. The latest figure also marked the highest level since January and the largest monthly improvement since November 2023, driven by optimism surrounding Andy Burnham's appointment as prime minister, hopes for easing Middle East tensions at the start of the month, and a boost from the summer weather and the FIFA World Cup. Households' assessment of the economy over the past year improved by 10 points to -39, the strongest reading since late 2024, while expectations for the next 12 months climbed 8 points to -28, the highest since October 2024. Intentions to make major purchases also increased by 8 points to -12, the strongest level this year. However, the survey was conducted before the latest escalation in the Middle East, which could weigh on confidence going forward.
 
 ---
 
@@ -21767,742 +22121,5 @@ Tesla (TSLA.O) CEO Elon Musk said he expects the Semi truck to be equipped with 
 ### 2026-07-23 06:18:20  #國際
 
 【美國眾議院透過法案 限制議員買賣股票】據Politico，美國眾議院週三透過了一項法案，旨在限制國會議員及其家屬買賣股票；然而，由於部分民主黨人認為該法案的力度不足，黨內對此產生了分歧。這項名為《停止內幕交易法案》的議案是首個在眾議院全體會議上進行表決的國會股票交易禁令法案，最終以232票對198票獲得透過，其中有13名民主黨議員投了贊成票。在總共93名聯署該法案的議員中，只有兩名是民主黨人。另一項限制力度更大的法案——要求議員及其家屬出售目前個人持有的股票——雖然獲得了更廣泛的兩黨支援，卻未能進入眾議院全體會議表決程式。多數民主黨人認為已透過的這項措施力度不夠，因為它未包含強制出售現有持股的規定。該法案將提交給參議院審議。
-
----
-
-### 2026-07-23 06:18:16  #MKT News #Important
-
-【U.S. House passes bill limiting lawmakers' stock trades】According to Politico, the U.S. House on Wednesday passed the Stop Insider Trading Act, restricting members of Congress and their families from trading individual stocks. The measure cleared the floor 232-198, with 13 Democrats voting yes; only two of the bill's 93 cosponsors are Democrats. Many House Democrats said the bill is too weak because it does not require lawmakers to sell existing holdings. A separate, tougher bill that would force divestiture had broader bipartisan support but never reached the floor. The Stop Insider Trading Act now goes to the Senate for consideration.
-
----
-
-### 2026-07-23 06:16:52  #公司
-
-【麥格理執行長Wikramanayake準備退休 Greg Ward將接班】麥格理集團週四發表宣告稱，執行長Shemara Wikramanayake即將退休。該公司已決定，現銀行和金融服務負責人Greg Ward在獲得必要的批准後接班。
-
----
-
-### 2026-07-23 06:16:33  #公司
-
-【短期震盪創造“擊球區”，頭部私募逢低加倉“靜待花開”】市場波動下，頭部私募並未採取單一防守策略。記者近日採訪獲悉，在7月以來科技板塊快速調整的過程中，部分機構逢低佈局優質成長資產，部分機構則透過降低高位板塊倉位、增加低位方向配置提升組合韌性。與此同時，截至7月22日，當月已有24傢俬募釋出自購公告，自購金額接近14億元。多傢俬募機構人士表示，科技產業的長期發展趨勢並未發生改變，在本輪調整“去偽存真”後，結構性機會正在顯現，具備產業趨勢支撐和業績兌現能力的優質資產迎來“擊球區”。（上證報）
-
----
-
-### 2026-07-23 06:15:41  #公司
-
-【超節點建設週期開啟 國產光互連生態加速結盟】7月22日，中際旭創啟動港股招股，預計募資545億港元，用於光互連產品研發、全球產能擴充等。7月15日，仕佳光子披露28億元定增預案，擬募資加碼光互連元件建設等專案。光互連，這個一年前還略顯生僻的技術詞彙，正成為算力產業鏈最擁擠的賽道之一。熱潮背後，是AI（人工智慧）產業演進帶來的剛性需求。隨著AI步入推理時代，萬億引數大模型持續迭代、超節點建設週期開啟，光互連技術具備高頻寬、低功耗、高並行、可拓展等優勢備受關注。當前國產光互連生態正在結盟產業鏈上下游廠商，上市公司也持續加碼矽光賽道。(證券時報)
-
----
-
-### 2026-07-23 06:15:32  #市場
-
-【實探MLCC產業鏈：訂單大增產能拉滿 上游原料擴產競速】近期，MLCC（多層片式陶瓷電容器‌）板塊在二級市場股價劇烈波動，相關訊息魚龍混雜。產業鏈是真實景氣還是虛火一場？供需關係究竟如何，景氣度能否延續？帶著這些問題，記者走訪源頭廠商，向產業鏈核心企業與業內人士深入求證。調研反饋顯示，當前MLCC供需格局偏緊，主力企業產線滿載，出廠價未見鬆動；上游材料商作為“賣鏟人”訂單充沛，有企業表示已被客戶提前鎖定4倍於現有產能的擴產線，未來數年銷售無憂。(證券時報)
-
----
-
-### 2026-07-23 06:15:23  #公司
-
-【冷板先行浸沒蓄勢 液冷產業鏈業績分化明顯】隨著算力新基建超節點密集湧現，其背後的液冷技術關注度升溫。A股液冷產業鏈公司披露的2026年半年度業績預告顯示，冷板式液冷零部件供應商業績兌現明顯，而浸沒式液冷及資料中心運營配套環節仍處投入爬坡期，行業呈現出“技術熱”與“業績分化”並存的特徵。冷板式液冷環節，多家企業上半年淨利潤實現同比大幅增長。相比之下，涉足液冷但主業承壓或配套業務仍在投入期的企業，業績表現偏弱。總體而言，業績分化格局印證了行業普遍判斷，冷板式液冷產業鏈更加成熟，正從主題炒作進入訂單與業績兌現階段，液冷產品已批次交付的企業普遍實現業績高增；而浸沒式液冷及配套的資料中心運營環節，正如2026WAIC展臺上多數廠商仍將其定位為“技術儲備”一樣，仍處於工程化驗證與產能投入的早期階段，業績兌現仍需時間。(證券時報)
-
----
-
-### 2026-07-23 06:15:02  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Increases by 0.59% — Top currency gainers are Brazilian Real (0.59%), Norwegian Krone (0.48%), South Korean Won (0.34%) and Euro (0.08%). Biggest losers are Indian Rupee (-0.35%), New Zealand Dollar (-0.26%) and Swiss Franc (-0.25%). Meanwhile, British Pound, Japanese Yen and Dollar Index were little changed.
-
----
-
-### 2026-07-23 06:14:41  #觀點
-
-【多家外資機構發聲看好A股市場看多中國股票】近日，在全球股票市場顯著回撥、A股市場波動加劇的背景下，外資機構密集釋出觀點，明確看好中國股市下半年表現。花旗將中國股票評級上調至“超配”，並將中國市場視為新興市場資本輪動的首選目標；渣打亦維持對中國股票市場的超配立場。外資機構一致看多的背後，是上半年中國宏觀經濟所展現出的韌性，以及人工智慧、生物科技等創新領域持續釋放的吸引力。（上證報）
-
----
-
-### 2026-07-23 06:13:04  #國際
-
-【美軍稱開始對伊朗軍事目標發起新一輪打擊】當地時間7月22日，美國中央司令部在社交媒體發文稱，美國東部時間當天下午5時30分，美軍開始對伊朗軍事目標發動新一輪打擊。(央視新聞)
-
----
-
-### 2026-07-23 06:12:43  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7
-
-Tesla (TSLA.O) CEO Elon Musk said areas of overlap between Tesla and SpaceX are increasing. He said he could not discuss any merger of the two companies on the earnings call.
-
----
-
-### 2026-07-23 06:12:39  #公司 #焦點 #國際
-
-特斯拉CEO埃隆·馬斯克： 其無法在財報電話會議上討論特斯拉與 SpaceX 合併相關事宜。
-
----
-
-### 2026-07-23 06:12:21  #公司
-
-特斯拉CEO埃隆·馬斯克： 特斯拉與SpaceX之間業務重合的領域正持續增多。
-
----
-
-### 2026-07-23 06:12:09  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【WSJ: US rushes forces, medics and equipment to Middle East to give Trump more options against Iran】The Wall Street Journal, citing flight-tracking data and US officials, reports the US is urgently deploying troops, medical personnel and equipment to the Middle East to expand military options as President Trump considers broader action against Iran. Over the past week special operations forces have been moved from US bases to the region. Multiple fighter squadrons have completed deployments across the Middle East and bombers at US and UK bases are on high alert to reinforce operations. More than 150 medical personnel arrived in recent days at Landstuhl Regional Medical Center in Germany, the primary treatment facility for US personnel wounded in Middle Eastern combat.
-
----
-
-### 2026-07-23 06:10:32  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-Tesla (TSLA.O) CEO Elon Musk said he expects demand for fully autonomous robotaxis will not face any challenges.
-
----
-
-### 2026-07-23 06:10:25  #公司
-
-特斯拉CEO埃隆·馬斯克： 公司預計Robotaxi 不會面臨需求不足的問題。
-
----
-
-### 2026-07-23 06:08:53  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
-
-WTI crude up more than 2.00% intraday at $88.64/bbl.
-
----
-
-### 2026-07-23 06:08:47  #MKT News #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #Tesla #MU.O #Impact bullish
-
-Tesla (TSLA.O) CEO Elon Musk said Micron offered a substantial allocation of memory chips on reasonable terms.
-
----
-
-### 2026-07-23 06:08:43  #其他
-
-馬斯克表示身體不適，在回答有關供應商滿足Optimus需求的問題時稱自己“今天有點病”。
-
----
-
-### 2026-07-23 06:08:22  #公司
-
-特斯拉CEO埃隆·馬斯克： 美光以合理的供貨條件向特斯拉供應了數量可觀的儲存晶片配額。
-
----
-
-### 2026-07-23 06:06:40  #公司
-
-特斯拉CEO埃隆·馬斯克：美光已向特斯拉分配記憶體晶片供貨額度。
-
----
-
-### 2026-07-23 06:06:22  #國際
-
-【美伊衝突已致美軍18人死亡482人受傷】當地時間7月22日獲悉，美國國防部公佈了美伊衝突中最新的傷亡資料，顯示共有18名美軍人員死亡，至少482人在行動中受傷。（央視新聞）
-
----
-
-### 2026-07-23 06:05:28  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-CENTCOM said the US military launched a new round of strikes on Iranian military targets at 5:30 p.m. ET today. The action is intended to further degrade Iran's ability to threaten civilian mariners and commercial shipping in regional waters.
-
----
-
-### 2026-07-23 06:05:05  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-CENTCOM said the US military launched a new round of strikes against Iran on Wednesday.
-
----
-
-### 2026-07-23 06:04:53  #焦點 #國際
-
-美國中央司令部：美軍於週三對伊朗發起新一輪打擊行動。
-
----
-
-### 2026-07-23 06:03:59  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-Tesla (TSLA.O) VP of AI business expects the time needed to roll out Robotaxi to additional cities will continue to shorten.
-
----
-
-### 2026-07-23 06:03:33  #公司
-
-特斯拉人工智慧副總裁表示，未來 Robotaxi 自動駕駛計程車拓展至新城市的落地週期將持續縮短。
-
----
-
-### 2026-07-23 06:03:14  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact mixed
-
-Tesla (TSLA.O) CFO said the company will opportunistically raise up to $30 billion in debt financing to step up investment across various projects.
-
----
-
-### 2026-07-23 06:01:37  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold opened about $10 lower, slipped below $4,120/oz and was down 0.29% on the day.
-
----
-
-### 2026-07-23 06:01:26  #公司
-
-特斯拉CFO： 公司將擇機籌措最高 300 億美元債務融資，用以加碼各類投資專案。
-
----
-
-### 2026-07-23 06:01:01  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
-
-WTI crude futures opened up about 1.3% after Houthi militants said they struck a Saudi oil tanker.
-
----
-
-### 2026-07-23 06:00:37  #市場 #焦點
-
-現貨黃金失守4120美元/盎司，日內跌0.25%。
-
----
-
-### 2026-07-23 06:00:20  #市場 #焦點
-
-紐約期金突破4120美元/盎司，日內跌0.75%。
-
----
-
-### 2026-07-23 06:00:20  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Houthis say they attacked two Saudi oil tankers, warn of larger strikes inside Saudi】Yemen’s Houthi movement said on the 23rd it attacked two Saudi oil tankers, Encelia and Layla, using ballistic missiles, cruise missiles and drones in retaliation for what it called a Saudi blockade and to enforce a previously announced Red Sea shipping ban. The group said both vessels caught fire and it forced about 10 ships to turn back. It said it will continue maritime military operations and follow its “blockade for blockade” measures, and warned that any new Saudi military action in Yemen would prompt larger strikes on targets inside Saudi Arabia.
-
----
-
-### 2026-07-23 06:00:18  #市場 #焦點
-
-紐約期金突破4110美元/盎司，日內跌0.95%。
-
----
-
-### 2026-07-23 06:00:17  #央行 #國際
-
-【美聯儲7月維持利率不變的機率65.3%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為65.3%，累計加息25個基點的機率為34.7%。 美聯儲到9月維持利率不變的機率為22%，累計加息25個基點的機率為54.9%，累計加息50個基點的機率為23%。
-
----
-
-### 2026-07-23 06:00:14  #市場
-
-WTI原油日內漲1%，現報87.76美元/桶。
-
----
-
-### 2026-07-23 06:00:12  #市場 #焦點
-
-紐約期金突破4100美元/盎司，日內跌1.15%。
-
----
-
-### 2026-07-23 06:00:11  #市場
-
-鈀金期貨日內跌1%，現報1295.00美元/盎司。
-
----
-
-### 2026-07-23 06:00:05  #市場
-
-紐約期銀日內跌2%，現報59.09美元/盎司。
-
----
-
-### 2026-07-23 06:00:04  #市場 #焦點
-
-紐約期金突破4090美元/盎司，日內跌1.44%。
-
----
-
-### 2026-07-23 06:00:03  #市場
-
-紐約期金日內跌1%，現報4089.30美元/盎司。
-
----
-
-### 2026-07-23 06:00:02  #市場 #焦點
-
-紐約期銀突破60美元/盎司，日內跌1.55%。
-
----
-
-### 2026-07-23 06:00:02  #市場
-
-紐約期銀日內跌1%，現報59.37美元/盎司。
-
----
-
-### 2026-07-23 05:58:17  #國際
-
-科威特軍方：防空系統當前正在攔截具有威脅的伊朗敵方無人機。
-
----
-
-### 2026-07-23 05:58:00  #MKT News #Brent #Impact bullish #WTI
-
-Kuwait's military said its air-defence systems are currently intercepting "hostile" Iranian drone threats.
-
----
-
-### 2026-07-23 05:56:36  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
-
-Tesla (TSLA.O) CFO says negative free cash flow will widen in H2 2026.
-
----
-
-### 2026-07-23 05:55:58  #公司
-
-特斯拉CFO： 2026 年下半年公司自由現金流缺口將進一步擴大。
-
----
-
-### 2026-07-23 05:55:09  #MKT News #TSLA.O #Impact mixed
-
-Tesla (TSLA.O) CFO says capex will rise over the next two to three years.
-
----
-
-### 2026-07-23 05:54:40  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
-
-Tesla (TSLA.O) CFO expects operating expenses, chiefly R&D-driven, to continue rising in 2026 and beyond.
-
----
-
-### 2026-07-23 05:54:39  #公司 #其他 #焦點 #國際
-
-特斯拉仍預計 2026 年資本支出將超 250 億美元。
-
----
-
-### 2026-07-23 05:54:04  #公司
-
-特斯拉CFO： 公司運營開支主要由研發投入推動，預計 2026 年及以後該費用將持續增長。
-
----
-
-### 2026-07-23 05:53:54  #MKT News #Commodities #Energy #Market Regions #Europe & UK #WTI #Impact mixed #Brent
-
-【EU near agreement on new Russia sanctions; gas shipping to be exempted】EU member states are poised to approve a sanctions package that would allow Greek shipowner Dynagas to continue transporting Russian liquefied natural gas (LNG) to third countries for 12 months, renewable; the deal requires approval by EU27 representatives on Thursday. LNG shipments would be capped at 2025 levels. The package would also extend a $44.10-per-barrel price cap on Russian oil for one year to limit Moscow's fossil-fuel revenue.
-
----
-
-### 2026-07-23 05:53:52  #MKT News #Star Stocks #Tesla #Commodities #Energy #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
-
-Tesla (TSLA.O) CFO said the energy business is "inherently lumpy" and deployment pace depends on customers' timing.
-
----
-
-### 2026-07-23 05:53:28  #其他
-
-特斯拉CFO： 儲能業務業績天然存在階段性波動，專案落地進度取決於客戶的時間規劃。
-
----
-
-### 2026-07-23 05:53:23  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-Tesla (TSLA.O) CFO said Model Y set Q2 sales records in key markets including the Netherlands, Australia and New Zealand.
-
----
-
-### 2026-07-23 05:52:28  #其他
-
-特斯拉CFO： 二季度 Model Y 在荷蘭、澳大利亞、紐西蘭等核心市場銷量創下新高。
-
----
-
-### 2026-07-23 05:51:18  #MKT News #WTI #Impact bullish #Brent
-
-【Houthi militants say they attacked two Saudi oil tankers in Red Sea】Houthi militants said in the early hours of the 23rd local time they attacked two Saudi oil tankers in the Red Sea, claiming the vessels violated the group's recently announced maritime embargo.
-
----
-
-### 2026-07-23 05:51:14  #其他
-
-【葉門胡塞武裝稱襲擊兩艘沙特油輪】葉門胡塞武裝當地時間23日凌晨表示已在紅海襲擊兩艘沙特油輪，並稱這兩艘油輪違反該組織近期宣佈的海上禁運令。（新華社）
-
----
-
-### 2026-07-23 05:50:55  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
-
-Tesla (TSLA.O) CFO said production growth will be constrained by battery and electronic-component supply chains.
-
----
-
-### 2026-07-23 05:49:51  #其他
-
-特斯拉CFO： 電池與電子零部件供應鏈將制約產能增長。
-
----
-
-### 2026-07-23 05:49:25  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-Tesla (TSLA.O) CFO said the order backlog at the end of Q2 was the highest since 2023.
-
----
-
-### 2026-07-23 05:49:06  #公司 #焦點 #國際
-
-特斯拉CFO：二季度末電動汽車在手訂單量創下 2022 年以來新高。
-
----
-
-### 2026-07-23 05:45:18  #公司
-
-特斯拉CEO埃隆·馬斯克： 公司將佈局一批 “高風險、高回報” 的 AI 晶片專案，研發重心主要服務於 Optimus 人形機器人。
-
----
-
-### 2026-07-23 05:44:59  #MKT News #Star Stocks #Tesla #Market Themes #Chip Wars #Magnificent 7 #TSLA.O #Impact bullish #AMAT.O #LRCX.O
-
-Tesla CEO Elon Musk said he has ordered equipment for a wafer fab under development in Austin, Texas.
-
----
-
-### 2026-07-23 05:44:57  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O
-
-Tesla CEO Elon Musk said he will announce Terafab's site selection "soon".
-
----
-
-### 2026-07-23 05:44:54  #公司
-
-特斯拉CEO埃隆·馬斯克： 已為奧斯汀自研晶片工廠下達裝置採購訂單。
-
----
-
-### 2026-07-23 05:44:26  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-Tesla CEO Musk said the TeraFab chip fabrication facility is critical to scaling production of Optimus.
-
----
-
-### 2026-07-23 05:44:25  #公司
-
-特斯拉CEO埃隆·馬斯克：想要實現 Optimus 規模化量產，就必須落地 Terafab 晶片製造工廠。
-
----
-
-### 2026-07-23 05:42:50  #MKT News #Important #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
-
-Tesla (TSLA.O) after-hours losses widened to 5% after Elon Musk said scaling production of the Optimus robot will face difficulties.
-
----
-
-### 2026-07-23 05:42:44  #公司
-
-特斯拉CEO埃隆·馬斯克： Optimus 將是首款可應用於日常生活、具備實用價值的人形機器人。
-
----
-
-### 2026-07-23 05:42:29  #公司
-
-特斯拉CEO埃隆·馬斯克：“很快”就會宣佈Terafab的選址。
-
----
-
-### 2026-07-23 05:41:39  #MKT News #Market Regions #Europe & UK
-
-UK Prime Minister Burnham appoints Jo White as Parliamentary Under-Secretary of State at the Home Office.
-
----
-
-### 2026-07-23 05:40:29  #MKT News #Star Stocks #TSLA.O #Impact bearish
-
-Tesla CEO Elon Musk said scaling production of the Optimus robot will be difficult.
-
----
-
-### 2026-07-23 05:39:51  #公司 #焦點 #國際
-
-特斯拉CEO埃隆·馬斯克： Optimus 人形機器人將是特斯拉最難量產擴產的產品。
-
----
-
-### 2026-07-23 05:39:22  #MKT News #TSLA.O #Impact bullish
-
-Tesla CEO Elon Musk said he expects demand to rise as FSD gains approval in additional countries.
-
----
-
-### 2026-07-23 05:39:20  #公司
-
-特斯拉CEO埃隆·馬斯克：隨著FSD陸續獲得各國監管批准，市場需求將進一步攀升。
-
----
-
-### 2026-07-23 05:38:39  #MKT News #Commodities #Energy
-
-Financial Times: Under an EU sanctions package targeting Moscow set to be agreed, Greek shipper Dynagas will be permitted to continue transporting Russian liquefied natural gas (LNG).
-
----
-
-### 2026-07-23 05:38:32  #MKT News #Commodities #Energy #Brent #Impact bearish #EURUSD #Impact bullish
-
-Financial Times reports that as the EU prepares to finalize a new sanctions package, transportation of Russian gas will continue to be exempt.
-
----
-
-### 2026-07-23 05:38:02  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-Tesla CEO Elon Musk said the company is confident current spending will deliver its best capex returns to date.
-
----
-
-### 2026-07-23 05:37:58  #公司
-
-特斯拉CEO埃隆·馬斯克：公司將持續快速擴大Robotaxi運營規模，特斯拉需謹慎對待事故。
-
----
-
-### 2026-07-23 05:37:37  #國際
-
-市場訊息：歐盟即將達成新一輪制裁協議，俄羅斯天然氣貨運仍將獲得豁免。
-
----
-
-### 2026-07-23 05:37:18  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-Tesla CEO Elon Musk said this year will be a year of significant capex.
-
----
-
-### 2026-07-23 05:36:42  #公司
-
-特斯拉CEO埃隆·馬斯克：FSD是車輛銷售的一個“重大需求推手”。
-
----
-
-### 2026-07-23 05:36:40  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-Tesla CEO Elon Musk said the company's "FSD" subscription service is an important driver of demand.
-
----
-
-### 2026-07-23 05:36:31  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-Tesla CEO Elon Musk said production of semi-trailer trucks has begun.
-
----
-
-### 2026-07-23 05:36:28  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Houthis in Yemen said they struck two Saudi oil tankers, ENCELA and LAYLIA, using ballistic missiles, cruise missiles and drones.
-
----
-
-### 2026-07-23 05:36:19  #公司
-
-特斯拉CEO埃隆·馬斯克： Semi 電動半掛卡車已投產。
-
----
-
-### 2026-07-23 05:35:30  #公司 #焦點 #國際
-
-特斯拉CEO埃隆·馬斯克：特斯拉仍計劃迎來 “大額資本開支年”。
-
----
-
-### 2026-07-23 05:34:18  #其他
-
-Alphabet： 獨立整機 TPU 產品市場需求旺盛。
-
----
-
-### 2026-07-23 05:33:53  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Yemeni Houthi forces said the Saudi tanker they attacked violated a maritime blockade the group had imposed.
-
----
-
-### 2026-07-23 05:31:51  #MKT News #Star Stocks #Tesla #Alphabet #Market Themes #Magnificent 7 #MU.O #Impact bullish #TSLA.O #Impact bearish #GOOGL.O
-
-US-listed SK Hynix (SKHY.O) rose 4.5% in after-hours trading; Micron Technology (MU.O) up 2%; Tesla (TSLA.O) down 3%; Alphabet A (GOOGL.O) down 4%.
-
----
-
-### 2026-07-23 05:31:15  #其他 #焦點 #國際
-
-葉門胡塞武裝：襲擊了兩艘沙特油輪。
-
----
-
-### 2026-07-23 05:31:03  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-Yemen's Houthi militants said they attacked two Saudi oil tankers.
-
----
-
-### 2026-07-23 05:30:13  #國際
-
-伊朗法爾斯通訊社：布什爾周邊區域傳來兩聲爆炸巨響。
-
----
-
-### 2026-07-23 05:30:02  #MKT News #Brent #Impact bullish #WTI
-
-Iranian outlet Fars News reported two explosions were heard near Bushehr.
-
----
-
-### 2026-07-23 05:29:53  #其他
-
-Alphabet：旺盛需求將推動 2027 年算力產能相關投資。
-
----
-
-### 2026-07-23 05:29:30  #MKT News #IBM.O
-
-IBM CFO said Q3 revenue growth is expected to be in line with the full-year trend.
-
----
-
-### 2026-07-23 05:29:03  #公司
-
-Alphabet：收購Wiz對谷歌雲利潤構成拖累。
-
----
-
-### 2026-07-23 05:27:33  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish
-
-【Alphabet Q2 investment gains $98.0 bln lift net profit to $116.9 bln, EPS $9.11 vs $2.90 est】Alphabet reported $98.0 billion of investment gains in Q2, which it said were "primarily from unrealized net gains on equity securities." The gains helped drive EPS of $9.11, well above the $2.90 analyst consensus, and net income of $116.86 billion. Alphabet holds a large stake in SpaceX; SpaceX's IPO last month was the largest on record. Alphabet is also a major investor in AI startup Anthropic, which could IPO as early as October. Elon Musk liked the earnings report on social media.
-
----
-
-### 2026-07-23 05:26:02  #其他
-
-巴拿馬運河正密切監測天氣狀況，7 月強厄爾尼諾現象發生機率已從 4 月的 25% 升至 81%。
-
----
-
-### 2026-07-23 05:25:38  #公司 #市場 #焦點 #國際
-
-【AI基礎設施概念股盤後大漲，谷歌母公司在電話會上談及產能擴張】週三美股盤後，與人工智慧（AI）基礎設施相關的公司股票集體走高。此前，谷歌母公司Alphabet在財報電話會議上表示，公司計劃在第三季度擴大對第三方算力容量的使用。
-在算力租賃商（Neoclouds）方面，CoreWeave上漲3.7%，Nebius上漲5.4%。
-儲存晶片股方面，閃迪漲3%，美光漲2.9%，西部資料漲2%，SK海力士（SK Hynix）ADR漲3.7%。
-半導體板塊方面，iShares半導體ETF漲0.9%。
-光通訊股方面，Lumentum上漲3.4%，Applied Optoelectronics上漲4%。
-Alphabet業績報告顯示，公司雲業務積壓訂單（Backlog）增至5140億美元，較上一季度的約4600億美元顯著增長。強勁的業績“主要由對AI基礎設施和AI解決方案的強勁需求驅動”。
-
----
-
-### 2026-07-23 05:24:13  #其他
-
-巴拿馬運河去年 10 月至本年 6 月船舶通行量同比上漲 5.2%，總量達 10726 艘次。
-
----
-
-### 2026-07-23 05:23:18  #其他
-
-IBM 首席財務官：AI 相關業務佔諮詢簽約總額超五成，在手訂單儲備佔比逾三成。
-
----
-
-### 2026-07-23 05:18:15  #其他
-
-Alphabet：將加快 AI 模型的釋出節奏。
-
----
-
-### 2026-07-23 05:17:40  #公司
-
-Alphabet： 公司正將 AI 算力資源集中投入 Gemini 4 的研發訓練。
-
----
-
-### 2026-07-23 05:17:18  #國際
-
-伊朗邁赫爾通訊社：美軍襲擊擊中伊朗拉姆希爾附近一處瀝青倉庫。
-
----
-
-### 2026-07-23 05:15:32  #市場
-
-富時A50期指連續夜盤收漲0.31%，報15203點。
-
----
-
-### 2026-07-23 05:12:49  #MKT News #Important #Brent #Impact bullish #WTI
-
-【Tanker attacked 70 nautical miles off Saudi coast】UK Maritime Trade Operations received a report of an incident 70 nautical miles from Al Shuqaiq, Saudi Arabia. The tanker’s master reported the vessel was struck by an unspecified projectile and caught fire; crew are fighting the blaze.
-
----
-
-### 2026-07-23 05:12:23  #其他 #焦點 #國際
-
-英國海上貿易行動辦公室（UKMTO）：一艘油輪船長報告船隻遭不明投射物擊中，船體已起火，船員正在全力滅火。暫無人員傷亡報告，也未造成環境影響。
-
----
-
-### 2026-07-23 05:12:05  #公司
-
-Alphabet：谷歌正全力訓練 Gemini 4 大模型。
-
----
-
-### 2026-07-23 05:11:05  #MKT News #Market Themes #Chip Wars #INTC.O #Impact bullish
-
-Semafor reports Intel is seeking an operating partner for its Ohio chip fab; SK Hynix is considering a partnership with Intel.
-
----
-
-### 2026-07-23 05:10:35  #MKT News #Market Themes #AI Revolution #IBM.O #Impact bullish
-
-Anthropic CEO said Mythos could create a potential tens-of-billions-of-dollars TAM for IBM and Red Hat.
-
----
-
-### 2026-07-23 05:10:32  #公司
-
-Anthropic 執行長表示，旗下 Mythos 大模型為 IBM 與紅帽開闢了規模達數十億美元的潛在市場空間（TAM）。
-
----
-
-### 2026-07-23 05:10:06  #公司 #其他 #國際
-
-市場訊息：英特爾正為俄亥俄州晶片工廠尋找運營合作方，SK 海力士是合作候選企業之一。
-
----
-
-### 2026-07-23 05:09:13  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Mehr news agency, citing Khuzestan provincial officials, said a site near Ahvaz was struck by US missiles.
-
----
-
-### 2026-07-23 05:08:44  #焦點 #國際
-
-伊朗邁赫爾通訊社援引胡齊斯坦省官員訊息稱，美國發動導彈襲擊，目標位於阿瓦士附近區域。
-
----
-
-### 2026-07-23 05:08:08  #公司
-
-IBM 執行長：儘管第二季度表現承壓，但 Z17 大型機正迎來史上最強銷售週期。
-
----
-
-### 2026-07-23 05:07:22  #公司 #市場
-
-【大型機銷量下滑 IBM下調全年財測】國際商業機器公司（IBM）報告大型機業務需求下降後下調了全年營收展望，其中包括對備受關注的軟體部門的預期。該公司週三在公告中表示，今年營收有望增長4%至5%，而此前的預估是5%以上。首席財務官Jim Kavanaugh在一次採訪中說，軟體部門年銷售額將增長6%至8%。IBM表示將加快實施成本節約計劃，並繼續預計今年新增10億美元的自由現金流。Kavanaugh表示，這將透過減少第三方技術支出、改善供應鏈管理和降低行政成本來實現。他還說，公司今年的員工總數應該不會有什麼變化。該公司總營收增長了約1%，達到172億美元。不計某些專案的每股收益為2.93美元。IBM在紐約收於205.77美元，盤後交易上漲約3%。截至週三收盤，該股今年已下跌31%，其中包括業績初估釋出後單日重挫的25%。
-
----
-
-### 2026-07-23 05:06:35  #國際
-
-【委內瑞拉民眾舉行示威，要求美國釋放馬杜羅夫婦】數百名委內瑞拉民眾22日聚集在委首都加拉加斯市中心的一處廣場，要求美國釋放其關押的委總統馬杜羅及其妻子。此次活動由加拉加斯市長卡門·梅倫德斯和馬杜羅之子尼古拉斯·馬杜羅·格拉領導。格拉在演講中表示，這場審判從根源上就是不合法的，沒有任何實質證據能夠證明馬杜羅犯有任何一項被指控的罪行。格拉還呼籲民眾不要訴諸戰爭或武裝犧牲，而應透過外交、談判和國際溝通解決問題。 遭美國強行控制的委內瑞拉總統馬杜羅22日在紐約南區聯邦地區法院再次出庭，法官宣佈定於2027年6月1日開始審理其所涉指控。（新華社）
-
----
-
-### 2026-07-23 05:04:55  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact mixed
-
-Alphabet's CFO said the company expects capital spending to rise significantly in 2027.
-
----
-
-### 2026-07-23 05:04:51  #其他
-
-Alphabet： TPU 銷售協議帶來的大部分收入將在 2027 財年確認入賬。
-
----
-
-### 2026-07-23 05:04:40  #MKT News #S&P500 #Impact bearish #XAUUSD #Impact bullish #US10Y
-
-【Trump predicts U.S. federal government may shut down in September】On July 22 President Trump said he expects a federal government shutdown in September amid GOP-Democratic disputes over spending priorities. On July 21 the Republican-controlled House passed a continuing resolution to fund agencies through Dec. 4 to avoid a pre-midterm shutdown; the bill has been sent to the Senate. Senate Republican leaders are negotiating with Democrats and may propose an alternative short-term funding plan. If Congress does not enact funding, most federal agency appropriations expire at midnight on Sept. 30, the end of the fiscal year.
 
 ---

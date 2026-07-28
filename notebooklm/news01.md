@@ -1,7 +1,421 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-29 02:01:05_
-_本檔包含 3648 則快訊，約 669377 字_
+_更新時間：2026-07-29 03:49:22_
+_本檔包含 3666 則快訊，約 668167 字_
+
+---
+
+### 2026-07-29 03:46:28  #MKT News #Macro & Rates #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+【Dollar index down 0.12% to 101.417 at New York close on 28th】The dollar index, which measures the greenback versus six major currencies, fell 0.12% to 101.417 at the New York FX close on the 28th. EUR/USD 1.1387, up from 1.1368; GBP/USD 1.3289, up from 1.3288; USD/JPY 163.86, up from 163.78; USD/CHF 0.8190, unchanged; USD/CAD 1.4105, down from 1.4125; USD/SEK 9.6954, down from 9.7285.
+
+---
+
+### 2026-07-29 03:44:53  #市場
+
+【美元指數28日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.12%，在匯市尾市收於101.417。截至紐約匯市尾市，1歐元兌換1.1387美元，高於前一交易日的1.1368美元；1英鎊兌換1.3289美元，高於前一交易日的1.3288美元。1美元兌換163.86日元，高於前一交易日的163.78日元；1美元兌換0.8190瑞士法郎，與前一交易日持平；1美元兌換1.4105加元，低於前一交易日的1.4125加元；1美元兌換9.6954瑞典克朗，低於前一交易日的9.7285瑞典克朗。
+
+---
+
+### 2026-07-29 03:43:06  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100 #S&P500
+
+【NVIDIA CEO backs open-weight AI models】NVIDIA (NVDA.O) CEO Jensen Huang told reporters after meeting U.S. lawmakers in Washington that open-weight AI models are critical for the nascent AI industry. He said open weights are needed to ensure AI can be applied safely and securely across the economy and to keep the sector vibrant.
+
+---
+
+### 2026-07-29 03:41:17  #其他
+
+英國海事運輸辦公室：收到一份可疑活動報告。一艘油輪船長報告稱，在紅海南部航行時聽到爆炸聲。報告確認船員和船舶安全。未收到環境損害報告。建議船舶謹慎航行。
+
+---
+
+### 2026-07-29 03:41:10  #MKT News
+
+UK Maritime Transport Office received a suspicious-activity report: an oil tanker captain reported hearing an explosion while transiting the southern Red Sea. Report confirms crew and vessel are safe and no environmental damage reported. Vessels advised to proceed with caution.
+
+---
+
+### 2026-07-29 03:36:03  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Saudi Defense Ministry said the "terrorist attacks" originated in Iraq and were carried out by Iranian-backed militia groups.
+
+---
+
+### 2026-07-29 03:33:07  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+Saudi defence ministry said air defences intercepted and destroyed several drones launched from inside Iraq that were targeting oil facilities in the eastern region.
+
+---
+
+### 2026-07-29 03:32:30  #國際
+
+沙特國防部：國防部官方發言人表示，過去數小時內，防空系統攔截並摧毀了數架企圖襲擊東部地區石油設施的無人機。 此類恐怖襲擊再度從伊拉克境內發起，由伊朗關聯的恐怖民兵組織實施。申明沙特王國擁有自衛的合法權利，具備相應防禦能力，並保留在合適時機、地點採取反擊行動的權利。
+
+---
+
+### 2026-07-29 03:29:12  #國際
+
+據伊朗媒體Fars News：位於伊拉克埃爾比勒省哈里爾的美軍基地發生火災。
+
+---
+
+### 2026-07-29 03:26:58  #MKT News
+
+Fars News reports a fire at a US military base in Harir, Erbil province, Iraq.
+
+---
+
+### 2026-07-29 03:23:07  #市場 #央行 #國際
+
+【美國2/10年期國債收益率跌超5個基點，追隨油價跌勢】週二（7月28日，美聯儲FOMC貨幣政策會議開幕當天）紐約尾盤，美國10年期國債收益率跌5.06個基點，報4.5981%，整體低開低走，北京時間23:00過後出現一波加速下跌行情、重新整理日低至4.5860%。兩年期美債收益率跌5.17個基點，報4.2706%，00:15也重新整理日低至4.2541%；30年期美債收益率跌4.58個基點，報5.0907%。2/10年期美債收益率利差漲0.120個基點，報+32.549個基點。10年期通脹保值國債（TIPS）收益率跌4.18個基點，至2.4015%；兩年期TIPS收益率跌1.88個基點，至2.1480%；30年期TIPS收益率跌4.76個基點，至2.9265%。
+
+---
+
+### 2026-07-29 03:21:39  #其他
+
+【甘肅臨夏州積石山縣發生3.0級地震】中國地震臺網正式測定：7月29日03時01分在甘肅臨夏州積石山縣（北緯35.74度，東經102.77度）發生3.0級地震，震源深度8千米。（央視新聞）
+
+---
+
+### 2026-07-29 03:18:37  #市場
+
+【芝加哥玉米期貨漲約1.5%，大豆期貨漲約0.5%，大豆油跌超0.7%】週二（7月28日）紐約尾盤，彭博穀物分類指數反彈0.67%，報32.1052點。CBOT玉米期貨漲1.48%，CBOT小麥期貨漲0.72%。CBOT大豆期貨漲0.49%，報12.1975美元/蒲式耳，豆粕期貨漲1.02%，豆油期貨跌0.73%。CBOT瘦肉豬期貨漲0.43%，活牛期貨漲1.37%，飼牛期貨漲1.48%。
+
+---
+
+### 2026-07-29 03:16:01  #MKT News
+
+UK Prime Minister Burnham said football does not belong to private capital investors. FIFA had earlier decided to permit external investment.
+
+---
+
+### 2026-07-29 03:10:54  #MKT News
+
+Israel Defense Forces said a recent siren in the Nahal Oz area was a false alarm.
+
+---
+
+### 2026-07-29 03:09:58  #其他
+
+英國首相伯納姆：足球不屬於資本投資者。
+
+---
+
+### 2026-07-29 03:08:03  #MKT News
+
+Al Jazeera reports air defenses in Erbil province of Iraq's Kurdistan region are intercepting a drone attack.
+
+---
+
+### 2026-07-29 03:06:30  #MKT News
+
+Israel Defense Forces says alarms sounded in Nahal Oz; circumstances under investigation.
+
+---
+
+### 2026-07-29 03:04:51  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.7710元，較週一夜盤收盤跌85點。成交量309.95億美元。
+
+---
+
+### 2026-07-29 03:03:40  #MKT News
+
+Iranian outlet Fars News reported several loud explosions in Erbil, Iraq.
+
+---
+
+### 2026-07-29 03:03:09  #MKT News #GD.N #Impact bullish
+
+General Dynamics (GD.N) shares rose 1.3% on higher volume after reports the U.S. approved a next-generation submarine.
+
+---
+
+### 2026-07-29 03:00:55  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures night session closed up 0.54% at 25,480, trading 169 points above the cash index.
+
+---
+
+### 2026-07-29 03:00:02  #市場
+
+恒指期貨夜盤收漲0.60%，報25484.12點，高水173.27點。
+
+---
+
+### 2026-07-29 02:58:56  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's foreign minister said Tehran does not seek escalation, but any attack on Iranian citizens or interests is unacceptable and any resulting losses must be compensated.
+
+---
+
+### 2026-07-29 02:56:49  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+Iran's foreign minister said Ukraine assured him the attack on an Iranian vessel was not deliberate and that Kyiv does not seek escalation.
+
+---
+
+### 2026-07-29 02:55:35  #國際
+
+伊朗外長：伊朗方面同樣無意衝突升級，但明確表態，任何針對伊朗公民、國家利益的攻擊都無法接受，烏方必須賠償相關損失。
+
+---
+
+### 2026-07-29 02:55:22  #國際
+
+伊朗外長：烏克蘭外長安德里·瑟比加向我方保證，此次襲擊伊朗船隻屬於意外，烏方無意激化局勢。
+
+---
+
+### 2026-07-29 02:55:01  #MKT News
+
+Peru's President Keiko Fujimori said the government will boost public and private investment in "productive infrastructure" such as roads, ports and airports.
+
+---
+
+### 2026-07-29 02:51:53  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+Brent crude futures settled at $84.09 per barrel, down $4.27 or 4.83%.
+
+---
+
+### 2026-07-29 02:51:49  #MKT News #Macro & Rates #US Economy #GD.O #Impact bullish
+
+U.S. approved a deal with General Dynamics for next-generation submarines.
+
+---
+
+### 2026-07-29 02:50:40  #其他
+
+秘魯總統藤森：政府將加大公共和私人投資力度，重點發展道路、港口及機場等"生產性基礎設施"。
+
+---
+
+### 2026-07-29 02:50:26  #市場
+
+布倫特原油期貨收於每桶84.09美元，下跌4.27美元，跌幅4.83%。
+
+---
+
+### 2026-07-29 02:48:28  #MKT News
+
+Iraqi Kurdistan's interior minister said the region has never allowed its territory to be used to attack neighboring countries.
+
+---
+
+### 2026-07-29 02:47:05  #國際
+
+美國批准通用動力下一代潛艇採購合同。
+
+---
+
+### 2026-07-29 02:45:46  #MKT News
+
+Peru President Keiko Fujimori will ask Congress to grant the government legislative powers to address impacts from the El Niño weather phenomenon.
+
+---
+
+### 2026-07-29 02:41:40  #其他
+
+秘魯總統藤森：將請求立法權以應對厄爾尼諾天氣現象的影響。
+
+---
+
+### 2026-07-29 02:39:41  #MKT News
+
+【Keiko Fujimori sworn in as Peru president】Keiko Fujimori was sworn in as president of Peru in Lima on the 28th; her term runs until July 2031.
+
+---
+
+### 2026-07-29 02:39:25  #MKT News #XAUUSD #Impact bullish #Brent
+
+【Israel and UAE hold secret meetings to coordinate response to Iran】Israeli Channel 12 reported Israeli and UAE officials held multiple secret meetings in an unnamed third country to coordinate their positions and joint actions on Iran, including measures in international organizations. The UAE expressed strong opposition to a US‑Iran memorandum of understanding, arguing the deal could give Iran time to repair its economy without substantive concessions. Both sides agreed any actions should be cleared with the Trump administration. Western diplomats said the UAE is more hawkish on Iran than some Gulf states and that the UAE’s ability to export energy via alternative routes has increased its strategic alignment with Israel.
+
+---
+
+### 2026-07-29 02:37:25  #MKT News
+
+【Netanyahu says he had an 'excellent meeting' with Trump】On the 28th, Israeli Prime Minister Netanyahu said on social media he had just concluded an 'excellent meeting' with US President Trump. He said the talks reflected a comprehensive partnership, mutual support and a high degree of mutual understanding, and that both sides were aligned on preventing Iran from acquiring nuclear weapons; Netanyahu described it as one of his deepest and best dialogues with a US president.
+
+---
+
+### 2026-07-29 02:35:49  #國際
+
+【內塔尼亞胡稱與特朗普進行了一次“極佳的會晤”】當地時間28日，以色列總理內塔尼亞胡在社交媒體上表示，他剛剛結束了與美國總統特朗普之間一次“極佳的會晤”。內塔尼亞胡表示，此次會談體現了雙方的“全面夥伴關係、相互支援以及高度理解”，雙方在“確保伊朗不會擁有核武器”這一共同目標上保持一致。內塔尼亞胡高度評價了此次會晤，稱其是自己“與美國總統進行過的最深刻、最好的對話之一”。
+
+---
+
+### 2026-07-29 02:34:55  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+U.S. crude futures settled at $79.26 a barrel, down $3.35, or 4.06%.
+
+---
+
+### 2026-07-29 02:34:45  #國際
+
+特朗普脫離講稿發言： 無論華盛頓的局勢鬧得多激烈，幾乎所有人，無論共和黨還是民主黨，都對林賽·格雷厄姆抱有好感。 好吧，也不是所有人，不過這話聽著順耳。確實不是所有人。 說實話，他這人十分強硬。
+
+---
+
+### 2026-07-29 02:34:14  #MKT News #Star Stocks #Alphabet #NVIDIA #Market Themes #Magnificent 7 #GOOG.O
+
+【Google reportedly pledged up to $44 billion in guarantees for data‑center leases】According to The Information, Google (GOOG.O) last week agreed to backstop up to $44 billion of third‑party data‑center lease payments if tenants default. The amount is up from about $6.5 billion as of end‑September and reflects support for selling Google's TPUs as an alternative to NVIDIA chips to customers including Anthropic. Sources said Alphabet has provided lease guarantees for roughly 2.4 GW of capacity across about ten projects; those sites are unfinished and the guarantees are not yet active. Company executives said they expect TPU revenue to exceed the financial obligations created by these guarantees.
+
+---
+
+### 2026-07-29 02:31:38  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI
+
+【Night session main contracts close】At the 02:30 night-session close, Shanghai gold main contract fell 0.73% to 882 yuan/gram, Shanghai silver main contract fell 1.43% to 14,016 yuan/kg and INE SC crude main contract fell 2.48% to 527 yuan/barrel.
+
+---
+
+### 2026-07-29 02:30:57  #市場 #焦點 #國際
+
+美國原油期貨結算價報每桶79.26美元，下跌3.35美元，跌幅4.06%。
+
+---
+
+### 2026-07-29 02:30:35  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange gold T+D fell 0.4% to 878.96 yuan/gram in the July 28 evening session; silver T+D fell 0.34% to 13,962.0 yuan/kg.
+
+---
+
+### 2026-07-29 02:30:02  #市場
+
+上期所原油期貨夜盤收跌2.48%，報526.80元人民幣/桶。滬金夜盤收跌0.73%，滬銀收跌1.43%。
+
+---
+
+### 2026-07-29 02:28:28  #其他
+
+五角大樓正式敲定與通用動力9艘弗吉尼亞級核潛艇採購合同。
+
+---
+
+### 2026-07-29 02:27:36  #國際
+
+【對伊朗軍事行動以來 特朗普與內塔尼亞胡首次會晤】美國總統特朗普28日上午在白宮同到訪的以色列總理內塔尼亞胡舉行會談。這是兩人自美以2月底對伊朗聯合發動大規模軍事行動以來的首次面對面會晤。據美國媒體報道，此次會晤持續了一個多小時，而特朗普此前剛同烏克蘭總統澤連斯基進行了約一個小時的會談。白宮新聞秘書萊維特在社交媒體發文稱，兩場會談“都積極且富有成效”。
+
+---
+
+### 2026-07-29 02:25:17  #其他
+
+【葉門胡塞武裝稱打擊一艘沙特籍油輪】葉門胡塞武裝28日發表宣告稱，該組織當天對一艘沙烏地阿拉伯籍油輪實施軍事打擊，理由是該船違反其針對沙特實施的海上航行禁令，並無視其發出的警告。宣告稱，行動中使用了多枚彈道導彈，並迫使該船掉頭返航。（央視新聞）
+
+---
+
+### 2026-07-29 02:25:13  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Coffee Gains by 4.91% — Top commodity gainers are Coffee (4.91%), Cocoa (2.08%) and Corn (1.46%). Biggest losers are Lumber (-1.39%) and Canola (-1.27%).
+
+---
+
+### 2026-07-29 02:23:00  #其他
+
+【藤森慶子宣誓就任秘魯總統】當地時間7月28日，秘魯當選總統藤森慶子在國會宣誓就職，正式就任秘魯總統，任期五年。（央視新聞）
+
+---
+
+### 2026-07-29 02:21:19  #MKT News
+
+Israeli Prime Minister Netanyahu said Israel’s goal is aligned with Trump’s: to prevent Iran from obtaining nuclear weapons.
+
+---
+
+### 2026-07-29 02:20:31  #其他
+
+市場資訊：OpenAI稱在API中引入了兩種新的轉錄模型，GPT-Live-Transcribe和GPT-Transcribe。這兩個模型都能更好地理解上下文，並能更準確地轉錄真實世界的音訊，涵蓋各種口音和語言，包括短語、數字、專業術語以及在嘈雜背景噪音下的語音。
+
+---
+
+### 2026-07-29 02:20:26  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #SGO.PA #Impact bullish #MSFT.O
+
+French builder Saint-Gobain signed a framework agreement with Microsoft to further consolidate its AI leadership in the construction sector.
+
+---
+
+### 2026-07-29 02:20:13  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Drops by 2.11% — Top commodity losers are Silver (-2.11%), Silicon (-1.33%) and Gold (-1.20%).
+
+---
+
+### 2026-07-29 02:17:57  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Kuwait's cabinet condemned Iran and its proxies for multiple drone attacks on the Abdali border crossing last Thursday.
+
+---
+
+### 2026-07-29 02:16:44  #MKT News #LCID.O #Impact bullish
+
+【Saudi prince takes 5% stake in Lucid; shares jump about 24%】Lucid Group shares rose about 24% on Tuesday after a regulatory filing showed Prince Alwaleed bin Talal bought roughly 19.5 million shares for $129.5 million, lifting his stake to 5%. A spokesman said the purchase followed a recent sharp decline in Lucid's share price. Markets viewed the investment as a confidence vote that could ease investor concerns after earlier cash-pressure and loss-driven bankruptcy fears; Lucid denied bankruptcy reports but confirmed it had hired AlixPartners and previously suffered a one-day 57% plunge. The company still faces challenges on sales growth, profitability and cash flow.
+
+---
+
+### 2026-07-29 02:15:42  #國際
+
+科威特：譴責伊朗及其代理人上週四對阿卜杜利邊境口岸發動的數起無人機襲擊。
+
+---
+
+### 2026-07-29 02:15:14  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Brent Crude Oil Falls by 4.99% — Top commodity losers are Brent Crude Oil (-4.99%), Crude Oil WTI (-4.53%) and Natural Gas UK (-4.47%). Gains are led by Heating Oil (0.60%).
+
+---
+
+### 2026-07-29 02:13:31  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Iran's deputy foreign minister said Iran is currently effectively like a country not party to the NPT. He said the IAEA has no inspectors in Iran, Tehran will not submit any declarations, and all IAEA access has been cut off.
+
+---
+
+### 2026-07-29 02:13:14  #國際
+
+伊朗副外長：我們完全無意與美國展開談判，眼下我們需要靜觀阿曼方面事態進展。
+
+---
+
+### 2026-07-29 02:05:05  #MKT News #Market Themes #AI Revolution
+
+OpenAI said it added two transcription models to its API, GPT-Live-Transcribe and GPT-Transcribe, which improve contextual understanding and more accurately transcribe real‑world audio across accents and languages, including phrases, numbers, technical jargon and speech in noisy backgrounds.
+
+---
+
+### 2026-07-29 02:04:52  #MKT News #SPCE.O
+
+The U.S. Federal Aviation Administration proposed streamlining commercial space launch licensing rules to make launches easier.
+
+---
+
+### 2026-07-29 02:04:52  #MKT News #LCID.O #Impact bullish
+
+Lucid Group (LCID.O) shares jumped more than 25% after a 13G filing by the company showed a Saudi prince holds a stake in the firm.
+
+---
+
+### 2026-07-29 02:04:42  #MKT News
+
+MVM said Hungary's Paks nuclear power plant will cut a further 237 MW of generation on Tuesday due to low Danube River water levels.
+
+---
+
+### 2026-07-29 02:01:52  #市場
+
+AMC娛樂股價飆升至盤中最高點9.8%。
+
+---
+
+### 2026-07-29 02:01:15  #公司
+
+谷歌已承諾最高提供440億美元擔保，為資料中心租賃專案兜底。該公司將藉助金融工具推廣自研AI晶片，同時控制表內資產規模。
+
+---
+
+### 2026-07-29 02:00:53  #國際
+
+美國聯邦航空管理局（FAA）提議簡化商業航天發射許可審批法規，降低火箭發射專案的審批門檻。
 
 ---
 
@@ -21713,311 +22127,5 @@ D-Wave量子計算公司股價大漲約11%，此前美國電話電報公司（AT
 ### 2026-07-27 21:32:21  #Trading Economics #Markets #Switzerland #Currency #Importance 0
 
 Swiss Franc Stays Near One-Year Low — The Swiss franc hovered around $0.82, remaining close to its weakest level in more than a year against the dollar, as investors weighed easing tensions between the US and Iran and the sharp decline in oil prices, which boosted risk appetite and reduced demand for safe-haven assets. Meanwhile, the Trump administration imposed new tariffs on Swiss imports while keeping them within its previously announced 12.5% ceiling. On monetary policy, the Swiss National Bank is expected to keep its policy rate at 0% through 2027, with any return to negative interest rates seen as a contingency rather than the baseline scenario. The SNB left rates unchanged in June, and most economists expect no change before early 2028. Currency markets, however, are more hawkish, pricing in a rate increase by March next year. Despite a temporary pickup linked to the Iran conflict, Swiss inflation slowed to 0.5% in June and is projected to peak at just 0.8%, remaining well within the SNB's 0%-2% target range.
-
----
-
-### 2026-07-27 21:32:08  #市場 #國際
-
-原油價格下跌超7%，美國航空股上漲。
-
----
-
-### 2026-07-27 21:32:01  #市場 #國際
-
-美國航空股價上漲3.7%，阿拉斯加航空與聯合航空股價各上漲4%。
-
----
-
-### 2026-07-27 21:31:56  #市場
-
-達美航空上漲3.5%，捷藍航空上漲6.5%，西南航空上漲2.4%。
-
----
-
-### 2026-07-27 21:31:39  #公司 #國際
-
-【堃博醫療－Ｂ：一次性使用經支氣管鏡擴張導管獲歐盟MDR CE認證】堃博醫療－Ｂ公告，近日公司自主研發的BroncTru 途擴 一次性使用經支氣管鏡擴張導管取得歐盟醫療器械法規（歐盟MDR）CE認證，標誌著國際化註冊及全球產品佈局取得重要進展。該產品可在導航系統引導下對外周肺結節實現精準抵達，是實施經支氣管鏡下經肺實質結節抵達術（BTPNA）的核心工具。截至公告日，該產品已取得中國NMPA、美國FDA及歐盟MDR CE註冊批准，並在中國臺灣地區、印度尼西亞、泰國及馬來西亞批准上市。
-
----
-
-### 2026-07-27 21:31:33  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
-
-At the open on Monday, July 27, the Dow Jones Industrial Average rose 587.76 points (1.13%) to 52,535.01; the S&P 500 gained 59.15 points (0.80%) to 7,471.11; the Nasdaq Composite climbed 255.55 points (1.02%) to 25,231.37.
-
----
-
-### 2026-07-27 21:31:26  #公司 #國際
-
-【美議員稱與其斥資侵略不如保障民生】五角大樓上週申請670億美元緊急資金，稱要用於支付對伊朗戰爭的軍隊薪酬並補充彈藥等。在美國哥倫比亞廣播公司《面向全國》欄目7月26日播出的最新一期節目中，美國獨立參議員伯尼·桑德斯對此表示明確反對。桑德斯說，這670億美元不如來建設住房、讓美國國民獲得醫療保障等。他還表示，美國眾、參兩院此前都曾透過限制總統特朗普對伊朗動武的法案，明確這場戰爭是違憲、非法的，美國就不應該發動這場戰爭，他呼籲美國與伊朗坐下來談判，結束這場破壞美國經濟的戰爭。（CCTV國際時訊）
-
----
-
-### 2026-07-27 21:30:50  #MKT News #Important #SKHY.O #Impact bullish #SNDK.O #Nasdaq100
-
-【U.S. stocks open higher; memory/storage shares rally】U.S. equities opened higher: Dow up 0.9%, S&P 500 up 0.7%, Nasdaq up 1% at the open. Memory and storage names led the advance—SK Hynix (SKHY.O) rose more than 2%, SanDisk (SNDK.O) gained 1%.
-
----
-
-### 2026-07-27 21:30:48  #市場 #焦點
-
-【美股開盤：三大股指齊漲】道指漲0.95%，標普500指數漲0.78%，納指漲1.07%。Michael Baker Corp漲5.94%，Carvana Co.漲5.43%，工時公司漲5.15%，DoorDash漲4.38%。“七姐妹”方面：微軟漲2.71%，谷歌漲2.30%，Meta Platforms漲1.69%，亞馬遜漲1.01%，蘋果漲0.89%，特斯拉漲0.55%，英偉達漲0.13%。
-
----
-
-### 2026-07-27 21:30:47  #市場
-
-標普500能源板塊開盤下跌1%。
-
----
-
-### 2026-07-27 21:30:45  #MKT News
-
-【Navigation warning: live-fire exercises in Bohai Sea July 28-30】Tangshan Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning: parts of the Bohai Sea will conduct live-fire exercises from Jul 28 00:00 to Jul 30 24:00. Affected areas are closed to navigation.
-
----
-
-### 2026-07-27 21:30:41  #其他
-
-【航行警告！渤海執行軍事任務】據中國海事局網站訊息，唐山海事局釋出航行警告，7月28日0時至7月30日24時，渤海部分海域進行實彈射擊活動，禁止駛入。
-
----
-
-### 2026-07-27 21:30:40  #市場 #焦點
-
-納斯達克中國金龍指數漲超1%，攜程漲3.16%，嘉楠科技漲3.34%，華住酒店集團漲1.53%，老虎證券漲2.11%，優品車漲1.45%。
-
----
-
-### 2026-07-27 21:30:29  #公司 #市場
-
-【深市公司再加碼，7月新增增持回購金額上限約571億元】近期，A股增持回購利好頻出。以深市為例，7月以來，深市披露增持回購相關公告合計430家次，其中新增增持回購計劃127家次，計劃增持回購金額上限571.45億元。 其中，寧德時代擬大手筆回購用於登出，為市場樹立標杆。7月24日晚間，寧德時代披露公告，計劃回購金額下限200億元、上限400億元，回購股份用於登出並減少公司註冊資本，旨在維護全體股東合法權益，提振市場投資信心，最佳化公司資本結構，提升企業內在價值與長期投資價值。 不少公司已真金白銀出手回購。中石科技公告，7月24日透過回購專用證券賬戶回購公司股份，成交總金額為1443萬元。 此外，一批公司的重要股東擬出手增持公司股份。如溫氏股份7月24日晚間公告，公司實際控制人近親屬溫淑穎計劃自公告披露之日起6個月內，增持不少於1000萬元的公司股份。（中證報）
-
----
-
-### 2026-07-27 21:30:05  #國際
-
-【野火持續肆虐，西班牙首相、法國內政部長髮聲】受高溫乾旱和強風天氣影響，法國和西班牙境內野火持續肆虐。據英國天空新聞網當地時間27日報道，西班牙首相桑切斯、法國內政部長努內茲分別就火情發聲。報道稱，桑切斯在西班牙東部卡斯特利翁省發表講話時表示，亟需採取緊急措施以應對氣候緊急狀況，需要調動歐洲各地資源來撲滅這場大火。“我們需要採取緊急措施，建設一個更安全、更宜居的西班牙，為應對未來的挑戰做好準備。”桑切斯補充說，應對氣候變化的鬥爭“僅靠政府單方面行動無法取勝”，而需要整個國家團結一致。（環球網）
-
----
-
-### 2026-07-27 21:29:29  #MKT News #SPOT.O #Impact bullish
-
-Spotify said an earlier issue has been resolved.
-
----
-
-### 2026-07-27 21:29:03  #Trading Economics #Markets #United States #Currency #Importance 1
-
-Dollar Pares Most Losses — The dollar index pared early losses to trade little changed around 101.4 on Monday, hovering near a one-month high as developments in the Middle East continued to dominate market sentiment. The US suspended its nearly two-week campaign of strikes against Iran late on Friday. In response, Tehran halted its retaliatory military operations and held talks with Oman on ensuring the safe passage of shipping through the Strait of Hormuz. These developments triggered a decline in oil prices, easing concerns over further supply disruptions and a renewed inflationary spiral. As a result, investors scaled back expectations for Fed policy tightening. The central bank is widely expected to leave the federal funds rate unchanged, although markets currently assign around a 33% probability to a rate hike. Looking ahead, a September increase remains the base case, with traders pricing in nearly an 80% chance of such a move.
-
----
-
-### 2026-07-27 21:28:48  #市場 #焦點
-
-現貨黃金失守4080美元/盎司，日內漲0.61%。
-
----
-
-### 2026-07-27 21:28:40  #市場 #焦點
-
-紐約期金失守4080美元/盎司，日內漲0.21%。
-
----
-
-### 2026-07-27 21:28:38  #MKT News #Commodities #Energy
-
-Goldman Sachs said if Middle East energy exports only gradually normalize by 2027, December-2026 TTF natural gas prices may need to rise above EUR100/MWh.
-
----
-
-### 2026-07-27 21:28:24  #其他
-
-Spotify表示此前故障已全部修復，服務恢復正常。
-
----
-
-### 2026-07-27 21:28:00  #國際
-
-黎巴嫩外長：我們信賴華盛頓對以色列履約的保證，並期盼黎巴嫩能擺脫一切佔領與非法武裝。
-
----
-
-### 2026-07-27 21:27:50  #MKT News
-
-Goldman Sachs says near-term risks to its TTF forecast remain two-way but are skewed to the upside.
-
----
-
-### 2026-07-27 21:27:26  #市場 #觀點 #國際
-
-高盛：若中東能源出口要到2027年才逐步恢復正常，我們估計2026年12月交割的荷蘭所有權轉讓中心（TTF）天然氣期貨價格很可能需要升至每兆瓦時100歐元上方。
-
----
-
-### 2026-07-27 21:27:07  #觀點
-
-高盛：我們的近期天然氣TTF價格預測面臨雙向風險，但整體偏向上行。
-
----
-
-### 2026-07-27 21:26:37  #MKT News #Commodities #Energy
-
-Goldman Sachs: If the US and Iran reach a new agreement in the coming days or weeks, we expect the TTF risk premium to drop sharply, potentially below €50/MWh.
-
----
-
-### 2026-07-27 21:26:34  #觀點 #國際
-
-高盛就天然氣釋出觀點稱：歐洲天然氣價格可能需要抑制亞洲工業天然氣需求，目前這一機率處於高位。
-
----
-
-### 2026-07-27 21:25:58  #MKT News #Commodities #Energy
-
-Goldman Sachs maintains its Q3 2026 TTF natural gas price forecast at €60/MWh.
-
----
-
-### 2026-07-27 21:25:33  #市場 #觀點
-
-高盛：若美伊未來數日或數週達成新協議，我們預計TTF天然氣的風險溢價將大幅回落，很可能跌破50歐元/兆瓦時。
-
----
-
-### 2026-07-27 21:24:49  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Tumbles as US and Iran Halt Strikes — Brent crude fell sharply to as low as $87.6 per barrel on Monday before trimming some losses to trade around $90.8, as signs of easing geopolitical tensions reduced concerns over supply disruptions. The US paused its attacks against Iran, while Tehran said it had halted its retaliatory military strikes in response and engaged in talks with Oman regarding the Strait of Hormuz. Supply conditions also improved after crude loadings resumed at the Caspian Pipeline Consortium terminal on Russia's Black Sea coast, a key export hub for Kazakh oil that had recently been disrupted by Ukrainian drone attacks. Despite Monday's decline, Brent remains up nearly 25% this month as supply disruptions expanded from the Strait of Hormuz to the Red Sea, an increasingly important alternative route for Saudi Arabian crude exports. Yemen's Iran-backed Houthi militants claimed to have targeted Saudi Aramco-linked facilities in Jizan and Yanbu, although neither Saudi Arabia nor Aramco confirmed the attacks.
-
----
-
-### 2026-07-27 21:24:42  #公司
-
-萊迪思半導體完成對 AMI 公司的收購
-
----
-
-### 2026-07-27 21:24:32  #其他
-
-【香港金管局：銀行業在量子技術的部署處於初步階段】7月27日，香港金管局在第八屆FiNETech上發表《香港銀行業量子準備度白皮書》（《白皮書》），並首度公佈量子準備度指數及相關支援業界措施。《白皮書》涵蓋2026年初進行的調查，顯示業界對量子技術相關發展的認知度正在提升。量子準備度指數的首個評分為2.3分（滿分為10分），反映銀行業在量子技術的部署處於初步階段，現正為未來量子時代建立基礎。為支援銀行業順利過渡至後量子密碼學（PQC），香港金管局將透過實務指引、技能培訓及業界交流，務求支援銀行業界在2030年前為量子時代做好全面準備（指數達10分）。
-
----
-
-### 2026-07-27 21:24:21  #其他
-
-【財新智庫高階經濟學家王喆：AI產業正經歷關鍵轉折點】7月27日，在財新圓桌-AI系列活動“智慧體時代終端產業的下一站”專題活動上，財新智庫高階經濟學家、研究主管王喆表示，當前AI產業正在經歷關鍵轉折點，AI技術正從模型能力和算力基礎設施建設，轉向應用場景爆發的階段。如何推動AI創造真實使用者價值、賦能實體經濟發展，正成為產業界關注的重點議題。
-
----
-
-### 2026-07-27 21:23:12  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Tumbles as US and Iran Halt Strikes — Crude oil fell sharply to as low as $82.11 per barrel on Monday before trimming some losses to trade around $84.30, as signs of easing geopolitical tensions reduced concerns over supply disruptions. The US paused its attacks against Iran, while Tehran said it had halted its retaliatory military strikes in response and engaged in talks with Oman regarding the Strait of Hormuz. Supply conditions also improved after crude loadings resumed at the Caspian Pipeline Consortium terminal on Russia's Black Sea coast, a key export hub for Kazakh oil that had recently been disrupted by Ukrainian drone attacks. Despite Monday's decline, oil remains up more than 20% this month as supply disruptions expanded from the Strait of Hormuz to the Red Sea, an increasingly important alternative route for Saudi Arabian crude exports. Yemen's Iran-backed Houthi militants claimed to have targeted Saudi Aramco-linked facilities in Jizan and Yanbu, although neither Saudi Arabia nor Aramco confirmed the attacks.
-
----
-
-### 2026-07-27 21:22:30  #公司 #市場
-
-【私募打新長鑫科技首日“進賬”65億，梁文鋒旗下幻方、九章浮盈超8億】根據此前長鑫科技公佈的“打新”結果，共有113傢俬募旗下的2459個產品獲得了長鑫科技的網下配售，合計獲配數量達1.61億股，獲配金額達14.36億元。以長鑫科技49元的收盤價計算（下同），私募“打新”的首日賬面浮盈約65.09億元。公告顯示，網下機構投資者分為A類（公募基金、社保、養老金、年金、銀行理財、保險、QFII）和B類（私募、券商自營、信託、財務公司等），以公募基金為主的A類投資者獲配19.78億股，佔網下發行總量的91%；而以私募基金為主的B類投資者獲配1.96億股，僅佔網下發行總量的9%。私募名單中，按照獲配數量計算，前十位均為頭部量化私募，有四傢俬募此前獲配超千萬股。其中，九坤投資以1539.96萬股位居首位，194個配售物件合計獲配1.334億元，首日賬面浮盈約6.21億元。幻方量化、上海衍復、世紀前沿分別獲配1535.42萬股、1535.12萬股和1500.33萬股，首日賬面浮盈分別約6.19億元、6.19億元和6.05億元。其中，上海衍復有282個配售物件入圍，是頭部私募中獲配產品數量最多的一家。（澎湃）
-
----
-
-### 2026-07-27 21:21:31  #MKT News #Macro & Rates
-
-【Sources: Swiss National Bank plans to keep policy rate at zero through end-2027】Sources said the Swiss National Bank plans to hold its key policy rate at zero through end-2027, only considering hikes thereafter based on current inflation projections and assuming no major new shocks. Recent CHF/EUR weakness and the Swiss–eurozone rate differential factored into the view. Sources said negative rates remain a contingency if the outlook deteriorates, but are not the baseline. They added zero rates have not materially hurt Swiss banks’ profitability. The SNB left rates unchanged at its June meeting and had signalled it expected rates to remain unchanged through the end of next year.
-
----
-
-### 2026-07-27 21:20:36  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-Treasury Yields Retreat — The yield on the US 10-year Treasury note fell to 4.65% on Monday after reaching its highest level since January 2025 last week, helped by declining oil prices. The US suspended its nearly two-week campaign of strikes against Iran late on Friday, although no official announcement was made. As a result, Tehran halted its retaliatory military operations and held talks with Oman on ensuring shipping through the Strait of Hormuz. These developments alleviated concerns over further supply disruptions and a renewed inflationary spiral, prompting investors to scale back expectations for Fed's tightening. Investors are also awaiting the Federal Reserve's monetary policy decision later this week. The central bank is widely expected to leave the federal funds rate unchanged, although markets currently assign roughly a 33% probability to a rate hike. Looking ahead, a September increase remains the base case, with traders pricing in nearly an 80% chance of such a move.
-
----
-
-### 2026-07-27 21:20:01  #其他
-
-出口商預估顯示，截至7月26日，象牙海岸2025/26年度可可到貨量達198.1萬噸，去年同期為162萬噸。
-
----
-
-### 2026-07-27 21:19:14  #其他
-
-薩那訊息：葉門胡塞武裝27日稱，該組織當天對沙特東部向紅海延布港運輸原油的相關設施發動無人機打擊，稱這是對沙特無人機“侵犯葉門領空的回應”。（新華社）
-
----
-
-### 2026-07-27 21:19:04  #公司
-
-【吳偉任中投公司黨委副書記，不再擔任上海市委常委、委員職務】日前，中共中央批准，吳偉同志不再擔任上海市委常委、委員職務。另悉，吳偉同志已任中國投資有限責任公司黨委副書記。（上觀新聞）
-
----
-
-### 2026-07-27 21:18:39  #公司 #市場
-
-【公募打新長鑫科技單日浮盈逾500億元，明星基金經理成績單揭曉】長鑫科技上市首日股價收漲465.82%，參與網下配售的公募基金浮盈總額突破500億元。公募排排網統計資料顯示，100家公募基金管理人（含具有公募牌照的券商資管）旗下5507只產品獲得網下配售，合計獲配數量達12.51億股，獲配金額達108.29億元。若以首日收盤價計算，上述獲配股份為公募基金帶來的賬面浮盈總額超過500億元。（澎湃）
-
----
-
-### 2026-07-27 21:17:47  #其他
-
-VirtuiX向特斯拉售出首套企業系統，供特斯拉Optimus人形機器人部門使用。
-
----
-
-### 2026-07-27 21:16:44  #國際
-
-【伊朗第一副總統阿雷夫高度評價外長阿拉格齊在近期衝突中的外交貢獻】伊朗第一副總統穆罕默德·穆赫貝爾（Mohammad Mokhber）當地時間24日發表講話，高度肯定伊朗外交系統在近期兩場衝突中的表現，並特別讚揚外長阿巴斯·阿拉格齊（Abbas Araghchi）展現出的專業素養與戰略定力。穆赫貝爾指出，伊朗駐外使節與外交官在過去兩年中表現卓越。他評價阿拉格齊是伊朗外交界傑出、勇敢、沉穩且務實的代表，其領導下的外交團隊促成了多項關鍵諒解備忘錄的簽署。穆赫貝爾強調，這些外交成果具有極高價值，即便在伊朗政府內部持批評立場的人士也對其予以認可。
-
----
-
-### 2026-07-27 21:16:29  #公司
-
-Strategy集團：美元儲備增至37.5億美元。
-
----
-
-### 2026-07-27 21:16:18  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Rise as Oil Prices Tumble — Futures tracking the S&P/TSX Composite Index moved higher on Monday as oil prices tumbled following a pause in hostilities between the US and Iran. Crude prices fell after both countries halted strikes over the weekend amid renewed diplomatic efforts, with President Donald Trump reportedly open to restarting peace talks. The decline in oil prices eased energy-driven inflation concerns, pushing Canadian bond yields lower and supporting financials and the broader market. Gold prices advanced as lower US Treasury yields boosted demand for the metal, supporting mining stocks. Elsewhere, Celestica and Gibson Energy are scheduled to report earnings after the market close.
-
----
-
-### 2026-07-27 21:15:39  #MKT News #Market Regions #Wall Street (US) #GM.N #Impact bullish
-
-GM shares were up 3.4% in pre-market U.S. trading after Jefferies upgraded the stock from Hold to Buy.
-
----
-
-### 2026-07-27 21:15:03  #公司
-
-太平洋燃氣電力公司啟動最高 10 億美元現金收購要約。
-
----
-
-### 2026-07-27 21:14:11  #其他
-
-【埃塞總統：中國專家和技術助力提升埃塞醫療水平】中非微創醫學夥伴計劃啟動儀式27日在衣索比亞首都亞的斯亞貝巴舉行。在該計劃框架下，中國和衣索比亞共同致力於搭建微創外科學術平臺，推動腔鏡、機器人手術等技術的交流與發展。 衣索比亞總統塔耶在致辭時表示，埃塞和中國關係在包括衛生健康等各領域不斷深化發展，截至目前中國已派出27批醫療隊援助埃塞。（新華社）
-
----
-
-### 2026-07-27 21:12:33  #市場
-
-阿斯麥美股盤前跳水轉跌，早盤一度漲超3.3%。
-
----
-
-### 2026-07-27 21:12:02  #公司
-
-【恒大汽車委任董事及公司秘書】7月27日，恒大汽車在港交所公告，自2026年7月27日起，陳樂燕已獲委任為非執行董事；盧家麒、陳慶浲及呂思豪已獲委任為獨立非執行董事；彭韋豪（原名彭偉正）已獲委任為公司之公司秘書。公司股份將繼續暫停買賣，直至進一步通知。
-
----
-
-### 2026-07-27 21:11:56  #國際
-
-【以色列總理啟程赴美】今天（7月27日），以色列總理內塔尼亞胡啟程前往華盛頓。他將在當地時間7月28日與美國總統特朗普舉行面對面會談。這將是特朗普重返白宮後，兩人的第8次會面。也是自今年2月底美以聯手大規模空襲伊朗以來，兩人的首次線下碰頭。 內塔尼亞胡此次訪美正值特朗普叫停對伊朗連續襲擊、考慮是否擴大對伊朗的打擊規模之際，內塔尼亞胡在臨行前稱，他與特朗普“將討論所有議題，首要的就是伊朗問題”。 近幾周，內塔尼亞胡承認自己與特朗普存在某些分歧，因兩國在中東地區的利益似乎出現分化。有分析認為，此次會晤如能展現兩人一貫的緊密關係，將有助於內塔尼亞胡應對其國內選情——他正面臨10月27日的以色列議會選舉，而當前民調錶現低迷。（CCTV國際時訊）
-
----
-
-### 2026-07-27 21:10:20  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-【NVIDIA invests in Ilya Sutskever’s new AI lab to expand compute footprint】The Wall Street Journal reports NVIDIA (NVDA.O) is investing in an AI lab founded by OpenAI’s former chief scientist Ilya Sutskever. The long-term deal reportedly involves a substantial, undisclosed investment and will give Sutskever’s Safe Superintelligence extensive access to NVIDIA’s flagship GPUs—enough to increase the startup’s compute by “an order of magnitude”—after the firm had primarily relied on Google’s TPUs; the arrangement also helps NVIDIA fend off competitors.
 
 ---
