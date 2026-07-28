@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-29 01:21:32",
-  "count": 17581,
+  "updated": "2026-07-29 01:25:26",
+  "count": 17584,
   "items": [
+    {
+      "id": "mkt:019fa9c1-d658-7aab-8ed2-fe12a01f0ec6",
+      "time": "2026-07-29 01:24:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "NVIDIA CEO Jensen Huang urged support for open-weight AI models, saying such models are vital to AI safety and security."
+    },
+    {
+      "id": "5012924",
+      "time": "2026-07-29 01:24:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷總統米萊：我們希望徹底根除通貨膨脹，因為通脹這一禍害實質上就是盜竊。最糟糕的是，它還是一種未經立法的稅收。通貨膨脹是一場騙局。它就是盜竊。"
+    },
+    {
+      "id": "mkt:019fa9c1-0f45-7aab-8ed2-f462aa252330",
+      "time": "2026-07-29 01:23:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI, Anthropic staff petition US to back mechanism to curb frontier AI pace】Employees at OpenAI and Anthropic are circulating a petition urging the US government to support a mechanism to deliberately regulate the pace of AI development to prevent it from advancing too quickly. The petition, shared among staff at several leading AI labs and seen by media, calls on the US to back an international initiative to govern the build-out of more advanced AI systems. It warns AI progress may outpace humans’ ability to understand or control it, poses \"real risks\", and cites advances in automating AI research. The petition states: \"The US government should support international cooperation to develop the technical and governance tools necessary to target regulation of frontier automated AI development.\""
+    },
+    {
+      "id": "5012923",
+      "time": "2026-07-29 01:22:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：開放權重模型對人工智慧的安全與安保至關重要。"
+    },
+    {
+      "id": "5012922",
+      "time": "2026-07-29 01:22:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳呼籲支援開放權重人工智慧模型。"
+    },
     {
       "id": "5012921",
       "time": "2026-07-29 01:18:28",
@@ -161200,22 +161250,6 @@
         "DXY"
       ],
       "text": "【US House Speaker Johnson says US‑Iran war must end, declines to commit on War Powers Act vote】CBS reports House Speaker Mike Johnson declined to say whether he will push for a War Powers Act vote, saying the US‑Iran war needs to end and lawmakers should give the administration room to negotiate an end that avoids further U.S. casualties. He said the administration is working around the clock on that effort and reiterated the US must ensure Iran does not acquire nuclear weapons."
-    },
-    {
-      "id": "5000755",
-      "time": "2026-07-22 01:23:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國參議院透過農業緊急法案。"
-    },
-    {
-      "id": "5000754",
-      "time": "2026-07-22 01:23:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院多數黨領袖約翰·圖恩（John Thune，南達科他州共和黨人）：我們將快速確認Keith E. Sonderling的勞工部長提名資格。"
     }
   ]
 }
