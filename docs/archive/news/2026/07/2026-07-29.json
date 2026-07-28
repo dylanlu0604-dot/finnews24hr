@@ -1,7 +1,64 @@
 {
   "date": "2026-07-29",
-  "count": 10,
+  "count": 15,
   "items": [
+    {
+      "id": "te:markets:570484",
+      "time": "2026-07-29 00:12:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.69% Lower — The FTSE MIB Index dropped 357 points or 0.69 percent on Tuesday to close at 51698 points. Losses were led by Saipem (-9.67%), Prysmian (-4.96%) and STMicroelectronics (-3.55%). Offsetting the fall, top gainers were Diasorin (5.28%), Davide Campari-Milano (3.38%) and Amplifon (3.00%)."
+    },
+    {
+      "id": "te:markets:570483",
+      "time": "2026-07-29 00:11:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.41% Higher — The DAX Index went up by 103 points or 0.41 percent on Tuesday to close at 25464 points. The rise was led by SAP (5.50%), Zalando (4.62%) and Porsche Automobil (4.27%). On the downside, the weakerst performers were Siemens Energy (-7.06%), Infineon (-6.09%) and RWE (-2.69%)."
+    },
+    {
+      "id": "te:markets:570482",
+      "time": "2026-07-29 00:10:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Gain for 3rd Session — European stocks inched higher on Tuesday with support from corporate earnings and another pullback in energy prices. The Euro STOXX 50 added 0.2% to 6,294 and the STOXX Europe 600 gained 0.4% to 647. LVMH gained 1% reporting broadly in-line sales growth. Unilever surged 8.5% after raising its full-year sales guidance, while Mercedes-Benz climbed 2.9% after posting a profit beat despite a sharp drop in deliveries in China. Also, Safran rebounded from early losses and advanced 3% after results. Orange also gained 3.1% after upgrading its annual profit outlook. On the downside, Barclays fell 5.6% after posting its balance sheet. Meanwhile, the technology sector remained under pressure globally, with renewed concerns over AI-related spending weighing particularly on semiconductor stocks. ASML extended its recent losses, falling 3%, after reports that a Chinese state-backed company has started mass-producing certain chipmaking equipment."
+    },
+    {
+      "id": "te:markets:570481",
+      "time": "2026-07-29 00:10:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.63% Higher — The CAC 40 Index rose 53 points or 0.63 percent on Tuesday to close at 8459 points. Leading the gains are Capgemini (6.92%), Orange (5.30%) and Pernod Ricard (4.75%). Top losers were STMicroelectronics (-5.52%), ENGIE (-3.11%) and Air Liquide (-2.05%)."
+    },
+    {
+      "id": "5012851",
+      "time": "2026-07-29 00:09:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨跌超4.00%，現報2.676美元/百萬英熱。"
+    },
     {
       "id": "mkt:019fa97b-3f73-7aab-8ed1-425e86bf9978",
       "time": "2026-07-29 00:07:34",

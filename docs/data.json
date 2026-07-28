@@ -1,7 +1,64 @@
 {
-  "updated": "2026-07-29 00:09:02",
-  "count": 17519,
+  "updated": "2026-07-29 00:12:56",
+  "count": 17515,
   "items": [
+    {
+      "id": "te:markets:570484",
+      "time": "2026-07-29 00:12:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.69% Lower — The FTSE MIB Index dropped 357 points or 0.69 percent on Tuesday to close at 51698 points. Losses were led by Saipem (-9.67%), Prysmian (-4.96%) and STMicroelectronics (-3.55%). Offsetting the fall, top gainers were Diasorin (5.28%), Davide Campari-Milano (3.38%) and Amplifon (3.00%)."
+    },
+    {
+      "id": "te:markets:570483",
+      "time": "2026-07-29 00:11:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.41% Higher — The DAX Index went up by 103 points or 0.41 percent on Tuesday to close at 25464 points. The rise was led by SAP (5.50%), Zalando (4.62%) and Porsche Automobil (4.27%). On the downside, the weakerst performers were Siemens Energy (-7.06%), Infineon (-6.09%) and RWE (-2.69%)."
+    },
+    {
+      "id": "te:markets:570482",
+      "time": "2026-07-29 00:10:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Gain for 3rd Session — European stocks inched higher on Tuesday with support from corporate earnings and another pullback in energy prices. The Euro STOXX 50 added 0.2% to 6,294 and the STOXX Europe 600 gained 0.4% to 647. LVMH gained 1% reporting broadly in-line sales growth. Unilever surged 8.5% after raising its full-year sales guidance, while Mercedes-Benz climbed 2.9% after posting a profit beat despite a sharp drop in deliveries in China. Also, Safran rebounded from early losses and advanced 3% after results. Orange also gained 3.1% after upgrading its annual profit outlook. On the downside, Barclays fell 5.6% after posting its balance sheet. Meanwhile, the technology sector remained under pressure globally, with renewed concerns over AI-related spending weighing particularly on semiconductor stocks. ASML extended its recent losses, falling 3%, after reports that a Chinese state-backed company has started mass-producing certain chipmaking equipment."
+    },
+    {
+      "id": "te:markets:570481",
+      "time": "2026-07-29 00:10:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.63% Higher — The CAC 40 Index rose 53 points or 0.63 percent on Tuesday to close at 8459 points. Leading the gains are Capgemini (6.92%), Orange (5.30%) and Pernod Ricard (4.75%). Top losers were STMicroelectronics (-5.52%), ENGIE (-3.11%) and Air Liquide (-2.05%)."
+    },
+    {
+      "id": "5012851",
+      "time": "2026-07-29 00:09:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨跌超4.00%，現報2.676美元/百萬英熱。"
+    },
     {
       "id": "mkt:019fa97b-3f73-7aab-8ed1-425e86bf9978",
       "time": "2026-07-29 00:07:34",
@@ -160549,96 +160606,6 @@
         "公司"
       ],
       "text": "【SpaceX的宏大解禁即將來臨 逾千億美元股票將可上市交易】SpaceX已為資本市場歷史上規模最大的股票解禁之一拉開序幕，下個月將有價值高達1160億美元的股票首次具備出售資格。禁止部分內部人士出售多達9.115億股股票的限制將於8月6日解除，也就是這家火箭、衛星和人工智慧公司首次公佈季度業績的兩天後。這還只是開始，到今年年底之前，將有數十億股股票獲得交易資格。投資者正在評估這種不同尋常的分階段解禁安排未來幾個月可能造成的影響。SpaceX上個月完成史上規模最大的首次公開募股後，其股價一直難以重現當時的狂熱。隨著股票解禁，早期投資者和在私募市場買入股票的投資者將尋求兌現鉅額回報，而賣空者也可增加看跌押注。"
-    },
-    {
-      "id": "te:markets:568609",
-      "time": "2026-07-22 00:12:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.81% Higher — The FTSE MIB Index gained 422 points or 0.81 percent on Tuesday to close at 52285 points. Gains were led by STMicroelectronics (4.34%), Prysmian (4.20%) and Finecobank (1.96%). Biggest losers were Diasorin (-3.96%), Infrastrutture Wire (-2.58%) and Amplifon (-2.27%)."
-    },
-    {
-      "id": "5000715",
-      "time": "2026-07-22 00:11:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國空襲威脅推升霍爾木茲海峽地緣風險】凱氏預測市場資料顯示，交易員預期霍爾木茲海峽航運受阻狀況將持續至 2027 年；市場認為，在 2026 年 12 月之前航運恢復正常的機率僅 31%。 美國總統唐納德・特朗普稱，美國 “很快” 將打擊伊朗納坦茲核設施附近的鎬山區域。這座防禦高度堅固的地點關聯伊朗核計劃，衝突升級可能性上升，或將對全球能源市場造成衝擊。"
-    },
-    {
-      "id": "te:markets:568608",
-      "time": "2026-07-22 00:11:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.66% Higher — The DAX Index went up by 165 points or 0.66 percent on Tuesday to close at 25011 points. The rise was led by Infineon (5.84%), Siemens Energy (3.60%) and Fresenius Medical Care (2.39%). On the downside, the weakerst performers were Munich RE (-3.17%), Hannover Rueck (-2.92%) and Siemens Healthineers (-2.07%)."
-    },
-    {
-      "id": "5000714",
-      "time": "2026-07-22 00:11:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【供電瓶頸制約美國AI資料中心建設】人工智慧的快速發展正在推動美國大型資料中心建設潮持續升溫。然而，美國輸電系統老化且效率低下，面對資料中心的高耗電量，美國電網承受巨大壓力。美國紐約州近日就暫停了大型資料中心建設的審批。美國媒體指出，電力供應瓶頸也制約著美國的資料中心建設。 (CCTV國際時訊)"
-    },
-    {
-      "id": "5000713",
-      "time": "2026-07-22 00:10:18",
-      "tags": [
-        "觀點"
-      ],
-      "text": "Adobe 股價跌 3%，摩根士丹利將目標價由 365 美元下調至 240 美元。"
-    },
-    {
-      "id": "te:markets:568607",
-      "time": "2026-07-22 00:10:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.28% Higher — The CAC 40 Index rose 23 points or 0.28 percent on Tuesday to close at 8363 points. Leading the gains are STMicroelectronics (4.34%), Societe Generale (2.37%) and TotalEnergies SE (2.12%). Top losers were Danone (-2.30%), Eurofins Scientific SE (-2.03%) and Publicis (-1.90%)."
-    },
-    {
-      "id": "5000712",
-      "time": "2026-07-22 00:09:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：黎巴嫩軍隊闖入黎巴嫩境內飛行員相關區域，以軍士兵向空中鳴槍示警，無人受傷。"
-    },
-    {
-      "id": "mkt:019f8570-bd6c-7aab-8e2f-125cccd27401",
-      "time": "2026-07-22 00:09:45",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish"
-      ],
-      "text": "White House says Royal Jordanian Airlines has ordered Boeing (BA.N) 787-9 jets from the United States."
-    },
-    {
-      "id": "mkt:019f8570-a3c7-7aab-8e2f-0bd738b3ef98",
-      "time": "2026-07-22 00:09:39",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "WTI"
-      ],
-      "text": "ISRAELI MILITARY says it fired on Lebanese army forces that entered an area not covered by the agreement."
     }
   ]
 }
