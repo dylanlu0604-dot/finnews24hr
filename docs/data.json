@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-29 03:22:12",
-  "count": 17591,
+  "updated": "2026-07-29 03:26:06",
+  "count": 17585,
   "items": [
+    {
+      "id": "5012974",
+      "time": "2026-07-29 03:23:07",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國2/10年期國債收益率跌超5個基點，追隨油價跌勢】週二（7月28日，美聯儲FOMC貨幣政策會議開幕當天）紐約尾盤，美國10年期國債收益率跌5.06個基點，報4.5981%，整體低開低走，北京時間23:00過後出現一波加速下跌行情、重新整理日低至4.5860%。兩年期美債收益率跌5.17個基點，報4.2706%，00:15也重新整理日低至4.2541%；30年期美債收益率跌4.58個基點，報5.0907%。2/10年期美債收益率利差漲0.120個基點，報+32.549個基點。10年期通脹保值國債（TIPS）收益率跌4.18個基點，至2.4015%；兩年期TIPS收益率跌1.88個基點，至2.1480%；30年期TIPS收益率跌4.76個基點，至2.9265%。"
+    },
     {
       "id": "5012973",
       "time": "2026-07-29 03:21:39",
@@ -161236,77 +161246,6 @@
         "國際"
       ],
       "text": "美國防長赫格塞思：五角大樓不再由官僚主導管理，取而代之的是歷經實戰考驗的老兵以及頂尖商界領袖，他們正以企業化模式運營國防部。"
-    },
-    {
-      "id": "mkt:019f8623-9420-7aab-8e30-dd31b21c07f6",
-      "time": "2026-07-22 03:25:06",
-      "tags": [
-        "MKT News",
-        "AAL.O",
-        "Impact bullish",
-        "DAL.O",
-        "UAL.O"
-      ],
-      "text": "Trump has instructed the U.S. government to permit all U.S. carriers to operate nonstop flights to Lebanon."
-    },
-    {
-      "id": "5000809",
-      "time": "2026-07-22 03:24:31",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：特此指示我的行政部門允許所有美國航空公司直飛黎巴嫩。"
-    },
-    {
-      "id": "mkt:019f8622-b899-7aab-8e30-d07e98484367",
-      "time": "2026-07-22 03:24:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps says it destroyed two radar installations in Kuwait."
-    },
-    {
-      "id": "5000808",
-      "time": "2026-07-22 03:24:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院共和黨領袖圖恩計劃在8月休會前將臨時撥款法案提交參議院審議。"
-    },
-    {
-      "id": "te:economy:568617",
-      "time": "2026-07-22 03:23:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Colombia Trade Deficit Narrows in May — Colombia's trade deficit narrowed to $1.59 billion in May 2026 from $1.78 billion a year earlier. Exports rose 19.2% year-on-year to $5.19 billion, driven by a 33.3% increase in fuels and extractive industry products, led by petroleum and related goods. Agricultural exports edged up 0.7%, supported by higher shipments of cut flowers and coffee extracts, while manufactured exports increased 0.2%, driven by chemicals and machinery. Exports from other sectors surged 67.0%, mainly reflecting higher non-monetary gold shipments. Meanwhile, imports rose 10.6% to $6.79 billion, led by an 8.2% increase in manufactured goods, particularly machinery and transport equipment, as well as chemicals. Imports of agricultural products rose 2.7%, while purchases of fuels and extractive industry products climbed 35.2%."
-    },
-    {
-      "id": "5000807",
-      "time": "2026-07-22 03:23:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊：發動勝利2號行動第二波打擊，摧毀科威特薩拉姆基地、布比延島多處雷達設施。"
-    },
-    {
-      "id": "5000806",
-      "time": "2026-07-22 03:22:27",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【算力超節點帶火液冷 浸沒式液冷嶄露頭角】隨著算力新基建超節點的湧現，其背後的液冷技術引發了行業新一輪關注。在2026世界人工智慧大會（WAIC 2026）上，華為、中興通訊、新華三、浪潮等知名伺服器廠商超節點的熱管理系統已全線向液冷升級，其中包括主流的冷板液冷，還有方興未艾的浸沒式液冷。中金公司預測，隨著新技術的亮相，2026年迎來液冷放量元年，全球智算中心液冷市場將達1147億元，同比增長273%，2027年仍有望保持高增長。受訪人士普遍認為，受高算力提振，液冷新技術正在不斷升級，並落地應用。伴隨著氟化液價格走低，浸沒式液冷將迎來工程化階段，市場景氣度可期。"
     }
   ]
 }
