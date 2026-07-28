@@ -1,7 +1,89 @@
 {
-  "updated": "2026-07-28 20:27:50",
+  "updated": "2026-07-28 20:31:52",
   "count": 17454,
   "items": [
+    {
+      "id": "mkt:019fa8b5-2a2b-7aab-8ecc-1c2684d21438",
+      "time": "2026-07-28 20:31:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BofA: A July Fed hike would be unprecedented】BofA expects the Fed to hold rates in July, despite markets pricing a small chance of a hike. The bank says a July increase would be unprecedented: since 1994 the Fed has never raised rates when market-implied probability was below 60%. BofA cites higher oil as the main inflation risk and remains USD-positive."
+    },
+    {
+      "id": "mkt:019fa8b4-432b-7aab-8ecc-142dafc214ae",
+      "time": "2026-07-28 20:30:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US wholesale inventories MoM (June) +0.3%; prior reading revised from +0.10% to +0.3%."
+    },
+    {
+      "id": "5012482",
+      "time": "2026-07-28 20:30:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國6月份商品出口環比下降1.8%。6月份商品進口環比下降2.6%。6月零售庫存環比持平；預計增長0.4%。6月批發庫存初值增長0.3%；預期增長0.4%。6月份商品貿易逆差為1015億美元；此前預期為-1000億美元。"
+    },
+    {
+      "id": "mkt:019fa8b4-2651-7aab-8ecc-0b721f11a1e0",
+      "time": "2026-07-28 20:30:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tasnim News Agency reports Iraq's prime minister has arrived in Turkey."
+    },
+    {
+      "id": "mkt:019fa8b4-13f2-7aab-8ecc-03d2fd8c62fe",
+      "time": "2026-07-28 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Wholesale Inventories (MoM) (Jun) | actual 0.3% | previous 0.10%"
+    },
+    {
+      "id": "mkt:019fa8b3-3223-7aab-8ecb-fa5be47f5f6c",
+      "time": "2026-07-28 20:29:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni media reported the foreign ministry said it will not accept any violation of Yemen's airspace and will take all measures to defend its sovereignty."
+    },
+    {
+      "id": "5012481",
+      "time": "2026-07-28 20:28:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【蘋果與Klarna合作在美國推出“Apple Upgrade”計劃】7月28日，蘋果宣佈在美國線上和零售門店推出“Apple Upgrade”計劃，這是一項由Klarna提供的新產品租賃計劃，適用於iPhone、Apple Watch、Mac和iPad。“Apple Upgrade”計劃為iPhone和Apple Watch提供12個月和24個月租賃選項，為Mac和iPad提供24個月和36個月租賃選項。其中，租賃起價分別為：iPhone每月17.99美元，Apple Watch每月11.99美元，Mac每月24.99美元，iPad每月11.99美元。同時，蘋果表示，將不再在美國提供iPhone升級計劃和iPhone分期付款服務。"
+    },
+    {
+      "id": "5012480",
+      "time": "2026-07-28 20:27:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦法院裁定Papaya Gaming向Skillz Platform Inc.（紐約證券交易所程式碼：FIRY）支付7.19億美元，追繳其透過虛假廣告獲取的不當得利。"
+    },
+    {
+      "id": "mkt:019fa8b1-eeb1-7aab-8ecb-f1d61c33610a",
+      "time": "2026-07-28 20:27:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wildberries said costs have exceeded 40 mln rubles after a drone attack on one of its facilities."
+    },
+    {
+      "id": "5012479",
+      "time": "2026-07-28 20:27:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本方面訊息： 熊本永旺商場數十名員工失聯。"
+    },
     {
       "id": "5012478",
       "time": "2026-07-28 20:26:35",
@@ -159939,95 +160021,6 @@
         "其他"
       ],
       "text": "微軟將在企業級產品中接入 Mistral 模型。"
-    },
-    {
-      "id": "5000415",
-      "time": "2026-07-21 20:31:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "奧本海默將達美樂披薩公司目標價從465美元下調至415美元。"
-    },
-    {
-      "id": "5000414",
-      "time": "2026-07-21 20:31:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟與Mistral將資助概念驗證專案，提供Azure積分，並主導人工智慧創新研討會。"
-    },
-    {
-      "id": "5000413",
-      "time": "2026-07-21 20:30:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國7月費城聯儲非製造業指數為7.4。"
-    },
-    {
-      "id": "5000412",
-      "time": "2026-07-21 20:30:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "微軟(MSFT.O)同意在Mistral的歐洲計算基礎設施上投資數十億美元。"
-    },
-    {
-      "id": "5000411",
-      "time": "2026-07-21 20:30:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：三星健康助手將於8月開啟Beta測試，需使用者主動選擇啟用。"
-    },
-    {
-      "id": "te:economy:568566",
-      "time": "2026-07-21 20:30:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "France 10Y Bond Yield Hits 17-year High — France 10 Year Government Bond Yield increased to 3.97%, the highest since June 2009. Over the past 4 weeks, France 10Y Bond Yield gained 37.00 basis points, and in the last 12 months, it increased 70.50 basis points."
-    },
-    {
-      "id": "5000410",
-      "time": "2026-07-21 20:29:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗武裝部隊：過去24小時襲擊巴林4處、科威特5處及約旦2處軍事基地】當地時間7月21日，伊朗伊斯蘭革命衛隊釋出戰報稱，在過去24小時內，伊朗武裝部隊對中東地區多個美軍及相關盟友的軍事基地實施了大規模導彈與無人機聯合打擊。根據宣告，此次行動的具體目標包括：巴林境內：4個軍事基地遭到攻擊；科威特境內：5個軍事基地遭到攻擊；約旦境內：2個軍事基地遭到攻擊。伊朗方面表示，這些打擊是對其此前遭受挑釁的回應，旨在削弱敵方在該地區的軍事存在與作戰能力。此次行動進一步證實了伊朗具備對波斯灣沿岸及周邊國家境內目標進行遠端精確打擊的能力。"
-    },
-    {
-      "id": "mkt:019f84a6-6810-7aab-8e29-2b87f9723a54",
-      "time": "2026-07-21 20:28:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI crude rose about 2% intraday to $84.57/bbl; Brent crude rose 1.47% to $88.77/bbl."
-    },
-    {
-      "id": "5000409",
-      "time": "2026-07-21 20:28:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【全球七成份額被中國機器狗拿捏】“上半年，我國研發的四足機器人佔全球銷量份額接近70%，人形機器人整機產品達400餘款、超全球半數。”在20日舉行的2026年上半年工業和資訊化發展情況新聞釋出會上，一組資料讓人眼前一亮。在智慧機器人這個高精尖領域，中國造不僅銷量上去了，更在海外市場交出“便宜能打”的實戰成績單。中國生產的機器人，早已不是實驗室中昂貴且遙不可及的高階裝備，而是英國倉庫、日本機場甚至世界盃賽場的實用工具。（中新經緯）"
-    },
-    {
-      "id": "5000408",
-      "time": "2026-07-21 20:28:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲2%，現報84.14美元/桶。"
     }
   ]
 }

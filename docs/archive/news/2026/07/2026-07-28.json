@@ -1,7 +1,89 @@
 {
   "date": "2026-07-28",
-  "count": 2545,
+  "count": 2555,
   "items": [
+    {
+      "id": "mkt:019fa8b5-2a2b-7aab-8ecc-1c2684d21438",
+      "time": "2026-07-28 20:31:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BofA: A July Fed hike would be unprecedented】BofA expects the Fed to hold rates in July, despite markets pricing a small chance of a hike. The bank says a July increase would be unprecedented: since 1994 the Fed has never raised rates when market-implied probability was below 60%. BofA cites higher oil as the main inflation risk and remains USD-positive."
+    },
+    {
+      "id": "mkt:019fa8b4-432b-7aab-8ecc-142dafc214ae",
+      "time": "2026-07-28 20:30:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US wholesale inventories MoM (June) +0.3%; prior reading revised from +0.10% to +0.3%."
+    },
+    {
+      "id": "5012482",
+      "time": "2026-07-28 20:30:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國6月份商品出口環比下降1.8%。6月份商品進口環比下降2.6%。6月零售庫存環比持平；預計增長0.4%。6月批發庫存初值增長0.3%；預期增長0.4%。6月份商品貿易逆差為1015億美元；此前預期為-1000億美元。"
+    },
+    {
+      "id": "mkt:019fa8b4-2651-7aab-8ecc-0b721f11a1e0",
+      "time": "2026-07-28 20:30:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tasnim News Agency reports Iraq's prime minister has arrived in Turkey."
+    },
+    {
+      "id": "mkt:019fa8b4-13f2-7aab-8ecc-03d2fd8c62fe",
+      "time": "2026-07-28 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Wholesale Inventories (MoM) (Jun) | actual 0.3% | previous 0.10%"
+    },
+    {
+      "id": "mkt:019fa8b3-3223-7aab-8ecb-fa5be47f5f6c",
+      "time": "2026-07-28 20:29:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni media reported the foreign ministry said it will not accept any violation of Yemen's airspace and will take all measures to defend its sovereignty."
+    },
+    {
+      "id": "5012481",
+      "time": "2026-07-28 20:28:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【蘋果與Klarna合作在美國推出“Apple Upgrade”計劃】7月28日，蘋果宣佈在美國線上和零售門店推出“Apple Upgrade”計劃，這是一項由Klarna提供的新產品租賃計劃，適用於iPhone、Apple Watch、Mac和iPad。“Apple Upgrade”計劃為iPhone和Apple Watch提供12個月和24個月租賃選項，為Mac和iPad提供24個月和36個月租賃選項。其中，租賃起價分別為：iPhone每月17.99美元，Apple Watch每月11.99美元，Mac每月24.99美元，iPad每月11.99美元。同時，蘋果表示，將不再在美國提供iPhone升級計劃和iPhone分期付款服務。"
+    },
+    {
+      "id": "5012480",
+      "time": "2026-07-28 20:27:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦法院裁定Papaya Gaming向Skillz Platform Inc.（紐約證券交易所程式碼：FIRY）支付7.19億美元，追繳其透過虛假廣告獲取的不當得利。"
+    },
+    {
+      "id": "mkt:019fa8b1-eeb1-7aab-8ecb-f1d61c33610a",
+      "time": "2026-07-28 20:27:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wildberries said costs have exceeded 40 mln rubles after a drone attack on one of its facilities."
+    },
+    {
+      "id": "5012479",
+      "time": "2026-07-28 20:27:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本方面訊息： 熊本永旺商場數十名員工失聯。"
+    },
     {
       "id": "5012478",
       "time": "2026-07-28 20:26:35",
