@@ -1,7 +1,98 @@
 {
-  "updated": "2026-07-28 22:07:23",
-  "count": 17564,
+  "updated": "2026-07-28 22:11:16",
+  "count": 17561,
   "items": [
+    {
+      "id": "mkt:019fa90f-fa79-7aab-8ecf-b4c59127baa3",
+      "time": "2026-07-28 22:10:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports OpenAI founder Altman is expected to meet the U.S. cyber chief."
+    },
+    {
+      "id": "5012709",
+      "time": "2026-07-28 22:09:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲天然氣基礎設施協會：德荷兩國儲氣庫庫存創歷史同期最低水平】歐洲天然氣基礎設施協會（GIE）的資料顯示，德國與荷蘭的地下儲氣庫庫存仍處歷史觀測以來的最低水平，比利時儲氣庫庫存則降至2015年以來的同期最低。"
+    },
+    {
+      "id": "5012708",
+      "time": "2026-07-28 22:09:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "捷藍航空執行長：預計2027年將恢復持續運營盈利能力。"
+    },
+    {
+      "id": "5012707",
+      "time": "2026-07-28 22:08:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮隨行記者訊息：澤連斯基與特朗普於橢圓形辦公室開啟會面。"
+    },
+    {
+      "id": "mkt:019fa90e-288c-7aab-8ecf-aade044628bc",
+      "time": "2026-07-28 22:08:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O): WhatsApp adds call conveniences including calls from WhatsApp Web, call transfer and background-noise suppression."
+    },
+    {
+      "id": "5012706",
+      "time": "2026-07-28 22:08:18",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【中際旭創：擬以40億元-80億元回購公司股份】中際旭創公告，公司於2026年7月28日收到董事長兼總裁劉聖先生出具的函件，提議公司使用自有或自籌資金以集中競價交易方式回購部分A股股票。回購資金總額不低於40億元（含）且不超過80億元（含），回購價格不高於董事會審議透過回購方案前30個交易日股票交易均價的150%，回購股份將用於股權激勵或員工持股計劃，若未能在三年內使用完畢則予以登出。"
+    },
+    {
+      "id": "mkt:019fa90d-5bcd-7aab-8ecf-a549a4641607",
+      "time": "2026-07-28 22:07:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "REUTERS SURVEY: Forecasts average gold at $4,509/oz in 2026 and $4,610/oz in 2027; average silver at $72/oz in 2026 and $71/oz in 2027."
+    },
+    {
+      "id": "5012705",
+      "time": "2026-07-28 22:07:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部：若日本放棄不友好立場將恢復經貿關係】俄羅斯副外長魯堅科在接受媒體採訪時表示，在日本放棄對俄不友好立場，並採取具體、務實措施的前提下，俄羅斯準備恢復與日本的全面經貿關係。魯堅科說，儘管俄日兩國的政治對話幾乎完全凍結，來自日本的投資者仍然參與俄遠東地區的能源專案。此外，兩國在漁業和木材加工等領域的合作仍在繼續。（新華社）"
+    },
+    {
+      "id": "5012704",
+      "time": "2026-07-28 22:07:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀開始追蹤研究美敦力，給予買入評級；目標價100美元。"
+    },
+    {
+      "id": "mkt:019fa90c-d0d9-7aab-8ecf-9a4165f4cd63",
+      "time": "2026-07-28 22:06:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "People familiar with the matter said FIFA plans to sell a significant minority stake in a new commercial entity valued at about $20 billion."
+    },
     {
       "id": "mkt:019fa90c-8043-7aab-8ecf-95861969da11",
       "time": "2026-07-28 22:06:36",
@@ -161022,129 +161113,6 @@
         "國際"
       ],
       "text": "美國上訴法院推翻了下級法院2025年將親巴勒斯坦抗議者從移民拘留中釋放的裁定。"
-    },
-    {
-      "id": "mkt:019f8504-19da-7aab-8e2b-a260c754774d",
-      "time": "2026-07-21 22:11:06",
-      "tags": [
-        "MKT News",
-        "INTC.O"
-      ],
-      "text": "Sources said it is unclear how many Intel (INTC.O) employees will be affected by the layoffs."
-    },
-    {
-      "id": "5000586",
-      "time": "2026-07-21 22:11:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用電氣航空航天：BBAM將從通用電氣航空航天收購30臺CFM LEAP備用發動機。"
-    },
-    {
-      "id": "5000585",
-      "time": "2026-07-21 22:10:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【武契奇稱將在辭去總統職務後參選總理】塞爾維亞總統武契奇20日在出席一場活動後對媒體表示，塞政府將先行辭職，隨後他將宣佈提前舉行議會選舉。在繼續履行總統職責至多兩週後，他將辭去總統職務並參加競選，爭取出任政府總理。議會是塞爾維亞國家最高權力機構，實行一院制。總理人選由總統提出並由議會投票產生，領導政府行使行政權；總統作為國家元首，主要履行憲法規定的職責。（新華社）"
-    },
-    {
-      "id": "5000584",
-      "time": "2026-07-21 22:09:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "福特汽車正在召回近38.8萬輛汽車，因第二排座椅存在問題，此問題可能增加受傷風險。"
-    },
-    {
-      "id": "mkt:019f8502-8e60-7aab-8e2b-9f880dc54bb1",
-      "time": "2026-07-21 22:09:24",
-      "tags": [
-        "MKT News",
-        "INTC.O",
-        "Impact bearish"
-      ],
-      "text": "People familiar with the matter said Intel (INTC.O) plans layoffs in its data-center unit."
-    },
-    {
-      "id": "mkt:019f8502-689a-7aab-8e2b-8caa35ae0b8a",
-      "time": "2026-07-21 22:09:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say the Caspian Pipeline Consortium has suspended receiving Kazakh oil at its Black Sea terminal after tankers were attacked."
-    },
-    {
-      "id": "mkt:019f8502-6aeb-7aab-8e2b-940a0d0b6c6a",
-      "time": "2026-07-21 22:09:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Wall Street Journal reports U.S. Trade Representative Greer said the U.S. is preparing a new round of tariffs."
-    },
-    {
-      "id": "te:markets:568585",
-      "time": "2026-07-21 22:08:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Edges Down on Tuesday — The Baltic dry index decreased 1 point to 2,670 on Tuesday, following a 2.9% fall on Monday. The panamax index, which usually carry 60,000 to 70,000 tons of coal or grain, dropped 2.1% to 2,181. Also, the supramax index went down 0.5% to 1,730, its first decline since early July. On the other hand, the capesize index, which typically transport 150,000-ton cargoes, rose 1.1% to 3,930, its first gain since July 14."
-    },
-    {
-      "id": "5000583",
-      "time": "2026-07-21 22:08:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "SpaceX股價上漲近6%，總市值報1.67萬億美元。"
-    },
-    {
-      "id": "mkt:019f8501-b22f-7aab-8e2b-85e69ba7578d",
-      "time": "2026-07-21 22:08:28",
-      "tags": [
-        "MKT News",
-        "F.N",
-        "Impact bearish"
-      ],
-      "text": "Ford Motor (F.N) is recalling about 388,000 vehicles for a defect in second-row seats that could increase the risk of injury."
-    },
-    {
-      "id": "5000582",
-      "time": "2026-07-21 22:08:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：據內部人士透露，英特爾計劃裁減其資料中心部門的員工。"
-    },
-    {
-      "id": "mkt:019f8501-47d2-7aab-8e2b-7a74a55d5184",
-      "time": "2026-07-21 22:08:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Kuwait's cabinet condemned Iran's aggression against Kuwaiti territory, saying Iran attacked two power plants and key oil facilities."
-    },
-    {
-      "id": "5000581",
-      "time": "2026-07-21 22:07:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "英偉達上漲0.6%，英特爾上漲4.6%，超威半導體上漲4.3%，美光科技大漲6.8%。"
     }
   ]
 }

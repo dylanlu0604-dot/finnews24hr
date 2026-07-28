@@ -1,7 +1,98 @@
 {
   "date": "2026-07-28",
-  "count": 2918,
+  "count": 2928,
   "items": [
+    {
+      "id": "mkt:019fa90f-fa79-7aab-8ecf-b4c59127baa3",
+      "time": "2026-07-28 22:10:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports OpenAI founder Altman is expected to meet the U.S. cyber chief."
+    },
+    {
+      "id": "5012709",
+      "time": "2026-07-28 22:09:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲天然氣基礎設施協會：德荷兩國儲氣庫庫存創歷史同期最低水平】歐洲天然氣基礎設施協會（GIE）的資料顯示，德國與荷蘭的地下儲氣庫庫存仍處歷史觀測以來的最低水平，比利時儲氣庫庫存則降至2015年以來的同期最低。"
+    },
+    {
+      "id": "5012708",
+      "time": "2026-07-28 22:09:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "捷藍航空執行長：預計2027年將恢復持續運營盈利能力。"
+    },
+    {
+      "id": "5012707",
+      "time": "2026-07-28 22:08:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮隨行記者訊息：澤連斯基與特朗普於橢圓形辦公室開啟會面。"
+    },
+    {
+      "id": "mkt:019fa90e-288c-7aab-8ecf-aade044628bc",
+      "time": "2026-07-28 22:08:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O): WhatsApp adds call conveniences including calls from WhatsApp Web, call transfer and background-noise suppression."
+    },
+    {
+      "id": "5012706",
+      "time": "2026-07-28 22:08:18",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【中際旭創：擬以40億元-80億元回購公司股份】中際旭創公告，公司於2026年7月28日收到董事長兼總裁劉聖先生出具的函件，提議公司使用自有或自籌資金以集中競價交易方式回購部分A股股票。回購資金總額不低於40億元（含）且不超過80億元（含），回購價格不高於董事會審議透過回購方案前30個交易日股票交易均價的150%，回購股份將用於股權激勵或員工持股計劃，若未能在三年內使用完畢則予以登出。"
+    },
+    {
+      "id": "mkt:019fa90d-5bcd-7aab-8ecf-a549a4641607",
+      "time": "2026-07-28 22:07:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "REUTERS SURVEY: Forecasts average gold at $4,509/oz in 2026 and $4,610/oz in 2027; average silver at $72/oz in 2026 and $71/oz in 2027."
+    },
+    {
+      "id": "5012705",
+      "time": "2026-07-28 22:07:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部：若日本放棄不友好立場將恢復經貿關係】俄羅斯副外長魯堅科在接受媒體採訪時表示，在日本放棄對俄不友好立場，並採取具體、務實措施的前提下，俄羅斯準備恢復與日本的全面經貿關係。魯堅科說，儘管俄日兩國的政治對話幾乎完全凍結，來自日本的投資者仍然參與俄遠東地區的能源專案。此外，兩國在漁業和木材加工等領域的合作仍在繼續。（新華社）"
+    },
+    {
+      "id": "5012704",
+      "time": "2026-07-28 22:07:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀開始追蹤研究美敦力，給予買入評級；目標價100美元。"
+    },
+    {
+      "id": "mkt:019fa90c-d0d9-7aab-8ecf-9a4165f4cd63",
+      "time": "2026-07-28 22:06:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "People familiar with the matter said FIFA plans to sell a significant minority stake in a new commercial entity valued at about $20 billion."
+    },
     {
       "id": "mkt:019fa90c-8043-7aab-8ecf-95861969da11",
       "time": "2026-07-28 22:06:36",
