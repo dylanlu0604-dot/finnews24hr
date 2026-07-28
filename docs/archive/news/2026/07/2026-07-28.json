@@ -1,7 +1,53 @@
 {
   "date": "2026-07-28",
-  "count": 3117,
+  "count": 3122,
   "items": [
+    {
+      "id": "5012845",
+      "time": "2026-07-28 23:59:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "捷藍航空股價上漲至10%，創6月中旬以來最大漲幅。"
+    },
+    {
+      "id": "5012844",
+      "time": "2026-07-28 23:58:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）資料顯示，荷蘭TTF天然氣下月期貨價格下跌5%，至每兆瓦時55.31歐元。"
+    },
+    {
+      "id": "5012843",
+      "time": "2026-07-28 23:57:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油日內跌5%，現報78.45美元/桶。"
+    },
+    {
+      "id": "te:markets:570479",
+      "time": "2026-07-28 23:56:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX 40 Rises to 3-Week High — Frankfurt’s DAX 40 climbed 0.5% to 25,492 on Tuesday, reaching its highest level since July 6, as investors reacted positively to corporate earnings updates and falling oil prices amid hopes of renewed US-Iran negotiations to ease Middle East tensions. SAP gained more than 5%, extending recent gains after launching the second stage of its €10 billion share buyback programme and reporting stronger-than-expected second-quarter results. Deutsche Telekom advanced more than 2%, while Airbus rose over 1.5%. Mercedes-Benz also increased more than 2% after maintaining its passenger car margin target, despite lowering its revenue forecast following a weaker quarter. In contrast, Infineon dropped around 6% as AI-related stocks remained under pressure due to concerns over stretched valuations, stronger Chinese competition, and rising investment needs. Energy stocks also declined as crude prices continued to weaken, with Siemens Energy falling around 7%."
+    },
+    {
+      "id": "5012842",
+      "time": "2026-07-28 23:56:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗駐華大使稱伊朗未介入曼德海峽問題，呼籲從源頭解決葉門】“伊朗不會介入胡塞武裝在地區所採取的任何行動，也沒有興趣讓緊張局勢和衝突繼續下去。”7月28日，在回答媒體提出的有關胡塞武裝宣佈對沙特實施禁運是否得到伊朗方面支援的問題時，伊朗駐華大使法茲裡作出上述表示。"
+    },
     {
       "id": "mkt:019fa970-609a-7aab-8ed1-27cad5cf1983",
       "time": "2026-07-28 23:55:41",
