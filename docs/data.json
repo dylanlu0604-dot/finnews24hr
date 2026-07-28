@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-29 01:45:27",
-  "count": 17598,
+  "updated": "2026-07-29 01:49:25",
+  "count": 17597,
   "items": [
+    {
+      "id": "5012940",
+      "time": "2026-07-29 01:47:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：我們與美國沒有談判，目前專注於與阿曼的談判。"
+    },
+    {
+      "id": "mkt:019fa9d5-577f-7aab-8ed3-468023da2e6c",
+      "time": "2026-07-29 01:45:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. crude and Brent edged up in a short-term rebound, trading at $78.48/bbl and $82.16/bbl respectively."
+    },
     {
       "id": "mkt:019fa9d3-dc4c-7aab-8ed3-3bf381832bec",
       "time": "2026-07-29 01:44:21",
@@ -161346,31 +161367,6 @@
         "Impact mixed"
       ],
       "text": "Iran's Fars News reported the area struck in Bahrain was a site where U.S. military personnel are stationed."
-    },
-    {
-      "id": "mkt:019f85cb-b843-7aab-8e2f-e62e9e5c1487",
-      "time": "2026-07-22 01:49:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Press TV reported an explosion near the U.S. consulate in Erbil, the capital of Iraq's Kurdistan region."
-    },
-    {
-      "id": "5000761",
-      "time": "2026-07-22 01:47:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國銀行對英鎊態度轉為中性 預計新首相將帶來密集訊息】美國銀行策略師已軟化了他們對英鎊的“超出共識的看漲觀點”，預計隨著政治不確定性持續高企，英鎊近期的漲幅將會回落。由Kamal Sharma為首的策略師在報告中表示，在本月英鎊“急劇、快速上漲”之後，他們對英鎊的觀點已經轉為短線中性。隨著新政府就位，市場將尋求新的平衡。“鑑於這個原因，以及歐元/英鎊跌破0.85，我們對英鎊持中性態度，” Sharma寫道。“雖然現在是夏季市場，但未來幾周訊息可能會持續不斷”。"
-    },
-    {
-      "id": "5000760",
-      "time": "2026-07-22 01:46:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心：伯莎開始向西轉向，熱帶風暴影響範圍將蔓延至佛羅里達狹長地帶預警區域內部分地區。"
     }
   ]
 }

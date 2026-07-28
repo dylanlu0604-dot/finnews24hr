@@ -1,7 +1,28 @@
 {
   "date": "2026-07-29",
-  "count": 168,
+  "count": 170,
   "items": [
+    {
+      "id": "5012940",
+      "time": "2026-07-29 01:47:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：我們與美國沒有談判，目前專注於與阿曼的談判。"
+    },
+    {
+      "id": "mkt:019fa9d5-577f-7aab-8ed3-468023da2e6c",
+      "time": "2026-07-29 01:45:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. crude and Brent edged up in a short-term rebound, trading at $78.48/bbl and $82.16/bbl respectively."
+    },
     {
       "id": "mkt:019fa9d3-dc4c-7aab-8ed3-3bf381832bec",
       "time": "2026-07-29 01:44:21",
