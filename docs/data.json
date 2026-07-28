@@ -1,7 +1,74 @@
 {
-  "updated": "2026-07-29 00:51:58",
-  "count": 17541,
+  "updated": "2026-07-29 00:55:49",
+  "count": 17544,
   "items": [
+    {
+      "id": "mkt:019fa9a6-f45d-7aab-8ed2-10ab86b6a2ab",
+      "time": "2026-07-29 00:55:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi cabinet condemned attacks by Iran-backed armed groups in Yemen and Iraq on oil facilities and vessels in the Red Sea."
+    },
+    {
+      "id": "5012890",
+      "time": "2026-07-29 00:54:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：伊拉克總理稱伊方可向土耳其供應100萬桶石油。"
+    },
+    {
+      "id": "mkt:019fa9a6-6f43-7aab-8ed2-0ad894c3c98a",
+      "time": "2026-07-29 00:54:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Erdogan said an Iraqi minister told him Iraq can supply Turkey with 1 million barrels of oil."
+    },
+    {
+      "id": "5012889",
+      "time": "2026-07-29 00:53:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈馬斯：加沙停火談判的結果取決於以色列是否同意相關提議。"
+    },
+    {
+      "id": "5012888",
+      "time": "2026-07-29 00:53:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "開雲集團CEO：預計第三季度業績大體持平。"
+    },
+    {
+      "id": "5012887",
+      "time": "2026-07-29 00:52:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國網路安全公司AlgoSec正考慮在倫敦進行首次公開募股（IPO）。"
+    },
+    {
+      "id": "5012886",
+      "time": "2026-07-29 00:52:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列高階官員：內塔尼亞胡與特朗普討論了所有關切領域，其中伊朗問題是主要焦點，雙方重申共同致力於阻止伊朗獲得核武器。"
+    },
+    {
+      "id": "mkt:019fa9a3-95d3-7aab-8ed2-04b6a9886b0b",
+      "time": "2026-07-29 00:51:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Israeli senior official said both sides discussed all areas of concern, with Iran the focus, and reiterated a shared commitment to prevent Iran from acquiring nuclear weapons."
+    },
     {
       "id": "mkt:019fa9a3-6479-7aab-8ed1-fb333d968c18",
       "time": "2026-07-29 00:51:25",
@@ -160810,49 +160877,6 @@
         "Nasdaq100"
       ],
       "text": "U.S. equities extended gains; the Dow and S&P 500 are up more than 1%, the Nasdaq is up 1.4%."
-    },
-    {
-      "id": "5000740",
-      "time": "2026-07-22 00:55:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "道指漲1.01%，現報52361.461點；納指漲1.40%，現報25864.536點；標普500指數漲0.96%，現報7514.730點。"
-    },
-    {
-      "id": "5000739",
-      "time": "2026-07-22 00:54:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克 100 指數漲幅擴大至 2%，創下日內新高。"
-    },
-    {
-      "id": "mkt:019f8599-eb32-7aab-8e2f-6ed9638cffca",
-      "time": "2026-07-22 00:54:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "SpaceXAI to bring GROK to Microsoft Outlook. GROK for Outlook is a Microsoft 365 add-in and is available today to all paid X and SUPERGROK users."
-    },
-    {
-      "id": "5000738",
-      "time": "2026-07-22 00:54:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收漲263美元，報13885美元/噸。LME期鋁收漲18美元，報3158美元/噸。LME期鋅收漲32美元，報3552美元/噸。LME期鉛收跌10美元，報1869美元/噸。LME期鎳收漲156美元，報17085美元/噸。LME期錫收漲1007美元，報53885美元/噸。LME期鈷收平，報56290美元/噸。"
-    },
-    {
-      "id": "5000737",
-      "time": "2026-07-22 00:53:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "空客首席財務官：我們預計至 2029 年，A320 專案產能將達到滿負荷水平。"
     }
   ]
 }
