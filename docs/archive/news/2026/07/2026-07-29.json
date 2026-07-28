@@ -1,7 +1,27 @@
 {
   "date": "2026-07-29",
-  "count": 15,
+  "count": 17,
   "items": [
+    {
+      "id": "mkt:019fa982-2ac0-7aab-8ed1-4c746e538388",
+      "time": "2026-07-29 00:15:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said he discussed diplomacy and Patriot air‑defense missiles with the United States."
+    },
+    {
+      "id": "te:markets:570485",
+      "time": "2026-07-29 00:13:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Lower — The FTSE MIB fell 0.7% to close at 51,698 on Tuesday as the war in the Middle East hampered Saipem's corporate results, while growing skepticism on AI overspending dented equity demand across the globe. Saipem tumbled 8.8% after lowering its core earnings forecast, citing higher costs and logistical disruptions linked to the Gulf conflict. Other energy stocks also declined, with Tenaris and Eni losing more than 1.5%. Semiconductor stocks remained under pressure as investors questioned elevated valuations amid concerns over AI investments ahead of earnings reports from major tech firms. Prysmian dropped 4.3%, while STMicroelectronics lost 3.1%. Banking stocks underperformed, led by BMPS (-1.9%) and Banco BPM (-1.8%), as reports of a potential merger between the two lenders raised uncertainty over Intesa Sanpaolo's (-0.4%) takeover bid. On the upside, Campari (3.4%), Amplifon (3%), and Ferrari (2.9%) extended gains from the previous session."
+    },
     {
       "id": "te:markets:570484",
       "time": "2026-07-29 00:12:11",
