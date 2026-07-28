@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-29 06:21:06",
-  "count": 17503,
+  "updated": "2026-07-29 06:24:59",
+  "count": 17506,
   "items": [
+    {
+      "id": "5013037",
+      "time": "2026-07-29 06:24:02",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】\n① 09:30 澳大利亞二季度CPI；\n② 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；\n③ 次日01:30 加拿大央行披露會議紀要；\n④ 次日02:00 美聯儲釋出利率決議宣告；\n⑤ 次日02:30 美聯儲主席沃什舉行新聞釋出會；\n⑥ 美股盤後 微軟、Meta、高通、Arm控股等釋出業績報告。"
+    },
+    {
+      "id": "5013036",
+      "time": "2026-07-29 06:23:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破82美元/桶，日內漲3.53%。"
+    },
+    {
+      "id": "mkt:019faad3-11c2-7aab-8ed5-e573c925814f",
+      "time": "2026-07-29 06:23:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The latest strike on Jordan is Iran’s first missile attack on US bases in the region since the US suspended strikes on Iran last Friday."
+    },
+    {
+      "id": "mkt:019faad1-2533-7aab-8ed5-de83a2a89937",
+      "time": "2026-07-29 06:21:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "Treasury Yields",
+        "WTI",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "As oil prices rose, U.S. 10-year Treasury futures fell three points."
+    },
+    {
+      "id": "mkt:019faad0-ee7f-7aab-8ed5-d7fa024adabf",
+      "time": "2026-07-29 06:20:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "WTI crude rose 3.00% to $80.68/barrel. US media reported Iran launched missiles at a US military base in Jordan."
+    },
     {
       "id": "5013035",
       "time": "2026-07-29 06:20:24",
@@ -160563,23 +160626,6 @@
         "INTC.O"
       ],
       "text": "【SK Hynix in talks to buy Intel Ohio campus to produce memory chips in US】South Korea’s JoongAng Ilbo reports SK Hynix (SKHY.O) is negotiating to acquire Intel’s (INTC.O) large semiconductor campus in Ohio, aiming to start front-end production of memory chips at the site within five years. SK Hynix is conducting internal reviews and seeking required government approvals; price and timing are still being worked out. If completed, the deal would help SK Hynix meet U.S. domestic-production requirements and provide cash relief to Intel’s strained foundry business."
-    },
-    {
-      "id": "5000941",
-      "time": "2026-07-22 06:24:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國議員要求美國證券交易委員會調查Truth Social資料商業化方案】紐約州民主黨聯邦眾議員裡奇·託雷斯已致函美國證券交易委員會，要求其調查Truth Social母公司向華爾街機構出售特朗普總統帖文實時訪問許可權的計劃是否違反聯邦證券法。這封信函意味著監管層對特朗普媒體科技集團（TMTG）計劃的審查進一步升級。該集團打算向機構投資者出售優先獲取特朗普具備市場影響力社交帖文的許可權，以此變現。特朗普媒體科技集團推出全新產品Truth API，計劃於8月1日正式上線，該介面可實時調取平臺熱度前十賬號的公開帖文。集團高管對外推介這項服務，最高收取每月10萬美元授權費。集團臨時執行長凱文·麥格恩表示，未來只要客戶願意支付更高費用，該介面可擴容支援更多賬號的資料調取。"
-    },
-    {
-      "id": "mkt:019f86c6-38ad-7aab-8e33-09c0821941c5",
-      "time": "2026-07-22 06:22:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【White House plans to shift federal R&D funding toward AI and individual scientists】The White House plans to accelerate federal research reform, redirecting more R&D funding toward AI applications and individual investigators rather than primarily to universities, according to a draft report and memos seen by the Wall Street Journal. The Office of Science and Technology Policy is expected to release guidance on Tuesday that would influence roughly $200 billion of annual federal R&D spending and steer allocations through the remainder of the Trump administration. The administration says it will prioritize funding mechanisms aimed at individual researchers—scholarships, prize programs and investigator awards—over direct university block grants; cited demonstration programs include NSF graduate-level initiatives and NIH awards for innovative scientists."
     }
   ]
 }

@@ -1,7 +1,70 @@
 {
   "date": "2026-07-29",
-  "count": 365,
+  "count": 370,
   "items": [
+    {
+      "id": "5013037",
+      "time": "2026-07-29 06:24:02",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】\n① 09:30 澳大利亞二季度CPI；\n② 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；\n③ 次日01:30 加拿大央行披露會議紀要；\n④ 次日02:00 美聯儲釋出利率決議宣告；\n⑤ 次日02:30 美聯儲主席沃什舉行新聞釋出會；\n⑥ 美股盤後 微軟、Meta、高通、Arm控股等釋出業績報告。"
+    },
+    {
+      "id": "5013036",
+      "time": "2026-07-29 06:23:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破82美元/桶，日內漲3.53%。"
+    },
+    {
+      "id": "mkt:019faad3-11c2-7aab-8ed5-e573c925814f",
+      "time": "2026-07-29 06:23:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The latest strike on Jordan is Iran’s first missile attack on US bases in the region since the US suspended strikes on Iran last Friday."
+    },
+    {
+      "id": "mkt:019faad1-2533-7aab-8ed5-de83a2a89937",
+      "time": "2026-07-29 06:21:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "Treasury Yields",
+        "WTI",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "As oil prices rose, U.S. 10-year Treasury futures fell three points."
+    },
+    {
+      "id": "mkt:019faad0-ee7f-7aab-8ed5-d7fa024adabf",
+      "time": "2026-07-29 06:20:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "WTI crude rose 3.00% to $80.68/barrel. US media reported Iran launched missiles at a US military base in Jordan."
+    },
     {
       "id": "5013035",
       "time": "2026-07-29 06:20:24",
