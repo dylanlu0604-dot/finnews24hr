@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-28 22:19:26",
-  "count": 17560,
+  "updated": "2026-07-28 22:23:25",
+  "count": 17557,
   "items": [
+    {
+      "id": "mkt:019fa91a-aa89-7aab-8ecf-bc877ea9da86",
+      "time": "2026-07-28 22:22:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【U.S. consumer confidence dips in July】The Conference Board’s consumer confidence index fell to 90.8 in July from a revised 92.2 in June, below a forecast of 92.3. \"In July, consumer feedback on factors affecting the economy remained predominantly pessimistic,\" Conference Board chief economist Dana Peterson said, adding mentions of employment and unemployment rose slightly and households’ views of the labor market remained relatively weak."
+    },
+    {
+      "id": "5012723",
+      "time": "2026-07-28 22:21:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "康寧股價跌幅進一步擴大，最新下跌20%。"
+    },
+    {
+      "id": "5012722",
+      "time": "2026-07-28 22:19:11",
+      "tags": [],
+      "text": "美股費城半導體指數跌超6％，納斯達克100指數跌超2％。"
+    },
+    {
+      "id": "5012721",
+      "time": "2026-07-28 22:19:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "路威酩軒股價轉漲，最新上漲0.4%。"
+    },
+    {
+      "id": "5012720",
+      "time": "2026-07-28 22:19:02",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場"
+      ],
+      "text": "【SpaceX股價較 6 月高點暴跌近五成】SpaceX 股價再度下跌 5.5%，較 6 月 16 日的峰值累計下挫 47%，市值蒸發超 1.2 萬億美元。本輪股價下跌主要受三大因素拖累：市場對人工智慧板塊估值的擔憂、地緣政治局勢不明朗，以及大規模空頭拋售行為。投資者同時密切關注 8 月 6 日大額限售股解禁事件，此次解禁將大幅增加市場流通股份數量。"
+    },
     {
       "id": "5012719",
       "time": "2026-07-28 22:18:07",
@@ -161033,79 +161081,6 @@
         "公司"
       ],
       "text": "【*ST利達：新增訴訟及仲裁事項金額5259.11萬元】*ST利達公告稱，自前期披露至公告日，公司及控股子公司新增訴訟及仲裁事項金額累計為5259.11萬元，佔最近一期經審計淨資產的9.77%。新增案件中，公司作為原告起訴中建三局、江蘇省建築工程集團等，涉及工程欠款糾紛，均待一審開庭。此外，前期披露的多起訴訟及仲裁事項，部分已判決、部分審理中、部分已申請撤回上訴將另行起訴。因部分案件未開庭或未判決，暫不能確定對公司利潤的影響。"
-    },
-    {
-      "id": "mkt:019f850f-4ae4-7aab-8e2c-038af81314dc",
-      "time": "2026-07-21 22:23:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German Foreign Minister WADEPHUL spoke today with Saudi Arabia's foreign minister; both said freedom of navigation and open international waterways are vital to regional and global security and said Germany and Saudi Arabia will continue to support de‑escalation."
-    },
-    {
-      "id": "5000597",
-      "time": "2026-07-21 22:23:18",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "市場訊息：月之暗面洽談 Pre-IPO 輪融資，目標估值 500 億美元。"
-    },
-    {
-      "id": "5000596",
-      "time": "2026-07-21 22:22:31",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅會見加拿大外長阿南德】中共中央政治局委員、外交部長王毅21日在馬尼拉會見加拿大外長阿南德。王毅表示，今年以來，中加關係持續向好發展，各層級交往日益密切，各領域合作成果湧現。上半年雙邊貿易額同比增長16%，特別是加方對華出口增長23.3%。加油菜籽、牛肉等農產品重返中國市場，中國電動汽車進入加方市場，為兩國民眾提供更多優質選擇。事實證明，中加關係改善發展符合兩國共同利益，受到兩國人民歡迎，是歷史正確的選擇。中方願同加方一道，落實兩國領導人重要共識，籌備好下階段高層交往，增進政治互信，拓展交流合作，加強在全球治理、人工智慧等多邊事務協作，妥處分歧敏感問題，不斷豐富中加新型戰略伙伴關係內涵，為變亂交織的世界注入更多確定性。（新華社）"
-    },
-    {
-      "id": "mkt:019f850d-f737-7aab-8e2b-fa777b852157",
-      "time": "2026-07-21 22:21:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's interior minister said Iran appreciates Pakistan's efforts to sign a memorandum of understanding."
-    },
-    {
-      "id": "5000595",
-      "time": "2026-07-21 22:21:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：OCADO集團將為一家歐洲零售商建造新的自動化客戶體驗中心。"
-    },
-    {
-      "id": "mkt:019f850c-76ca-7aab-8e2b-f16cadab4509",
-      "time": "2026-07-21 22:20:14",
-      "tags": [
-        "MKT News",
-        "LLY.N"
-      ],
-      "text": "Eli Lilly (LLY.N) says its advertising for its weight-loss drug is truthful and transparent."
-    },
-    {
-      "id": "mkt:019f850b-d24d-7aab-8e2b-efe8561507b0",
-      "time": "2026-07-21 22:19:32",
-      "tags": [
-        "MKT News",
-        "LLY.N",
-        "Impact bearish",
-        "NVO.N"
-      ],
-      "text": "Eli Lilly (LLY.N) said it will \"actively\" respond to a lawsuit filed by Novo Nordisk (NVO.N)."
-    },
-    {
-      "id": "mkt:019f850b-c2fb-7aab-8e2b-e069e5e2aa9d",
-      "time": "2026-07-21 22:19:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China foreign minister Wang Yi meets ASEAN secretary-general in Manila】China foreign minister Wang Yi met ASEAN secretary-general Kao Kim Hourn in Manila. Wang said the South China Sea should not be an obstacle to China‑ASEAN relations, accused elements within the Philippine military and police of deliberate provocations serving external powers’ interests that undermine China‑Philippines rapprochement and regional stability, and urged heightened vigilance. He said China will work with ASEAN to remove interference, accelerate negotiations on a South China Sea Code of Conduct, promote a peace-and-stability narrative and retain the initiative on South China Sea issues."
     }
   ]
 }

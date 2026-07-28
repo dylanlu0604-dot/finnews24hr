@@ -1,7 +1,55 @@
 {
   "date": "2026-07-28",
-  "count": 2943,
+  "count": 2948,
   "items": [
+    {
+      "id": "mkt:019fa91a-aa89-7aab-8ecf-bc877ea9da86",
+      "time": "2026-07-28 22:22:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【U.S. consumer confidence dips in July】The Conference Board’s consumer confidence index fell to 90.8 in July from a revised 92.2 in June, below a forecast of 92.3. \"In July, consumer feedback on factors affecting the economy remained predominantly pessimistic,\" Conference Board chief economist Dana Peterson said, adding mentions of employment and unemployment rose slightly and households’ views of the labor market remained relatively weak."
+    },
+    {
+      "id": "5012723",
+      "time": "2026-07-28 22:21:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "康寧股價跌幅進一步擴大，最新下跌20%。"
+    },
+    {
+      "id": "5012722",
+      "time": "2026-07-28 22:19:11",
+      "tags": [],
+      "text": "美股費城半導體指數跌超6％，納斯達克100指數跌超2％。"
+    },
+    {
+      "id": "5012721",
+      "time": "2026-07-28 22:19:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "路威酩軒股價轉漲，最新上漲0.4%。"
+    },
+    {
+      "id": "5012720",
+      "time": "2026-07-28 22:19:02",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場"
+      ],
+      "text": "【SpaceX股價較 6 月高點暴跌近五成】SpaceX 股價再度下跌 5.5%，較 6 月 16 日的峰值累計下挫 47%，市值蒸發超 1.2 萬億美元。本輪股價下跌主要受三大因素拖累：市場對人工智慧板塊估值的擔憂、地緣政治局勢不明朗，以及大規模空頭拋售行為。投資者同時密切關注 8 月 6 日大額限售股解禁事件，此次解禁將大幅增加市場流通股份數量。"
+    },
     {
       "id": "5012719",
       "time": "2026-07-28 22:18:07",
