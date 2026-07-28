@@ -1,7 +1,15 @@
 {
   "date": "2026-07-29",
-  "count": 236,
+  "count": 237,
   "items": [
+    {
+      "id": "mkt:019faa27-c85c-7aab-8ed4-4cd24fab3330",
+      "time": "2026-07-29 03:16:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham said football does not belong to private capital investors. FIFA had earlier decided to permit external investment."
+    },
     {
       "id": "mkt:019faa23-17c0-7aab-8ed4-4317ccda494e",
       "time": "2026-07-29 03:10:54",
