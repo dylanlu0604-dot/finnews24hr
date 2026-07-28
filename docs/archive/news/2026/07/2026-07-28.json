@@ -1,7 +1,198 @@
 {
   "date": "2026-07-28",
-  "count": 1576,
+  "count": 1597,
   "items": [
+    {
+      "id": "mkt:019fa79e-98f4-7aab-8ec3-072c8356e274",
+      "time": "2026-07-28 15:26:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MOFCOM: China's industrial capacity utilization overall within a reasonable range】At a July 28 State Council Information Office briefing, Lin Weilong, director of MOFCOM’s Policy Research Office, said China’s industrial capacity utilization is broadly within a reasonable range. Capacity utilization at industrial enterprises above designated size averaged 74.4% in 2025; utilization is stronger in high‑tech manufacturing, high‑end equipment and strategic emerging industries, while some traditional raw‑material sectors show temporary underuse linked to structural adjustment and the green transition—a normal phase of industrial upgrading. Overall, China’s industrial supply and demand are basically balanced and operating stably."
+    },
+    {
+      "id": "5011765",
+      "time": "2026-07-28 15:26:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元兌瑞郎升至六個月高點0.9318。"
+    },
+    {
+      "id": "mkt:019fa79e-9135-7aab-8ec2-fa4d6d49989b",
+      "time": "2026-07-28 15:26:54",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "EUR/CHF climbed to a six-month high of 0.9318."
+    },
+    {
+      "id": "5011764",
+      "time": "2026-07-28 15:26:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "7月28日，上期所銅期貨倉單26924噸，環比日減少100噸；鋁期貨倉單338001噸，環比減少7961噸；鋅期貨倉單117609噸，環比減少95噸；鉛期貨倉單57602噸，環比減少127噸；鎳期貨倉單99638噸，環比增加42噸；錫期貨倉單4379噸，環比減少80噸。"
+    },
+    {
+      "id": "mkt:019fa79e-7902-7aab-8ec2-f7df9c30ff76",
+      "time": "2026-07-28 15:26:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【Global chip sell-off intensifies; U.S. tech stocks may slide】Global semiconductor shares are being sold off and worries that rising competition from Chinese firms could curb AI investment have increased, likely weighing on U.S. technology stocks. In Asian trade, South Korea’s KOSPI fell 11%; memory giants Samsung Electronics and SK Hynix lost more than 13%; Japan's Nikkei and Taiwan's TAIEX each dropped roughly 4%. ING chief investment strategist Vincent Juvyns said trimming semiconductor positions is reasonable—a chance to take profits and diversify—but still recommends maintaining exposure given a clear multi-year earnings outlook, calling the rout a normal correction in a long-term growth cycle. CITIGROUP data show Nasdaq-100 long positions remain underwater, raising the risk of further pullbacks."
+    },
+    {
+      "id": "5011763",
+      "time": "2026-07-28 15:26:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合利華印度分部奈爾：城鄉市場需求目前均保持韌性。"
+    },
+    {
+      "id": "mkt:019fa79e-2c33-7aab-8ec2-ec9b4c8e1ecf",
+      "time": "2026-07-28 15:26:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign Ministry: Politicizing submarine cables will undermine international market rules】Responding to US reports that Washington is concerned about China deploying undersea fiber‑optic cables in the Pacific, Foreign Ministry spokesman Lin Jian said at a July 28 briefing that international submarine cables are critical civilian infrastructure key to global connectivity and the welfare of people worldwide. He warned that politicizing or securitizing the issue would undermine normal international market rules, threaten global data interconnectivity and cybersecurity, and serve no one's interest."
+    },
+    {
+      "id": "5011762",
+      "time": "2026-07-28 15:26:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼修改外資投資相關規定，外交部：雙方經貿投資合作是互利共贏】7月28日，外交部發言人林劍主持例行記者會。有記者就中國貿易代表團訪問印尼，以及印尼修改外資投資相關規定引發的爭議進行提問。林劍表示，外國投資者利用或掠奪印尼資源的言論，我們此前已經做出過回應，有關言論並不針對中國。近年來在兩國元首的戰略引領下，中印尼的經貿投資合作成果顯著，其本質是互利共贏的。作為兩個發展中大國，中印尼互為友鄰和重要的發展合作伙伴，合作前景廣闊。印尼方面多次表示期待同中國深化產供鏈合作，歡迎中資企業赴印尼投資。我們相信印尼將一如既往維護中資企業的合法權益，為他們在印尼的投資興業營造良好環境。（澎湃）"
+    },
+    {
+      "id": "mkt:019fa79d-f5de-7aab-8ec2-e7a0c7e5babe",
+      "time": "2026-07-28 15:26:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China urges Japan to fully investigate and rectify after SDF officer’s illegal entry into Chinese embassy】China’s Foreign Ministry said on July 28 it is strongly dissatisfied that four months after an active-duty Japan Self-Defense Forces officer identified as Murata illegally entered the Chinese embassy in Japan with a knife, Japan has delayed investigation—citing psychiatric evaluations and other excuses—and has not promptly punished the perpetrator. The ministry urged Japan to conduct a full probe, implement corrective measures, dig into root causes and provide a responsible explanation to China and the international community, saying threats to the safety of Chinese missions in Japan have continued intermittently."
+    },
+    {
+      "id": "te:markets:570330",
+      "time": "2026-07-28 15:25:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Nickel Falls from Over 1-Month High — Nickel fell to around $17,030 per tonne in late July, retreating from an over one-month high near $17,300, as investors locked in profits following a strong rally in recent weeks. Prices also came under pressure after Indonesia moved to resolve regulatory bottlenecks that had delayed exports of some nickel products, easing concerns over near-term supply disruptions. The move followed reports that the government is working to address uncertainty over the allowable rare-earth content in mineral shipments, which had disrupted exports of nickel products and alumina. Still, losses were limited by signs of tighter market conditions, with LME nickel inventories declining for six consecutive sessions, while support from Indonesian mining policies and slower nickel ore shipments from the Philippines had helped lift prices."
+    },
+    {
+      "id": "mkt:019fa79d-77bf-7aab-8ec2-dcf8f679046e",
+      "time": "2026-07-28 15:25:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Al Jazeera reported an Iranian government spokesman said Bushehr airport has suspended operations following a US strike."
+    },
+    {
+      "id": "5011759",
+      "time": "2026-07-28 15:25:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆瑞醫藥在浙江成立新公司 註冊資本5000萬】天眼查App顯示，近日，浙江恆瑞醫藥有限公司成立，法定代表人為戴洪斌，註冊資本5000萬人民幣，經營範圍含醫學研究和試驗發展、藥品批發、藥品零售、藥品委託生產等。股東資訊顯示，該公司由江蘇恆瑞醫藥股份有限公司全資持股。"
+    },
+    {
+      "id": "5011758",
+      "time": "2026-07-28 15:25:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中巴元首昨日通話，是否有更多細節披露？外交部回應】7月28日，外交部發言人林劍主持例行記者會。巴西記者提問，中國與巴西領導人昨天進行了通話，外交部可否提供關於此次通話的更多細節？林劍表示，27日上午，習近平主席應約同巴西總統盧拉通話，中方已經發布了訊息稿，你可以查閱。我想強調，中巴是攜手構建更公正世界和更可持續星球的命運共同體。當前形勢下，雙方持續深化全方位合作，將為兩國實現發展振興，增進人民福祉發揮積極作用，對引領“全球南方”團結自強，維護國際公平正義具有重要意義。（澎湃）"
+    },
+    {
+      "id": "5011757",
+      "time": "2026-07-28 15:25:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達20億港元。"
+    },
+    {
+      "id": "te:economy:570329",
+      "time": "2026-07-28 15:25:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Spain Retail Sales Growth Slows to 2-Year Low — Retail sales in Spain increased 0.5% year-on-year in June 2026, the lowest since June 2024, following a 1.3% rise in the previous month. Sales growth eased for non-food products (2.8% vs 3.8% in May), particularly personal equipment (1.5% vs 3.4%) and household equipment (2.9% vs 6.2%). Spending on food also slowed (0.3% vs 1.9%). On the other hand, sales growth accelerated for healthcare products (2.8% vs 2.5%). On a seasonally adjusted monthly basis, retail trade increased by 0.3% in June, after a 0.6% rise in May."
+    },
+    {
+      "id": "mkt:019fa79c-d9bf-7aab-8ec2-d50407a6f1c4",
+      "time": "2026-07-28 15:25:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign Ministry rejects US plan to spend hundreds of millions to counter China, says it opposes closed \"small circles\"】Foreign Ministry spokesman Lin Jian responded to reports the U.S. State Department plans to spend hundreds of millions to counter China’s influence in the Americas, Africa and Asia, saying bilateral ties should not be built to target third parties. Lin said China consistently opposes closed, exclusionary \"small circles\" and that its cooperation with relevant countries, especially developing nations, is not aimed at wooing or confronting others but at defending peace, promoting development, upholding international order and building a shared future."
+    },
+    {
+      "id": "5011756",
+      "time": "2026-07-28 15:24:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：將海纜議題政治化只會破壞正常國際市場規則】針對有報道稱美國擔心中方在太平洋地區佈設海底光纜，外交部發言人林劍28日在例行記者會上表示，國際海纜是重要的國際民用基礎設施，事關全球網路互聯互通和各國民眾的切身福祉。將海纜議題政治化、泛安全化只會破壞正常的國際市場規則，威脅全球資料互聯互通和網路安全，不符合任何一方利益。（新華社）"
+    },
+    {
+      "id": "5011755",
+      "time": "2026-07-28 15:24:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：歡迎更多外國朋友感受夏日中國】今天的外交部例行記者會上，有記者提及：不少歐洲遊客在夏天扎堆湧入中國，感受中式清涼；海外網民對中國文化產品和旅行體驗的興趣，正變為來華消費旅遊的行動。對此，外交部發言人林劍表示，我們也注意到越來越多的外國朋友選擇用腳步丈量中國，用中國人的方式來體驗中國人的生活。新能源車的展廳、國潮快閃店、科創園區等新業態，正與山水古蹟一道成為新的打卡目的地；反向海淘的熱潮持續升溫，也讓世界共享中國設計、中國製造的質感與創意；外國朋友青睞中國遊、中國購的背後，是中國堅持以高質量發展賦能世界，以高水平開放連線全球。 我們注意到近段時間，國內外媒體報道不少國際民調：致力於和平發展，充滿創新活力與文化魅力的中國，正獲得越來越多的信任與認可。歡迎更多的外國朋友，近距離感受夏日中國的火熱魅力。（央視新聞）"
+    },
+    {
+      "id": "5011754",
+      "time": "2026-07-28 15:24:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部：從中國的發展實際看，工業產能利用率總體處於合理區間】7月28日，國新辦就所謂“產能過剩”問題中方立場有關情況舉行新聞釋出會。商務部政策研究室主任林衛龍表示，從中國的發展實際看，工業產能利用率總體處於合理區間。2025年規模以上工業產能利用率為74.4%，高技術製造業、高階裝備製造業、戰略性新興產業等領域，產能利用更為充分；原材料等部分傳統行業產能利用率階段性偏低，主要是結構調整、綠色轉型帶來的適應性調整，屬於產業提質升級過程中的正常現象。中國工業整體上供需基本平衡、執行態勢平穩。"
+    },
+    {
+      "id": "5011753",
+      "time": "2026-07-28 15:24:18",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【中方一貫反對搞封閉排他小圈子】7月28日，外交部發言人林劍主持例行記者會。 紐約時報記者提問，據報道，美國國務院計劃投入數億美元來“制衡”中國在美洲、非洲和亞洲日益增長的影響力。請問中方對此有何回應？ 林劍表示，國家之間發展正常關係、開展正常合作，不應針對第三方。中方一貫反對搞封閉排他的“小圈子”。 林劍強調，中國同有關國家和地區的合作，特別是同發展中國家的合作，不是要拉攏誰、對抗誰，而是要共同捍衛世界和平，促進全球發展，維護國際秩序，共同構建人類命運共同體。"
+    },
+    {
+      "id": "5011752",
+      "time": "2026-07-28 15:24:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方回應村田晃大被公訴】7月28日，外交部發言人林劍主持例行記者會。 有記者提問，據報道，日本東京地方檢察廳完成對持刀闖入中國駐日本使館的自衛隊現役官員的精神鑑定，認定其具有刑事責任能力，已對其提起公訴。請問中方對此有何評論？ 林劍表示，日本自衛隊現役官員村田晃大非法持刀闖入中國駐日本使館，案件發生已經過去4個月，日方不顧中方的多次嚴正交涉，以所謂“精神鑑定”等各種藉口一再拖延調查處置，不及時嚴懲兇犯，中方對此強烈不滿。 林劍指出，一段時間以來，威脅中國駐日本使領館安全的惡性事件仍時有發生。許多日本國內和國際社會的有識之士指出，這一系列的危險動向反映出當前日本存在諸多深層問題，包括日本國內右翼勢力猖獗、理性聲音受到壓制、正確的歷史教育嚴重缺失、安保政策朝著進攻性擴張性方向轉變、自衛隊內部失管失教。日方任何避重就輕、淡化處理，都是在縱容和助長此類不正之風，最終將給日本自身和地區造成極大危害，國際社會必須高度警惕。 “我們再次敦促日方徹查整改、反思糾錯，深挖背後根源，向中方和國際社會作出負責任的交代。”林劍說。（北京日報）"
+    },
     {
       "id": "5011751",
       "time": "2026-07-28 15:21:20",
