@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-29 06:59:41",
+  "updated": "2026-07-29 07:05:06",
   "count": 17546,
   "items": [
+    {
+      "id": "5013087",
+      "time": "2026-07-29 07:02:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【AI短劇半年規模超220億元，產業爆發重塑內容生產邏輯】今年上半年，AI短劇交出了一份遠超市場預期的成績單。DataEye最新資料顯示，今年1月至5月AI短劇市場規模已突破220億元，全年有望衝擊400億元大關，國內AI短劇使用者在今年上半年突破6億。當前，從平臺到製作方，從技術提供方到內容創作者，各方都在熱議一個共同話題——AI正在從根本上重塑短劇的生產邏輯與商業邊界。業內人士普遍認為，AI短劇已走過試探期，規模化的產業爆發正在發生。（中證報）"
+    },
+    {
+      "id": "5013086",
+      "time": "2026-07-29 07:02:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港金管局透過貼現視窗向銀行投放2.79億港元流動性。"
+    },
+    {
+      "id": "5013085",
+      "time": "2026-07-29 06:59:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【二季度券商客戶投訴量環比增長22.3%】從業內獲悉，中國證券業協會近日在行業內通報了2026年二季度證券公司投訴處理工作情況，給火熱的市場提了醒：當二季度A股日均成交額衝上2.88萬億元、兩融餘額一度突破3萬億元大關之際，投資者訴求也同步“水漲船高”。資料顯示，二季度全行業共接收客戶投訴9610件，環比攀升22.3%；在投訴總量上行的背景下，辦結率仍維持高位，當期累計辦結8888件，辦結率達92.5%。（中證報）"
+    },
     {
       "id": "mkt:019faaf4-0796-7aab-8ed6-9cae983d5065",
       "time": "2026-07-29 06:59:07",
@@ -160967,36 +160991,6 @@
         "Importance 1"
       ],
       "text": "US Crude Inventories Unexpectedly Rise — US crude oil inventories posted an unexpected build of 2.603 million barrels in the week ending July 17, according to API data, compared with expectations for a 1.5 million-barrel draw, after a 564,000-barrel decline in the previous week. Despite the increase, commercial crude inventories excluding the Strategic Petroleum Reserve (SPR) have fallen by more than 57 million barrels over the past 13 weeks and remain about 7 million barrels lower year-to-date. The SPR declined by another 5.1 million barrels to 316.5 million, the lowest level in more than 43 years. Meanwhile, Cushing inventories fell by 737,000 barrels, gasoline stocks dropped by 1.379 million barrels, and distillate inventories rose by 1.759 million barrels. US crude production edged up to 13.861 million bpd, while renewed US-Iran tensions and continued shipping disruptions through the Strait of Hormuz kept oil prices supported."
-    },
-    {
-      "id": "5000961",
-      "time": "2026-07-22 07:03:18",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【7月22日隔夜要聞一覽】\n1、伊朗哈塔姆·安比亞中央司令部發表宣告稱，美國威脅要攻擊伊朗的核設施和敏感中心，一旦美軍採取這種行動，伊朗將視其為地區戰爭的擴張，地區內美國及其盟友的所有利益都將成為伊朗武裝部隊強力打擊的目標。\n2、美國國防部長赫格塞思表示，美國對伊朗戰爭迄今已耗資375億美元，高於此前公佈的估算。\n3、當地時間7月21日，受美伊相互襲擊升級及葉門胡塞武裝威脅封鎖沙烏地阿拉伯海運影響，國際油價升至五週以來最高水平。WTI原油期貨8月合約結算價收漲2.02%，布倫特原油期貨9月合約結算價收漲2.01%。\n4、美國總統特朗普最快將於本週對數十個國家加徵新關稅。美國貿易代表賈米森·格里爾當天在接受採訪時暗示，美國聯邦政府將很快出臺新的關稅政策以替代即將到期的10%全球進口關稅。\n5、葉門胡塞武裝20日警告國際航運公司稱，與沙特港口開展貿易往來的船隻可能面臨軍事打擊，進一步擴大了其此前宣佈的針對沙特的海上禁運範圍。\n6、加拿大總理馬克·卡尼表示，在美國關稅宣佈後，他已與美國總統特朗普通話。卡尼還表示，如果（新關稅）生效，加拿大將考慮所有應對選項。\n7、美國總統特朗普當天表示，美國“很快”將對伊朗位於納坦茲以南的“鎬山”地下核設施發動打擊，而且打擊力度將“非常猛烈”。在白宮會見到訪的黎巴嫩總統奧恩時表示，如果葉門胡塞武裝封鎖紅海，美國將採取行動。\n8、OpenAI於7月21日宣佈，旗下AI智慧體產品——程式設計工具Codex和通用任務工具ChatGPT Work——的合併周活躍使用者數已突破1000萬，較本月早些時候幾乎翻倍。\n9、週二，英偉達正式釋出資料中心 CPU Vera 的詳細資料，包含晶片規格、基準測試資料與架構資訊，可供潛在客戶完整評估。英偉達代表透露，Vera 晶片已於 6 月交付客戶，採購方包括 OpenAI、Anthropic 以及 SpaceX。\n10、超微電腦週二表示，其6月當季的利潤率高於此前預期，且新訂單激增。當季毛利率和調整後毛利率預計在15%至17%之間，較管理層5月份給出的8.2%至8.4%的預測區間大幅提升。\n11、SpaceX約9.115億股內部人士持股將於8月6日解除限售，對應市值約1160億美元。SpaceX採用分批次解禁，到年底前，可流通股份總量將從目前約6.39億股驟增至53.3億股。"
-    },
-    {
-      "id": "5000960",
-      "time": "2026-07-22 07:00:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "聯合國秘書長：美國與伊朗針對民用基礎設施的襲擊必須停止。"
-    },
-    {
-      "id": "mkt:019f86e8-cd6b-7aab-8e33-63f2b0ce687c",
-      "time": "2026-07-22 07:00:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Trump announces two-year zero tariffs on imported generics from Aug. 1, 2026; then 100% and 200% hikes】President Trump said all generic drugs imported into the United States will have zero tariffs for two years from Aug. 1, 2026. Thereafter tariffs will be raised to 100% for one year and then to 200% thereafter; the move is aimed at repatriating generic drug production and penalizing firms that fail to establish domestic production facilities and equipment within the required timeframe. Existing tariff and trade policies for patented, brand and innovative drugs will remain unchanged. U.S. construction of pharmaceutical manufacturing capacity is proceeding at an unprecedented scale nationwide, he said."
     }
   ]
 }
