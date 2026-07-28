@@ -1,7 +1,57 @@
 {
   "date": "2026-07-29",
-  "count": 375,
+  "count": 381,
   "items": [
+    {
+      "id": "5013045",
+      "time": "2026-07-29 06:32:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破83美元/桶，日內漲4.81%。"
+    },
+    {
+      "id": "5013044",
+      "time": "2026-07-29 06:31:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【知名基金經理頻出手，醫藥板塊關注度升溫】在近期的科技股震盪行情中，醫藥板塊的關注度悄然升溫。從最新動向看，謝治宇、朱少醒等多位知名基金經理積極出手，透過定增買入醫藥股。從資金流向看，近期大量資金湧入創新藥主題ETF。據Choice測算，7月1日至27日，創新藥主題ETF合計資金淨流入141.62億元。從總體來看，公募基金對醫藥板塊的配置比例仍處於歷史低位。據興業證券測算，截至二季度末，A+H股醫藥板塊主動基金持倉比例為6.33%，季度環比下降3.39個百分點。從持倉結構來看，主要集中於創新藥相關公司。（上證報）"
+    },
+    {
+      "id": "te:markets:570512",
+      "time": "2026-07-29 06:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Falls by 4.63% — Top commodity losers are Natural gas (-4.63%), Natural Gas UK (-4.47%), Naphtha (-4.06%) and Brent Crude Oil (-1.06%). Gains are led by Heating Oil (2.94%), Ethanol (1.04%), Gasoline (1.03%) and Crude Oil WTI (0.07%)."
+    },
+    {
+      "id": "mkt:019faad8-4ec1-7aab-8ed5-faa5c5b4703f",
+      "time": "2026-07-29 06:28:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "CENTCOM said at 5:45 p.m. ET today Iran's Islamic Revolutionary Guard Corps launched multiple ballistic missiles from Iran aimed at US forces in the Middle East; all missiles were successfully intercepted. US forces remain vigilant and on high alert."
+    },
+    {
+      "id": "5013042",
+      "time": "2026-07-29 06:28:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美軍方： 伊朗發射的所有導彈均已成功攔截。"
+    },
     {
       "id": "5013041",
       "time": "2026-07-29 06:28:08",
@@ -18,6 +68,14 @@
         "其他"
       ],
       "text": "力拓上半年基礎利潤68.5億美元，分析師預期67.8億美元。"
+    },
+    {
+      "id": "5013039",
+      "time": "2026-07-29 06:27:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【部分百億級私募持倉曝光 計算機板塊“吸金”】A股上市公司半年報，曝光了部分百億級私募截至今年6月末的調倉動向。近日，海康威視釋出的半年報顯示，高毅資產和重陽戰略投資兩大百億級私募現身該公司前十大流通股股東名單。其中：高毅資產持有該公司1.13億股；重陽戰略投資持股數量超過1.1億股，且相較於一季度末顯著加倉。此外，同屬計算機板塊的智微智慧二季度末的前十大流通股股東名單中，也出現了百億級私募騰勝投資的身影。值得注意的是，7月以來，科技板塊波動顯著加劇，上半年頻頻加碼的百億級私募如今是否仍堅定持有科技股？記者採訪獲悉，多家頭部私募選擇平衡組合配置以應對短期風險。但是從中長期來看，多位百億級私募人士認為，科技產業趨勢和基本面並未發生變化，有業績支撐且景氣度向上的硬科技板塊，仍是後續重點跟蹤、擇機佈局的重要方向。（上證報）"
     },
     {
       "id": "mkt:019faad5-dfea-7aab-8ed5-f400743373f3",
