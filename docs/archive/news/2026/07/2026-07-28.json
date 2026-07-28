@@ -1,7 +1,75 @@
 {
   "date": "2026-07-28",
-  "count": 1121,
+  "count": 1128,
   "items": [
+    {
+      "id": "5011435",
+      "time": "2026-07-28 12:28:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新和成新設功能材料公司，含民用航空材料銷售業務】企查查APP顯示，近日，新昌新和成功能材料有限公司成立，法定代表人為周貴陽，註冊資本為3000萬元，經營範圍包含：新材料技術研發；生物基材料技術研發；電子專用材料研發；民用航空材料銷售等。企查查股權穿透顯示，該公司由新和成間接全資持股。"
+    },
+    {
+      "id": "mkt:019fa6fa-8e41-7aab-8ebf-0fb5921290e8",
+      "time": "2026-07-28 12:27:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Pictet Wealth: Markets may be overpricing Fed hike odds】Pictet Wealth Management says markets are pricing in unusually high odds of a Fed rate hike. Senior US economist Xiao Cui wrote that while a surprise hike cannot be ruled out, current market pricing appears excessive. US inflation data and Fed officials’ remarks support expectations the Fed will keep the funds rate at 3.5%-3.75% this week, but officials continue to view inflation as the primary policy risk, leaving the door open to tightening as early as September. Cui expects two FOMC members to dissent in favor of a 25bp hike, and Kashkari may join them."
+    },
+    {
+      "id": "5011434",
+      "time": "2026-07-28 12:26:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光弘科技：液冷伺服器相關業務將於下半年逐步進入量產】光弘科技(300735)7月28日在互動平臺表示，公司液冷伺服器相關業務會於今年下半年逐步進入量產。公司正為此加緊量產場地、產線佈設，並針對工藝難點與客戶共同進行技術攻關。目前公司已涉及AI伺服器中算力板卡、液冷元件、專用電源、等重要部件的生產、測試環節，未來也將進一步拓展伺服器整機的組裝業務。"
+    },
+    {
+      "id": "mkt:019fa6f9-56be-7aab-8ebf-03796515b528",
+      "time": "2026-07-28 12:26:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China launches initiative to boost IPv6 capacity for large AI models】The Cyberspace Administration of China (CAC), together with CAC offices in Beijing, Shanghai, Zhejiang and Shenzhen and five leading large-model firms, launched a special initiative in Xiong'an New Area to expand IPv6 support for generative AI applications. Organizers cited explosive growth in token traffic and new network capacity demands; the initiative promotes IPv6 as the underlying infrastructure owing to its vast address space, efficient routing and native security features."
+    },
+    {
+      "id": "5011433",
+      "time": "2026-07-28 12:26:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國啟動人工智慧大模型IPv6能力提升專項行動】記者今天（7月28日）從雄安新區瞭解到，“人工智慧大模型IPv6能力提升專項行動”由中央網信辦聯合北京、上海、浙江、深圳四地網信辦，會同5家頭部大模型企業在雄安新區共同啟動，推動生成式大模型應用，全面支援IPv6，為智慧時代築牢網路根基。當前，基於人工智慧大模型的各類應用蓬勃發展，Token流量呈現爆發式增長趨勢，對網路承載能力提出了新要求。IPv6憑藉海量地址空間、高效路由機制和內生安全能力成為支撐大模型應用的關鍵底座。這次專項行動為期一年，將著力增強大模型IPv6規模化應用能力，完善大模型IPv6管理規範，提高大模型基礎設施IPv6支援水平，推動大模型應用IPv6放量引流，提升大模型API呼叫IPv6訪問佔比，推進大模型與IPv6融合創新，促進網際網路向原生智慧演進。今天還正式啟動了雄安新區IPv6單棧部署行動。雄安新區將全面推進單棧IPv6部署，從夯基礎、廣賦能、強攻關、育生態四個維度協同發力，到2030年新建片區將全面實現IPv6單棧規模化執行。（央視新聞）"
+    },
+    {
+      "id": "5011432",
+      "time": "2026-07-28 12:25:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國啟動人工智慧大模型IPv6能力提升專項行動】記者今天（7月28日）從雄安新區瞭解到，“人工智慧大模型IPv6能力提升專項行動”由中央網信辦聯合北京、上海、浙江、深圳四地網信辦，會同5家頭部大模型企業在雄安新區共同啟動，推動生成式大模型應用，全面支援IPv6，為智慧時代築牢網路根基。"
+    },
+    {
+      "id": "mkt:019fa6f8-bcb7-7aab-8ebe-fd0bf8413947",
+      "time": "2026-07-28 12:25:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper"
+      ],
+      "text": "【Shengyi Technology starts construction of second Songshan Lake plant】Shengyi Technology began construction of its second Songshan Lake plant today, with total investment of about 5.2 bln yuan. The project targets high-frequency, high-speed materials for AI servers, substrate materials for automotive electronics, and high-end packaging substrates. On completion it will have annual capacity of 48 mln sqm of high-performance copper-clad laminates and 100 mln meters of commercial bonding sheets."
+    },
     {
       "id": "5011431",
       "time": "2026-07-28 12:25:00",
