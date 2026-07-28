@@ -1,7 +1,82 @@
 {
-  "updated": "2026-07-28 08:14:38",
-  "count": 17830,
+  "updated": "2026-07-28 08:18:26",
+  "count": 17835,
   "items": [
+    {
+      "id": "5011023",
+      "time": "2026-07-28 08:17:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國主導的以色列和黎巴嫩問題會談將於8月4日至6日在羅馬舉行。"
+    },
+    {
+      "id": "5011022",
+      "time": "2026-07-28 08:17:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國Kospi指數延續跌勢，最新下跌6.7％，報6301.84點。"
+    },
+    {
+      "id": "mkt:019fa615-3431-7aab-8eb8-991c00eaff93",
+      "time": "2026-07-28 08:17:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange (KRX) activated the sidecar mechanism on the KOSDAQ index and suspended programmatic sell orders on KOSDAQ."
+    },
+    {
+      "id": "5011021",
+      "time": "2026-07-28 08:17:06",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：當前銅板塊尚處估值修復伊始】中信證券指出，多重利好推動銅價再度衝擊14000美元，後續庫存走低、供給擾動等核心驅動因素料仍將延續，關稅的多數潛在路徑依然利好銅，中性假設下年內銅價有望衝擊15000美元。當前銅板塊尚處估值修復伊始，漲價預期的形成與市場情緒的改善將繼續推動估值修復。"
+    },
+    {
+      "id": "5011020",
+      "time": "2026-07-28 08:17:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本晶片股大幅下跌，瑞薩電子股價下跌7.4%，愛德萬測試股價下跌8.2%。"
+    },
+    {
+      "id": "5011019",
+      "time": "2026-07-28 08:16:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江十部門聯合印發行動方案，進一步加強養老機構安全管理】近日，浙江省民政廳等十部門聯合印發《浙江省養老機構安全管理提升三年行動實施方案（2026-2028年）》。《實施方案》提出，到2028年底，養老機構安全管理長效機制更加健全，安全形勢持續穩定向好。《實施方案》包含五個章節，共15項條款，提出建立常態化聯合檢查機制、推進養老機構裝置設施更新改造、推廣運用智慧裝置等主要內容。"
+    },
+    {
+      "id": "5011018",
+      "time": "2026-07-28 08:16:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列、黎巴嫩和美國預計將於下週舉行會談。"
+    },
+    {
+      "id": "5011017",
+      "time": "2026-07-28 08:15:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化賣盤。"
+    },
+    {
+      "id": "5011016",
+      "time": "2026-07-28 08:15:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數下跌3% 受晶片和金屬股拖累】繼隔夜美國科技股下跌後，日本股市早盤走低，日經指數下跌3%。對伊朗衝突的不確定性也令市場承壓。晶片和金屬股領跌。愛德萬測試下跌8.0%，Mitsui Kinzoku下跌6.1%。在沙烏地阿拉伯表示攔截了伊拉克境內受伊朗支援的民兵向該國石油設施發射的無人機後，投資者正密切關注原油價格和中東局勢的發展。"
+    },
     {
       "id": "5011015",
       "time": "2026-07-28 08:13:43",
@@ -163467,48 +163542,6 @@
         "FTSE100"
       ],
       "text": "Euro Stoxx 50 futures fell 0.8%, DAX futures fell 0.7% and UK FTSE 100 futures fell 0.8%."
-    },
-    {
-      "id": "4998636",
-      "time": "2026-07-21 08:17:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨下跌0.8%，德國DAX指數期貨下跌0.7%，富時指數期貨下跌0.8%。"
-    },
-    {
-      "id": "mkt:019f8208-53ed-7aab-8e16-989d624f3715",
-      "time": "2026-07-21 08:16:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "01113.HK",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【Leasing at Li Ka Shing's CK Asset tower doubles to ~60% as Hong Kong office market recovers】CK Asset Holdings (01113.HK) says occupancy at a 41-storey Hong Kong office tower, long vacant since its 2024 completion, has more than doubled since the start of the year to about 60%, people familiar with the matter said. The pickup, led by financial firms upgrading and expanding space, signals a broader recovery in Hong Kong's office market. CK Asset expects occupancy to reach at least 75% by year-end, the people said. JLL data show Central prime office rents rose 7.3% in 1H — the biggest half-year gain in 15 years — and vacancy fell from 10.9% at end-2025 to 8.8%."
-    },
-    {
-      "id": "te:markets:568335",
-      "time": "2026-07-21 08:16:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Steadies as Middle East Conflict Rages On — Silver steadied near above $56 an ounce on Tuesday but stayed close to its lowest level in eight months as the ongoing conflict between the US and Iran kept investors focused on the risks of energy-driven inflation and the prospect of higher interest rates. US attacks on Iran entered a tenth consecutive day, with President Donald Trump warning that Iran would be held responsible for the deaths of three US service members. Iran-backed Houthi militants also announced a maritime embargo against Saudi Arabia, raising concerns over energy shipments through the Red Sea. Meanwhile, Iran said mediators had put forward proposals aimed at easing tensions with the US following several days of fighting, while reports pointed to a possible 10-day ceasefire. US Treasury yields climbed sharply this week, with markets now pricing in about a 55% chance of a Federal Reserve rate hike in September, up from 51% a day earlier."
-    },
-    {
-      "id": "4998635",
-      "time": "2026-07-21 08:15:18",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【全球首推第二代刀片電池、兆瓦閃充系統 工信部點尚比亞迪打破技術瓶頸】在國務院新聞辦公室7月20日舉辦的新聞釋出會上，深圳比亞迪公司全球首推的第二代刀片電池、兆瓦閃充系統，被工業和資訊化部特別提及並點贊“打破技術瓶頸”。 這項源自深圳企業比亞迪的重磅創新，並非單一產品突破，而是深圳全域加快推進“AI+能源”深度融合、構建新型智慧能源體系，從動力電池底層革新，到AI貫穿源網荷儲全鏈條，全方位助力新型能源體系“向智向新”的生動實踐。 今年3月，比亞迪釋出第二代刀片電池及閃充技術，實現電量從10%到70%僅需5分鐘，10%到97%需9分鐘，且零下30℃極寒環境仍保持穩定補能效率，徹底解決“電車不過山海關”的行業痛點。也讓“一杯咖啡，滿電出發”在深圳成為現實。（深圳特區報）"
     }
   ]
 }
