@@ -1,7 +1,64 @@
 {
-  "updated": "2026-07-29 06:00:50",
-  "count": 17495,
+  "updated": "2026-07-29 06:05:06",
+  "count": 17497,
   "items": [
+    {
+      "id": "5013023",
+      "time": "2026-07-29 06:02:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行：將在每次議息會議上逐一評估後續利率走勢。"
+    },
+    {
+      "id": "mkt:019faabf-77d9-7aab-8ed5-ac5d5b22053e",
+      "time": "2026-07-29 06:01:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude extends early gains to 1.7%, trading at $79.50/bbl."
+    },
+    {
+      "id": "mkt:019faabe-b287-7aab-8ed5-a61153d15895",
+      "time": "2026-07-29 06:00:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of Chile will keep its policy rate unchanged at 4.50%."
+    },
+    {
+      "id": "5013022",
+      "time": "2026-07-29 06:00:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行：國際環境仍因美伊衝突持續動盪。"
+    },
+    {
+      "id": "5013021",
+      "time": "2026-07-29 06:00:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲本週維持利率不變的機率69.5%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為69.5%，累計加息25個基點的機率為30.5%。 美聯儲到9月維持利率不變的機率為23.4%，累計加息25個基點的機率為56.4%，累計加息50個基點的機率為20.2%。"
+    },
+    {
+      "id": "5013020",
+      "time": "2026-07-29 06:00:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行：此次利率決議全體委員一致透過。"
+    },
     {
       "id": "5013019",
       "time": "2026-07-29 06:00:02",
@@ -160464,43 +160521,6 @@
         "國際"
       ],
       "text": "肯德基日本公司：在日冷食品遭遇網路攻擊後，業務運營已恢復正常。"
-    },
-    {
-      "id": "5000931",
-      "time": "2026-07-22 06:03:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲7月維持利率不變的機率74.9%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為74.9%，累計加息25個基點的機率為25.1%。 美聯儲到9月維持利率不變的機率為28.9%，累計加息25個基點的機率為55.7%，累計加息50個基點的機率為15.4%。"
-    },
-    {
-      "id": "5000930",
-      "time": "2026-07-22 06:02:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國擬調整科研資金投向，從高校撤出資金、轉而投入人工智慧領域，計劃調撥數十億美元資金投向人工智慧。"
-    },
-    {
-      "id": "mkt:019f86b3-01e4-7aab-8e32-fb3c8574509d",
-      "time": "2026-07-22 06:01:46",
-      "tags": [
-        "MKT News",
-        "NVDA.O",
-        "Impact bullish",
-        "MSFT.O",
-        "S&P500"
-      ],
-      "text": "According to the Wall Street Journal, the White House plans to redirect tens of billions of dollars in research funding from U.S. universities to artificial intelligence, cutting federal support for higher-education research."
-    },
-    {
-      "id": "5000929",
-      "time": "2026-07-22 06:01:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮擬為科研人員申請2000億美元研發預算。"
     }
   ]
 }
