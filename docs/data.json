@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-29 06:36:51",
-  "count": 17516,
+  "updated": "2026-07-29 06:40:42",
+  "count": 17518,
   "items": [
+    {
+      "id": "te:markets:570514",
+      "time": "2026-07-29 06:40:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Rises by 4.84% — Top commodity gainers are Coffee (4.84%), Cocoa (2%) and Corn (1.49%). Biggest losers are Lumber (-1.47%) and Rapeseed (-1.08%)."
+    },
+    {
+      "id": "5013053",
+      "time": "2026-07-29 06:39:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股迎來解禁高峰 市場承接力彰顯信心 】進入2026年下半年，港股市場迎來限售股解禁高峰期。多家機構測算，2026年港股全年解禁規模或接近2萬億港元，較2025年大幅增長，今年7月、9月和12月成為籌碼集中釋放的重要時點。不過，從歷史經驗及近期市場表現看，機構普遍認為，解禁不等同於減持，其影響更多集中於部分流通盤較小、解禁比例較高的個股，尚不足以對港股大盤構成系統性衝擊。與此同時，南向資金在部分核心標的上仍展現出較強的定向承接力，多家上市公司的基石投資者、戰略股東及管理層也主動延長鎖定期或作出不減持承諾，凸顯長期資金對優質港股資產的認可。（中證報）"
+    },
+    {
+      "id": "5013052",
+      "time": "2026-07-29 06:39:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股IPO市場持續升溫 科技與“A+H”雙輪驅動】2026年以來，港股首次公開募股（IPO）市場延續強勁勢頭。港交所資料顯示，截至6月30日，2026年受理的上市新申請共373宗，加上2025年底結轉的372宗未處理完畢申請，合計745宗處於處理流程之中，其中528宗處於處理中狀態。Wind資料顯示，截至7月28日，年內港股市場共完成100宗IPO，募資總額約2723.39億港元。半導體、AI大模型、智慧硬體等科技企業仍是上市核心主力，“A+H”上市熱度持續攀升。分析人士認為，隨著內地科技龍頭加速赴港上市及互聯互通機制持續深化，港股作為新經濟企業上市首選地的地位將進一步鞏固。 (中證報)"
+    },
+    {
+      "id": "5013051",
+      "time": "2026-07-29 06:39:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "力拓： 公司有望於 2026 年底達成年化 18 億美元的產能增效收益目標。"
+    },
+    {
+      "id": "5013050",
+      "time": "2026-07-29 06:38:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "力拓：上半年權益資本支出 50.4 億美元，同比增長 12%。公司已落實 8.7 億美元產能增效收益。"
+    },
     {
       "id": "5013049",
       "time": "2026-07-29 06:35:47",
@@ -160695,35 +160739,6 @@
         "META.O"
       ],
       "text": "The Information reports Meta Platforms (META.O) is developing an OpenRouter rival through its AI incubator aimed at cutting encoding costs."
-    },
-    {
-      "id": "te:markets:568632",
-      "time": "2026-07-22 06:40:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Oat Drops by 2.56% — Top commodity losers are Oat (-2.56%) and Canola (-0.74%). Gains are led by Cotton (1.87%), Cocoa (1.51%) and Rice (1.50%)."
-    },
-    {
-      "id": "5000945",
-      "time": "2026-07-22 06:39:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思談及伊朗：核設施已遭摧毀，但伊朗方面仍執意推進核能力建設，此舉實屬不智。"
-    },
-    {
-      "id": "mkt:019f86d5-90e0-7aab-8e33-1a2dcc1112d3",
-      "time": "2026-07-22 06:39:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US President Trump plans to visit Michigan next week for a campaign rally."
     }
   ]
 }
