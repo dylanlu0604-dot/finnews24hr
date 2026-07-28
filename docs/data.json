@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-29 03:06:48",
+  "updated": "2026-07-29 03:10:38",
   "count": 17601,
   "items": [
+    {
+      "id": "5012971",
+      "time": "2026-07-29 03:09:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆：足球不屬於資本投資者。"
+    },
+    {
+      "id": "mkt:019faa20-7d41-7aab-8ed4-39e7044aefe5",
+      "time": "2026-07-29 03:08:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reports air defenses in Erbil province of Iraq's Kurdistan region are intercepting a drone attack."
+    },
+    {
+      "id": "mkt:019faa1f-1320-7aab-8ed4-3500a2b44283",
+      "time": "2026-07-29 03:06:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces says alarms sounded in Nahal Oz; circumstances under investigation."
+    },
     {
       "id": "5012970",
       "time": "2026-07-29 03:04:51",
@@ -161384,31 +161408,6 @@
         "XAUUSD"
       ],
       "text": "New UK prime minister Burnham has approved US use of British bases to conduct limited strikes against Iran."
-    },
-    {
-      "id": "5000797",
-      "time": "2026-07-22 03:08:21",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "英國新任首相伯納姆批准美國利用英國基地發動部分針對伊朗的打擊。"
-    },
-    {
-      "id": "5000796",
-      "time": "2026-07-22 03:07:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：黎巴嫩人非常聰明，儘管他們的國家在許多方面面臨危險，但他們熱愛自己的國家；他們說他們不斷聽到爆炸聲，但他們不想離開（自己的土地）。"
-    },
-    {
-      "id": "5000795",
-      "time": "2026-07-22 03:07:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：特朗普重啟了一項源自上世紀30年代飽受爭議關稅法案《1930 年斯姆特 - 霍利關稅法》。"
     }
   ]
 }
