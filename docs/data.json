@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-29 00:01:10",
-  "count": 17517,
+  "updated": "2026-07-29 00:05:06",
+  "count": 17519,
   "items": [
+    {
+      "id": "5012850",
+      "time": "2026-07-29 00:03:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "據烏克蘭海事局報告，俄羅斯在黑海襲擊了一艘懸掛賴比瑞亞國旗的民用船隻。"
+    },
+    {
+      "id": "mkt:019fa976-dd12-7aab-8ed1-371e26ac52ab",
+      "time": "2026-07-29 00:02:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "XAI launches an early test release of Grok Build for SuperGrok Heavy subscribers."
+    },
+    {
+      "id": "5012849",
+      "time": "2026-07-29 00:02:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國難民事務高階專員巴爾哈姆·薩利赫：我們需要國際社會提供更多支援，捐助資金削減已帶來極大挑戰。"
+    },
+    {
+      "id": "5012848",
+      "time": "2026-07-29 00:01:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "達飛海運：第二季度淨利潤為7.7億美元，去年同期為5.21億美元。"
+    },
+    {
+      "id": "5012847",
+      "time": "2026-07-29 00:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "達飛海運公佈第二季度營收為156.9億美元，去年同期為131.7億美元。"
+    },
+    {
+      "id": "5012846",
+      "time": "2026-07-29 00:01:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "達飛海運第二季度息稅折舊及攤銷前利潤為29.9億美元，去年同期為22.8億美元。"
+    },
+    {
+      "id": "mkt:019fa975-2100-7aab-8ed1-2e581ec003ac",
+      "time": "2026-07-29 00:00:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. presidential envoy Witkoff, Treasury Secretary Bessent and Secretary of State Rubio attended a meeting between U.S. President Trump and Israeli Prime Minister Netanyahu."
+    },
     {
       "id": "5012845",
       "time": "2026-07-28 23:59:45",
@@ -160586,62 +160642,6 @@
         "Impact bullish"
       ],
       "text": "Google (GOOG.O): GEMINI 3.6 Flash can rapidly understand context and help users create bespoke creative tools."
-    },
-    {
-      "id": "5000710",
-      "time": "2026-07-22 00:04:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【加拿大總理：將考慮所有選項應對美加徵關稅】當地時間7月21日，加拿大總理馬克·卡尼表示，在美國關稅宣佈後，他已與美國總統特朗普通話。卡尼還表示，如果（新關稅）生效，加拿大將考慮所有應對選項。白宮20日釋出公告稱，美國將對加拿大部分產品額外加徵50%的從價關稅，以應對“加拿大在汽車及汽車零部件貿易方面對美國採取的歧視性措施”。白宮當日釋出的一份事實清單顯示，美國將對葡萄酒、冰球棒和水泥等加拿大商品加徵關稅，即使這些商品符合《美國-墨西哥-加拿大協定》。白宮稱，這些關稅旨在抵消加拿大歧視性做法給美國商業帶來的負擔和造成的劣勢，新關稅措施將於美東時間8月19日開始生效。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f856a-964d-7aab-8e2e-fd7156a5c8f8",
-      "time": "2026-07-22 00:03:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) said from next week parents can decide whether users under 16 may change these settings, reducing the strictness of the restrictions."
-    },
-    {
-      "id": "mkt:019f856a-0338-7aab-8e2e-f77363828c71",
-      "time": "2026-07-22 00:02:25",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O): With supervisory features enabled, parents can view teens' time on Threads, set daily usage limits, adjust sleep mode and manage privacy settings."
-    },
-    {
-      "id": "mkt:019f8569-e954-7aab-8e2e-ee46f998b1b2",
-      "time": "2026-07-22 00:02:18",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) launched parental controls on the web version of Threads."
-    },
-    {
-      "id": "5000709",
-      "time": "2026-07-22 00:01:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta：Threads 即將上線全新家長監管工具，家長可檢視青少年子女在 Threads 平臺的使用時長。"
     }
   ]
 }
