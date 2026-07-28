@@ -1,7 +1,64 @@
 {
-  "updated": "2026-07-28 22:31:20",
-  "count": 17557,
+  "updated": "2026-07-28 22:35:15",
+  "count": 17556,
   "items": [
+    {
+      "id": "5012736",
+      "time": "2026-07-28 22:33:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "HPE股價料創2025年10月以來最大單日跌幅，最新下跌9%。"
+    },
+    {
+      "id": "mkt:019fa925-4408-7aab-8ecf-d8e773db1bb8",
+      "time": "2026-07-28 22:33:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kyodo: explosion at an AEON shopping center may have been caused by a gas leak."
+    },
+    {
+      "id": "5012735",
+      "time": "2026-07-28 22:33:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普 500 等權重指數上漲 1.1%，創下歷史新高。"
+    },
+    {
+      "id": "5012734",
+      "time": "2026-07-28 22:33:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：永旺商場爆炸事故或由燃氣洩漏引發。"
+    },
+    {
+      "id": "5012733",
+      "time": "2026-07-28 22:32:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷藍航空：下半年資金流動性需求取決於燃油價格走勢。"
+    },
+    {
+      "id": "5012732",
+      "time": "2026-07-28 22:32:11",
+      "tags": [
+        "行業"
+      ],
+      "text": "【上合專家學者呼籲提升數智時代國際資訊保安】\n2026上海合作組織媒體智庫峰會專家論壇27日在吉爾吉斯斯坦首都比什凱克舉行。與會專家學者表示，上合組織的成就證明，建立在相互理解和互利共贏基礎上的多邊合作，不僅有利於促進和平與安定，也有利於促進可持續發展。數智時代面臨前所未有的機遇和挑戰，各國需要攜手努力，共同塑造一個安全、有韌性、包容且有利於可持續發展的國際資訊環境。\n“今日俄羅斯”國際媒體集團國際合作局局長瓦西里·普什科夫說，世界正經歷動盪變革，迫切需要智庫專家與媒體攜手合作，在加強相互理解、互信與睦鄰友好等方面發揮重要作用，為開展坦誠而有針對性的對話打造平臺。\n白俄羅斯國立大學國際研究中心主任尼基塔·別連琴科說，隨著人工智慧技術快速發展，傳統資訊保安理念已難以應對新的挑戰，各國應重視資訊環境韌性和資訊自主能力，需要推動建立聯合監測預警機制，深化人工智慧領域研究與媒體、智庫交流，共同維護數智時代的資訊保安。\n埃及金字塔政治和戰略研究中心副主任艾哈邁德·坎迪勒說，“上海精神”為世界提供了一條既區別於強權支配也不同於失序混亂的發展路徑，各國可以依託協商實現互利共贏。\n寮國社會與經濟科學院社會經濟政策研究所所長吳沙萬·天特翁薩說，寮國致力於與上合組織夥伴密切合作，加強資訊共享，“更好地保護我們的數字環境和發展成果”。\n尼泊爾中國研究中心秘書長烏彭德拉·高塔姆說，真誠協作創造的價值，遠大於各國獨自耕耘的總和。上合組織越來越務實、包容、以人為本，將進一步助力構建人類命運共同體。\n新華社研究院院長劉剛說，25年來，上合組織在捍衛以聯合國為核心的國際體系和以國際法為基礎的國際秩序中發揮了重要作用。當前，單邊主義、保護主義持續衝擊全球秩序，地緣博弈加劇考驗區域協作效能，上合組織迎來提質升級的關鍵視窗期，需要加強合作，架起智庫溝通的橋樑。\n與會專家學者認為，上合組織堅持求同存異、互利共贏、開放包容、公平正義、務實高效的原則，在確保地區安全穩定、推動地區繁榮、促進人文交流、維護國際公平正義、提升組織行動能力等方面取得了開創性成果，將在維護和平、促進發展、推動全球治理體系變革等方面發揮重要作用。\n這次專家論壇由新華通訊社、“今日俄羅斯”國際媒體集團共同舉辦。來自中國、俄羅斯、吉爾吉斯斯坦、哈薩克、巴基斯坦、印度、斯里蘭卡、阿聯酋、寮國等十餘個國家的相關專家學者與會。（小故事）"
+    },
+    {
+      "id": "5012731",
+      "time": "2026-07-28 22:30:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國 7 月達拉斯聯儲服務業商業活動指數 6.6。"
+    },
     {
       "id": "5012730",
       "time": "2026-07-28 22:30:06",
@@ -161010,81 +161067,6 @@
         "Importance 0"
       ],
       "text": "Nigeria Holds Key Policy Rate at 26.5% — The Central Bank of Nigeria left its benchmark interest rate unchanged at 26.50% at its July 21, 2026 meeting, citing persistent inflationary risks amid heightened uncertainty stemming from renewed hostilities in the Middle East. Governor Cardoso stated that the domestic economy had proved resilient to external shocks, as the Africa's largest oil producer is partialy shielded by domestic refining capacity, and keeping policy unchanged would allow the committee to assess incoming economic data before making further decisions. Headline inflation held steady at 15.9% in June, unchanged from the previous month and defying expectations. Looking ahead, policymakers expect inflation to ease gradually over the medium term, supported by the stability of the naira and the lagged effects of previous monetary tightening. However, the committee reiterated its readiness to act if escalating geopolitical tensions threaten price or financial stability."
-    },
-    {
-      "id": "5000608",
-      "time": "2026-07-21 22:35:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲3%，現報84.96美元/桶。"
-    },
-    {
-      "id": "5000607",
-      "time": "2026-07-21 22:34:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【包鋼股份獲嘉興市域鐵路萬噸鋼軌訂單】包鋼股份成功中標嘉興市域鐵路專案，成功獲得約1萬噸鋼軌供貨訂單，將為這條跨省通勤通道提供軌道用材。"
-    },
-    {
-      "id": "mkt:019f8518-f9ee-7aab-8e2c-3a46dfa2605e",
-      "time": "2026-07-21 22:33:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Market sources say Egypt is negotiating with energy majors for a multi-year LNG supply deal to purchase 15-18 cargoes per month for 3-5 years."
-    },
-    {
-      "id": "5000606",
-      "time": "2026-07-21 22:33:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國民眾有多反感伊朗戰事？可“比肩”越戰】美國和伊朗最新一輪互襲20日進入第10天，幾乎沒有跡象表明雙方衝突會在短期內結束。據美國有線電視新聞網(CNN)20日報道，越來越多的民調資料顯示，伊朗戰事在美國民眾中引發反感的程度已“飛速”達到越南戰爭和伊拉克戰爭同等水平。 報道說，最新發布的《華盛頓郵報》和益普索集團民調結果顯示，68%的受訪者認為伊朗戰事“不值得打”，28%認為“值得”，兩者之間40個百分點的差距已超過此前對伊拉克戰爭和阿富汗戰爭的類似民調。對阿富汗戰爭的相關民調中，“不值得打”與“值得打”的最大差值為39個百分點，67%的人認為“不值得”，28%認為“值得”；這一民調結果在2013年得出，那時距離美國發動戰爭已近12年。對伊拉克戰爭的相關民調中，到2007年，大約66%的美國人認為戰爭“不值得打”，此時距離美國發動戰爭約4年。（新華社）"
-    },
-    {
-      "id": "5000605",
-      "time": "2026-07-21 22:33:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "亞塞拜然總統阿利耶夫表示，亞塞拜然計劃未來向歐洲供應綠色能源。"
-    },
-    {
-      "id": "mkt:019f8517-afd3-7aab-8e2c-3773e639f6dc",
-      "time": "2026-07-21 22:32:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Moonshot AI in talks for pre-IPO funding at up to $50 bln valuation】Moonshot AI is in talks for a final pre-IPO funding round seeking up to a $50 bln valuation, people familiar with the matter said. The company expects to close a financing round launched this summer—at about a $31.5 bln valuation—within days and will immediately open talks with potential investors on a new round that could be its last capital raise before a Hong Kong listing. Moonshot AI plans to complete an offshore red-chip restructuring by month-end to enable onshore financing and IPO preparation and could list in Hong Kong as soon as this year."
-    },
-    {
-      "id": "mkt:019f8517-0d44-7aab-8e2c-2c7af7faa69e",
-      "time": "2026-07-21 22:31:48",
-      "tags": [
-        "MKT News",
-        "GM.N"
-      ],
-      "text": "United Auto Workers (UAW) to begin negotiations with GM ."
-    },
-    {
-      "id": "mkt:019f8516-f5b4-7aab-8e2c-215352060bbd",
-      "time": "2026-07-21 22:31:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Report: China’s 2025 oil-and-gas output equivalent at 420 mln tonnes】The National Energy Administration said in a July 21 report that China’s crude output reached a record 216 mln tonnes in 2025 and natural gas production exceeded 100 bcm for the ninth consecutive year, taking oil-and-gas output equivalent to a record 420 mln tonnes. The agency said domestic supply capacity has significantly improved and the sector has entered a new phase of simultaneous scale and efficiency gains alongside greener development."
     }
   ]
 }
