@@ -1,7 +1,64 @@
 {
   "date": "2026-07-28",
-  "count": 518,
+  "count": 524,
   "items": [
+    {
+      "id": "mkt:019fa60b-00ff-7aab-8eb8-58807da38b01",
+      "time": "2026-07-28 08:06:06",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 was down 1.00% intraday."
+    },
+    {
+      "id": "mkt:019fa60a-b5ce-7aab-8eb8-563b265b0503",
+      "time": "2026-07-28 08:05:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "09678.HK",
+        "Impact bullish"
+      ],
+      "text": "Yunzhisheng (09678.HK) said it has completed capability upgrades to its U2-ASR and U2-TTS systems, further strengthening multimodal large-model capabilities and extending its speech large-model coverage from deep local support for \"hundreds of dialects\" to broader global multilingual support."
+    },
+    {
+      "id": "mkt:019fa609-f2e1-7aab-8eb8-4c07be46ad3c",
+      "time": "2026-07-28 08:04:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "According to Axios, US officials say economic sanctions could inflict greater damage on Iran than bombing."
+    },
+    {
+      "id": "5011000",
+      "time": "2026-07-28 08:04:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國綜合股價指數擴大跌幅至5.9%。"
+    },
+    {
+      "id": "5010999",
+      "time": "2026-07-28 08:04:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【日經225指數跌幅擴大至1%】日經225指數跌幅擴大至1%，現報64028.87點。"
+    },
+    {
+      "id": "5010998",
+      "time": "2026-07-28 08:03:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲知聲：U2語音大模型新增13種國際語言識別與8種語言合成能力】雲知聲公告，公司近日全面完成U2-ASR與U2-TTS能力升級，U2-ASR新增13種國際語言識別能力，U2-TTS新增8種東南亞語言語音合成能力，已支援超100種中國方言及超15種國際語言。在統一評測口徑下，U2-ASR的113種語言平均字錯率為6.58%，在ChinaVoices Challenge 2026中文多方言語音識別挑戰賽中獲限定資料方案第1名、開放資料方案第2名。升級後的模型已全量上線TokenHub平臺並開放標準API。"
+    },
     {
       "id": "5010997",
       "time": "2026-07-28 08:02:12",

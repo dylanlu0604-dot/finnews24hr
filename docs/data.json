@@ -1,7 +1,64 @@
 {
-  "updated": "2026-07-28 08:03:14",
-  "count": 17824,
+  "updated": "2026-07-28 08:07:02",
+  "count": 17827,
   "items": [
+    {
+      "id": "mkt:019fa60b-00ff-7aab-8eb8-58807da38b01",
+      "time": "2026-07-28 08:06:06",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 was down 1.00% intraday."
+    },
+    {
+      "id": "mkt:019fa60a-b5ce-7aab-8eb8-563b265b0503",
+      "time": "2026-07-28 08:05:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "09678.HK",
+        "Impact bullish"
+      ],
+      "text": "Yunzhisheng (09678.HK) said it has completed capability upgrades to its U2-ASR and U2-TTS systems, further strengthening multimodal large-model capabilities and extending its speech large-model coverage from deep local support for \"hundreds of dialects\" to broader global multilingual support."
+    },
+    {
+      "id": "mkt:019fa609-f2e1-7aab-8eb8-4c07be46ad3c",
+      "time": "2026-07-28 08:04:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "According to Axios, US officials say economic sanctions could inflict greater damage on Iran than bombing."
+    },
+    {
+      "id": "5011000",
+      "time": "2026-07-28 08:04:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國綜合股價指數擴大跌幅至5.9%。"
+    },
+    {
+      "id": "5010999",
+      "time": "2026-07-28 08:04:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【日經225指數跌幅擴大至1%】日經225指數跌幅擴大至1%，現報64028.87點。"
+    },
+    {
+      "id": "5010998",
+      "time": "2026-07-28 08:03:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲知聲：U2語音大模型新增13種國際語言識別與8種語言合成能力】雲知聲公告，公司近日全面完成U2-ASR與U2-TTS能力升級，U2-ASR新增13種國際語言識別能力，U2-TTS新增8種東南亞語言語音合成能力，已支援超100種中國方言及超15種國際語言。在統一評測口徑下，U2-ASR的113種語言平均字錯率為6.58%，在ChinaVoices Challenge 2026中文多方言語音識別挑戰賽中獲限定資料方案第1名、開放資料方案第2名。升級後的模型已全量上線TokenHub平臺並開放標準API。"
+    },
     {
       "id": "5010997",
       "time": "2026-07-28 08:02:12",
@@ -163414,36 +163471,6 @@
         "國際"
       ],
       "text": "【受人工智慧相關產品拉動，韓國7月前20天出口創歷年7月新高】得益於人工智慧催生的半導體需求持續拉動經濟，韓國7月上旬出口延續強勁增勢。韓國海關週二公佈的資料顯示，經工作日調整後，7月前20天出口額同比大漲62.9%，創下歷年7月同期出口最高紀錄；上月同期該增幅為49.7%。未經調整口徑下，出口同比增長52.3%，進口同比上漲20%，實現122億美元貿易順差。資料顯示，在人工智慧與資料中心持續投資的支撐下，韓國外需保持韌性。半導體持續成為韓國出口與整體經濟增長的核心引擎，一定程度對沖了中東局勢帶來的負面影響。晶片出口同比飆升180.6%，計算機相關產品出口增幅接近232%，燃料出口上漲33.4%；汽車出口同比下滑10.6%。亮眼的外貿資料印證了韓國央行上週加息的決策——該行時隔三年多首次上調政策利率。全體委員一致將基準利率上調25個基點至2.75%，並釋放持續收緊貨幣政策的訊號：當前通脹仍高於政策目標，且經濟增速有望超出央行此前預測。"
-    },
-    {
-      "id": "mkt:019f81fd-41dd-7aab-8e16-69b06b841010",
-      "time": "2026-07-21 08:04:46",
-      "tags": [
-        "MKT News",
-        "000660.KS",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "SK Hynix and Samsung Electronics each rose about 1%."
-    },
-    {
-      "id": "4998622",
-      "time": "2026-07-21 08:04:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.6%，報8,742.90點。"
-    },
-    {
-      "id": "4998621",
-      "time": "2026-07-21 08:04:29",
-      "tags": [
-        "資料",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信證券：維持今年美聯儲維持政策利率水平不變的機率較高的觀點】中信證券研報稱，美國6月CPI同比增速由5月的4.2%下降至3.5%，核心CPI環比從0.2%下降至0.0%，整體CPI與核心CPI增速均低於市場預期。6月美國CPI環比下降，主要由能源成本大幅回撥推動，同時6月核心商品項環比負增長、核心服務中住所項增速放緩共同助推了通脹節奏放緩。由於美伊協議十分脆弱，原油價格上行風險仍存，後續美國通脹壓力仍存在一定的上行風險，但整體通脹壓力可控，我們仍維持今年美聯儲維持政策利率水平不變的機率較高的觀點。"
     }
   ]
 }
