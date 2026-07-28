@@ -1,7 +1,45 @@
 {
   "date": "2026-07-28",
-  "count": 2848,
+  "count": 2852,
   "items": [
+    {
+      "id": "5012670",
+      "time": "2026-07-28 21:54:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普與內塔尼亞胡的會面將閉門舉行，不對外公開拍攝。"
+    },
+    {
+      "id": "mkt:019fa901-2b43-7aab-8ece-c5f26b21a444",
+      "time": "2026-07-28 21:54:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Channel 12 reports Trump will meet Israeli Prime Minister NETANYAHU in a closed-door session; location undisclosed."
+    },
+    {
+      "id": "5012668",
+      "time": "2026-07-28 21:52:07",
+      "tags": [
+        "宏觀",
+        "市場",
+        "焦點"
+      ],
+      "text": "【SpaceX較發行價跌去20% 市值較峰值蒸發1.2萬億美元】因投資者紛紛避險，不再看好高風險科技企業，SpaceX(SPCX.O)股價已較IPO價格跌去20%，Space週二早盤跌超5%，報約107美元，延續了上個月IPO後幾天內從高點大幅下挫的走勢，市值已較6月16日的峰值蒸發1.2萬億美元，創史上最大規模的市值蒸發紀錄之一。近期，複雜的地緣政治局勢以及對AI生態系統中因鉅額支出推動的供需和估值膨脹所帶來的擔憂，使該行業許多大型企業遭受重創。SpaceX投資者也在關注8月6日價值1160億美元、9.115億股股票禁售期解除的潛在影響。"
+    },
+    {
+      "id": "mkt:019fa8ff-0c7a-7aab-8ece-bc74aa91788e",
+      "time": "2026-07-28 21:51:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "【SpaceX shares about 20% below IPO; market value down $1.2 trillion from peak】SpaceX (SPCX.O) shares trade roughly 20% below their IPO price. On Tuesday morning the stock fell more than 5% to about $107, extending the sharp post-IPO drop from June highs. Market capitalization has declined roughly $1.2 trillion from its June 16 peak, among the largest market-cap evaporations on record. Investors have rotated away from high-risk tech amid heightened geopolitical tensions and concerns that heavy AI-related spending has distorted supply-demand and valuations in the sector. Market participants are also watching an Aug. 6 lock-up expiry that will free about 911.5 million shares valued at roughly $116 billion."
+    },
     {
       "id": "5012667",
       "time": "2026-07-28 21:50:27",
