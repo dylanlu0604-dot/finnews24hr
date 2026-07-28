@@ -1,7 +1,26 @@
 {
   "date": "2026-07-29",
-  "count": 199,
+  "count": 201,
   "items": [
+    {
+      "id": "5012956",
+      "time": "2026-07-29 02:25:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱打擊一艘沙特籍油輪】葉門胡塞武裝28日發表宣告稱，該組織當天對一艘沙烏地阿拉伯籍油輪實施軍事打擊，理由是該船違反其針對沙特實施的海上航行禁令，並無視其發出的警告。宣告稱，行動中使用了多枚彈道導彈，並迫使該船掉頭返航。（央視新聞）"
+    },
+    {
+      "id": "te:markets:570492",
+      "time": "2026-07-29 02:25:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Gains by 4.91% — Top commodity gainers are Coffee (4.91%), Cocoa (2.08%) and Corn (1.46%). Biggest losers are Lumber (-1.39%) and Canola (-1.27%)."
+    },
     {
       "id": "5012955",
       "time": "2026-07-29 02:23:00",

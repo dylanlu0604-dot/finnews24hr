@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-29 02:24:01",
-  "count": 17596,
+  "updated": "2026-07-29 02:27:49",
+  "count": 17594,
   "items": [
+    {
+      "id": "5012956",
+      "time": "2026-07-29 02:25:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱打擊一艘沙特籍油輪】葉門胡塞武裝28日發表宣告稱，該組織當天對一艘沙烏地阿拉伯籍油輪實施軍事打擊，理由是該船違反其針對沙特實施的海上航行禁令，並無視其發出的警告。宣告稱，行動中使用了多枚彈道導彈，並迫使該船掉頭返航。（央視新聞）"
+    },
+    {
+      "id": "te:markets:570492",
+      "time": "2026-07-29 02:25:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Gains by 4.91% — Top commodity gainers are Coffee (4.91%), Cocoa (2.08%) and Corn (1.46%). Biggest losers are Lumber (-1.39%) and Canola (-1.27%)."
+    },
     {
       "id": "5012955",
       "time": "2026-07-29 02:23:00",
@@ -161310,46 +161329,6 @@
         "GS.O"
       ],
       "text": "Goldman Sachs launches a private markets platform."
-    },
-    {
-      "id": "mkt:019f85ee-cd4f-7aab-8e30-5700f64f1ff1",
-      "time": "2026-07-22 02:27:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "New York gold futures rose 2.00% intraday to $4,092.10/oz."
-    },
-    {
-      "id": "5000779",
-      "time": "2026-07-22 02:25:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4090美元/盎司，日內漲1.85%。"
-    },
-    {
-      "id": "te:markets:568614",
-      "time": "2026-07-22 02:25:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Oat Falls by 2.56% — Top commodity losers are Oat (-2.56%) and Canola (-1.11%). Gains are led by Cotton (1.84%), Cocoa (1.56%) and Rice (1.50%)."
-    },
-    {
-      "id": "5000778",
-      "time": "2026-07-22 02:24:42",
-      "tags": [
-        "觀點"
-      ],
-      "text": "市場訊息：高盛推出私募市場平臺。"
     }
   ]
 }
