@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-29 04:19:16",
-  "count": 17537,
+  "updated": "2026-07-29 04:23:09",
+  "count": 17532,
   "items": [
+    {
+      "id": "te:markets:570499",
+      "time": "2026-07-29 04:21:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Netherlands",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "NXP Semiconductors earnings above expectations at 3.61 USD — NXP Semiconductors (NXPI) released earnings per share at 3.61 USD, compared to market expectations of 3.50 USD."
+    },
+    {
+      "id": "mkt:019faa62-8420-7aab-8ed4-ce1753e24ada",
+      "time": "2026-07-29 04:20:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. API weekly crude inventories for the week to July 24 due in 10 minutes."
+    },
+    {
+      "id": "mkt:019faa61-b962-7aab-8ed4-c56fbe2759bb",
+      "time": "2026-07-29 04:19:18",
+      "tags": [
+        "MKT News",
+        "NXPI.O",
+        "Impact bearish"
+      ],
+      "text": "After an earnings release, NXP Semiconductors (NXPI.O) slid in after-hours trading, at one point dropping more than 9%."
+    },
     {
       "id": "5012996",
       "time": "2026-07-29 04:18:23",
@@ -160776,86 +160810,6 @@
         "Importance 1"
       ],
       "text": "TSX Jumps as Miners Lead Gains — The S&P/TSX Composite Index rose 1.2% to close at 35,369 on Tuesday, buoyed by mining stocks that tracked higher metal prices. Gold prices climbed on hopes of a diplomatic breakthrough between the US and Iran, boosting the sector. Agnico Eagle added 4.3%, Barrick gained 4.6%, WPM jumped 6.7%, and Franco-Nevada advanced 4.1%. Iran is reportedly considering a proposal from mediators for a 10-day ceasefire aimed at paving the way for an agreement to end the war. Still, oil prices remained elevated, lifting energy stocks. Canadian Natural added 2.3%, Suncor gained 2.5%, Imperial Oil rose 1.8%, and Cenovus advanced 2%. Elsewhere, Celestica soared 11.1% amid a rally in US technology stocks. Meanwhile, Prime Minister Mark Carney said he and US President Donald Trump agreed to accelerate trade talks ahead of a potential US move to impose 50% tariffs on a range of Canadian goods next month."
-    },
-    {
-      "id": "5000873",
-      "time": "2026-07-22 04:23:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "KKR基礎設施集團：截至2026年6月30日，交易型淨資產價值為80.7億美元。"
-    },
-    {
-      "id": "5000872",
-      "time": "2026-07-22 04:22:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美伊衝突疊加紅海風險 國際油價升至五週高點】當地時間7月21日，受美伊相互襲擊升級及葉門胡塞武裝威脅封鎖沙烏地阿拉伯海運影響，國際油價上漲約2%，升至五週以來最高水平。布倫特原油期貨上漲1.79美元，漲幅2%，收於每桶91.01美元；美國西得州中質原油期貨上漲1.68美元，漲幅2%，收於每桶84.91美元。布倫特原油創6月10日以來最高收盤價，西得州中質原油則創6月11日以來最高。"
-    },
-    {
-      "id": "5000871",
-      "time": "2026-07-22 04:21:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【超微電腦大幅上調毛利率指引 股價盤後大漲】超微電腦預計第四財季營收接近指引區間110億-125億美元的底部。預計第四財季毛利潤率15%-17%，遠高於此前8.2%至8.4%的指引。本財年結束時，未交付訂單創下歷史新高，該季度錄得超過600億美元的待交付新訂單。超微電腦盤後漲超20%。"
-    },
-    {
-      "id": "te:markets:568624",
-      "time": "2026-07-22 04:21:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Capital One Financial earnings above expectations at 5.81 USD — Capital One Financial (COF) released earnings per share at 5.81 USD, compared to market expectations of 4.73 USD."
-    },
-    {
-      "id": "te:markets:568623",
-      "time": "2026-07-22 04:21:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Chubb earnings above expectations at 7.26 USD — Chubb (CB) released earnings per share at 7.26 USD, compared to market expectations of 6.72 USD."
-    },
-    {
-      "id": "mkt:019f8657-37e4-7aab-8e31-d5e0df8023df",
-      "time": "2026-07-22 04:21:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SMCI.O",
-        "Impact bullish"
-      ],
-      "text": "【Super Micro sharply raises gross-margin guidance; shares surge after hours】Super Micro Computer (SMCI.O) said it expects fiscal Q4 revenue near the low end of its $11.0-12.5 bln guidance and now forecasts Q4 gross margin of 15-17%, versus prior guidance of 8.2-8.4%. Backlog at fiscal year-end reached a record high, and the quarter booked more than $60 bln of new orders for future delivery. Shares rose over 20% in after-hours trading."
-    },
-    {
-      "id": "5000870",
-      "time": "2026-07-22 04:20:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國擬不遲於週五加徵新關稅 銜接即將到期的臨時性10%全球關稅】知情人士稱，美國總統特朗普準備不遲於週五對數十個經濟體商品加徵新關稅。此舉旨在確保即使臨時性的10%全球關稅到期，其關稅體系仍可維持。特朗普政府上月提議，以強迫勞動為由對60個貿易伙伴徵收至少10%的新關稅。知情人士稱，總統的團隊正準備在本週結束前實施這些關稅，但目前尚不清楚最終稅率是否會偏離最初提案。"
-    },
-    {
-      "id": "mkt:019f8655-f9e6-7aab-8e31-c83997adee8e",
-      "time": "2026-07-22 04:20:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI"
-      ],
-      "text": "U.S. API weekly crude oil stocks for week to July 17 due in 10 minutes."
     }
   ]
 }

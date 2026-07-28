@@ -1,7 +1,41 @@
 {
   "date": "2026-07-29",
-  "count": 282,
+  "count": 285,
   "items": [
+    {
+      "id": "te:markets:570499",
+      "time": "2026-07-29 04:21:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Netherlands",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "NXP Semiconductors earnings above expectations at 3.61 USD — NXP Semiconductors (NXPI) released earnings per share at 3.61 USD, compared to market expectations of 3.50 USD."
+    },
+    {
+      "id": "mkt:019faa62-8420-7aab-8ed4-ce1753e24ada",
+      "time": "2026-07-29 04:20:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. API weekly crude inventories for the week to July 24 due in 10 minutes."
+    },
+    {
+      "id": "mkt:019faa61-b962-7aab-8ed4-c56fbe2759bb",
+      "time": "2026-07-29 04:19:18",
+      "tags": [
+        "MKT News",
+        "NXPI.O",
+        "Impact bearish"
+      ],
+      "text": "After an earnings release, NXP Semiconductors (NXPI.O) slid in after-hours trading, at one point dropping more than 9%."
+    },
     {
       "id": "5012996",
       "time": "2026-07-29 04:18:23",
