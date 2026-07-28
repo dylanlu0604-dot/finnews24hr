@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-29 00:05:06",
+  "updated": "2026-07-29 00:09:02",
   "count": 17519,
   "items": [
+    {
+      "id": "mkt:019fa97b-3f73-7aab-8ed1-425e86bf9978",
+      "time": "2026-07-29 00:07:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukraine's Maritime Administration reported that Russia attacked a Liberia-flagged civilian vessel in the Black Sea."
+    },
+    {
+      "id": "te:markets:570480",
+      "time": "2026-07-29 00:07:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.88% Higher — The FTSE 100 Index gained 95 points or 0.88 percent on Tuesday to close at 10876 points. Gains were led by Unilever (8.45%), Croda International (7.45%) and Experian (6.12%). Biggest losers were Barclays (-5.63%), Lion Finance Group (-3.57%) and Games Workshop Group (-2.62%)."
+    },
+    {
+      "id": "mkt:019fa979-75b8-7aab-8ed1-3aa2def79d2c",
+      "time": "2026-07-29 00:05:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UN High Commissioner for Refugees Barham Salih said he expects cooperation with the United States to continue."
+    },
     {
       "id": "5012850",
       "time": "2026-07-29 00:03:09",
@@ -160607,41 +160639,6 @@
         "WTI"
       ],
       "text": "ISRAELI MILITARY says it fired on Lebanese army forces that entered an area not covered by the agreement."
-    },
-    {
-      "id": "te:markets:568606",
-      "time": "2026-07-22 00:07:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.55% Higher — The FTSE 100 Index gained 57 points or 0.55 percent on Tuesday to close at 10582 points. Gains were led by Antofagasta (5.83%), Marks & Spencer (4.58%) and Babcock International (4.14%). Biggest losers were Segro (-2.79%), London Stock Exchange (-2.73%) and Relx (-2.38%)."
-    },
-    {
-      "id": "5000711",
-      "time": "2026-07-22 00:06:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：約旦皇家航空採購價值 14 億美元波音 787-9 客機。 ，"
-    },
-    {
-      "id": "mkt:019f856c-dd1a-7aab-8e2f-04dcde0b39a4",
-      "time": "2026-07-22 00:05:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Google (GOOG.O): GEMINI 3.6 Flash can rapidly understand context and help users create bespoke creative tools."
     }
   ]
 }

@@ -1,7 +1,39 @@
 {
   "date": "2026-07-29",
-  "count": 7,
+  "count": 10,
   "items": [
+    {
+      "id": "mkt:019fa97b-3f73-7aab-8ed1-425e86bf9978",
+      "time": "2026-07-29 00:07:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukraine's Maritime Administration reported that Russia attacked a Liberia-flagged civilian vessel in the Black Sea."
+    },
+    {
+      "id": "te:markets:570480",
+      "time": "2026-07-29 00:07:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.88% Higher — The FTSE 100 Index gained 95 points or 0.88 percent on Tuesday to close at 10876 points. Gains were led by Unilever (8.45%), Croda International (7.45%) and Experian (6.12%). Biggest losers were Barclays (-5.63%), Lion Finance Group (-3.57%) and Games Workshop Group (-2.62%)."
+    },
+    {
+      "id": "mkt:019fa979-75b8-7aab-8ed1-3aa2def79d2c",
+      "time": "2026-07-29 00:05:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UN High Commissioner for Refugees Barham Salih said he expects cooperation with the United States to continue."
+    },
     {
       "id": "5012850",
       "time": "2026-07-29 00:03:09",
