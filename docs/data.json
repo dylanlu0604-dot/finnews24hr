@@ -1,7 +1,322 @@
 {
-  "updated": "2026-07-28 15:01:42",
-  "count": 17582,
+  "updated": "2026-07-28 15:05:32",
+  "count": 17593,
   "items": [
+    {
+      "id": "5011709",
+      "time": "2026-07-28 15:04:52",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：寧德時代估值處於歷史底部區位，予“買入”評級】中信建投證券研報指出，寧德時代出貨高增盈利穩健。公司26H1實現營收/歸母/扣非2769/433/390億元，同比+55%/+42%/+43%；其中26Q2實現營收/歸母/扣非1478/225/209億元，同比+57%/+36%/+36%，環比+14%/+9%/+16%。量方面，26H1進入累庫週期，旺季來臨供不應求提前備貨，預計26H1產量/銷量分別498/435GWh,分別同比+61%/+61%,其中儲能銷量佔比近25%；H1產生庫存63GWh，預計當前合計產成品庫存約250GWh，同比+71%，增量主要在庫存商品中，預計公司H2產能供不應求下提前生產保障備貨。公司公告擬使用200-400億元的資金回購A股股份並登出，取中值300億元測算，對應股息率約為1.6%，若年底繼續延續以往的分紅節奏股息率將繼續超預期。公司估值處於歷史底部區位，給予“買入”評級。"
+    },
+    {
+      "id": "5011708",
+      "time": "2026-07-28 15:04:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "飛利浦發布二季度財報後股價下跌7.5%。"
+    },
+    {
+      "id": "5011707",
+      "time": "2026-07-28 15:04:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "梅賽德斯-賓士股價上漲4.4%，此前該公司調整後息稅前利潤超出預期。"
+    },
+    {
+      "id": "5011706",
+      "time": "2026-07-28 15:04:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "農發行發行2年期債券，規模50億元，發行利率1.4618%，預期1.4600%，投標倍數3.29倍，邊際倍數4.06倍。"
+    },
+    {
+      "id": "mkt:019fa789-12fd-7aab-8ec2-55f6373e6ff8",
+      "time": "2026-07-28 15:03:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "PHI.AS"
+      ],
+      "text": "Trading in Philips shares on European exchanges was suspended after the company released Q2 results due to excessive volatility."
+    },
+    {
+      "id": "5011705",
+      "time": "2026-07-28 15:03:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "開雲、愛馬仕、歐萊雅股價在路威酩軒公佈業績後上漲約2%-3%。"
+    },
+    {
+      "id": "te:markets:570320",
+      "time": "2026-07-28 15:03:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "AXA Stock Price Hits 9-1/2-year High — AXA shares increased to 45.54 EUR, the highest since December 2016. Over the past 4 weeks, AXA gained 4.62%, and in the last 12 months, it increased 7.7%."
+    },
+    {
+      "id": "mkt:019fa788-a5ee-7aab-8ec2-4a7c93f48396",
+      "time": "2026-07-28 15:02:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "July 28 — China's CSI 300 Index closed down 132.90 points (-2.83%) at 4,569.52. Shanghai Composite closed 44.93 points lower (-1.16%) at 3,813.31. Shenzhen Composite fell 639.05 points (-4.52%) to 13,509.68. ChiNext Index dropped 263.76 points (-7.35%) to 3,327.03. STAR 50 Index fell 114.47 points (-6.33%) to 1,693.48."
+    },
+    {
+      "id": "5011704",
+      "time": "2026-07-28 15:02:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "義大利義大利海集團股價上漲3.72%後，觸發交易自動停牌。"
+    },
+    {
+      "id": "5011703",
+      "time": "2026-07-28 15:02:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版實時資料，截至7月28日14時35分，影片《功夫女足》票房突破20億。"
+    },
+    {
+      "id": "5011702",
+      "time": "2026-07-28 15:02:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外貿銀行：將2026年俄羅斯經濟增長預測從之前的1%下調至0.6%，貸款預測保持不變。"
+    },
+    {
+      "id": "mkt:019fa788-70f3-7aab-8ec2-456b9bea94bf",
+      "time": "2026-07-28 15:02:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "BARC.L",
+        "Impact bearish",
+        "MC.PA",
+        "Impact bullish"
+      ],
+      "text": "Barclays' European shares fell 4.9% after the bank reported half-year results. LVMH shares rose 2.6% following second-quarter results."
+    },
+    {
+      "id": "mkt:019fa787-f3b8-7aab-8ec2-3c86df3e4a4f",
+      "time": "2026-07-28 15:02:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Europe & UK",
+        "ASML.AS",
+        "Impact bearish",
+        "BESI.AS",
+        "STM.PA"
+      ],
+      "text": "European chip stocks fell; ASML, BE Semiconductor, STMicroelectronics and Infineon declined about 2–3%."
+    },
+    {
+      "id": "5011701",
+      "time": "2026-07-28 15:02:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股收評：創業板指低開低走跌7.35% AI硬體方向大幅下挫】截至收盤，上證指數跌1.16%報3813.31點，深證成指跌4.52%報13509.68點，創業板指跌7.35%報3327.03點，北證50跌0.06%報1055.27點。三市成交額20391億元，較上日縮量495億元。全市場超2600只個股上漲。板塊題材上，乳業、白酒、財稅數字化板塊漲幅居前；元件、半導體、CPO概念板塊跌幅居前。盤面上，乳業板塊持續走高，一鳴食品漲停，品渥食品漲超10%，萬辰集團、新乳業、歡樂家、騎士乳業、天潤乳業跟漲。白酒板塊震盪走高，金種子酒漲停，皇臺酒業、迎駕貢酒、今世緣、瀘州老窖、天佑德酒跟漲。財稅數字化持續強勢，科藍軟體、天地線上、南天資訊、浪潮軟體、天融信、久其軟體漲停，華宇軟體、智度股份、數字認證、科銳國際、新晨科技跟漲。元件板塊持續走弱，東山精密、興森科技、滬電股份、江海股份、金安國紀、生益科技、華正新材、景旺電子、深南電路、鵬鼎控股、廣合科技觸及跌停，勝宏科技、南亞新材、生益電子、中富電路跌超10%。半導體板塊低開低走，西安奕材20CM跌停，兆易創新、新潔能、通富微電等數只個股跌停，恆運昌、普冉股份等數十隻跌超10%。CPO板塊大幅下挫，源傑科技、中際旭創、新易盛等跌超15%。劍橋科技、東山精密等數十隻個股跌停。"
+    },
+    {
+      "id": "5011700",
+      "time": "2026-07-28 15:01:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲晶片股下跌，阿斯麥、BE Semiconductor、意法半導體、英飛凌股價下跌2%至3%。"
+    },
+    {
+      "id": "5011699",
+      "time": "2026-07-28 15:01:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲晶片股下跌，阿斯麥、BESI、意法半導體、英飛凌跌幅在2%-3%。"
+    },
+    {
+      "id": "5011698",
+      "time": "2026-07-28 15:01:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "飛利浦公佈二季度業績後，股價因波動過大暫停交易。"
+    },
+    {
+      "id": "5011697",
+      "time": "2026-07-28 15:01:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "路威酩軒股價在業績釋出後上漲2.2%。"
+    },
+    {
+      "id": "mkt:019fa787-6813-7aab-8ec2-36443ccd0cb4",
+      "time": "2026-07-28 15:01:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai-Shenzhen turnover CNY 2.03 trillion; Zhongji Xuchuang tops by turnover】Combined turnover on the Shanghai and Shenzhen bourses totaled CNY 2.03 trillion on July 28, down CNY 50.84 billion from the previous session. Shanghai turnover was CNY 949.68 billion (prev. CNY 1,031.31 billion) with volume 495 million lots (prev. 505 million); Shenzhen turnover was CNY 1,076.10 billion (prev. CNY 1,045.31 billion) with volume 574 million lots (prev. 571 million). Zhongji Xuchuang led single-stock turnover at CNY 51.60 billion, followed by C Changxin CNY 44.43 billion, Xinyisheng CNY 33.43 billion, Unisplendour CNY 17.92 billion and GigaDevice CNY 17.60 billion."
+    },
+    {
+      "id": "te:markets:570318",
+      "time": "2026-07-28 15:01:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Air Liquide Stock Price Hits 4-week Low — Air Liquide shares decreased to 171.49 EUR, the lowest since June 2026. Over the past 4 weeks, Air Liquide lost 0.46%, and in the last 12 months, it decreased 1.94%."
+    },
+    {
+      "id": "mkt:019fa787-3406-7aab-8ec2-2cc81dc18b01",
+      "time": "2026-07-28 15:01:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities opened higher on Tuesday July 28: Germany's DAX30 opened at 25502.54, up 78.13 pts (+0.31 pct); UK FTSE 100 opened at 10789.16, up 7.41 pts (+0.07 pct); France's CAC 40 opened at 8455.50, up 49.44 pts (+0.59 pct); Euro Stoxx 50 opened at 6299.85, up 17.64 pts (+0.28 pct); Spain's IBEX 35 opened at 19876.74, up 135.44 pts (+0.69 pct); Italy's FTSE MIB opened at 52189.00, up 134.05 pts (+0.26 pct)."
+    },
+    {
+      "id": "5011696",
+      "time": "2026-07-28 15:01:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "巴克萊銀行財報釋出後，股價一度下跌7.1%。"
+    },
+    {
+      "id": "te:markets:570317",
+      "time": "2026-07-28 15:01:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Spain",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Banco Bilbao Vizcaya Argentaria Stock Price Hits 28-year High — Banco Bilbao Vizcaya Argentaria shares increased to 23.42 EUR, the highest since July 1998. Over the past 4 weeks, Banco Bilbao Vizcaya Argentaria gained 8.58%, and in the last 12 months, it increased 77.54%."
+    },
+    {
+      "id": "mkt:019fa787-2710-7aab-8ec2-20711b8275fe",
+      "time": "2026-07-28 15:01:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【China index futures midday close】CSI 300 index futures (IF) main contract -2.48%; SSE 50 index futures (IH) main contract -0.93%; CSI 500 index futures (IC) main contract -3.31%; CSI 1000 index futures (IM) main contract -2.29%."
+    },
+    {
+      "id": "mkt:019fa787-1b16-7aab-8ec2-1d2753c3b7b8",
+      "time": "2026-07-28 15:01:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Europe & UK",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "At the midday close, China's most-active futures contracts were mostly lower. Fuel oil fell more than 6%; SC crude dropped over 5%; synthetic rubber declined nearly 4%. Benzene and LPG slid over 3%; polysilicon, rapeseed meal, soda ash and styrene fell about 3%. On the upside, Europe-route container shipping surged over 5% and eggs rose over 1%."
+    },
+    {
+      "id": "5011695",
+      "time": "2026-07-28 15:01:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "塞普勒斯：道達爾能源批准開發克羅諾斯氣田，為歐洲供應液化天然氣。"
+    },
+    {
+      "id": "te:markets:570316",
+      "time": "2026-07-28 15:01:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Unilever Stock Price Hits 18-week High — Unilever shares increased to 4878.00 GBp, the highest since March 2026. Over the past 4 weeks, Unilever gained 1.03%, and in the last 12 months, it increased 4.49%."
+    },
+    {
+      "id": "5011694",
+      "time": "2026-07-28 15:01:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數跌1.16%，深證成指跌4.52%，創業板指跌7.35%。"
+    },
+    {
+      "id": "5011693",
+      "time": "2026-07-28 15:00:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "聯合利華股價上漲5.9%，此前其基本銷售額增長超出預期。"
+    },
+    {
+      "id": "5011692",
+      "time": "2026-07-28 15:00:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本交易所集團執行長稱將監控槓桿ETF對日本股市造成的影響。"
+    },
+    {
+      "id": "5011691",
+      "time": "2026-07-28 15:00:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙6月零售額同比增長2.4%。"
+    },
     {
       "id": "mkt:019fa786-7127-7aab-8ec2-160c71c76f8b",
       "time": "2026-07-28 15:00:33",
@@ -160891,197 +161206,6 @@
         "國際"
       ],
       "text": "【2026年上半年全球儲能系統出貨328GWh 同比增長87.9%】2026年上半年全球儲能系統出貨量（交流側）為328.02GWh，同比增長87.9%。分應用來看，大儲佔比維持高位，戶儲同比翻倍，工商儲受益海外需求同步增長。2026年上半年，國內儲能市場呈現\"招標端高歌猛進、中標端溫和修復\"的特徵，兩端增速明顯背離。1-6月儲能招標規模合計達369.3 GWh，同比增長約89.9%；同期中標規模221.8GWh，同比增長約21.5%。招標與中標之間形成約147.5GWh的差額，為下半年系統交付提供充足儲備。美國市場裝機預測從年初負增長到正增長，最大增量來自AIDC儲能。根據Wood Mackenzie資料，Q1部署規模達3.3 GW / 8.4 GWh，同比+54%，創單季歷史新高。 (鑫欏資訊)"
-    },
-    {
-      "id": "te:markets:568462",
-      "time": "2026-07-21 15:05:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Hits 4-week High — AUDUSD increased to 0.70, the highest since June 2026. Over the past 4 weeks, Australian Dollar US Dollar gained 0.27%, and in the last 12 months, it increased 7.14%."
-    },
-    {
-      "id": "4999551",
-      "time": "2026-07-21 15:05:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "埃赫曼股價上漲2.8%，此前埃赫曼與加彭簽署了關於加彭錳產業鏈開發的諒解備忘錄。"
-    },
-    {
-      "id": "4999550",
-      "time": "2026-07-21 15:04:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "斯沃琪集團釋出財報後股價下跌2.78%。"
-    },
-    {
-      "id": "mkt:019f837d-bd96-7aab-8e20-8a84050f7763",
-      "time": "2026-07-21 15:04:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "ASMI.AS",
-        "Impact bullish",
-        "BESI.AS",
-        "ASML.AS"
-      ],
-      "text": "Dutch semiconductor shares rose, with ASMI, Besi and ASML up 2.4–3.0%."
-    },
-    {
-      "id": "4999549",
-      "time": "2026-07-21 15:04:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家衛生健康委將生育支援有關工作納入全系統為民服務實事】2026年全國擬新增15萬個普惠託位，減輕家庭托育負擔，因地制宜提高入托率。新增1000家鄉鎮衛生院和社群衛生服務中心提供兒童常見病、多發病診療服務，進一步鞏固加強兒科服務，提升可及性、便利性。全國1萬家醫療機構提供早孕關愛門診服務，加強孕早期諮詢指導，有效保護生育力。為滿13週歲女孩免費提供國家免疫規劃人乳頭瘤病毒（HPV）疫苗接種服務，降低感染率和成年後宮頸癌發生率。鄉鎮衛生院和社群衛生服務中心均提供週末疫苗接種服務，進一步提升疫苗接種服務可及性。"
-    },
-    {
-      "id": "4999548",
-      "time": "2026-07-21 15:04:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "意法半導體在米蘭上市的股價早盤上漲2.1%。"
-    },
-    {
-      "id": "4999547",
-      "time": "2026-07-21 15:03:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "必和必拓港口聯合工會：將於7月28日繼續談判。"
-    },
-    {
-      "id": "4999546",
-      "time": "2026-07-21 15:03:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "荷蘭半導體企業ASMI、貝西（BESI）與阿斯麥（ASML）股價上漲2.4%至3%不等。"
-    },
-    {
-      "id": "4999545",
-      "time": "2026-07-21 15:03:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "義大利萊昂納多公司獲11架直升機訂單，股價上漲1.9%。"
-    },
-    {
-      "id": "4999544",
-      "time": "2026-07-21 15:03:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "必和必拓港口聯合工會：未與必和必拓代表及公平工作委員會達成協議。"
-    },
-    {
-      "id": "mkt:019f837c-6600-7aab-8e20-879cef854f9b",
-      "time": "2026-07-21 15:03:15",
-      "tags": [
-        "MKT News",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "Chinese stocks rallied on July 21. China's Shanghai Composite Index closed up 68.09 points (+1.79%) at 3,864.37; Shenzhen Composite Index closed up 654.06 points (+4.81%) at 14,264.29. The CSI 300 Index rose 140.91 points (+3.06%) to 4,739.23; ChiNext Index jumped 242.87 points (+7.05%) to 3,685.97; STAR 50 Index gained 184.47 points (+10.73%) to 1,903.16."
-    },
-    {
-      "id": "4999543",
-      "time": "2026-07-21 15:03:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【A股收評：科創50暴力反彈漲超10% AI硬體方向領漲市場】截至收盤，上證指數漲1.79%報3864.37點，深證成指漲4.81%報14264.29點，創業板指漲7.05%報3685.97點，北證50漲3.24%報1079.04點。三市成交額29742億元，較上日放量2561億元。全市場超3100家個股上漲。板塊題材上，半導體、CPO、元件板塊漲幅居前；油氣、醫藥板塊跌幅居前。盤面上，半導體板塊觸底反彈走強，大為股份、北方華創、新潔能、格科微、金海通、臻寶科技、託倫斯漲停，長川科技、東芯股份、東微半導、聯動科技、中科飛測、華虹宏力、屹唐股份、強一股份漲超15%。CPO板塊走高，國瓷材料、聯特科技、天準科技、中富電路20CM漲停，共進股份、聯創電子等數十隻個股漲停。元件板塊大幅反彈，順絡電子、江海股份、生益科技、博敏電子、奧士康、中富電路、金祿電子、廣合科技漲停，三環集團、達利凱普漲超15%，麥捷科技、明陽電路、四會富仕、南亞新材、中英科技、迅捷興、本川智慧漲超10%。油氣板塊跌幅居前，科力股份跌近10%，通源石油跌超8%。醫藥板塊今日調整，靈康藥業、亞泰集團觸及跌停，萬邦醫藥跌超10%。"
-    },
-    {
-      "id": "mkt:019f837c-2b98-7aab-8e20-79d54b23b7a9",
-      "time": "2026-07-21 15:03:00",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Themes",
-        "Magnificent 7",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "【ALPHABET 100-year GBP bond down over 7% since Feb issue】ALPHABET's 100-year GBP bond, issued in Feb 2026 and maturing Feb 2126, has fallen more than 7% since issuance. Despite heavy initial demand and oversubscription, market participants point to the century tenor, a surge in issuance from global hyperscale cloud providers and rising UK political uncertainty as drivers of the sell-off, saying the outcome was not entirely unexpected. The move highlights broad weakness in investment-grade tech debt issued this year amid rising long-term yields, with additional pressure from AI-sector volatility and inflation."
-    },
-    {
-      "id": "4999542",
-      "time": "2026-07-21 15:02:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "凱普勒證券將沃爾沃目標價由350瑞典克朗上調至365瑞典克朗。"
-    },
-    {
-      "id": "4999541",
-      "time": "2026-07-21 15:02:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "南非主要股指上漲1.1%，報110,153.90點。"
-    },
-    {
-      "id": "mkt:019f837b-d5cc-7aab-8e20-74a7f3880968",
-      "time": "2026-07-21 15:02:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China, Thailand sign MoU on intellectual property enforcement cooperation】July 20 — SAMR director Luo Wen and Thailand’s minister of commerce signed a memorandum of understanding between the State Administration for Market Regulation and Thailand’s Ministry of Commerce to cooperate on intellectual property enforcement. The MoU establishes coordinated IP-protection measures including exchange and dialogue, enforcement information sharing, and training of enforcement personnel to strengthen joint IP enforcement capacity."
-    },
-    {
-      "id": "4999540",
-      "time": "2026-07-21 15:02:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晶科能源旗下海寧公司增資至43.5億 增幅約22%】天眼查App顯示，近日，晶科能源（海寧）有限公司發生工商變更，新增中郵金融資產投資有限公司等為股東，同時，註冊資本由35.7億人民幣增至約43.5億人民幣，增幅約22%。該公司成立於2017年12月，法定代表人為陳經緯，經營範圍包括新興能源技術研發、光伏裝置及元器件製造、電池製造、電子專用材料研發等，現由嘉興科聯投資合夥企業（有限合夥）、晶科能源（688223）、海寧陽光科技小鎮投資合夥企業（有限合夥）及上述新增股東等共同持股。"
-    },
-    {
-      "id": "4999539",
-      "time": "2026-07-21 15:02:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國與泰國簽署智慧財產權執法合作諒解備忘錄】7月20日，國家市場監督管理總局局長羅文與泰國商業部部長素帕姬・素吞汶簽署《中華人民共和國國家市場監督管理總局與泰王國商業部關於智慧財產權執法領域合作的諒解備忘錄》。該備忘錄旨在加強雙方智慧財產權保護協同配合，透過開展交流對話、共享執法資訊、培養執法人才等增強協作，共同提升智慧財產權執法水平。"
-    },
-    {
-      "id": "mkt:019f837b-78f3-7aab-8e20-6fbd64d37ea9",
-      "time": "2026-07-21 15:02:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai-Shenzhen combined turnover RMB 2,957.09 bln; Zhongji Xuchuang tops turnover】Total turnover on the Shanghai and Shenzhen exchanges was RMB 2,957.09 bln on July 21, up RMB 254.97 bln from the prior trading day. Shanghai turnover was RMB 1,396.52 bln with volume 735 mln lots (prior: RMB 1,294.65 bln, 709 mln lots). Shenzhen turnover was RMB 1,560.58 bln with volume 836 mln lots (prior: RMB 1,407.48 bln, 773 mln lots). Zhongji Xuchuang recorded the largest single-stock turnover at RMB 51.30 bln, followed by Xinyisheng RMB 39.88 bln, Zhaoyi Innovation RMB 33.09 bln, Dongshan Precision RMB 32.71 bln and Cambricon RMB 22.09 bln."
-    },
-    {
-      "id": "te:markets:568461",
-      "time": "2026-07-21 15:01:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "BNP Paribas Stock Price Hits 24-1/2-year High — BNP Paribas shares increased to 103.62 EUR, the highest since February 2002. Over the past 4 weeks, BNP Paribas gained 1.57%, and in the last 12 months, it increased 34.2%."
     }
   ]
 }
