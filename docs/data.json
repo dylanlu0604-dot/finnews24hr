@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-29 04:01:02",
-  "count": 17543,
+  "updated": "2026-07-29 04:04:51",
+  "count": 17536,
   "items": [
+    {
+      "id": "5012983",
+      "time": "2026-07-29 04:02:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "思佳訊第三財季營收9.35億美元，分析師預期9.249億美元。"
+    },
+    {
+      "id": "mkt:019faa51-e838-7aab-8ed4-93c363c37a33",
+      "time": "2026-07-29 04:02:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Wall Street Journal, the Trump administration will end subsidies for Medicare drug plans."
+    },
+    {
+      "id": "mkt:019faa51-4f97-7aab-8ed4-8cff8c616aeb",
+      "time": "2026-07-29 04:01:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MU.O",
+        "Impact bearish",
+        "SKHY.O",
+        "SNDK.O"
+      ],
+      "text": "【US close: Micron, SK Hynix about 9% lower; SanDisk down over 50% from month-ago high】US stocks closed Tuesday: the Dow initially rose about 1%, the S&P 500 gained 0.2% and the Nasdaq fell 0.2%. SK Hynix (SKHY.O) dropped 8.98% and Micron Technology (MU.O) fell 8.85%. SanDisk (SNDK.O) plunged 14%, trading over 50% below its record high from a month ago. The Nasdaq Golden Dragon China Index rose 1.08%; NetEase (NTES.O) gained nearly 3%."
+    },
+    {
+      "id": "5012982",
+      "time": "2026-07-29 04:01:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府擬取消聯邦醫療保險藥品計劃補貼。"
+    },
+    {
+      "id": "5012981",
+      "time": "2026-07-29 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲1.03%，標普500指數漲0.22%，納指跌0.23%。Iqvia Holdings Inc.漲14.04%，因塞特醫療漲9.30%，宣偉公司漲8.24%，閃迪跌14.25%，康寧跌12.19%。“七姐妹”方面：谷歌漲1.83%，微軟漲1.10%，蘋果漲0.93%，英偉達漲0.27%，Meta Platforms跌0.08%，亞馬遜跌0.23%，特斯拉跌0.58%。"
+    },
     {
       "id": "5012980",
       "time": "2026-07-29 04:00:03",
@@ -160784,122 +160830,6 @@
         "其他"
       ],
       "text": "OpenAI：現階段分享初步調查結果，以幫助防禦方瞭解此次網路安全事件（Hugging Face遭AI駭客入侵）的相關情況。"
-    },
-    {
-      "id": "mkt:019f8647-d80e-7aab-8e31-86b94d2bbc76",
-      "time": "2026-07-22 04:04:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【International oil prices up on Aug. 21】By the close on Aug. 21, NYMEX August light sweet crude futures rose $1.68 to settle at $84.91/bbl, up 2.02%; ICE Brent September futures rose $1.79 to settle at $91.01/bbl, up 2.01%."
-    },
-    {
-      "id": "5000855",
-      "time": "2026-07-22 04:04:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：將對基礎設施實施更嚴格管控並強化模型對齊安全措施。"
-    },
-    {
-      "id": "5000854",
-      "time": "2026-07-22 04:03:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價21日上漲】國際油價21日上漲。截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲1.68美元，收於每桶84.91美元，漲幅為2.02%；9月交貨的倫敦布倫特原油期貨價格上漲1.79美元，收於每桶91.01美元，漲幅為2.01%。"
-    },
-    {
-      "id": "mkt:019f8647-009d-7aab-8e31-7a94496dd2ff",
-      "time": "2026-07-22 04:03:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "MSFT.O",
-        "Impact bearish",
-        "GOOGL.O",
-        "META.O"
-      ],
-      "text": "【AI regulatory shift drives industry lobbying; Anthropic's 1H 2026 lobbying tops 2025 full-year】Federal lobbying disclosures show Anthropic's 1H 2026 lobbying exceeded its 2025 full-year spend. Q2 outlays were nearly $2.0m, taking 1H total to more than $3.5m versus $3.1m in 2025. Lobbying topics include export controls, cybersecurity, AI safety standards, DoD procurement, DOE's Genesis Mission funding and AI use in healthcare. U.S. Commerce Department export controls on Anthropic last month disrupted its model services and prompted urgent negotiations with the Trump administration, filings say. Filings indicate all major AI labs are closely monitoring shifts in U.S. AI safety standards and regulatory approaches. OpenAI reported a record Q2 lobbying spend of $1.2m and cited delays to its latest model rollout; its lobbying focuses include copyright, cloud and infrastructure, cybersecurity and privacy. Google spent $3.57m in Q2, Microsoft $2.69m and Meta $5.99m; Meta remains under bipartisan congressional scrutiny over child online safety, a long-running issue that conflicts with its chatbot expansion plans."
-    },
-    {
-      "id": "mkt:019f8646-f39e-7aab-8e31-74402524cf3e",
-      "time": "2026-07-22 04:03:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI and Hugging Face announced a cooperation to jointly respond to safety incidents arising during model evaluation."
-    },
-    {
-      "id": "5000853",
-      "time": "2026-07-22 04:03:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI與Hugging Face達成合作，處理模型評估過程中的安全事件。"
-    },
-    {
-      "id": "mkt:019f8646-5d82-7aab-8e31-6aa3529a4d25",
-      "time": "2026-07-22 04:03:06",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "【Dollar index up 0.21% to 101.172 at New York close】The dollar index (DXY) rose 0.21% to 101.172 at the New York close. EUR/USD 1.1403, down from 1.1415; GBP/USD 1.3381, down from 1.3436. USD/JPY 163.18, up from 162.50; USD/CHF 0.8129, up from 0.8100; USD/CAD 1.4107, up from 1.4059; USD/SEK 9.7035, up from 9.6856."
-    },
-    {
-      "id": "5000852",
-      "time": "2026-07-22 04:03:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數21日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.21%，在匯市尾市收於101.172。截至紐約匯市尾市，1歐元兌換1.1403美元，低於前一交易日的1.1415美元；1英鎊兌換1.3381美元，低於前一交易日的1.3436美元。1美元兌換163.18日元，高於前一交易日的162.50日元；1美元兌換0.8129瑞士法郎，高於前一交易日的0.8100瑞士法郎；1美元兌換1.4107加元，高於前一交易日的1.4059加元；1美元兌換9.7035瑞典克朗，高於前一交易日的9.6856瑞典克朗。"
-    },
-    {
-      "id": "mkt:019f8645-bf07-7aab-8e31-6364bf402363",
-      "time": "2026-07-22 04:02:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "MU.O",
-        "Impact bullish",
-        "SKHY.O",
-        "NVDA.O"
-      ],
-      "text": "【US close: major indexes higher; Micron and SK Hynix surge】U.S. equities closed higher on Tuesday: Dow +0.74%, S&P 500 +0.89%, Nasdaq +1.29%. SK Hynix (SKHY.O) jumped 13.7%, Micron Technology (MU.O) rose 12%, SanDisk (SNDK.O) gained 14%, NVIDIA (NVDA.O) advanced about 2% and SpaceX (SPCX.O) climbed 3%. The Nasdaq Golden Dragon China Index fell 0.69%; NetEase (NTES.O) dropped more than 3%."
-    },
-    {
-      "id": "5000851",
-      "time": "2026-07-22 04:02:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "SPACEX股價收盤上漲3.1%，結束連續七天的下跌。"
-    },
-    {
-      "id": "5000850",
-      "time": "2026-07-22 04:02:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：對於安迪・伯納姆就任英國新首相後俄英關係改善，俄方 “不抱任何希望”，批評伯納姆對烏克蘭提供支援。"
-    },
-    {
-      "id": "mkt:019f8644-75b0-7aab-8e31-5ce5631fbd0e",
-      "time": "2026-07-22 04:01:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanon's prime minister said the government is ready to implement the administrative and technical measures following Trump’s approval for US carriers to operate direct flights to Lebanon."
     }
   ]
 }

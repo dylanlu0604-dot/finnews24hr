@@ -1,7 +1,53 @@
 {
   "date": "2026-07-29",
-  "count": 253,
+  "count": 258,
   "items": [
+    {
+      "id": "5012983",
+      "time": "2026-07-29 04:02:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "思佳訊第三財季營收9.35億美元，分析師預期9.249億美元。"
+    },
+    {
+      "id": "mkt:019faa51-e838-7aab-8ed4-93c363c37a33",
+      "time": "2026-07-29 04:02:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Wall Street Journal, the Trump administration will end subsidies for Medicare drug plans."
+    },
+    {
+      "id": "mkt:019faa51-4f97-7aab-8ed4-8cff8c616aeb",
+      "time": "2026-07-29 04:01:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MU.O",
+        "Impact bearish",
+        "SKHY.O",
+        "SNDK.O"
+      ],
+      "text": "【US close: Micron, SK Hynix about 9% lower; SanDisk down over 50% from month-ago high】US stocks closed Tuesday: the Dow initially rose about 1%, the S&P 500 gained 0.2% and the Nasdaq fell 0.2%. SK Hynix (SKHY.O) dropped 8.98% and Micron Technology (MU.O) fell 8.85%. SanDisk (SNDK.O) plunged 14%, trading over 50% below its record high from a month ago. The Nasdaq Golden Dragon China Index rose 1.08%; NetEase (NTES.O) gained nearly 3%."
+    },
+    {
+      "id": "5012982",
+      "time": "2026-07-29 04:01:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府擬取消聯邦醫療保險藥品計劃補貼。"
+    },
+    {
+      "id": "5012981",
+      "time": "2026-07-29 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲1.03%，標普500指數漲0.22%，納指跌0.23%。Iqvia Holdings Inc.漲14.04%，因塞特醫療漲9.30%，宣偉公司漲8.24%，閃迪跌14.25%，康寧跌12.19%。“七姐妹”方面：谷歌漲1.83%，微軟漲1.10%，蘋果漲0.93%，英偉達漲0.27%，Meta Platforms跌0.08%，亞馬遜跌0.23%，特斯拉跌0.58%。"
+    },
     {
       "id": "5012980",
       "time": "2026-07-29 04:00:03",
