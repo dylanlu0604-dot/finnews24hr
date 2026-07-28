@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-29 03:26:06",
+  "updated": "2026-07-29 03:30:01",
   "count": 17585,
   "items": [
+    {
+      "id": "5012975",
+      "time": "2026-07-29 03:29:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體Fars News：位於伊拉克埃爾比勒省哈里爾的美軍基地發生火災。"
+    },
+    {
+      "id": "mkt:019faa31-ce77-7aab-8ed4-54815187f49a",
+      "time": "2026-07-29 03:26:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News reports a fire at a US military base in Harir, Erbil province, Iraq."
+    },
     {
       "id": "5012974",
       "time": "2026-07-29 03:23:07",
@@ -161230,22 +161246,6 @@
         "MKT News"
       ],
       "text": "Iraq's oil minister said the country's crude production capacity is currently 4.8 million barrels per day."
-    },
-    {
-      "id": "5000811",
-      "time": "2026-07-22 03:29:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "空中客車首席財務官表示，潛在補強型收購的搜尋範圍涵蓋商業服務與網路安全領域。"
-    },
-    {
-      "id": "5000810",
-      "time": "2026-07-22 03:26:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：五角大樓不再由官僚主導管理，取而代之的是歷經實戰考驗的老兵以及頂尖商界領袖，他們正以企業化模式運營國防部。"
     }
   ]
 }

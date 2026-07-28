@@ -1,7 +1,23 @@
 {
   "date": "2026-07-29",
-  "count": 240,
+  "count": 242,
   "items": [
+    {
+      "id": "5012975",
+      "time": "2026-07-29 03:29:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體Fars News：位於伊拉克埃爾比勒省哈里爾的美軍基地發生火災。"
+    },
+    {
+      "id": "mkt:019faa31-ce77-7aab-8ed4-54815187f49a",
+      "time": "2026-07-29 03:26:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News reports a fire at a US military base in Harir, Erbil province, Iraq."
+    },
     {
       "id": "5012974",
       "time": "2026-07-29 03:23:07",
