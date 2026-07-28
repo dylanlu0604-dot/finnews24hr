@@ -1,7 +1,93 @@
 {
   "date": "2026-07-28",
-  "count": 2174,
+  "count": 2183,
   "items": [
+    {
+      "id": "te:markets:570398",
+      "time": "2026-07-28 18:25:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Falls for 3rd Session — Crude oil fell to around $81 per barrel on Tuesday, touching its lowest level in more than a week, as optimism over a potential diplomatic breakthrough between the US and Iran eased concerns about supply disruptions. President Donald Trump said Washington was engaged in “good talks” with Tehran and that there was a “good chance” of reaching a resolution after pausing military strikes to give negotiations more time. He cautioned, however, that US attacks would resume if diplomacy failed, while Iran also warned it would retaliate should talks collapse. Oman has reportedly proposed a joint regional mechanism to manage shipping through the Strait of Hormuz, including a voluntary fee system. Despite the improving diplomatic outlook, geopolitical risks remain elevated. Saudi Arabia said it intercepted drones launched from Iraq targeting petroleum facilities, blaming Iran-backed groups, while Yemen’s Houthi rebels claimed responsibility for an attack on Saudi Arabia’s East-West oil pipeline."
+    },
+    {
+      "id": "mkt:019fa842-6459-7aab-8ec9-11e1ec6df531",
+      "time": "2026-07-28 18:25:50",
+      "tags": [
+        "MKT News",
+        "00763.HK",
+        "Impact bearish"
+      ],
+      "text": "HKEX filing shows BlackRock's long stake in ZTE (00763.HK) fell to 6.52% from 7.12% on July 22."
+    },
+    {
+      "id": "5012229",
+      "time": "2026-07-28 18:25:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【針對招投標資格認定等問題 司法部發布一批行政複議典型案例】針對招投標資格認定、企業產權保護、招商引資獎勵兌付等問題，司法部今天釋出第十三批行政複議典型案例。（央視新聞）"
+    },
+    {
+      "id": "5012228",
+      "time": "2026-07-28 18:24:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "港交所披露：貝萊德 7 月 22 日對中興通訊 H 股（0763.HK）多頭持倉由 7.12% 降至 6.52%。"
+    },
+    {
+      "id": "5012227",
+      "time": "2026-07-28 18:24:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紅寶麗：第一大股東及實控人等減持計劃期限屆滿，合計減持1.36%股份】紅寶麗公告，公司此前披露第一大股東江蘇寶源投資管理有限公司、實際控制人芮敬功先生、董事孔維來先生及高階管理人員陶梅娟女士的減持計劃。截至2026年7月27日，該減持計劃期限屆滿。期間，寶源投資透過集中競價及大宗交易合計減持925.26萬股（佔總股本1.26%），芮敬功減持47.5萬股（佔0.06%），孔維來減持2萬股，陶梅娟減持30.95萬股（佔0.04%）。本次減持後，寶源投資持股比例由19.44%降至18.18%，仍為公司第一大股東。"
+    },
+    {
+      "id": "5012226",
+      "time": "2026-07-28 18:23:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【南京熊貓：股價異常波動 上半年預計仍處虧損狀態】南京熊貓公告稱，2026年7月27 - 28日，公司股票連續2個交易日內日收盤價格漲幅偏離值累計達20%，屬異常波動。公司目前經營正常，控股股東及實控人無應披露未披露資訊。2026年上半年公司預計淨虧損2400 - 2880萬元，扣非淨虧損3400 - 3880萬元。公司無成熟腦機介面產品及相關收入，最新市盈率801.29，遠高於行業均值36.35，提醒投資者注意風險。"
+    },
+    {
+      "id": "mkt:019fa83f-e17c-7aab-8ec9-0d09695fe7ba",
+      "time": "2026-07-28 18:23:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai Stock Exchange expands bond-pledged repo funding-provider display list to 22, adds eight institutions】July 28 — The Shanghai Stock Exchange published its July 2026 update to bond-pledged repo funding-provider display information, the first centralized update. The disclosed list expanded to 22 providers with eight new financial institutions added. The exchange also updated acceptable pledged-securities scopes and business-contact details for some existing providers. The broader, maturing disclosure-and-use mechanism widens participant coverage, improves lender–borrower matching and supports activation of financing value in high-quality collateral."
+    },
+    {
+      "id": "mkt:019fa83f-86cf-7aab-8ec9-01878b850ee7",
+      "time": "2026-07-28 18:22:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "MAS says escalating Middle East conflict could reignite commodity price volatility if inventories decline."
+    },
+    {
+      "id": "mkt:019fa83f-5bd9-7aab-8ec8-f9709f98385c",
+      "time": "2026-07-28 18:22:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "MAS updated stress tests to capture key downside risks, including a renewed outbreak of Middle East conflict and a sharp tightening in financial conditions."
+    },
     {
       "id": "5012225",
       "time": "2026-07-28 18:22:09",
