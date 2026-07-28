@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-28 18:26:47",
-  "count": 17456,
+  "updated": "2026-07-28 18:30:42",
+  "count": 17451,
   "items": [
+    {
+      "id": "5012234",
+      "time": "2026-07-28 18:29:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇新股份：實控人提議2026年中期分紅不低於上半年淨利潤30%】宇新股份公告，公司實際控制人、董事長鬍先念提議，在符合相關法律法規前提下，制定並實施2026年中期利潤分配方案，建議2026年中期利潤分配金額不低於2026年上半年歸屬於上市公司股東淨利潤的30%。胡先念承諾將在相關會議審議該事項時投贊成票。"
+    },
+    {
+      "id": "mkt:019fa844-6607-7aab-8ec9-19d89c5f1156",
+      "time": "2026-07-28 18:28:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Second-floor collapse at Kumamoto shopping center traps multiple people】Japan's Fire and Disaster Management Agency said a strong earthquake this afternoon (July 28) caused the second floor of a shopping center in Kashima Town, Kumamoto Prefecture, to collapse, leaving multiple people trapped."
+    },
+    {
+      "id": "5012233",
+      "time": "2026-07-28 18:27:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所披露：7月22日，貝萊德集團（BlackRock, Inc）持有的中遠海運能源運輸股份H股<1138.HK>多頭倉位從5.57%提升至6.58%。"
+    },
+    {
+      "id": "5012232",
+      "time": "2026-07-28 18:27:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雙元科技：擬使用超募資金5000萬-8000萬元回購股份】雙元科技公告稱，公司實際控制人、董事長、總經理鄭建提議，使用超募資金以集中競價交易方式回購股份，資金總額不低於5000萬元，不超過8000萬元，回購價格不超111.96元/股。回購股份將用於員工持股計劃或股權激勵，若3年內未使用完畢將登出。本次回購實施期限為董事會審議透過之日起12個月內。該事項已獲董事會透過，無需股東會審議，保薦機構認為方案可行且必要。不過，回購存在股價超上限、資金未到位等風險。"
+    },
+    {
+      "id": "5012231",
+      "time": "2026-07-28 18:27:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本一購物中心坍塌多人被困】更新：據日本總務省消防廳訊息，今天（7月28日）下午強震發生後，日本熊本縣嘉島町一處購物中心的二層坍塌，導致多人被困。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:570399",
+      "time": "2026-07-28 18:26:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Falls for 3rd Session — Brent fell to around $86.5 per barrel on Tuesday, touching its lowest level in more than a week, as optimism over a potential diplomatic breakthrough between the US and Iran eased concerns about supply disruptions. President Donald Trump said Washington was engaged in “good talks” with Tehran and that there was a “good chance” of reaching a resolution after pausing military strikes to give negotiations more time. He cautioned, however, that US attacks would resume if diplomacy failed, while Iran also warned it would retaliate should talks collapse. Oman has reportedly proposed a joint regional mechanism to manage shipping through the Strait of Hormuz, including a voluntary fee system. Despite the improving diplomatic outlook, geopolitical risks remain elevated. Saudi Arabia said it intercepted drones launched from Iraq targeting petroleum facilities, blaming Iran-backed groups, while Yemen’s Houthi rebels claimed responsibility for an attack on Saudi Arabia’s East-West oil pipeline."
+    },
+    {
+      "id": "5012230",
+      "time": "2026-07-28 18:26:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安孚科技：擬1-1.5億元回購股份 股東後續或減持】安孚科技公告稱，公司擬以集中競價方式回購股份，金額不低於1億元、不超過1.5億元，價格不超76.64元/股，回購股份佔總股本比例0.35%-0.52%，期限自董事會審議透過起不超3個月，資金源於自有及自籌資金。截至公告披露日，股東合肥榮新此前減持計劃已提前終止，未來3個月、6個月內不排除減持可能。本次回購存在股價超上限等風險。"
+    },
     {
       "id": "te:markets:570398",
       "time": "2026-07-28 18:25:52",
@@ -159946,106 +160007,6 @@
         "公司"
       ],
       "text": "通用汽車公司：預計全年資本支出100億美元至120億美元。"
-    },
-    {
-      "id": "5000166",
-      "time": "2026-07-21 18:30:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "通用汽車公司：第二季度淨銷售額和營收480.3億美元，預估466.1億美元。"
-    },
-    {
-      "id": "5000165",
-      "time": "2026-07-21 18:30:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "通用汽車公司：第二季度汽車銷量990000輛，同比+1.6%。"
-    },
-    {
-      "id": "5000164",
-      "time": "2026-07-21 18:30:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用汽車預計全年調整後每股收益為12至14美元，此前預期為11.50至13.50美元。"
-    },
-    {
-      "id": "te:markets:568548",
-      "time": "2026-07-21 18:30:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The SENSEX Index Closes 0.31% Lower — The SENSEX Index decreased 238 points or 0.31 percent on Tuesday to close at 77470 points. The decline was led by HDFC Bank (-2.08%), Infosys (-1.59%) and Reliance Industries (-1.44%). On the upside, the strongest performers were Indusind Bank (2.53%), Bajaj Finserv (2.11%) and UltraTech Cement (1.45%)."
-    },
-    {
-      "id": "5000163",
-      "time": "2026-07-21 18:29:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽確認中國石油評級為“A”，展望穩定。"
-    },
-    {
-      "id": "5000162",
-      "time": "2026-07-21 18:29:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【世運電路：取得建設銀行2.7億元股票回購專項貸款承諾函】世運電路(603920.SH)公告稱，公司近日取得中國建設銀行江門市分行出具的《股票回購貸款承諾函》，貸款金額為2.7億元，貸款比例不超過股票交易價款的90%，貸款期限一年至三年，利率最低1.8%，用於回購上市公司股票相關交易價款和費用。"
-    },
-    {
-      "id": "5000161",
-      "time": "2026-07-21 18:29:21",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【光伏行業能耗、能效強制性國家標準宣貫會在江蘇無錫舉辦】光伏行業能耗、能效強制性國家標準宣貫會在江蘇省無錫市召開，工業和資訊化部節能與綜合利用司、電子資訊司，江蘇省工業和資訊化廳以及相關標準化研究機構、光伏製造企業、終端使用者企業、檢測認證機構、科研院所等近300人參加。節能與綜合利用司有關負責同志介紹了推進光伏行業發展對工業節能降碳的重要意義、取得的積極成效，強調要透過堅持對標達標、強化技術引領、深化協同聯動等方式推動光伏行業能耗、能效強制性國家標準實施見效。中國標準化研究院、中國電子技術標準化研究院，以及標準牽頭起草單位、檢測認證機構分別介紹了《矽多晶和鍺單位產品能源消耗限額》《矽單晶單位產品能源消耗限額》《晶體矽光伏元件和逆變器能效限定值及能效等級》標準的技術內容、應用實施方案、檢測方法。光伏行業能耗、能效強制性國家標準的出臺，將有效提高新建專案節能降碳准入門檻，引導高耗能、低能效落後產能有序退出市場，為光伏行業治理工作提供了有效的政策工具。"
-    },
-    {
-      "id": "5000160",
-      "time": "2026-07-21 18:28:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST嶺南：“嶺南轉債”無法兌付 公司存多項風險】*ST嶺南公告稱，“嶺南轉債”無法按期兌付本息，公司主體及“嶺南轉債”信用等級均被下調至C。2025年營收1.12億元，同比降86.99%，淨虧損23.36億元，虧損增加137.29%；2026年Q1營收0.40億元，同比降41.27%，淨虧損1.34億元，虧損增加101.10%。此外，增信計劃抵質押資產變現、公司股票退市、訴訟等風險猶存。截至2026年7月14日，新增訴訟、仲裁涉案金額1.96億元，累計達淨資產絕對值的14.53%。公司將於8月3日召開“嶺南轉債”2026年第一次債券持有人會議。"
-    },
-    {
-      "id": "5000159",
-      "time": "2026-07-21 18:27:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【富淼科技：錢鑫增持2.00%股份，合計持股升至29.56%】富淼科技公告，公司控股股東永卓控股有限公司及其一致行動人錢鑫此前合計持有公司股份3948.48萬股，佔總股本27.56%。近日，錢鑫基於對公司未來發展信心，於2026年7月21日透過大宗交易增持公司股份286.48萬股，佔公司總股本2.00%。本次權益變動後，控股股東及其一致行動人合計持有公司股份增至4234.96萬股，佔總股本比例由27.56%增加至29.56%，權益變動比例觸及1%整數倍。本次權益變動不觸發要約收購，不會導致公司控股股東及實際控制人變化。"
-    },
-    {
-      "id": "5000158",
-      "time": "2026-07-21 18:27:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度就4名船員遇襲身亡召見俄羅斯外交官，佩斯科夫回應】據路透社報道，印度外交部21日召見俄羅斯駐印度臨時代辦弗拉基米爾·拉達諾夫（Vladimir Ladanov），就在黑海航行的“金獅”號商船遭遇襲擊，並導致4名印度籍船員死亡一事表達“嚴重關切”。印度外交部宣告表示，此類襲擊“不可接受”，破壞了國際海上貿易的安全與穩定，印方要求拉達諾夫轉達印度的強烈關切。另據法新社最新報道，對於印度的做法，俄羅斯總統新聞秘書、克里姆林宮發言人佩斯科夫21日表示，“我們正繼續與印度方面保持溝通，並闡明我們的立場”。（環球網）"
-    },
-    {
-      "id": "5000157",
-      "time": "2026-07-21 18:27:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST百利：公司重大合同解除】ST百利(603959.SH)公告稱，公司於2024年1月9日與山西特瓦時能源科技股份有限公司（簡稱“山西特瓦時”）簽訂了《山西特瓦時能源科技股份有限公司年產10萬噸磷酸錳鐵鋰正極材料專案設計、採購、施工工程總承包EPC合同》。因專案客觀情況發生重大變化，繼續履行原合同已無實際可行性。公司與山西特瓦時經充分溝通一致同意解除原合同，雙方於2026年7月21日簽署了《合同終止協議書》。由於原合同約定專案未實質開工、未履行、未投入，雙方無應收應付款項。本次合同解除不會對公司未來預期收益和財務狀況產生重大不利影響。"
-    },
-    {
-      "id": "5000156",
-      "time": "2026-07-21 18:26:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【世運電路：獲建行江門分行2.7億元股票回購專項貸款承諾】世運電路公告稱，公司於7月19日透過回購股份方案，擬用2-3億元自有或自籌資金回購股份，用於員工持股或股權激勵，回購價不超55元/股，期限不超6個月。近日，公司獲中國建設銀行江門市分行《股票回購貸款承諾函》，貸款金額2.7億元，比例不超交易價款90%，期限1-3年，最低利率1.8%，擔保方式為信用。最終以實際放款和簽訂合同為準，對經營及業績無重大影響。"
     }
   ]
 }
