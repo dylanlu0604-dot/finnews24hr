@@ -1,7 +1,107 @@
 {
   "date": "2026-07-29",
-  "count": 21,
+  "count": 32,
   "items": [
+    {
+      "id": "5012860",
+      "time": "2026-07-29 00:28:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部副部長：諒解備忘錄第5條規定，未來霍爾木茲海峽的管理安排將不再如戰前那樣。"
+    },
+    {
+      "id": "5012859",
+      "time": "2026-07-29 00:27:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部副部長：如果允許船隻從霍爾木茲海峽的南航道通行，我們對該海峽的主權將淪為海市蜃樓。"
+    },
+    {
+      "id": "5012858",
+      "time": "2026-07-29 00:27:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部副部長：霍爾木茲海峽已成為我國國家安全的重要組成部分，它具備防禦能力，我們絕不會放棄它。"
+    },
+    {
+      "id": "5012857",
+      "time": "2026-07-29 00:27:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部副部長：已告知法國和英國，任何其軍艦在霍爾木茲海峽進行排雷活動的行為都將使其成為合法的打擊目標。"
+    },
+    {
+      "id": "mkt:019fa98d-1bc4-7aab-8ed1-720f9d372438",
+      "time": "2026-07-29 00:27:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's deputy foreign minister warned that allowing vessels to transit the southern channel of the Strait of Hormuz would render Iran's sovereignty over the strait illusory."
+    },
+    {
+      "id": "mkt:019fa98c-29b6-7aab-8ed1-6d4ee6979ac6",
+      "time": "2026-07-29 00:26:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Five sources said rising shipping risks have prompted three grain-export terminals in Russia's Black Sea region to restrict truck deliveries of grain into ports."
+    },
+    {
+      "id": "mkt:019fa98c-12d0-7aab-8ed1-62016862be44",
+      "time": "2026-07-29 00:25:57",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "White House said meetings with Ukrainian President Zelenskiy and Israeli Prime Minister Netanyahu were positive."
+    },
+    {
+      "id": "mkt:019fa98c-05fc-7aab-8ed1-5a5a4bbd35b6",
+      "time": "2026-07-29 00:25:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran deputy foreign minister said Iran's policy is that the Strait of Hormuz will never revert to its pre-war state."
+    },
+    {
+      "id": "5012856",
+      "time": "2026-07-29 00:25:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮表示，與澤連斯基和內塔尼亞胡的會談取得了積極成果。"
+    },
+    {
+      "id": "5012855",
+      "time": "2026-07-29 00:24:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士透露，受航運風險上升影響，俄羅斯黑海地區的三個糧食出口碼頭已限制卡車運糧進入。"
+    },
+    {
+      "id": "5012854",
+      "time": "2026-07-29 00:24:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "原油期貨進一步下跌，受美伊緊張局勢有望緩解的樂觀情緒影響，布倫特原油每桶下跌5美元。"
+    },
     {
       "id": "te:markets:570486",
       "time": "2026-07-29 00:21:44",
