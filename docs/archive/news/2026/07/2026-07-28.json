@@ -1,7 +1,112 @@
 {
   "date": "2026-07-28",
-  "count": 595,
+  "count": 605,
   "items": [
+    {
+      "id": "mkt:019fa633-e4d2-7aab-8eb8-e172af5d7565",
+      "time": "2026-07-28 08:50:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "Alibaba Cloud says Kimi K3 is now available on its Qianwen AI platform."
+    },
+    {
+      "id": "5011062",
+      "time": "2026-07-28 08:49:08",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【機構：日本下調食品消費稅將對日本國債造成壓力】三菱日聯摩根士丹利證券的高階固收策略師Keisuke Tsuruta稱，本地媒體報道的政府將食品消費稅降至1%的計劃將對債券市場產生負面影響。他表示，每年高達5萬億日元（305億美元）的資金缺口如何填補尚不明朗，這加劇了市場的擔憂。他表示，市場參與者對承擔利率風險的態度日趨謹慎；融資成本上行壓力可能還會持續。總額超過370萬億日元的公共和私人投資、過橋債券的再融資以及不斷增加的國防開支的資金來源仍不明朗。"
+    },
+    {
+      "id": "5011061",
+      "time": "2026-07-28 08:48:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【大和證券據悉聘請前瑞信銀行家Tiger Xu重組中國業務】據知情人士透露，大和證券聘請高階銀行家Tiger Xu領導其中國投資銀行業務；這家日本券商正在重新調整其大中華區業務，以專注於跨境併購和資本市場。"
+    },
+    {
+      "id": "5011060",
+      "time": "2026-07-28 08:47:12",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【市場監管總局無條件批准上藥雲健康收購十八家公司股權案】市場監管總局釋出2026年7月13日—7月19日無條件批准經營者集中案件列表，其中包括上海醫藥大健康雲商股份有限公司收購上藥益藥大藥房（惠民）有限公司等十八家公司股權案、杭氧集團股份有限公司與山東海力化工股份有限公司新設合營企業案等。"
+    },
+    {
+      "id": "mkt:019fa630-9672-7aab-8eb8-dde3b0ced817",
+      "time": "2026-07-28 08:47:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000001.SS",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "【China margin financing balances up CNY 10.025 bln to CNY 2.6683 tln on July 27】As of July 27, margin financing balances on the Shanghai and Shenzhen exchanges totaled CNY 2.6683 tln, up CNY 10.025 bln from the prior trading day. Shanghai exchange balance was CNY 1.3643 tln, +CNY 13.67 bln; Shenzhen balance was CNY 1.3040 tln, -CNY 3.645 bln."
+    },
+    {
+      "id": "5011059",
+      "time": "2026-07-28 08:46:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額增加100.25億元】截至7月27日，上交所融資餘額報13643.15億元，較前一交易日增加136.7億元；深交所融資餘額報13039.62億元，較前一交易日減少36.45億元；兩市合計26682.77億元，較前一交易日增加100.25億元。"
+    },
+    {
+      "id": "5011058",
+      "time": "2026-07-28 08:46:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【MSCI亞太指數跌近2.1% AI支出擔憂重燃引發晶片股拋售】由於市場對人工智慧(AI)支出的擔憂重燃引發晶片製造商拋售潮，MSCI亞太指數跌近2.1%。對該指數拖累最大的個股包括：SK海力士跌近10.4%，三星電子跌逾8.5%。該基準指數今年以來的漲幅收窄至14.4%。"
+    },
+    {
+      "id": "mkt:019fa62f-ab0e-7aab-8eb8-d5fce29af8f7",
+      "time": "2026-07-28 08:46:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver hit $58/oz, down 0.7% intraday."
+    },
+    {
+      "id": "mkt:019fa62e-f2d7-7aab-8eb8-c80926df713b",
+      "time": "2026-07-28 08:45:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "【CITIC Securities: buying opportunities in electronics after sharp pullback】CITIC Securities says the electronics sector has corrected sharply since July and valuations have fallen materially while industry fundamentals remain intact. Key drivers include stronger semiconductor-equipment order visibility, accelerating domestic compute orders and supply‑chain restocking, AI‑server demand lifting PCB and AI power‑supply cycles, and a clearer memory-price uptrend; supply‑chain opportunities are also spreading into consumer electronics. The report adds the selloff has pushed some quality names into valuation troughs, creating scope for earnings delivery and valuation re-rating."
+    },
+    {
+      "id": "te:markets:570218",
+      "time": "2026-07-28 08:44:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Tumble in Tech-Led Selloff — The Nikkei 225 Index dropped 3.7% to around 62,500, while the broader Topix Index declined 2.3% to 3,973 on Tuesday, with the Nikkei falling to a two-month low as semiconductor and other technology stocks faced renewed selling pressure. The losses followed a sharp selloff in US chipmakers overnight amid concerns that circular AI financing arrangements could unravel if hyperscalers scale back capital spending. Major decliners included Kioxia Holdings (-2.6%), SoftBank Group (-4%), Advantest (-8.4%), Taiyo Yuden (-7.3%), and Tokyo Electron (-9.7%). Heavyweight banking stocks also weakened, with Mitsubishi UFJ (-3.2%), Sumitomo Mitsui (-3%), and Mizuho Financial (-3.9%) posting notable losses. Meanwhile, oil prices extended their decline after President Donald Trump said the US had resumed negotiations with Iran aimed at ending the Middle East conflict."
+    },
     {
       "id": "5011057",
       "time": "2026-07-28 08:44:20",
