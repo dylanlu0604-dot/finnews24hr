@@ -1,7 +1,78 @@
 {
   "date": "2026-07-28",
-  "count": 2496,
+  "count": 2503,
   "items": [
+    {
+      "id": "5012454",
+      "time": "2026-07-28 20:15:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至7月11日當週ADP就業人數週度變動 1.5萬人，前值1.65萬人。"
+    },
+    {
+      "id": "mkt:019fa8a6-77dc-7aab-8ecb-6d38ea3ac5d3",
+      "time": "2026-07-28 20:15:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "US ADP private payrolls weekly change for week through July 11: +15,000, prior +16,500."
+    },
+    {
+      "id": "mkt:019fa8a6-5a6a-7aab-8ecb-6540915775c2",
+      "time": "2026-07-28 20:15:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japanese media report about 20–30 employees are missing at an Aeon shopping mall in Kumamoto; police and other authorities are urgently confirming the situation."
+    },
+    {
+      "id": "mkt:019fa8a5-78d1-7aab-8ecb-599de809b49a",
+      "time": "2026-07-28 20:14:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【US media: Netanyahu's influence on Trump much reduced during this US visit】Axios reports Israeli Prime Minister Netanyahu will meet Trump in the Oval Office on Tuesday — their eighth meeting in Trump’s second term — but says Netanyahu’s sway over Trump is markedly weaker than on prior visits. The meeting could still matter as Trump weighs next steps, including possible coordinated action between the two countries. During the opening months after the Iran war began the men spoke almost daily to coordinate; Axios says call frequency has fallen sharply in recent weeks and Netanyahu now leans more on Secretary of State Rubio to read Trump’s thinking. Netanyahu reportedly struggled to secure the Tuesday slot after failing to visit last week. Since the April 8 ceasefire, Axios says Netanyahu’s influence on Trump’s Iran war policy has waned; Trump on Monday acknowledged differences with Netanyahu, and two weeks ago Netanyahu failed to convince Trump to drop an F-35 sale to Turkey."
+    },
+    {
+      "id": "te:economy:570429",
+      "time": "2026-07-28 20:14:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Macedonia",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "North Macedonia Holds Key Policy Rate at 4.25% — The National Bank of North Macedonia left its interest rate unchanged at 4.25% at its July 2026 meeting, citing uncertainty surrounding foreign prices and geopolitical tensions. Although headline inflation slowed in June to 3.4% from 4.8%, driven by lower food prices, policymakers stated more time was needing to assess price stability considering that inflation remains elevated, as foreign prices are still high and unstable due to geopolitical tensions and possible spill-over effects. Economic activity continues to show resilience, although growth slowed to 3.1% in the first quarter of 2026 from 3.8% in the prior quarter. Looking ahead, the NBNM stated it will continue to aim for stability of the denar against the euro, in order to ensur price stability in the medium term, and will closely monitor domestic and international economic and financial development."
+    },
+    {
+      "id": "5012453",
+      "time": "2026-07-28 20:13:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "KRAKEN：正在調查部分客戶使用Kraken應用時遇到的問題，該問題導致即時買入的可用歐元餘額可能顯示為0歐元。"
+    },
+    {
+      "id": "5012452",
+      "time": "2026-07-28 20:13:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【六福證券遭香港證監會譴責及罰款210萬港元】港證監會譴責六福證券（香港）有限公司並處以罰款210萬港元，原因是該公司沒有實施足夠及有效的網路保安監控措施，從而可能導致六福證券無法抵禦勒索軟體攻擊，並令其系統從該網路攻擊中全面恢復的時間延誤約三星期。"
+    },
     {
       "id": "5012451",
       "time": "2026-07-28 20:11:16",

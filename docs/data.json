@@ -1,7 +1,78 @@
 {
-  "updated": "2026-07-28 20:11:54",
-  "count": 17460,
+  "updated": "2026-07-28 20:15:50",
+  "count": 17455,
   "items": [
+    {
+      "id": "5012454",
+      "time": "2026-07-28 20:15:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至7月11日當週ADP就業人數週度變動 1.5萬人，前值1.65萬人。"
+    },
+    {
+      "id": "mkt:019fa8a6-77dc-7aab-8ecb-6d38ea3ac5d3",
+      "time": "2026-07-28 20:15:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "US ADP private payrolls weekly change for week through July 11: +15,000, prior +16,500."
+    },
+    {
+      "id": "mkt:019fa8a6-5a6a-7aab-8ecb-6540915775c2",
+      "time": "2026-07-28 20:15:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japanese media report about 20–30 employees are missing at an Aeon shopping mall in Kumamoto; police and other authorities are urgently confirming the situation."
+    },
+    {
+      "id": "mkt:019fa8a5-78d1-7aab-8ecb-599de809b49a",
+      "time": "2026-07-28 20:14:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【US media: Netanyahu's influence on Trump much reduced during this US visit】Axios reports Israeli Prime Minister Netanyahu will meet Trump in the Oval Office on Tuesday — their eighth meeting in Trump’s second term — but says Netanyahu’s sway over Trump is markedly weaker than on prior visits. The meeting could still matter as Trump weighs next steps, including possible coordinated action between the two countries. During the opening months after the Iran war began the men spoke almost daily to coordinate; Axios says call frequency has fallen sharply in recent weeks and Netanyahu now leans more on Secretary of State Rubio to read Trump’s thinking. Netanyahu reportedly struggled to secure the Tuesday slot after failing to visit last week. Since the April 8 ceasefire, Axios says Netanyahu’s influence on Trump’s Iran war policy has waned; Trump on Monday acknowledged differences with Netanyahu, and two weeks ago Netanyahu failed to convince Trump to drop an F-35 sale to Turkey."
+    },
+    {
+      "id": "te:economy:570429",
+      "time": "2026-07-28 20:14:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Macedonia",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "North Macedonia Holds Key Policy Rate at 4.25% — The National Bank of North Macedonia left its interest rate unchanged at 4.25% at its July 2026 meeting, citing uncertainty surrounding foreign prices and geopolitical tensions. Although headline inflation slowed in June to 3.4% from 4.8%, driven by lower food prices, policymakers stated more time was needing to assess price stability considering that inflation remains elevated, as foreign prices are still high and unstable due to geopolitical tensions and possible spill-over effects. Economic activity continues to show resilience, although growth slowed to 3.1% in the first quarter of 2026 from 3.8% in the prior quarter. Looking ahead, the NBNM stated it will continue to aim for stability of the denar against the euro, in order to ensur price stability in the medium term, and will closely monitor domestic and international economic and financial development."
+    },
+    {
+      "id": "5012453",
+      "time": "2026-07-28 20:13:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "KRAKEN：正在調查部分客戶使用Kraken應用時遇到的問題，該問題導致即時買入的可用歐元餘額可能顯示為0歐元。"
+    },
+    {
+      "id": "5012452",
+      "time": "2026-07-28 20:13:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【六福證券遭香港證監會譴責及罰款210萬港元】港證監會譴責六福證券（香港）有限公司並處以罰款210萬港元，原因是該公司沒有實施足夠及有效的網路保安監控措施，從而可能導致六福證券無法抵禦勒索軟體攻擊，並令其系統從該網路攻擊中全面恢復的時間延誤約三星期。"
+    },
     {
       "id": "5012451",
       "time": "2026-07-28 20:11:16",
@@ -159953,120 +160024,6 @@
         "Impact bearish"
       ],
       "text": "US Treasury Secretary Bessent said 3% growth for the US economy would not be unreasonable."
-    },
-    {
-      "id": "5000387",
-      "time": "2026-07-21 20:15:44",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特就經濟發表觀點：3%的增速並非不合理。"
-    },
-    {
-      "id": "mkt:019f849a-7b16-7aab-8e28-849e547303ce",
-      "time": "2026-07-21 20:15:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "US Treasury Secretary Bessent said US economic fundamentals are very strong and core inflation is stable."
-    },
-    {
-      "id": "mkt:019f849a-3607-7aab-8e28-7a0f96b88bba",
-      "time": "2026-07-21 20:15:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ADP weekly employment report: over the four weeks to July 4, 2026, private-sector employers added an average of 16,500 jobs per week."
-    },
-    {
-      "id": "5000386",
-      "time": "2026-07-21 20:15:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝森特：美國經濟基本面十分強勁，核心物價保持穩定。"
-    },
-    {
-      "id": "5000385",
-      "time": "2026-07-21 20:15:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國至7月4日當週ADP就業人數週度變動 1.65萬人，前值1.975萬人。"
-    },
-    {
-      "id": "te:economy:568563",
-      "time": "2026-07-21 20:15:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Mexico Retail Growth Slows in May — Mexico's retail sales rose 1.6% year-on-year in May 2026 after increasing 4.4% in the prior month. Strong growth in sales through online channels, printed catalogues, TV and similar platforms (12%), healthcare products (7.7%), textiles, accessories, footwear and clothing (6.3%), household appliances, computers, home décor and second-hand goods (5.8%), and motor vehicles, spare parts, fuels, and lubricants (3.2%) more than offset declines in grocery items, food, beverages, ice and tobacco (-7.1%) and stationery, recreational goods, and other personal-use items (-2.4%). On a seasonally adjusted monthly basis, retail sales fell 0.6% following a 0.8% increase in April."
-    },
-    {
-      "id": "mkt:019f8499-f481-7aab-8e28-7640b94b994c",
-      "time": "2026-07-21 20:15:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. ADP private payrolls change, week ended July 4: +16.5k; prior +19.75k."
-    },
-    {
-      "id": "5000384",
-      "time": "2026-07-21 20:14:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬科A：深鐵集團提供不超過5.19億元股東借款】萬科A公告，公司第一大股東深圳市地鐵集團有限公司向公司提供不超過5.19億元借款，用於償還公司在公開市場發行的債券本息及指定借款利息。借款期限最晚不晚於首筆借款資金實際支付之日起3年屆滿之日，借款利率為1年期LPR減71個基點，目前為2.29%。公司及下屬子公司以海南萬駿享有的應收賬款及處置收益提供質押擔保，質押率為100%。本次借款已獲公司董事會審議透過，關聯董事迴避表決。"
-    },
-    {
-      "id": "mkt:019f8498-7fad-7aab-8e28-69110ffa837f",
-      "time": "2026-07-21 20:13:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT said he is beginning to see the emergence of U.S. open-source models."
-    },
-    {
-      "id": "mkt:019f8497-c0a6-7aab-8e28-61dff2137767",
-      "time": "2026-07-21 20:12:45",
-      "tags": [
-        "MKT News",
-        "GM.N",
-        "Impact bullish"
-      ],
-      "text": "GM CFO said higher gasoline prices have not affected sales."
-    },
-    {
-      "id": "5000382",
-      "time": "2026-07-21 20:12:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特談人工智慧：我們正在創造競爭對手。"
-    },
-    {
-      "id": "5000381",
-      "time": "2026-07-21 20:12:13",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特談及人工智慧：美國開源模型正開始湧現。"
     }
   ]
 }
