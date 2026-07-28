@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-29 05:14:07",
-  "count": 17512,
+  "updated": "2026-07-29 05:18:02",
+  "count": 17511,
   "items": [
+    {
+      "id": "5013012",
+      "time": "2026-07-29 05:17:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：OpenAI 失控 AI 智慧體入侵另一家科技企業，非法取用其客戶賬戶資訊。"
+    },
+    {
+      "id": "5013011",
+      "time": "2026-07-29 05:15:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.22%，報14851點。"
+    },
+    {
+      "id": "5013010",
+      "time": "2026-07-29 05:15:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "VISA執行長： 公司在產品研發、工程技術領域取得進展，正在落地多款人工智慧新型工具。公司不再僅依靠人工智慧提供輔助，現已在人工監督下運用人工智慧獨立完成各項工作與任務。 公司正在拆分產品開發團隊，將十人以上的大團隊重組為僅 2 至 4 人的小型靈活小組。"
+    },
     {
       "id": "5013009",
       "time": "2026-07-29 05:05:22",
@@ -160609,42 +160633,6 @@
         "市場"
       ],
       "text": "【英特爾確認將進一步裁員 股價大漲近9%】英特爾股價週二大漲，此前該公司確認將進一步裁員，以削減成本並調整其關鍵的資料中心部門。英特爾股價上漲8.6%，這家科技公司表示將在資料中心部門(DCG)裁員，但未披露具體人數。這延續了該股今年以來的漲勢，有跡象顯示在執行長陳立武的領導下，英特爾在扭轉頹勢方面取得進展。"
-    },
-    {
-      "id": "5000904",
-      "time": "2026-07-22 05:16:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國駐伊拉克埃爾比勒領館又遭無人機襲擊】伊拉克北部庫爾德自治區（庫區）一名訊息人士21日告訴新華社記者，4架無人機當晚在美國駐伊拉克埃爾比勒領館附近被擊落，暫無人員傷亡報告。近日，美國駐伊拉克埃爾比勒領館頻繁遭遇無人機襲擊。"
-    },
-    {
-      "id": "5000903",
-      "time": "2026-07-22 05:15:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.11%，報15179點。"
-    },
-    {
-      "id": "5000902",
-      "time": "2026-07-22 05:15:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：從軍事層面來看，伊朗自衝突伊始就完全處於劣勢、遭到壓制。他們的軍力遠不及我方。"
-    },
-    {
-      "id": "te:economy:568628",
-      "time": "2026-07-22 05:14:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "South Korean PPI Remains at Highest Since 2022 — South Korea's producer prices rose 8.6% year-on-year in June 2026, the same pace as in May, which was the strongest increase since July 2022. Manufacturing producer prices climbed 13.2%, led by a 65.8% surge in coal and petroleum products. Prices for computers, electronic and optical equipment rose 24.6%, while chemical products increased 19.2% and basic metal products advanced 16.0%. Meanwhile, prices of agricultural, forestry, and marine products rose 4.8%, supported by a 10.0% increase in livestock prices. Service prices also increased 4.9%, driven by a 35.2% jump in financial and insurance activities, while utility prices rose 1.3%. On a monthly basis, the Producer Price Index was unchanged in June after rising 1.0% in May."
     }
   ]
 }
