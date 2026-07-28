@@ -1,7 +1,152 @@
 {
   "date": "2026-07-28",
-  "count": 2810,
+  "count": 2825,
   "items": [
+    {
+      "id": "5012655",
+      "time": "2026-07-28 21:42:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國半導體股早盤下跌】費城半導體指數創下兩個多月來新低，最新報跌5.3%。美光股價下跌8.7%，閃迪股價下跌10.4%，西部資料股價下跌12%。英偉達股價下跌1%，AMD股價下跌7.9%，英特爾股價下跌5.8%，博通股價下跌3%。"
+    },
+    {
+      "id": "mkt:019fa8f5-e42a-7aab-8ece-76e8b6dbb6f0",
+      "time": "2026-07-28 21:41:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump says he doesn't care about US-Mexico-Canada trade deal】President Trump said on Tuesday that renewing the US-Mexico-Canada trade agreement matters more to Mexico and Canada than to the United States. Asked whether he would renew the pact, he said \"I don't care. I mean, I actually don't really want to. I'd rather be independent. The key is: Mexico and Canada need us, but we don't need them. The agreement is important to them, not to us.\""
+    },
+    {
+      "id": "te:markets:570451",
+      "time": "2026-07-28 21:41:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Falls Further — Brent crude oil fell to around $86 per barrel on Tuesday, touching its lowest level in more than a week, as renewed diplomatic efforts over the Strait of Hormuz improved the outlook for Middle East oil supplies. Iran’s Foreign Minister Abbas Araghchi held separate talks with his Saudi and Omani counterparts, focusing on restoring security in the strategic waterway after disruptions caused by the US-Iran conflict. Oman has proposed a joint regional mechanism to manage the strait, allowing Iran to collect voluntary transit fees, a plan that has reportedly gained support from Gulf states. Also, President Donald Trump said Washington was holding “good talks” with Tehran, although he warned military strikes could resume if diplomacy fails, while Iran also threatened retaliation. Despite the diplomatic progress, regional risks remain elevated after Saudi Arabia intercepted drones targeting oil facilities and Yemen’s Houthi rebels claimed an attack on the kingdom’s East-West pipeline."
+    },
+    {
+      "id": "5012654",
+      "time": "2026-07-28 21:41:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "PayPal股價上漲3.8%，此前該公司上調了2026年利潤預測，執行長表示公司仍對創造股東價值的機會持開放態度。"
+    },
+    {
+      "id": "5012653",
+      "time": "2026-07-28 21:41:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌2%，現報13935.00元。"
+    },
+    {
+      "id": "5012652",
+      "time": "2026-07-28 21:41:16",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美股AI硬體個股繼續回撥 費城半導體指數下跌5%】美股AI硬體個股繼續回撥，費城半導體指數下跌5.00%，英偉達下跌0.97%，臺積電下跌3.58%，博通下跌2.43%，SK海力士下跌6.75%，美光科技下跌8.82%，美國超微公司下跌7.98%，英特爾下跌5.81%，阿斯麥下跌5.09%，泛林集團下跌7.90%，Arm Holdings下跌7.85%，閃迪下跌10.79%，高通下跌3.09%，邁威爾科技下跌7.94%，西部資料下跌12.10%，希捷科技下跌11.35%。"
+    },
+    {
+      "id": "te:markets:570450",
+      "time": "2026-07-28 21:41:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Continue to Fall — Crude oil fell to around $81 per barrel on Tuesday, touching its lowest level in more than a week, as renewed diplomatic efforts over the Strait of Hormuz improved the outlook for Middle East oil supplies. Iran’s Foreign Minister Abbas Araghchi held separate talks with his Saudi and Omani counterparts, focusing on restoring security in the strategic waterway after disruptions caused by the US-Iran conflict. Oman has proposed a joint regional mechanism to manage the strait, allowing Iran to collect voluntary transit fees, a plan that has reportedly gained support from Gulf states. Also, President Donald Trump said Washington was holding “good talks” with Tehran, although he warned military strikes could resume if diplomacy fails, while Iran also threatened retaliation. Despite the diplomatic progress, regional risks remain elevated after Saudi Arabia intercepted drones targeting oil facilities and Yemen’s Houthi rebels claimed an attack on the kingdom’s East-West pipeline."
+    },
+    {
+      "id": "5012651",
+      "time": "2026-07-28 21:40:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星源材質：上半年主流溼法基膜價格較去年底明顯修復】星源材質(300568)7月28日在接待機構調研時表示，隔膜行業自2025年末觸底之後，公司結合供需變化，向核心客戶啟動分批次調價，2026年上半年主流溼法基膜價格較去年底實現明顯修復。結合下游電芯企業補庫節奏、供需缺口現狀，市場存在新一輪調價的基礎。與此同時，區分國內和海外兩套定價體系來看，海外市場定價顯著高於國內市場。"
+    },
+    {
+      "id": "5012650",
+      "time": "2026-07-28 21:40:24",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【大摩：推理時代 生成式AI資本回報率或達25-50%】摩根士丹利最新測算顯示，AI推理時代生成式AI投資的增量資本回報率（ROIC）可達25%至50%，顯著高於市場預期，回應了市場對AI鉅額資本支出“難回本”的質疑。報告認為，隨著推理需求爆發，亞馬遜、谷歌、微軟及Meta等規模化玩家將持續受益。"
+    },
+    {
+      "id": "5012649",
+      "time": "2026-07-28 21:40:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶彭水新搜尋確認30名遇難者】據“彭水釋出”，彭水山體崩塌救援工作進入深度搜尋以來，專業救援力量24小時連續作業，按照“不漏一處、不留盲區”的搜尋原則，進行反覆排查、層層推進、逐一搜尋。截至目前，已全面完成對A、B區的搜尋，C、D區搜尋工作進入最後攻堅階段。7月23日以來，截至7月28日21時，經對現場搜尋到的遺體及殘骸進行DNA檢測鑑定後，已累計新搜尋確認出30名遇難者。另有部分搜尋結果正在DNA檢測中。"
+    },
+    {
+      "id": "te:markets:570449",
+      "time": "2026-07-28 21:40:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.50% Higher — The Dow Jones Index is picking up 259 points or 0.50 percent on Tuesday. Gains are led by Sherwin-Williams (7.09%), Coca-Cola (6.27%) and Home Depot (3.42%). Biggest losers are Caterpillar (-4.96%), Goldman Sachs (-2.86%) and Cisco Systems (-1.49%)."
+    },
+    {
+      "id": "mkt:019fa8f4-14bb-7aab-8ece-69650976638a",
+      "time": "2026-07-28 21:39:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) shares have fallen 20% from their IPO issue price, wiping more than $1.2 trillion off peak market capitalization."
+    },
+    {
+      "id": "5012648",
+      "time": "2026-07-28 21:39:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【據悉蘋果將以Siri AI為核心，進軍智慧家居領域】蘋果(AAPL.O)正準備透過推出全新裝置和軟體，強勢進軍智慧家用產品領域。據知情人士透露，該公司計劃很快推出以全新Siri人工智慧助手為核心的集線（Hub）裝置。此外，蘋果還正準備釋出一款新的電視盒以及升級版的HomePod mini。這三款裝置已基本準備就緒，公司計劃於今年秋季釋出新款Apple TV和HomePod mini，而集線裝置則將在10月到明年年初之間推出。這一舉措將使蘋果與亞馬遜公司和谷歌在人工智慧技術不斷進步的市場中展開更直接的競爭。蘋果的新款智慧裝置將與亞馬遜的Echo Show以及谷歌的Nest Hub展開較量。"
+    },
+    {
+      "id": "te:markets:570448",
+      "time": "2026-07-28 21:39:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Danaher Stock Price Hits 21-week High — Danaher shares increased to 206.90 USD, the highest since March 2026. Over the past 4 weeks, Danaher gained 7.19%, and in the last 12 months, it increased 1.82%."
+    },
+    {
+      "id": "5012647",
+      "time": "2026-07-28 21:39:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國教育大臣鮑威爾：政府將研究學生貸款還款門檻相關事宜。"
+    },
     {
       "id": "5012646",
       "time": "2026-07-28 21:37:58",
