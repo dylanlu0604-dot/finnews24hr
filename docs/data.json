@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-28 08:22:13",
-  "count": 17835,
+  "updated": "2026-07-28 08:25:59",
+  "count": 17837,
   "items": [
+    {
+      "id": "5011031",
+      "time": "2026-07-28 08:25:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【澳大利亞擬調研新建煉油廠 繫上世紀 60 年代以來首個】澳大利亞聯邦和各州政府以及工業公司Perdaman集團將研究建設一座新煉油廠的可行性，以在伊朗戰爭凸顯國家對進口燃料依賴之後，重建國內產能。據當地媒體報道，總理安東尼·阿爾巴內塞將於週二宣佈一項在西澳大利亞卡拉薩建設新煉油廠的研究計劃，該專案將獲得400萬澳元（約合280萬美元）的政府資金支援。若專案獲批，由私人控股的Perdaman集團負責建設和運營的該煉油廠將成為自1965年以來澳大利亞首個投入運營的石油加工設施。"
+    },
+    {
+      "id": "5011030",
+      "time": "2026-07-28 08:25:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1280.32美元/盎司。"
+    },
+    {
+      "id": "5011029",
+      "time": "2026-07-28 08:24:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鏗騰電子二季度營收15.84億美元，儲備訂單創新高】鏗騰電子二季度營收達15.84億美元，同比增長24.2%，超出市場預期。盈利能力保持高位，非GAAP運營利潤率為45.5%。儲備訂單達到81億美元，預計未來12個月內履約收入達42億美元。經常性收入佔總營收的78%，業務模式抗風險能力強。"
+    },
+    {
+      "id": "mkt:019fa61b-61cc-7aab-8eb8-b267b3152985",
+      "time": "2026-07-28 08:24:00",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bearish",
+        "WDC.O",
+        "SKHY.O"
+      ],
+      "text": "Micron Technology (MU.O), Western Digital (WDC.O) and SK Hynix (SKHY.O) each fell more than 2% in U.S. after-hours trading."
+    },
+    {
+      "id": "5011028",
+      "time": "2026-07-28 08:23:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上漲0.5個基點，報2.775%。"
+    },
+    {
+      "id": "5011027",
+      "time": "2026-07-28 08:22:29",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌7%，至6281.46。"
+    },
+    {
+      "id": "mkt:019fa619-f0d3-7aab-8eb8-ac2f1c337e3e",
+      "time": "2026-07-28 08:22:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI index extended losses to 7% as SK Hynix fell 10% and Samsung Electronics dropped more than 8%."
+    },
+    {
+      "id": "5011026",
+      "time": "2026-07-28 08:22:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【LV回應與茉莉奶白訴訟：不止在中國，在全球均定期處理商標侵權】7月28日凌晨，LVMH集團召開2026年上半年業績會。會上，有分析師提問：“LVMH集團上半年在中國業績沒有好轉，與茉莉奶白的訴訟是否是影響因素？”對此，LVMH集團CFO（首席財務官）Cécile Cabanis表示：“我相信你也認可智慧財產權是我們絕對的核心資產，我們會全力保護好我們的品牌。不只是在中國，我們的團隊持續定期地在全球多國處理商標侵權。本次案件受到媒體廣泛關注，但目前仍處於司法流程當中，因此我不便進一步展開評論。”（每日經濟新聞）"
+    },
     {
       "id": "5011025",
       "time": "2026-07-28 08:21:09",
@@ -163481,65 +163559,6 @@
         "其他"
       ],
       "text": "【香港銀行上日向金管局貼現窗借取約4億港元隔夜流動性】據香港金管局和LSEG報價頁面資料顯示：香港銀行於週一（20日）向金管局貼現窗借取4.17億港元港元隔夜流動性，週二（21日）回籠。銀行體系總結餘回落至540.56億港元。香港銀行同業隔夜拆息週一稍跌至2.47107%。"
-    },
-    {
-      "id": "4998643",
-      "time": "2026-07-21 08:25:17",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【凱投宏觀：紐西蘭基本通脹依然受控，給予紐西蘭央行一些喘息空間】凱投宏觀的Abhijit Surya在評論中表示，紐西蘭依然受控的基本通脹給予紐西蘭央行一些喘息空間。這位亞太區高階經濟學家表示，早些時候公佈的資料顯示，“上個季度價格壓力的上升並不是特別廣泛，核心通脹指標依然表現良好“。Surya說，總體而言，通脹資料“不會讓紐西蘭央行產生像金融市場預期的那樣連續加息的緊迫感“。凱投宏觀的基本假設依然是紐西蘭央行將等到10月份才會加息。此外，凱投宏觀依然認為紐西蘭央行的緊縮週期將相對溫和，官方隔夜拆款利率將在2027年中期達到3.25%的峰值。"
-    },
-    {
-      "id": "te:markets:568336",
-      "time": "2026-07-21 08:25:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Rises After Hot Inflation Data — The New Zealand dollar rose to $0.585, an over six-week high, after higher-than-expected inflation data reinforced expectations of further monetary tightening by the Reserve Bank. Annual inflation accelerated to 4.1% in the second quarter from 3.1% in the previous quarter, exceeding both market forecasts of 4.0% and the RBNZ's latest projection of 3.9%. It also marked the highest level since the fourth quarter of 2023 and was well above the central bank's 1–3% target range. The hot print cemented bets that the RBNZ will deliver another rate hike in September, with markets also pricing in additional increases in either October or December, followed by another move in February next year. The prospect of higher domestic interest rates has continued to underpin the kiwi, helping it outperform many of its peers despite a broader deterioration in global risk sentiment caused by escalating tensions in the Middle East."
-    },
-    {
-      "id": "4998642",
-      "time": "2026-07-21 08:24:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "雪佛龍（CHEVRON）因熱帶風暴“伯莎”關閉Petronius石油平臺並疏散人員，已從Tubular Bells和Blind Faith平臺撤離非必要人員。"
-    },
-    {
-      "id": "4998641",
-      "time": "2026-07-21 08:23:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【7月20日ETF資金淨流入榜單出爐】據同花順iFinD資料顯示，7月20日ETF資金淨流入榜單排名前5依舊為寬基ETF，其中華夏上證科創板50成份ETF（588000）淨流入137.01億元，華泰柏瑞滬深300ETF（510300）淨流入125.22億元，易方達創業板ETF（159915）淨流入93.97億元。"
-    },
-    {
-      "id": "mkt:019f820d-face-7aab-8e16-af124f1e7d5e",
-      "time": "2026-07-21 08:23:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "CVX.O",
-        "Impact bearish"
-      ],
-      "text": "Chevron shut its Petronius facility and evacuated personnel due to Tropical Storm Bertha."
-    },
-    {
-      "id": "4998640",
-      "time": "2026-07-21 08:22:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【全球股市走高，澳洲養老金年度收益率達9.5%】儘管市場仍擔憂中東衝突與高通脹持續擾動，但全球股票大漲，讓規模達4.4萬億澳元（摺合3.1萬億美元）的澳大利亞養老金行業再度收穫亮眼年度業績。研究機構尚特韋斯特（ChantWest）測算資料顯示，截至6月30日財年，平衡型成長養老金基金中位收益率為9.5%。收益主要由海外股票貢獻，幾乎所有大類資產均錄得正回報。尚特韋斯特養老金投資主管馬諾・莫漢庫馬爾（Mano Mohankumar）在宣告中表示：“受市場持續追捧人工智慧板塊、企業盈利表現強勁支撐，對沖匯率後的海外股票漲幅高達25.5%。即便澳元兌多數主要貨幣走強，未做匯率對沖的全球股票依舊實現17%的收益。”"
     }
   ]
 }
