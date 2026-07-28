@@ -1,7 +1,143 @@
 {
   "date": "2026-07-28",
-  "count": 2159,
+  "count": 2174,
   "items": [
+    {
+      "id": "5012225",
+      "time": "2026-07-28 18:22:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聚辰股份：預計2026年上半年淨利潤5.25億元，同比增長156.07%】聚辰股份公告，預計2026年1-6月營業收入6.02億元，同比增長4.71%；歸屬於上市公司股東的淨利潤為5.25億元，同比增長156.07%；歸屬於上市公司股東的扣除非經常性損益的淨利潤為9347.12萬元，同比下降47.30%。2025年1-6月歸屬於上市公司股東的淨利潤為2.05億元。報告期內，公司非經常性損益金額約4.32億元，主要系參與盛合晶微科創板IPO戰略配售產生較大公允價值變動損益所致。"
+    },
+    {
+      "id": "mkt:019fa83e-f706-7aab-8ec8-f12719a8b92b",
+      "time": "2026-07-28 18:22:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "MAS said its latest tightening decision is a carefully calibrated adjustment building on its April policy."
+    },
+    {
+      "id": "5012224",
+      "time": "2026-07-28 18:21:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上交所協議回購出資人展示名單擴容 主動“破圈”提升融資對接效率】7月28日，上交所釋出《上海證券交易所債券質押式協議回購業務出資人資訊展示（2026年7月更新）》，首次對展示資訊進行集中更新。記者觀察到，最新展示的協議回購出資人名單已擴充套件至22家，與首批名單相比，新增納入8家金融機構；同時，部分已展示機構的可接受質押券種範圍及業務聯絡人資訊亦同步更新。（上證報）"
+    },
+    {
+      "id": "mkt:019fa83e-8f86-7aab-8ec8-ef49edd26839",
+      "time": "2026-07-28 18:21:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "COMMERZBANK expects palladium to reach $1,500/oz by year-end, down from a prior forecast of $1,600/oz."
+    },
+    {
+      "id": "mkt:019fa83e-1f07-7aab-8ec8-e3103f7afbdf",
+      "time": "2026-07-28 18:21:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan sets up Major Disaster Countermeasures Headquarters after Kumamoto quake】Japan established a Major Disaster Countermeasures Headquarters after a strong earthquake struck Kumamoto Prefecture on the afternoon of July 28, the government said. The Chief Cabinet Secretary said the Japan Self-Defense Forces have begun rescue operations in the quake-affected area at the request of Kumamoto prefectural authorities."
+    },
+    {
+      "id": "5012223",
+      "time": "2026-07-28 18:21:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "希爾頓釋出二季度財報後，盤前股價下跌2%。"
+    },
+    {
+      "id": "5012222",
+      "time": "2026-07-28 18:20:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東方A：控股股東北京電控擬增持公司5億至10億元】京東方A公告，控股股東、實際控制人北京電子控股有限責任公司計劃自本公告披露之日起6個月內，透過深圳證券交易所繫統以集中競價方式增持公司A股股份，增持金額不低於人民幣5億元且不超過10億元，資金來源為自有及自籌資金。截至公告披露日，北京電控直接持有公司股份2.74億股，佔總股本的0.74%。"
+    },
+    {
+      "id": "5012221",
+      "time": "2026-07-28 18:20:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "高爭民爆：實際控制人西藏自治區國資委擬將公司控股股東西藏建工建材集團有限公司持有的公司34%股份（9419.56萬股）無償劃轉至西藏地質礦產集團有限公司持有。本次無償劃轉完成後，公司控股股東將由藏建集團變更為地礦集團，公司實際控制人未發生變化，仍為西藏自治區國資委。"
+    },
+    {
+      "id": "mkt:019fa83d-2fa4-7aab-8ec8-d9da1ef535a0",
+      "time": "2026-07-28 18:20:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MAS expects Singapore inf to rise further in July, remain elevated for several quarters and only ease in H2 2027."
+    },
+    {
+      "id": "5012220",
+      "time": "2026-07-28 18:19:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "環聯上調 2026 財年全年財務業績指引。"
+    },
+    {
+      "id": "te:economy:570395",
+      "time": "2026-07-28 18:19:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Retail Sales MoM",
+        "Importance 1"
+      ],
+      "text": "Ireland Retail Activity Growth Holds Steady — Retail sales in Ireland rose by 0.4% month-on-month in June 2026, matching the pace recorded in the previous month. The largest volume increases were recorded in electrical goods (+1.8%), clothing, footwear, and textiles (+1.5%), bars (+1.2%), books, newspapers, and stationery (+1.2%). Fuel sales also strengthened, rising 6.0% in value and 0.4% in volume, reflecting elevated fuel prices amid ongoing geopolitical tensions in the Middle East. Meanwhile, gains were partly capped by notable declines in furniture and lighting (-1.8%) and pharmaceuticals, medical, and cosmetic articles (-1.4%). On an annual basis, retail activity grew by 0.6% in June, easing from an upwardly revised 0.9% rise in the preceding period."
+    },
+    {
+      "id": "5012219",
+      "time": "2026-07-28 18:19:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "因今天（7月28日）下午的熊本縣強震，日本政府剛剛宣佈成立重大災害對策本部。據日本內閣官房長官稱，應熊本縣要求，日本自衛隊已開始在震區展開救援行動。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019fa83c-22b5-7aab-8ec8-d289c940f5ca",
+      "time": "2026-07-28 18:19:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "COMMERZBANK projects platinum will hold at $2,000/oz through year-end, down from a prior forecast of $2,100/oz."
+    },
+    {
+      "id": "5012218",
+      "time": "2026-07-28 18:18:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【得物正式上線“租賃”服務】7月28日，得物正式上線“租賃”服務，消費者可在App（應用程式）內搜尋“租賃”進入相關頁面。得物租賃服務首批將上線超100個商品品類，覆蓋數碼產品、遊戲裝置、手機電腦、服飾配件、奢侈品箱包、腕錶等多個領域。得物調研資料顯示，近八成消費者願意持續選擇租賃服務，使用者對於靈活消費和產品體驗的需求正在持續釋放，尤其是在旅行記錄、演唱會拍攝、內容創作等場景下，3C數碼產品的階段性使用需求更加突出。(新京報)"
+    },
+    {
+      "id": "5012217",
+      "time": "2026-07-28 18:18:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國商業銀行：鈀金年末目標價下調至每金衡盎司1500美元，此前預測為1600美元。"
+    },
     {
       "id": "5012216",
       "time": "2026-07-28 18:18:26",
