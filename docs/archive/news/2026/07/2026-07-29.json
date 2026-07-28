@@ -1,7 +1,21 @@
 {
   "date": "2026-07-29",
-  "count": 249,
+  "count": 250,
   "items": [
+    {
+      "id": "mkt:019faa43-aa02-7aab-8ed4-7e25ece52ebf",
+      "time": "2026-07-29 03:46:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index down 0.12% to 101.417 at New York close on 28th】The dollar index, which measures the greenback versus six major currencies, fell 0.12% to 101.417 at the New York FX close on the 28th. EUR/USD 1.1387, up from 1.1368; GBP/USD 1.3289, up from 1.3288; USD/JPY 163.86, up from 163.78; USD/CHF 0.8190, unchanged; USD/CAD 1.4105, down from 1.4125; USD/SEK 9.6954, down from 9.7285."
+    },
     {
       "id": "5012978",
       "time": "2026-07-29 03:44:53",

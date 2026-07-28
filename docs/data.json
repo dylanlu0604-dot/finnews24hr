@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-29 03:45:26",
-  "count": 17562,
+  "updated": "2026-07-29 03:49:22",
+  "count": 17555,
   "items": [
+    {
+      "id": "mkt:019faa43-aa02-7aab-8ed4-7e25ece52ebf",
+      "time": "2026-07-29 03:46:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index down 0.12% to 101.417 at New York close on 28th】The dollar index, which measures the greenback versus six major currencies, fell 0.12% to 101.417 at the New York FX close on the 28th. EUR/USD 1.1387, up from 1.1368; GBP/USD 1.3289, up from 1.3288; USD/JPY 163.86, up from 163.78; USD/CHF 0.8190, unchanged; USD/CAD 1.4105, down from 1.4125; USD/SEK 9.6954, down from 9.7285."
+    },
     {
       "id": "5012978",
       "time": "2026-07-29 03:44:53",
@@ -161001,72 +161015,6 @@
         "國際"
       ],
       "text": "【伊朗總統強調團結對當前局勢至關重要】據伊朗邁赫爾通訊社21日報道，伊朗總統佩澤希齊揚當天強調，伊朗當前務必維護內部團結與凝聚力，不應無端貶低談判成果。（新華社）"
-    },
-    {
-      "id": "5000838",
-      "time": "2026-07-22 03:48:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：此次Hugging Face資料洩露事件由旗下一個模型引發。"
-    },
-    {
-      "id": "mkt:019f8639-25bb-7aab-8e31-37977c4bd323",
-      "time": "2026-07-22 03:48:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Moldovan parliament approves confidence vote for new government】Moldovan parliament approved a vote of confidence on the 21st for a new government led by Vasili Tofan. Cabinet ministers will be sworn in before President Maia Sandu on the morning of the 22nd. Under the constitution, Sandu will formally appoint the government following the vote; ministers assume their duties after taking the oath."
-    },
-    {
-      "id": "5000837",
-      "time": "2026-07-22 03:48:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議員托馬斯·馬西：程式性規則已獲得透過，法案第219條款未允許進行辯論與表決。該條款旨在推動美國軍事技術及供應鏈與以色列實現整合。《國防授權法案》明日將進行記名投票，第219條款包含在內。"
-    },
-    {
-      "id": "5000836",
-      "time": "2026-07-22 03:47:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【摩爾多瓦議會透過對新政府的信任投票】摩爾多瓦議會21日透過對瓦西里·託凡領導的新政府的信任投票。新一屆內閣成員22日上午將在總統桑杜面前宣誓就職。根據憲法，投票透過後，桑杜將正式任命新政府，新政府成員在宣誓就職後即可行使職權。"
-    },
-    {
-      "id": "5000835",
-      "time": "2026-07-22 03:47:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "空客商用飛機執行長預計發動機交付問題將在2028年得到解決。"
-    },
-    {
-      "id": "mkt:019f8636-9df7-7aab-8e31-2881a40cf93f",
-      "time": "2026-07-22 03:45:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Wall Street Journal reports OpenAI has added two independent directors ahead of its IPO: Nubank founder and CEO David Velez and BNY Mellon CEO Robin Vince."
-    },
-    {
-      "id": "5000834",
-      "time": "2026-07-22 03:45:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "空中客車執行長表示，CFM國際公司正在按承諾交付發動機，交付量還可進一步小幅提升。"
-    },
-    {
-      "id": "5000833",
-      "time": "2026-07-22 03:45:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "空中客車商用飛機執行長表示，普惠公司2027年提供的發動機數量少於空客期望的水平。"
     }
   ]
 }
