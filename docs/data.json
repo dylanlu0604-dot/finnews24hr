@@ -1,7 +1,192 @@
 {
-  "updated": "2026-07-28 09:30:07",
-  "count": 17832,
+  "updated": "2026-07-28 09:33:55",
+  "count": 17830,
   "items": [
+    {
+      "id": "mkt:019fa65b-0e45-7aab-8eb9-ef902a4f8765",
+      "time": "2026-07-28 09:33:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A-share influenza sector jumped in early trade. Hainan Haiyao locked at the daily price limit; Aipeng Medical and Longshen Rongfa rose over 9%. Zhenbaodao, Meinow, Ha Sanlian, Xin Ganjiang and others also rose."
+    },
+    {
+      "id": "5011145",
+      "time": "2026-07-28 09:33:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽國資成立中安財產保險股份公司，註冊資本40億元】企查查APP顯示，近日，安徽中安財產保險股份有限公司成立，註冊資本40億元，經營範圍包含：保險業務。企查查股權穿透顯示，該公司由安徽省國有金融資本投資管理有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:019fa659-eccb-7aab-8eb9-e604c243484f",
+      "time": "2026-07-28 09:32:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Chief Cabinet Secretary KIHARA said he will not pre-judge the outcome of tax-cut discussions."
+    },
+    {
+      "id": "5011144",
+      "time": "2026-07-28 09:32:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【腦機介面概念延續強勢 創新醫療4天3板】早盤腦機介面概念延續強勢，創新醫療4天3板，海南海藥、南京熊貓、愛朋醫療、塞力醫療等跟漲。"
+    },
+    {
+      "id": "5011143",
+      "time": "2026-07-28 09:31:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "老浦黃金港股下跌超過16%。"
+    },
+    {
+      "id": "mkt:019fa659-80f3-7aab-8eb9-d9e7d83b212c",
+      "time": "2026-07-28 09:31:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CSI Convertible Bond Index opened 0.36% lower. Lianrui, Zhengfan, Aofei, Guoli and Ruichuang convertible bonds led declines, down 4.23%, 3.71%, 2.83%, 2.77% and 2.71% respectively. Maolai, Sanjiang, Haoyuan, Shengde and Juhe convertible bonds led gains, up 14.36%, 3.09%, 3.01%, 2.08% and 1.71% respectively."
+    },
+    {
+      "id": "5011142",
+      "time": "2026-07-28 09:31:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川強降雨造成4處地質災害 提前轉移避險47669人】從四川省地質災害防治指揮部辦公室獲悉，受昨日強降雨影響，四川甘孜、雅安、巴中市共發生4處地質災害，無人員傷亡。四川省提前轉移避險47669人。"
+    },
+    {
+      "id": "mkt:019fa658-f68e-7aab-8eb9-d236d319b735",
+      "time": "2026-07-28 09:31:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China stock index futures open lower】CSI 300 futures (IF) most-active contract down 1.38%; SSE 50 futures (IH) most-active contract down 0.95%; CSI 500 futures (IC) most-active contract down 1.53%; CSI 1000 futures (IM) most-active contract down 1.22%."
+    },
+    {
+      "id": "mkt:019fa658-dc3f-7aab-8eb9-cef679029c19",
+      "time": "2026-07-28 09:31:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open】China government bond futures opened slightly lower in the morning session: 2‑yr (TS) -0.01%, 5‑yr (TF) -0.02%, 10‑yr (T) -0.03%, 30‑yr (TL) -0.18%."
+    },
+    {
+      "id": "5011141",
+      "time": "2026-07-28 09:30:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤下跌0.36%。聯瑞轉債、正帆轉債、奧飛轉債、國力轉債、睿創轉債跌幅居前，分別跌4.23%、3.71%、2.83%、2.77%、2.71%。茂萊轉債、三江轉債、皓元轉債、盛德轉債、聚合轉債漲幅居前，分別漲14.36%、3.09%、3.01%、2.08%、1.71%。"
+    },
+    {
+      "id": "mkt:019fa658-3742-7aab-8eb9-c14aa9ea1389",
+      "time": "2026-07-28 09:30:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "【Money-market yield snapshot】Tencent's Licaitong (current + 7-day annualized yield) ranged 1.3800%–0.7170%; WeChat's Lingqiantong 7-day annualized yield ranged 1.0250%–0.9300%; Alipay's Yu'ebao 7-day annualized yield ranged 1.0100%–0.9520%."
+    },
+    {
+      "id": "5011140",
+      "time": "2026-07-28 09:30:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌2%，現報7005.00點。"
+    },
+    {
+      "id": "5011139",
+      "time": "2026-07-28 09:30:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4749.420點；恒生指數現漲0.457%。"
+    },
+    {
+      "id": "5011138",
+      "time": "2026-07-28 09:30:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "港股儲存概念股低開調整，南方兩倍做多海力士(07709.HK)、南方兩倍做多三星電子(07747.HK)雙雙跌近15%，兆易創新(03986.HK)跌超8%，瀾起科技(06809.HK)跌近7%。"
+    },
+    {
+      "id": "mkt:019fa657-de55-7aab-8eb9-be3ac6d349d8",
+      "time": "2026-07-28 09:30:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "07709.HK",
+        "Impact bearish",
+        "07747.HK",
+        "03986.HK"
+      ],
+      "text": "Hong Kong memory and storage names opened lower: Southern 2x Long SK hynix (07709.HK) and Southern 2x Long Samsung Electronics (07747.HK) both fell nearly 15%; GigaDevice Semiconductor (03986.HK) dropped over 8% and Montage Technology (06809.HK) fell about 7%."
+    },
+    {
+      "id": "5011135",
+      "time": "2026-07-28 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.14%，成分股中，科力股份跌4.27%，戈碧迦跌4.18%，華嶺股份跌4.01%，則成電子跌2.60%。"
+    },
+    {
+      "id": "5011134",
+      "time": "2026-07-28 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.17%， 10年期主力合約跌0.01%， 5年期主力合約跌0.01%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5011133",
+      "time": "2026-07-28 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.72%，成分股中，佰維儲存跌6.27%，源傑科技跌5.64%，瀾起科技跌5.47%，中科飛測跌4.99%。"
+    },
+    {
+      "id": "5011132",
+      "time": "2026-07-28 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌1.20%， 滬深300指數期貨連續跌0.99%， 中證500指數期貨連續跌1.50%， 上證50指數期貨連續跌0.70%。"
+    },
+    {
+      "id": "5011131",
+      "time": "2026-07-28 09:29:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞開始考慮新建煉油廠。"
+    },
     {
       "id": "5011130",
       "time": "2026-07-28 09:29:37",
@@ -163302,204 +163487,6 @@
         "觀點"
       ],
       "text": "【貴金屬板塊短線走高】貴金屬板塊短線走高，赤峰黃金、山金國際、曉程科技、中金黃金、興業銀錫跟漲。"
-    },
-    {
-      "id": "4998756",
-      "time": "2026-07-21 09:33:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【天然氣板塊盤初走弱，水發燃氣跌停】天然氣板塊盤初走弱，水發燃氣跌停，潛能恆信跌超10%，山東墨龍、新錦動力、凱添燃氣、特瑞斯、德龍匯能等跟跌。"
-    },
-    {
-      "id": "4998755",
-      "time": "2026-07-21 09:33:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明：有批評觀點認為槓桿產品放大了股市波動性。"
-    },
-    {
-      "id": "4998754",
-      "time": "2026-07-21 09:33:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超1%，現報4799.800點；恒生指數現漲0.425%。"
-    },
-    {
-      "id": "mkt:019f824e-507f-7aab-8e18-460703894d05",
-      "time": "2026-07-21 09:33:18",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI rose 3% intraday to 6,712.53."
-    },
-    {
-      "id": "4998753",
-      "time": "2026-07-21 09:33:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國KOSPI指數日內漲3%，現報6712.53點。"
-    },
-    {
-      "id": "4998752",
-      "time": "2026-07-21 09:33:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內跌7%，現報137500.00元。"
-    },
-    {
-      "id": "4998751",
-      "time": "2026-07-21 09:33:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【有色·鋯概念表現活躍 東方鋯業直線漲停】有色·鋯概念表現活躍，東方鋯業直線漲停，國瓷材料漲超10%，愛迪特、三祥新材、凱盛科技跟漲。"
-    },
-    {
-      "id": "mkt:019f824e-2c28-7aab-8e18-3ae4fe59d921",
-      "time": "2026-07-21 09:33:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's Lee said critics contend leveraged products have amplified stock volatility."
-    },
-    {
-      "id": "4998750",
-      "time": "2026-07-21 09:33:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國電商巨頭物流中心大火連燒3天 面臨垮塌風險】韓國電商巨頭酷澎公司一處物流中心18日燃起大火，火情持續3天仍未被完全控制。當地消防部門20日警告，如果火勢蔓延至存有大量鋰電池的區域，整個樓體將面臨垮塌風險。為防止險情發生，政府部門已組織附近居民疏散，並要求學校停課。這一物流中心位於首爾以西的仁川市，18日6時54分起火。根據當天釋出的國家消防動員令，當地已部署813名消防員和231件裝置參與滅火。消防部門官員20日說，火情雖得到一定控制，但將火完全撲滅所需時間“比預想要長”，加上該物流中心規模較大，目前無法預計完全控制火情的具體時間。（新華社）"
-    },
-    {
-      "id": "4998749",
-      "time": "2026-07-21 09:32:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電網裝置板塊短線走低】電網裝置板塊短線走低，信通電子跌停，億能電力、山大電力、燦能電力、新能泰山、雙傑電氣等跟跌。"
-    },
-    {
-      "id": "4998748",
-      "time": "2026-07-21 09:32:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【油氣開採及服務板塊盤初走弱】油氣開採及服務板塊盤初走弱，通源石油跌超10%，潛能恆信、藍焰控股、博邁科、新天然氣等跟跌。"
-    },
-    {
-      "id": "mkt:019f824d-2a2d-7aab-8e18-32f62ddfb3d4",
-      "time": "2026-07-21 09:32:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "China's ChiNext index rose more than 1%, led by storage-chip, semiconductor and gaming sectors."
-    },
-    {
-      "id": "mkt:019f824c-afde-7aab-8e18-2980dc6f10f9",
-      "time": "2026-07-21 09:31:31",
-      "tags": [
-        "MKT News",
-        "SSE Composite",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "China A-share memory chip sector opened higher; Dongxin Co. jumped over 9%. Puran Co., Hengshuo Co., Zhengfan Technology, Beijing Junzheng, Tianshan Electronics and Debang Technology also advanced."
-    },
-    {
-      "id": "4998747",
-      "time": "2026-07-21 09:31:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲1.04%，現報3478.759點；上證指數跌0.08%，現報3793.318點；深證成指漲0.57%，現報13688.419點。"
-    },
-    {
-      "id": "mkt:019f824c-9976-7aab-8e18-253bf0e4aa05",
-      "time": "2026-07-21 09:31:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【China stock-index futures open higher】Most-active China stock-index futures opened higher: CSI 500 futures (IC main) up 2.03%, CSI 1000 futures (IM main) up 1.54%, CSI 300 futures (IF main) up 1.14%, SSE 50 futures (IH main) up 0.94%."
-    },
-    {
-      "id": "mkt:019f824c-97bc-7aab-8e18-1e4ef94f213e",
-      "time": "2026-07-21 09:31:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China government bond futures open】At the morning open, China government bond futures: 2-year (TS) most-active contract up 0.01%, 5-year (TF) up 0.01%, 10-year (T) up 0.01%, 30-year (TL) down 0.01%."
-    },
-    {
-      "id": "4998746",
-      "time": "2026-07-21 09:31:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱完成針對伊朗的最新一輪打擊行動】當地時間7月20日，美軍中央司令部表示，美軍於美東時間當天21時完成對伊朗的最新一輪打擊行動。宣告稱，美軍此次打擊目標包括伊朗軍事指揮中心、海上作戰能力、導彈和無人機發射場以及防空系統，“旨在削弱伊朗繼續襲擊經由霍爾木茲海峽商業船隻的能力”。美軍中央司令部稱，霍爾木茲海峽的商業船舶通行仍在繼續。自5月初以來，美軍已協助約900艘商業船隻和約4.5億桶原油透過這一重要國際航道。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f824c-40c5-7aab-8e18-15e67b8d3257",
-      "time": "2026-07-21 09:31:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SOUTH KOREA'S LEE said he finds USD/KRW near 1,500-1,600 unusual."
-    },
-    {
-      "id": "4998745",
-      "time": "2026-07-21 09:30:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【財通基金金梓才在管產品二季報出爐，投資組合大換血】7月21日，財通基金副總經理金梓才管理的基金披露2026年第二季度報告。以財通成長優選為例，該基金前十大重倉股“六進六出”，南亞新材、三環集團、德福科技、風華高科、博遷新材和華正新材新進入前十大，而此前重倉的中際旭創、生益電子、永鼎股份、滬電股份、生益科技和烽火通訊則退出前十大重倉股名單，金梓才表示自己將有限的組合倉位進一步配置到出現緊缺環節的行業中去，包括被動元件中的MLCC、PCB上游等各個緊缺物料方向。"
-    },
-    {
-      "id": "4998744",
-      "time": "2026-07-21 09:30:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【8只資管同日集體賣出， 中國人壽減持兆易創新套現6.8億】中國人壽7月20日晚間披露，該公司名下的8只資管計劃，7月8日集體賣出兆易創新約110.92萬股，減持價格介於611.46元至624.61元之間，套現金額共計約為6.85億元，所有交易均在當天確認成交。由於未能得知買入時間，這8只資管計劃的收益尚難測算。公告還顯示，該公司上述減持兆易創新的8只資管計劃，7只與匯添富合作設立，1只與華夏基金合作設立，投資方向包括均衡、成長兩大型別。從資管產品名稱來看，對應賬戶包括傳統、萬能險A、萬能B以及分紅等四個型別。（第一財經）"
-    },
-    {
-      "id": "4998743",
-      "time": "2026-07-21 09:30:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "日經225指數日內漲幅擴大至2.00%。"
-    },
-    {
-      "id": "4998742",
-      "time": "2026-07-21 09:30:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明：美元兌韓元匯率在1500至1600韓元區間波動實屬異常。"
     }
   ]
 }

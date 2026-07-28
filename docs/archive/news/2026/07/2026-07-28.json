@@ -1,7 +1,192 @@
 {
   "date": "2026-07-28",
-  "count": 704,
+  "count": 724,
   "items": [
+    {
+      "id": "mkt:019fa65b-0e45-7aab-8eb9-ef902a4f8765",
+      "time": "2026-07-28 09:33:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A-share influenza sector jumped in early trade. Hainan Haiyao locked at the daily price limit; Aipeng Medical and Longshen Rongfa rose over 9%. Zhenbaodao, Meinow, Ha Sanlian, Xin Ganjiang and others also rose."
+    },
+    {
+      "id": "5011145",
+      "time": "2026-07-28 09:33:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽國資成立中安財產保險股份公司，註冊資本40億元】企查查APP顯示，近日，安徽中安財產保險股份有限公司成立，註冊資本40億元，經營範圍包含：保險業務。企查查股權穿透顯示，該公司由安徽省國有金融資本投資管理有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:019fa659-eccb-7aab-8eb9-e604c243484f",
+      "time": "2026-07-28 09:32:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Chief Cabinet Secretary KIHARA said he will not pre-judge the outcome of tax-cut discussions."
+    },
+    {
+      "id": "5011144",
+      "time": "2026-07-28 09:32:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【腦機介面概念延續強勢 創新醫療4天3板】早盤腦機介面概念延續強勢，創新醫療4天3板，海南海藥、南京熊貓、愛朋醫療、塞力醫療等跟漲。"
+    },
+    {
+      "id": "5011143",
+      "time": "2026-07-28 09:31:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "老浦黃金港股下跌超過16%。"
+    },
+    {
+      "id": "mkt:019fa659-80f3-7aab-8eb9-d9e7d83b212c",
+      "time": "2026-07-28 09:31:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CSI Convertible Bond Index opened 0.36% lower. Lianrui, Zhengfan, Aofei, Guoli and Ruichuang convertible bonds led declines, down 4.23%, 3.71%, 2.83%, 2.77% and 2.71% respectively. Maolai, Sanjiang, Haoyuan, Shengde and Juhe convertible bonds led gains, up 14.36%, 3.09%, 3.01%, 2.08% and 1.71% respectively."
+    },
+    {
+      "id": "5011142",
+      "time": "2026-07-28 09:31:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川強降雨造成4處地質災害 提前轉移避險47669人】從四川省地質災害防治指揮部辦公室獲悉，受昨日強降雨影響，四川甘孜、雅安、巴中市共發生4處地質災害，無人員傷亡。四川省提前轉移避險47669人。"
+    },
+    {
+      "id": "mkt:019fa658-f68e-7aab-8eb9-d236d319b735",
+      "time": "2026-07-28 09:31:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China stock index futures open lower】CSI 300 futures (IF) most-active contract down 1.38%; SSE 50 futures (IH) most-active contract down 0.95%; CSI 500 futures (IC) most-active contract down 1.53%; CSI 1000 futures (IM) most-active contract down 1.22%."
+    },
+    {
+      "id": "mkt:019fa658-dc3f-7aab-8eb9-cef679029c19",
+      "time": "2026-07-28 09:31:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open】China government bond futures opened slightly lower in the morning session: 2‑yr (TS) -0.01%, 5‑yr (TF) -0.02%, 10‑yr (T) -0.03%, 30‑yr (TL) -0.18%."
+    },
+    {
+      "id": "5011141",
+      "time": "2026-07-28 09:30:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤下跌0.36%。聯瑞轉債、正帆轉債、奧飛轉債、國力轉債、睿創轉債跌幅居前，分別跌4.23%、3.71%、2.83%、2.77%、2.71%。茂萊轉債、三江轉債、皓元轉債、盛德轉債、聚合轉債漲幅居前，分別漲14.36%、3.09%、3.01%、2.08%、1.71%。"
+    },
+    {
+      "id": "mkt:019fa658-3742-7aab-8eb9-c14aa9ea1389",
+      "time": "2026-07-28 09:30:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "【Money-market yield snapshot】Tencent's Licaitong (current + 7-day annualized yield) ranged 1.3800%–0.7170%; WeChat's Lingqiantong 7-day annualized yield ranged 1.0250%–0.9300%; Alipay's Yu'ebao 7-day annualized yield ranged 1.0100%–0.9520%."
+    },
+    {
+      "id": "5011140",
+      "time": "2026-07-28 09:30:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌2%，現報7005.00點。"
+    },
+    {
+      "id": "5011139",
+      "time": "2026-07-28 09:30:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4749.420點；恒生指數現漲0.457%。"
+    },
+    {
+      "id": "5011138",
+      "time": "2026-07-28 09:30:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "港股儲存概念股低開調整，南方兩倍做多海力士(07709.HK)、南方兩倍做多三星電子(07747.HK)雙雙跌近15%，兆易創新(03986.HK)跌超8%，瀾起科技(06809.HK)跌近7%。"
+    },
+    {
+      "id": "mkt:019fa657-de55-7aab-8eb9-be3ac6d349d8",
+      "time": "2026-07-28 09:30:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "07709.HK",
+        "Impact bearish",
+        "07747.HK",
+        "03986.HK"
+      ],
+      "text": "Hong Kong memory and storage names opened lower: Southern 2x Long SK hynix (07709.HK) and Southern 2x Long Samsung Electronics (07747.HK) both fell nearly 15%; GigaDevice Semiconductor (03986.HK) dropped over 8% and Montage Technology (06809.HK) fell about 7%."
+    },
+    {
+      "id": "5011135",
+      "time": "2026-07-28 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.14%，成分股中，科力股份跌4.27%，戈碧迦跌4.18%，華嶺股份跌4.01%，則成電子跌2.60%。"
+    },
+    {
+      "id": "5011134",
+      "time": "2026-07-28 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.17%， 10年期主力合約跌0.01%， 5年期主力合約跌0.01%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5011133",
+      "time": "2026-07-28 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.72%，成分股中，佰維儲存跌6.27%，源傑科技跌5.64%，瀾起科技跌5.47%，中科飛測跌4.99%。"
+    },
+    {
+      "id": "5011132",
+      "time": "2026-07-28 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌1.20%， 滬深300指數期貨連續跌0.99%， 中證500指數期貨連續跌1.50%， 上證50指數期貨連續跌0.70%。"
+    },
+    {
+      "id": "5011131",
+      "time": "2026-07-28 09:29:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞開始考慮新建煉油廠。"
+    },
     {
       "id": "5011130",
       "time": "2026-07-28 09:29:37",
