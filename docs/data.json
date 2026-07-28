@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-29 02:12:35",
-  "count": 17599,
+  "updated": "2026-07-29 02:16:24",
+  "count": 17597,
   "items": [
+    {
+      "id": "5012953",
+      "time": "2026-07-29 02:15:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特：譴責伊朗及其代理人上週四對阿卜杜利邊境口岸發動的數起無人機襲擊。"
+    },
+    {
+      "id": "te:markets:570490",
+      "time": "2026-07-29 02:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Falls by 4.99% — Top commodity losers are Brent Crude Oil (-4.99%), Crude Oil WTI (-4.53%) and Natural Gas UK (-4.47%). Gains are led by Heating Oil (0.60%)."
+    },
+    {
+      "id": "mkt:019fa9ee-904b-7aab-8ed3-85c0f7eee28e",
+      "time": "2026-07-29 02:13:31",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's deputy foreign minister said Iran is currently effectively like a country not party to the NPT. He said the IAEA has no inspectors in Iran, Tehran will not submit any declarations, and all IAEA access has been cut off."
+    },
+    {
+      "id": "5012952",
+      "time": "2026-07-29 02:13:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：我們完全無意與美國展開談判，眼下我們需要靜觀阿曼方面事態進展。"
+    },
     {
       "id": "mkt:019fa9e6-d759-7aab-8ed3-79a5c28d4997",
       "time": "2026-07-29 02:05:05",
@@ -161313,65 +161352,6 @@
         "國際"
       ],
       "text": "【OpenAI執行長將向美國官員介紹下一代人工智慧模型】OpenAI的高管表示，該公司執行長Sam Altman計劃下週向特朗普政府和美國議員介紹即將到來的下一代人工智慧模型，眼下美國正著手建立針對前沿人工智慧系統的安全審查程式。OpenAI全球公共事務主管Chris Lehane週二表示，Altman此舉正值美國官員制定人工智慧安全審查框架之際，該框架預計將在未來幾周內完成。Lehane稱，Altman的部分會議將重點討論公司的新模型系列，包括這些模型將如何影響工作。“我們認為，這一系列模型將具備一些非常有趣的功能，尤其是在工作和工作規模化方面，”Lehane在華盛頓舉行的簡報會上表示。"
-    },
-    {
-      "id": "mkt:019f85e3-f91f-7aab-8e30-311bf524ade1",
-      "time": "2026-07-22 02:15:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Qatar's foreign ministry strongly condemned Iran for renewed attacks on Jordan, Bahrain and Kuwait, and accused Iran of striking a Kuwaiti tanker while it transited the Strait of Hormuz."
-    },
-    {
-      "id": "te:markets:568612",
-      "time": "2026-07-22 02:15:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Falls by 3.39% — Top commodity losers are Methanol (-3.39%), Coking Coal (-1.10%) and Propane (-0.65%). Gains are led by Crude Oil WTI (2%), Natural Gas UK (1.89%) and Brent Crude Oil (1.86%)."
-    },
-    {
-      "id": "5000773",
-      "time": "2026-07-22 02:15:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "據IRNA： 伊朗軍方發言人表示武裝部隊的防禦戰備並不侷限於邊境地區。"
-    },
-    {
-      "id": "mkt:019f85e2-e9f6-7aab-8e30-2febdd451630",
-      "time": "2026-07-22 02:14:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA: An Iranian military spokesman said Iran has completed repairs to some damaged air-defence systems and integrated new equipment into operational units, significantly boosting its overall air-defence capability."
-    },
-    {
-      "id": "5000772",
-      "time": "2026-07-22 02:14:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "塔斯尼姆通訊社援引伊拉克訊息人士：受伊拉克庫爾德地區近期火箭彈與無人機襲擊影響，埃爾比勒國際機場已關閉。"
-    },
-    {
-      "id": "mkt:019f85e2-9781-7aab-8e30-263c3cab7c60",
-      "time": "2026-07-22 02:14:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Fars News reports explosions in Iraq's Erbil region have continued for about 30 minutes as multiple missile strikes reportedly hit sites described as bases for 'anti-Iran armed groups'."
     }
   ]
 }

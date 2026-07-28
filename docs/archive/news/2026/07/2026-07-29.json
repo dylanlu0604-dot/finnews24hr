@@ -1,7 +1,46 @@
 {
   "date": "2026-07-29",
-  "count": 188,
+  "count": 192,
   "items": [
+    {
+      "id": "5012953",
+      "time": "2026-07-29 02:15:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特：譴責伊朗及其代理人上週四對阿卜杜利邊境口岸發動的數起無人機襲擊。"
+    },
+    {
+      "id": "te:markets:570490",
+      "time": "2026-07-29 02:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Falls by 4.99% — Top commodity losers are Brent Crude Oil (-4.99%), Crude Oil WTI (-4.53%) and Natural Gas UK (-4.47%). Gains are led by Heating Oil (0.60%)."
+    },
+    {
+      "id": "mkt:019fa9ee-904b-7aab-8ed3-85c0f7eee28e",
+      "time": "2026-07-29 02:13:31",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's deputy foreign minister said Iran is currently effectively like a country not party to the NPT. He said the IAEA has no inspectors in Iran, Tehran will not submit any declarations, and all IAEA access has been cut off."
+    },
+    {
+      "id": "5012952",
+      "time": "2026-07-29 02:13:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：我們完全無意與美國展開談判，眼下我們需要靜觀阿曼方面事態進展。"
+    },
     {
       "id": "mkt:019fa9e6-d759-7aab-8ed3-79a5c28d4997",
       "time": "2026-07-29 02:05:05",
