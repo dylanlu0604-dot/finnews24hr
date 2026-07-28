@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-29 02:01:05",
+  "updated": "2026-07-29 02:04:55",
   "count": 17598,
   "items": [
+    {
+      "id": "5012951",
+      "time": "2026-07-29 02:01:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "AMC娛樂股價飆升至盤中最高點9.8%。"
+    },
+    {
+      "id": "5012950",
+      "time": "2026-07-29 02:01:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌已承諾最高提供440億美元擔保，為資料中心租賃專案兜底。該公司將藉助金融工具推廣自研AI晶片，同時控制表內資產規模。"
+    },
+    {
+      "id": "5012949",
+      "time": "2026-07-29 02:00:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局（FAA）提議簡化商業航天發射許可審批法規，降低火箭發射專案的審批門檻。"
+    },
     {
       "id": "5012948",
       "time": "2026-07-29 01:59:45",
@@ -161340,30 +161364,6 @@
         "國際"
       ],
       "text": "據IRNA：伊朗稱已修復遭戰爭損毀的防空設施。"
-    },
-    {
-      "id": "mkt:019f85da-0cc7-7aab-8e30-11ba385bdd4a",
-      "time": "2026-07-22 02:04:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【French parliament passes law banning social media use by under-15s】On July 21 France’s National Assembly and Senate approved a law banning social media use by children under 15. The ban is phased: from Sept. 1 registrations for under-15s will be prohibited; from Jan. 2027 existing accounts identified as belonging to under-15s will be suspended or closed."
-    },
-    {
-      "id": "mkt:019f85d9-226e-7aab-8e30-0b62e9eac380",
-      "time": "2026-07-22 02:03:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Netherlands to impose three-year trade sanctions on Israeli settlements from Sept 22】The Dutch government announced on the 21st that it will from Sept. 22 impose three-year trade sanctions on goods originating in Israeli settlements. Products from settlements in the West Bank, Gaza Strip and Golan Heights will be barred from entry into the Netherlands and prohibited from direct or indirect purchase, marketing and provision of related intermediary services. The government said the measures aim to use economic means to counter Israel’s establishment of illegal settlements in those territories."
-    },
-    {
-      "id": "5000769",
-      "time": "2026-07-22 02:01:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法國議會透過法案 禁止15歲以下未成年人使用社交媒體】當地時間7月21日，法國國民議會和參議院正式透過一項禁止15歲以下未成年人使用社交媒體的法案。這項法案被視為法國總統馬克龍本屆任期的重要改革之一。根據法案，禁令將分兩個階段執行：自9月1日起，15歲以下未成年人將不得註冊新的社交媒體賬號；自2027年1月起，現有屬於15歲以下未成年人的社交媒體賬號也將被暫停或關閉。（央視新聞）"
     }
   ]
 }
