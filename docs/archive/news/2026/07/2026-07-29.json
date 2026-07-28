@@ -1,7 +1,151 @@
 {
   "date": "2026-07-29",
-  "count": 287,
+  "count": 300,
   "items": [
+    {
+      "id": "mkt:019faa73-24d3-7aab-8ed5-17e75f0be969",
+      "time": "2026-07-29 04:38:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Heating Oil Stocks Change (Jul.24) | actual -125000M | previous 495000M"
+    },
+    {
+      "id": "mkt:019faa73-1031-7aab-8ed5-0a8d4d19d3ce",
+      "time": "2026-07-29 04:38:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "API: U.S. Cushing crude stocks -273,000 bbl in week to July 24; prior -737,000 bbl."
+    },
+    {
+      "id": "mkt:019faa72-e9fc-7aab-8ed5-037f7bb9f88c",
+      "time": "2026-07-29 04:38:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Jul.24) | actual -273000M | previous -737000M"
+    },
+    {
+      "id": "mkt:019faa72-db7c-7aab-8ed4-fa69a09e864d",
+      "time": "2026-07-29 04:38:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US API: refinery oil inventories rose 355,000 bbl in the week to July 24, versus forecast +648,000 bbl and prior +1.759 mln bbl."
+    },
+    {
+      "id": "5012999",
+      "time": "2026-07-29 04:37:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國官員：伊朗在霍爾木茲海峽問題上提出過分要求，阿曼、美國及國際社會均合理予以拒絕。"
+    },
+    {
+      "id": "mkt:019faa72-aba9-7aab-8ed4-f025784257c0",
+      "time": "2026-07-29 04:37:49",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (Jul.24) | actual 355000M | consensus 648000M | previous 1759000M"
+    },
+    {
+      "id": "mkt:019faa72-8384-7aab-8ed4-eae6a9a17563",
+      "time": "2026-07-29 04:37:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. API weekly gasoline inventories for the week to July 24 rose 918,000 barrels versus a consensus draw of 1.204 mln barrels; prior -1.379 mln."
+    },
+    {
+      "id": "mkt:019faa72-5db3-7aab-8ed4-e455ce54748b",
+      "time": "2026-07-29 04:37:29",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (Jul.24) | actual 918000M | consensus -1204000M | previous -1379000M"
+    },
+    {
+      "id": "te:markets:570505",
+      "time": "2026-07-29 04:36:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Mondelez International earnings above expectations at 0.73 USD — Mondelez International (MDLZ) released earnings per share at 0.73 USD, compared to market expectations of 0.68 USD."
+    },
+    {
+      "id": "te:markets:570504",
+      "time": "2026-07-29 04:36:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Waste Management earnings above expectations at 2.02 USD — Waste Management (WM) released earnings per share at 2.02 USD, compared to market expectations of 1.99 USD."
+    },
+    {
+      "id": "te:markets:570503",
+      "time": "2026-07-29 04:35:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.03% Higher — The Dow Jones Index gained 537 points or 1.03 percent on Tuesday to close at 52748 points. Gains were led by Sherwin-Williams (8.45%), Coca-Cola (5.19%) and IBM (5.16%)."
+    },
+    {
+      "id": "5012998",
+      "time": "2026-07-29 04:34:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至7月24日當週API原油庫存 -329.6萬桶，預期-135萬桶，前值260.3萬桶。"
+    },
+    {
+      "id": "mkt:019faa6f-bbaf-7aab-8ed4-da40519a15e1",
+      "time": "2026-07-29 04:34:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. API crude stocks rose 3.296 mln bbl in the week to July 24, vs. an expected draw of 1.35 mln bbl and a prior build of 2.603 mln bbl."
+    },
     {
       "id": "mkt:019faa6f-99dd-7aab-8ed4-d4e0ea09c41f",
       "time": "2026-07-29 04:34:28",
