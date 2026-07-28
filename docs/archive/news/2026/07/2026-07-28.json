@@ -1,7 +1,85 @@
 {
   "date": "2026-07-28",
-  "count": 1455,
+  "count": 1464,
   "items": [
+    {
+      "id": "5011676",
+      "time": "2026-07-28 14:56:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時縮量538億元。"
+    },
+    {
+      "id": "5011675",
+      "time": "2026-07-28 14:56:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【胡塞武裝或控制曼德海峽 葉門政府為衝突升級做準備】葉門政府27日說，胡塞武裝可能“效仿伊朗”，控制中東地區另一國際能源運輸要道曼德海峽，而葉門政府已為可能的衝突升級“做好準備”。胡塞武裝方面則表示，曼德海峽並未被關閉，近期宣佈的海上封鎖措施“僅針對沙烏地阿拉伯”。據悉，葉門政府候任外交部長阿夫拉·祖巴在位於沙特首都利雅得的葉門大使館對記者表示，胡塞武裝正效仿伊朗在霍爾木茲海峽採取的策略，試圖控制曼德海峽，這將導致中東兩大航運要道同時受阻。數小時前，胡塞武裝說，出動多架無人機打擊沙特原油運輸網路基礎設施，以回應“沙特無人機侵犯葉門領空”。沙特與胡塞武裝日前再次爆發嚴重衝突，加劇中東地區局勢動盪，紅海航道通行受阻。國際市場服務機構克普勒公司的資料顯示，胡塞武裝襲擊沙特油輪後的6天內，曼德海峽運輸量較襲擊前平均水平下降近50%。（央視新聞）"
+    },
+    {
+      "id": "te:economy:570310",
+      "time": "2026-07-28 14:55:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Consumer Confidence",
+        "Importance 2"
+      ],
+      "text": "France Consumer Confidence Improves in July — The consumer confidence indicator in France rose to 86 in July 2026, a four-month high, up from 84 in June, but remained below its long-term average of 100. Consumers became less pessimistic about both their past financial situation (-26 vs -28 in June) and expected financial situation (-14 vs -16), while sentiment toward France's future standard of living improved sharply (-59 vs -65) and views on past living standards also became less negative (-79 vs -81). Pessimism over major purchase intentions also eased (-36 vs -38), while saving intentions (45 vs 41) and both current (19 vs 16) and expected (17 vs 14) saving capacity increased. Households' fears of unemployment cooled (55 vs 61) but remained above their long-term average. Meanwhile, the savings climate index rebounded to 123, while inflation expectations dropped sharply (-33 vs -15), returning close to their pre-Middle East conflict level."
+    },
+    {
+      "id": "5011674",
+      "time": "2026-07-28 14:55:50",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國股市遭遇黑色星期二】韓國股市遭遇 “黑色星期二”。三星電子與 SK 海力士股價雙雙暴跌超 10%，券商機構分析認為，此次大跌源於市場投資情緒低迷引發的超調，企業基本面並未出現惡化。分析師表示，市場擔憂人工智慧領域投資能否持續，但半導體行業中長期發展根基依舊穩固。市場普遍認為，本輪大跌多重利空疊加：SK 海力士將於 29 日、三星電子將於 30 日釋出財報，疊加市場提前對美聯儲聯邦公開市場委員會（FOMC）會議產生避險預判，資金拋售風險資產的情緒達到頂峰。"
+    },
+    {
+      "id": "mkt:019fa781-bc94-7aab-8ec1-e3bbb0a177a8",
+      "time": "2026-07-28 14:55:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Yen rangebound ahead of Fed, BOJ tests】USD/JPY was trading around 163.85 in the Asian session on Tuesday. The dollar lacked direction as investors awaited the Fed policy decision on Wednesday. CME FedWatch shows a 62% probability the Fed will keep rates at 3.50%-3.75% and signals a higher chance of a September hike. Market participants do not expect the policy statement or the chair's press conference to provide rate guidance; the chair said at the last meeting that \"forward guidance is not applicable at the current policy juncture.\" Traders are focused on how long US inflation will remain above the Fed's 2% target. In Tokyo, investors await the BOJ decision on Friday, with the central bank expected to keep the policy rate at 1% and to strike a hawkish tone on the outlook."
+    },
+    {
+      "id": "5011673",
+      "time": "2026-07-28 14:54:48",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【法國消費者信心升至3月以來最高水平】法國消費者信心7月升幅超預期，收復了伊朗戰爭爆發以來的部分失地。法國國家統計與經濟研究所(Insee)週二公佈的資料顯示，隨著民眾對個人財務狀況和生活水平的樂觀情緒增強，法國家庭信心指數從84升至86。這是3月以來的最高水平，比彭博調查經濟學家所得的預估中值高出1個點。儘管有所改善，但這一結果仍遠低於該指標的長期平均值100。法國經濟年初出現萎縮，預計本週晚些時候出爐的第二季度資料將顯示經濟僅增長0.2%。由由於家庭面臨通脹加速的壓力，加之政府為控制鉅額預算赤字而限制燃油補貼，消費者支出一直較為疲軟。"
+    },
+    {
+      "id": "5011672",
+      "time": "2026-07-28 14:53:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【榮耀：Robot Phone全渠道預約超20萬臺】7月28日，榮耀在其影像技術釋出會後宣佈，榮耀Robot Phone自7月18日開啟預約以來全渠道預約量突破20萬臺，超歷代旗艦產品。"
+    },
+    {
+      "id": "5011671",
+      "time": "2026-07-28 14:53:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【道達爾能源與埃尼批准塞普勒斯Cronos天然氣田開發計劃，預計2028年投產】道達爾能源7月28日宣佈，公司與埃尼集團已就塞普勒斯近海6號區塊Cronos天然氣田開發作出最終投資決定（FID）。該專案由道達爾能源和埃尼分別持有50%權益，其中埃尼擔任運營方。Cronos氣田於2022年發現，並於2024年完成評估，位於塞普勒斯海岸西南約185公里的深海區域。專案計劃透過4口海底井進行開發，天然氣將經海底管道輸送至埃及，並在達米埃塔液化天然氣（LNG）終端進行液化後出口至歐洲。專案預計於2028年啟動生產，峰值產量約為每日5億立方英尺天然氣，相當於每年約280萬噸液化天然氣（LNG）。其中，道達爾能源將負責銷售50%的產量。公司表示，專案將利用埃及現有基礎設施，加快開發進度，並降低生產環節碳排放強度。"
+    },
     {
       "id": "5011670",
       "time": "2026-07-28 14:52:51",
@@ -46,6 +124,15 @@
         "公司"
       ],
       "text": "梅賽德斯-賓士執行長談及國防領域機遇：目前暫無具體訊息可公佈。"
+    },
+    {
+      "id": "5011668",
+      "time": "2026-07-28 14:52:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普說加徵關稅保護了美國汽車業】據美聯社報道，當地時間27日，美國總統特朗普在通用汽車公司執行長瑪麗·博拉及其他高管的陪同下，參觀了該公司位於密歇根州米爾福德的一家工廠，並向工人們發表講話。特朗普說政府對進口汽車加徵25%的關稅，保護了美國汽車產業並推動生產迴流美國。特朗普指出，關稅政策為通用汽車公司帶來令人驚訝的變化。特朗普還表示，美國汽車業在他上任前面臨危機，而其政府取消民主黨推出的部分監管措施後，整個美國汽車行業得以復甦。 （央視財經）"
     },
     {
       "id": "mkt:019fa77d-b82c-7aab-8ec1-cdd89bf4c037",
