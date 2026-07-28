@@ -1,7 +1,55 @@
 {
   "date": "2026-07-28",
-  "count": 3105,
+  "count": 3110,
   "items": [
+    {
+      "id": "5012839",
+      "time": "2026-07-28 23:51:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡與特朗普會晤期間，大批特朗普幕僚在場，包括副總統萬斯、國務卿魯比奧、防長赫格塞思、中情局局長拉特克利夫以及特使威特科夫。"
+    },
+    {
+      "id": "5012838",
+      "time": "2026-07-28 23:51:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中際旭創：預計下半年原材料會有階段性改善 出貨量也會有明顯增加】中際旭創釋出投資者關係活動記錄表公告，針對光晶片、電晶片、PCB和無源器件等原材料，公司均有部署採購計劃。基於強勁的下游行業需求，公司正在積極備料。一方面和現有供應商簽訂長協，鎖定新增產能；另一方面開拓新的供應商，同時透過預付款、股權投資等方式，加強供應商的繫結。供應商也願意積極擴產，預計今年下半年物料就會有階段性的改善，出貨量也會有明顯的增加。"
+    },
+    {
+      "id": "te:markets:570476",
+      "time": "2026-07-28 23:49:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises to 5-Month High — The FTSE 100 advanced 0.9% on Monday, rising above 10,800 to its highest level since the record close on February 27, supported by strong performances from consumer goods and healthcare stocks. Unilever shares surged more than 8% after the company reported better-than-expected results, driven by solid growth in the US and emerging markets, and raised its 2026 outlook. GSK also gained around 4% after delivering an earnings beat, announcing cost-cutting measures and plans to reinvest savings into drug research, while maintaining that operating profit growth should reach the upper end of its guidance. In contrast, Barclays shares dropped nearly 6% despite reporting strong second-quarter investment banking results, upgrading its annual income target, and announcing a £1 billion share buyback. Investors compared the performance unfavourably with stronger results from US banks. Meanwhile, oil majors Shell and BP declined more than 1% each as crude prices continued to weaken."
+    },
+    {
+      "id": "te:markets:570475",
+      "time": "2026-07-28 23:49:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Rises on Strong Corporate Earnings — The CAC 40 rose 0.6% to close at 8,459 on Tuesday as investors welcomed a fresh batch of corporate earnings. LVMH gained 1% after reporting stronger-than-expected first-half revenue and earnings and an acceleration in second-quarter sales growth. The upbeat results lifted the luxury sector, with L'Oréal up 2.4%, Hermès rising 2.3%, and Kering adding 2.9%. Safran advanced 2.3% after raising its full-year guidance on stronger-than-expected first-half results, while Orange surged 5.3% after posting solid first-half earnings and upgrading its outlook. In contrast, Michelin fell 1.5% after reporting revenue and net profit below expectations. On the macro front, French consumer confidence improved to 86 in July, the highest level in four months, up from 84 in June, though it remained below the long-term average of 100. Air Liquide, Essilor, Kering, Orange, and Safran are due to report earnings on Wednesday."
+    },
+    {
+      "id": "5012837",
+      "time": "2026-07-28 23:48:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱打死傑哈德“努赫巴”部隊一名指揮官】以色列國防軍28日發表宣告說，以軍27日打死一名巴勒斯坦伊斯蘭聖戰組織（傑哈德）“努赫巴”部隊指揮官。（新華社）"
+    },
     {
       "id": "5012836",
       "time": "2026-07-28 23:47:58",

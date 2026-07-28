@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-28 23:48:59",
+  "updated": "2026-07-28 23:52:48",
   "count": 17513,
   "items": [
+    {
+      "id": "5012839",
+      "time": "2026-07-28 23:51:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡與特朗普會晤期間，大批特朗普幕僚在場，包括副總統萬斯、國務卿魯比奧、防長赫格塞思、中情局局長拉特克利夫以及特使威特科夫。"
+    },
+    {
+      "id": "5012838",
+      "time": "2026-07-28 23:51:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中際旭創：預計下半年原材料會有階段性改善 出貨量也會有明顯增加】中際旭創釋出投資者關係活動記錄表公告，針對光晶片、電晶片、PCB和無源器件等原材料，公司均有部署採購計劃。基於強勁的下游行業需求，公司正在積極備料。一方面和現有供應商簽訂長協，鎖定新增產能；另一方面開拓新的供應商，同時透過預付款、股權投資等方式，加強供應商的繫結。供應商也願意積極擴產，預計今年下半年物料就會有階段性的改善，出貨量也會有明顯的增加。"
+    },
+    {
+      "id": "te:markets:570476",
+      "time": "2026-07-28 23:49:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises to 5-Month High — The FTSE 100 advanced 0.9% on Monday, rising above 10,800 to its highest level since the record close on February 27, supported by strong performances from consumer goods and healthcare stocks. Unilever shares surged more than 8% after the company reported better-than-expected results, driven by solid growth in the US and emerging markets, and raised its 2026 outlook. GSK also gained around 4% after delivering an earnings beat, announcing cost-cutting measures and plans to reinvest savings into drug research, while maintaining that operating profit growth should reach the upper end of its guidance. In contrast, Barclays shares dropped nearly 6% despite reporting strong second-quarter investment banking results, upgrading its annual income target, and announcing a £1 billion share buyback. Investors compared the performance unfavourably with stronger results from US banks. Meanwhile, oil majors Shell and BP declined more than 1% each as crude prices continued to weaken."
+    },
+    {
+      "id": "te:markets:570475",
+      "time": "2026-07-28 23:49:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Rises on Strong Corporate Earnings — The CAC 40 rose 0.6% to close at 8,459 on Tuesday as investors welcomed a fresh batch of corporate earnings. LVMH gained 1% after reporting stronger-than-expected first-half revenue and earnings and an acceleration in second-quarter sales growth. The upbeat results lifted the luxury sector, with L'Oréal up 2.4%, Hermès rising 2.3%, and Kering adding 2.9%. Safran advanced 2.3% after raising its full-year guidance on stronger-than-expected first-half results, while Orange surged 5.3% after posting solid first-half earnings and upgrading its outlook. In contrast, Michelin fell 1.5% after reporting revenue and net profit below expectations. On the macro front, French consumer confidence improved to 86 in July, the highest level in four months, up from 84 in June, though it remained below the long-term average of 100. Air Liquide, Essilor, Kering, Orange, and Safran are due to report earnings on Wednesday."
+    },
+    {
+      "id": "5012837",
+      "time": "2026-07-28 23:48:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱打死傑哈德“努赫巴”部隊一名指揮官】以色列國防軍28日發表宣告說，以軍27日打死一名巴勒斯坦伊斯蘭聖戰組織（傑哈德）“努赫巴”部隊指揮官。（新華社）"
+    },
     {
       "id": "5012836",
       "time": "2026-07-28 23:47:58",
@@ -160560,56 +160608,6 @@
         "國際"
       ],
       "text": "特朗普宣佈與約旦達成貿易協議。"
-    },
-    {
-      "id": "5000706",
-      "time": "2026-07-21 23:50:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英偉達詳解下一代AI專用Vera CPU 稱速度是其他CPU的兩倍多】英偉達發文稱，DeepInfra的基準測試結果顯示，NVIDIA Vera CPU的速度是其他CPU的兩倍多，並且能夠支援更多併發的AI代理。雲平臺DeepInfra是NVIDIA開放AI生態系統的早期體驗參與者，獨立設計並執行了基於其生產型AI代理基礎設施的基準測試。DeepInfra每週處理近五萬億個代幣，其中約30%由代理系統驅動。其雲平臺專為高通量AI推理而建。基準測試顯示，在相同服務質量下，支援最多1.6倍的併發AI代理，協同速度高達2.2倍，同時提升基礎設施利用率和成本效益。這些結果表明，NVIDIA Vera CPU 能夠實現生產代理人工智慧所需的成本效益、低延遲和吞吐量。隨著AI代理承擔更復雜的推理、規劃、工具使用和資料流動，CPU效能在圍繞每次模型呼叫的協調工作中變得越來越重要。作為英偉達對AI工廠極端聯合設計策略的一部分，Vera CPU專為代理性工作負載設計。DeepInfra的基準測試強調了NVIDIA Vera CPU如何幫助雲服務提供商提升基礎設施利用率、提高成本效率，並在相同服務質量下支援更多併發的AI代理。"
-    },
-    {
-      "id": "5000705",
-      "time": "2026-07-21 23:50:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "ICE 英國 8 月天然氣期貨收於 144.57 便士 / 撒姆。"
-    },
-    {
-      "id": "mkt:019f855e-fafb-7aab-8e2e-d3d1df50e370",
-      "time": "2026-07-21 23:50:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China foreign minister Wang Yi meets Malaysian foreign minister Muhammad】China foreign minister Wang Yi met Malaysia’s foreign minister Muhammad in Manila on July 21. Wang urged early completion of consultations on a South China Sea Code of Conduct, based on the Declaration on the Conduct of Parties in the South China Sea, saying it would help preserve peace and stability in the South China Sea and East Asia and keep regional affairs in regional hands, denying external powers opportunities to stir trouble. He asked Malaysia to act as a coordinating country for China‑ASEAN relations and offered closer China‑Malaysia communication to keep China‑ASEAN ties at the forefront and to model unity among Global South states."
-    },
-    {
-      "id": "mkt:019f855e-b478-7aab-8e2e-c9c04a4795cd",
-      "time": "2026-07-21 23:50:03",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Trump says Iran \"found a gap\" in Jordan】At a White House meeting with Lebanese President Aoun, Trump said the U.S. military is “weakening” Iran’s military capability “to an unprecedented degree” and acknowledged Iran “found a gap” in Jordan, saying if “other operators” had been present the incident would not have occurred; he did not specify who he meant. The U.S. military said last week two U.S. service members were killed and four were wounded and evacuated for treatment after Iranian missile and drone strikes on Jordan."
-    },
-    {
-      "id": "te:markets:568599",
-      "time": "2026-07-21 23:49:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX 40 Rises Led by Infineon — Frankfurt’s DAX 40 rose 0.7% to above 25,000 on Tuesday, supported by a rebound in global technology stocks as investors positioned for major earnings releases. The US tech sector led the recovery, with the Nasdaq 100 gaining 1.5% as companies linked to artificial intelligence continued to attract demand. Semiconductor maker Infineon jumped 5.6%, benefiting from renewed interest in chip stocks following stronger export data from South Korea and Taiwan. Siemens Energy also advanced nearly 4% as investors focused on its role in supplying power infrastructure for expanding data centres. Industrials were among the strongest performers, with Siemens gaining almost 2% and Airbus rising 1.3%. Banks also moved higher, while healthcare stocks received a boost after Swiss pharmaceutical group Novartis reported better-than-expected second quarter sales and earnings."
     }
   ]
 }
