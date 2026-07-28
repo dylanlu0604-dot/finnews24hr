@@ -1,7 +1,106 @@
 {
   "date": "2026-07-28",
-  "count": 2046,
+  "count": 2057,
   "items": [
+    {
+      "id": "mkt:019fa81d-7694-7aab-8ec7-fdfa37c62ab9",
+      "time": "2026-07-28 17:45:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CCPIT vice president Lin Honghong meets China–Korea Entrepreneurs Association chairman Jin Xingkun】On July 28 in Beijing, CCPIT vice president Lin Honghong met Jin Xingkun, chairman of the China–Korea Entrepreneurs Association, to discuss strengthening China–South Korea SME links, promoting production and supply‑chain integration, and improving services for bilateral corporate development."
+    },
+    {
+      "id": "5012146",
+      "time": "2026-07-28 17:45:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮稱，烏克蘭炸燬了德國的北溪天然氣管道，透過襲擊裡海管道聯盟（CPC）管道基礎設施損害了哈薩克利益，且此次又襲擊了一艘伊朗船隻。"
+    },
+    {
+      "id": "5012145",
+      "time": "2026-07-28 17:45:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示，俄羅斯的“特別軍事行動”必須取得成功，來自烏克蘭的威脅必須被徹底消除。"
+    },
+    {
+      "id": "mkt:019fa81c-62e4-7aab-8ec7-f4ad59619a6c",
+      "time": "2026-07-28 17:44:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Israel's Channel 12 reported KATZ said U.S. fighter jets are taking off from Israel to strike Iran; Iran has been informed."
+    },
+    {
+      "id": "5012144",
+      "time": "2026-07-28 17:44:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【AI重塑全球客服行業：企業加速自動化程序引發崗位結構性調整】人工智慧（AI）正深刻重塑全球客戶服務行業生態。隨著微軟、優步（Uber）及澳大利亞聯邦銀行等企業加速引入AI自動化系統處理日常諮詢與呼叫中心業務，全球客服領域正經歷一輪顯著的崗位結構性調整。為提升運營效率並降低成本，多家跨國企業已將AI技術深度整合至客戶服務環節。據報道，微軟已將其客戶支援團隊規模從5萬人縮減至4萬人，標誌著其向AI驅動型服務模式轉型的決心。優步等企業也透過部署自動化助手與聊天機器人，接管了大量常規諮詢業務，從而最佳化響應時間並削減人力成本。儘管自動化浪潮導致部分重複性支援崗位的需求下降，但AI對就業市場的影響並非單純的“崗位消失”。隨著AI接管標準化、流程化的基礎工作，企業正逐步將人力釋放至更具價值的領域。"
+    },
+    {
+      "id": "5012143",
+      "time": "2026-07-28 17:43:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本熊本縣嘉島町一購物中心傳出爆炸聲】據日本熊本縣嘉島町消防部門28日訊息，當地時間當天18時許接到報警，稱當地一處購物中心傳出爆炸聲。目前消防部門正在對詳細情況進行調查。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fa81b-032c-7aab-8ec7-ecf08cf7b554",
+      "time": "2026-07-28 17:42:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Huadong Construction Group Co. said new contracts signed in Jan–Jun 2026 totaled CNY2.804 billion, down 21.65% YoY."
+    },
+    {
+      "id": "5012142",
+      "time": "2026-07-28 17:42:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【艾艾精工：股價短期波動大 提示多項風險】艾艾精工公告稱，公司股價近期波動大，7月14日至28日累計漲幅71.77%，存在交易風險。主營業務未變，控制權變更尚需多項程式，存在不確定性。收購方未來36個月無注入資產計劃。2025年收購形成商譽8708.90萬元，新客戶未籤協議、收入低，存在商譽減值風險。精密金屬業務2026年一季度收入環比降44.83%，新能源電池配件收入降72.12%，有業績下滑風險。"
+    },
+    {
+      "id": "mkt:019fa81a-88b8-7aab-8ec7-e243b355bfec",
+      "time": "2026-07-28 17:42:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "BLK.O"
+      ],
+      "text": "【Meta, BlackRock to jointly fund $14bn data-center campus in El Paso】Meta Platforms and BlackRock will jointly invest in and own a data-center campus under construction in El Paso, Texas, with 1 GW of compute capacity and estimated development costs of about $14 billion. BlackRock-managed funds will hold an 80% stake and Meta 20%; both parties will fund their proportional shares of campus construction and long-term power, cooling and communications infrastructure. Meta will provide construction, administrative and facilities management and will be the campus' initial sole user. The deal is expected to close within days and the campus is slated to begin operations in 2028; Meta says the El Paso project is part of more than $10 billion of its investments. Peak construction employment will exceed 4,000 with roughly 300 operations jobs; more than 2,300 workers are on site now."
+    },
+    {
+      "id": "5012141",
+      "time": "2026-07-28 17:42:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本製紙：八代工廠因地震受損，目前正在核查詳細受損情況。"
+    },
+    {
+      "id": "5012140",
+      "time": "2026-07-28 17:41:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長稱：伊朗方面企圖針對內塔尼亞胡實施襲擊。"
+    },
     {
       "id": "5012139",
       "time": "2026-07-28 17:41:28",
