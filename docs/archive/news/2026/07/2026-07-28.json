@@ -1,7 +1,76 @@
 {
   "date": "2026-07-28",
-  "count": 659,
+  "count": 667,
   "items": [
+    {
+      "id": "mkt:019fa64c-bbec-7aab-8eb9-61eee60c4a03",
+      "time": "2026-07-28 09:17:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shuobeide says it has built multiple liquid-cooling production lines. Its optical-module liquid-cooling units have completed customer audit/validation with some clients, and its busbar liquid-cooling product has passed a supplier audit with a North American customer."
+    },
+    {
+      "id": "5011106",
+      "time": "2026-07-28 09:17:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）28日盤中一度大跌超8%，觸發市場熔斷機制。這是韓國股市今年以來第八次觸發熔斷機制。（新華社）"
+    },
+    {
+      "id": "5011105",
+      "time": "2026-07-28 09:17:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【碩貝德：Busbar液冷產品已透過某北美客戶的供應商稽核】碩貝德(300322)在互動平臺表示，公司已建成多條液冷產線，光模組液冷已完成部分客戶稽核驗證，Busbar液冷產品已透過某北美客戶的供應商稽核。"
+    },
+    {
+      "id": "5011104",
+      "time": "2026-07-28 09:17:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【瑞穗證券將長鑫儲存目標價定為70元】瑞穗證券首次覆蓋儲存晶片廠商長鑫儲存，給出目標價較該股週一收盤價溢價43%。該機構預判晶片漲價行情將延續至2028年。瑞穗證券釋出研報稱，將長鑫儲存目標價定為70元；該股週一收盤價49元，發行價8.66元。"
+    },
+    {
+      "id": "5011103",
+      "time": "2026-07-28 09:15:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱沒有美國以色列活不下去】以色列總理內塔尼亞胡已於當地時間7月27日抵達美國，當地時間7月28日，美國總統特朗普將在白宮與他舉行會晤。會晤前夕，特朗普在乘坐“空軍一號”專機前往密歇根州途中對媒體稱，如果沒有美國，如果不是他決定介入並“炸掉（伊朗）即將成型的核武器”，“以色列早就不復存在了”。特朗普還稱，他與內塔尼亞胡在伊朗問題上立場“有一些分歧，但總體來說非常接近”。對於伊朗問題，特朗普稱，目前美國與伊朗的談判“進行良好”，他有足夠耐心和時間與伊朗達成協議，但如果達不成新的停火協議，美國將恢復對伊朗的軍事打擊——並且“美軍目前彈藥庫存充足，有大量不同型別的彈藥”。"
+    },
+    {
+      "id": "mkt:019fa64a-ab28-7aab-8eb9-5b7e841ce4f0",
+      "time": "2026-07-28 09:15:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures opened the day session up 0.12% at 25,243 points, trading at a 20-point premium to the cash market."
+    },
+    {
+      "id": "5011102",
+      "time": "2026-07-28 09:15:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7928元。"
+    },
+    {
+      "id": "5011101",
+      "time": "2026-07-28 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.25%，報25269.16點，高水61.98點。"
+    },
     {
       "id": "mkt:019fa649-972e-7aab-8eb9-57b31d6794ef",
       "time": "2026-07-28 09:14:28",
