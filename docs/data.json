@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-29 06:24:59",
-  "count": 17506,
+  "updated": "2026-07-29 06:28:53",
+  "count": 17509,
   "items": [
+    {
+      "id": "5013041",
+      "time": "2026-07-29 06:28:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美軍方：美國東部時間今日 17 點 45 分，伊朗伊斯蘭革命衛隊從伊朗本土發射多枚彈道導彈。"
+    },
+    {
+      "id": "5013040",
+      "time": "2026-07-29 06:27:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "力拓上半年基礎利潤68.5億美元，分析師預期67.8億美元。"
+    },
+    {
+      "id": "mkt:019faad5-dfea-7aab-8ed5-f400743373f3",
+      "time": "2026-07-29 06:26:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude up 4.00% at $81.45/bbl."
+    },
+    {
+      "id": "5013038",
+      "time": "2026-07-29 06:25:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲4%，現報82.44美元/桶。"
+    },
+    {
+      "id": "mkt:019faad4-fe94-7aab-8ed5-eac79052237d",
+      "time": "2026-07-29 06:25:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equity futures ticked down briefly; Dow futures -0.13%, S&P 500 futures -0.08%, Nasdaq futures -0.02%."
+    },
     {
       "id": "5013037",
       "time": "2026-07-29 06:24:02",
@@ -160602,30 +160654,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Methanol Drops by 4.18% — Top commodity losers are Methanol (-4.18%) and Coking Coal (-1.10%). Gains are led by Naphtha (3.75%), Crude Oil WTI (2.64%) and Brent Crude Oil (2.61%)."
-    },
-    {
-      "id": "5000942",
-      "time": "2026-07-22 06:27:19",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【白宮擬重調配數十億美元科研資金投向人工智慧，削減高校資助】特朗普政府計劃加速推進聯邦科研體系改革，加大對獨立科研人員與人工智慧研究的扶持力度，減少面向高校的資助。這是美方為加快技術突破、應對中國競爭採取的最新舉措。相關草案顯示，白宮科學和技術政策辦公室將於週二釋出一份新報告及備忘錄，資助獨立科研人員，能夠助力美國更快將人工智慧應用於科研工作。在特朗普第二任期剩餘時間內，該辦公室出臺的相關指令，將指導全美規模約2000億美元年度聯邦研發預算的分配方向。這份新指引或將進一步衝擊依賴聯邦科研經費的大型高校。"
-    },
-    {
-      "id": "mkt:019f86ca-4c47-7aab-8e33-14bf8873dd0e",
-      "time": "2026-07-22 06:27:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "SKHY.O",
-        "Impact bullish",
-        "INTC.O"
-      ],
-      "text": "【SK Hynix in talks to buy Intel Ohio campus to produce memory chips in US】South Korea’s JoongAng Ilbo reports SK Hynix (SKHY.O) is negotiating to acquire Intel’s (INTC.O) large semiconductor campus in Ohio, aiming to start front-end production of memory chips at the site within five years. SK Hynix is conducting internal reviews and seeking required government approvals; price and timing are still being worked out. If completed, the deal would help SK Hynix meet U.S. domestic-production requirements and provide cash relief to Intel’s strained foundry business."
     }
   ]
 }

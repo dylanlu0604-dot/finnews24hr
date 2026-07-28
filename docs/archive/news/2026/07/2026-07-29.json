@@ -1,7 +1,59 @@
 {
   "date": "2026-07-29",
-  "count": 370,
+  "count": 375,
   "items": [
+    {
+      "id": "5013041",
+      "time": "2026-07-29 06:28:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美軍方：美國東部時間今日 17 點 45 分，伊朗伊斯蘭革命衛隊從伊朗本土發射多枚彈道導彈。"
+    },
+    {
+      "id": "5013040",
+      "time": "2026-07-29 06:27:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "力拓上半年基礎利潤68.5億美元，分析師預期67.8億美元。"
+    },
+    {
+      "id": "mkt:019faad5-dfea-7aab-8ed5-f400743373f3",
+      "time": "2026-07-29 06:26:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude up 4.00% at $81.45/bbl."
+    },
+    {
+      "id": "5013038",
+      "time": "2026-07-29 06:25:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲4%，現報82.44美元/桶。"
+    },
+    {
+      "id": "mkt:019faad4-fe94-7aab-8ed5-eac79052237d",
+      "time": "2026-07-29 06:25:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equity futures ticked down briefly; Dow futures -0.13%, S&P 500 futures -0.08%, Nasdaq futures -0.02%."
+    },
     {
       "id": "5013037",
       "time": "2026-07-29 06:24:02",
