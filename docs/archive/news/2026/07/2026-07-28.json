@@ -1,7 +1,37 @@
 {
   "date": "2026-07-28",
-  "count": 2955,
+  "count": 2958,
   "items": [
+    {
+      "id": "5012730",
+      "time": "2026-07-28 22:30:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷藍航空與普惠達成初步協議，削減運營成本。"
+    },
+    {
+      "id": "5012729",
+      "time": "2026-07-28 22:28:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：7 月 28 日週二，伊朗外長阿拉格齊與日本外相茂木敏充舉行電話會談，雙方就雙邊關係展開磋商，並針對近期地區及國際局勢交換意見。"
+    },
+    {
+      "id": "mkt:019fa920-6ce6-7aab-8ecf-d68f0fd91b9f",
+      "time": "2026-07-28 22:28:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Recycled copper market tightens as premium scrap snapped up on arrival】Traders in Taizhou, Zhejiang report sustained copper price gains and acute demand for high‑purity scrap; premium scrap consignments are being bought the moment they arrive. Dealers are dismantling motors, cables and radiator units and sorting metal streams to meet downstream appetite. Demand expansion from EVs, AI and other industrial users, combined with constrained growth in primary copper smelting capacity, is broadening demand for recycled copper and creating opportunities in China’s scrap recovery market. Chinese recycled-copper products are also attracting overseas buyers on the back of lower carbon intensity, lower energy use, stable quality and traceable carbon footprints."
+    },
     {
       "id": "mkt:019fa91e-8979-7aab-8ecf-ca6bed2bcf3f",
       "time": "2026-07-28 22:26:18",
