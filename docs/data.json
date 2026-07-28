@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-28 19:48:28",
-  "count": 17462,
+  "updated": "2026-07-28 19:52:22",
+  "count": 17464,
   "items": [
+    {
+      "id": "mkt:019fa891-0d1e-7aab-8ecb-078a180a2025",
+      "time": "2026-07-28 19:51:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kumamoto records over 60 aftershocks】Japan Meteorological Agency said that as of local time July 28 20:00 (Beijing 19:00), more than 60 felt aftershocks have been recorded in Kumamoto prefecture since this afternoon’s magnitude-7.1 earthquake."
+    },
+    {
+      "id": "5012413",
+      "time": "2026-07-28 19:51:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "可口可樂首席財務官表示：“可以說，過去一季度我們在印度市場確實出現了份額下滑。”"
+    },
+    {
+      "id": "5012412",
+      "time": "2026-07-28 19:50:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "康寧股價進一步擴大跌幅，盤前最新下跌16.5%。"
+    },
+    {
+      "id": "mkt:019fa88e-d9b1-7aab-8eca-f9e62db12e4a",
+      "time": "2026-07-28 19:49:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FHFA Director Pulte said staff levels have fallen by about 30% compared with a few weeks ago."
+    },
+    {
+      "id": "5012411",
+      "time": "2026-07-28 19:48:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "可口可樂首席財務官表示，今年鋁與PET（聚對苯二甲酸乙二醇酯）的成本高於該公司此前預期。"
+    },
+    {
+      "id": "5012410",
+      "time": "2026-07-28 19:48:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "美國聯邦住房金融局局長普爾特：與幾周前相比，員工人數減少了約30%。"
+    },
+    {
+      "id": "5012409",
+      "time": "2026-07-28 19:48:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "葛蘭素史克執行長表示，約45%的節省將來自更最佳化的採購。"
+    },
+    {
+      "id": "5012408",
+      "time": "2026-07-28 19:48:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順豐控股：2026年7月28日回購43.38萬股H股】順豐控股公告稱，2026年7月28日，公司回購43.38萬股H股，每股最高購回價33.88港元，最低33.06港元，付出總額1449.70萬港元。此次回購後，公司H股庫存股份增至716.36萬股。A股方面，公司自2025年9月3日起多次回購股份，截至2026年7月28日，已發行股份總數為47.99億股，庫存股份為0股。"
+    },
+    {
+      "id": "5012407",
+      "time": "2026-07-28 19:47:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【清源股份：擬對2000萬元參投私募基金實施清算】清源股份公告稱，2026年5月，公司與10位合夥人共同設立共青城金木智創創業投資合夥企業（有限合夥），公司認繳2000萬元，出資比例18.63%，該基金已完成備案。因宏觀經濟及投資環境變化，該基金未找到合適標的，經全體合夥人決定，擬對其進行清算並辦理登出登記，由普通合夥人擔任清算人啟動清算程式。本次清算不構成關聯交易和重大資產重組，對公司無實質性影響。"
+    },
     {
       "id": "5012406",
       "time": "2026-07-28 19:47:40",
@@ -160055,67 +160127,6 @@
         "公司"
       ],
       "text": "【新國都：為子公司1.6億元授信額度提供連帶責任擔保】新國都公告稱，近日，其控股子公司新國都技術因業務需要，分別向江蘇銀行、中國銀行、農業銀行申請1億元、5000萬元、6000萬元授信額度，有效期分別至2027年6月11日、2027年5月26日、2027年7月7日。新國都為上述債務承擔連帶責任保證，提供最高額不超過1.6億元的融資授信擔保。截至公告日，公司為新國都技術擔保餘額達7.1億元，可用額度8.9億元。"
-    },
-    {
-      "id": "te:markets:568561",
-      "time": "2026-07-21 19:52:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Gain Traction — Futures tracking US equity indices were higher on Tuesday with support from the tech sector ahead of key earnings releases. Contracts for the S&P 500 and the Dow were around 0.5% higher, gaining ground after multiple muted sessions, while the Nasdaq 100 rose almost 1%. Alphabet shares were higher premarket ahead of their earnings tomorrow after the bell, serving as the latest signal for AI infrastructure demand by hyperscalers. Chip stocks advanced after strong export data from Taiwan and South Korea maintained the momentum for semiconductor producers. Tesla was also 1% higher ahead of its earnings tomorrow. Meanwhile, other sectors halted recent selling pressure despite further escalation between Iran and the US and its impact on higher energy prices. Treasury yields remained high and drove financial stocks to trim part of their earnings-fueled rally last week. Meanwhile, GM rose 2% after posting their results, while Charles Schwab sank 3% after missing earnings estimates."
-    },
-    {
-      "id": "5000347",
-      "time": "2026-07-21 19:51:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破84美元/桶，日內漲1.84%。"
-    },
-    {
-      "id": "5000346",
-      "time": "2026-07-21 19:51:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "據稱西班牙卡哈馬爾銀行有意收購葡萄牙 CTT 銀行。"
-    },
-    {
-      "id": "5000345",
-      "time": "2026-07-21 19:50:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雲南普洱墨江縣附近發生5.0級左右地震】中國地震臺網自動測定：7月21日19時42分在雲南普洱市墨江縣附近（北緯23.29度，東經101.67度）發生5.0級左右地震，最終結果以正式速報為準。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f8483-5f8e-7aab-8e27-ad348299ff34",
-      "time": "2026-07-21 19:50:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indian Foreign Minister Jaishankar will visit Manila from July 22 to 23."
-    },
-    {
-      "id": "5000344",
-      "time": "2026-07-21 19:50:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本手足口病和蜱蟲病持續擴散】日本國立健康危機管理研究機構21日釋出的資料顯示，本月6日至12日，日本全國定點醫療機構共報告手足口病例2萬餘例，今年累計病例突破7萬例；截至12日，日本今年累計報告發熱伴血小板減少綜合徵（俗稱“蜱蟲病”）病例104例，這是該國連續第6年該疾病累計病例超百例。（新華社）"
-    },
-    {
-      "id": "5000343",
-      "time": "2026-07-21 19:49:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全長約315公里 黃百鐵路站改工程全面啟動】7月21日凌晨，南昆鐵路永樂鎮站站場機器轟鳴，隨著該站6號道岔開始拆除並接入一組新的軌排，標誌著西部陸海新通道標誌性工程——新建貴州黃桶至廣西百色鐵路（以下簡稱黃百鐵路）站改工程全面啟動。黃百鐵路全長約315公里，設計時速160公里，是西部陸海新通道標誌性工程，截至目前，黃百鐵路廣西段隧道工程已完成整體進度的70%，橋樑下部工程完成整體進度的93%，路基土石方完成整體進度63%。專案預計將在2028年建成通車，屆時將成為貴州北部地區至廣西北部灣地區的便捷通道，對於加快推進西部陸海新通道建設，促進區域經濟社會協調發展具有重要意義。（央視新聞）"
     }
   ]
 }
