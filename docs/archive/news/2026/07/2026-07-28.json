@@ -1,7 +1,187 @@
 {
   "date": "2026-07-28",
-  "count": 2010,
+  "count": 2029,
   "items": [
+    {
+      "id": "mkt:019fa816-2b08-7aab-8ec7-b26915c1a3e4",
+      "time": "2026-07-28 17:37:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BlackRock said Meta will provide residual-value guarantees totaling $13 billion."
+    },
+    {
+      "id": "5012127",
+      "time": "2026-07-28 17:37:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰諾麥博：調整募投專案金額並擬置換預先投入自籌資金】泰諾麥博公告稱，公司首次公開發行募資淨額8.88億元。因實際募資淨額低於招股書募投專案擬投入金額，公司擬調整募投專案擬投入金額，不足部分以自有或自籌資金解決。截至2026年7月16日，公司已以自籌資金預先投入募投專案1.66億元、支付發行費用1283.44萬元，擬用募集資金置換。2026年7月28日，董事會審議透過相關議案，保薦機構核查後無異議。"
+    },
+    {
+      "id": "mkt:019fa815-e90a-7aab-8ec7-a8ec85225bb6",
+      "time": "2026-07-28 17:37:15",
+      "tags": [
+        "MKT News",
+        "BLK.O",
+        "Impact bullish"
+      ],
+      "text": "BlackRock will raise $12.5 billion via debt financing to fund part of its investments."
+    },
+    {
+      "id": "5012126",
+      "time": "2026-07-28 17:37:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "貝萊德：Meta將提供管理服務併成為埃爾帕索園區的首個獨佔使用者。Meta公司將貢獻23億美元的資產；貝萊德將在交易結束時貢獻49億美元現金。交易預計將在未來幾天內完成；相關產能預計於2028年上線。Meta公司將獲得約10億美元的一次性分配。"
+    },
+    {
+      "id": "mkt:019fa815-79bb-7aab-8ec7-a66a7fd0c9db",
+      "time": "2026-07-28 17:36:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "BlackRock: Meta will receive approximately $1 billion in a one-time allocation."
+    },
+    {
+      "id": "mkt:019fa815-3523-7aab-8ec7-9a7fd6a5bc59",
+      "time": "2026-07-28 17:36:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "BlackRock said Meta will lease the entire campus on an initial four-year term and has four renewal options."
+    },
+    {
+      "id": "5012125",
+      "time": "2026-07-28 17:36:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝萊德將進行49億美元現金出資。"
+    },
+    {
+      "id": "mkt:019fa814-e4fb-7aab-8ec7-94d37f6e8704",
+      "time": "2026-07-28 17:36:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BlackRock said the transaction is expected to close within the next few days; the associated production capacity is expected to come online in 2028."
+    },
+    {
+      "id": "5012124",
+      "time": "2026-07-28 17:36:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST三房：完成法定代表人變更工商登記並換髮營業執照】*ST三房公告稱，公司於2026年7月23日召開會議，審議透過選舉董事長的議案。近日，公司完成變更法定代表人的工商變更登記，並取得無錫市資料局換髮的《營業執照》。變更後，法定代表人為鄒傑，註冊資本389633.9676萬元。"
+    },
+    {
+      "id": "5012123",
+      "time": "2026-07-28 17:35:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta Platforms將貢獻估值約23億美元的風險土地及在建工程資產。"
+    },
+    {
+      "id": "5012122",
+      "time": "2026-07-28 17:35:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta與貝萊德宣佈將合資在得克薩斯州埃爾帕索開發並持有資料中心園區。"
+    },
+    {
+      "id": "mkt:019fa814-78e1-7aab-8ec7-8adea5278e33",
+      "time": "2026-07-28 17:35:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "BLK.O"
+      ],
+      "text": "BlackRock: Meta will contribute $2.3 bln in assets; BlackRock will provide $4.9 bln in cash at closing."
+    },
+    {
+      "id": "5012121",
+      "time": "2026-07-28 17:35:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟近年已削減 1 萬名服務崗員工。"
+    },
+    {
+      "id": "5012120",
+      "time": "2026-07-28 17:35:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4090美元/盎司，日內跌1.13%。"
+    },
+    {
+      "id": "5012119",
+      "time": "2026-07-28 17:35:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1256.94美元/盎司。"
+    },
+    {
+      "id": "mkt:019fa814-45d8-7aab-8ec7-859037662c77",
+      "time": "2026-07-28 17:35:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "BlackRock said Meta will provide management services and will be the first exclusive tenant at the El Paso campus."
+    },
+    {
+      "id": "5012118",
+      "time": "2026-07-28 17:35:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【機構：投資者持倉仍過於擁擠 晶片股還沒跌到“抄底”時刻】GAM全球股票主管Paul Markham表示，由於投資者持倉仍然過於集中，當前全球晶片股的大幅拋售尚不足以構成逢低買入的機會。Markham表示，“現在實在有太多人站在同一邊，持倉過於擁擠。”不過，作為GAM全球股票業務負責人，Markham仍認為人工智慧投資的長期邏輯並未發生改變。他表示，部分AI相關企業的基本面依然穩健，隨著利潤率持續改善、產品定價能力增強，投資者仍應願意給予SK海力士等公司更高的估值。"
+    },
+    {
+      "id": "mkt:019fa813-393c-7aab-8ec7-7ed04acd8fe5",
+      "time": "2026-07-28 17:34:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "BlackRock says the El Paso data center will have 1 GW of computing capacity."
+    },
+    {
+      "id": "mkt:019fa812-9079-7aab-8ec7-77099926a394",
+      "time": "2026-07-28 17:33:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "NHK: Kumamoto fire department received multiple reports of a possible explosion at an Aeon supermarket."
+    },
     {
       "id": "mkt:019fa812-0c87-7aab-8ec7-6e8137f654f2",
       "time": "2026-07-28 17:33:02",
