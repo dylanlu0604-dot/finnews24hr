@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-29 06:17:01",
-  "count": 17500,
+  "updated": "2026-07-29 06:21:06",
+  "count": 17503,
   "items": [
+    {
+      "id": "5013035",
+      "time": "2026-07-29 06:20:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受伊朗襲擊美軍基地訊息衝擊，美原油大漲 2.8%，美國 10 年期國債期貨下跌 3 個基點。"
+    },
+    {
+      "id": "mkt:019faad0-89c6-7aab-8ed5-c99c5d7a5718",
+      "time": "2026-07-29 06:20:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reported US officials said the missile was intercepted."
+    },
+    {
+      "id": "5013034",
+      "time": "2026-07-29 06:20:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲3%，現報81.64美元/桶。"
+    },
+    {
+      "id": "5013033",
+      "time": "2026-07-29 06:19:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【指數增強基金規模首破3200億元】受益於超額收益穩定、資金持續湧入的影響，公募指數增強基金規模在二季度末首次突破3200億元。同時，隨著新品發行節奏的加快，指數增強基金的數量快速超過千隻。在日益增加的競爭壓力下，能否長期獲得穩定的超額收益，成為各家基金公司比拼的核心。（上證報）"
+    },
+    {
+      "id": "5013032",
+      "time": "2026-07-29 06:18:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "Axios 記者援引美方官員訊息：伊朗導彈已被攔截。"
+    },
+    {
+      "id": "5013031",
+      "time": "2026-07-29 06:16:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【支援科創，加碼AI，多家險企繪就下半年工作路線圖】梳理發現，7月以來，有10餘家險企召開了半年度工作會議，繪就2026年下半年重點工作路線圖。其中，圍繞新質生產力進行工作部署是險企的落腳點，主要體現在：資產、負債兩端同時加大對科技創新的支援力度，同時透過加碼AI戰略提升自身經營質效。（上證報）"
+    },
     {
       "id": "te:markets:570511",
       "time": "2026-07-29 06:15:06",
@@ -160530,32 +160580,6 @@
         "MKT News"
       ],
       "text": "【White House plans to shift federal R&D funding toward AI and individual scientists】The White House plans to accelerate federal research reform, redirecting more R&D funding toward AI applications and individual investigators rather than primarily to universities, according to a draft report and memos seen by the Wall Street Journal. The Office of Science and Technology Policy is expected to release guidance on Tuesday that would influence roughly $200 billion of annual federal R&D spending and steer allocations through the remainder of the Trump administration. The administration says it will prioritize funding mechanisms aimed at individual researchers—scholarships, prize programs and investigator awards—over direct university block grants; cited demonstration programs include NSF graduate-level initiatives and NIH awards for innovative scientists."
-    },
-    {
-      "id": "5000940",
-      "time": "2026-07-22 06:20:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國議員要求SEC 調查特朗普旗下的Truth Social資料商業化計劃。"
-    },
-    {
-      "id": "mkt:019f86c4-4435-7aab-8e33-04da9e5e7ad2",
-      "time": "2026-07-22 06:20:37",
-      "tags": [
-        "MKT News",
-        "DJT.O",
-        "Impact bearish"
-      ],
-      "text": "U.S. lawmakers have asked the SEC to investigate Trump Media & Technology Group (DJT.O) over plans to commercialize data access on Truth Social, Axios reported. Earlier reports said the company plans to launch a Truth API on Aug. 1 that would sell real-time access to public posts from the platform’s top-10 accounts."
-    },
-    {
-      "id": "5000939",
-      "time": "2026-07-22 06:18:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "中際旭創擬在港上市，最高募資70億美元。"
     }
   ]
 }
