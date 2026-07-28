@@ -1,7 +1,92 @@
 {
   "date": "2026-07-29",
-  "count": 36,
+  "count": 45,
   "items": [
+    {
+      "id": "5012867",
+      "time": "2026-07-29 00:35:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社與益普索聯合民調顯示：49%的美國人表示自己理解民主社會主義政策，47%的美國人表示並不理解。"
+    },
+    {
+      "id": "5012866",
+      "time": "2026-07-29 00:35:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社/益普索調查發現：27%的美國人認為民主社會主義者至少有一些不錯的主張，持相同觀點的人當中，支援MAGA共和黨人的比例同樣為27%。"
+    },
+    {
+      "id": "5012865",
+      "time": "2026-07-29 00:35:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：譴責再次針對約旦的襲擊，並將其視為對其主權的公然侵犯和對國際法的嚴重違反。"
+    },
+    {
+      "id": "mkt:019fa993-94db-7aab-8ed1-a7c5610d8009",
+      "time": "2026-07-29 00:34:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude futures fell $4.00 intraday to $77.91/barrel, down 4.88%."
+    },
+    {
+      "id": "mkt:019fa993-82d2-7aab-8ed1-9c124e1c59df",
+      "time": "2026-07-29 00:34:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell below $81 per barrel, down 5.23% intraday."
+    },
+    {
+      "id": "mkt:019fa993-5c6f-7aab-8ed1-90e0379cb7d6",
+      "time": "2026-07-29 00:33:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said we must break the cycle of war, ceasefire and negotiations."
+    },
+    {
+      "id": "mkt:019fa992-abb5-7aab-8ed1-88b0d2f8920d",
+      "time": "2026-07-29 00:33:09",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "Boeing (BA.N) shares rose 5.5% after the company released second-quarter results."
+    },
+    {
+      "id": "5012864",
+      "time": "2026-07-29 00:32:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守78美元/桶，日內跌5.59%。"
+    },
+    {
+      "id": "5012863",
+      "time": "2026-07-29 00:32:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守81美元/桶，日內跌5.69%。"
+    },
     {
       "id": "5012862",
       "time": "2026-07-29 00:31:53",
