@@ -1,7 +1,44 @@
 {
   "date": "2026-07-28",
-  "count": 554,
+  "count": 558,
   "items": [
+    {
+      "id": "5011025",
+      "time": "2026-07-28 08:21:09",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：乳清蛋白景氣上行超預期，關注國產蛋白機會】中信證券指出，2023年以來全球乳清蛋白價格大幅上漲，2年累計上漲超2倍，主要系運動營養需求景氣、高蛋白功能食品滲透、嬰配粉配方低敏化、GLP-1類減肥藥人群新增蛋白攝入需求等推動，而供給產能短期無法釋放，推動價格上漲。國內乳品原料、非動物蛋白、肌肉改善類膳食補充劑等企業有望受益本輪乳清蛋白景氣上行大週期。"
+    },
+    {
+      "id": "mkt:019fa618-0fcc-7aab-8eb8-a5bb1aa6a6cf",
+      "time": "2026-07-28 08:20:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S.-led Israel-Lebanon talks to start Aug. 4 in Rome】Axios reported a State Dept official said a U.S.-led round of Israel-Lebanon talks will be held in Rome from Aug. 4-6 to discuss Israel’s military redeployment in southern Lebanon and land border disputes between the states."
+    },
+    {
+      "id": "5011024",
+      "time": "2026-07-28 08:20:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報84.97美元/桶。"
+    },
+    {
+      "id": "te:markets:570208",
+      "time": "2026-07-28 08:18:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Japan Hit 6-week Low — JP225 decreased to 62700.00 Index Points, the lowest since June 2026. Over the past 4 weeks, Japan Stock Market Index (JP225) lost 9.59%, and in the last 12 months, it increased 54.41%."
+    },
     {
       "id": "5011023",
       "time": "2026-07-28 08:17:50",

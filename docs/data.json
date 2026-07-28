@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-28 08:18:26",
+  "updated": "2026-07-28 08:22:13",
   "count": 17835,
   "items": [
+    {
+      "id": "5011025",
+      "time": "2026-07-28 08:21:09",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：乳清蛋白景氣上行超預期，關注國產蛋白機會】中信證券指出，2023年以來全球乳清蛋白價格大幅上漲，2年累計上漲超2倍，主要系運動營養需求景氣、高蛋白功能食品滲透、嬰配粉配方低敏化、GLP-1類減肥藥人群新增蛋白攝入需求等推動，而供給產能短期無法釋放，推動價格上漲。國內乳品原料、非動物蛋白、肌肉改善類膳食補充劑等企業有望受益本輪乳清蛋白景氣上行大週期。"
+    },
+    {
+      "id": "mkt:019fa618-0fcc-7aab-8eb8-a5bb1aa6a6cf",
+      "time": "2026-07-28 08:20:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S.-led Israel-Lebanon talks to start Aug. 4 in Rome】Axios reported a State Dept official said a U.S.-led round of Israel-Lebanon talks will be held in Rome from Aug. 4-6 to discuss Israel’s military redeployment in southern Lebanon and land border disputes between the states."
+    },
+    {
+      "id": "5011024",
+      "time": "2026-07-28 08:20:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報84.97美元/桶。"
+    },
+    {
+      "id": "te:markets:570208",
+      "time": "2026-07-28 08:18:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Japan Hit 6-week Low — JP225 decreased to 62700.00 Index Points, the lowest since June 2026. Over the past 4 weeks, Japan Stock Market Index (JP225) lost 9.59%, and in the last 12 months, it increased 54.41%."
+    },
     {
       "id": "5011023",
       "time": "2026-07-28 08:17:50",
@@ -163503,45 +163540,6 @@
         "國際"
       ],
       "text": "【全球股市走高，澳洲養老金年度收益率達9.5%】儘管市場仍擔憂中東衝突與高通脹持續擾動，但全球股票大漲，讓規模達4.4萬億澳元（摺合3.1萬億美元）的澳大利亞養老金行業再度收穫亮眼年度業績。研究機構尚特韋斯特（ChantWest）測算資料顯示，截至6月30日財年，平衡型成長養老金基金中位收益率為9.5%。收益主要由海外股票貢獻，幾乎所有大類資產均錄得正回報。尚特韋斯特養老金投資主管馬諾・莫漢庫馬爾（Mano Mohankumar）在宣告中表示：“受市場持續追捧人工智慧板塊、企業盈利表現強勁支撐，對沖匯率後的海外股票漲幅高達25.5%。即便澳元兌多數主要貨幣走強，未做匯率對沖的全球股票依舊實現17%的收益。”"
-    },
-    {
-      "id": "4998639",
-      "time": "2026-07-21 08:19:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本國際石油開發帝石股價上漲3.5%，日本石油勘探股價上漲3.1%。"
-    },
-    {
-      "id": "4998638",
-      "time": "2026-07-21 08:19:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【杭州半導體龍頭 回撤800億】7月20日，長川科技公告稱，收到董事長趙軼提議，擬每10股派發1元中期紅利。按當前6.34億股的股本計，合計派發約6340萬元。這家總部在杭州的企業，主攻半導體測試賽道，默默耕耘18年，攬獲華為海思等重要客戶，迎來業績爆發。 1—6月，其預估將淨賺9億元以上，同比翻倍。截至7月20日，其市值在1680億元左右，短短7個交易日內，市值回撤約800億元。  “現在我們很多機型都爆單了。”記者從內部人士獲悉，其高階SoC測試機D9000出貨量達1300臺，工廠排單到3個月後。（21財經）"
-    },
-    {
-      "id": "4998637",
-      "time": "2026-07-21 08:19:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4020美元/盎司，日內漲0.08%。"
-    },
-    {
-      "id": "mkt:019f820a-89f0-7aab-8e16-a15477b40553",
-      "time": "2026-07-21 08:19:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "Euro Stoxx 50 futures fell 0.8%, DAX futures fell 0.7% and UK FTSE 100 futures fell 0.8%."
     }
   ]
 }
