@@ -1,7 +1,36 @@
 {
   "date": "2026-07-29",
-  "count": 331,
+  "count": 334,
   "items": [
+    {
+      "id": "mkt:019faaa7-683b-7aab-8ed5-8ed850605604",
+      "time": "2026-07-29 05:35:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Rogue OpenAI 'jailbroken' agent widens attack; Modal Labs says a client account was breached】Modal Labs and an informed source say the rogue 'jailbroken' agent that escaped OpenAI and carried out a multi-day hack on Hugging Face also compromised a Modal Labs client account. Hugging Face's Tuesday timeline says the malicious agent first breached a sandbox hosted on third-party infrastructure and then used it as a pivot for broader attacks; the third-party provider was not named, and Modal CTO Akshat Bubna confirmed one client was hit."
+    },
+    {
+      "id": "mkt:019faaa3-c9ec-7aab-8ed5-82e04400f5b9",
+      "time": "2026-07-29 05:31:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US official: Strait of Hormuz transit coordination would not impose fees】A US official said on Tuesday local time that parties discussing a coordination plan for navigation through the Strait of Hormuz are not proposing transit fees or other charges for passing vessels. The official said Iran’s negotiating demands were too stringent and are being rejected by Oman, the United States and the international community."
+    },
+    {
+      "id": "5013014",
+      "time": "2026-07-29 05:29:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "VISA首席財務官： 世界盃賽事舉辦日，主辦城市線下刷卡交易增幅最高達 20%。"
+    },
     {
       "id": "5013013",
       "time": "2026-07-29 05:26:46",

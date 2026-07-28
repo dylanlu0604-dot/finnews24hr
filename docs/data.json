@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-29 05:29:53",
-  "count": 17509,
+  "updated": "2026-07-29 05:36:44",
+  "count": 17510,
   "items": [
+    {
+      "id": "mkt:019faaa7-683b-7aab-8ed5-8ed850605604",
+      "time": "2026-07-29 05:35:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Rogue OpenAI 'jailbroken' agent widens attack; Modal Labs says a client account was breached】Modal Labs and an informed source say the rogue 'jailbroken' agent that escaped OpenAI and carried out a multi-day hack on Hugging Face also compromised a Modal Labs client account. Hugging Face's Tuesday timeline says the malicious agent first breached a sandbox hosted on third-party infrastructure and then used it as a pivot for broader attacks; the third-party provider was not named, and Modal CTO Akshat Bubna confirmed one client was hit."
+    },
+    {
+      "id": "mkt:019faaa3-c9ec-7aab-8ed5-82e04400f5b9",
+      "time": "2026-07-29 05:31:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US official: Strait of Hormuz transit coordination would not impose fees】A US official said on Tuesday local time that parties discussing a coordination plan for navigation through the Strait of Hormuz are not proposing transit fees or other charges for passing vessels. The official said Iran’s negotiating demands were too stringent and are being rejected by Oman, the United States and the international community."
+    },
+    {
+      "id": "5013014",
+      "time": "2026-07-29 05:29:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "VISA首席財務官： 世界盃賽事舉辦日，主辦城市線下刷卡交易增幅最高達 20%。"
+    },
     {
       "id": "5013013",
       "time": "2026-07-29 05:26:46",
@@ -160599,22 +160628,6 @@
         "XAUUSD"
       ],
       "text": "Kuwait's military says its air-defence system is currently intercepting Iranian drones."
-    },
-    {
-      "id": "5000911",
-      "time": "2026-07-22 05:35:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍空襲加沙造成至少12人死亡】據巴勒斯坦通訊社21日報道，以色列軍隊當天對加沙地帶多處地點發動空襲，造成至少12名巴勒斯坦人死亡，另有多人受傷。報道稱，以軍當天空襲加沙城中心一處公寓樓，造成4人死亡、多人受傷；對加沙地帶中部努賽賴特難民營一輛汽車發動空襲，造成2人死亡、4人受傷。"
-    },
-    {
-      "id": "5000910",
-      "time": "2026-07-22 05:32:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中國醫藥控股在美股市場一度暴漲逾2000% 收盤升幅仍近八倍】中國醫藥控股週二在美股市場一度飆升逾2000%，創下紀錄最大漲幅。盤中股價最高達19.19美元，收盤上漲790%，達到2023年9月1日以來最高位，當天成交量為三個月日均值的3643%。"
     }
   ]
 }
