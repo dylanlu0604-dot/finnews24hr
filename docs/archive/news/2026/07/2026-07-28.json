@@ -1,7 +1,131 @@
 {
   "date": "2026-07-28",
-  "count": 1439,
+  "count": 1455,
   "items": [
+    {
+      "id": "5011670",
+      "time": "2026-07-28 14:52:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "集運指數（歐線）主力合約日內漲幅達4.00%，現報2861.5點。"
+    },
+    {
+      "id": "mkt:019fa77f-525d-7aab-8ec1-db44c8096014",
+      "time": "2026-07-28 14:52:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "Copper"
+      ],
+      "text": "Container shipping index (Europe route) most-active contract rose 4.00% intraday to 2,861.5 points."
+    },
+    {
+      "id": "mkt:019fa77e-fa1f-7aab-8ec1-d5890eb6d3b7",
+      "time": "2026-07-28 14:52:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【De-escalation drags oil lower; silver steadies, poised to rebound】In Asian trade Tuesday, silver eased after a near 0.5% gain in the prior session, trading around $57.40/oz. Oil fell on de-escalation hopes after Washington paused strike operations and Iran's foreign ministry denied direct talks with the US, saying only communications with Oman over the Strait of Hormuz occurred. Softer oil relieved some inflation and rate-hike pressure, offering support to the non-yielding metal. Market focus shifts to this week's Fed policy decision; markets broadly expect officials to hold rates, though a minority of traders still price an immediate hike amid persistent inflation while consensus pushes any move toward September."
+    },
+    {
+      "id": "5011669",
+      "time": "2026-07-28 14:52:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "梅賽德斯-賓士執行長談及國防領域機遇：目前暫無具體訊息可公佈。"
+    },
+    {
+      "id": "mkt:019fa77d-b82c-7aab-8ec1-cdd89bf4c037",
+      "time": "2026-07-28 14:51:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Moonshot AI open-sources Kimi K3; China national supercomputing AI community rolls out Token Plan after API surge】Moonshot AI has open-sourced the Kimi K3 model. China’s national supercomputing internet AI community posted the model and API services, enabling enterprises and developers to download, deploy and invoke Kimi K3 via one-click API. API traffic on launch day far exceeded platform expectations. To cope, the platform launched an urgent Token Plan monthly-subscription on top of pay-as-you-go, introducing fine-grained point-based billing and compatibility with mainstream terminals and AI development tools."
+    },
+    {
+      "id": "5011667",
+      "time": "2026-07-28 14:50:58",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美最大電網預警供電危機 擬啟動供電容量緊急拍賣】美國最大區域電網運營商PJM擬出臺新規：最早於2027年中期，未能在容量市場拍賣到足夠電力的資料中心，將在用電高峰時段被臨時切斷電力供應。受資料中心擴張、極端高溫影響，PJM電網瞬時負荷本月一度衝高至168吉瓦，重新整理20年紀錄。PJM計劃於9月舉行緊急拍賣以填補2028年6月起約7吉瓦/年的容量缺口。"
+    },
+    {
+      "id": "5011666",
+      "time": "2026-07-28 14:50:39",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗：歐洲股市持倉規模正在回升】花旗策略師表示，儘管宏觀環境承壓，歐洲股市持倉規模正在回升。分析師指出，市場風險偏好回暖推升全歐股票持倉；富時 100、歐洲斯托克 50 指數空頭持續虧損，為股指進一步上行留出空間。能源板塊走強帶動富時 100 多頭持倉逼近超配區間，當前所有空頭頭寸均處於浮虧狀態，極易出現空頭回補；但原油價格一旦轉跌，龐大的多頭倉位或將引發大規模獲利了結。"
+    },
+    {
+      "id": "5011665",
+      "time": "2026-07-28 14:50:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【菲利華、長盈通等成立新公司，含光通訊裝置業務】企查查APP顯示，近日，湖北聚通石英新材料有限公司成立，經營範圍包含：光通訊裝置銷售；光通訊裝置製造；光纜銷售；光纜製造；通訊裝置銷售等。企查查股權穿透顯示，該公司由菲利華、長盈通等共同持股。"
+    },
+    {
+      "id": "5011664",
+      "time": "2026-07-28 14:49:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "梅賽德斯-賓士執行長：但這並不是我們安於現狀、鬆懈懈怠的理由。"
+    },
+    {
+      "id": "5011663",
+      "time": "2026-07-28 14:49:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "梅賽德斯-賓士執行長：在當前階段，該現象更多集中在大眾市場領域。"
+    },
+    {
+      "id": "5011662",
+      "time": "2026-07-28 14:49:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安集科技：先進製程電鍍液及新增劑國產化替代空間廣闊】安集科技近日接受機構調研時表示，電鍍液及新增劑業務有取得部分落地進展，但現階段覆蓋範圍有限，短期以小步增長的方式在推進，後續將依託標杆專案落地成果持續拓展客戶、擴大應用。行業端目前先進製程電鍍液及新增劑仍以外資廠商為主，國產化程度低，國內材料匯入有較大市場機會，國產化替代空間廣闊。"
+    },
+    {
+      "id": "5011661",
+      "time": "2026-07-28 14:49:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌3%，現報970.00元。"
+    },
+    {
+      "id": "5011660",
+      "time": "2026-07-28 14:48:57",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【上海市消保委：修復消費信任，攜程還需根治“殺熟”頑症】近日，國家市場監管總局作出行政處罰，對攜程集團濫用市場支配地位實施壟斷行為罰沒合計51.79億元，並責令平臺全面落實合規整改，標誌著線上旅遊行業邁入深度規範化治理新階段。上海市消保委發文指出，市場良序的形成，離不開多元協同的社會監督力量，監督目光更要持續緊盯大資料殺熟這一民生頑疾。要充分激發消費者組織平臺作用，支援消費者組織常態化開展消費體察與調查，持續曝光演算法價格亂象，凝聚全社會抵制價格歧視的廣泛共識與合力。持續暢通一體化投訴舉報渠道，簡化價格差異線索提交方式，方便消費者上傳多賬號、多裝置對比憑證；健全有獎舉報機制，重點收集同房型價差顯著、跨境酒店價格倒掛等典型線索，以常態化社會監督倒逼平臺長效整改，杜絕紙面整改、表面整改。"
+    },
     {
       "id": "5011659",
       "time": "2026-07-28 14:48:19",
@@ -162,6 +286,14 @@
       "text": "【South Korea, Brazil sign space cooperation MoU】YONHAP: South Korea’s Korea Aerospace Administration (KASA) said on Tuesday it and Brazil’s space agency signed a memorandum of understanding to expand cooperation on launch-permit regulation, aerospace industry development and satellite data sharing. The MoU, a follow-up to the Korea‑Brazil summit in Seoul in February, is KASA’s first agreement with a Latin American country. Brazil, which operates the Alcântara launch center—one of the world’s closest launch sites to the equator—is identified as an important player in space transport."
     },
     {
+      "id": "5011645",
+      "time": "2026-07-28 14:42:19",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【兩部門公佈5起煙花爆竹全鏈條“打非治違”典型案例】為嚴厲打擊煙花爆竹生產、經營、運輸、燃放及產品質量各環節、全鏈條突出非法違法行為，國務院安委會辦公室今年部署在全國範圍內開展為期一年的煙花爆竹全鏈條“打非治違”專項行動，各地區各有關部門強化協同聯動，加大執法檢查力度，嚴肅查處了一批突出非法違法行為。為進一步推動各地區、各有關部門、企業單位和社會公眾深刻認識“打非治違”工作的極端重要性和現實緊迫性，強化警示震懾作用，國務院安委會辦公室、應急管理部近日公佈5起煙花爆竹全鏈條“打非治違”典型案例。（央視新聞）"
+    },
+    {
       "id": "mkt:019fa775-a3ab-7aab-8ec1-a2bc1153e363",
       "time": "2026-07-28 14:42:12",
       "tags": [
@@ -196,6 +328,15 @@
         "國際"
       ],
       "text": "美國地質調查局：冰島阿庫雷裡以南109公里處發生5.4級地震。"
+    },
+    {
+      "id": "5011641",
+      "time": "2026-07-28 14:41:05",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "【荷蘭國際：英國央行今年鐵定不動 新首相承諾讓市場捏一把汗】荷蘭國際集團經濟學家認為英國央行最新預測將顯示通脹“在今年下半年至明年初接近3%”，而這一水平仍在央行的容忍範圍內。在此背景下，其基準預期是“英國央行在2026年全年按兵不動”，政策寬鬆將推遲至下一週期。荷蘭國際銀行表示，其“目前預測從2027年春季開始將有兩次降息”，但強調這一路徑“取決於秋季預算案中不會出現實質性財政刺激”。此外，英鎊近期承壓，因投資者對新首相伯納姆支出承諾的融資來源持謹慎態度。伯納姆宣佈對交通票價和電費實施上限措施，引發市場對公共財政進一步承壓的擔憂——在2022年特拉斯財政風波之後，這是英國極為敏感的問題。"
     },
     {
       "id": "5011640",
@@ -244,6 +385,14 @@
         "焦點"
       ],
       "text": "南向資金淨賣出額達10億港元。"
+    },
+    {
+      "id": "5011635",
+      "time": "2026-07-28 14:39:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【桑切斯：西班牙不會忘記加沙】近日，西班牙首相桑切斯回應了一段來自加沙地帶的暖心影片。影片裡，加沙女孩拉揚和當地藝術家在加沙的廢墟牆上描繪了桑切斯的肖像畫。桑切斯特意發影片向拉揚和巴勒斯坦人民表達了感謝。他表示：“整個西班牙社會都聽得到你們的聲音，看見你們的處境，牽掛著你們，不會將你們遺忘。”他衷心祝福加沙的孩子們能早日重返校園，毫無畏懼地拿起畫筆，擁有一個和平的未來。最後，他還向加沙送上了“來自西班牙的一個大大的擁抱”。（央視新聞）"
     },
     {
       "id": "5011634",
