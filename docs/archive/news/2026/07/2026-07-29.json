@@ -1,7 +1,99 @@
 {
   "date": "2026-07-29",
-  "count": 471,
+  "count": 481,
   "items": [
+    {
+      "id": "5013114",
+      "time": "2026-07-29 07:23:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，他已告知特朗普與參議員，烏克蘭真正的問題是缺乏反導系統和導彈。"
+    },
+    {
+      "id": "mkt:019fab09-6719-7aab-8ed6-c5121096864f",
+      "time": "2026-07-29 07:22:27",
+      "tags": [
+        "MKT News",
+        "AAL.O"
+      ],
+      "text": "American Airlines (AAL.O) reported a brief technical issue Tuesday evening that temporarily disrupted connectivity for some systems; systems have been restored and flights resumed."
+    },
+    {
+      "id": "mkt:019fab09-20c6-7aab-8ed6-be73a1d109da",
+      "time": "2026-07-29 07:22:09",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bullish"
+      ],
+      "text": "The U.S. Federal Aviation Administration said the grounding order for American Airlines (AAL.O) has been lifted except in the Charlotte area."
+    },
+    {
+      "id": "5013113",
+      "time": "2026-07-29 07:22:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空：週二晚間技術問題短暫影響部分系統的連線。系統正在恢復上線，航班已重新開始起飛。"
+    },
+    {
+      "id": "5013112",
+      "time": "2026-07-29 07:21:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局稱，除夏洛特道格拉斯國際機場外，美國航空的停飛令已取消。"
+    },
+    {
+      "id": "5013111",
+      "time": "2026-07-29 07:21:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【SK海力士盤前股價下跌 此前公佈的第二財季營業利潤不及預期】SK海力士股價在Nextrade盤前交易中一度下跌6.5%，此前該記憶體製造商公佈的第二財季營業利潤不及預期。關注記憶體同行及整個晶片板塊的動向。三星電子股價一度下跌5.3%。"
+    },
+    {
+      "id": "te:markets:570521",
+      "time": "2026-07-29 07:21:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rebounds as Middle East Tensions Flare — Brent surged more than 4% toward $88 per barrel on Wednesday, snapping a three-day losing streak as renewed hostilities in the Middle East reignited geopolitical tensions after several days of relative calm, fueling fresh concerns over disruptions to energy supplies. The US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East. Meanwhile, Iran-backed militias in Iraq launched drones at oil facilities in Saudi Arabia’s Eastern Region for a second consecutive day, although the full extent of the damage remains unclear. On the diplomatic front, Iran rejected Oman’s proposal for shared 50-50 control of the Strait of Hormuz, maintaining that Tehran must retain full control of the inbound shipping lane and part of the outbound route. In the US, API data showed crude oil inventories fell by 3.3 million barrels last week, pointing to continued tightness in global oil supplies."
+    },
+    {
+      "id": "5013110",
+      "time": "2026-07-29 07:21:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "澳大利亞金融服務集團 Perpetual 拒絕了瑞典私募股權公司 EQT的最新收購要約，並尋求更高的報價。"
+    },
+    {
+      "id": "mkt:019fab08-35b0-7aab-8ed6-b7d7e6bb8234",
+      "time": "2026-07-29 07:21:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【SK Hynix: HBM4 mass production in Q2, to expand output in H2】July 29 — In its Q2 results, SK Hynix said HBM4 entered mass production and shipments in Q2 and that it will expand production in H2. HBM4E samples were delivered in 1H; the company said the product uses an optimal process balancing technical maturity and production stability. SK Hynix said it will rely on stable, high-yield supply, cost competitiveness and industry‑leading performance to reinforce its HBM market leadership."
+    },
+    {
+      "id": "5013109",
+      "time": "2026-07-29 07:20:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【市場分析：SK海力士可觀的利潤率可能不足以安撫焦慮的投資者】SK海力士公佈的營業利潤不及預期，即便利潤率相當可觀，看起來投資者似乎也不打算給予其寬容對待。該公司股價在盤前交易中下跌4.5%。市場對晶片領域來自競爭的擔憂可能過於沉重，以至於財報中的任何亮點都被掩蓋。SK海力士第二財季毛利率83%； SK海力士第二財季營業利潤60.54萬億韓元，預估為64.22萬億韓元。"
+    },
     {
       "id": "te:markets:570520",
       "time": "2026-07-29 07:20:02",
