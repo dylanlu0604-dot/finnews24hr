@@ -1,7 +1,116 @@
 {
-  "updated": "2026-07-28 09:37:41",
-  "count": 17825,
+  "updated": "2026-07-28 09:41:27",
+  "count": 17818,
   "items": [
+    {
+      "id": "mkt:019fa661-f9b0-7aab-8eba-18b14e5ce13d",
+      "time": "2026-07-28 09:41:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share compute-power leasing sector saw a brief intraday surge; Annoqi jumped over 10%, with Huasheng Co., Guangdian Network, Jingang PV, Jingke Technology and Zhongjia Bochuang also advancing."
+    },
+    {
+      "id": "mkt:019fa661-39bc-7aab-8eba-11306ca4a697",
+      "time": "2026-07-28 09:40:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Chinese A-share Changxin turnover topped CNY11.0 bln; shares down 1.9% at CNY47.74."
+    },
+    {
+      "id": "5011158",
+      "time": "2026-07-28 09:39:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "算力租賃板塊短線走強，安諾其漲超10%，華升股份、廣電網路、金剛光伏、晶科科技、中嘉博創等跟漲。"
+    },
+    {
+      "id": "5011157",
+      "time": "2026-07-28 09:39:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "長鑫科技成交額達100億元，現跌3.71%。"
+    },
+    {
+      "id": "5011156",
+      "time": "2026-07-28 09:39:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【瑞穗證券：長鑫科技目標價為70元 第二季度業績料將大幅超預期】瑞穗證券稱，受2026-28年強勁的位元出貨量增長和平均售價上漲勢頭的推動，基於2027-28年前瞻市盈率15倍，給予長鑫科技70元人民幣的目標價。該行預計長鑫在未來三年的交易估值較全球DRAM同行將存在溢價，部分由於其為2027年唯一可能提供增量DDR5的供應商。瑞穗分析師Yini Li等人在報告中表示，在產能擴張、下游需求強勁以及市場份額提升的推動下，該公司2026年的營業收入預計將同比增長408%至3,140億元人民幣，2027年和2028年將分別增長53%和29%。預計2026年毛利率將達到80.4%；並認為長鑫2026年第二季度的業績將大幅超出預期，並超越公司給出的業績指引。長鑫可能已在2026年與位元組跳動、阿里巴巴和騰訊簽署了長期協議。據瑞穗調研，市場預計該公司將在2027年為位元組跳動提供大力支援。部分PC供應商正尋求長鑫在2026-2027年的產能支援，但受制於其產能分配策略和整體緊缺的產能，合作前景似乎有限。在PC客戶中，長鑫在2026年可能會優先聯想等公司的產能供應。瑞穗還稱，長鑫已在國家級專案採購渠道中佔據了80%–90%的DRAM份額，處於支援國家戰略的有利位置。"
+    },
+    {
+      "id": "mkt:019fa660-6ba9-7aab-8eba-09ebb3eec761",
+      "time": "2026-07-28 09:39:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share military-equipment restructuring sector slid sharply; Hunan Tianyan fell more than 6%, while Huaqiang Technology, Zhongguang Optics, Jianshe Industrial and Dong'an Power were also lower."
+    },
+    {
+      "id": "5011155",
+      "time": "2026-07-28 09:38:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兵裝重組概念板塊持續走低】兵裝重組概念板塊持續走低，湖南天雁跌超6%，華強科技、中光學、建設工業、東安動力等跟跌。"
+    },
+    {
+      "id": "mkt:019fa65f-6c5b-7aab-8eba-05f8baea6ff5",
+      "time": "2026-07-28 09:38:19",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share power-grid equipment sector pulled back; Changlan Technology hit limit-down. Han Cable, Sun Cable, Shuangjie Electric and Zhongneng Electric also declined."
+    },
+    {
+      "id": "5011154",
+      "time": "2026-07-28 09:38:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行：預計2027年和2028年將受到通脹的嚴重影響。"
+    },
+    {
+      "id": "mkt:019fa65e-ff5b-7aab-8eb9-ffef0a963ad1",
+      "time": "2026-07-28 09:37:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Takaichi tax-cut plan could pressure yen and JGBs】Asahi and Nikkei report Prime Minister Takaichi may ask officials as soon as Thursday to launch a consumption-tax cut for food and beverages, lowering the rate to 1% within two years; a proposal could be announced this week. Markets worry that a more expansionary fiscal stance, together with elevated oil prices, raises inflation risk. The key market question is how added spending and tax cuts would be financed and whether they would increase government bond issuance. SMBC Nikko Securities senior FX and rates strategist Rinto Maruyama said the plan could raise the fiscal-risk premium embedded in Japanese assets, which would be negative for the yen and likely push JGB yields higher—especially at the long and ultra-long end—causing bear-steepening of the curve."
+    },
+    {
+      "id": "5011153",
+      "time": "2026-07-28 09:37:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊震盪下挫 長纜科技觸及跌停】早盤電網裝置板塊震盪下挫，長纜科技觸及跌停，漢纜股份、太陽電纜、雙傑電氣、中能電氣等跟跌。"
+    },
     {
       "id": "mkt:019fa65e-186d-7aab-8eb9-f303ed75b4d4",
       "time": "2026-07-28 09:36:52",
@@ -163272,177 +163381,6 @@
         "Importance 1"
       ],
       "text": "Australian Dollar Rises to 1-Month High — The Australian dollar rose to around $0.70, hitting more than a four-week high as the ongoing US-Iran conflict raised the risk of energy-driven inflation, fueling expectations that the Reserve Bank of Australia could deliver another interest rate hike. US attacks on Iran entered a tenth consecutive day, while Iran-backed Houthi militants also announced a maritime embargo against Saudi Arabia, raising fears of broader disruptions to global energy supplies. The resulting surge in oil prices reinforced expectations that the Reserve Bank of Australia could tighten policy further after raising the cash rate three times to 4.35%, with markets pricing a 76% chance of another increase by December. Investors are also awaiting Australia's June employment report on Thursday, with forecasts pointing to a 15,000 rise in employment and an unchanged 4.4% unemployment rate. A weaker-than-expected labor market reading could prompt traders to scale back expectations for further policy tightening."
-    },
-    {
-      "id": "4998777",
-      "time": "2026-07-21 09:41:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "越南一輛巴士起火致7名乘客死亡。"
-    },
-    {
-      "id": "4998776",
-      "time": "2026-07-21 09:41:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨上漲0.5%。"
-    },
-    {
-      "id": "4998775",
-      "time": "2026-07-21 09:41:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股家居用品板塊短線走低】夢百合觸及跌停，建霖家居、索菲亞、共創草坪、富嶺股份、顧家家居、公牛集團跟跌。"
-    },
-    {
-      "id": "mkt:019f8255-55c6-7aab-8e18-a2d2dfc8c5dd",
-      "time": "2026-07-21 09:40:58",
-      "tags": [
-        "MKT News",
-        "01888.HK",
-        "Impact bullish",
-        "00148.HK",
-        "01377.HK"
-      ],
-      "text": "Hong Kong PCB-related stocks strengthened: Kingboard Laminates (01888.HK) rose over 5% and Kingboard Holdings (00148.HK) rose over 4%; Dingtai High-Tech (01377.HK), Guanghe Technology (01989.HK) and Dazhu Numerical Control (03200.HK) also gained."
-    },
-    {
-      "id": "mkt:019f8255-3e97-7aab-8e18-9a3f8ceb8e18",
-      "time": "2026-07-21 09:40:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Capital Economics: gold still useful as hedge against large equity sell-offs】Capital Economics strategist Thomas Mathews says gold remains valuable as a hedge against large equity declines. He notes recent gold behavior looks more like a risk asset — volatility has been roughly in line with the S&P 500 and its weak showing during the Middle East conflict has eroded its inf-hedge narrative. The link between gold and real yields remains intact; a decline in real yields should lift gold. If a US economic shock forces the Fed into sizeable policy easing, the recent positive gold–equity correlation would likely unwind."
-    },
-    {
-      "id": "4998774",
-      "time": "2026-07-21 09:40:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【半導體板塊今日反彈 東芯股份漲超12%】半導體板塊今日反彈，東芯股份漲超12%，強一股份、傑華特、星宸科技等股跟漲。"
-    },
-    {
-      "id": "4998773",
-      "time": "2026-07-21 09:40:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力租賃概念探底回升 中嘉博創5天3板】早盤算力租賃概念探底回升，中嘉博創5天3板，此前美利雲2連板，利通電子、揚電科技、宜通世紀、杭鋼股份跟漲。"
-    },
-    {
-      "id": "4998772",
-      "time": "2026-07-21 09:40:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【樂鑫科技：有望獲得更多成本敏感型專案的匯入機會】樂鑫科技近日接受機構調研時表示，公司認為，儲存器價格上漲對公司的直接影響相對有限。一方面，公司產品主要搭配NOR Flash，相關儲存成本在整體方案中的佔比相對較低，因此成本波動整體可控。另一方面，從市場角度來看，儲存器漲價可能推動部分終端產品重新評估硬體架構。一些原本採用Linux搭配NAND Flash、DDR的方案，在成本上升後，可能更傾向於採用RTOS搭配NOR Flash的輕量化方案，在滿足功能需求的同時實現更優的成本控制。公司長期深耕RTOS平臺，在軟體生態、開發工具和應用積累方面具有較好的基礎，因此有望受益於這一趨勢，獲得更多成本敏感型專案的匯入機會。總體來看，公司認為這一變化更多體現為產品結構和方案選擇的調整，為公司進一步擴大AIoT市場覆蓋範圍提供了新的機會。"
-    },
-    {
-      "id": "4998771",
-      "time": "2026-07-21 09:39:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【睿郡資產：擬1億元申購公司旗下私募證券投資基金】7月21日，睿郡資產公告，基於對中國資本市場長期穩健發展的看好，以及對公司主動管理投研實力的信心，公司計劃在本月內，使用自有資金人民幣1億元申購公司旗下私募證券投資基金。"
-    },
-    {
-      "id": "4998770",
-      "time": "2026-07-21 09:39:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【螞蟻保推出張雪機車聯名款摩托車意外險】7月21日，張雪機車宣佈，螞蟻保正式成為張雪機車WSBK全球戰略合作伙伴，並推出張雪機車聯名款摩托車意外險。"
-    },
-    {
-      "id": "mkt:019f8254-26b9-7aab-8e18-91eddcaa83a2",
-      "time": "2026-07-21 09:39:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "1810.HK",
-        "Impact bullish"
-      ],
-      "text": "【Xiaomi raises 2026 smartphone shipment target】Chinese smartphone maker Xiaomi raised its 2026 smartphone shipment target to 110m units from about 90m, roughly a 16% increase, supply-chain sources said. The incremental volume will mainly come from low-end models; Xiaomi internally expects the current memory-chip cycle may reverse. Xiaomi had cut shipment targets twice earlier this year after upstream memory-chip shortages and sustained cost increases."
-    },
-    {
-      "id": "mkt:019f8254-2397-7aab-8e18-8af7b28e403d",
-      "time": "2026-07-21 09:39:39",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【U.S. State Department issues global security alert, urges U.S. citizens to increase vigilance】July 20 — The U.S. State Department issued a global security alert warning of elevated risk from escalating Middle East tensions and possible sudden deterioration in the security environment. U.S. citizens in the Middle East were urged to remain highly vigilant and to be prepared for flight cancellations, temporary airspace closures and other travel disruptions; those outside the region were advised to reconsider travel to or through the area. U.S. diplomatic facilities, including sites outside the Middle East, have been identified as potential targets. The advisory said Iran and its proxies may target U.S. overseas interests, U.S.-related sites worldwide or U.S. citizens."
-    },
-    {
-      "id": "4998769",
-      "time": "2026-07-21 09:39:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【小米上調手機出貨目標】從供應鏈獲悉，小米已將2026年全年智慧手機出貨目標從約9000萬部上調至1.1億部，增幅約16%，上調的增量部分主要來自低端機型。一位接近小米的人士表示，此次上調出貨目標是小米內部認為當前的儲存行情有望迎來反轉。受上游儲存晶片的短期與成本持續上漲，小米在今年曾兩次下調其出貨目標。(介面新聞)"
-    },
-    {
-      "id": "mkt:019f8253-a159-7aab-8e18-8579594c8e78",
-      "time": "2026-07-21 09:39:06",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CSI 500 index futures front contract (IC) breached 7,400 points, up 2.65% intraday."
-    },
-    {
-      "id": "mkt:019f8253-5f31-7aab-8e18-7effdefea509",
-      "time": "2026-07-21 09:38:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "Shenzhen Composite Index rose over 1%. Among constituents, Guoci Materials, Yuxin Technology and Sifang Jingchuang each gained more than 11%."
-    },
-    {
-      "id": "mkt:019f8253-2c68-7aab-8e18-70358ea7f38b",
-      "time": "2026-07-21 09:38:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China retail cash-product 7‑day yield snapshot】Licaitong on-demand 7‑day annualized yield ranged 0.7710%–1.4500%. WeChat Wallet 7‑day annualized yield ranged 0.9220%–1.0520%. Alipay Yu’e Bao 7‑day annualized yield ranged 0.9860%–1.0670%."
-    },
-    {
-      "id": "mkt:019f8252-8fdd-7aab-8e18-6b9982f85407",
-      "time": "2026-07-21 09:37:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China Tech Giants"
-      ],
-      "text": "Yangdian Technology shares hit the 20% daily trading limit after its wholly owned subsidiary signed an RMB 860 mln computing-power services contract, equivalent to 67.22% of the company's 2025 revenue."
-    },
-    {
-      "id": "4998768",
-      "time": "2026-07-21 09:37:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "【覆銅板概念股盤初走弱 金安國紀等股跌停】覆銅板概念股盤初走弱，銅冠銅箔跌超18%，寶鼎科技、金安國紀、賢豐控股跌停，華正新材、宏昌電子等股跌幅靠前。"
     }
   ]
 }

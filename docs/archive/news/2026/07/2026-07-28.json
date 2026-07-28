@@ -1,7 +1,116 @@
 {
   "date": "2026-07-28",
-  "count": 734,
+  "count": 745,
   "items": [
+    {
+      "id": "mkt:019fa661-f9b0-7aab-8eba-18b14e5ce13d",
+      "time": "2026-07-28 09:41:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share compute-power leasing sector saw a brief intraday surge; Annoqi jumped over 10%, with Huasheng Co., Guangdian Network, Jingang PV, Jingke Technology and Zhongjia Bochuang also advancing."
+    },
+    {
+      "id": "mkt:019fa661-39bc-7aab-8eba-11306ca4a697",
+      "time": "2026-07-28 09:40:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Chinese A-share Changxin turnover topped CNY11.0 bln; shares down 1.9% at CNY47.74."
+    },
+    {
+      "id": "5011158",
+      "time": "2026-07-28 09:39:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "算力租賃板塊短線走強，安諾其漲超10%，華升股份、廣電網路、金剛光伏、晶科科技、中嘉博創等跟漲。"
+    },
+    {
+      "id": "5011157",
+      "time": "2026-07-28 09:39:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "長鑫科技成交額達100億元，現跌3.71%。"
+    },
+    {
+      "id": "5011156",
+      "time": "2026-07-28 09:39:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【瑞穗證券：長鑫科技目標價為70元 第二季度業績料將大幅超預期】瑞穗證券稱，受2026-28年強勁的位元出貨量增長和平均售價上漲勢頭的推動，基於2027-28年前瞻市盈率15倍，給予長鑫科技70元人民幣的目標價。該行預計長鑫在未來三年的交易估值較全球DRAM同行將存在溢價，部分由於其為2027年唯一可能提供增量DDR5的供應商。瑞穗分析師Yini Li等人在報告中表示，在產能擴張、下游需求強勁以及市場份額提升的推動下，該公司2026年的營業收入預計將同比增長408%至3,140億元人民幣，2027年和2028年將分別增長53%和29%。預計2026年毛利率將達到80.4%；並認為長鑫2026年第二季度的業績將大幅超出預期，並超越公司給出的業績指引。長鑫可能已在2026年與位元組跳動、阿里巴巴和騰訊簽署了長期協議。據瑞穗調研，市場預計該公司將在2027年為位元組跳動提供大力支援。部分PC供應商正尋求長鑫在2026-2027年的產能支援，但受制於其產能分配策略和整體緊缺的產能，合作前景似乎有限。在PC客戶中，長鑫在2026年可能會優先聯想等公司的產能供應。瑞穗還稱，長鑫已在國家級專案採購渠道中佔據了80%–90%的DRAM份額，處於支援國家戰略的有利位置。"
+    },
+    {
+      "id": "mkt:019fa660-6ba9-7aab-8eba-09ebb3eec761",
+      "time": "2026-07-28 09:39:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share military-equipment restructuring sector slid sharply; Hunan Tianyan fell more than 6%, while Huaqiang Technology, Zhongguang Optics, Jianshe Industrial and Dong'an Power were also lower."
+    },
+    {
+      "id": "mkt:019fa65f-6c5b-7aab-8eba-05f8baea6ff5",
+      "time": "2026-07-28 09:38:19",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share power-grid equipment sector pulled back; Changlan Technology hit limit-down. Han Cable, Sun Cable, Shuangjie Electric and Zhongneng Electric also declined."
+    },
+    {
+      "id": "5011155",
+      "time": "2026-07-28 09:38:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兵裝重組概念板塊持續走低】兵裝重組概念板塊持續走低，湖南天雁跌超6%，華強科技、中光學、建設工業、東安動力等跟跌。"
+    },
+    {
+      "id": "5011154",
+      "time": "2026-07-28 09:38:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行：預計2027年和2028年將受到通脹的嚴重影響。"
+    },
+    {
+      "id": "mkt:019fa65e-ff5b-7aab-8eb9-ffef0a963ad1",
+      "time": "2026-07-28 09:37:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Takaichi tax-cut plan could pressure yen and JGBs】Asahi and Nikkei report Prime Minister Takaichi may ask officials as soon as Thursday to launch a consumption-tax cut for food and beverages, lowering the rate to 1% within two years; a proposal could be announced this week. Markets worry that a more expansionary fiscal stance, together with elevated oil prices, raises inflation risk. The key market question is how added spending and tax cuts would be financed and whether they would increase government bond issuance. SMBC Nikko Securities senior FX and rates strategist Rinto Maruyama said the plan could raise the fiscal-risk premium embedded in Japanese assets, which would be negative for the yen and likely push JGB yields higher—especially at the long and ultra-long end—causing bear-steepening of the curve."
+    },
+    {
+      "id": "5011153",
+      "time": "2026-07-28 09:37:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊震盪下挫 長纜科技觸及跌停】早盤電網裝置板塊震盪下挫，長纜科技觸及跌停，漢纜股份、太陽電纜、雙傑電氣、中能電氣等跟跌。"
+    },
     {
       "id": "mkt:019fa65e-186d-7aab-8eb9-f303ed75b4d4",
       "time": "2026-07-28 09:36:52",
