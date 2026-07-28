@@ -1,7 +1,19 @@
 {
   "date": "2026-07-29",
-  "count": 244,
+  "count": 245,
   "items": [
+    {
+      "id": "mkt:019faa3a-201f-7aab-8ed4-6113074e2a36",
+      "time": "2026-07-29 03:36:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Defense Ministry said the \"terrorist attacks\" originated in Iraq and were carried out by Iranian-backed militia groups."
+    },
     {
       "id": "mkt:019faa37-7128-7aab-8ed4-5c5cfdcd378c",
       "time": "2026-07-29 03:33:07",

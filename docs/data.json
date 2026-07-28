@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-29 03:33:54",
-  "count": 17582,
+  "updated": "2026-07-29 03:37:45",
+  "count": 17576,
   "items": [
+    {
+      "id": "mkt:019faa3a-201f-7aab-8ed4-6113074e2a36",
+      "time": "2026-07-29 03:36:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Defense Ministry said the \"terrorist attacks\" originated in Iraq and were carried out by Iranian-backed militia groups."
+    },
     {
       "id": "mkt:019faa37-7128-7aab-8ed4-5c5cfdcd378c",
       "time": "2026-07-29 03:33:07",
@@ -161165,63 +161177,6 @@
         "MKT News"
       ],
       "text": "A Ukrainian lawmaker says Mykhailo Drapaty will be appointed chief of the Ukrainian Armed Forces' General Staff and Volodymyr Horbatiuk will be named head of the National Guard."
-    },
-    {
-      "id": "5000819",
-      "time": "2026-07-22 03:37:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭議員：米哈伊洛·德拉帕季將出任烏克蘭武裝部隊新任總參謀長，沃洛迪米爾·戈爾巴季烏克將擔任國民警衛隊新任司令。"
-    },
-    {
-      "id": "5000818",
-      "time": "2026-07-22 03:36:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參謀長聯席會議主席丹·凱恩上將：美國民眾必須認識到，戰爭形態正在發生轉變。技術進步正從根本上、不可逆轉地改變作戰模式，因此需要資金投入以保障美軍獲得充足裝備。"
-    },
-    {
-      "id": "mkt:019f862c-caa7-7aab-8e30-fc4d2141841d",
-      "time": "2026-07-22 03:35:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Defense Secretary Hegseth said some training will need to be urgently scaled back if additional funding is not provided."
-    },
-    {
-      "id": "5000817",
-      "time": "2026-07-22 03:34:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院聽證會現場發生示威抗議，示威者打斷赫格塞思，呼籲停止轟炸伊朗、巴勒斯坦兒童。"
-    },
-    {
-      "id": "mkt:019f862c-6d0d-7aab-8e30-f75551c50d23",
-      "time": "2026-07-22 03:34:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Senator Collins said some U.S. military services are facing near-term funding challenges."
-    },
-    {
-      "id": "5000816",
-      "time": "2026-07-22 03:34:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思向國會表示，如果無法獲得更多撥款，部分訓練專案將不得不緊急削減。"
-    },
-    {
-      "id": "5000815",
-      "time": "2026-07-22 03:34:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國參議員柯林斯稱，部分軍種近期面臨償債能力挑戰。"
     }
   ]
 }
