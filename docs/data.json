@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-29 00:20:44",
-  "count": 17515,
+  "updated": "2026-07-29 00:24:45",
+  "count": 17514,
   "items": [
+    {
+      "id": "te:markets:570486",
+      "time": "2026-07-29 00:21:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Uranium at 86.30USD/LBS — Uranium futures in the US remained near the $85 per pound mark, extending its narrow range since early April after erasing the surge from earlier in the year. The cooldown from the speculative rally was combined with muted levels of spot buying by utilities, which have allocated from long-term contracts since the war between Russia and Ukraine raised short-term trade uncertainty. Yellowcake prices were lifted by geopolitical tension driving power markets in major economies to be increasingly volatile, sparking interest in nuclear power by governments and power-hungry AI hyperscalers that develop datacenters. Italy was the latest to express interest to approve a legal framework to restore nuclear power, in line with measures from the US and Japan as power consumers expand sources for generation to account for the higher demand from data center projects. Meta, Amazon, and Microsoft signed agreements to gain fresh nuclear capacity for their future AI data center operations."
+    },
+    {
+      "id": "5012853",
+      "time": "2026-07-29 00:20:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京下令與烏茲別克和哈薩克就修改現行的軍事技術合作（VTS）條約展開談判。"
+    },
     {
       "id": "mkt:019fa984-e8fa-7aab-8ed1-5119a314e837",
       "time": "2026-07-29 00:18:07",
@@ -160587,30 +160606,6 @@
         "公司"
       ],
       "text": "谷歌：自 7 月 21 日起，註冊時長超過 6 個月的谷歌廣告賬戶，將不再提供針對政策處罰決定的申訴通道。"
-    },
-    {
-      "id": "5000720",
-      "time": "2026-07-22 00:23:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長與法國外長通話討論霍爾木茲海峽局勢。"
-    },
-    {
-      "id": "5000719",
-      "time": "2026-07-22 00:23:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴基斯坦總理呼籲中東戰事各方保持克制】巴基斯坦總理夏巴茲21日呼籲中東戰事相關方保持克制，避免採取可能導致地區局勢繼續惡化的行動。據巴基斯坦總理辦公室發表的宣告，夏巴茲當天在伊斯蘭堡會見到訪的伊朗內政部長伊斯坎德爾·莫梅尼時表示，巴方致力於維護地區和平與穩定，並將繼續進行斡旋，幫助緩解地區緊張局勢。莫梅尼表示，此次訪巴旨在加強雙邊關係。他對巴方積極促成伊美達成諒解備忘錄表示讚賞。莫梅尼當天還會見了巴陸軍參謀長穆尼爾，雙方重申保持密切協調合作，維護地區安全和繁榮。（新華社）"
-    },
-    {
-      "id": "5000718",
-      "time": "2026-07-22 00:22:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "多倫多股指持續走高，漲幅達 1%."
     }
   ]
 }

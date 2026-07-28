@@ -1,7 +1,26 @@
 {
   "date": "2026-07-29",
-  "count": 19,
+  "count": 21,
   "items": [
+    {
+      "id": "te:markets:570486",
+      "time": "2026-07-29 00:21:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Uranium at 86.30USD/LBS — Uranium futures in the US remained near the $85 per pound mark, extending its narrow range since early April after erasing the surge from earlier in the year. The cooldown from the speculative rally was combined with muted levels of spot buying by utilities, which have allocated from long-term contracts since the war between Russia and Ukraine raised short-term trade uncertainty. Yellowcake prices were lifted by geopolitical tension driving power markets in major economies to be increasingly volatile, sparking interest in nuclear power by governments and power-hungry AI hyperscalers that develop datacenters. Italy was the latest to express interest to approve a legal framework to restore nuclear power, in line with measures from the US and Japan as power consumers expand sources for generation to account for the higher demand from data center projects. Meta, Amazon, and Microsoft signed agreements to gain fresh nuclear capacity for their future AI data center operations."
+    },
+    {
+      "id": "5012853",
+      "time": "2026-07-29 00:20:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京下令與烏茲別克和哈薩克就修改現行的軍事技術合作（VTS）條約展開談判。"
+    },
     {
       "id": "mkt:019fa984-e8fa-7aab-8ed1-5119a314e837",
       "time": "2026-07-29 00:18:07",
