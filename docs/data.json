@@ -1,7 +1,125 @@
 {
-  "updated": "2026-07-28 21:43:23",
-  "count": 17520,
+  "updated": "2026-07-28 21:47:23",
+  "count": 17521,
   "items": [
+    {
+      "id": "mkt:019fa8f9-edb3-7aab-8ece-845385a88381",
+      "time": "2026-07-28 21:46:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500 fell 0.3%; Nasdaq Composite dropped more than 1%."
+    },
+    {
+      "id": "5012664",
+      "time": "2026-07-28 21:46:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告 黃海海域有軍事活動】據中國海事局網站訊息，青島海事局釋出航行警告，7月29日4時至8時，黃海部分海域進行軍事活動，禁止駛入。"
+    },
+    {
+      "id": "5012663",
+      "time": "2026-07-28 21:46:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局（USGS）測定，秘魯聖塔港西南偏西 151 公里處發生 5.2 級地震。"
+    },
+    {
+      "id": "5012662",
+      "time": "2026-07-28 21:45:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寒武紀：擬推500萬股限制性股票激勵計劃】寒武紀公告稱，公司擬實施2026年限制性股票激勵計劃，擬向激勵物件授予500萬股限制性股票，約佔公告時公司股本總額的0.80%。其中首次授予400萬股，預留100萬股。授予價格為每股750元。該計劃尚待公司股東會以特別決議審議透過後方可實施。公司已履行現階段必要的法定程式，不存在明顯損害公司及全體股東利益和違反相關檔案的情形。"
+    },
+    {
+      "id": "mkt:019fa8f9-1724-7aab-8ece-79dbbcaa6512",
+      "time": "2026-07-28 21:45:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Nasdaq100",
+        "Impact bearish",
+        "NVDA.O",
+        "AMD.O"
+      ],
+      "text": "【US semiconductor stocks slide; Philadelphia Semiconductor Index falls over 5% intraday】US semiconductor sector dropped as the Philadelphia Semiconductor Index (SOX) fell more than 5% intraday to a two-month low. Micron Technology (MU.O) declined nearly 9%; SanDisk (SNDK.O) and Western Digital (WDC.O) fell over 12%; NVIDIA (NVDA.O) was down just over 1%; AMD (AMD.O) fell over 8%; Intel (INTC.O) dropped over 6%; Broadcom (AVGO.O) down 2.8%."
+    },
+    {
+      "id": "5012661",
+      "time": "2026-07-28 21:45:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500消費必需品板塊上漲3.45%，創4月以來最大漲幅。"
+    },
+    {
+      "id": "5012660",
+      "time": "2026-07-28 21:44:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指 100 指數較高點下跌 10%，即將進入調整區間。"
+    },
+    {
+      "id": "te:markets:570452",
+      "time": "2026-07-28 21:43:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Deere & Company Stock Price Hits 21-week High — Deere & Company shares increased to 638.99 USD, the highest since February 2026. Over the past 4 weeks, Deere & Company gained 1.97%, and in the last 12 months, it increased 25.16%."
+    },
+    {
+      "id": "5012659",
+      "time": "2026-07-28 21:43:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基抵達白宮會見特朗普。"
+    },
+    {
+      "id": "5012658",
+      "time": "2026-07-28 21:43:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市跌幅擴大，納斯達克綜合指數下跌1.00%。"
+    },
+    {
+      "id": "5012657",
+      "time": "2026-07-28 21:43:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌1.03%，現報24674.888點；道指漲0.56%，現報52501.020點；標普500指數跌0.22%，現報7397.040點。"
+    },
+    {
+      "id": "5012656",
+      "time": "2026-07-28 21:42:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "Ebay公司與 INA 及戴維・施泰納達成協議。"
+    },
     {
       "id": "5012655",
       "time": "2026-07-28 21:42:29",
@@ -160584,115 +160702,6 @@
         "其他"
       ],
       "text": "市場訊息：加拿大央行將於週三拍賣50億加元14天期限不可替代現金管理券。"
-    },
-    {
-      "id": "5000552",
-      "time": "2026-07-21 21:46:36",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "滙豐將高盛<GS.N>評級從\"減持\"上調至\"持有\"，目標價從834美元上調至995美元。"
-    },
-    {
-      "id": "5000551",
-      "time": "2026-07-21 21:46:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【閃迪漲幅擴大至10%】閃迪股價上漲10.02%，報1530.385美元/股，總市值報2266億美元。"
-    },
-    {
-      "id": "5000550",
-      "time": "2026-07-21 21:46:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【26東北Y1：30億元永續次級債券一期票面利率確定為2.40%】26東北Y1公告稱，東北證券公開發行不超50億元的永續次級公司債券已獲註冊。2026年面向專業投資者發行的永續次級債券（第一期）規模不超30億元，經7月21日詢價，最終確定票面利率為2.40%，該利率在2.00%-3.00%的詢價區間內。公司將按此利率於7月22日-23日面向專業機構投資者網下發行。"
-    },
-    {
-      "id": "mkt:019f84ed-14a5-7aab-8e2b-4aa0d992e1ae",
-      "time": "2026-07-21 21:45:57",
-      "tags": [
-        "MKT News",
-        "BA.L",
-        "Impact bullish"
-      ],
-      "text": "UK defence minister said every penny spent on defence is \"worth it\"."
-    },
-    {
-      "id": "te:markets:568578",
-      "time": "2026-07-21 21:45:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Slips as Financials Weigh — The Ibovespa edged down to hover below 173,000 on Tuesday, weighed down by losses in financial stocks. Financials traded lower as elevated oil prices fueled energy-driven inflation concerns. Itaúsa and Bradesco shed nearly 0.5%, while Itaú and Banco do Brasil edged lower. Utilities also posted losses, with Sabesp and Axia down around 0.5%. Other notable laggards included Rede D'Or (-3%) and Vivo (-0.5%). Meanwhile, hopes for diplomacy in the Middle East were boosted by reports that Iran is considering a proposal from mediators for a 10-day ceasefire aimed at paving the way for a lasting peace agreement. However, oil prices remained elevated, supporting Petrobras, which gained nearly 0.5%. Vale rebounded nearly 1% after retreating in the previous session on lower iron ore prices."
-    },
-    {
-      "id": "5000549",
-      "time": "2026-07-21 21:45:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國國防大臣：國防上的每一分錢都“花得值”。"
-    },
-    {
-      "id": "te:economy:568577",
-      "time": "2026-07-21 21:45:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Denmark",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Denmark 10Y Bond Yield Hits 32-month High — Denmark 10 Year Government Bond Yield increased to 3.02%, the highest since November 2023. Over the past 4 weeks, Denmark 10Y Bond Yield gained 20.24 basis points, and in the last 12 months, it increased 55.62 basis points."
-    },
-    {
-      "id": "mkt:019f84ec-4b35-7aab-8e2b-44cf6d6b5f59",
-      "time": "2026-07-21 21:45:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI crude extends intraday gains to about 3%, trading at $85.40/bbl; Brent crude up 2.16% at $89.40/bbl."
-    },
-    {
-      "id": "5000548",
-      "time": "2026-07-21 21:45:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國國防大臣： 最大化威懾力量以防範衝突至關重要。"
-    },
-    {
-      "id": "te:markets:568576",
-      "time": "2026-07-21 21:44:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Home Depot Stock Price Hits 4-week Low — Home Depot shares decreased to 327.01 USD, the lowest since June 2026. Over the past 4 weeks, Home Depot gained 0.39%, and in the last 12 months, it decreased 9.93%."
-    },
-    {
-      "id": "5000547",
-      "time": "2026-07-21 21:43:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【科威特拉響防空警報】當地時間7月21日，科威特拉響防空警報。科威特軍方表示正在應對來自伊朗的導彈和無人機襲擊，任何爆炸聲都是防空系統攔截攻擊所致。伊朗方面對此暫無回應。（央視新聞）"
     }
   ]
 }

@@ -1,7 +1,125 @@
 {
   "date": "2026-07-28",
-  "count": 2825,
+  "count": 2837,
   "items": [
+    {
+      "id": "mkt:019fa8f9-edb3-7aab-8ece-845385a88381",
+      "time": "2026-07-28 21:46:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500 fell 0.3%; Nasdaq Composite dropped more than 1%."
+    },
+    {
+      "id": "5012664",
+      "time": "2026-07-28 21:46:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告 黃海海域有軍事活動】據中國海事局網站訊息，青島海事局釋出航行警告，7月29日4時至8時，黃海部分海域進行軍事活動，禁止駛入。"
+    },
+    {
+      "id": "5012663",
+      "time": "2026-07-28 21:46:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局（USGS）測定，秘魯聖塔港西南偏西 151 公里處發生 5.2 級地震。"
+    },
+    {
+      "id": "5012662",
+      "time": "2026-07-28 21:45:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寒武紀：擬推500萬股限制性股票激勵計劃】寒武紀公告稱，公司擬實施2026年限制性股票激勵計劃，擬向激勵物件授予500萬股限制性股票，約佔公告時公司股本總額的0.80%。其中首次授予400萬股，預留100萬股。授予價格為每股750元。該計劃尚待公司股東會以特別決議審議透過後方可實施。公司已履行現階段必要的法定程式，不存在明顯損害公司及全體股東利益和違反相關檔案的情形。"
+    },
+    {
+      "id": "mkt:019fa8f9-1724-7aab-8ece-79dbbcaa6512",
+      "time": "2026-07-28 21:45:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Nasdaq100",
+        "Impact bearish",
+        "NVDA.O",
+        "AMD.O"
+      ],
+      "text": "【US semiconductor stocks slide; Philadelphia Semiconductor Index falls over 5% intraday】US semiconductor sector dropped as the Philadelphia Semiconductor Index (SOX) fell more than 5% intraday to a two-month low. Micron Technology (MU.O) declined nearly 9%; SanDisk (SNDK.O) and Western Digital (WDC.O) fell over 12%; NVIDIA (NVDA.O) was down just over 1%; AMD (AMD.O) fell over 8%; Intel (INTC.O) dropped over 6%; Broadcom (AVGO.O) down 2.8%."
+    },
+    {
+      "id": "5012661",
+      "time": "2026-07-28 21:45:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500消費必需品板塊上漲3.45%，創4月以來最大漲幅。"
+    },
+    {
+      "id": "5012660",
+      "time": "2026-07-28 21:44:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指 100 指數較高點下跌 10%，即將進入調整區間。"
+    },
+    {
+      "id": "te:markets:570452",
+      "time": "2026-07-28 21:43:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Deere & Company Stock Price Hits 21-week High — Deere & Company shares increased to 638.99 USD, the highest since February 2026. Over the past 4 weeks, Deere & Company gained 1.97%, and in the last 12 months, it increased 25.16%."
+    },
+    {
+      "id": "5012659",
+      "time": "2026-07-28 21:43:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基抵達白宮會見特朗普。"
+    },
+    {
+      "id": "5012658",
+      "time": "2026-07-28 21:43:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市跌幅擴大，納斯達克綜合指數下跌1.00%。"
+    },
+    {
+      "id": "5012657",
+      "time": "2026-07-28 21:43:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌1.03%，現報24674.888點；道指漲0.56%，現報52501.020點；標普500指數跌0.22%，現報7397.040點。"
+    },
+    {
+      "id": "5012656",
+      "time": "2026-07-28 21:42:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "Ebay公司與 INA 及戴維・施泰納達成協議。"
+    },
     {
       "id": "5012655",
       "time": "2026-07-28 21:42:29",
