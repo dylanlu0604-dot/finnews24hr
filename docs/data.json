@@ -1,7 +1,67 @@
 {
-  "updated": "2026-07-28 09:03:27",
-  "count": 17843,
+  "updated": "2026-07-28 09:07:16",
+  "count": 17840,
   "items": [
+    {
+      "id": "mkt:019fa642-8629-7aab-8eb9-213b7834c8bf",
+      "time": "2026-07-28 09:06:45",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Nasdaq futures extended losses to 0.5%; S&P 500 futures down 0.2%."
+    },
+    {
+      "id": "5011090",
+      "time": "2026-07-28 09:06:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌5%，現報3542.00元。"
+    },
+    {
+      "id": "te:markets:570222",
+      "time": "2026-07-28 09:04:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Holds Firm Ahead of Fed Meeting — The dollar index traded around 101.5 on Tuesday, holding onto the previous session’s gains as investors awaited the Federal Reserve’s policy decision, with markets pricing in an over one-third chance of a rate hike. That marks an unusually high level of uncertainty this close to a Fed meeting compared with recent years. Citadel Securities also said it expects the Fed to raise interest rates this week to reinforce Chairman Kevin Warsh’s inflation-fighting credibility after the central bank chief repeatedly pledged to restore price stability. Meanwhile, the probability of a Fed rate hike in September currently stands at around 56%. The dollar also remained resilient even after President Donald Trump said the US was engaged in \"good talks\" with Iran to end the Middle East conflict, a development that pushed oil prices lower and eased concerns over inflation and tighter monetary policy."
+    },
+    {
+      "id": "5011089",
+      "time": "2026-07-28 09:04:34",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：黃金反彈幅度有限，核心在於伊朗越發強勢的態度】原油大幅回落，但是黃金反彈幅度有限，核心在於伊朗越發強勢的態度，以及美伊雙方在要價上巨大的差異。另外，有心無力的特朗普政府，其政策框架存在高度反身性，每當能源價格大幅飆升或金融資產出現明顯拋售，都會自發式的TACO；而當油價回落的時候，特朗普又開始展示自己的強硬，其色厲內荏的本質被資本市場完全看透，油價仍存在波動的預期，黃金市場走勢偏震盪。"
+    },
+    {
+      "id": "5011088",
+      "time": "2026-07-28 09:04:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本首相高市早苗據報將下令將食品消費稅下調至1%】據當地媒體報道，日本政府計劃從明年4月起，將食品和飲料的消費稅稅率下調至1%，為期兩年。這是在歷經數月政治博弈後，首相高市早苗兌現其標誌性競選承諾之一。《朝日新聞》週一晚間援引多名政府高官報道稱，高市早苗預計最早將於週四指示執政的自民黨著手起草實施該措施所需的法案草案。儘管如此，高市早苗預計將宣佈的這一舉措，仍難以解答政府將如何籌措該措施每年超過4萬億日元（244億美元）的資金問題，這使得投資者繼續關注日本的財政前景，並令國債收益率持續面臨上行壓力。此前，負責討論該措施的跨黨派小組於週一放棄了就該提案達成共識的努力。成員們不僅在如何籌措資金問題上存在分歧，在減稅措施是否應永久實施的問題上也意見不一。 儘管如此，政府仍決定大致按照該小組主席、自民黨Itsunori Onodera今年6月提出的方案推進。他的計劃是將食品銷售稅從目前的8%下調至1%，自4月起實施；同時，面向符合條件家庭的現金補貼（每年總額約6000億日元）可於2027年秋季開始發放，這將基本抵消這些家庭需承擔的剩餘1個百分點的食品稅。"
+    },
+    {
+      "id": "5011087",
+      "time": "2026-07-28 09:02:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "新加坡海峽時報指數開盤下跌0.8%，至5577.43點。馬來西亞吉隆坡綜合指數開盤變化不大，報1711.95點。"
+    },
     {
       "id": "mkt:019fa63d-b2e8-7aab-8eb9-18a9bee1a515",
       "time": "2026-07-28 09:01:29",
@@ -163516,86 +163576,6 @@
         "國際"
       ],
       "text": "【美國總統特朗普與英國新任首相伯納姆通話 獲邀訪問曼徹斯特】美國總統唐納德·特朗普表示，他與英國新任首相安迪·伯納姆進行了一次“非常好的通話”，雙方將在“不久的將來”會面。這顯示在伯納姆前任基爾·斯塔默任內一度趨緊的美英關係，可能出現改善跡象。“首相面臨著艱鉅的任務，但他一定能夠勝任，當然，美國也會提供幫助！”特朗普在社交媒體上發文稱。特朗普表示：“我們討論了許多議題，包括我們與英國長期保持的卓越關係。我們將在不久的將來就雙方共同關心的話題舉行會晤。”他補充稱，雙方討論的內容包括北海石油、貿易以及霍爾木茲海峽排雷工作。此前，由於前首相基爾·斯塔默拒絕在特朗普對伊朗發動襲擊後提供初步軍事支援，近幾個月來美英關係一度承壓。伯納姆辦公室表示，首相在通話中向特朗普祝賀世界盃賽事成功舉行。該賽事於週日落幕，最終由西班牙擊敗阿根廷奪冠。作為就任英國領導人後最早進行的幾通電話之一，伯納姆還邀請特朗普訪問曼徹斯特。"
-    },
-    {
-      "id": "mkt:019f8236-66e3-7aab-8e17-41681b8341a5",
-      "time": "2026-07-21 09:07:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude fell about $0.50 intraday, slipping below $87/barrel and down 0.58% on the day."
-    },
-    {
-      "id": "mkt:019f8235-fd3b-7aab-8e17-3b55da2842fe",
-      "time": "2026-07-21 09:06:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Shanghai silver most-active contract rose 2.00% intraday to 13,960 yuan/kg."
-    },
-    {
-      "id": "4998698",
-      "time": "2026-07-21 09:06:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數上漲1%至263.41點。"
-    },
-    {
-      "id": "4998697",
-      "time": "2026-07-21 09:05:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數上漲2.1%至43,324.19點。"
-    },
-    {
-      "id": "4998696",
-      "time": "2026-07-21 09:05:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊稱，兩艘油輪在試圖透過霍爾木茲海峽南部航道時發生爆炸後起火。"
-    },
-    {
-      "id": "4998695",
-      "time": "2026-07-21 09:05:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌3%，現報5688.00元。"
-    },
-    {
-      "id": "4998694",
-      "time": "2026-07-21 09:04:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內跌5%，現報140400.00元。"
-    },
-    {
-      "id": "4998693",
-      "time": "2026-07-21 09:04:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本貿易大臣赤澤亮正：已確保日本整體石油供應充足。"
-    },
-    {
-      "id": "4998692",
-      "time": "2026-07-21 09:04:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本貿易大臣赤澤亮正：中東局勢惡化令人擔憂。"
     }
   ]
 }
