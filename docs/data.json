@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-28 14:45:41",
-  "count": 17584,
+  "updated": "2026-07-28 14:49:36",
+  "count": 17578,
   "items": [
+    {
+      "id": "5011659",
+      "time": "2026-07-28 14:48:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿波羅微電子公司入選印度空軍供應商名錄。"
+    },
+    {
+      "id": "5011658",
+      "time": "2026-07-28 14:47:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Kimi K3開源上線即爆火，超算網際網路緊急推Token Plan】7月28日訊息，伴隨月之暗面開源Kimi K3模型，國家超算網際網路AI社群正式上線相關模型及API呼叫服務，企業和開發者均可快速下載Kimi K3模型檔案並進行部署開發，且只需透過API一鍵呼叫。Kimi K3上線當天，API請求量遠超超算網際網路預期。為滿足不同層次使用者需求，超算網際網路平臺在按量計費基礎上緊急推出Token Plan包月訂閱模式，採用精細化積分計費，相容主流終端與AI程式設計工具。"
+    },
+    {
+      "id": "5011656",
+      "time": "2026-07-28 14:46:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守84美元/桶，日內跌2.18%。"
+    },
+    {
+      "id": "5011655",
+      "time": "2026-07-28 14:46:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本交易所集團：日本交易所集團現階段暫不延長交易時段，但不排除未來實施。"
+    },
+    {
+      "id": "5011654",
+      "time": "2026-07-28 14:45:37",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根士丹利：谷歌 Frozen v2 晶片無需臺積電 CoWoS 封裝，採用片上 SRAM】摩根士丹利（Morgan Stanley）最新研報指出，谷歌自研 Frozen v2 晶片可能不會採用臺積電的 CoWoS 高階封裝技術，計劃把 SRAM 直接整合到晶片矽片上。在封裝技術方面，目前行業觀點認為臺積電的 CoWoS 封裝更適合高效能 AI 晶片，而英特爾的 EMIB-T 被普遍認為更適合中高階 AI 晶片，不過最新研報稱谷歌可能放棄封裝，把 SRAM（靜態隨機存取儲存器）直接整合到晶片矽片中。這種方案的優勢是具備極高頻寬和超低延遲，但同時也面臨裸片面積增大、功耗與散熱升高的巨大挑戰。"
+    },
+    {
+      "id": "5011653",
+      "time": "2026-07-28 14:45:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州國際商業港集團登記成立 註冊資本30億】天眼查App顯示，近日，廣州國際商業港集團有限公司成立，法定代表人為李峰，註冊資本30億人民幣，經營範圍含企業管理、供應鏈管理服務、酒店管理、商業綜合體管理服務等。股東資訊顯示，該公司由廣州嶺南商旅投資集團有限公司、中建華南建設投資有限公司、廣州機場建設投資集團有限公司等共同持股。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202607283823455460",
+      "time": "2026-07-28 14:45:21",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "法國7月INSEE消費者綜合信心指數86，預期85，前值84。"
+    },
     {
       "id": "mkt:019fa778-5510-7aab-8ec1-c2391f37a0b3",
       "time": "2026-07-28 14:45:08",
@@ -160985,130 +161046,6 @@
         "國際"
       ],
       "text": "【訊息稱三星電子規劃未來5年在韓國建成4座晶圓廠】據悉，三星電子近期就中長期半導體產能投資戰略的可行性向主要合作伙伴徵求意見，其中提到了未來5年在韓國建成4座晶圓廠的規劃。三星半導體在韓新晶圓廠規劃包括平澤P5和P6、龍仁首座晶圓廠、光州首座晶圓廠。三星電子此前宣佈計劃在光州投資約400萬億韓元，建設兩座新的半導體晶圓廠；同時龍仁晶圓廠叢集的進度也將加速。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202607213815461562",
-      "time": "2026-07-21 14:49:29",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本6月半導體制造裝置訂單額同比增長26.9%。"
-    },
-    {
-      "id": "4999508",
-      "time": "2026-07-21 14:48:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【紫燕食品旗下成都公司增資至12億元，增幅20%】天眼查App顯示，7月17日，成都紫燕食品有限公司發生工商變更，註冊資本由10億人民幣增至12億人民幣，增幅20%。該公司成立於2007年12月，法定代表人為楊蘊麗，經營範圍包括生產食品、水產品加工、軟體開發等，由紫燕食品集團股份有限公司全資持股。"
-    },
-    {
-      "id": "4999507",
-      "time": "2026-07-21 14:48:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度批准117個旅遊基礎設施專案，總投資576億印度盧比。"
-    },
-    {
-      "id": "te:markets:568455",
-      "time": "2026-07-21 14:48:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Sterling Steady as Burnham Names Healey Chancellor — Sterling holds above $1.34, unchanged from the prior session, after UK Prime Minister Andy Burnham unexpectedly appointed John Healey, the former defense secretary, as chancellor. Healey, a surprise choice, was not among the favored candidates, but his selection may signal increased defense spending ahead. In terms of policies, Burnham has so far pledged to cut taxes on energy bills, funded by scrapping the Digital ID program. Meanwhile, ONS data showed UK government borrowing hit £16 billion in June, a third lower than the previous year and below market forecasts. Wage growth slowed to 4.3% in the three months to May, slightly under expectations, while unemployment held at 4.9%. Investors are also tracking Middle East developments, with renewed optimism for US-Iran diplomacy following recent regional escalations."
-    },
-    {
-      "id": "4999506",
-      "time": "2026-07-21 14:48:22",
-      "tags": [
-        "行業"
-      ],
-      "text": "【崔東樹：2015-2026 年國內汽車產業區域份額呈現極致分化】乘聯分會崔東樹發文稱，2026 年 1-6 月國內汽車總產量1510萬臺，同比下滑 3%，區域分化顯著。長四角、珠三角實現正增長，長四角 499萬臺，增速 14% 領跑；珠三角204萬臺，小幅增 4%。中部、京津山河、成渝、東北全部同比下滑，東北降幅最大達 16%，傳統汽車產區產能收縮明顯。對比歷年資料，長四角近年產能擴張迅猛，2025 年全年產量破千，成為核心增長極；東北持續逐年走低，傳統產業優勢消退。中部、成渝產量起伏波動大，區域產業格局重構，新能源產能向長四角、珠三角集中是分化核心原因。2015-2026 年國內汽車產業區域份額呈現極致分化。長四角份額從 21% 一路攀升至2026 年上半年 33%，穩居第一增長極；東北份額持續萎縮，由 14% 跌至僅 6%，傳統基地持續失勢。珠三角份額近年相對回落，2026 年上半年達 14%；中部份額回升至20%，京津山河穩定在 17%，成渝長期維持11% 左右。"
-    },
-    {
-      "id": "4999505",
-      "time": "2026-07-21 14:47:28",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛：印度汽車零部件製造商正開始向相鄰供應鏈轉型，包括半導體晶圓製造裝置。這種轉變正在推動對精密加工和模具的產能和技能建設的投資。"
-    },
-    {
-      "id": "te:markets:568454",
-      "time": "2026-07-21 14:47:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Muted into Close — The ASX 200 ended almost flat to finish at 8,793 on Tuesday, after a third session of weakness, with gains in non-energy minerals, tech, and energy minerals offsetting losses in healthcare, retail trade, and financials. Traders anticipated Australia's labor market data after May’s solid jobs growth contrasted with a near four-year high in the jobless rate. Markets recovered from early losses amid stronger U.S. stock futures on reports of mediation in the Middle East, with President Trump said to be considering a 10-day ceasefire to reopen the Strait of Hormuz. In top trading partner China, officials pledged to meet full-year growth targets despite soft Q2 results, ahead of Politburo meetings in late July. Nextdc surged 8.0% on stronger utilisation. Energy stocks also advanced, boosted by Woodside Energy (1.1%) and Origin Energy (1.3%). On the downside, the big four banks fell between 0.6% and 1.5%, while Pro Medicus (-3.3%), Sonic Healthcare (-2.7%), and PLS Group (-1.9%) also dragged."
-    },
-    {
-      "id": "4999504",
-      "time": "2026-07-21 14:46:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴西前總統博索納羅之子獲美國“綠卡” 】巴西前總統雅伊爾·博索納羅之子、前眾議員愛德華多·博索納羅20日說，他已獲得美國永久居留許可，即“綠卡”。愛德華多當天在電話採訪中告訴路透社，他獲得美國“傑出人才移民”(EB-1A)類別“綠卡”。根據美國移民相關法規，在科學、藝術、商業和體育等領域有卓越能力的個人可獲得這一類別“綠卡”。（新華社）"
-    },
-    {
-      "id": "4999503",
-      "time": "2026-07-21 14:46:35",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【東吳證券：維持璞泰來“買入”評級，負極、隔膜放量貢獻盈利彈性】東吳證券研報指出，璞泰來負極、隔膜放量貢獻盈利彈性，業績符合市場預期。預告26H1歸母淨利14-15億，同增33%-42%，對應Q2歸母淨利中值7.5億，同環比+31%/+6%，符合市場預期。塗覆端，預計公司26Q2出貨46億平，同環比高增88%/35%，下游需求旺盛，大客戶訂單飽滿，26年出貨預計上修至180億平+，27年預計220億平+，28年維持30%增長，單位盈利我們預計穩定，貢獻穩定利潤增量。負極新產品26年貢獻增量、成本上漲預計可傳導。盈利端，公司負極受原材料波動影響預計微虧，隨著價格傳導原材料漲價，單噸淨利預計可提升，28年預計可貢獻8-10億利潤。26H1業績符合我們預期，因此維持原預期，預計公司2026-2028年歸母淨利潤33.3/43.8/53.5億元，同比+41%/+32%/+22%，對應PE為14x/11x/9x，給予27年20x估值，目標價41元，維持“買入”評級。"
-    },
-    {
-      "id": "4999502",
-      "time": "2026-07-21 14:46:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "德意志銀行將歷峰目標股價從195瑞郎上調至210瑞郎。"
-    },
-    {
-      "id": "mkt:019f836c-d980-7aab-8e20-0bb6942bc39a",
-      "time": "2026-07-21 14:46:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AMAT.O",
-        "Impact bullish",
-        "LRCX.O",
-        "8035.T"
-      ],
-      "text": "【Goldman Sachs: Indian auto-component makers shift into adjacent supply chains, including wafer fab equipment】Goldman Sachs equity research said in a report that Indian auto-component manufacturers are shifting into adjacent supply chains, including semiconductor wafer fab equipment (WFE). The report said the move is driving investment in precision machining and mold capacity and skills, and that global industrial, automotive and semiconductor OEMs' efforts to reduce supply‑chain risk are reinforcing the trend."
-    },
-    {
-      "id": "4999501",
-      "time": "2026-07-21 14:46:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "SEAJ資料：日本6月半導體制造裝置訂單額同比增長26.9%。"
-    },
-    {
-      "id": "4999500",
-      "time": "2026-07-21 14:45:56",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛：若霍爾木茲海峽受阻持續，布油四季度或突破120美元/桶】高盛集團表示，若霍爾木茲海峽航運中斷問題持續，布倫特原油四季度有望漲至每桶120美元以上，但這並非該行基準預測。分析師達安·斯特魯伊文等人在7月20日釋出的研報中稱：“中東局勢升級，且預估波斯灣原油運輸量降至戰前水平的45%以下，推動油價再度走高。”高盛當前基準預測為，在中東緊張局勢緩和的前提下，四季度布倫特原油價格為每桶80美元，明年油價75美元。分析師同時表示，受霍爾木茲海峽以及紅海航運或持續受阻影響，上述油價預測存在上行風險。"
     }
   ]
 }
