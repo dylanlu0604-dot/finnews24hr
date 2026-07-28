@@ -1,7 +1,343 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-29 03:49:22_
-_本檔包含 3280 則快訊，約 668151 字_
+_更新時間：2026-07-29 05:18:02_
+_本檔包含 3273 則快訊，約 666173 字_
+
+---
+
+### 2026-07-27 21:50:26  #其他
+
+瑞銀將微軟目標股價從510美元下調至480美元。
+
+---
+
+### 2026-07-27 21:50:22  #市場
+
+【蘋果總市值再次超越英偉達 成為全球第一】隨著蘋果股價的上漲，英偉達股價的下跌，蘋果總市值再次超越英偉達。截至發稿，蘋果股價上漲0.96%，報336.220美元/股，總市值報4.94萬億美元。英偉達股價下跌2.64%，報201.380美元/股，總市值報4.87萬億美元。
+
+---
+
+### 2026-07-27 21:50:15  #其他
+
+貝克休斯預計到2030年電力系統潛在市場機會約達1000億美元。
+
+---
+
+### 2026-07-27 21:49:45  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Intuit Stock Price Hits 6-week High — Intuit shares increased to 304.13 USD, the highest since June 2026. Over the past 4 weeks, Intuit gained 19.19%, and in the last 12 months, it decreased 61.32%.
+
+---
+
+### 2026-07-27 21:49:42  #其他
+
+貝克休斯表示，最大型超大規模企業的資本支出預計將從2025年的約3700億美元翻倍至2028年的近7500億美元。
+
+---
+
+### 2026-07-27 21:49:30  #MKT News #Important #Star Stocks #MSFT.O #Impact bearish
+
+UBS cut its PT on Microsoft (MSFT.O) to $480 from $510.
+
+---
+
+### 2026-07-27 21:49:20  #央行 #其他
+
+英國央行表示，APF金邊債券出售操作的覆蓋率為1.36。
+
+---
+
+### 2026-07-27 21:49:17  #央行 #其他
+
+英國央行拍賣發行7.25億英鎊債券，共收到9.86億英鎊的投標。
+
+---
+
+### 2026-07-27 21:48:35  #MKT News
+
+Baker Hughes expects global upstream spending to decline slightly YoY in 2026.
+
+---
+
+### 2026-07-27 21:48:28  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+Baker Hughes says energy security supports continued investment in upstream and infrastructure markets.
+
+---
+
+### 2026-07-27 21:48:17  #MKT News #CRM.N #Impact bullish #ORCL.N #NOW.N
+
+US software stocks rose in early trade: Salesforce (CRM.N) up more than 3%, Oracle (ORCL.N) up about 5%, ServiceNow (NOW.N) up nearly 4%.
+
+---
+
+### 2026-07-27 21:47:38  #MKT News #Market Regions #Greater China
+
+【China's Ministry of Housing and Urban-Rural Development issues notice to strengthen urban bridge safety management】China has entered the flood season; the Ministry of Housing and Urban-Rural Development directed urban bridge authorities to intensify flood-season safety management, coordinating with meteorological, water conservancy and natural resources agencies to issue risk warnings and implement preventive and response measures for extreme weather and water- or geology-related hazards. Inspections should prioritize foundation scour, slope stability and drainage capacity; carry out comprehensive flood-safety risk and hazard remediation. Authorities must coordinate with river management to promptly clear channel accumulations and large drifting objects that could threaten bridges or obstruct flood discharge.
+
+---
+
+### 2026-07-27 21:46:48  #其他
+
+【工業和資訊化部發文提升中小企業數字化轉型服務供給】工業和資訊化部27日對外公佈《“小快輕準”數字化產品和服務培育指引（2026年版）》，旨在引導服務商緊密圍繞中小企業數字化轉型需求，促進數字化產品與服務供需適配，加快中小企業數字化轉型。 “小快輕準”，即小型化、快速化、輕量化、精準化。指引要求，堅持需求牽引，以中小企業數字化轉型需求為導向，緊扣轉型痛點；鼓勵地方因地制宜細化培育標準，建立分類分級培育體系；加強政策協同和資源統籌，加快構建多方參與、優勢互補的中小企業數字化轉型服務供給生態。 指引圍繞小型化、快速化、輕量化、精準化以及數智化、共性基礎要求等部署一系列舉措，包括針對細分行業構建工業機理模型或行業知識庫；產品操作介面應簡單易用，充分考慮中小企業認知習慣；鼓勵產品深度融合人工智慧技術；杜絕隱性收費與捆綁銷售等。 組織實施方面，指引提出，要依託全國中小企業數字化轉型服務平臺及地方服務平臺、促進中心等載體，建設“小快輕準”數字化產品優質資源池，促進優質產品跨區域流通共享，降低中小企業選型成本和試錯風險等。（新華社）
+
+---
+
+### 2026-07-27 21:46:34  #其他
+
+【我國將推動鄂爾多斯盆地東部區域煤層氣開發】從國家能源局瞭解到，我國將從分類開展資源勘探、梯次推進產能建設等方面，推動鄂爾多斯盆地東部區域煤層氣增儲上產，到2030年，鄂東區域探明地質儲量較“十四五”末增加6000億立方米以上，煤層氣產量180億立方米，其中深層煤層氣產量160億立方米以上。為構建新型能源體系提供有力支撐。（央視）
+
+---
+
+### 2026-07-27 21:46:03  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【U.S. natural gas futures extend losses】U.S. natural gas futures fell as the prospect of August-driven power demand weakened and a U.S. pause on military strikes against Iran pushed oil and European gas prices lower. EBW Analytics analyst Eli Rubin said soft LNG feedgas demand and rising production have intensified the weak outlook, adding that while Texas heat may offer short-term support, cooling along the Gulf Coast and Southeast could cap upside for prices.
+
+---
+
+### 2026-07-27 21:45:42  #公司 #市場 #國際
+
+美國軟體公司股價早盤上漲，賽富時股價上漲3.8%，甲骨文股價上漲5.3%，ServiceNow股價上漲3.3%，Atlassian上漲6%，AppLovin上漲4.8%，Adobe上漲3.5%，Intuit上漲2.2%。
+
+---
+
+### 2026-07-27 21:45:25  #其他
+
+【住房城鄉建設部：進一步加強城市橋樑安全管理工作】住房城鄉建設部辦公廳釋出關於進一步加強城市橋樑安全管理工作的通知。通知提出，加強汛期橋樑安全管理。當前，全國已全面進入汛期，城市橋樑主管部門要加強與氣象、水利、自然資源等部門協同聯動，紮實做好極端天氣以及涉水、涉地質災害等風險提示及防範應對工作。重點聚焦橋樑基礎沖刷、邊坡穩定和暢通排水設施等，全面開展防汛安全風險隱患排查。主動協調河道管理部門，及時清理河道內堆積物及可能影響橋樑安全的大型漂流物，確保行洪暢通。強降雨期間，加密巡檢頻次，發現問題及時處置。降雨結束後，及時排查橋樑受損情況，儘快修復受損設施，總結防汛經驗，完善應急預案。強化橋樑定期檢測和加固改造。城市橋樑主管部門要指導督促管養單位加強城市橋樑養護工作。嚴格落實定期檢測要求，並加強過程管理，確保檢測資料真實可靠、技術狀況評估定級合理，橋樑檢測評估報告應完整歸檔備查。對存在安全隱患的，及時採取有效措施妥善進行處置。Ⅰ類養護橋樑被評定為不合格的、Ⅱ-Ⅴ類養護橋樑綜合評定或上、下部結構評定為D、E級的，要加快實施維修加固或改擴建，消除安全隱患。
+
+---
+
+### 2026-07-27 21:44:57  #MKT News #Copper #Impact bearish #WTI #S&P500
+
+【Baltic Dry Index ends three-day rally as freight rates fall across vessel classes】The Baltic Dry Index fell 47 points (1.7%) to 2,696, ending a three-day rally and marking its first decline since July 21. The Capesize index dropped 85 points (2%) to 4,200, its lowest since July 23; Capesize daily earnings fell $770 to $34,587. The Panamax index fell 25 points (1.2%) to 1,999, its lowest since May 1; Panamax daily earnings fell $223 to $17,990. The Supramax index slipped 24 points (1.4%) to 1,670.
+
+---
+
+### 2026-07-27 21:44:46  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bearish
+
+【NVIDIA five-year CDS posts largest intraday rise since November】On Monday, the cost of default protection on NVIDIA (NVDA.O) debt recorded its largest single-day intraday increase. Reports that NVIDIA is negotiating AI infrastructure deals exceeding $750bn prompted market concern over added leverage. ICE Data Services showed NVIDIA's five-year CDS widened about 14bps intraday on Monday, the biggest move since those swaps began trading in November.
+
+---
+
+### 2026-07-27 21:43:48  #MKT News #Important #Market Regions #Europe & UK #ASML.O #Impact bearish
+
+ASML (ASML.O) fell more than 4%.
+
+---
+
+### 2026-07-27 21:43:42  #公司
+
+【近300家公司出手、千億港元進場，騰訊友邦小米領銜港股回購潮】2026年以來，儘管港股市場主要指數震盪下行，但以騰訊控股、友邦保險、小米集團為代表的近300家港股上市公司頻頻出手，向市場傳遞看好自身價值的訊號。Wind資料顯示，截至7月27日，港股市場年內累計回購股份達75.18億股，回購總金額合計1006.67億港元，回購股份數量同比增長超50%。（21財經）
+
+---
+
+### 2026-07-27 21:43:13  #MKT News
+
+Iran central bank governor said inflation began to be contained last month after implementation of measures and policy tools; July monthly inflation fell by half versus June.
+
+---
+
+### 2026-07-27 21:43:11  #國際
+
+【AI需求驅動 香港6月商品出口貨值同比增53.4%】香港特區政府統計處27日釋出的對外商品貿易統計數字顯示，2026年6月香港整體出口和進口貨值同比分別增長53.4%和45.4%。 統計顯示，6月香港商品整體出口貨值為6411億港元，進口貨值為6930億港元，有形貿易逆差為520億港元，相當於商品進口貨值的7.5%。 前6個月，香港商品整體出口和進口貨值同比分別上升39.1%和40.6%，有形貿易逆差2946億港元，相當於商品進口貨值的7.9%。 按國家地區分析，6月香港輸往亞洲的整體出口貨值同比增長54.4%，其中對新加坡同比上升83%、對臺灣同比上升79.9%、對內地同比上升59.2%，輸往美國的整體出口貨值也同比上升114.3%；來自大部分主要供應地的進口貨值相比去年同期錄得升幅，其中韓國同比增長176.7%、越南同比增長106.8%、印度同比增長95.4%。 香港貿易發展局研究總監龐溟表示，上半年香港出口維持強勁增長，主要受惠於全球人工智慧加速應用，帶動電子產品需求持續強勁。與此同時，6月香港輸往亞洲以及內地、美國等主要出口目的地的整體出口貨值同比增速相比5月均有所加快。（新華社）
+
+---
+
+### 2026-07-27 21:42:43  #市場
+
+阿斯麥(ASML.O)跌超4%。
+
+---
+
+### 2026-07-27 21:42:31  #公司 #市場
+
+【債市重磅！降費紅包來了】中央國債登記結算有限責任公司7月27日釋出關於調降部分主營業務收費公開徵求意見的通知，宣佈調降部分主營業務收費，包括全免國際債券（熊貓債）發行登記服務費等五項措施，自2026年9月1日起至2028年12月31日止有效。通知稱，此舉旨在持續落實國家減稅降費精神，進一步促進金融基礎設施服務提質增效。“透過下調費率或取消費用，通知直接減輕了發行人和投資人的負擔，降低了二級市場的交易摩擦與中介成本，有助於提升債券市場的吸引力、流動性、活躍度及資金週轉效率。”中國首席經濟學家論壇成員龐溟表示。（上海證券報微信公眾號）
+
+---
+
+### 2026-07-27 21:41:16  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Rises as Oil Prices Retreat — The Ibovespa edged up to trade above 174,500 on Monday as a pause in the Middle East conflict drove oil prices lower and eased inflation concerns. Crude prices fell after the US and Iran halted strikes over the weekend amid renewed diplomatic efforts, with President Donald Trump reportedly open to restarting peace talks. The pullback in oil prices supported financials, with Itaú and Bradesco each gaining nearly 1%. Utilities also advanced, led by Axia, up more than 2%, while Sabesp gained nearly 1%. WEG rose about 4% after Bradesco BBI upgraded the stock to Outperform and JPMorgan raised its rating to Overweight. The company also secured a contract to supply two generating units for Engie Brasil's Jaguara hydroelectric plant expansion. Embraer climbed more than 3% after reporting a record second-quarter backlog of $34.5 billion. In contrast, Petrobras fell nearly 3% as lower oil prices weighed on the stock.
+
+---
+
+### 2026-07-27 21:41:14  #MKT News #S&P500 #Impact bullish
+
+S&P 500 Banks Index briefly hit a record high, rising more than 1%.
+
+---
+
+### 2026-07-27 21:40:51  #市場
+
+【納斯達克中國金龍指數漲1.5%】納斯達克中國金龍指數盤初上漲1.5%，寶尊電商漲10%，禾賽科技漲超5%，金山雲、騰訊音樂、小馬智行、嗶哩嗶哩漲超4%。
+
+---
+
+### 2026-07-27 21:40:08  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 1.16% Higher — The Dow Jones Index is gaining 603 points or 1.16 percent on Monday. Leading the gains are Sherwin-Williams (2.71%), Alphabet (2.60%) and Microsoft (2.51%).
+
+---
+
+### 2026-07-27 21:40:03  #Trading Economics #Markets #Commodity #Importance 1
+
+Baltic Dry Index Falls on Monday — The Baltic Dry Index declined 1.7% to 2,696 on Monday, ending a three-session winning streak. The Capesize Index, which tracks vessels typically carrying around 150,000 tonnes of bulk commodities such as iron ore and coal, fell 2% to 4,200, its lowest reading since July 23. The Panamax Index, covering ships that usually transport 60,000 to 70,000 tonnes of coal or grain, dropped 1.2% to 1,999, marking its weakest level in eight weeks. Among smaller vessel segments, the Supramax Index decreased 1.4% to 1,670.
+
+---
+
+### 2026-07-27 21:39:37  #國際
+
+【伊朗稱不允許由美國決定何時戰何時止】伊朗外交部發言人巴加埃7月27日在例行記者會上表示，目前伊朗與阿曼正就霍爾木茲海峽問題展開會談，會談“與美國無關”，伊朗沒有與美國進行任何談判。他強調，伊朗絕對不會允許由美國來決定何時戰、何時止——不過，只要伊朗認為外交手段能夠維護國家利益，就一定會運用外交手段。（央視）
+
+---
+
+### 2026-07-27 21:39:27  #市場
+
+羅素2000指數上漲1.3%。
+
+---
+
+### 2026-07-27 21:39:26  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Lam Research Stock Price Hits 9-week Low — Lam Research shares decreased to 298.48 USD, the lowest since May 2026. Over the past 4 weeks, Lam Research lost 24.78%, and in the last 12 months, it increased 211.74%.
+
+---
+
+### 2026-07-27 21:39:09  #國際
+
+聯合國人權事務高階專員：黎巴嫩和以色列將於8月4日在羅馬舉行新的會談。
+
+---
+
+### 2026-07-27 21:37:54  #市場
+
+標普500銀行指數觸及歷史高點，最新上漲1.3%。
+
+---
+
+### 2026-07-27 21:37:44  #MKT News
+
+UN High Commissioner for Human Rights says Lebanon and Israel will hold new talks in Rome on August 4.
+
+---
+
+### 2026-07-27 21:36:11  #MKT News #Important
+
+The Swiss National Bank did not comment on media reports that it expects to keep its policy rate at zero through end-2027.
+
+---
+
+### 2026-07-27 21:35:56  #其他
+
+納斯達克中國金龍指數漲超1%。
+
+---
+
+### 2026-07-27 21:35:46  #MKT News #GM.N #Impact bullish
+
+General Motors (GM.N) rose 2.8%; Jefferies upgraded the stock to Buy from Hold.
+
+---
+
+### 2026-07-27 21:35:42  #MKT News #Market Regions #Wall Street (US) #Europe & UK #S&P500 #Impact bullish #DAX #DXY #Impact bearish
+
+【Morgan Stanley: Global M&A volumes heading toward record levels】Morgan Stanley credit strategists said in a report global M&A activity is accelerating and heading toward record scale. US dealmaking remains robust; European transactions are also rising, supported by a softer European Commission stance on industry consolidation, high market fragmentation and generally healthy balance sheets.
+
+---
+
+### 2026-07-27 21:35:36  #Trading Economics #Economy #Switzerland #Government Bond 10Y #Importance 0
+
+Swiss Bond Yield Falls on Oil Decline — Switzerland's 10-year government bond yield fell toward 0.4%, tracking declines in global bond yields and oil prices after the US and Iran paused hostilities, raising hopes for a diplomatic resolution that could de-escalate the conflict and restore shipping through the Strait of Hormuz. Meanwhile, the Trump administration imposed new tariffs on Swiss imports while keeping them within its previously announced 12.5% ceiling. On the monetary policy front, the Swiss National Bank is expected to keep its policy rate at 0% through 2027, with negative rates remaining a contingency rather than the base case. The SNB left rates unchanged in June, and while most economists do not expect the first rate hike until early 2028, currency markets are pricing in an increase by March next year. Swiss inflation slowed to 0.5% in June and is forecast to peak at just 0.8%, remaining comfortably within the SNB's 0%-2% target range.
+
+---
+
+### 2026-07-27 21:34:51  #MKT News
+
+D-Wave Systems shares rose about 11% after AT&T said it would expand its quantum-computing collaboration with D-Wave.
+
+---
+
+### 2026-07-27 21:34:43  #市場
+
+貝克休斯股價上漲 8.1%，創 4 月 24 日以來最大盤中漲幅。
+
+---
+
+### 2026-07-27 21:34:39  #MKT News #Market Themes #AI Revolution
+
+【IDC China VP Wang Jiping: Industry still exploring AI-agent smartphone development path】IDC China vice president Wang Jiping said the industry remains in an active exploration phase for AI-agent smartphones. Proposed directions—cross-application task execution, agent-native operating systems and more immersive, proactive interaction models—all center on the personal AI experience. These innovations rely on high-performance, low-power designs, heterogeneous computing and cross-device connectivity; continued evolution of these underlying capabilities is driving AI agents toward scaled deployment.
+
+---
+
+### 2026-07-27 21:34:24  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Rebound on Monday — US stocks rose on Monday, erasing the losses from last week as drop in energy prices softened the deteriorating macroeconomic backdrop. The S&P 500 gained 0.8%, while both the Dow and the Nasdaq 100 rose over 1%. The US paused strikes against Iran over the weekend and benchmark fuel prices eased on hopes that energy exports from the Middle East could return. The consequent drop in yields loosened financial conditions to reflect almost null expectations the Federal Reserve may deliver a rate hike this week, pushing back eventual tightening to September. Amazon, Meta, Microsoft, and Apple rose up to 2% ahead of their earnings in the coming days. Nvidia underperformed with a 0.5% loss after a $500 billion AI memory chip supply deal from SK Hynix and guaranteeing $250 billion for OpenAI to lease computing from a data center project, reigniting concerns that circular deals in AI computing could trigger contagion and unwind the AI trade should capex growth be halted.
+
+---
+
+### 2026-07-27 21:34:18  #MKT News #RIVN.O #Impact bullish
+
+Rivian (RIVN.O) shares rose 3% after Piper Sandler upgraded its rating from MAINTAIN to OVERWEIGHT.
+
+---
+
+### 2026-07-27 21:34:16  #MKT News #VOW3.DE #Impact bearish #DAX
+
+【Porsche to cut 5,000 jobs by 2035 under German plant accord】Porsche and labour representatives agreed to cut 5,000 jobs by 2035, the carmaker and its central works council said on Monday. Reductions will be achieved through natural attrition, expanded partial‑retirement schemes and voluntary exit agreements, and employment and plant‑operation guarantees at Porsche’s main German factories will be extended through end‑2035. The deal underscores mounting pressure on parent Volkswagen Group; Volkswagen warned last week that weakening operations could push group revenue down as much as 3% this year.
+
+---
+
+### 2026-07-27 21:34:04  #MKT News #Commodities #Energy #JBLU.O #Impact bullish #UAL.O #DAL.O
+
+【International oil prices retreat; U.S. airline stocks climb】U.S. carriers rallied: Alaska Air and United Airlines up about 4%, Delta Air Lines +3.5%, JetBlue +6.5%, Southwest Airlines +2.4%; S&P Composite 1500 Passenger Airlines Index +3.5%.
+
+---
+
+### 2026-07-27 21:34:01  #市場
+
+傑富瑞將通用汽車股票評級從持有上調至買入後，通用汽車股價上漲2.8%。
+
+---
+
+### 2026-07-27 21:33:56  #其他
+
+英國金融行為監管局：在對約翰·伯福德取得沒收令後，其受害者有望追回大部分投資款項。
+
+---
+
+### 2026-07-27 21:33:37  #公司 #市場 #國際
+
+D-Wave量子計算公司股價大漲約11%，此前美國電話電報公司（AT&T）擴大了雙方的量子計算合作。
+
+---
+
+### 2026-07-27 21:33:30  #公司
+
+【IDC王吉平：行業對智慧體手機的發展路徑仍處探索階段】7月27日，在財新圓桌-AI系列活動“智慧體時代終端產業的下一站”專題活動上，IDC中國副總裁王吉平表示，當前行業對於智慧體手機等創新終端的發展路徑仍處於積極探索階段，無論是跨應用任務執行、智慧體原生系統，還是更具沉浸感和主動服務能力的新型互動形態，其本質都是圍繞個人AI體驗展開創新。而這些創新背後，離不開高效能、低功耗、異構計算以及跨裝置連線能力的支撐。相關底層能力的持續演進，正推動智慧體走向規模化落地。
+
+---
+
+### 2026-07-27 21:32:56  #MKT News #Commodities #Energy #CVX.N #Impact bearish #XOM.N #COP.N
+
+【U.S. energy sector opens lower as oil majors fall】S&P 500 energy sector opened down 1% as international oil prices eased; Chevron (CVX.N) fell 1.8%, Exxon Mobil (XOM.N) dropped more than 2%, and ConocoPhillips (COP.N) slid 2.5%.
+
+---
+
+### 2026-07-27 21:32:47  #市場
+
+原油價格跌至一週低點，郵輪運營商股價上漲，皇家加勒比郵輪上漲3%，挪威郵輪控股上漲3.5%，嘉年華郵輪上漲3.4%。
+
+---
+
+### 2026-07-27 21:32:30  #市場
+
+標普超級綜合航空指數上漲高達4%。
+
+---
+
+### 2026-07-27 21:32:21  #Trading Economics #Markets #Switzerland #Currency #Importance 0
+
+Swiss Franc Stays Near One-Year Low — The Swiss franc hovered around $0.82, remaining close to its weakest level in more than a year against the dollar, as investors weighed easing tensions between the US and Iran and the sharp decline in oil prices, which boosted risk appetite and reduced demand for safe-haven assets. Meanwhile, the Trump administration imposed new tariffs on Swiss imports while keeping them within its previously announced 12.5% ceiling. On monetary policy, the Swiss National Bank is expected to keep its policy rate at 0% through 2027, with any return to negative interest rates seen as a contingency rather than the baseline scenario. The SNB left rates unchanged in June, and most economists expect no change before early 2028. Currency markets, however, are more hawkish, pricing in a rate increase by March next year. Despite a temporary pickup linked to the Iran conflict, Swiss inflation slowed to 0.5% in June and is projected to peak at just 0.8%, remaining well within the SNB's 0%-2% target range.
 
 ---
 
@@ -19409,383 +19745,5 @@ France's anti-terrorism prosecutor said six people have been remanded in custody
 ### 2026-07-25 18:24:10  #國際
 
 【伊朗公佈摧毀駐約旦美軍彈藥庫畫面】伊朗國家電視臺今天（7月25日）釋出衛星影象顯示，約旦費薩爾國王空軍基地的美軍部隊彈藥倉庫被完全摧毀。（CCTV國際時訊）
-
----
-
-### 2026-07-25 18:20:26  #其他
-
-【廣東中山釋出颱風黃色預警 全市中小學停課】中山市應急管理局、中山市氣象局、中山市教育和體育局、中山市衛生健康局釋出提醒：颱風黃色預警訊號2026年7月25日17時30分生效，請做好各項防禦工作；全市中小學、幼兒園、托育機構停課，各類託管中心、教育培訓中心參照執行。未啟程上學的學生不必到學校上課；在校學生（含校車上、寄宿）應當服從學校安排，學校應保障在校學生的安全；上學、放學途中的學生應當就近到安全場所暫避。
-
----
-
-### 2026-07-25 18:19:49  #國際
-
-【水利部和中國氣象局聯合釋出紅色山洪災害氣象預警】水利部和中國氣象局7月25日18時聯合釋出紅色山洪災害氣象預警：預計，7月25日20時至26日20時，江西南部、廣東中東部等地部分地區發生山洪災害可能性大（橙色預警），局地發生山洪災害可能性很大（紅色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
-
----
-
-### 2026-07-25 18:19:00  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI #XAUUSD
-
-Security Service of Ukraine (SBU) said Ukraine struck Russia's Filanovsky oil platform in the Caspian Sea and two cargo ships.
-
----
-
-### 2026-07-25 18:18:44  #國際
-
-烏克蘭安全部門稱，烏克蘭襲擊了俄羅斯位於裡海的菲拉諾夫斯基石油平臺以及兩艘貨船。
-
----
-
-### 2026-07-25 18:17:31  #公司
-
-【科威特簽署160億美元能源基礎設施合作協議】科威特國家石油公司25日宣佈，其子公司科威特石油公司已與由多家國際投資機構組成的財團簽署一項總額160億美元的協議，共同開發科威特原油管道基礎設施。根據該協議，科威特石油公司將與包括黑石集團、博楓資產管理公司和科爾伯格-克拉維斯-羅伯茨公司在內的合作方成立一家合資企業，科威特石油公司將持有合資企業51%的股份，保持控股地位。協議涵蓋科威特石油公司13條國內原油出口管道網路的使用權。科威特國家石油公司表示，交易完成後，科威特石油公司預計將一次性獲得78.5億美元資金，用於支援科威特國家石油公司的資本支出計劃，包括實現到2035年將原油產能提升至日均400萬桶的目標。據悉，該協議仍需獲得科威特監管部門批准並履行相關法律程式。
-
----
-
-### 2026-07-25 18:10:31  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-【Zelenskiy: Ukraine struck Caspian Sea ships carrying Iranian military cargo and a warship】Zelenskiy said Ukraine’s long-range strikes in the Caspian Sea hit vessels transporting Iranian military cargo and a military ship. He also said strikes hit a factory in Kirov Oblast that supplies components for Russian attacks on Ukraine, about 1,200 km from the Ukrainian border, as well as a refinery in Tyumen Oblast, a logistics facility in Yekaterinburg and a fuel depot in Rostov-on-Don.
-
----
-
-### 2026-07-25 18:10:09  #其他
-
-北約軍事總部一名實習生因涉嫌間諜活動被捕。
-
----
-
-### 2026-07-25 18:09:07  #公司 #國際 #原創
-
-【三星電子拿下博通2000億美元大單】三星電子獲得一份價值逾2000億美元的合同，將向博通供應晶片，兩家公司正努力在人工智慧(AI)基礎設施市場爭取更大份額。三星電子週六在一份宣告中稱，這項為期五年的協議將持續至2030年，重點圍繞為博通產品提供三星2奈米及以下先進製程工藝。協議將深化兩公司在儲存晶片和晶圓代工技術領域的戰略合作。三星表示，在儲存晶片領域，將支援博通的下一代AI加速器落地。雙方的合作預計將擴充套件至基於三星2奈米工藝的先進封裝技術，包括2.3D和2.5D整合技術，以打造更高效能、更節能的AI和網路晶片。
-
----
-
-### 2026-07-25 18:08:20  #MKT News #Important
-
-Ukrainian President Zelenskiy said Ukraine attacked vessels in the Caspian Sea transporting Iranian military materiel.
-
----
-
-### 2026-07-25 18:07:23  #國際
-
-澤連斯基稱，烏克蘭襲擊了裡海海域上涉及伊朗軍事貨物運輸的船隻。
-
----
-
-### 2026-07-25 17:56:55  #其他
-
-【水利部針對7省區啟動洪水防禦Ⅳ級應急響應】據預報，受今年第12號颱風“紅霞”帶來的強降雨影響，7月25日至7月30日，珠江流域北江、東江、韓江、粵東沿海榕江，長江流域中游支流漢江、洞庭湖水系湘江資水沅江澧水、鄱陽湖水系贛江，淮河流域上中游幹流及支流沙潁河、洪汝河等主要河流將出現明顯漲水過程，其中珠江流域東江可能發生編號洪水；暴雨區內部分中小河流可能發生超警以上洪水，山丘區山洪災害風險較高。  依據《水利部水旱災害防禦應急響應工作規程》，水利部於7月25日16時針對福建、江西、河南、湖北、湖南、廣東、廣西等省（自治區）啟動洪水防禦Ⅳ級應急響應，要求地方水利部門和相關流域管理機構密切監視天氣變化，加密雨水情監測預報，及時釋出預警資訊，強化會商研判和值班值守，科學精細排程防洪工程，突出抓好水庫安全度汛、中小河流洪水和山洪災害防禦等工作，及時提請地方政府提前轉移受威脅群眾和危險區人員，確保人民群眾生命財產安全。目前，5個水利部工作組、專家組正在廣東、福建等地臺風暴雨洪水防禦一線協助指導。
-
----
-
-### 2026-07-25 17:55:35  #MKT News
-
-【Zhuhai issues orange thunderstorm/gale warnings as Typhoon Hongxia affects region】Zhuhai Meteorological Bureau said Typhoon Hongxia will bring strong thunderstorm clouds to eastern Zhuhai with short-lived winds near force 10. Orange warnings for thunderstorm gales and yellow heavy-rain warnings are in effect for the Hengqin Guangdong‑Macao Deep Cooperation Zone, Xiangzhou District and the High‑tech Zone; Wanshan District remains under orange thunderstorm/gale and yellow heavy-rain warnings.
-
----
-
-### 2026-07-25 17:50:49  #國際
-
-【烏克蘭尋求與加拿大簽署為期30年的能源協議】烏克蘭第一副總理兼能源部長傑尼斯·什梅加爾表示，烏克蘭正尋求與加拿大簽署一項為期30年的戰略能源協議，並提議建立以加拿大液化天然氣供應為重點的“能源安全橋樑”。 什梅加爾表示，他與加拿大能源和自然資源部長蒂姆·霍奇森討論了天然氣和核能領域的合作。 作為會談的一部分，雙方討論了加拿大向烏克蘭提供6.5億加元（約合4.61億美元）直接贈款的可能性，以幫助烏克蘭購買冬季天然氣，這是加拿大對烏克蘭更廣泛援助計劃的一部分。什梅加爾表示，烏克蘭還邀請加拿大供應商在其地下設施儲存天然氣，並尋求加拿大製造商提供能源裝置。雙方還討論了小型模組化反應堆（SMR）領域的合作，基輔希望將這一領域納入擬議的長期協議，因為烏克蘭希望借鑑加拿大在該技術方面的經驗。
-
----
-
-### 2026-07-25 17:42:59  #國際
-
-【巴林、科威特被曝曾秘密空襲伊朗 科方否認】美國方面7月24日援引訊息人士的話稱，科威特和巴林於本月早些時候秘密派出戰機襲擊伊朗境內目標，目標包括無人機和導彈倉庫。阿聯酋為巴林和科威特提供了目標情報和空中掩護。據悉，科威特駐美國大使否認科威特參與任何針對伊朗的軍事行動，科威特也從未允許其領土被用於對任何鄰國發動進攻。巴林政府暫未對此事作出回應。（央視新聞）
-
----
-
-### 2026-07-25 17:42:12  #MKT News
-
-【Report: Bahrain, Kuwait allegedly carried out covert strikes inside Iran; Kuwait denies】US outlets, citing unnamed sources on July 24, reported that Bahrain and Kuwait earlier this month covertly dispatched warplanes to strike targets inside Iran, including drone and missile storage facilities. The report said the UAE provided targeting intelligence and aerial cover. Kuwait’s ambassador to the United States denied Kuwait participated in any military action against Iran and said Kuwait would not allow its territory to be used to attack neighbors. Bahrain has not commented.
-
----
-
-### 2026-07-25 17:40:34  #MKT News
-
-【Kyrgyz president Japarov meets China foreign minister Wang Yi】Kyrgyz president Japarov met China foreign minister Wang Yi in Bishkek on the 24th. China said it will deepen strategic coordination with Kyrgyzstan, translate leaders’ consensus into tangible projects, expand mutually beneficial cooperation and people-to-people exchanges, and consolidate a China–Kyrgyz community of shared future. Beijing congratulated Kyrgyzstan on its high‑vote election as a UN Security Council non‑permanent member and offered closer coordination on UN affairs and support for Kyrgyzstan hosting the Shanghai Cooperation Organization (SCO) summit in Bishkek.
-
----
-
-### 2026-07-25 17:39:50  #國際
-
-【吉爾吉斯斯坦總統扎帕羅夫會見王毅 】吉爾吉斯斯坦總統扎帕羅夫24日會見在吉訪問的中共中央政治局委員、外交部長王毅。扎帕羅夫請王毅轉達對習近平主席的親切問候，熱烈祝賀中國共產黨成立105週年，表示在中國共產黨領導下，中國人民在社會主義現代化建設中取得輝煌成就，吉方對此由衷欽佩。好鄰居，金不換。對華關係是吉方對外政策優先方向。吉中兩國是發展繁榮的同路人，更是天然合作伙伴。吉方珍視雙方相互尊重、平等互利、睦鄰友好的戰略伙伴關係，願學習借鑑中國治國理政經驗，加強經貿、投資、農業、人文等領域互利合作，大力推進中吉烏鐵路等重點專案，為在吉中國企業提供良好營商環境，維護企業合法權益。吉方堅定支援中方維護自身核心利益。吉方加入了世界人工智慧合作組織、國際調解院，以實際行動支援中方提出的四大全球倡議，願進一步加強在聯合國、中國－中亞機制等多邊框架內的溝通協調，攜手促進地區和世界和平發展。王毅轉達習近平主席對扎帕羅夫的良好祝願，表示扎帕羅夫總統執政以來，銳意進取、革故鼎新，吉方經濟快速增長，民生福祉持續改善，國家面貌煥然一新。相信在總統先生領導下，“新吉爾吉斯斯坦”建設必將取得新的更大成就。作為友好鄰邦和親密夥伴，中方將一如既往堅定支援吉方的獨立、主權和領土完整，堅定支援吉方走符合本國國情的發展道路。（新華社）
-
----
-
-### 2026-07-25 17:35:49  #MKT News #Market Regions #Greater China
-
-【Navigation warning: military operations in Bohai Strait, northern Yellow Sea】Dalian Maritime Safety Administration said on its website that parts of the Bohai Strait and the northern Yellow Sea will be closed for military operations from 1600 local time on July 26 to 1600 on August 2; entry is prohibited.
-
----
-
-### 2026-07-25 17:33:56  #其他
-
-伊拉克：霍爾木茲發生衝突事件後，我們在瑞士會談期間決定開通一條直接溝通渠道，以避免誤解。
-
----
-
-### 2026-07-25 17:33:20  #其他
-
-【航行警告！渤海海峽黃海北部執行軍事任務】據中國海事局網站訊息，大連海事局釋出航行警告，7月26日16時至8月2日16時，渤海海峽黃海北部部分海域執行軍事任務，禁止駛入。
-
----
-
-### 2026-07-25 17:30:13  #國際
-
-伊朗外交部長阿拉格齊：諒解備忘錄第五條規定明確，伊朗是決定穿越霍爾木茲海峽機制的實體。
-
----
-
-### 2026-07-25 17:29:33  #國際
-
-【德國工商界批評美國新關稅加劇貿易不確定性】當地時間7月24日，德國工商大會、德國批發和外貿協會分別就美國最新關稅措施發表宣告，批評美方頻繁調整關稅政策，加劇企業經營和投資的不確定性。德國工商大會外貿主管福爾克·特賴爾表示，美國正試圖透過新的法律依據恢復此前被法院叫停的關稅措施，持續變化的政策增加了企業行政負擔和法律風險，難以形成穩定、可預期的經營環境。他強調，美方違反世貿組織規則的關稅措施應全面取消，特別是目前仍在實施的對鋼鋁產品徵收的額外關稅。（央視新聞）
-
----
-
-### 2026-07-25 17:29:27  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #DAX
-
-【German business groups say US tariff shifts increase trade uncertainty】On July 24 the Association of German Chambers of Commerce (DIHK) and the German Wholesale and Foreign Trade Association said recent US tariff measures and frequent policy shifts are exacerbating operational and investment uncertainty. Volker Treier, DIHK head of foreign trade, said the US appears to be seeking a new legal basis to reinstate tariffs previously suspended by courts; the ongoing changes increase firms’ administrative and legal costs and undermine a predictable business environment. He urged the full removal of US tariffs that violate WTO rules, singling out the additional steel and aluminum duties still in effect.
-
----
-
-### 2026-07-25 17:24:12  #其他
-
-英國軍方將訂購新型Tekever AR5偵察無人機。
-
----
-
-### 2026-07-25 17:23:32  #國際
-
-印度教育部長在抗議活動後遞交辭呈。
-
----
-
-### 2026-07-25 17:23:31  #MKT News
-
-【Chinese eVTOL completes public flight in Kazakhstan】Fengfei Aviation Technology, with Alatau Pioneer Aviation Group (AAAG), completed a public flight of a 2-ton eVTOL in Astana, Kazakhstan. Kazakhstan has legislated to incorporate eVTOL into its transport framework; authorities say this is the first eVTOL flight since those rules took effect and a key step toward systematic deployment of urban air mobility (UAM).
-
----
-
-### 2026-07-25 17:22:41  #公司
-
-【中國eVTOL在哈薩克完成公開飛行】峰飛航空科技今日宣佈，攜手阿拉套先鋒航空集團（AAAG），在哈薩克首都阿斯塔納完成“先進空中交通”2噸級eVTOL公開飛行。此次公開飛行是哈薩克系統性部署城市空中交通（UAM）的關鍵組成部分，哈薩克已立法將eVTOL納入交通框架，此次飛行也是該國規則落地後的首次eVTOL飛行。
-
----
-
-### 2026-07-25 17:20:24  #MKT News #Important
-
-Social media reported widespread outages rendering OpenAI's ChatGPT and Codex unavailable.
-
----
-
-### 2026-07-25 17:10:28  #MKT News #Market Regions #Greater China
-
-【First 2026 national quality inspection team begins inspection in Guangdong】To implement central decisions on quality work and according to the inspection plan, the Office of the Leading Group for Building a Quality Power, together with relevant member units, has dispatched a quality inspection team to Guangdong to carry out inspections. On July 21 the team met with the Guangdong provincial party committee and provincial government, briefed inspection matters and set work requirements; senior provincial government officials attended and spoke.
-
----
-
-### 2026-07-25 17:06:06  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Zelenskiy says Russia launched large-scale airstrikes across multiple locations in Ukraine】Ukrainian President Zelenskiy said on the 25th local time that Russian forces launched large-scale airstrikes across multiple locations in Ukraine, using two missiles and nearly 160 drones. The strikes killed at least six people, injured 10 and damaged multiple civilian buildings and infrastructure. Russia had not responded.
-
----
-
-### 2026-07-25 17:03:35  #國際
-
-【澤連斯基稱俄對烏多地發動大規模空襲】烏克蘭總統澤連斯基當地時間25日通報稱，俄軍於當日凌晨對烏克蘭多地發動大規模空襲，使用2枚導彈、近160架無人機實施打擊。本次襲擊已造成至少6人死亡、10人受傷，多處民用建築與設施受損。俄羅斯方面對此暫無回應。 (央視新聞)
-
----
-
-### 2026-07-25 17:01:50  #其他
-
-【2026年質量督察第一督察組進駐廣東省開展質量督察】記者今天瞭解到，國家質量強國建設協調推進領導小組辦公室會同有關成員單位組成質量督察組，近日進駐廣東省開展質量督察。質量督察組將堅持問題導向、源頭治理，對“內卷式”競爭突出領域、社會關切和群眾反映強烈的重點領域存在的突出質量問題開展抽查核查，切實推動質量治理能力提升。 (央視新聞)
-
----
-
-### 2026-07-25 16:48:34  #國際
-
-【王毅外長在馬尼拉未與日方會見或交談】據記者瞭解，此次在菲律賓馬尼拉期間，王毅外長沒有同日方會見的安排，也沒有與日方進行交談。（CGTN記者團）
-
----
-
-### 2026-07-25 16:47:54  #其他
-
-英國海事貿易組織(UKMTO)週五表示，收到一份關於阿曼灣一艘油輪與軍方發生事件的報告。
-
----
-
-### 2026-07-25 16:47:49  #MKT News #Commodities #Energy
-
-UKMTO said on Friday it received a report of an incident in the Gulf of Oman involving an oil tanker and military forces.
-
----
-
-### 2026-07-25 16:47:31  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-【Houthi spokesman: maritime blockade is first step in 'blockade-for-blockade' operation】Houthi spokesman Mohammed Abdulsalam told Al Jazeera the group's maritime blockade of Saudi Arabia is the first step in a 'blockade-for-blockade' operation. He accused Saudi Arabia of escalating military and economic pressure after an eight-year Yemen campaign and said Riyadh is attempting an economic blockade. On Masirah TV he alleged Saudi strikes on Hodeidah, Kamaran Island and Sanaa airport and warned any attack on Yemen would be met with retaliation, saying Saudi actions will have consequences for its security and economy.
-
----
-
-### 2026-07-25 16:44:10  #其他
-
-【“紅霞”將以颱風級或強颱風級登陸香港至陸豐沿海】中央氣象臺最新訊息，今年第12號颱風“紅霞”已於7月25日早晨加強為颱風級，15時中心位於廣東省汕尾市東南方向約200公里的洋麵上，中心附近最大風力12級（颱風級，33米/秒），將於25日夜間至26日早晨在香港到廣東陸豐一帶沿海登陸（35～42米/秒，颱風級或強颱風級）。受其影響，25日至26日，南海東北部部分海域、廣東東部沿海、珠江口風力有9～11級、陣風12～13級，颱風中心經過的海域或地區風力有12～13級，陣風14～16級。25日至27日，廣東、福建、江西、湖南、四川等地部分地區累計降雨量150～300毫米，廣東北部和東部局地降雨具有極端性，累計雨量400～500毫米，單點最大600毫米左右。“紅霞”深入內陸、滯留時間長、累計雨量大、途經地區地形複雜、致災風險高，提醒上述地區的公眾需提前做好防颱風準備工作。
-
----
-
-### 2026-07-25 16:43:50  #觀點 #國際
-
-市場訊息：花旗等多家金融機構參與融資，支援日本5500億美元對美投資計劃。
-
----
-
-### 2026-07-25 16:42:17  #其他
-
-【長三角新增跨省域道路 示範區雪落漾路正式通車】7月25日上午，‌長三角生態綠色一體化發展示範區內連線上海青浦和江蘇吳江的跨省域道路——雪落漾路正式通車，這是示範區“十五五”時期開通的首條跨省對接道路。（央視新聞）
-
----
-
-### 2026-07-25 16:37:09  #MKT News #DXY #Impact bullish #XAUUSD #S&P500 #Impact bearish
-
-Russian-appointed governor said a tourist camp in Russian-held Zaporizhzhia region was attacked, killing eight.
-
----
-
-### 2026-07-25 16:35:43  #國際
-
-俄羅斯任命的州長稱，烏克蘭扎波羅熱地區俄控區旅遊營地遇襲致八人死亡。
-
----
-
-### 2026-07-25 16:34:57  #其他
-
-【《2026能源產業生態報告》釋出 風電光伏裝機超越火電】記者今天（25日）從中國企業改革與發展研究會獲悉，《2026能源產業生態報告》正式釋出。報告顯示，“十四五”時期，我國風電光伏裝機歷史性超越火電，核能、生物質能領域領跑全球。“十四五”期間，我國能源產業實現安全保供與綠色低碳轉型雙向協同發展。2025年全國能源重點專案投資額首超3.5萬億元，同比增長近11%。新能源產業實現跨越式發展，2020至2025年風電光伏裝機從5.3億千瓦增至18.4億千瓦。核電執行裝機總量穩居全球第一，生物質能發電裝機連續7年規模全球第一。 (央視新聞)
-
----
-
-### 2026-07-25 16:34:46  #其他
-
-【今年上半年新疆霍爾果斯口岸進出口貨運量創新高】今年上半年，新疆霍爾果斯口岸依託公鐵聯運樞紐優勢，進出口貨運量持續增長，據霍爾果斯海關統計，今年1—6月，新疆霍爾果斯口岸實際監管進出口貨運量2295.4萬噸，同比增長3.1%，創歷史新高。（央視新聞）
-
----
-
-### 2026-07-25 16:32:54  #MKT News #Commodities #Energy #Copper #Impact bullish #CNH
-
-【2026 Energy Industry Ecosystem Report: Wind and Solar Capacity Overtakes Thermal Power】The China Association for Enterprise Reform and Development released the 2026 Energy Industry Ecosystem Report, saying that over the 14th Five-Year Plan (2021–25) wind and solar installed capacity historically exceeded thermal power. Nuclear operational capacity remains the largest globally and biomass power installed capacity has ranked first worldwide for seven consecutive years. Investment in national energy key projects topped 3.5 trillion yuan in 2025 for the first time, up about 11% YoY. Wind and solar installed capacity rose from 530 GW in 2020 to 1,840 GW in 2025.
-
----
-
-### 2026-07-25 16:24:59  #市場 #焦點
-
-布倫特原油暗盤突破92美元，日內漲超0.2%。
-
----
-
-### 2026-07-25 16:17:29  #MKT News #WTI #Impact bullish #Brent
-
-Local governor said drones sparked a fire at an oil refinery in Russia's Tyumen region.
-
----
-
-### 2026-07-25 16:16:39  #其他
-
-【國家防總提升針對廣東的應急響應至Ⅲ級】今年第12號颱風“紅霞”已於7月25日早晨加強為颱風級。預計，“紅霞”將於25日夜間至26日早晨在香港到廣東陸豐一帶沿海登陸（颱風級或強颱風級，12～14級，35～42米每秒）。受其影響，南海東北部部分海域、廣東東部沿海、珠江口風力可達9～11級、陣風12～13級，颱風中心經過的海域或地區風力有12～13級、陣風14～16級。25日至27日，廣東、江西、湖南等地有強降雨，廣東東部、江西南部、湖南南部等地部分地區累計降雨量150～300毫米，局地400～500毫米，單點最大600毫米左右。中央氣象臺25日10時釋出颱風、暴雨橙色預警。根據《國家防汛抗旱應急預案》及有關規定，國家防總決定於7月25日16時將針對廣東的防汛防颱風應急響應提升至Ⅲ級，並同步針對江西、湖南啟動防汛Ⅳ級應急響應。
-
----
-
-### 2026-07-25 16:12:42  #MKT News
-
-【National Flood Control and Drought Relief Headquarters raises Guangdong flood/typhoon emergency response to Level 3】Typhoon Hongxia intensified to typhoon strength on the morning of July 25 and is forecast to make landfall along the coast between Hong Kong and Lufeng, Guangdong, between the night of July 25 and the morning of July 26. Forecast intensity: typhoon to strong typhoon, wind force 12–14 (35–42 m/s). Under the National Flood and Drought Emergency Response Plan and related rules, the National Flood Control and Drought Relief Headquarters upgraded Guangdong’s flood and typhoon emergency response to Level 3 at 16:00 on July 25 and simultaneously activated Level 4 responses for Jiangxi and Hunan.
-
----
-
-### 2026-07-25 16:08:08  #其他
-
-【全球首個“零碳機場”在內蒙古鄂爾多斯建成】7月25日，全球首個零碳機場技術成果釋出會在內蒙古鄂爾多斯舉行。經中國質量認證中心、中國交通運輸協會審定鑑定表明，鄂爾多斯伊金霍洛國際機場實現整體淨碳排放量達到了“零碳機場”標準，標誌著全球首個零碳機場正式建成，技術成果總體達到國際領先水平。（央視新聞）
-
----
-
-### 2026-07-25 16:07:41  #MKT News #Market Themes #China EV Leaders
-
-【Chery Group cumulative global sales top 20 mln vehicles】Chery Group said on its official account that on July 25, 2026 its cumulative global sales exceeded 20 million vehicles. The Fengyun A9, scheduled to go on sale the same day, will be the 20 millionth vehicle and delivered to a customer.
-
----
-
-### 2026-07-25 16:07:39  #公司
-
-【奇瑞集團全球累計銷量突破2000萬輛】據“奇瑞集團”公眾號訊息，2026年7月25日，奇瑞集團全球累計銷量正式突破2000萬輛。奇瑞集團表示，同一天即將迎來上市的風雲A9，將作為第2000萬輛車，正式交付給使用者。
-
----
-
-### 2026-07-25 16:04:40  #MKT News
-
-According to National Grid data, reactors 2-7 at Heysham in the UK are offline.
-
----
-
-### 2026-07-25 15:47:30  #國際
-
-加拿大據悉考慮提供 6.5 億加元支援烏克蘭冬季天然氣專案。
-
----
-
-### 2026-07-25 15:44:06  #國際
-
-烏克蘭和加拿大討論天然氣及核能領域的合作。
-
----
-
-### 2026-07-25 15:42:33  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #Copper
-
-【China's digital industry revenue reaches 39.6 tln yuan in 2025】The Cyberspace Administration of China’s National Informatization Development Report (2025) shows core digital industry value-added accounted for over 10.5% of GDP; digital industry revenue reached 39.6 tln yuan, up 8.8% YoY, while household digital consumption was 25.3 tln yuan, up 8.7% YoY. Network infrastructure upgrades continued: 5G base stations totaled 4.838 mln by end‑2025, about two‑thirds of prefecture‑level cities meet gigabit‑city standards, and active IPv6 users reached 869 mln.
-
----
-
-### 2026-07-25 15:34:53  #其他
-
-【颱風“紅霞”臨近 港珠澳大橋橋樑航道實施臨時交通管制】颱風“紅霞”已於7月25日早晨加強為颱風級（12級），預計“紅霞”將於25日夜間至26日早晨以颱風級或強颱風級登陸深圳至惠來一帶沿海，登陸時距離珠海市陸地約150公里。記者從港珠澳大橋海事局瞭解到，為做好防颱應對，港珠澳大橋海事局於7月25日10時20分將防熱帶氣旋響應由四級提升至三級，同時，於25日12時對港珠澳大橋橋樑航道實施臨時交通管制，禁止內河船舶進入港珠澳大橋橋樑航道。管制期間，港珠澳大橋海事局透過智慧海事系統，啟用區域電子圍欄實施精準管控，迴圈播發預警資訊，加強遠端監管，提醒航運企業及船舶嚴格執行各項防颱舉措。（央視新聞）
-
----
-
-### 2026-07-25 15:25:55  #公司 #其他
-
-國泰航空：受颱風紅霞影響，取消部分往返香港機場的航班。受影響的是7月26日凌晨1點15分至下午6點之間的航班，少量其他航班也將延誤。
-
----
-
-### 2026-07-25 15:24:49  #國際
-
-【黎巴嫩稱以軍行動致該國南部發生強烈爆炸】當地時間25日上午，黎巴嫩南部提爾地區馬沙阿曼蘇里發生強烈爆炸，周邊村莊均能聽到爆炸聲。黎巴嫩方面稱，此次爆炸系以色列國防軍所為。（央視新聞）
-
----
-
-### 2026-07-25 15:24:46  #MKT News #XAUUSD #Impact bullish #DXY
-
-【Lebanon says Israel Defense Forces action caused powerful blast in south】On the morning of the 25th local time, a powerful explosion struck Masha Aman Souri in the Tyre district of southern Lebanon, audible in surrounding villages. Lebanese authorities said the blast was caused by the Israel Defense Forces.
-
----
-
-### 2026-07-25 15:21:02  #公司 #國際 #原創
-
-【韓美科技巨頭達成價值9500億美元合作專案】韓國總統政策室長金容範週六表示，韓國企業集團與包括英偉達在內的全球科技巨頭達成協議，將推進一系列總價值達9500億美元的合作專案。這些專案包括一項長期協議，根據該協議，SK集團將向包括英偉達在內的全球科技公司供應價值7500億美元的高效能半導體。韓國企業和全球科技公司還同意共同投資建設總容量達5吉瓦、擁有200萬個圖形處理器（GPU）的大型人工智慧資料中心。韓國網際網路入口網站Naver將透過與英偉達的戰略投資協議以及與加拿大投資管理公司Brookfield Corp.的基礎設施供應協議，建設價值100億美元的全球人工智慧工廠。協議是在韓國總統李在明訪問舊金山期間舉行的一次高階別會議上達成的，與會者包括包括三星電子會長李在鎔和SK集團會長崔泰源，以及OpenAI執行長薩姆·奧特曼和英偉達CEO黃仁勳等。
-
----
-
-### 2026-07-25 15:20:15  #MKT News #Important
-
-【Greek security sources: ballistic missiles launched from Yemen targeting Yanbu refinery intercepted】Greek security sources said on Saturday an air-defence system in Saudi Arabia operated by Greek military personnel intercepted two ballistic missiles launched from Yemen that were aimed at the Yanbu refinery.
-
----
-
-### 2026-07-25 15:17:49  #MKT News
-
-Iran's Press TV reports long queues at petrol stations across Saudi Arabia after a Yemeni attack on a refinery.
-
----
-
-### 2026-07-25 15:16:48  #MKT News #Market Regions #Greater China #TCOM.O #Impact bearish
-
-【Trip.com Group announces 19 rectification measures after SAMR administrative penalty】The State Administration for Market Regulation (SAMR) today imposed an administrative penalty on Trip.com Group and required rectification. Trip.com said it fully accepts the decision, will strictly implement the requirements and has drawn up a remediation plan under SAMR guidance. The group published 19 measures across five areas: immediately cease exclusive partnership practices and guarantee hotels’ operational autonomy; stop unreasonable “lowest price online” demands and ensure hotels’ independent pricing; protect hotels’ legal rights and solicit merchant feedback to improve the business environment; strengthen consumer rights protection and service guarantees; and enhance compliance and establish durable governance mechanisms.
 
 ---

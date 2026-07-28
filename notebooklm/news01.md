@@ -1,7 +1,469 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-29 03:49:22_
-_本檔包含 3666 則快訊，約 668167 字_
+_更新時間：2026-07-29 05:18:02_
+_本檔包含 3686 則快訊，約 666960 字_
+
+---
+
+### 2026-07-29 05:17:16  #其他
+
+訊息人士：OpenAI 失控 AI 智慧體入侵另一家科技企業，非法取用其客戶賬戶資訊。
+
+---
+
+### 2026-07-29 05:15:33  #市場
+
+富時A50期指連續夜盤收漲0.22%，報14851點。
+
+---
+
+### 2026-07-29 05:15:30  #公司
+
+VISA執行長： 公司在產品研發、工程技術領域取得進展，正在落地多款人工智慧新型工具。公司不再僅依靠人工智慧提供輔助，現已在人工監督下運用人工智慧獨立完成各項工作與任務。 公司正在拆分產品開發團隊，將十人以上的大團隊重組為僅 2 至 4 人的小型靈活小組。
+
+---
+
+### 2026-07-29 05:05:22  #市場
+
+週二（7月28日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.7711元，較週一紐約尾盤跌56點，日內整體交投於6.7640-6.7737元區間。
+
+---
+
+### 2026-07-29 05:05:15  #其他
+
+SpaceXAI：GROK 4.5現已在GitHub Copilot上釋出。
+
+---
+
+### 2026-07-29 05:04:35  #MKT News
+
+SpaceXAI said GROK 4.5 is now available on GitHub Copilot.
+
+---
+
+### 2026-07-29 05:01:32  #其他
+
+【船隻支付370萬美元競拍費以加速透過巴拿馬運河】官方週二表示，一艘船近日在拍賣中支付了370萬美元，以換取更快速地透過巴拿馬運河。巴拿馬運河管理局表示，這一結果反映了“在特定時間節點對運河通行能力的需求”。運河管理局拒絕透露該船隻的名稱及與此次交易相關的其他細節。運河管理局指出，企業有時會根據商業優先順序、運營緊迫性以及全球供需動態，支付超過100萬美元的費用來確保預訂名額。此前已知的最高拍賣紀錄是今年4月份由一艘液化石油氣（LPG）運輸船創下的400萬美元。
+
+---
+
+### 2026-07-29 05:01:25  #市場
+
+【金價跌超1%，逼近4000美元】週二（7月28日）紐約尾盤，現貨黃金跌1.17%，報4028.70美元/盎司，整體持續走低，交投於4083.01-4011.82美元，僅僅北京時間06:00前後曾短暫上漲。COMEX黃金期貨跌1.11%，報4090.40美元/盎司。現貨白銀跌2.12%，報57.1299美元/盎司。COMEX白銀期貨跌2.50%，報57.335美元/盎司。COMEX銅期貨跌0.64%，報6.3380美元/磅。現貨鉑金跌1.12%，現貨鈀金跌2.16%。
+
+---
+
+### 2026-07-29 05:00:36  #國際
+
+OpenAI：我們認為，未來某一階段，前沿大模型的迭代增速或將達到極高水平，屆時全球需要對人工智慧的發展速度加以管控。我們期望攜手其他實驗室與開源社群，配合美國政府主導的相關工作，搭建能夠實現上述管控目標的工具與機制。
+
+---
+
+### 2026-07-29 04:59:25  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Gains as BCB Rate Cut Bets Grow — The Ibovespa rose 0.7% to close at 176,565 on Tuesday after Brazil's mid-July inflation report came in below expectations. Annual inflation slowed to 4.52%, below forecasts of 4.67% and down from 4.8% in June. The softer reading, together with June's lower-than-expected inflation data, reinforced expectations of a 25-basis-point Selic rate cut next week. Financials led the gains, with Banco do Brasil up 1.6% and B3 adding 1.8%. Bradesco (+0.3%) and Santander (+2.2%) are due to report earnings tomorrow. Utilities also rose, with Axia rising 1.9%. Ambev gained 1.5% ahead of its earnings release on Thursday. WEG extended gains, rising 0.6% after Goldman Sachs upgraded the stock to Neutral from Sell, citing more balanced market expectations. In contrast, Vivo (-6.3%) and TIM (-5.8%) tumbled after reporting results. TIM's mobile service revenue growth slowed to its weakest pace since 2021, while Vivo saw an 8% increase in depreciation and amortization expenses.
+
+---
+
+### 2026-07-29 04:54:13  #公司 #市場
+
+【7月29日美股成交額前20：蘋果市值首次觸及5萬億美元】週二美股成交額第4名蘋果收高0.94%，成交172.27億美元。蘋果公司週二盤中市值首次觸及5萬億美元，此前一天剛剛超越英偉達成為市值最高的上市公司。這家iPhone製造商將於週四公佈季度業績，其股價今年已上漲25%，跑贏其他大型科技同行。該股週二一度觸及342.89美元的高點，隨後小幅回落。去年蘋果在市值上落後於其萬億美元級別的同行，因投資者擔心該公司因控制投資並推遲期待已久的升級版Siri的釋出而錯失了AI熱潮。但最近敘事發生了翻轉，原因是人們擔心那些激進的技術支出者正在舉債並出現現金流為負，而缺乏明確的豐厚回報路徑。
+
+---
+
+### 2026-07-29 04:50:19  #公司 #國際
+
+ENPH（Enphase Energy）執行長在財報電話會議上表示：美國住宅太陽能市場已趨於穩定。
+
+---
+
+### 2026-07-29 04:46:20  #國際
+
+美國國家颶風中心：熱帶風暴福斯托持續向西北偏西方向移動並逐步減弱，未來數日夏威夷群島將出現巨浪。
+
+---
+
+### 2026-07-29 04:45:12  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Hits New Peak as Oil Prices Fall — The S&P/TSX Composite Index gained 0.5% to close at a record 35,750 on Wednesday, lifted by strength in financial and technology stocks. Oil prices fell as hopes for a resolution to the US-Iran conflict grew, easing energy-driven inflation concerns and pushing bond yields lower. RBC and BMO rose 1.1%, while TD Bank added 0.6%. Brookfield (+0.7%) announced it had raised about $2 billion for a private equity fund focused on investments the Middle East. Technology stocks soared after Celestica (+9.5%) beat second-quarter adjusted earnings estimates. Shopify rose 2.7%, while Constellation Software jumped 6.4%. Mining stocks fell as gold prices fell ahead of the Fed's policy decision. Agnico Eagle lost 1.6%, Barrick fell 1.7%, and WPM dropped 2.3%. Energy shares lost on lower oil prices, with Canadian Natural down 1.3% and Cenovus shedding 1.4%. Great-West Lifeco (+0%), First Quantum (-2.3%), Cardinal Energy (-1.2%), and Intact Financial (+2.3%) are due to report earnings after the bell.
+
+---
+
+### 2026-07-29 04:41:22  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Teradyne earnings above expectations at 2.47 USD — Teradyne (TER) released earnings per share at 2.47 USD, compared to market expectations of 2.06 USD.
+
+---
+
+### 2026-07-29 04:39:14  #MKT News
+
+U.S. officials said the agreement under discussion is a coordination agreement and would not include transit fees or other charges.
+
+---
+
+### 2026-07-29 04:39:08  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. API: crude oil output for week to July 24 +93,000 b/d; prior -90,000 b/d.
+
+---
+
+### 2026-07-29 04:39:00  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Runs (Jul.24) | actual 93000M | previous -90000M
+
+---
+
+### 2026-07-29 04:38:57  #MKT News #Commodities #Energy
+
+U.S. API weekly refined product imports for the week to July 24 rose to 297,000 b/d from 43,000 b/d a week earlier.
+
+---
+
+### 2026-07-29 04:38:49  #MKT News #Economic Calendar
+
+United States | API Weekly Petroleum Products Imports Change (Jul.24) | actual 297000M | previous 43000M
+
+---
+
+### 2026-07-29 04:38:44  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. API crude imports -399,000 barrels in the week to July 24; prior +355,000 barrels.
+
+---
+
+### 2026-07-29 04:38:36  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Imports Change (Jul.24) | actual -399000M | previous 355000M
+
+---
+
+### 2026-07-29 04:38:32  #MKT News #WTI #Impact bullish #Brent
+
+A U.S. official said Iran's demands in the Strait of Hormuz are excessively stringent, and that Oman, the United States and the international community are justified in rejecting them.
+
+---
+
+### 2026-07-29 04:38:30  #焦點 #國際
+
+美國官員：目前磋商的協議僅為協同合作協議，不涉及任何通行費與相關收費。
+
+---
+
+### 2026-07-29 04:38:30  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+API: U.S. heating oil stocks fell 125,000 barrels in the week to July 24, versus a 495,000-barrel build in the prior week.
+
+---
+
+### 2026-07-29 04:38:20  #MKT News #Economic Calendar
+
+United States | API Weekly Heating Oil Stocks Change (Jul.24) | actual -125000M | previous 495000M
+
+---
+
+### 2026-07-29 04:38:17  #其他
+
+Teradyne（泰瑞達）二季度淨營收13.3億美元，分析師預期12.2億美元。二季度調整後每股收益（EPS）為2.47美元，分析師預期2.04美元。預計三季度營收12億-13億美元，分析師預期10.4億美元。預計三季度調整後EPS為1.85-2.15美元，分析師預期1.46美元。
+
+---
+
+### 2026-07-29 04:38:15  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+API: U.S. Cushing crude stocks -273,000 bbl in week to July 24; prior -737,000 bbl.
+
+---
+
+### 2026-07-29 04:38:05  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Cushing Crude Oil Stocks Change (Jul.24) | actual -273000M | previous -737000M
+
+---
+
+### 2026-07-29 04:38:01  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US API: refinery oil inventories rose 355,000 bbl in the week to July 24, versus forecast +648,000 bbl and prior +1.759 mln bbl.
+
+---
+
+### 2026-07-29 04:37:56  #焦點 #國際
+
+美國官員：伊朗在霍爾木茲海峽問題上提出過分要求，阿曼、美國及國際社會均合理予以拒絕。
+
+---
+
+### 2026-07-29 04:37:49  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Distillate Stocks Change (Jul.24) | actual 355000M | consensus 648000M | previous 1759000M
+
+---
+
+### 2026-07-29 04:37:39  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. API weekly gasoline inventories for the week to July 24 rose 918,000 barrels versus a consensus draw of 1.204 mln barrels; prior -1.379 mln.
+
+---
+
+### 2026-07-29 04:37:29  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Gasoline Stocks Change (Jul.24) | actual 918000M | consensus -1204000M | previous -1379000M
+
+---
+
+### 2026-07-29 04:36:17  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Mondelez International earnings above expectations at 0.73 USD — Mondelez International (MDLZ) released earnings per share at 0.73 USD, compared to market expectations of 0.68 USD.
+
+---
+
+### 2026-07-29 04:36:17  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Waste Management earnings above expectations at 2.02 USD — Waste Management (WM) released earnings per share at 2.02 USD, compared to market expectations of 1.99 USD.
+
+---
+
+### 2026-07-29 04:35:08  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 1.03% Higher — The Dow Jones Index gained 537 points or 1.03 percent on Tuesday to close at 52748 points. Gains were led by Sherwin-Williams (8.45%), Coca-Cola (5.19%) and IBM (5.16%).
+
+---
+
+### 2026-07-29 04:34:40  #焦點 #國際
+
+美國至7月24日當週API原油庫存 -329.6萬桶，預期-135萬桶，前值260.3萬桶。
+
+---
+
+### 2026-07-29 04:34:36  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
+
+U.S. API crude stocks rose 3.296 mln bbl in the week to July 24, vs. an expected draw of 1.35 mln bbl and a prior build of 2.603 mln bbl.
+
+---
+
+### 2026-07-29 04:34:28  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Crude Oil Stocks Change (Jul.24) | actual 3296000M | consensus -1350000M | previous 2603000M
+
+---
+
+### 2026-07-29 04:24:42  #公司 #市場 #焦點
+
+【受希捷科技財報提振，美股儲存晶片概念股盤後走高】受希捷科技財報提振，美股儲存晶片概念股盤後走高，西部資料漲6.5%，SK海力士漲2.5%，美光科技漲0.8%，閃迪漲1%，希捷科技一度漲9%。
+
+---
+
+### 2026-07-29 04:21:17  #Trading Economics #Markets #Netherlands #Earnings #Importance 0
+
+NXP Semiconductors earnings above expectations at 3.61 USD — NXP Semiconductors (NXPI) released earnings per share at 3.61 USD, compared to market expectations of 3.50 USD.
+
+---
+
+### 2026-07-29 04:20:10  #MKT News #Important #WTI #Impact mixed #Brent
+
+U.S. API weekly crude inventories for the week to July 24 due in 10 minutes.
+
+---
+
+### 2026-07-29 04:19:18  #MKT News #NXPI.O #Impact bearish
+
+After an earnings release, NXP Semiconductors (NXPI.O) slid in after-hours trading, at one point dropping more than 9%.
+
+---
+
+### 2026-07-29 04:18:23  #其他
+
+【藤森慶子宣誓就任秘魯總統】秘魯當選總統藤森慶子28日在該國首都利馬宣誓就職，任期至2031年7月。藤森慶子當天在就職典禮上說，新政府將把應對厄爾尼諾現象和改善社會治安作為兩項國家緊急任務，同時加快基礎設施建設，推動青年就業、教育、社會保障等領域改革。她呼籲各政治力量團結合作，共同推動國家發展。（新華社）
+
+---
+
+### 2026-07-29 04:17:49  #公司 #市場
+
+福特釋出季度財報後，盤後漲幅進一步擴大，最新漲幅 7.0%。
+
+---
+
+### 2026-07-29 04:17:29  #公司
+
+Bloom Energy二季度調整後每股收益（EPS）為0.78美元，分析師預期0.40美元。二季度營收10.7億美元，分析師預期8.387億美元。預計全年營收39億-42億美元，公司原本預計34億-38億美元。
+
+---
+
+### 2026-07-29 04:17:21  #國際
+
+【中方：政府間談判是討論安理會改革問題唯一合法平臺】中國常駐聯合國代表團臨時代辦孫磊28日在聯大透過安理會改革政府間談判過渡決定後發言，指出政府間談判是討論安理會改革問題的唯一合法平臺。孫磊說，中方歡迎聯大以協商一致方式透過口頭決定，將本屆聯大安理會改革政府間談判技術性過渡到下屆聯大。政府間談判是討論安理會改革問題的唯一合法平臺。安理會改革事關各國重大利益。中方希望各方秉持戰略視野和長遠眼光，共同維護政府間談判主渠道地位，堅持會員國共識原則，在政府間談判繼續深入溝通、凝聚共識，確保改革程序朝著提升發展中國家的代表性和發言權的唯一正確方向發展，不斷行穩致遠。孫磊表示，中方願同各方一道，繼續推動安理會改革朝著符合會員國共同利益和聯合國事業健康發展的方向前進，為推動構建更加公正合理的全球治理體系作出積極貢獻。（新華社）
+
+---
+
+### 2026-07-29 04:16:33  #其他
+
+科磊第四財季營收36.6億美元，分析師預期36億美元。第四財季資本開支8930萬美元，分析師預期9630萬美元。預計第一財季營收38億-42億美元，分析師預期39.4億美元。
+
+---
+
+### 2026-07-29 04:15:55  #MKT News #NXPI.O #Impact bullish
+
+NXP Semiconductors (NXPI.O) reported Q2 2026 net income of $767 mln, up from $445 mln a year earlier.
+
+---
+
+### 2026-07-29 04:15:35  #其他
+
+市場訊息：英國首相伯納姆希望與私營部門建立合作關係。
+
+---
+
+### 2026-07-29 04:15:07  #其他
+
+【希捷科技第四財季營收為36.29億美元 高於市場預期】希捷科技第四財季營收為36.29億美元，高於市場預測的34.85億美元。預計第一財季營收為40億至42億美元，市場預測為37.49億美元。
+
+---
+
+### 2026-07-29 04:15:07  #MKT News #NXPI.O #Impact bullish
+
+NXP SEMI (NXPI.O) reported Q2 2026 revenue of $3.496 bln, up from $2.926 bln a year earlier.
+
+---
+
+### 2026-07-29 04:13:28  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Mixed as Chip Selloff Deepens — US equity indices closed mixed on Tuesday as chipmakers extended their selloff, while strength in software and defensive sectors supported the broader market. The S&P 500 gained 0.2%, the Nasdaq 100 fell 1%, and the Dow rose 537 points. Concerns over slowing AI infrastructure spending and the circular nature of data center investment weighed on compute and memory chipmakers. Micron slumped 8.8%, AMD lost 8.1%, Intel fell 5.9%, and Sandisk tumbled 14.2%. The sector also came under pressure after the strong IPO of China's CXMT in Shanghai boosted optimism over rising competition. Meanwhile, software and non-tech stocks outperformed, with Microsoft up 1.1% and Meta closing little changed ahead of earnings on Wednesday. Lower oil prices and renewed US signals favoring diplomacy with Iran eased credit costs and supported the broader market. Berkshire Hathaway gained 3.1%, while Visa rose 1.1% ahead of its earnings release. Coca-Cola jumped 7.1% after raising its full-year outlook.
+
+---
+
+### 2026-07-29 04:13:26  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Oil falls sharply on 28th】NYMEX September light sweet crude futures fell $3.35 to settle at $79.26 a barrel, down 4.06%. ICE Brent September futures fell $4.27 to $84.09 a barrel, down 4.83%.
+
+---
+
+### 2026-07-29 04:13:15  #市場
+
+【國際油價28日顯著下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌3.35美元，收於每桶79.26美元，跌幅為4.06%；9月交貨的倫敦布倫特原油期貨價格下跌4.27美元，收於每桶84.09美元，跌幅為4.83%。
+
+---
+
+### 2026-07-29 04:11:16  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Ford Motor earnings above expectations at 0.42 USD — Ford Motor (F) released earnings per share at 0.42 USD, compared to market expectations of 0.35 USD.
+
+---
+
+### 2026-07-29 04:11:15  #Trading Economics #Markets #Ireland #Earnings #Importance 0
+
+Seagate Technology earnings above expectations at 5.71 USD — Seagate Technology (STX) released earnings per share at 5.71 USD, compared to market expectations of 5.07 USD.
+
+---
+
+### 2026-07-29 04:11:15  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+KLA Corporation earnings above expectations at 1.05 USD — KLA Corporation (KLAC) released earnings per share at 1.05 USD, compared to market expectations of 1.00 USD.
+
+---
+
+### 2026-07-29 04:11:15  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Visa earnings above expectations at 3.32 USD — Visa (V) released earnings per share at 3.32 USD, compared to market expectations of 3.22 USD.
+
+---
+
+### 2026-07-29 04:11:02  #公司 #其他 #焦點 #國際
+
+恩智浦二季度營收35億美元，分析師預期34.6億美元。
+二季度每股收益（EPS）為3.02美元，上年同期1.75美元。
+二季度調整後自由現金流（FCF）為7.91億美元，分析師預期9.493億美元。
+預計三季度營收36.5億-38.5億美元，分析師預期37.1億美元。
+預計三季度EPS為3.21-3.64美元，預計調整後EPS為3.89-4.32美元（分析師預期3.71美元）。
+預計三季度調整後毛利潤率58%-59%，分析師預期58.6%。
+預計三季度調整後利潤13.1億-14.5億美元，分析師預期13.5億美元。
+
+---
+
+### 2026-07-29 04:09:55  #國際
+
+伊朗外長阿拉格奇：今日開展外交磋商工作，同歐盟外交與安全高階專員卡婭・卡拉斯通電話，雙方就近期地區及國際局勢、緩和緊張局勢、維護地區穩定安全的相關舉措交換意見。
+
+---
+
+### 2026-07-29 04:09:01  #MKT News #Market Regions #Europe & UK
+
+Iran's foreign minister held a phone call with the EU's High Representative for Foreign Affairs and Security Policy to discuss recent regional and international developments and ways to ease tensions and preserve regional stability and security.
+
+---
+
+### 2026-07-29 04:08:25  #其他
+
+光伏逆變器供應商Enphase二季度營收2.919億美元，分析師預期2.921億美元。二季度資本開支1440萬美元，分析師預期1410萬美元。
+
+---
+
+### 2026-07-29 04:06:31  #Trading Economics #Markets #Bermuda #Earnings #Importance 0
+
+Arch Capital earnings above expectations at 2.56 USD — Arch Capital (ACGL) released earnings per share at 2.56 USD, compared to market expectations of 2.41 USD.
+
+---
+
+### 2026-07-29 04:05:59  #其他
+
+VISA 第三季度淨營收116億美元，預估114億美元。第三季度調整後每股收益3.32美元，預估3.23美元。
+
+---
+
+### 2026-07-29 04:05:55  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100 #Impact mixed
+
+U.S. stocks on Tuesday, July 28: Dow Jones Industrial Average closed up 537.45 points (+1.03%) at 52,747.53; S&P 500 closed up 16.01 points (+0.22%) at 7,429.19; Nasdaq Composite closed down 55.17 points (-0.22%) at 24,876.91.
+
+---
+
+### 2026-07-29 04:05:35  #其他
+
+福特汽車二季度調整後每股收益（EPS）為0.42美元，分析師預期0.36美元。預計全年調整後EBIT為100億-110億美元，公司原本預計85億-105億美元。
+
+---
+
+### 2026-07-29 04:02:46  #其他
+
+思佳訊第三財季營收9.35億美元，分析師預期9.249億美元。
+
+---
+
+### 2026-07-29 04:02:02  #MKT News
+
+According to the Wall Street Journal, the Trump administration will end subsidies for Medicare drug plans.
+
+---
+
+### 2026-07-29 04:01:23  #MKT News #Important #MU.O #Impact bearish #SKHY.O #SNDK.O
+
+【US close: Micron, SK Hynix about 9% lower; SanDisk down over 50% from month-ago high】US stocks closed Tuesday: the Dow initially rose about 1%, the S&P 500 gained 0.2% and the Nasdaq fell 0.2%. SK Hynix (SKHY.O) dropped 8.98% and Micron Technology (MU.O) fell 8.85%. SanDisk (SNDK.O) plunged 14%, trading over 50% below its record high from a month ago. The Nasdaq Golden Dragon China Index rose 1.08%; NetEase (NTES.O) gained nearly 3%.
+
+---
+
+### 2026-07-29 04:01:10  #國際
+
+市場訊息：特朗普政府擬取消聯邦醫療保險藥品計劃補貼。
+
+---
+
+### 2026-07-29 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體漲跌不一】道指漲1.03%，標普500指數漲0.22%，納指跌0.23%。Iqvia Holdings Inc.漲14.04%，因塞特醫療漲9.30%，宣偉公司漲8.24%，閃迪跌14.25%，康寧跌12.19%。“七姐妹”方面：谷歌漲1.83%，微軟漲1.10%，蘋果漲0.93%，英偉達漲0.27%，Meta Platforms跌0.08%，亞馬遜跌0.23%，特斯拉跌0.58%。
+
+---
+
+### 2026-07-29 04:00:03  #市場 #焦點
+
+【納斯達克中國金龍指數收漲1.08%】汽車之家漲7.91%，陸金所控股漲6.51%，1藥網漲5.47%，理想汽車漲4.75%，亞朵集團漲4.47%。
+
+---
+
+### 2026-07-29 03:59:04  #國際
+
+美國地質調查局：索羅門群島基拉基拉西南 82 公里處發生 5 級地震。
+
+---
+
+### 2026-07-29 03:52:29  #MKT News
+
+【Ofgem proposes large upfront fees, stricter milestones for UK data centres to curb speculative use of grid capacity】Ofgem has proposed rules requiring data centre projects to post substantial upfront fees or financial guarantees — for example letters of credit, performance bonds or cash deposits — and to meet tighter project milestones to prevent speculative projects from long-term occupation of grid connection queues. The regulator will publish a consultation on Wednesday setting out fee calculation, how the National Grid ESO would hold and manage the funds, and the circumstances in which projects could lose queue priority and forfeit paid fees or guarantees.
 
 ---
 
@@ -21791,341 +22253,5 @@ Iran deputy foreign minister Gharibabadi said in talks in Islamabad the US side 
 ### 2026-07-27 21:51:17  #公司
 
 【淘金互動易腦機介面技術加速落地，這家公司正與國內下游腦機介面客戶開展技術合作】腦機介面技術加速落地，相關概念股表現強勢，創新醫療(002173)走出三天兩板。訊息面上，日前，我國科研團隊釋出一款新型腦電訊號採集裝置，在全球範圍內首次實現跨地域上千人同步腦電訊號採集，使得神經大模型訓練與腦機介面通用技術研發邁出關鍵一步。從上市公司來看，近日，多家企業在互動平臺回覆腦機介面布局情況。其中，美好醫療(301363)表示，公司正與國內下游腦機介面客戶深入開展工藝探索與技術合作，全力協助其從研發驗證走向規模化商業落地。人工耳蝸被視為腦機介面技術在臨床神經調控領域的重要應用方向之一。公司作為全球人工耳蝸龍頭企業的核心戰略供應商，擁有近15年的深度協作經驗。雙方在產品研發設計及量產轉化等方面建立了長期深入的合作，隨著客戶業務規模穩步增長，公司相關業務也將保持穩定發展。 另外，偉思醫療(688580)表示，公司在腦機介面領域聚焦“非侵入式”技術路線，致力於構建“診斷—治療—康復”的全週期閉環體系。公司將腦電（EEG）採集解碼技術與經顱磁刺激、康復機器人及功能性電刺激等裝置深度融合，以中風康復為例，患者僅需透過“運動想象”即可觸發康復機器人，形成“意念—執行—強化”的精準閉環，這正是未來神經康復的重要演進方向。而海格通訊(002465)表示，公司已經發布首款自研消費級產品——智慧安睡儀，為消費者構建可感知、可分析、可反饋、可持續最佳化的全週期主動睡眠管理新體驗，目前正處於市場推廣階段。
-
----
-
-### 2026-07-27 21:50:26  #其他
-
-瑞銀將微軟目標股價從510美元下調至480美元。
-
----
-
-### 2026-07-27 21:50:22  #市場
-
-【蘋果總市值再次超越英偉達 成為全球第一】隨著蘋果股價的上漲，英偉達股價的下跌，蘋果總市值再次超越英偉達。截至發稿，蘋果股價上漲0.96%，報336.220美元/股，總市值報4.94萬億美元。英偉達股價下跌2.64%，報201.380美元/股，總市值報4.87萬億美元。
-
----
-
-### 2026-07-27 21:50:15  #其他
-
-貝克休斯預計到2030年電力系統潛在市場機會約達1000億美元。
-
----
-
-### 2026-07-27 21:49:45  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Intuit Stock Price Hits 6-week High — Intuit shares increased to 304.13 USD, the highest since June 2026. Over the past 4 weeks, Intuit gained 19.19%, and in the last 12 months, it decreased 61.32%.
-
----
-
-### 2026-07-27 21:49:42  #其他
-
-貝克休斯表示，最大型超大規模企業的資本支出預計將從2025年的約3700億美元翻倍至2028年的近7500億美元。
-
----
-
-### 2026-07-27 21:49:30  #MKT News #Important #Star Stocks #MSFT.O #Impact bearish
-
-UBS cut its PT on Microsoft (MSFT.O) to $480 from $510.
-
----
-
-### 2026-07-27 21:49:20  #央行 #其他
-
-英國央行表示，APF金邊債券出售操作的覆蓋率為1.36。
-
----
-
-### 2026-07-27 21:49:17  #央行 #其他
-
-英國央行拍賣發行7.25億英鎊債券，共收到9.86億英鎊的投標。
-
----
-
-### 2026-07-27 21:48:35  #MKT News
-
-Baker Hughes expects global upstream spending to decline slightly YoY in 2026.
-
----
-
-### 2026-07-27 21:48:28  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-Baker Hughes says energy security supports continued investment in upstream and infrastructure markets.
-
----
-
-### 2026-07-27 21:48:17  #MKT News #CRM.N #Impact bullish #ORCL.N #NOW.N
-
-US software stocks rose in early trade: Salesforce (CRM.N) up more than 3%, Oracle (ORCL.N) up about 5%, ServiceNow (NOW.N) up nearly 4%.
-
----
-
-### 2026-07-27 21:47:38  #MKT News #Market Regions #Greater China
-
-【China's Ministry of Housing and Urban-Rural Development issues notice to strengthen urban bridge safety management】China has entered the flood season; the Ministry of Housing and Urban-Rural Development directed urban bridge authorities to intensify flood-season safety management, coordinating with meteorological, water conservancy and natural resources agencies to issue risk warnings and implement preventive and response measures for extreme weather and water- or geology-related hazards. Inspections should prioritize foundation scour, slope stability and drainage capacity; carry out comprehensive flood-safety risk and hazard remediation. Authorities must coordinate with river management to promptly clear channel accumulations and large drifting objects that could threaten bridges or obstruct flood discharge.
-
----
-
-### 2026-07-27 21:46:48  #其他
-
-【工業和資訊化部發文提升中小企業數字化轉型服務供給】工業和資訊化部27日對外公佈《“小快輕準”數字化產品和服務培育指引（2026年版）》，旨在引導服務商緊密圍繞中小企業數字化轉型需求，促進數字化產品與服務供需適配，加快中小企業數字化轉型。 “小快輕準”，即小型化、快速化、輕量化、精準化。指引要求，堅持需求牽引，以中小企業數字化轉型需求為導向，緊扣轉型痛點；鼓勵地方因地制宜細化培育標準，建立分類分級培育體系；加強政策協同和資源統籌，加快構建多方參與、優勢互補的中小企業數字化轉型服務供給生態。 指引圍繞小型化、快速化、輕量化、精準化以及數智化、共性基礎要求等部署一系列舉措，包括針對細分行業構建工業機理模型或行業知識庫；產品操作介面應簡單易用，充分考慮中小企業認知習慣；鼓勵產品深度融合人工智慧技術；杜絕隱性收費與捆綁銷售等。 組織實施方面，指引提出，要依託全國中小企業數字化轉型服務平臺及地方服務平臺、促進中心等載體，建設“小快輕準”數字化產品優質資源池，促進優質產品跨區域流通共享，降低中小企業選型成本和試錯風險等。（新華社）
-
----
-
-### 2026-07-27 21:46:34  #其他
-
-【我國將推動鄂爾多斯盆地東部區域煤層氣開發】從國家能源局瞭解到，我國將從分類開展資源勘探、梯次推進產能建設等方面，推動鄂爾多斯盆地東部區域煤層氣增儲上產，到2030年，鄂東區域探明地質儲量較“十四五”末增加6000億立方米以上，煤層氣產量180億立方米，其中深層煤層氣產量160億立方米以上。為構建新型能源體系提供有力支撐。（央視）
-
----
-
-### 2026-07-27 21:46:03  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【U.S. natural gas futures extend losses】U.S. natural gas futures fell as the prospect of August-driven power demand weakened and a U.S. pause on military strikes against Iran pushed oil and European gas prices lower. EBW Analytics analyst Eli Rubin said soft LNG feedgas demand and rising production have intensified the weak outlook, adding that while Texas heat may offer short-term support, cooling along the Gulf Coast and Southeast could cap upside for prices.
-
----
-
-### 2026-07-27 21:45:42  #公司 #市場 #國際
-
-美國軟體公司股價早盤上漲，賽富時股價上漲3.8%，甲骨文股價上漲5.3%，ServiceNow股價上漲3.3%，Atlassian上漲6%，AppLovin上漲4.8%，Adobe上漲3.5%，Intuit上漲2.2%。
-
----
-
-### 2026-07-27 21:45:25  #其他
-
-【住房城鄉建設部：進一步加強城市橋樑安全管理工作】住房城鄉建設部辦公廳釋出關於進一步加強城市橋樑安全管理工作的通知。通知提出，加強汛期橋樑安全管理。當前，全國已全面進入汛期，城市橋樑主管部門要加強與氣象、水利、自然資源等部門協同聯動，紮實做好極端天氣以及涉水、涉地質災害等風險提示及防範應對工作。重點聚焦橋樑基礎沖刷、邊坡穩定和暢通排水設施等，全面開展防汛安全風險隱患排查。主動協調河道管理部門，及時清理河道內堆積物及可能影響橋樑安全的大型漂流物，確保行洪暢通。強降雨期間，加密巡檢頻次，發現問題及時處置。降雨結束後，及時排查橋樑受損情況，儘快修復受損設施，總結防汛經驗，完善應急預案。強化橋樑定期檢測和加固改造。城市橋樑主管部門要指導督促管養單位加強城市橋樑養護工作。嚴格落實定期檢測要求，並加強過程管理，確保檢測資料真實可靠、技術狀況評估定級合理，橋樑檢測評估報告應完整歸檔備查。對存在安全隱患的，及時採取有效措施妥善進行處置。Ⅰ類養護橋樑被評定為不合格的、Ⅱ-Ⅴ類養護橋樑綜合評定或上、下部結構評定為D、E級的，要加快實施維修加固或改擴建，消除安全隱患。
-
----
-
-### 2026-07-27 21:44:57  #MKT News #Copper #Impact bearish #WTI #S&P500
-
-【Baltic Dry Index ends three-day rally as freight rates fall across vessel classes】The Baltic Dry Index fell 47 points (1.7%) to 2,696, ending a three-day rally and marking its first decline since July 21. The Capesize index dropped 85 points (2%) to 4,200, its lowest since July 23; Capesize daily earnings fell $770 to $34,587. The Panamax index fell 25 points (1.2%) to 1,999, its lowest since May 1; Panamax daily earnings fell $223 to $17,990. The Supramax index slipped 24 points (1.4%) to 1,670.
-
----
-
-### 2026-07-27 21:44:46  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bearish
-
-【NVIDIA five-year CDS posts largest intraday rise since November】On Monday, the cost of default protection on NVIDIA (NVDA.O) debt recorded its largest single-day intraday increase. Reports that NVIDIA is negotiating AI infrastructure deals exceeding $750bn prompted market concern over added leverage. ICE Data Services showed NVIDIA's five-year CDS widened about 14bps intraday on Monday, the biggest move since those swaps began trading in November.
-
----
-
-### 2026-07-27 21:43:48  #MKT News #Important #Market Regions #Europe & UK #ASML.O #Impact bearish
-
-ASML (ASML.O) fell more than 4%.
-
----
-
-### 2026-07-27 21:43:42  #公司
-
-【近300家公司出手、千億港元進場，騰訊友邦小米領銜港股回購潮】2026年以來，儘管港股市場主要指數震盪下行，但以騰訊控股、友邦保險、小米集團為代表的近300家港股上市公司頻頻出手，向市場傳遞看好自身價值的訊號。Wind資料顯示，截至7月27日，港股市場年內累計回購股份達75.18億股，回購總金額合計1006.67億港元，回購股份數量同比增長超50%。（21財經）
-
----
-
-### 2026-07-27 21:43:13  #MKT News
-
-Iran central bank governor said inflation began to be contained last month after implementation of measures and policy tools; July monthly inflation fell by half versus June.
-
----
-
-### 2026-07-27 21:43:11  #國際
-
-【AI需求驅動 香港6月商品出口貨值同比增53.4%】香港特區政府統計處27日釋出的對外商品貿易統計數字顯示，2026年6月香港整體出口和進口貨值同比分別增長53.4%和45.4%。 統計顯示，6月香港商品整體出口貨值為6411億港元，進口貨值為6930億港元，有形貿易逆差為520億港元，相當於商品進口貨值的7.5%。 前6個月，香港商品整體出口和進口貨值同比分別上升39.1%和40.6%，有形貿易逆差2946億港元，相當於商品進口貨值的7.9%。 按國家地區分析，6月香港輸往亞洲的整體出口貨值同比增長54.4%，其中對新加坡同比上升83%、對臺灣同比上升79.9%、對內地同比上升59.2%，輸往美國的整體出口貨值也同比上升114.3%；來自大部分主要供應地的進口貨值相比去年同期錄得升幅，其中韓國同比增長176.7%、越南同比增長106.8%、印度同比增長95.4%。 香港貿易發展局研究總監龐溟表示，上半年香港出口維持強勁增長，主要受惠於全球人工智慧加速應用，帶動電子產品需求持續強勁。與此同時，6月香港輸往亞洲以及內地、美國等主要出口目的地的整體出口貨值同比增速相比5月均有所加快。（新華社）
-
----
-
-### 2026-07-27 21:42:43  #市場
-
-阿斯麥(ASML.O)跌超4%。
-
----
-
-### 2026-07-27 21:42:31  #公司 #市場
-
-【債市重磅！降費紅包來了】中央國債登記結算有限責任公司7月27日釋出關於調降部分主營業務收費公開徵求意見的通知，宣佈調降部分主營業務收費，包括全免國際債券（熊貓債）發行登記服務費等五項措施，自2026年9月1日起至2028年12月31日止有效。通知稱，此舉旨在持續落實國家減稅降費精神，進一步促進金融基礎設施服務提質增效。“透過下調費率或取消費用，通知直接減輕了發行人和投資人的負擔，降低了二級市場的交易摩擦與中介成本，有助於提升債券市場的吸引力、流動性、活躍度及資金週轉效率。”中國首席經濟學家論壇成員龐溟表示。（上海證券報微信公眾號）
-
----
-
-### 2026-07-27 21:41:16  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Rises as Oil Prices Retreat — The Ibovespa edged up to trade above 174,500 on Monday as a pause in the Middle East conflict drove oil prices lower and eased inflation concerns. Crude prices fell after the US and Iran halted strikes over the weekend amid renewed diplomatic efforts, with President Donald Trump reportedly open to restarting peace talks. The pullback in oil prices supported financials, with Itaú and Bradesco each gaining nearly 1%. Utilities also advanced, led by Axia, up more than 2%, while Sabesp gained nearly 1%. WEG rose about 4% after Bradesco BBI upgraded the stock to Outperform and JPMorgan raised its rating to Overweight. The company also secured a contract to supply two generating units for Engie Brasil's Jaguara hydroelectric plant expansion. Embraer climbed more than 3% after reporting a record second-quarter backlog of $34.5 billion. In contrast, Petrobras fell nearly 3% as lower oil prices weighed on the stock.
-
----
-
-### 2026-07-27 21:41:14  #MKT News #S&P500 #Impact bullish
-
-S&P 500 Banks Index briefly hit a record high, rising more than 1%.
-
----
-
-### 2026-07-27 21:40:51  #市場
-
-【納斯達克中國金龍指數漲1.5%】納斯達克中國金龍指數盤初上漲1.5%，寶尊電商漲10%，禾賽科技漲超5%，金山雲、騰訊音樂、小馬智行、嗶哩嗶哩漲超4%。
-
----
-
-### 2026-07-27 21:40:08  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 1.16% Higher — The Dow Jones Index is gaining 603 points or 1.16 percent on Monday. Leading the gains are Sherwin-Williams (2.71%), Alphabet (2.60%) and Microsoft (2.51%).
-
----
-
-### 2026-07-27 21:40:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index Falls on Monday — The Baltic Dry Index declined 1.7% to 2,696 on Monday, ending a three-session winning streak. The Capesize Index, which tracks vessels typically carrying around 150,000 tonnes of bulk commodities such as iron ore and coal, fell 2% to 4,200, its lowest reading since July 23. The Panamax Index, covering ships that usually transport 60,000 to 70,000 tonnes of coal or grain, dropped 1.2% to 1,999, marking its weakest level in eight weeks. Among smaller vessel segments, the Supramax Index decreased 1.4% to 1,670.
-
----
-
-### 2026-07-27 21:39:37  #國際
-
-【伊朗稱不允許由美國決定何時戰何時止】伊朗外交部發言人巴加埃7月27日在例行記者會上表示，目前伊朗與阿曼正就霍爾木茲海峽問題展開會談，會談“與美國無關”，伊朗沒有與美國進行任何談判。他強調，伊朗絕對不會允許由美國來決定何時戰、何時止——不過，只要伊朗認為外交手段能夠維護國家利益，就一定會運用外交手段。（央視）
-
----
-
-### 2026-07-27 21:39:27  #市場
-
-羅素2000指數上漲1.3%。
-
----
-
-### 2026-07-27 21:39:26  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Lam Research Stock Price Hits 9-week Low — Lam Research shares decreased to 298.48 USD, the lowest since May 2026. Over the past 4 weeks, Lam Research lost 24.78%, and in the last 12 months, it increased 211.74%.
-
----
-
-### 2026-07-27 21:39:09  #國際
-
-聯合國人權事務高階專員：黎巴嫩和以色列將於8月4日在羅馬舉行新的會談。
-
----
-
-### 2026-07-27 21:37:54  #市場
-
-標普500銀行指數觸及歷史高點，最新上漲1.3%。
-
----
-
-### 2026-07-27 21:37:44  #MKT News
-
-UN High Commissioner for Human Rights says Lebanon and Israel will hold new talks in Rome on August 4.
-
----
-
-### 2026-07-27 21:36:11  #MKT News #Important
-
-The Swiss National Bank did not comment on media reports that it expects to keep its policy rate at zero through end-2027.
-
----
-
-### 2026-07-27 21:35:56  #其他
-
-納斯達克中國金龍指數漲超1%。
-
----
-
-### 2026-07-27 21:35:46  #MKT News #GM.N #Impact bullish
-
-General Motors (GM.N) rose 2.8%; Jefferies upgraded the stock to Buy from Hold.
-
----
-
-### 2026-07-27 21:35:42  #MKT News #Market Regions #Wall Street (US) #Europe & UK #S&P500 #Impact bullish #DAX #DXY #Impact bearish
-
-【Morgan Stanley: Global M&A volumes heading toward record levels】Morgan Stanley credit strategists said in a report global M&A activity is accelerating and heading toward record scale. US dealmaking remains robust; European transactions are also rising, supported by a softer European Commission stance on industry consolidation, high market fragmentation and generally healthy balance sheets.
-
----
-
-### 2026-07-27 21:35:36  #Trading Economics #Economy #Switzerland #Government Bond 10Y #Importance 0
-
-Swiss Bond Yield Falls on Oil Decline — Switzerland's 10-year government bond yield fell toward 0.4%, tracking declines in global bond yields and oil prices after the US and Iran paused hostilities, raising hopes for a diplomatic resolution that could de-escalate the conflict and restore shipping through the Strait of Hormuz. Meanwhile, the Trump administration imposed new tariffs on Swiss imports while keeping them within its previously announced 12.5% ceiling. On the monetary policy front, the Swiss National Bank is expected to keep its policy rate at 0% through 2027, with negative rates remaining a contingency rather than the base case. The SNB left rates unchanged in June, and while most economists do not expect the first rate hike until early 2028, currency markets are pricing in an increase by March next year. Swiss inflation slowed to 0.5% in June and is forecast to peak at just 0.8%, remaining comfortably within the SNB's 0%-2% target range.
-
----
-
-### 2026-07-27 21:34:51  #MKT News
-
-D-Wave Systems shares rose about 11% after AT&T said it would expand its quantum-computing collaboration with D-Wave.
-
----
-
-### 2026-07-27 21:34:43  #市場
-
-貝克休斯股價上漲 8.1%，創 4 月 24 日以來最大盤中漲幅。
-
----
-
-### 2026-07-27 21:34:39  #MKT News #Market Themes #AI Revolution
-
-【IDC China VP Wang Jiping: Industry still exploring AI-agent smartphone development path】IDC China vice president Wang Jiping said the industry remains in an active exploration phase for AI-agent smartphones. Proposed directions—cross-application task execution, agent-native operating systems and more immersive, proactive interaction models—all center on the personal AI experience. These innovations rely on high-performance, low-power designs, heterogeneous computing and cross-device connectivity; continued evolution of these underlying capabilities is driving AI agents toward scaled deployment.
-
----
-
-### 2026-07-27 21:34:24  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Rebound on Monday — US stocks rose on Monday, erasing the losses from last week as drop in energy prices softened the deteriorating macroeconomic backdrop. The S&P 500 gained 0.8%, while both the Dow and the Nasdaq 100 rose over 1%. The US paused strikes against Iran over the weekend and benchmark fuel prices eased on hopes that energy exports from the Middle East could return. The consequent drop in yields loosened financial conditions to reflect almost null expectations the Federal Reserve may deliver a rate hike this week, pushing back eventual tightening to September. Amazon, Meta, Microsoft, and Apple rose up to 2% ahead of their earnings in the coming days. Nvidia underperformed with a 0.5% loss after a $500 billion AI memory chip supply deal from SK Hynix and guaranteeing $250 billion for OpenAI to lease computing from a data center project, reigniting concerns that circular deals in AI computing could trigger contagion and unwind the AI trade should capex growth be halted.
-
----
-
-### 2026-07-27 21:34:18  #MKT News #RIVN.O #Impact bullish
-
-Rivian (RIVN.O) shares rose 3% after Piper Sandler upgraded its rating from MAINTAIN to OVERWEIGHT.
-
----
-
-### 2026-07-27 21:34:16  #MKT News #VOW3.DE #Impact bearish #DAX
-
-【Porsche to cut 5,000 jobs by 2035 under German plant accord】Porsche and labour representatives agreed to cut 5,000 jobs by 2035, the carmaker and its central works council said on Monday. Reductions will be achieved through natural attrition, expanded partial‑retirement schemes and voluntary exit agreements, and employment and plant‑operation guarantees at Porsche’s main German factories will be extended through end‑2035. The deal underscores mounting pressure on parent Volkswagen Group; Volkswagen warned last week that weakening operations could push group revenue down as much as 3% this year.
-
----
-
-### 2026-07-27 21:34:04  #MKT News #Commodities #Energy #JBLU.O #Impact bullish #UAL.O #DAL.O
-
-【International oil prices retreat; U.S. airline stocks climb】U.S. carriers rallied: Alaska Air and United Airlines up about 4%, Delta Air Lines +3.5%, JetBlue +6.5%, Southwest Airlines +2.4%; S&P Composite 1500 Passenger Airlines Index +3.5%.
-
----
-
-### 2026-07-27 21:34:01  #市場
-
-傑富瑞將通用汽車股票評級從持有上調至買入後，通用汽車股價上漲2.8%。
-
----
-
-### 2026-07-27 21:33:56  #其他
-
-英國金融行為監管局：在對約翰·伯福德取得沒收令後，其受害者有望追回大部分投資款項。
-
----
-
-### 2026-07-27 21:33:37  #公司 #市場 #國際
-
-D-Wave量子計算公司股價大漲約11%，此前美國電話電報公司（AT&T）擴大了雙方的量子計算合作。
-
----
-
-### 2026-07-27 21:33:30  #公司
-
-【IDC王吉平：行業對智慧體手機的發展路徑仍處探索階段】7月27日，在財新圓桌-AI系列活動“智慧體時代終端產業的下一站”專題活動上，IDC中國副總裁王吉平表示，當前行業對於智慧體手機等創新終端的發展路徑仍處於積極探索階段，無論是跨應用任務執行、智慧體原生系統，還是更具沉浸感和主動服務能力的新型互動形態，其本質都是圍繞個人AI體驗展開創新。而這些創新背後，離不開高效能、低功耗、異構計算以及跨裝置連線能力的支撐。相關底層能力的持續演進，正推動智慧體走向規模化落地。
-
----
-
-### 2026-07-27 21:32:56  #MKT News #Commodities #Energy #CVX.N #Impact bearish #XOM.N #COP.N
-
-【U.S. energy sector opens lower as oil majors fall】S&P 500 energy sector opened down 1% as international oil prices eased; Chevron (CVX.N) fell 1.8%, Exxon Mobil (XOM.N) dropped more than 2%, and ConocoPhillips (COP.N) slid 2.5%.
-
----
-
-### 2026-07-27 21:32:47  #市場
-
-原油價格跌至一週低點，郵輪運營商股價上漲，皇家加勒比郵輪上漲3%，挪威郵輪控股上漲3.5%，嘉年華郵輪上漲3.4%。
-
----
-
-### 2026-07-27 21:32:30  #市場
-
-標普超級綜合航空指數上漲高達4%。
-
----
-
-### 2026-07-27 21:32:21  #Trading Economics #Markets #Switzerland #Currency #Importance 0
-
-Swiss Franc Stays Near One-Year Low — The Swiss franc hovered around $0.82, remaining close to its weakest level in more than a year against the dollar, as investors weighed easing tensions between the US and Iran and the sharp decline in oil prices, which boosted risk appetite and reduced demand for safe-haven assets. Meanwhile, the Trump administration imposed new tariffs on Swiss imports while keeping them within its previously announced 12.5% ceiling. On monetary policy, the Swiss National Bank is expected to keep its policy rate at 0% through 2027, with any return to negative interest rates seen as a contingency rather than the baseline scenario. The SNB left rates unchanged in June, and most economists expect no change before early 2028. Currency markets, however, are more hawkish, pricing in a rate increase by March next year. Despite a temporary pickup linked to the Iran conflict, Swiss inflation slowed to 0.5% in June and is projected to peak at just 0.8%, remaining well within the SNB's 0%-2% target range.
 
 ---
