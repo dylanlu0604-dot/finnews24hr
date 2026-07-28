@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-29 05:52:44",
+  "updated": "2026-07-29 05:56:43",
   "count": 17499,
   "items": [
+    {
+      "id": "mkt:019faaba-0b56-7aab-8ed5-9b9d6b82f2f7",
+      "time": "2026-07-29 05:55:46",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Ukraine, Iran foreign ministers speak on attack on Iranian merchant vessel】Ukraine's foreign minister spoke by phone with Iran's foreign minister on the 28th about a recent Ukrainian strike on an Iranian merchant vessel. Ukraine urged avoidance of escalation and said its actions aim to defend Ukraine against Russian aggression and are not intended to target civilian ships or civilians. Iran said it likewise does not seek escalation, but called attacks on Iranian citizens or interests unacceptable and said any resulting losses must be compensated."
+    },
+    {
+      "id": "5013017",
+      "time": "2026-07-29 05:55:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭伊朗外長就襲船事件通電話】烏克蘭外長瑟比加與伊朗外長阿拉格齊28日就日前烏軍襲擊伊朗商船一事通電話。瑟比加呼籲避免事態升級，阿拉格齊強調相關損失必須得到賠償。瑟比加28日在社交媒體發文說，他當天致電阿拉格齊以進行“坦誠”的對話，目的是避免事態升級。烏方的一切行動旨在保衛烏克蘭、“抵禦俄羅斯侵略”，無意針對民用船隻和平民。同一天，阿拉格齊在社交媒體就此次通話發文表示，伊方同樣不尋求局勢升級，但任何針對伊朗公民或利益的攻擊都不可接受，由此造成的損失必須得到賠償。（新華社）"
+    },
+    {
+      "id": "5013016",
+      "time": "2026-07-29 05:53:27",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲決議前夕交易員分歧顯著，聯邦基金利率期貨頭寸創紀錄】隨著交易員為美聯儲可能於週三開始加息的風險進行佈局，與美聯儲基準利率掛鉤的期貨頭寸激增至歷史最高水平。將在本次利率決議公佈後結算的聯邦基金利率期貨未平倉合約數量，超過了2024年10月合約創下的此前紀錄；當時市場對美聯儲會議結果的分歧同樣很大。芝商所資料顯示，未平倉合約上週五達到909,714份，週一進一步增至967,136份。這一交易反映市場對美聯儲下一步行動的預期存在顯著分歧。"
+    },
     {
       "id": "mkt:019faab2-8c06-7aab-8ed5-9107861a00e6",
       "time": "2026-07-29 05:47:35",
@@ -160505,30 +160534,6 @@
         "其他"
       ],
       "text": "中央氣象臺7月22日06時繼續釋出強對流天氣黃色預警。"
-    },
-    {
-      "id": "5000923",
-      "time": "2026-07-22 05:53:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆任命露西·裡格比為倫敦金融城事務部長。"
-    },
-    {
-      "id": "5000922",
-      "time": "2026-07-22 05:53:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特軍方：伊朗發起襲擊後，本國防空部隊正在攔截無人機。居民聽到的任何爆炸聲，均是防空系統攔截無人機所產生。"
-    },
-    {
-      "id": "5000921",
-      "time": "2026-07-22 05:52:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：希望國際足聯主席因凡蒂諾出任下一任聯合國秘書長。"
     }
   ]
 }
