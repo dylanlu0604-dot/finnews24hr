@@ -1,7 +1,122 @@
 {
   "date": "2026-07-29",
-  "count": 400,
+  "count": 412,
   "items": [
+    {
+      "id": "5013069",
+      "time": "2026-07-29 06:47:55",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "SK 海力士：已與 10 家客戶簽訂長期晶片供貨協議。"
+    },
+    {
+      "id": "5013068",
+      "time": "2026-07-29 06:47:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK 海力士：受儲存晶片供貨量不足影響，手機、PC 相關業務出貨量將短期調整。"
+    },
+    {
+      "id": "5013067",
+      "time": "2026-07-29 06:47:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK 海力士：受 AI 業務規模激增、算力供給緊缺雙重因素驅動，各大科技巨頭客戶正加碼基礎設施投入、擴大儲存採購規模。"
+    },
+    {
+      "id": "5013066",
+      "time": "2026-07-29 06:46:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK 海力士：隨著人工智慧模型迭代最佳化、軟體效率持續提升，AI 應用普及度與易用性將進一步提高，進而拉動整體算力基礎設施需求增長。"
+    },
+    {
+      "id": "5013065",
+      "time": "2026-07-29 06:46:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK 海力士：2026 年 NAND 快閃記憶體市場需求同比將增長 15%-19%。"
+    },
+    {
+      "id": "mkt:019faae7-8944-7aab-8ed6-21a5073c1f31",
+      "time": "2026-07-29 06:45:28",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix (SKHY.O) reported Q2 operating profit of 60.5 tln won, versus a market estimate of 64 tln won."
+    },
+    {
+      "id": "5013064",
+      "time": "2026-07-29 06:45:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK 海力士：二季度 NAND 快閃記憶體平均售價環比上漲約 55%。"
+    },
+    {
+      "id": "te:markets:570515",
+      "time": "2026-07-29 06:45:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Appreciates by 1.27% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 1.27% increase."
+    },
+    {
+      "id": "mkt:019faae7-2adc-7aab-8ed6-1ab2702de836",
+      "time": "2026-07-29 06:45:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) said Q2 average DRAM selling prices rose about 30% QoQ."
+    },
+    {
+      "id": "5013063",
+      "time": "2026-07-29 06:44:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK 海力士：二季度 DRAM 平均銷售價格較一季度上漲約 30%。"
+    },
+    {
+      "id": "mkt:019faae6-f047-7aab-8ed6-1118b7b88533",
+      "time": "2026-07-29 06:44:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SKHY.O",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix (SKHY.O) reported Q2 revenue of 79 trillion won, below market consensus of 84 trillion won."
+    },
+    {
+      "id": "5013062",
+      "time": "2026-07-29 06:44:18",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "SK 海力士第二季度營業利潤 60.54 萬億韓元，市場預期 64.22 萬億韓元。"
+    },
     {
       "id": "mkt:019faae6-4633-7aab-8ed6-0bd4f5cc5b99",
       "time": "2026-07-29 06:44:05",
