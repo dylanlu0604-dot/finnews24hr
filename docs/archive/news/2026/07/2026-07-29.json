@@ -1,7 +1,71 @@
 {
   "date": "2026-07-29",
-  "count": 62,
+  "count": 69,
   "items": [
+    {
+      "id": "mkt:019fa99e-c8e9-7aab-8ed1-ec32cc14326b",
+      "time": "2026-07-29 00:46:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "According to Axios, NVIDIA CEO Jensen Huang met with U.S. Commerce Secretary Lutnick."
+    },
+    {
+      "id": "5012882",
+      "time": "2026-07-29 00:45:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普會見澤連斯基 討論軍事及外交議題】當地時間7月28日，美國總統特朗普在白宮橢圓形辦公室與烏克蘭總統澤連斯基舉行會晤。據悉，澤連斯基當日計劃在華盛頓出席已故參議員林賽·格雷厄姆的葬禮。會晤後，澤連斯基透過社交媒體表示，本次會晤成效顯著。會談核心聚焦烏克蘭獲取美國“愛國者”防空系統攔截彈生產許可等事宜。此外，雙方還討論了相關外交議題。澤連斯基強調，加快外交程序對推動地區和平至關重要。目前，兩國已確定由專項工作團隊對接，細化後續溝通與協調安排。（央視）"
+    },
+    {
+      "id": "5012881",
+      "time": "2026-07-29 00:45:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特：我們將絕不姑息，堅決維護自身安全與利益，並依據國際法對任何敵對行為予以有力回擊。"
+    },
+    {
+      "id": "5012880",
+      "time": "2026-07-29 00:45:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特：譴責葉門和伊拉克境內伊朗支援的民兵組織對石油設施及紅海船隻的襲擊。"
+    },
+    {
+      "id": "mkt:019fa99d-d80f-7aab-8ed1-e5068e45654a",
+      "time": "2026-07-29 00:45:21",
+      "tags": [
+        "MKT News",
+        "RTX.N",
+        "Impact bullish"
+      ],
+      "text": "【Trump meets Zelenskiy to discuss Patriot interceptor production license, diplomatic coordination】On July 28, U.S. President Trump met Ukrainian President Zelenskiy in the Oval Office; talks focused on Ukraine seeking a U.S. license to produce Patriot air‑defense interceptors and related matters. They also discussed diplomatic issues; Zelenskiy said accelerating diplomatic progress is critical for regional peace, and both sides agreed to form a dedicated working group to coordinate follow‑up communications and arrangements."
+    },
+    {
+      "id": "5012879",
+      "time": "2026-07-29 00:44:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "法院裁決顯示，諾和諾德必須就CagriSema臨床試驗相關宣告，應對美國股東訴訟的部分指控。"
+    },
+    {
+      "id": "5012878",
+      "time": "2026-07-29 00:44:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英偉達CEO黃仁勳與美國商務部長盧特尼克會面。"
+    },
     {
       "id": "5012877",
       "time": "2026-07-29 00:42:45",
