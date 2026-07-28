@@ -1,7 +1,130 @@
 {
-  "updated": "2026-07-28 20:04:05",
-  "count": 17466,
+  "updated": "2026-07-28 20:07:59",
+  "count": 17463,
   "items": [
+    {
+      "id": "5012443",
+      "time": "2026-07-28 20:07:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： Flow Traders 選定 CoreWeave 為其 AI 量化交易工具提供算力支撐。"
+    },
+    {
+      "id": "te:markets:570427",
+      "time": "2026-07-28 20:06:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "PACCAR earnings above expectations at 1.43 USD — PACCAR (PCAR) released earnings per share at 1.43 USD, compared to market expectations of 1.36 USD."
+    },
+    {
+      "id": "te:markets:570426",
+      "time": "2026-07-28 20:06:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Ecolab earnings above expectations at 2.09 USD — Ecolab (ECL) released earnings per share at 2.09 USD, compared to market expectations of 2.08 USD."
+    },
+    {
+      "id": "te:markets:570425",
+      "time": "2026-07-28 20:06:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Illinois Tool Works earnings above expectations at 2.84 USD — Illinois Tool Works (ITW) released earnings per share at 2.84 USD, compared to market expectations of 2.79 USD."
+    },
+    {
+      "id": "5012442",
+      "time": "2026-07-28 20:06:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "CARRIER GLOBAL盤前股價抹去漲幅，下跌4.3%。"
+    },
+    {
+      "id": "5012441",
+      "time": "2026-07-28 20:05:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國內政部長就柏林遊行遇襲事件表態：我們已擬定多項新措施的其他方案，目前已將重點放在可快速落地、切實可行的措施上。"
+    },
+    {
+      "id": "5012440",
+      "time": "2026-07-28 20:05:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佳都科技：擬轉讓參股公司部分股權並放棄優先購買及認購權】佳都科技公告稱，公司第十一屆董事會2026年第五次臨時會議審議透過多項議案。公司擬將持有的宇算星河11%股權（對應認繳出資額220萬元，未實繳）以2元價格轉讓給關聯方陳嬌及海口佳研，轉讓後持股22%並實繳出資。同時，公司放棄宇算星河41.09%股權優先購買權及兩次增資優先認購權。若宇算星河2027年度營收低於1億元且2027年底前投前估值低於10億元，公司有權要求陳嬌回購全部股權。上述交易均構成關聯交易，但不構成重大資產重組，無需提交股東會審議。"
+    },
+    {
+      "id": "5012439",
+      "time": "2026-07-28 20:05:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "貝寶(PayPal)執行長恩裡克·洛雷斯在電話會議上表示：“對我們創造長期股東價值的能力充滿信心。”。"
+    },
+    {
+      "id": "mkt:019fa89d-49fa-7aab-8ecb-519b2556500e",
+      "time": "2026-07-28 20:05:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "EURUSD"
+      ],
+      "text": "US ADP weekly private payrolls for the week to July 11 due in ten minutes."
+    },
+    {
+      "id": "5012438",
+      "time": "2026-07-28 20:04:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部部長助理蔡偉會見聯合國秘書長辦公廳主任拉特雷】2026年7月28日，外交部部長助理蔡偉會見來華訪問的聯合國秘書長辦公廳主任拉特雷，就中國同聯合國合作等問題交換意見。（外交部）"
+    },
+    {
+      "id": "mkt:019fa89d-12f3-7aab-8ecb-4a523fbd4fa8",
+      "time": "2026-07-28 20:04:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Assistant Foreign Minister Cai Wei meets UN Secretary-General's Office director Latre】On July 28, 2026, Assistant Foreign Minister Cai Wei met with Latre, director of the United Nations Secretary-General's Office, who was visiting China, and they exchanged views on China-UN cooperation."
+    },
+    {
+      "id": "5012437",
+      "time": "2026-07-28 20:04:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "利雅得航空：沙特航空貨運與利雅得貨運簽署聯運協議，以拓展全球連通性並加強貿易流通。"
+    },
+    {
+      "id": "5012436",
+      "time": "2026-07-28 20:04:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AXIA Energia美股盤前跌超10%】AXIA Energia美股盤前跌超10%，現報9.01美元。"
+    },
     {
       "id": "mkt:019fa89b-cb4f-7aab-8ecb-43ca613aef15",
       "time": "2026-07-28 20:03:30",
@@ -159980,162 +160103,6 @@
         "MKT News"
       ],
       "text": "U.S. Treasury Secretary Bessent said the Treasury is tracking the Ayatollah’s assets and is seeking to identify their locations."
-    },
-    {
-      "id": "mkt:019f8493-2185-7aab-8e28-31c6e4129114",
-      "time": "2026-07-21 20:07:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said he has observed a sharp decline in purchases of Iranian oil."
-    },
-    {
-      "id": "mkt:019f8492-cbf5-7aab-8e28-2f91b45144b0",
-      "time": "2026-07-21 20:07:20",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "Kyodo reports the Japanese government is considering raising the gasoline subsidy threshold from 170 yen to 175 yen in September."
-    },
-    {
-      "id": "5000374",
-      "time": "2026-07-21 20:07:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東望時代：持股5%以上股東一致行動人增持1.08%股份】東望時代公告稱，2026年6月11日至7月21日，持股5%以上股東東陽復創資訊科技有限公司的一致行動人野風集團等4方，透過集中競價方式合計增持公司股份909萬股，佔總股本的1.08%，增持金額約3264.99萬元。增持後，其一致行動人合計持股比例升至8.08%。本次增持系履行協議約定，不會導致控股股東或實控人變化，也不影響公司經營。"
-    },
-    {
-      "id": "5000373",
-      "time": "2026-07-21 20:07:08",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局指導行業協會發布肉製品行業自律公約】近日，在湖北省宜昌市召開的2026年中國肉製品行業高質量發展大會上，市場監管總局指導中國肉類協會聯合地方肉類協會共同制定併發布肉製品行業自律公約，150餘家肉製品生產經營企業積極響應。自律公約主要包括八個方面內容。一是落實主體責任，抓好企業主要負責人、食品安全總監、食品安全員“三類人”，做好日管控、周排查、月排程“三件事”，記好每日食品安全檢查記錄、每週食品安全排查治理報告、每月食品安全排程會議紀要“三本賬”，精準識別防控風險隱患。二是大力推廣“網際網路+AI監管”，鼓勵積極對接監管部門資訊化平臺，提升監管質效。三是嚴格原料管理，確保肉類原料可控可溯，堅決抵制採購、使用來源不明、未經檢驗檢疫或檢驗檢疫不合格、過期、走私的肉類原料。四是嚴守生產規範，依法取得食品生產許可，強化生產經營過程管控，堅決杜絕肉製品源性成分造假等摻雜摻假、以次充好等違法行為。五是合法合規新增，堅持食品新增劑非必要不新增，堅決杜絕肉製品生產“兩超一非”。六是規範標籤標識，確保產品標籤標識完整、真實、準確，保障消費者知情權和選擇權。七是提升人員素養，依法組織開展培訓考核，提升肉製品生產經營合規能力。八是堅持誠信合規經營，自覺維護公平競爭的市場秩序，自覺接受政府監管部門、行業協會、新聞媒體及廣大人民群眾的監督。（新華社）"
-    },
-    {
-      "id": "mkt:019f8492-784a-7aab-8e28-23e750d1f911",
-      "time": "2026-07-21 20:06:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "KYODO: Citing a funding shortfall, Japan is considering tapping reserve funds to add several hundred billion yen to extend gasoline subsidies until October."
-    },
-    {
-      "id": "5000372",
-      "time": "2026-07-21 20:06:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特：正在追蹤阿亞圖拉名下資產，有望公佈相關地址。"
-    },
-    {
-      "id": "5000371",
-      "time": "2026-07-21 20:06:44",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特：已看到伊朗石油購買量大幅減少。"
-    },
-    {
-      "id": "5000370",
-      "time": "2026-07-21 20:06:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本政府正考慮自9月起將汽油補貼閾值從現行的每升170日元上調至每升175日元。"
-    },
-    {
-      "id": "5000369",
-      "time": "2026-07-21 20:06:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：因資金不足，日本正考慮從儲備資金中動用數千億日元，追加投放截至10月的汽油補貼。"
-    },
-    {
-      "id": "5000368",
-      "time": "2026-07-21 20:05:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【廣發小盤LOF：提示二級市場交易價格溢價風險】廣發小盤LOF公告稱，近期該基金二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。7月21日，其二級市場收盤價為2.3730元，截至7月20日，基金份額淨值為2.1411元。若7月22日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。投資者可在二級市場交易或申贖基金，交易價格受多種因素影響，可能致投資者損失。目前基金運作正常，無應披露未披露重大資訊。"
-    },
-    {
-      "id": "mkt:019f8491-5329-7aab-8e28-1e338062d2cd",
-      "time": "2026-07-21 20:05:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the Treasury froze a crypto wallet holding $130 million linked to Iran's Islamic Revolutionary Guard Corps (IRGC)."
-    },
-    {
-      "id": "mkt:019f8491-1d46-7aab-8e28-17b898ef6e8c",
-      "time": "2026-07-21 20:05:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Baltic Dry Index slipped slightly to 2,670."
-    },
-    {
-      "id": "5000367",
-      "time": "2026-07-21 20:05:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝森特：凍結與伊朗伊斯蘭革命衛隊相關的 1.3 億美元加密貨幣錢包。"
-    },
-    {
-      "id": "mkt:019f8490-beb7-7aab-8e28-0f1bb3a54841",
-      "time": "2026-07-21 20:05:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "US ADP weekly employment change for the week to July 4 due in 10 minutes."
-    },
-    {
-      "id": "5000366",
-      "time": "2026-07-21 20:04:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【標普500多頭面臨新困境：經濟強勁勢頭由“福”轉“禍”】強勁的經濟增長勢頭正對美國股票交易員構成嚴峻挑戰。穩健的增長雖有利於企業盈利，但如果增長過快，反而可能成為股市的利空因素，導致“好訊息變成壞訊息”的局面。"
-    },
-    {
-      "id": "5000365",
-      "time": "2026-07-21 20:04:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【小崧股份：股價異常波動 存籌劃定增事項及擔保訴訟】小崧股份公告稱，公司股票於2026年7月20日、7月21日連續兩個交易日內日收盤價格跌幅偏離值累計超20%，屬異常波動。經核查，公司目前存在處於籌劃階段且尚未正式披露的向特定物件發行股票事項，該事項尚不確定，未經過董事會、股東會審議。此外，公司因曾為參股關聯公司國海建設8000萬元債務提供擔保，被捲入保理合同糾紛案件，截至公告披露日，未收到調解安排的最新進展。"
     }
   ]
 }

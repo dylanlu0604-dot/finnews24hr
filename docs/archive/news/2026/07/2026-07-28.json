@@ -1,7 +1,130 @@
 {
   "date": "2026-07-28",
-  "count": 2475,
+  "count": 2488,
   "items": [
+    {
+      "id": "5012443",
+      "time": "2026-07-28 20:07:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： Flow Traders 選定 CoreWeave 為其 AI 量化交易工具提供算力支撐。"
+    },
+    {
+      "id": "te:markets:570427",
+      "time": "2026-07-28 20:06:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "PACCAR earnings above expectations at 1.43 USD — PACCAR (PCAR) released earnings per share at 1.43 USD, compared to market expectations of 1.36 USD."
+    },
+    {
+      "id": "te:markets:570426",
+      "time": "2026-07-28 20:06:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Ecolab earnings above expectations at 2.09 USD — Ecolab (ECL) released earnings per share at 2.09 USD, compared to market expectations of 2.08 USD."
+    },
+    {
+      "id": "te:markets:570425",
+      "time": "2026-07-28 20:06:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Illinois Tool Works earnings above expectations at 2.84 USD — Illinois Tool Works (ITW) released earnings per share at 2.84 USD, compared to market expectations of 2.79 USD."
+    },
+    {
+      "id": "5012442",
+      "time": "2026-07-28 20:06:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "CARRIER GLOBAL盤前股價抹去漲幅，下跌4.3%。"
+    },
+    {
+      "id": "5012441",
+      "time": "2026-07-28 20:05:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國內政部長就柏林遊行遇襲事件表態：我們已擬定多項新措施的其他方案，目前已將重點放在可快速落地、切實可行的措施上。"
+    },
+    {
+      "id": "5012440",
+      "time": "2026-07-28 20:05:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佳都科技：擬轉讓參股公司部分股權並放棄優先購買及認購權】佳都科技公告稱，公司第十一屆董事會2026年第五次臨時會議審議透過多項議案。公司擬將持有的宇算星河11%股權（對應認繳出資額220萬元，未實繳）以2元價格轉讓給關聯方陳嬌及海口佳研，轉讓後持股22%並實繳出資。同時，公司放棄宇算星河41.09%股權優先購買權及兩次增資優先認購權。若宇算星河2027年度營收低於1億元且2027年底前投前估值低於10億元，公司有權要求陳嬌回購全部股權。上述交易均構成關聯交易，但不構成重大資產重組，無需提交股東會審議。"
+    },
+    {
+      "id": "5012439",
+      "time": "2026-07-28 20:05:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "貝寶(PayPal)執行長恩裡克·洛雷斯在電話會議上表示：“對我們創造長期股東價值的能力充滿信心。”。"
+    },
+    {
+      "id": "mkt:019fa89d-49fa-7aab-8ecb-519b2556500e",
+      "time": "2026-07-28 20:05:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "EURUSD"
+      ],
+      "text": "US ADP weekly private payrolls for the week to July 11 due in ten minutes."
+    },
+    {
+      "id": "5012438",
+      "time": "2026-07-28 20:04:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部部長助理蔡偉會見聯合國秘書長辦公廳主任拉特雷】2026年7月28日，外交部部長助理蔡偉會見來華訪問的聯合國秘書長辦公廳主任拉特雷，就中國同聯合國合作等問題交換意見。（外交部）"
+    },
+    {
+      "id": "mkt:019fa89d-12f3-7aab-8ecb-4a523fbd4fa8",
+      "time": "2026-07-28 20:04:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Assistant Foreign Minister Cai Wei meets UN Secretary-General's Office director Latre】On July 28, 2026, Assistant Foreign Minister Cai Wei met with Latre, director of the United Nations Secretary-General's Office, who was visiting China, and they exchanged views on China-UN cooperation."
+    },
+    {
+      "id": "5012437",
+      "time": "2026-07-28 20:04:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "利雅得航空：沙特航空貨運與利雅得貨運簽署聯運協議，以拓展全球連通性並加強貿易流通。"
+    },
+    {
+      "id": "5012436",
+      "time": "2026-07-28 20:04:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AXIA Energia美股盤前跌超10%】AXIA Energia美股盤前跌超10%，現報9.01美元。"
+    },
     {
       "id": "mkt:019fa89b-cb4f-7aab-8ecb-43ca613aef15",
       "time": "2026-07-28 20:03:30",
