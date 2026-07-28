@@ -1,7 +1,102 @@
 {
   "date": "2026-07-28",
-  "count": 2799,
+  "count": 2810,
   "items": [
+    {
+      "id": "5012646",
+      "time": "2026-07-28 21:37:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SpaceX股價下跌20%，較IPO發行價下跌10%，市值從峰值蒸發1.2萬億美元。"
+    },
+    {
+      "id": "5012645",
+      "time": "2026-07-28 21:37:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立新能源：“26立新K1”債券7月29日起在深交所上市】立新能源公告稱，公司2026年面向專業投資者公開發行科技創新低碳轉型掛鉤公司債券（第一期）符合深交所上市條件，將於2026年7月29日起上市，面向專業投資者中的機構投資者交易。該債券簡稱“26立新K1”，程式碼為524917.SZ，發行總額5億元，期限3+2年，發行日為2026年7月20 - 21日，起息日為7月21日，到期日為2031年7月21日。"
+    },
+    {
+      "id": "te:markets:570446",
+      "time": "2026-07-28 21:37:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 3"
+      ],
+      "text": "Chip Stocks Extend Selloff — US equity indices were mixed on Tuesday as chip producers extended their selloff, contrasting with relief on other sectors. The S&P 500 was flat, while the Nasdaq 100 dropped 1% and the Dow gained 300 points. Concerns of slowing spending on AI infrastructure and the circularity of data center investments grappled compute and memory producers, with Micron, Sandisk dropping more than 7%. The sector was also punished by optimism on Chinese competitors following the strong CXMT IPO in Shanghai. Nvidia fell 1.5% and AMD lost around 5%. On the other hand, software-facing and non-tech shares were mostly higher, with Microsoft and Meta inching higher ahead of their earnings tomorrow. Credit costs extended their pullback, tracking lower energy pries as US officials signaled willingness for diplomacy with Iran. JPMorgan was higher to set the pace for the banks, while Visa gained 1% ahead of its earning release after the close. Also, Coca Cola gained 3% after boosting its outlook."
+    },
+    {
+      "id": "5012644",
+      "time": "2026-07-28 21:36:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：南非下調小麥種植面積預估，降至 1929 年以來最低值。 南非將小麥種植面積預估下調至 47.39 萬公頃。"
+    },
+    {
+      "id": "5012643",
+      "time": "2026-07-28 21:36:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "希爾頓全球控股股價在公佈第二季度業績後下跌4.4%。"
+    },
+    {
+      "id": "5012642",
+      "time": "2026-07-28 21:36:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普全球股價大跌 7.7%，創下 2 月 10 日以來最大跌幅。"
+    },
+    {
+      "id": "5012641",
+      "time": "2026-07-28 21:35:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：南非委員會下調小麥種植面積預期。"
+    },
+    {
+      "id": "5012640",
+      "time": "2026-07-28 21:35:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數開盤下跌4.2%。"
+    },
+    {
+      "id": "5012639",
+      "time": "2026-07-28 21:35:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股醫療健康板塊盤初走高，禮來、諾和諾德漲超1%，聯合健康跟漲。"
+    },
+    {
+      "id": "mkt:019fa8ef-ca95-7aab-8ece-62e31e15c627",
+      "time": "2026-07-28 21:35:14",
+      "tags": [
+        "MKT News",
+        "UPS.N",
+        "Impact bearish"
+      ],
+      "text": "United Parcel Service (UPS.N) shares fell nearly 7%, marking their largest one-day drop since May."
+    },
+    {
+      "id": "5012638",
+      "time": "2026-07-28 21:35:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX美股盤初跌超4%，重新整理歷史低點，高點回落超50%。"
+    },
     {
       "id": "te:markets:570445",
       "time": "2026-07-28 21:34:15",

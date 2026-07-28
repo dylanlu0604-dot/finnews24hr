@@ -1,7 +1,102 @@
 {
-  "updated": "2026-07-28 21:35:22",
-  "count": 17514,
+  "updated": "2026-07-28 21:39:26",
+  "count": 17513,
   "items": [
+    {
+      "id": "5012646",
+      "time": "2026-07-28 21:37:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SpaceX股價下跌20%，較IPO發行價下跌10%，市值從峰值蒸發1.2萬億美元。"
+    },
+    {
+      "id": "5012645",
+      "time": "2026-07-28 21:37:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立新能源：“26立新K1”債券7月29日起在深交所上市】立新能源公告稱，公司2026年面向專業投資者公開發行科技創新低碳轉型掛鉤公司債券（第一期）符合深交所上市條件，將於2026年7月29日起上市，面向專業投資者中的機構投資者交易。該債券簡稱“26立新K1”，程式碼為524917.SZ，發行總額5億元，期限3+2年，發行日為2026年7月20 - 21日，起息日為7月21日，到期日為2031年7月21日。"
+    },
+    {
+      "id": "te:markets:570446",
+      "time": "2026-07-28 21:37:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 3"
+      ],
+      "text": "Chip Stocks Extend Selloff — US equity indices were mixed on Tuesday as chip producers extended their selloff, contrasting with relief on other sectors. The S&P 500 was flat, while the Nasdaq 100 dropped 1% and the Dow gained 300 points. Concerns of slowing spending on AI infrastructure and the circularity of data center investments grappled compute and memory producers, with Micron, Sandisk dropping more than 7%. The sector was also punished by optimism on Chinese competitors following the strong CXMT IPO in Shanghai. Nvidia fell 1.5% and AMD lost around 5%. On the other hand, software-facing and non-tech shares were mostly higher, with Microsoft and Meta inching higher ahead of their earnings tomorrow. Credit costs extended their pullback, tracking lower energy pries as US officials signaled willingness for diplomacy with Iran. JPMorgan was higher to set the pace for the banks, while Visa gained 1% ahead of its earning release after the close. Also, Coca Cola gained 3% after boosting its outlook."
+    },
+    {
+      "id": "5012644",
+      "time": "2026-07-28 21:36:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：南非下調小麥種植面積預估，降至 1929 年以來最低值。 南非將小麥種植面積預估下調至 47.39 萬公頃。"
+    },
+    {
+      "id": "5012643",
+      "time": "2026-07-28 21:36:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "希爾頓全球控股股價在公佈第二季度業績後下跌4.4%。"
+    },
+    {
+      "id": "5012642",
+      "time": "2026-07-28 21:36:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普全球股價大跌 7.7%，創下 2 月 10 日以來最大跌幅。"
+    },
+    {
+      "id": "5012641",
+      "time": "2026-07-28 21:35:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：南非委員會下調小麥種植面積預期。"
+    },
+    {
+      "id": "5012640",
+      "time": "2026-07-28 21:35:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數開盤下跌4.2%。"
+    },
+    {
+      "id": "5012639",
+      "time": "2026-07-28 21:35:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股醫療健康板塊盤初走高，禮來、諾和諾德漲超1%，聯合健康跟漲。"
+    },
+    {
+      "id": "mkt:019fa8ef-ca95-7aab-8ece-62e31e15c627",
+      "time": "2026-07-28 21:35:14",
+      "tags": [
+        "MKT News",
+        "UPS.N",
+        "Impact bearish"
+      ],
+      "text": "United Parcel Service (UPS.N) shares fell nearly 7%, marking their largest one-day drop since May."
+    },
+    {
+      "id": "5012638",
+      "time": "2026-07-28 21:35:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX美股盤初跌超4%，重新整理歷史低點，高點回落超50%。"
+    },
     {
       "id": "te:markets:570445",
       "time": "2026-07-28 21:34:15",
@@ -160535,110 +160630,6 @@
         "國際"
       ],
       "text": "英國國防大臣就俄羅斯在英國海岸外舉行軍事演習發表看法：此舉不負責任。"
-    },
-    {
-      "id": "5000541",
-      "time": "2026-07-21 21:39:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超0.5%，康迪車業跌10.40%，新氧跌2.38%，網易跌2.26%，名創優品跌2.07%，汽車之家跌2.05%。"
-    },
-    {
-      "id": "5000540",
-      "time": "2026-07-21 21:39:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "隨著油價上漲，美國國債收益率繼續攀升，30年期美債收益率升至5月21日以來的最高水平。"
-    },
-    {
-      "id": "mkt:019f84e7-0664-7aab-8e2b-2af59feb882c",
-      "time": "2026-07-21 21:39:20",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "UK defence secretary described Russia's military exercises near the British coast as irresponsible."
-    },
-    {
-      "id": "5000539",
-      "time": "2026-07-21 21:39:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【信長星在省國信集團高投集團調研】7月21日，江蘇省委書記信長星到江蘇省國信集團、江蘇高科技投資集團調研。他強調，要深入學習貫徹習近平總書記對江蘇工作重要講話精神，強化使命擔當，堅守主責主業，做強做優做大國有企業和國有資本，為推動全省高質量發展貢獻更大力量。（微訊江蘇）"
-    },
-    {
-      "id": "5000538",
-      "time": "2026-07-21 21:38:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "諾斯羅普・格魯曼釋出第二季度業績後股價下跌 8%。"
-    },
-    {
-      "id": "mkt:019f84e5-dd22-7aab-8e2b-20a9eba78495",
-      "time": "2026-07-21 21:38:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China rice institute touts one-line hybrid rice Yixi No.1 with >99% cloning efficiency】Wang Kejian’s team at the China Rice Research Institute reported development of a one-line hybrid rice, Yixi No.1, achieving stable cloning efficiency above 99% and normal fertility; the study was published July 21 in the journal Vita. By contrast, China’s widespread three-line and two-line hybrid systems suffer genetic segregation and cannot be used to retain seed, forcing annual production from male-sterile and restorer lines — a process the team says is technically demanding, higher risk and typically drives hybrid seed costs to more than 10x conventional rice seed. Experts note hybrid rice has been indispensable to China’s and global food security."
-    },
-    {
-      "id": "5000537",
-      "time": "2026-07-21 21:37:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【信長星在省國信集團高投集團調研】7月21日，江蘇省委書記信長星到江蘇省國信集團、江蘇高科技投資集團調研。他強調，要深入學習貫徹習近平總書記對江蘇工作重要講話精神，強化使命擔當，堅守主責主業，做強做優做大國有企業和國有資本，為推動全省高質量發展貢獻更大力量。（微訊江蘇）"
-    },
-    {
-      "id": "5000536",
-      "time": "2026-07-21 21:36:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "加彭國際債券在預算修正案更新後下跌多達1.2美分，2031年2月到期債券買價報85.3美分。"
-    },
-    {
-      "id": "5000535",
-      "time": "2026-07-21 21:36:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "通用汽車股價上漲2.6%，此前該公司公佈經調整後全年每股收益預測高於市場預期。"
-    },
-    {
-      "id": "5000534",
-      "time": "2026-07-21 21:36:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "孩之寶股價上漲12%，創2025年4月以來最大單日漲幅。"
-    },
-    {
-      "id": "5000533",
-      "time": "2026-07-21 21:35:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "真力公司股價下跌9%，此前該公司下調全年利潤預期注。"
-    },
-    {
-      "id": "5000532",
-      "time": "2026-07-21 21:35:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國雜交水稻育種科研取得重要進展】中國水稻研究所研究員王克劍團隊近日在雜交水稻育種領域取得重要進展“這一成果有望從根本上改變雜交稻依賴年年制種的傳統模式，為全球糧食安全提供新的技術支撐。”王克劍表示，從試驗田到廣泛落地應用仍面臨諸多挑戰。下一步，團隊將開展安全性測試與穩定性評價，持續攻關最佳化。（新華社）"
     }
   ]
 }
