@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-29 00:36:22",
-  "count": 17524,
+  "updated": "2026-07-29 00:40:14",
+  "count": 17527,
   "items": [
+    {
+      "id": "mkt:019fa998-9ba7-7aab-8ed1-bc81242d3bdf",
+      "time": "2026-07-29 00:39:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said Tehran and the US are still exchanging information, but Tehran has not requested negotiations in recent days."
+    },
+    {
+      "id": "mkt:019fa998-550e-7aab-8ed1-b0223eb09a28",
+      "time": "2026-07-29 00:39:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's deputy foreign minister said the US formed a three-party committee with Israel and Lebanon, which violates the memorandum of understanding."
+    },
+    {
+      "id": "5012868",
+      "time": "2026-07-29 00:39:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗副外長：過去15天未收到與美方進行談判的請求。"
+    },
+    {
+      "id": "mkt:019fa997-0478-7aab-8ed1-aa1114e43e8c",
+      "time": "2026-07-29 00:37:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry condemned a further attack on Jordan and voiced support for Jordan taking all measures to safeguard its sovereignty and security."
+    },
     {
       "id": "5012867",
       "time": "2026-07-29 00:35:39",
@@ -160691,16 +160728,6 @@
         "其他"
       ],
       "text": "市場訊息：迪士尼在電視業務與影視製片部門裁員數百人。"
-    },
-    {
-      "id": "mkt:019f858a-fd93-7aab-8e2f-4d08dc962990",
-      "time": "2026-07-22 00:38:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【White House announces trade agreement with Jordan】The White House said on July 21 that President Trump announced a trade agreement with Jordan that will remove long-standing trade barriers for U.S. exporters and open new market access for key U.S. industries, building on bilateral economic ties including the U.S.-Jordan free trade agreement in force since Dec. 17, 2001."
     }
   ]
 }
