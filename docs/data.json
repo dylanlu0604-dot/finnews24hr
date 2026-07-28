@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-29 02:50:46",
-  "count": 17597,
+  "updated": "2026-07-29 02:54:40",
+  "count": 17601,
   "items": [
+    {
+      "id": "mkt:019faa11-aff6-7aab-8ed3-fc590fb18fac",
+      "time": "2026-07-29 02:51:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $84.09 per barrel, down $4.27 or 4.83%."
+    },
+    {
+      "id": "mkt:019faa11-a1d8-7aab-8ed3-f14a20d35a86",
+      "time": "2026-07-29 02:51:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "GD.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. approved a deal with General Dynamics for next-generation submarines."
+    },
+    {
+      "id": "5012966",
+      "time": "2026-07-29 02:50:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯總統藤森：政府將加大公共和私人投資力度，重點發展道路、港口及機場等\"生產性基礎設施\"。"
+    },
+    {
+      "id": "5012965",
+      "time": "2026-07-29 02:50:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨收於每桶84.09美元，下跌4.27美元，跌幅4.83%。"
+    },
     {
       "id": "mkt:019faa0e-8ef3-7aab-8ed3-eeb1e2c853c6",
       "time": "2026-07-29 02:48:28",
