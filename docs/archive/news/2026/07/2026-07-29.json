@@ -1,7 +1,58 @@
 {
   "date": "2026-07-29",
-  "count": 194,
+  "count": 199,
   "items": [
+    {
+      "id": "5012955",
+      "time": "2026-07-29 02:23:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【藤森慶子宣誓就任秘魯總統】當地時間7月28日，秘魯當選總統藤森慶子在國會宣誓就職，正式就任秘魯總統，任期五年。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fa9f5-b1c8-7aab-8ed3-a0d60766a5e6",
+      "time": "2026-07-29 02:21:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Israel’s goal is aligned with Trump’s: to prevent Iran from obtaining nuclear weapons."
+    },
+    {
+      "id": "5012954",
+      "time": "2026-07-29 02:20:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：OpenAI稱在API中引入了兩種新的轉錄模型，GPT-Live-Transcribe和GPT-Transcribe。這兩個模型都能更好地理解上下文，並能更準確地轉錄真實世界的音訊，涵蓋各種口音和語言，包括短語、數字、專業術語以及在嘈雜背景噪音下的語音。"
+    },
+    {
+      "id": "mkt:019fa9f4-e46b-7aab-8ed3-99ac93795ceb",
+      "time": "2026-07-29 02:20:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "SGO.PA",
+        "Impact bullish",
+        "MSFT.O"
+      ],
+      "text": "French builder Saint-Gobain signed a framework agreement with Microsoft to further consolidate its AI leadership in the construction sector."
+    },
+    {
+      "id": "te:markets:570491",
+      "time": "2026-07-29 02:20:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Drops by 2.11% — Top commodity losers are Silver (-2.11%), Silicon (-1.33%) and Gold (-1.20%)."
+    },
     {
       "id": "mkt:019fa9f2-9e37-7aab-8ed3-956921390c78",
       "time": "2026-07-29 02:17:57",
