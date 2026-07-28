@@ -1,7 +1,168 @@
 {
   "date": "2026-07-29",
-  "count": 258,
+  "count": 273,
   "items": [
+    {
+      "id": "te:markets:570498",
+      "time": "2026-07-29 04:13:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Mixed as Chip Selloff Deepens — US equity indices closed mixed on Tuesday as chipmakers extended their selloff, while strength in software and defensive sectors supported the broader market. The S&P 500 gained 0.2%, the Nasdaq 100 fell 1%, and the Dow rose 537 points. Concerns over slowing AI infrastructure spending and the circular nature of data center investment weighed on compute and memory chipmakers. Micron slumped 8.8%, AMD lost 8.1%, Intel fell 5.9%, and Sandisk tumbled 14.2%. The sector also came under pressure after the strong IPO of China's CXMT in Shanghai boosted optimism over rising competition. Meanwhile, software and non-tech stocks outperformed, with Microsoft up 1.1% and Meta closing little changed ahead of earnings on Wednesday. Lower oil prices and renewed US signals favoring diplomacy with Iran eased credit costs and supported the broader market. Berkshire Hathaway gained 3.1%, while Visa rose 1.1% ahead of its earnings release. Coca-Cola jumped 7.1% after raising its full-year outlook."
+    },
+    {
+      "id": "mkt:019faa5c-5a89-7aab-8ed4-aa9cbce80d04",
+      "time": "2026-07-29 04:13:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil falls sharply on 28th】NYMEX September light sweet crude futures fell $3.35 to settle at $79.26 a barrel, down 4.06%. ICE Brent September futures fell $4.27 to $84.09 a barrel, down 4.83%."
+    },
+    {
+      "id": "5012989",
+      "time": "2026-07-29 04:13:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價28日顯著下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌3.35美元，收於每桶79.26美元，跌幅為4.06%；9月交貨的倫敦布倫特原油期貨價格下跌4.27美元，收於每桶84.09美元，跌幅為4.83%。"
+    },
+    {
+      "id": "te:markets:570497",
+      "time": "2026-07-29 04:11:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Ford Motor earnings above expectations at 0.42 USD — Ford Motor (F) released earnings per share at 0.42 USD, compared to market expectations of 0.35 USD."
+    },
+    {
+      "id": "te:markets:570496",
+      "time": "2026-07-29 04:11:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Ireland",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Seagate Technology earnings above expectations at 5.71 USD — Seagate Technology (STX) released earnings per share at 5.71 USD, compared to market expectations of 5.07 USD."
+    },
+    {
+      "id": "te:markets:570495",
+      "time": "2026-07-29 04:11:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "KLA Corporation earnings above expectations at 1.05 USD — KLA Corporation (KLAC) released earnings per share at 1.05 USD, compared to market expectations of 1.00 USD."
+    },
+    {
+      "id": "te:markets:570494",
+      "time": "2026-07-29 04:11:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Visa earnings above expectations at 3.32 USD — Visa (V) released earnings per share at 3.32 USD, compared to market expectations of 3.22 USD."
+    },
+    {
+      "id": "5012988",
+      "time": "2026-07-29 04:11:02",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "恩智浦二季度營收35億美元，分析師預期34.6億美元。\n二季度每股收益（EPS）為3.02美元，上年同期1.75美元。\n二季度調整後自由現金流（FCF）為7.91億美元，分析師預期9.493億美元。\n預計三季度營收36.5億-38.5億美元，分析師預期37.1億美元。\n預計三季度EPS為3.21-3.64美元，預計調整後EPS為3.89-4.32美元（分析師預期3.71美元）。\n預計三季度調整後毛利潤率58%-59%，分析師預期58.6%。\n預計三季度調整後利潤13.1億-14.5億美元，分析師預期13.5億美元。"
+    },
+    {
+      "id": "5012987",
+      "time": "2026-07-29 04:09:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格奇：今日開展外交磋商工作，同歐盟外交與安全高階專員卡婭・卡拉斯通電話，雙方就近期地區及國際局勢、緩和緊張局勢、維護地區穩定安全的相關舉措交換意見。"
+    },
+    {
+      "id": "mkt:019faa58-4e62-7aab-8ed4-a08406759c8c",
+      "time": "2026-07-29 04:09:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Iran's foreign minister held a phone call with the EU's High Representative for Foreign Affairs and Security Policy to discuss recent regional and international developments and ways to ease tensions and preserve regional stability and security."
+    },
+    {
+      "id": "5012986",
+      "time": "2026-07-29 04:08:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "光伏逆變器供應商Enphase二季度營收2.919億美元，分析師預期2.921億美元。二季度資本開支1440萬美元，分析師預期1410萬美元。"
+    },
+    {
+      "id": "te:markets:570493",
+      "time": "2026-07-29 04:06:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bermuda",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Arch Capital earnings above expectations at 2.56 USD — Arch Capital (ACGL) released earnings per share at 2.56 USD, compared to market expectations of 2.41 USD."
+    },
+    {
+      "id": "5012985",
+      "time": "2026-07-29 04:05:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "VISA 第三季度淨營收116億美元，預估114億美元。第三季度調整後每股收益3.32美元，預估3.23美元。"
+    },
+    {
+      "id": "mkt:019faa55-7670-7aab-8ed4-9b3967478db1",
+      "time": "2026-07-29 04:05:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "U.S. stocks on Tuesday, July 28: Dow Jones Industrial Average closed up 537.45 points (+1.03%) at 52,747.53; S&P 500 closed up 16.01 points (+0.22%) at 7,429.19; Nasdaq Composite closed down 55.17 points (-0.22%) at 24,876.91."
+    },
+    {
+      "id": "5012984",
+      "time": "2026-07-29 04:05:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "福特汽車二季度調整後每股收益（EPS）為0.42美元，分析師預期0.36美元。預計全年調整後EBIT為100億-110億美元，公司原本預計85億-105億美元。"
+    },
     {
       "id": "5012983",
       "time": "2026-07-29 04:02:46",

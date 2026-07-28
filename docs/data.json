@@ -1,7 +1,168 @@
 {
-  "updated": "2026-07-29 04:04:51",
-  "count": 17536,
+  "updated": "2026-07-29 04:15:13",
+  "count": 17530,
   "items": [
+    {
+      "id": "te:markets:570498",
+      "time": "2026-07-29 04:13:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Mixed as Chip Selloff Deepens — US equity indices closed mixed on Tuesday as chipmakers extended their selloff, while strength in software and defensive sectors supported the broader market. The S&P 500 gained 0.2%, the Nasdaq 100 fell 1%, and the Dow rose 537 points. Concerns over slowing AI infrastructure spending and the circular nature of data center investment weighed on compute and memory chipmakers. Micron slumped 8.8%, AMD lost 8.1%, Intel fell 5.9%, and Sandisk tumbled 14.2%. The sector also came under pressure after the strong IPO of China's CXMT in Shanghai boosted optimism over rising competition. Meanwhile, software and non-tech stocks outperformed, with Microsoft up 1.1% and Meta closing little changed ahead of earnings on Wednesday. Lower oil prices and renewed US signals favoring diplomacy with Iran eased credit costs and supported the broader market. Berkshire Hathaway gained 3.1%, while Visa rose 1.1% ahead of its earnings release. Coca-Cola jumped 7.1% after raising its full-year outlook."
+    },
+    {
+      "id": "mkt:019faa5c-5a89-7aab-8ed4-aa9cbce80d04",
+      "time": "2026-07-29 04:13:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil falls sharply on 28th】NYMEX September light sweet crude futures fell $3.35 to settle at $79.26 a barrel, down 4.06%. ICE Brent September futures fell $4.27 to $84.09 a barrel, down 4.83%."
+    },
+    {
+      "id": "5012989",
+      "time": "2026-07-29 04:13:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價28日顯著下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌3.35美元，收於每桶79.26美元，跌幅為4.06%；9月交貨的倫敦布倫特原油期貨價格下跌4.27美元，收於每桶84.09美元，跌幅為4.83%。"
+    },
+    {
+      "id": "te:markets:570497",
+      "time": "2026-07-29 04:11:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Ford Motor earnings above expectations at 0.42 USD — Ford Motor (F) released earnings per share at 0.42 USD, compared to market expectations of 0.35 USD."
+    },
+    {
+      "id": "te:markets:570496",
+      "time": "2026-07-29 04:11:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Ireland",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Seagate Technology earnings above expectations at 5.71 USD — Seagate Technology (STX) released earnings per share at 5.71 USD, compared to market expectations of 5.07 USD."
+    },
+    {
+      "id": "te:markets:570495",
+      "time": "2026-07-29 04:11:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "KLA Corporation earnings above expectations at 1.05 USD — KLA Corporation (KLAC) released earnings per share at 1.05 USD, compared to market expectations of 1.00 USD."
+    },
+    {
+      "id": "te:markets:570494",
+      "time": "2026-07-29 04:11:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Visa earnings above expectations at 3.32 USD — Visa (V) released earnings per share at 3.32 USD, compared to market expectations of 3.22 USD."
+    },
+    {
+      "id": "5012988",
+      "time": "2026-07-29 04:11:02",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "恩智浦二季度營收35億美元，分析師預期34.6億美元。\n二季度每股收益（EPS）為3.02美元，上年同期1.75美元。\n二季度調整後自由現金流（FCF）為7.91億美元，分析師預期9.493億美元。\n預計三季度營收36.5億-38.5億美元，分析師預期37.1億美元。\n預計三季度EPS為3.21-3.64美元，預計調整後EPS為3.89-4.32美元（分析師預期3.71美元）。\n預計三季度調整後毛利潤率58%-59%，分析師預期58.6%。\n預計三季度調整後利潤13.1億-14.5億美元，分析師預期13.5億美元。"
+    },
+    {
+      "id": "5012987",
+      "time": "2026-07-29 04:09:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格奇：今日開展外交磋商工作，同歐盟外交與安全高階專員卡婭・卡拉斯通電話，雙方就近期地區及國際局勢、緩和緊張局勢、維護地區穩定安全的相關舉措交換意見。"
+    },
+    {
+      "id": "mkt:019faa58-4e62-7aab-8ed4-a08406759c8c",
+      "time": "2026-07-29 04:09:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Iran's foreign minister held a phone call with the EU's High Representative for Foreign Affairs and Security Policy to discuss recent regional and international developments and ways to ease tensions and preserve regional stability and security."
+    },
+    {
+      "id": "5012986",
+      "time": "2026-07-29 04:08:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "光伏逆變器供應商Enphase二季度營收2.919億美元，分析師預期2.921億美元。二季度資本開支1440萬美元，分析師預期1410萬美元。"
+    },
+    {
+      "id": "te:markets:570493",
+      "time": "2026-07-29 04:06:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bermuda",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Arch Capital earnings above expectations at 2.56 USD — Arch Capital (ACGL) released earnings per share at 2.56 USD, compared to market expectations of 2.41 USD."
+    },
+    {
+      "id": "5012985",
+      "time": "2026-07-29 04:05:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "VISA 第三季度淨營收116億美元，預估114億美元。第三季度調整後每股收益3.32美元，預估3.23美元。"
+    },
+    {
+      "id": "mkt:019faa55-7670-7aab-8ed4-9b3967478db1",
+      "time": "2026-07-29 04:05:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "U.S. stocks on Tuesday, July 28: Dow Jones Industrial Average closed up 537.45 points (+1.03%) at 52,747.53; S&P 500 closed up 16.01 points (+0.22%) at 7,429.19; Nasdaq Composite closed down 55.17 points (-0.22%) at 24,876.91."
+    },
+    {
+      "id": "5012984",
+      "time": "2026-07-29 04:05:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "福特汽車二季度調整後每股收益（EPS）為0.42美元，分析師預期0.36美元。預計全年調整後EBIT為100億-110億美元，公司原本預計85億-105億美元。"
+    },
     {
       "id": "5012983",
       "time": "2026-07-29 04:02:46",
@@ -160641,195 +160802,6 @@
         "Impact bearish"
       ],
       "text": "【Zelenskiy dismisses armed forces commander Sersky amid nationwide protests】Ukraine President Zelenskiy has dismissed Armed Forces Commander-in-Chief Sersky and appointed Joint Forces commander Mykhailo Drlapati as his replacement, the Kyiv Independent reports. The move comes amid large protests across Kyiv and other cities demanding Sersky’s removal and the reinstatement of popular reformist Defence Minister Fedorov, whom Zelenskiy sacked last week. Fedorov said at a post-dismissal press conference that Sersky had issued Zelenskiy an ultimatum. Tensions between Fedorov and Sersky, reflecting divergent approaches to military leadership and organisation — Sersky favouring a highly centralised, Soviet-style command — were long-running. MPs, veterans and protesters criticised the decision, warning that removing Fedorov could undermine Defence Ministry reforms and raise concerns about military leadership."
-    },
-    {
-      "id": "5000868",
-      "time": "2026-07-22 04:14:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基任命德拉帕蒂為烏克蘭武裝部隊總司令】烏克蘭總統澤連斯基當地時間21日晚釋出影片講話，宣佈由德拉帕蒂接替瑟爾斯基出任烏克蘭武裝部隊總司令。"
-    },
-    {
-      "id": "5000867",
-      "time": "2026-07-22 04:13:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "戴爾、慧與股價跟隨超微電腦走高，上漲3%。"
-    },
-    {
-      "id": "5000866",
-      "time": "2026-07-22 04:13:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "超微電腦盤後漲超26%。"
-    },
-    {
-      "id": "mkt:019f864e-fbdf-7aab-8e31-bee70868497b",
-      "time": "2026-07-22 04:12:30",
-      "tags": [
-        "MKT News",
-        "FFIE.O",
-        "Impact bearish"
-      ],
-      "text": "Faraday Future (FFIE.O) will implement a 150-for-1 reverse stock split before market open on July 24, 2026."
-    },
-    {
-      "id": "5000865",
-      "time": "2026-07-22 04:12:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思向國會申請1.5萬億美元撥款，用於新設“戰爭部”，這意味著軍費將大幅擴張；隨後他又將五角大樓還需追加5000億美元預算的緣由歸咎於喬·拜登。"
-    },
-    {
-      "id": "te:markets:568622",
-      "time": "2026-07-22 04:12:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "US Stocks Advance on Chipmaker Rally — US stock indices closed higher on Tuesday as a rally in chipmakers lifted the broader market. The S&P 500 added 0.9%, the Nasdaq 100 advanced 1.9%, and the Dow Jones gained 385 points. Semiconductor stocks extended their rebound from last week's rout after strong export data from Taiwan and South Korea reinforced optimism for the sector. Nvidia gained 2% after saying its latest chip designs are reaching customers, while Intel climbed 8.6% on plans for job cuts. Micron (+12.2%), Sandisk (+14.3%), and AMD (+8.1%) surged. The sector rallied ahead of Alphabet's (-1.4%) earnings on Wednesday, which are expected to provide fresh signals on AI infrastructure demand from hyperscalers. Meanwhile, other sectors stabilized despite further escalation between the US and Iran and the resulting rise in oil prices. Treasury yields remained elevated, limiting gains in financial stocks. Elsewhere, GM rose 4.9 % after reporting earnings, while Charles Schwab fell 2.5% after missing estimates."
-    },
-    {
-      "id": "5000864",
-      "time": "2026-07-22 04:10:30",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國貿易代表暗示將很快出臺新關稅政策】美國總統特朗普最快將於本週對數十個國家加徵新關稅。美國貿易代表賈米森·格里爾當天在接受採訪時暗示，美國聯邦政府將很快出臺新的關稅政策以替代即將到期的10%全球進口關稅。格里爾說，他現在無法給出新關稅政策出臺具體時間點，政策在正式宣佈前還需向國會和其他利益攸關方通報。"
-    },
-    {
-      "id": "5000863",
-      "time": "2026-07-22 04:09:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "超微電腦：新增訂單規模超600億美元。"
-    },
-    {
-      "id": "mkt:019f864c-73f7-7aab-8e31-b5650d2bba5a",
-      "time": "2026-07-22 04:09:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Pezeshkian says unity vital as Iran reports progress on Strait of Hormuz reopening and oil export recovery】On the 21st, Iranian President Pezeshkian said Iran must preserve internal unity and warned against undermining negotiation outcomes. He said Tehran has gradually advanced key items in talks — reopening the Strait of Hormuz and restoring oil exports — and that progress achieved so far has \"far exceeded expectations\", despite U.S. non-compliance. He added domestic debate over methods and results is acceptable but should not disparage outcomes without professional basis."
-    },
-    {
-      "id": "5000862",
-      "time": "2026-07-22 04:08:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉衛生部證實3人感染漢坦病毒死亡】委內瑞拉衛生部21日證實，該國東北部安索阿特吉州有3人死於漢坦病毒感染。委衛生部在社交媒體釋出公報稱，目前尚無證據表明漢坦病毒在委出現人際傳播，各病例間無直接關聯。"
-    },
-    {
-      "id": "mkt:019f864b-7676-7aab-8e31-acc266a8f008",
-      "time": "2026-07-22 04:08:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Joint Chiefs of Staff Chairman Gen. Dan Kain did not specify whether a U.S.-Iran conflict would include ground forces."
-    },
-    {
-      "id": "5000861",
-      "time": "2026-07-22 04:08:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "超微電腦：預計第四財季營收接近110億-125億美元指引下限。"
-    },
-    {
-      "id": "5000860",
-      "time": "2026-07-22 04:08:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：特朗普總統應當收穫應有的讚譽，他採取此番行動，並有決心阻止伊朗獲得核武器。"
-    },
-    {
-      "id": "5000859",
-      "time": "2026-07-22 04:07:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI：戴維·貝萊斯（David Vélez）與羅賓·文斯（Robin Vince）加入OpenAI基金會及OpenAI公益集團董事會。"
-    },
-    {
-      "id": "5000858",
-      "time": "2026-07-22 04:06:59",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "OpenAI：臉書AI開源社群Hugging Face的安全事件由多款OpenAI模型共同引發，其中包括GPT-5.6 SOL，以及一款能力更強的預釋出模型。"
-    },
-    {
-      "id": "5000857",
-      "time": "2026-07-22 04:06:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國教育部：對達特茅斯醫學院等5所醫學院啟動調查，調查涉涉嫌基於種族開展招生錄取的相關行為。"
-    },
-    {
-      "id": "mkt:019f8649-61cf-7aab-8e31-a40995669788",
-      "time": "2026-07-22 04:06:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI said it will strengthen and expand safety protections for future model training and evaluation phases."
-    },
-    {
-      "id": "mkt:019f8648-cc76-7aab-8e31-9bddd6f68255",
-      "time": "2026-07-22 04:05:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said the Hugging Face security incident involved multiple OpenAI models, including GPT-5.6 Sol and a more capable pre-release model."
-    },
-    {
-      "id": "mkt:019f8648-ae36-7aab-8e31-9735eab5df11",
-      "time": "2026-07-22 04:05:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "On Tuesday, July 21, the Dow Jones Industrial Average closed up 385.56 points (+0.74%) at 52,224.82; the S&P 500 closed up 65.91 points (+0.89%) at 7,509.19; the Nasdaq Composite closed up 329.13 points (+1.29%) at 25,837.21."
-    },
-    {
-      "id": "mkt:019f8648-8be8-7aab-8e31-8feb57bf85d5",
-      "time": "2026-07-22 04:05:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI said it has released preliminary findings of a cybersecurity incident to help defenders understand what happened, and is implementing stricter infrastructure controls while strengthening model security protections."
-    },
-    {
-      "id": "5000856",
-      "time": "2026-07-22 04:05:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：現階段分享初步調查結果，以幫助防禦方瞭解此次網路安全事件（Hugging Face遭AI駭客入侵）的相關情況。"
     }
   ]
 }
