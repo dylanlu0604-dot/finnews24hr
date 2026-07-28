@@ -1,7 +1,156 @@
 {
-  "updated": "2026-07-28 14:26:37",
-  "count": 17593,
+  "updated": "2026-07-28 14:30:28",
+  "count": 17599,
   "items": [
+    {
+      "id": "5011609",
+      "time": "2026-07-28 14:29:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【MLCC板塊走弱，博遷新材跌停】MLCC板塊走弱，博遷新材跌停，傑普特跌超10%，火炬電子、三環集團、博傑股份、國瓷材料、昀冢科技等跟跌。"
+    },
+    {
+      "id": "5011608",
+      "time": "2026-07-28 14:29:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛將意法半導體目標價從67.5美元下調至60.5美元。"
+    },
+    {
+      "id": "5011607",
+      "time": "2026-07-28 14:29:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【怕散戶爆倉 韓國考慮為“借錢炒股”封頂20%】據韓國《中央日報》中文網28日報道，韓國金融監管當局決定，若單一股票槓桿產品投資過熱未能平息，將引入個人投資上限等追加監管措施。目前正在重點研究將個股槓桿投資額限制在全部金融投資產品投資額20%以內的方案。記者注意到，韓國官方此前披露的統計資料顯示，截至7月13日，7月累積強制平倉規模達到3442億韓元(約合人民幣15.7億元)，超120萬個槓桿散戶賬戶觸及保證金追繳線，其中約32萬至36萬個賬戶已經被券商全額強制平倉，部分賬戶甚至出現倒欠券商資金情況。 (中新經緯)"
+    },
+    {
+      "id": "5011606",
+      "time": "2026-07-28 14:28:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度開放核能市場後 塔塔電力擬2032年建成首座核電站】隨著印度結束數十年來對核電領域的國有壟斷，並透過發展核能提升能源安全、推進脫碳程序，塔塔電力公司預計最早將於2032年建造其第一座核電站。塔塔電力執行長普拉維爾·辛哈表示，公司已在至少三個邦選定了核電專案建設地點，並將待政府敲定針對私營企業的相關法規後啟動建設工作。"
+    },
+    {
+      "id": "5011605",
+      "time": "2026-07-28 14:28:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "梅賽德斯-賓士執行長：我們必須以德國為核心降本，以保持產品定價的競爭力。"
+    },
+    {
+      "id": "5011604",
+      "time": "2026-07-28 14:27:57",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【小摩：大幅上調聯想集團目標價至30港元，評級升至“增持”】摩根大通發表報告，將聯想集團的投資評級由“中性”上調至“增持”，目標價由20港元大幅上調至30港元，主要受惠伺服器業務盈利能力顯著改善，以及智慧裝置業務集團(IDG)業務價格彈性優於預期。該行的行業研究顯示，聯想AI相關客戶需求快速增長，伺服器業務受惠有利定價環境，盈利能力健康。該行預期基礎設施方案集團(ISG)利潤率在未來數季進一步擴張，受惠營運槓桿效應。該行估算聯想6月底止首財季AI相關收入已佔ISG收入30%以上，並預計全年度ISG收入同比增長約60%，ISG經營利潤率由2026財年的0.4%提升至2027財年的5%。IDG業務方面，該行預期聯想繼續受惠規模優勢、嚴格成本控制及供應鏈執行能力，季度經營溢利維持約10億至11億美元水平，預測2026年及2027年IDG收入分別同比增長10%及4%，經營利潤率分別為6.9%及6.8%。"
+    },
+    {
+      "id": "mkt:019fa768-81a5-7aab-8ec1-61ddbea91ae6",
+      "time": "2026-07-28 14:27:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Tata Power targets first private nuclear plant by 2032 after India opens market】Tata Power expects to build its first nuclear power plant by 2032 after India ended a decades‑long state monopoly on nuclear energy to boost energy security and decarbonisation. CEO Praveer Sinha said the company has identified sites in at least three states and could start construction as early as early 2028, subject to the government finalising rules for private entrants, targeting commissioning in 2032–33 as the country’s first private‑sector nuclear plant. The initiative forms part of India’s push to expand nuclear capacity amid rising power demand from AI and data centres and a broader global revival of nuclear investment."
+    },
+    {
+      "id": "5011603",
+      "time": "2026-07-28 14:27:50",
+      "tags": [
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【國家郵政局召開快遞員訴求直通車試點經驗總結交流暨建立快遞企業黨組織全覆蓋聯絡機制任務部署會】7月27日，國家郵政局召開快遞員訴求直通車試點經驗總結交流暨建立快遞企業黨組織全覆蓋聯絡機制任務部署會，總結快遞員訴求直通車試點情況，交流經驗做法，對建立快遞企業黨組織全覆蓋聯絡機制任務進行再部署再動員。國家郵政局黨組成員、副局長陳凱出席會議並講話。會議指出，快遞員訴求直通車試點工作取得了初步成效，有關單位在織密訴求收集網、構建難題化解鏈、打造關愛服務站等方面進行了有益探索，解決了一批快遞小哥的急難愁盼，從業人員的幸福感獲得感得到提升。會議要求，要建立健全快遞企業黨組織全覆蓋聯絡機制，鞏固拓展組織覆蓋成果，創新快遞員群體思想政治引領工作，強化黨建引領關愛服務和社會治理工作，推動快遞業黨建工作高質量發展。（國家郵政局）"
+    },
+    {
+      "id": "mkt:019fa768-4132-7aab-8ec1-5a996e8bc52a",
+      "time": "2026-07-28 14:27:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share CPO sector plunged; Xinyisheng and Zhongji Xuchuang slid about 15%, while Demingli, Dongshan Precision and multiple peers hit their daily limit-down. Telecom ETFs managed by Fuguo, Guotai and Huaxia neared limit-down."
+    },
+    {
+      "id": "5011602",
+      "time": "2026-07-28 14:26:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【浙商證券：冰輪環境佈局新興製冷裝置，開啟中長期空間】浙商證券研報指出，冰輪環境受益於全球AIDC建設，冷水機組訂單加速。公司是國內溫控裝備龍頭，主營工業製冷裝置、暖通空調裝備、綠能裝備、數智工業等，產品覆蓋壓縮機、製冷機、工業熱泵、儲能儲蓄裝置、工業換熱裝置。業績拐點已現，2026Q1業績高增長。2026Q1營收延續2025Q4增長趨勢，2026Q1公司實現營收16.24億元，同比+18.31%；歸母淨利潤1.17億元，同比+25.06%，收入與利潤端均恢復較快增長。公司Q1匯兌損益較多，財務費用達2531萬元，去年同期為-752萬元；剔除匯兌損益後實際利潤增速更高。近年來全球算力基礎建設高增長，公司為資料中心提供冷源裝備和熱交換裝置等溫控冷卻裝備，業務涉及國內、北美、澳洲、東南亞、中東等地區，訂貨、出貨額持續增長。SOFC前瞻佈局，拓展分散式能源應用場景；佈局新興製冷裝置，開啟中長期空間。"
+    },
+    {
+      "id": "mkt:019fa767-901b-7aab-8ec1-53e02ba74332",
+      "time": "2026-07-28 14:26:49",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Soda ash hits fresh lows; supply rise and demand fall to persist】Futures were weak Tuesday as soda ash slid to fresh intraday lows. Last week regulators added soda ash to the list of high-energy industries subject to mandatory environmental and energy-emissions inspections, a move that will speed removal of obsolete capacity over the medium-to-long term. With inspections likely to run about three months, concentrated cuts or shutdowns are unlikely near term, limiting immediate policy support for prices. Spot prices fell 30–50 yuan/ton across North, Central and East China; Shahe heavy soda self-pickup quoted 1,010 yuan/ton, down 14 yuan/ton day-on-day. Industry operating rate rose to 81.26%, up 0.22 percentage points d/d, as large plants in Hubei and Jiangsu completed maintenance; Inner Mongolia units showed load and output fluctuations but supply remains ample. Downstream demand is weak—PV glass lines face further idling—so procurement is unlikely to underpin the market. Monitor soda ash operating rates, downstream capacity changes, supply-side newsflow and environmental inspection developments."
+    },
+    {
+      "id": "mkt:019fa767-6a34-7aab-8ec1-4a4188698b3a",
+      "time": "2026-07-28 14:26:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Refinitiv cites Gulf sources saying the proposal would not leave Iran in unilateral control of the Strait of Hormuz."
+    },
+    {
+      "id": "5011601",
+      "time": "2026-07-28 14:26:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "梅賽德斯-賓士首席財務官表示：集團業績指引不包含進一步出售戴姆勒卡車股權的安排。"
+    },
+    {
+      "id": "mkt:019fa767-444a-7aab-8ec1-42f1730cb6de",
+      "time": "2026-07-28 14:26:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv: Sources in the Gulf said Oman has proposed a funding mechanism modeled on the Straits of Malacca, where users of the strait voluntarily fund navigation management, environmental protection and search-and-rescue projects. The Oman proposal has won regional support."
+    },
+    {
+      "id": "5011600",
+      "time": "2026-07-28 14:26:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO板塊遭重挫 多支通訊ETF逼近跌停】CPO板塊遭重挫，新易盛、中繼旭創回撥15%，德明利、東山精密等多股跌停。通訊ETF富國（159583）、通訊ETF國泰（515880）、通訊ETF華夏（515050）等多支ETF逼近跌停。"
+    },
+    {
+      "id": "5011599",
+      "time": "2026-07-28 14:26:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影《功夫女足》暑期檔總票房（含預售）破20億，持續領跑暑期檔票房榜！"
+    },
     {
       "id": "5011598",
       "time": "2026-07-28 14:26:04",
@@ -161105,100 +161254,6 @@
         "觀點"
       ],
       "text": "【摩根大通：下半年美股或漲幅有限 四大風險恐擾亂市場】摩根大通最新報告認為，在幾大潛在風險的威脅下，美股市場在下半年將面臨嚴峻挑戰。摩根大通高階研究員扎欣·奧夫（Zahin Ov）領導的研究團隊撰文指出，標普500指數在2026年剩餘時間內相對於國際股市的表現可能“更為疲弱”。報告稱：“我們預計美股從當前水平開始將有所上漲，但到年底的回報不太可能達到2026年上半年的水平。”以下是該銀行認為將在2026年剩餘時間裡影響市場的幾大主要因素：包括“市場功能失靈”和波動風險提高；通脹加劇，利率上升；散戶投資者可能引發負面反饋迴圈；勞動力市場的動盪。"
-    },
-    {
-      "id": "te:markets:568440",
-      "time": "2026-07-21 14:30:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Jumps as US-Iran Talks Eyed — Silver climbed above $58 an ounce on Tuesday, rebounding from recent losses as investors assessed the potential resumption of peace negotiations between the US and Iran, which could ease energy-driven inflation risks and reduce concerns about interest rate hikes. Mediators worked on Monday to bring both sides toward a new ceasefire, while reports pointed to a possible 10-day truce. However, tensions remained elevated after President Donald Trump warned that Iran would be held responsible for the deaths of three US service members. Iran-backed Houthi militants also announced a maritime embargo against Saudi Arabia, raising concerns over energy shipments through the Red Sea. US Treasury yields climbed sharply this week, with markets now pricing in about a 55% chance of a Federal Reserve rate hike in September, up from 51% a day earlier."
-    },
-    {
-      "id": "te:markets:568439",
-      "time": "2026-07-21 14:30:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 2.90% Higher — The Nikkei 225 Index gained 1863 points or 2.90 percent on Tuesday to close at 66004 points. Gains were led by Advantest (8.13%), Toho Zinc (7.48%) and Sumitomo Metal Mining (7.17%)."
-    },
-    {
-      "id": "4999453",
-      "time": "2026-07-21 14:30:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "【玻璃基板概念股走強，水晶光電等多股漲停】玻璃基板概念股午後走強，水晶光電、通富微電等多股漲停，華海清科、東威科技、大族數控等股漲幅居前。"
-    },
-    {
-      "id": "4999452",
-      "time": "2026-07-21 14:29:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：供給增速將領先需求成長 2027年下半年NAND Flash緊缺壓力有望緩解】根據TrendForce集邦諮詢最新2026年7月NAND Flash每月資料分析，2026年AI需求爆發，加上NAND Flash產能增加有限，市場呈現供給緊缺。展望2027年，來自Server的需求持續強勁，在供應商提升製程、整體供給位元增速未見放緩，以及消費性電子市況仍處於低迷的情況下，預估NAND Flash供應緊張的情形有望於2027年下半年獲得改善。"
-    },
-    {
-      "id": "te:markets:568437",
-      "time": "2026-07-21 14:29:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Rises as US-Iran Talks Eyed — Gold climbed above $4,050 an ounce on Tuesday, rebounding from recent losses as investors assessed the potential resumption of peace negotiations between the US and Iran, which could ease energy-driven inflation risks and reduce concerns about interest rate hikes. Mediators worked on Monday to bring both sides toward a new ceasefire, while reports pointed to a possible 10-day truce. However, tensions remained elevated after President Donald Trump warned that Iran would be held responsible for the deaths of three US service members. Iran-backed Houthi militants also announced a maritime embargo against Saudi Arabia, raising concerns over energy shipments through the Red Sea. US Treasury yields climbed sharply this week, with markets now pricing in about a 55% chance of a Federal Reserve rate hike in September, up from 51% a day earlier."
-    },
-    {
-      "id": "4999451",
-      "time": "2026-07-21 14:28:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東省民營企業再貸款投放量超1200億元】今年1月，中國人民銀行新設立了1萬億元民營企業再貸款，加力支援民營中小微企業。截至2026年6月末，廣東累計投放民營企業再貸款超1200億元，投放量穩居全國前列。在政策的激勵帶動下，廣東地方法人金融機構民營中小微企業貸款餘額近1.8萬億元，惠及市場主體超26萬戶，信貸資源持續向民營經濟薄弱環節傾斜。"
-    },
-    {
-      "id": "4999450",
-      "time": "2026-07-21 14:28:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【惠科股份等在綿陽成立高分子材料公司 註冊資本13.5億】天眼查App顯示，近日，綿陽惠聚高分子材料有限公司成立，法定代表為何育霖，註冊資本13.5億人民幣，經營範圍包括光電子器件製造、電力電子元器件製造、電子專用材料製造等。股東資訊顯示，該公司由惠科股份有限公司、綿陽安億廣成產業園管理有限公司共同持股。"
-    },
-    {
-      "id": "4999449",
-      "time": "2026-07-21 14:28:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【茅臺1935酒系列產品官宣促銷活動，單瓶最高直降590元】7月21日，i茅臺APP宣佈，茅臺1935酒系列產品線上活動即將上線，多款產品限量銷量，單瓶最高立減590元，其中53%vol 500ml茅臺1935酒活動價688元/瓶。活動時間為7月23日18:00-7月31日23:59。"
-    },
-    {
-      "id": "4999448",
-      "time": "2026-07-21 14:27:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中國保險行業協會：當前普通型人身保險產品預定利率研究值為1.94%】中國保險行業協會 7月20日組織召開人身保險業利率研究專家諮詢委員會2026年二季度例會，分析宏觀經濟形勢、國債市場走勢和行業發展情況，部分專家就資本市場觀察和人工智慧應用等熱點問題進行專題交流。與會專家一致認為，2026年上半年我國經濟頂住壓力延續了總體平穩、向新向優的發展態勢，國內生產總值同比增長4.7%，貨幣金融服務、保險等行業商務活動指數位於較高景氣區間，新動能快速成長，民生保障有力有效，發展韌性持續彰顯。保險業專家認為，人身保險業持續深化改革轉型，最佳化行業發展佈局，堅定推行“報行合一”，聚焦主責主業，持續提升服務實體經濟質效，紮實做好金融“五篇大文章”，夯實民生保障，積極服務經濟社會高質量發展。保險業專家研究了人身保險產品預定利率研究值，提出當前普通型人身保險產品預定利率研究值為1.94%。"
-    },
-    {
-      "id": "te:economy:568435",
-      "time": "2026-07-21 14:27:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Switzerland",
-        "Balance of Trade",
-        "Importance 2"
-      ],
-      "text": "Swiss Trade Surplus Narrows in June — Switzerland’s trade surplus narrowed to CHF 3.8 billion in June 2026 from a downwardly revised CHF 5.5 billion in the previous month. Exports fell 4.3% year-on-year to CHF 24.3 billion, weighed down by lower sales of chemical and pharmaceutical products (-8.5%), machinery, electronics, and appliances (-0.3%), electricity (-6.9%), and textiles, clothing, and footwear (-1.6%). Exports to Europe declined 9.4%, with notable decreases in shipments to Slovenia (-27.8%), Belgium (-20.7%), and France (-5.1%), while exports to North America rose 9.2%, led by Canada (+18.4%) and the US (+8.6%). Meanwhile, imports increased 3.3% to CHF 20.5 billion, driven largely by higher purchases of chemical and pharmaceutical products (+10.7%), energy carriers (+1.3%), and paper and cardboard products (+2.0%). By region, imports from Asia rose 7.3%, supported by stronger inflows from the UAE (+32.5%), Hong Kong (+13.1%), Saudi Arabia (+36.9%), and Singapore (+15.1%)."
     }
   ]
 }
