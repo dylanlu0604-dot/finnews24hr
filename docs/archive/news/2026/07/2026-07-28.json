@@ -1,7 +1,81 @@
 {
   "date": "2026-07-28",
-  "count": 2928,
+  "count": 2936,
   "items": [
+    {
+      "id": "5012715",
+      "time": "2026-07-28 22:14:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國駐西班牙使館、駐巴塞羅那總領館提醒在西中國公民防範山火災害】7月28日，據“中國駐西班牙使館”公眾號訊息，今年入夏以來，受持續高溫、乾旱及強風天氣等因素影響，西班牙馬德里、加泰羅尼亞、加利西亞、阿拉貢、卡斯蒂利亞-拉曼恰、卡斯蒂利亞-萊昂、巴倫西亞等多個自治區山火頻發。近日，位於西班牙中部的馬德里、阿維拉省、托萊多省以及東部卡斯特利翁省等地山火持續蔓延，已影響到40多個市鎮，數萬人被迫疏散或居家避險。駐西班牙使館、駐巴塞羅那總領館提醒在西中國公民增強防火意識，提高防範能力。"
+    },
+    {
+      "id": "te:markets:570463",
+      "time": "2026-07-28 22:14:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Oracle Stock Price Hits 25-month Low — Oracle shares decreased to 114.67 USD, the lowest since May 2024. Over the past 4 weeks, Oracle lost 22.35%, and in the last 12 months, it decreased 53.68%."
+    },
+    {
+      "id": "5012714",
+      "time": "2026-07-28 22:14:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨跌超3.00%，現報2.704美元/百萬英熱。"
+    },
+    {
+      "id": "5012713",
+      "time": "2026-07-28 22:13:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將雅培目標股價從135美元下調至125美元。"
+    },
+    {
+      "id": "5012712",
+      "time": "2026-07-28 22:13:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部稱，俄軍對尼古拉耶夫港一處轉運綜合設施內的基礎設施、儲油槽發動打擊，同時海上一艘乾貨船也遭俄軍襲擊。"
+    },
+    {
+      "id": "te:economy:570462",
+      "time": "2026-07-28 22:11:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Richmond Fed Services Index",
+        "Importance 1"
+      ],
+      "text": "Richmond Fed Services Index Remains Flat in July — The Richmond Fed Fifth District Service Sector Survey was broadly unchanged in July 2026, marking a second consecutive month of flat activity. The revenues index slipped to -3 from 0, while the demand index edged up to 5 from 4. Current local business conditions improved slightly to -5 from -7, although expectations weakened, with the future business conditions index falling to 9 from 16. Employment growth moderated, as the current employment index declined to 4 from 8, while the forward-looking employment gauge was little changed at 23, pointing to continued hiring plans. Wage growth remained firm, with both current and expected wage indexes staying in positive territory. Price pressures eased slightly, as the growth rate of prices paid slowed, while prices received rose marginally. Firms expect both measures to moderate further over the next 12 months."
+    },
+    {
+      "id": "5012711",
+      "time": "2026-07-28 22:11:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國機器人產業鏈爆單 有機器人企業一個月收到上萬臺訂單】目前，上市公司半年報和業績預告正陸續披露，今年上半年，機器人板塊業績批次預喜。從核心零部件到整機整合，從運動控制到AI算力硬體，機器人產業鏈正從“概念催化”切換到“訂單放量與盈利兌現”的新階段。工信部資料顯示，1月至5月我國機器人行業規上企業營收突破900億元，同比增長26.9%，近5年年均增速超過20%。央視財經記者瞭解到，有機器人企業上月底剛釋出人形機器人新品，不到一個月時間，已收到上萬臺訂單。還有一家企業負責人告訴記者，他們生產的無框電機屬於人形機器人關節驅動的核心部件，今年上半年，企業在手訂單已經突破100萬臺，比去年增長9倍多。（央視財經）"
+    },
+    {
+      "id": "5012710",
+      "time": "2026-07-28 22:10:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "OpenAI CEO Altman預計將與美國網路安全域性局長會面。"
+    },
     {
       "id": "mkt:019fa90f-fa79-7aab-8ecf-b4c59127baa3",
       "time": "2026-07-28 22:10:24",
