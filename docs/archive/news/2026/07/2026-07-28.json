@@ -1,7 +1,126 @@
 {
   "date": "2026-07-28",
-  "count": 2087,
+  "count": 2099,
   "items": [
+    {
+      "id": "mkt:019fa827-cd9b-7aab-8ec8-71376675d5c6",
+      "time": "2026-07-28 17:56:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan earthquake collapses 12 buildings; police say four people trapped."
+    },
+    {
+      "id": "mkt:019fa827-78cd-7aab-8ec8-6e809fa3d0a4",
+      "time": "2026-07-28 17:56:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "TSM.N"
+      ],
+      "text": "Japan's Chief Cabinet Secretary said there have been no reports so far of damage to TSMC's Kumamoto plant."
+    },
+    {
+      "id": "5012173",
+      "time": "2026-07-28 17:55:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【胡明朗率團赴印度出席金磚國家災害管理部長級會議】近日，應急管理部副部長鬍明朗率團出席在印度新德里舉行的2026年金磚國家災害管理部長級會議。 胡明朗在會上作主旨發言。他表示，中國政府始終高度重視防災減災救災工作，秉持人民至上、生命至上的執政理念，堅持預防為主、構建多災種監測預警體系，強化基礎設施韌性、築牢可持續發展根基，深化科技創新合作、賦能現代災害治理，透過推動災害治理向事前預防轉型、提升災害預警響應能力、夯實防災減災救災基層基礎等務實舉措，加快推進《金磚國家減災工作組2025-2028年工作計劃》實施。（應急管理部）"
+    },
+    {
+      "id": "mkt:019fa826-a48f-7aab-8ec8-62af225bb010",
+      "time": "2026-07-28 17:55:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iraq's Oil Ministry said it exported a combined 32.1 million barrels of oil in May and June."
+    },
+    {
+      "id": "mkt:019fa825-e383-7aab-8ec8-5c2a994c3191",
+      "time": "2026-07-28 17:54:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Protests halt Mellitah oil and gas complex, cut gas pipeline】Protesters stormed the Mellitah oil and gas complex in Libya, forcing suspension of operations. The shutdown disrupted a key natural-gas supply pipeline and may cause regional power outages. Mellitah is a major Libyan hub for oil and gas processing and transport, so the outage raises near-term energy-supply risks."
+    },
+    {
+      "id": "mkt:019fa825-97c6-7aab-8ec8-565ea79d9ff2",
+      "time": "2026-07-28 17:54:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automatically located a preliminary M4.3 earthquake at 17:52 on July 28 near Xinghai County, Hainan Prefecture, Qinghai (35.38°N, 99.58°E). Final magnitude to be confirmed by the official quick report."
+    },
+    {
+      "id": "5012172",
+      "time": "2026-07-28 17:54:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【烽火通訊旗下長江計算中標人保集團核心裝置採購專案】7月27日，人保集團核心裝置採購專案（人保財險2026年第一批次）標包2：鯤鵬計算資源包中標結果正式揭曉，烽火通訊旗下長江計算獨家中標，金額超1.7億元。"
+    },
+    {
+      "id": "mkt:019fa825-5e2d-7aab-8ec8-48c93efd9661",
+      "time": "2026-07-28 17:54:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Libya's Government of National Unity said security forces have taken control of the Mellitah oil and gas complex and gas supplies to power plants have been restored."
+    },
+    {
+      "id": "te:markets:570388",
+      "time": "2026-07-28 17:53:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Index Hits 4-week High — DXY increased to 101.60, the highest since June 2026. Over the past 4 weeks, Dollar Index gained 0.48%, and in the last 12 months, it increased 2.74%."
+    },
+    {
+      "id": "5012171",
+      "time": "2026-07-28 17:53:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：07月28日17時52分在青海海南州興海縣附近（北緯35.38度，東經99.58度）發生4.3級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5012170",
+      "time": "2026-07-28 17:53:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST清越：股票交易異常波動 存在重大違法強制退市風險】*ST清越公告稱，公司股票連續兩個交易日漲停、連續3個交易日（2026年7月24日、7月27日、7月28日）內日收盤價格漲幅偏離值累計達30%，屬異常波動。如後續股票交易進一步異常，公司將申請停牌核查。公司2026年5月8日收到證監會《行政處罰事先告知書》，可能觸及重大違法強制退市情形。經自查，截至7月28日，公司、控股股東及實控人不存在應披露未披露重大資訊，目前生產經營未變，但相關風險未消除，提醒投資者注意風險。"
+    },
+    {
+      "id": "5012169",
+      "time": "2026-07-28 17:53:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【供銷大集：首次回購公司股份999.99萬元】供銷大集公告，公司於2026年7月28日首次以集中競價方式回購公司股份729.92萬股，佔總股本0.04%，最高成交價1.37元/股，最低成交價1.37元/股，成交總金額999.99萬元（不含交易費用）。本次回購系基於此前董事會審議透過的回購方案，回購資金總額不超過5000萬元且不低於3000萬元，回購價格不超過2.3元/股，用於維護公司價值及股東權益。"
+    },
     {
       "id": "5012168",
       "time": "2026-07-28 17:53:22",
