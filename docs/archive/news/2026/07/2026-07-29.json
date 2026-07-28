@@ -1,7 +1,31 @@
 {
   "date": "2026-07-29",
-  "count": 320,
+  "count": 323,
   "items": [
+    {
+      "id": "5013009",
+      "time": "2026-07-29 05:05:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "週二（7月28日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.7711元，較週一紐約尾盤跌56點，日內整體交投於6.7640-6.7737元區間。"
+    },
+    {
+      "id": "5013008",
+      "time": "2026-07-29 05:05:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceXAI：GROK 4.5現已在GitHub Copilot上釋出。"
+    },
+    {
+      "id": "mkt:019faa8b-2c57-7aab-8ed5-67bcfb55fec7",
+      "time": "2026-07-29 05:04:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceXAI said GROK 4.5 is now available on GitHub Copilot."
+    },
     {
       "id": "5013007",
       "time": "2026-07-29 05:01:32",
