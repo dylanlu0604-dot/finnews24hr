@@ -1,7 +1,228 @@
 {
   "date": "2026-07-28",
-  "count": 2514,
+  "count": 2537,
   "items": [
+    {
+      "id": "5012474",
+      "time": "2026-07-28 20:23:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯Wildberries電商平臺表示，在其設施遭遇無人機襲擊後已支付逾4000萬盧布賠款。"
+    },
+    {
+      "id": "5012473",
+      "time": "2026-07-28 20:22:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "默茨表示，德國不會接受歐盟新的企業稅。"
+    },
+    {
+      "id": "mkt:019fa8ad-8313-7aab-8ecb-d796bfd4600d",
+      "time": "2026-07-28 20:22:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz said the government must impose nationally uniform limits on farm flexibility in agricultural subsidies."
+    },
+    {
+      "id": "mkt:019fa8ad-76dd-7aab-8ecb-cef220184460",
+      "time": "2026-07-28 20:22:48",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "German Chancellor Merz said Germany needs a budget draft cutting several hundred billion euros, not one that increases headcount."
+    },
+    {
+      "id": "5012472",
+      "time": "2026-07-28 20:22:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五糧液：解聘章欣董事會秘書職務 聘任李劍偉】五糧液公告稱，公司第七屆董事會2026年第10次會議同意解聘章欣董事會秘書職務，聘任李劍偉為公司董事會秘書，任期至第七屆董事會屆滿。解聘後，章欣繼續擔任公司董事、副總經理、財務總監，且未持股。李劍偉具備履職所需素質和經歷，未受過處罰、非失信被執行人、未持股。目前，章欣與李劍偉已完成工作交接。"
+    },
+    {
+      "id": "5012471",
+      "time": "2026-07-28 20:22:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創業黑馬：擬發行股份及支付現金收購版信通100%股權，獲深交所併購重組稽核委員會審議會議安排】創業黑馬公告，公司擬透過發行股份及支付現金方式購買北京版信通技術有限公司100%股權，同時擬向不超過35名特定投資者發行股票募集配套資金。根據深圳證券交易所併購重組稽核委員會2026年第11次審議會議公告，深交所併購重組稽核委員會定於2026年8月4日召開審議會議，稽核公司本次交易事項。本次交易尚需深交所稽核透過並經中國證監會同意註冊後方可實施，能否透過存在不確定性。"
+    },
+    {
+      "id": "5012470",
+      "time": "2026-07-28 20:22:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "默茨：我們反對在歐盟層面額外徵收企業稅；削減繁文縟節的勢頭絕不能減弱。"
+    },
+    {
+      "id": "5012469",
+      "time": "2026-07-28 20:22:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "默茨表示，預算應該削減“數十億歐元”。"
+    },
+    {
+      "id": "mkt:019fa8ac-d475-7aab-8ecb-c2473309ae1b",
+      "time": "2026-07-28 20:22:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor MERZ said the country cannot afford excessive increases in EU-level spending in the next EU fiscal framework."
+    },
+    {
+      "id": "5012468",
+      "time": "2026-07-28 20:22:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "PayPal執行長就併購傳聞表示，如果我們看到能創造卓越股東價值的槓桿或路徑，我們會認真考慮。"
+    },
+    {
+      "id": "5012467",
+      "time": "2026-07-28 20:21:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "默茨：在限制農場農業補貼方面必須有國家靈活性。"
+    },
+    {
+      "id": "5012466",
+      "time": "2026-07-28 20:21:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "PAYPAL執行長就報道中的併購意向表示，我們在評估機會時保持開放和客觀的態度。"
+    },
+    {
+      "id": "mkt:019fa8ac-4277-7aab-8ecb-bbb55c89e565",
+      "time": "2026-07-28 20:21:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "German Chancellor Merz said Germany does not agree with the current EU budget plan."
+    },
+    {
+      "id": "te:economy:570430",
+      "time": "2026-07-28 20:21:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Mid-month Inflation Rate MoM",
+        "Importance 1"
+      ],
+      "text": "Brazil Mid-Month Inflation Comes in Below Forecasts — Consumer prices in Brazil rose 0.06% in the month to mid-July 2026, slowing sharply from 0.41% in June and coming in below forecasts of 0.2%. The reading marked the lowest mid-month inflation rate since August 2025. Food and beverage prices provided the largest downward contribution, falling 0.66%. Food consumed at home dropped 1.14%, while food away from home accelerated to 0.55%. Housing was the main source of inflationary pressure, rising 0.97%, driven by a 3.03% increase in residential electricity prices following the introduction of the yellow tariff flag and regulated tariff adjustments in several cities. Transportation prices rose 0.11%, as an 11.7% jump in airfares more than offset lower fuel prices amid easing concerns over the Middle East oil supply crisis. Health and personal care costs increased 0.28%, led by higher personal hygiene product prices. The 12-month inflation rate eased to 4.52% from 4.58% in June."
+    },
+    {
+      "id": "mkt:019fa8ac-28d2-7aab-8ecb-b5b5b5bd97e3",
+      "time": "2026-07-28 20:21:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Apple (AAPL.O): iPhone 17 Pro 256GB available via lease at $31.99/month for 24 months or $45.99/month for 12 months."
+    },
+    {
+      "id": "5012465",
+      "time": "2026-07-28 20:21:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "默茨：我們需要一份削減數千億歐元開支的預算草案，而非增加人員編制。"
+    },
+    {
+      "id": "5012464",
+      "time": "2026-07-28 20:21:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "PAYPAL執行長就市場傳聞的併購興趣表示：我們不對市場猜測置評。"
+    },
+    {
+      "id": "5012463",
+      "time": "2026-07-28 20:20:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "默茨：關於下一個歐盟財政框架，我們無法承受歐盟層面開支的過度增長。"
+    },
+    {
+      "id": "mkt:019fa8aa-bc92-7aab-8ecb-ab1fb40e85b4",
+      "time": "2026-07-28 20:19:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple launches \"Apple Upgrade\" leasing program in US】Apple (AAPL.O) launched \"Apple Upgrade\" in the US, offering lease options for iPhone, Apple Watch, Mac and iPad. iPhone and Apple Watch leases available for 12- and 24-month terms; Mac and iPad for 24- and 36-month terms. Starting monthly prices: iPhone $17.99, Apple Watch $11.99, Mac $24.99, iPad $11.99."
+    },
+    {
+      "id": "5012462",
+      "time": "2026-07-28 20:19:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨稱歐盟需在今年敲定預算談判。"
+    },
+    {
+      "id": "mkt:019fa8aa-a6f9-7aab-8ecb-a2e88f1ce999",
+      "time": "2026-07-28 20:19:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "MERZ said the EU needs to complete budget negotiations this year."
+    },
+    {
+      "id": "mkt:019fa8aa-8d72-7aab-8ecb-9800b064b679",
+      "time": "2026-07-28 20:19:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact mixed",
+        "BLK.O"
+      ],
+      "text": "Moody's: Meta Platforms (META.O) and BlackRock's AI infrastructure collaboration poses both risks and opportunities."
+    },
+    {
+      "id": "5012461",
+      "time": "2026-07-28 20:19:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "貝寶(PayPal)執行長表示，公司正順利推進在未來兩到三年內削減至少15億美元成本的計劃。"
+    },
     {
       "id": "5012460",
       "time": "2026-07-28 20:19:11",
