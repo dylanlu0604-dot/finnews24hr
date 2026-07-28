@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-28 23:52:48",
-  "count": 17513,
+  "updated": "2026-07-28 23:56:42",
+  "count": 17520,
   "items": [
+    {
+      "id": "mkt:019fa970-609a-7aab-8ed1-27cad5cf1983",
+      "time": "2026-07-28 23:55:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude extended intraday losses to about 4.0%, trading at $77.91/bbl. Brent crude fell roughly 4.5% to $81.50/bbl."
+    },
+    {
+      "id": "5012841",
+      "time": "2026-07-28 23:55:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油日內跌5%，現報81.56美元/桶。"
+    },
+    {
+      "id": "te:markets:570478",
+      "time": "2026-07-28 23:55:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Oil is down by 5.14% — Brent Crude Oil decreased 5.14% to 83.818 USD/Bbl"
+    },
+    {
+      "id": "mkt:019fa96f-2c01-7aab-8ed1-1c7656746c07",
+      "time": "2026-07-28 23:54:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHK reports 4 people rescued after an explosion at an AEON shopping center; 10 people remain missing."
+    },
+    {
+      "id": "5012840",
+      "time": "2026-07-28 23:54:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "華納兄弟探索旗下HBO Max推出\"HBO Max Shorts\"豎屏短影片資訊流。"
+    },
+    {
+      "id": "mkt:019fa96e-d5f4-7aab-8ed1-164ad817a17b",
+      "time": "2026-07-28 23:54:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "REUTERS SURVEY: 2026 average platinum price expected $1,925/oz, down from $2,067/oz in the prior survey; 2026 average palladium price expected $1,483/oz, down from $1,583/oz."
+    },
+    {
+      "id": "te:markets:570477",
+      "time": "2026-07-28 23:53:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "US Dollar Eases from 15-Month High — The dollar index softened to 101.3 on Tuesday after testing a 15-month high of 101.6 in the previous session as softer energy prices limited the outlook of a rate hike by the Federal Reserve this year. US officials stressed that a diplomatic resolution may still be achieved with Iran in their war, driving fuel prices to ease off their local peaks and trimming the risk of a rebound in energy inflation. Still, fuel prices remained elevated in a historical level as exports from the Middle East are still low. A portion of FOMC members had recently signaled that higher inflation and evidence of a robust labor market could warrant higher rates. The Federal Reserve is expected to hold its policy rates unchanged tomorrow, but rate futures continued reflect the consensus of a hike this year. The greenback held recent gains against the euro and the yen, although political volatility in the UK maintained the sterling's recent appreciation."
+    },
     {
       "id": "5012839",
       "time": "2026-07-28 23:51:58",
