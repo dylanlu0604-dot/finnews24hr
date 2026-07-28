@@ -1,7 +1,39 @@
 {
   "date": "2026-07-29",
-  "count": 226,
+  "count": 229,
   "items": [
+    {
+      "id": "mkt:019faa19-f418-7aab-8ed4-1beee00d6df8",
+      "time": "2026-07-29 03:00:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.54% at 25,480, trading 169 points above the cash index."
+    },
+    {
+      "id": "5012969",
+      "time": "2026-07-29 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.60%，報25484.12點，高水173.27點。"
+    },
+    {
+      "id": "mkt:019faa18-237a-7aab-8ed4-15d397274cfe",
+      "time": "2026-07-29 02:58:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign minister said Tehran does not seek escalation, but any attack on Iranian citizens or interests is unacceptable and any resulting losses must be compensated."
+    },
     {
       "id": "mkt:019faa16-3305-7aab-8ed4-080517331add",
       "time": "2026-07-29 02:56:49",

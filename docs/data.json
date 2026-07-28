@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-29 02:58:37",
-  "count": 17605,
+  "updated": "2026-07-29 03:02:54",
+  "count": 17600,
   "items": [
+    {
+      "id": "mkt:019faa19-f418-7aab-8ed4-1beee00d6df8",
+      "time": "2026-07-29 03:00:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.54% at 25,480, trading 169 points above the cash index."
+    },
+    {
+      "id": "5012969",
+      "time": "2026-07-29 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.60%，報25484.12點，高水173.27點。"
+    },
+    {
+      "id": "mkt:019faa18-237a-7aab-8ed4-15d397274cfe",
+      "time": "2026-07-29 02:58:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign minister said Tehran does not seek escalation, but any attack on Iranian citizens or interests is unacceptable and any resulting losses must be compensated."
+    },
     {
       "id": "mkt:019faa16-3305-7aab-8ed4-080517331add",
       "time": "2026-07-29 02:56:49",
@@ -161367,75 +161399,6 @@
         "國際"
       ],
       "text": "【梅洛尼呼籲徹查博洛尼亞男子拘捕身亡事件，譴責暴力反警抗議】義大利總理梅洛尼呼籲全面調查博洛尼亞男子拘捕期間身亡事件，譴責暴力反警抗議致數十警員受傷；死者阿卜杜拉希姆・法基爾上週日遭警方約束時死亡，輿論將此事比照美國弗洛伊德案，並關聯特朗普時代美國 ICE 執法模式，當地爆發多場暴力示威，保守派政界亦出現激烈反響。"
-    },
-    {
-      "id": "mkt:019f860f-3148-7aab-8e30-9f4c15e5cbe6",
-      "time": "2026-07-22 03:02:50",
-      "tags": [
-        "MKT News",
-        "DXY"
-      ],
-      "text": "Pakistan is seeking a USD 10 bln foreign-exchange stabilization facility from the United States to bolster reserves and ease funding pressure, sources said."
-    },
-    {
-      "id": "mkt:019f860e-198a-7aab-8e30-944d338b8729",
-      "time": "2026-07-22 03:01:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng index futures in the night session closed down 0.70% at 24,978, trading 154 points below the spot index."
-    },
-    {
-      "id": "5000792",
-      "time": "2026-07-22 03:01:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "知情人士透露，巴基斯坦申請100億美元美國匯率穩定工具以提振外匯儲備。"
-    },
-    {
-      "id": "mkt:019f860d-73fc-7aab-8e30-8f87d779f549",
-      "time": "2026-07-22 03:00:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Panama said it has recalled its ambassador to Nicaragua."
-    },
-    {
-      "id": "5000791",
-      "time": "2026-07-22 03:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌0.70%，報24978.93點，低水153.36點。"
-    },
-    {
-      "id": "5000790",
-      "time": "2026-07-22 02:59:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國成為歐洲首個正式立法禁止15歲以下人群使用社交媒體的國家。"
-    },
-    {
-      "id": "mkt:019f860c-7066-7aab-8e30-87ce2c8ad117",
-      "time": "2026-07-22 02:59:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Axios, ANTHROPIC's US government lobbying spending in 1H exceeded its total for all of last year."
-    },
-    {
-      "id": "5000789",
-      "time": "2026-07-22 02:59:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Anthropic 2026 年上半年遊說開支已超過 2025 全年總額。"
     }
   ]
 }
