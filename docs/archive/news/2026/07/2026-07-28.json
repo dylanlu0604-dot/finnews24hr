@@ -1,7 +1,86 @@
 {
   "date": "2026-07-28",
-  "count": 1090,
+  "count": 1097,
   "items": [
+    {
+      "id": "5011412",
+      "time": "2026-07-28 12:05:28",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日本財務大臣暗示在匯率問題上與美國立場相同】日本財務大臣向投機性外匯交易員發出新的警告，並暗示日美兩國對近期美元兌日元的走勢看法一致。片山皋月(Satsuki Katayama)週二在倫敦證券交易所集團(LSEG)於東京舉辦的一場活動上表示，日本政府將對日元的投機性波動採取必要行動，這一立場沒有改變。她表示：“我認為，日美雙方的看法一致，即我們準備在必要時採取行動。”該財務大臣不予置評與美國聯合干預的可能性。但她強調了美國最近的一份報告，該報告指出了日元數十年來的疲軟走勢以及華盛頓方面對匯率過度波動的擔憂。上述言論發表之際，投資者仍對日本政府可能採取的買入日元操作保持警惕。儘管今年早些時候進行了創紀錄的干預，但日元兌美元匯率仍徘徊在歷史低點附近，最新報163.75日元。"
+    },
+    {
+      "id": "mkt:019fa6e5-8067-7aab-8ebe-da90cbabce12",
+      "time": "2026-07-28 12:04:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "03750.HK",
+        "09660.HK",
+        "Impact mixed"
+      ],
+      "text": "【Hong Kong midday: Hang Seng down 0.11%; AI hardware stocks sharply pull back】After a U.S. session that rallied then faded and a strong China Golden Dragon Index, Hong Kong opened higher but reversed midday as AI and storage names sold off. Hang Seng opened +64 at 25,271, peaked +233 at 25,440, then slid to 25,074 (down 0.11% at midday); Hang Seng Tech was up 0.16%. Turnover HKD 140.55 bln. Sector winners: gaming software, non‑alcoholic beverages and catering; film entertainment and autos extended gains; education and road transport rebounded. Sector laggards: storage, AI newcomers, PCB names, semiconductors and power equipment fell sharply. Selected movers: Horizon Robotics (09660.HK) +5%+, NetEase (09999.HK) +4%+, JD.com (09618.HK) +3%+; Laopu Gold (06181.HK) -22%+, Zhipu (02513.HK) -16%+, MiniMax (00100.HK) -11%+, Hua Hong Hongli (01347.HK) -6.5%+, CATL (03750.HK) and Chow Tai Fook (01929.HK) each down >4%."
+    },
+    {
+      "id": "mkt:019fa6e5-0785-7aab-8ebe-d32a372d245b",
+      "time": "2026-07-28 12:04:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Financial Times reports NVIDIA is party to a $50 billion lease agreement for a Texas data center that will use NVIDIA chips."
+    },
+    {
+      "id": "5011411",
+      "time": "2026-07-28 12:03:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大皇家銀行：將特斯拉目標價從500美元下調至480美元。"
+    },
+    {
+      "id": "mkt:019fa6e3-f4a0-7aab-8ebe-cc6aad6c0950",
+      "time": "2026-07-28 12:03:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "RBC cuts Tesla (TSLA.O) PT to $480 from $500."
+    },
+    {
+      "id": "5011410",
+      "time": "2026-07-28 12:02:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達參與得克薩斯州一處價值500億美元的資料中心租賃專案，該資料中心將採用英偉達晶片。"
+    },
+    {
+      "id": "mkt:019fa6e3-051b-7aab-8ebe-c7289eda5e84",
+      "time": "2026-07-28 12:02:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【IDC: 2025 China AI game cloud market reaches 1.86 billion yuan】International Data Corporation (IDC) estimates the China AI game cloud market at 1.86 billion yuan in 2025. AI infrastructure and model services accounted for 1.61 billion yuan, with the AI application segment at 250 million yuan; both submarkets posted triple‑digit growth. IDC says the market is in an early expansion phase and that AI game cloud is reshaping the technical backbone of game industrialization and driving a fundamental shift in industry clients’ AI product spending logic."
+    },
     {
       "id": "5011409",
       "time": "2026-07-28 12:01:43",
