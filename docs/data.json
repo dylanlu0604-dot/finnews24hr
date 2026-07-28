@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-29 06:32:53",
-  "count": 17513,
+  "updated": "2026-07-29 06:36:51",
+  "count": 17516,
   "items": [
+    {
+      "id": "5013049",
+      "time": "2026-07-29 06:35:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美方稱伊朗發射多枚導彈襲擊駐中東美軍】當地時間28日，美軍中央司令部表示，美國東部時間當日下午5時45分，伊朗伊斯蘭革命衛隊從伊朗境內發射多枚彈道導彈，“試圖對駐中東地區的美軍發動突然襲擊”。美軍中央司令部稱，所有導彈均被成功攔截。美軍目前仍保持高度警戒和戰備狀態。伊朗方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "te:markets:570513",
+      "time": "2026-07-29 06:35:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Drops by 2.52% — Top commodity losers are Silver (-2.52%), Platinum (-1.57%) and Gold (-1.48%)."
+    },
+    {
+      "id": "5013048",
+      "time": "2026-07-29 06:33:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲5%，現報83.23美元/桶。"
+    },
+    {
+      "id": "mkt:019faadc-e399-7aab-8ed6-028bef087bf6",
+      "time": "2026-07-29 06:33:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Informal ceasefire collapses as Iran fires missiles at US base; oil jumps 4%】Iran fired ballistic missiles at a US base in Jordan; Jordanian forces intercepted the missiles, US officials said. CENTCOM confirmed multiple ballistic missiles were launched toward US forces in the Middle East at 17:45 ET (05:45 BJT); all were intercepted. The strike was Iran’s first missile attack on regional US bases since the US paused strikes last Friday. CENTCOM said US forces remain vigilant and at heightened alert. WTI crude rose in early Wednesday trade, extending gains to about 4% intraday."
+    },
+    {
+      "id": "5013047",
+      "time": "2026-07-29 06:33:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【財報季機構加緊調研，公私募摸底業績尋主線】隨著A股上市公司半年報披露開啟，機構調研熱度持續升溫。近期，公私募機構密集走訪上市公司，透過實地調研、業績交流等方式排摸企業經營情況，為下半年投資佈局尋找線索。從調研方向來看，電子板塊仍是機構關注的焦點，計算機、通訊、機械裝置等科技領域熱度居前，反映出機構正圍繞業績兌現能力和產業景氣度，積極尋找下一程的市場主線。據Choice資料顯示，截至7月27日，7月以來共有約750家公募及私募機構參與A股上市公司調研，覆蓋約30個申萬一級行業中的650家上市公司，累計調研頻次約3613次。（上證報）"
+    },
     {
       "id": "5013045",
       "time": "2026-07-29 06:32:20",
@@ -160674,25 +160724,6 @@
         "The Trump Trade"
       ],
       "text": "US President Trump plans to visit Michigan next week for a campaign rally."
-    },
-    {
-      "id": "te:markets:568631",
-      "time": "2026-07-22 06:35:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 4.95% — Top commodity losers are Lithium Carbonate (-4.95%) and Iron Ore CNY (-1.19%). Gains are led by Silver (4.40%), Copper (3.11%), Platinum (2.20%) and Gold (1.88%)."
-    },
-    {
-      "id": "5000944",
-      "time": "2026-07-22 06:34:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：如果沒有1400萬非法移民居留在美國、和本土家庭爭搶住房，租金與房價本會大幅回落。"
     }
   ]
 }
