@@ -1,7 +1,425 @@
 {
-  "updated": "2026-07-29 00:55:49",
-  "count": 17544,
+  "updated": "2026-07-29 01:13:45",
+  "count": 17572,
   "items": [
+    {
+      "id": "mkt:019fa9b7-1c34-7aab-8ed2-cf2058c3c814",
+      "time": "2026-07-29 01:12:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's Ministry of Economy said it will resume exports of poultry meat to the EU from Aug. 17."
+    },
+    {
+      "id": "mkt:019fa9b6-fee4-7aab-8ed2-c3a40bf8770e",
+      "time": "2026-07-29 01:12:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Israeli spokesperson said Israel supports any course of action chosen by US President Trump."
+    },
+    {
+      "id": "mkt:019fa9b6-c202-7aab-8ed2-bc0a73e0f588",
+      "time": "2026-07-29 01:12:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's deputy foreign minister said Tehran proposed to Oman that Iran manage one-way shipping traffic on the Iranian side of the Strait of Hormuz while Oman would manage traffic on the Omani side."
+    },
+    {
+      "id": "5012912",
+      "time": "2026-07-29 01:12:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "開雲集團CEO：按計劃減少約10億歐元庫存，今年在減產方面做出了“勇敢”的決定。"
+    },
+    {
+      "id": "5012911",
+      "time": "2026-07-29 01:11:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理發言人：特朗普與內塔尼亞胡會晤未討論土耳其和F-35戰機問題。"
+    },
+    {
+      "id": "5012910",
+      "time": "2026-07-29 01:11:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿根廷經濟部：阿根廷將於8月17日起恢復向歐盟出口禽肉。"
+    },
+    {
+      "id": "mkt:019fa9b5-7a72-7aab-8ed2-b44d1b7b9dda",
+      "time": "2026-07-29 01:11:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemeni Houthi forces said they will continue a maritime blockade against Saudi adversaries to pursue a \"blockade to counter blockade\" strategy and comprehensively escalate confrontation."
+    },
+    {
+      "id": "5012909",
+      "time": "2026-07-29 01:11:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：德黑蘭已向馬斯喀特提議，由伊朗負責管理霍爾木茲海峽一側的單向通航過境，阿曼負責管理對向航道。"
+    },
+    {
+      "id": "5012908",
+      "time": "2026-07-29 01:10:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理發言人：美以在伊朗問題上完全步調一致，以色列支援特朗普選擇的任何道路。"
+    },
+    {
+      "id": "mkt:019fa9b3-8d7a-7aab-8ed2-a9c480ef3a22",
+      "time": "2026-07-29 01:09:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Yemen's Houthi militants said they struck a Saudi vessel with a ballistic missile."
+    },
+    {
+      "id": "mkt:019fa9b3-7d26-7aab-8ed2-a22fc6cbaaa3",
+      "time": "2026-07-29 01:09:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's deputy foreign minister said talks on the Strait of Hormuz are limited to Oman and that Iran is not negotiating with the United States or any mediators."
+    },
+    {
+      "id": "5012907",
+      "time": "2026-07-29 01:08:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "科赫工業（Koch）正考慮以150億美元出售資料中心企業Edged。"
+    },
+    {
+      "id": "5012906",
+      "time": "2026-07-29 01:08:14",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "葉門胡塞武裝稱向沙特船隻發射彈道導彈。"
+    },
+    {
+      "id": "mkt:019fa9b2-122b-7aab-8ed2-9cc2fbf4c2cd",
+      "time": "2026-07-29 01:07:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's foreign minister emphasized the necessity of avoiding escalation and stopping Iran's support for Russia."
+    },
+    {
+      "id": "5012905",
+      "time": "2026-07-29 01:07:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "土耳其總統埃爾多安：在由英國石油公司（BP）運營的伊拉克基爾庫克生產區，土耳其國家石油公司（TPAO）已獲准建立合作伙伴關係。今天簽署的協議是我們兩國在能源領域合作邁出的歷史性一步。"
+    },
+    {
+      "id": "5012904",
+      "time": "2026-07-29 01:06:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：美國的海上封鎖無法迫使伊朗進行談判。"
+    },
+    {
+      "id": "mkt:019fa9b1-29dc-7aab-8ed2-970eed4b8885",
+      "time": "2026-07-29 01:06:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's foreign minister said he has called Iran's minister to pursue \"direct dialogue\"."
+    },
+    {
+      "id": "5012903",
+      "time": "2026-07-29 01:06:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外長瑟比加：必須避免局勢升級，並終止伊朗對俄羅斯的支援。"
+    },
+    {
+      "id": "5012902",
+      "time": "2026-07-29 01:06:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外長瑟比加：與伊朗外長就一名在裡海襲擊中遇難的伊朗海員進行討論，烏克蘭的行動旨在抵禦俄羅斯的侵略。"
+    },
+    {
+      "id": "5012901",
+      "time": "2026-07-29 01:05:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外長瑟比加：已致電伊朗外長，以進行\"直接對話\"。"
+    },
+    {
+      "id": "mkt:019fa9b0-24c4-7aab-8ed2-8894bfa6233a",
+      "time": "2026-07-29 01:05:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 7-year Treasury yield dipped after a $44 bln auction, trading at 4.463%, down 4.63 bps."
+    },
+    {
+      "id": "5012900",
+      "time": "2026-07-29 01:05:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安： 我們已做好準備，將在供應伊拉克所需的國防工業產品方面盡我們的一份力。"
+    },
+    {
+      "id": "5012899",
+      "time": "2026-07-29 01:04:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國7年期國債收益率在440億美元國債標售後小幅走低，最新下跌4.63個基點，報4.463%。"
+    },
+    {
+      "id": "mkt:019fa9ae-199b-7aab-8ed2-866710280395",
+      "time": "2026-07-29 01:03:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's deputy foreign minister said Iran's objectives in the Strait of Hormuz include asserting sovereignty and generating revenue; it would be wrong to say earning revenue from the strait is not a priority."
+    },
+    {
+      "id": "5012898",
+      "time": "2026-07-29 01:02:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國7年期國債收益率下降4.473%，低於預售時的4.471%。"
+    },
+    {
+      "id": "mkt:019fa9ad-5c6d-7aab-8ed2-78c4f3526ce4",
+      "time": "2026-07-29 01:02:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 7-year Treasury auction on July 28: 95.17% of awards were allocated at the stop-out yield, versus 36.22% previously."
+    },
+    {
+      "id": "mkt:019fa9ad-559f-7aab-8ed2-77bcd2c118a3",
+      "time": "2026-07-29 01:02:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. 7-year Treasury auction on July 28 stop-out yield 4.473%, prior 4.26%."
+    },
+    {
+      "id": "mkt:019fa9ad-517b-7aab-8ed2-68cbeb5ebfa3",
+      "time": "2026-07-29 01:02:15",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 7-year Treasury auction bid-cover ratio 2.49, prior 2.50."
+    },
+    {
+      "id": "mkt:019fa9ad-2dd5-7aab-8ed2-632705c888a4",
+      "time": "2026-07-29 01:02:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 7-Year Note Auction Bid/Cover Ratio (Jul.28) | actual 2.49 | previous 2.5"
+    },
+    {
+      "id": "mkt:019fa9ad-2dd2-7aab-8ed2-5e5dc35a3cc6",
+      "time": "2026-07-29 01:02:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 7-Year Note Auction Accepted at High (Jul.28) | actual 95.17% | previous 36.22%"
+    },
+    {
+      "id": "mkt:019fa9ad-2dd0-7aab-8ed2-527cc0986eb1",
+      "time": "2026-07-29 01:02:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 7-Year Note Auction High Yield Rate (Jul.28) | actual 4.473% | previous 4.26%"
+    },
+    {
+      "id": "mkt:019fa9ad-0945-7aab-8ed2-49f1fb9adb5d",
+      "time": "2026-07-29 01:01:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister spoke by phone with Ukraine's foreign minister."
+    },
+    {
+      "id": "mkt:019fa9ac-05bc-7aab-8ed2-40c7c6e74afc",
+      "time": "2026-07-29 01:00:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's deputy foreign minister said any closure of the Strait of Hormuz would be intended as self-defense, not to harm friendly countries such as Pakistan."
+    },
+    {
+      "id": "mkt:019fa9ab-f1d8-7aab-8ed2-3b242194d1aa",
+      "time": "2026-07-29 01:00:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Iran's deputy foreign minister said the Strait of Hormuz is part of Iran's national security and constitutes a defensive capability, and that the world should know Iran has strengthened its defensive capabilities."
+    },
+    {
+      "id": "mkt:019fa9ab-ceb0-7aab-8ed2-3075d9de5ef6",
+      "time": "2026-07-29 01:00:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "INEOS said the first of two critical module units for its €5 billion Antwerp petrochemical project arrived today; the unit had previously been held for an extended period in the Strait of Hormuz."
+    },
+    {
+      "id": "5012897",
+      "time": "2026-07-29 01:00:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊與烏克蘭外長通話。"
+    },
+    {
+      "id": "5012896",
+      "time": "2026-07-29 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.17%，滬銅收跌0.10%，滬鋁收漲0.99%，滬鋅收跌0.26%，滬鉛收漲0.26%，滬鎳收跌1.15%，滬錫收跌0.36%。氧化鋁夜盤收漲0.07%，鋁合金收漲0.85%。不鏽鋼夜盤收跌0.55%。"
+    },
+    {
+      "id": "5012895",
+      "time": "2026-07-29 00:59:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗副外長：我們關閉霍爾木茲海峽的目的是自衛，而非損害巴基斯坦等友好國家。"
+    },
+    {
+      "id": "mkt:019fa9aa-22b5-7aab-8ed2-2c5db59e9d2d",
+      "time": "2026-07-29 00:58:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said a maritime blockade would not force Iran to enter talks."
+    },
+    {
+      "id": "mkt:019fa9a9-6f41-7aab-8ed2-26fd217350f9",
+      "time": "2026-07-29 00:58:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran deputy foreign minister says Tehran may take 'any action' to maintain control of Strait of Hormuz】Iran's deputy foreign minister warned Tehran would consider taking \"any action,\" including restarting a war, to maintain control of the Strait of Hormuz, state-affiliated Fars News reported. He said opening a southern route closer to Oman's coast would mean Iran \"could no longer exercise sovereignty,\" and added any European vessel seeking to approach the strait would be \"our lawful target.\""
+    },
+    {
+      "id": "5012894",
+      "time": "2026-07-29 00:56:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "英力士：一號裂解裝置專案最後兩個模組已運抵，第二個也是最後一個模組預計將於未來幾日到位。"
+    },
+    {
+      "id": "5012893",
+      "time": "2026-07-29 00:56:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "英力士：位於安特衛普、價值50億歐元工程專案的兩個關鍵模組中的第一個，在霍爾木茲海峽被困數月後，於今日運抵。"
+    },
+    {
+      "id": "5012892",
+      "time": "2026-07-29 00:55:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗軍方警告不要接受美國使用伊資產進行“賠償”】據伊朗方面7月28日訊息，伊朗武裝部隊哈塔姆安比亞中央總部發言人說，接受美國使用伊朗資產進行所謂賠償的任何國家或公司，其所屬船隻將不被允許透過霍爾木茲海峽。發言人說，美國總統特朗普此前宣佈，將利用伊朗被凍結資產，賠償伊美衝突期間受損船隻。伊方認為，這些船隻受損是由於美軍制造地區不安全域性勢，以及“違規駛入霍爾木茲海峽南部非法且不安全的航道”所致。他警告稱，即日起，任何支援特朗普上述提議和使用伊朗被凍結資產的國家或公司所屬船隻將被禁止透過霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019fa9a7-6978-7aab-8ed2-1e119edd6c09",
+      "time": "2026-07-29 00:55:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "People familiar with the matter said US cybersecurity firm AlgoSec is considering a UK IPO."
+    },
+    {
+      "id": "5012891",
+      "time": "2026-07-29 00:55:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數漲幅擴大至盤中高點，現漲0.5%。"
+    },
     {
       "id": "mkt:019fa9a6-f45d-7aab-8ed2-10ab86b6a2ab",
       "time": "2026-07-29 00:55:18",
@@ -160720,163 +161138,6 @@
         "國際"
       ],
       "text": "【特朗普：胡塞武裝若封鎖紅海 美國將採取行動】美國總統特朗普21日在白宮會見到訪的黎巴嫩總統奧恩時表示，如果葉門胡塞武裝封鎖紅海，美國將採取行動。特朗普在談及胡塞武裝可能封鎖紅海一事時說，目前還沒有發生這種情況，“如果真發生了，我們會採取行動，處理好”。葉門胡塞武裝20日宣佈對沙烏地阿拉伯實施“海上禁運”且立即生效。沙特主導的多國聯軍隨後表示，已採取措施保護成員國船隻安全通行曼德海峽，並將堅決回應胡塞武裝的任何威脅。關於黎巴嫩局勢，特朗普說，他願意與黎巴嫩真主黨對話，並將同奧恩討論對黎援助，協調其他各方參與協助。(新華社)"
-    },
-    {
-      "id": "mkt:019f85a8-a1b7-7aab-8e2f-a4e5c3e52508",
-      "time": "2026-07-22 01:10:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "FITCH says failure to renew the US-Mexico-Canada Agreement (USMCA) would widen credit divergence among Mexican corporates."
-    },
-    {
-      "id": "5000751",
-      "time": "2026-07-22 01:09:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "空客民用飛機執行長：我們有意進軍併購市場。"
-    },
-    {
-      "id": "mkt:019f85a7-5fc6-7aab-8e2f-99e11b8868a9",
-      "time": "2026-07-22 01:09:26",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O"
-      ],
-      "text": "Amazon Web Services (AWS): Amazon Simple Email Service (SES) will no longer offer its exclusive free tier to new customers. Previously, new customers received 3,000 free emails per month for the first 12 months after initial use."
-    },
-    {
-      "id": "mkt:019f85a6-c1fb-7aab-8e2f-926a80ee978f",
-      "time": "2026-07-22 01:08:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanese President Aoun said the meeting went very smoothly."
-    },
-    {
-      "id": "5000750",
-      "time": "2026-07-22 01:07:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "空客民用飛機執行長：不排除將 A350 產能大幅提升至月產 12 架以上的可能性。"
-    },
-    {
-      "id": "mkt:019f85a5-3d79-7aab-8e2f-88e668a861c1",
-      "time": "2026-07-22 01:07:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said it is rolling out ChatGPT services for small businesses, making ChatGPT Work and GPT-5.6 available to small enterprises effective today."
-    },
-    {
-      "id": "5000749",
-      "time": "2026-07-22 01:06:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：ChatGPT Work 與 GPT‑5.6 現已面向中小企業開放。"
-    },
-    {
-      "id": "5000748",
-      "time": "2026-07-22 01:05:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：推出面向中小企業的 ChatGPT 方案。"
-    },
-    {
-      "id": "5000747",
-      "time": "2026-07-22 01:04:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩總統奧恩：會談進展非常順利。"
-    },
-    {
-      "id": "5000746",
-      "time": "2026-07-22 01:04:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "AWS ：針對 SES 專屬免費套餐（使用者首次啟用 SES 後 12 個月內每月可免費傳送 3000 封郵件），新客戶將無法再申領。"
-    },
-    {
-      "id": "mkt:019f85a2-ab97-7aab-8e2f-8795a64dbae3",
-      "time": "2026-07-22 01:04:18",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Amazon Web Services (AWS): From July 21, 2026, all newly created Amazon Simple Email Service accounts will default to the Basic tier."
-    },
-    {
-      "id": "mkt:019f85a2-a550-7aab-8e2f-7fc6175eb685",
-      "time": "2026-07-22 01:04:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tasnim news agency reported Iran's military said it shot down a one-way attack drone in northwest Iran."
-    },
-    {
-      "id": "5000745",
-      "time": "2026-07-22 01:02:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Tibo正式宣佈活躍使用者數突破1000萬】OpenAI產品負責人Tibo在X上表示，Codex和 ChatGPT Work每週活躍使用者在2026年7月21日突破1000萬人。"
-    },
-    {
-      "id": "5000744",
-      "time": "2026-07-22 01:01:44",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "塔斯尼姆通訊社訊息：伊朗軍方稱，在該國西北部擊落一架單向攻擊無人機。"
-    },
-    {
-      "id": "5000743",
-      "time": "2026-07-22 01:01:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "AWS ：自 2026 年 7 月 21 日起，所有新建亞馬遜簡單電子郵件服務（SES）賬戶預設啟用基礎套餐（Essentials Plan）。"
-    },
-    {
-      "id": "5000741",
-      "time": "2026-07-22 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲1.49%，滬銅收漲1.69%，滬鋁收漲0.56%，滬鋅收漲0.55%，滬鉛收跌0.95%，滬鎳收漲0.77%，滬錫收漲0.97%。氧化鋁夜盤收漲0.22%，鋁合金收漲0.50%。不鏽鋼夜盤收漲0.20%。"
-    },
-    {
-      "id": "mkt:019f859b-768e-7aab-8e2f-70c1029352d4",
-      "time": "2026-07-22 00:56:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "U.S. equities extended gains; the Dow and S&P 500 are up more than 1%, the Nasdaq is up 1.4%."
     }
   ]
 }
