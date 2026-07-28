@@ -1,7 +1,110 @@
 {
-  "updated": "2026-07-28 09:45:13",
-  "count": 17822,
+  "updated": "2026-07-28 09:48:57",
+  "count": 17826,
   "items": [
+    {
+      "id": "5011179",
+      "time": "2026-07-28 09:48:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微軟AI釋出網路安全模型MAI-Cyber-1-Flash，漏洞檢測效能提升並降低50%成本】微軟AI（Microsoft AI）當地時間7月27日釋出首款網路安全專用模型MAI-Cyber-1-Flash，並將其整合至多智慧體漏洞識別與修復平臺MDASH。微軟表示，該組合在CyberGym漏洞檢測基準測試中取得95.95%的成績，超過Mythos、Gemini和GPT系列模型，同時相比現有MDASH方案降低約50%成本。微軟同時推出智慧體安全系統Perception，用於持續監控、修補漏洞並應對新型威脅。"
+    },
+    {
+      "id": "mkt:019fa668-8b07-7aab-8eba-4fd27df94412",
+      "time": "2026-07-28 09:48:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's largest single-batch green ammonia exported to South Korea】Today 3,750 tonnes of green ammonia from Daan, Jilin were transported by road to Lianyungang, Jiangsu and loaded for shipment to South Korea, the largest single-batch green ammonia export globally. The cargo was produced at the world's largest single-module green ammonia plant (180,000 tonnes/year), powered by wind and solar in western Jilin, and has lifecycle CO2 emissions more than 90% lower than coal-based ammonia, marking the first reported international market recognition of China's green fuels' full-life-cycle carbon-reduction value."
+    },
+    {
+      "id": "5011178",
+      "time": "2026-07-28 09:48:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！黃海北部實彈射擊 禁止駛入】據中國海事局網站訊息，大連海事局釋出航行警告，7月28日12時至30日17時，黃海北部部分海域執行實彈射擊，禁止駛入。"
+    },
+    {
+      "id": "5011177",
+      "time": "2026-07-28 09:47:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量428億元。"
+    },
+    {
+      "id": "mkt:019fa668-0c38-7aab-8eba-45b8e56c3836",
+      "time": "2026-07-28 09:47:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "01888.HK",
+        "Impact bearish",
+        "00148.HK",
+        "01989.HK"
+      ],
+      "text": "Hong Kong PCB-related stocks tumbled in early trade: Kingboard Laminates (01888.HK) fell more than 11%; Guanghe Technology (01989.HK) down about 8%; Kingboard Holdings (00148.HK) and Shenghong Technology (02476.HK) each fell over 7.5%; Dazhu Numerical Control (03200.HK) down about 6%."
+    },
+    {
+      "id": "5011176",
+      "time": "2026-07-28 09:47:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "馬來西亞央行行長：經濟增長可能達到預測的4%-5%區間高階。"
+    },
+    {
+      "id": "5011175",
+      "time": "2026-07-28 09:46:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【3750噸！我國最大單批次綠氨出口韓國】今日，3750噸產自吉林大安的綠氨經陸路運抵江蘇連雲港，裝船起航發往韓國。這是全球規模最大的單批次綠氨出口，標誌著我國綠色燃料首次憑藉全生命週期碳減排效益獲得國際市場價值認可。"
+    },
+    {
+      "id": "te:economy:570233",
+      "time": "2026-07-28 09:46:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Taiwan",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Taiwan Consumer Sentiment Drops from Four-Month High — Taiwan’s consumer confidence index fell to 64.58 in July 2026 from June’s four-month high of 65.05, reflecting broadly weaker sentiment. Confidence declined across all six core sub-indicators, including domestic economic conditions (80.53 vs 80.87 in June), household finances (77.42 vs 77.70), stock investment prospects (28.08 vs 29.90), durable goods purchases (93.43 vs 93.55), and labor market expectations (72.19 vs 72.46). Meanwhile, future price expectations remained subdued (35.82 vs 35.83). Other indicators also softened, including the gauge for the timing of real estate purchases (90.13 vs 90.35), current health conditions (86.70 vs 86.82), and expected future health conditions (81.77 vs 81.86)."
+    },
+    {
+      "id": "5011174",
+      "time": "2026-07-28 09:46:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股智慧駕駛概念股走強 地平線機器人漲超6%】截至發稿，地平線機器人-W(09660.HK)漲6.28%，禾賽-W(02525.HK)漲5.08%，曹操出行(02646.HK)漲3.63%。"
+    },
+    {
+      "id": "5011173",
+      "time": "2026-07-28 09:45:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗對美國海上封鎖發出警告】據伊朗邁赫爾通訊社7月27日報道，伊朗武裝部隊哈塔姆·安比亞中央司令部當天發表宣告稱，美國在加劇地區不安全域性勢的同時，持續對伊朗實施非法的海上封鎖，並在過去三天裡威脅伊朗沿海和領海的商船、油輪等。美國的這一行動將被視為對地區戰爭的擴大，伊朗武裝力量絕不會放過美軍的任何威脅，將作出回應。（CCTV國際時訊）"
+    },
+    {
+      "id": "5011172",
+      "time": "2026-07-28 09:45:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年APEC林業部長級會議今天開幕】今天（7月28日）上午，2026年亞太經合組織（APEC）林業部長級會議在深圳正式開幕。這是亞太經合組織時隔15年再次在中國舉辦生態領域專業會議。亞太地區森林面積佔全球一半以上，貢獻了全球約60%的林產品生產和約40%的林產品貿易。本次會議，各經濟體代表將就圍繞森林保護與可持續經營、科技創新等議題開展政策對話。"
+    },
     {
       "id": "mkt:019fa665-55dc-7aab-8eba-3e0391b71ab2",
       "time": "2026-07-28 09:44:46",
@@ -163324,82 +163427,6 @@
         "國際"
       ],
       "text": "【伊朗革命衛隊：兩艘油輪在霍爾木茲海峽爆炸起火】伊朗伊斯蘭革命衛隊21日釋出宣告說，兩艘試圖取道南部“危險航道”透過霍爾木茲海峽的油輪當天發生爆炸並起火。 宣告說，兩艘油輪因爆炸起火被迫停航，救援人員正協助船員撤離。革命衛隊海軍同時警告航運公司“切勿相信美軍虛假資訊”，要求往來船隻規避“危險航線”。 宣告還說，只要美軍在該地區的侵略持續，霍爾木茲海峽就會“一直關閉”。無論是石油、天然氣，還是化肥，都不會從該地區出口。（新華社）"
-    },
-    {
-      "id": "mkt:019f825c-633f-7aab-8e18-d66b1a1fee56",
-      "time": "2026-07-21 09:48:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Texas heatwave threatens record power demand】A severe heatwave in Texas risks testing the state's power system. ERCOT's preliminary estimate shows Monday evening demand approaching the 85.508 GW record set in August 2023, and the grid operator projects evening peak loads will rise further on Tuesday and Wednesday. Cooling demand surged Monday, with system supply needs topping 114 GW. Millions from Dallas to Houston are under heat warnings, with temperatures above 100°F and the NWS forecasting humidity from a nearby tropical storm could push some areas as high as 112°F."
-    },
-    {
-      "id": "mkt:019f825b-af7e-7aab-8e18-cea5668dbe87",
-      "time": "2026-07-21 09:47:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "A-share brokerage stocks rallied after five leading insurers expressed support for capital-market development. Great Wall Securities rose over 4%; Hualin Securities, Huaxi Securities, Jinlong Shares, Guoyuan Securities and Guojin Securities also advanced. The insurers—PICC, CPIC, Ping An, New China Life and China Life—issued the supportive statements."
-    },
-    {
-      "id": "4998790",
-      "time": "2026-07-21 09:47:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電池板塊震盪拉昇 國軒高科、鵬輝能源漲超6%】電池板塊震盪拉昇，國軒高科、鵬輝能源漲超6%，杉杉股份、璞泰來、欣旺達等股跟漲。"
-    },
-    {
-      "id": "mkt:019f8259-a16c-7aab-8e18-c105cda74bb3",
-      "time": "2026-07-21 09:45:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "FTSE China A50 index futures rose over 1%."
-    },
-    {
-      "id": "4998789",
-      "time": "2026-07-21 09:45:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "創新藥概念股震盪調整、美諾華、靈康藥業、亞泰集團、塞力醫療跌停，萬邦醫藥跌超10%，普蕊斯、泓博醫藥、南華生物、聯環藥業跌幅居前。"
-    },
-    {
-      "id": "4998788",
-      "time": "2026-07-21 09:45:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【腦虎科技“三全”腦機介面系統進入國家藥監局創新醫療器械特別審查程式】腦虎科技今日宣佈，其自主研發的“植入式腦機介面手部運動功能代償系統”（即“全植入、全無線、全功能”腦機介面系統，簡稱“三全”系統）透過公示，正式進入國家藥品監督管理局醫療器械技術審評中心（CMDE）的創新醫療器械特別審查程式。這是國內首個進入該“綠色通道”的硬膜下植入式柔性腦機介面產品，標誌著我國在高階植入式醫療器械創新領域邁出重要一步。"
-    },
-    {
-      "id": "mkt:019f8259-42c6-7aab-8e18-bca4ae4a01f3",
-      "time": "2026-07-21 09:45:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said it attacked US military facilities at Kuwait's Ahmad al-Jaber base."
     }
   ]
 }
