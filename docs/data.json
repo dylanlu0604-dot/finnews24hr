@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-28 09:56:30",
-  "count": 17817,
+  "updated": "2026-07-28 10:00:21",
+  "count": 17812,
   "items": [
+    {
+      "id": "mkt:019fa672-a595-7aab-8eba-afd5b86f62f3",
+      "time": "2026-07-28 09:59:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "01211.HK",
+        "Impact bullish",
+        "02015.HK",
+        "09868.HK"
+      ],
+      "text": "Hong Kong auto shares rallied in choppy trade. NewGiao RV (00805.HK) jumped more than 14%; Li Auto (02015.HK) rose over 3.5%. XPeng (09868.HK), Geely Automobile (00175.HK), Chery Automobile (09973.HK), BYD (01211.HK) and SERES (09927.HK) each advanced more than 2%."
+    },
+    {
+      "id": "5011191",
+      "time": "2026-07-28 09:59:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡國家發展部：額外買家印花稅政策調整。"
+    },
+    {
+      "id": "mkt:019fa671-3335-7aab-8eba-a55669294907",
+      "time": "2026-07-28 09:57:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China's CSI 500 index futures (IC) most-active contract fell 2.00% intraday to 7,451.0 points."
+    },
+    {
+      "id": "mkt:019fa671-0975-7aab-8eba-9a48ef3d0d76",
+      "time": "2026-07-28 09:57:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "BYD Auto Japan launched \"RACCO\", an electric microcar, with a pre-tax, pre-subsidy starting price of ¥1.95m."
+    },
+    {
+      "id": "mkt:019fa670-da2c-7aab-8eba-95ade9a35e3d",
+      "time": "2026-07-28 09:57:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share copper-cable and high-speed connectivity sector pulled back; Dingtong Technology, Taichen Guang, Zhongfu Circuit, Yangtze Optical Fibre and Cable and Huagong Technology each fell more than 5%, with Yihua Co. and Changxin Bochuang also lower."
+    },
+    {
+      "id": "5011190",
+      "time": "2026-07-28 09:56:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股腦機介面概念持續走高 南京熊貓漲超9%】港股腦機介面概念持續走高，南京熊貓漲超9%，腦洞極光漲超4%。"
+    },
+    {
+      "id": "5011189",
+      "time": "2026-07-28 09:56:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "比亞迪日本公司推出\"RACCO\"電動微型車，稅前及補貼前起售價195萬日元。"
+    },
     {
       "id": "mkt:019fa66e-a559-7aab-8eba-8ff77e9e8dae",
       "time": "2026-07-28 09:54:56",
@@ -163263,117 +163341,6 @@
         "公司"
       ],
       "text": "【瑞萊智慧完成數億元B輪融資】7月21日訊息，AI安全技術公司瑞萊智慧（RealAI）連續完成合計數億元規模的B1輪和B2輪融資，投資方包括星連資本、招商局集團旗下數字貿易基金、卓源亞洲、卓源資本、福迪創投、水木清華校友種子基金等。本輪融資將重點用於安全可信大模型系統的持續研發與產業落地，開啟大模型規模化進入關鍵業務的新市場。"
-    },
-    {
-      "id": "4998818",
-      "time": "2026-07-21 10:00:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【跨境支付概念股盤中走強 京北方等漲停】跨境支付概念股盤中走強，京北方、翠微股份、神州資訊漲停，長亮科技、宇信科技、小商品城等跟漲。"
-    },
-    {
-      "id": "4998817",
-      "time": "2026-07-21 09:59:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "4998816",
-      "time": "2026-07-21 09:59:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國法院撤銷終止HomePlus重整程式的裁決。"
-    },
-    {
-      "id": "4998815",
-      "time": "2026-07-21 09:59:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "截止09:59，兩市112只個股跌停。"
-    },
-    {
-      "id": "te:markets:568358",
-      "time": "2026-07-21 09:59:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Gain on Tech Boost — The Shanghai Composite rose 0.4% to 3,812 on Tuesday, while the Shenzhen Component gained 0.7%, as pressure on technology stocks eased following a recent sharp selloff. Investors turned their attention to upcoming earnings from major global technology companies for fresh clues on the sustainability of the AI-driven market rally. Supporting sentiment, Jijia Vision is in talks to launch GigaAI's IPO in Hong Kong as early as this year, adding to the growing pipeline of Chinese AI firms seeking public listings. Several domestic AI startups, including DeepSeek, Moonshot AI, and 01.ai, are also reportedly exploring capital market debuts as they compete with leading US developers and accelerate the commercialization of their technologies. Technology and AI-related stocks led the gains, with Cambricon Technologies rising 1.6%, Hygon Information Technology advancing 5.0%, Zhongji Innolight adding 2.5%, and Eoptolink Technology climbing 5.6%."
-    },
-    {
-      "id": "4998814",
-      "time": "2026-07-21 09:59:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【輔助生殖板塊大幅調整，麥迪科技跌停】輔助生殖板塊大幅調整，麥迪科技跌停，新光藥業跌超10%，雙成藥業、康芝藥業、雙鷺藥業、廣生堂、聖諾生物等跟跌。"
-    },
-    {
-      "id": "mkt:019f8265-dd5b-7aab-8e19-116fba16aec1",
-      "time": "2026-07-21 09:59:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Philippine benchmark stock index rose over 1% intraday, hitting its highest level since March 3."
-    },
-    {
-      "id": "4998813",
-      "time": "2026-07-21 09:58:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上證指數跌1.01%，現報3757.842點；深證成指跌0.85%，現報13494.800點；創業板指跌0.61%，現報3422.225點。"
-    },
-    {
-      "id": "4998812",
-      "time": "2026-07-21 09:58:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【銅冠銅箔觸及20CM跌停 連續2日跌停】銅冠銅箔觸及20CM跌停，成交額28.18億元，封單1980手。"
-    },
-    {
-      "id": "4998811",
-      "time": "2026-07-21 09:58:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光纖概念震盪走弱 長飛光纖、通鼎互聯觸及跌停】早盤光纖概念震盪走弱，長飛光纖、通鼎互聯觸及跌停，長盈通跌超10%，永鼎股份、亨通光電、特發資訊、中天科技跌幅靠前。"
-    },
-    {
-      "id": "mkt:019f8264-dcab-7aab-8e19-0f0467501a08",
-      "time": "2026-07-21 09:57:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "601318.SS",
-        "601601.SS"
-      ],
-      "text": "Mainland A-share financials rallied; Cuiwei Co. hit the daily trading limit, Hualin Securities rose over 5%, and Great Wall Securities, Huaxi Securities, Ping An, China Pacific Insurance and Changsha Bank also advanced."
-    },
-    {
-      "id": "4998810",
-      "time": "2026-07-21 09:56:59",
-      "tags": [
-        "市場",
-        "國際",
-        "原創"
-      ],
-      "text": "【韓國副財長稱韓元可能進一步走升】韓國副財長Moon Jisung週二表示，受今年晚些時候企業美元遠期賣出增加的推動，韓元可能會進一步上漲。韓元近期兌美元走強，但仍低於韓國經濟基本面應有的水平Moon表示，韓國預計下半年資金流方面將出現“重大轉變”；與SK海力士ADR相關的美元流入等市況表明市場資金流動正在發生更廣泛的變化。Moon表示，預計第三季度企業美元遠期賣出將進一步增加；他還預測韓國企業將提高即期和遠期美元賣出規模，尤其是在半導體行業。“如果企業現匯和遠期美元拋售勢頭增強，也可能改變散戶投資者的情緒，進一步加速韓元升值，”Moon表示。"
     }
   ]
 }
