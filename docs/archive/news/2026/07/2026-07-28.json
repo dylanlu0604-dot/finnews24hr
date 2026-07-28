@@ -1,7 +1,141 @@
 {
   "date": "2026-07-28",
-  "count": 2460,
+  "count": 2475,
   "items": [
+    {
+      "id": "mkt:019fa89b-cb4f-7aab-8ecb-43ca613aef15",
+      "time": "2026-07-28 20:03:30",
+      "tags": [
+        "MKT News",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon Web Services signed a USD 410 mln multi-year AI agreement with Recursive."
+    },
+    {
+      "id": "5012435",
+      "time": "2026-07-28 20:03:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜雲服務與Recursive簽署4.1億美元的多年人工智慧協議。"
+    },
+    {
+      "id": "5012434",
+      "time": "2026-07-28 20:03:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "葛蘭素史克執行長：媒體電話會議發言稱，我們認為公司現有營收與收益流規模充足，足以抵消艾滋病藥物專利失效帶來的損失。"
+    },
+    {
+      "id": "mkt:019fa89b-8b78-7aab-8ecb-3ad212fe0200",
+      "time": "2026-07-28 20:03:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KYODO reported four people were taken to hospital after an explosion at an Aeon shopping center."
+    },
+    {
+      "id": "5012433",
+      "time": "2026-07-28 20:02:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華達科技：股票交易異常波動 不存在應披露未披露事項】華達科技公告稱，公司股票於2026年7月24日、7月27日、7月28日連續3個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動情形。經核查，公司生產經營正常，主營業務未變。除已披露的2026年半年度業績預虧情況外，公司及控股股東、實際控制人均不存在應披露而未披露的重大事項，也未涉及市場熱點概念。相關人員在此期間無買賣公司股票情況。公司提醒投資者注意投資風險。"
+    },
+    {
+      "id": "mkt:019fa89a-f7a9-7aab-8ecb-323f40e09f6b",
+      "time": "2026-07-28 20:02:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【OPEC+ to pause quota hikes for rest of year after September increase】Two OPEC+ delegates said the group expects to pause quota increases for the remainder of the year after a final raise in September as it assesses rapid supply changes from the Iran war. OPEC+ plans to meet around Aug 2 to approve a September quota rise of 188,000 bpd, completing the current phase of increases; no further lifts are planned this year but the schedule could be adjusted if conditions change."
+    },
+    {
+      "id": "5012432",
+      "time": "2026-07-28 20:02:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西地理統計局（IBGE）資料顯示，截至7月中旬的一個月內，巴西IPCA-15物價指數環比上漲0.06%；此前調查的預期漲幅為0.20%。"
+    },
+    {
+      "id": "mkt:019fa89a-7a56-7aab-8ecb-2d7d4d7970c8",
+      "time": "2026-07-28 20:02:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【APEC forestry ministers adopt joint statement】The 2026 APEC forestry ministers meeting, held in Shenzhen on 27–28, adopted a joint statement calling for enhanced biodiversity protection and stronger enforcement against illegal trade in forest products. It urges economies to embed forest governance and sustainable forest management into economic development plans and policy frameworks. The statement asks members to expand finance and investment opportunities for forestry development and legal timber trade, tailored to national circumstances, and to support upgrading processing and value chains for forest products. It promotes deeper Asia‑Pacific cooperation on urban forestry and water‑resource management, and calls for using technological innovation and sustainable management to restore ecosystems and reduce habitat fragmentation. Under principles of sustainable forest management, it encourages development of emerging forest industries, products and services."
+    },
+    {
+      "id": "5012431",
+      "time": "2026-07-28 20:01:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【甘諮詢：股票交易異常波動 不涉及“東數西算”等業務】甘諮詢公告稱，公司股票於2026年7月24日、7月27日、7月28日連續3個交易日收盤價漲幅偏離值累計超20%，屬異常波動。經核查，公司生產經營正常，不存在應披露未披露重大事項，控股股東等在異常波動期間無買賣公司股票情況及增減持計劃。公司不涉及“東數西算”等業務，相關業務佔營收不足0.10%，提醒投資者注意交易風險。"
+    },
+    {
+      "id": "5012430",
+      "time": "2026-07-28 20:01:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨抹去早盤跌幅，轉為上漲。"
+    },
+    {
+      "id": "mkt:019fa899-b32c-7aab-8ecb-20a790e37157",
+      "time": "2026-07-28 20:01:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index (BDI) fell 1.19% to 2,664 points."
+    },
+    {
+      "id": "5012429",
+      "time": "2026-07-28 20:01:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "波羅的海乾散貨指數跌1.19%，至2664點。"
+    },
+    {
+      "id": "mkt:019fa899-5058-7aab-8ecb-1a98a8ecc2a2",
+      "time": "2026-07-28 20:00:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D fell 1.07% to 882.5 yuan/gram at the early evening open on July 28 (Tuesday). Shanghai Gold Exchange Silver T+D dropped 2.97% to 14,036.0 yuan/kg in the same session."
+    },
+    {
+      "id": "5012428",
+      "time": "2026-07-28 20:00:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國7月27日擔保隔夜融資利率 3.64%，7 月 24 日同樣為 3.64%"
+    },
+    {
+      "id": "5012427",
+      "time": "2026-07-28 19:59:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【瑞博生物-B：核心產品VORTOSIRAN針對SPAF的2B期臨床試驗獲EMA批准】瑞博生物-B公告，歐洲藥品管理局(EMA)已批准啟動評估vortosiran (RBD4059)的2b期臨床試驗ORBIT-XI-AF，用於心房顫動患者的中風預防(SPAF)，該療法為全球首創且開發進度最為領先的靶向XI凝血因子的小干擾核酸(siRNA)療法。"
+    },
     {
       "id": "5012426",
       "time": "2026-07-28 19:59:19",
