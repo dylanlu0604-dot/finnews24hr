@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-28 09:07:16",
-  "count": 17840,
+  "updated": "2026-07-28 09:11:07",
+  "count": 17836,
   "items": [
+    {
+      "id": "mkt:019fa645-c367-7aab-8eb9-3e346b022cca",
+      "time": "2026-07-28 09:10:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【AI, robotics and innovative drugs surge as Chinese manufacturing moves up the value chain】China’s AI, robotics and innovative drug sectors—dubbed the \"new-new three\"—have expanded rapidly this year, advancing Chinese manufacturing toward higher value-added output. Weekly call volumes for Chinese large AI models have risen for eight consecutive weeks and have ranked first globally for 12 straight weeks. In 1H, China’s robot exports reached 6.29 bln yuan to 141 countries and regions; surgical robot exports rose 3.3-fold. In 1H, outbound licensing and deal activity for Chinese innovative drugs totaled about $110 bln, and Chinese firms accounted for eight of the top 10 global pharma deals."
+    },
+    {
+      "id": "mkt:019fa645-7eba-7aab-8eb9-3421d42f3ec5",
+      "time": "2026-07-28 09:09:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver slipped $1 intraday to $57.40/oz, down 1.71%."
+    },
+    {
+      "id": "5011096",
+      "time": "2026-07-28 09:09:51",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓股一度重挫逾7% AI相關疑慮造成晶片股價暴跌】隨著投資人對AI熱潮的情緒持續惡化，韓國股市暴跌，受該國晶片巨頭股價狂跌的拖累。韓國Kospi指數一度下跌7.6%，跌至4月20日以來的最低水準。SK海力士股價暴跌11%，三星電子股價下跌超過9%。這些跌勢表明，隨著AI建設的推進，人們越來越擔心，市場部位過度集中和企業債務水平不斷上升。 Fibonacci Asset Management Global執行長Jung In Yun表示，近期半導體股票的拋售潮似乎更多是由市場情緒急劇惡化所致，而非基本面發生任何直接變化。投資者越來越質疑AI基礎設施的支出速度是否能夠持續。"
+    },
+    {
+      "id": "5011095",
+      "time": "2026-07-28 09:09:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國承諾採取更多措施抑制槓桿ETF需求】韓國金融服務委員會主席Lee Eog-weon表示，如果最新限制措施未能達到預期效果，韓國將準備採取更多措施來抑制投資者對槓桿ETF的需求，包括對個人投資者設定投資限額。金融服務委員會在一份宣告中表示，如果這些自7月31日起生效的措施未能充分抑制需求，監管機構將考慮進一步收緊投資要求。注：韓國將槓桿ETF最低現金存款額的新規提前至7月31日實施。金融服務委員會還表示，正在商討加快此前計劃的提高最低交易單位數量的程序。Lee週二會見了投資業管理人士，討論槓桿ETF問題。正在考慮的方案包括：要求定期進行強制性線上培訓，包括模擬交易課程；將個人對槓桿ETF的投資額度限制在總投資資產的特定百分比內。"
+    },
+    {
+      "id": "5011094",
+      "time": "2026-07-28 09:08:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "以太幣下跌4.07%，至1866.0400。"
+    },
+    {
+      "id": "5011093",
+      "time": "2026-07-28 09:08:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“新新三樣”迅猛發展！中國製造向高附加值躍升】今年以來，被稱為“新新三樣”的人工智慧、機器人、創新藥迅猛發展，有望形成新的支柱產業。資料顯示：中國大模型周呼叫量連續八週實現增長，連續十二週穩居全球首位；上半年我國機器人出口額62.9億元，遠銷141個國家和地區，手術機器人出口額增長了3.3倍；上半年，我國創新藥對外授權交易額約1100億美元，全球醫藥交易前十榜單中國藥企佔據8席。 （央視）"
+    },
+    {
+      "id": "mkt:019fa643-24d1-7aab-8eb9-2a1ea981acac",
+      "time": "2026-07-28 09:07:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Euro STOXX 50 futures down 0.1%, German DAX futures down 0.1%, UK FTSE 100 futures down 0.3%."
+    },
+    {
+      "id": "5011092",
+      "time": "2026-07-28 09:07:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【委內瑞拉政治談判將啟動】美國支援、旨在為未來選舉制定路線圖的委內瑞拉政治談判將於週六在加拉加斯啟動，但反對派和執政聯盟均未給予全面支援。缺乏初步共識凸顯出這個石油資源豐富的南美國家所面臨的嚴峻挑戰。委內瑞拉近期剛遭受兩場致命地震打擊。反對派領袖瑪麗亞·科琳娜·馬查多週日宣佈，她沒有參與此次談判的設計和安排。與此同時，執政聯盟內部強硬派則公開譴責談判。一些分析人士認為，相較於這些內部裂痕，華盛頓對整個程序的影響力可能更為重要。"
+    },
+    {
+      "id": "5011091",
+      "time": "2026-07-28 09:07:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.1%，德國DAX指數期貨下滑0.1%，英國富時指數期貨走低0.3%。"
+    },
     {
       "id": "mkt:019fa642-8629-7aab-8eb9-213b7834c8bf",
       "time": "2026-07-28 09:06:45",
@@ -163461,121 +163549,6 @@
         "國際"
       ],
       "text": "美國國務院表示，因“中東局勢緊張加劇”，已對美國公民釋出“全球旅行警示”。"
-    },
-    {
-      "id": "4998708",
-      "time": "2026-07-21 09:10:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱內塔尼亞胡不會在美國被捕 】美國總統特朗普20日在社交媒體發文稱，以色列總理內塔尼亞胡在美國期間“絕不會以任何形式遭到逮捕”。特朗普稱，內塔尼亞胡“正在對抗伊朗”，“真正應該被逮捕的是那些將伊朗拖入這場前所未有的死亡與毀滅惡性迴圈的人”。有媒體報道說，特朗普雖未在帖文中提及，但他這番言論顯然是針對紐約市長馬姆達尼關於可能在今年聯合國大會期間逮捕內塔尼亞胡的說法。馬姆達尼在《紐約時報》18日播出的採訪中說，紐約市政府正在評估相關法律許可權，以確定如果內塔尼亞胡今年9月赴紐約出席聯合國大會，是否可以對其實施逮捕。他還表示，內塔尼亞胡是“被國際刑事法院指控的戰爭罪犯”。（新華社）"
-    },
-    {
-      "id": "mkt:019f8239-a763-7aab-8e17-63da11d03a5f",
-      "time": "2026-07-21 09:10:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Nationz Technologies N32A automotive MCU adopted in Bosch radars for mainstream Chinese NEVs, enters volume production】Nationz Technologies said its N32A series automotive-grade MCU has been integrated into Bosch wading and reversing radars fitted on mainstream domestic new-energy vehicle models and has entered volume application."
-    },
-    {
-      "id": "4998707",
-      "time": "2026-07-21 09:10:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【第一創業李懷軍：短期市場大機率延續震盪格局，但進一步大幅下跌空間有限】第一創業證券研究所宏觀分析師李懷軍7月21日表示，當前A股具備一定支撐條件。一是基本面具備韌性，經濟溫和復甦的總體態勢沒有改變，6月生產和零售資料呈現溫和復甦態勢。上市公司業績增長趨勢不變，不少高科技行業上市公司釋出半年報業績預增公告。二是估值已具備吸引力，部分板塊估值回到歷史較低分位，具備中長期投資價值。展望未來走勢，李懷軍表示，從短期看，以時間換空間，市場大機率延續震盪格局，但進一步大幅下跌的空間有限。從中期看結構分化，應聚焦產業主線，比如AI驅動的科技行情仍有產業根基支撐，全球五大雲廠商2026年一季度資本開支同比飆升91%；資源週期板塊受益於能源價格上漲，具備階段性投資機會；消費板塊有望在促消費政策推動下也有望逐步復甦。從長期看，A股趨勢向上，慢牛格局不變。中國經濟的長期增長潛力為A股提供堅實基礎。外資配置邏輯從“買增長”轉向“買安全”，中長期資金仍將持續流入。"
-    },
-    {
-      "id": "mkt:019f8239-0dd8-7aab-8e17-5c5b408b9fdb",
-      "time": "2026-07-21 09:10:04",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Iran’s Islamic Revolutionary Guard Corps said it targeted a US-made Patriot air-defence system deployed in Riffa, Bahrain, in a missile and drone attack."
-    },
-    {
-      "id": "4998706",
-      "time": "2026-07-21 09:10:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國民技術N32A車規晶片已應用於主流新能源車企】據國民技術訊息，搭載國民技術N32A系列車規級MCU的博世汽車涉水雷達及倒車雷達，已成功應用於國內主流新能源車企的主力車型，並進入批次應用階段。"
-    },
-    {
-      "id": "4998705",
-      "time": "2026-07-21 09:09:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國綜指漲幅擴大至2%】韓國綜指漲幅擴大至2%，現報6646.48點。個股方面，三星電子漲超4%，SK海力士漲超2%。"
-    },
-    {
-      "id": "4998704",
-      "time": "2026-07-21 09:09:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊稱，他們在導彈和無人機襲擊中瞄準了位於巴林裡法的美國愛國者防空系統。"
-    },
-    {
-      "id": "mkt:019f8238-3f1a-7aab-8e17-51d1f820827e",
-      "time": "2026-07-21 09:09:11",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI index rose as much as 2% intraday."
-    },
-    {
-      "id": "4998703",
-      "time": "2026-07-21 09:08:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【華泰柏瑞滬深300ETF最新規模1136億元 時隔22天再現千億ETF】Choice資料顯示，截至7月20日，華泰柏瑞滬深300ETF最新規模達1135.92億元。時隔22天，該產品規模重新站上千億規模關口，A股再度出現千億級ETF。此前，該ETF在6月29日規模回落至989.20億元，正式跌破千億關口，全市場千億ETF數量清零。7月以來，該ETF規模一度被華安黃金ETF、銀華日利A超越，失去全市場規模第一ETF頭銜。但在7月16日，該ETF規模達935.53億元，超越銀華日利A重新成為全市場規模最大ETF。"
-    },
-    {
-      "id": "mkt:019f8237-fe03-7aab-8e17-4b75253ca76b",
-      "time": "2026-07-21 09:08:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps says it has designated U.S. radar and air-defense systems in Muharraq, Bahrain, as strike targets."
-    },
-    {
-      "id": "4998702",
-      "time": "2026-07-21 09:08:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊稱已瞄準巴林穆哈拉格的美軍雷達及防空系統。"
-    },
-    {
-      "id": "4998701",
-      "time": "2026-07-21 09:07:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【贛鋒鋰業等在廣東成立能源科技新公司】企查查APP顯示，近日，贛鋒算電（廣東）能源科技有限公司成立，經營範圍包含充電樁銷售；機動車充電銷售；新興能源技術研發；合同能源管理等。企查查股權穿透顯示，該公司由贛鋒鋰業等共同持股。"
-    },
-    {
-      "id": "4998699",
-      "time": "2026-07-21 09:07:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國總統特朗普與英國新任首相伯納姆通話 獲邀訪問曼徹斯特】美國總統唐納德·特朗普表示，他與英國新任首相安迪·伯納姆進行了一次“非常好的通話”，雙方將在“不久的將來”會面。這顯示在伯納姆前任基爾·斯塔默任內一度趨緊的美英關係，可能出現改善跡象。“首相面臨著艱鉅的任務，但他一定能夠勝任，當然，美國也會提供幫助！”特朗普在社交媒體上發文稱。特朗普表示：“我們討論了許多議題，包括我們與英國長期保持的卓越關係。我們將在不久的將來就雙方共同關心的話題舉行會晤。”他補充稱，雙方討論的內容包括北海石油、貿易以及霍爾木茲海峽排雷工作。此前，由於前首相基爾·斯塔默拒絕在特朗普對伊朗發動襲擊後提供初步軍事支援，近幾個月來美英關係一度承壓。伯納姆辦公室表示，首相在通話中向特朗普祝賀世界盃賽事成功舉行。該賽事於週日落幕，最終由西班牙擊敗阿根廷奪冠。作為就任英國領導人後最早進行的幾通電話之一，伯納姆還邀請特朗普訪問曼徹斯特。"
     }
   ]
 }
