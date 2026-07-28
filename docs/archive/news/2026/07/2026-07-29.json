@@ -1,7 +1,38 @@
 {
   "date": "2026-07-29",
-  "count": 326,
+  "count": 329,
   "items": [
+    {
+      "id": "mkt:019faa9e-0719-7aab-8ed5-741323787460",
+      "time": "2026-07-29 05:25:10",
+      "tags": [
+        "MKT News",
+        "V.N",
+        "Impact bullish"
+      ],
+      "text": "Visa (V.N) CFO: Excluding post-pandemic rebound effects, US payments volume is growing at the fastest pace since fiscal 2019."
+    },
+    {
+      "id": "mkt:019faa9d-a392-7aab-8ed5-6bec187c574f",
+      "time": "2026-07-29 05:24:45",
+      "tags": [
+        "MKT News",
+        "V.N"
+      ],
+      "text": "Visa (V.N) CFO said larger tax refunds, higher fuel costs and the timing of promotional shopping activity drove growth in U.S. payments volume."
+    },
+    {
+      "id": "te:economy:570509",
+      "time": "2026-07-29 05:22:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "API Crude Oil Stock Change",
+        "Importance 1"
+      ],
+      "text": "US Crude Oil Inventories Unexpectedly Rise — US crude oil inventories unexpectedly increased by 3.3 million barrels in the week ending July 24, defying market expectations for a 2.5 million-barrel draw. The build followed a 2.6 million-barrel increase in the previous week. Despite the recent gains, commercial crude inventories excluding the Strategic Petroleum Reserve (SPR) have declined by more than 54 million barrels over the past 15 weeks and remain about 3 million barrels lower year to date. Another 3.7 million barrels were withdrawn from the SPR during the week, reducing holdings to 307.7 million barrels, just above the widely accepted operational minimum range of 250-300 million barrels. At the Cushing, Oklahoma hub, inventories fell by 273,000 barrels after a 737,000-barrel decline the previous week. US crude production edged down to 13.80 million bpd from 13.86 million bpd. Meanwhile, gasoline inventories rose by 918,000 barrels, while distillate stockpiles fell by 125,000 barrels."
+    },
     {
       "id": "5013012",
       "time": "2026-07-29 05:17:16",
