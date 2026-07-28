@@ -1,7 +1,30 @@
 {
   "date": "2026-07-29",
-  "count": 335,
+  "count": 337,
   "items": [
+    {
+      "id": "mkt:019faab2-8c06-7aab-8ed5-9107861a00e6",
+      "time": "2026-07-29 05:47:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Goldman Sachs says Japan AI sell-off presents buying opportunity】Goldman Sachs says the sharp sell-off in Japan AI-related stocks has created a buy opportunity and that strong earnings could revive interest in semiconductor names. Bruce Kirk, Goldman's chief Japan equity strategist, said the correction has lowered the earnings bar, making outperformance more price-moving, and that current levels look attractive to add positions absent a material deterioration in geopolitical risk. He added that earnings will ultimately decide the direction and that strong results at much lower price levels should refocus investors on the AI profit story. Goldman cautioned short-term volatility may persist: its prime-brokerage data show hedge funds' gross and net Japan exposures sit above the 98th percentile of their five-year ranges, a historically high level."
+    },
+    {
+      "id": "te:markets:570510",
+      "time": "2026-07-29 05:45:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Natural gas is down by 6.08% — Natural gas decreased 6.08% to 2.5988 USD/MMBtu"
+    },
     {
       "id": "5013015",
       "time": "2026-07-29 05:37:07",
