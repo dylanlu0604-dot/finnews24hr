@@ -1,7 +1,87 @@
 {
   "date": "2026-07-29",
-  "count": 127,
+  "count": 136,
   "items": [
+    {
+      "id": "mkt:019fa9ba-e69a-7aab-8ed2-e1dfa632add4",
+      "time": "2026-07-29 01:17:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $1.126 billion from three counterparties in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "5012918",
+      "time": "2026-07-29 01:16:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "3家交易對手在美聯儲逆回購操作中獲得11.26億美元。"
+    },
+    {
+      "id": "mkt:019fa9ba-0d68-7aab-8ed2-dc76250168bc",
+      "time": "2026-07-29 01:16:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's deputy foreign minister said if Oman rejects Iran's conditions, Iran will not recognize the southern shipping route through the Strait of Hormuz."
+    },
+    {
+      "id": "5012917",
+      "time": "2026-07-29 01:15:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍資料顯示極端猶太人定居者暴力襲擊事件激增】以色列國家安全總局（辛貝特）的內部資料顯示，今年以來，以色列極端猶太人定居者的暴力襲擊事件呈大幅上升趨勢。資料顯示，2026年上半年，極端猶太人定居者對巴勒斯坦人共實施了660次襲擊，與2025年下半年的405起相比，激增了約60%。資料還揭示了近年來此類暴力事件的持續走高趨勢：2024年上半年為316起，下半年為355起，至2025年上半年升至440起。除針對巴勒斯坦人外，以色列猶太人定居者對以色列安全部隊的襲擊也從去年下半年的30起上升至過去六個月的45起。"
+    },
+    {
+      "id": "5012916",
+      "time": "2026-07-29 01:15:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝發言人：用導彈襲擊了一艘沙特油輪，該船隻在違反航行禁令。"
+    },
+    {
+      "id": "5012915",
+      "time": "2026-07-29 01:14:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：與阿曼蘇丹國的談判僅限於霍爾木茲海峽，我們正在就阿曼開通一條臨時航線進行磋商。"
+    },
+    {
+      "id": "mkt:019fa9b8-813c-7aab-8ed2-d44036ec1988",
+      "time": "2026-07-29 01:14:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli spokesman says the meeting between US President Trump and Israeli Prime Minister Netanyahu did not discuss Turkey or the F-35."
+    },
+    {
+      "id": "5012914",
+      "time": "2026-07-29 01:14:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：我們絕不會承認阿曼在霍爾木茲海峽的南部航道。"
+    },
+    {
+      "id": "5012913",
+      "time": "2026-07-29 01:14:12",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗副外長：如果阿曼不接受我們關於船舶通行路線的提議，霍爾木茲海峽將繼續關閉。"
+    },
     {
       "id": "mkt:019fa9b7-1c34-7aab-8ed2-cf2058c3c814",
       "time": "2026-07-29 01:12:57",
