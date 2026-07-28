@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-29 05:25:58",
-  "count": 17511,
+  "updated": "2026-07-29 05:29:53",
+  "count": 17509,
   "items": [
+    {
+      "id": "5013013",
+      "time": "2026-07-29 05:26:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "VISA首席財務官：除去疫情後復甦因素，美國支付交易量以自2019財年以來最快的速度增長。更高的退稅、燃料成本以及促銷購物活動的時機推動了美國支付量的增長。世界盃相關支出也推動了美國支付量的增長。"
+    },
+    {
+      "id": "mkt:019faa9f-3b78-7aab-8ed5-79b6939a1bdd",
+      "time": "2026-07-29 05:26:29",
+      "tags": [
+        "MKT News",
+        "V.N",
+        "Impact bullish"
+      ],
+      "text": "Visa (V.N) CFO: World Cup-related spending helped boost U.S. payment volume growth."
+    },
     {
       "id": "mkt:019faa9e-0719-7aab-8ed5-741323787460",
       "time": "2026-07-29 05:25:10",
@@ -160596,43 +160615,6 @@
         "市場"
       ],
       "text": "【中國醫藥控股在美股市場一度暴漲逾2000% 收盤升幅仍近八倍】中國醫藥控股週二在美股市場一度飆升逾2000%，創下紀錄最大漲幅。盤中股價最高達19.19美元，收盤上漲790%，達到2023年9月1日以來最高位，當天成交量為三個月日均值的3643%。"
-    },
-    {
-      "id": "5000909",
-      "time": "2026-07-22 05:29:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普提名亞當・坎德烏布出任司法部反壟斷司負責人。"
-    },
-    {
-      "id": "5000908",
-      "time": "2026-07-22 05:28:51",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國交易所收緊ETF關鍵詞調整規則，基金變更成分股需提前溝通】據韓國金融投資行業訊息，韓國交易所近日向主要資產管理公司釋出了《關於調整ETF關鍵詞的指導方針》。核心內容是，對於在指數編制方法中透過特定關鍵詞篩選成分股的ETF，任何關鍵詞調整都必須事先與交易所進行協商。交易所指出：“基於關鍵詞的編制方法往往依賴定性判斷，而非定量標準。”並表示：“我們發現了一些指數構成頻繁變動的情況。”交易所特別強調：“變更用於篩選成分股的關鍵詞可能被視為指數計算標準的變更，根據現行規則，這可能觸發退市條件。”此前有報道稱，未來資產全球投資旗下的“TIGER 半導體TOP10”ETF在定期調倉前變更了指數計算標準以更換成分股，引發了業界爭議。"
-    },
-    {
-      "id": "mkt:019f8694-b403-7aab-8e32-c4e74cc2de1c",
-      "time": "2026-07-22 05:28:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Korea Exchange tightens ETF keyword rules; issuers must consult before changing constituent screens】Korea Exchange (KRX) has told major asset managers they must consult the exchange in advance of any changes to keywords used to screen index constituents for ETFs, market sources said. KRX warned keyword-based indexing often relies on qualitative judgment and cited instances of frequent index turnover, saying changes to constituent-selection keywords may be treated as a change to index calculation methodology and, under current rules, could trigger delisting. The guidance follows industry controversy after Mirae Asset Global Investments’ TIGER Semiconductor TOP10 ETF altered index rules ahead of a scheduled rebalance to replace constituents."
-    },
-    {
-      "id": "mkt:019f8693-409f-7aab-8e32-bbd462b0780a",
-      "time": "2026-07-22 05:27:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Iran military warns US strikes on nuclear sites would trigger attacks on US, allied interests in Middle East】Early on the 22nd, Iran's Hatam al-Anbiya Central Command said Washington's threats to strike Iranian nuclear sites and other sensitive centers would be treated as an expansion of regional war. If US forces carry out such strikes, all US and allied interests in the Middle East would be considered targets for forceful attack by the Iranian armed forces."
     }
   ]
 }

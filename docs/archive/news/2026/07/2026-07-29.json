@@ -1,7 +1,26 @@
 {
   "date": "2026-07-29",
-  "count": 329,
+  "count": 331,
   "items": [
+    {
+      "id": "5013013",
+      "time": "2026-07-29 05:26:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "VISA首席財務官：除去疫情後復甦因素，美國支付交易量以自2019財年以來最快的速度增長。更高的退稅、燃料成本以及促銷購物活動的時機推動了美國支付量的增長。世界盃相關支出也推動了美國支付量的增長。"
+    },
+    {
+      "id": "mkt:019faa9f-3b78-7aab-8ed5-79b6939a1bdd",
+      "time": "2026-07-29 05:26:29",
+      "tags": [
+        "MKT News",
+        "V.N",
+        "Impact bullish"
+      ],
+      "text": "Visa (V.N) CFO: World Cup-related spending helped boost U.S. payment volume growth."
+    },
     {
       "id": "mkt:019faa9e-0719-7aab-8ed5-741323787460",
       "time": "2026-07-29 05:25:10",
