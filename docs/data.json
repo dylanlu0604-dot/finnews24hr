@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-29 00:16:48",
-  "count": 17514,
+  "updated": "2026-07-29 00:20:44",
+  "count": 17515,
   "items": [
+    {
+      "id": "mkt:019fa984-e8fa-7aab-8ed1-5119a314e837",
+      "time": "2026-07-29 00:18:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet"
+      ],
+      "text": "Google (GOOG.O) rolled out a GEMINI-enhanced commenting workflow in Google Docs."
+    },
+    {
+      "id": "5012852",
+      "time": "2026-07-29 00:17:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：在文件（Docs）中推出由 Gemini 驅動的評論工作流。"
+    },
     {
       "id": "mkt:019fa982-2ac0-7aab-8ed1-4c746e538388",
       "time": "2026-07-29 00:15:07",
@@ -160590,14 +160611,6 @@
         "其他"
       ],
       "text": "多倫多股指持續走高，漲幅達 1%."
-    },
-    {
-      "id": "mkt:019f857a-38f8-7aab-8e2f-1c0abc014f5c",
-      "time": "2026-07-22 00:20:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's prime minister met Iran's interior minister; Iran's interior minister praised Pakistan's efforts to facilitate an Islamabad memorandum of understanding."
     }
   ]
 }
