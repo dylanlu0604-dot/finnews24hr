@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-29 07:32:16",
-  "count": 17551,
+  "updated": "2026-07-29 07:36:09",
+  "count": 17549,
   "items": [
+    {
+      "id": "5013127",
+      "time": "2026-07-29 07:34:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國將於週四開始就新任聯合國秘書長人選舉行非正式投票。"
+    },
+    {
+      "id": "5013126",
+      "time": "2026-07-29 07:33:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價收復失地，在盤前交易中轉為上漲，此前一度下跌6.5%。"
+    },
+    {
+      "id": "mkt:019fab12-9e9e-7aab-8ed6-e1f0a3071873",
+      "time": "2026-07-29 07:32:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact mixed",
+        "US10Y"
+      ],
+      "text": "【Guan Tao: hawkish Fed official's deeper intent may still favour rate cuts】Guan Tao, global chief economist at BOC Securities, wrote that Fed disagreement over US inflation and rate policy remains, roughly split into three camps: dovish (Williams), neutral (Waller) and hawkish. A hawkish Fed official who testified to the Senate Banking Committee on July 15 repeatedly voiced dissatisfaction with inflation, reiterated a zero-tolerance stance and said the Fed would continue to push inflation back to target. Guan says the official may be staking out a hawkish posture now to build credibility and anchor inflation expectations, but his push to revise the inflation framework and his long-run view that AI will exert disinflationary pressure suggest his deeper intent may still lean toward eventual rate cuts. The official even said he is more concerned with the digits to the left of the decimal point of inflation. Guan therefore sees the Fed likely to keep policy unchanged through the year; however, if US financial turmoil, recession or labour-market deterioration occur over the next two years, the Fed could restart cuts. Current market pricing for additional hikes may be excessive."
+    },
+    {
+      "id": "5013124",
+      "time": "2026-07-29 07:31:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雍禾醫療：預計上半年淨利潤同比增長不少於150.9%】7月29日，雍禾醫療在港交所公告，集團預計於截至2026年6月30日止六個月錄得淨利潤不少於人民幣7000萬元，較2025年同期淨利潤人民幣2790萬元增長不少於150.9%；集團收入預計較2025年同期實現穩健增長不少於10.0%。"
+    },
     {
       "id": "5013123",
       "time": "2026-07-29 07:30:21",
@@ -160966,62 +161005,6 @@
         "公司"
       ],
       "text": "【儘管受到衝擊，澳大利亞企業破產數量仍下降】商業資料監控公司Creditorwatch表示，儘管燃料成本飆升、利率上升和通脹率高企，但在截至6月30日的一年裡，澳大利亞企業破產數量下降了3.9%。該公司表示，這一降幅受到了2024年所得稅減免和2025年降息的支援，為建築和酒店等高風險行業提供了支撐。該公司補充說，儘管如此，貿易違約和稅務債務再次上升，表明壓力不斷增加。該公司稱，即使是一次貿易違約，也會使接下來的12個月裡的破產風險大幅增加，達到全國平均水平的10倍以上。"
-    },
-    {
-      "id": "mkt:019f8708-f4a6-7aab-8e33-c73fb898e635",
-      "time": "2026-07-22 07:35:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian outlet Fars News reported several explosions near Sirik in southern Iran."
-    },
-    {
-      "id": "5000995",
-      "time": "2026-07-22 07:35:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部： 中央司令部部隊於今日東部時間晚上7點開始打擊伊朗境內的軍事目標，這是連續第11個夜晚的行動。這些打擊旨在繼續削弱伊朗威脅霍爾木茲海峽商業航運的能力。"
-    },
-    {
-      "id": "5000994",
-      "time": "2026-07-22 07:33:51",
-      "tags": [
-        "央行",
-        "公司",
-        "國際"
-      ],
-      "text": "【英國僱主4-6月薪酬協議漲幅維持在3.3%】週三公佈的資料顯示，儘管存在對伊朗戰爭和經濟不確定性的擔憂，但截至6月的三個月，英國僱主的薪酬協議漲幅保持穩定。英國央行料對這些資料進行研究。人力資源資料公司Brightmine的資料顯示，截至6月底的三個月，僱主提供的薪資漲幅中位數維持在3.3%，與此前三個滾動季度的漲幅持平。“儘管2027年的整體形勢仍不明朗，但今年迄今為止表現出的顯著穩定性表明，儘管面對更廣泛的經濟挑戰，各組織仍在尋求更可持續的薪酬定位。”Brightmine高階內容經理Sheila Attwood表示。"
-    },
-    {
-      "id": "mkt:019f8707-4c61-7aab-8e33-bf122a4a16e4",
-      "time": "2026-07-22 07:33:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【U.S. Central Command says 11th consecutive night of strikes inside Iran】U.S. Central Command said it struck military targets inside Iran beginning at 7:00 p.m. ET, the 11th consecutive night of such strikes. The operations are aimed at degrading Iran’s ability to threaten commercial shipping in the Strait of Hormuz."
-    },
-    {
-      "id": "5000993",
-      "time": "2026-07-22 07:32:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美媒：效果有限，美無奈給鋁關稅開口子】美國白宮曾寄望於用50%的進口關稅提振美國本土鋁產能，如今在鋁價飆升、增產效果有限的情況下，轉而為高關稅“開口子”。據彭博社20日報道，美國總統特朗普當天簽署公告，推出原鋁生產投資激勵計劃。企業只要在美國新建、擴建或翻新鋁冶煉廠並獲得政府批准，部分進口原鋁即可適用約25%的優惠稅率，較現行稅率減半。（環球時報）"
-    },
-    {
-      "id": "5000992",
-      "time": "2026-07-22 07:32:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日媒：11年來首次，日本大規模生產1日元硬幣】日本政府連續多年推動無現金支付，但現金依然在消費市場佔據一席之地。據《朝日新聞》旗下withnews19日報道，日本時隔11年恢復大規模生產1日元（約合0.04元人民幣）硬幣，全年計劃產量由2000萬枚大幅上調至1.32億枚。日本政府表示，市場上小額交易對1日元硬幣仍存在穩定需求。這一變化引發外界對日本現金使用現狀的關注。（環球時報）"
     }
   ]
 }

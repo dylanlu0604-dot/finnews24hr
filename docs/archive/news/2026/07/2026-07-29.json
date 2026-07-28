@@ -1,7 +1,46 @@
 {
   "date": "2026-07-29",
-  "count": 493,
+  "count": 497,
   "items": [
+    {
+      "id": "5013127",
+      "time": "2026-07-29 07:34:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國將於週四開始就新任聯合國秘書長人選舉行非正式投票。"
+    },
+    {
+      "id": "5013126",
+      "time": "2026-07-29 07:33:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價收復失地，在盤前交易中轉為上漲，此前一度下跌6.5%。"
+    },
+    {
+      "id": "mkt:019fab12-9e9e-7aab-8ed6-e1f0a3071873",
+      "time": "2026-07-29 07:32:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact mixed",
+        "US10Y"
+      ],
+      "text": "【Guan Tao: hawkish Fed official's deeper intent may still favour rate cuts】Guan Tao, global chief economist at BOC Securities, wrote that Fed disagreement over US inflation and rate policy remains, roughly split into three camps: dovish (Williams), neutral (Waller) and hawkish. A hawkish Fed official who testified to the Senate Banking Committee on July 15 repeatedly voiced dissatisfaction with inflation, reiterated a zero-tolerance stance and said the Fed would continue to push inflation back to target. Guan says the official may be staking out a hawkish posture now to build credibility and anchor inflation expectations, but his push to revise the inflation framework and his long-run view that AI will exert disinflationary pressure suggest his deeper intent may still lean toward eventual rate cuts. The official even said he is more concerned with the digits to the left of the decimal point of inflation. Guan therefore sees the Fed likely to keep policy unchanged through the year; however, if US financial turmoil, recession or labour-market deterioration occur over the next two years, the Fed could restart cuts. Current market pricing for additional hikes may be excessive."
+    },
+    {
+      "id": "5013124",
+      "time": "2026-07-29 07:31:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雍禾醫療：預計上半年淨利潤同比增長不少於150.9%】7月29日，雍禾醫療在港交所公告，集團預計於截至2026年6月30日止六個月錄得淨利潤不少於人民幣7000萬元，較2025年同期淨利潤人民幣2790萬元增長不少於150.9%；集團收入預計較2025年同期實現穩健增長不少於10.0%。"
+    },
     {
       "id": "5013123",
       "time": "2026-07-29 07:30:21",
