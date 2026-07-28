@@ -1,7 +1,85 @@
 {
   "date": "2026-07-28",
-  "count": 608,
+  "count": 616,
   "items": [
+    {
+      "id": "5011070",
+      "time": "2026-07-28 08:57:53",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美國聯邦航空管理局：數百架波音737 MAX客機的座椅安裝存在錯誤】美國聯邦航空管理局（FAA）週一表示，數百架在美國註冊的波音 737 MAX客機上的座椅安裝不當，需要進行修復。該機構稱，若不進行修復，在緊急迫降時，這些座椅可能會導致乘客和機組人員受傷，或阻塞過道從而延緩疏散程序。美國聯邦航空管理局週一釋出的擬議適航指令將適用於453架在美國註冊的客機。該機構僅對美國航空公司擁有管轄權，但外國監管機構通常會在適用情況下遵循美國聯邦航空管理局的指令。該指令草案出臺之際，波音公司正在執行長奧特伯格（Kelly Ortberg）的領導下，致力於提升生產質量並提高產量。2024年初，一架幾乎全新的阿拉斯加航空737 MAX客機在飛行途中發生艙門塞板脫落事件，由此暴露了生產質量問題。美國聯邦航空管理局在適航指令提案中表示，該機構收到報告稱，部分乘客座椅總成未正確安裝在座椅導軌上。FAA指出，這意味著若遇到載荷增加、氣流顛簸或緊急著陸等情況，這些元件可能會從座椅導軌上脫落。“如果不解決這一問題，在緊急著陸時可能會導致乘客和機組人員受傷，或者阻塞過道，從而延緩撤離，”該機構補充道。美國聯邦航空管理局稱，每架737 MAX飛機上最多可能有69個軌道式乘客座椅元件，修復每個元件預計需要一個工作小時，且無需更換任何零部件。該機構未說明航空公司需要多快解決這一問題。"
+    },
+    {
+      "id": "5011069",
+      "time": "2026-07-28 08:57:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北十堰釋出暴雨紅色預警】湖北十堰市氣象臺7月28日8時32分升級暴雨預警訊號為紅色：過去3小時，白浪街道、武當路街道、大川、西溝、柏林降雨量已達50—70毫米。預計未來3小時，強降雨仍將持續，上述地區及周邊累計雨量將達100毫米以上，城鄉積澇、山區山洪、地質災害、中小河流洪水風險極高，請特別加強防範。"
+    },
+    {
+      "id": "te:markets:570220",
+      "time": "2026-07-28 08:57:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Trade Slightly Lower — Australian stocks fell 28 points or 0.3%, to 8,866 on Tuesday morning trade, unwinding the prior day rally as weaker U.S. equity futures weighed on sentiment following another sharp sell-off in chipmakers on Wall Street overnight. Investors also grew cautious ahead of Australia’s June and Q2 inflation reports later this week, with sticky price pressures still a concern. Meanwhile, Reserve Bank Governor Michele Bullock is due to speak later today while the U.S. Federal Reserve’s policy rate decision also looms. Still, losses were partly contained after U.S. President Trump said Washington and Tehran were engaged in diplomatic talks to ease tensions. Sector-wise, technology, non-energy minerals, industrial services, and consumer durables led declines. The big four banks eased between 0.1% and 0.7%. Heavyweights BHP Group fell 1.0%, along with Evolution Mining (-1.8%), Santos Ltd. (-1.3%), and Macquarie Group (-1.1%)."
+    },
+    {
+      "id": "mkt:019fa639-b2ed-7aab-8eb8-f497b7c6138e",
+      "time": "2026-07-28 08:57:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【Alibaba Cloud says Zhenwu M890 super-node Day‑0 adapted to Kimi K3】Alibaba Cloud said its Zhenwu M890 super-node instance has been Day‑0 adapted to Kimi K3, making it the first domestic super-node to run a nearly 3 trillion‑parameter model. Alibaba Cloud, chip unit T‑Head and the Kimi team performed deep joint optimizations across the software stack and operators; Qianwen AI platform and Alibaba Cloud Bailian will offer Kimi K3 model APIs. Core operator optimizations for the Kimi K3 architecture reportedly raise inference compute and bandwidth efficiency, enabling stable support for up to 1M‑token context; tests show first‑token latency fell about 35% and single‑GPU decoding throughput rose 1.8x."
+    },
+    {
+      "id": "5011068",
+      "time": "2026-07-28 08:57:05",
+      "tags": [],
+      "text": "韓國KOSPI指數跌幅擴大至8％，SK海力士跌11％，三星電子跌超9％。"
+    },
+    {
+      "id": "5011067",
+      "time": "2026-07-28 08:57:01",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌8%。"
+    },
+    {
+      "id": "mkt:019fa639-78ba-7aab-8eb8-edf0b982ac3f",
+      "time": "2026-07-28 08:56:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【South Korean stock index plunges 8%】South Korea's KOSPI extended losses to 8%; SK Hynix fell 11% and Samsung Electronics dropped more than 9%."
+    },
+    {
+      "id": "5011066",
+      "time": "2026-07-28 08:55:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月27日277股獲融資買入超億元 中際旭創穫買入40.89億元居首】7月27日共有3506只個股獲融資資金買入，有277股買入金額超億元。其中，中際旭創、兆易創新、新易盛融資買入金額排名前三，分別獲買入40.89億元、36.87億元、20.69億元。"
+    },
     {
       "id": "5011065",
       "time": "2026-07-28 08:53:58",
