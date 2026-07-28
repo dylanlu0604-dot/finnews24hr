@@ -1,7 +1,43 @@
 {
   "date": "2026-07-29",
-  "count": 316,
+  "count": 320,
   "items": [
+    {
+      "id": "5013007",
+      "time": "2026-07-29 05:01:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【船隻支付370萬美元競拍費以加速透過巴拿馬運河】官方週二表示，一艘船近日在拍賣中支付了370萬美元，以換取更快速地透過巴拿馬運河。巴拿馬運河管理局表示，這一結果反映了“在特定時間節點對運河通行能力的需求”。運河管理局拒絕透露該船隻的名稱及與此次交易相關的其他細節。運河管理局指出，企業有時會根據商業優先順序、運營緊迫性以及全球供需動態，支付超過100萬美元的費用來確保預訂名額。此前已知的最高拍賣紀錄是今年4月份由一艘液化石油氣（LPG）運輸船創下的400萬美元。"
+    },
+    {
+      "id": "5013006",
+      "time": "2026-07-29 05:01:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金價跌超1%，逼近4000美元】週二（7月28日）紐約尾盤，現貨黃金跌1.17%，報4028.70美元/盎司，整體持續走低，交投於4083.01-4011.82美元，僅僅北京時間06:00前後曾短暫上漲。COMEX黃金期貨跌1.11%，報4090.40美元/盎司。現貨白銀跌2.12%，報57.1299美元/盎司。COMEX白銀期貨跌2.50%，報57.335美元/盎司。COMEX銅期貨跌0.64%，報6.3380美元/磅。現貨鉑金跌1.12%，現貨鈀金跌2.16%。"
+    },
+    {
+      "id": "5013005",
+      "time": "2026-07-29 05:00:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "OpenAI：我們認為，未來某一階段，前沿大模型的迭代增速或將達到極高水平，屆時全球需要對人工智慧的發展速度加以管控。我們期望攜手其他實驗室與開源社群，配合美國政府主導的相關工作，搭建能夠實現上述管控目標的工具與機制。"
+    },
+    {
+      "id": "te:markets:570508",
+      "time": "2026-07-29 04:59:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Gains as BCB Rate Cut Bets Grow — The Ibovespa rose 0.7% to close at 176,565 on Tuesday after Brazil's mid-July inflation report came in below expectations. Annual inflation slowed to 4.52%, below forecasts of 4.67% and down from 4.8% in June. The softer reading, together with June's lower-than-expected inflation data, reinforced expectations of a 25-basis-point Selic rate cut next week. Financials led the gains, with Banco do Brasil up 1.6% and B3 adding 1.8%. Bradesco (+0.3%) and Santander (+2.2%) are due to report earnings tomorrow. Utilities also rose, with Axia rising 1.9%. Ambev gained 1.5% ahead of its earnings release on Thursday. WEG extended gains, rising 0.6% after Goldman Sachs upgraded the stock to Neutral from Sell, citing more balanced market expectations. In contrast, Vivo (-6.3%) and TIM (-5.8%) tumbled after reporting results. TIM's mobile service revenue growth slowed to its weakest pace since 2021, while Vivo saw an 8% increase in depreciation and amortization expenses."
+    },
     {
       "id": "5013004",
       "time": "2026-07-29 04:54:13",
