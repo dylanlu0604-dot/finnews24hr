@@ -1,7 +1,116 @@
 {
   "date": "2026-07-28",
-  "count": 534,
+  "count": 545,
   "items": [
+    {
+      "id": "5011015",
+      "time": "2026-07-28 08:13:43",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國Kospi指數下跌逾6% 晶片股承壓】韓國基準股指Kospi指數跌逾6%，晶片股追隨隔夜美股晶片製造商板塊下挫。三星電子、SK海力士和SK Square對指數拖累最大，跌幅均至少6%。國內外基金淨賣出Kospi指數股票，散戶投資者則為淨買入。小盤股指數Kosdaq跌逾4%。"
+    },
+    {
+      "id": "mkt:019fa611-96f1-7aab-8eb8-96f6db269dfa",
+      "time": "2026-07-28 08:13:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【US officials: sanctions more damaging than strikes but slower; prolongation could hurt Republicans】Axios reports US officials say economic sanctions could ultimately inflict more damage on Tehran than military strikes. US intelligence and open-source reporting point to a deepening Iranian economic crisis, including gasoline shortages despite Iran being one of the world’s largest oil producers. One senior US official said: \"Iranians want the bombing to stop, they also want money. But the priority is almost reversed — what they really want is money.\" Another official acknowledged sanctions and a maritime blockade are likely to take longer than strikes to compel Tehran back to the negotiating table; Trump has not authorised a full-scale bombing campaign. The extended timeline could deepen Republican political risk by forcing them during the midterms to defend an unpopular war and high oil prices."
+    },
+    {
+      "id": "mkt:019fa611-827d-7aab-8eb8-8fc6c4fb14e0",
+      "time": "2026-07-28 08:13:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japanese and South Korean stocks opened lower and extended losses: Japan's Nikkei 225 down 3% to below 63,000 points; South Korea's KOSPI down 6.5%."
+    },
+    {
+      "id": "5011014",
+      "time": "2026-07-28 08:13:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數下跌3%。"
+    },
+    {
+      "id": "5011013",
+      "time": "2026-07-28 08:12:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴西就美關稅訴諸世貿組織 】巴西外交部當地時間7月27日發表宣告稱，針對美國政府近日宣佈的關稅措施，巴西已依據世界貿易組織爭端解決機制，正式要求與美國進行磋商。此次磋商涉及兩方面內容：一是美方以所謂“不公平貿易行為”為由，對部分巴西進口商品加徵25%關稅；二是美方以“強迫勞動”指控為由，對包括巴西在內數十個國家的商品加徵關稅。"
+    },
+    {
+      "id": "5011012",
+      "time": "2026-07-28 08:12:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨下跌0.3%。"
+    },
+    {
+      "id": "mkt:019fa610-a7e7-7aab-8eb8-847c4d74c65f",
+      "time": "2026-07-28 08:12:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's TOPIX extends decline to 2%."
+    },
+    {
+      "id": "5011011",
+      "time": "2026-07-28 08:11:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指跌幅擴大至6%】韓國綜指跌幅擴大至6%，現報6343.87點。個股方面，SK海力士跌超9%，三星電子跌超7%。"
+    },
+    {
+      "id": "mkt:019fa610-161e-7aab-8eb8-788c7bfd0515",
+      "time": "2026-07-28 08:11:39",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nikkei 225",
+        "Hang Seng Index"
+      ],
+      "text": "South Korea's KOSPI index fell 6.00% intraday to 6,343.87 points."
+    },
+    {
+      "id": "5011010",
+      "time": "2026-07-28 08:11:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "佳能股價在公佈第二季度財報後一度下跌6.3%。"
+    },
+    {
+      "id": "5011009",
+      "time": "2026-07-28 08:11:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數下跌2%，至3984.70點。"
+    },
     {
       "id": "mkt:019fa60e-bb83-7aab-8eb8-76d306a9fee2",
       "time": "2026-07-28 08:10:11",

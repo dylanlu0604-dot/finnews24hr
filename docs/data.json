@@ -1,7 +1,116 @@
 {
-  "updated": "2026-07-28 08:10:49",
-  "count": 17829,
+  "updated": "2026-07-28 08:14:38",
+  "count": 17830,
   "items": [
+    {
+      "id": "5011015",
+      "time": "2026-07-28 08:13:43",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國Kospi指數下跌逾6% 晶片股承壓】韓國基準股指Kospi指數跌逾6%，晶片股追隨隔夜美股晶片製造商板塊下挫。三星電子、SK海力士和SK Square對指數拖累最大，跌幅均至少6%。國內外基金淨賣出Kospi指數股票，散戶投資者則為淨買入。小盤股指數Kosdaq跌逾4%。"
+    },
+    {
+      "id": "mkt:019fa611-96f1-7aab-8eb8-96f6db269dfa",
+      "time": "2026-07-28 08:13:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【US officials: sanctions more damaging than strikes but slower; prolongation could hurt Republicans】Axios reports US officials say economic sanctions could ultimately inflict more damage on Tehran than military strikes. US intelligence and open-source reporting point to a deepening Iranian economic crisis, including gasoline shortages despite Iran being one of the world’s largest oil producers. One senior US official said: \"Iranians want the bombing to stop, they also want money. But the priority is almost reversed — what they really want is money.\" Another official acknowledged sanctions and a maritime blockade are likely to take longer than strikes to compel Tehran back to the negotiating table; Trump has not authorised a full-scale bombing campaign. The extended timeline could deepen Republican political risk by forcing them during the midterms to defend an unpopular war and high oil prices."
+    },
+    {
+      "id": "mkt:019fa611-827d-7aab-8eb8-8fc6c4fb14e0",
+      "time": "2026-07-28 08:13:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japanese and South Korean stocks opened lower and extended losses: Japan's Nikkei 225 down 3% to below 63,000 points; South Korea's KOSPI down 6.5%."
+    },
+    {
+      "id": "5011014",
+      "time": "2026-07-28 08:13:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數下跌3%。"
+    },
+    {
+      "id": "5011013",
+      "time": "2026-07-28 08:12:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴西就美關稅訴諸世貿組織 】巴西外交部當地時間7月27日發表宣告稱，針對美國政府近日宣佈的關稅措施，巴西已依據世界貿易組織爭端解決機制，正式要求與美國進行磋商。此次磋商涉及兩方面內容：一是美方以所謂“不公平貿易行為”為由，對部分巴西進口商品加徵25%關稅；二是美方以“強迫勞動”指控為由，對包括巴西在內數十個國家的商品加徵關稅。"
+    },
+    {
+      "id": "5011012",
+      "time": "2026-07-28 08:12:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨下跌0.3%。"
+    },
+    {
+      "id": "mkt:019fa610-a7e7-7aab-8eb8-847c4d74c65f",
+      "time": "2026-07-28 08:12:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's TOPIX extends decline to 2%."
+    },
+    {
+      "id": "5011011",
+      "time": "2026-07-28 08:11:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指跌幅擴大至6%】韓國綜指跌幅擴大至6%，現報6343.87點。個股方面，SK海力士跌超9%，三星電子跌超7%。"
+    },
+    {
+      "id": "mkt:019fa610-161e-7aab-8eb8-788c7bfd0515",
+      "time": "2026-07-28 08:11:39",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nikkei 225",
+        "Hang Seng Index"
+      ],
+      "text": "South Korea's KOSPI index fell 6.00% intraday to 6,343.87 points."
+    },
+    {
+      "id": "5011010",
+      "time": "2026-07-28 08:11:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "佳能股價在公佈第二季度財報後一度下跌6.3%。"
+    },
+    {
+      "id": "5011009",
+      "time": "2026-07-28 08:11:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數下跌2%，至3984.70點。"
+    },
     {
       "id": "mkt:019fa60e-bb83-7aab-8eb8-76d306a9fee2",
       "time": "2026-07-28 08:10:11",
@@ -163400,97 +163509,6 @@
         "公司"
       ],
       "text": "【全球首推第二代刀片電池、兆瓦閃充系統 工信部點尚比亞迪打破技術瓶頸】在國務院新聞辦公室7月20日舉辦的新聞釋出會上，深圳比亞迪公司全球首推的第二代刀片電池、兆瓦閃充系統，被工業和資訊化部特別提及並點贊“打破技術瓶頸”。 這項源自深圳企業比亞迪的重磅創新，並非單一產品突破，而是深圳全域加快推進“AI+能源”深度融合、構建新型智慧能源體系，從動力電池底層革新，到AI貫穿源網荷儲全鏈條，全方位助力新型能源體系“向智向新”的生動實踐。 今年3月，比亞迪釋出第二代刀片電池及閃充技術，實現電量從10%到70%僅需5分鐘，10%到97%需9分鐘，且零下30℃極寒環境仍保持穩定補能效率，徹底解決“電車不過山海關”的行業痛點。也讓“一杯咖啡，滿電出發”在深圳成為現實。（深圳特區報）"
-    },
-    {
-      "id": "te:markets:568333",
-      "time": "2026-07-21 08:14:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Steadies as Middle East Conflict Persists — Gold steadied near $4,000 an ounce on Tuesday but remained close to its lowest level in nine months as the ongoing conflict between the US and Iran kept investors focused on the risks of energy-driven inflation and the prospect of higher interest rates. US attacks on Iran entered a tenth consecutive day, with President Donald Trump warning that Iran would be held responsible for the deaths of three US service members. Iran-backed Houthi militants also announced a maritime embargo against Saudi Arabia, raising concerns over energy shipments through the Red Sea. Meanwhile, Iran said mediators had put forward proposals aimed at easing tensions with the US following several days of fighting, while reports pointed to a possible 10-day ceasefire. US Treasury yields climbed sharply this week, with markets now pricing in about a 55% chance of a Federal Reserve rate hike in September, up from 51% a day earlier."
-    },
-    {
-      "id": "4998634",
-      "time": "2026-07-21 08:14:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數上漲1%，至64793.30點。"
-    },
-    {
-      "id": "mkt:019f8205-dbf7-7aab-8e16-9354cba0adfd",
-      "time": "2026-07-21 08:14:09",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 index rose as much as 1.00% intraday."
-    },
-    {
-      "id": "4998633",
-      "time": "2026-07-21 08:13:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國7月1-20日出口同比增長52.3% 半導體出口激增180.6%】週二公佈的初步資料顯示，韓國7月前20天的出口較上年同期增長52.3%。政府資料顯示，半導體出口激增180.6%，而汽車出口則下降了10.6%。從目的地來看，韓國7月對中國出口同比增長94.1%，對美國出口增長39.6%。"
-    },
-    {
-      "id": "4998632",
-      "time": "2026-07-21 08:13:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際貨幣基金組織：執董會完成烏克蘭延長貸款安排的首次審議，並結束2026年第四條磋商。"
-    },
-    {
-      "id": "4998631",
-      "time": "2026-07-21 08:13:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際貨幣基金組織：評估完成後可向烏克蘭立即發放5.03億特別提款權（約合6.9億美元）。"
-    },
-    {
-      "id": "4998630",
-      "time": "2026-07-21 08:13:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【針對日本廠商停產高純六氟化鎢一事 臺積電回應：特種氣體供應渠道多元，生產不受衝擊】據報道，近期市場訊息稱，為臺積電等大型半導體企業供應電子氣體的日本特種氣體廠商中央硝子（Central Glass），將停止生產高純六氟化鎢（WF₆）。針對該訊息，臺積電於 20 日表態，預估此事不會對公司正常運營造成影響。臺積電公關部門昨日完整回應稱：“臺積電實行全球化採購佈局策略，持續推進多貨源供應體系，搭建多元化全球供應商網路。現階段我們判斷不會對公司運營帶來負面影響。”臺積電上下游供應鏈及相關供應商均表示，現階段鎢粉氣體原料不存在斷供風險，同時具備多種替代供貨方案，預計該事件對整個行業的衝擊十分有限。"
-    },
-    {
-      "id": "mkt:019f8204-75ea-7aab-8e16-8ee014a3cdef",
-      "time": "2026-07-21 08:12:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "【Chip pullback weighs on Asian equities; Australia outperforms】AI-driven trading has disrupted Asian equities in recent months, while Australia has shown relative resilience. The S&P/ASX 200 is set to outperform the MSCI Asia Pacific index for a second consecutive month, the longest streak since November 2024. Australia's limited exposure to chipmakers—once a drag during the AI rally—has insulated it as semiconductor stocks fall in Korea and Japan. The move highlights rising investor caution toward crowded AI trades and a rotation of flows into other markets."
-    },
-    {
-      "id": "4998628",
-      "time": "2026-07-21 08:11:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國太平：堅定支援資本市場發展 加大對戰略新興領域和新質生產力的投資力度】中國太平保險集團今日對記者表示，中國太平始終堅信中國經濟長期向好的基本格局，對中國經濟發展前景充滿信心，堅定看好中國資本市場的投資價值。今年以來，太平集團最佳化資產配置結構，加大權益投資力度，堅定落實中長期資金入市的戰略部署。下一步，將秉持“長期投資、價值投資、責任投資”理念，發揮資本市場“穩定器、壓艙石”作用，加大對戰略新興領域和新質生產力的投資力度，以實際行動彰顯保險資金長期資本、耐心資本優勢，助力經濟高質量發展。（財聯社）"
-    },
-    {
-      "id": "mkt:019f8203-0433-7aab-8e16-86b26a368c6e",
-      "time": "2026-07-21 08:11:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australian S&P/ASX 200 opened down 50.1 points (-0.57%) at 8,741.2 on July 21 (Tuesday)."
     }
   ]
 }
