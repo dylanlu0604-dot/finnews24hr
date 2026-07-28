@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-28 23:45:00",
-  "count": 17514,
+  "updated": "2026-07-28 23:48:59",
+  "count": 17513,
   "items": [
+    {
+      "id": "5012836",
+      "time": "2026-07-28 23:47:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "xAI：構建模式（Build Mode）今日開啟早期公測，僅面向網頁端、iOS端與安卓端的SuperGrok重度訂閱使用者開放。"
+    },
+    {
+      "id": "5012835",
+      "time": "2026-07-28 23:46:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【烏干達宣佈該國埃博拉疫情結束】當地時間7月28日，烏干達衛生部長克里斯·巴里奧蒙西宣佈，該國埃博拉疫情正式結束。根據世界衛生組織標準，在最後一例確診病例康復後連續42天未發現新增病例，即可宣佈疫情結束。"
+    },
+    {
+      "id": "5012834",
+      "time": "2026-07-28 23:46:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "xAI：Grok正式推出構建模式（Build Mode）。"
+    },
+    {
+      "id": "5012833",
+      "time": "2026-07-28 23:46:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "開雲集團ADR在公佈第二季度業績後上漲13%。"
+    },
     {
       "id": "5012832",
       "time": "2026-07-28 23:43:21",
@@ -160577,46 +160610,6 @@
         "Importance 1"
       ],
       "text": "DAX 40 Rises Led by Infineon — Frankfurt’s DAX 40 rose 0.7% to above 25,000 on Tuesday, supported by a rebound in global technology stocks as investors positioned for major earnings releases. The US tech sector led the recovery, with the Nasdaq 100 gaining 1.5% as companies linked to artificial intelligence continued to attract demand. Semiconductor maker Infineon jumped 5.6%, benefiting from renewed interest in chip stocks following stronger export data from South Korea and Taiwan. Siemens Energy also advanced nearly 4% as investors focused on its role in supplying power infrastructure for expanding data centres. Industrials were among the strongest performers, with Siemens gaining almost 2% and Airbus rising 1.3%. Banks also moved higher, while healthcare stocks received a boost after Swiss pharmaceutical group Novartis reported better-than-expected second quarter sales and earnings."
-    },
-    {
-      "id": "5000704",
-      "time": "2026-07-21 23:48:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "空客ADR漲3.4%，重新整理日高。"
-    },
-    {
-      "id": "mkt:019f855c-3126-7aab-8e2e-c35db470fcea",
-      "time": "2026-07-21 23:47:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Foreign Secretary Miliband is expected to hold bilateral talks with US Secretary of State Rubio on the sidelines of an ASEAN meeting."
-    },
-    {
-      "id": "5000703",
-      "time": "2026-07-21 23:46:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國外交大臣：預計將在東盟會議期間與魯比奧舉行雙邊會談。"
-    },
-    {
-      "id": "5000702",
-      "time": "2026-07-21 23:45:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "空客預計 2026 年交付約 870 架商用飛機  。"
-    },
-    {
-      "id": "mkt:019f855a-ac3c-7aab-8e2e-bebe87bbff40",
-      "time": "2026-07-21 23:45:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Media portion of the meeting between U.S. President Trump and the Lebanese president at the White House has concluded."
     }
   ]
 }
