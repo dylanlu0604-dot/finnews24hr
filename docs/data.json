@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-29 01:29:25",
-  "count": 17584,
+  "updated": "2026-07-29 01:33:26",
+  "count": 17585,
   "items": [
+    {
+      "id": "5012930",
+      "time": "2026-07-29 01:32:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美烏總統白宮會談討論“愛國者”攔截彈生產】美國總統特朗普28日上午在白宮同到訪的烏克蘭總統澤連斯基舉行閉門會談。澤連斯基會後表示，雙方討論了烏克蘭生產“愛國者”防空系統攔截彈以及重新推動結束烏克蘭危機的外交程序等問題。"
+    },
+    {
+      "id": "mkt:019fa9c8-6898-7aab-8ed3-0c54d757aa23",
+      "time": "2026-07-29 01:31:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "CENTCOM said more than 20 vessels are conducting military operations in the Middle East, including strict enforcement of the US \"ironclad blockade\" against Iran. As of July 28, it had rerouted 18 commercial ships, destroyed two vessels and boarded and inspected two others to ensure full compliance with the blockade."
+    },
+    {
+      "id": "5012929",
+      "time": "2026-07-29 01:30:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國石油（BP）：此次開發生產合同涵蓋油氣生產的首期階段，油氣儲量規模超30億桶油當量。"
+    },
+    {
+      "id": "mkt:019fa9c6-b0b5-7aab-8ed3-00a05ef16675",
+      "time": "2026-07-29 01:29:58",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【U.S., Israel leaders meet at White House; Iran nuclear issue central】U.S. President Trump met visiting Israeli Prime Minister Netanyahu at the White House for about one hour. The White House called the meeting \"positive and constructive.\" An Israeli prime minister’s office official said the atmosphere was good and the leaders discussed multiple regional issues, with Iran’s nuclear program the core focus. Both sides reaffirmed a shared commitment to \"prevent Iran from obtaining nuclear weapons\" and discussed strengthening the U.S.-Israel alliance and expanding regional cooperation opportunities."
+    },
+    {
+      "id": "5012928",
+      "time": "2026-07-29 01:29:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油：英國石油與土耳其石油股份公司已就土耳其石油股份公司（TPAO）收購英國石油基爾庫克能源有限公司15%權益達成協議。"
+    },
+    {
+      "id": "5012927",
+      "time": "2026-07-29 01:28:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油（BP）：歡迎土耳其石油公司加入伊拉克基爾庫克油田開發專案。"
+    },
     {
       "id": "5012926",
       "time": "2026-07-29 01:27:28",
@@ -161200,51 +161256,6 @@
         "DXY"
       ],
       "text": "【Trump warns Houthis US will act if they block Red Sea shipping or Saudi energy exports】President Trump said on Tuesday the United States would “deal with” Yemen’s Houthi group if it imposes a blockade on shipping or energy exports from Saudi Arabia via the Red Sea. Speaking in the Oval Office, he said the action has not occurred “so far” but “maybe will,” and reiterated “if this happens, we will act.” He added the US has taken action against the Houthis before and “haven’t heard from them” since those initial measures."
-    },
-    {
-      "id": "mkt:019f85bc-f1b4-7aab-8e2f-d7dfdeab35e2",
-      "time": "2026-07-22 01:33:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM NEWS reports explosions heard in Erbil, Iraq."
-    },
-    {
-      "id": "5000758",
-      "time": "2026-07-22 01:32:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴林內政部：巴林響起警報聲。"
-    },
-    {
-      "id": "mkt:019f85bb-f3c0-7aab-8e2f-cca44dff95bb",
-      "time": "2026-07-22 01:31:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bahrain Interior Ministry says alarms have been sounded."
-    },
-    {
-      "id": "5000757",
-      "time": "2026-07-22 01:30:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "ONERUGGED 推出搭載英特爾Lunar Lake平臺的 AI 加固 Windows 平板，邊緣 AI 算力最高可達 115 TOPS。"
-    },
-    {
-      "id": "mkt:019f85ba-0321-7aab-8e2f-c46e85264e92",
-      "time": "2026-07-22 01:29:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【U.S. defense secretary and Joint Chiefs chair to testify to Congress at 02:30 Beijing time】The U.S. defense secretary and the chairman of the Joint Chiefs will testify at a Senate committee hearing on Tuesday amid rising U.S.-Iran tensions. The session will focus on the Trump administration's supplemental funding request. At least two U.S. service members were killed in an Iranian strike on Friday, and another died in Iraq during a controlled demolition of an Iranian drone. The hearing is scheduled for the Senate afternoon, 02:30 Beijing time."
     }
   ]
 }
