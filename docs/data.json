@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-29 02:16:24",
-  "count": 17597,
+  "updated": "2026-07-29 02:20:12",
+  "count": 17596,
   "items": [
+    {
+      "id": "mkt:019fa9f2-9e37-7aab-8ed3-956921390c78",
+      "time": "2026-07-29 02:17:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's cabinet condemned Iran and its proxies for multiple drone attacks on the Abdali border crossing last Thursday."
+    },
+    {
+      "id": "mkt:019fa9f1-81d1-7aab-8ed3-8f7ae3996aaf",
+      "time": "2026-07-29 02:16:44",
+      "tags": [
+        "MKT News",
+        "LCID.O",
+        "Impact bullish"
+      ],
+      "text": "【Saudi prince takes 5% stake in Lucid; shares jump about 24%】Lucid Group shares rose about 24% on Tuesday after a regulatory filing showed Prince Alwaleed bin Talal bought roughly 19.5 million shares for $129.5 million, lifting his stake to 5%. A spokesman said the purchase followed a recent sharp decline in Lucid's share price. Markets viewed the investment as a confidence vote that could ease investor concerns after earlier cash-pressure and loss-driven bankruptcy fears; Lucid denied bankruptcy reports but confirmed it had hired AlixPartners and previously suffered a one-day 57% plunge. The company still faces challenges on sales growth, profitability and cash flow."
+    },
     {
       "id": "5012953",
       "time": "2026-07-29 02:15:42",
@@ -161324,34 +161346,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Lithium Carbonate Falls by 4.95% — Top commodity losers are Lithium Carbonate (-4.95%) and Iron Ore CNY (-1.19%). Gains are led by Silver (4.29%), Copper (2.86%), Platinum (1.73%) and Gold (1.62%)."
-    },
-    {
-      "id": "mkt:019f85e8-1eec-7aab-8e30-44c9876c7df6",
-      "time": "2026-07-22 02:20:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM NEWS: Iraqi sources say Erbil International Airport has suspended operations after recent rocket and drone attacks in Iraq's Kurdistan region."
-    },
-    {
-      "id": "mkt:019f85e5-9730-7aab-8e30-3fa54d93f850",
-      "time": "2026-07-22 02:17:23",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "IRNA: An Iranian military spokesman said the country’s defensive deployments are not currently confined to its borders."
-    },
-    {
-      "id": "5000774",
-      "time": "2026-07-22 02:16:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【OpenAI執行長將向美國官員介紹下一代人工智慧模型】OpenAI的高管表示，該公司執行長Sam Altman計劃下週向特朗普政府和美國議員介紹即將到來的下一代人工智慧模型，眼下美國正著手建立針對前沿人工智慧系統的安全審查程式。OpenAI全球公共事務主管Chris Lehane週二表示，Altman此舉正值美國官員制定人工智慧安全審查框架之際，該框架預計將在未來幾周內完成。Lehane稱，Altman的部分會議將重點討論公司的新模型系列，包括這些模型將如何影響工作。“我們認為，這一系列模型將具備一些非常有趣的功能，尤其是在工作和工作規模化方面，”Lehane在華盛頓舉行的簡報會上表示。"
     }
   ]
 }

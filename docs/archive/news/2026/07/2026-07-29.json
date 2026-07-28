@@ -1,7 +1,29 @@
 {
   "date": "2026-07-29",
-  "count": 192,
+  "count": 194,
   "items": [
+    {
+      "id": "mkt:019fa9f2-9e37-7aab-8ed3-956921390c78",
+      "time": "2026-07-29 02:17:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's cabinet condemned Iran and its proxies for multiple drone attacks on the Abdali border crossing last Thursday."
+    },
+    {
+      "id": "mkt:019fa9f1-81d1-7aab-8ed3-8f7ae3996aaf",
+      "time": "2026-07-29 02:16:44",
+      "tags": [
+        "MKT News",
+        "LCID.O",
+        "Impact bullish"
+      ],
+      "text": "【Saudi prince takes 5% stake in Lucid; shares jump about 24%】Lucid Group shares rose about 24% on Tuesday after a regulatory filing showed Prince Alwaleed bin Talal bought roughly 19.5 million shares for $129.5 million, lifting his stake to 5%. A spokesman said the purchase followed a recent sharp decline in Lucid's share price. Markets viewed the investment as a confidence vote that could ease investor concerns after earlier cash-pressure and loss-driven bankruptcy fears; Lucid denied bankruptcy reports but confirmed it had hired AlixPartners and previously suffered a one-day 57% plunge. The company still faces challenges on sales growth, profitability and cash flow."
+    },
     {
       "id": "5012953",
       "time": "2026-07-29 02:15:42",
