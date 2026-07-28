@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-29 03:30:01",
-  "count": 17585,
+  "updated": "2026-07-29 03:33:54",
+  "count": 17582,
   "items": [
+    {
+      "id": "mkt:019faa37-7128-7aab-8ed4-5c5cfdcd378c",
+      "time": "2026-07-29 03:33:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Saudi defence ministry said air defences intercepted and destroyed several drones launched from inside Iraq that were targeting oil facilities in the eastern region."
+    },
+    {
+      "id": "5012976",
+      "time": "2026-07-29 03:32:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特國防部：國防部官方發言人表示，過去數小時內，防空系統攔截並摧毀了數架企圖襲擊東部地區石油設施的無人機。 此類恐怖襲擊再度從伊拉克境內發起，由伊朗關聯的恐怖民兵組織實施。申明沙特王國擁有自衛的合法權利，具備相應防禦能力，並保留在合適時機、地點採取反擊行動的權利。"
+    },
     {
       "id": "5012975",
       "time": "2026-07-29 03:29:12",
@@ -161201,51 +161222,6 @@
         "國際"
       ],
       "text": "美國參議員柯林斯稱，部分軍種近期面臨償債能力挑戰。"
-    },
-    {
-      "id": "5000814",
-      "time": "2026-07-22 03:33:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【匈牙利總理就倉促提名棋壇名將波爾加競選總統致歉】匈牙利總理毛焦爾公開致歉，此前國際象棋傳奇棋手尤迪特·波爾加拒絕出任匈牙利下一任總統的提名。毛焦爾稱自己過於倉促地對外公佈提名波爾加一事，並表示對此事承擔全部責任。他上週日在臉書發文稱，49歲的波爾加能夠代表國家團結，計劃週一與波爾加會面，徵詢她是否接受提名。儘管總統職位大多屬於禮儀性職務，但波爾加表示，自己尚未準備好承擔“團結分歧重重的國家這一歷史性重任”。"
-    },
-    {
-      "id": "mkt:019f862a-6792-7aab-8e30-e8b33ec7efaf",
-      "time": "2026-07-22 03:32:33",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【House Republicans advance short-term funding bill and $95bn reconciliation framework】House Republicans cleared a procedural hurdle 241-211 to advance a short-term funding measure and a budget framework that underpins a $95bn partisan policy package via reconciliation. The stopgap aims to fund the federal government through December; leadership seeks to pass the CR Tuesday night and the House is expected to vote on a budget resolution Wednesday. Republicans intend to use the framework to draft and pass a third conservative policy package this Congress without Democratic support."
-    },
-    {
-      "id": "5000813",
-      "time": "2026-07-22 03:32:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：倘若我們當下不在技術、算力、人工智慧、自主系統與太空領域開展關鍵投入，我們的對手已然在佈局相關投資，或將實現對美國的趕超。"
-    },
-    {
-      "id": "5000812",
-      "time": "2026-07-22 03:31:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克石油部長表示，該國石油產能為每日480萬桶。"
-    },
-    {
-      "id": "mkt:019f8629-4bfa-7aab-8e30-e092e3cee4fa",
-      "time": "2026-07-22 03:31:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraq's oil minister said the country's crude production capacity is currently 4.8 million barrels per day."
     }
   ]
 }

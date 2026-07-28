@@ -1,7 +1,28 @@
 {
   "date": "2026-07-29",
-  "count": 242,
+  "count": 244,
   "items": [
+    {
+      "id": "mkt:019faa37-7128-7aab-8ed4-5c5cfdcd378c",
+      "time": "2026-07-29 03:33:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Saudi defence ministry said air defences intercepted and destroyed several drones launched from inside Iraq that were targeting oil facilities in the eastern region."
+    },
+    {
+      "id": "5012976",
+      "time": "2026-07-29 03:32:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特國防部：國防部官方發言人表示，過去數小時內，防空系統攔截並摧毀了數架企圖襲擊東部地區石油設施的無人機。 此類恐怖襲擊再度從伊拉克境內發起，由伊朗關聯的恐怖民兵組織實施。申明沙特王國擁有自衛的合法權利，具備相應防禦能力，並保留在合適時機、地點採取反擊行動的權利。"
+    },
     {
       "id": "5012975",
       "time": "2026-07-29 03:29:12",
