@@ -1,7 +1,128 @@
 {
   "date": "2026-07-28",
-  "count": 2746,
+  "count": 2759,
   "items": [
+    {
+      "id": "5012612",
+      "time": "2026-07-28 21:22:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【藍龍蝦降價近20%】藍龍蝦，原產澳大利亞，國內部分地區已有大規模養殖。廣東珠三角區域是國內藍龍蝦主產區之一，眼下正值消費旺季。在廣東佛山高明區的一處蝦塘，養殖戶告訴央視財經記者，每天都有幾個貿易商過來拿蝦，目前38元到40元一斤。從廣州趕來採購的貿易商告訴記者，今年市場行情向好，隨著養殖成本降低，藍龍蝦的價格下行帶動銷量明顯上漲。各種規格藍龍蝦的價格普遍下降20%左右。記者走訪發現，隨著育苗技術實現突破，蝦苗成本較往年明顯下降，藍龍蝦養殖經濟效益持續提升，不少養殖戶紛紛擴大規模。資料顯示，2024年廣東佛山高明區養殖藍龍蝦達2100多畝，2026年躍升至6000畝，預計今年產值接近2億元。（央視財經）"
+    },
+    {
+      "id": "5012611",
+      "time": "2026-07-28 21:22:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【瑞典前首相稱：將建立對外情報機構，“監控”俄羅斯領導人】當地時間7月26日，瑞典前首相卡爾·比爾特接受英國《經濟學人》採訪時稱，瑞典正在組建一個新的對外情報機構，負責在海外開展秘密行動，尤其是“監控俄羅斯領導人的動向”。 報道稱，瑞典政府計劃效仿英國秘密情報局（軍情六處），成立一個名為對外情報局（UND）的新機構，它將和瑞典軍事情報與安全域性協同運作，並接管其部分職責。預計瑞典議會將在當地時間8月13日批准這項計劃，對外情報局將從明年1月開始正式運作。（觀察者網）"
+    },
+    {
+      "id": "5012610",
+      "time": "2026-07-28 21:22:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協創資料：長鑫科技與公司不存在直接競爭關係】近日，有投資者在互動平臺向協創資料提問：長鑫科技上市是不是對公司儲存業務產生影響？是否存在競爭關係？7月28日晚，協創資料回應稱，長鑫科技與公司處於產業鏈不同環節，不存在直接競爭關係。"
+    },
+    {
+      "id": "5012609",
+      "time": "2026-07-28 21:21:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "UPS執行長表示，由於中東地區的動盪局勢，我們已看到歐洲出口貨運量出現一定下滑。"
+    },
+    {
+      "id": "mkt:019fa8e2-98e1-7aab-8ece-26964dbd5ac0",
+      "time": "2026-07-28 21:20:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【US, UAE set up task force to speed military AI development】CENTCOM said it has agreed with the UAE to form the first bilateral special task force to accelerate military artificial intelligence applications. Named Task Force Talon Synapse, it is expected to stand up in the coming weeks and will include about 20 US and UAE personnel with AI, data and cybersecurity expertise. The unit will prioritize integrating AI to support intelligence, protect critical infrastructure and monitor the regional security environment."
+    },
+    {
+      "id": "mkt:019fa8e2-87ba-7aab-8ece-1f30624eb135",
+      "time": "2026-07-28 21:20:45",
+      "tags": [
+        "MKT News",
+        "V.O",
+        "Impact mixed"
+      ],
+      "text": "Visa confirmed media reports it plans to cut about 7% of its workforce."
+    },
+    {
+      "id": "mkt:019fa8e2-34ad-7aab-8ece-13ac02d3a8fb",
+      "time": "2026-07-28 21:20:24",
+      "tags": [
+        "MKT News",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "TSMC (TSM.N) says the building structure at its Kumamoto fab is intact."
+    },
+    {
+      "id": "5012608",
+      "time": "2026-07-28 21:19:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "UPS執行長表示，關稅確實對從加拿大到美國的貨運量產生了影響。"
+    },
+    {
+      "id": "5012607",
+      "time": "2026-07-28 21:19:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電稱熊本廠區建築結構安全。"
+    },
+    {
+      "id": "5012606",
+      "time": "2026-07-28 21:19:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "UPS執行長表示，我們已看到關稅對某些地區的貨運量產生影響。"
+    },
+    {
+      "id": "mkt:019fa8e0-e17b-7aab-8ece-0d3510ebfdf5",
+      "time": "2026-07-28 21:18:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russia's Kirishi refinery is preparing to resume production after an attack."
+    },
+    {
+      "id": "mkt:019fa8e0-94ba-7aab-8ece-06566736544b",
+      "time": "2026-07-28 21:18:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "TSM.O",
+        "Impact bullish"
+      ],
+      "text": "TSMC: operations at its Kumamoto fab are gradually resuming."
+    },
+    {
+      "id": "5012605",
+      "time": "2026-07-28 21:18:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "可口可樂執行長稱低收入群體消費壓力仍存。"
+    },
     {
       "id": "5012604",
       "time": "2026-07-28 21:17:54",
