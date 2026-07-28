@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-29 05:18:02_
-_本檔包含 3273 則快訊，約 666173 字_
+_更新時間：2026-07-29 06:36:51_
+_本檔包含 3260 則快訊，約 666692 字_
+
+---
+
+### 2026-07-27 22:05:11  #MKT News
+
+【MIIT issues "Small, Fast, Light, Precise" digital products and services cultivation guide (2026)】The Ministry of Industry and Information Technology (MIIT) issued the 2026 edition of its "small, fast, light, precise" digital products and services cultivation guide. The guide directs service providers to align offerings with Chinese SMEs’ digital-transformation needs—innovation, quality improvement, cost reduction, efficiency gains, green transition and security—and to improve supply–demand matching. It will serve as a reference for local SME authorities when selecting and nurturing such products and services. The term "small, fast, light, precise" is defined as miniaturized, rapid, lightweight and precise. The guide requires a demand-driven approach focused on SMEs’ transformation pain points; encourages local tailoring of cultivation standards and a classified/graded support system; calls for stronger policy coordination and resource pooling; and urges acceleration of a multi-party, complementary SME digital transformation service ecosystem.
+
+---
+
+### 2026-07-27 22:04:55  #國際
+
+聯合國人權事務高階專員：我們已記錄到以色列在黎巴嫩違反國際法的行為，其中部分行為已構成戰爭罪。
+
+---
+
+### 2026-07-27 22:04:43  #國際
+
+俄羅斯外交部發言人就烏克蘭問題表示：我們願意對新的想法和提議予以考慮。
+
+---
+
+### 2026-07-27 22:04:14  #其他
+
+【工信部印發《“小快輕準”數字化產品和服務培育指引（2026年版）》】工信部印發《“小快輕準”數字化產品和服務培育指引（2026年版）》，旨在引導服務商緊密圍繞中小企業在創新、提質、降本、增效、綠色、安全等方面數字化轉型需求，促進數字化產品與服務供需適配，加快中小企業數字化轉型，為各地中小企業主管部門遴選培育“小快輕準”數字化產品和服務提供參考指引。“小快輕準”，即小型化、快速化、輕量化、精準化。指引要求，堅持需求牽引，以中小企業數字化轉型需求為導向，緊扣轉型痛點；鼓勵地方因地制宜細化培育標準，建立分類分級培育體系；加強政策協同和資源統籌，加快構建多方參與、優勢互補的中小企業數字化轉型服務供給生態。
+
+---
+
+### 2026-07-27 22:04:04  #公司
+
+【張廣旭任上海資產管理協會首席研究官兼技術長】7月27日，上海資產管理協會宣佈技術長張廣旭兼任首席研究官。公告簡歷顯示，張廣旭，男，1996年11月出生，民建會員。研究生學歷，理學博士，畢業於中國科學院大學。曾任上海資產管理協會副秘書長。
+
+---
+
+### 2026-07-27 22:03:56  #國際
+
+貝克休斯表示，中東衝突給第三季度油田裝置與技術服務（IET）營收帶來1%-2%的下降。
+
+---
+
+### 2026-07-27 22:03:46  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Hits Record High as Oil Prices Tumble — The S&P/TSX Composite Index gained 0.5% to trade above 35,500 on Monday, reaching a record high as oil prices tumbled following a pause in hostilities between the US and Iran. Crude prices fell after both countries halted strikes over the weekend amid renewed diplomatic efforts, with President Donald Trump reportedly open to restarting peace talks. The decline in oil prices eased energy-driven inflation concerns, pushing Canadian bond yields lower and supporting financials. RBC, BMO, and CIBC gained about 1%, while TD Bank and Scotiabank added more than 0.5%. Gold prices advanced as lower US Treasury yields boosted demand for the metal, lifting mining stocks. Agnico Eagle, Barrick, and WPM each gained about 1%. Shopify climbed more than 5%, tracking gains in US software stocks. In contrast, energy shares declined on lower oil prices, with Suncor and Cenovus losing nearly 3%. Celestica (+0.3%) and Gibson Energy (-1.2%) are scheduled to report earnings after the market close.
+
+---
+
+### 2026-07-27 22:03:33  #觀點 #國際
+
+【摩根大通：超大規模資料中心債券供應激增致投資者持觀望態度】摩根大通最新研報指出，儘管超大規模資料中心運營商的債券利差與收益率持續走闊，但受市場對債券發行量持續激增的預期影響，投資者目前對二級市場此類債券持謹慎觀望態度。摩根大通策略師納撒尼爾·羅森鮑姆在週一釋出的報告中披露，上週美國流動性指數顯示，超大規模債券利差大幅擴大16個基點至151個基點，而該指數其他成分股利差僅微擴1個基點至91個基點，超大規模債券收益率相對提升61%。目前，投資級超大規模資料中心運營商的債券收益率已較BB級高收益債券（垃圾級最高評級）高出80個基點。報告分析認為，當前的估值水平理論上應開始吸引跨界投資者入場，但市場普遍存在“等待更優定價”的博弈心態。投資者普遍預期後續主要發行定價可能更低，因此傾向於推遲買入。同時，市場原本希望利差的擴大能促使發行方放緩發債節奏或使發行更具規律性，但發行人往往將利差擴大視為整體資本支出與融資成本中佔比較小的部分，發債意願並未受到實質性抑制。
+
+---
+
+### 2026-07-27 22:03:16  #公司 #觀點
+
+【中金公司首席經濟學家彭文生到齡退休，繆延亮接任】中國國際金融股份有限公司（中金公司，601995.SH，3908.HK）首席經濟學家更迭。7月27日，澎湃新聞記者瞭解到，中金公司首席經濟學家彭文生已到齡退休。此前任中金公司董事總經理、首席策略師的繆延亮，已接任公司首席經濟學家職務。（澎湃）
+
+---
+
+### 2026-07-27 22:02:34  #Trading Economics #Markets #United States #stocks #Importance 1
+
+UnitedHealth Stock Price Hits 4-week Low — UnitedHealth shares decreased to 412.79 USD, the lowest since June 2026. Over the past 4 weeks, UnitedHealth lost 0.48%, and in the last 12 months, it increased 47.14%.
+
+---
+
+### 2026-07-27 22:02:15  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran's supreme leader reaffirms support for Hezbollah】A letter published by Iranian state media said Iran's supreme leader Mujtaba Khamenei reaffirmed support for Hezbollah and said Iran has made preserving Lebanon's territorial integrity and the complete, unconditional end of Israeli military operations inside Lebanon the primary conditions for any memorandum of understanding with the United States to end the war.
+
+---
+
+### 2026-07-27 22:01:09  #宏觀
+
+【國務院國資委釋出2026央企人工智慧戰略性高價值場景等系列成果】2026世界人工智慧大會期間，國務院國資委在“智賦新質 全域煥新”企業人工智慧高質量發展論壇正式釋出第二批央企人工智慧戰略性高價值場景和行業高質量資料集，上線AI開源“煥新社群”2.0，啟動國資央企智慧軟體工廠聯合築基工程。此次釋出的央企人工智慧領域系列成果，構築起涵蓋開源生態、場景落地、資料流通、智慧算力等全鏈條能力佈局，標誌著央企以人工智慧賦能實體經濟進入體系化推進新階段。下一步，國務院國資委將深入推進央企“AI+”專項行動。聚焦高價值場景，加快人工智慧賦能千行百業，主動向產業鏈開放場景資源，聯合上下游同題共答、協同創新。加強關鍵要素供給，加快算力基礎設施建設，深化算電協同，提升全鏈條資料治理能力，夯實智慧化產業發展底座。推動開源開放，培育互利共贏產業生態，為加快構建現代化產業體系、打造智慧經濟新形態注入強勁動能。
+
+---
+
+### 2026-07-27 22:00:38  #國際
+
+【英國新任國防大臣：歐洲要感謝特朗普 是他把我們從自滿中搖醒 逼得我們自立自強 不再依賴】英國新任國防大臣斯特里廷7月26日表示，他願意在共同關心的問題上與特朗普政府合作。斯特里廷說：我們並不總是喜歡他說的話，也不總是喜歡他的做法。但我真心認為，當這段歷史被書寫時，歐洲會感謝特朗普總統，是他讓我們擺脫了自滿情緒，迫使我們自立自強，結束了在防務上對美國的過度依賴。（參考訊息）
+
+---
+
+### 2026-07-27 21:59:48  #公司 #市場 #國際
+
+【美國解除對墨西哥活牛進口禁令 泰森食品與JBS股價大幅上漲】隨著市場預期美國將恢復從墨西哥進口活牛，美國主要肉類加工企業股價週一集體走高。此前，為防範致命寄生蟲新大陸螺旋蠅的傳播，美國對墨西哥活牛實施了長達一年多的進口禁令。美國農業部上週五宣佈，將從8月24日起分階段重新開放美墨邊境的活牛進口口岸。這一政策調整旨在緩解美國國內因持續乾旱和進口禁令雙重擠壓而導致的牛源短缺問題。受此訊息提振，市場迅速消化了供應恢復的預期，前期因供應緊缺而積聚的多頭倉位遭到集中平倉，活牛期貨價格應聲下跌。供應端的寬鬆預期直接利好下游肉類加工商。在過去一年中，由於美國本土牛群規模降至75年來最低水平，加之墨西哥活牛進口渠道被切斷，肉類加工企業為爭奪稀缺的屠宰原料不得不支付高昂溢價，利潤空間受到嚴重擠壓。截至美東時間週一上午，肉類加工板塊全線飄紅。其中，JBS股價漲幅居前，達到6.8%；泰森食品股價大漲5.8%；荷美爾食品公司上漲1.9%；朝聖者的驕傲上漲1.5%；史密斯菲爾德食品公司上漲1%。
+
+---
+
+### 2026-07-27 21:58:21  #MKT News #Market Themes #AI Revolution #QCOM.O
+
+【Qualcomm's Zhu Yuankun: Personal AI must have three core capabilities】Qualcomm product technology expert Zhu Yuankun said personal AI must include three core capabilities—personalization, always-on perception and privacy/security—which will drive a systemic reshaping of traditional computing architecture and become central to future chip HW/SW and operating system design. He identified perception, memory, reasoning and tool execution as the four module types that will underpin agent experiences, and said endpoint–cloud collaboration is necessary to leverage cloud and device strengths for truly personalized, efficient agent AI.
+
+---
+
+### 2026-07-27 21:58:18  #其他
+
+【《從AI裝置到個人AI：智慧體驅動的終端進化與產業重構》白皮書釋出】在7月27日舉行的財新圓桌-AI系列活動“智慧體時代終端產業的下一站”專題活動上，由高通委託，IDC獨立開展研究的《從AI裝置到個人AI：智慧體驅動的終端進化與產業重構》白皮書正式釋出。白皮書基於產業及技術演進趨勢，系統梳理和分析了產業現狀，探討了“個人AI”的核心特徵、價值潛力與實現路徑，旨在為產業各方把握智慧體時代的發展機遇、實現戰略轉型提供參考。
+
+---
+
+### 2026-07-27 21:57:58  #其他
+
+貝克休斯預計 2030 年全球液化天然氣產能將達到 8 億噸 / 年。
+
+---
+
+### 2026-07-27 21:57:23  #央行 #國際
+
+據美國紐約聯儲資料，上個交易日（7月24日）擔保隔夜融資利率（SOFR）報3.64%，之前一天報3.64%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。
+
+---
+
+### 2026-07-27 21:57:15  #公司
+
+【高通朱元堃：個人AI必須具備三大核心能力】在7月27日舉行的財新圓桌-AI系列活動“智慧體時代終端產業的下一站”專題活動上，高通公司產品技術專家朱元堃表示，個人AI必須具備個性化、全時感知、隱私安全三大核心能力，傳統計算架構正迎來系統性重塑。感知、記憶、推理、工具執行四大能力模組將共同構成未來智慧體體驗的基礎，併成為晶片軟硬體設計和作業系統設計未來發展的核心命題。此外，端雲協同將成為智慧體充分利用雲端和終端不同計算和場景優勢，實現真正個性化且高效的智慧體AI體驗的必然方向。
+
+---
+
+### 2026-07-27 21:57:03  #MKT News #Important #SPCX.O #Impact bearish
+
+SpaceX (SPCX.O) shares hit a record low since listing, down about 4% at $110.30.
+
+---
+
+### 2026-07-27 21:56:32  #國際
+
+【英偉達新一輪逾7500億美元的AI基建交易令迴圈融資憂慮重燃】新聞報道 前一 下一 傳送 選項 翻譯101) 英偉達新一輪逾7500億美元的AI基建交易令迴圈融資憂慮重燃 CBN 21:56 102) Nvidia’s $750 Billion Deals Revive Fear of AI Circular Financing BN 18:20 07/27/2026 21:56:06[CBN] 這些交易的風險在於，它們可能扭曲多個行業的商業激勵，導致不良決 策；一旦人工智慧需求未能達到高企的預期，還可能放大損失。一位知情 人士稱，英偉達還在討論為OpenAI為該美國專案購買價值3500億美元的英 偉達晶片提供融資。 Allspring Global Investments投資組合經理Gary Tan表示：“儘管英偉達 的投資和合作增強了市場對人工智慧長期基礎設施建設的信心，但投資者 仍然擔心迴圈融資問題。越來越多的資本正被用於資助未來的人工智慧客 戶和基礎設施部署。”
+
+---
+
+### 2026-07-27 21:56:11  #Trading Economics #Markets #Commodity #Importance 0
+
+Corn Falls from 5-Week High — Corn futures fell to around $4.5 per bushel, moving away from a five-week high of $4.64 hit on July 24, pressured by a sharp decline in crude oil prices after the United States and Iran paused military strikes over the weekend, raising hopes that diplomatic efforts could de-escalate tensions in the Middle East and restore shipping through the Strait of Hormuz. Lower energy prices weighed on grain markets as weaker biofuel margins reduced demand expectations for corn-based ethanol. Meanwhile, traders continued to monitor developments in the Black Sea region, where ongoing attacks on grain infrastructure and port facilities in Ukraine remained a risk to global exports. However, reports that Ukraine was discussing mechanisms to keep vessels operating through its Black Sea ports helped ease concerns over a major disruption to grain shipments.
+
+---
+
+### 2026-07-27 21:56:03  #MKT News #Important #Commodities #Industrial Metals
+
+Soda ash most-active futures contract fell 2.00% intraday to 980.00 yuan/ton, a record low since listing.
+
+---
+
+### 2026-07-27 21:55:44  #市場
+
+SpaceX股價創下歷史新低，最新下跌3.9%，報每股110.6美元。
+
+---
+
+### 2026-07-27 21:55:27  #其他
+
+【智元啟動赴港IPO，特斯拉百萬級Optimus產線開建】智元機器人赴港IPO正式啟動，出貨量超5100臺，全球第一。2026年，中國人形機器人邁出了量產交付關鍵一步。日媒深度拆解宇樹G1人形機器人後驚歎，短期內難以追上中國技術水平。海外巨頭同樣激進，特斯拉直接停產Model S/X為機器人讓路，百萬級Optimus一代產線年內投產、千萬級二代產線提上日程。2026年成為海內外頭部企業量產兌現關鍵年份，資本、產能、技術、海外口碑多重催化共振，國產人形機器人全球競爭力持續上行，行業長期成長邏輯是否穩固？（第一財經）
+
+---
+
+### 2026-07-27 21:54:57  #MKT News #Market Themes #AI Revolution
+
+【SASAC to accelerate compute infrastructure, open AI scenarios and datasets under SOE 'AI+' drive】At the 2026 World Artificial Intelligence Conference, the State-owned Assets Supervision and Administration Commission (SASAC) released a second batch of central SOE AI strategic high-value scenarios and industry-grade datasets, launched the AI open-source Huanxin Community 2.0, and initiated a joint central-SOE intelligent software factory foundation project. SASAC said it will deepen the central SOE "AI+" special action, prioritizing high-value scenarios, opening scenario resources to the industry chain and promoting upstream–downstream collaborative innovation. It pledged to strengthen key input supply by accelerating compute infrastructure construction, deepening compute–electricity coordination and improving end-to-end data governance. SASAC said it will push open-source openness and ecosystem development to support modernization of the industrial system and the emergence of an intelligent economy.
+
+---
+
+### 2026-07-27 21:54:48  #市場 #焦點
+
+純鹼連續主力合約日內跌2%，現報980.00元。
+
+---
+
+### 2026-07-27 21:54:04  #公司
+
+瑞銀將雷蒙德詹姆斯金融公司目標價從175美元上調至184美元。
+
+---
+
+### 2026-07-27 21:53:38  #國際
+
+貝克休斯在業績電話會議上表示：拉美、非洲海上及北美陸上業務實現增長，但歐洲、中東地區支出疲軟抵消了上述增長。
+
+---
+
+### 2026-07-27 21:53:28  #市場
+
+ASML <ASML.AS> 股價跌幅擴大，下跌4.6%。
+
+---
+
+### 2026-07-27 21:53:04  #MKT News #Commodities #Energy #BKR.O #Impact bullish
+
+Baker Hughes estimates the potential market for power systems could reach about $100 billion by 2030.
+
+---
+
+### 2026-07-27 21:52:50  #宏觀
+
+【國務院國資委：將深入推進央企“AI+”專項行動 加快算力基礎設施建設】2026世界人工智慧大會期間，國務院國資委在“智賦新質 全域煥新”企業人工智慧高質量發展論壇正式釋出第二批央企人工智慧戰略性高價值場景和行業高質量資料集，上線AI開源“煥新社群”2.0，啟動國資央企智慧軟體工廠聯合築基工程。此次釋出的央企人工智慧領域系列成果，構築起涵蓋開源生態、場景落地、資料流通、智慧算力等全鏈條能力佈局，標誌著央企以人工智慧賦能實體經濟進入體系化推進新階段。下一步，國務院國資委將深入推進央企“AI+”專項行動。聚焦高價值場景，加快人工智慧賦能千行百業，主動向產業鏈開放場景資源，聯合上下游同題共答、協同創新。加強關鍵要素供給，加快算力基礎設施建設，深化算電協同，提升全鏈條資料治理能力，夯實智慧化產業發展底座。推動開源開放，培育互利共贏產業生態，為加快構建現代化產業體系、打造智慧經濟新形態注入強勁動能。
+
+---
+
+### 2026-07-27 21:51:59  #其他
+
+北美科技軟體股指數ETF漲3.7%，報91.20美元，處於連續第二個交易日反彈之中。
+
+---
+
+### 2026-07-27 21:51:29  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Iran deputy foreign minister Gharibabadi said in talks in Islamabad the US side presented two extreme demands and warned talks would fail and US delegates would withdraw if they were not accepted; Iran rejected the demands and told them to leave.
+
+---
+
+### 2026-07-27 21:51:17  #公司
+
+【淘金互動易腦機介面技術加速落地，這家公司正與國內下游腦機介面客戶開展技術合作】腦機介面技術加速落地，相關概念股表現強勢，創新醫療(002173)走出三天兩板。訊息面上，日前，我國科研團隊釋出一款新型腦電訊號採集裝置，在全球範圍內首次實現跨地域上千人同步腦電訊號採集，使得神經大模型訓練與腦機介面通用技術研發邁出關鍵一步。從上市公司來看，近日，多家企業在互動平臺回覆腦機介面布局情況。其中，美好醫療(301363)表示，公司正與國內下游腦機介面客戶深入開展工藝探索與技術合作，全力協助其從研發驗證走向規模化商業落地。人工耳蝸被視為腦機介面技術在臨床神經調控領域的重要應用方向之一。公司作為全球人工耳蝸龍頭企業的核心戰略供應商，擁有近15年的深度協作經驗。雙方在產品研發設計及量產轉化等方面建立了長期深入的合作，隨著客戶業務規模穩步增長，公司相關業務也將保持穩定發展。 另外，偉思醫療(688580)表示，公司在腦機介面領域聚焦“非侵入式”技術路線，致力於構建“診斷—治療—康復”的全週期閉環體系。公司將腦電（EEG）採集解碼技術與經顱磁刺激、康復機器人及功能性電刺激等裝置深度融合，以中風康復為例，患者僅需透過“運動想象”即可觸發康復機器人，形成“意念—執行—強化”的精準閉環，這正是未來神經康復的重要演進方向。而海格通訊(002465)表示，公司已經發布首款自研消費級產品——智慧安睡儀，為消費者構建可感知、可分析、可反饋、可持續最佳化的全週期主動睡眠管理新體驗，目前正處於市場推廣階段。
 
 ---
 
@@ -19457,293 +19667,5 @@ Qatar's foreign ministry said the prime minister and foreign minister met with E
 ### 2026-07-25 20:06:01  #MKT News #Market Themes #AI Revolution
 
 【8th Private Enterprise Cooperation Conference opens in Yibin, Sichuan】The 8th Private Enterprise Cooperation Conference opened July 25 in Yibin, Sichuan. The forum focused on cultivating new productive forces, deeper integration of digital and real economies, and coordinated industrial-chain development. Programming included a main conference, private-sector digital/intelligent transformation promotion, enterprise project matchmaking, city promotion and brand exhibitions. Target sectors: digital economy, AI, biopharma, modern agriculture and advanced manufacturing. Organizers launched multiple industrial projects aimed at building regional industry clusters and supporting private-enterprise upgrading.
-
----
-
-### 2026-07-25 20:05:01  #宏觀
-
-【第八屆民營企業合作大會在宜賓召開】7月25日，第八屆民營企業合作大會在四川省宜賓市召開。市場監管總局黨組成員、副局長，中國個體勞動者協會會長束為出席大會並作主旨演講，四川省人民政府黨組成員、副省長任京東出席大會並致辭。本屆大會以“立上游，開新局”為主題，全國300餘家民營企業代表，以及專家學者、行業代表匯聚宜賓，共話發展新機遇、共探合作新路徑、共繪產業新藍圖。大會立足新時代民營經濟發展大局，緊扣新質生產力培育、數實深度融合、產業鏈協同融通發展主線，設定主題大會、民營企業數智化轉型促進活動、企業專項對接會、宜賓市城市宣傳推廣活動、民營企業品牌形象展示等系列活動，內容覆蓋數字經濟、人工智慧、生物醫藥、現代農業、先進製造等重點領域，推出多個優質產業專案，為區域產業建圈強鏈、民營企業提質升級注入強勁動能。（市場監管總局）
-
----
-
-### 2026-07-25 20:04:10  #其他
-
-【閔行區啟用虹橋國際青年創業港，首批13個新銳青年創業專案入駐】7月25日，閔行區召開青年人才創新創業生態建設推進會，宣佈正式啟用虹橋國際青年創業港，並同步釋出虹橋青年科創服務包。活動現場為首批入駐專案、海外人才工作站授牌，聘任新一批全球引才大使，舉辦“青年創業者說”主題分享。虹橋國際青年創業港位於虹橋國際開放樞紐核心承載區，透過強化政策供給、最佳化服務體系、深化產業協同、打造青年社群，構建集創業孵化、產業對接、國際服務於一體的全球青年創新創業“首站、首接、首引、首發”平臺。港核心心運營空間分為綜合服務活動中心與零成本眾創孵化辦公區，設創業集市、M+咖啡、路演大廳等配套，打造階梯式零成本共享辦公空間，適配不同階段創業團隊。空間試運營三個月以來，已吸引13個新銳青年創業專案成功入駐。首批入駐專案涵蓋多個前沿科技賽道，是閔行青年科創力量的優秀代表。（上觀新聞）
-
----
-
-### 2026-07-25 20:02:19  #其他
-
-葉門胡塞武裝稱，對沙特吉贊和延布的沙特阿美設施發動了襲擊；沙特方面尚未對此予以證實。
-
----
-
-### 2026-07-25 20:00:53  #國際
-
-印度部長：政府已承諾撤銷所有針對抗議者的警方案件，將根據規定向自殺身亡的學生家屬提供最高限額的賠償。
-
----
-
-### 2026-07-25 20:00:04  #其他
-
-【今年洋山口岸國際航行船舶進出港數量突破6000艘次】從上海洋山邊檢站獲悉，2026年7月25日18時30分，賴比瑞亞籍“雄心”輪順利靠泊洋山港冠東碼頭，該輪在港期間將裝卸1.1萬個標箱。至此，今年以來進出洋山口岸的國際航行船舶總量突破6000艘次。作為上海對外開放和外貿進出口的核心樞紐，高密度的大船流量，充分彰顯上海外貿經濟強勁韌性，有力支撐區域外向型經濟穩進提質。除船量到達新節點外，據上海邊檢總站洋山邊檢站統計，今年以來該站累計查驗入出境（港）人員14.6萬餘人次，為8500多名遠洋船員高效辦理登離輪換班手續，口岸航運活躍度、船舶週轉效率持續處於全球港口領先地位。（澎湃新聞）
-
----
-
-### 2026-07-25 20:00:02  #市場
-
-本週大盤主力資金累計淨流入-1154.21億元，工業金屬、電網裝置板塊淨流入居前，個股通富微電、寧德時代淨流入最多。
-
----
-
-### 2026-07-25 19:58:24  #其他
-
-【“紅霞”即將登陸！交通運輸部啟動強降雨一級防禦響應】中央氣象臺7月25日18時釋出暴雨紅色預警、繼續釋出颱風橙色預警，交通運輸部啟動強降雨一級防禦響應、維持颱風二級防禦響應。（央視新聞）
-
----
-
-### 2026-07-25 19:55:17  #公司
-
-【中國貿促會副會長劉健男赴莫三比克出席2026年中國與葡語國家企業經貿合作洽談會】7月22日至25日，中國貿促會副會長劉健男赴莫三比克出席2026年中國與葡語國家企業經貿合作洽談會。本屆洽談會由中國貿促會、莫三比克投資出口促進局和澳門特別行政區招商投資促進局共同倡議，11家中國和葡語國家貿易投資促進機構主辦，以“投資物流基建 驅動發展引擎”為主題，吸引了來自中國內地、澳門及各葡語國家超350位政商界代表參會。其中，來自基建工程、機械製造、農林產業、金融商貿、物流交通、法律服務等領域共40餘名中國內地企業代表參加洽談會及有關活動。劉健男表示，中國與葡語國家在發展戰略、資源稟賦、產業結構等方面經濟互補性強、利益契合點多，既有現實需求，也有天然優勢，更有內在動力。中國願與葡語國家繼續擴大貿易往來、深化投資合作、促進產業合作，推動產業鏈供應鏈融合發展，把互利共贏蛋糕越做越大，切實惠及各國人民。出訪期間，劉健男分別會見莫三比克經濟部貿易國務秘書格里斯普斯、莫三比克投資出口促進局局長馬沙瓦，就加強高質量共建“一帶一路”合作、共享貿易投資合作優質平臺、深化中葡論壇機制下合作等議題進行交流探討。劉健男還調研了中國石油莫三比克公司、中國路橋莫三比克辦事處和馬普托—卡滕貝大橋及連線線專案。
-
----
-
-### 2026-07-25 19:54:09  #MKT News #Market Regions #Emerging Markets
-
-【11 tourists rescued from missing Indonesian speedboat】Gorontalo province rescue agency said it recovered 11 European tourists and one Indonesian crew member from a speedboat that went missing on the 24th; teams continue searching for the captain. Search-and-rescue units were deployed along Tomini Bay and adjacent waters using thermal-imaging drones and diving equipment. Survivors were taken to Tojo Una-Una regency and reported the vessel broke apart after encountering severe weather.
-
----
-
-### 2026-07-25 19:53:49  #宏觀 #焦點
-
-【7月25日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【“義烏髮展經驗”啟示】在全面小康的道路上不落下一個； 2.電視專題片《世界義烏——習近平關心引領義烏髮展》今晚播出第三集； 3.【樹立和踐行正確政績觀】辦好群眾身邊事 學習教育見實效； 4.今年以來消費品以舊換新銷售額超萬億元； 5.【在希望的田野上】全國秋糧田管有序推進； 6.【活力中國調研行】瞄準科學“無人區” 原始創新如何突破； 7.各地各部門積極部署應對臺風“紅霞”； 8.“景德鎮手工瓷業遺存”成功列入《世界遺產名錄》； 9.國內聯播快訊： （1）APEC人工智慧高階別論壇達成多項成果； （2）2030年我國中醫藥服務體系將更加健全； （3）上半年國家電網完成固定資產投資同比增長12.6%； （4）西部陸海新通道上半年進出口超5000億元； （5）西康高鐵全線拉通試驗正式啟動； 10.伊朗打擊中東多國美軍目標回應美襲擊 美稱仍在與伊朗對話並威脅升級打擊力度； 11.沙特主導的多國聯軍空襲葉門荷臺達 胡塞武裝稱局勢升級； 12.國際聯播快訊： （1）約旦河西岸爆發衝突 巴譴責以暴力襲擊； （2）俄打擊烏無人機演示場 烏稱打擊俄軍企； （3）法西兩國林火蔓延 大量居民疏散。
-
----
-
-### 2026-07-25 19:50:07  #國際
-
-以色列軍隊在約旦河西岸村莊圍捕巴勒斯坦人，此前發生涉及定居者的槍戰。
-
----
-
-### 2026-07-25 19:48:51  #公司
-
-【銀輪股份：行業主流觀點認為2026年是伺服器液冷進入產業化應用的關鍵階段，公司正致力於拓展相關客戶】銀輪股份在互動平臺表示，公司目前在資料中心領域，明確了資料中心液冷模組零部件供應商的定位，制定了中期發展規劃，實施“技術+製造”的組合策略，以不鏽鋼板式換熱器等零部件為突破口，服務資料中心液冷模組（總成）客戶，行業主流觀點認為2026年是伺服器液冷進入產業化應用的關鍵階段，公司正致力於拓展相關客戶，目前不鏽鋼板式換熱器等產品已經為多家模組客戶送樣並開展驗證，部分客戶已經下達小批訂單。
-
----
-
-### 2026-07-25 19:48:27  #國際
-
-【敘利亞兩輛巴士相撞致35人死亡】據敘利亞國家通訊社25日援引敘過渡政府衛生部訊息報道，兩輛巴士當天在連線代爾祖爾省和首都大馬士革的公路上相撞，造成至少35人死亡、30人受傷。敘過渡政府內政部表示，涉事兩輛巴士中的一輛載有內政部安全部隊人員，另一輛為民用巴士。事發後，救援人員迅速趕赴事故現場，目前正在轉運傷者和遇難者遺體。（新華社）
-
----
-
-### 2026-07-25 19:47:41  #其他
-
-【香港特區立法會議員完成國家事務研修考察】就香港特區立法會議員完成國家事務研修考察，特區立法會主席李慧瓊25日會見傳媒時表示，這是特區立法會全體議員首次赴京進行研修考察，具有歷史性意義，並以“啟發於心，回饋於行”予以總結。香港特區立法會全體議員19日啟程前往北京，展開為期一週的國家事務研修考察。李慧瓊表示，特區立法會全體議員將認真總結此次學習經驗。特區行政長官李家超28日將到特區立法會進行交流，屆時議員將分享學習體會，並學以致用，思考未來工作方向。（新華社）
-
----
-
-### 2026-07-25 19:45:13  #其他
-
-【應急管理部針對江西湖南啟動國家地質災害四級應急響應】受今年第12號颱風“紅霞”及以及外圍環流影響，7月25日至27日，江西南部、湖南東部等地有大暴雨，局地有特大暴雨。經與自然資源部聯合會商研判，江西西南部、湖南東南部發生地質災害的風險高。根據《國家突發地質災害應急預案》及有關規定，應急管理部於7月25日針對江西、湖南啟動國家地質災害四級應急響應。 應急管理部要求，受颱風“紅霞”影響的相關地區要切實做好地質災害防範應對工作，壓實地方防範應對主體責任，加強部門協同聯動工作機制，密切監視雨情汛情和地質災害災情險情，加強會商研判和預警響應聯動，預置前置救援力量、物資、裝備，強化巡查排查和監測預警，堅決果斷組織轉移避險，確保應轉盡轉、應轉早轉，最大限度避免人員傷亡。 應急管理部同時維持針對廣東、福建的國家地質災害四級應急響應。
-
----
-
-### 2026-07-25 19:37:17  #其他
-
-沙特支援的聯軍襲擊胡塞武裝補給和軍事設施，目前襲擊仍在繼續。
-
----
-
-### 2026-07-25 19:36:31  #國際
-
-聯合國秘書長古特雷斯：侵犯敘利亞領土主權是不可接受的，必須立即停止。我們在維護敘利亞領土完整的問題上立場明確，我們強調必須制止一切侵犯行為。
-
----
-
-### 2026-07-25 19:36:25  #國際
-
-聯合國秘書長古特雷斯在大馬士革會見敘利亞外長。這是聯合國秘書長17年來首次訪問敘利亞。
-
----
-
-### 2026-07-25 19:34:12  #國際
-
-俄羅斯葉卡捷琳堡遭遇無人機威脅，Wildberries運營及田徑錦標賽受擾。
-
----
-
-### 2026-07-25 19:33:56  #國際
-
-【俄稱烏軍襲擊扎波羅熱旅遊營地致8死14傷】俄羅斯方面任命的扎波羅熱地區行政長官葉夫根尼·巴利茨基25日在社交媒體發文稱，烏克蘭軍隊24日夜間至25日凌晨襲擊了該地區的旅遊營地，造成8人死亡、14人受傷。巴利茨基說，8名死者中包括2名兒童，受傷的14人中有3名兒童。當前，緊急救援工作正在進行中。據俄新社25日報道，俄羅斯偵查委員會表示，已按照恐怖襲擊對此事進行立案調查。（新華社）
-
----
-
-### 2026-07-25 19:32:11  #MKT News #Important
-
-Two Yemeni military officials said Yemen's air force struck Houthi missile and drone launch sites along frontlines in Marib and al-Jawf provinces.
-
----
-
-### 2026-07-25 19:31:36  #其他
-
-兩名葉門軍方官員訊息：葉門空軍空襲了位於馬裡卜與焦夫前線地帶的胡塞導彈及無人機發射陣地。
-
----
-
-### 2026-07-25 19:31:26  #其他
-
-【法國今年森林火災過火面積近10萬公頃 創歷史新高】當地時間7月24日，法國內政部長洛朗·努內茲在跨部門危機管理中心通報該國森林火災形勢時表示，今年法國森林火災累計過火面積已接近9.8萬公頃，創歷史新高。其中，僅吉倫特省過火面積就已超過4萬公頃。目前，吉倫特省、朗德省和瓦爾省仍有多處火災尚未得到控制。（央視新聞）
-
----
-
-### 2026-07-25 19:17:43  #MKT News #Market Regions #Greater China
-
-【Hong Kong chief executive orders preparations as Typhoon Hongxia approaches】Hong Kong Chief Executive John Lee said he has directed government departments to mount full contingency preparations as Typhoon Hongxia approaches. The Hong Kong government will keep departments on duty and deploy measures to protect life, property and public safety; the public was urged to remain alert and follow official weather updates. Officials warned that even after the No. 8 gale or storm signal is lowered, Hongxia may still bring strong winds and heavy rain. The district consultation session on the first five-year plan and the 2026 Policy Address scheduled for tomorrow (26th) has been postponed.
-
----
-
-### 2026-07-25 19:13:17  #MKT News
-
-France's anti-terrorism prosecutor said six people have been remanded in custody pending trial in the attempted attack on a synagogue in the Paris region in early July.
-
----
-
-### 2026-07-25 19:13:04  #其他
-
-法國反恐檢察官稱，六名嫌疑人因涉嫌7月初在巴黎地區一座猶太教堂發動未遂襲擊而被還押候審。
-
----
-
-### 2026-07-25 19:12:21  #其他
-
-【李家超：為應對臺風“紅霞”做好準備】香港特區行政長官李家超在社交平臺發文表示，由於颱風“紅霞”逐漸逼近香港，他已指示各相關部門作出全面和充分的準備及應變部署，以應對“紅霞”可能為香港帶來的威脅。 李家超指出，香港特區政府各部門會堅守崗位，全方位部署，致力保障市民的生命財產和公共安全。並呼籲市民保持警覺，繼續留意政府發放的最新天氣訊息。 此外，八號烈風或暴風訊號除下後，“紅霞”仍可能為香港帶來狂風暴雨。故此，為確保參加者安全，原定明日（26日）舉行的香港第一個五年規劃及2026年《施政報告》地區諮詢會將會延期進行。（大灣區之聲）
-
----
-
-### 2026-07-25 19:11:41  #國際
-
-敘利亞衛生部：客車相撞事故已造成35人死亡，30人受傷。
-
----
-
-### 2026-07-25 19:07:38  #公司 #國際
-
-【伊朗公佈打擊美亞馬遜公司衛星影象】伊朗法爾斯通訊社今天（7月25日）釋出了伊朗導彈擊中亞馬遜位於巴林的資料中心第三棟建築的衛星影象。當地時間22日，伊朗伊斯蘭革命衛隊宣佈襲擊了位於巴林境內的亞馬遜資料中心的核心基礎設施，並稱該設施是與美國軍方交換敏感資訊的主要節點之一。（CCTV國際時訊）
-
----
-
-### 2026-07-25 19:05:03  #其他
-
-【高德掃街榜聯合九城釋出“城市書香地圖”】阿里旗下高德聯合九座城市共同釋出了全國首批“城市書香地圖”，覆蓋北京、上海、廣州、長沙、長春、成都、西安、杭州、南寧9座城市。城市書香地圖由“書香地圖掃街榜”、“書店飛行街景”、聯合作家發起的“遛遛書店閱讀行動”三個部分構成，為9城400餘家實體書店建立榜單。
-
----
-
-### 2026-07-25 19:02:48  #其他
-
-【颱風致廣東多機場大面積取消或延誤】受颱風“紅霞”及其外圍環流影響，7月25日，廣東、福建、湖南、湖北、四川、重慶等多地機場釋出雷雨天氣預警。其中，廣東多個機場出現不同程度的航班延誤和取消情況。 航旅縱橫民航官方直銷平臺大資料顯示，截至25日18:15，深圳寶安機場、珠海金灣機場大面積延誤，最高延誤比例達93%；惠州平潭機場大面積取消，揭陽潮汕機場小面積取消。（第一財經）
-
----
-
-### 2026-07-25 18:59:01  #國際
-
-【約旦譴責以色列定居者在約旦河西岸發動襲擊】當地時間25日，約旦外交與僑務部發表宣告，譴責以色列定居者針對約旦河西岸巴勒斯坦人的暴力行為不斷升級。宣告稱，最新一輪襲擊波及多個巴勒斯坦村莊，定居者縱火焚燒民宅、農田和車輛，大量砍伐樹木，並對當地巴勒斯坦居民實施襲擊。約旦外交與僑務部表示，約旦堅決譴責以色列定居者實施的上述暴力行徑，認為這些行為是以色列極右翼政府政策及其在約旦河西岸採取非法措施的延續，助長了針對巴勒斯坦人民的極端主義和暴力，破壞了以“兩國方案”為基礎實現和平的前景。約旦方面強調，以色列應對上述襲擊事件承擔全部責任。
-
----
-
-### 2026-07-25 18:57:04  #國際
-
-敘利亞發生兩輛客車相撞事故，初步統計造成19人死亡，27人受傷。
-
----
-
-### 2026-07-25 18:56:30  #其他
-
-【我國首個陸相斷陷湖盆頁岩油國家級示範區建成】國家能源局日前釋出《中國油氣勘探開發發展報告（2026）》顯示，勝利濟陽建成國內首個陸相斷陷湖盆頁岩油國家級示範區，建立大平臺立體開發高效建產模式，上報探明地質儲量3.27億噸，2025年頁岩油年產量突破70萬噸。頁岩油是以頁岩為主的頁岩層系中所含的石油資源，屬於非常規資源。勝利濟陽頁岩油國家級示範區是繼新疆吉木薩爾、大慶古龍國家級示範區之後，第三個頁岩油國家級示範區，旨在完善我國陸相斷陷湖盆頁岩油勘探開發技術體系，破解關鍵技術瓶頸，實現勘探開發重要突破，形成可複製、可推廣的高效勘探和開發模式。（新華社）
-
----
-
-### 2026-07-25 18:56:01  #MKT News
-
-【Typhoon Hongxia forces widespread cancellations, delays at Guangdong airports】Typhoon Hongxia and its peripheral circulation prompted thunderstorm warnings across Guangdong, Fujian, Hunan, Hubei, Sichuan and Chongqing on July 25. Flight-data platforms at 18:15 on July 25 showed Shenzhen Bao'an and Zhuhai Jinwan airports experiencing large-scale delays, with peak delay rates up to 93%; Huizhou Pingtan reported widespread cancellations and Jieyang Chaoshan recorded limited cancellations.
-
----
-
-### 2026-07-25 18:55:58  #其他
-
-受颱風“紅霞”影響，香港天文臺將於今晚（25日）10時10分改發八號烈風或暴風訊號。（大灣區之聲）
-
----
-
-### 2026-07-25 18:55:47  #其他
-
-【颱風“紅霞”逼近 廣東珠海啟動防颱二級應急響應】今年第12號颱風“紅霞”正逐步逼近廣東沿海，目前“紅霞”正以每小時15~20公里的速度向西偏北方向快速移動，強度逐漸加強，預計今天夜間至26日早晨在香港到廣東陸豐一帶沿海登陸（12~14級，颱風級或強颱風級），登陸後轉向偏北方向移動，強度逐漸減弱。為應對臺風影響，廣東珠海海事局已於25日17時啟動防颱二級應急響應。
-
----
-
-### 2026-07-25 18:40:19  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【Iran releases satellite images claiming U.S. munitions depot in Jordan destroyed】On the 25th Iran released satellite imagery it says shows the U.S. munitions depot at Jordan's King Faisal Air Base was completely destroyed; Tehran said a day earlier it struck U.S. bases in the region. Jordan said on the 24th its air defenses and the Royal Jordanian Air Force intercepted and shot down seven missiles and six drones launched from the direction of Iran toward Jordanian territory.
-
----
-
-### 2026-07-25 18:36:33  #國際
-
-【王毅同吉爾吉斯斯坦外長庫魯巴耶夫會談】中共中央政治局委員、外交部長王毅25日同吉爾吉斯斯坦外長庫魯巴耶夫舉行會談。王毅祝賀吉方成功舉辦上海合作組織外長會，為比什凱克峰會打下良好基礎。王毅表示，“好鄰居，金不換”。中國是吉方永遠可以信賴的好鄰居。近年來，在習近平主席和扎帕羅夫總統戰略引領下，中吉本著同舟共濟、互利共贏精神結為新時代全面戰略伙伴，正攜手構建睦鄰友好、共享繁榮的中吉命運共同體。去年，兩國元首三度會晤，對中吉關係發展作出規劃部署，為深化全方位互利合作注入強勁動力。在扎帕羅夫總統領導下，吉國家建設欣欣向榮，煥發生機，中方對吉方發展成就感到由衷高興。王毅表示，今年是中國共產黨成立105週年，也是“十五五”開局之年。中方正以中國式現代化全面推進強國建設、民族復興偉業。吉方在積極實施“2030年前國家發展綱要”。中吉對接發展戰略、攜手發展振興擁有廣闊前景。下階段要籌備好高層交往，鞏固政治互信，弘揚傳統友好。要落實好中長期經貿合作規劃，推進中吉烏鐵路建設，加快跨境口岸建設改造，深化農業、能源礦產等領域合作，打造人工智慧、數字經濟等新合作增長點。中方將繼續鼓勵有信譽、有實力的中國企業赴吉投資興業，希望吉方持續最佳化營商環境，維護中資企業、機構和人員合法權益。中方讚賞吉方在涉臺、涉疆、人權等問題上支援中方正當立場，將繼續支援吉方走符合本國國情的發展道路，維護吉國家主權、安全和發展利益，反對任何外部勢力干涉吉內政。中方歡迎吉方加入世界人工智慧合作組織和國際調解院，祝賀吉方高票當選聯合國安理會非常任理事國，樂見吉方在國際事務中發揮更大作用，期待同吉方密切國際協作，踐行真正的多邊主義，維護發展中國家共同利益。（新華社）
-
----
-
-### 2026-07-25 18:33:57  #其他
-
-法國內政部長表示：森林火災已焚燬近 950 平方公里土地。
-
----
-
-### 2026-07-25 18:32:12  #國際
-
-以色列駐約旦河西岸部隊已接到命令，擴大其進攻行動的範圍。軍方決定，除已在約旦河西岸部署的26個旅外，另向黎巴嫩部署8個旅、向加沙地帶部署5個旅。
-
----
-
-### 2026-07-25 18:31:10  #市場 #焦點
-
-暗盤金價跌破4050美元/盎司，日內跌幅0.1%。
-
----
-
-### 2026-07-25 18:29:42  #國際
-
-伊朗最高國家安全委員會秘書：定向持續火力打擊將持續到敵人完全投降為止。
-
----
-
-### 2026-07-25 18:28:44  #國際
-
-【美國疑似與球生菜相關環孢子蟲病感染波及9個州】美國食品和藥物管理局24日通報說，可能與球生菜相關的環孢子蟲病感染病例已波及美國9個州，確診病例增至1947例。美藥管局表示，正與美國疾病控制和預防中心及多個州的公共衛生部門合作，調查可能與從墨西哥進口球生菜相關的環孢子蟲病感染事件。此前調查顯示，感染病例涉及印第安納州、肯塔基州、密歇根州、俄亥俄州和西弗吉尼亞州。最新調查顯示，病例範圍已擴大至9個州，新增4個受影響的州為伊利諾伊州、堪薩斯州、俄克拉何馬州和賓夕法尼亞州。
-
----
-
-### 2026-07-25 18:24:52  #其他
-
-【受颱風“紅霞”影響 澳門發出三號風球】7月25日18時，受颱風“紅霞”影響，澳門特區政府地球物理氣象局發出三號風球。按照現時預測路徑，颱風“紅霞”大致向西北方向移動，趨向廣東東部沿岸，預計26日凌晨至早上將會在澳門以東約170公里登陸。天氣方面，預計澳門25日晚間雷雨增多並伴隨強烈陣風，強對流天氣風險較高，26日有大驟雨及雷暴，需提防因強降雨而可能出現的水浸。（央視新聞）
-
----
-
-### 2026-07-25 18:24:15  #其他
-
-【寧德時代與臨汾公交簽署戰略合作框架協議】近日，寧德時代與臨汾公交簽署戰略合作框架協議。雙方將圍繞後市場服務、電池梯次回收利用與車網互動（V2G）領域深化合作，建立從裝車運營到迴圈回收的電池全生命週期管理體系。
-
----
-
-### 2026-07-25 18:24:15  #MKT News #Market Themes #China EV Leaders #300750.SZ #Impact bullish
-
-【CATL and Linfen Public Transport sign strategic cooperation framework】CATL and Linfen Public Transport have signed a strategic cooperation framework to deepen collaboration on aftermarket services, battery second‑life recycling and vehicle‑to‑grid (V2G) integration. The parties will establish a full‑lifecycle battery management system spanning vehicle installation, operation and circular recycling.
-
----
-
-### 2026-07-25 18:24:10  #國際
-
-【伊朗公佈摧毀駐約旦美軍彈藥庫畫面】伊朗國家電視臺今天（7月25日）釋出衛星影象顯示，約旦費薩爾國王空軍基地的美軍部隊彈藥倉庫被完全摧毀。（CCTV國際時訊）
 
 ---
