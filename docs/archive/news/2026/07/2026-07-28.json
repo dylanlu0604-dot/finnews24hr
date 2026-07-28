@@ -1,7 +1,191 @@
 {
   "date": "2026-07-28",
-  "count": 2057,
+  "count": 2076,
   "items": [
+    {
+      "id": "mkt:019fa821-4c22-7aab-8ec8-30c0c051010c",
+      "time": "2026-07-28 17:49:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin welcomed online retailer Wildberries’ plan to assist sellers and signaled openness to possible state support. The government is internally discussing potential support measures for Wildberries; no decision has been made."
+    },
+    {
+      "id": "5012158",
+      "time": "2026-07-28 17:49:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部：5月和6月伊拉克出口石油3210萬桶。"
+    },
+    {
+      "id": "5012157",
+      "time": "2026-07-28 17:49:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "大和運輸、佐川急便因地震暫停熊本地區配送業務。"
+    },
+    {
+      "id": "5012156",
+      "time": "2026-07-28 17:48:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克5月和6月的石油銷售收入為23億美元。"
+    },
+    {
+      "id": "mkt:019fa820-6615-7aab-8ec8-2c02c25e77f3",
+      "time": "2026-07-28 17:48:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Kremlin says Ukraine's attack on Iranian vessels amounts to an attack on Iran."
+    },
+    {
+      "id": "mkt:019fa820-3f66-7aab-8ec8-24d40d116a38",
+      "time": "2026-07-28 17:48:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The Kremlin said Ukraine blew up Germany's Nord Stream gas pipeline, that its attack on Central Asian pipeline infrastructure caused damage in Kazakhstan, and that Ukraine has now attacked an Iranian vessel."
+    },
+    {
+      "id": "5012155",
+      "time": "2026-07-28 17:48:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國交建：擬為子公司兩專案提供約81.36億元履約擔保】中國交建公告稱，公司擬為附屬公司約翰霍蘭德的墨爾本郊區環形鐵路G合同包專案及悉尼地鐵西線軌道及機電專案提供履約擔保，擔保責任上限分別約16.79億元及64.57億元，擔保期限預計分別為13年和20年。該議案已獲董事會透過，無需股東會審議。截至公告日，公司已為約翰霍蘭德提供履約擔保餘額243.12億元。截至2025年末，公司及控股子公司融資擔保餘額993.81億元，佔淨資產比例21.24%，無逾期對外融資擔保。"
+    },
+    {
+      "id": "mkt:019fa81f-eb2e-7aab-8ec8-1f81388446f6",
+      "time": "2026-07-28 17:48:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Kremlin: Russia's 'special military operation' must succeed; the threat from Ukraine must be completely eliminated."
+    },
+    {
+      "id": "5012154",
+      "time": "2026-07-28 17:48:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Meta：公司將簽署《歐盟人工智慧法案》人工智慧生成內容透明度行為準則。"
+    },
+    {
+      "id": "mkt:019fa81f-9af3-7aab-8ec8-13a3db50731f",
+      "time": "2026-07-28 17:47:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Israeli defence minister said Trump understands Israel will not relinquish buffer zones in Lebanon, Gaza or Syria."
+    },
+    {
+      "id": "5012153",
+      "time": "2026-07-28 17:47:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國光股份：獲得“一種青花椒樹結果枝條的選育方法”發明專利】國光股份公告稱，公司近日收到國家智慧財產權局頒發的《發明專利證書》，專利名稱為“一種青花椒樹結果枝條的選育方法”，申請日期為2024年11月13日，專利期限20年。該選育方法不受水熱條件限制，適合多地區推廣。專利取得利於加強智慧財產權保護、提高技術創新及產品競爭力，但轉化尚需時間，不會對近期經營業績產生重大影響。"
+    },
+    {
+      "id": "5012152",
+      "time": "2026-07-28 17:47:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST元道：股票交易異常波動 存重大違法強制退市風險】*ST元道公告稱，公司股票連續三個交易日及連續兩個交易日（7月27 - 28日）收盤價格漲幅偏離值累計超30%，屬異常波動。公司於5月8日收到《行政處罰事先告知書》，可能觸及重大違法強制退市情形。股票自5月12日起被實施退市風險警示，若觸及相關情形將終止上市。截至公告披露日，公司無應披露未披露事項，控股股東和實控人在異常波動期間無買賣公司股票行為。"
+    },
+    {
+      "id": "5012151",
+      "time": "2026-07-28 17:47:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【興欣新材：股票交易異常波動 暫無應披露未披露事項】興欣新材公告稱，公司股票於2026年7月27日、28日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司前期資訊無需更正補充，生產經營正常，無應披露未披露重大事項，控股股東、實控人未買賣公司股票。公司擬定8月28日披露半年報，7月24日曾公告擬5000萬-1億元回購股份，截至公告日尚未首次回購。"
+    },
+    {
+      "id": "5012150",
+      "time": "2026-07-28 17:47:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【毅昌科技：為子公司蕪湖匯展新能源提供8000萬元擔保】毅昌科技公告稱，公司為滿足業務發展需要，為子公司蕪湖匯展新能源科技有限公司向交通銀行蕪湖分行申請的8000萬元授信業務提供連帶責任保證，保證期間為三年。蕪湖匯展新能源最近一期資產負債率超70%，但目前經營良好，具備償債能力。截至公告披露日，公司對子公司擔保餘額3.38億元，佔2025年歸母淨資產的43.76%；子公司間擔保餘額124.01萬元，佔比0.16%，無逾期擔保。"
+    },
+    {
+      "id": "5012149",
+      "time": "2026-07-28 17:47:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【朗坤科技：擬5000萬-1億元回購股份用於員工激勵】朗坤科技公告稱，公司擬以集中競價交易方式回購股份，資金總額不低於5000萬元、不超過1億元，回購價不超41.10元/股，預計回購121.65萬-243.30萬股，佔總股本0.50%-1.01%，用於員工持股計劃或股權激勵。實施期限為董事會審議透過日起3個月內。本次回購已獲董事會透過，公司已開立回購專用證券賬戶。此外，公告提示了回購方案實施、股份授出等風險。"
+    },
+    {
+      "id": "mkt:019fa81f-2d51-7aab-8ec8-0bf817f41e2c",
+      "time": "2026-07-28 17:47:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bearish",
+        "Nikkei 225",
+        "Hang Seng Index"
+      ],
+      "text": "【MAS warns AI investment pullback could threaten global markets】MAS warned uncertainty from sustained, large-scale AI investment is a key risk to global growth and financial markets and flagged the longer-term threat of an escalation in the Middle East conflict. The MAS governor said the recent surge in spending on data centers, chips, compute infrastructure and semiconductor capacity has supported global growth, and that both a continued boom and a sharp withdrawal of funding would have material effects. A significant pullback could materially weaken global growth; a prolonged AI expansion would influence incomes, demand and inflation. MAS also flagged financial-stability risks from equity, credit and loan-market exposure to unsustainable business models within complex financing structures, which could impair cash flows and tighten credit conditions. It said global growth, investment and market performance are now highly dependent on expectations of continued large-scale data-center and semiconductor investment, notably in US capital markets and in Asian semiconductor-exporting economies."
+    },
+    {
+      "id": "mkt:019fa81e-6455-7aab-8ec8-0779388d51ce",
+      "time": "2026-07-28 17:46:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israel's defense minister said Iranians are attempting to target Prime Minister Netanyahu."
+    },
+    {
+      "id": "5012148",
+      "time": "2026-07-28 17:46:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德美化工：董事陳秋有增持公司0.41%股份】德美化工公告，公司董事陳秋有於2026年7月27日透過集中競價交易方式增持公司股份200萬股，佔公司總股本4.82億股的0.41%，增持均價為6.57元/股。增持前陳秋有未持有公司股份，增持後持有200萬股，持股比例為0.41%。增持資金來源為自有資金，增持目的系基於對公司未來發展的信心及長期投資價值的認可。"
+    },
+    {
+      "id": "5012147",
+      "time": "2026-07-28 17:45:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮稱，烏克蘭襲擊伊朗船隻即是對伊朗的襲擊。"
+    },
     {
       "id": "mkt:019fa81d-7694-7aab-8ec7-fdfa37c62ab9",
       "time": "2026-07-28 17:45:30",
