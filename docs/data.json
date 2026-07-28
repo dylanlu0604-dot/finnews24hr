@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-29 01:57:14",
-  "count": 17597,
+  "updated": "2026-07-29 02:01:05",
+  "count": 17598,
   "items": [
+    {
+      "id": "5012948",
+      "time": "2026-07-29 01:59:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：入境航道必須完全由伊朗掌控。"
+    },
+    {
+      "id": "mkt:019fa9e1-8d21-7aab-8ed3-5b5ba66c072e",
+      "time": "2026-07-29 01:59:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces says an interceptor missile was accidentally fired into an area where it had been directing artillery toward Lebanon. The incident is under investigation; per regulations no alert was issued."
+    },
+    {
+      "id": "mkt:019fa9e1-68da-7aab-8ed3-5292ab4a97c4",
+      "time": "2026-07-29 01:59:09",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O"
+      ],
+      "text": "Ukrainian President Zelenskiy met with a Lockheed Martin team to discuss joint production and technology sharing for ATACMS missiles, HIMARS rockets, F-16 fighters and Patriot air-defense systems."
+    },
+    {
+      "id": "5012947",
+      "time": "2026-07-29 01:57:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：不久前，一枚攔截彈出現誤射，目標本是以軍向黎巴嫩方向發射的己方炮火。相關事件正在調查中。按照處置流程，本次未拉響防空警報。"
+    },
     {
       "id": "5012946",
       "time": "2026-07-29 01:55:56",
@@ -161329,30 +161364,6 @@
         "國際"
       ],
       "text": "【法國議會透過法案 禁止15歲以下未成年人使用社交媒體】當地時間7月21日，法國國民議會和參議院正式透過一項禁止15歲以下未成年人使用社交媒體的法案。這項法案被視為法國總統馬克龍本屆任期的重要改革之一。根據法案，禁令將分兩個階段執行：自9月1日起，15歲以下未成年人將不得註冊新的社交媒體賬號；自2027年1月起，現有屬於15歲以下未成年人的社交媒體賬號也將被暫停或關閉。（央視新聞）"
-    },
-    {
-      "id": "5000768",
-      "time": "2026-07-22 02:00:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：法國議會支援禁止 15 歲以下未成年人使用社交媒體。"
-    },
-    {
-      "id": "5000767",
-      "time": "2026-07-22 02:00:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【荷蘭宣佈對以色列非法定居點實施貿易制裁 】荷蘭政府21日宣佈，從9月22日起對以色列非法定居點實施貿易制裁措施，為期三年。根據荷蘭政府當日釋出的公報，原產於以色列非法定居點的貨物將受到多項限制，包括禁止運入荷蘭境內、禁止直接或間接購買、投放市場以及提供相關中介服務等。荷蘭政府表示，此舉旨在透過經濟手段打擊以色列在約旦河西岸、加沙地帶以及敘利亞戈蘭高地非法建立定居點的行為。此前，英國商業和貿易部貿易國務大臣克里斯·布賴恩特15日證實，英國政府正著手製定一項針對以色列非法定居點的進出口貿易禁令。（新華社）"
-    },
-    {
-      "id": "5000766",
-      "time": "2026-07-22 01:59:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "空客正為未來 FCAS 戰機考量若干歐洲合作方案。"
     }
   ]
 }
