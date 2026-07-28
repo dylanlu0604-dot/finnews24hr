@@ -1,7 +1,92 @@
 {
-  "updated": "2026-07-28 17:58:00",
-  "count": 17486,
+  "updated": "2026-07-28 18:02:55",
+  "count": 17469,
   "items": [
+    {
+      "id": "5012182",
+      "time": "2026-07-28 18:01:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國代表安理會發言 美方離場指其“譁眾取寵”】當地時間7月27日，在聯合國安理會烏克蘭問題緊急公開會現場，美國代表在法方發言時公然離場，後返回會場發言稱法方“譁眾取寵”，在包括人權問題在內的各種議題上“對所有人進行說教”。美法兩國代表日前還在社交媒體上有過交鋒，起因是美國在24日的聯合國大會上投票反對圖爾克連任聯合國人權事務高階專員。法國常駐日內瓦聯合國代表團在社交媒體上發帖稱“美國曾是人權燈塔，如今不再是”；美國常駐聯合國代表邁克爾·華爾茲則發帖指責法國，稱法方舉動“令人失望，但並不意外”。（新華社）"
+    },
+    {
+      "id": "5012181",
+      "time": "2026-07-28 18:00:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合包裹（UPS）預計本財年營收約 912 億美元，此前財年營收約 897 億美元，市場預期 903.9 億美元。"
+    },
+    {
+      "id": "mkt:019fa82b-437a-7aab-8ec8-78802c1bf912",
+      "time": "2026-07-28 18:00:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "TM.N",
+        "Impact bearish"
+      ],
+      "text": "Toyota suspends production at Fukuoka plant after an earthquake, Nikkei reports."
+    },
+    {
+      "id": "5012180",
+      "time": "2026-07-28 18:00:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔表示，截至目前，尚未有臺積電熊本晶圓廠受損的訊息。"
+    },
+    {
+      "id": "5012179",
+      "time": "2026-07-28 17:59:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 受地震影響，豐田汽車福岡工廠暫停生產。"
+    },
+    {
+      "id": "5012178",
+      "time": "2026-07-28 17:59:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【叮咚買菜升級叮咚V5自有品牌 今年GMV目標同比增長50%】叮咚買菜舉行叮咚V5 好貨品鑑會。會上，叮咚買菜宣佈旗下核心自有品牌叮咚V5全面升級，首次公開55項配料嚴控名單，並正式提出以“嚴苛品控、原料甄選、配料至簡、鎖鮮即享、地道風味”為核心的“5V”商品標準。叮咚買菜副總裁兼研究院院長申強、叮咚買菜標品事業部負責人戴正和媒體交流。申強指出，叮咚買菜以生鮮起家，但標品早已佔據可觀比重。消費者一站式購齊的需求強烈，希望平臺在有限的SKU數量內實現品類相對豐富，同時提供品質產品，讓使用者無需仔細翻看配料表即可放心購買。（新浪科技）"
+    },
+    {
+      "id": "5012177",
+      "time": "2026-07-28 17:58:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奇安信中標某能源央企終端安全專案】近日，奇安信天擎終端安全響應系統（EDR）成功中標某能源央企巨頭終端安全檢測與防護系統專案。該專案聚焦全集團辦公終端安全，覆蓋信創與非信創環境，構建統一防毒與EDR防護體系，從而實現全網終端集中管控、終端威脅全域感知與快速響應，有效抵禦病毒、勒索軟體及APT攻擊，夯實能源行業關鍵資訊基礎設施安全底座。"
+    },
+    {
+      "id": "5012176",
+      "time": "2026-07-28 17:58:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4020美元/盎司，日內跌1.39%。"
+    },
+    {
+      "id": "5012175",
+      "time": "2026-07-28 17:58:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青海海南州興海縣附近發生4.3級左右地震】中國地震臺網自動測定：07月28日17時52分，在青海海南州興海縣附近(北緯35.38度，東經99.58度)發生4.3級左右地震。最終結果以正式速報為準。（央視新聞）"
+    },
+    {
+      "id": "5012174",
+      "time": "2026-07-28 17:58:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4080美元/盎司，日內跌1.41%。"
+    },
     {
       "id": "mkt:019fa827-cd9b-7aab-8ec8-71376675d5c6",
       "time": "2026-07-28 17:56:48",
@@ -160033,252 +160118,6 @@
         "其他"
       ],
       "text": "【深化網際網路協議第六版（IPv6）技術創新和融合應用實施方案（2026—2030年）】網際網路協議第六版（IPv6）是網際網路升級演進的必然趨勢、網路強國建設的基礎支撐。“十五五”時期是我國IPv6從規模部署向全面賦能跨越的關鍵時期，為加快推動IPv6高質量發展，制定本實施方案。一、總體要求堅持以習近平新時代中國特色社會主義思想為指導，深入貫徹黨的二十大和二十屆歷次全會精神，認真落實四中全會部署，全面貫徹習近平總書記關於網路強國的重要思想，完整準確全面貫徹新發展理念，以推動IPv6全面賦能經濟社會高質量發展為主線，著力深化IPv6技術創新和融合應用，著力提升IPv6端到端貫通水平，著力構建IPv6產業生態體系，全面增強IPv6內生髮展動力，鞏固拓展創新發展優勢，促進各行業各領域數字化網路化智慧化全面躍升，為網路強國建設提供有力支撐。主要目標是：到2027年，IPv6端到端貫通水平全面提升，技術創新和融合應用取得重要階段性成果。IPv6網路效能和服務質量全面最佳化，網際網路應用IPv6放量持續擴大，固定寬頻使用者IPv6連通率大幅提升，新增網路終端全面支援並啟用IPv6，政企專線IPv6流量佔比明顯提高，行業融合應用更加廣泛深入，IPv6演進技術（“IPv6+”）體系持續健全，IPv6與人工智慧融合創新取得新成效，安全產品IPv6防護能力進一步提高。到2030年，IPv6與經濟社會各行業各領域廣泛深度融合，構建技術先進、開放創新、內生自驅、安全可靠的IPv6產業生態。新增網路預設優先提供IPv6地址，加快向IPv6單棧演進，打造更多“IPv6+”新應用新模式新業態，推動形成以IPv6為主導的網路服務和應用體系。（網信辦）"
-    },
-    {
-      "id": "5000079",
-      "time": "2026-07-21 18:02:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深科達：董事及子公司高管擬合計增持不低於707萬元】深科達公告，公司董事、子公司線馬科技總經理周爾清及核心骨幹、子公司深科達半導體總經理林廣滿擬自2026年7月22日起6個月內，透過上海證券交易所交易系統允許的方式增持公司股份。周爾清擬增持金額不低於人民幣265萬元且不超過人民幣530萬元；林廣滿擬增持金額不低於人民幣442萬元且不超過人民幣884萬元，合計不低於人民幣707萬元且不超過人民幣1414萬元。"
-    },
-    {
-      "id": "5000078",
-      "time": "2026-07-21 18:02:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智雲股份：持股5%以上股東部分股份解除質押暨協議轉讓過戶完成】智雲股份公告稱，2026年7月20日，宋長江將其持有的1450萬股（佔總股本5.03%）解除質押，並完成過戶給姚擁軍的手續。2025年12月1日，慧達富能與姚擁軍簽署《一致行動協議》。本次轉讓後，姚擁軍持有公司5.03%股份，其一致行動人慧達富能合計控制公司18.61%的股份表決權。本次轉讓不觸及要約收購，不會導致公司控股股東、實際控制人變更。"
-    },
-    {
-      "id": "mkt:019f8420-8869-7aab-8e25-86d111685b38",
-      "time": "2026-07-21 18:02:32",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "BLK.N",
-        "F.N",
-        "GOOG.O"
-      ],
-      "text": "BlackRock (BLK.N), Carhartt, Ford Motor (F.N) and Google (GOOG.O) formed an alliance to expand workforce skills training."
-    },
-    {
-      "id": "5000077",
-      "time": "2026-07-21 18:02:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "卡夫亨氏傳出與迪士尼達成供應合作訊息後，股價上漲 2%  。"
-    },
-    {
-      "id": "te:markets:568545",
-      "time": "2026-07-21 18:02:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Crude Oil Rises Further — Crude oil rose above $83 per barrel on Tuesday after recovering from earlier losses, as traders balanced escalating conflict in the Middle East against renewed diplomatic efforts. The US carried out a 10th consecutive day of strikes after President Donald Trump vowed Iran \"will pay\" for attacks that killed American soldiers, while Tehran responded with missile and drone strikes targeting Kuwait. At the same time, hopes for de-escalation persisted after Iran confirmed it had received mediation proposals and reports of discussions over a possible 10-day ceasefire. Oil prices have remained highly volatile as markets react to shifting prospects for further conflict or renewed negotiations. Adding to supply concerns, Yemen's Houthi movement threatened to block Saudi maritime traffic in the Red Sea, a key export route that allows the kingdom to bypass the Strait of Hormuz. Saudi Arabia said it would take all necessary measures to protect its shipping in line with international law."
-    },
-    {
-      "id": "5000076",
-      "time": "2026-07-21 18:01:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國核建：子公司簽署山東萊陽核電專案一期工程核島施工合同】中國核建(601611.SH)公告稱，公司子公司中國核工業二四建設有限公司與中國核工業第五建設有限公司近期簽署山東萊陽核電專案一期工程核島土建及安裝施工合同。"
-    },
-    {
-      "id": "5000075",
-      "time": "2026-07-21 18:01:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "HYPERSCALE DATA公司比特幣儲備達到 1087 枚比特幣，價值約 7030 萬美元。"
-    },
-    {
-      "id": "5000074",
-      "time": "2026-07-21 18:01:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "波音公司：盧森堡航空將兩架波音737-10的選擇權轉換為確定訂單。"
-    },
-    {
-      "id": "5000073",
-      "time": "2026-07-21 18:01:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海市委軍民融合辦原常務副主任彭崧被“雙開”】經查，彭崧身為黨員領導幹部，喪失理想信念，背棄初心使命，搞迷信活動；罔顧中央八項規定精神，接受可能影響公正執行公務的宴請，收受可能影響公正執行公務的禮金；組織觀念淡薄，隱瞞不報個人有關事項；廉潔底線失守，擁有非上市公司（企業）股份；違反生活紀律；大搞權錢交易，利用職務上的便利或職權、地位形成的便利條件，為他人謀取利益，非法收受鉅額財物。"
-    },
-    {
-      "id": "5000072",
-      "time": "2026-07-21 18:01:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音：盧森堡航空獲得額外兩架波音737-10飛機的選擇權。"
-    },
-    {
-      "id": "5000071",
-      "time": "2026-07-21 18:01:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音：盧森堡航空確認訂單增至12架波音737飛機，同時增購2架選擇權訂單。"
-    },
-    {
-      "id": "te:markets:568543",
-      "time": "2026-07-21 18:00:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Rises as Markets Track US-Iran Diplomacy — Gold rose more than 1% to $4,070 an ounce on Tuesday as investors weighed diplomatic efforts to de-escalate the US-Iran conflict and their potential impact on oil prices, inflation risks, and the Federal Reserve’s interest rate outlook. Reports indicated that mediators are working to bring Washington and Tehran back to the negotiating table, with discussions reportedly including a possible 10-day truce aimed at securing shipping routes through the Strait of Hormuz. The recent escalation in the conflict pushed oil prices to a more than one-month high, raising concerns that higher energy costs could reinforce inflationary pressures. This has prompted a growing number of US policymakers to argue that interest rates may need to remain higher for longer, or potentially rise, to contain inflation. While the Fed is widely expected to keep rates unchanged at next week’s meeting, markets are pricing in more than a 60% probability of a rate hike in September."
-    },
-    {
-      "id": "te:markets:568542",
-      "time": "2026-07-21 18:00:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Brent Rises Again — Brent crude oil rose toward $89 per barrel on Tuesday after recovering from earlier losses, as traders balanced escalating conflict in the Middle East against renewed diplomatic efforts. The US carried out a 10th consecutive day of strikes after President Donald Trump vowed Iran \"will pay\" for attacks that killed American soldiers, while Tehran responded with missile and drone strikes targeting Kuwait. At the same time, hopes for de-escalation persisted after Iran confirmed it had received mediation proposals and reports of discussions over a possible 10-day ceasefire. Oil prices have remained highly volatile as markets react to shifting prospects for further conflict or renewed negotiations. Adding to supply concerns, Yemen's Houthi movement threatened to block Saudi maritime traffic in the Red Sea, a key export route that allows the kingdom to bypass the Strait of Hormuz. Saudi Arabia said it would take all necessary measures to protect its shipping in line with international law."
-    },
-    {
-      "id": "5000070",
-      "time": "2026-07-21 18:00:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "貝萊德、卡哈特、福特與谷歌發起新聯盟，拓展技能型勞動力培訓。"
-    },
-    {
-      "id": "5000069",
-      "time": "2026-07-21 18:00:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度孟買SENSEX指數現貨收盤下跌 0.3%，報 77471.04 點。"
-    },
-    {
-      "id": "5000068",
-      "time": "2026-07-21 18:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【南向資金今日淨買入71.67億港元】港股通（滬）方面，華虹宏力、智譜分別獲淨買入7.25億港元、6.80億港元；騰訊控股淨賣出額居首，金額為10.71億港元；港股通（深）方面，中芯國際、華虹宏力分別獲淨買入18.37億港元、15.26億港元；小米集團-W淨買入額居首，金額為2565.51萬港元。"
-    },
-    {
-      "id": "5000067",
-      "time": "2026-07-21 17:59:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【屹唐股份：核心技術人員調整 新增吳貴斌任職】屹唐股份公告稱，核心技術人員Lee Fook Hong（李福洪）因個人原因離職，離職後不再擔任公司任何職務，其參與研發的智慧財產權歸公司，未違反保密及競業協議。公司新增認定吳貴斌為核心技術人員，其目前任公司中國產品研發事業部新產品部助理副總裁及產品總經理，未持有公司股份。此次調整不會對公司技術、競爭力及經營產生重大不利影響，有助於研發專案推進和產品技術升級。"
-    },
-    {
-      "id": "5000066",
-      "time": "2026-07-21 17:59:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "泰晤士水務宣佈在全部轄區臨時實施軟管用水禁令。"
-    },
-    {
-      "id": "5000065",
-      "time": "2026-07-21 17:59:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聖諾生物：控股股東增持股份實施完畢 權益變動觸及1%刻度】聖諾生物公告稱，控股股東賽諾投資2026年7月17日至21日增持公司股份200.5462萬股，佔總股本0.91%，累計成交總額4992.5976萬元，已超增持計劃下限，增持計劃實施完畢。本次權益變動後，賽諾投資及其一致行動人持股比例由30.82%增至31.73%，觸及1%整數倍。本次增持不會導致公司控股股東及實控人變化，不涉及要約收購。"
-    },
-    {
-      "id": "5000064",
-      "time": "2026-07-21 17:59:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【呈和科技：擬1億-1.5億元回購股份 用於維護公司價值及股東權益】呈和科技公告稱，公司擬以集中競價交易方式回購股份，回購金額不低於1億元、不超過1.5億元，回購價格不超過122元/股，預計可回購81.96萬股-122.95萬股，佔總股本的0.32%-0.47%，用於維護公司價值及股東權益。回購期限為自董事會審議透過本次回購方案之日起3個月內。此外，控股股東、實際控制人趙文林減持計劃尚未實施完畢，將繼續減持；總經理張旭等增持計劃也未完成，將繼續增持。"
-    },
-    {
-      "id": "5000063",
-      "time": "2026-07-21 17:58:54",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗媒體稱美海軍第五艦隊司令部發生爆炸】伊朗塔斯尼姆通訊社21日報道，位於巴林的美國海軍第五艦隊司令部發生爆炸。 另據報道，巴林首都麥納麥拉響警報，居民被要求待在避難所內。（新華社）"
-    },
-    {
-      "id": "5000062",
-      "time": "2026-07-21 17:58:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，美國駐巴林第五艦隊總部發生爆炸。巴林首都麥納麥響起警報，當局要求民眾留在避難場所。"
-    },
-    {
-      "id": "mkt:019f841c-ba70-7aab-8e25-7cf933a57925",
-      "time": "2026-07-21 17:58:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude rises more than 1.00% intraday to $88.38/bbl."
-    },
-    {
-      "id": "5000061",
-      "time": "2026-07-21 17:58:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼將加強免費膳食專案資金監管。"
-    },
-    {
-      "id": "5000060",
-      "time": "2026-07-21 17:58:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破90美元/桶，日內漲0.89%。"
-    },
-    {
-      "id": "5000059",
-      "time": "2026-07-21 17:58:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：一架隸屬於阿聯酋達夫拉空軍基地的美軍加油機，在波斯灣上空飛行時發出 7700 緊急遇險訊號。"
-    },
-    {
-      "id": "mkt:019f841c-68a7-7aab-8e25-74ffad49bb6c",
-      "time": "2026-07-21 17:58:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude extends intraday gains to 1.00%, trading at $83.74/bbl."
     }
   ]
 }
