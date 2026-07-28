@@ -1,7 +1,186 @@
 {
   "date": "2026-07-29",
-  "count": 426,
+  "count": 443,
   "items": [
+    {
+      "id": "mkt:019faaf4-0796-7aab-8ed6-9cae983d5065",
+      "time": "2026-07-29 06:59:07",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. Federal Aviation Administration (FAA) issued a nationwide ground stop for American Airlines Group (AAL.O) flights due to an IT systems issue."
+    },
+    {
+      "id": "mkt:019faaf1-f4d5-7aab-8ed6-965a63b2a48d",
+      "time": "2026-07-29 06:56:51",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix is evaluating additional shareholder-return measures to increase the scale and sustainability of returns."
+    },
+    {
+      "id": "5013084",
+      "time": "2026-07-29 06:56:42",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局（FAA）宣告：因資訊科技系統故障，全美範圍內暫停美國航空所有航班起降。"
+    },
+    {
+      "id": "mkt:019faaf1-9044-7aab-8ed6-89ef251b5f5f",
+      "time": "2026-07-29 06:56:25",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O): long-term agreements will enhance medium- to long-term demand visibility."
+    },
+    {
+      "id": "5013083",
+      "time": "2026-07-29 06:56:15",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "SK海力士ADR美股盤後跌幅擴大至5.7%，該公司二季度運營利潤遜色於分析師預期。"
+    },
+    {
+      "id": "mkt:019faaf1-54d2-7aab-8ed6-8337fe9ac002",
+      "time": "2026-07-29 06:56:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) expects Q3 NAND shipments to rise by low-single-digit percent QoQ."
+    },
+    {
+      "id": "mkt:019faaf0-d5bb-7aab-8ed6-7ed649968535",
+      "time": "2026-07-29 06:55:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) expects Q3 DRAM shipments to rise about 10% quarter-on-quarter."
+    },
+    {
+      "id": "5013082",
+      "time": "2026-07-29 06:55:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK 海力士：第二代 SOCAMM 產品二季度銷量大幅增長。"
+    },
+    {
+      "id": "te:markets:570516",
+      "time": "2026-07-29 06:54:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Hits Fresh Record High in Morning Trade — New Zealand's stocks climbed 15 points, or 0.1%, to 13,877 in Wednesday morning trade, supported by gains in real estate, energy, consumer discretionary stocks, financials, and communication services. The broader index hit a new intraday record high after closing at a record high of 13,862 a day earlier, marking its second consecutive record close. Traders tried to maintain momentum amid easing oil prices, as easing inflation concerns reduced expectations of further interest rate hikes. However, traders remained cautious ahead of the Fed's monetary policy decision and China's PMI data, as well as the release of New Zealand's consumer confidence and business outlook data for July, due later this week. Among the early gainers were AFT Pharmaceuticals (2.2%), Delegat Group (1.9%), Ventia Services Group (1.8%), Chorus (1.2%), Ebos Group (1.1%), Channel Infrastructure NZ (0.9%), and Freightways Group (0.7%)."
+    },
+    {
+      "id": "mkt:019faaef-b9dd-7aab-8ed6-726ab9f10d04",
+      "time": "2026-07-29 06:54:25",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) said easing supply tightness and expanding AI applications are expected to gradually restore growth momentum in the smartphone and PC markets."
+    },
+    {
+      "id": "mkt:019faaef-b2ed-7aab-8ed6-6d9adc576977",
+      "time": "2026-07-29 06:54:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O"
+      ],
+      "text": "SK Hynix (SKHY.O) signed long-term chip supply agreements with 10 customers; contracts include pricing mechanisms designed to address price volatility."
+    },
+    {
+      "id": "mkt:019faaee-fe5c-7aab-8ed6-6609415d49ad",
+      "time": "2026-07-29 06:53:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix (SKHY.O) will expand HBM4 supply in H2."
+    },
+    {
+      "id": "mkt:019faaee-af3a-7aab-8ed6-5c3d4b748be4",
+      "time": "2026-07-29 06:53:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) expects 2026 capex at the upper end of its guidance, up to 40 trillion won."
+    },
+    {
+      "id": "5013081",
+      "time": "2026-07-29 06:53:16",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "SK 海力士：已於二季度實現 HBM4 批次出貨，下半年擴大 HBM4 視訊記憶體供應量。"
+    },
+    {
+      "id": "5013080",
+      "time": "2026-07-29 06:53:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK 海力士：長期供貨協議配套定價體系旨在緩解價格劇烈波動問題，定價方案會根據合作客戶、產品型別差異化設定。長期供貨協議（LTA）將提升中長期需求的可見度。"
+    },
+    {
+      "id": "5013079",
+      "time": "2026-07-29 06:52:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK 海力士：第三季度 DRAM 出貨量環比增長約 10%，第三季度 NAND 快閃記憶體出貨量環比小幅上漲。"
+    },
+    {
+      "id": "mkt:019faaed-f3ae-7aab-8ed6-575e7b97fb6c",
+      "time": "2026-07-29 06:52:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix (SKHY.O) said memory supply challenges will force temporary adjustments to smartphone and PC sales."
+    },
     {
       "id": "mkt:019faaed-9406-7aab-8ed6-4fbc8e6b62a9",
       "time": "2026-07-29 06:52:04",

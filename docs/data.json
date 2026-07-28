@@ -1,7 +1,186 @@
 {
-  "updated": "2026-07-29 06:52:33",
-  "count": 17541,
+  "updated": "2026-07-29 06:59:41",
+  "count": 17546,
   "items": [
+    {
+      "id": "mkt:019faaf4-0796-7aab-8ed6-9cae983d5065",
+      "time": "2026-07-29 06:59:07",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. Federal Aviation Administration (FAA) issued a nationwide ground stop for American Airlines Group (AAL.O) flights due to an IT systems issue."
+    },
+    {
+      "id": "mkt:019faaf1-f4d5-7aab-8ed6-965a63b2a48d",
+      "time": "2026-07-29 06:56:51",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix is evaluating additional shareholder-return measures to increase the scale and sustainability of returns."
+    },
+    {
+      "id": "5013084",
+      "time": "2026-07-29 06:56:42",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局（FAA）宣告：因資訊科技系統故障，全美範圍內暫停美國航空所有航班起降。"
+    },
+    {
+      "id": "mkt:019faaf1-9044-7aab-8ed6-89ef251b5f5f",
+      "time": "2026-07-29 06:56:25",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O): long-term agreements will enhance medium- to long-term demand visibility."
+    },
+    {
+      "id": "5013083",
+      "time": "2026-07-29 06:56:15",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "SK海力士ADR美股盤後跌幅擴大至5.7%，該公司二季度運營利潤遜色於分析師預期。"
+    },
+    {
+      "id": "mkt:019faaf1-54d2-7aab-8ed6-8337fe9ac002",
+      "time": "2026-07-29 06:56:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) expects Q3 NAND shipments to rise by low-single-digit percent QoQ."
+    },
+    {
+      "id": "mkt:019faaf0-d5bb-7aab-8ed6-7ed649968535",
+      "time": "2026-07-29 06:55:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) expects Q3 DRAM shipments to rise about 10% quarter-on-quarter."
+    },
+    {
+      "id": "5013082",
+      "time": "2026-07-29 06:55:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK 海力士：第二代 SOCAMM 產品二季度銷量大幅增長。"
+    },
+    {
+      "id": "te:markets:570516",
+      "time": "2026-07-29 06:54:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Hits Fresh Record High in Morning Trade — New Zealand's stocks climbed 15 points, or 0.1%, to 13,877 in Wednesday morning trade, supported by gains in real estate, energy, consumer discretionary stocks, financials, and communication services. The broader index hit a new intraday record high after closing at a record high of 13,862 a day earlier, marking its second consecutive record close. Traders tried to maintain momentum amid easing oil prices, as easing inflation concerns reduced expectations of further interest rate hikes. However, traders remained cautious ahead of the Fed's monetary policy decision and China's PMI data, as well as the release of New Zealand's consumer confidence and business outlook data for July, due later this week. Among the early gainers were AFT Pharmaceuticals (2.2%), Delegat Group (1.9%), Ventia Services Group (1.8%), Chorus (1.2%), Ebos Group (1.1%), Channel Infrastructure NZ (0.9%), and Freightways Group (0.7%)."
+    },
+    {
+      "id": "mkt:019faaef-b9dd-7aab-8ed6-726ab9f10d04",
+      "time": "2026-07-29 06:54:25",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) said easing supply tightness and expanding AI applications are expected to gradually restore growth momentum in the smartphone and PC markets."
+    },
+    {
+      "id": "mkt:019faaef-b2ed-7aab-8ed6-6d9adc576977",
+      "time": "2026-07-29 06:54:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O"
+      ],
+      "text": "SK Hynix (SKHY.O) signed long-term chip supply agreements with 10 customers; contracts include pricing mechanisms designed to address price volatility."
+    },
+    {
+      "id": "mkt:019faaee-fe5c-7aab-8ed6-6609415d49ad",
+      "time": "2026-07-29 06:53:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix (SKHY.O) will expand HBM4 supply in H2."
+    },
+    {
+      "id": "5013081",
+      "time": "2026-07-29 06:53:16",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "SK 海力士：已於二季度實現 HBM4 批次出貨，下半年擴大 HBM4 視訊記憶體供應量。"
+    },
+    {
+      "id": "mkt:019faaee-af3a-7aab-8ed6-5c3d4b748be4",
+      "time": "2026-07-29 06:53:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) expects 2026 capex at the upper end of its guidance, up to 40 trillion won."
+    },
+    {
+      "id": "5013080",
+      "time": "2026-07-29 06:53:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK 海力士：長期供貨協議配套定價體系旨在緩解價格劇烈波動問題，定價方案會根據合作客戶、產品型別差異化設定。長期供貨協議（LTA）將提升中長期需求的可見度。"
+    },
+    {
+      "id": "5013079",
+      "time": "2026-07-29 06:52:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK 海力士：第三季度 DRAM 出貨量環比增長約 10%，第三季度 NAND 快閃記憶體出貨量環比小幅上漲。"
+    },
+    {
+      "id": "mkt:019faaed-f3ae-7aab-8ed6-575e7b97fb6c",
+      "time": "2026-07-29 06:52:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix (SKHY.O) said memory supply challenges will force temporary adjustments to smartphone and PC sales."
+    },
     {
       "id": "mkt:019faaed-9406-7aab-8ed6-4fbc8e6b62a9",
       "time": "2026-07-29 06:52:04",
@@ -160818,127 +160997,6 @@
         "The Trump Trade"
       ],
       "text": "【Trump announces two-year zero tariffs on imported generics from Aug. 1, 2026; then 100% and 200% hikes】President Trump said all generic drugs imported into the United States will have zero tariffs for two years from Aug. 1, 2026. Thereafter tariffs will be raised to 100% for one year and then to 200% thereafter; the move is aimed at repatriating generic drug production and penalizing firms that fail to establish domestic production facilities and equipment within the required timeframe. Existing tariff and trade policies for patented, brand and innovative drugs will remain unchanged. U.S. construction of pharmaceutical manufacturing capacity is proceeding at an unprecedented scale nationwide, he said."
-    },
-    {
-      "id": "5000959",
-      "time": "2026-07-22 06:58:20",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、“十五五”時期，國家綜合立體交通網主骨架建成率將從91%升至95% 交通建設發力補短板、揚優勢（權威釋出·開局起步“十五五”）\n2、火熱“中國遊”彰顯開放中國新氣象（和音）\n3、從“買商品”到“買體驗” 體驗式服務消費活力迸發（大資料觀察）\n4、百日千萬招聘專項行動推出四個專場\n5、2025年檢驗檢測服務業營收超5300億元\n6、開屏直接跳轉、偽裝成正常資訊、彈窗難關閉——手機APP廣告跳轉亂象如何治（法治聚焦）\n7、最高檢釋出懲治危害生產安全犯罪有關情況 儲能等新業態安全風險須關注\n8、雲南發文要求增強物業服務透明度\n9、從單點試用邁向全鏈深耕 “AI+製造”，展現新潛力\n10、將涉醫保基金各類違法違規問題消滅在“萌芽”狀態 定點醫藥機構智慧監管事前提醒接入率超七成\n11、一邊是算力增長需要電力支撐，一邊是電力供給更加綠色 人工智慧加速發展，如何推進算電協同？（全面推進美麗中國建設）\n12、海水淡化產業發展行動方案印發\n13、中國空調“一機難求”，創意產品持續熱銷，本報記者實地探訪——消暑降溫，歐洲民眾為何追捧中國製造？（第一現場）\n14、負載能力達500公斤、可覆蓋10米至18米級盾構機 全球首款過載智慧盾構換刀機器人投用（探訪全球第一）\n15、政策舉措精準發力 經營主體創新供給 暑期消費持續升溫（新視窗·聚焦暑期消費）。"
-    },
-    {
-      "id": "5000958",
-      "time": "2026-07-22 06:58:12",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、“努力讓每個孩子都能享有公平而有質量的教育”——習近平總書記關於教育的重要論述指引基礎教育高質量發展\n2、中國外貿增勢強勁、走勢穩健（年中經濟觀察）\n3、廣東何以“走在前”（活力中國調研行）\n4、浙江溫州全面踐行人民城市理念——打造貼近群眾生活的園博會\n5、江西九江開展“新官不理舊賬”集中整治 靶向發力 破解難題（樹立和踐行正確政績觀·一線見聞）。"
-    },
-    {
-      "id": "5000957",
-      "time": "2026-07-22 06:57:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：仿製藥關稅政策旨在推動仿製藥產能迴流美國本土，對未在規定時限內建設廠房、添置裝置的企業實施懲戒。此項政策的目標是保護美國民眾。現行成效顯著的專利藥、品牌藥以及創新藥相關政策維持不變。目前全美各地正以前所未有的規模興建製藥廠區。"
-    },
-    {
-      "id": "mkt:019f86e4-fd40-7aab-8e33-5ba7ffb3ece2",
-      "time": "2026-07-22 06:56:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "U.S. President Trump said tariffs on generic drugs will be raised to 100% in two years for one year, then increased to 200%."
-    },
-    {
-      "id": "5000956",
-      "time": "2026-07-22 06:56:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普表示：兩年後，（仿製藥）關稅將在一年內上調至100%，此後進一步上調至200%。"
-    },
-    {
-      "id": "mkt:019f86e4-18e7-7aab-8e33-505e95a4fe79",
-      "time": "2026-07-22 06:55:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Trump announced that from Aug. 1, 2026 all generic drugs imported into the US will remain tariff-free for two years."
-    },
-    {
-      "id": "5000955",
-      "time": "2026-07-22 06:55:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：（仿製藥）關稅稅率自2026年8月1日起生效。"
-    },
-    {
-      "id": "te:markets:568634",
-      "time": "2026-07-22 06:55:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Rises, Tracking Wall Street Gains — The NZX 50 climbed 45 points, or 0.3%, to 13,701 in Wednesday morning trading, erasing losses from the previous session, tracking a rise on Wall Street overnight buoyed by a rebound in chip stocks. Traders shrugged off Wednesday's data, which showed that New Zealand's inflation rate accelerated to the highest level since Q4 2023. However, persistently high oil prices capped the gains as inflation concerns fueled expectations of further interest rate hikes, while RBNZ Chief Economist Paul Conway recently warned that sticky inflation could prompt further monetary policy tightening. Gains in materials, consumer discretionary, and communication services stocks mainly drove the broader index. A2 Milk rose 1.4%, AFT Fisher & Paykel climbed 0.9%, Auckland International Airport advanced 0.5%, and Ebos Group gained 0.5%."
-    },
-    {
-      "id": "5000954",
-      "time": "2026-07-22 06:54:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：兩年後對仿製藥徵收100%關稅。"
-    },
-    {
-      "id": "5000953",
-      "time": "2026-07-22 06:54:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：所有仿製藥繼續享受零關稅。"
-    },
-    {
-      "id": "5000952",
-      "time": "2026-07-22 06:54:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：仿製藥進入美國關稅為零。"
-    },
-    {
-      "id": "mkt:019f86e3-539b-7aab-8e33-495516d603c9",
-      "time": "2026-07-22 06:54:32",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "The Atlantic reports US officials say Iran has intensified attacks on US Navy vessels."
     }
   ]
 }
