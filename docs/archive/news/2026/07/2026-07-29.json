@@ -1,7 +1,17 @@
 {
   "date": "2026-07-29",
-  "count": 286,
+  "count": 287,
   "items": [
+    {
+      "id": "mkt:019faa6f-99dd-7aab-8ed4-d4e0ea09c41f",
+      "time": "2026-07-29 04:34:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Crude Oil Stocks Change (Jul.24) | actual 3296000M | consensus -1350000M | previous 2603000M"
+    },
     {
       "id": "5012997",
       "time": "2026-07-29 04:24:42",
