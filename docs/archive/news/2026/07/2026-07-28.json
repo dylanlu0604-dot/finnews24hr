@@ -1,7 +1,181 @@
 {
   "date": "2026-07-28",
-  "count": 1342,
+  "count": 1361,
   "items": [
+    {
+      "id": "5011598",
+      "time": "2026-07-28 14:26:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "海灣訊息人士稱，根據該提議，伊朗不會獨控霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019fa766-b96a-7aab-8ec1-3caf68e8f42a",
+      "time": "2026-07-28 14:25:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Refinitiv: Gulf sources said Oman proposed to Iran creating a regionally co‑managed mechanism to oversee the Strait of Hormuz, operating on a voluntary-fee basis."
+    },
+    {
+      "id": "te:economy:570288",
+      "time": "2026-07-28 14:25:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Lithuania",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Lithuania Industrial Output Rebounds Sharply in June — Industrial production in Lithuania surged 9.8% year-on-year in June 2026, rebounding sharply from a 1.6% fall in the previous month. This marked the strongest expansion since July 2024, driven by renewed growth in manufacturing output excluding refined petroleum products (11.5% vs -1.0% in May) and a sharp increase in mining and quarrying activity (9.1% vs 1.7%). The pace of decline also moderated in the electricity, gas, steam, and air conditioning supply sector (-3.1% vs -9.5%) as well as in water supply, sewerage, waste management, and remediation services (-8.6% vs -13.3%). On a seasonally adjusted monthly basis, industrial output rose 2.1%, recovering from a 2.9% drop in May."
+    },
+    {
+      "id": "5011597",
+      "time": "2026-07-28 14:25:41",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "海灣訊息人士透露，該方案參照馬六甲海峽模式，由海峽通行方自願出資，用於航道維護、環境保護及海上搜救工作。"
+    },
+    {
+      "id": "5011596",
+      "time": "2026-07-28 14:25:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "海灣訊息人士稱，阿曼的提議得到了地區支援。"
+    },
+    {
+      "id": "5011595",
+      "time": "2026-07-28 14:25:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "海灣訊息人士稱，阿曼已向伊朗提交一份關於建立聯合地區機制、透過收繳自願費用管理霍爾木茲海峽的提議。"
+    },
+    {
+      "id": "5011594",
+      "time": "2026-07-28 14:24:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度“蟑螂人民黨”結束抗議活動】據路透社7月25日報道，在印度教育部長宣佈辭職、莫迪總理領導的政府接受了改革考試系統等要求之後，印度青年在25日宣佈結束數週以來的抗議活動，並走上街頭慶祝勝利。莫迪第三任期內最嚴重的政治危機在本週達到頂峰，數千名抗議者一度前往議會，導致警察使用催淚瓦斯控制人群。（參考訊息）"
+    },
+    {
+      "id": "te:markets:570287",
+      "time": "2026-07-28 14:24:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Falls on Signs of Ample Supply — Iron ore futures dropped toward CNY 740 per ton, hovering near three-week lows as evidence of abundant global supply continued to pressure prices. Imported iron ore inventories at Chinese ports remained high, while stockpiles at Chinese steel mills climbed 8% last week. Data also showed that Western Australia’s Pilbara Ports, the world’s largest iron ore export hub, handled more than 800 million tons of cargo during the 2025-2026 financial year, with iron ore shipments totaling about 759.4 million tons. That surpassed the previous record of 775.7 million tons set in the 2024-2025 financial year. Meanwhile, Port Hedland handled 580.4 million tons of cargo over the same period, while Dampier processed 178.3 million tons. On the demand side, investors are awaiting updates from the Politburo meeting in Beijing for potential stimulus measures that could provide support to the Chinese economy."
+    },
+    {
+      "id": "5011593",
+      "time": "2026-07-28 14:24:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "交易員稱，路易威登集團第二季度業績公佈後，其股價預計下跌2%至3%。"
+    },
+    {
+      "id": "5011592",
+      "time": "2026-07-28 14:24:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Arm與Unity中國圍繞神經技術達成戰略合作 將整合至新一代Arm GPU中】Arm與Unity中國簽署一項戰略合作諒解備忘錄。雙方將圍繞Arm神經技術（Arm Neural Technology）展開深度合作，該技術將專用神經加速器整合至2026最新一代Arm GPU中，基於這一業界首創技術，雙方將共同打造面向遊戲的超分與插幀功能，降低開發者在AI圖形開發和跨平臺適配方面的門檻，加速手遊的迭代更新。後續雙方還計劃將此次合作擴充套件至汽車智慧座艙及工業邊緣等場景落地。"
+    },
+    {
+      "id": "5011591",
+      "time": "2026-07-28 14:23:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【野村：村田製作所料將在下一代MLCC領域保持主導市場份額】野村的Manabu Akizuki表示，村田製作所料將在下一代多層陶瓷電容器(MLCC)領域保持其主導市場份額。該分析師指出，製造MLCC存在難度，該公司與其競爭對手在良率上的差距不斷擴大，且質量要求嚴格（包括對有效靜電電容的要求）。"
+    },
+    {
+      "id": "te:economy:570286",
+      "time": "2026-07-28 14:23:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Sweden Trade Surplus Shrinks in June — Sweden posted a trade surplus of SEK 2.6 billion in June 2026, more than four times lower than the SEK 11.8 billion recorded in the same month a year earlier, as imports rose faster than exports. Imports climbed by 18.1% year-on-year to an all-time high of SEK 195.3 billion, driven by higher purchases from both EU markets (21% to SEK 131.8 billion) and non-EU countries (12.6% to SEK 63.5 billion). Meanwhile, exports grew at a slower pace of 11.7%, but also to a record of SEK 197.6 billion, reflecting increased shipments to both EU countries (18.2% to SEK 112.2 billion) and non-EU countries (4.3% to SEK 85.7 billion). Considering the first six months of the year, the country’s trade surplus narrowed sharply to SEK 8.2 billion from SEK 47.9 billion in the corresponding period a year ago, as exports rose 3%, while imports increased by a faster 7%. On a seasonally adjusted basis, the trade net recorded a deficit of SEK 0.5 billion in June."
+    },
+    {
+      "id": "mkt:019fa764-6f54-7aab-8ec1-37262e75b50f",
+      "time": "2026-07-28 14:23:24",
+      "tags": [
+        "MKT News",
+        "MBG.DE",
+        "Impact bearish"
+      ],
+      "text": "Mercedes-Benz CFO says full-year automotive operating margin is expected at the lower end of the 3.5% band."
+    },
+    {
+      "id": "5011590",
+      "time": "2026-07-28 14:23:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "梅賽德斯-賓士首席財務官表示：預計全年汽車業務營業利潤率將處於3.5%區間的下半段。"
+    },
+    {
+      "id": "mkt:019fa763-ef36-7aab-8ec1-2d95b2dc733d",
+      "time": "2026-07-28 14:22:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Finnish Defence Forces closed southern airspace near the Russian border, citing concerns about stray drones, Finnish public broadcaster YLE said."
+    },
+    {
+      "id": "5011589",
+      "time": "2026-07-28 14:22:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "芬蘭公共廣播公司YLE報道，因存在無人機誤入的風險，芬蘭國防軍關閉了靠近俄羅斯邊境的南部空域。"
+    },
+    {
+      "id": "5011588",
+      "time": "2026-07-28 14:22:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米已註冊澎程關聯商標】天眼查智慧財產權資訊顯示，小米科技有限責任公司已申請註冊多枚“SKYNOMAD”“澎程”商標，國際分類涉及運輸工具、機械裝置、通訊服務等，目前部分商標已成功註冊。"
+    },
+    {
+      "id": "5011587",
+      "time": "2026-07-28 14:22:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【花旗：上調中國人壽AH股目標價，預期上半年新業務價值同比增32%】花旗發表研報，預計中國人壽上半年新業務價值同比增長32%。國壽早前發盈喜，預期上半年純利預計同比大增215%至235%，主要是由於次季資本市場表現較佳帶動投資收益得到改善。該行上調國壽2026財年每股盈測19%，以反映更高的投資收益預測，又將H股目標價由36港元調升至36.2港元，重申“買入”評級；至於國壽A股目標價則由40.8元升至41元。"
+    },
+    {
+      "id": "5011586",
+      "time": "2026-07-28 14:22:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泡泡瑪特城市樂園門票漲價】泡瑪特城市樂園近日釋出樂園全面開放與票價調整公告：2026年7月30日起，奇遇森林區域將迎來全面開放。伴隨LABUBU精靈部落的亮相，更多遊樂裝置、演藝活動及互動體驗也將同步升級呈現。樂園將於7月30日啟用新的門票方案，以更好地匹配全面升級後的樂園內容，為大家提供更豐富的遊玩體驗。 據瞭解，樂園新區域全面開放後，票價將進一步上調。標準樂園遊平日價格為178元/人，高峰日價格為208元/人，特定高峰期為238元/人；標準樂園遊+嘉年華3次票的平日價格為228元/人，高峰日價格為258元/人，特定高峰期為288元/人；入園觀光票平日 98元/人，高峰日和特定高峰日為128元/人。（北京商報）"
+    },
     {
       "id": "mkt:019fa762-e976-7aab-8ec1-27c24d96e8f8",
       "time": "2026-07-28 14:21:45",
