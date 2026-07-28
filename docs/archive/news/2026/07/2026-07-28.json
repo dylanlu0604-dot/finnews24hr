@@ -1,7 +1,246 @@
 {
   "date": "2026-07-28",
-  "count": 2891,
+  "count": 2918,
   "items": [
+    {
+      "id": "mkt:019fa90c-8043-7aab-8ecf-95861969da11",
+      "time": "2026-07-28 22:06:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DELL.N",
+        "Impact bearish"
+      ],
+      "text": "Dell (DELL.N) is set to record its largest single-day decline since April 2025; the stock is down 13.5%."
+    },
+    {
+      "id": "5012703",
+      "time": "2026-07-28 22:06:30",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "戴爾股價將迎來2025年4月以來最大單日跌幅，截至最新資料跌幅達13.5%。"
+    },
+    {
+      "id": "5012702",
+      "time": "2026-07-28 22:06:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【AI行業規模激增 Anthropic營收超越星巴克、麥當勞】人工智慧相關收入增速迅猛，體量已開始碾壓一眾全球頂級消費品牌。當投資者直觀看到AI投入的兌現能力，數萬億美元級的AI基建開支預期也就更容易被理解。 根據AI投研平臺Funda的資料，OpenAI與Anthropic兩家公司年化營收合計有望達到1200億美元。 其中Anthropic憑藉企業級客戶優勢貢獻約60%份額（OpenAI正在全力縮小這一差距）。按照該營收規模，兩家企業均可躋身《財富》美國500強營收百強榜單。 Anthropic預估年化營收約710億美元，超過星巴克（372億美元）與麥當勞（269億美元）兩家營收總和； 該數值幾乎等同於星巴克+麥當勞再加塔可貝爾、肯德基母公司百勝餐飲三者營收之和。"
+    },
+    {
+      "id": "mkt:019fa90c-41fa-7aab-8ecf-8a28178bbf2a",
+      "time": "2026-07-28 22:06:20",
+      "tags": [
+        "MKT News",
+        "TSM.N",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Kyodo News reports TSMC (TSM.N) employees who were previously evacuated have begun returning to the plant."
+    },
+    {
+      "id": "5012701",
+      "time": "2026-07-28 22:06:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電疏散員工已陸續返回廠區。"
+    },
+    {
+      "id": "mkt:019fa90c-1182-7aab-8ecf-875ea1ffd383",
+      "time": "2026-07-28 22:06:08",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "The Information reports OpenAI and ANTHROPIC urged U.S. regulators to expand scrutiny to additional AI models."
+    },
+    {
+      "id": "5012700",
+      "time": "2026-07-28 22:06:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "捷藍航空執行長在電話會議上表示：仍預計到2027年初實現100%燃油成本轉嫁。"
+    },
+    {
+      "id": "5012699",
+      "time": "2026-07-28 22:05:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，OpenAI 與 Anthropic 呼籲美國加大對 AI 模型的審查力度。"
+    },
+    {
+      "id": "mkt:019fa90b-c001-7aab-8ecf-7ce5334542ec",
+      "time": "2026-07-28 22:05:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Consumer confidence slips again — is US consumption resilience faltering?】The Conference Board's July consumer confidence index fell to 90.8, below consensus 92.3 and June's 91.2. The decline was modest and does not signal a sudden consumer collapse, but the index's prolonged low level indicates high inflation, higher rates and job-market uncertainty continue to weigh on households. In June, the current-business-and-employment assessment dropped to 116.4 and the share saying jobs are hard to find rose to the highest since January 2021; the expectations subindex recovered to 74.4 but remains below the 80 recession-warning threshold. Market takeaway: the print is mildly dollar- and yield-negative and slightly supportive of easing expectations, but the miss is limited — decisive policy implications should wait for upcoming GDP, PCE and jobs data."
+    },
+    {
+      "id": "5012698",
+      "time": "2026-07-28 22:05:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國貿促會副會長林紅紅會見中國韓國人企業家協會理事長金星坤】7月28日，中國貿促會副會長林紅紅在京會見中國韓國人企業家協會理事長金星坤一行。雙方圍繞加強中韓中小企業聯絡、推動產供鏈融合、更好服務兩國企業發展等議題進行交流。"
+    },
+    {
+      "id": "5012697",
+      "time": "2026-07-28 22:05:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "路透社調查預計，2026年白銀均價為每盎司72美元，2027年為每盎司71美元。"
+    },
+    {
+      "id": "5012696",
+      "time": "2026-07-28 22:05:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "路透調查：預計2026年黃金均價為每盎司4509美元，2027年為每盎司4610美元。"
+    },
+    {
+      "id": "5012695",
+      "time": "2026-07-28 22:05:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電確認熊本廠區建築安全無恙。"
+    },
+    {
+      "id": "5012694",
+      "time": "2026-07-28 22:05:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本朝日電視臺28日援引警方人士訊息稱，受地震波及的熊本縣嘉島町商場內，已確認有數人死亡。（新華社）"
+    },
+    {
+      "id": "mkt:019fa90b-400d-7aab-8ecf-75693027d6cf",
+      "time": "2026-07-28 22:05:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "【Nasdaq-100 falls 10% from peak in 38 trading days, enters correction】Concerns about returns on AI investments are denting sentiment toward the mega-cap techs that powered this year's rally. On Tuesday the Nasdaq-100 fell 1.6% and was poised to close in a correction (defined as a 10% decline from the peak), having reached that threshold in just 38 trading days. By contrast, the pullback prior to March took more than 100 trading days to fall 10% from its October 2025 high."
+    },
+    {
+      "id": "mkt:019fa90b-354e-7aab-8ecf-6cbb105d986b",
+      "time": "2026-07-28 22:05:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "PYPL.O",
+        "Impact bullish",
+        "AMZN.O"
+      ],
+      "text": "PayPal and Amazon have launched a buy-now-pay-later service in Germany and Austria."
+    },
+    {
+      "id": "te:markets:570461",
+      "time": "2026-07-28 22:05:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slips from Record High — The S&P/TSX Composite Index edged lower on Tuesday after closing at a record high in the previous session, pressured by losses in the mining, financial, and energy sectors. Gold prices fell as a stronger US dollar and mounting uncertainty ahead of Wednesday's Federal Reserve policy decision weighed on the metal. Agnico Eagle, Barrick, and WPM each lost nearly 3%. Financials also retreated, with RBC, TD Bank, BMO, CIBC, and Brookfield down about 1%. Energy shares weakened as oil prices declined on growing hopes for a resolution to the US-Iran conflict. Imperial Oil and Cenovus fell nearly 1%, while Canadian Natural lost more than 0.5%. In contrast, technology stocks outperformed after Celestica (+1%). Shopify gained 2% and Constellation Software rose 2.5%. TFI International (+7%) also beat forecasts. Great-West Lifeco (+0.1%), First Quantum (-4%), Cardinal Energy (-1%), and Intact Financial (+1%) are due to report earnings after the closing bell."
+    },
+    {
+      "id": "5012693",
+      "time": "2026-07-28 22:04:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國消費者信心調查：認為未來 12 個月美國經濟 “有可能” 陷入衰退的消費者佔比持續走高，但整體衰退預期仍處低位，認為衰退 “極有可能” 發生的受訪者佔比有所下降。"
+    },
+    {
+      "id": "5012692",
+      "time": "2026-07-28 22:03:56",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【全球儲存股迎大幅調整 部分龍頭較年內高點回撤超50%】美股盤初，AI硬體板塊繼續調整，費城半導體指數下跌5.5%，其中儲存板塊跌幅最為明顯。美光科技跌超10%，閃迪跌14.54%，西部資料跌13.39%，希捷科技跌12.97%，鎧俠ADR跌13.46%。韓國儲存巨頭SK海力士下跌9.63%。近期全球儲存晶片板塊持續調整，多家儲存龍頭股較年內高點出現明顯回撤。資料顯示，美光科技最新股價較年內高點下跌35.4%，每股跌幅約444.8美元；閃迪跌幅達53.6%，股價較高點回落超1262美元。韓國儲存巨頭海力士、三星電子分別較年內高點下跌48.1%和41.3%。此外，西部資料、鎧俠、日本儲存產業鏈企業希捷科技等也出現較大幅度調整，其中鎧俠跌幅達到60.5%，成為本輪迴撤幅度最大的主要儲存股之一。"
+    },
+    {
+      "id": "mkt:019fa909-c965-7aab-8ecf-65e2dc8f63bd",
+      "time": "2026-07-28 22:03:38",
+      "tags": [
+        "MKT News",
+        "DIS.O"
+      ],
+      "text": "Several senators and former FCC officials oppose the Trump administration's move to expedite review of the FCC broadcast license for Disney-owned ABC."
+    },
+    {
+      "id": "5012691",
+      "time": "2026-07-28 22:03:34",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲表示聯邦公開市場委員會會議於週二上午 10 時如期召開。"
+    },
+    {
+      "id": "5012690",
+      "time": "2026-07-28 22:03:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "META：這些功能正在逐步推出，很快將向所有使用者開放。"
+    },
+    {
+      "id": "5012689",
+      "time": "2026-07-28 22:03:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國網路空間安全協會關基專委會召開“大模型與重要行業領域網路安全”技術研討會】2026年7月27日下午，中國網路空間安全協會關鍵資訊基礎設施安全保護專業委員會在京召開“大模型與重要行業領域網路安全”技術研討會。會議認為，以Mythos為代表的前沿大模型顯著降低了漏洞發現與利用驗證的門檻，加速攻防向自動化、規模化、智慧化演進。面對零日漏洞發現提速，傳統依賴通報和補丁的防護模式已難應對，需強化未知威脅發現、暴露面管理、縱深防禦、行為監測與快速響應，並積極運用AI提升漏洞治理效率。同時，應持續跟蹤評估AI風險，推動技術與一線防護結合，加快構建適應智慧化攻防的新型關基安全防護體系。（中國網路空間安全協會）"
+    },
+    {
+      "id": "5012688",
+      "time": "2026-07-28 22:03:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "META：推出新功能讓WhatsApp通話更便捷，包括支援WhatsApp網頁版通話、通話轉移、背景噪音抑制等功能。"
+    },
+    {
+      "id": "5012687",
+      "time": "2026-07-28 22:02:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【摩爾執行緒率先完成Kimi K3適配，支援2.8萬億引數開源大模型】今日，月之暗面正式開源2.8萬億引數模型Kimi K3，併發布模型權重與技術報告。同日，摩爾執行緒基於AI訓推一體智算卡MTT S5000及MUSA軟體棧，率先完成Kimi K3的極速適配與穩定拉起。（摩爾執行緒）"
+    },
     {
       "id": "5012686",
       "time": "2026-07-28 22:02:21",
@@ -141,6 +380,15 @@
       "text": "United States | Conference Board Current Conditions Index (Jul) | actual 114.9 | previous 116.4"
     },
     {
+      "id": "em:jjsj_mgsj:202607283823817489",
+      "time": "2026-07-28 22:00:48",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國7月里奇蒙德聯儲製造業指數為5，前值4。"
+    },
+    {
       "id": "5012681",
       "time": "2026-07-28 22:00:47",
       "tags": [
@@ -159,6 +407,15 @@
         "Important"
       ],
       "text": "United States | Conference Board Expectations Index (Jul) | actual 74.7 | previous 74.4"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607283823817284",
+      "time": "2026-07-28 22:00:41",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國7月消費者信心指數為90.8，預期值為92.4。"
     },
     {
       "id": "mkt:019fa906-fbbc-7aab-8ecf-10f3a26385b5",
