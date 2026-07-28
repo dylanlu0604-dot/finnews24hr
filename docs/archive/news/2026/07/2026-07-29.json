@@ -1,7 +1,44 @@
 {
   "date": "2026-07-29",
-  "count": 184,
+  "count": 188,
   "items": [
+    {
+      "id": "mkt:019fa9e6-d759-7aab-8ed3-79a5c28d4997",
+      "time": "2026-07-29 02:05:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said it added two transcription models to its API, GPT-Live-Transcribe and GPT-Transcribe, which improve contextual understanding and more accurately transcribe real‑world audio across accents and languages, including phrases, numbers, technical jargon and speech in noisy backgrounds."
+    },
+    {
+      "id": "mkt:019fa9e6-a3e2-7aab-8ed3-7468a086e0e4",
+      "time": "2026-07-29 02:04:52",
+      "tags": [
+        "MKT News",
+        "SPCE.O"
+      ],
+      "text": "The U.S. Federal Aviation Administration proposed streamlining commercial space launch licensing rules to make launches easier."
+    },
+    {
+      "id": "mkt:019fa9e6-a37b-7aab-8ed3-6e1b2aa20a5f",
+      "time": "2026-07-29 02:04:52",
+      "tags": [
+        "MKT News",
+        "LCID.O",
+        "Impact bullish"
+      ],
+      "text": "Lucid Group (LCID.O) shares jumped more than 25% after a 13G filing by the company showed a Saudi prince holds a stake in the firm."
+    },
+    {
+      "id": "mkt:019fa9e6-8f30-7aab-8ed3-66a8ae167cff",
+      "time": "2026-07-29 02:04:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MVM said Hungary's Paks nuclear power plant will cut a further 237 MW of generation on Tuesday due to low Danube River water levels."
+    },
     {
       "id": "5012951",
       "time": "2026-07-29 02:01:52",
