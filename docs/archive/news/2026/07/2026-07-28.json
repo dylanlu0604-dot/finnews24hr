@@ -1,7 +1,77 @@
 {
   "date": "2026-07-28",
-  "count": 679,
+  "count": 687,
   "items": [
+    {
+      "id": "mkt:019fa653-fca8-7aab-8eb9-9127b0633b06",
+      "time": "2026-07-28 09:25:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "A-shares open: Shanghai Composite down 0.91%, Shenzhen Composite Index down 2.25%, ChiNext Index down 3.12%; Changxin C-shares opened down 7.7%."
+    },
+    {
+      "id": "5011119",
+      "time": "2026-07-28 09:25:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌6%，現報3505.00元。"
+    },
+    {
+      "id": "5011118",
+      "time": "2026-07-28 09:25:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東莞科建立源積體電路股權基金成立，出資額10億元】企查查APP顯示，近日，東莞科建立源積體電路股權投資基金合夥企業（有限合夥）成立，出資額10億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由東莞產業鏈發展母基金合夥企業（有限合夥）等共同出資。"
+    },
+    {
+      "id": "5011117",
+      "time": "2026-07-28 09:25:17",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指低開，滬指跌0.91％，深成指跌2.25％，創業板跌3.12％。"
+    },
+    {
+      "id": "5011116",
+      "time": "2026-07-28 09:23:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4050美元/盎司，日內跌0.65%。"
+    },
+    {
+      "id": "5011115",
+      "time": "2026-07-28 09:22:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放525.0億元人民幣。"
+    },
+    {
+      "id": "mkt:019fa650-c2a6-7aab-8eb9-8a2f6ed42fb0",
+      "time": "2026-07-28 09:22:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures fell more than 1% in early trade."
+    },
     {
       "id": "mkt:019fa650-6c69-7aab-8eb9-830a2ebac000",
       "time": "2026-07-28 09:21:56",
@@ -13,6 +83,15 @@
         "Impact bearish"
       ],
       "text": "Spot gold slipped below $4,050/oz, down 0.65% intraday."
+    },
+    {
+      "id": "em:qqyh_zgyh:202607283822967895",
+      "time": "2026-07-28 09:21:43",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展3055億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
     },
     {
       "id": "5011114",
