@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-29 06:13:01",
-  "count": 17498,
+  "updated": "2026-07-29 06:17:01",
+  "count": 17500,
   "items": [
+    {
+      "id": "te:markets:570511",
+      "time": "2026-07-29 06:15:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.75% — Top currency gainers are South Korean Won (0.75%), Swedish Krona (0.42%) and Euro (0.18%). Biggest loser is Dollar Index (-0.15%). Meanwhile, Japanese Yen and British Pound were little changed."
+    },
+    {
+      "id": "5013030",
+      "time": "2026-07-29 06:13:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美國官員稱，伊朗向約旦的一處美軍基地發射了彈道導彈。"
+    },
+    {
+      "id": "mkt:019faaca-52e6-7aab-8ed5-c0bdebb5ff11",
+      "time": "2026-07-29 06:13:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Axios reports US officials say Iran fired ballistic missiles at a US military base in Jordan."
+    },
+    {
+      "id": "5013029",
+      "time": "2026-07-29 06:13:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【納斯達克100指數逼近技術性回撥門檻 晶片股拋售加劇】納斯達克100指數週二進一步逼近技術性回撥，隨著投資者質疑科技巨頭在人工智慧(AI)領域投入巨資是否能夠獲得相應回報，半導體股拋售加劇。“市場對AI交易的質疑明顯加深。情緒轉變意味著AI交易在某種程度上變成了單邊行情，相關資產遭到毫不留情的拋售，”Janney Montgomery Scott首席投資策略師Mark Luschini表示。以科技股為主的納斯達克100指數近期回落，意味著過去幾年部分漲幅最大的股票走勢出現逆轉，因為華爾街越發擔憂不斷加碼的AI投資最終能否獲得相應回報。納斯達克100指數週二下跌1%，較6月2日創下的紀錄高位回落9.5%，距離通常被視為技術性回撥門檻的10%跌幅僅一步之遙。該指數今年仍累計上漲10%，2025年漲幅為20%。費城證券交易所半導體指數SOX下跌4.5%，較6月22日高點累計下挫25%，跌幅已超過技術性熊市的界定標準。該指數今年仍累計上漲56%，但峰值對應的漲幅超過一倍。"
+    },
+    {
+      "id": "mkt:019faac9-714f-7aab-8ed5-ba6217ba689b",
+      "time": "2026-07-29 06:12:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran's Press TV says media report Jordan hit by missile attack and explosions heard】Iran's Press TV reported media said Jordan was hit by a missile attack and explosions were heard."
+    },
     {
       "id": "5013028",
       "time": "2026-07-29 06:09:26",
@@ -160505,33 +160556,6 @@
         "其他"
       ],
       "text": "中際旭創擬在港上市，最高募資70億美元。"
-    },
-    {
-      "id": "5000938",
-      "time": "2026-07-22 06:16:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士正洽談收購英特爾俄亥俄州晶片廠區。"
-    },
-    {
-      "id": "te:markets:568629",
-      "time": "2026-07-22 06:15:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Rises by 0.61% — Top currency gainers are Brazilian Real (0.61%), Norwegian Krone (0.43%) and Dollar Index (0.25%). Biggest losers are Japanese Yen (-0.42%), British Pound (-0.41%), Swiss Franc (-0.32%) and Euro (-0.13%)."
-    },
-    {
-      "id": "5000937",
-      "time": "2026-07-22 06:13:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "中際旭創香港IPO最高發行價定在每股1010港元。"
     }
   ]
 }
