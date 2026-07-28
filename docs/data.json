@@ -1,7 +1,303 @@
 {
-  "updated": "2026-07-28 21:59:21",
-  "count": 17517,
+  "updated": "2026-07-28 22:03:24",
+  "count": 17542,
   "items": [
+    {
+      "id": "5012686",
+      "time": "2026-07-28 22:02:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "Paypal：未來幾周內，亞馬遜德國站及亞馬遜應用程式將向客戶提供貝寶分期付款服務。"
+    },
+    {
+      "id": "mkt:019fa908-928c-7aab-8ecf-5f4cc186bde2",
+      "time": "2026-07-28 22:02:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta says WhatsApp has added calling functionality to web browsers."
+    },
+    {
+      "id": "mkt:019fa908-6791-7aab-8ecf-57926dd7e29e",
+      "time": "2026-07-28 22:02:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Moore Threads first to adapt Moonshot AI's 2.8 trillion-parameter Kimi K3 to MTT S5000】Today Moonshot AI open-sourced its 2.8 trillion-parameter model Kimi K3 and released model weights and a technical report. Moore Threads says it has, using its AI train-and-infer integrated compute card MTT S5000 and MUSA software stack, completed rapid adaptation and stable deployment of Kimi K3."
+    },
+    {
+      "id": "5012685",
+      "time": "2026-07-28 22:02:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "Paypal與亞馬遜在德國、奧地利面向消費者推出先買後付服務。"
+    },
+    {
+      "id": "mkt:019fa908-3206-7aab-8ecf-4c5f56c9a21a",
+      "time": "2026-07-28 22:01:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China cyberspace security body holds seminar on large models and critical‑sector cybersecurity】On July 27, 2026 in Beijing, the China Cyberspace Security Association’s Critical Information Infrastructure Protection Committee warned that frontier large models such as MYTHOS have sharply lowered the bar for vulnerability discovery and exploit validation, accelerating automation, scale and intelligence in cyber offense and defense. The committee said faster zero‑day discovery is making traditional notify‑and‑patch defenses inadequate and called for stronger unknown‑threat detection, attack‑surface management, defense‑in‑depth, behavioral monitoring and rapid response, plus broader use of AI to improve vulnerability治理. It urged continued tracking of AI risks, tighter integration of technology with frontline defenses and accelerated construction of a new critical‑infrastructure security framework adapted to intelligentized attack‑defense dynamics."
+    },
+    {
+      "id": "5012684",
+      "time": "2026-07-28 22:01:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta推出網頁版 WhatsApp 通話功能。"
+    },
+    {
+      "id": "te:markets:570460",
+      "time": "2026-07-28 22:01:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Hindustan Unilever earnings below expectations at 11.20 INR — Hindustan Unilever (HUVR) released earnings per share at 11.20 INR, compared to market expectations of 11.53 INR."
+    },
+    {
+      "id": "5012683",
+      "time": "2026-07-28 22:01:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員及前聯邦通訊委員會官員反對特朗普政府對迪士尼旗下ABC電視臺牌照提前啟動續期稽核。"
+    },
+    {
+      "id": "mkt:019fa907-a6df-7aab-8ecf-47102cde25fc",
+      "time": "2026-07-28 22:01:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. Richmond Fed services revenue index for July -3; prior reading revised from -1 to 0."
+    },
+    {
+      "id": "mkt:019fa907-836d-7aab-8ecf-3dc81f3ee88f",
+      "time": "2026-07-28 22:01:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Richmond Fed Services Revenue Index (Jul) | actual -3 | previous -1"
+    },
+    {
+      "id": "5012682",
+      "time": "2026-07-28 22:01:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國7月里奇蒙德聯儲製造業指數為5，前值4。"
+    },
+    {
+      "id": "mkt:019fa907-5404-7aab-8ecf-3175baee3324",
+      "time": "2026-07-28 22:00:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Conference Board Present Situation Index (July) 114.9, prior 116.4."
+    },
+    {
+      "id": "mkt:019fa907-3662-7aab-8ecf-2f3358c38f5d",
+      "time": "2026-07-28 22:00:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Conference Board consumer expectations index for July 74.7, prior 74.4."
+    },
+    {
+      "id": "mkt:019fa907-348d-7aab-8ecf-25d152642677",
+      "time": "2026-07-28 22:00:49",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Conference Board Current Conditions Index (Jul) | actual 114.9 | previous 116.4"
+    },
+    {
+      "id": "5012681",
+      "time": "2026-07-28 22:00:47",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部週二（當地時間7月28日）發行2期共1390億美元國債，其中6周短債發行950億美元，7年期債券發行440億美元。"
+    },
+    {
+      "id": "mkt:019fa907-1908-7aab-8ecf-1f360af70571",
+      "time": "2026-07-28 22:00:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Conference Board Expectations Index (Jul) | actual 74.7 | previous 74.4"
+    },
+    {
+      "id": "mkt:019fa906-fbbc-7aab-8ecf-10f3a26385b5",
+      "time": "2026-07-28 22:00:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Richmond Fed July manufacturing shipments index 8; prior value revised from 3 to 4."
+    },
+    {
+      "id": "mkt:019fa906-ea8d-7aab-8ecf-0ce757632750",
+      "time": "2026-07-28 22:00:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Richmond Fed manufacturing index (July) 5, prior 4."
+    },
+    {
+      "id": "mkt:019fa906-e648-7aab-8ecf-04778f29f783",
+      "time": "2026-07-28 22:00:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's President Erdogan met Iraq's prime minister."
+    },
+    {
+      "id": "5012680",
+      "time": "2026-07-28 22:00:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "路透調查：哥倫比亞2026年末利率預期上調至12.50%，前次調查預期為12.25%。"
+    },
+    {
+      "id": "mkt:019fa906-d01d-7aab-8ece-f95c2e8d3bda",
+      "time": "2026-07-28 22:00:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Richmond Fed Manufacturing Shipments Index (Jul) | actual 8 | previous 3"
+    },
+    {
+      "id": "mkt:019fa906-cf43-7aab-8ece-f0029a2ec067",
+      "time": "2026-07-28 22:00:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Richmond Fed Manufacturing Index (Jul) | actual 5 | previous 4"
+    },
+    {
+      "id": "5012679",
+      "time": "2026-07-28 22:00:20",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "路透調查：25名分析師中有16名預測，哥倫比亞央行將在7月的貨幣政策會議上將利率上調50個基點，至12.50%。"
+    },
+    {
+      "id": "te:markets:570459",
+      "time": "2026-07-28 22:00:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Thermo Fisher Scientific Stock Price Hits 25-week High — Thermo Fisher Scientific shares increased to 588.48 USD, the highest since February 2026. Over the past 4 weeks, Thermo Fisher Scientific gained 15.81%, and in the last 12 months, it increased 20.94%."
+    },
+    {
+      "id": "5012678",
+      "time": "2026-07-28 22:00:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "路透調查：哥倫比亞2027年末利率預期上調至11.25%，前次調查為10.50%。"
+    },
+    {
+      "id": "5012677",
+      "time": "2026-07-28 22:00:10",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國7月消費者信心指數為90.8；預期值為92.4。"
+    },
+    {
+      "id": "mkt:019fa906-9c2c-7aab-8ece-ed2735b585f6",
+      "time": "2026-07-28 22:00:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "U.S. Conference Board consumer confidence index for July 90.8 vs. consensus 92.3; June reading revised up to 92.2 from 91.2."
+    },
+    {
+      "id": "mkt:019fa906-7c82-7aab-8ece-e58f54c5f6e1",
+      "time": "2026-07-28 22:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Conference Board Consumer Confidence Index (Jul) | actual 90.8 | consensus 92.3 | previous 91.2"
+    },
+    {
+      "id": "5012676",
+      "time": "2026-07-28 21:59:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：為伊拉克總理舉行官方歡迎儀式。"
+    },
+    {
+      "id": "te:markets:570455",
+      "time": "2026-07-28 21:59:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Cotton Falls from One-Week High — Cotton prices fell below 81 cents per pound after reaching a one-week high on July 23rd, as easing weather concerns dampened expectations of tighter supplies. In India, a revival in monsoon rains accelerated cotton planting, after the having arrived three days late. Following its fifth driest June on record, the country's rainfall deficit narrowed to 16% from nearly 40% at the end of June, as widespread rains in recent weeks helped provide rain-fed irrigation to farmland's, easing fears of a supply shortfall. Meanwhile, lower oil prices weighed on demand, reducing cotton's competitiveness against polyester fibers. However, India's cotton-sown area was still down 4% year-on-year at 9.87 million hectares, reflecting slower planting across several major producing states. In Brazil, growers are expected to reduce cotton planted area by 4% in the 2025/26 season despite record exports in 2024/25, as weaker prices discouraged acreage expansion."
+    },
     {
       "id": "mkt:019fa904-ee2e-7aab-8ece-da354bd45f28",
       "time": "2026-07-28 21:58:20",
@@ -160632,48 +160928,6 @@
         "國際"
       ],
       "text": "ONESOURCE VIRTUAL：在美國貨幣監理署監管下推出聯邦特許信託銀行。"
-    },
-    {
-      "id": "5000575",
-      "time": "2026-07-21 22:02:21",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "市場訊息：土耳其財政部出售39.2億美元債券。"
-    },
-    {
-      "id": "5000574",
-      "time": "2026-07-21 22:02:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府週二公佈的資料顯示，6月該國原油進口量較5月下降逾12%，至1959萬噸。"
-    },
-    {
-      "id": "5000573",
-      "time": "2026-07-21 22:01:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【7月21日增減持彙總】7月21日盤後，據不完全統計，湖南海利、開勒股份、濰柴動力、新柴股份、泛亞微透、深科達、融捷股份等7家A股上市公司披露增持情況，當日暫無公司披露減持情況。"
-    },
-    {
-      "id": "5000572",
-      "time": "2026-07-21 22:01:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "市場訊息： 芝加哥商業交易所集團推出高粱基差期貨。"
-    },
-    {
-      "id": "5000570",
-      "time": "2026-07-21 22:01:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "三位訊息人士稱，由於油輪遇襲，裡海管道集團已停止在其黑海終端接收哈薩克石油。"
     }
   ]
 }
