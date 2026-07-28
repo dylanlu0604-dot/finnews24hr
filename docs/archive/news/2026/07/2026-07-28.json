@@ -1,7 +1,114 @@
 {
   "date": "2026-07-28",
-  "count": 773,
+  "count": 784,
   "items": [
+    {
+      "id": "mkt:019fa66b-b043-7aab-8eba-6ed3cb73b92a",
+      "time": "2026-07-28 09:51:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei reports Singapore's birth rate hit its lowest level since 1965; the number of births in 2025 fell below 30,000 for the first time, down 11.4% YoY."
+    },
+    {
+      "id": "mkt:019fa66b-35c2-7aab-8eba-622763866a1e",
+      "time": "2026-07-28 09:51:11",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A‑share software-services sector rallied; Kelan Software hit the daily limit, Nantian Information and Ronglian Technology also reached limit-up, while Jiuchi Software, Dianke Digital, Gaoweida and Guozi Software gained."
+    },
+    {
+      "id": "5011186",
+      "time": "2026-07-28 09:50:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【汽車整車板塊震盪反彈 曙光股份漲停】早盤汽車整車板塊震盪反彈，曙光股份漲停，北汽藍谷、江淮汽車、海馬汽車、安凱客車、宇通客車跟漲。"
+    },
+    {
+      "id": "mkt:019fa66a-7985-7aab-8eba-5f2fb6ee3531",
+      "time": "2026-07-28 09:50:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "【Microsoft launches MAI-Cyber-1-Flash cybersecurity model】Microsoft on July 27 released MAI-Cyber-1-Flash, its first cybersecurity-specific AI model, and integrated it into its multi-agent vulnerability detection and remediation platform MDASH. Microsoft (MSFT.O) said the combination scored 95.95% on the CyberGym vulnerability-detection benchmark, outperforming MYTHOS, GEMINI and GPT-series models and reducing MDASH costs by about 50%. The company also launched the Perception agent security system for continuous monitoring, automated patching and response to novel threats."
+    },
+    {
+      "id": "5011185",
+      "time": "2026-07-28 09:49:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【軟體服務板塊走強 科藍軟體20%漲停】軟體服務板塊走強，科藍軟體20%漲停，南天資訊、榮聯科技漲停，久其軟體、電科數字、高偉達、國子軟體漲幅居前。"
+    },
+    {
+      "id": "5011184",
+      "time": "2026-07-28 09:49:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "馬尼拉電力公司股價在馬科斯提出電力改革方案後下跌5.3%。"
+    },
+    {
+      "id": "5011183",
+      "time": "2026-07-28 09:49:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "上證50股指期貨(IH)主力合約日內跌超1%，現報2887.0點。"
+    },
+    {
+      "id": "5011182",
+      "time": "2026-07-28 09:49:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內跌2%，現報4558.60點。"
+    },
+    {
+      "id": "5011181",
+      "time": "2026-07-28 09:49:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026數博會8月28日—30日舉辦 布展面積6萬平方米】今天，國家資料局舉行新聞釋出會，相關負責人在會上介紹，作為全國唯一由政府部門主辦、以資料為主題的國際性博覽會，2026數博會將於8月28日—30日在貴州貴陽舉辦。本次博覽會將圍繞算力基礎設施、資料、模型等設定5大主題板塊，布展面積達到6萬平方米。"
+    },
+    {
+      "id": "5011180",
+      "time": "2026-07-28 09:48:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人概念震盪拉昇 明新旭騰2連板】人形機器人概念震盪拉昇，明新旭騰2連板，上緯新材漲超9%，北自科技、三花智控、拓斯達、力星股份、天奇股份跟漲。"
+    },
+    {
+      "id": "mkt:019fa668-f987-7aab-8eba-53d58f731fe8",
+      "time": "2026-07-28 09:48:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Southern Asset's Liu: Equity bottoming likely in late stage; semiconductor expansion may retake lead】Southern Asset Management's Liu Wenliang said China's equity market appears to be in the late stage of bottoming. Major sectors' pullbacks from highs are near historical single-cycle extremes and core-company valuations have largely been digested, with policy support and fresh inflows expected to reinforce one another. Disruptions are fading: the first overseas CSP major's results did not falsify the industry's recovery trend, and a domestic memory leader is scheduled to list next week, which should narrow fund diversion. Liu expects technology to be decisive in Q3 and anticipates funds refocusing on tech led by memory names. Industry signals: Q3 server DRAM contract prices remain in an uptrend, HBM supply is tight, and price rises are likely to spread from memory makers to equipment, components and materials. Capex signals are supportive — TSMC has raised annual CAPEX, ASML has twice upgraded guidance this year, and SEMI forecasts 23% YoY growth in global equipment sales in 2026. Domestic memory firms are raising large funding for capacity expansion; local equipment and component suppliers are benefiting from upgraded orders and longer overseas lead times that accelerate substitution and price upside. Liu said market participants should dynamically track domestic and offshore model-level progress; if continuous learning and a data–model flywheel materialize, commercialization upside could reopen."
+    },
     {
       "id": "5011179",
       "time": "2026-07-28 09:48:22",
