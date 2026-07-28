@@ -1,7 +1,71 @@
 {
   "date": "2026-07-28",
-  "count": 784,
+  "count": 790,
   "items": [
+    {
+      "id": "mkt:019fa66e-a559-7aab-8eba-8ff77e9e8dae",
+      "time": "2026-07-28 09:54:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea to consider further measures to curb single-stock leveraged ETF demand】South Korea's Financial Services Commission chair Lee Eog-weon said regulators will consider further steps to curb demand for recently launched single-stock leveraged ETFs. He will assess the impact of a new rule raising the minimum cash margin for investing in these ETFs to KRW30 million (about $20,400), effective this Friday; the government moved the implementation forward by several weeks to stabilize markets and protect investors. Lee said if demand does not sufficiently cool, authorities will conduct an early review and stand ready to impose additional measures, including possible quantity limits capping individual holdings of these ETFs at 20% of a personal financial portfolio."
+    },
+    {
+      "id": "mkt:019fa66d-d0e1-7aab-8eba-854c46032c02",
+      "time": "2026-07-28 09:54:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "South Korea's KOSPI fell below 6,200 points to its lowest level since April, down 8.28% intraday."
+    },
+    {
+      "id": "5011188",
+      "time": "2026-07-28 09:54:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數失守6200點，創4月以來新低，日內跌幅8.28%。"
+    },
+    {
+      "id": "5011187",
+      "time": "2026-07-28 09:53:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO概念震盪走弱 新易盛等多股跌近10%】CPO概念盤中震盪走弱，新易盛、源傑科技、聯訊儀器跌近10%，中際旭創、長光華芯、東山精密、劍橋科技等跌超7%。"
+    },
+    {
+      "id": "mkt:019fa66d-5fef-7aab-8eba-781c72beb26f",
+      "time": "2026-07-28 09:53:33",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share auto OEM sector rebounded after volatility; Shuguang hit the daily limit-up and was locked, while BAIC BluePark, JAC Motors, Haima Automobile, Ankai Bus and Yutong Bus also gained."
+    },
+    {
+      "id": "mkt:019fa66c-e373-7aab-8eba-71f632b23e5e",
+      "time": "2026-07-28 09:53:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China A-share humanoid-robot concept stocks oscillated higher. Jiezhong Technology, Huada Technology, Dianke Digital and Xinya Process closed at the daily price limit. Mingxin Xuteng hit a second consecutive limit-up. Shangwei New Materials rose more than 9%. Beizi Technology, Sanhua Zhikong, Tuosida, Lixing Co. and Tianqi Co. also advanced."
+    },
     {
       "id": "mkt:019fa66b-b043-7aab-8eba-6ed3cb73b92a",
       "time": "2026-07-28 09:51:43",
