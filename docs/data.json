@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-29 05:40:51",
-  "count": 17511,
+  "updated": "2026-07-29 05:44:44",
+  "count": 17508,
   "items": [
     {
       "id": "5013015",
@@ -160603,39 +160603,6 @@
         "其他"
       ],
       "text": "葉門實施海上封鎖，迫使六艘船隻折返。"
-    },
-    {
-      "id": "mkt:019f86a2-25f8-7aab-8e32-d2555beed0da",
-      "time": "2026-07-22 05:43:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "【Korean media: Wealthy investors buy Samsung, SK Hynix single-stock leveraged ETFs】Seoul Economic Daily, citing a major broker’s analysis of 25,000 high-net-worth investors (≥10 bln won in financial assets) from May 27–July 10, reports concentrated net buying of Samsung Electronics and SK Hynix single-stock leveraged ETFs. Net purchases were: KODEX SK Hynix Single-Stock Leverage ETF 178.1 bln won, TIGER SK Hynix Single-Stock Leverage ETF 140.1 bln won, and KODEX Samsung Electronics Single-Stock Leverage ETF 116.6 bln won. The other two names in the top-five net-buys were ordinary shares of Samsung Electronics and SK Hynix, signaling wealthy investors are heavily overweight Korea’s two large chip names; retail buyers in their 40s were the largest cohort buying these single-stock leveraged ETFs."
-    },
-    {
-      "id": "5000912",
-      "time": "2026-07-22 05:41:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特軍方稱其防空部隊目前正在攔截伊朗無人機。"
-    },
-    {
-      "id": "mkt:019f86a0-1554-7aab-8e32-cc9bc8c048f6",
-      "time": "2026-07-22 05:41:05",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Kuwait's military says its air-defence system is currently intercepting Iranian drones."
     }
   ]
 }
