@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-28 20:07:59",
-  "count": 17463,
+  "updated": "2026-07-28 20:11:54",
+  "count": 17460,
   "items": [
+    {
+      "id": "5012451",
+      "time": "2026-07-28 20:11:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航天電器：控股子公司泰州航宇擬增資擴股不超9000萬元】航天電器公告稱，控股子公司泰州航宇擬以公開掛牌方式增資擴股，募集資金不超9000萬元。為確保持股比例不低於51%，公司擬以自有資金增資不低於4600萬元，原股東常旭、戴維明分別擬增資500萬元、300萬元，另徵集不超1家外部投資者增資不超3600萬元；若未徵集到，公司將合計增資8200萬元。截至公告披露日，泰州航宇淨資產評估結果未取得備案，若結果變化，增資相關內容將調整。"
+    },
+    {
+      "id": "5012450",
+      "time": "2026-07-28 20:10:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【極氪補充旗艦產品線，9X五座版上市】7月28日，極氪9X五座版正式上市，推出3款配置，官方售價47.19萬至58.59萬元，權益後限時售價45.19萬至56.59萬元。 新車並非“六座改五座”，而是透過重構門板、頂棚及後備廂架構，將二排腿部空間提升至1.4m；後備廂標準容積1082L，最大可擴充套件至2473L。技術層面，新車基於浩瀚-S架構打造，全系搭載900V混動高壓系統與浩瀚AI數字底盤，零百加速3.1秒。極氪意在透過該車填補50萬級大五座旗艦空白，進一步實現對傳統豪華燃油車型的全面替代。"
+    },
+    {
+      "id": "5012449",
+      "time": "2026-07-28 20:10:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AWS與AI公司Recursive簽署價值4.1億美元多年期合作協議】7月28日，亞馬遜雲服務（AWS）宣佈與人工智慧公司Recursive達成一項價值4.1億美元的多年期協議。Recursive將指定AWS作為其雲服務提供商，並在亞馬遜雲服務平臺上執行其自動化AI研究系統。"
+    },
+    {
+      "id": "5012448",
+      "time": "2026-07-28 20:10:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧重點整治營商環境領域腐敗問題】遼寧省將營商環境領域腐敗問題作為工作重點來抓，聚焦政策、市場、政務、法治、人文“五個環境”深入推進專項整治，今年上半年，全省共立案6893人、處分3988人、移送司法機關446人，468人主動投案。（新華社）"
+    },
+    {
+      "id": "5012447",
+      "time": "2026-07-28 20:10:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【九寨溝：7月29日對入園遊客門票及觀光車票全免】7月29日景區對所有入園遊客實行門票及觀光車票全免政策。已提前購買7月29日入園門（車）票的遊客，可正常刷相關證件入園，系統將在遊客遊玩結束後7個工作日內，按原支付路徑自動全額退還。截至7月28日上午10:30，九寨溝景區7月29日門票預訂已達20000張，達到部分割槽域開放最大承載量。"
+    },
+    {
+      "id": "5012446",
+      "time": "2026-07-28 20:09:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：CORE AI擴大與TikTok的戰略合作，以強化全球分銷基礎設施。"
+    },
+    {
+      "id": "5012445",
+      "time": "2026-07-28 20:09:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "NYCE INTERNATIONAL：全股收購要約未達成協議即告結束。"
+    },
+    {
+      "id": "5012444",
+      "time": "2026-07-28 20:07:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【柳工：擬2-4億元回購股份並登出 佔總股本0.77%-1.54%】柳工公告稱，公司擬以自有資金2-4億元，以集中競價交易方式回購A股，用於登出並減少註冊資本。回購價格不超12.72元/股，按資金上限及價格上限測算，預計回購3145萬股，佔總股本的1.54%；按資金下限測算，預計回購1572萬股，佔比0.77%。回購期限自股東會審議透過之日起12個月內。回購方案實施存在價格、資金等風險。"
+    },
     {
       "id": "5012443",
       "time": "2026-07-28 20:07:14",
@@ -160003,106 +160067,6 @@
         "國際"
       ],
       "text": "美國財政部長貝森特談及人工智慧：美國開源模型正開始湧現。"
-    },
-    {
-      "id": "5000380",
-      "time": "2026-07-21 20:11:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【五洲醫療：擬發行股份及支付現金收購旋智科技100%股權】五洲醫療公告，公司擬透過發行股份及支付現金方式購買劉剛等34名交易對方持有的旋智電子科技（上海）有限公司100%股權，並擬向不超過35名特定投資者募集配套資金。標的公司專注於高整合度電機控制晶片的研發、設計及銷售。本次交易預計構成重大資產重組及關聯交易，但不構成重組上市。截至預案簽署日，標的資產的審計、評估工作尚未完成，交易價格尚未確定。"
-    },
-    {
-      "id": "5000379",
-      "time": "2026-07-21 20:11:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "Rothschild & Co將Meta Platforms目標價從900.00美元上調至1000.00美元。"
-    },
-    {
-      "id": "5000378",
-      "time": "2026-07-21 20:09:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝森特：若存在智慧財產權竊取行為，美國可對任何開源 AI 模型實施制裁。"
-    },
-    {
-      "id": "mkt:019f8494-95bc-7aab-8e28-58b9173a62e3",
-      "time": "2026-07-21 20:09:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the U.S. supports open-source AI models but opposes intellectual property theft."
-    },
-    {
-      "id": "5000377",
-      "time": "2026-07-21 20:09:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝森特：已有言論稱開源人工智慧模型對美國構成威脅。"
-    },
-    {
-      "id": "5000376",
-      "time": "2026-07-21 20:08:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國和亞塞拜然釋出聯合宣告，承諾在能源流動（包括天然氣）等關鍵全球問題上加強合作。"
-    },
-    {
-      "id": "mkt:019f8494-0375-7aab-8e28-5265802293ef",
-      "time": "2026-07-21 20:08:40",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish",
-        "005930.KS",
-        "Impact bearish"
-      ],
-      "text": "【Counterpoint Research: Global foldable smartphone shipments forecast to rise 21% YoY in 2026】Counterpoint Research forecasts global foldable smartphone shipments will rise 21% YoY in 2026. Samsung is expected to remain leader but see share fall from 40% in 2025 to 32% in 2026; Apple is projected to take 25% in its debut year, Huawei 24%, Motorola 8% and Honor 3%."
-    },
-    {
-      "id": "mkt:019f8493-de94-7aab-8e28-4d9281cb7534",
-      "time": "2026-07-21 20:08:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SAMR guides industry associations to issue meat products self-regulatory convention】At the 2026 China Meat Products Industry High-Quality Development Conference in Yichang, Hubei, the State Administration for Market Regulation guided the China Meat Association and local meat associations to jointly issue an industry self-regulatory convention for meat products. More than 150 meat production and trading companies have signed on. The convention aims to push producers and operators to fully implement their primary responsibility for food safety, bolster consumer confidence, and support high-quality development of the meat products sector."
-    },
-    {
-      "id": "5000375",
-      "time": "2026-07-21 20:08:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【機構：預計2026年全球摺疊屏手機市場同比增長21%】Counterpoint Research最新發布的摺疊屏智慧手機市場預測報告，2026年全球摺疊屏智慧手機出貨量預計將實現21%的同比增長。2026年三星預計仍將保持在摺疊屏手機市場的領先地位，但其市場份額將從2025年的40%下滑至32%，競爭格局將迎來明顯變化。蘋果預計在入局首年拿下25%的市場份額，華為將持有24%的份額，摩托羅拉、榮耀分別佔據8%和3%的份額。（科創板日報）"
-    },
-    {
-      "id": "mkt:019f8493-a010-7aab-8e28-4570691341de",
-      "time": "2026-07-21 20:08:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Germany and Azerbaijan issued a joint statement pledging to strengthen cooperation on key global issues, including energy flows, notably natural gas."
-    },
-    {
-      "id": "mkt:019f8493-6adb-7aab-8e28-3e14d13005be",
-      "time": "2026-07-21 20:08:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the Treasury is tracking the Ayatollah’s assets and is seeking to identify their locations."
     }
   ]
 }
