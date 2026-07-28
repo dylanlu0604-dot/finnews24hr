@@ -1,7 +1,99 @@
 {
   "date": "2026-07-28",
-  "count": 2772,
+  "count": 2782,
   "items": [
+    {
+      "id": "5012628",
+      "time": "2026-07-28 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指漲0.72%，標普500指數跌0.02%，納指跌0.45%。康寧跌13.00%，Centene Corp跌10.27%，閃迪跌9.37%，Iqvia Holdings Inc.漲10.21%，宣偉公司漲6.35%。“七姐妹”方面：蘋果漲1.70%，微軟漲1.44%，谷歌漲0.85%，Meta Platforms漲0.52%，亞馬遜漲0.12%，英偉達跌1.18%，特斯拉跌1.43%。"
+    },
+    {
+      "id": "mkt:019fa8eb-7d10-7aab-8ece-466bd809e690",
+      "time": "2026-07-28 21:30:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US stocks opened mixed: Dow Jones Industrial Average +0.6%, S&P 500 essentially flat at -0.01%, Nasdaq -0.4%. Storage names remained under pressure—Micron Technology (MU.O) down over 6%, SanDisk (SNDK.O) off more than 8%."
+    },
+    {
+      "id": "te:markets:570441",
+      "time": "2026-07-28 21:30:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Tesla Stock Price Hits 51-week Low — Tesla shares decreased to 304.18 USD, the lowest since August 2025. Over the past 4 weeks, Tesla lost 26.04%, and in the last 12 months, it decreased 6.45%."
+    },
+    {
+      "id": "5012626",
+      "time": "2026-07-28 21:30:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多股票指數.GSPTSE開盤下跌70.85點，跌幅0.20%，報35497.29點。"
+    },
+    {
+      "id": "5012625",
+      "time": "2026-07-28 21:30:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本地震不會對我國造成災害性影響】據國家海洋環境預報中心網站訊息，中國地震臺網正式測定，2026年07月28日15時27分(北京時間)，日本九州島海域(32.65°N,130.75°E)發生6.8級地震，震源深度為10千米。自然資源部海嘯預警中心根據初步地震引數判斷，地震可能會在震源周圍引發局地海嘯，但不會對我國沿岸造成災害性影響。（中國青年報）"
+    },
+    {
+      "id": "te:markets:570440",
+      "time": "2026-07-28 21:29:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Wind Energy Index Hits 18-week Low — Wind Energy Index decreased to 23.45 USD, the lowest since March 2026. Over the past 4 weeks, Wind Energy Index lost 3.35%, and in the last 12 months, it increased 25.18%."
+    },
+    {
+      "id": "te:markets:570439",
+      "time": "2026-07-28 21:29:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Solar Energy Index Hits 28-week Low — Solar Energy Index decreased to 50.00 USD, the lowest since January 2026. Over the past 4 weeks, Solar Energy Index lost 12.59%, and in the last 12 months, it increased 31.02%."
+    },
+    {
+      "id": "5012624",
+      "time": "2026-07-28 21:29:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【甘肅局地啟動洪水防禦Ⅲ級應急響應】記者從甘肅省水利廳獲悉，受降雨和上游來水影響，甘肅省酒泉市肅北蒙古族自治縣境內黨城灣鎮段水位快速上漲，黨河黨城灣水文站7月28日16時流量311立方米每秒，超過洪水橙色預警標準250立方米每秒，接近紅色預警標準350立方米每秒。根據《甘肅省水利廳水旱災害防禦應急預案》規定，甘肅省水利廳決定7月28日17時起，針對酒泉市啟動洪水防禦Ⅲ級應急響應。 甘肅省水利廳、甘肅省氣象局7月28日13時釋出山洪災害氣象風險藍色預警，預計28日13時至29日14時，酒泉市（瓜州縣、肅北縣、阿克塞縣、玉門市、敦煌市）區域性地方降水量可達大到暴雨，可能發生山洪災害。其他地區也可能因局地短歷時強降水引發山洪災害。 甘肅省水利廳提示，相關部門要注意做好實時監測、防汛預警，緊盯河流、水庫水位，加密水情監測，做好涉河涉溝在建工程和沿河作業場所洪水防禦工作，確保人民群眾生命財產安全。（新華社）"
+    },
+    {
+      "id": "5012623",
+      "time": "2026-07-28 21:28:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【新美亞電子美股盤前跌超11%】新美亞電子美股盤前跌超11%，現報185.13美元。"
+    },
+    {
+      "id": "5012622",
+      "time": "2026-07-28 21:27:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國與阿聯酋將成立首個雙邊軍事人工智慧特遣隊】當地時間7月28日，美軍中央司令部宣佈與阿聯酋達成協議，將成立首個專注於加快軍事人工智慧應用開發的雙邊特遣隊。這支名為“Talon Synapse特遣隊”的美阿聯合特遣隊計劃在未來幾周內正式啟動。據瞭解，這個駐紮在阿布扎比的團隊將由約20名在人工智慧、資料和網路安全領域擁有專業知識的美國和阿聯酋人員組成。（央視新聞）"
+    },
     {
       "id": "5012621",
       "time": "2026-07-28 21:26:09",
