@@ -1,7 +1,122 @@
 {
   "date": "2026-07-28",
-  "count": 667,
+  "count": 679,
   "items": [
+    {
+      "id": "mkt:019fa650-6c69-7aab-8eb9-830a2ebac000",
+      "time": "2026-07-28 09:21:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,050/oz, down 0.65% intraday."
+    },
+    {
+      "id": "5011114",
+      "time": "2026-07-28 09:21:33",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指高開漲0.26％，國企指數漲0.38％，科指開漲0.64%。"
+    },
+    {
+      "id": "5011113",
+      "time": "2026-07-28 09:21:30",
+      "tags": [
+        "央行"
+      ],
+      "text": "中國央行今日開展3055億元7天逆回購操作，投標量3055億元，中標量3055億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019fa64f-ff1a-7aab-8eb9-7a818dfce610",
+      "time": "2026-07-28 09:21:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "PBOC conducted a CNY 305.5 billion 7-day reverse repo today; bids and allotment both CNY 305.5 billion, operation rate 1.40%, unchanged from the previous operation."
+    },
+    {
+      "id": "mkt:019fa64f-fdc8-7aab-8eb9-71fa0ebe6ea4",
+      "time": "2026-07-28 09:21:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish",
+        "01093.HK",
+        "02015.HK"
+      ],
+      "text": "At the Hong Kong open, the Hang Seng Index rose 0.26% and the Hang Seng Tech Index rose 0.64%; CSPC Pharma (01093.HK) and Li Auto (02015.HK) advanced over 3%, while Laopu Gold (06181.HK) tumbled nearly 13%."
+    },
+    {
+      "id": "mkt:019fa64f-eecc-7aab-8eb9-6e7e41e4b910",
+      "time": "2026-07-28 09:21:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "HSCEI"
+      ],
+      "text": "Hong Kong indices opened July 28: HSI +64.77 points (+0.26 pct) at 25,271.95; Hang Seng Tech +29.89 points (+0.64 pct) at 4,731.94; HSCEI +31.61 points (+0.38 pct) at 8,396.99; Red Chip Index -8.43 points (-0.20 pct) at 4,117.35."
+    },
+    {
+      "id": "5011112",
+      "time": "2026-07-28 09:21:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報57.18美元/盎司。"
+    },
+    {
+      "id": "5011111",
+      "time": "2026-07-28 09:21:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4110美元/盎司，日內跌0.64%。"
+    },
+    {
+      "id": "5011110",
+      "time": "2026-07-28 09:20:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報57.53美元/盎司。"
+    },
+    {
+      "id": "5011109",
+      "time": "2026-07-28 09:20:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨跌幅擴大至1%。"
+    },
+    {
+      "id": "5011108",
+      "time": "2026-07-28 09:19:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遠大智慧：博林特中標53臺組屋電梯更新專案】據遠大智慧訊息，近日，博林特電梯成功中標荷蘭—武吉班讓市鎮理事會（HBPTC）53臺組屋電梯更新改造專案。"
+    },
+    {
+      "id": "5011107",
+      "time": "2026-07-28 09:18:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛吉盛半導體啟動IPO輔導】證監會網站披露，盛吉盛半導體科技股份有限公司於2026年7月27日在寧波證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為國泰海通證券。"
+    },
     {
       "id": "mkt:019fa64c-bbec-7aab-8eb9-61eee60c4a03",
       "time": "2026-07-28 09:17:54",

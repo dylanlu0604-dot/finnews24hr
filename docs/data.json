@@ -1,7 +1,122 @@
 {
-  "updated": "2026-07-28 09:18:43",
+  "updated": "2026-07-28 09:22:32",
   "count": 17840,
   "items": [
+    {
+      "id": "mkt:019fa650-6c69-7aab-8eb9-830a2ebac000",
+      "time": "2026-07-28 09:21:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,050/oz, down 0.65% intraday."
+    },
+    {
+      "id": "5011114",
+      "time": "2026-07-28 09:21:33",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指高開漲0.26％，國企指數漲0.38％，科指開漲0.64%。"
+    },
+    {
+      "id": "5011113",
+      "time": "2026-07-28 09:21:30",
+      "tags": [
+        "央行"
+      ],
+      "text": "中國央行今日開展3055億元7天逆回購操作，投標量3055億元，中標量3055億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019fa64f-ff1a-7aab-8eb9-7a818dfce610",
+      "time": "2026-07-28 09:21:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "PBOC conducted a CNY 305.5 billion 7-day reverse repo today; bids and allotment both CNY 305.5 billion, operation rate 1.40%, unchanged from the previous operation."
+    },
+    {
+      "id": "mkt:019fa64f-fdc8-7aab-8eb9-71fa0ebe6ea4",
+      "time": "2026-07-28 09:21:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish",
+        "01093.HK",
+        "02015.HK"
+      ],
+      "text": "At the Hong Kong open, the Hang Seng Index rose 0.26% and the Hang Seng Tech Index rose 0.64%; CSPC Pharma (01093.HK) and Li Auto (02015.HK) advanced over 3%, while Laopu Gold (06181.HK) tumbled nearly 13%."
+    },
+    {
+      "id": "mkt:019fa64f-eecc-7aab-8eb9-6e7e41e4b910",
+      "time": "2026-07-28 09:21:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "HSCEI"
+      ],
+      "text": "Hong Kong indices opened July 28: HSI +64.77 points (+0.26 pct) at 25,271.95; Hang Seng Tech +29.89 points (+0.64 pct) at 4,731.94; HSCEI +31.61 points (+0.38 pct) at 8,396.99; Red Chip Index -8.43 points (-0.20 pct) at 4,117.35."
+    },
+    {
+      "id": "5011112",
+      "time": "2026-07-28 09:21:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報57.18美元/盎司。"
+    },
+    {
+      "id": "5011111",
+      "time": "2026-07-28 09:21:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4110美元/盎司，日內跌0.64%。"
+    },
+    {
+      "id": "5011110",
+      "time": "2026-07-28 09:20:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報57.53美元/盎司。"
+    },
+    {
+      "id": "5011109",
+      "time": "2026-07-28 09:20:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨跌幅擴大至1%。"
+    },
+    {
+      "id": "5011108",
+      "time": "2026-07-28 09:19:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遠大智慧：博林特中標53臺組屋電梯更新專案】據遠大智慧訊息，近日，博林特電梯成功中標荷蘭—武吉班讓市鎮理事會（HBPTC）53臺組屋電梯更新改造專案。"
+    },
+    {
+      "id": "5011107",
+      "time": "2026-07-28 09:18:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛吉盛半導體啟動IPO輔導】證監會網站披露，盛吉盛半導體科技股份有限公司於2026年7月27日在寧波證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為國泰海通證券。"
+    },
     {
       "id": "mkt:019fa64c-bbec-7aab-8eb9-61eee60c4a03",
       "time": "2026-07-28 09:17:54",
@@ -163461,127 +163576,6 @@
         "MKT News"
       ],
       "text": "【South Korea equity margin balances drop to lowest since April 15】South Korea equity margin balances for financed stock purchases fell to 33.4 tln won (about $22.6bn) as of July 16, the Korea Financial Investment Association (KFIA) said — the lowest level since April 15 and down 13% from an end-June peak of 38.6 tln won. The KFIA also reported investor deposits fell to 108.1 tln won on July 16 from a June 4 high of 139.7 tln won, suggesting retail appetite for equities may be cooling."
-    },
-    {
-      "id": "mkt:019f8244-07d4-7aab-8e17-a3a9123414e4",
-      "time": "2026-07-21 09:22:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "China lithium carbonate most-active contract fell as much as 6.00% intraday and is trading at 138,940 yuan/ton."
-    },
-    {
-      "id": "4998722",
-      "time": "2026-07-21 09:21:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內跌6%，現報138940.00元。"
-    },
-    {
-      "id": "4998721",
-      "time": "2026-07-21 09:21:40",
-      "tags": [],
-      "text": "港股恒指高開漲0.03％，國企指數跌0.01％，恒生科技指數開漲0.07%。"
-    },
-    {
-      "id": "mkt:019f8243-783b-7aab-8e17-98ff950cdda6",
-      "time": "2026-07-21 09:21:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index"
-      ],
-      "text": "At the Hong Kong open on July 21, the Hang Seng Index (HSI) rose 7.49 points (+0.03%) to 25,150.54; the Hang Seng TECH Index gained 3.51 points (+0.07%) to 4,755.66; the China Enterprises Index (HSCEI) fell 0.71 points (-0.01%) to 8,381.19; the Red Chip Index slipped 4.19 points (-0.10%) to 4,069.11."
-    },
-    {
-      "id": "mkt:019f8243-6936-7aab-8e17-93c43fa5870f",
-      "time": "2026-07-21 09:21:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Hang Seng Index",
-        "Impact bullish",
-        "02513.HK"
-      ],
-      "text": "Hong Kong stocks opened mixed: HSI +0.03%, Hang Seng Tech +0.07%. Chip, PCB and high-profile internet/tech names led gains while oil stocks opened lower. Zhipu (02513.HK) opened +4.44%."
-    },
-    {
-      "id": "em:qqyh_zgyh:202607213814251498",
-      "time": "2026-07-21 09:21:16",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展2530億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "4998720",
-      "time": "2026-07-21 09:20:42",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展2530億元7天逆回購操作，投標量2530億元，中標量2530億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019f8242-af07-7aab-8e17-8b8e0d659010",
-      "time": "2026-07-21 09:20:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "PBOC conducted a 7-day reverse repo of 253.0 bln yuan; tender and allotment 253.0 bln yuan; operation rate 1.40%, unchanged."
-    },
-    {
-      "id": "mkt:019f8242-1dff-7aab-8e17-83e1c957aa4e",
-      "time": "2026-07-21 09:19:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "U.S. military says latest round of strikes on Iran has concluded."
-    },
-    {
-      "id": "4998719",
-      "time": "2026-07-21 09:19:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4040美元/盎司，日內漲0.60%。"
-    },
-    {
-      "id": "mkt:019f8241-fa37-7aab-8e17-7996d0fcd9e4",
-      "time": "2026-07-21 09:19:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "Morgan Stanley says the recent pullback in US memory-chip stocks is a buying opportunity; memory-chip shortages are expected to worsen through the year after next. Consumer electronics, PC and smartphone markets are sending mixed signals that will affect spot pricing and inventory at different times, and recent weakness in share prices appears linked to those factors."
-    },
-    {
-      "id": "4998718",
-      "time": "2026-07-21 09:19:23",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【上海資產管理協會：堅定看好中國資本市場，當好維護資本市場穩定的壓艙石】7月21日，上海資產管理協會及其銀行理財、保險資管、信託公司、券商資管、公募基金、私募基金以及資管服務機構等會員單位發聲，堅定看好中國資本市場發展前景，全力服務國家戰略佈局。上海資產管理協會理事會監事會將持續組織會員單位堅定踐行資本市場“理性投資、價值投資、長期投資”理念，堅決當好中國資本市場的價值發現者、維護資本市場穩定的壓艙石和服務實體經濟的主力軍。上海資產管理協會發揮好資產管理行業協會、資產管理專業技術協會作用，組織會員單位建設“一流投資機構”，提升服務實體經濟、科技創新和居民財富管理能力，以上海資產管理業高質量發展促進中國資本市場高質量發展。(中證金牛座)"
     }
   ]
 }
