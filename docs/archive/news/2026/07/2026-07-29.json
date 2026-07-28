@@ -1,7 +1,15 @@
 {
   "date": "2026-07-29",
-  "count": 250,
+  "count": 251,
   "items": [
+    {
+      "id": "mkt:019faa49-2aba-7aab-8ed4-815d19be6e3c",
+      "time": "2026-07-29 03:52:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ofgem proposes large upfront fees, stricter milestones for UK data centres to curb speculative use of grid capacity】Ofgem has proposed rules requiring data centre projects to post substantial upfront fees or financial guarantees — for example letters of credit, performance bonds or cash deposits — and to meet tighter project milestones to prevent speculative projects from long-term occupation of grid connection queues. The regulator will publish a consultation on Wednesday setting out fee calculation, how the National Grid ESO would hold and manage the funds, and the circumstances in which projects could lose queue priority and forfeit paid fees or guarantees."
+    },
     {
       "id": "mkt:019faa43-aa02-7aab-8ed4-7e25ece52ebf",
       "time": "2026-07-29 03:46:28",
