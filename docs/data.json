@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-29 04:15:13",
-  "count": 17530,
+  "updated": "2026-07-29 04:19:16",
+  "count": 17537,
   "items": [
+    {
+      "id": "5012996",
+      "time": "2026-07-29 04:18:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【藤森慶子宣誓就任秘魯總統】秘魯當選總統藤森慶子28日在該國首都利馬宣誓就職，任期至2031年7月。藤森慶子當天在就職典禮上說，新政府將把應對厄爾尼諾現象和改善社會治安作為兩項國家緊急任務，同時加快基礎設施建設，推動青年就業、教育、社會保障等領域改革。她呼籲各政治力量團結合作，共同推動國家發展。（新華社）"
+    },
+    {
+      "id": "5012995",
+      "time": "2026-07-29 04:17:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "福特釋出季度財報後，盤後漲幅進一步擴大，最新漲幅 7.0%。"
+    },
+    {
+      "id": "5012994",
+      "time": "2026-07-29 04:17:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "Bloom Energy二季度調整後每股收益（EPS）為0.78美元，分析師預期0.40美元。二季度營收10.7億美元，分析師預期8.387億美元。預計全年營收39億-42億美元，公司原本預計34億-38億美元。"
+    },
+    {
+      "id": "5012993",
+      "time": "2026-07-29 04:17:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方：政府間談判是討論安理會改革問題唯一合法平臺】中國常駐聯合國代表團臨時代辦孫磊28日在聯大透過安理會改革政府間談判過渡決定後發言，指出政府間談判是討論安理會改革問題的唯一合法平臺。孫磊說，中方歡迎聯大以協商一致方式透過口頭決定，將本屆聯大安理會改革政府間談判技術性過渡到下屆聯大。政府間談判是討論安理會改革問題的唯一合法平臺。安理會改革事關各國重大利益。中方希望各方秉持戰略視野和長遠眼光，共同維護政府間談判主渠道地位，堅持會員國共識原則，在政府間談判繼續深入溝通、凝聚共識，確保改革程序朝著提升發展中國家的代表性和發言權的唯一正確方向發展，不斷行穩致遠。孫磊表示，中方願同各方一道，繼續推動安理會改革朝著符合會員國共同利益和聯合國事業健康發展的方向前進，為推動構建更加公正合理的全球治理體系作出積極貢獻。（新華社）"
+    },
+    {
+      "id": "5012992",
+      "time": "2026-07-29 04:16:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "科磊第四財季營收36.6億美元，分析師預期36億美元。第四財季資本開支8930萬美元，分析師預期9630萬美元。預計第一財季營收38億-42億美元，分析師預期39.4億美元。"
+    },
+    {
+      "id": "mkt:019faa5e-9fcf-7aab-8ed4-b91390d2237e",
+      "time": "2026-07-29 04:15:55",
+      "tags": [
+        "MKT News",
+        "NXPI.O",
+        "Impact bullish"
+      ],
+      "text": "NXP Semiconductors (NXPI.O) reported Q2 2026 net income of $767 mln, up from $445 mln a year earlier."
+    },
+    {
+      "id": "5012991",
+      "time": "2026-07-29 04:15:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國首相伯納姆希望與私營部門建立合作關係。"
+    },
+    {
+      "id": "5012990",
+      "time": "2026-07-29 04:15:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【希捷科技第四財季營收為36.29億美元 高於市場預期】希捷科技第四財季營收為36.29億美元，高於市場預測的34.85億美元。預計第一財季營收為40億至42億美元，市場預測為37.49億美元。"
+    },
+    {
+      "id": "mkt:019faa5d-e514-7aab-8ed4-b75c63928b3c",
+      "time": "2026-07-29 04:15:07",
+      "tags": [
+        "MKT News",
+        "NXPI.O",
+        "Impact bullish"
+      ],
+      "text": "NXP SEMI (NXPI.O) reported Q2 2026 revenue of $3.496 bln, up from $2.926 bln a year earlier."
+    },
     {
       "id": "te:markets:570498",
       "time": "2026-07-29 04:13:28",
@@ -160779,29 +160856,6 @@
         "WTI"
       ],
       "text": "U.S. API weekly crude oil stocks for week to July 17 due in 10 minutes."
-    },
-    {
-      "id": "5000869",
-      "time": "2026-07-22 04:18:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【吉利德預計Q2收購產生的內部研發資產費用達112億美元】吉利德表示，第二季度收購形成的112億美元內部研發資產費用，對應公認會計准則口徑及調整後每股收益約產生9.12美元的一次性損益，其中包含相關交易所帶來的稅務影響。"
-    },
-    {
-      "id": "mkt:019f8652-3b30-7aab-8e31-c47c36a515be",
-      "time": "2026-07-22 04:16:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【Zelenskiy dismisses armed forces commander Sersky amid nationwide protests】Ukraine President Zelenskiy has dismissed Armed Forces Commander-in-Chief Sersky and appointed Joint Forces commander Mykhailo Drlapati as his replacement, the Kyiv Independent reports. The move comes amid large protests across Kyiv and other cities demanding Sersky’s removal and the reinstatement of popular reformist Defence Minister Fedorov, whom Zelenskiy sacked last week. Fedorov said at a post-dismissal press conference that Sersky had issued Zelenskiy an ultimatum. Tensions between Fedorov and Sersky, reflecting divergent approaches to military leadership and organisation — Sersky favouring a highly centralised, Soviet-style command — were long-running. MPs, veterans and protesters criticised the decision, warning that removing Fedorov could undermine Defence Ministry reforms and raise concerns about military leadership."
     }
   ]
 }
