@@ -1,7 +1,69 @@
 {
-  "updated": "2026-07-28 11:47:30",
+  "updated": "2026-07-28 11:51:15",
   "count": 17564,
   "items": [
+    {
+      "id": "5011392",
+      "time": "2026-07-28 11:50:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興業銀錫子公司發生安全事故】興業銀錫公告，全資子公司西烏珠穆沁旗銀漫礦業有限責任公司礦山井下三區750分層西主運19-1至25-1之間，生產施工過程中，發生一起事故，造成1人死亡，無人受傷。"
+    },
+    {
+      "id": "5011391",
+      "time": "2026-07-28 11:50:23",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【交易員：印度儲備銀行在外匯市場拋售美元以支撐盧比】知情交易員稱，印度央行在離岸和在岸外匯市場拋售美元以支撐盧比，這些交易員要求匿名，因沒有被授權公開談論此事。美元/印度盧比 下跌0.2%至95.6925，延續了週一0.7%的跌幅。原油價格下跌緩解了盧比面臨的壓力後，印度儲備銀行拋售美元進一步提振了盧比匯率。"
+    },
+    {
+      "id": "mkt:019fa6d8-1cb4-7aab-8ebe-8179c0ae6c9e",
+      "time": "2026-07-28 11:50:08",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CSI300",
+        "005930.KS"
+      ],
+      "text": "【Asia equities off 10% from June peak; may be entering a correction】Asian equities slid as a semiconductor-led sell-off intensified, with the MSCI Asia Pacific index down as much as 3.5% intraday and now over 10% below its June 22 high, signalling a technical correction. Samsung Electronics and SK Hynix tumbled, dragging the KOSPI more than 10% intraday. Markets cited crowded positioning in chip names and growing doubt about the durability of the AI-led rally; global semiconductor stocks were heavily sold on Tuesday. NVIDIA is driving a new wave of AI-related deals worth more than $750bn, a pace critics say may be artificially inflating industry demand and valuations. Vey-Sern Ling, a managing director, said market sentiment on AI-related semiconductor stocks has flipped from greed to fear, with investors using news as a sell trigger rather than assessing fundamental impact."
+    },
+    {
+      "id": "5011390",
+      "time": "2026-07-28 11:48:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：儲存晶片價格可能更接近峰值】Jefferies分析師在一份研究報告中表示，儲存晶片價格可能更接近峰值。雖然市場預計第三季度儲存晶片價格將環比再上漲25%-30%，但Jefferies最新的行業核實表明，漲幅可能會更溫和，在15%-20%之間。Jefferies的分析師認為，大部分價格上漲是由雲服務提供商推動的，而消費電子產品製造商對進一步加價表現出疲態。”2027年進一步環比上漲的前景可見度較低，”Jefferies的分析師說，並補充稱儲存晶片價格見頂的時間可能早於預期。"
+    },
+    {
+      "id": "5011389",
+      "time": "2026-07-28 11:48:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽中安財產保險股份有限公司成立，註冊資本40億】天眼查App顯示，近日，安徽中安財產保險股份有限公司成立，法定代表人為魏世春，註冊資本40億人民幣，經營範圍為保險業務。股東資訊顯示，該公司由安徽國元金融控股集團有限責任公司、安徽省國有資本運營控股集團有限公司、合肥市產業投資控股（集團）有限公司等共同持股。"
+    },
+    {
+      "id": "5011388",
+      "time": "2026-07-28 11:48:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國開行：今年推出助學貸款共同借款人遠端辦貸服務，家長可線上協辦】7月28日，在教育部召開的新聞釋出會上，國家開發銀行社會民生業務部總經理武靖人表示，今年，在教育部的指導下，國開行推出了助學貸款共同借款人遠端辦貸服務。家長可以在手機上完成簽約授權，由學生代其簽署助學貸款合同，實現“家長線上辦、學生現場籤”，從此家長不用再為返鄉辦貸發愁。截至今年上半年，國開行已累計發放國家助學貸款5610億元，支援家庭經濟困難學生2487萬人，覆蓋全國29個省份、2649個區縣以及所有普通高等學校。"
+    },
+    {
+      "id": "5011386",
+      "time": "2026-07-28 11:47:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西全域佈局100座低空飛行公園】據山西日報，7月26日，“山河之上·星際探索”低空與機器人友好數字公園產業研討會暨星際探索低空飛行公園啟動大會在太原康培稻田公園稻田劇場舉辦。本次大會發布山西全域佈局100座“星際探索”低空飛行公園重大產業規劃，全力打造北方低空經濟標準化、場景化、品牌化發展標杆。"
+    },
     {
       "id": "5011385",
       "time": "2026-07-28 11:46:40",
@@ -160858,74 +160920,6 @@
         "公司"
       ],
       "text": "【天賜材料：控股股東提議實施2026年度中期分紅 擬10派1元】天賜材料(002709)7月21日午間公告，公司控股股東提議實施2026年度中期分紅：向全體股東每10股派發現金紅利1元（含稅），不送紅股，不以資本公積金轉增股本。"
-    },
-    {
-      "id": "4999229",
-      "time": "2026-07-21 11:51:12",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "摩根大通維持對韓國股市的增持評級，且將韓國綜合股價指數(KOSPI)12個月目標點位維持在12500點。"
-    },
-    {
-      "id": "4999228",
-      "time": "2026-07-21 11:50:34",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【小摩：龍源電力(00916)估值處15年低位 評級上調至“增持”】摩根大通釋出研報稱，龍源電力(00916)年初至今股價跑輸同期國指約11%，現價水平估值僅相當於2027財年預測市賬率0.5倍，處於15年來低位。小摩指，雖然公司面臨棄風率上升及電價市場化改革壓力，但其在國家能源體系中的戰略角色正在加強，現時估值極具吸引力，因此將投資評級由“中性”上調至“增持”，目標價維持7港元不變。"
-    },
-    {
-      "id": "te:markets:568392",
-      "time": "2026-07-21 11:49:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Dips on Profit-Taking — Malaysian palm oil futures slipped below MYR 4,650 per tonne, pulling back from recent gains as traders locked in profits after prices hit a near four-week high. Weaker edible oil prices on the Dalian and Chicago exchanges also weighed on sentiment. Meanwhile, softer crude oil prices reduced support for biofuel feedstocks, following reports of renewed U.S.-Iran mediation efforts. Demand worries added to the slide after June palm oil imports in top consumer India dropped to a 14-month low, with narrowing price discounts curbing buying. Still, losses were capped by supply risks: Malaysia’s meteorological agency warned of record-high temperatures next year as El Niño intensifies, threatening yields. The U.S. Climate Prediction Center likewise noted El Niño strengthened last month and is expected to persist through early 2027. Export data for July 1–20 were mixed, with AmSpec Agri Malaysia reporting a 0.9% decline from June, while Intertek Testing Services estimated shipments rose 4.1%."
-    },
-    {
-      "id": "4999227",
-      "time": "2026-07-21 11:48:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股股指期貨走強，納斯達克100指數期貨漲幅擴大至1%，道指期貨漲0.27%。"
-    },
-    {
-      "id": "mkt:019f82c9-913d-7aab-8e1c-01e1b4d28749",
-      "time": "2026-07-21 11:47:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Star Stocks",
-        "Tencent",
-        "0700.HK",
-        "Impact bullish"
-      ],
-      "text": "【Tencent Hunyuan launches research agent Hyra-1.0】Tencent’s Hunyuan released Hyra (Hunyuan Research Agent) 1.0, an autonomous agent built for performance-oriented research and engineering tasks with recursive self‑improvement. Hunyuan says Hyra can be applied to model R&D and scientific discovery and deployed in open scenarios such as gaming, design and content creation, iterating strategies through self‑play, self‑evaluation and user feedback."
-    },
-    {
-      "id": "4999226",
-      "time": "2026-07-21 11:47:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【立方製藥：控股子公司聚乙烯醇滴眼液藥品註冊申請獲受理】立方製藥(003020)7月21日午間公告，近日，公司控股子公司合肥諾瑞特製藥有限公司收到國家藥監局下發的聚乙烯醇滴眼液藥品註冊上市許可申請的《受理通知書》。聚乙烯醇滴眼液可作為一種潤滑劑預防或治療眼部乾澀、異物感、眼疲勞等刺激症狀或改善眼部的乾燥症狀。"
-    },
-    {
-      "id": "4999225",
-      "time": "2026-07-21 11:47:52",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【以軍從黎南部試點區域撤軍計劃啟動 】當地時間7月20日，美國國務院發表宣告稱，作為以色列國防軍撤軍的“試點區域”，以軍部隊計劃於當天從黎巴嫩南部的3個村鎮撤軍，隨後黎武裝部隊將接管上述地區。以軍當天晚間也發表宣告，證實了該試點計劃的啟動。這是以色列和黎巴嫩14日在義大利羅馬舉行會談的直接成果。6月26日，以色列、美國和黎巴嫩在華盛頓結束為期4天的新一輪停火撤軍談判，並宣佈達成三方框架協議。三方框架協議包括一項試點計劃，即以軍從黎南部分別位於利塔尼河兩側的兩個地區撤出。以軍撤離後，黎巴嫩軍隊將在美軍陪同下部署至上述兩處區域。"
     }
   ]
 }
