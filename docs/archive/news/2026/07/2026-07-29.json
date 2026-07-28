@@ -1,7 +1,15 @@
 {
   "date": "2026-07-29",
-  "count": 235,
+  "count": 236,
   "items": [
+    {
+      "id": "mkt:019faa23-17c0-7aab-8ed4-4317ccda494e",
+      "time": "2026-07-29 03:10:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said a recent siren in the Nahal Oz area was a false alarm."
+    },
     {
       "id": "5012971",
       "time": "2026-07-29 03:09:58",
