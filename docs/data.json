@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-28 11:54:58",
-  "count": 17564,
+  "updated": "2026-07-28 11:58:40",
+  "count": 17565,
   "items": [
+    {
+      "id": "mkt:019fa6df-33ad-7aab-8ebe-a538812f2fd2",
+      "time": "2026-07-28 11:57:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Refinitiv sources say ARAMCO is considering adjusting official selling prices to reflect higher freight costs for Asia-bound cargoes loaded at Egypt's Sidi Kerir port."
+    },
+    {
+      "id": "5011403",
+      "time": "2026-07-28 11:57:50",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金公司首席經濟學家彭文生到齡退休，繆延亮接任】中國國際金融股份有限公司首席經濟學家更迭。7月27日，記者瞭解到，中金公司首席經濟學家彭文生已到齡退休。此前任中金公司董事總經理、首席策略師的繆延亮，已接任公司首席經濟學家職務。（澎湃）"
+    },
+    {
+      "id": "5011402",
+      "time": "2026-07-28 11:56:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "訊息人士稱，沙特阿美正考慮制定新油價，以反映從埃及西迪基里爾港裝船運往亞洲的貨物運費上漲的影響。"
+    },
+    {
+      "id": "5011401",
+      "time": "2026-07-28 11:56:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【姚振華及寶能集團等被恢復執行9.4億】天眼查法律訴訟資訊顯示，近日，姚振華、深圳市寶能投資集團有限公司等新增一則恢復執行資訊，執行標的9.4億餘元人民幣，執行法院為上海市金融法院。該公司成立於2000年3月，法定代表人為姚振華，註冊資本約3億人民幣，經營範圍包括投資興辦實業，投資文化旅遊產業，建築、裝飾材料的購銷及其它國內貿易等。"
+    },
+    {
+      "id": "mkt:019fa6dd-1b43-7aab-8ebe-9bd73a9bfa6c",
+      "time": "2026-07-28 11:55:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the housing market is a touchstone for whether financial conditions are tightening."
+    },
+    {
+      "id": "5011399",
+      "time": "2026-07-28 11:55:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【櫻花網際網路擬投資260億日元建設生成式AI基礎設施，引入英偉達新一代GPU裝置】日本雲服務企業櫻花網際網路公司（SAKURA internet）7月28日宣佈，公司董事會已批准投資約260億日元，用於採購生成式人工智慧服務所需的GPU伺服器及相關裝置。此次投資將用於採購搭載英偉達HGX Rubin NVL8 GPU的伺服器機架系統，以及網路裝置、儲存裝置等，以提升生成式AI服務能力和市場競爭力。櫻花網際網路稱，該投資資金預計主要透過金融機構借款籌集，裝置計劃於2027年1月交付，具體投入使用時間尚未確定。"
+    },
+    {
+      "id": "5011398",
+      "time": "2026-07-28 11:54:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【比亞迪在日本推出電動微型車Racco 冀提振當地銷量】中國比亞迪 週二在日本推出電動微型車“Racco”，希望藉此提振其在日本市場的銷量。自2023年進入日本乘用車市場以來，該公司在當地一直難以開啟局面。這家總部位於深圳的汽車製造商表示，在計入稅費並享受政府補貼後，消費者可以不到200萬日元（12,213美元）的價格購買入門級Racco車型。一些分析師認為，200萬日元是吸引日本消費者購車的關鍵門檻。該車型的建議零售價（未計稅費和補貼）為195萬日元（11,900美元）起，低於日產汽車旗下日本最暢銷電動微型車Sakura的售價。不過，由於Racco可享受的政府補貼金額較低，在補貼後的實際購車價格方面，Sakura仍然更便宜。“比亞迪可能並不指望透過Racco賺取太多利潤，更可能是希望在產品陣容中加入一款輕型車來提升品牌知名度，”立花證券分析師Hiroki Ihara在新車釋出前表示。輕型車(Kei車)是日本汽車市場的重要細分領域，佔日本汽車銷量約三分之一，傳統上幾乎完全由本田汽車和鈴木汽車等日本本土車企主導。"
+    },
     {
       "id": "mkt:019fa6da-2f12-7aab-8ebe-91bbfa566705",
       "time": "2026-07-28 11:52:24",
@@ -160854,67 +160920,6 @@
         "國際"
       ],
       "text": "【韓國Kakao銀行工會將於31日舉行全天罷工】根據韓聯社最新發布的訊息，韓國網際網路巨頭 Kakao 旗下的純網路銀行子公司 Kakao Bank 的工會已宣佈，將於 2026 年 7 月 31 日發起全面罷工。這次全面罷工是由於勞資雙方在薪酬和績效獎金分配問題上長期無法達成一致而導致的。"
-    },
-    {
-      "id": "mkt:019f82d1-90d0-7aab-8e1c-3642950a6bde",
-      "time": "2026-07-21 11:56:39",
-      "tags": [
-        "MKT News",
-        "035720.KS"
-      ],
-      "text": "South Korea's Kakao union plans a full-day strike on the 31st, Yonhap reports."
-    },
-    {
-      "id": "mkt:019f82d1-286a-7aab-8e1c-2b5667be1dde",
-      "time": "2026-07-21 11:56:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets",
-        "KOSPI",
-        "Impact bullish"
-      ],
-      "text": "JP Morgan maintained an overweight rating on Korean equities and kept its 12-month PT for the KOSPI at 12,500 points."
-    },
-    {
-      "id": "4999235",
-      "time": "2026-07-21 11:55:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智界V9車型累計交付超一萬臺】7月21日，智界汽車執行董事及執行副總裁趙長江發文透露，截至7月20日，智界V9累計交付突破10000臺，整車成交均價50萬元。"
-    },
-    {
-      "id": "4999234",
-      "time": "2026-07-21 11:55:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安永與火山引擎達成戰略伙伴合作】據火山引擎訊息，7月19日，安永（EY）與火山引擎簽署戰略伙伴合作備忘錄，雙方將在人工智慧技術落地、專業服務交付與企業AI轉型等領域深化協同，攜手助力企業客戶以AI為核心重塑業務能力，推動運營模式向AI原生架構演進。"
-    },
-    {
-      "id": "4999233",
-      "time": "2026-07-21 11:55:23",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【外資加倉儲存晶片股，韓國綜合股價指數反彈】韓國綜合股價指數（Kospi）最大漲幅達 4.7%。此前該指數連續兩日遭拋售，跌至 4 月以來最低點，全球投資者隨後進場買入韓國晶片板塊個股，帶動大盤走高。韓國綜合股價指數早盤一度下挫 1.3%，隨後全線翻紅。三星電子、SK 海力士、SK Square 是拉動大盤上行的核心權重股。韓國交易所觸發盤中斷路機制，暫停綜合股指程式化買入交易。NH證券韓國股票主管Shawn Oh表示，7 月 1 日至 20 日韓國出口資料創下新高，為本土晶片股提供強勁支撐：半導體出口額同比大漲 180.6%，達 221.1 億美元，佔該國出口總額的 40.3%。摩根大通策略師米克索・達斯（Mixo Das）等人維持對韓國股市超配評級，給出韓國綜合股價指數 12 個月基準目標點位 12500 點，看多人工智慧產業週期及相關基本面。其在研報中寫道：“大型雲服務商將持續加大資本開支。近期市場有觀點認為，多項技術與製程突破會削弱儲存晶片需求，引發市場質疑，但目前尚未出現實際需求走弱的跡象。”全球外資與本土基金整體淨買入韓國綜合股指成分股，交易重心集中於科技板塊；散戶投資者則同步賣出。中小盤股科斯達克指數由跌轉漲，最大漲幅 0.8%。"
-    },
-    {
-      "id": "mkt:019f82d0-3f7f-7aab-8e1c-22a9d0a8c038",
-      "time": "2026-07-21 11:55:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "【Goldman: Brent could top $120/bbl if Middle East tensions persist】Goldman Sachs says Brent could exceed $120/bbl by Q4 if Strait of Hormuz flow disruptions persist, though it does not treat that as its base case. In a July 20 report led by Daan Struyven, analysts said escalation and Gulf oil flows falling to below 45% of pre-conflict levels would push prices higher. Goldman’s baseline assumes easing: Brent at $80/bbl in Q4 and $75/bbl next year. Analysts flag upside risk to those forecasts from potential shipping disruptions in the Strait of Hormuz and the Red Sea."
     }
   ]
 }
