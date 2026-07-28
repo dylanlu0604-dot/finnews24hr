@@ -1,7 +1,49 @@
 {
   "date": "2026-07-29",
-  "count": 69,
+  "count": 74,
   "items": [
+    {
+      "id": "mkt:019fa9a3-6479-7aab-8ed1-fb333d968c18",
+      "time": "2026-07-29 00:51:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Israeli senior official said the meeting was very successful and the atmosphere very positive."
+    },
+    {
+      "id": "5012885",
+      "time": "2026-07-29 00:51:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列高階官員：（內塔尼亞胡與特朗普的）會晤非常順利，且十分積極。"
+    },
+    {
+      "id": "5012884",
+      "time": "2026-07-29 00:50:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "開雲集團CEO：第二季度重回增長是重要的里程碑。"
+    },
+    {
+      "id": "mkt:019fa9a1-954a-7aab-8ed1-f2166d9bf259",
+      "time": "2026-07-29 00:49:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Turkey's President Erdogan said Turkey aims to sign a comprehensive energy cooperation agreement with Iraq as soon as possible."
+    },
+    {
+      "id": "5012883",
+      "time": "2026-07-29 00:48:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：我們的目標是儘快與伊拉克簽署全面能源合作協議。"
+    },
     {
       "id": "mkt:019fa99e-c8e9-7aab-8ed1-ec32cc14326b",
       "time": "2026-07-29 00:46:23",
