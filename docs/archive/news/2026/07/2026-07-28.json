@@ -1,7 +1,77 @@
 {
   "date": "2026-07-28",
-  "count": 2936,
+  "count": 2943,
   "items": [
+    {
+      "id": "5012719",
+      "time": "2026-07-28 22:18:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭本週債券拍賣融資 94.4 億格里夫納。"
+    },
+    {
+      "id": "5012718",
+      "time": "2026-07-28 22:17:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "捷藍航空高管：由於7月航空燃油價格上漲，我們已決定將第四季度運營計劃削減約1個百分點。"
+    },
+    {
+      "id": "5012717",
+      "time": "2026-07-28 22:17:15",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美股AI硬體板塊跌幅繼續擴大 美光、AMD、閃迪等多股跌超10%】美股AI硬體板塊跌幅繼續擴大，費城半導體指數下跌6.03%。英偉達下跌1.41%，臺積電下跌3.98%，博通下跌2.46%，SK海力士下跌9.54%，美光科技下跌10.90%，美國超微公司下跌9.41%，英特爾下跌8.39%，阿斯麥下跌5.64%，泛林集團下跌10.88%，Arm Holdings下跌8.99%，閃迪下跌16.17%，高通下跌3.08%，邁威爾科技下跌10.39%，西部資料下跌14.37%，希捷科技下跌13.20%。"
+    },
+    {
+      "id": "te:economy:570466",
+      "time": "2026-07-28 22:16:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Richmond Fed Manufacturing Index",
+        "Importance 1"
+      ],
+      "text": "US Fifth District Manufacturing Edges Up in July — The Federal Reserve's Fifth District manufacturing index edged up to 5 in July 2026 from 4 in June, remaining well below market expectations of 9. Manufacturing activity was broadly stable during the month, as stronger shipments (8 vs. 4) and a rebound in employment (2 vs. -1) offset slower growth in new orders (5 vs. 8). Local business conditions improved sharply, with the index rising to 10 from -1. On the price front, cost pressures eased, as the growth rate of prices paid slowed to 6.08% from 6.99%, while prices received moderated to 3.96% from 4.57%. Looking ahead, firms expect inflationary pressures to moderate over the next 12 months. However, optimism softened, with expectations for local business conditions (19 vs. 22), shipments (33 vs. 36), and new orders (31 vs. 33) all declining, though remaining firmly in positive territory."
+    },
+    {
+      "id": "te:markets:570465",
+      "time": "2026-07-28 22:15:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "NextEra Energy Stock Price Hits 10-week High — NextEra Energy shares increased to 90.94 USD, the highest since May 2026. Over the past 4 weeks, NextEra Energy gained 2.46%, and in the last 12 months, it increased 26.25%."
+    },
+    {
+      "id": "5012716",
+      "time": "2026-07-28 22:15:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【劉偉在青海調研】7月26日至28日，交通運輸部黨組書記、部長劉偉在青海省就深入學習貫徹習近平總書記關於交通強國的重要論述，紮實推動“十五五”規劃任務落地見效，調研定點幫扶、農村公路建設、國家綜合貨運樞紐補鏈強鏈、應急物資儲備、水上交通安全等工作。調研期間，劉偉與青海省委書記吳曉軍、省長羅東川座談，就推動交通運輸高質量發展進行深入交流。（交通運輸部）"
+    },
+    {
+      "id": "te:markets:570464",
+      "time": "2026-07-28 22:14:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Merck Stock Price Hits 54-year High — Merck shares increased to 134.65 USD, the highest since May 1972. Over the past 4 weeks, Merck & Co gained 3.96%, and in the last 12 months, it increased 60%."
+    },
     {
       "id": "5012715",
       "time": "2026-07-28 22:14:34",

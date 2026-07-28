@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-28 22:15:21",
-  "count": 17566,
+  "updated": "2026-07-28 22:19:26",
+  "count": 17560,
   "items": [
+    {
+      "id": "5012719",
+      "time": "2026-07-28 22:18:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭本週債券拍賣融資 94.4 億格里夫納。"
+    },
+    {
+      "id": "5012718",
+      "time": "2026-07-28 22:17:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "捷藍航空高管：由於7月航空燃油價格上漲，我們已決定將第四季度運營計劃削減約1個百分點。"
+    },
+    {
+      "id": "5012717",
+      "time": "2026-07-28 22:17:15",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美股AI硬體板塊跌幅繼續擴大 美光、AMD、閃迪等多股跌超10%】美股AI硬體板塊跌幅繼續擴大，費城半導體指數下跌6.03%。英偉達下跌1.41%，臺積電下跌3.98%，博通下跌2.46%，SK海力士下跌9.54%，美光科技下跌10.90%，美國超微公司下跌9.41%，英特爾下跌8.39%，阿斯麥下跌5.64%，泛林集團下跌10.88%，Arm Holdings下跌8.99%，閃迪下跌16.17%，高通下跌3.08%，邁威爾科技下跌10.39%，西部資料下跌14.37%，希捷科技下跌13.20%。"
+    },
+    {
+      "id": "te:economy:570466",
+      "time": "2026-07-28 22:16:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Richmond Fed Manufacturing Index",
+        "Importance 1"
+      ],
+      "text": "US Fifth District Manufacturing Edges Up in July — The Federal Reserve's Fifth District manufacturing index edged up to 5 in July 2026 from 4 in June, remaining well below market expectations of 9. Manufacturing activity was broadly stable during the month, as stronger shipments (8 vs. 4) and a rebound in employment (2 vs. -1) offset slower growth in new orders (5 vs. 8). Local business conditions improved sharply, with the index rising to 10 from -1. On the price front, cost pressures eased, as the growth rate of prices paid slowed to 6.08% from 6.99%, while prices received moderated to 3.96% from 4.57%. Looking ahead, firms expect inflationary pressures to moderate over the next 12 months. However, optimism softened, with expectations for local business conditions (19 vs. 22), shipments (33 vs. 36), and new orders (31 vs. 33) all declining, though remaining firmly in positive territory."
+    },
+    {
+      "id": "te:markets:570465",
+      "time": "2026-07-28 22:15:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "NextEra Energy Stock Price Hits 10-week High — NextEra Energy shares increased to 90.94 USD, the highest since May 2026. Over the past 4 weeks, NextEra Energy gained 2.46%, and in the last 12 months, it increased 26.25%."
+    },
+    {
+      "id": "5012716",
+      "time": "2026-07-28 22:15:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【劉偉在青海調研】7月26日至28日，交通運輸部黨組書記、部長劉偉在青海省就深入學習貫徹習近平總書記關於交通強國的重要論述，紮實推動“十五五”規劃任務落地見效，調研定點幫扶、農村公路建設、國家綜合貨運樞紐補鏈強鏈、應急物資儲備、水上交通安全等工作。調研期間，劉偉與青海省委書記吳曉軍、省長羅東川座談，就推動交通運輸高質量發展進行深入交流。（交通運輸部）"
+    },
+    {
+      "id": "te:markets:570464",
+      "time": "2026-07-28 22:14:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Merck Stock Price Hits 54-year High — Merck shares increased to 134.65 USD, the highest since May 1972. Over the past 4 weeks, Merck & Co gained 3.96%, and in the last 12 months, it increased 60%."
+    },
     {
       "id": "5012715",
       "time": "2026-07-28 22:14:34",
@@ -161036,127 +161106,6 @@
         "Greater China"
       ],
       "text": "【China foreign minister Wang Yi meets ASEAN secretary-general in Manila】China foreign minister Wang Yi met ASEAN secretary-general Kao Kim Hourn in Manila. Wang said the South China Sea should not be an obstacle to China‑ASEAN relations, accused elements within the Philippine military and police of deliberate provocations serving external powers’ interests that undermine China‑Philippines rapprochement and regional stability, and urged heightened vigilance. He said China will work with ASEAN to remove interference, accelerate negotiations on a South China Sea Code of Conduct, promote a peace-and-stability narrative and retain the initiative on South China Sea issues."
-    },
-    {
-      "id": "5000594",
-      "time": "2026-07-21 22:19:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "禮來公司稱其廣告“真實”且“透明”，將“全力”應對諾和諾德的訴訟。"
-    },
-    {
-      "id": "5000593",
-      "time": "2026-07-21 22:19:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國零售額（不含汽車）五月環比下降0.1%。"
-    },
-    {
-      "id": "5000592",
-      "time": "2026-07-21 22:18:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：洛克希德·馬丁公司與維納斯航空航天公司合作。"
-    },
-    {
-      "id": "mkt:019f850a-c70c-7aab-8e2b-de07a4cb9c60",
-      "time": "2026-07-21 22:18:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Joint Maritime Information Centre (JMIC) says commercial shipping transit through the Strait of Hormuz fell to a three-week low."
-    },
-    {
-      "id": "5000591",
-      "time": "2026-07-21 22:18:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【自然資源部：大力推進新一輪找礦突破戰略行動】7月20日，自然資源部召開座談會。會議強調，自然資源系統要強化科技創新引領，肩負起保障國家能源資源安全等重要政治責任，大力推進新一輪找礦突破戰略行動。要切實抓實“三深”科技工程攻關，健全科研協同機制，以高水平基礎研究賦能自然資源新質生產力發展。要築牢自然資源科普陣地，高標準加快推進中國地質博物館新館建設，抓緊研究建立標本匯交機制，夯實中國地質博物館典藏庫，努力將中國地質博物館打造成為中國特色、行業引領的一流博物館，與全國各級地學博物館、自然資源科普基地等科普平臺統籌聯動，在提高全民科學素質方面作出更大作為。要全面加強人才隊伍建設，緊緊圍繞自然資源事業發展需要，著力培養造就更多戰略科學家、科技領軍人才、青年科技人才和高水平創新團隊，不斷增強自然資源事業薪火相傳、接續發展的內生動力。"
-    },
-    {
-      "id": "mkt:019f850a-878e-7aab-8e2b-d008a56c22a3",
-      "time": "2026-07-21 22:18:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Joint Maritime Information Center (JMIC) said a tanker attack in Omani waters has reduced traffic through the Strait of Hormuz."
-    },
-    {
-      "id": "5000590",
-      "time": "2026-07-21 22:18:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合海事資訊中心JMIC：阿曼水域油輪遇襲事件導致霍爾木茲海峽交通減少。"
-    },
-    {
-      "id": "mkt:019f850a-5480-7aab-8e2b-cc81c5d760ea",
-      "time": "2026-07-21 22:17:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【USTR Greer signals Trump administration will take new tariff action soon】USTR Greer said Tuesday the Trump administration expects to take a new round of tariff measures soon. Asked about an FT report that the US could announce measures as early as this week, he said he could not give a specific timeline, noting he must notify Congress and other stakeholders before any announcement, but reiterated that action is expected shortly."
-    },
-    {
-      "id": "mkt:019f850a-3f02-7aab-8e2b-c2bec472c272",
-      "time": "2026-07-21 22:17:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Joint Maritime Information Centre (JMIC) maintains threat level in the Strait of Hormuz at 'severe'."
-    },
-    {
-      "id": "te:markets:568587",
-      "time": "2026-07-21 22:16:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Lumber Climbs on Supply Constraints — Lumber prices rose above $640 per thousand board feet, reaching a one-year high, as wildfires across Western Canada tightened the supply outlook. More than 900 wildfires burned over the weekend, including in British Columbia, Canada's largest lumber-exporting province, where evacuation alerts threatened forestry operations. Adding to supply concerns, President Donald Trump threatened to incorporate wildfire-related costs into existing tariffs of nearly 35% on Canadian lumber. Sawmill capacity also remained constrained as Canadian duties forced production cuts and mill closures, while rising US log exports to China continued to weaken domestic lumber supply chains. Meanwhile, US housing starts jumped 19%, though the increase was driven mainly by multifamily construction rather than the more lumber-intensive single-family homes, limiting demand support."
-    },
-    {
-      "id": "mkt:019f8508-f937-7aab-8e2b-bff56b0c472f",
-      "time": "2026-07-21 22:16:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's prime minister said the country will continue to play a mediating role and is committed to regional peace and stability."
-    },
-    {
-      "id": "5000589",
-      "time": "2026-07-21 22:15:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： MILDEF 簽署德國聯邦國防軍供貨 7 年期框架協議延期合同，潛在合同價值 5.27 億歐元，並收到首份價值 9540 萬歐元的單項執行訂單。"
-    },
-    {
-      "id": "mkt:019f8508-35c6-7aab-8e2b-b403166d7798",
-      "time": "2026-07-21 22:15:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's prime minister told Iran's interior minister he was concerned about recent regional escalation and urged all parties to exercise restraint."
     }
   ]
 }
