@@ -1,7 +1,102 @@
 {
   "date": "2026-07-28",
-  "count": 724,
+  "count": 734,
   "items": [
+    {
+      "id": "mkt:019fa65e-186d-7aab-8eb9-f303ed75b4d4",
+      "time": "2026-07-28 09:36:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "Timiraos: Kevin Warsh must persuade the president most inclined to rate cuts in modern history to appoint him Fed chair. He now faces a new task: convincing 18 colleagues to abandon the career mind-set he says led them astray. The first test comes Wednesday."
+    },
+    {
+      "id": "5011152",
+      "time": "2026-07-28 09:36:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【徐潔雲回應雷軍打新長鑫科技浮盈7億】7月28日，“雷軍打新長鑫科技浮盈7億”登上熱搜，對此，小米集團董事長特別助理、戰略市場部副總經理徐潔雲發文回應稱：“朋友們看個樂呵就行，別當真。其實不能這麼算，這是個公司投資行為，具體子公司實體跟個人財富沒法混成一談。另，順便再次祝福長鑫。”"
+    },
+    {
+      "id": "te:markets:570232",
+      "time": "2026-07-28 09:35:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Plunge on Tech Selloff — The benchmark KOSPI plunged more than 8% to around 6,210 on Tuesday, retreating to an over three-month low, as a deepening global semiconductor selloff battered heavyweight chipmakers and fueled broad risk aversion. SK Hynix tumbled over 10% after its US-listed shares fell below their IPO price, while Samsung Electronics slid more than 9%, tracking another decline in US chip stocks amid growing concerns that hyperscalers could rein in AI infrastructure spending. The selloff also dragged down other major shares, including SK Square (-11.8%), Hyundai Motor (-6.8%), LG Energy Solution (-4.7%), HD Hyundai Heavy Industries (-6.3%), and Kia Corporation (-5.0%). Meanwhile, renewed concerns over rising competition from China's memory chip sector added further pressure to Korean semiconductor stocks. Investors also remained cautious ahead of earnings from major US technology companies and the Federal Reserve's policy decision later this week."
+    },
+    {
+      "id": "5011151",
+      "time": "2026-07-28 09:35:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "5011150",
+      "time": "2026-07-28 09:35:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【旅遊酒店概念異動拉昇，華天酒店漲停】旅遊酒店概念異動拉昇，華天酒店漲停，*ST英飛、東方明珠、曲江文旅、三湘印象、中天服務、西安飲食等跟漲。"
+    },
+    {
+      "id": "5011149",
+      "time": "2026-07-28 09:35:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創新藥概念表現活躍 海南海藥2連板】創新藥概念表現活躍，海南海藥2連板，津藥藥業、哈三聯、新贛江、哈藥股份跟漲。"
+    },
+    {
+      "id": "te:markets:570231",
+      "time": "2026-07-28 09:34:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Hovers Near 40-Year Lows — The Japanese yen traded around 163.7 per dollar on Tuesday, lingering near its weakest level in four decades as the dollar remained firm on speculation that the Federal Reserve could raise interest rates as soon as this week. Meanwhile, the Bank of Japan is widely expected to leave its policy rate unchanged on Friday while keeping the door open to additional rate hikes to help curb the currency’s decline. Verbal intervention from Japanese authorities has so far done little to support the yen, while the BOJ has remained vague about the pace and timing of any future policy tightening. The currency also stayed under pressure even after President Donald Trump said the US was engaged in \"good talks\" with Iran to end the Middle East conflict, sending oil prices lower and easing concerns over inflation and tighter monetary policy."
+    },
+    {
+      "id": "5011148",
+      "time": "2026-07-28 09:34:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股PCB概念股走低 建滔積層板跌超11%】截至發稿，建滔積層板(01888.HK)跌11.05%，建滔集團(00148.HK)跌7.29%，勝宏科技(02476.HK)跌5.36%，大族數控(03200.HK)跌4.21%。"
+    },
+    {
+      "id": "5011147",
+      "time": "2026-07-28 09:33:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）在熔斷機制解除後恢復交易。"
+    },
+    {
+      "id": "5011146",
+      "time": "2026-07-28 09:33:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.81%，成分股中，佰維儲存跌5.45%，源傑科技跌5.00%，生益電子跌4.50%，瀾起科技跌3.37%。"
+    },
     {
       "id": "mkt:019fa65b-0e45-7aab-8eb9-ef902a4f8765",
       "time": "2026-07-28 09:33:32",

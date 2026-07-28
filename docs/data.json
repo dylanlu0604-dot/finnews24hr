@@ -1,7 +1,102 @@
 {
-  "updated": "2026-07-28 09:33:55",
-  "count": 17830,
+  "updated": "2026-07-28 09:37:41",
+  "count": 17825,
   "items": [
+    {
+      "id": "mkt:019fa65e-186d-7aab-8eb9-f303ed75b4d4",
+      "time": "2026-07-28 09:36:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "Timiraos: Kevin Warsh must persuade the president most inclined to rate cuts in modern history to appoint him Fed chair. He now faces a new task: convincing 18 colleagues to abandon the career mind-set he says led them astray. The first test comes Wednesday."
+    },
+    {
+      "id": "5011152",
+      "time": "2026-07-28 09:36:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【徐潔雲回應雷軍打新長鑫科技浮盈7億】7月28日，“雷軍打新長鑫科技浮盈7億”登上熱搜，對此，小米集團董事長特別助理、戰略市場部副總經理徐潔雲發文回應稱：“朋友們看個樂呵就行，別當真。其實不能這麼算，這是個公司投資行為，具體子公司實體跟個人財富沒法混成一談。另，順便再次祝福長鑫。”"
+    },
+    {
+      "id": "te:markets:570232",
+      "time": "2026-07-28 09:35:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Plunge on Tech Selloff — The benchmark KOSPI plunged more than 8% to around 6,210 on Tuesday, retreating to an over three-month low, as a deepening global semiconductor selloff battered heavyweight chipmakers and fueled broad risk aversion. SK Hynix tumbled over 10% after its US-listed shares fell below their IPO price, while Samsung Electronics slid more than 9%, tracking another decline in US chip stocks amid growing concerns that hyperscalers could rein in AI infrastructure spending. The selloff also dragged down other major shares, including SK Square (-11.8%), Hyundai Motor (-6.8%), LG Energy Solution (-4.7%), HD Hyundai Heavy Industries (-6.3%), and Kia Corporation (-5.0%). Meanwhile, renewed concerns over rising competition from China's memory chip sector added further pressure to Korean semiconductor stocks. Investors also remained cautious ahead of earnings from major US technology companies and the Federal Reserve's policy decision later this week."
+    },
+    {
+      "id": "5011151",
+      "time": "2026-07-28 09:35:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "5011150",
+      "time": "2026-07-28 09:35:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【旅遊酒店概念異動拉昇，華天酒店漲停】旅遊酒店概念異動拉昇，華天酒店漲停，*ST英飛、東方明珠、曲江文旅、三湘印象、中天服務、西安飲食等跟漲。"
+    },
+    {
+      "id": "5011149",
+      "time": "2026-07-28 09:35:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創新藥概念表現活躍 海南海藥2連板】創新藥概念表現活躍，海南海藥2連板，津藥藥業、哈三聯、新贛江、哈藥股份跟漲。"
+    },
+    {
+      "id": "5011148",
+      "time": "2026-07-28 09:34:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股PCB概念股走低 建滔積層板跌超11%】截至發稿，建滔積層板(01888.HK)跌11.05%，建滔集團(00148.HK)跌7.29%，勝宏科技(02476.HK)跌5.36%，大族數控(03200.HK)跌4.21%。"
+    },
+    {
+      "id": "te:markets:570231",
+      "time": "2026-07-28 09:34:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Hovers Near 40-Year Lows — The Japanese yen traded around 163.7 per dollar on Tuesday, lingering near its weakest level in four decades as the dollar remained firm on speculation that the Federal Reserve could raise interest rates as soon as this week. Meanwhile, the Bank of Japan is widely expected to leave its policy rate unchanged on Friday while keeping the door open to additional rate hikes to help curb the currency’s decline. Verbal intervention from Japanese authorities has so far done little to support the yen, while the BOJ has remained vague about the pace and timing of any future policy tightening. The currency also stayed under pressure even after President Donald Trump said the US was engaged in \"good talks\" with Iran to end the Middle East conflict, sending oil prices lower and easing concerns over inflation and tighter monetary policy."
+    },
+    {
+      "id": "5011147",
+      "time": "2026-07-28 09:33:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）在熔斷機制解除後恢復交易。"
+    },
+    {
+      "id": "5011146",
+      "time": "2026-07-28 09:33:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.81%，成分股中，佰維儲存跌5.45%，源傑科技跌5.00%，生益電子跌4.50%，瀾起科技跌3.37%。"
+    },
     {
       "id": "mkt:019fa65b-0e45-7aab-8eb9-ef902a4f8765",
       "time": "2026-07-28 09:33:32",
@@ -163348,145 +163443,6 @@
         "市場"
       ],
       "text": "【覆銅板概念股盤初走弱 金安國紀等股跌停】覆銅板概念股盤初走弱，銅冠銅箔跌超18%，寶鼎科技、金安國紀、賢豐控股跌停，華正新材、宏昌電子等股跌幅靠前。"
-    },
-    {
-      "id": "4998767",
-      "time": "2026-07-21 09:37:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲1.01%，現報13747.695點；上證指數跌0.05%，現報3794.388點；創業板指漲1.64%，現報3499.543點。"
-    },
-    {
-      "id": "4998766",
-      "time": "2026-07-21 09:37:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股市指數上漲1.1%，至6487.37點。"
-    },
-    {
-      "id": "mkt:019f8252-0114-7aab-8e18-6410507b5ec9",
-      "time": "2026-07-21 09:37:19",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share digital-currency sector strengthened in early trade; Sifang Jingchuang rose over 10% and Zhongjia Bochuang hit the daily limit. Xingwang Ruijie, Changliang Technology, Zhengtong Electronics, Dianke Wang'an and Tianyang Technology also advanced."
-    },
-    {
-      "id": "4998765",
-      "time": "2026-07-21 09:37:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股人工智慧股延續漲勢 智譜漲近9%】截至發稿，智譜(02513.HK)漲8.93%，天數智芯(09903.HK)漲2.93%，MINIMAX-W(00100.HK)漲3.57%。"
-    },
-    {
-      "id": "4998764",
-      "time": "2026-07-21 09:36:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【網際網路金融板塊短線拉昇】網際網路金融板塊短線拉昇，智度股份、中嘉博創漲停，證通電子、新晨科技、科藍軟體、四方精創、宇信科技等紛紛走高。"
-    },
-    {
-      "id": "mkt:019f8251-3273-7aab-8e18-5f7c619e8c1b",
-      "time": "2026-07-21 09:36:27",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's Lee said market participants believe leveraged products present material policy concerns and that supplementary measures are needed."
-    },
-    {
-      "id": "4998763",
-      "time": "2026-07-21 09:36:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "4998762",
-      "time": "2026-07-21 09:35:53",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國總統：市場參與者認為槓桿產品的政策問題十分嚴重，需要出臺補充措施。"
-    },
-    {
-      "id": "4998761",
-      "time": "2026-07-21 09:35:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國稱已確保9月原油需求量的90%。"
-    },
-    {
-      "id": "4998760",
-      "time": "2026-07-21 09:34:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "德明利跌停5連板，總市值回落至985.87億元。"
-    },
-    {
-      "id": "4998759",
-      "time": "2026-07-21 09:34:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電力板塊震盪下挫 湖南發展、杭州熱電雙雙跌停】早盤電力板塊震盪下挫，湖南發展、杭州熱電跌停，深南電A、桂冠電力、寧波能源等跟跌。"
-    },
-    {
-      "id": "mkt:019f824f-a0d4-7aab-8e18-54c73ab48f20",
-      "time": "2026-07-21 09:34:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Demingli hit the daily limit-down for a fifth consecutive session; market capitalization fell to 98.587 bln yuan."
-    },
-    {
-      "id": "4998758",
-      "time": "2026-07-21 09:34:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉強震遇難人數升至5278人】當地時間20日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報，該國6月24日發生的兩次強震造成遇難人數上升至5278人，發生餘震1405次。"
-    },
-    {
-      "id": "mkt:019f824e-f49e-7aab-8e18-4dd1a8db49e7",
-      "time": "2026-07-21 09:34:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "A-share oilfield services and engineering stocks pulled back: Tongyuan Petroleum down over 14%, Keli Co. down more than 11%, with Bomaike, Renzhi, Beiken Energy and Zhongman Petroleum also weaker. On July 20 CENTCOM said U.S. forces completed a latest round of strikes against Iran at 21:00 EDT."
-    },
-    {
-      "id": "4998757",
-      "time": "2026-07-21 09:33:57",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【貴金屬板塊短線走高】貴金屬板塊短線走高，赤峰黃金、山金國際、曉程科技、中金黃金、興業銀錫跟漲。"
     }
   ]
 }
