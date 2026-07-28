@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-29 01:37:25",
-  "count": 17590,
+  "updated": "2026-07-29 01:41:26",
+  "count": 17592,
   "items": [
+    {
+      "id": "mkt:019fa9cf-f8e3-7aab-8ed3-25f057f316b6",
+      "time": "2026-07-29 01:40:06",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "【Trump, Zelenskiy discuss production licensing for Patriot interceptors at White House】President Trump met privately with Ukrainian president Zelenskiy at the White House on the morning of the 28th. Zelenskiy said the talks covered licensing for production of Patriot air‑defense interceptors and reviving a diplomatic process to end the Ukraine crisis; US and Ukrainian teams will arrange follow‑up communications."
+    },
+    {
+      "id": "mkt:019fa9cf-64c3-7aab-8ed3-1b049a406dbc",
+      "time": "2026-07-29 01:39:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran deputy foreign minister proposes talks with Oman on temporary Strait of Hormuz lane】Iran’s deputy foreign minister said he has proposed talks with Oman on a temporary shipping lane through the Strait of Hormuz to replace the current north-south route. He said Oman proposed a lane with 50% control for Iran and 50% for Oman; Tehran rejected that, insisting the inbound lane must be fully under Iranian control and that part of the outbound lane should also be under Iranian control. He warned Iran will never recognise the strait’s southern route even for an hour and said if Oman rejects Tehran’s proposal the strait will remain closed and Iran is prepared to restart war; if Oman accepts Iran’s terms, Tehran will move to the next stage."
+    },
+    {
+      "id": "5012936",
+      "time": "2026-07-29 01:37:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：若無法與阿曼達成協議，我方將繼續執行現行霍爾木茲海峽管控方案。"
+    },
     {
       "id": "5012935",
       "time": "2026-07-29 01:36:13",
@@ -161285,14 +161315,6 @@
         "國際"
       ],
       "text": "美國國家颶風中心：伯莎開始向西轉向，熱帶風暴影響範圍將蔓延至佛羅里達狹長地帶預警區域內部分地區。"
-    },
-    {
-      "id": "5000759",
-      "time": "2026-07-22 01:38:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西航空工業公司與阿布扎比穆巴達拉集團簽署協議，旨在鞏固阿聯酋在全球航空航天領域的地位，並擴大巴航工業在該國及區域內的業務佈局。"
     }
   ]
 }
