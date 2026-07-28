@@ -1,7 +1,196 @@
 {
   "date": "2026-07-28",
-  "count": 2564,
+  "count": 2588,
   "items": [
+    {
+      "id": "mkt:019fa8bc-49a2-7aab-8ecc-3b8c0d6830ee",
+      "time": "2026-07-28 20:38:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said he has an accurate understanding of the situation at Gaoshan. He warned that if no agreement is reached, nuclear material there would be removed, and said now is a good time for Iran to reach a deal."
+    },
+    {
+      "id": "5012507",
+      "time": "2026-07-28 20:38:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果沒有協議，我們將“非常輕鬆地”拿下鎬山。"
+    },
+    {
+      "id": "5012506",
+      "time": "2026-07-28 20:38:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果沒有伊朗協議，他將回去完成這項工作。"
+    },
+    {
+      "id": "5012505",
+      "time": "2026-07-28 20:38:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本警方：熊本縣購物中心坍塌致二三十人下落不明】據日本警方訊息人士透露，今天（7月28日）下午強震發生後，熊本縣坍塌的購物中心有20至30名人員下落不明，或為商場員工。（CCTV國際時訊）"
+    },
+    {
+      "id": "5012504",
+      "time": "2026-07-28 20:38:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：現在是伊朗達成協議的好時機。"
+    },
+    {
+      "id": "te:economy:570431",
+      "time": "2026-07-28 20:38:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Wholesale Inventories",
+        "Importance 1"
+      ],
+      "text": "US Wholesale Inventories Rise More than Expected — US wholesale inventories rose 0.3% month-over-month to $945.9 billion in June 2026, matching an upwardly revised 0.3% increase in May and exceeding market expectations of a 0.2% gain. According to preliminary data, inventories increased for a fifth consecutive month, supported by a 0.7% rise in durable goods stocks after a 0.2% increase in the previous month. Meanwhile, nondurable goods inventories fell 0.4%, reversing May's 0.4% gain. On an annual basis, wholesale inventories were up 4.4%."
+    },
+    {
+      "id": "5012503",
+      "time": "2026-07-28 20:38:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "UPS執行長表示，已削減每日200萬件低利潤的亞馬遜包裹量。"
+    },
+    {
+      "id": "mkt:019fa8bb-7b99-7aab-8ecc-37b4cfe15641",
+      "time": "2026-07-28 20:38:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Netanyahu wants to remain involved in Iran-related matters."
+    },
+    {
+      "id": "5012502",
+      "time": "2026-07-28 20:38:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：內塔尼亞胡想讓我們繼續捲入伊朗戰爭。"
+    },
+    {
+      "id": "5012501",
+      "time": "2026-07-28 20:37:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：鎬山不是什麼大問題。"
+    },
+    {
+      "id": "5012500",
+      "time": "2026-07-28 20:37:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普評鎬山：如果沒有協議，就把它挖掉。"
+    },
+    {
+      "id": "5012499",
+      "time": "2026-07-28 20:37:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普評鎬山：我完全知道那裡發生了什麼。"
+    },
+    {
+      "id": "5012498",
+      "time": "2026-07-28 20:37:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：內塔尼亞胡想繼續參與伊朗事務。"
+    },
+    {
+      "id": "5012497",
+      "time": "2026-07-28 20:36:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "*索尼半導體仍在核查廠區設施受損情況。"
+    },
+    {
+      "id": "5012496",
+      "time": "2026-07-28 20:36:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "CENTENE執行長在電話會議上表示，公司預計下半年年終會員數量將低於此前預期。"
+    },
+    {
+      "id": "5012495",
+      "time": "2026-07-28 20:36:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "VISA股價盤前漲幅延續至超過2%。"
+    },
+    {
+      "id": "5012494",
+      "time": "2026-07-28 20:36:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：特斯拉與Zelestra就德克薩斯州長期太陽能購電協議達成一致。"
+    },
+    {
+      "id": "5012493",
+      "time": "2026-07-28 20:36:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "索尼半導體：熊本工廠因地震已全員疏散。"
+    },
+    {
+      "id": "mkt:019fa8b9-a441-7aab-8ecc-2c9e99df4450",
+      "time": "2026-07-28 20:36:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said Iran understands it will never be allowed to have nuclear weapons. Iran said it is negotiating."
+    },
+    {
+      "id": "mkt:019fa8b9-0b87-7aab-8ecc-20f8806e97e3",
+      "time": "2026-07-28 20:35:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IIR reported Kuwait Petroleum Company shut parts of the Al-Zour refinery on July 18 after a power outage, taking about 615,000 b/d offline. IIR said parts are expected to restart by Aug. 10 and the restart of another unit has been delayed until Aug. 10."
+    },
+    {
+      "id": "5012492",
+      "time": "2026-07-28 20:35:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗明白他們永遠不會擁有核武器。"
+    },
+    {
+      "id": "5012491",
+      "time": "2026-07-28 20:35:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗方面表示，我們正在對話。"
+    },
     {
       "id": "5012490",
       "time": "2026-07-28 20:34:29",
@@ -9,6 +198,15 @@
         "其他"
       ],
       "text": "市場訊息：VISA將裁員7%，約2600個工作崗位。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607283823738056",
+      "time": "2026-07-28 20:34:20",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國6月份商品出口環比下降1.8%，進口環比下降2.6%。"
     },
     {
       "id": "5012489",
@@ -33,6 +231,15 @@
         "其他"
       ],
       "text": "貝寶(PayPal)首席財務官預計，2026年下半年將產生約1.2億至1.4億美元與轉型相關的費用。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607283823737374",
+      "time": "2026-07-28 20:32:54",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國6月份商品貿易逆差為1015億美元，預期為逆差1000億美元。"
     },
     {
       "id": "5012486",
