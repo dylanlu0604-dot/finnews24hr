@@ -1,7 +1,92 @@
 {
-  "updated": "2026-07-30 03:18:47",
-  "count": 17683,
+  "updated": "2026-07-30 03:22:41",
+  "count": 17688,
   "items": [
+    {
+      "id": "mkt:019faf53-8044-7aab-8ef6-d8e2803b8d2c",
+      "time": "2026-07-30 03:21:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "President Trump said he has been made aware of events in Egypt concerning Iran."
+    },
+    {
+      "id": "5015123",
+      "time": "2026-07-30 03:21:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗：將對其施以沉重打擊。"
+    },
+    {
+      "id": "te:markets:570854",
+      "time": "2026-07-30 03:21:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Euro at 2-Week High — The euro edged higher to approach $1.15, trading at a two-week high, as the US dollar weakened after the Fed left interest rates unchanged, broadly in line with expectations, despite markets assigning roughly a one-in-three probability to a rate hike. While the central bank reaffirmed its commitment to price stability, it offered little in the way of forward guidance. In the euro area, money markets are pricing in nearly two 25-basis-point ECB rate hikes by March 2027. ECB policymaker Peter Kazimir said at least one more increase will likely be needed to bring inflation under control, adding that a weaker economic outlook could warrant even more tightening than markets currently expect. Meanwhile, Chief Economist Philip Lane said the current inflation shock remains moderate, supporting further policy tightening. Investors now await euro area inflation data later this week for fresh clues on the ECB's policy path."
+    },
+    {
+      "id": "5015122",
+      "time": "2026-07-30 03:21:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：杜勒斯機場的翻新工程可能需要國會批准。"
+    },
+    {
+      "id": "mkt:019faf51-78bb-7aab-8ef6-d4c6ae2bb25e",
+      "time": "2026-07-30 03:19:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【KEVIN WARSH: 'Inaction is just the start' — Evercore ISI's Guha says Fed will favor predictable, systematic responses】KEVIN WARSH said the Fed has no 'soft' stance on the 2% inf target and that today's decision to stand pat 'is just the beginning, not the end.' Evercore ISI analyst Krishna Guha said the move signals the Fed prefers to process new information in a more predictable, systematic way rather than taking unpredictable actions to make a point."
+    },
+    {
+      "id": "5015121",
+      "time": "2026-07-30 03:19:36",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美聯儲主席沃什新聞釋出會要點總結】\n1、美聯儲維持利率區間3.50%-3.75%不變，措辭維持鷹派基調。\n2、美聯儲將全力致力於把通脹回落至2%目標水平。\n3、沃什稱不存在“寬鬆通脹目標”，美聯儲政策立場不會動搖。\n4、美國經濟展現強勁韌性，勞動力市場保持穩固。\n5、過去五年持續高通脹已損害市場信心，美聯儲決心重塑政策公信力。\n6、聯邦公開市場委員會展開充分激烈討論；沃什表示，鼓勵充分辯論、吸納多元觀點。\n7、委員會圍繞四大核心議題展開評估：通脹粘性、近期經濟衝擊、衝擊引發的價格壓力、貨幣政策工具。\n8、沃什指出，美聯儲當前處於審慎研判階段，而非單純“觀望等待階段”。\n9、美聯儲不會僅憑單份資料作出判斷，重點關注通脹趨勢而非單次資料包告。\n10、市場層面金融條件已自發收緊，但美聯儲不會被市場定價裹挾。\n11、沃什表示美聯儲重視市場訊號，但將獨立作出政策決議。\n12、減少前瞻性指引屬於有意安排，美聯儲避免過度引導市場預期。"
+    },
+    {
+      "id": "mkt:019faf50-a10d-7aab-8ef6-cfa19fd27ca2",
+      "time": "2026-07-30 03:18:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Conflicting data leave Fed in difficult position】Carson Group chief market strategist Ryan Detrick said the Fed's decision to hold rates was in line with expectations but the key issue is how much upward pressure there will be at the September meeting. He noted US inf remains elevated and global oil prices have jumped, and markets largely expect the next hike could come in September. At the same time Detrick cautioned against ignoring recent positive inf signals: housing, apparel and auto price increases slowed last month, suggesting some easing of inflationary pressure. The mix of still-high inf and rising oil versus recent price improvement places the Fed in a difficult policy trade-off."
+    },
+    {
+      "id": "5015120",
+      "time": "2026-07-30 03:18:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際足聯主席詹尼·因凡蒂諾稱，出售世界盃股權的計劃僅是一項提議，而非“必須履行的義務”。"
+    },
     {
       "id": "mkt:019faf50-02f1-7aab-8ef6-c691f0da2d74",
       "time": "2026-07-30 03:18:04",
@@ -162981,35 +163066,6 @@
         "MKT News"
       ],
       "text": "【Trump administration explores nuclear projects in federal waters】The Trump administration is exploring the possibility of deploying nuclear power projects within 3.2 bln acres of U.S. federal waters. The Department of the Interior’s Bureau of Ocean Energy Management (BOEM) and the NRC said on Wednesday they reached an agreement to strengthen cooperation in evaluating deployment of offshore/subsea nuclear plants. BOEM said there are currently no approved or planned commercial nuclear reactors in federal waters; the agreement is intended to assess whether and how the technology could be responsibly implemented in the future."
-    },
-    {
-      "id": "mkt:019f8b47-7b47-7aab-8e50-988565885784",
-      "time": "2026-07-23 03:22:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX (SPCX.O) — Falcon Heavy boosters completed additional pre-launch testing; preparations are underway for a Starship launch as early as July 23 local time (Thursday). Weather remains a key constraint on the attempt."
-    },
-    {
-      "id": "5002981",
-      "time": "2026-07-23 03:21:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西貿易部長：關於強迫勞動豁免清單，相關關稅政策原則上適用於所有行業。"
-    },
-    {
-      "id": "mkt:019f8b44-d075-7aab-8e50-91431f5edfac",
-      "time": "2026-07-23 03:19:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【U.S. refiners push diesel output to near-record months early as global supply tightens】DOE data show U.S. refiners have ramped diesel production to near-historic levels, reversing usual seasonality. Refineries averaged 5.3 mln bpd of refined fuel oil (primarily diesel) this month; if sustained, it would be July’s highest on record and among the highest months outside the winter heating season. Refiners advanced output months early in response to acute global diesel supply tightness."
     }
   ]
 }
