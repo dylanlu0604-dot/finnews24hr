@@ -1,7 +1,65 @@
 {
   "date": "2026-07-30",
-  "count": 211,
+  "count": 216,
   "items": [
+    {
+      "id": "5014978",
+      "time": "2026-07-30 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲5.44%，報564.00元人民幣/桶。滬金夜盤收漲0.90%，滬銀收漲1.84%。"
+    },
+    {
+      "id": "mkt:019faf23-678c-7aab-8ef2-afb623df21fa",
+      "time": "2026-07-30 02:29:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Ahead of Fed Chair Kevin Warsh's press conference, spot gold has retreated about $20 from its post-rate-decision peak and is trading at $4,065/oz."
+    },
+    {
+      "id": "mkt:019faf23-33bb-7aab-8ef2-a6dd0442818b",
+      "time": "2026-07-30 02:29:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "The Fed's decision to hold rates unchanged clouds the prospect of a September hike and beyond. Traders have pushed the expected 25bp hike to October, and confidence in two hikes before next March is waning."
+    },
+    {
+      "id": "te:economy:570844",
+      "time": "2026-07-30 02:26:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Treasury Yield Holds Gains After Fed Decision — The yield on the US 10-year Treasury note edged up to 4.64% on Wednesday, holding on to earlier gains after the Federal Reserve left the federal funds rate unchanged, broadly in line with expectations, despite markets assigning roughly a one-in-three probability to a rate hike. However, three FOMC members dissented in favor of a 25bps increase, leaving the door open to a rate hike at the September meeting. Markets currently assign roughly a 73% probability to such a move. Looking further ahead, around two additional quarter-point rate hikes remain fully priced in by the middle of next year."
+    },
+    {
+      "id": "5014977",
+      "time": "2026-07-30 02:26:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：OpenAI 執行長山姆・奧特曼將於本週與白宮官員懷爾斯會面，磋商人工智慧監管框架落地前相關事宜。奧特曼將會見特朗普政府多名高階官員、國會議員及經濟學家，探討 OpenAI 即將推出的新一代模型。"
+    },
     {
       "id": "5014976",
       "time": "2026-07-30 02:25:20",

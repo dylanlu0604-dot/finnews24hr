@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-30 02:26:49",
-  "count": 17470,
+  "updated": "2026-07-30 02:30:48",
+  "count": 17469,
   "items": [
+    {
+      "id": "5014978",
+      "time": "2026-07-30 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲5.44%，報564.00元人民幣/桶。滬金夜盤收漲0.90%，滬銀收漲1.84%。"
+    },
+    {
+      "id": "mkt:019faf23-678c-7aab-8ef2-afb623df21fa",
+      "time": "2026-07-30 02:29:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Ahead of Fed Chair Kevin Warsh's press conference, spot gold has retreated about $20 from its post-rate-decision peak and is trading at $4,065/oz."
+    },
+    {
+      "id": "mkt:019faf23-33bb-7aab-8ef2-a6dd0442818b",
+      "time": "2026-07-30 02:29:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "The Fed's decision to hold rates unchanged clouds the prospect of a September hike and beyond. Traders have pushed the expected 25bp hike to October, and confidence in two hikes before next March is waning."
+    },
+    {
+      "id": "te:economy:570844",
+      "time": "2026-07-30 02:26:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Treasury Yield Holds Gains After Fed Decision — The yield on the US 10-year Treasury note edged up to 4.64% on Wednesday, holding on to earlier gains after the Federal Reserve left the federal funds rate unchanged, broadly in line with expectations, despite markets assigning roughly a one-in-three probability to a rate hike. However, three FOMC members dissented in favor of a 25bps increase, leaving the door open to a rate hike at the September meeting. Markets currently assign roughly a 73% probability to such a move. Looking further ahead, around two additional quarter-point rate hikes remain fully priced in by the middle of next year."
+    },
+    {
+      "id": "5014977",
+      "time": "2026-07-30 02:26:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：OpenAI 執行長山姆・奧特曼將於本週與白宮官員懷爾斯會面，磋商人工智慧監管框架落地前相關事宜。奧特曼將會見特朗普政府多名高階官員、國會議員及經濟學家，探討 OpenAI 即將推出的新一代模型。"
+    },
     {
       "id": "5014976",
       "time": "2026-07-30 02:25:20",
@@ -160687,66 +160745,6 @@
         "國際"
       ],
       "text": "美國國務院發言人：增強黎巴嫩政府能力是我們努力的一部分，也是三方協議的內容。"
-    },
-    {
-      "id": "5002934",
-      "time": "2026-07-23 02:30:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟各國領導人將召開人工智慧安全峰會】受日益加劇的網路威脅與激烈地緣競爭影響，歐盟27國領導人將首次舉行專項峰會，專門探討人工智慧相關議題。"
-    },
-    {
-      "id": "mkt:019f8b18-1201-7aab-8e4f-b6d0f0483a1c",
-      "time": "2026-07-23 02:30:38",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Sources say the US is investigating whether Russia assisted Iran in a drone attack on a CIA facility in the Gulf region."
-    },
-    {
-      "id": "mkt:019f8b17-f436-7aab-8e4f-ad925b761837",
-      "time": "2026-07-23 02:30:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D closed up 0.71% at 903.69 yuan/gram in the evening session on July 22 (Wednesday); Shanghai Gold Exchange Silver T+D closed up 1.15% at 14,660 yuan/kg."
-    },
-    {
-      "id": "5002933",
-      "time": "2026-07-23 02:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲2.74%，報565.30元人民幣/桶。滬金夜盤收漲1.04%，滬銀收漲1.69%。"
-    },
-    {
-      "id": "5002932",
-      "time": "2026-07-23 02:29:26",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "訊息人士：美國正在調查俄羅斯是否協助伊朗用無人機襲擊中情局在海灣的設施。"
-    },
-    {
-      "id": "mkt:019f8b15-53d7-7aab-8e4f-a26055801274",
-      "time": "2026-07-23 02:27:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【IRGC warns vessels not to use alternative in/out routes for Strait of Hormuz】The Iranian Islamic Revolutionary Guard Corps (IRGC) Navy said on the 22nd local time that transit lanes into and out of the Strait of Hormuz are clearly defined and are entirely under Iranian control; any alternative routes are \"unsafe and extremely dangerous\" and would carry \"serious and irreversible\" consequences. The IRGC earlier, in the early hours of the 18th (Tehran time), said two tankers exploded and caught fire after passing a mined area in the southern Strait. U.S. Central Command disputed Iran's account. The tankers were using the Strait's \"south-side route\" near Oman; the U.S. has been encouraging vessels to use the \"south-side route\" and says it is safe, while Iran says that route is unauthorized."
     }
   ]
 }
