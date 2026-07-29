@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29 13:53:53",
+  "updated": "2026-07-29 15:31:21",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -4210,7 +4210,7 @@
         },
         {
           "date": "2026-07-29",
-          "count": 52,
+          "count": 56,
           "events": [
             {
               "id": "capital:1178371",
@@ -5218,6 +5218,238 @@
               "history": [],
               "history_status": "cached",
               "history_checked_at": "2026-07-19 00:01:00"
+            },
+            {
+              "id": "capital:1182589",
+              "fid": "1182589",
+              "interval": "this_week",
+              "date": "2026-07-29",
+              "time": "14:00",
+              "datetime": "2026-07-29 14:00:00",
+              "display_time": "07/29 14:00",
+              "country": "德國",
+              "title": "德國6月出口物價指數年率",
+              "importance": 1,
+              "previous": "3.4 %",
+              "forecast": "-- %",
+              "actual": "3.5 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182589",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "06/30",
+                  "actual": "3.4",
+                  "forecast": "-",
+                  "previous": "2.9"
+                },
+                {
+                  "date": "05/29",
+                  "actual": "2.9",
+                  "forecast": "-",
+                  "previous": "1.5"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "1.5",
+                  "forecast": "-",
+                  "previous": "-0.1"
+                },
+                {
+                  "date": "03/31",
+                  "actual": "-0.1",
+                  "forecast": "-",
+                  "previous": "0.2"
+                },
+                {
+                  "date": "02/27",
+                  "actual": "0.2",
+                  "forecast": "-",
+                  "previous": "0"
+                },
+                {
+                  "date": "01/30",
+                  "actual": "0",
+                  "forecast": "-",
+                  "previous": "0.3"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-07-25 12:38:13"
+            },
+            {
+              "id": "capital:1182588",
+              "fid": "1182588",
+              "interval": "this_week",
+              "date": "2026-07-29",
+              "time": "14:00",
+              "datetime": "2026-07-29 14:00:00",
+              "display_time": "07/29 14:00",
+              "country": "德國",
+              "title": "德國6月出口物價指數月率",
+              "importance": 1,
+              "previous": "0.5 %",
+              "forecast": "-- %",
+              "actual": "0.1 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182588",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "06/30",
+                  "actual": "0.5",
+                  "forecast": "-",
+                  "previous": "0.8"
+                },
+                {
+                  "date": "05/29",
+                  "actual": "0.8",
+                  "forecast": "-",
+                  "previous": "1.1"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "1.1",
+                  "forecast": "-",
+                  "previous": "0.1"
+                },
+                {
+                  "date": "03/31",
+                  "actual": "0.1",
+                  "forecast": "-",
+                  "previous": "0.9"
+                },
+                {
+                  "date": "02/27",
+                  "actual": "0.9",
+                  "forecast": "-",
+                  "previous": "-0.1"
+                },
+                {
+                  "date": "01/30",
+                  "actual": "-0.1",
+                  "forecast": "-",
+                  "previous": "0.2"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-07-25 12:38:13"
+            },
+            {
+              "id": "capital:1182587",
+              "fid": "1182587",
+              "interval": "this_week",
+              "date": "2026-07-29",
+              "time": "14:00",
+              "datetime": "2026-07-29 14:00:00",
+              "display_time": "07/29 14:00",
+              "country": "德國",
+              "title": "德國6月進口物價指數年率",
+              "importance": 1,
+              "previous": "6.8 %",
+              "forecast": "-- %",
+              "actual": "6.7 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182587",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "06/30",
+                  "actual": "6.8",
+                  "forecast": "6.5",
+                  "previous": "5.3"
+                },
+                {
+                  "date": "05/29",
+                  "actual": "5.3",
+                  "forecast": "5.3",
+                  "previous": "2.3"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "2.3",
+                  "forecast": "1.6",
+                  "previous": "-2.3"
+                },
+                {
+                  "date": "03/31",
+                  "actual": "-2.3",
+                  "forecast": "-",
+                  "previous": "-2.3"
+                },
+                {
+                  "date": "02/27",
+                  "actual": "-2.3",
+                  "forecast": "-2.8",
+                  "previous": "-2.3"
+                },
+                {
+                  "date": "01/30",
+                  "actual": "-2.3",
+                  "forecast": "-2.6",
+                  "previous": "-1.9"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-07-25 12:38:13"
+            },
+            {
+              "id": "capital:1182586",
+              "fid": "1182586",
+              "interval": "this_week",
+              "date": "2026-07-29",
+              "time": "14:00",
+              "datetime": "2026-07-29 14:00:00",
+              "display_time": "07/29 14:00",
+              "country": "德國",
+              "title": "德國6月進口物價指數月率",
+              "importance": 1,
+              "previous": "0.7 %",
+              "forecast": "-0.8 %",
+              "actual": "-0.7 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182586",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "06/30",
+                  "actual": "0.7",
+                  "forecast": "0.4",
+                  "previous": "1.2"
+                },
+                {
+                  "date": "05/29",
+                  "actual": "1.2",
+                  "forecast": "1.1",
+                  "previous": "3.6"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "3.6",
+                  "forecast": "3",
+                  "previous": "0.3"
+                },
+                {
+                  "date": "03/31",
+                  "actual": "0.3",
+                  "forecast": "0.8",
+                  "previous": "1.1"
+                },
+                {
+                  "date": "02/27",
+                  "actual": "1.1",
+                  "forecast": "0.6",
+                  "previous": "-0.1"
+                },
+                {
+                  "date": "01/30",
+                  "actual": "-0.1",
+                  "forecast": "-0.4",
+                  "previous": "0.5"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-07-25 12:38:13"
             },
             {
               "id": "capital:1178376",
@@ -11841,7 +12073,7 @@
         },
         {
           "date": "2026-07-31",
-          "count": 69,
+          "count": 65,
           "events": [
             {
               "id": "capital:1178503",
@@ -13288,238 +13520,6 @@
                   "actual": "20.2",
                   "forecast": "-",
                   "previous": "9.5"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-07-25 12:38:13"
-            },
-            {
-              "id": "capital:1182589",
-              "fid": "1182589",
-              "interval": "this_week",
-              "date": "2026-07-31",
-              "time": "14:00",
-              "datetime": "2026-07-31 14:00:00",
-              "display_time": "07/31 14:00",
-              "country": "德國",
-              "title": "德國6月出口物價指數年率",
-              "importance": 1,
-              "previous": "3.4 %",
-              "forecast": "-- %",
-              "actual": "-- %",
-              "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182589",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "06/30",
-                  "actual": "3.4",
-                  "forecast": "-",
-                  "previous": "2.9"
-                },
-                {
-                  "date": "05/29",
-                  "actual": "2.9",
-                  "forecast": "-",
-                  "previous": "1.5"
-                },
-                {
-                  "date": "04/30",
-                  "actual": "1.5",
-                  "forecast": "-",
-                  "previous": "-0.1"
-                },
-                {
-                  "date": "03/31",
-                  "actual": "-0.1",
-                  "forecast": "-",
-                  "previous": "0.2"
-                },
-                {
-                  "date": "02/27",
-                  "actual": "0.2",
-                  "forecast": "-",
-                  "previous": "0"
-                },
-                {
-                  "date": "01/30",
-                  "actual": "0",
-                  "forecast": "-",
-                  "previous": "0.3"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-07-25 12:38:13"
-            },
-            {
-              "id": "capital:1182588",
-              "fid": "1182588",
-              "interval": "this_week",
-              "date": "2026-07-31",
-              "time": "14:00",
-              "datetime": "2026-07-31 14:00:00",
-              "display_time": "07/31 14:00",
-              "country": "德國",
-              "title": "德國6月出口物價指數月率",
-              "importance": 1,
-              "previous": "0.5 %",
-              "forecast": "-- %",
-              "actual": "-- %",
-              "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182588",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "06/30",
-                  "actual": "0.5",
-                  "forecast": "-",
-                  "previous": "0.8"
-                },
-                {
-                  "date": "05/29",
-                  "actual": "0.8",
-                  "forecast": "-",
-                  "previous": "1.1"
-                },
-                {
-                  "date": "04/30",
-                  "actual": "1.1",
-                  "forecast": "-",
-                  "previous": "0.1"
-                },
-                {
-                  "date": "03/31",
-                  "actual": "0.1",
-                  "forecast": "-",
-                  "previous": "0.9"
-                },
-                {
-                  "date": "02/27",
-                  "actual": "0.9",
-                  "forecast": "-",
-                  "previous": "-0.1"
-                },
-                {
-                  "date": "01/30",
-                  "actual": "-0.1",
-                  "forecast": "-",
-                  "previous": "0.2"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-07-25 12:38:13"
-            },
-            {
-              "id": "capital:1182587",
-              "fid": "1182587",
-              "interval": "this_week",
-              "date": "2026-07-31",
-              "time": "14:00",
-              "datetime": "2026-07-31 14:00:00",
-              "display_time": "07/31 14:00",
-              "country": "德國",
-              "title": "德國6月進口物價指數年率",
-              "importance": 1,
-              "previous": "6.8 %",
-              "forecast": "-- %",
-              "actual": "-- %",
-              "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182587",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "06/30",
-                  "actual": "6.8",
-                  "forecast": "6.5",
-                  "previous": "5.3"
-                },
-                {
-                  "date": "05/29",
-                  "actual": "5.3",
-                  "forecast": "5.3",
-                  "previous": "2.3"
-                },
-                {
-                  "date": "04/30",
-                  "actual": "2.3",
-                  "forecast": "1.6",
-                  "previous": "-2.3"
-                },
-                {
-                  "date": "03/31",
-                  "actual": "-2.3",
-                  "forecast": "-",
-                  "previous": "-2.3"
-                },
-                {
-                  "date": "02/27",
-                  "actual": "-2.3",
-                  "forecast": "-2.8",
-                  "previous": "-2.3"
-                },
-                {
-                  "date": "01/30",
-                  "actual": "-2.3",
-                  "forecast": "-2.6",
-                  "previous": "-1.9"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-07-25 12:38:13"
-            },
-            {
-              "id": "capital:1182586",
-              "fid": "1182586",
-              "interval": "this_week",
-              "date": "2026-07-31",
-              "time": "14:00",
-              "datetime": "2026-07-31 14:00:00",
-              "display_time": "07/31 14:00",
-              "country": "德國",
-              "title": "德國6月進口物價指數月率",
-              "importance": 1,
-              "previous": "0.7 %",
-              "forecast": "-0.8 %",
-              "actual": "-- %",
-              "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182586",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "06/30",
-                  "actual": "0.7",
-                  "forecast": "0.4",
-                  "previous": "1.2"
-                },
-                {
-                  "date": "05/29",
-                  "actual": "1.2",
-                  "forecast": "1.1",
-                  "previous": "3.6"
-                },
-                {
-                  "date": "04/30",
-                  "actual": "3.6",
-                  "forecast": "3",
-                  "previous": "0.3"
-                },
-                {
-                  "date": "03/31",
-                  "actual": "0.3",
-                  "forecast": "0.8",
-                  "previous": "1.1"
-                },
-                {
-                  "date": "02/27",
-                  "actual": "1.1",
-                  "forecast": "0.6",
-                  "previous": "-0.1"
-                },
-                {
-                  "date": "01/30",
-                  "actual": "-0.1",
-                  "forecast": "-0.4",
-                  "previous": "0.5"
                 }
               ],
               "history_status": "cached",
@@ -34657,6 +34657,238 @@
       "history_checked_at": "2026-07-19 00:01:00"
     },
     {
+      "id": "capital:1182589",
+      "fid": "1182589",
+      "interval": "this_week",
+      "date": "2026-07-29",
+      "time": "14:00",
+      "datetime": "2026-07-29 14:00:00",
+      "display_time": "07/29 14:00",
+      "country": "德國",
+      "title": "德國6月出口物價指數年率",
+      "importance": 1,
+      "previous": "3.4 %",
+      "forecast": "-- %",
+      "actual": "3.5 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182589",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "06/30",
+          "actual": "3.4",
+          "forecast": "-",
+          "previous": "2.9"
+        },
+        {
+          "date": "05/29",
+          "actual": "2.9",
+          "forecast": "-",
+          "previous": "1.5"
+        },
+        {
+          "date": "04/30",
+          "actual": "1.5",
+          "forecast": "-",
+          "previous": "-0.1"
+        },
+        {
+          "date": "03/31",
+          "actual": "-0.1",
+          "forecast": "-",
+          "previous": "0.2"
+        },
+        {
+          "date": "02/27",
+          "actual": "0.2",
+          "forecast": "-",
+          "previous": "0"
+        },
+        {
+          "date": "01/30",
+          "actual": "0",
+          "forecast": "-",
+          "previous": "0.3"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-07-25 12:38:13"
+    },
+    {
+      "id": "capital:1182588",
+      "fid": "1182588",
+      "interval": "this_week",
+      "date": "2026-07-29",
+      "time": "14:00",
+      "datetime": "2026-07-29 14:00:00",
+      "display_time": "07/29 14:00",
+      "country": "德國",
+      "title": "德國6月出口物價指數月率",
+      "importance": 1,
+      "previous": "0.5 %",
+      "forecast": "-- %",
+      "actual": "0.1 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182588",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "06/30",
+          "actual": "0.5",
+          "forecast": "-",
+          "previous": "0.8"
+        },
+        {
+          "date": "05/29",
+          "actual": "0.8",
+          "forecast": "-",
+          "previous": "1.1"
+        },
+        {
+          "date": "04/30",
+          "actual": "1.1",
+          "forecast": "-",
+          "previous": "0.1"
+        },
+        {
+          "date": "03/31",
+          "actual": "0.1",
+          "forecast": "-",
+          "previous": "0.9"
+        },
+        {
+          "date": "02/27",
+          "actual": "0.9",
+          "forecast": "-",
+          "previous": "-0.1"
+        },
+        {
+          "date": "01/30",
+          "actual": "-0.1",
+          "forecast": "-",
+          "previous": "0.2"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-07-25 12:38:13"
+    },
+    {
+      "id": "capital:1182587",
+      "fid": "1182587",
+      "interval": "this_week",
+      "date": "2026-07-29",
+      "time": "14:00",
+      "datetime": "2026-07-29 14:00:00",
+      "display_time": "07/29 14:00",
+      "country": "德國",
+      "title": "德國6月進口物價指數年率",
+      "importance": 1,
+      "previous": "6.8 %",
+      "forecast": "-- %",
+      "actual": "6.7 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182587",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "06/30",
+          "actual": "6.8",
+          "forecast": "6.5",
+          "previous": "5.3"
+        },
+        {
+          "date": "05/29",
+          "actual": "5.3",
+          "forecast": "5.3",
+          "previous": "2.3"
+        },
+        {
+          "date": "04/30",
+          "actual": "2.3",
+          "forecast": "1.6",
+          "previous": "-2.3"
+        },
+        {
+          "date": "03/31",
+          "actual": "-2.3",
+          "forecast": "-",
+          "previous": "-2.3"
+        },
+        {
+          "date": "02/27",
+          "actual": "-2.3",
+          "forecast": "-2.8",
+          "previous": "-2.3"
+        },
+        {
+          "date": "01/30",
+          "actual": "-2.3",
+          "forecast": "-2.6",
+          "previous": "-1.9"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-07-25 12:38:13"
+    },
+    {
+      "id": "capital:1182586",
+      "fid": "1182586",
+      "interval": "this_week",
+      "date": "2026-07-29",
+      "time": "14:00",
+      "datetime": "2026-07-29 14:00:00",
+      "display_time": "07/29 14:00",
+      "country": "德國",
+      "title": "德國6月進口物價指數月率",
+      "importance": 1,
+      "previous": "0.7 %",
+      "forecast": "-0.8 %",
+      "actual": "-0.7 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182586",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "06/30",
+          "actual": "0.7",
+          "forecast": "0.4",
+          "previous": "1.2"
+        },
+        {
+          "date": "05/29",
+          "actual": "1.2",
+          "forecast": "1.1",
+          "previous": "3.6"
+        },
+        {
+          "date": "04/30",
+          "actual": "3.6",
+          "forecast": "3",
+          "previous": "0.3"
+        },
+        {
+          "date": "03/31",
+          "actual": "0.3",
+          "forecast": "0.8",
+          "previous": "1.1"
+        },
+        {
+          "date": "02/27",
+          "actual": "1.1",
+          "forecast": "0.6",
+          "previous": "-0.1"
+        },
+        {
+          "date": "01/30",
+          "actual": "-0.1",
+          "forecast": "-0.4",
+          "previous": "0.5"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-07-25 12:38:13"
+    },
+    {
       "id": "capital:1178376",
       "fid": "1178376",
       "interval": "this_week",
@@ -42713,238 +42945,6 @@
           "actual": "20.2",
           "forecast": "-",
           "previous": "9.5"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-07-25 12:38:13"
-    },
-    {
-      "id": "capital:1182589",
-      "fid": "1182589",
-      "interval": "this_week",
-      "date": "2026-07-31",
-      "time": "14:00",
-      "datetime": "2026-07-31 14:00:00",
-      "display_time": "07/31 14:00",
-      "country": "德國",
-      "title": "德國6月出口物價指數年率",
-      "importance": 1,
-      "previous": "3.4 %",
-      "forecast": "-- %",
-      "actual": "-- %",
-      "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182589",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "06/30",
-          "actual": "3.4",
-          "forecast": "-",
-          "previous": "2.9"
-        },
-        {
-          "date": "05/29",
-          "actual": "2.9",
-          "forecast": "-",
-          "previous": "1.5"
-        },
-        {
-          "date": "04/30",
-          "actual": "1.5",
-          "forecast": "-",
-          "previous": "-0.1"
-        },
-        {
-          "date": "03/31",
-          "actual": "-0.1",
-          "forecast": "-",
-          "previous": "0.2"
-        },
-        {
-          "date": "02/27",
-          "actual": "0.2",
-          "forecast": "-",
-          "previous": "0"
-        },
-        {
-          "date": "01/30",
-          "actual": "0",
-          "forecast": "-",
-          "previous": "0.3"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-07-25 12:38:13"
-    },
-    {
-      "id": "capital:1182588",
-      "fid": "1182588",
-      "interval": "this_week",
-      "date": "2026-07-31",
-      "time": "14:00",
-      "datetime": "2026-07-31 14:00:00",
-      "display_time": "07/31 14:00",
-      "country": "德國",
-      "title": "德國6月出口物價指數月率",
-      "importance": 1,
-      "previous": "0.5 %",
-      "forecast": "-- %",
-      "actual": "-- %",
-      "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182588",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "06/30",
-          "actual": "0.5",
-          "forecast": "-",
-          "previous": "0.8"
-        },
-        {
-          "date": "05/29",
-          "actual": "0.8",
-          "forecast": "-",
-          "previous": "1.1"
-        },
-        {
-          "date": "04/30",
-          "actual": "1.1",
-          "forecast": "-",
-          "previous": "0.1"
-        },
-        {
-          "date": "03/31",
-          "actual": "0.1",
-          "forecast": "-",
-          "previous": "0.9"
-        },
-        {
-          "date": "02/27",
-          "actual": "0.9",
-          "forecast": "-",
-          "previous": "-0.1"
-        },
-        {
-          "date": "01/30",
-          "actual": "-0.1",
-          "forecast": "-",
-          "previous": "0.2"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-07-25 12:38:13"
-    },
-    {
-      "id": "capital:1182587",
-      "fid": "1182587",
-      "interval": "this_week",
-      "date": "2026-07-31",
-      "time": "14:00",
-      "datetime": "2026-07-31 14:00:00",
-      "display_time": "07/31 14:00",
-      "country": "德國",
-      "title": "德國6月進口物價指數年率",
-      "importance": 1,
-      "previous": "6.8 %",
-      "forecast": "-- %",
-      "actual": "-- %",
-      "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182587",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "06/30",
-          "actual": "6.8",
-          "forecast": "6.5",
-          "previous": "5.3"
-        },
-        {
-          "date": "05/29",
-          "actual": "5.3",
-          "forecast": "5.3",
-          "previous": "2.3"
-        },
-        {
-          "date": "04/30",
-          "actual": "2.3",
-          "forecast": "1.6",
-          "previous": "-2.3"
-        },
-        {
-          "date": "03/31",
-          "actual": "-2.3",
-          "forecast": "-",
-          "previous": "-2.3"
-        },
-        {
-          "date": "02/27",
-          "actual": "-2.3",
-          "forecast": "-2.8",
-          "previous": "-2.3"
-        },
-        {
-          "date": "01/30",
-          "actual": "-2.3",
-          "forecast": "-2.6",
-          "previous": "-1.9"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-07-25 12:38:13"
-    },
-    {
-      "id": "capital:1182586",
-      "fid": "1182586",
-      "interval": "this_week",
-      "date": "2026-07-31",
-      "time": "14:00",
-      "datetime": "2026-07-31 14:00:00",
-      "display_time": "07/31 14:00",
-      "country": "德國",
-      "title": "德國6月進口物價指數月率",
-      "importance": 1,
-      "previous": "0.7 %",
-      "forecast": "-0.8 %",
-      "actual": "-- %",
-      "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182586",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "06/30",
-          "actual": "0.7",
-          "forecast": "0.4",
-          "previous": "1.2"
-        },
-        {
-          "date": "05/29",
-          "actual": "1.2",
-          "forecast": "1.1",
-          "previous": "3.6"
-        },
-        {
-          "date": "04/30",
-          "actual": "3.6",
-          "forecast": "3",
-          "previous": "0.3"
-        },
-        {
-          "date": "03/31",
-          "actual": "0.3",
-          "forecast": "0.8",
-          "previous": "1.1"
-        },
-        {
-          "date": "02/27",
-          "actual": "1.1",
-          "forecast": "0.6",
-          "previous": "-0.1"
-        },
-        {
-          "date": "01/30",
-          "actual": "-0.1",
-          "forecast": "-0.4",
-          "previous": "0.5"
         }
       ],
       "history_status": "cached",
