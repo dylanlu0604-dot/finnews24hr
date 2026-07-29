@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-30 02:22:50",
-  "count": 17472,
+  "updated": "2026-07-30 02:26:49",
+  "count": 17470,
   "items": [
+    {
+      "id": "5014976",
+      "time": "2026-07-30 02:25:20",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲按兵不動後，8月聯邦基金期貨飆升，交易量激增】8月聯邦基金期貨受到強勁買盤支撐，迅速對美聯儲維持3.5%-3.75%利率不變的決定作出調整，在紐約時間下午2點政策宣佈前數秒內，抹去了該合約中約7個基點的加息溢價。該合約當日仍上漲約7個跳動點。在下午2點決議公佈前後的一分鐘內，約有4萬張期貨合約達成交易。最大的單分鐘成交量出現在下午2點03分，當時在96.365價位附近成交了約6萬張合約。 芝加哥商品交易所（CME）的最終資料顯示，在週二的交易時段，8月合約的未平倉合約量（即交易員持有的新風險敞口）首次突破100萬張。過去幾周的資金流主要以拋售為主，包括今天早盤似乎又出現了一波密集的空頭拋售。此外，市場目前不再將9月政策會議上的“完整加息”計入定價，當前該會議仍保留了約18個基點的加息溢價，而7月美聯儲會議前的加息溢價為25個基點。"
+    },
+    {
+      "id": "te:markets:570843",
+      "time": "2026-07-30 02:25:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Drops by 3.77% — Top commodity losers are Coffee (-3.77%), Soybeans (-2.93%) and Corn (-2.26%)."
+    },
+    {
+      "id": "mkt:019faf1f-50cd-7aab-8ef2-990b74fa155d",
+      "time": "2026-07-30 02:24:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Fed holds rates; spot gold jumps over 1%】The Federal Reserve left its policy rate unchanged, knocking down odds of a hike and sending the dollar and U.S. Treasury yields lower, which pushed spot gold from losses to a gain exceeding 1%. The committee recorded three dissenting votes. Market participants said near-term direction will hinge on the Fed’s post-meeting press conference; after briefly dipping below $4,000/oz, gold may have temporarily avoided further downside. As of 02:16, spot gold was up 1.2% at $4,076.41 per ounce."
+    },
     {
       "id": "mkt:019faf1b-b2a7-7aab-8ef2-9739b275b060",
       "time": "2026-07-30 02:20:55",
@@ -160711,53 +160747,6 @@
         "Brent"
       ],
       "text": "【IRGC warns vessels not to use alternative in/out routes for Strait of Hormuz】The Iranian Islamic Revolutionary Guard Corps (IRGC) Navy said on the 22nd local time that transit lanes into and out of the Strait of Hormuz are clearly defined and are entirely under Iranian control; any alternative routes are \"unsafe and extremely dangerous\" and would carry \"serious and irreversible\" consequences. The IRGC earlier, in the early hours of the 18th (Tehran time), said two tankers exploded and caught fire after passing a mined area in the southern Strait. U.S. Central Command disputed Iran's account. The tankers were using the Strait's \"south-side route\" near Oman; the U.S. has been encouraging vessels to use the \"south-side route\" and says it is safe, while Iran says that route is unauthorized."
-    },
-    {
-      "id": "5002931",
-      "time": "2026-07-23 02:25:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊：船隻不要使用替代航線進出霍爾木茲海峽】伊朗伊斯蘭革命衛隊海軍司令部當地時間22日表示，霍爾木茲海峽的進出路線明確，且完全處於伊朗的控制之下。任何替代航線都是不安全且極其危險的。警告各方不要使用這些航線，否則將造成嚴重且無法挽回的後果。"
-    },
-    {
-      "id": "te:markets:568957",
-      "time": "2026-07-23 02:25:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Falls by 4.53% — Top commodity losers are Cocoa (-4.53%), Coffee (-1.26%) and Sugar (-0.87%). Gains are led by Wheat (4.18%) and Canola (2.34%)."
-    },
-    {
-      "id": "5002930",
-      "time": "2026-07-23 02:24:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟未就第21輪對俄製裁達成一致】當地時間22日，歐盟各成員國外交官員舉行會議，最終再次未能就針對俄羅斯的第21輪制裁方案達成一致。據悉，新制裁旨在打擊俄羅斯銀行業。然而，希臘希望歐盟放寬對俄羅斯液化天然氣供應的限制。上週，希臘方面稱，即將對俄羅斯液化天然氣實施的轉讓禁令只會將市場份額轉移到歐洲以外，不會影響俄羅斯的收入。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f8b12-48b9-7aab-8e4f-9c4bd9dd7d46",
-      "time": "2026-07-23 02:24:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "An IRGC spokesman warned shipping companies that sea mines have been laid on the southern lane of the Strait of Hormuz."
-    },
-    {
-      "id": "5002929",
-      "time": "2026-07-23 02:23:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股AI應用軟體股持續走低】美股AI應用軟體股持續走低，UiPath跌超13%，Reddit跌近9%，Palantir跌近7%，ServiceNow跌超6%，賽富時跌超4%。"
     }
   ]
 }
