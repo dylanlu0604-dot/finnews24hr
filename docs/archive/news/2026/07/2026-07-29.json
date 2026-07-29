@@ -1,7 +1,79 @@
 {
   "date": "2026-07-29",
-  "count": 2626,
+  "count": 2634,
   "items": [
+    {
+      "id": "mkt:019fadd9-9950-7aab-8eea-523e8b2638a3",
+      "time": "2026-07-29 20:29:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance ministry said it will establish a legal basis for market-stabilizing measures in emergencies."
+    },
+    {
+      "id": "5014619",
+      "time": "2026-07-29 20:28:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部：將為應急狀態下的市場穩定措施籌備法律依據。"
+    },
+    {
+      "id": "mkt:019fadd8-fab6-7aab-8eea-4d4f8fdbe1d8",
+      "time": "2026-07-29 20:28:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Ministry of Economy and Finance said it will raise transaction costs on single-stock leveraged ETFs."
+    },
+    {
+      "id": "5014618",
+      "time": "2026-07-29 20:28:11",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部：將提高單一股票槓桿型 ETF 的交易成本。"
+    },
+    {
+      "id": "5014617",
+      "time": "2026-07-29 20:26:32",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部：將對單隻股票槓桿ETF的投資實施限額。"
+    },
+    {
+      "id": "mkt:019fadd6-ea76-7aab-8eea-40e086473f2e",
+      "time": "2026-07-29 20:26:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Finance Ministry said it will immediately introduce additional measures targeting single-stock leveraged ETFs."
+    },
+    {
+      "id": "mkt:019fadd6-aa10-7aab-8eea-393c74bb46b0",
+      "time": "2026-07-29 20:25:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Finance Ministry said it is considering raising transaction costs to curb speculative trading in ETFs."
+    },
+    {
+      "id": "mkt:019fadd6-42a3-7aab-8eea-37268be1cb23",
+      "time": "2026-07-29 20:25:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "U.S. President Trump said yesterday's Iranian attack was unexpected and U.S. forces had only minutes to intercept Iranian missiles."
+    },
     {
       "id": "mkt:019fadd5-ed54-7aab-8eea-2e0c43b76e0b",
       "time": "2026-07-29 20:25:05",
