@@ -1,7 +1,54 @@
 {
   "date": "2026-07-29",
-  "count": 1315,
+  "count": 1320,
   "items": [
+    {
+      "id": "5013669",
+      "time": "2026-07-29 12:48:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀集團：環球財富管理部門第二季度淨新增資金流入規模達360億美元。"
+    },
+    {
+      "id": "5013668",
+      "time": "2026-07-29 12:47:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY指數上漲1%，至24224.95。"
+    },
+    {
+      "id": "mkt:019fac31-c5c0-7aab-8edf-5dff2459b645",
+      "time": "2026-07-29 12:46:10",
+      "tags": [
+        "MKT News",
+        "V.O",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan raised its price target for Visa (V.N) to $450 from $400."
+    },
+    {
+      "id": "mkt:019fac31-9f72-7aab-8edf-569ee14bdb01",
+      "time": "2026-07-29 12:46:00",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "Nasdaq futures fell as much as 1%, S&P 500 futures were down 0.3% and Dow futures fell 0.2%."
+    },
+    {
+      "id": "5013667",
+      "time": "2026-07-29 12:45:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股納斯達克100指數期貨跌超1%】美股納斯達克100指數期貨跌超1%，標普500指數期貨跌0.35%，道瓊斯指數期貨跌0.24%。"
+    },
     {
       "id": "mkt:019fac31-24b2-7aab-8edf-495e160c89b1",
       "time": "2026-07-29 12:45:29",
