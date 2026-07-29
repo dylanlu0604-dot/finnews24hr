@@ -1,7 +1,162 @@
 {
   "date": "2026-07-29",
-  "count": 623,
+  "count": 639,
   "items": [
+    {
+      "id": "mkt:019fab4d-4f2e-7aab-8ed7-efd737eb6439",
+      "time": "2026-07-29 08:36:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabia's defense ministry said the airstrike was in response to drone attacks on Saudi oil facilities, adding Riyadh does not seek escalation but will respond to any \"aggression\"."
+    },
+    {
+      "id": "mkt:019fab4d-1127-7aab-8ed7-e4f1ca0f7867",
+      "time": "2026-07-29 08:36:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix expects HBM4 sales in H2 to lift H2 blended ASP."
+    },
+    {
+      "id": "mkt:019fab4c-f1e9-7aab-8ed7-d88cff4a7534",
+      "time": "2026-07-29 08:36:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) said it expects bit shipment growth in H2 to be significantly higher than in H1."
+    },
+    {
+      "id": "mkt:019fab4c-efbf-7aab-8ed7-d13c7cced218",
+      "time": "2026-07-29 08:36:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) expects earnings to improve in H2."
+    },
+    {
+      "id": "5013231",
+      "time": "2026-07-29 08:35:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【規模近15億元，中國人壽壽險公司落地綠色股權投資計劃】7月29日，中國人壽集團宣佈，旗下壽險公司透過中國人壽資產公司發起設立的“中國人壽-蒙能綠色股權投資計劃”，投資於內蒙古能源集團有限公司旗下新能源產業平臺內蒙古蒙能新能源股份有限公司。股權投資計劃整體投資規模近15億元，其中中國人壽壽險公司實繳出資10億元。"
+    },
+    {
+      "id": "5013230",
+      "time": "2026-07-29 08:35:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：預計下半年盈利將改善。"
+    },
+    {
+      "id": "5013229",
+      "time": "2026-07-29 08:35:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯國防部表示，該國不尋求局勢升級，但將對任何\"侵略行為\"作出回應。"
+    },
+    {
+      "id": "5013228",
+      "time": "2026-07-29 08:35:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：預計下半年HBM4銷售將對混合平均售價產生積極影響。"
+    },
+    {
+      "id": "5013227",
+      "time": "2026-07-29 08:35:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士承諾將透過長期協議鞏固其在HBM領域的領先地位。"
+    },
+    {
+      "id": "5013226",
+      "time": "2026-07-29 08:34:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯國防部稱，空襲是對石油設施遭無人機襲擊的回應。"
+    },
+    {
+      "id": "5013225",
+      "time": "2026-07-29 08:34:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：預計下半年位元增長率將高於上半年水平。"
+    },
+    {
+      "id": "mkt:019fab4a-e435-7aab-8ed7-cd6cc0fc7543",
+      "time": "2026-07-29 08:33:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia's Ministry of Defense said it successfully intercepted drone attacks targeting Riyadh and energy facilities in the Eastern Province."
+    },
+    {
+      "id": "mkt:019fab4a-8d85-7aab-8ed7-c16fb058edd7",
+      "time": "2026-07-29 08:33:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Saudi defense ministry says airstrike was coordinated with CENTCOM."
+    },
+    {
+      "id": "te:markets:570532",
+      "time": "2026-07-29 08:33:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "EU Natural Gas Rebounds — European natural gas prices jumped over 4% to above €58 per MWh on Wednesday, rebounding after two consecutive sessions of losses, as fresh hostilities in the Middle East deepened concerns over prolonged supply disruptions. The US military said on Tuesday it had intercepted multiple missiles launched by Iran, ending a days-long lull in fighting between the two sides. Both nations had largely held fire over the weekend following nearly two weeks of nightly US strikes on Iran and repeated attacks by Tehran targeting Washington's allies across the Gulf. The latest escalation worsens Europe’s gas supply outlook as the region races to replenish storage ahead of the winter heating season. Supply concerns were further exacerbated by reports that QatarEnergy, one of the world's largest LNG exporters, has extended its force majeure for European buyers until at least the end of September."
+    },
+    {
+      "id": "mkt:019fab4a-3fd4-7aab-8ed7-bebec8c64633",
+      "time": "2026-07-29 08:33:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabia's Ministry of Defense said it struck targets of Iran-backed groups inside Iraq."
+    },
+    {
+      "id": "5013224",
+      "time": "2026-07-29 08:33:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特國防部表示，沙特對伊拉克境內伊朗支援的組織目標發動了打擊。襲擊行動與美國中央司令部協調開展。"
+    },
     {
       "id": "mkt:019fab49-8ed5-7aab-8ed7-b300b0ddcc21",
       "time": "2026-07-29 08:32:32",
