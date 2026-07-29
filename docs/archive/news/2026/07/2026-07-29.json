@@ -1,7 +1,113 @@
 {
   "date": "2026-07-29",
-  "count": 901,
+  "count": 913,
   "items": [
+    {
+      "id": "mkt:019fab97-798b-7aab-8eda-b25f1e063550",
+      "time": "2026-07-29 09:57:38",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "RIO (RIO.N) CEO says the company is considering how best to make the US Kennecott copper smelter profitable."
+    },
+    {
+      "id": "5013401",
+      "time": "2026-07-29 09:57:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士股價跌幅擴大至8.8%。"
+    },
+    {
+      "id": "mkt:019fab97-41b5-7aab-8eda-a9aec3f5d7c5",
+      "time": "2026-07-29 09:57:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange activated the KOSDAQ sidecar mechanism; program trading suspended for 5 minutes."
+    },
+    {
+      "id": "5013400",
+      "time": "2026-07-29 09:57:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行行長申鉉松：韓國央行認為有必要繼續加息。"
+    },
+    {
+      "id": "5013399",
+      "time": "2026-07-29 09:56:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌1%，現報7278.20點。"
+    },
+    {
+      "id": "5013398",
+      "time": "2026-07-29 09:56:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱打擊伊拉克境內受伊朗支援的目標】美軍中央司令部28日在社交媒體釋出訊息稱，美軍和沙烏地阿拉伯軍隊在伊拉克對“受伊朗支援的”目標進行了打擊。 訊息說，打擊目標是受伊朗伊斯蘭革命衛隊指使的“恐怖分子”，他們企圖襲擊美軍和沙特能源基礎設施。此次打擊是回應“過去72小時內由伊朗伊斯蘭革命衛隊指揮的30多次無人機襲擊”，美國和沙特戰機打擊了伊拉克東部多處“屬於恐怖分子的後勤與武器設施”。 訊息還稱，今年2月至4月，“伊朗支援的民兵”在伊拉克境內對美國公民和設施發動了600多次未遂襲擊。 另據伊朗法爾斯通訊社當地時間29日援引伊拉克訊息人士的話報道，沙特襲擊了伊拉克瓦西特省一處伊拉克什葉派民兵武裝“人民動員組織”的宿舍。 伊朗國家電視臺當地時間29日援引一名軍事情報官員的話說，伊朗否認其與他國擊中沙烏地阿拉伯境內目標有任何關聯。這名官員在接受採訪時表示：“將任何針對美國在該地區利益的行動都歸咎於伊朗是嚴重誤判，是缺乏對該地區局勢瞭解的結果。”（新華社）"
+    },
+    {
+      "id": "te:economy:570564",
+      "time": "2026-07-29 09:56:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Steadies Ahead of Fed Decision — The yield on the US 10-year Treasury note steadied around 4.62% on Wednesday as investors awaited the Federal Reserve’s upcoming policy decision, with policymakers widely expected to leave interest rates unchanged. However, markets continue to price in about a one-third chance of a 25-basis-point rate hike, reflecting an unusually high level of uncertainty this close to a policy meeting compared with recent years. Traders also assign roughly an 80% probability to a rate increase in September, reinforcing expectations that borrowing costs could remain elevated. Investors also monitored rebounding oil prices and renewed inflation concerns after fresh hostilities flared in the Middle East. The US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East, reigniting regional tensions."
+    },
+    {
+      "id": "mkt:019fab95-fadf-7aab-8eda-a1969caf506b",
+      "time": "2026-07-29 09:56:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange activated its KOSPI sidecar mechanism, suspending algorithmic trading for 5 minutes."
+    },
+    {
+      "id": "5013397",
+      "time": "2026-07-29 09:55:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行行長申鉉松：通脹將在相當長的一段時間內保持在目標之上。"
+    },
+    {
+      "id": "5013396",
+      "time": "2026-07-29 09:55:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化賣盤。"
+    },
+    {
+      "id": "5013395",
+      "time": "2026-07-29 09:54:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭代理國防部長表示，烏克蘭必須對俄羅斯採取非對稱行動。"
+    },
+    {
+      "id": "mkt:019fab94-2627-7aab-8eda-9c365ae01268",
+      "time": "2026-07-29 09:54:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Newly listed A-share N Qian'an extended gains to 167%, triggering an intraday volatility suspension; turnover exceeded CNY 460 million."
+    },
     {
       "id": "mkt:019fab94-0bcc-7aab-8eda-932df06243be",
       "time": "2026-07-29 09:53:53",

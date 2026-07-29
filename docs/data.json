@@ -1,7 +1,113 @@
 {
-  "updated": "2026-07-29 09:54:24",
-  "count": 17597,
+  "updated": "2026-07-29 09:58:19",
+  "count": 17600,
   "items": [
+    {
+      "id": "mkt:019fab97-798b-7aab-8eda-b25f1e063550",
+      "time": "2026-07-29 09:57:38",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "RIO (RIO.N) CEO says the company is considering how best to make the US Kennecott copper smelter profitable."
+    },
+    {
+      "id": "5013401",
+      "time": "2026-07-29 09:57:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士股價跌幅擴大至8.8%。"
+    },
+    {
+      "id": "mkt:019fab97-41b5-7aab-8eda-a9aec3f5d7c5",
+      "time": "2026-07-29 09:57:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange activated the KOSDAQ sidecar mechanism; program trading suspended for 5 minutes."
+    },
+    {
+      "id": "5013400",
+      "time": "2026-07-29 09:57:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行行長申鉉松：韓國央行認為有必要繼續加息。"
+    },
+    {
+      "id": "5013399",
+      "time": "2026-07-29 09:56:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌1%，現報7278.20點。"
+    },
+    {
+      "id": "5013398",
+      "time": "2026-07-29 09:56:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱打擊伊拉克境內受伊朗支援的目標】美軍中央司令部28日在社交媒體釋出訊息稱，美軍和沙烏地阿拉伯軍隊在伊拉克對“受伊朗支援的”目標進行了打擊。 訊息說，打擊目標是受伊朗伊斯蘭革命衛隊指使的“恐怖分子”，他們企圖襲擊美軍和沙特能源基礎設施。此次打擊是回應“過去72小時內由伊朗伊斯蘭革命衛隊指揮的30多次無人機襲擊”，美國和沙特戰機打擊了伊拉克東部多處“屬於恐怖分子的後勤與武器設施”。 訊息還稱，今年2月至4月，“伊朗支援的民兵”在伊拉克境內對美國公民和設施發動了600多次未遂襲擊。 另據伊朗法爾斯通訊社當地時間29日援引伊拉克訊息人士的話報道，沙特襲擊了伊拉克瓦西特省一處伊拉克什葉派民兵武裝“人民動員組織”的宿舍。 伊朗國家電視臺當地時間29日援引一名軍事情報官員的話說，伊朗否認其與他國擊中沙烏地阿拉伯境內目標有任何關聯。這名官員在接受採訪時表示：“將任何針對美國在該地區利益的行動都歸咎於伊朗是嚴重誤判，是缺乏對該地區局勢瞭解的結果。”（新華社）"
+    },
+    {
+      "id": "te:economy:570564",
+      "time": "2026-07-29 09:56:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Steadies Ahead of Fed Decision — The yield on the US 10-year Treasury note steadied around 4.62% on Wednesday as investors awaited the Federal Reserve’s upcoming policy decision, with policymakers widely expected to leave interest rates unchanged. However, markets continue to price in about a one-third chance of a 25-basis-point rate hike, reflecting an unusually high level of uncertainty this close to a policy meeting compared with recent years. Traders also assign roughly an 80% probability to a rate increase in September, reinforcing expectations that borrowing costs could remain elevated. Investors also monitored rebounding oil prices and renewed inflation concerns after fresh hostilities flared in the Middle East. The US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East, reigniting regional tensions."
+    },
+    {
+      "id": "mkt:019fab95-fadf-7aab-8eda-a1969caf506b",
+      "time": "2026-07-29 09:56:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange activated its KOSPI sidecar mechanism, suspending algorithmic trading for 5 minutes."
+    },
+    {
+      "id": "5013397",
+      "time": "2026-07-29 09:55:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行行長申鉉松：通脹將在相當長的一段時間內保持在目標之上。"
+    },
+    {
+      "id": "5013396",
+      "time": "2026-07-29 09:55:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化賣盤。"
+    },
+    {
+      "id": "5013395",
+      "time": "2026-07-29 09:54:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭代理國防部長表示，烏克蘭必須對俄羅斯採取非對稱行動。"
+    },
+    {
+      "id": "mkt:019fab94-2627-7aab-8eda-9c365ae01268",
+      "time": "2026-07-29 09:54:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Newly listed A-share N Qian'an extended gains to 167%, triggering an intraday volatility suspension; turnover exceeded CNY 460 million."
+    },
     {
       "id": "mkt:019fab94-0bcc-7aab-8eda-932df06243be",
       "time": "2026-07-29 09:53:53",
@@ -161378,88 +161484,6 @@
         "國際"
       ],
       "text": "【中方呼籲敘方推動包容性政治過渡 堅決反恐】當地時間21日，聯合國安理會舉行敘利亞局勢公開會。中國常駐聯合國代表團臨時代辦孫磊在發言中指出，敘利亞早日全面恢復和平穩定，有助於推動中東地區局勢整體降溫，符合地區各國共同利益，也順應國際社會普遍期待。為恢復敘利亞和平穩定，敘方應以包容性政治過渡為基石，以打擊一切形式的恐怖主義為前提，以聚焦發展為治本之策。此外，戈蘭高地是國際社會公認的被佔敘利亞領土，以色列應立即停止在敘境內的一切軍事行動，儘早從敘利亞領土撤出。平民和民用設施不能成為襲擊目標。中方願同國際社會一道，為幫助敘利亞早日實現安全、穩定、發展發揮建設性作用。（央視新聞）"
-    },
-    {
-      "id": "5001226",
-      "time": "2026-07-22 09:58:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數擴大漲幅，現漲2.0%，報67564.14點。"
-    },
-    {
-      "id": "5001225",
-      "time": "2026-07-22 09:57:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "香港上市的運動用品分銷商寶勝國際股價下跌近6%，此前耐克表示將收緊在中國的線上銷售。"
-    },
-    {
-      "id": "5001224",
-      "time": "2026-07-22 09:57:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全球文明研究院今天成立】今天（22日），由中國社會科學院設立的高階綜合性學術平臺——全球文明研究院正式成立，未來將實施全球文明倡議研究闡釋工程、編撰《文明交流互鑑藍皮書》、建設全球文明研究資料庫等，錨定國家戰略需求，在文明基礎理論、文明比較、人工智慧與全球文明發展等重點領域，持續推出高質量研究成果，不斷增強中華文明的國際影響力，為推動構建人類命運共同體提供思想基礎和智力支援。（央視新聞）"
-    },
-    {
-      "id": "5001223",
-      "time": "2026-07-22 09:57:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克回應OpenAI模型逃逸：令人不安，"
-    },
-    {
-      "id": "mkt:019f878a-2ed1-7aab-8e37-7e12d5b1d81f",
-      "time": "2026-07-22 09:56:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "09926.HK",
-        "Impact bullish",
-        "02359.HK",
-        "01877.HK"
-      ],
-      "text": "Hong Kong biotech shares rallied: Kangfang Bio (09926.HK) rose over 7%; Rongchang Bio (09995.HK) and Tigermed (03347.HK) gained more than 4% each; Junshi Biosciences (01877.HK), WuXi AppTec (02359.HK) and several peers advanced over 3%; NuoCheng Jianhua (09969.HK) and Fuhong Hanlin (02696.HK) also climbed. U.S. President Trump said on social media on July 21 that all imported generic drugs will continue to be subject to zero tariffs for two years starting Aug. 1, 2026; after that two-year period the products would face a 100% tariff for one year, then a 200% tariff thereafter."
-    },
-    {
-      "id": "te:markets:568679",
-      "time": "2026-07-22 09:56:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Trades at 2-Month High — US heating oil prices rose to around $4.10 per gallon, the highest level in two months, as concerns over deeper supply disruptions intensified. The US continued strikes on Iranian military targets for an 11th consecutive night, while Yemen’s Iran-aligned Houthis threatened attacks on Saudi oil vessels in the Bab el-Mandeb Strait and announced a naval blockade of Saudi Arabia. President Donald Trump also downplayed the chances of imminent negotiations with Iran and threatened expanded strikes. Beyond the Middle East, supply risks extended to the Black Sea, where attacks targeted the Caspian Pipeline Consortium terminal, a key outlet for Kazakhstan’s crude exports. Markets also faced tighter refined fuel supplies from continued Ukrainian attacks on Russian refineries following Moscow’s diesel export ban, while seasonal refinery maintenance and years of refinery closures in the US and Europe added further pressure."
-    },
-    {
-      "id": "5001222",
-      "time": "2026-07-22 09:56:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達20億港元。"
-    },
-    {
-      "id": "5001221",
-      "time": "2026-07-22 09:55:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【杭州銀行與恒生電子達成全面戰略合作】7月21日，杭州銀行與恒生電子在杭州簽署全面戰略合作協議。雙方將共同圍繞金融科技發展戰略，推動金融科技賦能業務快速創新，在財富管理、資產管理、金融市場、資產託管、企業金融等領域深化合作。同時，雙方將聯合在自主可控升級、大模型應用、新一代系統升級、場景金融IT解決方案等領域探索聯合創新，共同推動新技術應用的研究和落地，共建創新實驗室，為持續合作注入新動能。"
-    },
-    {
-      "id": "mkt:019f8788-0983-7aab-8e37-7336d9da9c34",
-      "time": "2026-07-22 09:54:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Newly listed N Qiaoluming jumps over 30% on debut. The company develops, manufactures and sells automotive trim; principal products are interior trim, exterior trim and associated molds."
     }
   ]
 }
