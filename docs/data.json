@@ -1,7 +1,231 @@
 {
-  "updated": "2026-07-30 02:50:49",
-  "count": 17574,
+  "updated": "2026-07-30 02:54:50",
+  "count": 17591,
   "items": [
+    {
+      "id": "te:economy:570850",
+      "time": "2026-07-30 02:54:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Non Farm Payrolls",
+        "Importance 1"
+      ],
+      "text": "Brazil Job Creation Tops Forecasts in June — Brazil created 145,161 formal jobs in June 2026, above market expectations of 115,000, up from 72,960 in May. The result reflected 2.22 million hires and 2.07 million layoffs during the month. All five major sectors posted net job gains, led by services (+74,514), followed by agriculture (+22,898), commerce (+19,177), industry (+14,438), and construction (+14,136). Regionally, 25 of Brazil's 27 states recorded positive job creation, led by São Paulo (+34,981), Minas Gerais (+20,805), and Rio de Janeiro (+16,856). Espírito Santo (-2,259) and Tocantins (-115) were the only states to post net job losses. In the first half of 2026, Brazil generated 921,645 formal jobs, lifting the total stock of formal employment to 48.03 million."
+    },
+    {
+      "id": "mkt:019faf3a-03d8-7aab-8ef5-099ea4a11443",
+      "time": "2026-07-30 02:54:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed's decision today is the beginning of the story, not the end."
+    },
+    {
+      "id": "5015051",
+      "time": "2026-07-30 02:53:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 傑克遜霍爾會議前，將與各專項工作組溝通磋商。"
+    },
+    {
+      "id": "mkt:019faf39-d82e-7aab-8ef5-058641d5c9a9",
+      "time": "2026-07-30 02:53:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "KEVIN WARSH, Federal Reserve chairman, said he hopes to frame major issues at the Jackson Hole meeting."
+    },
+    {
+      "id": "mkt:019faf39-8c46-7aab-8ef4-f92f383b3fe1",
+      "time": "2026-07-30 02:53:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair KEVIN WARSH said he has not yet begun considering the content of his Jackson Hole speech in August."
+    },
+    {
+      "id": "5015050",
+      "time": "2026-07-30 02:53:20",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：希望在傑克遜霍爾年會上丟擲核心議題。"
+    },
+    {
+      "id": "mkt:019faf39-0e86-7aab-8ef4-f6a71d7c99d7",
+      "time": "2026-07-30 02:52:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair Kevin Warsh said describing today’s decision as a pause would prompt markets to take the opposite view, and he would not characterize today’s action as a pause."
+    },
+    {
+      "id": "5015049",
+      "time": "2026-07-30 02:52:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：市場價格並沒有在美聯儲兩次貨幣政策會議之間暫停。美聯儲今天的決策是故事的開始，而不是結束。"
+    },
+    {
+      "id": "5015048",
+      "time": "2026-07-30 02:52:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 尚未著手構思傑克遜霍爾年會講話內容。"
+    },
+    {
+      "id": "5015047",
+      "time": "2026-07-30 02:52:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4100美元/盎司，日內漲1.78%。"
+    },
+    {
+      "id": "5015046",
+      "time": "2026-07-30 02:51:59",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 倘若將當前態勢定義為暫停（加息），金融市場將會做出反向解讀。"
+    },
+    {
+      "id": "mkt:019faf38-0906-7aab-8ef4-e89074e562d6",
+      "time": "2026-07-30 02:51:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said he is working to assess whether the scope of the shock's impact is widening."
+    },
+    {
+      "id": "mkt:019faf37-d096-7aab-8ef4-e1bac28e8c9d",
+      "time": "2026-07-30 02:51:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed is conducting a rigorous assessment of economic conditions."
+    },
+    {
+      "id": "5015045",
+      "time": "2026-07-30 02:51:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：不會看淡衝擊，也不會說“他們不重要”。正努力瞭解衝擊的影響範圍是否在擴大。"
+    },
+    {
+      "id": "mkt:019faf37-acfc-7aab-8ef4-d8478bc4da03",
+      "time": "2026-07-30 02:51:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said current shocks make the Fed's job more difficult."
+    },
+    {
+      "id": "mkt:019faf37-62c5-7aab-8ef4-d53ac12f3df3",
+      "time": "2026-07-30 02:51:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed is closely monitoring underlying inflation dynamics amid shocks and is assessing the extent to which those shocks are amplifying inflation."
+    },
+    {
+      "id": "5015044",
+      "time": "2026-07-30 02:51:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【塞爾維亞國民議會未透過對政府的不信任案】當地時間7月29日，塞爾維亞國民議會就反對派議員對現任總理馬楚特政府發起的不信任案進行投票。在經過三天議會辯論後，塞爾維亞議會176名議員參與投票，其中40人投票贊成該提案，135人投票反對，1人棄權。馬楚特於2025年4月16日出任塞爾維亞總理。（央視新聞）"
+    },
+    {
+      "id": "mkt:019faf37-3978-7aab-8ef4-cf3df00e4abe",
+      "time": "2026-07-30 02:50:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Spot gold tops $4,100/oz】Spot gold rose above $4,100/oz, up about $60 since the interest-rate decision."
+    },
+    {
+      "id": "5015043",
+      "time": "2026-07-30 02:50:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 當下各類衝擊令政策調控工作難度有所加大。"
+    },
+    {
+      "id": "5015042",
+      "time": "2026-07-30 02:50:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 這些衝擊在多大程度上推升通脹擴散蔓延？"
+    },
+    {
+      "id": "5015041",
+      "time": "2026-07-30 02:50:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我們的重點很大程度在於釐清各類衝擊之下潛在的通脹執行態勢。"
+    },
     {
       "id": "mkt:019faf36-92f4-7aab-8ef4-c5a207a06d40",
       "time": "2026-07-30 02:50:17",
@@ -9,6 +233,16 @@
         "MKT News"
       ],
       "text": "Federal Reserve Chair Kevin Warsh said the Fed will be judged on its performance."
+    },
+    {
+      "id": "5015040",
+      "time": "2026-07-30 02:50:14",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 若通脹在預測期內持續處於高位，利率調整或將是解決方案之一。"
     },
     {
       "id": "mkt:019faf36-4e20-7aab-8ef4-be6b9213e9d2",
@@ -161838,55 +162072,6 @@
         "DXY"
       ],
       "text": "【Iran urges Europe to condemn 'aggression', warns against allowing US use of bases】Iran's deputy foreign minister told ambassadors and chargés from 25 European countries that recent US military action had gained no strategic benefit and instead threatens regional and global peace and security. He urged European states to uphold the UN Charter and international law and to condemn what Tehran called 'aggression' against Iran. Tehran said some European countries, including Spain, have not followed the US position and have taken different approaches. It warned that any provision of bases or territory to the United States would be considered participation in the conflict. Iran added it inflicted heavy damage on the 'invaders' during a prior 40-day war and will continue to defend national interests in any new round of military operations."
-    },
-    {
-      "id": "mkt:019f8b2d-7108-7aab-8e50-2e7c76f7037e",
-      "time": "2026-07-23 02:53:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran says it will cut Gulf oil flows and strike energy, economic infrastructure if US follows through on threats】Iran’s Khatam al-Anbia central command said the Strait of Hormuz remains closed; vessels must transit via designated routes under previously announced arrangements. It warned that if the US follows through on threats, Iran will cut all oil flows from the Gulf and target regional oil, gas, power and economic infrastructure, saying repeated US threats risk widening the conflict regionally and beyond."
-    },
-    {
-      "id": "5002960",
-      "time": "2026-07-23 02:52:51",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "美方軍事介入後，今年從委內瑞拉石油銷售中創收超130億美元，卻幾乎未公開說明這筆資金的去向。"
-    },
-    {
-      "id": "5002959",
-      "time": "2026-07-23 02:52:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西貿易部長羅莎表示，巴西將持續與美國開展談判。"
-    },
-    {
-      "id": "5002958",
-      "time": "2026-07-23 02:52:13",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗最高聯合軍事指揮部：霍爾木茲海峽已關閉，任何過往船隻均須嚴格沿指定航道航行，並按我方安排行事。"
-    },
-    {
-      "id": "5002957",
-      "time": "2026-07-23 02:51:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長：任何針對伊基礎設施的攻擊都將招致強有力回應】伊朗外交部長阿拉格齊當地時間22日在其個人社交媒體上表示，伊朗的防禦原則非常明確：以牙還牙。阿拉格齊說，任何針對伊朗的侵略行為，包括對伊朗基礎設施的攻擊，都將招致強有力且堅決的回應。任何對這類侵略行為提供支援的人，無論其提供何種支援，都將被視為合法打擊目標。此外，伊朗伊斯蘭革命衛隊航空航天部隊司令馬吉德·穆薩維當天表示，如果伊朗的橋樑和發電站遭到攻擊，那麼美國盟友國家的電力供應必將斷絕。"
     }
   ]
 }

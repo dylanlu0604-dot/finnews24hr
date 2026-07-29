@@ -1,7 +1,231 @@
 {
   "date": "2026-07-30",
-  "count": 357,
+  "count": 379,
   "items": [
+    {
+      "id": "te:economy:570850",
+      "time": "2026-07-30 02:54:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Non Farm Payrolls",
+        "Importance 1"
+      ],
+      "text": "Brazil Job Creation Tops Forecasts in June — Brazil created 145,161 formal jobs in June 2026, above market expectations of 115,000, up from 72,960 in May. The result reflected 2.22 million hires and 2.07 million layoffs during the month. All five major sectors posted net job gains, led by services (+74,514), followed by agriculture (+22,898), commerce (+19,177), industry (+14,438), and construction (+14,136). Regionally, 25 of Brazil's 27 states recorded positive job creation, led by São Paulo (+34,981), Minas Gerais (+20,805), and Rio de Janeiro (+16,856). Espírito Santo (-2,259) and Tocantins (-115) were the only states to post net job losses. In the first half of 2026, Brazil generated 921,645 formal jobs, lifting the total stock of formal employment to 48.03 million."
+    },
+    {
+      "id": "mkt:019faf3a-03d8-7aab-8ef5-099ea4a11443",
+      "time": "2026-07-30 02:54:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed's decision today is the beginning of the story, not the end."
+    },
+    {
+      "id": "5015051",
+      "time": "2026-07-30 02:53:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 傑克遜霍爾會議前，將與各專項工作組溝通磋商。"
+    },
+    {
+      "id": "mkt:019faf39-d82e-7aab-8ef5-058641d5c9a9",
+      "time": "2026-07-30 02:53:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "KEVIN WARSH, Federal Reserve chairman, said he hopes to frame major issues at the Jackson Hole meeting."
+    },
+    {
+      "id": "mkt:019faf39-8c46-7aab-8ef4-f92f383b3fe1",
+      "time": "2026-07-30 02:53:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair KEVIN WARSH said he has not yet begun considering the content of his Jackson Hole speech in August."
+    },
+    {
+      "id": "5015050",
+      "time": "2026-07-30 02:53:20",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：希望在傑克遜霍爾年會上丟擲核心議題。"
+    },
+    {
+      "id": "mkt:019faf39-0e86-7aab-8ef4-f6a71d7c99d7",
+      "time": "2026-07-30 02:52:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair Kevin Warsh said describing today’s decision as a pause would prompt markets to take the opposite view, and he would not characterize today’s action as a pause."
+    },
+    {
+      "id": "5015049",
+      "time": "2026-07-30 02:52:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：市場價格並沒有在美聯儲兩次貨幣政策會議之間暫停。美聯儲今天的決策是故事的開始，而不是結束。"
+    },
+    {
+      "id": "5015048",
+      "time": "2026-07-30 02:52:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 尚未著手構思傑克遜霍爾年會講話內容。"
+    },
+    {
+      "id": "5015047",
+      "time": "2026-07-30 02:52:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4100美元/盎司，日內漲1.78%。"
+    },
+    {
+      "id": "5015046",
+      "time": "2026-07-30 02:51:59",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 倘若將當前態勢定義為暫停（加息），金融市場將會做出反向解讀。"
+    },
+    {
+      "id": "mkt:019faf38-0906-7aab-8ef4-e89074e562d6",
+      "time": "2026-07-30 02:51:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said he is working to assess whether the scope of the shock's impact is widening."
+    },
+    {
+      "id": "mkt:019faf37-d096-7aab-8ef4-e1bac28e8c9d",
+      "time": "2026-07-30 02:51:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed is conducting a rigorous assessment of economic conditions."
+    },
+    {
+      "id": "mkt:019faf37-acfc-7aab-8ef4-d8478bc4da03",
+      "time": "2026-07-30 02:51:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said current shocks make the Fed's job more difficult."
+    },
+    {
+      "id": "5015045",
+      "time": "2026-07-30 02:51:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：不會看淡衝擊，也不會說“他們不重要”。正努力瞭解衝擊的影響範圍是否在擴大。"
+    },
+    {
+      "id": "mkt:019faf37-62c5-7aab-8ef4-d53ac12f3df3",
+      "time": "2026-07-30 02:51:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed is closely monitoring underlying inflation dynamics amid shocks and is assessing the extent to which those shocks are amplifying inflation."
+    },
+    {
+      "id": "5015044",
+      "time": "2026-07-30 02:51:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【塞爾維亞國民議會未透過對政府的不信任案】當地時間7月29日，塞爾維亞國民議會就反對派議員對現任總理馬楚特政府發起的不信任案進行投票。在經過三天議會辯論後，塞爾維亞議會176名議員參與投票，其中40人投票贊成該提案，135人投票反對，1人棄權。馬楚特於2025年4月16日出任塞爾維亞總理。（央視新聞）"
+    },
+    {
+      "id": "mkt:019faf37-3978-7aab-8ef4-cf3df00e4abe",
+      "time": "2026-07-30 02:50:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Spot gold tops $4,100/oz】Spot gold rose above $4,100/oz, up about $60 since the interest-rate decision."
+    },
+    {
+      "id": "5015043",
+      "time": "2026-07-30 02:50:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 當下各類衝擊令政策調控工作難度有所加大。"
+    },
+    {
+      "id": "5015042",
+      "time": "2026-07-30 02:50:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 這些衝擊在多大程度上推升通脹擴散蔓延？"
+    },
+    {
+      "id": "5015041",
+      "time": "2026-07-30 02:50:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我們的重點很大程度在於釐清各類衝擊之下潛在的通脹執行態勢。"
+    },
     {
       "id": "mkt:019faf36-92f4-7aab-8ef4-c5a207a06d40",
       "time": "2026-07-30 02:50:17",
@@ -9,6 +233,16 @@
         "MKT News"
       ],
       "text": "Federal Reserve Chair Kevin Warsh said the Fed will be judged on its performance."
+    },
+    {
+      "id": "5015040",
+      "time": "2026-07-30 02:50:14",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 若通脹在預測期內持續處於高位，利率調整或將是解決方案之一。"
     },
     {
       "id": "mkt:019faf36-4e20-7aab-8ef4-be6b9213e9d2",
