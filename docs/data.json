@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-30 00:51:16",
-  "count": 17429,
+  "updated": "2026-07-30 00:55:10",
+  "count": 17427,
   "items": [
+    {
+      "id": "5014913",
+      "time": "2026-07-30 00:52:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客執行長： 法德未來空中作戰系統（FCAS）專案合作破裂後，現階段談論下一代戰機方案為時尚早。"
+    },
+    {
+      "id": "5014912",
+      "time": "2026-07-30 00:52:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：隨著中期選舉臨近，美國共和黨人開始考慮再次上調債務上限。"
+    },
+    {
+      "id": "5014911",
+      "time": "2026-07-30 00:51:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安表示，有關解散庫爾德工人黨（PKK）的相關法案將於近日提交至議會審議。"
+    },
+    {
+      "id": "5014910",
+      "time": "2026-07-30 00:51:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客執行長： 公司資產負債表狀況穩健，足以支撐旗下各項專案；就目前而言，其並未考慮申請政府扶持資金。"
+    },
+    {
+      "id": "mkt:019faec9-bb87-7aab-8ef0-24376ccd51f5",
+      "time": "2026-07-30 00:51:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Politico reports Republican lawmakers, ahead of US midterm elections, are again considering raising the US debt ceiling."
+    },
     {
       "id": "5014909",
       "time": "2026-07-30 00:49:39",
@@ -160123,70 +160169,6 @@
         "國際"
       ],
       "text": "【共和黨釋出加密貨幣法案新版文字，納入特朗普認可的公職人員道德約束條款】美國參議院共和黨議員於週三對外分發這份里程碑式加密貨幣監管法案修訂稿，在擬於下週全院表決前，更新了《清晰法案》條文。這份新法案文字若要在參議院獲得透過，需要跨黨派支援，但目前尚無任何民主黨議員簽署認可。法案計劃全面重構聯邦金融監管規則，為加密貨幣交易建立合規框架。這份長達616頁的草案包含白宮認可的公職人員道德約束條款，針對聯邦官員參與數字資產相關活動設立全新規範。長期以來，民主黨一直要求加密貨幣法案增設道德約束條款，以回應市場對特朗普家族經營高額盈利加密貨幣業務的利益衝突擔憂；但民主黨已釋放訊號，認為共和黨目前敲定的這套約束力度不足，不足以換取其支援。該道德條款由共和黨參議員與白宮協商達成，當前仍未獲得任何民主黨議員認可。"
-    },
-    {
-      "id": "mkt:019f8ac0-4ade-7aab-8e4e-37cca2380d2c",
-      "time": "2026-07-23 00:54:45",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Gulf Cooperation Council secretary-general condemned Houthi militants' hostile rhetoric toward Saudi Arabia and their threat to close the Bab el-Mandeb Strait."
-    },
-    {
-      "id": "5002873",
-      "time": "2026-07-23 00:53:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：當地時間週三凌晨，德黑蘭防空部隊探測並擊落了一架敵方無人機。"
-    },
-    {
-      "id": "5002872",
-      "time": "2026-07-23 00:53:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：週三凌晨德黑蘭省沒有任何地點遭到襲擊；首都部分割槽域傳出類似爆炸的巨響，是伊朗啟用新型重型防空火炮系統所致。"
-    },
-    {
-      "id": "5002871",
-      "time": "2026-07-23 00:52:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局：加強對從印度進口的辣木粉進行沙門氏菌篩查。"
-    },
-    {
-      "id": "5002870",
-      "time": "2026-07-23 00:52:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏總統與美總統特使討論烏俄恢復談判可能性事宜】烏克蘭總統澤連斯基當天與美國總統特使威特科夫和庫什納討論了與俄羅斯恢復談判的可能性。隨後，烏克蘭總統通訊事務顧問德米特里·利特溫確認了澤連斯基與美方當天進行了通話。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f8abd-d62a-7aab-8e4e-2ef3b4ab11ca",
-      "time": "2026-07-23 00:52:04",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "GCC secretary-general said the international community must take a firm stance against Houthi threats to shipping."
-    },
-    {
-      "id": "mkt:019f8abd-c8c1-7aab-8e4e-218dfc0a30d3",
-      "time": "2026-07-23 00:52:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Gulf Cooperation Council secretary-general condemned the Houthi armed group's accusations against Saudi Arabia."
     }
   ]
 }

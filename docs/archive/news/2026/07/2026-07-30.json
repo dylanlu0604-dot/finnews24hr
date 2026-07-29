@@ -1,7 +1,53 @@
 {
   "date": "2026-07-30",
-  "count": 52,
+  "count": 57,
   "items": [
+    {
+      "id": "5014913",
+      "time": "2026-07-30 00:52:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客執行長： 法德未來空中作戰系統（FCAS）專案合作破裂後，現階段談論下一代戰機方案為時尚早。"
+    },
+    {
+      "id": "5014912",
+      "time": "2026-07-30 00:52:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：隨著中期選舉臨近，美國共和黨人開始考慮再次上調債務上限。"
+    },
+    {
+      "id": "5014911",
+      "time": "2026-07-30 00:51:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安表示，有關解散庫爾德工人黨（PKK）的相關法案將於近日提交至議會審議。"
+    },
+    {
+      "id": "5014910",
+      "time": "2026-07-30 00:51:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客執行長： 公司資產負債表狀況穩健，足以支撐旗下各項專案；就目前而言，其並未考慮申請政府扶持資金。"
+    },
+    {
+      "id": "mkt:019faec9-bb87-7aab-8ef0-24376ccd51f5",
+      "time": "2026-07-30 00:51:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Politico reports Republican lawmakers, ahead of US midterm elections, are again considering raising the US debt ceiling."
+    },
     {
       "id": "5014909",
       "time": "2026-07-30 00:49:39",
