@@ -1,7 +1,90 @@
 {
-  "updated": "2026-07-30 03:57:21",
-  "count": 17749,
+  "updated": "2026-07-30 04:01:13",
+  "count": 17752,
   "items": [
+    {
+      "id": "5015183",
+      "time": "2026-07-30 04:00:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "GE醫療集團股價收盤上漲12%，創下單日漲幅紀錄。"
+    },
+    {
+      "id": "5015182",
+      "time": "2026-07-30 04:00:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國晶片股指數遭遇自2025年4月以來最嚴重的五日暴跌。"
+    },
+    {
+      "id": "5015181",
+      "time": "2026-07-30 04:00:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "費城半導體指數連續5天下跌，跌幅達16%。"
+    },
+    {
+      "id": "5015180",
+      "time": "2026-07-30 04:00:13",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "高通預計第四季度營收為97億美元至105億美元，此前預期為99.5億美元。"
+    },
+    {
+      "id": "5015179",
+      "time": "2026-07-30 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲1.69%】新東方漲15.18%，寶尊電商漲6.40%，高途漲6.21%，中進醫療漲5.47%，理想汽車漲4.47%。"
+    },
+    {
+      "id": "5015178",
+      "time": "2026-07-30 03:59:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬斯克企業獲美太空軍16億美元合同】美國太空軍當地時間7月29日宣佈，美國太空探索技術公司（SpaceX）最新獲得一份價值16億美元的合同，將在2027年底前執行18次“獵鷹9”號火箭發射任務，搭載用於探測和追蹤空中目標的軍用衛星升空。"
+    },
+    {
+      "id": "5015177",
+      "time": "2026-07-30 03:59:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克綜合指數較6月1日盤中歷史高點下跌10%，進入回撥區間。"
+    },
+    {
+      "id": "5015176",
+      "time": "2026-07-30 03:58:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數跌幅擴大至2%，標普500指數下跌1.5%。"
+    },
+    {
+      "id": "mkt:019faf73-c274-7aab-8ef8-4fb43edd6d02",
+      "time": "2026-07-30 03:57:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Saudi Arabia is seeking to form an international coalition to protect Red Sea shipping from Houthi militant attacks, two people with knowledge said. The coalition's membership remains undecided as Riyadh holds talks with dozens of countries."
+    },
     {
       "id": "5015175",
       "time": "2026-07-30 03:56:35",
@@ -163656,65 +163739,6 @@
         "Brent"
       ],
       "text": "President Trump said oil prices will fall sharply; although some prices remain elevated, oil has already begun to retreat."
-    },
-    {
-      "id": "mkt:019f8b6a-b9ac-7aab-8e51-3183f4fbab13",
-      "time": "2026-07-23 04:00:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "CENTCOM said the IRGC navy’s claim today that it controls approaches to the Strait of Hormuz and that international crews must use IRGC-designated routes is false."
-    },
-    {
-      "id": "5003011",
-      "time": "2026-07-23 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.01%，標普500指數跌0.14%，納指跌0.57%。GEV跌8.50%，現在服務跌6.47%，PTC Inc.跌6.34%，工時公司跌6.20%，Palantir Technologies跌6.10%。“七姐妹”方面：英偉達漲2.30%，蘋果跌0.55%，亞馬遜跌1.09%，谷歌跌1.22%，特斯拉跌1.30%，微軟跌1.86%，Meta Platforms跌2.60%。"
-    },
-    {
-      "id": "5003010",
-      "time": "2026-07-23 04:00:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：布魯克菲爾德將從黑石集團收購電池企業 AYPA。"
-    },
-    {
-      "id": "5003009",
-      "time": "2026-07-23 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌1.82%】網易跌6.45%，小鵬汽車跌3.60%，Tims中國跌3.41%，康迪車業跌3.19%，嗶哩嗶哩跌3.15%。"
-    },
-    {
-      "id": "5003008",
-      "time": "2026-07-23 03:59:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普：即便你們當下花銷略有上漲，但諸多物價已然大幅回落。"
-    },
-    {
-      "id": "mkt:019f8b68-2706-7aab-8e51-2dcfb89fd413",
-      "time": "2026-07-23 03:58:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Global oil prices rose on the 22nd】NYMEX light sweet crude futures for September delivery rose $2.49 to settle at $86.83/bbl at the close, up 2.95% on the day. ICE Brent futures for September delivery rose $3.06 to settle at $94.07/bbl at the close, up 3.36%."
     }
   ]
 }
