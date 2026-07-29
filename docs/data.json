@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-30 07:30:04",
-  "count": 17793,
+  "updated": "2026-07-30 07:34:03",
+  "count": 17790,
   "items": [
+    {
+      "id": "mkt:019fb039-69d6-7aab-8efb-4f7c0a77d520",
+      "time": "2026-07-30 07:33:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "ASML.AS",
+        "Impact bearish",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Securities Times: Supply-chain resilience is A-shares' defensive moat】Since July, sharp overseas market weakness and imported shocks have increased volatility in A-shares. A recent rumor of a domestic lithography-machine R&D breakthrough sent ASML shares lower and pushed related A-share sectors higher. Market moves suggest greater supply-chain autonomy is reducing A-shares' sensitivity to external shocks and helping form a defensive moat. China has a near-complete industrial system, a large engineering workforce and deep end-market demand; domestic substitution is shifting from single-point wins toward coordinated full-chain progress. Continued industrial-chain improvement should raise listed companies' long-term growth value and resilience to external risk. Investors should temper valuation assumptions for “industrial-chain security”: the direction is clear, but the process may be uneven."
+    },
+    {
+      "id": "5015387",
+      "time": "2026-07-30 07:31:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【高通預測第四財季利潤遜於華爾街預期，蘋果業務營收料加快下滑】高通公司預測第四財季利潤將低於華爾街預期，並表示受供應限制和成本上升影響，來自蘋果相關業務的營收將比預期更快下降。高通股價在盤後交易中下跌逾3%。高通執行長安蒙(Cristiano Amon)在接受媒體採訪時表示，不僅儲存晶片成本上升，整個供應鏈的成本都在上漲。他表示，高通計劃從9月1日起提價，以推動利潤率恢復到歷史水平。“我們只是將所面臨的大幅成本上漲轉嫁出去，”安蒙表示，並指出高通必須與每位客戶進行談判。“成本與定價之間暫時脫節，導致毛利率暫時出現小幅下滑。”高通還表示，隨著供應受限，其在下一代iPhone中的零部件份額將遠低於此前預計的20%，因此來自蘋果業務的營收從第四財季開始將更快下滑。對於2027財年，高通預計其晶片銷售收入的大部分將來自智慧手機以外的領域。“某種程度上，我們是用資料中心業務取代了蘋果業務，”安蒙表示。高通預計第四財季經調整後每股收益將在2.05至2.25美元之間，低於分析師平均預期的2.36美元。高通預計第四財季營收在97億至105億美元之間，分析師的預期為100.2億美元。其晶片業務部門的營收預計在84億至90億美元之間，分析師預期為84.9億美元。"
+    },
     {
       "id": "5015386",
       "time": "2026-07-30 07:29:10",
@@ -164060,52 +164084,6 @@
         "國際"
       ],
       "text": "【中信建投：6月化工品出口同比延續高位】中信建投研報指出，6月化工品出口同比延續高位：化工品6月出口金額3025億元，同比+22.7%，環比+3.4%；1-6月累計出口金額16045億元，同比+13.7%。分章節看，塑膠及其製品出口1120億元，同比+24.0%，有機化學品出口686億元，同比+40.0%，兩者合計貢獻當月約74%出口增量。分國家/地區看，對印度出口化工品同比+46.6%，對韓國出口+42.7%，對俄羅斯出口+33.0%，三者出口增速居前。石化、煤化工板塊維持大幅放量，丁二烯（+266817%）、醋酸乙烯（+1035%）、乙二醇（+1020%）單月出口量同比漲幅居前。"
-    },
-    {
-      "id": "5003186",
-      "time": "2026-07-23 07:33:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【液冷技術關注度升溫 A股液冷產業鏈公司業績分化明顯】隨著算力新基建超節點密集湧現，其背後的液冷技術關注度升溫。A股液冷產業鏈公司披露的2026年半年度業績預告顯示，冷板式液冷零部件供應商業績兌現明顯，而浸沒式液冷及資料中心運營配套環節仍處投入爬坡期，行業呈現出“技術熱”與“業績分化”並存的特徵。冷板式液冷環節，多家企業上半年淨利潤實現同比大幅增長。金富科技預計淨利潤9000萬元至1億元，同比增長81.41%至101.57%。飛榮達預計淨利潤2.4億元至2.6億元，同比增長44.5%至56.54%。相比之下，涉足液冷但主業承壓或配套業務仍在投入期的企業，業績表現偏弱。飛龍股份預計今年上半年淨利潤6800萬元至8000萬元，同比下降61.98%至67.69%。佳力圖預計今年上半年續虧7500萬元至6300萬元。"
-    },
-    {
-      "id": "5003185",
-      "time": "2026-07-23 07:31:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【超節點建設週期開啟 上市公司持續加碼矽光賽道】7月22日，中際旭創啟動港股招股，預計募資545億港元，用於光互連產品研發、全球產能擴充等。7月15日，仕佳光子披露28億元定增預案，擬募資加碼光互連元件建設等專案。光互連，這個一年前還略顯生僻的技術詞彙，正成為算力產業鏈最擁擠的賽道之一。熱潮背後，是AI（人工智慧）產業演進帶來的剛性需求。隨著AI步入推理時代，萬億引數大模型持續迭代、超節點建設週期開啟，光互連技術具備高頻寬、低功耗、高並行、可拓展等優勢備受關注。當前國產光互連生態正在結盟產業鏈上下游廠商，上市公司也持續加碼矽光賽道。"
-    },
-    {
-      "id": "5003184",
-      "time": "2026-07-23 07:31:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【胡塞武裝稱襲擊紅海的兩艘油輪 美伊戰火有外溢跡象】曾揚言要在伊朗戰爭中開闢另一條戰線的葉門胡塞武裝宣稱，已鎖定紅海的兩艘油輪發動攻擊。就在胡塞武裝週三發表宣告前幾分鐘，英國海事貿易行動辦公室(UKMTO)表示，一艘油輪的船長報告，該船在沙特紅海沿岸的Al Shuqaiq西南方遭到襲擊。沙特尚未對此攻擊事件發表評論。由於霍爾木茲海峽航運受阻，紅海已成為原油出口的重要替代通道，尤其是沙特的原油出口。布倫特原油大漲，突破每桶95美元，美國原油週四早盤交易一度上漲1.8%，交易價格超過每桶88美元。船隻在紅海遇襲的訊息傳出後不久，美國中央司令部宣佈，已經對伊朗發動更多空襲，這是美軍本輪軍事行動的第12個夜晚。中央司令部在宣告中表示：“這項任務將持續削弱伊朗威脅通行區域水域的民用船員及商船的能力。”"
-    },
-    {
-      "id": "mkt:019f8c2b-2393-7aab-8e54-754e8a72c20f",
-      "time": "2026-07-23 07:31:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "According to Korea's JoongAng Ilbo, Samsung Electronics and SK Hynix reported an average operating profit margin of 69% in Q1, versus 8% for other chip-related firms."
-    },
-    {
-      "id": "5003183",
-      "time": "2026-07-23 07:30:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【基石藥業-B(02616)獲執行董事楊建新及高管增持242.05萬股】基石藥業-B(02616)釋出公告，本公司獲執行長、研發總裁兼執行董事楊建新(楊博士)、其他董事及高階管理層告知，彼等已於2026年6月在公開市場上合共購買 242.05萬股股份(本次股份增持)，其中楊博士購買了123.75萬股股份。自2022年8月擔任執行長以來，楊博士已於公開市場累計購買合共1371.45萬股股份。該等股份增持後，截止本公告日期，楊博士持有合共相當於本公司已發行股本總額約5.26%的股份。"
     }
   ]
 }
