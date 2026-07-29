@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-29 23:51:04",
-  "count": 17448,
+  "updated": "2026-07-29 23:54:58",
+  "count": 17449,
   "items": [
+    {
+      "id": "mkt:019fae95-9d1a-7aab-8eef-806fe2453ea7",
+      "time": "2026-07-29 23:54:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Maritime security firm Ambrey says no organization has claimed responsibility for the incident and there are no reported casualties or damage to port infrastructure so far."
+    },
+    {
+      "id": "5014884",
+      "time": "2026-07-29 23:54:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "安佈雷海事風險諮詢公司： 目前尚無任何組織宣稱對此次襲擊負責，暫無人員傷亡報告，港口基礎設施也未出現受損情況。"
+    },
+    {
+      "id": "mkt:019fae95-3820-7aab-8eef-7e8ca5bf271f",
+      "time": "2026-07-29 23:54:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Maritime security firm Ambrey said a U.S.-operated, Marshall Islands-flagged LNG floating storage unit (FSU) was hit by at least one drone while berthed at Egypt's Damietta port."
+    },
+    {
+      "id": "mkt:019fae95-3695-7aab-8eef-75c204fa426f",
+      "time": "2026-07-29 23:54:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Daiwa: Fed statement likely to remain largely unchanged】Daiwa Capital Markets chief US economist Lawrence Werther said ahead of Fed chair KEVIN WARSH's news conference today that the Fed statement is expected to be largely unchanged. He prefers the C.BANK will stand pat, expects Warsh to maintain his forward-guidance stance while possibly marginally softening his view on inf, and said markets will watch whether Warsh will continue holding these news conferences."
+    },
+    {
+      "id": "5014883",
+      "time": "2026-07-29 23:52:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "安佈雷海事風險諮詢公司訊息：一艘由美國擁有並運營、懸掛馬紹爾群島船旗的液化天然氣浮式儲存裝置，在埃及達米埃塔港停靠期間遭至少一架無人機襲擊。"
+    },
     {
       "id": "mkt:019fae91-ce18-7aab-8eef-6f24245ff8d1",
       "time": "2026-07-29 23:50:18",
@@ -160281,43 +160330,6 @@
         "Importance 1"
       ],
       "text": "DAX 40 Rises to 2-Week High — Frankfurt's DAX 40 gained 0.7% to nearly 25,200 on Wednesday, its highest level in two weeks, as strong corporate earnings and upbeat guidance outweighed concerns over higher oil prices and the inflationary risks linked to escalating tensions in the Middle East. Airbus surged 6.9% after the aircraft manufacturer unveiled ambitious profit targets through 2029, citing sustained demand for commercial jets, while also announcing an earlier-than-expected share buyback program. The optimistic outlook also supported MTU Aero Engines, which rose more than 1%. Elsewhere, Gea jumped over 5% after the industrial equipment maker upgraded its full-year guidance on the back of stronger-than-expected quarterly results. Investors also looked ahead to Thursday's European Central Bank policy meeting, where officials are widely expected to leave interest rates unchanged following June's increase."
-    },
-    {
-      "id": "5002828",
-      "time": "2026-07-22 23:54:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【海上安全機構警示：胡塞武裝完成準備，擬襲擊曼德海峽通航船舶】由美國海軍牽頭的海上安全機構稱，葉門受伊朗支援的胡塞武裝已完成相關準備，準備襲擊途經紅海南部入口的船舶。聯合海上資訊中心週二向航海人員釋出通告表示：“接近該武裝的訊息人士稱，胡塞武裝已完成襲擊航運船隻的籌備工作，在曼德海峽周邊部署導彈與無人機。”"
-    },
-    {
-      "id": "te:markets:568931",
-      "time": "2026-07-22 23:52:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Rises to Over 3-Month High — The FTSE 100 climbed more than 1% to above 10,700 on Wednesday, reaching its highest level since March 2, as broad-based gains across banks, healthcare, energy and mining stocks lifted the index. HSBC advanced more than 2%, while Lloyds Banking and Barclays gained over 1.5% and 1%, respectively. Healthcare stocks also strengthened, with AstraZeneca rising 1.7% and GSK adding 0.8%. Oil majors Shell and BP gained 1.4% and 2.1% as crude prices extended their rally amid ongoing tensions between the US and Iran. Mining shares outperformed, with Endeavour Mining surging 5%, Fresnillo climbing 3.5% and Antofagasta adding 2.6%. Investors also assessed softer-than-expected UK inflation data, which showed consumer prices rose 2.6% in June as lower petrol, food and clothing prices eased inflationary pressures. In the FTSE 250, EasyJet tumbled more than 11% after reports that the European Union could review airline ownership rules, potentially complicating the company's takeover."
-    },
-    {
-      "id": "5002827",
-      "time": "2026-07-22 23:52:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美威脅打擊伊朗地下核設施 伊朗批美為侵略找藉口】美國總統特朗普22日說，伊朗每次在霍爾木茲海峽向船隻開火，美國就將轟炸並摧毀伊朗一座橋樑或發電廠，包括德黑蘭市內及周邊此類設施。此前一天，他還宣稱美國“可能很快”打擊伊朗鎬山地下核設施。伊朗外交部發言人巴加埃否認鎬山存在任何核活動，稱美方“執迷”於鎬山話題只是為侵略伊朗編造藉口。（新華社）"
-    },
-    {
-      "id": "5002826",
-      "time": "2026-07-22 23:51:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：在經歷了11個夜晚的轟炸後，這種轟炸的規模是該政權前所未見的，他們（伊朗）突然開始乞求和平。太晚了。"
     }
   ]
 }

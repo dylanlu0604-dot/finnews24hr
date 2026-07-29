@@ -1,7 +1,56 @@
 {
   "date": "2026-07-29",
-  "count": 3063,
+  "count": 3068,
   "items": [
+    {
+      "id": "mkt:019fae95-9d1a-7aab-8eef-806fe2453ea7",
+      "time": "2026-07-29 23:54:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Maritime security firm Ambrey says no organization has claimed responsibility for the incident and there are no reported casualties or damage to port infrastructure so far."
+    },
+    {
+      "id": "5014884",
+      "time": "2026-07-29 23:54:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "安佈雷海事風險諮詢公司： 目前尚無任何組織宣稱對此次襲擊負責，暫無人員傷亡報告，港口基礎設施也未出現受損情況。"
+    },
+    {
+      "id": "mkt:019fae95-3820-7aab-8eef-7e8ca5bf271f",
+      "time": "2026-07-29 23:54:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Maritime security firm Ambrey said a U.S.-operated, Marshall Islands-flagged LNG floating storage unit (FSU) was hit by at least one drone while berthed at Egypt's Damietta port."
+    },
+    {
+      "id": "mkt:019fae95-3695-7aab-8eef-75c204fa426f",
+      "time": "2026-07-29 23:54:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Daiwa: Fed statement likely to remain largely unchanged】Daiwa Capital Markets chief US economist Lawrence Werther said ahead of Fed chair KEVIN WARSH's news conference today that the Fed statement is expected to be largely unchanged. He prefers the C.BANK will stand pat, expects Warsh to maintain his forward-guidance stance while possibly marginally softening his view on inf, and said markets will watch whether Warsh will continue holding these news conferences."
+    },
+    {
+      "id": "5014883",
+      "time": "2026-07-29 23:52:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "安佈雷海事風險諮詢公司訊息：一艘由美國擁有並運營、懸掛馬紹爾群島船旗的液化天然氣浮式儲存裝置，在埃及達米埃塔港停靠期間遭至少一架無人機襲擊。"
+    },
     {
       "id": "mkt:019fae91-ce18-7aab-8eef-6f24245ff8d1",
       "time": "2026-07-29 23:50:18",
