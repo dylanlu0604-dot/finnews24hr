@@ -1,7 +1,144 @@
 {
-  "updated": "2026-07-29 23:11:34",
-  "count": 17461,
+  "updated": "2026-07-29 23:15:27",
+  "count": 17464,
   "items": [
+    {
+      "id": "mkt:019fae71-304c-7aab-8eee-b37fb13fa8f3",
+      "time": "2026-07-29 23:14:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romania will shut its second nuclear reactor on Thursday due to low Danube river levels."
+    },
+    {
+      "id": "5014860",
+      "time": "2026-07-29 23:14:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Gemini MACOS語音模式啟用智慧聽寫功能。Gemini語音功能支援螢幕上下文推理。"
+    },
+    {
+      "id": "mkt:019fae70-e460-7aab-8eee-ab22c1a894a2",
+      "time": "2026-07-29 23:14:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Google says GEMINI voice feature supports screen-context reasoning."
+    },
+    {
+      "id": "mkt:019fae70-c453-7aab-8eee-a0aa1dcaeba5",
+      "time": "2026-07-29 23:14:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Google enables smart dictation in GEMINI macOS voice mode."
+    },
+    {
+      "id": "mkt:019fae70-8e8a-7aab-8eee-9f26c867069d",
+      "time": "2026-07-29 23:13:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Mexico's benchmark stock index fell 1.2% ahead of the Federal Reserve's interest-rate decision."
+    },
+    {
+      "id": "mkt:019fae70-2940-7aab-8eee-94ef3ea92762",
+      "time": "2026-07-29 23:13:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: US refinery crude oil net inputs rose last week to the highest level since September 2019."
+    },
+    {
+      "id": "mkt:019fae6f-f757-7aab-8eee-8ab7e23fa23c",
+      "time": "2026-07-29 23:13:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. Gulf Coast crude inventories fell last week to their lowest level since June 2025."
+    },
+    {
+      "id": "mkt:019fae6f-6bc3-7aab-8eee-872638b20b74",
+      "time": "2026-07-29 23:12:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. refinery utilization climbed last week to its highest level since December 2018."
+    },
+    {
+      "id": "5014859",
+      "time": "2026-07-29 23:12:33",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲決議出爐前，墨西哥主要股指下跌 1.2%。"
+    },
+    {
+      "id": "mkt:019fae6e-ed6a-7aab-8eee-79f0714f8f5f",
+      "time": "2026-07-29 23:12:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. Midwest refinery utilization rose last week to its highest level since December 2023."
+    },
+    {
+      "id": "mkt:019fae6e-6d91-7aab-8eee-75942effad90",
+      "time": "2026-07-29 23:11:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. four-week average jet fuel supplies rose to a record high last week."
+    },
+    {
+      "id": "te:markets:570815",
+      "time": "2026-07-29 23:11:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls as Geopolitical Tensions Escalate — The Ibovespa fell nearly 1% to trade below 175,500 on Wednesday amid fresh Middle East tensions, while markets eased exposure to risk ahead of a Federal Reserve decision. Oil prices rose after joint US-Saudi strikes in Iraq, fueling inflation concerns. The Fed is expected to leave rates unchanged, although hawkish statements from FOMC members supported possible dissents for a hike. Financials led the decline, with Itaú, Bradesco, and Itaúsa down about 2%, while Santander tumbled 7% after missing ROE expectations. Utilities also weakened, with Axia down more than 1% and Sabesp losing 2%. Ambev erased earlier gains to trade slightly lower after surging as much as 16% on strong profit and EBITDA. WEG (-1%) and Rede D'Or (-2.5%) also declined. In contrast, Petrobras gained nearly 2.5% on higher oil prices and after Morgan Stanley reaffirmed its Overweight rating, citing expectations of strong second-quarter results following the company's production update."
+    },
     {
       "id": "mkt:019fae6d-a611-7aab-8eee-6d84ba47d0b4",
       "time": "2026-07-29 23:10:49",
@@ -160316,84 +160453,6 @@
         "國際"
       ],
       "text": "【美國2至5年期國債收益率升至2026年高點 市場情緒惡化】美國2年期和5年期國債收益率週三均上升逾4個基點，升至一年多來的最高水平，且並無明顯誘因，顯示市場情緒惡化可能是背後推手。2年期美債收益率升逾4.30%，3年期升至4.34%，5年期升至4.40%，均為2025年2月以來首次；10年期美債收益率升逾4.65%，距離其5月19日創下的年內高點僅差2個基點。市場對美聯儲加息的隱含預期繼續升溫，7月隔夜指數互換合約已消化約8個基點的收緊幅度，意味著一次25個基點加息的可能性約三分之一；2027年合約顯示，到年中，加息兩次的可能性已達100%，而且還有些許第三次加息的可能性。"
-    },
-    {
-      "id": "mkt:019f8a64-8387-7aab-8e4c-ac823cb719af",
-      "time": "2026-07-22 23:14:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Analyst: Gold extends gains on softer dollar, technical buying】Gold extended gains as investors tracked Middle East developments, buoyed by a softer dollar and technical buying. A Sukdun Financial analyst said markets are likely to remain headline-driven in the near term; any credible de-escalation would ease pressure on yields and the dollar, but as long as oil stays elevated markets may continue to price an inflation premium into interest rates despite recent weak CPI."
-    },
-    {
-      "id": "5002787",
-      "time": "2026-07-22 23:14:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度與巴拿馬舉行雙邊會談，磋商海上夥伴關係相關事宜。"
-    },
-    {
-      "id": "5002786",
-      "time": "2026-07-22 23:14:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局提議對南方航空快運處以5萬美元罰款。"
-    },
-    {
-      "id": "5002785",
-      "time": "2026-07-22 23:13:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：將支援立法在美墨加協定中納入旅遊與觀光業工作組。"
-    },
-    {
-      "id": "mkt:019f8a63-82f6-7aab-8e4c-a456a0cd1947",
-      "time": "2026-07-22 23:13:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative Greer said she will support legislation to establish a tourism and travel working group under the USMCA."
-    },
-    {
-      "id": "mkt:019f8a63-6766-7aab-8e4c-99777f440d13",
-      "time": "2026-07-22 23:13:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India and Panama held bilateral talks on maritime cooperation."
-    },
-    {
-      "id": "5002784",
-      "time": "2026-07-22 23:12:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：我們更願意與各國就確保航空航天供應鏈安全進行談判，第232條款調查正由商務部處理。"
-    },
-    {
-      "id": "mkt:019f8a62-5dfd-7aab-8e4c-92fe0184a638",
-      "time": "2026-07-22 23:12:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative Greer said the U.S. prefers negotiating with other countries to secure aerospace supply chains, and that Section 232 investigations are handled by the Commerce Department."
-    },
-    {
-      "id": "5002783",
-      "time": "2026-07-22 23:11:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【微生物所李明團隊合作揭示CRISPR-Cas調控細菌先天免疫的協同新機制】7月22日，中國科學院微生物研究所（簡稱“微生物所”）李明團隊和密歇根大學張燕團隊合作，在Nature上發表題為“CRISPR-Cas regulates expression of embedded anti-phage defence systems”的研究論文。該研究首次系統揭示了原核生物中適應性免疫與先天免疫之間的協同調控機制，為理解生命免疫系統的演化與互作提供了全新視角。該研究不僅在原核生命層面首次提出了兩種免疫相互協同和守衛的理論框架，而且基於該原創理論建立了新型免疫系統的全新發掘路徑，並系統性鑑定出一系列新型免疫元件，包括原核Caspase蛋白酶、新型核酸酶等。這些新元件的發現，不僅為深入理解和干預高等生命的先天免疫提供了新知識和新工具，也有望為底層分子技術的創新提供關鍵元件資源。"
     }
   ]
 }

@@ -1,7 +1,144 @@
 {
   "date": "2026-07-29",
-  "count": 3007,
+  "count": 3019,
   "items": [
+    {
+      "id": "mkt:019fae71-304c-7aab-8eee-b37fb13fa8f3",
+      "time": "2026-07-29 23:14:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romania will shut its second nuclear reactor on Thursday due to low Danube river levels."
+    },
+    {
+      "id": "5014860",
+      "time": "2026-07-29 23:14:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Gemini MACOS語音模式啟用智慧聽寫功能。Gemini語音功能支援螢幕上下文推理。"
+    },
+    {
+      "id": "mkt:019fae70-e460-7aab-8eee-ab22c1a894a2",
+      "time": "2026-07-29 23:14:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Google says GEMINI voice feature supports screen-context reasoning."
+    },
+    {
+      "id": "mkt:019fae70-c453-7aab-8eee-a0aa1dcaeba5",
+      "time": "2026-07-29 23:14:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Google enables smart dictation in GEMINI macOS voice mode."
+    },
+    {
+      "id": "mkt:019fae70-8e8a-7aab-8eee-9f26c867069d",
+      "time": "2026-07-29 23:13:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Mexico's benchmark stock index fell 1.2% ahead of the Federal Reserve's interest-rate decision."
+    },
+    {
+      "id": "mkt:019fae70-2940-7aab-8eee-94ef3ea92762",
+      "time": "2026-07-29 23:13:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: US refinery crude oil net inputs rose last week to the highest level since September 2019."
+    },
+    {
+      "id": "mkt:019fae6f-f757-7aab-8eee-8ab7e23fa23c",
+      "time": "2026-07-29 23:13:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. Gulf Coast crude inventories fell last week to their lowest level since June 2025."
+    },
+    {
+      "id": "mkt:019fae6f-6bc3-7aab-8eee-872638b20b74",
+      "time": "2026-07-29 23:12:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. refinery utilization climbed last week to its highest level since December 2018."
+    },
+    {
+      "id": "5014859",
+      "time": "2026-07-29 23:12:33",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲決議出爐前，墨西哥主要股指下跌 1.2%。"
+    },
+    {
+      "id": "mkt:019fae6e-ed6a-7aab-8eee-79f0714f8f5f",
+      "time": "2026-07-29 23:12:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. Midwest refinery utilization rose last week to its highest level since December 2023."
+    },
+    {
+      "id": "mkt:019fae6e-6d91-7aab-8eee-75942effad90",
+      "time": "2026-07-29 23:11:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. four-week average jet fuel supplies rose to a record high last week."
+    },
+    {
+      "id": "te:markets:570815",
+      "time": "2026-07-29 23:11:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls as Geopolitical Tensions Escalate — The Ibovespa fell nearly 1% to trade below 175,500 on Wednesday amid fresh Middle East tensions, while markets eased exposure to risk ahead of a Federal Reserve decision. Oil prices rose after joint US-Saudi strikes in Iraq, fueling inflation concerns. The Fed is expected to leave rates unchanged, although hawkish statements from FOMC members supported possible dissents for a hike. Financials led the decline, with Itaú, Bradesco, and Itaúsa down about 2%, while Santander tumbled 7% after missing ROE expectations. Utilities also weakened, with Axia down more than 1% and Sabesp losing 2%. Ambev erased earlier gains to trade slightly lower after surging as much as 16% on strong profit and EBITDA. WEG (-1%) and Rede D'Or (-2.5%) also declined. In contrast, Petrobras gained nearly 2.5% on higher oil prices and after Morgan Stanley reaffirmed its Overweight rating, citing expectations of strong second-quarter results following the company's production update."
+    },
     {
       "id": "mkt:019fae6d-a611-7aab-8eee-6d84ba47d0b4",
       "time": "2026-07-29 23:10:49",
