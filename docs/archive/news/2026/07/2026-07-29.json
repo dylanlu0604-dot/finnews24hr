@@ -1,7 +1,38 @@
 {
   "date": "2026-07-29",
-  "count": 2744,
+  "count": 2747,
   "items": [
+    {
+      "id": "5014700",
+      "time": "2026-07-29 21:12:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST南都：持股5%以上股東朱保義減持計劃實施完成】ST南都公告稱，董事長兼總經理朱保義曾計劃自2026年4月7日起15個交易日後的3個月內，減持不超14,049,273股（佔總股本1.5808%）。近日，其減持計劃實施完成，5月21日至7月6日，透過集中競價和大宗交易合計減持7,164,437股，佔總股本0.7975%。減持後，朱保義持股降至49,032,656股，佔比5.4580%。此外，減持期間其一致行動人朱保德6,278,689股被強制平倉。本次減持不影響公司控制權和持續經營。"
+    },
+    {
+      "id": "5014699",
+      "time": "2026-07-29 21:11:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "DOORDASH：獲得美國聯邦航空管理局認證，可運營商用無人機配送服務。"
+    },
+    {
+      "id": "mkt:019fadff-ff8c-7aab-8eeb-16637fdb025f",
+      "time": "2026-07-29 21:11:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Goldman Sachs says interest-rate futures currently price roughly a one-third probability of a Fed hike today, meaning any Fed decision would be the largest non-cut meeting “surprise” since 1997. Goldman adds that a hike would be the biggest day-of-meeting surprise, excluding cuts, since the Fed began issuing statements announcing policy-rate changes."
+    },
     {
       "id": "5014698",
       "time": "2026-07-29 21:10:12",
