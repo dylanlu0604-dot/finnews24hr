@@ -1,7 +1,79 @@
 {
   "date": "2026-07-29",
-  "count": 711,
+  "count": 719,
   "items": [
+    {
+      "id": "te:markets:570545",
+      "time": "2026-07-29 09:07:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Rises on Renewed US-Iran Hostilities — US heating oil prices rose to around $4.20 per gallon, moving back toward their three-month high, as the resumption of hostilities between Iran and the US revived fears of energy supply disruptions. Iran launched ballistic missiles at US forces in the Middle East, marking an escalation after a pause in fighting although the US Central Command said all missiles were intercepted. The US military also conducted strikes with Saudi forces in Iraq targeting Iran-backed militant groups in response to Iranian-directed drone attacks. In the Strait of Hormuz, Iran rejected Oman’s proposal to split control of shipping routes, insisting the inbound route and part of the outbound route remain under Tehran’s control. Outside the Middle East, Russia’s fuel crisis has started to ease as refineries resumed operations, but the diesel export ban continues to pressure an already tight diesel market. Elsewhere, industry data showed distillate stockpiles fell by 125,000 barrels in the week ending July 24."
+    },
+    {
+      "id": "5013285",
+      "time": "2026-07-29 09:06:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1259.28美元/盎司。"
+    },
+    {
+      "id": "5013284",
+      "time": "2026-07-29 09:05:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "SK海力士：將SK海力士韓國股票轉換為美國存託憑證(ADR)可能受限，ADR轉換可能需要數週時間。尚未決定是否擴大美國存託憑證發行規模。"
+    },
+    {
+      "id": "mkt:019fab67-70eb-7aab-8ed8-93c3b3390608",
+      "time": "2026-07-29 09:05:10",
+      "tags": [
+        "MKT News",
+        "SKHY.O"
+      ],
+      "text": "SK Hynix (SKHY.O) said it has not decided whether to expand ADR issuance."
+    },
+    {
+      "id": "5013283",
+      "time": "2026-07-29 09:04:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4070美元/盎司，日內跌0.71%。"
+    },
+    {
+      "id": "5013282",
+      "time": "2026-07-29 09:04:39",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛的增長股權業務換帥 晉升兩位合夥人掌舵】根據一份內部備忘錄，高盛集團任命了兩位合夥人Hillel Moerman和Christian Resch擔任增長股權的聯席主管和聯席投資長。Moerman於2007年加入高盛，2020年晉升為合夥人，目前負責增長股權基金的企業和拉丁美洲投資業務。Resch則負責歐洲、中東和非洲的增長股權團隊。"
+    },
+    {
+      "id": "mkt:019fab66-ee70-7aab-8ed8-896cc07bde9b",
+      "time": "2026-07-29 09:04:37",
+      "tags": [
+        "MKT News",
+        "SKHY.O"
+      ],
+      "text": "SK Hynix (SKHY.O): ADR conversion may take several weeks."
+    },
+    {
+      "id": "5013281",
+      "time": "2026-07-29 09:04:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美盈森：近期原紙價格有一些波動 對公司業績會有一定影響】美盈森7月28日在機構調研時表示，近期原紙價格有一些波動，對公司業績會有一定影響。在原材料價格有波動的情況下，公司會考慮與下游客戶協商調整產品價格，也會在新的報價中考慮材料成本波動的因素，以儘量減少對公司業績的影響。"
+    },
     {
       "id": "mkt:019fab65-f4e2-7aab-8ed8-876c2e364a6b",
       "time": "2026-07-29 09:03:33",
