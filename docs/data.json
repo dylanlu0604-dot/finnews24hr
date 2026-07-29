@@ -1,7 +1,117 @@
 {
-  "updated": "2026-07-29 19:06:03",
-  "count": 17516,
+  "updated": "2026-07-29 19:10:01",
+  "count": 17512,
   "items": [
+    {
+      "id": "mkt:019fad90-a6dc-7aab-8ee8-a21c25cd84d7",
+      "time": "2026-07-29 19:09:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BSE and NEEQ launch national cultivation campaign for specialized, refined, distinctive and innovative firms】July 29, 2026 — The Beijing Stock Exchange (BSE) and the National Equities Exchange and Quotations (NEEQ) launched a nationwide special cultivation action for specialized, refined, distinctive and innovative firms, holding the first training session in Nanjing with Jiangsu provincial financial office, Jiangsu MIIT, the Jiangsu securities regulatory bureau and the Jiangsu Equity Exchange Center. The program pairs policy interpretation with practical guidance to promote MIIT and financial-sector support measures for listings on the New Third Board and the BSE, explain full-chain service arrangements, and address common listing-preparation issues with practical solutions. The initiative aims to drive more quality specialized firms toward NEEQ/BSE listings and to build a tiered, full-cycle cultivation ecosystem covering firm growth to listing."
+    },
+    {
+      "id": "5014460",
+      "time": "2026-07-29 19:09:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿拉格齊與卡拉斯通話：烏克蘭外長向我電話確認，襲擊伊朗船隻並非蓄意行為。"
+    },
+    {
+      "id": "5014459",
+      "time": "2026-07-29 19:07:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "普佩特羅控股：宏觀大環境及伊朗戰爭後續影響仍存在不確定性。"
+    },
+    {
+      "id": "5014458",
+      "time": "2026-07-29 19:07:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "海南省氣象臺2026年07月29日19時06分繼續釋出海上雷雨大風黃色預警訊號：受對流雲團影響，本島東部海面29日19時06分到30日08時可能出現雷雨大風天氣，風力達7～9級並伴有強雷電，建議有關單位和人員做好防範工作。（海南氣象）"
+    },
+    {
+      "id": "te:markets:570766",
+      "time": "2026-07-29 19:06:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "WEC Energy earnings above expectations at 0.91 USD — WEC Energy (WEC) released earnings per share at 0.91 USD, compared to market expectations of 0.83 USD."
+    },
+    {
+      "id": "te:markets:570765",
+      "time": "2026-07-29 19:06:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Old Dominion Freight Line earnings above expectations at 1.68 USD — Old Dominion Freight Line (ODFL) released earnings per share at 1.68 USD, compared to market expectations of 1.49 USD."
+    },
+    {
+      "id": "te:markets:570764",
+      "time": "2026-07-29 19:06:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Garmin earnings above expectations at 2.81 USD — Garmin (GRMN) released earnings per share at 2.81 USD, compared to market expectations of 2.30 USD."
+    },
+    {
+      "id": "te:markets:570763",
+      "time": "2026-07-29 19:06:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "P&G earnings above expectations at 1.43 USD — P&G (PG) released earnings per share at 1.43 USD, compared to market expectations of 1.42 USD."
+    },
+    {
+      "id": "5014457",
+      "time": "2026-07-29 19:05:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【埃克森美孚美股盤前漲超2%】埃克森美孚美股盤前漲超2%，現報156.26美元。"
+    },
+    {
+      "id": "5014456",
+      "time": "2026-07-29 19:05:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "SOFI 公司：維持本財年調整後息稅折舊攤銷前利潤約 16 億美元的預期，市場預期同為 16 億美元。"
+    },
+    {
+      "id": "mkt:019fad8d-2fbe-7aab-8ee8-9f71276d9e3e",
+      "time": "2026-07-29 19:05:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【WTI crude up 5% intraday to $82.24/bbl; Brent +4.6%】International oil prices rose: WTI crude gained 5.00% intraday to $82.24/bbl, Brent crude was up 4.6%."
+    },
     {
       "id": "5014455",
       "time": "2026-07-29 19:04:51",
@@ -160639,142 +160749,6 @@
         "國際"
       ],
       "text": "【王毅出席東盟外長會期間與魯比奧會面】據CGTN 7月22日下午報道，中共中央政治局委員、外交部長王毅在菲律賓馬尼拉出席東盟外長會議期間，會見了美國國務卿魯比奧。\n\n7月19日至24日，第59屆東盟系列外長會在菲律賓馬尼拉舉辦。據美國國務院網站17日宣告，魯比奧於7月19日至23日前往馬尼拉，出席東盟外長系列會議。因此，中美兩國外長能否借東盟系列外長會契機進行雙邊會談，也成為外界關注的焦點。\n\n在7月20日的外交部例行記者會上，有記者提問，美國國務卿魯比奧表示，中國國家主席習近平即將於9月對美國進行的訪問仍在按計劃進行。請問，中國外交部是否認為此次訪問仍在按計劃進行？發言人林劍表示，元首外交對中美關係具有不可替代的戰略引領作用。雙方就年內元首的互動安排保持了溝通。\n\n中美外長曾於6月30日通電話。王毅指出，中美雙方要拉長合作清單，打造更多積極議程，同時壓縮問題清單，管控各種風險隱患。臺灣問題牽一髮動全身，希望美方務必慎之又慎對待涉臺事務。雙方一致認為，兩國外長此次通話是積極、建設性的，同意共同落實好兩國元首達成的重要共識，繼續以靈活方式保持溝通。（澎湃）"
-    },
-    {
-      "id": "5002329",
-      "time": "2026-07-22 19:09:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【璞泰來：擬2億-3億元回購股份用於股權激勵】璞泰來公告稱，公司於2026年7月21日透過以集中競價交易方式回購股份的議案，回購金額不低於2億元且不超過3億元，回購價格不高於30元/股，預計回購股份666.66萬股-1000萬股，佔總股本的0.31%-0.47%，用於未來實施股權激勵計劃。回購期限自董事會審議透過之日起不超過12個月。控股股東、實控人等未來3個月無減持計劃、未來6個月暫無減持計劃。本次回購對公司日常經營、償債能力等影響較小。但存在回購方案無法實施、已回購股份無法授出等風險。"
-    },
-    {
-      "id": "5002328",
-      "time": "2026-07-22 19:08:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金剛光伏：子公司簽訂6.14億元算力服務合同】金剛光伏公告，全資孫公司北京金剛數海智算科技有限公司與北京****科技有限公司簽署3份《人工智慧算力技術服務合同》，合同總金額為614,400,000.00元（含稅），服務期為60個月。合同的簽訂有利於公司與算力客戶在AI算力領域建立長期合作關係，有助於加快公司算力業務的佈局，進一步擴大公司相關業務拓展，增強公司競爭力，獲取更大規模的市場收益，提升公司整體盈利能力。"
-    },
-    {
-      "id": "5002327",
-      "time": "2026-07-22 19:08:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【王騰：今日宜休在研新品開發進入衝刺階段】7月22日，王騰發文透露，今日宜休產品開發進入衝刺階段。王騰表示，“在研新品採用的基本都是行業Tier one的供應商，很多都是在專業領域全球最top的。”據王騰此前介紹，該公司主要研發睡眠健康相關產品。"
-    },
-    {
-      "id": "5002326",
-      "time": "2026-07-22 19:08:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金剛光伏：解除重大算力銷售合同】金剛光伏公告，全資孫公司北京金剛數海智算科技有限公司與江蘇***大資料有限公司簽訂的原服務合同將於2026年6月30日提前解除。原合同含稅總金額3.99億元，服務期限5年。雙方同意在解除協議簽訂後7日內協商處理款項結算及其他債權債務關係，並互不承擔違約責任。公司表示，此次協議解除不會對公司財務狀況及經營成果構成重大不利影響。"
-    },
-    {
-      "id": "5002325",
-      "time": "2026-07-22 19:08:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "訊息人士透露，帝亞吉歐多個部門正在裁減最高30%的員工，新任執行長正推動大規模裁員。"
-    },
-    {
-      "id": "5002324",
-      "time": "2026-07-22 19:07:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【神馬股份：控股股東增持股份致權益變動觸及1%刻度】神馬股份公告稱，2026年7月17日至22日，控股股東中國平煤神馬集團透過二級市場集中競價增持公司股票909.61萬股，佔總股本0.83%，資金源於自有及銀行貸款。變動後，中國平煤神馬集團及一致行動人持股比例從58.17%升至59.00%，跨越1%整數倍。此次變動是履行增持計劃，不會使控股股東和實控人變化，也不影響公司治理和經營，不涉及披露權益變動報告書。"
-    },
-    {
-      "id": "5002323",
-      "time": "2026-07-22 19:07:29",
-      "tags": [
-        "宏觀",
-        "行業",
-        "公司",
-        "焦點"
-      ],
-      "text": "【上海多部門聯合舉辦合規指導會 進一步規範汽車行業網上資訊傳播秩序】為推動汽車行業網路傳播秩序持續向好，壓實汽車交易市場主體合規責任，作為規範汽車行業網上資訊傳播秩序專項整治行動的重要舉措之一，7月21日下午，上海市委網信辦會同市經信委、市商務委、市市場監管局、市公安局網安總隊聯合舉辦合規指導會。上汽集團、特斯拉、比亞迪、小米、小鵬、蔚來、理想等15家國內外知名整車企業，永達、東昌、利星行、冠松、交運等80餘家上海重點經銷商集團，浦東、嘉定、金山等汽車產業集聚區網信部門，以及小紅書、嗶哩嗶哩、虎撲等屬地重點網站平臺相關負責人參加會議。會上，市委網信辦會同市經信委、市商務委、市市場監管局、市公安局網安總隊，通報了近期開展的規範汽車行業網上資訊傳播秩序專項整治行動的治理重點，進一步明確了監管要求。市市場監管局圍繞《汽車行業價格行為合規指南》進行重點解讀，明確了從整車到零部件生產、從定價策略到銷售行為各環節的價格合規要求；上海市汽車銷售協會透過剖析汽車經銷商消費糾紛的典型案例，幫助參會企業進一步提升合規經營與糾紛處置的能力。（網信上海）"
-    },
-    {
-      "id": "5002322",
-      "time": "2026-07-22 19:07:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【APEC人力資源開發部長會將聚焦塑造現代化人力資源】記者從7月22日舉行的人力資源社會保障部例行新聞釋出會上獲悉，亞太經濟合作組織（APEC）人力資源開發部長會將於9月21日在江蘇南京舉辦，推動本地區人力資源開發務實合作，主題為“塑造現代化人力資源，助力亞太共同體建設”。（新華社）"
-    },
-    {
-      "id": "5002321",
-      "time": "2026-07-22 19:06:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "西門子能源股價下跌，追隨美國同行通用電氣沃諾瓦盤前下跌走勢。"
-    },
-    {
-      "id": "5002320",
-      "time": "2026-07-22 19:06:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "芝商所季度利潤增長，因市場波動提振股指成交量。"
-    },
-    {
-      "id": "te:markets:568876",
-      "time": "2026-07-22 19:06:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Moody's earnings above expectations at 4.68 USD — Moody's (MCO) released earnings per share at 4.68 USD, compared to market expectations of 4.19 USD."
-    },
-    {
-      "id": "te:markets:568875",
-      "time": "2026-07-22 19:06:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "CME earnings above expectations at 2.99 USD — CME (CME) released earnings per share at 2.99 USD, compared to market expectations of 2.98 USD."
-    },
-    {
-      "id": "te:markets:568874",
-      "time": "2026-07-22 19:06:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Philip Morris International earnings above expectations at 2.20 USD — Philip Morris International (PM) released earnings per share at 2.20 USD, compared to market expectations of 2.04 USD."
-    },
-    {
-      "id": "5002319",
-      "time": "2026-07-22 19:06:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【渝農商行：隋軍辭任執行董事、行長】渝農商行7月22日公告，因工作調動，隋軍辭去執行董事、行長、首席合規官職務，並不再擔任董事會風險管理委員會、消費者權益保護委員會主任委員及《香港聯合交易所有限公司證券上市規則》第3.05條之授權代表職務。"
-    },
-    {
-      "id": "5002318",
-      "time": "2026-07-22 19:06:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "芝加哥商業交易所（CME）第二季度調整後每股收益（EPS）為2.99美元，路孚特IBES市場預期為2.91美元。"
     }
   ]
 }

@@ -1,7 +1,117 @@
 {
   "date": "2026-07-29",
-  "count": 2407,
+  "count": 2418,
   "items": [
+    {
+      "id": "mkt:019fad90-a6dc-7aab-8ee8-a21c25cd84d7",
+      "time": "2026-07-29 19:09:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BSE and NEEQ launch national cultivation campaign for specialized, refined, distinctive and innovative firms】July 29, 2026 — The Beijing Stock Exchange (BSE) and the National Equities Exchange and Quotations (NEEQ) launched a nationwide special cultivation action for specialized, refined, distinctive and innovative firms, holding the first training session in Nanjing with Jiangsu provincial financial office, Jiangsu MIIT, the Jiangsu securities regulatory bureau and the Jiangsu Equity Exchange Center. The program pairs policy interpretation with practical guidance to promote MIIT and financial-sector support measures for listings on the New Third Board and the BSE, explain full-chain service arrangements, and address common listing-preparation issues with practical solutions. The initiative aims to drive more quality specialized firms toward NEEQ/BSE listings and to build a tiered, full-cycle cultivation ecosystem covering firm growth to listing."
+    },
+    {
+      "id": "5014460",
+      "time": "2026-07-29 19:09:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿拉格齊與卡拉斯通話：烏克蘭外長向我電話確認，襲擊伊朗船隻並非蓄意行為。"
+    },
+    {
+      "id": "5014459",
+      "time": "2026-07-29 19:07:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "普佩特羅控股：宏觀大環境及伊朗戰爭後續影響仍存在不確定性。"
+    },
+    {
+      "id": "5014458",
+      "time": "2026-07-29 19:07:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "海南省氣象臺2026年07月29日19時06分繼續釋出海上雷雨大風黃色預警訊號：受對流雲團影響，本島東部海面29日19時06分到30日08時可能出現雷雨大風天氣，風力達7～9級並伴有強雷電，建議有關單位和人員做好防範工作。（海南氣象）"
+    },
+    {
+      "id": "te:markets:570766",
+      "time": "2026-07-29 19:06:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "WEC Energy earnings above expectations at 0.91 USD — WEC Energy (WEC) released earnings per share at 0.91 USD, compared to market expectations of 0.83 USD."
+    },
+    {
+      "id": "te:markets:570765",
+      "time": "2026-07-29 19:06:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Old Dominion Freight Line earnings above expectations at 1.68 USD — Old Dominion Freight Line (ODFL) released earnings per share at 1.68 USD, compared to market expectations of 1.49 USD."
+    },
+    {
+      "id": "te:markets:570764",
+      "time": "2026-07-29 19:06:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Garmin earnings above expectations at 2.81 USD — Garmin (GRMN) released earnings per share at 2.81 USD, compared to market expectations of 2.30 USD."
+    },
+    {
+      "id": "te:markets:570763",
+      "time": "2026-07-29 19:06:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "P&G earnings above expectations at 1.43 USD — P&G (PG) released earnings per share at 1.43 USD, compared to market expectations of 1.42 USD."
+    },
+    {
+      "id": "5014457",
+      "time": "2026-07-29 19:05:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【埃克森美孚美股盤前漲超2%】埃克森美孚美股盤前漲超2%，現報156.26美元。"
+    },
+    {
+      "id": "5014456",
+      "time": "2026-07-29 19:05:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "SOFI 公司：維持本財年調整後息稅折舊攤銷前利潤約 16 億美元的預期，市場預期同為 16 億美元。"
+    },
+    {
+      "id": "mkt:019fad8d-2fbe-7aab-8ee8-9f71276d9e3e",
+      "time": "2026-07-29 19:05:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【WTI crude up 5% intraday to $82.24/bbl; Brent +4.6%】International oil prices rose: WTI crude gained 5.00% intraday to $82.24/bbl, Brent crude was up 4.6%."
+    },
     {
       "id": "5014455",
       "time": "2026-07-29 19:04:51",
