@@ -1,7 +1,48 @@
 {
   "date": "2026-07-30",
-  "count": 702,
+  "count": 706,
   "items": [
+    {
+      "id": "5015223",
+      "time": "2026-07-30 04:38:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "META執行長稱，得益於人工智慧，公司正在打造全新體驗，產品交付速度加快。"
+    },
+    {
+      "id": "te:markets:570880",
+      "time": "2026-07-30 04:36:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "O'Reilly Automotive earnings in line with market expectations at 0.86 USD — O'Reilly Automotive (ORLY) released earnings per share at 0.86 USD, in line with market expectations."
+    },
+    {
+      "id": "5015222",
+      "time": "2026-07-30 04:36:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Meta第三財季營收展望遜於預期 上調全年資本開支預估下限】Meta Platforms Inc.給出的本季度營收展望令人失望，加劇了投資者對該公司史無前例的人工智慧支出的擔憂。這家社交媒體巨頭表示，第三季度營收預計為610億至640億美元，彭博彙編的資料顯示，該區間中值低於分析師平均預期的632億美元。Meta依靠廣告業務為其代價高昂的AI產品和基礎設施投資提供資金。投資者一直質疑Meta最終將如何收回AI投資。今年早些時候，執行長馬克·扎克伯格將支出計劃提高至至多1450億美元，令市場感到不安。週三Meta將全年資本支出預測區間收窄至1300億至1450億美元，此前1250億至1450億美元的預測區間低端被小幅上調。Meta股價週三在紐約收於585.61美元，盤後下跌約4%。"
+    },
+    {
+      "id": "te:markets:570879",
+      "time": "2026-07-30 04:35:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 2.19% Lower — The Dow Jones Index fell 1156 points or 2.19 percent on Wednesday to close at 51591 points. Leading the losses are Caterpillar (-6.99%), Goldman Sachs (-5.17%) and Nvidia (-3.47%)."
+    },
     {
       "id": "mkt:019faf96-0279-7aab-8ef9-36f2a8030362",
       "time": "2026-07-30 04:34:31",
