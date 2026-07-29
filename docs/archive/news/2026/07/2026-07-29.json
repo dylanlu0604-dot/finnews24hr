@@ -1,7 +1,87 @@
 {
   "date": "2026-07-29",
-  "count": 1295,
+  "count": 1305,
   "items": [
+    {
+      "id": "mkt:019fac2d-61c3-7aab-8edf-2c0d055d2031",
+      "time": "2026-07-29 12:41:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan's TAIEX fell more than 5%."
+    },
+    {
+      "id": "mkt:019fac2d-419d-7aab-8edf-27ce75165da8",
+      "time": "2026-07-29 12:41:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Refinitiv: An Iranian senior official said Iran insists all inbound shipping lanes through the Strait of Hormuz and some outbound lanes must be under Iranian control, and that a 50-50 joint-control arrangement with Oman would not serve Tehran’s interests."
+    },
+    {
+      "id": "5013659",
+      "time": "2026-07-29 12:41:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階官員：儘管德黑蘭將阿曼視為重要鄰國，但伊朗與阿曼各佔一半的聯合管控安排不符合伊朗的利益。"
+    },
+    {
+      "id": "mkt:019fac2c-cd97-7aab-8edf-1811a371955a",
+      "time": "2026-07-29 12:40:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korean retail forced liquidations KRW1.7t; institutions to wait for calmer sentiment】On Wednesday South Korean retail investors suffered roughly KRW1.7 trillion (≈$1.2bn) of forced liquidations. Jung In Yun, CEO of Fibonacci Asset Management, said many positions were forcibly closed and institutions plan to wait for retail selling pressure to ease before redeploying capital."
+    },
+    {
+      "id": "mkt:019fac2c-9f17-7aab-8edf-17e952868beb",
+      "time": "2026-07-29 12:40:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Tehran has ruled out Oman's proposal for joint regional management of the Strait of Hormuz, saying the plan has no chance of success. Iran said only Iran and Oman can determine arrangements for the strait based on their respective shares and rejected any role for other countries."
+    },
+    {
+      "id": "5013658",
+      "time": "2026-07-29 12:40:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階官員：伊朗堅持要求，透過霍爾木茲海峽的全部入港航道以及部分出港航道必須處於伊朗控制之下。"
+    },
+    {
+      "id": "5013657",
+      "time": "2026-07-29 12:39:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階官員表示：只有伊朗和阿曼能夠根據各自的權益份額決定霍爾木茲海峽的相關安排，德黑蘭拒絕任何其他國家參與其中。"
+    },
+    {
+      "id": "5013656",
+      "time": "2026-07-29 12:38:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴斯夫：目標為2025年至2028年向股東派息總額不低於120億歐元。"
+    },
+    {
+      "id": "5013655",
+      "time": "2026-07-29 12:37:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴斯夫：將於2026年8月至2027年4月啟動最高10億歐元的股票回購計劃。"
+    },
     {
       "id": "5013654",
       "time": "2026-07-29 12:37:14",
@@ -840,6 +920,15 @@
         "公司"
       ],
       "text": "渣打集團預計，按固定匯率計算，2026年淨利息收入將實現低個位數的同比增長。"
+    },
+    {
+      "id": "5013603",
+      "time": "2026-07-29 12:01:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數漲1.37%，恒生科技指數漲2.2%】港股午間收盤，恒生指數漲1.37%，恒生科技指數漲2.2%。恒指港股通ETF銀華（159318）漲1.99%，港股通科技ETF鵬華（159751）漲2.51%。板塊方面，手機、軟飲料板塊漲幅靠前；印製電路板、金屬製品板塊跌幅靠前。個股方面，布魯可漲17.11%，理想汽車-W漲10.1%，晶苑國際漲9.6%，汽車之家-S漲9.17%，小米集團-W漲9.16%；芯碁微裝跌20.96%，鼎泰高科跌13.97%，天數智芯跌13.23%，勝宏科技跌11.42%，兆易創新跌10.9%。"
     },
     {
       "id": "mkt:019fac09-4558-7aab-8edd-f4ed8cae39e0",
