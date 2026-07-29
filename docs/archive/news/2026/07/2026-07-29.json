@@ -1,7 +1,92 @@
 {
   "date": "2026-07-29",
-  "count": 756,
+  "count": 764,
   "items": [
+    {
+      "id": "te:markets:570547",
+      "time": "2026-07-29 09:22:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Rises on Renewed US-Iran Hostilities — US gasoline prices rose to around $3.37 per gallon, moving back toward a two-month high, as renewed tensions between Iran and the US revived concerns over energy supply disruptions. Iran fired ballistic missiles at US positions in the Middle East, escalating the conflict after a temporary lull, though the US Central Command reported that all projectiles were intercepted. The US also carried out operations alongside Saudi forces in Iraq against Iran-backed militant groups. Meanwhile, Iran rejected Oman’s proposal to share oversight of shipping lanes in the Strait of Hormuz, demanding control over the inbound route and a portion of outbound traffic. Outside the region, Russia eased gasoline purchase restrictions in several areas as supply conditions improved, but the extension of its export ban through year-end continued to limit relief for global gasoline availability. Elsewhere, industry data showed gasoline inventories rose by 918,000 barrels in the week ending July 24."
+    },
+    {
+      "id": "mkt:019fab76-deae-7aab-8ed9-22aad5e8967e",
+      "time": "2026-07-29 09:22:01",
+      "tags": [
+        "MKT News",
+        "HSI",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong's HSI opened up 176.31 points (0.70%) at 25,487.16 on Wednesday, July 29. The Hang Seng Tech Index opened up 48.02 points (1.02%) at 4,778.63. The Hang Seng China Enterprises Index (HSCEI) opened up 63.78 points (0.76%) at 8,500.03. The Red Chip Index opened up 0.15 points (0.00%) at 4,152.49."
+    },
+    {
+      "id": "5013311",
+      "time": "2026-07-29 09:21:58",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放7,305.0億元人民幣。"
+    },
+    {
+      "id": "mkt:019fab76-4f96-7aab-8ed9-1f8ad0845de4",
+      "time": "2026-07-29 09:21:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC injected 206.5 bln yuan via a 7-day reverse repo at a 1.40% rate, with bids and allotments both 206.5 bln yuan. It also conducted 600 bln yuan of overnight reverse repos."
+    },
+    {
+      "id": "5013310",
+      "time": "2026-07-29 09:21:14",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指高開漲0.7％，國企指數漲0.76％，科指開漲1.02%。"
+    },
+    {
+      "id": "5013309",
+      "time": "2026-07-29 09:21:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展2,065億元七天期逆回購操作，利率1.40%，與上次持平。"
+    },
+    {
+      "id": "mkt:019fab75-eff7-7aab-8ed9-1580fb427683",
+      "time": "2026-07-29 09:21:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "00100.HK",
+        "02015.HK"
+      ],
+      "text": "Hong Kong stocks opened higher: Hang Seng up 0.7%, Hang Seng Tech Index up 1.02%. MiniMax (00100.HK) and Li Auto (02015.HK) gained over 4%; Leapmotor (09863.HK) and Zhipu (02513.HK) rose more than 2%."
+    },
+    {
+      "id": "mkt:019fab75-1976-7aab-8ed9-09acda22c317",
+      "time": "2026-07-29 09:20:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Australia's June unadjusted CPI YoY due in 10 minutes."
+    },
     {
       "id": "5013308",
       "time": "2026-07-29 09:19:29",

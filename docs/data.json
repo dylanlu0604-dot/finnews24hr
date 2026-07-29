@@ -1,7 +1,92 @@
 {
-  "updated": "2026-07-29 09:20:13",
-  "count": 17568,
+  "updated": "2026-07-29 09:24:05",
+  "count": 17567,
   "items": [
+    {
+      "id": "te:markets:570547",
+      "time": "2026-07-29 09:22:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Rises on Renewed US-Iran Hostilities — US gasoline prices rose to around $3.37 per gallon, moving back toward a two-month high, as renewed tensions between Iran and the US revived concerns over energy supply disruptions. Iran fired ballistic missiles at US positions in the Middle East, escalating the conflict after a temporary lull, though the US Central Command reported that all projectiles were intercepted. The US also carried out operations alongside Saudi forces in Iraq against Iran-backed militant groups. Meanwhile, Iran rejected Oman’s proposal to share oversight of shipping lanes in the Strait of Hormuz, demanding control over the inbound route and a portion of outbound traffic. Outside the region, Russia eased gasoline purchase restrictions in several areas as supply conditions improved, but the extension of its export ban through year-end continued to limit relief for global gasoline availability. Elsewhere, industry data showed gasoline inventories rose by 918,000 barrels in the week ending July 24."
+    },
+    {
+      "id": "mkt:019fab76-deae-7aab-8ed9-22aad5e8967e",
+      "time": "2026-07-29 09:22:01",
+      "tags": [
+        "MKT News",
+        "HSI",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong's HSI opened up 176.31 points (0.70%) at 25,487.16 on Wednesday, July 29. The Hang Seng Tech Index opened up 48.02 points (1.02%) at 4,778.63. The Hang Seng China Enterprises Index (HSCEI) opened up 63.78 points (0.76%) at 8,500.03. The Red Chip Index opened up 0.15 points (0.00%) at 4,152.49."
+    },
+    {
+      "id": "5013311",
+      "time": "2026-07-29 09:21:58",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放7,305.0億元人民幣。"
+    },
+    {
+      "id": "mkt:019fab76-4f96-7aab-8ed9-1f8ad0845de4",
+      "time": "2026-07-29 09:21:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC injected 206.5 bln yuan via a 7-day reverse repo at a 1.40% rate, with bids and allotments both 206.5 bln yuan. It also conducted 600 bln yuan of overnight reverse repos."
+    },
+    {
+      "id": "5013310",
+      "time": "2026-07-29 09:21:14",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指高開漲0.7％，國企指數漲0.76％，科指開漲1.02%。"
+    },
+    {
+      "id": "5013309",
+      "time": "2026-07-29 09:21:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展2,065億元七天期逆回購操作，利率1.40%，與上次持平。"
+    },
+    {
+      "id": "mkt:019fab75-eff7-7aab-8ed9-1580fb427683",
+      "time": "2026-07-29 09:21:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "00100.HK",
+        "02015.HK"
+      ],
+      "text": "Hong Kong stocks opened higher: Hang Seng up 0.7%, Hang Seng Tech Index up 1.02%. MiniMax (00100.HK) and Li Auto (02015.HK) gained over 4%; Leapmotor (09863.HK) and Zhipu (02513.HK) rose more than 2%."
+    },
+    {
+      "id": "mkt:019fab75-1976-7aab-8ed9-09acda22c317",
+      "time": "2026-07-29 09:20:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Australia's June unadjusted CPI YoY due in 10 minutes."
+    },
     {
       "id": "5013308",
       "time": "2026-07-29 09:19:29",
@@ -161063,94 +161148,6 @@
         "WTI"
       ],
       "text": "Brent crude touched $90 per barrel, its highest since June 11, up 0.73% intraday. WTI rose 1.00% intraday to $85.87 per barrel."
-    },
-    {
-      "id": "5001154",
-      "time": "2026-07-22 09:23:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "滔搏國際港股開盤下跌近15%，此前耐克表示將收緊在中國的線上銷售。"
-    },
-    {
-      "id": "5001153",
-      "time": "2026-07-22 09:23:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲5%，現報3803.00元。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202607223816561216",
-      "time": "2026-07-22 09:22:11",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行今日開展760億元7天期逆回購操作】央行公開市場開展760億元7天期逆回購操作，操作利率1.40%。資料顯示，今日4265億元逆回購到期。"
-    },
-    {
-      "id": "5001152",
-      "time": "2026-07-22 09:21:45",
-      "tags": [],
-      "text": "港股恒指低開跌0.61％，國企指數跌0.88％，恒生科技指數開跌0.71%；人工智慧、晶片板塊漲幅居前。"
-    },
-    {
-      "id": "5001151",
-      "time": "2026-07-22 09:21:34",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨回籠3,505.0億元人民幣。"
-    },
-    {
-      "id": "mkt:019f8769-8621-7aab-8e36-324629c149fd",
-      "time": "2026-07-22 09:21:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Hang Seng Tech Index",
-        "HSCEI"
-      ],
-      "text": "At the Hong Kong open on Wednesday, July 22, the Hang Seng Index (HSI) fell 153.39 points, or 0.61%, to 24,978.90; the Hang Seng Tech Index dropped 34.34 points, or 0.71%, to 4,780.49; the Hang Seng China Enterprises Index (HSCEI) slid 73.49 points, or 0.88%, to 8,287.19; the Hang Seng Red-chip Index rose 5.43 points, or 0.13%, to 4,089.10."
-    },
-    {
-      "id": "mkt:019f8769-6a18-7aab-8e36-2b85d7eb29e7",
-      "time": "2026-07-22 09:21:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "02513.HK",
-        "Impact bullish",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong stocks opened lower: HSI down 0.61%, Hang Seng Tech Index down 0.71%. AI, chip, PCB and nonferrous metals sectors outperformed. Zhipu (02513.HK) up 6.64% at open."
-    },
-    {
-      "id": "mkt:019f8768-f847-7aab-8e36-2239e6fdf757",
-      "time": "2026-07-22 09:20:31",
-      "tags": [
-        "MKT News",
-        "CNH"
-      ],
-      "text": "PBOC conducted a 76 bln yuan 7-day reverse repo today; bid volume and allotment were both 76 bln yuan, operation rate 1.40%, unchanged."
-    },
-    {
-      "id": "5001150",
-      "time": "2026-07-22 09:20:27",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展760億元7天逆回購操作，投標量760億元，中標量760億元，操作利率為1.40%，與此前持平。"
     }
   ]
 }
