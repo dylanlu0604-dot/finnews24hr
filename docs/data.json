@@ -1,7 +1,384 @@
 {
-  "updated": "2026-07-30 02:34:44",
-  "count": 17481,
+  "updated": "2026-07-30 02:38:40",
+  "count": 17511,
   "items": [
+    {
+      "id": "mkt:019faf2b-748f-7aab-8ef3-9c3760ff35a1",
+      "time": "2026-07-30 02:38:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said there was a lively discussion around four issues."
+    },
+    {
+      "id": "5015000",
+      "time": "2026-07-30 02:38:07",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：三是探討各類外部衝擊引發的物價上漲問題。"
+    },
+    {
+      "id": "mkt:019faf2b-21cd-7aab-8ef3-90169199abd9",
+      "time": "2026-07-30 02:37:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said investment in artificial intelligence is laying a foundation for future economic growth."
+    },
+    {
+      "id": "5014999",
+      "time": "2026-07-30 02:37:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 一是討論了持續五年的高通脹問題，二是研判近期各類經濟衝擊。"
+    },
+    {
+      "id": "mkt:019faf2a-e5a4-7aab-8ef3-8c01fd7d7049",
+      "time": "2026-07-30 02:37:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed needs to monitor market reactions to developments directly and without filtering."
+    },
+    {
+      "id": "mkt:019faf2a-d3a7-7aab-8ef3-8015de66437a",
+      "time": "2026-07-30 02:37:27",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Copper"
+      ],
+      "text": "Fed chair Kevin Warsh said investment is strong."
+    },
+    {
+      "id": "mkt:019faf2a-d0cc-7aab-8ef3-7ef4765836de",
+      "time": "2026-07-30 02:37:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed chair KEVIN WARSH said market participants have learned to cooperate rather than act as referees."
+    },
+    {
+      "id": "mkt:019faf2a-8fff-7aab-8ef3-74d85f629edf",
+      "time": "2026-07-30 02:37:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Central Bank of the UAE kept its policy rate unchanged following the Federal Reserve’s decision."
+    },
+    {
+      "id": "mkt:019faf2a-7f36-7aab-8ef3-6ab943b9a426",
+      "time": "2026-07-30 02:37:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair Kevin Warsh said prices have been responding to new information in real time, and reduced forward guidance may be one factor."
+    },
+    {
+      "id": "5014998",
+      "time": "2026-07-30 02:37:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 會議圍繞四大核心問題展開了充分深入的討論。"
+    },
+    {
+      "id": "mkt:019faf2a-60ce-7aab-8ef3-6547aaa68533",
+      "time": "2026-07-30 02:36:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said the Fed views this as a positive signal."
+    },
+    {
+      "id": "mkt:019faf2a-3b65-7aab-8ef3-59991694f0cc",
+      "time": "2026-07-30 02:36:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chairman Kevin Warsh said markets will continue to respond based on their own judgment."
+    },
+    {
+      "id": "mkt:019faf2a-376a-7aab-8ef3-51e342ce66cc",
+      "time": "2026-07-30 02:36:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said markets are focused on hard data and actual economic developments."
+    },
+    {
+      "id": "5014997",
+      "time": "2026-07-30 02:36:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：投資勢頭強勁。"
+    },
+    {
+      "id": "5014996",
+      "time": "2026-07-30 02:36:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 人工智慧領域投資正在為未來經濟增長奠定基礎。"
+    },
+    {
+      "id": "mkt:019faf29-ff2a-7aab-8ef3-4ddd99f5d557",
+      "time": "2026-07-30 02:36:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Strategist: USD bullish case still intact】Chief FX and rates strategist Audrey Childe-Freeman said today's decision prompted some yield relief and dollar softness, but three votes supporting further tightening and the statement's overall tone keep policymakers in a data-dependent stance and do not rule out a September rate hike. The yield-driven bullish case for the dollar remains intact this summer."
+    },
+    {
+      "id": "5014995",
+      "time": "2026-07-30 02:36:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我們需要直接、不加過濾地觀察市場對各類事態的反應。"
+    },
+    {
+      "id": "5014994",
+      "time": "2026-07-30 02:36:11",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：在必要和適當的情況下，將毫不猶豫地採取行動。央行不必總是成為關注的焦點。"
+    },
+    {
+      "id": "mkt:019faf29-aa06-7aab-8ef3-41b6cce34b63",
+      "time": "2026-07-30 02:36:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said central banks need not always be the focus of attention."
+    },
+    {
+      "id": "mkt:019faf29-6d2d-7aab-8ef3-3c5535ab88e4",
+      "time": "2026-07-30 02:35:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed will not hesitate to act as necessary and appropriate."
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825510446",
+      "time": "2026-07-30 02:35:28",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲主席沃什表示，央行不必總是成為關注的焦點，前瞻指引減少可能已影響了市場走勢。"
+    },
+    {
+      "id": "mkt:019faf28-f75b-7aab-8ef3-31d386543b35",
+      "time": "2026-07-30 02:35:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed Chair Kevin Warsh said this Fed will not waver."
+    },
+    {
+      "id": "mkt:019faf28-eb99-7aab-8ef3-2d5651b10bd4",
+      "time": "2026-07-30 02:35:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "Fed chair Kevin Warsh said a reduction in forward guidance may already have affected market moves."
+    },
+    {
+      "id": "5014993",
+      "time": "2026-07-30 02:35:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：市場將自行判斷漲跌方向與波動幅度並持續做出反應，對此應視作積極訊號。"
+    },
+    {
+      "id": "5014992",
+      "time": "2026-07-30 02:35:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 市場關注點聚焦於真實經濟資料與實際經濟走勢。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825510317",
+      "time": "2026-07-30 02:35:04",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【沃什：名義和實際國債收益率大幅上升】美聯儲主席沃什表示，名義和實際國債收益率大幅上升。五年高通脹已給公眾留下難以消除的印象，即美聯儲預設的通脹目標高於2%。"
+    },
+    {
+      "id": "mkt:019faf28-9526-7aab-8ef3-27f89bdc30fc",
+      "time": "2026-07-30 02:35:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Fed chair Kevin Warsh: nominal and real yields have risen significantly."
+    },
+    {
+      "id": "mkt:019faf28-80a3-7aab-8ef3-191bb32f912a",
+      "time": "2026-07-30 02:34:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed's discussions and strategy carry no inertia."
+    },
+    {
+      "id": "5014991",
+      "time": "2026-07-30 02:34:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 市場價格會實時反映新增經濟資料，美聯儲縮減政策指引力度或是引發波動的因素之一。"
+    },
+    {
+      "id": "mkt:019faf28-77dc-7aab-8ef3-166579b77581",
+      "time": "2026-07-30 02:34:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed chair Kevin Warsh said inf cannot be resolved within 9 weeks."
+    },
+    {
+      "id": "mkt:019faf28-540b-7aab-8ef3-0fe52f817c49",
+      "time": "2026-07-30 02:34:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "KEVIN WARSH: Five years of elevated inf have left a deep imprint and are difficult to erase; the Fed's implicit target appears to be above 2%."
+    },
+    {
+      "id": "5014990",
+      "time": "2026-07-30 02:34:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 歷次聯邦公開市場委員會會議間隔期出現的部分通脹漲幅，為數十年來最嚴峻的一波。"
+    },
+    {
+      "id": "mkt:019faf27-fe29-7aab-8ef3-008dafcadcdf",
+      "time": "2026-07-30 02:34:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said the policy statement conveyed only the facts."
+    },
+    {
+      "id": "5014989",
+      "time": "2026-07-30 02:34:18",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：本屆美聯儲不會動搖，名義和實際國債收益率大幅上升。"
+    },
     {
       "id": "mkt:019faf27-ae9a-7aab-8ef2-fcb952f48be2",
       "time": "2026-07-30 02:34:01",
@@ -140,6 +517,15 @@
         "The Fed (FOMC)"
       ],
       "text": "Fed Chair Kevin Warsh said the committee avoids making forecasts."
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825510092",
+      "time": "2026-07-30 02:32:40",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【沃什：美國經濟展現出令人印象深刻的韌性】美聯儲主席沃什表示，美國經濟展現出令人印象深刻的韌性。"
     },
     {
       "id": "5014983",
@@ -160850,52 +161236,6 @@
         "國際"
       ],
       "text": "巴西將提供185億雷亞爾信貸額度，以支援受美國關稅衝擊的企業。"
-    },
-    {
-      "id": "5002945",
-      "time": "2026-07-23 02:37:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美銀客戶資料：散戶上週買入美股規模創逾一年來最高】根據美銀客戶資料，上週，散戶投資者單週買入力度創2025年5月以來最高，推升美股整體買入規模。策略師Jill Carey Hall在報告中寫道，該行客戶連續第三週淨買入，不過資金流入規模“溫和”，流入ETF的資金僅略微抵消流出個股的資金。上週，小盤股上週獲得資金明顯流入，而標普500指數11個板塊中有7個板塊遭客戶賣出，其中以科技和通訊服務板塊為首。另一方面，非必需消費品板塊錄得最大資金流入；因大型銀行業績好於預期，客戶也買入了金融股。企業股票回購也有所回升，但若按市值標準化計算，仍低於財報季首周的平均水平。之前一週，美銀資料曾顯示，在一系列財報釋出前，金融股錄得逾十年來最大資金流入。"
-    },
-    {
-      "id": "5002944",
-      "time": "2026-07-23 02:37:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭外交部長：過去數日，已有至少三艘民用貨船遭俄軍轟炸，數十名船員傷亡。眼下正值糧食收割旺季，今日無任何船隻經由烏克蘭黑海海上走廊通行。"
-    },
-    {
-      "id": "5002943",
-      "time": "2026-07-23 02:36:12",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【哈馬斯新領導人：首要任務是停止以軍加沙行動】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）新任政治局主席哈利勒·哈亞22日發表就任後首次影片講話，強調哈馬斯當前首要任務是全面停止以色列對加沙地帶的軍事行動。哈亞說，這一任務包括徹底停止侵略和殺戮、實現以色列全面撤出加沙地帶，同時恢復加沙地帶接收人道主義援助的能力並加快其重建程序。"
-    },
-    {
-      "id": "mkt:019f8b1c-522c-7aab-8e4f-d5fc96f2a71a",
-      "time": "2026-07-23 02:35:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GMI Cloud committed $500m in capital expenditure to expand compute capacity to meet rising customer demand, and signed a nine-figure contract with a leading US frontier AI company."
-    },
-    {
-      "id": "mkt:019f8b1c-41a3-7aab-8e4f-cf58b0aabe93",
-      "time": "2026-07-23 02:35:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran foreign minister says defensive principle is 'an eye for an eye'】Iran foreign minister Araghchi said Iran's defensive principle is 'an eye for an eye,' warning any aggression against Iran, including attacks on infrastructure, would force a strong, decisive response and that anyone supporting such aggression in any form would be treated as a lawful target."
     }
   ]
 }
