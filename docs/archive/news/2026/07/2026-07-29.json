@@ -1,7 +1,86 @@
 {
   "date": "2026-07-29",
-  "count": 2645,
+  "count": 2653,
   "items": [
+    {
+      "id": "5014627",
+      "time": "2026-07-29 20:36:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上交所投保專委會三大調研齊發，全面覆蓋防非打非、AI應用與糾紛化解】從業內獲悉，上海證券交易所理事會投資者教育和保護專門委員會今年確定三項重點研究課題——非法證券活動的防控機制建設、人工智慧在證券服務中的應用邊界與合規治理、證券公司投訴典型情形識別與糾紛化解機制。目前，對應三份專項調研問卷已陸續發至各會員單位，一場覆蓋證券行業的投保體系“深度體檢”正在展開。"
+    },
+    {
+      "id": "mkt:019fade0-5313-7aab-8eea-8a14088e04c9",
+      "time": "2026-07-29 20:36:27",
+      "tags": [
+        "MKT News",
+        "7201.T",
+        "Impact bearish"
+      ],
+      "text": "Market sources say Nissan Motor Co.'s Kyushu plant will partially halt production this week."
+    },
+    {
+      "id": "mkt:019fade0-2249-7aab-8eea-831c0dc04912",
+      "time": "2026-07-29 20:36:14",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bullish"
+      ],
+      "text": "Sources say President Trump and United Airlines CEO Kirby will unveil a $22 billion plan to expand and upgrade Washington Dulles Airport."
+    },
+    {
+      "id": "5014626",
+      "time": "2026-07-29 20:36:12",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "【瑞銀高管：零利率環境持續至2027年，瑞士銀行業盈利能力面臨嚴峻考驗】瑞士銀行集團（UBS）首席財務官託德·塔克納（Todd Tuckner）表示，瑞士國家銀行（SNB）長期維持零利率的政策環境，正對瑞士本土銀行業務的盈利能力產生重要影響。此前有訊息稱，基於當前的通脹預期，瑞士央行可能將基準利率維持在零水平直至2027年底。塔克納在瑞銀公佈第二季度業績後的電話會議上指出，零利率環境確實對瑞銀在瑞士的業務構成了顯著壓力。他坦言，如果利率上升或降至零下，銀行的收益狀況都會更好。在負利率環境下，銀行通常可以更容易地向客戶傳導成本，從而增加淨利息收入及該業務領域的回報。"
+    },
+    {
+      "id": "te:markets:570780",
+      "time": "2026-07-29 20:35:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rebounds as Middle East Tensions Flare — Brent crude oil surged more than 6% to above $89 a barrel on Wednesday, snapping a three-day losing streak as renewed fighting across the Middle East reinforced concerns over potential supply disruptions. The US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East. Meanwhile, Iran-backed militias in Iraq launched drones at oil facilities in Saudi Arabia’s Eastern Region for a second consecutive day. Also, there were reports that Yemen's Houthi militants were considering charging fees for vessels transiting the Red Sea, adding to concerns over shipping costs and energy flows. Iran has also sought to impose similar charges on the Strait of Hormuz. In the US, API data showed crude oil inventories fell by 3.3 million barrels last week, pointing to continued tightness in global oil supplies."
+    },
+    {
+      "id": "te:markets:570779",
+      "time": "2026-07-29 20:35:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Rebounds as Middle East Tensions Flare — Crude oil surged more than 6% to above $84 a barrel on Wednesday, snapping a three-day losing streak as renewed fighting across the Middle East reinforced concerns over potential supply disruptions. The US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East. Meanwhile, Iran-backed militias in Iraq launched drones at oil facilities in Saudi Arabia’s Eastern Region for a second consecutive day. Also, there were reports that Yemen's Houthi militants were considering charging fees for vessels transiting the Red Sea, adding to concerns over shipping costs and energy flows. Iran has also sought to impose similar charges on the Strait of Hormuz. In the US, API data showed crude oil inventories fell by 3.3 million barrels last week, pointing to continued tightness in global oil supplies."
+    },
+    {
+      "id": "te:markets:570778",
+      "time": "2026-07-29 20:35:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Steady Ahead of Fed Decision — Gold traded around $4,020 an ounce on Wednesday, little changed from the previous session and hovering near its lowest level since November 2025, as investors awaited the Federal Reserve's policy decision. While the Fed is widely expected to leave interest rates unchanged, markets are pricing in roughly a 35% chance of a 25-basis-point hike today and an 80% probability of an increase in September. Elsewhere, the Bank of England and the Bank of Japan are also expected to keep rates unchanged this week while maintaining a cautious stance on inflation. Meanwhile, Commerzbank lowered its year-end gold price forecast to $4,500 per ounce and expects silver to reach $67 per ounce. On the geopolitical front, Tehran reportedly rejected Oman's proposal for joint regional management of the Strait of Hormuz, dampening hopes for easing tensions. Oil prices also rose following joint US-Saudi strikes in Iraq."
+    },
+    {
+      "id": "5014625",
+      "time": "2026-07-29 20:34:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【金融科技ETF廣發：7月30日在深交所上市交易】金融科技ETF廣發公告稱，本基金於2026年7月30日開始在深圳證券交易所上市交易，場內簡稱“金融科技ETF廣發”，程式碼為159086，上市首日開盤參考價為1.020元。截至7月29日，投資標的指數成份股和備選成份股的資產佔基金資產淨值的99.36%，投資組合比例合規。投資者可諮詢客服或登入網站了解情況。基金投資有風險，投資者應自負盈虧。"
+    },
     {
       "id": "5014624",
       "time": "2026-07-29 20:33:10",
