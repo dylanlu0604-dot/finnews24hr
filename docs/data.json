@@ -1,7 +1,100 @@
 {
-  "updated": "2026-07-29 15:50:53",
-  "count": 17542,
+  "updated": "2026-07-29 15:54:48",
+  "count": 17536,
   "items": [
+    {
+      "id": "5013967",
+      "time": "2026-07-29 15:53:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆瑞醫藥新設醫藥子公司 註冊資本5000萬元】企查查APP顯示，近日，浙江恆瑞醫藥有限公司成立，法定代表人為戴洪斌，註冊資本為5000萬元，經營範圍包含：醫學研究和試驗發展；藥品批發；藥品零售；藥品委託生產等。企查查股權穿透顯示，該公司由恆瑞醫藥全資持股。"
+    },
+    {
+      "id": "mkt:019facdd-3082-7aab-8ee2-7059dfa5670c",
+      "time": "2026-07-29 15:53:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Confirmed Ebola cases in the Democratic Republic of Congo (DRC) rose to 3,360, including 1,487 deaths."
+    },
+    {
+      "id": "5013966",
+      "time": "2026-07-29 15:53:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果（金）：已確認的埃博拉病例數升至3,360例，其中包括1,487例死亡。"
+    },
+    {
+      "id": "5013965",
+      "time": "2026-07-29 15:53:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛馬仕首席財務官表示：中東衝突對增長造成的影響與第一季度一致，均為1.5個百分點。"
+    },
+    {
+      "id": "5013964",
+      "time": "2026-07-29 15:53:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國敦促日本如實介紹強徵勞工史實】韓國常駐聯合國教科文組織代表金知熙敦促日本遵守自身承諾，向世人如實介紹位於日本新潟縣的佐渡金山等明治時代工業革命遺產所在地曾強徵朝鮮半島勞工的歷史事實。世界遺產委員會曾多次要求日方詳細介紹明治時代工業革命設施的整體歷史，但日方至今沒有全面落實委員會的要求。（央視新聞）"
+    },
+    {
+      "id": "mkt:019facdc-b093-7aab-8ee2-6bb504e28a80",
+      "time": "2026-07-29 15:52:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore's benchmark Straits Times Index (STI) rose 1.5% to a record 5,700.01 points."
+    },
+    {
+      "id": "5013963",
+      "time": "2026-07-29 15:52:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【張瑩履新江西省委常委，已卸任副省長職務】近日，大江新聞客戶端“領導專欄”欄目更新顯示，張瑩已任江西省委常委。"
+    },
+    {
+      "id": "5013962",
+      "time": "2026-07-29 15:52:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡基準股票指數<.STI>上漲1.5%，創下5700.01點的歷史新高。"
+    },
+    {
+      "id": "te:markets:570686",
+      "time": "2026-07-29 15:51:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Pound Steadies Near One-Month Low Ahead of Fed and BoE Decisions — The British pound traded around $1.33 on Wednesday, little changed from the previous session and hovering near its weakest level in almost a month, as investors awaited policy decisions from the US Federal Reserve later in the day and the Bank of England on Thursday. The Fed is widely expected to leave interest rates unchanged, though markets still price in roughly a 30% chance of a 25-basis-point hike. In the UK, the BoE is also expected to keep its Bank Rate at 3.75%, with investors focusing on the vote split for signals on the future policy path. Recent data showed UK inflation slowed to a 15-month low of 2.6% in June, below the BoE's forecast, supporting expectations of a pause. However, concerns persist that the recent surge in energy prices could rekindle inflationary pressures in the months ahead as higher costs feed through to households and businesses."
+    },
+    {
+      "id": "5013961",
+      "time": "2026-07-29 15:51:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：日本製紙集團八代工廠發生事故，造成 5 人死亡、2 人受傷，另有 4 人下落不明。"
+    },
+    {
+      "id": "5013960",
+      "time": "2026-07-29 15:50:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯頭部電商平臺 Wildberries： 梁贊倉庫暫時停止接收貨物。"
+    },
     {
       "id": "mkt:019facda-2046-7aab-8ee2-65acc8909027",
       "time": "2026-07-29 15:50:03",
@@ -160703,166 +160796,6 @@
         "其他"
       ],
       "text": "【阿里即將推出的“千問辦公”系列產品已在內部小範圍測試】從知情人士處獲悉，阿里即將推出的“千問辦公”產品已在內部小範圍測試，該產品定位獨立於通義千問之外，主打深度辦公場景的智慧協作。另據瞭解，阿里千問辦公產品已在全國公開招聘解決方案架構師、業務拓展專家、AI產品經理等崗位，有接近阿里人士表示，千問辦公產品或將於近期釋出。（藍鯨科技）"
-    },
-    {
-      "id": "te:markets:568819",
-      "time": "2026-07-22 15:54:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Edges Up — The FTSE MIB edged higher to around 52,300 on Wednesday, loosely extending gains from the previous session, driven by advances in energy and financial shares. Oil majors led the gains, with Eni rising 1.4%, Tenaris adding 1.6%, and Saipem gaining over 2%, tracking higher crude prices, which climbed about 4%. Financial stocks were also broadly firmer, including Unipol Gruppo (+1.7%), Mediobanca (+0.7%), Banca Mediolanum (+0.6%), and Banca Monte dei Paschi di Siena (+1%). On the downside, technology shares underperformed, with Prysmian and STMicroelectronics each declining 1.0%, as traders awaited key earnings results from Alphabet and Tesla later in the day. Auto and luxury shares also came under pressure, with losses from Ferrari (-0.9%), Stellantis (-0.6%), Moncler (-1.9%), and Brunello Cucinelli (-0.8%)."
-    },
-    {
-      "id": "5001802",
-      "time": "2026-07-22 15:54:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度尼西亞央行行長：我們還推出了激勵措施，以鼓勵使用本幣進行交易。"
-    },
-    {
-      "id": "5001801",
-      "time": "2026-07-22 15:54:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【報告：無證據表明愛潑斯坦從蓋茨基金會獲得報酬，工作人員曾多次發出風險警告】蓋茨基金會當地時間7月21日宣佈完成委託威凱平和而德律師事務所實施的外部審查。調查結果顯示，沒有證據表明傑弗裡·愛潑斯坦曾從該基金會獲得報酬，亦無證據表明該基金會參與或知曉愛潑斯坦的性販運活動或其他犯罪行為。報告指出，比爾·蓋茨在2011年開始與愛潑斯坦接觸時，已意識到後者因性相關罪行而曾被定罪及判刑一事可能引發聲譽方面的顧慮。負責推進潛在DAF專案的蓋茨基金會工作人員曾多次指出，鑑於愛潑斯坦過往的定罪記錄，與其建立聯絡存在風險。"
-    },
-    {
-      "id": "5001800",
-      "time": "2026-07-22 15:53:50",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "印度尼西亞央行行長表示：我們認為，相較於上調政策利率25個基點，此類激勵措施在吸引投資方面會更有效。"
-    },
-    {
-      "id": "5001799",
-      "time": "2026-07-22 15:53:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股期貨走低，納斯達克100指數期貨跌1%，標普500指數期貨跌0.4%，道指期貨跌0.3%。"
-    },
-    {
-      "id": "te:economy:568816",
-      "time": "2026-07-22 15:53:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Poland",
-        "Consumer Confidence",
-        "Importance 0"
-      ],
-      "text": "Polish Consumer Morale Weakens in July — Poland’s consumer sentiment indicator fell to -10.2 in July 2026, worsening from -9.9 in the previous month. Expectations for the country’s economic situation over the last 12 months deteriorated (-23.4 vs -20.7), as did expectations for households’ future economic situation over the year ahead (-2.7 vs -1.9). Meanwhile, households’ financial situation over the last 12 months became less negative (-6.0 vs -6.3), while assessments of making major purchases improved both currently (-1.6 vs -3.3) and in the future (-22.3 vs -27.8). Among components outside the main index, concerns about unemployment worsened (-25.3 vs -23.9), while perceptions of price trends over the last 12 months increased (49.8 vs 47.9), though expectations for the next 12 months eased (19.9 vs 20.2). The leading consumer confidence indicator rose to -7.3 from -7.7 in the previous month."
-    },
-    {
-      "id": "te:markets:568815",
-      "time": "2026-07-22 15:52:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "LVMH Stock Price Hits 6-week Low — LVMH shares decreased to 471.32 EUR, the lowest since June 2026. Over the past 4 weeks, LVMH lost 2.49%, and in the last 12 months, it decreased 1.73%."
-    },
-    {
-      "id": "5001798",
-      "time": "2026-07-22 15:52:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列南部城市埃拉特傳來遠處爆炸聲。約旦一側可見濃煙升起。"
-    },
-    {
-      "id": "5001797",
-      "time": "2026-07-22 15:52:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度尼西亞央行行長表示：這些激勵措施在吸引外資流入、支撐匯率方面更為有效，且不會推高國內借貸成本。"
-    },
-    {
-      "id": "5001796",
-      "time": "2026-07-22 15:51:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海油發展：公司膜產品尚未規模化落地於商業化氦氣提純生產專案】海油發展7月22日在互動平臺表示，公司膜分離技術具備氦氣提純技術研發基礎，目前相關膜法提氦業務整體處於可行性研究與技術論證階段。氣電集團寧夏鹽池氦氣專案暫未採用公司膜產品；截至當前，公司膜產品尚未規模化落地於商業化氦氣提純生產專案。後續公司將持續跟蹤氦氣資源開發市場機遇，穩步推進技術迭代與市場驗證。"
-    },
-    {
-      "id": "te:markets:568814",
-      "time": "2026-07-22 15:51:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Crude Oil Rises for 4th Session — Crude oil surged about 4% to a six-week high of $87.7 per barrel on Wednesday, extending gains for a fourth consecutive session as escalating geopolitical tensions fueled concerns over global supply. President Donald Trump dismissed the prospect of near-term negotiations with Iran and warned of broader military action, including possible strikes on the suspected nuclear facility at Pickaxe Mountain. He also pledged retaliation if Iran-backed Houthi rebels in Yemen disrupted shipping in the Red Sea. Meanwhile, the US military carried out an 11th consecutive day of strikes against Iran, saying the operations aim to reduce Tehran’s ability to threaten shipping through the Strait of Hormuz, which remains open. Supply concerns also spread beyond the Middle East after renewed attacks on the Caspian Pipeline Consortium terminal on Russia’s Black Sea coast, a key export route for Kazakh crude."
-    },
-    {
-      "id": "5001795",
-      "time": "2026-07-22 15:51:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度尼西亞央行行長表示：“我們今日面臨兩個選擇：一是加息，這會對國內利率造成影響；二是我們最終做出的決定——維持利率不變，並推出激勵措施。”"
-    },
-    {
-      "id": "5001794",
-      "time": "2026-07-22 15:51:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【Mobileye將為Stellantis旗下部分新車型供應雲增強ADAS】當地時間7月21日，Mobileye宣佈，其雲增強高階駕駛輔助系統（ADAS）技術預計自2027年起搭載於Stellantis未來部分新車型。相關功能預計將於明年起率先應用於美國市場部分車型，後續將根據車輛平臺與配置，逐步拓展搭載範圍。"
-    },
-    {
-      "id": "5001793",
-      "time": "2026-07-22 15:51:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Costco入駐京東 最快當日達】據京東黑板報訊息，7月22日，全球知名會員制倉儲零售商Costco（開市客）與京東達成合作，京東成為Costco在中國的唯一官方電商合作伙伴。此次合作被視為全球兩大“供應鏈效率之王” 的歷史性攜手，依託京東超級供應鏈優勢，京東Costco開市客官方旗艦店可以將全球甄選的高品質好物，以最快當日達的配送時效帶給全國消費者，這也標誌著其在全球市場佈局邁出關鍵一步。"
-    },
-    {
-      "id": "5001792",
-      "time": "2026-07-22 15:51:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【龍星科技：“龍星轉債”預計觸發轉股價格向下修正條件】龍星科技公告，自2026年7月9日至2026年7月22日，公司股票在連續30個交易日中已有10個交易日的收盤價格低於當期轉股價格的85%。根據相關規定，若觸發轉股價格修正條件，公司將於觸發條件當日召開董事會審議是否修正轉股價格方案，並及時履行資訊披露義務。"
-    },
-    {
-      "id": "5001791",
-      "time": "2026-07-22 15:50:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行行長：整體通脹預計處於目標區間內，核心通脹將維持在3%以下，波動食品通脹將低於3.3%。"
-    },
-    {
-      "id": "te:markets:568813",
-      "time": "2026-07-22 15:50:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Brent Extends Gains to 7-Week High — Brent crude oil surged about 4% to a seven-week high of $94.5 per barrel on Wednesday, extending gains for a fourth consecutive session as escalating geopolitical tensions fueled concerns over global supply. President Donald Trump dismissed the prospect of near-term negotiations with Iran and warned of broader military action, including possible strikes on the suspected nuclear facility at Pickaxe Mountain. He also pledged retaliation if Iran-backed Houthi rebels in Yemen disrupted shipping in the Red Sea. Meanwhile, the US military carried out an 11th consecutive day of strikes against Iran, saying the operations aim to reduce Tehran’s ability to threaten shipping through the Strait of Hormuz, which remains open. Supply concerns also spread beyond the Middle East after renewed attacks on the Caspian Pipeline Consortium terminal on Russia’s Black Sea coast, a key export route for Kazakh crude."
     }
   ]
 }
