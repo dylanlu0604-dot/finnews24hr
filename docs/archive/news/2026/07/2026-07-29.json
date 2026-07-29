@@ -1,7 +1,153 @@
 {
   "date": "2026-07-29",
-  "count": 953,
+  "count": 967,
   "items": [
+    {
+      "id": "5013440",
+      "time": "2026-07-29 10:09:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CPO板塊震盪走弱，劍橋科技跌停】CPO板塊震盪走弱，劍橋科技、通富微電跌停，銳捷網路跌超10%，長電科技、光迅科技、中富電路、華天科技、永鼎股份等跟跌。"
+    },
+    {
+      "id": "te:economy:570570",
+      "time": "2026-07-29 10:09:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Reverse Repo Rate",
+        "Importance 1"
+      ],
+      "text": "PBoC Maintains Liquidity Support Before Month-End — The People's Bank of China (PBoC) injected CNY 806.5 billion into the banking system through reverse repo operations on Wednesday, July 29, 2026, to maintain ample liquidity at month-end. The central bank supplied CNY 206.5 billion via seven-day reverse repos at an unchanged interest rate of 1.40%, while adding another CNY 600 billion through overnight reverse repos without disclosing the borrowing cost. The move followed the PBoC's announcement last week that it would conduct overnight reverse repo operations from July 29 to 31 and again on August 3, injecting a total of CNY 2.1 trillion through the short-term liquidity tool. The operations reflect the central bank's continued efforts to stabilize money market conditions and ensure sufficient cash in the banking system during a period of typically elevated funding demand at the end of the month."
+    },
+    {
+      "id": "mkt:019faba1-d6a9-7aab-8edb-15a408777ee1",
+      "time": "2026-07-29 10:08:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "00325.HK",
+        "Impact bullish",
+        "02097.HK",
+        "09985.HK"
+      ],
+      "text": "Hong Kong-listed new-consumer stocks rallied: Buluoke (00325.HK) up over 12.5%, Mixue Group (02097.HK) up over 6%, Weilong (09985.HK) and Juzi Bio (02367.HK) up over 5.5%, Hu Shang Ayi (02589.HK) up about 5%."
+    },
+    {
+      "id": "mkt:019faba1-a0c4-7aab-8edb-0d2206a19cc1",
+      "time": "2026-07-29 10:08:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi outlet Alhadath reported Riyadh presented Iraqi authorities with clear evidence that drone attacks originated inside Iraq."
+    },
+    {
+      "id": "5013439",
+      "time": "2026-07-29 10:08:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報2661.00元。"
+    },
+    {
+      "id": "5013438",
+      "time": "2026-07-29 10:08:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本氣象廳：熊本強震後已發生餘震171次】據日本氣象廳介紹，自7月28日下午日本熊本縣發生6.8級地震以來，截至當地時間29日上午10時，震區周邊共發生震度1級以上地震171次。日本氣象廳在28日舉行的記者會上表示，從地震發生後的約一週時間內，尤其是在未來2至3天期間，要警惕可能發生最大震度達到7級左右的地震。"
+    },
+    {
+      "id": "5013437",
+      "time": "2026-07-29 10:07:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨盤中跌超1%。"
+    },
+    {
+      "id": "5013436",
+      "time": "2026-07-29 10:07:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉就相關言論召見伊朗大使。"
+    },
+    {
+      "id": "mkt:019fab9f-c47c-7aab-8edb-0667c646fce1",
+      "time": "2026-07-29 10:06:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures fell more than 1% intraday."
+    },
+    {
+      "id": "te:markets:570568",
+      "time": "2026-07-29 10:06:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Fall on Middle East Jitters — The Shanghai Composite fell 0.4% to 3,798 on Wednesday, while the Shenzhen Component dropped 1.5% to 13,313, as investors weighed escalating Middle East tensions against a rebound in battered technology stocks. Tensions in the region intensified after Iran launched ballistic missiles toward US positions following a brief period of relative calm, though US Central Command said all projectiles were intercepted. Banking shares were among the biggest drags, led by Industrial and Commercial Bank of China (-1.0%), Agricultural Bank of China (-1.0%), and Bank of China (-1.3%). In contrast, technology stocks rebounded from recent losses, with Zhongji Innolight (1.6%), Eoptolink Technology (1.3%), NAURA Technology (1.1%), and Cambricon Technologies (2.6%) advancing despite persistent concerns over elevated valuations and AI-related spending. Attention is now turning to the Politburo meeting later this week, where investors hope to gain fresh insight into China's economic policy agenda."
+    },
+    {
+      "id": "5013435",
+      "time": "2026-07-29 10:06:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股汽車板塊大幅走高 理想汽車漲超10%】港股汽車板塊大幅走高，小米集團漲超7%，理想汽車漲超10%，港股賽力斯漲超6%，蔚來漲超4%。"
+    },
+    {
+      "id": "mkt:019fab9f-405f-7aab-8eda-ffe4ddd25e39",
+      "time": "2026-07-29 10:06:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【C919 high-altitude variant completes maiden flight】The first C919 high‑altitude prototype completed its maiden flight test today from Shanghai Pudong International Airport, finishing all scheduled test items. The flight marks a step toward serial production of the C919 family. The variant incorporates a shortened fuselage and systems upgrades to meet high‑altitude operational requirements."
+    },
+    {
+      "id": "mkt:019fab9f-13e2-7aab-8eda-f481cc646fee",
+      "time": "2026-07-29 10:05:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-shares slipped intraday: ChiNext fell more than 2%, Shenzhen Composite Index dropped 1.6% and Shanghai Composite Index fell 0.7%. Lithography-equipment and semiconductor stocks led losses."
+    },
+    {
+      "id": "te:markets:570567",
+      "time": "2026-07-29 10:05:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "AIA Stock Price Hits 7-week High — AIA shares increased to 79.30 HKD, the highest since June 2026. Over the past 4 weeks, AIA Group gained 9.76%, and in the last 12 months, it increased 5.95%."
+    },
     {
       "id": "5013434",
       "time": "2026-07-29 10:05:17",
