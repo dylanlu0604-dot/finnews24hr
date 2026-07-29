@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-30 04:58:25",
-  "count": 17798,
+  "updated": "2026-07-30 05:02:16",
+  "count": 17793,
   "items": [
+    {
+      "id": "5015249",
+      "time": "2026-07-30 04:59:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "META首席財務官：公司對利用現有能力進行規模化建設、在現有經驗基礎上持續發展，以及繼續投資基礎模型的能力充滿信心。"
+    },
+    {
+      "id": "5015248",
+      "time": "2026-07-30 04:58:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通執行長：我們在三星的業務地位依然穩固，三星約70%的旗艦機型搭載驍龍晶片。"
+    },
     {
       "id": "5015247",
       "time": "2026-07-30 04:56:56",
@@ -164122,83 +164138,6 @@
         "市場"
       ],
       "text": "【金價漲超1%，重返4100美元上方，紐約銅跌1%】週三（7月22日）紐約尾盤，現貨黃金漲1.31%，報4130.07美元/盎司，全天處於上漲狀態，北京時間08:00、20:57先後出現加速上漲，23:52重新整理日高至4166.05美元。COMEX黃金期貨漲1.46%，報4135.90美元/盎司。現貨白銀漲1.55%，報59.7171美元/盎司，22:04重新整理日高至60.9270美元。COMEX白銀期貨漲1.35%，報59.990美元/盎司。COMEX銅期貨跌1.00%，報6.4870美元/磅，整體持續走低。現貨鉑金漲0.90%，現貨鈀金漲1.05%。"
-    },
-    {
-      "id": "mkt:019f8ba2-3e8c-7aab-8e52-56a8a704c9f0",
-      "time": "2026-07-23 05:01:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Alphabet (GOOG.O) CFO said the company is revising 2026 full-year capital expenditure guidance to $195–205 bln."
-    },
-    {
-      "id": "5003053",
-      "time": "2026-07-23 05:01:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "Alphabet： 受算力產能瓶頸制約，我們計劃在第三季度加大第三方算力資源採購，同時持續擴建自有內部算力基礎設施。"
-    },
-    {
-      "id": "mkt:019f8ba1-8fec-7aab-8e52-4939a43e95c1",
-      "time": "2026-07-23 05:00:48",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Alphabet (GOOG.O) CFO said that, given current compute capacity constraints, the company plans to increase use of third-party compute resources in Q3 while continuing to expand its internal compute infrastructure."
-    },
-    {
-      "id": "5003052",
-      "time": "2026-07-23 05:00:40",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "Alphabet： 全年資本支出預期區間為 1950 億至 2050 億美元，此前指引為 1800 億至 1900 億美元。"
-    },
-    {
-      "id": "mkt:019f8ba0-3ea5-7aab-8e52-44fb05151ced",
-      "time": "2026-07-23 04:59:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "State-run Press TV reported multiple explosions in Sirik, southern Iran."
-    },
-    {
-      "id": "mkt:019f8ba0-170b-7aab-8e52-3dc579c2b963",
-      "time": "2026-07-23 04:59:12",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Alphabet (GOOG.O) CEO says the company will begin recognizing TPU sales revenue starting in Q2."
-    },
-    {
-      "id": "5003051",
-      "time": "2026-07-23 04:58:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌CEO皮查伊：公司預計外匯匯率波動將對第三季度合併營收產生小幅不利影響。"
     }
   ]
 }
