@@ -1,7 +1,269 @@
 {
-  "updated": "2026-07-29 09:31:52",
-  "count": 17562,
+  "updated": "2026-07-29 09:35:46",
+  "count": 17572,
   "items": [
+    {
+      "id": "5013339",
+      "time": "2026-07-29 09:34:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【水泥概念異動拉昇，西藏天路漲停】水泥概念異動拉昇，西藏天路漲停，冀衡醫藥、天山股份、青松建化、ST金頂、四川雙馬、塔牌集團等跟漲。"
+    },
+    {
+      "id": "mkt:019fab82-a266-7aab-8ed9-d822ac017ef7",
+      "time": "2026-07-29 09:34:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China A-share printed-circuit-board sector opened sharply lower; Dongshan Precision slid more than 7%, with Jingwang Electronics, Guanghe Technology, Shennan Circuits and Hongban Technology also down."
+    },
+    {
+      "id": "5013338",
+      "time": "2026-07-29 09:34:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超2%，現報4825.460點；恒生指數現漲1.163%。"
+    },
+    {
+      "id": "5013337",
+      "time": "2026-07-29 09:34:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲2%，現報3620.00元。"
+    },
+    {
+      "id": "5013336",
+      "time": "2026-07-29 09:34:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華夏科創50ETF規模逆勢增長至860億元 躋身全市場規模排名前五】截至 7 月 29 日，華夏科創50ETF規模達860.57億元，與6月底相比增長166.33 億元，在全市場ETF的規模排名由6月底的第6位升至現在的第4位。6 月底時，全市場規模排名前五的ETF中，僅有華泰柏瑞滬深 300ETF一隻權益類ETF。但在7月以來的在市場震盪環境下，華夏科創50ETF配置價效比提升，逆勢實現資金流入和規模增長，躋身規模前五。目前，全市場規模前五 ETF中，權益類產品已增至兩隻。"
+    },
+    {
+      "id": "5013335",
+      "time": "2026-07-29 09:34:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【印製電路板板塊低開下挫 東山精密跌超7%】印製電路板板塊低開下挫，東山精密跌超7%，景旺電子、廣合科技、深南電路、紅板科技等跟跌。"
+    },
+    {
+      "id": "5013334",
+      "time": "2026-07-29 09:34:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【C919飛機高原型開展首次飛行試驗】記者從中國商飛獲悉，7月29日，C919高原型首架機在上海浦東國際機場第四跑道起飛，開展首次飛行試驗。（新華社）"
+    },
+    {
+      "id": "5013333",
+      "time": "2026-07-29 09:34:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲2%，現報8276.00元。"
+    },
+    {
+      "id": "mkt:019fab82-0f24-7aab-8ed9-d17e93521542",
+      "time": "2026-07-29 09:34:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran state television reported the Islamic Revolutionary Guard Corps said it fired ballistic missiles at a U.S. air base in Jordan and at a U.S. Central Command center."
+    },
+    {
+      "id": "5013332",
+      "time": "2026-07-29 09:34:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數上漲1.1%，至6375.84點。"
+    },
+    {
+      "id": "mkt:019fab81-88d8-7aab-8ed9-c8bac1839053",
+      "time": "2026-07-29 09:33:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share cinema and theatre sector rose in early trade as Huanrui Century was locked at the daily limit and Baina Qiancheng jumped over 10%; Bona Film Group, Huazhi Digital Media, Beijing Culture, Ciwen Media and Hengdian Film & TV also advanced."
+    },
+    {
+      "id": "mkt:019fab81-4bc4-7aab-8ed9-c48546f11624",
+      "time": "2026-07-29 09:33:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "S&P500",
+        "Impact mixed",
+        "Nasdaq100",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Taiwan stocks fall over 2% as US tech slides; South Korea opens higher then fades】Taiwan's TAIEX fell more than 2% on Wednesday as US technology shares weakened, while South Korea's market opened higher then gave up gains. The S&P 500 closed higher on Tuesday, offsetting some of the impact from a sharp sell-off in chip stocks. Semiconductor names extended their recent decline: the Philadelphia Semiconductor Index fell 4.5%, roughly 25% below its June 22 record close but still up about 56% YTD in 2026."
+    },
+    {
+      "id": "mkt:019fab81-4262-7aab-8ed9-be5d29d254fd",
+      "time": "2026-07-29 09:33:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "SC crude oil main contract is up more than 2.00% intraday at 551.20 yuan/barrel."
+    },
+    {
+      "id": "mkt:019fab81-1466-7aab-8ed9-b285678b6701",
+      "time": "2026-07-29 09:33:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "A-share retail stocks jumped at the open; Dongbai Group hit the daily limit-up, with Nanning Department Store, Central Department Store, Huazhi Wine, Maoye Commercial and Shanghai Jiubai also rising."
+    },
+    {
+      "id": "mkt:019fab80-ee5a-7aab-8ed9-a82e62065c4c",
+      "time": "2026-07-29 09:33:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia June seasonally adjusted CPI MoM -0.1%, prior -0.1%."
+    },
+    {
+      "id": "mkt:019fab80-cde4-7aab-8ed9-a56debc9caa9",
+      "time": "2026-07-29 09:32:52",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia June seasonally adjusted CPI YoY 3.8% vs 4.0% previously."
+    },
+    {
+      "id": "mkt:019fab80-a978-7aab-8ed9-9d8ce4aa8f73",
+      "time": "2026-07-29 09:32:43",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia Q2 CPI YoY 4.0% (consensus 4.1%; prior 4.1%)."
+    },
+    {
+      "id": "mkt:019fab80-8b27-7aab-8ed9-961c5c2b2ddc",
+      "time": "2026-07-29 09:32:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | CPI (YoY) (Q2) | actual 4% | consensus 4.1% | previous 4.1%"
+    },
+    {
+      "id": "5013331",
+      "time": "2026-07-29 09:32:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【零售板塊盤初走高】零售板塊盤初走高，東百集團漲停，南寧百貨、中央商場、華致酒行、茂業商業、上海九百等跟漲。"
+    },
+    {
+      "id": "mkt:019fab80-79fa-7aab-8ed9-89ab0be802f6",
+      "time": "2026-07-29 09:32:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share dairy sector extended early gains; Yiming Food hit the daily limit, Huanlejia rose over 11%, Pinwo Food, Qishi Dairy, Junyao Health and Panda Dairy also climbed."
+    },
+    {
+      "id": "5013330",
+      "time": "2026-07-29 09:32:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元在第二季度通脹資料公佈後下跌0.5%。"
+    },
+    {
+      "id": "5013329",
+      "time": "2026-07-29 09:32:02",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞ASX 200指數在CPI公佈後漲幅擴大至1.4%。"
+    },
+    {
+      "id": "5013328",
+      "time": "2026-07-29 09:31:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗訊息人士否認沙特境內目標受襲與伊朗有關】伊朗方面29日援引一名軍事情報官員訊息說，伊朗否認其與他國擊中沙烏地阿拉伯境內目標有任何關聯。這名軍事情報官員在接受採訪時說：“將任何針對美國在該地區利益的行動都歸咎於伊朗是嚴重誤判，是缺乏對該地區局勢瞭解的結果。”沙特國防部27日發表宣告說，沙特防空部隊當天攔截並摧毀了數架來自伊拉克方向、企圖襲擊沙特境內石油設施的無人機。"
+    },
+    {
+      "id": "5013327",
+      "time": "2026-07-29 09:31:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊短線拉昇 歡瑞世紀漲停】影視院線板塊短線拉昇，歡瑞世紀漲停，百納千成漲超10%，博納影業、華智數媒、北京文化、慈文傳媒、橫店影視等跟漲。"
+    },
+    {
+      "id": "mkt:019fab7f-9594-7aab-8ed9-8716a81bf1fd",
+      "time": "2026-07-29 09:31:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "AUD/USD slid just over 40 pips after the Australian CPI release, trading at 0.6949."
+    },
+    {
+      "id": "5013326",
+      "time": "2026-07-29 09:31:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞3年期國債收益率在第二季度通脹資料公佈後下跌9個基點。"
+    },
     {
       "id": "mkt:019fab7f-686e-7aab-8ed9-7b632ea24d18",
       "time": "2026-07-29 09:31:21",
@@ -160937,159 +161199,6 @@
         "市場"
       ],
       "text": "【化學制藥板塊直線拉昇】化學制藥板塊直線拉昇，萊美藥業漲超10%，新贛江、峆一藥業、博瑞醫藥、哈三聯、華納藥廠等跟漲。"
-    },
-    {
-      "id": "mkt:019f8776-d3bc-7aab-8e36-c927358fff4e",
-      "time": "2026-07-22 09:35:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "The Trump Trade",
-        "CSI300",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "China A-share innovative drug sector strengthened; Yaokang Bio rose over 13%, Laimei Pharma climbed over 8%, with other mid-cap drug names also advancing. US President Trump posted on social media on July 21 local time that from Aug. 1, 2026 all imported generics to the US will carry zero tariffs for two years, thereafter facing a 100% tariff for one year and then a 200% tariff thereafter."
-    },
-    {
-      "id": "5001182",
-      "time": "2026-07-22 09:35:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【先進封裝概念股直線拉昇 富滿微、深科技漲超7%】先進封裝概念股盤初直線拉昇，富滿微、深科技漲超7%，通富微電、金海通、太極實業等股上漲。"
-    },
-    {
-      "id": "5001181",
-      "time": "2026-07-22 09:35:05",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電力板塊震盪回升 立新能源5連板】早盤電力板塊震盪回升，立新能源5連板，新能股份漲停，世茂能源、九洲集團、華銀電力、華潤新能跟漲。"
-    },
-    {
-      "id": "mkt:019f8775-8de9-7aab-8e36-c69408b2a59a",
-      "time": "2026-07-22 09:34:15",
-      "tags": [
-        "MKT News",
-        "06110.HK",
-        "Impact bearish"
-      ],
-      "text": "Top Sports International (06110.HK) shares plunged more than 23%."
-    },
-    {
-      "id": "mkt:019f8775-5f86-7aab-8e36-bb58caa25c6a",
-      "time": "2026-07-22 09:34:04",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran says emergency plans in place for sparsely populated areas and coastal islands】An Iranian army spokesman said on Tuesday Tehran has drawn up comprehensive defence and operational plans to counter any enemy attempt to invade Iranian territory. He said Iran will not allow foreign forces to establish a foothold and that contingency plans cover sparsely populated areas, including certain islands and coastal zones where US forces might try to infiltrate. He warned any area used by an enemy to attack Iran — even territory temporarily held by hostile forces — would be targeted."
-    },
-    {
-      "id": "5001180",
-      "time": "2026-07-22 09:34:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印尼向義大利萊昂納多公司訂購12架戰鬥機。"
-    },
-    {
-      "id": "5001179",
-      "time": "2026-07-22 09:33:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "算力概念股持續活躍，美利雲3連板，利通電子2連板，群興玩具漲停，銅牛資訊漲超10%，華勤技術、紫光股份、宏景科技漲幅居前。"
-    },
-    {
-      "id": "5001178",
-      "time": "2026-07-22 09:33:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "滔搏國際在香港股價暴跌23%。"
-    },
-    {
-      "id": "5001177",
-      "time": "2026-07-22 09:33:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲2%，現報1312.45美元/盎司。"
-    },
-    {
-      "id": "mkt:019f8774-63cf-7aab-8e36-b5d58aa8e807",
-      "time": "2026-07-22 09:32:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Where to park spare cash? Money-market yield snapshot】Tencent Licaitong (current+7-day) 7-day annualized yield ranged 0.7590%–1.4700%. WeChat Lingqiantong 7-day annualized yield ranged 0.9210%–1.0540%. Alipay Yu’e Bao 7-day annualized yield ranged 0.9780%–1.0660%."
-    },
-    {
-      "id": "5001176",
-      "time": "2026-07-22 09:32:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科創板迎來開市七週年】今天，科創板迎來開市七週年。七年時間，科創板已經成長為擁有600多家上市公司、總市值超13萬億元的重要板塊，多元門檻包容性不斷增強，各類科技企業藉助資本力量快速成長。連續七年保持近13%的研發投入強度，截至2025年末，板塊累計研發投入近9000億元，累計發明專利突破15萬項。從2019年鳴鑼開市至今，這塊專為硬科技打造的資本市場試驗田用一套分層、分階段的完整培育制度，破解了高階製造、半導體、創新藥等長線科技企業融資難、上市難的老難題，實實在在為國內硬科技產業打通了從實驗室初創到行業龍頭的完整成長道路。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f8773-fc3a-7aab-8e36-a8bcc79142ca",
-      "time": "2026-07-22 09:32:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Caitong Fuxin Fixed‑Open Mixed Fund will have trading suspended from market open on 22 July 2026 until 10:30 on the same day."
-    },
-    {
-      "id": "5001175",
-      "time": "2026-07-22 09:32:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "財通福鑫定開混合：本基金將於2026年7月22日開盤起至當日10:30停牌。"
-    },
-    {
-      "id": "5001174",
-      "time": "2026-07-22 09:32:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鉑連續主力合約日內漲4%，現報415.55元。"
-    },
-    {
-      "id": "te:economy:568670",
-      "time": "2026-07-22 09:32:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Leading Economic Index",
-        "Importance 1"
-      ],
-      "text": "Australia Leading Index Stable in June — The Westpac-Melbourne Institute Leading Economic Index was flat in June 2026, following a revised 0.1% fall in May. Meanwhile, the six-month annualised growth rate fell to -0.36% from -0.25% in May, marking the sixth consecutive below-trend reading and the weakest pace since late 2023. The latest decline points to slowing economic momentum, reflecting the lagged impact of the RBA’s rate hikes in February, March, and May, along with earlier fuel price shocks linked to geopolitical tensions. A narrowing yield spread was the largest contributor to the deterioration, while weaker dwelling approvals, consumer expectations, and hours worked also weighed on the index. Although the index stabilised as fuel prices eased and the RBA paused in June, renewed inflation risks and Middle East tensions could weigh on growth. The RBA will focus on the June quarter CPI report ahead of its August meeting."
-    },
-    {
-      "id": "5001173",
-      "time": "2026-07-22 09:32:09",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【摩根士丹利：預計寧德時代將發強勁季報 近期股價上漲受資金輪動推動】摩根士丹利週二釋出的報告稱，寧德時代週五將釋出二季度業績，有望超過公司指引以及該行的預估（分別為淨利潤220億元與230億元人民幣），對未來業績的指引也將強勁。近期接觸的許多投資者表示，希望從交易過於擁擠的AI板塊適度分散配置，轉向基本面紮實、此前表現相對落後的優質公司。寧德時代明年增長前景預計依然強勁。柴油車電動化、儲能超級週期的多重驅動力，以及鈉離子電池產品週期啟動，都將繼續支撐公司增長。維持對寧德時代“增持”評級。"
     }
   ]
 }

@@ -1,7 +1,269 @@
 {
   "date": "2026-07-29",
-  "count": 792,
+  "count": 818,
   "items": [
+    {
+      "id": "5013339",
+      "time": "2026-07-29 09:34:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【水泥概念異動拉昇，西藏天路漲停】水泥概念異動拉昇，西藏天路漲停，冀衡醫藥、天山股份、青松建化、ST金頂、四川雙馬、塔牌集團等跟漲。"
+    },
+    {
+      "id": "mkt:019fab82-a266-7aab-8ed9-d822ac017ef7",
+      "time": "2026-07-29 09:34:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China A-share printed-circuit-board sector opened sharply lower; Dongshan Precision slid more than 7%, with Jingwang Electronics, Guanghe Technology, Shennan Circuits and Hongban Technology also down."
+    },
+    {
+      "id": "5013338",
+      "time": "2026-07-29 09:34:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超2%，現報4825.460點；恒生指數現漲1.163%。"
+    },
+    {
+      "id": "5013337",
+      "time": "2026-07-29 09:34:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲2%，現報3620.00元。"
+    },
+    {
+      "id": "5013336",
+      "time": "2026-07-29 09:34:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華夏科創50ETF規模逆勢增長至860億元 躋身全市場規模排名前五】截至 7 月 29 日，華夏科創50ETF規模達860.57億元，與6月底相比增長166.33 億元，在全市場ETF的規模排名由6月底的第6位升至現在的第4位。6 月底時，全市場規模排名前五的ETF中，僅有華泰柏瑞滬深 300ETF一隻權益類ETF。但在7月以來的在市場震盪環境下，華夏科創50ETF配置價效比提升，逆勢實現資金流入和規模增長，躋身規模前五。目前，全市場規模前五 ETF中，權益類產品已增至兩隻。"
+    },
+    {
+      "id": "5013335",
+      "time": "2026-07-29 09:34:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【印製電路板板塊低開下挫 東山精密跌超7%】印製電路板板塊低開下挫，東山精密跌超7%，景旺電子、廣合科技、深南電路、紅板科技等跟跌。"
+    },
+    {
+      "id": "5013334",
+      "time": "2026-07-29 09:34:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【C919飛機高原型開展首次飛行試驗】記者從中國商飛獲悉，7月29日，C919高原型首架機在上海浦東國際機場第四跑道起飛，開展首次飛行試驗。（新華社）"
+    },
+    {
+      "id": "5013333",
+      "time": "2026-07-29 09:34:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲2%，現報8276.00元。"
+    },
+    {
+      "id": "mkt:019fab82-0f24-7aab-8ed9-d17e93521542",
+      "time": "2026-07-29 09:34:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran state television reported the Islamic Revolutionary Guard Corps said it fired ballistic missiles at a U.S. air base in Jordan and at a U.S. Central Command center."
+    },
+    {
+      "id": "5013332",
+      "time": "2026-07-29 09:34:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數上漲1.1%，至6375.84點。"
+    },
+    {
+      "id": "mkt:019fab81-88d8-7aab-8ed9-c8bac1839053",
+      "time": "2026-07-29 09:33:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share cinema and theatre sector rose in early trade as Huanrui Century was locked at the daily limit and Baina Qiancheng jumped over 10%; Bona Film Group, Huazhi Digital Media, Beijing Culture, Ciwen Media and Hengdian Film & TV also advanced."
+    },
+    {
+      "id": "mkt:019fab81-4bc4-7aab-8ed9-c48546f11624",
+      "time": "2026-07-29 09:33:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "S&P500",
+        "Impact mixed",
+        "Nasdaq100",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Taiwan stocks fall over 2% as US tech slides; South Korea opens higher then fades】Taiwan's TAIEX fell more than 2% on Wednesday as US technology shares weakened, while South Korea's market opened higher then gave up gains. The S&P 500 closed higher on Tuesday, offsetting some of the impact from a sharp sell-off in chip stocks. Semiconductor names extended their recent decline: the Philadelphia Semiconductor Index fell 4.5%, roughly 25% below its June 22 record close but still up about 56% YTD in 2026."
+    },
+    {
+      "id": "mkt:019fab81-4262-7aab-8ed9-be5d29d254fd",
+      "time": "2026-07-29 09:33:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "SC crude oil main contract is up more than 2.00% intraday at 551.20 yuan/barrel."
+    },
+    {
+      "id": "mkt:019fab81-1466-7aab-8ed9-b285678b6701",
+      "time": "2026-07-29 09:33:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "A-share retail stocks jumped at the open; Dongbai Group hit the daily limit-up, with Nanning Department Store, Central Department Store, Huazhi Wine, Maoye Commercial and Shanghai Jiubai also rising."
+    },
+    {
+      "id": "mkt:019fab80-ee5a-7aab-8ed9-a82e62065c4c",
+      "time": "2026-07-29 09:33:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia June seasonally adjusted CPI MoM -0.1%, prior -0.1%."
+    },
+    {
+      "id": "mkt:019fab80-cde4-7aab-8ed9-a56debc9caa9",
+      "time": "2026-07-29 09:32:52",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia June seasonally adjusted CPI YoY 3.8% vs 4.0% previously."
+    },
+    {
+      "id": "mkt:019fab80-a978-7aab-8ed9-9d8ce4aa8f73",
+      "time": "2026-07-29 09:32:43",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia Q2 CPI YoY 4.0% (consensus 4.1%; prior 4.1%)."
+    },
+    {
+      "id": "mkt:019fab80-8b27-7aab-8ed9-961c5c2b2ddc",
+      "time": "2026-07-29 09:32:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | CPI (YoY) (Q2) | actual 4% | consensus 4.1% | previous 4.1%"
+    },
+    {
+      "id": "5013331",
+      "time": "2026-07-29 09:32:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【零售板塊盤初走高】零售板塊盤初走高，東百集團漲停，南寧百貨、中央商場、華致酒行、茂業商業、上海九百等跟漲。"
+    },
+    {
+      "id": "mkt:019fab80-79fa-7aab-8ed9-89ab0be802f6",
+      "time": "2026-07-29 09:32:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share dairy sector extended early gains; Yiming Food hit the daily limit, Huanlejia rose over 11%, Pinwo Food, Qishi Dairy, Junyao Health and Panda Dairy also climbed."
+    },
+    {
+      "id": "5013330",
+      "time": "2026-07-29 09:32:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元在第二季度通脹資料公佈後下跌0.5%。"
+    },
+    {
+      "id": "5013329",
+      "time": "2026-07-29 09:32:02",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞ASX 200指數在CPI公佈後漲幅擴大至1.4%。"
+    },
+    {
+      "id": "5013328",
+      "time": "2026-07-29 09:31:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗訊息人士否認沙特境內目標受襲與伊朗有關】伊朗方面29日援引一名軍事情報官員訊息說，伊朗否認其與他國擊中沙烏地阿拉伯境內目標有任何關聯。這名軍事情報官員在接受採訪時說：“將任何針對美國在該地區利益的行動都歸咎於伊朗是嚴重誤判，是缺乏對該地區局勢瞭解的結果。”沙特國防部27日發表宣告說，沙特防空部隊當天攔截並摧毀了數架來自伊拉克方向、企圖襲擊沙特境內石油設施的無人機。"
+    },
+    {
+      "id": "mkt:019fab7f-9594-7aab-8ed9-8716a81bf1fd",
+      "time": "2026-07-29 09:31:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "AUD/USD slid just over 40 pips after the Australian CPI release, trading at 0.6949."
+    },
+    {
+      "id": "5013327",
+      "time": "2026-07-29 09:31:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊短線拉昇 歡瑞世紀漲停】影視院線板塊短線拉昇，歡瑞世紀漲停，百納千成漲超10%，博納影業、華智數媒、北京文化、慈文傳媒、橫店影視等跟漲。"
+    },
+    {
+      "id": "5013326",
+      "time": "2026-07-29 09:31:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞3年期國債收益率在第二季度通脹資料公佈後下跌9個基點。"
+    },
     {
       "id": "mkt:019fab7f-686e-7aab-8ed9-7b632ea24d18",
       "time": "2026-07-29 09:31:21",
