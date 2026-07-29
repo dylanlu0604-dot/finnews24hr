@@ -1,7 +1,57 @@
 {
   "date": "2026-07-30",
-  "count": 128,
+  "count": 132,
   "items": [
+    {
+      "id": "mkt:019faeff-f3c1-7aab-8ef1-93e696f278a3",
+      "time": "2026-07-30 01:50:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "XAI said Grok 4.5 is now available in Grok Build and accessible on Cursor across all subscription plans."
+    },
+    {
+      "id": "mkt:019faeff-71fc-7aab-8ef1-8c03abd85391",
+      "time": "2026-07-30 01:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Federal Reserve FOMC due to announce its interest-rate decision in 10 minutes."
+    },
+    {
+      "id": "mkt:019faeff-07b7-7aab-8ef1-84ba12927667",
+      "time": "2026-07-30 01:49:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O"
+      ],
+      "text": "The Information reports Lilian Wen, co‑founder of Thinking Machines Lab, will return to OpenAI."
+    },
+    {
+      "id": "mkt:019faefc-fb9c-7aab-8ef1-7b6dda7a3f95",
+      "time": "2026-07-30 01:47:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Fed July meeting — key market watchpoints】Policy statement: market pricing largely expects a hold; an unexpected hike remains the primary risk. Watch for more hawkish phrasing (eg, adding language about acting if necessary) and for how the committee frames inflation vs recent disinflation and upside risks. Monitor whether the expected pair of hawkish votes materialize and whether the number of dissents exceeds two — a key signal for September. Press conference: whether the chair sticks to a terse communication style and downplays forward guidance, how recent disinflation is characterized and whether anti‑inflation priority is reaffirmed, and how officials judge Middle East spillovers for future inflation and the policy path. If a surprise hike occurs, note whether it is presented as a one‑off or the start of renewed tightening. Any hawkish shift in wording could reprice September hike odds and move the dollar, USTs and gold."
+    },
     {
       "id": "5014942",
       "time": "2026-07-30 01:46:07",

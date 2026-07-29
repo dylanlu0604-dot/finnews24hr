@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-30 01:47:02",
-  "count": 17431,
+  "updated": "2026-07-30 01:51:03",
+  "count": 17430,
   "items": [
+    {
+      "id": "mkt:019faeff-f3c1-7aab-8ef1-93e696f278a3",
+      "time": "2026-07-30 01:50:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "XAI said Grok 4.5 is now available in Grok Build and accessible on Cursor across all subscription plans."
+    },
+    {
+      "id": "mkt:019faeff-71fc-7aab-8ef1-8c03abd85391",
+      "time": "2026-07-30 01:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Federal Reserve FOMC due to announce its interest-rate decision in 10 minutes."
+    },
+    {
+      "id": "mkt:019faeff-07b7-7aab-8ef1-84ba12927667",
+      "time": "2026-07-30 01:49:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O"
+      ],
+      "text": "The Information reports Lilian Wen, co‑founder of Thinking Machines Lab, will return to OpenAI."
+    },
+    {
+      "id": "mkt:019faefc-fb9c-7aab-8ef1-7b6dda7a3f95",
+      "time": "2026-07-30 01:47:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Fed July meeting — key market watchpoints】Policy statement: market pricing largely expects a hold; an unexpected hike remains the primary risk. Watch for more hawkish phrasing (eg, adding language about acting if necessary) and for how the committee frames inflation vs recent disinflation and upside risks. Monitor whether the expected pair of hawkish votes materialize and whether the number of dissents exceeds two — a key signal for September. Press conference: whether the chair sticks to a terse communication style and downplays forward guidance, how recent disinflation is characterized and whether anti‑inflation priority is reaffirmed, and how officials judge Middle East spillovers for future inflation and the policy path. If a surprise hike occurs, note whether it is presented as a one‑off or the start of renewed tightening. Any hawkish shift in wording could reprice September hike odds and move the dollar, USTs and gold."
+    },
     {
       "id": "5014942",
       "time": "2026-07-30 01:46:07",
@@ -160217,54 +160267,6 @@
         "國際"
       ],
       "text": "俄羅斯總統新聞秘書佩斯科夫稱，多地燃油供應形勢好轉，政府出臺的相關舉措已初見成效。"
-    },
-    {
-      "id": "5002910",
-      "time": "2026-07-23 01:50:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交官：歐盟各國大使未能就第21輪對俄製裁方案達成一致。"
-    },
-    {
-      "id": "te:economy:568953",
-      "time": "2026-07-23 01:48:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil 10-Year Bond Yield Moves Higher — Brazil's 10-year government bond yield rose above 14.75% in late July from 14.54% earlier in the month, amid the outlook of higher interest rates and the outlook of greater bond supply. Oil, natural gas, soybeans, and power prices rose on the wholesale market as new strikes between Iran and the US tempered hopes that energy supply from the Middle East would restart. The developments supported an outlook that inflation could regain traction and prevent the Brazilian central bank from easing rates in the upcoming quarters, lifting yields domestically. Meanwhile, signals of higher deficit spending from the federal government added to a deteriorating fiscal situation. The latest data showed that the nominal budget deficit widened more than expected to BRL 164 billion. Consistently, government revenues were hampered by fresh tariffs from the United States."
-    },
-    {
-      "id": "mkt:019f8af1-9e51-7aab-8e4f-22bb4f11b7bc",
-      "time": "2026-07-23 01:48:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "EU diplomats said EU ambassadors failed to reach agreement on the 21st round of sanctions against Russia."
-    },
-    {
-      "id": "mkt:019f8af0-c942-7aab-8e4f-1b555f96ccb9",
-      "time": "2026-07-23 01:47:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kremlin says Ukraine's appointment of a new Commander-in-Chief of the Armed Forces will not change the frontline situation."
-    },
-    {
-      "id": "mkt:019f8af0-b663-7aab-8e4f-100b0db4e7ce",
-      "time": "2026-07-23 01:47:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【US media: New Mossad chief visited Washington to coordinate Iran nuclear talks】Axios, citing sources, reports Israel’s new Mossad chief Roman Gofman visited Washington two weeks ago to meet US officials on the Israel‑Iran conflict and Iran’s nuclear program. It was his first US trip since taking office in June and occurred just before renewed tensions in the Strait of Hormuz and a flare‑up in fighting. Gofman’s visit aimed to coordinate nuclear‑deal negotiations with the White House; he met with CIA director Ratcliffe and White House officials. Sources say Ratcliffe, within Trump’s core decision circle, has been skeptical of a US‑Iran memorandum and warned Iran could interpret agreement terms differently from the US, including provisions related to the Strait of Hormuz."
     }
   ]
 }
