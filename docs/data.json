@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-30 04:12:42",
-  "count": 17763,
+  "updated": "2026-07-30 04:16:31",
+  "count": 17767,
   "items": [
+    {
+      "id": "5015209",
+      "time": "2026-07-30 04:15:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方宣佈，將在被佔領約旦河西岸傑寧、圖勒凱爾姆、努爾沙姆斯三地開展的軍事攻勢延長至9月底。"
+    },
+    {
+      "id": "mkt:019faf83-fc4d-7aab-8ef8-f05f8873cd03",
+      "time": "2026-07-30 04:14:50",
+      "tags": [
+        "MKT News",
+        "ARM.O"
+      ],
+      "text": "Arm (ARM.O) expects fiscal second-quarter revenue of $1.33–1.43 billion, vs. analysts' consensus of $1.35 billion."
+    },
+    {
+      "id": "5015208",
+      "time": "2026-07-30 04:14:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列媒體：北部地區居民已接到通知，很快將聽到爆炸聲，系以色列國防軍在黎巴嫩開展軍事行動所致。"
+    },
+    {
+      "id": "mkt:019faf83-7341-7aab-8ef8-ee747be83798",
+      "time": "2026-07-30 04:14:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Meta Platforms (META.O) Q2 Reality Labs revenue $431m vs $428.7m expected; operating loss $4.62bn vs $4.45bn expected."
+    },
+    {
+      "id": "5015207",
+      "time": "2026-07-30 04:14:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "ARM預計第二財季營收13.3億至14.3億美元，分析師預估13.5億美元。"
+    },
+    {
+      "id": "5015206",
+      "time": "2026-07-30 04:13:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通預計，非手機業務營收（包括資料中心業務）的同比增速，在2027財年將加快至60%以上。"
+    },
+    {
+      "id": "5015205",
+      "time": "2026-07-30 04:13:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通預計，截至2029財年，非手機業務總營收將增長至400億美元。"
+    },
     {
       "id": "mkt:019faf81-96e7-7aab-8ef8-e12e0f44444e",
       "time": "2026-07-30 04:12:13",
@@ -163794,36 +163858,6 @@
         "Impact mixed"
       ],
       "text": "【Tesla Q2 revenue beats expectations; EPS misses】Tesla (TSLA.O) reported Q2 revenue of $28.2 bln, above consensus $25.706 bln, but adjusted EPS of $0.33 missed the Street at $0.51. Free cash flow was negative $1.09 bln. Elon Musk said full-year spending will exceed $25 bln as Tesla ramps vehicle, battery and robot output across six factories; the investment is weighing on current results and investors are seeking more detail on cash deployment."
-    },
-    {
-      "id": "mkt:019f8b78-bb32-7aab-8e51-d141a4942cb8",
-      "time": "2026-07-23 04:16:12",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bearish"
-      ],
-      "text": "Alphabet (GOOG.O) has reached an equity allocation agreement and will issue up to $40 bln of Class A and Class C shares under a market trading plan."
-    },
-    {
-      "id": "5003026",
-      "time": "2026-07-23 04:14:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "Alphabet：人工智慧功能正推動搜尋查詢量增長。"
-    },
-    {
-      "id": "5003025",
-      "time": "2026-07-23 04:13:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉：我們奧斯汀半導體工廠的建設、裝置採購工作持續取得進展。"
     }
   ]
 }
