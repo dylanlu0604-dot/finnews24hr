@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-30 05:55:32",
-  "count": 17769,
+  "updated": "2026-07-30 05:59:22",
+  "count": 17770,
   "items": [
+    {
+      "id": "te:markets:570888",
+      "time": "2026-07-30 05:58:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Mexico",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Mexican Peso Steady After Fed Decision — The Mexican peso held steady at 17.44 per USD in late July after the Federal Reserve left interest rates unchanged, a decision that weakened the US dollar as roughly one-third of investors had expected a rate hike. Mexico continued to benefit from a wide interest rate differential, with Banxico's policy rate at 6.50% versus the Fed's 3.50%-3.75% range, although further Fed tightening could narrow the peso's yield advantage. Investors also viewed Mexico's trade position favorably after the US announced new tariffs on imports from about 60 economies. Goods that comply with USMCA rules of origin will remain exempt from the new measures, preserving Mexico's preferential access to the US market. Meanwhile, Mexico's trade surplus widened to $4.09 billion in June from $0.51 billion a year earlier, well above forecasts of $2.28 billion."
+    },
+    {
+      "id": "5015289",
+      "time": "2026-07-30 05:58:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月30日06時繼續釋出暴雨黃色預警。"
+    },
+    {
+      "id": "5015288",
+      "time": "2026-07-30 05:58:06",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "微軟首席財務官表示，全年雲業務營收突破2140億美元，其中近90%來自前沿模型公司以外的客戶。"
+    },
+    {
+      "id": "mkt:019fafe2-1225-7aab-8efa-2cbfea5a9811",
+      "time": "2026-07-30 05:57:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) CFO said fourth-quarter contract backlog excluding OpenAI increased 25%."
+    },
+    {
+      "id": "5015287",
+      "time": "2026-07-30 05:57:01",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "微軟首席財務官：剔除OpenAI影響，第四季度合同積壓增長25%。"
+    },
     {
       "id": "5015286",
       "time": "2026-07-30 05:54:53",
@@ -163817,47 +163869,6 @@
         "市場"
       ],
       "text": "紐約期銀日內跌1%，現報59.37美元/盎司。"
-    },
-    {
-      "id": "5003102",
-      "time": "2026-07-23 05:58:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特軍方：防空系統當前正在攔截具有威脅的伊朗敵方無人機。"
-    },
-    {
-      "id": "mkt:019f8bd5-ed2e-7aab-8e53-729fcfe89bae",
-      "time": "2026-07-23 05:58:00",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Kuwait's military said its air-defence systems are currently intercepting \"hostile\" Iranian drone threats."
-    },
-    {
-      "id": "mkt:019f8bd4-a622-7aab-8e53-6b007fdf472b",
-      "time": "2026-07-23 05:56:36",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bearish"
-      ],
-      "text": "Tesla (TSLA.O) CFO says negative free cash flow will widen in H2 2026."
-    },
-    {
-      "id": "5003101",
-      "time": "2026-07-23 05:55:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "特斯拉CFO： 2026 年下半年公司自由現金流缺口將進一步擴大。"
     }
   ]
 }
