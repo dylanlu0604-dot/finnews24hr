@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-29 21:40:22",
-  "count": 17504,
+  "updated": "2026-07-29 21:44:31",
+  "count": 17492,
   "items": [
+    {
+      "id": "5014749",
+      "time": "2026-07-29 21:41:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國內政部訊息人士稱，法國已向俄羅斯媒體人士克謝尼婭·費奧多羅娃釋出驅逐令。"
+    },
+    {
+      "id": "5014748",
+      "time": "2026-07-29 21:41:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網正式測定：07月29日21時19分在日本九州島附近海域（北緯32.45度，東經130.45度）發生5.3級地震，震源深度10千米。"
+    },
+    {
+      "id": "te:markets:570796",
+      "time": "2026-07-29 21:40:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.84% Lower — The Dow Jones Index is dropping 441 points. Leading the losses are P&G (-4.07%), Sherwin-Williams (-3.57%) and Caterpillar (-3.33%). Top gainers were Chevron (2.50%), Coca-Cola (1.82%) and Travelers Companies (1.55%)."
+    },
+    {
+      "id": "mkt:019fae1a-6cab-7aab-8eeb-b285da701e31",
+      "time": "2026-07-29 21:39:55",
+      "tags": [
+        "MKT News",
+        "PYPL.O",
+        "Impact bullish"
+      ],
+      "text": "Macquarie raises PayPal (PYPL.O) PT to $62 from $50."
+    },
+    {
+      "id": "5014747",
+      "time": "2026-07-29 21:39:43",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【蘇州上半年簽約億元以上專案1594個】據蘇州市發改委訊息，2026年上半年，蘇州市億元以上專案已簽約1594個，計劃總投資5405億元。其中，產業專案1589個，佔比超過99%；專案備案率、開工率、納統入庫率、投產投用率分別達到33%、50%、18%、25%。"
+    },
     {
       "id": "mkt:019fae1a-152d-7aab-8eeb-abf12be70b30",
       "time": "2026-07-29 21:39:32",
@@ -160560,153 +160606,6 @@
         "Precious Metals"
       ],
       "text": "Spot silver touched $60/oz, the highest since July 10, up 2.11% on the day."
-    },
-    {
-      "id": "5002641",
-      "time": "2026-07-22 21:44:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗代理國防部長稱：伊朗自研技術重塑戰場態勢。"
-    },
-    {
-      "id": "5002640",
-      "time": "2026-07-22 21:44:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破60美元/盎司，日內漲2.11%。"
-    },
-    {
-      "id": "te:markets:568913",
-      "time": "2026-07-22 21:43:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Rallies on Strong Corporate Results — The Ibovespa rose over 1% to trade above 175,000 on Wednesday, supported by strong corporate results. Vale advanced near 2% after reporting that iron ore production rose 0.8% year-on-year in the April-June period, its strongest second-quarter output since 2018. Bradesco BBI reiterated its Buy rating after the company's sales volumes exceeded expectations. WEG jumped near 8% after reporting healthy operating margins and return on invested capital in the second quarter, despite lower year-on-year EBITDA and revenue. Still, revenue from international markets increased 14.7% in US dollar terms, the company said the appreciation of the real weighed on reported revenue in local currency. Petrobras rose over 1% as oil prices climbed amid escalating tensions in the Middle East. On the trade front, a 25% US tariff on a range of Brazilian products took effect today. Key exports including beef, coffee, rare earths, energy products, aircraft, and aircraft parts are exempt."
-    },
-    {
-      "id": "5002639",
-      "time": "2026-07-22 21:43:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列前總理猛烈抨擊擬議中的美沙核協議，警告稱允許沙特開展鈾濃縮活動可能引發地區軍備競賽，並損害以色列安全。"
-    },
-    {
-      "id": "5002638",
-      "time": "2026-07-22 21:42:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈馬斯：我們呼籲支援談判的國家向以色列施壓，促使其執行協議並進入下一階段。"
-    },
-    {
-      "id": "mkt:019f8a10-94c0-7aab-8e49-543527e877a2",
-      "time": "2026-07-22 21:42:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Jinfu Technology to advance liquid‑cooling capacity with self‑funding to meet surging orders】Jinfu Technology said after completing the April 2026 acquisitions of Zhuohui Metal and Lianyi Thermal Energy it is prioritizing liquid‑cooling capacity expansion under its annual plan. In 1H26 the two units have used part of their own funds to expand capacity, with output gradually being released. On June 17, 2026 the company filed a simplified private placement proposal to raise up to 300 million yuan to fund the Jinfu South China liquid‑cooling plate production base and expansion projects at Zhuohui Metal and Lianyi Thermal Energy; the fundraising is underway. Until proceeds are received, Jinfu will advance the projects using internally raised funds to accelerate expansion and meet rapidly growing customer orders."
-    },
-    {
-      "id": "5002637",
-      "time": "2026-07-22 21:42:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部部署防汛關鍵期工作】水利部22日舉行會商，滾動分析研判近期全國雨情水情汛情發展態勢，系統安排部署防汛關鍵期工作。記者瞭解到，未來十天，受副熱帶高壓、高空槽以及後續颱風可能登陸共同影響，珠江、長江、松花江等流域部分地區將有明顯降雨，且與前期降雨落區高度重疊。珠江流域西江、北江、東江、韓江，長江中下游及洞庭湖水系部分支流，松花江流域嫩江、松花江吉林段、松花江幹流等主要江河將出現漲水過程；暴雨區內部分中小河流可能發生超警洪水；強降雨覆蓋範圍內發生山洪災害的風險高。面對可能發生的汛情，水利部相關負責人要求做好6方面工作：加強雨水情監測預報預警、做好大江大河流域防洪排程、突出抓好山洪災害防禦、嚴格落實水庫防垮壩措施、強化堤防巡查防守、嚴密防範颱風暴雨洪水。（新華社）"
-    },
-    {
-      "id": "5002636",
-      "time": "2026-07-22 21:42:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金富科技：公司對液冷板生產基地專案以自籌資金先行投入，積極推動擴產速度，以滿足客戶快速增長的訂單供應需求】金富科技在投資者關係活動記錄表表示，公司自2026年4月份完成卓暉金屬和聯益熱能的併購後，按照年度工作計劃全力支援液冷板塊擴產。2026年上半年，卓暉金屬和聯益熱能已用部分自有資金持續擴產，產能陸續釋放。同時，公司於2026年6月17日披露了《2026年度以簡易程式向特定物件發行股票預案》，擬募集資金總額不超過3億元，主要用於金富華南液冷板生產基地專案、卓暉金屬液冷元件擴產專案、聯益熱能液冷元件擴產專案的擴產。目前該融資事項正在有序推動中。在募集資金到位之前，公司將根據經營狀況和發展規劃對專案以自籌資金先行投入，積極推動擴產速度，以滿足客戶快速增長的訂單供應需求。"
-    },
-    {
-      "id": "mkt:019f8a10-5183-7aab-8e49-4dc4c4b1df78",
-      "time": "2026-07-22 21:42:32",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O) will provide $40 million of AI tokens and cloud credits to support the \"Genesis Mission\" program."
-    },
-    {
-      "id": "5002635",
-      "time": "2026-07-22 21:42:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列證券交易所電子交易系統將於2026年7月22日上午9:00恢復運營。"
-    },
-    {
-      "id": "5002634",
-      "time": "2026-07-22 21:41:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "戴爾科技股價上漲7.6%，報434.89美元/股，總市值報2810億美元。"
-    },
-    {
-      "id": "5002633",
-      "time": "2026-07-22 21:41:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：投入價值 4000 萬美元的 AI 算力額度與雲服務積分，為研究人員提供支援，助力 “起源任務” 專案。"
-    },
-    {
-      "id": "mkt:019f8a0f-6a32-7aab-8e49-40fd0f879360",
-      "time": "2026-07-22 21:41:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hamas calls on states backing negotiations to pressure Israel to implement the agreement and move to the next phase."
-    },
-    {
-      "id": "5002632",
-      "time": "2026-07-22 21:41:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【肯亞一金礦坍塌致5人死亡】肯亞警方22日說，該國西南部納羅克郡一處金礦當天發生坍塌事故，造成至少5名礦工死亡。納羅克郡警察指揮官帕特里克·洛博利亞告訴新華社記者，持續強降雨導致礦井通道坍塌，目前仍有礦工被困井下，救援行動正在持續進行。但由於缺乏專業井下探測和搜救裝置，救援進展較為緩慢。洛博利亞說，已有數名倖存者獲救，並被送往附近醫療機構接受治療。近年來，肯亞黃金採礦業安全事故頻發。在一些黃金資源豐富地區，由於非法和缺乏監管的採礦活動普遍存在，礦井坍塌等事故時有發生。（新華社）"
-    },
-    {
-      "id": "5002631",
-      "time": "2026-07-22 21:40:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【海灣“雙雄”高層罕見同框有“故事”】\n沙烏地阿拉伯和阿拉伯聯合大公國，此前因葉門、伊朗問題“鬧掰”，如今，兩國高層不僅同框合影，而且高調發布照片。\n沙特王室顧問、娛樂事務總局局長圖爾基·謝赫21日在社交媒體平臺X釋出了沙特國防大臣哈立德·本·薩勒曼與阿聯酋副總統謝赫曼蘇爾·本·扎耶德·阿勒納哈揚“幾天前”的合影，並配文“沙特和阿聯酋：一個體現兄弟情誼和強勁夥伴關係的故事”。阿聯酋總統外交顧問安瓦爾·加爾賈什也分享了合影並寫道：“海灣地區最大的故事就在一張照片中。”\n同一天，沙特新聞大臣薩勒曼·本·優素福·杜薩里、阿聯酋國家媒體管理局局長阿卜杜拉·本·穆罕默德·艾哈邁德也在社交媒體釋出了展現兩國團結、友好的帖文。\n法新社22日報道，沙特和阿聯酋高階別官員的帖文意味著兩國因葉門衝突等分歧公開鬧掰數月後走向和解。\n沙特和阿聯酋長期被視為海灣“雙雄”。兩國長期以來關係密切，但近年來在地區的競爭博弈也日益凸顯。雙方就葉門局勢、蘇丹衝突、對伊朗政策和對以色列關係等地區議題存在分歧，在能源政策、吸引外資和高階人才方面的競爭也“暗流湧動”。\n2025年12月，沙特和阿聯酋因支援葉門衝突中的不同派別公開對立。沙特主導的多國聯軍2015年介入葉門衝突，支援葉門政府打擊胡塞武裝。阿聯酋雖是多國聯軍成員，因利益與沙特不同轉而支援葉門地方勢力南方過渡委員會。2025年12月31日，阿聯酋軍隊開始從葉門撤離。\n自那以後，沙特和阿聯酋媒體互相批評對方，阿聯酋3月封禁了沙烏地阿拉伯電視臺在其境內的社媒賬號。\n此外，兩國分歧還包括就美以伊衝突持不同立場。美以對伊朗動武后，駐有美軍基地的海灣國家成為伊朗反擊目標。其中，阿聯酋受襲最為嚴重，希望海灣國家對伊朗採取強硬立場，但沙特的公開態度相對審慎，支援巴基斯坦從中斡旋。\n5月1日起，阿聯酋退出石油輸出國組織（歐佩克）及“歐佩克+”，這被視作對歐佩克“老大”沙特的公開叫板。\n法新社報道，隨著美國與伊朗本月持續互襲、胡塞武裝威脅將封鎖紅海航運要道曼德海峽，沙特和阿聯酋開始修復雙邊關係。\n阿聯酋迪拜公共政策研究中心主任穆罕默德·巴哈隆認為，沙特和阿聯酋歷史上有關係更糟糕的時候，但雙方並不存在根本性分歧。兩國都已作出戰略調整，現實依然是共同利益遠遠大於分歧，因此兩國走向和解並不令人意外。（新華社）"
-    },
-    {
-      "id": "mkt:019f8a0e-7b53-7aab-8e49-38c5c6a9755a",
-      "time": "2026-07-22 21:40:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Italy's economy minister said Italy will impose additional taxes and fees on small parcels on top of similar EU charges."
-    },
-    {
-      "id": "5002630",
-      "time": "2026-07-22 21:40:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "晨星推出美國資本配置龍頭指數，為投資者提供那些資本配置實踐堪稱標杆的企業敞口。"
     }
   ]
 }

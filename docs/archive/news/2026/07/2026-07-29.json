@@ -1,7 +1,53 @@
 {
   "date": "2026-07-29",
-  "count": 2814,
+  "count": 2819,
   "items": [
+    {
+      "id": "5014749",
+      "time": "2026-07-29 21:41:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國內政部訊息人士稱，法國已向俄羅斯媒體人士克謝尼婭·費奧多羅娃釋出驅逐令。"
+    },
+    {
+      "id": "5014748",
+      "time": "2026-07-29 21:41:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網正式測定：07月29日21時19分在日本九州島附近海域（北緯32.45度，東經130.45度）發生5.3級地震，震源深度10千米。"
+    },
+    {
+      "id": "te:markets:570796",
+      "time": "2026-07-29 21:40:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.84% Lower — The Dow Jones Index is dropping 441 points. Leading the losses are P&G (-4.07%), Sherwin-Williams (-3.57%) and Caterpillar (-3.33%). Top gainers were Chevron (2.50%), Coca-Cola (1.82%) and Travelers Companies (1.55%)."
+    },
+    {
+      "id": "mkt:019fae1a-6cab-7aab-8eeb-b285da701e31",
+      "time": "2026-07-29 21:39:55",
+      "tags": [
+        "MKT News",
+        "PYPL.O",
+        "Impact bullish"
+      ],
+      "text": "Macquarie raises PayPal (PYPL.O) PT to $62 from $50."
+    },
+    {
+      "id": "5014747",
+      "time": "2026-07-29 21:39:43",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【蘇州上半年簽約億元以上專案1594個】據蘇州市發改委訊息，2026年上半年，蘇州市億元以上專案已簽約1594個，計劃總投資5405億元。其中，產業專案1589個，佔比超過99%；專案備案率、開工率、納統入庫率、投產投用率分別達到33%、50%、18%、25%。"
+    },
     {
       "id": "mkt:019fae1a-152d-7aab-8eeb-abf12be70b30",
       "time": "2026-07-29 21:39:32",
