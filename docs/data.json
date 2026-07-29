@@ -1,7 +1,94 @@
 {
-  "updated": "2026-07-30 06:08:24",
-  "count": 17785,
+  "updated": "2026-07-30 06:12:12",
+  "count": 17787,
   "items": [
+    {
+      "id": "mkt:019fafee-968b-7aab-8efa-aa95e20ec9b9",
+      "time": "2026-07-30 06:11:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver is up more than 1.00% intraday at $58.17/oz."
+    },
+    {
+      "id": "5015319",
+      "time": "2026-07-30 06:10:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨上漲0.3%，從早盤下跌中反彈。"
+    },
+    {
+      "id": "5015318",
+      "time": "2026-07-30 06:10:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場資訊：ChatGPT、Roblox將受歐盟最嚴格平臺規則約束。"
+    },
+    {
+      "id": "mkt:019fafed-68c9-7aab-8efa-a434b1ba0fd5",
+      "time": "2026-07-30 06:09:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) expects first fiscal quarter operating expenses of $16.8–$16.9 billion and Azure and other cloud services revenue to grow about 45% at constant currency."
+    },
+    {
+      "id": "mkt:019fafec-f229-7aab-8efa-9bbb5d07907a",
+      "time": "2026-07-30 06:09:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact mixed"
+      ],
+      "text": "Microsoft (MSFT.O) expects calendar-year 2026 capital expenditures of about $175 billion."
+    },
+    {
+      "id": "5015317",
+      "time": "2026-07-30 06:09:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔全域防空警報鳴響，烏方預警導彈逼近首都，防空系統進入應戰狀態。"
+    },
+    {
+      "id": "5015316",
+      "time": "2026-07-30 06:08:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟首席財務官：2027財年第一財季資本支出預計將超過500億美元，該規模已計入租賃重分類影響。"
+    },
+    {
+      "id": "mkt:019fafeb-c9b3-7aab-8efa-90f6d32e2231",
+      "time": "2026-07-30 06:08:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Microsoft (MSFT.O) issued a series of financial guidance updates; its US-listed shares extended after-hours gains to about 8%."
+    },
     {
       "id": "mkt:019fafea-c14a-7aab-8efa-8c974915e48f",
       "time": "2026-07-30 06:07:05",
@@ -163961,76 +164048,6 @@
         "公司"
       ],
       "text": "特斯拉CEO埃隆·馬斯克： 特斯拉與SpaceX之間業務重合的領域正持續增多。"
-    },
-    {
-      "id": "mkt:019f8be2-e214-7aab-8e53-cc3c4cb9fc14",
-      "time": "2026-07-23 06:12:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【WSJ: US rushes forces, medics and equipment to Middle East to give Trump more options against Iran】The Wall Street Journal, citing flight-tracking data and US officials, reports the US is urgently deploying troops, medical personnel and equipment to the Middle East to expand military options as President Trump considers broader action against Iran. Over the past week special operations forces have been moved from US bases to the region. Multiple fighter squadrons have completed deployments across the Middle East and bombers at US and UK bases are on high alert to reinforce operations. More than 150 medical personnel arrived in recent days at Landstuhl Regional Medical Center in Germany, the primary treatment facility for US personnel wounded in Middle Eastern combat."
-    },
-    {
-      "id": "mkt:019f8be1-65d5-7aab-8e53-c0ba966c35fb",
-      "time": "2026-07-23 06:10:32",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Tesla (TSLA.O) CEO Elon Musk said he expects demand for fully autonomous robotaxis will not face any challenges."
-    },
-    {
-      "id": "5003124",
-      "time": "2026-07-23 06:10:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "特斯拉CEO埃隆·馬斯克： 公司預計Robotaxi 不會面臨需求不足的問題。"
-    },
-    {
-      "id": "mkt:019f8bdf-e420-7aab-8e53-bafac8a05580",
-      "time": "2026-07-23 06:08:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude up more than 2.00% intraday at $88.64/bbl."
-    },
-    {
-      "id": "mkt:019f8bdf-cd8f-7aab-8e53-b1aef443f8a2",
-      "time": "2026-07-23 06:08:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "Tesla",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "Tesla (TSLA.O) CEO Elon Musk said Micron offered a substantial allocation of memory chips on reasonable terms."
-    },
-    {
-      "id": "5003123",
-      "time": "2026-07-23 06:08:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克表示身體不適，在回答有關供應商滿足Optimus需求的問題時稱自己“今天有點病”。"
     }
   ]
 }
