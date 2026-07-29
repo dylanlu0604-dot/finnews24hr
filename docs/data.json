@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-30 01:42:56",
+  "updated": "2026-07-30 01:47:02",
   "count": 17431,
   "items": [
+    {
+      "id": "5014942",
+      "time": "2026-07-30 01:46:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "xAI推出Grok 4.5。"
+    },
+    {
+      "id": "5014941",
+      "time": "2026-07-30 01:46:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceXAI：推出Grok Voice Think Fast 2.0，定價為 0.08 美元 / 分鐘音訊。"
+    },
+    {
+      "id": "mkt:019faefa-7e15-7aab-8ef1-759691c8cc64",
+      "time": "2026-07-30 01:44:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "XAI launches Grok 4.5."
+    },
+    {
+      "id": "mkt:019faef9-7768-7aab-8ef1-6a13f7e43087",
+      "time": "2026-07-30 01:43:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed meeting vote preview: two hawkish dissents largely locked in; extra dissents uncertain】Major sell-side houses expect two hawkish dissenting votes at the Fed meeting—most often identified as Hamak and Logan—while the prospect of additional opposing votes remains unresolved. TD Securities, JPMorgan and others flag Hamak and Logan as likely dissenters; JPMorgan and Citi say Kashkari could also dissent. UBS and BofA expect the FOMC to hold rates, with UBS projecting 8–10 votes for a hold if no hike; Danske and several banks see 2–4 members favoring a hike but not enough to change policy. Brown Brothers Harriman and Prudential model a 10–2 split (Hamak, Logan); Cook joining would make it 9–3. Firms warn that more than two hawkish dissents would be interpreted as a stronger signal for a September hike. Recent hawkish signals: Kashkari expects one hike in 2026 and steady rates in 2027; Logan and Hamak say rates should rise to rein in elevated inflation; Cook says he’s ready to act if disinflation does not materialize. Market-implied probabilities: Kalshi shows Hamak and Logan each ~58% to dissent; Polymarket prices two dissents at 40%, one dissent at 21% and three dissents at 13%."
+    },
     {
       "id": "mkt:019faef5-c8ec-7aab-8ef1-636619363147",
       "time": "2026-07-30 01:39:31",
@@ -160222,43 +160265,6 @@
         "DXY"
       ],
       "text": "【US media: New Mossad chief visited Washington to coordinate Iran nuclear talks】Axios, citing sources, reports Israel’s new Mossad chief Roman Gofman visited Washington two weeks ago to meet US officials on the Israel‑Iran conflict and Iran’s nuclear program. It was his first US trip since taking office in June and occurred just before renewed tensions in the Strait of Hormuz and a flare‑up in fighting. Gofman’s visit aimed to coordinate nuclear‑deal negotiations with the White House; he met with CIA director Ratcliffe and White House officials. Sources say Ratcliffe, within Trump’s core decision circle, has been skeptical of a US‑Iran memorandum and warned Iran could interpret agreement terms differently from the US, including provisions related to the Strait of Hormuz."
-    },
-    {
-      "id": "te:markets:568952",
-      "time": "2026-07-23 01:45:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Brazilian Real Strengthens on Carry Trade — The Brazilian real strengthened to 5.06 per USD in July, the highest in seven weeks, on renewed carry-trade interest. Strikes between the US and Iran escalated and US officials downplayed the chances of diplomacy, increasing geopolitical concern and driving emerging-market investors to momentarily pivot away from the dollar. The high real interest rates by the Central Bank of Brazil made Brazilian real assets attractive among investors, as risks of high inflation and wide deficit spending by Brasilia drove the Selic rate to remain elevated. Still, foreign trade remains a key concern. Investors are awaiting measures from the government to mitigate the impact of new US tariffs. However, key exports including beef, coffee, rare earths, energy products, aircraft, and aircraft parts are exempt from the new 25% tariff."
-    },
-    {
-      "id": "5002909",
-      "time": "2026-07-23 01:44:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國：今年上半年全球貿易在價格壓力上升情況下持續擴張】聯合國貿發會議22日釋出的《全球貿易更新》報告顯示，2026年上半年全球貿易繼續保持增長勢頭，但價格壓力持續上升，貿易擴張呈現出更加不均衡的特點。在全球經濟不確定性加劇的背景下，高科技產品成為推動貿易增長的重要力量。報告預計，今年上半年全球貨物貿易額約達13.7萬億美元，比2025年同期增長12.5%；服務貿易同比增長10.5%。貨物和服務貿易合計新增約2萬億美元，全球貿易全年有望創下歷史新高。"
-    },
-    {
-      "id": "5002908",
-      "time": "2026-07-23 01:44:09",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗議會議長：如果伊朗不能賣石油 其他國家也別想賣】伊朗議會議長卡利巴夫在社交平臺發文稱：“這場戰爭的邏輯很清楚，要麼大家都能賣油，要麼誰都不能賣。如果我們無法在本地區出售石油，其他國家也別想出售。”他表示，如果伊朗的安全得不到保障，任何基礎設施都不會安全。卡利巴夫稱，霍爾木茲海峽的安全取決於美軍不在該地區駐紮。他重申，霍爾木茲海峽的狀況不會恢復到戰前狀態。"
-    },
-    {
-      "id": "5002907",
-      "time": "2026-07-23 01:43:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列媒體：美國已告知以色列，計劃在本輪衝突中首次動用重型轟炸機升級對伊朗打擊；美方“雄獅怒吼”行動啟用從英國本土直接起飛的戰略轟炸機，馬庫什山被認為是主要打擊目標之一。"
     }
   ]
 }
