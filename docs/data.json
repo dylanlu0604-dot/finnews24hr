@@ -1,7 +1,100 @@
 {
-  "updated": "2026-07-29 23:03:31",
-  "count": 17462,
+  "updated": "2026-07-29 23:07:42",
+  "count": 17464,
   "items": [
+    {
+      "id": "mkt:019fae69-3df3-7aab-8eee-58f2b99393e0",
+      "time": "2026-07-29 23:06:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A senior Israeli official told i24News that Iran’s \"Hao Shan\" site contains centrifuges but has not yet begun uranium enrichment."
+    },
+    {
+      "id": "5014855",
+      "time": "2026-07-29 23:05:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列一名高階官員向 i24 新聞臺透露：鎬山設有離心機，但該地尚未啟動鈾濃縮活動。"
+    },
+    {
+      "id": "mkt:019fae68-4673-7aab-8eee-54bd68f8b0dd",
+      "time": "2026-07-29 23:04:57",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iraqi Hezbollah Brigades says it will give the government until Aug. 6 to demonstrate it can defend Iraq's sovereignty."
+    },
+    {
+      "id": "5014854",
+      "time": "2026-07-29 23:04:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）：上週美國中西部煉油廠開工率升至 2023 年 12 月以來最高水平。"
+    },
+    {
+      "id": "5014853",
+      "time": "2026-07-29 23:04:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剔除疫情影響後 倫敦人口自上世紀80年代以來首度下降】除疫情期間短暫的人口外流外，倫敦人口自上世紀80年代以來首次出現下降，顯示越來越多居民因生活成本高企而被迫離開倫敦。英國國家統計局最新公佈的估算資料顯示，截至2025年年中，倫敦人口減少近2.7萬人，降至約910萬人，較此前創下的歷史高點有所回落。去年，倫敦是英格蘭唯一一個人口出現下降的地區。人口流失主要源於居民遷往英國其他地區。此前，倫敦人口曾在2020年和2021年新冠疫情封鎖期間出現下降，隨後在接下來的三年中強勁反彈。"
+    },
+    {
+      "id": "5014852",
+      "time": "2026-07-29 23:03:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華潤雙鶴：擬以56.56億元現金收購利爾化學23.5%股份】華潤雙鶴公告，擬以支付現金方式收購久遠集團及化材科技合計持有的利爾化學23.50%股份，轉讓總價款為56.56億元。交易完成後，利爾化學控股股東將變更為華潤雙鶴，實際控制人將變更為中國華潤。本次交易預計構成重大資產重組。利爾化學主要從事農藥原藥、製劑產品的研發、生產與銷售，同步構建了合成生物製造產業平臺，是國內最大的氯代吡啶類農藥原藥和製劑的生產企業，也是國內大規模的草銨膦、精草銨膦原藥生產企業。透過本次交易，華潤雙鶴可快速實現合成生物技術產品的產業化落地。"
+    },
+    {
+      "id": "5014851",
+      "time": "2026-07-29 23:03:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：一架美國空軍 F-16 戰鬥機正在中東上空執行巡邏任務。"
+    },
+    {
+      "id": "mkt:019fae66-b481-7aab-8eee-49bebc6cba1e",
+      "time": "2026-07-29 23:03:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "SC crude oil front-month contract rose 6.0% intraday to 567.00 yuan/barrel."
+    },
+    {
+      "id": "mkt:019fae66-8c7c-7aab-8eee-42b6110c6497",
+      "time": "2026-07-29 23:03:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Oil spike lifts US yields as markets await Fed rate decision】Escalation in Iran-related fighting and a sharp jump in crude pushed US Treasury yields higher on Wednesday, ending a three-day decline as markets feared higher energy costs would add to inflation ahead of the Fed's rate decision later in the day. The US and Saudi forces struck Iran-backed Iraqi militias — the first US airstrikes in the Middle East since Trump paused strikes on Iran last week — while Iran reported attacks on a US base in Jordan and on vessels in the Strait of Hormuz; Trump vowed retaliation. WTI and Brent rose more than 7% to $84.00/bbl and $87.81/bbl. The 10‑year Treasury yield rose 2.1bps to 4.625%, intraday high 4.6387%; the 30‑year rose 0.8bps to 5.104%, intraday high 5.113%. Market focus now shifts to the Fed policy meeting."
+    },
     {
       "id": "5014850",
       "time": "2026-07-29 23:02:48",
@@ -160324,68 +160417,6 @@
         "國際"
       ],
       "text": "美國貿易代表格里爾：可適時分階段啟用貿易工具保護國內鐵礦石與鐵燧巖產能，以降低對外國鋼材投入品的依賴。"
-    },
-    {
-      "id": "5002777",
-      "time": "2026-07-22 23:07:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "客服軟體服務商NiCE最新資料顯示：儘管Anthropic人工智慧模型在程式碼任務上表現領先，但用於客戶服務場景時弱於谷歌與OpenAI。對於語音機器人而言，響應速度至關重要；Anthropic模型雖然具備準確率優勢，但需要付出極高的延遲成本。"
-    },
-    {
-      "id": "mkt:019f8a5c-f597-7aab-8e4c-7210770e5cfc",
-      "time": "2026-07-22 23:06:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Amazon",
-        "AMZN.O"
-      ],
-      "text": "【Amazon cuts jobs in AGI unit】Amazon (AMZN.O) on Wednesday cut roles in its general artificial intelligence (AGI) unit, the latest small-scale layoff following a larger round in January. A spokesperson said the company is refocusing on customer-priority AI projects to accelerate progress in key areas, and that this focus requires reducing some positions within the AGI organization."
-    },
-    {
-      "id": "5002776",
-      "time": "2026-07-22 23:05:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，巴基斯坦在斡旋伊核談判後向美國申請100億美元資金支援。"
-    },
-    {
-      "id": "mkt:019f8a5b-eec2-7aab-8e4c-6f4bfbb07b2f",
-      "time": "2026-07-22 23:05:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Euronext September wheat futures jumped 4.5% on reports that Russia's main grain export port Novorossiysk imposed a nighttime navigation ban."
-    },
-    {
-      "id": "5002775",
-      "time": "2026-07-22 23:04:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖：伊朗將透過有效管控霍爾木茲海峽，守護波斯灣地區安全，杜絕敵方利用這條水道謀利的可乘之機。"
-    },
-    {
-      "id": "5002774",
-      "time": "2026-07-22 23:04:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖：伊朗將保障波斯灣地區安全。"
-    },
-    {
-      "id": "5002773",
-      "time": "2026-07-22 23:03:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國研發出具有“電子共振”結構的鈣鈦礦光伏電池】記者7月22日從蘇州大學獲悉，該校李耀文、陳先凱與東南大學張天愷等3名學者合作，提出“電子共振”策略，以解決柔性鈣鈦礦光伏電池效率不高、穩定性弱等難題。相關成果22日由國際學術期刊《自然》線上發表。（新華社）"
     }
   ]
 }
