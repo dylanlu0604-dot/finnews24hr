@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-30 06:55:08",
-  "count": 17786,
+  "updated": "2026-07-30 06:59:07",
+  "count": 17791,
   "items": [
+    {
+      "id": "mkt:019fb019-6c06-7aab-8efb-000d3ebf9169",
+      "time": "2026-07-30 06:58:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "MSFT.O",
+        "Impact bullish",
+        "NVDA.O",
+        "PLTR.O"
+      ],
+      "text": "【Microsoft CEO: clients should be able to switch AI models easily】Microsoft CEO Satya Nadella said clients must be able to freely switch between closed‑source and open‑source AI models. On a Wednesday analyst call he said the number of Microsoft customers building with multiple models has quadrupled since the start of the year. Nadella urged decoupling system frameworks from models so any given model is replaceable at any time and customers can deploy frontier models or use multiple models in production. Microsoft has investments in OpenAI and Anthropic and last week joined Nvidia and Palantir in signing a public letter backing open models."
+    },
+    {
+      "id": "mkt:019fb019-56e2-7aab-8efa-ff8151961b72",
+      "time": "2026-07-30 06:57:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "An adviser to Ukraine's Ministry of Internal Affairs said Russia has launched a large-scale attack on Ukraine, with multiple cities including Kyiv struck; cruise missiles are expected to arrive imminently."
+    },
+    {
+      "id": "5015346",
+      "time": "2026-07-30 06:57:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4090美元/盎司，日內漲0.60%。"
+    },
+    {
+      "id": "5015345",
+      "time": "2026-07-30 06:57:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都基輔多次傳出強烈爆炸聲】當地時間30日凌晨1時8分至11分，新華社記者在烏克蘭首都基輔多次聽到強烈爆炸聲，隨後基輔拉響防空警報。烏空軍在社交媒體發文稱，俄軍導彈正襲向基輔、第聶伯羅、克里沃伊羅格等城市。（新華社）"
+    },
+    {
+      "id": "mkt:019fb017-08da-7aab-8efa-f0e93f3d1ec3",
+      "time": "2026-07-30 06:55:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukrainian official says Kyiv was struck by a ballistic missile."
+    },
+    {
+      "id": "5015344",
+      "time": "2026-07-30 06:55:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭官員：基輔遭遇彈道導彈襲擊。"
+    },
     {
       "id": "5015343",
       "time": "2026-07-30 06:54:31",
@@ -164030,14 +164096,6 @@
         "Important"
       ],
       "text": "South Korea | GDP Growth Rate Flash (QoQ) (Q2) | actual 0.6% | consensus 0.4% | previous 1.80%"
-    },
-    {
-      "id": "mkt:019f8c0c-6aa0-7aab-8e54-0f1d7b26be06",
-      "time": "2026-07-23 06:57:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea, U.S. may announce first investment project as early as late August】South Korea’s minister of trade, industry and energy Kim Jung-kwan said the first Korea-to-U.S. investment project under the bilateral trade agreement could be announced as early as late August, with talks currently focused on energy. Kim, on a four-day visit to Washington, will meet U.S. Commerce Secretary Lutnick and other officials to discuss investment and trade. The move would implement last year’s deal under which Seoul pledged $350 billion of investment into the U.S., subject to an annual cap of $20 billion."
     }
   ]
 }
