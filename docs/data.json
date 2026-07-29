@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-29 13:41:52",
-  "count": 17643,
+  "updated": "2026-07-29 13:45:51",
+  "count": 17646,
   "items": [
+    {
+      "id": "5013741",
+      "time": "2026-07-29 13:45:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破58美元/盎司，日內漲1.61%。"
+    },
+    {
+      "id": "5013740",
+      "time": "2026-07-29 13:44:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "科創50指數翻紅，此前一度跌近5%。"
+    },
+    {
+      "id": "5013739",
+      "time": "2026-07-29 13:42:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金龍魚在廣州成立蛋類食品公司】企查查APP顯示，近日，益海嘉裡（廣州）蛋類食品有限公司成立，經營範圍包含：初級農產品收購；食用農產品批發；農產品的生產、銷售、加工、運輸、貯藏及其他相關服務等。企查查股權穿透顯示，該公司由金龍魚全資持股。"
+    },
+    {
+      "id": "5013738",
+      "time": "2026-07-29 13:42:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳上半年保險業原保險保費收入1277.50億元，同比增長5.31%】深圳上半年保險業原保險保費收入1277.50億元，同比增長5.31%，增速居一線城市首位。其中，財產險公司原保險保費收入350.94億元，同比增長7.76%；人身險公司原保險保費收入926.56億元，同比增長4.41%。行業賠付支出402.40億元，同比增長3.86%。（介面新聞）"
+    },
+    {
+      "id": "5013737",
+      "time": "2026-07-29 13:42:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【放量！2只雙創ETF成交額均突破100億】今日寬基ETF再度顯著放量，科創50ETF華夏（588000）、創業板ETF易方達（159915）成交額均突破100億，此外中證1000ETF南方（512100）、滬深300ETF華泰柏瑞（510300）成交額均接近50億。7月以來科創50ETF華夏（588000）累計申贖淨流入348億、滬深300ETF華泰柏瑞（510300）累計申贖淨流入295億，創業板ETF易方達（159915）累計申贖淨流入293億。"
+    },
+    {
+      "id": "5013736",
+      "time": "2026-07-29 13:41:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "渣打銀行執行長表示，該行同時採用西方和中國的AI模型。"
+    },
     {
       "id": "5013735",
       "time": "2026-07-29 13:40:51",
@@ -161874,35 +161923,6 @@
         "公司"
       ],
       "text": "【協鑫能科新設科技公司 含多項AI業務】企查查APP顯示，近日，蘇州協鑫拓肯科技有限公司成立，法定代表人為費智，註冊資本為5000萬元，經營範圍包含雲端計算裝備技術服務；人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由協鑫能科(002015)旗下無錫協鑫元極科技有限公司及蘇州協鑫鑫元科技有限公司共同持股。"
-    },
-    {
-      "id": "5001541",
-      "time": "2026-07-22 13:45:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【煤炭板塊再度活躍 大有能源衝擊漲停】煤炭板塊再度活躍，大有能源衝擊漲停，安泰集團、鄭州煤電、新大洲A等股漲幅靠前。"
-    },
-    {
-      "id": "te:markets:568744",
-      "time": "2026-07-22 13:44:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Ends 0.8% Higher as Consumer Stocks Rally — The NZX 50 advanced 107 points, or 0.8%, to close at 13,763 on Wednesday, hitting its highest level since July 9 and erasing losses from the previous session, mainly supported by gains in consumer discretionary, materials, healthcare, and financial stocks. Consumer discretionary surged 3.8%, buoyed by SkyCity Entertainment, which jumped 12.8% following upgraded earnings forecasts and positive revenue reports. Meanwhile, My Food Bag Group gained 3.6%. Traders shrugged off Wednesday's data, which showed that New Zealand's inflation rate accelerated to the highest level since Q4 2023 in the second quarter (Q2). However, persistently high oil prices capped the gains as inflation concerns fueled expectations of further interest rate hikes, while RBNZ Chief Economist Paul Conway recently warned that sticky inflation could prompt further monetary policy tightening. Among the other top performers were Fisher & Paykel (1.8%), Ryman Healthcare (1.8%), Infratil (1.5%), and A2 Milk (1.3%)."
-    },
-    {
-      "id": "5001540",
-      "time": "2026-07-22 13:43:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三夫戶外：今年會加快線下渠道的拓展】三夫戶外7月21日接受機構調研時表示，公司線下線上銷售渠道協同發展。公司今年會加快線下渠道的拓展，上半年，公司直營門店已經新開業6家，其中HOUDINI北京西紅門薈聚店於4月1日開業，4月30日X-BIONIC、HOUDINI、Klattermusen北京首創奧萊三家店同時開業，6月5日三夫戰術北京首創奧萊店開業、6月28日北京798X-BIONIC戰術戶外原點店開始營業，後續還會有北京藍色港灣、哈爾濱西城紅場、長春歐亞賣場店、瀋陽永珍城、上海青浦奧萊等新店落地或擴店計劃。公司在門店選址上，注重當地經濟水平、戶外運動成熟度及消費認知度，現階段門店在華北、東北地區較為集中。"
     }
   ]
 }
