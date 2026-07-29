@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-30 07:41:53",
-  "count": 17793,
+  "updated": "2026-07-30 07:45:51",
+  "count": 17794,
   "items": [
+    {
+      "id": "5015403",
+      "time": "2026-07-30 07:44:38",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲維持利率不變後 花旗仍維持降息預測】花旗經濟學家安德魯・霍倫霍斯特（Andrew Hollenhorst ）與維羅妮卡・克拉克（Veronica Clark ）在致客戶的研報中寫道：美聯儲官員週三維持利率不變，花旗依舊堅持觀點——美聯儲將於今年晚些時候降息。策略師從沃什的新聞釋出會中提煉出兩大偏鴿訊號：其一，沃什表示將綜合廣泛資料評估美聯儲在通脹治理方面取得的進展；其二，沃什指出實際收益率上行，已經起到部分收緊金融環境的效果。花旗仍預計未來數月失業率走高，推動美聯儲分別在10月、12月以及次年1月降息。"
+    },
+    {
+      "id": "te:markets:570899",
+      "time": "2026-07-30 07:44:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rise as Investors Assess Earnings — US stock futures edged higher on Thursday as investors evaluated earnings from major technology companies and the Federal Reserve’s latest policy decision. In after-hours trading, Microsoft jumped 9% after reporting results that topped analysts’ expectations, with strength driven in part by its cloud computing and artificial intelligence businesses. Meanwhile, Meta Platforms fell more than 6% as investors remained concerned about the company's ability to monetize its AI investments. Attention now shifts to earnings from tech giants Amazon and Apple later Thursday, along with results from major companies including Mastercard, Bristol-Myers, and Coinbase. Markets also continued to assess the Fed’s decision to keep interest rates unchanged, although three FOMC members voted in favor of a rate hike. During Wednesday’s regular session, the Dow dropped 2.19%, while the S&P 500 and Nasdaq Composite declined 1.52% and 1.74%, respectively."
+    },
+    {
+      "id": "5015402",
+      "time": "2026-07-30 07:43:06",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "花旗維持對美聯儲今年將三次降息的預測，分別在10月、12月和1月。"
+    },
+    {
+      "id": "5015401",
+      "time": "2026-07-30 07:42:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【空軍運20B將首次送新飛行學員報到】7月31日、8月1日，空軍將使用多架運-20飛機，從瀋陽、石家莊、濟南、南京、長沙和成都6個登機點，集中運送2026年新錄取飛行學員到空軍航空大學報到。這是空軍連續第5年使用國產大型運輸機運送新飛行學員入學報到，今年搭載國產發動機的運-20B飛機將首次參與執行此項任務。（央視軍事）"
+    },
+    {
+      "id": "5015400",
+      "time": "2026-07-30 07:41:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒稱美軍正空襲伊朗 】據美國“阿克西奧斯新聞網（Axios）”報道，當地時間今天（7月30日）凌晨，美軍正在對伊朗進行空襲。（ CCTV國際時訊  ）"
+    },
     {
       "id": "5015399",
       "time": "2026-07-30 07:40:27",
@@ -164086,46 +164134,6 @@
         "國際"
       ],
       "text": "基準10年期日本國債期貨早盤下跌0.25點。"
-    },
-    {
-      "id": "5003200",
-      "time": "2026-07-23 07:44:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【優步裁減10%的客服崗位，理由是“擁抱”人工智慧】優步科技公司表示，作為精簡人員架構、全面擁抱人工智慧整體戰略的一環，公司已裁撤客服業務10%的崗位。優步一名發言人透過郵件透露，公司於週三公佈了社群運營團隊的裁員計劃，稱此次調整旨在“簡化運營流程、強化線下協作，並持續推進人工智慧落地應用”。該發言人補充，按照公司全員返崗辦公要求，該團隊原遠端辦公員工也需前往線下中心辦公室履職。"
-    },
-    {
-      "id": "mkt:019f8c37-64a0-7aab-8e54-7ad7a7075eee",
-      "time": "2026-07-23 07:44:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【CSC Financial: Copper, aluminum demand growth to improve】CSC Financial says industrial metal prices reflect both financial and commodity attributes; the Fed has begun an easing cycle and global copper and aluminum inventories are relatively low. With an expected Chinese economic rebound and continued demand from the new energy sector, CSC says copper and aluminum demand growth should pick up."
-    },
-    {
-      "id": "5003199",
-      "time": "2026-07-23 07:43:56",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信建投：銅鋁需求增長將有所好轉】中信建投研報稱，工業金屬價格由“金融屬性”及“商品屬性”共同決定，從金融屬性來看，美聯儲已開啟降息週期；從商品屬性來看，全球銅鋁庫存均處於相對低位，中國經濟復甦可期，疊加新能源行業的拉動，銅鋁需求增長將有所好轉。"
-    },
-    {
-      "id": "5003198",
-      "time": "2026-07-23 07:43:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數期貨在新加坡交易所開盤上漲175點，報66235點。"
     }
   ]
 }
