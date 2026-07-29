@@ -1,7 +1,74 @@
 {
-  "updated": "2026-07-30 03:53:35",
-  "count": 17754,
+  "updated": "2026-07-30 03:57:21",
+  "count": 17749,
   "items": [
+    {
+      "id": "5015175",
+      "time": "2026-07-30 03:56:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "知情人士透露，沙特提議的國際聯盟的具體構成尚未明確，目前仍在與數十個國家進行磋商。"
+    },
+    {
+      "id": "mkt:019faf73-1e4d-7aab-8ef8-41db5070a165",
+      "time": "2026-07-30 03:56:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "CNBC cited Gundlach saying the Fed could hike rates in September, particularly if the yield curve remains steep."
+    },
+    {
+      "id": "5015174",
+      "time": "2026-07-30 03:56:06",
+      "tags": [
+        "公司",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "雙線資本CEO岡德拉克：美聯儲很可能在9月加息，尤其是如果收益率曲線繼續趨陡。"
+    },
+    {
+      "id": "5015173",
+      "time": "2026-07-30 03:55:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "知情人士表示，沙烏地阿拉伯正尋求組建國際聯盟，以保護紅海航運免受胡塞武裝襲擊。"
+    },
+    {
+      "id": "5015172",
+      "time": "2026-07-30 03:54:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國：以色列持續佔領巴勒斯坦領土違反國際法】當地時間29日，聯合國人權事務高階專員辦事處發言人拉維娜·沙姆達薩尼表示，以色列持續佔領巴勒斯坦領土違反國際法。但目前以色列政府宣佈將進一步增加以色列定居點和前哨站的數量，以色列領導人公然呼籲對巴勒斯坦社群進行報復和集體懲罰，並威脅將約旦河西岸變成另一個加沙地帶，令人深感震驚。"
+    },
+    {
+      "id": "mkt:019faf70-b736-7aab-8ef8-3bb86014802e",
+      "time": "2026-07-30 03:53:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukrainian Air Force F-16 crashes on frontline】On July 29 local time the Ukrainian Air Force said an F-16 crashed on the frontline after losing contact while on a mission to intercept an enemy aerial target. Initial reports said an abnormal situation occurred on board and the pilot was forced to eject. The pilot is reported in a safe condition, evacuated and taken to a medical facility for checks. Authorities have opened an investigation; no ground casualties or property damage were reported."
+    },
+    {
+      "id": "5015171",
+      "time": "2026-07-30 03:53:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "聯合航空控股股價下跌3.4%，報119.44美元；此前該公司宣佈在華盛頓杜勒斯國際機場進行200億美元的資本投資。"
+    },
     {
       "id": "5015170",
       "time": "2026-07-30 03:52:20",
@@ -163648,115 +163715,6 @@
         "Brent"
       ],
       "text": "【Global oil prices rose on the 22nd】NYMEX light sweet crude futures for September delivery rose $2.49 to settle at $86.83/bbl at the close, up 2.95% on the day. ICE Brent futures for September delivery rose $3.06 to settle at $94.07/bbl at the close, up 3.36%."
-    },
-    {
-      "id": "5003007",
-      "time": "2026-07-23 03:57:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價22日上漲 】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲2.49美元，收於每桶86.83美元，漲幅為2.95%；9月交貨的倫敦布倫特原油期貨價格上漲3.06美元，收於每桶94.07美元，漲幅為3.36%。"
-    },
-    {
-      "id": "5003006",
-      "time": "2026-07-23 03:56:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普：油價將會大幅下跌。"
-    },
-    {
-      "id": "5003005",
-      "time": "2026-07-23 03:56:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及對伊衝突： 我只將其稱作小規模交火。我們與伊朗之間只是一場小規模衝突。"
-    },
-    {
-      "id": "5003004",
-      "time": "2026-07-23 03:55:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐北約大使： 已與澤連斯基商討愛國者防空攔截彈相關事宜。"
-    },
-    {
-      "id": "5003003",
-      "time": "2026-07-23 03:55:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：通脹率大幅下降。"
-    },
-    {
-      "id": "mkt:019f8b65-6ce7-7aab-8e51-26781ba4a415",
-      "time": "2026-07-23 03:55:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Trump said Iran is being hit hard, wants to reach a deal, and will be ready soon."
-    },
-    {
-      "id": "5003002",
-      "time": "2026-07-23 03:54:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐北約大使稱今天在基輔會見了澤連斯基。"
-    },
-    {
-      "id": "5003001",
-      "time": "2026-07-23 03:54:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：股市持續創下新高。"
-    },
-    {
-      "id": "5003000",
-      "time": "2026-07-23 03:54:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗很快就會做好準備，但尚未準備好達成協議。"
-    },
-    {
-      "id": "mkt:019f8b64-9155-7aab-8e51-1e950e6295cd",
-      "time": "2026-07-23 03:54:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "US President Trump said the US is winning on Iran."
-    },
-    {
-      "id": "5002999",
-      "time": "2026-07-23 03:53:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗沒準備好達成協議。"
-    },
-    {
-      "id": "mkt:019f8b64-339d-7aab-8e51-10ebc155d448",
-      "time": "2026-07-23 03:53:47",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "【Dollar index slips on 22nd】The dollar index, which measures the U.S. dollar against six major currencies, fell 0.05% to 101.125 at the New York close on the 22nd. At the close, EUR/USD was 1.1411 (prev. 1.1403); GBP/USD 1.3373 (prev. 1.3381); USD/JPY 163.13 (prev. 163.18); USD/CHF 0.8146 (prev. 0.8129); USD/CAD 1.4085 (prev. 1.4107); USD/SEK 9.7014 (prev. 9.7035)."
     }
   ]
 }
