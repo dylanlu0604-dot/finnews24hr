@@ -1,7 +1,89 @@
 {
   "date": "2026-07-29",
-  "count": 677,
+  "count": 686,
   "items": [
+    {
+      "id": "5013265",
+      "time": "2026-07-29 08:59:33",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：油價大幅回升，黃金回落】美軍中央司令部表示，伊朗伊斯蘭革命衛隊從伊朗境內發射多枚彈道導彈，試圖對駐中東地區的美軍發動突然襲擊；葉門胡塞武裝28日發表宣告稱，該組織當天對一艘沙特籍油輪實施軍事打擊，理由是該船違反其針對沙特實施的海上航行禁令，並無視其發出的警告。受此影響，油價大幅回升，黃金回落。目前美伊衝突進入到更加激烈的第二階段，且考慮到原油的庫存消耗過度的問題，目前需要考慮小機率事件，即油價失控的風險。對於黃金，短期偏震盪思路，密切關注地緣政治走向。"
+    },
+    {
+      "id": "5013264",
+      "time": "2026-07-29 08:59:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東風日產與萬達廣場簽署戰略合作，將落地商超慢閃店】7月28日，東風日產與萬達廣場簽署戰略合作框架協議。根據新的合作規劃，萬達廣場將向東風日產開放線上線下全域營銷渠道，東風日產將在全國重點城市的萬達廣場落地長週期商超慢閃店。"
+    },
+    {
+      "id": "te:markets:570540",
+      "time": "2026-07-29 08:58:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Steadies Ahead of Fed Policy Decision — The dollar index held steady around 101.3 on Wednesday after a volatile start to the week, as investors awaited the Federal Reserve’s upcoming policy decision, where it is expected to leave interest rates unchanged. However, markets continue to price in about a one-third chance of a 25-basis-point rate hike, reflecting an unusually high level of uncertainty this close to a decision compared with recent years. Traders also see roughly an 80% probability of a rate increase in September, reinforcing expectations that borrowing costs could stay elevated. Meanwhile, investors also monitored rebounding oil prices and renewed inflation concerns after fresh hostilities flared in the Middle East. The US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East, reigniting regional tensions."
+    },
+    {
+      "id": "5013263",
+      "time": "2026-07-29 08:58:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我和內塔尼亞胡的會晤非常愉快。"
+    },
+    {
+      "id": "mkt:019fab60-e0cd-7aab-8ed8-349daddd72c2",
+      "time": "2026-07-29 08:58:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he, Israeli Prime Minister Netanyahu and other delegates held a productive meeting and discussed a range of important issues."
+    },
+    {
+      "id": "5013262",
+      "time": "2026-07-29 08:57:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【五糧液普五八代領跌 白酒大單品總價創近五天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售總價7月29日再度小幅回撥。如果主要單品各取一瓶整體打包售賣，今日總售價為9886元，較昨日下跌12元，在昨日小幅反彈後再度轉弱，創五天以來最低，但比7月18日創下的階段低點仍高出81元。縱觀全場，過去一天酒市終端交投情緒環比降溫，空方再佔上風，低位修復節奏再受擾動。\n\n今日11大白酒單品三漲六跌兩平，輸家佔據明顯優勢。上漲方面，飛天茅臺、精品茅臺與青花郎均上漲2元/瓶。其中，飛天茅臺的全國零售均價終結此前連續七日小幅回撥，自7.18提價後高位區間止跌回升；精品茅臺昨日回落後今日小幅反彈；青花郎連續兩日走升，續創近一個月最高紀錄。下跌方面，五糧液普五八代跌幅居前，下跌7元/瓶，近期低位寬幅震盪格局延續；青花汾20與古井貢古20均下跌3元/瓶，其中前者平近一個月最低價紀錄，後者近期價格漲跌反覆，短線反彈屢受壓制；五糧液1618與習酒君品均下跌2元/瓶，其中前者連續兩日走低，後者結束昨日反彈，仍處於近一個月高位區間；國窖1573小跌1元/瓶，近一個月價格中樞明顯下移。洋河夢之藍M6+與水晶劍南春價格環比昨日保持不變，其中前者連續兩日維持在600元/瓶，後者連續兩日維持在402元/瓶。"
+    },
+    {
+      "id": "5013261",
+      "time": "2026-07-29 08:56:53",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【銀河證券：機構大幅減持 有色行業基金持倉回落至近年低點】銀河證券A股有色金屬行業2026Q2基金持倉分析指出，2026年二季度受中東衝突升級、霍爾木茲海峽封鎖影響，油價大幅衝高帶來通脹壓力，市場對美聯儲政策預期由年初的降息轉為加息，市場流動性與經濟預期的改變使有色金屬未來價格走勢與有色金屬企業未來業績的不確定性加大，主動權益類公募基金在2026年二季度大幅減持了銅、鋁、黃金等此前超配的有色金屬子行業，並在市場風格的帶動下加倉了與AI概念相關的鎢、鎳、磁性金屬等小金屬細分板塊。綜合來看，2026年二季度主動權益類公募基金對A股有色金屬行業重倉持股市值佔股票投資市值比達到了1.98%，環比2026年一季度的3.22%下行1.24個百分點，在2024年四季度後連續兩個季度減持有色金屬行業，且2026年二季度主動權益類公募基金對A股有色金屬行業重倉持股的單季度減持幅度創下了2010年以來的新高。"
+    },
+    {
+      "id": "5013260",
+      "time": "2026-07-29 08:56:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本地震已致13死】日本首相高市早苗在首相官邸表示，地震已造成13人死亡。（央視）"
+    },
+    {
+      "id": "mkt:019fab5f-3c57-7aab-8ed8-2894b6a8aad2",
+      "time": "2026-07-29 08:56:12",
+      "tags": [
+        "MKT News",
+        "SKHY.O"
+      ],
+      "text": "SK Hynix (SKHY.O) said there is currently no detailed information on any factories beyond the investments it has already announced."
+    },
     {
       "id": "mkt:019fab5f-2487-7aab-8ed8-202fde8cd8e8",
       "time": "2026-07-29 08:56:06",
