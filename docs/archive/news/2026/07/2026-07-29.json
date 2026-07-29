@@ -1,7 +1,39 @@
 {
   "date": "2026-07-29",
-  "count": 3068,
+  "count": 3071,
   "items": [
+    {
+      "id": "mkt:019fae98-a806-7aab-8eef-8ecbce0d06c7",
+      "time": "2026-07-29 23:57:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. major stock indexes declined: the S&P 500 was down 1.0%, the Nasdaq 1.3% and the Dow 1.6%."
+    },
+    {
+      "id": "5014886",
+      "time": "2026-07-29 23:56:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股三大指數均跌超1%】道指跌1.67%，現報51867.520點；納指跌1.35%，現報24541.893點；標普500指數跌1.00%，現報7354.170點。"
+    },
+    {
+      "id": "5014885",
+      "time": "2026-07-29 23:55:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1.5%。"
+    },
     {
       "id": "mkt:019fae95-9d1a-7aab-8eef-806fe2453ea7",
       "time": "2026-07-29 23:54:28",

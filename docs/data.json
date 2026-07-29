@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-29 23:54:58",
-  "count": 17449,
+  "updated": "2026-07-29 23:58:56",
+  "count": 17445,
   "items": [
+    {
+      "id": "mkt:019fae98-a806-7aab-8eef-8ecbce0d06c7",
+      "time": "2026-07-29 23:57:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. major stock indexes declined: the S&P 500 was down 1.0%, the Nasdaq 1.3% and the Dow 1.6%."
+    },
+    {
+      "id": "5014886",
+      "time": "2026-07-29 23:56:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股三大指數均跌超1%】道指跌1.67%，現報51867.520點；納指跌1.35%，現報24541.893點；標普500指數跌1.00%，現報7354.170點。"
+    },
+    {
+      "id": "5014885",
+      "time": "2026-07-29 23:55:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1.5%。"
+    },
     {
       "id": "mkt:019fae95-9d1a-7aab-8eef-806fe2453ea7",
       "time": "2026-07-29 23:54:28",
@@ -160262,74 +160294,6 @@
         "Importance 0"
       ],
       "text": "FTSE MIB Climbs 1% — The FTSE MIB rose 1% to close at 52,792 on Wednesday, supported by gains in energy and financial stocks. Oil-related shares outperformed as geopolitical tensions lifted oil and fuel prices. The US renewed threats to target Iranian infrastructure, while renewed Houthi threats against shipping in the Red Sea reinforced concerns over global oil supplies. Tenaris led energy gains, rising 3%, followed by Saipem (2.9%) and Eni (2.3%). Financials also advanced as markets continued to expect the ECB to leave interest rates unchanged at tomorrow's decision, while sentiment was supported by Santander's upbeat earnings and Barclays' upward revisions to revenue forecasts for Italian financial companies. Generali, Barclays' preferred pick, gained 1%, while Unipol rose 2.2%, BMPS rose 2.4%, Banca Mediolanum added 2.3%. Inwit was the top performer on the index, climbing 4.5%. Meanwhile, STMicroelectronics also rose 1.6% on renewed sentiment on AI investments, while defense stocks also traded higher"
-    },
-    {
-      "id": "mkt:019f8a8c-9a86-7aab-8e4d-5bbc66084b95",
-      "time": "2026-07-22 23:58:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China foreign minister Wang Yi meets Indian foreign minister S. Jaishankar in Manila】China foreign minister Wang Yi met Indian foreign minister S. Jaishankar in Manila on the 22nd. Wang said China and India will implement their leaders' consensus, deepen high-level exchanges and economic, trade, media and cultural cooperation, and properly manage sensitive issues to foster mutual understanding and peaceful coexistence. He urged exploration of a neighborly great-power model based on mutual respect, trust, shared development and prosperity to inject new momentum into bilateral ties. Wang said India and China will serve consecutive BRICS rotating presidencies over the next two years, called for closer BRICS coordination to strengthen the mechanism and better represent developing countries' interests, and said China will continue to support India in hosting this year's BRICS summit."
-    },
-    {
-      "id": "mkt:019f8a8c-8e83-7aab-8e4d-54fd1856f474",
-      "time": "2026-07-22 23:58:15",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Mehr News Agency reported Israel carried out shelling and air strikes in southern Lebanon."
-    },
-    {
-      "id": "5002831",
-      "time": "2026-07-22 23:58:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際航運公會：葉門胡塞武裝透過無線電向航行船舶發出警告。"
-    },
-    {
-      "id": "mkt:019f8a8b-df9e-7aab-8e4d-4a5906455378",
-      "time": "2026-07-22 23:57:30",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "International Chamber of Shipping said Houthi militants in Yemen issued radio warnings to vessels."
-    },
-    {
-      "id": "5002830",
-      "time": "2026-07-22 23:57:25",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅會見印度外長蘇傑生】中共中央政治局委員、外交部長王毅22日在馬尼拉會見印度外長蘇傑生。王毅表示，過去兩年，習近平主席同莫迪總理成功舉行喀山、天津會晤，兩國領導人一致認為中印是合作伙伴而非競爭對手，互為發展機遇而不是威脅，引領中印關係走上改善發展正軌。在雙方共同努力下，兩國機制性交往逐步恢復，邊境地區保持和平安寧，雙邊貿易額再創新高。這些成果來之不易，應當倍加珍惜。當前百年變局加速演進，世界進入新的動盪變革期。作為新興經濟體代表和全球南方重要成員，中印應立足人類福祉，彰顯大國擔當，鞏固雙邊關係向好勢頭，加強在國際地區事務中的協調合作，為推動多極化程序和國際關係民主化作出積極貢獻。中方願同印方落實好兩國領導人重要共識，密切高層交往，加強經貿、媒體、人文等領域合作，妥善處理敏感問題，推動兩國各界和人民形成正確相互認知，在和平共處基礎上，探索相鄰大國相互尊重、相互信任、共同發展、共同繁榮的正確相處之道，為中印關係不斷注入新動能。今明兩年，印中將相繼擔任金磚輪值主席國。雙方應加強協調合作，推動“大金磚合作”機制發展壯大，更好代表和維護發展中國家共同利益。中方將繼續支援印度辦好今年金磚峰會。（新華社）"
-    },
-    {
-      "id": "5002829",
-      "time": "2026-07-22 23:56:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：（與巴基斯坦財長）討論了巴基斯坦重返全球資本市場的問題。"
-    },
-    {
-      "id": "te:markets:568933",
-      "time": "2026-07-22 23:56:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX 40 Rises to 2-Week High — Frankfurt's DAX 40 gained 0.7% to nearly 25,200 on Wednesday, its highest level in two weeks, as strong corporate earnings and upbeat guidance outweighed concerns over higher oil prices and the inflationary risks linked to escalating tensions in the Middle East. Airbus surged 6.9% after the aircraft manufacturer unveiled ambitious profit targets through 2029, citing sustained demand for commercial jets, while also announcing an earlier-than-expected share buyback program. The optimistic outlook also supported MTU Aero Engines, which rose more than 1%. Elsewhere, Gea jumped over 5% after the industrial equipment maker upgraded its full-year guidance on the back of stronger-than-expected quarterly results. Investors also looked ahead to Thursday's European Central Bank policy meeting, where officials are widely expected to leave interest rates unchanged following June's increase."
     }
   ]
 }
