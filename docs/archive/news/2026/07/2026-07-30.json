@@ -1,7 +1,38 @@
 {
   "date": "2026-07-30",
-  "count": 192,
+  "count": 197,
   "items": [
+    {
+      "id": "mkt:019faf14-97be-7aab-8ef2-75aa538c95b5",
+      "time": "2026-07-30 02:13:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Vessel traffic at Santos, Brazil's largest port, has been temporarily suspended due to strong winds."
+    },
+    {
+      "id": "te:markets:570837",
+      "time": "2026-07-30 02:12:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Remain Lower After Fed — US stocks held most of their losses on Wednesday on further fragility for chip producers ahead of major tech earnings, while the Federal Reserve held rates unchanged. The S&P 500 and the Dow were slightly lower, while the Dow fell nearly 700 points. Microsoft and Meta were muted ahead of their earnings reports after the bell, the latest signal for AI infrastructure spending. Concerns that AI capital expenditure is being overdone recently pressured Magnificent 7 stocks and triggered a selloff for chip producers that trimmed their surge late last quarter. Micron, Applied Materials, and Sandisk sank between 2% and 5% amid the pessimistic results by SK Hynix. Meanwhile, the Fed held rates unchanged in the least certain meeting in the last 15 years, featuring three dissents for a hike. The Dow was pressured by a flare-up in oil prices following fresh strikes between Iran and the US, adding to pro-inflationary risks. Visa rebounded and gained 1% after posting growth in revenue last quarter."
+    },
+    {
+      "id": "5014971",
+      "time": "2026-07-30 02:11:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "“新美聯儲通訊社” ：這是自2016年以來，美聯儲首次在同一次政策決議中出現三張方向一致的反對票。"
+    },
     {
       "id": "mkt:019faf11-00a0-7aab-8ef2-6ee294deedf5",
       "time": "2026-07-30 02:09:14",
@@ -47,6 +78,15 @@
         "Impact bearish"
       ],
       "text": "【Three regional Fed presidents dissent, raising pressure for rate hike】At the FOMC decision, three of the five regional Fed presidents with voting rights — Cleveland, Minneapolis and Dallas — dissented, each calling for a 25bps hike. It is the first time since September 2016 that three like-minded dissents appeared in a single policy decision, signalling growing internal pressure to tighten. Fed Chair Kevin Warsh backed holding rates steady and stressed the Fed’s duty to curb inflation; he is expected to face questions at his 02:30 Beijing time press conference on why patience remains the appropriate policy stance."
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825508752",
+      "time": "2026-07-30 02:07:44",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【FOMC將繼續維持銀行體系充裕準備金政策】美聯儲FOMC宣告顯示，聯邦公開市場委員會（FOMC）將繼續維持銀行體系充裕準備金政策。"
     },
     {
       "id": "mkt:019faf0e-500f-7aab-8ef2-52eebcdfe52e",
@@ -96,6 +136,15 @@
         "國際"
       ],
       "text": "美聯儲互換合約不再完全定價 9 月加息預期。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825508881",
+      "time": "2026-07-30 02:05:45",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲FOMC宣告：儘管不確定性仍然較高 美國經濟活動繼續保持穩健擴張】美聯儲FOMC宣告顯示，就業增長與勞動力供給增幅大體匹配，失業率變化不大。儘管不確定性仍然較高，美國經濟活動繼續保持穩健擴張。"
     },
     {
       "id": "mkt:019faf0c-3ab1-7aab-8ef2-472296bb6272",
