@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-29 12:57:59",
-  "count": 17639,
+  "updated": "2026-07-29 13:01:59",
+  "count": 17638,
   "items": [
+    {
+      "id": "5013681",
+      "time": "2026-07-29 13:00:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量1565億元。"
+    },
+    {
+      "id": "5013680",
+      "time": "2026-07-29 13:00:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴斯夫仍然預測全年調整後EBITDA 69億歐元至77億歐元。"
+    },
+    {
+      "id": "5013679",
+      "time": "2026-07-29 13:00:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴斯夫第二季度調整後EBITDA 24.5億歐元，同比+54%。巴斯夫第二季度調整後每股收益1.28歐元，預估0.98歐元。"
+    },
+    {
+      "id": "5013678",
+      "time": "2026-07-29 13:00:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "德意志銀行第二季度除稅前利潤26.8億歐元，預估23.9億歐元。德意志銀行第二季度淨營收84.8億歐元，預估81.3億歐元。"
+    },
+    {
+      "id": "5013677",
+      "time": "2026-07-29 12:59:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元漲幅擴大至0.7%，領跑新興市場亞洲外匯市場。"
+    },
     {
       "id": "5013676",
       "time": "2026-07-29 12:57:01",
@@ -161822,54 +161863,6 @@
         "XAUUSD"
       ],
       "text": "Russia's defence ministry said Russian forces attacked Ukrainian ports, striking two vessels."
-    },
-    {
-      "id": "mkt:019f8833-9d50-7aab-8e3a-a7ecd37c8f6b",
-      "time": "2026-07-22 13:01:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's outgoing armed forces commander-in-chief said Ukraine has retaken 700 sq km so far this year."
-    },
-    {
-      "id": "mkt:019f8832-c40c-7aab-8e3a-993d8cf87e6c",
-      "time": "2026-07-22 13:00:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【5.6-magnitude earthquake strikes Aceh, Indonesia】Indonesia's Meteorology, Climatology and Geophysical Agency reported a magnitude 5.6 earthquake at 11:18 local time on the 22nd, about 41 km northeast of Gayo Lues Regency, Aceh province; hypocenter depth 10 km. No tsunami risk reported."
-    },
-    {
-      "id": "5001488",
-      "time": "2026-07-22 12:59:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "桑坦德銀行：截至目前，該行針對2025至2026年透過股票回購派發至少100億歐元的承諾，已落實約90億歐元。"
-    },
-    {
-      "id": "5001487",
-      "time": "2026-07-22 12:59:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼亞齊省發生5.6級地震】據印度尼西亞氣象、氣候和地球物理局釋出的報告，當地時間22日11時18分，印尼亞齊省加約盧斯縣東北約41公里處發生5.6級地震。震源深度10公里。暫無海嘯風險。"
-    },
-    {
-      "id": "5001486",
-      "time": "2026-07-22 12:59:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "富瑞將雀巢評級從持有上調至買入；目標價從84瑞士法郎上調至99瑞士法郎。"
-    },
-    {
-      "id": "5001485",
-      "time": "2026-07-22 12:58:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯稱擊中了兩艘船和敖德薩港的燃料設施】俄羅斯國防部在社交媒體上表示，俄軍襲擊了敖德薩港兩艘過境船隻和港口基礎設施，這些設施用於解除安裝和儲存烏克蘭武裝部隊的軍用物資和燃料。據稱用於儲存軍用物資的敖德薩新郵政物流中心也遭到襲擊。"
     }
   ]
 }
