@@ -1,7 +1,26 @@
 {
   "date": "2026-07-30",
-  "count": 876,
+  "count": 878,
   "items": [
+    {
+      "id": "5015333",
+      "time": "2026-07-30 06:40:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普考量重啟對伊重大軍事行動，美軍籌備為期兩週密集空中打擊】特朗普正在考量是否重啟針對伊朗的大規模作戰行動。美軍中央司令部擬定一套方案，計劃發起為期10至14天的高強度空中攻勢，目標是削弱伊朗導彈作戰能力。知情人士透露，該方案由美軍中央司令部司令布拉德・庫珀上將制定，空襲規模相比此前一輪打擊將顯著升級。特朗普同時也在考量力度更為有限的軍事報復選項，為外交斡旋保留空間。"
+    },
+    {
+      "id": "te:markets:570894",
+      "time": "2026-07-30 06:40:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Drops by 3.74% — Top commodity losers are Coffee (-3.74%), Soybeans (-2.81%) and Corn (-2.07%)."
+    },
     {
       "id": "mkt:019fb005-cf45-7aab-8efa-d14d2af3772a",
       "time": "2026-07-30 06:36:38",
