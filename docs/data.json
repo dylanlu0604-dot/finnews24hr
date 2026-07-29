@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-30 01:03:02",
+  "updated": "2026-07-30 01:07:01",
   "count": 17418,
   "items": [
+    {
+      "id": "5014919",
+      "time": "2026-07-30 01:05:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "空中客車二季度調整後EBIT為24.3億歐元，分析師預期21.8億歐元。\n二季度營收205.3億歐元，分析師預期203.1億歐元。\n維持全年飛機交付預期在大約870架不變，分析師預期871架。\n預計全年調整後EBIT為75億歐元，分析師預期76億歐元，公司原本預計75億歐元。\n預計全年調整後自由現金流（FCF）大約45億歐元，分析師預期45.7億歐元。"
+    },
+    {
+      "id": "mkt:019faed4-a6d1-7aab-8ef0-46d0df97190d",
+      "time": "2026-07-30 01:03:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of Tunisia left its benchmark policy rate unchanged at 7%."
+    },
+    {
+      "id": "mkt:019faed4-7e66-7aab-8ef0-38cf1fb00ade",
+      "time": "2026-07-30 01:03:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Politico: Republicans weigh preemptive debt-ceiling hike ahead of midterms】Politico reports Republicans are weighing a preemptive increase in the US debt ceiling to avoid a fiscal cliff during a possible Trump term. Republicans raised the ceiling by $5 trillion last year; White House officials have privately floated lifting the limit to $41.1 trillion within party-line spending bills many GOP members want passed before the November midterms. An independent forecaster projects the X-day—the final deadline to avoid US default—between next summer and early 2028, which would overlap the start of the presidential primary season. The proposal could limit near-term default risk for Trump if Republicans lose control of either chamber, though Democrats would still press for concessions in any bipartisan deal; total public debt is about $39.7 trillion."
+    },
+    {
+      "id": "5014918",
+      "time": "2026-07-30 01:02:50",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "突尼西亞央行維持基準利率 7% 不變。"
+    },
     {
       "id": "5014917",
       "time": "2026-07-30 01:01:39",
@@ -160025,48 +160063,6 @@
         "國際"
       ],
       "text": "【王毅會見越南外長黎懷忠】中共中央政治局委員、外交部長王毅22日在馬尼拉會見越南外長黎懷忠。王毅表示，今年4月，習近平總書記、國家主席同蘇林總書記、國家主席舉行重要會晤，為推動落實“六個更”總體目標、加快構建更高水平具有戰略意義的中越命運共同體作出頂層設計。當前，世界百年變局亂的一面更加突出，給地區國家帶來嚴峻挑戰。中越作為社會主義國家和兩大發展中國家，要認真落實兩黨兩國高層共識，從各自長遠發展的大局出發，切實加強團結協作。雙方要繼續密切高層交往，充分發揮中越外交、國防、公安“3+3”戰略對話機制作用，推進互聯互通、人工智慧等領域務實合作，使中越關係始終走在地區國家前列，共同維護好地區和平發展的良好局面。黎懷忠表示，越南黨和政府珍視越中友誼，高度重視對華關係。越方願同中方一道，落實蘇林總書記訪華成果和兩黨兩國最高領導人重要共識，加強各層級交往，推進鐵路、農業等領域務實合作，共同推動越中全面戰略合作伙伴關係取得更多成果。越方支援中方提出的四大全球倡議，祝賀世界人工智慧大會在上海成功舉辦併成立世界人工智慧合作組織。越方將全力支援中方辦好今年亞太經合組織領導人非正式會議，願同中方加強多邊溝通協作，維護好兩國和地區共同利益。(新華社)"
-    },
-    {
-      "id": "mkt:019f8aca-3cad-7aab-8e4e-79ce53a1171a",
-      "time": "2026-07-23 01:05:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225"
-      ],
-      "text": "【Deutsche Bank: Japan may shift policy focus from \"defending the yen\" to \"controlling yields\"】Deutsche Bank says Japan may need to shift policy emphasis from defending the yen to capping government bond yields to deliver its growth plan. Prime Minister TAKAICHI unveiled a roughly $2.3 trillion growth strategy at the end of last month that marks a major fiscal and industrial-policy inflection. Deutsche Bank strategist Malika Sahdevda notes Tokyo must preserve fiscal sustainability while freeing room for much larger spending; the plan relies on mobilizing domestic savings and steering large institutional investors into domestic assets to finance the package. Achieving that and ensuring nominal growth outpaces financing costs may require measures to limit JGB yield rises — a material policy pivot from FX defence toward yield control."
-    },
-    {
-      "id": "mkt:019f8ac9-6730-7aab-8e4e-7768111c841b",
-      "time": "2026-07-23 01:04:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US 20-year Treasury yield continued to rise after the auction, up 1.91 bps at 5.163%."
-    },
-    {
-      "id": "5002882",
-      "time": "2026-07-23 01:04:13",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅會見汶萊外交部長馬丁】中共中央政治局委員、外交部長王毅22日在馬尼拉會見汶萊外長馬丁王子。王毅轉達習近平主席對汶萊蘇丹哈桑納爾的親切問候，祝賀馬丁履新並表示，中文友誼跨越千年。在兩國元首戰略引領下，中文關係成為大小國家平等相待、合作共贏的典範。去年習近平主席同哈桑納爾蘇丹陛下就構建中文命運共同體達成重要共識，開啟中文關係嶄新篇章。今年是中文建交35週年，比拉王儲不久前成功訪華。中方願同文方一道，落實兩國元首重要共識，發揮中文政府間聯合指導委員會作用，加強經貿、能源、人工智慧等領域合作，推進海上共同開發，推動兩國務實合作結出更多成果，打造更高水平的中文戰略合作伙伴關係。（新華社）"
-    },
-    {
-      "id": "5002881",
-      "time": "2026-07-23 01:03:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "德意志交易所集團：維持2026年剔除財資業務收益後的淨收入約為57億歐元的預期。"
     }
   ]
 }

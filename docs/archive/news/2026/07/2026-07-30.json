@@ -1,7 +1,45 @@
 {
   "date": "2026-07-30",
-  "count": 63,
+  "count": 67,
   "items": [
+    {
+      "id": "5014919",
+      "time": "2026-07-30 01:05:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "空中客車二季度調整後EBIT為24.3億歐元，分析師預期21.8億歐元。\n二季度營收205.3億歐元，分析師預期203.1億歐元。\n維持全年飛機交付預期在大約870架不變，分析師預期871架。\n預計全年調整後EBIT為75億歐元，分析師預期76億歐元，公司原本預計75億歐元。\n預計全年調整後自由現金流（FCF）大約45億歐元，分析師預期45.7億歐元。"
+    },
+    {
+      "id": "mkt:019faed4-a6d1-7aab-8ef0-46d0df97190d",
+      "time": "2026-07-30 01:03:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of Tunisia left its benchmark policy rate unchanged at 7%."
+    },
+    {
+      "id": "mkt:019faed4-7e66-7aab-8ef0-38cf1fb00ade",
+      "time": "2026-07-30 01:03:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Politico: Republicans weigh preemptive debt-ceiling hike ahead of midterms】Politico reports Republicans are weighing a preemptive increase in the US debt ceiling to avoid a fiscal cliff during a possible Trump term. Republicans raised the ceiling by $5 trillion last year; White House officials have privately floated lifting the limit to $41.1 trillion within party-line spending bills many GOP members want passed before the November midterms. An independent forecaster projects the X-day—the final deadline to avoid US default—between next summer and early 2028, which would overlap the start of the presidential primary season. The proposal could limit near-term default risk for Trump if Republicans lose control of either chamber, though Democrats would still press for concessions in any bipartisan deal; total public debt is about $39.7 trillion."
+    },
+    {
+      "id": "5014918",
+      "time": "2026-07-30 01:02:50",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "突尼西亞央行維持基準利率 7% 不變。"
+    },
     {
       "id": "5014917",
       "time": "2026-07-30 01:01:39",
