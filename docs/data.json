@@ -1,7 +1,256 @@
 {
-  "updated": "2026-07-30 02:38:40",
-  "count": 17511,
+  "updated": "2026-07-30 02:42:44",
+  "count": 17532,
   "items": [
+    {
+      "id": "5015012",
+      "time": "2026-07-30 02:42:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克100指數轉漲，抹去了此前多達1.8%的跌幅。"
+    },
+    {
+      "id": "mkt:019faf2e-fea1-7aab-8ef3-ec97bad118ba",
+      "time": "2026-07-30 02:42:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair KEVIN WARSH said interpreting the market is difficult to do perfectly."
+    },
+    {
+      "id": "mkt:019faf2e-e0da-7aab-8ef3-e5fa1e9d5d87",
+      "time": "2026-07-30 02:41:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Fed chair Kevin Warsh: The Treasury market also appears to be signaling that."
+    },
+    {
+      "id": "mkt:019faf2e-9d9d-7aab-8ef3-dcbf98a7059e",
+      "time": "2026-07-30 02:41:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair Kevin Warsh said economic output is robust and the labor market remains strong and stable."
+    },
+    {
+      "id": "5015011",
+      "time": "2026-07-30 02:41:30",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：這也是為何近 42 天我們並未出臺太多政策，但名義利率與實際利率仍出現相應變動。"
+    },
+    {
+      "id": "mkt:019faf2e-6240-7aab-8ef3-d546e5ee40e8",
+      "time": "2026-07-30 02:41:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed is monitoring rising yields and is trying to remain on the sidelines."
+    },
+    {
+      "id": "5015010",
+      "time": "2026-07-30 02:41:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美債市場似乎也釋放出相同訊號。"
+    },
+    {
+      "id": "5015009",
+      "time": "2026-07-30 02:40:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 經濟產出表現穩健，勞動力市場穩固向好、執行平穩。"
+    },
+    {
+      "id": "mkt:019faf2d-e3e9-7aab-8ef3-c9ca2f4ad400",
+      "time": "2026-07-30 02:40:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he has been seeking unfiltered information from markets."
+    },
+    {
+      "id": "5015008",
+      "time": "2026-07-30 02:40:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 解讀市場本就難以做到盡善盡美。"
+    },
+    {
+      "id": "5015007",
+      "time": "2026-07-30 02:40:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 大家關注的是市場的反應機制。"
+    },
+    {
+      "id": "mkt:019faf2d-94ff-7aab-8ef3-c4705af759cf",
+      "time": "2026-07-30 02:40:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed is watching developments but will try not to intervene."
+    },
+    {
+      "id": "mkt:019faf2d-6ad0-7aab-8ef3-bfae21ad2e45",
+      "time": "2026-07-30 02:40:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed Chair Kevin Warsh said markets have reacted more directly to events over the past 42 days."
+    },
+    {
+      "id": "5015006",
+      "time": "2026-07-30 02:40:15",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我們正在觀察市場走勢，但儘量不干預。"
+    },
+    {
+      "id": "5015005",
+      "time": "2026-07-30 02:39:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 過去 42 天裡，市場對各類事件的反應直觀得多。"
+    },
+    {
+      "id": "5015004",
+      "time": "2026-07-30 02:39:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我一直在努力從市場獲取未經過濾的資訊。"
+    },
+    {
+      "id": "mkt:019faf2c-f401-7aab-8ef3-b73b69c2c895",
+      "time": "2026-07-30 02:39:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said the timing of supply-side side-effects from capital spending is difficult to predict."
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825510880",
+      "time": "2026-07-30 02:39:40",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什：通脹目標2%】美聯儲主席沃什：長達五年的高通脹已給市場留下難以消除的固有印象，投資者認為美聯儲的隱性通脹目標高於2%。"
+    },
+    {
+      "id": "mkt:019faf2c-d2eb-7aab-8ef3-a92e217c385c",
+      "time": "2026-07-30 02:39:38",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair Kevin Warsh said the surge in high-tech capex is striking."
+    },
+    {
+      "id": "mkt:019faf2c-b6d7-7aab-8ef3-a092facfa785",
+      "time": "2026-07-30 02:39:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair KEVIN WARSH said the Fed held spirited discussions on four issues: five years of elevated inflation; recent economic shocks; price increases stemming from those shocks; and monetary policy tools and strategies."
+    },
+    {
+      "id": "5015003",
+      "time": "2026-07-30 02:39:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：資本支出供應副作用的發生時間難以預測，資本支出熱正推高人工智慧基礎設施的價格。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825510911",
+      "time": "2026-07-30 02:38:57",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【沃什：資本支出熱正推高人工智慧基礎設施的價格】美聯儲主席沃什表示，人工智慧相關投資正在為未來經濟增長奠定基礎，資本支出熱正推高人工智慧基礎設施的價格。"
+    },
+    {
+      "id": "5015002",
+      "time": "2026-07-30 02:38:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 四是研討貨幣政策工具與實施策略。"
+    },
+    {
+      "id": "5015001",
+      "time": "2026-07-30 02:38:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 這些跡象是否預示著通脹壓力將全面擴散？"
+    },
     {
       "id": "mkt:019faf2b-748f-7aab-8ef3-9c3760ff35a1",
       "time": "2026-07-30 02:38:08",
@@ -119,6 +368,15 @@
         "The Fed (FOMC)"
       ],
       "text": "Federal Reserve Chairman Kevin Warsh said the Fed views this as a positive signal."
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825510784",
+      "time": "2026-07-30 02:36:54",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什：美國通脹問題不可能在九周內解決】美聯儲主席沃什表示，美國通脹問題不可能在九周內解決，必要和適當時會毫不猶豫地採取行動。"
     },
     {
       "id": "mkt:019faf2a-3b65-7aab-8ef3-59991694f0cc",
@@ -161204,38 +161462,6 @@
         "MKT News"
       ],
       "text": "Brazilian government will provide an 18.5-bln reais credit line to support firms affected by US tariffs."
-    },
-    {
-      "id": "5002948",
-      "time": "2026-07-23 02:41:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜及各類零工平臺員工領取食品券、醫療補助人數大幅激增。"
-    },
-    {
-      "id": "mkt:019f8b21-6ba0-7aab-8e4f-dc7188b93dd4",
-      "time": "2026-07-23 02:40:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hamas new political chief says top priority is halting Israeli operations in Gaza】Hamas's newly appointed political bureau chief Khalil al-Hayya said in his first video address on the 22nd that the group's immediate priority is a complete halt to Israeli military operations in the Gaza Strip. He said this includes ending aggression and killings, securing a full Israeli withdrawal from Gaza, restoring Gaza's ability to receive humanitarian aid and accelerating reconstruction."
-    },
-    {
-      "id": "5002947",
-      "time": "2026-07-23 02:40:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評美國銀行業：專案儲備充足，且市場預期私募股權支援的IPO將復甦，表明有利市況或延續至2026年第三季度。"
-    },
-    {
-      "id": "5002946",
-      "time": "2026-07-23 02:39:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西將提供185億雷亞爾信貸額度，以支援受美國關稅衝擊的企業。"
     }
   ]
 }
