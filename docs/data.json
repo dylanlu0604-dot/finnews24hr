@@ -1,7 +1,184 @@
 {
-  "updated": "2026-07-30 05:59:22",
-  "count": 17770,
+  "updated": "2026-07-30 06:04:13",
+  "count": 17769,
   "items": [
+    {
+      "id": "5015302",
+      "time": "2026-07-30 06:02:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟首席財務官：調整資產使用年限僅影響未來折舊的計提時點，預計對2027財年營業收入帶來的影響極小，僅產生小幅正向收益。"
+    },
+    {
+      "id": "mkt:019fafe6-2af4-7aab-8efa-4babddfb82b2",
+      "time": "2026-07-30 06:02:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 10-year Treasury futures fell 12 ticks; 30-year Treasury futures dropped 30 ticks after yields hit their highest level since mid-2007."
+    },
+    {
+      "id": "5015301",
+      "time": "2026-07-30 06:02:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟首席財務官：自2027財年年初起生效，我們將資料中心及辦公樓的預計使用年限從15年延長至25年。"
+    },
+    {
+      "id": "5015300",
+      "time": "2026-07-30 06:01:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "通用動力電船公司獲授14艘潛艇建造合同，該合同屬於美國海軍總額766億美元授出訂單的一部分。"
+    },
+    {
+      "id": "te:markets:570889",
+      "time": "2026-07-30 06:01:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Legrand earnings below expectations at 1.39 EUR — Legrand (LR) released earnings per share at 1.39 EUR, compared to market expectations of 1.57 EUR."
+    },
+    {
+      "id": "5015299",
+      "time": "2026-07-30 06:01:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500股指期貨下跌0.2%，納斯達克股指期貨下跌0.3%：盤後交易中Meta股價暴跌，微軟股價走強。"
+    },
+    {
+      "id": "5015298",
+      "time": "2026-07-30 06:01:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債期貨下跌12個基點，30年期國債期貨下滑30個基點，此前國債收益率觸及2007年中以來最高水平。"
+    },
+    {
+      "id": "5015297",
+      "time": "2026-07-30 06:01:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱繼續封鎖伊朗 已令20艘商船改變航行路線】當地時間29日，美軍中央司令部表示，美軍繼續執行對伊朗的封鎖行動。截至29日，美軍已改變20艘商船的航行路線，並使2艘船隻失去行動能力。此外，美軍還對2艘船隻進行登船檢查。"
+    },
+    {
+      "id": "mkt:019fafe5-42e5-7aab-8efa-4569a7b40b55",
+      "time": "2026-07-30 06:01:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) CFO said customer demand in its cloud business continues to exceed available capacity."
+    },
+    {
+      "id": "mkt:019fafe5-33b9-7aab-8efa-3e06580e2bd3",
+      "time": "2026-07-30 06:01:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft CFO: cloud revenue growth benefited from early delivery of new compute capacity; newly added capacity has been rapidly monetized."
+    },
+    {
+      "id": "5015296",
+      "time": "2026-07-30 06:00:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油開盤穩定在85美元下方。"
+    },
+    {
+      "id": "5015295",
+      "time": "2026-07-30 06:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4070美元/盎司，日內漲0.09%。"
+    },
+    {
+      "id": "5015294",
+      "time": "2026-07-30 06:00:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破58美元/盎司，日內漲0.07%。"
+    },
+    {
+      "id": "5015293",
+      "time": "2026-07-30 06:00:24",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【營業收入11.2萬億元 上半年輕工業經濟執行穩中有進】中國輕工業聯合會資料顯示，今年上半年，我國輕工業生產總體平穩，國內消費市場提質擴容，輕工品出口較快增長，結構持續最佳化。資料顯示，上半年，規模以上輕工業增加值同比增長5.0%，實現營業收入11.2萬億元，91種主要輕工產品中54種產量實現增長，鋰離子電池、電冰箱等14種產品產量保持兩位數增長，輕工生產總體平穩，綠色製造產業發展動能強。"
+    },
+    {
+      "id": "5015292",
+      "time": "2026-07-30 06:00:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破58美元/盎司，日內跌0.26%。"
+    },
+    {
+      "id": "mkt:019fafe3-d307-7aab-8efa-30cab629f39e",
+      "time": "2026-07-30 05:59:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) CFO said fiscal 2026 cloud revenue exceeded $214 billion, with nearly 90% coming from customers that are not frontier-model companies."
+    },
+    {
+      "id": "5015291",
+      "time": "2026-07-30 05:59:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟首席財務官表示，在雲業務方面，客戶需求持續超過可用產能。"
+    },
+    {
+      "id": "5015290",
+      "time": "2026-07-30 05:58:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：97%的共和黨人以及71%的民主黨人支援選舉實行選民身份查驗要求。即刻透過《拯救美國法案》。"
+    },
     {
       "id": "te:markets:570888",
       "time": "2026-07-30 05:58:36",
@@ -163684,191 +163861,6 @@
         "國際"
       ],
       "text": "美國中央司令部：美軍於週三對伊朗發起新一輪打擊行動。"
-    },
-    {
-      "id": "mkt:019f8bdb-653c-7aab-8e53-9adbcdbb955d",
-      "time": "2026-07-23 06:03:59",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Tesla (TSLA.O) VP of AI business expects the time needed to roll out Robotaxi to additional cities will continue to shorten."
-    },
-    {
-      "id": "5003117",
-      "time": "2026-07-23 06:03:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "特斯拉人工智慧副總裁表示，未來 Robotaxi 自動駕駛計程車拓展至新城市的落地週期將持續縮短。"
-    },
-    {
-      "id": "mkt:019f8bda-b951-7aab-8e53-96b9cf764528",
-      "time": "2026-07-23 06:03:14",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact mixed"
-      ],
-      "text": "Tesla (TSLA.O) CFO said the company will opportunistically raise up to $30 billion in debt financing to step up investment across various projects."
-    },
-    {
-      "id": "mkt:019f8bd9-3d46-7aab-8e53-8e44d8a9a7a4",
-      "time": "2026-07-23 06:01:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold opened about $10 lower, slipped below $4,120/oz and was down 0.29% on the day."
-    },
-    {
-      "id": "5003116",
-      "time": "2026-07-23 06:01:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "特斯拉CFO： 公司將擇機籌措最高 300 億美元債務融資，用以加碼各類投資專案。"
-    },
-    {
-      "id": "mkt:019f8bd8-aff0-7aab-8e53-8619d30bb0d8",
-      "time": "2026-07-23 06:01:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude futures opened up about 1.3% after Houthi militants said they struck a Saudi oil tanker."
-    },
-    {
-      "id": "5003114",
-      "time": "2026-07-23 06:00:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4120美元/盎司，日內跌0.25%。"
-    },
-    {
-      "id": "5003113",
-      "time": "2026-07-23 06:00:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4120美元/盎司，日內跌0.75%。"
-    },
-    {
-      "id": "mkt:019f8bd8-10d6-7aab-8e53-78af2c04cbf2",
-      "time": "2026-07-23 06:00:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Houthis say they attacked two Saudi oil tankers, warn of larger strikes inside Saudi】Yemen’s Houthi movement said on the 23rd it attacked two Saudi oil tankers, Encelia and Layla, using ballistic missiles, cruise missiles and drones in retaliation for what it called a Saudi blockade and to enforce a previously announced Red Sea shipping ban. The group said both vessels caught fire and it forced about 10 ships to turn back. It said it will continue maritime military operations and follow its “blockade for blockade” measures, and warned that any new Saudi military action in Yemen would prompt larger strikes on targets inside Saudi Arabia."
-    },
-    {
-      "id": "5003112",
-      "time": "2026-07-23 06:00:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4110美元/盎司，日內跌0.95%。"
-    },
-    {
-      "id": "5003111",
-      "time": "2026-07-23 06:00:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲7月維持利率不變的機率65.3%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為65.3%，累計加息25個基點的機率為34.7%。 美聯儲到9月維持利率不變的機率為22%，累計加息25個基點的機率為54.9%，累計加息50個基點的機率為23%。"
-    },
-    {
-      "id": "5003110",
-      "time": "2026-07-23 06:00:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲1%，現報87.76美元/桶。"
-    },
-    {
-      "id": "5003109",
-      "time": "2026-07-23 06:00:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4100美元/盎司，日內跌1.15%。"
-    },
-    {
-      "id": "5003108",
-      "time": "2026-07-23 06:00:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1295.00美元/盎司。"
-    },
-    {
-      "id": "5003107",
-      "time": "2026-07-23 06:00:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌2%，現報59.09美元/盎司。"
-    },
-    {
-      "id": "5003106",
-      "time": "2026-07-23 06:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4090美元/盎司，日內跌1.44%。"
-    },
-    {
-      "id": "5003105",
-      "time": "2026-07-23 06:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌1%，現報4089.30美元/盎司。"
-    },
-    {
-      "id": "5003104",
-      "time": "2026-07-23 06:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破60美元/盎司，日內跌1.55%。"
-    },
-    {
-      "id": "5003103",
-      "time": "2026-07-23 06:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報59.37美元/盎司。"
     }
   ]
 }
