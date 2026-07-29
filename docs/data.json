@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-30 06:43:30",
-  "count": 17779,
+  "updated": "2026-07-30 06:47:25",
+  "count": 17780,
   "items": [
+    {
+      "id": "5015337",
+      "time": "2026-07-30 06:45:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克稱尚未收到襲擊沙特無人機來自伊境內的實證】當地時間29日晚，伊拉克武裝部隊總司令發言人薩巴赫·努曼表示，美國與沙烏地阿拉伯聯合打擊伊拉克民兵武裝，阻礙了對沙特境內此前遭襲事件的調查工作。努曼說，伊拉克政府要求提供有關沙特此前遭到來自伊拉克境內武裝力量襲擊的證據，但“沒有任何一方向伊方提供”。伊拉克安全部門正在制訂計劃以防止本國遭襲並維護伊拉克主權。伊拉克政府拒絕任何來自伊拉克境外的侵犯行為，絕不允許武器出現在國家管理體系之外。（央視新聞）"
+    },
+    {
+      "id": "5015336",
+      "time": "2026-07-30 06:45:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4140美元/盎司，日內漲1.05%。"
+    },
+    {
+      "id": "5015335",
+      "time": "2026-07-30 06:44:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4080美元/盎司，日內漲0.34%。"
+    },
     {
       "id": "5015333",
       "time": "2026-07-30 06:40:59",
@@ -163957,22 +163983,6 @@
         "Importance 1"
       ],
       "text": "New Zealand Equities Track Wall Street Lower — The NZX 50 dropped 52 points, or 0.4%, to 13,711 in Thursday morning deals, halting the gains of the previous session and pulling back from its highest level since July 9, reached a day earlier, tracking a decline in US futures following a downbeat session on Wall Street overnight ahead of the start of earnings season for mega-cap tech companies. Persistently high oil prices also pressured sentiment as inflation concerns fueled expectations of further interest rate hikes, after the RBNZ raised its cash rate by 25 bps earlier this month. Tuesday's data showed that New Zealand's inflation rate accelerated to the highest level since Q4 2023 in Q2. Healthcare, consumer staples, and industrial stocks mainly weighed on the index, with early losers including Gentrack Group (-4.4%), Hallenstein Glasson (-1.0%), Ventia Services (-0.7%), Auckland International Airport (-0.6%), Fisher & Paykel (-0.5%), and Infratil (-0.4%)."
-    },
-    {
-      "id": "5003147",
-      "time": "2026-07-23 06:47:23",
-      "tags": [
-        "資料"
-      ],
-      "text": "紐西蘭將於 2027 年 7 月首次釋出月度消費者物價指數（CPI）。"
-    },
-    {
-      "id": "5003146",
-      "time": "2026-07-23 06:43:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：韓國最快可能會在8月份宣佈雙邊貿易協議中第一個對美國投資專案。"
     }
   ]
 }
