@@ -1,7 +1,142 @@
 {
   "date": "2026-07-29",
-  "count": 887,
+  "count": 901,
   "items": [
+    {
+      "id": "mkt:019fab94-0bcc-7aab-8eda-932df06243be",
+      "time": "2026-07-29 09:53:53",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "【Australia June inflation below expectations eases RBA near-term rate-hike pressure】Australia's June CPI came in below expectations, easing near-term pressure on the Reserve Bank of Australia (RBA) to tighten policy and giving the bank more room to assess the outlook. The Australian dollar and local government bond yields fell after the print. The RBA raised rates at its first three meetings this year to curb inflation that emerged before the US–Iran-driven global energy shock. Despite prices remaining elevated, another tightening at the August 11 meeting—when the RBA will publish updated quarterly forecasts—now looks less likely."
+    },
+    {
+      "id": "5013394",
+      "time": "2026-07-29 09:53:39",
+      "tags": [],
+      "text": "【日韓股市雙雙走低 韓國KOSPI指數日內跌4％】韓國KOSPI指數日內大跌4％，跌破5800點，現報5781.28點，SK海力士跌近8％，三星電子跌超3％。日經225指數日內跌幅達1％。"
+    },
+    {
+      "id": "te:markets:570560",
+      "time": "2026-07-29 09:53:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Fall as Tech Selloff Intensifies — The Nikkei 225 Index fell 0.8% to below 62,000 on Wednesday, extending the previous session’s losses as technology stocks remained under heavy selling pressure amid persistent concerns over the sustainability of the artificial intelligence trade. Japanese equities also followed Wall Street lower after chipmakers led overnight declines in the US market. Among the biggest technology losers were Kioxia Holdings (-2.4%), Tokyo Electron (-5.5%), SoftBank Group (-4.7%), Murata Manufacturing (-9%), and Taiyo Yuden (-5.8%). Financial stocks also stayed under pressure, with Mitsubishi UFJ (-1.9%), Sumitomo Mitsui (-2%), and Mizuho Financial (-3%) posting notable losses. On the geopolitical front, the US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East, reigniting regional tensions and driving oil prices higher."
+    },
+    {
+      "id": "mkt:019fab93-6b0d-7aab-8eda-882c3acc10f4",
+      "time": "2026-07-29 09:53:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS",
+        "Nikkei 225"
+      ],
+      "text": "【South Korea, Japan stocks slide; KOSPI down about 4% intraday】South Korea's KOSPI plunged about 4% intraday, slipping below 5,800 to 5,781.28 points; SK Hynix fell nearly 8% and Samsung Electronics dropped more than 3%. Japan's Nikkei 225 was down about 1% intraday."
+    },
+    {
+      "id": "5013393",
+      "time": "2026-07-29 09:53:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新股N千岸漲超167% 觸發臨停】新股N千岸漲幅擴大至167%，觸發臨停，成交超4.6億元。資料顯示，公司是一家從事自有品牌產品研發、設計並主要透過電商平臺和自營網站進行銷售的高新技術企業。"
+    },
+    {
+      "id": "5013392",
+      "time": "2026-07-29 09:52:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數跌幅擴大至1%，現報61672.45點。"
+    },
+    {
+      "id": "5013391",
+      "time": "2026-07-29 09:52:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【房地產板塊震盪走強，中交發展漲停】房地產板塊震盪走強，中交發展漲停，張江高科、華髮股份、榮豐控股、濱江集團、*ST數源、招商蛇口等跟漲。"
+    },
+    {
+      "id": "5013390",
+      "time": "2026-07-29 09:52:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌4%，至5781.28點。"
+    },
+    {
+      "id": "mkt:019fab92-1a8e-7aab-8eda-86a42a7cdef8",
+      "time": "2026-07-29 09:51:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian state TV reported the Islamic Revolutionary Guard Corps said hours ago three oil tankers in the Strait of Hormuz were \"hit and seized\" after ignoring warnings."
+    },
+    {
+      "id": "mkt:019fab92-1887-7aab-8eda-7cfb9b2b7a52",
+      "time": "2026-07-29 09:51:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "China A-share STAR 50 Index fell more than 3% as Shengke Communication tumbled over 8%; China's CPU maker Haiguang, AMEC, Hua Hong Hongli and Shanghai Simgui each slid more than 5%."
+    },
+    {
+      "id": "5013389",
+      "time": "2026-07-29 09:51:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.06%，成分股中，戈碧迦跌7.15%，錦華新材跌4.72%，同惠電子跌4.37%，萬達軸承跌3.56%。"
+    },
+    {
+      "id": "5013388",
+      "time": "2026-07-29 09:50:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱，三艘油輪數小時前在霍爾木茲海峽無視警告後被\"攔截並扣押\"。"
+    },
+    {
+      "id": "5013387",
+      "time": "2026-07-29 09:50:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "5013386",
+      "time": "2026-07-29 09:50:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達3.07%，成分股中，盛科通訊跌7.35%，中微公司跌5.87%，海光資訊跌5.83%，滬矽產業跌5.49%。"
+    },
     {
       "id": "mkt:019fab90-7c4f-7aab-8eda-769ebf2fe024",
       "time": "2026-07-29 09:50:00",
