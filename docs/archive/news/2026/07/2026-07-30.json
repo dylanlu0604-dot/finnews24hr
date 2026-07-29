@@ -1,7 +1,27 @@
 {
   "date": "2026-07-30",
-  "count": 21,
+  "count": 23,
   "items": [
+    {
+      "id": "te:markets:570826",
+      "time": "2026-07-30 00:16:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX 40 Little Changed on Wednesday — The DAX 40 was little changed at 25,449 on Wednesday, in a volatile session, as a strong batch of corporate earnings helped offset renewed geopolitical tensions. Sentiment remained cautious, however, after fresh Iranian attacks lifted oil and gas prices, while investors also awaited the Federal Reserve's policy decision and earnings from major US technology companies. Among individual stocks, Rheinmetall surged nearly 7% after reporting sharp increases in revenue and operating profit, driven by strong defense demand. BASF gained 3.8% after announcing a new share buyback program, while Siemens Healthineers rose 4.7% as upbeat results from US peer GE Healthcare boosted the sector. Deutsche Bank advanced 1.1% after posting record second-quarter profits, while RWE was nearly flat after raising its outlook for 2026 and 2027 following a stronger-than-expected first half."
+    },
+    {
+      "id": "mkt:019faea8-1b1b-7aab-8eef-b117b73f3908",
+      "time": "2026-07-30 00:14:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's Prime Minister Tusk said he discussed cooperation on ballistic-missile defense with Ukrainian President Zelensky."
+    },
     {
       "id": "te:markets:570825",
       "time": "2026-07-30 00:13:51",
