@@ -1,7 +1,224 @@
 {
-  "updated": "2026-07-30 02:03:00",
-  "count": 17454,
+  "updated": "2026-07-30 02:07:00",
+  "count": 17471,
   "items": [
+    {
+      "id": "mkt:019faf0e-500f-7aab-8ef2-52eebcdfe52e",
+      "time": "2026-07-30 02:06:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Markets now no longer fully price a Fed rate hike in September."
+    },
+    {
+      "id": "mkt:019faf0e-1989-7aab-8ef2-4969879a7d0a",
+      "time": "2026-07-30 02:06:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "US 2-year Treasury yield fell as much as 7 bps to a low of 4.25%, currently 4.32%."
+    },
+    {
+      "id": "5014970",
+      "time": "2026-07-30 02:06:02",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲互換合約不再完全定價 9 月加息預期。"
+    },
+    {
+      "id": "mkt:019faf0c-3ab1-7aab-8ef2-472296bb6272",
+      "time": "2026-07-30 02:04:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "FOMC voted 9-3 to keep policy rates unchanged; three regional Fed presidents dissented, preferring a 25bp hike — the first time since 2016 the Fed has recorded three like-minded dissents in a single policy decision."
+    },
+    {
+      "id": "5014969",
+      "time": "2026-07-30 02:03:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "市場反應：美國10年期國債收益率短線從4.635%附近跳水至4.61%下方，整體轉跌；兩年期美債收益率從4.32%附近跳水至接近4.24%，整體轉跌。現貨黃金從4040美元附近拉昇至4081美元上方，漲幅超過1.2%。標普跌0.2%，道指跌1.1%，納指轉漲。"
+    },
+    {
+      "id": "mkt:019faf0b-9a7a-7aab-8ef2-3e923c30166a",
+      "time": "2026-07-30 02:03:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "FOMC statement: The Federal Open Market Committee will continue to maintain ample reserves in the banking system."
+    },
+    {
+      "id": "te:economy:570835",
+      "time": "2026-07-30 02:03:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Interest Rate",
+        "Importance 3"
+      ],
+      "text": "Fed Leaves Rates Steady — The Federal Reserve left the federal funds rate unchanged at 3.50%–3.75% for a fifth consecutive meeting in July 2026, in line with expectations. However, three members of the FOMC preferred to have raised interest rates by 25 basis points. The central bank noted that economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East. Productivity growth and capital investment are strong. Job gains have kept pace with the workforce, and the unemployment rate has changed little. Inflation remains elevated relative to the 2% goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy."
+    },
+    {
+      "id": "mkt:019faf0b-885b-7aab-8ef2-31cc79ca73fc",
+      "time": "2026-07-30 02:03:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve FOMC statement: unemployment rate little changed."
+    },
+    {
+      "id": "mkt:019faf0b-79d2-7aab-8ef2-2eb88c31cd6a",
+      "time": "2026-07-30 02:03:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Following the Fed rate decision, US major indices pared losses: Dow down 1.09%, S&P 500 down 0.15%, Nasdaq turned positive."
+    },
+    {
+      "id": "mkt:019faf0b-7898-7aab-8ef2-24c75bc6caac",
+      "time": "2026-07-30 02:03:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve FOMC statement: reiterated that employment growth remains in line with the labor force."
+    },
+    {
+      "id": "mkt:019faf0b-7755-7aab-8ef2-1dca19780187",
+      "time": "2026-07-30 02:03:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed officials Hammack, Kashkari and Logan dissented from the FOMC statement."
+    },
+    {
+      "id": "mkt:019faf0b-75f6-7aab-8ef2-126d3175762a",
+      "time": "2026-07-30 02:03:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "US dollar index (DXY) slid about 27 points intraday to 101.1."
+    },
+    {
+      "id": "mkt:019faf0b-7488-7aab-8ef2-0a87b2a3dab7",
+      "time": "2026-07-30 02:03:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's FOMC statement reiterated that inflation remains elevated, partly reflecting the effects of shocks."
+    },
+    {
+      "id": "mkt:019faf0b-730d-7aab-8ef2-016a2eaec796",
+      "time": "2026-07-30 02:03:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Federal Reserve FOMC statement: productivity growth and capital investment have been strong."
+    },
+    {
+      "id": "mkt:019faf0b-72be-7aab-8ef1-fd848e5d4e1a",
+      "time": "2026-07-30 02:03:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "FOMC statement reiterated that economic activity is expanding at a solid pace."
+    },
+    {
+      "id": "5014968",
+      "time": "2026-07-30 02:02:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：生產率增長與資本投資勢頭強勁，儘管不確定性居高不下，但經濟活動仍穩健擴張。"
+    },
+    {
+      "id": "5014967",
+      "time": "2026-07-30 02:02:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：就業新增規模與勞動力人口增長基本同步，失業率變動幅度微弱。 聯邦公開市場委員會將延續政策，持續為銀行體系維持充足儲備金。"
+    },
     {
       "id": "5014966",
       "time": "2026-07-30 02:02:08",
@@ -10,6 +227,15 @@
         "國際"
       ],
       "text": "美聯儲：當前通脹水平仍高於 2% 的目標值，部分原因是能源等部分行業遭遇供給衝擊。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825507568",
+      "time": "2026-07-30 02:02:04",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美元指數下跌0.27%，報101.13點。"
     },
     {
       "id": "5014965",
@@ -35,6 +261,24 @@
         "國際"
       ],
       "text": "美聯儲FOMC宣告：重申通脹仍然高企，部分原因是受到衝擊影響。重申經濟活動以穩健的速度擴張。重申就業增長與勞動力保持同步。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825507389",
+      "time": "2026-07-30 02:01:40",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲維持貼現率在3.75%不變。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825507463",
+      "time": "2026-07-30 02:01:13",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲以9比3的投票結果決定將基準利率維持在3.5%-3.75%區間不變】美聯儲以9比3的投票結果決定將基準利率維持在3.5%-3.75%區間不變。其中，哈馬克、卡什卡利和洛根持異議，傾向於加息。"
     },
     {
       "id": "mkt:019faf09-3f0b-7aab-8ef1-f4a69aac57fb",
@@ -160470,30 +160714,6 @@
         "國際"
       ],
       "text": "美聯儲主席沃什將於7月29日下午2:30舉行FOMC會議後記者會。"
-    },
-    {
-      "id": "5002920",
-      "time": "2026-07-23 02:06:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "繼阿根廷主權評級上調後，穆迪上調了五家阿根廷銀行的評級。"
-    },
-    {
-      "id": "5002919",
-      "time": "2026-07-23 02:06:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：因愈發擔憂土耳其海軍擴張，以色列考慮採購波音P-8“海神”海上巡邏機以提升反潛能力。"
-    },
-    {
-      "id": "5002918",
-      "time": "2026-07-23 02:03:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數轉跌，回吐高達0.2%的漲幅。"
     }
   ]
 }
