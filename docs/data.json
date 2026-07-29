@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-30 07:34:03",
+  "updated": "2026-07-30 07:37:59",
   "count": 17790,
   "items": [
+    {
+      "id": "mkt:019fb03d-08e4-7aab-8efb-515bd18419dc",
+      "time": "2026-07-30 07:36:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Microsoft",
+        "Meta Platforms",
+        "Alphabet",
+        "Amazon",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O",
+        "Impact bearish",
+        "GOOGL.O"
+      ],
+      "text": "【AI boom bifurcates market: chipmakers capture cash, cloud vendors still await returns】Quarterly results highlight a bifurcation: Microsoft revenue +18% with a $678bn backlog and Azure revenue surpassing $100bn; Meta revenue +28%. Visible Alpha shows Microsoft capex growth has run hot for three years—average ~62% for 2024–26—well above Azure’s ~37% revenue growth; Meta’s Q2 free cash flow fell 91% as data-center spending surged. Analysts estimate 2026 capex for the four big cloud vendors (Meta, Microsoft, Alphabet, Amazon) at about $698bn, roughly equal to the projected free cash flow of four major chipmakers (NVIDIA, SK Hynix, Samsung, Micron). The market takeaway: demand may not be the constraint—spending is. Investors will remain cautious until Microsoft demonstrates Azure revenue growth sustainably outpacing capex and Meta shows AI-driven improvement in margins and free cash flow. AI-driven cash is flowing to chipmakers while returns to large cloud players remain congested."
+    },
+    {
+      "id": "te:economy:570898",
+      "time": "2026-07-30 07:36:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Car Production",
+        "Importance 1"
+      ],
+      "text": "UK Car Production Falls 1.2% in June — UK car production dropped 1.2% year-on-year to 68,200 units in June 2026, reversing a 3.2% rise in May. The decline came even as car exports continued to rise, up 4.5%. For the first half of the year, car production fell 7.5% from a year earlier to 385,979 units amid trade uncertainty, with exports dropping 5.6% to 294,222 units. Meanwhile, domestic production shed 13.2% to 91,757 units. \"Clearly, vehicle production is still under severe pressure, but the last quarter suggests at least a sign of stabilization,\" said SMMT CEO Mike Hawes."
+    },
+    {
+      "id": "5015392",
+      "time": "2026-07-30 07:35:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Meta上調全年資本支出預期下限至1300億美元】當地時間7月29日，Meta預計全年資本支出為1300億美元至1450億美元，此前預估為1250億美元至1450億美元，市場預估為1358.6億美元。"
+    },
+    {
+      "id": "5015391",
+      "time": "2026-07-30 07:34:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "騰龍株式會社：已針對此提案成立特別委員會，以審查旨在提升企業價值的各項方案。"
+    },
+    {
+      "id": "5015390",
+      "time": "2026-07-30 07:34:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "騰龍株式會社：確認已收到索尼公司提出的一系列非約束性提案，旨在透過相關交易使該公司成為索尼集團公司的全資子公司。"
+    },
+    {
+      "id": "5015389",
+      "time": "2026-07-30 07:34:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【證券時報：產業鏈韌性是A股市場堅固護城河】7月以來，海外市場大幅調整，受輸入性因素疊加影響，A股市場也出現起伏。近期一則“國產光刻機研發突破”的傳聞，不僅導致阿斯麥股價走低，也引發了A股相關板塊逆勢上漲。儘管傳聞難辨真假，不過市場表現已經表明：產業鏈的自主可控使得A股受外部影響減少，助力A股形成堅固的護城河。我國擁有全球最完備的工業體系、海量的工程師隊伍與規模龐大的終端需求，部分行業的國產替代正從單點突破走向全鏈條協同。當下最重要的任務之一，就是要不斷完善我國的產業鏈。產業鏈的完善，將不斷增厚上市公司長期成長價值，構築起抵禦外部風險的護城河。當然，對於投資者而言，對市場定價“產業鏈安全”預期，也需保持一份冷靜。產業鏈自主可控的方向是確定的，但過程可能是曲折的。"
+    },
+    {
+      "id": "5015388",
+      "time": "2026-07-30 07:33:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本光學儀器公司騰龍TAMRON：收到索尼集團的非約束性收購要約。"
+    },
     {
       "id": "mkt:019fb039-69d6-7aab-8efb-4f7c0a77d520",
       "time": "2026-07-30 07:33:00",
@@ -164025,65 +164102,6 @@
         "國際"
       ],
       "text": "【韓國經濟增速超預期 晶片熱帶來持續推動】受人工智慧驅動的晶片行業繁榮推動，韓國經濟第二季度增速超出預期，這也為進一步加息提供了依據。韓國央行週四表示，第二季度國內生產總值環比增長0.6%，第一季度增幅為1.8%。這一數字高於彭博調查經濟學家的預期中值0.4%。雖然較第一季度的2021年底以來最快增速的出色表現有所放緩，但週四公佈的資料延續了此前一系列強於預期的經濟資料，這些資料促使政府、央行和國際貨幣基金組織多次上調韓國經濟增長預期。這將為央行官員在未來幾個月考慮再次加息提供依據，此前他們於上週進行了自2023年以來的首次加息。對經濟學家的調查顯示，他們預計10月還會再有一次行動，少數人預測可能會在8月27日的會議上發生。"
-    },
-    {
-      "id": "5003193",
-      "time": "2026-07-23 07:37:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上證報：穩市場聚合力 證監會系列座談會釋放四大訊號】7月20日至21日，從投資者、上市公司到行業機構、專家學者，中國證監會以少見的密度和廣度舉行系列座談會，圍繞促進資本市場穩定健康發展聽取意見建議。此外，中國證監會主席吳清會見外資基金公司，就投資中國資本市場等議題交換意見。這背後，釋放出四大政策訊號：——堅定穩市決心，全力維護市場平穩執行。投資者座談會上傳遞出一個清晰判斷：新“國九條”實施以來，我國資本市場總體呈現穩中向好發展態勢。“9·26”以來資本市場政策邏輯、創新邏輯、安全邏輯沒有改變，短期波動不改變長期向好趨勢。——明確市場重心，強調以投資者為本。系列座談會最鮮明的特徵，是將“投資者”置於核心位置。吳清強調，廣大投資者是市場之本，是資本市場最重要的參與群體。——強調公平交易，嚴打違法違規行為。維護公開、公平、公正的市場秩序，是系列座談會的重要議題。其中，“規範量化交易和AI應用”“加大市場違法違規懲處力度”成為討論的核心話題。——匯聚穩市力量，政策“組合拳”協同發力。穩市不僅需要決心，更需要方法。系列座談會彙集市場各方力量，有望形成系列可行的政策工具箱。"
-    },
-    {
-      "id": "5003192",
-      "time": "2026-07-23 07:35:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【在美伊衝突進一步升溫的前景下油價上漲】在美伊衝突進一步升溫的前景下，亞洲早盤交易中油價上漲，這可能導致中東地區供應受擾加劇。美國總統特朗普威脅稱，如果伊朗攻擊透過霍爾木茲海峽的船隻，將摧毀伊朗的基礎設施；霍爾木茲海峽是一條關鍵水道，全球五分之一的石油運輸都要經過該海峽。特朗普週三在Truth Social上寫道，每次伊朗向該海峽內的船隻開火時，美國將“轟炸並摧毀一座橋樑或發電廠“，包括德黑蘭市內或附近的基礎設施。近月西得州中質油期貨上漲1.1%，報每桶87.82美元。"
-    },
-    {
-      "id": "5003191",
-      "time": "2026-07-23 07:35:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "麥格理集團董事長表示，新任執行長格雷格·沃德在調整零售銀行部門業務定位方面做得“非常出色”。"
-    },
-    {
-      "id": "5003190",
-      "time": "2026-07-23 07:35:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【胡塞武裝對沙特實施“海上禁運” 紅海多艘油輪改道】葉門胡塞武裝20日宣佈對沙烏地阿拉伯實施“海上禁運”且立即生效，警告船舶不要駛往沙特港口。據最新船舶追蹤資料顯示，當地時間22日共有五艘油輪在紅海變更航線，其中兩艘油輪將蘇伊士運河設為新目的地。據悉，歐盟紅海護航軍事行動——“盾牌”行動22日當天釋出航行提示：與以色列、美國、沙特存在關聯的船舶遭胡塞武裝襲擊風險更高。在風險回落前，建議避開紅海與亞丁灣航線。公告提出，近期掛靠沙特港口、裝卸貨物的船舶應當縮小電子訊號暴露範圍，儘量關閉船舶自動識別系統訊號，減少可被鎖定的公開數字化資訊"
-    },
-    {
-      "id": "5003189",
-      "time": "2026-07-23 07:34:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寬基ETF月內淨流入近2300億元】近期，ETF市場資金流入明顯增加，寬基ETF（交易型開放式指數基金）成為資金配置的重要方向。資料顯示，截至7月21日，月內全市場ETF淨流入3800億元，其中寬基ETF淨流入達2288.67億元，佔比約六成。此外，跟蹤科創50指數的20只ETF月內合計淨流入494.10億元，在各類寬基指數ETF中居首。"
-    },
-    {
-      "id": "5003188",
-      "time": "2026-07-23 07:34:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "海灣合作委員會（GCC）秘書長賈西姆·穆罕默德·阿爾布代維表示，伊朗對海灣合作委員會國家發動的攻擊以及胡塞武裝威脅關閉曼德海峽，需要立即追究責任，並採取堅定的國際立場，以確保國際法的尊重、航行自由以及能源基礎設施的保護。阿爾布代維週三在紐約聯合國安理會高階別公開辯論會上發言時表示，自2月28日起，伊朗持續對海灣合作委員會國家及其他國家發射彈道導彈和無人機攻擊，他將這些行為描述為違反國際法和《聯合國憲章》的行為。他還指責伊朗透過對商船發動攻擊、佈設海軍水雷、試圖強制實施航運路線以及反覆威脅關閉該水道，從而威脅霍爾木茲海峽的航行自由。"
-    },
-    {
-      "id": "5003187",
-      "time": "2026-07-23 07:34:03",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投：6月化工品出口同比延續高位】中信建投研報指出，6月化工品出口同比延續高位：化工品6月出口金額3025億元，同比+22.7%，環比+3.4%；1-6月累計出口金額16045億元，同比+13.7%。分章節看，塑膠及其製品出口1120億元，同比+24.0%，有機化學品出口686億元，同比+40.0%，兩者合計貢獻當月約74%出口增量。分國家/地區看，對印度出口化工品同比+46.6%，對韓國出口+42.7%，對俄羅斯出口+33.0%，三者出口增速居前。石化、煤化工板塊維持大幅放量，丁二烯（+266817%）、醋酸乙烯（+1035%）、乙二醇（+1020%）單月出口量同比漲幅居前。"
     }
   ]
 }
