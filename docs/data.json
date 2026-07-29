@@ -1,7 +1,206 @@
 {
-  "updated": "2026-07-30 03:22:41",
-  "count": 17688,
+  "updated": "2026-07-30 03:26:36",
+  "count": 17702,
   "items": [
+    {
+      "id": "mkt:019faf57-571e-7aab-8ef7-3183a6e9b938",
+      "time": "2026-07-30 03:26:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump: UK Prime Minister Burnham says the UK will develop North Sea oil."
+    },
+    {
+      "id": "mkt:019faf57-42a5-7aab-8ef7-2ecfe1075b87",
+      "time": "2026-07-30 03:25:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kevin Warsh says he watches broader set of inflation indicators beyond PCE】Federal Reserve chair Kevin Warsh said he follows \"a broader set of inflation indicators\" than the PCE — the personal consumption expenditures price index published by the US Commerce Department — and that his inflation view is broader even though the Fed's policy remit is relatively narrow."
+    },
+    {
+      "id": "mkt:019faf57-1236-7aab-8ef7-22ca1535b0b2",
+      "time": "2026-07-30 03:25:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed chair Kevin Warsh to hold press conferences through year-end】At his June meeting Warsh said he might only hold post-meeting press conferences when there was specific news. At his second meeting he said he will continue to hold press conferences at least through the remainder of this year. Any continuation beyond that will depend on the Federal Reserve communications working group's assessment."
+    },
+    {
+      "id": "5015131",
+      "time": "2026-07-30 03:25:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "記者：能否介紹埃及油輪遇襲事件？此事是否和伊朗有關？ \n特朗普：我已聽取相關簡報，事態依舊是類似以往的衝突模式。"
+    },
+    {
+      "id": "mkt:019faf56-c4bd-7aab-8ef7-1aad27637ab5",
+      "time": "2026-07-30 03:25:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "XAUUSD"
+      ],
+      "text": "U.S. 30-year Treasury yield rose 10bp intraday to 5.19%."
+    },
+    {
+      "id": "5015130",
+      "time": "2026-07-30 03:24:51",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率當日上漲10個基點至5.19%。"
+    },
+    {
+      "id": "5015129",
+      "time": "2026-07-30 03:24:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，烏克蘭對民眾的防衛取決於合作伙伴，尤其是美國，提供導彈防禦系統的意願。"
+    },
+    {
+      "id": "mkt:019faf55-8199-7aab-8ef7-11110fee0541",
+      "time": "2026-07-30 03:24:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said Ukraine's defense hinges on whether partners, especially the United States, are willing to provide missile-defense systems."
+    },
+    {
+      "id": "5015128",
+      "time": "2026-07-30 03:23:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：昨晚有5枚導彈襲擊美軍基地，全部成功攔截。現在輪到我們反擊了。"
+    },
+    {
+      "id": "mkt:019faf55-0d2c-7aab-8ef7-0bfa4af02855",
+      "time": "2026-07-30 03:23:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Kevin Warsh: Forward guidance useful in crises, should be reexamined in stable periods】Kevin Warsh said at a press briefing that expanded Fed forward guidance can be prudent in financial crises (e.g., 2008–09) but should be reexamined in steadier economic environments. \"Markets, market participants and reporters have learned to fully extract and interpret all of this information. Therefore, I think reducing reliance on forward guidance requires a transition period.\" He said that if officials observe a stable labor market alongside rising underlying inflation pressures, they will naturally lean toward tightening monetary policy."
+    },
+    {
+      "id": "5015127",
+      "time": "2026-07-30 03:23:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：情報顯示俄羅斯數日之前就計劃發起大規模襲擊。"
+    },
+    {
+      "id": "mkt:019faf54-c3c9-7aab-8ef7-06550fbc5cb5",
+      "time": "2026-07-30 03:23:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Ukraine President Zelenskiy said reports indicate Russia planned a large-scale attack several days ago."
+    },
+    {
+      "id": "5015126",
+      "time": "2026-07-30 03:23:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗要求我們不要打擊他們。"
+    },
+    {
+      "id": "mkt:019faf54-8690-7aab-8ef6-fafba198636d",
+      "time": "2026-07-30 03:22:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. President Trump said: We will see whether an Iran deal can be reached."
+    },
+    {
+      "id": "5015125",
+      "time": "2026-07-30 03:22:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國駐伊拉克大使館提醒在伊拉克中國公民加強安全防範】近期，地區安全形勢持續緊張，伊拉克境內多地遭遇襲擊，不穩定、不確定因素增多。中國駐伊拉克大使館提醒在伊中國公民密切關注當地安全動態，切實提高安全防範意識，減少非必要外出，避免前往軍事設施等敏感區域及人員密集場所，做好個人安全防範和應急準備工作。如遇緊急情況，請及時報警並與中國駐伊拉克使領館聯絡。"
+    },
+    {
+      "id": "mkt:019faf54-28e8-7aab-8ef6-f2afe003664d",
+      "time": "2026-07-30 03:22:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Trump says Iran asked the US not to attack them."
+    },
+    {
+      "id": "mkt:019faf54-04b5-7aab-8ef6-e8ed108fa74f",
+      "time": "2026-07-30 03:22:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Ukrainian President Zelenskiy said an attack by Russian forces tonight is \"very likely\"."
+    },
+    {
+      "id": "mkt:019faf53-e6bc-7aab-8ef6-e37494bf69f5",
+      "time": "2026-07-30 03:22:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "US President Trump said the US will strike Iran hard."
+    },
+    {
+      "id": "te:markets:570856",
+      "time": "2026-07-30 03:22:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Micron Technology Stock Price Hits 9-week Low — Micron Technology shares decreased to 758.55 USD, the lowest since May 2026. Over the past 4 weeks, Micron Technology lost 33.92%, and in the last 12 months, it increased 564.72%."
+    },
+    {
+      "id": "5015124",
+      "time": "2026-07-30 03:22:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們看看能否在伊朗核協議上達成協議。"
+    },
     {
       "id": "mkt:019faf53-8044-7aab-8ef6-d8e2803b8d2c",
       "time": "2026-07-30 03:21:52",
@@ -163010,62 +163209,6 @@
         "DXY"
       ],
       "text": "Iranian media Fars News reported explosions heard in Erbil, Iraq."
-    },
-    {
-      "id": "mkt:019f8b4a-7292-7aab-8e50-be36fba78151",
-      "time": "2026-07-23 03:25:39",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Brazil's trade minister said related measures should not be layered on top of U.S. Section 301 measures."
-    },
-    {
-      "id": "mkt:019f8b49-fb47-7aab-8e50-b65766d8aeb5",
-      "time": "2026-07-23 03:25:09",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【UK withdraws diplomatic staff from Iran】The Foreign, Commonwealth and Development Office said it has temporarily evacuated diplomatic staff from Iran citing a change in the security situation. The British embassy in Tehran will continue to operate remotely to maintain diplomatic functions."
-    },
-    {
-      "id": "5002983",
-      "time": "2026-07-23 03:23:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據CNN：英國政府正在撤回駐伊朗外交人員。"
-    },
-    {
-      "id": "mkt:019f8b48-d6ac-7aab-8e50-ab4a3f4662f9",
-      "time": "2026-07-23 03:23:54",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CNN reports the UK government is withdrawing diplomatic staff from Iran."
-    },
-    {
-      "id": "5002982",
-      "time": "2026-07-23 03:23:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西貿易部長：我方主張，301 條款相關關稅不應疊加徵收。"
-    },
-    {
-      "id": "mkt:019f8b48-19f0-7aab-8e50-a3fa9f70dea7",
-      "time": "2026-07-23 03:23:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump administration explores nuclear projects in federal waters】The Trump administration is exploring the possibility of deploying nuclear power projects within 3.2 bln acres of U.S. federal waters. The Department of the Interior’s Bureau of Ocean Energy Management (BOEM) and the NRC said on Wednesday they reached an agreement to strengthen cooperation in evaluating deployment of offshore/subsea nuclear plants. BOEM said there are currently no approved or planned commercial nuclear reactors in federal waters; the agreement is intended to assess whether and how the technology could be responsibly implemented in the future."
     }
   ]
 }
