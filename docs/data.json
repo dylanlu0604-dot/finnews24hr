@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-30 04:31:06",
-  "count": 17784,
+  "updated": "2026-07-30 04:35:03",
+  "count": 17786,
   "items": [
+    {
+      "id": "mkt:019faf96-0279-7aab-8ef9-36f2a8030362",
+      "time": "2026-07-30 04:34:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. will hold an artificial intelligence summit in Lima, Peru on Sept. 8."
+    },
+    {
+      "id": "mkt:019faf94-cec9-7aab-8ef9-2c1f9964abe1",
+      "time": "2026-07-30 04:33:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish",
+        "MSFT.O",
+        "Impact bullish",
+        "QCOM.O"
+      ],
+      "text": "After earnings, Meta Platforms (META.O) shares are trading down about 6%; Microsoft (MSFT.O) is up about 3%; Qualcomm (QCOM.O) is down about 4.6%."
+    },
+    {
+      "id": "te:markets:570877",
+      "time": "2026-07-30 04:31:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Robinhood earnings above expectations at 0.62 USD — Robinhood (HOOD) released earnings per share at 0.62 USD, compared to market expectations of 0.41 USD."
+    },
+    {
+      "id": "te:markets:570876",
+      "time": "2026-07-30 04:31:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Starbucks earnings above expectations at 0.85 USD — Starbucks (SBUX) released earnings per share at 0.85 USD, compared to market expectations of 0.66 USD."
+    },
+    {
+      "id": "5015221",
+      "time": "2026-07-30 04:31:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗訊息人士證實，美沙聯合襲擊造成數名伊朗革命衛隊人員身亡。"
+    },
     {
       "id": "5015220",
       "time": "2026-07-30 04:27:36",
@@ -163996,42 +164054,6 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Closes 0.05% Higher — The Dow Jones Index rose 25 points or 0.05 percent on Wednesday to close at 52250 points. Leading the gains are Nvidia (2.39%), J&J (2.04%) and Boeing (1.97%). Top losers were Salesforce (-4.02%), IBM (-2.15%) and Microsoft (-1.78%)."
-    },
-    {
-      "id": "5003031",
-      "time": "2026-07-23 04:34:27",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國和沙烏地阿拉伯達成核合作協議。"
-    },
-    {
-      "id": "5003030",
-      "time": "2026-07-23 04:33:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【特斯拉第二季度利潤遠遜華爾街預期 成本上升拖累業績】特斯拉第二季度業績不及華爾街預期，打擊了這家正致力於圍繞機器人、自動駕駛和人工智慧打造新業務的電動汽車製造商。特斯拉週三在宣告中表示，經調整後每股收益為33美分。這低於分析師平均預期的51美分。公司還報告自由現金流為負10.9億美元。特斯拉執行長埃隆·馬斯克此前警告稱，今年的總支出將超過250億美元。該公司正計劃在六家工廠全面提升汽車、電池和機器人的產量，以踐行他的未來願景。這些投資的影響如今正逐步反映在公司財務表現中，因此投資者希望獲得更多細節。截至紐約時間下午4:16，特斯拉股價盤後下跌2.8%。截至週三收盤，該股今年以來累計下跌17%。"
-    },
-    {
-      "id": "mkt:019f8b86-6c43-7aab-8e51-eb4554dbaf08",
-      "time": "2026-07-23 04:31:10",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact mixed",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【Alphabet Q2 capex doubles to $44.9 bln】Alphabet said Q2 capital expenditure doubled to $44.9 bln from $22.4 bln a year earlier as it accelerates investment in AI infrastructure and global compute. The company raised $49.6 bln through an equity issuance and said proceeds will support capex and other corporate uses. Q2 EPS was $9.11 versus analysts’ $2.88 estimate; revenue rose 24% YoY to $119.8 bln, above consensus $116.5 bln. Operating profit increased 30% and operating margin widened to 34%. Growth was led by Google Cloud, which posted revenue up 82% YoY to $24.8 bln."
     }
   ]
 }

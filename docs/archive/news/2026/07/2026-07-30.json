@@ -1,7 +1,65 @@
 {
   "date": "2026-07-30",
-  "count": 697,
+  "count": 702,
   "items": [
+    {
+      "id": "mkt:019faf96-0279-7aab-8ef9-36f2a8030362",
+      "time": "2026-07-30 04:34:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. will hold an artificial intelligence summit in Lima, Peru on Sept. 8."
+    },
+    {
+      "id": "mkt:019faf94-cec9-7aab-8ef9-2c1f9964abe1",
+      "time": "2026-07-30 04:33:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish",
+        "MSFT.O",
+        "Impact bullish",
+        "QCOM.O"
+      ],
+      "text": "After earnings, Meta Platforms (META.O) shares are trading down about 6%; Microsoft (MSFT.O) is up about 3%; Qualcomm (QCOM.O) is down about 4.6%."
+    },
+    {
+      "id": "te:markets:570877",
+      "time": "2026-07-30 04:31:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Robinhood earnings above expectations at 0.62 USD — Robinhood (HOOD) released earnings per share at 0.62 USD, compared to market expectations of 0.41 USD."
+    },
+    {
+      "id": "te:markets:570876",
+      "time": "2026-07-30 04:31:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Starbucks earnings above expectations at 0.85 USD — Starbucks (SBUX) released earnings per share at 0.85 USD, compared to market expectations of 0.66 USD."
+    },
+    {
+      "id": "5015221",
+      "time": "2026-07-30 04:31:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗訊息人士證實，美沙聯合襲擊造成數名伊朗革命衛隊人員身亡。"
+    },
     {
       "id": "5015220",
       "time": "2026-07-30 04:27:36",
