@@ -1,7 +1,26 @@
 {
   "date": "2026-07-30",
-  "count": 874,
+  "count": 876,
   "items": [
+    {
+      "id": "mkt:019fb005-cf45-7aab-8efa-d14d2af3772a",
+      "time": "2026-07-30 06:36:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reports a magnitude 6.2 earthquake in the Kermadec Islands region."
+    },
+    {
+      "id": "te:markets:570893",
+      "time": "2026-07-30 06:35:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Rises by 1.76% — Top commodity gainers are Silver (1.76%) and Gold (1.16%). Biggest loser is Steel Rebar (-0.79%)."
+    },
     {
       "id": "5015332",
       "time": "2026-07-30 06:32:48",
