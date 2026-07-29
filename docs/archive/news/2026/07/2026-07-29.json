@@ -1,7 +1,99 @@
 {
   "date": "2026-07-29",
-  "count": 1305,
+  "count": 1315,
   "items": [
+    {
+      "id": "mkt:019fac31-24b2-7aab-8edf-495e160c89b1",
+      "time": "2026-07-29 12:45:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Aeon said four people were missing after an explosion at its Kumamoto shopping center."
+    },
+    {
+      "id": "5013666",
+      "time": "2026-07-29 12:45:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吉林汪清升級釋出暴雨紅色預警】吉林省延邊州汪清縣氣象臺7月29日11時10分升級釋出暴雨紅色預警訊號：截至目前，汪清縣東光鎮已出現90毫米以上降水，清河村已出現超過100毫米降水，其中清河村、廟溝村小時雨強達40毫米以上。預計未來3小時，上述地區降雨仍將持續。對此，汪清縣防辦、縣應急管理局、縣氣象局聯合提醒注意做好預防工作。"
+    },
+    {
+      "id": "5013665",
+      "time": "2026-07-29 12:45:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價跌幅擴大；最新下跌18%，至1,269,000韓元。"
+    },
+    {
+      "id": "5013664",
+      "time": "2026-07-29 12:44:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "東京午後交易時段日元走強，一度報1美元約163.40日元。"
+    },
+    {
+      "id": "mkt:019fac2f-4cb1-7aab-8edf-45e8a47c03a2",
+      "time": "2026-07-29 12:43:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 has fallen as much as 3% intraday, trading at 60,490.58 points."
+    },
+    {
+      "id": "5013663",
+      "time": "2026-07-29 12:43:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數下跌3%，至60491.81點。"
+    },
+    {
+      "id": "mkt:019fac2e-3007-7aab-8edf-3df0a584fac8",
+      "time": "2026-07-29 12:42:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Refinitiv: An Iranian senior official said the US and Saudi Arabia are pressuring Oman to implement what Iran calls an unrealistic plan for the Strait of Hormuz."
+    },
+    {
+      "id": "5013661",
+      "time": "2026-07-29 12:42:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階官員：美國與沙烏地阿拉伯正試圖向阿曼施壓，以推進兩國在霍爾木茲海峽問題上不切實際的計劃。"
+    },
+    {
+      "id": "mkt:019fac2d-f613-7aab-8edf-317d6b59ece2",
+      "time": "2026-07-29 12:42:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Refinitiv: A senior Iranian official said the southern route of the Strait of Hormuz may pose a danger to vessels, and that Oman's control of the waterway should correspond to its share of the passage."
+    },
+    {
+      "id": "5013660",
+      "time": "2026-07-29 12:41:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階官員：德黑蘭已排除阿曼提出的霍爾木茲海峽區域聯合管理方案，該方案毫無成功可能。"
+    },
     {
       "id": "mkt:019fac2d-61c3-7aab-8edf-2c0d055d2031",
       "time": "2026-07-29 12:41:22",

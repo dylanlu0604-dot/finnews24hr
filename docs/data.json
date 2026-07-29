@@ -1,7 +1,99 @@
 {
-  "updated": "2026-07-29 12:42:11",
-  "count": 17634,
+  "updated": "2026-07-29 12:46:05",
+  "count": 17638,
   "items": [
+    {
+      "id": "mkt:019fac31-24b2-7aab-8edf-495e160c89b1",
+      "time": "2026-07-29 12:45:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Aeon said four people were missing after an explosion at its Kumamoto shopping center."
+    },
+    {
+      "id": "5013666",
+      "time": "2026-07-29 12:45:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吉林汪清升級釋出暴雨紅色預警】吉林省延邊州汪清縣氣象臺7月29日11時10分升級釋出暴雨紅色預警訊號：截至目前，汪清縣東光鎮已出現90毫米以上降水，清河村已出現超過100毫米降水，其中清河村、廟溝村小時雨強達40毫米以上。預計未來3小時，上述地區降雨仍將持續。對此，汪清縣防辦、縣應急管理局、縣氣象局聯合提醒注意做好預防工作。"
+    },
+    {
+      "id": "5013665",
+      "time": "2026-07-29 12:45:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價跌幅擴大；最新下跌18%，至1,269,000韓元。"
+    },
+    {
+      "id": "5013664",
+      "time": "2026-07-29 12:44:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "東京午後交易時段日元走強，一度報1美元約163.40日元。"
+    },
+    {
+      "id": "mkt:019fac2f-4cb1-7aab-8edf-45e8a47c03a2",
+      "time": "2026-07-29 12:43:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 has fallen as much as 3% intraday, trading at 60,490.58 points."
+    },
+    {
+      "id": "5013663",
+      "time": "2026-07-29 12:43:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數下跌3%，至60491.81點。"
+    },
+    {
+      "id": "mkt:019fac2e-3007-7aab-8edf-3df0a584fac8",
+      "time": "2026-07-29 12:42:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Refinitiv: An Iranian senior official said the US and Saudi Arabia are pressuring Oman to implement what Iran calls an unrealistic plan for the Strait of Hormuz."
+    },
+    {
+      "id": "5013661",
+      "time": "2026-07-29 12:42:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階官員：美國與沙烏地阿拉伯正試圖向阿曼施壓，以推進兩國在霍爾木茲海峽問題上不切實際的計劃。"
+    },
+    {
+      "id": "mkt:019fac2d-f613-7aab-8edf-317d6b59ece2",
+      "time": "2026-07-29 12:42:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Refinitiv: A senior Iranian official said the southern route of the Strait of Hormuz may pose a danger to vessels, and that Oman's control of the waterway should correspond to its share of the passage."
+    },
+    {
+      "id": "5013660",
+      "time": "2026-07-29 12:41:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階官員：德黑蘭已排除阿曼提出的霍爾木茲海峽區域聯合管理方案，該方案毫無成功可能。"
+    },
     {
       "id": "mkt:019fac2d-61c3-7aab-8edf-2c0d055d2031",
       "time": "2026-07-29 12:41:22",
@@ -161769,54 +161861,6 @@
         "AI Revolution"
       ],
       "text": "【SoftBank launches GaranAI to commercialize news content for AI training】SoftBank said on Wednesday it has begun operating GaranAI, a platform that will source articles from publishers—including Mainichi, Sankei, Kyodo and certain regional papers—pay contributors and convert content into data formats that make reconstruction of the original text difficult. The company will further process those datasets into AI-ready inputs and sell them to AI developers to improve generative-AI response accuracy. SoftBank released a trial version and is now accepting developer applications, plans iterative improvements over the next six months, aims to roll out a full version in or after January next year, and intends to expand the platform to accept a broader range of copyrighted content."
-    },
-    {
-      "id": "mkt:019f8824-fcf8-7aab-8e3a-693c1d46c8c7",
-      "time": "2026-07-22 12:45:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China publishes 15th Five-Year plan for forestry and grassland protection and utilization】China on July 22 published its 15th Five-Year Plan for forestry and grassland protection and utilization. The plan sets a by-2030 target to secure decisive victories in the Three-North afforestation campaign’s three flagship operations, complete integration and optimization of nature reserves, and continuously improve the quality and service functions of forest, grassland, wetland and desert ecosystems. It aims to diversify supply and consumption scenarios for forestry and grassland products and lift the sector’s total output value. Policy measures include large-scale national greening actions, full construction of a protected-areas system, scaling up forestry and grassland industry, reinforcing ecological-security capabilities, deepening reforms in key areas, and promoting innovation-driven development and international cooperation."
-    },
-    {
-      "id": "5001476",
-      "time": "2026-07-22 12:45:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《林業草原保護利用“十五五”規劃》向社會公佈】《林業草原保護利用“十五五”規劃》7月22日向社會公佈。規劃提出，到2030年，“三北”工程三大標誌性戰役取得決定性勝利，完成自然保護地整合最佳化，森林、草原、溼地、荒漠生態系統質量和服務功能不斷增強，林草多元供給和消費場景更加豐富，林草產業總產值邁上新臺階。規劃部署了科學開展大規模國土綠化行動、全面推進自然保護地體系建設、培育壯大林草產業、協同強化生態安全能力建設、持續深化重點領域改革、全力推動創新驅動與開放合作等方面工作。（新華社）"
-    },
-    {
-      "id": "5001475",
-      "time": "2026-07-22 12:44:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣西百菲乳業股份有限公司向港交所提交上市申請書】據港交所檔案：廣西百菲乳業股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "5001474",
-      "time": "2026-07-22 12:44:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗軍隊稱出動大批無人機打擊美軍駐科威特營地】伊朗軍隊當地時間22日釋出宣告稱，為回應敵人再次侵犯伊朗部分地區，於數小時前出動大批自殺式無人機，對美軍位於科威特西部多哈營地內的彈藥庫以及陸軍指揮中心的後勤裝備實施打擊。宣告表示，多哈營地是美軍在科威特西部最核心、最重要的軍事基地之一，也是美軍在西亞地區的一處後勤保障中心。大量美軍陸軍裝備和士兵，以及海軍、空軍人員駐紮於此。"
-    },
-    {
-      "id": "5001473",
-      "time": "2026-07-22 12:43:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【11家國央企光伏元件集採開標79.7GW，TCL中環暫列入圍規模首位】2026-2027年光伏元件集採專案招標陸續完成，根據各方公告及招採網資料顯示，截至2026年7月15日，中煤集團、中國電建、華電集團、京能集團、中國石油、華能集團、中廣核、大唐集團、國電電力、廣東能源集團和浙江交通集團等11家國央企已完成元件招標，共設定33個標段，開標規模合計79.7GW。另有申能、華潤合計6.4GW元件專案仍在招標中。"
-    },
-    {
-      "id": "5001472",
-      "time": "2026-07-22 12:43:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普宣佈兩年後對仿製藥徵收100%關稅 對中國醫藥出口影響如何】有從事中國醫藥國際合作研究人士對記者表示，現階段中國醫藥對美出口仍以原料藥為主，創新藥則主要以服務貿易方式為主，仿製藥出口相對份額靠後。“應該看到，全球市場特別是美國醫藥市場對華原料藥依賴難以短期替代，否則會導致藥價暴漲和短缺。但對於對美出口的仿製藥產品亦帶來一定壓力，雖然短期可控，但中長期承壓。” 該人士亦認為，美國加稅政策的實施存在時間差以及變數，從時間差看，政策預設2026年8月1日起兩年期滿後才計劃徵收，給企業下一步應對留下緩衝時間。從變數看，政策可能隨美國內政局搖擺。（第一財經）"
     }
   ]
 }
