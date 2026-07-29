@@ -1,7 +1,230 @@
 {
   "date": "2026-07-29",
-  "count": 845,
+  "count": 870,
   "items": [
+    {
+      "id": "5013377",
+      "time": "2026-07-29 09:45:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【水利概念震盪反彈，天融信、保利聯合漲停】水利概念震盪反彈，天融信、保利聯合漲停，中電鑫龍、神馳機電、渤海股份、中裕科技、設研院、國統股份、龍泉股份等跟漲。"
+    },
+    {
+      "id": "mkt:019fab8c-bdfa-7aab-8eda-30cb0bf4fb2f",
+      "time": "2026-07-29 09:45:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02525.HK",
+        "Impact bullish",
+        "09927.HK",
+        "00800.HK"
+      ],
+      "text": "Autonomous-driving-related Hong Kong stocks strengthened in early trade: Hesai-W (02525.HK) rose over 10%; SERES (09927.HK) and China's WeRide-W (00800.HK) gained over 6%; Youjia Innovation (02431.HK) rose over 4%; Suteng Innovation (02498.HK) advanced 3.8%."
+    },
+    {
+      "id": "te:economy:570553",
+      "time": "2026-07-29 09:45:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Quarterly Inflation Rate YoY",
+        "Importance 0"
+      ],
+      "text": "Australia Inflation Rate Surprisingly Slows in Q2 — The annual inflation rate in Australia eased to 3.9% in Q2 2026, defying market expectations that it would hold at an over two-year high of 4.1% in Q1. Still, it remained well above the central bank's 2-3% target. On a quarterly basis, consumer prices rose 0.6%, slowing from a 1.4% increase in the previous period and coming slightly below expectations for a 0.7% gain."
+    },
+    {
+      "id": "te:markets:570552",
+      "time": "2026-07-29 09:45:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Hit Over 3-Month Low — The benchmark KOSPI fell more than 2% to around 5,895 on Wednesday, extending its decline to the lowest level in over three months, as investors remained cautious over AI infrastructure spending, elevated semiconductor valuations, and intensifying competition from China's chip industry. Sentiment also remained subdued after SK hynix reported record second-quarter revenue and operating profit but missed analyst expectations, reinforcing concerns that AI-driven growth may be moderating despite continued strength in high-bandwidth memory demand. SK hynix plunged nearly 5%, alongside losses in SK Square (-3.6%), Samsung Electro-Mechanics (-3.8%), HD Hyundai Heavy Industries (-1.0%), and Hanwha Aerospace (-1.5%). Meanwhile, lower oil prices following easing Middle East supply concerns and selective bargain hunting after the previous session's 10.8% plunge provided only limited support to the broader market."
+    },
+    {
+      "id": "5013376",
+      "time": "2026-07-29 09:45:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌1%，現報6873.00點。"
+    },
+    {
+      "id": "5013375",
+      "time": "2026-07-29 09:45:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.12%，成分股中，盛科通訊跌5.86%，滬矽產業跌5.38%，華虹宏力跌4.95%，中微公司跌4.81%。"
+    },
+    {
+      "id": "mkt:019fab8c-3bef-7aab-8eda-289afef75650",
+      "time": "2026-07-29 09:45:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "【Where to park spare cash? Money-market yield snapshot】Tencent’s Licaitong (flexible) 7-day annualized yield ranged 0.7050%–1.3900%; WeChat Wallet’s Lingqiantong ranged 0.9020%–1.0110%; Alipay Yu’e Bao ranged 0.9040%–1.0090%."
+    },
+    {
+      "id": "5013374",
+      "time": "2026-07-29 09:45:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【兆易創新觸及跌停】兆易創新觸及跌停，成交額107.12億元，封單2371手。"
+    },
+    {
+      "id": "5013373",
+      "time": "2026-07-29 09:45:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股交易情緒板塊短線走低】國新能源、宿遷聯盛、百合花、立新能源觸及跌停，恩威醫藥、長青科技、鴻合科技跟跌。"
+    },
+    {
+      "id": "5013372",
+      "time": "2026-07-29 09:44:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數跌2.5%。"
+    },
+    {
+      "id": "mkt:019fab8b-596c-7aab-8eda-2490b578ce74",
+      "time": "2026-07-29 09:44:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SoftBank Group said it will issue 100 bln yen of five-year unsecured bonds."
+    },
+    {
+      "id": "5013371",
+      "time": "2026-07-29 09:43:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【崖州灣國家實驗室呼和浩特糧油作物創新平臺簽約揭牌】據呼和浩特釋出，7月28日，崖州灣國家實驗室呼和浩特糧油作物創新平臺簽約揭牌儀式在呼和浩特市舉行。此次崖州灣國家實驗室與呼和浩特市科技局、市農牧局、賽罕區政府及內蒙古種星種業有限公司五方合作共建呼和浩特糧油作物創新平臺，聚焦玉米等糧油作物，重點開展種質資源創新、現代高效育種技術體系建設、種植推廣體系構建等。"
+    },
+    {
+      "id": "5013370",
+      "time": "2026-07-29 09:43:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "澤連斯基表示，他週二還會見了洛克希德馬丁公司的代表。該公司負責生產“愛國者”系統所使用的導彈。"
+    },
+    {
+      "id": "5013369",
+      "time": "2026-07-29 09:43:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡：如果遭到攻擊將強力回擊。"
+    },
+    {
+      "id": "5013368",
+      "time": "2026-07-29 09:43:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.41%，成分股中，盛科通訊跌5.75%，滬矽產業跌4.47%，海光資訊跌3.89%，中科飛測跌3.52%。"
+    },
+    {
+      "id": "mkt:019fab8a-7f68-7aab-8eda-1cc31198f887",
+      "time": "2026-07-29 09:43:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI slid to 5,900, its lowest level since April, down 2.1% on the day. SK Hynix fell more than 5%; Samsung Electronics dropped nearly 1%."
+    },
+    {
+      "id": "5013367",
+      "time": "2026-07-29 09:43:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數跌幅擴大至2%，現報5897.25點。個股方面，SK海力士跌超5%。"
+    },
+    {
+      "id": "5013366",
+      "time": "2026-07-29 09:42:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲3%，現報4956.00元。"
+    },
+    {
+      "id": "5013365",
+      "time": "2026-07-29 09:42:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡：對與伊朗的協議持懷疑態度。"
+    },
+    {
+      "id": "5013364",
+      "time": "2026-07-29 09:42:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【商業零售概念持續走強，國光連鎖漲停】商業零售概念持續走強，國光連鎖漲停，茂業商業、東百集團、居然智家、新華百貨、廣百股份、上海九百等跟漲。"
+    },
+    {
+      "id": "mkt:019fab89-7bf6-7aab-8eda-1398dfa9c5b1",
+      "time": "2026-07-29 09:42:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SoftBank Group said it will issue 80 bln yen of unsecured 3-year bonds."
+    },
+    {
+      "id": "5013363",
+      "time": "2026-07-29 09:42:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【休閒食品概念震盪反彈，良品鋪子漲停】休閒食品概念震盪反彈，良品鋪子漲停，一致魔芋、桂發祥、南僑食品、歐福蛋業、黑芝麻、三隻松鼠等跟漲。"
+    },
+    {
+      "id": "5013362",
+      "time": "2026-07-29 09:42:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達10億港元。"
+    },
+    {
+      "id": "5013361",
+      "time": "2026-07-29 09:42:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股汽車股走強 理想汽車漲超8%】截至發稿，理想汽車-W(02015.HK)漲8.09%，廣汽集團(02238.HK)漲5%，小鵬集團-W(09868.HK)漲3.51%。"
+    },
     {
       "id": "mkt:019fab89-375f-7aab-8eda-0e0c387b58bf",
       "time": "2026-07-29 09:42:04",
@@ -14,6 +237,15 @@
         "09866.HK"
       ],
       "text": "Hong Kong auto stocks jumped at the open: Li Auto (02015.HK) rose more than 8%; Leapmotor (09863.HK) and NIO (09866.HK) gained over 5%; Xiaomi Group (01810.HK), Chery Automobile (09973.HK) and GAC Group (02238.HK) each advanced more than 4.5%."
+    },
+    {
+      "id": "5013360",
+      "time": "2026-07-29 09:42:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【端側AI概念異動拉昇 博通整合、國光電器雙雙漲停】早盤端側AI概念異動拉昇，博通整合、國光電器直線漲停，星宸科技漲超10%，瑞芯微、壹連科技、豪聲電子、歌爾股份、捷榮技術等跟漲。"
     },
     {
       "id": "5013359",
