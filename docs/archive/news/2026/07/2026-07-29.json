@@ -1,7 +1,51 @@
 {
   "date": "2026-07-29",
-  "count": 1346,
+  "count": 1351,
   "items": [
+    {
+      "id": "5013696",
+      "time": "2026-07-29 13:15:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "電子特氣概念區域性回暖，正帆科技漲超10%，中船特氣、杭氧股份、誠志股份、九豐能源、昊華科技等衝高。"
+    },
+    {
+      "id": "te:markets:570627",
+      "time": "2026-07-29 13:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.56% — Top currency gainers are South Korean Won (0.56%), Norwegian Krone (0.26%), Japanese Yen (0.26%), Euro (0.13%) and British Pound (0.08%). Biggest losers are Australian Dollar (-0.29%) and Dollar Index (-0.15%)."
+    },
+    {
+      "id": "5013695",
+      "time": "2026-07-29 13:14:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲1.01%，現報13645.681點；上證指數漲0.39%，現報3828.092點；創業板指漲1.50%，現報3377.022點。"
+    },
+    {
+      "id": "5013694",
+      "time": "2026-07-29 13:14:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "本田汽車：決定將熊本摩托車工廠的停產時間延長至週五。"
+    },
+    {
+      "id": "5013693",
+      "time": "2026-07-29 13:13:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "本田將熊本工廠停工期延長至週五。"
+    },
     {
       "id": "5013692",
       "time": "2026-07-29 13:12:53",
