@@ -1,7 +1,186 @@
 {
-  "updated": "2026-07-29 09:58:19",
-  "count": 17600,
+  "updated": "2026-07-29 10:02:11",
+  "count": 17605,
   "items": [
+    {
+      "id": "mkt:019fab9a-f673-7aab-8eda-c73f8a79a761",
+      "time": "2026-07-29 10:01:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "South Korea's KOSPI fell more than 5% intraday, slipping below 5,700 points for the first time since April 7. SK Hynix dropped over 9%."
+    },
+    {
+      "id": "5013419",
+      "time": "2026-07-29 10:01:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價下跌10%。"
+    },
+    {
+      "id": "5013418",
+      "time": "2026-07-29 10:01:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【摩爾執行緒完成Kimi K3適配】摩爾執行緒宣佈公司基於AI訓推一體智算卡MTT S5000及MUSA軟體棧，7月28日完成Kimi K3的適配。"
+    },
+    {
+      "id": "5013417",
+      "time": "2026-07-29 10:00:55",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【加強冷凍飲品生產環節監督管理 市場監管總局公開徵求意見】為規範冷凍飲品生產許可，加強對冷凍飲品生產環節的監督管理，7月29日，市場監管總局就《冷凍飲品生產許可審查細則（徵求意見稿）》向社會公開徵求意見，為期30天。該徵求意見稿主要修訂了以下內容。 完善生產許可範圍。為滿足冷凍飲品行業日益發展的需求，在梳理冷凍飲品六種常見產品型別外，新增其他冷凍飲品型別，更加貼合行業高質量發展要求。明確不得以分裝方式生產冷凍飲品。 細化設施裝置要求。細化生產場所設定與劃分、裝置設施配套、裝置佈局和工藝流程等內容，強調各區域涵蓋範圍及分隔要求，明確企業應建立冷凍飲品專用冷庫，並在實時監控裝置的基礎上配備溫度超限報警裝置。 嚴格全過程汙染防控。新增生產各階段溫溼度監控要求、微生物監控要求、冷庫衛生管理要求以及產品冷鏈物流衛生要求，強化企業汙染防控能力。 明確食品安全制度要求。要求企業建立並落實採購管理與進貨查驗、生產過程管理、出廠檢驗、運輸交付、追溯、自查及召回等全鏈條食品安全管理制度，同時要求配套倉儲、清潔消毒相應制度。細化各項制度管理要求，既確保企業執行到位，也為生產許可審查提供明確參考依據。"
+    },
+    {
+      "id": "5013416",
+      "time": "2026-07-29 10:00:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1.1%至254.23點。"
+    },
+    {
+      "id": "mkt:019fab9a-1259-7aab-8eda-bb311cbafefd",
+      "time": "2026-07-29 10:00:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Japan minimum wages set to rise steadily, supporting Bank of Japan rate-hike path】An advisory panel to Japan’s Ministry of Health, Labour and Welfare recommended on Tuesday raising the national average minimum hourly wage by 4.9% to ¥1,176 (about $7.18) for the current fiscal year. The ¥55-an-hour increase is the second-largest on record, though below last year’s 6.3% rise, would cover more than 50 million workers and is expected to be phased in from October after prefectures set specific rates. The wage gain supports the Bank of Japan’s effort to create a wage-driven demand–inflation virtuous cycle, strengthening the case for further tightening as a weaker yen raises import energy and food costs and squeezes household spending."
+    },
+    {
+      "id": "5013415",
+      "time": "2026-07-29 10:00:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌5.1％，SK海力士跌近10%，三星電子跌超5%。"
+    },
+    {
+      "id": "5013414",
+      "time": "2026-07-29 10:00:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達30億港元。"
+    },
+    {
+      "id": "5013413",
+      "time": "2026-07-29 10:00:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數下跌3%至40,354.54點。"
+    },
+    {
+      "id": "5013412",
+      "time": "2026-07-29 10:00:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【免稅概念持續走強，東百集團漲停】免稅概念持續走強，東百集團漲停，居然智家、招商蛇口、廣百股份、嶺南控股、歐亞集團、友好集團等跟漲。"
+    },
+    {
+      "id": "5013411",
+      "time": "2026-07-29 10:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【腦機介面概念震盪調整 三博腦科、倍益康雙雙跌超10%】腦機介面概念盤中震盪調整，三博腦科、倍益康雙雙跌超10%，愛朋醫療、翔宇醫療、海南海藥、創新醫療、南京熊貓等跟跌。"
+    },
+    {
+      "id": "5013410",
+      "time": "2026-07-29 09:59:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【油氣概念表現活躍 首華燃氣漲超13%】油氣概念表現活躍，首華燃氣漲超13%，新天然氣、通源石油、潛能恆信、科力股份、藍焰控股跟漲。"
+    },
+    {
+      "id": "5013409",
+      "time": "2026-07-29 09:59:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化賣盤。"
+    },
+    {
+      "id": "5013408",
+      "time": "2026-07-29 09:59:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "申鉉松：韓國央行將考慮通貨膨脹壓力、經濟和金融穩定性。"
+    },
+    {
+      "id": "5013407",
+      "time": "2026-07-29 09:59:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "申鉉松：韓國央行將在評估通脹和經濟狀況後決定政策。"
+    },
+    {
+      "id": "5013406",
+      "time": "2026-07-29 09:58:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊29日釋出多份公告說，伊朗伊斯蘭革命衛隊空軍當天用導彈打擊了位於約旦境內的一處美國空軍基地和指揮中心。（新華社）"
+    },
+    {
+      "id": "5013405",
+      "time": "2026-07-29 09:58:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行：今起陸續開展總量超2萬億隔夜逆回購操作】今天起（29日）到7月31日，中國人民銀行將每天開展6000億元隔夜逆回購操作、8月3日將開展3000億元隔夜逆回購操作。隔夜逆回購是央行進行公開市場操作的重要工具，主要作用是向市場投放短期流動性。具體操作上，隔夜逆回購首先由央行向大型銀行等一級交易商買入有價證券，相當於央行向市場“借出錢”。第二天，交易商按約定價格再將證券從央行贖回，資金從市場流回央行，從而完成短期流動性調控。（央視新聞）"
+    },
+    {
+      "id": "5013404",
+      "time": "2026-07-29 09:58:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機器視覺板塊震盪走弱，獅頭股份跌停】機器視覺板塊震盪走弱，獅頭股份跌停，奧普光電、波長光電、矩子科技、盛視科技、中潤光學、奧普特等跟跌。"
+    },
+    {
+      "id": "5013403",
+      "time": "2026-07-29 09:58:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富達在中國內地推出首隻互認基金】7月29日，富達基金管理（中國）有限公司宣佈，旗下首隻互認基金——“富達環球投資基金—香港債券基金”將於2026年8月10日正式開售。在投資組合構建方面，該基金重點投資於政府及政府相關機構、準主權發行人，以及大型高等級投資級企業債券，行業主要覆蓋跨國銀行、大型公用事業等優質發行主體。"
+    },
+    {
+      "id": "5013402",
+      "time": "2026-07-29 09:57:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行申鉉松：晶片行業將助力韓國經濟實現穩定增長。"
+    },
     {
       "id": "mkt:019fab97-798b-7aab-8eda-b25f1e063550",
       "time": "2026-07-29 09:57:38",
@@ -161350,140 +161529,6 @@
         "其他"
       ],
       "text": "斯里蘭卡央行：核心通脹預計也將上升，並保持在總體通脹目標附近。"
-    },
-    {
-      "id": "mkt:019f878f-12b5-7aab-8e37-90a510a87c08",
-      "time": "2026-07-22 10:02:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sri Lanka's central bank set its overnight policy rate at 8.75%."
-    },
-    {
-      "id": "5001236",
-      "time": "2026-07-22 10:01:58",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "斯里蘭卡央行：預計短期內總體通脹率將保持在5%的目標之上。"
-    },
-    {
-      "id": "mkt:019f878e-c41c-7aab-8e37-8e32fcfe697b",
-      "time": "2026-07-22 10:01:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SZSE Component",
-        "Impact bullish",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "A-share commercial space sector rallied after media reported the Yinli-1 carrier rocket is expected to launch at sea on July 22. Aerospace Development jumped more than 6%; Wantong Development, Chengchang Technology, Xingsen Technology, China Satellite, Fushida, Guangku Technology and Huati Technology also rose."
-    },
-    {
-      "id": "5001235",
-      "time": "2026-07-22 10:01:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流入超100億。"
-    },
-    {
-      "id": "te:markets:568680",
-      "time": "2026-07-22 10:01:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Mixed as Diplomacy Hopes Fade — The Shanghai Composite fell 0.6% to 3,840 on Wednesday, while the Shenzhen Component rose 0.4% to 14,323, reflecting a mixed market mood as hopes for renewed US-Iran diplomatic engagement faded. While US forces carried out an 11th consecutive day of strikes against Iran to curb threats to shipping through the Strait of Hormuz, President Donald Trump said Tehran desperately wants to meet but that Washington had no interest in talks, a claim Iran swiftly rejected. Adding to the cautious mood, Chinese technology stocks resumed their decline after a strong rebound in the previous session, despite fresh measures by authorities to stabilize the sector. These included record inflows into the ChinaAMC STAR 50 ETF and increased equity investments by China Life, PICC, and Ping An. Among the biggest drags were Cambricon Technologies (-2.2%), Zhongji Innolight (-2.3%), and Eoptolink Technology (-2.1%). In contrast, energy stocks outperformed, with PetroChina gaining 1.0% and CNOOC climbing 2.4%."
-    },
-    {
-      "id": "5001234",
-      "time": "2026-07-22 10:01:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯里蘭卡隔夜政策利率維持在8.75%不變。"
-    },
-    {
-      "id": "5001233",
-      "time": "2026-07-22 10:01:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海南碩豐宣佈7000萬元自購旗下私募基金】7月22日，海南碩豐釋出公告稱，基於對中國資本市場長期穩健發展的看好，以及對公司主動管理投研實力的信心，海南碩豐私募基金管理合夥企業（有限合夥）基金經理於近期使用自有資金共計人民幣7000萬元申購公司旗下私募證券投資基金。"
-    },
-    {
-      "id": "mkt:019f878e-252e-7aab-8e37-825140b363e8",
-      "time": "2026-07-22 10:01:07",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China's Ministry of Human Resources and Social Security said employment was broadly stable in 1H, with 6.95 mln new urban jobs nationwide."
-    },
-    {
-      "id": "em:jjsj_zgsj:202607223816784968",
-      "time": "2026-07-22 10:00:57",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【人力資源社會保障部：今年上半年就業形勢保持總體平穩】今天（22日）上午，人力資源社會保障部舉行新聞釋出會。今年上半年，全國城鎮新增就業695萬人，同比持平，城鎮調查失業率平均值為5.2%，就業形勢保持總體平穩。1-6月，發放失業保險穩崗返還資金36億元、一次性擴崗補助9億元、技能提升補貼12億元。"
-    },
-    {
-      "id": "5001232",
-      "time": "2026-07-22 10:00:51",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華福證券任志強：中長期向好核心邏輯並未發生改變】華福證券總裁助理兼研究所所長任志強接受證券時報記者採訪時表示，近期市場出現階段性震盪調整主要由海外擾動、短期資金情緒等多重臨時性因素疊加驅動，國內經濟穩步復甦、資本市場改革持續深化、市場估值經過調整迴歸合理區間、中長期資金持續佈局的中長期向好核心邏輯並未發生改變。任志強認為，產業創新邏輯持續兌現，為市場提供堅實盈利支撐，短期波動充分釋放市場階段性風險，疊加堅實基本面、持續落地的資本市場改革紅利等，市場信心有望持續修復，A股長期穩健發展、價值投資主導的執行大趨勢不變。"
-    },
-    {
-      "id": "5001231",
-      "time": "2026-07-22 10:00:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【人力資源社會保障部：今年上半年就業形勢保持總體平穩】今天（22日）上午，人力資源社會保障部舉行新聞釋出會。今年上半年，全國城鎮新增就業695萬人，同比持平，城鎮調查失業率平均值為5.2%，就業形勢保持總體平穩。1-6月，發放失業保險穩崗返還資金36億元、一次性擴崗補助9億元、技能提升補貼12億元。"
-    },
-    {
-      "id": "5001230",
-      "time": "2026-07-22 10:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲2%，現報60.30美元/盎司。"
-    },
-    {
-      "id": "5001229",
-      "time": "2026-07-22 09:59:59",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【摩根士丹利：儲存晶片價格在未來一個季度或漲25%】華爾街投行摩根士丹利的最新研報指出，AI資料中心儲存晶片供應短缺的情況仍在加劇，預計該行業的“超級週期”將延續到2028年，而儲存晶片的價格在未來一個季度可能繼續上漲25%。該判斷引燃了市場對半導體板塊的做多情緒，尤其是儲存晶片——週二，閃迪以超過14%的漲幅領漲標普500指數，西部資料、美光科技、希捷科技等儲存藍籌股都至少上漲11%。（央視財經）"
-    },
-    {
-      "id": "5001228",
-      "time": "2026-07-22 09:59:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普解除美國直飛黎巴嫩航班40餘年禁令】美國總統特朗普21日在社交媒體發文稱，他已指示美政府允許所有美國航空公司直飛黎巴嫩，從而解除已實施40餘年的禁令。特朗普是當天在白宮同到訪的黎巴嫩總統奧恩舉行會晤後作出上述表態的。這是奧恩2025年1月就任黎總統以來首次與美國總統舉行正式會晤，也是2009年以來黎巴嫩國家元首首次訪問白宮。據美國媒體報道，目前尚不清楚美國主要航空公司是否有計劃開通飛往貝魯特的航班。（新華社）"
-    },
-    {
-      "id": "5001227",
-      "time": "2026-07-22 09:58:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方呼籲敘方推動包容性政治過渡 堅決反恐】當地時間21日，聯合國安理會舉行敘利亞局勢公開會。中國常駐聯合國代表團臨時代辦孫磊在發言中指出，敘利亞早日全面恢復和平穩定，有助於推動中東地區局勢整體降溫，符合地區各國共同利益，也順應國際社會普遍期待。為恢復敘利亞和平穩定，敘方應以包容性政治過渡為基石，以打擊一切形式的恐怖主義為前提，以聚焦發展為治本之策。此外，戈蘭高地是國際社會公認的被佔敘利亞領土，以色列應立即停止在敘境內的一切軍事行動，儘早從敘利亞領土撤出。平民和民用設施不能成為襲擊目標。中方願同國際社會一道，為幫助敘利亞早日實現安全、穩定、發展發揮建設性作用。（央視新聞）"
     }
   ]
 }
