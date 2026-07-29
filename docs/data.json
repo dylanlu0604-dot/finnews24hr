@@ -1,7 +1,159 @@
 {
-  "updated": "2026-07-29 09:08:34",
-  "count": 17556,
+  "updated": "2026-07-29 09:12:28",
+  "count": 17565,
   "items": [
+    {
+      "id": "mkt:019fab6d-a3ba-7aab-8ed8-c47471759d62",
+      "time": "2026-07-29 09:11:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "SK Hynix shares fell 2.9%."
+    },
+    {
+      "id": "5013296",
+      "time": "2026-07-29 09:11:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價下跌2.9%。"
+    },
+    {
+      "id": "mkt:019fab6d-43a6-7aab-8ed8-bbe93eac7066",
+      "time": "2026-07-29 09:11:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "MS.O",
+        "Impact bullish"
+      ],
+      "text": "Wall Street Journal reports Morgan Stanley said it has no evidence any loans were improperly issued and is not aware of any regulatory matters, inquiries or investigations."
+    },
+    {
+      "id": "mkt:019fab6c-7eb5-7aab-8ed8-b64dc9f9f7ad",
+      "time": "2026-07-29 09:10:41",
+      "tags": [
+        "MKT News",
+        "MS.O",
+        "Impact bearish"
+      ],
+      "text": "The Wall Street Journal, citing sources, reported that Morgan Stanley clients were granted owner-occupied mortgages despite multiple warning signs."
+    },
+    {
+      "id": "5013295",
+      "time": "2026-07-29 09:10:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普呼籲參議院在休會前透過預算決議。"
+    },
+    {
+      "id": "5013294",
+      "time": "2026-07-29 09:10:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌1%至41,173.67點。"
+    },
+    {
+      "id": "mkt:019fab6c-2cc1-7aab-8ed8-ae5a98720a27",
+      "time": "2026-07-29 09:10:20",
+      "tags": [
+        "MKT News",
+        "MS.N",
+        "Impact bearish"
+      ],
+      "text": "The Wall Street Journal, citing people familiar with the matter, reports a former Morgan Stanley employee filed a whistleblower complaint alleging they were pressured to approve mortgages for wealthy clients (MS.N)."
+    },
+    {
+      "id": "5013293",
+      "time": "2026-07-29 09:10:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年居民消費物流保持韌性增長 線上消費是核心動力】中國物流與採購聯合會今天（29日）公佈今年上半年物流執行資料。從民生消費物流需求來看，上半年，單位與居民物品物流總額保持韌性增長，呈現線上業態支撐、消費升級引領、下沉市場擴容的積極特徵。上半年，單位與居民物品物流需求同比增長3.8%。其中，線上消費是核心增長動力，上半年全國實物商品網上零售額同比增長4.8%，增速高於同期商品零售額3.7個百分點，電商快遞業務同步擴容，新業態、新模式持續為民生物流注入增長動能。消費升級推動需求結構最佳化，上半年綠色智慧、品質消費類物流需求穩步釋放，限額以上單位通訊器材類商品零售額同比增長14.4%，高能效等級家電零售額增速超30%，化妝品、潮流玩具等品類保持較快增勢，帶動末端物流提質升級。另外，下沉市場拓展增長空間，上半年鄉村消費品零售額同比增長2.5%，增速快於城鎮1.3個百分點；縣鄉物流配送體系不斷完善，持續釋放民生消費物流增量。（央視新聞）"
+    },
+    {
+      "id": "5013292",
+      "time": "2026-07-29 09:09:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌1.5個基點，至2.760%。"
+    },
+    {
+      "id": "5013291",
+      "time": "2026-07-29 09:09:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀諾依蘇帕格魯肽α青少年肥胖Ib期臨床完成首例受試者入組】7月29日，銀諾醫藥宣佈，公司自主研發的人源超長效GLP-1受體激動劑依蘇帕格魯肽α用於青少年肥胖適應症的Ib期臨床試驗在中國完成首例受試者入組。目前，公司正在澳大利亞開展肥胖適應症Ⅱ期臨床試驗，探索每月一次（Q4W）給藥方案。目前，我國尚無用於兒童、青少年的減重藥物獲批上市。"
+    },
+    {
+      "id": "5013290",
+      "time": "2026-07-29 09:09:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【王文濤部長與英國新任商貿大臣雷諾茲舉行視訊通話】7月28日，商務部部長王文濤與英國新任商貿大臣雷諾茲舉行視訊通話，就中英經貿關係交換意見。王文濤祝賀雷諾茲履新，表示願充分發揮中英經貿聯委會機制作用，促進中英經貿關係健康發展。中方願與英方做大合作蛋糕，加強在服務貿易、綠色轉型、可再生能源等領域合作，推動雙邊貿易向上向前平衡，維護以世貿組織為核心的多邊貿易體制。中方高度關注英鋼國有化問題，敦促英方遵守相關國際規則，切實履行中英投資保護協定有關義務，審慎穩妥解決此事，為在英中資企業營造良好營商環境。（商務部）"
+    },
+    {
+      "id": "5013289",
+      "time": "2026-07-29 09:09:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：在Hugging Face安全事件期間訪問了第三方系統的OpenAI Agent，觸及了與CyberGym相關的基礎設施；而CyberGym正是該Agent當時被指定解答的ExploitGym基準測試背後的專案。"
+    },
+    {
+      "id": "mkt:019fab6a-dcec-7aab-8ed8-a16100117b16",
+      "time": "2026-07-29 09:08:54",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bearish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Earthquake in Japan's Kumamoto prefecture kills 13】Japan prime minister TAKAICHI said at the prime minister's office on July 29 that as of 08:30 local time the Kumamoto prefecture earthquake had killed 13. Earlier, Kumamoto prefectural government reported 3 dead, 5 in cardiopulmonary arrest, 7 missing and 31 injured. cenc measured the quake as magnitude 6.8 on July 28 at 16:27 local time (15:27 Beijing), depth 10 km, struck Kyushu island."
+    },
+    {
+      "id": "mkt:019fab6a-be6b-7aab-8ed8-9b8fee6dcfb1",
+      "time": "2026-07-29 09:08:47",
+      "tags": [
+        "MKT News",
+        "SKHY.O"
+      ],
+      "text": "SK Hynix (SKHY.O) said it will brief the market by year-end on the form and timing of additional shareholder returns."
+    },
+    {
+      "id": "5013288",
+      "time": "2026-07-29 09:08:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：將在今年內就額外股東回報的形式與時機與市場進行溝通。"
+    },
+    {
+      "id": "5013287",
+      "time": "2026-07-29 09:08:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：正在評估各種股東回報方案。"
+    },
+    {
+      "id": "5013286",
+      "time": "2026-07-29 09:08:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥小麥期貨上漲1%，連續第二個交易日走高，因黑海地區供應憂慮重燃。"
+    },
     {
       "id": "te:markets:570545",
       "time": "2026-07-29 09:07:48",
@@ -160968,77 +161120,6 @@
         "Impact bullish"
       ],
       "text": "Wistron Group said it will also produce NVIDIA (NVDA.O) Vera Rubin chips at its Texas plant."
-    },
-    {
-      "id": "5001142",
-      "time": "2026-07-22 09:11:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中共中央對外聯絡部副部長馬輝出席第二屆中意經貿合作交流會】7月21日下午，第二屆中意經貿合作交流會暨中國（浙江）—義大利經貿合作交流會在浙江杭州舉行。中共中央對外聯絡部副部長馬輝、浙江省副省長鬍偉、義大利議會“中國之友”協會主席佩魯弗、義大利駐上海總領事安緹雅等出席並致辭。本次合作交流會由中國經濟聯絡中心、浙江省外辦、浙江省商務廳、中國義大利商會共同舉辦，來自中國地方政府、企業界代表，以及佩魯弗率領的義大利多黨政治家代表團、工商界人士、義大利駐華使領館代表等80餘人參加。馬輝表示，在兩國領導人戰略引領下，中意加強全面戰略伙伴關係三年行動計劃穩步推進。今年是中國“十五五”規劃開局之年。當前，中國正大力推進高質量發展和高水平對外開放，中意合作潛力巨大，雙方應共同維護全球產業鏈供應鏈穩定暢通，依託雙邊合作機制和平臺常態化開展產業對接，深挖新能源、高階裝備、綠色低碳、人文科教等領域合作潛力。中聯部將進一步提升“政黨+務實合作”“政黨+地方”平臺效能，為兩國企業、地方交流合作提供更多支援。"
-    },
-    {
-      "id": "mkt:019f8760-5f36-7aab-8e35-d3f18ff91585",
-      "time": "2026-07-22 09:11:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Spot palladium rose 2.00% intraday to $1,302.34/oz."
-    },
-    {
-      "id": "5001141",
-      "time": "2026-07-22 09:10:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "30年期日本國債收益率上漲1.5個基點，至3.9%。"
-    },
-    {
-      "id": "mkt:019f875f-c04c-7aab-8e35-cf103ff61672",
-      "time": "2026-07-22 09:10:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say the Trump administration will submit to Congress in the coming days a nuclear cooperation agreement with Saudi Arabia that lacks relevant safeguards."
-    },
-    {
-      "id": "5001140",
-      "time": "2026-07-22 09:10:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【正泰電器成立智算科技公司 含多項AI業務】企查查APP顯示，近日，正泰智算科技（浙江）有限公司成立，經營範圍包含人工智慧行業應用系統整合服務；人工智慧基礎軟體開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，該公司由正泰電器(601877)全資持股。"
-    },
-    {
-      "id": "mkt:019f875f-4810-7aab-8e35-c4fcf54540f3",
-      "time": "2026-07-22 09:09:56",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "SSE Composite"
-      ],
-      "text": "【Huaxi Securities' Wei Tao: current pullback a healthy technical correction; rebound conditions maturing】Huaxi Securities deputy GM and head of research Wei Tao said on July 22 the recent pullback is a healthy technical repair after rapid gains. Since April 2026 the tech complex led strong rallies and some sectors saw sharp valuation expansion, creating an objective need for re‑rating and position transfer. Recent adjustments have digested prior profit taking and released some short‑term irrational selling. Rebound conditions are gradually maturing: broad indices’ valuations have fallen to relative year lows, improving margins of safety; leverage risk has been reduced as margin‑financing balances have declined materially; mainstream broad ETFs have attracted cash at low levels, signalling greater long‑term fund acceptance of current prices. Falling crowding and a more balanced trading structure have opened technical space for a rebound."
-    },
-    {
-      "id": "5001139",
-      "time": "2026-07-22 09:09:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【華西證券魏濤：本輪迴調屬良性技術修復，反彈條件正逐步成熟】華西證券副總經理、研究所所長魏濤7月22日表示，從市場執行規律來看，本輪迴調實質上是對前期過快上漲的良性技術性修復。自2026年4月以來，科技主線持續走強，部分賽道估值快速抬升，市場客觀上存在估值迴歸與籌碼交換的內在需求。經過近期的連續調整，前期累積的獲利盤已得到一定程度的消化，短期非理性拋壓獲得一部分釋放。魏濤表示，當前市場反彈的條件正在逐步成熟。從估值層面看，各大寬基指數已回落至年內相對低位，安全邊際顯著提升；從資金面看，市場槓桿風險得到有效出清，兩融餘額顯著下降，而主流寬基ETF在低位持續獲得資金承接，顯示中長期資金對當前點位的認可度正在提升。隨著擁擠度的回落和交易結構的均衡，技術層面已經開啟了反彈修復的空間。"
-    },
-    {
-      "id": "mkt:019f875e-8a23-7aab-8e35-bab80a448b82",
-      "time": "2026-07-22 09:09:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot palladium rose above $1,300/oz, up 1.84% on the day."
     }
   ]
 }
