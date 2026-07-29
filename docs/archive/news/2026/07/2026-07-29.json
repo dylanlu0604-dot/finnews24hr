@@ -1,7 +1,64 @@
 {
   "date": "2026-07-29",
-  "count": 611,
+  "count": 617,
   "items": [
+    {
+      "id": "5013217",
+      "time": "2026-07-29 08:27:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：與客戶簽訂的一般長期協議有效期約為5年。"
+    },
+    {
+      "id": "mkt:019fab44-f913-7aab-8ed7-a83b3c931acd",
+      "time": "2026-07-29 08:27:31",
+      "tags": [
+        "MKT News",
+        "SKHY.O"
+      ],
+      "text": "SK Hynix (SKHY.O) said long-term customer contracts typically run about five years."
+    },
+    {
+      "id": "mkt:019fab44-ead5-7aab-8ed7-a61386505076",
+      "time": "2026-07-29 08:27:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) said it expects the risk of memory oversupply to be limited amid capacity expansion."
+    },
+    {
+      "id": "te:economy:570531",
+      "time": "2026-07-29 08:26:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "Japan Food Sales Tax Set at 1% Under Takaichi’s Proposal — Japan plans to temporarily cut its sales tax on food and drinks to 1% for two years, Bloomberg reported. The government chose a low positive rate instead of zero to avoid the costly, time-consuming reprogramming of retailers’ cash registers; a 0% rate would take about a year to implement, while 1% could halve that timeline. To take effect in April 2027, the measure must still be legislated and passed by the Diet (parliament), with draft legislation expected in an extraordinary session in autumn 2026. Policymakers hope the measure will ease household burdens, though economists warned that prices may not fall as much as expected, limiting the benefit for consumers."
+    },
+    {
+      "id": "5013215",
+      "time": "2026-07-29 08:26:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：預計因產能擴張導致記憶體供應過剩的可能性有限。"
+    },
+    {
+      "id": "5013214",
+      "time": "2026-07-29 08:24:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國中央司令部：美國和沙烏地阿拉伯襲擊了伊拉克境內伊朗支援的武器設施】美國中央司令部：7 月 28 日，美國中央司令部與沙烏地阿拉伯武裝部隊在伊拉克發動精準打擊，目標為受伊朗革命衛隊指使、襲擊美軍及沙特能源設施的親伊朗武裝人員。過去 72 小時內，親伊朗武裝在伊朗革命衛隊指揮下發動逾 30 架次無人機襲擊，作為強硬回應，美沙兩國戰機對伊拉克東部多處武裝後勤據點與武器存放點實施空襲。此前針對美軍的無端襲擊均未得逞。2026 年 2 月至 4 月期間，伊拉克境內親伊朗武裝民兵針對美國公民及美方設施發動超 600 起襲擊圖謀。伊朗革命衛隊及其下屬武裝代理人必須停止此類襲擊，否則美國將採取進一步軍事行動。"
+    },
     {
       "id": "5013213",
       "time": "2026-07-29 08:23:18",
