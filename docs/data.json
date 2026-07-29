@@ -1,7 +1,76 @@
 {
-  "updated": "2026-07-29 08:48:47",
-  "count": 17555,
+  "updated": "2026-07-29 08:52:38",
+  "count": 17558,
   "items": [
+    {
+      "id": "mkt:019fab5b-3b1c-7aab-8ed8-1bb35df66c82",
+      "time": "2026-07-29 08:51:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Kyodo reported on the 29th, citing a senior Japanese government official, that deaths from the Kumamoto prefecture earthquake may have exceeded 10."
+    },
+    {
+      "id": "5013251",
+      "time": "2026-07-29 08:51:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【年內百餘家公募高管調整】公募行業高管變動頻繁。據同花順iFinD統計，截至7月26日，年內已有107家公募機構發生高管變更。僅7月以來，就有金信基金、匯泉基金等多家機構進行核心管理層換屆。有業內人士指出，這輪調整並非短期陣痛，而是行業常態的開端。未來一至兩年，中小公募高管變動頻率或將維持高位，但在趨勢方面有望從“快速洗牌”逐步過渡到“合理調整”。（21財經）"
+    },
+    {
+      "id": "mkt:019fab5a-d4c9-7aab-8ed8-16fd9cc051ef",
+      "time": "2026-07-29 08:51:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "【SK Hynix rebuts AI investment slowdown fears, says infrastructure spending to stay robust beyond next year】SK Hynix (SKHY.O) said on its Q2 earnings call that concerns AI infrastructure investment will slow amid big techs re-evaluating data center leasing and the rise of efficient AI models are misplaced. The company said those moves reflect higher utilization and faster monetization of large-scale AI infrastructure rather than cuts to AI spending, and that more efficient models are unlikely to reduce demand for infrastructure and memory because efficiency lets more users run multiple services on the same hardware, expanding adoption and raising overall utilization. In mid-to-long-term demand discussions with major customers, SK Hynix said it has confirmed sustainable AI investment and expects AI infrastructure spending to remain robust beyond next year."
+    },
+    {
+      "id": "5013250",
+      "time": "2026-07-29 08:50:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率下跌2.5個基點，至1.465%。"
+    },
+    {
+      "id": "te:markets:570538",
+      "time": "2026-07-29 08:49:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Stocks Hit March highs on Broad Gains — Australian equities jumped 109 points or 1.2% to breach the 9,000 level in early deals on Wednesday, advancing for the third straight session and reaching their highest level since early March. Stronger U.S. futures underpinned the rally after Wall Street closed mostly higher, buoyed by optimism over U.S.–Iran peace talks. Gains were broad-based across tech, healthcare, non-energy minerals, and commercial services, though momentum was tempered by caution ahead of June and Q2 inflation data due later today. Persistent price pressures remain in focus despite three RBA hikes this year, and Governor Michele Bullock reiterated the board’s readiness to tighten further if needed. Among individual stocks, Rio Tinto surged 4.5% after lifting its interim dividend on the back of a 47% profit jump. Meanwhile, Woodside Energy added 0.9% following a 28% rise in quarterly revenue. The big four banks lagged, however, with trading subdued against the broader market’s upswing."
+    },
+    {
+      "id": "mkt:019fab58-1b38-7aab-8ed8-094bbe33adfb",
+      "time": "2026-07-29 08:48:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Two-exchange margin financing balance falls 29.76 bln yuan】As of July 28, Shanghai Stock Exchange margin financing balance stood at 1,349.01 bln yuan, down 15.30 bln from the previous trading day; Shenzhen Stock Exchange was 1,289.51 bln, down 14.46 bln; combined balance 2,638.52 bln, down 29.76 bln."
+    },
     {
       "id": "5013249",
       "time": "2026-07-29 08:48:13",
@@ -161002,32 +161071,6 @@
         "市場"
       ],
       "text": "泰銖兌美元跌至33.74，為2025年4月底以來最低。"
-    },
-    {
-      "id": "5001100",
-      "time": "2026-07-22 08:52:21",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【日元對美元匯率跌至近40年來新低 】受中東局勢持續緊張、投資者拋售日元等因素影響，紐約外匯市場美東時間21日日元對美元匯率一度跌至1美元兌換163日元區間，創1986年12月以來新低。分析人士認為，近期中東局勢再度升級，市場擔憂能源運輸受阻推高國際油價。由於日本高度依賴能源進口，市場預期油價上漲將加大日本貿易逆差，投資者因此拋售日元、買入美元。同時，日本國內因素也持續壓制日元走勢。一方面，日本與歐美主要經濟體之間的利差仍然較大；另一方面，市場預期日本首相高市早苗將繼續實施所謂的“積極財政政策”，放鬆財政紀律，這進一步加大了日元貶值壓力。隨著日元匯率創下近40年來低點，市場對日本政府和央行再次干預匯市的預期正在增加。（新華社）"
-    },
-    {
-      "id": "5001099",
-      "time": "2026-07-22 08:50:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【零跑汽車成立置業公司 含AI相關業務】企查查APP顯示，近日，杭州零跑置業有限公司成立，註冊資本1億元，經營範圍包含房地產開發經營；人工智慧公共資料平臺；儲能技術服務等。企查查股權穿透顯示，該公司由零跑汽車（09863.HK）全資持股。"
-    },
-    {
-      "id": "5001098",
-      "time": "2026-07-22 08:49:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年上半年我國民航多個資料保持正增長】昨天（21日）的國新辦新聞釋出會上，中國民航局相關負責人表示，今年上半年，在外部超預期不利因素增多的情況下，民航的運輸總週轉量、旅客運輸量和貨郵運輸量保持正增長，推動“十五五”發展實現了良好開局。中國民航局副局長韓鈞：一季度開局良好，運輸總週轉量、旅客運輸量、貨郵運輸量三大指標同比分別增長了10.9%、6.5%和9.3%。二季度受國際高油價影響，全行業運營成本大幅增加，民航局積極採取措施，確保行業穩健發展。上半年，全行業完成運輸總週轉量833.7億噸公里、旅客運輸量3.8億人次、貨郵運輸量507.3萬噸，同比分別增長6.4%、1.0%和6.0%，保持正增長。"
     }
   ]
 }
