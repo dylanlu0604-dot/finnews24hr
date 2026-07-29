@@ -1,7 +1,72 @@
 {
   "date": "2026-07-29",
-  "count": 645,
+  "count": 652,
   "items": [
+    {
+      "id": "5013243",
+      "time": "2026-07-29 08:44:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【比亞迪李雲飛：投資長鑫科技5000萬元為公司行為 董事長王傳福不存在個人對外投資情形】針對比亞迪參與長鑫科技首輪融資情況，比亞迪集團品牌及公關處總經理李雲飛表示，該投資六年前（2020年12月）由比亞迪股份出資5000萬元完成，公司董事長王傳福僅持有比亞迪相關股份，未以個人名義對外投資入股其他任何企業，不存在個人對外投資情形。同時，公司所有對外投資，均統一以比亞迪股份有限公司主體名義開展，公司高管從未以個人名義參與任何對外投資專案。“近年來公司開展的各項股權投資業務，均為企業層面的市場化投資行為。”李雲飛表示。"
+    },
+    {
+      "id": "te:markets:570537",
+      "time": "2026-07-29 08:43:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Rebound on Bargain Hunting — The Nikkei 225 Index climbed 0.6% to above 62,700, while the broader Topix Index added 0.3% to 3,975 on Wednesday, recovering part of the previous session’s losses as investors scooped up shares of select beaten-down technology stocks. Leading the gains among major tech names were Kioxia Holdings (7.3%), Advantest (6.4%), and Keyence (14.2%). Other strong performers included Toyota Motor (1.9%), JX Advanced Metals (4.3%), and Capcom Co (11.9%). However, another overnight selloff in US chipmakers continued to weigh on market sentiment, as investors remained concerned about the sustainability of heavy spending on artificial intelligence. On the geopolitical front, the US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East, reigniting regional tensions and pushing oil prices higher."
+    },
+    {
+      "id": "mkt:019fab53-fd19-7aab-8ed7-f3429b3e8b68",
+      "time": "2026-07-29 08:43:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O"
+      ],
+      "text": "SK Hynix (SKHY.O) aims to begin producing HBM4E memory products by 2027."
+    },
+    {
+      "id": "5013241",
+      "time": "2026-07-29 08:43:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大連電瓷：正穩步推進沙特組裝工廠專案，後續擴產計劃將視市場情況適時推進】大連電瓷7月29日在互動平臺表示，江西萍鄉二期產線於2025年三季度投產並在年底全面達產，目前已實現產能全面釋放。此外公司當前正在穩步推進沙特組裝工廠專案，公司將結合全球市場需求統籌產能佈局，後續擴產計劃將視市場情況適時推進。"
+    },
+    {
+      "id": "5013240",
+      "time": "2026-07-29 08:42:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：正按計劃推進HBM4E的量產，預計將於2027年開始量產。"
+    },
+    {
+      "id": "5013239",
+      "time": "2026-07-29 08:42:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【英國國家經濟社會研究院：英國央行今明兩年料按兵不動】英國國家經濟社會研究院（National Institute of Economic and Social Research，簡稱NIESR）7月29日釋出最新經濟展望報告稱，儘管物價上行壓力顯著，英國央行在未來一年半內大機率不會啟動加息。（新華財經）"
+    },
+    {
+      "id": "5013238",
+      "time": "2026-07-29 08:40:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI債券熱潮降溫 大型科技公司發債變難變貴】幾個月來，大型科技公司大型科技公司大舉湧入債券市場，發行規模龐大的債券；起初，吸引渴望搭上AI熱潮的投資人爭相搶購。但隨著需求減弱和泡沫疑慮加劇，這類交易如今變得更難完成，融資成本也更高。貝萊德週一發行125億美元的債券，收益率高達7.53%。資料顯示，這是自去年AI融資熱展開以來，收益率最高的藍籌資料中心債券發行之一。自2025年以來，全球AI相關債務融資規模已超過5,700億美元，借貸成本也隨之飆升。在更多交易還在排隊上場之際，這股熱潮已將信用市場推向極限，也引發銀行等機構設法對沖投資萬一無法獲得回報的風險。"
+    },
     {
       "id": "5013237",
       "time": "2026-07-29 08:39:50",
