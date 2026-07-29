@@ -1,7 +1,109 @@
 {
   "date": "2026-07-29",
-  "count": 1662,
+  "count": 1673,
   "items": [
+    {
+      "id": "mkt:019faccf-9c47-7aab-8ee2-0a6a5e34527c",
+      "time": "2026-07-29 15:38:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan UN envoy urges parties to honor last month's MoU】According to Al Jazeera, Pakistan's UN ambassador Asim Iftikhar Ahmad expressed concern over rising tensions in the Middle East and urged parties to \"honor commitments\" under last month's memorandum of understanding. He condemned attacks on Saudi Arabia and on commercial shipping, affirmed support for Saudi security, sovereignty and territorial integrity, and said that as long as Israel continues to occupy Palestinian territory \"durable peace in the Middle East will remain difficult to achieve.\""
+    },
+    {
+      "id": "5013938",
+      "time": "2026-07-29 15:37:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊萊克斯股價延續漲勢，目前漲幅已超21%，有望創下2003年3月以來最大單日漲幅。"
+    },
+    {
+      "id": "te:markets:570680",
+      "time": "2026-07-29 15:37:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Cautious — European stocks traded cautiously on Wednesday, with the STOXX 50 fluctuating around the flatline and the STOXX 600 edging 0.1% higher, as investors continued to assess a fresh batch of corporate earnings while weighing higher oil prices following another setback in the Middle East. LVMH extended Tuesday's gains, rising 3.2% after reporting broadly in-line sales growth. Eni surged nearly 4% after raising its 2026 production forecast. Deutsche Bank advanced 4.3% after posting a 10% increase in profit, defying expectations for a decline, while Porsche gained 1.2% after reporting a 34% rise in first-half operating profit. On the downside, Hermes fell 2.8% as its results failed to impress investors. Danone lost 3% after second-quarter sales growth was driven by higher prices rather than stronger volumes. Investors also awaited earnings from L'Oréal (-0.9%), Airbus (-0.6%), and Intesa Sanpaolo (+0.6%) later in the day."
+    },
+    {
+      "id": "5013937",
+      "time": "2026-07-29 15:37:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英特爾  宣佈完成RAMP-C計劃】英特爾宣佈完成美國國防部RAMP-C（快速保障微電子原型-商業）計劃，幫助商業和國防客戶利用英特爾的18A工藝構建晶片設計環境、晶片測試及早期產品原型驗證，為後續進入Secure Enclave安全製造專案奠定基礎。"
+    },
+    {
+      "id": "5013936",
+      "time": "2026-07-29 15:37:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【怡顆莓智慧財產權保護平臺正式上線】7月29日，怡顆莓發文稱，怡顆莓智慧財產權保護平臺於近日正式上線。"
+    },
+    {
+      "id": "mkt:019faccd-6a9b-7aab-8ee2-04b05c5f2893",
+      "time": "2026-07-29 15:36:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "LLY.O"
+      ],
+      "text": "【LILLY signs strategic cooperation memorandum with Tsinghua University】LILLY and Tsinghua University signed a memorandum to establish a long-term, interdisciplinary strategic cooperation framework to explore large language models (LLMs) for health communication, biopharma and public‑health innovation, and international talent development, targeting challenges from population aging and chronic disease burdens. The MoU formalises and deepens a strategic partnership first discussed during LILLY CEO David Ricks’ March visit to Tsinghua, where both sides reached preliminary agreement to advance medical‑health innovation cooperation."
+    },
+    {
+      "id": "5013935",
+      "time": "2026-07-29 15:35:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比兌美元上漲至1美元兌95.50盧比，日內上漲0.4%。"
+    },
+    {
+      "id": "mkt:019faccc-d21d-7aab-8ee1-f885e4f62e43",
+      "time": "2026-07-29 15:35:31",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Indian rupee rose to 95.50 per dollar, up 0.4% on the day."
+    },
+    {
+      "id": "5013934",
+      "time": "2026-07-29 15:35:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【初步統計顯示日本熊本強震後已發生195次餘震】據日本氣象廳當地時間7月29日釋出的訊息，28日16時至29日14時，初步統計熊本地區共發生有感地震195次。（央視新聞）"
+    },
+    {
+      "id": "te:markets:570678",
+      "time": "2026-07-29 15:34:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX 40 at Three-Week High as Fed Decision Looms — Frankfurt's DAX 40 rose 0.3% to around 25,520 on Wednesday, its highest level since July 6, as investors awaited the US Federal Reserve's policy decision due after the European market close while digesting fresh earnings and higher oil prices. Semiconductor stocks remained under pressure, with Infineon falling another 1% after Tuesday's 6% drop, amid concerns over stretched valuations, stronger Chinese competition, and rising investment needs. Among individual movers, Deutsche Bank jumped 4% after reporting stronger-than-expected second-quarter earnings, driven by record profits in its investment banking division. RWE gained more than 3% following better-than-expected first-half results, while BASF advanced 2% after announcing a new share buyback program. Meanwhile, oil prices surged more than 3%, supported by renewed geopolitical tensions in the Middle East and a larger-than-expected drawdown in US crude inventories, adding to concerns over inflationary pressures in Europe."
+    },
+    {
+      "id": "5013933",
+      "time": "2026-07-29 15:34:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【禮來與清華大學正式簽署戰略合作備忘錄】禮來與清華大學正式簽署戰略合作備忘錄，雙方將構建長期、跨學科戰略合作框架，探索大語言模型賦能健康傳播、生物醫藥和公共衛生創新交流和國際化人才培養等合作方向，共同應對人口老齡化和慢病負擔等重大健康挑戰。本次備忘錄的簽署是雙方戰略共識的深化與推進。今年3月，禮來公司董事長兼執行長戴文睿到訪清華大學，與清華大學校長李路明院士會面交流，雙方就推進醫療健康領域創新合作達成初步共識。備忘錄同時延續了雙方於2026年3月聯合發起的阿爾茨海默病公眾科普活動的良好合作勢頭，將公益層面的合作升級為長期、多維度戰略合作框架。"
+    },
     {
       "id": "mkt:019faccb-d213-7aab-8ee1-f7dccb290b88",
       "time": "2026-07-29 15:34:26",
