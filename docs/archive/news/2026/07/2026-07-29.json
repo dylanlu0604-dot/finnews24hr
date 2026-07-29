@@ -1,7 +1,87 @@
 {
   "date": "2026-07-29",
-  "count": 2354,
+  "count": 2363,
   "items": [
+    {
+      "id": "5014433",
+      "time": "2026-07-29 18:56:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "LENNOX INTERNATIONAL盤前股價下跌7.8%，此前公佈的第二季度營收略低於預期。"
+    },
+    {
+      "id": "5014432",
+      "time": "2026-07-29 18:56:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破86美元/桶，日內漲4.78%。"
+    },
+    {
+      "id": "mkt:019fad84-4cfb-7aab-8ee8-04396dc0df3a",
+      "time": "2026-07-29 18:55:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Three sources said the Iraqi prime minister’s planned Thursday meeting with the Saudi crown prince in Jeddah was canceled after militia groups in Iraq attacked Saudi Arabia."
+    },
+    {
+      "id": "5014431",
+      "time": "2026-07-29 18:54:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "三位知情人士透露，由於民兵武裝對沙特發動襲擊，原定於週四在吉達舉行的伊拉克總理與沙特王儲會晤已取消。"
+    },
+    {
+      "id": "mkt:019fad83-0d25-7aab-8ee7-fe571457d346",
+      "time": "2026-07-29 18:54:34",
+      "tags": [
+        "MKT News",
+        "8035.T",
+        "Impact bullish"
+      ],
+      "text": "Tokyo Electron said its buildings sustained no major damage following the earthquake."
+    },
+    {
+      "id": "5014430",
+      "time": "2026-07-29 18:54:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "東京電子：地震後廠區建築未出現重大損毀。"
+    },
+    {
+      "id": "mkt:019fad82-d470-7aab-8ee7-f16ae6605a8c",
+      "time": "2026-07-29 18:54:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBS reports U.S. President Trump will unveil details of a Dulles Airport renovation."
+    },
+    {
+      "id": "5014429",
+      "time": "2026-07-29 18:54:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將宣佈杜勒斯機場翻新計劃細節。"
+    },
+    {
+      "id": "5014428",
+      "time": "2026-07-29 18:53:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士：英美資源集團正洽談以約10億美元出售戴比爾斯。"
+    },
     {
       "id": "5014427",
       "time": "2026-07-29 18:52:55",
