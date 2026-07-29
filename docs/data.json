@@ -1,7 +1,144 @@
 {
-  "updated": "2026-07-30 04:20:22",
-  "count": 17774,
+  "updated": "2026-07-30 04:27:11",
+  "count": 17783,
   "items": [
+    {
+      "id": "5015219",
+      "time": "2026-07-30 04:25:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗布什爾省邊防部隊指揮官：執法人員在布什爾水域查獲四艘走私船隻。"
+    },
+    {
+      "id": "5015218",
+      "time": "2026-07-30 04:24:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國：將於9月8日在秘魯利馬舉辦人工智慧峰會。"
+    },
+    {
+      "id": "mkt:019faf8b-1a8d-7aab-8ef9-23410135663f",
+      "time": "2026-07-30 04:22:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Checkpoint attack in northwest Pakistan kills 15】Pakistani police said on the evening of the 29th local time a checkpoint in Hangu district, Khyber Pakhtunkhwa province was attacked. At least seven people were killed and 22 injured; police said they shot dead eight attackers and wounded six, bringing total fatalities to 15. Clearance operations are ongoing. No group has claimed responsibility."
+    },
+    {
+      "id": "5015217",
+      "time": "2026-07-30 04:22:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦西北部檢查站遇襲 15人死亡】巴基斯坦警方當地時間29日晚稱，該國西北部開伯爾-普什圖省亨古地區一處檢查站當天遭遇恐怖襲擊，造成至少7人死亡、22人受傷，警方打死8名襲擊者。"
+    },
+    {
+      "id": "mkt:019faf8a-999b-7aab-8ef9-1cb3e0e51ac2",
+      "time": "2026-07-30 04:22:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O): Additional leases not yet commenced, primarily for data centres, totaled $329.1 billion as of June 30."
+    },
+    {
+      "id": "te:markets:570874",
+      "time": "2026-07-30 04:21:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Chipotle Mexican Grill earnings above expectations at 0.33 USD — Chipotle Mexican Grill (CMG) released earnings per share at 0.33 USD, compared to market expectations of 0.32 USD."
+    },
+    {
+      "id": "te:markets:570873",
+      "time": "2026-07-30 04:21:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Ventas earnings in line with market expectations at 0.14 USD — Ventas (VTR) released earnings per share at 0.14 USD, in line with market expectations."
+    },
+    {
+      "id": "te:markets:570872",
+      "time": "2026-07-30 04:21:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "L3Harris Technologies earnings above expectations at 3.13 USD — L3Harris Technologies (LHX) released earnings per share at 3.13 USD, compared to market expectations of 2.80 USD."
+    },
+    {
+      "id": "te:markets:570871",
+      "time": "2026-07-30 04:21:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Equinix earnings above expectations at 4.83 USD — Equinix (EQIX) released earnings per share at 4.83 USD, compared to market expectations of 4.62 USD."
+    },
+    {
+      "id": "te:markets:570870",
+      "time": "2026-07-30 04:21:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Fortinet earnings above expectations at 0.90 USD — Fortinet (FTNT) released earnings per share at 0.90 USD, compared to market expectations of 0.74 USD."
+    },
+    {
+      "id": "5015216",
+      "time": "2026-07-30 04:21:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：額外租賃協議將於2027財年至2033財年期間陸續起租，租賃期限為1年至20年不等。"
+    },
+    {
+      "id": "5015215",
+      "time": "2026-07-30 04:20:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟：截至6月30日，公司尚有未開始執行的額外租賃負債總額為3291億美元，此類租賃主要針對資料中心物業。"
+    },
+    {
+      "id": "5015214",
+      "time": "2026-07-30 04:20:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列高階官員：以色列總理內塔尼亞胡在與特朗普會面期間，對能否和伊朗達成協議持懷疑態度。雙方探討透過武力與非武力手段加大對伊朗的經濟施壓。"
+    },
+    {
+      "id": "5015213",
+      "time": "2026-07-30 04:20:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "微軟公佈季度業績後，盤後股價上漲2.1%。"
+    },
     {
       "id": "5015212",
       "time": "2026-07-30 04:19:35",
@@ -163886,61 +164023,6 @@
         "Importance 1"
       ],
       "text": "TSX Closes Higher on Commodity Stocks Rally — The S&P/TSX Composite Index rose 0.3% to close at 35,485 after reaching a record high earlier in the session, as rising commodity prices supported mining and energy stocks. Miners advanced as gold edged higher on a softer US dollar and safe-haven demand amid escalating tensions between the US and Iran. Agnico Eagle gained 3.5%, Barrick added 2.8%, WPM rose 1.1%, and Franco-Nevada advanced 3.1%. Energy stocks also gained, tracking a jump in oil prices on mounting concerns over disruptions to Middle Eastern supply routes linked to escalating US-Iran hostilities. Canadian Natural added 1.8%, Imperial Oil gained 0.8%, while Suncor rose 1.5% and Cenovus advanced 0.6% ahead of its earnings report on Thursday. On the downside, technology stocks weakened ahead of earnings from US technology giants Alphabet and Tesla. Shopify shed 3.9%, Constellation Software fell 2.1%, and Celestica retreated 1.4%."
-    },
-    {
-      "id": "5003029",
-      "time": "2026-07-23 04:26:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "MYSEUMAI：據美國 SEC 備案檔案顯示，亞馬遜雲科技（AWS）將出資支援 Myseum.AI 主打隱私優先型 AI 相簿工具的部分研發工作。"
-    },
-    {
-      "id": "5003028",
-      "time": "2026-07-23 04:25:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "特斯拉財報公佈後盤後股價下跌 3%。"
-    },
-    {
-      "id": "5003027",
-      "time": "2026-07-23 04:24:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【俄總統新聞秘書：俄燃料市場形勢出現好轉】據俄羅斯方面當地時間22日訊息，俄羅斯總統新聞秘書佩斯科夫表示，俄燃料市場形勢出現好轉。俄總統普京當天在莫斯科克里姆林宮同俄聯邦政府、俄央行高層舉行經濟會議。佩斯科夫說，此次會議認為，俄聯邦政府為穩定國內燃料市場採取的措施已奏效，俄多地市場形勢“正在好轉”。佩斯科夫還說，俄燃料市場形勢仍需“特別關注”，相關應對舉措也須繼續實施。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f8b7f-6da4-7aab-8e51-e0b3ffe30728",
-      "time": "2026-07-23 04:23:31",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact mixed"
-      ],
-      "text": "【Alphabet cloud revenue beats estimates; search revenue slightly below expectations】Alphabet reported Q2 (quarter ended June 30) cloud revenue of $24.77 bln, up 82% YoY and above analysts' $22.34 bln estimate. Search advertising revenue was $63.27 bln, marginally below the $63.28 bln forecast. The mix — cloud beat, search slight miss — may heighten market concern over Alphabet's large AI-related spending. Alphabet is the first major U.S. tech company to report this quarter, offering an early read on sector results."
-    },
-    {
-      "id": "mkt:019f8b7e-12bd-7aab-8e51-dfc2a16c6ef2",
-      "time": "2026-07-23 04:22:03",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact mixed"
-      ],
-      "text": "【Tesla Q2 revenue beats expectations; EPS misses】Tesla (TSLA.O) reported Q2 revenue of $28.2 bln, above consensus $25.706 bln, but adjusted EPS of $0.33 missed the Street at $0.51. Free cash flow was negative $1.09 bln. Elon Musk said full-year spending will exceed $25 bln as Tesla ramps vehicle, battery and robot output across six factories; the investment is weighing on current results and investors are seeking more detail on cash deployment."
     }
   ]
 }
