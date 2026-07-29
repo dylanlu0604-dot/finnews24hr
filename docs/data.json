@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-30 05:25:22",
-  "count": 17791,
+  "updated": "2026-07-30 05:29:12",
+  "count": 17789,
   "items": [
+    {
+      "id": "5015263",
+      "time": "2026-07-30 05:27:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "強生：仍然預測全年銷售額1008億美元至1014億美元。"
+    },
+    {
+      "id": "5015262",
+      "time": "2026-07-30 05:26:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國授予通用動力價值766億美元合同，用於潛艇建造與船廠專案。"
+    },
     {
       "id": "mkt:019fafc0-c655-7aab-8ef9-ffb9e260bedf",
       "time": "2026-07-30 05:21:14",
@@ -164111,47 +164128,6 @@
         "IBM.O"
       ],
       "text": "IBM CFO said Q3 revenue growth is expected to be in line with the full-year trend."
-    },
-    {
-      "id": "5003077",
-      "time": "2026-07-23 05:29:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "Alphabet：收購Wiz對谷歌雲利潤構成拖累。"
-    },
-    {
-      "id": "mkt:019f8bba-0b54-7aab-8e52-8e10d5dcc5d2",
-      "time": "2026-07-23 05:27:33",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "【Alphabet Q2 investment gains $98.0 bln lift net profit to $116.9 bln, EPS $9.11 vs $2.90 est】Alphabet reported $98.0 billion of investment gains in Q2, which it said were \"primarily from unrealized net gains on equity securities.\" The gains helped drive EPS of $9.11, well above the $2.90 analyst consensus, and net income of $116.86 billion. Alphabet holds a large stake in SpaceX; SpaceX's IPO last month was the largest on record. Alphabet is also a major investor in AI startup Anthropic, which could IPO as early as October. Elon Musk liked the earnings report on social media."
-    },
-    {
-      "id": "5003076",
-      "time": "2026-07-23 05:26:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴拿馬運河正密切監測天氣狀況，7 月強厄爾尼諾現象發生機率已從 4 月的 25% 升至 81%。"
-    },
-    {
-      "id": "5003075",
-      "time": "2026-07-23 05:25:38",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【AI基礎設施概念股盤後大漲，谷歌母公司在電話會上談及產能擴張】週三美股盤後，與人工智慧（AI）基礎設施相關的公司股票集體走高。此前，谷歌母公司Alphabet在財報電話會議上表示，公司計劃在第三季度擴大對第三方算力容量的使用。\n在算力租賃商（Neoclouds）方面，CoreWeave上漲3.7%，Nebius上漲5.4%。\n儲存晶片股方面，閃迪漲3%，美光漲2.9%，西部資料漲2%，SK海力士（SK Hynix）ADR漲3.7%。\n半導體板塊方面，iShares半導體ETF漲0.9%。\n光通訊股方面，Lumentum上漲3.4%，Applied Optoelectronics上漲4%。\nAlphabet業績報告顯示，公司雲業務積壓訂單（Backlog）增至5140億美元，較上一季度的約4600億美元顯著增長。強勁的業績“主要由對AI基礎設施和AI解決方案的強勁需求驅動”。"
     }
   ]
 }
