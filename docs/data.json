@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-29 22:51:30",
-  "count": 17471,
+  "updated": "2026-07-29 22:55:30",
+  "count": 17462,
   "items": [
+    {
+      "id": "5014841",
+      "time": "2026-07-29 22:54:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲7%，現報87.83美元/桶。"
+    },
+    {
+      "id": "5014840",
+      "time": "2026-07-29 22:54:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大外交部：對在約旦河西岸發生持續的暴力行為表示譴責，以色列在西岸的定居點擴張必須停止。"
+    },
+    {
+      "id": "mkt:019fae5e-b049-7aab-8eee-166db30a1edd",
+      "time": "2026-07-29 22:54:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's foreign ministry condemned ongoing violence in the West Bank and said Israeli settlement expansion there must stop."
+    },
+    {
+      "id": "5014839",
+      "time": "2026-07-29 22:54:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聚焦數智教育等四大領域合作 2026中國—東盟教育交流周開幕】今天（29日），2026中國—東盟教育交流周在貴州開幕，今年的主題是“讓智慧教育更好助力友好家園建設”，參會各方聚焦推進數智教育等四大領域展開系列合作。（央視新聞）"
+    },
+    {
+      "id": "5014838",
+      "time": "2026-07-29 22:51:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：科威特外長與巴基斯坦總理及軍隊指揮官會晤。"
+    },
+    {
+      "id": "mkt:019fae5c-432f-7aab-8eee-0a9a05a03da1",
+      "time": "2026-07-29 22:51:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reports Kuwait's foreign minister met Pakistan's prime minister and military chief."
+    },
     {
       "id": "te:markets:570812",
       "time": "2026-07-29 22:50:03",
@@ -160326,145 +160374,6 @@
         "其他"
       ],
       "text": "【利物浦俱樂部嚴打倒票行為 四百餘人遭終身禁止觀賽處罰】英超利物浦俱樂部22日表示，在與默西塞德郡警方聯合打擊非法倒賣球票行動中，警方查獲涉案資產逾120萬英鎊（1英鎊約合人民幣9.07元），俱樂部已對432名涉案人員實施終身禁止入場觀賽處罰，並對115人作出無限期暫停購票和入場資格處理。據介紹，警方此次行動重點打擊有組織非法倒票及相關犯罪所得洗錢活動。利物浦俱樂部同時持續開展線上及球場內打擊倒票專項行動，以維護正常售票秩序和球迷權益。默西塞德郡警方偵緝總督察尼克·薩菲爾德表示，此次行動是警方與利物浦俱樂部密切合作的成功案例，目的是維護廣大球迷和公眾利益。“對於那些只是希望購買球票支援自己球隊，卻成為倒票行為受害者的真正球迷，我們將始終採取行動保護他們。”（新華社）"
-    },
-    {
-      "id": "5002762",
-      "time": "2026-07-22 22:53:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宜家稱甩賣8處物業不代表退出中國】仲量聯行官微日前透露，宜家母公司英格卡集團委託其獨家代理銷售8處國內自持商業資產，涉產權面積49.8萬平方米。公開資訊顯示，本次待售資產包涵蓋了位於貴陽、上海寶山、廣州番禺、天津中北、哈爾濱、南通、徐州、寧波的8處物業。其中，上海寶山宜家傢俱廣場產權面積10.5萬平方米，是最大的單體專案。這也是宜家進入中國市場近30年來最大規模的自持資產集中處置。宜家對此回應稱，近期已委託專業機構，對中國市場部分已停運商場的自持物業開展後續處置工作。據宜家相關人士處瞭解，宜家正從四大方向推進資本騰挪：最佳化大店佈局、擴張小型門店、發展區域性家裝業務、推動薈聚商場引入本土資本。這一系列調整是適配中國存量房時代與商業地產下行週期的選擇，並不代表退出中國市場。（21財經）"
-    },
-    {
-      "id": "mkt:019f8a51-7ec9-7aab-8e4c-3a96ae293413",
-      "time": "2026-07-22 22:53:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's Defence Research and Development Organisation (DRDO) signed a contract with AI Engineering and Adani Defence."
-    },
-    {
-      "id": "5002761",
-      "time": "2026-07-22 22:53:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度國防研究與發展組織（DRDO）與行業合作企業簽署兩項重大合同。"
-    },
-    {
-      "id": "te:economy:568922",
-      "time": "2026-07-22 22:53:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Crude Oil Stocks Change",
-        "Importance 1"
-      ],
-      "text": "US Crude Oil Stocks Unexpectedly Rise: EIA — Crude inventories in the US rose by 2.011 million barrels in the week ended July 17, compared with market expectations for a 1.25 million-barrel draw. Crude stocks at the Cushing, Oklahoma, delivery hub fell by 674 thousand barrels in the week. US gasoline stocks rose by 765 thousand barrels in the week, versus expectations for a 1.54 million-barrel draw. Distillate stockpiles, which include diesel and heating oil, rose by 1.395 million barrels, above forecasts for a 0.83 million-barrel rise. Net US crude imports increased by 485 thousand barrels per day."
-    },
-    {
-      "id": "mkt:019f8a51-430d-7aab-8e4c-368b68c6fab6",
-      "time": "2026-07-22 22:53:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Wildberries, dubbed Russia's Amazon, targeted in Ukrainian drone strikes】Ukraine has targeted Wildberries, Russia’s leading online retailer, in drone strikes. Over the past week Ukrainian strikes hit four Wildberries warehouses. The company and rival Ozon operate widespread pickup points across Russian towns. Wildberries reportedly runs about 3 mln sq m of warehouse space nationwide and processes roughly 20 mln orders daily."
-    },
-    {
-      "id": "mkt:019f8a51-3597-7aab-8e4c-2bb0f19da8ab",
-      "time": "2026-07-22 22:53:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's Defence Research and Development Organisation (DRDO) signed two major contracts with industry partners."
-    },
-    {
-      "id": "5002760",
-      "time": "2026-07-22 22:53:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心表示，預計未來幾天風暴將減弱，但伯莎可能在週四晚之前維持熱帶風暴強度。"
-    },
-    {
-      "id": "mkt:019f8a50-e912-7aab-8e4c-21b3240d2169",
-      "time": "2026-07-22 22:53:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA: U.S. four-week average jet fuel demand rose last week to its highest level since Aug 2019."
-    },
-    {
-      "id": "5002759",
-      "time": "2026-07-22 22:53:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心表示，熱帶風暴“伯莎”目前位於密西西比河河口北北東方向約55英里（合90公里）處；最大持續風速為每小時50英里（合85公里）。"
-    },
-    {
-      "id": "mkt:019f8a50-b5d2-7aab-8e4c-1d84aba0cadb",
-      "time": "2026-07-22 22:52:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "U.S. Trade Representative Greer said the U.S. is accelerating domestic production of critical minerals to end reliance."
-    },
-    {
-      "id": "mkt:019f8a50-7a35-7aab-8e4c-1004d3642c4b",
-      "time": "2026-07-22 22:52:37",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact mixed",
-        "WTI"
-      ],
-      "text": "Industry sources said Russia has temporarily banned vessels from entering or leaving the Port of Novorossiysk between 0000 and 0500 after drone attacks."
-    },
-    {
-      "id": "5002758",
-      "time": "2026-07-22 22:52:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "業內訊息人士稱，因遭遇無人機襲擊，俄羅斯臨時禁止新羅西斯克港在午夜至凌晨5點期間進出港船舶航行。"
-    },
-    {
-      "id": "5002757",
-      "time": "2026-07-22 22:52:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，熱帶風暴伯莎的中心在密西西比州海岸以南迴旋，預警區域今晚預計將出現熱帶風暴級天氣。"
-    },
-    {
-      "id": "5002756",
-      "time": "2026-07-22 22:52:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美團無人機累計完成訂單超100萬單】記者獲悉，截至2026年6月底，美團無人機已在深圳、北京、上海、廣州、香港、迪拜等城市開啟低空物流配送服務，累計完成訂單超100萬單。（科創板日報）"
-    },
-    {
-      "id": "mkt:019f8a4f-be67-7aab-8e4c-0e595709295b",
-      "time": "2026-07-22 22:51:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SMCI.O",
-        "Impact bullish"
-      ],
-      "text": "Super Micro Computer (SMCI.O) shares surged as much as 25%, the largest gain so far in 2024."
     }
   ]
 }

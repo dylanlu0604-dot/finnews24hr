@@ -1,7 +1,55 @@
 {
   "date": "2026-07-29",
-  "count": 2971,
+  "count": 2977,
   "items": [
+    {
+      "id": "5014841",
+      "time": "2026-07-29 22:54:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲7%，現報87.83美元/桶。"
+    },
+    {
+      "id": "5014840",
+      "time": "2026-07-29 22:54:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大外交部：對在約旦河西岸發生持續的暴力行為表示譴責，以色列在西岸的定居點擴張必須停止。"
+    },
+    {
+      "id": "mkt:019fae5e-b049-7aab-8eee-166db30a1edd",
+      "time": "2026-07-29 22:54:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's foreign ministry condemned ongoing violence in the West Bank and said Israeli settlement expansion there must stop."
+    },
+    {
+      "id": "5014839",
+      "time": "2026-07-29 22:54:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聚焦數智教育等四大領域合作 2026中國—東盟教育交流周開幕】今天（29日），2026中國—東盟教育交流周在貴州開幕，今年的主題是“讓智慧教育更好助力友好家園建設”，參會各方聚焦推進數智教育等四大領域展開系列合作。（央視新聞）"
+    },
+    {
+      "id": "5014838",
+      "time": "2026-07-29 22:51:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：科威特外長與巴基斯坦總理及軍隊指揮官會晤。"
+    },
+    {
+      "id": "mkt:019fae5c-432f-7aab-8eee-0a9a05a03da1",
+      "time": "2026-07-29 22:51:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reports Kuwait's foreign minister met Pakistan's prime minister and military chief."
+    },
     {
       "id": "te:markets:570812",
       "time": "2026-07-29 22:50:03",
