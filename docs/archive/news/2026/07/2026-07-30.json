@@ -1,7 +1,53 @@
 {
   "date": "2026-07-30",
-  "count": 188,
+  "count": 192,
   "items": [
+    {
+      "id": "mkt:019faf11-00a0-7aab-8ef2-6ee294deedf5",
+      "time": "2026-07-30 02:09:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "EURUSD",
+        "Impact bullish",
+        "GBPUSD",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "After the Fed rate decision, non-dollar currencies strengthened: EUR/USD rose about 30 pips to a high of 1.1431, GBP/USD gained about 50 pips to 1.3346, and USD/JPY swung nearly 40 pips, trading as low as 163.44."
+    },
+    {
+      "id": "mkt:019faf10-f56d-7aab-8ef2-65149474003b",
+      "time": "2026-07-30 02:09:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Fed holds rates but internal split widens; statement unchanged from June】The Federal Reserve left rates unchanged for a fifth consecutive meeting, but dissent grew: Logan, Hamak and Kashkari voted against the decision, each favoring a 25bp hike. The committee’s post-meeting statement was otherwise identical to June and reiterated its commitment to achieving price stability. The dissents increase the challenge for new Fed chair Kevin Warsh to remain on hold if inflation concerns intensify. President Trump has repeatedly called for rate cuts, including on Monday; Warsh, nominated by Trump earlier this year, said he would insulate policy decisions from political influence."
+    },
+    {
+      "id": "mkt:019faf10-7d44-7aab-8ef2-5cca17b52ef4",
+      "time": "2026-07-30 02:08:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Three regional Fed presidents dissent, raising pressure for rate hike】At the FOMC decision, three of the five regional Fed presidents with voting rights — Cleveland, Minneapolis and Dallas — dissented, each calling for a 25bps hike. It is the first time since September 2016 that three like-minded dissents appeared in a single policy decision, signalling growing internal pressure to tighten. Fed Chair Kevin Warsh backed holding rates steady and stressed the Fed’s duty to curb inflation; he is expected to face questions at his 02:30 Beijing time press conference on why patience remains the appropriate policy stance."
+    },
     {
       "id": "mkt:019faf0e-500f-7aab-8ef2-52eebcdfe52e",
       "time": "2026-07-30 02:06:18",
@@ -15,6 +61,15 @@
         "S&P500"
       ],
       "text": "Markets now no longer fully price a Fed rate hike in September."
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825508661",
+      "time": "2026-07-30 02:06:15",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "利率互換市場不再完全定價美聯儲9月加息。"
     },
     {
       "id": "mkt:019faf0e-1989-7aab-8ef2-4969879a7d0a",

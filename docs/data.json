@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-30 02:07:00",
-  "count": 17471,
+  "updated": "2026-07-30 02:11:01",
+  "count": 17469,
   "items": [
+    {
+      "id": "mkt:019faf11-00a0-7aab-8ef2-6ee294deedf5",
+      "time": "2026-07-30 02:09:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "EURUSD",
+        "Impact bullish",
+        "GBPUSD",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "After the Fed rate decision, non-dollar currencies strengthened: EUR/USD rose about 30 pips to a high of 1.1431, GBP/USD gained about 50 pips to 1.3346, and USD/JPY swung nearly 40 pips, trading as low as 163.44."
+    },
+    {
+      "id": "mkt:019faf10-f56d-7aab-8ef2-65149474003b",
+      "time": "2026-07-30 02:09:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Fed holds rates but internal split widens; statement unchanged from June】The Federal Reserve left rates unchanged for a fifth consecutive meeting, but dissent grew: Logan, Hamak and Kashkari voted against the decision, each favoring a 25bp hike. The committee’s post-meeting statement was otherwise identical to June and reiterated its commitment to achieving price stability. The dissents increase the challenge for new Fed chair Kevin Warsh to remain on hold if inflation concerns intensify. President Trump has repeatedly called for rate cuts, including on Monday; Warsh, nominated by Trump earlier this year, said he would insulate policy decisions from political influence."
+    },
+    {
+      "id": "mkt:019faf10-7d44-7aab-8ef2-5cca17b52ef4",
+      "time": "2026-07-30 02:08:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Three regional Fed presidents dissent, raising pressure for rate hike】At the FOMC decision, three of the five regional Fed presidents with voting rights — Cleveland, Minneapolis and Dallas — dissented, each calling for a 25bps hike. It is the first time since September 2016 that three like-minded dissents appeared in a single policy decision, signalling growing internal pressure to tighten. Fed Chair Kevin Warsh backed holding rates steady and stressed the Fed’s duty to curb inflation; he is expected to face questions at his 02:30 Beijing time press conference on why patience remains the appropriate policy stance."
+    },
     {
       "id": "mkt:019faf0e-500f-7aab-8ef2-52eebcdfe52e",
       "time": "2026-07-30 02:06:18",
@@ -15,6 +61,15 @@
         "S&P500"
       ],
       "text": "Markets now no longer fully price a Fed rate hike in September."
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825508661",
+      "time": "2026-07-30 02:06:15",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "利率互換市場不再完全定價美聯儲9月加息。"
     },
     {
       "id": "mkt:019faf0e-1989-7aab-8ef2-4969879a7d0a",
@@ -160660,60 +160715,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊發言人對航運企業表示：佈滿水雷的霍爾木茲海峽南線只會讓你們血本無歸，切勿聽信雙手沾滿孩童鮮血的美國的蠱惑。"
-    },
-    {
-      "id": "mkt:019f8b06-1a43-7aab-8e4f-6bf95cbff258",
-      "time": "2026-07-23 02:11:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "IRGC Navy warned all parties against using alternative routes to the Strait of Hormuz."
-    },
-    {
-      "id": "5002922",
-      "time": "2026-07-23 02:10:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊海軍司令部：霍爾木茲海峽航道出入口已劃定，完全由我方掌控。替代航線危險且不安全，我方警告各方切勿選擇繞行，否則將引發嚴重且無法挽回的後果。"
-    },
-    {
-      "id": "mkt:019f8b04-b6ea-7aab-8e4f-6583dd550dfc",
-      "time": "2026-07-23 02:09:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jerusalem Post reports Israel is considering buying Boeing P-8 Poseidon maritime patrol aircraft to bolster anti-submarine capabilities amid rising concern over Turkish naval expansion."
-    },
-    {
-      "id": "mkt:019f8b03-bc49-7aab-8e4f-5c94012255df",
-      "time": "2026-07-23 02:08:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Greece's Supreme National Security Council is preparing to approve a $3.42 bln purchase of Israeli air-defence hardware to establish a multi-layer system named 'Achilles Shield'."
-    },
-    {
-      "id": "mkt:019f8b03-83d2-7aab-8e4f-509f52734a07",
-      "time": "2026-07-23 02:08:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Claude Code's Claude Security plugin has entered a testing phase."
-    },
-    {
-      "id": "5002921",
-      "time": "2026-07-23 02:07:27",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什將於7月29日下午2:30舉行FOMC會議後記者會。"
     }
   ]
 }
