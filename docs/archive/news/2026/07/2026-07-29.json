@@ -1,7 +1,62 @@
 {
   "date": "2026-07-29",
-  "count": 2977,
+  "count": 2983,
   "items": [
+    {
+      "id": "mkt:019fae62-a6e2-7aab-8eee-2442b978b49d",
+      "time": "2026-07-29 22:58:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An HKEX filing shows Changzhou Xingyu Automotive Lighting Co., Ltd. has submitted a listing application."
+    },
+    {
+      "id": "mkt:019fae62-6c95-7aab-8eee-180ea94affa1",
+      "time": "2026-07-29 22:58:33",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "【Local SOEs report 1H profit 812.68 bln yuan, up 7%; fixed‑asset investment 2.6 tln yuan】Local state-owned enterprises under local supervision posted total profit of 812.68 bln yuan in 1H, up 7% YoY; fixed-asset investment totaled 2.6 tln yuan."
+    },
+    {
+      "id": "5014844",
+      "time": "2026-07-29 22:58:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沈敏娟履新外交部亞洲司司長】外交部網站顯示，沈敏娟已接替劉勁松，履新外交部亞洲司司長。"
+    },
+    {
+      "id": "5014843",
+      "time": "2026-07-29 22:56:58",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【上半年地方國企實現利潤總額8126.8億元】今年上半年，地方國資國企經營質效與創新成果同步提升，地方監管企業實現利潤總額8126.8億元，同比增長7%，固定資產投資2.6萬億元。這是在國務院國資委於7月28日至29日舉辦的地方國資委負責人研討班上披露的最新資料。國務院國資委主任程福波介紹，上半年地方國資國企科技創新加力提速。研發投入穩定增長，研發經費投入2693.6億元，同比增長2.9%。協同創新持續深化，地方監管企業積極參與19箇中央企業創新聯合體建設，在算力網路等方面聯合攻克一批關鍵技術。重大成果不斷湧現，北京自主研發的“北腦一號”完成首例多中心臨床試驗植入手術，推動腦機介面技術從實驗室邁向實際應用。湖南突破奈米級光學鏡面鋁“卡脖子”技術，實現高階超精鋁材國產化。（新華社）"
+    },
+    {
+      "id": "5014842",
+      "time": "2026-07-29 22:55:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示，最新一週美國煉廠原油淨進料量升至2019年9月以來最高水平。"
+    },
+    {
+      "id": "te:markets:570813",
+      "time": "2026-07-29 22:55:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Approaches 4-Month High — Heating oil futures in the US rose to over $4.3 per gallon in late July, testing their highest in nearly four months as the resumption of hostilities between Iran and the US prolonged the supply halt from the region. Iran launched attacks against US forces across the Middle East and Saudi oil and refining infrastructure, prompting the US and Saudi Arabia to attack Iranian forces in Iraq. The resumption of the conflict maintained expectations that Iran and Houthi Rebels will continue to attack tankers crossing the Red Sea and Persian Gulf in the near term, cutting supply from major producers. In the meantime, Russian diesel supply was also hampered by recent Ukrainian attacks on refineries, prompting Moscow to halt exports for all of July. Still, stocks of distillate fuel in the US rose more than expected for a third week as of July 24th amid a rebound in refinery runs. Still, wholesale fuel prices as a sharp reduction in commercial and SPR magnified the backdrop of tight supply."
+    },
     {
       "id": "5014841",
       "time": "2026-07-29 22:54:35",

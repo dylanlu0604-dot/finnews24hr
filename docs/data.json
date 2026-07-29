@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-29 22:55:30",
-  "count": 17462,
+  "updated": "2026-07-29 22:59:28",
+  "count": 17461,
   "items": [
+    {
+      "id": "mkt:019fae62-a6e2-7aab-8eee-2442b978b49d",
+      "time": "2026-07-29 22:58:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An HKEX filing shows Changzhou Xingyu Automotive Lighting Co., Ltd. has submitted a listing application."
+    },
+    {
+      "id": "mkt:019fae62-6c95-7aab-8eee-180ea94affa1",
+      "time": "2026-07-29 22:58:33",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "【Local SOEs report 1H profit 812.68 bln yuan, up 7%; fixed‑asset investment 2.6 tln yuan】Local state-owned enterprises under local supervision posted total profit of 812.68 bln yuan in 1H, up 7% YoY; fixed-asset investment totaled 2.6 tln yuan."
+    },
+    {
+      "id": "5014844",
+      "time": "2026-07-29 22:58:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沈敏娟履新外交部亞洲司司長】外交部網站顯示，沈敏娟已接替劉勁松，履新外交部亞洲司司長。"
+    },
+    {
+      "id": "5014843",
+      "time": "2026-07-29 22:56:58",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【上半年地方國企實現利潤總額8126.8億元】今年上半年，地方國資國企經營質效與創新成果同步提升，地方監管企業實現利潤總額8126.8億元，同比增長7%，固定資產投資2.6萬億元。這是在國務院國資委於7月28日至29日舉辦的地方國資委負責人研討班上披露的最新資料。國務院國資委主任程福波介紹，上半年地方國資國企科技創新加力提速。研發投入穩定增長，研發經費投入2693.6億元，同比增長2.9%。協同創新持續深化，地方監管企業積極參與19箇中央企業創新聯合體建設，在算力網路等方面聯合攻克一批關鍵技術。重大成果不斷湧現，北京自主研發的“北腦一號”完成首例多中心臨床試驗植入手術，推動腦機介面技術從實驗室邁向實際應用。湖南突破奈米級光學鏡面鋁“卡脖子”技術，實現高階超精鋁材國產化。（新華社）"
+    },
+    {
+      "id": "5014842",
+      "time": "2026-07-29 22:55:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示，最新一週美國煉廠原油淨進料量升至2019年9月以來最高水平。"
+    },
+    {
+      "id": "te:markets:570813",
+      "time": "2026-07-29 22:55:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Approaches 4-Month High — Heating oil futures in the US rose to over $4.3 per gallon in late July, testing their highest in nearly four months as the resumption of hostilities between Iran and the US prolonged the supply halt from the region. Iran launched attacks against US forces across the Middle East and Saudi oil and refining infrastructure, prompting the US and Saudi Arabia to attack Iranian forces in Iraq. The resumption of the conflict maintained expectations that Iran and Houthi Rebels will continue to attack tankers crossing the Red Sea and Persian Gulf in the near term, cutting supply from major producers. In the meantime, Russian diesel supply was also hampered by recent Ukrainian attacks on refineries, prompting Moscow to halt exports for all of July. Still, stocks of distillate fuel in the US rose more than expected for a third week as of July 24th amid a rebound in refinery runs. Still, wholesale fuel prices as a sharp reduction in commercial and SPR magnified the backdrop of tight supply."
+    },
     {
       "id": "5014841",
       "time": "2026-07-29 22:54:35",
@@ -160312,68 +160367,6 @@
         "公司"
       ],
       "text": "迦納央行擬出售其持有的國有非洲開發銀行股份。"
-    },
-    {
-      "id": "5002767",
-      "time": "2026-07-22 22:59:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "泛歐交易所九月小麥期貨<BL2U6>上漲4.5%，此前有報道稱，作為全球主要糧食出口通道的俄羅斯新羅西斯克港臨時實施船舶夜間航行禁令。"
-    },
-    {
-      "id": "mkt:019f8a56-3a62-7aab-8e4c-4d932bde0836",
-      "time": "2026-07-22 22:58:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexican President Sheinbaum will meet U.S. Trade Representative Greer on Thursday morning."
-    },
-    {
-      "id": "5002766",
-      "time": "2026-07-22 22:58:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國富時100日內漲幅達1.5%，報10744.47點。"
-    },
-    {
-      "id": "5002765",
-      "time": "2026-07-22 22:57:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥總統辛鮑姆將於週四上午會見美國貿易代表格里爾。"
-    },
-    {
-      "id": "5002764",
-      "time": "2026-07-22 22:56:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "埃及內閣訊息：萬豪集團簽署協議，合作開發 11 家埃及酒店。"
-    },
-    {
-      "id": "mkt:019f8a53-9633-7aab-8e4c-46f39256a2fe",
-      "time": "2026-07-22 22:56:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "SMCI.O",
-        "Impact bullish"
-      ],
-      "text": "【Super Micro Computer jumps 25% after raising gross-margin outlook】Shares of Super Micro Computer (SMCI.O) jumped 25% on Wednesday after the AI-server maker raised fiscal fourth-quarter gross-margin guidance to 15-17%, roughly double its prior 8.2-8.4% target. A JPMorgan analyst said the surprise margin expansion implies Q4 EPS could be at least 80% above current Wall Street estimates, though investors may question sustainability in coming weeks. JPMorgan also said the company secured more than $60 bln of new orders this quarter, exceeding its own expectations and signalling strong demand; peers including Dell and HPE saw their shares rise."
-    },
-    {
-      "id": "5002763",
-      "time": "2026-07-22 22:55:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【利物浦俱樂部嚴打倒票行為 四百餘人遭終身禁止觀賽處罰】英超利物浦俱樂部22日表示，在與默西塞德郡警方聯合打擊非法倒賣球票行動中，警方查獲涉案資產逾120萬英鎊（1英鎊約合人民幣9.07元），俱樂部已對432名涉案人員實施終身禁止入場觀賽處罰，並對115人作出無限期暫停購票和入場資格處理。據介紹，警方此次行動重點打擊有組織非法倒票及相關犯罪所得洗錢活動。利物浦俱樂部同時持續開展線上及球場內打擊倒票專項行動，以維護正常售票秩序和球迷權益。默西塞德郡警方偵緝總督察尼克·薩菲爾德表示，此次行動是警方與利物浦俱樂部密切合作的成功案例，目的是維護廣大球迷和公眾利益。“對於那些只是希望購買球票支援自己球隊，卻成為倒票行為受害者的真正球迷，我們將始終採取行動保護他們。”（新華社）"
     }
   ]
 }
