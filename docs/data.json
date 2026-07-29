@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-30 01:54:55",
-  "count": 17429,
+  "updated": "2026-07-30 01:58:51",
+  "count": 17428,
   "items": [
+    {
+      "id": "5014946",
+      "time": "2026-07-30 01:55:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士稱，殼牌與菲利普斯66（Phillips 66）正考慮出售其在Explorer管道中所持股份。任何交易對Explorer管道的估值可能在35億美元左右。"
+    },
     {
       "id": "5014945",
       "time": "2026-07-30 01:53:40",
@@ -160232,26 +160240,6 @@
         "國際"
       ],
       "text": "伊拉克總理阿里·扎伊迪在華盛頓會見特朗普後，預計於週四前往德黑蘭訪問。"
-    },
-    {
-      "id": "mkt:019f8af9-998c-7aab-8e4f-430ad36107c5",
-      "time": "2026-07-23 01:57:21",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【US says Strait of Hormuz open but international commercial transit nearly halted】US officials maintain the Strait of Hormuz is open, but major international commercial shipping has effectively stopped. CENTCOM says Iran has attacked commercial vessels more than 30 times since the current round of hostilities began. Bahrain-based maritime information center data showed transits through the strait fell to a near three‑week low, with only three merchant ships tracked on Tuesday. Marisks’ CEO said US forces can provide only limited aerial cover and cannot guarantee safe passage, and shipowners and crews are largely unwilling to risk transit. Iran-backed Houthi threats to block Saudi exports via the Red Sea are extending shipping risk toward the Bab al‑Mandeb."
-    },
-    {
-      "id": "5002915",
-      "time": "2026-07-23 01:56:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【摩薩德新局長訪美磋商伊朗戰事與核問題】以色列新任摩薩德局長羅曼·戈夫曼兩週前到訪華盛頓，就伊朗戰事與伊朗核計劃展開磋商。戈夫曼會見了美國中央情報局局長約翰·拉特克利夫及白宮官員，此行部分議程是協調美方就伊朗核協議開展談判的相關立場。此次訪問發生在霍爾木茲海峽緊張局勢升級、衝突再起前夕。"
     }
   ]
 }
