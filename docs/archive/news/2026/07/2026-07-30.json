@@ -1,7 +1,79 @@
 {
   "date": "2026-07-30",
-  "count": 760,
+  "count": 768,
   "items": [
+    {
+      "id": "5015261",
+      "time": "2026-07-30 05:19:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "META首席財務官：公司正為其人工智慧模型提供更詳盡的使用者過往互動資訊，以幫助模型更好地理解使用者認為最有價值的內容。"
+    },
+    {
+      "id": "5015260",
+      "time": "2026-07-30 05:18:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "META首席財務官：我們預計在今年剩餘時間乃至2027年，推薦系統仍有進一步最佳化空間，有助於推動使用者參與度提升。"
+    },
+    {
+      "id": "te:markets:570884",
+      "time": "2026-07-30 05:18:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real Gains as Fed Holds Rates — The Brazilian real strengthened to 5.12 per USD from the two-week low of 5.14 reached on July 27 after the Federal Reserve held interest rates unchanged. The decision weakened the US dollar, as roughly one-third of the market had been positioned for a rate hike. Meanwhile, Brazil created a net 145,161 formal jobs in June, well above market expectations of 115,000, reinforcing the resilience of the labor market and supporting expectations of a more hawkish BCB. Brazil's high interest rates have continued to support the real by boosting the appeal of local assets, as persistent inflation risks and concerns over fiscal deficits have kept the Selic at elevated levels. In June, the BCB lowered the Selic rate from 14.50% to 14.25% but stressed that the resilience of the labor market continues to fuel services inflation. The Copom will meet on August 4-5th to decide the next level of the Selic."
+    },
+    {
+      "id": "5015259",
+      "time": "2026-07-30 05:18:18",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：美國將立即向全球疫苗免疫聯盟撥付國會批准的2025財年、2026財年全部6億美元資金。"
+    },
+    {
+      "id": "5015258",
+      "time": "2026-07-30 05:18:07",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：美國重申，不會透過全球疫苗免疫聯盟向世界衛生組織提供美國政府資金。"
+    },
+    {
+      "id": "5015257",
+      "time": "2026-07-30 05:18:02",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：美國有望重新獲得全球疫苗免疫聯盟董事會席位。"
+    },
+    {
+      "id": "mkt:019fafbd-404e-7aab-8ef9-e99739ae1094",
+      "time": "2026-07-30 05:17:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department says it will immediately disburse the full $600 million appropriated by Congress for FY25 and FY26 to Gavi, the Vaccine Alliance."
+    },
+    {
+      "id": "5015256",
+      "time": "2026-07-30 05:17:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【FOMC宣告後，美聯儲9月加息的機率下降】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為36.8%，累計加息25個基點的機率為63.2%，累計加息50個基點的機率為0%（美聯儲決議前分別為17.8%、60.2%和22%）。美聯儲到10月維持利率不變的機率為26.2%，累計加息25個基點的機率為55.6%，累計加息50個基點的機率為18.2%，累計加息75個基點的機率為0%（美聯儲決議前分別為11.9%、46.1%、34.7%、和7.3%）。"
+    },
     {
       "id": "5015255",
       "time": "2026-07-30 05:17:05",
