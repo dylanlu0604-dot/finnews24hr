@@ -1,7 +1,187 @@
 {
   "date": "2026-07-29",
-  "count": 870,
+  "count": 887,
   "items": [
+    {
+      "id": "mkt:019fab90-7c4f-7aab-8eda-769ebf2fe024",
+      "time": "2026-07-29 09:50:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-shares: ChiNext Index and Shenzhen Composite each fell more than 1%; Shanghai Composite down 0.4%. Dairy, education and AI-application sectors outperformed; lithography equipment, memory chips and CPO-concept stocks led declines."
+    },
+    {
+      "id": "5013385",
+      "time": "2026-07-29 09:49:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達20億港元。"
+    },
+    {
+      "id": "mkt:019fab8f-b9b1-7aab-8eda-6fd79288bed5",
+      "time": "2026-07-29 09:49:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "SoftBank Group said a Japanese credit rating agency assigned its bonds an \"A\" rating."
+    },
+    {
+      "id": "5013384",
+      "time": "2026-07-29 09:48:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.01%，現報13372.565點；上證指數跌0.46%，現報3795.959點；創業板指跌1.19%，現報3287.521點。"
+    },
+    {
+      "id": "mkt:019fab8e-f64e-7aab-8eda-62d9141a1ab6",
+      "time": "2026-07-29 09:48:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Nikkei 225",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "South Korea's KOSPI extended losses, down 3% intraday to 5,840.19."
+    },
+    {
+      "id": "5013383",
+      "time": "2026-07-29 09:48:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數跌幅擴大至3%，SK海力士跌近7%，三星電子跌超2%。"
+    },
+    {
+      "id": "mkt:019fab8e-945d-7aab-8eda-5fd9109bec71",
+      "time": "2026-07-29 09:47:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix shares fell 6.5%."
+    },
+    {
+      "id": "mkt:019fab8e-7d6e-7aab-8eda-539a23b117cf",
+      "time": "2026-07-29 09:47:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share MLCC sector strengthened; Fenghua Hi-Tech hit the daily price limit for the second time in three sessions, Yunzong Technology rose over 10%. Sanhuan Group, Torch Electronics and Boqian New Materials also advanced."
+    },
+    {
+      "id": "5013382",
+      "time": "2026-07-29 09:47:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價下跌6.5%。"
+    },
+    {
+      "id": "5013381",
+      "time": "2026-07-29 09:47:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本熊本地震致醫療機構停電停水】據日本朝日電視臺今天（7月29日）報道，熊本縣地震造成縣內46家醫療機構受災，目前仍持續出現停電、停水等情況。據日本厚生勞動省介紹，截至當地時間今天上午9點，熊本縣內共有46家醫療機構報告了受災情況，其中40家醫療機構發生停水，15家出現停電，有12家醫療機構在醫用氧氣等醫療氣體供應方面出現困難。（CCTV國際時訊）"
+    },
+    {
+      "id": "5013380",
+      "time": "2026-07-29 09:47:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量25億元。"
+    },
+    {
+      "id": "5013379",
+      "time": "2026-07-29 09:47:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.02%，現報3293.094點；上證指數跌0.45%，現報3796.157點；深證成指跌0.95%，現報13380.688點。"
+    },
+    {
+      "id": "mkt:019fab8d-baa3-7aab-8eda-4b6d7ea18430",
+      "time": "2026-07-29 09:46:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Mitsubishi UFJ Financial Group: Dollar likely supported if Fed opts for a \"slightly hawkish\" hold】Mitsubishi UFJ Financial Group senior FX strategist Lloyd Chan said in a research note that if the FOMC delivers a \"slightly hawkish\" hold, the dollar is likely to be supported. Their baseline assumes a hawkish-tilted hold in which the Fed keeps rates unchanged but underscores elevated inflation risks. That stance could bolster U.S. Treasury yields and the dollar and broadly weigh on Asian currencies. Continued Fed emphasis on keeping rates higher for longer would keep the risk balance tilted toward dollar resilience."
+    },
+    {
+      "id": "5013378",
+      "time": "2026-07-29 09:46:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "中際旭創成交額達100億元，現漲1.20%。"
+    },
+    {
+      "id": "mkt:019fab8d-8f58-7aab-8eda-40bd987d294f",
+      "time": "2026-07-29 09:46:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "603986.SS",
+        "Impact bearish"
+      ],
+      "text": "GigaDevice Semiconductor hit its daily down limit on China A-shares; turnover CNY 10.712 bln."
+    },
+    {
+      "id": "te:markets:570554",
+      "time": "2026-07-29 09:46:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Pressured Ahead of Fed Decision — The Japanese yen traded around 163.7 per dollar on Wednesday, hovering near 40-year lows as investors awaited the Federal Reserve’s latest policy decision, where it is expected to leave interest rates unchanged. However, markets continue to price in about a one-third chance of a 25-basis-point rate hike from the Fed, while also assigning roughly an 80% probability to a rate increase in September. On the geopolitical front, the US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East, reigniting regional tensions and pushing oil prices higher. At home, the Bank of Japan is widely expected to keep its policy rate unchanged on Friday while leaving the door open for additional rate hikes to help stem the yen’s decline. Verbal intervention from Japanese authorities has so far provided little support for the currency, while the BOJ has remained vague about its tightening plans."
+    },
+    {
+      "id": "mkt:019fab8d-6f8f-7aab-8eda-3d6b2404018b",
+      "time": "2026-07-29 09:46:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share STAR 50 Index fell more than 2% after earlier rising over 1%."
+    },
     {
       "id": "5013377",
       "time": "2026-07-29 09:45:59",
