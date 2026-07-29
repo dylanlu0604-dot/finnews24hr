@@ -1,7 +1,76 @@
 {
-  "updated": "2026-07-29 09:24:05",
-  "count": 17567,
+  "updated": "2026-07-29 09:27:57",
+  "count": 17563,
   "items": [
+    {
+      "id": "mkt:019fab7b-3fe3-7aab-8ed9-3289ca88b8a2",
+      "time": "2026-07-29 09:26:48",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "Zelenskiy said Trump has agreed to issue a license to supply Patriot missiles to Ukraine."
+    },
+    {
+      "id": "5013315",
+      "time": "2026-07-29 09:26:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，特朗普已同意向烏克蘭提供愛國者導彈的生產許可。"
+    },
+    {
+      "id": "5013314",
+      "time": "2026-07-29 09:26:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：與特朗普的會晤非常成功。"
+    },
+    {
+      "id": "mkt:019fab7a-34fc-7aab-8ed9-2f3fe55be41b",
+      "time": "2026-07-29 09:25:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "A‑shares opened: Shanghai Composite +0.26%, Shenzhen Composite Index -0.08%, ChiNext +0.19%; Changxin C shares opened -1.06%."
+    },
+    {
+      "id": "5013313",
+      "time": "2026-07-29 09:25:27",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指開盤漲跌不一，滬指漲0.26％，深成指跌0.08％，創業板漲0.19％。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607293824402559",
+      "time": "2026-07-29 09:23:41",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展2065億元7天期逆回購操作，操作利率為1.40%，與上次持平。同時，開展了6000億元隔夜逆回購操作。"
+    },
+    {
+      "id": "5013312",
+      "time": "2026-07-29 09:23:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【叮咚買菜公佈自有品牌目標：叮咚V5今年GMV目標同比增長50%】叮咚買菜宣佈旗下自有品牌叮咚V5將圍繞糧油調味、休閒百貨、乳品酒飲、日配冷凍、烘焙、SC生鮮等六大品類，統一商品開發標準、完成包裝煥新，並透過APP首頁專屬入口等資源持續投入。公司公佈的資料顯示，2026年6月，叮咚買菜自有品牌滲透率達到68.5%，非生鮮自有品牌GMV佔比超35%。目前，叮咚V5擁有200餘支SKU，此次升級將主要圍繞現有商品進行迭代和汰換，在SKU規模基本不變的情況下，預計叮咚V5今年GMV同比增長50%。"
+    },
     {
       "id": "te:markets:570547",
       "time": "2026-07-29 09:22:30",
@@ -161030,124 +161099,6 @@
         "市場"
       ],
       "text": "港股儲存概念集體高開，南方兩倍做多海力士大漲近15%，南方兩倍做多三星電子漲超10%，兆易創新漲超3%，瀾起科技漲近2%。"
-    },
-    {
-      "id": "5001158",
-      "time": "2026-07-22 09:27:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣東建科與廣開交投集團簽署戰略合作協議】據廣東建科訊息，近日，廣東建科與廣州開發區交通投資集團有限公司簽署戰略合作協議。雙方將圍繞低空物流、飛行安全、無人機應用及數字化等核心方向，爭取聯合打造“低空+AI”智慧建造及“低空+智慧巡查、市政、運營、生態”等一批創新場景試點。"
-    },
-    {
-      "id": "mkt:019f876f-93e6-7aab-8e36-6b873e38eaa5",
-      "time": "2026-07-22 09:27:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "China A-share precious metals sector opened higher; Chifeng Gold, Shanjin International and Xingye Silver-Tin rose over 3%, with Zhongjin Gold, Sichuan Gold, Zhaojin Gold, Western Gold and Xiaocheng Technology also gaining. Earlier, spot gold climbed more than 1% intraday, breaching $4,120/oz."
-    },
-    {
-      "id": "5001157",
-      "time": "2026-07-22 09:27:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "魯比奧：美國仍然持開放態度，願意參與談判。"
-    },
-    {
-      "id": "mkt:019f876f-4142-7aab-8e36-643359168a18",
-      "time": "2026-07-22 09:27:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "China markets opened lower on Wednesday: Shanghai Composite down 24.7 pts (-0.64%) at 3,839.67; Shenzhen Composite down 94.32 pts (-0.66%) at 14,169.97; CSI 300 down 28.57 pts (-0.60%) at 4,710.66; ChiNext down 40.99 pts (-1.11%) at 3,644.98; Sci‑Tech Innovation Board 50 down 28.38 pts (-1.49%) at 1,874.78."
-    },
-    {
-      "id": "mkt:019f876e-f4d7-7aab-8e36-58eb4640a7ba",
-      "time": "2026-07-22 09:27:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD"
-      ],
-      "text": "U.S. Secretary of State Rubio said Iran is not serious about negotiations."
-    },
-    {
-      "id": "mkt:019f876e-c0df-7aab-8e36-573701b1ef18",
-      "time": "2026-07-22 09:26:50",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【IRGC says 'punishment of aggressors' continues; US strikes Iran for 11th night】The Islamic Revolutionary Guard Corps said 'punishment of the aggressors continues.' The US carried out strikes against Iran for an 11th consecutive night."
-    },
-    {
-      "id": "5001156",
-      "time": "2026-07-22 09:25:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "魯比奧：美國致力於在中東和伊朗開展外交斡旋。"
-    },
-    {
-      "id": "mkt:019f876d-a619-7aab-8e36-4de1d721027c",
-      "time": "2026-07-22 09:25:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component"
-      ],
-      "text": "At the open in China’s A-share market, the Shanghai Composite Index was down 0.64%, the Shenzhen Composite Index down 0.66% and the ChiNext Index down 1.11%. Oil and gas extraction, precious metals and steel led gains; PCB, MLCC and advanced packaging sectors retreated."
-    },
-    {
-      "id": "5001155",
-      "time": "2026-07-22 09:25:12",
-      "tags": [],
-      "text": "三大股指低開，滬指跌0.64％，深成指跌0.66％，創業板跌1.11％。"
-    },
-    {
-      "id": "mkt:019f876d-1033-7aab-8e36-44e9b8f066d9",
-      "time": "2026-07-22 09:24:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Mehr News Agency reported an attack on Abdan city in Ilam province in western Iran; no casualties reported."
-    },
-    {
-      "id": "mkt:019f876c-5b55-7aab-8e36-3b1f021d6503",
-      "time": "2026-07-22 09:24:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Brent crude touched $90 per barrel, its highest since June 11, up 0.73% intraday. WTI rose 1.00% intraday to $85.87 per barrel."
     }
   ]
 }

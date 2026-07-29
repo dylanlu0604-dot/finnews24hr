@@ -1,7 +1,76 @@
 {
   "date": "2026-07-29",
-  "count": 764,
+  "count": 771,
   "items": [
+    {
+      "id": "mkt:019fab7b-3fe3-7aab-8ed9-3289ca88b8a2",
+      "time": "2026-07-29 09:26:48",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "Zelenskiy said Trump has agreed to issue a license to supply Patriot missiles to Ukraine."
+    },
+    {
+      "id": "5013315",
+      "time": "2026-07-29 09:26:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，特朗普已同意向烏克蘭提供愛國者導彈的生產許可。"
+    },
+    {
+      "id": "5013314",
+      "time": "2026-07-29 09:26:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：與特朗普的會晤非常成功。"
+    },
+    {
+      "id": "mkt:019fab7a-34fc-7aab-8ed9-2f3fe55be41b",
+      "time": "2026-07-29 09:25:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "A‑shares opened: Shanghai Composite +0.26%, Shenzhen Composite Index -0.08%, ChiNext +0.19%; Changxin C shares opened -1.06%."
+    },
+    {
+      "id": "5013313",
+      "time": "2026-07-29 09:25:27",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指開盤漲跌不一，滬指漲0.26％，深成指跌0.08％，創業板漲0.19％。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607293824402559",
+      "time": "2026-07-29 09:23:41",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展2065億元7天期逆回購操作，操作利率為1.40%，與上次持平。同時，開展了6000億元隔夜逆回購操作。"
+    },
+    {
+      "id": "5013312",
+      "time": "2026-07-29 09:23:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【叮咚買菜公佈自有品牌目標：叮咚V5今年GMV目標同比增長50%】叮咚買菜宣佈旗下自有品牌叮咚V5將圍繞糧油調味、休閒百貨、乳品酒飲、日配冷凍、烘焙、SC生鮮等六大品類，統一商品開發標準、完成包裝煥新，並透過APP首頁專屬入口等資源持續投入。公司公佈的資料顯示，2026年6月，叮咚買菜自有品牌滲透率達到68.5%，非生鮮自有品牌GMV佔比超35%。目前，叮咚V5擁有200餘支SKU，此次升級將主要圍繞現有商品進行迭代和汰換，在SKU規模基本不變的情況下，預計叮咚V5今年GMV同比增長50%。"
+    },
     {
       "id": "te:markets:570547",
       "time": "2026-07-29 09:22:30",
