@@ -1,7 +1,86 @@
 {
   "date": "2026-07-29",
-  "count": 3054,
+  "count": 3063,
   "items": [
+    {
+      "id": "mkt:019fae91-ce18-7aab-8eef-6f24245ff8d1",
+      "time": "2026-07-29 23:50:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Two security sources said gas storage tanks at Egypt's Damietta port may have been struck in a drone attack."
+    },
+    {
+      "id": "5014882",
+      "time": "2026-07-29 23:49:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩名安全訊息人士：埃及達米埃塔港天然氣儲存罐船疑似遭無人機襲擊。"
+    },
+    {
+      "id": "mkt:019fae90-51ee-7aab-8eef-628c8d7d9922",
+      "time": "2026-07-29 23:48:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yingzhijie Shipping Services said vessels affected by an explosion have been moved outside the port and that other berths and terminals are expected to resume operations overnight."
+    },
+    {
+      "id": "mkt:019fae8f-9d66-7aab-8eef-5892715dd699",
+      "time": "2026-07-29 23:47:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yingzhijie Shipping Services Co. said an explosion occurred at the LNG terminal at Egypt's Damietta port during cargo unloading."
+    },
+    {
+      "id": "5014881",
+      "time": "2026-07-29 23:47:32",
+      "tags": [
+        "公司",
+        "資料",
+        "國際"
+      ],
+      "text": "據英奇角航運服務公司（Inchcape Shipping Services）報告，埃及達米埃塔港（Damietta Port）的液化天然氣（LNG）碼頭在卸貨期間發生爆炸。目前，發生爆炸的船隻已被轉移至遠離港口的區域，相關部門計劃夜間在其他碼頭和終端恢復港口運營。"
+    },
+    {
+      "id": "5014880",
+      "time": "2026-07-29 23:47:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿爾及利亞國民議會選出新議長】阿爾及利亞新一屆國民議會28日舉行首次會議，選舉哈莉達·布費德什為新一任議長。布費德什成為該國歷史上首位女議長。布費德什來自執政黨民族解放陣線，她在本次選舉中獲得302票。（新華社）"
+    },
+    {
+      "id": "5014879",
+      "time": "2026-07-29 23:47:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客：截至 2026 年 6 月末，商用飛機訂單儲備量達 9222 架。預計本財年交付約870架飛機，市場預測為871架。"
+    },
+    {
+      "id": "mkt:019fae8e-a03f-7aab-8eef-5152d42c0b9d",
+      "time": "2026-07-29 23:46:50",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bearish"
+      ],
+      "text": "Airbus still expects to deliver about 870 aircraft in the current fiscal year; market consensus is 871."
+    },
+    {
+      "id": "mkt:019fae8e-9549-7aab-8eef-4b8f9784cf39",
+      "time": "2026-07-29 23:46:47",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Israeli official: Iran still enriching uranium at \"Haoshan\"】An Israeli senior official told the Jerusalem Post that Iran continues to operate centrifuges and conduct uranium enrichment at \"Haoshan.\" The official said Israeli strikes on Iranian nuclear scientists, enrichment facilities, centrifuges and related infrastructure inflicted major but not permanent setbacks on Iran's nuclear program. He warned Israel would not hesitate to act again if Iran attempts to rebuild its nuclear or ballistic-missile capabilities."
+    },
     {
       "id": "mkt:019fae8e-7259-7aab-8eef-47b380c0d205",
       "time": "2026-07-29 23:46:38",
