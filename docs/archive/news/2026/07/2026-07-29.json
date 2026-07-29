@@ -1,7 +1,133 @@
 {
   "date": "2026-07-29",
-  "count": 2800,
+  "count": 2814,
   "items": [
+    {
+      "id": "mkt:019fae1a-152d-7aab-8eeb-abf12be70b30",
+      "time": "2026-07-29 21:39:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Suzhou signs 1,594 projects ≥100 mln yuan in 1H 2026; planned investment 540.5 bln yuan】Suzhou Development and Reform Commission said Suzhou signed 1,594 projects with planned investment ≥100 mln yuan in 1H 2026, totaling 540.5 bln yuan. 1,589 projects (over 99%) are industrial. Project filing rate 33%, construction start rate 50%, statistical inclusion rate 18%, production/utilization rate 25%."
+    },
+    {
+      "id": "5014746",
+      "time": "2026-07-29 21:39:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "TESCO：透過約200名農戶簽訂新的三年合同，加強TESCO可持續牛肉集團。"
+    },
+    {
+      "id": "5014745",
+      "time": "2026-07-29 21:38:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國或將要求部分駐中東部隊交出手機。"
+    },
+    {
+      "id": "te:markets:570795",
+      "time": "2026-07-29 21:38:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Waver on Wednesday — US stock indices fell on Wednesday amid further fragility for chip producers ahead of major tech earnings and the Federal Reserve rate decision. The S&P 500 and the Dow edged lower, while the Dow lost over 400 points to halt its recent outperformance. Microsoft and Meta fell over 0.5% ahead of their earnings reports after the bell, the latest bellwether for AI infrastructure spending. Concerns that AI capital expenditure is being overdone recently pressured magnificent seven stocks and triggered a selloff for chip producers that trimmed their surge late last quarter. Still, memory producers were relatively steady despite pessimistic earnings by SK Hynix. Meanwhile, the Fed is expected to hold rates unchanged, although dissents for a hike could take place amid signs of a fractured FOMC. The Dow was pressured by a flareup in oil prices following fresh strikes between Iran and the US, adding to pro-inflationary risks. Visa traded 1% down despite posting growth in revenue last quarter."
+    },
+    {
+      "id": "mkt:019fae18-a6a5-7aab-8eeb-a2b200ddd6d5",
+      "time": "2026-07-29 21:37:58",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bullish"
+      ],
+      "text": "【Trump to unveil $22 billion Dulles Airport rebuild plan】President Trump plans to unveil a $22 billion rebuild of Washington Dulles Airport, according to people familiar with the matter. The plan will be announced at the White House alongside United Airlines (UAL.O) CEO Scott Kirby and Transportation Secretary Sean Duffy. The proposal includes construction of four new terminals and represents a federal commitment to a comprehensive overhaul of the capital region’s main international gateway. Duffy had confirmed in May that the federal government plans to spend $22 billion on a Dulles renovation. The White House and United Airlines did not immediately comment."
+    },
+    {
+      "id": "5014744",
+      "time": "2026-07-29 21:37:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明略科技－Ｗ：擬以8.59億元收購普聯軟體19.07%股份並變更募資用途】明略科技－Ｗ公告，公司間接全資附屬公司北京明略昭輝科技有限公司與16名賣方訂立股份轉讓協議，擬以總現金代價人民幣8.59億元（每股人民幣11.38元）收購普聯軟體7547.39萬股股份，佔其已發行股本約19.07%。完成後，買方將成為普聯軟體控股股東。同時，董事會決議將全球發售所得款項淨額中合計人民幣4.5億元的未動用款項，從技術研發等用途重新分配至戰略性投資與併購。"
+    },
+    {
+      "id": "5014743",
+      "time": "2026-07-29 21:37:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "IDEX股價觸及20個月高位，此前公司上調財年展望且第二季業績超預期，最新上漲5%。"
+    },
+    {
+      "id": "5014742",
+      "time": "2026-07-29 21:37:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "MASCO CORP股價下跌10%，此前第二季度營收不及預期。"
+    },
+    {
+      "id": "5014741",
+      "time": "2026-07-29 21:37:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將可口可樂目標價從95美元上調至100美元。"
+    },
+    {
+      "id": "mkt:019fae17-5649-7aab-8eeb-9adbc50e5dce",
+      "time": "2026-07-29 21:36:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index falls to four-week low as Capesize and Supramax rates slide】The Baltic Dry Index fell 32 points (-1.2%) to 2,632 on Wednesday, its lowest since July 1, after drops in Capesize and Supramax rates offset a Panamax rise. The Capesize index slid 73 points (1.8%) to 4,067, its weakest since July 21; Capesize daily earnings fell $664 to $33,384. The Panamax index rose 7 points (0.4%) to 1,995, its first gain since July 15; Panamax daily earnings rose $57 to $17,953. The Supramax index dropped 20 points (1.2%) to 1,628, its lowest since June 10."
+    },
+    {
+      "id": "5014740",
+      "time": "2026-07-29 21:36:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股能源股走高，西方石油(OXY.N)漲超4%，阿帕奇石油(APA.N)漲近4%，康菲石油(COP.N)漲3.5%。"
+    },
+    {
+      "id": "mkt:019fae17-0f6f-7aab-8eeb-96df8ae30f92",
+      "time": "2026-07-29 21:36:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "OXY.N",
+        "Impact bullish",
+        "APA.N",
+        "COP.N"
+      ],
+      "text": "U.S. energy stocks rose; Occidental Petroleum (OXY.N) climbed more than 4%, Apache (APA.N) rose nearly 4% and ConocoPhillips (COP.N) gained 3.5%."
+    },
+    {
+      "id": "5014739",
+      "time": "2026-07-29 21:35:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓南部連續發生兩次5級以上地震】據菲律賓火山地震研究所訊息，當地時間29日，菲律賓南部連續發生兩次5級以上地震。（央視新聞）"
+    },
+    {
+      "id": "5014738",
+      "time": "2026-07-29 21:35:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "同業金佰利、高露潔棕欖、高樂氏股價下跌約2%。"
+    },
     {
       "id": "5014737",
       "time": "2026-07-29 21:35:01",
