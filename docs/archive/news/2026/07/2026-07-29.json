@@ -1,7 +1,153 @@
 {
   "date": "2026-07-29",
-  "count": 736,
+  "count": 751,
   "items": [
+    {
+      "id": "mkt:019fab70-d95f-7aab-8ed8-f4c6c566ffd2",
+      "time": "2026-07-29 09:15:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures rose 0.68% at the day-session open to 25,526, trading 219 points above the cash index."
+    },
+    {
+      "id": "5013305",
+      "time": "2026-07-29 09:15:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7899元。"
+    },
+    {
+      "id": "5013304",
+      "time": "2026-07-29 09:15:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲4%，現報85.40美元/桶。"
+    },
+    {
+      "id": "mkt:019fab70-a12b-7aab-8ed8-ee5889167df2",
+      "time": "2026-07-29 09:15:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Nikkei 225",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Taiwan's TAIEX fell more than 2%."
+    },
+    {
+      "id": "5013303",
+      "time": "2026-07-29 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.67%，報25502.52點，高水191.67點。"
+    },
+    {
+      "id": "mkt:019fab70-6231-7aab-8ed8-e3494b2ce1a6",
+      "time": "2026-07-29 09:14:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI slipped below 6,000 points again, with the intraday decline widening to 0.5%."
+    },
+    {
+      "id": "5013302",
+      "time": "2026-07-29 09:14:49",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日元持續下跌 考驗植田和男安撫市場的能力】本週日元將面臨一個關鍵的風險時刻，日本央行行長植田和男將在週五央行政策會議後發表講話。儘管普遍預期日本央行將維持利率不變，但日元交易員將密切關注植田的講話，以防任何可能引發日元進一步下跌的失誤。日元兌美元在6月份下跌至自1986年以來最弱水平，並且本月繼續走弱。日元持續受到油價上漲，對財政政策的擔憂，以及利率差異寬闊的壓力。儘管植田釋放出更清晰的訊號可能有助於穩定日元，但市場參與者提醒稱，這不會引發日元大幅上漲。“如果植田的立場不夠強硬，那麼日元兌美元匯率將繼續走弱，跌破165。”RBC Bluebay首席投資官Mark Dowding表示，“我認為植田會在9月或10月的會議上為加息敞開大門”，但他不太可能足夠鷹派，從而導致日元大幅上漲。"
+    },
+    {
+      "id": "5013301",
+      "time": "2026-07-29 09:14:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌2%至40,763.79點。"
+    },
+    {
+      "id": "5013300",
+      "time": "2026-07-29 09:13:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數(KOSPI)轉跌，回吐早盤3.4%的漲幅。"
+    },
+    {
+      "id": "5013299",
+      "time": "2026-07-29 09:13:45",
+      "tags": [],
+      "text": "韓國KOSPI指數轉跌，SK海力士跌3.2％。"
+    },
+    {
+      "id": "mkt:019fab6f-11c4-7aab-8ed8-daebc5e00a32",
+      "time": "2026-07-29 09:13:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "South Korea's KOSPI turned lower; SK Hynix fell 3.2%."
+    },
+    {
+      "id": "5013298",
+      "time": "2026-07-29 09:13:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年我國物流供給能力穩步增強 行業景氣水平回升】中國物流與採購聯合會今天（29日）公佈今年上半年物流執行資料。上半年，我國物流供給規模穩步提升，供給結構持續最佳化，景氣水平有所回升。從市場規模看，上半年物流業總收入7.2萬億元，同比增長4.7%。從行業景氣情況看，上半年中國物流業景氣指數平均值為49.9%，比一季度平均值回升0.3個百分點，行業景氣水平企穩回升。"
+    },
+    {
+      "id": "mkt:019fab6e-ba4b-7aab-8ed8-d46dd61c17cf",
+      "time": "2026-07-29 09:13:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Commonwealth Bank of Australia: Fed likely to hold rates; one–two dissenters possible】Commonwealth Bank of Australia economist and FX strategist Carol Kong says she expects the FOMC to leave the federal funds rate unchanged, though one or two members may dissent in favor of a hike. She sees a low probability of a majority voting to raise rates and says post-meeting commentary may tilt toward a tighter stance."
+    },
+    {
+      "id": "mkt:019fab6e-429f-7aab-8ed8-cdb4780b2de0",
+      "time": "2026-07-29 09:12:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rose to $85/bbl, up 3.72% intraday."
+    },
+    {
+      "id": "5013297",
+      "time": "2026-07-29 09:12:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲2%，現報4909.00元。"
+    },
     {
       "id": "mkt:019fab6d-a3ba-7aab-8ed8-c47471759d62",
       "time": "2026-07-29 09:11:56",

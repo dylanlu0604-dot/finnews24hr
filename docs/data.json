@@ -1,7 +1,153 @@
 {
-  "updated": "2026-07-29 09:12:28",
-  "count": 17565,
+  "updated": "2026-07-29 09:16:21",
+  "count": 17566,
   "items": [
+    {
+      "id": "mkt:019fab70-d95f-7aab-8ed8-f4c6c566ffd2",
+      "time": "2026-07-29 09:15:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures rose 0.68% at the day-session open to 25,526, trading 219 points above the cash index."
+    },
+    {
+      "id": "5013305",
+      "time": "2026-07-29 09:15:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7899元。"
+    },
+    {
+      "id": "5013304",
+      "time": "2026-07-29 09:15:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲4%，現報85.40美元/桶。"
+    },
+    {
+      "id": "mkt:019fab70-a12b-7aab-8ed8-ee5889167df2",
+      "time": "2026-07-29 09:15:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Nikkei 225",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Taiwan's TAIEX fell more than 2%."
+    },
+    {
+      "id": "5013303",
+      "time": "2026-07-29 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.67%，報25502.52點，高水191.67點。"
+    },
+    {
+      "id": "mkt:019fab70-6231-7aab-8ed8-e3494b2ce1a6",
+      "time": "2026-07-29 09:14:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI slipped below 6,000 points again, with the intraday decline widening to 0.5%."
+    },
+    {
+      "id": "5013302",
+      "time": "2026-07-29 09:14:49",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日元持續下跌 考驗植田和男安撫市場的能力】本週日元將面臨一個關鍵的風險時刻，日本央行行長植田和男將在週五央行政策會議後發表講話。儘管普遍預期日本央行將維持利率不變，但日元交易員將密切關注植田的講話，以防任何可能引發日元進一步下跌的失誤。日元兌美元在6月份下跌至自1986年以來最弱水平，並且本月繼續走弱。日元持續受到油價上漲，對財政政策的擔憂，以及利率差異寬闊的壓力。儘管植田釋放出更清晰的訊號可能有助於穩定日元，但市場參與者提醒稱，這不會引發日元大幅上漲。“如果植田的立場不夠強硬，那麼日元兌美元匯率將繼續走弱，跌破165。”RBC Bluebay首席投資官Mark Dowding表示，“我認為植田會在9月或10月的會議上為加息敞開大門”，但他不太可能足夠鷹派，從而導致日元大幅上漲。"
+    },
+    {
+      "id": "5013301",
+      "time": "2026-07-29 09:14:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌2%至40,763.79點。"
+    },
+    {
+      "id": "5013300",
+      "time": "2026-07-29 09:13:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數(KOSPI)轉跌，回吐早盤3.4%的漲幅。"
+    },
+    {
+      "id": "5013299",
+      "time": "2026-07-29 09:13:45",
+      "tags": [],
+      "text": "韓國KOSPI指數轉跌，SK海力士跌3.2％。"
+    },
+    {
+      "id": "mkt:019fab6f-11c4-7aab-8ed8-daebc5e00a32",
+      "time": "2026-07-29 09:13:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "South Korea's KOSPI turned lower; SK Hynix fell 3.2%."
+    },
+    {
+      "id": "5013298",
+      "time": "2026-07-29 09:13:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年我國物流供給能力穩步增強 行業景氣水平回升】中國物流與採購聯合會今天（29日）公佈今年上半年物流執行資料。上半年，我國物流供給規模穩步提升，供給結構持續最佳化，景氣水平有所回升。從市場規模看，上半年物流業總收入7.2萬億元，同比增長4.7%。從行業景氣情況看，上半年中國物流業景氣指數平均值為49.9%，比一季度平均值回升0.3個百分點，行業景氣水平企穩回升。"
+    },
+    {
+      "id": "mkt:019fab6e-ba4b-7aab-8ed8-d46dd61c17cf",
+      "time": "2026-07-29 09:13:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Commonwealth Bank of Australia: Fed likely to hold rates; one–two dissenters possible】Commonwealth Bank of Australia economist and FX strategist Carol Kong says she expects the FOMC to leave the federal funds rate unchanged, though one or two members may dissent in favor of a hike. She sees a low probability of a majority voting to raise rates and says post-meeting commentary may tilt toward a tighter stance."
+    },
+    {
+      "id": "mkt:019fab6e-429f-7aab-8ed8-cdb4780b2de0",
+      "time": "2026-07-29 09:12:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rose to $85/bbl, up 3.72% intraday."
+    },
+    {
+      "id": "5013297",
+      "time": "2026-07-29 09:12:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲2%，現報4909.00元。"
+    },
     {
       "id": "mkt:019fab6d-a3ba-7aab-8ed8-c47471759d62",
       "time": "2026-07-29 09:11:56",
@@ -160989,137 +161135,6 @@
         "Impact bullish"
       ],
       "text": "Main precious metals futures were stronger: Shanghai gold 2608 +2.20% at 898.58 yuan/gram; Shanghai silver 2610 +4.64% at 14,650 yuan/kg; platinum 2610 +3.42% at 413.2 yuan/gram; palladium 2610 +3.29% at 312.5 yuan/gram."
-    },
-    {
-      "id": "5001149",
-      "time": "2026-07-22 09:15:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【耐克限制批發分銷商的線上銷售 將透過天貓、京東和抖音上的品牌旗艦店進行線上銷售】據報道，隨著這家美國運動服飾巨頭繼續在與本土競爭對手的較量中失利，耐克正試圖透過控制其產品的線上銷售方式，引導消費者前往耐克官方渠道，以此贏回中國消費者的青睞。耐克大中華區副總裁兼總經理凱茜·斯帕克斯表示，透過限制批發分銷商的線上銷售，公司旨在重建與中國消費者的信任，並以全價銷售產品。斯帕克斯透露，從1月起，中國主要運動服飾零售商將停止線上銷售耐克的服裝和鞋類產品，轉而專注於實體店銷售。線上上渠道，耐克的產品將透過中國熱門電商平臺天貓、京東和抖音上的全新耐克品牌數字店鋪，以及耐克官網和 應用程式進行銷售。“我們的市場已經變得過於分散和雜亂，”斯帕克斯表示。這位在公司任職25年的資深高管於今年早些時候被任命負責中國業務。“消費者想要的是高階、忠於品牌、值得信賴，並且數字與實體渠道無縫銜接的購物體驗。”"
-    },
-    {
-      "id": "5001148",
-      "time": "2026-07-22 09:15:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！黃海南部實彈射擊】據中國海事局網站訊息，連雲港海事局釋出航行警告，7月22日10時至13時，黃海南部部分海域進行實彈射擊，禁止駛入。"
-    },
-    {
-      "id": "mkt:019f8764-9327-7aab-8e36-08cd3f7aa537",
-      "time": "2026-07-22 09:15:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Navigation warning: live-fire exercise in southern Yellow Sea】Lianyungang Maritime Safety Administration posted on the China Maritime Safety Administration website a navigational warning: live-fire drills will close parts of the southern Yellow Sea to navigation from July 22 10:00 to 13:00 local time."
-    },
-    {
-      "id": "mkt:019f8764-91dd-7aab-8e36-00b04c4c6051",
-      "time": "2026-07-22 09:15:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures opened the day session down 0.59% at 25,006, trading 125 points below the cash index."
-    },
-    {
-      "id": "mkt:019f8764-7cef-7aab-8e35-fafda5a11c8a",
-      "time": "2026-07-22 09:15:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "NKE.N",
-        "Impact mixed"
-      ],
-      "text": "Topsports International said it received notice from Nike (NKE.N) to terminate its existing online distribution agreement in mainland China and will focus on cooperating with Nike on offline sales."
-    },
-    {
-      "id": "5001147",
-      "time": "2026-07-22 09:15:31",
-      "tags": [
-        "觀點"
-      ],
-      "text": "中國人民銀行定於2026年7月27日發行北京中軸線金銀紀念幣一套。該套金銀紀念幣共6枚，其中金質紀念幣1枚，銀質紀念幣5枚，均為中華人民共和國法定貨幣。"
-    },
-    {
-      "id": "5001146",
-      "time": "2026-07-22 09:15:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7933元，下調16.00點。"
-    },
-    {
-      "id": "5001145",
-      "time": "2026-07-22 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤跌0.61%，報25003.00點，低水129.29點。"
-    },
-    {
-      "id": "5001144",
-      "time": "2026-07-22 09:14:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4120美元/盎司，日內漲1.05%。"
-    },
-    {
-      "id": "mkt:019f8763-c918-7aab-8e35-f088cfbd3f17",
-      "time": "2026-07-22 09:14:51",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Spot gold rose more than 1% intraday, trading above $4,120/oz."
-    },
-    {
-      "id": "mkt:019f8763-1893-7aab-8e35-eebd5edb9e02",
-      "time": "2026-07-22 09:14:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hanwei Technology: pipeline sensor orders booked through year-end; policy tailwinds continue】Hanwei Technology said chairman Ren Hongjun reported pipeline-related sensor orders are booked through year-end and 1H order growth for related products was generally above 30%. China’s urban underground pipeline investment rose markedly in the 15th Five-Year Plan versus the 14th, and ongoing smart upgrade work is providing sustained incremental demand for sensors, instruments and AI/information firms; policy benefits are still unfolding."
-    },
-    {
-      "id": "mkt:019f8762-e5bd-7aab-8e35-e56fe529a180",
-      "time": "2026-07-22 09:13:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Wistron said its Texas plant will involve a $700 million investment and will cover 324,000 sq ft."
-    },
-    {
-      "id": "5001143",
-      "time": "2026-07-22 09:13:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉強震遇難人數升至5346人】當地時間21日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報，該國6月24日發生的兩次強震造成遇難人數上升至5346人，受傷人數為16740人，強震之後發生餘震1405次。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f8762-85b7-7aab-8e35-daec77b05194",
-      "time": "2026-07-22 09:13:28",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "Wistron Group said it will also produce NVIDIA (NVDA.O) Vera Rubin chips at its Texas plant."
     }
   ]
 }
