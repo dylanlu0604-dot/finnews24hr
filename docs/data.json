@@ -1,7 +1,192 @@
 {
-  "updated": "2026-07-29 18:58:01",
-  "count": 17506,
+  "updated": "2026-07-29 19:01:54",
+  "count": 17508,
   "items": [
+    {
+      "id": "mkt:019fad89-226f-7aab-8ee8-5dce0628e614",
+      "time": "2026-07-29 19:01:13",
+      "tags": [
+        "MKT News",
+        "F.N",
+        "Impact bullish"
+      ],
+      "text": "Deutsche Bank raises Ford Motor (F.N) PT to $16 from $15."
+    },
+    {
+      "id": "mkt:019fad88-fe6c-7aab-8ee8-51cb8750c32e",
+      "time": "2026-07-29 19:01:04",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "Deutsche Bank raised its price target for Boeing (BA.N) to $248 from $244."
+    },
+    {
+      "id": "5014442",
+      "time": "2026-07-29 19:00:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "寶潔公司：預計 2027 財年有機營收增速 1% 至 3%，市場一致預期 2.44%。"
+    },
+    {
+      "id": "5014441",
+      "time": "2026-07-29 19:00:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國競爭與市場管理局（CMA）啟動對麥格理資產管理公司收購能源資產集團交易的調查。"
+    },
+    {
+      "id": "5014440",
+      "time": "2026-07-29 19:00:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東京電子：正努力恢復全面生產】東京電子表示，地震後建築物未遭受重大損害，正努力恢復全面生產。"
+    },
+    {
+      "id": "5014439",
+      "time": "2026-07-29 19:00:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至7月24日當週MBA抵押貸款再融資活動指數 723.1，前值802.3。美國至7月24日當週MBA抵押貸款申請活動指數 247.2，前值264。美國至7月24日當週MBA抵押貸款購買指數 159.8，前值165.8。美國至7月24日當週MBA30年期固定抵押貸款利率 6.76%，前值6.69%。"
+    },
+    {
+      "id": "mkt:019fad88-2d56-7aab-8ee8-4ebe890fd23f",
+      "time": "2026-07-29 19:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US MBA 30-year fixed mortgage rate for the week through July 24 rose to 6.76% from 6.69%."
+    },
+    {
+      "id": "mkt:019fad88-2343-7aab-8ee8-417a267143ab",
+      "time": "2026-07-29 19:00:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US MBA mortgage applications index fell to 247.2 for the week ended July 24 from 264 the prior week."
+    },
+    {
+      "id": "mkt:019fad88-21ff-7aab-8ee8-3a4b08d2414a",
+      "time": "2026-07-29 19:00:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US MBA mortgage purchase index for the week to July 24 159.8, down from 165.8."
+    },
+    {
+      "id": "mkt:019fad88-219a-7aab-8ee8-30695170a107",
+      "time": "2026-07-29 19:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US MBA mortgage refinancing activity index for the week ending July 24: 723.1, prior 802.3."
+    },
+    {
+      "id": "mkt:019fad88-05e8-7aab-8ee8-2d2d4bffe3e0",
+      "time": "2026-07-29 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA 30-Year Mortgage Rate (Jul.24) | actual 6.76% | previous 6.69%"
+    },
+    {
+      "id": "mkt:019fad88-0594-7aab-8ee8-22d5e8ef9fbf",
+      "time": "2026-07-29 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Purchase Index (Jul.24) | actual 159.8 | previous 165.8"
+    },
+    {
+      "id": "mkt:019fad88-0592-7aab-8ee8-1feece25de5b",
+      "time": "2026-07-29 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Applications Composite Index (Jul.24) | actual 247.2 | previous 264"
+    },
+    {
+      "id": "mkt:019fad88-0585-7aab-8ee8-135e09c1a453",
+      "time": "2026-07-29 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Refinance Index (Jul.24) | actual 723.1 | previous 802.3"
+    },
+    {
+      "id": "5014438",
+      "time": "2026-07-29 18:59:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部強烈譴責美沙對伊拉克的侵略性襲擊】7月29日，伊朗外交部發表宣告，以最強烈的措辭譴責美國和沙烏地阿拉伯對伊拉克部分地區發動的侵略性襲擊。宣告指出，此次襲擊不僅針對伊拉克官方機構的設施和場所，還波及了阿爾巴因朝聖者的帳篷和站點。伊朗外交部在宣告中強調，這些襲擊是對伊拉克國家主權和領土完整的公然侵犯，嚴重違反了《聯合國憲章》第二條第四款及國際法的基本準則。宣告認為，此舉符合美國及以色列政權在西亞地區擴大戰爭與衝突範圍的圖謀。伊朗外交部向在此次侵略性襲擊中遇難的伊拉克民眾表示深切哀悼，並重申伊朗伊斯蘭共和國對伊拉克政府及人民的堅定支援與團結。宣告同時指出，好戰的美國政權及其在該地區的同夥，必須為這些危險、反人類及具有煽動性的犯罪行徑所引發的一切嚴重後果承擔全部責任。"
+    },
+    {
+      "id": "5014437",
+      "time": "2026-07-29 18:58:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡布裡環球資本有限公司旗下卡布裡貸款與OpenAI展開合作，將企業級人工智慧應用於借貸業務運營。"
+    },
+    {
+      "id": "5014436",
+      "time": "2026-07-29 18:58:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧波韻升：擬回購5000萬至1億元股份用於員工持股計劃】寧波韻升公告稱，公司擬以集中競價交易方式回購股份，資金總額為5000萬元至1億元，用於實施員工持股計劃。回購價格不超過19.68元/股，回購期限自董事會審議透過之日（7月27日）起4個月內。截至董事會決議日，公司董監高、控股股東等未來3個月、6個月暫不存在減持計劃。本次回購不會對公司經營、財務和未來發展產生重大影響，但存在股價超出回購區間、方案變更或終止、已回購股票無法授出等風險。"
+    },
+    {
+      "id": "mkt:019fad86-6649-7aab-8ee8-0f77d734b703",
+      "time": "2026-07-29 18:58:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "According to Iranian state TV, an official said a US missile struck Piranshahr in northwest Iran; no casualties reported."
+    },
+    {
+      "id": "5014435",
+      "time": "2026-07-29 18:57:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體援引一名官員的訊息稱，一枚美國炮彈擊中了伊朗西北部的皮蘭沙赫爾市，目前沒有人員傷亡。"
+    },
+    {
+      "id": "5014434",
+      "time": "2026-07-29 18:57:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長同歐盟外交與安全政策高階代表通電話，就地區局勢等交換意見】7月29日，伊朗外交部長阿拉格齊同歐盟外交與安全政策高階代表卡拉斯通電話，雙方就地區和國際最新形勢交換了意見。阿拉格齊在通話中闡述了伊朗對當前地區局勢的立場和關切，並介紹了伊朗同阿曼方面正在進行的磋商情況。雙方還就霍爾木茲海峽局勢進行了溝通。針對歐盟近期就法國駐德黑蘭使館人員問題發表的宣告，阿拉格齊予以嚴正駁斥，指出歐盟此舉是對法方人員違規行為的袒護，嚴重違背1961年《維也納外交關係公約》的相關規定。此外，阿拉格齊還提及日前同烏克蘭外長瑟比加的通話情況。他表示，儘管烏方在通話中聲稱襲擊伊朗商船系“非故意”行為，但鑑於烏克蘭總統澤連斯基此前已公開承認對此次襲擊負責，烏方所謂“非故意”的說法站不住腳。阿拉格齊強調，烏克蘭方面必須就此次導致伊朗公民傷亡及商船損毀的非法行為承擔全部責任。"
+    },
     {
       "id": "5014433",
       "time": "2026-07-29 18:56:58",
@@ -160513,174 +160698,6 @@
         "國際"
       ],
       "text": "【伊朗外交部發言人：伊朗“鎬山”並無核活動】伊朗外交部發言人巴加埃22日說，伊朗“鎬山”並無核活動，“美國對‘鎬山’的執迷關注不過是為其侵略、摧毀和蓄意破壞所編造的藉口”。（新華社）"
-    },
-    {
-      "id": "5002303",
-      "time": "2026-07-22 19:01:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【御風未來2噸級載人eVTOL M1空中醫療救護車任務驗證機首次亮相】以“馭低空新勢，啟經濟新篇”為主題的2026國際低空經濟博覽會7月22日在上海開幕。御風未來自主研發的2噸級載人eVTOL M1空中醫療救護車任務驗證機首次亮相。據介紹，該驗證機是御風未來與瑞金醫院合作探索低空醫療領域取得的階段性創新成果。"
-    },
-    {
-      "id": "5002302",
-      "time": "2026-07-22 19:01:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE-100指數收盤下跌0.8%，報174916.70點。"
-    },
-    {
-      "id": "5002301",
-      "time": "2026-07-22 19:00:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "菲利普莫里斯預計全年調整後每股收益為8.26至8.41美元。"
-    },
-    {
-      "id": "5002300",
-      "time": "2026-07-22 19:00:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【霆泉私募及其股東擬1億元申購旗下基金產品】7月22日，北京霆泉私募基金管理有限公司公告稱，基於中國資本市場長期向好的基本面以及對公司投資管理能力的信心，公司及公司股東計劃使用自有資金1億元申購公司旗下基金產品。"
-    },
-    {
-      "id": "5002299",
-      "time": "2026-07-22 19:00:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "西門子能源股價急轉直下，下跌6.5%。"
-    },
-    {
-      "id": "5002298",
-      "time": "2026-07-22 19:00:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國至7月17日當週MBA抵押貸款再融資活動指數 802.3，前值821.9。\n美國至7月17日當週MBA抵押貸款購買指數 165.8，前值157.2。\n美國至7月17日當週MBA抵押貸款申請活動指數 264，前值259.1。\n美國至7月17日當週MBA30年期固定抵押貸款利率 6.69%，前值6.65%。"
-    },
-    {
-      "id": "mkt:019f897b-b835-7aab-8e46-910e3ab35137",
-      "time": "2026-07-22 19:00:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US MBA 30-year fixed mortgage rate 6.69% for the week to July 17, up from 6.65%."
-    },
-    {
-      "id": "mkt:019f897b-a373-7aab-8e46-881695cea757",
-      "time": "2026-07-22 19:00:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US MBA mortgage applications index for the week ended July 17 rose to 264 from 259.1 the prior week."
-    },
-    {
-      "id": "mkt:019f897b-a17e-7aab-8e46-85be14fc3513",
-      "time": "2026-07-22 19:00:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. MBA mortgage-refinance index for week ended July 17: 802.3, prior 821.9."
-    },
-    {
-      "id": "mkt:019f897b-9f26-7aab-8e46-796d6921a7e6",
-      "time": "2026-07-22 19:00:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "US MBA mortgage purchase index for the week to July 17 rose to 165.8 from 157.2 the prior week."
-    },
-    {
-      "id": "5002297",
-      "time": "2026-07-22 19:00:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲利普莫里斯：迄今為止，中東衝突對業務的影響較小，如預期那般，其影響主要集中在運輸、能源及其他投入成本端。"
-    },
-    {
-      "id": "mkt:019f897b-8137-7aab-8e46-75308cbce840",
-      "time": "2026-07-22 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Applications Composite Index (Jul.17) | actual 264 | previous 259.1"
-    },
-    {
-      "id": "mkt:019f897b-8124-7aab-8e46-5acfe8e920b4",
-      "time": "2026-07-22 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA 30-Year Mortgage Rate (Jul.17) | actual 6.69% | previous 6.65%"
-    },
-    {
-      "id": "mkt:019f897b-8127-7aab-8e46-64a13f8ee3d5",
-      "time": "2026-07-22 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Purchase Index (Jul.17) | actual 165.8 | previous 157.2"
-    },
-    {
-      "id": "mkt:019f897b-8136-7aab-8e46-6ab92d0b365f",
-      "time": "2026-07-22 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Refinance Index (Jul.17) | actual 802.3 | previous 821.9"
-    },
-    {
-      "id": "5002296",
-      "time": "2026-07-22 18:59:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "越南警方擴大走私鑽石案件調查範圍，前SJC負責人涉案。"
-    },
-    {
-      "id": "mkt:019f897a-43c8-7aab-8e46-5000412ed9ea",
-      "time": "2026-07-22 18:58:39",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "According to TASNIM NEWS, Iran attacked U.S. assets at the Al-Faisal and Prince Hassan bases in Jordan."
-    },
-    {
-      "id": "5002295",
-      "time": "2026-07-22 18:58:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【量化私募經歷淨值大幅回撤一週 本週有所修復】量化私募產品上週的整體回撤頗受市場關注。記者瞭解到，上週中證500、1000、2000等相關指增私募產品上週平均回撤均超過10%，甚至達到15%左右。對此，有業內人士向記者表示，上週量化私募確實普遍回撤較多，一些帶有偏科技風格的量化產品回撤幅度會更大，甚至出現單週淨值回撤超過20%的情況，部分超額收益也轉為負數。也有私募創始人直言，“上週是量化私募繼2024年1月、2024年9月底以來，第三難受的一週。”記者進一步調查來看，隨著本週行情反彈，量化私募產品此前的淨值回撤略有修復。各傢俬募也在密集發聲，覆盤回撤併回應後市。"
     }
   ]
 }
