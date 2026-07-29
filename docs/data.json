@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-29 23:07:42",
-  "count": 17464,
+  "updated": "2026-07-29 23:11:34",
+  "count": 17461,
   "items": [
+    {
+      "id": "mkt:019fae6d-a611-7aab-8eee-6d84ba47d0b4",
+      "time": "2026-07-29 23:10:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Al Arabiya TV reported Israel's national election is scheduled for Oct. 27; recent polls suggest Prime Minister Netanyahu may lose."
+    },
+    {
+      "id": "5014858",
+      "time": "2026-07-29 23:10:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）：美國四周平均航空燃油供應量上週創下歷史新高。"
+    },
+    {
+      "id": "5014857",
+      "time": "2026-07-29 23:09:24",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【高盛和摩根士丹利股價大跌 因人工智慧擔憂和美聯儲決議不確定性】高盛和摩根士丹利週三領跌大型銀行股，原因是SK海力士業績疲軟後，市場對人工智慧的擔憂持續，同時將於當天晚些時候公佈的美聯儲利率決議存在不確定性。美國總統唐納德·特朗普表示美國將猛烈打擊伊朗後，大盤也隨之下跌。個股方面，高盛一度下跌4.2%；摩根士丹利下跌3.3%，花旗集團下跌3.2%，摩根大通下跌2.4%。分析師表示，股價下跌“可能反映出美聯儲決議公佈前的不確定性；此外，銀行股近期表現優異，因此今天出現了一定程度的回撥”。"
+    },
+    {
+      "id": "mkt:019fae6b-b351-7aab-8eee-65f9a35516d0",
+      "time": "2026-07-29 23:08:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said a US Air Force F-16 was patrolling over the Middle East. The F-16 is capable of air-to-air combat, air-to-ground strikes, tactical reconnaissance and close air support."
+    },
+    {
+      "id": "5014856",
+      "time": "2026-07-29 23:08:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國多地遭遇高溫 首爾市釋出高溫預警】韓國多地29日遭遇高溫。梁山市當天午後出現40.3攝氏度高溫，創下2008年以來最高氣溫紀錄。釜山市當天午後測得38.8攝氏度氣溫，創下1904年有氣象記錄以來最高溫紀錄。（央視新聞）"
+    },
     {
       "id": "mkt:019fae69-3df3-7aab-8eee-58f2b99393e0",
       "time": "2026-07-29 23:06:00",
@@ -160350,73 +160394,6 @@
         "其他"
       ],
       "text": "【微生物所李明團隊合作揭示CRISPR-Cas調控細菌先天免疫的協同新機制】7月22日，中國科學院微生物研究所（簡稱“微生物所”）李明團隊和密歇根大學張燕團隊合作，在Nature上發表題為“CRISPR-Cas regulates expression of embedded anti-phage defence systems”的研究論文。該研究首次系統揭示了原核生物中適應性免疫與先天免疫之間的協同調控機制，為理解生命免疫系統的演化與互作提供了全新視角。該研究不僅在原核生命層面首次提出了兩種免疫相互協同和守衛的理論框架，而且基於該原創理論建立了新型免疫系統的全新發掘路徑，並系統性鑑定出一系列新型免疫元件，包括原核Caspase蛋白酶、新型核酸酶等。這些新元件的發現，不僅為深入理解和干預高等生命的先天免疫提供了新知識和新工具，也有望為底層分子技術的創新提供關鍵元件資源。"
-    },
-    {
-      "id": "5002782",
-      "time": "2026-07-22 23:09:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：儘管外部勢力企圖擾亂能源行業及其他領域局勢，但俄羅斯經濟關鍵行業保持穩定。"
-    },
-    {
-      "id": "5002781",
-      "time": "2026-07-22 23:09:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：想再次強調，燃料市場當下出現的困難無疑是暫時性的，不會改變俄羅斯整體經濟執行態勢。"
-    },
-    {
-      "id": "mkt:019f8a5f-2a05-7aab-8e4c-89a43848c0bd",
-      "time": "2026-07-22 23:08:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. Trade Representative Greer said trade tools could be used to phase in protection for U.S. domestic iron ore and ironstone production to reduce reliance on foreign steel feedstocks."
-    },
-    {
-      "id": "5002780",
-      "time": "2026-07-22 23:08:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國科學家構建出拓撲光子的多通道“高速公路”】拓撲光子波導是下一代光量子計算、高速光通訊及高整合度光子積體電路的關鍵使能技術。東南大學毫米波全國重點實驗室聯合南京大學、香港科技大學研究團隊近期取得重要原創進展，提出並實現了一種新型無絕緣體拓撲光子波導，構建出拓撲光子的多通道“高速公路”。相關研究成果7月22日發表於《自然》雜誌。（新華社）"
-    },
-    {
-      "id": "mkt:019f8a5f-132a-7aab-8e4c-84c502d041d0",
-      "time": "2026-07-22 23:08:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chinese scientists build multichannel topological-photon 'highway'】Researchers at Southeast University's National Key Laboratory for Millimeter Waves, with Nanjing University and Hong Kong University of Science and Technology, demonstrated an insulator-free topological photonic waveguide that enables multichannel routing of topological photons. The structure is presented as a key enabling technology for next‑generation photonic quantum computing, high‑speed optical communications and highly integrated photonic integrated circuits; results published in Nature on July 22."
-    },
-    {
-      "id": "5002779",
-      "time": "2026-07-22 23:08:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：在一次安全測試期間，一個OpenAI智慧體突破限制，入侵了另一家人工智慧初創企業。OpenAI稱這是一起“前所未有的網路安全事件”。"
-    },
-    {
-      "id": "mkt:019f8a5e-c660-7aab-8e4c-7d12646b1170",
-      "time": "2026-07-22 23:08:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China develops perovskite photovoltaic cell with 'electronic resonance' structure】Researchers at Suzhou University (Li Yaowen, Chen Xiankai) and Southeast University (Zhang Tiankai) proposed an 'electronic resonance' strategy to address low efficiency and poor stability in flexible perovskite photovoltaic cells. The results were published online in Nature on the 22nd. The team describes perovskite PV as a next‑generation, lightweight, thin and flexible technology with applications from space-station and deep‑space base power to clothing- and skin-mounted devices that can generate electricity wherever sunlight is available."
-    },
-    {
-      "id": "5002778",
-      "time": "2026-07-22 23:07:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：可適時分階段啟用貿易工具保護國內鐵礦石與鐵燧巖產能，以降低對外國鋼材投入品的依賴。"
     }
   ]
 }

@@ -1,7 +1,51 @@
 {
   "date": "2026-07-29",
-  "count": 3002,
+  "count": 3007,
   "items": [
+    {
+      "id": "mkt:019fae6d-a611-7aab-8eee-6d84ba47d0b4",
+      "time": "2026-07-29 23:10:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Al Arabiya TV reported Israel's national election is scheduled for Oct. 27; recent polls suggest Prime Minister Netanyahu may lose."
+    },
+    {
+      "id": "5014858",
+      "time": "2026-07-29 23:10:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）：美國四周平均航空燃油供應量上週創下歷史新高。"
+    },
+    {
+      "id": "5014857",
+      "time": "2026-07-29 23:09:24",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【高盛和摩根士丹利股價大跌 因人工智慧擔憂和美聯儲決議不確定性】高盛和摩根士丹利週三領跌大型銀行股，原因是SK海力士業績疲軟後，市場對人工智慧的擔憂持續，同時將於當天晚些時候公佈的美聯儲利率決議存在不確定性。美國總統唐納德·特朗普表示美國將猛烈打擊伊朗後，大盤也隨之下跌。個股方面，高盛一度下跌4.2%；摩根士丹利下跌3.3%，花旗集團下跌3.2%，摩根大通下跌2.4%。分析師表示，股價下跌“可能反映出美聯儲決議公佈前的不確定性；此外，銀行股近期表現優異，因此今天出現了一定程度的回撥”。"
+    },
+    {
+      "id": "mkt:019fae6b-b351-7aab-8eee-65f9a35516d0",
+      "time": "2026-07-29 23:08:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said a US Air Force F-16 was patrolling over the Middle East. The F-16 is capable of air-to-air combat, air-to-ground strikes, tactical reconnaissance and close air support."
+    },
+    {
+      "id": "5014856",
+      "time": "2026-07-29 23:08:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國多地遭遇高溫 首爾市釋出高溫預警】韓國多地29日遭遇高溫。梁山市當天午後出現40.3攝氏度高溫，創下2008年以來最高氣溫紀錄。釜山市當天午後測得38.8攝氏度氣溫，創下1904年有氣象記錄以來最高溫紀錄。（央視新聞）"
+    },
     {
       "id": "mkt:019fae69-3df3-7aab-8eee-58f2b99393e0",
       "time": "2026-07-29 23:06:00",
