@@ -1,7 +1,157 @@
 {
   "date": "2026-07-29",
-  "count": 1020,
+  "count": 1037,
   "items": [
+    {
+      "id": "te:markets:570577",
+      "time": "2026-07-29 10:28:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Hit 8-week High — The Hang Seng Index climbed 1.5%, or 385 points, to 25,692 on Wednesday, reaching its highest level in eight weeks as technology shares extended their gains. Investor sentiment improved as concerns over AI-related valuations eased, while markets positioned ahead of the US Federal Reserve's policy decision and earnings from major US technology companies. Investor sentiment was also supported by reports that fast-fashion giant Shein is targeting a Hong Kong IPO at a valuation of US$40 billion to US$50 billion, boosting confidence over the city's capital markets. Meanwhile, renewed geopolitical tensions in the Middle East kept oil prices elevated, fueling concerns over inflation and the interest rate outlook. Despite these headwinds, bargain hunting helped support regional equities, particularly technology shares. Notable movers were Xiaomi (6.65), Li Auto (10.1%), Tencent (1.6%), Z.AI Co. (1.2%), and Meituan (2.0%)."
+    },
+    {
+      "id": "mkt:019fabb3-a4d9-7aab-8edb-d7a089b9827d",
+      "time": "2026-07-29 10:28:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC recorded a magnitude-3.8 earthquake at 10:23 on July 29 in Xinghai County, Hainan Prefecture, Qinghai (35.34°N, 99.54°E); focal depth 9 km."
+    },
+    {
+      "id": "5013482",
+      "time": "2026-07-29 10:28:17",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【臺當局拒上海派員參加小熊貓見面儀式 國臺辦回應】國務院臺辦舉行例行新聞釋出會。有記者問，今天，臺北市舉辦“小熊貓與臺北市民見面儀式”，上海市原擬派代表團赴臺參加，卻因民進黨當局拒絕代表團團長等入境申請，無法成行。請問對此有何評論？發言人陳斌華答問表示，上海臺北城市論壇作為上海與臺北兩市間重要的機制化交流平臺，為促進兩市各領域交流合作發揮了積極作用，成果有目共睹。小熊貓赴臺，受到臺灣同胞的廣泛歡迎。民進黨當局竟對上海贈送方派員參加見面儀式無理刁難、無理拒絕，充分暴露其“臺獨”本性和對抗思維。我們對此予以譴責。民進黨當局動輒阻撓限制兩岸正常交流合作、破壞兩岸關係的做法，完全違背島內主流民意，必遭臺灣民眾反對與唾棄。"
+    },
+    {
+      "id": "5013481",
+      "time": "2026-07-29 10:28:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月29日10時23分在青海海南州興海縣（北緯35.34度，東經99.54度）發生3.8級地震，震源深度9千米。"
+    },
+    {
+      "id": "5013480",
+      "time": "2026-07-29 10:27:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊震盪回升 三變科技漲停】電網裝置板塊震盪回升，三變科技漲停，中辰股份漲超10%，雙傑電氣、紅相股份、大連電瓷、海興電力、順鈉股份等跟漲。"
+    },
+    {
+      "id": "5013479",
+      "time": "2026-07-29 10:27:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【合肥：上半年地區生產總值（GDP）7073億元 同比增長6.8%】合肥市統計局釋出2026年上半年合肥市經濟執行情況，根據地區生產總值統一核算結果，上半年，全市地區生產總值（GDP）7073億元，按不變價格計算，同比增長6.8%。分產業看，第一產業增加值118.8億元，增長2.2%；第二產業增加值2552.4億元，增長10.3%；第三產業增加值4401.8億元，增長5.0%。"
+    },
+    {
+      "id": "5013478",
+      "time": "2026-07-29 10:27:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "創業板指探底回升翻紅，此前一度跌超2.3%。"
+    },
+    {
+      "id": "mkt:019fabb2-6279-7aab-8edb-cff3720552c2",
+      "time": "2026-07-29 10:27:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Bank Indonesia said it will strengthen monetary policy tools to support rupiah stability."
+    },
+    {
+      "id": "mkt:019fabb2-5aa6-7aab-8edb-c6da1c4db5e4",
+      "time": "2026-07-29 10:27:00",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "【Ministry of Finance to issue RMB15 bln sovereign bond in Hong Kong on Aug 5】China's Ministry of Finance will issue the fourth 2026 tranche of RMB-denominated government bonds in the Hong Kong SAR on August 5, sized at RMB15 billion. Final issuance arrangements will be published on the Hong Kong Monetary Authority's Central Moneymarkets Unit (CMU)."
+    },
+    {
+      "id": "mkt:019fabb2-2898-7aab-8edb-bec968c3d19a",
+      "time": "2026-07-29 10:26:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【Counterpoint Research: Q2 smartphone memory prices >80% QoQ】Counterpoint Research's memory-price tracker shows smartphone memory prices rose more than 80% QoQ in Q2 2026. The surge is producing a sustained, structural increase in smartphone BOM costs; flagship BOMs are nearly 50% higher YoY, with DRAM now the single most expensive component, overtaking the SoC. Introduction of 2nm flagship SoCs will add further upward pressure on BOMs; even if OEMs raise retail prices, aggregate gross margins are expected to remain slightly below 2025 same‑generation flagships."
+    },
+    {
+      "id": "5013477",
+      "time": "2026-07-29 10:26:44",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "財政部將於8月5日在香港發行人民幣國債，發行規模為150億元。"
+    },
+    {
+      "id": "mkt:019fabb2-1383-7aab-8edb-b783ad719c31",
+      "time": "2026-07-29 10:26:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's National Intellectual Property Administration: 83 national-level IP protection centers and 54 rapid rights-protection centers established nationwide】China's National Intellectual Property Administration said it has established 83 national-level IP protection centers and 54 rapid rights-protection centers nationwide, forming a balanced, tiered rapid collaborative protection network. The centers offer one-stop IP services to innovation entities in locally advantaged industries, including rapid pre-examination, expedited rights confirmation and swift enforcement."
+    },
+    {
+      "id": "mkt:019fabb2-1088-7aab-8edb-a946ea62cc10",
+      "time": "2026-07-29 10:26:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Capital Economics: softer-than-expected Australian CPI likely to keep Reserve Bank of Australia on hold】Capital Economics economist Abhijit Surya said softer-than-expected Australian inflation will likely keep the Reserve Bank of Australia on the sidelines. With core inflation unexpectedly down in Q2, the RBA is unlikely to feel immediate pressure to hike; the data could prompt it to keep rates unchanged at the August meeting."
+    },
+    {
+      "id": "5013476",
+      "time": "2026-07-29 10:26:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "輸變電裝置板塊短線拉昇，中電鑫龍漲停，雙傑電氣、三變科技、億能電力、和順電氣、金盤科技等跟漲。"
+    },
+    {
+      "id": "5013475",
+      "time": "2026-07-29 10:26:11",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家智慧財產權局：目前已在全國建設國家級智慧財產權保護中心83家和快維中心54家】國家智慧財產權局在國務院新聞辦公室舉行的釋出會上介紹，積極推進智慧財產權快速協同保護工作。目前，已經在全國佈局建設83家國家級智慧財產權保護中心和54家快速維權中心，形成了佈局均衡、分層分類、導向鮮明的快速協同保護網路，為地方優勢產業創新主體提供快速預審、快速確權、快速維權等“一站式”智慧財產權保護綜合服務。國家智慧財產權局表示，“十五五”時期，將進一步高質量建設國家級智慧財產權保護中心和快維中心，推動工作機制更加協調完善，預審授權更加優質精準，維權援助更加及時規範，協同保護更加順暢高效，深度融入國家重大戰略實施，更加有力服務重點產業創新升級，支撐經濟社會高質量發展。"
+    },
+    {
+      "id": "5013474",
+      "time": "2026-07-29 10:25:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：Q2智慧手機記憶體價格環比增長80%以上】根據CounterpointResearch記憶體價格跟蹤，智慧手機記憶體價格在2026年第二季度環比增長了80%以上。這種顯著的增長對智慧手機BOM成本造成了持續的結構性影響。旗艦級別機型的BOM成本同比增長了接近50%，DRAM超越SoC，成為旗艦智慧手機中最昂貴的單一元器件。未來2nm旗艦SoC的匯入將進一步推高旗艦機型的BOM成本。即便OEM上調終端零售價格，預計其整體毛利率仍將略低於2025年同代旗艦產品的水平。"
+    },
+    {
+      "id": "5013473",
+      "time": "2026-07-29 10:25:12",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【“每萬人口高價值發明專利擁有量”再次列入“十五五”主要指標】今天（29日），國家智慧財產權局在國務院新聞辦公室舉行的釋出會上介紹，國家“十五五”規劃《綱要》繼續將“每萬人口高價值發明專利擁有量”列入國家經濟社會發展主要指標，充分彰顯了我國堅持創新驅動、加快發展新質生產力的戰略定力。"
+    },
     {
       "id": "mkt:019fabb0-5e1d-7aab-8edb-a367f012be42",
       "time": "2026-07-29 10:24:50",

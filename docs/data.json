@@ -1,7 +1,157 @@
 {
-  "updated": "2026-07-29 10:25:40",
-  "count": 17623,
+  "updated": "2026-07-29 10:29:32",
+  "count": 17630,
   "items": [
+    {
+      "id": "te:markets:570577",
+      "time": "2026-07-29 10:28:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Hit 8-week High — The Hang Seng Index climbed 1.5%, or 385 points, to 25,692 on Wednesday, reaching its highest level in eight weeks as technology shares extended their gains. Investor sentiment improved as concerns over AI-related valuations eased, while markets positioned ahead of the US Federal Reserve's policy decision and earnings from major US technology companies. Investor sentiment was also supported by reports that fast-fashion giant Shein is targeting a Hong Kong IPO at a valuation of US$40 billion to US$50 billion, boosting confidence over the city's capital markets. Meanwhile, renewed geopolitical tensions in the Middle East kept oil prices elevated, fueling concerns over inflation and the interest rate outlook. Despite these headwinds, bargain hunting helped support regional equities, particularly technology shares. Notable movers were Xiaomi (6.65), Li Auto (10.1%), Tencent (1.6%), Z.AI Co. (1.2%), and Meituan (2.0%)."
+    },
+    {
+      "id": "mkt:019fabb3-a4d9-7aab-8edb-d7a089b9827d",
+      "time": "2026-07-29 10:28:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC recorded a magnitude-3.8 earthquake at 10:23 on July 29 in Xinghai County, Hainan Prefecture, Qinghai (35.34°N, 99.54°E); focal depth 9 km."
+    },
+    {
+      "id": "5013482",
+      "time": "2026-07-29 10:28:17",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【臺當局拒上海派員參加小熊貓見面儀式 國臺辦回應】國務院臺辦舉行例行新聞釋出會。有記者問，今天，臺北市舉辦“小熊貓與臺北市民見面儀式”，上海市原擬派代表團赴臺參加，卻因民進黨當局拒絕代表團團長等入境申請，無法成行。請問對此有何評論？發言人陳斌華答問表示，上海臺北城市論壇作為上海與臺北兩市間重要的機制化交流平臺，為促進兩市各領域交流合作發揮了積極作用，成果有目共睹。小熊貓赴臺，受到臺灣同胞的廣泛歡迎。民進黨當局竟對上海贈送方派員參加見面儀式無理刁難、無理拒絕，充分暴露其“臺獨”本性和對抗思維。我們對此予以譴責。民進黨當局動輒阻撓限制兩岸正常交流合作、破壞兩岸關係的做法，完全違背島內主流民意，必遭臺灣民眾反對與唾棄。"
+    },
+    {
+      "id": "5013481",
+      "time": "2026-07-29 10:28:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月29日10時23分在青海海南州興海縣（北緯35.34度，東經99.54度）發生3.8級地震，震源深度9千米。"
+    },
+    {
+      "id": "5013480",
+      "time": "2026-07-29 10:27:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊震盪回升 三變科技漲停】電網裝置板塊震盪回升，三變科技漲停，中辰股份漲超10%，雙傑電氣、紅相股份、大連電瓷、海興電力、順鈉股份等跟漲。"
+    },
+    {
+      "id": "5013479",
+      "time": "2026-07-29 10:27:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【合肥：上半年地區生產總值（GDP）7073億元 同比增長6.8%】合肥市統計局釋出2026年上半年合肥市經濟執行情況，根據地區生產總值統一核算結果，上半年，全市地區生產總值（GDP）7073億元，按不變價格計算，同比增長6.8%。分產業看，第一產業增加值118.8億元，增長2.2%；第二產業增加值2552.4億元，增長10.3%；第三產業增加值4401.8億元，增長5.0%。"
+    },
+    {
+      "id": "5013478",
+      "time": "2026-07-29 10:27:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "創業板指探底回升翻紅，此前一度跌超2.3%。"
+    },
+    {
+      "id": "mkt:019fabb2-6279-7aab-8edb-cff3720552c2",
+      "time": "2026-07-29 10:27:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Bank Indonesia said it will strengthen monetary policy tools to support rupiah stability."
+    },
+    {
+      "id": "mkt:019fabb2-5aa6-7aab-8edb-c6da1c4db5e4",
+      "time": "2026-07-29 10:27:00",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "【Ministry of Finance to issue RMB15 bln sovereign bond in Hong Kong on Aug 5】China's Ministry of Finance will issue the fourth 2026 tranche of RMB-denominated government bonds in the Hong Kong SAR on August 5, sized at RMB15 billion. Final issuance arrangements will be published on the Hong Kong Monetary Authority's Central Moneymarkets Unit (CMU)."
+    },
+    {
+      "id": "mkt:019fabb2-2898-7aab-8edb-bec968c3d19a",
+      "time": "2026-07-29 10:26:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【Counterpoint Research: Q2 smartphone memory prices >80% QoQ】Counterpoint Research's memory-price tracker shows smartphone memory prices rose more than 80% QoQ in Q2 2026. The surge is producing a sustained, structural increase in smartphone BOM costs; flagship BOMs are nearly 50% higher YoY, with DRAM now the single most expensive component, overtaking the SoC. Introduction of 2nm flagship SoCs will add further upward pressure on BOMs; even if OEMs raise retail prices, aggregate gross margins are expected to remain slightly below 2025 same‑generation flagships."
+    },
+    {
+      "id": "5013477",
+      "time": "2026-07-29 10:26:44",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "財政部將於8月5日在香港發行人民幣國債，發行規模為150億元。"
+    },
+    {
+      "id": "mkt:019fabb2-1383-7aab-8edb-b783ad719c31",
+      "time": "2026-07-29 10:26:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's National Intellectual Property Administration: 83 national-level IP protection centers and 54 rapid rights-protection centers established nationwide】China's National Intellectual Property Administration said it has established 83 national-level IP protection centers and 54 rapid rights-protection centers nationwide, forming a balanced, tiered rapid collaborative protection network. The centers offer one-stop IP services to innovation entities in locally advantaged industries, including rapid pre-examination, expedited rights confirmation and swift enforcement."
+    },
+    {
+      "id": "mkt:019fabb2-1088-7aab-8edb-a946ea62cc10",
+      "time": "2026-07-29 10:26:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Capital Economics: softer-than-expected Australian CPI likely to keep Reserve Bank of Australia on hold】Capital Economics economist Abhijit Surya said softer-than-expected Australian inflation will likely keep the Reserve Bank of Australia on the sidelines. With core inflation unexpectedly down in Q2, the RBA is unlikely to feel immediate pressure to hike; the data could prompt it to keep rates unchanged at the August meeting."
+    },
+    {
+      "id": "5013476",
+      "time": "2026-07-29 10:26:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "輸變電裝置板塊短線拉昇，中電鑫龍漲停，雙傑電氣、三變科技、億能電力、和順電氣、金盤科技等跟漲。"
+    },
+    {
+      "id": "5013475",
+      "time": "2026-07-29 10:26:11",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家智慧財產權局：目前已在全國建設國家級智慧財產權保護中心83家和快維中心54家】國家智慧財產權局在國務院新聞辦公室舉行的釋出會上介紹，積極推進智慧財產權快速協同保護工作。目前，已經在全國佈局建設83家國家級智慧財產權保護中心和54家快速維權中心，形成了佈局均衡、分層分類、導向鮮明的快速協同保護網路，為地方優勢產業創新主體提供快速預審、快速確權、快速維權等“一站式”智慧財產權保護綜合服務。國家智慧財產權局表示，“十五五”時期，將進一步高質量建設國家級智慧財產權保護中心和快維中心，推動工作機制更加協調完善，預審授權更加優質精準，維權援助更加及時規範，協同保護更加順暢高效，深度融入國家重大戰略實施，更加有力服務重點產業創新升級，支撐經濟社會高質量發展。"
+    },
+    {
+      "id": "5013474",
+      "time": "2026-07-29 10:25:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：Q2智慧手機記憶體價格環比增長80%以上】根據CounterpointResearch記憶體價格跟蹤，智慧手機記憶體價格在2026年第二季度環比增長了80%以上。這種顯著的增長對智慧手機BOM成本造成了持續的結構性影響。旗艦級別機型的BOM成本同比增長了接近50%，DRAM超越SoC，成為旗艦智慧手機中最昂貴的單一元器件。未來2nm旗艦SoC的匯入將進一步推高旗艦機型的BOM成本。即便OEM上調終端零售價格，預計其整體毛利率仍將略低於2025年同代旗艦產品的水平。"
+    },
+    {
+      "id": "5013473",
+      "time": "2026-07-29 10:25:12",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【“每萬人口高價值發明專利擁有量”再次列入“十五五”主要指標】今天（29日），國家智慧財產權局在國務院新聞辦公室舉行的釋出會上介紹，國家“十五五”規劃《綱要》繼續將“每萬人口高價值發明專利擁有量”列入國家經濟社會發展主要指標，充分彰顯了我國堅持創新驅動、加快發展新質生產力的戰略定力。"
+    },
     {
       "id": "mkt:019fabb0-5e1d-7aab-8edb-a367f012be42",
       "time": "2026-07-29 10:24:50",
@@ -161632,105 +161782,6 @@
         "Greater China"
       ],
       "text": "【Taiwan Affairs Office says cross‑strait exchanges mutually beneficial, unstoppable】China's Taiwan Affairs Office spokeswoman Zhang Han said cross‑strait trade in 1H 2026 totaled $185bn, with mainland imports from Taiwan at $133.1bn (+22.5% YoY) and mainland exports to Taiwan $31.9bn (+32.9% YoY). She said the data show complementary industrial structures and broad cooperation prospects, adding that strengthening cross‑strait economic and trade ties and deepening integration align with market forces and enterprise interests."
-    },
-    {
-      "id": "5001290",
-      "time": "2026-07-22 10:29:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇上半年GDP增長5.2%】據江蘇省統計局，根據地區生產總值統一核算結果，上半年全省實現地區生產總值70387.3億元，按不變價格計算，同比增長5.2%。其中，第一產業增加值1930.7億元，同比增長3.4%；第二產業增加值29520.6億元，增長4.9%；第三產業增加值38935.9億元，增長5.5%。"
-    },
-    {
-      "id": "5001289",
-      "time": "2026-07-22 10:29:27",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦：兩岸交流合作互利互贏任何人都阻擋不了】國務院臺辦發言人張晗答記者問。有記者詢問，近日，臺灣地區行政機構負責人卓榮泰在出席“亞洲臺灣商會聯合總會”活動時稱，臺灣已修正過去對“中國單一市場”的依賴，移轉到歐美及南向國家；對於臺商在全世界投資也組成了協助平臺。請問對此有何評論？ 張晗答問表示，2026年上半年，兩岸貿易額達到1850億美元，其中大陸自臺進口1331億美元，同比增幅22.5%。大陸對臺出口319億美元，同比增幅32.9%。這充分說明，兩岸產業結構優勢互補，合作前景廣闊。加強兩岸經貿合作，深化兩岸融合發展，符合兩岸同胞企業的共同利益，也是經濟規律和市場原則共同作用的結果。兩岸交流合作、互利互贏是任何人都阻擋不了的。"
-    },
-    {
-      "id": "mkt:019f87a7-949b-7aab-8e38-265e77e60b4e",
-      "time": "2026-07-22 10:28:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share liquid-cooled server sector oscillated higher; Tongfei Co. jumped more than 10%, with Yingweike, Feilong Co., Shenglan Co., Dayuan Pump and Jialitu also advancing."
-    },
-    {
-      "id": "5001288",
-      "time": "2026-07-22 10:28:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【滔搏回應耐克線上渠道調整：將共同促進耐克品牌的長期、健康及可持續發展】7月22日，滔搏確認，其在中國內地的耐克產品線上平臺銷售將於2027年1月1日起全面終止。滔搏是耐克在中國最大的經銷商，雙方合作已逾27年。滔搏表示，中長期看，這有助於耐克進一步提升消費者體驗、增強產品吸引力，並推動市場生態更加健康、有序和可持續發展。未來將繼續秉持互利雙贏的原則，與耐克保持緊密合作，充分發揮其線上下零售運營、本地消費者服務等優勢，透過新概念運動門店和高質量零售場景，為中國消費者帶來更專業、更豐富的運動體驗。"
-    },
-    {
-      "id": "5001287",
-      "time": "2026-07-22 10:27:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【液冷伺服器概念震盪走強 同飛股份漲超10%】液冷伺服器概念震盪走強，同飛股份漲超10%，英維克、飛龍股份、勝藍股份、大元泵業、佳力圖跟漲。"
-    },
-    {
-      "id": "5001286",
-      "time": "2026-07-22 10:27:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美眾議院透過短期撥款法案】當地時間7月21日晚，由共和黨掌控的美國國會眾議院透過一項短期撥款措施，為聯邦機構提供運轉資金至12月4日，以避免在11月中期選舉前出現政府“停擺”。若國會屆時未採取行動，大部分聯邦機構的專案資金將在當前財年結束的9月30日午夜到期。 該議案現已提交參議院。據悉，參議院共和黨領袖正與民主黨磋商，醞釀推出參議院版本的短期撥款法案。 （CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f87a5-d008-7aab-8e38-1c93b3ff06a3",
-      "time": "2026-07-22 10:26:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【140 million Chinese shopped globally via cross-border e-commerce in 1H】In 1H, cross-border e-commerce exports via overseas warehouses rose 3.3x and about 140 million Chinese consumers bought goods internationally through cross-border e-commerce. CUSTOMS says China’s cross-border e-commerce import‑export value reached 2.84 trillion yuan in 2025, up 4.8% YoY, with market procurement exports exceeding 800 billion yuan."
-    },
-    {
-      "id": "5001285",
-      "time": "2026-07-22 10:26:10",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【今年上半年我國1.4億人透過跨境電商全球購物】在國新辦7月22日舉行的釋出會上，海關總署署長孫梅君介紹，今年上半年，跨境電商出口海外倉增長3.3倍，我國已有1.4億人透過跨境電商全球購物，新業態新模式蓬勃發展。（新華社）"
-    },
-    {
-      "id": "te:markets:568693",
-      "time": "2026-07-22 10:25:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Holds Firm on Middle East Risks — The dollar index held above 101 on Wednesday after advancing for a fourth straight session, supported by higher Treasury yields and rising oil prices as the US carried out strikes on Iranian targets for an 11th consecutive night. President Donald Trump also downplayed the likelihood of near-term talks with Tehran, while Iran-backed Houthi rebels in Yemen disrupted shipping through the Red Sea. Meanwhile, a series of attacks on the Caspian Pipeline Consortium terminal along Russia’s Black Sea coast added to supply concerns. On the economic front, ADP data showed US private employers added an average of 16,500 jobs per week over the four weeks ending July 4, down from an average weekly gain of 19,250 in the prior four-week period, marking a fourth straight slowdown in hiring. Markets expect the Federal Reserve to leave interest rates unchanged at next week’s meeting, while pricing in more than a 55% chance of a rate hike in September."
-    },
-    {
-      "id": "mkt:019f87a4-b103-7aab-8e38-156ff84c61d8",
-      "time": "2026-07-22 10:25:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "02259.HK",
-        "Impact bullish",
-        "02899.HK",
-        "01787.HK"
-      ],
-      "text": "Hong Kong-listed gold miners surged: Zijin Gold International (02259.HK), Chifeng Gold (06693.HK) and Lingbao Gold (03330.HK) rose over 14%; Tongguan Gold (00340.HK), Zijin Mining (02899.HK) and Shandong Gold (01787.HK) gained more than 7%; Zhaojin Mining (01818.HK) and Jihai Gold (02489.HK) advanced over 5%."
     }
   ]
 }
