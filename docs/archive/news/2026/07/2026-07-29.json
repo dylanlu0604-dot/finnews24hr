@@ -1,7 +1,55 @@
 {
   "date": "2026-07-29",
-  "count": 2957,
+  "count": 2962,
   "items": [
+    {
+      "id": "5014831",
+      "time": "2026-07-29 22:46:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯盧布兌美元匯率自4月3日以來首次跌破1盧布兌換80美元關口，跌幅達1.9%。"
+    },
+    {
+      "id": "mkt:019fae55-ed89-7aab-8eed-f89c4cd4bc21",
+      "time": "2026-07-29 22:44:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "EIA: U.S. crude inventories at Cushing, Oklahoma fell last week to their lowest level since August 2014."
+    },
+    {
+      "id": "te:markets:570810",
+      "time": "2026-07-29 22:44:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Nuclear Energy Index Hits 48-week Low — Nuclear Energy Index decreased to 37.72 USD, the lowest since August 2025. Over the past 4 weeks, Nuclear Energy Index lost 13.67%, and in the last 12 months, it decreased 6.23%."
+    },
+    {
+      "id": "5014830",
+      "time": "2026-07-29 22:43:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗訊息稱，四名革命衛隊軍事顧問在伊拉克夜間美沙聯合空襲中身亡；目前尚未獲得官方證實。"
+    },
+    {
+      "id": "5014829",
+      "time": "2026-07-29 22:43:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股IPO：常州星宇車燈股份有限公司遞表港交所】常州星宇車燈股份有限公司向港交所提交上市申請書，獨家保薦人為申萬宏源香港。"
+    },
     {
       "id": "mkt:019fae53-ee0a-7aab-8eed-f60840633117",
       "time": "2026-07-29 22:42:43",

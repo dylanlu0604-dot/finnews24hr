@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-29 22:43:21",
-  "count": 17481,
+  "updated": "2026-07-29 22:47:31",
+  "count": 17472,
   "items": [
+    {
+      "id": "5014831",
+      "time": "2026-07-29 22:46:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯盧布兌美元匯率自4月3日以來首次跌破1盧布兌換80美元關口，跌幅達1.9%。"
+    },
+    {
+      "id": "mkt:019fae55-ed89-7aab-8eed-f89c4cd4bc21",
+      "time": "2026-07-29 22:44:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "EIA: U.S. crude inventories at Cushing, Oklahoma fell last week to their lowest level since August 2014."
+    },
+    {
+      "id": "te:markets:570810",
+      "time": "2026-07-29 22:44:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Nuclear Energy Index Hits 48-week Low — Nuclear Energy Index decreased to 37.72 USD, the lowest since August 2025. Over the past 4 weeks, Nuclear Energy Index lost 13.67%, and in the last 12 months, it decreased 6.23%."
+    },
+    {
+      "id": "5014830",
+      "time": "2026-07-29 22:43:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗訊息稱，四名革命衛隊軍事顧問在伊拉克夜間美沙聯合空襲中身亡；目前尚未獲得官方證實。"
+    },
+    {
+      "id": "5014829",
+      "time": "2026-07-29 22:43:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股IPO：常州星宇車燈股份有限公司遞表港交所】常州星宇車燈股份有限公司向港交所提交上市申請書，獨家保薦人為申萬宏源香港。"
+    },
     {
       "id": "mkt:019fae53-ee0a-7aab-8eed-f60840633117",
       "time": "2026-07-29 22:42:43",
@@ -160416,130 +160464,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：與美國駐北約大使開展了富有成效的會談，核心議題是如何依託 PURL 計劃增加愛國者防空系統攔截彈供應。雙方還探討了美烏雙邊防務合作。"
-    },
-    {
-      "id": "5002745",
-      "time": "2026-07-22 22:46:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "菲拉斯航空對空客A330neo機型的累計確認訂單增至20架，同時空客A320系列飛機的確認訂單達到215架。"
-    },
-    {
-      "id": "mkt:019f8a4a-6a51-7aab-8e4b-f9ed13bda4f1",
-      "time": "2026-07-22 22:46:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative Greer said Canada has not indicated any retaliatory measures against 50% U.S. tariffs."
-    },
-    {
-      "id": "5002744",
-      "time": "2026-07-22 22:45:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：加拿大並未表態將針對美方 50% 稅率採取報復措施。"
-    },
-    {
-      "id": "mkt:019f8a4a-4e69-7aab-8e4b-f3196749e1fb",
-      "time": "2026-07-22 22:45:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative Greer said he spoke with Canada's trade representative yesterday."
-    },
-    {
-      "id": "5002743",
-      "time": "2026-07-22 22:45:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：昨日已與加拿大對應官員舉行會談。"
-    },
-    {
-      "id": "5002742",
-      "time": "2026-07-22 22:45:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿拉伯flynas航空確認採購25架空客新飛機，其中包括20架A321neo和5架寬體A330neo飛機。"
-    },
-    {
-      "id": "te:markets:568921",
-      "time": "2026-07-22 22:45:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Cocoa is down by 5.08% — Cocoa decreased 5.08% to 5322.43 USD/T"
-    },
-    {
-      "id": "5002740",
-      "time": "2026-07-22 22:44:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基宣佈撤換烏武裝部隊總參謀長】烏克蘭總統澤連斯基22日在社交媒體發文稱，現任烏武裝部隊副總參謀長伊戈爾·斯基比尤克將接替安德里·格納托夫出任烏武裝部隊總參謀長。澤連斯基說，斯基比尤克曾與新任烏武裝部隊總司令德拉帕特並肩戰鬥，是一名經驗豐富的指揮官。烏武裝部隊官網顯示，斯基比尤克現年49歲，畢業於敖德薩軍事學院和烏國防大學。他長期在烏空降突擊部隊服役，從基層軍官晉升至烏空降突擊部隊司令。2025年6月3日，斯基比尤克出任烏武裝部隊副總參謀長至今。（新華社）"
-    },
-    {
-      "id": "mkt:019f8a48-9589-7aab-8e4b-ed25c8aa740f",
-      "time": "2026-07-22 22:44:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative Greer said Brazil's deforestation puts U.S. farmers at a competitive disadvantage."
-    },
-    {
-      "id": "5002739",
-      "time": "2026-07-22 22:43:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：巴西濫伐森林的行為令美國農戶陷入競爭劣勢。"
-    },
-    {
-      "id": "5002738",
-      "time": "2026-07-22 22:43:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯方面稱，其打擊了烏克蘭敖德薩港與切爾諾莫斯克港內目標。"
-    },
-    {
-      "id": "mkt:019f8a48-6832-7aab-8e4b-e5e1d35a0b7e",
-      "time": "2026-07-22 22:43:48",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "U.S. Trade Representative GREER said other countries lowering environmental standards provides a reasonable basis for raising tariffs."
-    },
-    {
-      "id": "mkt:019f8a48-402e-7aab-8e4b-dda1d1a38295",
-      "time": "2026-07-22 22:43:38",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Russian defence ministry said it struck targets at Ukraine's Odesa and Chornomorsk ports."
-    },
-    {
-      "id": "5002737",
-      "time": "2026-07-22 22:43:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部表示，俄軍全天持續打擊烏克蘭港口、海軍艦船以及為烏克蘭武裝部隊提供支援的後勤中心。"
     }
   ]
 }
