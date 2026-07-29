@@ -1,7 +1,107 @@
 {
   "date": "2026-07-30",
-  "count": 899,
+  "count": 910,
   "items": [
+    {
+      "id": "mkt:019fb024-0696-7aab-8efb-1999af0b5429",
+      "time": "2026-07-30 07:09:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose back above $4,100/oz, up 0.83% intraday."
+    },
+    {
+      "id": "5015356",
+      "time": "2026-07-30 07:09:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們已對伊朗進行重創。"
+    },
+    {
+      "id": "5015355",
+      "time": "2026-07-30 07:09:19",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【從韓國股市熔斷 讀出什麼訊號】週三，韓國股市熔斷。韓國綜合股價指數大幅收跌5.98%。儲存巨頭SK海力士重挫9.61%。就在韓國儲存巨頭大跌的同一天，上市僅三個交易日的長鑫科技上漲12.7%。單日漲跌或有偶然，但值得關注的是背後的產業訊號：它正在改寫儲存行業的定價邏輯。DRAM市場過去幾十年由三星、SK海力士、美光三家主導，價格基本由三巨頭掌握。而長鑫按出貨量已位列全球第四，這次上市有了500多億元募資投入擴產。過去市場為儲存股定價，只需看三巨頭的臉色；現在，定價體系中多了一個名為“中國供給”的新變數。這也解釋了開頭的疑問：一份創紀錄的財報，為何會被市場放大懲罰？因為參照系正在發生變化，預期正在變化。不只是長鑫。近期，中國科技企業正頻頻成為全球資本市場的變數。這個月16日， 2.8萬億引數的大模型Kimi K3正式釋出，這週一又公開了全部模型權重，給全球開發者免費使用。這期間，英偉達等股票和費城半導體指數都曾出現不同程度下跌。從儲存晶片到大模型，這波多國股市的震盪，其實折射出的產業舊格局在鬆動，新力量在生長。而對中國科技產業來說，比市場一時漲跌更重要的，是沉下心來抓住視窗期——把技術做深、把產能做實、把生態做厚。自身練就的實力，才是更長久的底氣。（央視）"
+    },
+    {
+      "id": "mkt:019fb023-7ea9-7aab-8efb-17096f4c4b95",
+      "time": "2026-07-30 07:09:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Musk plans major backing for Republicans in US midterms, Axios says】Axios reports Elon Musk is preparing a large-scale investment to boost Republican turnout in the US midterm elections by restarting his previously paused super PAC, America PAC. The PAC, which spent more than $260m in 2024 to support Trump, will focus on door-to-door canvassing, digital advertising and direct mail to mobilise the conservative base, including voters who typically skip non-presidential elections. Musk’s representatives declined to disclose spending; given his 2024 donations the outlay is expected to be substantial. The report says the move would widen the Republican funding advantage over Democrats and notes Trump’s weak support on economic issues and the Iran war has increased the risk the GOP may struggle to retain House and Senate majorities on Nov. 3."
+    },
+    {
+      "id": "5015354",
+      "time": "2026-07-30 07:07:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【女裝零售商Reformation在美國首次公開募股中籌集了2.11億美元】女裝零售商Reformation週三表示，其在美國的首次公開募股（IPO）規模已擴大，共籌集了2.109億美元，此舉旨在測試投資者對該時尚品牌的興趣。"
+    },
+    {
+      "id": "5015353",
+      "time": "2026-07-30 07:06:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百威亞太第二季度淨利潤超過預估】百威亞太第二季度淨利潤2.47億美元，同比+41%，預估1.838億美元。第二季度業績：淨利潤2.47億美元，同比+41%，預估1.838億美元；營收16.8億美元，同比+0.2%，預估16.9億美元；調整後息稅折舊及攤銷前利潤4.63億美元，同比-7%，預估4.633億美元；經調整EBITDA利潤率27.6％，上年同期29.7％；調整後息稅前利潤3.22億美元，同比-7.5%，預估3.016億美元。上半年業績：營收31.7億美元，同比+1.1%，預估32.1億美元；淨利潤4.73億美元，同比+16%；調整後息稅折舊及攤銷前利潤9.26億美元，同比-5.8%，預估9.31億美元。"
+    },
+    {
+      "id": "5015352",
+      "time": "2026-07-30 07:06:06",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【多重因素擾動 金價短期走勢或以震盪為主】國際金價最近有點“磨人”。自6月下旬以來，倫敦現貨黃金價格在4000美元/盎司附近反覆拉鋸。與之形成鮮明反差的是，7月以來A股黃金股率先“躁動”，部分龍頭黃金股漲幅超過30%，明顯跑贏同期金價。業內人士認為，當前金價中長期支撐邏輯並未發生根本改變，央行購金仍可能推動金價中樞逐步上移，黃金類資產依舊具備配置價值。但短期來看，市場仍面臨全球流動性、美聯儲政策預期、地緣局勢以及市場資金流向等多重因素擾動，或以震盪走勢為主。（中國證券報）"
+    },
+    {
+      "id": "5015351",
+      "time": "2026-07-30 07:05:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報58.67美元/盎司。"
+    },
+    {
+      "id": "mkt:019fb01e-851b-7aab-8efb-0a611f302cfd",
+      "time": "2026-07-30 07:03:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong Monetary Authority left its base rate unchanged at 4%."
+    },
+    {
+      "id": "5015350",
+      "time": "2026-07-30 07:03:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4150美元/盎司，日內漲1.30%。"
+    },
+    {
+      "id": "5015349",
+      "time": "2026-07-30 07:02:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港金管局維持基準利率於4%不變。"
+    },
     {
       "id": "5015348",
       "time": "2026-07-30 07:01:39",
