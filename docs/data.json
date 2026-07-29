@@ -1,7 +1,165 @@
 {
-  "updated": "2026-07-29 16:18:12",
-  "count": 17534,
+  "updated": "2026-07-29 16:22:07",
+  "count": 17541,
   "items": [
+    {
+      "id": "te:economy:570706",
+      "time": "2026-07-29 16:21:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "ZEW Economic Sentiment Index",
+        "Importance 1"
+      ],
+      "text": "Swiss Investor Confidence Turns Positive in July — Swiss investor sentiment improved to 10.0 in July 2026 from -25.0 in June, returning to positive territory for the first time since the outbreak of the Middle East conflict in February, according to the UBS & CFA Society Switzerland survey. The expectations index rose sharply to +9.5 from +2.8 in the previous month, signaling stronger optimism about the economic outlook. Meanwhile, the current conditions gauge edged up to +6.7 in July from +2.4 in June, indicating a further improvement in assessments of the present economic environment. UBS also noted that the share of analysts expecting higher oil prices reached its highest level in twelve months, leaving expectations evenly split between rising and falling oil prices."
+    },
+    {
+      "id": "5014025",
+      "time": "2026-07-29 16:20:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本熊本縣政府：地震已致12人死亡 6人心肺功能停止】據日本熊本縣政府當地時間7月29日釋出的訊息，熊本地震已造成12人死亡，6人心肺功能停止，4人生死不明，62人受傷。當天早些時候，日本首相高市早苗在首相官邸說，截至當地時間上午8時30分，熊本縣地震造成的死亡人數已達13人。據中國地震臺網正式測定，當地時間28日16時27分（北京時間15時27分），日本九州島發生6.8級地震，震源深度10公里。（央視新聞）"
+    },
+    {
+      "id": "5014024",
+      "time": "2026-07-29 16:20:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國投資本：副總經理兼董事會秘書於曉揚因工作調動離任】國投資本公告稱，公司董事會近日收到副總經理、董事會秘書、總法律顧問（首席合規官）於曉揚的書面辭職報告，因工作調動，其於2026年7月29日辭去上述職務。在公司聘任新的董事會秘書前，由董事長崔宏琴代行職責。公司將盡快完成選聘並披露。於曉揚不存在未履行完畢的公開承諾。"
+    },
+    {
+      "id": "5014023",
+      "time": "2026-07-29 16:20:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國金融監管負責人就槓桿型ETF爭議致歉，稱將恢復市場信任】7月29日，韓國主要金融監管機構負責人就單隻股票槓桿型交易所交易基金（ETF）引發的市場爭議公開致歉。此前，部分投資者和市場人士認為，這類產品加劇了市場波動，並導致投資者財富大幅縮水。韓國金融服務委員會主席李億遠表示，對於監管機構未能在多個方面達到公眾信任要求，他感到歉意。韓國金融監督院院長李燦鎮表示，監管機構正在盡最大努力恢復市場信任。"
+    },
+    {
+      "id": "mkt:019facf5-d936-7aab-8ee3-722a458122a1",
+      "time": "2026-07-29 16:20:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Singapore's Ministry of Finance said the latest package raises total government support to about SGD 2 billion."
+    },
+    {
+      "id": "5014022",
+      "time": "2026-07-29 16:20:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新疆通訊管理局召開2026年上半年重點工作推進會】新疆維吾爾自治區通訊管理局召開2026年上半年重點工作推進會。會議強調，紮實推進資訊通訊網路設施提質升級，提升數實融合發展能力，持續強化電信業務監管能力，切實維護網路和資料安全，提升“三斷”極端情況下應急通訊保障能力，在攻堅克難中開創工作新局面。 (工信部)"
+    },
+    {
+      "id": "mkt:019facf5-bdda-7aab-8ee3-6ed32d758af0",
+      "time": "2026-07-29 16:20:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Zelenskiy said Ukraine also struck an export terminal and a defense plant in Russia's Rostov region."
+    },
+    {
+      "id": "5014021",
+      "time": "2026-07-29 16:20:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛馬仕首席財務官表示：美國、歐洲和日本市場的下半年需求趨勢未出現任何變化，但法國和中東市場的走勢仍存在不確定性。"
+    },
+    {
+      "id": "mkt:019facf5-9d02-7aab-8ee3-623515f3a95d",
+      "time": "2026-07-29 16:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of England mortgage approvals for June due in 10 minutes."
+    },
+    {
+      "id": "5014020",
+      "time": "2026-07-29 16:19:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆興新材：子公司擬6億元投資兩生產專案】恆興新材公告稱，公司第三屆董事會相關會議審議透過子公司投資專案議案。下屬山東衡興、江蘇辰興兩家子公司擬分別啟動天然有機酯醛酸衍生物、特種精細化工新材料生產專案，預計投資額約6億元。資金源於自有或自籌資金，不涉及募集資金。專案已完成土地相關手續，正穩步推進。不過，專案存在建設進度、收益不達預期等風險。"
+    },
+    {
+      "id": "5014019",
+      "time": "2026-07-29 16:19:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基：在俄羅斯的里亞贊市打擊了一個物流中心】烏克蘭總統澤連斯基：“我方針對俄羅斯相關設施實施遠端打擊，現已取得新戰果。我方打擊了梁贊地區一座煉油廠與一處物流中心，該地距烏克蘭邊境約 360 公里。同時，我方對俄羅斯黑海艦隊部署在遭俄方臨時佔領的克里米亞的高速快艇基地發動襲擊。此外，我們還對彼爾姆邊疆區煉油廠、羅斯托夫州一處出口碼頭及軍工企業實施遠端打擊。"
+    },
+    {
+      "id": "mkt:019facf4-d905-7aab-8ee3-5b2e42988996",
+      "time": "2026-07-29 16:19:15",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Zelenskiy said Ukraine struck an oil refinery in Russia's Perm region."
+    },
+    {
+      "id": "te:economy:570705",
+      "time": "2026-07-29 16:19:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Georgia",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "National Bank of Georgia Holds Key Rate Steady — The National Bank of Georgia left its key policy rate unchanged at 8.25% at its July 2026 meeting, maintaining a cautious stance amid tensions in the Middle East. Headline inflation edged up to 5.8% in June from 5.7%, driven by higher energy prices linked to the regional conflict. Policymakers noted the increase was broadly in line with expectations for the second quarter, while emphasizing that second-round inflationary effects remain a key concern. Meanwhile, economic activity accelerated to 9.0% year-on-year in the first quarter from 6.7% in the previous quarter, supported by strong performance in service sectors, with the negative impact of the conflict remaining limited. The central bank continues to forecast economic growth of 6.5% in 2026 and revised its average inflation projection up to 5.2% from 4.9%, beginning to ease in the second half of the year and gradually converge to target over the medium term. Future decisions will depend on inflation risks and second-round effects."
+    },
+    {
+      "id": "te:economy:570704",
+      "time": "2026-07-29 16:18:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Malaysia 10Y Bond Yield Hits 15-month High — Malaysia 10 Year Government Bond Yield increased to 3.72%, the highest since April 2025. Over the past 4 weeks, Malaysia 10Y Bond Yield gained 9.33 basis points, and in the last 12 months, it increased 32.50 basis points."
+    },
+    {
+      "id": "mkt:019facf4-1960-7aab-8ee3-5665413eeec6",
+      "time": "2026-07-29 16:18:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine struck a logistics hub in Ryazan, Russia."
+    },
+    {
+      "id": "5014018",
+      "time": "2026-07-29 16:18:18",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "市場訊息：月之暗面超額完成融資目標，估值達到350億美元。"
+    },
     {
       "id": "5014017",
       "time": "2026-07-29 16:17:28",
@@ -160741,83 +160899,6 @@
         "公司"
       ],
       "text": "【華納藥廠：為全資孫公司提供7億元連帶責任保證擔保】華納藥廠公告稱，公司與中國銀行湖南湘江新區分行簽署《最高額保證合同》，為全資孫公司致根製藥向該行的貸款提供最高本金餘額7億元的連帶責任保證，無反擔保，保證期間為債務履行期限屆滿之日起1年。本次擔保在董事會批准額度內，無需另行審批。截至公告披露日，公司及控股子公司對外擔保總額7億元，佔2025年末經審計淨資產的34.27%，無逾期擔保。"
-    },
-    {
-      "id": "5001877",
-      "time": "2026-07-22 16:21:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿達尼電力有限公司：擬募資最高1500億盧比。"
-    },
-    {
-      "id": "5001876",
-      "time": "2026-07-22 16:21:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大興機場2026年旅客吞吐量突破3000萬人次】記者從北京大興機場瞭解到，7月21日，大興機場年旅客吞吐量較去年提前5天突破3000萬人次。同日航班量達1255架次、旅客量達196577人次，均創下投運以來單日保障新紀錄。（央視新聞）"
-    },
-    {
-      "id": "5001875",
-      "time": "2026-07-22 16:21:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寶龍實業：7月23日起“H19寶龍2”等6筆公開市場債券停牌，將推“資產抵債選項”】7月22日，寶龍地產（01238.HK）附屬公司上海寶龍實業發展（集團）有限公司（以下簡稱“寶龍實業”）釋出公告，公司擬為公開市場債券持有人推出“資產抵債選項”的相關安排。澎湃新聞獲悉，“資產抵債選項”的安排最早於7月24日推出。自7月23日開市起，“H19寶龍2”、“H21寶龍1”、“H21寶龍2”、“H21寶龍3”、“H0寶龍04”及“PR寶龍B”將停牌。"
-    },
-    {
-      "id": "5001874",
-      "time": "2026-07-22 16:21:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國電電力：2026年上半年發電量同比增長6.25%】國電電力公告稱，2026年上半年，公司合併報表口徑完成發電量2189.11億千瓦時、上網電量2078.75億千瓦時，較上年同期分別增長6.25%和6.17%；參與市場化交易電量占上網電量的94.2%；平均上網電價393.31元/千千瓦時。二季度完成發電量1129.27億千瓦時、上網電量1074.49億千瓦時，較上年同期分別增長6.73%和6.53%。截至6月30日，公司合併報表口徑控股裝機容量13029.12萬千瓦，二季度新增裝機234.21萬千瓦。"
-    },
-    {
-      "id": "5001873",
-      "time": "2026-07-22 16:20:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "寶馬取消參加今年的巴黎車展，理由是“優先事項轉變”。"
-    },
-    {
-      "id": "mkt:019f88e9-1c49-7aab-8e41-787c9286e0ea",
-      "time": "2026-07-22 16:20:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "IBE.MC",
-        "Impact bullish"
-      ],
-      "text": "Iberdrola, the Spanish utility, said new UK Prime Minister Burnham's priorities are fully aligned with the company's plans."
-    },
-    {
-      "id": "5001872",
-      "time": "2026-07-22 16:19:37",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "SK海力士追加7.1萬億韓元用於清州P&T7工廠建設。"
-    },
-    {
-      "id": "5001871",
-      "time": "2026-07-22 16:19:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沃飛長空與嘯翔航空簽署飛機增購協議】7月22日，2026國際低空經濟博覽會現場，沃飛長空與上海嘯翔通用航空服務有限公司簽署了飛機增購協議，雙方將共建“eVTOL飛培+運營+維修的閉環協作體”。"
-    },
-    {
-      "id": "5001870",
-      "time": "2026-07-22 16:18:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英派斯：控股股東部分股份補充質押 累計質押比例達52.56%】英派斯公告稱，近日公司控股股東海南江恆將125萬股辦理補充質押，佔其所持股份2.88%，佔公司總股本0.85%，質押期限至2027年1月22日。截至公告披露日，海南江恆累計質押2283萬股，佔其所持股份52.56%，佔公司總股本15.45%。未來半年內到期質押股份對應融資餘額9500萬元，一年內到期對應融資餘額1.88億元，海南江恆具備償還能力，本次質押不會影響公司控制權。"
     }
   ]
 }
