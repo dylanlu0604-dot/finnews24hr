@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-29 20:29:47",
-  "count": 17523,
+  "updated": "2026-07-29 20:33:48",
+  "count": 17516,
   "items": [
+    {
+      "id": "5014624",
+      "time": "2026-07-29 20:33:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【受特朗普言論提振，油價飆升，美國國債期貨跌至新低】特朗普發表講話後，約1.5萬份10年期國債期貨在一分鐘內成交，創下當日最大成交量；隨後不久，該合約觸及當日低點，而10年期國債收益率升至當日高點，較週二收盤價下跌3個基點。WTI原油期貨維持在盤中高位，日內上漲約6.7%，繼續對美國國債構成壓力。5年期和30年期國債收益率曲線也再次趨於平緩，日內收窄約1.7個基點，下跌行情持續領跌。"
+    },
+    {
+      "id": "te:markets:570777",
+      "time": "2026-07-29 20:33:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Edge Higher on Energy Strength — Futures tracking TSX stocks edged higher to a record high on Wednesday, supported by a good outlook for the energy sector. Oil prices rose as tensions in the Middle East escalated following joint US-Saudi strikes in Iraq, supporting energy stocks. Investors also assessed a batch of earnings from mining and energy companies. Cenovus reported higher second-quarter revenue and profit, supported by stronger oil prices. Agnico Eagle, Alamos Gold, Ivanhoe Mines, and Athabasca Oil are due to report results after the closing bell. Markets are also awaiting the US Fed's policy decision later in the day. While the Fed is widely expected to leave interest rates unchanged, investors are watching for possible dissenting votes in favor of a rate hike, reflecting divisions within the FOMC. Canadian bond yields moved higher ahead of the decision, tracking the rebound in oil prices and renewed inflation concerns, pressuring financial stocks."
+    },
+    {
+      "id": "mkt:019faddc-b3e7-7aab-8eea-7f1da6a3da8b",
+      "time": "2026-07-29 20:32:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "ENI.MI"
+      ],
+      "text": "ENI CEO says development plan for Venezuela's Perla gas field will be announced soon."
+    },
+    {
+      "id": "5014623",
+      "time": "2026-07-29 20:32:12",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "義大利埃尼高管：委內瑞拉佩拉氣田開發計劃即將出臺。"
+    },
+    {
+      "id": "mkt:019faddb-e3fc-7aab-8eea-765bb6c37cfc",
+      "time": "2026-07-29 20:31:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China successfully launches Tianlian-3 01 satellite】A modified Long March-7 rocket launched Tianlian-3 01 from the Wenchang launch center and placed the satellite into its planned orbit. The satellite will provide data-relay and telemetry, tracking and command (TT&C) services for crewed spacecraft, space laboratories and the space station, and will support data relay and TT&C for medium- and low-Earth-orbit resource satellites."
+    },
+    {
+      "id": "5014622",
+      "time": "2026-07-29 20:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國成功發射天鏈三號01星】今天，我國在文昌航天發射場使用長征七號改運載火箭，成功將天鏈三號01星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。該衛星主要用於為飛船、空間實驗室、空間站等載人航天器提供資料中繼和測控服務，為中、低軌道資源衛星提供資料中繼和測控服務。（央視新聞）"
+    },
+    {
+      "id": "5014621",
+      "time": "2026-07-29 20:30:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4010美元/盎司，日內跌0.48%。"
+    },
+    {
+      "id": "mkt:019fadda-ac0f-7aab-8eea-6ee868567af0",
+      "time": "2026-07-29 20:30:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "ENI.MI",
+        "Impact bullish"
+      ],
+      "text": "ENI said maintenance at all its refineries was completed in 1H."
+    },
+    {
+      "id": "mkt:019fadda-88b5-7aab-8eea-67b436806928",
+      "time": "2026-07-29 20:30:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "ENI.MI",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "ENI said its refineries will operate at maximum capacity in Q3."
+    },
+    {
+      "id": "mkt:019fadd9-d4f0-7aab-8eea-594048ea1581",
+      "time": "2026-07-29 20:29:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump vows strong US response after Iran-launched missiles aimed at Jordan intercepted】President Trump said US forces intercepted an Iran-launched ballistic missile attack on Jordan overnight and that Washington will respond forcefully. In a Wednesday Fox News interview he said, we’re going to hit them hard…they will be dealt a heavy blow, and that US forces had only minutes to respond before the missiles struck. Trump said he viewed footage of the intercepts showing personnel reporting missile coordinates in real time. He said US and Saudi strikes the same night targeted Iran-backed Iraqi Shia militias after coordination with the Iraqi government. Trump called those militias a scourge on the world and said the US is considering further warnings to Iran’s proxy networks."
+    },
+    {
+      "id": "5014620",
+      "time": "2026-07-29 20:29:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "義大利埃尼集團表示，其煉油廠將在第三季度滿負荷運轉。"
+    },
     {
       "id": "mkt:019fadd9-9950-7aab-8eea-523e8b2638a3",
       "time": "2026-07-29 20:29:06",
@@ -160705,173 +160817,6 @@
         "國際"
       ],
       "text": "印度儲備銀行公報：印度對外部門保持穩定，受外資流入提振，前景持續改善。"
-    },
-    {
-      "id": "mkt:019f89d1-5e98-7aab-8e47-eaa805ee27a5",
-      "time": "2026-07-22 20:33:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RESERVE BANK OF INDIA: Retail inflation in June rose slightly. Core inflation, particularly excluding precious metals, remained low."
-    },
-    {
-      "id": "mkt:019f89d1-36d6-7aab-8e47-e64f73ac0137",
-      "time": "2026-07-22 20:33:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India says India's external sector remains stable and the outlook has improved, supported by foreign capital inflows."
-    },
-    {
-      "id": "5002499",
-      "time": "2026-07-22 20:33:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【成都超純：同意公司首次公開發行股票的註冊申請】成都超純公告，中國證監會同意公司首次公開發行股票的註冊申請。你公司本次發行股票應嚴格按照報送深圳證券交易所的招股說明書和發行承銷方案實施。本批覆自同意註冊之日起12個月內有效。"
-    },
-    {
-      "id": "5002498",
-      "time": "2026-07-22 20:32:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行5月在即期外匯市場淨賣出61億美元。"
-    },
-    {
-      "id": "5002497",
-      "time": "2026-07-22 20:32:48",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行公告：6月整體零售通脹小幅攀升，而核心通脹——尤其是剔除貴金屬後的核心通脹——仍處於低位。"
-    },
-    {
-      "id": "te:markets:568896",
-      "time": "2026-07-22 20:32:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "BNP Paribas Stock Price Hits All-time High — BNP Paribas shares increased to an all-time high of 106.94 EUR. Over the past 4 weeks, BNP Paribas gained 5.38%, and in the last 12 months, it increased 36.21%."
-    },
-    {
-      "id": "5002496",
-      "time": "2026-07-22 20:32:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "AMD盤前跌幅收窄至1.6%。"
-    },
-    {
-      "id": "5002495",
-      "time": "2026-07-22 20:32:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【AMD 與 Anthropic 達成數十億美元 AI 伺服器大單，配套 50 億美元股權投資】超威半導體（AMD）與 Anthropic 達成協議，將簽署價值數百億美元的人工智慧伺服器採購合約。這筆交易將鞏固 AMD 追趕行業龍頭英偉達的競爭優勢，同時為 Anthropic 供給亟需的算力資源。根據協議條款，自 2027 年上半年起，Anthropic 最多可採購總算力規模 2 吉瓦的 AMD 新一代 Instinct MI450 晶片。AMD 還將向 Anthropic 至多投資 50 億美元，這是 AMD 首次向這家 AI 企業出資，投資落地將與約定算力部署目標掛鉤。AMD 執行長蘇姿豐表示：“我們非常希望深度參與其算力基礎設施建設。” 她同時透露，雙方工程團隊已經開展了一段時間聯合研發。Anthropic 當前採用多家廠商晶片承載算力任務，包括谷歌張量處理器（TPU）、亞馬遜 Trainium 晶片以及英偉達圖形處理器（GPU）。蘇姿豐稱，按照本次合作安排，Anthropic 一方面將採購 AMD 晶片部署自有資料中心，另一方面也會透過大型雲廠商與 AI 算力新雲服務商租賃部分算力資源。目前 AMD 正與 Anthropic 共同選址，規劃部署這批晶片的資料中心。"
-    },
-    {
-      "id": "mkt:019f89cf-d981-7aab-8e47-dd4538e5c8d0",
-      "time": "2026-07-22 20:32:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Shanghai Stock Exchange website shows Beijing Shiweitong Technology Co., Ltd.'s STAR Market IPO review status changed to \"inquiry\"."
-    },
-    {
-      "id": "mkt:019f89cf-c98f-7aab-8e47-d40377a87f8c",
-      "time": "2026-07-22 20:32:03",
-      "tags": [
-        "MKT News",
-        "AMD.O",
-        "Impact bullish"
-      ],
-      "text": "AMD (AMD.O) US shares rose in premarket trade, trimming losses to 1.6%."
-    },
-    {
-      "id": "5002494",
-      "time": "2026-07-22 20:31:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【劉海星會見歐洲議會外事委員會代表團】7月22日，中共中央對外聯絡部部長劉海星在北京會見由主席麥克阿里斯特率領的歐洲議會外事委員會代表團，就共同落實雙方領導人共識、加強溝通對話、推動中歐關係健康穩定發展等深入交換意見。（新華社）"
-    },
-    {
-      "id": "5002493",
-      "time": "2026-07-22 20:31:40",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【PingPong宣佈搭建Maker Tool全域產業協同平臺】PingPong釋出《創客經濟新紀元：Maker Tool 行業全景解析白皮書》，併成立中國首個覆蓋產業、資本、渠道的Maker Tool行業聯盟。據白皮書揭示，Maker Tool全球市場佈局呈現鮮明分層特徵：美國為核心主戰場，銷量佔比70.1%、銷售額佔比72.3%；德國、英國為歐洲潛力市場，手工創作社群活躍，但歐洲市場監管嚴苛，產品安全、環保合規是入場硬性門檻。同時，行業季節性波動極強，Q4（10-12月）為全年銷量峰值，Q3（7-9月）跌至低谷，淡旺季銷量倍率接近2倍。此外，Maker Tool行業技術迭代極快，消費者對產品新功能的需求升級決定了新產品的紅利視窗期僅1-2年（創意裁切類新品銷售週期可延長至3-5年）。（新浪科技）"
-    },
-    {
-      "id": "mkt:019f89cf-474e-7aab-8e47-cb1ac789b2ad",
-      "time": "2026-07-22 20:31:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "AMD.O",
-        "Impact bullish"
-      ],
-      "text": "Wall Street Journal reports AMD (AMD.O) has signed a major chip and investment agreement with ANTHROPIC; AMD will invest $5 billion in ANTHROPIC as part of the chip deal."
-    },
-    {
-      "id": "te:markets:568894",
-      "time": "2026-07-22 20:31:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Nears Two-Week High on Safe-Haven Demand — Silver climbed to $59.5 an ounce on Wednesday, its highest level since July 10, as safe-haven demand and technical buying gained momentum amid escalating Middle East tensions and ahead of next week's Federal Reserve meeting. Geopolitical concerns intensified after President Donald Trump warned of further strikes on Iran and pledged retaliation if Iran-backed Houthi rebels disrupt shipping through the Red Sea. Meanwhile, Secretary of State Marco Rubio said the US remains open to a deal with Iran but questioned whether Tehran is willing to accept terms acceptable to Washington. Despite the rally, silver remained below the record highs reached in January, as elevated oil prices have reinforced inflation concerns and expectations that the Federal Reserve may need to keep monetary policy restrictive. Markets currently price in two 25-basis-point rate hikes by March 2027, with about a 70% probability of the first increase coming as early as September."
-    },
-    {
-      "id": "5002492",
-      "time": "2026-07-22 20:30:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD 與 Anthropic 簽署重大晶片供應及投資協議。"
-    },
-    {
-      "id": "5002491",
-      "time": "2026-07-22 20:30:28",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "AMD 將向 Anthropic 投資 50 億美元，配套達成晶片合作協議。"
-    },
-    {
-      "id": "5002490",
-      "time": "2026-07-22 20:30:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【尹弘主持召開省委金融委員會第四次會議】7月22日，江西省委書記尹弘主持召開省委金融委員會第四次會議。他強調，要深入貫徹習近平總書記關於金融工作的重要論述，全面落實全國金融系統黨的建設工作會議精神，堅持和加強黨對金融工作的全面領導，統籌推進防風險、強監管、促高質量發展各項工作，以更大力度、更實舉措加快推動全省金融工作高質量發展，為現代化江西建設提供有力支撐。（江西釋出）"
-    },
-    {
-      "id": "5002489",
-      "time": "2026-07-22 20:30:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【匈牙利總檢察長提交辭呈】當地時間22日，匈牙利總檢察長納吉·加博爾·巴林特提交辭呈。總檢察長辦公室釋出的宣告稱，他已於當天透過代行總統職權的福斯特霍費爾·阿格奈什向代行國會主席職責的副議長提交了辭呈，並提議於2026年8月25日終止其任期。此前，匈牙利總理毛焦爾要求納吉·加博爾·巴林特辭職。（央視新聞）"
     }
   ]
 }

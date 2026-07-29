@@ -1,7 +1,119 @@
 {
   "date": "2026-07-29",
-  "count": 2634,
+  "count": 2645,
   "items": [
+    {
+      "id": "5014624",
+      "time": "2026-07-29 20:33:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【受特朗普言論提振，油價飆升，美國國債期貨跌至新低】特朗普發表講話後，約1.5萬份10年期國債期貨在一分鐘內成交，創下當日最大成交量；隨後不久，該合約觸及當日低點，而10年期國債收益率升至當日高點，較週二收盤價下跌3個基點。WTI原油期貨維持在盤中高位，日內上漲約6.7%，繼續對美國國債構成壓力。5年期和30年期國債收益率曲線也再次趨於平緩，日內收窄約1.7個基點，下跌行情持續領跌。"
+    },
+    {
+      "id": "te:markets:570777",
+      "time": "2026-07-29 20:33:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Edge Higher on Energy Strength — Futures tracking TSX stocks edged higher to a record high on Wednesday, supported by a good outlook for the energy sector. Oil prices rose as tensions in the Middle East escalated following joint US-Saudi strikes in Iraq, supporting energy stocks. Investors also assessed a batch of earnings from mining and energy companies. Cenovus reported higher second-quarter revenue and profit, supported by stronger oil prices. Agnico Eagle, Alamos Gold, Ivanhoe Mines, and Athabasca Oil are due to report results after the closing bell. Markets are also awaiting the US Fed's policy decision later in the day. While the Fed is widely expected to leave interest rates unchanged, investors are watching for possible dissenting votes in favor of a rate hike, reflecting divisions within the FOMC. Canadian bond yields moved higher ahead of the decision, tracking the rebound in oil prices and renewed inflation concerns, pressuring financial stocks."
+    },
+    {
+      "id": "mkt:019faddc-b3e7-7aab-8eea-7f1da6a3da8b",
+      "time": "2026-07-29 20:32:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "ENI.MI"
+      ],
+      "text": "ENI CEO says development plan for Venezuela's Perla gas field will be announced soon."
+    },
+    {
+      "id": "5014623",
+      "time": "2026-07-29 20:32:12",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "義大利埃尼高管：委內瑞拉佩拉氣田開發計劃即將出臺。"
+    },
+    {
+      "id": "mkt:019faddb-e3fc-7aab-8eea-765bb6c37cfc",
+      "time": "2026-07-29 20:31:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China successfully launches Tianlian-3 01 satellite】A modified Long March-7 rocket launched Tianlian-3 01 from the Wenchang launch center and placed the satellite into its planned orbit. The satellite will provide data-relay and telemetry, tracking and command (TT&C) services for crewed spacecraft, space laboratories and the space station, and will support data relay and TT&C for medium- and low-Earth-orbit resource satellites."
+    },
+    {
+      "id": "5014622",
+      "time": "2026-07-29 20:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國成功發射天鏈三號01星】今天，我國在文昌航天發射場使用長征七號改運載火箭，成功將天鏈三號01星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。該衛星主要用於為飛船、空間實驗室、空間站等載人航天器提供資料中繼和測控服務，為中、低軌道資源衛星提供資料中繼和測控服務。（央視新聞）"
+    },
+    {
+      "id": "5014621",
+      "time": "2026-07-29 20:30:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4010美元/盎司，日內跌0.48%。"
+    },
+    {
+      "id": "mkt:019fadda-ac0f-7aab-8eea-6ee868567af0",
+      "time": "2026-07-29 20:30:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "ENI.MI",
+        "Impact bullish"
+      ],
+      "text": "ENI said maintenance at all its refineries was completed in 1H."
+    },
+    {
+      "id": "mkt:019fadda-88b5-7aab-8eea-67b436806928",
+      "time": "2026-07-29 20:30:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "ENI.MI",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "ENI said its refineries will operate at maximum capacity in Q3."
+    },
+    {
+      "id": "mkt:019fadd9-d4f0-7aab-8eea-594048ea1581",
+      "time": "2026-07-29 20:29:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump vows strong US response after Iran-launched missiles aimed at Jordan intercepted】President Trump said US forces intercepted an Iran-launched ballistic missile attack on Jordan overnight and that Washington will respond forcefully. In a Wednesday Fox News interview he said, we’re going to hit them hard…they will be dealt a heavy blow, and that US forces had only minutes to respond before the missiles struck. Trump said he viewed footage of the intercepts showing personnel reporting missile coordinates in real time. He said US and Saudi strikes the same night targeted Iran-backed Iraqi Shia militias after coordination with the Iraqi government. Trump called those militias a scourge on the world and said the US is considering further warnings to Iran’s proxy networks."
+    },
+    {
+      "id": "5014620",
+      "time": "2026-07-29 20:29:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "義大利埃尼集團表示，其煉油廠將在第三季度滿負荷運轉。"
+    },
     {
       "id": "mkt:019fadd9-9950-7aab-8eea-523e8b2638a3",
       "time": "2026-07-29 20:29:06",
