@@ -1,7 +1,264 @@
 {
-  "updated": "2026-07-29 15:58:38",
-  "count": 17528,
+  "updated": "2026-07-29 16:02:35",
+  "count": 17540,
   "items": [
+    {
+      "id": "mkt:019face4-be4d-7aab-8ee2-e66f77106ff2",
+      "time": "2026-07-29 16:01:39",
+      "tags": [
+        "MKT News",
+        "NVDA.O",
+        "Impact bearish",
+        "MU.O",
+        "SKHY.O"
+      ],
+      "text": "U.S. premarket semiconductor shares extended recent losses: SK Hynix (SKHY.O) down 1.9%, Micron Technology (MU.O) down 1.6%, SanDisk (SNDK.O) down 2.3%, NVIDIA (NVDA.O) down 0.3%."
+    },
+    {
+      "id": "te:markets:570695",
+      "time": "2026-07-29 16:01:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Standard Chartered earnings above expectations at 0.75 USD — Standard Chartered (STAN) released earnings per share at 0.75 USD, compared to market expectations of 0.66 USD."
+    },
+    {
+      "id": "te:markets:570694",
+      "time": "2026-07-29 16:01:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Komatsu earnings above expectations at 107.20 JPY — Komatsu (6301) released earnings per share at 107.20 JPY, compared to market expectations of 97.42 JPY."
+    },
+    {
+      "id": "5013981",
+      "time": "2026-07-29 16:01:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前多數上漲，理想汽車漲4%】美股中概股盤前多數上漲，理想汽車漲4%，嗶哩嗶哩、攜程、蔚來漲3%，網易漲2%，京東、阿里巴巴漲0.6%，拼多多跌0.2%。"
+    },
+    {
+      "id": "5013980",
+      "time": "2026-07-29 16:01:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股大型科技股盤前多數上漲，SK海力士跌1%】美股大型科技股盤前多數上漲，微軟漲1%，Meta漲0.8%，亞馬遜漲0.5%，蘋果漲0.4%，谷歌A漲0.1%，特斯拉跌0.3%，英偉達跌0.4%，SpaceX跌0.8%，SK海力士、美光科技跌1%。"
+    },
+    {
+      "id": "5013979",
+      "time": "2026-07-29 16:01:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "喬治亞央行將關鍵再融資利率維持在8.25%不變。"
+    },
+    {
+      "id": "mkt:019face4-22b6-7aab-8ee2-dae32b441365",
+      "time": "2026-07-29 16:00:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Italy May seasonally adjusted industrial sales YoY +5.3% (previous +3.2%)."
+    },
+    {
+      "id": "mkt:019face4-2148-7aab-8ee2-d57805e4f1d0",
+      "time": "2026-07-29 16:00:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Georgia’s central bank left its key refinancing rate unchanged at 8.25%."
+    },
+    {
+      "id": "5013978",
+      "time": "2026-07-29 16:00:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行透過傳統方式開展1週期金換里拉賣方掉期拍賣，拍賣規模為5噸。"
+    },
+    {
+      "id": "mkt:019face4-051a-7aab-8ee2-cffedc0b38e4",
+      "time": "2026-07-29 16:00:52",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Italy May seasonally adjusted industrial sales MoM 0.6%, prior 0.3%."
+    },
+    {
+      "id": "mkt:019face4-0452-7aab-8ee2-c4b26c8d2246",
+      "time": "2026-07-29 16:00:52",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Calendar Adjusted Industrial Sales (YoY) (May) | actual 5.3% | previous 3.20%"
+    },
+    {
+      "id": "mkt:019face3-ec2d-7aab-8ee2-bb3f7c80dfe8",
+      "time": "2026-07-29 16:00:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish",
+        "Aluminium",
+        "Zinc"
+      ],
+      "text": "LME stocks: lead down 550 tonnes, aluminium down 1,500 tonnes, nickel unchanged, copper down 6,475 tonnes, zinc down 700 tonnes, tin down 80 tonnes."
+    },
+    {
+      "id": "5013977",
+      "time": "2026-07-29 16:00:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所（LME）：鉛庫存減少550噸，鋁庫存減少1500噸，鎳庫存持平，銅庫存減少6475噸，鋅庫存減少700噸，錫庫存減少80噸。"
+    },
+    {
+      "id": "mkt:019face3-e841-7aab-8ee2-b4f7b678f41a",
+      "time": "2026-07-29 16:00:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Seasonally Adjusted Industrial Sales (MoM) (May) | actual 0.6% | previous 0.30%"
+    },
+    {
+      "id": "mkt:019face3-c058-7aab-8ee2-ae4e9dab6454",
+      "time": "2026-07-29 16:00:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland July ZEW economic current conditions index 6.7, prior 2.8."
+    },
+    {
+      "id": "mkt:019face3-9f8d-7aab-8ee2-a3b5e38e79e4",
+      "time": "2026-07-29 16:00:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | ZEW Current Conditions (Jul) | actual 6.7 | previous 2.8"
+    },
+    {
+      "id": "te:markets:570692",
+      "time": "2026-07-29 16:00:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Rises on Wednesday — The FTSE MIB rose to around 51,800 on Wednesday, trimming some of the previous session's losses as investors assessed a fresh batch of corporate earnings while monitoring renewed hostilities between the US and Iran. Eni surged more than 4% after reporting that its second-quarter net profit more than doubled and raising its full-year guidance. The company also announced a new share buyback program. Recordati also gained 0.4% after posting stronger first-half results, with higher revenue and earnings, while Nexi advanced more than 3% on solid revenue and profit growth in the first half of 2026. Stellantis climbed around 3% after announcing the sale of its Free2move car-sharing business to Munich-based investment firm Mutares SE & Co. KGaA as part of its strategy to streamline operations. On the downside, STMicroelectronics fell more than 2% as the global selloff in semiconductor stocks intensified."
+    },
+    {
+      "id": "te:markets:570693",
+      "time": "2026-07-29 16:00:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Gains by 3.75% — Top commodity gainers are Brent Crude Oil (3.75%), Crude Oil WTI (3.57%) and Heating Oil (2.36%). Biggest loser is Natural gas (-0.65%)."
+    },
+    {
+      "id": "mkt:019face3-5551-7aab-8ee2-9cc0b72c56bc",
+      "time": "2026-07-29 16:00:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Swiss July ZEW investor confidence index 10, prior -25."
+    },
+    {
+      "id": "mkt:019face3-396d-7aab-8ee2-977844121970",
+      "time": "2026-07-29 16:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | ZEW Economic Sentiment (Jul) | actual 10 | previous -25"
+    },
+    {
+      "id": "5013975",
+      "time": "2026-07-29 15:59:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：黎巴嫩南部城鎮納巴蒂耶福卡遭到以色列猛烈炮擊。"
+    },
+    {
+      "id": "mkt:019face2-f04f-7aab-8ee2-8defaa49b26c",
+      "time": "2026-07-29 15:59:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Lebanon's National News Agency reported heavy Israeli shelling of the southern town of Nabatieh al-Fawqa."
+    },
+    {
+      "id": "mkt:019face2-aa2d-7aab-8ee2-8509fe8df9c0",
+      "time": "2026-07-29 15:59:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rui'ang Gene subsidiary granted Chinese patent for 15‑color full‑spectrum flow cytometry MRD kit】Shanghai Yuanqi Biopharma, a subsidiary of Rui'ang Gene, has been granted a national invention patent for a 15‑color full‑spectrum flow cytometry reagent kit and monitoring method to detect minimal residual disease (MRD) in acute B‑cell lymphoblastic leukemia."
+    },
+    {
+      "id": "5013974",
+      "time": "2026-07-29 15:59:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興齊眼藥：首次回購46.02萬股 支付金額1830萬元】興齊眼藥公告稱，公司於2026年7月28日首次透過集中競價交易方式回購股份460,190股，佔總股本的0.13%，成交最低價格39.54元/股，最高價格40.15元/股，支付總金額1830萬元（不含交易費用）。本次回購符合方案及法規要求，後續將在期限內繼續實施並及時披露。"
+    },
+    {
+      "id": "5013972",
+      "time": "2026-07-29 15:58:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中鐵工業：2026年上半年新籤合同額同比下降5.26%】中鐵工業公告，公司2026年1-6月新籤合同額合計202.83億元，同比下降5.26%。其中，境內新籤合同額168.35億元，同比下降13.76%；境外新籤合同額34.48億元，同比增長82.44%。專用工程機械裝備及相關服務新籤合同額67.73億元，同比增長8.74%；交通運輸裝備及相關服務新籤合同額115.33億元，同比下降16.34%。此外，公司2026年第二季度重大合同簽約金額合計7.47億元。"
+    },
     {
       "id": "5013971",
       "time": "2026-07-29 15:56:37",
@@ -160619,121 +160876,6 @@
         "國際"
       ],
       "text": "【證監會：吳清主席會見加拿大養老基金投資公司總裁兼執行長格雷厄姆】2026年7月21日，中國證監會主席吳清在京會見了加拿大養老基金投資公司總裁兼執行長格雷厄姆（John Graham）。雙方就全球及中國經濟金融形勢、投資中國資本市場等議題交換了意見。\n\n吳清表示，在複雜多變的國際形勢下，今年上半年中國經濟執行總體平穩，保持向新向優發展態勢，展現出韌性與活力。中國證監會將堅持穩中求進，堅決維護資本市場平穩健康執行，穩步擴大高水平制度型開放，持續提升外資參與資本市場的便利度。歡迎包括加拿大養老基金投資公司在內的國際機構投資者擴大對華投資，共享中國經濟和資本市場改革發展紅利。\n\n格雷厄姆表示，加拿大養老基金投資公司作為全球佈局的長線投資機構，高度關注並持續看好中國經濟改革發展成效，長期將中國作為其全球投資的重要區域之一，未來將繼續踐行價值投資理念，積極佈局投資中國。"
-    },
-    {
-      "id": "5001827",
-      "time": "2026-07-22 16:02:10",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【財政部：2026年中央本級基礎研究預算同比增長16.3%】財政部科教和文化司副司長 王曄：堅持加大投入，強化經費保障。2026年中央本級基礎研究預算比上年增長16.3%。在財政的引導帶動下，我國全社會基礎研究經費投入快速增加，從2013年的555億元增長至2025年的2778億元，穩居世界第二，佔全社會研發經費比重從4.68%提高至7.08%，創歷史新高。（央視新聞）"
-    },
-    {
-      "id": "te:markets:568826",
-      "time": "2026-07-22 16:02:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Steady as Bank Indonesia Pauses Tightening — The Indonesian rupiah remained largely unchanged at around IDR 17,900 per U.S. dollar on Wednesday afternoon after Bank Indonesia unexpectedly kept its benchmark interest rate unchanged at 5.75%, as policymakers assessed the impact of earlier tightening measures. The decision marked a pause after a cumulative 100bps of rate hikes in May and June aimed at supporting the currency and containing inflationary pressures. Despite the aggressive tightening cycle, the rupiah remained under pressure against the dollar after losing roughly 7% so far this year. External headwinds persisted, with renewed U.S.-Iran hostilities and threats to shipping through the Strait of Hormuz fueling concerns over energy supplies and higher oil prices. For Indonesia, a net oil importer, rising crude prices could widen the import bill, increase energy subsidy costs, and add to price pressures. Meanwhile, the U.S. dollar index remained firm, limiting gains in regional currencies."
-    },
-    {
-      "id": "5001826",
-      "time": "2026-07-22 16:01:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列南部港口城市埃拉特傳出爆炸聲】總檯記者獲悉，當地時間22日上午，以色列南部港口城市埃拉特有居民稱聽到爆炸聲，同時山區上方可看到白色煙團。據稱，爆炸聲或與約旦遭襲有關。（央視新聞）"
-    },
-    {
-      "id": "5001825",
-      "time": "2026-07-22 16:01:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愛科賽博：擬以2500萬元-5000萬元回購公司股份】愛科賽博公告，擬以2500萬元-5000萬元回購公司股份，回購價格不超過111.25元/股。"
-    },
-    {
-      "id": "te:economy:568825",
-      "time": "2026-07-22 16:01:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Loan Growth",
-        "Importance 0"
-      ],
-      "text": "Indonesia Loan Growth Highest in Over 2 Years — Indonesia's loan growth rose by 12.67% year-on-year in June 2026, accelerating from an 11.51% increase in the previous month and marking the strongest pace since April 2024. The increase was driven by investment credit (24.90%), working capital credit (8.94%), and consumer credit (5.75%). Banking resilience remained solid despite heightened global uncertainty, supported by strong capital buffers, low credit risk, and adequate liquidity. Looking ahead, Bank Indonesia expects credit growth to remain within the 8%–12% range in 2026, backed by Rp2,490 trillion in undisbursed loan facilities, equivalent to 21.52% of total credit limits. Lending prospects are also supported by steady third-party fund growth of 10.21% year-on-year and favorable interest rate conditions. Meanwhile, the banking industry's liquid assets-to-deposits (AL/DPK) ratio stood at 23.08% in June, while the average lending rate was 8.81% and the one-month deposit rate was 4.76%."
-    },
-    {
-      "id": "5001824",
-      "time": "2026-07-22 16:01:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股盤前，儲存晶片股普跌，閃迪跌約2%，SK海力士跌約5%，美光科技跌約2%，西部資料跌約3%，希捷科技跌約3%。"
-    },
-    {
-      "id": "5001823",
-      "time": "2026-07-22 16:00:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所(LME)：鉛庫存減少425噸，錫庫存減少140噸，鋅庫存減少850噸，銅庫存減少6750噸，鎳庫存減少1512噸，鋁庫存減少1500噸。"
-    },
-    {
-      "id": "5001821",
-      "time": "2026-07-22 16:00:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "南非6月消費者價格指數同比上漲5%；此前預期上漲4.7%。"
-    },
-    {
-      "id": "te:markets:568824",
-      "time": "2026-07-22 16:00:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Crude Oil WTI Gains by 4.06% — Top commodity gainers are Crude Oil WTI (4.06%), Brent Crude Oil (3.83%) and Natural Gas EU (2.59%)."
-    },
-    {
-      "id": "5001820",
-      "time": "2026-07-22 15:59:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面表示，如果美國踏上伊朗的陸地，伊朗將全力反擊。"
-    },
-    {
-      "id": "5001819",
-      "time": "2026-07-22 15:59:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雙元科技：實控人提議回購5000萬元-8000萬元公司股份】雙元科技7月22日公告，公司實控人、董事長兼總經理鄭建提議公司使用首次公開發行普通股取得的超募資金透過上海證券交易所交易系統以集中競價交易方式回購公司已發行的部分普通股（A股），並將回購股份在未來適宜時機全部用於員工持股計劃或股權激勵。回購資金總額不低於5000萬元（含），不超過8000萬元（含）。回購價格不高於公司董事會審議透過回購股份方案前30個交易日公司股票交易均價的150%，具體以董事會審議透過的回購股份方案為準。"
-    },
-    {
-      "id": "5001818",
-      "time": "2026-07-22 15:59:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟中國商會關於歐委會對全球速賣通罰款的答記者問】問：歐委會20日據歐盟《數字服務法》對全球速賣通處以5.5億歐元罰款，商會對此有何評論？歐盟中國商會表示，商會注意到歐盟委員會根據《數字服務法》對全球速賣通作出的有關決定，對此表示不滿和高度關切。商會對該決定在對企業合規努力的考量、對企業合法權益的保障以及處罰措施的比例性等方面表達嚴正關切，並對此表示堅決反對。歐盟中國商會一貫支援公平、開放、非歧視的數字市場環境。我們認為，平臺監管應當建立在明確、透明和可預期的法律框架之上，不應透過數字規則設定市場壁壘，並應避免對企業正常經營和市場信心造成不利影響。（歐盟中國商會）"
-    },
-    {
-      "id": "5001817",
-      "time": "2026-07-22 15:58:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金冠股份：中標專案金額合計約2.52億元】金冠股份公告稱，公司及全資子公司能瑞電力近期中標國家電網及其下屬公司、南方電網等相關專案，中標金額合計約2.52億元。交易對方具備支付款項能力，與公司無關聯關係。若後續簽訂正式合同並正常履行，將對公司未來經營及業績產生積極影響，但專案仍存在不確定性，需形成實際訂單並完成交付才能確認業績。"
     }
   ]
 }

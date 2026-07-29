@@ -1,7 +1,264 @@
 {
   "date": "2026-07-29",
-  "count": 1723,
+  "count": 1748,
   "items": [
+    {
+      "id": "mkt:019face4-be4d-7aab-8ee2-e66f77106ff2",
+      "time": "2026-07-29 16:01:39",
+      "tags": [
+        "MKT News",
+        "NVDA.O",
+        "Impact bearish",
+        "MU.O",
+        "SKHY.O"
+      ],
+      "text": "U.S. premarket semiconductor shares extended recent losses: SK Hynix (SKHY.O) down 1.9%, Micron Technology (MU.O) down 1.6%, SanDisk (SNDK.O) down 2.3%, NVIDIA (NVDA.O) down 0.3%."
+    },
+    {
+      "id": "te:markets:570695",
+      "time": "2026-07-29 16:01:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Standard Chartered earnings above expectations at 0.75 USD — Standard Chartered (STAN) released earnings per share at 0.75 USD, compared to market expectations of 0.66 USD."
+    },
+    {
+      "id": "te:markets:570694",
+      "time": "2026-07-29 16:01:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Komatsu earnings above expectations at 107.20 JPY — Komatsu (6301) released earnings per share at 107.20 JPY, compared to market expectations of 97.42 JPY."
+    },
+    {
+      "id": "5013981",
+      "time": "2026-07-29 16:01:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前多數上漲，理想汽車漲4%】美股中概股盤前多數上漲，理想汽車漲4%，嗶哩嗶哩、攜程、蔚來漲3%，網易漲2%，京東、阿里巴巴漲0.6%，拼多多跌0.2%。"
+    },
+    {
+      "id": "5013980",
+      "time": "2026-07-29 16:01:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股大型科技股盤前多數上漲，SK海力士跌1%】美股大型科技股盤前多數上漲，微軟漲1%，Meta漲0.8%，亞馬遜漲0.5%，蘋果漲0.4%，谷歌A漲0.1%，特斯拉跌0.3%，英偉達跌0.4%，SpaceX跌0.8%，SK海力士、美光科技跌1%。"
+    },
+    {
+      "id": "5013979",
+      "time": "2026-07-29 16:01:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "喬治亞央行將關鍵再融資利率維持在8.25%不變。"
+    },
+    {
+      "id": "mkt:019face4-22b6-7aab-8ee2-dae32b441365",
+      "time": "2026-07-29 16:00:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Italy May seasonally adjusted industrial sales YoY +5.3% (previous +3.2%)."
+    },
+    {
+      "id": "mkt:019face4-2148-7aab-8ee2-d57805e4f1d0",
+      "time": "2026-07-29 16:00:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Georgia’s central bank left its key refinancing rate unchanged at 8.25%."
+    },
+    {
+      "id": "5013978",
+      "time": "2026-07-29 16:00:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行透過傳統方式開展1週期金換里拉賣方掉期拍賣，拍賣規模為5噸。"
+    },
+    {
+      "id": "mkt:019face4-051a-7aab-8ee2-cffedc0b38e4",
+      "time": "2026-07-29 16:00:52",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Italy May seasonally adjusted industrial sales MoM 0.6%, prior 0.3%."
+    },
+    {
+      "id": "mkt:019face4-0452-7aab-8ee2-c4b26c8d2246",
+      "time": "2026-07-29 16:00:52",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Calendar Adjusted Industrial Sales (YoY) (May) | actual 5.3% | previous 3.20%"
+    },
+    {
+      "id": "mkt:019face3-ec2d-7aab-8ee2-bb3f7c80dfe8",
+      "time": "2026-07-29 16:00:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish",
+        "Aluminium",
+        "Zinc"
+      ],
+      "text": "LME stocks: lead down 550 tonnes, aluminium down 1,500 tonnes, nickel unchanged, copper down 6,475 tonnes, zinc down 700 tonnes, tin down 80 tonnes."
+    },
+    {
+      "id": "mkt:019face3-e841-7aab-8ee2-b4f7b678f41a",
+      "time": "2026-07-29 16:00:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Seasonally Adjusted Industrial Sales (MoM) (May) | actual 0.6% | previous 0.30%"
+    },
+    {
+      "id": "5013977",
+      "time": "2026-07-29 16:00:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所（LME）：鉛庫存減少550噸，鋁庫存減少1500噸，鎳庫存持平，銅庫存減少6475噸，鋅庫存減少700噸，錫庫存減少80噸。"
+    },
+    {
+      "id": "mkt:019face3-c058-7aab-8ee2-ae4e9dab6454",
+      "time": "2026-07-29 16:00:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland July ZEW economic current conditions index 6.7, prior 2.8."
+    },
+    {
+      "id": "mkt:019face3-9f8d-7aab-8ee2-a3b5e38e79e4",
+      "time": "2026-07-29 16:00:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | ZEW Current Conditions (Jul) | actual 6.7 | previous 2.8"
+    },
+    {
+      "id": "te:markets:570693",
+      "time": "2026-07-29 16:00:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Gains by 3.75% — Top commodity gainers are Brent Crude Oil (3.75%), Crude Oil WTI (3.57%) and Heating Oil (2.36%). Biggest loser is Natural gas (-0.65%)."
+    },
+    {
+      "id": "te:markets:570692",
+      "time": "2026-07-29 16:00:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Rises on Wednesday — The FTSE MIB rose to around 51,800 on Wednesday, trimming some of the previous session's losses as investors assessed a fresh batch of corporate earnings while monitoring renewed hostilities between the US and Iran. Eni surged more than 4% after reporting that its second-quarter net profit more than doubled and raising its full-year guidance. The company also announced a new share buyback program. Recordati also gained 0.4% after posting stronger first-half results, with higher revenue and earnings, while Nexi advanced more than 3% on solid revenue and profit growth in the first half of 2026. Stellantis climbed around 3% after announcing the sale of its Free2move car-sharing business to Munich-based investment firm Mutares SE & Co. KGaA as part of its strategy to streamline operations. On the downside, STMicroelectronics fell more than 2% as the global selloff in semiconductor stocks intensified."
+    },
+    {
+      "id": "mkt:019face3-5551-7aab-8ee2-9cc0b72c56bc",
+      "time": "2026-07-29 16:00:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Swiss July ZEW investor confidence index 10, prior -25."
+    },
+    {
+      "id": "mkt:019face3-396d-7aab-8ee2-977844121970",
+      "time": "2026-07-29 16:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | ZEW Economic Sentiment (Jul) | actual 10 | previous -25"
+    },
+    {
+      "id": "5013975",
+      "time": "2026-07-29 15:59:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：黎巴嫩南部城鎮納巴蒂耶福卡遭到以色列猛烈炮擊。"
+    },
+    {
+      "id": "mkt:019face2-f04f-7aab-8ee2-8defaa49b26c",
+      "time": "2026-07-29 15:59:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Lebanon's National News Agency reported heavy Israeli shelling of the southern town of Nabatieh al-Fawqa."
+    },
+    {
+      "id": "mkt:019face2-aa2d-7aab-8ee2-8509fe8df9c0",
+      "time": "2026-07-29 15:59:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rui'ang Gene subsidiary granted Chinese patent for 15‑color full‑spectrum flow cytometry MRD kit】Shanghai Yuanqi Biopharma, a subsidiary of Rui'ang Gene, has been granted a national invention patent for a 15‑color full‑spectrum flow cytometry reagent kit and monitoring method to detect minimal residual disease (MRD) in acute B‑cell lymphoblastic leukemia."
+    },
+    {
+      "id": "5013974",
+      "time": "2026-07-29 15:59:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興齊眼藥：首次回購46.02萬股 支付金額1830萬元】興齊眼藥公告稱，公司於2026年7月28日首次透過集中競價交易方式回購股份460,190股，佔總股本的0.13%，成交最低價格39.54元/股，最高價格40.15元/股，支付總金額1830萬元（不含交易費用）。本次回購符合方案及法規要求，後續將在期限內繼續實施並及時披露。"
+    },
+    {
+      "id": "5013972",
+      "time": "2026-07-29 15:58:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中鐵工業：2026年上半年新籤合同額同比下降5.26%】中鐵工業公告，公司2026年1-6月新籤合同額合計202.83億元，同比下降5.26%。其中，境內新籤合同額168.35億元，同比下降13.76%；境外新籤合同額34.48億元，同比增長82.44%。專用工程機械裝備及相關服務新籤合同額67.73億元，同比增長8.74%；交通運輸裝備及相關服務新籤合同額115.33億元，同比下降16.34%。此外，公司2026年第二季度重大合同簽約金額合計7.47億元。"
+    },
     {
       "id": "5013971",
       "time": "2026-07-29 15:56:37",
