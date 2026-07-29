@@ -1,7 +1,58 @@
 {
   "date": "2026-07-29",
-  "count": 617,
+  "count": 623,
   "items": [
+    {
+      "id": "mkt:019fab49-8ed5-7aab-8ed7-b300b0ddcc21",
+      "time": "2026-07-29 08:32:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【1,132 frontier AI employees urge US to lead international effort to slow frontier AI development】A joint statement signed by 1,132 employees at frontier AI firms including OpenAI, Meta, Google and Anthropic warned automation of AI R&D may be near and, while timing is uncertain, a material risk exists that rapid capability breakthroughs could outpace human understanding and control. The signatories said industry, governments and society need time to address emerging risks, build safety guardrails and strengthen regulatory frameworks, but firms and countries face a competitive dilemma—no one is willing to slow alone. They urged the US government to build on existing monitoring of frontier model releases and push an international collaboration to develop the technical and governance tools needed to prudently guide automated AI R&D."
+    },
+    {
+      "id": "5013223",
+      "time": "2026-07-29 08:31:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新易盛：正有序推進H股發行相關工作】新易盛7月29日在互動平臺表示，公司正有序推進H股發行相關工作，公司將嚴格按照相關法律法規履行資訊披露義務。"
+    },
+    {
+      "id": "5013222",
+      "time": "2026-07-29 08:31:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "共同社報道，豐田汽車位於九州的三座工廠已於週三恢復生產。"
+    },
+    {
+      "id": "5013221",
+      "time": "2026-07-29 08:30:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐美大使會見彭博社總編，就中美關係與媒體合作等交換意見】7月27日，中國駐美國大使謝鋒會見彭博社總編米思偉，雙方就中美關係、中美媒體合作等交換意見。"
+    },
+    {
+      "id": "5013220",
+      "time": "2026-07-29 08:30:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "據共同社報道，日本政府官員稱，熊本地震已造成十餘人疑似因災死亡。"
+    },
+    {
+      "id": "5013219",
+      "time": "2026-07-29 08:29:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【超千名全球AI從業者聯名請求美政府支援國際合作，建立AI“剎車”機制】當地時間7月28日，來自OpenAI、Anthropic、谷歌等十餘家前沿AI公司的1134名研究人員和從業者，共同簽署了一份題為《掌控前沿技術》的公開宣告，指出全球領先AI公司可能已接近實現自動化AI研究，存在AI能力發展速度超出人類理解與控制能力的風險。但由於各企業與各國均面臨激烈競爭壓力、無人願單方面減速，聯名信請求美國政府支援一項國際合作，開發必要的技術與治理工具，以便有意識地掌控前沿自動化AI發展的節奏。"
+    },
     {
       "id": "5013217",
       "time": "2026-07-29 08:27:36",

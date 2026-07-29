@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-29 08:29:25",
-  "count": 17540,
+  "updated": "2026-07-29 08:33:19",
+  "count": 17535,
   "items": [
+    {
+      "id": "mkt:019fab49-8ed5-7aab-8ed7-b300b0ddcc21",
+      "time": "2026-07-29 08:32:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【1,132 frontier AI employees urge US to lead international effort to slow frontier AI development】A joint statement signed by 1,132 employees at frontier AI firms including OpenAI, Meta, Google and Anthropic warned automation of AI R&D may be near and, while timing is uncertain, a material risk exists that rapid capability breakthroughs could outpace human understanding and control. The signatories said industry, governments and society need time to address emerging risks, build safety guardrails and strengthen regulatory frameworks, but firms and countries face a competitive dilemma—no one is willing to slow alone. They urged the US government to build on existing monitoring of frontier model releases and push an international collaboration to develop the technical and governance tools needed to prudently guide automated AI R&D."
+    },
+    {
+      "id": "5013223",
+      "time": "2026-07-29 08:31:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新易盛：正有序推進H股發行相關工作】新易盛7月29日在互動平臺表示，公司正有序推進H股發行相關工作，公司將嚴格按照相關法律法規履行資訊披露義務。"
+    },
+    {
+      "id": "5013222",
+      "time": "2026-07-29 08:31:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "共同社報道，豐田汽車位於九州的三座工廠已於週三恢復生產。"
+    },
+    {
+      "id": "5013221",
+      "time": "2026-07-29 08:30:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐美大使會見彭博社總編，就中美關係與媒體合作等交換意見】7月27日，中國駐美國大使謝鋒會見彭博社總編米思偉，雙方就中美關係、中美媒體合作等交換意見。"
+    },
+    {
+      "id": "5013220",
+      "time": "2026-07-29 08:30:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "據共同社報道，日本政府官員稱，熊本地震已造成十餘人疑似因災死亡。"
+    },
+    {
+      "id": "5013219",
+      "time": "2026-07-29 08:29:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【超千名全球AI從業者聯名請求美政府支援國際合作，建立AI“剎車”機制】當地時間7月28日，來自OpenAI、Anthropic、谷歌等十餘家前沿AI公司的1134名研究人員和從業者，共同簽署了一份題為《掌控前沿技術》的公開宣告，指出全球領先AI公司可能已接近實現自動化AI研究，存在AI能力發展速度超出人類理解與控制能力的風險。但由於各企業與各國均面臨激烈競爭壓力、無人願單方面減速，聯名信請求美國政府支援一項國際合作，開發必要的技術與治理工具，以便有意識地掌控前沿自動化AI發展的節奏。"
+    },
     {
       "id": "5013217",
       "time": "2026-07-29 08:27:36",
@@ -160804,112 +160855,6 @@
         "國際"
       ],
       "text": "【韓國三星、SK、Naver高管將與英偉達黃仁勳會面】據韓聯社援引未具名的行業人士訊息，三星電子執行董事長李在鎔、SK集團會長崔泰源以及Naver創始人李海珍將於本週在美國與英偉達執行長黃仁勳會面。 此次圓桌會議預計於7月24日在矽谷附近舉行，OpenAI執行長薩姆·奧特曼和Anthropic執行長達里奧·阿莫迪也可能出席。 此次會議將匯聚人工智慧記憶體、GPU及生成式AI服務領域的領軍企業代表。"
-    },
-    {
-      "id": "em:jjsj_ozsj:202607223816348045",
-      "time": "2026-07-22 08:32:21",
-      "tags": [
-        "經濟數據",
-        "澳洲"
-      ],
-      "text": "澳大利亞6月西太平洋領先指標環比0.04%，前值-0.04%。"
-    },
-    {
-      "id": "mkt:019f873b-a6bb-7aab-8e35-1e1156f4cd05",
-      "time": "2026-07-22 08:31:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia Westpac leading index MoM +0.04% in June, previous -0.04%."
-    },
-    {
-      "id": "5001085",
-      "time": "2026-07-22 08:30:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美司法部提議2027年6月開審所謂馬杜羅涉嫌販毒案】當地時間7月21日，美國司法部提議，於2027年6月開始審理所謂委內瑞拉總統尼古拉斯·馬杜羅涉嫌販毒一案。"
-    },
-    {
-      "id": "mkt:019f873b-864f-7aab-8e35-14f642e0f1c6",
-      "time": "2026-07-22 08:30:52",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Westpac Leading Index (MoM) (Jun) | actual 0.04% | previous -0.04%"
-    },
-    {
-      "id": "mkt:019f873b-7fb8-7aab-8e35-0f702e06f454",
-      "time": "2026-07-22 08:30:51",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "【Yonhap: Samsung, SK and Naver leaders to meet NVIDIA CEO in Silicon Valley】Yonhap reports Samsung Electronics chairman Lee Jae‑yong, SK Group chairman Chey Tae‑won and Naver chairman Lee Hae‑jin plan to meet NVIDIA CEO Jensen Huang in the U.S. Senior executives from the four firms are scheduled for a roundtable near Silicon Valley this week, sources said; the meeting is likely on July 24."
-    },
-    {
-      "id": "5001084",
-      "time": "2026-07-22 08:30:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞企業監管機構表示，若發現審計機構存在不當行為，將加大訴訟追究力度。"
-    },
-    {
-      "id": "mkt:019f873b-40d2-7aab-8e35-0058204eddf0",
-      "time": "2026-07-22 08:30:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold touched $4,100/oz for the first time in a week."
-    },
-    {
-      "id": "5001083",
-      "time": "2026-07-22 08:30:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4100美元/盎司，日內漲0.57%。"
-    },
-    {
-      "id": "5001082",
-      "time": "2026-07-22 08:30:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞6月西太平洋領先指標環比 0.04%，前值 -0.04%。"
-    },
-    {
-      "id": "5001081",
-      "time": "2026-07-22 08:30:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海證交所上日融資餘額上漲0.1%至13,636.0億元。"
-    },
-    {
-      "id": "te:economy:568649",
-      "time": "2026-07-22 08:29:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Exports YoY",
-        "Importance 2"
-      ],
-      "text": "Japan Exports Rise at Fastest Pace Since 2022 — Japan's exports surged 19.3% year-on-year to a three-month high of JPY 10,929.0 billion in June 2026, marking the strongest growth since November 2022 and surpassing market expectations of an 18.6% increase. It was also the tenth straight month of export growth, supported by a weaker yen and robust demand for AI-related semiconductors and data center equipment despite supply disruptions from the U.S.-Israeli war with Iran."
     }
   ]
 }
