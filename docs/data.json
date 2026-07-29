@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-30 06:59:07",
-  "count": 17791,
+  "updated": "2026-07-30 07:03:34",
+  "count": 17784,
   "items": [
+    {
+      "id": "5015348",
+      "time": "2026-07-30 07:01:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【蓋茨擬8月訪韓推進小型模組化反應堆合作】比爾·蓋茨將於8月14日訪問韓國，與SK集團、HD現代集團旗下企業洽談小型模組化反應堆（SMR）相關業務合作。核心議程預計探討推動韓國企業擴大在泰拉能源（TerraPower）專案中的參與規模。"
+    },
+    {
+      "id": "5015347",
+      "time": "2026-07-30 07:00:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：比爾·蓋茨將前往韓國，討論小型模組化反應堆（SMR）的合作事宜。"
+    },
     {
       "id": "mkt:019fb019-6c06-7aab-8efb-000d3ebf9169",
       "time": "2026-07-30 06:58:03",
@@ -164010,92 +164027,6 @@
         "其他"
       ],
       "text": "【三大指標再創新高！中國造船業持續領跑全球】7月23日，工業和資訊化部發布2026年上半年我國船舶工業統計資料。資料顯示：我國造船完工量、新接訂單量和手持訂單量三大核心指標再創歷史新高，持續領跑全球市場。今年上半年，代表我國船舶建造能力的造船完工量為3650萬載重噸，同比增長51.2%；象徵造船業長期穩定的手持訂單量為36325萬載重噸，同比增長54.9%。代表市場競爭力的新接訂單量達到了12106萬載重噸，同比增長173.1%，一舉超過歷史全年訂單峰值。在新接訂單資料中，記者發現，我國在三大主流船型——散貨船、集裝箱船和油輪的新接訂單量，佔國際市場份額均超過了80%。（央視新聞）"
-    },
-    {
-      "id": "5003152",
-      "time": "2026-07-23 07:02:01",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【今日15時將舉行重要釋出會 商務部負責人介紹情況】國務院新聞辦公室將於2026年7月23日（星期四）下午3時舉行新聞釋出會，請商務部副部長鄢東介紹2026年上半年商務工作及執行情況，並答記者問。"
-    },
-    {
-      "id": "mkt:019f8c10-425d-7aab-8e54-381e9ceb4f6c",
-      "time": "2026-07-23 07:01:43",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "【Three core metrics hit new highs; China shipbuilding continues to lead global market】China's Ministry of Industry and Information Technology said on July 23 that 1H 2026 shipbuilding data showed three core metrics—completed output, new orders and orderbook—reached record highs, keeping China ahead of the global market. Completed deliveries were 36.5 mln DWT, up 51.2% YoY; orderbook stood at 363.25 mln DWT, up 54.9% YoY; new orders totaled 121.06 mln DWT, up 173.1% YoY and exceeded the prior full-year order peak."
-    },
-    {
-      "id": "mkt:019f8c0f-790d-7aab-8e54-301ef199bdbe",
-      "time": "2026-07-23 07:00:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Developer behind OpenAI’s Australian data center has abandoned plans to use recycled water for cooling."
-    },
-    {
-      "id": "5003151",
-      "time": "2026-07-23 07:00:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：OpenAI 澳大利亞資料中心專案開發商放棄使用再生水進行冷卻的規劃。"
-    },
-    {
-      "id": "5003150",
-      "time": "2026-07-23 07:00:15",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "韓國第二季度GDP季率初值 0.6%，預期0.4%，前值1.80%。\n韓國第二季度GDP年率初值 3.7%，預期3.5%，前值3.80%。"
-    },
-    {
-      "id": "mkt:019f8c0e-d7b4-7aab-8e54-2d3c22306ef9",
-      "time": "2026-07-23 07:00:10",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish",
-        "Hang Seng Index",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "South Korea Q2 preliminary annualized GDP 3.7% vs 3.5% est; prior 3.8%."
-    },
-    {
-      "id": "mkt:019f8c0e-cf1c-7aab-8e54-20c57499ebce",
-      "time": "2026-07-23 07:00:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea Q2 preliminary GDP 0.6% QoQ vs 0.4% expected; prior 1.8%."
-    },
-    {
-      "id": "mkt:019f8c0e-af54-7aab-8e54-1a992c825dc8",
-      "time": "2026-07-23 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | GDP Growth Rate Flash (YoY) (Q2) | actual 3.7% | consensus 3.5% | previous 3.80%"
-    },
-    {
-      "id": "mkt:019f8c0e-af2c-7aab-8e54-13194224122b",
-      "time": "2026-07-23 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | GDP Growth Rate Flash (QoQ) (Q2) | actual 0.6% | consensus 0.4% | previous 1.80%"
     }
   ]
 }
