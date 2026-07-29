@@ -1,7 +1,126 @@
 {
   "date": "2026-07-29",
-  "count": 1673,
+  "count": 1685,
   "items": [
+    {
+      "id": "mkt:019facd2-738c-7aab-8ee2-2ffb2a0c6638",
+      "time": "2026-07-29 15:41:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported Iran's foreign minister Araghchi held a phone call with EU High Representative for Foreign Affairs and Security Policy Kallas to review recent regional and international developments and discuss measures to help ease tensions."
+    },
+    {
+      "id": "5013946",
+      "time": "2026-07-29 15:41:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國西電：子公司具備固態變壓器自主研製能力】中國西電(601179)在互動平臺表示，公司所屬子公司西安西電電力電子有限公司具備固態變壓器自主研製能力，產品主要面向配電網和資料中心場景，其10千伏/2.42兆伏安/800伏固態變壓器已應用於貴安國家“東數西算”資料中心專案，10千伏/2兆伏安/750伏固態變壓器已在西安市高新區西電智慧園區光儲充智慧能源系統中順利掛網投運，並於2026年上半年獲得新訂單。目前相關業務收入佔公司總營收比重還很低，後續公司將積極關注市場動態，夯實推進技術成果的產業化基礎，也敬請投資者注意二級市場交易風險。"
+    },
+    {
+      "id": "5013945",
+      "time": "2026-07-29 15:40:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明陽電氣：控股股東3500萬股股份解除質押】明陽電氣公告稱，近日控股股東中山明陽所持公司3500萬股股份解除質押，佔其所持股份比例26.80%，佔公司總股本比例11.13%。截至公告披露日，中山明陽及其一致行動人累計質押股份5450萬股，佔其所持股份比例39.66%，佔公司總股本比例17.33%。本次解質不會對公司產生重大影響，控股股東資信良好，質押風險可控。"
+    },
+    {
+      "id": "5013944",
+      "time": "2026-07-29 15:40:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶馬擬在德國裁員數千人，透過自願離職計劃削減成本】據報道，寶馬集團計劃向德國數千名員工提供自願離職補償方案，作為公司削減成本、提升競爭力的一部分。寶馬全球計劃削減約8000個崗位，其中大部分將來自德國市場。此次自願離職計劃主要面向研發、產品規劃及其他企業職能部門員工，生產線工人不在適用範圍內。公司還計劃在未來幾個月精簡管理層級。該方案預計10月啟動，並持續至2027年。"
+    },
+    {
+      "id": "mkt:019facd1-4453-7aab-8ee2-26d55ec96b0c",
+      "time": "2026-07-29 15:40:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "GBPUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Oil surge lifts inflation fears; UK gilt yields rise】Oil rose after renewed fighting between the US and Iran — Iran launched a missile strike on US forces in Jordan and US and Saudi forces struck Iran-backed militias in Iraq — lifting inflation concerns and pushing UK government bond yields higher. Tradeweb data showed the UK 10-year gilt yield rose 1.2 bps to 4.969%. Investors await a Federal Reserve rate decision later and the Bank of England's decision on Thursday."
+    },
+    {
+      "id": "mkt:019facd1-0ed9-7aab-8ee2-1a7d859f7419",
+      "time": "2026-07-29 15:40:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Deutsche Bank: Dollar could fall if Fed decision weakens rate-hike expectations】Deutsche Bank economist Antje Praefcke said in a note that if the Federal Reserve’s decision leads markets to pare back expectations for rate hikes later this year, the US dollar could weaken. A Fed statement or Chair Kevin Warsh’s press conference may signal that inflation risks are controllable and temporary. With recent falls in energy prices and June inflation undershooting forecasts, Warsh is unlikely to adopt an extreme hawkish bias toward additional tightening, making dollar upside driven by stronger rate-hike expectations less likely."
+    },
+    {
+      "id": "mkt:019facd0-72c8-7aab-8ee2-1571963bd8b8",
+      "time": "2026-07-29 15:39:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Hezhan Energy said it has secured approvals for 1,032.5 MW of green power direct‑connect project quota, with 180 MW currently under implementation. Target expansion regions are Inner Mongolia and Henan."
+    },
+    {
+      "id": "5013943",
+      "time": "2026-07-29 15:39:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦駐聯合國大使敦促各方遵守諒解備忘錄】據報道，巴基斯坦駐聯合國大使阿西姆·伊夫蒂哈爾·艾哈邁德對中東地區不斷升級的緊張局勢表示擔憂，並敦促各方“履行承諾”，遵守上月簽署的諒解備忘錄。他譴責了針對沙特以及商業航運的襲擊，並表達了對沙特安全、主權和領土完整的支援。他還表示，只要以色列繼續佔領巴勒斯坦領土，“中東實現持久和平仍將難以實現”。"
+    },
+    {
+      "id": "5013942",
+      "time": "2026-07-29 15:39:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【時創能源：首次回購9萬股，耗資82.84萬元】時創能源公告，公司於2026年7月29日以集中競價交易方式首次回購公司股份9萬股，佔公司總股本比例0.02%，回購成交最高價9.26元/股，最低價9元/股，支付資金總額82.84萬元。此前公司披露回購方案，擬以1800萬元至3600萬元回購股份，回購價格不超過15.34元/股，用於維護公司價值及股東權益。"
+    },
+    {
+      "id": "5013941",
+      "time": "2026-07-29 15:38:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【精達股份：“精達轉債”贖回登記日為7月30日 即將摘牌】精達股份公告稱，公司股票自2026年6月13日至7月6日，已有十五個交易日收盤價格不低於當期轉股價格的130%，觸發“精達轉債”贖回條款。贖回登記日為7月30日，贖回價格為101.8959元/張，贖回款發放日為7月31日。“精達轉債”於7月27日收市後停止交易，7月30日為最後轉股日，7月31日起將在上海證券交易所摘牌。投資者若未及時轉股，可能面臨較大投資損失。"
+    },
+    {
+      "id": "5013940",
+      "time": "2026-07-29 15:38:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科匯股份：控股股東及其一致行動人權益變動觸及1%刻度】科匯股份公告稱，7月29日，控股股東山東科匯投資股份有限公司透過集中競價和大宗交易方式，分別減持公司股份62萬股、209.34萬股，佔總股本的0.59%、2.00%。其與一致行動人持股比例從35.00%降至32.41%，權益變動觸及1%刻度。本次變動系履行減持計劃，不觸及要約收購，也不會使控股股東和實控人發生變化。截至公告披露日，減持計劃仍在實施中。"
+    },
+    {
+      "id": "5013939",
+      "time": "2026-07-29 15:38:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國通號：擬使用不超27億元閒置募集資金進行現金管理】中國通號公告稱，公司於2026年7月29日召開董事會，審議透過使用不超27億元閒置募集資金進行現金管理的議案，使用期限不超12個月，可迴圈滾動使用。投資產品為安全性高、流動性好、保本型產品。公司授權董事長及其授權人士行使決策權等事宜。此舉不影響募集資金投資計劃，可提高資金使用效率。保薦機構對該事項無異議。"
+    },
     {
       "id": "mkt:019faccf-9c47-7aab-8ee2-0a6a5e34527c",
       "time": "2026-07-29 15:38:34",
