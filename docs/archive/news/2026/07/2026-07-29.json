@@ -1,7 +1,66 @@
 {
   "date": "2026-07-29",
-  "count": 605,
+  "count": 611,
   "items": [
+    {
+      "id": "5013213",
+      "time": "2026-07-29 08:23:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.4%，德國DAX指數期貨上漲0.3%，富時指數期貨上漲0.1%。"
+    },
+    {
+      "id": "5013212",
+      "time": "2026-07-29 08:22:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部：美國中央司令部與沙烏地阿拉伯武裝部隊於當地時間7月28日在伊拉克實施了精確打擊，目標為受伊朗伊斯蘭革命衛隊（IRGC）指揮、曾攻擊美軍及沙特能源基礎設施的親伊朗“恐怖分子”。"
+    },
+    {
+      "id": "mkt:019fab40-9ac2-7aab-8ed7-9b72e19c9c55",
+      "time": "2026-07-29 08:22:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM said it and the Saudi Arabian Armed Forces carried out precision strikes in Iraq on July 28 against pro‑Iran militants commanded by the Islamic Revolutionary Guard Corps (IRGC) who had attacked U.S. forces and Saudi energy infrastructure."
+    },
+    {
+      "id": "5013211",
+      "time": "2026-07-29 08:22:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：預計雲服務提供商的AI相關投資將持續至明年以後。"
+    },
+    {
+      "id": "mkt:019fab3f-96e5-7aab-8ed7-960e463b18fc",
+      "time": "2026-07-29 08:21:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) said it expects AI-related investment by cloud service providers (CSPs) to continue beyond next year."
+    },
+    {
+      "id": "5013210",
+      "time": "2026-07-29 08:21:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上漲1.0個基點，至3.990%。"
+    },
     {
       "id": "5013209",
       "time": "2026-07-29 08:21:07",

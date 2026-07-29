@@ -1,7 +1,66 @@
 {
-  "updated": "2026-07-29 08:21:38",
-  "count": 17547,
+  "updated": "2026-07-29 08:25:33",
+  "count": 17545,
   "items": [
+    {
+      "id": "5013213",
+      "time": "2026-07-29 08:23:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.4%，德國DAX指數期貨上漲0.3%，富時指數期貨上漲0.1%。"
+    },
+    {
+      "id": "5013212",
+      "time": "2026-07-29 08:22:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部：美國中央司令部與沙烏地阿拉伯武裝部隊於當地時間7月28日在伊拉克實施了精確打擊，目標為受伊朗伊斯蘭革命衛隊（IRGC）指揮、曾攻擊美軍及沙特能源基礎設施的親伊朗“恐怖分子”。"
+    },
+    {
+      "id": "mkt:019fab40-9ac2-7aab-8ed7-9b72e19c9c55",
+      "time": "2026-07-29 08:22:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM said it and the Saudi Arabian Armed Forces carried out precision strikes in Iraq on July 28 against pro‑Iran militants commanded by the Islamic Revolutionary Guard Corps (IRGC) who had attacked U.S. forces and Saudi energy infrastructure."
+    },
+    {
+      "id": "5013211",
+      "time": "2026-07-29 08:22:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：預計雲服務提供商的AI相關投資將持續至明年以後。"
+    },
+    {
+      "id": "mkt:019fab3f-96e5-7aab-8ed7-960e463b18fc",
+      "time": "2026-07-29 08:21:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) said it expects AI-related investment by cloud service providers (CSPs) to continue beyond next year."
+    },
+    {
+      "id": "5013210",
+      "time": "2026-07-29 08:21:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上漲1.0個基點，至3.990%。"
+    },
     {
       "id": "5013209",
       "time": "2026-07-29 08:21:07",
@@ -160894,78 +160953,6 @@
         "觀點"
       ],
       "text": "【華泰證券：國產模型能力快速提升 有望鞏固產業鏈利好趨勢】華泰證券研報認為，7月Kimi和二季度GLM新模型的迭代，再次驗證了國產模型的核心邏輯，迭代週期或進一步縮短。相較於海外閉源模型，目前國產技術差距縮短至3—4月，在高價效比優勢基礎上，不斷提升能力上限和定價權。據華泰證券測評，K3表現僅小幅弱於GPT-5.6 Sol，GLM 5.2釋出後對標Opus 4.7。從投資角度看，國產模型能力快速提升，有望鞏固產業鏈利好趨勢。短期看，儘管定價權有改善，但模型層面競爭明顯加劇；長期看Agent滲透率持續改善，有望進一步提高潛在市場空間。"
-    },
-    {
-      "id": "5001071",
-      "time": "2026-07-22 08:25:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普將於美國東部時間週三上午11時出席遺體交接儀式】白宮日程顯示，美國總統特朗普將於美國東部時間週三上午11點，在特拉華州多佛出席陣亡美軍遺體回國交接儀式。日程同時披露，特朗普還將在美國東部時間下午3點於佐治亞州瑪麗埃塔發表講話。"
-    },
-    {
-      "id": "mkt:019f8735-c907-7aab-8e34-efa04aed2735",
-      "time": "2026-07-22 08:24:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【South Korea holds talks with exporters on won stability; Samsung, SK Hynix attend】South Korea's government met with major exporters on the 21st at the Seoul government complex to discuss steps to stabilize the won, Second Vice Minister of Economy and Finance Heo Jang said. Heo said the won weakened to around 1,550 won per dollar before June's exporters' talks but has since recovered to the high-1,400s after exporters stepped up foreign-currency conversion, shipbuilders increased forward dollar sales, and SK Hynix's ADR issuance brought capital inflows, easing FX supply-demand imbalances. Heo expects further improvement in H2 as semiconductor exports pick up. Attending firms including Samsung Electronics, SK Hynix, Hyundai Motor and Kia, HD Hyundai Heavy Industries, Hanwha Ocean and Samsung Heavy Industries told the government they will further coordinate to sustain recent FX supply-demand improvements and keep the foreign-exchange market stable."
-    },
-    {
-      "id": "mkt:019f8734-ca99-7aab-8e34-e38a9804ae11",
-      "time": "2026-07-22 08:23:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China to establish national-level zero-carbon factories and zero-carbon compute facilities】The Ministry of Industry and Information Technology said on July 22 it has issued a notice launching a national program to construct national-level zero-carbon factories and zero-carbon compute facilities. The notice defines application and selection criteria: manufacturing enterprises and compute facilities with an existing construction basis, clear construction targets, a defined implementation path and a pledge to meet targets within the prescribed deadline will be preferentially included on the national zero-carbon factory list."
-    },
-    {
-      "id": "5001070",
-      "time": "2026-07-22 08:22:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "滔搏：該終止將在短期內對本集團的業務造成重大負面影響。"
-    },
-    {
-      "id": "5001069",
-      "time": "2026-07-22 08:22:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國將建設國家級零碳工廠、零碳算力設施】從工業和資訊化部瞭解到，今天（7月22日），《關於組織開展國家級零碳工廠建設工作的通知》（以下簡稱《通知》）正式釋出，我國將組織開展國家級零碳工廠、零碳算力設施建設工作。零碳工廠建設，是指透過技術創新、結構調整和管理最佳化等減排措施，實現邊界內二氧化碳排放的持續降低、逐步趨向於近零的過程。《通知》明確國家級零碳工廠申報要求，選擇具備一定建設基礎、建設目標明確、實施路徑清晰，並承諾在規定期限內完成建設目標的製造型企業、算力設施，擇優納入國家級零碳工廠建設名單。（央視）"
-    },
-    {
-      "id": "5001068",
-      "time": "2026-07-22 08:22:39",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【耐克官宣自明年1月起清退中國數千家線上經銷商】耐克公司表示，計劃從1月起清退中國數千家線上經銷商，以整頓已變得混亂的數字市場，並推動該地區業務重回增長。自明年起，耐克線上銷售渠道將主要集中於品牌官網、官方App，以及其在天貓、京東、抖音等國內主流電商與社交平臺運營的品牌旗艦店。耐克收縮線上渠道佈局的計劃，意在為消費者打造更優質、標準統一的購物體驗，同時重新掌握線上定價主導權。上月下旬，國內媒體率先披露了耐克計劃清退線上經銷商的訊息。"
-    },
-    {
-      "id": "mkt:019f8733-6b7d-7aab-8e34-dde5bfba3595",
-      "time": "2026-07-22 08:22:01",
-      "tags": [
-        "MKT News",
-        "06110.HK",
-        "Impact bearish"
-      ],
-      "text": "【Taobo (06110.HK) says Nike online sales in mainland China to end Jan 1, 2027】Taobo (06110.HK) said it received formal notice from Nike after trading on July 21 that the group's online sales of Nike products in mainland China will cease on Jan 1, 2027. Nike online-platform sales made up about 22% of the group's revenue for the fiscal year ended Feb 28, 2026, and the company said the termination will have a material adverse impact on its business in the near term."
-    },
-    {
-      "id": "5001067",
-      "time": "2026-07-22 08:22:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "滔搏：收到耐克通知，本集團目前的耐克產品線上平臺銷售將全面終止。"
     }
   ]
 }
