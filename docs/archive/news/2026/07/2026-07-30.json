@@ -1,7 +1,93 @@
 {
   "date": "2026-07-30",
-  "count": 937,
+  "count": 946,
   "items": [
+    {
+      "id": "5015386",
+      "time": "2026-07-30 07:29:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【光模組龍頭中際旭創週四香港首秀】光模組龍頭中際旭創H股週四即將在香港上市交易。這宗七年來香港最大的新股發行，將在人工智慧板塊動盪之際接受市場考驗。中際旭創港股發行價為每股980港元，低於指導區間高階，且較其在深圳上市的A股最新收盤價951元人民幣折讓約11%；其H股週三在香港暗盤交易中下跌3.8%。此次發行的基礎募集資金達534億港元，若超額配售權全額行使，發行總規模將進一步增至約614億港元，成為繼2019年阿里巴巴以來香港最大規模的股票發行。"
+    },
+    {
+      "id": "mkt:019fb035-dc2f-7aab-8efb-4555102edd42",
+      "time": "2026-07-30 07:29:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "RBA Assistant Governor Hunter said Q2 inflation was slightly below expectations."
+    },
+    {
+      "id": "mkt:019fb035-ba03-7aab-8efb-3cdb19fe6009",
+      "time": "2026-07-30 07:28:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Reserve Bank of Australia Deputy Governor Hunt said he will not speculate on the August policy meeting."
+    },
+    {
+      "id": "5015385",
+      "time": "2026-07-30 07:28:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【“翻倍基”數量銳減 績優基金之間差距拉開】基金年內業績榜正在經歷一場劇烈洗牌。Wind資料顯示，截至7月28日，年內收益率超過100%的基金僅剩6只，較6月末的246只減少240只。不足一個月，上半年批次湧現的“翻倍基”數量縮水97.56%。“翻倍基”陣營快速縮水的背後，是前期領漲的科技板塊遭遇集體調整。7月以來，創業板50指數、科創50指數分別下跌23.16%、23.97%，市場由單邊上漲轉向高位震盪，重倉人工智慧、半導體、通訊等方向的基金首當其衝。值得注意的是，劇烈波動也進一步拉開了績優基金之間的差距。部分基金因持倉高度集中而大幅回吐收益，還有部分基金憑藉提前降低倉位、調整持倉結構，繼續守在“翻倍線”之上。"
+    },
+    {
+      "id": "5015384",
+      "time": "2026-07-30 07:28:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【在庫存問題日益引發擔憂之際 美國簽署了一項價值586億美元的“愛國者”導彈合同】五角大樓週三表示，鑑於伊朗和烏克蘭衝突導致美國武器儲備緊張，美國陸軍已向洛克希德·馬丁公司授予了一份價值高達586億美元的合同，用於生產“愛國者”攔截導彈。美國一方面向盟友提供了大量武器，另一方面也在伊朗的軍事行動中消耗彈藥，這引發了人們對關鍵防空武器和精確制導武器庫存的擔憂。陸軍表示，此次授予洛克希德·馬丁公司的合同，將此前4月份簽署的一份價值47億美元、為期一年的協議轉為一份為期七年的協議草案，從而制定了從2026財年至2032財年的“愛國者”攔截導彈多年採購計劃。"
+    },
+    {
+      "id": "5015383",
+      "time": "2026-07-30 07:27:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【暴雨黃色預警：四川、甘肅、河南、山東、廣西、廣東等地部分地區有大暴雨】中央氣象臺7月30日06時繼續釋出暴雨黃色預警：預計，7月30日08時至31日08時，四川盆地中西部、西北地區東部、黃淮西部、華北南部、華南大部、江南南部以及內蒙古東北部、青海東部等地部分地區有大到暴雨，其中，四川盆地中西部、甘肅東部、河南北部、山東北部、廣西中部和南部沿海、廣東中部和西南沿海等地部分地區有大暴雨（100～240毫米）。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過70毫米），局地有雷暴大風或冰雹等強對流天氣。"
+    },
+    {
+      "id": "5015381",
+      "time": "2026-07-30 07:27:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兩大MLCC原廠開啟新一輪漲價】儘管近期資本市場有所調整，但半導體產業景氣度依然持續向好，被動元器件MLCC（片式多層陶瓷電容器）兩大原廠開啟新一輪漲價。據報道，三星電機近日對客戶發出通知，自8月1日起，MLCC產品出貨價格將在現行基礎上統一上調30%。太陽誘電於7月23日給客戶發出MLCC價格調整的通知，自9月1日起對部分產品進行調價。"
+    },
+    {
+      "id": "mkt:019fb033-69ef-7aab-8efb-35b503a52053",
+      "time": "2026-07-30 07:26:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed",
+        "SSE Composite"
+      ],
+      "text": "【Brokerage commissions enter micro-profit era; shift to service competition imperative】Shanghai brokerage commission rates have continued to slide. The 2025 average commission fell below 2 bps; in 1H2026 the A-share average dropped to 1.7 bps. Industry participants say commissions have entered a micro-profit era and pure price-war customer acquisition is no longer sustainable. Brokers should reduce reliance on channel fees and shift from low-price, low-service models to compete on transparent pricing and high-quality service to safeguard investor rights."
+    },
+    {
+      "id": "te:markets:570897",
+      "time": "2026-07-30 07:25:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Holds Gains Amid US-Iran Tensions — Brent held above $90 per barrel on Thursday after rallying more than 8% in the previous session, underpinned by renewed fighting between the US and Iran that threatened further disruptions to global energy supplies. President Donald Trump pledged a strong response after an attack on US forces in Jordan. Meanwhile, both sides continued to struggle to reach a potential deal as Tehran insisted on maintaining control over the Strait of Hormuz. The conflict has also expanded beyond Hormuz into the Red Sea, where Iran-backed Houthi rebels in Yemen threatened to blockade Saudi Arabia, prompting Riyadh to join US forces in striking targets in Iraq associated with Tehran-backed militants. In the US, commercial crude inventories recorded their largest draw since mid-June, reinforcing signs of a tightening physical market. The nation’s strategic petroleum reserves also fell for an 18th consecutive week, reaching their lowest level since 1983."
+    },
     {
       "id": "5015380",
       "time": "2026-07-30 07:25:25",

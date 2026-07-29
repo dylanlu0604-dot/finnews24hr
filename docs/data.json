@@ -1,7 +1,93 @@
 {
-  "updated": "2026-07-30 07:26:09",
-  "count": 17788,
+  "updated": "2026-07-30 07:30:04",
+  "count": 17793,
   "items": [
+    {
+      "id": "5015386",
+      "time": "2026-07-30 07:29:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【光模組龍頭中際旭創週四香港首秀】光模組龍頭中際旭創H股週四即將在香港上市交易。這宗七年來香港最大的新股發行，將在人工智慧板塊動盪之際接受市場考驗。中際旭創港股發行價為每股980港元，低於指導區間高階，且較其在深圳上市的A股最新收盤價951元人民幣折讓約11%；其H股週三在香港暗盤交易中下跌3.8%。此次發行的基礎募集資金達534億港元，若超額配售權全額行使，發行總規模將進一步增至約614億港元，成為繼2019年阿里巴巴以來香港最大規模的股票發行。"
+    },
+    {
+      "id": "mkt:019fb035-dc2f-7aab-8efb-4555102edd42",
+      "time": "2026-07-30 07:29:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "RBA Assistant Governor Hunter said Q2 inflation was slightly below expectations."
+    },
+    {
+      "id": "mkt:019fb035-ba03-7aab-8efb-3cdb19fe6009",
+      "time": "2026-07-30 07:28:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Reserve Bank of Australia Deputy Governor Hunt said he will not speculate on the August policy meeting."
+    },
+    {
+      "id": "5015385",
+      "time": "2026-07-30 07:28:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【“翻倍基”數量銳減 績優基金之間差距拉開】基金年內業績榜正在經歷一場劇烈洗牌。Wind資料顯示，截至7月28日，年內收益率超過100%的基金僅剩6只，較6月末的246只減少240只。不足一個月，上半年批次湧現的“翻倍基”數量縮水97.56%。“翻倍基”陣營快速縮水的背後，是前期領漲的科技板塊遭遇集體調整。7月以來，創業板50指數、科創50指數分別下跌23.16%、23.97%，市場由單邊上漲轉向高位震盪，重倉人工智慧、半導體、通訊等方向的基金首當其衝。值得注意的是，劇烈波動也進一步拉開了績優基金之間的差距。部分基金因持倉高度集中而大幅回吐收益，還有部分基金憑藉提前降低倉位、調整持倉結構，繼續守在“翻倍線”之上。"
+    },
+    {
+      "id": "5015384",
+      "time": "2026-07-30 07:28:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【在庫存問題日益引發擔憂之際 美國簽署了一項價值586億美元的“愛國者”導彈合同】五角大樓週三表示，鑑於伊朗和烏克蘭衝突導致美國武器儲備緊張，美國陸軍已向洛克希德·馬丁公司授予了一份價值高達586億美元的合同，用於生產“愛國者”攔截導彈。美國一方面向盟友提供了大量武器，另一方面也在伊朗的軍事行動中消耗彈藥，這引發了人們對關鍵防空武器和精確制導武器庫存的擔憂。陸軍表示，此次授予洛克希德·馬丁公司的合同，將此前4月份簽署的一份價值47億美元、為期一年的協議轉為一份為期七年的協議草案，從而制定了從2026財年至2032財年的“愛國者”攔截導彈多年採購計劃。"
+    },
+    {
+      "id": "5015383",
+      "time": "2026-07-30 07:27:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【暴雨黃色預警：四川、甘肅、河南、山東、廣西、廣東等地部分地區有大暴雨】中央氣象臺7月30日06時繼續釋出暴雨黃色預警：預計，7月30日08時至31日08時，四川盆地中西部、西北地區東部、黃淮西部、華北南部、華南大部、江南南部以及內蒙古東北部、青海東部等地部分地區有大到暴雨，其中，四川盆地中西部、甘肅東部、河南北部、山東北部、廣西中部和南部沿海、廣東中部和西南沿海等地部分地區有大暴雨（100～240毫米）。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過70毫米），局地有雷暴大風或冰雹等強對流天氣。"
+    },
+    {
+      "id": "5015381",
+      "time": "2026-07-30 07:27:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兩大MLCC原廠開啟新一輪漲價】儘管近期資本市場有所調整，但半導體產業景氣度依然持續向好，被動元器件MLCC（片式多層陶瓷電容器）兩大原廠開啟新一輪漲價。據報道，三星電機近日對客戶發出通知，自8月1日起，MLCC產品出貨價格將在現行基礎上統一上調30%。太陽誘電於7月23日給客戶發出MLCC價格調整的通知，自9月1日起對部分產品進行調價。"
+    },
+    {
+      "id": "mkt:019fb033-69ef-7aab-8efb-35b503a52053",
+      "time": "2026-07-30 07:26:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed",
+        "SSE Composite"
+      ],
+      "text": "【Brokerage commissions enter micro-profit era; shift to service competition imperative】Shanghai brokerage commission rates have continued to slide. The 2025 average commission fell below 2 bps; in 1H2026 the A-share average dropped to 1.7 bps. Industry participants say commissions have entered a micro-profit era and pure price-war customer acquisition is no longer sustainable. Brokers should reduce reliance on channel fees and shift from low-price, low-service models to compete on transparent pricing and high-quality service to safeguard investor rights."
+    },
+    {
+      "id": "te:markets:570897",
+      "time": "2026-07-30 07:25:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Holds Gains Amid US-Iran Tensions — Brent held above $90 per barrel on Thursday after rallying more than 8% in the previous session, underpinned by renewed fighting between the US and Iran that threatened further disruptions to global energy supplies. President Donald Trump pledged a strong response after an attack on US forces in Jordan. Meanwhile, both sides continued to struggle to reach a potential deal as Tehran insisted on maintaining control over the Strait of Hormuz. The conflict has also expanded beyond Hormuz into the Red Sea, where Iran-backed Houthi rebels in Yemen threatened to blockade Saudi Arabia, prompting Riyadh to join US forces in striking targets in Iraq associated with Tehran-backed militants. In the US, commercial crude inventories recorded their largest draw since mid-June, reinforcing signs of a tightening physical market. The nation’s strategic petroleum reserves also fell for an 18th consecutive week, reaching their lowest level since 1983."
+    },
     {
       "id": "5015380",
       "time": "2026-07-30 07:25:25",
@@ -164020,44 +164106,6 @@
         "公司"
       ],
       "text": "【基石藥業-B(02616)獲執行董事楊建新及高管增持242.05萬股】基石藥業-B(02616)釋出公告，本公司獲執行長、研發總裁兼執行董事楊建新(楊博士)、其他董事及高階管理層告知，彼等已於2026年6月在公開市場上合共購買 242.05萬股股份(本次股份增持)，其中楊博士購買了123.75萬股股份。自2022年8月擔任執行長以來，楊博士已於公開市場累計購買合共1371.45萬股股份。該等股份增持後，截止本公告日期，楊博士持有合共相當於本公司已發行股本總額約5.26%的股份。"
-    },
-    {
-      "id": "5003182",
-      "time": "2026-07-23 07:29:10",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【Alphabet再度上調資本支出指引 加速佈局AI資料中心 公司股價盤後下跌】Alphabet Inc．再次上調已處於高位的2026年資本支出預期，並向投資者表示，隨著公司加緊建設支撐其人工智慧雄心的必要算力，支出可能超過2000億美元。 這家谷歌母公司預計，2026年資本支出將介於1950億至2050億美元，高於此前最高1900億美元的指引，也高於分析師平均預期的約1860億美元。上調後的指引反映出公司正加快擴充AI算力，並爭取從雲端計算客戶獲得更多收入。 這一展望可能進一步加劇投資者對Alphabet人工智慧投資的審視。華爾街一直在尋找證據，證明公司在AI領域的大規模投入正帶來新的增長，而非拖累利潤。作為本輪財報季首家公佈業績的大型美國科技公司，Alphabet的業績將影響市場對整個科技行業的預期，該行業合計承諾投入數千億美元用於AI基礎設施。 Alphabet股價週三盤後下跌4%。該股週三在紐約收於每股342.09美元。資本支出指引掩蓋了公司原本穩健的第二季度業績。截至6月30日當季，雲業務營收247.7億美元，同比增長82%，並高於分析師預期的224.6億美元。雲業務積壓訂單增至5140億美元。 執行長Sundar Pichai週三晚些時候在與分析師的電話會上表示，雲業務表現“受益於對AI基礎設施和AI解決方案的強勁需求”。"
-    },
-    {
-      "id": "5003181",
-      "time": "2026-07-23 07:27:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【實探MLCC產業鏈：主力企業產線滿載 出廠價未見鬆動】近期，MLCC（多層片式陶瓷電容器‌）板塊在二級市場股價劇烈波動，相關訊息魚龍混雜。產業鏈是真實景氣還是虛火一場？供需關係究竟如何，景氣度能否延續？帶著這些問題，證券時報記者走訪源頭廠商，向產業鏈核心企業與業內人士深入求證。調研反饋顯示，當前MLCC供需格局偏緊，主力企業產線滿載，出廠價未見鬆動；上游材料商作為“賣鏟人”訂單充沛，有企業表示已被客戶提前鎖定4倍於現有產能的擴產線，未來數年銷售無憂。"
-    },
-    {
-      "id": "5003180",
-      "time": "2026-07-23 07:27:26",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【財政部部長藍佛安：採取更加有力的措施，持續釋放消費潛力和投資活力】財政部部長藍佛安在人民日報刊發題為“以更大力度落實財政金融協同促內需一攬子政策”的文章。文章指出，堅持短期擴需求和長期增後勁相結合。破解供強需弱的矛盾，暢通國內經濟迴圈，不僅要著力釋放即期需求、穩定宏觀經濟，從長遠看還必須堅持擴大內需和最佳化供給雙管齊下，實現高水平動態平衡。深入實施財政金融協同促內需一攬子政策，一方面，要立足當前，採取更加有力的措施，持續釋放消費潛力和投資活力。擴大個人消費貸款和服務業經營主體貸款貼息政策支援領域，提高貼息上限，實實在在降低消費者和經營主體當期成本；實施民間投資專項擔保計劃，提高授信擔保額度，降低擔保費率等，增強經營主體特別是中小微企業的融資可得性。另一方面，要著眼長遠，加力支援科技創新、現代化產業體系建設等，提升全要素生產率，持續提升供給質量。比如，裝置更新貸款貼息和中小微企業貸款貼息政策，既廣泛惠及交通、水利、農業、製造業等關係國計民生的傳統行業，也積極服務高階裝備、生物醫藥、人工智慧等新興產業和未來產業，加緊培育經濟增長新動能；又如，進一步擴大服務業經營主體貸款貼息政策覆蓋範圍，從原有8個領域拓展至包括數字、綠色、零售在內的11個領域，更好滿足居民消費升級需要。"
-    },
-    {
-      "id": "te:markets:568974",
-      "time": "2026-07-23 07:26:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Slip Ahead of More Earnings — US stock futures slipped on Thursday as investors weighed earnings from major technology companies for signs that heavy AI spending is translating into stronger growth. Alphabet fell nearly 5% in extended trading after raising its full-year capital expenditure forecast despite better-than-expected cloud revenue, while Tesla missed earnings estimates and IBM lowered its annual sales outlook. Rising oil prices are also in focus, as escalating Middle East tensions and fading hopes for US-Iran peace talks fueled supply concerns. During Wednesday's regular session, the S&P 500 shed 0.1%, the Nasdaq 100 lost 0.5%, and the Dow Jones inched down. Software stocks led the decline, while most chipmakers rebounded and financials traded mixed. Markets now await earnings from Microsoft, Meta, and Amazon for further evidence that massive AI investments are beginning to deliver returns."
     }
   ]
 }
