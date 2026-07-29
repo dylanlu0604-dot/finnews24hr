@@ -1,7 +1,39 @@
 {
   "date": "2026-07-30",
-  "count": 881,
+  "count": 884,
   "items": [
+    {
+      "id": "mkt:019fb012-63bb-7aab-8efa-e71858d16dc6",
+      "time": "2026-07-30 06:50:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Iraq says it has received no evidence that drones which struck Saudi Arabia originated in Iraq】On the evening of the 29th, Iraqi armed forces spokesman Sabah Nouman said U.S.-Saudi strikes on Iraqi militias have impeded investigation into earlier attacks inside Saudi Arabia. Nouman said Baghdad requested evidence linking the Saudi strikes to armed groups based in Iraq but that no party has provided any. Iraqi security services are drafting measures to prevent attacks on Iraqi territory and to safeguard sovereignty. The government said it rejects foreign incursions and will not allow weapons to operate outside state control."
+    },
+    {
+      "id": "mkt:019fb011-80d0-7aab-8efa-dd75f9e6c203",
+      "time": "2026-07-30 06:49:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【WSJ: US military drafted up-to-two-week intensive airstrike plan on Iran; Trump weighing decision】The Wall Street Journal reports that last week on Air Force One at a Delaware tarmac President Trump held emergency talks with top war advisers — Chairman of the Joint Chiefs Gen. Dan Kane, Defense Secretary Hegseth, and CENTCOM commander Adm. Brad Cooper. Cooper drafted a punitive air campaign of up to two weeks; after Iran’s missile attack on Tuesday Trump has pledged retaliation but is weighing approval of Cooper’s 10–14 day intensive strikes aimed at crippling Iran’s missile capability — a plan the military says would reduce U.S. reliance on defensive munitions but comes amid warnings that air‑defense ammunition stocks are running low — versus narrower strikes to preserve diplomatic space. The WSJ says Cooper’s high‑intensity option is designed to sharply escalate and break the previous tit‑for‑tat airstrike stalemate."
+    },
+    {
+      "id": "5015338",
+      "time": "2026-07-30 06:46:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500股指期貨收復跌幅，上漲0.2%；納斯達克股指期貨上漲0.4%。"
+    },
     {
       "id": "5015337",
       "time": "2026-07-30 06:45:53",
