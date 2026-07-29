@@ -1,7 +1,84 @@
 {
   "date": "2026-07-30",
-  "count": 594,
+  "count": 602,
   "items": [
+    {
+      "id": "te:markets:570864",
+      "time": "2026-07-30 03:48:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Above $90 — Brent extended gains to rise more than 7% to above $90 a barrel on Wednesday, snapping a three-day losing streak, as hostilities in the Middle East increased. US President Trump said the US will hit Iran hard in retaliation for an attempted surprise attack on American forces. This comes after the US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East. Meanwhile, Iran-backed militias in Iraq launched drones at oil facilities in Saudi Arabia’s Eastern Region for a second consecutive day. Also, there were reports that Yemen's Houthi militants were considering charging fees for vessels transiting the Red Sea, adding to concerns over shipping costs and energy flows. Iran has also sought to impose similar charges on the Strait of Hormuz. In the US, API data showed crude oil inventories fell by 3.3 million barrels last week, pointing to continued tightness in global oil supplies."
+    },
+    {
+      "id": "mkt:019faf6b-5e30-7aab-8ef8-243a684dd60b",
+      "time": "2026-07-30 03:47:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Axios reports Saudi defense minister said he supports de-escalation of the situation."
+    },
+    {
+      "id": "5015167",
+      "time": "2026-07-30 03:47:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯合航空公司宣佈在華盛頓杜勒斯國際機場投資200億美元。"
+    },
+    {
+      "id": "5015166",
+      "time": "2026-07-30 03:47:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "記者：能否請您談談眾議院能否在8月31日前復會，推進俄伊制裁法案？\n特朗普：說實話，其實本不必這麼做。但如果確有必要，我希望議員在法案中納入針對伊朗的關稅條款。"
+    },
+    {
+      "id": "te:markets:570863",
+      "time": "2026-07-30 03:47:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Jumps 7% to Around $85 — Crude oil extended gains to rise more than 7% to around $85 a barrel on Wednesday, snapping a three-day losing streak, as hostilities in the Middle East increased. US President Trump said the US will hit Iran hard in retaliation for an attempted surprise attack on American forces. This comes after the US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East. Meanwhile, Iran-backed militias in Iraq launched drones at oil facilities in Saudi Arabia’s Eastern Region for a second consecutive day. Also, there were reports that Yemen's Houthi militants were considering charging fees for vessels transiting the Red Sea, adding to concerns over shipping costs and energy flows. Iran has also sought to impose similar charges on the Strait of Hormuz. In the US, API data showed crude oil inventories fell by 3.3 million barrels last week, pointing to continued tightness in global oil supplies."
+    },
+    {
+      "id": "5015165",
+      "time": "2026-07-30 03:47:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特國防大臣表示支援緩和局勢。"
+    },
+    {
+      "id": "5015164",
+      "time": "2026-07-30 03:46:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數下跌1.3%，至當日低點。"
+    },
+    {
+      "id": "5015163",
+      "time": "2026-07-30 03:46:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普公佈全面改造華盛頓杜勒斯機場計劃】美國總統特朗普宣佈計劃改造、擴建華盛頓杜勒斯國際機場，稱這項翻新重建工程早已亟待落地。改造工程將新增及翻新超過500萬平方英尺空間，更換C、D候機廊道；同時保留這座機場標誌性原始主樓，正是這座主樓令其成為建築地標。特朗普表示，完工後的機場將成為面向國際旅客的標杆專案，整體工期預計兩年，部分方案仍需國會審批。"
+    },
     {
       "id": "mkt:019faf68-6bcd-7aab-8ef8-1a6c0dcf992e",
       "time": "2026-07-30 03:44:43",
