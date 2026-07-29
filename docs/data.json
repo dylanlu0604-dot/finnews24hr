@@ -1,7 +1,163 @@
 {
-  "updated": "2026-07-29 16:26:01",
-  "count": 17544,
+  "updated": "2026-07-29 16:29:58",
+  "count": 17552,
   "items": [
+    {
+      "id": "5014043",
+      "time": "2026-07-29 16:29:15",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會：7月1-26日全國乘用車新能源市場零售同比去年7月同期下降2% 較上月同期下降10%】乘聯分會發布資料，7月1-26日，全國乘用車市場零售112.3萬輛，同比去年7月同期下降18%，較上月同期下降13%，今年以來累計零售982.4萬輛，同比下降20%；7月1-26日，全國乘用車新能源市場零售73.8萬輛，同比去年7月同期下降2%，較上月同期下降10%，今年以來累計零售544.3萬輛，同比下降13%；7月1-26日，全國乘用車市場新能源零售滲透率65.7%。"
+    },
+    {
+      "id": "mkt:019facfd-d5e4-7aab-8ee3-d87715011518",
+      "time": "2026-07-29 16:29:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix (SKHY.O) shares in U.S. premarket trade are down more than 4%."
+    },
+    {
+      "id": "mkt:019facfd-82d5-7aab-8ee3-d06c0bd51a71",
+      "time": "2026-07-29 16:28:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Fed decision tonight: major institutions' pre-event outlook】Mitsubishi UFJ: A hawkish hold would support U.S. Treasury yields and the dollar. COMMERZBANK: Cuts year-end gold and silver targets to $4,500 and $67, citing persistent inflation that keeps the Fed restrictive. TD Securities: A unanimous decision would be surprising and imply Waller has consolidated internal consensus, a scenario that could trigger a sharp dollar sell-off. Goldman Sachs: Even if the Fed keeps rates unchanged for the year, dollar weakness would be limited; EUR/USD faces structural downside. Saxo Bank: A Fed hike would likely lift the forward rate curve unless markets view it as a defensive move. Sumitomo Mitsui: The rate decision and Waller’s press remarks could push USD/JPY toward the 164 area. ING: If UST yields remain capped, gold may find support near current levels; any hawkish Fed surprise could curb near-term upside. DBS Group: Even minor changes in statement or press-conference wording could materially move short-end rates. HSBC: Unless the Fed unexpectedly hikes, this week's decision is unlikely to provide fresh upside for the dollar. SIA Wealth Management: Major policy adjustments are unlikely before September; gold is likely to trade rangebound through autumn and, in extreme scenarios, into early 2027."
+    },
+    {
+      "id": "mkt:019facfd-281d-7aab-8ee3-cac7688ad817",
+      "time": "2026-07-29 16:28:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore Finance Ministry says economic performance has exceeded expectations but growth remains uneven."
+    },
+    {
+      "id": "5014042",
+      "time": "2026-07-29 16:28:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SK海力士美股盤前跌超4%】SK海力士美股盤前跌超4%，現報124.864美元。"
+    },
+    {
+      "id": "mkt:019facfc-a06c-7aab-8ee3-c5be6e85247b",
+      "time": "2026-07-29 16:27:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's first automated terminal direct-load sea-rail intermodal line enters service】China's first automated terminal direct-load sea-rail intermodal dedicated line entered service at Xiamen Yuanhai Terminal on the afternoon of the 29th. The 1,586m line, part of the first batch of key transport-logistics integration projects, is designed for annual throughput of 250,000 TEU and 250,000 tonnes of bulk/general cargo."
+    },
+    {
+      "id": "5014041",
+      "time": "2026-07-29 16:27:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華大九天：實際控制人子公司中電金投累計增持公司1%股份，金額約5.23億元】華大九天公告，公司於2026年4月29日披露實際控制人子公司中電金投控股有限公司擬自當日起6個月內增持公司股份不低於當時總股本1%且不超過2%。截至2026年7月29日，增持計劃實施時間過半，中電金投透過集中競價方式累計增持公司股份545.44萬股，佔當時總股本的1%，增持金額合計約5.23億元。"
+    },
+    {
+      "id": "te:markets:570710",
+      "time": "2026-07-29 16:27:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Hermes International Stock Price Hits 7-week Low — Hermes International shares decreased to 1564.00 EUR, the lowest since June 2026. Over the past 4 weeks, Hermes International lost 1.78%, and in the last 12 months, it decreased 30.86%."
+    },
+    {
+      "id": "mkt:019facfc-3445-7aab-8ee3-bec81f2454d7",
+      "time": "2026-07-29 16:27:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Singapore's Ministry of Finance said rising energy prices are expected to push up costs for petrol, diesel, electricity and some imported goods."
+    },
+    {
+      "id": "5014040",
+      "time": "2026-07-29 16:27:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國首條自動化碼頭抵港直裝海鐵聯運專用線投運】今天（29日）下午，全國首條自動化碼頭抵港直裝海鐵聯運專用線，在廈門遠海碼頭正式投運。該鐵路專用線是我國交通物流融合發展第一批重點專案，線路全長1586米，設計集裝箱年吞吐量25萬標箱，散雜貨年吞吐量25萬噸。（央視新聞）"
+    },
+    {
+      "id": "mkt:019facfc-14f9-7aab-8ee3-b4ea6d54601b",
+      "time": "2026-07-29 16:27:09",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "The Times reports UK Prime Minister Burnham may consider a new income tax, under plans drafted by civil servants, to fund social care. Burnham will hold his first press conference since becoming prime minister later this morning."
+    },
+    {
+      "id": "mkt:019facfb-d698-7aab-8ee3-aef90d6c2984",
+      "time": "2026-07-29 16:26:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【China's first domestically developed OLED TDDI chip enters mass production】Jichuang Beifang announced its self-developed ICNA3611, described as China’s first OLED display–touch integrated (TDDI) chip, has entered large-scale production in mainstream models of a major domestic smartphone brand."
+    },
+    {
+      "id": "5014039",
+      "time": "2026-07-29 16:26:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神馬電力：回購完成，實際回購金額3.01億元】神馬電力公告，公司已完成股份回購，實際回購股份910.91萬股，佔總股本2.1115%，實際回購金額3.01億元，回購價格區間28.36元/股~57.36元/股。回購股份將用於員工持股計劃或股權激勵。"
+    },
+    {
+      "id": "5014038",
+      "time": "2026-07-29 16:26:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺達電：上半年營收3,426.1億元新臺幣。"
+    },
+    {
+      "id": "5014037",
+      "time": "2026-07-29 16:25:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際紅樹林中心與亞太森林組織簽署合作諒解備忘錄】2026年7月28日，國際紅樹林中心與亞太森林恢復與可持續管理組織（以下簡稱“亞太森林組織”）在中國深圳簽署合作諒解備忘錄。 根據該合作諒解備忘錄，雙方將在政策對話、示範專案、能力建設、資訊分享和擴大夥伴關係等方面加強合作，共同推進紅樹林保護和修復，持續推進紅樹林提質增效，發揮紅樹林生態系統的多種功能。（自然資源部）"
+    },
+    {
+      "id": "5014036",
+      "time": "2026-07-29 16:25:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【紫光股份今日跌10.00% 東方財富長春人民大街席位淨買入2.14億元】紫光股份今日跌10.00%，成交額132.73億元，換手率12.22%，盤後龍虎榜資料顯示，深股通專用席位買入6.66億元並賣出8.57億元，東方財富長春人民大街席位淨買入2.14億元，有4家機構專用席位淨賣出4.83億元。"
+    },
     {
       "id": "mkt:019facf9-ba4b-7aab-8ee3-a3deabdcff97",
       "time": "2026-07-29 16:24:34",
@@ -160883,70 +161039,6 @@
         "其他"
       ],
       "text": "英國5月DCLG房價指數同比 2.7%，前值 3.8%。"
-    },
-    {
-      "id": "5001893",
-      "time": "2026-07-22 16:29:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華培動力：控股股東及實控人等部分股份質押、補充質押】華培動力公告稱，近日，控股股東華澗投資將2334.91萬股辦理質押業務，用於償還債務；實控人吳懷磊及其一致行動人吳佳分別將120萬股、50萬股辦理補充質押業務，不涉及新增融資。截至公告日，華澗投資直接持股1.40億股，佔總股本41.22%，累計質押5961.91萬股，佔其所持股份42.73%；吳懷磊直接持股2469.26萬股，佔7.29%，累計質押1170萬股，佔47.38%；吳佳直接持股1132.37萬股，佔3.34%，累計質押500萬股，佔44.16%。華澗投資及其一致行動人累計質押7631.91萬股，佔其合計持股43.47%，佔總股本22.54%，不存在平倉風險，不會導致實控權變更。"
-    },
-    {
-      "id": "5001892",
-      "time": "2026-07-22 16:29:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊維爾德羅拉董事長：我們預計很快將在美國啟動新的電池儲能專案。"
-    },
-    {
-      "id": "5001891",
-      "time": "2026-07-22 16:29:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華強科技：2026年上半年淨利潤同比增105.65%-158.15%】華強科技公告稱，2026年上半年，公司預計實現歸屬於母公司所有者的淨利潤850萬元到1067萬元，同比增加105.65%到158.15%；扣非淨利潤為-1909萬元到-1273萬元，同比增加43.03%到62.01%。業績增長主要因公司最佳化醫藥包裝產品結構和市場結構，產品銷量及收入同比增加、毛利率提升，同時實施提質增效行動，經營質效得到提升。"
-    },
-    {
-      "id": "5001890",
-      "time": "2026-07-22 16:29:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本多地遭遇高溫 首次出現“酷暑日”】日本氣象廳資料顯示，21日日本多地出現35攝氏度及以上高溫天氣。全國58個預報地區中有44個釋出“中暑警戒警報”，為今年以來最多。截至當地時間21日17時，日本全國900多處氣象觀測點中，278處的最高氣溫達到或超過35攝氏度。其中，岐阜縣郡上市氣溫達到40攝氏度。這也是日本氣象廳今年決定將40攝氏度及以上高溫天氣稱為“酷暑日”以來，首次出現這一情況。據東京消防廳統計，截至當地時間21日21時，東京都當天有261人因中暑被緊急送醫，創下2022年開始相關統計以來單日最高紀錄。另據日本媒體報道，兵庫縣、群馬縣和茨城縣當天共有6人疑因中暑死亡。（新華社）"
-    },
-    {
-      "id": "5001889",
-      "time": "2026-07-22 16:28:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智譜收購AI異構算力軟體供應商中科加禾60%股權】企查查APP顯示，近日，北京中科加禾智慧科技有限公司發生工商變更，三亞百川致新私募股權投資基金合夥企業（有限合夥）、北京市人工智慧產業投資基金（有限合夥）等15名股東退出，新增智譜關聯公司Z.AI為大股東，持股約60%。企查查資訊顯示，該公司成立於2023年，經營範圍包含：積體電路晶片設計及服務；積體電路晶片及產品製造；積體電路晶片及產品銷售等。公開資訊顯示，中科加禾是一家AI異構算力軟體供應商。"
-    },
-    {
-      "id": "5001888",
-      "time": "2026-07-22 16:28:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐洲六月熱浪致穀物減產 估值損失逾20億歐元】最新分析顯示，歐洲六月遭遇的熱浪導致穀物作物價值損失超過20億歐元，其中法國和匈牙利受災最為嚴重。據歐洲穀物貿易商協會Coceral資料，熱浪過後的四周內，歐盟及英國的穀物產量預測減少了近900萬噸。"
-    },
-    {
-      "id": "5001887",
-      "time": "2026-07-22 16:26:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：美議員就對伊戰事追問，赫格塞思結結巴巴、窮於回答】據美國有線電視新聞網（CNN）等美媒報道，當地時間7月21日，美國國防部長赫格塞思出席美國國會參議院撥款委員會聽證會。在聽證會上，民主黨籍參議員喬恩·奧索夫就美國對伊朗戰事對赫格塞思進行追問，赫格塞思結結巴巴、窮於回答。（環球網）"
-    },
-    {
-      "id": "5001886",
-      "time": "2026-07-22 16:26:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【德明利今日跌10.00% 上海黃浦區西藏南路淨賣出1.16億元】德明利今日跌10.00%，成交額121.05億元，換手率15.54%，盤後龍虎榜資料顯示，深股通專用席位買入3.98億元並賣出3.08億元，有2家機構專用席位淨賣出9599.56萬元。上海黃浦區西藏南路淨賣出1.16億元。"
     }
   ]
 }
