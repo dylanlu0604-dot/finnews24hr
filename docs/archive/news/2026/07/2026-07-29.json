@@ -1,7 +1,39 @@
 {
   "date": "2026-07-29",
-  "count": 3022,
+  "count": 3026,
   "items": [
+    {
+      "id": "mkt:019fae78-3b8b-7aab-8eee-d4d81ae4a955",
+      "time": "2026-07-29 23:22:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu met US Defense Secretary Hegseth at Blair House in Washington."
+    },
+    {
+      "id": "5014863",
+      "time": "2026-07-29 23:20:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡於華盛頓布萊爾大廈會見美國國防部長赫格塞思。"
+    },
+    {
+      "id": "mkt:019fae76-961f-7aab-8eee-ca57dcd1f2da",
+      "time": "2026-07-29 23:20:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai Hande Information Technology Co., Ltd. has submitted a listing application to HKEX, according to an HKEX filing."
+    },
+    {
+      "id": "5014862",
+      "time": "2026-07-29 23:19:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：Prime Video 上線 Starz 與 Crunchyroll 捆綁套餐，月費 16.99 美元。"
+    },
     {
       "id": "5014861",
       "time": "2026-07-29 23:17:53",

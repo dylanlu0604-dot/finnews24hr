@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-29 23:19:35",
-  "count": 17460,
+  "updated": "2026-07-29 23:23:32",
+  "count": 17456,
   "items": [
+    {
+      "id": "mkt:019fae78-3b8b-7aab-8eee-d4d81ae4a955",
+      "time": "2026-07-29 23:22:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu met US Defense Secretary Hegseth at Blair House in Washington."
+    },
+    {
+      "id": "5014863",
+      "time": "2026-07-29 23:20:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡於華盛頓布萊爾大廈會見美國國防部長赫格塞思。"
+    },
+    {
+      "id": "mkt:019fae76-961f-7aab-8eee-ca57dcd1f2da",
+      "time": "2026-07-29 23:20:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai Hande Information Technology Co., Ltd. has submitted a listing application to HKEX, according to an HKEX filing."
+    },
+    {
+      "id": "5014862",
+      "time": "2026-07-29 23:19:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：Prime Video 上線 Starz 與 Crunchyroll 捆綁套餐，月費 16.99 美元。"
+    },
     {
       "id": "5014861",
       "time": "2026-07-29 23:17:53",
@@ -160344,78 +160376,6 @@
         "Importance 1"
       ],
       "text": "Palladium Recovers from One-Year Low — Palladium futures rose above $1,200 per ounce, rebounding from a near one-year low hit at the end of June, as resilient hybrid vehicle demand more than offset expectations of a global market surplus. Demand for hybrid electric vehicles (HEVs) remained robust as major automakers expanded the use of software-defined technologies to HEVs, which continue to support palladium consumption through their use of catalytic converters. On the other hand, Nornickel, the world’s largest palladium producer, expects a global surplus in 2026, as rising electric vehicle adoption weighs on long-term demand and keeps prices below levels last seen at the start of the year. The Russian miner also plans to relocate its refining operations to Monchegorsk, a move expected to improve production efficiency and increase mined output. Meanwhile, expectations of at least one more Federal Reserve rate hike by year-end reduced demand for non-yielding assets, limiting further price gains."
-    },
-    {
-      "id": "5002794",
-      "time": "2026-07-22 23:23:28",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財長貝森特：財政部核查華爾街相關稅務產品，關注存在違規風險的稅務籌劃手段。"
-    },
-    {
-      "id": "mkt:019f8a6c-b894-7aab-8e4c-de79d4ffc081",
-      "time": "2026-07-22 23:23:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said he is monitoring tax strategies that may cross the line."
-    },
-    {
-      "id": "mkt:019f8a6c-5915-7aab-8e4c-d3612d6a0974",
-      "time": "2026-07-22 23:23:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the Treasury is reviewing some \"Wall Street tax products.\""
-    },
-    {
-      "id": "5002793",
-      "time": "2026-07-22 23:22:20",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "歐盟航空安全域性週三建議航空公司避開約旦領空；此前新一輪衝突中，伊朗襲擊了約旦以及波斯灣其他美國盟友國家。"
-    },
-    {
-      "id": "5002792",
-      "time": "2026-07-22 23:22:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：改善與加拿大的貿易關係尚需時日。"
-    },
-    {
-      "id": "mkt:019f8a6b-65f7-7aab-8e4c-ce84a5a71a06",
-      "time": "2026-07-22 23:22:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GREER says reshaping the U.S.-Canada trade relationship will not be achieved overnight."
-    },
-    {
-      "id": "5002791",
-      "time": "2026-07-22 23:21:10",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【巴基斯坦向美國申請100億美元雙邊匯率穩定融資安排】知情訊息人士稱，在巴基斯坦促成伊朗相關戰事談判後，巴方向美國申請一項規模100億美元的匯率穩定融資安排。巴基斯坦財政部長穆罕默德·奧朗則佈於週二同美國財政部長斯科特·貝森特會面時，透過信函正式提出該申請。巴基斯坦政府在信函中提議，由美巴雙方設立一項總額100億美元的雙邊匯率穩定支援融資工具，期限最長可達五年。"
-    },
-    {
-      "id": "mkt:019f8a69-7339-7aab-8e4c-c7f87ec0b2cf",
-      "time": "2026-07-22 23:19:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Fitch: Frontier markets have withstood the test of energy-price volatility."
     }
   ]
 }
