@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-30 05:40:51",
-  "count": 17777,
+  "updated": "2026-07-30 05:47:42",
+  "count": 17771,
   "items": [
+    {
+      "id": "mkt:019fafd7-d407-7aab-8efa-0a3afc9e44d1",
+      "time": "2026-07-30 05:46:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) CEO said the number of enterprise customers deploying Copilot to most of their information workers rose nearly 75% sequentially."
+    },
+    {
+      "id": "5015276",
+      "time": "2026-07-30 05:44:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟執行長表示，將Copilot部署給大多數資訊工作者的企業客戶數量環比增長近75%。"
+    },
+    {
+      "id": "5015275",
+      "time": "2026-07-30 05:43:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "ARM股價盤後跌幅擴大至9%。"
+    },
+    {
+      "id": "5015274",
+      "time": "2026-07-30 05:42:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "強生完成對Firefly Bio公司的收購，以推進新一代腫瘤學創新。"
+    },
     {
       "id": "5015273",
       "time": "2026-07-30 05:39:36",
@@ -163868,115 +163907,6 @@
         "國際"
       ],
       "text": "特斯拉CFO：二季度末電動汽車在手訂單量創下 2022 年以來新高。"
-    },
-    {
-      "id": "5003093",
-      "time": "2026-07-23 05:45:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "特斯拉CEO埃隆·馬斯克： 公司將佈局一批 “高風險、高回報” 的 AI 晶片專案，研發重心主要服務於 Optimus 人形機器人。"
-    },
-    {
-      "id": "mkt:019f8bca-00b7-7aab-8e53-265281a70d0d",
-      "time": "2026-07-23 05:44:59",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish",
-        "AMAT.O",
-        "LRCX.O"
-      ],
-      "text": "Tesla CEO Elon Musk said he has ordered equipment for a wafer fab under development in Austin, Texas."
-    },
-    {
-      "id": "mkt:019f8bc9-fa17-7aab-8e53-1af56978e060",
-      "time": "2026-07-23 05:44:57",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O"
-      ],
-      "text": "Tesla CEO Elon Musk said he will announce Terafab's site selection \"soon\"."
-    },
-    {
-      "id": "5003092",
-      "time": "2026-07-23 05:44:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "特斯拉CEO埃隆·馬斯克： 已為奧斯汀自研晶片工廠下達裝置採購訂單。"
-    },
-    {
-      "id": "mkt:019f8bc9-812b-7aab-8e53-104469d940d3",
-      "time": "2026-07-23 05:44:26",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Tesla CEO Musk said the TeraFab chip fabrication facility is critical to scaling production of Optimus."
-    },
-    {
-      "id": "5003091",
-      "time": "2026-07-23 05:44:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "特斯拉CEO埃隆·馬斯克：想要實現 Optimus 規模化量產，就必須落地 Terafab 晶片製造工廠。"
-    },
-    {
-      "id": "mkt:019f8bc8-0b78-7aab-8e53-0f3dc4d34c14",
-      "time": "2026-07-23 05:42:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bearish"
-      ],
-      "text": "Tesla (TSLA.O) after-hours losses widened to 5% after Elon Musk said scaling production of the Optimus robot will face difficulties."
-    },
-    {
-      "id": "5003090",
-      "time": "2026-07-23 05:42:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "特斯拉CEO埃隆·馬斯克： Optimus 將是首款可應用於日常生活、具備實用價值的人形機器人。"
-    },
-    {
-      "id": "5003089",
-      "time": "2026-07-23 05:42:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "特斯拉CEO埃隆·馬斯克：“很快”就會宣佈Terafab的選址。"
-    },
-    {
-      "id": "mkt:019f8bc6-f65b-7aab-8e53-000dfce2ba0c",
-      "time": "2026-07-23 05:41:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK Prime Minister Burnham appoints Jo White as Parliamentary Under-Secretary of State at the Home Office."
     }
   ]
 }

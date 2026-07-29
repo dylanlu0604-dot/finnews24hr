@@ -1,7 +1,46 @@
 {
   "date": "2026-07-30",
-  "count": 785,
+  "count": 789,
   "items": [
+    {
+      "id": "mkt:019fafd7-d407-7aab-8efa-0a3afc9e44d1",
+      "time": "2026-07-30 05:46:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) CEO said the number of enterprise customers deploying Copilot to most of their information workers rose nearly 75% sequentially."
+    },
+    {
+      "id": "5015276",
+      "time": "2026-07-30 05:44:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟執行長表示，將Copilot部署給大多數資訊工作者的企業客戶數量環比增長近75%。"
+    },
+    {
+      "id": "5015275",
+      "time": "2026-07-30 05:43:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "ARM股價盤後跌幅擴大至9%。"
+    },
+    {
+      "id": "5015274",
+      "time": "2026-07-30 05:42:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "強生完成對Firefly Bio公司的收購，以推進新一代腫瘤學創新。"
+    },
     {
       "id": "5015273",
       "time": "2026-07-30 05:39:36",
