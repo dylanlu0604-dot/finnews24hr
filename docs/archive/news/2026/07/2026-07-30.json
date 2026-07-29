@@ -1,7 +1,38 @@
 {
   "date": "2026-07-30",
-  "count": 768,
+  "count": 770,
   "items": [
+    {
+      "id": "mkt:019fafc0-c655-7aab-8ef9-ffb9e260bedf",
+      "time": "2026-07-30 05:21:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O"
+      ],
+      "text": "Meta Platforms (META.O) CEO said current computing power falls far short of meeting demand."
+    },
+    {
+      "id": "mkt:019fafc0-b72d-7aab-8ef9-f25c540743e4",
+      "time": "2026-07-30 05:21:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) CEO said selling all compute capacity for short-term profit would be stupid."
+    },
     {
       "id": "5015261",
       "time": "2026-07-30 05:19:28",
