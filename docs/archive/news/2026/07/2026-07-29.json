@@ -1,7 +1,95 @@
 {
   "date": "2026-07-29",
-  "count": 2962,
+  "count": 2971,
   "items": [
+    {
+      "id": "te:markets:570812",
+      "time": "2026-07-29 22:50:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls as Financials and Miners Losses Weigh — The S&P/TSX Composite Index fell nearly 1% to trade below 35,500 on Wednesday after closing at a record high in the previous session, weighed down by financials and miners. Oil prices rose as tensions in the Middle East escalated following joint US-Saudi strikes in Iraq, fueling inflation concerns and pushing bond yields higher. Investors also awaited the Fed's policy decision. While rates are expected to remain unchanged, markets are watching for possible dissenting votes in favor of a hike. RBC and Scotiabank lost more than 1.5%, while TD Bank, BMO, Brookfield, and CIBC fell about 2% each. Mining stocks also declined after Allied Gold (-16%) abandoned a proposed sale to a Chinese company and gold prices weakened. Agnico Eagle lost over 2%, Barrick fell nearly 3%, and WPM dropped 2.5%. In contrast, Canadian Natural rose nearly 4%, while Cenovus gained 5% after reporting stronger Q2 revenue and profit."
+    },
+    {
+      "id": "5014837",
+      "time": "2026-07-29 22:48:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 伊拉克總理取消與沙特王儲的會晤。"
+    },
+    {
+      "id": "5014836",
+      "time": "2026-07-29 22:48:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）：玻利維亞當局與IMF工作人員已就一項為期36個月、規模約19億美元的擴充套件基金安排（EFF）達成工作人員層面協議。"
+    },
+    {
+      "id": "5014835",
+      "time": "2026-07-29 22:48:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數跌幅擴大至4％ 美光科技下跌5％】費城半導體指數下跌4.00％，道瓊斯指數跌1.61％，標普500指數跌0.89％，納斯達克綜合指數跌1.21％。英偉達下跌2.98％，臺積電下跌3.67％，博通下跌1.87％，SK海力士下跌1.28％，美光科技下跌5％，美國超微公司下跌5.51％，英特爾下跌3.36％，阿斯麥下跌2.73％，泛林集團下跌5.28％，Arm Holdings下跌6.73％，閃迪下跌8.04％，高通下跌2.84％，邁威爾科技下跌4.82％，西部資料下跌0.68％。"
+    },
+    {
+      "id": "5014834",
+      "time": "2026-07-29 22:47:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）：基金組織與玻利維亞就中期貸款安排達成工作人員層面協議。"
+    },
+    {
+      "id": "mkt:019fae58-23ad-7aab-8eee-02fee44785e1",
+      "time": "2026-07-29 22:47:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "ARM.O",
+        "Impact bearish",
+        "AMD.O",
+        "MU.O"
+      ],
+      "text": "【Philadelphia semiconductor index down for fifth straight session】The Philadelphia Semiconductor Index fell for a fifth straight session, with intraday losses widening to about 4%. Arm (ARM.O) slid more than 6%; AMD (AMD.O) and Micron Technology (MU.O) dropped over 5%; Marvell (MRVL.O) declined more than 4%."
+    },
+    {
+      "id": "5014833",
+      "time": "2026-07-29 22:47:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息： 上海漢得資訊科技股份有限公司遞交港股上市申請。"
+    },
+    {
+      "id": "5014832",
+      "time": "2026-07-29 22:47:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲3%，現報3680.00元。"
+    },
+    {
+      "id": "te:economy:570811",
+      "time": "2026-07-29 22:46:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mozambique",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Mozambique Holds Key Policy Rate at 9.25% — The Bank of Mozambique left its MIMO policy rate unchanged at 9.25% at its July 2026 meeting, maintaining borrowing costs at their lowest level since December 2015 for a third consecutive meeting. Headline inflation accelerated to 7.5% in June from 7.2% in May and is expected to remain elevated in the near term, reflecting higher global energy prices, before easing over the medium term. Meanwhile, economic activity is projected to moderate, with growth excluding natural gas estimated at 1.1% in the first quarter, down from 4.8% in the previous quarter, while output including natural gas is expected to contract 0.1%. Policymakers highlighted heightened uncertainty surrounding the duration of the Middle East conflict and its potential impact on supply chains, as well as international and domestic fuel and food prices. Future policy decisions will depend on evolving risks and uncertainties surrounding the inflation outlook."
+    },
     {
       "id": "5014831",
       "time": "2026-07-29 22:46:02",

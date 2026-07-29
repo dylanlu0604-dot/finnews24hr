@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-29 22:47:31",
-  "count": 17472,
+  "updated": "2026-07-29 22:51:30",
+  "count": 17471,
   "items": [
+    {
+      "id": "te:markets:570812",
+      "time": "2026-07-29 22:50:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls as Financials and Miners Losses Weigh — The S&P/TSX Composite Index fell nearly 1% to trade below 35,500 on Wednesday after closing at a record high in the previous session, weighed down by financials and miners. Oil prices rose as tensions in the Middle East escalated following joint US-Saudi strikes in Iraq, fueling inflation concerns and pushing bond yields higher. Investors also awaited the Fed's policy decision. While rates are expected to remain unchanged, markets are watching for possible dissenting votes in favor of a hike. RBC and Scotiabank lost more than 1.5%, while TD Bank, BMO, Brookfield, and CIBC fell about 2% each. Mining stocks also declined after Allied Gold (-16%) abandoned a proposed sale to a Chinese company and gold prices weakened. Agnico Eagle lost over 2%, Barrick fell nearly 3%, and WPM dropped 2.5%. In contrast, Canadian Natural rose nearly 4%, while Cenovus gained 5% after reporting stronger Q2 revenue and profit."
+    },
+    {
+      "id": "5014837",
+      "time": "2026-07-29 22:48:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 伊拉克總理取消與沙特王儲的會晤。"
+    },
+    {
+      "id": "5014836",
+      "time": "2026-07-29 22:48:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）：玻利維亞當局與IMF工作人員已就一項為期36個月、規模約19億美元的擴充套件基金安排（EFF）達成工作人員層面協議。"
+    },
+    {
+      "id": "5014835",
+      "time": "2026-07-29 22:48:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數跌幅擴大至4％ 美光科技下跌5％】費城半導體指數下跌4.00％，道瓊斯指數跌1.61％，標普500指數跌0.89％，納斯達克綜合指數跌1.21％。英偉達下跌2.98％，臺積電下跌3.67％，博通下跌1.87％，SK海力士下跌1.28％，美光科技下跌5％，美國超微公司下跌5.51％，英特爾下跌3.36％，阿斯麥下跌2.73％，泛林集團下跌5.28％，Arm Holdings下跌6.73％，閃迪下跌8.04％，高通下跌2.84％，邁威爾科技下跌4.82％，西部資料下跌0.68％。"
+    },
+    {
+      "id": "5014834",
+      "time": "2026-07-29 22:47:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）：基金組織與玻利維亞就中期貸款安排達成工作人員層面協議。"
+    },
+    {
+      "id": "mkt:019fae58-23ad-7aab-8eee-02fee44785e1",
+      "time": "2026-07-29 22:47:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "ARM.O",
+        "Impact bearish",
+        "AMD.O",
+        "MU.O"
+      ],
+      "text": "【Philadelphia semiconductor index down for fifth straight session】The Philadelphia Semiconductor Index fell for a fifth straight session, with intraday losses widening to about 4%. Arm (ARM.O) slid more than 6%; AMD (AMD.O) and Micron Technology (MU.O) dropped over 5%; Marvell (MRVL.O) declined more than 4%."
+    },
+    {
+      "id": "5014833",
+      "time": "2026-07-29 22:47:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息： 上海漢得資訊科技股份有限公司遞交港股上市申請。"
+    },
+    {
+      "id": "5014832",
+      "time": "2026-07-29 22:47:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲3%，現報3680.00元。"
+    },
+    {
+      "id": "te:economy:570811",
+      "time": "2026-07-29 22:46:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mozambique",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Mozambique Holds Key Policy Rate at 9.25% — The Bank of Mozambique left its MIMO policy rate unchanged at 9.25% at its July 2026 meeting, maintaining borrowing costs at their lowest level since December 2015 for a third consecutive meeting. Headline inflation accelerated to 7.5% in June from 7.2% in May and is expected to remain elevated in the near term, reflecting higher global energy prices, before easing over the medium term. Meanwhile, economic activity is projected to moderate, with growth excluding natural gas estimated at 1.1% in the first quarter, down from 4.8% in the previous quarter, while output including natural gas is expected to contract 0.1%. Policymakers highlighted heightened uncertainty surrounding the duration of the Middle East conflict and its potential impact on supply chains, as well as international and domestic fuel and food prices. Future policy decisions will depend on evolving risks and uncertainties surrounding the inflation outlook."
+    },
     {
       "id": "5014831",
       "time": "2026-07-29 22:46:02",
@@ -160377,93 +160465,6 @@
         "Impact bullish"
       ],
       "text": "Super Micro Computer (SMCI.O) shares surged as much as 25%, the largest gain so far in 2024."
-    },
-    {
-      "id": "5002755",
-      "time": "2026-07-22 22:51:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "EIA：美國能源資訊署（EIA）資料顯示，上週美國航空燃油需求的四周平均值升至2019年8月以來的最高水平。"
-    },
-    {
-      "id": "5002754",
-      "time": "2026-07-22 22:51:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "超微電腦漲幅擴大至 25%，創 2024 年以來最大漲幅。"
-    },
-    {
-      "id": "5002753",
-      "time": "2026-07-22 22:50:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【多款高階手機漲價超1000元】近期，受全球儲存晶片等半導體元器件成本上漲影響，國內智慧手機市場出現一輪價格調整。當前正值暑期消費旺季，深圳各手機門店客流顯著上升。央視財經記者在各大線下手機賣場走訪發現，主流廠商旗下多款新機及在售機型價格上調，漲幅普遍在300元至1000元不等，部分高階機型漲幅甚至突破千元。品牌門店正依託“以舊換新”國家補貼等政策，降低購機門檻。專業人士表示，本輪手機價格上調，核心是儲存晶片為代表的元件成本上升，以及廠商產品策略調整共同作用的結果，預計儲存晶片供應偏緊的趨勢還會延續。手機新機價格上漲，引發了消費市場的連鎖反應。(央視財經）"
-    },
-    {
-      "id": "5002751",
-      "time": "2026-07-22 22:49:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗軍方訊息人士：若美襲擊伊橋樑或電站 伊將對等打擊】總檯記者當地時間22日獲悉，一名伊朗軍方訊息人士針對美方最新威脅表示，伊朗在行使對霍爾木茲海峽的主權方面擁有堅定的意志，決不允許霍爾木茲海峽再次成為針對伊朗的威脅工具。該軍方訊息人士表示，只要船隻與伊朗協調，遵循伊朗制定的安排，從霍爾木茲海峽通行就是安全的。否則，伊朗絕不會放棄對海峽實施管控的堅定意志，以確保海峽長期安全。這名軍方訊息人士強調，如果美國攻擊伊朗的橋樑或發電站，伊朗將對等打擊地區內的基礎設施和橋樑，其中包括美國擁有利益的能源設施。當天早些時候，美國總統特朗普在其社交媒體發文表示，從現在起，只要伊朗在霍爾木茲海峽向船隻開火，無論使用導彈、火箭、無人機，還是其他裝置或武器，美國都將轟炸並摧毀伊朗一座橋樑或發電廠。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f8a4d-5bba-7aab-8e4c-05ade4348a15",
-      "time": "2026-07-22 22:49:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA said U.S. jet fuel demand hit a record high last week."
-    },
-    {
-      "id": "5002750",
-      "time": "2026-07-22 22:49:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）：上週美國航煤需求創下歷史新高。"
-    },
-    {
-      "id": "5002749",
-      "time": "2026-07-22 22:48:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【儒拉瑪特高階智慧裝備專案簽約落戶常州，總投資1億美元】7月22日，儒拉瑪特高階智慧裝備專案正式簽約落戶常州。據瞭解，儒拉瑪特高階智慧裝備專案位於金壇華羅庚高新區，總投資1億美元，主營新能源、氫能源、高階醫療、消費電子領域高階智慧裝備研發、製造和銷售。專案全部達產後，預計實現年銷售收入30億元。"
-    },
-    {
-      "id": "5002748",
-      "time": "2026-07-22 22:48:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普政府暫停向美國兩州撥付10億美元醫療補助資金】審計顯示聯邦醫療專案存在欺詐行為後，特朗普政府將扣留向加利福尼亞州和明尼蘇達州撥付的超10億美元醫療補助（Medicaid）款項。7月21日，美國衛生與公眾服務部部長小羅伯特·F·肯尼迪（Robert F. Kennedy Jr.）和聯邦醫療保險與醫療補助服務中心（CMS）負責人Mehmet Oz宣佈，將暫緩向加利福尼亞州撥付超8億美元資金，向明尼蘇達州暫緩近2億美元。"
-    },
-    {
-      "id": "5002747",
-      "time": "2026-07-22 22:48:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用電氣航空：通用電氣航空與麥哲倫航空簽署F414發動機維持保障合作諒解備忘錄。"
-    },
-    {
-      "id": "5002746",
-      "time": "2026-07-22 22:47:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：與美國駐北約大使開展了富有成效的會談，核心議題是如何依託 PURL 計劃增加愛國者防空系統攔截彈供應。雙方還探討了美烏雙邊防務合作。"
     }
   ]
 }
