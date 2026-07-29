@@ -1,7 +1,149 @@
 {
   "date": "2026-07-30",
-  "count": 569,
+  "count": 584,
   "items": [
+    {
+      "id": "mkt:019faf65-a2d2-7aab-8ef7-fc023f85e49f",
+      "time": "2026-07-30 03:41:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Kevin Warsh: Reducing forward guidance gives markets chance to 'speak'】Kevin Warsh said the Fed's pullback from forward guidance allows the central bank to listen to market signals rather than unilaterally shape expectations. He noted recent rises in U.S. Treasury yields reflect stronger fundamentals—solid output, robust capital spending and productivity, and a stable, resilient labor market—and said the bond market is conveying the same message."
+    },
+    {
+      "id": "mkt:019faf65-93e9-7aab-8ef7-f48ce62e9e26",
+      "time": "2026-07-30 03:41:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said people should pay attention to Republicans who do not support a voter ID bill."
+    },
+    {
+      "id": "te:markets:570862",
+      "time": "2026-07-30 03:40:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Strengthens After Fed Hold — The Canadian dollar strengthened to around 1.40 per USD from the two-week high of 1.42 on July 27th after the Federal Reserve held rates unchanged. The decision weakened the greenback as around one third of the market was positioned for a hike. Earlier this month, the BoC held its policy rate at 2.25% for a sixth straight meeting. The bank noted that the economy was adjusting to recent shocks and that energy-driven inflation pressures were easing, although some policymakers questioned the durability of the recovery and warned about rising inflation expectations. However, the decision preceded US President Trump’s threat of additional tariffs on Canadian imports and the latest escalation in US-Iran tensions."
+    },
+    {
+      "id": "te:markets:570861",
+      "time": "2026-07-30 03:40:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Wells Fargo Stock Price Hits 4-week Low — Wells Fargo shares decreased to 83.78 USD, the lowest since July 2026. Over the past 4 weeks, Wells Fargo gained 1.46%, and in the last 12 months, it increased 2.53%."
+    },
+    {
+      "id": "mkt:019faf63-dcd0-7aab-8ef7-ea6a713bbc52",
+      "time": "2026-07-30 03:39:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said he wants Congress to add tariffs on Iran to the Russia sanctions bill."
+    },
+    {
+      "id": "5015156",
+      "time": "2026-07-30 03:39:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我希望國會在對俄製裁法案中加入對伊朗的關稅條款。"
+    },
+    {
+      "id": "5015155",
+      "time": "2026-07-30 03:39:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及達米埃塔港兩艘船起火 暫無人員傷亡】埃及石油和礦產資源部29日發表宣告證實，兩艘船隻在地中海沿岸的埃及達米埃塔港起火，應急團隊和相關技術部門已迅速展開處置，目前暫無人員傷亡。"
+    },
+    {
+      "id": "mkt:019faf63-3091-7aab-8ef7-e0c8bae680b8",
+      "time": "2026-07-30 03:39:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump praised the Patriot missile system."
+    },
+    {
+      "id": "5015154",
+      "time": "2026-07-30 03:38:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我們會稍微教訓一下伊朗。"
+    },
+    {
+      "id": "mkt:019faf63-1208-7aab-8ef7-dcac11b8757a",
+      "time": "2026-07-30 03:38:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says he hopes Ukraine's President Zelensky will end the war."
+    },
+    {
+      "id": "mkt:019faf62-f3ad-7aab-8ef7-d0c2a44369bd",
+      "time": "2026-07-30 03:38:45",
+      "tags": [
+        "MKT News",
+        "RTX.O"
+      ],
+      "text": "President Trump said Patriot missile systems protected US bases overnight."
+    },
+    {
+      "id": "5015153",
+      "time": "2026-07-30 03:38:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指跌2.01%，現報51686.398點；納指跌1.08%，現報24607.750點；標普500指數跌1.09%，現報7347.770點。"
+    },
+    {
+      "id": "mkt:019faf62-c6af-7aab-8ef7-cff793ee9ed4",
+      "time": "2026-07-30 03:38:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TRUMP said the US will teach Iran a lesson and will respond to last night's attack on a base in Jordan."
+    },
+    {
+      "id": "5015152",
+      "time": "2026-07-30 03:38:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我希望澤連斯基結束俄烏衝突。"
+    },
+    {
+      "id": "5015151",
+      "time": "2026-07-30 03:38:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國將對昨晚約旦境內軍事基地遇襲事件作出回應。"
+    },
     {
       "id": "mkt:019faf61-e9e1-7aab-8ef7-c614571ae3a9",
       "time": "2026-07-30 03:37:37",
