@@ -1,7 +1,71 @@
 {
   "date": "2026-07-30",
-  "count": 46,
+  "count": 52,
   "items": [
+    {
+      "id": "5014909",
+      "time": "2026-07-30 00:49:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客執行長：與普惠公司的磋商事宜已不會對 2026 年飛機交付造成影響，雙方正協力解決此次糾紛。"
+    },
+    {
+      "id": "mkt:019faec6-e093-7aab-8ef0-1c580635840f",
+      "time": "2026-07-30 00:48:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "HIMS.O",
+        "Impact bearish"
+      ],
+      "text": "Hims & Hers shares fell 12.2% after reports the US Federal Trade Commission (FTC) sued the company, alleging it transmitted users' health data to Meta and Snap."
+    },
+    {
+      "id": "5014908",
+      "time": "2026-07-30 00:47:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "空客：對“婆羅摩”衛星專案非常重視，衛星合資專案正在推進。致力於“歐洲無人機”專案，具體實施方式略有不同。與普惠公司就發動機數量問題仍存在爭議，正致力於以建設性的方式解決發動機糾紛。"
+    },
+    {
+      "id": "mkt:019faec6-3465-7aab-8ef0-102b92a0e0b9",
+      "time": "2026-07-30 00:47:32",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bearish",
+        "RTX.O"
+      ],
+      "text": "Airbus CEO says dispute with Pratt & Whitney over engine quantities remains; parties are working to resolve the engine dispute constructively."
+    },
+    {
+      "id": "mkt:019faec5-ce98-7aab-8ef0-0909d67b36e3",
+      "time": "2026-07-30 00:47:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "Airbus CEO says the company is committed to the European drone project; implementation details will differ slightly."
+    },
+    {
+      "id": "mkt:019faec5-cab5-7aab-8ef0-05cd06164be6",
+      "time": "2026-07-30 00:47:05",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "Airbus CEO said the company places high priority on the \"Poluomo\" satellite project and that a satellite joint venture is progressing."
+    },
     {
       "id": "5014907",
       "time": "2026-07-30 00:45:56",
