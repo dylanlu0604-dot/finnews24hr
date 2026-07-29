@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-30 00:27:36",
-  "count": 17431,
+  "updated": "2026-07-30 00:31:31",
+  "count": 17432,
   "items": [
+    {
+      "id": "mkt:019faeb7-1d44-7aab-8eef-d495cd0c7383",
+      "time": "2026-07-30 00:31:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's Ministry of Petroleum said no casualties were reported after a fire on a vessel at Damietta port."
+    },
+    {
+      "id": "mkt:019faeb6-c11b-7aab-8eef-cf68b08c0c0e",
+      "time": "2026-07-30 00:30:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Egypt's Oil Ministry said a fire broke out on a regasification and storage vessel at Damietta port."
+    },
+    {
+      "id": "mkt:019faeb6-503e-7aab-8eef-c5eeb0cd1a98",
+      "time": "2026-07-30 00:30:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Kazakhstan’s foreign ministry said the Kazakh foreign minister held a phone call with U.S. Secretary of State Rubio to discuss developments around the Caspian Pipeline Consortium."
+    },
+    {
+      "id": "5014901",
+      "time": "2026-07-30 00:29:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "法航荷航集團提交約束性收購要約，計劃收購葡萄牙航空最高 49.9% 的股權。"
+    },
+    {
+      "id": "5014900",
+      "time": "2026-07-30 00:28:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及石油部宣告：達米埃塔港再氣化儲存船舶突發火情。"
+    },
+    {
+      "id": "5014899",
+      "time": "2026-07-30 00:28:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈薩克外交部：哈薩克外長與美國國務卿魯比奧通電話，雙方就裡海管道財團（CPC）相關局勢展開磋商。"
+    },
     {
       "id": "5014898",
       "time": "2026-07-30 00:25:40",
@@ -160142,54 +160194,6 @@
         "Hang Seng Index"
       ],
       "text": "【China, ASEAN foreign ministers meet in Manila; Wang pushes FTA 3.0, RCEP delivery, supply-chain and energy security】China foreign minister Wang Yi and Malaysia foreign minister Muhammad co‑chaired a China‑ASEAN foreign ministers’ meeting in Manila on the 22nd, attended by ASEAN foreign ministers and the ASEAN secretary‑general. Wang proposed four priorities with market relevance: accelerate construction of a China‑ASEAN FTA 3.0 and ensure high‑quality implementation of the RCEP; strengthen regional resilience by enhancing food and energy security and stabilizing supply chains; expand cooperation in the digital economy, AI and submarine cable infrastructure and explore alignment with the ASEAN Digital Economy Framework Agreement; and speed cooperation on climate response, clean energy, green agriculture and the blue economy."
-    },
-    {
-      "id": "mkt:019f8aaa-3b99-7aab-8e4d-d7534f9de958",
-      "time": "2026-07-23 00:30:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK Chancellor Healy said the government's aim is to make household living costs more affordable."
-    },
-    {
-      "id": "mkt:019f8aa8-e17a-7aab-8e4d-cee68460a9e5",
-      "time": "2026-07-23 00:29:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Chancellor Healy said he will support wealth creation."
-    },
-    {
-      "id": "5002856",
-      "time": "2026-07-23 00:28:59",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【王毅談中國東盟互利合作成果】中共中央政治局委員、外交部長王毅22日在馬尼拉出席中國－東盟外長會時，介紹了中國東盟全面戰略伙伴關係建立5年來的豐碩合作成果。\n一是周邊命運共同體建設走深走實。中國已同東盟8國就共建雙邊命運共同體達成重要共識，推動構建更為緊密的中國－東盟命運共同體的基礎更加堅實。\n二是貿易規模穩步提升。中國－東盟自貿區3.0版升級議定書正式簽署，雙方連續6年互為最大貿易伙伴，2025年貿易額突破萬億美元。\n三是通力合作共渡難關。在緬甸遭遇強震、菲律賓棉蘭老島發生地震後，中方第一時間馳援，彰顯了中國與東盟國家守望相助的優良傳統。\n四是人文交流更加熱絡。中國－東盟人文交流年（2024至2025年）舉辦近200場高水平、高人氣活動，中方專門出臺“東盟簽證”，推動人員往來更加便利、更加熱絡，雙方人文紐帶愈發緊密。（新華社）"
-    },
-    {
-      "id": "mkt:019f8aa8-ad2e-7aab-8e4d-c722bdd90822",
-      "time": "2026-07-23 00:28:57",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Russia says it struck Ukrainian port infrastructure and vessels】Russia said on Wednesday it struck infrastructure and vessels at Odesa and Chornomorsk ports, targeting facilities and ships it said were supplying Ukrainian forces. The Russian Defence Ministry said the latest strikes hit a dry cargo ship unloading at Chornomorsk, a military cargo warehouse and fuel and lubricant tanks; it added that strikes struck cargo-handling and storage facilities in Odesa, a dry cargo ship carrying Ukrainian military supplies to Odesa and a bulk carrier, and that Russian drones hit three warehouses storing Ukrainian drones."
-    },
-    {
-      "id": "5002855",
-      "time": "2026-07-23 00:28:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國財政大臣希利：政策目標在於改善民眾生活負擔壓力。"
     }
   ]
 }

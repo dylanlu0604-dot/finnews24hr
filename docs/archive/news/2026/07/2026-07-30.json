@@ -1,7 +1,59 @@
 {
   "date": "2026-07-30",
-  "count": 27,
+  "count": 33,
   "items": [
+    {
+      "id": "mkt:019faeb7-1d44-7aab-8eef-d495cd0c7383",
+      "time": "2026-07-30 00:31:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's Ministry of Petroleum said no casualties were reported after a fire on a vessel at Damietta port."
+    },
+    {
+      "id": "mkt:019faeb6-c11b-7aab-8eef-cf68b08c0c0e",
+      "time": "2026-07-30 00:30:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Egypt's Oil Ministry said a fire broke out on a regasification and storage vessel at Damietta port."
+    },
+    {
+      "id": "mkt:019faeb6-503e-7aab-8eef-c5eeb0cd1a98",
+      "time": "2026-07-30 00:30:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Kazakhstan’s foreign ministry said the Kazakh foreign minister held a phone call with U.S. Secretary of State Rubio to discuss developments around the Caspian Pipeline Consortium."
+    },
+    {
+      "id": "5014901",
+      "time": "2026-07-30 00:29:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "法航荷航集團提交約束性收購要約，計劃收購葡萄牙航空最高 49.9% 的股權。"
+    },
+    {
+      "id": "5014900",
+      "time": "2026-07-30 00:28:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及石油部宣告：達米埃塔港再氣化儲存船舶突發火情。"
+    },
+    {
+      "id": "5014899",
+      "time": "2026-07-30 00:28:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈薩克外交部：哈薩克外長與美國國務卿魯比奧通電話，雙方就裡海管道財團（CPC）相關局勢展開磋商。"
+    },
     {
       "id": "5014898",
       "time": "2026-07-30 00:25:40",
