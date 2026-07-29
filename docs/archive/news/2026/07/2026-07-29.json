@@ -1,7 +1,35 @@
 {
   "date": "2026-07-29",
-  "count": 1396,
+  "count": 1399,
   "items": [
+    {
+      "id": "5013743",
+      "time": "2026-07-29 13:48:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "港股儲存概念股午後跌幅收窄，南方兩倍做多海力士(07709.HK)現跌17.5%，此前一度跌超28%，南方兩倍做多三星電子(07747.HK)現跌12%，此前一度跌超18%，兆易創新(03986.HK)跌6%，瀾起科技(06809.HK)跌4.5%。"
+    },
+    {
+      "id": "5013742",
+      "time": "2026-07-29 13:47:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯起訴 Telegram 創始人杜羅夫，併發出逮捕令。"
+    },
+    {
+      "id": "te:markets:570628",
+      "time": "2026-07-29 13:46:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Rally Persists, Ends at Fresh Record High — New Zealand's stocks rose 115 points, or 0.8%, to close at a record high of 13,977 on Wednesday, marking their third consecutive record close, with almost all sectors trading in the green. The gains were mainly driven by materials, healthcare, consumer staples, and real estate. Traders maintained momentum as they braced for the upcoming earnings season next month, though oil prices rebounded amid renewed escalation of the conflict in the Middle East and the global tech selloff. However, traders remained cautious ahead of the Fed's interest rate decision later today. The top performer was AFT Pharmaceuticals (7.6%) after the company said its portfolio of projects opened the business up to multi-billion-dollar market opportunities. Other notable gainers were Ebos Group (4.6%), Fisher & Paykel Healthcare (2.5%), Chorus (2.5%), Auckland International Airport (1.9%), Delegat Group (1.7%), A2 Milk (1.4%), Mercury NZ (1.2%), and Infratil (0.9%)."
+    },
     {
       "id": "5013741",
       "time": "2026-07-29 13:45:14",
