@@ -1,7 +1,76 @@
 {
-  "updated": "2026-07-30 04:54:30",
-  "count": 17794,
+  "updated": "2026-07-30 04:58:25",
+  "count": 17798,
   "items": [
+    {
+      "id": "5015247",
+      "time": "2026-07-30 04:56:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通執行長：目前預計2026財年末，汽車業務年化銷售額將約為70億美元。"
+    },
+    {
+      "id": "5015246",
+      "time": "2026-07-30 04:55:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：內塔尼亞胡向特朗普闡述對伊“三種情景”】據《以色列時報》網站29日報道，以總理內塔尼亞胡日前在與美國總統特朗普的會晤中提出涉伊朗局勢的“三種情景”，但未提及任何“具體戰略”。內塔尼亞胡還在與美高階官員會面中提出希望逐步擺脫美方援助。報道援引以高階官員的話說，內塔尼亞胡所說的“三種情景”包括：一是與伊朗達成外交協議；二是情況較不明朗，沒有達成協議且美國繼續試圖透過經濟制裁向伊朗施壓，但不會再次發動戰爭；三是對伊朗再次發動大規模攻勢。（新華社）"
+    },
+    {
+      "id": "5015245",
+      "time": "2026-07-30 04:54:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta執行長：預計人工智慧變現模式將演變為類似我們的廣告系統，在我們的計算資源上執行高效競價機制。"
+    },
+    {
+      "id": "mkt:019fafa8-87bd-7aab-8ef9-a36dab56b90a",
+      "time": "2026-07-30 04:54:45",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "NOC.O",
+        "RTX.O"
+      ],
+      "text": "【SpaceX awarded $1.6 bln U.S. Space Force contract】The U.S. Space Force on July 29 awarded SpaceX a $1.6 billion contract to perform 18 Falcon 9 launches by end-2027 to deploy military satellites for detecting and tracking airborne targets."
+    },
+    {
+      "id": "mkt:019fafa8-6ccb-7aab-8ef9-9d8393128d24",
+      "time": "2026-07-30 04:54:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Qualcomm (QCOM.O) CEO said tape-out of first-generation HBC has been completed."
+    },
+    {
+      "id": "5015244",
+      "time": "2026-07-30 04:54:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta執行長：公司計劃將人工智慧產品以一站式商用服務模式變現，採用訂閱制結合按量計費的定價方案。"
+    },
+    {
+      "id": "mkt:019fafa8-1803-7aab-8ef9-95e4689ebd88",
+      "time": "2026-07-30 04:54:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) CEO said custom chips have entered wafer production."
+    },
     {
       "id": "mkt:019fafa7-d8e9-7aab-8ef9-8a99c5ce36f0",
       "time": "2026-07-30 04:54:00",
@@ -164130,30 +164199,6 @@
         "公司"
       ],
       "text": "谷歌CEO皮查伊：公司預計外匯匯率波動將對第三季度合併營收產生小幅不利影響。"
-    },
-    {
-      "id": "5003050",
-      "time": "2026-07-23 04:57:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗境內傳來爆炸聲。"
-    },
-    {
-      "id": "5003049",
-      "time": "2026-07-23 04:57:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌CEO皮查伊：季度資本開支主要用於人工智慧基礎設施建設。"
-    },
-    {
-      "id": "5003048",
-      "time": "2026-07-23 04:56:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌CEO皮查伊： 公司自第二季度起開始確認張量處理器（TPU）銷售收入。"
     }
   ]
 }
