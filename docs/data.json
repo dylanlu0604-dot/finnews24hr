@@ -1,7 +1,122 @@
 {
-  "updated": "2026-07-29 21:27:45",
-  "count": 17503,
+  "updated": "2026-07-29 21:31:46",
+  "count": 17498,
   "items": [
+    {
+      "id": "mkt:019fae12-33b7-7aab-8eeb-70cace41922f",
+      "time": "2026-07-29 21:30:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GFS.O",
+        "Impact bullish",
+        "SKHY.O",
+        "Impact bearish",
+        "SNDK.O"
+      ],
+      "text": "U.S. equity open: Dow down 0.8%, S&P 500 down 0.18%, Nasdaq down 0.12%. GlobalFoundries (GFS.O) rose 0.57% after the company said it will receive up to $300 mln in U.S. government support. SK Hynix (SKHY.O) fell about 1%; SanDisk (SNDK.O) rose about 2%."
+    },
+    {
+      "id": "5014722",
+      "time": "2026-07-29 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌0.81%，標普500指數跌0.18%，納指跌0.19%。科斯塔跌10.57%，VRT跌8.91%，思佳訊跌8.77%，馬斯科跌6.91%，SW跌5.51%，波士頓科學跌5.50%，寶潔跌4.53%。“七姐妹”方面：蘋果漲0.46%，谷歌漲0.42%，微軟跌0.04%，特斯拉跌0.18%，Meta Platforms跌0.46%，英偉達跌0.70%，亞馬遜跌0.93%。"
+    },
+    {
+      "id": "5014721",
+      "time": "2026-07-29 21:30:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "VERTIV HOLDINGS股價下跌9%，至3月31日以來最低點。"
+    },
+    {
+      "id": "5014720",
+      "time": "2026-07-29 21:30:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，理想汽車漲5.72%，新東方漲5.99%，禾賽科技漲5.28%，蔚來漲3.31%，名創優品漲3.48%。"
+    },
+    {
+      "id": "mkt:019fae11-d6b9-7aab-8eeb-68488d50a1dc",
+      "time": "2026-07-29 21:30:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China issues navigation warning for live-fire in South China Sea Jul 30–Aug 3】Zhanjiang Maritime Bureau posted on the China Maritime Safety Administration website that parts of the South China Sea will be closed to navigation for live-fire exercises from July 30 to Aug. 3, daily 04:30–07:30. Entry into the designated areas is prohibited."
+    },
+    {
+      "id": "5014719",
+      "time": "2026-07-29 21:30:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！南海海域實彈射擊】據中國海事局網站訊息，湛江海事局釋出航行警告，7月30日至8月3日，每天4時30分至7時30分，南海部分海域進行實彈射擊，禁止駛入。"
+    },
+    {
+      "id": "5014718",
+      "time": "2026-07-29 21:30:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，理想汽車漲5.72%，禾賽科技漲5.50%，阿特斯漲2.67%，華住酒店集團漲0.95%，京東漲0.66%。"
+    },
+    {
+      "id": "te:markets:570792",
+      "time": "2026-07-29 21:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "P&G Stock Price Hits 7-week Low — P&G shares decreased to 141.00 USD, the lowest since June 2026. Over the past 4 weeks, Procter & Gamble gained 0.79%, and in the last 12 months, it decreased 4.46%."
+    },
+    {
+      "id": "mkt:019fae0f-f4cb-7aab-8eeb-6351c81d72f6",
+      "time": "2026-07-29 21:28:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kenya orders Tata Chemicals' Magadi soda ash plant to suspend operations】Kenya has ordered Tata Chemicals' Magadi soda ash plant, Africa's largest, to suspend operations, citing unpaid mining royalties and multiple regulatory breaches. Mining, Blue Economy and Maritime Affairs Minister Hassan Joho said the company must submit full documentation proving it has met statutory obligations and settled outstanding dues before production can resume. The government also flagged failures to implement value‑addition and skills‑transfer plans, insufficient employment of Kenyan citizens, and non‑compliance with export declarations, local procurement and environmental rules. Tata Chemicals said it is \"fully compliant with all relevant regulations\" and will work with authorities to resolve the issues. USGS data show Kenya is the world’s fourth-largest producer of natural soda ash, accounting for about 1% of global output."
+    },
+    {
+      "id": "mkt:019fae0f-e85c-7aab-8eeb-5b71f2cd30b0",
+      "time": "2026-07-29 21:28:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary’s Paks nuclear plant has taken Unit 3 offline due to falling Danube river levels."
+    },
+    {
+      "id": "5014717",
+      "time": "2026-07-29 21:28:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本熊本縣發生5.8級地震】據日本氣象廳訊息，當地時間29日22時19分左右，日本熊本縣熊本地區發生5.8級地震，最大震感為震度5弱，熊本市震感強烈。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fae0f-1963-7aab-8eeb-51abcaa499dd",
+      "time": "2026-07-29 21:27:32",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "NHK: Japan earthquake does not pose a tsunami threat."
+    },
     {
       "id": "5014716",
       "time": "2026-07-29 21:27:04",
@@ -160526,165 +160641,6 @@
         "焦點"
       ],
       "text": "超微電腦股價大漲15.1%，此前該公司公佈第四季度新接訂單規模達600億美元。"
-    },
-    {
-      "id": "mkt:019f8a06-3f21-7aab-8e49-17244fcffc22",
-      "time": "2026-07-22 21:31:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "Dow Jones Industrial Average opened up 4.03 points (+0.01%) at 52,228.67 on Wednesday, July 22. S&P 500 opened down 15.70 points (-0.21%) at 7,493.51. Nasdaq Composite opened down 128.55 points (-0.50%) at 25,708.66."
-    },
-    {
-      "id": "5002607",
-      "time": "2026-07-22 21:31:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "受歐盟審議航空企業所有權規則影響，易捷航空盤中最大跌幅達 9.9%  。"
-    },
-    {
-      "id": "5002606",
-      "time": "2026-07-22 21:31:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "AT&T股價上漲5.4%，創1月28日以來最大漲幅。"
-    },
-    {
-      "id": "te:markets:568910",
-      "time": "2026-07-22 21:31:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "CME Stock Price Hits 4-week High — CME shares increased to 248.51 USD, the highest since June 2026. Over the past 4 weeks, CME gained 1.08%, and in the last 12 months, it decreased 9.76%."
-    },
-    {
-      "id": "5002605",
-      "time": "2026-07-22 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊跌】道指跌0.12%，標普500指數跌0.27%，納指跌0.53%。泰科電子跌6.01%，GEV跌4.71%，Carvana Co.跌3.92%，閃迪跌3.49%，北方信託公司跌3.18%，VRT跌3.16%。“七姐妹”方面：蘋果漲0.10%，谷歌漲0.10%，Meta Platforms跌0.28%，微軟跌0.48%，特斯拉跌0.49%，亞馬遜跌0.54%，英偉達跌0.72%。"
-    },
-    {
-      "id": "5002604",
-      "time": "2026-07-22 21:30:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超0.5%，逸仙電商跌6.59%，網易跌5.26%，嗶哩嗶哩跌2.68%，海天網路跌2.57%，阿里巴巴跌2.09%。"
-    },
-    {
-      "id": "5002603",
-      "time": "2026-07-22 21:30:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐元區和歐盟第一季度季調後財政赤字率均為3.1%】根據歐盟統計局的初步資料，經季節調整後，2026年第一季度歐元區和歐盟財政赤字佔國內生產總值（GDP）比重均為3.1%。資料顯示，第一季度歐元區政府總收入佔GDP比重為47.1%，總支出佔比為50.2%；歐盟政府總收入和總支出佔GDP比重分別為46.6%和49.8%。（新華財經）"
-    },
-    {
-      "id": "te:markets:568909",
-      "time": "2026-07-22 21:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "AT&T Stock Price Hits 5-week High — AT&T shares increased to 23.36 USD, the highest since June 2026. Over the past 4 weeks, AT&T gained 0.77%, and in the last 12 months, it decreased 18.78%."
-    },
-    {
-      "id": "5002602",
-      "time": "2026-07-22 21:30:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國衛生部門統計得出，6-7月的熱浪期間超額死亡人數為5764人。"
-    },
-    {
-      "id": "5002601",
-      "time": "2026-07-22 21:29:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "富國銀行 CEO ：承諾將繼續留任富國銀行。"
-    },
-    {
-      "id": "5002600",
-      "time": "2026-07-22 21:29:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【一季度末歐元區政府債務佔GDP比重為88.9%】根據歐盟統計局的初步資料，2026年第一季度末，歐元區政府債務總額為14.24萬億歐元，佔國內生產總值（GDP）的比重為88.9%。同期，歐盟27國政府債務總額為15.70萬億歐元，佔GDP比重為82.9%。（新華財經）"
-    },
-    {
-      "id": "5002599",
-      "time": "2026-07-22 21:29:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【世行官員：美伊戰事可能讓今年全球經濟增速降至1.3%】世界銀行高階副行長兼首席經濟學家英德米特·吉爾（Indermit Gill）7月22日在接受媒體採訪時表示，美國和伊朗之間戰事再次升級可能推高通脹和利率，並讓今年全球經濟增速降至1.3%。吉爾說，該行在6月經濟預測中提出中東戰事三種可能的結果，衝突持續6個月或更久的最糟糕情形已經接近實現。在此情形下，今年全球通脹將達到4.5%。（新華財經）"
-    },
-    {
-      "id": "5002598",
-      "time": "2026-07-22 21:29:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "HCL科技：獲巴西TIM選為合作伙伴，提供跨平臺eSIM轉移能力。"
-    },
-    {
-      "id": "mkt:019f8a04-13cc-7aab-8e49-0fb9a1b668ec",
-      "time": "2026-07-22 21:29:10",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "Wells Fargo CEO said the bank is very bullish on the U.S. market."
-    },
-    {
-      "id": "5002597",
-      "time": "2026-07-22 21:28:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：HCL 科技與巴西 TIM 達成合作。"
-    },
-    {
-      "id": "5002596",
-      "time": "2026-07-22 21:28:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "富國銀行執行長稱，該行 “極度看好美國（市場）前景”。"
-    },
-    {
-      "id": "5002595",
-      "time": "2026-07-22 21:27:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "T-Mobile：三星全系夏季新品登陸 T-Mobile，今日開啟預售，8 月 7 日正式開售。"
     }
   ]
 }

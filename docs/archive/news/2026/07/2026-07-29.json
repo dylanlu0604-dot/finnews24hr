@@ -1,7 +1,122 @@
 {
   "date": "2026-07-29",
-  "count": 2768,
+  "count": 2780,
   "items": [
+    {
+      "id": "mkt:019fae12-33b7-7aab-8eeb-70cace41922f",
+      "time": "2026-07-29 21:30:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GFS.O",
+        "Impact bullish",
+        "SKHY.O",
+        "Impact bearish",
+        "SNDK.O"
+      ],
+      "text": "U.S. equity open: Dow down 0.8%, S&P 500 down 0.18%, Nasdaq down 0.12%. GlobalFoundries (GFS.O) rose 0.57% after the company said it will receive up to $300 mln in U.S. government support. SK Hynix (SKHY.O) fell about 1%; SanDisk (SNDK.O) rose about 2%."
+    },
+    {
+      "id": "5014722",
+      "time": "2026-07-29 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌0.81%，標普500指數跌0.18%，納指跌0.19%。科斯塔跌10.57%，VRT跌8.91%，思佳訊跌8.77%，馬斯科跌6.91%，SW跌5.51%，波士頓科學跌5.50%，寶潔跌4.53%。“七姐妹”方面：蘋果漲0.46%，谷歌漲0.42%，微軟跌0.04%，特斯拉跌0.18%，Meta Platforms跌0.46%，英偉達跌0.70%，亞馬遜跌0.93%。"
+    },
+    {
+      "id": "5014721",
+      "time": "2026-07-29 21:30:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "VERTIV HOLDINGS股價下跌9%，至3月31日以來最低點。"
+    },
+    {
+      "id": "5014720",
+      "time": "2026-07-29 21:30:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，理想汽車漲5.72%，新東方漲5.99%，禾賽科技漲5.28%，蔚來漲3.31%，名創優品漲3.48%。"
+    },
+    {
+      "id": "mkt:019fae11-d6b9-7aab-8eeb-68488d50a1dc",
+      "time": "2026-07-29 21:30:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China issues navigation warning for live-fire in South China Sea Jul 30–Aug 3】Zhanjiang Maritime Bureau posted on the China Maritime Safety Administration website that parts of the South China Sea will be closed to navigation for live-fire exercises from July 30 to Aug. 3, daily 04:30–07:30. Entry into the designated areas is prohibited."
+    },
+    {
+      "id": "5014719",
+      "time": "2026-07-29 21:30:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！南海海域實彈射擊】據中國海事局網站訊息，湛江海事局釋出航行警告，7月30日至8月3日，每天4時30分至7時30分，南海部分海域進行實彈射擊，禁止駛入。"
+    },
+    {
+      "id": "5014718",
+      "time": "2026-07-29 21:30:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，理想汽車漲5.72%，禾賽科技漲5.50%，阿特斯漲2.67%，華住酒店集團漲0.95%，京東漲0.66%。"
+    },
+    {
+      "id": "te:markets:570792",
+      "time": "2026-07-29 21:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "P&G Stock Price Hits 7-week Low — P&G shares decreased to 141.00 USD, the lowest since June 2026. Over the past 4 weeks, Procter & Gamble gained 0.79%, and in the last 12 months, it decreased 4.46%."
+    },
+    {
+      "id": "mkt:019fae0f-f4cb-7aab-8eeb-6351c81d72f6",
+      "time": "2026-07-29 21:28:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kenya orders Tata Chemicals' Magadi soda ash plant to suspend operations】Kenya has ordered Tata Chemicals' Magadi soda ash plant, Africa's largest, to suspend operations, citing unpaid mining royalties and multiple regulatory breaches. Mining, Blue Economy and Maritime Affairs Minister Hassan Joho said the company must submit full documentation proving it has met statutory obligations and settled outstanding dues before production can resume. The government also flagged failures to implement value‑addition and skills‑transfer plans, insufficient employment of Kenyan citizens, and non‑compliance with export declarations, local procurement and environmental rules. Tata Chemicals said it is \"fully compliant with all relevant regulations\" and will work with authorities to resolve the issues. USGS data show Kenya is the world’s fourth-largest producer of natural soda ash, accounting for about 1% of global output."
+    },
+    {
+      "id": "mkt:019fae0f-e85c-7aab-8eeb-5b71f2cd30b0",
+      "time": "2026-07-29 21:28:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary’s Paks nuclear plant has taken Unit 3 offline due to falling Danube river levels."
+    },
+    {
+      "id": "5014717",
+      "time": "2026-07-29 21:28:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本熊本縣發生5.8級地震】據日本氣象廳訊息，當地時間29日22時19分左右，日本熊本縣熊本地區發生5.8級地震，最大震感為震度5弱，熊本市震感強烈。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fae0f-1963-7aab-8eeb-51abcaa499dd",
+      "time": "2026-07-29 21:27:32",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "NHK: Japan earthquake does not pose a tsunami threat."
+    },
     {
       "id": "5014716",
       "time": "2026-07-29 21:27:04",
