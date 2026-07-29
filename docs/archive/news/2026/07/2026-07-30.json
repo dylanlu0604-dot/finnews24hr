@@ -1,7 +1,120 @@
 {
   "date": "2026-07-30",
-  "count": 530,
+  "count": 542,
   "items": [
+    {
+      "id": "mkt:019faf5a-2145-7aab-8ef7-5b88c82b8b54",
+      "time": "2026-07-30 03:29:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "President Trump said Federal Reserve Chair Kevin Warsh leads a council he called political and that Warsh wants lower interest rates."
+    },
+    {
+      "id": "5015138",
+      "time": "2026-07-30 03:29:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普：沃什需要應對一個充滿政治考量的美聯儲理事會。"
+    },
+    {
+      "id": "5015137",
+      "time": "2026-07-30 03:28:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普談美聯儲：沃什太棒了。"
+    },
+    {
+      "id": "mkt:019faf59-7cbd-7aab-8ef7-5551bdcc6272",
+      "time": "2026-07-30 03:28:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. President Trump said Federal Reserve Chair Kevin Warsh is excellent."
+    },
+    {
+      "id": "5015136",
+      "time": "2026-07-30 03:28:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沃什很樂意看到利率下降。"
+    },
+    {
+      "id": "5015135",
+      "time": "2026-07-30 03:28:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "負責美國貿易事務的加拿大部長表示，已與美國貿易代表格里爾舉行全面會談，雙方同意保持密切聯絡。"
+    },
+    {
+      "id": "mkt:019faf59-36e3-7aab-8ef7-4e30d6baecfc",
+      "time": "2026-07-30 03:28:07",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Trump said he spoke with the new British prime minister, who told him he would open up the North Sea."
+    },
+    {
+      "id": "mkt:019faf58-4378-7aab-8ef7-45742dd819c2",
+      "time": "2026-07-30 03:27:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said developing North Sea oil would make the UK a wealthy country."
+    },
+    {
+      "id": "5015134",
+      "time": "2026-07-30 03:27:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：開放北海石油將使英國成為一個富裕國家。"
+    },
+    {
+      "id": "mkt:019faf58-0392-7aab-8ef7-3a5917111933",
+      "time": "2026-07-30 03:26:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "President Trump said Iran launched five missiles last night; all were shot down."
+    },
+    {
+      "id": "5015133",
+      "time": "2026-07-30 03:26:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：拜登執政期間新冠死亡人數遠多於我執政時期，新冠疫情堪稱一場災難。"
+    },
     {
       "id": "mkt:019faf57-571e-7aab-8ef7-3183a6e9b938",
       "time": "2026-07-30 03:26:04",
@@ -9,6 +122,14 @@
         "MKT News"
       ],
       "text": "US President Trump: UK Prime Minister Burnham says the UK will develop North Sea oil."
+    },
+    {
+      "id": "5015132",
+      "time": "2026-07-30 03:26:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：英國首相伯納姆表示將放開北海石油開採。"
     },
     {
       "id": "mkt:019faf57-42a5-7aab-8ef7-2ecfe1075b87",
