@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-30 07:14:28",
+  "updated": "2026-07-30 07:18:22",
   "count": 17779,
   "items": [
+    {
+      "id": "5015366",
+      "time": "2026-07-30 07:17:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡：預計能源管道將遠離霍爾木茲。"
+    },
+    {
+      "id": "5015365",
+      "time": "2026-07-30 07:16:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI首席財務官薩拉·弗里爾告訴員工，7月經年化收入已超過第二季度的總收入水平。"
+    },
+    {
+      "id": "5015364",
+      "time": "2026-07-30 07:16:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【進口FPGA交貨週期大幅延長】據供應鏈方面訊息，全球FPGA頭部企業如賽靈思（Xilinx）與萊迪思（Lattice）等不僅相繼對主力產品漲價10%—20%或以上，對國內的供應週期亦大幅拉長。其中，進口的FPGA晶片產品目前交貨週期普遍已升至約52周，而此前常規交期僅為8到12周。資深晶片經銷人士告訴證券時報記者：“目前FPGA海外各類產品現貨急缺，現貨價格普遍大幅上漲。例如，進口的某XC開頭型號的FPGA單顆現貨從年初220元漲到850元。進口某EP開頭型號FPGA單顆從120元漲價到1200元，這是最新資料。這兩顆都是歐美市場需求比較熱門的型號，現貨價格翻了7—10倍，國內下游工廠接受了。如果要透過原廠拿貨，價格不會這麼高，但是無法避免52周的交期，進口FPGA現在普遍要這個交期，低端的可能還會更長。”他介紹，現在國外FPGA大廠把大部分產能放在AI資料中心的晶片上，剩下的一些產能優先生產高階FPGA。最近3個月，因為一些進口FPGA料號停產和漲價潮，他為國內下游廠家尋找國產替代方案已不下50例，手上國產FPGA量產案例亦在快速積累。"
+    },
+    {
+      "id": "5015363",
+      "time": "2026-07-30 07:16:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡：認為伊朗比以往任何時候都更弱。"
+    },
+    {
+      "id": "5015362",
+      "time": "2026-07-30 07:14:50",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲助理主席Hunter：必須把通貨膨脹降下來，這真的很重要。不能讓長期通脹預期脫離錨定。"
+    },
     {
       "id": "5015361",
       "time": "2026-07-30 07:13:20",
@@ -163940,52 +163980,6 @@
         "國際"
       ],
       "text": "美國能源部長賴特表示，能源部幕僚長卡爾·科將辭職。"
-    },
-    {
-      "id": "5003172",
-      "time": "2026-07-23 07:18:10",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【韓國經濟增速放緩，但晶片出口仍是主要增長引擎】韓國經濟在第一季度實現強勁增長後，第二季度增速有所放緩。不過，得益於晶片出口的強勁表現抵消了民間消費和建築投資的疲軟，該國經濟仍保持韌性。韓國央行週四公佈的初步資料顯示，繼第一季度錄得1.8%的修正後環比增幅後，韓國這個亞洲第四大經濟體在第二季度（4-6月）環比增長0.6%。與去年同期相比，第二季度經濟同比增長3.7%，前一季度修正後增幅為3.8%。最新的國內生產總值資料超出了市場預期。此前接受媒體調查的經濟學家預測，第二季度GDP將環比增長0.4%，同比增長3.4%。在人工智慧(AI)熱潮推動半導體需求強勁的背景下，出口仍是主要的增長引擎。韓國是儲存晶片製造商三星電子和SK海力士的大本營，這使其成為全球AI基礎設施建設熱潮中的主要受益者。第二季度，晶片和機械出口以及研發和軟體開發投資保持穩健增長，但民間消費走軟，建築投資出現萎縮。儘管第二季度經濟增長動能有所減弱，但分析師和決策者仍對今年剩餘時間由出口引領的增長前景保持樂觀。"
-    },
-    {
-      "id": "mkt:019f8c1d-81d8-7aab-8e54-6f77071914a0",
-      "time": "2026-07-23 07:16:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "【Musk: Micron (MU.O) supplied Tesla (TSLA.O) with \"large\" batch of memory chips】Tesla CEO Elon Musk said Micron Technology (MU.O) recently supplied Tesla (TSLA.O) with a \"large\" quantity of memory chips and that the transaction terms were \"very reasonable\" amid tight supply and elevated prices. Musk said he is pursuing long-term in‑house chip production via a program called \"Terafab\" to build compute and memory chips at scale, but for now Tesla remains reliant on Micron. He added that Tesla and SpaceX are not among Micron’s top 10 customers."
-    },
-    {
-      "id": "5003171",
-      "time": "2026-07-23 07:15:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普讚揚奈及利亞打擊針對基督徒暴力的努力。"
-    },
-    {
-      "id": "mkt:019f8c1c-8524-7aab-8e54-6617c258a1ed",
-      "time": "2026-07-23 07:15:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Bank of Korea: South Korea Q2 GDP +0.6% QoQ as exports offset Middle East drag】Bank of Korea data on Thursday showed South Korea’s economy grew 0.6% QoQ in Q2, with strong exports offsetting downward pressure from ongoing Middle East tensions. The pace slowed from Q1’s 1.8% QoQ but exceeded the Bank of Korea’s May forecast of 0.2%."
-    },
-    {
-      "id": "5003170",
-      "time": "2026-07-23 07:14:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多方承諾不減持 合力應對港股解禁衝擊】2026年下半年，港股市場迎來解禁“壓力測試”。浦銀國際資料顯示，7月和9月解禁的市值分別約3000億港元及5000億港元，解禁集中於AI大模型、GPU（圖形處理器）、高階半導體等熱門賽道。面對籌碼集中釋放，多家上市公司基石投資者、控股股東及高管密集釋出鎖倉與不減持承諾，以應對流動性衝擊。"
     }
   ]
 }
