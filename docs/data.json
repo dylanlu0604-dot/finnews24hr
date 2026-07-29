@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-30 02:18:52",
+  "updated": "2026-07-30 02:22:50",
   "count": 17472,
   "items": [
+    {
+      "id": "mkt:019faf1b-b2a7-7aab-8ef2-9739b275b060",
+      "time": "2026-07-30 02:20:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Barclays said it characterizes today's policy meeting outcome as a hawkish hold; three dissenting votes will reinforce market bets on further rate hikes over the coming months."
+    },
+    {
+      "id": "te:markets:570842",
+      "time": "2026-07-30 02:20:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Rises by 2.16% — Top commodity gainers are Silver (2.16%) and Gold (1.11%). Biggest loser is Steel Rebar (-0.79%)."
+    },
+    {
+      "id": "mkt:019faf1a-f339-7aab-8ef2-8b9c410a1f05",
+      "time": "2026-07-30 02:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Federal Reserve Chairman KEVIN WARSH to hold monetary policy press conference in 10 minutes."
+    },
+    {
+      "id": "5014975",
+      "time": "2026-07-30 02:19:47",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部長：即便本次向參議院提交發債申請尚未落地，我國發行熊貓債的各項條件均已籌備到位。"
+    },
+    {
+      "id": "5014974",
+      "time": "2026-07-30 02:19:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：白宮原本計劃提名美國環境保護署顧問施瓦布出任大氣辦公室負責人，後因現任主管的規劃有變而擱置該安排。"
+    },
+    {
+      "id": "5014973",
+      "time": "2026-07-30 02:18:59",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部長：正申請參議院授權，每年最多發行 350 億美元外債以達成各項發展目標。"
+    },
     {
       "id": "mkt:019faf18-b24e-7aab-8ef2-8027661e9329",
       "time": "2026-07-30 02:17:38",
@@ -160693,59 +160758,6 @@
         "市場"
       ],
       "text": "【美股AI應用軟體股持續走低】美股AI應用軟體股持續走低，UiPath跌超13%，Reddit跌近9%，Palantir跌近7%，ServiceNow跌超6%，賽富時跌超4%。"
-    },
-    {
-      "id": "5002928",
-      "time": "2026-07-23 02:22:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：美參議院委員會推進法案，或禁止梅賽德斯-賓士在美銷售。"
-    },
-    {
-      "id": "mkt:019f8b10-c95f-7aab-8e4f-9126332eb5e9",
-      "time": "2026-07-23 02:22:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Politico reports NATO has approved €27 bln to upgrade its Cold War-era fuel transport network."
-    },
-    {
-      "id": "5002927",
-      "time": "2026-07-23 02:21:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "Meta：起訴Meta公司造成心理健康傷害的青少年原告在庭審前幾天撤銷了對公司的指控。"
-    },
-    {
-      "id": "te:markets:568956",
-      "time": "2026-07-23 02:20:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Gains by 1.93% — Top commodity gainers are Silver (1.93%), Gold (1.49%) and Platinum (0.54%). Biggest losers are Copper (-1.27%), Iron Ore CNY (-1.27%) and Lithium Carbonate (-0.69%)."
-    },
-    {
-      "id": "mkt:019f8b0d-ec99-7aab-8e4f-8e8ae39d1429",
-      "time": "2026-07-23 02:19:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. House is considering legislation to ban members of Congress from trading stocks."
-    },
-    {
-      "id": "mkt:019f8b0d-cd0b-7aab-8e4f-84086770e3fd",
-      "time": "2026-07-23 02:19:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Programming startup Cursor launched an intelligent model router that automatically selects the most suitable AI model for a given task."
     }
   ]
 }

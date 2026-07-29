@@ -1,7 +1,72 @@
 {
   "date": "2026-07-30",
-  "count": 202,
+  "count": 208,
   "items": [
+    {
+      "id": "mkt:019faf1b-b2a7-7aab-8ef2-9739b275b060",
+      "time": "2026-07-30 02:20:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Barclays said it characterizes today's policy meeting outcome as a hawkish hold; three dissenting votes will reinforce market bets on further rate hikes over the coming months."
+    },
+    {
+      "id": "te:markets:570842",
+      "time": "2026-07-30 02:20:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Rises by 2.16% — Top commodity gainers are Silver (2.16%) and Gold (1.11%). Biggest loser is Steel Rebar (-0.79%)."
+    },
+    {
+      "id": "mkt:019faf1a-f339-7aab-8ef2-8b9c410a1f05",
+      "time": "2026-07-30 02:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Federal Reserve Chairman KEVIN WARSH to hold monetary policy press conference in 10 minutes."
+    },
+    {
+      "id": "5014975",
+      "time": "2026-07-30 02:19:47",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部長：即便本次向參議院提交發債申請尚未落地，我國發行熊貓債的各項條件均已籌備到位。"
+    },
+    {
+      "id": "5014974",
+      "time": "2026-07-30 02:19:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：白宮原本計劃提名美國環境保護署顧問施瓦布出任大氣辦公室負責人，後因現任主管的規劃有變而擱置該安排。"
+    },
+    {
+      "id": "5014973",
+      "time": "2026-07-30 02:18:59",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部長：正申請參議院授權，每年最多發行 350 億美元外債以達成各項發展目標。"
+    },
     {
       "id": "mkt:019faf18-b24e-7aab-8ef2-8027661e9329",
       "time": "2026-07-30 02:17:38",
