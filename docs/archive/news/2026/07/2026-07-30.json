@@ -1,7 +1,64 @@
 {
   "date": "2026-07-30",
-  "count": 132,
+  "count": 138,
   "items": [
+    {
+      "id": "5014945",
+      "time": "2026-07-30 01:53:40",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲宣佈利率決議宣告之前，美元指數跌0.08%，美元兌日元跌0.02%、美元兌瑞郎漲0.09%，歐元兌美元漲0.11%、英鎊兌美元漲0.15%，商品貨幣澳元兌美元跌0.57%、紐元兌美元跌0.17%、美元兌加元跌0.11%。\n標普500指數跌0.61%，道指跌775點、跌幅1.47%，納指跌0.58%，半導體指數跌3.3%，銀行指數跌1.6%，小盤股指跌1.2%。\n現貨黃金漲幅擴大至0.42%，暫報4045.51美元，白銀漲1.40%，暫報57.88美元。美國10年期國債收益率漲2.8個基點，兩年期美債收益率漲2.88個基點、暫報4.3159%。"
+    },
+    {
+      "id": "5014944",
+      "time": "2026-07-30 01:53:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：加拿大正致力於與美國建立更為穩定的貿易關係，關鍵產業領域也包含在內。"
+    },
+    {
+      "id": "mkt:019faf02-3e4f-7aab-8ef1-a992c764daf0",
+      "time": "2026-07-30 01:53:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)"
+      ],
+      "text": "Canadian Prime Minister Carney said Canada is working to establish a more stable trade relationship with the United States, including in key sectors."
+    },
+    {
+      "id": "mkt:019faf02-367a-7aab-8ef1-a52a84792a71",
+      "time": "2026-07-30 01:53:05",
+      "tags": [
+        "MKT News",
+        "HIMS.O"
+      ],
+      "text": "Hims & Hers responded to a US Federal Trade Commission (FTC) lawsuit, saying the complaint ignores substantial evidence."
+    },
+    {
+      "id": "te:economy:570834",
+      "time": "2026-07-30 01:52:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Uruguay Unemployment Hits Six-Month Low — Uruguay's unemployment rate fell to 7% in June 2026 from 7.6% in May, marking the lowest level since December 2025 and pointing to a broadly stable labor market. Regionally, the jobless rate stood at 6.9% in Montevideo and 7.1% in the rest of the country. Unemployment remained lower among men (5.7%) than women (8.5%). Young workers aged 14–24 continued to face the weakest labor market conditions, with an unemployment rate of 21.3%. The rate declined to 9.4% among those aged 25–29, 7.5% for workers aged 30–34, and below 5% for those aged 35 and older. Among employed workers, 8.7% were underemployed, while 20.8% were not registered with the social security system in their main job. The labor force participation rate stood at 63.9%, while the employment rate was 59.5%."
+    },
+    {
+      "id": "mkt:019faf00-e335-7aab-8ef1-9dedf4f84ebd",
+      "time": "2026-07-30 01:51:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary is drafting a plan to limit electricity consumption by large companies; the prime minister cited drought in proposing the \"crisis response plan\"."
+    },
     {
       "id": "mkt:019faeff-f3c1-7aab-8ef1-93e696f278a3",
       "time": "2026-07-30 01:50:37",
