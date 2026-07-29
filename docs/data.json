@@ -1,7 +1,251 @@
 {
-  "updated": "2026-07-30 07:49:45",
-  "count": 17798,
+  "updated": "2026-07-30 07:53:40",
+  "count": 17814,
   "items": [
+    {
+      "id": "mkt:019fb04b-deff-7aab-8efb-ee47aa1ab6c2",
+      "time": "2026-07-30 07:53:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Huatai Macro: July FOMC pause eroded Fed credibility; September hike still likely】Huatai Macro says the July FOMC hold has, to some extent, damaged Fed credibility—market inflation expectations rose and long-end yields moved higher. By contrast, June’s unexpectedly hawkish FOMC had tightened financial conditions, lowered inflation expectations and boosted Fed credibility. With energy prices rebounding, July’s pause may have led markets to view Waller’s zero-tolerance inflation rhetoric as bluff; post-meeting inflation expectations and long-term yields rose, signaling a partial loss of credibility. Huatai still assigns a relatively high probability of a September rate hike and keeps a baseline of 1–2 hikes this year and two more before mid-next year. Key risks: (1) Waller’s hawkish stance could be bluster; (2) an abrupt end to the AI-driven rally could tighten financial conditions and make further hikes unnecessary. Watch July–August jobs and inflation prints and Waller’s Jackson Hole speech on Aug. 27."
+    },
+    {
+      "id": "mkt:019fb04b-d76e-7aab-8efb-e05cf467e942",
+      "time": "2026-07-30 07:53:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Samsung Electronics forecasts continuing profit growth in H2."
+    },
+    {
+      "id": "mkt:019fb04b-ce8d-7aab-8efb-de9fe8f6dd31",
+      "time": "2026-07-30 07:53:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea says it is closely monitoring risk factors and their impact on the domestic economy and markets."
+    },
+    {
+      "id": "5015418",
+      "time": "2026-07-30 07:52:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：第二季度晶片業務營業利潤為89.2萬億韓元。"
+    },
+    {
+      "id": "5015417",
+      "time": "2026-07-30 07:52:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：將密切關注風險因素及其對國內經濟和市場的影響。"
+    },
+    {
+      "id": "mkt:019fb04a-8d0d-7aab-8efb-d5549e1cb335",
+      "time": "2026-07-30 07:51:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "Samsung Electronics said uncertainty will persist in H2 due to memory supply issues."
+    },
+    {
+      "id": "5015416",
+      "time": "2026-07-30 07:51:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本至7月24日當週買進外國債券 -8114億日元，前值由-7144億日元修正為-7237億日元。日本至7月24日當週外資買進日股 9121億日元，前值由-796億日元修正為-819億日元。日本至7月24日當週外資買進日債 -15139億日元，前值由-1851億日元修正為-1850億日元。日本至7月24日當週買進外國股票 3202億日元，前值-1213億日元。"
+    },
+    {
+      "id": "5015415",
+      "time": "2026-07-30 07:51:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：下半年受記憶體供應問題影響，不確定性將持續存在。"
+    },
+    {
+      "id": "mkt:019fb04a-15b2-7aab-8efb-ca3d10323126",
+      "time": "2026-07-30 07:51:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Foreign investors were net sellers of Japanese government bonds (JGBs) by ¥1.514 trillion in the week to July 24. The prior week's net selling was revised to ¥185.0 billion from ¥185.1 billion."
+    },
+    {
+      "id": "mkt:019fb04a-0c0b-7aab-8efb-c463020d7e8e",
+      "time": "2026-07-30 07:51:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "Japan bought foreign equities worth 320.2 bln yen in the week to July 24, versus net sales of 121.3 bln yen in the prior week."
+    },
+    {
+      "id": "5015414",
+      "time": "2026-07-30 07:51:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：預計下半年移動業務利潤有限。"
+    },
+    {
+      "id": "mkt:019fb049-e760-7aab-8efb-ba792d72b559",
+      "time": "2026-07-30 07:51:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Stocks Buying (Jul.24) | actual 320200000000B | previous -121300000000B"
+    },
+    {
+      "id": "mkt:019fb049-e4c3-7aab-8efb-b56b421bbbce",
+      "time": "2026-07-30 07:51:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Jul.24) | actual -1513900000000B | previous -185100000000B"
+    },
+    {
+      "id": "5015413",
+      "time": "2026-07-30 07:50:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【張曉虎任內蒙古電力集團董事長】據內蒙古電力集團官網，近日，內蒙古電力集團黨委書記、董事長、總經理張曉虎一行受邀訪問烏茲別克，深入開展能源電力領域交流對接，簽署合作協議，推動中烏能源電力合作取得新進展。上述訊息顯示，張曉虎已任內蒙古電力集團黨委書記、董事長、總經理。"
+    },
+    {
+      "id": "mkt:019fb049-3b35-7aab-8efb-aec944cd46aa",
+      "time": "2026-07-30 07:50:16",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "Samsung Electronics says it plans to raise smartphone market share in H2."
+    },
+    {
+      "id": "mkt:019fb049-209c-7aab-8efb-a6fa4b723308",
+      "time": "2026-07-30 07:50:10",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "Samsung Electronics says its contract manufacturing business expects double-digit revenue growth this year."
+    },
+    {
+      "id": "mkt:019fb049-1d7c-7aab-8efb-9a0c8dc7a707",
+      "time": "2026-07-30 07:50:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Japan's net purchases of foreign bonds in the week to July 24 were -811.4 bln yen; the prior value was revised from -714.4 bln yen to -723.7 bln yen."
+    },
+    {
+      "id": "mkt:019fb049-17f4-7aab-8efb-9627d97f782a",
+      "time": "2026-07-30 07:50:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Foreign investors' net purchases of Japanese equities were ¥912.1 billion in the week to July 24; the prior week's net flow was revised from -¥79.6 billion to -¥81.9 billion."
+    },
+    {
+      "id": "mkt:019fb048-fb62-7aab-8efb-8de1adef1197",
+      "time": "2026-07-30 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Stocks (Jul.24) | actual 912100000000B | previous -79600000000B"
+    },
+    {
+      "id": "mkt:019fb048-fb58-7aab-8efb-83461fa744b2",
+      "time": "2026-07-30 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Bonds Buying (Jul.24) | actual -811400000000B | previous -714400000000B"
+    },
+    {
+      "id": "5015412",
+      "time": "2026-07-30 07:49:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：晶圓代工業務預計今年營收將實現兩位數增長。"
+    },
+    {
+      "id": "mkt:019fb048-e3c0-7aab-8efb-7e64d4c8b963",
+      "time": "2026-07-30 07:49:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact mixed",
+        "SOXX"
+      ],
+      "text": "Samsung Electronics says server chip demand will be strong in H2; chip supply shortages will persist into H2 and mobile and PC chip demand are expected to slow."
+    },
+    {
+      "id": "5015411",
+      "time": "2026-07-30 07:49:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：預計移動晶片與個人電腦晶片需求將放緩。"
+    },
+    {
+      "id": "5015410",
+      "time": "2026-07-30 07:49:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：晶片供應短缺問題將在下半年持續。"
+    },
+    {
+      "id": "mkt:019fb048-a4b4-7aab-8efb-73a3ff1ecc6d",
+      "time": "2026-07-30 07:49:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "Samsung Electronics reported Q2 net profit of 71.3 tln won, beating a market estimate of 68.5 tln won. Its Q2 chip-division operating profit was 89.2 tln won."
+    },
     {
       "id": "5015409",
       "time": "2026-07-30 07:49:06",
@@ -164101,83 +164345,6 @@
         "公司"
       ],
       "text": "【上市公司回購增持隊伍繼續壯大 逾20家公司股東終止減持計劃】近日，A股市場經歷一輪調整後有所企穩，上市公司及重要股東迅速以回購、增持、終止減持等實際行動呵護市場，彰顯對上市公司自身和資本市場價值長期看好的信心。7月22日晚間，多家公司披露了重要股東增持計劃。除了重要股東增持計劃外，還有部分上市公司也透露出擬回購股份的計劃。在密集回購增持的同時，一批上市公司股東正主動按下減持“暫停鍵”。據不完全統計，7月以來，已有逾20家上市公司披露股東提前終止減持計劃。"
-    },
-    {
-      "id": "5003211",
-      "time": "2026-07-23 07:53:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長：對等回應任何對伊基礎設施的襲擊】伊朗外交部長阿拉格齊22日晚在社交媒體發文說，任何針對伊朗基礎設施的襲擊，都將招致“堅決、有力且具有決定性的”回應。阿拉格齊強調，任何方面以任何形式參與或支援此類襲擊，都將被伊方視為合法打擊目標。伊朗武裝部隊哈塔姆安比亞中央總部當天也表示，如美國將針對伊朗基礎設施的威脅付諸行動，伊朗武裝力量將阻止中東地區的石油出口，並打擊該地區的石油、天然氣、電力和經濟基礎設施。（新華社）"
-    },
-    {
-      "id": "5003210",
-      "time": "2026-07-23 07:52:32",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：建議反覆博弈資產穩健運營、擴募預期較強標的的超跌機會】中信證券研報指出，2026年二季度，公募REITs各型別資產的業績延續分化態勢。整體來看To C端的消費基礎設施、保障房等板塊整體表現較好，資料中心REITs和大部分公用事業REITs維持穩健運營，產業園區REITs和倉儲物流REITs仍面臨量價兩端的壓力，高速公路REITs和能源REITs則呈現明顯分化。當前4只指數基金或正處於建倉階段，有望為市場提供資金支援，疊加一級市場新發節奏放緩，市場供需格局開始出現邊際好轉。建議反覆博弈資產穩健運營、擴募預期較強標的的超跌機會，同時重點關注指數基金建倉和調倉節奏或對市場產生時點性催化。"
-    },
-    {
-      "id": "5003209",
-      "time": "2026-07-23 07:51:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊稱，任何油輪未經伊朗協調，不得進出霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019f8c3d-c4be-7aab-8e54-916b87519460",
-      "time": "2026-07-23 07:51:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said no tanker may enter or leave the Strait of Hormuz without coordination with Iran."
-    },
-    {
-      "id": "5003208",
-      "time": "2026-07-23 07:51:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黑龍江省釋出暴雨紅色預警】黑龍江省氣象臺2026年7月23日7時15分發布暴雨紅色預警訊號：甘南個別鄉鎮降雨量已達70～90毫米，預計未來2小時還將有30～50毫米的降水。請注意防範。"
-    },
-    {
-      "id": "mkt:019f8c3d-71db-7aab-8e54-8e73f43bc3fe",
-      "time": "2026-07-23 07:51:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said that after explosions south of the Strait of Hormuz, one of three oil tankers caught fire and the other two turned back."
-    },
-    {
-      "id": "5003207",
-      "time": "2026-07-23 07:50:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊稱，兩艘其他油輪在霍爾木茲海峽以南海域發生事件後返航。"
-    },
-    {
-      "id": "5003206",
-      "time": "2026-07-23 07:50:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊稱，三艘油輪中的一艘在霍爾木茲海峽以南發生爆炸後起火。"
-    },
-    {
-      "id": "mkt:019f8c3c-c1ff-7aab-8e54-86ba97f6c277",
-      "time": "2026-07-23 07:50:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【CITIC Securities: U.S. new tariffs are a replacement, not an escalation】CITIC Securities says U.S. Section 122 tariffs expire July 24 and Section 301 tariffs could become the primary substitute—essentially a replacement rather than an escalation. After IEEPA tariff authority was overturned, the Trump administration is building a new framework centered on routine executive trade powers—a one-framework, three-tool approach—distinct from prior large-scale reciprocal-tariff tactics. Overall, the latest tariff adjustments pose limited global shock. Separately, the U.S. is using USMCA reviews as leverage to press Mexico and Canada on rules of origin and market access; negotiations may oscillate between tariff threats and concessions."
     }
   ]
 }
