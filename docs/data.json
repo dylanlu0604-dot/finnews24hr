@@ -1,7 +1,152 @@
 {
-  "updated": "2026-07-30 04:01:13",
-  "count": 17752,
+  "updated": "2026-07-30 04:05:05",
+  "count": 17754,
   "items": [
+    {
+      "id": "5015191",
+      "time": "2026-07-30 04:04:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：Microsoft 365 Copilot付費席位已突破3000萬。"
+    },
+    {
+      "id": "mkt:019faf7a-1546-7aab-8ef8-7efff8a7ab7b",
+      "time": "2026-07-30 04:04:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) reported cloud revenue of $59.3 billion in the fiscal fourth quarter."
+    },
+    {
+      "id": "5015190",
+      "time": "2026-07-30 04:03:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價29日大幅上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲5.20美元，收於每桶84.46美元，漲幅為6.56%；9月交貨的倫敦布倫特原油期貨價格上漲6.65美元，收於每桶90.74美元，漲幅為7.91%。"
+    },
+    {
+      "id": "mkt:019faf79-7af1-7aab-8ef8-71ad042d845b",
+      "time": "2026-07-30 04:03:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft Corp (MSFT.O) reported fiscal fourth-quarter capital expenditures of $41.0 billion."
+    },
+    {
+      "id": "5015189",
+      "time": "2026-07-30 04:02:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Meta股價在公佈第二季度財報後下跌5.6%。"
+    },
+    {
+      "id": "5015188",
+      "time": "2026-07-30 04:02:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "微軟股價盤後上漲3%。"
+    },
+    {
+      "id": "5015187",
+      "time": "2026-07-30 04:02:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟公司第二季度營收900.1億美元，預估877.2億美元。"
+    },
+    {
+      "id": "mkt:019faf78-65b1-7aab-8ef8-6f4fcb54d348",
+      "time": "2026-07-30 04:02:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "Microsoft (MSFT.O) reported fiscal 2026 Q4 revenue $90.0 bln, vs $76.441 bln a year earlier; consensus $87.63 bln."
+    },
+    {
+      "id": "5015186",
+      "time": "2026-07-30 04:02:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數較6月高點下跌11%，進入回撥。"
+    },
+    {
+      "id": "5015185",
+      "time": "2026-07-30 04:01:56",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "Meta：第二季度營收608.0億美元，預估602.4億美元；第二季度經營利潤187.8億美元，同比-8.2%。"
+    },
+    {
+      "id": "mkt:019faf78-1956-7aab-8ef8-62a19d919296",
+      "time": "2026-07-30 04:01:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) reported Q2 2026 revenue of $60.801 billion, up from $47.516 billion a year earlier; consensus $60.164 billion."
+    },
+    {
+      "id": "mkt:019faf77-de6d-7aab-8ef8-5bdf56cbd820",
+      "time": "2026-07-30 04:01:36",
+      "tags": [
+        "MKT News",
+        "QCOM.O"
+      ],
+      "text": "Qualcomm (QCOM.O) expects Q4 revenue of $9.7 bln to $10.5 bln, versus $10.02 bln consensus."
+    },
+    {
+      "id": "mkt:019faf77-45d8-7aab-8ef8-554cd88c56c5",
+      "time": "2026-07-30 04:00:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) fiscal 2026 Q3 revenue $9.95 bln, down from $10.365 bln a year earlier; consensus $9.66 bln."
+    },
+    {
+      "id": "5015184",
+      "time": "2026-07-30 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌2.18%，標普500指數跌1.51%，納指跌1.80%。雷諾士跌20.99%，VRT跌17.00%，馬斯科跌11.06%，科磊跌10.63%，超微電腦跌9.54%，美光跌9.45%。“七姐妹”方面：谷歌漲0.84%，蘋果跌0.66%，微軟跌0.78%，Meta Platforms跌1.40%，亞馬遜跌1.90%，特斯拉跌2.94%，英偉達跌3.47%。"
+    },
     {
       "id": "5015183",
       "time": "2026-07-30 04:00:42",
@@ -163591,154 +163736,6 @@
         "Impact bearish"
       ],
       "text": "Tesla (TSLA.O) reported fiscal 2026 Q2 gross margin of 16.8%, below market consensus of 19.33%."
-    },
-    {
-      "id": "5003016",
-      "time": "2026-07-23 04:04:54",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "特斯拉第二季度營收282.4億美元，預估263.2億美元."
-    },
-    {
-      "id": "mkt:019f8b6d-f4fc-7aab-8e51-6cca95c8f367",
-      "time": "2026-07-23 04:04:26",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "Alphabet A (GOOGL.O) rose 0.9% in U.S. after-hours trading."
-    },
-    {
-      "id": "5003015",
-      "time": "2026-07-23 04:04:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "Alphabet：Gemini 應用月活躍使用者達 9.5 億."
-    },
-    {
-      "id": "mkt:019f8b6d-87f9-7aab-8e51-677e49b81b22",
-      "time": "2026-07-23 04:03:58",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O"
-      ],
-      "text": "Alphabet (GOOGL.O) reported fiscal 2026 Q2 EPS of $9.11."
-    },
-    {
-      "id": "5003014",
-      "time": "2026-07-23 04:03:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "Alphabet：安全解決方案需求旺盛；全新 Gemini 3.5 Flash Cyber 前沿模型具備超高價效比效能。"
-    },
-    {
-      "id": "mkt:019f8b6c-9d43-7aab-8e51-583cf25adaa6",
-      "time": "2026-07-23 04:02:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Alphabet (GOOG.O): Google advertising revenue in fiscal 2026 Q2 was $81.63 bln, versus $81.129 bln expected."
-    },
-    {
-      "id": "5003013",
-      "time": "2026-07-23 04:02:47",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "Alphabet：2026財年Q2谷歌雲業務收入為248億美元，市場預期223.45億美元。2026財年Q2營收1198億美元，去年同期964.28億美元，市場預期1168.56億美元。"
-    },
-    {
-      "id": "mkt:019f8b6c-409b-7aab-8e51-563a11a66638",
-      "time": "2026-07-23 04:02:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "Alphabet (GOOGL.O) fiscal 2026 Q2 revenue $119.8 bln, up from $96.4 bln year-ago; market expected $116.9 bln."
-    },
-    {
-      "id": "mkt:019f8b6c-31ed-7aab-8e51-49b74a3d9331",
-      "time": "2026-07-23 04:02:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Alphabet (GOOG.O): Google Cloud revenue in fiscal 2026 Q2 was $24.8 bln, versus market estimate $22.345 bln."
-    },
-    {
-      "id": "mkt:019f8b6b-bb15-7aab-8e51-46ee33037eb3",
-      "time": "2026-07-23 04:02:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【US close: major indexes slightly lower; SpaceX falls over 6%】US equities closed slightly lower on Wednesday: Dow off 0.01% (prelim), S&P 500 down 0.14%, Nasdaq down 0.57%. SpaceX (SPCX.O) tumbled 6.7% to a record closing low. NVIDIA (NVDA.O) rose 2.3%, SK Hynix (SKHY.O) fell 3.8%, Super Micro (SMCI.O) gained nearly 20%, and Dell (DELL.N) jumped 9%. Nasdaq Golden Dragon China index slid 1.8%; NetEase (NTES.O) fell more than 6%."
-    },
-    {
-      "id": "5003012",
-      "time": "2026-07-23 04:01:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "德州儀器二季度營收54.6億美元，分析師預期52.4億美元。"
-    },
-    {
-      "id": "mkt:019f8b6b-3c61-7aab-8e51-382e14282cbd",
-      "time": "2026-07-23 04:01:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "President Trump said oil prices will fall sharply; although some prices remain elevated, oil has already begun to retreat."
     }
   ]
 }
