@@ -1,7 +1,27 @@
 {
   "date": "2026-07-30",
-  "count": 25,
+  "count": 27,
   "items": [
+    {
+      "id": "5014898",
+      "time": "2026-07-30 00:25:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“高盧雄雞”造型升級 法國足協釋出國家隊新隊徽】當地時間7月29日，法國足球協會（FFF）正式釋出法國國家隊全新隊徽。新隊徽採用更加簡潔的金色高盧雄雞形象，新增“France”字樣，並保留象徵法國隊1998年和2018年兩奪世界盃冠軍的兩顆星。法國足協表示，此次更新正值法國國家隊開啟新週期之際。在宣佈齊達內出任法國男足國家隊主教練後，足協也正為包括2027年巴西女足世界盃在內的各項國際賽事做準備。法國足協稱，新隊徽不會立即應用於現有產品，而將在未來國際賽事中陸續啟用。（央視新聞）"
+    },
+    {
+      "id": "te:economy:570828",
+      "time": "2026-07-30 00:23:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Russia Unemployment Rate Edges Up — Russia's unemployment rate edged up to 2.2% in June 2026 from 2.1% in the previous month. The labor force increased to 76.5 million from 76.3 million, the highest level since October 2025, while the number of unemployed rose to 1.7 million from 1.6 million. At the same time, employment reached a fresh high of 74.8 million from 74.7 million, also the highest level since October 2025, lifting the employment rate to 61.6%. Despite the slight increase in unemployment, labor market conditions remain tight, reflecting persistent worker shortages across multiple sectors, driven by military mobilization following Russia's invasion of Ukraine in February 2022, alongside sustained emigration. Authorities expect labor market constraints to persist, projecting a shortfall of around 3.1 million workers by 2030."
+    },
     {
       "id": "te:markets:570827",
       "time": "2026-07-30 00:22:19",
