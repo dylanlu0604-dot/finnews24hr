@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-29 23:15:27",
-  "count": 17464,
+  "updated": "2026-07-29 23:19:35",
+  "count": 17460,
   "items": [
+    {
+      "id": "5014861",
+      "time": "2026-07-29 23:17:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【近十年主動ETF規模年均複合增長率達44%】從全球市場發展態勢來看，主動ETF已成為資產管理行業的重要增長引擎。截至2026年3月底，全球ETF市場總規模19.9萬億美元，其中被動ETF 17.8萬億美元，佔比89.4%；主動ETF 2.1萬億美元，佔比10.6%。近十年主動ETF規模年均複合增長率高達44%，顯著高於全量ETF的19%。易方達基金相關人士表示，首批18只主動股票ETF近日上報，有望為A股注入可觀增量資金。"
+    },
+    {
+      "id": "mkt:019fae73-cc25-7aab-8eee-c680e28e1841",
+      "time": "2026-07-29 23:17:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "i24News quoted an Israeli official saying a decision to strike Iran rests with Trump, and Israel is awaiting his decision."
+    },
+    {
+      "id": "mkt:019fae73-44ac-7aab-8eee-bbc3f5d4f97c",
+      "time": "2026-07-29 23:16:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Goldman: If Fed holds today, FX market will focus on odds of future hikes】Before the Fed decision the dollar index was flat amid unusually high outcome uncertainty. Goldman Sachs economists expect the Fed to hold today but anticipate at least one dissenting vote for a hike, noting war-driven energy-price volatility clouds the outlook. Market pricing assigns roughly a 30% chance of a rate increase today; CME data shows investors have priced in a September hike. Goldman says if the Fed holds, FX markets will focus on how much previously priced-in tightening shifts to later meetings."
+    },
     {
       "id": "mkt:019fae71-304c-7aab-8eee-b37fb13fa8f3",
       "time": "2026-07-29 23:14:41",
@@ -160381,78 +160416,6 @@
         "Energy"
       ],
       "text": "Fitch: Frontier markets have withstood the test of energy-price volatility."
-    },
-    {
-      "id": "te:markets:568927",
-      "time": "2026-07-22 23:18:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Cocoa Falls to 3-Week Low — Cocoa prices fell to around $5,330 per tonne, the lowest level in nearly three weeks, extending their retreat from the eight-month high of $6,455 reached on July 9. Market participants are closely monitoring upcoming earnings from major chocolate producers for indications that higher prices are no longer weighing on consumption. On Tuesday, Lindt said it could introduce selective price cuts in the second half of 2026 to support sales volumes after its half-year results raised questions about the pace of demand growth. Meanwhile, Citigroup adopted a neutral stance on cocoa after previously holding a bullish view, saying it wants more evidence of El Niño-related crop damage and stronger demand before turning positive again. On the supply side, the International Cocoa Organization forecast Indonesia's cocoa production to rise to 220,000 tonnes in the 2025/26 season from 200,000 tonnes a year earlier."
-    },
-    {
-      "id": "mkt:019f8a67-0e5b-7aab-8e4c-bd2b1105f0ae",
-      "time": "2026-07-22 23:17:17",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "NVIDIA (NVDA.O) extended gains, up 3%."
-    },
-    {
-      "id": "te:markets:568926",
-      "time": "2026-07-22 23:17:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Dollar Little Changed — The dollar index traded little changed around 101.1 on Wednesday, with the situation in the Middle East continuing to dominate the headlines. Oil prices extended gains to a six-week high as both the US and Iran signaled that a resumption of peace talks is unlikely in the near term despite ongoing mediation efforts. The rise in oil prices kept fears of renewed inflationary pressures elevated. Meanwhile, investors await next week's Federal Reserve policy meeting, with policymakers now in their customary pre-meeting blackout period. The Fed is widely expected to leave the federal funds rate unchanged. However, markets continue to price in the possibility of policy tightening later this year, with traders assigning roughly a 61% probability of a rate hike at the September meeting. The greenback was largely unchanged at 40-year highs against the yen and near one-week highs against the pound, while edging slightly lower against the euro."
-    },
-    {
-      "id": "5002790",
-      "time": "2026-07-22 23:16:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：正在與印度尼西亞就關鍵礦產承諾進行合作。"
-    },
-    {
-      "id": "5002789",
-      "time": "2026-07-22 23:15:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "英偉達股價上漲2.9%，創盤中新高。"
-    },
-    {
-      "id": "mkt:019f8a65-8dbe-7aab-8e4c-b06eee6ba612",
-      "time": "2026-07-22 23:15:38",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "U.S. Trade Representative Greer said he is working with Indonesia to advance commitments on critical minerals."
-    },
-    {
-      "id": "5002788",
-      "time": "2026-07-22 23:15:27",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國2至5年期國債收益率升至2026年高點 市場情緒惡化】美國2年期和5年期國債收益率週三均上升逾4個基點，升至一年多來的最高水平，且並無明顯誘因，顯示市場情緒惡化可能是背後推手。2年期美債收益率升逾4.30%，3年期升至4.34%，5年期升至4.40%，均為2025年2月以來首次；10年期美債收益率升逾4.65%，距離其5月19日創下的年內高點僅差2個基點。市場對美聯儲加息的隱含預期繼續升溫，7月隔夜指數互換合約已消化約8個基點的收緊幅度，意味著一次25個基點加息的可能性約三分之一；2027年合約顯示，到年中，加息兩次的可能性已達100%，而且還有些許第三次加息的可能性。"
     }
   ]
 }

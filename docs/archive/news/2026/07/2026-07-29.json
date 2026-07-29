@@ -1,7 +1,42 @@
 {
   "date": "2026-07-29",
-  "count": 3019,
+  "count": 3022,
   "items": [
+    {
+      "id": "5014861",
+      "time": "2026-07-29 23:17:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【近十年主動ETF規模年均複合增長率達44%】從全球市場發展態勢來看，主動ETF已成為資產管理行業的重要增長引擎。截至2026年3月底，全球ETF市場總規模19.9萬億美元，其中被動ETF 17.8萬億美元，佔比89.4%；主動ETF 2.1萬億美元，佔比10.6%。近十年主動ETF規模年均複合增長率高達44%，顯著高於全量ETF的19%。易方達基金相關人士表示，首批18只主動股票ETF近日上報，有望為A股注入可觀增量資金。"
+    },
+    {
+      "id": "mkt:019fae73-cc25-7aab-8eee-c680e28e1841",
+      "time": "2026-07-29 23:17:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "i24News quoted an Israeli official saying a decision to strike Iran rests with Trump, and Israel is awaiting his decision."
+    },
+    {
+      "id": "mkt:019fae73-44ac-7aab-8eee-bbc3f5d4f97c",
+      "time": "2026-07-29 23:16:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Goldman: If Fed holds today, FX market will focus on odds of future hikes】Before the Fed decision the dollar index was flat amid unusually high outcome uncertainty. Goldman Sachs economists expect the Fed to hold today but anticipate at least one dissenting vote for a hike, noting war-driven energy-price volatility clouds the outlook. Market pricing assigns roughly a 30% chance of a rate increase today; CME data shows investors have priced in a September hike. Goldman says if the Fed holds, FX markets will focus on how much previously priced-in tightening shifts to later meetings."
+    },
     {
       "id": "mkt:019fae71-304c-7aab-8eee-b37fb13fa8f3",
       "time": "2026-07-29 23:14:41",
