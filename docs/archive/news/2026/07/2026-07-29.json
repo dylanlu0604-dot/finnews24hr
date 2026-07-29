@@ -1,7 +1,191 @@
 {
   "date": "2026-07-29",
-  "count": 2780,
+  "count": 2800,
   "items": [
+    {
+      "id": "5014737",
+      "time": "2026-07-29 21:35:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【駐日本大使館提醒中國公民注意防範地震災害】7月28日16時27分，日本熊本縣發生里氏7.1級地震，12小時內發生餘震超148次，造成重大人員傷亡。日本氣象廳呼籲一週內注意防範同等規模強震。中國駐日本大使館提醒中國公民妥善安排行程，避免前往受災地區，切實提高自我保護意識，加強自身安全防範。密切關注地震動態、氣象預警和防災資訊，遵循當地政府釋出的預防、避難指令，謹防餘震及次生災害。如遇緊急情況，請及時報警並聯系駐日本使領館求助。（中國駐日本大使館）"
+    },
+    {
+      "id": "5014736",
+      "time": "2026-07-29 21:34:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "義大利芬坎蒂尼集團股票在暫停交易後恢復交易，上漲1.4%。"
+    },
+    {
+      "id": "5014735",
+      "time": "2026-07-29 21:34:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "CBIZ股價大漲16.5%，此前Grant Thornton Advisors同意以50億美元收購該公司。"
+    },
+    {
+      "id": "te:economy:570794",
+      "time": "2026-07-29 21:34:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Inflation Expectations",
+        "Importance 0"
+      ],
+      "text": "UK Inflation Expectations Fall to 5-Month Low in July — UK households' one-year-ahead inflation expectations declined to 3.4% in July 2026 from 3.8% in June, marking the lowest reading since February and extending the retreat from the March high of 5.4% following the initial US strikes on Iran. Longer-term expectations also moderated, easing to 3.7% from 3.9%. Inflation expectations have now largely retraced the Iran war-related spike, despite the recent resurgence in global oil and gas prices."
+    },
+    {
+      "id": "5014734",
+      "time": "2026-07-29 21:34:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱伊朗將遭“痛擊” 不排除繼續打擊其地區代理人】當地時間7月29日，美國總統特朗普接受採訪時表示，在伊朗向美軍發動導彈襲擊後，美國將進行報復。特朗普稱，美國將“狠狠打擊”伊朗，伊朗將遭到“痛擊”。特朗普還表示，並未排除進一步打擊伊朗在該地區代理人的可能性。伊拉克什葉派民兵武裝“人民動員組織”29日發表宣告說，該組織位於伊拉克多地的基地當天清晨遭美國和沙烏地阿拉伯軍隊襲擊，造成至少20人死亡、32人受傷。美軍中央司令部28日在社交媒體釋出訊息稱，美軍和沙特軍隊在伊拉克對“受伊朗支援的”目標進行了打擊。（央視新聞）"
+    },
+    {
+      "id": "5014733",
+      "time": "2026-07-29 21:34:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "FORTREA HOLDINGS股價在第二季度業績公佈後下跌2.7%。"
+    },
+    {
+      "id": "5014732",
+      "time": "2026-07-29 21:33:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Garmin股價上漲3.9%，此前公司上調全年利潤與營收預測。"
+    },
+    {
+      "id": "te:markets:570793",
+      "time": "2026-07-29 21:33:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "ADP earnings above expectations at 2.64 USD — ADP (ADP) released earnings per share at 2.64 USD, compared to market expectations of 2.59 USD."
+    },
+    {
+      "id": "5014731",
+      "time": "2026-07-29 21:33:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫諾克斯股價開盤下跌13%，創2008年以來最大跌幅。"
+    },
+    {
+      "id": "mkt:019fae14-86e6-7aab-8eeb-8b0f8e81ecfd",
+      "time": "2026-07-29 21:33:28",
+      "tags": [
+        "MKT News",
+        "PG.N",
+        "Impact bearish"
+      ],
+      "text": "Procter & Gamble (PG.N) fell as much as 5.8% intraday, its largest drop since July 2024."
+    },
+    {
+      "id": "5014730",
+      "time": "2026-07-29 21:33:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "SOFI TECHNOLOGIES 公佈第二季度業績後股價下跌 9%。"
+    },
+    {
+      "id": "5014729",
+      "time": "2026-07-29 21:33:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "檸檬水保險第二季度財報釋出後股價大跌 22%；尼克・斯特德將接替蒂姆・比克斯比出任首席財務官。"
+    },
+    {
+      "id": "5014728",
+      "time": "2026-07-29 21:32:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "寶潔公司股價下跌幅度高達5.8%，創2024年7月以來最大跌幅。"
+    },
+    {
+      "id": "5014727",
+      "time": "2026-07-29 21:32:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "福特汽車股價一度上漲4.7%，創下6月4日以來盤中最高紀錄。"
+    },
+    {
+      "id": "5014726",
+      "time": "2026-07-29 21:32:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "卡特彼勒股價下跌 4.3%，創 4 月以來新低。"
+    },
+    {
+      "id": "mkt:019fae13-3650-7aab-8eeb-8179f7e87c5e",
+      "time": "2026-07-29 21:32:02",
+      "tags": [
+        "MKT News",
+        "F.N",
+        "Impact bullish"
+      ],
+      "text": "Ford Motor (F.N) shares rose 3.4% after the company raised its full-year profit guidance."
+    },
+    {
+      "id": "5014725",
+      "time": "2026-07-29 21:31:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "希捷科技股價上漲6%，此前該公司公佈第一財季利潤與收入均高於市場預期。"
+    },
+    {
+      "id": "mkt:019fae12-e6a7-7aab-8eeb-7b73bffe5324",
+      "time": "2026-07-29 21:31:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities opened lower on Wednesday, July 29: Dow Jones Industrial Average down 398.29 points (-0.76%) at 52,349.03; S&P 500 down 10.87 points (-0.15%) at 7,418.35; Nasdaq Composite down 47.14 points (-0.19%) at 24,829.77."
+    },
+    {
+      "id": "5014724",
+      "time": "2026-07-29 21:31:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要銀行指數<.XBANK>下跌2%。"
+    },
+    {
+      "id": "5014723",
+      "time": "2026-07-29 21:31:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "COSTAR集團股價下跌15%，觸及2017年以來的最低水平。"
+    },
     {
       "id": "mkt:019fae12-33b7-7aab-8eeb-70cace41922f",
       "time": "2026-07-29 21:30:56",

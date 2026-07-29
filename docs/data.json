@@ -1,7 +1,191 @@
 {
-  "updated": "2026-07-29 21:31:46",
-  "count": 17498,
+  "updated": "2026-07-29 21:36:03",
+  "count": 17503,
   "items": [
+    {
+      "id": "5014737",
+      "time": "2026-07-29 21:35:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【駐日本大使館提醒中國公民注意防範地震災害】7月28日16時27分，日本熊本縣發生里氏7.1級地震，12小時內發生餘震超148次，造成重大人員傷亡。日本氣象廳呼籲一週內注意防範同等規模強震。中國駐日本大使館提醒中國公民妥善安排行程，避免前往受災地區，切實提高自我保護意識，加強自身安全防範。密切關注地震動態、氣象預警和防災資訊，遵循當地政府釋出的預防、避難指令，謹防餘震及次生災害。如遇緊急情況，請及時報警並聯系駐日本使領館求助。（中國駐日本大使館）"
+    },
+    {
+      "id": "5014736",
+      "time": "2026-07-29 21:34:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "義大利芬坎蒂尼集團股票在暫停交易後恢復交易，上漲1.4%。"
+    },
+    {
+      "id": "5014735",
+      "time": "2026-07-29 21:34:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "CBIZ股價大漲16.5%，此前Grant Thornton Advisors同意以50億美元收購該公司。"
+    },
+    {
+      "id": "te:economy:570794",
+      "time": "2026-07-29 21:34:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Inflation Expectations",
+        "Importance 0"
+      ],
+      "text": "UK Inflation Expectations Fall to 5-Month Low in July — UK households' one-year-ahead inflation expectations declined to 3.4% in July 2026 from 3.8% in June, marking the lowest reading since February and extending the retreat from the March high of 5.4% following the initial US strikes on Iran. Longer-term expectations also moderated, easing to 3.7% from 3.9%. Inflation expectations have now largely retraced the Iran war-related spike, despite the recent resurgence in global oil and gas prices."
+    },
+    {
+      "id": "5014734",
+      "time": "2026-07-29 21:34:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱伊朗將遭“痛擊” 不排除繼續打擊其地區代理人】當地時間7月29日，美國總統特朗普接受採訪時表示，在伊朗向美軍發動導彈襲擊後，美國將進行報復。特朗普稱，美國將“狠狠打擊”伊朗，伊朗將遭到“痛擊”。特朗普還表示，並未排除進一步打擊伊朗在該地區代理人的可能性。伊拉克什葉派民兵武裝“人民動員組織”29日發表宣告說，該組織位於伊拉克多地的基地當天清晨遭美國和沙烏地阿拉伯軍隊襲擊，造成至少20人死亡、32人受傷。美軍中央司令部28日在社交媒體釋出訊息稱，美軍和沙特軍隊在伊拉克對“受伊朗支援的”目標進行了打擊。（央視新聞）"
+    },
+    {
+      "id": "5014733",
+      "time": "2026-07-29 21:34:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "FORTREA HOLDINGS股價在第二季度業績公佈後下跌2.7%。"
+    },
+    {
+      "id": "5014732",
+      "time": "2026-07-29 21:33:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Garmin股價上漲3.9%，此前公司上調全年利潤與營收預測。"
+    },
+    {
+      "id": "5014731",
+      "time": "2026-07-29 21:33:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫諾克斯股價開盤下跌13%，創2008年以來最大跌幅。"
+    },
+    {
+      "id": "te:markets:570793",
+      "time": "2026-07-29 21:33:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "ADP earnings above expectations at 2.64 USD — ADP (ADP) released earnings per share at 2.64 USD, compared to market expectations of 2.59 USD."
+    },
+    {
+      "id": "mkt:019fae14-86e6-7aab-8eeb-8b0f8e81ecfd",
+      "time": "2026-07-29 21:33:28",
+      "tags": [
+        "MKT News",
+        "PG.N",
+        "Impact bearish"
+      ],
+      "text": "Procter & Gamble (PG.N) fell as much as 5.8% intraday, its largest drop since July 2024."
+    },
+    {
+      "id": "5014730",
+      "time": "2026-07-29 21:33:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "SOFI TECHNOLOGIES 公佈第二季度業績後股價下跌 9%。"
+    },
+    {
+      "id": "5014729",
+      "time": "2026-07-29 21:33:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "檸檬水保險第二季度財報釋出後股價大跌 22%；尼克・斯特德將接替蒂姆・比克斯比出任首席財務官。"
+    },
+    {
+      "id": "5014728",
+      "time": "2026-07-29 21:32:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "寶潔公司股價下跌幅度高達5.8%，創2024年7月以來最大跌幅。"
+    },
+    {
+      "id": "5014727",
+      "time": "2026-07-29 21:32:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "福特汽車股價一度上漲4.7%，創下6月4日以來盤中最高紀錄。"
+    },
+    {
+      "id": "5014726",
+      "time": "2026-07-29 21:32:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "卡特彼勒股價下跌 4.3%，創 4 月以來新低。"
+    },
+    {
+      "id": "mkt:019fae13-3650-7aab-8eeb-8179f7e87c5e",
+      "time": "2026-07-29 21:32:02",
+      "tags": [
+        "MKT News",
+        "F.N",
+        "Impact bullish"
+      ],
+      "text": "Ford Motor (F.N) shares rose 3.4% after the company raised its full-year profit guidance."
+    },
+    {
+      "id": "5014725",
+      "time": "2026-07-29 21:31:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "希捷科技股價上漲6%，此前該公司公佈第一財季利潤與收入均高於市場預期。"
+    },
+    {
+      "id": "mkt:019fae12-e6a7-7aab-8eeb-7b73bffe5324",
+      "time": "2026-07-29 21:31:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities opened lower on Wednesday, July 29: Dow Jones Industrial Average down 398.29 points (-0.76%) at 52,349.03; S&P 500 down 10.87 points (-0.15%) at 7,418.35; Nasdaq Composite down 47.14 points (-0.19%) at 24,829.77."
+    },
+    {
+      "id": "5014724",
+      "time": "2026-07-29 21:31:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要銀行指數<.XBANK>下跌2%。"
+    },
+    {
+      "id": "5014723",
+      "time": "2026-07-29 21:31:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "COSTAR集團股價下跌15%，觸及2017年以來的最低水平。"
+    },
     {
       "id": "mkt:019fae12-33b7-7aab-8eeb-70cace41922f",
       "time": "2026-07-29 21:30:56",
@@ -160511,136 +160695,6 @@
         "其他"
       ],
       "text": "淡水河谷股東選舉曼努埃爾・奧利韋拉出任董事長  。"
-    },
-    {
-      "id": "5002619",
-      "time": "2026-07-22 21:35:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超1%，逸仙電商跌6.59%，網易跌5.39%，中進醫療跌4.57%，康迪車業跌4.55%，嗶哩嗶哩跌3.40%。"
-    },
-    {
-      "id": "5002618",
-      "time": "2026-07-22 21:35:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國菸草巨頭菲利普莫里斯盤初漲幅達6.2%，創下歷史新高。"
-    },
-    {
-      "id": "5002617",
-      "time": "2026-07-22 21:34:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI推出工作流程AI智慧體部署產品 面向企業客戶】OpenAI表示，正推出一款名為OpenAI Presence的企業產品，可在客戶和內部工作流程中部署AI智慧體，用於回答問題、解決問題並呼叫公司系統。Presence支援語音和聊天場景下的實時互動體驗，包括客戶支援、外呼銷售以及高風險內部工作流程。目前透過有限正式開放計劃，以可部署產品形式向符合條件的企業客戶提供。"
-    },
-    {
-      "id": "5002616",
-      "time": "2026-07-22 21:33:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "GE Vernova跌近7%，因其核心利潤未達預期。"
-    },
-    {
-      "id": "5002615",
-      "time": "2026-07-22 21:33:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：德克薩斯州馬拉松石油加爾維斯頓灣煉油廠釋出報告稱，初步估算顯示本次洩漏量超過了要求上報的規定閾值。"
-    },
-    {
-      "id": "mkt:019f8a08-4060-7aab-8e49-284a6c5622ab",
-      "time": "2026-07-22 21:33:44",
-      "tags": [
-        "MKT News",
-        "GE.O",
-        "Impact bearish"
-      ],
-      "text": "GE Vernova shares fell nearly 7% after the unit’s core profit missed expectations."
-    },
-    {
-      "id": "mkt:019f8a08-15fc-7aab-8e49-211553821da8",
-      "time": "2026-07-22 21:33:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Baltic Dry Index rebounds; capesize rates lead gains, panamax slips to June low】The Baltic Dry Index (BDI) rose 45 points (+1.69%) to 2,715, its first increase since July 14, led by capesize strength. The Baltic Capesize Index (BCI) climbed 184 points (+4.7%) to 4,114, the highest since July 16; capesize average daily earnings rose $1,668 to $33,805. The Baltic Panamax Index (BPI) fell 61 points (-2.8%) to 2,120, the lowest since June 29; panamax daily earnings declined $546 to $19,083. The Supramax Index (BSI) eased 15 points (-0.9%) to 1,715 for a second consecutive day of decline, while the Handysize Index (BHSI) ticked up 2 points to 905."
-    },
-    {
-      "id": "5002614",
-      "time": "2026-07-22 21:33:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：雀巢與鉑金股權競相在週四雀巢半年報釋出前，就出售巴黎水業務約50%股權達成條款。"
-    },
-    {
-      "id": "5002613",
-      "time": "2026-07-22 21:33:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4150美元/盎司，日內漲1.81%。"
-    },
-    {
-      "id": "5002612",
-      "time": "2026-07-22 21:33:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國馬拉松石油位於得克薩斯州加爾維斯頓灣的煉油廠報告，一條排放閥被意外開啟，導致物料洩漏至大氣中。"
-    },
-    {
-      "id": "5002611",
-      "time": "2026-07-22 21:32:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股盤初：儲存晶片股、光通訊股普跌，超微電腦漲約13%，GE Vernova跌約5%】納指跌0.5%，道指跌0.1%，標普500指數跌0.2%。儲存晶片股普跌，SK海力士跌約5%，閃迪跌約4%，美光科技跌約2%，西部資料跌約2%，希捷科技跌約1%。光通訊股普跌，邁威爾科技跌約2%，Coherent跌約2%，Credo跌約1%，Lumentum跌約1%，康寧跌約2%。超微電腦漲約12%，公司預計第四財季營收接近指引區間110億-125億美元的底部；預計第四財季毛利潤率15%-17%，公司原本預計8.2%-8.4%。"
-    },
-    {
-      "id": "5002610",
-      "time": "2026-07-22 21:32:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：雀巢這筆交易對巴黎水業務估值接近 50 億歐元。"
-    },
-    {
-      "id": "mkt:019f8a06-b871-7aab-8e49-1d7bc7161b5d",
-      "time": "2026-07-22 21:32:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SMCI.O",
-        "Impact bullish"
-      ],
-      "text": "Super Micro Computer (SMCI.O) opened up about 15% after the company said it had received $60 billion of orders for the fourth quarter."
-    },
-    {
-      "id": "5002609",
-      "time": "2026-07-22 21:31:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：雀巢即將達成交易，出售巴黎水業務相關股權。"
-    },
-    {
-      "id": "5002608",
-      "time": "2026-07-22 21:31:50",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "超微電腦股價大漲15.1%，此前該公司公佈第四季度新接訂單規模達600億美元。"
     }
   ]
 }
