@@ -1,7 +1,289 @@
 {
   "date": "2026-07-30",
-  "count": 139,
+  "count": 168,
   "items": [
+    {
+      "id": "5014966",
+      "time": "2026-07-30 02:02:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：當前通脹水平仍高於 2% 的目標值，部分原因是能源等部分行業遭遇供給衝擊。"
+    },
+    {
+      "id": "5014965",
+      "time": "2026-07-30 02:01:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲3%，現報58.84美元/盎司。"
+    },
+    {
+      "id": "5014964",
+      "time": "2026-07-30 02:01:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元指數DXY短線下挫近27點，報101.1。"
+    },
+    {
+      "id": "5014963",
+      "time": "2026-07-30 02:01:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲FOMC宣告：重申通脹仍然高企，部分原因是受到衝擊影響。重申經濟活動以穩健的速度擴張。重申就業增長與勞動力保持同步。"
+    },
+    {
+      "id": "mkt:019faf09-3f0b-7aab-8ef1-f4a69aac57fb",
+      "time": "2026-07-30 02:00:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spot gold rose $20 intraday to a high of $4,064/oz."
+    },
+    {
+      "id": "5014962",
+      "time": "2026-07-30 02:00:42",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲FOMC宣告：委員們以9-3的投票比例透過此次的利率決定，上次會議比例為12-0。美聯儲哈瑪克、美聯儲卡什卡利和美聯儲洛根表示異議。"
+    },
+    {
+      "id": "5014961",
+      "time": "2026-07-30 02:00:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報14493.00元。"
+    },
+    {
+      "id": "5014960",
+      "time": "2026-07-30 02:00:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲維持利率不變的決議遭遇越來越多內部反對聲音。"
+    },
+    {
+      "id": "mkt:019faf08-e0a2-7aab-8ef1-ed154924eea1",
+      "time": "2026-07-30 02:00:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "The Federal Reserve's FOMC approved the rate decision by a 9-3 vote, versus a 12-0 split at the prior meeting."
+    },
+    {
+      "id": "5014959",
+      "time": "2026-07-30 02:00:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4080美元/盎司，日內漲1.32%。"
+    },
+    {
+      "id": "mkt:019faf08-ccb8-7aab-8ef1-e77d54fdaf1c",
+      "time": "2026-07-30 02:00:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【Fed holds policy rate at 3.50%-3.75%】The Federal Reserve kept its benchmark policy rate at 3.50%-3.75%, unchanged for a fifth consecutive meeting."
+    },
+    {
+      "id": "5014958",
+      "time": "2026-07-30 02:00:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破59美元/盎司，日內漲2.58%。"
+    },
+    {
+      "id": "mkt:019faf08-c46e-7aab-8ef1-d9c316d9cafe",
+      "time": "2026-07-30 02:00:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "U.S. interest rate on reserve balances at July 30: 3.65% (expected 3.65%; prior 3.65%)."
+    },
+    {
+      "id": "5014957",
+      "time": "2026-07-30 02:00:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4140美元/盎司，日內漲1.01%。"
+    },
+    {
+      "id": "5014956",
+      "time": "2026-07-30 02:00:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4140.14美元/盎司。"
+    },
+    {
+      "id": "mkt:019faf08-bc47-7aab-8ef1-d635b137a363",
+      "time": "2026-07-30 02:00:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "US Fed policy rate (upper bound) 3.75% as of July 29; market expected 3.75%; prior 3.75%."
+    },
+    {
+      "id": "mkt:019faf08-bc31-7aab-8ef1-cea34e36370a",
+      "time": "2026-07-30 02:00:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "US Federal Reserve target rate (lower bound) 3.50% as of July 29; expected 3.50%; prior 3.50%."
+    },
+    {
+      "id": "5014955",
+      "time": "2026-07-30 02:00:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4077.67美元/盎司。"
+    },
+    {
+      "id": "5014954",
+      "time": "2026-07-30 02:00:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報58.47美元/盎司。"
+    },
+    {
+      "id": "5014953",
+      "time": "2026-07-30 02:00:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4070美元/盎司，日內漲1.22%。"
+    },
+    {
+      "id": "5014952",
+      "time": "2026-07-30 02:00:07",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲決定維持基準利率在3.50%-3.75%區間不變。"
+    },
+    {
+      "id": "5014951",
+      "time": "2026-07-30 02:00:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4130美元/盎司，日內漲0.77%。"
+    },
+    {
+      "id": "5014950",
+      "time": "2026-07-30 02:00:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報58.69美元/盎司。"
+    },
+    {
+      "id": "5014949",
+      "time": "2026-07-30 02:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4120美元/盎司，日內漲0.56%。"
+    },
+    {
+      "id": "5014948",
+      "time": "2026-07-30 02:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲2%，現報14369.00元。"
+    },
+    {
+      "id": "mkt:019faf08-8ef6-7aab-8ef1-c1088e9ceed8",
+      "time": "2026-07-30 02:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | FED‘s Federal Fund Rate (Upper Bound) (Jul.29) | actual 3.75% | consensus 3.75% | previous 3.75%"
+    },
+    {
+      "id": "mkt:019faf08-8ef5-7aab-8ef1-baff22c6271d",
+      "time": "2026-07-30 02:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | FED's Federal Fund Rate (Lower Bound) (Jul.29) | actual 3.5% | consensus 3.50% | previous 3.50%"
+    },
+    {
+      "id": "mkt:019faf08-8ebb-7aab-8ef1-b2338a24f7f1",
+      "time": "2026-07-30 02:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | Interest on Reserve Balances (Jul.30) | actual 3.65% | consensus 3.65% | previous 3.65%"
+    },
+    {
+      "id": "5014947",
+      "time": "2026-07-30 02:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4110美元/盎司，日內漲0.34%。"
+    },
     {
       "id": "5014946",
       "time": "2026-07-30 01:55:07",
