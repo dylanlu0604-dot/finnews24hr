@@ -1,7 +1,31 @@
 {
   "date": "2026-07-30",
-  "count": 57,
+  "count": 60,
   "items": [
+    {
+      "id": "mkt:019faecf-e3c5-7aab-8ef0-32f4e1101059",
+      "time": "2026-07-30 00:58:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Airbus CEO says fiscal-year target set at 850-890 aircraft."
+    },
+    {
+      "id": "5014914",
+      "time": "2026-07-30 00:56:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收跌104美元，報13581美元/噸。LME期鋁收漲32美元，報3180美元/噸。LME期鋅收跌8美元，報3570美元/噸。LME期鉛收漲5美元，報1900美元/噸。LME期鎳收漲167美元，報17137美元/噸。LME期錫收漲299美元，報53882美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
+    {
+      "id": "mkt:019faecd-4a00-7aab-8ef0-2df366d81c4c",
+      "time": "2026-07-30 00:55:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish President Erdogan said a bill to dissolve the Kurdistan Workers' Party (PKK) will be submitted to parliament for consideration shortly."
+    },
     {
       "id": "5014913",
       "time": "2026-07-30 00:52:47",
