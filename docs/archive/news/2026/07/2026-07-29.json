@@ -1,7 +1,108 @@
 {
   "date": "2026-07-29",
-  "count": 2669,
+  "count": 2680,
   "items": [
+    {
+      "id": "mkt:019fade8-85bb-7aab-8eea-ccb6aa9061c8",
+      "time": "2026-07-29 20:45:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US weapons inventories shrinking after Iran escalation; no sign conflict will end soon, US media reports】CNN, citing three people familiar with recent Pentagon data and a new report, said US military weapons inventories have fallen sharply after recent escalations with Iran and the conflict shows no sign of ending in the near term. The Center for Strategic and International Studies (CSIS) said on Monday US Patriot interceptors number fewer than 827 and THAAD interceptors fewer than 278; sources say CSIS’s estimates align with internal US government data. CSIS warned lower inventories could force the US and its allies to accept higher risk in missile-interception operations and noted there is currently no full replacement for Patriot and THAAD. Trump said he wants to replenish stocks with more advanced systems quickly but that current inventories are “still in good shape.” The chairman of the Joint Chiefs said last week the Pentagon cannot procure needed munitions without additional funding."
+    },
+    {
+      "id": "5014643",
+      "time": "2026-07-29 20:45:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特電信第二季度淨利潤 36.2 億里亞爾，市場預期 34.5 億里亞爾。"
+    },
+    {
+      "id": "5014642",
+      "time": "2026-07-29 20:44:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【民調顯示波蘭反對烏克蘭加入歐盟者比例創新高】波蘭社會輿論研究中心28日公佈的一項民調結果顯示，四成波蘭受訪者反對烏克蘭加入歐盟，系該機構開展相關調查以來最高水平，而支援烏克蘭儘快加入歐盟的比例不到10%。民調報告顯示，反對烏克蘭加入歐盟的受訪者比例從2023年的17%上升至40%；支援烏克蘭儘快加入歐盟的受訪者比例從2023年的18%下降至9%。（新華社）"
+    },
+    {
+      "id": "te:markets:570785",
+      "time": "2026-07-29 20:44:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Spain",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Endesa earnings above expectations at 0.61 EUR — Endesa (ELE) released earnings per share at 0.61 EUR, compared to market expectations of 0.55 EUR."
+    },
+    {
+      "id": "5014641",
+      "time": "2026-07-29 20:44:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇順電子：子公司開展4.67億元融資租賃業務並獲公司擔保】宇順電子公告稱，2026年7月29日，全資子公司中恩雲資訊與興智貳號簽署《融資租賃合同》，以售後回租形式開展業務，融資額4.674億元，租賃期限48個月，中恩雲資訊提供應收賬款質押擔保，公司承擔連帶保證責任；同日，公司與中國銀行簽署《保證合同》，為子公司工業智慧1000萬元借款合同提供連帶責任保證。"
+    },
+    {
+      "id": "te:markets:570784",
+      "time": "2026-07-29 20:44:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Amphenol earnings above expectations at 1.35 USD — Amphenol (APH) released earnings per share at 1.35 USD, compared to market expectations of 1.16 USD."
+    },
+    {
+      "id": "5014640",
+      "time": "2026-07-29 20:44:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "國際原油期貨價格29日顯著上漲，紐約原油期貨價格與倫敦布倫特原油期貨價格盤中漲幅均超6%。（新華社）"
+    },
+    {
+      "id": "5014638",
+      "time": "2026-07-29 20:42:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本熊本縣地震致多家半導體工廠停工】日本熊本縣28日發生7.1級地震。由於該縣聚集了大量半導體等生產廠家，多家工廠震後宣佈停產，市場高度擔憂地震可能帶來產業衝擊。索尼集團的半導體子公司29日釋出公告說，其坐落於熊本縣菊陽町的影象感測器工廠地震後即刻停產，目前暫無復工時間表。日本半導體巨頭瑞薩電子公司當天公佈，其位於熊本縣的兩座工廠震後停產。半導體裝置龍頭東京電子公司在熊本縣內的兩座廠區也全面停工。荏原製作所同日宣佈，其位於熊本縣的半導體制造裝置工廠已停產。三菱電機公司也釋出訊息說，其位於熊本縣的兩座半導體制造工廠現已全面停產。目前，日本郵政公司暫停熊本縣內全部郵局視窗業務。三菱化學公司九州事業所熊本廠區、普利司通公司熊本工廠、湖池屋九州阿蘇工廠、三得利九州熊本工廠均持續停產。本田公司暫停熊本製作所的摩托車生產線。豐田汽車公司旗下零部件廠商愛信九州公司臨時停產。此外，強震還造成主營書刊與新聞用紙的日本製紙公司八代工廠煙囪倒塌，損失嚴重。（新華社）"
+    },
+    {
+      "id": "te:markets:570783",
+      "time": "2026-07-29 20:42:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Larsen & Toubro earnings below expectations at 29.96 INR — Larsen & Toubro (LT) released earnings per share at 29.96 INR, compared to market expectations of 87.48 INR."
+    },
+    {
+      "id": "mkt:019fade5-a7d7-7aab-8eea-c1c4acb6f146",
+      "time": "2026-07-29 20:42:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios cited Israeli officials saying U.S. Vice President Vance met Prime Minister Netanyahu on Tuesday; U.S. Defense Secretary Hegseth is scheduled to meet Netanyahu today."
+    },
+    {
+      "id": "5014637",
+      "time": "2026-07-29 20:41:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃尼集團執行長：將協商委內瑞拉相關合同，以便推進投資落地。"
+    },
     {
       "id": "5014636",
       "time": "2026-07-29 20:41:17",
