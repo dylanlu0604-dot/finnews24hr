@@ -1,7 +1,54 @@
 {
-  "updated": "2026-07-30 01:18:48",
+  "updated": "2026-07-30 01:22:42",
   "count": 17429,
   "items": [
+    {
+      "id": "mkt:019faee5-f3c5-7aab-8ef0-e7b62eff2a92",
+      "time": "2026-07-30 01:22:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Energy Secretary wright said half flows through the strait and the other half through pipelines."
+    },
+    {
+      "id": "5014929",
+      "time": "2026-07-30 01:21:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "塔斯尼姆通訊社援引敘利亞訊息源報道：以色列軍方對德拉省附近亞爾穆克盆地的阿卜丁鎮周邊區域實施炮火襲擊。"
+    },
+    {
+      "id": "mkt:019faee3-ffe4-7aab-8ef0-d8a752e02bc1",
+      "time": "2026-07-30 01:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "BOC will release monetary policy meeting minutes in 10 minutes."
+    },
+    {
+      "id": "mkt:019faee3-8716-7aab-8ef0-d5b4660818d2",
+      "time": "2026-07-30 01:19:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said 13 million barrels of oil left the Gulf region over the past week."
+    },
+    {
+      "id": "5014928",
+      "time": "2026-07-30 01:18:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：過去一週，每日有 1300 萬桶原油從海灣地區外運。"
+    },
     {
       "id": "5014927",
       "time": "2026-07-30 01:17:54",
@@ -160149,51 +160196,6 @@
         "MKT News"
       ],
       "text": "Iran's president said the Iranian people will not yield to threats, that Tehran consistently emphasizes the importance of diplomacy and advocates resolving disputes through political means."
-    },
-    {
-      "id": "5002891",
-      "time": "2026-07-23 01:21:25",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅會見巴布亞紐幾內亞外長特卡琴科】中共中央政治局委員、外交部長王毅22日在馬尼拉會見巴布亞紐幾內亞外長特卡琴科。王毅表示，在兩國領導人戰略引領下，中巴新關係取得新的發展，政治互信進一步增強，互利合作持續深化，在國際和地區事務中的溝通更加緊密。中方高度重視對巴新關係，樂見巴新在國際事務中發揮更大作用。今年是中巴新建交50週年。中方願同巴新方一道努力，落實好兩國領導人重要共識，深化各領域合作，不斷充實兩國全面戰略伙伴關係內涵，更好造福兩國人民。（新華社）"
-    },
-    {
-      "id": "mkt:019f8ad8-64eb-7aab-8e4e-b4b6078cfa36",
-      "time": "2026-07-23 01:21:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Wang Yi meets Papua New Guinea foreign minister Tkachenko】Wang Yi said China highly appreciates Papua New Guinea’s decision to close the Taipei Economic Office in Papua New Guinea. He called the move — following PNG’s earlier closure of its commercial representative office in Taiwan — another key step in implementing the One-China principle, saying it is entirely correct and in PNG’s national and public interest, will further consolidate the political foundation of China–Papua New Guinea ties, inject momentum into their comprehensive strategic partnership and serve as a model for other countries handling Taiwan-related institutions."
-    },
-    {
-      "id": "5002890",
-      "time": "2026-07-23 01:20:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【王毅會見巴布亞紐幾內亞外長特卡琴科】王毅表示，中方高度讚賞巴新政府宣佈關閉“駐巴新臺北經濟辦事處”。這是繼關閉“巴新駐臺灣商務代表處”後，巴新政府落實一箇中國原則的又一關鍵舉措，完全是正確之舉，符合巴新國家和人民根本利益，將進一步鞏固中巴新關係政治基礎，併為兩國全面戰略伙伴關係注入強勁動力，同時也為其他國家正確處理臺機構問題提供了示範。（新華社）"
-    },
-    {
-      "id": "mkt:019f8ad7-6314-7aab-8e4e-a84a10fe7104",
-      "time": "2026-07-23 01:19:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Wang Yi meets Brazil foreign minister Vieira】Wang Yi met Brazil foreign minister Vieira. Wang said under their leaders' strategic guidance China and Brazil have advanced a comprehensive strategic partnership and should maintain strategic communication, strengthen coordination and deepen cooperation. China will continue to support Brazil's sovereignty, security and development and expects reciprocal respect for its core interests. China offered closer cooperation in space, connectivity and artificial intelligence and welcomed Brazil joining the World AI Cooperation Organization. Vieira said the leaders keep close communication and high mutual trust, bilateral exchanges are frequent and trade hit a record high last year; Brazil seeks deeper finance and trade ties and tighter coordination with China at the UN and BRICS."
-    },
-    {
-      "id": "mkt:019f8ad6-f4e2-7aab-8e4e-a5004d6b7112",
-      "time": "2026-07-23 01:19:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "A Grupo México executive expects a modest global copper supply shortfall in 2026, citing US economic resilience and rising demand from decarbonization technologies."
     }
   ]
 }

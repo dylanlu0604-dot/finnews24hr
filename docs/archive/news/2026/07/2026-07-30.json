@@ -1,7 +1,54 @@
 {
   "date": "2026-07-30",
-  "count": 91,
+  "count": 96,
   "items": [
+    {
+      "id": "mkt:019faee5-f3c5-7aab-8ef0-e7b62eff2a92",
+      "time": "2026-07-30 01:22:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Energy Secretary wright said half flows through the strait and the other half through pipelines."
+    },
+    {
+      "id": "5014929",
+      "time": "2026-07-30 01:21:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "塔斯尼姆通訊社援引敘利亞訊息源報道：以色列軍方對德拉省附近亞爾穆克盆地的阿卜丁鎮周邊區域實施炮火襲擊。"
+    },
+    {
+      "id": "mkt:019faee3-ffe4-7aab-8ef0-d8a752e02bc1",
+      "time": "2026-07-30 01:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "BOC will release monetary policy meeting minutes in 10 minutes."
+    },
+    {
+      "id": "mkt:019faee3-8716-7aab-8ef0-d5b4660818d2",
+      "time": "2026-07-30 01:19:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said 13 million barrels of oil left the Gulf region over the past week."
+    },
+    {
+      "id": "5014928",
+      "time": "2026-07-30 01:18:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：過去一週，每日有 1300 萬桶原油從海灣地區外運。"
+    },
     {
       "id": "5014927",
       "time": "2026-07-30 01:17:54",
