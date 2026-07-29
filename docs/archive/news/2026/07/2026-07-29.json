@@ -1,7 +1,108 @@
 {
   "date": "2026-07-29",
-  "count": 2983,
+  "count": 2993,
   "items": [
+    {
+      "id": "5014850",
+      "time": "2026-07-29 23:02:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲6%，現報567.00元。"
+    },
+    {
+      "id": "mkt:019fae66-21f0-7aab-8eee-3c45115b2ddf",
+      "time": "2026-07-29 23:02:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iraq’s Hezbollah Brigades (Kata'ib Hezbollah) said it will “inevitably” respond to US-Saudi joint strikes."
+    },
+    {
+      "id": "5014849",
+      "time": "2026-07-29 23:01:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克真主黨：必將對美沙聯軍的襲擊作出反擊。將給伊拉克政府截至 8 月 6 日的期限，要求政府拿出能夠捍衛伊拉克主權的實際行動。"
+    },
+    {
+      "id": "mkt:019fae64-bc57-7aab-8eee-32f79faee6d9",
+      "time": "2026-07-29 23:01:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "As of 23:00 Beijing close, China’s main commodity futures were mixed: ethylene glycol (EG) up nearly 5%; low-sulfur fuel oil (LU) and fuel oil up over 3%; bottle-grade PET chip up over 2%; styrene (EB), benzene and polyester short fiber up around 2%; LPG up over 1%. On the downside, soda ash fell over 2%; glass, rebar and rapeseed meal fell over 1%; cotton, caustic soda and hot-rolled coil fell about 1%."
+    },
+    {
+      "id": "5014848",
+      "time": "2026-07-29 23:00:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破88美元/桶，日內漲7.21%。"
+    },
+    {
+      "id": "te:markets:570814",
+      "time": "2026-07-29 23:00:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Australian Dollar Drops by 0.71% — Top currency losers are Australian Dollar (-0.71%), Mexican Peso (-0.52%), Swedish Krona (-0.35%) and Dollar Index (-0.07%). Gains are led by Norwegian Krone (0.32%). Meanwhile, Euro, Japanese Yen and British Pound were little changed."
+    },
+    {
+      "id": "5014847",
+      "time": "2026-07-29 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】乙二醇連續漲4.71%，低硫燃料油連續漲3.30%，燃料油連續漲3.28%，純鹼連續跌2.17%，苯乙烯連續漲2.00%。"
+    },
+    {
+      "id": "mkt:019fae63-1f73-7aab-8eee-2ad1e496fa0f",
+      "time": "2026-07-29 22:59:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【International oil prices rise over 7% intraday】Brent crude up 7% intraday at $87.69/bbl; WTI crude up 7.3% at $84.00/bbl."
+    },
+    {
+      "id": "5014846",
+      "time": "2026-07-29 22:59:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示，上週美國煉油廠開工率升至2018年12月以來最高水平。"
+    },
+    {
+      "id": "5014845",
+      "time": "2026-07-29 22:59:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息： IMC 稀土（IMC Rare Earths）開盤報 5.18 美元，本次 IPO 發行價定為 5 美元。"
+    },
     {
       "id": "mkt:019fae62-a6e2-7aab-8eee-2442b978b49d",
       "time": "2026-07-29 22:58:48",
