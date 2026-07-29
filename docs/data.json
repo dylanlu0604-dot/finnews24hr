@@ -1,7 +1,149 @@
 {
-  "updated": "2026-07-30 03:30:32",
-  "count": 17712,
+  "updated": "2026-07-30 03:34:26",
+  "count": 17724,
   "items": [
+    {
+      "id": "te:markets:570858",
+      "time": "2026-07-30 03:33:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Citigroup Stock Price Hits 8-week Low — Citigroup shares decreased to 127.06 USD, the lowest since June 2026. Over the past 4 weeks, Citigroup lost 9.06%, and in the last 12 months, it increased 32.85%."
+    },
+    {
+      "id": "te:markets:570857",
+      "time": "2026-07-30 03:33:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Resume Slide — US stocks fell on a choppy Wednesday as markets assessed the Federal Reserve’s policy outlook ahead of major tech earnings. The S&P 500 and the Nasdaq 100 fell 0.7%, while the Dow lost 900 points. Microsoft and Meta were muted ahead of their earnings reports after the bell, the latest signal for AI infrastructure spending. Concerns that AI capital expenditure is being overdone recently pressured Magnificent 7 stocks and triggered a selloff for chip producers that trimmed their surge late last quarter. Micron, Applied Materials, and Sandisk sank between 4% and 8% amid the pessimistic results by SK Hynix. Meanwhile, the Fed held rates unchanged in the least certain meeting in the last 15 years, featuring three dissents for a hike. The Dow was pressured by a flare-up in oil prices following fresh strikes between Iran and the US, adding to pro-inflationary risks. Visa rebounded and gained 1% after posting growth in revenue last quarter."
+    },
+    {
+      "id": "5015144",
+      "time": "2026-07-30 03:33:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正努力改造空中交通管制系統和塔臺。"
+    },
+    {
+      "id": "5015143",
+      "time": "2026-07-30 03:33:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普聲稱：但凡見到風力發電機林立，就意味著這個國家正在走向衰敗。"
+    },
+    {
+      "id": "mkt:019faf5d-dc59-7aab-8ef7-8ec81216038e",
+      "time": "2026-07-30 03:33:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. 30-year Treasury yield topped 5.20% for the first time since 2007."
+    },
+    {
+      "id": "5015142",
+      "time": "2026-07-30 03:32:39",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率自2007年以來首次突破5.20%。"
+    },
+    {
+      "id": "mkt:019faf5d-55a5-7aab-8ef7-85501f08677c",
+      "time": "2026-07-30 03:32:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Transportation Secretary Duffy said the Washington Dulles Airport project could begin in spring 2027."
+    },
+    {
+      "id": "5015141",
+      "time": "2026-07-30 03:32:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：福奇是我接手前任留下的人。他從上世紀80年代就在政府任職，我任用了他一段時間，我在很多問題上和他意見相左。如果當初聽從他的建議，我就得下令全國封鎖。我選擇聯邦制治理模式，簡言之，交由各州州長自主決策。"
+    },
+    {
+      "id": "mkt:019faf5c-6f02-7aab-8ef7-7a7527a1e205",
+      "time": "2026-07-30 03:31:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【IDF chief of staff says prepared for sustained operations across fronts】On the 29th, IDF chief of staff Zamir, visiting southern Lebanon, said military operations across the fronts are not over and the force must be prepared to continue fighting. He said the IDF is ready to respond to any changes in the situation. On the Lebanon front, Zamir said, \"if the situation requires, the IDF will continue to push deeper and enter additional areas.\""
+    },
+    {
+      "id": "5015140",
+      "time": "2026-07-30 03:31:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍總參謀長稱已做好全線持續作戰準備】當地時間29日，以色列國防軍總參謀長扎米爾在視察黎巴嫩南部時表示，各戰線的軍事行動尚未結束，以軍必須做好繼續戰鬥的準備。他表示，以軍已做好應對局勢任何變化的準備。扎米爾強調，在黎巴嫩戰線上，“如果形勢需要，以軍將繼續向縱深推進，進入更多地區”。"
+    },
+    {
+      "id": "mkt:019faf5b-e382-7aab-8ef7-73abe79ec0ec",
+      "time": "2026-07-30 03:31:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's minister for U.S. trade said he held comprehensive talks with U.S. Trade Representative GREER and that both agreed to maintain close contact."
+    },
+    {
+      "id": "mkt:019faf5b-b65d-7aab-8ef7-6a2665f05bc8",
+      "time": "2026-07-30 03:30:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Kevin Warsh: No conflict between Fed's dual mandate】Kevin Warsh told reporters he does not see a general \"conflict\" between the Fed's dual mandate of maximum employment and price stability, saying \"my judgment is: when we do our job, we will achieve both.\" He added there is no either-or choice between inflation and employment and that the real market harm is inflation that is both high and volatile."
+    },
+    {
+      "id": "mkt:019faf5b-a850-7aab-8ef7-608fb9e7cd57",
+      "time": "2026-07-30 03:30:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【Warsh: Reducing forward guidance not meant to surprise markets】Federal Reserve Chair Kevin Warsh said the Fed’s move toward less-detailed forward guidance and a more opaque decision process is not intended to catch investors off guard. \"Creating surprises is not our aim,\" he said, adding that dialing back granular policy cues gives traders more room to price policy from incoming economic data rather than pre-guess Fed moves, and helps the Fed assess how investors are interpreting economic developments."
+    },
+    {
+      "id": "5015139",
+      "time": "2026-07-30 03:30:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：蘇格蘭阿伯丁曾是歐洲石油之都，昔日堪稱歐洲核心能源重鎮。如今當地油氣鑽探活動近乎停滯，沒人能理解其中緣由。"
+    },
     {
       "id": "mkt:019faf5a-2145-7aab-8ef7-5b88c82b8b54",
       "time": "2026-07-30 03:29:07",
@@ -163294,22 +163436,6 @@
         "其他"
       ],
       "text": "巴西貿易部長：我們將重啟與格里爾的談判，具體日期尚未確定。"
-    },
-    {
-      "id": "mkt:019f8b50-ec12-7aab-8e50-cee2603e8eeb",
-      "time": "2026-07-23 03:32:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian outlet Fars News quoted sources saying several explosions were heard in Jordan."
-    },
-    {
-      "id": "5002985",
-      "time": "2026-07-23 03:31:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：伊拉克埃爾比勒再次傳來爆炸聲。"
     }
   ]
 }
