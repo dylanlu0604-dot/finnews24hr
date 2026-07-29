@@ -1,7 +1,112 @@
 {
   "date": "2026-07-30",
-  "count": 584,
+  "count": 594,
   "items": [
+    {
+      "id": "mkt:019faf68-6bcd-7aab-8ef8-1a6c0dcf992e",
+      "time": "2026-07-30 03:44:43",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "SpaceX (SPCX.O) won a $1.6 billion U.S. Space Force contract for 18 Falcon 9 launches to deploy military-guided satellites."
+    },
+    {
+      "id": "5015162",
+      "time": "2026-07-30 03:43:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "SpaceX獲美國太空軍16億美元合同，將執行18次獵鷹9號發射任務，用於部署軍用目標定位衛星。"
+    },
+    {
+      "id": "5015161",
+      "time": "2026-07-30 03:43:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "SpaceX獲得美國太空軍16億美元專案訂單。"
+    },
+    {
+      "id": "5015160",
+      "time": "2026-07-30 03:42:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國20年期國債收益率最新上漲9.05個基點，報5.205%。"
+    },
+    {
+      "id": "mkt:019faf66-7e7a-7aab-8ef8-121ee2799372",
+      "time": "2026-07-30 03:42:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US long-term Treasury yields rose further after the Fed meeting: 10-year +5.7 bps to 4.661%; 20-year +9.05 bps to 5.205%; 30-year +9.84 bps to 5.193%, earlier touching 5.213%, the highest since July 2007."
+    },
+    {
+      "id": "mkt:019faf66-56af-7aab-8ef8-0852ac1a5bb8",
+      "time": "2026-07-30 03:42:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump says Iran asked US not to strike but US will 'give them a lesson'】In a recent interview Trump said he had been briefed on an incident in Egypt and would strike those responsible \"very hard.\" He said Iran had asked the US not to attack but the US would \"give Iran a little lesson\" in response to an attack on a US base in Jordan, and added \"we'll see\" if an Iran deal can be reached. He also said he wants Zelensky to end the war in Ukraine."
+    },
+    {
+      "id": "5015159",
+      "time": "2026-07-30 03:42:25",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議後，美國長期國債收益率進一步攀升；10年期美國國債收益率最新上漲5.7個基點，報4.661%。"
+    },
+    {
+      "id": "5015158",
+      "time": "2026-07-30 03:42:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率上漲9.84個基點，報5.193%；盤中曾觸及5.213%，為2007年7月以來最高水平。"
+    },
+    {
+      "id": "5015157",
+      "time": "2026-07-30 03:42:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談俄烏衝突：我希望澤連斯基結束這場衝突，事情本可以很簡單。我和普京、澤連斯基兩人都能溝通。我告訴過他們“結束衝突。”"
+    },
+    {
+      "id": "mkt:019faf65-c6bb-7aab-8ef8-05bca6e48bc4",
+      "time": "2026-07-30 03:41:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【KEVIN WARSH says Fed has consensus despite internal 'debate'】At the post-decision press conference, Fed chair KEVIN WARSH said policymakers held a 'healthy internal debate' and, despite split votes, reached broad agreement that the Fed has the power, tools and statutory mandate to achieve price stability. He said differences over today's decision exist but 'do not fully capture' the discussion and that the meeting left him 'more convinced' the committee can win the fight against high inflation."
+    },
     {
       "id": "mkt:019faf65-a2d2-7aab-8ef7-fc023f85e49f",
       "time": "2026-07-30 03:41:41",
