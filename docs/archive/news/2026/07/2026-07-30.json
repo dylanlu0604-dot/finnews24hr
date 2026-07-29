@@ -1,7 +1,28 @@
 {
   "date": "2026-07-30",
-  "count": 695,
+  "count": 697,
   "items": [
+    {
+      "id": "5015220",
+      "time": "2026-07-30 04:27:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "星巴克股價盤後上漲11%，此前該公司上調了全年調整後每股收益預期。"
+    },
+    {
+      "id": "te:markets:570875",
+      "time": "2026-07-30 04:26:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Public Storage earnings above expectations at 2.55 USD — Public Storage (PSA) released earnings per share at 2.55 USD, compared to market expectations of 2.53 USD."
+    },
     {
       "id": "5015219",
       "time": "2026-07-30 04:25:36",

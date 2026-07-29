@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-30 04:27:11",
-  "count": 17783,
+  "updated": "2026-07-30 04:31:06",
+  "count": 17784,
   "items": [
+    {
+      "id": "5015220",
+      "time": "2026-07-30 04:27:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "星巴克股價盤後上漲11%，此前該公司上調了全年調整後每股收益預期。"
+    },
+    {
+      "id": "te:markets:570875",
+      "time": "2026-07-30 04:26:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Public Storage earnings above expectations at 2.55 USD — Public Storage (PSA) released earnings per share at 2.55 USD, compared to market expectations of 2.53 USD."
+    },
     {
       "id": "5015219",
       "time": "2026-07-30 04:25:36",
@@ -164011,18 +164032,6 @@
         "S&P500"
       ],
       "text": "【Alphabet Q2 capex doubles to $44.9 bln】Alphabet said Q2 capital expenditure doubled to $44.9 bln from $22.4 bln a year earlier as it accelerates investment in AI infrastructure and global compute. The company raised $49.6 bln through an equity issuance and said proceeds will support capex and other corporate uses. Q2 EPS was $9.11 versus analysts’ $2.88 estimate; revenue rose 24% YoY to $119.8 bln, above consensus $116.5 bln. Operating profit increased 30% and operating margin widened to 34%. Growth was led by Google Cloud, which posted revenue up 82% YoY to $24.8 bln."
-    },
-    {
-      "id": "te:markets:568959",
-      "time": "2026-07-23 04:30:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Closes Higher on Commodity Stocks Rally — The S&P/TSX Composite Index rose 0.3% to close at 35,485 after reaching a record high earlier in the session, as rising commodity prices supported mining and energy stocks. Miners advanced as gold edged higher on a softer US dollar and safe-haven demand amid escalating tensions between the US and Iran. Agnico Eagle gained 3.5%, Barrick added 2.8%, WPM rose 1.1%, and Franco-Nevada advanced 3.1%. Energy stocks also gained, tracking a jump in oil prices on mounting concerns over disruptions to Middle Eastern supply routes linked to escalating US-Iran hostilities. Canadian Natural added 1.8%, Imperial Oil gained 0.8%, while Suncor rose 1.5% and Cenovus advanced 0.6% ahead of its earnings report on Thursday. On the downside, technology stocks weakened ahead of earnings from US technology giants Alphabet and Tesla. Shopify shed 3.9%, Constellation Software fell 2.1%, and Celestica retreated 1.4%."
     }
   ]
 }
