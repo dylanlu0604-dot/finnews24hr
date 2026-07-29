@@ -1,7 +1,66 @@
 {
-  "updated": "2026-07-30 06:12:12",
-  "count": 17787,
+  "updated": "2026-07-30 06:16:02",
+  "count": 17784,
   "items": [
+    {
+      "id": "5015322",
+      "time": "2026-07-30 06:15:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【股票型ETF7月以來“吸金”逾4100億元】資料顯示，7月以來，截至7月28日，股票型ETF資金淨流入4151.74億元。從資金流入較多的產品看，科創50 ETF華夏資金淨流入348.45億元，滬深300 ETF華泰柏瑞、創業板ETF易方達等資金淨流入均超過230億元。此外，中證1000 ETF南方、中證500 ETF南方、上證指數ETF富國等資金淨流入均超過百億元。"
+    },
+    {
+      "id": "te:markets:570891",
+      "time": "2026-07-30 06:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Norwegian Krone Rises by 1.00% — Top currency gainers are Norwegian Krone (1%), Euro (0.71%), Swiss Franc (0.68%), British Pound (0.59%) and Japanese Yen (0.26%). Biggest losers are Dollar Index (-0.72%), Indian Rupee (-0.27%) and Australian Dollar (-0.26%)."
+    },
+    {
+      "id": "mkt:019faff1-ce01-7aab-8efa-be3dd1bd02e6",
+      "time": "2026-07-30 06:14:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Trump said the Supreme Court's adverse rulings on birthright citizenship and tariffs have cost the U.S. trillions of dollars and damaged its prestige."
+    },
+    {
+      "id": "mkt:019fafef-9619-7aab-8efa-b6d75a732c93",
+      "time": "2026-07-30 06:12:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Local witnesses reported explosions heard in Kyiv, Ukraine."
+    },
+    {
+      "id": "5015321",
+      "time": "2026-07-30 06:11:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭基輔傳出爆炸聲。"
+    },
+    {
+      "id": "5015320",
+      "time": "2026-07-30 06:11:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報58.17美元/盎司。"
+    },
     {
       "id": "mkt:019fafee-968b-7aab-8efa-aa95e20ec9b9",
       "time": "2026-07-30 06:11:16",
@@ -163967,87 +164026,6 @@
         "公司"
       ],
       "text": "【短期震盪創造“擊球區”，頭部私募逢低加倉“靜待花開”】市場波動下，頭部私募並未採取單一防守策略。記者近日採訪獲悉，在7月以來科技板塊快速調整的過程中，部分機構逢低佈局優質成長資產，部分機構則透過降低高位板塊倉位、增加低位方向配置提升組合韌性。與此同時，截至7月22日，當月已有24傢俬募釋出自購公告，自購金額接近14億元。多傢俬募機構人士表示，科技產業的長期發展趨勢並未發生改變，在本輪調整“去偽存真”後，結構性機會正在顯現，具備產業趨勢支撐和業績兌現能力的優質資產迎來“擊球區”。（上證報）"
-    },
-    {
-      "id": "5003131",
-      "time": "2026-07-23 06:15:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【超節點建設週期開啟 國產光互連生態加速結盟】7月22日，中際旭創啟動港股招股，預計募資545億港元，用於光互連產品研發、全球產能擴充等。7月15日，仕佳光子披露28億元定增預案，擬募資加碼光互連元件建設等專案。光互連，這個一年前還略顯生僻的技術詞彙，正成為算力產業鏈最擁擠的賽道之一。熱潮背後，是AI（人工智慧）產業演進帶來的剛性需求。隨著AI步入推理時代，萬億引數大模型持續迭代、超節點建設週期開啟，光互連技術具備高頻寬、低功耗、高並行、可拓展等優勢備受關注。當前國產光互連生態正在結盟產業鏈上下游廠商，上市公司也持續加碼矽光賽道。(證券時報)"
-    },
-    {
-      "id": "5003130",
-      "time": "2026-07-23 06:15:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【實探MLCC產業鏈：訂單大增產能拉滿 上游原料擴產競速】近期，MLCC（多層片式陶瓷電容器‌）板塊在二級市場股價劇烈波動，相關訊息魚龍混雜。產業鏈是真實景氣還是虛火一場？供需關係究竟如何，景氣度能否延續？帶著這些問題，記者走訪源頭廠商，向產業鏈核心企業與業內人士深入求證。調研反饋顯示，當前MLCC供需格局偏緊，主力企業產線滿載，出廠價未見鬆動；上游材料商作為“賣鏟人”訂單充沛，有企業表示已被客戶提前鎖定4倍於現有產能的擴產線，未來數年銷售無憂。(證券時報)"
-    },
-    {
-      "id": "5003129",
-      "time": "2026-07-23 06:15:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【冷板先行浸沒蓄勢 液冷產業鏈業績分化明顯】隨著算力新基建超節點密集湧現，其背後的液冷技術關注度升溫。A股液冷產業鏈公司披露的2026年半年度業績預告顯示，冷板式液冷零部件供應商業績兌現明顯，而浸沒式液冷及資料中心運營配套環節仍處投入爬坡期，行業呈現出“技術熱”與“業績分化”並存的特徵。冷板式液冷環節，多家企業上半年淨利潤實現同比大幅增長。相比之下，涉足液冷但主業承壓或配套業務仍在投入期的企業，業績表現偏弱。總體而言，業績分化格局印證了行業普遍判斷，冷板式液冷產業鏈更加成熟，正從主題炒作進入訂單與業績兌現階段，液冷產品已批次交付的企業普遍實現業績高增；而浸沒式液冷及配套的資料中心運營環節，正如2026WAIC展臺上多數廠商仍將其定位為“技術儲備”一樣，仍處於工程化驗證與產能投入的早期階段，業績兌現仍需時間。(證券時報)"
-    },
-    {
-      "id": "te:markets:568963",
-      "time": "2026-07-23 06:15:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Increases by 0.59% — Top currency gainers are Brazilian Real (0.59%), Norwegian Krone (0.48%), South Korean Won (0.34%) and Euro (0.08%). Biggest losers are Indian Rupee (-0.35%), New Zealand Dollar (-0.26%) and Swiss Franc (-0.25%). Meanwhile, British Pound, Japanese Yen and Dollar Index were little changed."
-    },
-    {
-      "id": "5003128",
-      "time": "2026-07-23 06:14:41",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【多家外資機構發聲看好A股市場看多中國股票】近日，在全球股票市場顯著回撥、A股市場波動加劇的背景下，外資機構密集釋出觀點，明確看好中國股市下半年表現。花旗將中國股票評級上調至“超配”，並將中國市場視為新興市場資本輪動的首選目標；渣打亦維持對中國股票市場的超配立場。外資機構一致看多的背後，是上半年中國宏觀經濟所展現出的韌性，以及人工智慧、生物科技等創新領域持續釋放的吸引力。（上證報）"
-    },
-    {
-      "id": "5003127",
-      "time": "2026-07-23 06:13:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱開始對伊朗軍事目標發起新一輪打擊】當地時間7月22日，美國中央司令部在社交媒體發文稱，美國東部時間當天下午5時30分，美軍開始對伊朗軍事目標發動新一輪打擊。(央視新聞)"
-    },
-    {
-      "id": "mkt:019f8be3-6438-7aab-8e53-d131d1a4e315",
-      "time": "2026-07-23 06:12:43",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Tesla (TSLA.O) CEO Elon Musk said areas of overlap between Tesla and SpaceX are increasing. He said he could not discuss any merger of the two companies on the earnings call."
-    },
-    {
-      "id": "5003126",
-      "time": "2026-07-23 06:12:39",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "特斯拉CEO埃隆·馬斯克： 其無法在財報電話會議上討論特斯拉與 SpaceX 合併相關事宜。"
-    },
-    {
-      "id": "5003125",
-      "time": "2026-07-23 06:12:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "特斯拉CEO埃隆·馬斯克： 特斯拉與SpaceX之間業務重合的領域正持續增多。"
     }
   ]
 }

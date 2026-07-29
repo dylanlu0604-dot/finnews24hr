@@ -1,7 +1,66 @@
 {
   "date": "2026-07-30",
-  "count": 855,
+  "count": 861,
   "items": [
+    {
+      "id": "5015322",
+      "time": "2026-07-30 06:15:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【股票型ETF7月以來“吸金”逾4100億元】資料顯示，7月以來，截至7月28日，股票型ETF資金淨流入4151.74億元。從資金流入較多的產品看，科創50 ETF華夏資金淨流入348.45億元，滬深300 ETF華泰柏瑞、創業板ETF易方達等資金淨流入均超過230億元。此外，中證1000 ETF南方、中證500 ETF南方、上證指數ETF富國等資金淨流入均超過百億元。"
+    },
+    {
+      "id": "te:markets:570891",
+      "time": "2026-07-30 06:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Norwegian Krone Rises by 1.00% — Top currency gainers are Norwegian Krone (1%), Euro (0.71%), Swiss Franc (0.68%), British Pound (0.59%) and Japanese Yen (0.26%). Biggest losers are Dollar Index (-0.72%), Indian Rupee (-0.27%) and Australian Dollar (-0.26%)."
+    },
+    {
+      "id": "mkt:019faff1-ce01-7aab-8efa-be3dd1bd02e6",
+      "time": "2026-07-30 06:14:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Trump said the Supreme Court's adverse rulings on birthright citizenship and tariffs have cost the U.S. trillions of dollars and damaged its prestige."
+    },
+    {
+      "id": "mkt:019fafef-9619-7aab-8efa-b6d75a732c93",
+      "time": "2026-07-30 06:12:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Local witnesses reported explosions heard in Kyiv, Ukraine."
+    },
+    {
+      "id": "5015321",
+      "time": "2026-07-30 06:11:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭基輔傳出爆炸聲。"
+    },
+    {
+      "id": "5015320",
+      "time": "2026-07-30 06:11:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報58.17美元/盎司。"
+    },
     {
       "id": "mkt:019fafee-968b-7aab-8efa-aa95e20ec9b9",
       "time": "2026-07-30 06:11:16",
