@@ -1,7 +1,27 @@
 {
   "date": "2026-07-29",
-  "count": 3071,
+  "count": 3073,
   "items": [
+    {
+      "id": "te:markets:570818",
+      "time": "2026-07-29 23:59:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Dips on US-Iran Tensions and Mixed Earnings — The CAC 40 fell 0.6% to close at 8,408 on Wednesday as escalating Middle East tensions and a wave of corporate earnings weighed on sentiment. Oil prices rose after joint US-Saudi strikes in Iraq, fueling inflation concerns and pushing bond yields higher. BNP Paribas and AXA each lost 1.2%. In the luxury sector, Hermès plunged 11% after reporting first-half diluted EPS below expectations. LVMH fell 0.5%, while L'Oréal slipped 0.2% ahead of its earnings release. In contrast, Kering surged 16.9% after Gucci posted better-than-expected sales. Danone lost 2.3% despite solid results, while Legrand edged down 0.3% after reporting higher sales and net profit. Airbus slipped 1% ahead of releasing earnings that later beat estimates. Vinci is due to report on Thursday. TotalEnergies gained 2.8% as higher oil prices lifted energy shares."
+    },
+    {
+      "id": "5014887",
+      "time": "2026-07-29 23:59:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客：在接受出口管制調查後，已向英國稅務海關總署支付 640 萬英鎊和解金。"
+    },
     {
       "id": "mkt:019fae98-a806-7aab-8eef-8ecbce0d06c7",
       "time": "2026-07-29 23:57:47",
