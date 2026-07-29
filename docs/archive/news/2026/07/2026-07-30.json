@@ -1,7 +1,33 @@
 {
   "date": "2026-07-30",
-  "count": 921,
+  "count": 924,
   "items": [
+    {
+      "id": "5015368",
+      "time": "2026-07-30 07:20:05",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲助理主席Hunter：第二季度通脹率略低於預期。"
+    },
+    {
+      "id": "5015367",
+      "time": "2026-07-30 07:19:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：尼日審查獲批後，約3300萬美元資金將立即撥付。"
+    },
+    {
+      "id": "mkt:019fb02b-bff6-7aab-8efb-2febc02a395e",
+      "time": "2026-07-30 07:18:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI CFO: July annualized revenue already exceeds total revenue for the entire Q2."
+    },
     {
       "id": "5015366",
       "time": "2026-07-30 07:17:24",
