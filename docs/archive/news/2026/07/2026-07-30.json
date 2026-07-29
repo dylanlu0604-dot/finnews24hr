@@ -1,7 +1,19 @@
 {
   "date": "2026-07-30",
-  "count": 102,
+  "count": 103,
   "items": [
+    {
+      "id": "mkt:019faeea-7ca8-7aab-8ef1-002f2d7dd5bb",
+      "time": "2026-07-30 01:27:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "A spokesman for the commander-in-chief of the Iraqi Armed Forces said Iraq has demanded evidence that the attacks were launched from Iraqi territory."
+    },
     {
       "id": "mkt:019faee8-a2aa-7aab-8ef0-ffe0cd0adc5b",
       "time": "2026-07-30 01:25:09",
