@@ -1,7 +1,110 @@
 {
   "date": "2026-07-29",
-  "count": 1037,
+  "count": 1049,
   "items": [
+    {
+      "id": "mkt:019fabb7-d65c-7aab-8edb-f037f56dfbbd",
+      "time": "2026-07-29 10:32:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China CSI 1000 index futures (IM) front-month contract breached 7,000, up 1.15% intraday."
+    },
+    {
+      "id": "mkt:019fabb7-a4a4-7aab-8edb-eb8871df5edf",
+      "time": "2026-07-29 10:32:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Regional governor says an industrial facility in Ryazan, Russia caught fire after a drone strike."
+    },
+    {
+      "id": "5013490",
+      "time": "2026-07-29 10:32:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯梁贊州州長稱，當地一工業設施遭無人機襲擊後起火。"
+    },
+    {
+      "id": "mkt:019fabb6-92ee-7aab-8edb-e0857fe43428",
+      "time": "2026-07-29 10:31:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi Popular Mobilization Forces (PMF) said an attack killed several people and wounded many."
+    },
+    {
+      "id": "5013489",
+      "time": "2026-07-29 10:31:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克人民動員部隊(PMF)稱，襲擊造成數人死亡，另有多人受傷。"
+    },
+    {
+      "id": "mkt:019fabb6-249f-7aab-8edb-dfbdfc1839fb",
+      "time": "2026-07-29 10:31:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iraq's Popular Mobilization Forces (PMF) said US and Saudi forces struck its headquarters across Iraq."
+    },
+    {
+      "id": "5013488",
+      "time": "2026-07-29 10:31:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI釋出開源版Codex Security CLI】OpenAI當地時間7月28日在社交媒體平臺X發文稱，已釋出開源版Codex Security CLI。使用者現可利用該工具掃描程式碼倉庫、跨多次執行追蹤發現的問題、驗證修復結果，並將安全檢查納入持續整合和持續交付（CI/CD）流程。OpenAI表示，該產品目前仍處於早期釋出階段，未來將根據使用者反饋持續改進。"
+    },
+    {
+      "id": "5013487",
+      "time": "2026-07-29 10:30:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【三大指數全部翻紅 上漲個股近4000只】市場探底回升，三大指數全部拉昇翻紅。乳業、教育、食品飲料、零售、油氣等方向漲幅居前，滬深京三市上漲個股近4000只。"
+    },
+    {
+      "id": "5013486",
+      "time": "2026-07-29 10:30:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "鋰電池板塊震盪拉昇，孚日股份漲停，欣旺達、天宏鋰電、國軒高科、孚能科技、時代萬恆、鵬輝能源跟漲。"
+    },
+    {
+      "id": "5013485",
+      "time": "2026-07-29 10:30:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "ISPACE與三菱重工簽署發射服務協議。"
+    },
+    {
+      "id": "5013484",
+      "time": "2026-07-29 10:30:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報58.10美元/盎司。"
+    },
+    {
+      "id": "5013483",
+      "time": "2026-07-29 10:30:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破58美元/盎司，日內漲0.83%。"
+    },
     {
       "id": "te:markets:570577",
       "time": "2026-07-29 10:28:46",
