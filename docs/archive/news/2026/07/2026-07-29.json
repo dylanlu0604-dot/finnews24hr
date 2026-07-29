@@ -1,7 +1,101 @@
 {
   "date": "2026-07-29",
-  "count": 3029,
+  "count": 3038,
   "items": [
+    {
+      "id": "5014869",
+      "time": "2026-07-29 23:34:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美以閉門會談無實質成果 戰略節奏存差異】美國總統特朗普當地時間28日在白宮同到訪的以色列總理內塔尼亞胡舉行會談，這是今年美伊衝突升級以來，兩國領導人的首次面對面會談。雖然美以官方均稱會談“積極”且“富有成果”，但從公開資訊和兩國媒體披露的細節來看，這場會晤最大的特點，就是沒有具體成果，美以圍繞中東局勢走向的戰略分歧也進一步顯現。 (央視新聞)"
+    },
+    {
+      "id": "5014868",
+      "time": "2026-07-29 23:34:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部： 霍爾木茲海峽屬於國際航道。伊朗伊斯蘭革命衛隊無權強制規定海上自由通行路線。在美國軍方護航支援下，各類商船持續正常通行海峽。自 5 月初以來，美軍中央司令部部隊已護航約 1000 艘船舶、合計 5 億桶原油順利透過這條狹窄水道。"
+    },
+    {
+      "id": "mkt:019fae82-620e-7aab-8eef-073c976cf3d5",
+      "time": "2026-07-29 23:33:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 4-month Treasury auction on July 29: bid-cover ratio 3.04, prior 2.76."
+    },
+    {
+      "id": "mkt:019fae82-3a89-7aab-8eee-ffc76c5a0001",
+      "time": "2026-07-29 23:33:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 4-month Treasury auction on July 29: 22.52% of allotment awarded at the stop-out (winning) rate, down from 63.29% previously."
+    },
+    {
+      "id": "mkt:019fae82-2b2b-7aab-8eee-f56540d3b366",
+      "time": "2026-07-29 23:33:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Jul.29) | actual 3.04 | previous 2.76"
+    },
+    {
+      "id": "mkt:019fae82-1f85-7aab-8eee-eef2bc8a68d3",
+      "time": "2026-07-29 23:33:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "US 4-month Treasury bill auction for settlement July 29 — stop-out yield 3.875%, previous 3.85%."
+    },
+    {
+      "id": "mkt:019fae81-f398-7aab-8eee-e5b7f7251d32",
+      "time": "2026-07-29 23:32:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Jul.29) | actual 3.875% | previous 3.85%"
+    },
+    {
+      "id": "5014867",
+      "time": "2026-07-29 23:32:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期浮動利率債券貼現率為0.050%。"
+    },
+    {
+      "id": "5014866",
+      "time": "2026-07-29 23:32:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤多數下跌】歐洲主要股指收盤多數下跌，英國富時100指數漲0.24%，法國CAC40指數跌0.70%，德國DAX30指數跌0.06%，富時義大利MIB指數跌0.57%。"
+    },
     {
       "id": "5014865",
       "time": "2026-07-29 23:26:31",
