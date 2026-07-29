@@ -1,7 +1,88 @@
 {
-  "updated": "2026-07-30 02:54:50",
-  "count": 17591,
+  "updated": "2026-07-30 02:58:52",
+  "count": 17597,
   "items": [
+    {
+      "id": "5015060",
+      "time": "2026-07-30 02:57:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 人工智慧領域資本支出激增，短期內加大了上述判斷的難度。"
+    },
+    {
+      "id": "5015059",
+      "time": "2026-07-30 02:57:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 持異議者的觀點，交由他們自行闡述。"
+    },
+    {
+      "id": "5015058",
+      "time": "2026-07-30 02:57:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：就充分就業而言，我們國家做得相當不錯。我們在價格方面做得差很多。"
+    },
+    {
+      "id": "5015057",
+      "time": "2026-07-30 02:56:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我認為我們對總供給與總需求狀況已有較為清晰的判斷。"
+    },
+    {
+      "id": "5015056",
+      "time": "2026-07-30 02:56:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：高通脹期會對勞動力市場造成損害。"
+    },
+    {
+      "id": "5015055",
+      "time": "2026-07-30 02:56:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：現階段就業目標推進情況尚可。"
+    },
+    {
+      "id": "5015054",
+      "time": "2026-07-30 02:56:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 落實雙重政策目標，二者缺一不可。"
+    },
+    {
+      "id": "5015053",
+      "time": "2026-07-30 02:55:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我認為政策目標並非二者擇一的選擇題。"
+    },
+    {
+      "id": "5015052",
+      "time": "2026-07-30 02:55:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我認為兩大政策目標之間並不存在衝突。"
+    },
     {
       "id": "te:economy:570850",
       "time": "2026-07-30 02:54:04",
@@ -162043,35 +162124,6 @@
         "META.O"
       ],
       "text": "Meta Platforms (META.O): A minor plaintiff who alleged Meta harmed their mental health withdrew the lawsuit days before trial."
-    },
-    {
-      "id": "5002962",
-      "time": "2026-07-23 02:58:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉：巴西的出口成績清楚地表明，我們有條件從這場危機中變得更加強大。"
-    },
-    {
-      "id": "5002961",
-      "time": "2026-07-23 02:57:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "百勝餐飲集團股價轉跌，抹去了此前高達2%的漲幅。"
-    },
-    {
-      "id": "mkt:019f8b30-bcf6-7aab-8e50-34a60f9cccd5",
-      "time": "2026-07-23 02:57:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Iran urges Europe to condemn 'aggression', warns against allowing US use of bases】Iran's deputy foreign minister told ambassadors and chargés from 25 European countries that recent US military action had gained no strategic benefit and instead threatens regional and global peace and security. He urged European states to uphold the UN Charter and international law and to condemn what Tehran called 'aggression' against Iran. Tehran said some European countries, including Spain, have not followed the US position and have taken different approaches. It warned that any provision of bases or territory to the United States would be considered participation in the conflict. Iran added it inflicted heavy damage on the 'invaders' during a prior 40-day war and will continue to defend national interests in any new round of military operations."
     }
   ]
 }
