@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-30 05:37:01",
-  "count": 17784,
+  "updated": "2026-07-30 05:40:51",
+  "count": 17777,
   "items": [
+    {
+      "id": "5015273",
+      "time": "2026-07-30 05:39:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "五角大樓向通用動力與亨廷頓英格爾斯工業授予總額最高766億美元合同，用於擴產美軍主力核潛艇並開展船廠基礎設施升級。訊息公佈後，盤後交易中通用動力股價上漲2.4%，亨廷頓英格爾斯漲幅2%。"
+    },
+    {
+      "id": "5015272",
+      "time": "2026-07-30 05:38:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟執行長表示，本季度在五大洲新增31個資料中心，使今年總數達到88個。"
+    },
+    {
+      "id": "te:economy:570887",
+      "time": "2026-07-30 05:37:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "South Korea Manufacturing Sentiment Improves — South Korea’s manufacturing Business Survey Index rose to 82 in July 2026 from 78 in June, signaling improved business sentiment. The production index increased to 93 from 90, while the new orders index rose to 91 from 88. Meanwhile, the inventories index edged up to 100 from 99, and the financial situation index improved to 81 from 79. The Composite Business Sentiment Index for manufacturing increased 2.0 points from the previous month to 103.2, while the outlook for the following month rose 2.3 points to 100.5."
+    },
     {
       "id": "5015271",
       "time": "2026-07-30 05:35:23",
@@ -163949,113 +163977,6 @@
         "Europe & UK"
       ],
       "text": "UK Prime Minister Burnham appoints Jo White as Parliamentary Under-Secretary of State at the Home Office."
-    },
-    {
-      "id": "mkt:019f8bc5-e26e-7aab-8e52-facac3be1f53",
-      "time": "2026-07-23 05:40:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "TSLA.O",
-        "Impact bearish"
-      ],
-      "text": "Tesla CEO Elon Musk said scaling production of the Optimus robot will be difficult."
-    },
-    {
-      "id": "5003088",
-      "time": "2026-07-23 05:39:51",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "特斯拉CEO埃隆·馬斯克： Optimus 人形機器人將是特斯拉最難量產擴產的產品。"
-    },
-    {
-      "id": "mkt:019f8bc4-ddf9-7aab-8e52-f30a977ea493",
-      "time": "2026-07-23 05:39:22",
-      "tags": [
-        "MKT News",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Tesla CEO Elon Musk said he expects demand to rise as FSD gains approval in additional countries."
-    },
-    {
-      "id": "5003087",
-      "time": "2026-07-23 05:39:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "特斯拉CEO埃隆·馬斯克：隨著FSD陸續獲得各國監管批准，市場需求將進一步攀升。"
-    },
-    {
-      "id": "mkt:019f8bc4-34c3-7aab-8e52-efa5466f0424",
-      "time": "2026-07-23 05:38:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Financial Times: Under an EU sanctions package targeting Moscow set to be agreed, Greek shipper Dynagas will be permitted to continue transporting Russian liquefied natural gas (LNG)."
-    },
-    {
-      "id": "mkt:019f8bc4-1863-7aab-8e52-e6c44bbea7c0",
-      "time": "2026-07-23 05:38:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "Financial Times reports that as the EU prepares to finalize a new sanctions package, transportation of Russian gas will continue to be exempt."
-    },
-    {
-      "id": "mkt:019f8bc3-a63c-7aab-8e52-dbbb294954ec",
-      "time": "2026-07-23 05:38:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Tesla CEO Elon Musk said the company is confident current spending will deliver its best capex returns to date."
-    },
-    {
-      "id": "5003086",
-      "time": "2026-07-23 05:37:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "特斯拉CEO埃隆·馬斯克：公司將持續快速擴大Robotaxi運營規模，特斯拉需謹慎對待事故。"
-    },
-    {
-      "id": "5003085",
-      "time": "2026-07-23 05:37:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：歐盟即將達成新一輪制裁協議，俄羅斯天然氣貨運仍將獲得豁免。"
-    },
-    {
-      "id": "mkt:019f8bc2-f9cf-7aab-8e52-d5268dcbd3ae",
-      "time": "2026-07-23 05:37:18",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Tesla CEO Elon Musk said this year will be a year of significant capex."
     }
   ]
 }

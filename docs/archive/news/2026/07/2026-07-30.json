@@ -1,7 +1,35 @@
 {
   "date": "2026-07-30",
-  "count": 782,
+  "count": 785,
   "items": [
+    {
+      "id": "5015273",
+      "time": "2026-07-30 05:39:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "五角大樓向通用動力與亨廷頓英格爾斯工業授予總額最高766億美元合同，用於擴產美軍主力核潛艇並開展船廠基礎設施升級。訊息公佈後，盤後交易中通用動力股價上漲2.4%，亨廷頓英格爾斯漲幅2%。"
+    },
+    {
+      "id": "5015272",
+      "time": "2026-07-30 05:38:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟執行長表示，本季度在五大洲新增31個資料中心，使今年總數達到88個。"
+    },
+    {
+      "id": "te:economy:570887",
+      "time": "2026-07-30 05:37:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "South Korea Manufacturing Sentiment Improves — South Korea’s manufacturing Business Survey Index rose to 82 in July 2026 from 78 in June, signaling improved business sentiment. The production index increased to 93 from 90, while the new orders index rose to 91 from 88. Meanwhile, the inventories index edged up to 100 from 99, and the financial situation index improved to 81 from 79. The Composite Business Sentiment Index for manufacturing increased 2.0 points from the previous month to 103.2, while the outlook for the following month rose 2.3 points to 100.5."
+    },
     {
       "id": "5015271",
       "time": "2026-07-30 05:35:23",
