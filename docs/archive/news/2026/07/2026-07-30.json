@@ -1,7 +1,27 @@
 {
   "date": "2026-07-30",
-  "count": 866,
+  "count": 868,
   "items": [
+    {
+      "id": "mkt:019faffb-0131-7aab-8efa-c1e1f650ce1c",
+      "time": "2026-07-30 06:24:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Kyiv mayor Klitschko says the city is being struck by ballistic missiles and further attacks remain possible; residents urged to stay in shelters."
+    },
+    {
+      "id": "5015328",
+      "time": "2026-07-30 06:24:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：馬自達將對泰國工廠投資規模提升至原來1.5倍。"
+    },
     {
       "id": "5015327",
       "time": "2026-07-30 06:20:57",
