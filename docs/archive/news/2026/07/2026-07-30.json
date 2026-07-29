@@ -1,7 +1,29 @@
 {
   "date": "2026-07-30",
-  "count": 23,
+  "count": 25,
   "items": [
+    {
+      "id": "te:markets:570827",
+      "time": "2026-07-30 00:22:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Edges Down — The FTSE MIB declined 0.5% to 51,443 on Wednesday, as renewed tensions in the Middle East reignited risk aversion across sectors. Utilities led the losses as higher natural gas prices dented the outlook on margins, with Italgas (-4.5%) being the worst performer on the index. Lottomatica Group dropped 4%. STMicroelectronics lost 3.6% as investors continued to reassess lofty valuations in AI, magnified by SK Hynix missing their outlook. Banking shares traded lower as sovereign yields climbed alongside oil prices, reflecting mounting inflation concerns. The BTP-Bund spread widened to 84 basis points, weighing on the sector, led by UniCredit (-2.2%). On the upside, Eni outperformed, advancing 7.1% after reporting that second-quarter net profit more than doubled, supported by stronger oil prices. Elsewhere, Stellantis (4.2%) and Nexi (3.4%) extended recent gains."
+    },
+    {
+      "id": "mkt:019faead-248e-7aab-8eef-ba8e4368b16d",
+      "time": "2026-07-30 00:20:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Energos confirmed a fire aboard an Egyptian LNG carrier and said Egyptian authorities have contained the blaze."
+    },
     {
       "id": "te:markets:570826",
       "time": "2026-07-30 00:16:59",

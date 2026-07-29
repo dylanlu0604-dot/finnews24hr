@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-30 00:19:39",
-  "count": 17440,
+  "updated": "2026-07-30 00:23:42",
+  "count": 17435,
   "items": [
+    {
+      "id": "te:markets:570827",
+      "time": "2026-07-30 00:22:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Edges Down — The FTSE MIB declined 0.5% to 51,443 on Wednesday, as renewed tensions in the Middle East reignited risk aversion across sectors. Utilities led the losses as higher natural gas prices dented the outlook on margins, with Italgas (-4.5%) being the worst performer on the index. Lottomatica Group dropped 4%. STMicroelectronics lost 3.6% as investors continued to reassess lofty valuations in AI, magnified by SK Hynix missing their outlook. Banking shares traded lower as sovereign yields climbed alongside oil prices, reflecting mounting inflation concerns. The BTP-Bund spread widened to 84 basis points, weighing on the sector, led by UniCredit (-2.2%). On the upside, Eni outperformed, advancing 7.1% after reporting that second-quarter net profit more than doubled, supported by stronger oil prices. Elsewhere, Stellantis (4.2%) and Nexi (3.4%) extended recent gains."
+    },
+    {
+      "id": "mkt:019faead-248e-7aab-8eef-ba8e4368b16d",
+      "time": "2026-07-30 00:20:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Energos confirmed a fire aboard an Egyptian LNG carrier and said Egyptian authorities have contained the blaze."
+    },
     {
       "id": "te:markets:570826",
       "time": "2026-07-30 00:16:59",
@@ -160199,66 +160221,6 @@
         "Europe & UK"
       ],
       "text": "UK Chancellor Healy says primary task is fiscal discipline."
-    },
-    {
-      "id": "5002850",
-      "time": "2026-07-23 00:22:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "官方資料顯示，俄羅斯6月石油製品與焦炭產量同比下降21.7%。"
-    },
-    {
-      "id": "5002849",
-      "time": "2026-07-23 00:22:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國財政大臣希利表示，首要任務是嚴守財政紀律。"
-    },
-    {
-      "id": "mkt:019f8aa2-6d9a-7aab-8e4d-aec2be1ca573",
-      "time": "2026-07-23 00:22:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy discussed the possibility of resuming negotiations with Russia with US Middle East envoy Witkoff and Jared Kushner."
-    },
-    {
-      "id": "mkt:019f8aa2-199d-7aab-8e4d-a10897c8c62a",
-      "time": "2026-07-23 00:21:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Washington Post: Trump administration weighing military action in Mali】The Washington Post, citing current and former U.S. officials, reports the Trump administration is considering military action in Mali to target JNIM (Group for Support of Islam and Muslims), an al-Qaeda-linked group. If approved, Mali would be the eighth country in which Trump has ordered airstrikes in his second term. Senior U.S. officials are divided on striking the group; National Security Council counterterrorism director Sebastian Gorka is a prominent advocate for using force. A White House official declined to say whether the president intends to order strikes, and said the U.S. has been urging North and West African governments to purchase U.S. equipment and services to support counterterrorism operations."
-    },
-    {
-      "id": "5002848",
-      "time": "2026-07-23 00:21:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏美簽署無人機協議首批檔案，烏無人機將赴美測試。"
-    },
-    {
-      "id": "te:economy:568942",
-      "time": "2026-07-23 00:19:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Russia Industrial Production Rebounds in June — Industrial production in Russia rose 0.6% year-on-year in June 2026, rebounding from a revised 0.7% decline in May and exceeding market expectations of a 0.1% increase. Manufacturing was the main driver, with output growth accelerating to 2.6% from 0.5%. Elsewhere, contractions eased in mining, to a 2.4% drop following a 2.7% decline, electricity, gas, steam and air conditioning supply (-1.4% vs. -2.2%), and water supply, sewerage, waste management and remediation activities (-1.2% vs. -3.4%). On a seasonally adjusted monthly basis, industrial production edged up 0.1%, following a 0.8% decline in May. In the first half of 2026, industrial output increased 0.4% compared with the same period a year earlier."
-    },
-    {
-      "id": "mkt:019f8aa0-266e-7aab-8e4d-9c0d91b43220",
-      "time": "2026-07-23 00:19:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tasnim News Agency reported explosions heard in Erbil, Iraq."
     }
   ]
 }
