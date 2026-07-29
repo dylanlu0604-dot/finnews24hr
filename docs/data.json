@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-30 03:49:45",
-  "count": 17756,
+  "updated": "2026-07-30 03:53:35",
+  "count": 17754,
   "items": [
+    {
+      "id": "5015170",
+      "time": "2026-07-30 03:52:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭空軍一架F-16戰機墜毀】當地時間7月29日，烏克蘭空軍通報稱，烏空軍一架F-16戰鬥機當天在前線墜毀。通報表示，該架戰機在執行攔截敵方空中目標的戰鬥任務時失聯。根據初步訊息，當時機上發生非正常情況，飛行員被迫彈射逃生。飛行員目前處於安全狀態，已被撤離並送往醫療機構進行檢查。同時，相關部門已開始調查事故原因。該事件沒有造成地面人員傷亡和財產損失。"
+    },
+    {
+      "id": "5015169",
+      "time": "2026-07-30 03:52:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特國防部長週三在白宮會見副總統萬斯，其強調儘管美沙聯軍對伊拉克境內民兵組織實施聯合打擊，但依舊支援推動與伊朗局勢降溫。"
+    },
+    {
+      "id": "5015168",
+      "time": "2026-07-30 03:50:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國考慮推遲甚至可能阻止新任法國駐華盛頓大使的任命，該大使原定於9月1日開始任職。"
+    },
+    {
+      "id": "mkt:019faf6d-5a68-7aab-8ef8-3344ef6b60b2",
+      "time": "2026-07-30 03:50:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market update: Canada’s prime minister Carney dismissed proposals to restrict supplies of critical resources to the United States as retaliation for U.S. tariff policy."
+    },
+    {
+      "id": "mkt:019faf6d-4ec8-7aab-8ef8-2fca6eae1fd2",
+      "time": "2026-07-30 03:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact mixed",
+        "META.O",
+        "QCOM.O"
+      ],
+      "text": "Meta, Microsoft, Qualcomm and Arm will report Q2 2026 earnings after the US market close."
+    },
     {
       "id": "te:markets:570864",
       "time": "2026-07-30 03:48:03",
@@ -163707,65 +163757,6 @@
         "USDJPY"
       ],
       "text": "【Dollar index slips on 22nd】The dollar index, which measures the U.S. dollar against six major currencies, fell 0.05% to 101.125 at the New York close on the 22nd. At the close, EUR/USD was 1.1411 (prev. 1.1403); GBP/USD 1.3373 (prev. 1.3381); USD/JPY 163.13 (prev. 163.18); USD/CHF 0.8146 (prev. 0.8129); USD/CAD 1.4085 (prev. 1.4107); USD/SEK 9.7014 (prev. 9.7035)."
-    },
-    {
-      "id": "5002998",
-      "time": "2026-07-23 03:53:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗遭受沉重打擊，他們現在希望達成協議。"
-    },
-    {
-      "id": "5002997",
-      "time": "2026-07-23 03:53:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數22日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.05%，在匯市尾市收於101.125。截至紐約匯市尾市，1歐元兌換1.1411美元，高於前一交易日的1.1403美元；1英鎊兌換1.3373美元，低於前一交易日的1.3381美元。1美元兌換163.13日元，低於前一交易日的163.18日元；1美元兌換0.8146瑞士法郎，高於前一交易日的0.8129瑞士法郎；1美元兌換1.4085加元，低於前一交易日的1.4107加元；1美元兌換9.7014瑞典克朗，低於前一交易日的9.7035瑞典克朗。"
-    },
-    {
-      "id": "5002996",
-      "time": "2026-07-23 03:52:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普大力宣傳雅馬哈發動機的投資專案。"
-    },
-    {
-      "id": "5002995",
-      "time": "2026-07-23 03:50:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：優時比（UCB）將在佐治亞州投資，製藥產業正在迴流美國本土。"
-    },
-    {
-      "id": "mkt:019f8b61-5887-7aab-8e51-0c0f84dc3da9",
-      "time": "2026-07-23 03:50:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan finance minister welcomed a U.S. Export-Import Bank proposal to establish a broader framework to integrate related projects and create a multi-year pipeline of transaction-ready projects."
-    },
-    {
-      "id": "5002994",
-      "time": "2026-07-23 03:49:55",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "巴基斯坦財政部長：歡迎美國進出口銀行提出搭建更廣泛合作框架，整合各類專案、構建多年期專案儲備清單的提議。"
-    },
-    {
-      "id": "mkt:019f8b60-9bb9-7aab-8e51-041f1cfd072c",
-      "time": "2026-07-23 03:49:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Pakistan's finance minister met with the president of the U.S. Export-Import Bank, the finance ministry said."
     }
   ]
 }

@@ -1,7 +1,57 @@
 {
   "date": "2026-07-30",
-  "count": 602,
+  "count": 607,
   "items": [
+    {
+      "id": "5015170",
+      "time": "2026-07-30 03:52:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭空軍一架F-16戰機墜毀】當地時間7月29日，烏克蘭空軍通報稱，烏空軍一架F-16戰鬥機當天在前線墜毀。通報表示，該架戰機在執行攔截敵方空中目標的戰鬥任務時失聯。根據初步訊息，當時機上發生非正常情況，飛行員被迫彈射逃生。飛行員目前處於安全狀態，已被撤離並送往醫療機構進行檢查。同時，相關部門已開始調查事故原因。該事件沒有造成地面人員傷亡和財產損失。"
+    },
+    {
+      "id": "5015169",
+      "time": "2026-07-30 03:52:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特國防部長週三在白宮會見副總統萬斯，其強調儘管美沙聯軍對伊拉克境內民兵組織實施聯合打擊，但依舊支援推動與伊朗局勢降溫。"
+    },
+    {
+      "id": "5015168",
+      "time": "2026-07-30 03:50:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國考慮推遲甚至可能阻止新任法國駐華盛頓大使的任命，該大使原定於9月1日開始任職。"
+    },
+    {
+      "id": "mkt:019faf6d-5a68-7aab-8ef8-3344ef6b60b2",
+      "time": "2026-07-30 03:50:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market update: Canada’s prime minister Carney dismissed proposals to restrict supplies of critical resources to the United States as retaliation for U.S. tariff policy."
+    },
+    {
+      "id": "mkt:019faf6d-4ec8-7aab-8ef8-2fca6eae1fd2",
+      "time": "2026-07-30 03:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact mixed",
+        "META.O",
+        "QCOM.O"
+      ],
+      "text": "Meta, Microsoft, Qualcomm and Arm will report Q2 2026 earnings after the US market close."
+    },
     {
       "id": "te:markets:570864",
       "time": "2026-07-30 03:48:03",
