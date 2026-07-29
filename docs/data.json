@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-30 02:14:56",
-  "count": 17473,
+  "updated": "2026-07-30 02:18:52",
+  "count": 17472,
   "items": [
+    {
+      "id": "mkt:019faf18-b24e-7aab-8ef2-8027661e9329",
+      "time": "2026-07-30 02:17:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "A Brazil finance ministry official said the government may revise its annual financing plan in September and could expand issuance of floating-rate bonds linked to the Selic rate."
+    },
+    {
+      "id": "mkt:019faf17-8427-7aab-8ef2-7f7604e5cc9a",
+      "time": "2026-07-30 02:16:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【Dissenters' list unexpectedly published; September meeting seen as battleground】The Fed's policy statement unexpectedly named dissenters — Hammack, Kashkari and Logan — after earlier speculation the statement would omit individual names. June's statement similarly did not list voters because the vote was unanimous, though the use of “12-0” then already departed from prior practice. Market focus has shifted to the September meeting, where markets expect true rate-hike pressure to emerge; that meeting falls in the heart of midterm election season, making the political contest over further tightening a key watchpoint."
+    },
+    {
+      "id": "5014972",
+      "time": "2026-07-30 02:16:13",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲連續五次按兵不動，決議宣告稱：洛根等三人傾向於加息】美國聯邦公開市場委員會（FOMC）以9票贊成、3票反對的結果批准釋出以下宣告：\n為支援美聯儲的雙重使命，委員會決定將聯邦基金利率的目標區間維持在3.5%-3.75%不變。委員會將繼續執行在銀行體系中維持充裕準備金的政策。\n儘管中東衝突等因素導致不確定性處於高位，美國經濟活動仍以穩健的步伐擴張。生產率增長和資本投資表現強勁。新增就業與勞動力規模擴張保持同步，失業率變化不大。\n通脹水平相對於委員會設定的2%目標仍然偏高，部分原因在於供應衝擊推動了包括能源在內的某些行業價格上漲。委員會將致力於實現價格穩定。\n反對本次貨幣政策行動的委員包括：貝絲·M·哈馬克（Beth M. Hammack）、尼爾·卡什卡利（Neel Kashkari）和洛麗·K·洛根（Lorie K. Logan）。他們傾向於在本次會議上將聯邦基金利率的目標區間上調25個基點。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825509257",
+      "time": "2026-07-30 02:15:13",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "“美聯儲喉舌”NickTimiraos在社媒上表示，這是自2016年以來，美聯儲首次在同一次政策決議中出現三張“方向一致”的反對票。"
+    },
+    {
+      "id": "te:markets:570840",
+      "time": "2026-07-30 02:15:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Spikes by 7.58% — Top commodity gainers are Brent Crude Oil (7.58%), Crude Oil WTI (6.78%) and Natural Gas EU (5.10%)."
+    },
     {
       "id": "mkt:019faf14-97be-7aab-8ef2-75aa538c95b5",
       "time": "2026-07-30 02:13:10",
@@ -160691,71 +160746,6 @@
         "AI Revolution"
       ],
       "text": "Programming startup Cursor launched an intelligent model router that automatically selects the most suitable AI model for a given task."
-    },
-    {
-      "id": "5002926",
-      "time": "2026-07-23 02:18:38",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國眾議院正在審議禁止國會議員進行股票交易的法案。"
-    },
-    {
-      "id": "5002925",
-      "time": "2026-07-23 02:17:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉達成相關協議，巴蒂斯塔家族獲得該國石油儲備開採許可權。"
-    },
-    {
-      "id": "mkt:019f8b0c-0a58-7aab-8e4f-78f20510730b",
-      "time": "2026-07-23 02:17:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "TASNIM NEWS reported the Islamic Revolutionary Guard Corps Aerospace Force commander said Iran would cut electricity supplies to US regional allies if its bridges or power plants were attacked."
-    },
-    {
-      "id": "mkt:019f8b0c-06b6-7aab-8e4f-74f84e8a8a21",
-      "time": "2026-07-23 02:17:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "PARA.O",
-        "Impact bullish",
-        "WBD.O"
-      ],
-      "text": "【EU clears Paramount-Skydance $110bn acquisition of Warner Bros】The European Commission approved Paramount-Skydance's roughly $110bn takeover of Warner Bros after the buyer agreed to sell its stake in a European film-distribution joint venture with Universal and to refrain from any film-distribution agreements with Universal in Europe for 10 years. The Commission said the commitments address its competition concerns and ensure the combined group's films will not be co-distributed with Universal or Disney."
-    },
-    {
-      "id": "5002924",
-      "time": "2026-07-23 02:16:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗革命衛隊航空航天司令穆薩維發出警告：倘若伊朗的橋樑或發電廠遇襲，伊朗將切斷美國在該地區盟友的電力供應。"
-    },
-    {
-      "id": "te:markets:568955",
-      "time": "2026-07-23 02:15:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas EU Spikes by 5.01% — Top commodity gainers are Natural Gas EU (5.01%), Germany Natural Gas THE (4.69%), Natural Gas UK (4.61%), Brent Crude Oil (3.23%) and Crude Oil WTI (2.92%). Biggest losers are Coking Coal (-1.78%) and Propane (-1.64%)."
     }
   ]
 }
