@@ -1,7 +1,23 @@
 {
   "date": "2026-07-30",
-  "count": 754,
+  "count": 755,
   "items": [
+    {
+      "id": "mkt:019fafb7-d4ff-7aab-8ef9-d683e97e41ba",
+      "time": "2026-07-30 05:11:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Meta Platforms (META.O) extended after-hours losses to 10%."
+    },
     {
       "id": "mkt:019fafb5-8c6b-7aab-8ef9-cd7bf33006b5",
       "time": "2026-07-30 05:08:58",

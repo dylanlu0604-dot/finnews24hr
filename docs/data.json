@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-30 05:09:57",
-  "count": 17788,
+  "updated": "2026-07-30 05:13:47",
+  "count": 17782,
   "items": [
+    {
+      "id": "mkt:019fafb7-d4ff-7aab-8ef9-d683e97e41ba",
+      "time": "2026-07-30 05:11:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Meta Platforms (META.O) extended after-hours losses to 10%."
+    },
     {
       "id": "mkt:019fafb5-8c6b-7aab-8ef9-cd7bf33006b5",
       "time": "2026-07-30 05:08:58",
@@ -164033,78 +164049,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收漲0.31%，報15203點。"
-    },
-    {
-      "id": "mkt:019f8bac-8ffb-7aab-8e52-82458b887774",
-      "time": "2026-07-23 05:12:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Tanker attacked 70 nautical miles off Saudi coast】UK Maritime Trade Operations received a report of an incident 70 nautical miles from Al Shuqaiq, Saudi Arabia. The tanker’s master reported the vessel was struck by an unspecified projectile and caught fire; crew are fighting the blaze."
-    },
-    {
-      "id": "5003067",
-      "time": "2026-07-23 05:12:23",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "英國海上貿易行動辦公室（UKMTO）：一艘油輪船長報告船隻遭不明投射物擊中，船體已起火，船員正在全力滅火。暫無人員傷亡報告，也未造成環境影響。"
-    },
-    {
-      "id": "5003066",
-      "time": "2026-07-23 05:12:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "Alphabet：谷歌正全力訓練 Gemini 4 大模型。"
-    },
-    {
-      "id": "mkt:019f8baa-f757-7aab-8e52-7e7d6ff04c8e",
-      "time": "2026-07-23 05:11:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "Semafor reports Intel is seeking an operating partner for its Ohio chip fab; SK Hynix is considering a partnership with Intel."
-    },
-    {
-      "id": "mkt:019f8baa-81f7-7aab-8e52-769e2226c515",
-      "time": "2026-07-23 05:10:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "IBM.O",
-        "Impact bullish"
-      ],
-      "text": "Anthropic CEO said Mythos could create a potential tens-of-billions-of-dollars TAM for IBM and Red Hat."
-    },
-    {
-      "id": "5003065",
-      "time": "2026-07-23 05:10:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic 執行長表示，旗下 Mythos 大模型為 IBM 與紅帽開闢了規模達數十億美元的潛在市場空間（TAM）。"
-    },
-    {
-      "id": "5003064",
-      "time": "2026-07-23 05:10:06",
-      "tags": [
-        "公司",
-        "其他",
-        "國際"
-      ],
-      "text": "市場訊息：英特爾正為俄亥俄州晶片工廠尋找運營合作方，SK 海力士是合作候選企業之一。"
     }
   ]
 }
