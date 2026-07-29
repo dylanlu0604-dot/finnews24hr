@@ -1,7 +1,110 @@
 {
   "date": "2026-07-29",
-  "count": 2335,
+  "count": 2346,
   "items": [
+    {
+      "id": "5014422",
+      "time": "2026-07-29 18:49:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【羅馬尼亞康斯坦察港收到炸彈威脅 人員疏散】羅馬尼亞康斯坦察港客運站大樓接到炸彈恐嚇電話，相關區域人員已被疏散。康斯坦察港已實行出入限制，警方、消防部門和其他緊急救援人員抵達現場，目前正在進行全面調查。（央視新聞）"
+    },
+    {
+      "id": "5014421",
+      "time": "2026-07-29 18:48:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神火股份：持股5%以上股東減持計劃實施完畢】神火股份公告稱，股東商丘市普天工貿有限公司減持計劃已實施完畢。2026年5月15日至7月29日，普天工貿透過集中競價和大宗交易方式，累計減持2899.993萬股，佔公司總股本的1.29%，佔剔除後總股本的1.30%。減持後，普天工貿仍持有1.43億股，佔總股本6.35%，仍是公司持股5%以上股東，不會對公司治理和經營產生不利影響。"
+    },
+    {
+      "id": "mkt:019fad7d-848b-7aab-8ee7-d0eb6810924f",
+      "time": "2026-07-29 18:48:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iranian state media report U.S. airstrike on Iran-Iraq border area】Iran's state TV reported on July 29 that a U.S. airstrike hit the border area around Piranshahr in West Azerbaijan province this afternoon local time."
+    },
+    {
+      "id": "5014420",
+      "time": "2026-07-29 18:48:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊媒稱美空襲伊朗與伊拉克邊境地區】伊朗國家電視臺今天（7月29日）報道稱，當地時間今天下午，伊朗西亞塞拜然省皮蘭沙赫爾市邊境地帶遭到美國空襲。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019fad7d-2e3a-7aab-8ee7-c947df1f8c2d",
+      "time": "2026-07-29 18:48:09",
+      "tags": [
+        "MKT News",
+        "V.N",
+        "Impact bullish"
+      ],
+      "text": "BMO raises PT on Visa (V.N) to $405 from $387."
+    },
+    {
+      "id": "mkt:019fad7d-0774-7aab-8ee7-c3925cc3e981",
+      "time": "2026-07-29 18:47:59",
+      "tags": [
+        "MKT News",
+        "PYPL.O",
+        "Impact bullish"
+      ],
+      "text": "BMO raises PayPal (PYPL.O) PT to $56 from $46."
+    },
+    {
+      "id": "5014418",
+      "time": "2026-07-29 18:46:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "萊茵金屬公司釋出第二季度業績更新後，股價繼續上漲至5.7%。"
+    },
+    {
+      "id": "mkt:019fad7b-77eb-7aab-8ee7-bf6a370c6a8a",
+      "time": "2026-07-29 18:46:17",
+      "tags": [
+        "MKT News",
+        "PYPL.O",
+        "Impact bullish"
+      ],
+      "text": "MIZUHO raises PayPal (PYPL.O) PT to $60 from $50."
+    },
+    {
+      "id": "5014417",
+      "time": "2026-07-29 18:46:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗法爾斯通訊社29日援引伊朗西亞塞拜然省官員的話報道稱，“敵方導彈”擊中該省一處無人居住的區域，未造成人員傷亡。（新華社）"
+    },
+    {
+      "id": "5014416",
+      "time": "2026-07-29 18:46:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞穗證券Paypal將目標價由 50 美元上調至 60 美元。"
+    },
+    {
+      "id": "te:markets:570758",
+      "time": "2026-07-29 18:45:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Sugar Remains Subdued as Global Supply Outlook Weighs — Sugar prices have been fluctuating below 15 cents per pound, remaining more than 10% lower than a year ago, as expectations of abundant global supplies continue to outweigh emerging production risks. The main bearish factor is India, where improved monsoon rains have boosted prospects for a larger sugar crop, while government measures to limit stock holdings aim to ensure adequate domestic availability. Lower crude oil prices have also pressured sugar, as weaker ethanol prices encourage mills, particularly in Brazil, to divert more sugarcane toward sugar production rather than ethanol, increasing supply. However, downside pressure has been partly offset by forecasts of a global sugar deficit in 2026/27, reflecting lower output in Brazil and Thailand and the potential impact of a strengthening El Niño on key producing regions. Meanwhile, the USDA revised US sugar stocks lower following data corrections and projects tighter domestic supplies."
+    },
     {
       "id": "mkt:019fad7a-f027-7aab-8ee7-b0a4f5ef27c0",
       "time": "2026-07-29 18:45:42",
