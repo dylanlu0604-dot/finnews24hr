@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-30 06:16:02",
-  "count": 17784,
+  "updated": "2026-07-30 06:19:53",
+  "count": 17782,
   "items": [
+    {
+      "id": "5015324",
+      "time": "2026-07-30 06:16:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭克里維裡赫遭導彈襲擊。"
+    },
+    {
+      "id": "5015323",
+      "time": "2026-07-30 06:15:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：有人清楚嗎？美國最高法院就出生地公民權、關稅議題作出不利裁決，讓國家蒙受多大經濟損失、喪失多少國際聲望？答案是：數萬億美元！"
+    },
     {
       "id": "5015322",
       "time": "2026-07-30 06:15:06",
@@ -163993,39 +164010,6 @@
         "公司"
       ],
       "text": "特斯拉CEO埃隆·馬斯克： 預計旗下Semi卡車將在今年年底或明年初搭載自動駕駛技術。"
-    },
-    {
-      "id": "5003134",
-      "time": "2026-07-23 06:18:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國眾議院透過法案 限制議員買賣股票】據Politico，美國眾議院週三透過了一項法案，旨在限制國會議員及其家屬買賣股票；然而，由於部分民主黨人認為該法案的力度不足，黨內對此產生了分歧。這項名為《停止內幕交易法案》的議案是首個在眾議院全體會議上進行表決的國會股票交易禁令法案，最終以232票對198票獲得透過，其中有13名民主黨議員投了贊成票。在總共93名聯署該法案的議員中，只有兩名是民主黨人。另一項限制力度更大的法案——要求議員及其家屬出售目前個人持有的股票——雖然獲得了更廣泛的兩黨支援，卻未能進入眾議院全體會議表決程式。多數民主黨人認為已透過的這項措施力度不夠，因為它未包含強制出售現有持股的規定。該法案將提交給參議院審議。"
-    },
-    {
-      "id": "mkt:019f8be8-78f0-7aab-8e53-d8d1e6e6e202",
-      "time": "2026-07-23 06:18:16",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【U.S. House passes bill limiting lawmakers' stock trades】According to Politico, the U.S. House on Wednesday passed the Stop Insider Trading Act, restricting members of Congress and their families from trading individual stocks. The measure cleared the floor 232-198, with 13 Democrats voting yes; only two of the bill's 93 cosponsors are Democrats. Many House Democrats said the bill is too weak because it does not require lawmakers to sell existing holdings. A separate, tougher bill that would force divestiture had broader bipartisan support but never reached the floor. The Stop Insider Trading Act now goes to the Senate for consideration."
-    },
-    {
-      "id": "5003133",
-      "time": "2026-07-23 06:16:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【麥格理執行長Wikramanayake準備退休 Greg Ward將接班】麥格理集團週四發表宣告稱，執行長Shemara Wikramanayake即將退休。該公司已決定，現銀行和金融服務負責人Greg Ward在獲得必要的批准後接班。"
-    },
-    {
-      "id": "5003132",
-      "time": "2026-07-23 06:16:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【短期震盪創造“擊球區”，頭部私募逢低加倉“靜待花開”】市場波動下，頭部私募並未採取單一防守策略。記者近日採訪獲悉，在7月以來科技板塊快速調整的過程中，部分機構逢低佈局優質成長資產，部分機構則透過降低高位板塊倉位、增加低位方向配置提升組合韌性。與此同時，截至7月22日，當月已有24傢俬募釋出自購公告，自購金額接近14億元。多傢俬募機構人士表示，科技產業的長期發展趨勢並未發生改變，在本輪調整“去偽存真”後，結構性機會正在顯現，具備產業趨勢支撐和業績兌現能力的優質資產迎來“擊球區”。（上證報）"
     }
   ]
 }
