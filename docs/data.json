@@ -1,7 +1,87 @@
 {
-  "updated": "2026-07-29 10:33:25",
-  "count": 17622,
+  "updated": "2026-07-29 10:37:23",
+  "count": 17615,
   "items": [
+    {
+      "id": "mkt:019fabbb-2ab5-7aab-8edc-10416eaa50e3",
+      "time": "2026-07-29 10:36:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share steel sector traded higher after choppy moves; Liugang hit the daily trading limit, while Fangda Special Steel, Xinxing Steel, Wujin Stainless, Hualing Steel, Maanshan Iron & Steel and Shagang also rose."
+    },
+    {
+      "id": "mkt:019fabba-e6b5-7aab-8edc-0f34145e5560",
+      "time": "2026-07-29 10:36:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "SNE.N",
+        "Impact bearish"
+      ],
+      "text": "Market update: Sony Semiconductor Manufacturing's Kumamoto plant remains offline after an earthquake; production is still suspended."
+    },
+    {
+      "id": "5013495",
+      "time": "2026-07-29 10:36:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "索尼：九州其他工廠未確認發生重大損壞。"
+    },
+    {
+      "id": "5013494",
+      "time": "2026-07-29 10:35:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "索尼半導體制造株式會社熊本技術中心的運營在地震後已暫停，目前仍處於停產狀態。"
+    },
+    {
+      "id": "5013493",
+      "time": "2026-07-29 10:34:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "索尼稱熊本工廠地震後暫停運營。"
+    },
+    {
+      "id": "mkt:019fabb9-53e6-7aab-8edc-04a6fbcc86bb",
+      "time": "2026-07-29 10:34:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tongcheng city government reprimanded over government-led illegal sand mining】The Nanjing office of China’s National Natural Resources Inspection publicly summoned Tongcheng city officials on July 28 after finding the city government led illegal sand-and-gravel mining disguised as farmland quality-improvement projects. Inspectors issued stern criticism, set explicit rectification requirements and ordered stepped-up investigations and enforcement to halt illegal sand extraction and restore natural resource management order."
+    },
+    {
+      "id": "5013492",
+      "time": "2026-07-29 10:33:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鋼鐵板塊持續走強，柳鋼股份漲停】鋼鐵板塊持續走強，柳鋼股份漲停，方大特鋼、新鋼股份、武進不鏽、華菱鋼鐵、馬鋼股份、沙鋼股份等跟漲。"
+    },
+    {
+      "id": "5013491",
+      "time": "2026-07-29 10:33:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安徽省桐城市政府主導違法採砂被約談】從自然資源部瞭解到，7月28日，國家自然資源督察南京局在駐地公開約談安徽省桐城市政府主要負責人，指出桐城市政府主導以農田質量改造提升為名違法開採砂石問題突出，面對面提出嚴肅批評，明確整改要求，督促加大整改查處力度，堅決遏制違法採砂行為，切實維護自然資源管理秩序。據國家自然資源督察南京局情況通報，為規避礦政監管，2022年12月，桐城市政府同意孔城鎮政府編制的《農田質量改造提升方案》（以下簡稱《方案》），採取地上棄渣與地下砂石換填方式開採地下粗礫石，開採後平整土地並改良土壤。督察發現，《方案》實施以來，施工作業以採砂為主，未實施土壤改良，農田質量改造未落實，僅2022年12月至2023年底就外運銷售砂石近40萬噸。上述行為違反《中華人民共和國礦產資源法》關於“禁止任何單位和個人以任何手段侵佔或者破壞礦產資源”和“勘查、開採礦產資源應當依法分別取得探礦權、採礦權”等規定。桐城市相關部門對違法行為未查處，履職不到位。據國家自然資源督察南京局有關負責人介紹，該局將緊盯地方後續整改情況，適時開展督導核查，充分發揮國家自然資源督察對地方政府相關履職情況的監督檢查作用，維護礦產資源開發利用秩序。"
+    },
+    {
+      "id": "mkt:019fabb7-fb84-7aab-8edb-f9b7d08c9c0c",
+      "time": "2026-07-29 10:33:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "China A-share benchmarks fell to intra-day lows before turning positive; the Shenzhen Composite Index rose 0.66% and the ChiNext Index gained nearly 1% after earlier sliding more than 2.3%."
+    },
     {
       "id": "mkt:019fabb7-d65c-7aab-8edb-f037f56dfbbd",
       "time": "2026-07-29 10:32:59",
@@ -17,6 +97,15 @@
         "MKT News"
       ],
       "text": "Regional governor says an industrial facility in Ryazan, Russia caught fire after a drone strike."
+    },
+    {
+      "id": "em:jjsj_zgsj:202607293824847783",
+      "time": "2026-07-29 10:32:39",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【合肥：上半年GDP同比增長6.8%】據合肥釋出，根據地區生產總值統一核算結果，上半年，全市地區生產總值（GDP）7073億元，按不變價格計算，同比增長6.8%。分產業看，第一產業增加值118.8億元，增長2.2%；第二產業增加值2552.4億元，增長10.3%；第三產業增加值4401.8億元，增長5.0%。"
     },
     {
       "id": "5013490",
@@ -161564,152 +161653,6 @@
         "焦點"
       ],
       "text": "中證1000指數期貨連續主力合約日內跌1%，現報7090.00點。"
-    },
-    {
-      "id": "5001316",
-      "time": "2026-07-22 10:37:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "中際旭創成交額達200億元，現跌3.38%。"
-    },
-    {
-      "id": "5001315",
-      "time": "2026-07-22 10:37:02",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦：堅持一箇中國原則是大義所在、大勢所趨】國務院臺辦舉行例行新聞釋出會。有記者問：近日，巴布亞紐幾內亞政府宣佈關閉“駐巴新臺北經濟辦事處”。臺外事部門對此表示抗議。請問對此有何評論?發言人張晗表示，我們對巴布亞紐幾內亞政府有關做法表示高度讚賞。事實一再證明，一箇中國原則是國際關係基本準則和國際社會普遍共識，堅持一箇中國原則是大義所在、大勢所趨。得道多助，失道寡助。民進黨當局頑固堅持“臺獨”分裂立場，逆歷史潮流，只會在國際社會四處碰壁。"
-    },
-    {
-      "id": "5001314",
-      "time": "2026-07-22 10:36:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【CPO概念股震盪走強 銳捷網路、紫光股份等多股漲停】CPO概念股震盪走強，銳捷網路、紫光股份等多股漲停，深科達、中科藍訊、順絡電子等股跟漲。"
-    },
-    {
-      "id": "5001313",
-      "time": "2026-07-22 10:36:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雷軍回應小米澎程首保時間】7月22日，小米創辦人，董事長兼CEO雷軍發文稱，小米澎程首保後，整車3年或增程器3萬公里才需保養一次。其評論區下有網友詢問首保時間，雷軍回覆表示“1年或者1萬公里”。"
-    },
-    {
-      "id": "mkt:019f87ae-210d-7aab-8e38-6bfbe43d80c0",
-      "time": "2026-07-22 10:36:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Hainan '15th Five' plan backs low‑altitude logistics, pilots cargo eVTOL and heavy‑load drone cross‑sea transport】Hainan provincial government issued its '15th Five' service‑industry development plan, directing support for low‑altitude logistics. The plan backs 'drone+life‑scene' delivery to serve Hainan specialty seafood, tropical fruit and time‑sensitive express shipments for export. It calls for pilots of cargo eVTOLs and heavy‑load drone cross‑sea transport using general airports, Macun Port and Jinma Logistics Park to accelerate logistics timeliness. Local governments are encouraged to develop drone food delivery, urgent parcel flash‑delivery and instant‑retail logistics in industrial parks, shopping districts and university towns."
-    },
-    {
-      "id": "5001312",
-      "time": "2026-07-22 10:35:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南省“十五五”服務業發展規劃：探索貨運電動垂直起降飛行器、大載荷無人機跨海運輸 全面提升物流時效】海南省人民政府辦公廳近日印發《海南省“十五五”服務業發展規劃》，其中提出，創新發展低空物流。支援開展“無人機+生活場景”配送，服務海南特色水產品、熱帶水果、時效快遞等貨物外運需求。依託通用機場、馬村港、金馬物流園，探索貨運電動垂直起降飛行器（eVTOL）、大載荷無人機跨海運輸，全面提升物流時效，服務特色產品外運。支援各市縣依託產業園、商圈、大學城，綜合開發無人機外賣配送、急件閃送、即時零售等物流場景。"
-    },
-    {
-      "id": "5001311",
-      "time": "2026-07-22 10:35:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【耐克宣佈重構大中華區市場生態，第三方分銷商2027年起逐步停售】耐克正聚焦戰略採取行動，從數字渠道開始重塑市場生態。自 2027 年 1 月起，耐克將以天貓、京東和抖音的官方旗艦店以及Nike官方網站和App為核心，重新打造在中國的數字市場生態。作為這一調整的一部分，除部分授權合作伙伴外，目前由合作伙伴運營並銷售耐克產品的線上店鋪，將逐步停止銷售耐克產品。耐克集團副總裁、大中華區總經理申凱希表示，“這一調整的目的並不是減少購物入口，而是減少線上渠道碎片化，加強消費旅程的完整性。當消費體驗一致連貫，品牌也會變得更加強大。Nike和Jordan門店仍然是消費者體驗我們品牌的核心場域。我們的零售合作伙伴在將運動帶入社群方面發揮著關鍵作用，我們也將繼續致力於與他們共同成長。”對此調整，滔搏國際控股有限公司董事長、執行長兼執行董事於武表示：“滔搏公司作為耐克公司在中國大陸最大的經銷商，雙方本著互利雙贏的原則共同發展，已歷經27年。此次調整從短期看，將對公司業務產生明顯壓力。但我們堅信，從中長期來看，這一方向將有助於推動中國市場零售生態更加健康、有序和可持續發展，進一步提升消費者體驗和產品吸引力。未來，我們將繼續與耐克緊密合作，充分發揮我們線上下零售運營、本地消費者服務以及各級城市市場深耕方面的優勢，透過新概念運動門店和高質量實體零售場景，為中國消費者帶來更專業、更豐富的運動體驗。”（新浪科技）"
-    },
-    {
-      "id": "5001310",
-      "time": "2026-07-22 10:35:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【康芝藥業與廣東醫科大學簽署戰略協議】近日，康芝藥業與廣東醫科大學簽署戰略合作意向協議，雙方擬在醫院製劑轉化、老年康養、營養醫學研究、兒童精準康養研究等領域開展合作。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202607223816932416",
-      "time": "2026-07-22 10:34:32",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【浙江上半年GDP同比增長5.7%】7月22日訊息，據浙江省統計局，根據地區生產總值統一核算結果，上半年全省地區生產總值47937億元，按不變價格計算，同比增長5.7%。分產業看，第一產業增加值1129億元，增長4.4%；第二產業增加值18130億元，增長6.2%；第三產業增加值28678億元，增長5.5%。"
-    },
-    {
-      "id": "5001309",
-      "time": "2026-07-22 10:34:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿盟秘書長呼籲胡塞武裝停止升級衝突】阿拉伯國家聯盟（阿盟）秘書長納比勒·法赫米21日重申阿盟對沙烏地阿拉伯的堅定支援，呼籲胡塞武裝停止發表升級衝突的言論，避免採取任何可能加劇地區緊張局勢的行動。 法赫米當天在宣告中就胡塞武裝發言人近期宣告作出回應。法赫米強調，沙烏地阿拉伯的安全、領土完整是阿拉伯國家安全體系不可分割的部分，阿盟堅定支援沙特為維護自身安全和領土完整所採取的一切合法措施。 法赫米說，胡塞武裝近期對沙特毫無根據的指責和威脅，是“危險的升級”，不利於維護地區安全與穩定，只會進一步加劇地區緊張，破壞緩和局勢的外交努力。 法赫米強調，堅持對話、尊重地區和國際社會為全面政治解決葉門危機所作的努力，是實現葉門及地區安全穩定的唯一途徑。 胡塞武裝與伊朗關係密切，並與沙特支援的葉門政府長期對峙，目前主要控制首都薩那和紅海港口城市荷臺達等西北部地區。胡塞武裝發言人葉海亞·薩雷亞20日發表宣告說，立即對沙特實施海上禁運，這一決定基於“封鎖對封鎖”原則作出。沙特主導的多國聯軍隨後表示，已採取措施保護成員國船隻安全通行曼德海峽，並將堅決回應胡塞武裝的任何威脅。(新華社)"
-    },
-    {
-      "id": "5001308",
-      "time": "2026-07-22 10:34:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金梓才旗下四隻產品解除全部限購】金梓才旗下財通品質甄選混合、財通成長優選混合、財通價值動量混合、財通積體電路產業股票四隻產品於今日起恢復大額申購。此前，四隻產品於7月15日放鬆限購，單日申購限額從100元調整至10000元。公告稱，解除限購是為了滿足廣大投資者的投資需求。目前金梓才旗下財通景氣甄選一年持有期混合、財通匠心優選一年持有混合仍處於暫停申購狀態，財通多策略福鑫定開混合處於封閉運作期。"
-    },
-    {
-      "id": "mkt:019f87ac-3e1f-7aab-8e38-602e21903ae6",
-      "time": "2026-07-22 10:33:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "A St. Louis Fed paper finds U.S. AI adoption materially outpaces Europe, and the gap is driven less by age, education or industry mix than by firm management and organizational culture. The study shows firms with higher management quality — not greater technology availability — and those that actively encourage employee AI use and provide AI-tool support have significantly higher AI adoption rates."
-    },
-    {
-      "id": "mkt:019f87ac-2737-7aab-8e38-583b0d061028",
-      "time": "2026-07-22 10:33:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Zhejiang 1H GDP up 5.7% YoY】Zhejiang 1H GDP totaled RMB 4.794 tln at constant prices, up 5.7% YoY. By sector, primary industry value added was RMB 112.9 bln, up 4.4%; secondary was RMB 1.813 tln, up 6.2%; tertiary was RMB 2.868 tln, up 5.5%."
-    },
-    {
-      "id": "5001307",
-      "time": "2026-07-22 10:33:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【海南省“十五五”服務業發展規劃：探索建立國際資料交易中心 探索“綠電+智算”出海服務新模式】海南省人民政府辦公廳近日印發《海南省“十五五”服務業發展規劃》，其中提出，打造資料服務開放與應用高地。建設面向歐盟、東盟的數字加工貿易區，開展商業、文化、工業、地理資訊等資料跨境服務。培育資料合作聯合體，大力吸引國際資料服務企業入駐，為境內外客戶提供資料清洗、挖掘、託管、交易等專業服務。探索建立國際資料交易中心，建立分類分級的資料確權、評估、定價機制，探索“綠電+智算”出海服務新模式。加快海口國家資料標註基地試點建設，重點承接國內外AI大模型訓練所需的高質量資料集標註與處理服務。“十五五”時期，每年引育資料服務商和大模型標註服務企業1—2家，引進數字內容製作和出海服務龍頭企業1—2家。到2030年，軟體與資訊科技服務業規上企業數量超過140家。"
-    },
-    {
-      "id": "5001306",
-      "time": "2026-07-22 10:33:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江上半年GDP同比增長5.7%】據浙江省統計局，根據地區生產總值統一核算結果，上半年全省地區生產總值47937億元，按不變價格計算，同比增長5.7%。分產業看，第一產業增加值1129億元，增長4.4%；第二產業增加值18130億元，增長6.2%；第三產業增加值28678億元，增長5.5%。"
-    },
-    {
-      "id": "mkt:019f87ac-022a-7aab-8e38-562c5bd57ddc",
-      "time": "2026-07-22 10:33:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Hainan issues 15th Five-Year service plan to develop commercial space technology services】Hainan provincial government office issued its 15th Five-Year services development plan, directing development of commercial space technology services. The plan targets an international satellite data-trading platform, a Phase II smart launch-service system at a commercial launch site, a third-party intelligent testing center for low‑Earth-orbit satellites and upgrades to remote-sensing mapping application services. It seeks to shift the commercial space sector from hardware manufacturing toward higher‑value operational and service offerings and to elevate Hainan’s service capacity in international aerospace and telemetry, tracking and control support."
-    },
-    {
-      "id": "5001305",
-      "time": "2026-07-22 10:33:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海關總署：將商籤更多貿易合作檔案 促進進口、出口更協調】7月22日，海關總署署長孫梅君在國新辦新聞釋出會上表示，下一步，將促進進口、出口更加協調，商籤更多貿易合作檔案，擴大先進技術裝置、關鍵零部件、能源資源、優質農產品的進口來源國，建立全球好物出口中國、分享中國大市場的機遇，也為中國消費者提供更多樣化的選擇。"
     }
   ]
 }

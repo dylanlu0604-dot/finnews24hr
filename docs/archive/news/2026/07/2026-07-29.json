@@ -1,7 +1,87 @@
 {
   "date": "2026-07-29",
-  "count": 1049,
+  "count": 1059,
   "items": [
+    {
+      "id": "mkt:019fabbb-2ab5-7aab-8edc-10416eaa50e3",
+      "time": "2026-07-29 10:36:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share steel sector traded higher after choppy moves; Liugang hit the daily trading limit, while Fangda Special Steel, Xinxing Steel, Wujin Stainless, Hualing Steel, Maanshan Iron & Steel and Shagang also rose."
+    },
+    {
+      "id": "mkt:019fabba-e6b5-7aab-8edc-0f34145e5560",
+      "time": "2026-07-29 10:36:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "SNE.N",
+        "Impact bearish"
+      ],
+      "text": "Market update: Sony Semiconductor Manufacturing's Kumamoto plant remains offline after an earthquake; production is still suspended."
+    },
+    {
+      "id": "5013495",
+      "time": "2026-07-29 10:36:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "索尼：九州其他工廠未確認發生重大損壞。"
+    },
+    {
+      "id": "5013494",
+      "time": "2026-07-29 10:35:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "索尼半導體制造株式會社熊本技術中心的運營在地震後已暫停，目前仍處於停產狀態。"
+    },
+    {
+      "id": "5013493",
+      "time": "2026-07-29 10:34:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "索尼稱熊本工廠地震後暫停運營。"
+    },
+    {
+      "id": "mkt:019fabb9-53e6-7aab-8edc-04a6fbcc86bb",
+      "time": "2026-07-29 10:34:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tongcheng city government reprimanded over government-led illegal sand mining】The Nanjing office of China’s National Natural Resources Inspection publicly summoned Tongcheng city officials on July 28 after finding the city government led illegal sand-and-gravel mining disguised as farmland quality-improvement projects. Inspectors issued stern criticism, set explicit rectification requirements and ordered stepped-up investigations and enforcement to halt illegal sand extraction and restore natural resource management order."
+    },
+    {
+      "id": "5013492",
+      "time": "2026-07-29 10:33:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鋼鐵板塊持續走強，柳鋼股份漲停】鋼鐵板塊持續走強，柳鋼股份漲停，方大特鋼、新鋼股份、武進不鏽、華菱鋼鐵、馬鋼股份、沙鋼股份等跟漲。"
+    },
+    {
+      "id": "5013491",
+      "time": "2026-07-29 10:33:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安徽省桐城市政府主導違法採砂被約談】從自然資源部瞭解到，7月28日，國家自然資源督察南京局在駐地公開約談安徽省桐城市政府主要負責人，指出桐城市政府主導以農田質量改造提升為名違法開採砂石問題突出，面對面提出嚴肅批評，明確整改要求，督促加大整改查處力度，堅決遏制違法採砂行為，切實維護自然資源管理秩序。據國家自然資源督察南京局情況通報，為規避礦政監管，2022年12月，桐城市政府同意孔城鎮政府編制的《農田質量改造提升方案》（以下簡稱《方案》），採取地上棄渣與地下砂石換填方式開採地下粗礫石，開採後平整土地並改良土壤。督察發現，《方案》實施以來，施工作業以採砂為主，未實施土壤改良，農田質量改造未落實，僅2022年12月至2023年底就外運銷售砂石近40萬噸。上述行為違反《中華人民共和國礦產資源法》關於“禁止任何單位和個人以任何手段侵佔或者破壞礦產資源”和“勘查、開採礦產資源應當依法分別取得探礦權、採礦權”等規定。桐城市相關部門對違法行為未查處，履職不到位。據國家自然資源督察南京局有關負責人介紹，該局將緊盯地方後續整改情況，適時開展督導核查，充分發揮國家自然資源督察對地方政府相關履職情況的監督檢查作用，維護礦產資源開發利用秩序。"
+    },
+    {
+      "id": "mkt:019fabb7-fb84-7aab-8edb-f9b7d08c9c0c",
+      "time": "2026-07-29 10:33:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "China A-share benchmarks fell to intra-day lows before turning positive; the Shenzhen Composite Index rose 0.66% and the ChiNext Index gained nearly 1% after earlier sliding more than 2.3%."
+    },
     {
       "id": "mkt:019fabb7-d65c-7aab-8edb-f037f56dfbbd",
       "time": "2026-07-29 10:32:59",
@@ -17,6 +97,15 @@
         "MKT News"
       ],
       "text": "Regional governor says an industrial facility in Ryazan, Russia caught fire after a drone strike."
+    },
+    {
+      "id": "em:jjsj_zgsj:202607293824847783",
+      "time": "2026-07-29 10:32:39",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【合肥：上半年GDP同比增長6.8%】據合肥釋出，根據地區生產總值統一核算結果，上半年，全市地區生產總值（GDP）7073億元，按不變價格計算，同比增長6.8%。分產業看，第一產業增加值118.8億元，增長2.2%；第二產業增加值2552.4億元，增長10.3%；第三產業增加值4401.8億元，增長5.0%。"
     },
     {
       "id": "5013490",
