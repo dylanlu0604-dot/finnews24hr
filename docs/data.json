@@ -1,7 +1,436 @@
 {
-  "updated": "2026-07-30 02:58:52",
-  "count": 17597,
+  "updated": "2026-07-30 03:07:08",
+  "count": 17632,
   "items": [
+    {
+      "id": "mkt:019faf44-c1d6-7aab-8ef5-ea2ca945cc64",
+      "time": "2026-07-30 03:05:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fed holds rates; TransUnion expects U.S. consumer credit recovery to continue】Charlie Wise, SVP at TransUnion Research & Consulting, said the Federal Reserve's decision to hold rates comes amid mixed signals from inflation, the labor market, consumer spending and overall growth. With rates stable, recent U.S. consumer credit trends are likely to persist: moderate loan growth and lenders maintaining prudent risk management, which should remain the market's prevailing stance in the near term. A steady-rate backdrop may also bolster borrower confidence and increase the likelihood that consumers who delayed big-ticket purchases such as homes and cars will resume financing decisions."
+    },
+    {
+      "id": "5015082",
+      "time": "2026-07-30 03:05:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：通脹職責本身相當狹窄，由個人消費支出（PCE）決定。"
+    },
+    {
+      "id": "mkt:019faf44-6948-7aab-8ef5-e20a471aa1e2",
+      "time": "2026-07-30 03:05:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said this is not a perfect science, but the Fed has data programs to separate signal from noise."
+    },
+    {
+      "id": "5015081",
+      "time": "2026-07-30 03:05:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：為實現2%通脹目標，我正在關注比PCE更廣泛的通脹資料集。"
+    },
+    {
+      "id": "mkt:019faf43-ffa4-7aab-8ef5-dd3019503b31",
+      "time": "2026-07-30 03:04:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said PCE data is the Fed's reference indicator and the Fed will continue to rely on it."
+    },
+    {
+      "id": "5015080",
+      "time": "2026-07-30 03:04:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：在危機狀態下提供前瞻性指引是審慎之舉，而在平穩時期則不然。"
+    },
+    {
+      "id": "5015079",
+      "time": "2026-07-30 03:04:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：這並非一門精確的科學，但我們有資料專案可將噪聲與有效訊號區分開來。"
+    },
+    {
+      "id": "mkt:019faf43-942c-7aab-8ef5-d70428922bd6",
+      "time": "2026-07-30 03:04:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Kevin Warsh, Federal Reserve chair, said he references a broader range of inf data than the PCE alone to assess progress toward the 2% target."
+    },
+    {
+      "id": "5015078",
+      "time": "2026-07-30 03:04:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：為了將通脹降至2%，相較於個人消費支出價格指數（PCE），我正在考察範圍更廣的通脹資料。"
+    },
+    {
+      "id": "5015077",
+      "time": "2026-07-30 03:04:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：前瞻指引的撤回需要過渡期。"
+    },
+    {
+      "id": "mkt:019faf43-4075-7aab-8ef5-ca80dde82b25",
+      "time": "2026-07-30 03:04:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【US, Saudi airstrike in Iraq kills four IRGC members】A deputy governor in Iran’s Markazi province said US and Saudi forces carried out a joint airstrike in Diyala province, Iraq, in the early hours, killing four members of the Islamic Revolutionary Guard Corps."
+    },
+    {
+      "id": "5015076",
+      "time": "2026-07-30 03:03:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：任何央行官員若見到就業穩定、同時核心通脹上行，都會更傾向收緊貨幣政策。"
+    },
+    {
+      "id": "5015075",
+      "time": "2026-07-30 03:03:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：通脹上行時，央行官員傾向收緊政策。"
+    },
+    {
+      "id": "mkt:019faf42-6254-7aab-8ef5-c76117d195e0",
+      "time": "2026-07-30 03:03:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair KEVIN WARSH said withdrawing forward guidance would require a transition period."
+    },
+    {
+      "id": "mkt:019faf42-0e0d-7aab-8ef5-bccc53b64dd2",
+      "time": "2026-07-30 03:02:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said providing forward guidance is prudent in crisis periods, but not appropriate when conditions are stable."
+    },
+    {
+      "id": "mkt:019faf41-c567-7aab-8ef5-b04d3db58a16",
+      "time": "2026-07-30 03:02:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said that, as a reaction function, any central banker observing employment stabilize and potential inflation rise would be more inclined to tighten policy."
+    },
+    {
+      "id": "mkt:019faf41-74be-7aab-8ef5-a9d4eb4b51e0",
+      "time": "2026-07-30 03:02:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said central bank officials tend to tighten policy when inf rises."
+    },
+    {
+      "id": "5015074",
+      "time": "2026-07-30 03:02:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "WEC能源集團表示，儘管甲骨文公司與威斯康星州就新的抵押品要求產生分歧，但甲骨文在該州的大型資料中心專案仍按計劃推進。"
+    },
+    {
+      "id": "te:markets:570853",
+      "time": "2026-07-30 03:01:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Extends Rebound from 9-Month Low — Gold prices rebounded to the $4,100 per ounce mark on Wednesday from the nine-month low of $3,975 from the middle of July after the Federal Reserve maintained its interest rates steady. The decision was consistent with what only a portion of the market was positioned for, with three members of the FOMC dissenting to a rate hike. The hold brought some relief to bullion investors, as higher interest rates reduce demand for assets that bear no yield. In the meantime, demand for safe-haven assets was supported by a new wave of strikes in the Middle East. Iran attacked US forces across the Persian Gulf and energy infrastructure in Saudi Arabia. Elsewhere, the Bank of England and the Bank of Japan are also expected to keep rates unchanged this week while maintaining a cautious stance on inflation."
+    },
+    {
+      "id": "5015073",
+      "time": "2026-07-30 03:01:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4110美元/盎司，日內漲2.06%。"
+    },
+    {
+      "id": "5015072",
+      "time": "2026-07-30 03:01:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：就反應函式而言，任何央行行長在看到就業趨穩、核心通脹上行時，都會更傾向於收緊政策。"
+    },
+    {
+      "id": "mkt:019faf40-ea25-7aab-8ef5-a07f0918efb1",
+      "time": "2026-07-30 03:01:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said he is not overly concerned about losing control of the narrative."
+    },
+    {
+      "id": "5015071",
+      "time": "2026-07-30 03:01:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美沙空襲伊拉克致4名伊朗革命衛隊成員身亡】總檯記者當地時間29日獲悉，伊朗中央省副省長表示，美國和沙特當天凌晨對伊拉克迪亞拉省發動聯合空襲，造成四名伊朗伊斯蘭革命衛隊成員死亡。（央視新聞）"
+    },
+    {
+      "id": "mkt:019faf40-3ed9-7aab-8ef5-9f769718e8c7",
+      "time": "2026-07-30 03:00:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said the Fed did not feel constrained at this meeting."
+    },
+    {
+      "id": "mkt:019faf40-118a-7aab-8ef5-96830f6d1eee",
+      "time": "2026-07-30 03:00:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said everything should serve the goal of making the best decisions."
+    },
+    {
+      "id": "5015070",
+      "time": "2026-07-30 03:00:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4170美元/盎司，日內漲1.75%。"
+    },
+    {
+      "id": "5015069",
+      "time": "2026-07-30 03:00:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 本次會議召開前，我們並未受到既定條件束縛。"
+    },
+    {
+      "id": "5015068",
+      "time": "2026-07-30 03:00:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1287.00美元/盎司。"
+    },
+    {
+      "id": "mkt:019faf3f-9efd-7aab-8ef5-895915e609b4",
+      "time": "2026-07-30 03:00:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said surprises are not a problem the Fed seeks to solve."
+    },
+    {
+      "id": "5015067",
+      "time": "2026-07-30 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.65%，報25935.96點，高水128.04點。"
+    },
+    {
+      "id": "mkt:019faf3f-7bce-7aab-8ef5-82b49429f6b4",
+      "time": "2026-07-30 03:00:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed does not endorse any market moves and will monitor them closely."
+    },
+    {
+      "id": "5015066",
+      "time": "2026-07-30 02:59:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沙特國防大臣今日在華盛頓會見萬斯。"
+    },
+    {
+      "id": "mkt:019faf3f-1226-7aab-8ef5-7b2acfbdffa4",
+      "time": "2026-07-30 02:59:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to CNN, Saudi Arabia's defense minister met U.S. Vice President Vance in Washington today."
+    },
+    {
+      "id": "mkt:019faf3e-e3c5-7aab-8ef5-7341061d7872",
+      "time": "2026-07-30 02:59:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said he thinks this is a beneficial development."
+    },
+    {
+      "id": "5015065",
+      "time": "2026-07-30 02:59:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲的工作職責並不是解決意外。 一切舉措都應當服務於做出最優決策這一目標。"
+    },
+    {
+      "id": "mkt:019faf3e-cc5f-7aab-8ef5-69d45926b126",
+      "time": "2026-07-30 02:59:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said he is reassured that markets are responding to real‑time events rather than to the Fed and its dot plot."
+    },
+    {
+      "id": "5015064",
+      "time": "2026-07-30 02:59:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：馬斯克旗下太空探索公司SpaceX尋求收購Terrestrial Spectrum。"
+    },
+    {
+      "id": "mkt:019faf3e-9e1e-7aab-8ef5-67d9ae5c837c",
+      "time": "2026-07-30 02:59:04",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "Fed Chair Kevin Warsh said the current surge in capital spending in the AI sector has made assessing supply and demand more difficult."
+    },
+    {
+      "id": "mkt:019faf3e-87ab-7aab-8ef5-59e30caa1628",
+      "time": "2026-07-30 02:58:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "When asked about the reasons for three dissenting votes, Fed chair Kevin Warsh said he would let the dissenters speak for themselves."
+    },
+    {
+      "id": "5015063",
+      "time": "2026-07-30 02:58:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我們不會認可任何市場行情走勢，但會密切關注市場動向。"
+    },
+    {
+      "id": "5015062",
+      "time": "2026-07-30 02:58:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 令我感到寬慰的是，市場的反應並非取決於我們或是點陣圖，而是基於實時發生的各類事件。我認為這是一項積極的變化。"
+    },
+    {
+      "id": "5015061",
+      "time": "2026-07-30 02:58:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲2%，現報4109.19美元/盎司。"
+    },
+    {
+      "id": "mkt:019faf3d-8151-7aab-8ef5-5698ae412902",
+      "time": "2026-07-30 02:57:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed has done very poorly on prices."
+    },
     {
       "id": "5015060",
       "time": "2026-07-30 02:57:44",
@@ -30,6 +459,25 @@
       "text": "美聯儲主席沃什：就充分就業而言，我們國家做得相當不錯。我們在價格方面做得差很多。"
     },
     {
+      "id": "mkt:019faf3d-0170-7aab-8ef5-4b2ffcea1546",
+      "time": "2026-07-30 02:57:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the U.S. has done fairly well on full employment."
+    },
+    {
+      "id": "mkt:019faf3c-ebf8-7aab-8ef5-429f69410c13",
+      "time": "2026-07-30 02:57:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said he believes officials have a reasonable understanding of aggregate supply and demand."
+    },
+    {
       "id": "5015057",
       "time": "2026-07-30 02:56:57",
       "tags": [
@@ -37,6 +485,31 @@
         "國際"
       ],
       "text": "美聯儲主席沃什： 我認為我們對總供給與總需求狀況已有較為清晰的判斷。"
+    },
+    {
+      "id": "mkt:019faf3c-a6a1-7aab-8ef5-3e6f8644c4b5",
+      "time": "2026-07-30 02:56:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed is currently performing well on its employment mandate."
+    },
+    {
+      "id": "mkt:019faf3c-8ab0-7aab-8ef5-30dd2114d8a0",
+      "time": "2026-07-30 02:56:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said no part of the Fed's dual mandate has been neglected."
     },
     {
       "id": "5015056",
@@ -57,6 +530,21 @@
       "text": "美聯儲主席沃什：現階段就業目標推進情況尚可。"
     },
     {
+      "id": "mkt:019faf3c-0256-7aab-8ef5-2e923777e3a6",
+      "time": "2026-07-30 02:56:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said high inflation periods harm the labor market."
+    },
+    {
       "id": "5015054",
       "time": "2026-07-30 02:56:02",
       "tags": [
@@ -64,6 +552,16 @@
         "國際"
       ],
       "text": "美聯儲主席沃什： 落實雙重政策目標，二者缺一不可。"
+    },
+    {
+      "id": "mkt:019faf3b-555a-7aab-8ef5-2139553f23f1",
+      "time": "2026-07-30 02:55:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he does not believe our missions conflict."
     },
     {
       "id": "5015053",
@@ -75,6 +573,16 @@
       "text": "美聯儲主席沃什： 我認為政策目標並非二者擇一的選擇題。"
     },
     {
+      "id": "mkt:019faf3b-2591-7aab-8ef5-1d9fb703337d",
+      "time": "2026-07-30 02:55:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said this may or may not inform his remarks at Jackson Hole."
+    },
+    {
       "id": "5015052",
       "time": "2026-07-30 02:55:02",
       "tags": [
@@ -82,6 +590,16 @@
         "國際"
       ],
       "text": "美聯儲主席沃什： 我認為兩大政策目標之間並不存在衝突。"
+    },
+    {
+      "id": "mkt:019faf3a-b176-7aab-8ef5-12aed88d1883",
+      "time": "2026-07-30 02:54:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh will conduct a review with a working group ahead of the Jackson Hole symposium."
     },
     {
       "id": "te:economy:570850",
@@ -161980,150 +162498,6 @@
         "其他"
       ],
       "text": "巴西貿易部長： 預計巴美兩國貿易談判將很快重啟。"
-    },
-    {
-      "id": "5002972",
-      "time": "2026-07-23 03:07:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西貿易部長：在上次與美國貿易代表格里爾的會晤中，雙方均有意繼續開展談判。  如有必要，將對美國實施對等反制措施。"
-    },
-    {
-      "id": "mkt:019f8b39-5f21-7aab-8e50-6f2a503b3cbf",
-      "time": "2026-07-23 03:07:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's trade minister said that in a recent meeting with U.S. Trade Representative Greer both sides expressed a desire to continue negotiations."
-    },
-    {
-      "id": "mkt:019f8b38-db87-7aab-8e50-61c60215aacb",
-      "time": "2026-07-23 03:06:26",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Brazil's trade minister said Brazil will impose reciprocal countermeasures on the United States if necessary."
-    },
-    {
-      "id": "5002971",
-      "time": "2026-07-23 03:04:05",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部：最新雙週報告期內，投資基金增持 456.97 億美元 2029 年 7 月 15 日到期的 3 年期國債，上月規模為 421.81 億美元。\n外資買入 68.32 億美元 2029 年 7 月 15 日到期 3 年期國債，上月買入 56.37 億美元。"
-    },
-    {
-      "id": "5002970",
-      "time": "2026-07-23 03:03:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7750元，較週二夜盤收盤跌85點。成交量360.14億美元。"
-    },
-    {
-      "id": "5002969",
-      "time": "2026-07-23 03:03:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷統計局：5 月經濟活動同比增長 0.20%，路透社調查預期為 2.3%。"
-    },
-    {
-      "id": "5002968",
-      "time": "2026-07-23 03:03:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：談判並未遭到禁止，但我們不會為無法銷往美國的產品惋惜，我們會開拓其他市場。"
-    },
-    {
-      "id": "mkt:019f8b34-fb7e-7aab-8e50-5cf26a57e1b0",
-      "time": "2026-07-23 03:02:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazilian President Lula said negotiations are not prohibited, but Brazil will not lament products that cannot be exported to the US and will seek alternative markets."
-    },
-    {
-      "id": "mkt:019f8b34-d467-7aab-8e50-573ade26b3f5",
-      "time": "2026-07-23 03:02:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury data show that in the latest two-week reporting period investment funds bought $29.103 bln of 10-year Treasury notes maturing May 15, 2036 (prior: $28.962 bln). Foreign investors bought $5.788 bln of the same maturity (prior: $5.200 bln)."
-    },
-    {
-      "id": "5002966",
-      "time": "2026-07-23 03:01:56",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部：最新雙週報告期內，投資基金淨買入 291.03 億美元 2036 年 5 月 15 日到期的 10 年期國債，上月為 289.62 億美元。 \n買入 30 年期（2056 年 5 月 15 日到期）美債 30.65 億美元，上月買入規模為 22.71 億美元。"
-    },
-    {
-      "id": "5002965",
-      "time": "2026-07-23 03:00:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部：美國6月份牛奶產量為197.05億磅。"
-    },
-    {
-      "id": "5002964",
-      "time": "2026-07-23 03:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.38%，報25007.06點，高水114.40點。"
-    },
-    {
-      "id": "mkt:019f8b32-ec34-7aab-8e50-49f02a0f80d3",
-      "time": "2026-07-23 02:59:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazilian President Lula said negotiations remain ongoing and that, despite his personal trip to the United States, he has received no reciprocal response in the dialogue."
-    },
-    {
-      "id": "mkt:019f8b32-e165-7aab-8e50-4393d16d5767",
-      "time": "2026-07-23 02:59:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Brazil's President Lula said export data clearly show the country can emerge stronger from this crisis."
-    },
-    {
-      "id": "5002963",
-      "time": "2026-07-23 02:59:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：我們正坐在談判桌前。我曾親自前往美國，但我們在對話中從未感受到對等互惠。"
-    },
-    {
-      "id": "mkt:019f8b32-2c2b-7aab-8e50-3f13985b6ecc",
-      "time": "2026-07-23 02:59:08",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O): A minor plaintiff who alleged Meta harmed their mental health withdrew the lawsuit days before trial."
     }
   ]
 }
