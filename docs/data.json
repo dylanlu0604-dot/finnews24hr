@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-30 00:35:32",
-  "count": 17430,
+  "updated": "2026-07-30 00:39:27",
+  "count": 17432,
   "items": [
+    {
+      "id": "mkt:019faebd-f775-7aab-8eef-f22fc9a640e8",
+      "time": "2026-07-30 00:38:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI CEO Sam Altman told reporters after a meeting with Republican Senator Ted Cruz that they discussed new AI models and that he supports an AI safety bill, but he declined to provide details."
+    },
+    {
+      "id": "5014906",
+      "time": "2026-07-30 00:37:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "OPENAI執行長ALTMAN與美國議員討論新的人工智慧模型。"
+    },
+    {
+      "id": "mkt:019faebc-5242-7aab-8eef-eb537f49f9da",
+      "time": "2026-07-30 00:36:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "Waymo says Google's Gemini in-car assistant has entered passenger-facing testing."
+    },
+    {
+      "id": "5014905",
+      "time": "2026-07-30 00:35:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "Alphabet旗下自動駕駛公司Waymo： 谷歌 Gemini 車載助手現已面向乘客開啟測試版。"
+    },
+    {
+      "id": "mkt:019faebb-723a-7aab-8eef-e1d8ac275caa",
+      "time": "2026-07-30 00:35:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's Ministry of Petroleum said it will take necessary measures to investigate the cause of the fire at Damietta port."
+    },
     {
       "id": "mkt:019faeba-2f63-7aab-8eef-da63ef5768fd",
       "time": "2026-07-30 00:34:25",
@@ -160149,35 +160200,6 @@
         "MKT News"
       ],
       "text": "The deputy commander of Ukraine's armed forces said Ukraine will have laser weapons within 2–3 months and that they will be more effective than machine guns at downing aerial targets."
-    },
-    {
-      "id": "mkt:019f8ab1-c184-7aab-8e4d-e846f774808d",
-      "time": "2026-07-23 00:38:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Israeli Defense Forces said on Wednesday it stopped and detained several Israeli citizens attempting to cross into Syria in the Hermon area, condemning the attempt as a \"criminal act\" that endangered border security."
-    },
-    {
-      "id": "mkt:019f8ab0-42d1-7aab-8e4d-e006caf0cd9b",
-      "time": "2026-07-23 00:37:14",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CSI300"
-      ],
-      "text": "【Wang Yi on China-ASEAN cooperation achievements】Chinese foreign minister Wang Yi said the China‑ASEAN Free Trade Area 3.0 upgrade protocol has been formally signed; China and ASEAN have been each other’s largest trading partner for six consecutive years, with bilateral trade exceeding US$1 trillion in 2025. Beijing launched an \"ASEAN visa\" and the China‑ASEAN Year of Cultural Exchanges (2024–2025) staged nearly 200 major events to boost cross‑border travel and services flows. China reached key consensus with eight ASEAN countries on building bilateral \"communities of shared destiny,\" strengthening the basis for closer China‑ASEAN integration. Beijing provided immediate disaster relief after earthquakes in Myanmar and the Philippines’ Mindanao, underscoring operational cooperation with ASEAN partners."
-    },
-    {
-      "id": "5002863",
-      "time": "2026-07-23 00:35:48",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "烏軍方副總司令：烏克蘭將在兩至三個月內部署鐳射武器，其攔截目標的效能優於機槍。"
     }
   ]
 }

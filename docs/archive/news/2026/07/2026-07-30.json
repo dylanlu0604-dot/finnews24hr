@@ -1,7 +1,58 @@
 {
   "date": "2026-07-30",
-  "count": 38,
+  "count": 43,
   "items": [
+    {
+      "id": "mkt:019faebd-f775-7aab-8eef-f22fc9a640e8",
+      "time": "2026-07-30 00:38:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI CEO Sam Altman told reporters after a meeting with Republican Senator Ted Cruz that they discussed new AI models and that he supports an AI safety bill, but he declined to provide details."
+    },
+    {
+      "id": "5014906",
+      "time": "2026-07-30 00:37:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "OPENAI執行長ALTMAN與美國議員討論新的人工智慧模型。"
+    },
+    {
+      "id": "mkt:019faebc-5242-7aab-8eef-eb537f49f9da",
+      "time": "2026-07-30 00:36:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "Waymo says Google's Gemini in-car assistant has entered passenger-facing testing."
+    },
+    {
+      "id": "5014905",
+      "time": "2026-07-30 00:35:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "Alphabet旗下自動駕駛公司Waymo： 谷歌 Gemini 車載助手現已面向乘客開啟測試版。"
+    },
+    {
+      "id": "mkt:019faebb-723a-7aab-8eef-e1d8ac275caa",
+      "time": "2026-07-30 00:35:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's Ministry of Petroleum said it will take necessary measures to investigate the cause of the fire at Damietta port."
+    },
     {
       "id": "mkt:019faeba-2f63-7aab-8eef-da63ef5768fd",
       "time": "2026-07-30 00:34:25",
