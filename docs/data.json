@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-30 05:13:47",
-  "count": 17782,
+  "updated": "2026-07-30 05:17:41",
+  "count": 17784,
   "items": [
+    {
+      "id": "5015255",
+      "time": "2026-07-30 05:17:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "奇波雷墨西哥燒烤高管：預計第三季度同店銷售額增長約1%，假設客流持續受到約200個基點的負面影響。"
+    },
+    {
+      "id": "5015254",
+      "time": "2026-07-30 05:16:23",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院訊息：全球疫苗免疫聯盟承諾設立秘書處職能部門，持續監測、評估疫苗科研領域進展。"
+    },
+    {
+      "id": "mkt:019fafbc-2cbd-7aab-8ef9-e742607ca753",
+      "time": "2026-07-30 05:16:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US State Department reiterated the US will not provide government funding to the World Health Organization through Gavi, the Vaccine Alliance. It said the US expects to resume its seat on Gavi's board."
+    },
+    {
+      "id": "5015253",
+      "time": "2026-07-30 05:15:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.53%，報14683點。"
+    },
+    {
+      "id": "mkt:019fafba-4a74-7aab-8ef9-dc91cc70bd4c",
+      "time": "2026-07-30 05:14:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) CEO said consumer personal agents will become an extremely important and large market."
+    },
     {
       "id": "mkt:019fafb7-d4ff-7aab-8ef9-d683e97e41ba",
       "time": "2026-07-30 05:11:28",
@@ -164025,30 +164073,6 @@
         "其他"
       ],
       "text": "Alphabet：將加快 AI 模型的釋出節奏。"
-    },
-    {
-      "id": "5003070",
-      "time": "2026-07-23 05:17:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "Alphabet： 公司正將 AI 算力資源集中投入 Gemini 4 的研發訓練。"
-    },
-    {
-      "id": "5003069",
-      "time": "2026-07-23 05:17:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗邁赫爾通訊社：美軍襲擊擊中伊朗拉姆希爾附近一處瀝青倉庫。"
-    },
-    {
-      "id": "5003068",
-      "time": "2026-07-23 05:15:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.31%，報15203點。"
     }
   ]
 }
