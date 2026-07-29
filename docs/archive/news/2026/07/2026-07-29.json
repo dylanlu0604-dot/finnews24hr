@@ -1,7 +1,242 @@
 {
   "date": "2026-07-29",
-  "count": 686,
+  "count": 711,
   "items": [
+    {
+      "id": "mkt:019fab65-f4e2-7aab-8ed8-876c2e364a6b",
+      "time": "2026-07-29 09:03:33",
+      "tags": [
+        "MKT News",
+        "000660.KS"
+      ],
+      "text": "SK Hynix says conversion of its South Korea-listed shares into ADRs could be restricted."
+    },
+    {
+      "id": "5013280",
+      "time": "2026-07-29 09:03:17",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【金融危機預警者Whitney預計美聯儲按兵不動 美國經濟第四季面臨考驗】 曾因在2007年全球金融危機前夕率先發出警告而聲名鵲起的前銀行分析師Meredith Whitney表示，隨著世界盃帶來的一次性經濟提振效應以及財政支出餘溫逐漸消退，美國經濟將在第四季度迎來一場“清算時刻”。\nWhitney週二接受媒體採訪時表示，每週信用卡餘額這一反映消費者支出而非迴圈債務的實時指標，目前增速已較5月放緩。與此同時，美國消費者也正在消化汽油價格上漲帶來的壓力。Meredith Whitney Advisory Group創始人兼執行長Whitney表示，上述因素將為美聯儲週三維持利率不變提供理由。她駁斥了Citadel Securities等機構提出的觀點，即意外加息將有助於提高美聯儲主席凱文·沃什的公信力。Whitney認為，沃什設立五個政策工作組的做法，實際上為其爭取了數個月時間，無需急於作出政策轉向決定。“我認為他們會維持利率不變，同時繼續使用偏強硬、偏鷹派的措辭，為未來行動保留迴旋空間，”她表示。談及沃什時，Whitney稱：“他的傾向是等待，並確保自己真的做出了正確判斷。”"
+    },
+    {
+      "id": "5013279",
+      "time": "2026-07-29 09:02:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：將積極應對人工智慧儲存領域不斷變化的需求。"
+    },
+    {
+      "id": "5013278",
+      "time": "2026-07-29 09:02:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "40年期日本國債收益率上漲1.5個基點，至4.045%。"
+    },
+    {
+      "id": "5013277",
+      "time": "2026-07-29 09:02:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經股價指數回吐早盤漲幅，最新基本持平。"
+    },
+    {
+      "id": "5013276",
+      "time": "2026-07-29 09:02:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：有必要維持緊縮政策立場；將繼續努力穩定市場；預計下半年通脹將超過目標；有必要對房價和家庭債務相關風險保持更謹慎態度。"
+    },
+    {
+      "id": "mkt:019fab64-4f67-7aab-8ed8-7be6c09de859",
+      "time": "2026-07-29 09:01:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【China 1H total social logistics 181.1 trillion yuan】China Federation of Logistics and Purchasing reported on the 29th that 1H total social logistics reached 181.1 trillion yuan, up 5.1% YoY — 0.4 percentage point above GDP growth. Quarterly growth was 6.2% in Q1 and 4.4% in Q2. The federation said logistics demand continued to expand and support economic growth."
+    },
+    {
+      "id": "mkt:019fab64-1eb8-7aab-8ed8-778a70eb9f5f",
+      "time": "2026-07-29 09:01:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225"
+      ],
+      "text": "Japan's Nikkei 225 gave back early gains and was trading flat."
+    },
+    {
+      "id": "5013275",
+      "time": "2026-07-29 09:01:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：將加強其在NAND領域的產品陣容。"
+    },
+    {
+      "id": "mkt:019fab63-de83-7aab-8ed8-6a420ae2cff0",
+      "time": "2026-07-29 09:01:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D fell 0.62% in early trade on July 29 to 877.0 yuan/gram; Silver T+D slipped 0.46% to 13,945.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019fab63-d45c-7aab-8ed8-6598201f46b0",
+      "time": "2026-07-29 09:01:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened down 41.97 points (-0.1%) at 41,561.39 on July 29 (Wednesday)."
+    },
+    {
+      "id": "mkt:019fab63-d204-7aab-8ed8-5d3f99e1edb2",
+      "time": "2026-07-29 09:01:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【MOFCOM spokesperson responds to US DoD adding some Chinese research institutes to sanctions list】MOFCOM spokesperson said the US is broadening its national security concept and erecting discriminatory barriers, politicizing and weaponizing research cooperation, and thereby obstructing Sino-US scientific exchanges — a move contrary to global technology collaboration. China urges the US to stop smearing Chinese research institutions, correct its approach, and provide fair, impartial, non‑discriminatory treatment. China will take necessary measures to safeguard the legitimate rights of its research institutions and to protect normal scientific exchanges and cooperation."
+    },
+    {
+      "id": "5013274",
+      "time": "2026-07-29 09:01:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.3%報41,491.48。"
+    },
+    {
+      "id": "5013273",
+      "time": "2026-07-29 09:00:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【商務部新聞發言人就美國防部將部分中國科研機構列入制裁清單事答記者問】有記者問：美東時間7月23日，美國防部更新公佈“從事問題活動的外國科研機構清單”（1286清單），對中方部分科研機構實施列單制裁。請問商務部對此有何評論？答：我們注意到這一情況。中方對此強烈不滿、堅決反對。美方不斷泛化國家安全概念，人為設定歧視性壁壘，將科研合作政治化、武器化、工具化，阻礙中美科研領域交流合作，這與全球科技創新合作大勢背道而馳。中方敦促美方停止對中國科研機構無端抹黑，儘快糾正錯誤做法，為中國科研機構提供公平、公正、非歧視待遇。中方將採取必要措施，維護中方科研機構的正當合法權益，為正常科技交流合作保駕護航。"
+    },
+    {
+      "id": "mkt:019fab63-27e0-7aab-8ed8-54b666fbedef",
+      "time": "2026-07-29 09:00:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy"
+      ],
+      "text": "At the morning open, China’s commodity front-month futures were mostly lower. 20# rubber fell more than 2% and rubber nearly 2%; Shanghai silver, synthetic rubber, Shanghai nickel, soda ash and caustic soda declined over 1%; white sugar slipped about 1%. Advancers included container shipping to Europe, up over 4%; styrene (EB), low-sulfur fuel oil (LU) and ethylene glycol (EG) each rose more than 1%; Shanghai aluminum and foundry aluminum gained about 1%."
+    },
+    {
+      "id": "mkt:019fab63-2693-7aab-8ed8-4b22056f7b14",
+      "time": "2026-07-29 09:00:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea says it will continue market-stabilization operations."
+    },
+    {
+      "id": "5013272",
+      "time": "2026-07-29 09:00:29",
+      "tags": [],
+      "text": "國內期貨主力合約跌多漲少，20號膠跌超2％，橡膠跌近2％，滬銀、合成橡膠、滬鎳、純鹼、燒鹼跌超1％，白糖跌近1％。漲幅方面，集運歐線漲超4％，苯乙烯（EB）、低硫燃料油（LU）、乙二醇（EG）漲超1％，滬鋁、鑄造鋁漲近1％。"
+    },
+    {
+      "id": "5013271",
+      "time": "2026-07-29 09:00:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報1736.00點。"
+    },
+    {
+      "id": "mkt:019fab63-1814-7aab-8ed8-46df0d018e73",
+      "time": "2026-07-29 09:00:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "BANK OF KOREA says inf will exceed the target in H2 and it is necessary to maintain a tight policy stance."
+    },
+    {
+      "id": "5013270",
+      "time": "2026-07-29 09:00:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年全國社會物流總額超180萬億元】中國物流與採購聯合會今天（29日）公佈今年上半年物流執行資料。上半年，物流需求規模持續擴大，結構最佳化與動能轉換特徵突出。今年上半年，全國社會物流總額181.1萬億元，同比增長5.1%，高於同期GDP增速0.4個百分點，物流需求對國民經濟增長的支撐引領作用持續增強。分季度看，一、二季度分別增長6.2%、4.4%，總體呈現穩中有增的發展態勢。"
+    },
+    {
+      "id": "mkt:019fab62-f165-7aab-8ed8-3acec62eb5cf",
+      "time": "2026-07-29 09:00:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea: must be more cautious in addressing risks tied to house prices and household debt."
+    },
+    {
+      "id": "5013269",
+      "time": "2026-07-29 09:00:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌1%，現報969.00元。"
+    },
+    {
+      "id": "5013268",
+      "time": "2026-07-29 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報1720.00點。"
+    },
+    {
+      "id": "5013267",
+      "time": "2026-07-29 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】集運指數歐線期貨連續漲4.24%，20號膠連續跌2.32%，天然橡膠連續跌1.91%，白銀連續跌1.48%，低硫燃料油連續漲1.36%。"
+    },
+    {
+      "id": "5013266",
+      "time": "2026-07-29 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.27%。"
+    },
     {
       "id": "5013265",
       "time": "2026-07-29 08:59:33",
