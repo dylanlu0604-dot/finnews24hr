@@ -1,7 +1,88 @@
 {
   "date": "2026-07-30",
-  "count": 1001,
+  "count": 1010,
   "items": [
+    {
+      "id": "5015424",
+      "time": "2026-07-30 07:56:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達三週來透過霍爾木茲海峽運送首批液化天然氣。"
+    },
+    {
+      "id": "te:markets:570901",
+      "time": "2026-07-30 07:56:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Edges Higher After Fed Decision — Gold climbed toward $4,100 an ounce on Thursday, building on the previous session’s gains after the Federal Reserve left interest rates unchanged despite mounting inflationary pressures stemming from renewed conflict in the Middle East. The decision offered some support to bullion, as higher interest rates tend to weigh on demand for non-yielding assets. Still, three FOMC members dissented in favor of a rate hike, while Chairman Kevin Warsh said that if inflation remains elevated throughout the forecast period, higher interest rates could become an appropriate policy response. Elsewhere, both the BOE and the BOJ are widely expected to keep interest rates unchanged this week while maintaining a cautious approach to inflation. In the Middle East, President Donald Trump pledged a strong response after an attack on US forces in Jordan. Meanwhile, the two sides continued to struggle to reach a potential agreement as Tehran insisted on retaining control of the Strait of Hormuz."
+    },
+    {
+      "id": "5015423",
+      "time": "2026-07-30 07:55:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：系統LSI業務預計零部件成本上升和消費需求疲軟將持續。"
+    },
+    {
+      "id": "5015422",
+      "time": "2026-07-30 07:55:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：系統LSI部門已獲得下一代旗艦系統級晶片訂單。"
+    },
+    {
+      "id": "mkt:019fb04d-1e03-7aab-8efb-f94ea04abb31",
+      "time": "2026-07-30 07:54:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "Samsung Electronics said its memory business expects strong demand from continued AI infrastructure capex and broader autonomous AI applications."
+    },
+    {
+      "id": "5015421",
+      "time": "2026-07-30 07:54:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：受人工智慧基礎設施資本開支援續增加，以及智慧體人工智慧應用範圍不斷擴大推動，儲存業務預計以伺服器為核心的需求將保持強勁。"
+    },
+    {
+      "id": "5015420",
+      "time": "2026-07-30 07:53:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "索尼：相信該提議將提升騰龍的企業價值並符合利益相關者的利益。"
+    },
+    {
+      "id": "5015419",
+      "time": "2026-07-30 07:53:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星：預計下半年整體盈利將實現增長。韓元走弱在第二季度產生了31萬億韓元的積極影響。"
+    },
+    {
+      "id": "mkt:019fb04c-4eb5-7aab-8efb-f2f0439084f3",
+      "time": "2026-07-30 07:53:38",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "Samsung Electronics said won depreciation delivered a positive impact of KRW 3.1 tln in Q2."
+    },
     {
       "id": "mkt:019fb04b-deff-7aab-8efb-ee47aa1ab6c2",
       "time": "2026-07-30 07:53:09",
