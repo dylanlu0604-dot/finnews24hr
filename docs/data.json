@@ -1,7 +1,54 @@
 {
-  "updated": "2026-07-30 04:42:52",
-  "count": 17784,
+  "updated": "2026-07-30 04:46:46",
+  "count": 17788,
   "items": [
+    {
+      "id": "5015232",
+      "time": "2026-07-30 04:46:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic表示，已經查明影響旗下模型執行的故障。"
+    },
+    {
+      "id": "5015231",
+      "time": "2026-07-30 04:44:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟Azure年度營收突破1000億美元。"
+    },
+    {
+      "id": "5015230",
+      "time": "2026-07-30 04:43:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克：本季度咖啡原料價格壓力將會緩解。"
+    },
+    {
+      "id": "5015229",
+      "time": "2026-07-30 04:42:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "Robinhood 2026年Q2營收13.1億美元，同比增長32%。"
+    },
+    {
+      "id": "mkt:019faf9d-63bb-7aab-8ef9-604b453ce05d",
+      "time": "2026-07-30 04:42:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) CEO says demand for new AI creative tools is strong."
+    },
     {
       "id": "mkt:019faf9c-c5f0-7aab-8ef9-5e467c408504",
       "time": "2026-07-30 04:41:54",
@@ -164058,14 +164105,6 @@
         "公司"
       ],
       "text": "谷歌CEO皮查伊：市場對該公司人工智慧基礎設施的需求十分旺盛。"
-    },
-    {
-      "id": "5003041",
-      "time": "2026-07-23 04:43:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門武裝部隊發言人：葉門武裝部隊即將釋出宣告，宣佈開展一次特種軍事行動。"
     }
   ]
 }
