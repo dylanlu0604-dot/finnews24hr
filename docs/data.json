@@ -1,7 +1,127 @@
 {
-  "updated": "2026-07-29 08:03:22",
-  "count": 17539,
+  "updated": "2026-07-29 08:07:12",
+  "count": 17541,
   "items": [
+    {
+      "id": "5013179",
+      "time": "2026-07-29 08:06:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【邁威生物與SVAX就阿柏西普眼內注射溶液在海灣阿拉伯國家達成戰略合作】7月29日，邁威生物宣佈其與沙烏地阿拉伯生物製藥公司SVAXInc.（以下簡稱：SVAX）就9MW0813（阿柏西普眼內注射溶液，艾力雅®生物類似藥）達成許可協議。根據協議，雙方將就產品在海灣阿拉伯國家的註冊、生產和商業化展開深度合作。"
+    },
+    {
+      "id": "mkt:019fab31-d75e-7aab-8ed7-36a230adeb9d",
+      "time": "2026-07-29 08:06:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI rose as much as 2.00% intraday."
+    },
+    {
+      "id": "5013178",
+      "time": "2026-07-29 08:06:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲3%，現報84.55美元/桶。"
+    },
+    {
+      "id": "5013177",
+      "time": "2026-07-29 08:06:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至日本時間凌晨4點更新，熊本永旺購物中心倒塌事故已造成3人死亡。"
+    },
+    {
+      "id": "5013176",
+      "time": "2026-07-29 08:06:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【日經225指數漲幅擴大至1%】日經225指數漲幅擴大至1%，現報62982.09點。"
+    },
+    {
+      "id": "mkt:019fab31-0447-7aab-8ed7-2e77c002dfac",
+      "time": "2026-07-29 08:05:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Huatai Macro: Slightly above 50% chance of Fed July rate hike】Huatai Macro says markets have shifted from pricing dovish cuts to a more hawkish near-term stance after Kevin Warsh’s appointment as Fed chair. With forward guidance abandoned, expectations are highly split and pricing is more difficult; focus will move from words to actions. Based on past chair transitions, the current macro backdrop and Warsh’s need to build credibility, Huatai assigns a slightly >50% probability of a July rate hike (versus the market’s ~40%) and sees a near-100% chance of a hike before September. From the new-chair/market interaction, the aggregate cost of hiking in July may be lower."
+    },
+    {
+      "id": "5013175",
+      "time": "2026-07-29 08:05:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至2%】韓國綜指漲幅擴大至2%，現報6143.88點。個股方面，三星電子漲超4%，SK海力士漲超3%。"
+    },
+    {
+      "id": "5013174",
+      "time": "2026-07-29 08:05:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國融通集團與珠海市政府簽署政企合作協議】7月28日，中國融通集團與珠海市人民政府在北京簽署政企合作協議。根據協議，雙方將建立常態化工作機制，在新興產業、海島經濟、軍事文旅、酒店配套、存量資產盤活等領域開展深度合作。"
+    },
+    {
+      "id": "5013173",
+      "time": "2026-07-29 08:05:09",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【華泰證券：預計美聯儲7月加息機率略高於一半 9月前加息的機率接近100%】華泰證券指出，美聯儲新任主席凱文·沃什（Kevin Warsh）上任後，金融市場對這位新主席政策取向的定價從此前的鴿派降息，轉為更偏鷹派的短期立場。但臨近7月議息會議，市場對聯儲下一步政策的預期卻極度分化。沃什廢除前瞻指引後，市場定價更為困難，而沃什和市場博弈焦點勢必從“聽其言”轉為“觀其行”。綜合分析歷屆聯儲主席換屆經驗、當前宏觀環境以及沃什贏得公信力的目標，華泰證券將聯儲加息的預測時點提前——預計，7月加息機率略高於一半，高於市場目前預期的40%，而基準情形下，沃什9月前加息的機率接近100%。從新任主席和市場博弈的角度看，7月加息綜合成本或更低。"
+    },
+    {
+      "id": "te:markets:570524",
+      "time": "2026-07-29 08:04:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Decline as Oil Prices Rebound — Silver traded near $57 an ounce on Wednesday, holding the previous session’s decline as oil prices rebounded following renewed hostilities in the Middle East, reviving geopolitical tensions and keeping investors focused on inflationary pressures and the interest rate outlook. The US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East. Investors also awaited the Federal Reserve’s policy decision, where it is expected to leave interest rates unchanged. However, markets continue to price in about a one-third chance of a rate hike, reflecting an unusually high level of uncertainty this close to a policy announcement despite repeated calls from President Donald Trump for lower interest rates. Traders also assign roughly an 80% probability to a rate increase in September, reinforcing expectations that borrowing costs could remain elevated."
+    },
+    {
+      "id": "5013172",
+      "time": "2026-07-29 08:04:58",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：建議關注國內風電招標放量和建設提速帶來的產業鏈盈利改善和估值修復機會】中信證券研報稱，受綠電市場化交易政策影響，過去一年國內風電開發商觀望情緒濃厚，風電專案招標和開發進度多有延後；但隨著專案競價和執行經驗持續積累，以及2027年部分省份機制電價和電量大幅上漲帶動專案收益率預期回升，中信證券預計2026H2起，開發商對新專案招標和建設積極性有望迎來改善。目前風電行業預期底部已夯實，業績底有望隨著2027年中報陸續釋出而明確；隨著行回暖訊號漸強，建議關注國內風電招標放量和建設提速帶來的產業鏈盈利改善和估值修復機會，推薦具備“雙海”競爭優勢的整機和細分零部件龍頭。"
+    },
+    {
+      "id": "5013171",
+      "time": "2026-07-29 08:04:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國航空集團出現系統故障 航班一度停飛】當地時間7月28日晚間，美國聯邦航空管理局確認，因美國航空集團系統發生故障，對該集團在全美範圍的航班釋出“地面停飛”令。美國空中交通管制系統指揮中心表示，此次系統故障影響了美國航空在所有機場和相關設施的運營。根據航班追蹤資料公司FlightAware的資料，美國航空航班一度可正常降落，但暫停起飛。當天晚些時候，美國航空集團發表宣告稱，當晚公司部分系統曾因技術問題一度出現連線故障。在修復後，各項系統正陸續恢復上線，航班也已重新開始起飛。宣告同時確認在技術團隊排查並解決問題時，公司曾臨時實施地面停飛措施。（央視）"
+    },
+    {
+      "id": "5013170",
+      "time": "2026-07-29 08:03:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "力拓股價上漲2.8%，此前該公司公佈的上半年基本利潤超出預期。"
+    },
     {
       "id": "5013169",
       "time": "2026-07-29 08:01:57",
@@ -160797,111 +160917,6 @@
         "觀點"
       ],
       "text": "【中信證券：繼續全面看好國產算力產業鏈】中信證券研報稱，WAIC 2026維持高關注度，算力晶片領域天數智芯、東方算芯等釋出新產品，加速對海外先進產品的效能追趕；超節點是大會核心聚焦，成為指引未來算力發展向系統級層面升維的重要方向；互聯等AI Infra技術加速落地，國產底座進一步升維，行業從單卡算力競爭轉向晶片、高速互聯、整機架構與行業應用全鏈條生態協同競爭。繼續全面看好國產算力產業鏈。"
-    },
-    {
-      "id": "5001040",
-      "time": "2026-07-22 08:07:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化買盤。"
-    },
-    {
-      "id": "te:markets:568644",
-      "time": "2026-07-22 08:06:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Holds Gain Despite Rising Oil Prices — Silver traded near $59 an ounce on Wednesday after jumping 4% in the previous session, as investors continued to monitor Middle East uncertainties and rising oil prices and their impact on inflation and interest rates. President Donald Trump downplayed the chances of near-term talks with Iran and warned of additional strikes, lifting oil prices. Iran-backed Houthi rebels in Yemen also disrupted shipping through the Red Sea, while a series of attacks on the Caspian Pipeline Consortium terminal along Russia’s Black Sea coast added to supply concerns. Meanwhile, ADP data showed US private employers added an average of 16,500 jobs per week over the four weeks ending July 4, down from an average weekly gain of 19,250 in the prior four-week period, marking a fourth straight slowdown in hiring. Markets widely expect the Federal Reserve to leave interest rates unchanged at next week’s meeting, while pricing in more than a 55% chance of a rate hike in September."
-    },
-    {
-      "id": "mkt:019f8725-5ae2-7aab-8e34-879fcd4fa92a",
-      "time": "2026-07-22 08:06:39",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Korea Exchange activated a programmatic-trading pause mechanism for the KOSPI index."
-    },
-    {
-      "id": "5001039",
-      "time": "2026-07-22 08:06:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價上漲8.1%，報198.3萬韓元。"
-    },
-    {
-      "id": "te:markets:568643",
-      "time": "2026-07-22 08:06:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Gain Despite Rising Oil Prices — Gold traded around $4,080 an ounce on Wednesday after climbing nearly 2% in the previous session, as investors continued to monitor Middle East uncertainties and rising oil prices and their impact on inflation and interest rates. President Donald Trump downplayed the chances of near-term talks with Iran and warned of additional strikes, lifting oil prices. Iran-backed Houthi rebels in Yemen also disrupted shipping through the Red Sea, while a series of attacks on the Caspian Pipeline Consortium terminal along Russia’s Black Sea coast added to supply concerns. Meanwhile, ADP data showed US private employers added an average of 16,500 jobs per week over the four weeks ending July 4, down from an average weekly gain of 19,250 in the prior four-week period, marking a fourth straight slowdown in hiring. Markets widely expect the Federal Reserve to leave interest rates unchanged at next week’s meeting, while pricing in more than a 55% chance of a rate hike in September."
-    },
-    {
-      "id": "mkt:019f8724-a403-7aab-8e34-7e0f3514301a",
-      "time": "2026-07-22 08:05:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran state TV reported sounds of air-defense activity in western, eastern and northeastern Tehran."
-    },
-    {
-      "id": "5001038",
-      "time": "2026-07-22 08:05:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "法庭檔案顯示，美國司法部提議馬杜羅一案於2027年6月開庭審理。"
-    },
-    {
-      "id": "mkt:019f8724-8228-7aab-8e34-74be07a6ad2e",
-      "time": "2026-07-22 08:05:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Court filings show the U.S. Department of Justice proposed scheduling Nicolas Maduro's trial to begin in June 2027."
-    },
-    {
-      "id": "5001037",
-      "time": "2026-07-22 08:05:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【日經225指數漲幅擴大至1%】日經225指數漲幅擴大至1%，現報66931.11點。"
-    },
-    {
-      "id": "mkt:019f8723-a76a-7aab-8e34-6b7eeaf6cd07",
-      "time": "2026-07-22 08:04:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 gained 1.00% intraday."
-    },
-    {
-      "id": "5001036",
-      "time": "2026-07-22 08:04:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【中際旭創尋求募資至多550億港元 料成為香港近年來最大規模上市交易】據報道，中際旭創已開始接受投資者對其香港上市的認購，擬募集資金至多550億港元，這將成為香港七年來規模最大的上市交易。根據該公司週三釋出的上市檔案，這家對資料中心建設至關重要的光收發器製造商將發行5450萬股，最高發行價每股1010港元，較週二在深圳的收盤價1136.55元人民幣折讓23%。中際旭創預計將於7月30日在香港掛牌。該公司計劃將募集的資金用於研發、擴大產能、最佳化供應鏈、收購、投資和營運資金。2026年第一季度，該公司的營收達195億元人民幣。基石投資者已同意認購價值34.5億美元的中際旭創股票，其中包括資產管理公司貝萊德、高瓴和摩根資產管理以及新加坡國有機構淡馬錫。基石投資者承諾持有股票至少六個月以換取本次交易中確保認購份額。"
     }
   ]
 }
