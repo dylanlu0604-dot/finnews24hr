@@ -1,7 +1,102 @@
 {
-  "updated": "2026-07-29 18:30:47",
-  "count": 17536,
+  "updated": "2026-07-29 18:34:39",
+  "count": 17528,
   "items": [
+    {
+      "id": "5014387",
+      "time": "2026-07-29 18:33:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利聯合聖保羅銀行：對俄風險敞口已幾乎降至零。"
+    },
+    {
+      "id": "mkt:019fad6f-66d6-7aab-8ee7-6eebf46b6ba5",
+      "time": "2026-07-29 18:33:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "The US announced a memorandum of intent for semiconductor R&D investment totaling $874 mln."
+    },
+    {
+      "id": "5014386",
+      "time": "2026-07-29 18:32:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙江正特：擬出資690萬元設立寵物科技合資公司，持股69%】浙江正特公告，公司擬與關聯方深圳沐禾企業管理合夥企業（有限合夥）共同出資設立深圳禾沐寵物科技有限公司，註冊資本1000萬元，其中公司出資690萬元，持股比例69%，沐禾合夥出資310萬元，持股比例31%。該事項已經公司第四屆董事會第十二次會議審議透過，構成關聯交易。"
+    },
+    {
+      "id": "mkt:019fad6e-da7b-7aab-8ee7-639d3ae3aba4",
+      "time": "2026-07-29 18:32:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Head of Iran's West Azerbaijan crisis management bureau said a projectile struck an uninhabited area with no buildings and caused no casualties."
+    },
+    {
+      "id": "5014385",
+      "time": "2026-07-29 18:32:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【普門科技：近期取得3個醫療器械註冊證】普門科技公告，公司於近期收到3個廣東省藥品監督管理局頒發的《中華人民共和國醫療器械註冊證（體外診斷試劑）》，產品包括β-膠原特殊序列（β-CTx）測定試劑盒（電化學發光法）、纖溶酶-α2纖溶酶抑制劑複合物（PIC STAT）測定試劑盒（電化學發光法）和組織型纖溶酶原啟用劑-抑制劑1複合物（tPAIC STAT）測定試劑盒（電化學發光法），分別用於骨質疏鬆輔助診斷、血栓性疾病輔助診斷及療效觀察、心血管疾病輔助診斷。截至本公告披露日，公司及控股子公司已取得116個電化學發光配套檢測試劑註冊證。"
+    },
+    {
+      "id": "5014384",
+      "time": "2026-07-29 18:31:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "波士頓科學：預計2026年第三季度整體營收同比增長3%-5%，該增速口徑同時包含財報基準口徑與內生增長口徑。"
+    },
+    {
+      "id": "5014383",
+      "time": "2026-07-29 18:31:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "裕信銀行預計全年淨利潤超 100 億歐元，此前指引約 100 億歐元。"
+    },
+    {
+      "id": "5014382",
+      "time": "2026-07-29 18:31:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "裕信銀行第二季度營業收入 73.8 億歐元，市場預期 69.9 億歐元。"
+    },
+    {
+      "id": "5014381",
+      "time": "2026-07-29 18:30:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "裕信銀行二季度淨利潤 27.9 億歐元，市場預期 25.2 億歐元。"
+    },
+    {
+      "id": "mkt:019fad6d-4441-7aab-8ee7-5bf73e3eec32",
+      "time": "2026-07-29 18:30:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian media Fars News quoted the local crisis management department saying an enemy projectile struck Iran's West Azerbaijan province."
+    },
+    {
+      "id": "te:markets:570754",
+      "time": "2026-07-29 18:30:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Rice Eases from 18-Month High — Rice prices eased to around $13.7 per hundredweight, retreating from the 18-month high of $14.3 reached on July 22 as traders reassess the balance between weather risks and ample global supplies. Earlier gains were driven by concerns that El Niño and below-normal monsoon rainfall could reduce rice production across major Asian growers, particularly India, Vietnam and the Philippines. Although these risks remain, conditions in India have improved after a revival in monsoon rains accelerated rice planting and significantly narrowed the earlier sowing deficit. In addition, India's rice exports rose 5% in the first half of 2026, supported by strong non-basmati shipments and abundant domestic supplies, helping keep global markets well supplied. However, prices remain relatively elevated because weather uncertainty has not disappeared. Dry conditions could still affect yields later in the season, while the USDA projects tighter US rice supplies and lower ending stocks."
+    },
     {
       "id": "te:markets:570753",
       "time": "2026-07-29 18:30:11",
@@ -160767,191 +160862,6 @@
         "市場"
       ],
       "text": "GE VERNOVA股價跌幅擴大至3.6%。"
-    },
-    {
-      "id": "5002219",
-      "time": "2026-07-22 18:34:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "國投白銀LOF(161226)將於2026年7月23日開市起停牌，自2026年7月23日10:30起復牌，停牌期間贖回業務照常辦理。"
-    },
-    {
-      "id": "te:markets:568869",
-      "time": "2026-07-22 18:34:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "AT&T earnings above expectations at 0.65 USD — AT&T (T) released earnings per share at 0.65 USD, compared to market expectations of 0.59 USD."
-    },
-    {
-      "id": "mkt:019f8963-f307-7aab-8e45-c9a2616a128d",
-      "time": "2026-07-22 18:34:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EASA advises airlines and operators to avoid Jordanian airspace at all altitudes and flight levels."
-    },
-    {
-      "id": "mkt:019f8963-9557-7aab-8e45-c4e69a77ab86",
-      "time": "2026-07-22 18:33:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "01772.HK",
-        "Impact bullish"
-      ],
-      "text": "HKEX filing shows BlackRock's H-share stake in Ganfeng Lithium (01772.HK) rose to 9.26% from 8.26% on July 16."
-    },
-    {
-      "id": "mkt:019f8963-9425-7aab-8e45-bb72adcb73b4",
-      "time": "2026-07-22 18:33:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bearish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "【MOFCOM spokesman on France's 'anti-ultrafast fashion' law】China says France's new 'anti-ultrafast fashion' law imposes discriminatory restrictions on China-funded cross-border e-commerce platforms, legislatively distorting fair competition and prompting serious concern. China says the law uses purported 'environmental' and 'sustainability' standards as a pretext for exclusionary measures, may breach WTO non‑discrimination rules, constitutes a trade barrier against China and risks harming Chinese firms' legitimate rights and French consumers."
-    },
-    {
-      "id": "mkt:019f8963-62d9-7aab-8e45-b2b087ad6857",
-      "time": "2026-07-22 18:33:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Guanshi Technology said it will repurchase 15–30 mln yuan of shares to support company value and protect shareholder interests, with a maximum repurchase price of 60 yuan per share."
-    },
-    {
-      "id": "mkt:019f8963-1188-7aab-8e45-af34cbe520b0",
-      "time": "2026-07-22 18:33:18",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Ukraine's new top commander said President Zelenskiy has ordered the armed forces to intensify their counteroffensive."
-    },
-    {
-      "id": "5002218",
-      "time": "2026-07-22 18:33:15",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【商務部新聞發言人就法國“反超快時尚”法有關問題答記者問】問：近日法國出臺了“反超快時尚”法，針對“超快時尚”服飾產業及平臺提出了一系列限制性要求。法國政府官員明確表示，立法首要管控物件是希音、特木、速賣通等跨境電商平臺。請問商務部對此有何評論？ 答：中方注意到，法國近日出臺的“反超快時尚”法對中資跨境電商平臺採取了歧視性限制，以立法方式嚴重扭曲公平競爭，中方對此表示嚴正關切。中方認為，該法以制定所謂“環保”和“可持續”標準為名，行排他性措施為實，涉嫌違反世貿組織非歧視原則，已構成了對華貿易壁壘，嚴重背離法國對外標榜的公平競爭和自由貿易準則，不僅將損害中方企業的正當合法權益，更將傷及法國消費者的切身利益。 我們敦促法方恪守世貿組織規則，立即糾正上述歧視性做法，為中資企業提供公平、透明、非歧視的營商環境。中方將密切關注相關立法實施細則制定與落地執行情況，一旦中國企業合法權益受到侵害，中方將採取必要措施予以回擊。"
-    },
-    {
-      "id": "mkt:019f8963-0007-7aab-8e45-a319e6f78d64",
-      "time": "2026-07-22 18:33:14",
-      "tags": [
-        "MKT News",
-        "T.O",
-        "Impact bullish"
-      ],
-      "text": "After AT&T reported earnings, its U.S. shares rallied in pre-market trade, up 5.1%."
-    },
-    {
-      "id": "5002217",
-      "time": "2026-07-22 18:33:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭新任最高指揮官：澤連斯基要求烏軍加快反攻行動。"
-    },
-    {
-      "id": "5002216",
-      "time": "2026-07-22 18:33:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "GE Vernova一度上漲最高6.7%，短暫翻綠。"
-    },
-    {
-      "id": "5002215",
-      "time": "2026-07-22 18:32:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官方媒體稱一架無人機在德黑蘭上空被擊落。"
-    },
-    {
-      "id": "mkt:019f8962-373f-7aab-8e45-9c5283d75c27",
-      "time": "2026-07-22 18:32:22",
-      "tags": [
-        "MKT News",
-        "T.N",
-        "Impact bearish"
-      ],
-      "text": "AT&T (T.N) Q2 revenue $31.6 bln, +2.6% YoY, versus consensus $31.77 bln."
-    },
-    {
-      "id": "mkt:019f8961-a1e1-7aab-8e45-960d3f7e45d5",
-      "time": "2026-07-22 18:31:44",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Greece's finance ministry said the government warned Greek-flagged vessels face heightened risk in the Red Sea and urged coordination with EU naval forces."
-    },
-    {
-      "id": "5002214",
-      "time": "2026-07-22 18:31:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "港交所披露：7月16日，貝萊德所持贛鋒鋰業H股<1772.HK>多頭持倉佔比從8.26%提升至9.26%。"
-    },
-    {
-      "id": "5002213",
-      "time": "2026-07-22 18:31:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "AT&T股價在公佈第二季度業績後盤前上漲4.5%。"
-    },
-    {
-      "id": "mkt:019f8961-6bfc-7aab-8e45-8b645a82664f",
-      "time": "2026-07-22 18:31:30",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "EU naval Operation Aspides advises vessels associated with the United States, Israel or Saudi Arabia to avoid transiting the Red Sea and Gulf of Aden until threat levels decrease."
-    },
-    {
-      "id": "mkt:019f8961-64c7-7aab-8e45-83c4fc1e848c",
-      "time": "2026-07-22 18:31:29",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "EU naval Operation Aspides warned that, after warnings from Yemen’s Houthi militants, vessels linked to the US, Israel or Saudi Arabia face heightened risk of attack."
-    },
-    {
-      "id": "5002212",
-      "time": "2026-07-22 18:31:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美團閃購與中輕檢驗升級合作：美團名酒行飛天茅臺100%先鑑後發】7月22日訊息，近期，全國各地消費者在閃購飛天茅臺時，發現收到的酒水多了份權威檢測機構的鑑定認證。各類酒水到手後，也可以線上免費申請圖片鑑定。今天，美團閃購與中輕檢驗認證有限公司（以下簡稱“中輕檢驗”）升級合作，引入國家級研究院的檢驗檢測資源，在美團名酒行上線名酒“先鑑後發”服務，首批已覆蓋53度飛天茅臺，消費者掃碼即可檢視酒水的檢驗報告、溯源資訊。（新浪科技）"
     }
   ]
 }

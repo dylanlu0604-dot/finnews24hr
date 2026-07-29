@@ -1,7 +1,102 @@
 {
   "date": "2026-07-29",
-  "count": 2283,
+  "count": 2294,
   "items": [
+    {
+      "id": "5014387",
+      "time": "2026-07-29 18:33:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利聯合聖保羅銀行：對俄風險敞口已幾乎降至零。"
+    },
+    {
+      "id": "mkt:019fad6f-66d6-7aab-8ee7-6eebf46b6ba5",
+      "time": "2026-07-29 18:33:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "The US announced a memorandum of intent for semiconductor R&D investment totaling $874 mln."
+    },
+    {
+      "id": "5014386",
+      "time": "2026-07-29 18:32:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙江正特：擬出資690萬元設立寵物科技合資公司，持股69%】浙江正特公告，公司擬與關聯方深圳沐禾企業管理合夥企業（有限合夥）共同出資設立深圳禾沐寵物科技有限公司，註冊資本1000萬元，其中公司出資690萬元，持股比例69%，沐禾合夥出資310萬元，持股比例31%。該事項已經公司第四屆董事會第十二次會議審議透過，構成關聯交易。"
+    },
+    {
+      "id": "mkt:019fad6e-da7b-7aab-8ee7-639d3ae3aba4",
+      "time": "2026-07-29 18:32:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Head of Iran's West Azerbaijan crisis management bureau said a projectile struck an uninhabited area with no buildings and caused no casualties."
+    },
+    {
+      "id": "5014385",
+      "time": "2026-07-29 18:32:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【普門科技：近期取得3個醫療器械註冊證】普門科技公告，公司於近期收到3個廣東省藥品監督管理局頒發的《中華人民共和國醫療器械註冊證（體外診斷試劑）》，產品包括β-膠原特殊序列（β-CTx）測定試劑盒（電化學發光法）、纖溶酶-α2纖溶酶抑制劑複合物（PIC STAT）測定試劑盒（電化學發光法）和組織型纖溶酶原啟用劑-抑制劑1複合物（tPAIC STAT）測定試劑盒（電化學發光法），分別用於骨質疏鬆輔助診斷、血栓性疾病輔助診斷及療效觀察、心血管疾病輔助診斷。截至本公告披露日，公司及控股子公司已取得116個電化學發光配套檢測試劑註冊證。"
+    },
+    {
+      "id": "5014384",
+      "time": "2026-07-29 18:31:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "波士頓科學：預計2026年第三季度整體營收同比增長3%-5%，該增速口徑同時包含財報基準口徑與內生增長口徑。"
+    },
+    {
+      "id": "5014383",
+      "time": "2026-07-29 18:31:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "裕信銀行預計全年淨利潤超 100 億歐元，此前指引約 100 億歐元。"
+    },
+    {
+      "id": "5014382",
+      "time": "2026-07-29 18:31:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "裕信銀行第二季度營業收入 73.8 億歐元，市場預期 69.9 億歐元。"
+    },
+    {
+      "id": "5014381",
+      "time": "2026-07-29 18:30:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "裕信銀行二季度淨利潤 27.9 億歐元，市場預期 25.2 億歐元。"
+    },
+    {
+      "id": "mkt:019fad6d-4441-7aab-8ee7-5bf73e3eec32",
+      "time": "2026-07-29 18:30:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian media Fars News quoted the local crisis management department saying an enemy projectile struck Iran's West Azerbaijan province."
+    },
+    {
+      "id": "te:markets:570754",
+      "time": "2026-07-29 18:30:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Rice Eases from 18-Month High — Rice prices eased to around $13.7 per hundredweight, retreating from the 18-month high of $14.3 reached on July 22 as traders reassess the balance between weather risks and ample global supplies. Earlier gains were driven by concerns that El Niño and below-normal monsoon rainfall could reduce rice production across major Asian growers, particularly India, Vietnam and the Philippines. Although these risks remain, conditions in India have improved after a revival in monsoon rains accelerated rice planting and significantly narrowed the earlier sowing deficit. In addition, India's rice exports rose 5% in the first half of 2026, supported by strong non-basmati shipments and abundant domestic supplies, helping keep global markets well supplied. However, prices remain relatively elevated because weather uncertainty has not disappeared. Dry conditions could still affect yields later in the season, while the USDA projects tighter US rice supplies and lower ending stocks."
+    },
     {
       "id": "te:markets:570753",
       "time": "2026-07-29 18:30:11",
