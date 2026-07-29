@@ -1,7 +1,65 @@
 {
   "date": "2026-07-30",
-  "count": 80,
+  "count": 85,
   "items": [
+    {
+      "id": "mkt:019faede-851f-7aab-8ef0-b392674424b6",
+      "time": "2026-07-30 01:14:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose about $20 to above $4,050/oz, up 0.53% intraday."
+    },
+    {
+      "id": "mkt:019faedc-85ac-7aab-8ef0-afd390df02d5",
+      "time": "2026-07-30 01:11:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "White House National Economic Council director Hassett said he expects downward pressure on prices."
+    },
+    {
+      "id": "mkt:019faedc-373b-7aab-8ef0-a6e76f50ed94",
+      "time": "2026-07-30 01:11:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Two vessels catch fire at Egypt's Damietta port】Egypt's Ministry of Petroleum and Mineral Resources said on the 29th that an LNG carrier and a storage vessel caught fire at Damietta port on the Mediterranean coast."
+    },
+    {
+      "id": "mkt:019faedb-6cf8-7aab-8ef0-9c154266ee11",
+      "time": "2026-07-30 01:10:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "Market Regions",
+        "Wall Street (US)",
+        "WTI",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Trump hardline on Iran sends oil higher; markets await Fed signal】U.S. stocks opened lower Wednesday, increasing pressure ahead of the Federal Reserve's afternoon rate decision, after oil jumped when Trump told Fox News the U.S. would strike Iran strongly in response to recent attacks in the Middle East. The 10-year Treasury yield rose to 4.62%, near this year's high; the 2-year climbed about 3bp to 4.30%, also close to its peak. Traders broadly want the Fed to signal the Iran-driven oil shock is likely temporary and that it will not rush to hike again this year; some say one additional hike would be reasonable to demonstrate the Fed's anti-inflation resolve and help calm the long end of the curve."
+    },
+    {
+      "id": "5014923",
+      "time": "2026-07-30 01:10:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及達米埃塔港兩艘船隻起火】埃及石油和礦產資源部29日發表宣告說，一艘液化天然氣船和一艘儲存船舶在地中海沿岸的埃及達米埃塔港起火。（新華社）"
+    },
     {
       "id": "mkt:019faeda-d275-7aab-8ef0-93a0779b0c3d",
       "time": "2026-07-30 01:10:03",
