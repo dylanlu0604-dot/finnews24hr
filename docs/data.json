@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-29 21:15:22",
-  "count": 17512,
+  "updated": "2026-07-29 21:19:28",
+  "count": 17504,
   "items": [
+    {
+      "id": "mkt:019fae05-0800-7aab-8eeb-1f07d93a17a9",
+      "time": "2026-07-29 21:16:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian outlet Didban reported four members of the Islamic Revolutionary Guard Corps were killed in US-Saudi strikes on Iran-backed Popular Mobilization Forces inside Iraq."
+    },
     {
       "id": "5014700",
       "time": "2026-07-29 21:12:27",
@@ -160685,87 +160697,6 @@
         "AI Revolution"
       ],
       "text": "【US media: SpaceXAI exploring data center expansion in Texas】The Information reports three people familiar with the matter say Musk-owned AI firm SpaceXAI is advancing plans to build at least one large new data center in Texas. If realised, the project would substantially expand SpaceXAI's compute capacity beyond its existing data center hub in Memphis, Tennessee."
-    },
-    {
-      "id": "5002578",
-      "time": "2026-07-22 21:19:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星詳解新款智慧眼鏡各項功能，正式進軍由 Meta 主導的市場。"
-    },
-    {
-      "id": "5002577",
-      "time": "2026-07-22 21:18:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "富國銀行執行長：正大力推進銀行內部增效工作。"
-    },
-    {
-      "id": "5002576",
-      "time": "2026-07-22 21:18:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：三星推出一款主打娛樂功能的全新摺疊手機，迎戰蘋果即將釋出的新品。"
-    },
-    {
-      "id": "mkt:019f89fa-445d-7aab-8e48-e2151f7e68cc",
-      "time": "2026-07-22 21:18:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY"
-      ],
-      "text": "【Mitsubishi UFJ: dollar shows no clear impact yet from renewed US trade uncertainty】Mitsubishi UFJ Financial Group analyst Derek Halpenny said in a note the dollar is likely to remain largely unaffected in the near term by the latest US trade uncertainty. He expects President Trump's new tariff plan to largely replicate Section 122 tariffs due to expire on Friday, so FX impact should be limited. Halpenny added USD is being supported by markets pricing further Fed hikes and heightened Middle East risk, but warned that if trade uncertainty intensifies and investors grow more concerned about unpredictable policy and damage to the US economy, dollar selling could resume."
-    },
-    {
-      "id": "5002575",
-      "time": "2026-07-22 21:18:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織的協議將促成與其他多邊貸款機構達成協議，玻利維亞有望獲得超50億美元資金。"
-    },
-    {
-      "id": "5002574",
-      "time": "2026-07-22 21:17:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國巴黎銀行將通用汽車目標股價從101美元上調至102美元。"
-    },
-    {
-      "id": "5002573",
-      "time": "2026-07-22 21:17:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "Flynas航空（沙特低成本航空）敲定增購空客 A330-900 與 A321NEO 客機。"
-    },
-    {
-      "id": "5002572",
-      "time": "2026-07-22 21:16:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "玻利維亞經濟部長：我們距離正式宣佈與國際貨幣基金組織（IMF）達成協議僅剩數日時間。"
-    },
-    {
-      "id": "te:markets:568905",
-      "time": "2026-07-22 21:15:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in United Kingdom Hit 20-week High — GB100 increased to 10747.00 Index Points, the highest since March 2026. Over the past 4 weeks, United Kingdom Stock Market Index (GB100) gained 3.03%, and in the last 12 months, it increased 18.58%."
     }
   ]
 }

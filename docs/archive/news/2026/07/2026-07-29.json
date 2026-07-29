@@ -1,7 +1,19 @@
 {
   "date": "2026-07-29",
-  "count": 2747,
+  "count": 2748,
   "items": [
+    {
+      "id": "mkt:019fae05-0800-7aab-8eeb-1f07d93a17a9",
+      "time": "2026-07-29 21:16:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian outlet Didban reported four members of the Islamic Revolutionary Guard Corps were killed in US-Saudi strikes on Iran-backed Popular Mobilization Forces inside Iraq."
+    },
     {
       "id": "5014700",
       "time": "2026-07-29 21:12:27",
