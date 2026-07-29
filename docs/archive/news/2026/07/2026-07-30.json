@@ -1,7 +1,81 @@
 {
   "date": "2026-07-30",
-  "count": 721,
+  "count": 728,
   "items": [
+    {
+      "id": "5015236",
+      "time": "2026-07-30 04:49:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：是時候攻佔哈爾克島，完成行動。"
+    },
+    {
+      "id": "5015235",
+      "time": "2026-07-30 04:47:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "META執行長稱，公司收到許多計算資源報價，均高於其支付價格。"
+    },
+    {
+      "id": "mkt:019fafa1-5efb-7aab-8ef9-7abffbecdeda",
+      "time": "2026-07-30 04:46:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) CEO said the company plans to offer multiple tiers and pricing options for its Meta One subscription service."
+    },
+    {
+      "id": "mkt:019fafa1-2f36-7aab-8ef9-71f6cd8c7ac0",
+      "time": "2026-07-30 04:46:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) CEO said agency products could evolve into a business model similar to advertising."
+    },
+    {
+      "id": "5015234",
+      "time": "2026-07-30 04:46:42",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "土耳其外長與哈馬斯政治局領導人舉行會晤。"
+    },
+    {
+      "id": "mkt:019fafa0-e198-7aab-8ef9-6a28ba5892bb",
+      "time": "2026-07-30 04:46:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "Meta Platforms (META.O) CEO said most of the company's compute capacity will be used for its own operations, but it expects to build a sizable business serving large customers."
+    },
+    {
+      "id": "5015233",
+      "time": "2026-07-30 04:46:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic稱正在處理影響模型執行的故障。"
+    },
     {
       "id": "5015232",
       "time": "2026-07-30 04:46:06",
