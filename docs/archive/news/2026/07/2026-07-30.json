@@ -1,7 +1,36 @@
 {
   "date": "2026-07-30",
-  "count": 43,
+  "count": 46,
   "items": [
+    {
+      "id": "5014907",
+      "time": "2026-07-30 00:45:56",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "Hims & Hers 股價下跌 12.2%。美國聯邦貿易委員會（FTC）起訴該公司，因其向Meta、Snap 傳輸使用者健康資訊。"
+    },
+    {
+      "id": "mkt:019faec4-4c81-7aab-8eef-f9c47192e1b3",
+      "time": "2026-07-30 00:45:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media Kan News reported Egyptian security officials denied an attack at Damietta port, saying the incident was an engine-room fire on a laid-up vessel."
+    },
+    {
+      "id": "te:markets:570832",
+      "time": "2026-07-30 00:44:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Rises Further — US gasoline futures rose above $3.37 per gallon, remaining close to a two-month high as renewed tensions in the Middle East and persistent fuel shortages in Russia tightened the global supply outlook. The US and Saudi forces launched strikes against Iran-backed groups in Iraq, while Tehran reported strikes on vessels transiting the Strait of Hormuz and US bases in Jordan. Higher oil prices followed, as US President Donald Trump pledged retaliatory action, while Iran's rejection of Oman's proposal for joint management of the strait further dampened hopes for de-escalation. Supply concerns were also reinforced by Russia's decision to extend gasoline export restrictions through the end of the year after Ukrainian drone attacks on Russian refineries triggered domestic fuel shortages and sharp price increases. Meanwhile, EIA data showed US gasoline inventories rose slightly last week, defying expectations for a decline, though stocks remained 6% below the five-year seasonal average."
+    },
     {
       "id": "mkt:019faebd-f775-7aab-8eef-f22fc9a640e8",
       "time": "2026-07-30 00:38:32",
