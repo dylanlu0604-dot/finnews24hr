@@ -1,7 +1,70 @@
 {
   "date": "2026-07-30",
-  "count": 749,
+  "count": 754,
   "items": [
+    {
+      "id": "mkt:019fafb5-8c6b-7aab-8ef9-cd7bf33006b5",
+      "time": "2026-07-30 05:08:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "Meta Platforms (META.O) CFO said the company views short-term infrastructure capability as more valuable than long-term capability."
+    },
+    {
+      "id": "mkt:019fafb5-78e1-7aab-8ef9-c592b9ebe29b",
+      "time": "2026-07-30 05:08:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "AMD.O"
+      ],
+      "text": "Meta Platforms (META.O) CFO said industry-wide compute capacity will remain tight for the foreseeable future."
+    },
+    {
+      "id": "mkt:019fafb4-fb64-7aab-8ef9-bd44ec5082f6",
+      "time": "2026-07-30 05:08:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) CFO said the company’s long-term capacity strategy is intended to support sustained compute growth from 2028 onward."
+    },
+    {
+      "id": "mkt:019fafb3-a01d-7aab-8ef9-b5a6be626b15",
+      "time": "2026-07-30 05:06:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Israeli intelligence says US-Iran tensions may escalate further】Israeli security agencies assess that after a recent series of Iranian actions, the US is close to mounting major retaliatory measures. Israel's Channel 15 reported Washington's consensus is that current developments represent an escalation pattern requiring a broader, tougher response; a senior Israeli security source said the Americans are preparing an operation much larger than previously seen. Israeli-collected intelligence points to preparations for a large-scale military operation rather than a localized strike, based on multiple incidents: an Iranian missile attack on US forces in Jordan; Iran-backed groups striking Saudi targets from Iraq; Tehran issuing threats to Azerbaijan and Ukraine; refusal to compromise on the Strait of Hormuz; and reported recent attacks on Egyptian territory. Security sources say these events indicate Iran is intensifying multi-front confrontations and that a US response is likely to be broader and firmer than before."
+    },
+    {
+      "id": "5015252",
+      "time": "2026-07-30 05:06:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通首席財務官：預計第四季度非公認會計准則營業支出約為27億美元。"
+    },
     {
       "id": "mkt:019fafb1-f9ba-7aab-8ef9-aa0922deb331",
       "time": "2026-07-30 05:05:04",

@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-30 05:06:05",
+  "updated": "2026-07-30 05:09:57",
   "count": 17788,
   "items": [
+    {
+      "id": "mkt:019fafb5-8c6b-7aab-8ef9-cd7bf33006b5",
+      "time": "2026-07-30 05:08:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "Meta Platforms (META.O) CFO said the company views short-term infrastructure capability as more valuable than long-term capability."
+    },
+    {
+      "id": "mkt:019fafb5-78e1-7aab-8ef9-c592b9ebe29b",
+      "time": "2026-07-30 05:08:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "AMD.O"
+      ],
+      "text": "Meta Platforms (META.O) CFO said industry-wide compute capacity will remain tight for the foreseeable future."
+    },
+    {
+      "id": "mkt:019fafb4-fb64-7aab-8ef9-bd44ec5082f6",
+      "time": "2026-07-30 05:08:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) CFO said the company’s long-term capacity strategy is intended to support sustained compute growth from 2028 onward."
+    },
+    {
+      "id": "mkt:019fafb3-a01d-7aab-8ef9-b5a6be626b15",
+      "time": "2026-07-30 05:06:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Israeli intelligence says US-Iran tensions may escalate further】Israeli security agencies assess that after a recent series of Iranian actions, the US is close to mounting major retaliatory measures. Israel's Channel 15 reported Washington's consensus is that current developments represent an escalation pattern requiring a broader, tougher response; a senior Israeli security source said the Americans are preparing an operation much larger than previously seen. Israeli-collected intelligence points to preparations for a large-scale military operation rather than a localized strike, based on multiple incidents: an Iranian missile attack on US forces in Jordan; Iran-backed groups striking Saudi targets from Iraq; Tehran issuing threats to Azerbaijan and Ukraine; refusal to compromise on the Strait of Hormuz; and reported recent attacks on Egyptian territory. Security sources say these events indicate Iran is intensifying multi-front confrontations and that a US response is likely to be broader and firmer than before."
+    },
+    {
+      "id": "5015252",
+      "time": "2026-07-30 05:06:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通首席財務官：預計第四季度非公認會計准則營業支出約為27億美元。"
+    },
     {
       "id": "mkt:019fafb1-f9ba-7aab-8ef9-aa0922deb331",
       "time": "2026-07-30 05:05:04",
@@ -164042,52 +164105,6 @@
         "國際"
       ],
       "text": "市場訊息：英特爾正為俄亥俄州晶片工廠尋找運營合作方，SK 海力士是合作候選企業之一。"
-    },
-    {
-      "id": "mkt:019f8ba9-4263-7aab-8e52-6c77d00ce318",
-      "time": "2026-07-23 05:09:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Mehr news agency, citing Khuzestan provincial officials, said a site near Ahvaz was struck by US missiles."
-    },
-    {
-      "id": "5003063",
-      "time": "2026-07-23 05:08:44",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗邁赫爾通訊社援引胡齊斯坦省官員訊息稱，美國發動導彈襲擊，目標位於阿瓦士附近區域。"
-    },
-    {
-      "id": "5003062",
-      "time": "2026-07-23 05:08:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "IBM 執行長：儘管第二季度表現承壓，但 Z17 大型機正迎來史上最強銷售週期。"
-    },
-    {
-      "id": "5003061",
-      "time": "2026-07-23 05:07:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【大型機銷量下滑 IBM下調全年財測】國際商業機器公司（IBM）報告大型機業務需求下降後下調了全年營收展望，其中包括對備受關注的軟體部門的預期。該公司週三在公告中表示，今年營收有望增長4%至5%，而此前的預估是5%以上。首席財務官Jim Kavanaugh在一次採訪中說，軟體部門年銷售額將增長6%至8%。IBM表示將加快實施成本節約計劃，並繼續預計今年新增10億美元的自由現金流。Kavanaugh表示，這將透過減少第三方技術支出、改善供應鏈管理和降低行政成本來實現。他還說，公司今年的員工總數應該不會有什麼變化。該公司總營收增長了約1%，達到172億美元。不計某些專案的每股收益為2.93美元。IBM在紐約收於205.77美元，盤後交易上漲約3%。截至週三收盤，該股今年已下跌31%，其中包括業績初估釋出後單日重挫的25%。"
-    },
-    {
-      "id": "5003060",
-      "time": "2026-07-23 05:06:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【委內瑞拉民眾舉行示威，要求美國釋放馬杜羅夫婦】數百名委內瑞拉民眾22日聚集在委首都加拉加斯市中心的一處廣場，要求美國釋放其關押的委總統馬杜羅及其妻子。此次活動由加拉加斯市長卡門·梅倫德斯和馬杜羅之子尼古拉斯·馬杜羅·格拉領導。格拉在演講中表示，這場審判從根源上就是不合法的，沒有任何實質證據能夠證明馬杜羅犯有任何一項被指控的罪行。格拉還呼籲民眾不要訴諸戰爭或武裝犧牲，而應透過外交、談判和國際溝通解決問題。 遭美國強行控制的委內瑞拉總統馬杜羅22日在紐約南區聯邦地區法院再次出庭，法官宣佈定於2027年6月1日開始審理其所涉指控。（新華社）"
     }
   ]
 }
