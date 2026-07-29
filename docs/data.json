@@ -1,7 +1,81 @@
 {
-  "updated": "2026-07-29 21:07:07",
-  "count": 17517,
+  "updated": "2026-07-29 21:11:22",
+  "count": 17512,
   "items": [
+    {
+      "id": "5014698",
+      "time": "2026-07-29 21:10:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：寶潔公司表示，大宗商品通脹帶來的成本壓力將主要集中於本財年上半年。"
+    },
+    {
+      "id": "5014697",
+      "time": "2026-07-29 21:09:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭總統已抵達盧布林。"
+    },
+    {
+      "id": "mkt:019fadfe-f147-7aab-8eeb-0df07b569fda",
+      "time": "2026-07-29 21:09:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Market sources: Ukrainian president has arrived in Lublin."
+    },
+    {
+      "id": "mkt:019fadfd-bb0e-7aab-8eeb-009c092fc307",
+      "time": "2026-07-29 21:08:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve says the FOMC meeting will resume as scheduled on Wednesday morning (9:00 p.m. Beijing time)."
+    },
+    {
+      "id": "mkt:019fadfd-9ed4-7aab-8eea-fdb9241d8e6d",
+      "time": "2026-07-29 21:08:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【JP Morgan expects US Treasury to avoid changing debt issuance plan ahead of midterms】JP Morgan expects the US Treasury, when publishing next week’s quarterly refunding plan, to avoid any adjustments that could signal larger future issuance and unsettle markets before the November midterm elections. JP Morgan sees a $3.7tn funding shortfall over the next four fiscal years and says officials, in principle, should drop the word \"at least\" from language that auction sizes are expected to remain stable for the next few quarters to align with prudent debt management; politically, however, the Treasury is likely to refrain from signaling increased long-term supply because that could push up long-term US Treasury yields, which are already near highs since Trump’s inauguration."
+    },
+    {
+      "id": "5014696",
+      "time": "2026-07-29 21:08:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息： 美聯儲表示，聯邦公開市場委員會（FOMC）會議已於週三上午 9 時按計劃重啟。"
+    },
+    {
+      "id": "5014695",
+      "time": "2026-07-29 21:07:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： Freehand 完成 7500 萬美元融資，用於擴充人工智慧團隊，為財富 500 強企業管控供應鏈開支。"
+    },
+    {
+      "id": "5014694",
+      "time": "2026-07-29 21:06:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬斯克反對AI公司破壞性掃描書籍】當地時間7月27日，美國企業家埃隆·馬斯克在社交平臺X發文表示，他已要求旗下的人工智慧（AI）公司SpaceXAI將處理過的珍稀書籍儲存在一個圖書館，並以不損壞書籍的方式掃描，而不是直接切斷書脊後掃描。 馬斯克的此番表態針對的是另一家美國AI公司Anthropic的“焚書”做法。據美國《華盛頓郵報》此前披露，Anthropic公司於2024年初啟動代號為“巴拿馬計劃”的專案。公司內部檔案寫道：“巴拿馬計劃是指我們破壞性掃描世界上所有書籍……我們不希望外界知道我們在做這件事。” （環球網）"
+    },
     {
       "id": "mkt:019fadfb-8675-7aab-8eea-f6dcbc6287a7",
       "time": "2026-07-29 21:06:10",
@@ -160692,131 +160766,6 @@
         "Impact bearish"
       ],
       "text": "【Sumitomo Mitsui: If inflation doesn't slow, Fed policymakers will lose credibility】Joseph Lavorgna, Sumitomo Mitsui's chief U.S. economist, said in a report that failure of inflation to slow would cost Fed policymakers credibility. Over the past 70 years core inflation has fallen YoY by 0.9 pct or more only six times; in each instance the slowdown followed Fed tightening. Lavorgna warned the longer the Fed waits the more likely rates will have to be raised above the necessary level, raising the risk of a damaging end to the tightening cycle, and said Chair Walsh understands this."
-    },
-    {
-      "id": "5002569",
-      "time": "2026-07-22 21:11:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【燦芯股份：擬2.06億元購置房產並變更募投專案部分實施地點】燦芯股份公告稱，公司擬投入約2.06億元購置上海和蘇州房產，超出原募投計劃部分用自有資金解決。公司擬將募投專案部分實施地點調整為上海浦東新區碧波路386弄2號和蘇州工業園區揚富路51號的辦公用房。本次變更不影響募投專案建設內容，已獲董事會透過，保薦人發表同意意見。交易尚需籤合同、辦過戶，存在不確定性。"
-    },
-    {
-      "id": "mkt:019f89f3-93df-7aab-8e48-d4e17c040eb6",
-      "time": "2026-07-22 21:11:09",
-      "tags": [
-        "MKT News",
-        "01093.HK",
-        "Impact bullish"
-      ],
-      "text": "CSPC PHARMA (01093.HK) has initiated a Phase II clinical trial in China of SYS-6026 injection for treatment of HPV16/18‑related high-grade cervical squamous intraepithelial lesions."
-    },
-    {
-      "id": "5002568",
-      "time": "2026-07-22 21:10:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "QUMULUSAI與市場合作方簽署了價值1800萬美元、為期兩年的英偉達布萊克韋爾B300照付不議協議。"
-    },
-    {
-      "id": "mkt:019f89f2-e45c-7aab-8e48-cf70f9cf0ec7",
-      "time": "2026-07-22 21:10:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【OpenAI raises 2030 compute-spend forecast to $750 bln; $20 bln Georgia data centre, 3.2 GW power deal】Wall Street Journal reports OpenAI is expanding its data‑center footprint and has raised its compute‑spend forecast through 2030 from about $600 bln earlier this year to roughly $750 bln, citing new agreements with cloud providers to secure large‑scale compute for AI model development and operations. OpenAI said it will invest $20 bln to launch the \"Camellia\" data centre in Effingham County, Georgia, and has signed a contract with Georgia Power for 3.2 GW of electricity supply covering 2028–2032; total project costs may exceed $30 bln, potentially making it one of OpenAI’s largest facilities. Sources say OpenAI has hired Brent Mayo, a former lead architect on Musk’s data‑centre projects, to help keep the build on schedule."
-    },
-    {
-      "id": "5002567",
-      "time": "2026-07-22 21:10:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI加大雲服務支出至7000億美元 斥資300億美元建資料中心】OpenAI正在擴大其資料中心的規模，並增加在該領域的支出預算。據訊息人士透露，OpenAI已將其到2030年的算力支出預測從今年早些時候的約6000億美元上調至約7500億美元。這一增長反映了OpenAI正與雲端計算服務商達成新協議，以迅速獲取其開發和執行AI模型所需的巨大算力。OpenAI週三表示，將投資200億美元，在佐治亞州埃芬漢姆縣啟動名為“Camellia”的資料中心專案。OpenAI計算戰略副總裁薩欽·卡蒂稱，公司已與佐治亞電力簽訂合同，將在2028年至2032年間獲得3.2吉瓦的電力供應，專案成本預計可能超過300億美元。這可能使該設施成為OpenAI迄今為止規模最大的資料中心之一。據知情人士透露，OpenAI聘請了布倫特·梅奧以幫助確保資料中心專案按計劃推進，他是馬斯克資料中心建設專案的主要架構師之一。"
-    },
-    {
-      "id": "5002566",
-      "time": "2026-07-22 21:09:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟任命卡洛・孔波爾蒂出任歐洲證券和市場管理局（ESMA）新任主席。"
-    },
-    {
-      "id": "5002565",
-      "time": "2026-07-22 21:08:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國儀公司：首次公開發行股票並在科創板上市招股意向書提示】國儀公司公告稱，公司首次公開發行股票並在科創板上市的申請已獲上交所上市稽核委員會審議透過，並獲中國證監會同意註冊。本次擬發行4001萬股，佔發行後總股本的10%，發行方式採用戰略配售、網下詢價配售和網上定價發行相結合。初步詢價日為2026年7月28日，網下、網上申購日為7月31日，繳款日為8月4日。截至公告日，公司尚未盈利，如上市時仍未盈利，將納入科創成長層。"
-    },
-    {
-      "id": "mkt:019f89f1-53f5-7aab-8e48-c3abd6bb28bc",
-      "time": "2026-07-22 21:08:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qualcomm (QCOM.O) showed limited U.S. premarket volatility, trading down 1.84%."
-    },
-    {
-      "id": "mkt:019f89f1-167e-7aab-8e48-bc798e2b5963",
-      "time": "2026-07-22 21:08:26",
-      "tags": [
-        "MKT News",
-        "QCOM.O",
-        "Impact bullish",
-        "005930.KS",
-        "GOOGL.O"
-      ],
-      "text": "Qualcomm (QCOM.O): Qualcomm, Samsung and Google are expanding collaboration on Android XR to include smart glasses in addition to the Galaxy XR headset."
-    },
-    {
-      "id": "5002564",
-      "time": "2026-07-22 21:08:16",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國股指期貨略微走低 Alphabet財報成AI行情試金石】Alphabet Inc.公佈財報前，美國股指期貨走低。交易員等待最新跡象，以判斷超大規模雲端計算企業在人工智慧領域的支出能否帶來回報；油價上漲也打擊了市場情緒。紐約時間8:34，標普500指數期貨下跌0.3%，納斯達克100指數期貨跌0.9%，連續兩日反彈後勢頭中斷，道指期貨走低0.2%。美國擴大對伊朗空襲範圍，且雙方均釋放出無意重啟談判的訊號，推動布倫特原油價格一度升破每桶95美元。油價上漲令通脹擔憂持續升溫，美國國債收益率攀升至兩個月新高。美元變化不大。Alphabet上季度表示，計劃將今年資本支出較2025年增加逾一倍，最高達到1,900億美元。投資者將尋找證據，判斷這些投資是否正在產生回報。不過，全球人工智慧基礎設施建設企業需要這種支出增長持續下去，才能支撐其高企估值。Alphabet財報釋出之際，領漲市場的晶片製造商正因投資者擔心AI支出增速難以持續而經歷劇烈波動。Energy Group Capital的Amanda Lyons表示：“Alphabet公佈的不只是一份財報，也是在交代整個AI投資週期的健康狀況。如果管理層對AI投資的投入意願稍有減弱，市場懲罰的將不只是谷歌，還會質疑整個AI建設週期的持續性。”不過，她表示，僅有資本支出還不夠，因為“投資者越來越希望看到這些支出正在產生回報的證據”。"
-    },
-    {
-      "id": "mkt:019f89f0-cc45-7aab-8e48-b4e2c5da34a1",
-      "time": "2026-07-22 21:08:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Qualcomm (QCOM.O): Samsung has launched its first smartwatch platform powered by a Snapdragon processor with integrated personal AI."
-    },
-    {
-      "id": "5002563",
-      "time": "2026-07-22 21:07:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普稱伊朗襲船美就炸其橋樑電廠】美國總統特朗普今天（7月22日）在社交媒體發文稱，“從現在起，只要伊朗在霍爾木茲海峽向船隻開火，無論使用導彈、火箭彈、無人機，還是其他裝置或武器，美國都將轟炸並摧毀伊朗的一座橋樑或發電廠。特朗普稱，相關打擊目標也包括位於伊朗首都德黑蘭附近或德黑蘭市內的橋樑和發電廠。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f89f0-752e-7aab-8e48-aeb191c5acf8",
-      "time": "2026-07-22 21:07:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Qualcomm (QCOM.O) and Samsung Electronics are expanding their partnership to advance AI development across the Galaxy ecosystem using Qualcomm's Snapdragon platform."
     }
   ]
 }

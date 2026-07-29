@@ -1,7 +1,81 @@
 {
   "date": "2026-07-29",
-  "count": 2736,
+  "count": 2744,
   "items": [
+    {
+      "id": "5014698",
+      "time": "2026-07-29 21:10:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：寶潔公司表示，大宗商品通脹帶來的成本壓力將主要集中於本財年上半年。"
+    },
+    {
+      "id": "5014697",
+      "time": "2026-07-29 21:09:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭總統已抵達盧布林。"
+    },
+    {
+      "id": "mkt:019fadfe-f147-7aab-8eeb-0df07b569fda",
+      "time": "2026-07-29 21:09:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Market sources: Ukrainian president has arrived in Lublin."
+    },
+    {
+      "id": "mkt:019fadfd-bb0e-7aab-8eeb-009c092fc307",
+      "time": "2026-07-29 21:08:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve says the FOMC meeting will resume as scheduled on Wednesday morning (9:00 p.m. Beijing time)."
+    },
+    {
+      "id": "mkt:019fadfd-9ed4-7aab-8eea-fdb9241d8e6d",
+      "time": "2026-07-29 21:08:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【JP Morgan expects US Treasury to avoid changing debt issuance plan ahead of midterms】JP Morgan expects the US Treasury, when publishing next week’s quarterly refunding plan, to avoid any adjustments that could signal larger future issuance and unsettle markets before the November midterm elections. JP Morgan sees a $3.7tn funding shortfall over the next four fiscal years and says officials, in principle, should drop the word \"at least\" from language that auction sizes are expected to remain stable for the next few quarters to align with prudent debt management; politically, however, the Treasury is likely to refrain from signaling increased long-term supply because that could push up long-term US Treasury yields, which are already near highs since Trump’s inauguration."
+    },
+    {
+      "id": "5014696",
+      "time": "2026-07-29 21:08:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息： 美聯儲表示，聯邦公開市場委員會（FOMC）會議已於週三上午 9 時按計劃重啟。"
+    },
+    {
+      "id": "5014695",
+      "time": "2026-07-29 21:07:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： Freehand 完成 7500 萬美元融資，用於擴充人工智慧團隊，為財富 500 強企業管控供應鏈開支。"
+    },
+    {
+      "id": "5014694",
+      "time": "2026-07-29 21:06:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬斯克反對AI公司破壞性掃描書籍】當地時間7月27日，美國企業家埃隆·馬斯克在社交平臺X發文表示，他已要求旗下的人工智慧（AI）公司SpaceXAI將處理過的珍稀書籍儲存在一個圖書館，並以不損壞書籍的方式掃描，而不是直接切斷書脊後掃描。 馬斯克的此番表態針對的是另一家美國AI公司Anthropic的“焚書”做法。據美國《華盛頓郵報》此前披露，Anthropic公司於2024年初啟動代號為“巴拿馬計劃”的專案。公司內部檔案寫道：“巴拿馬計劃是指我們破壞性掃描世界上所有書籍……我們不希望外界知道我們在做這件事。” （環球網）"
+    },
     {
       "id": "mkt:019fadfb-8675-7aab-8eea-f6dcbc6287a7",
       "time": "2026-07-29 21:06:10",
