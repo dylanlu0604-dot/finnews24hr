@@ -1,7 +1,124 @@
 {
   "date": "2026-07-30",
-  "count": 490,
+  "count": 502,
   "items": [
+    {
+      "id": "mkt:019faf50-02f1-7aab-8ef6-c691f0da2d74",
+      "time": "2026-07-30 03:18:04",
+      "tags": [
+        "MKT News",
+        "UAL.O"
+      ],
+      "text": "U.S. President Trump said United Airlines participated in plans to renovate Dulles Airport."
+    },
+    {
+      "id": "mkt:019faf4e-d090-7aab-8ef6-bc14c75e6a4a",
+      "time": "2026-07-30 03:16:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed Chair Kevin Warsh has concluded his press conference."
+    },
+    {
+      "id": "mkt:019faf4e-9217-7aab-8ef6-b15081aeca86",
+      "time": "2026-07-30 03:16:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair Kevin Warsh said tighter market conditions make us confident we can achieve our policy objectives."
+    },
+    {
+      "id": "5015119",
+      "time": "2026-07-30 03:16:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：聯合航空公司參與了杜勒斯機場的（翻新）計劃。"
+    },
+    {
+      "id": "5015118",
+      "time": "2026-07-30 03:15:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際足聯對阿根廷足協啟動多項調查】當地時間7月29日，國際足聯宣佈對阿根廷足協啟動多項紀律調查，同時因美加墨世界盃決賽後衝突一事，對阿根廷球員帕雷德斯、莫利納以及助理教練阿亞拉啟動紀律調查。這三人因採取“攻擊”行為，有可能將面臨長時間禁賽。"
+    },
+    {
+      "id": "5015117",
+      "time": "2026-07-30 03:15:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什：密切觀察市場定價但不隨市場定價行動】美聯儲主席沃什在新聞釋出會上解釋了，為何他會提到金融市場在缺乏央行政策指引的情況下，已自行計入了更趨緊的貨幣政策預期，但這並不意味著美聯儲必須跟隨交易員和投資者的定價行動。沃什表示：“令我感到欣慰的是，在兩次會議之間的這段時間裡，市場並不是因為我們而調整定價，而是自行反映出更趨緊的金融環境。”他還說：“我認為這是一個有益的發展。”不過他補充道：“我們並不認可或支援任何特定的市場走勢，但我想說，我們會以高度關注的態度觀察市場動向。”"
+    },
+    {
+      "id": "mkt:019faf4d-59bb-7aab-8ef6-af4ebbeec175",
+      "time": "2026-07-30 03:15:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he will continue to hold press conferences through year-end."
+    },
+    {
+      "id": "5015116",
+      "time": "2026-07-30 03:15:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌於Google Flow Music上線Lyria 3.5音樂生成模型。"
+    },
+    {
+      "id": "mkt:019faf4d-3b61-7aab-8ef6-a0a959e90ede",
+      "time": "2026-07-30 03:15:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Institution: Fed to stay on hold, will mainly 'wait for data' through year-end】Integrated Partners CIO Steve Corano said the Fed’s decision to hold rates was in line with expectations but noted dissenting votes favoring a hike rose further versus the prior meeting. He flagged that remarks from Wosh at the post-meeting press conference will be key for near-term policy guidance. Wosh, a supply-side economist, argues that if inflation is primarily driven by energy prices then rate hikes would only suppress demand and would not increase oil supply. Corano said until core inflation gives clearer direction the Fed’s baseline is to wait for more data. Five working groups Wosh set up are due to publish preliminary findings in September and final reports in December, providing the Fed additional runway to remain on hold absent a major shock."
+    },
+    {
+      "id": "5015115",
+      "time": "2026-07-30 03:14:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲不會受市場價格制約。"
+    },
+    {
+      "id": "mkt:019faf4c-d64b-7aab-8ef6-998d87f4ccfa",
+      "time": "2026-07-30 03:14:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "U.S. President Trump praised NVIDIA CEO Jensen Huang and NVIDIA's chips."
+    },
     {
       "id": "mkt:019faf4c-c31e-7aab-8ef6-906f0def6130",
       "time": "2026-07-30 03:14:31",
@@ -9,6 +126,15 @@
         "MKT News"
       ],
       "text": "U.S. President Trump says NVIDIA CEO Jensen Huang is currently in the Oval Office."
+    },
+    {
+      "id": "5015114",
+      "time": "2026-07-30 03:14:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：從現在到年底，我承諾今年將舉行新聞釋出會。"
     },
     {
       "id": "mkt:019faf4c-6603-7aab-8ef6-88cbb07bd4f7",

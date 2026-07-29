@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-30 03:14:54",
-  "count": 17676,
+  "updated": "2026-07-30 03:18:47",
+  "count": 17683,
   "items": [
+    {
+      "id": "mkt:019faf50-02f1-7aab-8ef6-c691f0da2d74",
+      "time": "2026-07-30 03:18:04",
+      "tags": [
+        "MKT News",
+        "UAL.O"
+      ],
+      "text": "U.S. President Trump said United Airlines participated in plans to renovate Dulles Airport."
+    },
+    {
+      "id": "mkt:019faf4e-d090-7aab-8ef6-bc14c75e6a4a",
+      "time": "2026-07-30 03:16:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed Chair Kevin Warsh has concluded his press conference."
+    },
+    {
+      "id": "mkt:019faf4e-9217-7aab-8ef6-b15081aeca86",
+      "time": "2026-07-30 03:16:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair Kevin Warsh said tighter market conditions make us confident we can achieve our policy objectives."
+    },
+    {
+      "id": "5015119",
+      "time": "2026-07-30 03:16:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：聯合航空公司參與了杜勒斯機場的（翻新）計劃。"
+    },
+    {
+      "id": "5015118",
+      "time": "2026-07-30 03:15:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際足聯對阿根廷足協啟動多項調查】當地時間7月29日，國際足聯宣佈對阿根廷足協啟動多項紀律調查，同時因美加墨世界盃決賽後衝突一事，對阿根廷球員帕雷德斯、莫利納以及助理教練阿亞拉啟動紀律調查。這三人因採取“攻擊”行為，有可能將面臨長時間禁賽。"
+    },
+    {
+      "id": "5015117",
+      "time": "2026-07-30 03:15:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什：密切觀察市場定價但不隨市場定價行動】美聯儲主席沃什在新聞釋出會上解釋了，為何他會提到金融市場在缺乏央行政策指引的情況下，已自行計入了更趨緊的貨幣政策預期，但這並不意味著美聯儲必須跟隨交易員和投資者的定價行動。沃什表示：“令我感到欣慰的是，在兩次會議之間的這段時間裡，市場並不是因為我們而調整定價，而是自行反映出更趨緊的金融環境。”他還說：“我認為這是一個有益的發展。”不過他補充道：“我們並不認可或支援任何特定的市場走勢，但我想說，我們會以高度關注的態度觀察市場動向。”"
+    },
+    {
+      "id": "mkt:019faf4d-59bb-7aab-8ef6-af4ebbeec175",
+      "time": "2026-07-30 03:15:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he will continue to hold press conferences through year-end."
+    },
+    {
+      "id": "5015116",
+      "time": "2026-07-30 03:15:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌於Google Flow Music上線Lyria 3.5音樂生成模型。"
+    },
+    {
+      "id": "mkt:019faf4d-3b61-7aab-8ef6-a0a959e90ede",
+      "time": "2026-07-30 03:15:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Institution: Fed to stay on hold, will mainly 'wait for data' through year-end】Integrated Partners CIO Steve Corano said the Fed’s decision to hold rates was in line with expectations but noted dissenting votes favoring a hike rose further versus the prior meeting. He flagged that remarks from Wosh at the post-meeting press conference will be key for near-term policy guidance. Wosh, a supply-side economist, argues that if inflation is primarily driven by energy prices then rate hikes would only suppress demand and would not increase oil supply. Corano said until core inflation gives clearer direction the Fed’s baseline is to wait for more data. Five working groups Wosh set up are due to publish preliminary findings in September and final reports in December, providing the Fed additional runway to remain on hold absent a major shock."
+    },
+    {
+      "id": "5015115",
+      "time": "2026-07-30 03:14:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲不會受市場價格制約。"
+    },
+    {
+      "id": "mkt:019faf4c-d64b-7aab-8ef6-998d87f4ccfa",
+      "time": "2026-07-30 03:14:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "U.S. President Trump praised NVIDIA CEO Jensen Huang and NVIDIA's chips."
+    },
     {
       "id": "mkt:019faf4c-c31e-7aab-8ef6-906f0def6130",
       "time": "2026-07-30 03:14:31",
@@ -9,6 +126,15 @@
         "MKT News"
       ],
       "text": "U.S. President Trump says NVIDIA CEO Jensen Huang is currently in the Oval Office."
+    },
+    {
+      "id": "5015114",
+      "time": "2026-07-30 03:14:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：從現在到年底，我承諾今年將舉行新聞釋出會。"
     },
     {
       "id": "mkt:019faf4c-6603-7aab-8ef6-88cbb07bd4f7",
@@ -162884,47 +163010,6 @@
         "Brent"
       ],
       "text": "【U.S. refiners push diesel output to near-record months early as global supply tightens】DOE data show U.S. refiners have ramped diesel production to near-historic levels, reversing usual seasonality. Refineries averaged 5.3 mln bpd of refined fuel oil (primarily diesel) this month; if sustained, it would be July’s highest on record and among the highest months outside the winter heating season. Refiners advanced output months early in response to acute global diesel supply tightness."
-    },
-    {
-      "id": "mkt:019f8b43-dd98-7aab-8e50-8f5f440f6f7e",
-      "time": "2026-07-23 03:18:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BAGHAEI, spokesperson for Iran's Foreign Ministry, said the US Secretary of Defense faced no questions at a congressional hearing about the humanitarian impact of the war on Iran and described the conflict as illegally launched."
-    },
-    {
-      "id": "5002980",
-      "time": "2026-07-23 03:17:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芝加哥小麥期貨漲約4.2%，玉米、大豆至多漲約1.9%】週三（7月22日）紐約尾盤，彭博穀物分類指數漲2.50%，報32.9953點，北京時間14:37微幅下挫至32.1687點重新整理日低隨後持續上揚、23:48達到33.0597點，逼近5月19日頂部33.3410點、5月13日頂部33.6912點。CBOT玉米期貨漲1.89%，報4.8425美元/蒲式耳。CBOT小麥期貨漲4.17%，報7.0625美元/蒲式耳。CBOT大豆期貨漲1.27%，報12.3825美元/蒲式耳，豆粕期貨漲1.71%，豆油期貨漲1.54%。CBOT瘦肉豬期貨漲0.23%，活牛期貨跌1.80%，飼牛期貨跌2.56%。"
-    },
-    {
-      "id": "5002979",
-      "time": "2026-07-23 03:16:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【卡達能源據稱擬將LNG不可抗力延長至10月中旬】據外媒援引知情人士透露，卡達能源公司正準備將液化天然氣運輸的不可抗力狀態期限進一步延長至10月中旬，此舉將延長中東戰爭造成的全球天然氣市場供應衝擊。歐洲和亞洲的多位買家分別表示，他們預計將在未來幾周內收到正式通知。"
-    },
-    {
-      "id": "5002978",
-      "time": "2026-07-23 03:16:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【高溫乾旱致多瑙河水位走低 匈牙利航運和旅遊業遭遇挑戰】今年入夏以來，匈牙利全境遭遇持續高溫乾旱天氣，其境內多瑙河水位大幅下降，導致航道水深不足，河道急劇變窄，對內河貨運、河輪觀光旅遊業帶來巨大沖擊，相關行業運營正面臨嚴重挑戰。匈牙利水務部門負責人表示，多瑙河水位急劇下降是多重因素導致的結果。高溫少雨的極端氣候是直接誘因，人類活動則加劇了水位下滑的速度。近幾十年來，由於多瑙河河床的大量砂石被開採，導致河床深度加深，枯水季水位下降更為劇烈。有專家表示，根據天氣預報，在最炎熱的八月匈牙利境內不會有明顯降雨，水位有可能將進一步下降，旱情帶來的考驗仍未結束。(央視新聞)"
-    },
-    {
-      "id": "5002977",
-      "time": "2026-07-23 03:16:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：2026 年第一季度，Stripe 營收達 20 億美元。 Stripe 2025 年自由現金流大增 52%，達 32 億美元 。"
     }
   ]
 }
