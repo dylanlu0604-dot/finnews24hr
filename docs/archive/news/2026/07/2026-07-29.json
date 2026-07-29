@@ -1,7 +1,124 @@
 {
   "date": "2026-07-29",
-  "count": 993,
+  "count": 1005,
   "items": [
+    {
+      "id": "5013462",
+      "time": "2026-07-29 10:19:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【固態電池概念異動拉昇 金龍羽直線漲停】固態電池概念盤中異動拉昇，金龍羽直線漲停，領湃科技漲超10%，海科新源、博力威、華盛鋰電、科恆股份跟漲。"
+    },
+    {
+      "id": "5013461",
+      "time": "2026-07-29 10:19:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【康寧2026年第二季度光通訊業務銷售額同比增長32% 光連線產能將擴大10倍】康寧公司近日公佈2026年第二季度財務業績，實現核心銷售額為47.4億美元；核心運營利潤率20.9%；每股收益同比增長30%。報告期內，光通訊業務銷售額同比增長32%，達到20.7億美元。其中，企業網路業務銷售額增長65%，生成式人工智慧相關產品的銷售額增長強勁。公司與亞馬遜、英偉達的合作協議，將為亞馬遜提供光纖、光纜及連線解決方案支援，並計劃將美國光連線產品製造產能擴大10倍，美國光纖產能提升50%以上，以滿足人工智慧工廠建設帶動的持續增長需求。公司預計今年底年化銷售額將達到200億美元，2028年底和2030年底分別達到300億美元和400億美元。"
+    },
+    {
+      "id": "5013460",
+      "time": "2026-07-29 10:19:30",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根士丹利：老鋪黃金髮盈喜惟表現遜預期 料短期股價情緒偏弱】摩根士丹利釋出研報稱，老鋪黃金(06181)發盈喜，但表現遜於市場及該行預期。該行預期市場將會下調對老鋪黃金今明兩的盈利預測，短期內股價情緒或偏弱，後續將關注中期業績中的股東回報及管理層指引。該行重申其“增持”評級，維持目標價590港元。"
+    },
+    {
+      "id": "mkt:019fabab-719b-7aab-8edb-7e38a047d9d0",
+      "time": "2026-07-29 10:19:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's finance ministry said it is conducting an internal review of measures to stabilize the South Korean stock market."
+    },
+    {
+      "id": "5013459",
+      "time": "2026-07-29 10:19:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士股價暴跌11%。"
+    },
+    {
+      "id": "5013458",
+      "time": "2026-07-29 10:19:14",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部：內部正在審議穩定國內股市的各項措施。"
+    },
+    {
+      "id": "mkt:019fabab-057d-7aab-8edb-729d793f78cf",
+      "time": "2026-07-29 10:18:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share disperse-dye stocks rose after intraday volatility; Runtu hit the limit-up, with Jinji, Zhejiang Longsheng, Jihua Group, Haixiang Pharmaceutical and Shanshui Technology also advancing."
+    },
+    {
+      "id": "mkt:019fabaa-c876-7aab-8edb-6c37530713a7",
+      "time": "2026-07-29 10:18:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Financial Times reports Meta Platforms CEO Mark Zuckerberg said a US ban on advanced Chinese AI would not be 'an effective solution'."
+    },
+    {
+      "id": "mkt:019fabaa-519e-7aab-8edb-600ff021219c",
+      "time": "2026-07-29 10:18:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "China A-share auto OEM sector rebounded counter to the broader market; BAIC BluePark approached its daily limit-up, with JAC Motors, Changan Automobile, GAC Group, Haima Automobile and SERES also higher."
+    },
+    {
+      "id": "mkt:019fabaa-509e-7aab-8edb-5e5b96833104",
+      "time": "2026-07-29 10:18:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI plunged 6.00% intraday to 5,653.02 points."
+    },
+    {
+      "id": "5013457",
+      "time": "2026-07-29 10:18:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌6.2%，至5653.02點。"
+    },
+    {
+      "id": "5013456",
+      "time": "2026-07-29 10:17:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "扎克伯格表示，在美國禁止尖端中國人工智慧並非“有效解決方案”。"
+    },
     {
       "id": "5013455",
       "time": "2026-07-29 10:17:08",
