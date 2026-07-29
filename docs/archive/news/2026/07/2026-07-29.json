@@ -1,7 +1,99 @@
 {
   "date": "2026-07-29",
-  "count": 580,
+  "count": 590,
   "items": [
+    {
+      "id": "5013198",
+      "time": "2026-07-29 08:14:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：將能夠顯著提升股東回報。"
+    },
+    {
+      "id": "mkt:019fab37-ecc7-7aab-8ed7-699c2b8119dd",
+      "time": "2026-07-29 08:13:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities bullish on Tesla robots' mass production and applications】Chinese broker CITIC Securities says Tesla combines leading AI large‑model capabilities with scale manufacturing and ranks among leaders in the global embodied intelligence supply chain. The broker is bullish on the mass‑production and application prospects for Tesla robots. Optimus is set to enter a production phase and Cybercab testing is proceeding as planned. CITIC recommends monitoring core supply‑chain players."
+    },
+    {
+      "id": "5013197",
+      "time": "2026-07-29 08:12:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱伊朗革命衛隊試圖突襲】美軍中央司令部發布宣告稱，美國東部時間7月28日下午5點45分（伊朗時間7月29日凌晨1點15分，北京時間凌晨5點45分），伊朗伊斯蘭革命衛隊發射多枚彈道導彈，“試圖對部署在中東地區的美軍發動突然襲擊”。宣告稱，所有伊朗發射的導彈均已被成功攔截，未能擊中目標。駐中東美軍目前仍保持高度警戒，並維持高階別戰備狀態。 據美國“阿克西奧斯新聞網（Axios）”報道，伊朗伊斯蘭革命衛隊導彈的目標是約旦一處美軍基地。 對此目前伊朗方面暫無正式回應。"
+    },
+    {
+      "id": "mkt:019fab36-e742-7aab-8ed7-67545f37bbe6",
+      "time": "2026-07-29 08:12:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI extended gains to 3%, SK Hynix rose 4% and Samsung Electronics gained nearly 6%."
+    },
+    {
+      "id": "mkt:019fab36-b3ae-7aab-8ed7-5b8c3f25c0a2",
+      "time": "2026-07-29 08:11:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia said it will continue to strengthen measures to stabilize the rupiah to meet its inf target and support economic activity."
+    },
+    {
+      "id": "5013196",
+      "time": "2026-07-29 08:11:56",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數上漲3%，至6205.66。SK海力士漲4%，三星電子漲近6%。"
+    },
+    {
+      "id": "te:markets:570529",
+      "time": "2026-07-29 08:11:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Spain",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Ferrovial earnings below expectations at 0.21 EUR — Ferrovial (FER) released earnings per share at 0.21 EUR, compared to market expectations of 0.25 EUR."
+    },
+    {
+      "id": "te:markets:570528",
+      "time": "2026-07-29 08:11:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Great West Lifeco earnings above expectations at 1.42 CAD — Great West Lifeco (GWO) released earnings per share at 1.42 CAD, compared to market expectations of 1.37 CAD."
+    },
+    {
+      "id": "5013195",
+      "time": "2026-07-29 08:10:58",
+      "tags": [
+        "觀點"
+      ],
+      "text": "隨著人工智慧類股暴跌，高盛、摩根大通等銀行要求對沖基金提供更多抵押品。"
+    },
     {
       "id": "mkt:019fab35-6485-7aab-8ed7-5158b0cfb55e",
       "time": "2026-07-29 08:10:30",
@@ -128,6 +220,15 @@
         "公司"
       ],
       "text": "【中船集團與中核集團簽訂戰略合作框架協議】7月28日，中國船舶集團有限公司與中國核工業集團有限公司在上海簽署戰略合作框架協議。中船集團黨組書記、董事長徐鵬表示，希望以此次戰略合作框架協議簽訂為契機，聚焦裝備製造、綠色能源、科技創新等重點領域推動更高水平務實合作。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607293824187376",
+      "time": "2026-07-29 08:08:05",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【華泰證券：預計美聯儲7月加息機率略高於一半 9月前加息的機率接近100%】華泰證券指出，美聯儲新任主席凱文·沃什（KevinWarsh）上任後，金融市場對這位新主席政策取向的定價從此前的鴿派降息，轉為更偏鷹派的短期立場。但臨近7月議息會議，市場對聯儲下一步政策的預期卻極度分化。沃什廢除前瞻指引後，市場定價更為困難，而沃什和市場博弈焦點勢必從“聽其言”轉為“觀其行”。"
     },
     {
       "id": "mkt:019fab33-19d3-7aab-8ed7-3dc490ffcf36",

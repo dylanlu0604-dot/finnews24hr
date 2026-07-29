@@ -1,7 +1,99 @@
 {
-  "updated": "2026-07-29 08:11:04",
+  "updated": "2026-07-29 08:14:54",
   "count": 17543,
   "items": [
+    {
+      "id": "5013198",
+      "time": "2026-07-29 08:14:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：將能夠顯著提升股東回報。"
+    },
+    {
+      "id": "mkt:019fab37-ecc7-7aab-8ed7-699c2b8119dd",
+      "time": "2026-07-29 08:13:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities bullish on Tesla robots' mass production and applications】Chinese broker CITIC Securities says Tesla combines leading AI large‑model capabilities with scale manufacturing and ranks among leaders in the global embodied intelligence supply chain. The broker is bullish on the mass‑production and application prospects for Tesla robots. Optimus is set to enter a production phase and Cybercab testing is proceeding as planned. CITIC recommends monitoring core supply‑chain players."
+    },
+    {
+      "id": "5013197",
+      "time": "2026-07-29 08:12:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱伊朗革命衛隊試圖突襲】美軍中央司令部發布宣告稱，美國東部時間7月28日下午5點45分（伊朗時間7月29日凌晨1點15分，北京時間凌晨5點45分），伊朗伊斯蘭革命衛隊發射多枚彈道導彈，“試圖對部署在中東地區的美軍發動突然襲擊”。宣告稱，所有伊朗發射的導彈均已被成功攔截，未能擊中目標。駐中東美軍目前仍保持高度警戒，並維持高階別戰備狀態。 據美國“阿克西奧斯新聞網（Axios）”報道，伊朗伊斯蘭革命衛隊導彈的目標是約旦一處美軍基地。 對此目前伊朗方面暫無正式回應。"
+    },
+    {
+      "id": "mkt:019fab36-e742-7aab-8ed7-67545f37bbe6",
+      "time": "2026-07-29 08:12:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI extended gains to 3%, SK Hynix rose 4% and Samsung Electronics gained nearly 6%."
+    },
+    {
+      "id": "5013196",
+      "time": "2026-07-29 08:11:56",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數上漲3%，至6205.66。SK海力士漲4%，三星電子漲近6%。"
+    },
+    {
+      "id": "mkt:019fab36-b3ae-7aab-8ed7-5b8c3f25c0a2",
+      "time": "2026-07-29 08:11:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia said it will continue to strengthen measures to stabilize the rupiah to meet its inf target and support economic activity."
+    },
+    {
+      "id": "te:markets:570529",
+      "time": "2026-07-29 08:11:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Spain",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Ferrovial earnings below expectations at 0.21 EUR — Ferrovial (FER) released earnings per share at 0.21 EUR, compared to market expectations of 0.25 EUR."
+    },
+    {
+      "id": "te:markets:570528",
+      "time": "2026-07-29 08:11:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Great West Lifeco earnings above expectations at 1.42 CAD — Great West Lifeco (GWO) released earnings per share at 1.42 CAD, compared to market expectations of 1.37 CAD."
+    },
+    {
+      "id": "5013195",
+      "time": "2026-07-29 08:10:58",
+      "tags": [
+        "觀點"
+      ],
+      "text": "隨著人工智慧類股暴跌，高盛、摩根大通等銀行要求對沖基金提供更多抵押品。"
+    },
     {
       "id": "mkt:019fab35-6485-7aab-8ed7-5158b0cfb55e",
       "time": "2026-07-29 08:10:30",
@@ -128,6 +220,15 @@
         "公司"
       ],
       "text": "【中船集團與中核集團簽訂戰略合作框架協議】7月28日，中國船舶集團有限公司與中國核工業集團有限公司在上海簽署戰略合作框架協議。中船集團黨組書記、董事長徐鵬表示，希望以此次戰略合作框架協議簽訂為契機，聚焦裝備製造、綠色能源、科技創新等重點領域推動更高水平務實合作。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607293824187376",
+      "time": "2026-07-29 08:08:05",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【華泰證券：預計美聯儲7月加息機率略高於一半 9月前加息的機率接近100%】華泰證券指出，美聯儲新任主席凱文·沃什（KevinWarsh）上任後，金融市場對這位新主席政策取向的定價從此前的鴿派降息，轉為更偏鷹派的短期立場。但臨近7月議息會議，市場對聯儲下一步政策的預期卻極度分化。沃什廢除前瞻指引後，市場定價更為困難，而沃什和市場博弈焦點勢必從“聽其言”轉為“觀其行”。"
     },
     {
       "id": "mkt:019fab33-19d3-7aab-8ed7-3dc490ffcf36",
@@ -160848,97 +160949,6 @@
         "國際"
       ],
       "text": "【日經指數上漲1.3%，晶片和金屬股領漲】隔夜美國科技股反彈後，日本股市走高。晶片和金屬股領漲。東京電子上漲4.3%，軟銀集團上漲3.7%，JX Advanced Metals上漲4.1%。隨著近日美國和伊朗之間的衝突加劇，投資者正密切關注中東局勢的發展。日本政府官員對日元疲軟的任何評論也備受關注。日經指數上漲1.3%，報67101.42點。"
-    },
-    {
-      "id": "5001057",
-      "time": "2026-07-22 08:14:28",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信證券：中國模型和頭部網際網路公司或再次被重估，但持續性仍需要商業化落地進度持續驗證】中信證券研報稱，月之暗面憑藉Kimi K3優秀的效能表現，再次引發投資人廣泛關注。7月16日晚間K3上線，Arena跑出程式碼賽道SOTA（單項排名第一），成為首個在程式碼領域盲測追平全球頂級閉源模型的開源模型。海外投資人對此高度關注，將其稱為中國又一次DeepSeek時刻。K3被關注重點體現在，1.在多個權威基準測試中取得優異效果，2.token級呼叫成本大幅降低。此後的測評中，有使用者反饋其存在的問題有，1.或因算力規模有限，模型在複雜任務上的端到端推理時間相對較長，2.完成任務的token消耗量偏高，任務級成本仍面臨挑戰。中信證券認為，Kimi K3展現出月之暗面公司持續的技術積累和優秀的競爭力。在算力受限背景下，以Kimi為代表的中國模型公司憑藉技術品味、組織效率持續迭代，努力縮小與美國頂尖模型之間的效能差距。投資機會方面，美國頂尖模型公司的估值或階段性承壓，中國模型和頭部網際網路公司或再次被重估，但持續性仍需要商業化落地進度持續驗證。"
-    },
-    {
-      "id": "5001056",
-      "time": "2026-07-22 08:14:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【天風證券：目前位置可以樂觀一些，繼續看好消費板塊】天風證券研報表示，白酒行業基本面和悲觀情緒均已反應在股價裡、下行空間或有限，科技回撥資金再平衡背景下白酒防禦屬性顯著。本週茅臺雙提價或將提振市場對消費板塊的信心，疊加政策面預期強化下，板塊有望逐步回暖。"
-    },
-    {
-      "id": "mkt:019f872b-bc91-7aab-8e34-c5599b4de659",
-      "time": "2026-07-22 08:13:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House: U.S. President Trump will attend a transfer ceremony at Dover Air Force Base on Wednesday."
-    },
-    {
-      "id": "5001055",
-      "time": "2026-07-22 08:13:35",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：醫療器械板塊拐點來臨 2026年業績改善個股存在修復機會】中信建投證券研報指出，建議關注低估值且第二季度高增長個股的加倉機會。醫療器械板塊拐點來臨，短期來看，建議把握2026年業績改善個股的業績和估值修復機會，多家細分賽道龍頭將於2026年迎來加速增長，同時建議關注手術機器人、腦機介面等新科技方向，相關技術突破和商業化落地有望持續催化板塊熱度。長期來看，醫療器械板塊投資機會來自創新、出海和併購整合，板塊的創新和國際化能力得到認可，估值正在重構。"
-    },
-    {
-      "id": "5001054",
-      "time": "2026-07-22 08:13:30",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信證券：全球AI或正在分化為兩套並行的生態體系】中信證券研報稱，全球AI或正在分化為兩套並行的生態體系。美國AI由私人資本驅動，閉源旗艦模型加企業軟體訂閱，商業模式的核心是替代高成本人力；中國AI以政策與產業為雙輪，開源輕量模型加低成本推理服務，落點是製造業升級與數字消費的增量。我們認為，這一分化並非階段性的技術差距，而是由經濟結構、政策治理、資本偏好與要素稟賦四重因素共同決定的路徑分化，短期或難以收斂。分環節看，中美AI的差距沿產業鏈自上而下遞減，上游晶片最大、應用層最小。我們認為，美國的確定性在頭部模型公司已被驗證的企業端收入與算力供給鏈的現金流，變數在商業兌現與融資耐心的賽跑；中國的確定性在推理算力的國產替代、開源生態的全球滲透與製造業場景的落地，變數在算力利用率與商業化定價能否走通。從宏觀視角展望未來，美國或率先迎來AI驅動的服務業生產率上行，中國則沿兩條路徑演進：製造業智慧化縱深，與價效比智慧補齊生產性服務業短板。"
-    },
-    {
-      "id": "5001053",
-      "time": "2026-07-22 08:12:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "泰銖兌美元匯率跌至2025年4月以來最低水平。美元兌泰銖上漲0.1%，報1美元兌33.72泰銖；盤中此前曾觸及33.73泰銖。"
-    },
-    {
-      "id": "5001052",
-      "time": "2026-07-22 08:11:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "當地時間22日凌晨3時，伊朗首都德黑蘭防空系統密集攔截不明飛行物。（新華社）"
-    },
-    {
-      "id": "mkt:019f872a-1ded-7aab-8e34-be9cff116a44",
-      "time": "2026-07-22 08:11:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "South Korea's KOSPI jumped 6.00% intraday to 7,153.42 points. SK Hynix rose 8.6% and Samsung Electronics gained 5.7%."
-    },
-    {
-      "id": "5001051",
-      "time": "2026-07-22 08:11:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）上漲6%，至7153.42。"
-    },
-    {
-      "id": "mkt:019f8729-a611-7aab-8e34-b5eb27db0886",
-      "time": "2026-07-22 08:11:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thai baht weakens to its lowest level against the U.S. dollar since April 2025."
     }
   ]
 }
