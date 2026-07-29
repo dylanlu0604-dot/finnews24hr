@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-30 00:31:31",
-  "count": 17432,
+  "updated": "2026-07-30 00:35:32",
+  "count": 17430,
   "items": [
+    {
+      "id": "mkt:019faeba-2f63-7aab-8eef-da63ef5768fd",
+      "time": "2026-07-30 00:34:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: hedge fund Millennium Management is targeting a record $20 billion in a new fundraising round."
+    },
+    {
+      "id": "5014904",
+      "time": "2026-07-30 00:34:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "ADP：計劃在未來 8 年內推出總額 82 億歐元的合規投資計劃，提升巴黎各機場競爭力，並樹立法國國際形象。"
+    },
+    {
+      "id": "5014903",
+      "time": "2026-07-30 00:34:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【三菱日聯：日本央行料維持利率不變 美/日或測試165並加大幹預風險】三菱日聯信託銀行駐紐約銷售和交易負責人Takafumi Onodera表示，日本央行本週會議可能維持利率不變，推動美元/日元升至1美元兌165，並加大日本官員干預外匯市場的風險。“美元/日元可能短暫測試165，但隨著市場對干預的擔憂升溫，上行空間應會受到限制，”他在採訪中表示，日本央行“可能釋放鷹派訊號，以遏制日元進一步走弱”。他表示，如果日本央行今年完全不加息，而美聯儲加息，美元/日元可能升向1美元兌170。"
+    },
+    {
+      "id": "te:markets:570829",
+      "time": "2026-07-30 00:33:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "European Stocks Edge Lower — The Euro STOXX 50 closed 0.5% lower on Wednesday and STOXX Europe fell 0.2%, pressured by a surge in energy prices from reignited strikes in the Middle East and mixed corporate earnings. Among notable movers, Hermes tumbled 11% despite reporting an acceleration in sales, with investors citing the lack of a convincing recovery in the key Chinese market. CaixaBank dropped 7%, dragging other Spanish lenders lower after leaving its full-year guidance unchanged alongside its Q2 results. ASM International lost 5% despite issuing an upbeat outlook, as concerns over global AI spending persisted, while Aberdeen fell 5% after reporting larger-than-expected first-half fund outflows. Elsewhere, Kering surged 12% after stronger-than-expected Gucci sales, Sopra Steria jumped 13% on raised guidance, Glencore gained 3% on higher copper output. Among major banks, Deutsche Bank and UBS both gained after posting their results, aligned with other lenders that reported earlier."
+    },
+    {
+      "id": "5014902",
+      "time": "2026-07-30 00:32:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "千禧管理計劃新一輪募資，目標規模創紀錄達 200 億美元。"
+    },
     {
       "id": "mkt:019faeb7-1d44-7aab-8eef-d495cd0c7383",
       "time": "2026-07-30 00:31:03",
@@ -160133,67 +160178,6 @@
         "國際"
       ],
       "text": "烏軍方副總司令：烏克蘭將在兩至三個月內部署鐳射武器，其攔截目標的效能優於機槍。"
-    },
-    {
-      "id": "5002862",
-      "time": "2026-07-23 00:35:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普社交媒體發文：以下是投票時完全不需要任何帶照片身份證件的州和哥倫比亞特區。你注意到這些州有什麼共同點嗎？\n加利福尼亞州 \n夏威夷州 \n伊利諾伊州 \n緬因州 \n馬里蘭州 \n馬薩諸塞州 \n明尼蘇達州 \n內華達州 \n新澤西州 \n新墨西哥州 \n紐約州 \n俄勒岡州 \n佛蒙特州 \n華盛頓州 \n華盛頓特區"
-    },
-    {
-      "id": "5002861",
-      "time": "2026-07-23 00:34:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴姆勒卡車：更新後的業績指引基於當前美墨加協定框架保持不變的假設。"
-    },
-    {
-      "id": "5002860",
-      "time": "2026-07-23 00:33:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴姆勒卡車：2026年所有其他業績指引專案保持不變。"
-    },
-    {
-      "id": "5002859",
-      "time": "2026-07-23 00:33:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴姆勒卡車：目前預計2026年銷量為34萬至37萬輛。"
-    },
-    {
-      "id": "5002858",
-      "time": "2026-07-23 00:32:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "戴姆勒卡車控股公司：受拉丁美洲與墨西哥市場疲弱影響，戴姆勒客車將2026年銷量指引下調至2萬至2.5萬輛。"
-    },
-    {
-      "id": "5002857",
-      "time": "2026-07-23 00:32:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列無人機襲擊加沙努塞拉特地區，造成至少1人死亡、數人受傷。"
-    },
-    {
-      "id": "mkt:019f8aab-6804-7aab-8e4d-da88bd112092",
-      "time": "2026-07-23 00:31:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【China, ASEAN foreign ministers meet in Manila; Wang pushes FTA 3.0, RCEP delivery, supply-chain and energy security】China foreign minister Wang Yi and Malaysia foreign minister Muhammad co‑chaired a China‑ASEAN foreign ministers’ meeting in Manila on the 22nd, attended by ASEAN foreign ministers and the ASEAN secretary‑general. Wang proposed four priorities with market relevance: accelerate construction of a China‑ASEAN FTA 3.0 and ensure high‑quality implementation of the RCEP; strengthen regional resilience by enhancing food and energy security and stabilizing supply chains; expand cooperation in the digital economy, AI and submarine cable infrastructure and explore alignment with the ASEAN Digital Economy Framework Agreement; and speed cooperation on climate response, clean energy, green agriculture and the blue economy."
     }
   ]
 }
