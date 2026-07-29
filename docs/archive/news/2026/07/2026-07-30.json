@@ -1,7 +1,271 @@
 {
   "date": "2026-07-30",
-  "count": 298,
+  "count": 326,
   "items": [
+    {
+      "id": "mkt:019faf32-d4e7-7aab-8ef4-6438348fea2d",
+      "time": "2026-07-30 02:46:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed faces important decisions in the period ahead."
+    },
+    {
+      "id": "mkt:019faf32-d064-7aab-8ef4-5dcd1929dac9",
+      "time": "2026-07-30 02:46:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed has received some encouraging inflation data and will monitor developments closely in the coming period."
+    },
+    {
+      "id": "5015024",
+      "time": "2026-07-30 02:45:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 市場已然作出自身判斷。"
+    },
+    {
+      "id": "5015023",
+      "time": "2026-07-30 02:45:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 當前利率水平較 42 天前有所上行。"
+    },
+    {
+      "id": "mkt:019faf32-4738-7aab-8ef4-57b49f438923",
+      "time": "2026-07-30 02:45:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the trend is what matters."
+    },
+    {
+      "id": "mkt:019faf32-4594-7aab-8ef4-4f187cf271b3",
+      "time": "2026-07-30 02:45:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said the issue with data dependence is the data and the dependence itself."
+    },
+    {
+      "id": "5015022",
+      "time": "2026-07-30 02:45:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我們不會單憑單一一項資料作為佐證依據。 我並不認為我們過度依賴單一資料。"
+    },
+    {
+      "id": "mkt:019faf31-f51f-7aab-8ef4-475e949864b8",
+      "time": "2026-07-30 02:45:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said he will consult with the inflation working group within weeks."
+    },
+    {
+      "id": "mkt:019faf31-d3a1-7aab-8ef4-3dcd7b95fa09",
+      "time": "2026-07-30 02:45:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed will monitor inf data over the coming period."
+    },
+    {
+      "id": "5015021",
+      "time": "2026-07-30 02:44:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 不希望給外界留下我們正焦灼坐等最新資料出爐的印象。"
+    },
+    {
+      "id": "mkt:019faf31-9cf7-7aab-8ef4-30174c8975b1",
+      "time": "2026-07-30 02:44:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said June core CPI will have little impact on policy decisions."
+    },
+    {
+      "id": "5015020",
+      "time": "2026-07-30 02:44:42",
+      "tags": [
+        "資料",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：6月的核心CPI資料對決策影響不大。"
+    },
+    {
+      "id": "mkt:019faf31-7498-7aab-8ef4-2db52f6dbb2d",
+      "time": "2026-07-30 02:44:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said he believes this is the right team to address high inflation."
+    },
+    {
+      "id": "5015019",
+      "time": "2026-07-30 02:44:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們收到部分通脹資料有所好轉，後續一段時間內將持續密切觀察。"
+    },
+    {
+      "id": "mkt:019faf31-3ab5-7aab-8ef4-24af06486b7a",
+      "time": "2026-07-30 02:44:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said dissenting votes did not fully reflect the substance of the discussion."
+    },
+    {
+      "id": "5015018",
+      "time": "2026-07-30 02:44:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 關鍵在於趨勢走向。"
+    },
+    {
+      "id": "5015017",
+      "time": "2026-07-30 02:44:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 資料依賴策略的癥結，在於資料本身以及這種依賴模式。"
+    },
+    {
+      "id": "mkt:019faf30-e42d-7aab-8ef4-19b4f3ef75e1",
+      "time": "2026-07-30 02:44:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said it was a positive and robust discussion."
+    },
+    {
+      "id": "mkt:019faf30-bf70-7aab-8ef4-1214e0dac6a1",
+      "time": "2026-07-30 02:43:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed actively discussed a range of options for the future."
+    },
+    {
+      "id": "5015016",
+      "time": "2026-07-30 02:43:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：積極討論了今後所有可能的選擇。"
+    },
+    {
+      "id": "5015015",
+      "time": "2026-07-30 02:43:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 異議投票無法完整體現討論的實質。我們做出的決定得到了絕大多數人的支援。"
+    },
+    {
+      "id": "mkt:019faf30-7427-7aab-8ef4-08ed199fcaed",
+      "time": "2026-07-30 02:43:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said the decision had the support of an overwhelming majority."
+    },
+    {
+      "id": "mkt:019faf30-4fbb-7aab-8ef4-005dce937237",
+      "time": "2026-07-30 02:43:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Fed chair Kevin Warsh said he hears broad agreement and that the Fed has the ability to achieve price stability."
+    },
+    {
+      "id": "mkt:019faf30-4970-7aab-8ef3-fb0f3511cee5",
+      "time": "2026-07-30 02:43:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed chair Kevin Warsh reaffirms 2% inflation target, denies 'soft target'】Fed chair Kevin Warsh opened the press briefing by reiterating the Fed's firm commitment to a 2% YoY inflation target and saying the central bank will be steadfast in achieving price stability. He called withholding forward guidance amid current uncertainty a 'prudent' approach and stressed there is no 'soft inflation target' or other implicit goals — 2% is the sole target. Warsh described the US economy as 'impressively resilient', saying it has withstood recent shocks and the underlying trend remains positive."
+    },
+    {
+      "id": "mkt:019faf2f-fd26-7aab-8ef3-f71ce6fe4a8b",
+      "time": "2026-07-30 02:43:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "Fed chair Kevin Warsh said he sought an internal debate, and one occurred."
+    },
+    {
+      "id": "5015014",
+      "time": "2026-07-30 02:43:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我期待一場充分坦誠的內部激烈辯論，而這場辯論如期而至。討論氣氛熱烈、交鋒充分。"
+    },
+    {
+      "id": "5015013",
+      "time": "2026-07-30 02:42:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我聽到不少共識觀點，即我們具備實現物價穩定的政策能力。"
+    },
     {
       "id": "5015012",
       "time": "2026-07-30 02:42:02",
@@ -157,6 +421,15 @@
         "國際"
       ],
       "text": "美聯儲主席沃什： 過去 42 天裡，市場對各類事件的反應直觀得多。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825511044",
+      "time": "2026-07-30 02:39:58",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什表示 資本支出供應副作用的發生時間難以預測】美聯儲主席沃什表示，資本支出供應副作用的發生時間難以預測。"
     },
     {
       "id": "mkt:019faf2c-f401-7aab-8ef3-b73b69c2c895",

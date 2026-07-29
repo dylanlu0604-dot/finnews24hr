@@ -1,7 +1,271 @@
 {
-  "updated": "2026-07-30 02:42:44",
-  "count": 17532,
+  "updated": "2026-07-30 02:46:45",
+  "count": 17552,
   "items": [
+    {
+      "id": "mkt:019faf32-d4e7-7aab-8ef4-6438348fea2d",
+      "time": "2026-07-30 02:46:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed faces important decisions in the period ahead."
+    },
+    {
+      "id": "mkt:019faf32-d064-7aab-8ef4-5dcd1929dac9",
+      "time": "2026-07-30 02:46:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed has received some encouraging inflation data and will monitor developments closely in the coming period."
+    },
+    {
+      "id": "5015024",
+      "time": "2026-07-30 02:45:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 市場已然作出自身判斷。"
+    },
+    {
+      "id": "5015023",
+      "time": "2026-07-30 02:45:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 當前利率水平較 42 天前有所上行。"
+    },
+    {
+      "id": "mkt:019faf32-4738-7aab-8ef4-57b49f438923",
+      "time": "2026-07-30 02:45:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the trend is what matters."
+    },
+    {
+      "id": "mkt:019faf32-4594-7aab-8ef4-4f187cf271b3",
+      "time": "2026-07-30 02:45:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said the issue with data dependence is the data and the dependence itself."
+    },
+    {
+      "id": "5015022",
+      "time": "2026-07-30 02:45:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我們不會單憑單一一項資料作為佐證依據。 我並不認為我們過度依賴單一資料。"
+    },
+    {
+      "id": "mkt:019faf31-f51f-7aab-8ef4-475e949864b8",
+      "time": "2026-07-30 02:45:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said he will consult with the inflation working group within weeks."
+    },
+    {
+      "id": "mkt:019faf31-d3a1-7aab-8ef4-3dcd7b95fa09",
+      "time": "2026-07-30 02:45:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed will monitor inf data over the coming period."
+    },
+    {
+      "id": "5015021",
+      "time": "2026-07-30 02:44:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 不希望給外界留下我們正焦灼坐等最新資料出爐的印象。"
+    },
+    {
+      "id": "mkt:019faf31-9cf7-7aab-8ef4-30174c8975b1",
+      "time": "2026-07-30 02:44:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said June core CPI will have little impact on policy decisions."
+    },
+    {
+      "id": "5015020",
+      "time": "2026-07-30 02:44:42",
+      "tags": [
+        "資料",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：6月的核心CPI資料對決策影響不大。"
+    },
+    {
+      "id": "mkt:019faf31-7498-7aab-8ef4-2db52f6dbb2d",
+      "time": "2026-07-30 02:44:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said he believes this is the right team to address high inflation."
+    },
+    {
+      "id": "5015019",
+      "time": "2026-07-30 02:44:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們收到部分通脹資料有所好轉，後續一段時間內將持續密切觀察。"
+    },
+    {
+      "id": "mkt:019faf31-3ab5-7aab-8ef4-24af06486b7a",
+      "time": "2026-07-30 02:44:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said dissenting votes did not fully reflect the substance of the discussion."
+    },
+    {
+      "id": "5015018",
+      "time": "2026-07-30 02:44:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 關鍵在於趨勢走向。"
+    },
+    {
+      "id": "5015017",
+      "time": "2026-07-30 02:44:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 資料依賴策略的癥結，在於資料本身以及這種依賴模式。"
+    },
+    {
+      "id": "mkt:019faf30-e42d-7aab-8ef4-19b4f3ef75e1",
+      "time": "2026-07-30 02:44:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said it was a positive and robust discussion."
+    },
+    {
+      "id": "mkt:019faf30-bf70-7aab-8ef4-1214e0dac6a1",
+      "time": "2026-07-30 02:43:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed actively discussed a range of options for the future."
+    },
+    {
+      "id": "5015016",
+      "time": "2026-07-30 02:43:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：積極討論了今後所有可能的選擇。"
+    },
+    {
+      "id": "5015015",
+      "time": "2026-07-30 02:43:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 異議投票無法完整體現討論的實質。我們做出的決定得到了絕大多數人的支援。"
+    },
+    {
+      "id": "mkt:019faf30-7427-7aab-8ef4-08ed199fcaed",
+      "time": "2026-07-30 02:43:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said the decision had the support of an overwhelming majority."
+    },
+    {
+      "id": "mkt:019faf30-4fbb-7aab-8ef4-005dce937237",
+      "time": "2026-07-30 02:43:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Fed chair Kevin Warsh said he hears broad agreement and that the Fed has the ability to achieve price stability."
+    },
+    {
+      "id": "mkt:019faf30-4970-7aab-8ef3-fb0f3511cee5",
+      "time": "2026-07-30 02:43:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed chair Kevin Warsh reaffirms 2% inflation target, denies 'soft target'】Fed chair Kevin Warsh opened the press briefing by reiterating the Fed's firm commitment to a 2% YoY inflation target and saying the central bank will be steadfast in achieving price stability. He called withholding forward guidance amid current uncertainty a 'prudent' approach and stressed there is no 'soft inflation target' or other implicit goals — 2% is the sole target. Warsh described the US economy as 'impressively resilient', saying it has withstood recent shocks and the underlying trend remains positive."
+    },
+    {
+      "id": "mkt:019faf2f-fd26-7aab-8ef3-f71ce6fe4a8b",
+      "time": "2026-07-30 02:43:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "Fed chair Kevin Warsh said he sought an internal debate, and one occurred."
+    },
+    {
+      "id": "5015014",
+      "time": "2026-07-30 02:43:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我期待一場充分坦誠的內部激烈辯論，而這場辯論如期而至。討論氣氛熱烈、交鋒充分。"
+    },
+    {
+      "id": "5015013",
+      "time": "2026-07-30 02:42:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我聽到不少共識觀點，即我們具備實現物價穩定的政策能力。"
+    },
     {
       "id": "5015012",
       "time": "2026-07-30 02:42:02",
@@ -157,6 +421,15 @@
         "國際"
       ],
       "text": "美聯儲主席沃什： 過去 42 天裡，市場對各類事件的反應直觀得多。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825511044",
+      "time": "2026-07-30 02:39:58",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什表示 資本支出供應副作用的發生時間難以預測】美聯儲主席沃什表示，資本支出供應副作用的發生時間難以預測。"
     },
     {
       "id": "5015004",
@@ -161385,83 +161658,6 @@
         "Brent"
       ],
       "text": "Iranian state media quoted the Supreme Joint Military Command as saying that if the United States carries out its threats, Iran will cut all oil flows from the Gulf and target the region's oil, gas, power and economic infrastructure."
-    },
-    {
-      "id": "5002950",
-      "time": "2026-07-23 02:45:20",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗最高聯合軍事司令部表示，如果美國付諸行動實施威脅，伊朗將切斷海灣地區所有石油運輸，並針對該地區的石油、天然氣、電力及經濟基礎設施發動打擊。"
-    },
-    {
-      "id": "mkt:019f8b25-7cd1-7aab-8e50-0d8e371117c5",
-      "time": "2026-07-23 02:45:17",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【US intelligence probes whether Russia aided Iran in targeting CIA facilities in the Gulf】US intelligence analysts are investigating whether Russia assisted Iran in identifying targets during recent drone strikes on CIA facilities in the Gulf region, but have reached no conclusion. Officials are reviewing whether Moscow provided targeting intelligence or advanced drone technology. The probe follows multiple Iranian strikes that hit several CIA sites, including a CIA station inside the US embassy in Riyadh and a facility in eastern Iraq. Some officials say Russia may have upgraded Iran's Shahed drones to improve accuracy and navigation."
-    },
-    {
-      "id": "mkt:019f8b25-746d-7aab-8e50-05861526465c",
-      "time": "2026-07-23 02:45:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Treasury Secretary Bessent said 86% of participants in Trump account plans have household annual income below $200,000."
-    },
-    {
-      "id": "5002949",
-      "time": "2026-07-23 02:44:37",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財長貝森特：特朗普賬戶註冊家庭中86%年收入低於20萬美元。"
-    },
-    {
-      "id": "mkt:019f8b23-9cd8-7aab-8e4f-fa9adca6abda",
-      "time": "2026-07-23 02:43:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. natural gas futures rose as much as 3.00% intraday, trading at $2.951/MMBtu."
-    },
-    {
-      "id": "mkt:019f8b23-9108-7aab-8e4f-f78af4377a46",
-      "time": "2026-07-23 02:43:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazilian government says it will support companies affected by international conflict, especially exporters to Persian Gulf countries."
-    },
-    {
-      "id": "mkt:019f8b23-8f8c-7aab-8e4f-ee191e4aeb61",
-      "time": "2026-07-23 02:43:11",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "FITCH said on the U.S. banking sector that an elevated IPO pipeline and market expectations that private equity will support a corporate IPO recovery suggest favorable market conditions could persist through Q3 2026."
-    },
-    {
-      "id": "mkt:019f8b23-5c09-7aab-8e4f-e66c59337791",
-      "time": "2026-07-23 02:42:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazilian government will provide an 18.5-bln reais credit line to support firms affected by US tariffs."
     }
   ]
 }
