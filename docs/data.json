@@ -1,7 +1,205 @@
 {
-  "updated": "2026-07-30 03:11:05",
-  "count": 17659,
+  "updated": "2026-07-30 03:14:54",
+  "count": 17676,
   "items": [
+    {
+      "id": "mkt:019faf4c-c31e-7aab-8ef6-906f0def6130",
+      "time": "2026-07-30 03:14:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump says NVIDIA CEO Jensen Huang is currently in the Oval Office."
+    },
+    {
+      "id": "mkt:019faf4c-6603-7aab-8ef6-88cbb07bd4f7",
+      "time": "2026-07-30 03:14:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Kevin Warsh: Fed will watch market pricing closely, will not act to follow market-driven tightening】At a press conference Fed chair Kevin Warsh said markets have priced a tighter policy path in the absence of central guidance, but the Fed does not have to follow traders' pricing. \"I am comforted that between meetings markets have adjusted pricing not because of us but reflecting tighter financial conditions,\" he said, adding \"I think that's a beneficial development.\" He added the Fed \"does not endorse or support any particular market move\" but will monitor market dynamics closely."
+    },
+    {
+      "id": "5015113",
+      "time": "2026-07-30 03:14:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我只是力求確保資訊來源儘可能直接、不受過濾。"
+    },
+    {
+      "id": "5015112",
+      "time": "2026-07-30 03:13:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚英偉達的黃仁勳和英偉達的晶片。"
+    },
+    {
+      "id": "mkt:019faf4c-03bd-7aab-8ef6-84a17b6755a4",
+      "time": "2026-07-30 03:13:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said markets can be a very good source of information but are not decisive."
+    },
+    {
+      "id": "5015111",
+      "time": "2026-07-30 03:13:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：市場可以成為極佳的資訊來源。"
+    },
+    {
+      "id": "5015110",
+      "time": "2026-07-30 03:13:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：市場價格正共同發揮作用，促使我們保持警覺。"
+    },
+    {
+      "id": "mkt:019faf4b-a0a2-7aab-8ef6-784f556a4dd9",
+      "time": "2026-07-30 03:13:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said households keep us constantly vigilant."
+    },
+    {
+      "id": "5015109",
+      "time": "2026-07-30 03:13:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我聽到家庭和企業（對高通脹）的不耐煩。"
+    },
+    {
+      "id": "mkt:019faf4b-5e22-7aab-8ef6-720b4bce1455",
+      "time": "2026-07-30 03:12:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed will not be constrained by market prices."
+    },
+    {
+      "id": "mkt:019faf4b-3b2e-7aab-8ef6-6db67e3014ea",
+      "time": "2026-07-30 03:12:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed chair Kevin Warsh said market prices, viewed from a macro perspective, are not signaling \"all is well\" but instead point to tighter financial conditions."
+    },
+    {
+      "id": "5015108",
+      "time": "2026-07-30 03:12:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：黃仁勳在橢圓形辦公室。"
+    },
+    {
+      "id": "5015106",
+      "time": "2026-07-30 03:12:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：他們（市場）讓我們時刻保持警惕。"
+    },
+    {
+      "id": "5015105",
+      "time": "2026-07-30 03:11:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：市場定價顯然並未釋放風險解除訊號。"
+    },
+    {
+      "id": "mkt:019faf4a-65fa-7aab-8ef6-612b685d3180",
+      "time": "2026-07-30 03:11:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said he has heard that households and businesses lack patience."
+    },
+    {
+      "id": "5015104",
+      "time": "2026-07-30 03:11:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：若從整體來看市場價格，目前市場並未釋放風險解除的訊號，金融環境已經收緊。"
+    },
+    {
+      "id": "mkt:019faf49-9ee0-7aab-8ef6-5f4a7026d278",
+      "time": "2026-07-30 03:11:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said judgments will consider external working-group views but will not be dictated by them."
+    },
+    {
+      "id": "5015103",
+      "time": "2026-07-30 03:10:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉跌。"
+    },
+    {
+      "id": "mkt:019faf49-49ac-7aab-8ef6-56a40643ef38",
+      "time": "2026-07-30 03:10:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said he was impressed by the credentials of the working-group leaders."
+    },
+    {
+      "id": "5015102",
+      "time": "2026-07-30 03:10:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：杜勒斯機場將擁有最大的美聯航北極星貴賓休息室。"
+    },
     {
       "id": "5015101",
       "time": "2026-07-30 03:10:27",
@@ -162727,35 +162925,6 @@
         "其他"
       ],
       "text": "市場訊息：2026 年第一季度，Stripe 營收達 20 億美元。 Stripe 2025 年自由現金流大增 52%，達 32 億美元 。"
-    },
-    {
-      "id": "5002976",
-      "time": "2026-07-23 03:14:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長卡齊姆·加里巴巴迪： 向侵略方提供基地與領土，歐洲各國將淪為侵略者的同謀。"
-    },
-    {
-      "id": "mkt:019f8b40-6f64-7aab-8e50-81f253bfab99",
-      "time": "2026-07-23 03:14:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【QatarEnergy reportedly preparing to extend LNG force majeure to mid-October】QatarEnergy is reportedly preparing to extend force majeure on LNG shipments through mid-October, prolonging the supply shock to global gas markets from the Middle East war. European and Asian buyers said they expect formal notices in the coming weeks."
-    },
-    {
-      "id": "5002975",
-      "time": "2026-07-23 03:11:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX： 超重助推器全部起飛前附加測試已完成。團隊現已啟動星艦發射籌備工作，最早將於當地時間明日（7 月 23 日週四）實施發射；目前天氣是影響本次發射的關鍵觀測因素。"
     }
   ]
 }
