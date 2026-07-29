@@ -1,7 +1,457 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-30 04:31:06_
-_本檔包含 3793 則快訊，約 663802 字_
+_更新時間：2026-07-30 05:29:12_
+_本檔包含 3825 則快訊，約 664012 字_
+
+---
+
+### 2026-07-30 05:27:29  #其他
+
+強生：仍然預測全年銷售額1008億美元至1014億美元。
+
+---
+
+### 2026-07-30 05:26:53  #焦點 #國際
+
+美國授予通用動力價值766億美元合同，用於潛艇建造與船廠專案。
+
+---
+
+### 2026-07-30 05:21:14  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish #NVDA.O #Impact bullish #MSFT.O
+
+Meta Platforms (META.O) CEO said current computing power falls far short of meeting demand.
+
+---
+
+### 2026-07-30 05:21:10  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bullish
+
+Meta Platforms (META.O) CEO said selling all compute capacity for short-term profit would be stupid.
+
+---
+
+### 2026-07-30 05:19:28  #公司
+
+META首席財務官：公司正為其人工智慧模型提供更詳盡的使用者過往互動資訊，以幫助模型更好地理解使用者認為最有價值的內容。
+
+---
+
+### 2026-07-30 05:18:35  #其他
+
+META首席財務官：我們預計在今年剩餘時間乃至2027年，推薦系統仍有進一步最佳化空間，有助於推動使用者參與度提升。
+
+---
+
+### 2026-07-30 05:18:30  #Trading Economics #Markets #Brazil #Currency #Importance 1
+
+Brazilian Real Gains as Fed Holds Rates — The Brazilian real strengthened to 5.12 per USD from the two-week low of 5.14 reached on July 27 after the Federal Reserve held interest rates unchanged. The decision weakened the US dollar, as roughly one-third of the market had been positioned for a rate hike. Meanwhile, Brazil created a net 145,161 formal jobs in June, well above market expectations of 115,000, reinforcing the resilience of the labor market and supporting expectations of a more hawkish BCB. Brazil's high interest rates have continued to support the real by boosting the appeal of local assets, as persistent inflation risks and concerns over fiscal deficits have kept the Selic at elevated levels. In June, the BCB lowered the Selic rate from 14.50% to 14.25% but stressed that the resilience of the labor market continues to fuel services inflation. The Copom will meet on August 4-5th to decide the next level of the Selic.
+
+---
+
+### 2026-07-30 05:18:18  #宏觀 #國際
+
+美國國務院：美國將立即向全球疫苗免疫聯盟撥付國會批准的2025財年、2026財年全部6億美元資金。
+
+---
+
+### 2026-07-30 05:18:07  #宏觀 #國際
+
+美國國務院：美國重申，不會透過全球疫苗免疫聯盟向世界衛生組織提供美國政府資金。
+
+---
+
+### 2026-07-30 05:18:02  #宏觀 #國際
+
+美國國務院：美國有望重新獲得全球疫苗免疫聯盟董事會席位。
+
+---
+
+### 2026-07-30 05:17:23  #MKT News
+
+U.S. State Department says it will immediately disburse the full $600 million appropriated by Congress for FY25 and FY26 to Gavi, the Vaccine Alliance.
+
+---
+
+### 2026-07-30 05:17:20  #央行 #國際
+
+【FOMC宣告後，美聯儲9月加息的機率下降】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為36.8%，累計加息25個基點的機率為63.2%，累計加息50個基點的機率為0%（美聯儲決議前分別為17.8%、60.2%和22%）。美聯儲到10月維持利率不變的機率為26.2%，累計加息25個基點的機率為55.6%，累計加息50個基點的機率為18.2%，累計加息75個基點的機率為0%（美聯儲決議前分別為11.9%、46.1%、34.7%、和7.3%）。
+
+---
+
+### 2026-07-30 05:17:05  #其他
+
+奇波雷墨西哥燒烤高管：預計第三季度同店銷售額增長約1%，假設客流持續受到約200個基點的負面影響。
+
+---
+
+### 2026-07-30 05:16:23  #宏觀 #國際
+
+美國國務院訊息：全球疫苗免疫聯盟承諾設立秘書處職能部門，持續監測、評估疫苗科研領域進展。
+
+---
+
+### 2026-07-30 05:16:12  #MKT News
+
+US State Department reiterated the US will not provide government funding to the World Health Organization through Gavi, the Vaccine Alliance. It said the US expects to resume its seat on Gavi's board.
+
+---
+
+### 2026-07-30 05:15:27  #市場
+
+富時A50期指連續夜盤收跌0.53%，報14683點。
+
+---
+
+### 2026-07-30 05:14:09  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bullish
+
+Meta Platforms (META.O) CEO said consumer personal agents will become an extremely important and large market.
+
+---
+
+### 2026-07-30 05:11:28  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish #Nasdaq100
+
+Meta Platforms (META.O) extended after-hours losses to 10%.
+
+---
+
+### 2026-07-30 05:08:58  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact mixed
+
+Meta Platforms (META.O) CFO said the company views short-term infrastructure capability as more valuable than long-term capability.
+
+---
+
+### 2026-07-30 05:08:53  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #AMD.O
+
+Meta Platforms (META.O) CFO said industry-wide compute capacity will remain tight for the foreseeable future.
+
+---
+
+### 2026-07-30 05:08:21  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
+
+Meta Platforms (META.O) CFO said the company’s long-term capacity strategy is intended to support sustained compute growth from 2028 onward.
+
+---
+
+### 2026-07-30 05:06:52  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Israeli intelligence says US-Iran tensions may escalate further】Israeli security agencies assess that after a recent series of Iranian actions, the US is close to mounting major retaliatory measures. Israel's Channel 15 reported Washington's consensus is that current developments represent an escalation pattern requiring a broader, tougher response; a senior Israeli security source said the Americans are preparing an operation much larger than previously seen. Israeli-collected intelligence points to preparations for a large-scale military operation rather than a localized strike, based on multiple incidents: an Iranian missile attack on US forces in Jordan; Iran-backed groups striking Saudi targets from Iraq; Tehran issuing threats to Azerbaijan and Ukraine; refusal to compromise on the Strait of Hormuz; and reported recent attacks on Egyptian territory. Security sources say these events indicate Iran is intensifying multi-front confrontations and that a US response is likely to be broader and firmer than before.
+
+---
+
+### 2026-07-30 05:06:05  #其他
+
+高通首席財務官：預計第四季度非公認會計准則營業支出約為27億美元。
+
+---
+
+### 2026-07-30 05:05:04  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact mixed
+
+Meta Platforms (META.O) CFO said long-term forecasting of the capacity-utilization-versus-scale curve is becoming more difficult, but the company believes it retains allocation advantages regardless of whether its models are at the frontier.
+
+---
+
+### 2026-07-30 05:04:22  #公司
+
+AWS：亞馬遜威脅情報將流行的Node包管理器庫遭入侵事件與朝鮮關聯的威脅行為者聯絡起來。
+
+---
+
+### 2026-07-30 05:02:00  #市場 #央行 #國際
+
+【金價在美聯儲決議宣告發布日漲0.9%，沃什新聞釋出會期間重新整理日高】週三（7月29日）紐約尾盤，現貨黃金漲0.87%，報4064.63美元/盎司，整體交投區間為3996.06-4116.47美元，北京時間00:52以來呈現出衝高回落走勢、03:02（美聯儲扎主席沃什新聞釋出會臨近尾聲）重新整理日高。COMEX黃金期貨漲0.91%，報4123.30美元/盎司。現貨白銀漲0.80%，報57.6059美元/盎司。COMEX白銀期貨漲0.78%，報57.825美元/盎司。COMEX銅期貨跌0.18%，報6.3480美元/磅，02:00從6.32美元附近拉昇、重新整理日高至6.4315美元。現貨鉑金漲0.54%，現貨鈀金跌0.40%。
+
+---
+
+### 2026-07-30 04:59:51  #公司
+
+META首席財務官：公司對利用現有能力進行規模化建設、在現有經驗基礎上持續發展，以及繼續投資基礎模型的能力充滿信心。
+
+---
+
+### 2026-07-30 04:58:42  #公司
+
+高通執行長：我們在三星的業務地位依然穩固，三星約70%的旗艦機型搭載驍龍晶片。
+
+---
+
+### 2026-07-30 04:56:56  #公司
+
+高通執行長：目前預計2026財年末，汽車業務年化銷售額將約為70億美元。
+
+---
+
+### 2026-07-30 04:55:11  #國際
+
+【以媒：內塔尼亞胡向特朗普闡述對伊“三種情景”】據《以色列時報》網站29日報道，以總理內塔尼亞胡日前在與美國總統特朗普的會晤中提出涉伊朗局勢的“三種情景”，但未提及任何“具體戰略”。內塔尼亞胡還在與美高階官員會面中提出希望逐步擺脫美方援助。報道援引以高階官員的話說，內塔尼亞胡所說的“三種情景”包括：一是與伊朗達成外交協議；二是情況較不明朗，沒有達成協議且美國繼續試圖透過經濟制裁向伊朗施壓，但不會再次發動戰爭；三是對伊朗再次發動大規模攻勢。（新華社）
+
+---
+
+### 2026-07-30 04:54:50  #公司
+
+Meta執行長：預計人工智慧變現模式將演變為類似我們的廣告系統，在我們的計算資源上執行高效競價機制。
+
+---
+
+### 2026-07-30 04:54:45  #MKT News #LMT.O #Impact bullish #NOC.O #RTX.O
+
+【SpaceX awarded $1.6 bln U.S. Space Force contract】The U.S. Space Force on July 29 awarded SpaceX a $1.6 billion contract to perform 18 Falcon 9 launches by end-2027 to deploy military satellites for detecting and tracking airborne targets.
+
+---
+
+### 2026-07-30 04:54:38  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish #Nasdaq100
+
+Qualcomm (QCOM.O) CEO said tape-out of first-generation HBC has been completed.
+
+---
+
+### 2026-07-30 04:54:28  #公司
+
+Meta執行長：公司計劃將人工智慧產品以一站式商用服務模式變現，採用訂閱制結合按量計費的定價方案。
+
+---
+
+### 2026-07-30 04:54:16  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) CEO said custom chips have entered wafer production.
+
+---
+
+### 2026-07-30 04:54:00  #MKT News
+
+【Microsoft Q4 revenue $90 bln beats estimates; Azure annual revenue tops $100 bln】Microsoft reported Q4 EPS $4.81 vs street $4.24 and $3.65 a year earlier. Revenue was $90.0 bln vs $87.6 bln expected, up 18% YoY. Azure revenue for the quarter was $39.3 bln, up 43% YoY (expected +40%); CEO Nadella said Azure annual revenue has topped $100 bln. Microsoft said Microsoft 365 Copilot paid seats exceed 30 mln and paid AI users have grown. Investors remain focused on whether data-center spending will produce returns. Shares rose about 4% in after-hours trading; stock is down roughly 18% year-to-date.
+
+---
+
+### 2026-07-30 04:53:54  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) CEO said two recently won custom-chip contracts will generate revenue in the December quarter.
+
+---
+
+### 2026-07-30 04:53:50  #公司
+
+高通執行長：公司已啟動定製矽晶片的晶圓生產。
+
+---
+
+### 2026-07-30 04:53:38  #公司
+
+高通CEO：已完成HBC第一代的流片。
+
+---
+
+### 2026-07-30 04:52:50  #公司
+
+高通執行長：我們近期拿下的兩筆定製晶片訂單將在第四財季（截至12月的季度）產生收入。
+
+---
+
+### 2026-07-30 04:52:48  #公司 #市場
+
+【7月30日美股成交額前20：SK海力士利潤增長低於預期，將擴大資本開支】週三美股成交額第12名SK海力士收跌2.60%，成交83.09億美元。SK海力士7月29日釋出上市後首份財報，上半年營業利潤同比增長超5倍，但不及預期，股價下跌。第二季度營收79.32萬億韓元，淨利潤93.92萬億韓元，環比增133%。公司稱DRAM和NAND價格延續漲勢，HBM、AI伺服器DRAM及企業級SSD銷售推動實現歷史最佳盈利。儘管市場擔憂AI投資放緩，公司認為需求將持續擴大，短期內供需失衡難顯著改善。因投產提前和投資擴大，2026年資本開支預計超40萬億韓元。
+
+---
+
+### 2026-07-30 04:52:41  #公司
+
+Meta執行長：人工智慧產品商業化計劃為“現成即⽤的業務”服務，將結合訂閱制與按量計價兩種模式。
+
+---
+
+### 2026-07-30 04:52:37  #觀點
+
+高盛為微軟關聯的資料中心專案募集54億美元債務融資。
+
+---
+
+### 2026-07-30 04:50:35  #公司 #市場
+
+【微軟雲業務收入超出市場預期 盤後股價上漲】微軟的雲業務銷售增長超出華爾街預期，表明其計算基礎設施和人工智慧服務繼續獲得企業客戶青睞。微軟週三在宣告中表示，Azure雲端計算業務收入在第四財季增長43%。這高於分析師平均預計的增長約40%。財報公佈後，微軟股價在盤後交易中上漲約3%。該股週三收於390.54美元。
+
+---
+
+### 2026-07-30 04:49:44  #焦點 #國際
+
+特朗普：是時候攻佔哈爾克島，完成行動。
+
+---
+
+### 2026-07-30 04:47:29  #公司
+
+META執行長稱，公司收到許多計算資源報價，均高於其支付價格。
+
+---
+
+### 2026-07-30 04:46:56  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
+
+Meta Platforms (META.O) CEO said the company plans to offer multiple tiers and pricing options for its Meta One subscription service.
+
+---
+
+### 2026-07-30 04:46:43  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bullish
+
+Meta Platforms (META.O) CEO said agency products could evolve into a business model similar to advertising.
+
+---
+
+### 2026-07-30 04:46:42  #宏觀
+
+土耳其外長與哈馬斯政治局領導人舉行會晤。
+
+---
+
+### 2026-07-30 04:46:24  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact mixed
+
+Meta Platforms (META.O) CEO said most of the company's compute capacity will be used for its own operations, but it expects to build a sizable business serving large customers.
+
+---
+
+### 2026-07-30 04:46:19  #其他
+
+Anthropic稱正在處理影響模型執行的故障。
+
+---
+
+### 2026-07-30 04:46:06  #其他
+
+Anthropic表示，已經查明影響旗下模型執行的故障。
+
+---
+
+### 2026-07-30 04:44:52  #其他
+
+微軟Azure年度營收突破1000億美元。
+
+---
+
+### 2026-07-30 04:43:28  #其他
+
+星巴克：本季度咖啡原料價格壓力將會緩解。
+
+---
+
+### 2026-07-30 04:42:48  #其他
+
+Robinhood 2026年Q2營收13.1億美元，同比增長32%。
+
+---
+
+### 2026-07-30 04:42:35  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bullish
+
+Meta Platforms (META.O) CEO says demand for new AI creative tools is strong.
+
+---
+
+### 2026-07-30 04:41:54  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bearish #Nasdaq100
+
+【Meta posts record Q2 revenue; AI spending update drags shares】Meta Platforms reported Q2 revenue of $60.8bn, up 28% YoY, a record, while net income was $15.8bn, below analyst expectations. The company raised the lower end of its full-year capital expenditure guidance to $130bn from $125bn, leaving the $145bn upper bound unchanged. An updated AI spending plan heightened investor concern over infrastructure build costs and the stock fell more than 6% in after-hours trading. Meta has spent tens of billions on chips, data centers and AI talent and recently partnered with BlackRock to finance at least $12bn for a Texas data center. Q2 free cash flow was $784m.
+
+---
+
+### 2026-07-30 04:41:48  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Meta Platforms #META.O
+
+Meta Platforms (META.O) CEO said the company is developing a new personal assistant that will serve as the foundation for its next wave of products.
+
+---
+
+### 2026-07-30 04:41:44  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bullish
+
+Meta Platforms (META.O) CEO said there is a huge opportunity to sell APIs and AI agents to enterprise customers.
+
+---
+
+### 2026-07-30 04:41:36  #國際
+
+歐盟、世界銀行、非洲開發銀行、美洲開發銀行將參與委內瑞拉（重建）相關計劃。
+
+---
+
+### 2026-07-30 04:40:57  #其他
+
+市場資訊：沙特國防大臣到訪華盛頓，爭取美方批准出售F-35戰機。
+
+---
+
+### 2026-07-30 04:40:24  #其他
+
+星巴克首席財務官：第三季度收到的關稅退款“基本抵消”了2026財年前三個季度產生的關稅成本。
+
+---
+
+### 2026-07-30 04:39:50  #公司
+
+META執行長認為向企業出售API和代理存在巨大機遇。
+
+---
+
+### 2026-07-30 04:39:21  #國際
+
+美國國家颶風中心（NHC）表示，吉納維芙颶風向西北偏西方向移動時強度減弱。
+
+---
+
+### 2026-07-30 04:39:13  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bullish
+
+Meta Platforms (META.O) CEO said AI is enabling new user experiences and accelerating product delivery.
+
+---
+
+### 2026-07-30 04:39:02  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bullish
+
+Meta Platforms (META.O) CEO said AI investment is accelerating across every major part of its core business.
+
+---
+
+### 2026-07-30 04:38:13  #公司
+
+META執行長稱，得益於人工智慧，公司正在打造全新體驗，產品交付速度加快。
+
+---
+
+### 2026-07-30 04:36:42  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+O'Reilly Automotive earnings in line with market expectations at 0.86 USD — O'Reilly Automotive (ORLY) released earnings per share at 0.86 USD, in line with market expectations.
+
+---
+
+### 2026-07-30 04:36:00  #公司 #市場
+
+【Meta第三財季營收展望遜於預期 上調全年資本開支預估下限】Meta Platforms Inc.給出的本季度營收展望令人失望，加劇了投資者對該公司史無前例的人工智慧支出的擔憂。這家社交媒體巨頭表示，第三季度營收預計為610億至640億美元，彭博彙編的資料顯示，該區間中值低於分析師平均預期的632億美元。Meta依靠廣告業務為其代價高昂的AI產品和基礎設施投資提供資金。投資者一直質疑Meta最終將如何收回AI投資。今年早些時候，執行長馬克·扎克伯格將支出計劃提高至至多1450億美元，令市場感到不安。週三Meta將全年資本支出預測區間收窄至1300億至1450億美元，此前1250億至1450億美元的預測區間低端被小幅上調。Meta股價週三在紐約收於585.61美元，盤後下跌約4%。
+
+---
+
+### 2026-07-30 04:35:02  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 2.19% Lower — The Dow Jones Index fell 1156 points or 2.19 percent on Wednesday to close at 51591 points. Leading the losses are Caterpillar (-6.99%), Goldman Sachs (-5.17%) and Nvidia (-3.47%).
+
+---
+
+### 2026-07-30 04:34:31  #MKT News
+
+The U.S. will hold an artificial intelligence summit in Lima, Peru on Sept. 8.
+
+---
+
+### 2026-07-30 04:33:12  #MKT News #Star Stocks #Meta Platforms #Microsoft #Market Themes #Magnificent 7 #META.O #Impact bearish #MSFT.O #Impact bullish #QCOM.O
+
+After earnings, Meta Platforms (META.O) shares are trading down about 6%; Microsoft (MSFT.O) is up about 3%; Qualcomm (QCOM.O) is down about 4.6%.
+
+---
+
+### 2026-07-30 04:31:44  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Robinhood earnings above expectations at 0.62 USD — Robinhood (HOOD) released earnings per share at 0.62 USD, compared to market expectations of 0.41 USD.
+
+---
+
+### 2026-07-30 04:31:43  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Starbucks earnings above expectations at 0.85 USD — Starbucks (SBUX) released earnings per share at 0.85 USD, compared to market expectations of 0.66 USD.
+
+---
+
+### 2026-07-30 04:31:19  #國際
+
+伊朗訊息人士證實，美沙聯合襲擊造成數名伊朗革命衛隊人員身亡。
 
 ---
 
@@ -22604,263 +23054,5 @@ Iran deputy foreign minister said Iran's policy is that the Strait of Hormuz wil
 ### 2026-07-29 00:21:44  #Trading Economics #Markets #Commodity #Importance 0
 
 Uranium at 86.30USD/LBS — Uranium futures in the US remained near the $85 per pound mark, extending its narrow range since early April after erasing the surge from earlier in the year. The cooldown from the speculative rally was combined with muted levels of spot buying by utilities, which have allocated from long-term contracts since the war between Russia and Ukraine raised short-term trade uncertainty. Yellowcake prices were lifted by geopolitical tension driving power markets in major economies to be increasingly volatile, sparking interest in nuclear power by governments and power-hungry AI hyperscalers that develop datacenters. Italy was the latest to express interest to approve a legal framework to restore nuclear power, in line with measures from the US and Japan as power consumers expand sources for generation to account for the higher demand from data center projects. Meta, Amazon, and Microsoft signed agreements to gain fresh nuclear capacity for their future AI data center operations.
-
----
-
-### 2026-07-29 00:20:17  #國際
-
-俄羅斯總統普京下令與烏茲別克和哈薩克就修改現行的軍事技術合作（VTS）條約展開談判。
-
----
-
-### 2026-07-29 00:18:07  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet
-
-Google (GOOG.O) rolled out a GEMINI-enhanced commenting workflow in Google Docs.
-
----
-
-### 2026-07-29 00:17:04  #公司
-
-谷歌：在文件（Docs）中推出由 Gemini 驅動的評論工作流。
-
----
-
-### 2026-07-29 00:15:07  #MKT News
-
-Ukrainian President Zelenskiy said he discussed diplomacy and Patriot air‑defense missiles with the United States.
-
----
-
-### 2026-07-29 00:13:41  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Closes Lower — The FTSE MIB fell 0.7% to close at 51,698 on Tuesday as the war in the Middle East hampered Saipem's corporate results, while growing skepticism on AI overspending dented equity demand across the globe. Saipem tumbled 8.8% after lowering its core earnings forecast, citing higher costs and logistical disruptions linked to the Gulf conflict. Other energy stocks also declined, with Tenaris and Eni losing more than 1.5%. Semiconductor stocks remained under pressure as investors questioned elevated valuations amid concerns over AI investments ahead of earnings reports from major tech firms. Prysmian dropped 4.3%, while STMicroelectronics lost 3.1%. Banking stocks underperformed, led by BMPS (-1.9%) and Banco BPM (-1.8%), as reports of a potential merger between the two lenders raised uncertainty over Intesa Sanpaolo's (-0.4%) takeover bid. On the upside, Campari (3.4%), Amplifon (3%), and Ferrari (2.9%) extended gains from the previous session.
-
----
-
-### 2026-07-29 00:12:11  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.69% Lower — The FTSE MIB Index dropped 357 points or 0.69 percent on Tuesday to close at 51698 points. Losses were led by Saipem (-9.67%), Prysmian (-4.96%) and STMicroelectronics (-3.55%). Offsetting the fall, top gainers were Diasorin (5.28%), Davide Campari-Milano (3.38%) and Amplifon (3.00%).
-
----
-
-### 2026-07-29 00:11:11  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.41% Higher — The DAX Index went up by 103 points or 0.41 percent on Tuesday to close at 25464 points. The rise was led by SAP (5.50%), Zalando (4.62%) and Porsche Automobil (4.27%). On the downside, the weakerst performers were Siemens Energy (-7.06%), Infineon (-6.09%) and RWE (-2.69%).
-
----
-
-### 2026-07-29 00:10:44  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Gain for 3rd Session — European stocks inched higher on Tuesday with support from corporate earnings and another pullback in energy prices. The Euro STOXX 50 added 0.2% to 6,294 and the STOXX Europe 600 gained 0.4% to 647. LVMH gained 1% reporting broadly in-line sales growth. Unilever surged 8.5% after raising its full-year sales guidance, while Mercedes-Benz climbed 2.9% after posting a profit beat despite a sharp drop in deliveries in China. Also, Safran rebounded from early losses and advanced 3% after results. Orange also gained 3.1% after upgrading its annual profit outlook. On the downside, Barclays fell 5.6% after posting its balance sheet. Meanwhile, the technology sector remained under pressure globally, with renewed concerns over AI-related spending weighing particularly on semiconductor stocks. ASML extended its recent losses, falling 3%, after reports that a Chinese state-backed company has started mass-producing certain chipmaking equipment.
-
----
-
-### 2026-07-29 00:10:11  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.63% Higher — The CAC 40 Index rose 53 points or 0.63 percent on Tuesday to close at 8459 points. Leading the gains are Capgemini (6.92%), Orange (5.30%) and Pernod Ricard (4.75%). Top losers were STMicroelectronics (-5.52%), ENGIE (-3.11%) and Air Liquide (-2.05%).
-
----
-
-### 2026-07-29 00:09:39  #市場 #焦點
-
-美國天然氣期貨跌超4.00%，現報2.676美元/百萬英熱。
-
----
-
-### 2026-07-29 00:07:34  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Ukraine's Maritime Administration reported that Russia attacked a Liberia-flagged civilian vessel in the Black Sea.
-
----
-
-### 2026-07-29 00:07:11  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.88% Higher — The FTSE 100 Index gained 95 points or 0.88 percent on Tuesday to close at 10876 points. Gains were led by Unilever (8.45%), Croda International (7.45%) and Experian (6.12%). Biggest losers were Barclays (-5.63%), Lion Finance Group (-3.57%) and Games Workshop Group (-2.62%).
-
----
-
-### 2026-07-29 00:05:37  #MKT News
-
-UN High Commissioner for Refugees Barham Salih said he expects cooperation with the United States to continue.
-
----
-
-### 2026-07-29 00:03:09  #國際
-
-據烏克蘭海事局報告，俄羅斯在黑海襲擊了一艘懸掛賴比瑞亞國旗的民用船隻。
-
----
-
-### 2026-07-29 00:02:47  #MKT News
-
-XAI launches an early test release of Grok Build for SuperGrok Heavy subscribers.
-
----
-
-### 2026-07-29 00:02:23  #其他
-
-聯合國難民事務高階專員巴爾哈姆·薩利赫：我們需要國際社會提供更多支援，捐助資金削減已帶來極大挑戰。
-
----
-
-### 2026-07-29 00:01:20  #其他
-
-達飛海運：第二季度淨利潤為7.7億美元，去年同期為5.21億美元。
-
----
-
-### 2026-07-29 00:01:12  #其他
-
-達飛海運公佈第二季度營收為156.9億美元，去年同期為131.7億美元。
-
----
-
-### 2026-07-29 00:01:08  #其他
-
-達飛海運第二季度息稅折舊及攤銷前利潤為29.9億美元，去年同期為22.8億美元。
-
----
-
-### 2026-07-29 00:00:53  #MKT News
-
-U.S. presidential envoy Witkoff, Treasury Secretary Bessent and Secretary of State Rubio attended a meeting between U.S. President Trump and Israeli Prime Minister Netanyahu.
-
----
-
-### 2026-07-28 23:59:45  #市場
-
-捷藍航空股價上漲至10%，創6月中旬以來最大漲幅。
-
----
-
-### 2026-07-28 23:58:57  #市場
-
-洲際交易所（ICE）資料顯示，荷蘭TTF天然氣下月期貨價格下跌5%，至每兆瓦時55.31歐元。
-
----
-
-### 2026-07-28 23:57:07  #市場 #焦點
-
-WTI原油日內跌5%，現報78.45美元/桶。
-
----
-
-### 2026-07-28 23:56:28  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX 40 Rises to 3-Week High — Frankfurt’s DAX 40 climbed 0.5% to 25,492 on Tuesday, reaching its highest level since July 6, as investors reacted positively to corporate earnings updates and falling oil prices amid hopes of renewed US-Iran negotiations to ease Middle East tensions. SAP gained more than 5%, extending recent gains after launching the second stage of its €10 billion share buyback programme and reporting stronger-than-expected second-quarter results. Deutsche Telekom advanced more than 2%, while Airbus rose over 1.5%. Mercedes-Benz also increased more than 2% after maintaining its passenger car margin target, despite lowering its revenue forecast following a weaker quarter. In contrast, Infineon dropped around 6% as AI-related stocks remained under pressure due to concerns over stretched valuations, stronger Chinese competition, and rising investment needs. Energy stocks also declined as crude prices continued to weaken, with Siemens Energy falling around 7%.
-
----
-
-### 2026-07-28 23:56:13  #焦點 #國際
-
-【伊朗駐華大使稱伊朗未介入曼德海峽問題，呼籲從源頭解決葉門】“伊朗不會介入胡塞武裝在地區所採取的任何行動，也沒有興趣讓緊張局勢和衝突繼續下去。”7月28日，在回答媒體提出的有關胡塞武裝宣佈對沙特實施禁運是否得到伊朗方面支援的問題時，伊朗駐華大使法茲裡作出上述表示。
-
----
-
-### 2026-07-28 23:55:41  #MKT News #Important #WTI #Impact bearish #Brent
-
-WTI crude extended intraday losses to about 4.0%, trading at $77.91/bbl. Brent crude fell roughly 4.5% to $81.50/bbl.
-
----
-
-### 2026-07-28 23:55:02  #市場 #焦點
-
-布倫特原油日內跌5%，現報81.56美元/桶。
-
----
-
-### 2026-07-28 23:55:02  #Trading Economics #Markets #commodity #Importance 0
-
-Brent Crude Oil is down by 5.14% — Brent Crude Oil decreased 5.14% to 83.818 USD/Bbl
-
----
-
-### 2026-07-28 23:54:22  #MKT News
-
-NHK reports 4 people rescued after an explosion at an AEON shopping center; 10 people remain missing.
-
----
-
-### 2026-07-28 23:54:17  #其他
-
-華納兄弟探索旗下HBO Max推出"HBO Max Shorts"豎屏短影片資訊流。
-
----
-
-### 2026-07-28 23:54:00  #MKT News #Commodities #Precious Metals
-
-REUTERS SURVEY: 2026 average platinum price expected $1,925/oz, down from $2,067/oz in the prior survey; 2026 average palladium price expected $1,483/oz, down from $1,583/oz.
-
----
-
-### 2026-07-28 23:53:33  #Trading Economics #Markets #United States #Currency #Importance 1
-
-US Dollar Eases from 15-Month High — The dollar index softened to 101.3 on Tuesday after testing a 15-month high of 101.6 in the previous session as softer energy prices limited the outlook of a rate hike by the Federal Reserve this year. US officials stressed that a diplomatic resolution may still be achieved with Iran in their war, driving fuel prices to ease off their local peaks and trimming the risk of a rebound in energy inflation. Still, fuel prices remained elevated in a historical level as exports from the Middle East are still low. A portion of FOMC members had recently signaled that higher inflation and evidence of a robust labor market could warrant higher rates. The Federal Reserve is expected to hold its policy rates unchanged tomorrow, but rate futures continued reflect the consensus of a hike this year. The greenback held recent gains against the euro and the yen, although political volatility in the UK maintained the sterling's recent appreciation.
-
----
-
-### 2026-07-28 23:51:58  #國際
-
-以色列總理內塔尼亞胡與特朗普會晤期間，大批特朗普幕僚在場，包括副總統萬斯、國務卿魯比奧、防長赫格塞思、中情局局長拉特克利夫以及特使威特科夫。
-
----
-
-### 2026-07-28 23:51:21  #公司
-
-【中際旭創：預計下半年原材料會有階段性改善 出貨量也會有明顯增加】中際旭創釋出投資者關係活動記錄表公告，針對光晶片、電晶片、PCB和無源器件等原材料，公司均有部署採購計劃。基於強勁的下游行業需求，公司正在積極備料。一方面和現有供應商簽訂長協，鎖定新增產能；另一方面開拓新的供應商，同時透過預付款、股權投資等方式，加強供應商的繫結。供應商也願意積極擴產，預計今年下半年物料就會有階段性的改善，出貨量也會有明顯的增加。
-
----
-
-### 2026-07-28 23:49:53  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Rises to 5-Month High — The FTSE 100 advanced 0.9% on Monday, rising above 10,800 to its highest level since the record close on February 27, supported by strong performances from consumer goods and healthcare stocks. Unilever shares surged more than 8% after the company reported better-than-expected results, driven by solid growth in the US and emerging markets, and raised its 2026 outlook. GSK also gained around 4% after delivering an earnings beat, announcing cost-cutting measures and plans to reinvest savings into drug research, while maintaining that operating profit growth should reach the upper end of its guidance. In contrast, Barclays shares dropped nearly 6% despite reporting strong second-quarter investment banking results, upgrading its annual income target, and announcing a £1 billion share buyback. Investors compared the performance unfavourably with stronger results from US banks. Meanwhile, oil majors Shell and BP declined more than 1% each as crude prices continued to weaken.
-
----
-
-### 2026-07-28 23:49:01  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Rises on Strong Corporate Earnings — The CAC 40 rose 0.6% to close at 8,459 on Tuesday as investors welcomed a fresh batch of corporate earnings. LVMH gained 1% after reporting stronger-than-expected first-half revenue and earnings and an acceleration in second-quarter sales growth. The upbeat results lifted the luxury sector, with L'Oréal up 2.4%, Hermès rising 2.3%, and Kering adding 2.9%. Safran advanced 2.3% after raising its full-year guidance on stronger-than-expected first-half results, while Orange surged 5.3% after posting solid first-half earnings and upgrading its outlook. In contrast, Michelin fell 1.5% after reporting revenue and net profit below expectations. On the macro front, French consumer confidence improved to 86 in July, the highest level in four months, up from 84 in June, though it remained below the long-term average of 100. Air Liquide, Essilor, Kering, Orange, and Safran are due to report earnings on Wednesday.
-
----
-
-### 2026-07-28 23:48:44  #國際
-
-【以軍稱打死傑哈德“努赫巴”部隊一名指揮官】以色列國防軍28日發表宣告說，以軍27日打死一名巴勒斯坦伊斯蘭聖戰組織（傑哈德）“努赫巴”部隊指揮官。（新華社）
-
----
-
-### 2026-07-28 23:47:58  #其他
-
-xAI：構建模式（Build Mode）今日開啟早期公測，僅面向網頁端、iOS端與安卓端的SuperGrok重度訂閱使用者開放。
-
----
-
-### 2026-07-28 23:46:30  #其他
-
-【烏干達宣佈該國埃博拉疫情結束】當地時間7月28日，烏干達衛生部長克里斯·巴里奧蒙西宣佈，該國埃博拉疫情正式結束。根據世界衛生組織標準，在最後一例確診病例康復後連續42天未發現新增病例，即可宣佈疫情結束。
-
----
-
-### 2026-07-28 23:46:19  #其他
-
-xAI：Grok正式推出構建模式（Build Mode）。
-
----
-
-### 2026-07-28 23:46:10  #公司 #市場
-
-開雲集團ADR在公佈第二季度業績後上漲13%。
-
----
-
-### 2026-07-28 23:43:21  #市場 #焦點
-
-WTI原油失守79美元/桶，日內跌4.39%。
-
----
-
-### 2026-07-28 23:42:32  #MKT News
-
-cenc reported a magnitude 3.7 earthquake at 23:38 on July 28 in Xinghai County, Hainan Prefecture, Qinghai, China (35.35°N, 99.52°E). Depth 9 km.
 
 ---

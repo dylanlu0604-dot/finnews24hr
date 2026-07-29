@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-30 04:31:06_
-_本檔包含 3723 則快訊，約 663157 字_
+_更新時間：2026-07-30 05:29:12_
+_本檔包含 3688 則快訊，約 663594 字_
+
+---
+
+### 2026-07-24 07:20:33  #Trading Economics #Economy #Australia #Manufacturing PMI #Importance 1
+
+Australia Factory Growth Hits 6-Month High — The S&P Global Australia Manufacturing PMI rose to 51.7 in July 2026 from 51.5 in the previous month, according to flash estimates, signaling a fourth consecutive month of expansion. The latest reading also marked the strongest growth since January, supported by the first increase in new orders in five months, driven by stronger domestic demand and new client wins, while employment rose at the fastest pace since April. However, export orders continued to decline, reflecting persistent weakness in external demand. On the pricing front, input cost inflation eased to its softest level since February despite higher fuel, oil, raw material, and wage costs, while manufacturers raised selling prices at a slower pace than in June. Looking ahead, business confidence improved only slightly and remained subdued amid ongoing economic uncertainty.
+
+---
+
+### 2026-07-24 07:20:03  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Heads for Weekly Surge — Brent crude oil traded above $100 per barrel on Friday and was on track to gain nearly 14% for the week, as escalating tensions in the Middle East heightened fears of severe global supply disruptions. US President Donald Trump threatened "major military punishment" against Iran and the Houthis over any further attacks on Red Sea shipping and said he was considering a "massive attack" on Iran. His remarks followed attacks by Iran-backed Houthi militants on two Saudi oil tankers in the Red Sea, aimed at enforcing a newly declared blockade of Saudi ports and opening a new front in the conflict. Oil has already rallied more than 30% from pre-conflict levels this month as fighting disrupted crude flows through the Strait of Hormuz. Further tightening the global supply outlook, tanker attacks in the Black Sea and Sea of Azov forced the Caspian Pipeline Consortium to suspend loadings at its Black Sea terminal, disrupting a key export route that handles about 80% of Kazakhstan's crude exports.
+
+---
+
+### 2026-07-24 07:20:03  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact mixed
+
+Japan June core CPI YoY due in 10 minutes.
+
+---
+
+### 2026-07-24 07:19:35  #其他
+
+澳大利亞證券交易所：首席財務官安德魯·託賓即將退休離任。
+
+---
+
+### 2026-07-24 07:19:19  #市場
+
+【SpaceX 押注星艦重大戰略：拒絕獵鷹火箭新客戶】多位知情人士透露，SpaceX 已開始婉拒衛星運營商 2028 年後使用主力獵鷹 9 號火箭專屬發射任務的訂單，此舉凸顯埃隆・馬斯克將鉅額賭注押注在尚未完成驗證的星艦飛船上。其中一名知情人士稱，這家集火箭、衛星、人工智慧業務於一體的行業巨頭，現已停止生產獵鷹火箭系列部分不可複用零部件。因相關資訊尚未公開，知情人士要求匿名受訪並表示：SpaceX 目前不再受理獵鷹 9 號拼車發射專案的遠期預約，該專案可讓多家衛星運營商共用一枚火箭送入軌道。
+
+---
+
+### 2026-07-24 07:18:51  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Heads for Weekly Surge — Crude oil held above $92 per barrel on Friday and was on track to gain more than 12% for the week, as escalating tensions in the Middle East heightened fears of severe global supply disruptions. US President Donald Trump threatened "major military punishment" against Iran and the Houthis over any further attacks on Red Sea shipping and said he was considering a "massive attack" on Iran. His remarks followed attacks by Iran-backed Houthi militants on two Saudi oil tankers in the Red Sea, aimed at enforcing a newly declared blockade of Saudi ports and opening a new front in the conflict. Oil has already rallied more than 30% from pre-conflict levels this month as fighting disrupted crude flows through the Strait of Hormuz. Further tightening the global supply outlook, tanker attacks in the Black Sea and Sea of Azov forced the Caspian Pipeline Consortium to suspend crude loadings at its Black Sea terminal, disrupting a key export route that handles about 80% of Kazakhstan's crude exports.
+
+---
+
+### 2026-07-24 07:18:30  #MKT News #000700.KS #Impact bearish #000660.KS
+
+【Seoul court to rule in Choi Tae-won divorce that could affect SK Group control】Seoul High Court will hand down a Friday verdict in the long-running divorce of SK Hynix chairman Choi Tae-won and his ex-wife, the daughter of former president Roh Tae-woo. The court will decide how much of Choi’s roughly $5.5bn wealth must be divided; the outcome could affect his control of SK Group. The ex-wife initially sought 42.29% of Choi’s SK shareholding—an award that would threaten his control—before shifting to a cash claim. In 2024 a lower court ordered Choi to pay 1.38 trillion won (about $1.0bn), a record Korean divorce award, but the Supreme Court overturned that ruling on appeal, saying the lower court had improperly counted alleged illicit funds linked to Roh Tae-woo as contributing to the couple’s assets.
+
+---
+
+### 2026-07-24 07:17:21  #國際
+
+【颱風“紅霞”生成，中央氣象臺釋出颱風橙色預警】中央氣象臺7月24日06時釋出颱風橙色預警：菲律賓以東的熱帶低壓今天（24日）凌晨加強為今年第12號颱風“紅霞”（熱帶風暴級；英文名稱：Noul；名字來源：朝鮮；名稱意義：紅色的天空），早晨5點鐘其中心位於菲律賓馬尼拉東北方向約560公里的洋麵上，就是北緯18.2度、東經124.6度，中心附近最大風力有8級（18米/秒），中心最低氣壓為998百帕，七級風圈半徑100-380公里。預計，“紅霞”將以每小時25-30公里的速度向西偏北方向移動，強度逐漸加強，24日夜間至25日凌晨移入南海東北部海面，向粵閩沿海靠近，25日晚上至26日早晨在廣東珠海到福建漳浦一帶沿海登陸（33-40米/秒，12-13級，颱風級），登陸後轉向偏北方向移動，強度逐漸減弱。大風預報：24日08時至25日08時，南海東北部、巴士海峽、臺灣以東洋麵、臺灣海峽、東海南部、臺灣沿海、福建沿海、廣東中東部沿海將有6-8級大風、陣風9-10級，其中巴士海峽、南海東北部偏東海域風力可達9-11級、陣風12-13級。降水預報：24日08時至25日08時，臺灣島東部和南部的部分地區有大到暴雨，局地大暴雨（100-140毫米）。（新華社）
+
+---
+
+### 2026-07-24 07:15:14  #MKT News #WTI #Impact bullish #Brent
+
+【CENTCOM says US struck Iranian military targets for 13th straight night】CENTCOM said the US carried out a nighttime strike on Iranian military targets at 6:45 p.m. ET, the 13th consecutive night of such strikes, aimed at holding Iran accountable and degrading the threat to commercial shipping posed by the Islamic Revolutionary Guard Corps (IRGC).
+
+---
+
+### 2026-07-24 07:14:31  #國際
+
+【美國軍方：已於週四晚間開始對伊朗發動新一輪打擊】美國中央司令部：美國軍隊於今日東部時間下午6:45開始對伊朗軍事目標發動另一晚的打擊。這是連續第13晚的打擊行動，旨在追究伊朗的責任並削弱伊斯蘭革命衛隊對商業航運的威脅。
+
+---
+
+### 2026-07-24 07:14:12  #國際
+
+【巴西怒批美國以強迫勞動為由加徵關稅“武斷”且“站不住腳”】巴西政府週四拒絕接受美國以強迫勞動為由、對該國及另外59個貿易伙伴國所加徵的關稅，稱此舉“武斷”且“站不住腳”。巴西政府在宣告中表示：“在缺乏國內法依據來支援其保護主義貿易政策的情況下，美國貿易代表選擇操弄一項對人權和勞工權益運動極為重要的議題。”根據該措施，巴西對美出口商品將被加徵12.5%的關稅。巴西補充說，將立即啟動程式，依《對等法則》啟動反制機制，並將此案提交世界貿易組織(WTO)爭端解決機制處理。美國以相關市場執行強迫勞動禁令不力為由，對數十個貿易伙伴徵收的新關稅將於週五生效。
+
+---
+
+### 2026-07-24 07:13:33  #經濟數據 #中國
+
+【今年上半年我國汽車出口超6000億元 同比增長48.3%】今年上半年，我國汽車出口6358.2億元，同比增長48.3%，銷往全球210多個國家和地區。其中，新能源汽車出口3606.8億元，同比增長68.7%。
+
+---
+
+### 2026-07-24 07:13:25  #MKT News #Important #CNH #Impact bullish #CSI300 #Hang Seng Index
+
+【China's auto exports top CNY 600 bln in 1H, up 48.3% YoY】China's auto exports in 1H totaled CNY 635.82 bln, up 48.3% YoY, shipped to over 210 countries and regions. New-energy vehicle (NEV) exports were CNY 360.68 bln, up 68.7% YoY.
+
+---
+
+### 2026-07-24 07:13:00  #公司
+
+【多家科技龍頭公司出手回購 年內已有超800家A股公司實施回購】近日，在科技板塊持續調整的背景下，多家板塊內上市公司開啟股份回購計劃。7月23日晚間，儲存龍頭之一江波龍釋出公告，公司控股股東、實際控制人、董事長兼總經理蔡華波提議公司使用自有或自籌資金回購公司已發行的部分股票，並在未來適宜時機用於股權激勵或員工持股計劃，公司本次擬回購金額為4億元至8億元。江波龍大手筆回購並非個例，近期消費電子、半導體、儲存等細分科技賽道龍頭企業紛紛出手回購，形成板塊聯動效應。除了頭部企業，中小科技公司也積極跟進回購佈局。世運電路、四會富仕、力源資訊等多家公司近期相繼釋出回購預案或實施進展，回購資金從千萬級到數億級不等，回購用途涵蓋股權激勵、市值管理、股本最佳化等多個方面。Wind資料顯示，截至7月23日，年內已有超800家A股公司實施回購，合計回購金額超820億元。其中，美的集團以82.33億元回購金額位居首位，順豐控股的回購金額近60億元，貴州茅臺、紫金礦業、海爾智家、TCL科技、中興通訊等多家公司的回購金額都在10億元以上。
+
+---
+
+### 2026-07-24 07:12:53  #MKT News
+
+Iranian media Fars News reports multiple explosions heard in the southern city of Ahvaz.
+
+---
+
+### 2026-07-24 07:12:16  #其他
+
+【今年上半年我國汽車出口超6000億元 同比增長48.3%】今年上半年，我國汽車出口6358.2億元，同比增長48.3%，銷往全球210多個國家和地區。其中，新能源汽車出口3606.8億元，同比增長68.7%。
+
+---
+
+### 2026-07-24 07:12:04  #宏觀 #國際
+
+韓國將與美國財政部合作，以增強外匯市場的信任。
+
+---
+
+### 2026-07-24 07:11:20  #公司 #觀點 #國際
+
+【摩根大通發函重申 戴蒙與愛潑斯坦從未見面或有過電郵聯絡】摩根大通回應議員提出關於執行長對愛潑斯坦及其涉嫌非法活動了解多少的問題時表示，傑米·戴蒙與已故性犯罪者愛潑斯坦從未見面或有過電子郵件聯絡。 據媒體看到的一封信函，摩根大通表示，“戴蒙先生在宣誓作證時據實陳述。他從未見過傑弗裡·愛潑斯坦、從未與他互通電子郵件，也未參與任何讓愛潑斯坦成為本行客戶的決策。”美國參議員伊莉莎白·沃倫本月稍早致函戴蒙，要求澄清該銀行與愛潑斯坦的關係，以及這位執行長對此事瞭解多少。
+
+---
+
+### 2026-07-24 07:09:59  #國際
+
+伊朗南部城市阿瓦士傳出多起爆炸聲。
+
+---
+
+### 2026-07-24 07:09:44  #國際
+
+【科技板塊持續調整 機構關注資源品與紅利低位股】近期，A股科技板塊明顯調整，市場風險偏好有所回落。Wind資料顯示，截至7月23日的近3個交易日，有色金屬、電氣裝置、石油石化等板塊率先獲得資金迴流，消費、紅利和金融板塊則呈現結構性機會。機構認為，本輪調整更多是外部擾動、交易擁擠和估值壓力集中釋放的結果，市場中長期執行邏輯並未發生根本變化。在半年報密集披露的視窗期，資金正由前期高彈性、高估值的方向，逐步轉向業績確定性更強、估值更具安全邊際的板塊。（中國證券報）
+
+---
+
+### 2026-07-24 07:08:51  #國際
+
+英偉達：合作內容包括計算資源投入，每年將為至少10名韓國科學技術院研究人員提供資助，同時為韓國研究人員提供英偉達實習崗位及全職崗位。
+
+---
+
+### 2026-07-24 07:08:15  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) is committed to advancing a lab to develop agent-based AI models and agent systems tailored to South Korea’s industries, language and future needs.
+
+---
+
+### 2026-07-24 07:08:11  #公司 #市場
+
+【7月以來機構調研近540家上市公司 多隻績優標的成“心頭好”】7月A股上市公司2026年上半年業績預告密集出爐，券商等市場重要機構對上市公司也加大調研力度，掘金績優股機遇。Wind資料顯示，截至7月23日記者發稿時，7月以來已有近540家上市公司接待機構調研，其中超110家公司預計上半年淨利潤同比增長，部分業績高增標的獲得機構密集關注。近期A股進入調整階段，對於後市走勢，業內人士認為，在政策支援以及科技產業趨勢仍在發展的背景下，未來市場情緒或逐步修復。對於科技板塊，需要在波浪式前進中把握投資節奏，消費板塊開始逐步具備配置價值，此外進入“擊球區”的黃金也值得關注。（中國證券報）
+
+---
+
+### 2026-07-24 07:07:38  #MKT News #00005.HK #Impact mixed #ALV.DE #Impact bullish
+
+【HSBC to sell Singapore life and health business to Allianz】HSBC (00005.HK) has agreed to sell HSBC Life Insurance (Singapore) Pte Ltd to Allianz for SGD 2.7 bln, subject to regulatory approval and expected to close in 1H 2027. The deal includes a 15-year exclusive bancassurance distribution agreement under which HSBC will continue distributing insurance products to its Singapore customers. HSBC will receive an initial one-off cash payment of SGD 200 mln on signing the distribution agreement.
+
+---
+
+### 2026-07-24 07:07:26  #國際
+
+英偉達與韓國科學技術院（KAIST）聯合成立人工智慧研究實驗室，推動韓國人工智慧創新加速落地。
+
+---
+
+### 2026-07-24 07:06:52  #公司
+
+【新機潮疊加AI機遇 消費電子產業鏈全速備貨】消費電子行業景氣度穩步回暖，業績端迎來明顯改善。Wind資料顯示，截至7月23日，A股已有32家消費電子公司披露上半年業績預告，逾七成預計盈利。AI已成為行業增長的核心引擎，AI智慧硬體放量與算力業務拓展支撐起多家公司上半年業績大幅預增。進入下半年，消費電子行業在傳統旺季中亮點紛呈：全球首款AI智慧體手機正式亮相，三星首款AI眼鏡釋出，蘋果首款摺疊屏手機組裝出貨量預計多達800萬臺。上述訊息持續催化市場熱度，A股產業鏈公司紛紛加快備貨節奏。隨著AI智慧硬體推動零部件價值量持續上行，行業正步入軟硬體協同升級的關鍵視窗期。（上海證券報）
+
+---
+
+### 2026-07-24 07:06:34  #其他
+
+【任正非：τ定律是華為唯一一條突圍道路】7月22日，華為心聲社群轉發了《人民日報》對何庭波的專訪文章，華為創始人任正非親自撰寫代序《道可，道非，常道》，完整發表對韜（τ）定律的權威定調。任正非表示：“道可，道非，常道。τ定律是華為可以選擇的唯一一條突圍道路。”
+
+---
+
+### 2026-07-24 07:06:28  #Trading Economics #Economy #Australia #Services PMI #Importance 2
+
+Australia Services Sector Growth Hits 6-Month High — The S&P Global Flash Australia Services PMI Business Activity Index increased to 53.0 in July 2026 from 50.5 in June, marking the strongest growth since January, preliminary estimates showed. It was the second consecutive month of expansion in the services sector, supported by higher output.
+
+---
+
+### 2026-07-24 07:05:59  #宏觀 #國際
+
+韓國將與美國財政部圍繞外匯問題繼續溝通。
+
+---
+
+### 2026-07-24 07:05:56  #國際
+
+【墨西哥經濟部長：美國新關稅措施不會對本國出口品造成影響】墨西哥經濟部長埃布拉德(Marcelo Ebrard)週四表示，在美國政府宣佈將從週五起對60個貿易伙伴國加徵10%和12.5%新關稅後，墨西哥“實際繳納的關稅稅率不會出現變化”。根據特朗普政府一位高階官員的說法，許多商品將獲得豁免，包括符合美墨加協定（USMCA）貿易條款的商品。埃布拉德在社交媒體釋出的一段影片中表示，USMCA的豁免條款，意味著墨西哥對美國出口約85%的商品將繼續享有免關稅待遇。另外10%的商品受《1974年貿易法》第122條約束，該措施將於週五到期。埃布拉德補充道，新關稅將在原有的關稅到期之際生效，適用於相同的10%商品。他表示：“新關稅取代了舊關稅，因此關稅待遇維持不變。”
+
+---
+
+### 2026-07-24 07:05:11  #其他
+
+【上半年量價承壓 光伏產業鏈反轉拐點或臨近】2026年上半年，光伏行業進入調整階段，主產業鏈各環節產量普遍下行，產品價格震盪走弱，新增裝機規模明顯回落。7月23日，在中國光伏行業協會主辦的光伏行業2026年上半年發展回顧與下半年形勢展望研討會上，多位專家剖析了行業當下遭遇的多重挑戰。業內專家認為，伴隨強制性國家標準落地，低效產能加速出清，行業競爭邏輯正發生轉變，逐步由以往“比拼價格，擴張規模”，轉向以技術、品質、差異化優勢為核心的價值競爭賽道。樂觀預期下，頭部企業經營狀況有望在下半年迎來拐點。此外，隨著資料中心與AI算力用電需求快速增長，算電協同正成為光伏業極具發展潛力的新興賽道。（上海證券報）
+
+---
+
+### 2026-07-24 07:04:06  #公司
+
+滙豐港交所公告，將出售其新加坡人壽及健康保險業務。擬向安聯出售其新加坡人壽及健康保險業務，代價為27億新加坡元。
+
+---
+
+### 2026-07-24 07:03:45  #Trading Economics #Economy #Australia #Composite PMI #Importance 1
+
+Australia Composite Flash PMI Hits 6-Month High — Australia's composite PMI rose to 52.6 in July 2026 from a final 50.4, flash data showed. It was the highest reading since January and marking the second straight month of growth in private-sector business activity.
+
+---
+
+### 2026-07-24 07:02:26  #公司
+
+【滙豐擬向安聯出售其新加坡人壽及健康保險業務】滙豐銀行擬將其新加坡人壽及健康保險業務出售給安聯集團， 本次資產處置預計將產生 18 億美元稅前收益，且滙豐集團核心一級資本充足率（CET1）預計最高提升 15 個基點。 交易完成後，滙豐將與安聯簽署一份為期 15 年的獨家銀保分銷協議。
+
+---
+
+### 2026-07-24 07:02:04  #MKT News
+
+【South Korea may bring forward minimum cash margin increase for single-stock leveraged ETFs】South Korean financial regulators are studying a plan to bring forward a planned increase in minimum cash margin requirements for single-stock leveraged ETFs from next month to the end of this month. The move is being advanced after calls from South Korea's President Lee to expedite supplementary measures for single-stock leveraged ETFs. The Korea Financial Investment Association on the 21st held a technical meeting with brokers, the Korea Exchange and Koscom IT staff to discuss implementation. Regulators are still finalising the precise timing and how the new margin will be applied.
 
 ---
 
@@ -22103,430 +22313,5 @@ Alphabet：旺盛需求將推動 2027 年算力產能相關投資。
 ### 2026-07-23 05:29:30  #MKT News #IBM.O
 
 IBM CFO said Q3 revenue growth is expected to be in line with the full-year trend.
-
----
-
-### 2026-07-23 05:29:03  #公司
-
-Alphabet：收購Wiz對谷歌雲利潤構成拖累。
-
----
-
-### 2026-07-23 05:27:33  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish
-
-【Alphabet Q2 investment gains $98.0 bln lift net profit to $116.9 bln, EPS $9.11 vs $2.90 est】Alphabet reported $98.0 billion of investment gains in Q2, which it said were "primarily from unrealized net gains on equity securities." The gains helped drive EPS of $9.11, well above the $2.90 analyst consensus, and net income of $116.86 billion. Alphabet holds a large stake in SpaceX; SpaceX's IPO last month was the largest on record. Alphabet is also a major investor in AI startup Anthropic, which could IPO as early as October. Elon Musk liked the earnings report on social media.
-
----
-
-### 2026-07-23 05:26:02  #其他
-
-巴拿馬運河正密切監測天氣狀況，7 月強厄爾尼諾現象發生機率已從 4 月的 25% 升至 81%。
-
----
-
-### 2026-07-23 05:25:38  #公司 #市場 #焦點 #國際
-
-【AI基礎設施概念股盤後大漲，谷歌母公司在電話會上談及產能擴張】週三美股盤後，與人工智慧（AI）基礎設施相關的公司股票集體走高。此前，谷歌母公司Alphabet在財報電話會議上表示，公司計劃在第三季度擴大對第三方算力容量的使用。
-在算力租賃商（Neoclouds）方面，CoreWeave上漲3.7%，Nebius上漲5.4%。
-儲存晶片股方面，閃迪漲3%，美光漲2.9%，西部資料漲2%，SK海力士（SK Hynix）ADR漲3.7%。
-半導體板塊方面，iShares半導體ETF漲0.9%。
-光通訊股方面，Lumentum上漲3.4%，Applied Optoelectronics上漲4%。
-Alphabet業績報告顯示，公司雲業務積壓訂單（Backlog）增至5140億美元，較上一季度的約4600億美元顯著增長。強勁的業績“主要由對AI基礎設施和AI解決方案的強勁需求驅動”。
-
----
-
-### 2026-07-23 05:24:13  #其他
-
-巴拿馬運河去年 10 月至本年 6 月船舶通行量同比上漲 5.2%，總量達 10726 艘次。
-
----
-
-### 2026-07-23 05:23:18  #其他
-
-IBM 首席財務官：AI 相關業務佔諮詢簽約總額超五成，在手訂單儲備佔比逾三成。
-
----
-
-### 2026-07-23 05:18:15  #其他
-
-Alphabet：將加快 AI 模型的釋出節奏。
-
----
-
-### 2026-07-23 05:17:40  #公司
-
-Alphabet： 公司正將 AI 算力資源集中投入 Gemini 4 的研發訓練。
-
----
-
-### 2026-07-23 05:17:18  #國際
-
-伊朗邁赫爾通訊社：美軍襲擊擊中伊朗拉姆希爾附近一處瀝青倉庫。
-
----
-
-### 2026-07-23 05:15:32  #市場
-
-富時A50期指連續夜盤收漲0.31%，報15203點。
-
----
-
-### 2026-07-23 05:12:49  #MKT News #Important #Brent #Impact bullish #WTI
-
-【Tanker attacked 70 nautical miles off Saudi coast】UK Maritime Trade Operations received a report of an incident 70 nautical miles from Al Shuqaiq, Saudi Arabia. The tanker’s master reported the vessel was struck by an unspecified projectile and caught fire; crew are fighting the blaze.
-
----
-
-### 2026-07-23 05:12:23  #其他 #焦點 #國際
-
-英國海上貿易行動辦公室（UKMTO）：一艘油輪船長報告船隻遭不明投射物擊中，船體已起火，船員正在全力滅火。暫無人員傷亡報告，也未造成環境影響。
-
----
-
-### 2026-07-23 05:12:05  #公司
-
-Alphabet：谷歌正全力訓練 Gemini 4 大模型。
-
----
-
-### 2026-07-23 05:11:05  #MKT News #Market Themes #Chip Wars #INTC.O #Impact bullish
-
-Semafor reports Intel is seeking an operating partner for its Ohio chip fab; SK Hynix is considering a partnership with Intel.
-
----
-
-### 2026-07-23 05:10:35  #MKT News #Market Themes #AI Revolution #IBM.O #Impact bullish
-
-Anthropic CEO said Mythos could create a potential tens-of-billions-of-dollars TAM for IBM and Red Hat.
-
----
-
-### 2026-07-23 05:10:32  #公司
-
-Anthropic 執行長表示，旗下 Mythos 大模型為 IBM 與紅帽開闢了規模達數十億美元的潛在市場空間（TAM）。
-
----
-
-### 2026-07-23 05:10:06  #公司 #其他 #國際
-
-市場訊息：英特爾正為俄亥俄州晶片工廠尋找運營合作方，SK 海力士是合作候選企業之一。
-
----
-
-### 2026-07-23 05:09:13  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Mehr news agency, citing Khuzestan provincial officials, said a site near Ahvaz was struck by US missiles.
-
----
-
-### 2026-07-23 05:08:44  #焦點 #國際
-
-伊朗邁赫爾通訊社援引胡齊斯坦省官員訊息稱，美國發動導彈襲擊，目標位於阿瓦士附近區域。
-
----
-
-### 2026-07-23 05:08:08  #公司
-
-IBM 執行長：儘管第二季度表現承壓，但 Z17 大型機正迎來史上最強銷售週期。
-
----
-
-### 2026-07-23 05:07:22  #公司 #市場
-
-【大型機銷量下滑 IBM下調全年財測】國際商業機器公司（IBM）報告大型機業務需求下降後下調了全年營收展望，其中包括對備受關注的軟體部門的預期。該公司週三在公告中表示，今年營收有望增長4%至5%，而此前的預估是5%以上。首席財務官Jim Kavanaugh在一次採訪中說，軟體部門年銷售額將增長6%至8%。IBM表示將加快實施成本節約計劃，並繼續預計今年新增10億美元的自由現金流。Kavanaugh表示，這將透過減少第三方技術支出、改善供應鏈管理和降低行政成本來實現。他還說，公司今年的員工總數應該不會有什麼變化。該公司總營收增長了約1%，達到172億美元。不計某些專案的每股收益為2.93美元。IBM在紐約收於205.77美元，盤後交易上漲約3%。截至週三收盤，該股今年已下跌31%，其中包括業績初估釋出後單日重挫的25%。
-
----
-
-### 2026-07-23 05:06:35  #國際
-
-【委內瑞拉民眾舉行示威，要求美國釋放馬杜羅夫婦】數百名委內瑞拉民眾22日聚集在委首都加拉加斯市中心的一處廣場，要求美國釋放其關押的委總統馬杜羅及其妻子。此次活動由加拉加斯市長卡門·梅倫德斯和馬杜羅之子尼古拉斯·馬杜羅·格拉領導。格拉在演講中表示，這場審判從根源上就是不合法的，沒有任何實質證據能夠證明馬杜羅犯有任何一項被指控的罪行。格拉還呼籲民眾不要訴諸戰爭或武裝犧牲，而應透過外交、談判和國際溝通解決問題。 遭美國強行控制的委內瑞拉總統馬杜羅22日在紐約南區聯邦地區法院再次出庭，法官宣佈定於2027年6月1日開始審理其所涉指控。（新華社）
-
----
-
-### 2026-07-23 05:04:55  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact mixed
-
-Alphabet's CFO said the company expects capital spending to rise significantly in 2027.
-
----
-
-### 2026-07-23 05:04:51  #其他
-
-Alphabet： TPU 銷售協議帶來的大部分收入將在 2027 財年確認入賬。
-
----
-
-### 2026-07-23 05:04:40  #MKT News #S&P500 #Impact bearish #XAUUSD #Impact bullish #US10Y
-
-【Trump predicts U.S. federal government may shut down in September】On July 22 President Trump said he expects a federal government shutdown in September amid GOP-Democratic disputes over spending priorities. On July 21 the Republican-controlled House passed a continuing resolution to fund agencies through Dec. 4 to avoid a pre-midterm shutdown; the bill has been sent to the Senate. Senate Republican leaders are negotiating with Democrats and may propose an alternative short-term funding plan. If Congress does not enact funding, most federal agency appropriations expire at midnight on Sept. 30, the end of the fiscal year.
-
----
-
-### 2026-07-23 05:04:00  #國際
-
-【特朗普：預計美聯邦政府在9月將出現“停擺”】當地時間7月22日，美國總統特朗普在佐治亞州發表演講時提及，由於共和黨和民主黨在支出優先事項上存在分歧，9月份將出現聯邦政府“停擺”。當地時間7月21日，由共和黨控制的美國眾議院透過一項短期撥款法案，將為聯邦政府機構提供資金至12月4日，以避免政府在11月中期選舉前因資金耗盡而“停擺”。這項臨時撥款措施又稱“持續撥款決議”。法案透過後將提交參議院審議。目前，參議院共和黨領導人正在與民主黨展開談判，並考慮提出自己的短期撥款方案。如果國會未能及時透過撥款法案，大多數聯邦政府機構和專案的資金將於9月30日午夜、即本財年結束時到期。（央視新聞）
-
----
-
-### 2026-07-23 05:03:13  #其他
-
-Alphabet： 第三方算力將給利潤率帶來小幅承壓。
-
----
-
-### 2026-07-23 05:02:58  #Trading Economics #Economy #Argentina #Monthly GDP YoY #Importance 1
-
-Argentina Economic Activity Growth Slows — Argentina's economic activity rose 0.2% year-on-year in May 2026, following an upwardly revised 1.7% increase in April. Eight of the fifteen sectors surveyed posted annual growth. The strongest performances came from mining and quarrying, which expanded 15.7%, followed by utilities (8.0%). Agriculture, livestock, hunting, and forestry also increased 4.6% from a year earlier. Meanwhile, seven sectors contracted. The sharpest decline was recorded in fishing, down 29.3%, followed by manufacturing (-5.6%) and wholesale and retail trade and repair services (-4.3%). On a monthly basis, the Monthly Economic Activity Estimate fell 0.5% from April.
-
----
-
-### 2026-07-23 05:02:43  #公司 #焦點 #國際
-
-Alphabet：仍預計 2027 財年資本開支將實現 “大幅” 增長。
-
----
-
-### 2026-07-23 05:02:26  #市場
-
-【金價漲超1%，重返4100美元上方，紐約銅跌1%】週三（7月22日）紐約尾盤，現貨黃金漲1.31%，報4130.07美元/盎司，全天處於上漲狀態，北京時間08:00、20:57先後出現加速上漲，23:52重新整理日高至4166.05美元。COMEX黃金期貨漲1.46%，報4135.90美元/盎司。現貨白銀漲1.55%，報59.7171美元/盎司，22:04重新整理日高至60.9270美元。COMEX白銀期貨漲1.35%，報59.990美元/盎司。COMEX銅期貨跌1.00%，報6.4870美元/磅，整體持續走低。現貨鉑金漲0.90%，現貨鈀金漲1.05%。
-
----
-
-### 2026-07-23 05:01:33  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
-
-Alphabet (GOOG.O) CFO said the company is revising 2026 full-year capital expenditure guidance to $195–205 bln.
-
----
-
-### 2026-07-23 05:01:28  #其他
-
-Alphabet： 受算力產能瓶頸制約，我們計劃在第三季度加大第三方算力資源採購，同時持續擴建自有內部算力基礎設施。
-
----
-
-### 2026-07-23 05:00:48  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O
-
-Alphabet (GOOG.O) CFO said that, given current compute capacity constraints, the company plans to increase use of third-party compute resources in Q3 while continuing to expand its internal compute infrastructure.
-
----
-
-### 2026-07-23 05:00:40  #公司 #其他 #焦點 #國際
-
-Alphabet： 全年資本支出預期區間為 1950 億至 2050 億美元，此前指引為 1800 億至 1900 億美元。
-
----
-
-### 2026-07-23 04:59:22  #MKT News
-
-State-run Press TV reported multiple explosions in Sirik, southern Iran.
-
----
-
-### 2026-07-23 04:59:12  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
-
-Alphabet (GOOG.O) CEO says the company will begin recognizing TPU sales revenue starting in Q2.
-
----
-
-### 2026-07-23 04:58:46  #公司
-
-谷歌CEO皮查伊：公司預計外匯匯率波動將對第三季度合併營收產生小幅不利影響。
-
----
-
-### 2026-07-23 04:57:51  #國際
-
-市場訊息：伊朗境內傳來爆炸聲。
-
----
-
-### 2026-07-23 04:57:13  #公司
-
-谷歌CEO皮查伊：季度資本開支主要用於人工智慧基礎設施建設。
-
----
-
-### 2026-07-23 04:56:58  #公司
-
-谷歌CEO皮查伊： 公司自第二季度起開始確認張量處理器（TPU）銷售收入。
-
----
-
-### 2026-07-23 04:53:30  #公司
-
-【Codelco稱智利風暴對其礦山產量影響有限】智利國家銅業公司（Codelco）透過資訊宣告表示，智利中部的強風暴對其銅產量僅造成了有限影響，儘管其旗下三個部門出現了暫時性的生產中斷。這家國有礦企週三表示，薩爾瓦多（Salvador）、安第納（Andina）和特尼恩特（El Teniente）礦區的運營因天氣原因暫時中斷，但隨著天氣狀況好轉，目前正逐步恢復。目前未報告有人員傷亡或涉及員工的事故。Codelco表示，在整個風暴期間，公司一直按照冬季應急預案和安全協議進行運營，並補充說，隨著運營恢復正常，公司將繼續把天氣監測和員工安全放在首位。
-
----
-
-### 2026-07-23 04:52:42  #國際
-
-【美駐伊拉克埃爾比勒領事館啟動防空系統攔截無人機】當地時間22日晚，伊拉克北部庫爾德自治區（庫區）的美國駐埃爾比勒領事館啟動防空系統並攔截飛臨其上空的無人機。（央視新聞）
-
----
-
-### 2026-07-23 04:52:13  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-Houthi spokesman says it will issue a statement announcing a major military operation.
-
----
-
-### 2026-07-23 04:51:45  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
-
-Alphabet (GOOG.O) CEO: Our supply-side constraints remain.
-
----
-
-### 2026-07-23 04:50:40  #公司
-
-谷歌CEO皮查伊：我們仍面臨供應受限的問題。
-
----
-
-### 2026-07-23 04:49:59  #MKT News #Important #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-US President Trump said the government will face a shutdown in September.
-
----
-
-### 2026-07-23 04:49:14  #國際
-
-特朗普：9 月政府將面臨停擺。
-
----
-
-### 2026-07-23 04:48:46  #公司
-
-谷歌CEO皮查伊：Alphabet 旗下無人機配送企業 Wing 已完成超 100 萬次住宅配送訂單。
-
----
-
-### 2026-07-23 04:48:41  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
-
-Alphabet (GOOG.O) CEO said Google Cloud's Q2 backlog rose to $514 billion.
-
----
-
-### 2026-07-23 04:47:20  #公司
-
-谷歌CEO皮查伊：市場對該公司人工智慧基礎設施的需求十分旺盛。
-
----
-
-### 2026-07-23 04:43:17  #其他
-
-葉門武裝部隊發言人：葉門武裝部隊即將釋出宣告，宣佈開展一次特種軍事行動。
-
----
-
-### 2026-07-23 04:42:03  #公司
-
-谷歌 CEO 皮查伊：Gemini 正在拉動谷歌雲業務增長。
-
----
-
-### 2026-07-23 04:41:54  #MKT News #Important #Macro & Rates #LMT.O #Impact bullish #NOC.O #RTX.O
-
-【U.S. House passes $1.15 trillion defense authorization bill】The U.S. House passed the $1.15 trillion National Defense Authorization Act by a 216-212 margin. Seven Republicans voted against and six Democrats voted in favor.
-
----
-
-### 2026-07-23 04:40:05  #國際
-
-美國眾議院正式透過第 8800 號眾議院法案 ——《2027 財年國防授權法案》，全部計票完成，贊成票 216 票，反對票 212 票。
-
----
-
-### 2026-07-23 04:39:56  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Rallies on Vale and WEG Results — The Ibovespa rose 2.4% to close at 177,548 on Wednesday, supported by strong corporate earnings. Vale advanced 4% after reporting that iron ore production rose 0.8% year-on-year in the April-June period, marking its strongest second-quarter output since 2018. Bradesco BBI reiterated its Buy rating after the company's sales volumes exceeded expectations. WEG jumped 10% after reporting healthy operating margins and return on invested capital in the second quarter, despite lower year-on-year EBITDA and revenue. Revenue from international markets increased 14.7% in US dollar terms, although the company said the appreciation of the Brazilian real weighed on reported revenue in local currency. Petrobras rose 2.2% as oil prices climbed amid escalating tensions in the Middle East. On the trade front, a 25% US tariff on a range of Brazilian products took effect on Wednesday. However, key exports including beef, coffee, rare earths, energy products, aircraft, and aircraft parts remain exempt.
-
----
-
-### 2026-07-23 04:39:38  #MKT News
-
-DOE said a U.S.-Saudi cooperation agreement will be submitted to Congress for review.
-
----
-
-### 2026-07-23 04:39:36  #公司
-
-谷歌CEO皮查伊：世界盃期間谷歌搜尋使用量創下歷史峰值。
-
----
-
-### 2026-07-23 04:38:38  #國際
-
-美國能源部：美沙合作協議將提交美國國會審議。
-
----
-
-### 2026-07-23 04:38:12  #MKT News
-
-DOE says U.S.-Saudi cooperation will expand U.S. nuclear technology exports.
-
----
-
-### 2026-07-23 04:37:03  #其他
-
-德州儀器：汽車業務在二季度加速。
-
----
-
-### 2026-07-23 04:36:46  #MKT News
-
-DOE: Agreement lays foundation for a decades-long, multibillion-dollar partnership to advance priority economic and strategic goals, including nuclear non-proliferation.
-
----
-
-### 2026-07-23 04:36:07  #國際
-
-美國能源部：相關協議為一項長達數十年、規模數百億美元的合作奠定法律基礎，以推進多項優先經濟與戰略目標，其中包括核不擴散。
-
----
-
-### 2026-07-23 04:35:41  #MKT News
-
-The US Department of Energy said the United States and Saudi Arabia signed a nuclear energy cooperation agreement and an accompanying bilateral nuclear security safeguards agreement.
-
----
-
-### 2026-07-23 04:35:32  #公司 #焦點 #國際
-
-Alphabet：谷歌雲待交付訂單激增至 5140 億美元。
-
----
-
-### 2026-07-23 04:35:11  #公司
-
-【7月23日美股成交額前20：AMD宣佈與Anthropic建立戰略合作】週三美股成交額第4名AMD收高1.45%，成交134.67億美元。AMD於週三宣佈與AI公司Anthropic建立戰略合作，計劃在未來向其投資高達50億美元。作為交易的一部分，Anthropic將在其AMD Helios機架級解決方案中部署2吉瓦的AMD Instinct MI450系列GPU，首吉瓦將於明年上半年上線。AMD藉此進一步拓展AI算力市場，此前已與OpenAI等企業簽署類似協議。Anthropic為應對業務激增帶來的基礎設施壓力，今年以來已陸續與SpaceX、亞馬遜、谷歌及博通等達成多項算力交易。該公司因AI編碼助手Claude Code的成功而業績猛增，年化營收已超470億美元，估值達9650億美元，並已秘密提交IPO招股書，最早可能於今年上市。
-
----
-
-### 2026-07-23 04:35:10  #國際
-
-美國衛生與公眾服務部（HHS）：特朗普政府敦促各州停用含汞牙科補牙材料。
-
----
-
-### 2026-07-23 04:35:05  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.05% Higher — The Dow Jones Index rose 25 points or 0.05 percent on Wednesday to close at 52250 points. Leading the gains are Nvidia (2.39%), J&J (2.04%) and Boeing (1.97%). Top losers were Salesforce (-4.02%), IBM (-2.15%) and Microsoft (-1.78%).
-
----
-
-### 2026-07-23 04:34:27  #焦點 #國際
-
-美國和沙烏地阿拉伯達成核合作協議。
-
----
-
-### 2026-07-23 04:33:31  #公司 #市場
-
-【特斯拉第二季度利潤遠遜華爾街預期 成本上升拖累業績】特斯拉第二季度業績不及華爾街預期，打擊了這家正致力於圍繞機器人、自動駕駛和人工智慧打造新業務的電動汽車製造商。特斯拉週三在宣告中表示，經調整後每股收益為33美分。這低於分析師平均預期的51美分。公司還報告自由現金流為負10.9億美元。特斯拉執行長埃隆·馬斯克此前警告稱，今年的總支出將超過250億美元。該公司正計劃在六家工廠全面提升汽車、電池和機器人的產量，以踐行他的未來願景。這些投資的影響如今正逐步反映在公司財務表現中，因此投資者希望獲得更多細節。截至紐約時間下午4:16，特斯拉股價盤後下跌2.8%。截至週三收盤，該股今年以來累計下跌17%。
-
----
-
-### 2026-07-23 04:31:10  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOGL.O #Impact mixed #Nasdaq100 #Impact bullish #S&P500
-
-【Alphabet Q2 capex doubles to $44.9 bln】Alphabet said Q2 capital expenditure doubled to $44.9 bln from $22.4 bln a year earlier as it accelerates investment in AI infrastructure and global compute. The company raised $49.6 bln through an equity issuance and said proceeds will support capex and other corporate uses. Q2 EPS was $9.11 versus analysts’ $2.88 estimate; revenue rose 24% YoY to $119.8 bln, above consensus $116.5 bln. Operating profit increased 30% and operating margin widened to 34%. Growth was led by Google Cloud, which posted revenue up 82% YoY to $24.8 bln.
 
 ---
