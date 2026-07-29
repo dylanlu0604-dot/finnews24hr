@@ -1,7 +1,137 @@
 {
   "date": "2026-07-30",
-  "count": 556,
+  "count": 569,
   "items": [
+    {
+      "id": "mkt:019faf61-e9e1-7aab-8ef7-c614571ae3a9",
+      "time": "2026-07-30 03:37:37",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "US equities fell again: Dow Jones -1.94%, S&P 500 -0.99%, Nasdaq -0.88%."
+    },
+    {
+      "id": "mkt:019faf61-8b55-7aab-8ef7-bcec8f0c3896",
+      "time": "2026-07-30 03:37:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. President Trump said he is monitoring regulatory issues around artificial intelligence."
+    },
+    {
+      "id": "5015150",
+      "time": "2026-07-30 03:37:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：安迪·伯納姆必須正視移民問題，移民問題正在拖垮英國。"
+    },
+    {
+      "id": "5015149",
+      "time": "2026-07-30 03:36:48",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "特朗普談及人工智慧：政府正研究出臺相關管控措施。"
+    },
+    {
+      "id": "5015148",
+      "time": "2026-07-30 03:36:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：正研究人工智慧管控措施。"
+    },
+    {
+      "id": "mkt:019faf60-e977-7aab-8ef7-b32400a4281e",
+      "time": "2026-07-30 03:36:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed Chair Kevin Warsh says Jackson Hole speech will focus on macro picture】Fed Chair Kevin Warsh said he has not yet decided the content of his speech at the central bank symposium in Jackson Hole, Wyoming, at the end of next month. Speaking at the FOMC press conference after the latest meeting, Warsh said he has made no judgment on his remarks but signaled he will focus on the broader macro picture and outline major issues, warning that a rising cadence of meetings and press conferences can foster short-termism."
+    },
+    {
+      "id": "mkt:019faf60-e115-7aab-8ef7-a9b35763b234",
+      "time": "2026-07-30 03:36:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump, when asked whether U.S. Senate Republican leader Thune is fit for the position, said he would wait and see."
+    },
+    {
+      "id": "mkt:019faf60-ccd9-7aab-8ef7-a3a1da38c85f",
+      "time": "2026-07-30 03:36:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Kevin Warsh rejects calling Fed 'on hold', says markets have already reacted】Fed chair Kevin Warsh said financial markets have already priced most of the Fed's tightening since the June meeting and rejected describing today's decision to hold rates as a 'pause'. U.S. 2‑yr and 10‑yr Treasury yields have risen about 20bps since mid‑June. Warsh said markets have been repricing on inflation prints and resilient growth, lifting both nominal and real yields, and that leaving the policy rate unchanged today is 'the beginning, not the end' of the policy story."
+    },
+    {
+      "id": "5015147",
+      "time": "2026-07-30 03:36:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普被問及圖恩是否適合這份工作：我們拭目以待。"
+    },
+    {
+      "id": "mkt:019faf60-4fc6-7aab-8ef7-9a94eefcea18",
+      "time": "2026-07-30 03:35:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said he has not heard of any problems with Acting US Attorney General Blanche."
+    },
+    {
+      "id": "5015146",
+      "time": "2026-07-30 03:35:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：將沉重打擊伊朗】美國總統特朗普週三表態，美國將對伊朗實施“強力打擊”。他稱伊朗清楚襲擊將至，並且已經請求美方放棄行動。特朗普表示：“他們知道打擊即將到來，正請求我們收手。”他補充，伊朗隔夜向美軍發射5枚導彈，不過全部遭到攔截。“來襲導彈速度達每小時8500英里，5枚全部被擊落。但他們率先發起攻擊，現在輪到我們反擊。”特朗普同時稱，他已聽取埃及附近油輪遭無人機襲擊事件的相關簡報。"
+    },
+    {
+      "id": "mkt:019faf60-1d0b-7aab-8ef7-95c61981281d",
+      "time": "2026-07-30 03:35:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said acting US attorney general Blanche has performed well."
+    },
+    {
+      "id": "5015145",
+      "time": "2026-07-30 03:34:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：人們都說總統手中最具分量的權力是赦免權，福奇獲得了拜登的赦免。據我所知，拜登簽署的赦免令只有亨特·拜登那一份。（福奇）這份赦免令或許並非出自他親筆簽署。"
+    },
     {
       "id": "te:markets:570858",
       "time": "2026-07-30 03:33:54",
