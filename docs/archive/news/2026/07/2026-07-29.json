@@ -1,7 +1,247 @@
 {
   "date": "2026-07-29",
-  "count": 1851,
+  "count": 1875,
   "items": [
+    {
+      "id": "5014054",
+      "time": "2026-07-29 16:33:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "愛馬仕股價盤前跌幅進一步擴大，最新跌幅為7.6%，若跌勢持續，該股將創下三個半月以來最大單日跌幅。"
+    },
+    {
+      "id": "5014053",
+      "time": "2026-07-29 16:32:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電投綠能：董事會透過多項公司架構最佳化議案】電投綠能公告稱，7月29日公司第十屆董事會第十二次會議透過多項議案。一是同意吸收合併全資子公司吉林吉長電力有限公司，將其資產負債及人員劃轉至四平熱電分公司；二是同意吸收合併全資子公司通化吉電智慧能源有限公司，完成後登出該公司並新設通化分公司；三是同意解散控股子公司吉林省吉電希爾智慧能源有限公司並開展清算登出工作。公司授權管理層辦理相關具體工作。"
+    },
+    {
+      "id": "5014052",
+      "time": "2026-07-29 16:32:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全球首艘41800噸雙向航行自卸船啟航】由我國自主研發建造的全球首艘41800噸雙向航行自卸船“WONTANARA”輪在江蘇省揚州市江都區的中船澄西揚州船舶有限公司碼頭啟航，將投入國際航線運營。此船由中船澄西揚州船舶有限公司建造，總長215米，型寬42米，型深14.5米，艙容29000立方米。（新華社）"
+    },
+    {
+      "id": "mkt:019fad00-a307-7aab-8ee4-43faa1fb139d",
+      "time": "2026-07-29 16:32:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【CPCA: July 1-26 China passenger vehicle NEV retail 738,000 units, down 2% YoY】CPCA data: July 1-26 China passenger vehicle retail 1.123 mln vehicles, down 18% YoY and down 13% vs June 1-26; YTD retail through July 26 9.824 mln, down 20% YoY. NEV retail totaled 738,000 vehicles, down 2% YoY and down 10% vs June 1-26; YTD NEV retail 5.443 mln, down 13% YoY. NEV retail penetration 65.7% for July 1-26."
+    },
+    {
+      "id": "5014051",
+      "time": "2026-07-29 16:32:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星輝環材：第三期回購股份比例達1%，累計成交額8065.84萬元】星輝環材公告，截至2026年7月28日，公司透過第三期回購方案已累計回購股份213.67萬股，佔公司總股本的1.10%，最高成交價39.9元/股，最低成交價33.56元/股，成交總金額為8065.84萬元（不含交易費用）。本次回購方案資金總額為不低於1億元且不超過2億元，回購價格上限為65.54元/股，用於維護公司價值及股東權益。"
+    },
+    {
+      "id": "5014050",
+      "time": "2026-07-29 16:31:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【HASHKEY HLDGS：就收購目標公司全部股權訂立框架協議】HASHKEY HLDGS公告，公司全資附屬公司HKDAG SG於2026年7月22日與目標公司主要股東及目標公司就可能收購目標公司全部股權訂立一份不具法律約束力的框架協議。根據框架協議，擬議收購方將委聘第三方對目標集團進行法律、財務及業務盡職調查。擬議收購事項須視乎盡職調查結果、取得相關監管批准及公司批准，以及簽訂最終檔案而定。"
+    },
+    {
+      "id": "5014048",
+      "time": "2026-07-29 16:31:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞2026年棕櫚基生物柴油分配量為1675萬千升。"
+    },
+    {
+      "id": "mkt:019fad00-00ff-7aab-8ee4-3ce9c28fe21d",
+      "time": "2026-07-29 16:31:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "Onshore yuan closed at 6.7655 per dollar at 16:30 on July 29, up 19 pips from the previous trading day."
+    },
+    {
+      "id": "5014047",
+      "time": "2026-07-29 16:31:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元7月29日16:30收盤報6.7655，較上一交易日上漲19點。"
+    },
+    {
+      "id": "te:economy:570712",
+      "time": "2026-07-29 16:30:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro area",
+        "Wage Tracker",
+        "Importance 1"
+      ],
+      "text": "ECB Wage Tracker Points to Slower Pay Growth Despite Inflation Risks — The ECB's wage tracker, which monitors pay agreements negotiated through the first week of July, indicates negotiated wages are set to rise 2.3% in 2026 and 2.7% in the first quarter of 2027, down from 3% growth in 2025. The ECB described the outlook as \"stable,\" suggesting wage pressures are easing despite the recent pickup in inflation driven by the Middle East conflict. ECB policymakers view wage settlements as a key gauge of whether higher energy prices could trigger more persistent inflation above the central bank's 2% target. So far, however, there is little evidence of a wage-price spiral, with wage growth showing no signs of reaccelerating. Even so, investors continue to expect the ECB to deliver a second interest rate hike since the conflict began when policymakers meet in September, reflecting concerns that elevated energy costs could keep inflationary pressures alive."
+    },
+    {
+      "id": "mkt:019facff-6ffc-7aab-8ee4-30b7a90ca542",
+      "time": "2026-07-29 16:30:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "GBPUSD"
+      ],
+      "text": "UK M4 money supply YoY 5.0% in June, up from 4.3% in May."
+    },
+    {
+      "id": "5014046",
+      "time": "2026-07-29 16:30:44",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國6月M4貨幣供應年率 5%，前值4.30%。"
+    },
+    {
+      "id": "mkt:019facff-4993-7aab-8ee4-2e091ef32e66",
+      "time": "2026-07-29 16:30:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | M4 Money Supply (YoY) (Jun) | actual 5% | previous 4.30%"
+    },
+    {
+      "id": "5014045",
+      "time": "2026-07-29 16:30:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本多家半導體工廠停工】央視財經訊息，當地時間28日下午，日本熊本縣發生6.8級地震，不少地區出現道路塌陷、房屋受損、停電等情況。據日本氣象廳釋出的訊息，截至目前，熊本縣已發生超過100次餘震。日本首相高市早苗29日在記者會上說，截至當天早上8時30分，熊本縣地震已致13人死亡。熊本縣是日本半導體產業核心聚集地，據當地媒體報道，28日地震發生後，臺積電、索尼、東京電子等十餘家半導體企業廠區緊急疏散人員、停工排查。臺積電熊本工廠員工全部撤離，在建的熊本第二工廠暫停部分施工；索尼集團旗下影象感測器廠區持續停產，復產時間未定。東京電子、瑞薩、三菱電機等裝置、功率晶片廠商全部停工安檢。 （央視財經）"
+    },
+    {
+      "id": "mkt:019facff-20ef-7aab-8ee4-22320e504141",
+      "time": "2026-07-29 16:30:28",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK June M4 money supply MoM +0.8%, prior +0.10%."
+    },
+    {
+      "id": "mkt:019facff-1dea-7aab-8ee4-1fb2428781c7",
+      "time": "2026-07-29 16:30:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England data: UK net mortgage lending (lending secured on dwellings) £7.727bn in June, vs £3.95bn expected; May revised up to £3.269bn from £2.889bn."
+    },
+    {
+      "id": "mkt:019facff-0e36-7aab-8ee4-13d60720107d",
+      "time": "2026-07-29 16:30:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK Bank of England mortgage approvals, June: 58,200 vs 57,100 expected; May revised to 56,565 from 56,200."
+    },
+    {
+      "id": "mkt:019facff-0d09-7aab-8ee4-0ee29041519f",
+      "time": "2026-07-29 16:30:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England consumer credit, June +£1.807bn vs +£1.70bn expected; May revised to +£1.723bn from +£1.662bn."
+    },
+    {
+      "id": "mkt:019facff-0ca8-7aab-8ee4-04021c29d91d",
+      "time": "2026-07-29 16:30:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Moonshot AI raised $3.5 bln in a just-completed financing, above expectations, valuing the company at $35 bln."
+    },
+    {
+      "id": "5014044",
+      "time": "2026-07-29 16:30:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國6月央行抵押貸款許可件數 5.82萬件，前值 5.62萬件。"
+    },
+    {
+      "id": "mkt:019facfe-c71a-7aab-8ee3-f891e0c0025d",
+      "time": "2026-07-29 16:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | M4 Money Supply (MoM) (Jun) | actual 0.8% | previous 0.10%"
+    },
+    {
+      "id": "mkt:019facfe-c6d5-7aab-8ee3-f2ba7d4f15c5",
+      "time": "2026-07-29 16:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | BOE Consumer Credit (Jun) | actual 1807000000B | consensus 1700000000B | previous 1662000000B"
+    },
+    {
+      "id": "mkt:019facfe-c6c7-7aab-8ee3-edce8412e5b9",
+      "time": "2026-07-29 16:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | BOE Mortgage Approvals (Jun) | actual 58200K | consensus 57100K | previous 56200K"
+    },
+    {
+      "id": "mkt:019facfe-c66f-7aab-8ee3-e22f36bec908",
+      "time": "2026-07-29 16:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | BOE Mortgage Loan (Jun) | actual 7727000000B | consensus 3950000000B | previous 2889000000B"
+    },
     {
       "id": "5014043",
       "time": "2026-07-29 16:29:15",
