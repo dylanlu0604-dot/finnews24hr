@@ -1,7 +1,142 @@
 {
   "date": "2026-07-30",
-  "count": 67,
+  "count": 80,
   "items": [
+    {
+      "id": "mkt:019faeda-d275-7aab-8ef0-93a0779b0c3d",
+      "time": "2026-07-30 01:10:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Economist says Fed statement could contain hawkish cues】Economist Claudia Sahm said the FOMC post-meeting statement is likely to signal imminent rate hikes unless inf makes more substantive progress. After the June meeting the FOMC issued a markedly shorter statement that dropped boilerplate and contained only the line \"C.BANK will achieve price stability.\" Sahm expects the next statement to say that, despite recent improvement, inf remains above C.BANK's 2% target—partly due to supply shocks from the Middle East conflict and tariffs and strong AI-driven demand—and that if the labor market stays firm while inf remains elevated, appropriate tightening may be required soon to restore price stability. She also expects employment to be described as \"broadly consistent with maximum employment.\""
+    },
+    {
+      "id": "5014922",
+      "time": "2026-07-30 01:09:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：美國債務不存在被下調評級的理由，長期財政預算正向好發展。"
+    },
+    {
+      "id": "mkt:019faeda-871a-7aab-8ef0-88b2ddb31b61",
+      "time": "2026-07-30 01:09:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "White House National Economic Council Director Hassett said there is no reason to downgrade the U.S. debt rating."
+    },
+    {
+      "id": "mkt:019faeda-5d4c-7aab-8ef0-85c396124eff",
+      "time": "2026-07-30 01:09:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI says it plans to start this summer with 10,000 researchers."
+    },
+    {
+      "id": "mkt:019faeda-2572-7aab-8ef0-7b5979dff517",
+      "time": "2026-07-30 01:09:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HASSETT said the long-term budget outlook is moving in the right direction."
+    },
+    {
+      "id": "mkt:019faeda-252d-7aab-8ef0-7058aa43a15e",
+      "time": "2026-07-30 01:09:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI will provide free access to its cutting-edge models to 100,000 researchers."
+    },
+    {
+      "id": "mkt:019faed9-c0d7-7aab-8ef0-6a68ae6c6216",
+      "time": "2026-07-30 01:08:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI announced the launch of ChatGPT for academic researchers."
+    },
+    {
+      "id": "5014921",
+      "time": "2026-07-30 01:08:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：面向學術研究人員推出 ChatGPT 專用版本。"
+    },
+    {
+      "id": "mkt:019faed9-57ac-7aab-8ef0-64dc3c77f49e",
+      "time": "2026-07-30 01:08:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "White House National Economic Council Director Hassett said confidence in Federal Reserve Chair Kevin Warsh has never been stronger."
+    },
+    {
+      "id": "mkt:019faed9-3315-7aab-8ef0-5f3c87e1193e",
+      "time": "2026-07-30 01:08:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "【UBS: Fed communication review may raise rates volatility】UBS' chief investment office said in a Wednesday report that a Federal Reserve communication review announced in June could be among the most consequential moves of the official leading it and may trigger a chain reaction in interest-rate market volatility. The report said the Fed's dot plot previously helped anchor near-term market expectations and that two decades of forward guidance have reduced market volatility. UBS added the communication working group will include University of Washington professor Peter Fisher and former Bank of England official Mervyn King."
+    },
+    {
+      "id": "5014920",
+      "time": "2026-07-30 01:08:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：我們預計美聯儲主席沃什會做出正確的決定。我們信任美聯儲主席沃什的判斷。"
+    },
+    {
+      "id": "mkt:019faed9-1649-7aab-8ef0-5247b9cdcd34",
+      "time": "2026-07-30 01:08:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "White House National Economic Council director Hassett said he trusts Federal Reserve Chair Kevin Warsh's judgment."
+    },
+    {
+      "id": "mkt:019faed8-d807-7aab-8ef0-4cacca6620ae",
+      "time": "2026-07-30 01:07:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "White House National Economic Council director Hassett said he expects Federal Reserve chair Kevin Warsh to make the right decision."
+    },
     {
       "id": "5014919",
       "time": "2026-07-30 01:05:49",

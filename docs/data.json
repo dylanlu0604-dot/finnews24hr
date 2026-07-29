@@ -1,7 +1,142 @@
 {
-  "updated": "2026-07-30 01:07:01",
-  "count": 17418,
+  "updated": "2026-07-30 01:10:57",
+  "count": 17427,
   "items": [
+    {
+      "id": "mkt:019faeda-d275-7aab-8ef0-93a0779b0c3d",
+      "time": "2026-07-30 01:10:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Economist says Fed statement could contain hawkish cues】Economist Claudia Sahm said the FOMC post-meeting statement is likely to signal imminent rate hikes unless inf makes more substantive progress. After the June meeting the FOMC issued a markedly shorter statement that dropped boilerplate and contained only the line \"C.BANK will achieve price stability.\" Sahm expects the next statement to say that, despite recent improvement, inf remains above C.BANK's 2% target—partly due to supply shocks from the Middle East conflict and tariffs and strong AI-driven demand—and that if the labor market stays firm while inf remains elevated, appropriate tightening may be required soon to restore price stability. She also expects employment to be described as \"broadly consistent with maximum employment.\""
+    },
+    {
+      "id": "5014922",
+      "time": "2026-07-30 01:09:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：美國債務不存在被下調評級的理由，長期財政預算正向好發展。"
+    },
+    {
+      "id": "mkt:019faeda-871a-7aab-8ef0-88b2ddb31b61",
+      "time": "2026-07-30 01:09:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "White House National Economic Council Director Hassett said there is no reason to downgrade the U.S. debt rating."
+    },
+    {
+      "id": "mkt:019faeda-5d4c-7aab-8ef0-85c396124eff",
+      "time": "2026-07-30 01:09:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI says it plans to start this summer with 10,000 researchers."
+    },
+    {
+      "id": "mkt:019faeda-2572-7aab-8ef0-7b5979dff517",
+      "time": "2026-07-30 01:09:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HASSETT said the long-term budget outlook is moving in the right direction."
+    },
+    {
+      "id": "mkt:019faeda-252d-7aab-8ef0-7058aa43a15e",
+      "time": "2026-07-30 01:09:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI will provide free access to its cutting-edge models to 100,000 researchers."
+    },
+    {
+      "id": "mkt:019faed9-c0d7-7aab-8ef0-6a68ae6c6216",
+      "time": "2026-07-30 01:08:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI announced the launch of ChatGPT for academic researchers."
+    },
+    {
+      "id": "5014921",
+      "time": "2026-07-30 01:08:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：面向學術研究人員推出 ChatGPT 專用版本。"
+    },
+    {
+      "id": "mkt:019faed9-57ac-7aab-8ef0-64dc3c77f49e",
+      "time": "2026-07-30 01:08:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "White House National Economic Council Director Hassett said confidence in Federal Reserve Chair Kevin Warsh has never been stronger."
+    },
+    {
+      "id": "mkt:019faed9-3315-7aab-8ef0-5f3c87e1193e",
+      "time": "2026-07-30 01:08:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "【UBS: Fed communication review may raise rates volatility】UBS' chief investment office said in a Wednesday report that a Federal Reserve communication review announced in June could be among the most consequential moves of the official leading it and may trigger a chain reaction in interest-rate market volatility. The report said the Fed's dot plot previously helped anchor near-term market expectations and that two decades of forward guidance have reduced market volatility. UBS added the communication working group will include University of Washington professor Peter Fisher and former Bank of England official Mervyn King."
+    },
+    {
+      "id": "5014920",
+      "time": "2026-07-30 01:08:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：我們預計美聯儲主席沃什會做出正確的決定。我們信任美聯儲主席沃什的判斷。"
+    },
+    {
+      "id": "mkt:019faed9-1649-7aab-8ef0-5247b9cdcd34",
+      "time": "2026-07-30 01:08:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "White House National Economic Council director Hassett said he trusts Federal Reserve Chair Kevin Warsh's judgment."
+    },
+    {
+      "id": "mkt:019faed8-d807-7aab-8ef0-4cacca6620ae",
+      "time": "2026-07-30 01:07:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "White House National Economic Council director Hassett said he expects Federal Reserve chair Kevin Warsh to make the right decision."
+    },
     {
       "id": "5014919",
       "time": "2026-07-30 01:05:49",
@@ -160022,47 +160157,6 @@
         "其他"
       ],
       "text": "Anthropic：將投入2億美元設立“Anthropic經濟未來研究基金”，用以資助高潛力外部研究專案。"
-    },
-    {
-      "id": "te:markets:568948",
-      "time": "2026-07-23 01:10:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Inches Lower — Brent oil futures eased below $94 per barrel on Wednesday from the six-week high of $94.4 earlier in the session as higher inventories momentarily offset lower supply from the Middle East war. Data from the EIA showed that crude oil stocks unexpectedly rose by 1.4 million barrels last week, contrasting with expectations of a draw. Still, the escalatory war between the US and Iran continued to halt oil and fuel exports from the GCC. US Secretary of State Rubio accused Iran of failing to honor previous commitments and emphasized that any future agreement must guarantee freedom of navigation through the Strait of Hormuz and prevent Iran from developing nuclear weapons or supporting militant groups. Also, threats from Yemen’s Houthi rebels against shipping routes in the Red Sea increased fears of further disruptions to international oil trade. On top of that, attacks on the Caspian Pipeline Consortium terminal in the Black Sea added pressure on global energy markets."
-    },
-    {
-      "id": "te:markets:568947",
-      "time": "2026-07-23 01:09:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Eases from 6-Week High — Crude oil futures eased below $86.5 per barrel on Wednesday from the six-week high of $88.6 earlier in the session as higher inventories momentarily offset lower supply from the Middle East war. Data from the EIA showed that crude oil stocks unexpectedly rose by 1.4 million barrels last week, contrasting with expectations of a draw. Still, the escalatory war between the US and Iran continued to halt oil and fuel exports from the GCC. US Secretary of State Rubio accused Iran of failing to honor previous commitments and emphasized that any future agreement must guarantee freedom of navigation through the Strait of Hormuz and prevent Iran from developing nuclear weapons or supporting militant groups. Also, threats from Yemen’s Houthi rebels against shipping routes in the Red Sea increased fears of further disruptions to international oil trade. On top of that, attacks on the Caspian Pipeline Consortium terminal in the Black Sea added pressure on global energy markets."
-    },
-    {
-      "id": "mkt:019f8acd-5889-7aab-8e4e-82d06fd7bbae",
-      "time": "2026-07-23 01:09:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【China foreign minister Wang Yi meets Brunei foreign minister in Manila】China's foreign minister Wang Yi met Brunei's foreign minister in Manila on July 22 and conveyed President Xi Jinping's greetings to Sultan Hassanal Bolkiah. Wang said Beijing and Bandar Seri Begawan will implement leaders' consensus via the China–Brunei joint government steering committee to deepen cooperation in trade, energy, artificial intelligence and maritime joint development, and to build a higher-level China–Brunei strategic partnership; the discussion follows the 35th anniversary of diplomatic ties and a recent visit to China by Brunei's crown prince."
-    },
-    {
-      "id": "5002883",
-      "time": "2026-07-23 01:08:57",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅會見越南外長黎懷忠】中共中央政治局委員、外交部長王毅22日在馬尼拉會見越南外長黎懷忠。王毅表示，今年4月，習近平總書記、國家主席同蘇林總書記、國家主席舉行重要會晤，為推動落實“六個更”總體目標、加快構建更高水平具有戰略意義的中越命運共同體作出頂層設計。當前，世界百年變局亂的一面更加突出，給地區國家帶來嚴峻挑戰。中越作為社會主義國家和兩大發展中國家，要認真落實兩黨兩國高層共識，從各自長遠發展的大局出發，切實加強團結協作。雙方要繼續密切高層交往，充分發揮中越外交、國防、公安“3+3”戰略對話機制作用，推進互聯互通、人工智慧等領域務實合作，使中越關係始終走在地區國家前列，共同維護好地區和平發展的良好局面。黎懷忠表示，越南黨和政府珍視越中友誼，高度重視對華關係。越方願同中方一道，落實蘇林總書記訪華成果和兩黨兩國最高領導人重要共識，加強各層級交往，推進鐵路、農業等領域務實合作，共同推動越中全面戰略合作伙伴關係取得更多成果。越方支援中方提出的四大全球倡議，祝賀世界人工智慧大會在上海成功舉辦併成立世界人工智慧合作組織。越方將全力支援中方辦好今年亞太經合組織領導人非正式會議，願同中方加強多邊溝通協作，維護好兩國和地區共同利益。(新華社)"
     }
   ]
 }
