@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-29 08:37:15",
-  "count": 17547,
+  "updated": "2026-07-29 08:41:04",
+  "count": 17546,
   "items": [
+    {
+      "id": "5013237",
+      "time": "2026-07-29 08:39:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：釋出開源的程式碼安全命令列工具。"
+    },
+    {
+      "id": "5013236",
+      "time": "2026-07-29 08:39:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【大範圍降雨將貫穿南北 中東部高溼悶熱天氣持續】未來三天（7月29日至31日），全國大部雨水總體呈現面廣點強的特點，廣東、四川、河南、黑龍江等局地雨勢猛烈，需警惕暴雨致災。隨著副熱帶高壓北抬、大陸高壓東移，中東部暑熱發展，加上溼度較大，大範圍桑拿天持續，東北等地部分地區將熱到同期少見。"
+    },
+    {
+      "id": "5013235",
+      "time": "2026-07-29 08:39:15",
+      "tags": [],
+      "text": "【SK海力士電話會：目前沒有看到人工智慧投資放緩的跡象】SK海力士：人工智慧基礎設施投資在2027年以後仍將保持穩健。將透過長期協議鞏固其在HBM領域的領先地位。"
+    },
+    {
+      "id": "5013234",
+      "time": "2026-07-29 08:39:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：第二季度產品銷售組合影響了平均售價。"
+    },
+    {
+      "id": "5013233",
+      "time": "2026-07-29 08:38:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "力拓股價在悉尼盤中上漲4.8%，此前上半年利潤大幅增長。"
+    },
     {
       "id": "mkt:019fab4d-4f2e-7aab-8ed7-efd737eb6439",
       "time": "2026-07-29 08:36:38",
@@ -13,6 +51,14 @@
         "XAUUSD"
       ],
       "text": "Saudi Arabia's defense ministry said the airstrike was in response to drone attacks on Saudi oil facilities, adding Riyadh does not seek escalation but will respond to any \"aggression\"."
+    },
+    {
+      "id": "5013232",
+      "time": "2026-07-29 08:36:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍與沙特聯合空襲伊拉克境內武裝】美軍中央司令部發布宣告稱，美軍與沙烏地阿拉伯武裝部隊於（美東時間）7月28日對伊拉克實施“精確打擊”，目標為“受伊朗伊斯蘭革命衛隊指揮、曾襲擊駐中東美軍及沙特能源基礎設施的親伊朗武裝組織”。 宣告稱，“美軍和沙特戰鬥機對伊拉克東部多處武裝組織的後勤及武器設施發動空襲，以回應過去72小時內由伊朗伊斯蘭革命衛隊策劃並指揮的30多起無人機襲擊。”據稱這些針對駐中東美軍的襲擊“均未得逞”。 宣告還稱，今年2月至4月，伊拉克境內與伊朗結盟的武裝組織曾“對美國公民及美國設施發起600多次襲擊企圖”。 美軍中央司令部警告稱，伊朗伊斯蘭革命衛隊及其支援的武裝代理人必須停止此類襲擊，否則將面臨美軍進一步的回應。 （CCTV國際時訊 ）"
     },
     {
       "id": "mkt:019fab4d-1127-7aab-8ed7-e4f1ca0f7867",
@@ -160898,81 +160944,6 @@
         "其他"
       ],
       "text": "【日經225指數漲幅擴大至2%】日經225指數漲幅擴大至2%，現報67547.03點。"
-    },
-    {
-      "id": "mkt:019f8744-aa89-7aab-8e35-2d03ab2f7d32",
-      "time": "2026-07-22 08:40:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【CENTCOM says US forces completed 11th consecutive night of strikes on Iran】CENTCOM said US forces completed the 11th consecutive night of strikes against Iran at 8:15 p.m. ET on July 21. Targets included Iranian military operations centers, maritime combat-capability facilities, aircraft hangars, drone storage sites and military logistics infrastructure, aimed at further degrading Iran's ability to threaten commercial shipping in the Strait of Hormuz. Since early May CENTCOM has assisted about 900 commercial vessels and the transit of roughly 450 mln barrels of crude through the strait."
-    },
-    {
-      "id": "5001092",
-      "time": "2026-07-22 08:39:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "馬來西亞棕櫚油委員會：價格進一步上漲可能受限，因需求趨軟且主要消費市場植物油庫存高企。"
-    },
-    {
-      "id": "5001091",
-      "time": "2026-07-22 08:39:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞棕櫚油委員會：毛棕櫚油價格8月預計在每噸4,400至4,650林吉特之間交投。"
-    },
-    {
-      "id": "5001090",
-      "time": "2026-07-22 08:39:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "馬來西亞棕櫚油理事會：自7月起印尼實施B50生物柴油政策、能源市場走強以及生物柴油經濟性改善將對棕櫚油價格形成支撐。"
-    },
-    {
-      "id": "te:markets:568651",
-      "time": "2026-07-22 08:38:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Yen Sinks to Fresh 40-Year Low — The Japanese yen weakened beyond 163 per dollar on Wednesday, sinking to its lowest level since October 1986 and keeping markets on high alert for possible government intervention to support the currency. The move came as escalating tensions in the Middle East drove oil prices higher, pressuring Japan’s economy which relies heavily on oil imports from the region. A stronger US dollar and rising Treasury yields also weighed on the yen, as the wide interest rate gap continued to encourage carry trades. Additionally, mounting fiscal concerns in Japan after the government unveiled massive spending plans, coupled with the Bank of Japan’s cautious approach to policy normalization, added further downward pressure on the currency. On the economic front, Japan’s trade balance returned to a deficit in June as import growth outpaced exports."
-    },
-    {
-      "id": "5001089",
-      "time": "2026-07-22 08:38:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國：完成對伊朗的第11晚打擊 霍爾木茲海峽仍對商船開放通行】美國中央司令部通報：21日美國東部時間晚8時，美軍連續第11晚完成對伊朗的打擊行動。美軍中央司令部作戰力量打擊目標包括伊朗軍事指揮中心、海上作戰設施、飛機機庫、無人機存放場地以及軍事後勤基礎設施，以此進一步削弱伊朗威脅霍爾木茲海峽商業航運的能力。過去三個月，伊朗襲擊了30餘艘途經這條對區域及全球貿易至關重要國際航道的商船。此類無端襲擊危及數百名無辜船員安全，破壞航行自由。儘管伊朗採取挑釁行動，霍爾木茲海峽依舊保持通航。自5月初以來，美軍中央司令部部隊已協助約 900艘商船和4.5億桶原油順利透過該海峽。"
-    },
-    {
-      "id": "mkt:019f8741-e899-7aab-8e35-2625ea63f027",
-      "time": "2026-07-22 08:37:51",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "MU.O",
-        "AVGO.O"
-      ],
-      "text": "【Samsung Electronics up nearly 6%; SK Hynix intraday reclaims 2,000,000 won】Korean semiconductor stocks jumped in early trade on the 22nd after overnight US tech strength. As of 09:11 local time (08:11 Beijing), Samsung Electronics rose 5.79% to 274,000 won; SK Hynix gained 8.50%, intraday topping 2,000,000 won for the first time since July 15. US drivers: NVIDIA +1.97% as its next‑generation AI server platform Vera Rubin enters mass production and begins shipments to major customers; Micron +12.17% and Broadcom +2.21% lifted the Philadelphia Semiconductor Index 5.21%. SK Hynix ADR jumped 13.75% to $171.94 overnight. Foreign investors net bought 717.6 bln won in Korea’s electrical and electronics sector; retail and institutional investors net sold 370.6 bln won and 345.8 bln won, respectively."
     }
   ]
 }
