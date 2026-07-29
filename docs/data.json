@@ -1,7 +1,96 @@
 {
-  "updated": "2026-07-29 19:10:01",
-  "count": 17512,
+  "updated": "2026-07-29 19:14:01",
+  "count": 17514,
   "items": [
+    {
+      "id": "5014467",
+      "time": "2026-07-29 19:13:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，印度購買俄羅斯烏拉爾原油較布倫特原油的貼水已降至每桶1-2美元。"
+    },
+    {
+      "id": "mkt:019fad93-904c-7aab-8ee8-bdec34dc6387",
+      "time": "2026-07-29 19:12:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran condemns US, Saudi strikes on Iraq】Iran's foreign ministry on July 29 strongly condemned US and Saudi strikes on parts of Iraq, saying they violate Iraqi sovereignty and the UN Charter and are intended to \"serve the US and Israeli regime's plot to expand war and conflict in West Asia.\" The statement said the strikes killed several Iraqi civilians, offered condolences, reaffirmed support for the Iraqi government and people, and said the US and its regional allies must bear responsibility for the consequences of these \"criminal, inhumane and provocative acts.\""
+    },
+    {
+      "id": "mkt:019fad93-6077-7aab-8ee8-b5abaffdf45f",
+      "time": "2026-07-29 19:12:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent"
+      ],
+      "text": "Sources say Russian Urals crude's discount to Brent in the Indian market narrowed to $1-2/bbl."
+    },
+    {
+      "id": "5014466",
+      "time": "2026-07-29 19:12:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗譴責美國沙特襲擊伊拉克】伊朗外交部今天（7月29日）發表宣告，強烈譴責美國和沙特對伊拉克部分地區發動襲擊。宣告稱，這些襲擊侵犯伊拉克國家主權和領土完整，違反《聯合國憲章》和國際法，目的是“服務於美國和以色列政權擴大西亞地區戰爭和衝突範圍的圖謀”。宣告還稱，襲擊造成多名伊拉克民眾死亡，伊朗對此表示哀悼，並重申對伊拉克政府和人民的支援。宣告同時表示，美國及其地區盟友應對“這些罪惡、不人道和挑釁行為”所造成的後果承擔責任。（CCTV國際時訊）"
+    },
+    {
+      "id": "5014465",
+      "time": "2026-07-29 19:11:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯華電子第二季度營收為新臺幣687.3億元，淨利潤為新臺幣422.6億元，第二季度毛利率為32.5%。"
+    },
+    {
+      "id": "mkt:019fad92-f0db-7aab-8ee8-acf01fd5f662",
+      "time": "2026-07-29 19:11:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister Araghchi told EU foreign policy chief Kallas in a call that Ukraine's foreign minister had told him the attack on Iranian vessels was not deliberate; Iran said that explanation was unacceptable."
+    },
+    {
+      "id": "te:markets:570767",
+      "time": "2026-07-29 19:11:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "General Dynamics earnings above expectations at 4.24 USD — General Dynamics (GD) released earnings per share at 4.24 USD, compared to market expectations of 3.92 USD."
+    },
+    {
+      "id": "5014464",
+      "time": "2026-07-29 19:10:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "佳明股價盤前上漲9.2%，此前該公司上調了全年利潤與收入預期。"
+    },
+    {
+      "id": "5014463",
+      "time": "2026-07-29 19:10:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國野生東北虎豹數量持續恢復性增長】7月29日是全球老虎日。記者當日在黑龍江省東寧市舉行的相關主題宣傳活動上獲悉，近年來，中國野生東北虎豹數量持續恢復性增長。來自國家林草局的資料顯示，目前生活在東北虎豹國家公園內的野生東北虎至少72只，野生東北豹至少115只，虎豹幼崽成活率從30%提升至近50%。（新華社）"
+    },
+    {
+      "id": "5014462",
+      "time": "2026-07-29 19:09:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【建設銀行落地首批FTU自貿離岸債投資】近日，建設銀行上海自貿業務經營中心以總行FTU（自貿區分賬核算單元）角色成功落地首批自貿離岸債投資，先後參與民生銀行香港分行及建設銀行悉尼分行兩隻自貿離岸債的一級市場認購，合計投資金額8500萬元人民幣。此舉標誌著建行在自貿離岸債投資端取得關鍵性突破，為上海國際金融中心建設再添實踐註腳。(澎湃新聞)"
+    },
     {
       "id": "mkt:019fad90-a6dc-7aab-8ee8-a21c25cd84d7",
       "time": "2026-07-29 19:09:25",
@@ -9,6 +98,14 @@
         "MKT News"
       ],
       "text": "【BSE and NEEQ launch national cultivation campaign for specialized, refined, distinctive and innovative firms】July 29, 2026 — The Beijing Stock Exchange (BSE) and the National Equities Exchange and Quotations (NEEQ) launched a nationwide special cultivation action for specialized, refined, distinctive and innovative firms, holding the first training session in Nanjing with Jiangsu provincial financial office, Jiangsu MIIT, the Jiangsu securities regulatory bureau and the Jiangsu Equity Exchange Center. The program pairs policy interpretation with practical guidance to promote MIIT and financial-sector support measures for listings on the New Third Board and the BSE, explain full-chain service arrangements, and address common listing-preparation issues with practical solutions. The initiative aims to drive more quality specialized firms toward NEEQ/BSE listings and to build a tiered, full-cycle cultivation ecosystem covering firm growth to listing."
+    },
+    {
+      "id": "5014461",
+      "time": "2026-07-29 19:09:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瀾起科技：首次回購A股股份50萬股 耗資1.03億元】瀾起科技公告稱，公司7月29日首次以集中競價交易方式回購A股股份50萬股，佔總股本的0.04%，購買最高價210元/股、最低價192.18元/股，支付金額總額約1.03億元。公司於7月23日透過回購議案，預計回購金額3億-6億元，回購期限至10月23日，用途為維護公司價值及股東權益。"
     },
     {
       "id": "5014460",
@@ -160672,83 +160769,6 @@
         "公司"
       ],
       "text": "【劉珺會見嘉能可集團執行長加里·內格爾】7月22日，中國工商銀行行長劉珺會見來訪的嘉能可集團執行長加里·內格爾一行，雙方就全球經濟金融形勢、深化業務合作等話題進行深入交流。中國工商銀行與嘉能可集團互為重要合作伙伴，在融資、結算、大宗商品交易等領域保持密切合作，取得務實成果。工商銀行將充分發揮全球一體化經營服務優勢，進一步拓展與嘉能可集團在大宗商品、跨境人民幣、債券投資等領域的合作，提供全面金融解決方案，為助力全球產供鏈穩定暢通貢獻更大力量。（中國工商銀行）"
-    },
-    {
-      "id": "5002337",
-      "time": "2026-07-22 19:13:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年國家站首個50℃來了！從南到北多地熱到破紀錄】50.2℃！昨天，新疆艾丁湖景區站氣溫重新整理今年以來國家級氣象站最高，也是今年國家級氣象站首個50℃+。新疆大部的極端熱浪持續，昨天吐魯番東坎氣溫飆到49.8℃、阿拉爾40.9℃、烏魯木齊牧試站33.5℃、天池32.7℃，均打破當地觀測史最高氣溫紀錄。除了新疆天山南北盆地地區，四川盆地也出現了大範圍40℃以上的酷熱，簡陽、中江、宜賓等16個站點氣溫打破當地7月最高氣溫紀錄。（央視新聞）"
-    },
-    {
-      "id": "5002336",
-      "time": "2026-07-22 19:13:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "保加利亞批准美方請求，允許其部署空中加油機與駐軍。"
-    },
-    {
-      "id": "5002335",
-      "time": "2026-07-22 19:12:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【仙琚製藥：截至7月22日回購股份比例達1% 耗資8190.68萬元】仙琚製藥公告稱，公司於2026年5月14日審議透過回購股份方案，擬用8000萬元-1.5億元回購股份用於股權激勵或員工持股計劃，回購價不超13.25元/股，實施期限12個月。截至7月22日，公司累計回購股份989.29萬股，佔總股本的1.0001%，最高成交價8.58元/股，最低成交價7.92元/股，成交總金額8190.68萬元（不含交易費用）。後續將繼續實施回購計劃並及時披露資訊。"
-    },
-    {
-      "id": "5002334",
-      "time": "2026-07-22 19:12:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【ST信通：股價異常波動 一季度營收4.59億元淨虧損近5000萬元】ST信通公告稱，公司股票於2026年7月20日-22日連續3個交易日內日收盤價格跌幅偏離值累計超20%，屬異常波動情形。2026年第一季度，公司實現營收4.59億元，歸屬於母公司所有者的淨利潤為淨虧損4984.94萬元。因控股股東違規擔保，公司被執行資產餘額1.10億元未清償，另有兩起違規擔保案已申請恢復執行，涉案本金2.83億元。此外，截至公告日，萬怡投資持有公司股份已被動減持140.23萬股，佔公司總股本0.22%。"
-    },
-    {
-      "id": "5002333",
-      "time": "2026-07-22 19:12:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "南方原油LOF(501018)將於2026年7月23日開市起至當日10:30停牌，自2026年7月23日10:30復牌。"
-    },
-    {
-      "id": "5002332",
-      "time": "2026-07-22 19:12:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中力股份：第三屆董事會第一次會議審議透過8項議案，選舉何金輝為董事長】 中力股份公告，公司第三屆董事會第一次會議於2026年7月22日召開，審議透過關於選舉公司第三屆董事會專門委員會委員、選舉何金輝為董事長暨執行公司事務的董事、聘任何金輝為總經理、聘任廖發培等3人為副總經理、聘任汪時鋒為財務負責人、聘任廖發培為董事會秘書、聘任吳碧青為證券事務代表以及增加2026年度日常關聯交易預計等8項議案，關聯董事何金輝、陳加華迴避表決。"
-    },
-    {
-      "id": "mkt:019f8986-3fa8-7aab-8e46-a23d465c83e0",
-      "time": "2026-07-22 19:11:44",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Gold jewelry price rises ~28 yuan/gram; several brands at 1,250 yuan/gram】July 22 — International gold continued higher, trading above $4,100/oz. As of 18:47, London spot gold was $4,116.94/oz, up 0.89%, and COMEX gold futures were $4,122.50/oz, up 1.13%. Supported by the overseas move, multiple Chinese pure-gold jewelry brands raised retail prices to around 1,250 yuan/gram, about 28 yuan/gram higher than the prior day."
-    },
-    {
-      "id": "5002331",
-      "time": "2026-07-22 19:11:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【金飾克價漲約28元 多家品牌金飾克價漲到1250元】國際金價22日繼續走高，盤中站上4100美元/盎司關口。截至18時47分，倫敦現貨黃金報4116.94美元/盎司，漲0.89%；COMEX黃金期貨報4122.5美元/盎司，漲1.13%。受國際金價上漲帶動，國內多家品牌足金飾品價格同步上調。部分品牌足金飾品價格報價在1250元/克附近，較前一日上漲約28元。 (央視財經)"
-    },
-    {
-      "id": "5002330",
-      "time": "2026-07-22 19:10:54",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【王毅出席東盟外長會期間與魯比奧會面】據CGTN 7月22日下午報道，中共中央政治局委員、外交部長王毅在菲律賓馬尼拉出席東盟外長會議期間，會見了美國國務卿魯比奧。\n\n7月19日至24日，第59屆東盟系列外長會在菲律賓馬尼拉舉辦。據美國國務院網站17日宣告，魯比奧於7月19日至23日前往馬尼拉，出席東盟外長系列會議。因此，中美兩國外長能否借東盟系列外長會契機進行雙邊會談，也成為外界關注的焦點。\n\n在7月20日的外交部例行記者會上，有記者提問，美國國務卿魯比奧表示，中國國家主席習近平即將於9月對美國進行的訪問仍在按計劃進行。請問，中國外交部是否認為此次訪問仍在按計劃進行？發言人林劍表示，元首外交對中美關係具有不可替代的戰略引領作用。雙方就年內元首的互動安排保持了溝通。\n\n中美外長曾於6月30日通電話。王毅指出，中美雙方要拉長合作清單，打造更多積極議程，同時壓縮問題清單，管控各種風險隱患。臺灣問題牽一髮動全身，希望美方務必慎之又慎對待涉臺事務。雙方一致認為，兩國外長此次通話是積極、建設性的，同意共同落實好兩國元首達成的重要共識，繼續以靈活方式保持溝通。（澎湃）"
     }
   ]
 }
