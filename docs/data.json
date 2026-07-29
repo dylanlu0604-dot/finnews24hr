@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-30 06:31:42",
-  "count": 17784,
+  "updated": "2026-07-30 06:35:39",
+  "count": 17779,
   "items": [
+    {
+      "id": "5015332",
+      "time": "2026-07-30 06:32:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【ChatGPT和Roblox將受歐盟最嚴格平臺規則約束】OpenAI旗下ChatGPT以及Roblox平臺在歐盟地區月活躍使用者突破4500萬門檻，將依據歐盟《數字服務法》（DSA）接受更嚴格的內容稽核監管與持續監控。歐盟委員會預計最早於8月將二者正式認定為超大型線上平臺（VLOP）。"
+    },
     {
       "id": "5015331",
       "time": "2026-07-30 06:30:52",
@@ -163965,70 +163973,6 @@
         "000660.KS"
       ],
       "text": "【Korean shareholder group files criminal complaint over profit-linked bonus deals at Samsung, SK Hynix】A Korean shareholder-rights group has filed a criminal complaint accusing SK Hynix’s chief executive and Samsung Electronics’ vice chairman and chief executive of breaching fiduciary duties by agreeing profit-linked bonus arrangements with labour unions. The group lodged the complaint with police and separately reported the labour minister to the unit that investigates crimes by senior public officials, alleging he abused his authority by intervening in Samsung’s May pay talks. The group argues profit-linked performance bonuses are profit distributions that require shareholder approval and should not be settled through collective bargaining."
-    },
-    {
-      "id": "5003143",
-      "time": "2026-07-23 06:35:25",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【7月23日隔夜要聞一覽】\n1、美軍稱開始對伊朗軍事目標發起新一輪打擊。\n2、特朗普：預計美聯邦政府在9月將出現“停擺”。\n3、美眾議院透過一項年度國防政策法案，總額超萬億美元。\n4、Alphabet第二季度營收同比增長24%，達到1198億美元。公司各業務板塊表現強勁，實現連續12個季度營收雙位數增長。\n5、特斯拉第二季度總營收282.36億美元，同比增長26%。運營利潤僅3.98億美元，同比下降57%，運營利潤率1.4%\n6、AMD週三宣佈與Anthropic建立戰略合作，計劃在未來向其投資高達50億美元。\n7、特斯拉CEO馬斯克：無法在財報電話會議上討論特斯拉與 SpaceX 合併相關事宜。\n8、WTI原油期貨價格上漲2.49美元，收於每桶86.83美元，漲2.95%；倫特原油期貨價格上漲3.06美元，收於每桶94.07美元，漲3.36%。\n9、歐盟委員會有條件批准派拉蒙天舞收購華納兄弟的交易。"
-    },
-    {
-      "id": "te:markets:568965",
-      "time": "2026-07-23 06:35:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Gains by 1.30% — Top commodity gainers are Silver (1.30%) and Gold (1.18%). Biggest losers are Iron Ore CNY (-1.27%), Copper (-1.07%) and Lithium Carbonate (-0.69%)."
-    },
-    {
-      "id": "mkt:019f8bf7-0a32-7aab-8e53-f1161c3ac3c2",
-      "time": "2026-07-23 06:34:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【China to step up implementation of fiscal-financial package to boost domestic demand】An article in People’s Daily said implementation of China’s fiscal-financial package to boost domestic demand is proceeding broadly as expected. Measures have supported countercyclical growth in lending to key investment and consumption sectors and are redirecting more social capital to priority domestic-demand areas. Beijing called for dogged execution to ensure policy benefits reach businesses and consumers, remove bottlenecks constraining investment and consumption, and expand new sources of domestic demand."
-    },
-    {
-      "id": "5003142",
-      "time": "2026-07-23 06:33:59",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【財政部部長藍佛安：以更大力度落實財政金融協同促內需一攬子政策】財政部部長藍佛安在人民日報刊發題為“以更大力度落實財政金融協同促內需一攬子政策”的文章。文中指出，總的看，政策實施進展符合預期，支援重點投資和消費領域信貸投放逆勢增長，帶動更多社會資源流向擴內需重點領域。下一步，要認真貫徹落實黨中央、國務院決策部署，樹立和踐行正確政績觀，以釘釘子精神實施好財政金融協同促內需一攬子政策，確保政策紅利充分惠及各類經營主體和廣大消費者，推動打通制約投資消費的堵點卡點，拓展內需增長新空間。"
-    },
-    {
-      "id": "5003141",
-      "time": "2026-07-23 06:32:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特斯拉CEO埃隆·馬斯克：我們試圖在美國生產大量光伏產品。"
-    },
-    {
-      "id": "5003140",
-      "time": "2026-07-23 06:32:25",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【週四重要財經資訊提醒（以下均為北京時間）】\n① 07:00 韓國二季度GDP初值；\n② 09:30 澳大利亞6月就業報告（含就業人數與失業率）；\n③ 時間待定 2026年APEC數字和人工智慧部長會議；\n④ 歐股開盤之前 諾基亞、道達爾能源釋出業績報告；\n⑤ 19:00 土耳其央行公佈利率決議；\n⑥ 20:15 歐洲央行公佈利率決議（含主要再融資利率、存款機制利率、邊際貸款利率）；\n⑦ 20:30 美國7月18日當週首次申請失業救濟人數；\n⑧ 20:45 歐洲央行行長拉加德舉行新聞釋出會；\n⑨ 次日00:30 AMD Advancing AI大會，CEO蘇姿豐講話；\n⑩ 美股盤後 英特爾、德國思愛普Sap釋出業績報告。"
     }
   ]
 }
