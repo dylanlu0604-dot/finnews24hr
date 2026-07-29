@@ -1,7 +1,213 @@
 {
-  "updated": "2026-07-29 09:27:57",
-  "count": 17563,
+  "updated": "2026-07-29 09:31:52",
+  "count": 17562,
   "items": [
+    {
+      "id": "mkt:019fab7f-686e-7aab-8ed9-7b632ea24d18",
+      "time": "2026-07-29 09:31:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China stock index futures open higher】CSI 300 index futures (IF) main contract up 0.70%; SSE 50 index futures (IH) main contract up 0.64%; CSI 500 index futures (IC) main contract up 0.71%; CSI 1000 index futures (IM) main contract up 0.44%."
+    },
+    {
+      "id": "mkt:019fab7f-4d2c-7aab-8ed9-72403026329c",
+      "time": "2026-07-29 09:31:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures open】At the morning open, China 2-year government bond futures (TS) most-active contract was flat; 5-year (TF) flat; 10-year (T) flat; 30-year (TL) up 0.04%."
+    },
+    {
+      "id": "5013325",
+      "time": "2026-07-29 09:31:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元下跌，因第二季度通脹資料不及預期。"
+    },
+    {
+      "id": "5013324",
+      "time": "2026-07-29 09:30:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞第二季度消費者價格環比增長0.6%】澳大利亞第二季度消費者價格環比增長0.6%，預估為0.7%。"
+    },
+    {
+      "id": "mkt:019fab7e-dcdb-7aab-8ed9-6f10a95ab04f",
+      "time": "2026-07-29 09:30:45",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia Q2 CPI (QoQ) 0.6% vs est. 0.70%; prior 1.40%."
+    },
+    {
+      "id": "mkt:019fab7e-b22e-7aab-8ed9-638fc1fce36a",
+      "time": "2026-07-29 09:30:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | CPI (QoQ) (Q2) | actual 0.6% | consensus 0.70% | previous 1.40%"
+    },
+    {
+      "id": "5013323",
+      "time": "2026-07-29 09:30:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凡拓數創在北京成立具身智慧科技公司】企查查APP顯示，近日，凡拓具身智慧科技（北京）有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；計算機系統服務等。企查查股權穿透顯示，該公司由凡拓數創全資持股。"
+    },
+    {
+      "id": "5013322",
+      "time": "2026-07-29 09:30:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "中際旭創高開0.77%，訊息面上，公司董事長兼總裁提議40億元至80億元回購公司股份。"
+    },
+    {
+      "id": "5013321",
+      "time": "2026-07-29 09:30:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報25568.510點；恒生科技指數現漲1.190%。"
+    },
+    {
+      "id": "mkt:019fab7e-5fb2-7aab-8ed9-580771c1850d",
+      "time": "2026-07-29 09:30:13",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Australia June CPI (not seasonally adjusted) MoM -0.1% vs 0.2% expected; prior -0.7%."
+    },
+    {
+      "id": "5013320",
+      "time": "2026-07-29 09:30:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞6月未季調CPI月率 -0.1%，預期0.2%，前值-0.7%。"
+    },
+    {
+      "id": "mkt:019fab7e-50e9-7aab-8ed9-5636a0bf5210",
+      "time": "2026-07-29 09:30:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Australia June CPI (non-seasonally adjusted) YoY 3.8% vs. 4.0% expected, 4.0% prior."
+    },
+    {
+      "id": "5013319",
+      "time": "2026-07-29 09:30:08",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞6月未季調CPI年率 3.8%，預期4%，前值4.00%。"
+    },
+    {
+      "id": "5013318",
+      "time": "2026-07-29 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.66%， 滬深300指數期貨連續漲0.53%， 中證500指數期貨連續漲0.75%， 上證50指數期貨連續漲0.70%。"
+    },
+    {
+      "id": "5013317",
+      "time": "2026-07-29 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.05%， 10年期主力合約漲0.02%， 5年期主力合約漲0.01%， 2年期主力合約跌0.02%。"
+    },
+    {
+      "id": "te:markets:570549",
+      "time": "2026-07-29 09:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Hong Kong Hit 8-week High — HK50 increased to 25557.00 Index Points, the highest since June 2026. Over the past 4 weeks, Hong Kong Stock Market Index (HK50) gained 11.83%, and in the last 12 months, it increased 1.63%."
+    },
+    {
+      "id": "mkt:019fab7d-d9f2-7aab-8ed9-4f859d22d02a",
+      "time": "2026-07-29 09:29:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Qian'an Technology opened up 105.76% on its A-share debut and is trading at 50.00 yuan; IPO price was 24.30 yuan."
+    },
+    {
+      "id": "te:markets:570548",
+      "time": "2026-07-29 09:29:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Trades Near Multi-Month Lows — Platinum futures traded around $1,600 an ounce, near late-November lows, pressured by weakness across precious metals amid persistent hostilities in the Middle East. The conflict kept inflation risks in focus and reinforced expectations that interest rates could stay higher for longer, weighing on non-yielding assets such as platinum. Investors now await the Federal Reserve's policy decision, where rates are widely expected to remain unchanged. Still, markets see about a one-third chance of a rate hike this week and roughly an 80% chance of another increase in September. The platinum market was also weighed down by expectations for softer industrial and automotive demand despite the tight supply outlook. The ongoing shift toward electric vehicles, which do not require autocatalysts, has clouded demand prospects even as the platinum market is forecast to post a fourth straight annual supply deficit due to constrained mine supply and declining above-ground inventories."
+    },
+    {
+      "id": "mkt:019fab7c-8ddc-7aab-8ed9-422b68ad0492",
+      "time": "2026-07-29 09:28:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "At the open Wednesday July 29, China’s CSI 300 Index rose 0.28% to 4,582.09, the Shanghai Composite Index gained 0.26% to 3,823.29, the Shenzhen Composite fell 0.08% to 13,498.75, the ChiNext Index added 0.19% to 3,333.48 and the STAR 50 Index rose 0.66% to 1,704.58."
+    },
+    {
+      "id": "5013316",
+      "time": "2026-07-29 09:28:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【千岸科技上市首日開盤大漲超105%】千岸科技上市首日開盤漲105.76%，現報50.00元，該股發行價為24.30元。"
+    },
+    {
+      "id": "mkt:019fab7c-5220-7aab-8ed9-3f8fabaf635d",
+      "time": "2026-07-29 09:27:59",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC nets 730.5 bln yuan via reverse repos】PBOC conducted 206.5 bln yuan of 7-day reverse repos and 600 bln yuan of overnight reverse repos today; 76 bln yuan of 7-day reverse repos matured, leaving a net liquidity injection of 730.5 bln yuan."
+    },
     {
       "id": "mkt:019fab7b-3fe3-7aab-8ed9-3289ca88b8a2",
       "time": "2026-07-29 09:26:48",
@@ -160884,221 +161090,6 @@
         "觀點"
       ],
       "text": "【摩根士丹利：預計寧德時代將發強勁季報 近期股價上漲受資金輪動推動】摩根士丹利週二釋出的報告稱，寧德時代週五將釋出二季度業績，有望超過公司指引以及該行的預估（分別為淨利潤220億元與230億元人民幣），對未來業績的指引也將強勁。近期接觸的許多投資者表示，希望從交易過於擁擠的AI板塊適度分散配置，轉向基本面紮實、此前表現相對落後的優質公司。寧德時代明年增長前景預計依然強勁。柴油車電動化、儲能超級週期的多重驅動力，以及鈉離子電池產品週期啟動，都將繼續支撐公司增長。維持對寧德時代“增持”評級。"
-    },
-    {
-      "id": "mkt:019f8773-43be-7aab-8e36-a2f432ab022e",
-      "time": "2026-07-22 09:31:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "China EV Leaders",
-        "IFX.DE",
-        "Impact bullish"
-      ],
-      "text": "【Infineon to deepen Wuxi cooperation on chips, AI, EVs】July 21 — Wuxi Party Secretary Du Xiaogang met with a delegation from German Infineon and Sun Capital to deepen practical cooperation. Parties said they will deepen work in integrated circuits and strengthen local industry- and supply-chain coordination to attract more ecosystem firms to Wuxi. They also flagged targeted collaboration in AI (including embodied intelligence), commercial aerospace, new-energy vehicles and two-wheelers, committing to joint R&D, platform co-development and channel sharing."
-    },
-    {
-      "id": "5001172",
-      "time": "2026-07-22 09:31:42",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【貴金屬板塊盤初走高】貴金屬板塊盤初走高，山金國際、興業銀錫漲超6%，中金黃金、赤峰黃金、紫金礦業跟漲。"
-    },
-    {
-      "id": "mkt:019f8773-1dd7-7aab-8e36-9f148cb985d2",
-      "time": "2026-07-22 09:31:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "A-share oil and petrochemicals sector opened higher; Keli Co. rose more than 8%, with Tongyuan Petroleum, Zhongman Petroleum, Qianneng Hengxin, CNOOC and Taishan Petroleum also gaining. The Islamic Revolutionary Guard Corps (IRGC) said punitive actions against aggressors continue; earlier the US conducted strikes on Iran for an 11th consecutive night."
-    },
-    {
-      "id": "mkt:019f8772-df92-7aab-8e36-91fdc93e63fc",
-      "time": "2026-07-22 09:31:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China bond futures open】China bond futures opened this morning: 2-year bond futures (TS) most-active contract unchanged; 5-year bond futures (TF) most-active contract unchanged; 10-year bond futures (T) most-active contract unchanged; 30-year bond futures (TL) most-active contract down 0.02%."
-    },
-    {
-      "id": "mkt:019f8772-c6b5-7aab-8e36-8cb7d2ee1d41",
-      "time": "2026-07-22 09:31:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【China stock-index futures open modestly higher】China stock-index futures opened modestly higher in morning trade: CSI 300 (IF) main contract +0.13%, SSE 50 (IH) main +0.13%, CSI 500 (IC) main +0.24%, CSI 1000 (IM) main +0.08%."
-    },
-    {
-      "id": "mkt:019f8772-6f58-7aab-8e36-8422178d6062",
-      "time": "2026-07-22 09:30:51",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bearish",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "【China public procurement totals 44 trillion yuan in 2025】The China Federation of Logistics & Purchasing (CFLP) released its China Public Procurement Development Report (2025) on the 22nd, showing national public procurement of 44 trillion yuan in 2025, down 2.22% YoY. The report states the public procurement market experienced a modest overall contraction while its structure continued to improve."
-    },
-    {
-      "id": "5001171",
-      "time": "2026-07-22 09:30:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德國英飛凌到無錫深化對接合作】據“無錫釋出”，7月21日，無錫市委書記杜小剛與來錫深化對接合作的德國英飛凌科技監事會主席、太陽資本創始人賀伯特・迪斯一行會談，雙方就進一步加強務實合作進行深入交流。雙方將繼續深耕積體電路等傳統合作領域，進一步加強本地產業鏈、供應鏈協同，牽引帶動更多生態圈企業在錫集聚。同時，牢牢把握人工智慧發展的重大機遇，加強具身智慧、商業航天、新能源汽車和兩輪車等新興領域合作，深入開展技術共研、平臺共建、渠道共享。"
-    },
-    {
-      "id": "5001170",
-      "time": "2026-07-22 09:30:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2025年全國公共採購總額44萬億元】中國物流與採購聯合會今天（22日）釋出《中國公共採購發展報告（2025）》。根據報告，2025年公共採購總額為44萬億元，同比下降2.22%。2025年，公共採購市場總體呈現總量小幅收縮、結構持續最佳化的態勢。"
-    },
-    {
-      "id": "5001169",
-      "time": "2026-07-22 09:30:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超2%，現報4718.270點；恒生指數現跌1.143%。"
-    },
-    {
-      "id": "5001168",
-      "time": "2026-07-22 09:30:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國石油上半年乙烯產量創歷史新高】據中國石油訊息，今年上半年，中國石油乙烯產量同比增長21%，創歷史新高，為穩定國內化工市場供給、保障化工產業鏈供應鏈安全築牢堅實基礎。"
-    },
-    {
-      "id": "5001167",
-      "time": "2026-07-22 09:30:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數跌超1%，現報24877.590點；恒生科技指數現跌1.770%。"
-    },
-    {
-      "id": "5001166",
-      "time": "2026-07-22 09:30:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤下跌0.25%。正帆轉債、路維轉債、春23轉債、銀輪轉債、泰坦轉債跌幅居前，分別跌3.91%、3.28%、2.78%、2.74%、2.62%。鼎通轉債、金楊轉債、三江轉債、金誠轉債、火星轉債漲幅居前，分別漲7.92%、2.74%、2.25%、1.69%、1.63%。"
-    },
-    {
-      "id": "mkt:019f8771-c3fd-7aab-8e36-7b441c486245",
-      "time": "2026-07-22 09:30:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CNPC 1H ethylene production up 21% YoY, hits record high】CNPC said ethylene production rose 21% YoY in 1H to a record high, strengthening domestic chemical market supply and underpinning petrochemical industry supply‑chain security."
-    },
-    {
-      "id": "5001165",
-      "time": "2026-07-22 09:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.49%，成分股中，阿特斯跌3.69%，華海清科跌3.13%，中微公司跌3.08%，國博電子跌3.05%。"
-    },
-    {
-      "id": "5001164",
-      "time": "2026-07-22 09:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超1%，現報4763.870點；恒生指數現跌0.610%。"
-    },
-    {
-      "id": "5001163",
-      "time": "2026-07-22 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.01%， 10年期主力合約跌0.02%， 5年期主力合約基本持平， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "5001162",
-      "time": "2026-07-22 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.09%， 滬深300指數期貨連續跌0.23%， 中證500指數期貨連續基本持平， 上證50指數期貨連續跌0.67%。"
-    },
-    {
-      "id": "5001161",
-      "time": "2026-07-22 09:29:27",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【於東來：胖東來禁止員工相互借錢行為】7月21日晚，於東來發文稱，胖東來禁止員工相互借錢行為。"
-    },
-    {
-      "id": "mkt:019f8770-9df9-7aab-8e36-71e55d4cb222",
-      "time": "2026-07-22 09:28:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "06082.HK",
-        "Impact bullish",
-        "00981.HK",
-        "01347.HK"
-      ],
-      "text": "HK-listed chip stocks opened higher after reports TSMC will raise wafer prices from 2027. Biren Technology (06082.HK) rose more than 5%; GigaDevice (03986.HK) and Innosilicon (02577.HK) gained over 3%; Montage Technology (06809.HK), SMIC (00981.HK) and Hua Hong Semiconductor (01347.HK) also advanced. Sources say TSMC plans base price increases of up to 10% for advanced and mature process nodes, with incremental orders for some AI high-performance‑computing chips potentially subject to larger uplifts."
-    },
-    {
-      "id": "5001160",
-      "time": "2026-07-22 09:28:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股人工智慧相關個股走強 智譜漲近7%】截至發稿，智譜(02513.HK)漲6.64%，兆易創新(03986.HK)漲3.18%，瀾起科技(06809.HK)漲1.94%。"
-    },
-    {
-      "id": "te:markets:568668",
-      "time": "2026-07-22 09:28:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "EU Gas Prices Climb as Middle East Tensions Persist — European natural gas prices rose to above €60 per MWh on Tuesday, hitting a fresh four-month high as the US and Iran continued to exchange strikes while President Donald Trump downplayed the likelihood of imminent talks. Trump said Iran “desperately wants to meet” but added that the US had no interest in talks. Iran, however, rejected these claims. Trump also warned of retaliation if Iran-backed Houthi rebels disrupted shipping in the Red Sea and renewed threats to strike Pickaxe Mountain, a suspected Iranian nuclear facility. The escalating conflict has disrupted tanker traffic through the Strait of Hormuz and curtailed LNG exports from the Gulf, fueling concerns over tighter global gas supplies. Europe is currently in the process of refilling storage facilities ahead of the heating season, and reduced LNG availability from the Gulf could force the bloc into more intense and costly competition with Asian buyers for available cargoes."
-    },
-    {
-      "id": "5001159",
-      "time": "2026-07-22 09:28:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "港股儲存概念集體高開，南方兩倍做多海力士大漲近15%，南方兩倍做多三星電子漲超10%，兆易創新漲超3%，瀾起科技漲近2%。"
     }
   ]
 }

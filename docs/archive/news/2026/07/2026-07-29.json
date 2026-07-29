@@ -1,7 +1,213 @@
 {
   "date": "2026-07-29",
-  "count": 771,
+  "count": 792,
   "items": [
+    {
+      "id": "mkt:019fab7f-686e-7aab-8ed9-7b632ea24d18",
+      "time": "2026-07-29 09:31:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China stock index futures open higher】CSI 300 index futures (IF) main contract up 0.70%; SSE 50 index futures (IH) main contract up 0.64%; CSI 500 index futures (IC) main contract up 0.71%; CSI 1000 index futures (IM) main contract up 0.44%."
+    },
+    {
+      "id": "mkt:019fab7f-4d2c-7aab-8ed9-72403026329c",
+      "time": "2026-07-29 09:31:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures open】At the morning open, China 2-year government bond futures (TS) most-active contract was flat; 5-year (TF) flat; 10-year (T) flat; 30-year (TL) up 0.04%."
+    },
+    {
+      "id": "5013325",
+      "time": "2026-07-29 09:31:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元下跌，因第二季度通脹資料不及預期。"
+    },
+    {
+      "id": "5013324",
+      "time": "2026-07-29 09:30:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞第二季度消費者價格環比增長0.6%】澳大利亞第二季度消費者價格環比增長0.6%，預估為0.7%。"
+    },
+    {
+      "id": "mkt:019fab7e-dcdb-7aab-8ed9-6f10a95ab04f",
+      "time": "2026-07-29 09:30:45",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia Q2 CPI (QoQ) 0.6% vs est. 0.70%; prior 1.40%."
+    },
+    {
+      "id": "mkt:019fab7e-b22e-7aab-8ed9-638fc1fce36a",
+      "time": "2026-07-29 09:30:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | CPI (QoQ) (Q2) | actual 0.6% | consensus 0.70% | previous 1.40%"
+    },
+    {
+      "id": "5013323",
+      "time": "2026-07-29 09:30:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凡拓數創在北京成立具身智慧科技公司】企查查APP顯示，近日，凡拓具身智慧科技（北京）有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；計算機系統服務等。企查查股權穿透顯示，該公司由凡拓數創全資持股。"
+    },
+    {
+      "id": "5013322",
+      "time": "2026-07-29 09:30:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "中際旭創高開0.77%，訊息面上，公司董事長兼總裁提議40億元至80億元回購公司股份。"
+    },
+    {
+      "id": "5013321",
+      "time": "2026-07-29 09:30:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報25568.510點；恒生科技指數現漲1.190%。"
+    },
+    {
+      "id": "mkt:019fab7e-5fb2-7aab-8ed9-580771c1850d",
+      "time": "2026-07-29 09:30:13",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Australia June CPI (not seasonally adjusted) MoM -0.1% vs 0.2% expected; prior -0.7%."
+    },
+    {
+      "id": "5013320",
+      "time": "2026-07-29 09:30:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞6月未季調CPI月率 -0.1%，預期0.2%，前值-0.7%。"
+    },
+    {
+      "id": "mkt:019fab7e-50e9-7aab-8ed9-5636a0bf5210",
+      "time": "2026-07-29 09:30:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Australia June CPI (non-seasonally adjusted) YoY 3.8% vs. 4.0% expected, 4.0% prior."
+    },
+    {
+      "id": "5013319",
+      "time": "2026-07-29 09:30:08",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞6月未季調CPI年率 3.8%，預期4%，前值4.00%。"
+    },
+    {
+      "id": "te:markets:570549",
+      "time": "2026-07-29 09:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Hong Kong Hit 8-week High — HK50 increased to 25557.00 Index Points, the highest since June 2026. Over the past 4 weeks, Hong Kong Stock Market Index (HK50) gained 11.83%, and in the last 12 months, it increased 1.63%."
+    },
+    {
+      "id": "5013318",
+      "time": "2026-07-29 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.66%， 滬深300指數期貨連續漲0.53%， 中證500指數期貨連續漲0.75%， 上證50指數期貨連續漲0.70%。"
+    },
+    {
+      "id": "5013317",
+      "time": "2026-07-29 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.05%， 10年期主力合約漲0.02%， 5年期主力合約漲0.01%， 2年期主力合約跌0.02%。"
+    },
+    {
+      "id": "mkt:019fab7d-d9f2-7aab-8ed9-4f859d22d02a",
+      "time": "2026-07-29 09:29:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Qian'an Technology opened up 105.76% on its A-share debut and is trading at 50.00 yuan; IPO price was 24.30 yuan."
+    },
+    {
+      "id": "te:markets:570548",
+      "time": "2026-07-29 09:29:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Trades Near Multi-Month Lows — Platinum futures traded around $1,600 an ounce, near late-November lows, pressured by weakness across precious metals amid persistent hostilities in the Middle East. The conflict kept inflation risks in focus and reinforced expectations that interest rates could stay higher for longer, weighing on non-yielding assets such as platinum. Investors now await the Federal Reserve's policy decision, where rates are widely expected to remain unchanged. Still, markets see about a one-third chance of a rate hike this week and roughly an 80% chance of another increase in September. The platinum market was also weighed down by expectations for softer industrial and automotive demand despite the tight supply outlook. The ongoing shift toward electric vehicles, which do not require autocatalysts, has clouded demand prospects even as the platinum market is forecast to post a fourth straight annual supply deficit due to constrained mine supply and declining above-ground inventories."
+    },
+    {
+      "id": "mkt:019fab7c-8ddc-7aab-8ed9-422b68ad0492",
+      "time": "2026-07-29 09:28:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "At the open Wednesday July 29, China’s CSI 300 Index rose 0.28% to 4,582.09, the Shanghai Composite Index gained 0.26% to 3,823.29, the Shenzhen Composite fell 0.08% to 13,498.75, the ChiNext Index added 0.19% to 3,333.48 and the STAR 50 Index rose 0.66% to 1,704.58."
+    },
+    {
+      "id": "5013316",
+      "time": "2026-07-29 09:28:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【千岸科技上市首日開盤大漲超105%】千岸科技上市首日開盤漲105.76%，現報50.00元，該股發行價為24.30元。"
+    },
+    {
+      "id": "mkt:019fab7c-5220-7aab-8ed9-3f8fabaf635d",
+      "time": "2026-07-29 09:27:59",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC nets 730.5 bln yuan via reverse repos】PBOC conducted 206.5 bln yuan of 7-day reverse repos and 600 bln yuan of overnight reverse repos today; 76 bln yuan of 7-day reverse repos matured, leaving a net liquidity injection of 730.5 bln yuan."
+    },
     {
       "id": "mkt:019fab7b-3fe3-7aab-8ed9-3289ca88b8a2",
       "time": "2026-07-29 09:26:48",
