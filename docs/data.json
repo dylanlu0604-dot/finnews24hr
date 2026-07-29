@@ -1,7 +1,101 @@
 {
-  "updated": "2026-07-29 10:41:18",
-  "count": 17620,
+  "updated": "2026-07-29 10:45:15",
+  "count": 17624,
   "items": [
+    {
+      "id": "mkt:019fabc2-5ce8-7aab-8edc-4fc4fe266e46",
+      "time": "2026-07-29 10:44:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【KOSPI falls 6%; finance minister says government reviewing market-stabilization measures】South Korea’s finance minister Koo Jun-cheol said on Wednesday the government is internally studying measures to stabilise markets after the KOSPI fell 6%. Speaking in the National Assembly he said further adjustments to rules on single-stock leveraged ETFs to address volatility are possible."
+    },
+    {
+      "id": "mkt:019fabc2-2d0b-7aab-8edc-4165fdbcc541",
+      "time": "2026-07-29 10:44:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iraqi PMF condemns US-Saudi airstrikes as \"dangerous escalation\"】Iraq's Popular Mobilization Forces (PMF) said US and Saudi airstrikes struck multiple PMF headquarters across Iraq, causing casualties and damage to facilities. The PMF called the attacks an \"extremely dangerous escalation\" and a violation of Iraqi sovereignty and state security institutions. It said authorities are monitoring the situation and conducting damage and casualty assessments."
+    },
+    {
+      "id": "5013508",
+      "time": "2026-07-29 10:43:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI的ChatGPT周活躍使用者數接近10億】據OpenAI內部披露的資訊，該公司旗下聊天機器人周活躍使用者量即將突破10億大關。這一里程碑原本是企業計劃在去年年底達成的目標。儘管比原定預期晚了七個月才有望實現該目標，但ChatGPT上線不足四年就積累如此龐大的使用者規模，即便不算增速第一，也屬於網際網路應用中增長速度最快的產品之一。公司發言人對此未予置評。ChatGPT使用者增長放快取在多重因素：一方面是谷歌Gemini人工智慧的崛起，該模型正持續深度整合坐擁數十億使用者的谷歌網頁搜尋引擎；另一方面，去年秋季OpenAI推出GPT-5時，周活躍使用者增長便出現下滑——這款模型研發過程一波三折，上線後還遭到大量使用者詬病。此外，多家調研機構的資料顯示，自那以後，Anthropic公司的克勞德（Claude）聊天機器人也分走了一部分聊天機器人市場份額。"
+    },
+    {
+      "id": "5013507",
+      "time": "2026-07-29 10:43:35",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國臺辦回應島內旅遊業者稱到大陸玩擋不住】國務院臺辦舉行例行新聞釋出會。有記者問：近段時間以來，臺灣民眾赴大陸旅遊形成熱潮，有島內旅遊業者表示，大陸距離相近、風光明媚、語言相通、生活便利、物價便宜等各種優勢，到大陸玩根本是擋不住的趨勢，就算政治立場偏綠也照去不誤，“抗中是口號，親中才是日常”，引發兩岸網友點贊好評。請問對此有何評論？發言人陳斌華表示，臺灣同胞是中華民族一分子，愛我中華是發自內心的情感流露，“反中抗中”是違揹人性的政治操弄，難以得逞、長久不了。我們熱誠歡迎臺灣同胞多來走走看看，在暢遊名山大川、探訪歷史古蹟、見證發展新貌的同時，增強身為中國人的驕傲和自豪。"
+    },
+    {
+      "id": "mkt:019fabc1-3216-7aab-8edc-38cc88637ec9",
+      "time": "2026-07-29 10:43:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Taiwan Affairs Office says mainland fishery survey east of Taiwan lawful】July 29 — The Taiwan Affairs Office said a Chinese Academy of Fishery Sciences research vessel conducted a lawful scientific fishery-resources survey in waters east of Taiwan from July 17–23 to assess stocks and support conservation and sustainable development. The office said the survey benefits both sides and accused Taiwan’s Democratic Progressive Party of baseless criticism, calling calls to increase maritime force spending politically motivated attempts to provoke cross-strait confrontation."
+    },
+    {
+      "id": "te:markets:570586",
+      "time": "2026-07-29 10:42:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Rises to Nearly 3-Month High — The South Korean won strengthened to around 1,451 per dollar in late July, reaching its highest level since early May, supported by expectations for tighter monetary policy and improved domestic fundamentals. The Bank of Korea reiterated that maintaining a tightening stance remains necessary amid persistent inflation pressures, following its recent rate hike to 2.75%, while highlighting stronger exports and investment as factors supporting continued economic growth. The currency also received support from SK hynix converting proceeds from its US listing into won, boosting demand for the local currency despite foreign investors selling South Korean equities. Meanwhile, gains were limited by uncertainty surrounding the Federal Reserve's policy outlook, with markets still weighing the possibility of higher US interest rates, while volatility in the global semiconductor market continued to influence broader risk sentiment."
+    },
+    {
+      "id": "5013506",
+      "time": "2026-07-29 10:42:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "國臺辦：對迫害陸配者將依法終身追責、決不寬貸。"
+    },
+    {
+      "id": "5013505",
+      "time": "2026-07-29 10:41:51",
+      "tags": [
+        "焦點"
+      ],
+      "text": "【國臺辦：大陸在臺東部海域漁業資源調查完全正當合法】7月29日，國務院臺辦舉行例行新聞釋出會。有記者問，近期，大陸“藍海201”科研船在臺灣島東部海域進行漁業資源調查，民進黨當局稱，“對岸動作是為宣稱對該海域有管轄權，惡意進行政治操作及認知作戰”，這類狀況愈來愈多，海巡和臺軍面臨很大挑戰，希望支援相關預算。請問對此有何評論？發言人陳斌華答問表示，7月17日到23日，中國水產科學研究院的科學調查船在臺灣島以東海域開展漁業資源調查，是為全面瞭解中國管轄海域漁業資源狀況，為在該海域開展海洋漁業資源的養護、促進海洋漁業可持續發展提供科學依據，完全正當合法，也是利在兩岸的正常科學調查工作。民進黨當局沒有理由對此說三道四。至於藉機鼓譟“增加海上力量預算”，更是別有用心的政治操弄，企圖挑動兩岸對立對抗。"
+    },
+    {
+      "id": "mkt:019fabbf-5110-7aab-8edc-3014eeab4b10",
+      "time": "2026-07-29 10:41:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【South Korea PM orders crackdown on hoarding as Middle East conflict raises supply concerns】South Korea Prime Minister Han Seung-sook on Wednesday ordered officials to strictly crack down on hoarding, collusion and other market-disrupting behavior, saying repeated conflict in the Middle East has heightened worries about supply tightness. Han said the regional turmoil is spreading and becoming more complex and urged sustained crisis-response efforts; she noted the economy grew 3.8% YoY in 1H. She instructed ministries to limit heatwave damage and ensure stable supplies of agricultural and fisheries products, and said violators would be punished under law."
+    },
+    {
+      "id": "5013504",
+      "time": "2026-07-29 10:40:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為將釋出798g膝上型電腦】7月29日，華為終端官宣將於8月5日釋出華為MateBook Pro S，該機僅重798g，是華為史上最輕的膝上型電腦。"
+    },
     {
       "id": "5013503",
       "time": "2026-07-29 10:40:38",
@@ -161644,64 +161738,6 @@
         "原創"
       ],
       "text": "【韓國散戶再度湧向高風險的差價合約 外界擔心重演2023年暴跌危機】韓國資金雄厚的散戶正湧向一種過去曾造成重大損失的槓桿工具；外界擔心，隨著股市劇烈震盪，相關押注恐遭集中平倉。韓國仍允許帳戶資產達一定門檻的投資人買賣所謂的差價合約(contracts for difference)，美國則是禁止一般散戶交易CFD。韓國金融投資協會的資料顯示，截至週一，這類商品的未平倉部位較一年前大增近三分之二，達約3.3萬億韓元(約22億美元)。CFD之所以受到青睞在於其槓桿效果。投資人只需投入相當於總曝險40%的資金，即可取得最高2.5倍的曝險部位。然而，CFD在2023年因引發市場動盪而遭韓國限制，如今再度捲土重來，時機卻相當敏感。與晶片股掛鉤的槓桿ETF已經加劇市場波動，甚至促使主管機關暫停核准新的單一個股槓桿ETF上市。"
-    },
-    {
-      "id": "mkt:019f87b5-79be-7aab-8e38-8fd8aad7eff7",
-      "time": "2026-07-22 10:44:05",
-      "tags": [
-        "MKT News",
-        "GM.O",
-        "Impact bullish"
-      ],
-      "text": "JP Morgan raises its PT for GM to $120 from $110."
-    },
-    {
-      "id": "5001324",
-      "time": "2026-07-22 10:43:50",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【海南省“十五五”服務業發展規劃：加大擬上市企業培育力度】海南省人民政府辦公廳近日印發《海南省“十五五”服務業發展規劃》，其中提出，拓寬融資渠道。透過專項調研、政策宣講、經驗交流等方式，加大擬上市企業培育力度。擴大直接融資渠道，開展多層次資本市場政策常態化培訓。引導金融機構在依法合規、風險可控前提下，開展基於存貨、訂單、倉單等的動產和權利質押融資。積極引進保險系、銀行系長期耐心資本，積極發展私募股權和創投基金，高質量建設區域性股權市場。發揮國家創業投資引導基金作用，最佳化推廣“創新積分制”。"
-    },
-    {
-      "id": "mkt:019f87b5-238e-7aab-8e38-83a966ed8da3",
-      "time": "2026-07-22 10:43:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "China A-share coal stocks rose on choppy trade; Xindazhou A hit the daily limit, Dayou Energy climbed over 8%, and Zhengzhou Coal & Power, Haohua Energy, Liaoning Energy and Lu'an Huaneng also advanced."
-    },
-    {
-      "id": "5001323",
-      "time": "2026-07-22 10:42:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南省“十五五”服務業發展規劃：金融領域深化合格境外有限合夥人試點 發展綠色金融和離岸貿易】海南省人民政府辦公廳近日印發《海南省“十五五”服務業發展規劃》，其中提出，紮實推進服務業擴大開放綜合試點。電信服務領域健全資料交易與安全體系。醫療康養領域放寬機構合作限制和罕見病藥品進口限制。金融領域深化合格境外有限合夥人（QFLP）試點，發展綠色金融和離岸貿易。商貿文旅領域最佳化跨境電商與國際化消費設施。交通領域打通跨境貨運綠色通道，探索多式聯運新模式。推動製造業與服務業深度融合，培育商業航天、智慧網聯汽車等新興產業鏈。同時最佳化外資外匯管理、簡化口岸流程，放寬外籍人才執業居留限制。完善資料、運輸等重點領域的行業規範，推動國際標準互認銜接。"
-    },
-    {
-      "id": "5001322",
-      "time": "2026-07-22 10:42:10",
-      "tags": [
-        "公司",
-        "其他",
-        "國際"
-      ],
-      "text": "馬斯克：在今年結束之前，Grok Imagine 將製作一部完整長度的《奧德賽》電影，該電影在歷史上準確且忠實於荷馬的藝術。"
-    },
-    {
-      "id": "te:economy:568702",
-      "time": "2026-07-22 10:41:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Holds at 2-Month High — The yield on the US 10-year Treasury note held around 4.63% on Wednesday, hovering at two-month highs as ongoing hostilities between the US and Iran lifted oil prices, heightening concerns over inflation and interest rates. President Donald Trump also downplayed the likelihood of near-term talks with Iran, while Iran-backed Houthi rebels in Yemen disrupted shipping through the Red Sea. Meanwhile, a series of attacks on the Caspian Pipeline Consortium terminal along Russia’s Black Sea coast added to supply concerns. On the economic front, ADP data showed US private employers added an average of 16,500 jobs per week over the four weeks ending July 4, down from an average weekly gain of 19,250 in the prior four-week period, marking a fourth straight slowdown in hiring. Markets widely expect the Federal Reserve to leave interest rates unchanged at next week’s meeting, while pricing in more than a 55% chance of a rate hike in September."
     }
   ]
 }
