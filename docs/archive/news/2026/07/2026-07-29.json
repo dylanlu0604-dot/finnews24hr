@@ -1,7 +1,56 @@
 {
   "date": "2026-07-29",
-  "count": 751,
+  "count": 756,
   "items": [
+    {
+      "id": "5013308",
+      "time": "2026-07-29 09:19:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數回吐早前漲幅，現跌0.6%，報62002.36點。"
+    },
+    {
+      "id": "mkt:019fab73-f167-7aab-8ed9-07ab3637547b",
+      "time": "2026-07-29 09:18:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei index pared earlier gains and is down 0.6% at 62,002.36 points."
+    },
+    {
+      "id": "mkt:019fab72-2c1e-7aab-8ed8-fcf87854ea15",
+      "time": "2026-07-29 09:16:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "South Korea's KOSPI accelerated lower, down about 1% intraday; SK Hynix slid 4.5%, while Samsung Electronics' gains narrowed to under 1%."
+    },
+    {
+      "id": "5013307",
+      "time": "2026-07-29 09:16:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國綜指跌幅擴大至1%】韓國綜指跌幅擴大至1%，現報5957.21點。個股方面，SK海力士跌超4%。"
+    },
+    {
+      "id": "5013306",
+      "time": "2026-07-29 09:15:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗訊息人士否認沙特境內目標受襲與伊朗有關 】伊朗國家電視臺29日援引一名軍事情報官員訊息說，伊朗否認其與他國擊中沙烏地阿拉伯境內目標有任何關聯。 這名軍事情報官員在接受採訪時說：“將任何針對美國在該地區利益的行動都歸咎於伊朗是嚴重誤判，是缺乏對該地區局勢瞭解的結果。” 沙特國防部27日發表宣告說，沙特防空部隊當天攔截並摧毀了數架來自伊拉克方向、企圖襲擊沙特境內石油設施的無人機。"
+    },
     {
       "id": "mkt:019fab70-d95f-7aab-8ed8-f4c6c566ffd2",
       "time": "2026-07-29 09:15:27",

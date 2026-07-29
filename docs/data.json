@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-29 09:16:21",
-  "count": 17566,
+  "updated": "2026-07-29 09:20:13",
+  "count": 17568,
   "items": [
+    {
+      "id": "5013308",
+      "time": "2026-07-29 09:19:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數回吐早前漲幅，現跌0.6%，報62002.36點。"
+    },
+    {
+      "id": "mkt:019fab73-f167-7aab-8ed9-07ab3637547b",
+      "time": "2026-07-29 09:18:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei index pared earlier gains and is down 0.6% at 62,002.36 points."
+    },
+    {
+      "id": "mkt:019fab72-2c1e-7aab-8ed8-fcf87854ea15",
+      "time": "2026-07-29 09:16:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "South Korea's KOSPI accelerated lower, down about 1% intraday; SK Hynix slid 4.5%, while Samsung Electronics' gains narrowed to under 1%."
+    },
+    {
+      "id": "5013307",
+      "time": "2026-07-29 09:16:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國綜指跌幅擴大至1%】韓國綜指跌幅擴大至1%，現報5957.21點。個股方面，SK海力士跌超4%。"
+    },
+    {
+      "id": "5013306",
+      "time": "2026-07-29 09:15:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗訊息人士否認沙特境內目標受襲與伊朗有關 】伊朗國家電視臺29日援引一名軍事情報官員訊息說，伊朗否認其與他國擊中沙烏地阿拉伯境內目標有任何關聯。 這名軍事情報官員在接受採訪時說：“將任何針對美國在該地區利益的行動都歸咎於伊朗是嚴重誤判，是缺乏對該地區局勢瞭解的結果。” 沙特國防部27日發表宣告說，沙特防空部隊當天攔截並摧毀了數架來自伊拉克方向、企圖襲擊沙特境內石油設施的無人機。"
+    },
     {
       "id": "mkt:019fab70-d95f-7aab-8ed8-f4c6c566ffd2",
       "time": "2026-07-29 09:15:27",
@@ -161102,39 +161151,6 @@
         "其他"
       ],
       "text": "央行今日開展760億元7天逆回購操作，投標量760億元，中標量760億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "te:economy:568666",
-      "time": "2026-07-22 09:20:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Australia 10Y Yield Rises to 9-Week High — Australia’s 10-year government bond yield rose toward 5%, reaching its highest level in nine weeks as broader risks to global energy supplies fueled inflation concerns. US President Donald Trump played down the prospect of immediate talks with Iran as the two sides exchanged strikes near the Strait of Hormuz, while Houthi militants in Yemen threatened shipping in the Red Sea. The resulting surge in oil prices reinforced expectations that the Reserve Bank of Australia could tighten policy further after raising the cash rate three times to 4.35%, with markets pricing an 80% chance of another increase by December. Investors now await Australia's June employment report on Thursday, with forecasts pointing to a 15,000 rise in employment and an unchanged 4.4% unemployment rate. Inflation data for the second quarter are also due next week, with core inflation expected to accelerate to 3.7% annually from 3.5%, well above the RBA's target band, reinforcing the risk of another rate hike."
-    },
-    {
-      "id": "mkt:019f8766-f218-7aab-8e36-1efbb04f2b18",
-      "time": "2026-07-22 09:18:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump approves 30-year nuclear cooperation deal with Saudi Arabia】The Wall Street Journal reports President Trump has approved a 30-year US-Saudi nuclear cooperation agreement that would allow Saudi Arabia to develop civil nuclear projects and could permit uranium enrichment on Saudi soil. The deal, reported to be worth billions of dollars, aims to give US companies a dominant role in Saudi nuclear infrastructure and to exclude other foreign competitors; US firms would build enrichment facilities if joint US-Saudi research deems them necessary. Administration officials say the pact is intended to preserve US influence over Riyadh’s nuclear programme and reduce the risk of diversion for military use. The agreement will be sent to Congress for review in coming days and may face opposition from lawmakers citing proliferation risks amid regional instability."
-    },
-    {
-      "id": "mkt:019f8766-8ead-7aab-8e36-15b15fbd2448",
-      "time": "2026-07-22 09:17:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Main precious metals futures were stronger: Shanghai gold 2608 +2.20% at 898.58 yuan/gram; Shanghai silver 2610 +4.64% at 14,650 yuan/kg; platinum 2610 +3.42% at 413.2 yuan/gram; palladium 2610 +3.29% at 312.5 yuan/gram."
     }
   ]
 }
