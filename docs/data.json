@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-29 23:35:30",
-  "count": 17445,
+  "updated": "2026-07-29 23:39:24",
+  "count": 17444,
   "items": [
+    {
+      "id": "5014872",
+      "time": "2026-07-29 23:37:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "土耳其央行與敘利亞央行簽署里拉存款賬戶合作協議。"
+    },
+    {
+      "id": "5014871",
+      "time": "2026-07-29 23:37:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "前美聯儲高階顧問喬恩·福斯特：認為美聯儲今日不會加息；同意FOMC副主席約翰·威廉姆斯的觀點，即“透過刻意讓市場意外來賺取信譽紅利的可能性不會發揮作用”。"
+    },
+    {
+      "id": "mkt:019fae85-aa92-7aab-8eef-1fcb44b7bbb9",
+      "time": "2026-07-29 23:37:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CENTCOM says the Strait of Hormuz remains open to international transit and the U.S. military is supporting safe passage. Since May, CENTCOM forces have assisted roughly 1,000 vessels and the transit of about 500 million barrels of oil."
+    },
+    {
+      "id": "mkt:019fae85-0d27-7aab-8eef-12b784258c9a",
+      "time": "2026-07-29 23:36:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media reported an Israeli official said Netanyahu told Trump the goal is to prevent Iran from obtaining a nuclear weapon and that he does not intend to push a military option."
+    },
+    {
+      "id": "mkt:019fae84-fb11-7aab-8eef-0c2a0498ac0f",
+      "time": "2026-07-29 23:36:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Former Federal Reserve senior adviser Jon Faust said he does not expect the Fed to raise rates today and agreed with FOMC vice chair John Williams that \"the tactic of deliberately surprising markets to gain credibility will not work.\""
+    },
+    {
+      "id": "5014870",
+      "time": "2026-07-29 23:34:58",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率3.875%，投標倍數3.04。"
+    },
     {
       "id": "5014869",
       "time": "2026-07-29 23:34:30",
@@ -160201,69 +160265,6 @@
         "公司"
       ],
       "text": "捷克總理巴比什表示，政府或於2028年將布拉格機場40%的股份在股市發行上市。"
-    },
-    {
-      "id": "5002811",
-      "time": "2026-07-22 23:39:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部長：預測伊朗衝突將持續多久十分困難，但霍爾木茲海峽地區的緊張局勢持續下去並不符合伊朗和美國的利益。"
-    },
-    {
-      "id": "5002810",
-      "time": "2026-07-22 23:38:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿斯頓馬丁：新增1億英鎊次級融資債務額度獲批。"
-    },
-    {
-      "id": "5002809",
-      "time": "2026-07-22 23:37:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：將投入價值300萬美元的API資源，支援兩大科研專案，藉助前沿大模型針對重大科學難題開展測試。"
-    },
-    {
-      "id": "mkt:019f8a79-a775-7aab-8e4d-3e179858dd6b",
-      "time": "2026-07-22 23:37:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI will provide $4 mln worth of CODEX access to about 2,000 \"Genesis Mission\" researchers at national labs and universities."
-    },
-    {
-      "id": "mkt:019f8a79-2132-7aab-8e4d-352686701358",
-      "time": "2026-07-22 23:37:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "European equities closed higher on Wednesday, July 22: Germany's DAX rose 167.79 points (+0.67%) to 25,160.16; the UK's FTSE 100 gained 127.96 points (+1.21%) to 10,713.87; France's CAC 40 added 74.75 points (+0.89%) to 8,437.89. The Stoxx Europe 50 advanced 32.62 points (+0.52%) to 6,318.25; Spain's IBEX 35 climbed 190.82 points (+0.98%) to 19,569.62; Italy's FTSE MIB increased 499.91 points (+0.96%) to 52,785.00."
-    },
-    {
-      "id": "mkt:019f8a79-019e-7aab-8e4d-2b6a26cd6aac",
-      "time": "2026-07-22 23:36:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI will provide research participants up to $10m in API usage credits and will spend $2.5m of its own funds."
-    },
-    {
-      "id": "5002808",
-      "time": "2026-07-22 23:35:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：將向國家實驗室和高校約2000名“創世紀”（Genesis）計劃研究人員提供價值400萬美元的Codex使用許可權。"
     }
   ]
 }

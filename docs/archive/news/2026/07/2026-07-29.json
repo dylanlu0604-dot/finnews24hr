@@ -1,7 +1,71 @@
 {
   "date": "2026-07-29",
-  "count": 3038,
+  "count": 3044,
   "items": [
+    {
+      "id": "5014872",
+      "time": "2026-07-29 23:37:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "土耳其央行與敘利亞央行簽署里拉存款賬戶合作協議。"
+    },
+    {
+      "id": "5014871",
+      "time": "2026-07-29 23:37:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "前美聯儲高階顧問喬恩·福斯特：認為美聯儲今日不會加息；同意FOMC副主席約翰·威廉姆斯的觀點，即“透過刻意讓市場意外來賺取信譽紅利的可能性不會發揮作用”。"
+    },
+    {
+      "id": "mkt:019fae85-aa92-7aab-8eef-1fcb44b7bbb9",
+      "time": "2026-07-29 23:37:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CENTCOM says the Strait of Hormuz remains open to international transit and the U.S. military is supporting safe passage. Since May, CENTCOM forces have assisted roughly 1,000 vessels and the transit of about 500 million barrels of oil."
+    },
+    {
+      "id": "mkt:019fae85-0d27-7aab-8eef-12b784258c9a",
+      "time": "2026-07-29 23:36:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media reported an Israeli official said Netanyahu told Trump the goal is to prevent Iran from obtaining a nuclear weapon and that he does not intend to push a military option."
+    },
+    {
+      "id": "mkt:019fae84-fb11-7aab-8eef-0c2a0498ac0f",
+      "time": "2026-07-29 23:36:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Former Federal Reserve senior adviser Jon Faust said he does not expect the Fed to raise rates today and agreed with FOMC vice chair John Williams that \"the tactic of deliberately surprising markets to gain credibility will not work.\""
+    },
+    {
+      "id": "5014870",
+      "time": "2026-07-29 23:34:58",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率3.875%，投標倍數3.04。"
+    },
     {
       "id": "5014869",
       "time": "2026-07-29 23:34:30",
