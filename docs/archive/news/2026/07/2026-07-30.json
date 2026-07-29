@@ -1,7 +1,87 @@
 {
   "date": "2026-07-30",
-  "count": 659,
+  "count": 667,
   "items": [
+    {
+      "id": "mkt:019faf81-96e7-7aab-8ef8-e12e0f44444e",
+      "time": "2026-07-30 04:12:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Meta Platforms (META.O) narrowed its 2026 capital expenditure outlook to $130–145 bln from $125–145 bln previously."
+    },
+    {
+      "id": "te:markets:570869",
+      "time": "2026-07-30 04:11:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Lam Research earnings above expectations at 1.82 USD — Lam Research (LRCX) released earnings per share at 1.82 USD, compared to market expectations of 1.68 USD."
+    },
+    {
+      "id": "5015204",
+      "time": "2026-07-30 04:10:54",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "微軟第二季度每股收益4.81美元，調整後每股收益4.74美元，高於預期4.25美元；營收900.1億美元，超出預期877.2億美元；營業利潤406.0億美元，高於預期390.2億美元。"
+    },
+    {
+      "id": "5015203",
+      "time": "2026-07-30 04:10:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克：預計全年調整後運營利潤率超過11％，預估10.9％。"
+    },
+    {
+      "id": "mkt:019faf80-2d21-7aab-8ef8-db99ec9e1092",
+      "time": "2026-07-30 04:10:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "Microsoft (MSFT.O) reported Q4 free cash flow of $19.6 billion, down 23%."
+    },
+    {
+      "id": "mkt:019faf7e-fafc-7aab-8ef8-d4819a5d86fe",
+      "time": "2026-07-30 04:09:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) said Azure and other cloud services revenue rose 43% YoY in its fourth fiscal quarter, excluding currency effects, beating estimates."
+    },
+    {
+      "id": "5015202",
+      "time": "2026-07-30 04:09:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Meta第二季度營業利潤下滑8.2%】Meta第二季度營業利潤187.8億美元，同比下滑8.2%；廣告營收593.6億美元，應用家族總營收603.7億美元，兩項均超出預期；但應用家族業務營業利潤233.9億美元，低於市場預期261.1億美元；現實實驗室營收4.31億美元好於預期，虧損擴大至46.2億美元，市場預期虧損44.5億美元。"
+    },
+    {
+      "id": "5015201",
+      "time": "2026-07-30 04:08:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Meta上調全年費用指引 】Meta上調全年費用指引至1650億–1690億美元，資本開支指引上調至1300億–1450億美元，兩項指引區間下限均抬升；二季度包含5月裁員產生的11.8億美元遣散費；業績展望計入24億美元法律相關支出；6月日均活躍使用者均值36億。"
+    },
     {
       "id": "mkt:019faf7d-b1bc-7aab-8ef8-c921784838bf",
       "time": "2026-07-30 04:07:57",
