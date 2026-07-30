@@ -1,7 +1,192 @@
 {
   "date": "2026-07-30",
-  "count": 2500,
+  "count": 2519,
   "items": [
+    {
+      "id": "mkt:019fb24d-8d24-7aab-8f0b-7926ff243f52",
+      "time": "2026-07-30 17:14:14",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【Eurozone Q2 GDP beats expectations】Eurostat said on Thursday Eurozone GDP rose 1.0% YoY and 0.4% QoQ in Q2, both above market forecasts. While most forecasters still expect full-year growth below 1% after a year hit by soaring energy costs, the report shows pockets of strength: corporate investment in AI is accelerating, household consumption remains resilient and the long-slumping industrial sector displayed unexpected resilience to high energy costs and likely contributed to growth. Capital Economics economist Andrew Kenningham said the bloc should better withstand energy shocks from tensions with Iran and expects quarterly GDP growth of about 0.25% over the next year, adding that if energy prices stay elevated downside risks would remain but could be smaller than widely expected."
+    },
+    {
+      "id": "5016456",
+      "time": "2026-07-30 17:14:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "BERNSTEIN將微軟目標價從646美元上調至647美元。"
+    },
+    {
+      "id": "5016455",
+      "time": "2026-07-30 17:13:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：兩年後我會負責恢復稅率。"
+    },
+    {
+      "id": "mkt:019fb24c-f984-7aab-8f0b-7308aa8ddbec",
+      "time": "2026-07-30 17:13:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Prime Minister Takaichi said she will review potential revenue sources, including tapping foreign exchange reserves, boosting non-tax revenues and reforming public spending."
+    },
+    {
+      "id": "5016453",
+      "time": "2026-07-30 17:13:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝萊德對李寧的多頭持倉比例增至7.13%】據香港交易所披露，貝萊德（BlackRock）對李寧有限公司的多頭持倉比例於2026年7月27日從6.81%增至7.13%。"
+    },
+    {
+      "id": "mkt:019fb24c-962d-7aab-8f0b-6b4799253a84",
+      "time": "2026-07-30 17:13:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Russian Defence Ministry said it had seized Chernihivka in Ukraine's Donetsk region, Maraslovydka and Mokhrytsia in Sumy region, and Yurchenkov in Kharkiv region."
+    },
+    {
+      "id": "mkt:019fb24c-691b-7aab-8f0b-62a0ccddc6db",
+      "time": "2026-07-30 17:12:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Prime Minister TAKAICHI said she will fund temporary tax cuts without issuing government bonds to preserve market confidence."
+    },
+    {
+      "id": "te:economy:571161",
+      "time": "2026-07-30 17:12:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Croatia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Croatia Retail Growth Weakest Since 2023 — Retail sales in Croatia rose by 0.4% year-on-year in June 2026, easing slightly from a 0.5% increase in the previous month, remaining the weakest growth since March 2023. Sales of automotive fuels and lubricants fell at a faster pace (-12.9% vs. -11.8% in May). Moreover, retail sales via the internet or mail order declined sharply (-3.2% vs. 3.6%). On the other hand, sales increased for food, beverages, and tobacco (2.9% vs. 1.9%), while sales of non-food products excluding automotive fuels and lubricants rose after remaining flat in the previous month (at 1.5%). On a monthly basis, retail trade grew by 1.5% in June, rebounding from a 2.0% decline in the preceding month. For the January–June period, retail sales increased by 1.9% compared with the same period a year earlier."
+    },
+    {
+      "id": "5016452",
+      "time": "2026-07-30 17:12:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：將不會透過發行債券來為臨時減稅籌資，以維護市場信任。"
+    },
+    {
+      "id": "5016451",
+      "time": "2026-07-30 17:12:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部訊息稱，俄軍已控制烏克蘭頓涅茨克地區的切爾尼希夫卡、蘇梅地區的馬拉斯洛比德卡與莫赫裡齊亞，以及哈爾科夫地區的尤爾琴科韋。"
+    },
+    {
+      "id": "te:economy:571160",
+      "time": "2026-07-30 17:12:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Cyprus",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Cyprus Industrial Output Growth Eases Further in May — Industrial production in Cyprus inched up 0.5% year-on-year in May 2026, slowing from an upwardly revised 1.9% increase in the previous month. The deceleration reflected weaker activity across mining and quarrying (0.5% vs. 4.5% in April), manufacturing (0.8% vs. 0.9%), mainly due to slower output of basic metals and fabricated metal products, electricity supply (0.0% vs. 8.3%), and water collection, treatment and supply (10.1% vs. 15.2%). Meanwhile, water supply reversed into contraction (-3.4% vs. 4.3%), while materials recovery remained in decline, with output falling at a steeper pace (-19.6% vs. -9.1%). For the January-May period, industrial output grew 1.5% compared with the corresponding period of the previous year."
+    },
+    {
+      "id": "5016450",
+      "time": "2026-07-30 17:12:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：將考慮為受減稅影響的餐館提供支援。"
+    },
+    {
+      "id": "mkt:019fb24b-46ea-7aab-8f0b-5aee89e7f8cd",
+      "time": "2026-07-30 17:11:45",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Prime Minister TAKAICHI expects a food sales-tax relief plan to receive cabinet approval in early August."
+    },
+    {
+      "id": "5016449",
+      "time": "2026-07-30 17:11:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【愛奇藝釋出創作者平臺品牌和六大服務體系】7月23日，在青海西寧第二十屆FIRST青年電影展期間，愛奇藝舉辦創作者生態工坊專場活動，正式釋出創作者平臺品牌——“+你，更快樂”，同步上線愛奇藝創作者平臺入口“Q+”，並推出六大服務體系，全面賦能AIGC創作者。這標誌著愛奇藝AI影視創作者生態建設邁入新階段。（新華社）"
+    },
+    {
+      "id": "5016448",
+      "time": "2026-07-30 17:11:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【完美世界高階副總裁、總編輯伊迪：公司持續加碼全新自研原創IP佈局，《異環》實現多維度突破性創新】今日，2026中國國際數字娛樂產業大會（CDEC）高峰論壇在上海舉行。會上，完美世界高階副總裁、總編輯伊迪發表演講，強調增強原始創新能力、提高系統創新水平的重要性。同時，他表示，公司正持續加碼全新自研原創IP佈局，蘇州幻塔工作室打造的《異環》，實現了多維度突破性創新。（新浪科技）"
+    },
+    {
+      "id": "5016447",
+      "time": "2026-07-30 17:11:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖南省港航水利集團黨委委員兼省水電設計院黨委書記、總經理周新章被查】7月30日，據三湘風紀網，湖南省港航水利集團有限公司黨委委員兼省水利水電勘測設計規劃研究總院有限公司黨委書記、執行董事、總經理周新章涉嫌嚴重違紀違法，主動向組織交代問題，目前正接受湖南省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5016446",
+      "time": "2026-07-30 17:10:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中捷精工：為子公司提供5300萬元擔保 剩餘可用額度2380萬元】中捷精工公告稱，為滿足子公司資金需求，公司近日分別與寧波銀行無錫分行、招商銀行無錫分行簽訂擔保合同，為灝昕汽車、煙臺通吉提供連帶責任保證，擔保債權本金分別最高為3000萬元、2300萬元。本次提供擔保後，公司對灝昕汽車、煙臺通吉剩餘可用擔保額度分別為1000萬元、1380萬元。截至公告披露日，公司累計擬對外擔保額度2.76億元，佔淨資產的38.02%；擔保總餘額2.08億元，佔28.66%。"
+    },
+    {
+      "id": "mkt:019fb24a-405d-7aab-8f0b-51d277a83253",
+      "time": "2026-07-30 17:10:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "Evercore ISI removed Meta Platforms (META.O) from its preferred-stock list, retained an OUTPERFORM rating and cut its price target to $820 from $930."
+    },
+    {
+      "id": "5016445",
+      "time": "2026-07-30 17:10:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：將在預算過程中審查收入和支出。"
+    },
     {
       "id": "5016444",
       "time": "2026-07-30 17:10:05",

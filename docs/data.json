@@ -1,7 +1,192 @@
 {
-  "updated": "2026-07-30 17:10:48",
-  "count": 17878,
+  "updated": "2026-07-30 17:14:47",
+  "count": 17879,
   "items": [
+    {
+      "id": "mkt:019fb24d-8d24-7aab-8f0b-7926ff243f52",
+      "time": "2026-07-30 17:14:14",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【Eurozone Q2 GDP beats expectations】Eurostat said on Thursday Eurozone GDP rose 1.0% YoY and 0.4% QoQ in Q2, both above market forecasts. While most forecasters still expect full-year growth below 1% after a year hit by soaring energy costs, the report shows pockets of strength: corporate investment in AI is accelerating, household consumption remains resilient and the long-slumping industrial sector displayed unexpected resilience to high energy costs and likely contributed to growth. Capital Economics economist Andrew Kenningham said the bloc should better withstand energy shocks from tensions with Iran and expects quarterly GDP growth of about 0.25% over the next year, adding that if energy prices stay elevated downside risks would remain but could be smaller than widely expected."
+    },
+    {
+      "id": "5016456",
+      "time": "2026-07-30 17:14:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "BERNSTEIN將微軟目標價從646美元上調至647美元。"
+    },
+    {
+      "id": "5016455",
+      "time": "2026-07-30 17:13:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：兩年後我會負責恢復稅率。"
+    },
+    {
+      "id": "mkt:019fb24c-f984-7aab-8f0b-7308aa8ddbec",
+      "time": "2026-07-30 17:13:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Prime Minister Takaichi said she will review potential revenue sources, including tapping foreign exchange reserves, boosting non-tax revenues and reforming public spending."
+    },
+    {
+      "id": "5016453",
+      "time": "2026-07-30 17:13:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝萊德對李寧的多頭持倉比例增至7.13%】據香港交易所披露，貝萊德（BlackRock）對李寧有限公司的多頭持倉比例於2026年7月27日從6.81%增至7.13%。"
+    },
+    {
+      "id": "mkt:019fb24c-962d-7aab-8f0b-6b4799253a84",
+      "time": "2026-07-30 17:13:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Russian Defence Ministry said it had seized Chernihivka in Ukraine's Donetsk region, Maraslovydka and Mokhrytsia in Sumy region, and Yurchenkov in Kharkiv region."
+    },
+    {
+      "id": "mkt:019fb24c-691b-7aab-8f0b-62a0ccddc6db",
+      "time": "2026-07-30 17:12:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Prime Minister TAKAICHI said she will fund temporary tax cuts without issuing government bonds to preserve market confidence."
+    },
+    {
+      "id": "te:economy:571161",
+      "time": "2026-07-30 17:12:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Croatia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Croatia Retail Growth Weakest Since 2023 — Retail sales in Croatia rose by 0.4% year-on-year in June 2026, easing slightly from a 0.5% increase in the previous month, remaining the weakest growth since March 2023. Sales of automotive fuels and lubricants fell at a faster pace (-12.9% vs. -11.8% in May). Moreover, retail sales via the internet or mail order declined sharply (-3.2% vs. 3.6%). On the other hand, sales increased for food, beverages, and tobacco (2.9% vs. 1.9%), while sales of non-food products excluding automotive fuels and lubricants rose after remaining flat in the previous month (at 1.5%). On a monthly basis, retail trade grew by 1.5% in June, rebounding from a 2.0% decline in the preceding month. For the January–June period, retail sales increased by 1.9% compared with the same period a year earlier."
+    },
+    {
+      "id": "5016452",
+      "time": "2026-07-30 17:12:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：將不會透過發行債券來為臨時減稅籌資，以維護市場信任。"
+    },
+    {
+      "id": "5016451",
+      "time": "2026-07-30 17:12:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部訊息稱，俄軍已控制烏克蘭頓涅茨克地區的切爾尼希夫卡、蘇梅地區的馬拉斯洛比德卡與莫赫裡齊亞，以及哈爾科夫地區的尤爾琴科韋。"
+    },
+    {
+      "id": "te:economy:571160",
+      "time": "2026-07-30 17:12:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Cyprus",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Cyprus Industrial Output Growth Eases Further in May — Industrial production in Cyprus inched up 0.5% year-on-year in May 2026, slowing from an upwardly revised 1.9% increase in the previous month. The deceleration reflected weaker activity across mining and quarrying (0.5% vs. 4.5% in April), manufacturing (0.8% vs. 0.9%), mainly due to slower output of basic metals and fabricated metal products, electricity supply (0.0% vs. 8.3%), and water collection, treatment and supply (10.1% vs. 15.2%). Meanwhile, water supply reversed into contraction (-3.4% vs. 4.3%), while materials recovery remained in decline, with output falling at a steeper pace (-19.6% vs. -9.1%). For the January-May period, industrial output grew 1.5% compared with the corresponding period of the previous year."
+    },
+    {
+      "id": "5016450",
+      "time": "2026-07-30 17:12:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：將考慮為受減稅影響的餐館提供支援。"
+    },
+    {
+      "id": "mkt:019fb24b-46ea-7aab-8f0b-5aee89e7f8cd",
+      "time": "2026-07-30 17:11:45",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Prime Minister TAKAICHI expects a food sales-tax relief plan to receive cabinet approval in early August."
+    },
+    {
+      "id": "5016449",
+      "time": "2026-07-30 17:11:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【愛奇藝釋出創作者平臺品牌和六大服務體系】7月23日，在青海西寧第二十屆FIRST青年電影展期間，愛奇藝舉辦創作者生態工坊專場活動，正式釋出創作者平臺品牌——“+你，更快樂”，同步上線愛奇藝創作者平臺入口“Q+”，並推出六大服務體系，全面賦能AIGC創作者。這標誌著愛奇藝AI影視創作者生態建設邁入新階段。（新華社）"
+    },
+    {
+      "id": "5016448",
+      "time": "2026-07-30 17:11:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【完美世界高階副總裁、總編輯伊迪：公司持續加碼全新自研原創IP佈局，《異環》實現多維度突破性創新】今日，2026中國國際數字娛樂產業大會（CDEC）高峰論壇在上海舉行。會上，完美世界高階副總裁、總編輯伊迪發表演講，強調增強原始創新能力、提高系統創新水平的重要性。同時，他表示，公司正持續加碼全新自研原創IP佈局，蘇州幻塔工作室打造的《異環》，實現了多維度突破性創新。（新浪科技）"
+    },
+    {
+      "id": "5016447",
+      "time": "2026-07-30 17:11:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖南省港航水利集團黨委委員兼省水電設計院黨委書記、總經理周新章被查】7月30日，據三湘風紀網，湖南省港航水利集團有限公司黨委委員兼省水利水電勘測設計規劃研究總院有限公司黨委書記、執行董事、總經理周新章涉嫌嚴重違紀違法，主動向組織交代問題，目前正接受湖南省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5016446",
+      "time": "2026-07-30 17:10:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中捷精工：為子公司提供5300萬元擔保 剩餘可用額度2380萬元】中捷精工公告稱，為滿足子公司資金需求，公司近日分別與寧波銀行無錫分行、招商銀行無錫分行簽訂擔保合同，為灝昕汽車、煙臺通吉提供連帶責任保證，擔保債權本金分別最高為3000萬元、2300萬元。本次提供擔保後，公司對灝昕汽車、煙臺通吉剩餘可用擔保額度分別為1000萬元、1380萬元。截至公告披露日，公司累計擬對外擔保額度2.76億元，佔淨資產的38.02%；擔保總餘額2.08億元，佔28.66%。"
+    },
+    {
+      "id": "mkt:019fb24a-405d-7aab-8f0b-51d277a83253",
+      "time": "2026-07-30 17:10:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "Evercore ISI removed Meta Platforms (META.O) from its preferred-stock list, retained an OUTPERFORM rating and cut its price target to $820 from $930."
+    },
+    {
+      "id": "5016445",
+      "time": "2026-07-30 17:10:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：將在預算過程中審查收入和支出。"
+    },
     {
       "id": "5016444",
       "time": "2026-07-30 17:10:05",
@@ -164804,168 +164989,6 @@
         "其他"
       ],
       "text": "上海市氣象臺2026年07月23日17時10分解除中心城區高溫橙色預警訊號：據最新氣象資料分析，目前中心城區氣溫有所回落，中心城區今天的高溫橙色預警訊號解除。"
-    },
-    {
-      "id": "mkt:019f8e41-7a5d-7aab-8e61-8cd60b6e0e5b",
-      "time": "2026-07-23 17:14:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Xingxin New Materials said it proposes to repurchase 50–100 mln yuan of its shares, with a maximum price of 32 yuan per share."
-    },
-    {
-      "id": "5004184",
-      "time": "2026-07-23 17:14:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破90美元/桶，日內漲3.65%。"
-    },
-    {
-      "id": "5004183",
-      "time": "2026-07-23 17:14:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【約旦稱過去24小時已攔截3枚導彈6架無人機】當地時間23日，約旦武裝部隊總司令部表示，過去24小時內，約旦皇家空軍共應對4枚射向約旦境內的伊朗導彈和6架伊朗無人機。約旦軍方表示，當天上午，約旦防空系統成功攔截並擊落3枚導彈，第4枚導彈落入一處無人居住的偏遠地區。22日晚，約旦防空系統還攔截並擊落6架無人機。上述事件未造成人員傷亡和財產損失。（央視新聞）"
-    },
-    {
-      "id": "5004182",
-      "time": "2026-07-23 17:13:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞立科密：程毅所持標的公司16.00%股權已過戶登記至公司名下】瑞立科密公告，程毅先生持有的武漢瑞立科德斯汽車電子有限責任公司16%股權已完成過戶登記至公司名下，標的公司已辦理完畢變更登記手續。本次交易尚需公司向交易對方發行股份以支付交易對價，並辦理新增股份相關登記和上市手續，以及註冊資本、《公司章程》等變更事宜的登記或備案手續。此外，相關各方還需確定過渡期內標的資產產生的損益，並執行過渡期損益歸屬的約定。"
-    },
-    {
-      "id": "5004181",
-      "time": "2026-07-23 17:13:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【瑞銀：領展出售悉尼物業部署回購，維持“買入”評級】瑞銀髮表研報指，領展房產基金宣佈以總現金對價2.259億澳元(不含消費稅)，向Aware Real Estate出售其位於悉尼100 Market Street辦公室資產的50%股權。該交易隱含物業100%估值為4.518億澳元，退出收益率為6.5%，大致符合截至2026年3月領展的賬面價值。領展完成交易後將繼續提供物業及資產管理服務，並賺取持續費用收入。出售所得款項將用於單位回購及重新投資於領展的香港核心零售投資組合。管理層表示，由於香港零售租金趨於穩定，提高了現有投資組合內再投資的吸引力。該行估計，領展需要將約72%的處置所得款項用於單位回購，以抵銷交易帶來的約1%每基金單位分派稀釋。管理層確認內地物流投資組合及倫敦辦公室資產的處置程式仍在進行中。該行給予領展目標價47.2港元，維持“買入”評級。"
-    },
-    {
-      "id": "te:economy:569238",
-      "time": "2026-07-23 17:13:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Foreign Direct Investment YoY",
-        "Importance 1"
-      ],
-      "text": "China FDI Contracts Least in 3 Years — Foreign direct investment into China fell by 5% annually in the first half of 2026, easing from the 8.6% decline in the first five months of the year. Despite extending three-year streak of year-to-date declines in FDI, it was the smallest since little after the streak began in July of 2026. It prolonged the rebound from the record-slump of -31.5% in August of 2024, when risks of a deflationary spiral and the peak of low consumer spending dented foreign investment demand. Still, opaque balance sheets and risks that protectionist policies may curb manufacturing exports continued to weigh on the Chinese economy."
-    },
-    {
-      "id": "te:economy:569237",
-      "time": "2026-07-23 17:13:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Taiwan",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Taiwan 10Y Bond Yield Hits 3-year High — Taiwan 10 Year Government Bond Yield increased to 1.82%, the highest since November 2022. Over the past 4 weeks, Taiwan 10Y Bond Yield gained 1.00 basis points, and in the last 12 months, it increased 31.00 basis points."
-    },
-    {
-      "id": "5004180",
-      "time": "2026-07-23 17:13:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【亞虹醫藥：因合同糾紛被訴，涉440萬美元及相關費用】亞虹醫藥公告稱，近日收到美國仲裁協會送達的仲裁申請，申請人Photocure認為公司未按約定支付全額里程碑款項，請求裁定亞虹支付440萬美元及利息並承擔仲裁相關費用。截至公告披露日，仲裁已受理但程式未開始。該糾紛未對公司與Photocure的合作及正常經營造成實質障礙，最終影響以仲裁結果為準。公司將聘請律師積極應對，並按規定披露進展。"
-    },
-    {
-      "id": "5004179",
-      "time": "2026-07-23 17:13:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【凱淳股份：持股5%以上股東減持計劃期滿未減持股份】凱淳股份公告稱，股東益松壹號在減持計劃期（2026年4月23日至7月22日）內未減持公司股票。減持前後，益松壹號均持有720萬股，佔總股本比例9%，佔剔除回購後總股本的比例9.04%。本次減持符合相關規定，且已預披露，未違反減持計劃，益松壹號非控股股東或實控人，減持未致公司控制權變更，不影響持續經營。"
-    },
-    {
-      "id": "5004178",
-      "time": "2026-07-23 17:13:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "據網路平臺資料，截至7月23日，2026年暑期檔總票房（含預售）突破50億元。"
-    },
-    {
-      "id": "mkt:019f8e3f-e557-7aab-8e61-82da9aaccd3d",
-      "time": "2026-07-23 17:12:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China 2026 summer box office tops 5.0 bln yuan】According to online platform data, China’s 2026 summer box office including presales surpassed 5.0 bln yuan as of July 23."
-    },
-    {
-      "id": "5004177",
-      "time": "2026-07-23 17:12:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部提醒12省份做好水庫安全度汛等工作】根據降雨預報，水利部23日向天津、河北、山西、遼寧、江蘇、安徽、山東、河南、湖北、廣西、雲南、陝西等12省份發出“一省一單”，提醒做好水庫安全度汛、中小河流洪水和山洪災害防禦等工作。記者瞭解到，水利部23日組織專題會商，分析研判全國雨情水情汛情態勢，滾動安排部署防汛關鍵期水旱災害防禦重點工作。雨情方面，7月22日8時至23日8時，天津、河北東部南部、山東西北部、河南北部、江蘇中部、安徽東北部、湖北東部、廣西東部、廣東西北部、黑龍江中部北部、內蒙古中南部等地部分地區降了中到大雨，其中河北廊坊、邢臺、滄州、衡水、石家莊，黑龍江齊齊哈爾，湖北武漢，江蘇宿遷、淮安、鹽城等地區域性降了暴雨，最大點雨量河北廊坊臧屯227毫米、黑龍江齊齊哈爾華升水庫184毫米、湖北武漢東湖112毫米、江蘇宿遷泗陽107毫米。水情方面，受降雨影響，廣西柳江支流浪溪河、古宜河、平等河，雲南南盤江支流瀘江，河北北澧河支流牛尾河，江蘇裡下河地區串場河等6條河流發生超警洪水，最大超警幅度2.87米，目前均已退至警戒水位以下。（央視新聞）"
-    },
-    {
-      "id": "5004176",
-      "time": "2026-07-23 17:12:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【九安醫療：參與投資的礪思星雀基金已募集完成，總額9.28億元】九安醫療公告，公司此前披露以自有資金向礪思星雀基金出資1億元。近日該基金已募集完成，收到全體合夥人實繳出資，募集資金總額為9.28億元，公司作為有限合夥人認繳出資1億元，認繳出資比例10.7759%。"
-    },
-    {
-      "id": "mkt:019f8e3f-1196-7aab-8e61-79b848818e36",
-      "time": "2026-07-23 17:12:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Mitsubishi UFJ: Yen and Swiss franc worst-performing G10 currencies since US‑Iran conflict】Mitsubishi UFJ analyst Lee Hardman said in a note that since end‑February, when the US‑Iran conflict began, the low‑yielding yen and Swiss franc have been the weakest G10 currencies. Rising oil pushed the yen to a 40‑year low versus the dollar and the franc to an 11‑month low; a negative energy‑price shock and firmer ECB and Fed rate‑hike expectations have kept both currencies under pressure, and they continued to underperform this month."
-    },
-    {
-      "id": "5004175",
-      "time": "2026-07-23 17:11:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【凱淳股份：股東益松壹號減持期滿未減持】凱淳股份公告，持股5%以上股東益松壹號減持計劃期滿，在減持計劃期間內（2026年4月23日至2026年7月22日）未減持公司股票。本次變動前後，益松壹號合計持有股份均為720萬股，佔總股本比例9%，佔剔除回購後總股本的比例9.04%。"
-    },
-    {
-      "id": "5004174",
-      "time": "2026-07-23 17:11:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國威爾士地區多條河流水位降至“異常低位”】受高溫少雨天氣影響，近期英國威爾士地區部分水道乾涸，多條河流水位已降至“異常低位”。據稱，部分河流水位逼近有記錄以來的最低水平。根據威爾士自然資源部門資料，7月上半月威爾士地區降水量不足常年同期水平的10%。持續少雨，加之熱浪接連來襲，河流、水庫和地下水位下降，受此影響，威爾士地區克盧伊德河、阿爾文河、克利韋多格河、德菲河、康維河和瓦伊河等河流水位處於“異常低位”。相關部門正從水庫放水，以維持部分河流流量。威爾士自然資源部門官員休伊爾·曼利說，威爾士地區“一些水道正在乾涸”，“即便較大河流的流量也低於常年水平”。曼利說，天氣預報顯示威爾士部分地區本週末將迎來降雨，但河流系統恢復“需要一段時間”。弗林特郡牧場經營者埃倫·休斯說，她家牧場已經“乾透”，“寸草不生”。由於牧草停止生長，他們不得不提前動用青貯飼料。英國5月和6月都經歷了破紀錄的高溫。英國倫敦衛生與熱帶醫學院日前釋出的一項分析顯示，5月和6月發生在英格蘭和威爾士的兩次熱浪可能造成超過2700人死亡。（央視新聞）"
-    },
-    {
-      "id": "5004173",
-      "time": "2026-07-23 17:11:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴林內政部：防空警報現已拉響。請本國公民與外籍居民保持冷靜，立即前往就近避險場所，並透過官方渠道持續關注最新通告。"
-    },
-    {
-      "id": "5004172",
-      "time": "2026-07-23 17:10:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "騰訊對樂邦製藥的持股比例由 9.98% 提升至 10.09%。"
     }
   ]
 }
