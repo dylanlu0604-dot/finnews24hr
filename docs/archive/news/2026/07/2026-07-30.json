@@ -1,7 +1,84 @@
 {
   "date": "2026-07-30",
-  "count": 3980,
+  "count": 3989,
   "items": [
+    {
+      "id": "mkt:019fb3b1-67c1-7aab-8f18-440e76eb4d7d",
+      "time": "2026-07-30 23:42:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Burnham signals support for increased North Sea drilling】UK Prime Minister Burnham told US President Trump the UK will not \"ignore\" North Sea resources, signaling government support for new oil and gas drilling. Officials are reportedly studying proposals including approval of the Jackdaw and Rosebank offshore Scotland developments and expanded tie-back projects using existing facilities. Trump said Burnham told him the UK would \"open up\" the North Sea and called the move \"a very good thing,\" adding that if done reasonably it could make the country wealthier."
+    },
+    {
+      "id": "5017441",
+      "time": "2026-07-30 23:42:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東清遠通報“長湖水庫出現死魚”：水位突降所致，水質正常】7月30日晚，廣東清遠市生態環境局釋出情況通報：近日，我局關注到網民反映英德市滃江長湖水庫出現死魚，擔心水體汙染。我局第一時間聯合廣東省清遠生態環境監測站開展現場取樣監測。自7月30日上午8時開始，在英德市長湖水庫上下游、滃江干支流、北江干流沿線布點，連續開展4輪次全面水質監測。監測結果顯示，水質正常，未檢出有毒有害因子。經核查，為應對臺風“紅霞”帶來的強降雨影響，長湖水庫提前騰庫容，導致水庫水位突降，網箱魚類缺氧，出現死魚現象。水庫水位恢復後，未再出現死魚現象。下一步，我局將繼續密切監測流域水質情況，確保水環境安全。"
+    },
+    {
+      "id": "5017440",
+      "time": "2026-07-30 23:42:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際冰球聯合會禁止俄羅斯隊伍參加 2027 年世界冰球錦標賽。"
+    },
+    {
+      "id": "5017438",
+      "time": "2026-07-30 23:40:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【英國央行行長：年輕人承受了“低招聘、低解僱”經濟的主要衝擊】英國央行行長安德魯·貝利將英國經濟描述為一種“低招聘、低解僱（low hire, low fire）”的經濟，這解釋了為何越來越多的年輕人難以找到工作，目前16-24歲人群的失業率已創下十多年來新高。勞動力市場缺乏人員流動，“對於那些沒有工作且試圖進入勞動力市場的人來說，這真的非常困難。”目前已有初步跡象表明，一些僱主正在使用人工智慧（AI）來替代人工需求。不過，他駁斥了這是導致勞動力市場疲軟主要原因的說法，並提醒稱“目前還處於非常早期的階段”。"
+    },
+    {
+      "id": "5017437",
+      "time": "2026-07-30 23:39:57",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通參與 Situational Awareness 投資組合出售洽談。"
+    },
+    {
+      "id": "mkt:019fb3ae-7304-7aab-8f18-3aea26937bea",
+      "time": "2026-07-30 23:39:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's prime minister said the government is urging citizens to reduce energy consumption."
+    },
+    {
+      "id": "5017436",
+      "time": "2026-07-30 23:39:21",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "達拉斯聯儲修正均值個人消費支出物價指數6月年化漲幅為1.4%，5月該資料為2.7%。"
+    },
+    {
+      "id": "te:markets:571308",
+      "time": "2026-07-30 23:39:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Falls After Thursday Rally — Brent crude oil traded around $90 per barrel on Thursday after surging 7.9% in the previous session, as markets balanced renewed geopolitical tensions against signs that oil flows through the Strait of Hormuz were improving. According to Kpler, 14 commodity vessels transited Hormuz in both directions on Wednesday, up from single-digit levels seen last week. Meanwhile, ample crude inventories in China continued to limit import demand, easing some supply concerns. Still, US forces struck dozens of Iranian military targets in an effort to curb Tehran’s ability to threaten regional shipping and US allies. Also, the East-West pipeline to bypass Hormuz that Saudi Arabia has increasingly relied on now faces risks from Iran-backed Houthis. On top of that, the Caspian Pipeline Consortium suspended oil loadings at its Black Sea terminal after two tankers associated with the facility were attacked overnight."
+    },
+    {
+      "id": "5017435",
+      "time": "2026-07-30 23:39:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英能源監管機構Ofgem擬對AI資料中心開發商收每兆瓦23.75萬至71.25萬英鎊可退還保證金，專案退出排隊則沒收，旨在清退投機性、停滯的電網接入申請。"
+    },
     {
       "id": "5017434",
       "time": "2026-07-30 23:38:31",
