@@ -1,7 +1,90 @@
 {
   "date": "2026-07-31",
-  "count": 574,
+  "count": 584,
   "items": [
+    {
+      "id": "mkt:019fb554-2804-7aab-8f1e-c5872dfc35da",
+      "time": "2026-07-31 07:20:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Japan June unemployment rate due in 10 minutes."
+    },
+    {
+      "id": "mkt:019fb554-2680-7aab-8f1e-bad776fd571f",
+      "time": "2026-07-31 07:20:18",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【US Treasury secretary says yen \"appears significantly undervalued\"】In a Thursday interview, US Treasury Secretary Scott Bessent said the yen \"appears significantly undervalued\" and that \"excessive volatility\" is unhealthy. He called the yen \"very cheap\", said Japan's economy is performing well and the prime minister is implementing strong policies, and added he is not concerned about yen strength against the dollar."
+    },
+    {
+      "id": "5017821",
+      "time": "2026-07-31 07:20:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿根廷總統米萊將提出另一項法案，以開放本地資本市場。"
+    },
+    {
+      "id": "5017820",
+      "time": "2026-07-31 07:19:48",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根士丹利邢自強：中國數字基礎設施發展具備競爭力】7月30日，摩根士丹利中國首席經濟學家邢自強在媒體交流會上，就AI產業趨勢等一系列熱點話題分享了看法。“近期A股出現的調整，是全球AI科技共振的一個縮影。”邢自強判斷。展望下半年，他認為中國依然高度重視科技、能源及產業鏈自主可控等領域發展。未來，藉助國家算力網的數字基礎設施模式，中國有望複製當年移動網際網路時代的成功路徑，在AI賽道獲得豐碩成果。"
+    },
+    {
+      "id": "mkt:019fb553-9853-7aab-8f1e-b272a2255276",
+      "time": "2026-07-31 07:19:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. official says Washington currently views a local technocratic government as an alternative to the Palestinian Authority and Hamas."
+    },
+    {
+      "id": "mkt:019fb553-9393-7aab-8f1e-a9f245f6834a",
+      "time": "2026-07-31 07:19:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. officials say they are coordinating closely with Israel. Israel is skeptical Hamas will disarm. Any agreement with Hamas is conditional."
+    },
+    {
+      "id": "5017819",
+      "time": "2026-07-31 07:19:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及媒體：哈馬斯同意實施加沙停火第二階段】開羅新聞(Al-Qahera News)援引一位未具名埃及訊息人士的話報道，哈馬斯和巴勒斯坦各派系告知調解人，他們已就落實加沙停火協議第二階段的路線圖達成一致。"
+    },
+    {
+      "id": "5017818",
+      "time": "2026-07-31 07:18:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高階算力持續漲價 頭部企業探索“Token工廠”新模式】最新公告顯示，行雲科技此前簽訂的算力服務大單不僅迎來加單與提價，還迎來收費模式的變革——新增了“Token（詞元）收入相關的固定服務費”。記者梳理發現，今年以來，已有潤建股份、弘信電子、行雲科技、超訊科技、南威軟體等10多家上市公司宣佈探索“Token工廠”業務。“眼下，算力行業在商業模式上迎來了一大新變化，開始從‘堆硬體’轉向‘賣Token’，也就是從按硬體出租向按Token交付演進，探索‘Token工廠’新模式。”7月30日，一位算力行業人士向記者表示，這意味著，算力行業競爭焦點從“擁有GPU”轉向TaaS（Token-as-a-Service，Token即服務，按Token計費），商業模式從“賣資源”向“賣服務”升級。（上海證券報）"
+    },
+    {
+      "id": "5017816",
+      "time": "2026-07-31 07:17:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員表示，與哈馬斯的協議是有條件的。"
+    },
+    {
+      "id": "5017815",
+      "time": "2026-07-31 07:16:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：我們與以色列保持密切協調。"
+    },
     {
       "id": "5017814",
       "time": "2026-07-31 07:15:47",

@@ -1,7 +1,90 @@
 {
-  "updated": "2026-07-31 07:16:57",
-  "count": 17942,
+  "updated": "2026-07-31 07:20:54",
+  "count": 17944,
   "items": [
+    {
+      "id": "mkt:019fb554-2804-7aab-8f1e-c5872dfc35da",
+      "time": "2026-07-31 07:20:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Japan June unemployment rate due in 10 minutes."
+    },
+    {
+      "id": "mkt:019fb554-2680-7aab-8f1e-bad776fd571f",
+      "time": "2026-07-31 07:20:18",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【US Treasury secretary says yen \"appears significantly undervalued\"】In a Thursday interview, US Treasury Secretary Scott Bessent said the yen \"appears significantly undervalued\" and that \"excessive volatility\" is unhealthy. He called the yen \"very cheap\", said Japan's economy is performing well and the prime minister is implementing strong policies, and added he is not concerned about yen strength against the dollar."
+    },
+    {
+      "id": "5017821",
+      "time": "2026-07-31 07:20:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿根廷總統米萊將提出另一項法案，以開放本地資本市場。"
+    },
+    {
+      "id": "5017820",
+      "time": "2026-07-31 07:19:48",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根士丹利邢自強：中國數字基礎設施發展具備競爭力】7月30日，摩根士丹利中國首席經濟學家邢自強在媒體交流會上，就AI產業趨勢等一系列熱點話題分享了看法。“近期A股出現的調整，是全球AI科技共振的一個縮影。”邢自強判斷。展望下半年，他認為中國依然高度重視科技、能源及產業鏈自主可控等領域發展。未來，藉助國家算力網的數字基礎設施模式，中國有望複製當年移動網際網路時代的成功路徑，在AI賽道獲得豐碩成果。"
+    },
+    {
+      "id": "mkt:019fb553-9853-7aab-8f1e-b272a2255276",
+      "time": "2026-07-31 07:19:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. official says Washington currently views a local technocratic government as an alternative to the Palestinian Authority and Hamas."
+    },
+    {
+      "id": "mkt:019fb553-9393-7aab-8f1e-a9f245f6834a",
+      "time": "2026-07-31 07:19:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. officials say they are coordinating closely with Israel. Israel is skeptical Hamas will disarm. Any agreement with Hamas is conditional."
+    },
+    {
+      "id": "5017819",
+      "time": "2026-07-31 07:19:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及媒體：哈馬斯同意實施加沙停火第二階段】開羅新聞(Al-Qahera News)援引一位未具名埃及訊息人士的話報道，哈馬斯和巴勒斯坦各派系告知調解人，他們已就落實加沙停火協議第二階段的路線圖達成一致。"
+    },
+    {
+      "id": "5017818",
+      "time": "2026-07-31 07:18:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高階算力持續漲價 頭部企業探索“Token工廠”新模式】最新公告顯示，行雲科技此前簽訂的算力服務大單不僅迎來加單與提價，還迎來收費模式的變革——新增了“Token（詞元）收入相關的固定服務費”。記者梳理發現，今年以來，已有潤建股份、弘信電子、行雲科技、超訊科技、南威軟體等10多家上市公司宣佈探索“Token工廠”業務。“眼下，算力行業在商業模式上迎來了一大新變化，開始從‘堆硬體’轉向‘賣Token’，也就是從按硬體出租向按Token交付演進，探索‘Token工廠’新模式。”7月30日，一位算力行業人士向記者表示，這意味著，算力行業競爭焦點從“擁有GPU”轉向TaaS（Token-as-a-Service，Token即服務，按Token計費），商業模式從“賣資源”向“賣服務”升級。（上海證券報）"
+    },
+    {
+      "id": "5017816",
+      "time": "2026-07-31 07:17:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員表示，與哈馬斯的協議是有條件的。"
+    },
+    {
+      "id": "5017815",
+      "time": "2026-07-31 07:16:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：我們與以色列保持密切協調。"
+    },
     {
       "id": "5017814",
       "time": "2026-07-31 07:15:47",
@@ -165765,88 +165848,6 @@
         "公司"
       ],
       "text": "【新加坡政府投資公司計劃未來三年向對沖基金投資300億美元】新加坡政府投資公司(GIC)計劃未來三年向對沖基金部署300億美元，這是其持續推進、以獲取多元化效益的策略的一部分。“對沖基金是一種不錯的策略，因為它與我們現有的其他超額收益策略相關性較低，”新加坡政府投資公司集團首席投資官Bryan Yeo說。“從投資組合角度看，它的市場貝塔較低，也能與傳統股票、固定收益、信貸及私募市場策略形成分散配置作用。”該主權財富基金週五表示，過去十年，其對沖基金投資規模已增至原來的三倍，並計劃在這一良好往績基礎上進一步拓展。"
-    },
-    {
-      "id": "te:economy:569401",
-      "time": "2026-07-24 07:20:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Australia Factory Growth Hits 6-Month High — The S&P Global Australia Manufacturing PMI rose to 51.7 in July 2026 from 51.5 in the previous month, according to flash estimates, signaling a fourth consecutive month of expansion. The latest reading also marked the strongest growth since January, supported by the first increase in new orders in five months, driven by stronger domestic demand and new client wins, while employment rose at the fastest pace since April. However, export orders continued to decline, reflecting persistent weakness in external demand. On the pricing front, input cost inflation eased to its softest level since February despite higher fuel, oil, raw material, and wage costs, while manufacturers raised selling prices at a slower pace than in June. Looking ahead, business confidence improved only slightly and remained subdued amid ongoing economic uncertainty."
-    },
-    {
-      "id": "te:markets:569400",
-      "time": "2026-07-24 07:20:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Heads for Weekly Surge — Brent crude oil traded above $100 per barrel on Friday and was on track to gain nearly 14% for the week, as escalating tensions in the Middle East heightened fears of severe global supply disruptions. US President Donald Trump threatened \"major military punishment\" against Iran and the Houthis over any further attacks on Red Sea shipping and said he was considering a \"massive attack\" on Iran. His remarks followed attacks by Iran-backed Houthi militants on two Saudi oil tankers in the Red Sea, aimed at enforcing a newly declared blockade of Saudi ports and opening a new front in the conflict. Oil has already rallied more than 30% from pre-conflict levels this month as fighting disrupted crude flows through the Strait of Hormuz. Further tightening the global supply outlook, tanker attacks in the Black Sea and Sea of Azov forced the Caspian Pipeline Consortium to suspend loadings at its Black Sea terminal, disrupting a key export route that handles about 80% of Kazakhstan's crude exports."
-    },
-    {
-      "id": "mkt:019f9147-678c-7aab-8e74-ada1ec325103",
-      "time": "2026-07-24 07:20:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Japan June core CPI YoY due in 10 minutes."
-    },
-    {
-      "id": "5005487",
-      "time": "2026-07-24 07:19:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞證券交易所：首席財務官安德魯·託賓即將退休離任。"
-    },
-    {
-      "id": "5005486",
-      "time": "2026-07-24 07:19:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【SpaceX 押注星艦重大戰略：拒絕獵鷹火箭新客戶】多位知情人士透露，SpaceX 已開始婉拒衛星運營商 2028 年後使用主力獵鷹 9 號火箭專屬發射任務的訂單，此舉凸顯埃隆・馬斯克將鉅額賭注押注在尚未完成驗證的星艦飛船上。其中一名知情人士稱，這家集火箭、衛星、人工智慧業務於一體的行業巨頭，現已停止生產獵鷹火箭系列部分不可複用零部件。因相關資訊尚未公開，知情人士要求匿名受訪並表示：SpaceX 目前不再受理獵鷹 9 號拼車發射專案的遠期預約，該專案可讓多家衛星運營商共用一枚火箭送入軌道。"
-    },
-    {
-      "id": "te:markets:569399",
-      "time": "2026-07-24 07:18:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Heads for Weekly Surge — Crude oil held above $92 per barrel on Friday and was on track to gain more than 12% for the week, as escalating tensions in the Middle East heightened fears of severe global supply disruptions. US President Donald Trump threatened \"major military punishment\" against Iran and the Houthis over any further attacks on Red Sea shipping and said he was considering a \"massive attack\" on Iran. His remarks followed attacks by Iran-backed Houthi militants on two Saudi oil tankers in the Red Sea, aimed at enforcing a newly declared blockade of Saudi ports and opening a new front in the conflict. Oil has already rallied more than 30% from pre-conflict levels this month as fighting disrupted crude flows through the Strait of Hormuz. Further tightening the global supply outlook, tanker attacks in the Black Sea and Sea of Azov forced the Caspian Pipeline Consortium to suspend crude loadings at its Black Sea terminal, disrupting a key export route that handles about 80% of Kazakhstan's crude exports."
-    },
-    {
-      "id": "mkt:019f9145-fdef-7aab-8e74-a51f9f35cb3c",
-      "time": "2026-07-24 07:18:30",
-      "tags": [
-        "MKT News",
-        "000700.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "【Seoul court to rule in Choi Tae-won divorce that could affect SK Group control】Seoul High Court will hand down a Friday verdict in the long-running divorce of SK Hynix chairman Choi Tae-won and his ex-wife, the daughter of former president Roh Tae-woo. The court will decide how much of Choi’s roughly $5.5bn wealth must be divided; the outcome could affect his control of SK Group. The ex-wife initially sought 42.29% of Choi’s SK shareholding—an award that would threaten his control—before shifting to a cash claim. In 2024 a lower court ordered Choi to pay 1.38 trillion won (about $1.0bn), a record Korean divorce award, but the Supreme Court overturned that ruling on appeal, saying the lower court had improperly counted alleged illicit funds linked to Roh Tae-woo as contributing to the couple’s assets."
-    },
-    {
-      "id": "5005485",
-      "time": "2026-07-24 07:17:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【颱風“紅霞”生成，中央氣象臺釋出颱風橙色預警】中央氣象臺7月24日06時釋出颱風橙色預警：菲律賓以東的熱帶低壓今天（24日）凌晨加強為今年第12號颱風“紅霞”（熱帶風暴級；英文名稱：Noul；名字來源：朝鮮；名稱意義：紅色的天空），早晨5點鐘其中心位於菲律賓馬尼拉東北方向約560公里的洋麵上，就是北緯18.2度、東經124.6度，中心附近最大風力有8級（18米/秒），中心最低氣壓為998百帕，七級風圈半徑100-380公里。預計，“紅霞”將以每小時25-30公里的速度向西偏北方向移動，強度逐漸加強，24日夜間至25日凌晨移入南海東北部海面，向粵閩沿海靠近，25日晚上至26日早晨在廣東珠海到福建漳浦一帶沿海登陸（33-40米/秒，12-13級，颱風級），登陸後轉向偏北方向移動，強度逐漸減弱。大風預報：24日08時至25日08時，南海東北部、巴士海峽、臺灣以東洋麵、臺灣海峽、東海南部、臺灣沿海、福建沿海、廣東中東部沿海將有6-8級大風、陣風9-10級，其中巴士海峽、南海東北部偏東海域風力可達9-11級、陣風12-13級。降水預報：24日08時至25日08時，臺灣島東部和南部的部分地區有大到暴雨，局地大暴雨（100-140毫米）。（新華社）"
     }
   ]
 }
