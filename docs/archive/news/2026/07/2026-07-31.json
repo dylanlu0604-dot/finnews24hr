@@ -1,7 +1,60 @@
 {
   "date": "2026-07-31",
-  "count": 390,
+  "count": 395,
   "items": [
+    {
+      "id": "te:markets:571348",
+      "time": "2026-07-31 04:54:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises on Banks and Miners — The S&P/TSX Composite Index rose 0.5% to close at 35,506 on Thursday, supported by gains in mining and heavyweight financial stocks. Major banks rebounded after Wednesday's selloff, with TD Bank up 2%, Scotiabank rising 1.6%, RBC and BMO gaining 1.4% each, and CIBC adding 1.2%. Gold prices climbed as a weaker US dollar lifted miners. Agnico Eagle jumped 4%, while Barrick gained 3.2%, WPM rose 3.1%, and Franco-Nevada advanced 2.8%. Technology stocks weakened as Lightspeed Commerce tumbled 12.8% after missing first-quarter profit estimates. Shopify fell 5.6% and Constellation Software lost 3.1%, while Celestica surged 6.9%, tracking a rally in US chipmakers. On earnings, Vermilion Energy (+5.6%), Kinross Gold (+1.2%), Cenovus (+4%), Alamos Gold (-1%), and Loblaw (-0.5%) beat expectations, while Ivanhoe Mines (-0.2%) and Tourmaline Oil (-3.3%) missed. Canadian Natural (+1.4%) and Fairfax Financial (-2.1%) report after the close."
+    },
+    {
+      "id": "5017708",
+      "time": "2026-07-31 04:54:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【紐約期金漲約1.7%，紐約銅漲2.9%，現貨鈀金漲約4.3%】週四（7月30日）紐約尾盤，現貨黃金漲0.81%，報4100.34美元/盎司，整體呈現出V形反轉行情、北京時間13:38曾重新整理日低至4028.55美元。COMEX黃金期貨漲1.68%，報4166美元/盎司。現貨白銀漲2.07%，報58.9336美元/盎司，16:00曾重新整理日低至56.9360美元。COMEX白銀期貨漲2.12%，報59.320美元/盎司。COMEX銅期貨漲2.90%，報6.4950美元/磅，亞太盤初以來持續上漲。現貨鉑金漲2.48%，現貨鈀金漲4.27%。"
+    },
+    {
+      "id": "mkt:019fb4ce-6e03-7aab-8f1c-98cee485528c",
+      "time": "2026-07-31 04:54:15",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Israel’s Channel 12 reports a second-phase ceasefire agreement for the Gaza Strip is expected to be signed in Cairo in mid-next week."
+    },
+    {
+      "id": "5017707",
+      "time": "2026-07-31 04:53:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Rivian汽車業務營收增23% R2 SUV開啟交付】Rivian第二季度營收中，汽車業務收入11.4億美元，軟體及服務收入5.15億美元。該業績略高於公司上月在公告擬公開發行7500萬股A類普通股時提前披露的第二季度營收預期區間15.5億至16.5億美元。公司稱，汽車業務營收同比增長23%，主要源於車輛交付量提升14%，以及合規積分相關收入增加1.03億美元。 Rivian第二季度歸屬於普通股股東的淨虧損為8.37億美元，摺合每股虧損0.63美元，相較於2025年第二季度減虧2.78億美元，每股虧損收窄0.34美元。 Rivian此前表示，上調交付指引是因為第二季度電動配送貨車及旗艦R1系列產品交付量有所提升。 公司本季度還啟動了中型R2 SUV的交付工作，正在其位於伊利諾伊州諾莫爾市的唯一生產工廠推進該車型產能爬坡，這座工廠年產能可達16萬輛。 Rivian執行長RJ·斯卡林吉週四在接受採訪時表示：“R2現已交到客戶手中，我對此倍感振奮，市場對這款產品的整體反饋和反響都非常出色。當然，這也是我們邁向盈利道路上的重要一步。”"
+    },
+    {
+      "id": "te:markets:571347",
+      "time": "2026-07-31 04:52:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Live Nation Entertainment earnings above expectations at 1.05 USD — Live Nation Entertainment (LYV) released earnings per share at 1.05 USD, compared to market expectations of 0.68 USD."
+    },
     {
       "id": "5017706",
       "time": "2026-07-31 04:50:30",
