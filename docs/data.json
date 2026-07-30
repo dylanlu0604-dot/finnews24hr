@@ -1,7 +1,146 @@
 {
-  "updated": "2026-07-31 05:19:05",
-  "count": 17905,
+  "updated": "2026-07-31 05:26:44",
+  "count": 17912,
   "items": [
+    {
+      "id": "mkt:019fb4eb-ab63-7aab-8f1d-5d8988ef8c08",
+      "time": "2026-07-31 05:26:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Apple (AAPL.O) CFO says more companies are choosing Macs to leverage on-device AI advantages."
+    },
+    {
+      "id": "mkt:019fb4eb-8b4a-7aab-8f1d-5702ca257e60",
+      "time": "2026-07-31 05:26:03",
+      "tags": [
+        "MKT News",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) CEO said AWS demand in 2028 is significant. Customer response to Prime Day was satisfactory."
+    },
+    {
+      "id": "5017735",
+      "time": "2026-07-31 05:25:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：iPhone營收增長22%，主要得益於iPhone 17系列新品。"
+    },
+    {
+      "id": "mkt:019fb4eb-08b7-7aab-8f1d-4f428aa3ebf2",
+      "time": "2026-07-31 05:25:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) CEO says AWS annual revenue could reach $1 trillion."
+    },
+    {
+      "id": "5017734",
+      "time": "2026-07-31 05:24:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普政府計劃重啟多家停產煉油廠】受伊朗戰事推高汽油價格影響，特朗普政府計劃重啟多家已關停的煉油廠，其中就包括維爾京群島一座運營陷入困境的煉油設施。 一名白宮官員週四透過郵件證實，特朗普政府“希望全美各地的煉油廠恢復生產，尤其是聖克羅伊島煉油廠”。 該官員表示，這座煉油廠之所以備受關注，一是其最初設計用於加工委內瑞拉原油，二是其地理位置具備“戰略價值”。 此番政策推進的大背景是，伊朗衝突導致美國汽油價格居高不下。美國汽車協會（AAA）資料顯示，截至週四，全美汽油均價約為每加侖4.10美元，較今年戰事爆發初期上漲超1美元。"
+    },
+    {
+      "id": "5017733",
+      "time": "2026-07-31 05:24:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "亞馬遜CEO：儲存晶片成本上漲推高 2026 年資本支出預期。"
+    },
+    {
+      "id": "5017732",
+      "time": "2026-07-31 05:24:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任凱文·哈塞特：如有必要，我們將繼續降低油價的措施。"
+    },
+    {
+      "id": "5017731",
+      "time": "2026-07-31 05:24:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【離岸人民幣創2023年年初以來新高】週四（7月30日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7480元——逼近2023年2月2日尾盤報價6.7377元、當年1月13日尾盤報價6.7139已結案，較週三紐約尾盤漲125點，日內整體交投於6.7626-6.7440元區間，2023年1月16日盤中曾達到6.6975元。"
+    },
+    {
+      "id": "mkt:019fb4e8-4ecf-7aab-8f1d-40a1dec524bb",
+      "time": "2026-07-31 05:22:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) CEO says the company has strong visibility into demand for servers and networking equipment before committing capex."
+    },
+    {
+      "id": "mkt:019fb4e7-d1b4-7aab-8f1d-3ca62f14d6c0",
+      "time": "2026-07-31 05:21:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "Apple (AAPL.O) CFO said gross margin would reach the midpoint of guidance absent tariff refunds."
+    },
+    {
+      "id": "mkt:019fb4e7-65b1-7aab-8f1d-37e2f86018b1",
+      "time": "2026-07-31 05:21:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) CEO says the prospect of strong financial returns from AI and AWS spending is clear."
+    },
+    {
+      "id": "5017730",
+      "time": "2026-07-31 05:20:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜CEO： 在人工智慧、亞馬遜雲科技（AWS）方面的投入有望穩步實現可觀的財務回報。"
+    },
+    {
+      "id": "mkt:019fb4e5-a8b8-7aab-8f1d-2ed3f36ec4be",
+      "time": "2026-07-31 05:19:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "AVGO.O"
+      ],
+      "text": "Apple (AAPL.O) CEO Cook said the company’s cooperation with Broadcom (AVGO.O) is a step toward achieving a U.S. end-to-end chip supply chain."
+    },
     {
       "id": "5017729",
       "time": "2026-07-31 05:18:25",
@@ -165365,60 +165504,6 @@
         "國際"
       ],
       "text": "英特爾：大部分投資將投向美國本土工廠。"
-    },
-    {
-      "id": "5005419",
-      "time": "2026-07-24 05:26:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾：預計 2027 年資本支出將大幅高於 2026 年水平。"
-    },
-    {
-      "id": "mkt:019f90de-6c22-7aab-8e73-bf4621a539c5",
-      "time": "2026-07-24 05:25:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "Intel CFO said AI PC business revenue rose 26% QoQ and now accounts for two-thirds of its customer revenue mix."
-    },
-    {
-      "id": "5005418",
-      "time": "2026-07-24 05:25:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾：預計伺服器 CPU 業務將實現強勁兩位數增長。"
-    },
-    {
-      "id": "5005417",
-      "time": "2026-07-24 05:22:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：雷神、洛克希德・馬丁、帕蘭提爾三家企業高管週四與特朗普政府相關人員舉行會晤。"
-    },
-    {
-      "id": "5005416",
-      "time": "2026-07-24 05:22:05",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國公佈新關稅措施 24日生效】美國貿易代表辦公室23日釋出公告，宣佈依據《1974年貿易法》第301條，以所謂“強迫勞動”為名對數十個國家和地區加徵10%至12.5%的關稅，以替代即將到期的全球進口關稅。新關稅將於美國東部時間24日生效。(新華社)"
-    },
-    {
-      "id": "5005415",
-      "time": "2026-07-24 05:21:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "週四（7月23日）紐約尾盤，現貨黃金跌1.96%，報4049.48美元/盎司，亞太時段（至北京時間14:45）大致持平，之後持續下挫，22:08重新整理日低至4040.27美元，之後低位持平——大致交投於4040美元附近。COMEX黃金期貨跌2%，報4052.30美元/盎司。"
     }
   ]
 }
