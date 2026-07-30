@@ -1,7 +1,35 @@
 {
   "date": "2026-07-31",
-  "count": 161,
+  "count": 164,
   "items": [
+    {
+      "id": "5017579",
+      "time": "2026-07-31 01:28:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部：對沙特的攻擊是對地區穩定的非常嚴重的升級。 呼籲紅海局勢降溫。霍爾木茲海峽的關閉將影響全球經濟。呼籲美方全力支援黎巴嫩的主權。"
+    },
+    {
+      "id": "mkt:019fb410-9c6b-7aab-8f19-fe09088a66ee",
+      "time": "2026-07-31 01:26:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Minister Araghchi told Cyprus's foreign minister that Cyprus must not allow foreign military bases on its territory to be used for actions against Iran."
+    },
+    {
+      "id": "mkt:019fb410-51b8-7aab-8f19-f03fb507db95",
+      "time": "2026-07-31 01:26:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran's foreign minister Araqchi told Bulgaria's foreign minister on a call that Bulgaria's decision to permit temporary deployment of US military aircraft to Bezmer air base amounts to assisting military action against Iran."
+    },
     {
       "id": "te:markets:571329",
       "time": "2026-07-31 01:22:25",

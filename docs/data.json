@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-31 01:25:21",
-  "count": 17897,
+  "updated": "2026-07-31 01:29:20",
+  "count": 17894,
   "items": [
+    {
+      "id": "5017579",
+      "time": "2026-07-31 01:28:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部：對沙特的攻擊是對地區穩定的非常嚴重的升級。 呼籲紅海局勢降溫。霍爾木茲海峽的關閉將影響全球經濟。呼籲美方全力支援黎巴嫩的主權。"
+    },
+    {
+      "id": "mkt:019fb410-9c6b-7aab-8f19-fe09088a66ee",
+      "time": "2026-07-31 01:26:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Minister Araghchi told Cyprus's foreign minister that Cyprus must not allow foreign military bases on its territory to be used for actions against Iran."
+    },
+    {
+      "id": "mkt:019fb410-51b8-7aab-8f19-f03fb507db95",
+      "time": "2026-07-31 01:26:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran's foreign minister Araqchi told Bulgaria's foreign minister on a call that Bulgaria's decision to permit temporary deployment of US military aircraft to Bezmer air base amounts to assisting military action against Iran."
+    },
     {
       "id": "te:markets:571329",
       "time": "2026-07-31 01:22:25",
@@ -165219,58 +165247,6 @@
         "國際"
       ],
       "text": "惠譽：美國信用前景愈發取決於人工智慧投資信心。"
-    },
-    {
-      "id": "5005265",
-      "time": "2026-07-24 01:27:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞穗將特斯拉目標價從480.00美元下調至450.00美元，且將特斯拉評級維持在強於大盤。"
-    },
-    {
-      "id": "mkt:019f9004-25a8-7aab-8e70-bd72ee2f12c6",
-      "time": "2026-07-24 01:26:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK government spokesman, responding to warnings from Iran's Islamic Revolutionary Guard Corps (IRGC), said UK armed forces are prepared to protect the country from any form of attack, remain ready to defend round-the-clock and are coordinating closely with NATO allies."
-    },
-    {
-      "id": "5005264",
-      "time": "2026-07-24 01:26:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國政府發言人針對伊朗革命衛隊的警告作出回應：我國武裝力量已做好準備，保障英國免受任何形式的襲擊。"
-    },
-    {
-      "id": "5005263",
-      "time": "2026-07-24 01:26:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府發言人表示：英國隨時全天候待命保衛本土，並將與北約盟國開展密切協作。"
-    },
-    {
-      "id": "mkt:019f9003-7553-7aab-8e70-b21403477304",
-      "time": "2026-07-24 01:26:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A fuel station in Sumy, Ukraine, caught fire. Local officials said the site was struck in a targeted Russian strike."
-    },
-    {
-      "id": "mkt:019f9003-2726-7aab-8e70-ac72f49d737a",
-      "time": "2026-07-24 01:25:53",
-      "tags": [
-        "MKT News",
-        "AMD.O",
-        "Impact bullish"
-      ],
-      "text": "AMD (AMD.O) CEO Lisa Su said Venice is now in full production and customer demand is strong. Systems based on Venice will begin shipping in Q4."
     }
   ]
 }
