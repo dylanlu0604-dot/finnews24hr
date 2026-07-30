@@ -1,7 +1,1285 @@
 {
   "date": "2026-07-30",
-  "count": 3790,
+  "count": 3928,
   "items": [
+    {
+      "id": "5017406",
+      "time": "2026-07-30 23:22:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐足聯：相關提案存續期間，各球隊將拒絕參賽。"
+    },
+    {
+      "id": "mkt:019fb39e-d0b2-7aab-8f17-873f9c66db3e",
+      "time": "2026-07-30 23:22:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Israeli political sources said 15 draft documents did not adequately meet Israel's demands for Hamas disarmament, and Israel has conveyed objections to a senior member of the \"peace committee\", the envoy of former UK prime minister Tony Blair."
+    },
+    {
+      "id": "5017405",
+      "time": "2026-07-30 23:22:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列一名政治訊息人士表示，在哈馬斯解除武裝、加沙地帶實現非軍事化之前，以色列不會從加沙的“黃線”撤出。"
+    },
+    {
+      "id": "5017404",
+      "time": "2026-07-30 23:22:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐足聯：各國家隊將不會參加國際足聯賽事。"
+    },
+    {
+      "id": "5017403",
+      "time": "2026-07-30 23:22:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：我不反對暫時撤回託德·布蘭奇的司法部長提名】特朗普：託德·布蘭奇能力出眾，這是眾所周知的事！他有望躋身史上最優秀的司法部長之列。但來自得克薩斯州的約翰·科寧與北卡羅來納州的湯姆·蒂利斯，拒絕為這位優秀提名者投贊成票。我當初並未背書二人，也正是我的行動終結了他們的政治生涯。無論如何，這位提名者仍將繼續擔任代理職務。別忘了，科寧和蒂利斯當初都投票支援梅里克·加蘭，還有不少其他人，不勝列舉。倘若二人拒不做出正確抉擇，我不反對暫時撤回託德的提名，等到科寧、蒂利斯卸任之後，再度提名他。"
+    },
+    {
+      "id": "5017402",
+      "time": "2026-07-30 23:21:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列政界訊息人士稱，這份15點檔案未能充分回應以色列在哈馬斯解除武裝問題上的訴求，以色列已向託尼·布萊爾的特使傳達了對該檔案的反對意見。"
+    },
+    {
+      "id": "mkt:019fb39d-32fb-7aab-8f17-7b81e9e795c0",
+      "time": "2026-07-30 23:20:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BBC, citing a source, says all 55 UEFA member associations voted to back a boycott of the FIFA World Cup in protest at FIFA's proposed sale of equity stakes to private investors."
+    },
+    {
+      "id": "5017401",
+      "time": "2026-07-30 23:20:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總統約瑟夫・奧恩：我謹感謝土耳其共和國政府、領導層以及土耳其人民，在黎巴嫩最艱難的時刻與我們並肩而立、施以援手。"
+    },
+    {
+      "id": "5017400",
+      "time": "2026-07-30 23:20:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【滙豐策略師：投資者資金從美股轉向歐洲及新興市場】滙豐策略師表示，隨著科技股權重較高指數上漲動能減弱，資金正從美股流向歐洲股市與新興市場。由阿米特・施裡瓦斯塔瓦牽頭的團隊稱，該趨勢與上月形勢形成顯著反轉。策略師指出，全球資金流向整體前景向好，2026 年全球股票市場吸引資金 9100 億美元，創五年新高。"
+    },
+    {
+      "id": "mkt:019fb39c-2470-7aab-8f17-7794272d252b",
+      "time": "2026-07-30 23:19:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: UEFA members agreed to boycott the World Cup."
+    },
+    {
+      "id": "5017399",
+      "time": "2026-07-30 23:19:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶馬將授予德國奧莫維奧總金額超10億歐元的新合同。"
+    },
+    {
+      "id": "5017398",
+      "time": "2026-07-30 23:19:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【滙豐考慮向保險公司出售數十億英鎊英國養老金資產】據知情人士透露，多家保險公司主動接洽滙豐控股，滙豐已就此展開初步磋商，計劃剝離數十億英鎊的英國養老金資產。知情人士稱，這家歐洲最大銀行探討劃轉其規模 187 億英鎊（摺合 251 億美元）英國養老金池內的相關資產。因談判尚處保密階段，訊息人士要求匿名。根據滙豐英國年報，截至 2025 年 12 月，該養老金基金盈餘達 52.6 億英鎊。其中一名訊息人士表示，此次洽談源於保險機構主動問詢，滙豐尚未啟動正式出售流程。滙豐發言人不予置評。"
+    },
+    {
+      "id": "mkt:019fb39b-4ec1-7aab-8f17-6f4790ed8e04",
+      "time": "2026-07-30 23:18:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese president says his visit to Turkey comes at a critical moment and that Lebanon-Turkey cooperation should be an active participant in future development, not a bystander."
+    },
+    {
+      "id": "5017397",
+      "time": "2026-07-30 23:18:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "滙豐考慮將英國境內數十億英鎊養老金資產轉讓給保險公司。"
+    },
+    {
+      "id": "5017396",
+      "time": "2026-07-30 23:17:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【法國、希臘、西班牙等國氣溫攀升 多地林火持續肆虐】隨著新一輪熱浪來襲，法國、希臘、西班牙等國氣溫攀升，多地林火持續肆虐。7月29日，法國西南部吉倫特省的林火出現7處新的火點，受火情影響，波爾多以南鐵路運輸持續中斷。法國國家鐵路公司表示，相關線路停運措施將持續多日，並建議旅客暫緩前往受災地區。同一天，巴黎近郊楓丹白露森林出現復燃，過火面積約7公頃，50多名消防員、17輛消防車以及其他省的增援力量在現場撲救。消防部門表示，目前火勢尚未穩定，初步判斷此次復燃可能與持續高溫和大風天氣有關。此外，法國南部瓦爾省也出現新的火情，部分居民被預防性疏散。法國多地仍處於森林火險高風險狀態。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fb399-b57f-7aab-8f17-63ebd636211a",
+      "time": "2026-07-30 23:17:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israel's Channel 12 reports preliminary indications that Saudi Arabia launched strikes in Sanaa, Yemen."
+    },
+    {
+      "id": "5017395",
+      "time": "2026-07-30 23:16:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "受美元全面下跌影響，美元兌人民幣匯率跌至2023年2月以來的最低水平。"
+    },
+    {
+      "id": "5017394",
+      "time": "2026-07-30 23:16:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：科寧和蒂利斯出局後，會讓布蘭奇迴歸。"
+    },
+    {
+      "id": "5017393",
+      "time": "2026-07-30 23:16:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我不反對臨時撤回託德·布蘭奇的提名。"
+    },
+    {
+      "id": "5017392",
+      "time": "2026-07-30 23:16:01",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【花旗：降Meta目標價至800美元，AI產品路線圖漸見清晰】花旗發表報告指，Meta Platforms次季收入及第三季指引大致符合預期，惟經調整法律及裁員開支後經營溢利較該行預測高出約9%。管理層對第三季收入指引為610億至640億美元，同比增長19%至24.9%，以中位數計較市場預期低約1%。報告指，Meta的人工智慧產品路線圖漸見清晰，行政總裁朱克伯格表示人工智慧正加速產品開發週期，個人及商業代理、Muse系列基礎模型及API、Meta AI(整合Spark後使用者增60%)、Meta Glasses、新應用程式(Threads月活躍使用者達5億、Forum及Seller)及訂閱服務Meta One等陸續推出，將帶來更大能見度及新收入來源。花旗上調Meta2026年資本開支預測至1440億美元，2027及2028年預測資本開支分別達2050億及2490億美元，預期自由現金流於2026年下半年轉為負數並持續至2028年。該行將目標價由850美元下調至800美元，相當於2027年預測市盈率約22倍，維持“買入”評級。"
+    },
+    {
+      "id": "te:economy:571306",
+      "time": "2026-07-30 23:15:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Colombia Industrial Confidence Improves — Colombia’s industrial confidence indicator rose by 2.8 percentage points to -0.1% in June 2026, marking its strongest reading since February. The improvement was driven by a 12.9 percentage point increase in production expectations for the next quarter and a 1.7 percentage point decline in inventory levels, partly offset by a 6.2 percentage point drop in current order volumes. Compared with June 2025, the industrial confidence indicator declined by 1.6 percentage points."
+    },
+    {
+      "id": "em:qqyh_mlc:202607303827093083",
+      "time": "2026-07-30 23:15:48",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲決議後首批資料釋出 長期美債收益率守住大部分漲幅】長期美國國債收益率守住本週美聯儲決議後錄得的大部分漲幅，一系列美國經濟資料顯示通脹仍然高企且勞動力市場具有韌性。30年期美國國債收益率週三在美聯儲維持利率不變後上漲逾10個基點，升至2007年以來最高水平，週四維持5.20%左右。美國國債期權市場繼續出現大量需求，以對沖未來數週收益率進一步上升的風險。週四公佈的美國經濟資料包括美聯儲青睞的通脹指標——基於6月個人收入和支出資料計算的個人消費支出（PCE）價格指數。該指數由5月的4.1%放緩至3.7%，符合經濟學家預期。自2021年3月以來，該指標每個月都高於美聯儲2%的目標。與此同時，6月曾回落的油價在美國恢復打擊伊朗後再度飆升。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607303827093083",
+      "time": "2026-07-30 23:15:48",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美聯儲決議後首批資料釋出 長期美債收益率守住大部分漲幅】長期美國國債收益率守住本週美聯儲決議後錄得的大部分漲幅，一系列美國經濟資料顯示通脹仍然高企且勞動力市場具有韌性。30年期美國國債收益率週三在美聯儲維持利率不變後上漲逾10個基點，升至2007年以來最高水平，週四維持5.20%左右。美國國債期權市場繼續出現大量需求，以對沖未來數週收益率進一步上升的風險。週四公佈的美國經濟資料包括美聯儲青睞的通脹指標——基於6月個人收入和支出資料計算的個人消費支出（PCE）價格指數。該指數由5月的4.1%放緩至3.7%，符合經濟學家預期。自2021年3月以來，該指標每個月都高於美聯儲2%的目標。與此同時，6月曾回落的油價在美國恢復打擊伊朗後再度飆升。"
+    },
+    {
+      "id": "5017391",
+      "time": "2026-07-30 23:15:11",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲決議後首批資料釋出 長期美債收益率守住大部分漲幅】長期美國國債收益率守住本週美聯儲決議後錄得的大部分漲幅，一系列美國經濟資料顯示通脹仍然高企且勞動力市場具有韌性。30年期美國國債收益率週三在美聯儲維持利率不變後上漲逾10個基點，升至2007年以來最高水平，週四維持5.20%左右。美國國債期權市場繼續出現大量需求，以對沖未來數週收益率進一步上升的風險。週四公佈的美國經濟資料包括美聯儲青睞的通脹指標——基於6月個人收入和支出資料計算的個人消費支出（PCE）價格指數。該指數由5月的4.1%放緩至3.7%，符合經濟學家預期。自2021年3月以來，該指標每個月都高於美聯儲2%的目標。與此同時，6月曾回落的油價在美國恢復打擊伊朗後再度飆升。“如果通脹沒有放緩，那麼存在長債收益率進一步上升的風險，”丹斯克銀行首席分析師Jens Peter Sorensen表示。“市場目前仍在猜測需要加息多少次，而且加息時點可能晚於市場預期。”"
+    },
+    {
+      "id": "5017389",
+      "time": "2026-07-30 23:13:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉全球汽車產量突破 1000 萬輛。"
+    },
+    {
+      "id": "5017388",
+      "time": "2026-07-30 23:13:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "AUMOVIO SE 股價在業績公佈後上漲13%。"
+    },
+    {
+      "id": "5017387",
+      "time": "2026-07-30 23:12:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國西南航空（SOUTHWEST AIRLINES CO）宣佈派發季度現金股息，每股派息0.18美元，股息記錄日為2026年9月3日。"
+    },
+    {
+      "id": "5017386",
+      "time": "2026-07-30 23:12:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟向烏克蘭撥付34.7億歐元軍事支援】歐盟委員會7月30日宣佈，已向烏克蘭撥付34.7億歐元的軍事支援，用於採購無人機、導彈、防空系統和戰鬥機等裝備。歐委會說，這筆資金來自歐盟計劃向烏克蘭提供的900億歐元貸款。烏克蘭總理科列茨基當天表示，烏克蘭已獲得這筆資金。歐盟於4月正式批准向烏克蘭提供900億歐元貸款，為烏提供2026至2027年的財政與軍事支援。就西方國家向烏克蘭提供軍事支援，俄羅斯外長拉夫羅夫先前多次警告，所有運至烏克蘭的武器都將成為俄軍合法打擊目標。（央視新聞）"
+    },
+    {
+      "id": "5017385",
+      "time": "2026-07-30 23:10:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川啟動四級防汛應急響應】根據當前防汛形勢，四川省防汛抗旱指揮部研究決定7月30日17時啟動四級防汛應急響應，同時四川省水利廳將洪水災害防禦四級響應升級為三級響應。記者從四川省水利廳瞭解到，經多部門會商研判，四川盆地西部山區發生山洪地質災害風險較高，大渡河、嘉陵江可能發生明顯漲水過程，青衣江、岷江、涪江、沱江可能發生超警洪水。四川省防汛抗旱指揮部辦公室已下發緊急通知，要求各地各部門全力以赴做好本輪連續性暴雨天氣過程防範應對工作。（新華社）"
+    },
+    {
+      "id": "5017384",
+      "time": "2026-07-30 23:10:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Aumovio SE：擴大合作，並將整合制動系統的使用許可權延長至2030年代中期。"
+    },
+    {
+      "id": "5017383",
+      "time": "2026-07-30 23:10:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄羅斯聯邦武裝力量全天持續打擊烏克蘭武裝部隊所使用的港口與海上船隻。命中敖德薩州新別利亞雷居民點一處燃油泵站與燃油配送設施； 四艘運載軍用物資的乾貨船，其中敖德薩港、尤日內港各一艘，另有兩艘在海上（敖德薩以南）航行途中遭打擊。"
+    },
+    {
+      "id": "5017382",
+      "time": "2026-07-30 23:08:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶彭水山體崩塌災害陸上搜尋完畢 水域清淤搜尋仍在進行中】7月17日9時許，重慶彭水漢葭街道發生大型山體崩塌災害。7月30日晚，彭水釋出情況通報，截至目前，陸上災害現場承災區域已全部搜尋完畢，將盡快恢復烏江三橋等中斷交通及相關地區的生活秩序。烏江水域清淤疏浚和搜尋工作仍在進行中。此次災害，共安全疏散群眾1100餘人；救出10人（3人已治癒出院）；目前找到並確認51人遇難，仍有10名失聯人員。家屬安撫、幫扶救助、安置善後等工作正在緊張有序推進。災害處置工作已進入受災群眾全面恢復正常生產生活、危巖整治、災後重建階段。（央視新聞）"
+    },
+    {
+      "id": "5017381",
+      "time": "2026-07-30 23:08:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "Aumovio 將向寶馬支付 3.5 億歐元達成和解。"
+    },
+    {
+      "id": "mkt:019fb391-8562-7aab-8f17-585abb70a3d6",
+      "time": "2026-07-30 23:08:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Google's DeepMind launched the Gemini Robotics ER2 model."
+    },
+    {
+      "id": "5017380",
+      "time": "2026-07-30 23:08:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐足聯成員達成共識，將抵制世界盃。"
+    },
+    {
+      "id": "5017379",
+      "time": "2026-07-30 23:07:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "重慶彭水山體崩塌救援結束。（新華社）"
+    },
+    {
+      "id": "5017378",
+      "time": "2026-07-30 23:04:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大灣區開出今年首趟“中山黃圃站-鹽田港”海鐵聯運專列】7月30日，一列滿載家用電器的集裝箱列車，從中山黃圃站緩緩駛出，一路開往深圳平湖南站並經由鹽田港出海，標誌著“中山黃圃站-鹽田港”長虹海鐵聯運專列成功首發，大灣區家電企業出海通道進一步暢通。（央視新聞）"
+    },
+    {
+      "id": "5017377",
+      "time": "2026-07-30 23:04:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "Aumovio 與寶馬達成和解。"
+    },
+    {
+      "id": "mkt:019fb38d-ec77-7aab-8f17-538c7284eebc",
+      "time": "2026-07-30 23:04:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan formally establishes National Intelligence Agency】On July 31 local time Japan formally established a National Intelligence Agency. The inaugural director is Hara Kazuya, who previously headed the National Police Agency’s Foreign Affairs Division, served as director general of the Security Bureau, and has been Cabinet intelligence officer since 2023. Under a law passed earlier by the Diet, Japan will build an intelligence architecture centered on a National Security Council with the National Intelligence Agency as the executive body. The agency will coordinate intelligence for national security and counterterrorism, conduct external intelligence activities related to foreign spies, and has authority to require ministries and agencies to provide intelligence."
+    },
+    {
+      "id": "5017376",
+      "time": "2026-07-30 23:03:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "Zoox已獲准在未來兩年內，每年最多商業部署2500輛自動駕駛計程車。"
+    },
+    {
+      "id": "5017375",
+      "time": "2026-07-30 23:03:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "藍貓頭鷹：機構對直接貸款的興趣有所回升。"
+    },
+    {
+      "id": "5017374",
+      "time": "2026-07-30 23:03:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "藍貓頭鷹：看好房地產信貸領域的機遇。"
+    },
+    {
+      "id": "5017373",
+      "time": "2026-07-30 23:02:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：推出 Gemini Robotics ER 2。"
+    },
+    {
+      "id": "5017372",
+      "time": "2026-07-30 23:01:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本政府正式設立“國家情報局”】當地時間7月31日，日本政府正式設立“國家情報局”。首任局長為原和也。原和也曾歷任警察廳外事課課長、警備局局長等職務，自2023年起擔任內閣情報官。根據此前在日本國會透過的法案，日本將構建以“國家情報會議”為核心、“國家情報局”為執行機構的情報體系，負責統籌安全保障、反恐等領域的情報活動以及涉外國間諜的“對外情報活動”。“國家情報局”還被賦予要求政府各省廳向其提供情報的綜合協調權。在高市早苗政府強力推動下，日本國會眾議院4月23日透過一項法案，計劃設定“國家情報會議”和“國家情報局”，意圖在二戰後首次構建國家級情報統合體系。日本政府7月24日在內閣會議上決定，該機構首任局長選定內閣情報官原和也。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fb38b-58a4-7aab-8f17-4b2115e49e02",
+      "time": "2026-07-30 23:01:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iran's Mehr News Agency reports explosions in Sanaa, Yemen."
+    },
+    {
+      "id": "mkt:019fb38a-9cc3-7aab-8f17-4646e7dd3fcb",
+      "time": "2026-07-30 23:00:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "By the 23:00 close, China's most-active futures contracts were mostly lower: coking coal down over 2%, coke down about 2%; low-sulfur fuel oil (LU), soda ash, LPG, iron ore, pulp and benzene down over 1%. Movers higher: PET flakes up over 1%, 20# rubber and p-xylene up around 1%."
+    },
+    {
+      "id": "mkt:019fb38a-719c-7aab-8f17-3c6c5a77c837",
+      "time": "2026-07-30 23:00:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Russia extends fuel export ban by six months】The Russian government said on July 30 it will extend a ban on exports of gasoline, diesel, marine fuel and light diesel for six months, effective Aug 1, 2026–Jan 31, 2027, citing moves to stabilize the domestic fuel market. Under new rules, from Sept 1 fuel producers will be allowed to export diesel, marine fuel and light diesel directly, exempting those flows from the ban."
+    },
+    {
+      "id": "te:markets:571305",
+      "time": "2026-07-30 23:00:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Japanese Yen Appreciates by 2.52% — Top currency gainers are Japanese Yen (2.52%), New Zealand Dollar (1.13%), Brazilian Real (1.10%), British Pound (0.40%) and Euro (0.31%). Biggest loser is Dollar Index (-0.74%)."
+    },
+    {
+      "id": "mkt:019fb38a-3bf9-7aab-8f17-37e73b042822",
+      "time": "2026-07-30 23:00:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Market sources said Russia's oil exports via western ports in July are expected to fall about 4% m/m from June after Ukrainian attacks reduced Black Sea loadings."
+    },
+    {
+      "id": "5017371",
+      "time": "2026-07-30 22:59:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯延長燃料出口禁令6個月】俄羅斯聯邦政府7月30日釋出訊息稱，為穩定國內燃料市場，政府決定將汽油、柴油、船用燃料和輕柴油出口禁令延長6個月，執行期限為2026年8月1日至2027年1年1月31日。同時，根據新規定，自9月1日起，燃料生產企業直接出口柴油、船用燃料和輕柴油將不受禁令限制。（央視新聞）"
+    },
+    {
+      "id": "5017370",
+      "time": "2026-07-30 22:59:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家廣播電視總局聯合工業和資訊化部召開一體化電視全國推廣工作部署會】7月30日，國家廣播電視總局聯合工業和資訊化部召開一體化電視全國推廣工作部署會。會議要求，錨定年度數千萬部署目標不動搖，嚴格落實一體化電視技術標準，打通線上線下渠道、創新高效裝維新模式，深化協同、築牢產業基礎，紮實推進一體化電視規模部署各項重點任務落地見效。把一體化電視全國推廣與超高畫質發展，提升公共場所、農村地區以及適老化服務體驗，鞏固“雙治理”成果等工作統籌起來，確保各項工作相互促進、協同落地。"
+    },
+    {
+      "id": "5017369",
+      "time": "2026-07-30 22:59:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：歐足聯成員將抵制世界盃，抗議國際足聯出售轉播權計劃。"
+    },
+    {
+      "id": "5017368",
+      "time": "2026-07-30 22:58:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞穗：升Bloom Energy評級至“跑贏大市”，目標價242美元】瑞穗將Bloom Energy的評級由“中性”上調至“跑贏大市”，並設定242美元的目標價。瑞穗指出，Bloom Energy的執行力超出預期，利潤率擴張加速，營運槓桿持續改善，而近期股價回撥亦為投資者創造了具吸引力的入場時機。"
+    },
+    {
+      "id": "5017367",
+      "time": "2026-07-30 22:58:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "法律資訊網站訊息：針對 Coinbase 產品發售的證券訴訟範圍遭到縮減。"
+    },
+    {
+      "id": "5017366",
+      "time": "2026-07-30 22:58:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：葉門首都傳來爆炸聲。"
+    },
+    {
+      "id": "5017365",
+      "time": "2026-07-30 22:57:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，受烏克蘭襲擊影響黑海裝貨量，俄羅斯7月經西部港口的石油出口量將較6月下降約4%。"
+    },
+    {
+      "id": "mkt:019fb387-f6de-7aab-8f17-284f5f4c6a17",
+      "time": "2026-07-30 22:57:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's National Radio and Television Administration and Ministry of Industry and Information Technology hold national integrated-TV rollout meeting】On July 30, China's National Radio and Television Administration and Ministry of Industry and Information Technology held a national deployment meeting to accelerate rollout of integrated TV. The agencies reaffirmed an unchanged annual target of tens of millions of installations, ordered strict enforcement of integrated-TV technical standards, and instructed opening online and offline distribution channels and new, more efficient installation-and-maintenance models. They called for deeper interagency and industry coordination to strengthen the industrial base and ensure scale deployment delivers measurable results. Rollout will be coordinated with ultra-high-definition development and upgrades to public venues, rural coverage and elderly-friendly services, while consolidating recent 'double governance' achievements to ensure mutually reinforcing implementation."
+    },
+    {
+      "id": "5017364",
+      "time": "2026-07-30 22:57:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【袁記食品二次遞表，兩週前已獲證監會備案】7月30日，袁記食品集團股份有限公司（以下簡稱“袁記食品”）向香港聯交所遞交更新後的招股書。值得注意的是，被稱為“現制餃子云吞第一股”的袁記食品，此前已獲中國證監會境外發行上市備案通知書。此次更新招股書，意味著袁記食品赴港上市程序已邁入拿到關鍵“路條”後的實質性推動階段。據最新招股書披露，2025年度袁記食品門店GMV達66.62億元，營收27.95億元，經調整淨利潤2.62億元。門店規模方面，截至2026年5月30日，全球門店總數達4773家，其中海外門店41家，海外市場佈局初具規模。"
+    },
+    {
+      "id": "5017363",
+      "time": "2026-07-30 22:54:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【電影《年會不能停2！》點映及預售總票房破3000萬】據燈塔專業版實時資料，截至7月30日22時29分，影片《年會不能停2！》點映及預售總票房突破3000萬元。"
+    },
+    {
+      "id": "5017362",
+      "time": "2026-07-30 22:54:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "Xcel Energy預計明尼蘇達州谷歌資料中心專案將在2027年初獲得委員會批准。"
+    },
+    {
+      "id": "mkt:019fb384-c8a8-7aab-8f17-27d9cffbec97",
+      "time": "2026-07-30 22:54:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Defense Forces said it has dismantled more than 10 underground tunnel routes, including one used to detain hostages."
+    },
+    {
+      "id": "mkt:019fb384-3df5-7aab-8f17-195028eb4ab0",
+      "time": "2026-07-30 22:53:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【China's He holds video call with US Treasury Secretary Bessent and Trade Representative Grier】On July 30 Beijing time, China’s He Lifeng held a video call with US Treasury Secretary Bessent and Trade Representative Grier. China expressed serious concern about recent US trade restrictions; both sides agreed to leverage bilateral economic and trade consultation mechanisms, strengthen communication, build trust, expand practical cooperation and properly address mutual concerns under leaders’ strategic guidance to stabilize and improve China‑US economic and trade ties and support a constructive strategic‑stability relationship."
+    },
+    {
+      "id": "mkt:019fb383-ade6-7aab-8f17-17f369c66fc2",
+      "time": "2026-07-30 22:52:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish",
+        "AMD.O",
+        "INTC.O"
+      ],
+      "text": "【Semiconductor sharp rebound — flows buying recovery, not broad rotation?】The Philadelphia Semiconductor Index (SOX) extended gains to 9%, outperforming the Nasdaq by 2.6%, signaling concentration in chip names rather than a broad tech rally. Micron, AMD and Intel each rose more than 14%; these stocks had steeper valuation-led declines earlier, giving them greater rebound elasticity. Prior selling reflected worries about AI capex returns, rich chip valuations and spillover from Korean semiconductor sell-offs that de-risked the AI hardware chain. The SOX bounce indicates flows are returning to the most elastic, previously oversold segments, but it does not prove the AI investment narrative has been fully repaired."
+    },
+    {
+      "id": "5017361",
+      "time": "2026-07-30 22:52:59",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【何立峰與美國財政部長貝森特、貿易代表格里爾舉行視訊通話】北京時間7月30日晚，中美經貿中方牽頭人、國務院副總理何立峰與美方牽頭人、美國財政部長貝森特和貿易代表格里爾舉行視訊通話，雙方圍繞落實好中美兩國元首北京會晤重要共識，就下一階段中美雙方保持經貿關係穩定、拓展務實合作、妥善解決彼此關切，進行了坦誠、深入、富有建設性的交流。中方就近期美對華經貿限制措施表達嚴正關切。雙方同意在兩國元首戰略引領下，進一步發揮好中美經貿磋商機制作用，加強溝通、增信釋疑、拓展合作，推動中美經貿關係穩定向好，助力構建中美建設性戰略穩定關係。（新華社）"
+    },
+    {
+      "id": "mkt:019fb383-7940-7aab-8f17-0b5654c211c0",
+      "time": "2026-07-30 22:52:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【USD/JPY halts decline, rebounds over 150 pips from its low to 159.6】USD/JPY halted its decline and rebounded, trading at 159.6, more than 150 pips above its low."
+    },
+    {
+      "id": "5017360",
+      "time": "2026-07-30 22:52:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多家企業宣佈成立開放安全AI聯盟】近日，英偉達、微軟、IBM、思科、帕蘭蒂爾技術等美國、德國、韓國的數十家科技企業，宣佈成立“開放安全人工智慧聯盟”。聯盟以共建共享開源 AI 安全工具、完善AI 防禦體系為公開宗旨。伴隨這次“結盟”，人工智慧領域長期存在的“開源路線”與“閉源路線”之爭，也從幕後走向臺前。（CCTV國際時訊）"
+    },
+    {
+      "id": "5017359",
+      "time": "2026-07-30 22:51:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一汽-大眾ID. AURA T6開啟盲訂】7月30日，一汽-大眾宣佈ID. AURA T6開啟盲訂，新車配備4nm工藝智艙晶片，算力約20TOPS，可穩定支援端側大模型部署。"
+    },
+    {
+      "id": "5017358",
+      "time": "2026-07-30 22:51:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【甲骨文擴大與谷歌雲合作 為企業客戶增加Gemini選項 】甲骨文宣佈擴大與谷歌雲合作，將Gemini模型引入企業應用產品組合。受此訊息提振，甲骨文美股盤前及盤中股價大幅拉昇，漲幅一度超過8%。根據雙方釋出的宣告，此次合作建立在客戶現有透過甲骨文雲基礎設施（OCI）企業AI平臺訪問Gemini模型的基礎之上。現在，谷歌的Gemini模型將正式接入甲骨文的綜合開發平臺Oracle AI Agent Studio for Fusion Applications。該平臺允許企業使用可重複使用的甲骨文、合作伙伴及外部代理，來構建、連線、執行和執行AI自動化及代理型應用。此外，甲骨文還計劃在Oracle Fusion Applications和Oracle NetSuite的嵌入式AI場景中廣泛使用Gemini模型。谷歌雲副總裁薩蒂什·托馬斯（Satish Thomas）表示，此次擴大合作旨在讓企業更便捷地在所依賴的應用和代理工作流中使用Gemini，以實現工作流自動化、加速決策並推動業務成果交付。"
+    },
+    {
+      "id": "5017357",
+      "time": "2026-07-30 22:50:51",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【花旗：下調高通目標價至175美元，下調2026至28財年盈測，維持“中性”評級】花旗發表報告指，高通第三季收入99.5億美元，環比下跌6%，高於市場預期的97億美元，主要受汽車業務(佔第三季銷售16%)勝預期帶動；毛利率53.7%，環比下跌72個基點，低於市場預期的55.3%，因投入成本上升及產品組合轉差；每股盈利1.52美元，較市場預期低1%。管理層對第四季收入指引為101億美元，環比增長2%，高於市場預期的100.7億美元，受汽車業務強勁帶動；惟每股盈利指引1.43美元，低於市場預期的1.58美元，因毛利率受壓及營運開支上升。高通預期在即將推出的iPhone中，其所佔份額將較此前預期的20%大幅下降，蘋果相關收入將由9月季度至12月季度減少約一半。花旗指，資料中心首兩個定製晶片設計專案將於12月季度開始貢獻收入(估計約6億美元)，2027財年資料中心收入有望達50億美元，2029財年達150億美元，惟首批資料中心產品毛利率料顯著低於基線水平，對QCT毛利率構成1.5至2個百分點的拖累。花旗下調2026至2028財年每股盈利預測3%、23%及19%，目標價由198美元下調至175美元，相當於2028財年預測市盈率20倍，維持“中性”評級。"
+    },
+    {
+      "id": "mkt:019fb380-5e01-7aab-8f17-057b9864b352",
+      "time": "2026-07-30 22:49:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【Analyst: Now a favorable window for Japanese authorities to support the yen】USD/JPY plunged as much as 3% to 158.34 on Thursday, off this week’s 40-year high and on course for its largest one-day fall since end-2022. Traders widely saw the move as bearing the hallmarks of Japanese government FX intervention after months of yen weakness. Tokyo has warned it would act if the yen kept sliding; surging energy import costs have amplified household pressure and raised the political cost of depreciation. The move came ahead of Friday’s BOJ policy meeting and after the Fed left rates unchanged in a split vote on Wednesday, which weakened the dollar. FX strategists said month‑end position-squaring, weak US data and dollar softness created a favorable window for authorities to buy yen. Japan’s finance minister Katayama has repeatedly reiterated the government stands ready to act in FX markets."
+    },
+    {
+      "id": "mkt:019fb380-21b3-7aab-8f16-fb21bb58687e",
+      "time": "2026-07-30 22:49:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli official: Hamas and mediators make \"progress\" on disarmament】An Israeli official said on the 30th that Hamas and mediators meeting in Cairo have made \"progress\" on disarmament. A proposed roadmap calls for the removal of all weapons from Gaza, staged handover of responsibilities and a final transfer of authority to a Palestinian technocratic government. The official said the plan would make \"no exceptions\" for any weapons or personnel and sets procedures to dismantle tunnels, weapons storage and production facilities. All weapons in Gaza would be placed under the comprehensive control of a Gaza National Administrative Committee, coordinated and supported by international security forces. The process is to proceed on a reciprocity basis, with Israeli responses tied to Hamas compliance."
+    },
+    {
+      "id": "5017356",
+      "time": "2026-07-30 22:47:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度總理莫迪主持召開內閣安全委員會會議，統籌應對中東衝突影響】印度總理莫迪主持召開內閣安全委員會（CCS）特別會議，就持續升級的中東局勢對印度造成的影響及應對措施進行審議。這是該委員會近期就中東衝突召開的第四次特別會議。據印度總理辦公室釋出的新聞稿，莫迪在會上呼籲建立統一協調機制，以全面監測中東衝突的事態發展及其對印度的潛在影響。會議重點評估了能源、農業、航運等關鍵領域的供應保障情況。在能源安全方面，會議確認印度目前的原油和液化石油氣（LPG）庫存及供應依然充足，國營煉油廠保持100%的開工率。為應對液化天然氣（LNG）供應緊張，印度政府正採取多項緊急措施，包括擴建國家天然氣管網、加強LNG進口和再氣化基礎設施建設，以及擴大城市燃氣分銷網路。同時，政府將根據《2026年管道基礎設施令》，在規定時間內加快審批管道和“最後一公里”連線專案，以促進工業領域對LPG的替代使用。"
+    },
+    {
+      "id": "5017355",
+      "time": "2026-07-30 22:47:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【G30連霍高速新疆“咽喉”段完成改擴建通車運營】30日，G30連霍高速公路星星峽至哈密段、哈密至吐峪溝段完成改擴建，全線通車運營，進出新疆“咽喉”路段由過去雙向四車道拓寬為雙向八車道，進出疆高速通行能力翻倍。 G30連霍高速是國家高速公路網中重要的東西橫向主幹線，也是進出新疆高速公路三大通道之一。星哈段、哈吐段分別位於新疆哈密市、吐魯番市境內，是進出新疆重要的“咽喉”路段。該路段投用多年，隨著交通量逐年攀升，高峰時段通行不暢，日漸成為制約區域發展的“瓶頸”。 2023年，星哈段、哈吐段改擴建工程啟動，專案總里程為537公里，設計速度為120公里/小時。 為進一步提升通行效率，新疆取消了星哈段、哈吐段主線收費站，幫助車輛快速透過，同時配套建設防風設施與大風預警系統，提升出行的安全性與舒適度。 新疆維吾爾自治區交通運輸廳介紹，截至目前，新疆擁有G7京新高速、G30連霍高速、依吞布拉克至若羌高速三條進出疆高速公路通道，所有地州市實現了高速公路全覆蓋，高速公路通車裡程已突破8000公里。（新華社）"
+    },
+    {
+      "id": "5017354",
+      "time": "2026-07-30 22:46:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“維港紐帶創科基金”在港簽約 首批專案聚焦硬科技】“維港紐帶創科基金”簽約儀式30日在港舉行，首批9個滬港科創儲備專案正式亮相。這是香港特區政府“創科創投基金”最佳化計劃下特區政府與內地機構合作簽約設立的首隻基金。“維港紐帶創科基金”總規模6億港元，由上海國有資本投資有限公司作為基石投資人，中信資本擔任管理人，交銀國際、太平資管（香港）擔任共同管理人，香港特區政府“創科創投基金”以有限合夥人身份參與出資。香港特區政府於2017年成立20億港元“創科創投基金”，旨在鼓勵更多風險投資（風投）基金共同投資於本地創新及科技（創科）初創企業。2024年施政報告提出最佳化“創科創投基金”，調撥15億港元與業界以配對形式成立聯合基金，投資策略性產業的初創企業。簽約儀式上，香港特區政府創新科技及工業局局長孫東致辭表示，“創科創投基金”最佳化計劃採用政府與市場1:3配資模式，推出以來收到超60份基金申請。他認為，“創科創投基金”最佳化計劃是有為政府與高效市場有機結合，撬動耐心資本培育新質生產力；扶持三大策略性產業初創企業加快商業化；與實力資本聯手助力初創企業“走出去”，藉助網路幫助港企開拓市場。（新華社）"
+    },
+    {
+      "id": "mkt:019fb37d-3692-7aab-8f16-f1be79895045",
+      "time": "2026-07-30 22:45:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Two regional officials said Houthi militants, in cooperation with Iraqi militias, earlier launched an attack on Saudi Arabia from Iraqi territory."
+    },
+    {
+      "id": "5017353",
+      "time": "2026-07-30 22:44:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "兩名地區官員稱，胡塞武裝與伊拉克民兵合作，從伊拉克領土發動了針對沙烏地阿拉伯的襲擊。"
+    },
+    {
+      "id": "5017352",
+      "time": "2026-07-30 22:44:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【染料原料單日飆漲64%、均價增逾三成，行業景氣度持續上行】染料原料H酸均價單日增逾三成，行業開啟新一輪漲價週期。據百川盈孚資料，7月28日，活性染料關鍵原料H酸行業均價從6.1萬元/噸上漲31.15%至8萬元/噸。當日，H酸頭部廠商大柴旦和信科技有限公司出廠價上調至10萬元/噸，單日漲幅達64%，較年初4萬元/噸的價格累計上漲近150%，觸及歷史高位。活性染料與分散染料是染料行業兩大核心品類，各自對應不同的關鍵中間體。作為活性染料的關鍵中間體，H酸生產涉及磺化等高危工藝，並伴隨大量廢酸處理，環保與安全監管門檻極高，近年來中小型落後產能持續退出。據染料龍頭閏土股份（002440）披露的投資者關係活動記錄表，目前我國H酸有效產能已不足6萬噸，存在10%以上供給缺口。（澎湃）"
+    },
+    {
+      "id": "mkt:019fb37c-075a-7aab-8f16-e8c17547ceef",
+      "time": "2026-07-30 22:44:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi state news agency reports Kuwait's chief of staff met in Saudi Arabia with the defense alliance to safeguard freedom of navigation in the Bab al-Mandeb Strait."
+    },
+    {
+      "id": "5017351",
+      "time": "2026-07-30 22:44:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Meta未來資料中心租賃承諾激增至2790億美元，全力押注AI算力基建】7月29日，美國科技巨頭Meta Platforms Inc.（META）在最新監管檔案中披露，為支撐人工智慧（AI）領域的快速擴張，公司未來的資料中心租賃承諾規模已大幅攀升。截至今年6月30日，Meta尚未開始履行的租賃承諾總額達到2790億美元，較上一季度的1830億美元大幅增長53%，顯示出其在AI基礎設施領域的投資步伐正顯著加快。Meta在檔案中指出，這些尚未反映在資產負債表中的未來支出，主要涉及資料中心、託管機房以及特定網路基礎設施的建設與運營。僅在今年7月，Meta就新增了高達680億美元的租賃承諾，這些合同預計將在2027年和2028年陸續開始執行。這一鉅額租賃承諾的背後，是Meta為搶佔AI賽道而進行的“軍備競賽”。隨著AI模型訓練和推理對算力需求的爆發式增長，全球科技巨頭正以前所未有的規模鎖定資料中心資源。資料顯示，包括Meta、微軟、亞馬遜和甲骨文在內的頭部企業，未來需要履行的資料中心租賃承諾總額目前已突破8500億美元。"
+    },
+    {
+      "id": "5017350",
+      "time": "2026-07-30 22:43:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特通訊社報道，科威特總參謀長在沙烏地阿拉伯會見了負責維護曼德海峽航行自由的防務聯盟。"
+    },
+    {
+      "id": "5017349",
+      "time": "2026-07-30 22:42:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍聯合行動在埃齊翁地區逮捕多名通緝人員】當地時間7月30日，以色列國防軍（IDF）、以色列國家安全總局（ISA）及以色列邊防警察發表聯合宣告稱，過去24小時內，以方安全部隊在埃齊翁地區旅的貝特烏瑪爾地區展開大規模反恐行動，旨在逮捕通緝人員。宣告指出，此次行動共掃描了超過170處建築，逮捕了多名通緝人員，並查獲了各類武器。以方稱，近期該地區發生家族衝突，有通緝人員從衝突區域開火，引發擔憂，恐戰火蔓延至周邊社群。因此，此次行動的重點是逮捕捲入衝突的通緝人員。宣告還提到，在行動準備階段，以色列警察於29日（週三）在該地區逮捕了一名參與衝突槍擊事件的通緝人員。"
+    },
+    {
+      "id": "te:markets:571301",
+      "time": "2026-07-30 22:42:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Qualcomm Stock Price Hits 13-week Low — Qualcomm shares decreased to 146.30 USD, the lowest since April 2026. Over the past 4 weeks, Qualcomm lost 18.15%, and in the last 12 months, it decreased 4.91%."
+    },
+    {
+      "id": "mkt:019fb37a-1e8f-7aab-8f16-e53639a6b3f9",
+      "time": "2026-07-30 22:42:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Spain's IBEX 35 index gained 2.00% intraday."
+    },
+    {
+      "id": "5017348",
+      "time": "2026-07-30 22:42:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲銀行（EUROBANK SA）上半年經調整淨利潤同比增長9.2%，達到7.76億歐元。"
+    },
+    {
+      "id": "te:markets:571300",
+      "time": "2026-07-30 22:42:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Edge Up Slightly After EIA Data — US natural gas prices edged higher to around $2.75 per MMBtu after the latest EIA report showed a smaller-than-expected increase in storage last week. Energy firms added 28 billion cubic feet of gas in the week ended July 24, below market expectations for a 35 bcf build. Despite the modest rebound, prices remained near their lowest level since early May as inventories stayed 6.4% above the five-year seasonal average, indicating ample supply. Production also remained strong, with output in the Lower 48 states averaging 110.6 bcfd so far in July, matching the record monthly high set in December 2025. LNG export demand softened slightly, with flows to major export terminals averaging 17.2 bcfd, down from 17.4 bcfd in June, partly because of scheduled maintenance at Freeport LNG’s Texas facility. Updated weather forecasts calling for cooler temperatures across the central and eastern US in the coming weeks also weighed on prices by reducing expected air-conditioning demand."
+    },
+    {
+      "id": "5017347",
+      "time": "2026-07-30 22:41:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東鵬飲料上半年淨利增超20%：茶類飲料營收增2倍，擬分紅21.81億元】東鵬飲料釋出“A+H”上市後的首份半年報，擬分紅21.81億元。7月30日，東鵬飲料（605499.SH，09980.HK）釋出2026年半年報，營收124.43億元，同比增長15.89%；歸屬於上市公司股東的淨利潤28.67億元，同比增長20.72%。（澎湃）"
+    },
+    {
+      "id": "5017346",
+      "time": "2026-07-30 22:41:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "長江實業 <6869> 披露交易：收購長江實業上海有限公司25%股權。"
+    },
+    {
+      "id": "5017345",
+      "time": "2026-07-30 22:40:50",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國二季度經濟增速放緩至1.5%，核心通脹指標出現降溫跡象】當地時間7月30日，美國經濟分析局公佈初步估算資料顯示，美國第二季度實際國內生產總值（GDP）按年率增長1.5%，低於第一季度的2.1%，也低於市場預期的1.8%。儘管整體經濟增速有所放緩，但作為經濟主要驅動力的居民消費和企業投資表現強勁，顯示出美國內需依然具備較強韌性。資料顯示，佔美國經濟活動約三分之二的個人消費支出在第二季度按年率增長3.2%，較第一季度0.5%的增速顯著回升。6月份經通脹調整後的實際消費支出環比增長0.4%，創下近一年來的最高月度增速。季末汽油價格回落、年度退稅紅利釋放以及商家暑期促銷活動，共同提振了家庭消費意願，有效對沖了地緣衝突推高物價的負面衝擊。除消費外，企業商業投資的強勢增長成為經濟增長的重要增量。在人工智慧產業熱潮的帶動下，Meta、微軟等頭部科技企業持續加碼AI賽道，大規模佈局資料中心建設並擴充算力資本開支。即便在高利率環境下，AI領域的企業資本支出熱度依舊不減，彰顯市場對AI產業長期發展的堅定信心。此外，衡量內需真實動能的“國內私人最終銷售額”在第二季度大漲3.9%，創2023年初以來最高水平，進一步印證了美國潛在需求的強勁。在通脹方面，同日公佈的配套資料顯示，美聯儲最關注的通脹指標——個人消費支出（PCE）物價指數6月環比下降0.1%，為2020年新冠疫情以來首次出現月度負增長，同比漲幅由前月的4.1%收窄至3.7%。剔除波動較大的食品和能源後，核心PCE物價指數環比僅上漲0.1%，低於市場預期的0.2%，同比增速從3.4%小幅回落至3.3%。分析指出，本輪通脹短期降溫的核心驅動因素為能源價格下行。受美伊達成臨時停火協議影響，國際油價階段性回落，直接拖累整體PCE指數走低。然而，此次通脹回落具備較強偶發性，美伊雙方核心分歧尚未化解，臨時停火協議穩定性薄弱，國際油價依舊處於歷史相對高位，為後續通脹反彈埋下隱患。作為美聯儲錨定通脹趨勢的核心指標，當前核心PCE同比3.3%的增速仍遠高於美聯儲2%的長期目標，且已連續第六年維持目標值上方，表明美國通脹的結構性內生壓力並未徹底消退。"
+    },
+    {
+      "id": "mkt:019fb378-7458-7aab-8f16-db1060975548",
+      "time": "2026-07-30 22:40:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Institution: Stable currencies shouldn't be this volatile absent intervention】Juan Perez, Monex USA's Washington trading chief, said the yen is normally a very stable asset; intraday moves above 1%, and especially near 2%, typically signal some form of intervention."
+    },
+    {
+      "id": "mkt:019fb377-9371-7aab-8f16-d3eed442fc80",
+      "time": "2026-07-30 22:39:45",
+      "tags": [
+        "MKT News",
+        "GALP.LS",
+        "Impact bearish"
+      ],
+      "text": "【Portugal approves temporary windfall tax on oil producers and refiners】Portugal approved a temporary windfall tax on oil exploration and refining companies at Thursday’s cabinet meeting, a government spokesman said. The levy will target profit portions materially above recent averages. The move comes amid fuel-price rises linked to the Iran war that have boosted producers’ and refiners’ earnings. Proceeds will fund household and vulnerable-business fuel-cost relief and investments to reduce Portugal’s reliance on fossil fuels. Galp Energia shares fell up to 3.2% on the Lisbon market after the announcement."
+    },
+    {
+      "id": "5017344",
+      "time": "2026-07-30 22:38:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：將7月31日美元對盧布官方匯率設定為1美元兌換79.8573盧布，此前公佈的預期匯率為79.3570盧布。"
+    },
+    {
+      "id": "5017343",
+      "time": "2026-07-30 22:38:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇樹科技員工資管計劃擬參與IPO戰略配售，王興興認購1500萬】7月30日晚，宇樹科技在首次公開發行股票並在科創板上市招股意向書披露，公司高階管理人員與核心員工擬透過資產管理計劃參與本次發行戰略配售，分別為宇樹科技員工1號資管計劃和宇樹科技員工2號資管計劃，參與戰略配售的數量不超過本次發行規模的10%，即404.4643萬股；同時參與認購金額合計不超過27,150萬元，最終戰略配售數量將在確定發行價格後確定。其中，宇樹科技員工1號資管計劃募集資金全部用於參與本次戰略配售，即用於支付本次戰略配售的價款為21,850萬元。員工2號資管計劃募集資金全部用於參與本次戰略配售，即用於支付本次戰略配售的價款為5,300萬元。名單顯示，宇樹科技員工1號資管計劃參與人員包括財務總監王楓等161人，宇樹科技員工2號資管計劃參與人員包括董事長王興興等10人，其中王興興認購金額1500萬元。"
+    },
+    {
+      "id": "mkt:019fb376-4fde-7aab-8f16-cd9115871228",
+      "time": "2026-07-30 22:38:23",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【BBVA: Japan likely intervened during dollar-weakness window】BBVA G10 FX strategy head Roberto Cobo Garcia said USD/JPY's sharp decline strongly suggests Japanese official intervention. Authorities appear to have seized dollar weakness following weak US economic data to sell dollars and support the yen."
+    },
+    {
+      "id": "te:economy:571299",
+      "time": "2026-07-30 22:37:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Natural Gas Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Stocks Rise Less Than Expected — US energy firms injected 28 billion cubic feet (bcf) of natural gas into storage in the week ended July 24, 2026, below market expectations for a 35 bcf build, according to EIA data. Total working gas in storage rose to 3.084 trillion cubic feet. Inventories were 1% below levels recorded a year earlier but remained 6.4% above the five year seasonal average, pointing to relatively comfortable supply conditions. The latest build followed a 32 bcf injection in the previous week ended July 17."
+    },
+    {
+      "id": "5017341",
+      "time": "2026-07-30 22:36:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利比索升值1.52%，美元兌比索報價為922.20比索/922.50比索。"
+    },
+    {
+      "id": "mkt:019fb374-8727-7aab-8f16-c4698075fe11",
+      "time": "2026-07-30 22:36:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【Institution says yen's 400‑pip surge not solely dollar weakness】Neil Jones, head of FX sales and trading at TJM, said the 400‑pip drop in USD/JPY strongly suggests the Japanese Ministry of Finance (MOF) may have conducted further official intervention. The yen has strengthened against all major currencies, so this is not merely dollar weakness."
+    },
+    {
+      "id": "5017340",
+      "time": "2026-07-30 22:36:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "瓦萊羅航空燃油價格將在整個三季度持續上漲，加州油品可流向歐洲。"
+    },
+    {
+      "id": "te:markets:571298",
+      "time": "2026-07-30 22:36:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "TotalEnergies SE Stock Price Hits 7-week High — TotalEnergies SE shares increased to 78.50 EUR, the highest since June 2026. Over the past 4 weeks, TotalEnergies SE gained 14.11%, and in the last 12 months, it increased 44.6%."
+    },
+    {
+      "id": "5017339",
+      "time": "2026-07-30 22:35:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【費城半導體指數大漲9%】美股半導體板塊漲勢進一步擴大，費城半導體指數漲幅擴大至9%，納斯達克綜合指數現漲2.6%。美光科技(MU.O)漲超16%，AMD(AMD.O)漲超15%，英特爾(INTC.O)漲超14%。"
+    },
+    {
+      "id": "mkt:019fb373-a284-7aab-8f16-bf58ecf4b91f",
+      "time": "2026-07-30 22:35:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish",
+        "AMD.O",
+        "INTC.O"
+      ],
+      "text": "【Philadelphia semiconductor index jumps 9%】US semiconductor rally extended as the Philadelphia Semiconductor Index rose 9%; Nasdaq Composite up 2.6%. Micron Technology (MU.O) +16%, AMD (AMD.O) +15%, Intel (INTC.O) +14%."
+    },
+    {
+      "id": "5017338",
+      "time": "2026-07-30 22:35:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳門特區政府與國家工信部簽署《關於發展新質生產力推進新型工業化的合作協議》】澳門特區政府與國家工業和資訊化部30日在特區政府總部簽署《關於發展新質生產力推進新型工業化的合作協議》。特區政府經濟財政司司長吳惠嫻與國家工業和資訊化部副部長熊繼軍分別代表澳門特區政府與國家工業和資訊化部簽署合作協議。雙方將圍繞支援澳門發展新質生產力、推進新型工業化等加強交流合作，助力澳門更好融入和服務國家發展大局。（新華網）"
+    },
+    {
+      "id": "5017337",
+      "time": "2026-07-30 22:35:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲火災威脅轉移：英國與希臘爆發新火情】隨著新爆發的火災迫使從英格蘭東南部到希臘克里特島的居民緊急疏散，歐洲的野火威脅正在發生轉移；與此同時，較涼爽的天氣正幫助消防員在法國西南部取得滅火進展。消防員在夜間控制法國西南部火勢方面取得了進展，在燒燬約420平方公里土地後，火勢已趨於穩定。氣候變化正在增加歐洲大陸出現危險天氣的風險，未來數週預計將有更多炎熱乾燥天氣，這使得火災季節極有可能一直延續到秋季。"
+    },
+    {
+      "id": "5017336",
+      "time": "2026-07-30 22:34:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌首席財務官表示，希望在2027年上半年舉辦資本市場日。"
+    },
+    {
+      "id": "mkt:019fb371-ca3c-7aab-8f16-b697564c35d1",
+      "time": "2026-07-30 22:33:26",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "【China Coast Guard conducts law-enforcement patrols in Huangyan Island territorial waters】On July 30 the China Coast Guard carried out law-enforcement patrols in China’s Huangyan Island territorial waters and adjacent areas. Since early July it has stepped up patrols and enforcement, employing verbal warnings, interception/blocking and water cannon to expel unauthorised intruding and harassing vessels, and has tightened control of the waters to safeguard China’s territorial sovereignty and maritime rights."
+    },
+    {
+      "id": "5017335",
+      "time": "2026-07-30 22:33:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國人民解放軍南部戰區位中國黃巖島領海領空及周邊區域組織戰備警巡】7月30日，中國人民解放軍南部戰區組織海空兵力位中國黃巖島領海領空及周邊海空域開展戰備警巡。黃巖島是中國固有領土。7月份以來，戰區部隊持續加強黃巖島領海周邊海空域巡邏警戒，有力有效應對各類侵權挑釁行徑，堅決捍衛國家主權安全，堅定維護南海地區和平穩定。(新華社)"
+    },
+    {
+      "id": "mkt:019fb371-6090-7aab-8f16-ab66798e2f3a",
+      "time": "2026-07-30 22:32:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "USDJPY"
+      ],
+      "text": "The PLA Southern Theater Command conducted combat-readiness alert patrols in the territorial waters, airspace and adjacent areas around China's Huangyan Island (Scarborough Shoal)."
+    },
+    {
+      "id": "mkt:019fb371-30c5-7aab-8f16-a769d51927f2",
+      "time": "2026-07-30 22:32:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures turned higher, up 1%, after the EIA reported a weekly storage build smaller than expected."
+    },
+    {
+      "id": "5017334",
+      "time": "2026-07-30 22:32:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國海警位中國黃巖島領海及周邊區域執法巡查】7月30日，中國海警位中國黃巖島領海及周邊區域開展執法巡查。7月份以來，中國海警持續加強黃巖島領海及周邊區域執法巡查，依法依規採取喊話警告、攔阻管制、水炮噴射等必要措施驅離非法侵權滋擾船隻，進一步強化有關海域管控，堅決維護國家領土主權和海洋權益。（中國海警）"
+    },
+    {
+      "id": "5017333",
+      "time": "2026-07-30 22:32:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）公佈天然氣庫存增幅低於預期後，美國天然氣期貨轉漲，漲幅達1%。"
+    },
+    {
+      "id": "5017332",
+      "time": "2026-07-30 22:31:41",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【盧拉證實巴西拒籤兩名美國官員：他們被派來干涉大選】據路透社報道，巴西總統盧拉當地時間29日證實，巴西政府已拒絕兩名美國官員的赴巴簽證申請，理由是巴方認為美官員此行意在干涉巴西的總統選舉。 盧拉當天晚些時候在一場活動上表示，“我們不得不拒絕向他們派往巴西、企圖干涉巴西選舉的兩名年輕人發放簽證。”此前，巴西外交部25日確認，拒絕向美國國務院負責民主、人權和勞工事務的助理國務卿萊利·巴恩斯以及助理國務卿幫辦塞繆爾·薩姆森發放簽證，但其並未提及原因。（環球網）"
+    },
+    {
+      "id": "5017331",
+      "time": "2026-07-30 22:30:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌首席財務官表示，天然氣交易團隊從第三方採購了接近紀錄水平的液化天然氣，以彌補卡達供應缺口導致的損失量。"
+    },
+    {
+      "id": "5017330",
+      "time": "2026-07-30 22:30:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至7月24日當週EIA天然氣庫存 280億立方英尺，預期350億立方英尺，前值320億立方英尺。截至7月24日當週，美國天然氣庫存總量為30840億立方英尺，較此前一週增加280億立方英尺，較去年同期減少320億立方英尺，同比降幅1.0%，同時較5年均值高1850億立方英尺，增幅6.4%。"
+    },
+    {
+      "id": "mkt:019fb36e-ef3c-7aab-8f16-9f53f289781a",
+      "time": "2026-07-30 22:30:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA weekly gas report (week ended July 24): U.S. natural gas working storage 3,084 Bcf, +28 Bcf week-on-week, -32 Bcf YoY (-1.0%), +185 Bcf vs 5-year average (+6.4%)."
+    },
+    {
+      "id": "5017329",
+      "time": "2026-07-30 22:30:12",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【粵開證券羅志恆：預計下半年財政資金撥付、專案實施和實物工作量形成將明顯加快】7月30日召開的中央政治局會議指出，宏觀政策要發力提效，加快財政支出和債券資金使用進度，有力推進“兩重”建設和“兩新”工作。粵開證券首席經濟學家羅志恆對上海證券報記者表示，政策層面從“用好用足宏觀政策”轉向“充分發揮各項存量政策效能，及時謀劃出臺務實管用的增量政策”，並明確提出“加大逆週期調節力度”，釋放出下半年穩增長政策將進一步發力提效的訊號。"
+    },
+    {
+      "id": "mkt:019fb36e-d0cf-7aab-8f16-904ed3eadd9e",
+      "time": "2026-07-30 22:30:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. EIA weekly natural gas storage injection for week to July 24: +28 bcf vs. market expected +35 bcf; prior +32 bcf."
+    },
+    {
+      "id": "mkt:019fb36e-a821-7aab-8f16-8fe34364ea4e",
+      "time": "2026-07-30 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Natural Gas Storage Change (Jul.24) | actual 28000000000B | consensus 35000000000B | previous 32000000000B"
+    },
+    {
+      "id": "5017328",
+      "time": "2026-07-30 22:29:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利富時MIB指數站上52000點，日內漲超1%。"
+    },
+    {
+      "id": "5017327",
+      "time": "2026-07-30 22:29:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內涵小鵬？上汽名爵總經理稱上市1小時46000張訂單難以置信，可能有3萬個客戶得哭暈在廁所】上汽MG 07近日開啟預售，上汽MG（名爵）事業部總經理陳萃在與媒體對話時談及了汽車行業的訂單數字一事。他表示，不會公佈MG 07具體的訂單數，現在汽車行業實在是太捲了，（有車企）上完市以後一個小時說有46000張訂單，“我非常的難以置信。如果46000張，我覺得可能有3萬個客戶得哭暈在廁所裡。”陳萃該表態被認為是在內涵小鵬。此前，小鵬宣佈小鵬MONA L03一小時大定46859臺。值得注意的是，此前MG 07也曾陷入了抄襲風波，陳萃在直播中一度被網友罵到下播。他後來還專門釋出了一首《WO CHAO》的歌曲回應此事，稱抄襲的是自家品牌的家族設計。（新浪科技）"
+    },
+    {
+      "id": "5017326",
+      "time": "2026-07-30 22:28:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【7月30日增減持彙總】7月30日盤後，據不完全統計，華資實業披露減擬持情況，包括先導基電、東陽光、光智科技、中天服務、慧博雲通、恆通股份在內的6家A股上市公司披露擬增持情況。"
+    },
+    {
+      "id": "5017325",
+      "time": "2026-07-30 22:28:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "費埃哲股價下跌15.2%，因該公司全年收益預測不及分析師預期。"
+    },
+    {
+      "id": "5017323",
+      "time": "2026-07-30 22:27:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "世界貿易組織：巴西稱美國加徵關稅不符合《關稅及貿易總協定》的相關規定。"
+    },
+    {
+      "id": "5017322",
+      "time": "2026-07-30 22:26:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：哈馬斯與斡旋方就解除武裝問題“取得進展”】《以色列時報》30日援引以方官員的訊息報道說，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）與斡旋方目前在埃及首都開羅舉行的談判已就解除武裝問題“取得進展”。報道稱，有關各方正在推進一項路線圖。該路線圖提出了一條“平衡且務實”的路徑，包括在加沙地帶解除所有武裝、分階段移交職責，最終將所有權力移交給巴勒斯坦技術官僚政府。報道援引以方官員的話說，這一安排“不會對某些武器或人員作出例外規定”；該路線圖制定了拆除所有地道、武器儲存設施以及武器生產設施的程式。加沙地帶的“所有武器”都將在國際安全部隊的協調和支援下，由加沙國家行政委員會全面管控。這名官員還說，上述程序建立在“對等原則”基礎上，哈馬斯每履行一項承諾，以色列也將作出相應回應。（新華社）"
+    },
+    {
+      "id": "mkt:019fb36a-cc6e-7aab-8f16-8112979e5232",
+      "time": "2026-07-30 22:25:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WTO says Brazil has filed a dispute settlement complaint against the United States over recently imposed tariffs."
+    },
+    {
+      "id": "te:markets:571297",
+      "time": "2026-07-30 22:25:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Greece",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Greece Hit 16-year High — Athens General increased to 2568.00 Index Points, the highest since November 2009. Over the past 4 weeks, Athens Stock Exchange General gained 3.31%, and in the last 12 months, it increased 28.52%."
+    },
+    {
+      "id": "5017320",
+      "time": "2026-07-30 22:25:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "新聞稿：黑石能源轉型夥伴宣佈達成協議，從科氏工程解決方案收購DarkVision。"
+    },
+    {
+      "id": "5017319",
+      "time": "2026-07-30 22:25:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "世界貿易組織：巴西就美國加徵關稅提起爭端解決程式。"
+    },
+    {
+      "id": "5017318",
+      "time": "2026-07-30 22:25:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，Tims中國跌7.22%，新東方跌5.53%，寶尊電商跌4.55%，康迪車業跌3.29%，亞朵集團跌3.23%。"
+    },
+    {
+      "id": "5017317",
+      "time": "2026-07-30 22:25:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德國7月通脹率升至2.8% 能源價格大幅上漲】德國聯邦統計局30日公佈的初步資料顯示，由於政府臨時燃油稅減免措施到期，德國7月能源價格再次大幅上漲，推動當月通脹率升至2.8%，明顯高於6月的2.3%。德國聯邦統計局表示，7月德國能源價格同比上漲8.3%，漲幅高於5月的6.6%和6月的3.4%。分析人士指出，能源價格再次明顯上漲與政府臨時燃油稅減免措施到期有關。自5月1日起，德國汽油和柴油稅每升下調約17歐分，為期兩個月。該措施在一定程度上抑制燃油價格上漲。德國經濟專家委員會此前釋出春季經濟預測報告指出，受能源價格上漲影響，德國今明兩年通脹率預計分別為3%和2.8%，均明顯高於去年2.2%的水平。（新華社）"
+    },
+    {
+      "id": "5017316",
+      "time": "2026-07-30 22:24:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【主力資金連續5日淨流入103股】據資料寶，截至7月30日收盤，深滬北共103只個股連續5日或5日以上主力資金淨流入。賽恩斯連續12日主力資金淨流入，排名第一；邁拓股份連續11日主力資金淨流入，位列第二。從主力資金淨流入總規模來看，芯源微主力資金淨流入金額最大，連續5天累計淨流入5.00億元，宏橋控股緊隨其後，7天累計淨流入4.81億元。從主力資金淨流入佔成交額的比例來看，愛麗家居佔比排名居首，該股近9日上漲98.74%。"
+    },
+    {
+      "id": "mkt:019fb369-e502-7aab-8f16-7ead02148e4f",
+      "time": "2026-07-30 22:24:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "Italy's FTSE MIB index climbed above 52,000 points, rising more than 1% intraday."
+    },
+    {
+      "id": "5017315",
+      "time": "2026-07-30 22:24:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "XCEL能源預計，在基礎五年資本計劃之外，將有超過100億美元的增量投資。"
+    },
+    {
+      "id": "5017314",
+      "time": "2026-07-30 22:23:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新新三樣擦亮中國出口新名片 中國AI硬科技多點開花】央視財經訊息，今年以來，從算力傳輸硬體到儲存晶片，從大模型開源創新到實體經濟深度落地，我國人工智慧與硬科技多點開花。一批關鍵技術和產品躋身全球第一梯隊，越來越多“中國智造”走向國際市場，在全球AI產業格局中佔據重要一席。上半年，我國電子元件、電腦零部件等產品出口均兩位數增長，合計拉動出口增長6.9個百分點；與AI技術深度融合的智慧仿生機器人出口超萬臺，遍及全球90多個國家和地區。上半年，機器人、人工智慧、創新藥等代表未來產業方向的“新新三樣”出口增速明顯，正在成為中國出口的新名片。"
+    },
+    {
+      "id": "mkt:019fb367-1a71-7aab-8f16-71ea4ec2f43a",
+      "time": "2026-07-30 22:21:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed will achieve price stability and has no soft-inf target."
+    },
+    {
+      "id": "5017312",
+      "time": "2026-07-30 22:21:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元上漲3.2%，至158.26，創2024年8月以來最高水平。"
+    },
+    {
+      "id": "mkt:019fb366-b27d-7aab-8f16-6c80b955bb2d",
+      "time": "2026-07-30 22:21:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "【UK short-dated gilts surge; market sharply cuts September rate-hike odds】Short-dated UK gilts rallied after the Bank of England left rates unchanged and said domestic inflationary pressures are easing. The two-year gilt yield fell 11 bps to 4.34%, the largest one-day drop since June 12. Governor Bailey said he did not want attendees to leave the press conference with the impression the committee is progressively moving toward tightening; gilts extended gains after the remark. Money markets now price about 32 bps of cumulative BoE hikes by year-end, down from roughly 38 bps before the decision, and the probability of a September hike fell from near 60% to below 40%. Aberdeen Asset Management portfolio manager James Lynch said the threshold for a BoE hike is very high and he expects rates to remain on hold for the rest of the year."
+    },
+    {
+      "id": "mkt:019fb366-82b5-7aab-8f16-65ce1c47fab0",
+      "time": "2026-07-30 22:21:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the economy has shown impressive resilience."
+    },
+    {
+      "id": "5017310",
+      "time": "2026-07-30 22:20:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【李氏大藥廠：專有ADC專案ZK2401新藥臨床試驗申請獲NMPA受理】李氏大藥廠公告，公司就專有ADC專案ZK2401於中國提交的新藥臨床試驗申請，已於2026年7月29日獲得中國國家藥品監督管理局藥品評審中心受理。ZK2401為基於公司自主研發抗PD-L1抗體索卡佐利單抗並偶聯新型拓撲異構酶I抑制劑載荷的ADC專案，是公司ADC平臺首個專案。預期審評期約30個工作日，最早有望於2026年9月獲得臨床試驗批准。"
+    },
+    {
+      "id": "mkt:019fb366-3956-7aab-8f16-59c0528a218d",
+      "time": "2026-07-30 22:20:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's president ZELENSKIY signed a decree appointing Oleksiy Sobolev as deputy head of the Presidential Office."
+    },
     {
       "id": "mkt:019fb365-9065-7aab-8f16-51951d443e57",
       "time": "2026-07-30 22:20:05",
