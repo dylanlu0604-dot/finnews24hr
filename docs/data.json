@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-31 05:57:54",
-  "count": 17956,
+  "updated": "2026-07-31 06:02:05",
+  "count": 17952,
   "items": [
+    {
+      "id": "mkt:019fb50b-b92a-7aab-8f1e-248bb0facf6c",
+      "time": "2026-07-31 06:01:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan Self-Defense Forces conduct first Pacific test-fire of U.S. Tomahawk cruise missile】Japan Defence Ministry said the Self-Defense Forces recently conducted a test-fire of a U.S. Tomahawk cruise missile in the Pacific, the first such launch."
+    },
+    {
+      "id": "5017766",
+      "time": "2026-07-31 06:01:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本自衛隊在太平洋首次試射“戰斧”導彈】據日本防衛省訊息，日本自衛隊日前在太平洋首次進行美國“戰斧”巡航導彈試射。（新華社）"
+    },
+    {
+      "id": "5017765",
+      "time": "2026-07-31 06:00:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破84美元/桶，日內漲0.49%。"
+    },
     {
       "id": "5017764",
       "time": "2026-07-31 05:56:04",
@@ -165908,75 +165933,6 @@
         "國際"
       ],
       "text": "【伊朗衛生部：6月27日以來美國襲擊已致55人死亡】當地時間23日晚，據伊朗衛生部宣告，6月27日以來美國對伊朗發動的襲擊已致55人死亡，629人受傷。"
-    },
-    {
-      "id": "mkt:019f90fe-8f0b-7aab-8e73-f87b884c76f6",
-      "time": "2026-07-24 06:00:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "Intel (INTC.O) CFO said the company's ASIC business is approaching $2 billion in annualized revenue."
-    },
-    {
-      "id": "mkt:019f90fe-4347-7aab-8e73-f6e4b73e56f1",
-      "time": "2026-07-24 06:00:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GIC, Singapore's sovereign wealth fund, said its portfolio was 56% equities at end-March (51% a year earlier); fixed income 22% (26% a year earlier); real assets 22% (23% a year earlier)."
-    },
-    {
-      "id": "5005428",
-      "time": "2026-07-24 05:59:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "新加坡政府投資公司GIC：對人工智慧投資採取審慎態度；聚焦先進半導體制造與設計。目標是投資人工智慧（AI）物理基礎設施，包括資料中心所需的電力和電網設施。截至3月底的財年，GIC在亞太地區的敞口為22%，上年同期為24%。GIC在歐洲、中東及非洲地區的敞口為19%，上年同期為20%。GIC在美洲地區的敞口占比為53%，上年同期為49%。"
-    },
-    {
-      "id": "5005427",
-      "time": "2026-07-24 05:59:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾：專用積體電路（ASIC）業務年化營收即將達到 20 億美元。"
-    },
-    {
-      "id": "mkt:019f90fd-8c72-7aab-8e73-e94638091787",
-      "time": "2026-07-24 05:59:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Europe & UK"
-      ],
-      "text": "For the fiscal year ended March 31, Singapore sovereign investor GIC reported regional exposures of 22% to Asia‑Pacific (24% a year earlier), 19% to Europe, the Middle East and Africa (20% a year earlier) and 53% to the Americas (49% a year earlier)."
-    },
-    {
-      "id": "mkt:019f90fd-6385-7aab-8e73-e41559acf8d8",
-      "time": "2026-07-24 05:59:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore's sovereign wealth fund GIC aims to invest in physical infrastructure for artificial intelligence (AI), including power generation and grid capacity for data centers."
-    },
-    {
-      "id": "mkt:019f90fd-6315-7aab-8e73-d89837deff6b",
-      "time": "2026-07-24 05:59:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact mixed",
-        "S&P500"
-      ],
-      "text": "Singapore sovereign wealth fund GIC says it is taking a cautious approach to AI investments and is focusing on advanced semiconductor manufacturing and design."
     }
   ]
 }

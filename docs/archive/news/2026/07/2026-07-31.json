@@ -1,7 +1,32 @@
 {
   "date": "2026-07-31",
-  "count": 501,
+  "count": 504,
   "items": [
+    {
+      "id": "mkt:019fb50b-b92a-7aab-8f1e-248bb0facf6c",
+      "time": "2026-07-31 06:01:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan Self-Defense Forces conduct first Pacific test-fire of U.S. Tomahawk cruise missile】Japan Defence Ministry said the Self-Defense Forces recently conducted a test-fire of a U.S. Tomahawk cruise missile in the Pacific, the first such launch."
+    },
+    {
+      "id": "5017766",
+      "time": "2026-07-31 06:01:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本自衛隊在太平洋首次試射“戰斧”導彈】據日本防衛省訊息，日本自衛隊日前在太平洋首次進行美國“戰斧”巡航導彈試射。（新華社）"
+    },
+    {
+      "id": "5017765",
+      "time": "2026-07-31 06:00:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破84美元/桶，日內漲0.49%。"
+    },
     {
       "id": "5017764",
       "time": "2026-07-31 05:56:04",
