@@ -1,7 +1,158 @@
 {
   "date": "2026-07-30",
-  "count": 3659,
+  "count": 3676,
   "items": [
+    {
+      "id": "5017233",
+      "time": "2026-07-30 21:43:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【費城半導體指數漲超5%】費城半導體指數漲超5%，臺積電漲超5%，SK海力士、美光科技漲超9%，英特爾漲超6%，阿斯麥漲超5%，閃迪漲超16%，西部資料漲超12%，希捷科技漲超14%。"
+    },
+    {
+      "id": "5017232",
+      "time": "2026-07-30 21:42:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漁翁資訊欺詐發行領千萬罰單，保薦機構是西部證券】近日，江西證監局公示行政處罰決定書，漁翁資訊科技股份有限公司（下稱“漁翁資訊”）科創板IPO申報材料存在重大財務造假、刻意隱瞞股權代持關鍵資訊等違法違規行為，企業及相關責任主體合計被罰1790萬元。值得關注的是，漁翁資訊早在兩年前便主動撤回IPO申請，稽核流程終止，但依舊遭到監管重罰。處罰決定書顯示，上交所於2022年12月受理漁翁資訊科創板上市申請。經過多輪監管問詢，2024年6月，漁翁資訊聯合保薦機構遞交撤回申請，上交所隨即終止本次IPO稽核。該公司上市計劃擬募集資金3.34億元，保薦機構是西部證券，專案保薦代表人系高峰、蘇華峰。對此，有律師認為，漁翁資訊欺詐發行行為涉及財務造假、招股書存虛假記載，保薦機構恐難逃追責。（紅星資本局）"
+    },
+    {
+      "id": "te:markets:571287",
+      "time": "2026-07-30 21:42:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Index Hits 5-week Low — DXY decreased to 100.35, the lowest since June 2026. Over the past 4 weeks, Dollar Index lost 1.01%, and in the last 12 months, it increased 0.4%."
+    },
+    {
+      "id": "5017231",
+      "time": "2026-07-30 21:42:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "Arm美股股價一度上漲達19%。"
+    },
+    {
+      "id": "5017230",
+      "time": "2026-07-30 21:42:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "法拉利執行長：截至2026年底將再有兩款新車亮相。"
+    },
+    {
+      "id": "mkt:019fb342-9b39-7aab-8f15-5558848d337b",
+      "time": "2026-07-30 21:41:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump's Thursday schedule】Beijing time — 20:00: at the White House Executive Office; 00:00: policy meeting, Oval Office; 01:30: statement on \"Freedom Haulers\" (media pool); 03:00: sign documents, Oval Office; 04:30: policy meeting, Oval Office."
+    },
+    {
+      "id": "mkt:019fb342-1a65-7aab-8f15-4f4177144968",
+      "time": "2026-07-30 21:41:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Financial blog ZeroHedge reports the Bank of Japan finally acted; USD/JPY plunged sharply and appears to show signs of intervention."
+    },
+    {
+      "id": "mkt:019fb341-f77f-7aab-8f15-42f536b745a4",
+      "time": "2026-07-30 21:41:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC automatic determination: at 21:39 on July 30 an estimated magnitude ~3.2 earthquake occurred near Luxian, Luzhou, Sichuan (29.23°N, 105.64°E). Final parameters subject to the official preliminary bulletin."
+    },
+    {
+      "id": "5017229",
+      "time": "2026-07-30 21:41:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國2年期國債收益率下跌6個基點至周低點4.21%。"
+    },
+    {
+      "id": "5017228",
+      "time": "2026-07-30 21:40:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：07月30日21時39分在四川瀘州市瀘縣附近（北緯29.23度，東經105.64度）發生3.2級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "te:markets:571285",
+      "time": "2026-07-30 21:40:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Brazil Stocks Rise Despite Mixed Earnings — The Ibovespa edged up to trade above 174,000 on Thursday as investors assessed another round of corporate earnings. Vale (+2%) is set to report second-quarter results after the market close. Other notable performers included Axia (+1.5%), WEG (+1.5%) and Rede D'Or (+2%). Ambev fell 3% despite posting stronger second-quarter net income, as revenue and EBITDA missed market expectations. Santander Brasil slipped 0.6% after disappointing second-quarter results prompted JPMorgan to downgrade the stock to Neutral. Meanwhile, Bradesco dropped 3% after announcing a capital increase of up to R$10 billion, with controlling shareholders committing to subscribe up to R$8 billion. On the data front, Brazil's unemployment rate fell to 5.4% in the quarter ending in June, reinforcing signs of a resilient labor market. Recent BCB communications have highlighted greater upside than downside risks to inflation, suggesting the current interest rate-cutting cycle may soon pause."
+    },
+    {
+      "id": "5017227",
+      "time": "2026-07-30 21:40:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：07月30日21時39分在四川瀘州市瀘縣附近（北緯29.23度，東經105.64度）發生3.2級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:019fb341-411c-7aab-8f15-397666574598",
+      "time": "2026-07-30 21:40:25",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israel Defense Forces said Hamas continues to systematically violate the ceasefire and is attempting to restore its military capabilities."
+    },
+    {
+      "id": "mkt:019fb341-1c62-7aab-8f15-33943773fd20",
+      "time": "2026-07-30 21:40:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said early Wednesday it conducted operations across multiple areas of the Gaza Strip and dismantled four Hamas weapons storage facilities."
+    },
+    {
+      "id": "te:markets:571283",
+      "time": "2026-07-30 21:40:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.44% Higher — The Dow Jones Index is up by 229 points or 0.44 percent on Thursday. Top gainers are Microsoft (14.28%), Caterpillar (3.26%) and Amazon (2.85%). Biggest losses came from Nike (-3.89%), J&J (-2.54%) and Walt Disney (-2.53%)."
+    },
+    {
+      "id": "5017226",
+      "time": "2026-07-30 21:39:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "日元大幅走強，引發市場干預猜想。"
+    },
     {
       "id": "mkt:019fb340-41ed-7aab-8f15-2efeab5414c0",
       "time": "2026-07-30 21:39:20",
@@ -10,6 +161,14 @@
         "Important"
       ],
       "text": "USD/JPY plunged intraday, down 1.50% to 160.9."
+    },
+    {
+      "id": "5017225",
+      "time": "2026-07-30 21:39:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌日元USD/JPY短線跳水，日內跌幅達1.50%，現報160.9。"
     },
     {
       "id": "te:markets:571282",
