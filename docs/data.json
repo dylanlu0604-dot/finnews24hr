@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-31 01:53:32",
-  "count": 17903,
+  "updated": "2026-07-31 01:57:38",
+  "count": 17905,
   "items": [
+    {
+      "id": "5017609",
+      "time": "2026-07-31 01:55:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "一名參與特朗普總統峰會的以色列外交訊息人士透露，各方探討了外交協議方案以及持續施壓行動。但以色列的判斷十分明確：若不開展大規模軍事行動，很難實現地區局勢根本性轉變，而這類軍事行動可能很快到來。"
+    },
+    {
+      "id": "mkt:019fb42a-d1b0-7aab-8f1a-8bd542fd3da6",
+      "time": "2026-07-31 01:55:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel's i24News cited sources saying US strikes on Iran on Wednesday local time were not even the \"tip of the iceberg\" of expected future actions."
+    },
+    {
+      "id": "mkt:019fb42a-c65c-7aab-8f1a-8593387e25e3",
+      "time": "2026-07-31 01:55:29",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "MOODY'S upgraded Micron Technology's (MU.O) senior unsecured rating to Baa1; outlook stable."
+    },
+    {
+      "id": "5017608",
+      "time": "2026-07-31 01:54:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國薩福克郡發生大面積山火】總檯記者當地時間7月30日獲悉，英國薩福克郡海岸地區29日下午發生大面積山火，約90名消防員投入滅火。消防部門表示，當前火勢規模大、撲救難度高。當地政府呼籲居民避免前往事發區域，並關閉門窗以防煙霧影響。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fb429-fde4-7aab-8f1a-78e09e382c11",
+      "time": "2026-07-31 01:54:38",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Saudi outlet Hadath cites sources saying negotiations to disarm Hamas are being treated seriously, and that Israel and Hamas have agreed all terms of a Gaza plan; the Gaza agreement will be formally announced once Israel approves the terms."
+    },
     {
       "id": "5017607",
       "time": "2026-07-31 01:52:47",
@@ -165285,34 +165337,6 @@
         "MKT News"
       ],
       "text": "【Wang Yi meets Belarus foreign minister】China said next year marks the 35th anniversary of diplomatic ties and that it will work with Belarus to plan multi-level exchanges, align development strategies, deepen governance-experience sharing, and advance higher-quality, all-round bilateral cooperation. Belarus thanked China for long-standing support, said frequent high-level leader contact has raised ties to an unprecedented level, and pledged to deepen comprehensive cooperation and draw on Chinese experience, using the 35th anniversary as an opportunity to expand cooperation in industry, investment and information technology and broaden local and people-to-people exchanges."
-    },
-    {
-      "id": "5005290",
-      "time": "2026-07-24 01:57:24",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根士丹利將蘋果目標股價從每股360.00美元上調至364.00美元，維持蘋果公司增持評級。"
-    },
-    {
-      "id": "mkt:019f901f-c895-7aab-8e71-25aa7afbaf2e",
-      "time": "2026-07-24 01:57:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude briefly touched $96 a barrel, its highest since June 8, rising 5.89% intraday."
-    },
-    {
-      "id": "5005289",
-      "time": "2026-07-24 01:54:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部通報稱，俄防空系統在一天內擊落了172架烏克蘭無人機，目標分佈在俄羅斯多地以及黑海和亞速海水域上空。"
     }
   ]
 }
