@@ -1,7 +1,75 @@
 {
   "date": "2026-07-30",
-  "count": 1010,
+  "count": 1018,
   "items": [
+    {
+      "id": "5015429",
+      "time": "2026-07-30 08:00:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤報5681.77點，上漲0.3%。"
+    },
+    {
+      "id": "5015428",
+      "time": "2026-07-30 08:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報61258.34點，跌幅0.29%。"
+    },
+    {
+      "id": "5015427",
+      "time": "2026-07-30 07:59:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【申萬宏源：短期內，美聯儲或按兵不動】申萬宏源研報稱，美聯儲短期內或“按兵不動”。一方面，長端利率走高、金融條件收緊或對實體經濟形成抑制，降低美聯儲加息“緊迫性”。另一方面，綜合考慮趨勢性回落的通脹，美聯儲在短期內或可“按兵不動”，未來重點需關注AI投資的通脹效應以及AI對供給側的影響。"
+    },
+    {
+      "id": "mkt:019fb051-4c45-7aab-8efc-0668c6175790",
+      "time": "2026-07-30 07:59:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Shenwan Hongyuan: Fed likely to hold in near term】Shenwan Hongyuan says a Fed communication-framework reform would alter asset-pricing drivers rather than the policy stance, shifting markets from trading Fed rhetoric to trading data, scenarios and reaction functions. If the Fed stops providing forward guidance, the front end would become more data-sensitive while the long end would increasingly price term premium, inflation credibility and fiscal risk. Macro trading would move from guessing Fed wording to assessing the conditions that would trigger policy moves. In the near term the Fed is likely to hold: higher long yields and tighter financial conditions could slow the real economy and reduce the urgency to hike, and a trending down in inflation supports a pause. Markets should monitor the inflationary impact of AI-driven investment and AI’s effects on supply."
+    },
+    {
+      "id": "5015426",
+      "time": "2026-07-30 07:58:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：儘管成本壓力拖累盈利，但空調需求增長推動數碼家電業務營收增長。"
+    },
+    {
+      "id": "te:markets:570902",
+      "time": "2026-07-30 07:57:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Gains After Fed Rate Hold — Silver rose above $58 an ounce on Thursday, building on the previous session’s gains after the Federal Reserve left interest rates unchanged despite mounting inflationary pressures stemming from renewed conflict in the Middle East. The decision offered some support to bullion, as higher interest rates tend to weigh on demand for non-yielding assets. Still, three FOMC members dissented in favor of a rate hike, while Chairman Kevin Warsh said that if inflation remains elevated throughout the forecast period, higher interest rates could become an appropriate policy response. Elsewhere, both the BOE and the BOJ are widely expected to keep interest rates unchanged this week while maintaining a cautious approach to inflation. In the Middle East, President Donald Trump pledged a strong response after an attack on US forces in Jordan. Meanwhile, the two sides continued to struggle to reach a potential agreement as Tehran insisted on retaining control of the Strait of Hormuz."
+    },
+    {
+      "id": "5015425",
+      "time": "2026-07-30 07:57:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：因全行業零部件成本壓力上升，移動業務收益下滑。"
+    },
     {
       "id": "5015424",
       "time": "2026-07-30 07:56:53",
@@ -135,6 +203,15 @@
         "Impact bearish"
       ],
       "text": "Samsung Electronics said uncertainty will persist in H2 due to memory supply issues."
+    },
+    {
+      "id": "em:jjsj_rbsj:202607303825732491",
+      "time": "2026-07-30 07:51:32",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至7月24日當週外資買進日股9121億日元，前值由-796億日元修正為-819億日元。"
     },
     {
       "id": "5015416",

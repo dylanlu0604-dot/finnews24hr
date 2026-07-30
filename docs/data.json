@@ -1,7 +1,75 @@
 {
-  "updated": "2026-07-30 07:57:32",
-  "count": 17818,
+  "updated": "2026-07-30 08:01:29",
+  "count": 17812,
   "items": [
+    {
+      "id": "5015429",
+      "time": "2026-07-30 08:00:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤報5681.77點，上漲0.3%。"
+    },
+    {
+      "id": "5015428",
+      "time": "2026-07-30 08:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報61258.34點，跌幅0.29%。"
+    },
+    {
+      "id": "5015427",
+      "time": "2026-07-30 07:59:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【申萬宏源：短期內，美聯儲或按兵不動】申萬宏源研報稱，美聯儲短期內或“按兵不動”。一方面，長端利率走高、金融條件收緊或對實體經濟形成抑制，降低美聯儲加息“緊迫性”。另一方面，綜合考慮趨勢性回落的通脹，美聯儲在短期內或可“按兵不動”，未來重點需關注AI投資的通脹效應以及AI對供給側的影響。"
+    },
+    {
+      "id": "mkt:019fb051-4c45-7aab-8efc-0668c6175790",
+      "time": "2026-07-30 07:59:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Shenwan Hongyuan: Fed likely to hold in near term】Shenwan Hongyuan says a Fed communication-framework reform would alter asset-pricing drivers rather than the policy stance, shifting markets from trading Fed rhetoric to trading data, scenarios and reaction functions. If the Fed stops providing forward guidance, the front end would become more data-sensitive while the long end would increasingly price term premium, inflation credibility and fiscal risk. Macro trading would move from guessing Fed wording to assessing the conditions that would trigger policy moves. In the near term the Fed is likely to hold: higher long yields and tighter financial conditions could slow the real economy and reduce the urgency to hike, and a trending down in inflation supports a pause. Markets should monitor the inflationary impact of AI-driven investment and AI’s effects on supply."
+    },
+    {
+      "id": "5015426",
+      "time": "2026-07-30 07:58:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：儘管成本壓力拖累盈利，但空調需求增長推動數碼家電業務營收增長。"
+    },
+    {
+      "id": "te:markets:570902",
+      "time": "2026-07-30 07:57:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Gains After Fed Rate Hold — Silver rose above $58 an ounce on Thursday, building on the previous session’s gains after the Federal Reserve left interest rates unchanged despite mounting inflationary pressures stemming from renewed conflict in the Middle East. The decision offered some support to bullion, as higher interest rates tend to weigh on demand for non-yielding assets. Still, three FOMC members dissented in favor of a rate hike, while Chairman Kevin Warsh said that if inflation remains elevated throughout the forecast period, higher interest rates could become an appropriate policy response. Elsewhere, both the BOE and the BOJ are widely expected to keep interest rates unchanged this week while maintaining a cautious approach to inflation. In the Middle East, President Donald Trump pledged a strong response after an attack on US forces in Jordan. Meanwhile, the two sides continued to struggle to reach a potential agreement as Tehran insisted on retaining control of the Strait of Hormuz."
+    },
+    {
+      "id": "5015425",
+      "time": "2026-07-30 07:57:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：因全行業零部件成本壓力上升，移動業務收益下滑。"
+    },
     {
       "id": "5015424",
       "time": "2026-07-30 07:56:53",
@@ -135,6 +203,15 @@
         "Impact bearish"
       ],
       "text": "Samsung Electronics said uncertainty will persist in H2 due to memory supply issues."
+    },
+    {
+      "id": "em:jjsj_rbsj:202607303825732491",
+      "time": "2026-07-30 07:51:32",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至7月24日當週外資買進日股9121億日元，前值由-796億日元修正為-819億日元。"
     },
     {
       "id": "5015416",
@@ -164248,137 +164325,6 @@
         "市場"
       ],
       "text": "布倫特原油開盤上漲1.4%，此前紅海油輪遇襲。"
-    },
-    {
-      "id": "mkt:019f8c46-e79a-7aab-8e54-babe971e6c2a",
-      "time": "2026-07-23 08:01:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 opened up 334.93 points (+0.51%) to 66,450.53 on Thursday, July 23."
-    },
-    {
-      "id": "5003224",
-      "time": "2026-07-23 08:01:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價上漲4.2%。"
-    },
-    {
-      "id": "5003223",
-      "time": "2026-07-23 08:01:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲3.1％，SK海力士股價上漲4.2％。"
-    },
-    {
-      "id": "5003222",
-      "time": "2026-07-23 08:01:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【沙特證實與美國簽署核能合作協議】沙烏地阿拉伯能源部23日凌晨發表宣告說，沙特已與美國簽署一份有關和平利用核能的合作協議。 宣告稱，該協議將推動雙方按照核安全、核安保和核不擴散的最高國際標準加強合作。 據美國《華爾街日報》21日報道，美國總統特朗普日前正式批准美國與沙烏地阿拉伯達成一項為沙特提供民用核專案的協議。協議中一項關鍵條款規定，如果美國和沙特聯合研究認定有必要，美國企業將在沙特建造一座鈾濃縮設施。(新華社)"
-    },
-    {
-      "id": "mkt:019f8c46-a0f2-7aab-8e54-b1cfd51d5986",
-      "time": "2026-07-23 08:01:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "【South Korean stocks open up 2.4%】South Korea's KOSPI hit 6,900, up 2.44% intraday; SK Hynix rose 4% and Samsung Electronics gained 3.2%."
-    },
-    {
-      "id": "5003221",
-      "time": "2026-07-23 08:01:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數高開0.4%。"
-    },
-    {
-      "id": "5003220",
-      "time": "2026-07-23 08:00:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日韓股市開盤】日經225指數高開0.4%，韓國綜合股價指數（KOSPI）上漲2.4％，至6963.35。"
-    },
-    {
-      "id": "5003219",
-      "time": "2026-07-23 08:00:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【葉門胡塞武裝稱襲擊兩艘沙特油輪】葉門胡塞武裝23日凌晨宣佈，該組織使用導彈和無人機在紅海襲擊兩艘違反其禁運令的沙烏地阿拉伯油輪。 胡塞武裝發言人葉海亞·薩雷亞當天凌晨在該組織控制的馬西拉電視臺發表宣告說，胡塞武裝使用多枚彈道導彈、巡航導彈以及無人機，打擊兩艘違反該組織海上禁運令的沙特油輪，“精確命中目標”，導致兩艘油輪起火。 宣告未說明事發具體地點，也未提及是否有人員傷亡。沙特政府目前未置評。 薩雷亞還稱，胡塞武裝已迫使“近10艘船隻折返”。 他警告稱，沙特對胡塞武裝的任何軍事行動都將招致對沙特境內縱深目標的大規模打擊。 英國海上貿易行動辦公室22日釋出通報說，在協調世界時22日20時（北京時間23日4時）收到一艘油輪船長的遭襲報告。通報說，該船遭“不明發射物”擊中後起火，目前船員正在滅火。事發地點位於沙特海濱城鎮舒蓋格西南約70海里處。 葉門胡塞武裝20日宣佈對沙特實施海上禁運，並警告國際航運公司稱，與沙特港口開展貿易往來的船隻可能面臨軍事打擊。(新華社)"
-    },
-    {
-      "id": "5003218",
-      "time": "2026-07-23 08:00:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破91美元/桶，日內漲0.64%。"
-    },
-    {
-      "id": "5003217",
-      "time": "2026-07-23 07:59:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【世界盃熱潮帶動旅運 美國上週航空燃油需求創紀錄新高】美國能源資訊署(EIA)週三公佈的資料顯示，上週美國航空煤油需求創下紀錄新高，因足球迷擁入紐約與新澤西，觀看世界盃西班牙與阿根廷的冠軍之戰。資料顯示，截至7月17日當週，美國航空燃油供應量——即EIA根據煉廠及其他主要供應來源的燃油出貨量，用以衡量需求的指標——達到約215萬桶/日。EIA資料顯示，此前周度紀錄為2017年12月的211萬桶/日。瑞銀石油分析師Giovanni Staunovo表示，航空燃油需求的激增，很可能是由世界盃所推動。這是世足賽三十多年來首次在北美舉辦，球迷到場人數創下歷史新高。路透的分析顯示，小組賽階段超過半數的比賽座無虛席，其餘大部分場次也僅差幾百人就達到滿座。"
-    },
-    {
-      "id": "5003216",
-      "time": "2026-07-23 07:59:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率上漲2.0個基點，至2.755%。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202607233817777193",
-      "time": "2026-07-23 07:59:15",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【多個經濟大省“半年報”出爐 新興產業增勢強勁】7月22日，江蘇、浙江分別公佈了上半年經濟執行情況。目前，江蘇、山東、浙江、四川、河南、湖北、福建、上海、湖南等9個經濟大省經濟“半年報”已出爐。從資料看，多地規上高技術製造業、戰略性新興產業增加值等實現快速增長，特別是積體電路製造業、人工智慧製造業等產業表現突出，顯示經濟大省新產業積厚成勢。"
-    },
-    {
-      "id": "mkt:019f8c44-3ca0-7aab-8e54-ace164445696",
-      "time": "2026-07-23 07:58:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【AI-driven funding lifts 1H global corporate bond issuance to $3.68 trillion】Global corporate bond issuance reached $3.68 trillion in 1H, driven by companies raising funds for AI investment, up 10% versus Jan–Jun 2025 and the largest first-half on record. Investors are pushing for higher yields amid concern over aggressive corporate borrowing. Deal count fell 12% to 10,408, implying larger average issuance sizes. Issuance was concentrated in the United States, whose share of global corporate supply topped 30% for the first time in six years."
-    },
-    {
-      "id": "5003215",
-      "time": "2026-07-23 07:57:55",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：公募REITs各型別資產的業績延續分化態勢 建議反覆博弈資產穩健運營、擴募預期較強標的的超跌機會】中信證券研報指出，2026年二季度，公募REITs各型別資產的業績延續分化態勢。整體來看To C端的消費基礎設施、保障房等板塊整體表現較好，資料中心REITs和大部分公用事業REITs維持穩健運營，產業園區REITs和倉儲物流REITs仍面臨量價兩端的壓力，高速公路REITs和能源REITs則呈現明顯分化。當前4只指數基金或正處於建倉階段，有望為市場提供資金支援，疊加一級市場新發節奏放緩，市場供需格局開始出現邊際好轉。建議反覆博弈資產穩健運營、擴募預期較強標的的超跌機會，同時重點關注指數基金建倉和調倉節奏或對市場產生時點性催化。"
     }
   ]
 }
