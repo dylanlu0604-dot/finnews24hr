@@ -1,7 +1,94 @@
 {
   "date": "2026-07-30",
-  "count": 3989,
+  "count": 4001,
   "items": [
+    {
+      "id": "mkt:019fb3b4-f760-7aab-8f18-59c61681bbad",
+      "time": "2026-07-30 23:46:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Citadel buys large portion of Situational Awareness's public AI equity holdings】Situational Awareness, a hedge fund with about $24bln AUM founded by former OpenAI researcher Leopold Aschenbrenner, suffered heavy losses and sold a large portion of its roughly $16bln in public-equity holdings to Citadel, people familiar with the matter said. The firm retains private stakes including about $5bln in Anthropic, held emergency talks with investors on Wednesday night, and has been contacted by at least three other multi‑billion‑dollar hedge funds in the past 24 hours; it plans to continue operating as a private investment firm."
+    },
+    {
+      "id": "mkt:019fb3b4-c409-7aab-8f18-53a65cd917d2",
+      "time": "2026-07-30 23:46:36",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bearish",
+        "MU.O",
+        "Impact bullish",
+        "AAPL.O"
+      ],
+      "text": "Qualcomm (QCOM.O) CEO said memory-chip prices have risen sharply and that higher prices are changing consumer behavior."
+    },
+    {
+      "id": "5017450",
+      "time": "2026-07-30 23:46:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國公共投資銀行擬出售約6650萬股Orange股份。"
+    },
+    {
+      "id": "5017449",
+      "time": "2026-07-30 23:46:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "環球音樂集團上半年錄得的音樂訂閱收入同比增長9.0%。"
+    },
+    {
+      "id": "5017448",
+      "time": "2026-07-30 23:45:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通執行長：漲價正在改變消費者行為。"
+    },
+    {
+      "id": "5017446",
+      "time": "2026-07-30 23:44:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通執行長：儲存晶片價格漲幅“十分顯著”。"
+    },
+    {
+      "id": "5017445",
+      "time": "2026-07-30 23:44:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紫光股份：51.2T CPO矽光資料中心交換機2025年已實現批次交付部署】紫光股份在互動平臺表示，公司51.2T CPO矽光資料中心交換機產品，2025年已實現批次交付部署，融合核心技術優勢，創新散熱與智慧無損網路設計，有效降低時延和功耗。800G國芯智算交換機依託國產核心晶片，安全可控屬性突出，廣泛適配政府、金融、運營商、能源等對資訊保安要求極高的行業場景，能夠具備支撐大規模算力叢集組網的能力。"
+    },
+    {
+      "id": "5017444",
+      "time": "2026-07-30 23:44:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【艾斯迪北交所IPO將於8月6日上會】7月30日，據北交所網站披露，北交所上市稽核委員會定於8月6日上午9時召開2026年第73次上市稽核委員會審議會議，屆時將審議艾斯迪工業技術股份有限公司的首發事項。"
+    },
+    {
+      "id": "5017443",
+      "time": "2026-07-30 23:43:18",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美軍稱沒有美國飛機在伊朗最近的襲擊中被摧毀】美軍中央司令部30日在社交媒體上發文稱，在伊朗最近的襲擊中，沒有美國飛機被摧毀或損壞。“所有導彈和無人機均被攔截或未能到達目標區域。” 伊朗伊斯蘭革命衛隊此前發表宣告稱，為回應美國的襲擊，革命衛隊襲擊了約旦阿茲拉克美軍基地，摧毀3架F-35戰鬥機，並嚴重損壞另外3架戰機。（新華社）"
+    },
+    {
+      "id": "mkt:019fb3b1-7287-7aab-8f18-49767dbf3d6b",
+      "time": "2026-07-30 23:42:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Financial Times reports hedge fund Situational Awareness, founded by former OpenAI researcher Leopold Aschenbrenner and with $24bn AUM, has rapidly sold a large portion of its $16bn public-equity holdings to Citadel after suffering heavy losses."
+    },
     {
       "id": "mkt:019fb3b1-67c1-7aab-8f18-440e76eb4d7d",
       "time": "2026-07-30 23:42:55",
@@ -9,6 +96,15 @@
         "MKT News"
       ],
       "text": "【Burnham signals support for increased North Sea drilling】UK Prime Minister Burnham told US President Trump the UK will not \"ignore\" North Sea resources, signaling government support for new oil and gas drilling. Officials are reportedly studying proposals including approval of the Jackdaw and Rosebank offshore Scotland developments and expanded tie-back projects using existing facilities. Trump said Burnham told him the UK would \"open up\" the North Sea and called the move \"a very good thing,\" adding that if done reasonably it could make the country wealthier."
+    },
+    {
+      "id": "5017442",
+      "time": "2026-07-30 23:42:52",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "基金公司Situational Awareness對Anthropic持股50億美元。高盛、摩根大通參與了Situational Awareness大宗交易的磋商。Situational Awareness將保持私人投資公司的地位。"
     },
     {
       "id": "5017441",
@@ -25,6 +121,14 @@
         "國際"
       ],
       "text": "國際冰球聯合會禁止俄羅斯隊伍參加 2027 年世界冰球錦標賽。"
+    },
+    {
+      "id": "5017439",
+      "time": "2026-07-30 23:41:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【約翰・圖恩希望促成美參議院 “突圍休會”】共和黨力爭 11 月守住參議院多數席位，約翰・圖恩急於讓共和黨參議員離開國會大廈、奔赴競選一線。但首先，他必須熬過接下來八天。身為參議院多數黨領袖，圖恩計劃先完成政府撥款、確認數十名特朗普提名官員人選，並授予總統新許可權以制裁俄羅斯貿易伙伴，隨後才允許議員休會五週。然而特朗普打亂了圖恩的休會安排，接連丟擲一系列政治考驗。週三，圖恩在國會辦公室接受採訪之際，這種層層施壓的局面正在上演。幾乎同一時間，特朗普在橢圓形辦公室堅稱，圖恩 “手握足夠票數” 廢除參議院沿用已久的冗長辯論規則，透過共和黨選舉法案。他還公開質疑，圖恩是否適合領導參議院共和黨團。特朗普對記者表示：“我們拭目以待，後續我會告知大家結果。”"
     },
     {
       "id": "5017438",
