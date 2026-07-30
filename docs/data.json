@@ -1,7 +1,146 @@
 {
-  "updated": "2026-07-30 17:38:08",
-  "count": 17852,
+  "updated": "2026-07-30 17:42:00",
+  "count": 17854,
   "items": [
+    {
+      "id": "mkt:019fb266-63a2-7aab-8f0c-3b5ab8c5b124",
+      "time": "2026-07-30 17:41:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "French President Macron condemned the violation of Polish airspace."
+    },
+    {
+      "id": "te:economy:571180",
+      "time": "2026-07-30 17:41:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "GDP Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Portugal's Economy Rebounds Strongly in Q2 — Portugal's economy expanded by 0.8% in the second quarter of 2026, accelerating from an upwardly revised 0.1% growth in the previous quarter, according to preliminary estimates. The rebound was driven by a positive contribution from net exports and stronger private consumption, although investment declined. The recovery followed a weak first quarter, when severe storms disrupted activity in central Portugal, while a surge in energy prices linked to the conflict in Iran weighed on growth. On an annual basis, GDP growth edged up to 2.5% from a revised 2.4% in the previous quarter. The government expects the economy to expand by 2.0% this year, while the Bank of Portugal projects slightly slower growth of 1.8%, following 1.9% growth in 2025."
+    },
+    {
+      "id": "5016538",
+      "time": "2026-07-30 17:40:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍：法國最強烈譴責俄羅斯對烏克蘭發動的最新襲擊。"
+    },
+    {
+      "id": "5016537",
+      "time": "2026-07-30 17:40:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【南向資金今日淨賣出85.70億港元】港股通（滬）方面，騰訊控股、華虹宏力分別獲淨買入4.44億港元、2.39億港元；盈富基金淨賣出額居首，金額為19.72億港元；港股通（深）方面，騰訊控股、中國海洋石油分別獲淨買入5.68億港元、3.31億港元；中芯國際淨賣出額居首，金額為13.76億港元。"
+    },
+    {
+      "id": "5016536",
+      "time": "2026-07-30 17:39:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣汽集團與中山一院就防暈車研究簽署合作意向書】7月30日，廣汽集團與中山大學附屬第一醫院簽署合作意向書，雙方將在防暈車相關技術研究與應用領域展開深度合作。雙方就推進防暈車技術攻關交換意見，並就下一步工作達成共識，將圍繞防暈車領域的機制研究、成果轉化及行業標準制定開展長期合作。"
+    },
+    {
+      "id": "5016535",
+      "time": "2026-07-30 17:39:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中證港股通半導體產業指數等4條指數將於7月31日正式釋出】中證指數有限公司將於2026年7月31日正式釋出中證港股通半導體產業指數、中證香港半導體產業指數、中證港股通新能源指數和中證香港新能源指數，為市場提供更豐富的投資標的。中證港股通半導體產業指數和中證香港半導體產業指數分別從港股通範圍和港股範圍內選取30家業務涉及半導體產業的上市公司證券作為指數樣本，以反映相應上市公司證券的整體表現。中證港股通新能源指數和中證香港新能源指數分別從港股通範圍和港股範圍內選取30家業務涉及新能源上游資源、新能源生產、新能源儲存以及新能源應用等領域的上市公司證券作為指數樣本，以反映相應上市公司證券的整體表現。"
+    },
+    {
+      "id": "5016534",
+      "time": "2026-07-30 17:39:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【建設機械：完成整改，關聯方資金佔用已全額返還】建設機械公告，公司於2026年6月26日收到陝西證監局行政監管措施決定書，指出持股5%以上股東、副董事長柴昭一透過預付供應商款項形成非經營性資金佔用。公司高度重視並完成整改，截至2026年7月10日，柴昭一已將全部佔用款項按照原資金劃轉路徑全額原路返還至公司對公賬戶，資金佔用問題已徹底閉環。同時，公司全面開展自查，發現少量內控執行缺陷，並聯合北京嘉源律師事務所和立信會計師事務所開展了合規專項培訓。"
+    },
+    {
+      "id": "mkt:019fb264-5c81-7aab-8f0c-3635f1a78a8c",
+      "time": "2026-07-30 17:39:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Four CSI Hong Kong/Stock Connect sector indices to be released July 31, 2026】China Securities Index Co., Ltd. (CSI) will publish four indices on July 31, 2026: the CSI Hong Kong Stock Connect Semiconductor Industry Index, the CSI Hong Kong Semiconductor Industry Index, the CSI Hong Kong Stock Connect New Energy Index and the CSI Hong Kong New Energy Index. Each index will comprise 30 Hong Kong-listed securities drawn from the Hong Kong Stock Connect universe or the broader Hong Kong-listed universe, respectively, representing firms engaged in the semiconductor industry or in new energy upstream resources, production, storage and application. CSI says the indices are intended to provide additional investable benchmarks for the market."
+    },
+    {
+      "id": "5016533",
+      "time": "2026-07-30 17:38:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【成都雙流國際機場港澳臺地區客運航線恢復執行】7月30日，隨著飛往臺北桃園的CA417航班起飛，成都雙流國際機場港澳臺地區客運航線正式恢復執行。首日共監管出入境航班7架次。雙流機場海關全面啟用智慧化通關係統，出境實行海關手續一次辦理、海關檢查與民航安檢“一次過檢”；入境實現正常旅客“無感通關”、秒級過關。客運恢復同步帶動腹艙貨運功能重啟，四川與港澳臺地區貨物貿易更加便利。（央視新聞）"
+    },
+    {
+      "id": "5016532",
+      "time": "2026-07-30 17:38:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST春興：兩起訴訟有進展 涉案金額超1.46億元】*ST春興公告稱，兩起訴訟有新進展。案件一，公司申請恢復執行蘇州工業園區卡恩聯特科技有限公司、孫潔曉應付的1.08億元股權轉讓欠款及逾期利息等，法院已立案；案件二，子公司惠州春興上訴被駁回，維持原判，需承擔貨款等3826.34萬元及二審受理費1.16萬元。目前兩案暫不對公司本期及後續利潤產生不利影響，最終影響以執行及審計結果為準。"
+    },
+    {
+      "id": "5016531",
+      "time": "2026-07-30 17:38:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【渤海租賃：控股子公司Avolon二季度淨利潤2.09億美元，同比增長45%】渤海租賃公告，公司控股子公司Avolon Holdings Limited 2026年第二季度主要財務資料顯示，實現租賃收入7.26億美元，較去年同期增長7%；淨利潤2.09億美元，較去年同期增長45%；經營活動現金流量淨額5.01億美元，較去年同期增長8%。截至2026年6月30日，可用流動性總額為118.79億美元，總資產339.62億美元，淨資產84.27億美元。"
+    },
+    {
+      "id": "5016530",
+      "time": "2026-07-30 17:38:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海通發展：擬回購登出122.7690萬股限制性股票】海通發展公告稱，因2023 - 2025年激勵計劃部分激勵物件離職，公司擬回購登出相應部分限制性股票，共計122.7690萬股。其中，2023年計劃回購登出27.1610萬股，2024年計劃回購登出54.9080萬股，2025年計劃回購登出40.7萬股。預計於2026年8月4日完成回購登出。回購後公司股份總數將減至13.75億股，控股股東曾而斌及其一致行動人持股比例升至68.19%，控制權不變。"
+    },
+    {
+      "id": "5016529",
+      "time": "2026-07-30 17:38:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中源協和：募投專案進展及研發成果情況說明】中源協和公告稱，前期非公開發行募投專案“國家幹細胞工程產業化基地三期建設專案”預算3億元，累計投入101.8萬元，進度0.34%，因前期審批手續未完成無法開工。腫瘤標誌物類診斷試劑開發專案預算6000萬元，累計投入5300萬元。公司多項研發專案取得成果，如2026年2月獲批III類醫療器械註冊證等。獨立財務顧問認為，從多方面看，三期建設專案可行性未發生重大變化，預計無法在2026年10月達可使用狀態，公司已開展論證。"
+    },
+    {
+      "id": "mkt:019fb263-4409-7aab-8f0c-287bc84613e6",
+      "time": "2026-07-30 17:37:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "0700.HK",
+        "Impact bullish",
+        "9988.HK"
+      ],
+      "text": "Southbound flows recorded a net sell of 8.571 bln yuan today. Via Shanghai Stock Connect, Tracker Fund of Hong Kong and Pop Mart were net sold HKD 1.972 bln and HKD 385 mln respectively; Tencent Holdings was the top net buy at HKD 444 mln. Via Shenzhen Stock Connect, SMIC and Alibaba-W were net sold HKD 1.376 bln and HKD 993 mln respectively; Tencent was the top net buy at HKD 568 mln."
+    },
+    {
+      "id": "mkt:019fb263-219e-7aab-8f0c-20c844447697",
+      "time": "2026-07-30 17:37:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say shipping data show a tanker originally scheduled to load at the CPC terminal is departing the Black Sea."
+    },
     {
       "id": "5016528",
       "time": "2026-07-30 17:37:23",
@@ -164641,123 +164780,6 @@
         "其他"
       ],
       "text": "【河南鄭州暴雨黃色預警升級為橙色 危險地帶停課、停業】鄭州市氣象臺2026年7月23日16時41分將暴雨黃色預警訊號升級為暴雨橙色預警訊號：過去3小時金水區廟裡站降雨量已達41.4毫米，預計未來3小時，鄭州市主城區、上街區所轄鄉鎮和街道累計降雨量將達70毫米以上。請注意防範強降雨引發的城市內澇等次生災害。（央視新聞）"
-    },
-    {
-      "id": "5004293",
-      "time": "2026-07-23 17:41:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【交通銀行：400億元二級資本債發行完畢 票面利率1.89%】交通銀行公告稱，經監管批准，公司於2026年7月23日完成“交通銀行股份有限公司2026年第二期二級資本債券（債券通）”發行。本期債券規模400億元，票面利率1.89%，為10年期固定利率債券，第5年末附發行人贖回權。募資扣除發行費用後，將全部用於補充二級資本。"
-    },
-    {
-      "id": "5004292",
-      "time": "2026-07-23 17:41:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國通號：中標8個軌道交通專案 中標金額總計17.11億元】中國通號公告稱，2026年5-6月，公司中標8個重要專案，其中鐵路市場5個、城市軌道交通市場3個，中標金額總計約17.11億元，約佔公司2025年經審計營業總收入的4.93%。因涉及手續辦理，尚未與招標人籤正式合同，存在不確定性；專案跨年分期實施，對當期業績影響也有不確定性。"
-    },
-    {
-      "id": "5004291",
-      "time": "2026-07-23 17:41:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "明晟與新加坡交易所將推出覆蓋全球發達市場和新興市場的一系列指數期貨與期權。"
-    },
-    {
-      "id": "mkt:019f8e59-263b-7aab-8e62-6f37eced3014",
-      "time": "2026-07-23 17:40:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "600048.SS",
-        "Impact bearish"
-      ],
-      "text": "【Poly Developments 1H net profit 1.93 bln yuan, down 38.96% YoY】Poly Developments reported 1H revenue of 102.9 bln yuan, down 11.95% YoY, and net profit of 1.93 bln yuan, down 38.96% YoY. The company said industry and market volatility reduced property delivery recognition and recognized gross margins, driving the YoY decline in profit metrics."
-    },
-    {
-      "id": "mkt:019f8e59-1e07-7aab-8e62-618fceb7e7ff",
-      "time": "2026-07-23 17:40:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Chinese team achieves first cross-region, 1,000-person synchronous EEG acquisition】Chinese researchers yesterday unveiled a new EEG capture device that for the first time recorded synchronous electroencephalogram signals from more than 1,000 people across different regions. The team says it solved two key technical hurdles: miniaturizing hardware while preserving signal fidelity, and overcoming network latency to achieve millisecond-level time alignment across devices and locations. The capability will generate large-scale, high-quality EEG datasets for training neural foundation models and advancing commercial brain-computer interface (BCI) technology, expanding AI training inputs from text, images and video to direct neural signals."
-    },
-    {
-      "id": "5004290",
-      "time": "2026-07-23 17:40:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣廈環能：累計回購股份數佔公司總股本的1.04%】廣廈環能公告，截至2026年7月22日，公司透過回購股份專用證券賬戶以連續競價交易方式回購公司股份156.32萬股，佔公司總股本的1.04%，佔預計回購數量上限的78.16%，最高成交價為10.76元/股，最低成交價為8.85元/股，已支付的總金額為1546.36萬元（不含印花稅、佣金等交易費用）。"
-    },
-    {
-      "id": "5004289",
-      "time": "2026-07-23 17:40:18",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【騰訊雲釋出首個雲端研發智慧體CodeBuddy NPC】騰訊雲釋出首個面向研發流程的雲端智慧體CodeBuddy NPC，是騰訊雲程式碼助手CodeBuddy圍繞Harness（雲端智慧體的執行時治理層）的一次關鍵升級，主要面向開發者團隊，可以自主獲取上下文、閉環完成任務並交付成果。（騰訊雲）"
-    },
-    {
-      "id": "5004288",
-      "time": "2026-07-23 17:40:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滔搏客服否認暴力打折甩賣耐克庫存 ：沒有收到降價通知】7月23日，“滔搏暴力打折甩賣耐克庫存”話題登上熱搜。據橙柿財經，深耕球鞋行業20年的資深買手店主吳徵認為，這應該是滔搏開始著手清庫存了。業內人士預計，滔搏手上有大量耐克的線上庫存，在接下來的五個多月裡，市場預期滔搏後續或逐步加大庫存促銷力度，未來幾個月內過季庫存可能出現更低折扣。但有不少網友在社媒評論稱，滔搏大多數耐克鞋並沒有打折優惠，價格還是和以前一樣。據中新經緯，滔搏店鋪耐克男子跑步鞋ZOOM FLY 6打6折賣599.4元，但在耐克官方旗艦店疊加各類券後也僅售579.65元。23日，滔搏多個線上官方旗艦店客服均回應稱，沒有接到相關降價通知。“有時候直播間可能有券，會便宜一點。”滔搏於7月22日公告稱，集團目前在中國內地的耐克產品線上平臺銷售將於2027年1月1日起全面終止。 （藍鯨新聞）"
-    },
-    {
-      "id": "5004287",
-      "time": "2026-07-23 17:40:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【南向資金今日淨賣出42.26億港元】港股通（滬）方面，智譜、華虹宏力分別獲淨買入6.15億港元、2.15億港元；盈富基金淨賣出額居首，金額為11.81億港元；港股通（深）方面，美團-W、中國海洋石油分別獲淨買入6.42億港元、5321.63萬港元；盈富基金淨賣出額居首，金額為13.38億港元。"
-    },
-    {
-      "id": "mkt:019f8e58-761b-7aab-8e62-5ee126deab06",
-      "time": "2026-07-23 17:39:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tencent"
-      ],
-      "text": "【Tencent Cloud launches CodeBuddy NPC, first cloud-based R&D agent】Tencent Cloud launched CodeBuddy NPC, its first cloud-based agent for R&D workflows. The release is a key upgrade to the CodeBuddy code assistant centered on Harness, the agent runtime governance layer. Aimed at developer teams, CodeBuddy NPC can autonomously fetch context, execute closed-loop tasks and deliver completed outputs."
-    },
-    {
-      "id": "5004286",
-      "time": "2026-07-23 17:39:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "雀巢公司<NESN.S>股價盤前跌幅進一步擴大，最新跌幅為7%，目前有望創下2002年7月以來最大單日跌幅。"
-    },
-    {
-      "id": "5004285",
-      "time": "2026-07-23 17:39:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "萊茵金屬與安杜里爾縮減已合作一年的無人機合作專案。"
-    },
-    {
-      "id": "5004284",
-      "time": "2026-07-23 17:38:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "艾弗科ISI將德州儀器目標股價從316美元上調至330美元。"
     }
   ]
 }
