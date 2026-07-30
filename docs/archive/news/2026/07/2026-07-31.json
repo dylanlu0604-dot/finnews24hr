@@ -1,7 +1,55 @@
 {
   "date": "2026-07-31",
-  "count": 357,
+  "count": 362,
   "items": [
+    {
+      "id": "te:markets:571343",
+      "time": "2026-07-31 04:26:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Stryker earnings above expectations at 3.69 USD — Stryker (SYK) released earnings per share at 3.69 USD, compared to market expectations of 3.49 USD."
+    },
+    {
+      "id": "mkt:019fb4b5-353f-7aab-8f1c-2d5f39eae507",
+      "time": "2026-07-31 04:26:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "A White House official said President Trump has ordered restrictions on exports of critical-mineral waste."
+    },
+    {
+      "id": "5017694",
+      "time": "2026-07-31 04:26:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國開源模型下載量全球第一】全球最大開源AI模型平臺2026年春季報告顯示，中國研發的開源模型下載量已佔全球總量的41%，超越美國位居世界第一，在全球主流大模型呼叫榜單上，排名前六位的模型全部來自中國團隊；過去12個月裡，國產模型有9個月保持著全球開源模型的規模上限，迭代節奏持續領跑全球；我國開源模型累計下載量已突破100億次，居全球首位。（央視新聞）"
+    },
+    {
+      "id": "5017693",
+      "time": "2026-07-31 04:25:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "超微推出隸屬於 DCBBS 產品組合的 AI 機架系列產品，每月可交付最高 3000 臺 。"
+    },
+    {
+      "id": "5017692",
+      "time": "2026-07-31 04:24:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Gemini Spark 現已接入 Chrome 瀏覽器。"
+    },
     {
       "id": "5017691",
       "time": "2026-07-31 04:22:18",
