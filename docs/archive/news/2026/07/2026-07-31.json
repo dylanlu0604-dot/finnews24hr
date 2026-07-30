@@ -1,7 +1,33 @@
 {
   "date": "2026-07-31",
-  "count": 388,
+  "count": 390,
   "items": [
+    {
+      "id": "5017706",
+      "time": "2026-07-31 04:50:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本政府計劃將西日本打造為生物技術與高階醫藥領域的投資集聚中心。"
+    },
+    {
+      "id": "mkt:019fb4c8-ff65-7aab-8f1c-95da430ec4c5",
+      "time": "2026-07-31 04:48:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "【Apple Q3 revenue slightly above estimates; Greater China lags, shares down 4% after-hours】Apple reported third fiscal quarter revenue of $109.42 bln, up 16.4% YoY and marginally above the $108.65 bln consensus. EPS was $2.02, including $0.11 from a tariff rebate; adjusted EPS exceeded the $1.89 estimate. iPhone sales rose 21.7% to $54.25 bln, beating the $53.86 bln forecast and setting a Q3 record. Global memory-chip shortages lifted Mac and iPad prices this quarter, which the company says prompted earlier iPhone purchases; Apple has not raised iPhone list prices but the Street generally expects price increases at the September launch. Greater China revenue was $18.82 bln versus $19.67 bln expected. Apple shares fell about 4% in after-hours trading."
+    },
     {
       "id": "5017705",
       "time": "2026-07-31 04:44:17",
