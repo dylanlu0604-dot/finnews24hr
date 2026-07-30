@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-31 04:43:14",
+  "updated": "2026-07-31 04:47:14",
   "count": 17889,
   "items": [
+    {
+      "id": "5017705",
+      "time": "2026-07-31 04:44:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將可回收關鍵礦產相關行動與國防掛鉤。"
+    },
+    {
+      "id": "5017704",
+      "time": "2026-07-31 04:43:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗譴責美軍襲擊格什姆島居民區致3人死亡】伊朗外交部發言人巴加埃30日晚在社交媒體發文，譴責美國當天凌晨襲擊伊朗南部格什姆島居民區，造成一個五口之家中的父母及其兩歲孩子死亡。（新華社）"
+    },
     {
       "id": "5017703",
       "time": "2026-07-31 04:42:35",
@@ -165173,26 +165189,6 @@
         "國際"
       ],
       "text": "【巴西全力挽救對歐盟18億美元的肉類出口】巴西正緊急採取行動，以避免其動物產品對歐盟的出口遭到禁令。作為全球最大的牛肉和家禽出口國，其超過18億美元的貿易額正面臨風險。一位瞭解談判情況的巴西高階外交官表示，該國正在9月3日的最後期限前，與歐盟交換資訊並提供額外保證，以證明其符合歐盟關於在畜牧業中使用抗菌藥物的標準。在5月份公佈的一份授權出口國名單中，巴西未能上榜。"
-    },
-    {
-      "id": "mkt:019f90ba-b20f-7aab-8e73-64d1e939066d",
-      "time": "2026-07-24 04:46:22",
-      "tags": [
-        "MKT News",
-        "LMT.O"
-      ],
-      "text": "SEC filing shows Lockheed Martin received about $140 mln in refunds tied to prior tariff assessments in the six months ended June 28. The company currently expects the tariffs will not have a material long-term impact on operating results."
-    },
-    {
-      "id": "mkt:019f90b8-ef33-7aab-8e73-5d84e4a75ada",
-      "time": "2026-07-24 04:44:26",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Napatha price surge turns Japan into net petrochemical importer】Iran war-related disruption to crude-derived napatha supply has driven a sharp rise in Japan's imports of basic petrochemical feedstocks for plastics, with buyers shifting to lower-cost sources in China and South Korea, Nikkei reports. Trade data show ethylene imports from March–May were 14x YoY, butadiene imports more than doubled, and benzene imports rose over 28x. Exports have fallen; ethylene exports in May were near zero. Per the Japan Petrochemical Industry Association, April ethylene imports exceeded exports by 19,000 tonnes and May by 15,000 tonnes — the first monthly net ethylene import since comparable data began in 2000."
     }
   ]
 }
