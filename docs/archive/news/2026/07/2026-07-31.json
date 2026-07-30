@@ -1,7 +1,54 @@
 {
   "date": "2026-07-31",
-  "count": 279,
+  "count": 284,
   "items": [
+    {
+      "id": "mkt:019fb468-593f-7aab-8f1b-468ab419ddc1",
+      "time": "2026-07-31 03:02:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "【Meta commits nearly $700 billion to AI data centers and cloud】Meta Platforms (META.O) said in a regulatory filing it has committed nearly $700 billion for AI data centers, cloud computing and related infrastructure via long‑ and short‑term agreements. Irrevocable contract commitments total $349.3 bln, mainly for third‑party cloud service agreements, servers and network infrastructure; the company called this a conservative estimate. Meta also has $347.0 bln of leases not yet commenced that are off‑balance‑sheet; $68.0 bln of those were added in July, with payments starting in 2027 and 2028. These costs are incremental to existing leases and primarily cover data centers, colocation and certain network infrastructure."
+    },
+    {
+      "id": "5017653",
+      "time": "2026-07-31 03:00:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍中央司令部：一架美國海軍 P-8 “海神” 反潛巡邏機在中東執行巡邏任務時，靠近美國空軍 KC-135 “同溫層加油機” 開展空中加油。P-8 屬於專用偵察機型，是美國對伊朗實施封鎖期間，用於監控區域海域的眾多裝備之一。截至 7 月 30 日，美軍中央司令部部隊已引導 24 艘商船變更航線、迫使 2 艘船隻停航，並登檢 2 艘船舶，確保相關航運完全遵守管控要求。"
+    },
+    {
+      "id": "5017652",
+      "time": "2026-07-31 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.46%，報26021.88點，高水163.00點。"
+    },
+    {
+      "id": "mkt:019fb465-b876-7aab-8f1b-3c1224dfa6a4",
+      "time": "2026-07-31 02:59:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "As of July 30, CENTCOM said its forces have guided 24 merchant vessels to change course, rendered two merchant vessels inoperable and boarded and inspected two others to ensure compliance with relevant regulations."
+    },
+    {
+      "id": "5017651",
+      "time": "2026-07-31 02:58:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "安聯將支付至少 14 億歐元對價，以現金收購 PIMCO 流通在外的 M 份額。"
+    },
     {
       "id": "5017650",
       "time": "2026-07-31 02:58:44",
