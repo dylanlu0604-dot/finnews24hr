@@ -1,7 +1,182 @@
 {
   "date": "2026-07-30",
-  "count": 2519,
+  "count": 2537,
   "items": [
+    {
+      "id": "mkt:019fb250-fb32-7aab-8f0b-9fd462140cc1",
+      "time": "2026-07-30 17:17:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Al Arabiya, citing unnamed Arab sources, says mediators are working to secure a ceasefire between Iran and the United States but have so far failed to achieve substantive de‑escalation."
+    },
+    {
+      "id": "5016467",
+      "time": "2026-07-30 17:17:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST天宜：披露股票被實施風險警示相關事項進展】*ST天宜公告稱，因2025年度財務報告被出具無法表示意見審計報告、財務報告內部控制被出具否定意見審計報告，公司股票自2026年5月6日起被實施退市及其他風險警示。自25年年報披露後，公司配合重整工作，對內控問題自查自糾。截至公告日，已針對“未按規定使用票據及資金”“融資管理不規範”“存貨管理”等缺陷採取整改措施，並健全內控制度體系、加強培訓監督。若未滿足撤銷退市風險警示條件，股票或被終止上市。"
+    },
+    {
+      "id": "5016466",
+      "time": "2026-07-30 17:17:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部發布《礦業權登記管理暫行辦法（徵求意見稿）》】為貫徹落實《礦產資源法》，規範礦業權登記行為，保護礦業權人的合法權益，自然資源部起草了《礦業權登記管理暫行辦法（徵求意見稿）》，現向社會公開徵求意見。自然資源部充分貫徹落實《礦產資源法》《礦產資源法實施條例》關於礦業權登記的相關規定，與《不動產登記暫行條例》及相關制度規範相銜接，強化物權保護，確保法律適用的統一性、準確性和協調性。充分考慮礦產資源的特點，體現礦業權區別於一般不動產的特殊性，適應和滿足礦產資源管理的實際需要，增強可操作性。"
+    },
+    {
+      "id": "mkt:019fb250-6ef0-7aab-8f0b-94f29cf7b332",
+      "time": "2026-07-30 17:17:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【UK 30-year gilt yield jumps after Federal Reserve decision】US 30-year Treasury yields rose sharply after the Federal Reserve on Wednesday held rates steady and gave no guidance on likely actions at upcoming meetings, boosting market uncertainty. The move pushed the UK 30-year gilt yield to an intraday one-week high of 5.759%. Tickmill Group analyst Patrick Munnelly said the spike in long-dated yields reflects the long end’s protest against uncertainty, inf risks and the Fed’s willingness to let market rates bear some of the tightening of financial conditions."
+    },
+    {
+      "id": "te:economy:571165",
+      "time": "2026-07-30 17:16:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Industrial Sentiment",
+        "Importance 1"
+      ],
+      "text": "Eurozone Industry Confidence Improves More than Expected — The Eurozone’s industrial confidence indicator improved to -6.1 in July 2026 from -7.3 in June, exceeding market expectations of -7 and signaling a continued recovery in manufacturing sentiment. The improvement was driven by stronger assessments of production expectations and a more positive view of current order books. However, manufacturers reported a moderate rise in finished goods inventories, pointing to some lingering demand uncertainty. Outside the headline indicator, the survey also showed a marked improvement in assessments of recent production, indicating that factory output strengthened during the month. In addition, sentiment regarding export order books improved, reflecting healthier demand from overseas markets."
+    },
+    {
+      "id": "mkt:019fb24f-b422-7aab-8f0b-8aeb345cd890",
+      "time": "2026-07-30 17:16:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Romanian nuclear producer Nuclearelectrica said the second reactor remains connected to the grid and is operating normally despite low Danube water levels."
+    },
+    {
+      "id": "te:economy:571164",
+      "time": "2026-07-30 17:16:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Eurozone Unemployment Rate Holds at 6.3% — The seasonally adjusted unemployment rate in the Eurozone was at 6.3% for the fourth straight month in July of 2026, to 6.3% in July of 2026, slightly under market expectations that it would be at a record low of 6.2%. The result maintained the period of stability in the currency bloc's labor market despite the surge in energy costs and interest rates in recent periods due to the outbreak of war in the Middle East. The number of unemployed individuals rose by 69 thousand from the previous month to 11.13 million. In turn, the unemployment rate for those aged under 25 years fell to 14.8% from 14.9% in the previous month. Among the largest economies in the Euro Area, the unemployment rate rose for Germany (3.9% vs 3.8% in May) and Italy (5.7% vs 5.3%), while it remained unchanged in France (8.2%) and fell in Spain (10.1% vs 10.2%) and the Netherlands (3.8% vs 3.9%)."
+    },
+    {
+      "id": "5016465",
+      "time": "2026-07-30 17:16:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潤建股份：截至7月30日回購股份比例達1.0013%】潤建股份公告稱，截至2026年7月30日，公司以集中競價交易方式回購股份2,867,517股，佔總股本的1.0013%，最高成交價51.35元/股，最低成交價44.65元/股，成交總金額14,284.14萬元。公司於7月14日透過回購股份方案，資金總額1.5億-3億元，回購價不超96.94元/股，實施期限12個月。後續將繼續實施並依規披露。"
+    },
+    {
+      "id": "5016464",
+      "time": "2026-07-30 17:16:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【傳智教育：股價異常波動 預計上半年淨利潤扭虧為盈】傳智教育公告稱，公司股票在2026年7月29日、30日連續2個交易日內日收盤價格漲跌幅偏離值累計達20%，屬異常波動情形。經核實，公司經營、內外部環境未變，無應披露未披露重大事項，異常波動期間控股股東、實控人無買賣公司股票情況。此外，預計2026年半年度淨利潤2800萬元 - 4000萬元，扭虧為盈，同比增長488.72% - 655.32%。"
+    },
+    {
+      "id": "5016463",
+      "time": "2026-07-30 17:16:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【太平鳥：2026年上半年淨利潤1.02億元，同比增30.89%】太平鳥公告，2026年上半年營業收入28.78億元，同比下降0.72%；歸屬於上市公司股東的淨利潤1.02億元，同比增長30.89%；歸屬於上市公司股東的扣除非經常性損益的淨利潤5071.07萬元，同比增長269.91%。上年同期淨利潤7771.16萬元。本半年度報告未經審計，不進行利潤分配。"
+    },
+    {
+      "id": "5016462",
+      "time": "2026-07-30 17:15:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【合盛矽業：控股股東及其一致行動人部分股份質押及解質押】合盛矽業公告稱，近日，控股股東合盛集團及其一致行動人羅燚、羅燁棟辦理部分公司股份質押及解質押業務。羅燁棟質押450萬股用於補充流動資金，羅燚質押150萬股用於償還債務；合盛集團解質405萬股，羅燚解質40萬股。本次質押及解質押後，合盛集團及其一致行動人直接持有的公司股份中處於質押狀態的股份累計4.09億股，佔其合計所持公司股份總數的49.98%，佔公司總股本的34.59%。質押風險可控，不存在導致公司控制權變更的實質性因素。"
+    },
+    {
+      "id": "te:economy:571163",
+      "time": "2026-07-30 17:15:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "GDP Growth Rate",
+        "Importance 3"
+      ],
+      "text": "Eurozone Economy Posts Strongest Growth in Over a Year — The eurozone economy expanded by 0.4% in the second quarter of 2026, accelerating from flat growth in the previous quarter and beating market expectations of a 0.2% increase, according to preliminary estimates. It marked the bloc's strongest quarterly expansion since the first quarter of 2025, as robust AI-related investment, solid government spending, and one-off factors helped offset the impact of the conflict in Iran and higher energy costs. Among the largest euro area economies, Spain once again led growth, with GDP rising 0.7%, up from 0.6% in the first quarter and above forecasts. The Netherlands expanded by 0.4%, twice the expected pace, while France returned to growth with a 0.2% increase after a 0.1% contraction. Germany and Italy also grew by 0.2%, easing slightly from the previous quarter but exceeding market expectations."
+    },
+    {
+      "id": "5016461",
+      "time": "2026-07-30 17:15:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【奇瑞捷豹路虎神行者8首臺量產車在蘇州下線】7月30日，神行者8首臺量產車下線儀式在蘇州常熟舉行。據介紹，奇瑞捷豹路虎落戶蘇州常熟14年來，累計生產整車近60萬臺。神行者8將於8月上旬在常熟基地舉辦預售，8月底首批車輛交付，後續還將面向中東等地區出口。"
+    },
+    {
+      "id": "5016460",
+      "time": "2026-07-30 17:15:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貝萊德在長飛光纖光纜H股的持股比例於07月27日從5.98%升至6.50%】香港交易所資訊顯示，貝萊德在長飛光纖光纜H股的持股比例於07月27日從5.98%升至6.50%。"
+    },
+    {
+      "id": "5016459",
+      "time": "2026-07-30 17:15:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【重慶水務：定向發行10億元綠色資產支援商業票據獲註冊】重慶水務公告稱，近日收到交易商協會下發的《接受註冊通知書》，綠色資產支援商業票據註冊金額為10億元，註冊額度2年內有效。公司可分期、多次續期發行，首期發行應在註冊後6個月內完成，後續發行需備案。公司將推進發行工作，確保資金合規使用並及時披露資訊。"
+    },
+    {
+      "id": "mkt:019fb24e-85ac-7aab-8f0b-818834e61182",
+      "time": "2026-07-30 17:15:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japanese Prime Minister Takaichi plans to cut the sales tax on food to 1% from April 2027 for a two-year period."
+    },
+    {
+      "id": "5016458",
+      "time": "2026-07-30 17:15:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST聯翔：周紅芳辭職 聘任趙一鳴為財務負責人】*ST聯翔公告稱，公司董事、財務負責人、戰略委員會委員周紅芳因個人原因，於2026年7月30日辭職，辭職後不在公司任職。同日，公司召開第四屆董事會第六次會議，審議透過聘任趙一鳴為財務負責人，任期至第四屆董事會屆滿。趙一鳴曾任普華永道中天會計師事務所審計員等職，2024年9月至今任公司財務總監助理，截至公告披露日未持有公司股份。"
+    },
+    {
+      "id": "5016457",
+      "time": "2026-07-30 17:14:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【嘉亨家化：要約收購完成 公司股票7月31日起復牌】嘉亨家化公告稱，杭州拼便宜網路科技有限公司要約收購期限為2026年6月24日至7月23日，截至7月23日，預受要約股東賬戶254戶，預受股份2356.93萬股，佔總股本23.38%，超預定收購股份數。收購人將按比例收購，原控股股東曾本生已以2126.88萬股（佔21.10%）申報預受。收購完成後，收購人及其一致行動人持股5120.64萬股，佔50.80%，公司股權分佈仍符合上市條件。公司股票7月31日起復牌。"
+    },
     {
       "id": "mkt:019fb24d-8d24-7aab-8f0b-7926ff243f52",
       "time": "2026-07-30 17:14:14",
