@@ -1,7 +1,142 @@
 {
-  "updated": "2026-07-31 05:07:22",
-  "count": 17884,
+  "updated": "2026-07-31 05:11:16",
+  "count": 17891,
   "items": [
+    {
+      "id": "te:markets:571349",
+      "time": "2026-07-31 05:10:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Closes Higher as Earnings Roll In — The Ibovespa gained 1.9% to close at 177,159 on Thursday as investors assessed another round of corporate earnings. Vale rose 1.4% ahead of its second-quarter results after the market close. Motiva jumped 5.2% after delivering a positive earnings surprise, particularly on capital expenditures. Other notable gainers included Petrobras (+2%), Axia (+3.6%), and WEG (+2.6%). Among major banks, Banco do Brasil gained 2% and Itaú rose 2.2%, while Santander fell 1.5%, extending losses after its second-quarter results. Ambev edged up 0.4% despite reporting stronger profit, as revenue and EBITDA missed expectations. Usiminas plunged 9.2% despite tripling quarterly profit as investors focused on weaker forward guidance. On the data front, Brazil's unemployment rate fell to 5.4% in the quarter ending in June, reinforcing labor market resilience and supporting expectations that the BCB may soon pause its rate-cutting cycle."
+    },
+    {
+      "id": "mkt:019fb4dd-134f-7aab-8f1c-c9089e65fc7a",
+      "time": "2026-07-31 05:10:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) AWS order backlog totals $496 billion."
+    },
+    {
+      "id": "5017718",
+      "time": "2026-07-31 05:10:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果CEO庫克： MacBook Neo 在第三季度 “格外熱銷”。"
+    },
+    {
+      "id": "5017717",
+      "time": "2026-07-31 05:09:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果CEO庫克：第三季度蘋果在全球智慧手機市場份額有所增長。對Siri人工智慧的初步反響感到興奮。第三季度在大中華區的Mac銷售特別強勁。"
+    },
+    {
+      "id": "mkt:019fb4db-f4f9-7aab-8f1c-c4f2bfb89ef7",
+      "time": "2026-07-31 05:09:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) CEO Tim Cook said Mac sales in Greater China were particularly strong in Q3."
+    },
+    {
+      "id": "mkt:019fb4db-bced-7aab-8f1c-b8355b57d2f6",
+      "time": "2026-07-31 05:08:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) CEO Cook said he is excited by early reactions to Siri AI."
+    },
+    {
+      "id": "5017716",
+      "time": "2026-07-31 05:08:19",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "亞馬遜雲科技（AWS）訂單儲備規模達 4960 億美元。"
+    },
+    {
+      "id": "mkt:019fb4db-497b-7aab-8f1c-b349dc892ba3",
+      "time": "2026-07-31 05:08:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Apple (AAPL.O) CEO Cook said that despite supply constraints and foreign-exchange headwinds the company delivered record third-quarter sales."
+    },
+    {
+      "id": "mkt:019fb4db-4192-7aab-8f1c-ae8a86dce9b5",
+      "time": "2026-07-31 05:08:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) CEO Cook said Apple saw a modest increase in global smartphone market share in Q3."
+    },
+    {
+      "id": "mkt:019fb4db-4056-7aab-8f1c-a19e6e624bb5",
+      "time": "2026-07-31 05:08:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) CEO Cook said third-quarter revenue was a record in every region."
+    },
+    {
+      "id": "5017715",
+      "time": "2026-07-31 05:07:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【蘋果大中華和服務業務季度銷售遜於預期 iPhone表現依然穩健】蘋果上財季服務業務和大中華區銷售增長均慢於分析師預期，引發投資者對這兩個關鍵市場的擔憂。儘管總營收高於分析師預測，但蘋果第三財季大中華銷售額為188億美元，明顯低於分析師預計的196億美元。服務業務收入為307億美元，也不及314億美元的預測。蘋果一直受到儲存晶片和電腦處理器短缺的困擾，這迫使公司上月上調了Mac和iPad價格。供應緊張導致Mac mini和Mac Studio等重要電腦產品的交貨等待期延長。某種程度上，上財季也是執行長蒂姆·庫克的謝幕之作。庫克將於9月1日把管理權交給硬體業務負責人約翰·特努斯。自2011年執掌蘋果以來，庫克推動了產品線多元化，並將公司年度銷售額提高到接近5000億美元。蘋果今年以來累計上漲23%，表現超過許多科技同業。作為蘋果最大的收入來源，iPhone是週四業績中的亮點。該產品季度營收增長22%，至543億美元，高於536億美元的市場預期。相關資料表明，蘋果去年9月推出的iPhone 17系列需求仍然穩健。該公司今年3月還推出了新的低價機型iPhone 17e。包括Apple Music、App Store、iCloud訂閱、流媒體影片及其他數字服務在內的服務業務收入上財季增長12%。截至6月27日的季度，蘋果每股收益升至2.02美元，高於分析師平均預期的1.89美元。"
+    },
     {
       "id": "5017714",
       "time": "2026-07-31 05:06:04",
@@ -165120,45 +165255,6 @@
         "XAUUSD"
       ],
       "text": "A U.S. senior official said tariff measures on goods in transit will take effect at 12:01 a.m. ET on July 28 (12:01 p.m. Beijing time)."
-    },
-    {
-      "id": "mkt:019f90cf-c4a6-7aab-8e73-94b42e1ba1ce",
-      "time": "2026-07-24 05:09:23",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "A senior U.S. official said tariffs for some countries, including India, will be reduced from 12.5% to 10%."
-    },
-    {
-      "id": "5005410",
-      "time": "2026-07-24 05:08:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：價值 70 億美元的甲骨文合作協議將加速 “自由軍火庫” 計劃推進。"
-    },
-    {
-      "id": "mkt:019f90ce-55f8-7aab-8e73-88902f9ab9ec",
-      "time": "2026-07-24 05:07:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior US official said the Section 301 investigation into overcapacity remains ongoing but will require extensive research and analysis."
-    },
-    {
-      "id": "5005409",
-      "time": "2026-07-24 05:07:28",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "英特爾CEO陳立武：晶片短缺問題在可預見的未來仍將持續。"
     }
   ]
 }
