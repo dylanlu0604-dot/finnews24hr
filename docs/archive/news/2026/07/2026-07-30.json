@@ -1,7 +1,111 @@
 {
   "date": "2026-07-30",
-  "count": 1018,
+  "count": 1029,
   "items": [
+    {
+      "id": "5015435",
+      "time": "2026-07-30 08:04:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK海力士跌幅擴大至近5%，三星電子抹去4%的漲幅。"
+    },
+    {
+      "id": "mkt:019fb055-6bbb-7aab-8efc-2a2161f502aa",
+      "time": "2026-07-30 08:03:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "SK Hynix's decline widened to nearly 5%; Samsung Electronics erased a 4% gain."
+    },
+    {
+      "id": "5015434",
+      "time": "2026-07-30 08:03:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌1.2%，至5593.04。"
+    },
+    {
+      "id": "mkt:019fb054-85c4-7aab-8efc-252f092fee63",
+      "time": "2026-07-30 08:02:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index quickly turned negative in early trade and is now down more than 1.2%."
+    },
+    {
+      "id": "mkt:019fb053-9e1e-7aab-8efc-1a7ed71c4c02",
+      "time": "2026-07-30 08:01:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened 158.95 points lower (-0.26%) at 61,275.24 on Thursday, July 30."
+    },
+    {
+      "id": "5015433",
+      "time": "2026-07-30 08:01:36",
+      "tags": [],
+      "text": "SK海力士跌超2％，三星電子漲3％。"
+    },
+    {
+      "id": "5015432",
+      "time": "2026-07-30 08:01:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行表示有關美聯儲政策、中東局勢的不確定性增加。"
+    },
+    {
+      "id": "mkt:019fb053-6914-7aab-8efc-1692341ee498",
+      "time": "2026-07-30 08:01:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian official said a Russian airstrike on Kyiv killed one."
+    },
+    {
+      "id": "5015431",
+      "time": "2026-07-30 08:01:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：將繼續密切關注金融市場及風險。"
+    },
+    {
+      "id": "5015430",
+      "time": "2026-07-30 08:01:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭官員稱，俄羅斯對首都基輔的空襲造成一人死亡。"
+    },
+    {
+      "id": "mkt:019fb053-1bfc-7aab-8efc-0cede452ac0f",
+      "time": "2026-07-30 08:01:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "South Korea's KOSPI opened 0.76% higher; SK Hynix fell more than 2%, Samsung Electronics rose 3%."
+    },
     {
       "id": "5015429",
       "time": "2026-07-30 08:00:39",
