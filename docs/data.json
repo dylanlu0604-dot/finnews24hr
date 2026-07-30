@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-31 03:12:40",
-  "count": 17880,
+  "updated": "2026-07-31 03:16:29",
+  "count": 17878,
   "items": [
+    {
+      "id": "5017660",
+      "time": "2026-07-31 03:15:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普和平事務團隊認為，哈馬斯有望在未來數日簽署協議，啟動加沙地帶解除武裝與非軍事化程序。"
+    },
+    {
+      "id": "5017659",
+      "time": "2026-07-31 03:14:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "現貨鈀金漲幅超 5%，報 1311.25 美元 / 盎司。"
+    },
     {
       "id": "mkt:019fb46f-414e-7aab-8f1b-52de66469f00",
       "time": "2026-07-31 03:10:17",
@@ -165045,42 +165061,6 @@
         "Impact bullish"
       ],
       "text": "【NVIDIA CEO Jensen Huang backs Chinese open-source AI models】In an interview on June 22, NVIDIA CEO Jensen Huang said Chinese open-source large AI models are very strong and the US should not fear them. He opposed restricting or banning Chinese open-source models, saying the world needs both open- and closed-source large models and US companies should be allowed to use Chinese models. Huang added markets previously misread the impact of DeepSeek and Kimi and called the notion that Chinese models contain backdoors linking them to China mistaken."
-    },
-    {
-      "id": "mkt:019f9066-4f89-7aab-8e72-33d21ae0dfea",
-      "time": "2026-07-24 03:14:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. prosecutors will withdraw a subpoena for a New York Times reporter in the probe of classified leaks from Trump’s aircraft."
-    },
-    {
-      "id": "5005358",
-      "time": "2026-07-24 03:13:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芝加哥小麥期貨回撤約1.6%】週四（7月23日）紐約尾盤，彭博穀物分類指數跌0.08%，報32.97點。CBOT玉米期貨漲0.41%，報4.8675元/蒲式耳。CBOT小麥期貨跌1.59%，報6.9450美元/蒲式耳。CBOT大豆期貨漲0.16%，報12.41美元/蒲式耳，豆粕期貨跌0.39%，豆油期貨漲0.04%。CBOT瘦肉豬期貨漲0.65%，活牛期貨漲1.04%，飼牛期貨漲1.17%。"
-    },
-    {
-      "id": "mkt:019f9065-257d-7aab-8e72-2fbe201ccdf0",
-      "time": "2026-07-24 03:12:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AMD.O",
-        "Impact bullish"
-      ],
-      "text": "AMD (AMD.O) CEO Lisa Su said ANTHROPIC will deploy AMD CPUs and GPUs with cloud providers, on next-generation cloud platforms and potentially in its own data centers."
-    },
-    {
-      "id": "5005357",
-      "time": "2026-07-24 03:12:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "法庭聽證訊息：美國檢察官將撤銷在特朗普航班資訊洩露調查中針對《紐約時報》記者的傳票。"
     }
   ]
 }
