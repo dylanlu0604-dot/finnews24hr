@@ -1,7 +1,117 @@
 {
   "date": "2026-07-30",
-  "count": 3588,
+  "count": 3600,
   "items": [
+    {
+      "id": "5017185",
+      "time": "2026-07-30 21:22:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國電力公司（AEP）表示，俄克拉荷馬州、印第安納州、肯塔基州、路易斯安那州與弗吉尼亞州的合計簽約負荷為12吉瓦。"
+    },
+    {
+      "id": "mkt:019fb330-211c-7aab-8f14-b3b9fc49e924",
+      "time": "2026-07-30 21:21:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House National Economic Council Director Hassett said markets may need to see a few more data prints like today’s."
+    },
+    {
+      "id": "5017184",
+      "time": "2026-07-30 21:21:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特被問及沃什屬於鷹派還是鴿派時，表示“他是務實派”。"
+    },
+    {
+      "id": "mkt:019fb32f-d0d7-7aab-8f14-af292f8dabaf",
+      "time": "2026-07-30 21:21:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "White House National Economic Council director Hassett said Warsh will take action in response to incoming data."
+    },
+    {
+      "id": "5017183",
+      "time": "2026-07-30 21:20:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔鋼鐵第一季度淨利潤 231.8 億盧比，市場預期 275.9 億盧比。"
+    },
+    {
+      "id": "mkt:019fb32f-508f-7aab-8f14-a71bbc9f8286",
+      "time": "2026-07-30 21:20:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hamas delegation meets Turkey's foreign minister to discuss Gaza and Cairo talks】On July 30, Hamas said leader Haya led a delegation to Ankara to meet Turkey foreign minister Hakan Fidan. The two held in-depth talks on the Israel-Palestine situation and Gaza, with particular focus on the negotiations currently under way in Cairo. Both sides expressed high concern over conditions in Gaza. Hamas reported specific breaches of the Gaza ceasefire agreement and ongoing military clashes, and the parties exchanged views on violence by Israeli settlers in the West Bank."
+    },
+    {
+      "id": "5017182",
+      "time": "2026-07-30 21:20:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哈馬斯代表團與土耳其外長會晤 討論地區局勢】當地時間7月30日，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）發表宣告，表示該組織領導人哈亞率領代表團，在土耳其首都安卡拉與土外長費丹舉行會晤。雙方重點就巴以局勢、加沙局勢，特別是當前在開羅舉行的談判程序進行了深入討論。會晤期間，雙方對加沙地帶局勢表示高度關注。哈馬斯方面通報了加沙停火協議遭破壞的具體情況，以及當地持續發生的軍事衝突。同時，雙方還就以色列猶太人定居者在約旦河西岸引發的暴力衝突等問題交換了意見。（央視新聞）"
+    },
+    {
+      "id": "5017181",
+      "time": "2026-07-30 21:20:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：市場或許還需要幾份像今天這樣的報告。"
+    },
+    {
+      "id": "5017180",
+      "time": "2026-07-30 21:20:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特： 沃什將依據資料做出相應政策行動。"
+    },
+    {
+      "id": "mkt:019fb32e-a52a-7aab-8f14-9c2b478130be",
+      "time": "2026-07-30 21:20:06",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "White House NEC Director Hassett said Walsh's job has become easier following today's inf data."
+    },
+    {
+      "id": "mkt:019fb32e-3ad5-7aab-8f14-922d2e197d1d",
+      "time": "2026-07-30 21:19:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "White House National Economic Council Director Hassett said after the PCE release he still has confidence in Federal Reserve Chair Kevin Warsh."
+    },
+    {
+      "id": "te:economy:571275",
+      "time": "2026-07-30 21:19:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Bond Yield",
+        "Importance 1"
+      ],
+      "text": "US 30-Year Bond Yield Surges to 19-Year High — The yield on the 30-year US Treasury bond surged to above 5.2%, the highest since 2007, to reflect concerns of higher inflation in the longer term. The Federal Reserve held rates unchanged in its July meeting, aligned with the consensus, despite rate futures showing that one third of the market was positioned for a hike. The rise for the 30-year tenure led the movements among Treasuries following controversial statements by Fed Chairman Warsh during the press conference. The reluctance to signal a rate hike as the Fed's preferred response to inflation drove long-dated yields to surge, even though those on shorter maturities fell. The Chair also signaled a positive response in seeing long-term yields rise in Q2, akin to a policy tool, despite signaling the contrary in his speech during the ECB central bank forum one month prior. Underlying inflation gauges in the US flared higher in Q2 after tariffs and soaring energy prices lifted costs among various industries in the second quarter."
+    },
     {
       "id": "5017179",
       "time": "2026-07-30 21:19:01",
