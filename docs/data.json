@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-31 01:17:18",
-  "count": 17895,
+  "updated": "2026-07-31 01:21:19",
+  "count": 17896,
   "items": [
+    {
+      "id": "mkt:019fb40a-c23b-7aab-8f19-e6cf77b9eb6a",
+      "time": "2026-07-31 01:20:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's prime minister said the armed forces and intelligence services have begun investigating the cause of the attack on Damietta port."
+    },
+    {
+      "id": "mkt:019fb40a-1f61-7aab-8f19-d8ca8275f5f1",
+      "time": "2026-07-31 01:19:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's prime minister said authorities will not speculate on the identity of those behind the attack on Damietta port and have brought the blaze under control, averting a disaster and the risk of large explosions."
+    },
+    {
+      "id": "mkt:019fb409-d9d5-7aab-8f19-d0424cc8cace",
+      "time": "2026-07-31 01:19:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automatically determined that at 00:58 on July 31 a magnitude about 4.1 earthquake occurred offshore of Taitung County, Taiwan (23.03°N, 121.47°E). Final result subject to the formal rapid bulletin."
+    },
+    {
+      "id": "mkt:019fb408-aa64-7aab-8f19-cbd1860ae705",
+      "time": "2026-07-31 01:18:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $1.076 bln from three counterparties in a fixed-rate reverse repo operation."
+    },
+    {
+      "id": "mkt:019fb408-7738-7aab-8f19-c23e49b1b5df",
+      "time": "2026-07-31 01:18:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Musk to deploy $100-120 mln via America PAC in midterm spending push】Elon Musk has authorized his super PAC, America PAC, to commit $100–120 mln to a new grassroots midterm campaign to help Republican candidates in November. The nine-figure budget, expected to roll out next month, will fund activity in at least eight states and initially target Senate races in Alaska, Iowa, Maine, Michigan and Ohio; North Carolina, Georgia and Texas are under discussion. The size could change, but the commitment was treated as credible enough that America PAC informed other GOP groups, including MAGA Inc."
+    },
+    {
+      "id": "5017572",
+      "time": "2026-07-31 01:17:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【閃迪日內漲超25%】美股儲存板塊漲幅持續擴大，閃迪日內漲超25%。"
+    },
     {
       "id": "mkt:019fb407-3b7c-7aab-8f19-b8ceffbffbe1",
       "time": "2026-07-31 01:16:40",
@@ -165220,52 +165270,6 @@
         "Nasdaq100"
       ],
       "text": "AMD (AMD.O) CEO Lisa Su said the company's new server CPU holds a clear lead over Arm-based chips."
-    },
-    {
-      "id": "5005259",
-      "time": "2026-07-24 01:21:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD 表示全新 EPYC 處理器效能較英偉達 CPU 高出 20%。"
-    },
-    {
-      "id": "5005258",
-      "time": "2026-07-24 01:19:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "AMD 執行長稱新款伺服器 CPU 相對 ARM 架構晶片具備大幅領先優勢。"
-    },
-    {
-      "id": "5005257",
-      "time": "2026-07-24 01:19:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【資料中心業務推動納特·羅斯柴爾德旗下公司登陸倫交所主機板】納撒尼爾·羅斯柴爾德（Nathaniel Rothschild）旗下的Volex Plc擁有超百年電纜製造歷史，在數十億美元資金湧入AI基礎設施時，成功抓住了這一波紅利。資料中心訂單的激增幫助該公司提前一年達成銷售目標，推動其股價在過去一年飆升51%。在另類投資市場（AIM）上市近十年後，Volex將於本週五重返倫敦證券交易所主機板，羅斯柴爾德預計此舉將吸引機構投資者。"
-    },
-    {
-      "id": "mkt:019f8ffb-ebb2-7aab-8e70-96a1af864cf1",
-      "time": "2026-07-24 01:17:59",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "FITCH says infrastructure financing is entering a new phase as public and private capital integrate."
-    },
-    {
-      "id": "mkt:019f8ffb-a380-7aab-8e70-891e9be50e6f",
-      "time": "2026-07-24 01:17:40",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israeli defense minister KATZ said if Iran attacks Israel it would face a devastating strike."
     }
   ]
 }

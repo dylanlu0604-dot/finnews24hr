@@ -1,7 +1,57 @@
 {
   "date": "2026-07-31",
-  "count": 149,
+  "count": 155,
   "items": [
+    {
+      "id": "mkt:019fb40a-c23b-7aab-8f19-e6cf77b9eb6a",
+      "time": "2026-07-31 01:20:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's prime minister said the armed forces and intelligence services have begun investigating the cause of the attack on Damietta port."
+    },
+    {
+      "id": "mkt:019fb40a-1f61-7aab-8f19-d8ca8275f5f1",
+      "time": "2026-07-31 01:19:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's prime minister said authorities will not speculate on the identity of those behind the attack on Damietta port and have brought the blaze under control, averting a disaster and the risk of large explosions."
+    },
+    {
+      "id": "mkt:019fb409-d9d5-7aab-8f19-d0424cc8cace",
+      "time": "2026-07-31 01:19:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automatically determined that at 00:58 on July 31 a magnitude about 4.1 earthquake occurred offshore of Taitung County, Taiwan (23.03°N, 121.47°E). Final result subject to the formal rapid bulletin."
+    },
+    {
+      "id": "mkt:019fb408-aa64-7aab-8f19-cbd1860ae705",
+      "time": "2026-07-31 01:18:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $1.076 bln from three counterparties in a fixed-rate reverse repo operation."
+    },
+    {
+      "id": "mkt:019fb408-7738-7aab-8f19-c23e49b1b5df",
+      "time": "2026-07-31 01:18:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Musk to deploy $100-120 mln via America PAC in midterm spending push】Elon Musk has authorized his super PAC, America PAC, to commit $100–120 mln to a new grassroots midterm campaign to help Republican candidates in November. The nine-figure budget, expected to roll out next month, will fund activity in at least eight states and initially target Senate races in Alaska, Iowa, Maine, Michigan and Ohio; North Carolina, Georgia and Texas are under discussion. The size could change, but the commitment was treated as credible enough that America PAC informed other GOP groups, including MAGA Inc."
+    },
+    {
+      "id": "5017572",
+      "time": "2026-07-31 01:17:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【閃迪日內漲超25%】美股儲存板塊漲幅持續擴大，閃迪日內漲超25%。"
+    },
     {
       "id": "mkt:019fb407-3b7c-7aab-8f19-b8ceffbffbe1",
       "time": "2026-07-31 01:16:40",
