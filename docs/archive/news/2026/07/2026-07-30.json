@@ -1,7 +1,262 @@
 {
   "date": "2026-07-30",
-  "count": 2005,
+  "count": 2030,
   "items": [
+    {
+      "id": "mkt:019fb1d4-0fe7-7aab-8f07-53f8bc631ba0",
+      "time": "2026-07-30 15:01:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Index futures midday close】At midday, China index futures: CSI 300 futures (IF) main contract down 0.79 pct; SSE 50 futures (IH) main contract up 0.22 pct; CSI 500 futures (IC) main contract down 2.60 pct; CSI 1000 futures (IM) main contract down 2.57 pct."
+    },
+    {
+      "id": "mkt:019fb1d4-00d8-7aab-8f07-4af6f6c4de1d",
+      "time": "2026-07-30 15:01:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "At the midday close, China’s main futures contracts were mostly down: lithium carbonate and iron ore slipped more than 3%; soda ash and rapeseed meal fell over 2%; ferrosilicon, glass and rebar were down about 2%. On the upside, Shanghai crude (SC) jumped over 6%, ethylene glycol (EG) gained nearly 5%, fuel oil rose about 4%, paraxylene (PX), PET chips and low-sulfur fuel oil (LU) advanced more than 3%, while PTA and short fiber rose roughly 3%."
+    },
+    {
+      "id": "5016073",
+      "time": "2026-07-30 15:01:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中微公司在武漢成立新公司 註冊資本5000萬】天眼查App顯示，近日，中微半導體裝置（武漢）有限公司成立，法定代表人為尹志堯，註冊資本5000萬人民幣，經營範圍含半導體器件專用裝置製造、電子專用裝置製造等。股東資訊顯示，該公司由中微公司（688012）全資持股。"
+    },
+    {
+      "id": "5016072",
+      "time": "2026-07-30 15:01:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數跌0.62%，深證成指跌2.73%，創業板指跌3.97%。"
+    },
+    {
+      "id": "mkt:019fb1d3-7490-7aab-8f07-465784c23315",
+      "time": "2026-07-30 15:00:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spain HICP preliminary MoM July -0.1% (exp -0.2%); June +0.6%."
+    },
+    {
+      "id": "mkt:019fb1d3-523a-7aab-8f07-394fbd6f11b8",
+      "time": "2026-07-30 15:00:44",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "Spain July CPI preliminary MoM +0.2% (consensus +0.2%); June +0.60%."
+    },
+    {
+      "id": "5016070",
+      "time": "2026-07-30 15:00:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門啟動全國區劃地名文物名錄建設 首批試點約15個】今天，民政部辦公廳、國家文物局辦公室共同釋出通知，要在全國開展區劃地名文物名錄建設試點，讓承載著中華文明基因的區劃地名文物“活”起來。通知指出，試點期限原則上為1年。各地要結合第四次全國文物普查，以不可移動文物目錄為基礎，篩選認定一批文物，能夠充分體現行政區劃地名歷史沿革和演進歷程。參考《區劃地名不可移動文物提示類別》，可以包括但不限於：古文化遺址，古墓葬、古建築、石窟寺及石刻、近現代重要史蹟及代表性建築等。通知明確，首批區劃地名文物名錄建設試點地區為15個左右，計劃在全國範圍內遴選，主要以市（地、州、盟）為單元，基礎條件特別優秀的縣級單元也可納入。區劃地名文物名錄，應包含文物名稱、所在位置、產生年代、儲存現狀、保護級別、管理責任機構（人）以及所蘊含的區劃地名歷史文化資訊等基本要素。試點堅持“保護第一，傳承優先”原則。（央視新聞）"
+    },
+    {
+      "id": "5016069",
+      "time": "2026-07-30 15:00:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "市場監管總局公佈六起市場化活動違法違規行為專項整治典型案件。"
+    },
+    {
+      "id": "mkt:019fb1d2-db2e-7aab-8f07-313373715d18",
+      "time": "2026-07-30 15:00:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spain Q2 preliminary GDP QoQ 0.7% vs 0.6% expected; prior 0.60%."
+    },
+    {
+      "id": "mkt:019fb1d2-d9dc-7aab-8f07-284fb9054453",
+      "time": "2026-07-30 15:00:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Switzerland's KOF economic barometer for July 103.5, vs. 101 expected; prior reading revised to 102.1 from 101.2."
+    },
+    {
+      "id": "mkt:019fb1d2-d8b0-7aab-8f07-24602571f568",
+      "time": "2026-07-30 15:00:12",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spain July preliminary CPI YoY 3.5% (consensus 3.4%; June 3.2%)."
+    },
+    {
+      "id": "mkt:019fb1d2-d735-7aab-8f07-1c7fcbe605ab",
+      "time": "2026-07-30 15:00:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spain Q2 preliminary annualized GDP 2.7% vs 2.5% expected; prior 2.7%."
+    },
+    {
+      "id": "te:markets:571064",
+      "time": "2026-07-30 15:00:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Italy Hit 4-week Low — IT40 decreased to 51235.00 Index Points, the lowest since June 2026. Over the past 4 weeks, Italy Stock Market Index (IT40) lost 0.64%, and in the last 12 months, it increased 25.1%."
+    },
+    {
+      "id": "mkt:019fb1d2-d721-7aab-8f07-1127a1cf826a",
+      "time": "2026-07-30 15:00:08",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spain July HICP preliminary YoY 3.8% (exp. 3.7%; prev. 3.6%)."
+    },
+    {
+      "id": "5016068",
+      "time": "2026-07-30 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】上海原油連續漲6.19%，乙二醇連續漲4.75%，燃料油連續漲3.89%，碳酸鋰連續跌3.68%，對二甲苯連續漲3.50%，瓶片連續漲3.35%。"
+    },
+    {
+      "id": "5016067",
+      "time": "2026-07-30 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數跌0.01%，英國富時100指數漲0.34%，法國CAC40指數跌0.6%，歐洲斯托克50指數跌0.65%，義大利富時MIB指數跌0.49%。"
+    },
+    {
+      "id": "5016066",
+      "time": "2026-07-30 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌2.56%， 滬深300指數期貨連續跌0.83%， 中證500指數期貨連續跌2.57%， 上證50指數期貨連續漲0.23%。"
+    },
+    {
+      "id": "mkt:019fb1d2-a849-7aab-8f07-0a514f9a1111",
+      "time": "2026-07-30 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Preliminary Quarterly GDP (Q2) | actual 0.7% | consensus 0.6% | previous 0.60%"
+    },
+    {
+      "id": "mkt:019fb1d2-a849-7aab-8f07-053a7bec4fde",
+      "time": "2026-07-30 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | CPI Flash (YoY) (Jul) | actual 3.5% | consensus 3.4% | previous 3.20%"
+    },
+    {
+      "id": "mkt:019fb1d2-a847-7aab-8f06-f89f5891aee4",
+      "time": "2026-07-30 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Preliminary Annual GDP (Q2) | actual 2.7% | consensus 2.5% | previous 2.70%"
+    },
+    {
+      "id": "mkt:019fb1d2-a847-7aab-8f06-f7502e5584be",
+      "time": "2026-07-30 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | HICP Flash (YoY) (Jul) | actual 3.8% | consensus 3.7% | previous 3.60%"
+    },
+    {
+      "id": "mkt:019fb1d2-a80a-7aab-8f06-efcee870785d",
+      "time": "2026-07-30 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | KOF Economic Leading Indicator (Jul) | actual 103.5 | consensus 101 | previous 101.2"
+    },
+    {
+      "id": "5016065",
+      "time": "2026-07-30 14:59:17",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將星巴克目標股價從111美元上調至115美元。"
+    },
+    {
+      "id": "mkt:019fb1d1-d07f-7aab-8f06-e1ca7e18ce15",
+      "time": "2026-07-30 14:59:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SHEL.N",
+        "Impact bearish"
+      ],
+      "text": "Shell (SHEL.N) CFO says refinery maintenance will increase next quarter."
+    },
+    {
+      "id": "5016064",
+      "time": "2026-07-30 14:58:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "雷諾首席財務官表示，今年上半年，雷諾在歐洲短期租賃市場的中國競爭對手銷量幾乎翻了一番。"
+    },
     {
       "id": "mkt:019fb1d0-1990-7aab-8f06-de6567d3e26a",
       "time": "2026-07-30 14:57:12",

@@ -1,7 +1,262 @@
 {
-  "updated": "2026-07-30 14:58:14",
-  "count": 17947,
+  "updated": "2026-07-30 15:02:48",
+  "count": 17937,
   "items": [
+    {
+      "id": "mkt:019fb1d4-0fe7-7aab-8f07-53f8bc631ba0",
+      "time": "2026-07-30 15:01:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Index futures midday close】At midday, China index futures: CSI 300 futures (IF) main contract down 0.79 pct; SSE 50 futures (IH) main contract up 0.22 pct; CSI 500 futures (IC) main contract down 2.60 pct; CSI 1000 futures (IM) main contract down 2.57 pct."
+    },
+    {
+      "id": "mkt:019fb1d4-00d8-7aab-8f07-4af6f6c4de1d",
+      "time": "2026-07-30 15:01:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "At the midday close, China’s main futures contracts were mostly down: lithium carbonate and iron ore slipped more than 3%; soda ash and rapeseed meal fell over 2%; ferrosilicon, glass and rebar were down about 2%. On the upside, Shanghai crude (SC) jumped over 6%, ethylene glycol (EG) gained nearly 5%, fuel oil rose about 4%, paraxylene (PX), PET chips and low-sulfur fuel oil (LU) advanced more than 3%, while PTA and short fiber rose roughly 3%."
+    },
+    {
+      "id": "5016073",
+      "time": "2026-07-30 15:01:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中微公司在武漢成立新公司 註冊資本5000萬】天眼查App顯示，近日，中微半導體裝置（武漢）有限公司成立，法定代表人為尹志堯，註冊資本5000萬人民幣，經營範圍含半導體器件專用裝置製造、電子專用裝置製造等。股東資訊顯示，該公司由中微公司（688012）全資持股。"
+    },
+    {
+      "id": "5016072",
+      "time": "2026-07-30 15:01:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數跌0.62%，深證成指跌2.73%，創業板指跌3.97%。"
+    },
+    {
+      "id": "mkt:019fb1d3-7490-7aab-8f07-465784c23315",
+      "time": "2026-07-30 15:00:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spain HICP preliminary MoM July -0.1% (exp -0.2%); June +0.6%."
+    },
+    {
+      "id": "mkt:019fb1d3-523a-7aab-8f07-394fbd6f11b8",
+      "time": "2026-07-30 15:00:44",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "Spain July CPI preliminary MoM +0.2% (consensus +0.2%); June +0.60%."
+    },
+    {
+      "id": "5016070",
+      "time": "2026-07-30 15:00:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門啟動全國區劃地名文物名錄建設 首批試點約15個】今天，民政部辦公廳、國家文物局辦公室共同釋出通知，要在全國開展區劃地名文物名錄建設試點，讓承載著中華文明基因的區劃地名文物“活”起來。通知指出，試點期限原則上為1年。各地要結合第四次全國文物普查，以不可移動文物目錄為基礎，篩選認定一批文物，能夠充分體現行政區劃地名歷史沿革和演進歷程。參考《區劃地名不可移動文物提示類別》，可以包括但不限於：古文化遺址，古墓葬、古建築、石窟寺及石刻、近現代重要史蹟及代表性建築等。通知明確，首批區劃地名文物名錄建設試點地區為15個左右，計劃在全國範圍內遴選，主要以市（地、州、盟）為單元，基礎條件特別優秀的縣級單元也可納入。區劃地名文物名錄，應包含文物名稱、所在位置、產生年代、儲存現狀、保護級別、管理責任機構（人）以及所蘊含的區劃地名歷史文化資訊等基本要素。試點堅持“保護第一，傳承優先”原則。（央視新聞）"
+    },
+    {
+      "id": "5016069",
+      "time": "2026-07-30 15:00:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "市場監管總局公佈六起市場化活動違法違規行為專項整治典型案件。"
+    },
+    {
+      "id": "mkt:019fb1d2-db2e-7aab-8f07-313373715d18",
+      "time": "2026-07-30 15:00:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spain Q2 preliminary GDP QoQ 0.7% vs 0.6% expected; prior 0.60%."
+    },
+    {
+      "id": "mkt:019fb1d2-d9dc-7aab-8f07-284fb9054453",
+      "time": "2026-07-30 15:00:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Switzerland's KOF economic barometer for July 103.5, vs. 101 expected; prior reading revised to 102.1 from 101.2."
+    },
+    {
+      "id": "mkt:019fb1d2-d8b0-7aab-8f07-24602571f568",
+      "time": "2026-07-30 15:00:12",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spain July preliminary CPI YoY 3.5% (consensus 3.4%; June 3.2%)."
+    },
+    {
+      "id": "mkt:019fb1d2-d735-7aab-8f07-1c7fcbe605ab",
+      "time": "2026-07-30 15:00:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spain Q2 preliminary annualized GDP 2.7% vs 2.5% expected; prior 2.7%."
+    },
+    {
+      "id": "te:markets:571064",
+      "time": "2026-07-30 15:00:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Italy Hit 4-week Low — IT40 decreased to 51235.00 Index Points, the lowest since June 2026. Over the past 4 weeks, Italy Stock Market Index (IT40) lost 0.64%, and in the last 12 months, it increased 25.1%."
+    },
+    {
+      "id": "mkt:019fb1d2-d721-7aab-8f07-1127a1cf826a",
+      "time": "2026-07-30 15:00:08",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spain July HICP preliminary YoY 3.8% (exp. 3.7%; prev. 3.6%)."
+    },
+    {
+      "id": "5016068",
+      "time": "2026-07-30 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】上海原油連續漲6.19%，乙二醇連續漲4.75%，燃料油連續漲3.89%，碳酸鋰連續跌3.68%，對二甲苯連續漲3.50%，瓶片連續漲3.35%。"
+    },
+    {
+      "id": "5016067",
+      "time": "2026-07-30 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數跌0.01%，英國富時100指數漲0.34%，法國CAC40指數跌0.6%，歐洲斯托克50指數跌0.65%，義大利富時MIB指數跌0.49%。"
+    },
+    {
+      "id": "5016066",
+      "time": "2026-07-30 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌2.56%， 滬深300指數期貨連續跌0.83%， 中證500指數期貨連續跌2.57%， 上證50指數期貨連續漲0.23%。"
+    },
+    {
+      "id": "mkt:019fb1d2-a849-7aab-8f07-053a7bec4fde",
+      "time": "2026-07-30 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | CPI Flash (YoY) (Jul) | actual 3.5% | consensus 3.4% | previous 3.20%"
+    },
+    {
+      "id": "mkt:019fb1d2-a849-7aab-8f07-0a514f9a1111",
+      "time": "2026-07-30 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Preliminary Quarterly GDP (Q2) | actual 0.7% | consensus 0.6% | previous 0.60%"
+    },
+    {
+      "id": "mkt:019fb1d2-a847-7aab-8f06-f89f5891aee4",
+      "time": "2026-07-30 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Preliminary Annual GDP (Q2) | actual 2.7% | consensus 2.5% | previous 2.70%"
+    },
+    {
+      "id": "mkt:019fb1d2-a847-7aab-8f06-f7502e5584be",
+      "time": "2026-07-30 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | HICP Flash (YoY) (Jul) | actual 3.8% | consensus 3.7% | previous 3.60%"
+    },
+    {
+      "id": "mkt:019fb1d2-a80a-7aab-8f06-efcee870785d",
+      "time": "2026-07-30 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | KOF Economic Leading Indicator (Jul) | actual 103.5 | consensus 101 | previous 101.2"
+    },
+    {
+      "id": "5016065",
+      "time": "2026-07-30 14:59:17",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將星巴克目標股價從111美元上調至115美元。"
+    },
+    {
+      "id": "mkt:019fb1d1-d07f-7aab-8f06-e1ca7e18ce15",
+      "time": "2026-07-30 14:59:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SHEL.N",
+        "Impact bearish"
+      ],
+      "text": "Shell (SHEL.N) CFO says refinery maintenance will increase next quarter."
+    },
+    {
+      "id": "5016064",
+      "time": "2026-07-30 14:58:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "雷諾首席財務官表示，今年上半年，雷諾在歐洲短期租賃市場的中國競爭對手銷量幾乎翻了一番。"
+    },
     {
       "id": "mkt:019fb1d0-1990-7aab-8f06-de6567d3e26a",
       "time": "2026-07-30 14:57:12",
@@ -165331,342 +165586,6 @@
         "其他"
       ],
       "text": "ALLIGATOR BIOSCIENCE股價暴跌74%，因放棄MITAZALIMAB開發並計劃進行配股。"
-    },
-    {
-      "id": "5003816",
-      "time": "2026-07-23 15:02:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【收盤：三大指數小幅上漲，電網裝置板塊集體爆發】市場全天橫盤震盪，三大指數小幅上漲。電網裝置板塊集體爆發，中能電氣、雙傑電氣、和順電氣等20餘股漲停。軍工板塊午後拉昇，湖南天雁、長城軍工、北自科技等漲停。油氣股延續強勢，中曼石油4天3板，博邁科漲停。下跌方面，半導體晶片股調整，華虹宏力、燕東微跌超10%。個股漲多跌少，滬深京三市超4200股飄紅，今日成交近2.21萬億。截止收盤滬指漲0.25%，深成指漲0.44%，創業板指漲0.25%。"
-    },
-    {
-      "id": "mkt:019f8dc8-8a77-7aab-8e5c-daf878c00af9",
-      "time": "2026-07-23 15:02:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude rose about $0.50 intraday to $89.39/bbl."
-    },
-    {
-      "id": "mkt:019f8dc8-75cb-7aab-8e5c-d5b0573ce851",
-      "time": "2026-07-23 15:02:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "China's STAR 50 Index tumbled 70.39 points (-3.78%) to 1,789.69 at Thursday's close; China's Shanghai Composite Index rose 9.74 points (+0.25%) to 3,876.78; Shenzhen Composite Index gained 61.87 points (+0.44%) to 14,123.31; CSI 300 Index added 10.76 points (+0.23%) to 4,728.00; ChiNext Index rose 8.79 points (+0.25%) to 3,575.52."
-    },
-    {
-      "id": "5003815",
-      "time": "2026-07-23 15:02:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "達索航空股價上漲8.8%，此前該公司公佈的營收資料超出預期。"
-    },
-    {
-      "id": "5003814",
-      "time": "2026-07-23 15:02:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上半年農產品質量安全監測合格率達98.2%】記者從農業農村部瞭解到，今年上半年，農業農村部組織開展了2次農產品質量安全例行監測，抽檢蔬菜、水果、茶葉、畜禽產品、水產品，涉及5大類149個品種15287個樣品，包括149項引數，監測合格率達98.2%。針對例行監測發現的問題，農業農村部按照隨檢隨報、隨報隨轉機制，已將不合格樣品資訊轉地方農業農村部門及時處置。（央視新聞）"
-    },
-    {
-      "id": "5003813",
-      "time": "2026-07-23 15:02:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“十五五”上海將深入實施“大博物館計劃” 每年落地一批世界級大展特展】7月23日下午，上海市政府新聞辦舉行“開局起步‘十五五’”系列主題市政府新聞釋出會。上海市文化旅遊局副局長廖燕靈在會上表示，“十五五”期間，上海將依託175座備案博物館、230餘萬件（套）藏品資源、千場年度文博展覽、4000多萬觀眾群體基礎，聚焦社會主義國際文化大都市建設目標，深入實施“大博物館計劃”。"
-    },
-    {
-      "id": "mkt:019f8dc7-f45b-7aab-8e5c-cc4f6566be47",
-      "time": "2026-07-23 15:01:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "EU diplomats said technical work on the sanctions package against Russia will be completed shortly and the written adoption procedure will begin this afternoon."
-    },
-    {
-      "id": "5003812",
-      "time": "2026-07-23 15:01:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破89美元/桶，日內漲2.51%。"
-    },
-    {
-      "id": "5003811",
-      "time": "2026-07-23 15:01:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交官表示：對制裁一攬子方案的技術工作現已收尾，將於今日下午啟動該方案的核準書面程式。"
-    },
-    {
-      "id": "mkt:019f8dc7-b479-7aab-8e5c-c735ee94c66b",
-      "time": "2026-07-23 15:01:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CSI500",
-        "Impact bearish",
-        "CSI1000"
-      ],
-      "text": "【China stock index futures midday close】China stock index futures midday: CSI 300 futures (IF) main contract +0.23%; SSE 50 futures (IH) main contract -0.01%; CSI 500 futures (IC) main contract -0.28%; CSI 1000 futures (IM) main contract +0.63%."
-    },
-    {
-      "id": "mkt:019f8dc7-6186-7aab-8e5c-bae2896dd288",
-      "time": "2026-07-23 15:01:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "European equities opened lower on July 23: Germany's DAX fell 175.60 pts (-0.70%) to 24,998.50; UK's FTSE 100 down 14.52 pts (-0.14%) to 10,702.45; France's CAC 40 down 46.03 pts (-0.55%) to 8,391.86; Euro Stoxx 50 down 37.79 pts (-0.60%) to 6,279.20; Spain's IBEX 35 down 58.27 pts (-0.30%) to 19,513.03; Italy's FTSE MIB down 508.04 pts (-0.96%) to 52,284.00."
-    },
-    {
-      "id": "mkt:019f8dc7-4296-7aab-8e5c-b32c1641f4f7",
-      "time": "2026-07-23 15:01:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "At the mid-session close, China onshore futures were mixed. Shanghai crude (SC) rose over 4%, fuel oil gained >3%; styrene (EB) and palm oil near 3%; low-sulfur fuel oil (LU), lithium carbonate and plastics climbed >2%; rapeseed oil around 2% higher. Laggards included fiberboard, manganese-silicon, platinum and palladium, down >1%; glass, polysilicon and alumina fell about 1%."
-    },
-    {
-      "id": "5003810",
-      "time": "2026-07-23 15:01:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊雲釋出雲端智慧體CodeBuddy NPC】7月23日，騰訊雲正式釋出雲端智慧體CodeBuddy NPC。據介紹，開發者只需派發一個任務，CodeBuddy NPC即可自主完成方案規劃、程式碼開發、提交 PR、執行測試，並根據CI結果持續修改，直到交付可驗收的成果。"
-    },
-    {
-      "id": "mkt:019f8dc7-30d6-7aab-8e5c-aa3ac01efc3b",
-      "time": "2026-07-23 15:01:09",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "EU diplomats say EU ambassadors have reached a political agreement on the 21st round of sanctions against Russia."
-    },
-    {
-      "id": "5003809",
-      "time": "2026-07-23 15:01:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交官稱，歐盟大使已就針對俄羅斯的第21輪制裁方案達成政治共識。"
-    },
-    {
-      "id": "5003808",
-      "time": "2026-07-23 15:01:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數漲0.25%，深證成指漲0.44%，創業板指漲0.25%。"
-    },
-    {
-      "id": "5003807",
-      "time": "2026-07-23 15:00:57",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中國銀行在深圳舉辦服務企業出海系列活動併發起成立“出海環球通合作聯盟”】7月23日，中國銀行在深圳舉辦海外綜合服務體系座談會，“揚帆出海 中行相伴”服務企業出海主題會議、雙向投資推介會等系列活動。現場，中國銀行宣佈成立“出海環球通合作聯盟”。該聯盟由中國銀行、香港貿發局、招商局集團、中航集團、中遠海運、中國信保、進出口銀行、中金公司、金杜律師事務所、立信會計師事務所等10家機構共同發起，商務部投促局和研究院作為戰略合作伙伴，匯聚金融、物流、法律、會計、智庫等行業專業力量，打造協同聯動、資源聚焦、內外貫通的立體化、專業化海外綜合服務生態。"
-    },
-    {
-      "id": "5003806",
-      "time": "2026-07-23 15:00:41",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "訊息人士表示，卡達和阿聯酋的液化天然氣買家因霍爾木茲海峽風險，將尋求更低的價格和更強的供應保障。"
-    },
-    {
-      "id": "5003805",
-      "time": "2026-07-23 15:00:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲2%，現報92.01美元/桶。"
-    },
-    {
-      "id": "5003804",
-      "time": "2026-07-23 15:00:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破92美元/桶，日內漲2.03%。"
-    },
-    {
-      "id": "mkt:019f8dc6-b0e5-7aab-8e5c-a6c890584541",
-      "time": "2026-07-23 15:00:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact mixed",
-        "WTI"
-      ],
-      "text": "Sources said buyers of liquefied natural gas from Qatar and the UAE are seeking lower prices and stronger supply guarantees amid heightened risk to shipments through the Strait of Hormuz."
-    },
-    {
-      "id": "5003803",
-      "time": "2026-07-23 15:00:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "TD COWEN將特斯拉目標價從490美元下調至460美元。"
-    },
-    {
-      "id": "mkt:019f8dc6-5a9b-7aab-8e5c-9a145652e9fd",
-      "time": "2026-07-23 15:00:14",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "TSLA.O",
-        "Impact bearish"
-      ],
-      "text": "TD Cowen cut its PT on Tesla (TSLA.O) to $460 from $490."
-    },
-    {
-      "id": "te:markets:569146",
-      "time": "2026-07-23 15:00:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "SAP Stock Price Hits 4-week Low — SAP shares decreased to 130.74 EUR, the lowest since June 2026. Over the past 4 weeks, SAP lost 2.62%, and in the last 12 months, it decreased 47.36%."
-    },
-    {
-      "id": "5003802",
-      "time": "2026-07-23 15:00:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "小鵬汽車執行長表示，公司目標是成為自動駕駛計程車技術提供商，而非運營車隊。"
-    },
-    {
-      "id": "5003801",
-      "time": "2026-07-23 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤普漲，德國DAX指數漲0.58%，英國富時100指數漲1.24%，法國CAC40指數漲0.89%，歐洲斯托克50指數漲0.5%，義大利富時MIB指數漲0.97%。"
-    },
-    {
-      "id": "5003800",
-      "time": "2026-07-23 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】上海原油連續漲4.14%，燃料油連續漲3.31%，苯乙烯連續漲2.88%，棕櫚油連續漲2.85%，碳酸鋰連續漲2.55%，低硫燃料油連續漲2.24%，塑膠連續漲2.15%。"
-    },
-    {
-      "id": "5003799",
-      "time": "2026-07-23 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.63%， 滬深300指數期貨連續漲0.23%， 中證500指數期貨連續跌0.28%， 上證50指數期貨連續跌0.01%。"
-    },
-    {
-      "id": "5003798",
-      "time": "2026-07-23 15:00:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科創50ETF華夏成交額較前4個交易日顯著縮量】科創50ETF華夏（588000）收跌3.38%，全天成交額不足100億元較前4個交易日顯著縮量，此前4個交易日全天成交額分別為142.9億、234.5億、173.2億、137.4億。"
-    },
-    {
-      "id": "5003797",
-      "time": "2026-07-23 15:00:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "小鵬汽車執行長表示，公司計劃明年在海外拓展自動駕駛計程車業務。"
-    },
-    {
-      "id": "5003796",
-      "time": "2026-07-23 14:59:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "小鵬汽車執行長表示，公司目標到2027年下半年，廣州自動駕駛計程車（Robotaxi）業務實現單車盈虧平衡。"
-    },
-    {
-      "id": "5003795",
-      "time": "2026-07-23 14:59:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "小鵬汽車執行長表示，公司將於明年推出專為自動駕駛計程車最佳化的車型。"
-    },
-    {
-      "id": "5003794",
-      "time": "2026-07-23 14:59:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“嬌龍”月季7月24日開通線上購買】據雲南省農業科學院花卉研究所研究員蔡豔飛介紹，“嬌龍”月季種苗將於7月24日首次開通線上售賣。“嬌龍”月季以新疆好乾部賀嬌龍命名，花語是“若為熱愛，便所向披靡”。（新疆日報）"
-    },
-    {
-      "id": "5003793",
-      "time": "2026-07-23 14:58:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【上半年高歌猛進後 亞洲對沖基金在7月拋售潮中受挫】在人工智慧和技術硬體熱潮推動下，亞洲對沖基金上半年實現了兩位數乃至三位數的回報，但在7月拋售潮中它們未能倖免。知情人士透露，截至7月17日，WT China Fund本月在扣除費用前已下跌17%，而此前六個月飆升120%。知情人士稱，Keystone Investors Pte旗下對沖基金同期下跌12%，前六個月為飆升63%。以選股眼光獨到和穩定業績著稱的FengHe Asia同樣錄得虧損，CloudAlpha Capital Management和Indus Capital Partners旗下基金也出現下跌。不過Eagle’s View Capital Management的基金經理Chris McGuire稱，麾下日本可轉債套利基金本月迄今罕見取得收益，受惠於7月市場波動帶來的機會。"
-    },
-    {
-      "id": "5003792",
-      "time": "2026-07-23 14:58:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體，美國週四清晨襲擊了伊朗西部的伊斯蘭堡-加爾布（ESLAMABAD-E GHARB）。"
     }
   ]
 }
