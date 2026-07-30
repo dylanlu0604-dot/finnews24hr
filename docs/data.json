@@ -1,7 +1,134 @@
 {
-  "updated": "2026-07-30 09:03:38",
-  "count": 17840,
+  "updated": "2026-07-30 09:07:29",
+  "count": 17847,
   "items": [
+    {
+      "id": "mkt:019fb08f-5ee7-7aab-8efd-5411536fbdde",
+      "time": "2026-07-30 09:06:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 gained up to 2% intraday."
+    },
+    {
+      "id": "5015538",
+      "time": "2026-07-30 09:06:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股納斯達克100指數期貨漲超1%】美股納斯達克100指數期貨漲超1%，標普500指數期貨漲0.45%，道瓊斯指數期貨漲0.27%。"
+    },
+    {
+      "id": "5015537",
+      "time": "2026-07-30 09:05:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1277.50美元/盎司。"
+    },
+    {
+      "id": "5015536",
+      "time": "2026-07-30 09:05:07",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什過於簡略的溝通風格遭抨擊 市場要美聯儲動真格抗通脹】凱文·沃什過於簡略的溝通風格讓投資人懷疑他抑制通脹的決心，讓這位美聯儲新主席面臨更大壓力，必須以升息來兌現自己的承諾。美聯儲週三政策會議後的記者會結束後幾個小時內，摩根大通分析師就將原先預期升息的時間，從2027年下半年提前至今年12月。摩根大通的Michael Feroli寫道，沃什再次未能具體說明，將如何實現自己強硬宣示的抗通脹決心。這將讓美聯儲其餘決策官員更迫切採取行動，以履行其法定使命。沃什發表講話不久前，美聯儲官員以9比3決定維持利率不變，延續今年以來每次會議按兵不動的做法。市場普遍預期這項結果，投資人也對此反應平淡。然而，沃什並未清楚解釋按兵不動的理由，也沒有表示若通脹未能降溫，自己是否支援升息。"
+    },
+    {
+      "id": "mkt:019fb08d-bee8-7aab-8efd-4757eb36f439",
+      "time": "2026-07-30 09:05:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE silver main contract up 2.00% intraday, trading at 14,347.00 yuan/kg."
+    },
+    {
+      "id": "5015535",
+      "time": "2026-07-30 09:04:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲2%，現報14347.00元。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825848070",
+      "time": "2026-07-30 09:04:53",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【中金：沃什試圖將部分緊縮功能“外包” 或招致市場定價美聯儲行動過晚】中金研報稱，美聯儲7月會議維持利率不變，但內部鷹派力量進一步增強，三位票委投票支援加息25個基點。中金認為，本次會議最大的變化並非利率決議，而是沃什試圖減少政策干預，更多依賴市場利率自發上升來收緊金融條件，將部分緊縮功能“外包”給市場。"
+    },
+    {
+      "id": "5015534",
+      "time": "2026-07-30 09:04:40",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信期貨：黃金短線震盪修復，關注美伊局勢進展和海峽通航情況】日內海內外金價“V型”震盪。宏觀層面，7月FOMC會議宣告後，市場對美聯儲9月加息的押注下降，將首次加息預期推遲至2027年3月，推動貴金屬修復。地緣層面，隨著中東敵對行動重燃，市場對於美以與伊朗衝突即將結束的希望破滅，日內WTI油價漲幅近7%，通脹擔憂持續成為市場關注焦點。資金層面，美聯儲利率決議公佈前兩日，全球黃金ETF持倉量持穩，資金情緒趨於謹慎，投資者關注通脹壓力和利率前景。（中信期貨）"
+    },
+    {
+      "id": "te:markets:570925",
+      "time": "2026-07-30 09:04:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Pressured Near November Lows — Platinum futures hovered around $1,630 an ounce, pressured near late-November lows as softer industrial demand and inflationary risks stemming from the Middle East war weighed on the market. The conflict has kept energy prices elevated, fueling inflationary pressures and reinforcing expectations that interest rates will remain higher for longer, reducing the appeal of non-yielding assets such as platinum. Although the US Federal Reserve left interest rates unchanged, Chairman Kevin Warsh warned that higher interest rates could become an appropriate policy response if inflation remains elevated. The platinum market was also weighed down by expectations for softer industrial and automotive demand despite the tight supply outlook. The ongoing shift toward electric vehicles, which do not require autocatalysts, has clouded demand prospects even as the market is forecast to post a fourth straight annual supply deficit due to constrained mine supply and declining above-ground inventories."
+    },
+    {
+      "id": "mkt:019fb08d-0e80-7aab-8efd-393ef928cef6",
+      "time": "2026-07-30 09:04:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian media report explosions heard in the Bushehr region."
+    },
+    {
+      "id": "5015533",
+      "time": "2026-07-30 09:04:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "據法爾斯通訊社：美軍襲擊了伊朗西南部城市阿巴丹。"
+    },
+    {
+      "id": "5015532",
+      "time": "2026-07-30 09:03:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：季度股息總額為2.456萬億韓元，將於8月28日支付每股374韓元股息。"
+    },
+    {
+      "id": "5015531",
+      "time": "2026-07-30 09:02:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中孚資訊中標某運營商終端保密檢查軟體集採專案】據中孚資訊訊息，近日，中孚資訊成功中標某運營商2026年至2028年計算機終端保密檢查軟體集中採購專案，中標金額突破2000萬元。"
+    },
+    {
+      "id": "mkt:019fb08b-8f54-7aab-8efd-30253e3966c9",
+      "time": "2026-07-30 09:02:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine imports rose 19.6% YoY in June; exports rose 24.1% YoY."
+    },
     {
       "id": "5015530",
       "time": "2026-07-30 09:02:29",
@@ -119,6 +246,18 @@
         "Brent"
       ],
       "text": "【Japan cuts current fiscal GDP forecast as surging energy costs bite】Japan trimmed its inflation-adjusted GDP forecast for the fiscal year to March 2027 to 0.9% from a January forecast of 1.3%, citing oil price rises tied to Middle East tensions that are compressing household spending and corporate profits. Growth is seen accelerating to 1.1% in the following fiscal year on stronger private consumption and robust capital spending. Private consumption in the fiscal year to March 2027 is now expected to rise 0.9% (previous 1.3%); capital expenditure is projected up 2.3% (previous 2.8%), underscoring pressure from higher energy costs on Japan’s fuel-import-dependent economy."
+    },
+    {
+      "id": "mkt:019fb08f-2a78-7aab-8efd-49001e4a3190",
+      "time": "2026-07-30 09:00:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 0.89% to 886.97 yuan/gram in early trade on Thursday, July 30; silver T+D rose 0.83% to 14,202 yuan/kg."
     },
     {
       "id": "5015522",
@@ -164509,87 +164648,6 @@
         "Importance 1"
       ],
       "text": "U.S. Targets Interim North America Trade Pacts — U.S. Trade Representative Jamieson Greer told the Senate Finance Committee that he aims to secure interim trade arrangements with Canada and Mexico by year-end, while deferring more contentious revisions to the U.S.-Mexico-Canada Agreement until 2027. Greer said complex issues, including stricter automotive rules of origin, labor standards, and environmental regulations, will require extended consultation “including with Congress in the following year.” He stressed the U.S. is “moving with all due speed” and intends to present options to President Donald Trump, Mexican President Claudia Sheinbaum, and Canadian Prime Minister Mark Carney before December, though he offered no details on the scope of potential deals."
-    },
-    {
-      "id": "5003309",
-      "time": "2026-07-23 09:07:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【兩部門：多場景多元化開發分散式新能源】國家發展改革委、國家能源局印發《可再生能源發展“十五五”規劃》，其中提到，以中東南部等地區為重點，推動分散式新能源多場景多元化開發和空間集約複合利用。“十五五”期間，全國分散式新能源新增裝機 3 億千瓦以上。在工業園區、經濟開發區、煤炭油氣礦區、資源型城市及周邊等工商業聚集區，積極推進分散式光伏、分散式風電開發。加快工業綠色微電網建設。"
-    },
-    {
-      "id": "mkt:019f8c82-2a34-7aab-8e55-a5b092429640",
-      "time": "2026-07-23 09:06:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Japan's finance minister Katayama said she is prepared to take decisive foreign-exchange (FX) action if necessary."
-    },
-    {
-      "id": "mkt:019f8c81-dd8f-7aab-8e55-9eeaa317cbfc",
-      "time": "2026-07-23 09:05:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish",
-        "CNH",
-        "Hang Seng Index"
-      ],
-      "text": "【NDRC, NEA set 2030 renewable power target at about 3,500 GW】NDRC and the NEA issued the Renewable Energy Development 15th Five‑Year Plan. Key 2030 targets: renewable energy consumption ~1.8 bln tonnes standard coal equivalent (tce); total renewable power installed capacity about 3,500 GW and annual generation about 6 trillion kWh. Wind and solar installed capacity to exceed 2,800 GW (over 50% of capacity) with annual generation above 4 trillion kWh, accounting for ~30% of power generation. Non‑power renewable use to expand 1.5x versus 2025 to roughly 150 mln tce. Reliability targets: nationwide average firm output (capacity credit) for wind and PV, including source‑side co‑located storage, to reach ~8% overall (wind ~11%, PV ~6%); wind+PV (with co‑located storage) to supply over 20% of electricity during summer and winter evening peaks, up about 10 percentage points. During the 15th Five‑Year period, add more than 300 GW of reliable peak renewable capacity."
-    },
-    {
-      "id": "5003308",
-      "time": "2026-07-23 09:05:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家發展改革委、國家能源局印發 《可再生能源發展“十五五”規劃》】2030 年，可再生能源消費總量達到18 億噸標準煤左右。2030 年，可再生能源發電總裝機達到35 億千瓦左右，年發電量達到 6 萬億千瓦時左右；風電和太陽能發電總裝機達到 28 億千瓦以上、裝機佔比超過50%，年發電量4 萬億千瓦時以上，發電量佔比達到 30%。"
-    },
-    {
-      "id": "5003307",
-      "time": "2026-07-23 09:04:46",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【發改委印發《可再生能源發展“十五五”規劃》】發改委印發《可再生能源發展“十五五”規劃》，要求深入貫徹黨的二十大和二十屆歷次全會精神，認真落實四中全會部署，完整準確全面貫徹新發展理念，深入踐行“四個革命、一個合作”能源安全新戰略，錨定碳達峰碳中和目標，落實新一輪國家自主貢獻目標，統籌發展和安全，以擴量提質、可靠替代為主線，以電為核心、非電為突破，堅持整合融合、多元協同、高效有序，推動可再生能源高質量發展，為建設能源強國、全面推進中國式現代化貢獻綠色發展動能。(發改委)"
-    },
-    {
-      "id": "mkt:019f8c80-6f61-7aab-8e55-9320681fd329",
-      "time": "2026-07-23 09:04:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Fars News, citing a deputy provincial governor, said the second missile strike on Bushehr targeted military facilities."
-    },
-    {
-      "id": "5003305",
-      "time": "2026-07-23 09:04:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：不對具體匯率水平置評。準備在必要時對外匯採取果斷行動。"
-    },
-    {
-      "id": "5003304",
-      "time": "2026-07-23 09:03:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗半官方法爾斯通訊社援引副省長訊息稱，對布什爾的第二波導彈襲擊打擊的是一處軍事陣地。"
     }
   ]
 }
