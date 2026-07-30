@@ -1,7 +1,128 @@
 {
-  "updated": "2026-07-31 07:32:49",
-  "count": 17954,
+  "updated": "2026-07-31 07:36:52",
+  "count": 17956,
   "items": [
+    {
+      "id": "5017853",
+      "time": "2026-07-31 07:36:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱其兩位特使賈裡德·庫什納和史蒂夫·維特科夫將在未來幾天首次訪問烏克蘭，"
+    },
+    {
+      "id": "5017852",
+      "time": "2026-07-31 07:35:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【MLCC板塊逆勢上漲 行業景氣度正在快速提升】近日，A股市場劇烈震盪，前期漲幅較大的科技股紛紛下挫。不過，MLCC（多層陶瓷電容器）板塊的表現格外搶眼，相關概念股逆勢走強。MLCC板塊逆勢上漲的背後，是業界的“超級週期”預測。近日，一則關於“持續多年的MLCC供應寬鬆週期已經宣告結束，一場由AI產業爆發引燃的高階MLCC需求狂飆，正在將全行業拖入‘加錢也難按時拿到貨’的緊缺時代，超級週期剛剛開始”的訊息，在業界悄然傳開。MLCC行業的超級週期能否兌現不得而知，但種種跡象顯示，行業景氣度正在快速提升。“今年以來，行業的景氣度在持續上升。客戶的下單量持續增加，實際需求量已經超過當前交付量，訂單能見度也大幅提升，我們都能感受到下游MLCC廠家的需求正在加大。”7月30日，國內MLCC材料企業相關負責人對證券時報記者稱：“當前，儘管已經滿負荷生產，但很多訂單不得不延遲交付。”"
+    },
+    {
+      "id": "te:economy:571368",
+      "time": "2026-07-31 07:35:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Tokyo Core CPI",
+        "Importance 1"
+      ],
+      "text": "Tokyo Core Inflation at 6-Month High of 1.9% — Core consumer prices in Tokyo’s central wards increased 1.9% year-on-year in July 2026, following a 1.6% rise in the previous month and exceeding market expectations of 1.7%. It was the second consecutive month of acceleration and marked the fastest increase since January, signaling broadening price pressures stemming from the Middle East conflict. However, inflation remained below the Bank of Japan’s 2% target for a sixth consecutive month, as fuel subsidies and favorable base effects helped limit the impact of higher raw material costs linked to the conflict."
+    },
+    {
+      "id": "5017851",
+      "time": "2026-07-31 07:35:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI雲服務商Nscale推進IPO計劃，目標估值或達250億美元】7月31日訊息，據報道，AI雲服務提供商Nscale正推進首次公開募股（IPO）計劃，並已與潛在投資者展開會面，計劃下週在紐約舉行投資者日活動，向分析師和投資機構介紹上市計劃。Nscale最快可能於今年秋季上市，但仍可能根據市場情況推遲IPO程序。投行此前提出的公司估值目標約為250億美元，高於Nscale今年3月融資時的146億美元估值。"
+    },
+    {
+      "id": "5017850",
+      "time": "2026-07-31 07:34:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【加密貨幣交易所Coinbase因交易量下滑連續第三個季度出現虧損】Coinbase Global公佈連續第三個季度虧損，原因是加密貨幣市場持續低迷 導致其交易量下滑，受此影響，這家數字資產交易所的股價 在盤後交易中下跌 5.3%。在4月至6月這一季度，加密貨幣市場承受著壓力，原因是美國利率前景的不確定性、地緣政治緊張局勢以及加密貨幣投資產品持續的資金流出，導致投資者回避風險較高的資產。這一疲軟態勢延續了自去年10月創下歷史新高以來的回落趨勢。Coinbase本季度的交易收入從上年同期的7.64億美元下降21%，至5.99億美元。"
+    },
+    {
+      "id": "mkt:019fb560-e00b-7aab-8f1f-65211dbf3a4f",
+      "time": "2026-07-31 07:34:12",
+      "tags": [
+        "MKT News",
+        "RTX.O"
+      ],
+      "text": "U.S. President Trump said he is \"not sure\" whether he will allow Ukraine to build Patriot missiles."
+    },
+    {
+      "id": "mkt:019fb560-cf4f-7aab-8f1f-5c0fffa99232",
+      "time": "2026-07-31 07:34:08",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "USD/JPY breached 160.00, rising 0.33% intraday."
+    },
+    {
+      "id": "mkt:019fb560-c4f1-7aab-8f1f-523196cdfd6b",
+      "time": "2026-07-31 07:34:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "Japan July Tokyo non-seasonally adjusted CPI +0.4% MoM, prior 0.0%."
+    },
+    {
+      "id": "mkt:019fb560-a847-7aab-8f1f-4e3e6fea9515",
+      "time": "2026-07-31 07:33:58",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Tokyo CPI (MoM) (Jul) | actual 0.4% | previous 0%"
+    },
+    {
+      "id": "5017849",
+      "time": "2026-07-31 07:33:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普表示“不確定”是否會允許烏克蘭製造愛國者導彈。"
+    },
+    {
+      "id": "5017848",
+      "time": "2026-07-31 07:32:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "和平委員會官員：以色列撤軍將根據待最終確定的時間表分階段進行。加沙重建將由“和平委員會”監督。"
+    },
+    {
+      "id": "mkt:019fb55f-65b9-7aab-8f1f-461f83940a2b",
+      "time": "2026-07-31 07:32:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Peace Committee official said Gaza's reconstruction will be overseen by the \"Peace Committee\"."
+    },
+    {
+      "id": "5017847",
+      "time": "2026-07-31 07:32:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【智利與委內瑞拉啟動恢復雙邊關係程序 】智利外交部與委內瑞拉外交部30日釋出聯合宣告，智利與委內瑞拉將逐步恢復雙邊關係。宣告說，雙方同意恢復領事關係，這是兩國全面恢復雙邊關係的第一步，旨在為居住在對方國家的公民提供領事保護和服務。宣告還說，兩國將嚴格遵循國際法，秉承相互尊重、互惠互利原則，以對話推動雙邊關係正常化。"
+    },
     {
       "id": "mkt:019fb55e-ebd7-7aab-8f1f-3ba709466bd9",
       "time": "2026-07-31 07:32:04",
@@ -95,6 +216,15 @@
         "國際"
       ],
       "text": "日本6月季調後失業率為2.5% ，調查預估2.5%。日本6月求才求職比 1.18，預期 1.17，前值 1.17。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202607313827220188",
+      "time": "2026-07-31 07:30:52",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本6月失業率為2.5%，預期2.50%，前值2.50%。"
     },
     {
       "id": "5017838",
@@ -165822,126 +165952,6 @@
         "其他"
       ],
       "text": "XAI：Grok Build 現已支援執行工作流。"
-    },
-    {
-      "id": "5005514",
-      "time": "2026-07-24 07:36:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國7月31日起將槓桿ETF交易的現金存款要求提高至3000萬韓元】韓國金融服務委員會發布宣告稱，韓國將把針對散戶投資者交易單一個股槓桿ETF的更嚴格存款額要求提前至7月31日實施，較原定的8月實施時間提前，存款額要求為3000萬韓元，且為現金形式。現金存款要求由1000萬韓元提高至3000萬韓元；股票、ETF和債券將不再計入最低存款額。新規適用於購買韓國國內及海外上市的單一個股槓桿ETF。對於未能於7月31日前完成系統升級的公司，將被建議限制這種產品的新交易。"
-    },
-    {
-      "id": "5005513",
-      "time": "2026-07-24 07:36:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英偉達與Amkor達成15億美元晶片封裝與測試合作協議】美國半導體產品封裝和測試服務提供商Amkor Technology當地時間7月23日宣佈，與英偉達達成15億美元多年期合作協議，共同開發面向下一代人工智慧和加速計算平臺的先進半導體封裝與測試技術。根據協議，英偉達將提供預付款，支援Amkor在美國擴充先進封裝產能。"
-    },
-    {
-      "id": "5005512",
-      "time": "2026-07-24 07:36:09",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：淡季不淡旺季可期 鋰價有望低位反升】中信建投證券研報指出，由於鋰價近期快速下行，上游惜售情緒加重，挺價明顯，部分散單報價仍維持在16萬元/噸以上；同時下游逢低採購，材料廠15萬元/噸以下的採購情緒較為積極，但採購行為依然謹慎，整體以剛需為主。供給端，碳酸鋰產量下行，部分鋰鹽廠按計劃進入檢修，導致鋰輝石產線減量明顯。需求方面，7月排產預計延續增長態勢，材料廠開工率保持高位執行，預計環比增長超5%，預計8月排產環比繼續保持正增長，淡季不淡，年內搶裝搶出口預期下，四季度旺季可期。"
-    },
-    {
-      "id": "te:economy:569411",
-      "time": "2026-07-24 07:36:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "Japan Inflation Rate Rises to 6-Month High — Japan's annual inflation rate accelerated to 1.7% in June 2026 from 1.5% in the prior month, marking the highest reading since December. Core inflation, which excludes fresh food, also picked up to 1.6% from 1.4%, matching market expectations and reaching its highest level since March. However, core inflation remained below the Bank of Japan's 2% target for a fifth consecutive month"
-    },
-    {
-      "id": "te:economy:569410",
-      "time": "2026-07-24 07:35:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Core Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "Japan Core Inflation Matches Estimates — Japan’s core consumer price index, which excludes fresh food but includes energy, increased 1.6% year-on-year in June 2026, following a 1.4% rise in May, which was the lowest level since March 2022. It was the highest core inflation rate since March and was in line with market forecasts of 1.6%. Still, the latest reading remained below the Bank of Japan’s 2% target for a fifth straight month, as government fuel subsidies helped offset price pressures from higher oil costs linked to the Middle East conflict."
-    },
-    {
-      "id": "5005511",
-      "time": "2026-07-24 07:34:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本民眾集會 反對政府擴軍備武動向】近日，日本防衛大臣小泉進次郎公開提出，日本應毫無禁忌地討論與核武器相關的政策，引發日本國內和國際社會強烈關注。23日，部分日本民眾在東京江東區舉行集會，反對政府擴軍備武動向。（央視）"
-    },
-    {
-      "id": "mkt:019f9154-fc79-7aab-8e75-07d12491a109",
-      "time": "2026-07-24 07:34:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan core-core CPI YoY increase fell to its weakest level since August 2022."
-    },
-    {
-      "id": "5005510",
-      "time": "2026-07-24 07:34:39",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本通脹回升 日本央行加息路徑不變】日本核心通脹指標三個月來首次回升，日本央行年內再度加息的預期進一步穩固。日本總務省週五公佈，6月剔除生鮮食品的核心消費者物價指數（CPI）同比上漲1.6%，該資料與調查的預期中值一致。同時，剔除生鮮食品與能源、被日本央行視作核心通脹基準的核心核心CPI同比上漲1.7%，整體CPI同比漲幅同樣為1.7%。"
-    },
-    {
-      "id": "5005509",
-      "time": "2026-07-24 07:34:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼北馬魯古省附近海域發生5.8級地震】據印度尼西亞氣象、氣候和地球物理局釋出的報告，當地時間7月24日5時58分，印尼北馬魯古省特爾納特市西南117公里處海域發生5.8級地震，震中位於北緯0.72度，東經126.31度，震源深度10公里。"
-    },
-    {
-      "id": "5005508",
-      "time": "2026-07-24 07:33:14",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將麥格理目標價上調3.8%，至每股273.00澳元。"
-    },
-    {
-      "id": "mkt:019f9153-37d2-7aab-8e74-ff3722eb1471",
-      "time": "2026-07-24 07:32:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan nationwide not-seasonally-adjusted CPI, June MoM 0.0%, prior 0.5%."
-    },
-    {
-      "id": "mkt:019f9153-1dd0-7aab-8e74-f23c5c73f435",
-      "time": "2026-07-24 07:32:51",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | CPI (MoM) (Jun) | actual 0% | previous 0.5%"
     }
   ]
 }
