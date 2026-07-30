@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-30 12:25:01",
+  "updated": "2026-07-30 12:29:02",
   "count": 17904,
   "items": [
+    {
+      "id": "5015855",
+      "time": "2026-07-30 12:27:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國興業銀行計劃進行規模達15億歐元的特別股票回購，最早將於2026年8月3日啟動。"
+    },
+    {
+      "id": "5015854",
+      "time": "2026-07-30 12:26:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國興業銀行第二季度淨利潤17.9億歐元，同比+23%"
+    },
+    {
+      "id": "mkt:019fb145-8377-7aab-8f02-c312e5095b63",
+      "time": "2026-07-30 12:25:50",
+      "tags": [
+        "MKT News",
+        "MP.O",
+        "Impact bearish",
+        "AREC.O",
+        "UAMY.O"
+      ],
+      "text": "Financial Times reports hedge funds are ramping up short bets on US critical-minerals companies. S&P Global Market Intelligence stock-borrow data shows year-to-date increases in short positions at US Antimony, American Resources and MP Materials."
+    },
+    {
+      "id": "mkt:019fb145-112c-7aab-8f02-b91f39119966",
+      "time": "2026-07-30 12:25:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Philippine exports hit record in June on strong electronics demand, weaker peso】Philippine exports rose 24.1% YoY to $8.77 bln in June, a record and the fastest pace in over a year, beating a median 8% forecast, the Philippine statistics agency said. United Bank chief economist Ruben Carlo Asuncion said the data indicate the Philippines retains a favourable position in regional and global electronics supply chains despite global uncertainty. Exports provide relief for an economy facing slowing growth and widening budget and current-account deficits. The government expects exports to grow 3% this year, down from 15.3% in 2025 when growth was boosted by Middle East-related trade flows. Electronics exports jumped about one-third to $5.25 bln, accounting for nearly 60% of June shipments; the United States remained the top market, taking roughly one-fifth of exports."
+    },
+    {
+      "id": "5015851",
+      "time": "2026-07-30 12:24:28",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【瑞薩電子將財報釋出時間推遲至週五交易結束後】日本瑞薩電子株式會社表示，將推遲第二季度財報釋出時間至週五日本股市收盤後，但並未說明更改釋出時間的原因。該公司現計劃於當地時間週五下午3:30釋出業績報告，隨後於下午4點舉行簡報會。該公司原計劃於週五上午公佈業績。注：該公司在熊本設有生產設施，熊本週二發生了7.1級地震。"
+    },
     {
       "id": "mkt:019fb142-cfb3-7aab-8f02-b74f2df0ac67",
       "time": "2026-07-30 12:22:53",
@@ -165076,52 +165122,6 @@
         "國際"
       ],
       "text": "馬來西亞證券監管機構表示，已與香港證監會簽署諒解備忘錄，以推動兩地簡化雙重主要上市框架。"
-    },
-    {
-      "id": "5003579",
-      "time": "2026-07-23 12:28:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【濰宿高鐵全線唯一不平衡轉體梁成功完成轉體施工】記者23日從中鐵十四局集團有限公司瞭解到，濰宿高鐵臨沂祊河特大橋跨兗石鐵路轉體梁順利完成轉體施工，實現精準對接就位。這一轉體梁是全線唯一一座不平衡轉體梁，轉體完成後成功打通全線關鍵架樑通道，為後續無砟軌道鋪設、全線貫通施工奠定堅實基礎。濰坊至宿遷高鐵是京滬高鐵輔助通道的重要組成部分，建成後將進一步完善山東、江蘇北部區域路網布局，極大便利沂蒙山、蘇北革命老區人民群眾出行，對助力區域經濟社會高質量發展具有重要意義。（新華社）"
-    },
-    {
-      "id": "5003578",
-      "time": "2026-07-23 12:27:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "康諾亞-B(02162)釋出公告，公司的重點研發產品CM512(TSLP/IL-13雙抗)已被國家藥品監督管理局藥品審評中心納入突破性治療品種名單，用於治療慢性鼻竇炎伴鼻息肉(CRSwNP)。"
-    },
-    {
-      "id": "mkt:019f8d3a-4ecb-7aab-8e59-880ee751f95e",
-      "time": "2026-07-23 12:27:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants"
-      ],
-      "text": "【AliExpress to lead Brand+ brands at IFA Berlin in September】Alibaba-owned cross-border e-commerce platform AliExpress said on July 23 it will lead Brand+ brands to exhibit at IFA Berlin in September, joining Europe’s largest consumer electronics trade show. The lineup will focus on high-tech categories including robotics, 3D printing, AR glasses and smart mobility."
-    },
-    {
-      "id": "5003577",
-      "time": "2026-07-23 12:26:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【明確多項任務！未來5年我國可再生能源這樣發展】國家發展改革委、國家能源局近日聯合印發《可再生能源發展“十五五”規劃》（以下簡稱《規劃》）。《規劃》從能源佈局、產業創新等方面明確多項任務，推動我國可再生能源擴規模、拓場景、提質量。《規劃》提出進一步最佳化“三北”風電光伏基地、海上風電、水風光一體化和分散式新能源佈局，“十五五”期間，“三北”風電光伏基地新增裝機3.7億千瓦以上，全國海上風電新增開工規模1億千瓦左右。推動可再生能源非電利用實現突破，積極發展綠色氫氨醇、風光供熱，推進生物質能多元高效利用，同時全面提升可再生能源消費水平。此外，《規劃》還提出要拓展可再生能源技術和產業優勢，強化技術創新攻關和產業鏈供應鏈建設，提升新能源電站市場化運營能力。在此基礎上要從法律法規、發展機制、市場機制、要素保障機制等方面，健全可再生能源高質量發展政策體系和長效機制。（央視）"
-    },
-    {
-      "id": "te:markets:569106",
-      "time": "2026-07-23 12:25:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Set for 4th Day of Losses — India’s BSE Sensex fell about 0.4% to 76,429 at the open on Thursday, extending losses to a fourth session as oil topped $95 a barrel after fresh US strikes on Iran and Houthi attacks on Red Sea oil tankers dented risk appetite and raised concerns over inflation and corporate earnings. Market participants are also tracking a busy earnings calendar. IndusInd Bank was in focus after reporting better-than-expected quarterly profit, while Dr. Reddy’s Laboratories came under pressure after issuing a supply warning and missing profit estimates. Hindustan Petroleum reported its first quarterly loss since 2022 as elevated crude prices squeezed refining margins. Investors are also awaiting earnings from Cipla, Infosys, and InterGlobe Aviation later in the day for further cues on corporate performance and market direction. IndusInd Bank (-5.6%), Adani Green (-4.6%), Data Patterns (-3.1%), Dr. Reddy’s Laboratories (-2.9%), and HFCL (-2.2%) posted declines."
     }
   ]
 }
