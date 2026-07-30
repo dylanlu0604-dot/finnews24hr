@@ -1,7 +1,74 @@
 {
   "date": "2026-07-31",
-  "count": 236,
+  "count": 244,
   "items": [
+    {
+      "id": "mkt:019fb442-8012-7aab-8f1a-dcc3a175e393",
+      "time": "2026-07-31 02:21:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Brazilian finance ministry official said the government is considering a potential adjustment to the spending cap to help balance public finances and meet announced fiscal targets."
+    },
+    {
+      "id": "5017628",
+      "time": "2026-07-31 02:20:33",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部官員：政府正考慮對支出上限作出調整，以平衡公共賬戶並實現已公佈的目標。"
+    },
+    {
+      "id": "5017627",
+      "time": "2026-07-31 02:20:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "星鏈：首批星鏈 V3 衛星順利部署，完成組網並拍攝星艦畫面。"
+    },
+    {
+      "id": "te:markets:571331",
+      "time": "2026-07-31 02:20:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Gains by 3.89% — Top commodity gainers are Platinum (3.89%), Copper (2.60%), Silver (2.18%) and Gold (0.94%). Biggest losers are Iron Ore CNY (-3.25%), Steel Rebar (-1.12%) and Titanium (-1.09%)."
+    },
+    {
+      "id": "5017626",
+      "time": "2026-07-31 02:18:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列總理本雅明・內塔尼亞胡結束華盛頓行程返回以色列。訪美期間，他會晤了唐納德・特朗普總統及美國多名高階官員。出於安全考量，總理辦公室未對外公佈其啟程與歸國行程。"
+    },
+    {
+      "id": "mkt:019fb43f-daf8-7aab-8f1a-d4edad36bcf3",
+      "time": "2026-07-31 02:18:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Federal Aviation Administration (FAA) Deputy Administrator Rochello will step down next week, according to an internal staff email."
+    },
+    {
+      "id": "mkt:019fb43f-66c0-7aab-8f1a-ccfca83e0bed",
+      "time": "2026-07-31 02:18:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Starlink said the first batch of V3 satellites that reached orbit successfully deployed solar panels, fired their thrusters, established RF and laser links to the Starlink network, and captured imagery of Starship."
+    },
+    {
+      "id": "5017625",
+      "time": "2026-07-31 02:17:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "據美國聯邦航空管理局發給員工的內部郵件顯示，該局副局長羅謝洛將於下週卸任。"
+    },
     {
       "id": "5017624",
       "time": "2026-07-31 02:16:56",

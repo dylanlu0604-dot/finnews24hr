@@ -1,7 +1,74 @@
 {
-  "updated": "2026-07-31 02:17:34",
-  "count": 17905,
+  "updated": "2026-07-31 02:24:30",
+  "count": 17906,
   "items": [
+    {
+      "id": "mkt:019fb442-8012-7aab-8f1a-dcc3a175e393",
+      "time": "2026-07-31 02:21:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Brazilian finance ministry official said the government is considering a potential adjustment to the spending cap to help balance public finances and meet announced fiscal targets."
+    },
+    {
+      "id": "5017628",
+      "time": "2026-07-31 02:20:33",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部官員：政府正考慮對支出上限作出調整，以平衡公共賬戶並實現已公佈的目標。"
+    },
+    {
+      "id": "5017627",
+      "time": "2026-07-31 02:20:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "星鏈：首批星鏈 V3 衛星順利部署，完成組網並拍攝星艦畫面。"
+    },
+    {
+      "id": "te:markets:571331",
+      "time": "2026-07-31 02:20:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Gains by 3.89% — Top commodity gainers are Platinum (3.89%), Copper (2.60%), Silver (2.18%) and Gold (0.94%). Biggest losers are Iron Ore CNY (-3.25%), Steel Rebar (-1.12%) and Titanium (-1.09%)."
+    },
+    {
+      "id": "5017626",
+      "time": "2026-07-31 02:18:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列總理本雅明・內塔尼亞胡結束華盛頓行程返回以色列。訪美期間，他會晤了唐納德・特朗普總統及美國多名高階官員。出於安全考量，總理辦公室未對外公佈其啟程與歸國行程。"
+    },
+    {
+      "id": "mkt:019fb43f-daf8-7aab-8f1a-d4edad36bcf3",
+      "time": "2026-07-31 02:18:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Federal Aviation Administration (FAA) Deputy Administrator Rochello will step down next week, according to an internal staff email."
+    },
+    {
+      "id": "mkt:019fb43f-66c0-7aab-8f1a-ccfca83e0bed",
+      "time": "2026-07-31 02:18:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Starlink said the first batch of V3 satellites that reached orbit successfully deployed solar panels, fired their thrusters, established RF and laser links to the Starlink network, and captured imagery of Starship."
+    },
+    {
+      "id": "5017625",
+      "time": "2026-07-31 02:17:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "據美國聯邦航空管理局發給員工的內部郵件顯示，該局副局長羅謝洛將於下週卸任。"
+    },
     {
       "id": "5017624",
       "time": "2026-07-31 02:16:56",
@@ -165259,73 +165326,6 @@
         "國際"
       ],
       "text": "【拉加德承諾2027年前不會卸任 歐洲央行新行長遴選或很快啟動】歐洲央行行長克里斯蒂娜·拉加德承諾至少2027年前不會卸任，這是她迄今對於去留髮出的最明確訊號，表明各國政府可能很快需要物色繼任者。這位法國人堅持不願被“限定”在某種安排中，但承諾至少再主持三次利率利率。這使得歐洲央行這一全球經濟體系中最重要的政策職位之一，可能在不到五個月內就進入繼任人選競逐階段。拉加德週四對記者表示：“2027年之前，你們不會看到我離開。”她隨後補充說，自己不會在不利環境下卸任，“當天邊烏雲密佈時，船長會留在船上。”這些表態是拉加德迄今就可能離任給出的最明確指引，同時也為她按原計劃於明年10月完成任期留出了空間。如果拉加德選擇在2027年離任，法國總統埃馬紐埃爾·馬克龍將能夠參與繼任者遴選，而不是把這項事務留給春季選舉後接替他的人。"
-    },
-    {
-      "id": "5005308",
-      "time": "2026-07-24 02:22:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新機潮疊加AI機遇 消費電子產業鏈全速備貨】消費電子行業景氣度穩步回暖，業績端迎來明顯改善。資料顯示，截至7月23日，A股已有32家消費電子公司披露上半年業績預告，逾七成預計盈利。AI已成為行業增長的核心引擎，AI智慧硬體放量與算力業務拓展支撐起多家公司上半年業績大幅預增。進入下半年，消費電子行業在傳統旺季中亮點紛呈：全球首款AI智慧體手機正式亮相，三星首款AI眼鏡釋出，蘋果首款摺疊屏手機組裝出貨量預計多達800萬臺。上述訊息持續催化市場熱度，A股產業鏈公司紛紛加快備貨節奏。隨著AI智慧硬體推動零部件價值量持續上行，行業正步入軟硬體協同升級的關鍵視窗期。(上海證券報)"
-    },
-    {
-      "id": "5005307",
-      "time": "2026-07-24 02:22:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD釋出小型開發者平臺AI Halo。"
-    },
-    {
-      "id": "te:markets:569364",
-      "time": "2026-07-24 02:20:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Falls by 3.84% — Top commodity losers are Silver (-3.84%), Platinum (-3.27%), Copper (-2.70%) and Gold (-2.11%). Gains are led by Lithium Carbonate (2.45%), Iron Ore CNY (1.08%) and Silicon (0.67%)."
-    },
-    {
-      "id": "5005306",
-      "time": "2026-07-24 02:19:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行考慮提高準備金要求 以緩解鉅額虧損壓力】歐洲央行正在考慮多種方案，以緩解自身財務虧損壓力，相關討論預計將在今年秋季進入關鍵階段。歐洲央行行長拉加德表示，政策制定者將討論提高最低準備金要求，即增加商業銀行存放在央行不計息賬戶中的資金比例。此外，歐洲央行還在評估不再向部分超額準備金支付利息的“分層利率機制”，以及向銀行收取費用等選項。這些措施旨在減輕各國央行負擔，抵消過去十年刺激政策帶來的部分虧損。由於歐洲央行在2015年至2022年間實施大規模債券購買計劃，並在2022年至2023年快速加息後支付銀行大量利息，導致歐元體系面臨虧損壓力。訊息人士稱，圍繞這一政治敏感問題的討論仍存在較大分歧。"
-    },
-    {
-      "id": "mkt:019f9033-9631-7aab-8e71-720a077cc9e8",
-      "time": "2026-07-24 02:18:47",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact mixed",
-        "DAX",
-        "Impact bearish"
-      ],
-      "text": "【ECB weighing higher reserve requirements to ease large losses】The European Central Bank is considering measures to ease substantial losses on its balance sheet, with discussions expected to reach a critical stage this autumn, ECB President Lagarde said. Policymakers will debate raising minimum reserve requirements — effectively increasing the share of banks’ deposits held in non-remunerated central bank accounts — and are also evaluating a tiered-rate system that would stop paying interest on some excess reserves and options to levy fees on banks. The options are intended to reduce burdens on national central banks and partly offset losses stemming from QE between 2015-22 and large interest payments after rapid rate hikes in 2022-23. Sources said the politically sensitive discussions remain divisive."
-    },
-    {
-      "id": "5005305",
-      "time": "2026-07-24 02:18:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歐盟將白俄羅斯莫濟裡煉油廠及俄子公司列入制裁黑名單】作為最新一輪制裁措施的一部分，歐盟已正式將白俄羅斯莫濟裡煉油廠（Mozyr Refinery）列入制裁黑名單。根據週四晚間在官方期刊網站上釋出的相關檔案，此次制裁還涵蓋了歐洲貿易有限公司（European Trading LLC），該公司是白俄羅斯石油公司（Belarusian Oil Company）位於俄羅斯的子公司。檔案指出，白俄羅斯石油公司是“白俄羅斯最大的石油出口商”。"
-    },
-    {
-      "id": "5005304",
-      "time": "2026-07-24 02:17:37",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【美國財政部發布最新制裁名單：重點打擊墨西哥販毒集團網路及古巴相關實體】當地時間2026年7月23日，美國財政部海外資產控制辦公室（OFAC）釋出最新制裁公告，宣佈對“特別指定國民和被封鎖人員名單”（SDN List）進行重大更新。此次行動重點針對墨西哥哈利斯科新一代卡特爾（CJNG）及其關聯網路、古巴相關實體，以及部分恐怖主義和反洗錢目標，同時釋出了針對古巴的通用許可證以授權部分交易收尾。與此同時，為緩解制裁帶來的附帶影響，OFAC釋出了三項針對古巴的通用許可證（General Licenses 2, 3, 4），授權與CEIBA Investments Limited相關的交易有序收尾，並允許在古巴的第三國官方使團進行特定交易。此外，名單中還新增了多名與哈馬斯（Hamas）、埃及穆斯林兄弟會（Egyptian Muslim Brotherhood）以及伊拉克“開羅通用貿易公司”（EL-KAHIRA FOR GENERAL TRADING）有關聯的個人。值得注意的是，部分被制裁物件（如Zaid Issam Ahmed Al-Jebouri）被明確標註持有多個波場（TRX）加密貨幣錢包地址，顯示出美國正加強對利用數字貨幣進行非法融資的追蹤與制裁力度。"
     }
   ]
 }
