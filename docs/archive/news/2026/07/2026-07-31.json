@@ -1,7 +1,47 @@
 {
   "date": "2026-07-31",
-  "count": 302,
+  "count": 306,
   "items": [
+    {
+      "id": "mkt:019fb486-8ed0-7aab-8f1b-8dafaef79bff",
+      "time": "2026-07-31 03:35:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【TS Lombard: Fed dovish tilt after Warsh comments may open window for Japanese FX intervention】TS Lombard economist Rory Green said Fed Chair Kevin Warsh’s post-decision remarks, read by markets as dovish, may have created an opening for Japan to intervene to support the yen. Markets suspect today’s roughly 2.5% intraday fall in USD/JPY may reflect Japanese official intervention. Green said the Fed’s dovish stance could give Japan’s finance ministry a favorable opportunity to act and noted past interventions were often accompanied by Bank of Japan rate hikes. He added that a BOJ hike tomorrow would still surprise markets, but the meeting is no longer a foregone conclusion."
+    },
+    {
+      "id": "mkt:019fb485-4999-7aab-8f1b-879a0a8664ec",
+      "time": "2026-07-31 03:34:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iraq spokesman: Iraq is the country most severely affected by the war."
+    },
+    {
+      "id": "mkt:019fb484-0d93-7aab-8f1b-7acd85ad398a",
+      "time": "2026-07-31 03:33:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iraqi government spokesman said Baghdad had no prior knowledge of a joint US-Saudi strike."
+    },
+    {
+      "id": "5017666",
+      "time": "2026-07-31 03:32:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克政府發言人：伊拉克政府事前未獲悉美國與沙特實施打擊行動。"
+    },
     {
       "id": "5017665",
       "time": "2026-07-31 03:30:01",
