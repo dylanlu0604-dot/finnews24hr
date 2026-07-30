@@ -1,7 +1,82 @@
 {
   "date": "2026-07-31",
-  "count": 337,
+  "count": 344,
   "items": [
+    {
+      "id": "te:markets:571336",
+      "time": "2026-07-31 04:06:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Amazon earnings above expectations at 5.75 USD — Amazon (AMZN) released earnings per share at 5.75 USD, compared to market expectations of 1.82 USD."
+    },
+    {
+      "id": "mkt:019fb4a1-d664-7aab-8f1c-0db03d776512",
+      "time": "2026-07-31 04:05:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Amazon (AMZN.O): trailing 12-month free cash flow was a net outflow of $7.6 bln."
+    },
+    {
+      "id": "5017686",
+      "time": "2026-07-31 04:05:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "第一太陽能維持全年資本開支預期在8億-10億美元不變，分析師預期8.758億美元。"
+    },
+    {
+      "id": "mkt:019fb4a0-9dda-7aab-8f1c-02c650cd53e4",
+      "time": "2026-07-31 04:04:12",
+      "tags": [
+        "MKT News",
+        "RIVN.O",
+        "Impact bullish"
+      ],
+      "text": "Rivian (RIVN.O) Q2 revenue $1.658 bln vs $1.507 bln consensus."
+    },
+    {
+      "id": "mkt:019fb4a0-71b2-7aab-8f1b-ff571c61ebfa",
+      "time": "2026-07-31 04:04:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Amazon (AMZN.O) expects Q3 revenue of $197.0–202.0 bln, below the market consensus of $204.072 bln."
+    },
+    {
+      "id": "5017685",
+      "time": "2026-07-31 04:03:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜過去十二個月自由現金流轉為淨流出 76 億美元。"
+    },
+    {
+      "id": "5017684",
+      "time": "2026-07-31 04:03:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：若剔除 2025 年與 2026 年會員日帶來的影響，2026 年第三季度同比增速將高出近 400 個基點。"
+    },
     {
       "id": "mkt:019fb49e-f72d-7aab-8f1b-f1300cca83ff",
       "time": "2026-07-31 04:02:24",

@@ -1,7 +1,82 @@
 {
-  "updated": "2026-07-31 04:03:46",
-  "count": 17875,
+  "updated": "2026-07-31 04:07:42",
+  "count": 17874,
   "items": [
+    {
+      "id": "te:markets:571336",
+      "time": "2026-07-31 04:06:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Amazon earnings above expectations at 5.75 USD — Amazon (AMZN) released earnings per share at 5.75 USD, compared to market expectations of 1.82 USD."
+    },
+    {
+      "id": "mkt:019fb4a1-d664-7aab-8f1c-0db03d776512",
+      "time": "2026-07-31 04:05:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Amazon (AMZN.O): trailing 12-month free cash flow was a net outflow of $7.6 bln."
+    },
+    {
+      "id": "5017686",
+      "time": "2026-07-31 04:05:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "第一太陽能維持全年資本開支預期在8億-10億美元不變，分析師預期8.758億美元。"
+    },
+    {
+      "id": "mkt:019fb4a0-9dda-7aab-8f1c-02c650cd53e4",
+      "time": "2026-07-31 04:04:12",
+      "tags": [
+        "MKT News",
+        "RIVN.O",
+        "Impact bullish"
+      ],
+      "text": "Rivian (RIVN.O) Q2 revenue $1.658 bln vs $1.507 bln consensus."
+    },
+    {
+      "id": "mkt:019fb4a0-71b2-7aab-8f1b-ff571c61ebfa",
+      "time": "2026-07-31 04:04:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Amazon (AMZN.O) expects Q3 revenue of $197.0–202.0 bln, below the market consensus of $204.072 bln."
+    },
+    {
+      "id": "5017685",
+      "time": "2026-07-31 04:03:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜過去十二個月自由現金流轉為淨流出 76 億美元。"
+    },
+    {
+      "id": "5017684",
+      "time": "2026-07-31 04:03:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：若剔除 2025 年與 2026 年會員日帶來的影響，2026 年第三季度同比增速將高出近 400 個基點。"
+    },
     {
       "id": "mkt:019fb49e-f72d-7aab-8f1b-f1300cca83ff",
       "time": "2026-07-31 04:02:24",
@@ -164958,97 +165033,6 @@
         "其他"
       ],
       "text": "英特爾：專用定製晶片營收同比增長近兩倍。"
-    },
-    {
-      "id": "5005385",
-      "time": "2026-07-24 04:07:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數23日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.32%，在匯市尾市收於101.445。截至紐約匯市尾市，1歐元兌換1.1377美元，低於前一交易日的1.1411美元；1英鎊兌換1.3318美元，低於前一交易日的1.3373美元。1美元兌換163.80日元，高於前一交易日的163.13日元；1美元兌換0.8169瑞士法郎，高於前一交易日的0.8146瑞士法郎；1美元兌換1.4076加元，低於前一交易日的1.4085加元；1美元兌換9.7663瑞典克朗，高於前一交易日的9.7014瑞典克朗。"
-    },
-    {
-      "id": "te:markets:569372",
-      "time": "2026-07-24 04:07:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Intel earnings above expectations at 0.42 USD — Intel (INTC) released earnings per share at 0.42 USD, compared to market expectations of 0.21 USD."
-    },
-    {
-      "id": "5005384",
-      "time": "2026-07-24 04:06:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國思愛普Sap二季度非IFRS雲營收62.8億歐元，分析師預期62.6億歐元。"
-    },
-    {
-      "id": "mkt:019f9095-9afc-7aab-8e72-fcaabd49bf00",
-      "time": "2026-07-24 04:05:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "On Thursday July 23, the Dow Jones Industrial Average closed down 507.59 points (-0.97%) at 51,710.99; the S&P 500 fell 90.79 points (-1.21%) to 7,408.17; the Nasdaq Composite dropped 553.21 points (-2.15%) to 25,137.69."
-    },
-    {
-      "id": "mkt:019f9095-0f3a-7aab-8e72-f217c8c72654",
-      "time": "2026-07-24 04:05:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "Intel (INTC.O) shares rose more than 9% in U.S. after-hours trading after the company said its third-quarter revenue outlook topped expectations."
-    },
-    {
-      "id": "5005383",
-      "time": "2026-07-24 04:04:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國未將任何國家列為匯率操縱國。"
-    },
-    {
-      "id": "5005382",
-      "time": "2026-07-24 04:04:13",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美股科技七巨頭指數下跌4.8%，市值蒸發7970億美元。"
-    },
-    {
-      "id": "mkt:019f9093-d80f-7aab-8e72-e8897954feee",
-      "time": "2026-07-24 04:03:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Alibaba",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bearish",
-        "GOOG.O",
-        "BABA.N"
-      ],
-      "text": "【US close: major indexes lower; Tesla plunges over 14%】U.S. equities closed lower Thursday: Dow -0.97%, S&P 500 -1.2%, Nasdaq -2.15%. Micron Technology (MU.O) +3%, SK Hynix (SKHY.O) +2.5%, Alphabet (GOOG.O) -7%, Tesla (TSLA.O) -14.5%, SpaceX (SPCX.O) +2%. Nasdaq Golden Dragon China Index -0.57%; Alibaba (BABA.N) -2%."
     }
   ]
 }
