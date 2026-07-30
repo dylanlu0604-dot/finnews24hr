@@ -1,7 +1,63 @@
 {
   "date": "2026-07-31",
-  "count": 493,
+  "count": 499,
   "items": [
+    {
+      "id": "5017762",
+      "time": "2026-07-31 05:53:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "淡水河谷：預計 2026 年銅產量介於 36 萬至 38 萬噸，此前預期為 35 萬至 38 萬噸。預計 2026 年鎳產量區間為 18.5 萬–20 萬噸，此前預期為 17.5 萬–20 萬噸。"
+    },
+    {
+      "id": "mkt:019fb504-4983-7aab-8f1e-19d861620975",
+      "time": "2026-07-31 05:53:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "VALE.N",
+        "Impact bullish"
+      ],
+      "text": "Vale (VALE.N) expects 2026 nickel production of 185,000–200,000 tonnes, revised up from prior guidance of 175,000–200,000 tonnes."
+    },
+    {
+      "id": "mkt:019fb504-4363-7aab-8f1e-134dd6144985",
+      "time": "2026-07-31 05:53:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vale (VALE.N) now expects 2026 copper production of 360,000–380,000 tonnes, up from a prior forecast of 350,000–380,000 tonnes."
+    },
+    {
+      "id": "5017761",
+      "time": "2026-07-31 05:52:07",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部貝森特：在我看來，日元 “估值明顯偏低”。"
+    },
+    {
+      "id": "mkt:019fb502-ffc7-7aab-8f1e-08c4f42f3711",
+      "time": "2026-07-31 05:51:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the yen appears to be significantly undervalued."
+    },
+    {
+      "id": "5017760",
+      "time": "2026-07-31 05:51:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "淡水河谷：預計 2026 年鐵礦石C1 現金成本為每噸 22.5–23.5 美元，此前預測區間為每噸 20–21.5 美元。"
+    },
     {
       "id": "mkt:019fb501-0436-7aab-8f1e-012fb6a7a4f0",
       "time": "2026-07-31 05:49:30",
