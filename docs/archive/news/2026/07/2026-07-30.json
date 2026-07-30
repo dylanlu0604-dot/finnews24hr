@@ -1,7 +1,139 @@
 {
   "date": "2026-07-30",
-  "count": 3757,
+  "count": 3771,
   "items": [
+    {
+      "id": "mkt:019fb35e-354d-7aab-8f16-1fe476166538",
+      "time": "2026-07-30 22:12:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Students' News Agency (ISNA) reports Yemen's foreign ministry denies it carried out an attack on vessels at Egypt's Damietta port."
+    },
+    {
+      "id": "5017297",
+      "time": "2026-07-30 22:12:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【谷歌雲COO德索薩將出任Scale AI執行長】據7月30日宣告，谷歌雲營運長兼安全產品總裁弗朗西斯·德索薩（Francis deSouza）將於當地時間8月10日正式就任Scale AI執行長。"
+    },
+    {
+      "id": "5017296",
+      "time": "2026-07-30 22:11:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "原加密礦企轉型AI資料中心服務商的Hut 8股價大漲16%。"
+    },
+    {
+      "id": "5017295",
+      "time": "2026-07-30 22:11:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌執行長表示，若霍爾木茲海峽恢復開放，Pearl天然氣制油廠預計將於2027年第一季度末恢復運營。"
+    },
+    {
+      "id": "5017294",
+      "time": "2026-07-30 22:11:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "加密礦企riot平臺公司與瑪拉控股股價均大漲超17%，疊加整體市場反彈行情。"
+    },
+    {
+      "id": "5017293",
+      "time": "2026-07-30 22:10:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌執行長表示，卡達液化天然氣資產復產比珍珠天然氣制油專案更容易，首要任務是保障出口航道安全。"
+    },
+    {
+      "id": "mkt:019fb35d-2a07-7aab-8f16-164ca91adcea",
+      "time": "2026-07-30 22:10:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Yen jumps across the board; several yen pairs plunge 100+ pips】The yen rallied sharply in a short window, prompting intervention speculation. As of this release, USD/JPY and EUR/JPY have each fallen about 350 pips, GBP/JPY about 400 pips, CAD/JPY over 200 pips and AUD/JPY over 150 pips."
+    },
+    {
+      "id": "te:markets:571296",
+      "time": "2026-07-30 22:10:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Edges Higher on Financials and Miners Gains — The S&P/TSX Composite Index edged higher to trade above 35,000 on Thursday, supported by gains in financial and mining stocks. Financials advanced, with RBC, TD Bank, CIBC, and Scotiabank up about 1% each. Gold prices rose, lifting miners, with Barrick and Franco-Nevada gaining nearly 1%. Technology stocks were mostly lower, with Shopify down 3% and Constellation Software losing nearly 4%, tracking weakness in US software application shares after Meta's guidance disappointed investors. In contrast, Celestica surged 6%, following a rally in US chipmakers. On the earnings front, Vermilion Energy (+2.5%), Kinross Gold (+0.2%), Cenovus (+0.3%), Alamos Gold (-2%), and Loblaw (-0.5%) reported results above expectations, while Ivanhoe Mines (+0.1%) and Tourmaline Oil (-3%) missed estimates. Canadian Natural (-0.5%) and Fairfax Financial (-1%) are due to report after the market close."
+    },
+    {
+      "id": "5017292",
+      "time": "2026-07-30 22:10:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌首席財務官表示，殼牌預計整體成本通脹率為5%至6%。"
+    },
+    {
+      "id": "5017291",
+      "time": "2026-07-30 22:09:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌首席財務官稱，液化天然氣交易團隊回購了部分殼牌自有貨源，用以向客戶交付。"
+    },
+    {
+      "id": "te:markets:571295",
+      "time": "2026-07-30 22:09:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Rebounds on Thursday — The Baltic dry index rose 1.6% to 2,673 on Thursday, recovering from three consecutive sessions of losses. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, advanced 2.5% to 4,167. Also, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, increased 2.3% to 2,040, its highest level since July 24. On the other hand, the supramax index decreased 1.1% to 1,610, its lowest level in three weeks."
+    },
+    {
+      "id": "mkt:019fb35b-1989-7aab-8f16-0ad18902f592",
+      "time": "2026-07-30 22:08:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Thailand Futures Exchange announced suspension of USD/JPY futures trading."
+    },
+    {
+      "id": "5017290",
+      "time": "2026-07-30 22:08:28",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "泰國期貨交易所（TFEX）宣佈暫停美元兌日元期貨的臨時交易。"
+    },
+    {
+      "id": "5017289",
+      "time": "2026-07-30 22:08:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元USD/JPY向下觸及159關口，日內跌2.68%。"
+    },
     {
       "id": "mkt:019fb35a-89ee-7aab-8f16-0079dfbd9125",
       "time": "2026-07-30 22:08:02",

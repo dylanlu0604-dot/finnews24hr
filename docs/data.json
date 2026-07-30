@@ -1,7 +1,139 @@
 {
-  "updated": "2026-07-30 22:09:05",
-  "count": 17824,
+  "updated": "2026-07-30 22:13:02",
+  "count": 17831,
   "items": [
+    {
+      "id": "5017297",
+      "time": "2026-07-30 22:12:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【谷歌雲COO德索薩將出任Scale AI執行長】據7月30日宣告，谷歌雲營運長兼安全產品總裁弗朗西斯·德索薩（Francis deSouza）將於當地時間8月10日正式就任Scale AI執行長。"
+    },
+    {
+      "id": "mkt:019fb35e-354d-7aab-8f16-1fe476166538",
+      "time": "2026-07-30 22:12:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Students' News Agency (ISNA) reports Yemen's foreign ministry denies it carried out an attack on vessels at Egypt's Damietta port."
+    },
+    {
+      "id": "5017296",
+      "time": "2026-07-30 22:11:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "原加密礦企轉型AI資料中心服務商的Hut 8股價大漲16%。"
+    },
+    {
+      "id": "5017295",
+      "time": "2026-07-30 22:11:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌執行長表示，若霍爾木茲海峽恢復開放，Pearl天然氣制油廠預計將於2027年第一季度末恢復運營。"
+    },
+    {
+      "id": "5017294",
+      "time": "2026-07-30 22:11:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "加密礦企riot平臺公司與瑪拉控股股價均大漲超17%，疊加整體市場反彈行情。"
+    },
+    {
+      "id": "5017293",
+      "time": "2026-07-30 22:10:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌執行長表示，卡達液化天然氣資產復產比珍珠天然氣制油專案更容易，首要任務是保障出口航道安全。"
+    },
+    {
+      "id": "mkt:019fb35d-2a07-7aab-8f16-164ca91adcea",
+      "time": "2026-07-30 22:10:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Yen jumps across the board; several yen pairs plunge 100+ pips】The yen rallied sharply in a short window, prompting intervention speculation. As of this release, USD/JPY and EUR/JPY have each fallen about 350 pips, GBP/JPY about 400 pips, CAD/JPY over 200 pips and AUD/JPY over 150 pips."
+    },
+    {
+      "id": "te:markets:571296",
+      "time": "2026-07-30 22:10:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Edges Higher on Financials and Miners Gains — The S&P/TSX Composite Index edged higher to trade above 35,000 on Thursday, supported by gains in financial and mining stocks. Financials advanced, with RBC, TD Bank, CIBC, and Scotiabank up about 1% each. Gold prices rose, lifting miners, with Barrick and Franco-Nevada gaining nearly 1%. Technology stocks were mostly lower, with Shopify down 3% and Constellation Software losing nearly 4%, tracking weakness in US software application shares after Meta's guidance disappointed investors. In contrast, Celestica surged 6%, following a rally in US chipmakers. On the earnings front, Vermilion Energy (+2.5%), Kinross Gold (+0.2%), Cenovus (+0.3%), Alamos Gold (-2%), and Loblaw (-0.5%) reported results above expectations, while Ivanhoe Mines (+0.1%) and Tourmaline Oil (-3%) missed estimates. Canadian Natural (-0.5%) and Fairfax Financial (-1%) are due to report after the market close."
+    },
+    {
+      "id": "5017292",
+      "time": "2026-07-30 22:10:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌首席財務官表示，殼牌預計整體成本通脹率為5%至6%。"
+    },
+    {
+      "id": "5017291",
+      "time": "2026-07-30 22:09:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌首席財務官稱，液化天然氣交易團隊回購了部分殼牌自有貨源，用以向客戶交付。"
+    },
+    {
+      "id": "te:markets:571295",
+      "time": "2026-07-30 22:09:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Rebounds on Thursday — The Baltic dry index rose 1.6% to 2,673 on Thursday, recovering from three consecutive sessions of losses. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, advanced 2.5% to 4,167. Also, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, increased 2.3% to 2,040, its highest level since July 24. On the other hand, the supramax index decreased 1.1% to 1,610, its lowest level in three weeks."
+    },
+    {
+      "id": "mkt:019fb35b-1989-7aab-8f16-0ad18902f592",
+      "time": "2026-07-30 22:08:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Thailand Futures Exchange announced suspension of USD/JPY futures trading."
+    },
+    {
+      "id": "5017290",
+      "time": "2026-07-30 22:08:28",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "泰國期貨交易所（TFEX）宣佈暫停美元兌日元期貨的臨時交易。"
+    },
+    {
+      "id": "5017289",
+      "time": "2026-07-30 22:08:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元USD/JPY向下觸及159關口，日內跌2.68%。"
+    },
     {
       "id": "mkt:019fb35a-89ee-7aab-8f16-0079dfbd9125",
       "time": "2026-07-30 22:08:02",
@@ -164541,69 +164673,6 @@
         "公司"
       ],
       "text": "瑞銀將聯合租賃公司目標價由 1300 美元上調至 1350 美元。"
-    },
-    {
-      "id": "mkt:019f8f52-5509-7aab-8e6d-c0720578f4c3",
-      "time": "2026-07-23 22:12:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Market sources said India successfully conducted a maiden flight test of the Kusha missile."
-    },
-    {
-      "id": "5005015",
-      "time": "2026-07-23 22:11:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方甄選：進一步聚焦產品和品控 2026財年營收和利潤增速加快】東方甄選釋出公告，預期在2026財年（2025年6月1日至2026年5月31日）總營收及溢利均實現大幅增長。據公告資料，2026財年，東方甄選總營收預計達56至58億元，相較2025財年同比增長約27.3%至31.8%，淨溢利預計為5.2至5.5億元，相較2025財年同比增長8566.7%至9066.7%。具體而言，2026財年下半年，東方甄選的總營收預計達到33至35億元，相較2025財年下半年同比增長約50%至59.1%。2026財年下半年，東方甄選的淨溢利預計達到了2.81至3.11億元，相較2025財年下半年同比增長172.8%至201.9%。東方甄選表示，淨溢利增加主要由於東方甄選自營產品的穩步推出、持續豐富，第三方代銷產品也更加多元且均衡，讓公司整體的產品結構進一步最佳化。同時，東方甄選開啟多渠道發展戰略，東方甄選App增長、矩陣直播賬號開設等因素，也推動了公司淨溢利實現同比大幅增長。（新浪科技）"
-    },
-    {
-      "id": "5005014",
-      "time": "2026-07-23 22:11:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：印度成功完成“KUSHA”導彈首次試飛。"
-    },
-    {
-      "id": "5005013",
-      "time": "2026-07-23 22:11:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將德州儀器<TXN.O>目標價從350美元上調至380美元。"
-    },
-    {
-      "id": "5005012",
-      "time": "2026-07-23 22:09:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "義大利Nexi公司股票在停牌後恢復交易，股價下跌5.4%。"
-    },
-    {
-      "id": "5005011",
-      "time": "2026-07-23 22:09:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【丘成桐回應王虹鄧煜獲菲爾茲獎】2026年7月23日，在2026年國際數學家大會開幕式上，國際數學聯盟正式公佈第二十一屆菲爾茲獎（Fields Medal）得主名單。中國數學家王虹、鄧煜雙雙獲獎，這也是中國數學家首次在同一屆菲爾茲獎中獲得兩枚獎章。 “我感到非常高興。對於中國數學界而言，這是幾十年來我們一直期盼實現的願望。”聽聞喜訊後，著名數學家、菲爾茲獎首位華人得主，清華大學丘成桐數學科學中心主任、求真書院院長丘成桐，在接受媒體採訪時說。 丘成桐表示，他一直期望至少有一位中國數學家能獲獎，沒想到這次有兩位傑出的年輕數學家獲此獎項，這令他尤為興奮。 他認為，王虹、鄧煜能在眾多優秀學者中脫穎而出，關鍵在於他們所做出成就的獨創性和重要性。他們解決的都是懸置已久的難題，歷經幾代學人的積累，最終由他們完成了關鍵的跨越，因此他們的成果獲得了國際數學界的廣泛認同。（澎湃新聞）"
-    },
-    {
-      "id": "mkt:019f8f4f-21b6-7aab-8e6d-ba324c5f9839",
-      "time": "2026-07-23 22:09:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Interfax reports Russia is discussing extending a ban on gasoline exports by six months."
     }
   ]
 }
