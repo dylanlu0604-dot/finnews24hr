@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-30 12:49:01",
-  "count": 17908,
+  "updated": "2026-07-30 12:53:03",
+  "count": 17909,
   "items": [
+    {
+      "id": "mkt:019fb15d-c2d0-7aab-8f03-0c60c66dc8df",
+      "time": "2026-07-30 12:52:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Polish news agency reported air-raid sirens sounded overnight in Lublin, eastern Poland, following a Russian attack on Ukraine; alarms were lifted a few minutes later."
+    },
+    {
+      "id": "5015877",
+      "time": "2026-07-30 12:52:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【截至6月底 全國投運新型儲能裝機1.53億千瓦】記者從國家能源局今天舉行的新聞釋出會上瞭解到，今年以來，我國新型儲能延續了良好的發展態勢。截至6月底，全國已建成投運新型儲能裝機規模達1.53億千瓦，同比增長61%。與此同時，上半年，我國新型儲能利用小時數持續提升。（央視新聞）"
+    },
+    {
+      "id": "5015876",
+      "time": "2026-07-30 12:52:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【媒體：美軍指揮官備有升級對伊朗打擊的兩週計劃】據報道，美國中央司令部司令布拉德·庫珀(Brad Cooper)海軍上將一直在佛羅里達州坦帕的總部悄悄指揮這場戰爭。據知情人士透露，正是庫珀準備了一項針對伊朗的懲罰性空襲方案，該行動可能持續長達兩週。現在，特朗普在伊朗週二發動導彈突襲後準備予以回擊，他將決定反擊的力度。他可以批准庫珀提出的方案，進行10-14天的密集空襲，以削弱伊朗的導彈能力，儘管有警告稱美國的防空彈藥正日益短缺。或者，他也可以選擇更為有限的軍事打擊，以期為外交斡旋留有餘地。週三晚間，庫珀麾下的司令部針對伊朗發動了打擊，稱這是對伊朗週二導彈襲擊駐約旦美軍的“強有力回應”。國會山的批評人士警告稱，任何新的空襲行動都有可能將本屆政府更深地拖入戰爭泥潭，他們擔心這將是一場無法獲勝的戰爭。"
+    },
+    {
+      "id": "5015875",
+      "time": "2026-07-30 12:49:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【太平再保險擬增資10億元】太平再保險（中國）有限公司7月29日釋出公告稱，根據三年業務發展規劃和2026-2028年資本規劃，公司擬增加註冊資本10.00億元（人民幣，下同）。本次增資由現有股東按照原持股比例等比例將未分配利潤轉增實收資本，增資後公司註冊資本將達到人民幣25.00億元，公司股權未發生變化。"
+    },
+    {
+      "id": "te:economy:571006",
+      "time": "2026-07-30 12:48:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Australia Inflation Eases, Underlying Risks Persist: RBA Hunter — Australia’s Q2 CPI reading came in “a touch softer” than expected, according to Reserve Bank of Australia Assistant Governor Sarah Hunter. She said headline inflation has continued to ease, although underlying price pressures, particularly from housing and services, remain persistent. Hunter also noted that the labour market is still tight, supporting elevated wage growth, and reiterated that monetary policy is primarily designed to manage demand rather than supply-driven costs such as energy or housing."
+    },
     {
       "id": "5015874",
       "time": "2026-07-30 12:47:04",
@@ -165128,42 +165176,6 @@
         "其他"
       ],
       "text": "諾基亞：從運營層面來看，諾基亞全年業績展望保持不變。"
-    },
-    {
-      "id": "5003602",
-      "time": "2026-07-23 12:50:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社：伊朗打擊在科威特境內的美軍基地和通訊塔。"
-    },
-    {
-      "id": "mkt:019f8d4f-b5e4-7aab-8e59-a3663c5d59fb",
-      "time": "2026-07-23 12:50:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Japan completes Epsilon S engine burn test after lowering payload target】JAXA carried out a second-stage engine burn test for the Epsilon S solid rocket on the morning of the 23rd. After two failed tests in 2023 and 2024, the agency replaced the E-21 engine with a refurbished M-35a and cut the sun-synchronous orbit payload target from at least 600 kg to 400 kg. The engine burned for about two minutes and met test objectives. JAXA plans a verification launch in FY2026."
-    },
-    {
-      "id": "5003601",
-      "time": "2026-07-23 12:50:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本降低載重目標後完成火箭發動機燃燒試驗】日本宇宙航空研究開發機構（JAXA）23日上午進行新型固體火箭“埃普西隆S”第二級發動機燃燒試驗。繼2023年和2024年兩次試驗失敗後，此次試驗更換了發動機並下調了運載能力目標。 當地時間23日9時（北京時間8時），JAXA開始在南部鹿兒島縣種子島宇宙中心實施“埃普西隆S”火箭第二級發動機地面燃燒試驗。JAXA官方社交媒體賬號直播畫面顯示，發動機點火後噴發出火焰和煙霧，燃燒約兩分鐘後試驗結束，完成預定目標。本次試驗，JAXA改用M-35a發動機，替代此前連續兩次試驗失敗的E-21。（新華社）"
-    },
-    {
-      "id": "mkt:019f8d4e-812e-7aab-8e59-98d9a8c92655",
-      "time": "2026-07-23 12:49:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "India's Hindustan Petroleum executives said they expect the Rajasthan refinery to run at full capacity in Q4. The company aims to stop purchasing fuel from other refineries for domestic sales within nine months."
     }
   ]
 }
