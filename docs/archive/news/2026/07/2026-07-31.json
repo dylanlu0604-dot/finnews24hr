@@ -1,7 +1,43 @@
 {
   "date": "2026-07-31",
-  "count": 543,
+  "count": 546,
   "items": [
+    {
+      "id": "te:markets:571357",
+      "time": "2026-07-31 06:58:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Head for Monthly Gain — New Zealand's stocks climbed 92 points, or 0.7%, to 13,854 in Friday morning trade after retreating in the previous session, mainly buoyed by financials, communication services, and real estate. The broader index rebounded from a more than one-week low touched a day earlier, tracking a rally on Wall Street overnight amid a rebound in technology stocks. Fresh data also lifted sentiment, as New Zealand's consumer confidence hit a five-month high. Moderating oil prices also fueled sentiment, easing inflation concerns and tempering expectations of an interest rate hike. However, traders awaited the release of China's PMI data due later today and trade data due next week. Caution also prevailed ahead of the release of New Zealand's unemployment data due next week. Among the early gainers were Infratil (2.1%), Meridian Energy (1.8%), Fisher & Paykel (1.2%), and Ebos Group (1.0%). For the week, the index is heading for a 0.6% gain, while posting a 1.7% increase for the month."
+    },
+    {
+      "id": "mkt:019fb53f-97f7-7aab-8f1e-771f6c1129c4",
+      "time": "2026-07-31 06:57:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "【US senators urge Apple to avoid chips from two Chinese memory firms; researcher warns of supply-chain damage】Bloomberg reported July 30 that several US senators sent a joint letter to Apple CEO Tim Cook urging the company not to use storage chips from ChangXin Memory Technologies (CXMT) and Yangtze Memory Technologies (YMTC), even for products sold only in China. The senators noted both firms were added to the PENTAGON’s recently updated Chinese military companies list. Apple has been seeking to source storage chips from Chinese suppliers amid capacity shortages, tight supply and rising prices. Researcher Chen Jing at the Technology and Strategic Studies Society said Apple is not legally prohibited from procuring from Chinese firms and warned that politically driven barriers would damage normal Sino‑US corporate supply‑chain cooperation."
+    },
+    {
+      "id": "5017791",
+      "time": "2026-07-31 06:56:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：哈馬斯同意執行加沙停火協議第二階段安排。"
+    },
     {
       "id": "5017790",
       "time": "2026-07-31 06:54:54",

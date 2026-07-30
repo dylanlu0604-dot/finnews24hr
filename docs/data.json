@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-31 06:56:24",
-  "count": 17950,
+  "updated": "2026-07-31 07:01:10",
+  "count": 17943,
   "items": [
+    {
+      "id": "te:markets:571357",
+      "time": "2026-07-31 06:58:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Head for Monthly Gain — New Zealand's stocks climbed 92 points, or 0.7%, to 13,854 in Friday morning trade after retreating in the previous session, mainly buoyed by financials, communication services, and real estate. The broader index rebounded from a more than one-week low touched a day earlier, tracking a rally on Wall Street overnight amid a rebound in technology stocks. Fresh data also lifted sentiment, as New Zealand's consumer confidence hit a five-month high. Moderating oil prices also fueled sentiment, easing inflation concerns and tempering expectations of an interest rate hike. However, traders awaited the release of China's PMI data due later today and trade data due next week. Caution also prevailed ahead of the release of New Zealand's unemployment data due next week. Among the early gainers were Infratil (2.1%), Meridian Energy (1.8%), Fisher & Paykel (1.2%), and Ebos Group (1.0%). For the week, the index is heading for a 0.6% gain, while posting a 1.7% increase for the month."
+    },
+    {
+      "id": "mkt:019fb53f-97f7-7aab-8f1e-771f6c1129c4",
+      "time": "2026-07-31 06:57:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "【US senators urge Apple to avoid chips from two Chinese memory firms; researcher warns of supply-chain damage】Bloomberg reported July 30 that several US senators sent a joint letter to Apple CEO Tim Cook urging the company not to use storage chips from ChangXin Memory Technologies (CXMT) and Yangtze Memory Technologies (YMTC), even for products sold only in China. The senators noted both firms were added to the PENTAGON’s recently updated Chinese military companies list. Apple has been seeking to source storage chips from Chinese suppliers amid capacity shortages, tight supply and rising prices. Researcher Chen Jing at the Technology and Strategic Studies Society said Apple is not legally prohibited from procuring from Chinese firms and warned that politically driven barriers would damage normal Sino‑US corporate supply‑chain cooperation."
+    },
+    {
+      "id": "5017791",
+      "time": "2026-07-31 06:56:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：哈馬斯同意執行加沙停火協議第二階段安排。"
+    },
     {
       "id": "5017790",
       "time": "2026-07-31 06:54:54",
@@ -165820,110 +165856,6 @@
         "國際"
       ],
       "text": "韓國將在需要時尋求對個股槓桿ETF採取更多措施。"
-    },
-    {
-      "id": "mkt:019f9136-1324-7aab-8e74-6c215151d52a",
-      "time": "2026-07-24 07:01:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "UK July GfK consumer confidence index -17; consensus -21; prior -23."
-    },
-    {
-      "id": "5005461",
-      "time": "2026-07-24 07:01:06",
-      "tags": [
-        "資料"
-      ],
-      "text": "英國7月Gfk消費者信心指數 -17，預期-21，前值-23。"
-    },
-    {
-      "id": "mkt:019f9135-f513-7aab-8e74-67bee0c1cc0e",
-      "time": "2026-07-24 07:01:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | GfK Consumer Confidence Index (Jul) | actual -17 | consensus -21 | previous -23"
-    },
-    {
-      "id": "5005459",
-      "time": "2026-07-24 07:00:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "英偉達與韓國科學技術院（KAIST）共建聯合人工智慧研究實驗室，助力韓國人工智慧創新提速。"
-    },
-    {
-      "id": "5005458",
-      "time": "2026-07-24 07:00:16",
-      "tags": [
-        "資料"
-      ],
-      "text": "澳大利亞7月標普全球綜合PMI初值 52.6，前值50.4。\n澳大利亞7月標普全球服務業PMI初值 53，前值50.5。\n澳大利亞7月標普全球製造業PMI初值 51.7，前值51.5。"
-    },
-    {
-      "id": "mkt:019f9135-31be-7aab-8e74-58661a0cb105",
-      "time": "2026-07-24 07:00:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "AUDUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Australia preliminary S&P Global manufacturing PMI for July 51.7, up from 51.5 prior."
-    },
-    {
-      "id": "mkt:019f9135-2cd6-7aab-8e74-53e30a5b1540",
-      "time": "2026-07-24 07:00:08",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Australia July S&P Global Composite PMI preliminary 52.6, prior 50.4."
-    },
-    {
-      "id": "mkt:019f9135-2b22-7aab-8e74-4a0027ff6bc6",
-      "time": "2026-07-24 07:00:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Australia July S&P Global services PMI (preliminary) 53, prior 50.5."
-    },
-    {
-      "id": "5005457",
-      "time": "2026-07-24 06:59:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國將於 7 月 31 日對交易所交易基金（ETF）實施基礎保證金制度。"
-    },
-    {
-      "id": "5005456",
-      "time": "2026-07-24 06:56:33",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【年內科創債發行總規模超1萬億元】今年以來，科創債發行持續火熱，服務科技創新質效顯著提升。Wind資料顯示，以上市日期計，截至7月23日，年內新增科創債數量1070只，發行總額為10573.13億元。中信證券首席經濟學家明明表示，科創債發行活躍，一方面是因為政策層面持續釋放支援訊號，監管部門最佳化發行機制、拓寬科創主體認定標準；另一方面是因為科創債融資成本低於同級別普通訊用債，企業發債意願強，同時科創債ETF等投資工具快速擴容，機構配置需求持續釋放，供需兩端共同推高發行熱度。（證券日報）"
     }
   ]
 }
