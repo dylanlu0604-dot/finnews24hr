@@ -1,7 +1,231 @@
 {
-  "updated": "2026-07-30 15:19:02",
-  "count": 17931,
+  "updated": "2026-07-30 15:23:11",
+  "count": 17949,
   "items": [
+    {
+      "id": "5016126",
+      "time": "2026-07-30 15:22:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "歐萊雅執行長：我們最早將於2028年推出首批古馳美妝產品。"
+    },
+    {
+      "id": "5016125",
+      "time": "2026-07-30 15:22:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：熊本永旺購物中心事故已致7人死亡。"
+    },
+    {
+      "id": "mkt:019fb1e6-b993-7aab-8f08-1568c8215695",
+      "time": "2026-07-30 15:21:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China denies report it will supply 400 missile launchers to Iran】At a July 30 regular briefing Foreign Ministry spokesman Mao Ning denied reports that China would provide 400 missile-launcher systems to Iran, calling the reports untrue and baseless, and reiterated China’s stated role in promoting peace and preventing war."
+    },
+    {
+      "id": "5016124",
+      "time": "2026-07-30 15:21:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中印副外長/外秘級對話在京舉行，外交部：支援印度成功舉辦今年的金磚峰會】7月30日，外交部發言人毛寧主持例行記者會。印報託記者提問，外界非常期待中方可以參加今年印度即將主辦的金磚峰會，而且印度外交秘書唐勇勝剛剛訪華，並且同中方官員舉行了會晤，包括華春瑩副部長，中方對於外界的這一期待有什麼樣的回應？中方是否將參加今年的金磚峰會？另外，發言人是否能介紹一下唐勇勝同中方會見的相關成果？毛寧表示，7月27日，外交部副部長華春瑩同印度外交秘書唐勇勝在北京舉行了中印副外長/外秘級對話，重點就落實兩國領導人重要共識，持續增進政治互信，推進各領域交流合作，妥善處理矛盾分歧，推動中印關係沿著健康穩定軌道向前發展交換了意見。關於金磚國家合作，金磚國家是新興市場和發展中國家合作的重要平臺，中方高度重視並積極參與金磚合作，我們支援主席國印度成功舉辦今年的金磚峰會。“關於你的具體問題，目前我沒有可以提供的資訊。”毛寧說。（澎湃新聞）"
+    },
+    {
+      "id": "te:economy:571083",
+      "time": "2026-07-30 15:21:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "GDP Growth Rate",
+        "Importance 3"
+      ],
+      "text": "US GDP Likely Expanded 2.1% in Q2 — The US economy likely expanded at an annualized rate of 2.1% in Q2, matching the pace recorded in Q1 and signalling continued resilience despite the conflict in the Middle East, elevated gasoline prices, and the impact of tariffs. Consumer spending is expected to have remained robust, accelerating from the previous quarter as larger tax refunds and the FIFA World Cup provided additional support. Business spending on equipment likely posted another quarter of double-digit growth, driven by continued investment in AI-related technologies. However, investment in structures is expected to have remained weak, contracting for a tenth consecutive quarter, while residential investment likely declined for a sixth straight quarter. Meanwhile, net trade is expected to have weighed on overall growth, possibly subtracting more than one percentage point from GDP."
+    },
+    {
+      "id": "te:markets:571082",
+      "time": "2026-07-30 15:21:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Advanced Semiconductor Engineering earnings above expectations at 0.29 USD — Advanced Semiconductor Engineering (ASX) released earnings per share at 0.29 USD, compared to market expectations of 0.23 USD."
+    },
+    {
+      "id": "5016123",
+      "time": "2026-07-30 15:21:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特阿美將8月份丙烷價格定為每噸620美元；丁烷價格定為每噸640美元。"
+    },
+    {
+      "id": "5016122",
+      "time": "2026-07-30 15:21:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：無人機襲擊了俄羅斯克拉斯諾達爾地區的塔曼港。"
+    },
+    {
+      "id": "mkt:019fb1e5-e1f0-7aab-8f08-0ce52ae46e07",
+      "time": "2026-07-30 15:21:00",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Interfax reports a drone attack on Taman port in Russia's Krasnodar region."
+    },
+    {
+      "id": "mkt:019fb1e5-cbdb-7aab-8f08-077b7ecfba01",
+      "time": "2026-07-30 15:20:54",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【CHINA warns against dangerous approaches after commercial drone reported near Chinese warship in Philippine EEZ】On July 30 at a routine press briefing, CHINA responded to a Reuters report that a commercial drone was operating in the Philippine exclusive economic zone and had approached a Chinese warship. CHINA said its military activities comply with international law and practice and urged relevant parties to avoid hazardous close approaches to Chinese naval vessels to prevent maritime or aviation incidents."
+    },
+    {
+      "id": "te:economy:571081",
+      "time": "2026-07-30 15:20:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Spain’s Inflation Hits Two-Year High — Spain’s consumer price inflation rose to 3.5% in July 2026, up from 3.2% in June and above the 3.4% market forecast, according to preliminary data. This is the highest rate since May 2024, fueled by rising costs for fuels, lubricants, and electricity, as renewed Middle East tensions push energy prices higher again. The core inflation rate, excluding unprocessed food and energy, also climbed to 3.0%, from 2.9% in June, matching May’s near two-year peak. Meanwhile, the EU-harmonized inflation rate reached 3.8%, surpassing the 3.7% expectation and remaining well above the European Central Bank’s 2.0% target."
+    },
+    {
+      "id": "5016121",
+      "time": "2026-07-30 15:20:42",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【有報道稱中方將提供400套導彈發射器給伊朗 外交部：有關報道不符合事實、毫無根據】外交部發言人毛寧主持7月30日例行記者會。會上有記者提問稱，有報道稱中方將提供400套導彈發射器給伊朗，請問中方能否證實？毛寧表示，這個問題我們已經多次闡明瞭立場，有關報道不符合事實、毫無根據。中方發揮的始終是促和止戰的作用。 (環球網)"
+    },
+    {
+      "id": "5016120",
+      "time": "2026-07-30 15:20:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遼寧省1—6月份規模以上工業企業利潤增長16.8%】“遼寧統計”微信公眾號7月30日訊息，1—6月份，遼寧省規模以上工業企業實現利潤總額698.0億元，同比增長16.8%。1—6月份，國有控股企業實現利潤總額156.5億元，同比增長72.7%；股份制企業實現利潤總額508.3億元，增長65.5%；外商及港澳臺投資企業實現利潤總額188.8億元，下降34.6%；私營企業實現利潤總額127.1億元，增長19.0%。"
+    },
+    {
+      "id": "te:economy:571080",
+      "time": "2026-07-30 15:20:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "GDP Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Austrian Economy Stalls in Q2 — Austria's economy stagnated quarter-on-quarter in Q2 2026, after expanding 0.2% in each of the previous two quarters, according to preliminary estimates. The stagnation reflected higher oil prices triggered by the Iran conflict, which interrupted the economic recovery. Household consumption weakened (-0.1% vs. +0.2% in Q1), while government spending also edged down (-0.1% vs. +1.6%). Gross fixed capital formation rose 0.4% after being broadly unchanged in the previous quarter. Net trade provided little support, with exports increasing 0.5% and imports rising 0.6%. On the production side, industrial output weakened (-0.1% vs. +1.3%) and construction contracted for a second straight quarter (-0.4% vs. -0.6%), while trade and tourism-related services recovered (+0.3% vs. -0.8%). Information, financial, insurance, and real estate services remained resilient (+0.8%). On an annual basis, GDP expanded 0.8%, easing from 0.9% in Q1."
+    },
+    {
+      "id": "mkt:019fb1e5-1db4-7aab-8f07-fbba88baa04d",
+      "time": "2026-07-30 15:20:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China strongly urges Japan to accelerate disposal of chemical weapons abandoned in China】On July 30, China's foreign ministry said chemical weapons Japan abandoned in China during its invasion are a serious wartime crime and continue to threaten Chinese lives and the environment. Beijing noted Japan was required by the Chemical Weapons Convention and a China-Japan government memorandum to complete destruction by 2007, but that Tokyo has shown insufficient compliance and investment and its destruction plan has been delayed four times. China strongly urged Japan to fully and faithfully meet its obligations, promptly provide effective information on burial sites and speed up disposal to remove the threat."
+    },
+    {
+      "id": "te:economy:571079",
+      "time": "2026-07-30 15:19:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Austria Producer Inflation Rises Further in June — Annual producer inflation in Austria rose to 3.1% in June 2026 from 2.8% in the previous month. This was the highest level since April 2023, mainly driven by rising prices for intermediate goods (6.6% vs 5.7% in May). Prices for consumer goods also increased 0.2%, following a 0.1% rise in the prior month. Meanwhile, energy prices rose for the third consecutive month, although at a slower pace than in May (2.1% vs 2.8%), while price growth for capital goods was unchanged at 1.0%. On a monthly basis, the PPI edged up 0.1%, easing from a 0.5% rise in May, as price increases for basic metals (2.0%) and paper and paper products (1.4%) were partly offset by declines in prices of chemicals and chemical products (-1.5%) and food products (-0.1%)"
+    },
+    {
+      "id": "5016119",
+      "time": "2026-07-30 15:19:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "布赫工業集團股價釋出業績後下跌6.7%，有望創下2022年3月以來最大單日跌幅。"
+    },
+    {
+      "id": "5016118",
+      "time": "2026-07-30 15:19:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【7月30日滬深兩市漲停分析】創業板指放量跌近4%，科創50跌逾5%，半導體、算力硬體概念全線重挫。愛麗家居8連板，明新旭騰、傳智教育4連板，一圖看懂>>"
+    },
+    {
+      "id": "5016117",
+      "time": "2026-07-30 15:18:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "倫敦證券交易所集團（LSEG）資料顯示，德國場外交易日前批發電價上漲21.7%，報每兆瓦時153.50歐元。"
+    },
+    {
+      "id": "5016116",
+      "time": "2026-07-30 15:18:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【商業無人機接近中方軍艦？外交部回應】7月30日，外交部發言人毛寧主持例行記者會。路透社記者提問，昨天我社報道稱，有一個商業無人機在菲律賓專屬經濟區航行，並且接近了中方軍艦。中方對此有何評論？毛寧表示，中國軍隊開展活動一貫符合國際法和國際慣例。我們也想提醒有關方面，避免危險抵近中國海軍艦艇，防止引發海空意外。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:019fb1e3-c7fc-7aab-8f07-f118ffb9095d",
+      "time": "2026-07-30 15:18:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Sci-Tech Innovation 50"
+      ],
+      "text": "【China A-shares close: Sci‑Tech Innovation 50 down 5.38%; consumer sector extends multi‑day gains】China A‑shares closed lower after choppy trade. Shanghai Composite fell 0.62%, Shenzhen Composite 2.73%, ChiNext 3.97% and the Sci‑Tech Innovation 50 Index plunged 5.38%. Turnover across Shanghai and Shenzhen was 2.34 trillion yuan, up 46.2 billion yuan from the prior session. More than 3,600 stocks declined. C Changxin slipped 0.15% to 52.87 yuan on turnover near 45.0 billion yuan. Automakers outperformed; JAC Motors hit the daily limit up. MLCC names rallied in the afternoon, with Shuangxing New Materials limit up and Yunzong Technology hitting the 20% limit. CPO‑themed stocks sold off again—Dongshan Precision, Accelink Technologies and Cambridge Technology hit limit down. The memory/storage chip sector also plunged, with Tongfu Microelectronics, Huatian Technology, Yake Technology, Youyan New Materials and JCET among roughly ten stocks hitting daily limit down."
+    },
+    {
+      "id": "5016115",
+      "time": "2026-07-30 15:18:32",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【林園投資：部分產品維持原合同約定不再接受申購】7月30日，深圳市林園投資管理有限責任公司釋出公告稱，169只私募基金產品維持原合同約定不再接受申購，相關產品不再修改基金合同以適配《私募證券投資基金運作指引》的要求，維持原合同條款及投資自由度不變。林園投資解釋稱，公司產品的投資運作一直堅持適度集中、長期投資的風格，這與《運作指引》中關於組合投資“雙25%”限制及債券投資比例限制等條款存在衝突。若強行修改，將造成產品現在或未來被迫調倉，在目前及未來的市場環境下可能對現有持有人利益造成實質損害。自2026年8月1日起，客戶持有的產品將不再接受新增申購，產品到期後不展期，按合同約定正常清算。"
+    },
+    {
+      "id": "5016114",
+      "time": "2026-07-30 15:18:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：強烈敦促日方早日徹底清除日遺化武毒害】外交部發言人毛寧30日在例行記者會上答問時表示，日本遺棄在華化學武器是日本軍國主義在侵華戰爭期間犯下的嚴重罪行之一，時至今日仍在危害中國人民生命財產和生態環境安全。全面銷燬日遺化武是日方不容推卸的歷史、政治和法律責任。日方本應按照《禁止化學武器公約》規定和中日政府備忘錄的要求，於2007年完成日遺化武銷燬，但日方履約誠意不足、投入不夠，銷燬計劃已經4次逾期，日遺化武處置程序嚴重滯後，日遺化武的安全隱患持續存在。中方強烈敦促日方全面忠實履行公約和中日政府備忘錄規定的責任義務，儘快提供有效埋藏線索資訊，加快日遺化武處置程序，早日徹底清除日遺化武毒害，還中國人民以淨土。（新華社）"
+    },
     {
       "id": "5016113",
       "time": "2026-07-30 15:18:19",
@@ -63,6 +287,15 @@
         "公司"
       ],
       "text": "【三星電子：預計三季度HBM4銷售額將環比增長2倍以上】三星電子7月30日預測，第三季度第六代高頻寬記憶體（HBM4）銷售額將環比增長2倍以上，下半年HBM4銷售額將佔HBM銷售總額的60%以上。三星提出，下半年將把HBM全球市佔率提升至與同步動態隨機存取儲存器（DRAM）相當的水平。今年第一季度，三星電子DRAM全球市佔率為38%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607303826653242",
+      "time": "2026-07-30 15:16:48",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【德國商業銀行外匯團隊：市場判斷美聯儲行動難以遏制長期通脹 9月加息機率63%】德國商業銀行外匯團隊表示，市場判斷美聯儲行動難以遏制長期通脹，9月加息機率63%，年內累計加息預期由42基點下調至33基點。"
     },
     {
       "id": "5016109",
@@ -207,6 +440,15 @@
         "國際"
       ],
       "text": "【中國國防部長訪問深化中泰、中文安全互信與防務合作】國防部新聞發言人蔣斌介紹，近日，國防部長董軍應邀訪問泰國、汶萊，這是落實中泰、中文元首重要共識，深化安全互信與防務合作，服務構建周邊命運共同體的具體舉措。其間，董軍部長分別拜會泰國總理、汶萊蘇丹，並與兩國防務部門領導舉行會談，就兩國兩軍關係、國際地區形勢和共同關心的問題深入交換意見。當前，中泰關係正邁向下一個金色50年，兩國領導人就深化中泰命運共同體建設達成新的重要共識，宣佈建立外長、防長“2+2”戰略對話機制。我們願與泰方一道，密切戰略溝通，深化聯演聯訓、人員交流、人道主義救災等務實合作，推動中泰軍事合作提質升級。"
+    },
+    {
+      "id": "em:qqyh_ygyh:202607303826653347",
+      "time": "2026-07-30 15:15:18",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "【瑞聯銀行分析師：英國央行7月議息會議或以7:2票數維持3.75%利率不變】瑞聯銀行分析師預計，英國央行7月議息會議或以7:2票數維持3.75%利率不變，年內經濟增長偏弱、通脹小幅回落，英國央行或放緩量化緊縮。"
     },
     {
       "id": "5016100",
@@ -165446,73 +165688,6 @@
         "市場"
       ],
       "text": "雀巢股價下跌7.3%，創2020年以來最大跌幅。"
-    },
-    {
-      "id": "5003868",
-      "time": "2026-07-23 15:22:27",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【江蘇出臺措施支援人工智慧OPC創新發展】為深入實施“人工智慧+”行動，大力培育以“人工智慧OPC（One Person Company）”為代表的新興業態與組織模式，加快發展一批重點行業智慧體與智慧原生企業，近日江蘇省發展改革委、省工業和資訊化廳、省資料局印發《江蘇省支援人工智慧OPC創新發展若干措施》。《若干措施》明確，人工智慧OPC是以創始人“一人”為核心經營者，在數智工具與外部協作網路的支援協同下，透過個人獨立或極小微團隊運作，實現價值創造、交付與獲取的最小組織單元。本措施適用於依法經營的人工智慧OPC，人員規模原則上不超過10人。《若干措施》提出，在推動OPC集聚發展方面，江蘇省將加強OPC主體培育，打造專業化OPC社群，加速OPC成果產業化。在加強關鍵要素支撐方面，要降低算力使用成本，加大資料資源供給，暢通模型部署與應用，完善創新支撐體系。在強化人才服務保障方面，要完善一站式創業服務，加大OPC人才培養力度，提供OPC安居保障。在支援OPC創新應用方面，江蘇將推動場景開放創新機制，深化場景融合發展。在最佳化OPC生態體系方面，要強化標準引領，加強智慧財產權合規指引，打造金融綜合服務體系，提供優質法律服務，營造活躍創新生態，加強安全治理和保障。"
-    },
-    {
-      "id": "mkt:019f8dda-9c04-7aab-8e5d-ab992ebe8593",
-      "time": "2026-07-23 15:22:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli and Palestinian officials said Israeli banks have notified Palestinian authorities they plan to terminate key banking services within weeks, raising concern of a potential economic crisis in the West Bank."
-    },
-    {
-      "id": "mkt:019f8dd9-f070-7aab-8e5d-a3b5a9b8fc80",
-      "time": "2026-07-23 15:21:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "【MOFCOM to accelerate cultivation of new service‑consumption growth drivers】MOFCOM Vice Minister Yan Dong said at a July 23 press briefing that MOFCOM and other agencies have issued policy documents to bolster service consumption, targeting rail‑tour integration, high‑quality development of home services, and expansion of the auto aftermarket, and will push implementation. The ministry said it will also roll out additional support measures for transport, live performances and sporting events, and encourage local governments to actively develop new service‑consumption growth pathways."
-    },
-    {
-      "id": "5003867",
-      "time": "2026-07-23 15:21:05",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【商務部：將加快培育服務消費新增長點】7月23日，商務部副部長鄢東在國新辦新聞釋出會上表示，近期商務部會同有關部門出臺了鐵旅融合、家政高質量發展、培育壯大汽車後市場等服務消費新增長點政策檔案，商務部將抓好貫徹落實。同時，還將圍繞交通、演出、賽事等細分領域，進一步創新支援舉措，鼓勵地方積極培育服務消費新增長點的有效路徑。"
-    },
-    {
-      "id": "5003866",
-      "time": "2026-07-23 15:19:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奧尼電子成立詞元科技公司】企查查APP顯示，近日，奧尼詞元科技（慶陽）有限公司成立，法定代表人為吳國華，註冊資本為1000萬元，經營範圍包含人工智慧行業應用系統整合服務；人工智慧基礎資源與技術平臺；雲端計算裝備技術服務等。企查查股權穿透顯示，該公司由奧尼電子(301189)間接全資持股。"
-    },
-    {
-      "id": "5003865",
-      "time": "2026-07-23 15:19:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美油站上90美元關口】WTI原油站上90美元/桶整數關口，為6月11日以來首次，日內漲3.6%。"
-    },
-    {
-      "id": "mkt:019f8dd8-259c-7aab-8e5d-9f9f1a57d001",
-      "time": "2026-07-23 15:19:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【WTI rises above $90/bbl】WTI crude rose above $90 per barrel for the first time since June 11, up 3.6% intraday."
     }
   ]
 }
