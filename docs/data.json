@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-31 01:49:28",
-  "count": 17902,
+  "updated": "2026-07-31 01:53:32",
+  "count": 17903,
   "items": [
+    {
+      "id": "5017607",
+      "time": "2026-07-31 01:52:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士稱，美國週三針對伊朗發動的打擊，僅僅是後續一系列行動的冰山一角。"
+    },
+    {
+      "id": "5017606",
+      "time": "2026-07-31 01:51:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【遭遇虧損後，Situational Awareness基金資產規模縮水至100億美元】利奧波德·阿申布倫納旗下對沖基金Situational Awareness因被迫平倉部分頭寸以追加保證金，基金資產規模已跌至約100億美元。一位要求匿名、討論未公開資訊的知情人士透露，該規模較近幾月峰值縮水超一半。截至5月末，Situational Awareness資產管理規模超200億美元。該基金部分重倉標的在此之後繼續上漲，直至本月大幅下挫。"
+    },
+    {
+      "id": "5017605",
+      "time": "2026-07-31 01:51:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國駐巴格達大使館指示其工作人員留在外交使團駐地內，直至另行通知。"
+    },
+    {
+      "id": "mkt:019fb426-4bd7-7aab-8f1a-75d813a91173",
+      "time": "2026-07-31 01:50:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Hadas reported sources saying the U.S. embassy in Baghdad has directed staff to remain inside the diplomatic compound until further notice."
+    },
+    {
+      "id": "5017604",
+      "time": "2026-07-31 01:50:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 曾在軍隊駕駛重型車輛的美國人將自動具備申領商業駕駛執照資格；擁有軍用重型車輛駕駛經驗的退伍軍人，可免除冗餘路考，在退役兩年內取得商業駕照。"
+    },
     {
       "id": "5017603",
       "time": "2026-07-31 01:48:23",
@@ -165273,50 +165313,6 @@
         "國際"
       ],
       "text": "俄羅斯國防部通報稱，俄防空系統在一天內擊落了172架烏克蘭無人機，目標分佈在俄羅斯多地以及黑海和亞速海水域上空。"
-    },
-    {
-      "id": "5005288",
-      "time": "2026-07-24 01:52:41",
-      "tags": [
-        "資料"
-      ],
-      "text": "AMD： Cerebras計劃在其資料中心部署AMD Helios晶片，聯合解決方案預計將於2026年下半年率先透過Cerebras雲服務上線 。"
-    },
-    {
-      "id": "5005287",
-      "time": "2026-07-24 01:52:11",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅會見白俄羅斯外長雷任科夫】中共中央政治局委員、外交部長王毅23日在吉爾吉斯斯坦出席上海合作組織外長會前會見白俄羅斯外長雷任科夫。王毅表示，中白是彼此可信賴的好夥伴。近年來，在習近平主席和盧卡申科總統戰略擘畫和親自關心下，中白全天候全面戰略伙伴關係保持高水平執行，各領域合作取得可喜成果。前不久，兩國元首在北京再度會晤，為雙邊關係下步發展作出新的部署。明年是中白建交35週年。站在新的歷史起點上，中方願同白方共同努力，按照兩國元首明確的方向，規劃好各層級交往，加強發展戰略對接，深化治國理政經驗交流，推動中白關係高質量發展，引領兩國合作全方位推進，為兩國人民帶來更多福祉。(新華社)"
-    },
-    {
-      "id": "mkt:019f901a-a854-7aab-8e71-1a725b2731fd",
-      "time": "2026-07-24 01:51:33",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bearish"
-      ],
-      "text": "Microsoft (MSFT.O): Azure West US region has experienced intermittent connectivity outages and increased latency since 14:44 UTC on July 23. Microsoft is actively investigating network connectivity and traffic-routing anomalies tied to the issue's start time."
-    },
-    {
-      "id": "mkt:019f9018-e48b-7aab-8e71-147bdcab2a32",
-      "time": "2026-07-24 01:49:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "AMD.O",
-        "Impact bullish"
-      ],
-      "text": "Cerebras shares rose over 10% as AMD partners with the company to develop an integrated-chip AI inference platform."
     }
   ]
 }
