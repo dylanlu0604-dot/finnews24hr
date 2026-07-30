@@ -1,7 +1,104 @@
 {
   "date": "2026-07-30",
-  "count": 3600,
+  "count": 3611,
   "items": [
+    {
+      "id": "5017192",
+      "time": "2026-07-30 21:26:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國電力公司表示，780億美元資本計劃目前尚未將得克薩斯州這一規模的負荷增長納入考量。"
+    },
+    {
+      "id": "5017191",
+      "time": "2026-07-30 21:26:36",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【英國央行決議要點彙總】①決議結果：英國央行內部以6:3的投票結果，維持利率在3.75%不變，有3名委員投票支援加息25個基點。②關於前瞻指引：英國央行行長貝利強調，不要認為英國央行正在逐步走向加息，但其表示英國央行“隨時準備採取行動”。③關於能源價格：近期能源價格波動劇烈，油氣價格已明顯高於此前預測，將繼續關注美伊衝突對通脹的影響。④關於量化緊縮（QT）：資產負債表縮減對10年期國債收益率的影響較為溫和，將在9月就下一年度量化緊縮計劃作出決定。⑤關於經濟和勞動力市場：預計2026年和2027年GDP增速均將維持在1%左右，職位空缺和私營部門工資增長已降至疫情以來低位。"
+    },
+    {
+      "id": "mkt:019fb334-8156-7aab-8f14-cb68bb138bbf",
+      "time": "2026-07-30 21:26:30",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "White House National Economic Council director Hassett said he is very optimistic that Fed policy is moving in the right direction."
+    },
+    {
+      "id": "mkt:019fb334-6b3d-7aab-8f14-c51529aa5fe8",
+      "time": "2026-07-30 21:26:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Nick Timiraos: US June core PCE rose 0.13% MoM, the smallest monthly increase since March 2025 (1.6% annualized). Three-month annualized pace 2.9% (year-ago 2.8%); six-month annualized 3.8% (year-ago 3.1%); 12-month change 3.3% (year-ago 2.8%)."
+    },
+    {
+      "id": "5017190",
+      "time": "2026-07-30 21:25:55",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲9月若維持利率不變，或引發美債收益率大幅飆升 】分析師愛德華·哈里森（Edward Harrison）撰文指出，儘管當前市場定價顯示美聯儲在9月份加息的機率接近三分之二，但美聯儲仍有可能再次出人意料地選擇按兵不動。若這一情形發生，將進一步推高美國國債收益率曲線，引發市場劇烈動盪。文章分析稱，美聯儲主席凱文·沃什（Kevin Warsh）在7月議息會議後的新聞釋出會上曾暗示，近期金融市場條件的自發收緊，在一定程度上替代了美聯儲在7月採取行動的需要。基於這一邏輯，市場很可能在9月面臨同樣的博弈局面。資料顯示，儘管6月份核心個人消費支出（PCE）物價指數低於預期，但30年期美國國債實際收益率在週四仍一度飆升至2.98%。此外，即將公佈的經濟資料也可能為美聯儲提供觀望的理由。一方面，核心PCE數值低於市場預期；另一方面，美國經濟分析局（BEA）正在重新計算物價上漲的統計方式，批評人士認為該方式存在缺陷，其調整結果可能會在賬面上降低通脹壓力。"
+    },
+    {
+      "id": "5017189",
+      "time": "2026-07-30 21:24:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "哈塞特：十分看好美聯儲政策正朝著正確方向推進。"
+    },
+    {
+      "id": "5017188",
+      "time": "2026-07-30 21:24:27",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：工薪家庭減稅法案落地，美國家庭與勞動者合計享受超820億美元個人稅收減免。"
+    },
+    {
+      "id": "5017187",
+      "time": "2026-07-30 21:23:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國標準化研究院聯合得物App起草國內首個鑑別服務國家標準】7月30日訊息，國內首個《消費品鑑別服務通用指南》國家標準已進入專題研討階段，該標準由中國標準化研究院與得物App聯合起草，旨在統一行業鑑別規範。得物平臺資料顯示，其鑑別服務總量累計近16億次，覆蓋26個類目、3000餘品牌。該標準落地後將為消費品鑑別行業提供首個國家級權威準則。"
+    },
+    {
+      "id": "mkt:019fb332-182c-7aab-8f14-b80899211c44",
+      "time": "2026-07-30 21:23:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Macao chief executive Cen Haohui meets MIIT vice minister Xiong Jijun】Macao Chief Executive Cen Haohui met with Ministry of Industry and Information Technology Vice Minister Xiong Jijun to discuss deepening cooperation, advancing innovation and technology development, and supporting national science and technology construction. Xiong said MIIT will implement the central leadership’s decisions, support Macao’s economic development and livelihoods, and better integrate Macao into the national development agenda. The sides signed a Cooperation Agreement on Developing New Quality Productive Forces to Promote New‑Type Industrialization; MIIT said it will use the pact to plan and implement follow‑up measures, strengthen mainland–Macao exchange and cooperation in industry and information technology, and contribute to developing new quality productive forces and advancing new‑type industrialization under China’s modernization drive."
+    },
+    {
+      "id": "5017186",
+      "time": "2026-07-30 21:23:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【岑浩輝與工業和資訊化部副部長熊繼軍會面】澳門特別行政區行政長官岑浩輝今日與工業和資訊化部副部長熊繼軍會面，就深化雙方合作、推動創科發展，助力國家科技建設等議題交流意見。熊繼軍表示，工業和資訊化部堅決貫徹落實黨中央決策部署，積極支援澳門發展經濟、改善民生，更好融入和服務國家發展大局。他指出，雙方簽署《關於發展新質生產力推進新型工業化的合作協議》具有重要意義，未來將以此為契機，進一步謀劃好落實好後續舉措，加強內地與澳門在工業和資訊化領域交流合作，為國家發展新質生產力、推進新型工業化，以中國式現代化全面推進強國建設共同貢獻智慧和力量。"
+    },
     {
       "id": "5017185",
       "time": "2026-07-30 21:22:27",
@@ -111,6 +208,15 @@
         "Importance 1"
       ],
       "text": "US 30-Year Bond Yield Surges to 19-Year High — The yield on the 30-year US Treasury bond surged to above 5.2%, the highest since 2007, to reflect concerns of higher inflation in the longer term. The Federal Reserve held rates unchanged in its July meeting, aligned with the consensus, despite rate futures showing that one third of the market was positioned for a hike. The rise for the 30-year tenure led the movements among Treasuries following controversial statements by Fed Chairman Warsh during the press conference. The reluctance to signal a rate hike as the Fed's preferred response to inflation drove long-dated yields to surge, even though those on shorter maturities fell. The Chair also signaled a positive response in seeing long-term yields rise in Q2, akin to a policy tool, despite signaling the contrary in his speech during the ECB central bank forum one month prior. Underlying inflation gauges in the US flared higher in Q2 after tariffs and soaring energy prices lifted costs among various industries in the second quarter."
+    },
+    {
+      "id": "em:qqyh_mlc:202607303826995981",
+      "time": "2026-07-30 21:19:12",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【哈塞特：沃什會按照資料採取應有的行動】美國白宮經濟顧問哈塞特表示，隨著美國今日PCE資料的公佈，沃什的工作變得更加容易了，沃什會按照資料採取應有的行動。被問及是否仍對沃什有信心時，哈塞特稱“當然”。"
     },
     {
       "id": "5017179",
