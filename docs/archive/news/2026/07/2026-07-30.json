@@ -1,7 +1,111 @@
 {
   "date": "2026-07-30",
-  "count": 1891,
+  "count": 1902,
   "items": [
+    {
+      "id": "5016000",
+      "time": "2026-07-30 14:24:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【世界黃金協會：二季度黃金ETF淨流出45噸】當地時間7月30日，世界黃金協會發布的2026年二季度《全球黃金需求趨勢報告》顯示，隨著金價從2026年初創下的歷史高位回落，二季度全球黃金總需求同比持平，為1269噸。上半年全球黃金總需求則同比上漲2%，達2522噸，約合3800億美元。"
+    },
+    {
+      "id": "mkt:019fb1b1-ec43-7aab-8f05-e9746093f554",
+      "time": "2026-07-30 14:24:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "SZSE Component",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "China A-share ChiNext index pared losses to under 1.5% after earlier plunging more than 6.5%; STAR 50 index pared losses to 2.8% after earlier sliding nearly 7%."
+    },
+    {
+      "id": "mkt:019fb1b1-8ee2-7aab-8f05-e7685636980a",
+      "time": "2026-07-30 14:23:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chongqing issues measures to accelerate building an international consumption center city】Chongqing has issued policy measures to accelerate development of an international consumption center city. The plan backs upgrading and creating world‑class shopping districts, promoting improvements to the consumption environment and digital transformation, supporting first‑release and night‑time economies, and guiding conversion and upscale redevelopment of existing commercial stock and specialty shopping streets. It increases land support for new industries and new business formats and steers globally leading, regional‑landmark and wholly‑held new‑consumption projects into key commercial areas and specialty blocks. The measures push systemic urban renewal, introduce cross‑department joint approvals to shorten permit times, and aim to reactivate idle commercial assets that meet planning. Repurposing old factories for eldercare, medical and other state‑supported industries will receive a five‑year transition policy allowing continued land use under original purpose and land‑rights classifications."
+    },
+    {
+      "id": "mkt:019fb1b0-be44-7aab-8f05-dc83c8f761db",
+      "time": "2026-07-30 14:22:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【World Gold Council: H1 jewellery volumes down; spending up 22% to $86bn】The World Gold Council’s Q2 2026 Gold Demand Trends report: Q2 global jewellery demand fell 17% YoY as high prices pushed consumers away from pure-gold pieces or toward lighter-weight items, leaving H1 jewellery volumes lower. Jewellery spending showed resilience, rising 22% YoY in 1H to $86bln. Q2 total global gold supply was flat YoY at 1,269t; estimated mine production rose about 2% YoY to 966t supported by new output in Canada and Chile, while recycled gold supply fell 6% YoY despite higher prices."
+    },
+    {
+      "id": "5015999",
+      "time": "2026-07-30 14:22:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《重慶市加力培育建設國際消費中心城市若干政策措施》印發】《重慶市加力培育建設國際消費中心城市若干政策措施》印發。其中提出，支援提質打造世界知名商圈。支援打造世界知名商圈，鼓勵推進消費環境最佳化、資訊化改造等建設，支援發展首發經濟、夜間經濟，引導推動符合規劃的存量商業資源轉型盤活和特色商業街區提檔升級；支援最佳化消費載體建設。加大對新產業、新業態用地的支援力度，引導全球引領型、區域地標型、整體持有型新消費專案在商圈、特色街區等重點區域精準佈局。系統性推進城市更新，推廣實施方案跨部門聯合審批模式，壓縮審批時間，著力盤活符合規劃的閒置商業資源。利用老舊廠房發展養老、醫療等國家支援產業和行業的企業，可享受5年過渡期政策，繼續按原用途和土地權利型別使用土地。"
+    },
+    {
+      "id": "mkt:019fb1b0-93db-7aab-8f05-d02f09b21f30",
+      "time": "2026-07-30 14:22:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 closed down 78.70 points, or 0.87%, at 8,959.90 on Thursday, July 30."
+    },
+    {
+      "id": "5015998",
+      "time": "2026-07-30 14:22:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克：成立協調小組調查空域違規行為。"
+    },
+    {
+      "id": "5015997",
+      "time": "2026-07-30 14:22:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達10億港元。"
+    },
+    {
+      "id": "5015996",
+      "time": "2026-07-30 14:21:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝倫貝格銀行將空客目標股價從每股210歐元上調至每股205歐元。"
+    },
+    {
+      "id": "te:markets:571042",
+      "time": "2026-07-30 14:21:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Falls to 13-Month Low — Iron ore futures dropped toward CNY 720 per ton, reaching their lowest level since June 2025 as mounting losses among Chinese steelmakers weighed on the demand outlook for the key steelmaking ingredient. Industry data showed average losses at steel mills in Tangshan have widened beyond CNY 100 per ton and are expected to keep increasing, with the sector likely to remain under pressure next month. Investors also looked ahead to updates from the Politburo meeting in Beijing, where policymakers are widely expected to refrain from introducing major new stimulus measures and instead focus on implementing existing fiscal policies to support the slowing economy. Meanwhile, data from Australia showed that Western Australia’s Pilbara Ports, the world’s largest iron ore export hub, handled more than 800 million tons of cargo during the 2025-2026 financial year, with iron ore shipments reaching about 759.4 million tons."
+    },
+    {
+      "id": "5015995",
+      "time": "2026-07-30 14:21:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【ChatGPT和羅布樂思將被納入歐盟最嚴內容監管框架】當地時間7月29日，據報道，OpenAI的ChatGPT和美國線上遊戲平臺羅布樂思（Roblox）因在歐盟的月活躍使用者數超過4500萬門檻，將根據歐盟的內容稽核規則面臨更嚴格的審查和監管要求。據一位知情人士透露，歐盟執行機構將依據《數字服務法》將這兩家美國科技公司指定為“超大型線上平臺”。該人士表示，這一認定預計最早將於8月做出。"
+    },
     {
       "id": "mkt:019fb1af-498c-7aab-8f05-cd662ba89f05",
       "time": "2026-07-30 14:21:22",
