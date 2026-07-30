@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-31 05:46:04",
-  "count": 17948,
+  "updated": "2026-07-31 05:49:59",
+  "count": 17949,
   "items": [
+    {
+      "id": "mkt:019fb501-0436-7aab-8f1e-012fb6a7a4f0",
+      "time": "2026-07-31 05:49:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Japan may have intervened in the foreign-exchange market earlier on Thursday."
+    },
+    {
+      "id": "5017759",
+      "time": "2026-07-31 05:48:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：美國財政部貝森特稱，日本週四早些時候可能已入市干預匯市。"
+    },
+    {
+      "id": "5017758",
+      "time": "2026-07-31 05:47:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "淡水河谷批准向股東派息每股2.03巴西雷亞爾。"
+    },
     {
       "id": "te:markets:571350",
       "time": "2026-07-31 05:45:08",
@@ -165887,28 +165913,6 @@
         "其他"
       ],
       "text": "【二季度封閉式“固收+”理財年化收益率中樞提升】普益標準7月22日釋出的最新資料顯示，截至2026年二季度末，理財機構年內共發行封閉式“固收+”類理財產品6320只，季末存續12715只，季度年化收益率中樞為3.03%（較上季度提高34個基點），產品投資運作整體穩健。(證券日報)"
-    },
-    {
-      "id": "mkt:019f90f3-9daa-7aab-8e73-d1bec84f9720",
-      "time": "2026-07-24 05:48:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "INTC.O",
-        "Impact bullish",
-        "AMAT.O",
-        "LRCX.O"
-      ],
-      "text": "Intel (INTC.O) CFO said the company will purchase 40% more semiconductor manufacturing equipment in 2026 than in 2025."
-    },
-    {
-      "id": "5005425",
-      "time": "2026-07-24 05:47:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "英特爾：公司 2026 年採購晶片製造裝置規模將較 2025 年提升 40%。"
     }
   ]
 }

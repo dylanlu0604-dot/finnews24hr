@@ -1,7 +1,33 @@
 {
   "date": "2026-07-31",
-  "count": 490,
+  "count": 493,
   "items": [
+    {
+      "id": "mkt:019fb501-0436-7aab-8f1e-012fb6a7a4f0",
+      "time": "2026-07-31 05:49:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Japan may have intervened in the foreign-exchange market earlier on Thursday."
+    },
+    {
+      "id": "5017759",
+      "time": "2026-07-31 05:48:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：美國財政部貝森特稱，日本週四早些時候可能已入市干預匯市。"
+    },
+    {
+      "id": "5017758",
+      "time": "2026-07-31 05:47:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "淡水河谷批准向股東派息每股2.03巴西雷亞爾。"
+    },
     {
       "id": "te:markets:571350",
       "time": "2026-07-31 05:45:08",
