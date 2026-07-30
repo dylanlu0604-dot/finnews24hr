@@ -1,7 +1,129 @@
 {
   "date": "2026-07-30",
-  "count": 3729,
+  "count": 3742,
   "items": [
+    {
+      "id": "mkt:019fb356-c431-7aab-8f15-e2ffc126e3b8",
+      "time": "2026-07-30 22:03:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shell CEO says volatility across the entire energy system has essentially intensified."
+    },
+    {
+      "id": "mkt:019fb356-45b2-7aab-8f15-df6e69398e0e",
+      "time": "2026-07-30 22:03:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Brazilian real up 1% versus the U.S. dollar."
+    },
+    {
+      "id": "mkt:019fb356-1b5a-7aab-8f15-d1a4765b4772",
+      "time": "2026-07-30 22:03:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's benchmark stock index rose over 1%."
+    },
+    {
+      "id": "mkt:019fb355-e929-7aab-8f15-cb08c7c3e648",
+      "time": "2026-07-30 22:02:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Interfax reports Russia extends ban on diesel and gasoline exports."
+    },
+    {
+      "id": "5017277",
+      "time": "2026-07-30 22:02:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌執行長表示，整個能源體系天生波動性正在加劇。"
+    },
+    {
+      "id": "5017276",
+      "time": "2026-07-30 22:02:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元延續跌勢，日內目前已下跌2.3%，報159.5日元。"
+    },
+    {
+      "id": "mkt:019fb355-a88d-7aab-8f15-c5d077f90ac4",
+      "time": "2026-07-30 22:02:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GS.O"
+      ],
+      "text": "An internal memo shows Goldman Sachs Asset Management has launched AlphaAI, an artificial intelligence investment platform."
+    },
+    {
+      "id": "5017275",
+      "time": "2026-07-30 22:02:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳門三部門：皇家美素力鉛超標檢測結果具有可信性，預防性下架屬國際通用的謹慎做法。"
+    },
+    {
+      "id": "te:markets:571294",
+      "time": "2026-07-30 22:01:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Austria",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Erste Bank earnings above expectations at 2.48 EUR — Erste Bank (EBS) released earnings per share at 2.48 EUR, compared to market expectations of 2.43 EUR."
+    },
+    {
+      "id": "5017274",
+      "time": "2026-07-30 22:01:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲2%，現報4179.02美元/盎司。"
+    },
+    {
+      "id": "5017273",
+      "time": "2026-07-30 22:01:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯政府宣佈禁止柴油出口，期限至2027年1月31日為止；宣佈禁止其他燃料出口，期限至2027年1月31日為止。"
+    },
+    {
+      "id": "5017272",
+      "time": "2026-07-30 22:00:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中船廣船國際再獲招商南油4艘5萬噸級油船訂單】7月29日，中船廣船國際聯合中船貿易與招商局南京油運股份有限公司（下稱招商南油）簽署了4艘5萬噸化學品/成品油船（MR）建造合同。截至目前，廣船國際已為招商南油建造交付12艘MR型油船，當前仍有4艘MR和4艘LRI處於在建狀態。"
+    },
+    {
+      "id": "5017271",
+      "time": "2026-07-30 21:59:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元兌日元失守160關口】美元兌日元USD/JPY向下觸及160，日內跌2.06%。"
+    },
     {
       "id": "mkt:019fb352-fe25-7aab-8f15-ba2e417a0781",
       "time": "2026-07-30 21:59:48",
