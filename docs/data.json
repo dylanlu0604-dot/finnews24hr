@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-31 05:42:16",
-  "count": 17944,
+  "updated": "2026-07-31 05:46:04",
+  "count": 17948,
   "items": [
+    {
+      "id": "te:markets:571350",
+      "time": "2026-07-31 05:45:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper Hits 5-week Low — Copper decreased to 5.99 USD/Lbs, the lowest since June 2026. Over the past 4 weeks, Copper gained 5.67%, and in the last 12 months, it increased 46.95%."
+    },
+    {
+      "id": "5017757",
+      "time": "2026-07-31 05:43:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜CEO： 供應受限的主要原因是 iPhone、Mac 需求超出預期。"
+    },
+    {
+      "id": "5017756",
+      "time": "2026-07-31 05:42:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果CEO庫克：對於希望重度使用新AI產品的使用者，蘋果將提供“升級選項”。"
+    },
+    {
+      "id": "mkt:019fb4fa-7cca-7aab-8f1d-f905b2c67f50",
+      "time": "2026-07-31 05:42:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon (AMZN.O) CEO said the company is developing proprietary cutting-edge models to control costs and reduce consumer spending."
+    },
+    {
+      "id": "mkt:019fb4fa-73c6-7aab-8f1d-f6de6838cb3b",
+      "time": "2026-07-31 05:42:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Apple (AAPL.O) CEO Cook said Apple will offer \"upgrade options\" for users who want to use its new AI products heavily."
+    },
+    {
+      "id": "mkt:019fb4fa-4e2c-7aab-8f1d-ed50b3ad7ec8",
+      "time": "2026-07-31 05:42:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chile announces restoration of consular relations with Venezuela."
+    },
+    {
+      "id": "5017755",
+      "time": "2026-07-31 05:42:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜CEO： 公司正自研前沿大模型，以此把控成本，併為消費者降低費用。"
+    },
     {
       "id": "5017754",
       "time": "2026-07-31 05:40:58",
@@ -165837,30 +165909,6 @@
         "公司"
       ],
       "text": "英特爾：公司 2026 年採購晶片製造裝置規模將較 2025 年提升 40%。"
-    },
-    {
-      "id": "mkt:019f90ef-2998-7aab-8e73-c91012541936",
-      "time": "2026-07-24 05:43:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's government said it will invoke the reciprocity law and refer the matter to the WTO dispute settlement mechanism."
-    },
-    {
-      "id": "5005424",
-      "time": "2026-07-24 05:43:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西：將啟動適用本國對等反制法案的相關程式，並就此向世界貿易組織爭端解決機制提起訴訟。"
-    },
-    {
-      "id": "5005423",
-      "time": "2026-07-24 05:43:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西：美國貿易代表“操縱”強迫勞動議題。"
     }
   ]
 }
