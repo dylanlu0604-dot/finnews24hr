@@ -1,7 +1,64 @@
 {
   "date": "2026-07-31",
-  "count": 306,
+  "count": 313,
   "items": [
+    {
+      "id": "mkt:019fb489-1eb3-7aab-8f1b-a4a85ba7d687",
+      "time": "2026-07-31 03:38:32",
+      "tags": [
+        "MKT News",
+        "SHOP.N",
+        "Impact bearish"
+      ],
+      "text": "Shopify (SHOP.N) shares hit an intraday low and are trading down more than 5%."
+    },
+    {
+      "id": "5017670",
+      "time": "2026-07-31 03:38:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克政府發言人：伊拉克是受戰爭影響最嚴重的國家。政府未批准在伊拉克境內針對特定地點或團體發動任何襲擊。伊拉克過去沒有、將來也不會允許其領土被用作攻擊鄰國的跳板。"
+    },
+    {
+      "id": "5017669",
+      "time": "2026-07-31 03:37:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "Shopify 美股跌幅擴大，午後觸及盤中低點，最新下跌 5.3%。"
+    },
+    {
+      "id": "mkt:019fb488-2c3a-7aab-8f1b-9b5aec025907",
+      "time": "2026-07-31 03:37:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Mexico's finance ministry said public debt equaled 51% of GDP in Q2, up from 50.4% in Q1."
+    },
+    {
+      "id": "5017668",
+      "time": "2026-07-31 03:37:02",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：為回應民眾高漲的熱情，美國國務院將再次發行25萬本印有美國總統特朗普肖像的“愛國者護照”。"
+    },
+    {
+      "id": "mkt:019fb486-bd9f-7aab-8f1b-9704abd6f20e",
+      "time": "2026-07-31 03:35:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iraq government spokesman said the government has not authorized any attacks from Iraqi territory against specific locations or groups, and that Iraq has not and will not allow its territory to be used as a launchpad for attacks on neighboring countries."
+    },
     {
       "id": "mkt:019fb486-8ed0-7aab-8f1b-8dafaef79bff",
       "time": "2026-07-31 03:35:44",
@@ -9,6 +66,14 @@
         "MKT News"
       ],
       "text": "【TS Lombard: Fed dovish tilt after Warsh comments may open window for Japanese FX intervention】TS Lombard economist Rory Green said Fed Chair Kevin Warsh’s post-decision remarks, read by markets as dovish, may have created an opening for Japan to intervene to support the yen. Markets suspect today’s roughly 2.5% intraday fall in USD/JPY may reflect Japanese official intervention. Green said the Fed’s dovish stance could give Japan’s finance ministry a favorable opportunity to act and noted past interventions were often accompanied by Bank of Japan rate hikes. He added that a BOJ hike tomorrow would still surprise markets, but the meeting is no longer a foregone conclusion."
+    },
+    {
+      "id": "5017667",
+      "time": "2026-07-31 03:35:38",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "墨西哥財政部：二季度公共債務佔國內生產總值比重為 51%，一季度為 50.4%。"
     },
     {
       "id": "mkt:019fb485-4999-7aab-8f1b-879a0a8664ec",
