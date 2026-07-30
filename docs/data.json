@@ -1,7 +1,112 @@
 {
-  "updated": "2026-07-30 21:15:52",
-  "count": 17811,
+  "updated": "2026-07-30 21:19:50",
+  "count": 17803,
   "items": [
+    {
+      "id": "5017179",
+      "time": "2026-07-30 21:19:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "被問及是否仍對沃什有信心時,白宮國家經濟委員會主任哈塞特稱“當然”。"
+    },
+    {
+      "id": "5017178",
+      "time": "2026-07-30 21:18:49",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【花旗：繼續視Arm為AI基礎設施主要受惠者，目標價300美元】花旗發表研報指，Arm公佈2027財年第一季業績，收入及盈利較市場預期高出1%及11%，第二財季收入及盈利指引中位數則分別較預測高3%及10%。該行指，雲端AI及授權業務強勁增長，有助抵銷手機市場因需求及產品組合轉弱帶來的影響。該行將2027財年收入及經營溢利預測分別上調1%及4%，管理層提到通用人工智慧(AGI) CPU需求已超過20億美元，業務能見度正在改善，因此繼續視Arm為AI基礎設施主要受惠者，相信近期股價回撥將提供更吸引的入市機會，維持“買入”評級，目標價300美元。花旗將Arm2027至2030財年收入預測上調約1%，以反映授權業務強勁，部分被手機專利權收入轉弱所抵銷；2027及2029財年盈利預測分別上調4%及1%。"
+    },
+    {
+      "id": "mkt:019fb32d-7146-7aab-8f14-8f05432a2ee5",
+      "time": "2026-07-30 21:18:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Market note: By 2035 U.S. data centers' electricity consumption could approach 20% of national demand, up from about 5.9% today."
+    },
+    {
+      "id": "5017177",
+      "time": "2026-07-30 21:18:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特： 結合今日通脹資料來看，沃什當前的工作壓力有所減輕。"
+    },
+    {
+      "id": "5017176",
+      "time": "2026-07-30 21:18:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "提示：白宮國家經濟委員會主任發表講話。"
+    },
+    {
+      "id": "mkt:019fb32c-c58c-7aab-8f14-82a52067babb",
+      "time": "2026-07-30 21:18:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Coking coal main futures contract continued to weaken, down 3.00% intraday to 1,199 yuan/ton."
+    },
+    {
+      "id": "5017175",
+      "time": "2026-07-30 21:17:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【據悉明星AI投資者在蒙受鉅額虧損後正在平倉】知情人士透露，由前OpenAI研究員Leopold Aschenbrenner創立、管理規模達240億美元的對沖基金Situational Awareness，在人工智慧概念股大幅下跌以及做空軟體股的押注失利後，正陸續平倉多項交易，並忙於籌措資金。知情人士表示，近幾周，Situational Awareness遭受重大損失。其持有的AI基礎設施投資（如SK海力士）股價下跌，而其針對Adobe等軟體公司的空頭頭寸則出現大幅虧損。目前尚無法確定該基金是透過協商出售資產來滿足追加保證金要求，還是已開始對整個投資組合進行更大範圍的清算。知情人士還表示，該基金還試圖透過出售未上市公司的股權來籌集流動性，其中包括其持有的Anthropic股份。目前尚不清楚該基金擬出售Anthropic股份的具體規模，不過熟悉交易流程的人士表示，已有潛在買家表示有意收購部分或全部股份。"
+    },
+    {
+      "id": "mkt:019fb32c-096a-7aab-8f14-7d14e6a02cfd",
+      "time": "2026-07-30 21:17:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "000660.KS",
+        "Impact bearish",
+        "ADBE.O",
+        "Impact bullish"
+      ],
+      "text": "【Report: $24bn hedge fund Situational Awareness liquidating positions after heavy losses】CNBC sources say Situational Awareness, a hedge fund founded by former OpenAI researcher Leopold Aschenbrenner and managing about $24bn, is unwinding trades after taking heavy losses in recent weeks. Losses followed a sell-off in AI-concept names and failed shorts on software firms: its AI-infrastructure holdings including SK Hynix fell, while short positions against Adobe incurred large losses. The fund is reportedly raising liquidity and has been selling assets, including stakes in private companies such as Anthropic; potential buyers have expressed interest in part or all of the Anthropic holding. Sources say it is unclear whether sales are negotiated to meet margin calls or part of a broader portfolio liquidation."
+    },
+    {
+      "id": "5017174",
+      "time": "2026-07-30 21:16:51",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【2026人工智慧產品應用博覽會在蘇州開幕】7月30日，2026人工智慧產品應用博覽會在蘇州國際博覽中心開幕。省委常委、蘇州市委書記範波，市委副書記、市長王維出席開幕式。十四屆全國政協常委、中國電子學會理事長徐曉蘭，中國工程院院士、新一代人工智慧聯盟理事長高文影片致辭。（蘇州日報）"
+    },
+    {
+      "id": "5017173",
+      "time": "2026-07-30 21:16:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌3%，現報1198.00元。"
+    },
+    {
+      "id": "mkt:019fb32a-96e1-7aab-8f14-760c1a1de1a8",
+      "time": "2026-07-30 21:15:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International crude extends intraday decline to 2%】US and Brent crude losses widen to 2% intraday; WTI at $81.8/bbl, Brent briefly traded below $86/bbl."
+    },
     {
       "id": "5017172",
       "time": "2026-07-30 21:14:58",
@@ -164314,183 +164419,6 @@
         "Energy"
       ],
       "text": "ECB President Lagarde said staff are preparing oil and gas analysis for the September meeting."
-    },
-    {
-      "id": "5004929",
-      "time": "2026-07-23 21:19:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "拉加德：已要求工作人員為 9 月議息會議研究多種油氣價格情景。"
-    },
-    {
-      "id": "5004928",
-      "time": "2026-07-23 21:19:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "諾福克南方鐵路公司業績公佈後，盤前股價上漲4.6%。"
-    },
-    {
-      "id": "mkt:019f8f20-fc53-7aab-8e6c-4fb2313dd1d7",
-      "time": "2026-07-23 21:18:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "South African Reserve Bank governor said headline inflation will remain within the tolerance range, approach 3% by the end of next year, and should reach the target in 2028 and 2029."
-    },
-    {
-      "id": "5004927",
-      "time": "2026-07-23 21:18:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "拉加德：海灣地區近期局勢令人擔憂。"
-    },
-    {
-      "id": "5004926",
-      "time": "2026-07-23 21:18:43",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "南非央行行長表示：整體通脹將處於容忍區間內，到明年底將回落至接近3%的水平，在2028年至2029年期間，通脹將恰好達到目標水平。"
-    },
-    {
-      "id": "mkt:019f8f20-b022-7aab-8e6c-47d8d29d6bd3",
-      "time": "2026-07-23 21:18:31",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "ECB President Lagarde said recent developments in the Gulf are worrying."
-    },
-    {
-      "id": "mkt:019f8f20-a8b6-7aab-8e6c-3dcfc73362ba",
-      "time": "2026-07-23 21:18:29",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Lagarde: growth outlook faces downside risks】ECB President Lagarde said the conflict remains the main source of uncertainty; the bank is monitoring the magnitude and persistence of energy price rises and how they affect inflation expectations in price- and wage-setting and broader economic dynamics. She warned the growth outlook faces downside risks, with leading indicators signalling subdued near-term growth from the energy shock and related uncertainty, while medium-term growth fundamentals remain intact."
-    },
-    {
-      "id": "5004925",
-      "time": "2026-07-23 21:18:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國務卿：目前無法迅速推動俄烏達成協議】美國國務卿魯比奧23日在菲律賓馬尼拉表示，目前沒有能夠迅速推動俄烏衝突雙方達成協議的路徑。魯比奧當天對記者說：“挑戰在於如何推動達成一個雙方都能接受的結果。我們之前嘗試過，後面將繼續嘗試，看看能否找到一個雙方都能接受的中間立場。”關於對烏援助，魯比奧表示，美國對烏克蘭的軍事支援將保持不變，將繼續在北約框架內向烏克蘭提供武器。俄羅斯總統新聞秘書佩斯科夫23日在新聞釋出會上說，俄烏衝突有關方面同意繼續保持外交接觸，這具有積極意義，但目前對是否有望加快解決衝突，尚不能過於樂觀。據俄羅斯方面訊息，俄外長拉夫羅夫23日在馬尼拉與美方會談時重申，俄羅斯願透過政治外交努力解決衝突。(央視新聞)"
-    },
-    {
-      "id": "5004924",
-      "time": "2026-07-23 21:17:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "路透調查：倫敦金屬交易所（LME）現貨鋅價格預計在2026年平均為每噸3,385美元，2027年為每噸3,138美元，而2025年為每噸2,867美元。倫敦金屬交易所（LME）現貨鉛預計在2026年平均為每噸1,954美元，2027年為每噸1,975美元，而2025年為每噸1,962美元。倫敦金屬交易所（LME）現貨鎳預計在2026年平均為每噸17,445美元，2027年為每噸17,375美元，而2025年為每噸15,154美元。倫敦金屬交易所（LME）現貨錫價格預計在2026年平均為50,700美元/噸，2027年為49,813美元/噸，而2025年為34,096美元/噸。"
-    },
-    {
-      "id": "mkt:019f8f1f-f1f9-7aab-8e6c-375139198529",
-      "time": "2026-07-23 21:17:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's Prime Minister's Office said Saudi Arabia joining the Abraham Accords would be a historic leap for Middle East peace."
-    },
-    {
-      "id": "mkt:019f8f1f-b857-7aab-8e6c-2e60eb2e2e89",
-      "time": "2026-07-23 21:17:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "REUTERS SURVEY: Nickel market forecast to be oversupplied by 110,056 tonnes in 2026 and by 57,000 tonnes in 2027."
-    },
-    {
-      "id": "mkt:019f8f1f-902d-7aab-8e6c-26940ce52c73",
-      "time": "2026-07-23 21:17:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "REUTERS SURVEY: LME spot tin is expected to average $34,096/tonne in 2025, $50,700/tonne in 2026 and $49,813/tonne in 2027."
-    },
-    {
-      "id": "mkt:019f8f1f-5d13-7aab-8e6c-1d2b0a6aa681",
-      "time": "2026-07-23 21:17:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "REUTERS SURVEY: LME spot nickel is forecast to average $15,154/tonne in 2025, $17,445/tonne in 2026 and $17,375/tonne in 2027."
-    },
-    {
-      "id": "mkt:019f8f1f-4b63-7aab-8e6c-12d2b5b4485b",
-      "time": "2026-07-23 21:17:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Reuters survey: LME spot lead expected to average $1,954/tonne in 2026, $1,975/tonne in 2027 and $1,962/tonne in 2025."
-    },
-    {
-      "id": "mkt:019f8f1f-1f33-7aab-8e6c-0ed5d47d1965",
-      "time": "2026-07-23 21:16:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Reuters survey: LME spot zinc prices are expected to average $2,867 per tonne in 2025, $3,385 per tonne in 2026 and $3,138 per tonne in 2027."
-    },
-    {
-      "id": "mkt:019f8f1e-fb8e-7aab-8e6c-0683eb53b26d",
-      "time": "2026-07-23 21:16:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "China's SC front-month crude futures strengthened intraday, up 4.26% to 587.9 yuan/barrel; turnover exceeded CNY10.8 billion. Open interest rose by nearly 2,000 lots as volume and liquidity increased."
-    },
-    {
-      "id": "mkt:019f8f1e-aba8-7aab-8e6b-fd98cea1c9cb",
-      "time": "2026-07-23 21:16:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB President Lagarde: We have returned to the baseline scenario."
-    },
-    {
-      "id": "5004923",
-      "time": "2026-07-23 21:16:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "拉加德：我們迴歸基準政策路徑。"
-    },
-    {
-      "id": "mkt:019f8f1e-6672-7aab-8e6b-f4b55c63e03e",
-      "time": "2026-07-23 21:16:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "REUTERS SURVEY: LME spot aluminium average price forecast at $2,630/tonne in 2025, $3,307/tonne in 2026 and $3,075/tonne in 2027."
     }
   ]
 }

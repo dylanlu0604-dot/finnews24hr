@@ -1,7 +1,112 @@
 {
   "date": "2026-07-30",
-  "count": 3577,
+  "count": 3588,
   "items": [
+    {
+      "id": "5017179",
+      "time": "2026-07-30 21:19:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "被問及是否仍對沃什有信心時,白宮國家經濟委員會主任哈塞特稱“當然”。"
+    },
+    {
+      "id": "5017178",
+      "time": "2026-07-30 21:18:49",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【花旗：繼續視Arm為AI基礎設施主要受惠者，目標價300美元】花旗發表研報指，Arm公佈2027財年第一季業績，收入及盈利較市場預期高出1%及11%，第二財季收入及盈利指引中位數則分別較預測高3%及10%。該行指，雲端AI及授權業務強勁增長，有助抵銷手機市場因需求及產品組合轉弱帶來的影響。該行將2027財年收入及經營溢利預測分別上調1%及4%，管理層提到通用人工智慧(AGI) CPU需求已超過20億美元，業務能見度正在改善，因此繼續視Arm為AI基礎設施主要受惠者，相信近期股價回撥將提供更吸引的入市機會，維持“買入”評級，目標價300美元。花旗將Arm2027至2030財年收入預測上調約1%，以反映授權業務強勁，部分被手機專利權收入轉弱所抵銷；2027及2029財年盈利預測分別上調4%及1%。"
+    },
+    {
+      "id": "mkt:019fb32d-7146-7aab-8f14-8f05432a2ee5",
+      "time": "2026-07-30 21:18:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Market note: By 2035 U.S. data centers' electricity consumption could approach 20% of national demand, up from about 5.9% today."
+    },
+    {
+      "id": "5017177",
+      "time": "2026-07-30 21:18:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特： 結合今日通脹資料來看，沃什當前的工作壓力有所減輕。"
+    },
+    {
+      "id": "5017176",
+      "time": "2026-07-30 21:18:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "提示：白宮國家經濟委員會主任發表講話。"
+    },
+    {
+      "id": "mkt:019fb32c-c58c-7aab-8f14-82a52067babb",
+      "time": "2026-07-30 21:18:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Coking coal main futures contract continued to weaken, down 3.00% intraday to 1,199 yuan/ton."
+    },
+    {
+      "id": "5017175",
+      "time": "2026-07-30 21:17:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【據悉明星AI投資者在蒙受鉅額虧損後正在平倉】知情人士透露，由前OpenAI研究員Leopold Aschenbrenner創立、管理規模達240億美元的對沖基金Situational Awareness，在人工智慧概念股大幅下跌以及做空軟體股的押注失利後，正陸續平倉多項交易，並忙於籌措資金。知情人士表示，近幾周，Situational Awareness遭受重大損失。其持有的AI基礎設施投資（如SK海力士）股價下跌，而其針對Adobe等軟體公司的空頭頭寸則出現大幅虧損。目前尚無法確定該基金是透過協商出售資產來滿足追加保證金要求，還是已開始對整個投資組合進行更大範圍的清算。知情人士還表示，該基金還試圖透過出售未上市公司的股權來籌集流動性，其中包括其持有的Anthropic股份。目前尚不清楚該基金擬出售Anthropic股份的具體規模，不過熟悉交易流程的人士表示，已有潛在買家表示有意收購部分或全部股份。"
+    },
+    {
+      "id": "mkt:019fb32c-096a-7aab-8f14-7d14e6a02cfd",
+      "time": "2026-07-30 21:17:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "000660.KS",
+        "Impact bearish",
+        "ADBE.O",
+        "Impact bullish"
+      ],
+      "text": "【Report: $24bn hedge fund Situational Awareness liquidating positions after heavy losses】CNBC sources say Situational Awareness, a hedge fund founded by former OpenAI researcher Leopold Aschenbrenner and managing about $24bn, is unwinding trades after taking heavy losses in recent weeks. Losses followed a sell-off in AI-concept names and failed shorts on software firms: its AI-infrastructure holdings including SK Hynix fell, while short positions against Adobe incurred large losses. The fund is reportedly raising liquidity and has been selling assets, including stakes in private companies such as Anthropic; potential buyers have expressed interest in part or all of the Anthropic holding. Sources say it is unclear whether sales are negotiated to meet margin calls or part of a broader portfolio liquidation."
+    },
+    {
+      "id": "5017174",
+      "time": "2026-07-30 21:16:51",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【2026人工智慧產品應用博覽會在蘇州開幕】7月30日，2026人工智慧產品應用博覽會在蘇州國際博覽中心開幕。省委常委、蘇州市委書記範波，市委副書記、市長王維出席開幕式。十四屆全國政協常委、中國電子學會理事長徐曉蘭，中國工程院院士、新一代人工智慧聯盟理事長高文影片致辭。（蘇州日報）"
+    },
+    {
+      "id": "5017173",
+      "time": "2026-07-30 21:16:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌3%，現報1198.00元。"
+    },
+    {
+      "id": "mkt:019fb32a-96e1-7aab-8f14-760c1a1de1a8",
+      "time": "2026-07-30 21:15:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International crude extends intraday decline to 2%】US and Brent crude losses widen to 2% intraday; WTI at $81.8/bbl, Brent briefly traded below $86/bbl."
+    },
     {
       "id": "5017172",
       "time": "2026-07-30 21:14:58",
