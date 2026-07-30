@@ -1,7 +1,92 @@
 {
   "date": "2026-07-31",
-  "count": 27,
+  "count": 37,
   "items": [
+    {
+      "id": "mkt:019fb3d2-788e-7aab-8f18-c665a83d4b4b",
+      "time": "2026-07-31 00:19:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Saudi defense ministry said delegations from 43 countries and the EU attended a meeting on a proposed maritime defense alliance."
+    },
+    {
+      "id": "5017492",
+      "time": "2026-07-31 00:18:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特國防部表示，共有43個國家以及歐盟代表團參加了擬議海上防禦聯盟的相關會議。"
+    },
+    {
+      "id": "5017491",
+      "time": "2026-07-31 00:18:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國考慮向畢業後留美工作的外國學生收取 10 萬美元費用。"
+    },
+    {
+      "id": "mkt:019fb3d1-b427-7aab-8f18-be85321848d5",
+      "time": "2026-07-31 00:18:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Culture Minister Nandy said she strongly supports the principled decision to boycott FIFA, adding that football belongs to fans, not billionaire investors, and it is time to protect the game."
+    },
+    {
+      "id": "mkt:019fb3d1-5893-7aab-8f18-b6834424ed43",
+      "time": "2026-07-31 00:17:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia convened an international meeting to discuss forming a maritime defense alliance, according to a statement."
+    },
+    {
+      "id": "mkt:019fb3d0-eb93-7aab-8f18-af058feb41c9",
+      "time": "2026-07-31 00:17:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Al Jazeera reports Israeli forces bombed Taybeh in southern Lebanon."
+    },
+    {
+      "id": "5017490",
+      "time": "2026-07-31 00:17:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國文化大臣：足球屬於球迷，而非億萬富豪投資者，是時候挺身而出，保護我們的足球運動了。"
+    },
+    {
+      "id": "5017489",
+      "time": "2026-07-31 00:16:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府支援歐足聯抵制世界盃的表態。"
+    },
+    {
+      "id": "5017488",
+      "time": "2026-07-31 00:16:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯將主辦國際會議，討論組建海上防禦聯盟。"
+    },
+    {
+      "id": "5017487",
+      "time": "2026-07-31 00:15:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國密歇根州衛生部門：截至7月30日，共報告10386例環孢子蟲感染病例。"
+    },
     {
       "id": "5017486",
       "time": "2026-07-31 00:15:26",
