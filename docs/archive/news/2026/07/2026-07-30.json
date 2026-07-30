@@ -1,7 +1,104 @@
 {
   "date": "2026-07-30",
-  "count": 2123,
+  "count": 2134,
   "items": [
+    {
+      "id": "mkt:019fb1ea-fcd9-7aab-8f08-1a017e8458f3",
+      "time": "2026-07-30 15:26:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's defense ministry says Philippine illegal attempts on Scarborough Shoal will not succeed】At a July 30 press briefing, China's defense ministry spokesman Jiang Bin said Philippine government vessels repeatedly intruded into waters around Scarborough Shoal and were lawfully expelled by the China Coast Guard. He criticised Philippine–U.S.–Japan \"joint patrols\" in the area, saying defence cooperation should not target third parties or harm regional stability. Jiang reiterated Scarborough Shoal is China’s inherent territory and outside Philippine territory as defined by treaties, and said Philippine manoeuvres will not change that fact. He added the Chinese military remains on high alert and will resolutely counter any infringements to defend territorial sovereignty and maritime rights and maintain South China Sea stability."
+    },
+    {
+      "id": "5016136",
+      "time": "2026-07-30 15:26:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐萊雅股價漲幅擴大，上漲2.6%。"
+    },
+    {
+      "id": "5016135",
+      "time": "2026-07-30 15:26:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Webuild執行長：中東衝突受影響地區存在90億歐元商業專案。"
+    },
+    {
+      "id": "5016134",
+      "time": "2026-07-30 15:25:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國防部：日方罔顧事實“指礁為島”根本站不住腳】據報道，日本防衛省稱，中俄海軍共4艘艦艇在衝之鳥礁西南海域航行期間，1艘中國軍艦在日本專屬經濟區內實施了射擊訓練。國防部新聞發言人蔣斌表示，中俄兩軍聯合巡航海域是公海，不是日方所謂的專屬經濟區。眾所周知，衝之鳥礁面積不足10平米、靠人工加固才勉強露出海面，且無法維持人類生存，完全不符合《聯合國海洋法公約》關於島嶼的界定。日方罔顧事實“指礁為島”，並以此主張專屬經濟區和大陸架，根本站不住腳。中俄有關行動符合國際法和國際慣例，日方無權說三道四，煽宣炒作只會適得其反。"
+    },
+    {
+      "id": "te:economy:571088",
+      "time": "2026-07-30 15:25:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Interest Rate",
+        "Importance 3"
+      ],
+      "text": "Bank of England Poised to Hold Rates — The Bank of England is widely expected to leave its benchmark interest rate unchanged at 3.75% as policymakers weigh weak economic growth against the risk of renewed inflationary pressures stemming from the escalating conflict between the US and Iran. Although UK inflation eased to 2.6% in June, largely due to lower fuel prices during a brief lull in Middle East tensions, the recent resurgence in hostilities is expected to keep price pressures elevated and inflation above the Bank's 2% target. The outlook offers little support for Prime Minister Andy Burnham, who has pledged to reduce living costs but has yet to outline how those measures will be financed. Governor Andrew Bailey recently acknowledged concerns over the renewed conflict but said it had not materially altered the UK's inflation outlook. While most economists expect rates to remain unchanged through year-end, financial markets continue to price in a quarter-point increase by November."
+    },
+    {
+      "id": "5016133",
+      "time": "2026-07-30 15:25:03",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【幣安美國計劃向CFTC申請牌照 進軍風頭正勁的預測市場】幣安美國(Binance.US)執行長週三在一次會議上表示，該公司計劃向美國商品期貨交易委員會(CFTC)申請牌照，以助建立自己的預測市場。據一位發言人稱，幣安美國執行長Steven Gregory在拉斯維加斯的Rare Evo大會上表示，該公司計劃下個月申請指定合同市場許可證。幣安美國與規模更大的全球交易所幣安分開運營。CFTC拒絕置評。"
+    },
+    {
+      "id": "5016132",
+      "time": "2026-07-30 15:24:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦說美伊仍在就霍爾木茲海峽問題進行談判】巴基斯坦外交部發言人塔希爾·安德拉比30日在伊斯蘭堡對媒體說，美國和伊朗之間的談判“仍在進行”，特別是在霍爾木茲海峽問題以及局勢降級方面。（新華社）"
+    },
+    {
+      "id": "5016131",
+      "time": "2026-07-30 15:24:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州交通投資集團原副總經理、總會計師王勁松接受審查調查】據貴州省紀委省監委派駐省交通運輸廳紀檢監察組、銅仁市紀委監委訊息：貴州交通投資集團有限公司原黨委委員、副總經理、總會計師王勁松涉嫌嚴重違紀違法，目前正接受貴州省紀委省監委派駐省交通運輸廳紀檢監察組紀律審查和銅仁市監委監察調查。"
+    },
+    {
+      "id": "5016130",
+      "time": "2026-07-30 15:24:09",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【德明利回應質疑：公司整體經營狀況良好】今日午後，儲存晶片概念探底回升，德明利經過資金博弈最終漲停，在今日的大漲之前，德明利曾於2026年6月下旬觸及980元的歷史高點，此後遭遇連續多個跌停，股價一路下探至334元附近。截至今日收盤，該股報390.04元，較高點跌去六成。德明利今日在互動平臺上表示，公司整體經營狀況良好，公司第二季度預計可實現營業收入84.62億元至104.62億元，同比增長196%至266%，環比增長12%至39%。"
+    },
+    {
+      "id": "5016129",
+      "time": "2026-07-30 15:23:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國防部：無論菲方拉誰站臺非法圖謀不會得逞】7月30日下午，國防部舉行例行記者會，國防部新聞發言人蔣斌大校答記者提問。 有記者問：據報道，近期菲律賓公務船多次侵闖中國黃巖島管轄海域，中國海警依法予以驅離。菲美日位相關海空域開展所謂“聯合巡航”。請問對此發言人有何評論？ 蔣斌：有關國家間的防務安全合作不應針對第三方，不得損害地區和平穩定。黃巖島是中國固有領土。菲律賓的領土範圍由一系列國際條約所確定，黃巖島在其領土範圍之外，無論菲方搞什麼小動作，拉誰站臺，都改變不了這一客觀事實。非法圖謀也不可能得逞。中國軍隊保持高度戒備，堅決反制任何侵權挑釁行徑。以實際行動捍衛國家領土主權和海洋權益，維護南海和平穩定。（央視軍事）"
+    },
+    {
+      "id": "5016128",
+      "time": "2026-07-30 15:23:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "雷諾集團執行長表示：集團暫無進一步減產計劃，不存在產能過剩問題。"
+    },
     {
       "id": "5016126",
       "time": "2026-07-30 15:22:12",
