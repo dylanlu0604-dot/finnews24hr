@@ -1,7 +1,120 @@
 {
-  "updated": "2026-07-31 07:24:51",
-  "count": 17942,
+  "updated": "2026-07-31 07:28:49",
+  "count": 17945,
   "items": [
+    {
+      "id": "te:markets:571367",
+      "time": "2026-07-31 07:27:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Heads for Strong Monthly Advance — Brent traded near $89 per barrel on Friday and was on track to post a monthly gain of almost 25% as renewed fighting between the US and Iran threatened further disruptions to Middle Eastern energy supplies. The US military launched fresh strikes on Iranian targets in response to Tehran’s attacks on US assets across the region, dimming hopes for any near-term diplomatic breakthrough. Still, tanker traffic through the Strait of Hormuz increased after a recent slowdown, allowing millions of barrels of crude to pass. Meanwhile, in the Red Sea, Saudi Arabia held talks with representatives from 43 countries about forming a maritime coalition to safeguard shipping routes following the blockade imposed by Iran-backed Houthi militants last week. Elsewhere, traders also remained wary of supply disruptions in the Black Sea after loadings at the export terminal critical to Kazakhstan’s crude shipments were suspended once again this week following fresh attacks on oil tankers."
+    },
+    {
+      "id": "5017834",
+      "time": "2026-07-31 07:27:26",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【微軟創下美國公司史上最大單日市值增幅】矽谷在人工智慧(AI)領域投入了天文數字般的資金，華爾街則擔心這些投資會打水漂，兩者之間的緊張情緒一直令市場劇烈波動。隨後，微軟在一天之內市值暴增近5,000億美元。微軟股價大漲16%。該公司此前釋出的財報平息了市場的擔憂，即對資料中心、晶片等領域的投資增速將超過該公司創造現金的能力。微軟單日市值猛增4,500億美元，創下美國企業有史以來的最大單日增幅。Meta Platforms的境遇則截然相反。有預測顯示，這家Instagram母公司今年下半年的自由現金流將出現自2012年上市以來的首次轉負，受此影響，該公司股價大跌8%。Meta股價連續第11個交易日走低，創下有記錄以來最長的連跌走勢。"
+    },
+    {
+      "id": "5017833",
+      "time": "2026-07-31 07:27:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新股提示：超純應材、國儀公司今日申購】今日可申購超純應材和科創板國儀公司，國儀公司發行總數約4001萬股，網上發行約為640.15萬股，申購程式碼為：787828，申購價格：21.22元，單一賬戶申購上限0.6萬股，申購數量500股整數倍。超純應材發行總數約2546萬股，網上發行約為535萬股，申購程式碼為：301717，申購價格：65.99元，單一賬戶申購上限0.5萬股，申購數量500股整數倍。"
+    },
+    {
+      "id": "mkt:019fb55a-4554-7aab-8f1e-e62139eee773",
+      "time": "2026-07-31 07:26:59",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "A \"peace committee\" official said the group has spent the past eight months working on how to advance related issues, specifically focusing on the disarmament of Hamas."
+    },
+    {
+      "id": "5017832",
+      "time": "2026-07-31 07:26:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【對沖基金Situational Awareness資產規模降至100億美元，此前城堡介入】7月31日訊息，據報道，Leopold Aschenbrenner旗下對沖基金Situational Awareness的資產規模已降至約100億美元，此前Ken Griffin旗下城堡接手該基金持有的大部分股票頭寸。這一規模較幾個月前減少逾一半。近幾周人工智慧股票大跌令該基金蒙受損失後，Situational Awareness開始平倉部分股票頭寸。據悉，本週出售資產所得已用於償還為Situational Awareness提供槓桿融資的銀行。Aschenbrenner是矽谷知名AI研究人員。他曾在2024年發表題為《Situational Awareness》的報告，就AI競賽的風險以及技術變革速度之快發出警告。同年，他創立了這家投資公司。監管檔案顯示，截至去年底，公司約有8名員工。"
+    },
+    {
+      "id": "te:markets:571366",
+      "time": "2026-07-31 07:26:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Heads for Strong Monthly Advance — Crude oil traded near $84 per barrel on Friday and was on track to post a monthly gain of more than 20% as renewed fighting between the US and Iran threatened further disruptions to Middle Eastern energy supplies. The US military launched fresh strikes on Iranian targets in response to Tehran’s attacks on US assets across the region, dimming hopes for any near-term diplomatic breakthrough. Still, tanker traffic through the Strait of Hormuz increased after a recent slowdown, allowing millions of barrels of crude to pass. Meanwhile, in the Red Sea, Saudi Arabia held talks with representatives from 43 countries about forming a maritime coalition to safeguard shipping routes following the blockade imposed by Iran-backed Houthi militants last week. Elsewhere, traders also remained wary of supply disruptions in the Black Sea after loadings at the export terminal critical to Kazakhstan’s crude shipments were suspended once again this week following fresh attacks on oil tankers."
+    },
+    {
+      "id": "mkt:019fb559-ce24-7aab-8f1e-dd2cf532e802",
+      "time": "2026-07-31 07:26:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【ANTHROPIC discloses three security-test intrusions by AI models】ANTHROPIC said on Thursday some of its most capable models accessed real systems without authorization during pre-deployment cybersecurity testing. After OpenAI disclosed a testing-period intrusion into Hugging Face infrastructure, ANTHROPIC reviewed more than 141,000 security assessments and identified three intrusion incidents. A miscommunication with testing partner Irregular left an evaluation environment inadvertently connected to the internet, allowing OPUS 4.7, MYTHOS 5 and an internal research model to reach systems at three organisations during capture-the-flag exercises. The incidents date back to April; ANTHROPIC has notified the three affected parties, two of which had not previously detected the activity. Unlike OpenAI’s case, ANTHROPIC says its models did not exploit zero-day vulnerabilities; access resulted from an environment configuration error. ANTHROPIC also did not deploy extra safeguards during evaluation to measure baseline model capability. The disclosures underscore that frontier AI models can touch real-world systems during security tests, raising questions about how labs secure evaluation environments."
+    },
+    {
+      "id": "mkt:019fb559-b64b-7aab-8f1e-d55c67424e0e",
+      "time": "2026-07-31 07:26:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A Chinese \"Peace Committee\" official said related conditions and requirements will be announced within two weeks."
+    },
+    {
+      "id": "mkt:019fb559-5764-7aab-8f1e-c92d26800fa4",
+      "time": "2026-07-31 07:25:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A \"Peace Committee\" official said the first batch of weapons to be handed over will come from police, to be followed by decommissioning of heavy weapons."
+    },
+    {
+      "id": "5017831",
+      "time": "2026-07-31 07:25:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "和平事務委員會官員：滿足條件的要求將於兩週內公佈。"
+    },
+    {
+      "id": "5017830",
+      "time": "2026-07-31 07:25:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳市分割槽雷電預警訊號】受珠江口南側雷雨雲團北抬影響，深圳市氣象臺於2026年07月31日07時20分發布南山區、寶安區、珠江口和深圳灣雷電預警訊號，預計2-3小時內上述區域將受雷電影響，並伴有7級左右短時大風。市民停留在安全地方。"
+    },
+    {
+      "id": "5017829",
+      "time": "2026-07-31 07:24:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "和平委員會官員：根據計劃實施，加沙所有軍事活動必須停止。"
+    },
     {
       "id": "5017828",
       "time": "2026-07-31 07:24:12",
@@ -165742,86 +165855,6 @@
         "宏觀"
       ],
       "text": "【促消費有了“路線圖” 券商首席經濟學家認為穩就業增收入是關鍵抓手】近日，國務院批覆併發布《擴大消費“十五五”規劃》（下稱《規劃》）。作為消費領域首份國家級專項規劃，這一檔案的出臺進一步明確了消費在經濟發展全域性中的戰略定位。多家券商的首席經濟學家在接受證券時報記者採訪時表示，《規劃》推動促消費政策由短期刺激向中長期制度建設轉變，有助於穩定市場預期、釋放居民消費潛力，為經濟增長動能轉換和高質量發展夯實內需基礎。與此同時，首席經濟學家們認為，居民就業和收入預期偏弱、預防性儲蓄意願較強、服務消費供給不足等問題仍待破解。下一階段，擴大消費應以穩就業、增收入為核心抓手，加快完善社會保障體系，最佳化消費供給，推動居民“有錢消費、敢於消費、願意消費”。"
-    },
-    {
-      "id": "mkt:019f914f-0c49-7aab-8e74-c4dc1995b621",
-      "time": "2026-07-24 07:28:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's state broadcaster reported explosions heard on the southern shore of Qeshm Island."
-    },
-    {
-      "id": "5005500",
-      "time": "2026-07-24 07:27:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【碳酸亞乙烯酯（VC）近一週價格上漲超21%】百川盈孚資料顯示，7月23日，碳酸亞乙烯酯（VC）均價報20萬元/噸，單日漲價2萬元/噸，漲幅11.11%，近一週累計漲幅超過21%，最新價格已超過去年12月17.5萬元/噸的高點，時隔4年多再度站上20萬元/噸。據悉，本輪VC價格走高，主要由於強國標及儲能需求提振，行業庫存見底，電池巨頭提前鎖單等影響。A股中，擁有VC相關產能的上市公司合計有十多家。其中，華盛鋰電目前擁有VC產能1.4萬噸，富祥股份擬將VC年產能從8000噸提升至1萬噸，泰和科技VC專案一期的設計產能為年產1萬噸，孚日股份VC精製產能是1萬噸。此外，新宙邦、海科新源擁有產能約1萬噸，宏源藥業、海辰藥業分別擁有產能7000噸、6000噸。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607243819406495",
-      "time": "2026-07-24 07:27:43",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲到9月累計加息25個基點的機率為57%】據CME“美聯儲觀察”，美聯儲7月維持利率不變的機率為65.3%，累計加息25個基點的機率為34.7%；美聯儲到9月維持利率不變的機率為17.6%，累計加息25個基點的機率為57%，累計加息50個基點的機率為25.4%；美聯儲到12月維持利率不變的機率為7.6%，累計加息25個基點的機率為32.4%，至少加息50個基點的機率為60%。"
-    },
-    {
-      "id": "5005499",
-      "time": "2026-07-24 07:27:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "伊朗國家廣播公司：格什姆島南岸傳出爆炸聲。"
-    },
-    {
-      "id": "5005498",
-      "time": "2026-07-24 07:27:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美洲開發銀行批准 2.04 億美元玻利維亞亞馬遜能源專案】玻利維亞發展規劃部透過簡訊釋出宣告稱，美洲開發銀行已批准總額 2.042 億美元的一攬子融資方案，用於支援玻利維亞北部亞馬遜地區的能源轉型工作。該專案資金將用於電力基礎設施升級及可再生能源專案建設，降低當地對柴油發電的依賴。本次投資預計將惠及貝尼省、潘多省下轄三座城市及偏遠社群的約 20.9 萬名民眾。"
-    },
-    {
-      "id": "5005497",
-      "time": "2026-07-24 07:25:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西將汽油補貼延長30天。"
-    },
-    {
-      "id": "5005496",
-      "time": "2026-07-24 07:25:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AMD蘇姿豐：預計到2030年AI加速器市場將達到1.4萬億美元】AMD CEO蘇姿豐在AMD Advancing AI大會上表示，預計到2030年，資料中心人工智慧加速器市場潛在規模將達到1.4萬億美元，從2025年至2030年的年複合成長率達45%。"
-    },
-    {
-      "id": "te:economy:569403",
-      "time": "2026-07-24 07:25:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "U.S. Sets 10%-12-1/2% Import Tariffs on 60 Trading Partners — The Trump administration announced new tariffs of 10% to 12.5% on imports from about 60 U.S. trading partners, replacing the temporary 10% Section 122 tariffs that expire Friday. The new duties will apply to nearly all U.S. imports, with the administration arguing that the targeted countries have failed to adequately prohibit or enforce restrictions on goods produced with forced labor. Economies with partial bans on forced labor or commitments to strengthen them, including the UK, Canada, Mexico, and India, will face 10% tariffs. Meanwhile, countries deemed to have insufficient safeguards, such as China, South Korea, and Japan, will be subject to 12-1/2% duties. Products already covered by sector-specific or national security-related tariffs are exempt. The move reflects the administration's broader strategy to restore its global tariff agenda after the Supreme Court struck down its earlier tariff framework in February."
-    },
-    {
-      "id": "5005495",
-      "time": "2026-07-24 07:25:05",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【 韓國將繼續與美國財政部在外匯市場開展合作 】 韓國財政部在一份宣告中表示，韓國政府將與美國財政部密切溝通，增進雙方在外匯市場上的相互瞭解和信任。該部表示，將繼續合作穩定外匯市場。此前，美國財政部將韓國繼續列入貨幣監測名單。"
     }
   ]
 }
