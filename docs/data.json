@@ -1,7 +1,211 @@
 {
-  "updated": "2026-07-30 17:18:41",
-  "count": 17878,
+  "updated": "2026-07-30 17:22:36",
+  "count": 17873,
   "items": [
+    {
+      "id": "mkt:019fb254-cc2d-7aab-8f0b-df679b41c957",
+      "time": "2026-07-30 17:22:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's CAC 40 was up 1.00% intraday."
+    },
+    {
+      "id": "te:economy:571168",
+      "time": "2026-07-30 17:21:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Euro Area Consumer Confidence Confirmed at 5-Month High — Consumer confidence in the Euro Area rose for a third straight month, improving to -15.9 in July 2026 from -17.6 in June, matching the preliminary estimate. Confidence across the broader Eurozone strengthened notably, supported by gains across all key components of the survey. Consumers expressed greater optimism about the economic outlook in their country, while assessments of both their past and expected household financial situation improved. Intentions to make major purchases also increased, reflecting a broad-based recovery in consumer sentiment."
+    },
+    {
+      "id": "mkt:019fb254-62b7-7aab-8f0b-d3d3466bdf08",
+      "time": "2026-07-30 17:21:42",
+      "tags": [
+        "MKT News",
+        "Nasdaq100"
+      ],
+      "text": "Invesco Nasdaq Technology ETF will be suspended from market open on July 31, 2026 and will resume trading at 10:30 on July 31, 2026. Redemption will be processed normally during the suspension."
+    },
+    {
+      "id": "5016480",
+      "time": "2026-07-30 17:21:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康農種業：預計2026年上半年淨利潤1400萬元-1600萬元，同比增長61.13%-84.15%】康農種業公告，預計2026年1月1日至6月30日歸屬於上市公司股東的淨利潤為1400萬元-1600萬元，上年同期為868.85萬元，同比增長61.13%-84.15%。業績增長主要因農曆春節時點較晚致銷售旺季延長，以及西北制種基地成本下降、毛利率提高。"
+    },
+    {
+      "id": "5016479",
+      "time": "2026-07-30 17:21:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【淳中科技：擬受讓控股子公司49%股權 交易價為0元】淳中科技公告稱，公司第四屆董事會第十七次會議審議透過受讓關聯方王志濤持有的控股子公司廣州淳信24%股權、非關聯方黃梓傑持有的25%股權的議案。因兩人合計持有的49%股權尚未實繳，交易價為0元。交易完成後，公司對廣州淳信持股比例將由51%增至100%，其將成全資子公司，合併報表範圍不變。該交易無需股東會審議，不構成重大資產重組。"
+    },
+    {
+      "id": "5016478",
+      "time": "2026-07-30 17:21:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數收盤下跌 0.7%，報 5673.58 點。"
+    },
+    {
+      "id": "mkt:019fb253-fbda-7aab-8f0b-cd762b2cde40",
+      "time": "2026-07-30 17:21:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "E Fund's crude oil LOF will suspend trading from market open on July 31, 2026 and will resume at 10:30 on the same day; redemptions will be processed normally during the suspension."
+    },
+    {
+      "id": "mkt:019fb253-d4a0-7aab-8f0b-c6a77ee079ac",
+      "time": "2026-07-30 17:21:06",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact mixed",
+        "USDJPY"
+      ],
+      "text": "Japanese Prime Minister Sanae Takaichi will seek measures to allow Japan to adjust its consumption tax rate more flexibly."
+    },
+    {
+      "id": "5016477",
+      "time": "2026-07-30 17:20:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：長風藥業計劃發行股票籌集2億港元。"
+    },
+    {
+      "id": "mkt:019fb253-5444-7aab-8f0b-b9dfadda703a",
+      "time": "2026-07-30 17:20:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Scotiabank raised its PT on Microsoft (MSFT.O) to $510 from $470."
+    },
+    {
+      "id": "mkt:019fb253-3349-7aab-8f0b-b30d15a36c87",
+      "time": "2026-07-30 17:20:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)"
+      ],
+      "text": "Harvest Nasdaq ETF will suspend trading from market open on July 31, 2026 and is scheduled to resume at 10:30. Redemption requests will be processed as normal during the suspension."
+    },
+    {
+      "id": "mkt:019fb252-e5f5-7aab-8f0b-aedb2894802d",
+      "time": "2026-07-30 17:20:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Harvest Crude Oil LOF will suspend trading from market open on July 31, 2026 and is scheduled to resume at 10:30 that day; redemption requests will be processed as normal during the suspension."
+    },
+    {
+      "id": "5016476",
+      "time": "2026-07-30 17:19:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國藥現代：乳果糖口服溶液上市許可持有人變更為子公司】國藥現代公告，公司控股子公司國藥致君坪山此前與安徽美來簽署《藥品上市許可轉讓合同》，近日收到國家藥品監督管理局核准簽發的《藥品補充申請批准通知書》，同意乳果糖口服溶液（15ml:10g）上市許可持有人變更為國藥致君坪山。"
+    },
+    {
+      "id": "5016475",
+      "time": "2026-07-30 17:19:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：需要一個能夠靈活調整銷售稅率的系統。"
+    },
+    {
+      "id": "5016474",
+      "time": "2026-07-30 17:19:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【嘉實原油LOF：二級市場交易價格溢價 7月31日停牌後復牌】嘉實原油LOF公告稱，近期該基金二級市場交易價格明顯高於基金份額淨值，7月30日收盤價為2.294元，截至7月28日基金份額淨值為1.8856元。為保護投資者利益，基金於7月31日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權採取相應措施警示風險。管理人提醒投資者關注產品風險，審慎投資。"
+    },
+    {
+      "id": "5016473",
+      "time": "2026-07-30 17:19:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF嘉實：二級市場價格溢價 7月31日開市起停牌】納指ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，7月30日收盤價為1.921元，收盤時基金份額參考淨值為1.7287元。為保護投資者利益，基金於7月31日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若7月31日溢價幅度未有效回落，基金有權採取進一步停牌措施。目前基金運作正常，無應披露而未披露的重大資訊。"
+    },
+    {
+      "id": "5016472",
+      "time": "2026-07-30 17:19:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科淨源：連續十二個月累計涉訴金額達7554.18萬元】科淨源公告稱，截至披露日，公司及子公司連續十二個月累計訴訟、仲裁涉案金額合計7554.18萬元，超公司最近一期經審計淨資產絕對值10%。其中，公司作為原告涉案金額6594.30萬元，作為被告涉案金額959.88萬元，單筆立案超1000萬元的案件共2件，立案金額2209.18萬元。部分案件未開庭、結案或執行完畢，暫無法判斷對公司利潤的具體影響，公司將密切關注進展並及時披露。"
+    },
+    {
+      "id": "5016471",
+      "time": "2026-07-30 17:19:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【申通快遞：228名激勵物件1218.34萬股限售股8月5日解禁】申通快遞公告稱，公司2025年限制性股票激勵計劃首次授予第一個解除限售期解除限售條件已成就。本次可解除限售的激勵物件共228名，解除限售的限制性股票數量為1218.3432萬股，約佔公司總股本的0.80%，可上市流通日期為2026年8月5日。此外，因7名激勵物件離職等原因，擬回購登出374,785股限制性股票，回購價格由5.353元/股調整為5.253元/股。"
+    },
+    {
+      "id": "5016470",
+      "time": "2026-07-30 17:19:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮晟環保：“熱電聯產節能降碳智慧化改造專案”結項】榮晟環保公告稱，2026年7月30日公司召開董事會，同意“熱電聯產節能降碳智慧化改造專案”結項。該專案已達預定可使用狀態，截至6月30日，募集資金承諾投資1億元，累計投入7026.71萬元，利息收入扣除手續費後淨額672.16萬元，節餘3645.45萬元，將繼續存於專戶管理。節餘因成本控制、尾款支付週期長及現金管理收益。後續將合理規劃使用節餘資金並披露。"
+    },
+    {
+      "id": "mkt:019fb251-c78e-7aab-8f0b-a11c85e60089",
+      "time": "2026-07-30 17:18:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bearish",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Ministry of Natural Resources: mining rights holders may apply for exploration and mining permits when registering mining rights】China's Ministry of Natural Resources has opened public consultation on draft Interim Measures for Mining Rights Registration. The draft permits mining rights holders to apply for exploration and mining permits concurrently at the time of mining-rights registration and instructs natural-resources authorities to handle filings under a 'one-window application, coordinated handling' principle to speed processing and reduce applicant burden. Real estate registration agencies may obtain required mining-rights registration materials via information sharing, eliminating the need for applicants to re-submit them."
+    },
+    {
+      "id": "5016469",
+      "time": "2026-07-30 17:18:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：這是消費稅實施以來的首次減稅。"
+    },
+    {
+      "id": "5016468",
+      "time": "2026-07-30 17:18:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星宇股份：披露回購股份前十大股東和無限售股東持股情況】星宇股份公告稱，公司於2026年7月27日召開董事會，審議透過回購股份議案。現根據規定，披露董事會公告回購決議前一交易日（7月27日）登記在冊的前10大股東和前10大無限售條件股東情況。前十大股東中，周曉萍持股比例42.00%；前十大無限售條件股東中，周曉萍同樣居首，香港中央結算有限公司持股8.80%。"
+    },
     {
       "id": "5016467",
       "time": "2026-07-30 17:17:59",
@@ -211,6 +415,14 @@
         "MKT News"
       ],
       "text": "Japan's Prime Minister Takaichi said she will review potential revenue sources, including tapping foreign exchange reserves, boosting non-tax revenues and reforming public spending."
+    },
+    {
+      "id": "5016454",
+      "time": "2026-07-30 17:13:36",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【南開大學田利輝：最佳化逆週期調節機制 提升資本市場內在穩定性】7月30日召開的中央政治局會議強調，深化資本市場投融資綜合改革，提升資本市場韌性和信心。南開大學金融發展研究院院長田利輝認為，這是中央政治局會議對資本市場的最新定調。“韌性”指市場抵禦內外風險衝擊的制度彈性與結構穩定性，“信心”則源於制度公平性與長期回報確定性。"
     },
     {
       "id": "5016453",
@@ -559,6 +771,14 @@
         "市場"
       ],
       "text": "【昀冢科技：股價異常波動 提示多項業務及投資風險】昀冢科技公告稱，公司股票於2026年7月28 - 30日連續三個交易日收盤價格漲幅偏離值累計達30%，屬異常波動。經自查，公司日常經營正常，無應披露未披露重大事項。2025年度淨利潤虧損1.90億元，2026年一季度淨虧損0.53億元，仍處虧損狀態。MLCC業務尚虧，2025年營收6015.24萬元，佔比10.68%，應用於消費電子領域。高效能MLCC專案投資15億元，資金到位、認證及效益均存不確定性。近期股價漲幅大，或有回撥風險。"
+    },
+    {
+      "id": "5016424",
+      "time": "2026-07-30 17:05:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國科學院安光所團隊在氣溶膠光學特性同步檢測領域取得進展】近日，中國科學院安光所方勇華研究員團隊研製了一套雙差分球—管耦合光聲—散射系統，實現了氣溶膠在光譜波段450奈米和532奈米處吸收與散射引數的時空同步測量。相關研究成果以《基於雙差分球—管耦合光聲—散射系統的氣溶膠雙波長光學特性時空同步測量》為題發表於儀器儀表類一區Top期刊《光聲學》。該研究透過積分球光學收集、雙差分聲學共振和頻分同步解調的協同設計，為氣溶膠吸收—散射多引數一體化測量提供了新的系統實現方案，可為大氣氣溶膠輻射效應研究、源排放氣溶膠光學特徵表徵和環境連續監測提供技術支撐。"
     },
     {
       "id": "5016423",
@@ -164742,261 +164962,6 @@
         "公司"
       ],
       "text": "【比亞迪：2025年度利潤分配方案實施 A股派現約32.64億元】比亞迪公告稱，2025年度利潤分配方案已獲2026年6月9日股東會審議透過。以總股本91.17億股為基數，向全體股東每10股派現金紅利3.58元（含稅），現金紅利總額約32.64億元，不送紅股、不轉增。A股股權登記日為2026年7月30日，除權除息日為7月31日。王傳福等4位股東現金紅利由公司自行派發，其餘由中國結算深圳分公司代派，將於7月31日劃入資金賬戶。"
-    },
-    {
-      "id": "5004223",
-      "time": "2026-07-23 17:22:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【日久光電：擬5000萬至1億元回購股份用於維護股東權益】日久光電公告稱，公司擬以自有資金回購股份，用於維護公司價值及股東權益。回購資金總額不低於5000萬元且不超過1億元，回購價格不超過18.22元/股。按此價格測算，預計回購股份數量約274.42萬股-548.85萬股，約佔公司當前總股本的0.9764%-1.9527%。回購期限為自董事會審議透過之日（2026年7月22 日）起3個月內。此外，部分董事、高管擬增持公司股票，增持計劃正在實施中。"
-    },
-    {
-      "id": "5004222",
-      "time": "2026-07-23 17:22:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愛科賽博：首次回購10萬股 支付資金483.32萬元】愛科賽博公告稱，公司於2026年7月22日召開董事會，審議透過以自有資金回購股份方案，回購資金2500萬元 - 5000萬元，回購價格不超111.25元/股，期限自董事會審議透過之日起12個月內。7月23日首次回購股份10萬股，佔總股本0.0867%，成交最高價49.04元/股、最低價47.49元/股，支付資金483.32萬元。本次回購符合規定，公司將按規實施並披露進展。"
-    },
-    {
-      "id": "5004221",
-      "time": "2026-07-23 17:21:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【共進股份：股票交易異常波動 不存在應披露未披露重大資訊】共進股份公告稱，公司股票在2026年7月21日至7月23日連續3個交易日收盤價格漲幅偏離值累計達20%，屬異常波動情形。公司於7月8日、7月17日、7月23日已連續三次觸及該指標。經自查及向控股股東函證，不存在應披露而未披露的重大資訊，生產經營活動正常，未發現媒體報道、市場傳聞等影響股價的因素。公司提醒投資者注意交易風險，理性投資。"
-    },
-    {
-      "id": "5004220",
-      "time": "2026-07-23 17:21:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破93美元/桶，日內漲3.19%。"
-    },
-    {
-      "id": "5004219",
-      "time": "2026-07-23 17:21:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天宸股份：子公司就新能源產業基地廠房簽署5年租賃合同】天宸股份公告稱，子公司天宸能科與新元建設公司就已交付使用的天宸能源光儲一體新能源產業基地專案廠房簽署《租賃合同》。租賃房屋建築面積37,115.95平方米，租賃期限自2026年3月26日至2031年3月25日，出租月租金額14元/平方米，年租金共計623.55萬元。若按期回購則無需支付五年租金，未按期回購需按規定繳納。"
-    },
-    {
-      "id": "5004218",
-      "time": "2026-07-23 17:21:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【豆粕ETF華夏：提示二級市場交易價格溢價風險】豆粕ETF華夏公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。7月23日，其二級市場收盤價為2.243元，收盤時基金份額參考淨值為2.1249元。若7月24日溢價幅度未有效回落，基金有權申請臨時停牌等措施。基金管理人提醒投資者關注產品風險，謹慎投資。"
-    },
-    {
-      "id": "5004217",
-      "time": "2026-07-23 17:21:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納斯達克100ETF大成：提示二級市場交易價格溢價風險】納斯達克100ETF大成公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年7月23日，收盤價為1.737元，收盤時基金份額參考淨值為1.6411元。若7月24日溢價幅度未有效回落，基金有權申請停牌等措施。目前基金運作正常，無應披露未披露重大資訊。提醒投資者關注溢價風險，審慎投資。"
-    },
-    {
-      "id": "5004216",
-      "time": "2026-07-23 17:21:30",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將年終謝克爾對美元匯率預測從1美元兌2.80謝克爾修正為1美元兌2.95謝克爾，認為謝克爾從當前水平升值的空間有限。"
-    },
-    {
-      "id": "mkt:019f8e47-9b2d-7aab-8e61-ba6868536cad",
-      "time": "2026-07-23 17:21:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Market reports: explosions heard in Ukraine's Sumy region."
-    },
-    {
-      "id": "5004215",
-      "time": "2026-07-23 17:21:23",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF嘉實：提示二級市場交易價格溢價風險】納指ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。7月23日，其二級市場收盤價2.001元，收盤時基金份額參考淨值1.8447元。若7月24日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。投資者交易除淨值波動風險外，還受市場供求等因素影響。目前基金運作正常，無應披露未披露重大資訊。"
-    },
-    {
-      "id": "5004214",
-      "time": "2026-07-23 17:21:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF易方達：基金二級市場交易價格溢價 提示投資風險】納指ETF易方達公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。7月23日，其二級市場收盤價為1.964元，收盤時基金份額參考淨值為1.8282元。若7月24日溢價幅度未有效回落，基金有權申請停牌警示風險。基金運作正常，無應披露而未披露的重大資訊。提醒投資者關注溢價風險，審慎投資。"
-    },
-    {
-      "id": "5004213",
-      "time": "2026-07-23 17:21:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡海峽時報指數收盤下跌 0.2%，報 5581.76 點。"
-    },
-    {
-      "id": "5004212",
-      "time": "2026-07-23 17:21:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納斯達克ETF華安：提示二級市場交易價格溢價風險】納斯達克ETF華安公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年7月23日，收盤價為2.363元，收盤時基金份額參考淨值為2.2310元。若7月24日溢價幅度未有效回落，基金有權申請盤中臨時停牌等措施警示風險。目前基金運作正常且無應披露未披露重大資訊，提醒投資者關注溢價風險，審慎投資。"
-    },
-    {
-      "id": "te:markets:569242",
-      "time": "2026-07-23 17:21:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Pairs Early Gains — Copper futures eased to around $6.45 per pound on Thursday, retreating from a seven-week high after a strong rally in the previous session, as weak domestic demand and declining global prices weighed on sentiment. The decline followed a more than 3% jump in the previous session, driven by tighter supply conditions in China after a crackdown on VAT fraud reduced copper scrap availability and boosted demand for refined copper imports. However, gains faded as traders booked profits and concerns over slower demand growth returned. In India, copper futures on the MCX declined, with July contracts falling 0.15% and August contracts dropping 0.29% amid subdued demand from domestic consuming industries. Globally, LME copper slipped 0.37%, while Comex copper also moved lower as the market balanced tightening supply conditions against weaker demand signals."
-    },
-    {
-      "id": "5004211",
-      "time": "2026-07-23 17:21:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF廣發：提示二級市場交易價格溢價風險】納指ETF廣發公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。7月23日，其二級市場收盤價為1.5890元，收盤時基金份額參考淨值為1.4719元。若7月24日溢價幅度未有效回落，基金有權申請停牌等措施。投資者可在二級市場交易或申贖基金，交易價格受多種因素影響。目前基金運作正常，無應披露未披露重大資訊。"
-    },
-    {
-      "id": "5004210",
-      "time": "2026-07-23 17:20:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【嘉實原油LOF：二級市場交易溢價 7月24日開市起停牌】嘉實原油LOF公告稱，近期該基金二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。7月23日，其二級市場收盤價為2.436元，截至7月21日，基金份額淨值為2.0052元。為保護投資者利益，基金於7月24日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權採取臨時停牌等措施警示風險。"
-    },
-    {
-      "id": "5004209",
-      "time": "2026-07-23 17:20:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指科技ETF景順：提示溢價風險並於7月24日短暫停牌】納指科技ETF景順公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，7月23日收盤價為2.604元，收盤時IOPV為2.2312元。為保護投資者利益，基金於7月24日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若7月24日溢價幅度未有效回落，基金有權採取進一步停牌措施。"
-    },
-    {
-      "id": "mkt:019f8e47-0743-7aab-8e61-b234669f97d6",
-      "time": "2026-07-23 17:20:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "JP Morgan raised its year‑end forecast for the Israeli shekel against the dollar to 2.95 from 2.80, saying the shekel has only modest appreciation potential from current levels."
-    },
-    {
-      "id": "5004208",
-      "time": "2026-07-23 17:20:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【原油LOF易方達：提示交易價格溢價風險並實施停復牌】原油LOF易方達公告稱，近期該基金二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。2026年7月23日收盤價為2.136元，截至7月21日基金份額淨值為1.6773元。為保護投資者利益，基金於7月24日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若7月24日溢價幅度未有效回落，基金有權採取進一步措施警示風險。"
-    },
-    {
-      "id": "5004207",
-      "time": "2026-07-23 17:20:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲3%，現報92.89美元/桶。"
-    },
-    {
-      "id": "5004206",
-      "time": "2026-07-23 17:20:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡交易所與明晟（MSCI）達成衍生品全新合作協議。"
-    },
-    {
-      "id": "5004205",
-      "time": "2026-07-23 17:20:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【凌雲光：股東富聯裕展累計減持0.62%】凌雲光公告，股東富聯裕展透過集中競價交易方式累計減持股份294.34萬股，佔公司當前總股本的0.62%；減持期間為2026年5月26日～2026年7月17日，減持價格區間58.5～73元/股，減持總金額1.85億元。當前持股721.76萬股，當前持股比例1.52%。"
-    },
-    {
-      "id": "5004204",
-      "time": "2026-07-23 17:19:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【在三星妥協之後 罷工要求分紅之風擴散至韓國的非AI相關行業】在三星電子迫於員工抗議，同意發放高額獎金之後，韓國各地的工會紛紛舉行集會。據報道，現代汽車的裝配線工人計劃下週舉行為期三天的區域性罷工。他們本週早些時候已採取類似行動，力爭讓公司撥出至多30%的合併後利潤用於發放獎金。與此同時，HD Hyundai Heavy Industries Co.、電信運營商LG Uplus Corp.的工會也都希望發放相當於至少30%營業利潤的分紅。韓華航天、現代電氣希望徹底取消獎金上限。在科技行業，韓國最大即時通訊服務運營商Kakao Corp的數千名員工上月舉行了首次罷工，要求將至多15%的營業利潤用於給員工發獎金。韓國最大搜尋引擎運營商Naver Corp.的工會正與多家關聯公司的工會組建聯盟，以增強集體話語權。始於呼籲三星和SK海力士這兩大韓國晶片製造商分享AI熱潮帶來的鉅額利潤，這場運動如今已蔓延至與AI幾乎無關的行業。這再次提醒大家，投資者在擁有激進工會的國家會面臨怎樣的風險。"
-    },
-    {
-      "id": "te:economy:569240",
-      "time": "2026-07-23 17:19:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Iceland",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Iceland Producer Inflation Hits 4-Year High — Iceland’s producer prices surged by 19.4% year-on-year in June 2026 from a three-year high of 16.8% in the previous month. The latest reading marked the highest level since June 2022, driven by a sharper increase in prices for marine products, which rose 21.9% from 19.6%, and metal products, which accelerated to 45.3% from 38.1% in May. Moreover, inflation in other manufacturing industries increased to 4.1% from 2.5%. Exported products excluding marine products recorded a notable increase of 32.0% from 25.8%, while overall export product inflation also accelerated to 27.9% from 23.2%. On the other hand, producer inflation eased for other components, including food products, which slowed to 3.9% from 5.5%, and products sold domestically, which moderated to 2.3% from 3.6% a month earlier. On a monthly basis, producer prices rose 1.6% in June, easing from a 2.0% increase in the previous month."
-    },
-    {
-      "id": "5004203",
-      "time": "2026-07-23 17:19:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【最高氣溫超40℃，重慶釋出高溫中暑二級預警】7月21日—22日，重慶出現大範圍高溫天氣，渝中、沙坪壩、江津、潼南等13個區縣連續兩天日最高氣溫超過40℃。"
-    },
-    {
-      "id": "5004202",
-      "time": "2026-07-23 17:19:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國盾量子：擬與關聯方開展5214.16萬元日常關聯交易】國盾量子公告稱，公司擬與中電信量子集團簽訂2份銷售商品合同，金額分別為3770.70萬元、1169.55萬元；與中電信量子科技簽訂1份銷售商品合同，金額為273.91萬元。往前追溯12個月，公司（含子公司）與中國電信集團（含子公司）簽訂的關聯交易合同累計為5521.89萬元。本次關聯交易議案尚需提交公司股東會審議。"
-    },
-    {
-      "id": "mkt:019f8e45-43ea-7aab-8e61-a9843d685e00",
-      "time": "2026-07-23 17:18:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A local governor said a Russian strike killed three people in Pavlohrad, Ukraine."
-    },
-    {
-      "id": "5004201",
-      "time": "2026-07-23 17:18:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【香港交易所：歡迎馬來西亞證券交易所獲納入認可證券交易所名單】香港交易所發文稱，歡迎馬來西亞證券交易所獲納入認可證券交易所名單。此舉將使符合條件、並於馬來西亞證券交易所主機板上市的公司能夠申請來港第二上市，為發行人和投資者創造更多跨境市場機遇。"
-    },
-    {
-      "id": "5004200",
-      "time": "2026-07-23 17:18:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "裕信銀行執行長：俄羅斯業務相關處置程序正按預期時間表推進。"
     }
   ]
 }
