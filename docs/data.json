@@ -1,7 +1,100 @@
 {
-  "updated": "2026-07-31 05:11:16",
-  "count": 17891,
+  "updated": "2026-07-31 05:15:09",
+  "count": 17894,
   "items": [
+    {
+      "id": "mkt:019fb4e0-a35f-7aab-8f1c-f0b4016637cf",
+      "time": "2026-07-31 05:14:08",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) CEO Cook said the company's AI features are intuitive, personalized and private."
+    },
+    {
+      "id": "mkt:019fb4e0-6ecb-7aab-8f1c-ee00cce79752",
+      "time": "2026-07-31 05:13:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon (AMZN.O) CEO says 2026 capital expenditure plan remains unchanged at about $200 bln."
+    },
+    {
+      "id": "mkt:019fb4e0-506e-7aab-8f1c-e64ebb3f369a",
+      "time": "2026-07-31 05:13:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Amazon (AMZN.O) CEO said AWS delivered strong growth in both AI-related and non-AI segments."
+    },
+    {
+      "id": "mkt:019fb4e0-4bae-7aab-8f1c-daebe5b033de",
+      "time": "2026-07-31 05:13:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon CEO said customers choose AWS for its broad capabilities in AI inference, other applications and data."
+    },
+    {
+      "id": "5017721",
+      "time": "2026-07-31 05:13:43",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "亞馬遜CEO：2026 年資本支出計劃維持不變，約 2000 億美元。"
+    },
+    {
+      "id": "5017720",
+      "time": "2026-07-31 05:13:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任凱文·哈塞特： 當下，人工智慧正在書寫積極的經濟篇章。"
+    },
+    {
+      "id": "5017719",
+      "time": "2026-07-31 05:12:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任凱文·哈塞特：人工智慧不會導致通貨膨脹。"
+    },
+    {
+      "id": "mkt:019fb4de-404d-7aab-8f1c-d1cfab1db0d8",
+      "time": "2026-07-31 05:11:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Trump administration weighs $100,000 fee for international graduates seeking Optional Practical Training (OPT)】Persons familiar told media the Trump administration is considering a $100,000 fee for international graduates who seek to remain in the United States under Optional Practical Training (OPT). OPT allows international university graduates to work in the US for one to three years on a student visa; the Institute of International Education reported about 300,000 students were on OPT last fall, roughly 25% of foreign students in the US. If enacted, the fee would likely curtail demand for US study and materially affect US universities, Silicon Valley hiring and Wall Street talent pipelines. The proposal mirrors an earlier administration objective to impose a $100,000 charge on H‑1B visas. The Department of Homeland Security said the policy is under internal discussion, is not final, and it is unclear whether it has White House approval or whether the fee would be paid by students or employers."
+    },
     {
       "id": "te:markets:571349",
       "time": "2026-07-31 05:10:24",
@@ -165202,59 +165295,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收跌0.60%，報15140點。"
-    },
-    {
-      "id": "5005412",
-      "time": "2026-07-24 05:13:34",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部：儘管美日利差持續收窄，但日元仍持續走弱，市場不樂見日元匯率過度波動。"
-    },
-    {
-      "id": "mkt:019f90d3-3ad9-7aab-8e73-aa4f0d995fa7",
-      "time": "2026-07-24 05:13:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior US official said goods meeting USMCA rules will be exempt, citing highly integrated North American supply chains and a high share of US content."
-    },
-    {
-      "id": "5005411",
-      "time": "2026-07-24 05:13:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社：當地時間週四晚間，兩枚美國導彈擊中伊朗格什姆島馬桑村附近區域。"
-    },
-    {
-      "id": "mkt:019f90d3-0134-7aab-8e73-a10a3936a919",
-      "time": "2026-07-24 05:12:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "A senior U.S. official said President Trump will use all tools at his disposal to achieve his objectives, including tariffs."
-    },
-    {
-      "id": "mkt:019f90d2-7d8d-7aab-8e73-9bedbb1d2625",
-      "time": "2026-07-24 05:12:21",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "A U.S. senior official said tariff measures on goods in transit will take effect at 12:01 a.m. ET on July 28 (12:01 p.m. Beijing time)."
     }
   ]
 }
