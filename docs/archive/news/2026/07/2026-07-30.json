@@ -1,7 +1,129 @@
 {
   "date": "2026-07-30",
-  "count": 1121,
+  "count": 1135,
   "items": [
+    {
+      "id": "5015507",
+      "time": "2026-07-30 08:50:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長海格塞斯：今天早些時候已與以色列總理內塔尼亞胡會晤。"
+    },
+    {
+      "id": "5015506",
+      "time": "2026-07-30 08:50:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微軟新增資料中心租約超1300億美元】當地時間7月29日，微軟在一份監管檔案中披露，第四財季新增尚未開始執行的資料中心租約承諾超過1300億美元，顯示其AI算力擴張仍在加速。截至6月30日，微軟尚未開始履行的租賃總承諾達到3291億美元，較前一季度的1966億美元大幅上升。"
+    },
+    {
+      "id": "mkt:019fb07f-f6d6-7aab-8efc-fbe92e9ac515",
+      "time": "2026-07-30 08:50:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact mixed"
+      ],
+      "text": "Samsung Electronics will release full Q2 results and host an earnings briefing in 10 minutes."
+    },
+    {
+      "id": "mkt:019fb07f-7727-7aab-8efc-f16a637bff10",
+      "time": "2026-07-30 08:49:31",
+      "tags": [
+        "MKT News",
+        "373220.KS",
+        "Impact mixed"
+      ],
+      "text": "LG Energy Solution reported 1H capital expenditure fell 40% YoY."
+    },
+    {
+      "id": "mkt:019fb07f-3515-7aab-8efc-e8b2293dbeb7",
+      "time": "2026-07-30 08:49:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Defense Secretary Hegseth met Israeli Prime Minister Netanyahu on Wednesday and said they reiterated the strength of the defense partnership and their commitment to advancing shared security interests."
+    },
+    {
+      "id": "mkt:019fb07f-2eec-7aab-8efc-e539263183c8",
+      "time": "2026-07-30 08:49:12",
+      "tags": [
+        "MKT News",
+        "HON.O"
+      ],
+      "text": "【SASAC director Cheng Fubo meets Honeywell Technologies chairman and CEO】On July 29, State-owned Assets Supervision and Administration Commission (SASAC) director Cheng Fubo met Honeywell Technologies' chairman and CEO and discussed deepening cooperation between China's central state-owned enterprises and Honeywell on technology innovation, smart manufacturing and green development."
+    },
+    {
+      "id": "5015505",
+      "time": "2026-07-30 08:48:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本地震17人死6人心肺停止 】據日本熊本縣今天（7月30日）釋出的訊息，地震已造成17人死亡，6人心肺停止，至少1人下落不明。（ CCTV國際時訊  ）"
+    },
+    {
+      "id": "5015504",
+      "time": "2026-07-30 08:48:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺：伊朗阿巴斯港發生爆炸。"
+    },
+    {
+      "id": "mkt:019fb07d-d74b-7aab-8efc-ddf98d59f517",
+      "time": "2026-07-30 08:47:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "【Margin financing across Shanghai and Shenzhen down 25.548 bln yuan】As of July 29, margin financing on the Shanghai Stock Exchange stood at 1,336.695 bln yuan, down 12.316 bln from the prior trading day; Shenzhen was 1,276.274 bln, down 13.232 bln; combined total 2,612.969 bln, down 25.548 bln yuan."
+    },
+    {
+      "id": "5015503",
+      "time": "2026-07-30 08:47:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少255.48億元】截至7月29日，上交所融資餘額報13366.95億元，較前一交易日減少123.16億元；深交所融資餘額報12762.74億元，較前一交易日減少132.32億元；兩市合計26129.69億元，較前一交易日減少255.48億元。"
+    },
+    {
+      "id": "te:economy:570919",
+      "time": "2026-07-30 08:47:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Maintains Base Rate at 4% After Fed Decision — The Hong Kong Monetary Authority (HKMA) kept its base rate unchanged at 4.0% on July 30, 2026, following the U.S. Federal Reserve's decision to leave the federal funds target range unchanged at 3.5%–3.75% at its fifth FOMC meeting of the year. The move reflects Hong Kong's Linked Exchange Rate System, which pegs the Hong Kong dollar within a 7.75–7.85 per U.S. dollar trading band, requiring local interest rates to follow U.S. monetary policy closely regardless of domestic economic conditions. Both the Fed and the HKMA lowered their benchmark rates by a cumulative 75 basis points in 2025, after delivering a combined 100 basis points of rate cuts in 2024."
+    },
+    {
+      "id": "5015501",
+      "time": "2026-07-30 08:47:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺：伊朗的基什島、格什姆島和阿布穆薩島附近發生爆炸。"
+    },
+    {
+      "id": "5015500",
+      "time": "2026-07-30 08:47:01",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【程福波會見美國霍尼韋爾科技董事長兼執行長柯偉茂】7月29日，國務院國資委主任程福波在國資委會見了美國霍尼韋爾科技董事長兼執行長柯偉茂，雙方就加強中央企業與霍尼韋爾科技在技術創新、智慧製造、綠色發展等領域深化合作交換了意見。程福波對柯偉茂一行來訪表示歡迎。他表示，今年5月，習近平主席同特朗普總統共同確定了中美建設性戰略穩定關係的新定位，為下階段中美關係作出了重要戰略指引。國資央企將深入貫徹落實習近平主席重要講話精神，落實國家“十五五”規劃綱要，加快推進高質量發展。霍尼韋爾科技聚焦主業主賽道、以人工智慧賦能製造業的發展理念，與中央企業產業導向契合，雙方合作空間廣闊。希望雙方鞏固深化現有合作成果，繼續發揮各自優勢，在科技創新、企業管理等方面深化更有價值的合作，攜手開拓第三方市場，實現互利共贏發展。柯偉茂簡要介紹了霍尼韋爾公司轉型和業務佈局情況，對國資央企在科技創新、綠色低碳轉型和國際化經營等方面的進展與經驗表示讚賞。他表示，霍尼韋爾科技堅定看好並將繼續深耕中國市場，將持續加大本土化業務創新力度，深化與中央企業在智慧製造、海外拓展等領域的互利合作，更好促進產業可持續發展和轉型升級。（國資委）"
+    },
     {
       "id": "mkt:019fb07d-26d5-7aab-8efc-d5cd10d6d850",
       "time": "2026-07-30 08:46:59",
@@ -31,6 +153,15 @@
         "XAUUSD"
       ],
       "text": "Reports said U.S. HIMARS rockets fired from Kuwait struck targets in Iran."
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825793744",
+      "time": "2026-07-30 08:44:42",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【申萬宏源：美聯儲短期內或“按兵不動”】申萬宏源宏觀團隊最新研報表示，美聯儲短期內或“按兵不動”。一方面，長端利率走高、金融條件收緊或對實體經濟形成抑制，降低美聯儲加息“緊迫性”。另一方面，綜合考慮趨勢性回落的通脹，美聯儲在短期內或可“按兵不動”，未來重點需關注AI投資的通脹效應以及AI對供給側的影響。"
     },
     {
       "id": "5015499",
