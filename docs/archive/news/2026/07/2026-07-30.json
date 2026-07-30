@@ -1,7 +1,147 @@
 {
   "date": "2026-07-30",
-  "count": 3171,
+  "count": 3186,
   "items": [
+    {
+      "id": "5016942",
+      "time": "2026-07-30 19:51:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "與談判的訊息人士透露：哈馬斯解除武裝協議 “看起來具備很高可行性，哈馬斯實際上同意全面解除武裝”。"
+    },
+    {
+      "id": "mkt:019fb2dd-da5d-7aab-8f10-5da764ab1393",
+      "time": "2026-07-30 19:51:51",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "Brent",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "【Economist says BoE hold pragmatic but UK rate path undecided】Suren Thiru, chief economist at the Institute of Chartered Accountants in England and Wales, said the Bank of England’s decision to hold rates was a pragmatic response after inflation undershot forecasts and renewed US‑Iran tensions threatened fresh price upside. He noted a 6-3 MPC split was narrower than expected and that inflation concerns currently outweigh growth worries, keeping a September rate hike live. Thiru said the rate path remains undecided; policy could stay on hold for the rest of the year with policymakers relying on hawkish rhetoric rather than additional hikes. He warned the longer the Iran conflict continues, the greater the risk the committee will lose patience."
+    },
+    {
+      "id": "mkt:019fb2dd-6229-7aab-8f10-52d882b5d98c",
+      "time": "2026-07-30 19:51:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "GBPUSD",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【Bank of England pins policy path to energy prices; Fed keeps policy deliberately uncertain】Analyst Chris Giles said the Bank of England’s scenario projections map the near-term policy choices: if energy stays near current spot and futures prices, the BoE would need to hike rates—possibly materially—to control inflation; if energy falls back to early-month levels, it could continue gradual cuts; if energy eases only modestly, rates would likely remain unchanged. Giles called the scenario-based framework reasonable and broadly similar to the ECB’s. By contrast, he said the Federal Reserve is deliberately maintaining greater policy uncertainty."
+    },
+    {
+      "id": "5016941",
+      "time": "2026-07-30 19:51:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "AI 初創企業 Simile 募資 2 億美元，估值 20 億美元  。"
+    },
+    {
+      "id": "mkt:019fb2dc-8d62-7aab-8f10-4a731300af8d",
+      "time": "2026-07-30 19:50:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukraine's central bank said it is finalizing a decision to lift some wartime foreign-exchange restrictions on firms and households."
+    },
+    {
+      "id": "mkt:019fb2dc-3dd2-7aab-8f10-4404e45396e0",
+      "time": "2026-07-30 19:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "Germany's preliminary July CPI m/m due in 10 minutes."
+    },
+    {
+      "id": "5016940",
+      "time": "2026-07-30 19:50:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【超威半導體美股盤前漲超4%】超威半導體美股盤前漲超4%，現報447.0美元。"
+    },
+    {
+      "id": "5016939",
+      "time": "2026-07-30 19:49:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "烏克蘭央行表示，目前正敲定一攬子決議，將針對企業和民眾放寬部分戰時硬通貨管制措施。"
+    },
+    {
+      "id": "5016938",
+      "time": "2026-07-30 19:49:54",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國7月出口料激增59% 股市暴跌與貿易繁榮上演背離】經濟學家表示，韓國7月整體出口額預計將較上年同期大幅度增長59.0%。隨著全球AI資料中心投資與建設規模激增推動儲存晶片價格上漲，三星電子和SK海力士仍在繼續推動韓國出口大幅增長。韓國統計部門彙編的資料顯示，7月前20天，韓國出口額較上年同期大幅增長52.3%，其中儲存晶片所主導的半導體出口激增大約180.6%。這項調查結果出爐之際，韓國股市正遭遇猛烈拋售。受極端去槓桿與擁擠倉位出清、AI資本開支遲遲不見樂觀回報相關市場擔憂的影響，基準股指——韓國綜合股價指數(即KOSPI指數)本月已下跌逾30%。"
+    },
+    {
+      "id": "5016937",
+      "time": "2026-07-30 19:49:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【劉國洪任自然資源部黨組書記】7月30日下午，中央組織部有關負責同志出席自然資源部領導幹部會議，宣佈中央決定：劉國洪同志任自然資源部黨組書記。"
+    },
+    {
+      "id": "te:markets:571235",
+      "time": "2026-07-30 19:49:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rebound on Thursday — Futures tracking US equities were firmly higher on Thursday, trimming losses from the previous session following a batch of corporate earnings. Contracts for the S&P 500 and the Dow were over 0.5% higher, while those for the Nasdaq 100 gained 1.5%. Microsoft surged nearly 10% premarket after posting a 43% growth in Azure revenue, the most since 2022 and ahead of expectations. This combined with capital expenditure forecasts that did not outpace expectations, limiting concerns of unsustainable AI spending. The result coincided with some respite for chip producers following their selloff yesterday, with Micron and Sandisk rising 3%. Conversely, Meta tanked 10% after its guidance missed expectations, while markets remained skeptical on whether its AI labs will drive revenue as signaled by the hyperscaler. Meanwhile, long-dated yields held their surge after the Fed Chair Warsh's reluctance to signal the Fed may raise rates triggered concerns that inflation could be higher for longer."
+    },
+    {
+      "id": "5016936",
+      "time": "2026-07-30 19:49:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【阿斯麥美股盤前漲超4%】阿斯麥美股盤前漲超4%，現報1613.18美元。"
+    },
+    {
+      "id": "te:economy:571234",
+      "time": "2026-07-30 19:48:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Brazil Loan Growth Edges Up — The value of outstanding loans from the Brazilian financial sector rose by 0.7% from the previous month to R$7.4 trillion in June 2026. Loans extended to corporations rose 1.5% to R$2.7 trillion, while household lending edged up 0.2% to R$4.6 trillion. On an annual basis, total credit expanded 9.7%, slightly above the 9.6% growth recorded in May. Household lending continued to outpace corporate credit, rising 10.8% year-on-year, although easing from 11.2%, while lending to legal entities accelerated to 7.9% from 6.9%. Meanwhile, credit with free resources totaled R$4.2 trillion, up 0.7% from the previous month and 7.5% from a year earlier, as stronger corporate lending partly offset a monthly decline in household credit, which nevertheless remained higher than a year earlier."
+    },
+    {
+      "id": "5016935",
+      "time": "2026-07-30 19:48:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【農產品：擬公開摘牌收購運通冷鏈100%股權 構成關聯交易】農產品公告稱，公司擬透過公開摘牌方式收購農產品流通產業基金和運通資本合計持有的運通冷鏈100%股權，競拍價格以經備案的評估值為基礎，豁免披露競拍價格。因公司副總裁兼任運通資本董事，本次交易構成關聯交易，不構成重大資產重組，無需提交股東會審議。運通冷鏈名下有一塊倉儲用地，收購後可作為深圳海吉星功能延伸。本次交易後續參與競價能否成功摘牌存在不確定性。2026年初至6月30日，公司與關聯人累計關聯交易約6050萬元。"
+    },
     {
       "id": "5016934",
       "time": "2026-07-30 19:48:02",
@@ -27,6 +167,17 @@
         "其他"
       ],
       "text": "【重慶永川頁岩氣實現長週期穩產增產】自2024年5月單月產量首次突破1億立方米以來，重慶永川頁岩氣已連續24個月保持單月產量超1億立方米，最高達1.37億立方米，實現長週期穩產增產。 據介紹，作為重慶頁岩氣開發核心承載區，永川透過強化勘探、鑽井、投產等全流程要素保障，推動產能建設加快落地。穩定釋放的頁岩氣產能，為重慶民生用氣、工業用氣安全穩定供應提供了有力支撐，也為構建清潔低碳、安全高效的現代能源體系和成渝地區雙城經濟圈建設注入清潔能源動能。（新華社）"
+    },
+    {
+      "id": "5016931",
+      "time": "2026-07-30 19:46:04",
+      "tags": [
+        "宏觀",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【7月30日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.中共中央政治局召開會議 決定召開二十屆五中全會 分析研究當前經濟形勢和經濟工作 中共中央總書記習近平主持會議； 2.就當前經濟形勢和下半年經濟工作 中共中央召開黨外人士座談會 習近平主持並發表重要講話； 3.新華社長篇通訊：向著建軍一百年奮鬥目標闊步前行——以習近平同志為核心的黨中央引領人民軍隊書寫強軍興軍新篇章； 4.思想解讀類融媒體片《制勝》今晚播出； 5.中國智造加速出海 人工智慧產品遠銷全球； 6.我國物流總量穩步擴大 需求結構不斷最佳化； 7.文化企業營收平穩增長 新業態發展動能強勁； 8.“電影+”拉動消費鏈不斷延伸 助力暑期文旅升溫； 9.國內聯播快訊： （1）2025年我國“三新”經濟增加值同比增長6.2%； （2）自然資源部修訂印發《臨時用海管理辦法》； （3）我國啟動區劃地名文物名錄建設試點工作； （4）《中華人民共和國反網路暴力法（徵求意見稿）》公開徵求意見； （5）上半年深圳對APEC經濟體進出口同比增長33%； （6）2026“新疆是個好地方”非遺援疆主題展示活動舉辦； 10.美軍結束短暫停火恢復對伊朗打擊 約旦稱攔截伊朗導彈； 11.國際聯播快訊： （1）伊拉克譴責美沙襲擊侵犯其主權； （2）日本熊本縣地震已造成34人死亡； （3）俄稱對烏首都等地目標發動大規模打擊； （4）美聯儲年內連續第5次維持利率不變； （5）法國西班牙林火多處復燃 交通受阻。"
     },
     {
       "id": "mkt:019fb2d8-69fa-7aab-8f10-3ad00919d535",

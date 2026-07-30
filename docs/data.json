@@ -1,7 +1,147 @@
 {
-  "updated": "2026-07-30 19:48:40",
-  "count": 17875,
+  "updated": "2026-07-30 19:52:36",
+  "count": 17872,
   "items": [
+    {
+      "id": "5016942",
+      "time": "2026-07-30 19:51:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "與談判的訊息人士透露：哈馬斯解除武裝協議 “看起來具備很高可行性，哈馬斯實際上同意全面解除武裝”。"
+    },
+    {
+      "id": "mkt:019fb2dd-da5d-7aab-8f10-5da764ab1393",
+      "time": "2026-07-30 19:51:51",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "Brent",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "【Economist says BoE hold pragmatic but UK rate path undecided】Suren Thiru, chief economist at the Institute of Chartered Accountants in England and Wales, said the Bank of England’s decision to hold rates was a pragmatic response after inflation undershot forecasts and renewed US‑Iran tensions threatened fresh price upside. He noted a 6-3 MPC split was narrower than expected and that inflation concerns currently outweigh growth worries, keeping a September rate hike live. Thiru said the rate path remains undecided; policy could stay on hold for the rest of the year with policymakers relying on hawkish rhetoric rather than additional hikes. He warned the longer the Iran conflict continues, the greater the risk the committee will lose patience."
+    },
+    {
+      "id": "mkt:019fb2dd-6229-7aab-8f10-52d882b5d98c",
+      "time": "2026-07-30 19:51:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "GBPUSD",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【Bank of England pins policy path to energy prices; Fed keeps policy deliberately uncertain】Analyst Chris Giles said the Bank of England’s scenario projections map the near-term policy choices: if energy stays near current spot and futures prices, the BoE would need to hike rates—possibly materially—to control inflation; if energy falls back to early-month levels, it could continue gradual cuts; if energy eases only modestly, rates would likely remain unchanged. Giles called the scenario-based framework reasonable and broadly similar to the ECB’s. By contrast, he said the Federal Reserve is deliberately maintaining greater policy uncertainty."
+    },
+    {
+      "id": "5016941",
+      "time": "2026-07-30 19:51:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "AI 初創企業 Simile 募資 2 億美元，估值 20 億美元  。"
+    },
+    {
+      "id": "mkt:019fb2dc-8d62-7aab-8f10-4a731300af8d",
+      "time": "2026-07-30 19:50:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukraine's central bank said it is finalizing a decision to lift some wartime foreign-exchange restrictions on firms and households."
+    },
+    {
+      "id": "mkt:019fb2dc-3dd2-7aab-8f10-4404e45396e0",
+      "time": "2026-07-30 19:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "Germany's preliminary July CPI m/m due in 10 minutes."
+    },
+    {
+      "id": "5016940",
+      "time": "2026-07-30 19:50:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【超威半導體美股盤前漲超4%】超威半導體美股盤前漲超4%，現報447.0美元。"
+    },
+    {
+      "id": "5016939",
+      "time": "2026-07-30 19:49:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "烏克蘭央行表示，目前正敲定一攬子決議，將針對企業和民眾放寬部分戰時硬通貨管制措施。"
+    },
+    {
+      "id": "5016938",
+      "time": "2026-07-30 19:49:54",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國7月出口料激增59% 股市暴跌與貿易繁榮上演背離】經濟學家表示，韓國7月整體出口額預計將較上年同期大幅度增長59.0%。隨著全球AI資料中心投資與建設規模激增推動儲存晶片價格上漲，三星電子和SK海力士仍在繼續推動韓國出口大幅增長。韓國統計部門彙編的資料顯示，7月前20天，韓國出口額較上年同期大幅增長52.3%，其中儲存晶片所主導的半導體出口激增大約180.6%。這項調查結果出爐之際，韓國股市正遭遇猛烈拋售。受極端去槓桿與擁擠倉位出清、AI資本開支遲遲不見樂觀回報相關市場擔憂的影響，基準股指——韓國綜合股價指數(即KOSPI指數)本月已下跌逾30%。"
+    },
+    {
+      "id": "5016937",
+      "time": "2026-07-30 19:49:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【劉國洪任自然資源部黨組書記】7月30日下午，中央組織部有關負責同志出席自然資源部領導幹部會議，宣佈中央決定：劉國洪同志任自然資源部黨組書記。"
+    },
+    {
+      "id": "te:markets:571235",
+      "time": "2026-07-30 19:49:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rebound on Thursday — Futures tracking US equities were firmly higher on Thursday, trimming losses from the previous session following a batch of corporate earnings. Contracts for the S&P 500 and the Dow were over 0.5% higher, while those for the Nasdaq 100 gained 1.5%. Microsoft surged nearly 10% premarket after posting a 43% growth in Azure revenue, the most since 2022 and ahead of expectations. This combined with capital expenditure forecasts that did not outpace expectations, limiting concerns of unsustainable AI spending. The result coincided with some respite for chip producers following their selloff yesterday, with Micron and Sandisk rising 3%. Conversely, Meta tanked 10% after its guidance missed expectations, while markets remained skeptical on whether its AI labs will drive revenue as signaled by the hyperscaler. Meanwhile, long-dated yields held their surge after the Fed Chair Warsh's reluctance to signal the Fed may raise rates triggered concerns that inflation could be higher for longer."
+    },
+    {
+      "id": "5016936",
+      "time": "2026-07-30 19:49:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【阿斯麥美股盤前漲超4%】阿斯麥美股盤前漲超4%，現報1613.18美元。"
+    },
+    {
+      "id": "te:economy:571234",
+      "time": "2026-07-30 19:48:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Brazil Loan Growth Edges Up — The value of outstanding loans from the Brazilian financial sector rose by 0.7% from the previous month to R$7.4 trillion in June 2026. Loans extended to corporations rose 1.5% to R$2.7 trillion, while household lending edged up 0.2% to R$4.6 trillion. On an annual basis, total credit expanded 9.7%, slightly above the 9.6% growth recorded in May. Household lending continued to outpace corporate credit, rising 10.8% year-on-year, although easing from 11.2%, while lending to legal entities accelerated to 7.9% from 6.9%. Meanwhile, credit with free resources totaled R$4.2 trillion, up 0.7% from the previous month and 7.5% from a year earlier, as stronger corporate lending partly offset a monthly decline in household credit, which nevertheless remained higher than a year earlier."
+    },
+    {
+      "id": "5016935",
+      "time": "2026-07-30 19:48:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【農產品：擬公開摘牌收購運通冷鏈100%股權 構成關聯交易】農產品公告稱，公司擬透過公開摘牌方式收購農產品流通產業基金和運通資本合計持有的運通冷鏈100%股權，競拍價格以經備案的評估值為基礎，豁免披露競拍價格。因公司副總裁兼任運通資本董事，本次交易構成關聯交易，不構成重大資產重組，無需提交股東會審議。運通冷鏈名下有一塊倉儲用地，收購後可作為深圳海吉星功能延伸。本次交易後續參與競價能否成功摘牌存在不確定性。2026年初至6月30日，公司與關聯人累計關聯交易約6050萬元。"
+    },
     {
       "id": "5016934",
       "time": "2026-07-30 19:48:02",
@@ -27,6 +167,17 @@
         "其他"
       ],
       "text": "【重慶永川頁岩氣實現長週期穩產增產】自2024年5月單月產量首次突破1億立方米以來，重慶永川頁岩氣已連續24個月保持單月產量超1億立方米，最高達1.37億立方米，實現長週期穩產增產。 據介紹，作為重慶頁岩氣開發核心承載區，永川透過強化勘探、鑽井、投產等全流程要素保障，推動產能建設加快落地。穩定釋放的頁岩氣產能，為重慶民生用氣、工業用氣安全穩定供應提供了有力支撐，也為構建清潔低碳、安全高效的現代能源體系和成渝地區雙城經濟圈建設注入清潔能源動能。（新華社）"
+    },
+    {
+      "id": "5016931",
+      "time": "2026-07-30 19:46:04",
+      "tags": [
+        "宏觀",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【7月30日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.中共中央政治局召開會議 決定召開二十屆五中全會 分析研究當前經濟形勢和經濟工作 中共中央總書記習近平主持會議； 2.就當前經濟形勢和下半年經濟工作 中共中央召開黨外人士座談會 習近平主持並發表重要講話； 3.新華社長篇通訊：向著建軍一百年奮鬥目標闊步前行——以習近平同志為核心的黨中央引領人民軍隊書寫強軍興軍新篇章； 4.思想解讀類融媒體片《制勝》今晚播出； 5.中國智造加速出海 人工智慧產品遠銷全球； 6.我國物流總量穩步擴大 需求結構不斷最佳化； 7.文化企業營收平穩增長 新業態發展動能強勁； 8.“電影+”拉動消費鏈不斷延伸 助力暑期文旅升溫； 9.國內聯播快訊： （1）2025年我國“三新”經濟增加值同比增長6.2%； （2）自然資源部修訂印發《臨時用海管理辦法》； （3）我國啟動區劃地名文物名錄建設試點工作； （4）《中華人民共和國反網路暴力法（徵求意見稿）》公開徵求意見； （5）上半年深圳對APEC經濟體進出口同比增長33%； （6）2026“新疆是個好地方”非遺援疆主題展示活動舉辦； 10.美軍結束短暫停火恢復對伊朗打擊 約旦稱攔截伊朗導彈； 11.國際聯播快訊： （1）伊拉克譴責美沙襲擊侵犯其主權； （2）日本熊本縣地震已造成34人死亡； （3）俄稱對烏首都等地目標發動大規模打擊； （4）美聯儲年內連續第5次維持利率不變； （5）法國西班牙林火多處復燃 交通受阻。"
     },
     {
       "id": "mkt:019fb2d8-69fa-7aab-8f10-3ad00919d535",
@@ -164902,165 +165053,6 @@
         "公司"
       ],
       "text": "【雲創退：公司股票將於2026年7月9日進入退市整理期交易】雲創退公告，公司股票已於2026年7月9日進入退市整理期，退市整理期為15個交易日，預計最後交易日為2026年7月29日。退市整理期屆滿的次一交易日，北京證券交易所將對公司股票予以摘牌，公司股票終止上市。公司目前沒有籌劃或實施重大資產重組的計劃。"
-    },
-    {
-      "id": "te:economy:569279",
-      "time": "2026-07-23 19:52:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Kosovo",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Kosovo Trade Deficit Widens in June — Kosovo recorded a trade deficit of €578.3 million in June 2026, widening from a €498.3 million in the same month a year earlir. Imports rose 17.6% year-on-year to EUR 680.3 million, driven by broad-based increases, with mineral products (15.2%), machinery and electrical equipment (13.0%), and transport equipment (12.0%) accounting for the largest shares. China (15.1%), Germany (13.3%), and Turkey (11.6%) remained the country's leading suppliers. Exports increased at a faster annual pace of 26.9% to EUR 102.0 million, supported by widespread gains, led by base metals and related products (27.4%) and prepared food, beverages, and tobacco (12.7%). North Macedonia (16.7%), Albania (14.3%), Germany (10.1%), and Switzerland (10.0%) were the main export destinations. In the first six months of 2026, Kosovo's cumulative trade deficit widened to EUR 3.09 billion."
-    },
-    {
-      "id": "5004673",
-      "time": "2026-07-23 19:52:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏盛華源：大股東及其一致行動人擬合計減持不超1%股份】宏盛華源公告稱，截至公告披露日，大股東國新建源及其一致行動人建信投資合計持股457087744股，佔總股本17.09%。因自身經營發展需要，自公告披露之日起15個交易日後的3個月內（2026年8月17日-11月16日），二者擬透過集中競價合計減持不超26751550股，即不超總股本的1.00%。本次減持計劃實施存在不確定性，不會對公司治理結構、持續經營等產生重大影響。"
-    },
-    {
-      "id": "5004672",
-      "time": "2026-07-23 19:52:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蜜度CTO劉益東：大模型競賽轉向“真落地”，深耕辦公垂類AI】近兩年，國內大模型行業告別引數競賽的狂熱，迎來理性落地的新階段。從千億級通用模型密集迭代，到智慧體（Agent）成為產業核心風口，行業逐漸形成新共識：AI的核心價值不在於技術引數的堆砌，而在於真實場景的落地與業務效率的革新。作為深耕政企辦公垂直賽道多年的AI企業，蜜度CTO劉益東日前接受專訪時表示，企業始終堅持垂類大模型的深耕路線、以垂直智慧體賦能千行百業。在劉益東看來，AI行業的使用者需求已經發生迭代。前兩年AI應用尚未規模化普及，市場普遍追逐大模型引數規模、通用評測指標的高低。但從2026年年初開始，智慧體賽道集中爆發，市場關注點徹底迴歸業務本身，客戶不再看重模型有多“大”，更看重產品能不能解決真問題、交付真結果。（新華財經）"
-    },
-    {
-      "id": "te:markets:569278",
-      "time": "2026-07-23 19:51:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Union Pacific earnings above expectations at 3.41 USD — Union Pacific (UNP) released earnings per share at 3.41 USD, compared to market expectations of 3.17 USD."
-    },
-    {
-      "id": "5004671",
-      "time": "2026-07-23 19:51:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美元兌日元上漲至163.65，創40年新高，最新報漲0.30%。"
-    },
-    {
-      "id": "5004670",
-      "time": "2026-07-23 19:51:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美沙核能合作背後的博弈與爭議】美國能源部22日表示，美國和沙烏地阿拉伯已簽署一項有關和平利用核能的合作協議。據多家美國媒體報道，該協議包含准許沙特在本土進行鈾濃縮活動的條款。分析人士認為，美沙此次達成核能合作協議，既是特朗普政府追求商業利益、沙特尋求核能技術自主的產物，也是兩國在當前中東變局大背景下采取的重要戰略舉措。協議的部分條款及示範效應暗藏核擴散風險。（新華社）"
-    },
-    {
-      "id": "5004669",
-      "time": "2026-07-23 19:50:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "耐克預計本財年毛利率小幅提升。"
-    },
-    {
-      "id": "5004668",
-      "time": "2026-07-23 19:50:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特軍方表示，襲擊造成了物質損失，目前尚無人員傷亡報告。"
-    },
-    {
-      "id": "5004667",
-      "time": "2026-07-23 19:50:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理表示，他認為3%的預算赤字目標可以作為2030年的目標。"
-    },
-    {
-      "id": "mkt:019f8ed0-2d75-7aab-8e66-867c40cb8c05",
-      "time": "2026-07-23 19:50:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "magyar said he believes a 3% budget deficit target could be set as a 2030 goal."
-    },
-    {
-      "id": "5004666",
-      "time": "2026-07-23 19:50:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特軍方表示，與伊拉克接壤的阿卜杜利邊境過境點週四遭無人機襲擊。"
-    },
-    {
-      "id": "mkt:019f8ecf-d06e-7aab-8e66-7f196acc0af9",
-      "time": "2026-07-23 19:50:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hungary's prime minister magyar said next year's budget deficit must be below 6% of GDP."
-    },
-    {
-      "id": "5004665",
-      "time": "2026-07-23 19:50:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理表示，明年的預算赤字必須遠低於GDP的6%。"
-    },
-    {
-      "id": "mkt:019f8ecf-acfc-7aab-8e66-75798af8f889",
-      "time": "2026-07-23 19:50:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Hungary's prime minister magyar said reducing the 2026 budget deficit to 7% of GDP is an ambitious target."
-    },
-    {
-      "id": "5004664",
-      "time": "2026-07-23 19:49:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "傑尼亞集團執行主席：集團計劃2026年在全球新開14至15家門店，其中約半數將開設在美國。"
-    },
-    {
-      "id": "5004663",
-      "time": "2026-07-23 19:49:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理表示，將2026年預算赤字降至GDP的7%將是一項極具挑戰性的目標。"
-    },
-    {
-      "id": "mkt:019f8ecf-14d5-7aab-8e66-6eb99f4d1f17",
-      "time": "2026-07-23 19:49:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iranian missiles hit Abdali crossing on Iraq–Kuwait border; crossing closed】Iraqi security sources said on the 23rd the Abdali border crossing on the Iraq–Kuwait border was struck by Iranian missiles. The Abdali crossing has been temporarily closed."
-    },
-    {
-      "id": "5004662",
-      "time": "2026-07-23 19:49:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貴州省上半年地區生產總值同比增長4%】記者從貴州省政府新聞辦23日召開的新聞釋出會上獲悉，今年上半年，貴州省地區生產總值11990.08億元，按不變價格計算，同比增長4.0%。其中，第一產業增加值1198.27億元，同比增長4.6%；第二產業增加值4009.58億元，增長3.6%；第三產業增加值6782.22億元，增長4.1%。"
     }
   ]
 }
