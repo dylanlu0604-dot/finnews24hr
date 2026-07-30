@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-30 15:06:57",
-  "count": 17944,
+  "updated": "2026-07-30 15:10:58",
+  "count": 17931,
   "items": [
+    {
+      "id": "te:economy:571066",
+      "time": "2026-07-30 15:10:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "Turkish June Jobless Rate Falls to Record Low — Turkey’s seasonally adjusted unemployment rate dropped to 7.6% in June 2026 from a downwardly revised 8.1% in the previous month. It was the lowest jobless rate since the data series began in 2005, as the number of unemployed individuals decreased by 168,000 to 2.69 million. Meanwhile, the employment rate rose to 48.9% from 48.6%, as the number of employed persons increased by 227,000 to 32.73 million."
+    },
+    {
+      "id": "5016092",
+      "time": "2026-07-30 15:10:07",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "國家發改委定於7月31日（星期五）上午10:00，召開國家發展改革委7月份新聞釋出會。（國家發改委）"
+    },
+    {
+      "id": "mkt:019fb1db-e545-7aab-8f07-a2ee0f071f7e",
+      "time": "2026-07-30 15:10:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China State Planner will hold its July press conference at 10:00 on Friday, July 31."
+    },
+    {
+      "id": "5016091",
+      "time": "2026-07-30 15:09:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽峰集團上調2026全年業績指引】7月30日，賽峰集團公佈2026年上半年業績：收入達175.71億歐元，同比增長19.0%；調整後經常性營業利潤為32.37億歐元，同比增長29%；自由現金流達26.16億歐元。此外，賽峰集團宣佈上調2026年業績展望，收入預計實現中十位數百分比增長，經常性營業利潤預計為64億-65億歐元，自由現金流預計為47億-49億歐元。"
+    },
+    {
+      "id": "mkt:019fb1db-42e5-7aab-8f07-9af03e40e234",
+      "time": "2026-07-30 15:09:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "SHEL.L",
+        "Impact bullish"
+      ],
+      "text": "Shell's Q2 profit doubled; London-listed shares rose 1.1%."
+    },
+    {
+      "id": "mkt:019fb1d9-db61-7aab-8f07-962f326c3c9e",
+      "time": "2026-07-30 15:07:52",
+      "tags": [
+        "MKT News",
+        "SHEL.N",
+        "Impact mixed",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Shell (SHEL.N) CFO said inventory draws have supported the market, but the buffer is limited and options for further action may narrow."
+    },
+    {
+      "id": "5016090",
+      "time": "2026-07-30 15:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西葡邊境一小城野火肆虐 十餘個村莊緊急疏散】西班牙西北部毗鄰葡萄牙的一座小城附近29日燃起大規模野火，當地政府部門當晚緊急疏散12個村莊，並要求另外兩個臨近村莊的居民就地避險。（央視新聞）"
+    },
     {
       "id": "mkt:019fb1d7-8d2a-7aab-8f07-8e0a88d8ea95",
       "time": "2026-07-30 15:05:21",
@@ -165461,198 +165533,6 @@
         "MKT News"
       ],
       "text": "UK Chancellor Healy said on business support he knows there is a long way to go."
-    },
-    {
-      "id": "5003843",
-      "time": "2026-07-23 15:10:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "SOITEC股價在業績公佈後飆升29%，創2015年以來最大漲幅。"
-    },
-    {
-      "id": "mkt:019f8dcf-6844-7aab-8e5d-31ff46ca08eb",
-      "time": "2026-07-23 15:10:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK Chancellor Healy said he wants to deepen ties between government and business."
-    },
-    {
-      "id": "mkt:019f8dcf-552c-7aab-8e5d-28c61e8caee4",
-      "time": "2026-07-23 15:10:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK Chancellor Healy said the City of London is an engine of growth."
-    },
-    {
-      "id": "5003841",
-      "time": "2026-07-23 15:09:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "雀巢股價在業績公佈和出售水務業務股份後下跌6.3%。"
-    },
-    {
-      "id": "5003840",
-      "time": "2026-07-23 15:09:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國財政大臣希利：倫敦金融城是經濟增長的引擎。"
-    },
-    {
-      "id": "5003839",
-      "time": "2026-07-23 15:09:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4110美元/盎司，日內跌0.48%。"
-    },
-    {
-      "id": "5003838",
-      "time": "2026-07-23 15:09:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國財政大臣希利談企業支援：我深知我們仍有很長的路要走。"
-    },
-    {
-      "id": "5003837",
-      "time": "2026-07-23 15:09:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌1%，現報59.04美元/盎司。"
-    },
-    {
-      "id": "5003836",
-      "time": "2026-07-23 15:09:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌2%，現報1283.50美元/盎司。"
-    },
-    {
-      "id": "mkt:019f8dce-6135-7aab-8e5d-23445bc3c025",
-      "time": "2026-07-23 15:09:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI crude extended intraday gains to 3%, trading at $89.52/bbl. Brent crude up 2.5%."
-    },
-    {
-      "id": "5003835",
-      "time": "2026-07-23 15:08:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "中期協資料顯示，截至2026年6月末，全國共有150家期貨公司，分佈在29個轄區。2026年6月代理交易額80.79萬億元，代理交易量10.08億手，營業收入39.12億元，淨利潤11.96億元。"
-    },
-    {
-      "id": "5003834",
-      "time": "2026-07-23 15:08:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【上期所就修訂《上海期貨交易所交易管理辦法》公開徵求意見】7月23日，上海期貨交易所釋出關於就修訂《上海期貨交易所交易管理辦法》公開徵求意見的公告。為完善上海期貨交易所應急場景的適用情形，與期貨市場相關應急預案保持一致，擬對《上海期貨交易所交易管理辦法》做如下調整：刪除第十五條第二款“在開市前，30%以上的會員及境外特殊參與者未能完成結算工作或者未完成交易系統初始化工作”這一情形，不再將其作為應急場景。"
-    },
-    {
-      "id": "5003833",
-      "time": "2026-07-23 15:08:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【OpenAI模型自主發起網路攻擊 美國兩黨呼籲強制AI安全測試】OpenAI最新一代頂尖人工智慧曝出一起令人警惕的網路安全事故，美國議員緊急推進立法，希望透過制度約束避免AI脫離人類管控、引發危險後果。OpenAI於週二對外披露：一款已向公眾開放的旗艦大模型，以及另一款尚未對外發布的內測模型，雙雙突破實驗室封閉測試環境，自主規劃路徑接入公網，併成功入侵主流AI開發者平臺Hugging Face（擁抱臉）。這是全球首起有正式記錄的人工智慧完全自主發起網路攻擊事件。美國參議院情報委員會資深民主黨議員馬克·沃納發表宣告稱：“這恰恰說明，我們必須引入由政府機構全程參與、可完整追溯全過程的安全強制測試機制。”沃納本週公佈了一系列AI立法優先事項，其中包括《安全人工智慧發展法案》，該法案要求前沿大模型在面向公眾大規模開放前，必須完成強制性安全測試。 專家警告，若不強化安全約束，隨著模型智慧度持續提升，此類AI未來理論上可對公網任意關鍵目標發起攻擊，包括電網、金融交易系統等核心基礎設施。"
-    },
-    {
-      "id": "5003832",
-      "time": "2026-07-23 15:08:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奧飛資料投資成立奧擎科技公司】企查查APP顯示，近日，廣州奧擎科技有限公司成立，經營範圍包含資訊系統整合服務；軟體開發；軟體外包服務等。企查查股權穿透顯示，該公司由奧飛資料(300738)全資持股。"
-    },
-    {
-      "id": "mkt:019f8dcd-91a0-7aab-8e5d-1ca5ac13a673",
-      "time": "2026-07-23 15:08:07",
-      "tags": [
-        "MKT News",
-        "BMW.DE",
-        "Impact bearish"
-      ],
-      "text": "The U.S. National Highway Traffic Safety Administration said BMW of North America is recalling 318,495 vehicles in the United States."
-    },
-    {
-      "id": "5003831",
-      "time": "2026-07-23 15:07:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【ETF兩市成交額報4767.81億元，較昨日此時縮量1023.94億元】截至目前，ETF兩市成交額報4767.81億元，較昨日此時縮量1023.94億元，分型別來看，股票型ETF成交額1711.85億元，債券型ETF成交額1876.56億元，貨幣型ETF成交額202.6億元，商品型ETF成交額69.26億元，QDII型ETF成交額907.54億元。"
-    },
-    {
-      "id": "mkt:019f8dcd-0954-7aab-8e5d-1767c7fa88be",
-      "time": "2026-07-23 15:07:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "【Nearly 4,800 foreign firms added investment into China in H1】MOFCOM said at a press briefing H1 new foreign-funded enterprises rose 5.3% YoY and FDI totaled 402.14 bln yuan. High-tech sector FDI climbed 33.2% YoY, lifting its share to 42.4%. Nearly 4,800 foreign firms made additional investments into China in H1."
-    },
-    {
-      "id": "5003830",
-      "time": "2026-07-23 15:07:29",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【上半年近4800家外資企業追加對華投資】商務部副部長鄢東在23日舉行的國新辦釋出會上說，上半年我國新設外資企業數同比增長5.3%，引資額4021.4億元。引資結構進一步最佳化，高技術產業引資同比增長33.2%，佔比提升至42.4%。外資持續看好中國市場，上半年近4800家外資企業追加對華投資。（新華社）"
-    },
-    {
-      "id": "5003829",
-      "time": "2026-07-23 15:07:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲天然氣連續八日上漲，創八年最長連漲週期】受中東衝突持續升級影響，歐洲天然氣價格正迎來八年來持續時間最長的日線連漲行情。卡達準備將液化天然氣不可抗力條款延期至 10 月中旬；歐洲基準天然氣期貨本月迄今漲幅近 47%。歐洲儲氣庫當前庫容僅 54%，且自 4 月起液化天然氣進口量持續下滑 —— 歐洲需與亞洲爭奪有限的液化天然氣貨源。"
-    },
-    {
-      "id": "mkt:019f8dcc-9017-7aab-8e5d-0b4e9dbc5026",
-      "time": "2026-07-23 15:07:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "INTC.O",
-        "Impact mixed",
-        "AAPL.O"
-      ],
-      "text": "【Intel earnings due; market eyes AI chip demand, layoffs and potential Apple tie-up】Intel is expected to report after the U.S. close on Thursday, supported by strong AI chip demand. FactSet consensus: Q2 adjusted EPS $0.22, revenue $14.4bn. Canaccord analyst Srini Pajjuri said: \"We expect server CPU unit sales to remain in double-digit growth for the year.\" Planned layoffs in Intel’s data-center unit could draw investor attention. Analysts will also watch for disclosures on a potential new customer, Apple — May reports said Apple and Intel reached a preliminary agreement for Intel to manufacture some chips for Apple devices. On June 18, former President Trump posted that Apple had agreed to work with Intel to design and make chips in the U.S. Intel’s results and guidance will be key to timing of sustained chip demand; market concerns remain."
     }
   ]
 }

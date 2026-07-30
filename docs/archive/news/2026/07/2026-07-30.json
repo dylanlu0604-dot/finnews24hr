@@ -1,7 +1,79 @@
 {
   "date": "2026-07-30",
-  "count": 2055,
+  "count": 2062,
   "items": [
+    {
+      "id": "te:economy:571066",
+      "time": "2026-07-30 15:10:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "Turkish June Jobless Rate Falls to Record Low — Turkey’s seasonally adjusted unemployment rate dropped to 7.6% in June 2026 from a downwardly revised 8.1% in the previous month. It was the lowest jobless rate since the data series began in 2005, as the number of unemployed individuals decreased by 168,000 to 2.69 million. Meanwhile, the employment rate rose to 48.9% from 48.6%, as the number of employed persons increased by 227,000 to 32.73 million."
+    },
+    {
+      "id": "5016092",
+      "time": "2026-07-30 15:10:07",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "國家發改委定於7月31日（星期五）上午10:00，召開國家發展改革委7月份新聞釋出會。（國家發改委）"
+    },
+    {
+      "id": "mkt:019fb1db-e545-7aab-8f07-a2ee0f071f7e",
+      "time": "2026-07-30 15:10:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China State Planner will hold its July press conference at 10:00 on Friday, July 31."
+    },
+    {
+      "id": "5016091",
+      "time": "2026-07-30 15:09:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽峰集團上調2026全年業績指引】7月30日，賽峰集團公佈2026年上半年業績：收入達175.71億歐元，同比增長19.0%；調整後經常性營業利潤為32.37億歐元，同比增長29%；自由現金流達26.16億歐元。此外，賽峰集團宣佈上調2026年業績展望，收入預計實現中十位數百分比增長，經常性營業利潤預計為64億-65億歐元，自由現金流預計為47億-49億歐元。"
+    },
+    {
+      "id": "mkt:019fb1db-42e5-7aab-8f07-9af03e40e234",
+      "time": "2026-07-30 15:09:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "SHEL.L",
+        "Impact bullish"
+      ],
+      "text": "Shell's Q2 profit doubled; London-listed shares rose 1.1%."
+    },
+    {
+      "id": "mkt:019fb1d9-db61-7aab-8f07-962f326c3c9e",
+      "time": "2026-07-30 15:07:52",
+      "tags": [
+        "MKT News",
+        "SHEL.N",
+        "Impact mixed",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Shell (SHEL.N) CFO said inventory draws have supported the market, but the buffer is limited and options for further action may narrow."
+    },
+    {
+      "id": "5016090",
+      "time": "2026-07-30 15:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西葡邊境一小城野火肆虐 十餘個村莊緊急疏散】西班牙西北部毗鄰葡萄牙的一座小城附近29日燃起大規模野火，當地政府部門當晚緊急疏散12個村莊，並要求另外兩個臨近村莊的居民就地避險。（央視新聞）"
+    },
     {
       "id": "mkt:019fb1d7-8d2a-7aab-8f07-8e0a88d8ea95",
       "time": "2026-07-30 15:05:21",
