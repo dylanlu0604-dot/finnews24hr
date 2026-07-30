@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-31 01:37:17",
-  "count": 17899,
+  "updated": "2026-07-31 01:41:19",
+  "count": 17895,
   "items": [
+    {
+      "id": "5017591",
+      "time": "2026-07-31 01:40:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI產品負責人：朝著智慧廉價到無法計量的方向前進，還有更多突破即將到來。"
+    },
+    {
+      "id": "5017590",
+      "time": "2026-07-31 01:38:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及電力部長：國內燃料儲備足以滿足用電需求。"
+    },
+    {
+      "id": "5017589",
+      "time": "2026-07-31 01:38:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱已使用Arash無人機對巴林謝赫伊薩基地內美軍的發電機、導航系統以及行政和後勤設施實施打擊。"
+    },
     {
       "id": "mkt:019fb419-a746-7aab-8f1a-2abf1390827f",
       "time": "2026-07-31 01:36:47",
@@ -165213,75 +165237,6 @@
         "國際"
       ],
       "text": "美國國家颶風中心（NHC）表示，颶風貝爾莎預計將逐漸減弱， 預計其將於一天左右消散。"
-    },
-    {
-      "id": "5005276",
-      "time": "2026-07-24 01:41:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列防長稱已為應對伊朗局勢做好“全方位準備”】當地時間23日，據以色列方面訊息，以色列國防部長卡茨當天表示，鑑於當前與伊朗的緊張局勢不斷升級，以色列方面目前已為“所有可能發生的情況”做好了準備。據稱，卡茨當天召集以軍總參謀長扎米爾及多名軍方高階官員，在國防部總部舉行了緊急局勢安全評估會議。卡茨在會議結束時向伊朗方面發出了嚴厲警告。他宣稱，如果伊朗選擇對以色列發動任何形式的襲擊，“都將承受來自以方的毀滅性打擊”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f9011-2916-7aab-8e70-f0fe2afd1916",
-      "time": "2026-07-24 01:40:57",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "【U.S. says EU fine on Google and loan to Airbus risk trade stability】The U.S. on Thursday renewed trade complaints against the EU, saying the bloc’s fine on Google and a recent loan to Airbus could undermine constructive negotiations and pose a concrete risk to the stability of transatlantic trade, U.S. Trade Representative Greer said. The European Commission on Thursday fined Google about $1 bln for breaching the Digital Markets Act. Greer called that decision and other recent rulings \"unreasonable financial penalties\" and said the EU’s actions are creating substantial uncertainty for U.S. exporters to Europe."
-    },
-    {
-      "id": "mkt:019f9011-099f-7aab-8e70-ef893d951b5a",
-      "time": "2026-07-24 01:40:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AMD.O",
-        "Impact bullish"
-      ],
-      "text": "AMD (AMD.O) and Cerebras Systems will launch an AI inference solution pairing AMD's Helios GPU server racks with Cerebras' wafer-scale chips."
-    },
-    {
-      "id": "5005275",
-      "time": "2026-07-24 01:40:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "Truist證券將Alphabet的目標股價從每股430.00美元下調至每股420.00美元。"
-    },
-    {
-      "id": "5005274",
-      "time": "2026-07-24 01:38:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲5%，現報94.69美元/桶。"
-    },
-    {
-      "id": "5005273",
-      "time": "2026-07-24 01:38:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【英特爾Q2財報前瞻：強勁業績難掩估值隱憂，市場情緒成股價關鍵變數 】英特爾公司預計將公佈強勁的第二季度盈利，但分析指出，即便業績亮眼，也可能不足以扭轉其股價在7月份的下滑趨勢。本月英特爾股價已下跌約28%，成為標普500指數中表現最差的10只股票之一，此前該股在上半年曾飆升278%。費城證券交易所半導體指數（SOX）本月也下跌約14%，反映出投資者對晶片製造商的熱情正在消退。華爾街普遍預期，英特爾第二季度營收將同比增長12%至144億美元，每股收益為12美分，扭轉去年同期每股虧損67美分的局面，毛利率預計將從去年同期的近30%提升至約39%。Wedbush Securities分析師馬特·布萊森（Matt Bryson）指出，當前的股價波動更多是市場情緒轉變的結果，而非盈利能力實際變化所致。“並非英特爾沒有進步，只是它的進步速度沒有股價此前的上漲速度快。”"
-    },
-    {
-      "id": "mkt:019f900e-995d-7aab-8e70-e2c490b529a6",
-      "time": "2026-07-24 01:38:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AMD.O"
-      ],
-      "text": "AMD (AMD.O) and Cerebras will launch their joint product later this year."
     }
   ]
 }
