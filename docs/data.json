@@ -1,7 +1,172 @@
 {
-  "updated": "2026-07-30 09:34:29",
-  "count": 17873,
+  "updated": "2026-07-30 09:38:22",
+  "count": 17875,
   "items": [
+    {
+      "id": "mkt:019fb0ab-70dd-7aab-8eff-31ddd03cff1f",
+      "time": "2026-07-30 09:37:33",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Mainland A-share internet insurance stocks rallied; Jiayun Technology climbed more than 10%, with Aishida, Guoyuan Technology, Zhisheng Information, Jinzheng Shares and Tianli Technology also rising."
+    },
+    {
+      "id": "5015611",
+      "time": "2026-07-30 09:37:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美團回應月付使用者稱被批次盜刷上千元：大機率遭遇新型電信詐騙，正積極配合警方調查】7月30日，就多名美團月付使用者稱被批次盜刷上千元一事，美團方面回應稱，經逐一核查，相關使用者很大機率遭遇了新型電信詐騙，美團正積極配合警方調查，並已採取多種措施，保證使用者賬戶安全。美團方面表示，據多方調查，此次事件作案手法高度一致：犯罪分子以“刷單返利”“高額佣金”等為誘餌，向使用者傳送含木馬程式的連結。使用者一旦點選，手機即遭遠端控制：犯罪分子隨後以使用者身份，在美團批次購買熱門餐廳團購券、景區套餐券等商品，再透過線上二手平臺迅速轉手變現，並以此牟利。據瞭解，目前，多地公安機關已就相關案件立案偵查，美團正積極配合警方提供賬號登入日誌、訂單詳情、核銷記錄等完整資料，協助追查犯罪團伙。面對這一新型犯罪手法，美團表示已持續升級風控策略：在熱門餐廳團購等高發場景，在批次購買前增加風險提示和驗證環節；對團購券轉贈路徑進行限制；同時下線了高風險品類的代付能力等。在使用者保障方面，美團已開通盜刷專項處理通道，確保使用者來電後第一時間攔截未核銷訂單；對於已核銷訂單，啟動專項評估流程，由專項團隊逐一聯絡受影響使用者，協助妥善處理相關損失。美團方面提醒，防範此類新型詐騙，關鍵在於守住“入口”：切勿相信任何“刷單返利”“高額佣金”類資訊，不要點選陌生人透過簡訊、社交軟體傳送的不明連結。（介面新聞）"
+    },
+    {
+      "id": "mkt:019fb0ab-2802-7aab-8eff-2ac5dbe43f2f",
+      "time": "2026-07-30 09:37:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "601969.SS",
+        "Impact bullish"
+      ],
+      "text": "China A-share steel sector rose in early trade; Liugang posted a second consecutive daily limit-up, with Guangdong Mingzhu, Anyang Iron & Steel, Linggang, Sansteel Minguang, Hainan Mining and Ordos also advancing."
+    },
+    {
+      "id": "mkt:019fb0aa-e6be-7aab-8eff-25b0ea3fba95",
+      "time": "2026-07-30 09:36:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Samsung Electronics said chip supply shortages will intensify in 2027 and persist into 2028."
+    },
+    {
+      "id": "te:markets:570944",
+      "time": "2026-07-30 09:36:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Rebound on Chip Rally — The benchmark KOSPI rose more than 4% to around 5,890 on Thursday, recovering part of the previous session's losses as Samsung Electronics rallied after reporting record quarterly earnings. Samsung climbed nearly 3% after posting stronger-than-expected results, with record semiconductor operating profit driven by robust AI-related memory demand and forecasting continued strength in AI infrastructure spending. Additional support came from bargain hunting following the index's nearly 16% two-day slump, while upbeat earnings from Microsoft helped ease concerns over AI spending and lifted sentiment toward global technology shares. Other notable gainers included Hyundai Motor (1.6%), LG Energy Solution (7.2%), KB Financial Group (5.5%), and HD Hyundai Heavy Industries (5.1%). However, gains were tempered by lingering caution after the Federal Reserve maintained a higher-for-longer policy stance, while renewed US strikes on Iran kept geopolitical risks elevated."
+    },
+    {
+      "id": "mkt:019fb0aa-7964-7aab-8eff-1b136d4d44c4",
+      "time": "2026-07-30 09:36:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share MLCC sector rose in early trade; Shuangxing Xincai hit the daily limit-up, with Yunzhong Technology, Fenghua Gaoke, Jiemei Technology and Guoci Materials rallying."
+    },
+    {
+      "id": "5015610",
+      "time": "2026-07-30 09:36:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：積極探討特別股息政策。"
+    },
+    {
+      "id": "mkt:019fb0a9-af31-7aab-8eff-14736be3559b",
+      "time": "2026-07-30 09:35:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share education sector strengthened again; Chuanzhi Education posted a fourth consecutive daily limit-up, Chuangye Heima climbed more than 10%, and Kede Education, Xueda Education, Kaiwen Education, Angli Education and Zhonggong Education also advanced."
+    },
+    {
+      "id": "5015609",
+      "time": "2026-07-30 09:35:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鋼鐵板塊異動拉昇，柳鋼股份漲停】鋼鐵板塊異動拉昇，柳鋼股份漲停，廣東明珠、安陽鋼鐵、凌鋼股份、三鋼閩光、海南礦業、鄂爾多斯等跟漲。"
+    },
+    {
+      "id": "mkt:019fb0a9-06e0-7aab-8eff-0bd4d4c875b0",
+      "time": "2026-07-30 09:34:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-share food-processing sector extended gains; Yiming Food hit a third straight daily limit-up, Junyao Health and Anji Food posted second straight limit-ups, while Haixin Food, Lizi Garden and Tianrun Dairy also rose."
+    },
+    {
+      "id": "5015608",
+      "time": "2026-07-30 09:34:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年全國規模以上文化及相關產業企業營業收入增長4.6%】國家統計局今日（30日）釋出資料，據對全國8.2萬家規模以上文化及相關產業企業（以下簡稱“文化企業”）調查，2026年上半年，文化企業實現營業收入72026億元，按可比口徑計算，比上年同期增長4.6%。其中，文化新業態特徵較為明顯的16個行業小類實現營業收入35239億元，比上年同期增長9.6%，快於全部規模以上文化企業5.0個百分點。分產業型別看，文化製造業實現營業收入17851億元，比上年同期下降0.4%；文化批發和零售業10940億元，下降0.1%；文化服務業43235億元，增長8.1%。分領域看，文化核心領域實現營業收入50472億元，比上年同期增長5.5%；文化相關領域21554億元，增長2.5%。分行業類別看，新聞資訊服務實現營業收入10958億元，比上年同期增長9.2%；內容創作生產16830億元，增長4.4%；創意設計服務13987億元，增長9.2%；文化傳播渠道7512億元，下降3.2%；文化投資運營253億元，增長10.0%；文化娛樂休閒服務933億元，增長3.3%；文化輔助生產和中介服務7653億元，增長4.1%；文化裝備生產3226億元，增長6.2%；文化消費終端生產10675億元，增長0.4%。"
+    },
+    {
+      "id": "mkt:019fb0a8-cb7a-7aab-8eff-04b312581c45",
+      "time": "2026-07-30 09:34:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's state television said several loud explosions were heard in Ahvaz."
+    },
+    {
+      "id": "mkt:019fb0a8-8157-7aab-8efe-fd9db2a1651b",
+      "time": "2026-07-30 09:34:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index climbed above 5,900 points, extending intraday gains to 4.25%."
+    },
+    {
+      "id": "mkt:019fb0a8-6c48-7aab-8efe-f661a839152a",
+      "time": "2026-07-30 09:34:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Market liquidity indicator: DR007 at highest since June as PBOC injects large-scale liquidity】On July 29 DR007 closed at 1.5019%, the highest since June 25; it dipped to 1.4652% at the session open. The PBOC executed net liquidity injections of 870.5 bln yuan today. DR007 is widely used as China’s short-end rate anchor and reflects short-term funding tightness; the spread between DR007 and the PBOC 7-day reverse repo rate signals market liquidity pressure—a large premium suggests tightness and may prompt central bank injections, while a narrow or negative spread indicates ample funding and lower short-term funding costs for leveraged trades in equities and bonds."
+    },
+    {
+      "id": "5015607",
+      "time": "2026-07-30 09:34:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【教育板塊再度走強 傳智教育4連板】教育板塊再度走強，傳智教育4連板，創業黑馬漲超10%，科德教育、學大教育、凱文教育、昂立教育、中公教育跟漲。"
+    },
+    {
+      "id": "te:economy:570940",
+      "time": "2026-07-30 09:34:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Import Prices MoM",
+        "Importance 1"
+      ],
+      "text": "Australia Q2 Import Prices Post Biggest Gain in 4-1/2 Years — Australia's import prices surged 5.7% quarter-on-quarter in Q2 2026, far exceeding market expectations for a flat reading and accelerating sharply from a 0.1% increase in Q1. The latest result marked the third consecutive quarterly rise and the strongest pace since Q4 2021."
+    },
     {
       "id": "5015606",
       "time": "2026-07-30 09:33:51",
@@ -164727,145 +164892,6 @@
         "市場"
       ],
       "text": "元件板塊震盪走強，東晶電子漲停，紅板科技、三環集團、南亞新材、泰晶科技、艾華集團跟漲。"
-    },
-    {
-      "id": "te:markets:569024",
-      "time": "2026-07-23 09:38:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Near 2-Month High — US gasoline prices rose to around $3.45 per gallon, near their highest level since late May, as concerns over broader supply disruptions in the Middle East intensified. Iran-backed Houthi militants claimed attacks on two Saudi oil tankers, heightening fears of further disruptions to global oil flows as risks in the Red Sea added to those in the Strait of Hormuz. President Trump warned of strikes on Iranian infrastructure if shipping through the strait is attacked. Attacks on the Caspian Pipeline Consortium's Black Sea terminal also fueled supply concerns. Limiting some gains, fuel supplies in Russia showed signs of improving after Ukraine shifted attacks away from major oil refineries toward maritime targets. Meanwhile, EIA data showed US gasoline inventories increased by 0.765 million barrels in the week ended July 17, recovering from the previous week but remaining 7% below the five-year seasonal average."
-    },
-    {
-      "id": "5003375",
-      "time": "2026-07-23 09:38:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股人工智慧股走強 劍橋科技漲近6%】截至發稿，劍橋科技(06166.HK)漲5.85%，MINIMAX-W(00100.HK)漲4.37%，智譜(02513.HK)漲4.34%。"
-    },
-    {
-      "id": "5003374",
-      "time": "2026-07-23 09:38:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【MLCC概念震盪反彈 風華高科、火炬電子雙雙漲停】早盤MLCC概念震盪反彈，風華高科、火炬電子漲停，昀冢科技漲超16%，利和興、三環集團、博遷新材、國瓷材料跟漲。"
-    },
-    {
-      "id": "5003373",
-      "time": "2026-07-23 09:37:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【地平線贖回超額轉股權，CARIAD自願鎖定12個月】7月23日訊息，地平線近日與大眾汽車集團旗下CARIAD就其持有的可轉換債券簽署修訂協議，地平線擬贖回CARIAD超額轉股權，CARIAD擬提前轉股、成為地平線合計持股比例達到9.9%的重要股東，並自願鎖定12個月。為完成相關現金回購，地平線同時建議發行4.5億美元零息可轉換債券，到期日預計為2027年7月27日前後，轉股價格為5.55港元，較22日收盤價溢價約16.8%。其中約3.989億美元擬用於支付修訂協議項下的本息償付及贖回轉股權利，餘額用於補充營運資金及其他企業用途。"
-    },
-    {
-      "id": "5003372",
-      "time": "2026-07-23 09:36:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特所屬船隻\"恩塞利亞\"號在紅海航行時遭襲，船頭起火；船員安全。"
-    },
-    {
-      "id": "mkt:019f8c9d-d5f2-7aab-8e56-dd0ba7cb75c2",
-      "time": "2026-07-23 09:36:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "03200.HK",
-        "Impact bullish",
-        "02476.HK",
-        "01888.HK"
-      ],
-      "text": "Hong Kong PCB sector rallied; 03200.HK and 02476.HK rose over 5%, 01888.HK climbed more than 4%, while 01377.HK, 00148.HK and 01989.HK also advanced."
-    },
-    {
-      "id": "te:markets:569023",
-      "time": "2026-07-23 09:36:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Climb on AI Optimism — The benchmark KOSPI rose more than 3% to around 7,035 on Thursday, rallying for a third straight session as technology stocks advanced. Investor sentiment was buoyed by renewed optimism over artificial intelligence after Alphabet reported better-than-expected quarterly revenue, driven by strong cloud growth, and raised its capital spending outlook to support booming AI demand. The results reinforced expectations of sustained investment in AI infrastructure, boosting South Korean semiconductor shares. Samsung Electronics and SK Hynix led the advance, climbing more than 4% and 6%, respectively, alongside gains in SK Square (3.1%), Hyundai Motor (3.0%), and LG Energy Solution (3.0%). Separately, South Korea's economy expanded 0.6% in the second quarter, beating the Bank of Korea's 0.2% forecast as robust semiconductor exports and resilient private consumption supported growth. Meanwhile, Middle East tensions remained in focus after renewed US-Iran hostilities pushed oil prices higher."
-    },
-    {
-      "id": "5003371",
-      "time": "2026-07-23 09:36:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【液冷IDC概念盤初走強，飛龍股份漲停】液冷IDC概念盤初走強，飛龍股份漲停，利通科技、長纜科技、冰輪環境、大元泵業、銳捷網路、克萊特等跟漲。"
-    },
-    {
-      "id": "5003370",
-      "time": "2026-07-23 09:35:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2025年我國數字化採購總額達23.2萬億元，數字化滲透率為11.8%】中國物流與採購聯合會昨天（7月22日）釋出《2026數智化採購發展報告》。據介紹，涵蓋工業、建築業和零售批發業在內，2025年全國企業物資採購總額達196.3萬億元，同比增長4%，市場在高位執行中保持穩健擴張。其中，工業生產採購額達113.3萬億元，同比增長6%。隨著產業升級加速，企業對高品質產品與先進裝置的採購需求，由“量的積累”轉向“質的提升”，推動了採購結構的持續最佳化，尤其是生產性物資的數字化採購水平在進一步提升。綜合來看，2025年我國數字化採購總額達23.2萬億元，數字化滲透率為11.8%，比上年提高0.3個百分點。從2022年以來，數字化採購滲透率逐年提高。企業調研顯示，在大模型和智慧體應用方面，招標、投標八大環節的20類場景AI應用逐步落地。"
-    },
-    {
-      "id": "5003369",
-      "time": "2026-07-23 09:35:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本菸草：已簽署協議，以約1.76億歐元的價格從斯堪的納維亞菸草集團收購香菸品牌Break與Moro。"
-    },
-    {
-      "id": "mkt:019f8c9c-a911-7aab-8e56-d5123a0f54ea",
-      "time": "2026-07-23 09:35:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share power sector opened stronger: several renewables stocks hit daily limit-up, Shimao Energy rose over 8%, and major generators including Huadian Liaoning, Huadian Energy, Chuaneng Power and Guodian Power also gained. China’s renewable-energy development 15th Five-Year Plan targets by 2030 roughly 3.5 billion kW of renewable installed capacity and about 6 trillion kWh of annual generation; wind and solar combined capacity is to exceed 2.8 billion kW and account for more than 50% of total capacity."
-    },
-    {
-      "id": "te:economy:569022",
-      "time": "2026-07-23 09:35:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Unemployment Rate",
-        "Importance 3"
-      ],
-      "text": "Australia Jobless Rate Unchanged at 4.4% in June — Australia’s seasonally adjusted unemployment rate stood at 4.4% in June, in line with both market expectations and May’s figure. The number of unemployed rose by 12,700 to 686,800 from 674,100 in May, while employment increased by 76,300 to 14.82 million, surpassing expectations of a 15,000 increase."
-    },
-    {
-      "id": "5003368",
-      "time": "2026-07-23 09:34:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【MLCC概念盤初走強，風華高科漲停】MLCC概念盤初走強，風華高科漲停，昀冢科技、三環集團、利和興、雙星新材、火炬電子、國瓷材料等跟漲。"
-    },
-    {
-      "id": "5003367",
-      "time": "2026-07-23 09:34:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩部門：加快推動新能源重卡規模化利用 推動新能源汽車“綠車充綠電”】國家發展改革委、國家能源局印發《可再生能源發展“十五五”規劃》，其中提出，大力推動交通運輸行業可再生能源消費。推廣綠電直連等新業態，推動車船充（換）電等補能基礎設施建設，加快推動新能源重卡規模化利用，推動新能源汽車“綠車充綠電”。推進加氣站、加氫站、醇氨加註設施等綠色補能服務網點建設，擴大綠色氫氨醇、可持續航空燃料、生物天然氣等在交通領域應用。"
     }
   ]
 }
