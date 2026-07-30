@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-30 23:55:39",
-  "count": 17855,
+  "updated": "2026-07-30 23:59:53",
+  "count": 17854,
   "items": [
+    {
+      "id": "5017470",
+      "time": "2026-07-30 23:58:52",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "花旗：美聯儲主席沃什暗示除個人消費支出價格指數（PCE）外，其他通脹指標將在貨幣政策中發揮更大作用，這降低了美聯儲近期加息的可能性。"
+    },
+    {
+      "id": "5017469",
+      "time": "2026-07-30 23:56:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "義大利國家電力公司上半年調整後淨利潤39.3億歐元，預期37.5億歐元。"
+    },
+    {
+      "id": "5017468",
+      "time": "2026-07-30 23:55:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "義大利國家電力公司（ENEL）公佈2026年上半年營收為409.2億歐元。"
+    },
+    {
+      "id": "mkt:019fb3bc-e946-7aab-8f18-832980719f8a",
+      "time": "2026-07-30 23:55:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK 10-year gilt yield extends decline, down 5 bps to 4.98%."
+    },
     {
       "id": "5017467",
       "time": "2026-07-30 23:54:15",
@@ -164839,50 +164879,6 @@
         "國際"
       ],
       "text": "以色列媒體：在緊張局勢加劇之際，明天上午將以色列總理辦公室將舉行一次小範圍的安全討論。"
-    },
-    {
-      "id": "5005162",
-      "time": "2026-07-23 23:59:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿拉伯媒體報道，科威特發生爆炸事件。"
-    },
-    {
-      "id": "5005161",
-      "time": "2026-07-23 23:58:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【英國2/10年期國債收益率漲約7個基點】週四（7月23日）歐市尾盤，英國10年期國債收益率漲6.9個基點，報5.104%，北京時間19:00以來加速上漲、23:32達到5.122%。兩年期英債收益率漲6.8個基點，報4.490%，23:32也重新整理日高至4.507%。30年期英債收益率漲5.1個基點，50年期英債收益率漲3.3個基點。2/10年期英債收益率利差漲0.246個基點，報+61.427個基點。"
-    },
-    {
-      "id": "5005160",
-      "time": "2026-07-23 23:58:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議長卡利巴夫：美國想要懲罰伊朗，卻用三位數的油價懲罰了自己，這個策略我給10分。"
-    },
-    {
-      "id": "te:markets:569350",
-      "time": "2026-07-23 23:57:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Fall Sharply — European stocks closed sharply lower on Thursday, as the surge in energy prices risked higher interest rates in the Eurozone, while markets parsed a series of earnings results. The Euro STOXX 50 fell 1.7% to 6,210 and the STOXX Europe 600 dropped 1.3% to 638. UniCredit sank 4.8% despite posting results that reflected a strong quarter, as its ambition to acquire Germany's Commerzbank jeopardized its share buyback program. Meanwhile, BNP Paribas lost 2.8% despite beating profit estimates, tracking other banks after amid tighter financial conditions. The ECB held rate unchanged, as expected, and signaled that pro-inflationary risks may warrant more rate hikes in the future. Such risks were consolidated by a surge in gas prices as escalation to the US-Iran war further dented tanker flows from the region. Meanwhile, luxury stocks fell with LVMH, Hermes, and Ferrari dropping over 3.5%, pressured by poor results from Moncler."
-    },
-    {
-      "id": "5005159",
-      "time": "2026-07-23 23:55:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所 8 月柴油期貨結算價報每噸 1291.50 美元。"
     }
   ]
 }
