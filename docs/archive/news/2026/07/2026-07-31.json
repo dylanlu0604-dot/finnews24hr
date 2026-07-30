@@ -1,7 +1,53 @@
 {
   "date": "2026-07-31",
-  "count": 537,
+  "count": 542,
   "items": [
+    {
+      "id": "5017789",
+      "time": "2026-07-31 06:51:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓國外匯管理部門週四實施罕見的拋售美元、買入韓元的匯率干預操作。"
+    },
+    {
+      "id": "mkt:019fb53a-23cf-7aab-8f1e-6d3ea932756c",
+      "time": "2026-07-31 06:51:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "South Korea's FX authorities carried out a rare dollar-selling intervention on Thursday, market sources said."
+    },
+    {
+      "id": "mkt:019fb53a-0ba7-7aab-8f1e-673b6f022dcb",
+      "time": "2026-07-31 06:51:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli media: About 120 soldiers at IDF base 'refuse orders' and leave camp】Channel 12 reported on the 30th that roughly 120 soldiers at an Israel Defense Forces base left the camp en masse, leaving their weapons behind, after a commander attempted to remove banners and insignia. Local outlets said the removed items reflected \"hierarchical differences\" and were accused of \"glorifying\" or \"shaming\" bullying of new recruits; soldiers reportedly departed in protest."
+    },
+    {
+      "id": "5017788",
+      "time": "2026-07-31 06:51:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：以色列一軍事基地超百名士兵“抗命”離營】以色列第12頻道電視臺30日報道說，以色列國防軍一軍事基地當天約120名士兵“抗命”，將武器留在營地後集體離開。據以媒報道，該事件起因是以軍指揮官當天試圖移除營地內一些標語和標誌物，隨後與士兵發生衝突。不滿計程車兵隨後集體“擅離職守”，以抗議指揮官做法。以色列《國土報》報道說，被移除的標語和標誌物反映了老兵和年輕士兵之間“等級差異”，並被指“美化對新兵的欺凌行為”。以色列《新訊息報》網站稱，這些標語被用來“羞辱新兵”。（新華社）"
+    },
+    {
+      "id": "5017787",
+      "time": "2026-07-31 06:49:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：微軟計劃提升 Xbox 業務利潤率，向競爭對手看齊。"
+    },
     {
       "id": "mkt:019fb536-689a-7aab-8f1e-5e7235448889",
       "time": "2026-07-31 06:47:49",
