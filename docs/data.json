@@ -1,7 +1,82 @@
 {
-  "updated": "2026-07-31 05:38:27",
-  "count": 17940,
+  "updated": "2026-07-31 05:42:16",
+  "count": 17944,
   "items": [
+    {
+      "id": "5017754",
+      "time": "2026-07-31 05:40:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜CEO： 不會存在一家獨大的人工智慧模型。"
+    },
+    {
+      "id": "mkt:019fb4f7-c5d8-7aab-8f1d-e44725296710",
+      "time": "2026-07-31 05:39:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) CFO said AWS's profitability is not accidental and reflects efficiency gains and capacity optimization."
+    },
+    {
+      "id": "mkt:019fb4f7-9d41-7aab-8f1d-deb7e4003060",
+      "time": "2026-07-31 05:39:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) CEO Tim Cook said the company is evaluating all options for memory supply and is seeking alternative component suppliers."
+    },
+    {
+      "id": "5017753",
+      "time": "2026-07-31 05:39:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股儲存晶片概念股盤後繼續走強，西部資料漲超4%，希捷科技、美光科技和SK海力士漲3%，閃迪漲6%。"
+    },
+    {
+      "id": "5017752",
+      "time": "2026-07-31 05:38:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：亞馬遜雲科技（AWS）盈利能力提升並非偶然，而是得益於效率改善與產能最佳化。"
+    },
+    {
+      "id": "mkt:019fb4f6-fa44-7aab-8f1d-d42f3949e16a",
+      "time": "2026-07-31 05:38:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) CEO Cook said additional DRAM suppliers would be beneficial."
+    },
+    {
+      "id": "5017751",
+      "time": "2026-07-31 05:37:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國和烏克蘭上週簽署了無人機技術協議。"
+    },
     {
       "id": "5017750",
       "time": "2026-07-31 05:37:16",
@@ -165786,30 +165861,6 @@
         "國際"
       ],
       "text": "巴西：美國貿易代表“操縱”強迫勞動議題。"
-    },
-    {
-      "id": "5005422",
-      "time": "2026-07-24 05:41:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西稱該關稅完全武斷且缺乏合理依據。"
-    },
-    {
-      "id": "mkt:019f90eb-fe74-7aab-8e73-c7511bc3a785",
-      "time": "2026-07-24 05:40:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's government rejected the U.S.-imposed 12.5% tariff on Brazilian goods, the statement said."
-    },
-    {
-      "id": "5005421",
-      "time": "2026-07-24 05:39:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西政府發表宣告，拒絕美國以強迫勞動為由對巴西商品徵收 12.5% 關稅的舉措。"
     }
   ]
 }
