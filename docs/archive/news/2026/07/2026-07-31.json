@@ -1,7 +1,127 @@
 {
   "date": "2026-07-31",
-  "count": 191,
+  "count": 203,
   "items": [
+    {
+      "id": "5017603",
+      "time": "2026-07-31 01:48:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息稱Situational Awareness資產規模或將降至100億美元。"
+    },
+    {
+      "id": "mkt:019fb424-29df-7aab-8f1a-6d85f0045c90",
+      "time": "2026-07-31 01:48:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ANTHROPIC plans to lease a 1.6 GW campus in Texas, with Google guaranteeing the lease and power costs."
+    },
+    {
+      "id": "5017602",
+      "time": "2026-07-31 01:48:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗軍隊稱打擊美軍在巴林空軍基地】當地時間7月30日晚，伊朗軍隊釋出公告稱，軍隊使用無人機襲擊了美軍位於巴林的謝赫伊薩空軍基地的發電機、導航系統以及行政和後勤保障建築。公告表示，儘管美軍基地擁有眾多防禦系統和裝備，但近日針對該地區美軍基地的襲擊，已對其裝備和中心造成了重大破壞。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fb423-b580-7aab-8f1a-637300cd6fb4",
+      "time": "2026-07-31 01:47:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O"
+      ],
+      "text": "The Wall Street Journal reports Anthropic's new Texas data center campus will use Google's TPU chips, sources say."
+    },
+    {
+      "id": "mkt:019fb423-a765-7aab-8f1a-5946f6737a0c",
+      "time": "2026-07-31 01:47:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal, citing sources, says Nexus Data Centers is in talks to raise $15 bln to finance a new data‑center campus in Texas."
+    },
+    {
+      "id": "mkt:019fb423-7c4e-7aab-8f1a-5243ac576aa4",
+      "time": "2026-07-31 01:47:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "SPA reported Saudi Arabia has formed a maritime defense coalition to protect Red Sea shipping, with 13 other countries participating."
+    },
+    {
+      "id": "mkt:019fb423-6b54-7aab-8f1a-494f6f8a18a4",
+      "time": "2026-07-31 01:47:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Situational Awareness did not sell its ANTHROPIC stake in a portfolio-sale transaction with Citadel."
+    },
+    {
+      "id": "mkt:019fb423-5f93-7aab-8f1a-43f4597674da",
+      "time": "2026-07-31 01:47:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "The Wall Street Journal reports multiple banks are negotiating a USD 15 bln loan to a data-center developer partnered with ANTHROPIC; Google will provide financial guarantees and chip support."
+    },
+    {
+      "id": "5017601",
+      "time": "2026-07-31 01:46:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "納瓦羅：如果趨勢持續，美聯儲降息仍應是選項之一。"
+    },
+    {
+      "id": "5017600",
+      "time": "2026-07-31 01:46:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪評級將美光科技的SR無擔保債券評級上調至BAA1；展望穩定。"
+    },
+    {
+      "id": "5017599",
+      "time": "2026-07-31 01:45:59",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【谷歌擔保背書 Anthropic得州資料中心正洽談融資150 億美元】知情人士透露，一家與Anthropic合作的資料中心開發商正進入深度洽談階段，計劃融資150億美元，在得克薩斯州興建大型資料中心園區及配套發電廠；谷歌將為此提供財務擔保與晶片。依據正在磋商的方案，由摩根士丹利牽頭的銀行財團將向Nexus Data Centers提供150億美元貸款，用於在得州哈伯德建設該園區。園區將配套自建天然氣發電廠，發電規模可達160萬千瓦。相關交易最快於今日公佈。知情人士稱，為協助Nexus完成融資，谷歌對Anthropic數十億美元的租賃費用、電力支付義務出具擔保，防範這家初創企業出現違約。其中一名訊息人士表示，谷歌提供的擔保額度有限，僅滿足銀行完成融資所需的最低要求。擔保覆蓋Anthropic簽署的四份資料中心租賃協議以及配套購電協議，電力將由服務該園區的廠內自備電廠供給。"
+    },
+    {
+      "id": "5017598",
+      "time": "2026-07-31 01:45:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際冰聯禁止俄羅斯和白俄羅斯參加2027年多項賽事】當地時間7月30日，國際冰球聯合會釋出宣告稱，不允許俄羅斯參加2027年國際冰聯男子冰球世錦賽、世界青年錦標賽、男子U18世錦賽和女子U18世錦賽。俄羅斯參加2027年女子冰球世錦賽的資格將由國際冰聯理事會於11月根據屆時情況和風險評估單獨審議。國際冰球聯合會還決定，白俄羅斯將不得參加2027年國際冰聯男子冰球世錦賽和世界青年錦標賽。（央視新聞）"
+    },
     {
       "id": "5017597",
       "time": "2026-07-31 01:44:36",
