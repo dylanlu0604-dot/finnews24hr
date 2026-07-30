@@ -1,7 +1,220 @@
 {
   "date": "2026-07-30",
-  "count": 3129,
+  "count": 3150,
   "items": [
+    {
+      "id": "mkt:019fb2d2-eeff-7aab-8f10-0b5c22adeba1",
+      "time": "2026-07-30 19:39:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Al Jazeera quoted the governor of Iran's Khuzestan province saying a U.S. military strike on Ahvaz today damaged two student housing complexes."
+    },
+    {
+      "id": "mkt:019fb2d2-4300-7aab-8f10-0564d4b1a9f3",
+      "time": "2026-07-30 19:39:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "【Bank of England says QT's impact on UK borrowing costs larger than expected】The Bank of England said its balance-sheet reduction has increased UK borrowing costs slightly more than previously estimated. In its Thursday monetary policy report the BoE said quantitative tightening lifted the 10-year gilt yield by about 20–30bps, versus a prior estimate of 15–25bps. The BoE will set the pace and size of balance-sheet reduction, including active gilt sales, in September for the coming year. While critics have blamed the plan for higher borrowing costs, the BoE said other factors, notably elevated inflation, were the main drivers. TD Securities strategist Pooja Kumra said the assessment signals the BoE is more accepting of QT’s effect on rates and reinforces market expectations that the pace of QT will slow further."
+    },
+    {
+      "id": "5016920",
+      "time": "2026-07-30 19:38:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體：伊拉克總司令部發言人否認了有關從伊拉克境內對沙特進行攻擊的指控，稱相關質控毫無根據。"
+    },
+    {
+      "id": "te:markets:571231",
+      "time": "2026-07-30 19:38:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Telecom Italia earnings below expectations at 0.09 EUR — Telecom Italia (TIT) released earnings per share at 0.09 EUR, compared to market expectations of 0.10 EUR."
+    },
+    {
+      "id": "te:markets:571230",
+      "time": "2026-07-30 19:38:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Eni earnings above expectations at 0.78 EUR — Eni (ENI) released earnings per share at 0.78 EUR, compared to market expectations of 0.75 EUR."
+    },
+    {
+      "id": "te:markets:571229",
+      "time": "2026-07-30 19:38:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Samsung Electronics earnings above expectations at 187.39 USD — Samsung Electronics (SMSN) released earnings per share at 187.39 USD, compared to market expectations of 186.80 USD."
+    },
+    {
+      "id": "5016919",
+      "time": "2026-07-30 19:38:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雷軍吐槽油價貴 小米澎程支援92號油】7月30日，小米舉辦澎程技術釋出會，雷軍在釋出會上表示，小米澎程支援92、95、98號汽油。雷軍還吐槽，大家為什麼買這麼多純電，因為油價貴嘛。"
+    },
+    {
+      "id": "te:markets:571228",
+      "time": "2026-07-30 19:38:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Delta Electronic Ind earnings below expectations at 9.47 TWD — Delta Electronic Ind (2308) released earnings per share at 9.47 TWD, compared to market expectations of 9.70 TWD."
+    },
+    {
+      "id": "te:markets:571227",
+      "time": "2026-07-30 19:38:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Adani Enterprises Ltd earnings below expectations at -7.41 INR — Adani Enterprises Ltd (ADEL) released earnings per share at -7.41 INR, compared to market expectations of 10.75 INR."
+    },
+    {
+      "id": "5016918",
+      "time": "2026-07-30 19:38:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科大訊飛智慧互動數字人平臺升級 首發超擬人數字人實時生成技術】7月30日，2026科大訊飛智慧互動數字人平臺升級釋出會在北京舉行。釋出會上，科大訊飛首發超擬人數字人實時生成技術，實現一張照片即可實時生成數字人；同步推出互動服務、營銷、培訓等場景化數字人解決方案。"
+    },
+    {
+      "id": "5016917",
+      "time": "2026-07-30 19:38:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存概念股盤前走高】閃迪漲超5%，美光科技漲超2%，SK海力士漲近2%。"
+    },
+    {
+      "id": "5016916",
+      "time": "2026-07-30 19:38:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將Meta目標股價從766美元下調至715美元。"
+    },
+    {
+      "id": "mkt:019fb2d1-0758-7aab-8f0f-fc15be13a27a",
+      "time": "2026-07-30 19:37:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bearish"
+      ],
+      "text": "UBS cuts Qualcomm (QCOM.O) price target to $170 from $190."
+    },
+    {
+      "id": "5016915",
+      "time": "2026-07-30 19:37:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金字火腿：上半年歸母淨虧損812.87萬元，同比由盈轉虧】金字火腿7月30日披露半年報，公司上半年實現營業收入1.54億元，同比下降9.26%；歸屬於上市公司股東的淨利潤虧損812.87萬元，上年同期盈利2292.04萬元；基本每股收益-0.01元/股。報告期內，公司業績主要受到行業需求變化、原材料價格波動以及新工廠整體搬遷、裝置除錯等因素的影響。"
+    },
+    {
+      "id": "mkt:019fb2d0-9de7-7aab-8f0f-f305e9765edc",
+      "time": "2026-07-30 19:37:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Students' News Agency reported Iraq's General Command spokesman denied allegations that attacks on Saudi Arabia were launched from Iraqi territory, calling the claims baseless."
+    },
+    {
+      "id": "5016914",
+      "time": "2026-07-30 19:37:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米汽車：小米崑崙平臺的第二個核心設計--方正格局。艙內可用面積最高可達4.4m²，空間更大、更規整。"
+    },
+    {
+      "id": "te:markets:571226",
+      "time": "2026-07-30 19:36:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Spain",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "CaixaBank earnings in line with market expectations at 0.21 EUR — CaixaBank (CABK) released earnings per share at 0.21 EUR, in line with market expectations."
+    },
+    {
+      "id": "te:markets:571225",
+      "time": "2026-07-30 19:36:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Adani Ports earnings above expectations at 15.71 INR — Adani Ports (ADSEZ) released earnings per share at 15.71 INR, compared to market expectations of 15.11 INR."
+    },
+    {
+      "id": "te:markets:571224",
+      "time": "2026-07-30 19:36:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Bank Central Asia earnings above expectations at 120.47 IDR — Bank Central Asia (BBCA) released earnings per share at 120.47 IDR, compared to market expectations of 119.75 IDR."
+    },
+    {
+      "id": "5016913",
+      "time": "2026-07-30 19:36:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "洲際交易所宣佈，2026年第三季度每股派息0.52美元，較2025年第三季度增長8%。"
+    },
+    {
+      "id": "5016912",
+      "time": "2026-07-30 19:36:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【截至6月底全國已建成投運新型儲能裝機規模達1.53億千瓦/3.96億千瓦時】記者30日從國家能源局舉行的新聞釋出會上獲悉，截至6月底，全國已建成投運新型儲能裝機規模達1.53億千瓦/3.96億千瓦時，同比增長61%。 新型儲能已成為促進新能源大規模開發消納、保障電力可靠供應和提高電力系統安全穩定水平的關鍵技術裝備。 釋出會上釋出的《中國新型儲能發展報告（2026）》顯示，“十四五”時期，新型儲能裝機規模快速發展，全國新型儲能裝機規模從“十四五”初期的300萬千瓦提升至1.36億千瓦，總體呈現逐年翻倍發展態勢。各類技術路線快速發展，逐步形成“鋰離子電池儲能主導，多技術路線並舉”的發展格局。 國家能源局能源節約和科技裝備司副司長徐繼林表示，“十四五”以來，我國新型儲能實現從小到大、從弱到強的跨越式發展，打造了新興產業發展的典型案例，為全球能源轉型貢獻“中國力量”。 “‘十五五’時期，國家能源局將積極推動新型儲能技術創新能力、產業發展水平穩居全球前列，以更大的力度、更務實的舉措推動新型儲能高質量發展。”徐繼林說。(新華社)"
+    },
     {
       "id": "5016911",
       "time": "2026-07-30 19:36:01",
