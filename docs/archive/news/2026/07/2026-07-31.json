@@ -1,7 +1,122 @@
 {
   "date": "2026-07-31",
-  "count": 113,
+  "count": 126,
   "items": [
+    {
+      "id": "5017554",
+      "time": "2026-07-31 01:04:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克計劃中期選舉投入至少 1 億美元資金。"
+    },
+    {
+      "id": "5017553",
+      "time": "2026-07-31 01:03:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "Cursor推出基準合作伙伴計劃，合作伙伴包括亞馬遜雲科技、波士頓諮詢、Databricks、麥肯錫、英偉達。"
+    },
+    {
+      "id": "mkt:019fb3fa-92e8-7aab-8f19-89ffecd1eb82",
+      "time": "2026-07-31 01:02:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI says GPT-5.6 SOL Fast Mode replaces priority handling in its API."
+    },
+    {
+      "id": "5017552",
+      "time": "2026-07-31 01:02:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "Webuild集團獲授熱那亞次港隧道專案，合同金額8.03億歐元，該專案預計將創造700多個就業崗位。"
+    },
+    {
+      "id": "mkt:019fb3fa-6620-7aab-8f19-8484a46a1d66",
+      "time": "2026-07-31 01:02:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "OpenAI said SOL pricing and ChatGPT and CODEX subscription prices and quotas remain unchanged; Terra and Luna usage will consume fewer credits."
+    },
+    {
+      "id": "mkt:019fb3fa-113d-7aab-8f19-7cf1e5a6f539",
+      "time": "2026-07-31 01:02:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI prices Terra API at $2 per MLN input tokens and $12 per MLN output tokens."
+    },
+    {
+      "id": "mkt:019fb3f9-1d6f-7aab-8f19-724dcf3a507a",
+      "time": "2026-07-31 01:01:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI priced its LUNA API at $0.20 per MLN input tokens and $1.20 per MLN output tokens."
+    },
+    {
+      "id": "mkt:019fb3f8-dca6-7aab-8f19-6e1490e3f3c9",
+      "time": "2026-07-31 01:00:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "OpenAI cuts the price of GPT-5.6Luna by 80% and GPT-5.6Terra by 20%."
+    },
+    {
+      "id": "5017551",
+      "time": "2026-07-31 01:00:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "OPENAI：GPT-5.6 SOL快速模式取代API中的優先處理功能。"
+    },
+    {
+      "id": "5017550",
+      "time": "2026-07-31 01:00:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "OPENAI：SOL定價、ChatGPT及Codex訂閱價格與配額預算維持不變；TERRA與LUNA使用現消耗更少積分。"
+    },
+    {
+      "id": "5017549",
+      "time": "2026-07-31 01:00:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：針對Terra模型，應用程式程式設計介面API定價為每百萬輸入令牌2美元，每百萬輸出令牌12美元。"
+    },
+    {
+      "id": "5017548",
+      "time": "2026-07-31 01:00:37",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "OpenAI將GPT-5.6 Luna降價80%，將GPT-5.6 Terra降價20%。"
+    },
+    {
+      "id": "5017547",
+      "time": "2026-07-31 01:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：針對Luna模型的應用程式程式設計介面定價為，每百萬輸入令牌收費0.20美元，每百萬輸出令牌收費1.20美元。"
+    },
     {
       "id": "5017546",
       "time": "2026-07-31 01:00:28",
