@@ -1,7 +1,42 @@
 {
   "date": "2026-07-31",
-  "count": 232,
+  "count": 236,
   "items": [
+    {
+      "id": "5017624",
+      "time": "2026-07-31 02:16:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "據知情人士透露，Equinix料將達成最新一筆資料中心協議，有望透過出售投資級債券融資30億美元。"
+    },
+    {
+      "id": "5017623",
+      "time": "2026-07-31 02:15:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈馬斯表示，組織武器的清點與入庫過程將耗時14天。一個直接與該組織對接的國際委員會將負責武器的清點與入庫工作。重型武器將進行清點，並移交給加沙管理國家委員會。"
+    },
+    {
+      "id": "5017622",
+      "time": "2026-07-31 02:15:10",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【英國FCA將從週五起釋出每日股票交易資料】據知情人士透露，英國市場監管機構金融行為監管局（FCA）計劃從本週五起，每日釋出英國股票交易的彙總資料，這是其提高市場透明度舉措的一部分。該監管機構還將釋出為期一年的歷史回溯資料，以幫助投資者評估英國股票的交易量。在推出完整的股票綜合資料流（即單一的股票交易資料來源）之前，每日更新將作為一項過渡性舉措。"
+    },
+    {
+      "id": "te:markets:571330",
+      "time": "2026-07-31 02:15:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Germany Natural Gas THE Falls by 3.68% — Top commodity losers are Germany Natural Gas THE (-3.68%), Coking Coal (-3.53%), Natural Gas EU (-3.46%), Brent Crude Oil (-1.35%) and Crude Oil WTI (-0.38%). Gains are led by Natural gas (1.27%)."
+    },
     {
       "id": "5017621",
       "time": "2026-07-31 02:12:17",
