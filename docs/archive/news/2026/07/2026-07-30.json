@@ -1,7 +1,214 @@
 {
   "date": "2026-07-30",
-  "count": 3236,
+  "count": 3260,
   "items": [
+    {
+      "id": "mkt:019fb2ec-9663-7aab-8f10-fa3c9500a443",
+      "time": "2026-07-30 20:07:57",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor Bailey said the pace at which pressures are building is slower than expected in April."
+    },
+    {
+      "id": "5016988",
+      "time": "2026-07-30 20:07:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST東時：控股子公司涉2345.36萬元合同糾紛訴訟】ST東時公告稱，公司控股子公司山東東方時尚因與北京華藍盾科技有限公司存在合同糾紛，被對方起訴至北京市海淀區人民法院，涉案金額2345.36萬元。案件已立案，尚未開庭審理。截至公告披露日，公司及控股子公司連續十二個月內累計新增訴訟10件，涉及本金3700.66萬元，佔最近一期經審計淨資產的48.31%。此外，公司預重整存不確定性，股票存在被實施退市風險警示的風險。"
+    },
+    {
+      "id": "5016986",
+      "time": "2026-07-30 20:07:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬事達卡預計第三季度運營支出增速為高位個位數。"
+    },
+    {
+      "id": "5016985",
+      "time": "2026-07-30 20:07:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：通脹壓力積聚速度慢於 4 月預期。"
+    },
+    {
+      "id": "te:markets:571246",
+      "time": "2026-07-30 20:07:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Mastercard earnings above expectations at 5.04 USD — Mastercard (MA) released earnings per share at 5.04 USD, compared to market expectations of 4.76 USD."
+    },
+    {
+      "id": "5016984",
+      "time": "2026-07-30 20:07:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬事達卡預計第三季度淨收入增速處於較低雙位數區間上限。"
+    },
+    {
+      "id": "mkt:019fb2eb-a4b2-7aab-8f10-f1c11b1d91d5",
+      "time": "2026-07-30 20:06:55",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor Bailey expects indirect inflationary effects to raise inflation by 0.5 percentage point in H2 2026."
+    },
+    {
+      "id": "5016983",
+      "time": "2026-07-30 20:06:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美好生活集團控股：預計2026年度由盈轉虧，虧損不少於1470萬港元】美好生活集團控股公告，經初步審閱，集團預計截至2026年4月30日止年度錄得未經稽核綜合虧損不少於1470萬港元，相比截至2025年4月30日止年度錄得經稽核綜合利潤約0.8百萬港元。虧損增加主要由於商譽減值虧損增加及行政開支增加所致。"
+    },
+    {
+      "id": "5016982",
+      "time": "2026-07-30 20:06:39",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：預計間接通脹影響將在2026年下半年推高通脹0.5個百分點。"
+    },
+    {
+      "id": "5016981",
+      "time": "2026-07-30 20:06:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：電報（Telegram）創始人帕維爾・杜羅夫被列入俄羅斯聯邦金融監管局恐怖分子及極端分子名單。"
+    },
+    {
+      "id": "mkt:019fb2eb-2c12-7aab-8f10-ed24922863ba",
+      "time": "2026-07-30 20:06:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia has designated Telegram founder Pavel Durov as an extremist and a terrorist."
+    },
+    {
+      "id": "5016980",
+      "time": "2026-07-30 20:06:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北斗星通：收購控股子公司少數股東5.8263%股權】北斗星通公告稱，公司於2026年7月30日召開第七屆董事會第三十一次會議，審議透過以7502萬元自有資金，收購控股子公司芯與物（上海）科技有限公司少數股東北京北斗海松產業發展投資中心（有限合夥）持有的5.8263%股權。交易完成後，公司對芯與物持股比例將由59.3872%增至65.2135%。本次交易構成關聯交易，金額佔公司2025年度經審計淨資產1.55%，無需提交股東會審議，不構成重大資產重組。"
+    },
+    {
+      "id": "5016979",
+      "time": "2026-07-30 20:06:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國與以色列訊息人士的訊息：相關議題談判取得重大進展，內容涉及哈馬斯同意解除武裝，以及以色列允許在加沙地帶開展軍事行動。但一名官員表示，在正式協議簽署前，“相關安排不會落地”。"
+    },
+    {
+      "id": "5016978",
+      "time": "2026-07-30 20:05:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【位元組已組建豆包辦公部門】目前豆包內部已經組建豆包辦公部門，旨在推動豆包深度融入真實辦公及協作流程，持續提升辦公生產力。記者注意到，當前有招聘平臺已經出現標註“豆包辦公”的崗位，主招崗位為AI策略產品經理，主要負責豆包在智慧辦公和企業場景中的產品功能，以及跨產品能力整合和規模化落地。 （藍鯨科技）"
+    },
+    {
+      "id": "5016977",
+      "time": "2026-07-30 20:05:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬事達卡第二季度營收為93億美元，市場預期為90.68億美元。"
+    },
+    {
+      "id": "5016976",
+      "time": "2026-07-30 20:05:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬事達卡第二季度調整後每股收益為5.04美元，市場普遍預期（IBES市場預期）為4.77美元。"
+    },
+    {
+      "id": "te:economy:571245",
+      "time": "2026-07-30 20:05:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Inflation Rate",
+        "Importance 3"
+      ],
+      "text": "German Inflation Accelerates to Three-Month High — Germany's annual inflation rate accelerated to 2.8% in July 2026 from 2.3% in June, exceeding market expectations of 2.7%, according to preliminary estimates. It was the highest reading since April, driven by a sharp pickup in energy inflation to 8.3% from 3.4% as renewed Middle East tensions pushed oil prices higher. Meanwhile, services inflation eased to 2.9% from 3.1%, while food inflation remained unchanged at 0.4%. Core inflation, which excludes energy and unprocessed food, edged down to 2.4% from 2.5%. The EU-harmonized inflation rate also rose to 2.8%, its highest level in three months and well above the European Central Bank's 2.0% target."
+    },
+    {
+      "id": "mkt:019fb2ea-42a8-7aab-8f10-e03813c8f10a",
+      "time": "2026-07-30 20:05:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor Bailey said there is currently almost no sign that rising energy prices have become embedded in inflation."
+    },
+    {
+      "id": "5016975",
+      "time": "2026-07-30 20:05:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非主要股指上漲 1%，報 111559.70 點。"
+    },
+    {
+      "id": "5016974",
+      "time": "2026-07-30 20:05:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英偉達美股盤前漲超2%】英偉達美股盤前漲超2%，現報193.88美元。"
+    },
+    {
+      "id": "5016973",
+      "time": "2026-07-30 20:04:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美光科技美股盤前漲超4%】美光科技美股盤前漲超4%，現報768.855美元。"
+    },
+    {
+      "id": "5016972",
+      "time": "2026-07-30 20:04:17",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "英國央行行長貝利：目前幾乎沒有跡象表明能源價格上漲已形成持續性通脹壓力。"
+    },
+    {
+      "id": "5016971",
+      "time": "2026-07-30 20:04:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【西部資料美股盤前漲超5%】西部資料美股盤前漲超5%，現報485.6美元。"
+    },
     {
       "id": "5016970",
       "time": "2026-07-30 20:03:48",
@@ -18,6 +225,17 @@
         "公司"
       ],
       "text": "【特銳德：擬3億 - 6億元回購股份用於激勵計劃】特銳德公告稱，公司擬使用自有或自籌資金，以集中競價交易方式回購部分A股，資金總額不低於3億元且不超過6億元，回購價不超50元/股，期限自董事會審議透過日起12個月內。按上限測算，預計回購1200萬股，佔總股本1.14%；按下限測算，預計回購600萬股，佔0.57%。回購股份用於股權激勵或員工持股計劃。本次回購存在實施、股票無法授出或轉讓等風險。"
+    },
+    {
+      "id": "5016968",
+      "time": "2026-07-30 20:03:25",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊漲，道指期貨漲0.48%，標普500指數期貨漲0.66%，納指期貨漲1.41%。\n②德國DAX指數漲0.23%，英國富時100指數漲0.33%，法國CAC40指數漲0.95%，歐洲斯托克50指數漲0.99%。\n③WTI原油跌1.06%，報83.56美元/桶。布倫特原油跌1.12%，報87.11美元/桶。\n④美聯儲維持利率不變 沃什重申將通脹降至2%目標，美國國債收益率週四延續上漲走勢，國債被持續拋售。\n⑤英國央行將利率維持在3.75%不變，試圖在美伊緊張局勢再度升溫的風險與國內價格壓力降溫速度快於預期的跡象之間取得平衡。\n⑥美國知名科技投資者丹·尼爾斯表示晶片股“短期底部”已形成，有望迎來強勢反彈。\n⑦美股儲存概念股盤前走高，閃迪漲超5%，美光科技漲超2%，SK海力士漲近2%。\n⑧星巴克美股盤前漲超6%，現報110.90美元，該公司當季營業收入與淨利潤均超越市場預期。\n⑨ARM股價盤前下跌6.7%，此前其一季度業績不及預期且展望疲軟。"
     },
     {
       "id": "mkt:019fb2e8-0b31-7aab-8f10-d8e6ffc34066",
