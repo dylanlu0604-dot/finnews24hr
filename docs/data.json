@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-30 12:53:03",
-  "count": 17909,
+  "updated": "2026-07-30 12:57:07",
+  "count": 17907,
   "items": [
+    {
+      "id": "mkt:019fb161-a2d7-7aab-8f03-30036f04712c",
+      "time": "2026-07-30 12:56:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reported the Russian defence ministry said Russia had also attacked three cargo ships."
+    },
+    {
+      "id": "5015880",
+      "time": "2026-07-30 12:55:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美沙空襲加劇伊拉克主權困境】7月29日凌晨，美國和沙特軍隊對伊拉克境內多處目標發動聯合空襲。美沙方面稱，行動針對的是受到伊朗支援、涉嫌從伊拉克境內襲擊美方人員和沙特石油設施的民兵武裝組織。遭襲的“伊拉克人民動員組織”表示，其位於伊拉克多省的機構遭到打擊，造成至少20人死亡、32人受傷。有分析指出，這次襲擊值得關注的，不只是傷亡情況，而是地區衝突正在以更加直接的方式波及伊拉克。（央視）"
+    },
+    {
+      "id": "mkt:019fb160-81a0-7aab-8f03-2e7299faab03",
+      "time": "2026-07-30 12:55:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Interfax reported the Russian Defence Ministry said Russia launched strikes on multiple military targets in Ukraine, including Kyiv, Lviv and Dnipropetrovsk regions."
+    },
+    {
+      "id": "mkt:019fb15f-c915-7aab-8f03-22c06890c576",
+      "time": "2026-07-30 12:54:32",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【China new energy storage in operation 153 GW as of end-June】China had 153 GW of new energy storage in operation as of end-June, up 61% YoY, the National Energy Administration said at a press briefing. Utilization hours for new energy storage continued to rise in 1H."
+    },
+    {
+      "id": "5015879",
+      "time": "2026-07-30 12:54:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿聯酋航空再次致歉】阿聯酋航空今日釋出針對7月22日搭乘EK302航班全體乘客的致歉信，就此次重大航班延誤給出行計劃帶來的諸多不便深表歉意。公司稱正主動聯絡受影響的乘客，提供相應補償方案。同時也稱對乘客因本次事件所產生的額外但合理的費用予以稽核報銷。7月22日阿聯酋航空迪拜飛往上海的航班因遇上強雷雨天氣備降杭州蕭山機場，種種原因疊加導致機上373名旅客滯留機艙十幾個小時，公司第二天發致歉信，並稱網傳邊檢不讓旅客下飛機不屬實。（第一財經）"
+    },
+    {
+      "id": "mkt:019fb15f-490f-7aab-8f03-1b1bb060fda4",
+      "time": "2026-07-30 12:53:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish firefighters are securing a roughly 10-meter-diameter blast crater in Tarnawa-Kolonia, Lublin region, after reports of an explosion, Radio Zet said."
+    },
+    {
+      "id": "mkt:019fb15f-1068-7aab-8f03-101cda7527a6",
+      "time": "2026-07-30 12:53:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【NEA: Power supply broadly stable during summer peak】China's National Energy Administration said national peak load reached 1.553 billion kW (1,553 GW) during the summer peak, about 45 million kW (45 GW) above last year's peak. Since early July, widespread persistent heat and improving economic activity have driven repeated record electricity demand; 15 provincial grids including Liaoning, Jiangsu and Hubei logged a combined 32 new peak-load records since June. The NEA said power supply across the country remains broadly stable."
+    },
+    {
+      "id": "5015878",
+      "time": "2026-07-30 12:52:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家能源局：今年迎峰度夏電力供應總體平穩】從國家能源局今天舉行的新聞釋出會上瞭解到，今年迎峰度夏期間，全國用電負荷雖屢創歷史新高，但總體上各地電力供應平穩。7月初以來，全國出現較大範圍持續性高溫天氣。在經濟執行持續向好與高溫天氣共同驅動下，多地用電需求持續旺盛增長，全國用電負荷三創歷史新高，最高達15.53億千瓦，較去年極值增長約4500萬千瓦。6月以來，遼寧、江蘇、湖北等15個省級電網用電負荷累計32次創新高。從電力供給看，當前全國各地電力供應形勢總體平穩。"
+    },
     {
       "id": "mkt:019fb15d-c2d0-7aab-8f03-0c60c66dc8df",
       "time": "2026-07-30 12:52:19",
@@ -165091,91 +165163,6 @@
         "國際"
       ],
       "text": "【伊朗塔斯尼姆通訊社：伊朗打擊科威特境內美軍基地及通訊塔】伊朗半官方媒體塔斯尼姆通訊社報道，伊朗革命衛隊對科威特境內美軍薩勒姆基地與阿迪裡基地發動打擊，目標包含愛國者防空系統、直升機等軍用裝備，以及一座通訊塔。報道稱，此次針對通訊塔的打擊，是為報復美方此前對伊朗通訊塔實施的襲擊。塔斯尼姆另一則報道補充，數小時前伊朗軍方同樣襲擊了科威特美軍基地，打擊目標涵蓋薩勒姆基地燃料儲存區、多哈補給倉庫，以及阿里凡軍營彈藥庫。"
-    },
-    {
-      "id": "mkt:019f8d55-55b0-7aab-8e59-b910c6d864a7",
-      "time": "2026-07-23 12:56:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hyundai Motor says hybrid vehicles accounted for 18.9% of its Q2 vehicle sales."
-    },
-    {
-      "id": "mkt:019f8d55-377c-7aab-8e59-b0e32f811f71",
-      "time": "2026-07-23 12:56:39",
-      "tags": [
-        "MKT News",
-        "005380.KS"
-      ],
-      "text": "Hyundai Motor Co reported Q2 revenue of 49.2 trillion won and net profit of 2.5 trillion won."
-    },
-    {
-      "id": "5003609",
-      "time": "2026-07-23 12:56:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "海南省氣象臺2026年07月23日12時54分發布海上雷雨大風黃色預警訊號：受對流雲團影響，瓊州海峽海面23日12時54分到19時可能出現雷雨大風天氣，風力達7～9級並伴有強雷電，建議有關單位和人員做好防範工作。"
-    },
-    {
-      "id": "5003608",
-      "time": "2026-07-23 12:56:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【阿聯酋加速建設新港口以減少對霍爾木茲海峽依賴 】據阿聯酋媒體22日報道，在近期地區局勢持續緊張、霍爾木茲海峽航運受阻背景下，阿聯酋正加快推進位於東海岸富查伊拉酋長國的新港口專案建設，以降低對霍爾木茲海峽的依賴、提升本國集裝箱吞吐能力和海上貿易水平。據報道，迪拜環球港務集團當天與富查伊拉港務局簽署一項為期50年的港口特許經營協議，以推進魯蓋拉特集裝箱港和迪巴-富查伊拉港口專案建設。富查伊拉位於阿聯酋東海岸，瀕臨阿曼灣，船舶無需經由霍爾木茲海峽即可進出印度洋。根據規劃，魯蓋拉特集裝箱港設計年處理能力為250萬標準箱，迪巴-富查伊拉港口專案建成後將新增每年360萬噸普通貨物處理能力。專案將分階段實施，預計建設週期為24至30個月。"
-    },
-    {
-      "id": "5003607",
-      "time": "2026-07-23 12:55:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "現代汽車第二季度銷售額49.22萬億韓元，預估49.09萬億韓元。現代汽車第二季度淨利潤2.52萬億韓元，預估2.74萬億韓元。現代汽車第二季度營業利潤2.85萬億韓元，預估3.11萬億韓元。"
-    },
-    {
-      "id": "mkt:019f8d53-450f-7aab-8e59-af46ee705718",
-      "time": "2026-07-23 12:54:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Hindustan Petroleum executive says August oil supplies have been secured."
-    },
-    {
-      "id": "5003606",
-      "time": "2026-07-23 12:54:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾基亞：第二季度人工智慧與雲業務訂單承接額為28億歐元，銷售額同比實現翻倍以上增長。"
-    },
-    {
-      "id": "5003605",
-      "time": "2026-07-23 12:53:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾基亞：目前對2026年可比營業利潤的預期區間為21億至26億歐元。"
-    },
-    {
-      "id": "5003604",
-      "time": "2026-07-23 12:53:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾基亞：第二季度網路基礎設施部門淨銷售額按固定匯率計算同比增長12%，其中光網路業務領漲，增幅達20%。"
-    },
-    {
-      "id": "5003603",
-      "time": "2026-07-23 12:53:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾基亞：從運營層面來看，諾基亞全年業績展望保持不變。"
     }
   ]
 }

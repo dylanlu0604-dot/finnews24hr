@@ -1,7 +1,79 @@
 {
   "date": "2026-07-30",
-  "count": 1696,
+  "count": 1704,
   "items": [
+    {
+      "id": "mkt:019fb161-a2d7-7aab-8f03-30036f04712c",
+      "time": "2026-07-30 12:56:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reported the Russian defence ministry said Russia had also attacked three cargo ships."
+    },
+    {
+      "id": "5015880",
+      "time": "2026-07-30 12:55:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美沙空襲加劇伊拉克主權困境】7月29日凌晨，美國和沙特軍隊對伊拉克境內多處目標發動聯合空襲。美沙方面稱，行動針對的是受到伊朗支援、涉嫌從伊拉克境內襲擊美方人員和沙特石油設施的民兵武裝組織。遭襲的“伊拉克人民動員組織”表示，其位於伊拉克多省的機構遭到打擊，造成至少20人死亡、32人受傷。有分析指出，這次襲擊值得關注的，不只是傷亡情況，而是地區衝突正在以更加直接的方式波及伊拉克。（央視）"
+    },
+    {
+      "id": "mkt:019fb160-81a0-7aab-8f03-2e7299faab03",
+      "time": "2026-07-30 12:55:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Interfax reported the Russian Defence Ministry said Russia launched strikes on multiple military targets in Ukraine, including Kyiv, Lviv and Dnipropetrovsk regions."
+    },
+    {
+      "id": "mkt:019fb15f-c915-7aab-8f03-22c06890c576",
+      "time": "2026-07-30 12:54:32",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【China new energy storage in operation 153 GW as of end-June】China had 153 GW of new energy storage in operation as of end-June, up 61% YoY, the National Energy Administration said at a press briefing. Utilization hours for new energy storage continued to rise in 1H."
+    },
+    {
+      "id": "5015879",
+      "time": "2026-07-30 12:54:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿聯酋航空再次致歉】阿聯酋航空今日釋出針對7月22日搭乘EK302航班全體乘客的致歉信，就此次重大航班延誤給出行計劃帶來的諸多不便深表歉意。公司稱正主動聯絡受影響的乘客，提供相應補償方案。同時也稱對乘客因本次事件所產生的額外但合理的費用予以稽核報銷。7月22日阿聯酋航空迪拜飛往上海的航班因遇上強雷雨天氣備降杭州蕭山機場，種種原因疊加導致機上373名旅客滯留機艙十幾個小時，公司第二天發致歉信，並稱網傳邊檢不讓旅客下飛機不屬實。（第一財經）"
+    },
+    {
+      "id": "mkt:019fb15f-490f-7aab-8f03-1b1bb060fda4",
+      "time": "2026-07-30 12:53:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish firefighters are securing a roughly 10-meter-diameter blast crater in Tarnawa-Kolonia, Lublin region, after reports of an explosion, Radio Zet said."
+    },
+    {
+      "id": "mkt:019fb15f-1068-7aab-8f03-101cda7527a6",
+      "time": "2026-07-30 12:53:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【NEA: Power supply broadly stable during summer peak】China's National Energy Administration said national peak load reached 1.553 billion kW (1,553 GW) during the summer peak, about 45 million kW (45 GW) above last year's peak. Since early July, widespread persistent heat and improving economic activity have driven repeated record electricity demand; 15 provincial grids including Liaoning, Jiangsu and Hubei logged a combined 32 new peak-load records since June. The NEA said power supply across the country remains broadly stable."
+    },
+    {
+      "id": "5015878",
+      "time": "2026-07-30 12:52:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家能源局：今年迎峰度夏電力供應總體平穩】從國家能源局今天舉行的新聞釋出會上瞭解到，今年迎峰度夏期間，全國用電負荷雖屢創歷史新高，但總體上各地電力供應平穩。7月初以來，全國出現較大範圍持續性高溫天氣。在經濟執行持續向好與高溫天氣共同驅動下，多地用電需求持續旺盛增長，全國用電負荷三創歷史新高，最高達15.53億千瓦，較去年極值增長約4500萬千瓦。6月以來，遼寧、江蘇、湖北等15個省級電網用電負荷累計32次創新高。從電力供給看，當前全國各地電力供應形勢總體平穩。"
+    },
     {
       "id": "mkt:019fb15d-c2d0-7aab-8f03-0c60c66dc8df",
       "time": "2026-07-30 12:52:19",
