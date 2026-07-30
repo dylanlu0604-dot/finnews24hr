@@ -1,7 +1,292 @@
 {
   "date": "2026-07-30",
-  "count": 3400,
+  "count": 3432,
   "items": [
+    {
+      "id": "5017072",
+      "time": "2026-07-30 20:36:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金盃電工：全資子公司中標大唐集團專案，預計中標金額11.5億元】金盃電工公告，公司全資子公司金盃電纜近日收到中標通知書，成為中國大唐集團有限公司2026-2027年度電線電纜框架採購低壓電纜、1-35kV鋁合金電力電纜、6-35kV銅芯及鋁芯電力電纜標段的中標單位。根據招標檔案測算，三個標段預計中標金額合計為11.5億元（含稅），約佔公司2025年度經審計營業收入的5.01%。"
+    },
+    {
+      "id": "te:economy:571258",
+      "time": "2026-07-30 20:36:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "PCE Price Index Monthly Change",
+        "Importance 2"
+      ],
+      "text": "US PCE Prices Fall as Expected — The US PCE price index decreased 0.1% month-over-month in June 2026, as expected, after a 0.5% rise in May. Goods prices fell 0.6%, while services inflation slowed to 0.1% from 0.5% in the previous month. The core PCE index, which excludes food and energy, increased 0.1%, following a 0.3% advance in the previous month and less than market forecasts of a 0.2% rise. On an annual basis, headline PCE inflation eased to 3.7% from 4.1%, confirming expectations. Core PCE inflation edged down to 3.3% from 3.4%, also in line with forecasts."
+    },
+    {
+      "id": "5017071",
+      "time": "2026-07-30 20:35:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局局長：美國預計將在特朗普政府任期結束前釋出首個聯邦自動駕駛系統安全標準。"
+    },
+    {
+      "id": "mkt:019fb306-30ae-7aab-8f13-4658ce2bdf30",
+      "time": "2026-07-30 20:35:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "NHTSA chief says the US expects to issue the first federal safety standard for automated driving systems before the end of the Trump administration."
+    },
+    {
+      "id": "5017070",
+      "time": "2026-07-30 20:35:37",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲隔夜回購操作投標總額 300 萬美元，全額接納全部投標。"
+    },
+    {
+      "id": "5017069",
+      "time": "2026-07-30 20:35:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【農業農村部：研發農業農村專業模型，加快突破農業感測器等領域關鍵核心技術】農業農村部黨組召開擴大會議。部黨組書記、部長張柱主持會議。會議強調，要強化前瞻性、穿透式研究，完善農業人工智慧頂層設計，健全農情排程系統，整合打通多方資料，研發農業農村專業模型，加快突破農業感測器、專用晶片等領域關鍵核心技術。要加力推動農業人工智慧轉化應用，打造豐富多樣的應用場景，支援有條件的地區先行先試，讓人工智慧真正紮根田間地頭、賦能農業提質農民增收。要健全農業人工智慧標準體系，逐步建立風險監測、行業審查、安全管理等制度機制，確保安全、可靠、可控。"
+    },
+    {
+      "id": "mkt:019fb305-c661-7aab-8f13-3bc963126ba1",
+      "time": "2026-07-30 20:35:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of England Governor Bailey said market conditions are an important input to judgments on QT."
+    },
+    {
+      "id": "5017068",
+      "time": "2026-07-30 20:35:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：市場環境是量化緊縮決策考量中的重要一環。"
+    },
+    {
+      "id": "mkt:019fb305-6301-7aab-8f13-34c55fa441e9",
+      "time": "2026-07-30 20:35:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "NHTSA administrator said the U.S. has approved Amazon-owned Zoox to commercially deploy autonomous taxis without human-operated controls."
+    },
+    {
+      "id": "5017067",
+      "time": "2026-07-30 20:34:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國駐新加坡使館：鄭重提醒在新中國公民嚴防“假官員”電詐】近期，中國駐新加坡使館接報十數起中國公民遭遇“假官員”電詐案件，受騙者多為留學生、務工人員，受騙金額累計逾千萬人民幣。（環球網）"
+    },
+    {
+      "id": "5017066",
+      "time": "2026-07-30 20:34:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東方A：玻璃基封裝載板試驗線已通線 鈣鈦礦中試線效率達20.11%】京東方A(000725.SZ)釋出投資者關係活動記錄表公告，公司玻璃基封裝載板試驗線於2026年上半年實現全自動化裝置通線，設計產能1000片/月。公司已完成大尺寸高層數(9-2-9，20層)玻璃基載板樣品開發和送樣，並透過多項信賴性標準測試。鈣鈦礦方面，公司採用剛性/柔性/疊層元件技術路線並行開發，手套箱效率記錄達27.94%，實驗線21.39%，中試線20.11%，柔性16.6%。公司計劃今年下半年在黑龍江漠河、新疆吐魯番和寧夏銀川開展極致條件實證測試。光互連方面，公司已成立MicroLED光互連繫統及玻璃載板CPO技術攻關專案組，進行前瞻技術預研。公司控股子公司合肥京東方顯示技術有限公司於近日完成少數股東定向減資，註冊資本由240億元減少至175.5億元，公司持股比例從36.67%提高至50.14%。未來隨著存量產線折舊持續減少，公司總體折舊金額將在2025年基礎上開始下降，資本開支金額也將逐漸降低。"
+    },
+    {
+      "id": "5017065",
+      "time": "2026-07-30 20:34:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債在 PCE 物價、初請失業金以及二季度 GDP 資料公佈後保持平穩。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607303826938274",
+      "time": "2026-07-30 20:33:58",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國第二季度最終銷售初值為增加2.2%。"
+    },
+    {
+      "id": "mkt:019fb304-4b9c-7aab-8f13-2d541903a321",
+      "time": "2026-07-30 20:33:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "After US PCE data, the dollar index (DXY) was little changed, edging up about 7 points to 100.70."
+    },
+    {
+      "id": "em:jjsj_mgsj:202607303826937097",
+      "time": "2026-07-30 20:33:39",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國第二季度消費者支出初值為增加3.2%。"
+    },
+    {
+      "id": "5017064",
+      "time": "2026-07-30 20:33:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率最新上漲2.22個基點，報4.258%。"
+    },
+    {
+      "id": "5017063",
+      "time": "2026-07-30 20:33:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率上升5.98個基點，報5.203%。"
+    },
+    {
+      "id": "5017062",
+      "time": "2026-07-30 20:33:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率在經濟資料公佈後維持漲幅；10年期美國國債收益率最新上漲5.33個基點，報4.675%。"
+    },
+    {
+      "id": "5017061",
+      "time": "2026-07-30 20:33:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將星巴克目標股價從105美元上調至112美元。"
+    },
+    {
+      "id": "mkt:019fb303-db6e-7aab-8f13-22557ac32315",
+      "time": "2026-07-30 20:33:22",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Governor Bailey said waiting for all second-round effects to emerge before acting would be too late, but he could not say when action would be taken."
+    },
+    {
+      "id": "em:jjsj_mgsj:202607303826936781",
+      "time": "2026-07-30 20:33:18",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國第二季度個人消費支出(PCE)物價指數初值為上漲5.1%。"
+    },
+    {
+      "id": "5017060",
+      "time": "2026-07-30 20:33:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將Meta目標價從766美元下調至715美元。"
+    },
+    {
+      "id": "5017059",
+      "time": "2026-07-30 20:32:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將高通目標價從190美元下調至170美元。"
+    },
+    {
+      "id": "te:economy:571255",
+      "time": "2026-07-30 20:32:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "GDP Growth Rate",
+        "Importance 3"
+      ],
+      "text": "US GDP Growth Slows in Q2 — The US economy expanded an annualized 1.5% in Q2 2026, below 2.1% in Q1 and forecasts of 2.1% the advance estimate from the BEA showed. The contributors were increases in consumer spending, investment, and exports that were partly offset by a decrease in government spending. Imports also went up. Compared to the first quarter, the deceleration in real GDP reflected a downturn in government spending and decelerations in investment and exports that were partly offset by an acceleration in consumer spending. Imports increased more in the second quarter than in the first quarter."
+    },
+    {
+      "id": "mkt:019fb303-6438-7aab-8f13-1faf779bf4f3",
+      "time": "2026-07-30 20:32:51",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "BAILEY, governor of the Bank of England, said he thought they could wait and see."
+    },
+    {
+      "id": "5017058",
+      "time": "2026-07-30 20:32:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：等到所有第二輪效應都顯現再行動就太晚了，無法明確我們何時會採取行動"
+    },
+    {
+      "id": "5017057",
+      "time": "2026-07-30 20:32:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綠控傳動：首次公開發行股票註冊獲中國證監會同意】綠控傳動公告，公司首次公開發行股票並在創業板上市的註冊申請已獲中國證監會批覆同意，批覆自同意註冊之日起12個月內有效。"
+    },
+    {
+      "id": "5017056",
+      "time": "2026-07-30 20:32:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "本田印度動力產品公司第二財季（截至六月）利潤為1.11億盧比。"
+    },
+    {
+      "id": "5017055",
+      "time": "2026-07-30 20:32:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "梅賽德斯 - 賓士北美金融公司推出五檔基準債券發行方案。"
+    },
+    {
+      "id": "5017054",
+      "time": "2026-07-30 20:32:08",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【多家滬市公司集中釋出回購增持、業績喜報及中期分紅等利好】2026年7月30日晚間，多家滬市上市公司集中釋放利好訊號，涵蓋股份回購增持、經營業績報喜、中期分紅回報等多個維度，積極訊號密集釋放，市場信心持續鞏固。回購增持持續擴容增量。當日新增回購計劃4家，合計擬回購金額上限達3.2億元；新增增持計劃3家，合計擬增持金額上限為1.66億元。另有6家公司披露回購進展公告，持續向市場傳遞對公司長期投資價值的堅定信心。經營層面延續向好態勢，3家滬市公司提交績優定期報告或業績快報。股東回報及市場穩定性持續提升。（央視新聞）"
+    },
     {
       "id": "mkt:019fb302-95bf-7aab-8f13-130af3711a11",
       "time": "2026-07-30 20:31:58",
@@ -47,6 +332,15 @@
       "text": "【嘉亨家化：披露杭州拼便宜要約收購結果，31日復牌】嘉亨家化7月30日披露杭州拼便宜網路科技有限公司（簡稱“杭州拼便宜”）要約收購結果，杭州拼便宜預受要約的股東賬戶總數為254戶，預受要約股份總數為2356.93萬股，佔預定要約收購股份數量的110.817%。根據此前《要約收購報告書》的約定，若預受要約股份的數量超過2126.88萬股，則杭州拼便宜將按照同等比例收購已預受要約的股份。"
     },
     {
+      "id": "em:jjsj_mgsj:202607303826935833",
+      "time": "2026-07-30 20:31:22",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國第二季度實際GDP年化季率為1.5%，預期2.1%，前值2.10%。"
+    },
+    {
       "id": "5017051",
       "time": "2026-07-30 20:31:20",
       "tags": [
@@ -54,6 +348,15 @@
         "其他"
       ],
       "text": "英國央行行長貝利：委員分歧集中在應當儘早行動還是繼續觀望。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607303826935529",
+      "time": "2026-07-30 20:31:10",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國6月核心PCE價格指數環比上漲0.1%，市場預期上漲0.2%。"
     },
     {
       "id": "5017050",
