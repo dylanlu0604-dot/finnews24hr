@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-31 02:01:32",
+  "updated": "2026-07-31 02:05:26",
   "count": 17904,
   "items": [
+    {
+      "id": "5017614",
+      "time": "2026-07-31 02:03:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：2026年第二季度美國私人信貸違約率創歷史新高。"
+    },
+    {
+      "id": "mkt:019fb432-2b3d-7aab-8f1a-a1697d69d741",
+      "time": "2026-07-31 02:03:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Fitch: US private credit default rate hit a record high in Q2 2026."
+    },
+    {
+      "id": "mkt:019fb431-b74f-7aab-8f1a-9bdaa421e5b2",
+      "time": "2026-07-31 02:03:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The U.S. Senate voted 49-50 to reject a resolution that would have required President Trump to cease hostile actions against Iran absent Congressional authorization."
+    },
+    {
+      "id": "5017613",
+      "time": "2026-07-31 02:01:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "太平洋海岸能源公司：正與委內瑞拉國家石油公司及委內瑞拉政府敲定協議。"
+    },
     {
       "id": "5017612",
       "time": "2026-07-31 01:59:55",
@@ -165287,49 +165330,6 @@
         "國際"
       ],
       "text": "市場訊息：美國財政部收到163.04億美元的回購要約，接受了20億美元。"
-    },
-    {
-      "id": "5005295",
-      "time": "2026-07-24 02:04:40",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【摩根士丹利：10年期日債逼近3%具吸引力，提供良好買入機會 】隨著日本國債收益率攀升至“令人瞠目”的水平，摩根士丹利認為當前10年期日本國債收益率接近3%提供了良好的買入機會。摩根士丹利全球宏觀策略主管Matthew Hornbach在接受採訪時表示：“如果10年期日本國債收益率達到3%，我肯定會考慮買入。我認為這看起來非常有吸引力。”他指出，若買入名義收益率為3%的債券，並假設未來10年日本基礎通脹率接近1%，那麼實際利率將高達2%。在全球債券市場中，這樣的實際收益率具有相當的競爭力，尤其是考慮到日本持續面臨的人口老齡化挑戰及其對生產率增速的負面影響。近期，由於市場擔憂日本央行在加息問題上行動遲緩，以及對日本政府債務可持續性的疑慮，長期日本國債遭到大幅拋售。目前，10年期日本國債收益率徘徊在2.80%附近，即本月早些時候觸及的近30年來最高水平。基於當前的宏觀環境，Hornbach預計日本國債收益率曲線將進一步陡化，並認為5年期至10年期國債區間目前最具投資價值。"
-    },
-    {
-      "id": "mkt:019f9026-817b-7aab-8e71-45afd0beeee1",
-      "time": "2026-07-24 02:04:25",
-      "tags": [
-        "MKT News",
-        "GOOG.O",
-        "Impact bearish"
-      ],
-      "text": "MORGAN STANLEY cut ALPHABET (GOOG.O) price target to $400 from $415."
-    },
-    {
-      "id": "mkt:019f9026-5a3c-7aab-8e71-3f2ebad89cad",
-      "time": "2026-07-24 02:04:20",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "Morgan Stanley raised its price target on Apple (AAPL.O) to $364 from $360."
-    },
-    {
-      "id": "5005294",
-      "time": "2026-07-24 02:02:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：伊豫銀行與愛媛銀行正考慮組建控股公司，兩家銀行未來都將在該控股公司架構下運營，這一重組流程最早可於2027年4月完成。"
     }
   ]
 }

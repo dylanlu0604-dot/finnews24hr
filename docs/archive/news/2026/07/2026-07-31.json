@@ -1,7 +1,50 @@
 {
   "date": "2026-07-31",
-  "count": 217,
+  "count": 221,
   "items": [
+    {
+      "id": "5017614",
+      "time": "2026-07-31 02:03:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：2026年第二季度美國私人信貸違約率創歷史新高。"
+    },
+    {
+      "id": "mkt:019fb432-2b3d-7aab-8f1a-a1697d69d741",
+      "time": "2026-07-31 02:03:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Fitch: US private credit default rate hit a record high in Q2 2026."
+    },
+    {
+      "id": "mkt:019fb431-b74f-7aab-8f1a-9bdaa421e5b2",
+      "time": "2026-07-31 02:03:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The U.S. Senate voted 49-50 to reject a resolution that would have required President Trump to cease hostile actions against Iran absent Congressional authorization."
+    },
+    {
+      "id": "5017613",
+      "time": "2026-07-31 02:01:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "太平洋海岸能源公司：正與委內瑞拉國家石油公司及委內瑞拉政府敲定協議。"
+    },
     {
       "id": "5017612",
       "time": "2026-07-31 01:59:55",
