@@ -1,7 +1,86 @@
 {
   "date": "2026-07-31",
-  "count": 171,
+  "count": 180,
   "items": [
+    {
+      "id": "mkt:019fb419-a746-7aab-8f1a-2abf1390827f",
+      "time": "2026-07-31 01:36:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Four sources said Glencore has reached a processing agreement with HES International to supply feedstock to and sell refined products from the Whiting refinery."
+    },
+    {
+      "id": "5017588",
+      "time": "2026-07-31 01:36:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "週四（7月30日）歐市尾盤，ICE英國天然氣期貨跌3.50%，報141.300便士/千卡。TTF基準荷蘭天然氣期貨跌3.41%，報58.650歐元/兆瓦時。ICE歐盟碳排放交易許可（期貨價格）跌0.32%，報81.26歐元/噸。"
+    },
+    {
+      "id": "mkt:019fb419-7890-7aab-8f1a-24bb43ec8d24",
+      "time": "2026-07-31 01:36:35",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Al Jazeera reports Iran's military says it used drones to strike Bahrain's Sheikh Isa air base."
+    },
+    {
+      "id": "5017587",
+      "time": "2026-07-31 01:36:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：嘉能可(GLENCORE)已與HES International達成一項加工協議，向Wilhelmshaven煉油廠供應原油並銷售成品燃料。"
+    },
+    {
+      "id": "5017586",
+      "time": "2026-07-31 01:34:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安理會舉行聯合國秘書長遴選首輪意向性投票】聯合國安理會30日就下一任秘書長遴選舉行首輪意向性投票。安理會當月輪值主席、剛果（金）常駐聯合國代表澤農·穆孔戈·恩蓋在投票結束後說，意向性投票結果不對外公佈，將透過候選人推舉國通知各候選人。（新華社）"
+    },
+    {
+      "id": "5017585",
+      "time": "2026-07-31 01:34:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 伊朗宣佈，將針對商船遭 “破壞行動” 一事向烏克蘭作出回應。"
+    },
+    {
+      "id": "mkt:019fb417-0266-7aab-8f1a-182b20c86b22",
+      "time": "2026-07-31 01:33:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yemen’s Houthi movement denies attack on vessels at Egypt’s Damietta port】On the 30th, Yemen’s Houthi movement denied involvement in a fire aboard an LNG carrier and a storage vessel at Egypt’s Damietta port, the Houthi-controlled Saba news agency quoted a Houthi source as saying. The source called reports that Houthis attacked the ships “without factual basis,” said Houthi military action is directed only at Saudi Arabia, and asserted there is “no reason for concern” over Red Sea navigation safety."
+    },
+    {
+      "id": "mkt:019fb416-4b6b-7aab-8f1a-13eab301b809",
+      "time": "2026-07-31 01:33:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI cuts GPT-5.6 Luna price 80%, Terra 20%; Sol unchanged】OpenAI said on Thursday it will cut prices for two GPT-5.6 models after improving system efficiency: Luna will be reduced 80% to 0.20 dlr per MLN input tokens and 1.20 dlr per MLN output tokens; Terra will be reduced 20% to 2 dlr per MLN input tokens and 12 dlr per MLN output tokens. The cuts are reflected in Codex and ChatGPT Work billing; the top-tier GPT-5.6 Sol will not be discounted but OpenAI said it will offer a faster API option for Sol. OpenAI and Anthropic have both adjusted pricing, rate limits and other usage policies as next‑generation inference models drive sharply higher token consumption in longer-running agent tasks."
+    },
+    {
+      "id": "mkt:019fb416-38cb-7aab-8f1a-0c1554c66032",
+      "time": "2026-07-31 01:33:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's Finance Ministry said the central government posted a primary budget deficit of 48.178 billion reais in June."
+    },
     {
       "id": "5017584",
       "time": "2026-07-31 01:32:20",

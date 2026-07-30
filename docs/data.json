@@ -1,7 +1,86 @@
 {
-  "updated": "2026-07-31 01:33:18",
-  "count": 17895,
+  "updated": "2026-07-31 01:37:17",
+  "count": 17899,
   "items": [
+    {
+      "id": "mkt:019fb419-a746-7aab-8f1a-2abf1390827f",
+      "time": "2026-07-31 01:36:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Four sources said Glencore has reached a processing agreement with HES International to supply feedstock to and sell refined products from the Whiting refinery."
+    },
+    {
+      "id": "5017588",
+      "time": "2026-07-31 01:36:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "週四（7月30日）歐市尾盤，ICE英國天然氣期貨跌3.50%，報141.300便士/千卡。TTF基準荷蘭天然氣期貨跌3.41%，報58.650歐元/兆瓦時。ICE歐盟碳排放交易許可（期貨價格）跌0.32%，報81.26歐元/噸。"
+    },
+    {
+      "id": "mkt:019fb419-7890-7aab-8f1a-24bb43ec8d24",
+      "time": "2026-07-31 01:36:35",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Al Jazeera reports Iran's military says it used drones to strike Bahrain's Sheikh Isa air base."
+    },
+    {
+      "id": "5017587",
+      "time": "2026-07-31 01:36:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：嘉能可(GLENCORE)已與HES International達成一項加工協議，向Wilhelmshaven煉油廠供應原油並銷售成品燃料。"
+    },
+    {
+      "id": "5017586",
+      "time": "2026-07-31 01:34:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安理會舉行聯合國秘書長遴選首輪意向性投票】聯合國安理會30日就下一任秘書長遴選舉行首輪意向性投票。安理會當月輪值主席、剛果（金）常駐聯合國代表澤農·穆孔戈·恩蓋在投票結束後說，意向性投票結果不對外公佈，將透過候選人推舉國通知各候選人。（新華社）"
+    },
+    {
+      "id": "5017585",
+      "time": "2026-07-31 01:34:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 伊朗宣佈，將針對商船遭 “破壞行動” 一事向烏克蘭作出回應。"
+    },
+    {
+      "id": "mkt:019fb417-0266-7aab-8f1a-182b20c86b22",
+      "time": "2026-07-31 01:33:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yemen’s Houthi movement denies attack on vessels at Egypt’s Damietta port】On the 30th, Yemen’s Houthi movement denied involvement in a fire aboard an LNG carrier and a storage vessel at Egypt’s Damietta port, the Houthi-controlled Saba news agency quoted a Houthi source as saying. The source called reports that Houthis attacked the ships “without factual basis,” said Houthi military action is directed only at Saudi Arabia, and asserted there is “no reason for concern” over Red Sea navigation safety."
+    },
+    {
+      "id": "mkt:019fb416-4b6b-7aab-8f1a-13eab301b809",
+      "time": "2026-07-31 01:33:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI cuts GPT-5.6 Luna price 80%, Terra 20%; Sol unchanged】OpenAI said on Thursday it will cut prices for two GPT-5.6 models after improving system efficiency: Luna will be reduced 80% to 0.20 dlr per MLN input tokens and 1.20 dlr per MLN output tokens; Terra will be reduced 20% to 2 dlr per MLN input tokens and 12 dlr per MLN output tokens. The cuts are reflected in Codex and ChatGPT Work billing; the top-tier GPT-5.6 Sol will not be discounted but OpenAI said it will offer a faster API option for Sol. OpenAI and Anthropic have both adjusted pricing, rate limits and other usage policies as next‑generation inference models drive sharply higher token consumption in longer-running agent tasks."
+    },
+    {
+      "id": "mkt:019fb416-38cb-7aab-8f1a-0c1554c66032",
+      "time": "2026-07-31 01:33:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's Finance Ministry said the central government posted a primary budget deficit of 48.178 billion reais in June."
+    },
     {
       "id": "5017584",
       "time": "2026-07-31 01:32:20",
@@ -165203,56 +165282,6 @@
         "AMD.O"
       ],
       "text": "AMD (AMD.O) and Cerebras will launch their joint product later this year."
-    },
-    {
-      "id": "5005272",
-      "time": "2026-07-24 01:36:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD 與 Cerebras 合作產品將於今年晚些時候推向市場。"
-    },
-    {
-      "id": "mkt:019f900c-552c-7aab-8e70-dcd6572093be",
-      "time": "2026-07-24 01:35:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AMD.O",
-        "Impact bullish"
-      ],
-      "text": "AMD (AMD.O) CEO Lisa Su said the company is partnering with chip-design firm Cerebras to offer high-speed inference capabilities via Cerebras' cloud services."
-    },
-    {
-      "id": "5005271",
-      "time": "2026-07-24 01:34:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "Cerebras Systems漲幅迅速擴大至11%，該公司與ADM針對快速推理提供捆綁式產品。"
-    },
-    {
-      "id": "mkt:019f900b-72c6-7aab-8e70-d034cb890a91",
-      "time": "2026-07-24 01:34:50",
-      "tags": [
-        "MKT News",
-        "RTX.O",
-        "Impact bullish"
-      ],
-      "text": "【Zelenskiy says Ukraine to co-produce \"Patriot\" interceptors with Raytheon】On July 23 Ukrainian President Zelenskiy said Ukraine will jointly produce interceptors for the \"Patriot\" air-defence system with US defence firm Raytheon. He said he met a Raytheon delegation led by Vice President Joseph DeAntona, that Raytheon is willing to deepen cooperation to a new level, and that the matter — discussed earlier with US President Trump in Ankara — is now being advanced."
-    },
-    {
-      "id": "mkt:019f900b-2496-7aab-8e70-cf69cf5e494b",
-      "time": "2026-07-24 01:34:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "TASNIM NEWS reported a tanker belonging to Iran’s fleet minutes ago ignored a US-claimed blockade and moved from the high seas into the Gulf of Oman."
     }
   ]
 }
