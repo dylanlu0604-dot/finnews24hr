@@ -1,7 +1,42 @@
 {
   "date": "2026-07-31",
-  "count": 213,
+  "count": 217,
   "items": [
+    {
+      "id": "5017612",
+      "time": "2026-07-31 01:59:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿根廷頒新規 禁止煽動攻擊阿的外國人入境】阿根廷總統米萊29日晚簽署法令，禁止煽動攻擊該國及其公民或國家象徵的外國人入境。根據這項法令，任何外國人若以口頭或書面形式散佈仇恨資訊、煽動攻擊阿根廷國家及公民，都將被拒絕入境或驅逐出境。但政治和學術方面的批評言論不受該法令約束。阿根廷總統府在一份宣告中說，上述法令旨在回應近期針對阿及其公民的“敵對行為”。（新華社）"
+    },
+    {
+      "id": "5017611",
+      "time": "2026-07-31 01:59:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈馬斯稱關於加沙協議細節的宣佈可能在明天進行。"
+    },
+    {
+      "id": "5017610",
+      "time": "2026-07-31 01:59:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：哈馬斯稱加沙地帶的民兵武裝將被解散。"
+    },
+    {
+      "id": "mkt:019fb42d-295f-7aab-8f1a-9698920c10d5",
+      "time": "2026-07-31 01:58:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Banks in talks on $15bn loan for ANTHROPIC data center; Google to provide guarantees, chips】A MORGAN STANLEY-led banking syndicate is negotiating a $15 billion loan to Nexus Data Centers to build a large data center campus and a 1.6 GW onsite gas-fired power plant in Hubbard, Texas. Google will provide financial guarantees and supply chips; the guarantees are said to cover ANTHROPIC’s lease and power-payment obligations on four signed data center leases and related power purchase agreements but are limited to the minimum amount lenders require. The deal could be announced as soon as today."
+    },
     {
       "id": "5017609",
       "time": "2026-07-31 01:55:53",

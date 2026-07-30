@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-31 01:57:38",
-  "count": 17905,
+  "updated": "2026-07-31 02:01:32",
+  "count": 17904,
   "items": [
+    {
+      "id": "5017612",
+      "time": "2026-07-31 01:59:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿根廷頒新規 禁止煽動攻擊阿的外國人入境】阿根廷總統米萊29日晚簽署法令，禁止煽動攻擊該國及其公民或國家象徵的外國人入境。根據這項法令，任何外國人若以口頭或書面形式散佈仇恨資訊、煽動攻擊阿根廷國家及公民，都將被拒絕入境或驅逐出境。但政治和學術方面的批評言論不受該法令約束。阿根廷總統府在一份宣告中說，上述法令旨在回應近期針對阿及其公民的“敵對行為”。（新華社）"
+    },
+    {
+      "id": "5017611",
+      "time": "2026-07-31 01:59:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈馬斯稱關於加沙協議細節的宣佈可能在明天進行。"
+    },
+    {
+      "id": "5017610",
+      "time": "2026-07-31 01:59:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：哈馬斯稱加沙地帶的民兵武裝將被解散。"
+    },
+    {
+      "id": "mkt:019fb42d-295f-7aab-8f1a-9698920c10d5",
+      "time": "2026-07-31 01:58:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Banks in talks on $15bn loan for ANTHROPIC data center; Google to provide guarantees, chips】A MORGAN STANLEY-led banking syndicate is negotiating a $15 billion loan to Nexus Data Centers to build a large data center campus and a 1.6 GW onsite gas-fired power plant in Hubbard, Texas. Google will provide financial guarantees and supply chips; the guarantees are said to cover ANTHROPIC’s lease and power-payment obligations on four signed data center leases and related power purchase agreements but are limited to the minimum amount lenders require. The deal could be announced as soon as today."
+    },
     {
       "id": "5017609",
       "time": "2026-07-31 01:55:53",
@@ -165295,48 +165330,6 @@
         "公司"
       ],
       "text": "市場訊息：伊豫銀行與愛媛銀行正考慮組建控股公司，兩家銀行未來都將在該控股公司架構下運營，這一重組流程最早可於2027年4月完成。"
-    },
-    {
-      "id": "5005293",
-      "time": "2026-07-24 02:00:58",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將特斯拉目標價從417.00美元下調至400.00美元。"
-    },
-    {
-      "id": "5005292",
-      "time": "2026-07-24 02:00:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國科研團隊實現植物免疫受體精準定製化設計】植物病害嚴重威脅全球農業生產和糧食安全，每年造成數千億美元的經濟損失。培育和推廣作物抗病品種是植物病害綠色防控的核心策略之一。中國科學院遺傳與發育生物學研究所高彩霞研究員團隊首次提出“可程式設計植物合成免疫”的新理念，透過整合人工智慧輔助蛋白質設計、模組化免疫受體工程和植物體內定向進化技術，建立了可程式設計的合成植物免疫受體設計平臺，實現了植物免疫受體的精準定製化設計。該成果突破了天然抗病基因資源的限制，為快速應對新發病害和病原物變異提供了全新的技術路線。相關成果7月24日在國際學術期刊《科學》發表。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f9021-e56d-7aab-8e71-303bd7462d33",
-      "time": "2026-07-24 01:59:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Musk says Grok 4.5 is now live on all platforms."
-    },
-    {
-      "id": "5005291",
-      "time": "2026-07-24 01:58:26",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將Alphabet的目標股價從每股415美元下調至每股400美元，維持Alphabet增持評級。"
-    },
-    {
-      "id": "mkt:019f9020-f2eb-7aab-8e71-2c2059878784",
-      "time": "2026-07-24 01:58:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Wang Yi meets Belarus foreign minister】China said next year marks the 35th anniversary of diplomatic ties and that it will work with Belarus to plan multi-level exchanges, align development strategies, deepen governance-experience sharing, and advance higher-quality, all-round bilateral cooperation. Belarus thanked China for long-standing support, said frequent high-level leader contact has raised ties to an unprecedented level, and pledged to deepen comprehensive cooperation and draw on Chinese experience, using the 35th anniversary as an opportunity to expand cooperation in industry, investment and information technology and broaden local and people-to-people exchanges."
     }
   ]
 }
