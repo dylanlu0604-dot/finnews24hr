@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-31 04:27:37",
-  "count": 17876,
+  "updated": "2026-07-31 04:31:26",
+  "count": 17880,
   "items": [
+    {
+      "id": "mkt:019fb4b9-3438-7aab-8f1c-4f8f8f848dc1",
+      "time": "2026-07-31 04:31:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Apple (AAPL.O) fiscal 2026 Q3 iPhone revenue $54.25 bln, vs market expected $53.857 bln."
+    },
+    {
+      "id": "mkt:019fb4b9-3159-7aab-8f1c-426e0f9e372c",
+      "time": "2026-07-31 04:31:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Jul.24) | actual 33902000000B | previous 24814000000B"
+    },
+    {
+      "id": "mkt:019fb4b8-b25a-7aab-8f1c-3e4b0ee13da4",
+      "time": "2026-07-31 04:30:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) reported fiscal 2026 Q3 revenue $109.42 bln, vs $94.036 bln a year earlier; consensus $108.58 bln."
+    },
+    {
+      "id": "5017697",
+      "time": "2026-07-31 04:30:18",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "蘋果第三財季營收1094.2億美元，分析師預期1088.5億美元。\niPhone營收542.5億美元，分析師預期536億美元。"
+    },
+    {
+      "id": "mkt:019fb4b7-b490-7aab-8f1c-314b75dfc3b3",
+      "time": "2026-07-31 04:29:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "MU.O",
+        "SOXX"
+      ],
+      "text": "【Michael Burry latest position changes】Michael Burry reported increases in the following positions: increased short position in Micron Technology (MU.O) at $880.00; increased short in NVIDIA (NVDA.O); increased short in semiconductor ETF SOXX at $506.00; increased long in Lululemon Athletica (LULU.O) at $118.00; increased long in Flutter (FLUT.N); increased long in DraftKings (DKNG.O) at $23.40; increased long in Zoetis (ZTS.N) at $76.00."
+    },
+    {
+      "id": "5017696",
+      "time": "2026-07-31 04:27:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：AWS年化收入執行率1690億美元。"
+    },
+    {
+      "id": "5017695",
+      "time": "2026-07-31 04:27:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮官員：特朗普下令對關鍵礦產廢料實施出口限制。"
+    },
     {
       "id": "te:markets:571343",
       "time": "2026-07-31 04:26:55",
@@ -165015,35 +165092,6 @@
         "觀點"
       ],
       "text": "【7月24日美股成交額前20：特斯拉業績欠佳股價重挫14.5%】週四美股成交額第2名特斯拉收跌14.52%，創下2025年6月以來單日最大跌幅，成交371.77億美元。這家電動汽車廠商二季度業績不及預期，同時宣佈將大幅加碼開支，引發投資者恐慌。特斯拉公司二季度資本開支達到57.9億美元，同比暴漲142%，規模翻倍有餘。特斯拉預計全年資本總投入將突破250億美元。大規模投入導致本季度自由現金流由正轉負。雖然整車營收超出市場預期，但盈利水平有所惡化。受車輛平均售價走低、高利潤碳積分收入下滑影響，毛利率不及分析師預期。市場再度擔憂，特斯拉難以在大舉投資和利潤增長之間實現平衡。"
-    },
-    {
-      "id": "mkt:019f90aa-af6c-7aab-8e73-3ac57df2594f",
-      "time": "2026-07-24 04:28:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【WHITE HOUSE says US-Saudi civilian nuclear pact hinges on Saudi joining Abraham Accords】LEAVITT told reporters at the WHITE HOUSE on the 23rd the recently signed US-Saudi civilian nuclear agreement would be \"void\" if Saudi Arabia does not join the Abraham Accords. She reiterated President Trump’s condition that the pact’s activation \"depends on\" Saudi signing the Accords and said the president is the final decision-maker. LEAVITT added Trump has repeatedly urged Saudi counterparts to join the Accords promptly. The Abraham Accords are the normalization agreements Trump brokered between Israel and the UAE, Bahrain, Sudan and Morocco."
-    },
-    {
-      "id": "5005390",
-      "time": "2026-07-24 04:28:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美施壓沙特籤“亞伯拉罕協議” 否則核協議“作廢”】美國白宮新聞秘書萊維特23日在白宮記者會上稱，如果沙烏地阿拉伯不加入“亞伯拉罕協議”，美國同沙特日前簽署的民用核協議將“作廢”。美國和沙特能源部門22日分別發表宣告宣佈，兩國已簽署一項和平利用核能的合作協議。不過，美國總統特朗普23日早些時候在社交媒體發文稱，該協議將獲得批准，但前提條件是沙特加入“亞伯拉罕協議”。而這一前提條件在美沙兩國先前發表的宣告中均未提及。萊維特在回答記者提問時重申了特朗普的最新條件，稱該協議能否生效“取決於”沙特簽署“亞伯拉罕協議”，強調“總統始終是最終拍板的人”。她稱，特朗普曾多次就此事與沙特方面溝通，希望看到沙特儘快加入“亞伯拉罕協議”。萊維特同時表示，特朗普提出新條件後還未與沙特王儲兼首相穆罕默德交談過。穆罕默德王儲去年11月到訪白宮期間，特朗普“強烈要求”沙特加入“亞伯拉罕協議”，但遭拒絕。穆罕默德王儲直言，加沙戰事導致沙特國內反以情緒高漲，目前不會接受與以色列實現關係正常化。“亞伯拉罕協議”是特朗普在第一個總統任期“撮合”阿聯酋、巴林、蘇丹、摩洛哥等國與以色列實現關係正常化而簽署的協議。特朗普一直將此視為其重要“外交成就”。(新華社)"
-    },
-    {
-      "id": "mkt:019f90a9-b729-7aab-8e73-37682f254595",
-      "time": "2026-07-24 04:27:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "UN special envoy for Yemen said the priority is preserving the 2022 ceasefire agreement and preventing a return to large-scale conflict."
     }
   ]
 }

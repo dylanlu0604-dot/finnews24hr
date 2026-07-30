@@ -1,7 +1,84 @@
 {
   "date": "2026-07-31",
-  "count": 362,
+  "count": 369,
   "items": [
+    {
+      "id": "mkt:019fb4b9-3438-7aab-8f1c-4f8f8f848dc1",
+      "time": "2026-07-31 04:31:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Apple (AAPL.O) fiscal 2026 Q3 iPhone revenue $54.25 bln, vs market expected $53.857 bln."
+    },
+    {
+      "id": "mkt:019fb4b9-3159-7aab-8f1c-426e0f9e372c",
+      "time": "2026-07-31 04:31:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Jul.24) | actual 33902000000B | previous 24814000000B"
+    },
+    {
+      "id": "mkt:019fb4b8-b25a-7aab-8f1c-3e4b0ee13da4",
+      "time": "2026-07-31 04:30:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) reported fiscal 2026 Q3 revenue $109.42 bln, vs $94.036 bln a year earlier; consensus $108.58 bln."
+    },
+    {
+      "id": "5017697",
+      "time": "2026-07-31 04:30:18",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "蘋果第三財季營收1094.2億美元，分析師預期1088.5億美元。\niPhone營收542.5億美元，分析師預期536億美元。"
+    },
+    {
+      "id": "mkt:019fb4b7-b490-7aab-8f1c-314b75dfc3b3",
+      "time": "2026-07-31 04:29:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "MU.O",
+        "SOXX"
+      ],
+      "text": "【Michael Burry latest position changes】Michael Burry reported increases in the following positions: increased short position in Micron Technology (MU.O) at $880.00; increased short in NVIDIA (NVDA.O); increased short in semiconductor ETF SOXX at $506.00; increased long in Lululemon Athletica (LULU.O) at $118.00; increased long in Flutter (FLUT.N); increased long in DraftKings (DKNG.O) at $23.40; increased long in Zoetis (ZTS.N) at $76.00."
+    },
+    {
+      "id": "5017696",
+      "time": "2026-07-31 04:27:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：AWS年化收入執行率1690億美元。"
+    },
+    {
+      "id": "5017695",
+      "time": "2026-07-31 04:27:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮官員：特朗普下令對關鍵礦產廢料實施出口限制。"
+    },
     {
       "id": "te:markets:571343",
       "time": "2026-07-31 04:26:55",
