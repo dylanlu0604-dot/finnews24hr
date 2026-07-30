@@ -1,7 +1,895 @@
 {
   "date": "2026-07-30",
-  "count": 3453,
+  "count": 3544,
   "items": [
+    {
+      "id": "mkt:019fb31d-d351-7aab-8f14-37022f0d6d8f",
+      "time": "2026-07-30 21:01:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "IRNA quoted an Iranian lawmaker saying Iran will never accept a U.S.-style ceasefire and will continue to respond to aggressors."
+    },
+    {
+      "id": "5017145",
+      "time": "2026-07-30 21:01:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【超威半導體美股盤前漲超6%】超威半導體美股盤前漲超6%，現報455.45美元。"
+    },
+    {
+      "id": "5017144",
+      "time": "2026-07-30 21:01:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鴻蒙智行：智界V9車型單月交付超10000臺】鴻蒙智行宣佈，智界V9車型7月單月交付超10000臺。鴻蒙智行MPV新車智界V9於2026年5月15日正式上市，售價38.98萬-51.98萬元。"
+    },
+    {
+      "id": "5017143",
+      "time": "2026-07-30 21:00:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【臺積電美股盤前漲超4%】臺積電美股盤前漲超4%，現報389.9美元。"
+    },
+    {
+      "id": "mkt:019fb31d-1901-7aab-8f14-28937a37b7dd",
+      "time": "2026-07-30 21:00:56",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Bailey, Governor of the Bank of England, said tariffs could exert downward pressure on UK commodity prices by altering the trade environment."
+    },
+    {
+      "id": "5017142",
+      "time": "2026-07-30 21:00:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "SOLIDROAD 獲選為 OpenAI 精選合作伙伴。"
+    },
+    {
+      "id": "mkt:019fb31c-8ab2-7aab-8f14-23df05d818c4",
+      "time": "2026-07-30 21:00:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Industrial Metals"
+      ],
+      "text": "At the night session open, China’s main futures contracts traded mixed: low-sulfur fuel oil (LU), iron ore and coking coal fell over 1%; paraxylene (PX) and PTA rose more than 1%, and bottle-grade PET chips gained nearly 1%."
+    },
+    {
+      "id": "mkt:019fb31c-666d-7aab-8f14-18a502fb1183",
+      "time": "2026-07-30 21:00:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N) U.S. premarket shares rose as much as 4% after the company announced it will expand its partnership with Google."
+    },
+    {
+      "id": "mkt:019fb31c-61d1-7aab-8f14-10cb9d91819e",
+      "time": "2026-07-30 21:00:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Russia's central bank foreign-exchange and gold reserves rose to $732.1bn in the week to July 24 from $722.9bn the previous week."
+    },
+    {
+      "id": "5017141",
+      "time": "2026-07-30 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】碳酸鋰連續跌3.75%，矽鐵連續跌1.93%，鈀連續跌1.54%，焦煤連續跌1.54%，雞蛋連續跌1.44%。"
+    },
+    {
+      "id": "mkt:019fb31c-4293-7aab-8f14-083006063647",
+      "time": "2026-07-30 21:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "Russia | International Reserves (Jul.24) | actual 732100000000B | previous 722900000000B"
+    },
+    {
+      "id": "5017140",
+      "time": "2026-07-30 20:59:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "普拉達執行長表示：到2026年年中，我們眾多產品品類中的大部分新入門級產品定價已基本調整到位，我們對此“相當有把握”。"
+    },
+    {
+      "id": "5017139",
+      "time": "2026-07-30 20:59:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，7月29日美國有效聯邦基金利率為3.63%，當日成交規模為1010億美元；7月28日有效聯邦基金利率同為3.63%，當日成交規模為1060億美元。"
+    },
+    {
+      "id": "mkt:019fb31b-6c12-7aab-8f14-07f5f399998b",
+      "time": "2026-07-30 20:59:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Turkey's benchmark index fell 1.9%; banking index dropped 2.1%."
+    },
+    {
+      "id": "5017138",
+      "time": "2026-07-30 20:59:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要股指 BIST-100（.XU100）下跌 1.9%，銀行板塊指數（.XBANK）下跌 2.1%。"
+    },
+    {
+      "id": "te:economy:571273",
+      "time": "2026-07-30 20:58:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Wage Growth",
+        "Importance 1"
+      ],
+      "text": "Canada Weekly Earnings Growth Slows in May — Average weekly earnings of Canadian non-farm payroll employees rose 3.4% year-on-year to C$1,337.77 in May 2026, easing from a 3.8% increase in April and marking the slowest growth since February. The strongest wage gains were recorded in management of companies and enterprises (10%), utilities (9.2%), information and cultural industries (8.3%), retail trade (8.1%), and transportation and warehousing (7.1%). In contrast, earnings declined in real estate and rental and leasing (-1.8%) and construction (-0.1%). By province, Nunavut posted the largest increase (6.6%), followed by Nova Scotia (5.3%), Manitoba (4.8%), British Columbia (4.6%), and Prince Edward Island (4.5%), while Newfoundland and Labrador recorded a 1.3% decline. On a monthly basis, average weekly earnings fell 0.4%. Meanwhile, average weekly hours worked were unchanged at 33.4 hours."
+    },
+    {
+      "id": "5017137",
+      "time": "2026-07-30 20:58:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米汽車：小米澎程系列，2026年9月正式釋出，今晚21:00開啟預訂。"
+    },
+    {
+      "id": "mkt:019fb31b-0445-7aab-8f13-fa854980ff9d",
+      "time": "2026-07-30 20:58:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "1810.HK",
+        "Impact bullish"
+      ],
+      "text": "Xiaomi Auto said its Pengcheng series will be officially launched in September 2026; pre-orders open tonight at 21:00."
+    },
+    {
+      "id": "mkt:019fb31a-f0d7-7aab-8f13-f664c9a18da7",
+      "time": "2026-07-30 20:58:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc recorded a magnitude 3.3 earthquake at 20:44 on July 30 in Vietnam (22.93N, 105.66E); focal depth 10 km."
+    },
+    {
+      "id": "5017136",
+      "time": "2026-07-30 20:58:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "倫敦證券交易所集團（LSEG）IBES資料顯示，目前市場預計歐洲企業第二季度盈利將增長20.8%，一週前的預期增幅為17.3%。"
+    },
+    {
+      "id": "5017135",
+      "time": "2026-07-30 20:58:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 一名伊朗議員表示，伊朗絕不會接受美式停火方案，將持續反擊侵略者。"
+    },
+    {
+      "id": "mkt:019fb319-d502-7aab-8f13-ef35289d161e",
+      "time": "2026-07-30 20:57:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "Impact bearish",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Despite strong consumption, US GDP growth undershoots expectations】Despite resurgent consumer spending and robust business investment, US Q2 growth came in below expectations. The Bureau of Economic Analysis’ advance estimate on Thursday showed real GDP up 1.5% YoY in Q2. A large quarter-to-quarter decline in net exports masked still-strong domestic demand. Consumer spending, about two-thirds of US activity, rose 3.2% at an annualized quarterly rate. Business investment remained strong, supported by an AI-driven investment boom."
+    },
+    {
+      "id": "5017134",
+      "time": "2026-07-30 20:57:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "惠譽：預計法國和西班牙野火對歐洲多數大型保險公司2026年盈利的短期影響有限。"
+    },
+    {
+      "id": "5017133",
+      "time": "2026-07-30 20:57:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "惠譽評級：城市受損程度有限，歐洲保險公司野火損失料可控。"
+    },
+    {
+      "id": "5017132",
+      "time": "2026-07-30 20:56:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文公司：計劃在Oracle Fusion應用及Oracle NetSuite中，利用Gemini模型實現嵌入式人工智慧應用場景。"
+    },
+    {
+      "id": "5017131",
+      "time": "2026-07-30 20:56:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "受谷歌擴大合作協議影響，甲骨文股價盤前上漲4%。"
+    },
+    {
+      "id": "5017130",
+      "time": "2026-07-30 20:55:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【亞足聯：2028年U23男足亞洲盃將在日本舉辦】亞足聯30日宣佈，2028年U23男足亞洲盃將在日本舉辦。本屆U23亞洲盃也是2028年洛杉磯奧運會男足專案預選賽，賽事前兩名將獲得奧運會參賽資格。此外，亞足聯宣佈2027年U17男足亞洲盃將在烏茲別克舉辦，2029年U17男足亞洲盃將在沙烏地阿拉伯舉辦。亞足聯還確認，2026-2027、2027-2028和2028-2029三個賽季的亞冠精英聯賽決賽階段比賽都將在沙烏地阿拉伯舉行。（新華社）"
+    },
+    {
+      "id": "mkt:019fb318-39a6-7aab-8f13-e1df0ba7413e",
+      "time": "2026-07-30 20:55:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "ORCL.N",
+        "Impact bullish",
+        "GOOGL.O"
+      ],
+      "text": "Oracle expands partnership with Google; Oracle will launch enterprise applications built on Google's GEMINI model."
+    },
+    {
+      "id": "5017129",
+      "time": "2026-07-30 20:55:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：受關稅影響，貿易流向轉移正可能給英國帶來商品價格下行的影響。"
+    },
+    {
+      "id": "5017128",
+      "time": "2026-07-30 20:54:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗稱襲擊美軍在科威特的空軍基地】據伊朗塔斯尼姆通訊社30日報道，伊朗伊斯蘭革命衛隊當日發表宣告稱，伊朗當日對美軍在科威特的阿里·薩利姆空軍基地發動攻擊，成功摧毀兩座無人機機庫及一處飛機與軍用直升機燃料庫。（新華社）"
+    },
+    {
+      "id": "mkt:019fb317-832b-7aab-8f13-dbd0c0f7292a",
+      "time": "2026-07-30 20:54:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran's Islamic Revolutionary Guard Corps says it attacked US forces at Kuwait's Ali Al Salem air base】The Islamic Revolutionary Guard Corps said on the 30th it attacked US forces at Kuwait's Ali Al Salem air base, claiming to have destroyed two drone hangars and a fuel depot serving aircraft and military helicopters."
+    },
+    {
+      "id": "mkt:019fb317-4a62-7aab-8f13-d6602f7f8973",
+      "time": "2026-07-30 20:54:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England Governor Bailey said developments in El Nifio should be closely monitored."
+    },
+    {
+      "id": "5017127",
+      "time": "2026-07-30 20:54:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：需要密切關注厄爾尼諾現象的發展態勢。"
+    },
+    {
+      "id": "5017126",
+      "time": "2026-07-30 20:54:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗革命衛隊宣稱對科威特阿里薩勒姆空軍基地遇襲事件負責。"
+    },
+    {
+      "id": "5017125",
+      "time": "2026-07-30 20:54:05",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "甲骨文與谷甲骨文與谷歌擴大合作伙伴關係，甲骨文將把谷歌的Gemini模型引入企業應用。"
+    },
+    {
+      "id": "mkt:019fb316-86b4-7aab-8f13-c85ad843e21a",
+      "time": "2026-07-30 20:53:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor Bailey said the bank is not discussing 'insurance' rate hikes."
+    },
+    {
+      "id": "mkt:019fb316-61e6-7aab-8f13-c220756d56cd",
+      "time": "2026-07-30 20:53:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai mayor Gong Zheng meets Honeywell chairman and CEO Ke Weimao】Shanghai Mayor Gong Zheng met Honeywell chairman and CEO Ke Weimao on July 30, urging the US firm to deepen investment in Shanghai to support the city’s push for new industrialization and a modern industrial system. He highlighted high-end manufacturing, green low-carbon technologies and urban renewal as priority areas and asked Honeywell to place more core businesses, frontier technologies and high-quality projects in Shanghai, integrate with local manufacturing supply chains and help drive industrial digitalization, greening and sector integration."
+    },
+    {
+      "id": "5017124",
+      "time": "2026-07-30 20:53:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CoreWeave美股盤前漲超10%】CoreWeave美股盤前漲超10%，現報66.99美元。"
+    },
+    {
+      "id": "5017123",
+      "time": "2026-07-30 20:53:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SK海力士美股盤前漲超6%】SK海力士美股盤前漲超6%，現報134.46美元。"
+    },
+    {
+      "id": "5017122",
+      "time": "2026-07-30 20:53:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊警告，將對協助美國實施侵略的國家採取強硬反擊。"
+    },
+    {
+      "id": "5017121",
+      "time": "2026-07-30 20:52:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英特爾美股盤前漲超5%】英特爾美股盤前漲超5%，現報85.975美元。"
+    },
+    {
+      "id": "5017120",
+      "time": "2026-07-30 20:52:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：我們不是在談論“保險性”加息。"
+    },
+    {
+      "id": "5017119",
+      "time": "2026-07-30 20:51:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【龔正會見美國霍尼韋爾科技董事長兼執行長柯偉茂】上海市市長龔正今天（7月30日）會見了美國霍尼韋爾科技董事長兼執行長柯偉茂一行。龔正說，當前，上海正在深入推進新型工業化、培育發展新質生產力，加快構建現代化產業體系，著力推動高質量發展。在這個過程中，需要世界知名企業積極參與，特別是高階製造、綠色低碳、城市更新等領域，都離不開相關的配套技術和服務支撐。希望霍尼韋爾科技持續加大在滬投資佈局，把更多核心業務、前沿技術和優質專案落在上海，助力產業轉型升級，深度融入本土製造供應鏈，推動上海產業智慧化、綠色化、融合化發展。同時，歡迎公司積極參加第九屆進博會，把更多新產品、新技術、新服務帶到上海、引入中國，共享中國和上海的發展機遇。我們將一如既往地打造市場化、法治化、國際化一流營商環境，持續最佳化為企服務，助力各類企業在滬實現更大發展。柯偉茂說，每一次來到上海，都被這座城市的活力感染。上海的發展方向與霍尼韋爾的業務發展方向高度契合，我們願在新興產業領域深化合作。此次霍尼韋爾中國增長峰會在上海舉辦，我們帶來了最新技術和解決方案。我們對中國和上海的發展充滿信心，將持續加大在滬投資，持續參與進博會，與上海開展更多合作。霍尼韋爾於今年6月拆分為3家獨立運營企業。霍尼韋爾科技是其中之一，公司在滬設立了中國區總部、研發中心等實體。 (澎湃新聞)"
+    },
+    {
+      "id": "5017118",
+      "time": "2026-07-30 20:51:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米汽車釋出小米澎程N70 Max，預售價25.99萬元。"
+    },
+    {
+      "id": "5017117",
+      "time": "2026-07-30 20:50:59",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國經濟增速不及預期 美聯儲看重的通脹指標環比下降0.1%】美國第二季度經濟增幅弱於預期，儘管消費支出回升，企業投資也保持強勁。美國經濟分析局週四釋出的初步估算顯示，第二季度經通脹調整後的國內生產總值摺合年率增長1.5%。淨出口下降掩蓋了基本需求的強勁表現。淨出口資料通常會出現較大的季度波動。佔經濟活動約三分之二的消費支出摺合年率增長3.2%。在企業競相投資人工智慧的推動下，商業投資繼續快速增長。與此同時，受汽油價格下降推動，美聯儲看重的通脹指標，即個人消費支出(PCE)價格指數6月環比下降0.1%。不包括食品和能源的核心PCE價格指數環比上漲0.1%。"
+    },
+    {
+      "id": "mkt:019fb313-e94d-7aab-8f13-b81da750f965",
+      "time": "2026-07-30 20:50:54",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "【Bailey: Do not expect Bank of England to be close to a rate rise】Bank of England Governor Bailey said officials are split between acting quickly and waiting, and that the Bank can reasonably wait to see how developments unfold. He warned that waiting until all second‑round effects have emerged would be too late, but said the timing of any action remains uncertain. He added that market conditions are a key input to assessments of QT and urged markets not to assume the Bank is close to raising rates."
+    },
+    {
+      "id": "mkt:019fb313-9f8e-7aab-8f13-b554aa636816",
+      "time": "2026-07-30 20:50:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor BAILEY said policymakers should draw lessons from weaker monetary transmission."
+    },
+    {
+      "id": "5017116",
+      "time": "2026-07-30 20:50:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：對於第二輪通脹效應出現的可能性，我尚無定論。"
+    },
+    {
+      "id": "5017115",
+      "time": "2026-07-30 20:50:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "百勝餐飲集團股價在財報電話會議期間盤前上漲4%。"
+    },
+    {
+      "id": "5017114",
+      "time": "2026-07-30 20:50:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九典制藥：椒七止痛凝膠貼膏獲得藥品註冊證書】九典制藥7月30日公告，公司近日收到國家藥監局下發的《藥品註冊證書》，藥品名稱為椒七止痛凝膠貼膏。該藥品為中藥複方外用製劑，具有溫經散寒、活血止痛功效，用於膝骨關節炎寒凝血瘀證，症見關節疼痛、區域性畏寒、得溫痛減、活動不利、僵凝重滯等，該藥品的上市為膝骨關節炎寒凝血瘀證的患者提供了新的治療選擇。"
+    },
+    {
+      "id": "5017113",
+      "time": "2026-07-30 20:49:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國聯民生承銷保薦與中信銀行無錫分行達成戰略合作】7月29日，國聯民生承銷保薦與中信銀行無錫分行正式簽署戰略合作協議，雙方將以“商行+投行”深度聯動模式，整合券商資本市場專業能力與銀行綜合金融服務資源，聚焦無錫科創企業、先進製造產業，構建全週期一體化產融服務體系，合力服務長三角實體經濟高質量發展。"
+    },
+    {
+      "id": "5017112",
+      "time": "2026-07-30 20:49:45",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：應當重視通脹傳導效應走弱這一訊號。"
+    },
+    {
+      "id": "5017111",
+      "time": "2026-07-30 20:49:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列無人機襲擊造成加沙北部人員傷亡。"
+    },
+    {
+      "id": "5017110",
+      "time": "2026-07-30 20:49:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗媒體：伊朗革命衛隊當地時間週四早晨襲擊了位於科威特的美國基地。"
+    },
+    {
+      "id": "mkt:019fb311-f1a7-7aab-8f13-afaeff9704f8",
+      "time": "2026-07-30 20:48:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM News reported Iran’s Islamic Revolutionary Guard Corps (IRGC) attacked a US military base in Kuwait early Thursday local time."
+    },
+    {
+      "id": "5017109",
+      "time": "2026-07-30 20:48:39",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "小米汽車釋出小米澎程N90 Max，預售價29.99萬元。"
+    },
+    {
+      "id": "5017108",
+      "time": "2026-07-30 20:48:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "厄瓜多正與國際貨幣基金組織磋商，尋求氣候信託基金框架下新增融資。"
+    },
+    {
+      "id": "mkt:019fb311-6a51-7aab-8f13-a59242c2c60c",
+      "time": "2026-07-30 20:48:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Xiaomi",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "Xiaomi Auto launched the Pengcheng N90 Max with a pre-sale price of 299,900 yuan."
+    },
+    {
+      "id": "5017107",
+      "time": "2026-07-30 20:48:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大鵝高管表示，第二財季前幾周消費環境依然喜憂參半。"
+    },
+    {
+      "id": "5017106",
+      "time": "2026-07-30 20:48:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哈馬斯代表團與土耳其外長會晤 討論地區局勢】當地時間7月30日，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）發表宣告，表示該組織領導人哈亞率領代表團，在土耳其首都安卡拉與土外長費丹舉行會晤。雙方重點就巴以局勢、加沙局勢，特別是當前在開羅舉行的談判程序進行了深入討論。會晤期間，雙方對加沙地帶局勢表示高度關注。哈馬斯方面通報了加沙停火協議遭破壞的具體情況，以及當地持續發生的軍事衝突。同時，雙方還就以色列猶太人定居者在約旦河西岸引發的暴力衝突等問題交換了意見。此外，雙方還就推動巴勒斯坦內部團結進行了磋商。雙方強調，巴勒斯坦各派別有必要達成內部共識、整頓內部事務。雙方還對巴勒斯坦下一階段的選舉計劃及相關國家戰略願景進行了評估。哈亞在會晤中對土耳其長期以來為緩解巴以緊張局勢、推動恢復巴勒斯坦合法權利所作出的外交努力表示讚賞。（央視新聞）"
+    },
+    {
+      "id": "te:markets:571269",
+      "time": "2026-07-30 20:48:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Gain as Corporate Earnings Roll In — Futures tracking the S&P/TSX Composite Index moved higher on Thursday as investors assessed a fresh round of corporate earnings. Vermilion Energy, Kinross Gold, Cenovus, Alamos Gold, Loblaw, and TransCanada reported results above expectations. In contrast, Ivanhoe Mines and Tourmaline Oil missed earnings estimates. Canadian Natural Resources and Fairfax Financial are due to report later in the session. Gold prices rose, supporting mining stocks. Meanwhile, minutes from the Bank of Canada's July 15th policy meeting showed policymakers were divided over the sustainability of the economic recovery. Separately, Prime Minister Mark Carney downplayed the possibility of restricting oil exports to the US as leverage in trade negotiations."
+    },
+    {
+      "id": "mkt:019fb311-2f89-7aab-8f13-9ec6818e3cab",
+      "time": "2026-07-30 20:47:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【U.S. initial jobless claims rise less than expected】U.S. initial jobless claims rose by 9,000 to a seasonally adjusted 197,000 in the week ending July 25, below economists' forecast of 200,000, the U.S. Labor Department said Thursday. The increase partly offset the prior week's fall to the lowest level since 1969; July claims are often volatile because automakers schedule annual plant shutdowns—this year GM kept most assembly lines running and Ford canceled traditional summer stoppages, which may have distorted seasonal-adjustment models. Economists said the U.S. labor market remains in a \"slowing hires, slowing layoffs\" state."
+    },
+    {
+      "id": "5017105",
+      "time": "2026-07-30 20:47:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：NEO電池公司獲得韓國大型軍用無人機製造商的定製電池訂單。"
+    },
+    {
+      "id": "5017104",
+      "time": "2026-07-30 20:47:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印度推出主權擔保型船舶保險產品。"
+    },
+    {
+      "id": "mkt:019fb310-c91a-7aab-8f13-9377cbfc3b58",
+      "time": "2026-07-30 20:47:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India launches sovereign-guaranteed marine insurance product."
+    },
+    {
+      "id": "5017103",
+      "time": "2026-07-30 20:47:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【寶馬上半年營業利潤同比下降近四成】德國汽車製造商寶馬集團30日公佈的2026年上半年財報顯示，受多重因素影響，集團上半年營業利潤同比下降近四成，預計全年汽車交付量將較上年下降。 財報顯示，今年上半年，寶馬集團營業利潤為36.4億歐元，同比下降37.4%；淨利潤為28.7億歐元，同比下降28.5%；營業收入為622.7億歐元，同比下降8%。此外，汽車交付量也降至115.7萬輛。 寶馬集團董事長米蘭·內德利科維奇表示，過去一年多來，多重因素疊加使公司經營環境更加嚴峻，包括高關稅、貿易壁壘和匯率波動帶來的不利影響，歐洲地區監管要求不斷提高，中東地區持續衝突以及全球市場競爭加劇等。財報顯示，當季汽車業務營業利潤率由去年同期5.4%降至2.3%。 內德利科維奇表示，汽車行業正經歷深刻變革，為應對當前挑戰、確保長期競爭力，公司正透過精簡組織架構等方式推進降本計劃。 寶馬日前宣佈，計劃自今年10月起至2027年年底前在全球削減約8000個工作崗位。預計其中超過一半的崗位在德國本土。據公司網站資料，截至2025年年底，該公司全球有員工約15.45萬人，其中德國員工超過8萬人。(新華社)"
+    },
+    {
+      "id": "te:markets:571268",
+      "time": "2026-07-30 20:46:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Anglo American earnings below expectations at 0.58 USD — Anglo American (AAL) released earnings per share at 0.58 USD, compared to market expectations of 1.01 USD."
+    },
+    {
+      "id": "te:markets:571267",
+      "time": "2026-07-30 20:46:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "London Stock Exchange earnings above expectations at 2.44 GBp — London Stock Exchange (LSE) released earnings per share at 2.44 GBp, compared to market expectations of 2.29 GBp."
+    },
+    {
+      "id": "5017102",
+      "time": "2026-07-30 20:46:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部通報，伊朗外長向保加利亞外長提出抗議。伊朗指責保加利亞准許美國在貝茲梅爾空軍基地部署軍機，服務於針對伊朗的行動。伊朗外長稱該決定不可接受、有損雙邊傳統友好關係，敦促保加利亞當局重新予以評估。"
+    },
+    {
+      "id": "te:markets:571266",
+      "time": "2026-07-30 20:45:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Hold Rebound — Futures tracking US equities held their rebounds on Thursday from sharp losses yesterday amid a batch of corporate earnings and respite for chip stocks. The S&P 500 and the Dow were over 0.5% higher, while the Nasdaq 100 gained 1.5%. Microsoft surged nearly 10% premarket after posting a 43% growth in cloud revenues, the most since 2022. This combined with capital expenditure forecasts that did not outpace expectations, limiting concerns of unsustainable AI spending. Also, chip producers enjoyed some respite following their selloff yesterday with Micron and Sandisk rising 3%. Conversely, Meta tanked 10% after its guidance missed expectations, while markets remained skeptical on whether its AI labs will drive revenue as signaled by the hyperscaler. Meanwhile, long-dated yields held their surge despite softer-than-expected GDP growth in Q1. The Fed held rates yesterday, but Chair Warsh's reluctance to signal a rate hike raised concerns that inflation could be higher for longer."
+    },
+    {
+      "id": "5017101",
+      "time": "2026-07-30 20:45:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜旗下佐克斯獲得美國監管機構批准，最多可部署 5000 輛自動駕駛計程車。"
+    },
+    {
+      "id": "mkt:019fb30f-0f1f-7aab-8f13-8bdb91c5741a",
+      "time": "2026-07-30 20:45:36",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK 2-year government bond yield continued lower, down 9bps to 4.365%."
+    },
+    {
+      "id": "5017100",
+      "time": "2026-07-30 20:45:28",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "英國兩年期國債收益率<GB2YT=RR>在英國央行行長貝利發表講話期間擴大跌幅，最新下跌9個基點，報4.365%。"
+    },
+    {
+      "id": "5017099",
+      "time": "2026-07-30 20:45:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐元區第二季度經濟增長超預期】歐盟統計局週四公佈的資料顯示，歐元區第二季度GDP同比增長1%，環比增長0.4%，均高於市場預期。"
+    },
+    {
+      "id": "te:economy:571265",
+      "time": "2026-07-30 20:44:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Personal Income",
+        "Importance 1"
+      ],
+      "text": "US Personal Income Rises Less Than Expected — US personal income rose 0.2% month-over-month in June 2026, falling short of market expectations for a 0.3% increase and slowing from a 0.7% gain in May. The increase was driven by higher employee compensation, income receipts on assets, and government social benefits, partly offset by a decline in farm proprietors' income. Employee compensation rose by $32.3 billion, led by a $19.6 billion increase in private-sector wages and salaries. Income from assets increased on higher dividend and interest earnings, while government social benefits were supported mainly by higher Medicare and social security benefits. The decline in farm proprietors' income reflected the timing of payments under the American Relief Act of 2025. Meanwhile, disposable personal income also rose 0.2%, slowing from 0.7% in May, while real disposable personal income increased 0.3%, accelerating from a 0.2% gain in the previous month."
+    },
+    {
+      "id": "5017098",
+      "time": "2026-07-30 20:44:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【烏克蘭央行將基準利率上調至15.5%，今年經濟增長預測上調至1.8%】7月30日，烏克蘭央行將基準利率從15%上調至15.5%，將2026年經濟增長預測從此前的1.3%上調至1.8%，2027-2028年經濟增長預測約為3%。"
+    },
+    {
+      "id": "mkt:019fb30d-f887-7aab-8f13-85a05d9d65ed",
+      "time": "2026-07-30 20:44:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England deputy governor Lombardelli said firms are facing a severe environment."
+    },
+    {
+      "id": "5017097",
+      "time": "2026-07-30 20:43:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興業銀錫：銀漫礦業採礦系統、選礦尾礦系統均已停產】興業銀錫(000426.SZ)公告稱，公司全資子公司銀漫礦業於7月26日發生一起安全事故，造成1人死亡。7月30日，銀漫礦業收到西烏旗應急局下發的《現場處理措施決定書》，要求銀漫礦業選礦尾礦系統同步停產。截至本公告披露時，銀漫礦業採礦系統、選礦尾礦系統均已停產。目前事故原因尚在調查，停產影響暫無法預估。"
+    },
+    {
+      "id": "5017096",
+      "time": "2026-07-30 20:43:11",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "英國央行行長貝利：尚無跡象表明貨幣政策委員會傾向加息。"
+    },
+    {
+      "id": "5017095",
+      "time": "2026-07-30 20:42:42",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：切勿離開這裡後就誤以為英國央行正逐步趨近加息。"
+    },
+    {
+      "id": "mkt:019fb30c-102e-7aab-8f13-7e0713d6c01c",
+      "time": "2026-07-30 20:42:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Commodities",
+        "Energy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Fed-preferred PCE posts first monthly drop since 2020; risks remain】The Fed's preferred inflation gauge, the PCE price index, fell 0.1% MoM in June — the first monthly decline since 2020 — supporting the Fed's decision this week to hold rates unchanged. Headline PCE slowed to 3.7% YoY from 4.1%. Core PCE (excluding energy) rose 0.1% MoM, below expectations, and eased to 3.3% YoY from 3.4%. The June cooling was driven mainly by lower oil after a fragile US‑Iran temporary ceasefire opened space for peace talks. It remains unclear whether inflation will continue to retreat. The PCE gauge has stayed above the Fed's 2% target for the sixth consecutive year."
+    },
+    {
+      "id": "5017094",
+      "time": "2026-07-30 20:42:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【微軟考慮推出開放權重AI模型】微軟(MSFT.O)正考慮將部分自主研發的AI模型以開放權重形式提供。微軟AI執行長Mustafa Suleyman表示，隨著中國人工智慧模型在美國使用者中的受歡迎程度不斷提升，公司正評估這一可能性。這一舉措意味著，微軟的AI戰略可能出現調整，面對DeepSeek、月之暗面等中國AI開發商的競爭，微軟希望增強競爭力，同時減少對OpenAI的依賴。微軟也表示，計劃維持多模態戰略，允許客戶在更符合需求的情況下使用來自OpenAI或Anthropic的模型。"
+    },
+    {
+      "id": "te:economy:571262",
+      "time": "2026-07-30 20:42:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Personal Spending",
+        "Importance 1"
+      ],
+      "text": "US Consumer Spending Growth Slows in June — US personal spending increased by $65.2 billion, or 0.3%, in June 2026 from the previous month, slowing from an upwardly revised 0.9% gain in May, largely due to a sharp decline in gasoline spending as lower crude oil prices followed peace negotiations between the US and Iran. Goods spending rose $7.0 billion, as a $48.1 billion drop in spending on gasoline and other energy goods was partly offset by higher outlays on motor vehicles and parts (up $17.4 billion) and recreational goods and vehicles (up $13.8 billion). Meanwhile, services spending increased $58.2 billion, driven by health care (up $22.8 billion), financial services and insurance (up $14.0 billion), transportation services (up $7.1 billion), and recreation services (up $6.7 billion). Meanwhile, inflation-adjusted consumer spending advanced 0.4% in June, the same pace as in the previous period."
+    },
+    {
+      "id": "mkt:019fb30b-c890-7aab-8f13-715ce232aa88",
+      "time": "2026-07-30 20:42:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Kazakhstan's Energy Ministry said products refined from Russian crude may be sold on Kazakhstan's domestic market, with some possibly shipped back to Russia."
+    },
+    {
+      "id": "5017093",
+      "time": "2026-07-30 20:41:50",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行副行長隆巴代利：企業面臨經營環境嚴峻挑戰。"
+    },
+    {
+      "id": "5017092",
+      "time": "2026-07-30 20:41:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【GE Vernova美股盤前漲超5%】GE Vernova美股盤前漲超5%，現報946.5美元。"
+    },
+    {
+      "id": "5017091",
+      "time": "2026-07-30 20:41:12",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美股半導體板塊盤前漲幅擴大 ARM從低位拉昇近20%】美股半導體板塊盤前漲幅擴大，ARM漲幅擴大至11%，此前一度下跌近8%；泛林集團漲超12%，閃迪盤前上漲7.66%，西部資料盤前上漲7.13%，希捷科技盤前上漲6.72%，邁威爾科技盤前上漲5.79%，美國超微公司盤前上漲5.53%，美光科技盤前上漲5.29%，SK海力士盤前上漲4.67%，英特爾盤前上漲4.54%，阿斯麥盤前上漲4.35%，臺積電盤前上漲3.66%，博通盤前上漲2.47%，英偉達盤前上漲2.08%，高通的跌幅收窄至2.9%。"
+    },
+    {
+      "id": "5017090",
+      "time": "2026-07-30 20:41:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米澎程N90 Max後向全固態鐳射雷達由速騰聚創獨家供應】7月30日，小米汽車正式釋出SkyNomad小米澎程智慧可變大空間SUV。其中，大七座旗艦車型小米澎程N90 Max搭載由RoboSense速騰聚創獨家提供的後向全固態數字化鐳射雷達，成為小米汽車首款搭載後向固態鐳射雷達的量產車型。該雷達主要補充車尾近場及側後方三維感知資訊，可為車輛識別路沿、臺階、懸空及異形障礙物，以及側後方行人和車輛提供高精度點雲資料，並與攝像頭、超聲波雷達等感測器形成互補。速騰聚創基於自研晶片在全球率先實現車規級全固態鐳射雷達規模量產，此次搭載的後向鐳射雷達基於速騰聚創車規級E平臺打造。截至2026年4月，E平臺累計交付已突破30萬臺，重新整理全固態數字化鐳射雷達行業交付紀錄。"
+    },
+    {
+      "id": "mkt:019fb30a-bb55-7aab-8f13-68be29260b84",
+      "time": "2026-07-30 20:40:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Kazakhstan's Energy Ministry says it is negotiating with Russia to process Russian crude at Kazakh refineries."
+    },
+    {
+      "id": "mkt:019fb30a-91dd-7aab-8f13-6544fc6f3acd",
+      "time": "2026-07-30 20:40:42",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Deputy Governor Ramsden said interest rates remain the primary policy tool; quantitative tightening is a secondary tool."
+    },
+    {
+      "id": "5017089",
+      "time": "2026-07-30 20:40:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈薩克能源部：由俄羅斯原油煉製的成品油既可銷往哈薩克國內市場，也可運回俄羅斯。"
+    },
     {
       "id": "mkt:019fb30a-08c4-7aab-8f13-5f3c1932ee7e",
       "time": "2026-07-30 20:40:06",
