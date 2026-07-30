@@ -1,7 +1,22 @@
 {
-  "updated": "2026-07-31 06:06:01",
-  "count": 17949,
+  "updated": "2026-07-31 06:09:50",
+  "count": 17950,
   "items": [
+    {
+      "id": "mkt:019fb510-0024-7aab-8f1e-2cc9e8434786",
+      "time": "2026-07-31 06:05:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "Nasdaq100",
+        "Impact bullish",
+        "AMZN.O"
+      ],
+      "text": "Nasdaq futures rose 0.5% in early Friday trade, buoyed by after-hours gains in Amazon (AMZN.O)."
+    },
     {
       "id": "5017767",
       "time": "2026-07-31 06:05:11",
