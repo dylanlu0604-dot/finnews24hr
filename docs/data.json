@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-30 12:21:01",
-  "count": 17900,
+  "updated": "2026-07-30 12:25:01",
+  "count": 17904,
   "items": [
+    {
+      "id": "mkt:019fb142-cfb3-7aab-8f02-b74f2df0ac67",
+      "time": "2026-07-30 12:22:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution",
+        "Hang Seng Index",
+        "Impact bearish",
+        "S&P500",
+        "09901.HK",
+        "Impact bullish"
+      ],
+      "text": "【Hong Kong midday: Hang Seng down 0.05%; AI small-caps slide again】Middle East tensions rose and the Fed kept rates unchanged as expected; US major indices fell overnight while the China Golden Dragon index gained. After a three-day rally Hong Kong opened slightly higher; the Hang Seng opened +67 at 25,875, climbed to 25,971 (+163) then reversed to an intraday low of 25,695 (-112). At midday the Hang Seng was down 0.05% and the Hang Seng Tech index down 1.14%. Market turnover HKD 162.07 bln. Sector movers: mainland education, auto dealers and alcoholic beverages led gains; gaming software and mainland banks outperformed; oil & gas rebounded strongly. Memory/storage, newly listed AI-related stocks and PCB names extended yesterday’s losses; biopharma, brain–computer interface plays and CROs fell for a second day; power equipment and commercial space names pulled back. Notable stock moves: New Oriental (09901.HK) +17%, Budweiser APAC (01876.HK) +7%+, JD Logistics (02618.HK) and Laopu Gold (06181.HK) >+3%; Zhipu AI (02513.HK) -16%, Tianshu Zhixin (09903.HK) -10%, Zhongji Xuchuang (03308.HK) -7.3% on debut."
+    },
+    {
+      "id": "mkt:019fb142-c9d2-7aab-8f02-adc8edd53683",
+      "time": "2026-07-30 12:22:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "【Institution: Fed inaction on rates likely to help emerging markets short term】Capital XB executive director Ajitabh Bharti said the Fed’s lack of decisive rate action points to political considerations; with US midterm elections nearing, markets expect the Fed to prioritize stability over inflation control in the short term. That dynamic could support emerging markets such as India: a relatively weaker USD may ease rupee pressure and give capital flows and external balances some breathing room. Bharti cautioned that if US inflation persists or reaccelerates because policy action was delayed, the ensuing correction could be sharper and more disruptive, transmitting volatility to global markets including India."
+    },
+    {
+      "id": "5015850",
+      "time": "2026-07-30 12:22:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【數百人游泳偷渡西班牙 收容中心超負荷】西班牙地方官員29日說，近日數以百計偷渡者從摩洛哥出發，透過游泳方式抵達西班牙位於北非的飛地休達，導致當地收容中心人滿為患。據美國方面訊息，西班牙國民警衛隊、海上救援機構以及紅十字會出動船隻，從海中救起一些游泳偷渡者。休達的移民收容中心已超負荷運轉，大量偷渡客只能在收容中心外面過夜。休達地方政府長官胡安·赫蘇斯·比瓦斯告訴媒體：“過去數日，超過1500名移民經海路抵達休達。收容中心已徹底飽和，難以正常運轉。”（央視）"
+    },
+    {
+      "id": "mkt:019fb142-29ce-7aab-8f02-a20f85894b7c",
+      "time": "2026-07-30 12:22:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nikkei 225",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "【Capital Economics: Most Asian economies expected to see robust growth in 2026】Capital Economics senior Asia economist Gareth Leather said in a report most Asian economies are expected to register robust growth in 2026 despite rising oil prices linked to the Middle East conflict. Regional GDP growth has held up and electronics exports are up more than 50% YoY; this momentum may persist in the near term and strong demand for AI-related products should help offset the oil-price drag."
+    },
+    {
+      "id": "5015849",
+      "time": "2026-07-30 12:22:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞薩電子：第二季度財報釋出日期由 31 日上午 9:00 左右改為下午 3:30。"
+    },
+    {
+      "id": "5015848",
+      "time": "2026-07-30 12:21:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥最大的私營天然氣管道運營商ESENTIA（Esentia Energy Development）已秘密提交擬在美國首次公開募股（IPO）的申請檔案。"
+    },
+    {
+      "id": "5015847",
+      "time": "2026-07-30 12:21:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【世名科技：公司暫無半導體晶片光刻膠奈米顏料分散液相關產品】世名科技(300522)在互動平臺表示，公司開發的LCD顯示光刻膠顏料分散液是TFT-LCD顯示器用彩色光刻膠的關鍵原料，主要用於彩色濾光片用彩色光刻膠的生產。公司暫無半導體晶片光刻膠奈米顏料分散液相關產品，也不存在該類產品向儲存企業送樣驗證的情況。"
+    },
+    {
+      "id": "5015846",
+      "time": "2026-07-30 12:20:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國巨：市場需求非常強勁 部分客戶願意支付溢價確保供貨】被動元件大廠國巨29日舉行法說會，稱看好AI伺服器、高效能運算（HPC）需求持續升溫，加上工業、車用市場同步回溫，強調市場需求“非常、非常強勁”，部分客戶願意支付溢價確保供貨，甚至洽談長期供貨協議（LTA）。關於價格策略，國巨表示，公司二季度已完成一波價格調整，若後續材料成本持續墊高，將視市場狀況進一步調整售價，維持合理獲利能力。"
+    },
     {
       "id": "5015845",
       "time": "2026-07-30 12:20:10",
@@ -165034,44 +165122,6 @@
         "Importance 1"
       ],
       "text": "Sensex Set for 4th Day of Losses — India’s BSE Sensex fell about 0.4% to 76,429 at the open on Thursday, extending losses to a fourth session as oil topped $95 a barrel after fresh US strikes on Iran and Houthi attacks on Red Sea oil tankers dented risk appetite and raised concerns over inflation and corporate earnings. Market participants are also tracking a busy earnings calendar. IndusInd Bank was in focus after reporting better-than-expected quarterly profit, while Dr. Reddy’s Laboratories came under pressure after issuing a supply warning and missing profit estimates. Hindustan Petroleum reported its first quarterly loss since 2022 as elevated crude prices squeezed refining margins. Investors are also awaiting earnings from Cipla, Infosys, and InterGlobe Aviation later in the day for further cues on corporate performance and market direction. IndusInd Bank (-5.6%), Adani Green (-4.6%), Data Patterns (-3.1%), Dr. Reddy’s Laboratories (-2.9%), and HFCL (-2.2%) posted declines."
-    },
-    {
-      "id": "mkt:019f8d37-a00e-7aab-8e59-87c4c6068a19",
-      "time": "2026-07-23 12:24:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【ECB decision preview: July hold widely priced; September seen as next action window】Markets expect the ECB to hold in July, with most banks seeing September as the next likely tightening opportunity and policymakers retaining communication flexibility rather than explicit forward guidance. Commerzbank, Société Générale, ING, Daiwa, TD Securities, Danske and others forecast a July hold; ING and some banks warn a surprise hike cannot be ruled out but expect hawkish signalling, while statements will likely avoid preset paths. Deutsche Bank still models a second and final 25bp hike to 2.50% in September; Mitsubishi UFJ and Nordea see a September +25bp as the main scenario if energy prices rebound; Nuveen and Morgan Stanley flag energy/geopolitical-driven oil upside as the key risk that could reopen tightening. Reuters survey: all 74 economists expect a July hold, and 52 of 74 foresee an additional ECB hike in 2026; Franklin expects a final hike in September, then a pause with easing beginning in 2027."
-    },
-    {
-      "id": "5003576",
-      "time": "2026-07-23 12:24:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【農業農村部組織開展我國臺灣島以東管轄海域漁業資源調查】為全面瞭解我國管轄海域漁業資源狀況，支撐海洋漁業資源養護與可持續發展，7月17日至23日，農業農村部中國水產科學研究院東海水產研究所“藍海201”科學調查船在我國臺灣島以東海域開展了漁業資源調查。 該海域漁業資源種類豐富，是金槍魚類等主要經濟種類的重要產卵場。此次調查採用多學科調查手段，採集了魚類、頭足類、甲殼類等漁業生物樣本與環境DNA樣本，獲取了漁業聲學和水文氣象等基礎資料，為我國系統掌握該海域漁業資源狀況奠定了基礎，也為在該海域開展漁業資源養護管理、促進海洋漁業可持續發展提供了科學依據。"
-    },
-    {
-      "id": "mkt:019f8d37-338d-7aab-8e59-7df574e7b2b5",
-      "time": "2026-07-23 12:23:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China conducts fisheries survey in waters east of Taiwan】China's Ministry of Agriculture and Rural Affairs ran a fisheries resource survey in waters east of Taiwan from July 17-23 using research vessel Blue Ocean 201 operated by the East China Sea Fisheries Research Institute of the Chinese Academy of Fishery Sciences. The area is species-rich and an important spawning ground for tuna and other commercial species. Survey teams collected fish, cephalopod and crustacean specimens, environmental DNA samples, and acquired fisheries acoustic and hydro‑meteorological baseline data. Authorities said the data will inform resource conservation and sustainable marine fisheries management for the area."
-    },
-    {
-      "id": "5003575",
-      "time": "2026-07-23 12:23:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "一圖讀懂六張網之水網。（新華社）"
     }
   ]
 }

@@ -1,7 +1,95 @@
 {
   "date": "2026-07-30",
-  "count": 1649,
+  "count": 1657,
   "items": [
+    {
+      "id": "mkt:019fb142-cfb3-7aab-8f02-b74f2df0ac67",
+      "time": "2026-07-30 12:22:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution",
+        "Hang Seng Index",
+        "Impact bearish",
+        "S&P500",
+        "09901.HK",
+        "Impact bullish"
+      ],
+      "text": "【Hong Kong midday: Hang Seng down 0.05%; AI small-caps slide again】Middle East tensions rose and the Fed kept rates unchanged as expected; US major indices fell overnight while the China Golden Dragon index gained. After a three-day rally Hong Kong opened slightly higher; the Hang Seng opened +67 at 25,875, climbed to 25,971 (+163) then reversed to an intraday low of 25,695 (-112). At midday the Hang Seng was down 0.05% and the Hang Seng Tech index down 1.14%. Market turnover HKD 162.07 bln. Sector movers: mainland education, auto dealers and alcoholic beverages led gains; gaming software and mainland banks outperformed; oil & gas rebounded strongly. Memory/storage, newly listed AI-related stocks and PCB names extended yesterday’s losses; biopharma, brain–computer interface plays and CROs fell for a second day; power equipment and commercial space names pulled back. Notable stock moves: New Oriental (09901.HK) +17%, Budweiser APAC (01876.HK) +7%+, JD Logistics (02618.HK) and Laopu Gold (06181.HK) >+3%; Zhipu AI (02513.HK) -16%, Tianshu Zhixin (09903.HK) -10%, Zhongji Xuchuang (03308.HK) -7.3% on debut."
+    },
+    {
+      "id": "mkt:019fb142-c9d2-7aab-8f02-adc8edd53683",
+      "time": "2026-07-30 12:22:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "【Institution: Fed inaction on rates likely to help emerging markets short term】Capital XB executive director Ajitabh Bharti said the Fed’s lack of decisive rate action points to political considerations; with US midterm elections nearing, markets expect the Fed to prioritize stability over inflation control in the short term. That dynamic could support emerging markets such as India: a relatively weaker USD may ease rupee pressure and give capital flows and external balances some breathing room. Bharti cautioned that if US inflation persists or reaccelerates because policy action was delayed, the ensuing correction could be sharper and more disruptive, transmitting volatility to global markets including India."
+    },
+    {
+      "id": "5015850",
+      "time": "2026-07-30 12:22:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【數百人游泳偷渡西班牙 收容中心超負荷】西班牙地方官員29日說，近日數以百計偷渡者從摩洛哥出發，透過游泳方式抵達西班牙位於北非的飛地休達，導致當地收容中心人滿為患。據美國方面訊息，西班牙國民警衛隊、海上救援機構以及紅十字會出動船隻，從海中救起一些游泳偷渡者。休達的移民收容中心已超負荷運轉，大量偷渡客只能在收容中心外面過夜。休達地方政府長官胡安·赫蘇斯·比瓦斯告訴媒體：“過去數日，超過1500名移民經海路抵達休達。收容中心已徹底飽和，難以正常運轉。”（央視）"
+    },
+    {
+      "id": "mkt:019fb142-29ce-7aab-8f02-a20f85894b7c",
+      "time": "2026-07-30 12:22:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nikkei 225",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "【Capital Economics: Most Asian economies expected to see robust growth in 2026】Capital Economics senior Asia economist Gareth Leather said in a report most Asian economies are expected to register robust growth in 2026 despite rising oil prices linked to the Middle East conflict. Regional GDP growth has held up and electronics exports are up more than 50% YoY; this momentum may persist in the near term and strong demand for AI-related products should help offset the oil-price drag."
+    },
+    {
+      "id": "5015849",
+      "time": "2026-07-30 12:22:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞薩電子：第二季度財報釋出日期由 31 日上午 9:00 左右改為下午 3:30。"
+    },
+    {
+      "id": "5015848",
+      "time": "2026-07-30 12:21:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥最大的私營天然氣管道運營商ESENTIA（Esentia Energy Development）已秘密提交擬在美國首次公開募股（IPO）的申請檔案。"
+    },
+    {
+      "id": "5015847",
+      "time": "2026-07-30 12:21:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【世名科技：公司暫無半導體晶片光刻膠奈米顏料分散液相關產品】世名科技(300522)在互動平臺表示，公司開發的LCD顯示光刻膠顏料分散液是TFT-LCD顯示器用彩色光刻膠的關鍵原料，主要用於彩色濾光片用彩色光刻膠的生產。公司暫無半導體晶片光刻膠奈米顏料分散液相關產品，也不存在該類產品向儲存企業送樣驗證的情況。"
+    },
+    {
+      "id": "5015846",
+      "time": "2026-07-30 12:20:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國巨：市場需求非常強勁 部分客戶願意支付溢價確保供貨】被動元件大廠國巨29日舉行法說會，稱看好AI伺服器、高效能運算（HPC）需求持續升溫，加上工業、車用市場同步回溫，強調市場需求“非常、非常強勁”，部分客戶願意支付溢價確保供貨，甚至洽談長期供貨協議（LTA）。關於價格策略，國巨表示，公司二季度已完成一波價格調整，若後續材料成本持續墊高，將視市場狀況進一步調整售價，維持合理獲利能力。"
+    },
     {
       "id": "5015845",
       "time": "2026-07-30 12:20:10",
