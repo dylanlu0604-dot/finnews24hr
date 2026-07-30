@@ -1,7 +1,263 @@
 {
   "date": "2026-07-30",
-  "count": 3211,
+  "count": 3236,
   "items": [
+    {
+      "id": "5016970",
+      "time": "2026-07-30 20:03:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：目前尚未出現第二輪通脹效應的跡象，但我們不能因此過度樂觀。"
+    },
+    {
+      "id": "5016969",
+      "time": "2026-07-30 20:03:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【特銳德：擬3億 - 6億元回購股份用於激勵計劃】特銳德公告稱，公司擬使用自有或自籌資金，以集中競價交易方式回購部分A股，資金總額不低於3億元且不超過6億元，回購價不超50元/股，期限自董事會審議透過日起12個月內。按上限測算，預計回購1200萬股，佔總股本1.14%；按下限測算，預計回購600萬股，佔0.57%。回購股份用於股權激勵或員工持股計劃。本次回購存在實施、股票無法授出或轉讓等風險。"
+    },
+    {
+      "id": "mkt:019fb2e8-0b31-7aab-8f10-d8e6ffc34066",
+      "time": "2026-07-30 20:02:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of England governor Bailey said he stands ready to adjust policy stance as the outlook changes."
+    },
+    {
+      "id": "5016967",
+      "time": "2026-07-30 20:02:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英格蘭銀行行長貝利：我們已做好準備，將根據新出現的證據調整貨幣政策立場。"
+    },
+    {
+      "id": "5016966",
+      "time": "2026-07-30 20:02:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所將以57億美元收購MarketAxess，受該訊息影響，MarketAxess股價盤前上漲28%。"
+    },
+    {
+      "id": "5016965",
+      "time": "2026-07-30 20:02:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波蘭總理：入侵該國的不明物體“很可能”是俄製導彈】波蘭總理唐納德·圖斯克30日表示，當天凌晨入侵波蘭領空並墜落在該國東部盧布林省塔納瓦－科洛尼亞附近的不明物體很可能是一枚俄製導彈。據波蘭媒體30日報道，圖斯克當天在盧布林舉行的協調會議上說，該不明物體墜落在無人區，並未造成人員傷亡。他說，現有跡象表明該不明物體很可能是一枚俄製Kh-101導彈，波方將進行詳細調查。（新華社）"
+    },
+    {
+      "id": "5016964",
+      "time": "2026-07-30 20:02:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：經濟活動低迷，勞動力市場走軟。"
+    },
+    {
+      "id": "te:markets:571244",
+      "time": "2026-07-30 20:01:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "EMCOR earnings above expectations at 9.06 USD — EMCOR (EME) released earnings per share at 9.06 USD, compared to market expectations of 7.25 USD."
+    },
+    {
+      "id": "te:markets:571243",
+      "time": "2026-07-30 20:01:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Haleon earnings below expectations at 0.04 GBp — Haleon (HLN) released earnings per share at 0.04 GBp, compared to market expectations of 0.05 GBp."
+    },
+    {
+      "id": "te:markets:571242",
+      "time": "2026-07-30 20:01:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Lloyds Banking earnings below expectations at 0.02 GBP — Lloyds Banking (LLOY) released earnings per share at 0.02 GBP, compared to market expectations of 0.03 GBP."
+    },
+    {
+      "id": "te:markets:571241",
+      "time": "2026-07-30 20:01:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Loblaw Companies earnings above expectations at 0.66 CAD — Loblaw Companies (L) released earnings per share at 0.66 CAD, compared to market expectations of 0.65 CAD."
+    },
+    {
+      "id": "te:markets:571240",
+      "time": "2026-07-30 20:01:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Sanofi earnings above expectations at 2.09 EUR — Sanofi (SAN) released earnings per share at 2.09 EUR, compared to market expectations of 1.92 EUR."
+    },
+    {
+      "id": "te:markets:571239",
+      "time": "2026-07-30 20:01:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "TransCanada earnings above expectations at 0.94 CAD — TransCanada (TRP) released earnings per share at 0.94 CAD, compared to market expectations of 0.81 CAD."
+    },
+    {
+      "id": "5016963",
+      "time": "2026-07-30 20:01:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥統計局初步資料顯示，該國第二季度國內生產總值環比增長1.5%。"
+    },
+    {
+      "id": "mkt:019fb2e6-79a4-7aab-8f10-d563bfa21bb7",
+      "time": "2026-07-30 20:01:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D opened the July 30 evening session up 0.06% at 879.67 yuan/gram; Silver T+D opened down 0.67% at 13,990 yuan/kg."
+    },
+    {
+      "id": "5016962",
+      "time": "2026-07-30 20:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "eBay 完成收購 Depop。"
+    },
+    {
+      "id": "5016961",
+      "time": "2026-07-30 20:01:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海融科技：擬1.3億元收購糖盒食品55%股權並簽署長期戰略合作協議】海融科技公告，公司擬使用自有資金1.3億元收購糖兜科技持有的糖盒食品55%股權，交易完成後糖盒食品將成為公司控股子公司。同時，作為交割先決條件，公司與盒馬（中國）、糖盒食品簽署了《長期戰略合作協議》，合作期限至2030年12月31日，盒馬（中國）每年向糖盒食品下達採購訂單含稅總金額不低於2.1億元。本次交易尚需提交公司股東會審議。"
+    },
+    {
+      "id": "mkt:019fb2e6-2736-7aab-8f10-c888fffa56a2",
+      "time": "2026-07-30 20:00:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi"
+      ],
+      "text": "Xiaomi Auto says its Pengcheng N70 Max posts a CLTC max pure-electric range of 505 km and CLTC energy consumption as low as 15.85 kWh/100 km."
+    },
+    {
+      "id": "5016960",
+      "time": "2026-07-30 20:00:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "ELASTIC與OPENAI攜手合作，將前沿智慧技術引入非結構化企業資料領域。"
+    },
+    {
+      "id": "mkt:019fb2e5-a32f-7aab-8f10-c7d35ecad942",
+      "time": "2026-07-30 20:00:21",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "Germany July harmonized CPI (HICP) preliminary YoY 2.8%, expected 2.8%, prior 2.4%."
+    },
+    {
+      "id": "mkt:019fb2e5-885c-7aab-8f10-bc78dba4f0f6",
+      "time": "2026-07-30 20:00:14",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Germany July preliminary CPI YoY 2.8 pct vs est 2.7 pct; June 2.3 pct."
+    },
+    {
+      "id": "5016959",
+      "time": "2026-07-30 20:00:14",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "德國7月歐盟調和CPI初值同比增長2.8%; 預估為+2.8%。"
+    },
+    {
+      "id": "mkt:019fb2e5-8517-7aab-8f10-b4b3e6ce45dd",
+      "time": "2026-07-30 20:00:13",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Germany July harmonized CPI (HICP) preliminary MoM +0.9% vs +0.8% expected; June -0.20%."
+    },
+    {
+      "id": "mkt:019fb2e5-84bd-7aab-8f10-af92db6e8249",
+      "time": "2026-07-30 20:00:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Germany July CPI preliminary MoM 0.8% (consensus 0.7%); June -0.3%."
+    },
+    {
+      "id": "5016958",
+      "time": "2026-07-30 20:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥第二季度GDP同比增長2.21%；預期1.6%。"
+    },
     {
       "id": "mkt:019fb2e5-5886-7aab-8f10-a78dfd84ae39",
       "time": "2026-07-30 20:00:02",

@@ -1,7 +1,263 @@
 {
-  "updated": "2026-07-30 20:00:32",
-  "count": 17873,
+  "updated": "2026-07-30 20:04:43",
+  "count": 17875,
   "items": [
+    {
+      "id": "5016970",
+      "time": "2026-07-30 20:03:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：目前尚未出現第二輪通脹效應的跡象，但我們不能因此過度樂觀。"
+    },
+    {
+      "id": "5016969",
+      "time": "2026-07-30 20:03:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【特銳德：擬3億 - 6億元回購股份用於激勵計劃】特銳德公告稱，公司擬使用自有或自籌資金，以集中競價交易方式回購部分A股，資金總額不低於3億元且不超過6億元，回購價不超50元/股，期限自董事會審議透過日起12個月內。按上限測算，預計回購1200萬股，佔總股本1.14%；按下限測算，預計回購600萬股，佔0.57%。回購股份用於股權激勵或員工持股計劃。本次回購存在實施、股票無法授出或轉讓等風險。"
+    },
+    {
+      "id": "mkt:019fb2e8-0b31-7aab-8f10-d8e6ffc34066",
+      "time": "2026-07-30 20:02:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of England governor Bailey said he stands ready to adjust policy stance as the outlook changes."
+    },
+    {
+      "id": "5016967",
+      "time": "2026-07-30 20:02:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英格蘭銀行行長貝利：我們已做好準備，將根據新出現的證據調整貨幣政策立場。"
+    },
+    {
+      "id": "5016966",
+      "time": "2026-07-30 20:02:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所將以57億美元收購MarketAxess，受該訊息影響，MarketAxess股價盤前上漲28%。"
+    },
+    {
+      "id": "5016965",
+      "time": "2026-07-30 20:02:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波蘭總理：入侵該國的不明物體“很可能”是俄製導彈】波蘭總理唐納德·圖斯克30日表示，當天凌晨入侵波蘭領空並墜落在該國東部盧布林省塔納瓦－科洛尼亞附近的不明物體很可能是一枚俄製導彈。據波蘭媒體30日報道，圖斯克當天在盧布林舉行的協調會議上說，該不明物體墜落在無人區，並未造成人員傷亡。他說，現有跡象表明該不明物體很可能是一枚俄製Kh-101導彈，波方將進行詳細調查。（新華社）"
+    },
+    {
+      "id": "5016964",
+      "time": "2026-07-30 20:02:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：經濟活動低迷，勞動力市場走軟。"
+    },
+    {
+      "id": "te:markets:571244",
+      "time": "2026-07-30 20:01:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "EMCOR earnings above expectations at 9.06 USD — EMCOR (EME) released earnings per share at 9.06 USD, compared to market expectations of 7.25 USD."
+    },
+    {
+      "id": "te:markets:571243",
+      "time": "2026-07-30 20:01:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Haleon earnings below expectations at 0.04 GBp — Haleon (HLN) released earnings per share at 0.04 GBp, compared to market expectations of 0.05 GBp."
+    },
+    {
+      "id": "te:markets:571242",
+      "time": "2026-07-30 20:01:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Lloyds Banking earnings below expectations at 0.02 GBP — Lloyds Banking (LLOY) released earnings per share at 0.02 GBP, compared to market expectations of 0.03 GBP."
+    },
+    {
+      "id": "te:markets:571241",
+      "time": "2026-07-30 20:01:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Loblaw Companies earnings above expectations at 0.66 CAD — Loblaw Companies (L) released earnings per share at 0.66 CAD, compared to market expectations of 0.65 CAD."
+    },
+    {
+      "id": "te:markets:571240",
+      "time": "2026-07-30 20:01:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Sanofi earnings above expectations at 2.09 EUR — Sanofi (SAN) released earnings per share at 2.09 EUR, compared to market expectations of 1.92 EUR."
+    },
+    {
+      "id": "te:markets:571239",
+      "time": "2026-07-30 20:01:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "TransCanada earnings above expectations at 0.94 CAD — TransCanada (TRP) released earnings per share at 0.94 CAD, compared to market expectations of 0.81 CAD."
+    },
+    {
+      "id": "5016963",
+      "time": "2026-07-30 20:01:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥統計局初步資料顯示，該國第二季度國內生產總值環比增長1.5%。"
+    },
+    {
+      "id": "mkt:019fb2e6-79a4-7aab-8f10-d563bfa21bb7",
+      "time": "2026-07-30 20:01:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D opened the July 30 evening session up 0.06% at 879.67 yuan/gram; Silver T+D opened down 0.67% at 13,990 yuan/kg."
+    },
+    {
+      "id": "5016962",
+      "time": "2026-07-30 20:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "eBay 完成收購 Depop。"
+    },
+    {
+      "id": "5016961",
+      "time": "2026-07-30 20:01:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海融科技：擬1.3億元收購糖盒食品55%股權並簽署長期戰略合作協議】海融科技公告，公司擬使用自有資金1.3億元收購糖兜科技持有的糖盒食品55%股權，交易完成後糖盒食品將成為公司控股子公司。同時，作為交割先決條件，公司與盒馬（中國）、糖盒食品簽署了《長期戰略合作協議》，合作期限至2030年12月31日，盒馬（中國）每年向糖盒食品下達採購訂單含稅總金額不低於2.1億元。本次交易尚需提交公司股東會審議。"
+    },
+    {
+      "id": "mkt:019fb2e6-2736-7aab-8f10-c888fffa56a2",
+      "time": "2026-07-30 20:00:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi"
+      ],
+      "text": "Xiaomi Auto says its Pengcheng N70 Max posts a CLTC max pure-electric range of 505 km and CLTC energy consumption as low as 15.85 kWh/100 km."
+    },
+    {
+      "id": "5016960",
+      "time": "2026-07-30 20:00:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "ELASTIC與OPENAI攜手合作，將前沿智慧技術引入非結構化企業資料領域。"
+    },
+    {
+      "id": "mkt:019fb2e5-a32f-7aab-8f10-c7d35ecad942",
+      "time": "2026-07-30 20:00:21",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "Germany July harmonized CPI (HICP) preliminary YoY 2.8%, expected 2.8%, prior 2.4%."
+    },
+    {
+      "id": "5016959",
+      "time": "2026-07-30 20:00:14",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "德國7月歐盟調和CPI初值同比增長2.8%; 預估為+2.8%。"
+    },
+    {
+      "id": "mkt:019fb2e5-885c-7aab-8f10-bc78dba4f0f6",
+      "time": "2026-07-30 20:00:14",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Germany July preliminary CPI YoY 2.8 pct vs est 2.7 pct; June 2.3 pct."
+    },
+    {
+      "id": "mkt:019fb2e5-8517-7aab-8f10-b4b3e6ce45dd",
+      "time": "2026-07-30 20:00:13",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Germany July harmonized CPI (HICP) preliminary MoM +0.9% vs +0.8% expected; June -0.20%."
+    },
+    {
+      "id": "mkt:019fb2e5-84bd-7aab-8f10-af92db6e8249",
+      "time": "2026-07-30 20:00:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Germany July CPI preliminary MoM 0.8% (consensus 0.7%); June -0.3%."
+    },
+    {
+      "id": "5016958",
+      "time": "2026-07-30 20:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥第二季度GDP同比增長2.21%；預期1.6%。"
+    },
     {
       "id": "mkt:019fb2e5-5886-7aab-8f10-a78dfd84ae39",
       "time": "2026-07-30 20:00:02",
@@ -164890,197 +165146,6 @@
         "市場"
       ],
       "text": "【愛麗家居：股價異常波動 收購及業績承諾存不確定性】愛麗家居公告稱，2026年7月21日至23日，公司股票連續三個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。公司擬現金收購歐康諾不低於77.08%股權，控股股東擬轉讓20.00%股份。但交易審計、評估未開展，正式協議未籤，存在不確定性。此外，預計2026年上半年淨虧損3450萬 - 4050萬元。受讓方承諾2026 - 2029年扣非後淨利潤累計不低於2.3億元，不過業績達成也存不確定性。"
-    },
-    {
-      "id": "5004709",
-      "time": "2026-07-23 20:04:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "自由港麥克莫蘭公司預計，2026年合併銅金產量將超過銷量。"
-    },
-    {
-      "id": "mkt:019f8edc-fcc4-7aab-8e66-d656d8f21c28",
-      "time": "2026-07-23 20:04:34",
-      "tags": [
-        "MKT News",
-        "TOT.O"
-      ],
-      "text": "TotalEnergies CEO said the company is not concerned about supplies to its refineries."
-    },
-    {
-      "id": "5004708",
-      "time": "2026-07-23 20:04:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "自由港麥克莫蘭公佈財年資本支出預期為13億美元。"
-    },
-    {
-      "id": "mkt:019f8edc-a59a-7aab-8e66-c80e70b1b261",
-      "time": "2026-07-23 20:04:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Precious Metals"
-      ],
-      "text": "Freeport-McMoRan: Q2 consolidated production totaled 786 mln lb copper, 192k oz gold and 23 mln lb molybdenum."
-    },
-    {
-      "id": "5004707",
-      "time": "2026-07-23 20:04:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "道達爾能源執行長表示，公司對旗下煉油廠原料供應狀況無擔憂。"
-    },
-    {
-      "id": "5004706",
-      "time": "2026-07-23 20:03:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "比特幣安全聯盟成立，創始成員包括Blockstream、Coinbase、富達數字資產、Galaxy和Strategy。"
-    },
-    {
-      "id": "5004705",
-      "time": "2026-07-23 20:03:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "多家頂級金融機構和比特幣企業承諾出資1500萬美元用於比特幣安全建設，併發起成立比特幣安全聯盟。"
-    },
-    {
-      "id": "5004704",
-      "time": "2026-07-23 20:03:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "比特幣安全聯盟成立，創始成員包括Anchorage Digital、ARK Invest、貝萊德和Block。"
-    },
-    {
-      "id": "5004703",
-      "time": "2026-07-23 20:03:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瀾起科技：擬以3億元-6億元回購A股股份】瀾起科技(688008.SH)公告稱，公司擬以集中競價交易方式回購A股股份，回購金額不低於3億元(含)，不超過6億元(含)，回購價格不超過332.90元/股(含)，回購期限自董事會審議透過之日起3個月內，回購資金來源於公司自有資金，回購股份用於維護公司價值及股東權益。"
-    },
-    {
-      "id": "5004702",
-      "time": "2026-07-23 20:03:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寧德時代與大連德泰簽署戰略合作協議】近日，寧德時代與大連德泰簽署戰略合作協議。雙方將聚焦車輛後市場服務、車網互動（V2G）、城市換電網路及綠色交通普及等領域，展開全場景深度合作，共同賦能城市綠色低碳轉型。大連德泰現有新能源公交100%搭載寧德時代動力電池。在此基礎上，雙方進一步將電動化延伸至公務用車領域，成為本次合作的一大亮點。寧德時代將協助大連德泰，共同推進金普新區300輛政府公務用車的電動化替代。"
-    },
-    {
-      "id": "5004701",
-      "time": "2026-07-23 20:03:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "自由港麥克莫蘭公司第二季度營收為70.29億美元，市場預期為67.60億美元（IBES一致預期）。"
-    },
-    {
-      "id": "5004700",
-      "time": "2026-07-23 20:03:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "自由港麥克莫蘭公司：第二季度綜合總產量為7.86億磅銅、19.2萬盎司黃金，以及2300萬磅鉬。"
-    },
-    {
-      "id": "5004699",
-      "time": "2026-07-23 20:03:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "自由港二季度銅產量7.86億磅，同比下降18%。"
-    },
-    {
-      "id": "5004698",
-      "time": "2026-07-23 20:02:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "FREEPORT第二季度資本支出11.0億美元，預估10.8億美元。"
-    },
-    {
-      "id": "5004697",
-      "time": "2026-07-23 20:02:39",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：魯比奧今天會見了泰國外交部長。"
-    },
-    {
-      "id": "5004696",
-      "time": "2026-07-23 20:02:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "FREEPORT第二季度營收70.3億美元，預估68.4億美元；第二季度調整後每股收益0.74美元，預估0.60美元。"
-    },
-    {
-      "id": "mkt:019f8eda-c9fc-7aab-8e66-c5abc6c83192",
-      "time": "2026-07-23 20:02:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Baltic Dry Index rose 0.37% to 2,725."
-    },
-    {
-      "id": "5004695",
-      "time": "2026-07-23 20:02:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "波羅的海乾散貨指數漲0.37%，報2725點。"
-    },
-    {
-      "id": "5004694",
-      "time": "2026-07-23 20:02:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "Ionate與通用汽車達成合作，共同升級現代化電力基礎設施。"
-    },
-    {
-      "id": "5004693",
-      "time": "2026-07-23 20:00:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【Meta美股盤前跌超2%】Meta美股盤前跌超2%，現報614.5美元。"
-    },
-    {
-      "id": "5004692",
-      "time": "2026-07-23 20:00:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【“殺豬盤”逼出雷霆手段 美國SEC批准納斯達克加速退市新規】美國SEC批准納斯達克新規，若公司連續30個交易日上市證券市值低於500萬美元，將立即暫停交易並啟動退市程式，且聽證申訴期間股票通常只能轉入OTC市場交易。納斯達克稱，此舉旨在降低微盤股被操縱和“拉高出貨”騙局的風險。"
-    },
-    {
-      "id": "5004691",
-      "time": "2026-07-23 20:00:33",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【整治信用評價設招投標區域壁壘 市場監管總局公佈專項行動成果】今天（23日），市場監管總局公佈破除妨礙統一市場和公平競爭卡點堵點專項行動階段性成果，不當實施信用評價設定招標投標區域壁壘等典型問題得到有效整治，併發布相關案件。據瞭解，市場監管總局今年5月組織開展破除妨礙統一市場和公平競爭卡點堵點專項行動，重點糾治不當實施信用評價設定招投標隱性壁壘等4類典型問題。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f8ed9-4c30-7aab-8e66-bde68238dfe7",
-      "time": "2026-07-23 20:00:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D opened 0.2% lower in Thursday evening trade (July 23) at 895.5 yuan/gram; silver T+D opened 0.03% higher at 14,499 yuan/kg."
     }
   ]
 }
