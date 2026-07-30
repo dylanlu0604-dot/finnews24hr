@@ -1,7 +1,29 @@
 {
   "date": "2026-07-31",
-  "count": 296,
+  "count": 298,
   "items": [
+    {
+      "id": "mkt:019fb47a-db4a-7aab-8f1b-6e6aacca72cd",
+      "time": "2026-07-31 03:22:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "In Israel today, residents in the north were notified they may hear loud explosions overnight."
+    },
+    {
+      "id": "mkt:019fb479-39ec-7aab-8f1b-60738dce8df0",
+      "time": "2026-07-31 03:21:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot platinum up more than 3%, at $1,660.54/oz."
+    },
     {
       "id": "5017662",
       "time": "2026-07-31 03:19:43",
