@@ -1,7 +1,92 @@
 {
-  "updated": "2026-07-30 22:16:59",
-  "count": 17826,
+  "updated": "2026-07-30 22:21:13",
+  "count": 17828,
   "items": [
+    {
+      "id": "mkt:019fb365-9065-7aab-8f16-51951d443e57",
+      "time": "2026-07-30 22:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. EIA weekly natural gas storage for week ended July 24 due in 10 minutes."
+    },
+    {
+      "id": "5017309",
+      "time": "2026-07-30 22:19:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院衛生委員會以12票贊成、11票反對的結果，推進特朗普提名的ASPR（ 美國衛生與公眾服務部負責準備與響應事務的助理衛生部長  ）人選考夫曼的確認程式。"
+    },
+    {
+      "id": "mkt:019fb364-b8ac-7aab-8f16-49b411f74400",
+      "time": "2026-07-30 22:19:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Yen gains widen to 3% as USD/JPY plunges to 158.5】USD/JPY plunged in a brief flash move and extended losses, falling over 400 pips (3% intraday) to trade at 158.5."
+    },
+    {
+      "id": "5017308",
+      "time": "2026-07-30 22:18:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【白宮經濟顧問：通脹降溫為美聯儲決策提供支撐】白宮國家經濟委員會主任凱文·哈塞特表示，最新公佈的通脹資料使美聯儲主席凱文·沃什的決策工作“變得更加輕鬆”。哈塞特在接受彭博電視採訪時指出，沃什將嚴格依據經濟資料採取應有的行動，並重申對沃什“當然”抱有信心。美國勞工部資料顯示，美聯儲重點關注的個人消費支出（PCE）價格指數6月環比下降0.1%，為2020年以來首次出現環比負增長；同比漲幅從4.1%降至3.7%，核心PCE同比漲幅降至3.3%。哈塞特認為，通脹資料的降溫為美聯儲的政策路徑提供了更清晰的依據。在談及美聯儲的獨立性時，哈塞特強調，他“非常、非常看好”美聯儲未來的政策將朝著正確方向發展，即保持非黨派和獨立的立場。"
+    },
+    {
+      "id": "5017307",
+      "time": "2026-07-30 22:18:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "哥倫比亞比索升值2%，兌美元匯率報3130比索，為2019年4月以來的最高水平。"
+    },
+    {
+      "id": "5017306",
+      "time": "2026-07-30 22:17:43",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【外資調倉！摩根大通、瑞銀集團增持名單曝光】A股2026年“中報季”已拉開序幕，QFII（合格境外機構投資者）、險資等長線資金的最新可查詢調倉動作陸續揭曉。據Wind統計，截至7月30日午間，已有36家A股上市公司披露2026年半年度報告，其中，21家公司的前十大流通股股東名單中出現QFII的身影。截至二季度末，QFII持有這21只個股的總市值約為150.3億元。加倉方向上，今年二季度，摩根大通增持金煤科技250.43萬股，巴克萊銀行增持凱美特氣48.71萬股，瑞銀集團增持中蘭環保46.61萬股。此外，二季度，QFII新進（較一季度末）成為寧德時代、中船特氣、正泰電源、興齊眼藥、新亞強、沃華醫藥、蘇試試驗、四方科技、盛屯礦業、神通科技、昊志機電、富滿微、博邁科的前十大流通股股東。其中，QFII持倉數量較多的是寧德時代。截至二季度末，瑞銀集團持有寧德時代2736.66萬股，佔流通A股比例為0.64%，為寧德時代第七大流通股股東。（21財經）"
+    },
+    {
+      "id": "mkt:019fb363-42da-7aab-8f16-464e4c7df951",
+      "time": "2026-07-30 22:17:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index ends three-day slide as large-vessel rates rise】The Baltic Dry Index rose 41 points (1.6%) to 2,673 on Thursday, ending a three-session decline and registering its first increase since July 24 after hitting a one-month low on Wednesday. Capesize index gained 100 points (2.5%) to 4,167, its first rise after three straight sessions of falls; capesize daily earnings increased $908 to $34,292. Panamax index climbed 45 points (2.3%) to 2,040, its highest since July 24; panamax daily earnings rose $410 to $18,363. Supramax index fell 18 points (1.1%) to 1,610, the lowest level since June 9."
+    },
+    {
+      "id": "5017305",
+      "time": "2026-07-30 22:17:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【油氣價格走高 英國殼牌二季度利潤大漲】英國能源巨頭殼牌公司30日釋出的2026年第二季度財報顯示，受油氣價格上漲、煉油和化工板塊盈利提升等因素推動，公司第二季度調整後利潤顯著增長。財報顯示，殼牌第二季度調整後利潤為98.36億美元，是上年同期的約2.3倍，較第一季度增長42.2%。路透社報道說，殼牌第二季度利潤高於市場預期，為2022年第三季度以來最高季度利潤。（新華社）"
+    },
+    {
+      "id": "mkt:019fb362-67a7-7aab-8f16-3f689ecee246",
+      "time": "2026-07-30 22:16:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Shell CEO expects to make a final investment decision (FID) on Venezuela's Dragon gas field in 2027."
+    },
     {
       "id": "5017304",
       "time": "2026-07-30 22:16:14",
@@ -164552,72 +164637,6 @@
         "MKT News"
       ],
       "text": "The U.S. Department of Justice will resume issuing \"second requests\" for in-depth investigations of M&A transactions."
-    },
-    {
-      "id": "5005028",
-      "time": "2026-07-23 22:21:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 美國司法部將恢復併購交易的 “二次資訊調取” 調查流程。"
-    },
-    {
-      "id": "te:markets:569337",
-      "time": "2026-07-23 22:20:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Rises for 2nd Session — The Baltic dry index increased 0.4% to 2,725 on Thursday, extending a 1.7% rise in the previous session. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, advanced 2% to 4,198, its highest level since July 16. On the other hand, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, fell 2.6% to a one-month low of 2,064. Among smaller vessels, the supramax index decreased 0.8% to 1,702, its lowest since July 9."
-    },
-    {
-      "id": "mkt:019f8f59-062f-7aab-8e6d-fea268753260",
-      "time": "2026-07-23 22:20:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. EIA weekly natural gas storage for the week to July 17 due in 10 minutes."
-    },
-    {
-      "id": "5005027",
-      "time": "2026-07-23 22:19:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【內蒙古自治區安委會對3個地區開展安全生產約談】根據《自治區安全生產約談辦法》有關規定，按照自治區黨委和政府要求，7月23日，自治區黨委常委、自治區人民政府常務副主席黃志強對包頭市昆都侖區、鄂爾多斯市東勝區、烏海市烏達區政府主要負責同志進行了約談。約談指出，今年以來，三個地區事故起數和死亡人數上升較多，充分暴露出安全發展理念不牢固、吸取事故教訓不深刻、形勢風險分析不深入、問題隱患整改不徹底等問題。約談要求，要堅決貫徹落實習近平總書記關於安全生產的重要指示精神，時刻繃緊安全生產這根弦，深刻汲取事故教訓，全力整治安全生產隱患，加強行刑、行紀銜接，寸步不讓嚴守安全生產底線紅線，堅決扭轉安全事故頻發多發的被動局面。約談會上，三個地區政府主要負責同志作了表態發言，自治區有關部門和三個盟市政府負責同志也參加了約談。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202607233819282094",
-      "time": "2026-07-23 22:19:26",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "據報道，歐洲央行官員已準備好於9月上調利率。"
-    },
-    {
-      "id": "mkt:019f8f58-64c8-7aab-8e6d-f4d3e869f20e",
-      "time": "2026-07-23 22:19:22",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "ECB officials are prepared to raise rates in September, sources say."
-    },
-    {
-      "id": "5005026",
-      "time": "2026-07-23 22:17:48",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "歐洲央行官員：準備於 9 月加息。"
     }
   ]
 }
