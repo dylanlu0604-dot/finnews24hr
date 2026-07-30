@@ -1,7 +1,225 @@
 {
   "date": "2026-07-30",
-  "count": 3302,
+  "count": 3326,
   "items": [
+    {
+      "id": "mkt:019fb2f7-eff7-7aab-8f11-af82640a71e5",
+      "time": "2026-07-30 20:20:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli said extreme energy prices feared at the start of the conflict are now less likely to occur."
+    },
+    {
+      "id": "5017028",
+      "time": "2026-07-30 20:20:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "百勝餐飲集團執行長克里斯·特納就環孢子蟲病暴發表示：“消費者安全是我們的首要任務”。"
+    },
+    {
+      "id": "mkt:019fb2f7-d3f1-7aab-8f11-a5790c459779",
+      "time": "2026-07-30 20:20:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. data due in 10 minutes: weekly initial jobless claims; June personal spending (MoM); core PCE price index (MoM, YoY); Q2 real personal consumption expenditures (QoQ preliminary); and Q2 real GDP and core PCE price index (annualized QoQ preliminary)."
+    },
+    {
+      "id": "mkt:019fb2f7-c2d4-7aab-8f11-9ce18e88f7d4",
+      "time": "2026-07-30 20:20:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England deputy governor Lombardelli said scenarios have been adjusted to reflect a reduced probability of extreme energy-price outcomes."
+    },
+    {
+      "id": "5017027",
+      "time": "2026-07-30 20:20:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行副行長隆巴德利：已調整各類情景假設，以體現極端能源價格情景發生機率下降。"
+    },
+    {
+      "id": "5017026",
+      "time": "2026-07-30 20:19:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【西科國際美股盤前漲超10%】西科國際美股盤前漲超10%，現報340.57美元。"
+    },
+    {
+      "id": "mkt:019fb2f7-2589-7aab-8f11-95d95ee245a6",
+      "time": "2026-07-30 20:19:29",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor Bailey said there is further evidence that inflation is easing."
+    },
+    {
+      "id": "5017025",
+      "time": "2026-07-30 20:19:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "火箭一號與美國航空航天局達成協議，推進太空人工智慧技術開發。"
+    },
+    {
+      "id": "5017024",
+      "time": "2026-07-30 20:19:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本透過“H3火箭8號”發射失敗最終報告】日本文部科學省30日召開關於去年“H3火箭8號”發射失敗的會議。會議透過的最終報告指出，火箭搭載衛星的基座因內部剝離出現縫隙，縫隙在火箭飛行中擴大並導致基座破損是發射失敗的主要原因。 這份報告由日本宇宙航空研究開發機構整理成文。報告說，衛星整流罩分離開始後不久，搭載衛星的基座出現損傷。調查確定，基座破損的主要原因是，基座在生產過程中發生內部剝離，出現的縫隙在整流罩分離時的衝擊下進一步擴大。報告認為，今後可用樹脂填充或緊韌體連線等方式避免剝離風險。 日本2025年12月22日發射“H3火箭8號”，火箭第二級發動機燃燒提前停止，搭載的衛星未能進入預定軌道，發射任務失敗。(新華社)"
+    },
+    {
+      "id": "mkt:019fb2f6-d30d-7aab-8f11-8b8a573bada7",
+      "time": "2026-07-30 20:19:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Governor Bailey said CPI was below the Bank's expectations, calling the reading encouraging."
+    },
+    {
+      "id": "5017023",
+      "time": "2026-07-30 20:19:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：已有更多證據顯示通脹回落程序正在持續。"
+    },
+    {
+      "id": "5017022",
+      "time": "2026-07-30 20:18:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：消費者物價指數低於我們此前的預期，這令人鼓舞。"
+    },
+    {
+      "id": "5017021",
+      "time": "2026-07-30 20:18:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST利達：股票或終止上市，2026Q1營收降58.29%】*ST利達公告稱，公司連續2個會計年度財務報告內部控制被出具否定意見審計報告，股票於2026年4月29日起被實施退市風險警示，將每月披露終止上市風險提示。公司已採取換屆董事會、加強資金監管等整改措施。2026年3月，公司及董事長因信披違規被立案。2026年一季度，公司營收1.79億元，同比降58.29%，淨利潤0.03億元，同比降76.15%。此外，控股股東及實控人股份質押比例較高，若不滿足條件，股票可能被終止上市。"
+    },
+    {
+      "id": "5017020",
+      "time": "2026-07-30 20:18:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯工業和貿易部無人系統與機器人技術司副司長阿拉・波洛夫切尼亞已被逮捕。"
+    },
+    {
+      "id": "mkt:019fb2f5-bf0e-7aab-8f11-8526a9250966",
+      "time": "2026-07-30 20:17:57",
+      "tags": [
+        "MKT News",
+        "GBPUSD"
+      ],
+      "text": "Bank of England Governor Bailey said the market's median view is that interest rates will remain unchanged."
+    },
+    {
+      "id": "mkt:019fb2f5-71ad-7aab-8f11-799b9904766a",
+      "time": "2026-07-30 20:17:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Bank of England Governor Bailey said uncertainty over the Gulf situation is similar to that of a few months ago."
+    },
+    {
+      "id": "5017019",
+      "time": "2026-07-30 20:17:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：海灣地區局勢仍與幾個月前一樣充滿不確定性。"
+    },
+    {
+      "id": "5017018",
+      "time": "2026-07-30 20:16:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：市場主流觀點認為利率將維持不變。"
+    },
+    {
+      "id": "te:economy:571250",
+      "time": "2026-07-30 20:16:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "GDP Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Mexican GDP Expands Most Since Q1 2022 — The Mexican GDP rose 1.5% from the previous quarter in the second quarter of 2026, rebounding from a 0.6% contraction in the first quarter of the year. This marks the strongest growth since the first quarter of 2022, exceeding market's expectations of a 1.2% increase. The increase was in line with Bank of Mexico's outlook, that left its interest rate unchanged amid easing inflation over the quarter. Growth was driven by primary activities, which rose 3.3%, while secondary activities expanded 4.6% and the services sector grew 1.5%. Economic activity increased 1.2% from the previous year, marking the strongest yearly expansion since the fourth quarter of 2023, supported mainly by primary activities."
+    },
+    {
+      "id": "te:markets:571249",
+      "time": "2026-07-30 20:16:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Alnylam Pharmaceuticals earnings above expectations at 1.84 USD — Alnylam Pharmaceuticals (ALNY) released earnings per share at 1.84 USD, compared to market expectations of 1.61 USD."
+    },
+    {
+      "id": "mkt:019fb2f4-8bc1-7aab-8f11-730a3bf7ad10",
+      "time": "2026-07-30 20:16:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bailey: assign a below‑usual probability to the Bank of England's central scenario."
+    },
+    {
+      "id": "5017017",
+      "time": "2026-07-30 20:16:37",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：應給英國央行的核心情景賦予低於常規水平的機率。"
+    },
+    {
+      "id": "mkt:019fb2f4-462e-7aab-8f11-6f38259c3ee7",
+      "time": "2026-07-30 20:16:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Bank of England Governor BAILEY said the market curve is fully consistent with the Bank's reading of the economy."
+    },
     {
       "id": "mkt:019fb2f3-f58d-7aab-8f11-6196b1c0b323",
       "time": "2026-07-30 20:16:00",
@@ -226,6 +444,14 @@
         "市場"
       ],
       "text": "萬事達卡第二季度利潤超出預期，盤前股價上漲1.5%。"
+    },
+    {
+      "id": "5016999",
+      "time": "2026-07-30 20:11:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工業和資訊化部量子資訊標準化技術委員會成立】7月30日，工業和資訊化部量子資訊標準化技術委員會成立大會在北京召開。第一屆量子資訊標委會由62名委員組成。 成立量子資訊標委會，是充分發揮標準的基礎性、戰略性、引領性作用，引導和推動量子產業高質量發展，加強量子領域國際合作的重要舉措。量子資訊標委會主要負責量子資訊基礎共性技術、量子計算、量子通訊、量子精密測量等領域行業標準制修訂工作，秘書處設在中國資訊通訊研究院。 成立大會後，量子資訊標委會第一次全體委員會議召開，審議透過了標委會章程、秘書處工作細則、工作組管理辦法、標準體系、標準制修訂工作程式等檔案，研究部署了下一階段重點工作。(新華社)"
     },
     {
       "id": "5016998",
