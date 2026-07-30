@@ -1,7 +1,138 @@
 {
   "date": "2026-07-30",
-  "count": 3645,
+  "count": 3659,
   "items": [
+    {
+      "id": "mkt:019fb340-41ed-7aab-8f15-2efeab5414c0",
+      "time": "2026-07-30 21:39:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "USD/JPY plunged intraday, down 1.50% to 160.9."
+    },
+    {
+      "id": "te:markets:571282",
+      "time": "2026-07-30 21:39:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rebound — US equities rebounded on Thursday from sharp losses yesterday amid a batch of corporate earnings and respite for chip stocks. The S&P 500 and the Dow gained over 0.5%, while the Nasdaq 100 gained 1.5%. Microsoft surged nearly 12% after posting a 43% growth in cloud revenues, the most since 2022. This combined with capital expenditure forecasts that did not outpace expectations, limiting concerns of unsustainable AI spending. Also, chip producers enjoyed some respite following their selloff yesterday with Micron and Sandisk rising over 9%. Conversely, Meta tanked 10% after its guidance missed expectations, while markets remained skeptical on whether its AI labs will drive revenue as signaled by the hyperscaler. Meanwhile, long-dated yields held their surge despite softer-than-expected GDP growth in Q1. The Fed held rates yesterday, but Chair Warsh's reluctance to signal a rate hike raised concerns that inflation could be higher for longer. Apple and Amazon report after the bell."
+    },
+    {
+      "id": "5017224",
+      "time": "2026-07-30 21:39:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局：BLUE MOTOR FINANCE LIMITED進入破產管理程式。"
+    },
+    {
+      "id": "5017223",
+      "time": "2026-07-30 21:38:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "百特上調年度利潤預測後，股。價上漲17%"
+    },
+    {
+      "id": "5017222",
+      "time": "2026-07-30 21:38:28",
+      "tags": [
+        "宏觀",
+        "資料"
+      ],
+      "text": "巴基斯坦財政部長報告：預計2026年7月CPI通脹率將在9%-10%區間。"
+    },
+    {
+      "id": "5017221",
+      "time": "2026-07-30 21:37:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱在加沙地帶摧毀四處哈馬斯武器儲存設施】7月29日，以色列國防軍與以色列國家安全總局（辛貝特）發表聯合宣告稱，以軍於28日夜間在加沙地帶多個區域發動空襲，摧毀了四處哈馬斯武器儲存設施。以軍在宣告中指出，在上述被摧毀的設施內，存放有卡拉什尼科夫步槍、爆炸裝置、彈藥及其他軍事裝備。以方聲稱，這些武器原計劃用於襲擊在“黃線”地區執行任務的以軍士兵及以色列平民，此次行動旨在消除相關安全威脅。宣告同時指責哈馬斯持續系統性地違反停火協議，並試圖恢復其軍事能力。以軍強調，隸屬於南方司令部的部隊目前仍按照停火協議部署在相關地區，並將繼續採取行動，消除任何迫在眉睫的威脅。"
+    },
+    {
+      "id": "5017220",
+      "time": "2026-07-30 21:37:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "法拉利執行長：包括296 Speciale和12Cilindri系列在內的多款車型，其整個生產週期的配額已全部售罄。"
+    },
+    {
+      "id": "5017219",
+      "time": "2026-07-30 21:37:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍稱連夜打擊加沙境內哈馬斯武器儲存點。"
+    },
+    {
+      "id": "mkt:019fb33d-f149-7aab-8f15-20219afc28e8",
+      "time": "2026-07-30 21:36:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "HSBC cuts Meta Platforms (META.O) price target to $830 from $905."
+    },
+    {
+      "id": "5017218",
+      "time": "2026-07-30 21:36:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲3%，現報1290.00美元/盎司。"
+    },
+    {
+      "id": "mkt:019fb33d-3847-7aab-8f15-1c710281dcfc",
+      "time": "2026-07-30 21:36:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) looks set to record its largest single-day percentage gain since March 2020, currently up 15%."
+    },
+    {
+      "id": "5017217",
+      "time": "2026-07-30 21:35:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐將META目標價從905美元下調至830美元。"
+    },
+    {
+      "id": "5017216",
+      "time": "2026-07-30 21:35:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "KKR聯合執行長在電話會議上表示，預計第三方信貸融資今年將創下紀錄。"
+    },
+    {
+      "id": "5017215",
+      "time": "2026-07-30 21:35:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "火箭實驗室與客戶簽署三次電子火箭發射服務協議後，其股價上漲4.2%。"
+    },
     {
       "id": "mkt:019fb33c-8115-7aab-8f15-1478a06f7853",
       "time": "2026-07-30 21:35:14",
