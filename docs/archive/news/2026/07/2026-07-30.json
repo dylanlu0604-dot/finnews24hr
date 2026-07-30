@@ -1,7 +1,83 @@
 {
   "date": "2026-07-30",
-  "count": 3937,
+  "count": 3946,
   "items": [
+    {
+      "id": "5017420",
+      "time": "2026-07-30 23:30:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：市場定價已計入利率上行風險。"
+    },
+    {
+      "id": "5017419",
+      "time": "2026-07-30 23:30:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：勞動力市場緩慢走弱，通脹降溫程序遲緩。"
+    },
+    {
+      "id": "5017418",
+      "time": "2026-07-30 23:30:20",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：“低招聘、低裁員”經濟格局推高失業率。"
+    },
+    {
+      "id": "mkt:019fb3a4-5ebc-7aab-8f17-aeb70e960962",
+      "time": "2026-07-30 23:28:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UEFA approves boycott of FIFA events as dispute escalates】UEFA’s 55 member associations, including England, have agreed to boycott FIFA-organised competitions if FIFA president Gianni Infantino proceeds with plans to sell parts of World Cup commercial rights to private investors, a person familiar with the matter said. The boycott would cover the World Cup and FIFA’s expanded Club World Cup — a potential rival to UEFA’s lucrative Champions League — and is expected to significantly undermine Infantino’s proposal. FIFA’s 211 member associations must approve the plan by Sept. 19 or face possible financial penalties. UEFA began internal discussions this week on how clubs and member associations would implement the resistance after rejecting FIFA’s investor proposal earlier."
+    },
+    {
+      "id": "5017416",
+      "time": "2026-07-30 23:28:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍：商用油輪“諾拉”號並未突破美方封鎖。"
+    },
+    {
+      "id": "mkt:019fb3a4-3e1a-7aab-8f17-a5603278879b",
+      "time": "2026-07-30 23:28:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The U.S. military said no U.S. aircraft were destroyed or damaged in Iran's recent attacks."
+    },
+    {
+      "id": "5017415",
+      "time": "2026-07-30 23:28:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大勞工部長表示，加拿大政府已任命一名特別調解員，協助工會與西捷航空開展談判。"
+    },
+    {
+      "id": "5017414",
+      "time": "2026-07-30 23:27:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：近期伊朗發動的襲擊未遂事件中，沒有美國軍機被損毀或擊傷。"
+    },
+    {
+      "id": "mkt:019fb3a3-7168-7aab-8f17-9d5047b6eef8",
+      "time": "2026-07-30 23:27:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he could renominate Bulanchi after Republican Senators Cornyn and Tillis leave office."
+    },
     {
       "id": "mkt:019fb3a2-89f3-7aab-8f17-944647852743",
       "time": "2026-07-30 23:26:41",

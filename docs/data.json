@@ -1,7 +1,83 @@
 {
-  "updated": "2026-07-30 23:27:45",
-  "count": 17838,
+  "updated": "2026-07-30 23:31:38",
+  "count": 17836,
   "items": [
+    {
+      "id": "5017420",
+      "time": "2026-07-30 23:30:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：市場定價已計入利率上行風險。"
+    },
+    {
+      "id": "5017419",
+      "time": "2026-07-30 23:30:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：勞動力市場緩慢走弱，通脹降溫程序遲緩。"
+    },
+    {
+      "id": "5017418",
+      "time": "2026-07-30 23:30:20",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：“低招聘、低裁員”經濟格局推高失業率。"
+    },
+    {
+      "id": "mkt:019fb3a4-5ebc-7aab-8f17-aeb70e960962",
+      "time": "2026-07-30 23:28:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UEFA approves boycott of FIFA events as dispute escalates】UEFA’s 55 member associations, including England, have agreed to boycott FIFA-organised competitions if FIFA president Gianni Infantino proceeds with plans to sell parts of World Cup commercial rights to private investors, a person familiar with the matter said. The boycott would cover the World Cup and FIFA’s expanded Club World Cup — a potential rival to UEFA’s lucrative Champions League — and is expected to significantly undermine Infantino’s proposal. FIFA’s 211 member associations must approve the plan by Sept. 19 or face possible financial penalties. UEFA began internal discussions this week on how clubs and member associations would implement the resistance after rejecting FIFA’s investor proposal earlier."
+    },
+    {
+      "id": "5017416",
+      "time": "2026-07-30 23:28:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍：商用油輪“諾拉”號並未突破美方封鎖。"
+    },
+    {
+      "id": "mkt:019fb3a4-3e1a-7aab-8f17-a5603278879b",
+      "time": "2026-07-30 23:28:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The U.S. military said no U.S. aircraft were destroyed or damaged in Iran's recent attacks."
+    },
+    {
+      "id": "5017415",
+      "time": "2026-07-30 23:28:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大勞工部長表示，加拿大政府已任命一名特別調解員，協助工會與西捷航空開展談判。"
+    },
+    {
+      "id": "5017414",
+      "time": "2026-07-30 23:27:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：近期伊朗發動的襲擊未遂事件中，沒有美國軍機被損毀或擊傷。"
+    },
+    {
+      "id": "mkt:019fb3a3-7168-7aab-8f17-9d5047b6eef8",
+      "time": "2026-07-30 23:27:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he could renominate Bulanchi after Republican Senators Cornyn and Tillis leave office."
+    },
     {
       "id": "mkt:019fb3a2-89f3-7aab-8f17-944647852743",
       "time": "2026-07-30 23:26:41",
@@ -164626,111 +164702,6 @@
         "Economic Calendar"
       ],
       "text": "United States | 4-Week Bill Auction Accepted at High (Jul.23) | actual 3.73% | previous 3.66%"
-    },
-    {
-      "id": "te:economy:569348",
-      "time": "2026-07-23 23:31:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Netherlands",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Netherlands 10Y Bond Yield Hits 33-month High — Netherlands 10 Year Government Bond Yield increased to 3.33%, the highest since October 2023. Over the past 4 weeks, Netherlands 10Y Bond Yield gained 33.96 basis points, and in the last 12 months, it increased 45.40 basis points."
-    },
-    {
-      "id": "te:markets:569347",
-      "time": "2026-07-23 23:30:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Comcast Stock Price Hits 4-week Low — Comcast shares decreased to 22.69 USD, the lowest since June 2026. Over the past 4 weeks, Comcast gained 0.31%, and in the last 12 months, it decreased 35.79%."
-    },
-    {
-      "id": "5005122",
-      "time": "2026-07-23 23:30:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國DAX 30指數初步收跌1.63%，報24744.16點。法國股指初步收跌1.72%，義大利股指初步收跌2.63%、銀行指數跌2.91%，英國股指初步收跌0.75%。"
-    },
-    {
-      "id": "5005121",
-      "time": "2026-07-23 23:30:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲STOXX 600指數初步收跌1.18%，報639.27點。歐元區STOXX 50指數初步收跌1.70%，報6209.46點。富時泛歐績優300指數初步收跌1.18%，報2555.81點。"
-    },
-    {
-      "id": "mkt:019f8f99-66ac-7aab-8e6f-85c4f22ee655",
-      "time": "2026-07-23 23:30:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Axios reports U.S. President Trump said on Thursday he is seriously considering restarting major military operations in Iran."
-    },
-    {
-      "id": "5005120",
-      "time": "2026-07-23 23:29:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普週四稱，他正認真考慮重啟針對伊朗的大規模軍事作戰行動。"
-    },
-    {
-      "id": "5005119",
-      "time": "2026-07-23 23:29:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "阿聯酋外交部：我們譴責胡塞武裝對一艘沙特公司所屬船隻的襲擊，以及對國際航行安全的威脅。"
-    },
-    {
-      "id": "5005118",
-      "time": "2026-07-23 23:29:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮新聞秘書：特朗普將擴大對納稅人的保護承諾。"
-    },
-    {
-      "id": "5005117",
-      "time": "2026-07-23 23:28:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "密歇根州衛生部：截至7月23日，據報告，160例環孢子蟲病病例已入院接受治療。"
-    },
-    {
-      "id": "5005116",
-      "time": "2026-07-23 23:28:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【希臘將從以色列購買35億歐元防空系統】希臘國防部長尼科斯·登迪亞斯23日宣佈大規模軍購計劃，其中包括從以色列購買價值約35億歐元的防空系統。登迪亞斯告訴媒體記者，該國外交事務和國防委員會當天正式批准向以色列購買“阿喀琉斯之盾”防空系統，該防空系統將在35個月內完成部署並具備完全作戰能力。“阿喀琉斯之盾”防空系統可攔截彈道導彈、戰機和無人機，其核心裝備是以色列軍工企業研製的雷達和導彈。據路透社報道，希臘與鄰國土耳其長期存在爭端，而與以色列經濟和外交關係緊密，在軍購、軍事訓練等方面保持合作。希臘去年還採購36套以色列製造的火箭炮系統。（新華社）"
-    },
-    {
-      "id": "5005115",
-      "time": "2026-07-23 23:27:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "太平洋燃氣電力公司表示，若加州政府不減輕其火災相關賠付壓力，公司將重新調整資本規劃策略。"
     }
   ]
 }
