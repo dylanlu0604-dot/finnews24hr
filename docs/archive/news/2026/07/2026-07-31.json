@@ -1,7 +1,92 @@
 {
   "date": "2026-07-31",
-  "count": 546,
+  "count": 555,
   "items": [
+    {
+      "id": "5017796",
+      "time": "2026-07-31 07:02:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI下調GPT-5.6部分模型價格】當地時間7月30日，OpenAI宣佈最佳化GPT-5.6系列模型定價和效能，以提升企業使用者AI應用的價效比。其中，GPT-5.6 Luna模型價格下調80%，GPT-5.6 Terra模型價格下調20%。此次降價也將反映在使用Codex和ChatGPT Work時的付費訂閱額度計算中。此外，OpenAI在API中推出Fast模式，取代此前的Priority Processing服務。GPT-5.6 Sol在Fast模式下處理速度最高可提升至標準模式的2.5倍，價格為標準處理模式的兩倍，且模型能力保持不變。"
+    },
+    {
+      "id": "5017795",
+      "time": "2026-07-31 07:02:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "阿根廷米萊政府宣佈推行央行改革，禁止央行為國庫提供融資。"
+    },
+    {
+      "id": "5017794",
+      "time": "2026-07-31 07:00:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic 人工智慧模型在測試過程中入侵三家機構系統。"
+    },
+    {
+      "id": "5017793",
+      "time": "2026-07-31 07:00:11",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國6月季調後工業產出月率 6.4%，預期2.90%，前值由-3.00%修正為-2.9%。\n韓國6月工業產出年率 5.8%，預期3.00%，前值由-0.90%修正為-1.1%。"
+    },
+    {
+      "id": "mkt:019fb541-afe3-7aab-8f1e-92c1814ba0dc",
+      "time": "2026-07-31 07:00:08",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "South Korea June seasonally adjusted industrial production rose 6.4% MoM, versus 2.9% expected; May revised to -2.9% from -3.0%."
+    },
+    {
+      "id": "mkt:019fb541-af1c-7aab-8f1e-8e7ba8fc52f1",
+      "time": "2026-07-31 07:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea June industrial production YoY 5.8% (expected 3.0%); prior revised to -1.1% from -0.9%."
+    },
+    {
+      "id": "mkt:019fb541-8f60-7aab-8f1e-85c1ae76872b",
+      "time": "2026-07-31 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Industrial Production (YoY) (Jun) | actual 5.8% | consensus 3.00% | previous -0.90%"
+    },
+    {
+      "id": "mkt:019fb541-8f57-7aab-8f1e-7bd0687dae50",
+      "time": "2026-07-31 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Industrial Production (MoM) (Jun) | actual 6.4% | consensus 2.90% | previous -3.00%"
+    },
+    {
+      "id": "5017792",
+      "time": "2026-07-31 07:00:00",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：日本央行會議後若日元再度走弱 日本或再次干預】SMBC日興證券高階外匯及利率策略師Rinto Maruyama表示，日本疑似干預匯市，可能是受到日本和美國長期及超長期國債收益率均大幅上升的推動。他表示，在日本央行公佈政策決定前干預，“可能是為了出其不意，最大限度放大幹預效果。這與4月更透明、容易識別的干預形成對比”。日本財務省近期多項高層人事任命，可能有助於鞏固政府的干預機制和決策流程。如果日元在日本央行會議後再度走弱，才可能出現新一輪干預。"
+    },
     {
       "id": "te:markets:571357",
       "time": "2026-07-31 06:58:50",
