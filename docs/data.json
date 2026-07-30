@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-31 01:09:17",
-  "count": 17889,
+  "updated": "2026-07-31 01:13:19",
+  "count": 17891,
   "items": [
+    {
+      "id": "5017563",
+      "time": "2026-07-31 01:12:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總理：遇襲天然氣船事件後，埃及已落實替代方案滿足能源需求。"
+    },
+    {
+      "id": "5017562",
+      "time": "2026-07-31 01:11:11",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛資產管理部門搭建人工智慧投資平臺。"
+    },
+    {
+      "id": "5017561",
+      "time": "2026-07-31 01:11:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【應對成本競爭壓力 OpenAI降價至多80%鞏固市場】OpenAI 於週四宣佈下調兩款最新人工智慧模型 GPT-5.6 Terra 與 GPT-5.6 Luna 的定價，距離兩款模型公開發布僅約三週。企業客戶對成本愈發敏感，若無法清晰看到投資回報，就不願部署高價模型，OpenAI 正面臨滿足這類客戶需求的壓力。同時公司還需要抵禦谷歌、微軟等科技巨頭的競爭，這些對手一直在主推高價效比模型。該公司週四表示，Terra 價格下調 20%，輸入代幣費率降至每百萬代幣 2 美元，輸出代幣費率為每百萬代幣 12 美元；Luna 降價 80%，輸入代幣費率降至每百萬代幣 0.2 美元，輸出代幣費率為每百萬代幣 1.2 美元。Sol 定價維持不變。OpenAI 在公告中稱：“我們的核心戰略仍是同步提升模型能力與執行效率，力求每一代智慧模型都能以更低成本完成更多工。”2022 年 ChatGPT 問世掀起人工智慧熱潮，推動美國各行各業爭相落地這項技術，並鼓勵員工廣泛使用，催生了所謂 “最大化呼叫代幣” 階段。彼時企業鼓勵員工儘可能使用人工智慧，無需顧慮成本。但隨著人工智慧相關開支飆升，部分企業相關成本達到數十億美元規模，眾多公司開始主動控制支出。"
+    },
+    {
+      "id": "mkt:019fb401-8afd-7aab-8f19-984057071316",
+      "time": "2026-07-31 01:10:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Treasury announces new sanctions targeting Iran and its support network."
+    },
+    {
+      "id": "mkt:019fb401-4952-7aab-8f19-95b6f10e186b",
+      "time": "2026-07-31 01:10:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The New York Times, citing people familiar with the matter, says Elon Musk plans to spend at least $100 million to support Republican candidates in the U.S. midterm elections."
+    },
+    {
+      "id": "5017560",
+      "time": "2026-07-31 01:10:05",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：美國針對馬漢航空的支援網路出臺新的伊朗相關制裁措施。"
+    },
     {
       "id": "5017559",
       "time": "2026-07-31 01:08:03",
@@ -165172,41 +165227,6 @@
         "公司"
       ],
       "text": "黑石集團執行長表示，該公司正在回應社會各界對人工智慧的關切。"
-    },
-    {
-      "id": "te:markets:569360",
-      "time": "2026-07-24 01:13:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Reaches Highest Since May — US gasoline futures rose above $3.48 per gallon, near the highest level since the end of May, as the US-Iran conflict escalated to the Bab el-Mandeb Strait, fueling concerns over further disruptions to energy supply. Nearing a second consecutive week of strikes, a new front in the conflict opened in the Red Sea after President Donald Trump said Iran would be held responsible for any further attacks, following claims by Iran-backed Houthi rebels of strikes on two Saudi oil tankers. Tankers have increasingly avoided the Bab el-Mandeb Strait, raising the risk of another disruption to a key global shipping route. Adding to the pressure, earlier Ukrainian strikes on 24 out of 34 largest Russian refineries, and US refineries running at 96.1% of their capacity, further weighed on refined supply outlook. Still, fuel supplies in Russia showed signs of improving after Ukraine shifted attacks away from major oil refineries toward maritime targets."
-    },
-    {
-      "id": "5005248",
-      "time": "2026-07-24 01:11:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【葉門胡塞武裝外交部副部長髮出最新警告：呼籲全球企業避開沙特港口 】葉門胡塞武裝外交部副部長就當前局勢發表了一系列緊急宣告，對沙烏地阿拉伯及其相關合作方發出了嚴厲警告。他明確表示，解除對沙特敵對勢力封鎖的唯一出路，在於沙特必須首先解除對葉門的封鎖。他向國際社會發出強烈呼籲，要求世界各國責令其本國企業避開沙特港口，直至另行通知。同時，他還發出嚴厲警告稱，任何企圖捲入沙特敵對勢力一方的國家或個人，都將為其錯誤的決定付出極其高昂的代價。"
-    },
-    {
-      "id": "5005247",
-      "time": "2026-07-24 01:10:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI 基礎設施負責人：OpenAI 計劃與 AMD 合作研發 MI500 系列 AI 晶片及後續產品。"
-    },
-    {
-      "id": "5005246",
-      "time": "2026-07-24 01:09:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，德國總理默茨可能於週五宣佈內閣改組。"
     }
   ]
 }
