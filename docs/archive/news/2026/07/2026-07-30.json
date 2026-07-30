@@ -1,7 +1,176 @@
 {
   "date": "2026-07-30",
-  "count": 1147,
+  "count": 1166,
   "items": [
+    {
+      "id": "5015530",
+      "time": "2026-07-30 09:02:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌1.1%至39,602.82點。"
+    },
+    {
+      "id": "5015529",
+      "time": "2026-07-30 09:02:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌2%，現報868.00元。"
+    },
+    {
+      "id": "5015528",
+      "time": "2026-07-30 09:01:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍結束短暫停火恢復對伊朗打擊】美軍中央司令部29日在社交媒體釋出訊息說，美軍於美國東部時間29日20時開始對伊朗發動空襲，從而結束了美軍自24日開始的短暫停火。訊息稱，此次空襲是對伊朗前一日企圖襲擊駐中東美軍的回應。美國總統特朗普29日下午在白宮對媒體表示，將對伊朗襲擊駐中東美軍進行報復，威脅將“狠狠打擊”伊朗，“因為現在輪到我們打擊他們了”。美軍中央司令部28日釋出訊息說，伊朗當天對駐中東美軍發動導彈突襲，美軍攔截了所有來襲導彈。此前，美軍於24日起暫停對伊朗已持續13天的空襲，此後數日美軍未發動新的襲擊。（新華社）"
+    },
+    {
+      "id": "5015527",
+      "time": "2026-07-30 09:01:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "新加坡海峽時報指數開盤跌1.3%，報5638.94點。馬來西亞吉隆坡綜合指數開盤跌0.1%，報1714.42點。"
+    },
+    {
+      "id": "mkt:019fb08a-4716-7aab-8efd-29b5b13d3e6e",
+      "time": "2026-07-30 09:01:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan's TAIEX opened down 267.45 points (-0.67%) at 39,771.73 on Thursday, July 30."
+    },
+    {
+      "id": "mkt:019fb08a-149f-7aab-8efd-256e140b99af",
+      "time": "2026-07-30 09:01:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures opened down 0.39%."
+    },
+    {
+      "id": "5015526",
+      "time": "2026-07-30 09:00:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓6月出口同比增長24.1%，進口同比增長19.6%。"
+    },
+    {
+      "id": "5015525",
+      "time": "2026-07-30 09:00:55",
+      "tags": [],
+      "text": "國內期貨主力合約漲多跌少，SC原油漲超5％，乙二醇（EG）漲超4％，低硫燃料油（LU）、燃料油漲超3％，瓶片、苯乙烯（EB）漲超2％，短纖、純苯漲近2％。跌幅方面，純鹼跌超2％，玻璃、菜粕、螺紋鋼跌超1％，棉花、燒鹼、豆粕跌近1％。"
+    },
+    {
+      "id": "5015524",
+      "time": "2026-07-30 09:00:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "豆粕連續主力合約日內跌1%，現報3077.00元。"
+    },
+    {
+      "id": "5015523",
+      "time": "2026-07-30 09:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數開盤變動不大，報40,048.94。"
+    },
+    {
+      "id": "mkt:019fb089-5cad-7aab-8efd-1a94b572956d",
+      "time": "2026-07-30 09:00:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "At the open, China's most-active futures contracts were mostly higher. Shanghai crude oil (SC) led gains, up more than 5%; ethylene glycol (EG) rose over 4%; low-sulfur fuel oil (LU) and fuel oil gained over 3%; PET chip and styrene (EB) climbed over 2%; short fiber and benzene advanced nearly 2%. On the downside, soda ash fell more than 2%; glass, rapeseed meal and rebar dropped over 1%; cotton, caustic soda and soybean meal were down about 1%."
+    },
+    {
+      "id": "mkt:019fb089-3c64-7aab-8efd-154ba720b8a9",
+      "time": "2026-07-30 09:00:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Commodities",
+        "Energy",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Japan cuts current fiscal GDP forecast as surging energy costs bite】Japan trimmed its inflation-adjusted GDP forecast for the fiscal year to March 2027 to 0.9% from a January forecast of 1.3%, citing oil price rises tied to Middle East tensions that are compressing household spending and corporate profits. Growth is seen accelerating to 1.1% in the following fiscal year on stronger private consumption and robust capital spending. Private consumption in the fiscal year to March 2027 is now expected to rise 0.9% (previous 1.3%); capital expenditure is projected up 2.3% (previous 2.8%), underscoring pressure from higher energy costs on Japan’s fuel-import-dependent economy."
+    },
+    {
+      "id": "5015522",
+      "time": "2026-07-30 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲2%，現報3670.00元。"
+    },
+    {
+      "id": "5015521",
+      "time": "2026-07-30 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲1%，現報2666.00元。"
+    },
+    {
+      "id": "5015520",
+      "time": "2026-07-30 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報563.00元。"
+    },
+    {
+      "id": "5015519",
+      "time": "2026-07-30 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.28%。"
+    },
+    {
+      "id": "5015518",
+      "time": "2026-07-30 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】上海原油連續漲5.33%，乙二醇連續漲4.46%，低硫燃料油連續漲3.11%，燃料油連續漲2.88%，純鹼連續跌2.17%。"
+    },
+    {
+      "id": "5015517",
+      "time": "2026-07-30 08:59:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方敦促各方嚴格遵守中非共和國制裁 】中國常駐聯合國代表團臨時代辦孫磊29日在安理會表決透過中非共和國制裁措施授權延期決議後作解釋性發言，呼籲各方嚴格遵守相關制裁措施。他說，中方歡迎安理會一致透過中非共和國制裁措施授權延期決議。近年來，在國際社會支援下，中非共和國政府和人民克服困難，在政治過渡、和平程序和國家治理等方面取得重要進展，國內安全形勢總體穩定，國家發展掀開了新篇章。同時，部分地區仍面臨武裝襲擊和跨境安全挑戰。繼續保留現有針對武裝團體及個人的武器禁運、資產凍結、旅行禁令等措施，有助於幫助中非共和國政府遏制非法武裝，推進國內和解程序，擴大和鞏固安全成果。中方呼籲各方嚴格遵守相關制裁措施，特別是防範外部武器彈藥等輸入，減少周邊衝突的外溢影響。他說，作為中非共和國的好朋友，中方堅定支援該國主權、獨立和領土完整，願繼續同國際社會一道，支援該國早日實現長治久安與繁榮發展。"
+    },
     {
       "id": "5015516",
       "time": "2026-07-30 08:58:29",
@@ -17,6 +186,15 @@
         "其他"
       ],
       "text": "【7月29日294股獲融資買入超億元 中際旭創穫買入61.13億元居首】7月29日共有3507只個股獲融資資金買入，有294股買入金額超億元。其中，中際旭創、C長鑫、兆易創新融資買入金額排名前三，分別獲買入61.13億元、53.09億元、47.35億元。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202607303825849138",
+      "time": "2026-07-30 08:58:06",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "受油價上漲影響，日本將2026財年經濟增長預測從1.3%下調至0.9%。"
     },
     {
       "id": "mkt:019fb086-96e0-7aab-8efd-0c8bfb4bfcec",
