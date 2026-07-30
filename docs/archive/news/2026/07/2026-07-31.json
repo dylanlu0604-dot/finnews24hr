@@ -1,7 +1,72 @@
 {
   "date": "2026-07-31",
-  "count": 561,
+  "count": 568,
   "items": [
+    {
+      "id": "5017808",
+      "time": "2026-07-31 07:12:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱哈馬斯解除武裝後以色列將從加沙撤軍 】美國總統特朗普30日在社交媒體發文稱，美國發起的所謂“和平委員會”已就巴勒斯坦伊斯蘭抵抗運動（哈馬斯）和加沙地帶其他武裝組織“全面解除武裝”達成協議。哈馬斯解除武裝後，以色列將從加沙地帶撤軍。"
+    },
+    {
+      "id": "5017807",
+      "time": "2026-07-31 07:11:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱沒有美國飛機在伊朗最近的襲擊中被摧毀 】美軍中央司令部30日在社交媒體上發文稱，在伊朗最近的襲擊中，沒有美國飛機被摧毀或損壞。“所有導彈和無人機均被攔截或未能到達目標區域。”伊朗伊斯蘭革命衛隊此前發表宣告稱，為回應美國的襲擊，革命衛隊襲擊了約旦阿茲拉克美軍基地，摧毀3架F-35戰鬥機，並嚴重損壞另外3架戰機。"
+    },
+    {
+      "id": "5017806",
+      "time": "2026-07-31 07:11:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Anthropic擬獲150億美元融資建設得州AI資料中心，谷歌提供擔保並供應晶片】7月31日訊息，據報道，資料中心開發商Nexus Data Centers正就為其位於美國得州、服務Anthropic的AI資料中心專案籌集約150億美元資金進行深入談判，谷歌將為該專案提供融資擔保並供應晶片。谷歌已同意在Anthropic無法履行租賃和電力支付義務時，為其相關承諾提供數十億美元擔保。該擔保覆蓋Anthropic簽署的4份資料中心租賃協議，以及與現場電廠相關的購電協議。作為支援專案的回報，谷歌預計將獲得該資料中心及電力專案約20%的股權。此外，Anthropic計劃在該資料中心部署由谷歌與博通聯合設計的張量處理單元（TPU）晶片，相關晶片採購將透過Anthropic與博通之間的單獨供應商融資協議完成。"
+    },
+    {
+      "id": "5017805",
+      "time": "2026-07-31 07:11:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷總統米萊在電視講話中介紹了中央銀行改革方案。"
+    },
+    {
+      "id": "5017804",
+      "time": "2026-07-31 07:08:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：未來幾周將推動哈馬斯解除武裝計劃落地。"
+    },
+    {
+      "id": "mkt:019fb549-a974-7aab-8f1e-a3027edb0fc4",
+      "time": "2026-07-31 07:08:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. official says a plan to disarm Hamas will be launched within weeks."
+    },
+    {
+      "id": "te:economy:571358",
+      "time": "2026-07-31 07:08:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Industrial Production Mom",
+        "Importance 1"
+      ],
+      "text": "South Korea Industrial Output Growth Hits 6-Year High — South Korea’s industrial production grew 6.4% month-on-month in June 2026, rebounding from a downwardly revised 2.9% decline in the previous month, which was the steepest drop in seven months. It was the first increase in industrial production in three months and the strongest growth since June 2020, mainly boosted by a sharp rebound in manufacturing (6.8% vs -3.2% in May). Meanwhile, services activity rose at a slower pace of 0.7%, following a 1.0% increase in the previous month. On an annual basis, industrial production jumped 6.1% in June, rebounding from an upwardly revised 1.1% decline in May, which was the first decline in three months."
+    },
     {
       "id": "5017802",
       "time": "2026-07-31 07:08:15",
