@@ -1,7 +1,204 @@
 {
   "date": "2026-07-30",
-  "count": 3946,
+  "count": 3967,
   "items": [
+    {
+      "id": "5017426",
+      "time": "2026-07-30 23:34:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理毛焦爾在臉書表示，由於保克什核電站停運加上熱浪侵襲，自週一起匈牙利的能源供應可能陷入“危急”狀態。"
+    },
+    {
+      "id": "mkt:019fb3a9-4732-7aab-8f18-16a736e3135d",
+      "time": "2026-07-30 23:34:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. military says tanker M/T NORA did not breach the U.S. blockade."
+    },
+    {
+      "id": "5017425",
+      "time": "2026-07-30 23:34:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【CPE源峰宣佈全資收購瑞士高階戶外品牌猛獁象】CPE源峰與歐洲私募股權機構Jacobs Capital正式簽署股權購買協議，收購Mammut Sports Group AG（“猛獁象”）。本次交易尚需履行常規監管審批程式並滿足相關交割條件，預計將於未來數月內完成交割。交易的具體財務細節未予披露。猛獁象於1862年創立於瑞士，是全球高階戶外品牌，產品線涵蓋專業服飾、鞋履、攀登裝備與雪崩安全裝備。"
+    },
+    {
+      "id": "5017424",
+      "time": "2026-07-30 23:33:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米汽車：小米澎程系列預計 2026 年 9 月正式釋出上市，屆時將公佈最終售價、完整配置、交付排期等全部資訊。"
+    },
+    {
+      "id": "mkt:019fb3a8-d0e7-7aab-8f18-08220dd7fbd3",
+      "time": "2026-07-30 23:33:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "U.S. 8-week Treasury auction to July 30 — percentage allotted at the stop-out yield 19.59%, prior 87.33%."
+    },
+    {
+      "id": "mkt:019fb3a8-ae43-7aab-8f18-042dbd7c05f9",
+      "time": "2026-07-30 23:33:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. 8-week Treasury auction (as of July 30) stop-out yield 3.675%, prior 3.795%."
+    },
+    {
+      "id": "mkt:019fb3a8-8ce7-7aab-8f17-f86c669a5fca",
+      "time": "2026-07-30 23:33:15",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 8-week Treasury auction bid-cover ratio 2.74 at the July 30 auction; previous 2.31."
+    },
+    {
+      "id": "mkt:019fb3a8-8a2d-7aab-8f17-f5f121d2ec10",
+      "time": "2026-07-30 23:33:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction High Yield Rate (Jul.30) | actual 3.675% | previous 3.795%"
+    },
+    {
+      "id": "mkt:019fb3a8-61c9-7aab-8f17-ea5f46bb24dc",
+      "time": "2026-07-30 23:33:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Jul.30) | actual 2.74 | previous 2.31"
+    },
+    {
+      "id": "mkt:019fb3a8-12b7-7aab-8f17-e1f73873621f",
+      "time": "2026-07-30 23:32:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7"
+      ],
+      "text": "Amazon-owned autonomous taxi unit Zoox will begin charging fares initially in Las Vegas, with plans to expand to other markets. Zoox will also start carrying a limited number of passengers in Austin and Miami."
+    },
+    {
+      "id": "5017423",
+      "time": "2026-07-30 23:32:44",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四周期國債，得標利率3.630%，投標倍數2.80。拍賣八週期國債，得標利率3.675%，投標倍數2.74。"
+    },
+    {
+      "id": "5017422",
+      "time": "2026-07-30 23:32:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "Citadel 收購 Situational Awareness 股票投資組合。"
+    },
+    {
+      "id": "mkt:019fb3a7-a81b-7aab-8f17-dc9da12213cc",
+      "time": "2026-07-30 23:32:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 4-week Treasury bill auction July 30 — share awarded at the stop-out yield 50.42% vs 11.81% previously."
+    },
+    {
+      "id": "mkt:019fb3a7-a03a-7aab-8f17-d54b37b6ba24",
+      "time": "2026-07-30 23:32:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US 4-week Treasury auction July 30 — stop-out yield 3.63%, prior 3.73%."
+    },
+    {
+      "id": "mkt:019fb3a7-a005-7aab-8f17-cc7f4d6b5138",
+      "time": "2026-07-30 23:32:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "US 4-week Treasury auction for issue dated July 30 bid-cover ratio 2.80, previous 2.79."
+    },
+    {
+      "id": "mkt:019fb3a7-7ef2-7aab-8f17-c44203030c91",
+      "time": "2026-07-30 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Accepted at High (Jul.30) | actual 3.63% | previous 3.73%"
+    },
+    {
+      "id": "mkt:019fb3a7-7eee-7aab-8f17-bdddd0b73610",
+      "time": "2026-07-30 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Jul.30) | actual 2.8 | previous 2.79"
+    },
+    {
+      "id": "mkt:019fb3a7-7ed9-7aab-8f17-b594b2c69267",
+      "time": "2026-07-30 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction High Yield Rate (Jul.30) | actual 50.42% | previous 11.81%"
+    },
+    {
+      "id": "5017421",
+      "time": "2026-07-30 23:31:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜旗下Zoox稱已開始在奧斯汀與邁阿密對受邀乘客開放無人車乘坐體驗。"
+    },
     {
       "id": "5017420",
       "time": "2026-07-30 23:30:34",
@@ -28,6 +225,14 @@
         "其他"
       ],
       "text": "英國央行貝利：“低招聘、低裁員”經濟格局推高失業率。"
+    },
+    {
+      "id": "5017417",
+      "time": "2026-07-30 23:29:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍：近期伊朗發起的襲擊行動未造成任何美軍飛機損毀】美國中央司令部：過去數小時內，伊朗官方媒體持續轉載伊朗伊斯蘭革命衛隊的不實說法，主要有三點。\n\n第一點說法：伊朗伊斯蘭革命衛隊再度聲稱，霍爾木茲海峽開放通航通道對商船構成安全威脅。\n事實：真正威脅商船及其船員安全的，是伊朗伊斯蘭革命衛隊發出的口頭威脅與襲擊企圖。\n\n第二點說法：伊朗伊斯蘭革命衛隊宣稱，在近期伊朗襲擊美軍基地行動中，摧毀了三架美軍F-35隱身戰機以及另外三架軍機。\n事實：近期伊朗發起的襲擊行動未造成任何美軍飛機損毀。所有導彈與無人機均被攔截，或是未能抵達目標區域。\n\n第三點說法：伊朗官方媒體稱油輪“諾拉號”突破了美國封鎖。\n事實：這艘商船並未衝破美國構築的嚴密封鎖。二十餘艘美軍戰艦、數百架戰機以及數千名官兵保持戒備，持續全面執行封鎖任務。"
     },
     {
       "id": "mkt:019fb3a4-5ebc-7aab-8f17-aeb70e960962",
@@ -69,6 +274,14 @@
         "國際"
       ],
       "text": "美國軍方：近期伊朗發動的襲擊未遂事件中，沒有美國軍機被損毀或擊傷。"
+    },
+    {
+      "id": "5017413",
+      "time": "2026-07-30 23:27:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南省與中國長江三峽集團舉行工作會談，馮飛劉小明劉偉平李富民參加】7月30日，省委書記馮飛、省長劉小明在海口與中國長江三峽集團有限公司董事長劉偉平、總經理李富民一行舉行工作會談。馮飛、劉小明代表省委、省政府對三峽集團長期以來給予海南經濟社會發展的關心和支援表示感謝，並介紹了海南自由貿易港封關運作成效和清潔能源島建設進展。馮飛表示，海南正深入貫徹落實習近平總書記在聽取海南自由貿易港建設工作彙報時的重要講話精神，推動經濟社會發展全面綠色轉型，著力建設生態環境友好型自由貿易港。三峽集團的發展理念和戰略規劃與海南高度契合，希望雙方立足各自優勢，加快推進新型能源體系建設、新能源基礎設施完善、水環境治理等重點領域專案合作，形成更多務實合作成果。海南將全力做好服務保障，為三峽集團在海南發展創造良好條件，實現更高層次互利共贏發展。（海南釋出）"
     },
     {
       "id": "mkt:019fb3a3-7168-7aab-8f17-9d5047b6eef8",
