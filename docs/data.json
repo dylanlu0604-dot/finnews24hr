@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-30 08:55:20",
+  "updated": "2026-07-30 08:59:12",
   "count": 17844,
   "items": [
+    {
+      "id": "5015516",
+      "time": "2026-07-30 08:58:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：伊朗布什爾省發生爆炸。"
+    },
+    {
+      "id": "5015515",
+      "time": "2026-07-30 08:58:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月29日294股獲融資買入超億元 中際旭創穫買入61.13億元居首】7月29日共有3507只個股獲融資資金買入，有294股買入金額超億元。其中，中際旭創、C長鑫、兆易創新融資買入金額排名前三，分別獲買入61.13億元、53.09億元、47.35億元。"
+    },
+    {
+      "id": "mkt:019fb086-96e0-7aab-8efd-0c8bfb4bfcec",
+      "time": "2026-07-30 08:57:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Japan cut its FY2026 GDP growth forecast to 0.9% from 1.3%, citing higher oil prices."
+    },
+    {
+      "id": "5015514",
+      "time": "2026-07-30 08:56:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受油價上漲影響，日本將2026財年增長預測從1.3%下調至0.9%。"
+    },
+    {
+      "id": "5015513",
+      "time": "2026-07-30 08:56:09",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本物價專家預測：日本央行將轉向更積極的抗通脹立場】前日本央行官員、物價趨勢專家Tsutomu Watanabe表示，日本央行最早可能在12月從容忍通脹轉向對抗通脹的政策立場，這意味著加息節奏將會加快。他稱，繼烏克蘭衝突引發第一輪通脹、國內薪資上調與米價上漲催生第二輪通脹之後，中東衝突正在推動日本迎來第三輪通脹浪潮。這位東京大學榮譽經濟學教授在週三的採訪中表示，第三輪通脹勢頭大機率弱於前兩輪；剔除生鮮食品與能源的核心消費者通脹率預計在明年3月附近觸及3%左右峰值，隨後逐步回落，向日本央行2%的通脹目標靠攏。他指出：“但真正值得警惕的是核心通脹動能，該指標正明確上行，目前已經十分接近2%。”勞動力市場持續緊張，疊加大範圍漲價潮，推高薪資增速與通脹預期。"
+    },
+    {
+      "id": "5015512",
+      "time": "2026-07-30 08:55:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部副部長苗得雨同俄羅斯副外長博裡先科舉行中俄中東和非洲事務磋商】2026年7月22日，外交部副部長苗得雨同俄羅斯副外長博裡先科在京舉行中俄中東和非洲事務磋商。苗得雨表示，在習近平主席和普京總統戰略引領下，中俄新時代全面戰略協作夥伴關係不斷深入發展。在動盪變革的國際形勢中，雙方樹立了永久睦鄰友好、全面戰略協作、互利合作共贏的大國關係典範。中東和非洲是世界多極化和經濟全球化的重要板塊。當前中東局勢複雜演進，熱點問題持續升溫，國際社會普遍希望中東儘快降溫。非洲正處於工業化和現代化重要階段，國際社會對非關注和投入不斷上升。中方願同俄方加強中東和非洲問題戰略溝通，攜手維護中東和平穩定，促進非洲發展繁榮，和中東、非洲國家一道，共同維護國際公平正義，維護發展中國家共同利益，為世界和平與發展做出貢獻。(外交部網站)"
+    },
+    {
+      "id": "mkt:019fb084-9701-7aab-8efd-01e08e1aa693",
+      "time": "2026-07-30 08:55:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM News reported three explosions were heard on Iran's Kish Island."
+    },
     {
       "id": "5015511",
       "time": "2026-07-30 08:54:00",
@@ -164563,69 +164633,6 @@
         "MKT News"
       ],
       "text": "【Lebanon official says next round of Lebanon‑Israel talks to be held in Rome next month】UK media on July 22, citing a Lebanese government official, reported Lebanon and Israel plan to attend a new round of talks in Italy on Aug. 4. Italian Deputy Prime Minister and Foreign Minister Antonio Tajani confirmed the date and said Italy will continue to lead efforts to facilitate dialogue and regional stability."
-    },
-    {
-      "id": "5003288",
-      "time": "2026-07-23 08:59:04",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日元貿易加權指數下跌 凸顯兌主要貨幣呈全面頹勢】在日元兌美元匯率跌至四十年來低點佔據各大媒體頭條的同時，一項衡量日元強弱的更廣泛指標也向日本發出了同樣令人擔憂的訊號。日本央行的名義有效匯率指數——衡量日元兌一籃子貿易加權貨幣的指數——今年已跌至歷史新低，反映出日元兌歐元、英鎊和幾種亞洲主要貨幣普遍疲軟。日元貶值凸顯了其疲軟表現遠不止於兌美元，這也加劇了投資者對輸入型通脹和日本購買力下降的擔憂。貿易加權日元走弱，推高了來自更多貿易伙伴國產品的進口成本，使日本央行在不損害經濟復甦的前提下實現貨幣政策正常化的努力變得更加複雜。"
-    },
-    {
-      "id": "te:economy:569007",
-      "time": "2026-07-23 08:58:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "New Zealand to Launch Monthly CPI in July 2027 — Statistics New Zealand will begin publishing a monthly Consumer Price Index (CPI) from July 2027, responding to strong demand from financial markets and the wider public for more timely inflation data. The new monthly indicator is expected to improve inflation monitoring and provide the Reserve Bank of New Zealand with a clearer, more up-to-date picture of price pressures, helping policymakers make better-informed interest rate decisions amid ongoing geopolitical uncertainty. More frequent inflation data should reduce uncertainty and improve the timing and precision of policy responses. The monthly CPI will initially complement, rather than replace, the existing quarterly CPI, allowing both measures to be published in parallel."
-    },
-    {
-      "id": "5003287",
-      "time": "2026-07-23 08:57:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中信期貨：白銀跟隨黃金反彈，但零售端參與不足，多頭格局仍有待確認】隔夜銀價反彈，倫敦銀現觸及60美元/盎司，波動彈性明顯大於黃金。但本輪反彈中零售投資者參與熱情明顯低於年初暴漲時期，這部分需求的缺失可能成為進一步上行的阻力。ETF方面有溫和流入，機構端情緒有所回暖，但零售端的冷淡形成對沖。短期形態改善，但反彈持續性需觀察黃金錶現及散戶資金能否迴流。"
-    },
-    {
-      "id": "5003286",
-      "time": "2026-07-23 08:57:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【7月22日421股獲融資買入超億元 中際旭創穫買入68.01億元居首】7月22日共有3510只個股獲融資資金買入，有421股買入金額超億元。其中，中際旭創、兆易創新、新易盛融資買入金額排名前三，分別獲買入68.01億元、47.76億元、45.85億元。"
-    },
-    {
-      "id": "5003285",
-      "time": "2026-07-23 08:57:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎巴嫩政府官員：新一輪黎以會談下月在羅馬舉行】英國方面22日援引一名黎巴嫩政府官員的話稱，黎巴嫩和以色列計劃於8月4日參加在義大利舉行的新一輪會談。義大利副總理兼外長塔亞尼當天證實了這一訊息。他表示，義大利將繼續在促進雙方對話和地區穩定方面發揮主導作用。"
-    },
-    {
-      "id": "mkt:019f8c79-a89c-7aab-8e55-4833c52bf75e",
-      "time": "2026-07-23 08:56:50",
-      "tags": [
-        "MKT News",
-        "01788.HK"
-      ],
-      "text": "GUOTAI JUNAN INTERNATIONAL (01788.HK) will be temporarily suspended from trading from July 23."
-    },
-    {
-      "id": "5003284",
-      "time": "2026-07-23 08:56:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【香港住宅租金勢創十年來最大夏季漲幅】隨著香港房地產市場的復甦勢頭增強，當地住房租賃市場有望創下十年來最大的夏季漲幅。根據中原地產，今年上半年這個亞洲金融中心的租金環比上漲近4%。地產中介機構們預計，內地專業人士和學生穩定流入，疊加來自外籍人士的需求也在增長，將促使今年夏季租金錄得自2016年以來最大同期升幅。"
     }
   ]
 }
