@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-31 03:04:26",
-  "count": 17884,
+  "updated": "2026-07-31 03:08:49",
+  "count": 17879,
   "items": [
+    {
+      "id": "5017656",
+      "time": "2026-07-31 03:06:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲5%，現報1315.00美元/盎司。"
+    },
+    {
+      "id": "5017655",
+      "time": "2026-07-31 03:03:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7528元，較週三夜盤收盤漲102點。成交量391.57億美元。"
+    },
+    {
+      "id": "mkt:019fb469-199e-7aab-8f1b-4efbb62ce07f",
+      "time": "2026-07-31 03:03:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.45% at 26,021, trading 162 points above the cash index."
+    },
+    {
+      "id": "5017654",
+      "time": "2026-07-31 03:02:55",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【花旗料日元走弱 稱植田和男無法比預期更鷹】花旗集團認為日元有走弱空間，因為日本央行行長植田和男不太可能發出比市場預期更為鷹派的訊號。“我們做多1個月期美元/日元160.50/162看漲期權價差，” 分析師Daniel Tobon、Osamu Takashima和Brian Levine寫道。他們稱，美元/日元急跌“與之前干預期間出現的走勢一致”。分析師們還說：“我們認為美元/日元今晚有反彈的空間，之後還有望上行”。"
+    },
     {
       "id": "mkt:019fb468-593f-7aab-8f1b-468ab419ddc1",
       "time": "2026-07-31 03:02:45",
@@ -165031,90 +165070,6 @@
         "公司"
       ],
       "text": "AMD ：公司計劃未來深耕人工智慧市場某一細分賽道，並在該領域取得無可爭議的行業領先地位。"
-    },
-    {
-      "id": "mkt:019f9061-4a25-7aab-8e72-21567ef5ef1f",
-      "time": "2026-07-24 03:08:42",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) completed a rollback of a network update, saying the impact on the vast majority of Microsoft 365 users has been eliminated."
-    },
-    {
-      "id": "mkt:019f9060-86cb-7aab-8e72-1a13a630de79",
-      "time": "2026-07-24 03:07:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AMD.O",
-        "Impact bullish"
-      ],
-      "text": "AMD (AMD.O) CEO Lisa Su said OpenAI has \"placed a big bet\" on AMD."
-    },
-    {
-      "id": "5005354",
-      "time": "2026-07-24 03:07:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "AMD 執行長：Anthropic 將透過公有云、新型雲服務商，或自建部分資料中心採購使用 AMD 的 CPU 與 GPU 產品。"
-    },
-    {
-      "id": "5005353",
-      "time": "2026-07-24 03:07:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟就 365 服務訪問故障釋出說明：已完成網路更新回滾操作，絕大多數微軟 365 使用者受影響問題已解決。"
-    },
-    {
-      "id": "5005352",
-      "time": "2026-07-24 03:06:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼：如果到8月19日（特朗普關稅生效日）仍然無法與美國達成和解方案，一切都是可能的。"
-    },
-    {
-      "id": "mkt:019f905e-3f5a-7aab-8e72-1207277b5e78",
-      "time": "2026-07-24 03:05:23",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Canadian Prime Minister Carney said if an agreement cannot be reached on the latest US tariff threat, Canada will consider all options."
-    },
-    {
-      "id": "mkt:019f905e-0ff4-7aab-8e72-0b96a36248c9",
-      "time": "2026-07-24 03:05:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canadian Prime Minister Carney said contacts with the US this week demonstrated the level and breadth of interaction, underscoring the importance of bilateral trade ties."
-    },
-    {
-      "id": "5005351",
-      "time": "2026-07-24 03:05:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "AMD 執行長：OpenAI 相關部署工作正按計劃推進， OpenAI 已重金押注 AMD。"
-    },
-    {
-      "id": "5005350",
-      "time": "2026-07-24 03:04:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼：若雙方無法就美國最新關稅威脅達成協議，所有反制手段都將納入考量。"
     }
   ]
 }
