@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-31 04:19:42",
-  "count": 17871,
+  "updated": "2026-07-31 04:23:46",
+  "count": 17872,
   "items": [
+    {
+      "id": "5017691",
+      "time": "2026-07-31 04:22:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：英偉達支援的AI基礎設施公司Nscale最早可能於今年秋季進行IPO。"
+    },
+    {
+      "id": "te:markets:571342",
+      "time": "2026-07-31 04:22:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Microstrategy earnings below expectations at -24.45 USD — Microstrategy (MSTR) released earnings per share at -24.45 USD, compared to market expectations of 4.99 USD."
+    },
+    {
+      "id": "te:markets:571341",
+      "time": "2026-07-31 04:22:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Coinbase Global earnings below expectations at -1.36 USD — Coinbase Global (COIN) released earnings per share at -1.36 USD, compared to market expectations of 0.04 USD."
+    },
+    {
+      "id": "te:markets:571340",
+      "time": "2026-07-31 04:22:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Monolithic Power Systems earnings above expectations at 6.50 USD — Monolithic Power Systems (MPWR) released earnings per share at 6.50 USD, compared to market expectations of 5.85 USD."
+    },
+    {
+      "id": "te:markets:571339",
+      "time": "2026-07-31 04:21:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Arthur J. Gallagher earnings above expectations at 2.84 USD — Arthur J. Gallagher (AJG) released earnings per share at 2.84 USD, compared to market expectations of 2.82 USD."
+    },
     {
       "id": "5017690",
       "time": "2026-07-31 04:18:29",
@@ -164952,54 +165008,6 @@
         "Importance 1"
       ],
       "text": "Ibovespa Slips as Middle East Tensions Weigh — The Ibovespa fell 0.5% to close at 176,724 on Thursday as escalating Middle East tensions weighed on sentiment. Oil prices surged after renewed attacks heightened concerns over global energy supplies, reigniting inflation fears and reinforcing expectations that interest rates could remain higher for longer. Financials led the losses, with Itaú down 0.8%, Bradesco shedding 1.3%, Itaúsa losing 0.6%, and Banco do Brasil retreating 0.8%. Utilities also traded lower, with Axia down 0.6% and Sabesp falling 1%. WEG slipped 2.3% after soaring 10% in the previous session on strong operating margins and return on invested capital. Other notable laggards included Ambev (-1.3%), Rede D'Or (-2.4%), and Embraer (-0.5%). In contrast, Petrobras gained 0.9%, supported by higher oil prices."
-    },
-    {
-      "id": "te:markets:569382",
-      "time": "2026-07-24 04:22:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Drops on Middle East Tensions — The S&P/TSX Composite Index lost 0.8% to close at 35,193 on Thursday as strong corporate earnings outweighed pressure from escalating Middle East tensions and renewed concerns over AI spending. Oil prices surged after fresh strikes near the Strait of Hormuz heightened fears of supply disruptions, fueling inflation concerns and reinforcing expectations of hawkish central banks. Banks traded lower, with RBC down 1.4%, TD Bank retreating 1.7%, and BMO losing 1.3%. Gold prices slipped, weighing on miners. Agnico Eagle shed 1.7%, Barrick lost 0.9%, and WPM retreated 1.1%. Tech stocks also weakened after Big Tech earnings revived concerns over heavy AI-related capital spending. Shopify fell 5.4%, while Constellation Software dropped 1.4%. Meanwhile, Waste Connections (+0.1%), Mullen (+4.7%), and Teck Resources (+3.9%) advanced after beating profit estimates. Elsewhere, First Quantum slipped 0.4% as Panama considers partnering with the company to reopen the Cobre Panama mine."
-    },
-    {
-      "id": "te:markets:569380",
-      "time": "2026-07-24 04:22:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Edwards Lifesciences earnings above expectations at 0.78 USD — Edwards Lifesciences (EW) released earnings per share at 0.78 USD, compared to market expectations of 0.74 USD."
-    },
-    {
-      "id": "mkt:019f90a3-8b94-7aab-8e73-2fc618eef7fc",
-      "time": "2026-07-24 04:21:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "INTC.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "【Intel Q2 results, Q3 guide beat; shares up 13% after-hours】Intel expects Q3 revenue of $15.8–16.8 bln, above analyst consensus of $15.1 bln even at the low end, citing a surge in data-center spending driven by AI computing demand. Data-center sales jumped 59% YoY last quarter, more than twice the pace of overall revenue growth. Q2 revenue was $16.13 bln versus $14.43 bln expected. Shares rose 13% in after-hours trading."
-    },
-    {
-      "id": "mkt:019f90a3-8aa4-7aab-8e73-248560c91bfc",
-      "time": "2026-07-24 04:21:04",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "UN special envoy for Yemen said the UN is deeply concerned about the Houthis' resumption of attacks on commercial vessels, which are disrupting maritime navigation in the Red Sea."
     }
   ]
 }

@@ -1,7 +1,63 @@
 {
   "date": "2026-07-31",
-  "count": 352,
+  "count": 357,
   "items": [
+    {
+      "id": "5017691",
+      "time": "2026-07-31 04:22:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：英偉達支援的AI基礎設施公司Nscale最早可能於今年秋季進行IPO。"
+    },
+    {
+      "id": "te:markets:571342",
+      "time": "2026-07-31 04:22:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Microstrategy earnings below expectations at -24.45 USD — Microstrategy (MSTR) released earnings per share at -24.45 USD, compared to market expectations of 4.99 USD."
+    },
+    {
+      "id": "te:markets:571341",
+      "time": "2026-07-31 04:22:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Coinbase Global earnings below expectations at -1.36 USD — Coinbase Global (COIN) released earnings per share at -1.36 USD, compared to market expectations of 0.04 USD."
+    },
+    {
+      "id": "te:markets:571340",
+      "time": "2026-07-31 04:22:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Monolithic Power Systems earnings above expectations at 6.50 USD — Monolithic Power Systems (MPWR) released earnings per share at 6.50 USD, compared to market expectations of 5.85 USD."
+    },
+    {
+      "id": "te:markets:571339",
+      "time": "2026-07-31 04:21:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Arthur J. Gallagher earnings above expectations at 2.84 USD — Arthur J. Gallagher (AJG) released earnings per share at 2.84 USD, compared to market expectations of 2.82 USD."
+    },
     {
       "id": "5017690",
       "time": "2026-07-31 04:18:29",
