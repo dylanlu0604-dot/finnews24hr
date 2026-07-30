@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-30 08:17:05",
-  "count": 17823,
+  "updated": "2026-07-30 08:21:01",
+  "count": 17830,
   "items": [
+    {
+      "id": "5015460",
+      "time": "2026-07-30 08:20:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上漲超過1%，一度達到62051.29點。"
+    },
+    {
+      "id": "mkt:019fb064-ad06-7aab-8efc-6d338e8593a8",
+      "time": "2026-07-30 08:20:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "South Korean won hits strongest level against the U.S. dollar since Feb. 27."
+    },
+    {
+      "id": "mkt:019fb064-7d46-7aab-8efc-656a21b867ad",
+      "time": "2026-07-30 08:20:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 extended gains to 1%."
+    },
+    {
+      "id": "5015459",
+      "time": "2026-07-30 08:19:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元匯率升至2月27日以來最強水平。"
+    },
+    {
+      "id": "5015458",
+      "time": "2026-07-30 08:17:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報87.16美元/桶。"
+    },
+    {
+      "id": "5015457",
+      "time": "2026-07-30 08:17:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報83.60美元/桶。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607303825786110",
+      "time": "2026-07-30 08:17:30",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【中信證券：仍預計美聯儲今年全年按兵不動】中信證券研報指出，美聯儲7月決議如期按兵不動，措辭宣告變化少，沃什發言在避免釋放過多鷹派訊號的同時又留有加息餘地。市場預期在決議公佈前分歧較大，但美聯儲已用行動表明其無需急於加息，公信力並非來自意外緊縮、而是靠基於資料做出最佳決策。目前衍生品市場定價的27Q1前累計加息兩次的預期過多，仍預計美聯儲今年全年按兵不動。"
+    },
+    {
+      "id": "5015456",
+      "time": "2026-07-30 08:17:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【銀河證券：奶價增速轉正或將帶動相關上市公司盈利能力修復】銀河證券指出，7月國內生鮮乳價格同比+0.3%，時隔近5年首次實現轉正，反映行業供需格局逐漸趨於平衡，此外散奶價格已於3月開始率先實現上漲，強化奶價週期底部回升訊號。展望後市，考慮到當前奶源結構與下游需求復甦態勢，判斷此次奶價增速轉正後的走勢或與2016年較為相似，即呈現小幅溫和上漲趨勢，將推動下游競爭趨緩與減值損失減少，進而帶動相關上市公司盈利能力修復。"
+    },
+    {
+      "id": "mkt:019fb061-da38-7aab-8efc-5cd9fb3298c4",
+      "time": "2026-07-30 08:17:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【CITIC Securities: Post‑Fed rise in long US yields mainly reflects Trump’s threats to Iran】CITIC Securities says incremental takeaways from Fed chair Kevin Warsh’s press conference were: the Fed has no soft inflation target, will not underreact to shocks, will consult an inflation task force in coming weeks and “will not hesitate to act if necessary and conditions are appropriate.” Warsh also said recent rises in long‑term yields and a spontaneous tightening of financial conditions provide the Fed with “some comfort.” His tone was procedural—avoiding overtly hawkish signals while leaving room to tighten. With the Middle East conflict unresolved, CITIC judges the post‑decision rise in long‑end US yields and US equity weakness chiefly reflects concern that Trump will “teach Iran a lesson.” While September hike pricing is understandable given a sharp oil rally, CITIC argues repeated rounds of signaling should have clarified intentions and red lines on both sides; assuming oil spikes are temporary and the price baseline only edges up, it maintains a view the Fed will hold rates through the year and is more dovish than market consensus."
+    },
+    {
+      "id": "5015455",
+      "time": "2026-07-30 08:17:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上漲3.0個基點，至2.775%。"
+    },
+    {
+      "id": "5015454",
+      "time": "2026-07-30 08:16:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本電氣股價一度上漲11%；第一季度營業利潤超出預期。"
+    },
+    {
+      "id": "mkt:019fb061-a258-7aab-8efc-505c69f67d99",
+      "time": "2026-07-30 08:16:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 10-year government bond yield rose 3 bps to 2.775%."
+    },
     {
       "id": "5015453",
       "time": "2026-07-30 08:15:43",
@@ -164402,56 +164519,6 @@
         "其他"
       ],
       "text": "【首屆北京市中學生人形機器人足球賽收官】昨天（22日），北京市中學生人形機器人足球賽總決賽圓滿收官。賽事自今年4月11日啟動以來，覆蓋北京各區及雄安新區，共吸引55支中學生代表隊參賽，設甲、乙兩大競賽組別。歷經賽前培訓、小組賽和淘汰賽多輪層層比拼，最終會師總決賽賽場，兩組分別決出冠亞季軍。據瞭解，決賽獲勝隊伍將被推薦參加世界人形機器人運動會U19相關組別比賽。（央視）"
-    },
-    {
-      "id": "5003249",
-      "time": "2026-07-23 08:20:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數上漲1%，至8912.30。"
-    },
-    {
-      "id": "5003248",
-      "time": "2026-07-23 08:19:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓美首個投資專案或於8月公佈 或聚焦能源領域】據韓聯社援引韓國產業通商部長金正官的話報道，韓國依據雙邊貿易協議推進的首個對美投資專案，最快可能於8月下旬公佈，雙方討論重點集中在能源領域。金正官在抵達美國展開為期四天訪問後向韓國媒體作出上述表示。此次訪美期間，他將與美國商務部長霍華德·盧特尼克等官員舉行會談。"
-    },
-    {
-      "id": "te:markets:568978",
-      "time": "2026-07-23 08:18:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in Australia Hit 5-week High — ASX200 increased to 8873.00 Index Points, the highest since June 2026. Over the past 4 weeks, Australia Stock Market Index (AU200) gained 0.7%, and in the last 12 months, it increased 1.84%."
-    },
-    {
-      "id": "5003247",
-      "time": "2026-07-23 08:18:04",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【央行決策在即 亞市早盤金價企穩】亞洲早盤金價企穩。Critical Metals的Tony Sage在評論中表示，雖然美元小幅回落對金價構成了支撐，但由於主要經濟體債券收益率高企，該金屬的近期整體前景依然看跌。他說，在中東緊張局勢升級之際，油價上漲加劇了人們對全球通脹壓力的擔憂，並強化了偏緊縮的貨幣政策預期。隨著歐洲央行本週將公佈利率決定，以及美聯儲、日本央行和英國央行下週將公佈利率決定，在這些央行決策公佈前，金價面臨風險。較高的利率環境通常會拖累黃金等無息資產。現貨黃金持平，報每盎司4,133.08美元。"
-    },
-    {
-      "id": "mkt:019f8c55-ef8e-7aab-8e55-0359947ca704",
-      "time": "2026-07-23 08:17:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Nasdaq100",
-        "Impact mixed"
-      ],
-      "text": "【AI investment offsets Middle East risk; semiconductors push KOSPI past 7,000】KOSPI rose above 7,000 on the 23rd, advancing despite overnight U.S. stock weakness and higher oil on U.S.-Iran tensions, led by semiconductors, robotics and AI names. Market participants said continued AI infrastructure spending by global tech giants and bargain buying after earlier pullbacks supported the rally. Foreign investors were the primary force, net buying 213.4 bln won; retail and institutional investors net sold 65.3 bln won and 146.8 bln won, respectively. KOSDAQ opened up 1.65%; foreigners net bought 5.8 bln won while individuals and institutions net sold 5.0 bln won and 0.6 bln won."
     }
   ]
 }
