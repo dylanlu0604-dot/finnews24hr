@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-31 04:11:44",
-  "count": 17874,
+  "updated": "2026-07-31 04:15:43",
+  "count": 17871,
   "items": [
+    {
+      "id": "mkt:019fb4a9-8c19-7aab-8f1c-25a558307206",
+      "time": "2026-07-31 04:13:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "【Amazon Q2 AWS revenue tops estimates; after-hours shares up >8%】Amazon's AWS revenue rose 37% to $42.2bn in Q2, beating consensus growth of 31.21% amid a surge in corporate AI spending. Total Q2 revenue was $200.6bn versus $196.42bn expected. Q3 revenue guidance of $197.0bn–$202.0bn missed the Street's $204.07bn estimate. Strong AWS results may ease some concerns about tech giants' heavy AI investment this year (industry spend forecast >$700bn); Amazon shares rallied over 8% in after-hours trading."
+    },
+    {
+      "id": "te:markets:571337",
+      "time": "2026-07-31 04:12:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rebound as Chipmakers Rally — US stock indices closed higher on Thursday, rebounding from the previous session's losses as chipmakers rallied and investors assessed earnings. The S&P 500 gained 1.7%, the Nasdaq jumped 3.4%, and the Dow added 614 points. Microsoft surged 15.5% after reporting 43% cloud revenue growth, its strongest since 2022, while keeping capital expenditure guidance broadly in line with expectations. Chipmakers jumped after yesterday's selloff. Micron rose 18.4%, AMD gained 13%, Intel added 11.3%, and Sandisk soared 26% as investors bought the dip on expectations the AI-driven rally still has room to run. Oracle jumped 8.3% after expanding its Google Gemini AI partnership. Those gains outweighed a disappointing forecast from Meta (-7.9%). Treasury yields remained high despite soft Q2 GDP growth. After holding rates yesterday, Fed Chair Warsh's reluctance to rule out further tightening reinforced concerns that rates could stay high. Apple (-1.4%) and Amazon (+3.9%) report later."
+    },
     {
       "id": "mkt:019fb4a5-03d4-7aab-8f1c-1de96404111c",
       "time": "2026-07-31 04:09:01",
@@ -164976,60 +165004,6 @@
         "Importance 0"
       ],
       "text": "Newmont Mining earnings below expectations at 2.10 USD — Newmont Mining (NEM) released earnings per share at 2.10 USD, compared to market expectations of 2.21 USD."
-    },
-    {
-      "id": "mkt:019f909d-84a3-7aab-8e73-18c0982da412",
-      "time": "2026-07-24 04:14:29",
-      "tags": [
-        "MKT News",
-        "INTC.O"
-      ],
-      "text": "Intel (INTC.O) Q2 2026 gross margin 40.4%."
-    },
-    {
-      "id": "te:markets:569374",
-      "time": "2026-07-24 04:13:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Fall as Tech Selloff Deepens — US stocks closed lower on Thursday amid deteriorating macroeconomic backdrop and renewed doubts over AI spending. The S&P 500 dropped 1.2%, the Nasdaq lost 1.9%, and the Dow Jones shed 507 points. Technology stocks came under pressure as investors questioned whether massive artificial intelligence investments will generate adequate returns. Nvidia lost 1.6% and Broadcom retreated 1.1%. Despite solid earnings, Alphabet fell % after raising its capital spending forecast, while Tesla tumbled 14.5% as profit declined despite strong electric-vehicle deliveries. Other hyperscalers also weakened, with Microsoft (-2.2%), Meta (-3.4%), Amazon (-4.6%), and Oracle (-4.6%) posting losses. Treasury yields rose as tighter naval blockades in the Middle East raised energy supply concerns and initial jobless claims fell to a 57-year low. Goldman Sachs shed 2.1%, while Visa fell 0.5%. Comcast lost 6.8% after repoting a declined in profits, while RTX added 7.3% after beating expectations."
-    },
-    {
-      "id": "5005388",
-      "time": "2026-07-24 04:12:56",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊拉克總理：伊拉克不允許從其領土發起威脅伊朗的行動】據伊拉克總理新聞辦公室23日發表的宣告，當天伊拉克總理扎伊迪訪問伊朗，並在伊朗首都德黑蘭同伊朗總統佩澤希齊揚舉行會談。扎伊迪表示，伊拉克和伊朗的安全緊密相連，伊拉克絕不允許任何威脅伊朗的行動從其領土上發起。佩澤希齊揚說，安全與穩定對雙邊關係發展具有重要意義。（央視）"
-    },
-    {
-      "id": "mkt:019f909b-c352-7aab-8e73-11f88ba16054",
-      "time": "2026-07-24 04:12:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iraqi PM says Iraq will not allow threats to Iran to be launched from its territory】Iraq's prime minister's office said on the 23rd that Prime Minister Zaidi visited Tehran and met Iranian President Pezeshkian. Zaidi said Iraq will not allow any action threatening Iran to be launched from its territory; Pezeshkian said security and stability are important for bilateral ties."
-    },
-    {
-      "id": "te:markets:569373",
-      "time": "2026-07-24 04:12:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Hartford Financial Services earnings above expectations at 3.42 USD — Hartford Financial Services (HIG) released earnings per share at 3.42 USD, compared to market expectations of 3.22 USD."
     }
   ]
 }
