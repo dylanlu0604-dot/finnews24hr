@@ -1,7 +1,193 @@
 {
-  "updated": "2026-07-30 09:42:20",
-  "count": 17890,
+  "updated": "2026-07-30 09:46:09",
+  "count": 17899,
   "items": [
+    {
+      "id": "5015640",
+      "time": "2026-07-30 09:45:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.02%，現報3310.598點；上證指數漲0.09%，現報3831.751點；深證成指跌0.99%，現報13523.392點。"
+    },
+    {
+      "id": "5015639",
+      "time": "2026-07-30 09:45:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4815.900點；恒生指數現跌0.302%。"
+    },
+    {
+      "id": "mkt:019fb0b2-9b37-7aab-8eff-98bfb169bb7d",
+      "time": "2026-07-30 09:45:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS"
+      ],
+      "text": "Samsung Electronics says it is not currently considering issuing American Depositary Receipts (ADRs) but remains open to ADR issuance over the medium-to-long term."
+    },
+    {
+      "id": "5015638",
+      "time": "2026-07-30 09:45:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "三星電子：對中長期發行美國存託憑證（ADR）持開放態度。"
+    },
+    {
+      "id": "5015637",
+      "time": "2026-07-30 09:45:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯創電子：鄭州聯創智造產業園廠房正式投產】據聯創電子訊息，鄭州聯創智造產業園廠房於2026年6月30日全面完成建設、實現產線進駐與穩定量產，標誌著園區廠房正式落成啟用、投入運營。"
+    },
+    {
+      "id": "mkt:019fb0b2-361a-7aab-8eff-96b83f4600ce",
+      "time": "2026-07-30 09:44:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qeshm Island power restored after brief outage from US missile strikes】Qeshm Island’s power was fully restored after a brief outage caused by missile strikes on the grid, the local power company said. Repair crews fixed the outage but staff remain on high alert. US warplanes fired multiple missiles at several sites on the island early that morning."
+    },
+    {
+      "id": "mkt:019fb0b2-31e8-7aab-8eff-8c986f88f253",
+      "time": "2026-07-30 09:44:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "China A-shares opened with the ChiNext down more than 2%, the Shenzhen Composite down over 1% and the Shanghai Composite up 0.1%. Baijiu, internet insurance and gaming stocks led gains."
+    },
+    {
+      "id": "5015636",
+      "time": "2026-07-30 09:44:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "三星電子：目前不考慮發行美國存託憑證（ADR）。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202607303826093197",
+      "time": "2026-07-30 09:44:42",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：上半年文化服務業實現營業收入同比增長8.1%】國家統計局社科文司統計師潘旭華解讀2026年上半年全國規模以上文化及相關產業企業資料，文化服務業發揮重要支撐作用。上半年，文化服務業實現營業收入43235億元，比上年同期增長8.1%，快於規模以上文化企業3.5個百分點。文化服務業企業營業收入佔規模以上文化企業的比重為60.0%，比上年同期提高1.9個百分點，拉動規模以上文化企業營業收入增長4.7個百分點。"
+    },
+    {
+      "id": "mkt:019fb0b1-4a7c-7aab-8eff-86ce82540f35",
+      "time": "2026-07-30 09:43:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A-share retail sector rebounded; Nanning Department Store rallied straight to its daily limit, with peers Dongbai Group, Lingnan Holdings, Guangbai Co., Caesar Tourism, Hainan Development and Ouya Group also rising."
+    },
+    {
+      "id": "5015635",
+      "time": "2026-07-30 09:43:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "白酒股快速拉昇，捨得酒業觸及漲停。"
+    },
+    {
+      "id": "5015634",
+      "time": "2026-07-30 09:43:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.01%，現報13520.456點；上證指數漲%，現報3828.627點；創業板指跌1.95%，現報3312.885點。"
+    },
+    {
+      "id": "5015633",
+      "time": "2026-07-30 09:43:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "油氣概念表現活躍，通源石油漲近10%，科力股份、泰山石油、中國海油、山東墨龍、石化油服跟漲。"
+    },
+    {
+      "id": "5015632",
+      "time": "2026-07-30 09:42:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【免稅概念震盪反彈，南寧百貨直線漲停】免稅概念震盪反彈，南寧百貨直線漲停，東百集團、嶺南控股、廣百股份、凱撒旅業、海南發展、歐亞集團等跟漲。"
+    },
+    {
+      "id": "mkt:019fb0af-fb63-7aab-8eff-7ba01d101053",
+      "time": "2026-07-30 09:42:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share smart-driving sector rallied; Zhejiang Shibao hit its daily limit, while Wanji Technology, Suoling Co., BAIC BluePark and King Long Motor also advanced."
+    },
+    {
+      "id": "5015631",
+      "time": "2026-07-30 09:42:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家藥監局批准4款創新藥上市】近日，國家藥品監督管理局批准湖南九典制藥股份有限公司申報的中藥1.1類創新藥椒七止痛凝膠貼膏上市。該藥品為中藥複方外用製劑，具有溫經散寒、活血止痛功效，用於膝骨關節炎寒凝血瘀證。近日，國家藥監局附條件批准西湖製藥（杭州）有限公司申報的1類創新藥鹽酸伊司特韋片上市。該藥品為口服小分子新冠病毒感染治療藥物，用於治療成人輕型、中型新型冠狀病毒感染（COVID-19）。近日，國家藥品監督管理局批准江蘇恆瑞醫藥股份有限公司申報的舒地胰島素注射液（商品名：瑞恆盈）上市，用於治療成人2型糖尿病。 近日，國家藥品監督管理局透過優先審評審批程式批准上海華奧泰生物藥業股份有限公司申報的瑞西奇拜單抗注射液（商品名：華亦淨）上市，用於治療成人(體重≥40kg)泛發性膿皰型銀屑病發作。"
+    },
+    {
+      "id": "mkt:019fb0af-c07a-7aab-8eff-75ab0c9e0e5e",
+      "time": "2026-07-30 09:42:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS"
+      ],
+      "text": "Samsung Electronics expects H2 HBM4 revenue to account for about 60% of its total HBM revenue."
+    },
+    {
+      "id": "5015630",
+      "time": "2026-07-30 09:42:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：下半年HBM4營收將佔高頻寬儲存器總營收約60%。"
+    },
+    {
+      "id": "5015629",
+      "time": "2026-07-30 09:42:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.00%，成分股中，華虹宏力跌7.09%，翱捷科技跌6.20%，源傑科技跌5.37%，華海清科跌4.63%。"
+    },
+    {
+      "id": "5015628",
+      "time": "2026-07-30 09:41:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭武裝部隊30日在社交媒體發文稱，為了保護本國領空，波蘭已出動戰鬥機進行防禦性部署，以應對俄羅斯對烏克蘭發動空襲。（央視新聞）"
+    },
     {
       "id": "mkt:019fb0af-4210-7aab-8eff-6c69b46e3af5",
       "time": "2026-07-30 09:41:43",
@@ -164911,119 +165097,6 @@
         "國際"
       ],
       "text": "【美軍連續第12晚襲擊伊朗】美軍中央司令部7月22日在社交媒體釋出訊息稱，美軍於美東時間當天17時30分開始對伊朗軍事目標發動新一輪打擊，以繼續削弱伊朗威脅該地區海域航運的能力。這是美軍連續第12晚襲擊伊朗。 據伊朗伊斯蘭共和國廣播電視臺今天（7月23日）凌晨報道，伊朗南部和西南部多地遭導彈襲擊，傳出爆炸聲。另據伊朗媒體援引伊朗官員的話報道說，美軍導彈襲擊了伊朗同伊拉克接壤的沙拉姆切赫邊境口岸。襲擊已造成2人死亡。"
-    },
-    {
-      "id": "5003388",
-      "time": "2026-07-23 09:45:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "白酒板塊震盪下挫，古井貢酒跌超6%，山西汾酒、金種子酒、迎駕貢酒、今世緣跟跌。"
-    },
-    {
-      "id": "mkt:019f8ca5-dcc2-7aab-8e57-137fe1f8bd0d",
-      "time": "2026-07-23 09:45:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Wuhan 1H GDP 1.1236 tln yuan, +5.7% YoY】Wuhan Bureau of Statistics and the NBS Wuhan survey team reported 1H 2026 GDP at constant prices of 1.1236 tln yuan, up 5.7% YoY. By sector, primary industry added 19.28 bln yuan (+3.3%); secondary 381.57 bln yuan (+8.9%); tertiary 722.79 bln yuan (+4.2%)."
-    },
-    {
-      "id": "mkt:019f8ca5-aff8-7aab-8e57-0b27d84e3d29",
-      "time": "2026-07-23 09:44:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【Mizuho: BOJ Governor UEDA's remarks next week unlikely to reverse yen weakness】Mizuho economist Yusuke Matsuo said Bank of Japan Governor UEDA is likely to reiterate a push for further rate hikes at next week’s press conference, but that is unlikely to reverse the yen’s weakness. Markets have largely priced in roughly one hike every six months, limiting the currency impact of repeat hawkish signals. Matsuo warned that any tone read as dovish could deepen yen weakness amid broad dollar strength. Markets expect the BOJ to hold its policy rate at 1% next week to assess the effect of the previous hike."
-    },
-    {
-      "id": "5003387",
-      "time": "2026-07-23 09:44:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【乾圖投資宣佈5000萬元自購旗下私募證券基金產品】近日，深圳市乾圖私募證券基金管理有限公司公告稱，基於對我國經濟前景和資本市場穩健發展的堅定信心，以及對公司投研能力的認可，踐行長期投資理念，公司投委會決定以公司自有資金人民幣5000萬元，於近期申購公司旗下私募證券投資基金。"
-    },
-    {
-      "id": "5003386",
-      "time": "2026-07-23 09:44:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【武漢：上半年全市地區生產總值11236.42億元 同比增長5.7%】武漢市統計局、國家統計局武漢調查隊釋出2026年上半年武漢市經濟執行情況，根據湖北省市州生產總值統一核算結果，初步核算，上半年全市地區生產總值（GDP）11236.42億元，按不變價格計算，同比增長5.7%。分產業看，第一產業增加值192.83億元，增長3.3%；第二產業增加值3815.69億元，增長8.9%；第三產業增加值7227.90億元，增長4.2%。"
-    },
-    {
-      "id": "mkt:019f8ca5-13b5-7aab-8e57-02284362ef56",
-      "time": "2026-07-23 09:44:16",
-      "tags": [
-        "MKT News",
-        "01072.HK",
-        "Impact bullish",
-        "01133.HK",
-        "02208.HK"
-      ],
-      "text": "Hong Kong-listed power-equipment stocks rallied: Dongfang Electric (01072.HK) rose over 5%, Harbin Electric (01133.HK) gained over 4%; Weichai Power (02338.HK), Goldwind (02208.HK) and Tianneng Power (00819.HK) also advanced."
-    },
-    {
-      "id": "5003385",
-      "time": "2026-07-23 09:43:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【兩部門部署開展汛期災害事故違法不良資訊集中清理整治】從中央網信辦獲悉，為進一步規範汛期災害事故資訊釋出行為，防止違法不良資訊誤導公眾、干擾救援秩序，中央網信辦和應急管理部近日聯合印發通知，在全國範圍內部署開展汛期災害事故違法不良資訊集中清理整治，重點整治五類突出問題。五類突出問題為移花接木與惡意剪輯、舊聞翻炒與歷史嫁接、誇大其詞與虛構資料、編造險情與冒充權威、技術偽造與藉機詐騙，包括杜撰編造受災情況，刻意捏造誇大傷亡人數、房屋損毀數量、經濟損失規模等核心資料，或篡改災害等級、虛構次生災害，干擾救援秩序；盜用官方機構、主流媒體名義或標識，偽造公文格式，釋出虛假公告；利用AI生成、拼湊剪輯、劇情擺拍等手段，製作災情圖片或影片，杜撰事故現場、救援細節等。通知要求，各地網信部門要聚焦災害事故違法不良資訊典型問題及隱形變異問題，開展全面排查，督導網站平臺壓實主體責任，健全內容稽核及賬號管理機制。各地應急管理部門要加強協同聯動，確保清理整治工作取得實效。（新華社）"
-    },
-    {
-      "id": "te:economy:569034",
-      "time": "2026-07-23 09:42:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Employment Change",
-        "Importance 1"
-      ],
-      "text": "Australia Employment Hits Fresh Peak — Employment in Australia rose by 76,300 to a record high of 14.82 million in June 2026, accelerating sharply from an upwardly revised 43,900 increase in May and easily surpassing market expectations for a 15,000 gain. It marked the strongest monthly job growth since April, driven by a 29,300 increase in full-time employment to 10.17 million and a 47,000 rise in part-time employment to 4.65 million. Reflecting the robust labor market, the employment-to-population ratio climbed to 64.0% from 63.7%, extending gains for a second consecutive month, while the participation rate increased to 67.0% from 66.7%. Compared with a year earlier, total employment was up by 252,000, or 1.7%."
-    },
-    {
-      "id": "te:markets:569033",
-      "time": "2026-07-23 09:42:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "EU Gas Extends Rally on Winter Supply Risks — European natural gas prices extended rally on Thursday, climbing toward €63 as escalating hostilities in the Middle East heightened concerns over Europe's LNG security ahead of winter. The US and Iran continued to trade strikes, with both sides playing down the prospect of peace talks, raising the risk of prolonged disruptions to energy exports from the region. Iran-backed Houthi militants also entered the conflict, claiming to have targeted two Saudi Arabian tankers in the Red Sea. EU gas prices are now at levels seen during the peak of the conflict, as reduced LNG supplies from the Persian Gulf increase competition with Asian buyers, while high temperatures across Europe are boosting power demand. Equinor, Europe's largest gas supplier, warned that the bloc is unlikely to reach its 80% gas storage target before the heating season, leaving the market more vulnerable to sharp price volatility when colder weather arrives."
-    },
-    {
-      "id": "5003384",
-      "time": "2026-07-23 09:42:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內漲4%，現報147060.00元。"
-    },
-    {
-      "id": "mkt:019f8ca3-9bef-7aab-8e56-fc2d1273aad6",
-      "time": "2026-07-23 09:42:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "China A-share gas sector spiked intraday; Shuifa Gas hit the daily trading limit, while Kaitian Gas, Shengda Forestry, Hongtong Gas, Lantian Gas and Foran Energy also advanced."
     }
   ]
 }

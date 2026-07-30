@@ -1,7 +1,193 @@
 {
   "date": "2026-07-30",
-  "count": 1349,
+  "count": 1369,
   "items": [
+    {
+      "id": "5015640",
+      "time": "2026-07-30 09:45:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.02%，現報3310.598點；上證指數漲0.09%，現報3831.751點；深證成指跌0.99%，現報13523.392點。"
+    },
+    {
+      "id": "5015639",
+      "time": "2026-07-30 09:45:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4815.900點；恒生指數現跌0.302%。"
+    },
+    {
+      "id": "mkt:019fb0b2-9b37-7aab-8eff-98bfb169bb7d",
+      "time": "2026-07-30 09:45:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS"
+      ],
+      "text": "Samsung Electronics says it is not currently considering issuing American Depositary Receipts (ADRs) but remains open to ADR issuance over the medium-to-long term."
+    },
+    {
+      "id": "5015638",
+      "time": "2026-07-30 09:45:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "三星電子：對中長期發行美國存託憑證（ADR）持開放態度。"
+    },
+    {
+      "id": "5015637",
+      "time": "2026-07-30 09:45:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯創電子：鄭州聯創智造產業園廠房正式投產】據聯創電子訊息，鄭州聯創智造產業園廠房於2026年6月30日全面完成建設、實現產線進駐與穩定量產，標誌著園區廠房正式落成啟用、投入運營。"
+    },
+    {
+      "id": "mkt:019fb0b2-361a-7aab-8eff-96b83f4600ce",
+      "time": "2026-07-30 09:44:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qeshm Island power restored after brief outage from US missile strikes】Qeshm Island’s power was fully restored after a brief outage caused by missile strikes on the grid, the local power company said. Repair crews fixed the outage but staff remain on high alert. US warplanes fired multiple missiles at several sites on the island early that morning."
+    },
+    {
+      "id": "mkt:019fb0b2-31e8-7aab-8eff-8c986f88f253",
+      "time": "2026-07-30 09:44:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "China A-shares opened with the ChiNext down more than 2%, the Shenzhen Composite down over 1% and the Shanghai Composite up 0.1%. Baijiu, internet insurance and gaming stocks led gains."
+    },
+    {
+      "id": "5015636",
+      "time": "2026-07-30 09:44:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "三星電子：目前不考慮發行美國存託憑證（ADR）。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202607303826093197",
+      "time": "2026-07-30 09:44:42",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：上半年文化服務業實現營業收入同比增長8.1%】國家統計局社科文司統計師潘旭華解讀2026年上半年全國規模以上文化及相關產業企業資料，文化服務業發揮重要支撐作用。上半年，文化服務業實現營業收入43235億元，比上年同期增長8.1%，快於規模以上文化企業3.5個百分點。文化服務業企業營業收入佔規模以上文化企業的比重為60.0%，比上年同期提高1.9個百分點，拉動規模以上文化企業營業收入增長4.7個百分點。"
+    },
+    {
+      "id": "mkt:019fb0b1-4a7c-7aab-8eff-86ce82540f35",
+      "time": "2026-07-30 09:43:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A-share retail sector rebounded; Nanning Department Store rallied straight to its daily limit, with peers Dongbai Group, Lingnan Holdings, Guangbai Co., Caesar Tourism, Hainan Development and Ouya Group also rising."
+    },
+    {
+      "id": "5015635",
+      "time": "2026-07-30 09:43:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "白酒股快速拉昇，捨得酒業觸及漲停。"
+    },
+    {
+      "id": "5015634",
+      "time": "2026-07-30 09:43:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.01%，現報13520.456點；上證指數漲%，現報3828.627點；創業板指跌1.95%，現報3312.885點。"
+    },
+    {
+      "id": "5015633",
+      "time": "2026-07-30 09:43:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "油氣概念表現活躍，通源石油漲近10%，科力股份、泰山石油、中國海油、山東墨龍、石化油服跟漲。"
+    },
+    {
+      "id": "5015632",
+      "time": "2026-07-30 09:42:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【免稅概念震盪反彈，南寧百貨直線漲停】免稅概念震盪反彈，南寧百貨直線漲停，東百集團、嶺南控股、廣百股份、凱撒旅業、海南發展、歐亞集團等跟漲。"
+    },
+    {
+      "id": "mkt:019fb0af-fb63-7aab-8eff-7ba01d101053",
+      "time": "2026-07-30 09:42:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share smart-driving sector rallied; Zhejiang Shibao hit its daily limit, while Wanji Technology, Suoling Co., BAIC BluePark and King Long Motor also advanced."
+    },
+    {
+      "id": "5015631",
+      "time": "2026-07-30 09:42:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家藥監局批准4款創新藥上市】近日，國家藥品監督管理局批准湖南九典制藥股份有限公司申報的中藥1.1類創新藥椒七止痛凝膠貼膏上市。該藥品為中藥複方外用製劑，具有溫經散寒、活血止痛功效，用於膝骨關節炎寒凝血瘀證。近日，國家藥監局附條件批准西湖製藥（杭州）有限公司申報的1類創新藥鹽酸伊司特韋片上市。該藥品為口服小分子新冠病毒感染治療藥物，用於治療成人輕型、中型新型冠狀病毒感染（COVID-19）。近日，國家藥品監督管理局批准江蘇恆瑞醫藥股份有限公司申報的舒地胰島素注射液（商品名：瑞恆盈）上市，用於治療成人2型糖尿病。 近日，國家藥品監督管理局透過優先審評審批程式批准上海華奧泰生物藥業股份有限公司申報的瑞西奇拜單抗注射液（商品名：華亦淨）上市，用於治療成人(體重≥40kg)泛發性膿皰型銀屑病發作。"
+    },
+    {
+      "id": "mkt:019fb0af-c07a-7aab-8eff-75ab0c9e0e5e",
+      "time": "2026-07-30 09:42:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS"
+      ],
+      "text": "Samsung Electronics expects H2 HBM4 revenue to account for about 60% of its total HBM revenue."
+    },
+    {
+      "id": "5015630",
+      "time": "2026-07-30 09:42:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：下半年HBM4營收將佔高頻寬儲存器總營收約60%。"
+    },
+    {
+      "id": "5015629",
+      "time": "2026-07-30 09:42:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.00%，成分股中，華虹宏力跌7.09%，翱捷科技跌6.20%，源傑科技跌5.37%，華海清科跌4.63%。"
+    },
+    {
+      "id": "5015628",
+      "time": "2026-07-30 09:41:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭武裝部隊30日在社交媒體發文稱，為了保護本國領空，波蘭已出動戰鬥機進行防禦性部署，以應對俄羅斯對烏克蘭發動空襲。（央視新聞）"
+    },
     {
       "id": "mkt:019fb0af-4210-7aab-8eff-6c69b46e3af5",
       "time": "2026-07-30 09:41:43",
