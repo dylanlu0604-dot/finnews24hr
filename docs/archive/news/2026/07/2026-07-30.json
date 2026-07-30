@@ -1,7 +1,100 @@
 {
   "date": "2026-07-30",
-  "count": 3326,
+  "count": 3336,
   "items": [
+    {
+      "id": "mkt:019fb2fb-0a44-7aab-8f11-b8a4a6da4c15",
+      "time": "2026-07-30 20:23:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli said his vote this month was clear."
+    },
+    {
+      "id": "5017035",
+      "time": "2026-07-30 20:23:20",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行副行長隆巴代利：我們對英國抗通脹的成效有了更多認識。"
+    },
+    {
+      "id": "5017034",
+      "time": "2026-07-30 20:23:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行副行長隆巴德利：對我而言，維持利率並非勉強做出的決定。"
+    },
+    {
+      "id": "5017033",
+      "time": "2026-07-30 20:22:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行副行長隆巴德利：我本月的投票立場毫無懸念。"
+    },
+    {
+      "id": "mkt:019fb2fa-28d5-7aab-8f11-b19e5a6ec158",
+      "time": "2026-07-30 20:22:46",
+      "tags": [
+        "MKT News",
+        "FTSE100",
+        "Impact bearish",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor Bailey said profit margins are facing greater cost pressures."
+    },
+    {
+      "id": "5017032",
+      "time": "2026-07-30 20:22:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：企業利潤正在承擔更大一部分成本壓力。"
+    },
+    {
+      "id": "te:economy:571251",
+      "time": "2026-07-30 20:22:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Brazil Unemployment Matches Forecasts at 5.4% — Brazil's unemployment rate fell to 5.4% in the rolling quarter ending in June 2026, down from 6.1% in the previous rolling quarter, matching market expectations and marking the lowest reading since January. The number of unemployed dropped 10.9% from the previous quarter to 5.9 million. Employment gains were concentrated in transportation, storage and postal services (3.9%) and public administration, education and health services (2.6%). The broader labor underutilization rate declined to 12.9% from 14.3%, while the number of underemployed workers fell 6.6% to 4.1 million. Total employment rose 1.1% to a record 103.1 million people, lifting the employment rate to 58.8% from 58.2%. Meanwhile, average real monthly earnings were unchanged from the previous quarter at BRL 3,738."
+    },
+    {
+      "id": "5017031",
+      "time": "2026-07-30 20:21:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Arm美股盤前漲逾8%】Arm美股盤前漲逾8%，此前一度跌超7%。"
+    },
+    {
+      "id": "5017030",
+      "time": "2026-07-30 20:21:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【青鳥智控續簽華友鈷業年度採購框架協議】近日，青鳥智慧控制科技股份有限公司（簡稱“青鳥智控”）與浙江華友鈷業完成消防弱電裝置年度集中採購框架協議續簽，繼續入選華友海內外產業園消防裝置核心供應商。青鳥的消防方案將持續覆蓋華友橫跨四國的鋰電產能網路。"
+    },
+    {
+      "id": "5017029",
+      "time": "2026-07-30 20:20:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行副行長隆巴德利：衝突初期擔憂的極端能源價格現在不太可能出現。"
+    },
     {
       "id": "mkt:019fb2f7-eff7-7aab-8f11-af82640a71e5",
       "time": "2026-07-30 20:20:20",
