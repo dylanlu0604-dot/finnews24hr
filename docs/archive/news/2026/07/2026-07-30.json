@@ -1,7 +1,123 @@
 {
   "date": "2026-07-30",
-  "count": 3336,
+  "count": 3347,
   "items": [
+    {
+      "id": "te:markets:571253",
+      "time": "2026-07-30 20:27:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Rebound — European stocks extended their gains on Thursday amid strong GDP data and favorable corporate results. The Euro STOXX 50 added nearly 1% to 6,300 and the STOXX Europe 600 gained 0.7% to 649. The Eurozone GDP expanded by 0.4% in the second quarter, firmly above market expectations of 0.2% to reflect some resilience to soaring energy prices and sovereign yields in the period. Still, economic optimism was buffered by elevated EU-harmonized inflation rates, with pickups across Spain and Germany. Schneider Electric surged 9% after raising its full-year targets. BBVA climbed 3.5% after reporting an 11.4% increase in net profit. Also, ING rose more than 4% after posing their results, lifting other banks. Other banks also rallied. On top of that, Ferrari maintained its slight gains after raising its guidance. On the downside, Adidas slumped more than 16% after its heavy marketing campaigns around the FIFA World Cup triggered a surge in outlays."
+    },
+    {
+      "id": "mkt:019fb2fe-7636-7aab-8f11-dbcd0f208077",
+      "time": "2026-07-30 20:27:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS, citing a former Israeli military intelligence officer, reported Iran has shifted from discussing its nuclear program to negotiating over the Strait of Hormuz."
+    },
+    {
+      "id": "5017041",
+      "time": "2026-07-30 20:27:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【受益世界盃及跑步業務，阿迪達斯上調全年業績指引】7月30日，阿迪達斯釋出2026年Q2財報。第二季度，阿迪達斯全球營收達67億歐元，在貨幣中性下（下同），同比增長14%，再創歷史新高；營業利潤達5.74億歐元，同比增長5%；毛利率同比提升0.8個百分點至52.5%。阿迪達斯全球CEO古爾登指出，本季度除歐洲外所有地區均實現兩位數增長。作為阿迪達斯最為重要的戰略市場之一，大中華區業績連續十三個季度實現高質量的增長。財報顯示，2026年第二季度，阿迪達斯大中華區實現營收9.5億歐元，同比增長15%。介面新聞記者瞭解到，在足球和跑步專案的帶動下，運動表現業務增長39%。生活方式業務營收增長2%。其中，跑步業務實現近30%的增長。得益於強勁表現，阿迪達斯上調2026全年業績指引，全年營收增幅區間為9%-10%，此前預期為高個位數增長。"
+    },
+    {
+      "id": "5017040",
+      "time": "2026-07-30 20:26:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【邁威爾科技美股盤前漲超5%】邁威爾科技美股盤前漲超5%，現報171.8美元。"
+    },
+    {
+      "id": "5017039",
+      "time": "2026-07-30 20:25:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【歌華有線推出廣電智慧體產品】為貫徹國家廣播電視總局“深化人工智慧創新融合應用”部署，歌華有線7月30日在京釋出新推出的智慧體產品“小華”，旨在打通大屏、中屏、小屏、無屏拾音器等全品類家庭智慧終端，打造廣電視聽新體驗。據介紹，智慧體“小華”整合廣播電視自有直播、回看、點播等資源，同時接入頭部網際網路平臺影視內容，並搭載智慧語音搜尋，無需完整名稱，僅憑零星臺詞、劇情片段口述，就能找到目標節目。此外，智慧體以電視端為錨點，可在任意終端間切換，實現跨端記憶、多屏聯動，讓每一塊屏都成為智慧家庭的入口。（新華社）"
+    },
+    {
+      "id": "mkt:019fb2fc-4798-7aab-8f11-d0d009f8e2f7",
+      "time": "2026-07-30 20:25:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Markets have trimmed pricing for Bank of England rate hikes; the implied probability of a September hike is now below 40%."
+    },
+    {
+      "id": "5017038",
+      "time": "2026-07-30 20:25:04",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "市場定價下調對英國央行的加息押注；現預計九月加息的可能性不足40%。"
+    },
+    {
+      "id": "mkt:019fb2fc-321f-7aab-8f11-cf5bcde5c180",
+      "time": "2026-07-30 20:25:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "【Bank of England Governor Bailey: Second‑round inflation cannot be ruled out; may raise rates further if needed】After the policy decision, Governor Bailey said the Bank of England stands ready to adjust policy as the outlook changes. There is currently little sign that recent energy-price rises have become embedded and no evidence yet of second‑round inflation, but the risk cannot be ruled out and the BoE will remain vigilant. If the conflict persists and boosts inflationary pressure, the BoE may need to raise rates further. Bailey expects energy’s indirect effect to lift inflation by about 0.5 percentage point in H2 2026, but the pass-through is occurring more slowly than in the April forecast. Domestic inflation is broadly easing; household inflation expectations have eased but remain elevated. The latest CPI print was below the BoE’s expectation, a welcome sign that inflation is continuing to fall."
+    },
+    {
+      "id": "5017037",
+      "time": "2026-07-30 20:24:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行副行長隆巴代利：我們對英國通脹放緩的力度有了更多認知。"
+    },
+    {
+      "id": "mkt:019fb2fb-e8c0-7aab-8f11-c05120f3ccc0",
+      "time": "2026-07-30 20:24:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Bank of England deputy governor Lombardelli said he has observed strong disinflation in the UK."
+    },
+    {
+      "id": "5017036",
+      "time": "2026-07-30 20:24:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【共達電聲：控股股東一致行動人增持股份，權益變動觸及 5%整數倍】共達電聲公告稱，2026 年 7 月 20 日，控股股東無錫韋感的一致行動人韋豪創芯計劃 6 個月內，以不超 35 元/股增持 15000 - 25000 萬元。截至 7 月 30 日，韋豪創芯增持 30.86 萬股，佔總股本 0.08%，成交 728.38 萬元。本次權益變動後，無錫韋感及韋豪創芯合計持股 5468.7615 萬股，佔總股本 15.00%，觸及 5%整數倍。本次增持符合規定，不會致實際控制人變化，公司將持續披露進展。"
+    },
     {
       "id": "mkt:019fb2fb-0a44-7aab-8f11-b8a4a6da4c15",
       "time": "2026-07-30 20:23:44",
