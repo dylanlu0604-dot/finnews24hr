@@ -1,7 +1,92 @@
 {
-  "updated": "2026-07-31 04:31:26",
-  "count": 17880,
+  "updated": "2026-07-31 04:35:17",
+  "count": 17882,
   "items": [
+    {
+      "id": "5017699",
+      "time": "2026-07-31 04:34:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：日本政府和日本央行干預匯市。"
+    },
+    {
+      "id": "mkt:019fb4bb-d721-7aab-8f1c-6bb4aea44699",
+      "time": "2026-07-31 04:33:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) reported fiscal 2026 Q3 gross margin of 50.1% versus market consensus of 47.92%, a 218 bps beat."
+    },
+    {
+      "id": "mkt:019fb4ba-d62d-7aab-8f1c-633355cdabf2",
+      "time": "2026-07-31 04:32:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Apple (AAPL.O) FY2026 Q3 Greater China revenue $18.82 bln, below $19.67 bln expected."
+    },
+    {
+      "id": "te:markets:571344",
+      "time": "2026-07-31 04:32:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Apple earnings above expectations at 2.02 USD — Apple (AAPL) released earnings per share at 2.02 USD, compared to market expectations of 1.89 USD."
+    },
+    {
+      "id": "5017698",
+      "time": "2026-07-31 04:31:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波蘭確認境內墜入一枚俄製導彈】波蘭國防部國務秘書採扎雷·託姆奇克30日表示，波方已確認當天凌晨侵入波蘭領空並墜落在該國東部盧布林省塔納瓦－科洛尼亞附近的是一枚俄製Kh-101導彈。託姆奇克在接受波蘭媒體採訪時說，該型導彈具備攜帶核彈頭能力，是一種非常危險的巡航導彈。他補充說，目前尚不清楚這枚導彈是否蓄意瞄準波蘭。（新華社）"
+    },
+    {
+      "id": "mkt:019fb4b9-6472-7aab-8f1c-593b94bd2de9",
+      "time": "2026-07-31 04:31:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "Apple (AAPL.O) fell 2% in after-hours trade following its earnings release."
+    },
+    {
+      "id": "mkt:019fb4b9-5e4e-7aab-8f1c-540db0d6532e",
+      "time": "2026-07-31 04:31:14",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Foreign central banks held $33.902 bln of US Treasuries in the week to July 24, up from $24.814 bln the previous week."
+    },
     {
       "id": "mkt:019fb4b9-3438-7aab-8f1c-4f8f8f848dc1",
       "time": "2026-07-31 04:31:04",
@@ -165037,61 +165122,6 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Closes 1.04% Lower — The Dow Jones Index decreased 545 points or 1.04 percent on Thursday to close at 51673 points. The decline was led by Alphabet (-6.93%), Amazon (-4.51%) and Salesforce (-3.64%)."
-    },
-    {
-      "id": "5005392",
-      "time": "2026-07-24 04:34:56",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "美國至7月17日當週外國央行持有美國國債 248.14億美元，前值6.39億美元。"
-    },
-    {
-      "id": "mkt:019f90af-8b4e-7aab-8e73-549cc6d8d161",
-      "time": "2026-07-24 04:34:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Brent futures settle above $100】Oil rallied on the 23rd. At the close, NYMEX September light crude rose $5.36 to $92.19/bbl (+6.17%); ICE Brent September added $6.62 to $100.69/bbl, its first close above $100 since May (+7.04%)."
-    },
-    {
-      "id": "mkt:019f90af-3b3f-7aab-8e73-4c5c54cb5e80",
-      "time": "2026-07-24 04:33:50",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "Foreign central banks' holdings of US Treasuries rose by $24.814bn in the week ended July 17, versus $0.639bn in the prior week."
-    },
-    {
-      "id": "mkt:019f90af-0623-7aab-8e73-4266bbfcbf15",
-      "time": "2026-07-24 04:33:37",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | US Treasuries held by Foreign Central Banks (Jul.17) | actual 24814000000B | previous 639000000B"
-    },
-    {
-      "id": "5005391",
-      "time": "2026-07-24 04:33:24",
-      "tags": [
-        "公司",
-        "資料",
-        "市場",
-        "觀點"
-      ],
-      "text": "【7月24日美股成交額前20：特斯拉業績欠佳股價重挫14.5%】週四美股成交額第2名特斯拉收跌14.52%，創下2025年6月以來單日最大跌幅，成交371.77億美元。這家電動汽車廠商二季度業績不及預期，同時宣佈將大幅加碼開支，引發投資者恐慌。特斯拉公司二季度資本開支達到57.9億美元，同比暴漲142%，規模翻倍有餘。特斯拉預計全年資本總投入將突破250億美元。大規模投入導致本季度自由現金流由正轉負。雖然整車營收超出市場預期，但盈利水平有所惡化。受車輛平均售價走低、高利潤碳積分收入下滑影響，毛利率不及分析師預期。市場再度擔憂，特斯拉難以在大舉投資和利潤增長之間實現平衡。"
     }
   ]
 }

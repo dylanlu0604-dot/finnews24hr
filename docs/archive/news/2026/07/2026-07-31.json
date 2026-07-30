@@ -1,7 +1,92 @@
 {
   "date": "2026-07-31",
-  "count": 369,
+  "count": 376,
   "items": [
+    {
+      "id": "5017699",
+      "time": "2026-07-31 04:34:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：日本政府和日本央行干預匯市。"
+    },
+    {
+      "id": "mkt:019fb4bb-d721-7aab-8f1c-6bb4aea44699",
+      "time": "2026-07-31 04:33:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) reported fiscal 2026 Q3 gross margin of 50.1% versus market consensus of 47.92%, a 218 bps beat."
+    },
+    {
+      "id": "mkt:019fb4ba-d62d-7aab-8f1c-633355cdabf2",
+      "time": "2026-07-31 04:32:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Apple (AAPL.O) FY2026 Q3 Greater China revenue $18.82 bln, below $19.67 bln expected."
+    },
+    {
+      "id": "te:markets:571344",
+      "time": "2026-07-31 04:32:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Apple earnings above expectations at 2.02 USD — Apple (AAPL) released earnings per share at 2.02 USD, compared to market expectations of 1.89 USD."
+    },
+    {
+      "id": "5017698",
+      "time": "2026-07-31 04:31:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波蘭確認境內墜入一枚俄製導彈】波蘭國防部國務秘書採扎雷·託姆奇克30日表示，波方已確認當天凌晨侵入波蘭領空並墜落在該國東部盧布林省塔納瓦－科洛尼亞附近的是一枚俄製Kh-101導彈。託姆奇克在接受波蘭媒體採訪時說，該型導彈具備攜帶核彈頭能力，是一種非常危險的巡航導彈。他補充說，目前尚不清楚這枚導彈是否蓄意瞄準波蘭。（新華社）"
+    },
+    {
+      "id": "mkt:019fb4b9-6472-7aab-8f1c-593b94bd2de9",
+      "time": "2026-07-31 04:31:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "Apple (AAPL.O) fell 2% in after-hours trade following its earnings release."
+    },
+    {
+      "id": "mkt:019fb4b9-5e4e-7aab-8f1c-540db0d6532e",
+      "time": "2026-07-31 04:31:14",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Foreign central banks held $33.902 bln of US Treasuries in the week to July 24, up from $24.814 bln the previous week."
+    },
     {
       "id": "mkt:019fb4b9-3438-7aab-8f1c-4f8f8f848dc1",
       "time": "2026-07-31 04:31:04",
