@@ -1,7 +1,61 @@
 {
   "date": "2026-07-31",
-  "count": 155,
+  "count": 161,
   "items": [
+    {
+      "id": "te:markets:571329",
+      "time": "2026-07-31 01:22:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Futures Edge Lower — US gasoline futures fell to $3.35 per gallon from the two-month high of $3.5 on July 23rd, as markets weighed persistent geopolitical risks against signs that oil flows through the Strait of Hormuz were improving. In the Middle East, oil-shuttling services picked up with data suggesting more barrels are leaving the Persian Gulf through vessels with transponders off, dampening concerns over energy supply. In the Bab el-Mandeb strait, two Saudi tankers also managed to cross the waterway by going dark. Meanwhile, EIA data showed US gasoline inventories rose slightly last week, defying expectations for a decline though stocks remained 6% below the five-year seasonal average. Geopolitical risks nevertheless persisted despite continued mediation efforts by China and Oman to facilitate US-Iran talks. In Russia, the government extended its diesel and gasoline export ban through January 2027 as fuel shortages persisted following Ukrainian drone strikes that shut another crude distillation unit."
+    },
+    {
+      "id": "5017576",
+      "time": "2026-07-31 01:22:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部：卡茨瞭解了情報與作戰態勢、軍隊實力以及各類情景預案。軍隊已做好充分準備，應對任何情況，無論是防禦還是進攻。"
+    },
+    {
+      "id": "5017575",
+      "time": "2026-07-31 01:21:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊：美國中央司令部應停止遮掩，讓世界看清我們如何懲罰侵略者。"
+    },
+    {
+      "id": "5017574",
+      "time": "2026-07-31 01:21:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國參議院投票反對一項決議草案，該草案旨在阻止針對伊朗的軍事行動，除非獲得國會授權。"
+    },
+    {
+      "id": "mkt:019fb40b-c7f2-7aab-8f19-ed763ea6ea90",
+      "time": "2026-07-31 01:21:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SNDK.O",
+        "Impact bullish"
+      ],
+      "text": "SanDisk (SNDK.O) hits intraday high, now trading up over 25%."
+    },
+    {
+      "id": "5017573",
+      "time": "2026-07-31 01:20:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名伊朗議員週四表示，針對伊朗的襲擊意在 “向平民施壓、削弱社會韌性”，並稱伊朗民眾及地區武裝組織仍決意持續抵抗。"
+    },
     {
       "id": "mkt:019fb40a-c23b-7aab-8f19-e6cf77b9eb6a",
       "time": "2026-07-31 01:20:31",
