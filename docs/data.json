@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-31 02:05:26",
-  "count": 17904,
+  "updated": "2026-07-31 02:09:35",
+  "count": 17901,
   "items": [
+    {
+      "id": "5017618",
+      "time": "2026-07-31 02:08:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯邦快遞：擴大與Dexterity公司的合作，將在馬里蘭州黑格斯敦樞紐部署人工智慧機器人。"
+    },
+    {
+      "id": "5017617",
+      "time": "2026-07-31 02:08:09",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財長貝森特：美國財政部將持續甄別、曝光（伊朗革命衛隊）相關主體，並切斷其接入美國金融體系的渠道。"
+    },
+    {
+      "id": "mkt:019fb435-9241-7aab-8f1a-add6cc6ddc4d",
+      "time": "2026-07-31 02:07:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV reported Hamas said the inventory and storage of the group's weapons will take 14 days. A directly linked international committee will oversee counting and storage, and heavy weapons will be inventoried and transferred to a Gaza administrative national committee."
+    },
+    {
+      "id": "5017616",
+      "time": "2026-07-31 02:05:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：北美資料、分析與交易處理商憑藉嵌入式產品及自有資料展現最強實力。"
+    },
+    {
+      "id": "5017615",
+      "time": "2026-07-31 02:04:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗哈塔姆・安比亞中央指揮部司令阿卜杜拉希少將表示，美國及其僱傭軍已然明白，棺材如今成了他們在該地區裝備清單的一部分。"
+    },
     {
       "id": "5017614",
       "time": "2026-07-31 02:03:53",
@@ -165260,76 +165301,6 @@
         "其他"
       ],
       "text": "巴西法院啟動調查，核查前巴西總統博索納羅與馬斯特銀行的關聯。"
-    },
-    {
-      "id": "mkt:019f902a-3185-7aab-8e71-5b1b963a9f96",
-      "time": "2026-07-24 02:08:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Head of the International Maritime Organization said the agency is seriously concerned about pollution risks from reported incidents in the Red Sea and earlier incidents in the Strait of Hormuz."
-    },
-    {
-      "id": "5005300",
-      "time": "2026-07-24 02:07:16",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財政部：對古巴實施新制裁。"
-    },
-    {
-      "id": "5005299",
-      "time": "2026-07-24 02:07:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際海事組織秘書長：對紅海這些已報告事件以及霍爾木茲海峽地區此前事件潛在汙染問題同樣關切。"
-    },
-    {
-      "id": "mkt:019f9028-cc5a-7aab-8e71-532bc115a0c7",
-      "time": "2026-07-24 02:07:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury announces new sanctions on Cuba."
-    },
-    {
-      "id": "5005298",
-      "time": "2026-07-24 02:06:59",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將芝商所目標價從324.00美元上調至330.00美元。"
-    },
-    {
-      "id": "mkt:019f9028-7cd6-7aab-8e71-4e4a6528b04e",
-      "time": "2026-07-24 02:06:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The head of the International Maritime Organization strongly condemned recent attacks targeting international shipping in the Red Sea region."
-    },
-    {
-      "id": "5005297",
-      "time": "2026-07-24 02:06:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際海事組織負責人：明確譴責紅海地區最新報道的國際航運襲擊事件。"
-    },
-    {
-      "id": "5005296",
-      "time": "2026-07-24 02:05:52",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "市場訊息：美國財政部收到163.04億美元的回購要約，接受了20億美元。"
     }
   ]
 }
