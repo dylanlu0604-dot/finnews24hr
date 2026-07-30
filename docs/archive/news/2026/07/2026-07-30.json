@@ -1,7 +1,311 @@
 {
   "date": "2026-07-30",
-  "count": 1273,
+  "count": 1308,
   "items": [
+    {
+      "id": "5015606",
+      "time": "2026-07-30 09:33:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國綜指漲幅擴大至4%。MSCI亞太指數漲1%。"
+    },
+    {
+      "id": "mkt:019fb0a7-ed43-7aab-8efe-edc4a7d47df2",
+      "time": "2026-07-30 09:33:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share gaming sector rallied at the open; Glacier Network rose more than 12%, Caesar Culture hit the daily trading limit, Giant Network climbed over 9%, and Kaiying Network and Perfect World also gained."
+    },
+    {
+      "id": "5015605",
+      "time": "2026-07-30 09:33:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "食品等消費股繼續走強，一鳴食品3連板，均瑤健康、安記食品2連板，海欣食品、李子園、天潤乳業漲幅居前。"
+    },
+    {
+      "id": "5015604",
+      "time": "2026-07-30 09:33:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【遊戲板塊盤初走強 冰川網路漲超10%】遊戲板塊盤初走強，冰川網路漲超10%，凱撒文化漲停，巨人網路、電魂網路、愷英網路跟漲。"
+    },
+    {
+      "id": "5015603",
+      "time": "2026-07-30 09:33:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【時隔6天美軍再襲伊朗】據伊朗塔斯尼姆通訊社報道，今天（7月30日）凌晨，美軍發射導彈襲擊了伊朗最大島嶼加什姆島上的居民區。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019fb0a7-8768-7aab-8efe-e030dbedd965",
+      "time": "2026-07-30 09:33:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local governor says a fire broke out at Russian online retailer Wildberries' logistics center in Penza."
+    },
+    {
+      "id": "5015602",
+      "time": "2026-07-30 09:33:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1%至257.65點。"
+    },
+    {
+      "id": "5015601",
+      "time": "2026-07-30 09:32:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【MLCC概念盤初拉昇，雙星新材觸及漲停】MLCC概念盤初拉昇，雙星新材觸及漲停，火炬電子、潔美科技、風華高科、博遷新材、昀冢科技、國瓷材料等跟漲。"
+    },
+    {
+      "id": "5015600",
+      "time": "2026-07-30 09:32:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【AI應用端反覆活躍 傳智教育4連板】AI應用端反覆活躍，傳智教育4連板，普聯軟體、恆鋒資訊、巨人網路、愷英網路、福石控股等跟漲。"
+    },
+    {
+      "id": "mkt:019fb0a7-0f20-7aab-8efe-ddeff5025105",
+      "time": "2026-07-30 09:32:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI jumped about 3% intraday to 5,836.39, with Samsung Electronics up 4.5% and SK Hynix up 2%."
+    },
+    {
+      "id": "5015599",
+      "time": "2026-07-30 09:32:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國環孢子蟲病病例持續上升 確診超6700例】美國疾病控制和預防中心28日公佈的監測資料顯示，近期美國環孢子蟲病病例持續增加。自今年5月1日以來，全美已有45個州累計報告6707例實驗室確診、在美國本土感染的病例，另有超過1.15萬例疑似病例有待實驗室檢測確認。"
+    },
+    {
+      "id": "mkt:019fb0a6-b609-7aab-8efe-d3c99693cda1",
+      "time": "2026-07-30 09:32:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia Q2 export price index YoY +3.9% vs -1.9% previously."
+    },
+    {
+      "id": "mkt:019fb0a6-985b-7aab-8efe-cf35bf597204",
+      "time": "2026-07-30 09:32:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Export Price Index (YoY) (Q2) | actual 3.9% | previous -1.9%"
+    },
+    {
+      "id": "mkt:019fb0a6-8da7-7aab-8efe-c542f41e3729",
+      "time": "2026-07-30 09:32:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia Q2 import price index YoY +6.2% (previous -0.3%)."
+    },
+    {
+      "id": "mkt:019fb0a6-71b7-7aab-8efe-bbb4dfd2c763",
+      "time": "2026-07-30 09:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Import Price Index (YoY) (Q2) | actual 6.2% | previous -0.3%"
+    },
+    {
+      "id": "mkt:019fb0a6-5d70-7aab-8efe-b4bdfa5c1fc0",
+      "time": "2026-07-30 09:32:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China A-share oil and gas extraction services sector jumped in early trade; Tongyuan Petroleum rose over 7%, while Keli Co., Qianeng Hengxin, Zhongman Petroleum and Sinopec Oilfield Service also advanced."
+    },
+    {
+      "id": "mkt:019fb0a5-ff4b-7aab-8efe-ae5e5e57322c",
+      "time": "2026-07-30 09:31:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【China National Bureau of Statistics: Cultural enterprises' operating revenue rose steadily in 1H】China's National Bureau of Statistics said enterprises above designated size in cultural and related industries reported operating revenue of 7.203 trillion yuan in 1H, up 4.6% YoY. Revenue in core cultural sectors reached 5.047 trillion yuan, up 5.5% YoY. Within core sectors, cultural investment operations, news and information services, and creative design services grew 10.0%, 9.2% and 9.2%, respectively. New cultural business formats showed robust activity."
+    },
+    {
+      "id": "5015598",
+      "time": "2026-07-30 09:31:31",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家統計局：上半年文化企業營業收入平穩增長】上半年，各地區各部門認真貫徹落實黨中央、國務院決策部署，積極推動文化高質量發展若干經濟政策落地顯效，促進文化產業提質增效，著力擴大文化產品和服務消費，文化企業營業收入實現平穩增長，文化新業態行業展現蓬勃活力。規模以上文化企業營業收入平穩增長。上半年，全國規模以上文化及相關產業企業實現營業收入72026億元，比上年同期增長4.6%。分領域看，文化核心領域實現營業收入50472億元，比上年同期增長5.5%。其中，文化投資運營、新聞資訊服務、創意設計服務等3個行業大類營業收入實現較快增長，增速分別為10.0%、9.2%和9.2%。（國家統計局）"
+    },
+    {
+      "id": "5015597",
+      "time": "2026-07-30 09:31:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至3%】韓國綜指漲幅擴大至3%，現報5836.39點。個股方面，三星電子漲超3%，SK海力士漲超1%。"
+    },
+    {
+      "id": "mkt:019fb0a5-bf94-7aab-8efe-a7413761df0c",
+      "time": "2026-07-30 09:31:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China index futures open higher】China's equity index futures opened higher: CSI 300 index futures (IF) main contract +0.08%; SSE 50 (IH) +0.49%; CSI 500 (IC) +0.21%; CSI 1000 (IM) +0.32%."
+    },
+    {
+      "id": "mkt:019fb0a5-b3d8-7aab-8efe-99ea36138eac",
+      "time": "2026-07-30 09:31:17",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia June seasonally adjusted private sector building approvals YoY 0.4% (previous 13.2%)."
+    },
+    {
+      "id": "mkt:019fb0a5-a92c-7aab-8efe-95e7e7d2db07",
+      "time": "2026-07-30 09:31:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open - morning session】China government bond futures opened in the morning session: 2-year (TS main contract) flat; 5-year (TF main contract) +0.01%; 10-year (T main contract) +0.01%; 30-year (TL main contract) +0.07%."
+    },
+    {
+      "id": "mkt:019fb0a5-973e-7aab-8efe-8fd3bc50d593",
+      "time": "2026-07-30 09:31:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Private Sector Building Approvals SA (YoY) (Jun) | actual 0.4% | previous 13.2%"
+    },
+    {
+      "id": "mkt:019fb0a5-8ae9-7aab-8efe-85fa166445df",
+      "time": "2026-07-30 09:31:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia June seasonally adjusted building approvals YoY +8.9%, prior +5.3%."
+    },
+    {
+      "id": "5015596",
+      "time": "2026-07-30 09:31:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4914.400點；恒生指數現漲0.630%。"
+    },
+    {
+      "id": "mkt:019fb0a5-6be2-7aab-8efe-7eae7df495f4",
+      "time": "2026-07-30 09:30:58",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Building Approvals SA (YoY) (Jun) | actual 8.9% | previous 5.3%"
+    },
+    {
+      "id": "5015595",
+      "time": "2026-07-30 09:30:39",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞6月季調營建許可月率 7.2%，預期-1%，前值-1.10%。澳大利亞6月季調私營營建許可月率 0.4%，前值2.8%。"
+    },
+    {
+      "id": "mkt:019fb0a5-0df1-7aab-8efe-7100807c09d7",
+      "time": "2026-07-30 09:30:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【MOFCOM spokesperson on U.S. FCC adding foreign power inverters and advanced robotics to 'covered list'】MOFCOM said the U.S. FCC move to add foreign power inverters and advanced robotics equipment to a 'covered list' targets goods that are normal international commodities and that trade benefits all parties, including the U.S. It accused Washington of overbroad national-security claims and of using administrative powers to disrupt normal commercial transactions and push decoupling and supply‑chain severing, described the measures as market‑distorting unilateral bullying, urged immediate revocation, and warned that China will resolutely retaliate to safeguard its legitimate rights and interests if the U.S. persists."
+    },
+    {
+      "id": "5015594",
+      "time": "2026-07-30 09:30:33",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞第二季度出口物價指數季率 1.1%，前值0.50%。澳大利亞第二季度進口物價指數季率 5.7%，前值0.10%。"
+    },
+    {
+      "id": "5015593",
+      "time": "2026-07-30 09:30:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數站上5800點，日內漲2.44%。"
+    },
+    {
+      "id": "mkt:019fb0a4-b401-7aab-8efe-6ed4e501ddaa",
+      "time": "2026-07-30 09:30:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia Q2 export price index QoQ +1.1% (prior +0.5%)."
+    },
+    {
+      "id": "mkt:019fb0a4-a9b7-7aab-8efe-63118305b82f",
+      "time": "2026-07-30 09:30:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia Q2 import price index QoQ 5.7%, prior 0.10%."
+    },
     {
       "id": "mkt:019fb0a4-a4aa-7aab-8efe-5efdb5fdea18",
       "time": "2026-07-30 09:30:07",
@@ -17,6 +321,31 @@
         "MKT News"
       ],
       "text": "Australia June seasonally adjusted private-sector building approvals rose 0.4% MoM, prior +2.8%."
+    },
+    {
+      "id": "5015592",
+      "time": "2026-07-30 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.07%， 10年期主力合約漲0.01%， 5年期主力合約基本持平， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5015591",
+      "time": "2026-07-30 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.13%， 滬深300指數期貨連續跌0.55%， 中證500指數期貨連續跌0.46%， 上證50指數期貨連續跌0.29%。"
+    },
+    {
+      "id": "5015590",
+      "time": "2026-07-30 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.51%，成分股中，生益電子跌3.38%，中科飛測跌2.97%，沐曦股份跌2.83%，寒武紀跌2.78%。"
     },
     {
       "id": "mkt:019fb0a4-8cd9-7aab-8efe-4dff465067e6",
