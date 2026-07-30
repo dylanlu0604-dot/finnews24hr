@@ -1,7 +1,127 @@
 {
   "date": "2026-07-30",
-  "count": 2561,
+  "count": 2575,
   "items": [
+    {
+      "id": "mkt:019fb258-5401-7aab-8f0b-ed3d04e0c11d",
+      "time": "2026-07-30 17:26:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai unveils health plan to expand fertility support, target no out-of-pocket prenatal and delivery costs】Shanghai issued its 15th Five-Year Health Development Plan, prioritizing expanded fertility support and maternal-child services. Measures include a childcare subsidy scheme, strengthened maternity leave, early-pregnancy care, and a birth-defect prevention capacity building plan. The city will develop integrated medical-education services, expand and standardize maternal and child facilities, and improve childcare for children under three. Maternity insurance benefits will be optimized and coverage standards adjusted to raise maternity medical expense protection, aiming for zero personal co-payments for prenatal checks and inpatient deliveries within policy scope, and to increase coverage for pain-relief childbirth and assisted reproductive technology (ART) costs."
+    },
+    {
+      "id": "5016491",
+      "time": "2026-07-30 17:25:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列委員會反對SHAPIR競標阿什杜德煉油廠。"
+    },
+    {
+      "id": "5016490",
+      "time": "2026-07-30 17:25:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行稱，銀行以邊際利率借入了4.67億歐元。"
+    },
+    {
+      "id": "5016489",
+      "time": "2026-07-30 17:25:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長纜科技：截至7月30日回購股份佔總股本1.5351%】長纜科技公告稱，截至2026年7月30日，公司以集中競價交易方式累計回購股份2964450股，佔公司目前總股本的1.5351%，最高成交價19.86元/股，最低成交價14.04元/股，成交總金額5156.73萬元（不含交易費用等）。公司於7月20日透過回購股份方案，資金總額不低於18000萬元且不超過22000萬元，回購期限自董事會審議透過之日起不超三個月。後續將繼續實施回購並及時披露資訊。"
+    },
+    {
+      "id": "5016488",
+      "time": "2026-07-30 17:25:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【邁瑞醫療今日大宗交易折價成交64.2萬股，成交額9942.72萬元】7月30日，邁瑞醫療大宗交易成交64.2萬股，成交額9942.72萬元，佔當日總成交額的3.38%，成交價154.88元，較市場收盤價161.62元折價4.17%。"
+    },
+    {
+      "id": "5016487",
+      "time": "2026-07-30 17:25:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST美麗：2026年二季度新簽訂單1.54億元 披露重大專案進展】*ST美麗公告稱，2026年第二季度新簽訂單8個，金額1.54億元，截至報告期末累計已簽約未完工訂單80個，金額99.45億元，無已中標尚未簽約訂單。同時，公告了凱里經濟開發區地下綜合管廊建設PPP專案、富順縣水環境綜合治理工程PPP專案等重大專案情況。其中，G1816烏海至瑪沁國家高速公路蘭州新區至蘭州段專案已完成最終結算，累計結算總額5.82億元。"
+    },
+    {
+      "id": "5016486",
+      "time": "2026-07-30 17:24:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天賜材料在山東成立新公司 註冊資本1.5億元】企查查APP顯示，近日，天賜新材料（山東）有限公司成立，法定代表人為周立，註冊資本為1.5億元，經營範圍包含：新材料技術研發；電子專用材料製造；電子專用材料研發；電子專用材料銷售。企查查股權穿透顯示，該公司由天賜材料全資持股。"
+    },
+    {
+      "id": "te:economy:571169",
+      "time": "2026-07-30 17:23:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "GDP Annual Growth Rate",
+        "Importance 0"
+      ],
+      "text": "Eurozone Annual Growth Beats Expectations in Q2 — The eurozone economy grew 1.0% year-on-year in the second quarter of 2026, accelerating from an upwardly revised 0.5% in the previous quarter and well above market expectations of 0.5%, according to preliminary estimates. Strong AI-related investment, resilient government spending, and one-off factors helped offset the impact of the conflict in Iran and higher energy prices. Among the largest euro area economies, Spain remained the standout performer, with annual GDP growth of 2.7%, followed by the Netherlands (1.3%), Italy (1.0%), Germany (0.9%), and France (0.7%). On a quarterly basis, the eurozone economy expanded 0.4%, its strongest pace since the first quarter of 2025 and double market expectations of a 0.2% increase."
+    },
+    {
+      "id": "5016485",
+      "time": "2026-07-30 17:23:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞泰集團：擬向長髮集團出售東北證券20.81%股份，公司被啟動預重整交易或中止】亞泰集團公告，公司此前披露擬將持有的東北證券20.81%股份出售給長髮集團，9%股份出售給長春市金控或其指定子公司。本次進展公告顯示，2026年4月29日公司已披露2025年年度報告，北京德皓國際會計師事務所出具標準無保留意見審計報告，2023及2024年度保留意見所涉事項影響已消除。2026年7月28日公司被法院啟動預重整，本次交易可能中止或終止，尚存在重大不確定性。"
+    },
+    {
+      "id": "5016484",
+      "time": "2026-07-30 17:23:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天邁科技：轉讓新邁研90%股權完成，收到對價43.64萬元】天邁科技公告，公司此前披露擬將全資子公司河南省新邁研汽車檢測有限公司90%股權轉讓給河南智洺企業管理合夥企業（有限合夥）。本次公告顯示，公司已收到全部股權轉讓對價款43.64萬元，標的公司已全額清償應付債務3940.09萬元，工商變更登記手續已辦理完畢，標的公司不再納入公司合併報表範圍。"
+    },
+    {
+      "id": "5016483",
+      "time": "2026-07-30 17:22:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "農業市場訊息人士稱，烏克蘭無人機襲擊了俄羅斯塔曼港的糧食出口碼頭，造成重大損失。"
+    },
+    {
+      "id": "mkt:019fb255-7c79-7aab-8f0b-e643ab830dd6",
+      "time": "2026-07-30 17:22:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Agriculture market sources say Ukrainian drones struck the grain export terminal at Russia's Taman port, causing significant damage."
+    },
+    {
+      "id": "5016482",
+      "time": "2026-07-30 17:22:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西部證券：2026年公司債券（第四期）7月31日起深交所上市】西部證券公告稱，公司2026年面向專業投資者公開發行公司債券（第四期）符合深交所債券上市條件，將於2026年7月31日起上市，面向專業投資者中的機構投資者交易。該債券發行總額15億元，期限2年，票面年利率1.65%，固定利率，按年付息、到期一次還本付息，發行日為2026年7月23 - 24日，起息日為7月24日，到期日為2028年7月24日。"
+    },
+    {
+      "id": "5016481",
+      "time": "2026-07-30 17:22:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【王維東赴廣東等地調研化妝品產業發展與基層監管工作】近日，國家藥監局黨組成員、副局長王維東帶隊赴廣東等地調研。調研組實地走訪了廣東、浙江、天津的有關化妝品生產企業，瞭解了化妝品產業創新、個性化服務試點、文化賦能企業發展、兒童化妝品監管及網路經營監管等情況。王維東指出，化妝品產業是“美麗經濟”的重要組成部分，發展態勢良好、前景廣闊。要深入貫徹落實習近平總書記關於藥品安全“四個最嚴”的要求，持續完善監管機制，壓實企業質量安全主體責任，守牢公眾用妝安全底線。鼓勵本土美妝企業堅持創新驅動，提升質量管理水平，注重行業人才培養，主動開拓國際市場，擦亮國貨美妝品牌名片。"
+    },
     {
       "id": "mkt:019fb254-cc2d-7aab-8f0b-df679b41c957",
       "time": "2026-07-30 17:22:09",
