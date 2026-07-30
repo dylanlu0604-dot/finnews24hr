@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-31 02:51:35",
-  "count": 17890,
+  "updated": "2026-07-31 02:55:25",
+  "count": 17885,
   "items": [
+    {
+      "id": "5017645",
+      "time": "2026-07-31 02:54:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "有目擊者在休達看到西班牙軍用車輛正向摩洛哥邊境行進。"
+    },
+    {
+      "id": "5017644",
+      "time": "2026-07-31 02:52:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "衣索比亞航空集團預計今年其收入增長速度將減半，這是由於伊朗戰爭引發的油價飆升。"
+    },
+    {
+      "id": "5017643",
+      "time": "2026-07-31 02:52:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta報告稱未來支出承諾接近7000億美元】Meta表示，已透過長期和短期協議，承諾了近7000億美元的未來支出，涉及人工智慧資料中心、雲端計算等領域。Meta在週四的一份監管申報檔案中表示，公司擁有3493億美元的不可撤銷合同承諾，主要涉及第三方雲服務協議、伺服器和網路基礎設施。該公司還有3470億美元尚未開始的租賃承諾，尚未反映在資產負債表中。其中僅7月份就新增了680億美元，付款將從2027年和2028年開始。這些成本是在現有活躍租賃之外的，涵蓋資料中心、託管設施及“部分網路基礎設施”。"
+    },
     {
       "id": "mkt:019fb45d-38e4-7aab-8f1b-2db691757972",
       "time": "2026-07-31 02:50:35",
@@ -165097,81 +165122,6 @@
         "觀點"
       ],
       "text": "摩根大通將Raymond James的目標價從175.00美元上調至179.00美元。"
-    },
-    {
-      "id": "5005342",
-      "time": "2026-07-24 02:55:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "提示：特朗普結束講話。"
-    },
-    {
-      "id": "mkt:019f9054-ed49-7aab-8e71-efec90e12e4b",
-      "time": "2026-07-24 02:55:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "US President Trump said if the US does not act against Iran, no one will."
-    },
-    {
-      "id": "mkt:019f9054-5306-7aab-8e71-e7f9a070a85b",
-      "time": "2026-07-24 02:54:33",
-      "tags": [
-        "MKT News",
-        "AMD.O",
-        "Impact bullish",
-        "005930.KS",
-        "000660.KS"
-      ],
-      "text": "【AI rally lifts hedge funds to largest quarterly AUM gain on record】FT reports AI-driven equity gains and investor exits from private equity and credit funds helped push hedge fund AUM up $409 bln last quarter to $5.6 tln, driven largely by strong investment performance. Funds suffered losses in volatile March after the outbreak of war in Iran but have since benefited from a rally led by chip names including Samsung, AMD and SK Hynix. HFR data show investor inflows of $134 bln over the past three quarters, the biggest three-quarter inflow since 2007. TriumCapital co-CEO Shenan Danani said he expects a ‘‘golden era’’ for hedge funds."
-    },
-    {
-      "id": "mkt:019f9054-2c97-7aab-8e71-d83a581c0990",
-      "time": "2026-07-24 02:54:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump says Iran is weaker than four months ago."
-    },
-    {
-      "id": "5005341",
-      "time": "2026-07-24 02:53:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：如果美國不對伊朗採取行動，就沒有任何人會對伊朗採取行動。"
-    },
-    {
-      "id": "5005340",
-      "time": "2026-07-24 02:53:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗今天的實力比四個月前更弱。"
-    },
-    {
-      "id": "5005339",
-      "time": "2026-07-24 02:52:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 多虧委內瑞拉，我們賺了一大筆錢。 這筆錢本就該歸我們。"
-    },
-    {
-      "id": "5005338",
-      "time": "2026-07-24 02:51:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱對伊朗海上封鎖已迫使12艘商船改道】當地時間7月23日，美軍中央司令部表示，自9天前恢復對伊朗的海上封鎖以來，美軍已迫使12艘商業船隻改變航向，並使1艘船失去航行能力，以阻止船隻進出伊朗港口或沿海地區。（央視新聞）"
     }
   ]
 }
