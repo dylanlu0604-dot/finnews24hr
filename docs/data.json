@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-31 02:09:35",
-  "count": 17901,
+  "updated": "2026-07-31 02:13:35",
+  "count": 17902,
   "items": [
+    {
+      "id": "5017621",
+      "time": "2026-07-31 02:12:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：密克羅尼西亞科洛尼亞東北偏北 247 公里處發生 5.9 級地震。"
+    },
+    {
+      "id": "mkt:019fb439-b65b-7aab-8f1a-c03d0f63e0ad",
+      "time": "2026-07-31 02:11:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MILEI signs decree barring entry to foreigners who incite attacks on Argentina or its citizens】President MILEI on the evening of the 29th signed a decree banning entry to foreign nationals who, verbally or in writing, spread hate speech or incite attacks against Argentina, its citizens or national symbols. Identified individuals can be denied entry or deported. The decree exempts political and academic criticism. The Casa Rosada said the measure responds to recent hostile acts targeting Argentina and its citizens."
+    },
+    {
+      "id": "5017620",
+      "time": "2026-07-31 02:11:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局（FCA）將於週五起釋出每日股票交易資料。"
+    },
+    {
+      "id": "mkt:019fb438-fb0e-7aab-8f1a-b8d21155c550",
+      "time": "2026-07-31 02:11:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Senate Republicans block resolution aimed at halting U.S. hostilities with Iran】The Hill reported that despite growing Republican unease about a widening war and its impact on energy prices, Senate Republicans on Thursday blocked a motion to discharge a Senate Foreign Relations Committee measure to the floor that would have required Trump to withdraw U.S. forces from hostilities with Iran without congressional authorization. The motion was defeated 49-50. Thursday's vote was the Senate's 13th on Iran war-powers measures; Republicans had previously blocked 11 attempts to halt the hostilities."
+    },
+    {
+      "id": "mkt:019fb437-8433-7aab-8f1a-b18373d3ed23",
+      "time": "2026-07-31 02:09:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "FDX.O",
+        "Impact bullish"
+      ],
+      "text": "FedEx expands partnership with robotics firm Dexterity to deploy AI robots at its Hagerstown, Maryland sortation center."
+    },
+    {
+      "id": "5017619",
+      "time": "2026-07-31 02:08:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士透露，哈馬斯及其他巴勒斯坦派系已同意加沙相關協議全部條款。"
+    },
     {
       "id": "5017618",
       "time": "2026-07-31 02:08:16",
@@ -165247,60 +165302,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Brent Crude Oil Rallies by 8.09% — Top commodity gainers are Brent Crude Oil (8.09%), Crude Oil WTI (7.41%) and Heating Oil (5.13%). Biggest losers are Germany Natural Gas THE (-0.70%) and Natural Gas UK (-0.67%)."
-    },
-    {
-      "id": "mkt:019f902e-1677-7aab-8e71-6f1ce9cea5ec",
-      "time": "2026-07-24 02:12:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Sources say ECB policymakers will discuss raising reserve requirements, implementing tiered deposit rates and introducing charging mechanisms; political sensitivity around ECB balance-sheet losses is intensifying."
-    },
-    {
-      "id": "5005303",
-      "time": "2026-07-24 02:12:02",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "花旗包括Andrew Gardiner在內的分析師在一份報告中指出：意法半導體（STMicroelectronics NV）業績展望顯示出終端市場正在建立週期性復甦，且AI/資料中心的增長持續加速。但相應的，市場預期和股價今年也已大幅上漲。在缺乏進一步上調盈利預期的動力下，該股短期內可能面臨壓力。"
-    },
-    {
-      "id": "5005302",
-      "time": "2026-07-24 02:10:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "訊息人士稱，歐洲央行政策制定者將就提高存款準備金率、分層存款利率及收費問題展開辯論。"
-    },
-    {
-      "id": "mkt:019f902c-2cf9-7aab-8e71-662befc51967",
-      "time": "2026-07-24 02:10:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【WTI, Brent jump 8% and 6% intraday】Oil prices rallied intraday: WTI surged 8.00% to $93.87/bbl; Brent rose 6.00% to $96.11/bbl."
-    },
-    {
-      "id": "5005301",
-      "time": "2026-07-24 02:09:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西法院啟動調查，核查前巴西總統博索納羅與馬斯特銀行的關聯。"
     }
   ]
 }

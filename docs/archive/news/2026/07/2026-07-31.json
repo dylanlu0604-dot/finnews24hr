@@ -1,7 +1,62 @@
 {
   "date": "2026-07-31",
-  "count": 226,
+  "count": 232,
   "items": [
+    {
+      "id": "5017621",
+      "time": "2026-07-31 02:12:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：密克羅尼西亞科洛尼亞東北偏北 247 公里處發生 5.9 級地震。"
+    },
+    {
+      "id": "mkt:019fb439-b65b-7aab-8f1a-c03d0f63e0ad",
+      "time": "2026-07-31 02:11:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MILEI signs decree barring entry to foreigners who incite attacks on Argentina or its citizens】President MILEI on the evening of the 29th signed a decree banning entry to foreign nationals who, verbally or in writing, spread hate speech or incite attacks against Argentina, its citizens or national symbols. Identified individuals can be denied entry or deported. The decree exempts political and academic criticism. The Casa Rosada said the measure responds to recent hostile acts targeting Argentina and its citizens."
+    },
+    {
+      "id": "5017620",
+      "time": "2026-07-31 02:11:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局（FCA）將於週五起釋出每日股票交易資料。"
+    },
+    {
+      "id": "mkt:019fb438-fb0e-7aab-8f1a-b8d21155c550",
+      "time": "2026-07-31 02:11:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Senate Republicans block resolution aimed at halting U.S. hostilities with Iran】The Hill reported that despite growing Republican unease about a widening war and its impact on energy prices, Senate Republicans on Thursday blocked a motion to discharge a Senate Foreign Relations Committee measure to the floor that would have required Trump to withdraw U.S. forces from hostilities with Iran without congressional authorization. The motion was defeated 49-50. Thursday's vote was the Senate's 13th on Iran war-powers measures; Republicans had previously blocked 11 attempts to halt the hostilities."
+    },
+    {
+      "id": "mkt:019fb437-8433-7aab-8f1a-b18373d3ed23",
+      "time": "2026-07-31 02:09:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "FDX.O",
+        "Impact bullish"
+      ],
+      "text": "FedEx expands partnership with robotics firm Dexterity to deploy AI robots at its Hagerstown, Maryland sortation center."
+    },
+    {
+      "id": "5017619",
+      "time": "2026-07-31 02:08:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士透露，哈馬斯及其他巴勒斯坦派系已同意加沙相關協議全部條款。"
+    },
     {
       "id": "5017618",
       "time": "2026-07-31 02:08:16",
