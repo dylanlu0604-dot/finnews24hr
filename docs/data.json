@@ -1,7 +1,231 @@
 {
-  "updated": "2026-07-30 09:26:43",
-  "count": 17862,
+  "updated": "2026-07-30 09:30:37",
+  "count": 17855,
   "items": [
+    {
+      "id": "mkt:019fb0a4-a4aa-7aab-8efe-5efdb5fdea18",
+      "time": "2026-07-30 09:30:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia June seasonally adjusted building approvals +7.2% MoM; consensus -1.0%, prior -1.1%."
+    },
+    {
+      "id": "mkt:019fb0a4-a374-7aab-8efe-56c86cb549ea",
+      "time": "2026-07-30 09:30:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia June seasonally adjusted private-sector building approvals rose 0.4% MoM, prior +2.8%."
+    },
+    {
+      "id": "mkt:019fb0a4-8cd9-7aab-8efe-4dff465067e6",
+      "time": "2026-07-30 09:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Export Price Index (QoQ) (Q2) | actual 1.1% | previous 0.50%"
+    },
+    {
+      "id": "mkt:019fb0a4-896c-7aab-8efe-466ffaad20ea",
+      "time": "2026-07-30 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Building Approvals SA (MoM) (Jun) | actual 7.2% | consensus -1% | previous -1.10%"
+    },
+    {
+      "id": "mkt:019fb0a4-895e-7aab-8efe-3ed4063d30d1",
+      "time": "2026-07-30 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Private Sector Building Approvals SA (MoM) (Jun) | actual 0.4% | previous 2.8%"
+    },
+    {
+      "id": "mkt:019fb0a4-8921-7aab-8efe-370036905cd7",
+      "time": "2026-07-30 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Import Price Index (QoQ) (Q2) | actual 5.7% | previous 0.10%"
+    },
+    {
+      "id": "mkt:019fb0a4-7344-7aab-8efe-2b09c4453216",
+      "time": "2026-07-30 09:29:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI climbed above 5,800, up 2.44% on the day."
+    },
+    {
+      "id": "5015589",
+      "time": "2026-07-30 09:29:40",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部新聞發言人就美國聯邦通訊委員會將外國電力逆變器和先進機器人裝置列入“覆蓋清單”事答記者問】有記者問：美東時間7月28日，美國聯邦通訊委員會（FCC）宣佈，將外國生產的電力逆變器和先進機器人裝置列入“覆蓋清單”，相關新型號產品將無法獲得FCC認證授權，不得進入美市場銷售。請問商務部對此有何評論？答：我們注意到有關情況。美國聯邦通訊委員會相關措施表面上打著“非歧視”的旗號，實質上歧視性對待和打壓中國企業和產品。這已不是美國聯邦通訊委員會第一次採取類似措施，此前其已多次對其他中國商品實施限制。一段時間以來，美國聯邦通訊委員會無視中方反覆交涉和剋制態度，持續出臺、不斷升級限制措施，嚴重損害中方正當貿易利益，嚴重破壞中美經貿穩定局面，嚴重擾亂全球產業鏈供應鏈穩定，中方對此堅決反對。機器人、電力逆變器均是正常的國際商品，包括美國在內的各方都從貿易中獲益，美方泛化國家安全概念，不顧中美兩國業界強烈呼聲，動用行政力量，人為干擾企業間正常商業交易和貿易往來，持續推進“脫鉤斷鏈”，這種做法損人不利己，是典型的市場扭曲和單邊霸凌行為。中方敦促美方立即撤銷有關措施，停止錯誤做法。如果美方一意孤行，中方將堅決予以反制，維護自身正當權益。"
+    },
+    {
+      "id": "mkt:019fb0a4-24ef-7aab-8efe-2702c2d60d2f",
+      "time": "2026-07-30 09:29:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China retail wallet money-market yield snapshot】Tencent Licaitong Current+ 7-day annualized yield ranged 0.7000%–1.4080% (high 1.4080%, low 0.7000%). WeChat Wallet Lingqiantong 7-day annualized yield ranged 0.9100%–1.0120%. Alipay Yu'ebao 7-day annualized yield ranged 0.9050%–1.0170%."
+    },
+    {
+      "id": "mkt:019fb0a3-b621-7aab-8efe-1a6da9c42afd",
+      "time": "2026-07-30 09:29:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "AI Revolution"
+      ],
+      "text": "【ByteDance launches AI org reshuffle: Feishu, Doubao and Volcano Engine teams to integrate】On July 29 ByteDance launched an AI-focused organizational restructuring. Feishu and Doubao product teams will be merged into a new Doubao product team led by Doubao head Zhao Qi; Feishu head Xie Xin will report to Zhao. Feishu’s GTM (marketing, sales, customer service) team will integrate with Volcano Engine to form a new ToB GTM organization, Creativity Service Platform, responsible for ByteDance’s MaaS and SaaS cloud services and led by Volcano Engine head Tan Dai; Feishu sales head Lin Chan and Feishu strategy and marketing head Shi Zhijun will report to Tan."
+    },
+    {
+      "id": "5015588",
+      "time": "2026-07-30 09:28:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：下半年手機出貨量將下滑。"
+    },
+    {
+      "id": "5015587",
+      "time": "2026-07-30 09:28:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【氦星光聯打破商業航天鐳射通訊領域穩鏈時長紀錄】在“三體計算星座”鐳射通訊在軌測試中，氦星光聯團隊成功突破低成本鐳射通訊載荷長時穩定建鏈技術。“三體計算星座”首發星座高鏈鐳射鏈“05-08鏈”，基於1000km星距完成寬頻星間鐳射通訊驗證，實測高速業務資料可靠傳輸，達成鐳射鏈路長效穩定建鏈。單次長時穩鏈時長超192小時，斷鏈計數為0，通訊鏈路可用度達99.99%以上，創下商業航天鐳射通訊領域穩鏈時長新紀錄。"
+    },
+    {
+      "id": "mkt:019fb0a3-081d-7aab-8efe-150ab02c7ecf",
+      "time": "2026-07-30 09:28:22",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact mixed"
+      ],
+      "text": "Samsung Electronics said smartphone sales rose in Q2 versus Q1, but smartphone shipments are expected to decline in H2."
+    },
+    {
+      "id": "5015586",
+      "time": "2026-07-30 09:28:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "紫金黃金上漲2.6%，此前終止收購加拿大ALLIED GOLD的交易。"
+    },
+    {
+      "id": "mkt:019fb0a2-9bf6-7aab-8efe-0db0e0ceb070",
+      "time": "2026-07-30 09:27:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A-share debut: N Xinxing opened up 197.8% on its first day, trading at 100.00 yuan; IPO price was 33.58 yuan."
+    },
+    {
+      "id": "5015585",
+      "time": "2026-07-30 09:27:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股新股N欣興上市首日開盤漲197.8%，現報100元，該股發行價為33.58元。"
+    },
+    {
+      "id": "5015584",
+      "time": "2026-07-30 09:27:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【位元組跳動啟動AI業務組織調整：飛書與豆包火山團隊整合】7月29日，位元組跳動啟動面向 AI 業務的組織調整。飛書產品團隊與豆包產品團隊將整合，成立新的豆包產品團隊，由豆包負責人趙祺負責，飛書負責人謝欣向趙祺彙報。GTM （市場、銷售、客戶服務）體系方面，飛書GTM團隊將與火山引擎團隊整合，成立新的 ToB GTM 組織“創造力服務平臺（Creativity Service Platform）”，整體負責位元組 MaaS和SaaS等雲服務的市場、銷售和客戶服務，由火山引擎負責人譚待負責，飛書銷售負責人林嬋、飛書戰略及市場負責人史志雋向譚待彙報。"
+    },
+    {
+      "id": "5015583",
+      "time": "2026-07-30 09:27:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甘肅釋出地質災害氣象風險紅色預警】甘肅省自然資源廳、省氣象局7月30日8時30分發布地質災害氣象風險預警：預計未來24小時內（7月30日8時50分至7月31日8時50分），隴南市（武都區、成縣、文縣、康縣）發生崩塌、滑坡、泥石流等地質災害的風險很高（紅色預警）。甘南藏族自治州（舟曲縣），隴南市（宕昌縣、西和縣、禮縣、徽縣、兩當縣），天水市（秦州區、麥積區）發生崩塌、滑坡、泥石流等地質災害的風險高（橙色預警）。慶陽市（西峰區、慶城縣、環縣、華池縣、合水縣、正寧縣、寧縣、鎮原縣），定西市（通渭縣、隴西縣、漳縣、岷縣），天水市（清水縣、秦安縣、甘谷縣、武山縣、張家川回族自治縣），平涼市（崆峒區、涇川縣、靈臺縣、崇信縣、莊浪縣、靜寧縣、華亭市）發生崩塌、滑坡、泥石流等地質災害的風險較高（黃色預警），請注意防範。"
+    },
+    {
+      "id": "mkt:019fb0a2-1726-7aab-8efe-00a50a0c1202",
+      "time": "2026-07-30 09:27:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "China's Shanghai Composite Index opened down 16.36 points (-0.43%) at 3,812.11; Shenzhen Composite Index opened down 127.37 points (-0.93%) at 13,531.07; CSI 300 Index opened down 34.22 points (-0.74%) at 4,566.05; China ChiNext Index opened down 47.38 points (-1.40%) at 3,331.32; China STAR 50 Index opened down 25.27 points (-1.51%) at 1,653.47."
+    },
+    {
+      "id": "mkt:019fb0a1-ff20-7aab-8efd-ffb7cfdcd0d2",
+      "time": "2026-07-30 09:27:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS said US forces struck Iran's southwestern Fars province and Kish Island in the Gulf. Two loud blasts were heard on Kish after the missile attack; the report said the island's airport and passenger ferry services were not affected."
+    },
+    {
+      "id": "5015582",
+      "time": "2026-07-30 09:26:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星SDS第二季營業利潤為2,318億韓元，同比增長0.7%。"
+    },
+    {
+      "id": "5015581",
+      "time": "2026-07-30 09:26:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗西南部城市阿瓦士發生爆炸。"
+    },
+    {
+      "id": "mkt:019fb0a1-2074-7aab-8efd-f31716ded640",
+      "time": "2026-07-30 09:26:17",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "Samsung Electronics said its display unit aims to remain profitable in H2."
+    },
+    {
+      "id": "5015580",
+      "time": "2026-07-30 09:26:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：顯示業務目標在下半年維持盈利。"
+    },
     {
       "id": "5015579",
       "time": "2026-07-30 09:25:59",
@@ -164489,296 +164713,6 @@
         "Impact bullish"
       ],
       "text": "WTI crude hit $89/bbl, up 2.43% intraday."
-    },
-    {
-      "id": "5003358",
-      "time": "2026-07-23 09:30:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞6月份就業人數增加76,300人；預估15,000。"
-    },
-    {
-      "id": "mkt:019f8c98-5771-7aab-8e56-948bf2bcec3a",
-      "time": "2026-07-23 09:30:21",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "Australia June part-time employment rose by 47,000, compared with +35,200 previously."
-    },
-    {
-      "id": "5003357",
-      "time": "2026-07-23 09:30:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞6月季調後失業率 4.4%，預期4.40%，前值4.40%。"
-    },
-    {
-      "id": "5003356",
-      "time": "2026-07-23 09:30:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲4%，現報572.40元。"
-    },
-    {
-      "id": "5003355",
-      "time": "2026-07-23 09:30:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【燃氣輪機概念走強 傑瑞股份一字漲停】早盤燃氣輪機概念大幅高開，傑瑞股份一字漲停，應流股份、聯德股份、萬澤股份、克萊特、崇德科技跟漲。"
-    },
-    {
-      "id": "mkt:019f8c98-3c5c-7aab-8e56-8ee363ba5daf",
-      "time": "2026-07-23 09:30:14",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Australia June employment change +76.3k, vs +15.0k expected; previous +40.3k."
-    },
-    {
-      "id": "mkt:019f8c98-3c04-7aab-8e56-8706b837d6fe",
-      "time": "2026-07-23 09:30:14",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Part-Time Employment (Jun) | actual 47000K | previous 35200K"
-    },
-    {
-      "id": "5003354",
-      "time": "2026-07-23 09:30:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲2%，現報88.58美元/桶。"
-    },
-    {
-      "id": "mkt:019f8c98-2514-7aab-8e56-7b10d781b985",
-      "time": "2026-07-23 09:30:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "AUDUSD",
-        "Impact bullish"
-      ],
-      "text": "Australia June full-time employment +29.3k, prior +5.2k."
-    },
-    {
-      "id": "mkt:019f8c98-2232-7aab-8e56-70af1b9a535c",
-      "time": "2026-07-23 09:30:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia June seasonally adjusted labour force participation rate 67.0% vs expected 66.7% and prior 66.7%."
-    },
-    {
-      "id": "mkt:019f8c98-21df-7aab-8e56-6bf18b8a8413",
-      "time": "2026-07-23 09:30:08",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Australia June seasonally adjusted unemployment rate 4.4% (consensus 4.4%, prior 4.4%)."
-    },
-    {
-      "id": "5003353",
-      "time": "2026-07-23 09:30:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲1.05%，現報3604.214點；上證指數漲0.04%，現報3868.560點；深證成指漲0.45%，現報14124.936點。"
-    },
-    {
-      "id": "5003352",
-      "time": "2026-07-23 09:30:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內漲1%，現報7100.00點。"
-    },
-    {
-      "id": "5003351",
-      "time": "2026-07-23 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.89%， 滬深300指數期貨連續漲0.48%， 中證500指數期貨連續漲0.54%， 上證50指數期貨連續漲0.52%。"
-    },
-    {
-      "id": "5003350",
-      "time": "2026-07-23 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.28%， 10年期主力合約漲0.09%， 5年期主力合約漲0.06%， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "mkt:019f8c98-05e8-7aab-8e56-627d5cd96926",
-      "time": "2026-07-23 09:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Employment (Jun) | actual 76300K | consensus 15000K | previous 40300K"
-    },
-    {
-      "id": "mkt:019f8c98-05d6-7aab-8e56-4d4fcc30b492",
-      "time": "2026-07-23 09:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Labour Force Participation Rate SA (Jun) | actual 67% | consensus 66.70% | previous 66.70%"
-    },
-    {
-      "id": "mkt:019f8c98-05e7-7aab-8e56-5ae0c717e936",
-      "time": "2026-07-23 09:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Full-Time Employment (Jun) | actual 29300K | previous 5200K"
-    },
-    {
-      "id": "mkt:019f8c98-05d7-7aab-8e56-578b96035dfd",
-      "time": "2026-07-23 09:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Unemployment Rate SA (Jun) | actual 4.4% | consensus 4.40% | previous 4.40%"
-    },
-    {
-      "id": "mkt:019f8c97-e8f4-7aab-8e56-4364a0c83f86",
-      "time": "2026-07-23 09:29:53",
-      "tags": [
-        "MKT News",
-        "07709.HK",
-        "Impact bullish",
-        "07747.HK"
-      ],
-      "text": "Southern 2x long SK Hynix (07709.HK) rose over 10%; Southern 2x long Samsung Electronics (07747.HK) rose over 8%."
-    },
-    {
-      "id": "5003349",
-      "time": "2026-07-23 09:29:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "南方兩倍做多海力士(07709.HK)漲超10%，南方兩倍做多三星電子(07747.HK)漲超8%。"
-    },
-    {
-      "id": "5003348",
-      "time": "2026-07-23 09:29:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深南電A、山東高速成立智慧能源新公司】企查查APP顯示，近日，深南電山高智慧能源（深圳）有限公司成立，經營範圍包含儲能技術服務；新興能源技術研發；合同能源管理；節能管理服務等。企查查股權穿透顯示，該公司由深南電A(000037)、山東高速(600350)旗下山東高速（深圳）投資有限公司共同持股。"
-    },
-    {
-      "id": "5003347",
-      "time": "2026-07-23 09:29:44",
-      "tags": [
-        "公司",
-        "觀點",
-        "原創"
-      ],
-      "text": "【花旗：騰訊股價下跌過度 遊戲業務依然穩健】花旗集團稱，騰訊股價週三下跌創造出更佳買點，市場對其第二季度遊戲收入放緩的擔憂過頭了。Alicia Yap等花旗分析師在報告中寫道，Sensor Tower資料顯示該公司第二季度的遊戲收入可能有所下降，但這並不能反映全貌，因為安卓使用者的消費行為可能有所不同。就算騰訊公佈的二季度遊戲收入令人失望，但得益於全球化不斷增強和遊戲產品組合多元化，這一波動也應該不會影響該公司遊戲業務的基礎實力。花旗預計騰訊第二季度國內遊戲收入環比下降3.9%，但同比增長8%。"
-    },
-    {
-      "id": "mkt:019f8c97-575a-7aab-8e56-39086a9d67d8",
-      "time": "2026-07-23 09:29:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jereh shares hit the daily trading limit in the opening auction after a subsidiary signed a supply contract worth about 9.95 billion yuan to deliver gas-turbine power-generation units."
-    },
-    {
-      "id": "5003346",
-      "time": "2026-07-23 09:29:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英偉達開源首個GPU加速醫療物理模擬框架】英偉達當地時間7月22日宣佈，正式開源其首個基於GPU加速的醫療物理模擬框架。該框架隸屬於英偉達Isaac for Healthcare醫療平臺，旨在幫助醫療機器人開發團隊透過高度逼真的虛擬模擬環境，模擬人體解剖結構與醫療器械的複雜物理互動，大幅提升醫療機器人的訓練、測試與研發效率。"
-    },
-    {
-      "id": "5003345",
-      "time": "2026-07-23 09:28:53",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【2025年度中央部門決算集中向社會公開】今天（23日），包括財政部、國家發展改革委、教育部等在內的中央部門將依法依規集中向社會公開2025年度決算，這是中央部門決算連續第16年公開。部門決算，是預算執行的最終結果報告，包括決算公開表、決算說明等。"
-    },
-    {
-      "id": "5003344",
-      "time": "2026-07-23 09:27:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東方鋯業鋯基新材料研發中心及中試基地專案開工建設】據東方鋯業訊息，7月22日上午，東方鋯業鋯基新材料研發中心及中試基地專案開工儀式在汕頭市澄海區東里鎮專案現場舉行。此次開工的研發中心及中試基地專案，總投資約1.5億元，總建築面積約2.1萬平方米，將建設高標準研發大樓、科技人才公寓及配套公用地下人防工程，打造集基礎研究、技術攻關、中試驗證、成果轉化、人才集聚於一體的全鏈條創新平臺。"
-    },
-    {
-      "id": "5003343",
-      "time": "2026-07-23 09:27:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4140美元/盎司，日內漲0.26%。"
-    },
-    {
-      "id": "mkt:019f8c95-b3aa-7aab-8e56-35fbdbb0b98a",
-      "time": "2026-07-23 09:27:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "CSI300",
-        "SZSE Component"
-      ],
-      "text": "China's Shanghai Composite Index opened up 1.05 points (0.03%) at 3,868.09 on Thursday, July 23. Shenzhen Composite Index opened up 54.59 points (0.39%) at 14,116.02. CSI 300 Index opened up 17.93 points (0.38%) at 4,735.17. ChiNext Index opened up 30.00 points (0.84%) at 3,596.73. China STAR 50 Index opened up 16.53 points (0.89%) at 1,876.61."
-    },
-    {
-      "id": "5003342",
-      "time": "2026-07-23 09:27:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩部門：加速鈣鈦礦疊層電池等高效光伏電池製備及產業化生產技術研究，研究面向太空的太陽能發電技術】國家發展改革委、國家能源局印發《可再生能源發展“十五五”規劃》，其中提出，加強可再生能源先進材料、核心元器件（零部件）、關鍵裝置及控制系統研發。研製變速、超高水頭、超高抽發比抽水蓄能機組和千米水頭段巨型衝擊式水電機組等裝備。開展高效可靠風力發電裝備技術研究，突破高可靠低成本葉片、超高塔架、新型漂浮式基礎等關鍵裝置製造技術，探索研究高空風電等新型風能利用技術。加速鈣鈦礦疊層電池等高效光伏電池製備及產業化生產技術研究，研究面向太空的太陽能發電技術，推進關鍵技術驗證。加強綠色氫氨醇柔性離網製取等關鍵技術研發與應用。加強生物質能、光熱發電、地熱能、海洋能等領域前沿技術研發，發展環境熱能等新型可再生能源。"
-    },
-    {
-      "id": "mkt:019f8c95-84e9-7aab-8e56-289830ac2527",
-      "time": "2026-07-23 09:27:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share MLCC sector rebounded; Fenghua Hi‑Tech rose over 6%, Sanhuan Group gained over 4%. Boqian New Materials, Guoci Materials, Kaisheng Technology, Jiemei Technology and Rongqi Technology also advanced."
     }
   ]
 }
