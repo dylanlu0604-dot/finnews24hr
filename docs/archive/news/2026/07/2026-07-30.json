@@ -1,7 +1,127 @@
 {
   "date": "2026-07-30",
-  "count": 3967,
+  "count": 3980,
   "items": [
+    {
+      "id": "5017434",
+      "time": "2026-07-30 23:38:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭敖德薩：敵方多組攻擊型無人機正飛往阿爾齊茲、謝爾希伊夫卡、塔爾塔布納雷與喬爾諾莫爾斯克。"
+    },
+    {
+      "id": "te:markets:571307",
+      "time": "2026-07-30 23:38:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Eases After Thursday Rally — Crude oil traded around $84 per barrel on Thursday after surging 6.6% in the previous session, as markets balanced renewed geopolitical tensions against signs that oil flows through the Strait of Hormuz were improving. According to Kpler, 14 commodity vessels transited Hormuz in both directions on Wednesday, up from single-digit levels seen last week. Meanwhile, ample crude inventories in China continued to limit import demand, easing some supply concerns. Still, US forces struck dozens of Iranian military targets in an effort to curb Tehran’s ability to threaten regional shipping and US allies. Also, the East-West pipeline to bypass Hormuz that Saudi Arabia has increasingly relied on now faces risks from Iran-backed Houthis. On top of that, the Caspian Pipeline Consortium suspended oil loadings at its Black Sea terminal after two tankers associated with the facility were attacked overnight."
+    },
+    {
+      "id": "5017433",
+      "time": "2026-07-30 23:37:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲主要股指普漲】德國DAX30指數漲0.65%；英國富時100指數跌0.11%；法國CAC40指數漲0.92%；歐洲斯托克50指數漲1.54%；西班牙IBEX35指數漲1.84%；義大利富時MIB指數漲1.24%。"
+    },
+    {
+      "id": "mkt:019fb3ac-2d16-7aab-8f18-30fb68fa54af",
+      "time": "2026-07-30 23:37:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Hungary's prime minister said energy consumption during peak hours (17:00-22:00) may increase by about 20%."
+    },
+    {
+      "id": "mkt:019fb3ab-ff40-7aab-8f18-2b028ba6ff00",
+      "time": "2026-07-30 23:37:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "July 30 (Thu) — Germany's DAX 30 closed up 164.94 points (+0.65%) at 25,613.70; UK FTSE 100 closed down 11.52 points (-0.11%) at 10,896.89; France's CAC 40 closed up 77.37 points (+0.92%) at 8,485.64; Euro Stoxx 50 closed up 96.51 points (+1.54%) at 6,345.35; Spain's IBEX 35 closed up 357.73 points (+1.84%) at 19,748.03; Italy's FTSE MIB closed up 637.89 points (+1.24%) at 52,081.00."
+    },
+    {
+      "id": "5017432",
+      "time": "2026-07-30 23:36:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "明晟公司MSCI北歐國家指數漲0.6%，報397.67點，創7月3日以來收盤新高。在十個板塊中，北歐工業板塊漲幅最大。維斯塔斯風力技術集團漲6.6%，在一眾北歐個股裡領跑。"
+    },
+    {
+      "id": "5017431",
+      "time": "2026-07-30 23:36:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理：受熱浪影響，匈牙利用電高峰時段（下午5點至晚上10點）的能源消耗可能上升20%。"
+    },
+    {
+      "id": "mkt:019fb3ab-c80e-7aab-8f18-21e7b14d0fcc",
+      "time": "2026-07-30 23:36:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's prime minister said that due to an outage at the Paks nuclear plant and a heatwave, the country's energy supply could enter a 'critical' state from Monday; he will ask large consumers, including battery makers and automakers, to voluntarily cut electricity use between 17:00 and 22:00."
+    },
+    {
+      "id": "5017430",
+      "time": "2026-07-30 23:36:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "龐巴迪執行長表示，部分飛機專案的發動機供應狀況已大幅改善，但其餘發動機仍“存在一定缺口需要補上”。"
+    },
+    {
+      "id": "5017429",
+      "time": "2026-07-30 23:36:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "龐巴迪執行長預計將於2026年末或2027年初就加拿大廠區改造私人飛機用於特殊任務用途一事作出決定。"
+    },
+    {
+      "id": "mkt:019fb3aa-8805-7aab-8f18-1f66db4488f4",
+      "time": "2026-07-30 23:35:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【CENTCOM rebuts three IRGC claims on Strait threat, F‑35 shootdowns and tanker breach】US CENTCOM said Iranian state media have circulated three false claims from the Islamic Revolutionary Guard Corps. First, CENTCOM rejected the IRGC assertion that freedom of navigation in the Strait of Hormuz is inherently dangerous, saying the primary threat to commercial vessels and civilian crews comes from IRGC threats and attempted attacks on ships. Second, CENTCOM said recent Iranian strikes did not destroy or damage any US aircraft — all missiles and drones were intercepted or failed to reach their targets — countering IRGC claims it shot down three US F‑35s and three other aircraft. Third, CENTCOM said the commercial tanker M/T Nora did not breach the US blockade; more than 20 US warships, hundreds of aircraft and thousands of personnel remain on high alert and continue to enforce the blockade."
+    },
+    {
+      "id": "5017428",
+      "time": "2026-07-30 23:35:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理稱，匈牙利將要求包括電池製造商和汽車製造商在內的大型用電大戶，在下午5點至晚上10點之間自願削減用電量。"
+    },
+    {
+      "id": "5017427",
+      "time": "2026-07-30 23:35:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米汽車：小米汽車澎程系列沒有所謂的F 碼】小米汽車在《小米汽車答網友問（第264集）》中表示，小米汽車澎程系列沒有所謂的F 碼，也不容許任何所謂“內部工作人員”進行違規操作。如果有人自稱所謂“內部人士”，請將其身份資訊告知我們，我們將徹查到底。 所有使用者想要定購小米汽車，正規渠道是小米汽車APP 官方通道，規則統一、訂單排序公開透明，不存在區別對待的優先名額。 小米澎程的實車將陸續進駐全國小米汽車門店，如果想要近距離了解車輛，大家可透過小米汽車APP 查詢就近門店，預約到店品鑑。"
+    },
     {
       "id": "5017426",
       "time": "2026-07-30 23:34:18",
