@@ -1,7 +1,88 @@
 {
-  "updated": "2026-07-30 12:16:58",
-  "count": 17897,
+  "updated": "2026-07-30 12:21:01",
+  "count": 17900,
   "items": [
+    {
+      "id": "5015845",
+      "time": "2026-07-30 12:20:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星SDI：第二季度營業利潤為2040億韓元，由虧轉盈。"
+    },
+    {
+      "id": "mkt:019fb13f-ff03-7aab-8f02-98ae4ac5bef6",
+      "time": "2026-07-30 12:19:48",
+      "tags": [
+        "MKT News",
+        "006400.KS",
+        "Impact bullish"
+      ],
+      "text": "Samsung SDI reported Q2 operating profit of 204 billion won, returning to profitability."
+    },
+    {
+      "id": "5015844",
+      "time": "2026-07-30 12:19:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【晶泰科技釋出XtalPi Science，併發起“科學智慧開放生態聯盟”】7月30日訊息，介面新聞獲悉，晶泰科技釋出 XtalPi Science 科學智慧平臺與 Genius Agents 科學智慧體矩陣，並聯合 26 家產業、高校及科研生態夥伴，共同發起成立 “科學智慧開放生態聯盟”。聯盟將依託 XtalPi Science，為成員提供平臺與自動化實驗資源的呼叫、模型與工具接入、聯合開發及私有化部署等多元合作模式，共同推動模型、資料、工具與實驗能力之間高效協同。"
+    },
+    {
+      "id": "te:markets:571002",
+      "time": "2026-07-30 12:19:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Rises After Fed Keeps Rates Steady — Copper futures climbed to around $6.33 per pound on Thursday, recovering from the previous session’s losses as investors welcomed the Federal Reserve’s decision to leave interest rates unchanged, easing concerns about the demand outlook for industrial metals. However, three FOMC members dissented in favor of a rate hike, while Chair Kevin Warsh stressed that the decision to keep rates steady should not be viewed as a sign of policy inertia. Meanwhile, investors looked ahead to updates from the Politburo meeting in top consumer China, where policymakers are widely expected to refrain from announcing major new stimulus measures and instead focus on implementing existing fiscal policies to support the slowing economy. Elsewhere, the red metal continued to draw support from its favorable long-term demand outlook, driven by the global shift toward clean energy and the rapid expansion of artificial intelligence data centers."
+    },
+    {
+      "id": "5015843",
+      "time": "2026-07-30 12:18:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓出口創歷史新高 美國仍是其最大市場】受強勁的電子產品需求和比索疲軟影響，菲律賓6月份出口額創下歷史新高。6月出口同比增長24.1%，達到87.7億美元，創歷史新高。增速為一年多以來最快，並超過媒體調查得出的8%預測中值。菲律賓統計局週四表示，6月電子產品出口額增長三分之一，達到52.5億美元，佔出口總額近60%。美國仍是菲律賓產品最大市場，佔比五分之一。"
+    },
+    {
+      "id": "te:markets:571000",
+      "time": "2026-07-30 12:18:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Hits Over 5-Month High — The South Korean won strengthened to around 1,441 per dollar in late July, extending gains to its strongest level since late February, as increased dollar supply from exporters and corporate currency conversions supported the currency. SK hynix's repatriation of proceeds from its US listing, along with month-end exporter settlements, helped offset dollar demand from foreign investors selling South Korean equities during the recent stock market rout. The won also benefited from improving export sentiment, with record semiconductor earnings and sustained AI-related memory demand reinforcing expectations for continued strength in South Korea's key export sector and sustained foreign currency inflows. Separately, the Federal Reserve's decision to keep interest rates unchanged eased concerns over a near-term rate hike, weakening the dollar and reducing pressure on the won. Meanwhile, renewed US-Iran tensions and potential oil price volatility remained risks for the currency."
+    },
+    {
+      "id": "5015842",
+      "time": "2026-07-30 12:18:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國家用電器協會清潔電器專委會倡議：抵制虛假評測】7月28日，中國家用電器協會清潔電器專委會發布《中國清潔電器行業規範經營、堅守誠信、抵制虛假測評聯合倡議書》。倡議書提出，全行業要堅決貫徹落實國家網際網路資訊辦公室、國家市場監督管理總局聯合印發的《網路測評活動規範》，嚴格遵守法律法規，嚴守合規底線。全面檢查產品測評、直播帶貨、內容種草、產品宣傳、使用者評測等傳播環節，堅決杜絕虛假測評、誇大宣傳、打壓競品等行為。同時，對產業鏈內各類虛假測評、惡意營銷、影響行業和產品口碑的違規行為零容忍，自覺抵制。"
+    },
+    {
+      "id": "mkt:019fb13e-71c4-7aab-8f02-92d8787235c2",
+      "time": "2026-07-30 12:18:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HSBC kept its Hong Kong dollar prime lending rate at 5.00%."
+    },
+    {
+      "id": "5015841",
+      "time": "2026-07-30 12:17:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構上調微軟目標價 微軟財季利潤激增31% Azure雲業務財年收入首破千億美元大關】派珀·桑德勒將微軟目標股價從540美元上調至550美元。此前微軟公佈了強勁的雲業務增長，其付費AI使用者數量也有所提升。在截至6月份的財季，微軟收入增長18%，達到900億美元。淨利潤增長31%，至358億美元。在截至6月的2026財年，其Azure雲業務收入首次突破1,000億美元大關。"
+    },
     {
       "id": "5015838",
       "time": "2026-07-30 12:11:51",
@@ -164991,58 +165072,6 @@
         "其他"
       ],
       "text": "一圖讀懂六張網之水網。（新華社）"
-    },
-    {
-      "id": "mkt:019f8d34-36d3-7aab-8e59-7282fb077197",
-      "time": "2026-07-23 12:20:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Brazil to diversify trading partners, unveils BRL18.5 bln credit plan to offset US tariffs】President Lula on the 22nd said Brazil will diversify trading partners to mitigate the impact of US tariffs and disruptions from Middle East tensions, and will launch a BRL 18.5 bln (about USD 3.7 bln) credit support package. The program targets industries and exporters hit by the tariffs and regional instability, including steel, aluminium, autos, wood, machinery, fertiliser and pharmaceutical sectors and other strategic industries. Lula also signed legislation adding BRL 15 bln (about USD 3.0 bln) to a previously established credit facility aimed at addressing the fallout from last year’s first round of US tariffs."
-    },
-    {
-      "id": "te:markets:569102",
-      "time": "2026-07-23 12:19:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Hits One-Month High on Oil Rally, Supply Risks — Malaysian palm oil futures surged around 1.8% to slightly above MYR 4,700 per tonne, extending recent gains to a one-month peak, as strength in rival edible oils on Dalian and Chicago exchanges boosted sentiment, along with surging crude oil prices amid persistent Middle East tensions. The biodiesel feedstock outlook improved further with higher blending mandates in Indonesia and Malaysia curbing export availability. Demand prospects in top consumer India also brightened after industry officials projected higher edible oil imports between July and October, as tighter domestic supplies ahead of festive demand are expected to boost purchases of palm oil. Weather risks added support after Malaysia’s meteorological agency warned record-high temperatures could affect output next year. Meanwhile, export data from cargo surveyors for July 1–20 were mixed, with AmSpec Agri Malaysia reporting shipments down 0.9% from June, while Intertek Testing Services estimated a 4.1% increase."
-    },
-    {
-      "id": "5003573",
-      "time": "2026-07-23 12:18:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【梁文鋒：AGI才是我們的劇本，C端B端只是副產品，卻實現了降維打擊】今日，一場DeepSeek投資者交流會內容流出，梁文鋒就公司戰略、AGI願景與商業化路徑發表核心觀點，引發行業熱議。 分享中，梁文鋒首先明確了公司的長期目標——我們的長期目標就是做AGI。但回到現實，去年大家都要做Chatbot、搶C端流量；今年大家又都要搶To B收入，生怕不在牌桌上。在梁文鋒看來，這些都不是重要的事情。 他指出，在DeepSeek內部，公司真正關心的是AGI的路線圖，以及下一步技術怎麼突破。 他坦言一個有趣的悖論：“最想得到的東西，反而得不到；那些不太在意的事情，反而很容易得到。”這正是DeepSeek的戰略優勢——“心裡想著AGI，做著AGI，再做C端、B端的時候，根本不用太多心思，花很少精力就能做好。站在技術高位來做相對低階別的技術，這就是降維打擊。”（新浪科技）"
-    },
-    {
-      "id": "5003572",
-      "time": "2026-07-23 12:17:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴西宣佈將拓展貿易伙伴應對美關稅衝擊】巴西總統盧拉22日宣佈，巴西將拓展貿易伙伴以應對美國關稅影響，並憑藉自身信譽和國際市場地位為本國經濟找到新出路。 盧拉表示，巴西政府將推出總額185億雷亞爾（約合37億美元）的信貸支援計劃，以減輕美國對巴西產品加徵關稅和中東局勢對巴西出口帶來的衝擊。 據介紹，此次信貸支援計劃主要扶持受美國加徵關稅影響的鋼鐵、鋁、汽車、木材、機械等行業，以及化肥、製藥等戰略性工業領域和受中東局勢影響的出口商。 同日，盧拉簽署法案，為一項此前設立的信貸支援計劃追加150億雷亞爾（約合30億美元）信貸額度。該計劃旨在應對去年美國首輪加徵關稅對巴西經濟造成的衝擊。 美國貿易代表辦公室15日釋出宣告，宣佈依據《1974年貿易法》第301條款，對部分巴西產品加徵25%的關稅。加徵關稅措施從7月22日開始生效，涉及數千種巴西產品。(新華社)"
-    },
-    {
-      "id": "5003571",
-      "time": "2026-07-23 12:17:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【聯訊儀器據悉考慮香港上市】知情人士稱，聯訊儀器考慮在香港上市。該公司自4月在上海科創板上市以來，股價已飆升約22倍。據媒體援引因涉及未公開資訊而不願具名的知情人士稱，這家總部位於蘇州的半導體測試儀器製造商已與潛在顧問討論赴港上市計劃。聯訊儀器此前在上海IPO融資約21億元人民幣，上市後股價一路上漲，市值接近290億美元。知情人士稱，相關討論仍處於初步階段，尚未作出最終決定。"
-    },
-    {
-      "id": "5003570",
-      "time": "2026-07-23 12:17:08",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將德州儀器目標價從280美元上調至340美元。"
     }
   ]
 }
