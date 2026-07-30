@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-31 04:39:13",
-  "count": 17887,
+  "updated": "2026-07-31 04:43:14",
+  "count": 17889,
   "items": [
+    {
+      "id": "5017703",
+      "time": "2026-07-31 04:42:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨式烤肉（CMG）收漲13%，創2023年以來最大單日漲幅。"
+    },
+    {
+      "id": "mkt:019fb4c3-8096-7aab-8f1c-89952fe987e9",
+      "time": "2026-07-31 04:42:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UEFA and 55 members vote to boycott all FIFA competitions】On July 30, UEFA and its 55 member associations voted to boycott all FIFA competitions unless FIFA withdraws proposals to transfer ownership and commercial rights of the World Cup and other FIFA tournaments to private investors and provides binding guarantees to keep governance and events out of private capital. UEFA said it rejects FIFA president Gianni Infantino’s plan to form a $20bn subsidiary to run the World Cup and other tournaments and sell minority stakes to private investors. CONCACAF and its 41 member associations also rejected the proposal to sell World Cup equity but did not announce a boycott."
+    },
+    {
+      "id": "te:markets:571346",
+      "time": "2026-07-31 04:42:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Corteva earnings above expectations at 2.30 USD — Corteva (CTVA) released earnings per share at 2.30 USD, compared to market expectations of 2.22 USD."
+    },
+    {
+      "id": "5017702",
+      "time": "2026-07-31 04:41:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中北美加勒比足聯拒絕世界盃私有化】當地時間7月30日，中北美洲及加勒比海足聯及其41個會員協會否決了國際足聯“出售世界盃股權”的提案，但未效仿歐足聯宣佈抵制所有國際足聯賽事。 中北美洲及加勒比海足聯表示，其會員對該提案“缺乏正當程式、截止日期倉促，且未經國際足聯相關治理機構審議或批准”，表達了“深切擔憂”。 國際足聯主席因凡蒂諾計劃成立一家價值200億美元的子公司來運營世界盃及其他賽事，並向私人投資者出售少數股權。目前歐足聯已公開反對，並宣佈抵制所有國際足聯賽事。亞足聯也向其下轄的47個會員協會發出了一封措辭激烈的信函，警告稱“若得不到六大洲際足協聯盟的一致支援，該提案絕無成功可能”。（CCTV國際時訊 ）"
+    },
     {
       "id": "mkt:019fb4c0-324c-7aab-8f1c-8460000faffb",
       "time": "2026-07-31 04:38:42",
@@ -165157,23 +165193,6 @@
         "DXY"
       ],
       "text": "【Napatha price surge turns Japan into net petrochemical importer】Iran war-related disruption to crude-derived napatha supply has driven a sharp rise in Japan's imports of basic petrochemical feedstocks for plastics, with buyers shifting to lower-cost sources in China and South Korea, Nikkei reports. Trade data show ethylene imports from March–May were 14x YoY, butadiene imports more than doubled, and benzene imports rose over 28x. Exports have fallen; ethylene exports in May were near zero. Per the Japan Petrochemical Industry Association, April ethylene imports exceeded exports by 19,000 tonnes and May by 15,000 tonnes — the first monthly net ethylene import since comparable data began in 2000."
-    },
-    {
-      "id": "5005394",
-      "time": "2026-07-24 04:40:48",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛推出 AI 高風險垃圾債交易渠道，單筆交易規模可達 2.5 億美元。"
-    },
-    {
-      "id": "5005393",
-      "time": "2026-07-24 04:40:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【英特爾營收展望超預期 資料中心支出激增提供支撐】英特爾對當前季度給出意外強勁的營收預測，表明資料中心支出的激增正在助力推動這家晶片製造商期待已久的復甦。該公司週四在宣告中表示，第三季度營收預計為158億至168億美元。即使預測區間下限，也明顯高於分析師平均預計的151億美元。這一業績展望凸顯了英特爾在資料中心客戶群體中取得的進展，這些客戶正迫切尋求晶片以滿足人工智慧算力需求。該領域的營收在上一季度飆升59%，為英特爾整體營收增速的逾兩倍。業績公佈後，英特爾股價盤後上漲約10%。在釋出財報前，該股今年以來已上漲逾一倍，反映出市場對英特爾復甦計劃的信心不斷增強。"
     }
   ]
 }
