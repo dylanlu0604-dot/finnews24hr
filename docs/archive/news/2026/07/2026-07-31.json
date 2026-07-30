@@ -1,7 +1,243 @@
 {
   "date": "2026-07-31",
-  "count": 668,
+  "count": 691,
   "items": [
+    {
+      "id": "mkt:019fb570-c6cb-7aab-8f20-14a78da310de",
+      "time": "2026-07-31 07:51:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan June inventories MoM +2.3% vs -1.1% prior."
+    },
+    {
+      "id": "mkt:019fb570-ab0a-7aab-8f20-0d847e050240",
+      "time": "2026-07-31 07:51:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Inventory (MoM) (Jun) | actual 2.3% | previous -1.1%"
+    },
+    {
+      "id": "mkt:019fb570-934c-7aab-8f20-06e2a0f6e04d",
+      "time": "2026-07-31 07:51:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan June retail sales totaled 13.019 tln yen, down from the prior reading of 13.447 tln yen."
+    },
+    {
+      "id": "5017879",
+      "time": "2026-07-31 07:51:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗軍方稱使用無人機打擊美軍駐巴林基地】據伊朗塔斯尼姆通訊社30日晚報道，伊朗軍方發表宣告稱使用無人機打擊了美軍駐巴林謝赫伊薩空軍基地的多處目標。宣告說，此次打擊行動目標包括謝赫伊薩空軍基地內的發電機、導航系統以及行政和後勤設施。謝赫伊薩空軍基地是美國在海灣地區的重要軍事基地，也是偵察機部署及直升機、無人機零部件維修保障中心，多輪襲擊已削弱該基地的作戰和保障能力。伊朗近日打擊中東多國境內美軍目標。宣告稱，儘管美軍駐中東地區基地部署多套防空系統並加強防護，伊朗武裝力量的持續打擊仍對相關裝備和駐軍設施造成較大損失。（新華社）"
+    },
+    {
+      "id": "mkt:019fb570-71b2-7aab-8f1f-fe30682c0efd",
+      "time": "2026-07-31 07:51:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Retail Sales (Jun) | actual 13019000000000T | previous 13447000000000T"
+    },
+    {
+      "id": "5017878",
+      "time": "2026-07-31 07:51:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "據TBS援引政府官員報道，日本進行了外匯干預。"
+    },
+    {
+      "id": "te:markets:571372",
+      "time": "2026-07-31 07:50:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rise as Investors Assess Earnings — US stock futures moved higher on Friday as investors evaluated the latest batch of earnings from major technology companies. In after-hours trading, Amazon soared more than 9% after reporting second-quarter revenue that exceeded forecasts, supported by robust growth in its cloud-computing business and reinforcing optimism over AI-related spending. Meanwhile, Apple slid more than 6% after its services revenue missed expectations, although the company still beat third-quarter revenue estimates thanks to a 22% jump in iPhone sales. Chipmakers also built on Thursday’s strong rally in extended trading, with Micron (3%), Sandisk (5.4%), AMD (3%), Intel (4.3%), and Nvidia (0.7%) all advancing. During Thursday’s regular session, the tech-heavy Nasdaq Composite climbed 2.78%, while the Dow and S&P 500 added 1.19% and 1.66%, respectively. Technology, consumer discretionary, and industrial stocks paced the broader market rebound."
+    },
+    {
+      "id": "mkt:019fb570-360b-7aab-8f1f-f375dd8ee3cf",
+      "time": "2026-07-31 07:50:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan seasonally adjusted retail sales fell 4.1% MoM in June, versus -1.6% expected; May reading revised down to +1.7% from +1.9%."
+    },
+    {
+      "id": "mkt:019fb570-0f83-7aab-8f1f-ed3e503f57e7",
+      "time": "2026-07-31 07:50:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Retail Sales SA (MoM) (Jun) | actual -4.1% | consensus -1.60% | previous 1.90%"
+    },
+    {
+      "id": "mkt:019fb570-080c-7aab-8f1f-e7e18e0faa5c",
+      "time": "2026-07-31 07:50:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Japan June industrial production YoY preliminary +4.2% vs expected +3.2%; prior -2.1%."
+    },
+    {
+      "id": "mkt:019fb56f-e97c-7aab-8f1f-d9701e28e2f8",
+      "time": "2026-07-31 07:50:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Industrial Production Flash (YoY) (Jun) | actual 4.2% | consensus 3.20% | previous -2.10%"
+    },
+    {
+      "id": "5017877",
+      "time": "2026-07-31 07:50:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本6月份零售額同比增長0.5%，預估為3.1%。日本6月份零售額環比-4.1%，預估為-1.6%。"
+    },
+    {
+      "id": "5017876",
+      "time": "2026-07-31 07:50:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本6月份工業產值環比增長1.3%，預估為1.0%。日本6月份工業產值同比增長4.2%，預估3.2%。"
+    },
+    {
+      "id": "mkt:019fb56f-88a0-7aab-8f1f-d152ef93cd35",
+      "time": "2026-07-31 07:50:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "Japan June retail sales YoY 0.5% vs 3.1% expected; May revised to 5.0% from 5.3%."
+    },
+    {
+      "id": "mkt:019fb56f-81f8-7aab-8f1f-c8568a0da231",
+      "time": "2026-07-31 07:50:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan June industrial production preliminary MoM +1.3% vs expected +1.0%; prior +0.1%."
+    },
+    {
+      "id": "mkt:019fb56f-6a24-7aab-8f1f-c5e2df3296b0",
+      "time": "2026-07-31 07:50:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Retail sales (YoY) (Jun) | actual 0.5% | consensus 3.10% | previous 5.30%"
+    },
+    {
+      "id": "mkt:019fb56f-6255-7aab-8f1f-ba9f8ea94478",
+      "time": "2026-07-31 07:50:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Industrial Production Flash (MoM) (Jun) | actual 1.3% | consensus 1.00% | previous 0.10%"
+    },
+    {
+      "id": "5017875",
+      "time": "2026-07-31 07:49:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：始終保持高度緊迫感，隨時準備干預外匯市場。"
+    },
+    {
+      "id": "mkt:019fb56e-a3d0-7aab-8f1f-b42d89de65ec",
+      "time": "2026-07-31 07:49:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【South Korea reportedly sold dollars in rare FX intervention; traders suspect Japan-South Korea coordination】Market sources said South Korea's FX authorities on Thursday executed a rare dollar-selling intervention, pushing the won to a nine-month high. The action coincided with Japan's New York-market intervention buying yen and selling dollars, which pulled the yen off a 40-year low. The won appreciated about 2% to 1,418.0 per USD, its strongest since Oct. 20 last year. It had hit a 17-year low of 1,561.50 last month and is up more than 8% this month, on track for its largest monthly gain since March 2009. A South Korean finance ministry FX official declined to confirm the move. A Seoul FX trader said markets suspect coordinated Korea-Japan intervention after both governments said they would maintain close communication; Seoul's deputy finance minister on July 2 and Japan's top FX official on July 7 both reported close contact on FX issues."
+    },
+    {
+      "id": "mkt:019fb56e-30d2-7aab-8f1f-ab3540ae9759",
+      "time": "2026-07-31 07:48:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's finance minister Katayama said she remains ready to respond to the FX market with a heightened sense of urgency."
+    },
+    {
+      "id": "mkt:019fb56e-0552-7aab-8f1f-a619f33b53f7",
+      "time": "2026-07-31 07:48:34",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Japan's finance minister Katayama declined to comment on potential FX intervention."
+    },
+    {
+      "id": "5017874",
+      "time": "2026-07-31 07:48:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：對匯率干預不予置評。"
+    },
     {
       "id": "5017873",
       "time": "2026-07-31 07:48:14",
@@ -53,6 +289,15 @@
         "國際"
       ],
       "text": "【日本央行決議公佈前東京消費者通脹加速】7月份東京都會區消費者通脹加速，升幅超過預期，這使日本央行有望繼續加息。週五公佈的政府資料顯示，東京不包括生鮮食品的消費者物價同比上漲1.9%。該漲幅高於6月份的1.6%，也高於資料提供商Quick對經濟學家調查所預測的1.7%。儘管中東衝突及隨之而來的油價上漲的影響開始逐漸顯現，但外界普遍預計，為了評估6月份加息舉措的效果，日本央行將在當天晚些時候結束的為期兩天的會議上維持1%的利率不變。日本央行仍致力於收緊貨幣政策，不過該央行官員們已表示，他們將仔細分析中東局勢，以決定進一步行動的時機和步伐。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202607313827318378",
+      "time": "2026-07-31 07:45:48",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "摩根大通稱，日本進一步干預外匯市場的空間可能有限。"
     },
     {
       "id": "5017866",
