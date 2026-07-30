@@ -1,7 +1,80 @@
 {
   "date": "2026-07-30",
-  "count": 1662,
+  "count": 1670,
   "items": [
+    {
+      "id": "mkt:019fb14b-9196-7aab-8f02-e0d623ea1495",
+      "time": "2026-07-30 12:32:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SOCGEN posted second-quarter net profit of €1.79 bln, up 23% YoY. The bank plans a €1.5 bln share buyback and said it has raised its fiscal-year target share price."
+    },
+    {
+      "id": "5015859",
+      "time": "2026-07-30 12:32:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天橋起重：子公司智慧切割下料分揀產線全國多專案密集進入安裝除錯階段】據天橋起重訊息，子公司天橋嘉成智慧切割下料分揀產線迎來集中交付旺季。青島、徐州、舟山、武漢、寧鄉、廣州、蚌埠等多地專案同步落地實施，全面進入安裝除錯關鍵階段。"
+    },
+    {
+      "id": "5015858",
+      "time": "2026-07-30 12:32:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豐田上半年全球產量和銷量兩年來首次出現下滑】豐田汽車週四表示，受地區市場需求疲軟及其熱門SUV車型RAV4換代影響，公司上半年全球產量和銷量出現兩年來的首次下滑。1月至6月全球銷量同比下降2.9%，略超500萬輛。今年前六個月，全球汽車產量同比下降1.2%，降至不足490萬輛。6月份，全球銷量微增0.1%至868,454輛，產量增長2.9%至879,321輛。豐田的資料包含其豪華品牌雷克薩斯的銷量和產量。"
+    },
+    {
+      "id": "mkt:019fb14a-e99d-7aab-8f02-daf87479632e",
+      "time": "2026-07-30 12:31:44",
+      "tags": [
+        "MKT News",
+        "TM.N",
+        "Impact mixed"
+      ],
+      "text": "Toyota Motor (TM.N): Parent-company global vehicle sales in June rose 0.1% YoY to 868,454 units. January–June global vehicle sales and production both declined YoY."
+    },
+    {
+      "id": "mkt:019fb14a-9de5-7aab-8f02-d7efe314369c",
+      "time": "2026-07-30 12:31:25",
+      "tags": [
+        "MKT News",
+        "TM.N",
+        "Impact bullish"
+      ],
+      "text": "Toyota Motor (TM.N): Parent-company Japan vehicle production in June rose 14.6% YoY to 313,234 vehicles; overseas production fell 2.6% YoY to 566,087 vehicles; global production rose 2.9% YoY to 879,321 vehicles."
+    },
+    {
+      "id": "5015857",
+      "time": "2026-07-30 12:30:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭克里沃伊羅格市遭彈道導彈襲擊致6人死亡 】烏克蘭克里沃伊羅格市國防委員會主席亞歷山大·維爾庫爾30日在社交媒體發文稱，當天凌晨，俄軍發動的彈道導彈襲擊已造成該市6人死亡，另有8人受傷。維爾庫爾稱，俄軍從沃羅涅日州發射的一枚“伊斯坎德爾-M”彈道導彈擊中了克里沃伊羅格郊區的私人住宅，造成2名兒童在內的6人死亡。維爾庫爾稱，救援工作仍在進行中，所有受傷人員均已獲得必要救助。"
+    },
+    {
+      "id": "mkt:019fb149-634a-7aab-8f02-c855d26c4904",
+      "time": "2026-07-30 12:30:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian Nour News and Fars News Agency reported explosions were heard at Jordan's Muwaffaq Salti Air Base, a facility that hosts US forces in the Middle East."
+    },
+    {
+      "id": "5015856",
+      "time": "2026-07-30 12:29:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星SDI：第二季度營業利潤由虧轉盈】三星SDI第二財季持續經營業務利潤2,038億韓元，上年同期虧損3,978億韓元 ；三星SDI第二財季淨利潤4,716億韓元，上年同期淨虧損1,667億韓元；三星SDI第二財季收入3.769萬億韓元，上年同期3.179萬億韓元。"
+    },
     {
       "id": "5015855",
       "time": "2026-07-30 12:27:29",
