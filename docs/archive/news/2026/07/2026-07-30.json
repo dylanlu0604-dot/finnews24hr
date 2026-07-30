@@ -1,7 +1,193 @@
 {
   "date": "2026-07-30",
-  "count": 3191,
+  "count": 3211,
   "items": [
+    {
+      "id": "mkt:019fb2e5-5886-7aab-8f10-a78dfd84ae39",
+      "time": "2026-07-30 20:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Harmonized CPI Flash (MoM) (Jul) | actual 0.9% | consensus 0.8% | previous -0.20%"
+    },
+    {
+      "id": "mkt:019fb2e5-587d-7aab-8f10-9b4cd2190737",
+      "time": "2026-07-30 20:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Harmonized CPI Flash (YoY) (Jul) | actual 2.8% | consensus 2.8% | previous 2.40%"
+    },
+    {
+      "id": "mkt:019fb2e5-582f-7aab-8f10-907d7e0d5160",
+      "time": "2026-07-30 20:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | CPI Flash (MoM) (Jul) | actual 0.8% | consensus 0.7% | previous -0.30%"
+    },
+    {
+      "id": "mkt:019fb2e5-5808-7aab-8f10-8d951a12ac64",
+      "time": "2026-07-30 20:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | CPI Flash (YoY) (Jul) | actual 2.8% | consensus 2.7% | previous 2.30%"
+    },
+    {
+      "id": "5016957",
+      "time": "2026-07-30 19:59:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美第二季度稅前利潤 47.7 億美元，市場預期 34.7 億美元。"
+    },
+    {
+      "id": "5016956",
+      "time": "2026-07-30 19:59:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "百威英博執行長在接受採訪時表示：全球消費者對伊朗戰爭的影響仍保持韌性，但第一季度到第二季度間消費者信心出現小幅下滑，低收入群體的信心下滑尤為明顯。"
+    },
+    {
+      "id": "5016955",
+      "time": "2026-07-30 19:59:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "百威英博執行長在受訪時表示：我們預計世界盃將帶來我們此前預測的25個基點的年度銷量增幅。"
+    },
+    {
+      "id": "5016954",
+      "time": "2026-07-30 19:59:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "百威英博執行長在受訪時表示：如果美洲球隊能在本屆世界盃走得更遠，（世界盃）本可帶動更高銷量。"
+    },
+    {
+      "id": "5016953",
+      "time": "2026-07-30 19:59:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "百威英博執行長：歐洲大範圍歷史性熱浪不利於啤酒銷售。"
+    },
+    {
+      "id": "5016952",
+      "time": "2026-07-30 19:59:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：阿曼蘇丹與英國新任首相伯納姆就地區局勢進行會談。"
+    },
+    {
+      "id": "5016951",
+      "time": "2026-07-30 19:58:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將Meta目標股價從835.00美元下調至810.00美元。"
+    },
+    {
+      "id": "mkt:019fb2e3-da0f-7aab-8f10-877cff25e645",
+      "time": "2026-07-30 19:58:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "BOFA GLOBAL RESEARCH cuts Meta Platforms (META.O) price target to $810 from $835."
+    },
+    {
+      "id": "5016950",
+      "time": "2026-07-30 19:58:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將義大利埃尼石油目標股價從22.00歐元上調至23.00歐元。"
+    },
+    {
+      "id": "5016949",
+      "time": "2026-07-30 19:57:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦方面訊息：敵方戰機轟炸加沙地帶北部賈巴利亞城區平民，造成一人死亡、多人受傷，其中部分傷者情況危急。"
+    },
+    {
+      "id": "5016948",
+      "time": "2026-07-30 19:57:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東陽光藥：德谷胰島素注射液獲NMPA上市批准，涵蓋兩個規格】東陽光藥公告，公司自主研發的德谷胰島素注射液正式獲得國家藥品監督管理局(NMPA)批准上市，涵蓋筆芯和預填充注射筆兩個規格。該藥品為第四代長效基礎胰島素類似物，半衰期約25小時，作用持續時間超過42小時。此次獲批後，公司在中國市場獲批的胰島素產品已增至6款，構建起覆蓋二代至四代的全系列產品矩陣。"
+    },
+    {
+      "id": "5016947",
+      "time": "2026-07-30 19:57:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Meta執行長扎克伯格：出售算力獲取短期利潤是愚蠢的】當地時間29日美股盤後，Meta披露2026年第二季度財報，儘管該季度營收小幅超預期，但淨利潤下滑14%，疊加鉅額AI資本開支擠壓現金流，公司股價盤後一度跌超8%。財報中，Meta將全年資本支出預測區間調整至1300億至1450億美元，而此前預測為1250億至1450億美元。AI資本支出大幅攀升損害公司盈利能力並嚴重擠壓現金流，Meta第二季度的自由現金流降至近四年來的最低水平，僅剩7.84億美元。面對市場的擔憂，Meta執行長扎克伯格29日在財報電話會議上表示，Meta當前的大規模投入是為了搶佔AI基礎設施視窗期，回報將逐步透過核心廣告業務提升、企業服務及算力出租等多條路徑兌現。扎克伯格在提到“賣算力”的可能性時表示，Meta已經收到大量關於算力的報價，價格遠高於公司採購成本。不過扎克伯格表示，僅僅出售算力並獲取短期利潤是愚蠢的，Meta算力將有“相當大一部分”用於驅動其自有模型和產品。（央視財經）"
+    },
+    {
+      "id": "mkt:019fb2e2-b868-7aab-8f10-79e377f03835",
+      "time": "2026-07-30 19:57:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) rises over 10% in U.S. pre-market after fiscal Q4 Azure cloud revenue grew 43% YoY, well above expectations."
+    },
+    {
+      "id": "5016946",
+      "time": "2026-07-30 19:56:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米正式推出龍甲電池體系】雷軍今晚表示，小米龍甲電池體系正式推出。這是小米汽車主導的動力電池系統化解決方案：小米負責產品定義，小米主導電池包的設計開發，小米參與電芯的設計開發，小米進行全流程質量管控。"
+    },
+    {
+      "id": "5016945",
+      "time": "2026-07-30 19:56:32",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美股晶片半導體板塊盤前集體上揚 泛林集團漲9.2%】美股晶片半導體板塊盤前集體上揚，英偉達盤前上漲1.82%，臺積電盤前上漲2.79%，博通盤前上漲1.67%，SK海力士盤前上漲3.21%，美光科技盤前上漲3.64%，美國超微公司盤前上漲4.29%，英特爾盤前上漲2.71%，阿斯麥盤前上漲3.94%，泛林集團盤前上漲9.20%，Arm Holdings盤前上漲0.91%，閃迪盤前上漲6.11%，邁威爾科技盤前上漲3.78%，西部資料盤前上漲4.95%，希捷科技盤前上漲4.27%。"
+    },
+    {
+      "id": "mkt:019fb2e2-167a-7aab-8f10-768e1864e8fa",
+      "time": "2026-07-30 19:56:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli Channel 12 reports major progress in Gaza】Israeli Channel 12 reports mediators and Hamas have reached a new agreement on comprehensive disarmament: all weapons — heavy, light and police arms — as well as tunnels and weapon stockpiles to be surrendered; weapons to be transferred within weeks to depots guarded by a multinational force; Hamas to cease all military activity and recruitment; Israel will not withdraw from its planned Yellow Line until disarmament is completed. Report unconfirmed by major outlets; investors should verify."
+    },
     {
       "id": "5016944",
       "time": "2026-07-30 19:55:55",
