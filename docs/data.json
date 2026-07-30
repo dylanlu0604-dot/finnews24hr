@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-30 08:21:01",
-  "count": 17830,
+  "updated": "2026-07-30 08:24:55",
+  "count": 17829,
   "items": [
+    {
+      "id": "5015463",
+      "time": "2026-07-30 08:24:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【強生以25.8億美元收購Sail Biomedicines獨家期權】當地時間7月29日，強生公司宣佈已與Sail Biomedicines簽署具有約束力的協議，該公司將以25.8億美元收購Sail的獨家期權。根據協議條款，強生將支付總額為7.85億美元的初期付款，其中包括4.65億美元的股權投資，以及在達成特定開發里程碑時額外支付最高1.4億美元的或有付款。待強生決定行使期權後，強生將額外支付25.8億美元。假設行使該期權，強生預計該協議將使2026年調整後運營每股收益和調整後每股收益稀釋約0.18美元，2027年稀釋約1.28美元。"
+    },
+    {
+      "id": "te:economy:570912",
+      "time": "2026-07-30 08:24:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Tunisia",
+        "Interest Rate",
+        "Importance 0"
+      ],
+      "text": "Tunisia Holds Key Policy Rate at 7% — The Central Bank of Tunisia left its key interest rate unchanged at 7% at its July 29, 2026 meeting, citing persistent upside risks to the inflation outlook despite easing price pressures. Annual inflation slowed to 5.3% in June from 5.5% in May, as fresh food inflation eased to 11.2% from 13.2%, while core inflation remained at 5% for a third straight month, signaling persistent underlying pressures. The current account deficit widened to TND 4.24 billion, or 2.3% of GDP, in the first half of 2026 from TND 2.84 billion, or 1.6% of GDP, a year earlier, largely due to a record energy import bill. Net foreign exchange reserves stood at TND 23.4 billion, covering 92 days of imports after the repayment of a €700 million Eurobond. The Board reiterated that inflation risks remain tilted to the upside and stressed the need to continue supporting the disinflation process while preserving macroeconomic and external stability."
+    },
+    {
+      "id": "mkt:019fb066-e9db-7aab-8efc-772205332ece",
+      "time": "2026-07-30 08:22:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bill Gates will visit South Korea on August 14 to discuss cooperation on small modular reactors."
+    },
+    {
+      "id": "5015462",
+      "time": "2026-07-30 08:21:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【7月以來共有25股獲5家及以上機構評級，盈利高增長個股獲機構扎堆關注】據統計，截至7月29日，7月以來44家機構累計釋出936次“買入型”（包括買入、增持、推薦、強烈推薦、強烈買入）評級，合計覆蓋546股。 從個股來看，7月以來，共有25股獲5家及以上機構評級，其中貴州茅臺、寧德時代、中國人壽、恆瑞醫藥獲機構評級數量居前，分別有17家、16家、11家、10家。 從業績上來看，盈利高增長個股獲機構扎堆關注。上述25股中，有19股釋出了半年度業績相關公告，按半年報淨利潤、業績快報淨利潤、業績預告淨利潤下限順序計算，渤海租賃實現扭虧為盈；17股歸母淨利潤實現同比增長，浪潮資訊、中國人壽、招商輪船等7股增幅在100%以上。（人民財訊）"
+    },
+    {
+      "id": "5015461",
+      "time": "2026-07-30 08:21:13",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根大通將美聯儲加息預期提前至12月】摩根大通目前預計美聯儲將於12月加息，這比該行此前預期的2027年下半年要早。“在沃什的新聞釋出會上，他再次未能明確說明，他打算如何實現自己所強硬宣稱的抗通脹決心，”首席美國經濟學家Michael Feroli在一份報告中寫道。這位主席還對PCE是否仍將作為美聯儲通脹目標提出了質疑，“這兩點都讓人對這位新任主席能否實現降通脹的目標產生了質疑。”這反過來可能會給美聯儲委員會其他成員帶來更大的緊迫感，促使他們履行其職責。“我們不會將此次修正視為市場對美聯儲的‘施壓’，而應視為又一個挑戰，促使美聯儲採取行動以維護其公信力。”"
+    },
     {
       "id": "5015460",
       "time": "2026-07-30 08:20:25",
@@ -164462,63 +164510,6 @@
         "觀點"
       ],
       "text": "【東吳證券：國產液冷已由送樣驗證進入批次交付階段 2026—2028年份額提升有望快於行業增長】東吳證券研報稱，液冷已從可選散熱方案升級為AI資料中心的剛性基礎設施，Vera Rubin全面量產標誌著行業進入業績集中釋放期。國產液冷已由送樣驗證進入批次交付階段，2026—2028年份額提升有望快於行業增長。國內企業由外圍冷源和代工環節逐步進入晶片平臺、伺服器ODM和海外雲廠商供應體系。英維克等頭部企業已形成覆蓋冷板、快接頭、Manifold、CDU、機櫃、管路和冷源的端到端產品體系，部分產品透過英特爾測試，UQD系列進入NVIDIA MGX生態，說明國產供應商已跨過“只有樣品、沒有訂單”的階段。國產替代將從Manifold、管路和部分CDU放量，推進至高可靠快接頭和冷板進入核心BOM，最終升級為具備核心部件自制、系統整合和海外服務能力的全球液冷平臺。"
-    },
-    {
-      "id": "mkt:019f8c5c-31ca-7aab-8e55-142fb6d01a30",
-      "time": "2026-07-23 08:24:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian state media, citing officials, reported a US missile strike hit the Shalamcheh border crossing on the Iran-Iraq border on the 23rd (local time), killing two."
-    },
-    {
-      "id": "5003252",
-      "time": "2026-07-23 08:24:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊官員稱美軍襲擊伊朗同伊拉克口岸已致2人死亡】當地時間23日，伊朗方面援引伊朗官員的話報道說，美軍導彈襲擊了伊朗同伊拉克接壤的沙拉姆切赫邊境口岸。襲擊已造成2人死亡。"
-    },
-    {
-      "id": "mkt:019f8c5b-8d78-7aab-8e55-0f666ff4ab78",
-      "time": "2026-07-23 08:23:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【Industry Association: Chinese-brand passenger vehicle sales 1.812 mln in June, up 6.2% YoY】Industry Association data show Chinese-brand passenger vehicle sales totaled 1.812 mln in June, up 6.2% YoY and 7.3% MoM, accounting for 75.5% of passenger vehicle sales — an 8.2 percentage-point increase versus a year earlier. Jan–Jun sales totaled 9.138 mln, down 1.4% YoY, accounting for 71.8% of passenger vehicle sales, up 3.3 percentage points year-on-year."
-    },
-    {
-      "id": "em:jjsj_zgsj:202607233818035438",
-      "time": "2026-07-23 08:22:30",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【中汽協：6月中國品牌乘用車共銷售181.2萬輛 同比增長6.2%】據中國汽車工業協會統計分析，2026年6月，中國品牌乘用車共銷售181.2萬輛，環比增長7.3%，同比增長6.2%，佔乘用車銷售總量的75.5%，銷量佔有率比去年同期提升8.2個百分點。2026年1—6月，中國品牌乘用車共銷售913.8萬輛，同比下降1.4%，佔乘用車銷售總量的71.8%，銷量佔有率比去年同期提升3.3個百分點。"
-    },
-    {
-      "id": "5003251",
-      "time": "2026-07-23 08:22:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中汽協：6月中國品牌乘用車共銷售181.2萬輛 同比增長6.2%】據中國汽車工業協會統計分析，2026年6月，中國品牌乘用車共銷售181.2萬輛，環比增長7.3%，同比增長6.2%，佔乘用車銷售總量的75.5%，銷量佔有率比去年同期提升8.2個百分點。2026年1—6月，中國品牌乘用車共銷售913.8萬輛，同比下降1.4%，佔乘用車銷售總量的71.8%，銷量佔有率比去年同期提升3.3個百分點。"
-    },
-    {
-      "id": "5003250",
-      "time": "2026-07-23 08:22:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【首屆北京市中學生人形機器人足球賽收官】昨天（22日），北京市中學生人形機器人足球賽總決賽圓滿收官。賽事自今年4月11日啟動以來，覆蓋北京各區及雄安新區，共吸引55支中學生代表隊參賽，設甲、乙兩大競賽組別。歷經賽前培訓、小組賽和淘汰賽多輪層層比拼，最終會師總決賽賽場，兩組分別決出冠亞季軍。據瞭解，決賽獲勝隊伍將被推薦參加世界人形機器人運動會U19相關組別比賽。（央視）"
     }
   ]
 }
