@@ -1,7 +1,114 @@
 {
   "date": "2026-07-31",
-  "count": 466,
+  "count": 476,
   "items": [
+    {
+      "id": "5017750",
+      "time": "2026-07-31 05:37:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果CEO庫克： 針對記憶體供應問題，“我們正在評估所有可行方案”。"
+    },
+    {
+      "id": "mkt:019fb4f5-4607-7aab-8f1d-ca1d60681170",
+      "time": "2026-07-31 05:36:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Amazon (AMZN.O) CFO said tariff refund amounts are limited because the company pre-bought goods and pre-positioned inventory to avoid tariff costs."
+    },
+    {
+      "id": "5017749",
+      "time": "2026-07-31 05:36:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果CEO庫克： 第四財季記憶體成本將高於第三財季， 預計第四財季部分非記憶體類零部件成本有所下降。"
+    },
+    {
+      "id": "5017748",
+      "time": "2026-07-31 05:35:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "蘋果：第三財季記憶體採購成本較第二財季 “大幅上漲”。"
+    },
+    {
+      "id": "mkt:019fb4f4-7860-7aab-8f1d-c0b14c60fc64",
+      "time": "2026-07-31 05:35:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple Inc (AAPL.O) CEO Tim Cook said memory spending in the third fiscal quarter was \"significantly higher\" than in the second fiscal quarter."
+    },
+    {
+      "id": "mkt:019fb4f3-d6dc-7aab-8f1d-b909444e2051",
+      "time": "2026-07-31 05:35:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "Apple (AAPL.O) CEO Cook said supply chain flexibility is below normal and supply constraints have primarily affected Mac."
+    },
+    {
+      "id": "mkt:019fb4f3-ba67-7aab-8f1d-b2cb3978de96",
+      "time": "2026-07-31 05:34:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Israel says it destroyed underground tunnel infrastructure on Lebanon's Beaufort Ridge】Israel's prime minister's office said early on July 31 that, under orders from PM Netanyahu and Defense Minister Katz, the IDF demolished underground tunnel infrastructure on southern Lebanon's Beaufort Ridge using about 700 tonnes of explosives. The office said the tunnels were a key element of Hezbollah's planned attacks on northern Israeli communities and described the operation as a response to Hezbollah's breach of a ceasefire. The IDF said its 36th Division under Northern Command destroyed multiple core tunnel routes and that Israeli forces remain deployed in Lebanon's southern security zone to continue clearing military infrastructure and prevent Hezbollah from reconstituting capabilities."
+    },
+    {
+      "id": "5017747",
+      "time": "2026-07-31 05:34:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：預計供應緊張情況將在 6 月所在季度至 9 月所在季度顯著加劇，供貨瓶頸將波及 iPhone、Mac 以及 iPad 產品線。"
+    },
+    {
+      "id": "mkt:019fb4f3-74fc-7aab-8f1d-a92f6ca0dc41",
+      "time": "2026-07-31 05:34:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "Apple (AAPL.O) expects foreign-exchange headwinds to subtract 2.5 percentage points from fiscal Q4 results."
+    },
+    {
+      "id": "5017746",
+      "time": "2026-07-31 05:34:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：由於企業提前採購、預先備貨以規避關稅成本，關稅退款規模受到限制。"
+    },
     {
       "id": "5017745",
       "time": "2026-07-31 05:33:47",
