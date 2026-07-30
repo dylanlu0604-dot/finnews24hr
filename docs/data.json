@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-30 12:33:07",
+  "updated": "2026-07-30 12:37:08",
   "count": 17904,
   "items": [
+    {
+      "id": "5015861",
+      "time": "2026-07-30 12:36:19",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通將怪物飲料公司目標價從83美元上調至99美元。"
+    },
+    {
+      "id": "5015860",
+      "time": "2026-07-30 12:34:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【法興淨利潤超出預期 啟動15億歐元股份回購計劃】法國興業銀行上調本年度盈利目標，並宣佈實施15億歐元（合17億美元）股份回購計劃，此前該行第二季度利潤高於分析師預期。這家法國銀行表示，目標將本年度有形股本回報率提升至約11%，高於此前設定的10%以上目標，同時計劃加大成本壓降力度。該行淨利潤同比增長23%，達到17.9億歐元；市場分析師預期為15.9億歐元。執行長斯拉沃米爾・克魯帕於週四公告中表示：“營收增長疊加成本大幅下行，推動我們經營效率改善。良好經營態勢顯著提升集團盈利能力。”克魯帕計劃在9月公佈最新戰略規劃。任職初期，他完成資本夯實、剝離部分業務板塊，此後持續著力提升營收並加大股東回報。受控儲蓄賬戶利率下調、成本管控成效推動法國本土零售銀行業務回暖，但交易業務表現仍起伏不均。"
+    },
+    {
+      "id": "mkt:019fb14d-6ebe-7aab-8f02-e90b24741944",
+      "time": "2026-07-30 12:34:29",
+      "tags": [
+        "MKT News",
+        "TM.N",
+        "Impact bearish"
+      ],
+      "text": "【Toyota H1 global output and sales fall for first time in two years】Toyota Motor (TM.N) said weak demand and a model change for its best-selling RAV4 led to the first decline in global production and sales in two years in 1H. Global sales from Jan to Jun fell 2.9% YoY to just over 5.0 mln units; production fell 1.2% YoY to just under 4.9 mln units. In June, global sales edged up 0.1% to 868,454 units and production rose 2.9% to 879,321 units."
+    },
     {
       "id": "mkt:019fb14b-9196-7aab-8f02-e0d623ea1495",
       "time": "2026-07-30 12:32:27",
@@ -165100,34 +165127,6 @@
         "國際"
       ],
       "text": "印度石油公司（HPCL）高管：拉賈斯坦煉廠900萬噸/年原油裝置目前開工率為60%。"
-    },
-    {
-      "id": "mkt:199dc678-fa7d-4e5a-8726-781eb2768452",
-      "time": "2026-07-23 12:34:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【HKEX adds Bursa Malaysia as recognized stock exchange】The Stock Exchange of Hong Kong Ltd, a wholly owned subsidiary of Hong Kong Exchanges and Clearing, has added Bursa Malaysia as a recognized stock exchange. Companies primarily listed on Bursa Malaysia’s Main Market may now apply for secondary listings in Hong Kong. The count of Southeast Asian recognized exchanges rises to four, joining the Indonesia Stock Exchange, Singapore Exchange and the Stock Exchange of Thailand."
-    },
-    {
-      "id": "te:economy:569107",
-      "time": "2026-07-23 12:33:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Netherlands",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Dutch Consumer Confidence Less Negative in July — Consumer confidence in the Netherlands improved to -35 in July 2026 from -39 in June, marking a further recovery but remaining well below its long-term average of -11 over the past 20 years. The improvement was mainly driven by a less negative assessment of the economic climate, which rose to -59 from -64, as consumers became more optimistic about both the economic situation over the past 12 months and expectations for the year ahead. Willingness to buy also strengthened to -19 from -22, supported by improved views of household finances and a more favorable assessment of major purchases. The assessment of the financial situation over the past year improved to -15 from -16, while expectations for the next 12 months rose to -2 from -6. The view on the timing for major purchases increased to -40 from -44. Despite the improvement, confidence remained below its long-term average and far below the record high of +36 reached in January 2000."
-    },
-    {
-      "id": "5003587",
-      "time": "2026-07-23 12:33:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中東地區緊張局勢升溫，多國發生戰事，中國駐沙特大使館釋出安全提醒】近日，中東地區緊張局勢升溫，多國發生戰事。據沙特官方訊息，在過去24小時內，東部達曼地區釋出安全警報，有沙特運營的船隻在紅海航行時遭襲。局勢有進一步惡化的可能。中國駐沙特大使館提醒在沙中資機構和中國公民密切關注形勢發展，切實加強安全防範。減少不必要外出，保持冷靜。在接到當地安全警報時及時避險，不要拍攝軍事行動，不傳播未經證實的訊息。有乘飛機或輪船出行計劃的旅客請注意航班變化，與有關航司保持密切聯絡。"
     }
   ]
 }
