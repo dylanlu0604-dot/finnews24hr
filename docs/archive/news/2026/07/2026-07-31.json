@@ -1,7 +1,26 @@
 {
   "date": "2026-07-31",
-  "count": 507,
+  "count": 509,
   "items": [
+    {
+      "id": "5017769",
+      "time": "2026-07-31 06:16:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐計劃向黑石出售 360 億澳元澳大利亞住房與個人貸款資產包。"
+    },
+    {
+      "id": "te:markets:571351",
+      "time": "2026-07-31 06:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Japanese Yen Appreciates by 2.29% — Top currency gainers are Japanese Yen (2.29%), New Zealand Dollar (1.45%), South Korean Won (1.44%), British Pound (0.71%) and Euro (0.52%). Biggest loser is Dollar Index (-0.89%)."
+    },
     {
       "id": "5017768",
       "time": "2026-07-31 06:12:41",

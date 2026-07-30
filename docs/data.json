@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-31 06:13:42",
+  "updated": "2026-07-31 06:17:35",
   "count": 17949,
   "items": [
+    {
+      "id": "5017769",
+      "time": "2026-07-31 06:16:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐計劃向黑石出售 360 億澳元澳大利亞住房與個人貸款資產包。"
+    },
+    {
+      "id": "te:markets:571351",
+      "time": "2026-07-31 06:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Japanese Yen Appreciates by 2.29% — Top currency gainers are Japanese Yen (2.29%), New Zealand Dollar (1.45%), South Korean Won (1.44%), British Pound (0.71%) and Euro (0.52%). Biggest loser is Dollar Index (-0.89%)."
+    },
     {
       "id": "5017768",
       "time": "2026-07-31 06:12:41",
@@ -165894,25 +165913,6 @@
         "國際"
       ],
       "text": "【伊朗和伊拉克重申將強化戰略關係並擴大合作】據伊朗邁赫爾通訊社23日報道，伊朗總統佩澤希齊揚當天在伊首都德黑蘭與到訪的伊拉克總理扎伊迪會談，雙方重申將致力於強化戰略關係並擴大雙邊合作。報道稱，雙方強調兩國之間深厚的歷史、文化、宗教和人文聯絡是擴大戰略合作的寶貴基礎。佩澤希齊揚和扎伊迪呼籲加快落實現有雙邊協議，強調有必要啟用兩國在政治、經濟、貿易、能源和區域合作等領域的共同能力。雙方認為，開闢合作新渠道是兩國關係未來發展的戰略必然，拓展全面關係既能增進兩國穩定、安全與繁榮，也可鞏固地區團結，符合兩國利益。(新華社)"
-    },
-    {
-      "id": "te:markets:569385",
-      "time": "2026-07-24 06:15:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: New Zealand Dollar Drops by 0.72% — Top currency losers are New Zealand Dollar (-0.72%), Mexican Peso (-0.71%), Swedish Krona (-0.61%), British Pound (-0.46%), Japanese Yen (-0.42%) and Euro (-0.30%). Gains are led by Dollar Index (0.31%)."
-    },
-    {
-      "id": "mkt:019f910b-0a00-7aab-8e74-1033054136c5",
-      "time": "2026-07-24 06:14:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea, U.S. open shipbuilding cooperation center】South Korea and the United States launched the Korea-U.S. Shipbuilding Partnership Center (KUSPC) in Washington to implement Seoul’s pledge under last year’s bilateral trade and investment agreement to channel $150 billion into U.S. shipbuilding. Senior officials and industry leaders attended the unveiling."
     }
   ]
 }
