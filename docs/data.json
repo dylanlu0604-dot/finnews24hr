@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-31 02:47:42",
+  "updated": "2026-07-31 02:51:35",
   "count": 17890,
   "items": [
+    {
+      "id": "mkt:019fb45d-38e4-7aab-8f1b-2db691757972",
+      "time": "2026-07-31 02:50:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "FTSE100"
+      ],
+      "text": "【FCA to begin daily UK equity trading data releases from Friday】People familiar with the matter said the UK Financial Conduct Authority will start publishing daily aggregate UK equity trading data from Friday to boost market transparency. The FCA will provide a one‑year historical backfill; the daily updates are a transitional measure ahead of a full consolidated tape (single source of UK equity trade data). The regulator will publish the data stream’s coverage on Friday, which is expected to include pre‑ and post‑trade data."
+    },
+    {
+      "id": "5017642",
+      "time": "2026-07-31 02:50:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：英特爾向一家新興初創企業開放部分處理器技術授權。註冊檔案顯示，這家名為 RosaicLabs的企業於 5 月提交首次註冊資料。英特爾執行長陳立武與該初創企業負責人是長期聯合投資人。"
+    },
+    {
+      "id": "5017641",
+      "time": "2026-07-31 02:48:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：每一次爆炸，每一次罪行，每一次制裁，每一次威脅，每一次殺害兒童，都會讓伊朗人在捍衛祖國時更加堅定和團結。"
+    },
+    {
+      "id": "mkt:019fb45a-b38d-7aab-8f1b-23d084e8024e",
+      "time": "2026-07-31 02:47:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Suncor Energy's Sarnia refinery in Ontario will conduct maintenance over the next few days and will temporarily use its flare system, a local community alert said."
+    },
+    {
+      "id": "5017640",
+      "time": "2026-07-31 02:47:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦訊息人士：敵方部隊在被佔領的耶路撒冷以北哈茲馬鎮的入口處設立檢查站。"
+    },
     {
       "id": "5017639",
       "time": "2026-07-31 02:45:31",
@@ -165129,54 +165172,6 @@
         "國際"
       ],
       "text": "【美軍稱對伊朗海上封鎖已迫使12艘商船改道】當地時間7月23日，美軍中央司令部表示，自9天前恢復對伊朗的海上封鎖以來，美軍已迫使12艘商業船隻改變航向，並使1艘船失去航行能力，以阻止船隻進出伊朗港口或沿海地區。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f9051-0b1c-7aab-8e71-d3ad350fe5cb",
-      "time": "2026-07-24 02:50:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said progress in dealing with Iran has been very smooth and outcomes very good."
-    },
-    {
-      "id": "5005337",
-      "time": "2026-07-24 02:50:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "佳明（GARMIN）計劃到2028年在全美推廣移動清關配送服務。"
-    },
-    {
-      "id": "mkt:019f9050-cb27-7aab-8e71-c803fef0ae38",
-      "time": "2026-07-24 02:50:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Iranians want talks but are not ready."
-    },
-    {
-      "id": "mkt:019f9050-0bb6-7aab-8e71-c494160e2e98",
-      "time": "2026-07-24 02:49:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "President Trump said the United States cannot allow Iran to possess nuclear weapons."
-    },
-    {
-      "id": "mkt:019f904f-85d4-7aab-8e71-ba9c94836b1a",
-      "time": "2026-07-24 02:49:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude futures settled at $100.69/bbl, up $6.62 or 7.04%."
     }
   ]
 }

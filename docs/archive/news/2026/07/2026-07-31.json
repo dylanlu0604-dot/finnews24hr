@@ -1,7 +1,50 @@
 {
   "date": "2026-07-31",
-  "count": 265,
+  "count": 270,
   "items": [
+    {
+      "id": "mkt:019fb45d-38e4-7aab-8f1b-2db691757972",
+      "time": "2026-07-31 02:50:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "FTSE100"
+      ],
+      "text": "【FCA to begin daily UK equity trading data releases from Friday】People familiar with the matter said the UK Financial Conduct Authority will start publishing daily aggregate UK equity trading data from Friday to boost market transparency. The FCA will provide a one‑year historical backfill; the daily updates are a transitional measure ahead of a full consolidated tape (single source of UK equity trade data). The regulator will publish the data stream’s coverage on Friday, which is expected to include pre‑ and post‑trade data."
+    },
+    {
+      "id": "5017642",
+      "time": "2026-07-31 02:50:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：英特爾向一家新興初創企業開放部分處理器技術授權。註冊檔案顯示，這家名為 RosaicLabs的企業於 5 月提交首次註冊資料。英特爾執行長陳立武與該初創企業負責人是長期聯合投資人。"
+    },
+    {
+      "id": "5017641",
+      "time": "2026-07-31 02:48:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：每一次爆炸，每一次罪行，每一次制裁，每一次威脅，每一次殺害兒童，都會讓伊朗人在捍衛祖國時更加堅定和團結。"
+    },
+    {
+      "id": "mkt:019fb45a-b38d-7aab-8f1b-23d084e8024e",
+      "time": "2026-07-31 02:47:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Suncor Energy's Sarnia refinery in Ontario will conduct maintenance over the next few days and will temporarily use its flare system, a local community alert said."
+    },
+    {
+      "id": "5017640",
+      "time": "2026-07-31 02:47:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦訊息人士：敵方部隊在被佔領的耶路撒冷以北哈茲馬鎮的入口處設立檢查站。"
+    },
     {
       "id": "5017639",
       "time": "2026-07-31 02:45:31",
