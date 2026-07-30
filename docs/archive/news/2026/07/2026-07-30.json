@@ -1,7 +1,97 @@
 {
   "date": "2026-07-30",
-  "count": 1704,
+  "count": 1714,
   "items": [
+    {
+      "id": "mkt:019fb165-3c23-7aab-8f03-554029c98d77",
+      "time": "2026-07-30 13:00:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China's CSI 500 index futures (IC) most-active contract fell 4.00% intraday to 7,141.4 points."
+    },
+    {
+      "id": "te:markets:571007",
+      "time": "2026-07-30 13:00:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in China Hit 16-week Low — CSI 300 decreased to 4492.00 Index Points, the lowest since April 2026. Over the past 4 weeks, Shanghai Shenzhen CSI 300 Index lost 9.25%, and in the last 12 months, it increased 10.42%."
+    },
+    {
+      "id": "mkt:019fb165-197a-7aab-8f03-4a75b9ed73f3",
+      "time": "2026-07-30 13:00:20",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan July household consumer confidence index 34.9, prior 33.8."
+    },
+    {
+      "id": "mkt:019fb165-03c9-7aab-8f03-4081692ac34c",
+      "time": "2026-07-30 13:00:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Consumer confidence index (Jul) | actual 34.9 | previous 33.8"
+    },
+    {
+      "id": "5015885",
+      "time": "2026-07-30 13:00:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度尼西亞巴布亞省發生5.3級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間30日11時42分，印尼巴布亞省薩米縣東北28公里處發生5.3級地震， 震源深度10公里。預計不會有海嘯風險。"
+    },
+    {
+      "id": "5015884",
+      "time": "2026-07-30 13:00:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "LG電子第二季度淨利潤6680億韓元，預期為7398.1億韓元。"
+    },
+    {
+      "id": "5015883",
+      "time": "2026-07-30 12:59:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣達電腦22億美元全球存托股票發售獲得數倍超額認購】知情人士稱，廣達電腦規模22億美元的全球存托股票發售獲得數倍超額認購。因涉及未公開訊息而不願具名的知情人士表示，此次發售的大部分股份分配給了對沖基金。主權財富基金以及通常不進行賣空交易的做多策略投資者也參與認購。"
+    },
+    {
+      "id": "mkt:019fb163-eb0a-7aab-8f03-39ca835b35f1",
+      "time": "2026-07-30 12:59:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli outlet i24News reported a U.S. official said overnight air strikes on Iran were roughly twice the intensity and scope of prior operations."
+    },
+    {
+      "id": "5015882",
+      "time": "2026-07-30 12:58:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "知情人士稱，廣達電腦規模22億美元的全球存托股票發售獲得數倍超額認購。"
+    },
     {
       "id": "mkt:019fb161-a2d7-7aab-8f03-30036f04712c",
       "time": "2026-07-30 12:56:33",
@@ -9,6 +99,14 @@
         "MKT News"
       ],
       "text": "Interfax reported the Russian defence ministry said Russia had also attacked three cargo ships."
+    },
+    {
+      "id": "5015881",
+      "time": "2026-07-30 12:56:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯稱對烏克蘭發動了大規模襲擊，在烏克蘭港口附近擊中了3艘船隻。"
     },
     {
       "id": "5015880",
