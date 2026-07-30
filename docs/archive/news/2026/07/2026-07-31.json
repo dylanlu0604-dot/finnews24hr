@@ -1,7 +1,71 @@
 {
   "date": "2026-07-31",
-  "count": 376,
+  "count": 382,
   "items": [
+    {
+      "id": "mkt:019fb4c0-324c-7aab-8f1c-8460000faffb",
+      "time": "2026-07-31 04:38:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei reports U.S. authorities also conducted an exchange-rate review."
+    },
+    {
+      "id": "5017701",
+      "time": "2026-07-31 04:38:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：日本政府與日本央行週四在紐約外匯市場實施匯市干預，買入日元、賣出美元。"
+    },
+    {
+      "id": "mkt:019fb4bf-4eaa-7aab-8f1c-7936edfec534",
+      "time": "2026-07-31 04:37:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Nikkei reports the Japanese government and the Bank of Japan have intervened in the foreign exchange market."
+    },
+    {
+      "id": "5017700",
+      "time": "2026-07-31 04:36:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮釋出關於可回收關鍵礦產的備忘錄。"
+    },
+    {
+      "id": "mkt:019fb4bd-99f3-7aab-8f1c-71a9ae7ca7e7",
+      "time": "2026-07-31 04:35:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Apple (AAPL.O) fiscal 2026 Q3 services revenue was $30.74 bln, below market expectations of $31.22 bln."
+    },
+    {
+      "id": "te:markets:571345",
+      "time": "2026-07-31 04:35:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.15% Higher — The Dow Jones Index went up by 593 points or 1.15 percent on Thursday to close at 52187 points. The rise was led by Microsoft (15.47%), Goldman Sachs (4.43%) and Amazon (3.66%)."
+    },
     {
       "id": "5017699",
       "time": "2026-07-31 04:34:12",

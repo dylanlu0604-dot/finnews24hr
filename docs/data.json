@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-31 04:35:17",
-  "count": 17882,
+  "updated": "2026-07-31 04:39:13",
+  "count": 17887,
   "items": [
+    {
+      "id": "mkt:019fb4c0-324c-7aab-8f1c-8460000faffb",
+      "time": "2026-07-31 04:38:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei reports U.S. authorities also conducted an exchange-rate review."
+    },
+    {
+      "id": "5017701",
+      "time": "2026-07-31 04:38:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：日本政府與日本央行週四在紐約外匯市場實施匯市干預，買入日元、賣出美元。"
+    },
+    {
+      "id": "mkt:019fb4bf-4eaa-7aab-8f1c-7936edfec534",
+      "time": "2026-07-31 04:37:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Nikkei reports the Japanese government and the Bank of Japan have intervened in the foreign exchange market."
+    },
+    {
+      "id": "5017700",
+      "time": "2026-07-31 04:36:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮釋出關於可回收關鍵礦產的備忘錄。"
+    },
+    {
+      "id": "mkt:019fb4bd-99f3-7aab-8f1c-71a9ae7ca7e7",
+      "time": "2026-07-31 04:35:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Apple (AAPL.O) fiscal 2026 Q3 services revenue was $30.74 bln, below market expectations of $31.22 bln."
+    },
+    {
+      "id": "te:markets:571345",
+      "time": "2026-07-31 04:35:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.15% Higher — The Dow Jones Index went up by 593 points or 1.15 percent on Thursday to close at 52187 points. The rise was led by Microsoft (15.47%), Goldman Sachs (4.43%) and Amazon (3.66%)."
+    },
     {
       "id": "5017699",
       "time": "2026-07-31 04:34:12",
@@ -165110,18 +165174,6 @@
         "市場"
       ],
       "text": "【英特爾營收展望超預期 資料中心支出激增提供支撐】英特爾對當前季度給出意外強勁的營收預測，表明資料中心支出的激增正在助力推動這家晶片製造商期待已久的復甦。該公司週四在宣告中表示，第三季度營收預計為158億至168億美元。即使預測區間下限，也明顯高於分析師平均預計的151億美元。這一業績展望凸顯了英特爾在資料中心客戶群體中取得的進展，這些客戶正迫切尋求晶片以滿足人工智慧算力需求。該領域的營收在上一季度飆升59%，為英特爾整體營收增速的逾兩倍。業績公佈後，英特爾股價盤後上漲約10%。在釋出財報前，該股今年以來已上漲逾一倍，反映出市場對英特爾復甦計劃的信心不斷增強。"
-    },
-    {
-      "id": "te:markets:569384",
-      "time": "2026-07-24 04:35:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 1.04% Lower — The Dow Jones Index decreased 545 points or 1.04 percent on Thursday to close at 51673 points. The decline was led by Alphabet (-6.93%), Amazon (-4.51%) and Salesforce (-3.64%)."
     }
   ]
 }
