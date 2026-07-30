@@ -1,7 +1,108 @@
 {
   "date": "2026-07-30",
-  "count": 1603,
+  "count": 1613,
   "items": [
+    {
+      "id": "5015813",
+      "time": "2026-07-30 11:50:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漢得資訊：重新遞交H股發行上市申請並刊發申請資料】漢得資訊公告，公司此前已披露擬發行H股並在香港聯交所主機板上市的計劃。本次為進展更新，公司已於2026年7月29日向香港聯交所重新遞交本次發行並上市的申請，並於同日在香港聯交所網站刊登了申請材料。該申請材料為草擬版本，所載資料可能適時更新，最終資料以經審計財務報告為準。本次發行上市尚需取得相關監管機構備案、批准或核准，仍存在不確定性。"
+    },
+    {
+      "id": "5015812",
+      "time": "2026-07-30 11:49:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上升6個基點至2.805%。"
+    },
+    {
+      "id": "5015811",
+      "time": "2026-07-30 11:49:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY IT指數上漲1.05%。"
+    },
+    {
+      "id": "mkt:019fb123-ca31-7aab-8f02-7babe705c3d5",
+      "time": "2026-07-30 11:49:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Japan 2-year JGB demand below 12-month average】Demand at Thursday's 2-year JGB auction came in below the 12-month average as markets broadly expect the BOJ to tighten: bid-to-cover 3.63 versus 4.82 at the prior auction and a 12-month average of 3.81. The tail (average price minus lowest accepted price) widened to 0.007 from 0.005 last month, signalling weaker investor interest. Short-term yields have risen amid higher oil and fuel-inflation worries tied to Middle East tensions; the 2-year yield is 1.47%, near this month's 1.52% high. The moves add pressure on the BOJ to raise rates."
+    },
+    {
+      "id": "te:markets:570994",
+      "time": "2026-07-30 11:48:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Slips Despite Fresh US Strikes on Iran — Brent slipped below $90 per barrel on Thursday, paring gains from the previous session even after the US carried out a fresh wave of air strikes against Iran in response to attacks on American forces across the Middle East, raising concerns over further disruptions to global energy supplies. The two sides also remained unable to reach a potential agreement as Tehran insisted on maintaining control of the Strait of Hormuz. The conflict has now expanded beyond Hormuz into the Red Sea, where Iran-backed Houthi rebels in Yemen threatened to blockade Saudi Arabia, prompting Riyadh to join US forces in launching strikes on targets in Iraq linked to Tehran-backed militants. In the US, commercial crude inventories posted their largest draw since mid-June, reinforcing signs of a tightening physical market. The nation’s strategic petroleum reserves also declined for an 18th straight week, falling to their lowest level since 1983."
+    },
+    {
+      "id": "te:markets:570993",
+      "time": "2026-07-30 11:47:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Slips Despite Fresh US Strikes on Iran — Crude oil slipped below $84 per barrel on Thursday, paring gains from the previous session even after the US carried out a fresh wave of air strikes against Iran in response to attacks on American forces across the Middle East, raising concerns over further disruptions to global energy supplies. The two sides also remained unable to reach a potential agreement as Tehran insisted on maintaining control of the Strait of Hormuz. The conflict has now expanded beyond Hormuz into the Red Sea, where Iran-backed Houthi rebels in Yemen threatened to blockade Saudi Arabia, prompting Riyadh to join US forces in launching strikes on targets in Iraq linked to Tehran-backed militants. In the US, commercial crude inventories posted their largest draw since mid-June, reinforcing signs of a tightening physical market. The nation’s strategic petroleum reserves also declined for an 18th straight week, falling to their lowest level since 1983."
+    },
+    {
+      "id": "mkt:019fb122-4f53-7aab-8f02-73e920bca929",
+      "time": "2026-07-30 11:47:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gaolan Co. said it has achieved large-scale commercial deployment of its CDU products, with power ratings covering 0.5MW-1.1MW."
+    },
+    {
+      "id": "mkt:019fb122-06f6-7aab-8f02-6b441d7bcfea",
+      "time": "2026-07-30 11:47:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lihexing said Shanghai Yuliangsheng is a customer, but represents only a small portion of its business."
+    },
+    {
+      "id": "5015810",
+      "time": "2026-07-30 11:46:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率攀升至5.2348%，創2007年年中以來新高。"
+    },
+    {
+      "id": "mkt:019fb121-95e6-7aab-8f02-61bbf4dd7b37",
+      "time": "2026-07-30 11:46:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 30-year Treasury yield rose to 5.2348%, its highest level since mid-2007."
+    },
     {
       "id": "5015809",
       "time": "2026-07-30 11:45:42",
