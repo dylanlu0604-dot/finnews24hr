@@ -1,7 +1,99 @@
 {
   "date": "2026-07-30",
-  "count": 3559,
+  "count": 3569,
   "items": [
+    {
+      "id": "5017162",
+      "time": "2026-07-30 21:10:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "普拉達首席財務官預計，下半年毛利率將與上半年持平。"
+    },
+    {
+      "id": "5017161",
+      "time": "2026-07-30 21:10:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國電力公司(AEP)在電話會議上表示，受德克薩斯州資料中心式合同推動，第二季度簽署了6吉瓦的新負荷承諾。"
+    },
+    {
+      "id": "5017160",
+      "time": "2026-07-30 21:10:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利意法半導體（STM）股價上漲4.61%後被自動暫停交易。"
+    },
+    {
+      "id": "5017159",
+      "time": "2026-07-30 21:10:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國首臺百噸級純電動雙向行駛無人駕駛礦用自卸車投運】7月30日，我國首臺百噸級純電動雙向無人駕駛礦用自卸車AT150，在國家電投集團內蒙古公司南露天煤礦成功投運。該車輛額定載重136噸，集合純電驅動、雙向行駛、無人駕駛三大技術突破，主要應用於露天礦山煤巖運輸，是我國大型露天礦山過載運輸裝備高階化、智慧化、綠色化領域新突破。"
+    },
+    {
+      "id": "5017158",
+      "time": "2026-07-30 21:09:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【奧馳亞集團美股盤前跌超5%】奧馳亞集團美股盤前跌超5%，現報71.06美元。"
+    },
+    {
+      "id": "mkt:019fb324-91dd-7aab-8f14-6ddb8bffd432",
+      "time": "2026-07-30 21:09:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNBC reported that AI investor and former OpenAI Superalignment team member Leopold Aschenbrunner is liquidating positions after incurring losses."
+    },
+    {
+      "id": "mkt:019fb324-8304-7aab-8f14-66a103064f33",
+      "time": "2026-07-30 21:09:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "TSM.N",
+        "Impact bullish",
+        "INTC.O",
+        "Impact bearish",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "【TSMC developing EMIB-like advanced packaging to rival Intel: The Information】The Information, citing two people familiar with the project, reports TSMC (TSM.N) is developing an advanced chip-packaging technology similar to Intel's (INTC.O) Embedded Multi-die Interconnect Bridge (EMIB). With AI driving demand to integrate more processors and high-bandwidth memory into larger multi-die packages, advanced packaging has emerged as a key industry bottleneck. Intel’s EMIB uses small silicon bridges to create high-speed links between processors and memory, enabling larger multi-chip AI designs and helping customers diversify supply chains; it has attracted interest from NVIDIA (NVDA.O). Sources say TSMC engineers internally call the work “EMIB-like” and have discussed the solution with some customers."
+    },
+    {
+      "id": "5017157",
+      "time": "2026-07-30 21:08:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三部門調撥5000件中央救災物資支援甘肅救災救助工作】據央視新聞，7月30日，國家防災減災救災委員會辦公室、應急管理部針對甘肅定西山洪以及隴南等地新一輪強降雨等災害影響，根據救災工作需要，會同國家糧食和物資儲備局向甘肅調撥摺疊床、毛毯、家庭應急包、應急照明燈等5000件中央救災物資，支援地方妥善做好受災群眾安置救助工作。（澎湃）"
+    },
+    {
+      "id": "5017156",
+      "time": "2026-07-30 21:07:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中文線上馬韜：短劇行業正處於“三期疊加”的歷史性拐點】在2026 ChinaJoy短劇創新論壇上，中文線上集團戰略部總經理馬韜表示，短劇行業正處於技術、經濟、地緣“三期疊加”的歷史性拐點：AI漫劇製作成本較傳統動畫下降超七成、效率提升超八成；國內市場進入存量博弈，海外市場加速重構，2025年海外AI漫劇市場規模同比增長超6倍。（上證報）"
+    },
+    {
+      "id": "5017155",
+      "time": "2026-07-30 21:06:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長同塞普勒斯外長通電話，強調反對利用塞領土對伊朗發動襲擊】伊朗外交部長阿拉格齊同塞普勒斯外交部長孔博斯通電話，雙方就雙邊關係及地區最新形勢交換了意見。此次通話由塞普勒斯方面提議舉行。阿拉格齊在通話中強調，必須防止衝突各方利用部署在塞普勒斯境內的外國軍事基地，對伊朗實施任何侵略性行動。他指出，根據聯合國大會關於侵略定義的決議，允許一國領土被用於策劃和實施針對他國的侵略行動，即構成參與侵略行為。孔博斯在通話中重申，塞普勒斯堅定恪守《聯合國憲章》宗旨和原則及國際法準則。他表示，塞方已同英國政府進行溝通並獲得明確保證，部署在塞普勒斯境內的外國軍事基地不會被用於針對包括伊朗在內的任何國家採取軍事行動。"
+    },
     {
       "id": "5017154",
       "time": "2026-07-30 21:06:00",

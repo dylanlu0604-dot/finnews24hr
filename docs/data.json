@@ -1,7 +1,99 @@
 {
-  "updated": "2026-07-30 21:07:39",
-  "count": 17835,
+  "updated": "2026-07-30 21:11:47",
+  "count": 17824,
   "items": [
+    {
+      "id": "5017162",
+      "time": "2026-07-30 21:10:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "普拉達首席財務官預計，下半年毛利率將與上半年持平。"
+    },
+    {
+      "id": "5017161",
+      "time": "2026-07-30 21:10:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國電力公司(AEP)在電話會議上表示，受德克薩斯州資料中心式合同推動，第二季度簽署了6吉瓦的新負荷承諾。"
+    },
+    {
+      "id": "5017160",
+      "time": "2026-07-30 21:10:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利意法半導體（STM）股價上漲4.61%後被自動暫停交易。"
+    },
+    {
+      "id": "5017159",
+      "time": "2026-07-30 21:10:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國首臺百噸級純電動雙向行駛無人駕駛礦用自卸車投運】7月30日，我國首臺百噸級純電動雙向無人駕駛礦用自卸車AT150，在國家電投集團內蒙古公司南露天煤礦成功投運。該車輛額定載重136噸，集合純電驅動、雙向行駛、無人駕駛三大技術突破，主要應用於露天礦山煤巖運輸，是我國大型露天礦山過載運輸裝備高階化、智慧化、綠色化領域新突破。"
+    },
+    {
+      "id": "5017158",
+      "time": "2026-07-30 21:09:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【奧馳亞集團美股盤前跌超5%】奧馳亞集團美股盤前跌超5%，現報71.06美元。"
+    },
+    {
+      "id": "mkt:019fb324-91dd-7aab-8f14-6ddb8bffd432",
+      "time": "2026-07-30 21:09:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNBC reported that AI investor and former OpenAI Superalignment team member Leopold Aschenbrunner is liquidating positions after incurring losses."
+    },
+    {
+      "id": "mkt:019fb324-8304-7aab-8f14-66a103064f33",
+      "time": "2026-07-30 21:09:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "TSM.N",
+        "Impact bullish",
+        "INTC.O",
+        "Impact bearish",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "【TSMC developing EMIB-like advanced packaging to rival Intel: The Information】The Information, citing two people familiar with the project, reports TSMC (TSM.N) is developing an advanced chip-packaging technology similar to Intel's (INTC.O) Embedded Multi-die Interconnect Bridge (EMIB). With AI driving demand to integrate more processors and high-bandwidth memory into larger multi-die packages, advanced packaging has emerged as a key industry bottleneck. Intel’s EMIB uses small silicon bridges to create high-speed links between processors and memory, enabling larger multi-chip AI designs and helping customers diversify supply chains; it has attracted interest from NVIDIA (NVDA.O). Sources say TSMC engineers internally call the work “EMIB-like” and have discussed the solution with some customers."
+    },
+    {
+      "id": "5017157",
+      "time": "2026-07-30 21:08:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三部門調撥5000件中央救災物資支援甘肅救災救助工作】據央視新聞，7月30日，國家防災減災救災委員會辦公室、應急管理部針對甘肅定西山洪以及隴南等地新一輪強降雨等災害影響，根據救災工作需要，會同國家糧食和物資儲備局向甘肅調撥摺疊床、毛毯、家庭應急包、應急照明燈等5000件中央救災物資，支援地方妥善做好受災群眾安置救助工作。（澎湃）"
+    },
+    {
+      "id": "5017156",
+      "time": "2026-07-30 21:07:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中文線上馬韜：短劇行業正處於“三期疊加”的歷史性拐點】在2026 ChinaJoy短劇創新論壇上，中文線上集團戰略部總經理馬韜表示，短劇行業正處於技術、經濟、地緣“三期疊加”的歷史性拐點：AI漫劇製作成本較傳統動畫下降超七成、效率提升超八成；國內市場進入存量博弈，海外市場加速重構，2025年海外AI漫劇市場規模同比增長超6倍。（上證報）"
+    },
+    {
+      "id": "5017155",
+      "time": "2026-07-30 21:06:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長同塞普勒斯外長通電話，強調反對利用塞領土對伊朗發動襲擊】伊朗外交部長阿拉格齊同塞普勒斯外交部長孔博斯通電話，雙方就雙邊關係及地區最新形勢交換了意見。此次通話由塞普勒斯方面提議舉行。阿拉格齊在通話中強調，必須防止衝突各方利用部署在塞普勒斯境內的外國軍事基地，對伊朗實施任何侵略性行動。他指出，根據聯合國大會關於侵略定義的決議，允許一國領土被用於策劃和實施針對他國的侵略行動，即構成參與侵略行為。孔博斯在通話中重申，塞普勒斯堅定恪守《聯合國憲章》宗旨和原則及國際法準則。他表示，塞方已同英國政府進行溝通並獲得明確保證，部署在塞普勒斯境內的外國軍事基地不會被用於針對包括伊朗在內的任何國家採取軍事行動。"
+    },
     {
       "id": "5017154",
       "time": "2026-07-30 21:06:00",
@@ -164544,226 +164636,6 @@
         "XAUUSD"
       ],
       "text": "ECB President Lagarde said a corporate telephone survey has not shown second‑round effects."
-    },
-    {
-      "id": "mkt:019f8f1a-72a7-7aab-8e6b-832edf936f8f",
-      "time": "2026-07-23 21:11:42",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "ECB President Lagarde said she has not yet seen any second-round effects."
-    },
-    {
-      "id": "5004914",
-      "time": "2026-07-23 21:11:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "拉加德：我們將高度警惕通脹的第二輪傳導效應， 目前尚未觀察到通脹第二輪傳導效應。"
-    },
-    {
-      "id": "mkt:019f8f1a-441d-7aab-8e6b-7c950004b180",
-      "time": "2026-07-23 21:11:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Capital Economics: Gulf recovery faces setback as Iranian strikes raise downside risk】Capital Economics assistant economist Nicolas Crittenden said a new round of Iranian strikes could derail an initial Gulf region economic recovery. The escalation risks reversing gains after last month’s US‑Iran ceasefire eased disruptions to regional trade and energy supplies. June private‑sector activity improved across the Gulf, led by Saudi Arabia; exports from key trading partners rose and flight volumes recovered to near pre‑conflict levels, signalling a rebound in tourism and logistics. Renewed disruption to traffic through the Strait of Hormuz could stall the recovery, and downside risks are mounting against Capital Economics’ forecast of roughly a 6% GDP contraction in the Gulf this year."
-    },
-    {
-      "id": "te:markets:569315",
-      "time": "2026-07-23 21:11:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Rallies Toward $100 — Brent crude oil surged more than 6% toward $100 per barrel on Thursday, the highest level since May 22, as escalating geopolitical tensions intensified concerns over global supply. Iran-backed Houthi militants claimed responsibility for attacks on two Saudi oil tankers in the Red Sea, saying the strikes were aimed at enforcing a newly announced blockade of Saudi ports. The attacks raised fears of further disruptions to regional shipping, with buyers in Asia considering longer and more expensive alternative routes. Supply risks were compounded by continued attacks on vessels in the Strait of Hormuz, renewed US strikes on Iran, and Kazakhstan's decision to halt crude exports through the Caspian Pipeline Consortium terminal after drone attacks. Meanwhile, Washington and Tehran continued to rule out near-term peace talks, reinforcing expectations that tensions could keep oil prices elevated."
-    },
-    {
-      "id": "mkt:019f8f1a-143c-7aab-8e6b-77dd4614181a",
-      "time": "2026-07-23 21:11:18",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish",
-        "GM.O",
-        "F.O"
-      ],
-      "text": "Ford Motor Co (F.N) said Apple Maps will provide the navigation experience for General Motors' electric-vehicle platform."
-    },
-    {
-      "id": "mkt:019f8f19-c01f-7aab-8e6b-68d5f49e4194",
-      "time": "2026-07-23 21:10:57",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "ECB President Lagarde: paying close attention to risks of any second-round effects."
-    },
-    {
-      "id": "5004913",
-      "time": "2026-07-23 21:10:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "拉加德：就風險評估而言，已回到6月時的狀態。"
-    },
-    {
-      "id": "5004912",
-      "time": "2026-07-23 21:10:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "拉加德：九月份會有更多資料公佈。"
-    },
-    {
-      "id": "te:economy:569313",
-      "time": "2026-07-23 21:10:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Belgium",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Belgium 10Y Bond Yield Hits 14-year High — Belgium 10 Year Government Bond Yield increased to 3.78%, the highest since March 2012. Over the past 4 weeks, Belgium 10Y Bond Yield gained 34.24 basis points, and in the last 12 months, it increased 52.30 basis points."
-    },
-    {
-      "id": "te:markets:569312",
-      "time": "2026-07-23 21:10:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Extends Gains for 5th Session — Crude oil surged 5% to above $91 per barrel on Thursday, extending gains for a fifth consecutive session to the highest level since June 8, as escalating geopolitical tensions intensified concerns over global supply. Iran-backed Houthi militants claimed responsibility for attacks on two Saudi oil tankers in the Red Sea, saying the strikes were aimed at enforcing a newly announced blockade of Saudi ports. The attacks raised fears of further disruptions to regional shipping, with buyers in Asia considering longer and more expensive alternative routes. Supply risks were compounded by continued attacks on vessels in the Strait of Hormuz, renewed US strikes on Iran, and Kazakhstan's decision to halt crude exports through the Caspian Pipeline Consortium terminal after drone attacks. Meanwhile, Washington and Tehran continued to rule out near-term peace talks, reinforcing expectations that tensions could keep oil prices elevated."
-    },
-    {
-      "id": "mkt:019f8f18-e62d-7aab-8e6b-63b83ffe02e3",
-      "time": "2026-07-23 21:10:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB President Lagarde said a large volume of new data will arrive ahead of the September meeting."
-    },
-    {
-      "id": "5004911",
-      "time": "2026-07-23 21:09:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【布油期貨自5月以來首次突破100美元/桶】布倫特原油期貨上漲至100美元/桶，為兩個月來首次。此前，葉門胡塞武裝宣稱襲擊了兩艘在紅海航行的沙特油輪，加劇了中東衝突，並威脅進一步中斷石油供應。葉門胡塞武裝的襲擊開闢了地區衝突的新戰線，在此之前，由於美伊衝突，霍爾木茲海峽的交通已陷入困境。自衝突爆發以來，位於紅海的曼德海峽成為石油出口的生命線。近日，美伊雙方均淡化了和平談判的可能性，使長期敵對局勢的出現成為一種可能。"
-    },
-    {
-      "id": "mkt:019f8f18-6a35-7aab-8e6b-5df9be02c13c",
-      "time": "2026-07-23 21:09:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "【Brent crude futures top $100/bbl for first time since May】Brent crude futures rose to $100/bbl, the highest since May, after Yemen’s Houthi militia said it attacked two Saudi oil tankers in the Red Sea, escalating regional tensions and raising the risk of further supply disruption. The Houthi strikes open a new front; shipping through the Strait of Hormuz had already been strained by US‑Iran clashes and, since the conflict began, the Bab el‑Mandeb has become a critical oil export route. Both the US and Iran have downplayed prospects for peace talks, increasing the risk of prolonged hostilities."
-    },
-    {
-      "id": "5004910",
-      "time": "2026-07-23 21:09:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "拉加德：有人詢問我們是否應該考慮加息。"
-    },
-    {
-      "id": "mkt:019f8f18-2092-7aab-8e6b-526b04d086a5",
-      "time": "2026-07-23 21:09:10",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "ECB President Lagarde said the ECB is fully prepared to wait."
-    },
-    {
-      "id": "mkt:019f8f17-f8b9-7aab-8e6b-4cfa9480f140",
-      "time": "2026-07-23 21:09:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates"
-      ],
-      "text": "ECB President Lagarde said some have asked whether the central bank should consider raising interest rates."
-    },
-    {
-      "id": "te:markets:569311",
-      "time": "2026-07-23 21:08:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Strengthens — The dollar index appreciated to 101.3 on Thursday, the highest level in about three weeks, as surging oil prices and escalating geopolitical tensions fueled expectations that the Fed will need to raise interest rates. Markets are now pricing in a more than 33% chance of a rate hike next week, while the probability of a September increase has climbed above 78%, up from 61% a day earlier. Hostilities in the Middle East continue to intensify, with no signs of a near-term resolution. As a result, oil prices have surged nearly 31% above their pre-conflict levels seen earlier this month. Although inflationary pressures have remained relatively contained so far, the latest spike in energy prices has renewed concerns that higher oil costs could feed into broader inflation, prompting the Fed to maintain a tighter monetary policy stance. The greenback advanced against the euro after the ECB left interest rates unchanged, as expected, while also posting gains against the yen and the pound."
-    },
-    {
-      "id": "5004909",
-      "time": "2026-07-23 21:08:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌2%，現報4047.05美元/盎司。"
-    },
-    {
-      "id": "mkt:019f8f17-7765-7aab-8e6b-45cd81567657",
-      "time": "2026-07-23 21:08:27",
-      "tags": [
-        "MKT News",
-        "EURUSD"
-      ],
-      "text": "ECB President Lagarde said the decision was adopted unanimously."
-    },
-    {
-      "id": "5004908",
-      "time": "2026-07-23 21:08:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行行長拉加德：辛特拉會議上關於風險更加平衡的表述已被刪除。"
-    },
-    {
-      "id": "mkt:019f8f17-6048-7aab-8e6b-3da2ba6d09d3",
-      "time": "2026-07-23 21:08:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB President LAGARDE said wording at the Sintra meeting that risks were more balanced has been removed."
     }
   ]
 }
