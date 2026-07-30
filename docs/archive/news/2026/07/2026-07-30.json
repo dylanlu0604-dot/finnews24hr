@@ -1,7 +1,198 @@
 {
   "date": "2026-07-30",
-  "count": 3626,
+  "count": 3645,
   "items": [
+    {
+      "id": "mkt:019fb33c-8115-7aab-8f15-1478a06f7853",
+      "time": "2026-07-30 21:35:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "ARM.O",
+        "Impact bullish"
+      ],
+      "text": "Arm (ARM.O) shares rose about 12% after the company said it expects second-quarter revenue and adjusted profit to exceed expectations."
+    },
+    {
+      "id": "mkt:019fb33c-3b8a-7aab-8f15-09fce752e6ee",
+      "time": "2026-07-30 21:34:56",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Al Arabiya TV, citing the Gaza Peace Committee, reports talks with Hamas on disarmament are advancing; the proposed plan would include destroying tunnels and weapons stockpiles and removing Hamas from any administrative role in Gaza."
+    },
+    {
+      "id": "5017214",
+      "time": "2026-07-30 21:34:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "微軟股價有望創下2020年3月以來最大單日百分比漲幅，最新上漲13.1%。"
+    },
+    {
+      "id": "5017213",
+      "time": "2026-07-30 21:34:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "恐慌指數VIX日內跌幅達10.0%，報18.56。"
+    },
+    {
+      "id": "5017212",
+      "time": "2026-07-30 21:33:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "泛林集團股價上漲19.4%，此前該公司公佈第一季度營收預期高於市場預估。"
+    },
+    {
+      "id": "mkt:019fb33b-1374-7aab-8f15-00f98eb6efda",
+      "time": "2026-07-30 21:33:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities opened higher on Thursday, July 30: Dow Jones Industrial Average up 347.32 pts (+0.67%) at 51,941.46; S&P 500 up 62.36 pts (+0.85%) at 7,378.76; Nasdaq Composite up 396.06 pts (+1.62%) at 24,839.00."
+    },
+    {
+      "id": "mkt:019fb33a-c8b2-7aab-8f14-f9bf39047bd3",
+      "time": "2026-07-30 21:33:21",
+      "tags": [
+        "MKT News",
+        "MA.N",
+        "Impact bullish"
+      ],
+      "text": "Mastercard (MA.N) shares rose 3% after second-quarter profit beat expectations."
+    },
+    {
+      "id": "5017211",
+      "time": "2026-07-30 21:33:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "費城半導體指數開盤上漲6.1%。"
+    },
+    {
+      "id": "5017210",
+      "time": "2026-07-30 21:33:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "星巴克股價上漲1.2%，此前該公司上調年度銷售額及利潤預測。"
+    },
+    {
+      "id": "mkt:019fb33a-874c-7aab-8f14-f33d4e330e7e",
+      "time": "2026-07-30 21:33:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bearish"
+      ],
+      "text": "Qualcomm (QCOM.O) fell 4.2% after saying it expects Q4 profit to fall short of estimates and that revenue from Apple will decline at an accelerated pace."
+    },
+    {
+      "id": "5017209",
+      "time": "2026-07-30 21:32:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "卡駱馳股價下跌10%，因該公司預計第三季度營收基本持平。"
+    },
+    {
+      "id": "5017208",
+      "time": "2026-07-30 21:32:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "微軟股價上漲12.3%，因資本支出預期放緩、雲業務展望優於預期。"
+    },
+    {
+      "id": "5017207",
+      "time": "2026-07-30 21:32:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "FORTINET股價開盤上漲8.7%，此前該公司上調了全年營收預期。"
+    },
+    {
+      "id": "5017206",
+      "time": "2026-07-30 21:32:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "洲際交易所將以57億美元收購MarketAxess，該公司股價上漲29%。"
+    },
+    {
+      "id": "mkt:019fb339-c762-7aab-8f14-e9bfd44e966b",
+      "time": "2026-07-30 21:32:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "UK Prime Minister Burnham told President Trump he will take a pragmatic approach to North Sea affairs; he said when people face hardship existing resources cannot be ignored."
+    },
+    {
+      "id": "5017205",
+      "time": "2026-07-30 21:31:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數開盤上漲1%，納斯達克100指數上漲2%。"
+    },
+    {
+      "id": "5017204",
+      "time": "2026-07-30 21:31:46",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "摩羯座治療公司股價下跌48.5%，此前美國食品藥品監督管理局專家小組投票否決了該公司針對杜氏肌營養不良症引發的心臟病的治療藥物。"
+    },
+    {
+      "id": "mkt:019fb339-49e5-7aab-8f14-e22570ee3b5b",
+      "time": "2026-07-30 21:31:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Meta Platforms (META.O) fell about 9% to a four-month low after reporting a sharp decline in Q2 cash flow."
+    },
+    {
+      "id": "te:markets:571281",
+      "time": "2026-07-30 21:31:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Altria Stock Price Hits 5-week Low — Altria shares decreased to 69.43 USD, the lowest since June 2026. Over the past 4 weeks, Altria lost 2.68%, and in the last 12 months, it increased 13.85%."
+    },
     {
       "id": "5017203",
       "time": "2026-07-30 21:31:15",
