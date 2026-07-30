@@ -1,7 +1,68 @@
 {
   "date": "2026-07-31",
-  "count": 523,
+  "count": 528,
   "items": [
+    {
+      "id": "te:markets:571355",
+      "time": "2026-07-31 06:40:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rice Gains by 1.89% — Top commodity gainers are Rice (1.89%) and Cotton (1.49%). Biggest losers are Rubber (-1.66%), Lumber (-1.42%) and Cocoa (-1.29%)."
+    },
+    {
+      "id": "mkt:019fb52e-4aab-7aab-8f1e-5261dbaf815d",
+      "time": "2026-07-31 06:38:57",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "USD/JPY briefly fell just over 10 pips to 159.54."
+    },
+    {
+      "id": "mkt:019fb52d-e190-7aab-8f1e-4fca2e05b7e0",
+      "time": "2026-07-31 06:38:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【Microsoft market value jumps $450 bln in biggest one-day US stock gain; shares up 15.5% after earnings】Microsoft (MSFT.O) closed up 15.5% on Thursday, its fourth-largest single-day percentage gain, after investors welcomed stronger-than-expected earnings. Data analysis shows the rally added roughly $450 bln to Microsoft’s market capitalization, exceeding NVIDIA’s $440 bln one-day gain on April 9, 2025, and marking the largest single-day market-cap increase for a U.S. stock. The move narrowed Microsoft’s year-to-date decline from about 19.3% at Wednesday’s close to 5.8% and interrupted recent weakness in AI-related names."
+    },
+    {
+      "id": "te:economy:571354",
+      "time": "2026-07-31 06:38:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "ANZ Roy Morgan Consumer Confidence Index",
+        "Importance 1"
+      ],
+      "text": "New Zealand Consumer Mood Rises to 5-Month High — The ANZ-Roy Morgan Consumer Confidence Index increased by 8 points to 99.3 in July 2026, marking the highest level since February, though it remained 19 points below its January peak. The share of households seeing it as a good time to buy a major household item, a key retail indicator, climbed 4 points to -7. Two-year inflation expectations were unchanged at 4.6%, while house price expectations dropped to 2.6% from 3.0%."
+    },
+    {
+      "id": "mkt:019fb52d-5fb8-7aab-8f1e-443228a3a5d8",
+      "time": "2026-07-31 06:37:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the yen has diverged significantly from its equilibrium value and is severely undervalued, and he is not concerned about the yen strengthening again against the dollar, noting the currency is very cheap and Japan's economy is performing well."
+    },
     {
       "id": "5017779",
       "time": "2026-07-31 06:36:15",
