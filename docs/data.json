@@ -1,7 +1,81 @@
 {
-  "updated": "2026-07-31 00:24:02",
-  "count": 17862,
+  "updated": "2026-07-31 00:27:57",
+  "count": 17866,
   "items": [
+    {
+      "id": "mkt:019fb3da-320e-7aab-8f18-eedbcea68bae",
+      "time": "2026-07-31 00:27:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia's defense ministry says countries wishing to join the maritime defense alliance may apply at any time."
+    },
+    {
+      "id": "5017502",
+      "time": "2026-07-31 00:26:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利公用事業企業 A2A計劃在佈雷西亞建設一座 20 兆瓦資料中心，並在米蘭附近的卡薩諾達達打造一座 80 兆瓦資料中心。"
+    },
+    {
+      "id": "mkt:019fb3d8-96a5-7aab-8f18-e5bfa8d926fd",
+      "time": "2026-07-31 00:25:43",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi defense ministry says 14 countries, including Turkey, Pakistan, Egypt, Sudan and Djibouti, issued a joint statement backing a proposed multinational maritime defense alliance."
+    },
+    {
+      "id": "te:markets:571323",
+      "time": "2026-07-31 00:25:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Higher — The FTSE MIB rose 1.3% to 52,104 on Thursday, supported by gains in financial and technology stocks, in addition to strong GDP data. AI infrastructure shares across the globe rebounded from yesterday's selloff after Samsung posted results, with STMicroelectronis jumping 6.4% and Prysmian gaining 4.5%. Financials also rose amid more strong earnings for European bank holding companies. Azimut gained 3.9%, and UniCredit, Banco BPM and BPER Banca all advanced more than 2%. Energy stocks continued to outperform, with Saipem up 3.7% and Eni gaining 1.4%, as oil prices remained elevated despite retreating during the session. Broader shares were also supported by strong GDP data. The Italian economy expanded by an annualized 0.8% in H1, firmly above the bank of Italy forecasts of 0.5% for 2026. On the downside, Stellantis dropped 4.2% after reporting weaker-than-expected second-quarter results."
+    },
+    {
+      "id": "5017501",
+      "time": "2026-07-31 00:25:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特國防部表示，包括土耳其、巴基斯坦、埃及、蘇丹和吉布提在內的14個國家已釋出聯合宣告，支援擬議組建的多國海上防禦聯盟。"
+    },
+    {
+      "id": "5017500",
+      "time": "2026-07-31 00:25:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶潔等企業或將面臨強效減充血劑相關訴訟。"
+    },
+    {
+      "id": "5017499",
+      "time": "2026-07-31 00:24:45",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日元急漲 引發日本再度干預匯市猜測】日元兌美元一度飆升逾3%，創2023年12月以來最大漲幅，引發市場猜測日本當局再次出手干預匯市。週四紐約交易時段，日元兌美元一度上漲3.3%，升至157.98日元兌1美元，創2023年12月以來最大盤中漲幅。當時，日本央行行長植田和男曾示意，日本央行已準備退出當時全球最後一個負利率制度。紐約梅隆銀行高階策略師Geoffrey Yu表示,“如此大幅的波動強烈顯示，日本當局很可能進行了匯市干預。不過，干預效果仍有待觀察。”日本最高外匯事務官員三村淳本月早些時候接受採訪時，並未重申日本財務省有關匯率政策的一貫表態，包括“將隨時準備採取果斷行動”這一通常被視為暗示可能干預匯市的措辭。"
+    },
+    {
+      "id": "5017498",
+      "time": "2026-07-31 00:24:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源營銷奈及利亞公司：第二季度營收為4439.9億奈拉，稅前利潤為67.1億奈拉。"
+    },
     {
       "id": "mkt:019fb3d5-ed8b-7aab-8f18-dd6179a66aa6",
       "time": "2026-07-31 00:22:49",
@@ -164912,40 +164986,6 @@
         "國際"
       ],
       "text": "【歐洲央行警告中東戰事將導致通脹持續居高】歐洲央行行長拉加德23日表示，自中東戰事爆發以來，能源價格上漲及其對商品和服務價格的影響，很可能導致歐元區通脹率在2027年上半年之前持續高於目標水平。歐洲央行當天召開貨幣政策會議，決定將歐元區三大關鍵利率歐元區存款機制利率、主要再融資利率和邊際借貸利率分別維持在2.25%、2.40%、2.65%不變。歐洲央行釋出新聞公報說，儘管能源價格波動劇烈，但其走勢總體仍與6月預測中的基本判斷相符。目前能源價格仍明顯高於中東戰事爆發前水平，能源價格衝擊對通脹的影響尚未完全顯現，不確定性仍然較高。歐洲央行將繼續以確保歐元區中期通脹穩定在2%為目標，透過分析資料逐次在會議上評估貨幣政策，不會預先承諾特定利率路徑。拉加德在會後的新聞釋出會上說，儘管中東衝突持續拖累經濟，但歐元區第二季度經濟活動有所改善。歐元區近期經濟增長仍將保持溫和態勢，支撐中期增長的基礎依然穩固。（央視新聞）"
-    },
-    {
-      "id": "5005191",
-      "time": "2026-07-24 00:27:17",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【德國兩年期國債收益率在歐洲央行決議日漲超4個基點，投資者關注國際油價漲勢】週四（7月23日）歐市尾盤，德國10年期國債收益率漲3.2個基點，報3.203%，全天處於上漲狀、整體呈現出長尾N形走勢，日內交投於3.180%-3.218%區間，北京時間18:54重新整理日低以來持續走高。兩年期德債收益率漲4.3個基點，報2.885%，日內交投於2.854%-2.906%區間，歐洲央行在20:15宣佈按兵不動時下挫大約2個基點；30年期德債收益率漲1.1個基點，報3.665%。2/10年期德債收益率利差跌1.138個基點，報+31.593個基點。法國10年期國債收益率漲4.8個基點，報4.017%；兩年期法債收益率漲5.3個基點，30年期法債收益率漲3.0個基點。義大利10年期國債收益率漲5.7個基點，報4.049%。西班牙10年期國債收益率漲4.2個基點，報3.674%。希臘10年期國債收益率漲4.8個基點，報3.948%。"
-    },
-    {
-      "id": "5005190",
-      "time": "2026-07-24 00:26:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "ALLEGION股價延續漲勢，最新上漲12.8%。"
-    },
-    {
-      "id": "5005189",
-      "time": "2026-07-24 00:25:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "RBC Capital維持特斯拉目標股價500美元/股。"
-    },
-    {
-      "id": "5005188",
-      "time": "2026-07-24 00:25:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "道瓊斯指數幾乎大跌400點，其中Alphabet A類股與亞馬遜股價領跌。"
     }
   ]
 }

@@ -1,7 +1,81 @@
 {
   "date": "2026-07-31",
-  "count": 45,
+  "count": 53,
   "items": [
+    {
+      "id": "mkt:019fb3da-320e-7aab-8f18-eedbcea68bae",
+      "time": "2026-07-31 00:27:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia's defense ministry says countries wishing to join the maritime defense alliance may apply at any time."
+    },
+    {
+      "id": "5017502",
+      "time": "2026-07-31 00:26:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利公用事業企業 A2A計劃在佈雷西亞建設一座 20 兆瓦資料中心，並在米蘭附近的卡薩諾達達打造一座 80 兆瓦資料中心。"
+    },
+    {
+      "id": "mkt:019fb3d8-96a5-7aab-8f18-e5bfa8d926fd",
+      "time": "2026-07-31 00:25:43",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi defense ministry says 14 countries, including Turkey, Pakistan, Egypt, Sudan and Djibouti, issued a joint statement backing a proposed multinational maritime defense alliance."
+    },
+    {
+      "id": "te:markets:571323",
+      "time": "2026-07-31 00:25:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Higher — The FTSE MIB rose 1.3% to 52,104 on Thursday, supported by gains in financial and technology stocks, in addition to strong GDP data. AI infrastructure shares across the globe rebounded from yesterday's selloff after Samsung posted results, with STMicroelectronis jumping 6.4% and Prysmian gaining 4.5%. Financials also rose amid more strong earnings for European bank holding companies. Azimut gained 3.9%, and UniCredit, Banco BPM and BPER Banca all advanced more than 2%. Energy stocks continued to outperform, with Saipem up 3.7% and Eni gaining 1.4%, as oil prices remained elevated despite retreating during the session. Broader shares were also supported by strong GDP data. The Italian economy expanded by an annualized 0.8% in H1, firmly above the bank of Italy forecasts of 0.5% for 2026. On the downside, Stellantis dropped 4.2% after reporting weaker-than-expected second-quarter results."
+    },
+    {
+      "id": "5017501",
+      "time": "2026-07-31 00:25:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特國防部表示，包括土耳其、巴基斯坦、埃及、蘇丹和吉布提在內的14個國家已釋出聯合宣告，支援擬議組建的多國海上防禦聯盟。"
+    },
+    {
+      "id": "5017500",
+      "time": "2026-07-31 00:25:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶潔等企業或將面臨強效減充血劑相關訴訟。"
+    },
+    {
+      "id": "5017499",
+      "time": "2026-07-31 00:24:45",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日元急漲 引發日本再度干預匯市猜測】日元兌美元一度飆升逾3%，創2023年12月以來最大漲幅，引發市場猜測日本當局再次出手干預匯市。週四紐約交易時段，日元兌美元一度上漲3.3%，升至157.98日元兌1美元，創2023年12月以來最大盤中漲幅。當時，日本央行行長植田和男曾示意，日本央行已準備退出當時全球最後一個負利率制度。紐約梅隆銀行高階策略師Geoffrey Yu表示,“如此大幅的波動強烈顯示，日本當局很可能進行了匯市干預。不過，干預效果仍有待觀察。”日本最高外匯事務官員三村淳本月早些時候接受採訪時，並未重申日本財務省有關匯率政策的一貫表態，包括“將隨時準備採取果斷行動”這一通常被視為暗示可能干預匯市的措辭。"
+    },
+    {
+      "id": "5017498",
+      "time": "2026-07-31 00:24:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源營銷奈及利亞公司：第二季度營收為4439.9億奈拉，稅前利潤為67.1億奈拉。"
+    },
     {
       "id": "mkt:019fb3d5-ed8b-7aab-8f18-dd6179a66aa6",
       "time": "2026-07-31 00:22:49",
