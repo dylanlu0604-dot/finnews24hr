@@ -1,7 +1,73 @@
 {
   "date": "2026-07-30",
-  "count": 1978,
+  "count": 1985,
   "items": [
+    {
+      "id": "5016052",
+      "time": "2026-07-30 14:52:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【中際旭創成交超585億元 重新整理成交額歷史天量】中際旭創成交額超585億元，重新整理此前在2026年6月5日創出的583.2億元的成交額歷史天量。該股盤中一度跌超16%，隨後跌幅有所收窄，現跌超7%。"
+    },
+    {
+      "id": "te:markets:571056",
+      "time": "2026-07-30 14:52:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Nikkei Gains as Chip Stocks Rebound — The Nikkei 225 Index climbed 0.71% to close at 61,867 on Thursday, snapping a two-session losing streak as semiconductor shares rallied after Advantest issued a stronger-than-expected profit outlook. Shares of the chip-testing equipment maker jumped more than 10% after lifting its annual operating profit forecast by 35%, supported by robust demand driven by artificial intelligence spending. The rally spread across other technology and AI-related companies, including Kioxia Holdings (2.7%), Tokyo Electron (4.3%), Murata Manufacturing (2.3%), Ibiden Co (1.2%), and Hitachi (6.1%). Meanwhile, SoftBank Group declined 2.7% after its subsidiary Arm Holdings dropped nearly 6% in after-hours trading on a sales forecast that fell short of investor expectations. Financial and consumer-related stocks also lagged the broader market, with losses from Mitsubishi UFJ (-3.5%), Toyota Motor (-2.7%), and Fast Retailing (-2.5%)."
+    },
+    {
+      "id": "5016051",
+      "time": "2026-07-30 14:52:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國BAE系統公司執行長表示：對我們新一代CCA無人戰鬥機感興趣的國家，既有現有的“颱風”戰鬥機合作方，也包括一些歷史上未曾與我們在作戰航空領域建立合作關係的國家。"
+    },
+    {
+      "id": "5016050",
+      "time": "2026-07-30 14:51:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米徐潔雲：小米汽車沒有所謂F碼，也不容許任何所謂“內部工作人員”違規操作】7月30日，小米集團董事長特別助理、戰略市場部副總經理徐潔雲在社交平臺發文提醒，請勿相信任何號稱能轉賣的騙子。小米汽車沒有所謂F碼，也不容許任何所謂“內部工作人員”違規操作。如果有人自稱所謂“內部人士”，請將其身份資訊告知我們，我們將徹查到底。"
+    },
+    {
+      "id": "mkt:019fb1c9-c5a9-7aab-8f06-af8934a30869",
+      "time": "2026-07-30 14:50:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Israeli chief of staff threatens to expand operations in southern Lebanon】Al Jazeera reported Israeli Chief of General Staff Eyal Zamir said during an inspection of occupied areas in southern Lebanon that Israel will not withdraw from those areas until long-term security is ensured. He said Israeli forces have taken control of some areas, are clearing terrorist infrastructure, and will expand operations into additional areas if necessary."
+    },
+    {
+      "id": "mkt:019fb1c9-8c62-7aab-8f06-a594c842c612",
+      "time": "2026-07-30 14:50:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Switzerland's July KOF leading indicator due in 10 minutes."
+    },
+    {
+      "id": "mkt:019fb1c9-2dde-7aab-8f06-9d90ffa70de8",
+      "time": "2026-07-30 14:49:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fujian 1H aggregate social financing rises 580.04 bln yuan】China’s Fujian province reported 1H aggregate social financing increased by 580.04 bln yuan. At end-June, financial institutions’ RMB and foreign-currency loan balances stood at 9.1 tln yuan, up 2.9% YoY, while deposit balances were 9.6 tln yuan, up 7.8% YoY."
+    },
     {
       "id": "5016049",
       "time": "2026-07-30 14:49:10",
