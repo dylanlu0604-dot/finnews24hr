@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-31 03:16:29",
+  "updated": "2026-07-31 03:20:19",
   "count": 17878,
   "items": [
+    {
+      "id": "5017662",
+      "time": "2026-07-31 03:19:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "現貨鉑金漲超 3%，報 1660.19 美元 / 盎司。"
+    },
+    {
+      "id": "5017661",
+      "time": "2026-07-31 03:19:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "ICI：美國貨幣市場基金資產規模回落至 7.85 萬億美元。"
+    },
+    {
+      "id": "mkt:019fb474-d5c0-7aab-8f1b-5d97893eff64",
+      "time": "2026-07-31 03:16:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium rises more than 3% to $1,311.6/oz."
+    },
     {
       "id": "5017660",
       "time": "2026-07-31 03:15:11",
@@ -165031,36 +165057,6 @@
         "市場"
       ],
       "text": "【特斯拉股價重挫 空頭有望單日賬面獲利逾40億美元】特斯拉股價週四大幅下挫，做空者有望大賺一筆。這家由埃隆·馬斯克執掌的電動車製造商股價週四一度下跌15%，創逾一年來最大盤中跌幅。此前，該公司第二季度利潤不及預期，再度引發市場對其人工智慧(AI)和機器人雄心的擔憂。S3 Partners董事總經理Ihor Dusaniwsky表示，這輪拋售使得押注特斯拉股價下跌的投資者有望獲得約41.2億美元的單日盯市(mark-to-market)利潤。S3資料顯示，特斯拉約3%的股份被賣空。"
-    },
-    {
-      "id": "5005359",
-      "time": "2026-07-24 03:20:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼：加拿大與美國正就全部關稅及貿易舉措展開談判。"
-    },
-    {
-      "id": "mkt:019f906a-1900-7aab-8e72-47205a828325",
-      "time": "2026-07-24 03:18:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Mehr news agency said reports that Iran attacked a Kuwaiti power plant are Israeli propaganda."
-    },
-    {
-      "id": "mkt:019f9069-b79c-7aab-8e72-3f8a282b1825",
-      "time": "2026-07-24 03:17:55",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【NVIDIA CEO Jensen Huang backs Chinese open-source AI models】In an interview on June 22, NVIDIA CEO Jensen Huang said Chinese open-source large AI models are very strong and the US should not fear them. He opposed restricting or banning Chinese open-source models, saying the world needs both open- and closed-source large models and US companies should be allowed to use Chinese models. Huang added markets previously misread the impact of DeepSeek and Kimi and called the notion that Chinese models contain backdoors linking them to China mistaken."
     }
   ]
 }
