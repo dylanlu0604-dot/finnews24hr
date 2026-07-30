@@ -1,7 +1,109 @@
 {
   "date": "2026-07-31",
-  "count": 651,
+  "count": 662,
   "items": [
+    {
+      "id": "5017866",
+      "time": "2026-07-31 07:43:59",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國科技股上漲後日經指數或將走高】隔夜美國科技股上漲後，日本股市可能走高。新加坡交易所的日經指數期貨上漲3.3%，報63,900點。美元報160.12日元，較週四東京股市收盤時的163.60日元大幅下跌。投資者正關注日本央行將於週五晚些時候公佈的利率決定以及中東局勢的發展。日經指數週四上漲0.7%，至61,867.43點。"
+    },
+    {
+      "id": "5017865",
+      "time": "2026-07-31 07:43:25",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日元在紐約交易時段大漲 日本據悉在央行決議前再度干預匯市】日元兌美元匯率創下兩年多來最大漲幅。日本央行政策決定公佈在即，當局據悉再次出手干預外匯市場，試圖支撐疲軟的日元匯率。 週四紐約交易時段，日元兌美元匯率一度上漲3.3%，創下2023年12月以來最大單日盤中漲幅。 一位知情市場人士表示，日本當局干預了外匯市場。日經此前援引市場參與者報道稱，日本當局週四在美國交易時段干預了外匯市場，並且美國當局也進行了匯率詢價。美國財長貝森特接受福克斯商業頻道採訪時表示，日元“似乎被嚴重低估”，並認為“過度波動”是不健康的。 東京時間早盤，美元兌日元上漲0.37%至160.07日元；週四一度觸及157.98。"
+    },
+    {
+      "id": "mkt:019fb569-13ea-7aab-8f1f-9497712eac73",
+      "time": "2026-07-31 07:43:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. officials said Iran tried to persuade Hamas to prevent reaching an agreement, but U.S. efforts successfully overcame that obstacle."
+    },
+    {
+      "id": "te:economy:571371",
+      "time": "2026-07-31 07:43:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Japan Jobless Rate Steady at 2.5% for Third Straight Month — Japan's unemployment rate held steady at 2.5% in June 2026, unchanged for a third consecutive month and in line with market expectations, remaining at its lowest level since July 2025. The number of unemployed rose by 10 thousand to 1.75 million, while employment fell by 360 thousand to a three-month low of 68.46 million. The labor force also shrank by 350 thousand to 70.22 million, suggesting the stable jobless rate was largely driven by a smaller workforce rather than stronger hiring. Meanwhile, the number of people outside the labor force increased by 430 thousand to a three-month high of 39.39 million. On a non-seasonally adjusted basis, the labor force participation rate eased to 64.4% from 64.6% in May, though it remained above 64.2% recorded a year earlier. Separately, the jobs-to-applicants ratio unexpectedly edged up to 1.18 from 1.17, slightly exceeding market forecasts and indicating labor demand remained resilient despite softer employment figures."
+    },
+    {
+      "id": "mkt:019fb568-d901-7aab-8f1f-8ee7ae104dfb",
+      "time": "2026-07-31 07:42:55",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Russia says it carried out large-scale strikes; Ukraine reports 238 frontline engagements, repels multiple assaults】The Russian Defence Ministry said between the evening of the 29th and early hours of the 30th Russian forces used land-, sea- and air-launched high‑precision long‑range weapons and attack drones to strike Ukrainian military airfields, defence industry sites and other targets. Moscow said its forces seized four settlements in Kharkiv, Sumy and Donetsk regions and continued strikes on Ukrainian ports and vessels serving the Ukrainian military. Ukraine's General Staff reported 238 engagements along the front in the past day, saying its air force, missile troops and artillery struck Russian forces and that Ukrainian units repelled multiple Russian assaults in the directions of Kupyansk and Pokrovsk."
+    },
+    {
+      "id": "5017864",
+      "time": "2026-07-31 07:42:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：伊朗曾試圖勸說哈馬斯不同意該協議，但美國成功化解了這一阻撓。"
+    },
+    {
+      "id": "mkt:019fb567-9a47-7aab-8f1f-81a3c102bc96",
+      "time": "2026-07-31 07:41:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK media: Trump undecided on allowing Ukraine to produce Patriot interceptors】Financial Times reports President Trump said he has not decided whether to permit Ukraine to manufacture Patriot surface-to-air interceptors, creating uncertainty over US approval for one of Kyiv's key requests. In a phone interview he said he was \"not sure\" the US would issue production licenses and that \"we are looking into it.\" Trump said his focus is ending the Russia-Ukraine war and that envoys Jared Kushner and Steve Witkoff will visit Ukraine in coming days. On the Middle East he said Iran's recent strikes aim to widen the regional war but that Tehran will \"ultimately give in,\" adding \"we are hitting them hard.\" He also said he is optimistic the US will finalize last week's landmark civilian nuclear agreement with Saudi Arabia."
+    },
+    {
+      "id": "mkt:019fb567-5582-7aab-8f1f-7fb04d692b0f",
+      "time": "2026-07-31 07:41:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. official says they are very confident Israel will comply with the terms."
+    },
+    {
+      "id": "mkt:019fb567-3490-7aab-8f1f-756c697d1ddf",
+      "time": "2026-07-31 07:41:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. official said Washington has not asked Israel to agree to any measures beyond an earlier plan. If Israel does not agree, President Trump would be disappointed."
+    },
+    {
+      "id": "em:qqyh_zgyh:202607313827149297",
+      "time": "2026-07-31 07:41:00",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【業界存年內降準降息預期】7月30日，中共中央政治局召開會議。會議分析研究當前經濟形勢，部署下半年經濟工作。此次會議延續對貨幣政策“適度寬鬆”的定調，強調“實施好更加積極的財政政策和適度寬鬆的貨幣政策”。同時，會議提出“綜合運用並適時調整貨幣政策工具，最佳化實施財政金融協同促內需政策”。民生銀行首席經濟學家溫彬認為，“綜合運用並適時調整貨幣政策工具”預示著中國人民銀行將根據經濟執行態勢及時出手，綜合運用降準降息等總量工具和結構性貨幣政策工具，形成“總量+結構”的雙輪驅動。"
+    },
+    {
+      "id": "5017863",
+      "time": "2026-07-31 07:40:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙休達移民危機持續升級，至少18人死亡】西班牙《國家報》31日援引警方訊息報道，有非法移民試圖經海路進入西班牙北非飛地休達，已有至少18人在此過程中喪生。由於移民危機持續升級，西班牙政府已調動駐休達武裝部隊支援國民警衛隊開展相關行動。據報道，數千名非法移民近日從摩洛哥方向進入休達，當地政府呼籲西班牙中央政府實施“國家緊急狀態”應對危機。西班牙首相桑切斯和內政大臣格蘭德-馬拉斯卡計劃31日前往休達，協調應對移民危機。（新華社）"
+    },
     {
       "id": "5017862",
       "time": "2026-07-31 07:40:06",
