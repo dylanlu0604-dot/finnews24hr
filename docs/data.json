@@ -1,7 +1,148 @@
 {
-  "updated": "2026-07-30 09:07:29",
-  "count": 17847,
+  "updated": "2026-07-30 09:11:16",
+  "count": 17849,
   "items": [
+    {
+      "id": "mkt:019fb092-f4eb-7aab-8efd-763e28e7266c",
+      "time": "2026-07-30 09:10:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Samsung Electronics says it will provide an update on its shareholder-return policy soon."
+    },
+    {
+      "id": "5015547",
+      "time": "2026-07-30 09:10:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "LG新能源：已獲得價值超過3萬億韓元的人工智慧資料中心ESS訂單。"
+    },
+    {
+      "id": "5015546",
+      "time": "2026-07-30 09:10:31",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【榮耀更新IPO輔導備案報告】證監會官網IPO輔導公示系統顯示，中信證券股份有限公司（簡稱“中信證券”）釋出了《關於榮耀首次公開發行股票並上市輔導工作進展情況報告（第四期）》。榮耀於2025年6月在深圳證監局完成上市輔導備案，此前已經發布了三期輔導備案報告。最新報告顯示，本期輔導期間為2026年4月1日至2026年6月30日。輔導期內，公司股東會新增聘任1位董事，此外股權結構發生變動，致使公司接受輔導人員發生變動。第四期的輔導圍繞四個方面展開：持續開展全面盡職調查工作、召開專案工作會議、協助完善公司治理制度、協助輔導物件論證募集資金投資專案。下一階段，中信證券擬繼續委派現有輔導工作小組成員執行輔導工作。"
+    },
+    {
+      "id": "5015545",
+      "time": "2026-07-30 09:10:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數維持震盪，漲幅再度達2%。"
+    },
+    {
+      "id": "mkt:019fb091-e945-7aab-8efd-6c8d5dbde964",
+      "time": "2026-07-30 09:09:40",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "South Korea's KOSPI again rose as much as 2% intraday; Samsung Electronics up 3%, SK Hynix down 0.7%."
+    },
+    {
+      "id": "5015544",
+      "time": "2026-07-30 09:09:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "LG新能源股價上漲7%。"
+    },
+    {
+      "id": "5015543",
+      "time": "2026-07-30 09:09:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.3%，德國DAX指數期貨上漲0.3%，英國富時指數期貨下跌0.6%。"
+    },
+    {
+      "id": "mkt:019fb091-554f-7aab-8efd-67fe5ceef06c",
+      "time": "2026-07-30 09:09:02",
+      "tags": [
+        "MKT News",
+        "600597.SS",
+        "Impact bullish",
+        "600887.SS"
+      ],
+      "text": "【Galaxy Securities: Milk price growth turning positive may spur earnings recovery for related listed firms】Galaxy Securities says July domestic fresh milk prices rose 0.3% YoY, the first positive reading in nearly five years, indicating a gradual supply–demand rebalancing. Raw milk prices began rising in March, reinforcing signs of a cyclical trough and recovery. Given current milk-source structure and downstream demand rebound, Galaxy expects the post-turn growth path may mirror 2016 — a modest, gradual uptrend — which should ease downstream competition, reduce impairment losses and support earnings recovery at related listed companies."
+    },
+    {
+      "id": "5015542",
+      "time": "2026-07-30 09:08:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【英國央行料維持利率不變 中東局勢令後續加息預期未消】在油氣價格劇烈波動之際，英國央行預計將維持利率不變，繼續採取觀望策略。投資者和經濟學家普遍預計，英國央行貨幣政策委員會週四將把基準利率維持在3.75%。通脹前景目前仍在很大程度上取決於中東衝突的發展。英國央行將於倫敦時間中午12點公佈利率決議及最新經濟預測，行長安德魯·貝利將在一小時後召開新聞釋出會。"
+    },
+    {
+      "id": "mkt:019fb090-a585-7aab-8efd-5a9098453ca4",
+      "time": "2026-07-30 09:08:17",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "Nasdaq futures rose more than 1%, the S&P 500 gained 0.4% and Dow futures rose 0.3%."
+    },
+    {
+      "id": "te:markets:570927",
+      "time": "2026-07-30 09:08:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Holds Drop After Fed Decision — The dollar index held below 101 on Thursday after a sharp decline in the previous session, as the Federal Reserve left interest rates unchanged despite mounting inflationary risks stemming from renewed conflict in the Middle East. Still, three FOMC members dissented in favor of a rate hike, while Chair Kevin Warsh stressed that the decision to hold rates steady should not be viewed as a sign of policy inertia, adding that markets would continue to respond to incoming economic data. In the Middle East, the US was reportedly carrying out fresh air strikes on Iran following attacks on American forces in the region. Meanwhile, both sides remained unable to reach a potential agreement as Tehran insisted on maintaining control of the Strait of Hormuz, leaving traders concerned about inflation and the interest rate outlook. Elsewhere, the Bank of England and the Bank of Japan are also widely expected to keep interest rates unchanged this week."
+    },
+    {
+      "id": "5015541",
+      "time": "2026-07-30 09:07:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：將保持市場溝通的透明度。"
+    },
+    {
+      "id": "5015540",
+      "time": "2026-07-30 09:07:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬科Ａ：6月上海、成都等地專案來訪及認購量環比兩位數增長】萬科Ａ(000002)在互動平臺表示，從6月份的銷售情況看，公司在上海、成都等城市專案的來訪量、認購量環比有兩位數以上的增長。"
+    },
+    {
+      "id": "5015539",
+      "time": "2026-07-30 09:07:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數漲超2%。"
+    },
+    {
+      "id": "te:markets:570926",
+      "time": "2026-07-30 09:06:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "EU Gas Holds Gain Amid Supply Risks — European natural gas prices hovered around €61 per MWh on Thursday after surging in the previous session, as risks to Europe’s winter supply increased amid renewed fighting in the Middle East. This comes after Saudi Arabia and the United States carried out joint strikes on Iran-backed militias in Iraq. President Donald Trump pledged a forceful response after Iran attacked US bases in Jordan. This comes after Saudi Arabia and Washington carried out joint strikes on Iran-backed militias in Iraq. The renewed conflict has disrupted Qatari LNG exports, with QatarEnergy extending its force majeure for European buyers through the end of September, further tightening global gas supplies and intensifying competition with Asia for available cargoes. At the same time, heatwaves across Europe are boosting cooling demand, slowing the pace of gas storage replenishment."
+    },
     {
       "id": "mkt:019fb08f-5ee7-7aab-8efd-5411536fbdde",
       "time": "2026-07-30 09:06:53",
@@ -164528,126 +164669,6 @@
         "Impact bullish"
       ],
       "text": "South Korea's KOSPI intraday gains widened to 4%, at 7,072.44. Japan's Nikkei 225 breached 67,000, up 1.36% intraday."
-    },
-    {
-      "id": "5003318",
-      "time": "2026-07-23 09:11:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【理想汽車成立新公司 含積體電路晶片業務】企查查APP顯示，近日，芯創智核（上海）科技有限公司成立，經營範圍包含積體電路晶片設計及服務；積體電路晶片及產品銷售；大資料服務；資料處理服務等。企查查股權穿透顯示，該公司由上海理想汽車科技有限公司全資持股。"
-    },
-    {
-      "id": "5003317",
-      "time": "2026-07-23 09:10:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國綜指漲幅擴大至4%】韓國綜指漲幅擴大至4%，現報7072.44點。個股方面，SK海力士漲超6%，三星電子漲超4%。"
-    },
-    {
-      "id": "5003316",
-      "time": "2026-07-23 09:10:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩部門：促進抽水蓄能高質量發展】國家發展改革委、國家能源局印發《可再生能源發展“十五五”規劃》，其中提到，積極有序開發建設抽水蓄能電站。堅持生態優先、需求導向、最佳化佈局、有序建設，促進抽水蓄能高質量發展。滾動開展服務電力系統抽水蓄能需求規模論證研究，積極推進在建專案建設投運。到 2030 年，全國抽水蓄能電站裝機規模達到1.6億千瓦左右。"
-    },
-    {
-      "id": "mkt:019f8c85-a9b0-7aab-8e55-baffd70ffe92",
-      "time": "2026-07-23 09:09:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【NDRC, NEA encourage offshore wind integration with oil & gas, desalination, marine farms and subsea computing】The NDRC and National Energy Administration issued the Renewable Energy Development 15th Five-Year Plan, calling for promotion of offshore wind integration with offshore PV and other marine energy. The plan encourages co-development of offshore wind with offshore oil & gas, seawater desalination, marine ranching and subsea computing capacity, urges integrated build-out with marine observation, ecological and seismic monitoring facilities, and directs exploration of offshore energy islands as a model for comprehensive green-energy development and higher-efficiency utilization."
-    },
-    {
-      "id": "5003315",
-      "time": "2026-07-23 09:09:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【WAIC首個AI光算力產業論壇上演產業對談，騰訊雲、曦智科技肯定NPO價值】近日，在曦智科技主辦的世界人工智慧大會（WAIC）首個AI光算力產業論壇上，騰訊雲首次披露了國產算力和光互連的新部署計劃：公司將於明年及後年大規模部署國產化算力，並預計2026年第四季度部署NPO（近封裝光學）超級節點，同時呼籲推動國內外NPO行業標準統一。此舉再度引發了市場對NPO技術路線的關注。當前，AI算力的大規模部署，對資料中心內部互連提出了更高要求。傳統銅纜互連在頻寬密度與功耗上面臨瓶頸，光互連成為突破這一瓶頸的關鍵路徑。NPO技術透過將光引擎與計算晶片整合於同一板卡，縮短光電轉換距離，去除光模組中最昂貴的DSP晶片，從而大幅降低功耗與延遲。相較於CPO（共封裝光學），NPO工程適配難度更低，對現有產業鏈的擾動也更小。騰訊雲副總裁王亞晨在WAIC上的原話是：“隨著超節點規模擴大，光互連已成為突破頻寬和功耗瓶頸的關鍵，NPO是當前國產GPU構建超節點‘更務實的技術路線’。”曦智科技創始人沈亦晨也在會上判斷，NPO是目前“最容易第一步達到、對整個產業鏈生態擾動最小”的技術方案。核心原因在於：NPO去掉DSP（數字訊號處理器）後，雖然對光引擎效能要求大幅提高，但縮短的銅導線距離帶來的訊號降噪，可以部分彌補去掉DSP的損失。這使得NPO方案在功耗和成本上都有優勢。實際上，從光引擎設計到先進封裝工藝，從測試裝置到上層排程軟體，每一環的成熟度都將直接影響NPO超級節點的實際效能。王亞晨也在會上感謝了包括曦智科技在內業內合作伙伴對國產化NPO超節點建設的支援。作為光電混合算力供應商，曦智科技已在NPO和CPO兩端全面佈局：NPO領域與交換晶片和GPU廠商形成應用場景合作，CPO領域則和交換晶片與GPU都已經進行了相互技術驗證，凸顯在scale-up光互連產業佈局的前瞻性。“當前最亟需補強的，是在龐大算力產業鏈中構建真正開放的產業生態，使計算、儲存、交換、軟體、應用等各環節的優秀企業最大化發揮各自優勢，共同驅動中國算力基礎設施的升級。”沈亦晨表示。"
-    },
-    {
-      "id": "5003314",
-      "time": "2026-07-23 09:09:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【高瀾股份：子公司瀾科泵業研發的冷卻用遮蔽泵已在資料中心液冷專案批次應用】高瀾股份7月23日在互動平臺表示，子公司瀾科泵業研發的冷卻用遮蔽泵已在資料中心液冷專案批次應用。"
-    },
-    {
-      "id": "5003313",
-      "time": "2026-07-23 09:09:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩部門：積極應用柔性彙集接入、車網互動等技術，拓展交能融合分散式新能源開發利用空間】國家發展改革委、國家能源局印發《可再生能源發展“十五五”規劃》，其中提到，推進分散式新能源與交通多場景融合。鼓勵交通基礎設施沿線分散式新能源與周邊用能設施一體化開發，建設一批“零碳公路”。積極應用柔性彙集接入、車網互動等技術，拓展交能融合分散式新能源開發利用空間。"
-    },
-    {
-      "id": "mkt:019f8c85-4958-7aab-8e55-b2daac247d1d",
-      "time": "2026-07-23 09:09:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Copper",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【NDRC, NEA push coordinated planning of new data centres with renewable generation】NDRC and the National Energy Administration issued a notice releasing the Renewable Energy Development \"15th Five-Year Plan\". The plan directs: new data centres should be planned and sited in coordination with renewable power generation; computing loads should be classified to tap spatial‑temporal flexibility; promote green‑power direct connections and integrated source‑grid‑load‑storage solutions; and steadily increase green power consumption by digital infrastructure and raise the share of renewables in existing digital infrastructure consumption."
-    },
-    {
-      "id": "5003312",
-      "time": "2026-07-23 09:09:22",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【兩部門：研究面向太空的太陽能發電技術，推進關鍵技術驗證】發改委、能源局釋出關於印發《可再生能源發展“十五五”規劃》的通知。通知提到，加強可再生能源先進材料、核心元器件（零部件）、關鍵裝置及控制系統研發。研製變速、超高水頭、超高抽發比抽水蓄能機組和千米水頭段巨型衝擊式水電機組等裝備。開展高效可靠風力發電裝備技術研究，突破高可靠低成本葉片、超高塔架、新型漂浮式基礎等關鍵裝置製造技術，探索研究高空風電等新型風能利用技術。加速鈣鈦礦疊層電池等高效光伏電池製備及產業化生產技術研究，研究面向太空的太陽能發電技術，推進關鍵技術驗證。加強綠色氫氨醇柔性離網製取等關鍵技術研發與應用。"
-    },
-    {
-      "id": "5003311",
-      "time": "2026-07-23 09:09:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數上漲1.1%，至8,920.60點，創6月18日以來最高。"
-    },
-    {
-      "id": "mkt:019f8c84-834d-7aab-8e55-acc649666c4b",
-      "time": "2026-07-23 09:08:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【NDRC, NEA to study space-based solar power, push key tech verification】The National Development and Reform Commission and the National Energy Administration issued a 15th Five-Year Plan for renewable energy development, prioritizing R&D on advanced materials, core components, key equipment and control systems. The plan mandates development of variable-speed, ultra‑high‑head and ultra‑high‑pumping‑ratio pumped-storage units and km‑head impulse hydropower units; targeted R&D on high-efficiency, high-reliability wind-power equipment and manufacturing breakthroughs for low-cost reliable blades, ultra‑high towers and new floating foundations, and exploration of high‑altitude wind. It accelerates perovskite tandem PV cell preparation and industrialization research, calls for study of space-based solar power with verification of key technologies, and steps up R&D and application of green hydrogen, ammonia and methanol flexible off‑grid production technologies."
-    },
-    {
-      "id": "5003310",
-      "time": "2026-07-23 09:08:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩部門：積極推進生物質、光熱及海洋能發電發展】國家發展改革委、國家能源局印發《可再生能源發展“十五五”規劃》，其中提到，大力推進生物質發電轉型升級。因地制宜推進生物質發電提升供熱附加值。鼓勵生物質電站與風電、光伏等整合發展，積極拓展生物質發電在綠電直連等新業態中的應用。積極推進光熱發電規模化發展。在大型風電光伏基地合理配置光熱發電。在青海、新疆、甘肅、內蒙古、西藏等地區建設一批本地消納的大容量光熱電站。推動光熱發電與產業協同佈局，探索以光熱發電為基礎電源的綠電直連等新業態。因地制宜探索小型光熱發電系統建設。到 2030 年，全國光熱發電裝機規模力爭達到 1500 萬千瓦。加快推進海洋能規模化開發利用。因地制宜推進潮流能、波浪能、溫差能等海洋能規模化利用，持續擴大工程試點。推動海洋能多能互補發展，引導海洋能與相關涉海工程融合。到2030年，全國海洋能裝機規模力爭達到 40 萬千瓦。"
-    },
-    {
-      "id": "te:economy:569008",
-      "time": "2026-07-23 09:07:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "U.S. Targets Interim North America Trade Pacts — U.S. Trade Representative Jamieson Greer told the Senate Finance Committee that he aims to secure interim trade arrangements with Canada and Mexico by year-end, while deferring more contentious revisions to the U.S.-Mexico-Canada Agreement until 2027. Greer said complex issues, including stricter automotive rules of origin, labor standards, and environmental regulations, will require extended consultation “including with Congress in the following year.” He stressed the U.S. is “moving with all due speed” and intends to present options to President Donald Trump, Mexican President Claudia Sheinbaum, and Canadian Prime Minister Mark Carney before December, though he offered no details on the scope of potential deals."
     }
   ]
 }

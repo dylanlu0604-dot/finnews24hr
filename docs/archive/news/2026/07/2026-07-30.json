@@ -1,7 +1,148 @@
 {
   "date": "2026-07-30",
-  "count": 1181,
+  "count": 1196,
   "items": [
+    {
+      "id": "mkt:019fb092-f4eb-7aab-8efd-763e28e7266c",
+      "time": "2026-07-30 09:10:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Samsung Electronics says it will provide an update on its shareholder-return policy soon."
+    },
+    {
+      "id": "5015547",
+      "time": "2026-07-30 09:10:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "LG新能源：已獲得價值超過3萬億韓元的人工智慧資料中心ESS訂單。"
+    },
+    {
+      "id": "5015546",
+      "time": "2026-07-30 09:10:31",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【榮耀更新IPO輔導備案報告】證監會官網IPO輔導公示系統顯示，中信證券股份有限公司（簡稱“中信證券”）釋出了《關於榮耀首次公開發行股票並上市輔導工作進展情況報告（第四期）》。榮耀於2025年6月在深圳證監局完成上市輔導備案，此前已經發布了三期輔導備案報告。最新報告顯示，本期輔導期間為2026年4月1日至2026年6月30日。輔導期內，公司股東會新增聘任1位董事，此外股權結構發生變動，致使公司接受輔導人員發生變動。第四期的輔導圍繞四個方面展開：持續開展全面盡職調查工作、召開專案工作會議、協助完善公司治理制度、協助輔導物件論證募集資金投資專案。下一階段，中信證券擬繼續委派現有輔導工作小組成員執行輔導工作。"
+    },
+    {
+      "id": "5015545",
+      "time": "2026-07-30 09:10:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數維持震盪，漲幅再度達2%。"
+    },
+    {
+      "id": "mkt:019fb091-e945-7aab-8efd-6c8d5dbde964",
+      "time": "2026-07-30 09:09:40",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "South Korea's KOSPI again rose as much as 2% intraday; Samsung Electronics up 3%, SK Hynix down 0.7%."
+    },
+    {
+      "id": "5015544",
+      "time": "2026-07-30 09:09:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "LG新能源股價上漲7%。"
+    },
+    {
+      "id": "5015543",
+      "time": "2026-07-30 09:09:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.3%，德國DAX指數期貨上漲0.3%，英國富時指數期貨下跌0.6%。"
+    },
+    {
+      "id": "mkt:019fb091-554f-7aab-8efd-67fe5ceef06c",
+      "time": "2026-07-30 09:09:02",
+      "tags": [
+        "MKT News",
+        "600597.SS",
+        "Impact bullish",
+        "600887.SS"
+      ],
+      "text": "【Galaxy Securities: Milk price growth turning positive may spur earnings recovery for related listed firms】Galaxy Securities says July domestic fresh milk prices rose 0.3% YoY, the first positive reading in nearly five years, indicating a gradual supply–demand rebalancing. Raw milk prices began rising in March, reinforcing signs of a cyclical trough and recovery. Given current milk-source structure and downstream demand rebound, Galaxy expects the post-turn growth path may mirror 2016 — a modest, gradual uptrend — which should ease downstream competition, reduce impairment losses and support earnings recovery at related listed companies."
+    },
+    {
+      "id": "5015542",
+      "time": "2026-07-30 09:08:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【英國央行料維持利率不變 中東局勢令後續加息預期未消】在油氣價格劇烈波動之際，英國央行預計將維持利率不變，繼續採取觀望策略。投資者和經濟學家普遍預計，英國央行貨幣政策委員會週四將把基準利率維持在3.75%。通脹前景目前仍在很大程度上取決於中東衝突的發展。英國央行將於倫敦時間中午12點公佈利率決議及最新經濟預測，行長安德魯·貝利將在一小時後召開新聞釋出會。"
+    },
+    {
+      "id": "mkt:019fb090-a585-7aab-8efd-5a9098453ca4",
+      "time": "2026-07-30 09:08:17",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "Nasdaq futures rose more than 1%, the S&P 500 gained 0.4% and Dow futures rose 0.3%."
+    },
+    {
+      "id": "te:markets:570927",
+      "time": "2026-07-30 09:08:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Holds Drop After Fed Decision — The dollar index held below 101 on Thursday after a sharp decline in the previous session, as the Federal Reserve left interest rates unchanged despite mounting inflationary risks stemming from renewed conflict in the Middle East. Still, three FOMC members dissented in favor of a rate hike, while Chair Kevin Warsh stressed that the decision to hold rates steady should not be viewed as a sign of policy inertia, adding that markets would continue to respond to incoming economic data. In the Middle East, the US was reportedly carrying out fresh air strikes on Iran following attacks on American forces in the region. Meanwhile, both sides remained unable to reach a potential agreement as Tehran insisted on maintaining control of the Strait of Hormuz, leaving traders concerned about inflation and the interest rate outlook. Elsewhere, the Bank of England and the Bank of Japan are also widely expected to keep interest rates unchanged this week."
+    },
+    {
+      "id": "5015541",
+      "time": "2026-07-30 09:07:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：將保持市場溝通的透明度。"
+    },
+    {
+      "id": "5015540",
+      "time": "2026-07-30 09:07:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬科Ａ：6月上海、成都等地專案來訪及認購量環比兩位數增長】萬科Ａ(000002)在互動平臺表示，從6月份的銷售情況看，公司在上海、成都等城市專案的來訪量、認購量環比有兩位數以上的增長。"
+    },
+    {
+      "id": "5015539",
+      "time": "2026-07-30 09:07:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數漲超2%。"
+    },
+    {
+      "id": "te:markets:570926",
+      "time": "2026-07-30 09:06:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "EU Gas Holds Gain Amid Supply Risks — European natural gas prices hovered around €61 per MWh on Thursday after surging in the previous session, as risks to Europe’s winter supply increased amid renewed fighting in the Middle East. This comes after Saudi Arabia and the United States carried out joint strikes on Iran-backed militias in Iraq. President Donald Trump pledged a forceful response after Iran attacked US bases in Jordan. This comes after Saudi Arabia and Washington carried out joint strikes on Iran-backed militias in Iraq. The renewed conflict has disrupted Qatari LNG exports, with QatarEnergy extending its force majeure for European buyers through the end of September, further tightening global gas supplies and intensifying competition with Asia for available cargoes. At the same time, heatwaves across Europe are boosting cooling demand, slowing the pace of gas storage replenishment."
+    },
     {
       "id": "mkt:019fb08f-5ee7-7aab-8efd-5411536fbdde",
       "time": "2026-07-30 09:06:53",
