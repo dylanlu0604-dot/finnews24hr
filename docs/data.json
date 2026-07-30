@@ -1,7 +1,93 @@
 {
-  "updated": "2026-07-30 22:13:02",
-  "count": 17831,
+  "updated": "2026-07-30 22:16:59",
+  "count": 17826,
   "items": [
+    {
+      "id": "5017304",
+      "time": "2026-07-30 22:16:14",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "根據沙烏地阿拉伯財政部的資料，沙烏地阿拉伯第二季度的預算赤字為342.89億沙特里亞爾。"
+    },
+    {
+      "id": "5017303",
+      "time": "2026-07-30 22:15:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【羅羅：隨著資料中心需求飆升，與超大規模資料中心客戶的重大核能交易即將達成】羅爾斯·羅伊斯（Rolls-Royce）正受益於重塑全球市場的兩大投資趨勢：激增的國防支出和AI驅動的資料中心快速擴張。這家工程公司目前預計，全年潛在營業利潤將在47億-49億英鎊之間，高於此前40億-42億英鎊的指引。執行長Tufan Erginbilgic表示，公司已經在與超大規模資料中心運營商討論電力系統和小型模組化反應堆（SMR），並預計將尋求內部批准一項重大的客戶框架協議。"
+    },
+    {
+      "id": "mkt:019fb360-cce2-7aab-8f16-315914d8ea7a",
+      "time": "2026-07-30 22:14:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Senate HELP Committee advanced the nomination of Erica Schwartz to be director of the Centers for Disease Control and Prevention (CDC) on a 12-10 vote."
+    },
+    {
+      "id": "5017302",
+      "time": "2026-07-30 22:14:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌首席財務官表示，第三季度化工產品價差已開始走軟。"
+    },
+    {
+      "id": "5017301",
+      "time": "2026-07-30 22:14:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌執行長：預計將於2027年就委內瑞拉龍氣田專案做出最終投資決定。"
+    },
+    {
+      "id": "5017300",
+      "time": "2026-07-30 22:14:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院衛生委員會以12票贊成、10票反對的投票結果，推動特朗普提名的疾控中心主任人選埃麗卡·施瓦茨的任命程式進入下一階段。"
+    },
+    {
+      "id": "mkt:019fb360-11f1-7aab-8f16-2865c4438dc3",
+      "time": "2026-07-30 22:14:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Scale AI hires former Google Cloud COO Francis deSouza as CEO, Axios reports."
+    },
+    {
+      "id": "5017299",
+      "time": "2026-07-30 22:14:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌日元跌幅擴大至約2.7%。"
+    },
+    {
+      "id": "mkt:019fb35e-c9d3-7aab-8f16-2264ba9dec1a",
+      "time": "2026-07-30 22:12:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY is set to post its largest one-day decline since Dec 2022."
+    },
+    {
+      "id": "5017298",
+      "time": "2026-07-30 22:12:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【日元全線飆升 數個日元貨幣對重挫超百點】日元短線快速升值，引發干預猜測。截至發稿，美元兌日元、歐元兌日元均累計下跌約350點，英鎊兌日元累計下跌約400點，加元兌日元累計下跌超200點，澳元兌日元累計下跌超150點。"
+    },
     {
       "id": "5017297",
       "time": "2026-07-30 22:12:03",
@@ -164532,147 +164618,6 @@
         "國際"
       ],
       "text": "歐洲央行官員：準備於 9 月加息。"
-    },
-    {
-      "id": "5005025",
-      "time": "2026-07-23 22:16:45",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【黃仁勳駁斥AI末日論 暗懟OpenAI、Anthropic遊說白宮收緊監管】英偉達執行長黃仁勳向特朗普政府及其他政策制定者發出警示：不要基於對人工智慧如同科幻小說般的恐慌情緒來制定監管政策。他認為，監管層面反應過度會阻礙人工智慧技術落地應用，削弱美國的競爭優勢。 黃仁勳在接受採訪時，猛烈抨擊了人工智慧末日論，間接反駁了其他科技企業CEO反覆強調AI可能引發災難性風險的論調。 “所謂人工智慧會終結人類文明，純屬無稽之談；聲稱它會讓美國半數崗位消失，同樣完全站不住腳。”黃仁勳表示。他提出，真正更大的風險，是製造恐慌導致企業和勞動者不敢使用人工智慧。 黃仁勳呼籲政策制定者多方聽取意見，不要只徵詢一兩位企業高管的觀點，切勿依據尚未發生的假想場景對AI技術設限。 他還隱晦點出，部分企業打著安全旗號謀求對自身有利的監管規則：“有些企業寄希望於政府出臺偏向自己的監管條款，從中獲益。” 當被問及是否擔心本屆政府監管矯枉過正時，黃仁勳給出了肯定答案。 Anthropic與OpenAI一直在遊說華盛頓高度警惕頂尖AI系統的潛在風險。不少批評者認為，這類安全造勢本質上是為了鞏固兩家實驗室的市場壟斷地位。"
-    },
-    {
-      "id": "5005024",
-      "time": "2026-07-23 22:16:36",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "【7月23日增減持彙總】7月23日盤後，據不完全統計，宏盛華源、華安證券披露擬減持情況，松井股份、洽洽食品披露擬增持情況。"
-    },
-    {
-      "id": "5005023",
-      "time": "2026-07-23 22:16:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股市跌幅擴大，納斯達克綜合指數<.IXIC>下跌2.00%。"
-    },
-    {
-      "id": "5005022",
-      "time": "2026-07-23 22:16:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀集團：將特斯拉(TSLA.O)目標價從442美元下調至385美元。"
-    },
-    {
-      "id": "mkt:019f8f55-9f35-7aab-8e6d-e84604238659",
-      "time": "2026-07-23 22:16:20",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bearish"
-      ],
-      "text": "UBS cuts Tesla (TSLA.O) PT to $385 from $442."
-    },
-    {
-      "id": "5005021",
-      "time": "2026-07-23 22:16:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀下調SERVICENOW INC <NOW.N>目標價至110美元，原為115美元。"
-    },
-    {
-      "id": "5005020",
-      "time": "2026-07-23 22:15:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡尼：加拿大將在與美國的貿易戰中毫不猶豫地捍衛自身利益。加拿大當前處境優於貿易戰爆發之初，將採取一切必要措施捍衛自身利益。"
-    },
-    {
-      "id": "mkt:019f8f54-d84e-7aab-8e6d-e0e3f595dedf",
-      "time": "2026-07-23 22:15:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canadian Prime Minister Carney said Canada entered the trade war in a stronger position and will take all necessary measures to defend its interests."
-    },
-    {
-      "id": "mkt:019f8f54-c04e-7aab-8e6d-d8069e6047fa",
-      "time": "2026-07-23 22:15:23",
-      "tags": [
-        "MKT News",
-        "CADUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Canadian Prime Minister Carney said Canada will not hesitate to defend its interests in a trade war with the U.S."
-    },
-    {
-      "id": "mkt:019f8f54-a6c2-7aab-8e6d-d62757563dba",
-      "time": "2026-07-23 22:15:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Four sources said Iran this month sent an IRGC commander and missile-related equipment to Yemen's Houthi movement."
-    },
-    {
-      "id": "5005019",
-      "time": "2026-07-23 22:14:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "四名訊息人士稱，伊朗本月向葉門胡塞武裝派遣了伊斯蘭革命衛隊指揮官，並運送了與導彈相關的裝置。"
-    },
-    {
-      "id": "mkt:019f8f54-3c94-7aab-8e6d-cd5424f3724d",
-      "time": "2026-07-23 22:14:50",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bearish"
-      ],
-      "text": "UBS cuts Alphabet (GOOG.O) PT to $379 from $400."
-    },
-    {
-      "id": "5005018",
-      "time": "2026-07-23 22:14:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀集團：將Alphabet(GOOG.O)目標價從400美元下調至379美元。"
-    },
-    {
-      "id": "5005017",
-      "time": "2026-07-23 22:14:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【東風奕派M8正式上市：全系滿配華為乾崑六件套，限時權益價16.58萬起】“華派黃金標準大六座”東風奕派M8正式上市。新車共推出300Core 乾崑版、300Pro 乾崑版、600Pro 乾崑版、300Max 乾崑版、600Max 乾崑版5個版本，小訂轉大定使用者，限時權益價16.58萬起。（新浪科技）"
-    },
-    {
-      "id": "5005016",
-      "time": "2026-07-23 22:13:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀將聯合租賃公司目標價由 1300 美元上調至 1350 美元。"
     }
   ]
 }
