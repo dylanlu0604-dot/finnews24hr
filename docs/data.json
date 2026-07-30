@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-31 02:36:04",
-  "count": 17894,
+  "updated": "2026-07-31 02:39:53",
+  "count": 17895,
   "items": [
+    {
+      "id": "mkt:019fb451-4fe3-7aab-8f1b-10145500860e",
+      "time": "2026-07-31 02:37:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India reappointed K. Rajaraman as chairman of the International Financial Services Centres Authority (IFSCA), with a term running until he turns 65, per a government order."
+    },
+    {
+      "id": "5017637",
+      "time": "2026-07-31 02:37:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【IMF總裁：石油衝擊或將引發衰退的風險仍持續存在】國際貨幣基金組織總裁克里斯塔利娜・格奧爾基耶娃在烏拉圭蒙得維的亞一場活動上表示，儘管霍爾木茲海峽若迅速恢復通航，衝突帶來的影響將相對有限，但中東石油衝擊仍有可能令全球經濟陷入衰退，該風險尚未消除。格奧爾基耶娃稱，IMF 正密切關注通脹走勢，通脹會影響利率水平並加劇公共財政壓力。格奧爾基耶娃指出，在全球多邊協議推進受阻的背景下，小型開放經濟體之間應當尋求達成貿易協定。“我十分支援發掘區域及跨區域貿易合作機遇。” 格奧爾基耶娃表示。她稱：“想要達成並落實一份全球性協議難度很大。”格奧爾基耶娃認為，當前貿易保護主義態勢將會長期持續。"
+    },
+    {
+      "id": "5017636",
+      "time": "2026-07-31 02:36:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用電氣維諾娃公司（GE Vernova Inc.）預計將在賓夕法尼亞州西部投資1.66億美元，並在賓州全境創造逾700個高技能製造業新崗位。"
+    },
+    {
+      "id": "mkt:019fb450-570b-7aab-8f1b-0b3ae90de51e",
+      "time": "2026-07-31 02:36:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【White House says Hamas could agree to disarmament accord within days】Axios, citing four people familiar with the matter, reports a draft accord viewed as key to implementing Trump’s 20-point peace plan and that the White House says Hamas could agree within days. Core terms would require Hamas to surrender light and heavy weapons, hand over tunnel networks and weapons-facility intelligence, and complete demilitarization within 6–8 months. A new Gaza National Administration Committee would assume governance and unify government, legal and security systems. The US, Egypt, Qatar and Turkey have pressured Hamas in recent months, including efforts to cut funding and exploit economic strain to force acceptance. Talks are reportedly in their final stage in Egypt’s El Alamein, but Hamas has not formally approved. Egyptian intelligence chief Hassan Rashad is said to be playing a key role and liaising with new Hamas leader Khalil al-Hayya; Iran is urging Hamas to delay. Under the draft, Hamas members could receive amnesty and remain in Gaza; militants who surrender weapons could receive compensation; Israel would withdraw gradually after implementation and halt targeted strikes on Hamas personnel. Israel remains skeptical Hamas will fully disarm. The Trump administration says a finalized accord would be a major step toward ending the Gaza war and launching reconstruction."
+    },
+    {
+      "id": "5017635",
+      "time": "2026-07-31 02:36:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府令：K·拉賈拉曼再次被任命為國際金融服務中心管理局主席，任期至65歲。"
+    },
+    {
+      "id": "5017634",
+      "time": "2026-07-31 02:36:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用電氣維諾華：本次擴張屬於現有1.38億美元投資專案的一部分，預計到2028年將創造275個就業崗位，計劃在2030年之前追加招聘。"
+    },
     {
       "id": "5017633",
       "time": "2026-07-31 02:34:46",
@@ -165177,52 +165225,6 @@
         "國際"
       ],
       "text": "【逢低買入者或可無視油價波動，但絕不能無視美聯儲動向】在科技巨頭股價暴跌引發市場劇烈動盪後，美股股指目前已趨於企穩。儘管交易員們傾向於對地緣政治局勢的升級視而不見，但美聯儲加息機率的不斷攀升，卻成了他們無法忽視的焦點。正如Spectra的布倫特·唐納利（Brent Donnelly）所言，當前股市正遭受多重不利因素的衝擊。伊朗局勢的再次升級，以及迫在眉睫的關稅危機，進一步加劇了市場對通脹的擔憂，並重新引發了對貨幣政策收緊的風險預期。儘管得益於企業盈利表現良好，加之特朗普總統一貫的政策傾向，交易員們可能更傾向於等待地緣政治局勢的進一步明朗；但在市場劇烈波動之際，美聯儲採取更嚴格貨幣政策的風險正在上升，這可能會對股市造成進一步的下行壓力。"
-    },
-    {
-      "id": "mkt:019f9046-56a5-7aab-8e71-aab706aab088",
-      "time": "2026-07-24 02:39:16",
-      "tags": [
-        "MKT News",
-        "AMD.O",
-        "Impact bullish"
-      ],
-      "text": "Supermicro launched a new server lineup using AMD's sixth-generation EPYC 9006 series processors, reporting a 1.7x generational performance gain."
-    },
-    {
-      "id": "5005329",
-      "time": "2026-07-24 02:38:18",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將特斯拉目標價從每股475.00美元下調至445.00美元。"
-    },
-    {
-      "id": "5005328",
-      "time": "2026-07-24 02:37:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗衛生部：自6月27日以來，美國對伊朗的襲擊已造成55人死亡、629人受傷。"
-    },
-    {
-      "id": "mkt:019f9043-d025-7aab-8e71-a26325be3992",
-      "time": "2026-07-24 02:36:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. crude futures settled at $92.19 per barrel, up $5.36, or 6.17%."
-    },
-    {
-      "id": "5005327",
-      "time": "2026-07-24 02:36:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【拼產品，拼場景，拼渠道 食品飲料公司上半年業績可圈可點】在已披露上半年業績預告或業績快報的47家食品飲料公司中，有10家公司上半年業績預增，黑芝麻、洽洽食品、*ST尼雅、佳禾食品等公司同比增速達到三位數及以上。至於業績預喜原因，記者發現，主要包含開源和節流：一方面，持續最佳化產品結構，拓展多元消費場景，深化市場渠道建設等；另一方面，最佳化多項費用管控，加強供應鏈精益化管理，實現原料採購成本下降等。不過，也有部分食品飲料企業受終端需求不及預期、行業競爭加劇等因素影響而業績承壓。據統計，截至7月23日，共有27家食品飲料企業預虧或預減，主要分佈在酒類、食品加工、休閒食品、飲料乳品等細分賽道。(上證報)"
     }
   ]
 }

@@ -1,7 +1,55 @@
 {
   "date": "2026-07-31",
-  "count": 256,
+  "count": 262,
   "items": [
+    {
+      "id": "mkt:019fb451-4fe3-7aab-8f1b-10145500860e",
+      "time": "2026-07-31 02:37:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India reappointed K. Rajaraman as chairman of the International Financial Services Centres Authority (IFSCA), with a term running until he turns 65, per a government order."
+    },
+    {
+      "id": "5017637",
+      "time": "2026-07-31 02:37:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【IMF總裁：石油衝擊或將引發衰退的風險仍持續存在】國際貨幣基金組織總裁克里斯塔利娜・格奧爾基耶娃在烏拉圭蒙得維的亞一場活動上表示，儘管霍爾木茲海峽若迅速恢復通航，衝突帶來的影響將相對有限，但中東石油衝擊仍有可能令全球經濟陷入衰退，該風險尚未消除。格奧爾基耶娃稱，IMF 正密切關注通脹走勢，通脹會影響利率水平並加劇公共財政壓力。格奧爾基耶娃指出，在全球多邊協議推進受阻的背景下，小型開放經濟體之間應當尋求達成貿易協定。“我十分支援發掘區域及跨區域貿易合作機遇。” 格奧爾基耶娃表示。她稱：“想要達成並落實一份全球性協議難度很大。”格奧爾基耶娃認為，當前貿易保護主義態勢將會長期持續。"
+    },
+    {
+      "id": "5017636",
+      "time": "2026-07-31 02:36:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用電氣維諾娃公司（GE Vernova Inc.）預計將在賓夕法尼亞州西部投資1.66億美元，並在賓州全境創造逾700個高技能製造業新崗位。"
+    },
+    {
+      "id": "mkt:019fb450-570b-7aab-8f1b-0b3ae90de51e",
+      "time": "2026-07-31 02:36:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【White House says Hamas could agree to disarmament accord within days】Axios, citing four people familiar with the matter, reports a draft accord viewed as key to implementing Trump’s 20-point peace plan and that the White House says Hamas could agree within days. Core terms would require Hamas to surrender light and heavy weapons, hand over tunnel networks and weapons-facility intelligence, and complete demilitarization within 6–8 months. A new Gaza National Administration Committee would assume governance and unify government, legal and security systems. The US, Egypt, Qatar and Turkey have pressured Hamas in recent months, including efforts to cut funding and exploit economic strain to force acceptance. Talks are reportedly in their final stage in Egypt’s El Alamein, but Hamas has not formally approved. Egyptian intelligence chief Hassan Rashad is said to be playing a key role and liaising with new Hamas leader Khalil al-Hayya; Iran is urging Hamas to delay. Under the draft, Hamas members could receive amnesty and remain in Gaza; militants who surrender weapons could receive compensation; Israel would withdraw gradually after implementation and halt targeted strikes on Hamas personnel. Israel remains skeptical Hamas will fully disarm. The Trump administration says a finalized accord would be a major step toward ending the Gaza war and launching reconstruction."
+    },
+    {
+      "id": "5017635",
+      "time": "2026-07-31 02:36:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府令：K·拉賈拉曼再次被任命為國際金融服務中心管理局主席，任期至65歲。"
+    },
+    {
+      "id": "5017634",
+      "time": "2026-07-31 02:36:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用電氣維諾華：本次擴張屬於現有1.38億美元投資專案的一部分，預計到2028年將創造275個就業崗位，計劃在2030年之前追加招聘。"
+    },
     {
       "id": "5017633",
       "time": "2026-07-31 02:34:46",
