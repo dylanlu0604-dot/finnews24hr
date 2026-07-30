@@ -1,7 +1,135 @@
 {
-  "updated": "2026-07-30 19:40:46",
-  "count": 17889,
+  "updated": "2026-07-30 19:44:41",
+  "count": 17882,
   "items": [
+    {
+      "id": "5016927",
+      "time": "2026-07-30 19:43:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Meta自由現金流驟降超九成】當地時間7月29日，美股網際網路科技巨頭Meta公佈了2026年第二季度財報，第二財季期內該公司營收同比增長28%，但淨利潤同比下滑14%，自由現金流同比下降91%，主要是由對AI基礎設施的鉅額支出所致。一些分析師對Meta的財報不買賬，認為“創造的現金幾乎全被AI基礎設施支出吞噬”。對於公司給出的第三季度營收預期，媒體稱“令人失望”。據報道，弗雷斯特研究公司研究總監表示：“投資者現在必須判斷，Meta不斷增加的AI專案究竟意味著業務多元化，還是分散了公司注意力。”截至發稿，Meta美股盤前下跌超8%。"
+    },
+    {
+      "id": "mkt:019fb2d5-6932-7aab-8f10-2ff3dc8497c7",
+      "time": "2026-07-30 19:42:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "A spokesperson for NATO’s Supreme Headquarters Allied Powers Europe (SHAPE) said NATO will continue to take all necessary measures to defend NATO territory."
+    },
+    {
+      "id": "5016926",
+      "time": "2026-07-30 19:42:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約歐洲盟軍最高司令部最高司令強調，北約將繼續採取一切必要措施防衛北約領土。"
+    },
+    {
+      "id": "mkt:019fb2d4-c68d-7aab-8f10-23dcce82d96b",
+      "time": "2026-07-30 19:41:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A spokesperson for NATO's Allied Command Operations said NATO is in close contact with Polish authorities over an incursion into Polish airspace."
+    },
+    {
+      "id": "5016925",
+      "time": "2026-07-30 19:41:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "百特國際第二季度營收增長，盤前股價上漲13%。"
+    },
+    {
+      "id": "te:markets:571233",
+      "time": "2026-07-30 19:41:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Intercontinental Exchange earnings below expectations at 1.90 USD — Intercontinental Exchange (ICE) released earnings per share at 1.90 USD, compared to market expectations of 1.92 USD."
+    },
+    {
+      "id": "te:markets:571232",
+      "time": "2026-07-30 19:41:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Southern earnings above expectations at 1.13 USD — Southern (SO) released earnings per share at 1.13 USD, compared to market expectations of 0.99 USD."
+    },
+    {
+      "id": "5016924",
+      "time": "2026-07-30 19:41:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雷軍：小米澎程綜合續航最高1705km，從上海開到北京中間絕對不用充電和加油】7月30日晚間訊息，在今日的小米澎程技術釋出會上，小米集團創始人、董事長、CEO雷軍發表演講。他表示，小米澎程N90 Max的CLTC綜合續航最高1705km，這是目前增程SUV達到的最好的表現。“有這樣的續航能力，大家從上海開到北京，1200多公里滿油滿電出發，我認為中間絕對不用充電，也絕對不用加油。”他還開玩笑稱，上次自己做了15個小時直播，自證小米的純電續航能力。這一次不打算自己幹了，還是挺累的，推薦大家自己去測。（新浪科技）"
+    },
+    {
+      "id": "5016923",
+      "time": "2026-07-30 19:41:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約歐洲盟軍最高司令今日早些時候與波蘭國防參謀長討論了這一事件。"
+    },
+    {
+      "id": "5016922",
+      "time": "2026-07-30 19:40:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約“歐洲盟軍最高司令部”發言人表示，北約正就波蘭領空遭侵犯一事與波蘭當局保持密切聯絡。"
+    },
+    {
+      "id": "mkt:019fb2d3-bd24-7aab-8f10-1e09f2e5ae49",
+      "time": "2026-07-30 19:40:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "JD.O"
+      ],
+      "text": "【JD.com, Qiteng Robotics agree strategic cooperation】China's JD.com has agreed a strategic cooperation with Qiteng Robotics to commercialize and scale deployments of Qiteng’s full robot product line across energy and petrochemicals, coal mining, power infrastructure, emergency security and rail transport sectors."
+    },
+    {
+      "id": "mkt:019fb2d3-5c02-7aab-8f10-1123c2f617ff",
+      "time": "2026-07-30 19:40:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【Bank of England sees inflation above 2% through end-2027】Bank of England central forecast shows annual inflation remaining above the 2% target until Q4 2027 as the energy-price shock passes through the economy. In a milder scenario the Bank expects inflation to fall below 2% by Q3 next year; in an adverse scenario its model projects inflation could rise above 4% in early next year and remain above 2% through 2029. Latest UK data showed annual inflation fell to 2.6% last month, a larger decline than expected."
+    },
+    {
+      "id": "5016921",
+      "time": "2026-07-30 19:40:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東與七騰機器人達成戰略合作】7月30日，京東與特種機器人企業七騰機器人達成戰略合作，雙方聚焦能源石化、煤炭礦山、電力基建、應急安防、軌道交通等場景的機器人應用，推動七騰機器人全系列產品規模落地與普及。"
+    },
     {
       "id": "mkt:019fb2d2-eeff-7aab-8f10-0b5c22adeba1",
       "time": "2026-07-30 19:39:55",
@@ -164997,187 +165125,6 @@
         "其他"
       ],
       "text": "達美航空將開通直飛沙烏地阿拉伯航線。"
-    },
-    {
-      "id": "5004650",
-      "time": "2026-07-23 19:44:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期美國國債收益率達到年內高點4.69%。"
-    },
-    {
-      "id": "mkt:019f8eca-976c-7aab-8e66-4f1249858d49",
-      "time": "2026-07-23 19:44:29",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "10-year US Treasury yield rose to 4.689%, the highest since January 2025."
-    },
-    {
-      "id": "5004649",
-      "time": "2026-07-23 19:44:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊/美元下跌0.3%至1.3340，創7月8日以來新低。"
-    },
-    {
-      "id": "5004648",
-      "time": "2026-07-23 19:44:12",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "資料顯示自首次公開發行(IPO)以來，做空SPACEX 的投資者按市值計算的預估利潤已增至約155億美元。"
-    },
-    {
-      "id": "5004647",
-      "time": "2026-07-23 19:44:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊拉克與科威特邊境口岸遭伊朗打擊】伊拉克安全部門訊息人士今天（7月23日）稱，位於伊拉克和科威特邊境地帶的阿卜杜利邊境口岸當天遭伊朗導彈襲擊。伊朗媒體今天早些時候援引伊朗官員的話報道說，美軍導彈襲擊了伊朗同伊拉克接壤的沙拉姆切赫邊境口岸，造成2人死亡。（CCTV國際時訊）"
-    },
-    {
-      "id": "5004646",
-      "time": "2026-07-23 19:43:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀將谷歌目標股價從400美元下調至379美元。"
-    },
-    {
-      "id": "mkt:019f8ec9-dc87-7aab-8e66-43de6900a784",
-      "time": "2026-07-23 19:43:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy said Ukraine and US representatives may meet in the United States in the coming days."
-    },
-    {
-      "id": "5004645",
-      "time": "2026-07-23 19:43:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盧泰文“間接回應”蘋果 iPhone Ultra：三星深耕摺疊屏手機領域 7 年，對手短期難追趕】三星電子裝置體驗（DX）部門負責人兼社長盧泰文在 2026 年三星 Galaxy 全球新品釋出會後受訪表示：“摺疊屏手機無論在技術還是市場層面都已進入成熟期。越來越多企業加入競爭，說明摺疊屏手機已經成為主流產品。”蘋果預計將在 9 月隨 iPhone 18 系列釋出首款摺疊屏手機。盧泰文強調：“三星推出首款摺疊屏手機至今已有 7 年，長期積累的技術實力和消費者洞察，是競爭對手短期內無法趕超的優勢。競爭越激烈，三星越要透過制定新標準、引領全球市場來保持領先。今天釋出的 Galaxy Z 系列重新定義了摺疊屏手機的標準。摺疊屏手機已經告別單純強調全新形態的階段，開始真正融入日常生活，消費者的需求也越來越多樣。”"
-    },
-    {
-      "id": "mkt:019f8ec9-c00b-7aab-8e66-38cbf8a4b366",
-      "time": "2026-07-23 19:43:34",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bearish"
-      ],
-      "text": "D.A. Davidson cuts Alphabet (GOOG.O) PT to $350 from $375."
-    },
-    {
-      "id": "mkt:019f8ec9-9a93-7aab-8e66-36584b26074c",
-      "time": "2026-07-23 19:43:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "TotalEnergies CEO said the latest EU sanctions agreement may allow the company to sell Russian LNG to non-EU buyers next year, and the firm looks forward to reviewing the final text."
-    },
-    {
-      "id": "mkt:019f8ec9-989b-7aab-8e66-2f924c2a0534",
-      "time": "2026-07-23 19:43:24",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact bullish",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O) disclosed in its 10-Q that it holds $94 billion of SpaceX (SPCX.O) shares following SpaceX’s IPO. As of June 30, tradeable equity securities included $80 billion of SpaceX stock; those shares are subject to short-term resale restrictions."
-    },
-    {
-      "id": "5004644",
-      "time": "2026-07-23 19:43:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【中電電機：股價異常波動 2026年上半年淨利潤預降84.56%-89.71%】中電電機公告稱，公司股票在2026年7月21日至7月23日連續3個交易日內日收盤價格漲幅偏離值累計達20%，屬異常波動。經核查，公司生產經營正常，不存在應披露未披露重大事項。公司預計2026年半年度歸母淨利潤360.00萬元到540.00萬元，同比減少89.71%到84.56%，主要受市場競爭、原材料漲價及非經常性損益變動影響。"
-    },
-    {
-      "id": "5004643",
-      "time": "2026-07-23 19:42:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【元川微完成數億元Pre A輪融資】近日，LPU創業公司元川微宣佈已完成Pre A輪數億元融資。至此，公司已在年內連續完成四輪融資。該輪融資完成後，元川微將進一步加快核心技術研發及工程推進，持續推動國產自主創新LPU+推理基礎設施的商業化落地。"
-    },
-    {
-      "id": "te:markets:569274",
-      "time": "2026-07-23 19:41:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Retreat Further — Futures tracking US equity indices fell for a second session on Thursday amid a deteriorating macroeconomic backdrop and fresh AI doubt on the latest earnings reports. Contracts for the S&P 500 and Dow dropped 0.5%, while those for the Nasdaq 100 fell over 1%. Alphabet dropped 5% premarket after posting its Q2 results overnight. The Google parent raised its capital expenditure forecast to $205 billion this, double of last year, to reignite concerns of unsustainable spending in AI infrastructure. Meanwhile, Tesla slipped 6% after reporting lower profits despite a strong period for the overall electric vehicle sector. Meanwhile, higher fuel prices lifted yields on greater escalation between Iran and the US, driving markets to position for a rate hike by this quarter. Financials remained under pressure with capital markets firms down. Among other earnings, Comcast and RTX were both higher topping their estimates."
-    },
-    {
-      "id": "5004642",
-      "time": "2026-07-23 19:41:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "D.A. DAVIDSON將ALPHABET目標價從375美元下調至350美元。"
-    },
-    {
-      "id": "5004641",
-      "time": "2026-07-23 19:41:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【谷歌母公司Alphabet股價盤前跌幅擴大至5%】谷歌母公司Alphabet股價盤前跌幅擴大至5%，Alphabet二季度自由現金流從去年同期的近250億美元驟降至負59億美元，為數十年來首次轉負。"
-    },
-    {
-      "id": "5004640",
-      "time": "2026-07-23 19:41:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基表示，烏克蘭與美國代表或將在未來數日內於美國舉行會談。"
-    },
-    {
-      "id": "5004639",
-      "time": "2026-07-23 19:41:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌3%，現報58.27美元/盎司。"
-    },
-    {
-      "id": "5004638",
-      "time": "2026-07-23 19:40:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "拉扎德執行長表示，銀行家的招聘與晉升重點集中在醫療保健、科技、國防等費用池更大的領域。"
-    },
-    {
-      "id": "5004637",
-      "time": "2026-07-23 19:40:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "拉扎德執行長表示，公司未來將開始在北美提供IPO諮詢服務。"
     }
   ]
 }
