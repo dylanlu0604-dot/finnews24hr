@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-31 02:43:51",
+  "updated": "2026-07-31 02:47:42",
   "count": 17890,
   "items": [
+    {
+      "id": "5017639",
+      "time": "2026-07-31 02:45:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "據知情人士透露，美國頁岩行業先驅哈羅德・哈姆計劃擴大在阿根廷瓦卡穆埃爾塔頁岩盆地的佈局，該盆地是全球頁岩油氣開發增速最快的區域。"
+    },
+    {
+      "id": "mkt:019fb457-5d73-7aab-8f1b-1acfabaeb4ae",
+      "time": "2026-07-31 02:44:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said it condemns Iran's renewed attacks on Jordanian and Kuwaiti territory, calling them violations of the two countries' sovereignty."
+    },
     {
       "id": "5017638",
       "time": "2026-07-31 02:38:11",
@@ -165161,22 +165177,6 @@
         "Impact bullish"
       ],
       "text": "Brent crude futures settled at $100.69/bbl, up $6.62 or 7.04%."
-    },
-    {
-      "id": "5005336",
-      "time": "2026-07-24 02:47:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們在應對伊朗問題上處理得很好，絕不會允許其擁有核武器。"
-    },
-    {
-      "id": "5005335",
-      "time": "2026-07-24 02:46:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普總統表示，新建人工智慧資料中心將自建發電廠，他稱此舉是重大舉措，既能擴充美國人工智慧基礎設施規模，還有助於降低民眾用電成本。"
     }
   ]
 }
