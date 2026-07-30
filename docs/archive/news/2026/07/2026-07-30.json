@@ -1,7 +1,182 @@
 {
   "date": "2026-07-30",
-  "count": 1215,
+  "count": 1234,
   "items": [
+    {
+      "id": "5015569",
+      "time": "2026-07-30 09:22:01",
+      "tags": [],
+      "text": "港股中際旭創（HK3308）上市首日開盤破發跌0.92％，現報971.00元，該股發行價為980.00元。"
+    },
+    {
+      "id": "5015568",
+      "time": "2026-07-30 09:21:51",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "央行公告稱，開展2705億元人民幣7天期逆回購操作，利率1.40%，持平上次。"
+    },
+    {
+      "id": "5015567",
+      "time": "2026-07-30 09:21:49",
+      "tags": [],
+      "text": "港股恒指高開漲0.26％，國企指數漲0.59％，科指開漲0.43%。"
+    },
+    {
+      "id": "mkt:019fb09c-e48c-7aab-8efd-d1746bdc7fe8",
+      "time": "2026-07-30 09:21:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "HSI",
+        "Impact bullish",
+        "09901.HK",
+        "03308.HK",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong stocks opened higher: Hang Seng Index up 0.26%, Hang Seng TECH Index up 0.43%. New Oriental (09901.HK) jumped 14.5%, JD Logistics (02618.HK) rose 2.5%, Zhongji Xuchuang (03308.HK) slipped 0.92% on its first trading day."
+    },
+    {
+      "id": "5015566",
+      "time": "2026-07-30 09:21:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "中際旭創在港交所上市首日，開盤報每股971港元，較980港元的發售價低0.9%。"
+    },
+    {
+      "id": "mkt:019fb09c-7f08-7aab-8efd-cf9b2a27c737",
+      "time": "2026-07-30 09:21:13",
+      "tags": [
+        "MKT News",
+        "HSI",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong open, July 30: HSI +67.91 pts (+0.26%) at 25,875.83; Hang Seng Tech Index +21.03 pts (+0.43%) at 4,885.76; HSCEI +50.67 pts (+0.59%) at 8,674.19; Red Chip Index +11.20 pts (+0.26%) at 4,241.61."
+    },
+    {
+      "id": "5015565",
+      "time": "2026-07-30 09:21:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "LG新能源預計第三季度儲能電池產量增長50%。"
+    },
+    {
+      "id": "mkt:019fb09c-72f6-7aab-8efd-c6bd4e0015a5",
+      "time": "2026-07-30 09:21:10",
+      "tags": [
+        "MKT News",
+        "005930.KS"
+      ],
+      "text": "Samsung Electronics said Q3 DRAM bit growth versus Q2 will be in the mid-single-digit range."
+    },
+    {
+      "id": "5015564",
+      "time": "2026-07-30 09:20:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐菲光等成立半導體科技新公司】企查查APP顯示，近日，芯光聯（深圳）半導體科技有限公司成立，經營範圍包含：積體電路晶片設計及服務；積體電路銷售；半導體分立器件製造；半導體分立器件銷售等。企查查股權穿透顯示，該公司由歐菲光等共同持股。"
+    },
+    {
+      "id": "5015563",
+      "time": "2026-07-30 09:20:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：第三季度DRAM位元增長較第二季度將處於個位數中低區間。"
+    },
+    {
+      "id": "5015562",
+      "time": "2026-07-30 09:19:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "LG新能源：第三季度營收預計較上一季度至少增長20%。"
+    },
+    {
+      "id": "5015561",
+      "time": "2026-07-30 09:19:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲5%，現報5131.00元。"
+    },
+    {
+      "id": "mkt:019fb09b-2c92-7aab-8efd-b9e1248dbb31",
+      "time": "2026-07-30 09:19:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Samsung Electronics said the supply-demand gap will widen next year."
+    },
+    {
+      "id": "te:economy:570933",
+      "time": "2026-07-30 09:19:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "Philippines Imports Growth at 3-Month Low — The Philippines’ trade deficit widened to USD 4.9 billion in June 2026 from USD 4.4 billion in the same month a year earlier. Imports rose 19.6% year-on-year to USD 13.7 billion, driven by increased purchases of electronic products (+82.9%), mainly semiconductors (+105.4%), amid growing global AI demand. Imports also grew for mineral fuels (+6.3%), industrial machinery and equipment (+1.3%), and cereals (+48.1%). China accounted for the largest share of imports (31.7%), followed by South Korea (13.0%), Japan (6.7%), and Indonesia (6.7%). Meanwhile, exports rose 24.1% to USD 8.8 billion, led by electronic products (+35.2%), primarily semiconductors (+33.4%). Exports also increased for machinery and transport equipment (+28.6%), gold (+43.8%), and other manufactured goods (+9.8%). The US remained the top export market, accounting for 20.1% of total exports, followed by Hong Kong (15.3%), China (11.4%), and Japan (11.3%). In H1 2026, the trade gap stood at USD 30.8 billion."
+    },
+    {
+      "id": "mkt:019fb09b-071b-7aab-8efd-b39fdc659594",
+      "time": "2026-07-30 09:19:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "Samsung Electronics said its memory business expects server demand to accelerate this year."
+    },
+    {
+      "id": "5015560",
+      "time": "2026-07-30 09:19:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗格什姆島遭襲，居民區受損。"
+    },
+    {
+      "id": "5015559",
+      "time": "2026-07-30 09:18:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星第二季度資本支出16.8萬億韓元，其中15.4萬億韓元用於晶片。"
+    },
+    {
+      "id": "mkt:019fb09a-102d-7aab-8efd-ab4e5b1aaba0",
+      "time": "2026-07-30 09:18:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "Samsung Electronics reported Q2 DRAM shipments rose a low double-digit percent quarter-on-quarter."
+    },
+    {
+      "id": "te:economy:570932",
+      "time": "2026-07-30 09:18:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Philippine Trade Gap Widens in June — The Philippines’ trade deficit widened to USD 4.9 billion in June 2026 from USD 4.4 billion in the same month a year earlier. Imports rose 19.6% year-on-year to USD 13.7 billion, driven by a sharp increase in purchases of electronic products (+82.9%), mainly semiconductors (+105.4%), amid growing global AI demand. Imports also increased for mineral fuels (+6.3%), industrial machinery and equipment (+1.3%), and cereals and cereal preparations (+48.1%). China accounted for the largest share of imports (31.7%), followed by South Korea (13.0%), Japan (6.7%), and Indonesia (6.7%). Meanwhile, exports rose 24.1% to USD 8.8 billion, led by electronic products (+35.2%), primarily semiconductors (+33.4%). Exports also increased for machinery and transport equipment (+28.6%), gold (+43.8%), and other manufactured goods (+9.8%). The US remained the top export market, accounting for 20.1% of total exports, followed by Hong Kong (15.3%), China (11.4%), and Japan (11.3%)."
+    },
     {
       "id": "mkt:019fb099-222b-7aab-8efd-a086a76b8e94",
       "time": "2026-07-30 09:17:33",
