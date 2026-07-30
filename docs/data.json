@@ -1,7 +1,102 @@
 {
-  "updated": "2026-07-30 14:17:46",
-  "count": 17921,
+  "updated": "2026-07-30 14:21:54",
+  "count": 17929,
   "items": [
+    {
+      "id": "mkt:019fb1af-498c-7aab-8f05-cd662ba89f05",
+      "time": "2026-07-30 14:21:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share CPO concept stocks dipped intraday then rebounded in the afternoon. Demingli, Fenghua High-Tech and Yongding hit daily limit-ups; Hongyuan Electronics jumped over 9%. Guoci Materials and Maixinlin also advanced."
+    },
+    {
+      "id": "5015994",
+      "time": "2026-07-30 14:20:53",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "創業板指跌幅收窄至1.5%以內，此前一度跌超6.5%。"
+    },
+    {
+      "id": "te:economy:571040",
+      "time": "2026-07-30 14:20:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Sweden Retail Growth Slows in June — Retail sales in Sweden rose 6.6% year-on-year in June 2026, slowing from an upwardly revised 8.1% rise in the previous month. The moderation was mainly driven by weaker durable goods sales (8.0% vs 10.5% in May) and sales of consumables excluding Systembolaget eased (5.3% vs 5.5%). In contrast, petrol station sales accelerated sharply (15.5% vs 4.7%) and non-specialised stores also strengthened (13.4% vs 7.8%). On a seasonally adjusted monthly basis, retail sales rose 1.0% in June 2026, reversing from a revised 0.1% decrease in the previous month. Over the latest three-month period (April–June), the calendar-adjusted and seasonally adjusted retail sales volume was 2.3% higher than in the preceding three-month period (January–March)."
+    },
+    {
+      "id": "5015993",
+      "time": "2026-07-30 14:20:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "工會：西捷航空乘務員已發出72小時罷工通知。"
+    },
+    {
+      "id": "5015992",
+      "time": "2026-07-30 14:20:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【IMF測算“稀土斷供”對各大國影響：日本最慘】據《日本經濟新聞》7月28日報道，國際貨幣基金組織(IMF)一項測算顯示，若稀土供應量減少八成，日本實際國內生產總值(GDP)將下降2.3%。該機構分析指出，與其他美歐等主要國家相比，日本受到的打擊將最為嚴重。（參考訊息）"
+    },
+    {
+      "id": "mkt:019fb1ae-8744-7aab-8f05-c747689b6516",
+      "time": "2026-07-30 14:20:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【World Gold Council: Q2 gold rally pauses; market shows resilience】World Gold Council Q2 2026 Global Gold Demand Trends: as prices pulled back from record highs earlier in 2026, Q2 global gold demand was flat YoY at 1,269 t. 1H demand rose 2% YoY to 2,522 t (about $380bn). The price retreat cooled investment: Q2 investment in ETFs, bars and coins fell to 262 t; ETF net outflows of 45 t were the primary driver of the quarterly investment decline, though ETFs still recorded a small 1H net inflow of 18 t. Bars and coins were relatively stable, down 3% YoY in Q2 and up 21% YoY in 1H on strong Q1. Asia-led OTC/over-the-counter investment reached 327 t in Q2, taking 1H OTC demand to 571 t."
+    },
+    {
+      "id": "5015991",
+      "time": "2026-07-30 14:19:52",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【油氣板塊異動拉昇 科力股份漲超10%】午後油氣板塊異動拉昇，科力股份漲超10%，通源石油、方正閥門、潛能恆信、山東墨龍、中國海油漲幅靠前。訊息面上，布倫特原油主力合約在昨日大漲超7%基礎上，今日盤中快速轉漲超1%，站上89美元/桶。"
+    },
+    {
+      "id": "5015990",
+      "time": "2026-07-30 14:18:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大和：SK海力士近期股價調整過度，建議趁低吸納，目標價降至300萬韓元】大和發表報告指，SK海力士第二季收入79.3萬億韓元，環比增長51%、同比增長257%；經營溢利60.5萬億韓元，環比增長61%、同比增長557%，均低於該行及市場預期約7%，主因DRAM產品組合欠佳導致銷售均價升幅低於預期。管理層對下半年展望正面，預期DRAM出貨量第三季環比增長約10%，產品組合持續改善，包括HBM4及1cnm DRAM。報告指，公司管理層因ADR相關限制未有提供股東回報具體細節，惟預期SK海力士將於下半年公佈盈利反彈及額外股東回報計劃。公司已與約10名客戶簽訂平均五年期的長期供應協議，定價結構有助對沖市場波動及鎖定需求能見度。大和認為SK海力士近期股價調整過度，建議投資者趁低吸納，重申“買入”評級，惟因應儲存器同業估值下調，將目標市盈率由9.38倍下調20%至7.5倍，12個月目標價由360萬韓元下調至300萬韓元。"
+    },
+    {
+      "id": "5015989",
+      "time": "2026-07-30 14:17:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【伊朗衝突催生市場需求，芝商所化肥期貨交易熱度攀升】受伊朗衝突引發農業投入品供應不確定性影響，化肥期貨需求大幅上漲。化肥短缺已成為全球農戶面臨的一大難題，化肥價格波動尤為劇烈。期貨合約需求升溫並不侷限於化肥品類；芝商所本月上市碎牛肉期貨，還計劃在 8 月推出高粱基差期貨合約。"
+    },
+    {
+      "id": "5015988",
+      "time": "2026-07-30 14:17:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時縮量198億元。"
+    },
     {
       "id": "5015987",
       "time": "2026-07-30 14:16:36",
@@ -165345,22 +165440,6 @@
         "公司"
       ],
       "text": "【4D世界模型公司PrimalVerse完成數億元種子輪融資】近日， 4D世界模型公司PrimalVerse （元昊動力）宣佈完成數億元種子輪融資，由聯想之星、銀杏谷資本、啟賦資本、卓源亞洲等知名財務投資機構聯合參與，手術機器人領域頭部產業方精鋒醫療戰略投資。據悉，本輪融資將主要用於4D世界模型基模研發及團隊擴充，並持續推進其在具身智慧、遊戲影視、自動駕駛、醫療手術等垂直場景中的應用驗證。"
-    },
-    {
-      "id": "5003715",
-      "time": "2026-07-23 14:20:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新易盛成交額達200億元】7月23日下午，新易盛成交額達200億元，現跌2.52%。"
-    },
-    {
-      "id": "5003714",
-      "time": "2026-07-23 14:19:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【訊息人士稱美國正向中東地區增派軍力】據美國方面22日訊息，訊息人士透露稱，當前美國正向中東地區增派軍力，從而為美國總統特朗普擴大對伊朗的衝突提供更多軍事選項。美國方面援引訊息人士的話稱，美國正在向中東地區增派部隊、醫務人員以及武器裝備。根據飛行追蹤資料以及美國官員透露的訊息，過去一週，特種作戰部隊已從美國本土基地部署至中東地區。一名官員還稱，多個戰鬥機中隊已在中東地區集結，位於美國和英國基地的轟炸機也處於高度戒備狀態。（央視新聞）"
     }
   ]
 }
