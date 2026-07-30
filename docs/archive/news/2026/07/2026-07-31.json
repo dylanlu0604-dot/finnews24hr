@@ -1,7 +1,160 @@
 {
   "date": "2026-07-31",
-  "count": 420,
+  "count": 434,
   "items": [
+    {
+      "id": "5017729",
+      "time": "2026-07-31 05:18:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "蘋果CEO庫克： 蘋果與博通達成合作，是邁向構建美國端到端晶片供應鏈目標的重要一步。"
+    },
+    {
+      "id": "mkt:019fb4e4-406a-7aab-8f1d-240d7856b12c",
+      "time": "2026-07-31 05:18:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) CEO Tim Cook said the company plans to reinvest tariff refunds in the United States."
+    },
+    {
+      "id": "5017728",
+      "time": "2026-07-31 05:17:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "蘋果CEO庫克：我們計劃將關稅退款重新投入美國本土業務。"
+    },
+    {
+      "id": "mkt:019fb4e3-b8c1-7aab-8f1d-18ea4d551a9d",
+      "time": "2026-07-31 05:17:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon (AMZN.O) CEO said companies increasingly cite safety concerns when discussing AI."
+    },
+    {
+      "id": "5017727",
+      "time": "2026-07-31 05:17:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜CEO： 企業在談及人工智慧時，越來越多地提及安全問題。 AWS Continuum 安全產品業務將實現快速增長。"
+    },
+    {
+      "id": "mkt:019fb4e3-ac3c-7aab-8f1d-14e4945708cf",
+      "time": "2026-07-31 05:17:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) U.S. shares extended after-hours gains to 10%."
+    },
+    {
+      "id": "mkt:019fb4e3-56a3-7aab-8f1d-0a4830a7ab09",
+      "time": "2026-07-31 05:17:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Amazon (AMZN.O) CEO said even with increased capex the company will still be unable to meet all demand in 2026."
+    },
+    {
+      "id": "5017726",
+      "time": "2026-07-31 05:16:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜CEO： 即便上調資本支出，我們 2026 年的產能依舊不足以滿足全部需求。"
+    },
+    {
+      "id": "5017725",
+      "time": "2026-07-31 05:16:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任凱文·哈塞特：密切關注能源價格。"
+    },
+    {
+      "id": "mkt:019fb4e2-6744-7aab-8f1d-010cff638bc8",
+      "time": "2026-07-31 05:16:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Amazon (AMZN.O) CEO said rising memory costs mean the company now expects 2026 cash capital expenditures of about $220 billion."
+    },
+    {
+      "id": "5017724",
+      "time": "2026-07-31 05:15:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲1.19%，報14847點。"
+    },
+    {
+      "id": "5017723",
+      "time": "2026-07-31 05:15:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "亞馬遜CEO： 受記憶體成本上漲影響，目前預計 2026 年現金資本支出約 2200 億美元。"
+    },
+    {
+      "id": "mkt:019fb4e1-4723-7aab-8f1c-fd5f54b638ab",
+      "time": "2026-07-31 05:14:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Amazon",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) CEO said companies with the technical capability will use proprietary data to build their own foundation models."
+    },
+    {
+      "id": "5017722",
+      "time": "2026-07-31 05:14:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果CEO庫克： Apple TV 達成 EGOT 里程碑的速度超越所有其他流媒體平臺。"
+    },
     {
       "id": "mkt:019fb4e0-a35f-7aab-8f1c-f0b4016637cf",
       "time": "2026-07-31 05:14:08",
