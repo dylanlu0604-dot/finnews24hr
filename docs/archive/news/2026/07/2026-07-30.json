@@ -1,7 +1,235 @@
 {
   "date": "2026-07-30",
-  "count": 1324,
+  "count": 1349,
   "items": [
+    {
+      "id": "mkt:019fb0af-4210-7aab-8eff-6c69b46e3af5",
+      "time": "2026-07-30 09:41:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI rose 5% intraday to 5,950.55, with Samsung Electronics up 7% and SK Hynix up 3.2%."
+    },
+    {
+      "id": "mkt:019fb0af-29d3-7aab-8eff-60451402fbc1",
+      "time": "2026-07-30 09:41:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share precious metals sector rose in early trade; Zhaojin Gold hit the daily limit, while Chifeng Gold, Western Gold, Zhongjin Gold, Sichuan Gold and Shanjin International also advanced."
+    },
+    {
+      "id": "5015627",
+      "time": "2026-07-30 09:41:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國綜指漲幅擴大至5%，現報5950.55點。個股方面，三星電子漲超6%，SK海力士漲超3%。"
+    },
+    {
+      "id": "te:economy:570947",
+      "time": "2026-07-30 09:41:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Building Permits MoM",
+        "Importance 1"
+      ],
+      "text": "Australia Building Permits Unexpectedly Rise — Australia's seasonally adjusted dwelling approvals rose 7.2% month-on-month to a four-month high of 18,328 units in June 2026, defying expectations of a 1% fall and following a revised 2.7% decline in May. The increase was driven by a 17.8% rebound in approvals for private sector dwellings excluding houses to 7,138 units, while approvals for private sector houses edged up 0.4% to 10,631. Compared with a year earlier, total dwelling approvals increased 8.9%, with approvals for private sector houses rising 15.8%, while approvals for private sector dwellings excluding houses slipped 1.5%. In trend terms, total dwelling approvals rose 2.0% to 18,449 units. Across the states, trend approvals increased in New South Wales (3.9%), Queensland (4.1%), South Australia (1.0%), Tasmania (1.5%), and the Northern Territory (3.6%), were unchanged in Victoria, and declined in Western Australia (-0.2%) and the Australian Capital Territory (-3.6%)."
+    },
+    {
+      "id": "5015626",
+      "time": "2026-07-30 09:41:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股教育股走強 新東方漲近16%】截至發稿，新東方-S(09901.HK)漲15.68%，光正教育(06068.HK)漲4.69%。"
+    },
+    {
+      "id": "mkt:019fb0ae-b897-7aab-8eff-5808f82e3010",
+      "time": "2026-07-30 09:41:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Samsung Electronics expects HBM market share in H2 to be consistent with its overall DRAM market share."
+    },
+    {
+      "id": "mkt:019fb0ae-955b-7aab-8eff-5495b9332654",
+      "time": "2026-07-30 09:40:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "Samsung Electronics shares rose 7%."
+    },
+    {
+      "id": "5015625",
+      "time": "2026-07-30 09:40:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲7%。"
+    },
+    {
+      "id": "mkt:019fb0ae-6997-7aab-8eff-4ca73831329f",
+      "time": "2026-07-30 09:40:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share photolithography-equipment sector fell for a third straight session; Zhongchuan Special Gas and Jiezhong Technology tumbled over 8%, with Wavelength Optoelectronics, Dongfang Jiasheng, Maolai Optical and Xinlai Yingcai also down."
+    },
+    {
+      "id": "5015624",
+      "time": "2026-07-30 09:40:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：預計下半年HBM市場份額將與DRAM整體市場份額持平。"
+    },
+    {
+      "id": "5015623",
+      "time": "2026-07-30 09:40:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：高頻寬記憶體4（HBM4）第三季度收入較第二季度增長兩倍以上。"
+    },
+    {
+      "id": "5015622",
+      "time": "2026-07-30 09:40:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "LG新能源將於第三季度重啟位於俄亥俄州的Ultimate Cells工廠的運營。"
+    },
+    {
+      "id": "mkt:019fb0ad-79cb-7aab-8eff-40ce2991edfc",
+      "time": "2026-07-30 09:39:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Weighted Index gains over 2%."
+    },
+    {
+      "id": "5015621",
+      "time": "2026-07-30 09:39:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星：2027年記憶體供應緊張形勢將更加嚴峻。"
+    },
+    {
+      "id": "5015620",
+      "time": "2026-07-30 09:39:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【智慧駕駛概念表現活躍 浙江世寶直線漲停】智慧駕駛概念表現活躍，浙江世寶直線漲停，萬集科技、索菱股份、北汽藍谷、金龍汽車跟漲。"
+    },
+    {
+      "id": "5015619",
+      "time": "2026-07-30 09:39:23",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "貴金屬板塊早盤拉昇，招金黃金觸及漲停，赤峰黃金、西部黃金、中金黃金、四川黃金、山金國際跟漲。"
+    },
+    {
+      "id": "mkt:019fb0ac-f9c8-7aab-8eff-382dcfa0bee0",
+      "time": "2026-07-30 09:39:13",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact mixed"
+      ],
+      "text": "Samsung Electronics said its policy to return 50% of free cash flow to shareholders could be affected by customer deposits and employee bonuses."
+    },
+    {
+      "id": "5015618",
+      "time": "2026-07-30 09:39:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【光刻機板塊再度走弱 中船特氣、捷眾科技跌超8%】光刻機板塊再度走弱，中船特氣、捷眾科技跌超8%，波長光電、東方嘉盛、茂萊光學跟跌。"
+    },
+    {
+      "id": "5015617",
+      "time": "2026-07-30 09:39:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股黃金股走強 紫金黃金國際漲近5%】截至發稿，紫金黃金國際(02259.HK)漲4.84%，珠峰黃金(01815.HK)漲3.37%，赤峰黃金(06693.HK)漲3.27%。"
+    },
+    {
+      "id": "5015616",
+      "time": "2026-07-30 09:39:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子表示，晶片供應短缺情況將在2027年進一步加劇，並延續至2028年。"
+    },
+    {
+      "id": "5015615",
+      "time": "2026-07-30 09:38:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星：預計全年移動裝置平均售價和銷量均將增長。"
+    },
+    {
+      "id": "te:economy:570945",
+      "time": "2026-07-30 09:38:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Export Prices MoM",
+        "Importance 1"
+      ],
+      "text": "Australia Export Prices Rise 1.1% in Q2 — Australia's export prices climbed 1.1% quarter-on-quarter in Q2 2026, after a 0.5% rise in the previous quarter. It was the third consecutive quarterly increase, driven primarily by a 5.4% rise in coal, coke, and briquettes due to higher thermal coal prices amid stronger demand. Meanwhile, petroleum and related products jumped 22.7%, buoyed by higher oil prices due to ongoing tensions in the Middle East. Crude fertilisers also surged 20.9%, reflecting growing demand for lithium used in the battery storage and electric vehicle sectors, as well as constrained Chinese inventories. However, the increase was offset by declines in non-monetary gold (-8.8%), as tightening monetary policy expectations and higher US Treasury bond yields outweighed safe-haven demand, and metalliferous ores and metal scrap (-1.4%), which were weighed down by high Chinese iron ore stockpiles and strong global supply conditions."
+    },
+    {
+      "id": "5015614",
+      "time": "2026-07-30 09:38:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【房地產概念異動拉昇，香江控股漲停】房地產概念異動拉昇，香江控股漲停，大名城、陸家嘴、ST三木、錦和商管、臥龍新能、華髮股份等跟漲。"
+    },
+    {
+      "id": "5015613",
+      "time": "2026-07-30 09:37:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數上漲2%至40,855.63點。"
+    },
+    {
+      "id": "5015612",
+      "time": "2026-07-30 09:37:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "網際網路保險板塊直線走高，佳雲科技漲超10%，愛仕達、國源科技、志晟資訊、金證股份、天利科技跟漲。"
+    },
     {
       "id": "mkt:019fb0ab-70dd-7aab-8eff-31ddd03cff1f",
       "time": "2026-07-30 09:37:33",
