@@ -1,7 +1,87 @@
 {
-  "updated": "2026-07-31 02:28:25",
-  "count": 17902,
+  "updated": "2026-07-31 02:32:15",
+  "count": 17900,
   "items": [
+    {
+      "id": "mkt:019fb44b-acc8-7aab-8f1b-02abda9d59fc",
+      "time": "2026-07-31 02:31:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Axios, citing four people familiar with the matter, the White House and President Trump's peace committee believe Hamas could sign within days an agreement to gradually disarm and demilitarize the Gaza Strip."
+    },
+    {
+      "id": "mkt:019fb44b-9b79-7aab-8f1a-fb7e66d940bf",
+      "time": "2026-07-31 02:31:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close of the Shanghai futures night session, the main gold contract rose 1.20% to 895 yuan/gram, the main silver contract rose 1.82% to 14,402 yuan/kilogram, and the SC crude main contract fell 1.39% to 553 yuan/barrel."
+    },
+    {
+      "id": "mkt:019fb44b-73ff-7aab-8f1a-f5ce9128a06c",
+      "time": "2026-07-31 02:31:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange: Gold T+D closed up 0.96% at 891.03 yuan/gram in the July 30 evening session; Silver T+D closed up 1.6% at 14,330 yuan/kg."
+    },
+    {
+      "id": "mkt:019fb44b-62e2-7aab-8f1a-ecfdb5eefe79",
+      "time": "2026-07-31 02:31:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jordan's foreign ministry said Jordan's foreign minister held a call with his UAE counterpart to discuss regional developments and de-escalation efforts. Both condemned Iran's attacks on Jordan; the UAE reiterated support for Jordan's security and stability."
+    },
+    {
+      "id": "mkt:019fb44b-55df-7aab-8f1a-e2b5c223490b",
+      "time": "2026-07-31 02:31:03",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Israeli media: US Wednesday strikes 'only the tip of the iceberg'; bigger retaliation likely】i24News reported that after a six-day pause US forces struck dozens of IRGC targets overnight in retaliation for a missile strike on US troops in Jordan, attacks by Iran-backed militias and continued threats from Tehran. Sources said Washington is preparing a major counterstrike described as 'far beyond anything we've seen'; one source called last night's strikes 'only the tip of the iceberg' and warned follow-up operations could be more severe. Israel has kept a low profile and is letting the US lead. An Israeli diplomatic source who attended a summit with Trump said discussions covered possible diplomatic deals and continued pressure, and that Israel judges a significant military operation—potentially imminent—may be necessary to effect fundamental change on the ground."
+    },
+    {
+      "id": "5017632",
+      "time": "2026-07-31 02:30:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨結算價報每桶83.59美元，下跌87美分，跌幅1.03%"
+    },
+    {
+      "id": "te:markets:571333",
+      "time": "2026-07-31 02:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Appreciates by 3.92% — Top crypto gainers are Binance (3.92%), Bitcoin (1.34%) and Ether (0.55%)."
+    },
+    {
+      "id": "5017631",
+      "time": "2026-07-31 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌1.39%，報553.20元人民幣/桶。滬金夜盤收漲1.20%，滬銀收漲1.82%。"
+    },
     {
       "id": "5017630",
       "time": "2026-07-31 02:27:49",
@@ -165208,89 +165288,6 @@
         "XAUUSD"
       ],
       "text": "In the July 23 (Thursday) evening session, Shanghai Gold Exchange gold T+D closed down 2.05% at 882.1 yuan/gram; silver T+D closed down 3.82% at 14,058 yuan/kg."
-    },
-    {
-      "id": "5005321",
-      "time": "2026-07-24 02:31:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍中央司令部：已調轉12艘商船航線，並使其失去行動能力。"
-    },
-    {
-      "id": "5005320",
-      "time": "2026-07-24 02:30:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMI宣佈AMI Rack Manager支援AMD Helios機架級解決方案，同時Aptio V和MegaRAC OneTree支援第六代AMD EPYC處理器，加速全球AI資料中心的部署。"
-    },
-    {
-      "id": "5005319",
-      "time": "2026-07-24 02:30:37",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將Alphabet Inc.目標股價從每股460.00美元下調至每股420.00美元。"
-    },
-    {
-      "id": "5005318",
-      "time": "2026-07-24 02:30:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "NOTA AI加入AMD機器人合作伙伴網路，加速下一代實體人工智慧解決方案開發，且將其裝置端人工智慧最佳化技術拓展至機器人領域。"
-    },
-    {
-      "id": "te:markets:569366",
-      "time": "2026-07-24 02:30:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Drops by 2.85% — Top crypto losers are Ether (-2.85%) and Bitcoin (-2.06%)."
-    },
-    {
-      "id": "5005317",
-      "time": "2026-07-24 02:30:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲7.11%，報604.00元人民幣/桶。滬金夜盤收跌2.21%，滬銀收跌4.22%。"
-    },
-    {
-      "id": "mkt:019f903d-6497-7aab-8e71-845d88f1e2f3",
-      "time": "2026-07-24 02:29:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ICI: U.S. money market fund assets fell to $7.86 trillion."
-    },
-    {
-      "id": "5005316",
-      "time": "2026-07-24 02:29:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "賓州州長：就扣留公共安全資金提起訴訟。"
-    },
-    {
-      "id": "mkt:019f903c-ff88-7aab-8e71-78fcd2adc1e6",
-      "time": "2026-07-24 02:29:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【German military to pull two warships from Red Sea within days】The German defense ministry said on Thursday the military will move two vessels from the Red Sea to the Mediterranean \"in the coming days.\" The minesweeper Fulda and replenishment ship Mosel were deployed to Djibouti to be available to potentially operate in the Strait of Hormuz after a US-Iran war ended; they will now be partially withdrawn, the ministry said, citing the region's \"turbulent political situation.\""
-    },
-    {
-      "id": "5005315",
-      "time": "2026-07-24 02:29:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "賓州州長表示，他將起訴特朗普政府。"
     }
   ]
 }
