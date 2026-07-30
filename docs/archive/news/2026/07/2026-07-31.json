@@ -1,7 +1,83 @@
 {
   "date": "2026-07-31",
-  "count": 5,
+  "count": 13,
   "items": [
+    {
+      "id": "te:economy:571315",
+      "time": "2026-07-31 00:07:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Mortgage Rate",
+        "Importance 1"
+      ],
+      "text": "US 30-Year Mortgage Rate Extends Weekly Climb — The average rate on a 30-year fixed mortgage in the US rose to 6.66% as of July 30, 2026, from 6.58% a week earlier, marking the fourth consecutive weekly increase. According to Freddie Mac Chief Economist Sam Khater, the housing market continues to benefit from rising inventory levels, giving prospective homebuyers more options and supporting demand despite fluctuating mortgage rates. A year earlier, the average 30-year fixed mortgage rate stood at 6.72%. Meanwhile, the average rate on a 15-year fixed mortgage increased to 6.04% from 5.96% the previous week."
+    },
+    {
+      "id": "5017478",
+      "time": "2026-07-31 00:07:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "Reformation在紐交所上市，開盤價為15美元，與首次公開募股發行價持平。"
+    },
+    {
+      "id": "te:markets:571314",
+      "time": "2026-07-31 00:07:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.17% Lower — The FTSE 100 Index decreased 19 points or 0.17 percent on Thursday to close at 10890 points. The decline was led by Rentokil Initial (-21.00%), London Stock Exchange (-7.08%) and Relx (-6.73%). On the upside, the strongest performers were Rolls-Royce (5.66%), Antofagasta (4.37%) and Halma (4.05%)."
+    },
+    {
+      "id": "5017477",
+      "time": "2026-07-31 00:06:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元兌美元上漲1%。"
+    },
+    {
+      "id": "mkt:019fb3c6-30ff-7aab-8f18-9966c9362f20",
+      "time": "2026-07-31 00:05:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The UAE news agency said Abu Dhabi's foreign minister spoke by phone with Jordan's foreign minister and Egypt's foreign minister."
+    },
+    {
+      "id": "mkt:019fb3c6-06ad-7aab-8f18-96bbb50322e9",
+      "time": "2026-07-31 00:05:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fannie Mae said the average US 30-year fixed-rate mortgage was 6.66% in the week ending July 30, a one-year high and up from 6.58% the prior week."
+    },
+    {
+      "id": "mkt:019fb3c6-0377-7aab-8f18-8eb5448cc190",
+      "time": "2026-07-31 00:05:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukrainian officials said Russian missile and drone strikes overnight killed at least eight people."
+    },
+    {
+      "id": "5017476",
+      "time": "2026-07-31 00:03:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報58.75美元/盎司。"
+    },
     {
       "id": "5017475",
       "time": "2026-07-31 00:02:44",
