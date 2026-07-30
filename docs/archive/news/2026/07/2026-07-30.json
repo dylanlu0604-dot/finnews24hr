@@ -1,7 +1,82 @@
 {
   "date": "2026-07-30",
-  "count": 1113,
+  "count": 1121,
   "items": [
+    {
+      "id": "mkt:019fb07d-26d5-7aab-8efc-d5cd10d6d850",
+      "time": "2026-07-30 08:46:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Axios, U.S. officials said President Trump met with Saudi Arabia's defense minister on Wednesday local time."
+    },
+    {
+      "id": "mkt:019fb07c-9f7e-7aab-8efc-cd7d4236fc0f",
+      "time": "2026-07-30 08:46:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Kumamoto prefectural government says earthquake fatalities have risen to 17."
+    },
+    {
+      "id": "mkt:019fb07c-5aad-7aab-8efc-c31097c500e2",
+      "time": "2026-07-30 08:46:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Reports said U.S. HIMARS rockets fired from Kuwait struck targets in Iran."
+    },
+    {
+      "id": "5015499",
+      "time": "2026-07-30 08:44:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國盛證券：強厄爾尼諾腳步漸近 對農產品影響機率分化顯著】國盛證券研報指出，厄爾尼諾已確認形成，強—超強級別機率極高。2026年6月11日，美國國家海洋和大氣管理局正式宣佈厄爾尼諾現象的形成；2026年7月最新發布的ENSO機率結果來看，本輪厄爾尼諾形成已是高度確定事件；同時2026年10—12月超強厄爾尼諾發生的機率達到了80%以上，本輪厄爾尼諾氣候擾動的最強衝擊視窗集中於2026年秋冬。厄爾尼諾對農產品影響機率分化顯著。基於1981年以來歷次厄爾尼諾事件的統計：可可豆、天然橡膠、棕櫚油為高確定性減產作物；玉米、棉花、蘋果減產確定性相對偏弱；甘蔗、紅棗、大豆為厄爾尼諾氣候下的受益品種，歷史增產機率較大；小麥、稻穀無明確影響趨勢。"
+    },
+    {
+      "id": "5015498",
+      "time": "2026-07-30 08:44:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌2％，SK海力士跌超7%，三星電子跌超2%。"
+    },
+    {
+      "id": "mkt:019fb07a-62b1-7aab-8efc-bcb8b55e2056",
+      "time": "2026-07-30 08:43:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI fell as much as 2.00% intraday; SK Hynix fell over 7% and Samsung Electronics fell over 2%."
+    },
+    {
+      "id": "5015497",
+      "time": "2026-07-30 08:43:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios援引美國官員訊息，特朗普週三會見了沙特國防大臣哈立德·本·薩勒曼。"
+    },
+    {
+      "id": "5015496",
+      "time": "2026-07-30 08:43:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士股價跌幅擴大至7%。"
+    },
     {
       "id": "5015495",
       "time": "2026-07-30 08:42:38",
