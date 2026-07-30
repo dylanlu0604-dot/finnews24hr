@@ -1,7 +1,301 @@
 {
   "date": "2026-07-31",
-  "count": 80,
+  "count": 113,
   "items": [
+    {
+      "id": "5017546",
+      "time": "2026-07-31 01:00:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：07月31日00時58分在臺灣台東縣海域附近（北緯23.03度，東經121.47度）發生4.1級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5017545",
+      "time": "2026-07-31 01:00:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：經季節調整後，美國7月29日當週未償商業票據餘額增加55億美元。"
+    },
+    {
+      "id": "5017544",
+      "time": "2026-07-31 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.87%，滬銅收漲0.75%，滬鋁收漲0.57%，滬鋅收漲0.67%，滬鉛收跌0.67%，滬鎳收漲0.76%，滬錫收漲2.15%。氧化鋁夜盤收跌0.34%，鋁合金收漲0.49%。不鏽鋼夜盤收漲0.51%。"
+    },
+    {
+      "id": "mkt:019fb3f7-a1e3-7aab-8f19-64d2ede88641",
+      "time": "2026-07-31 00:59:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's defense minister said Israel will respond forcefully to any threat."
+    },
+    {
+      "id": "mkt:019fb3f7-64f8-7aab-8f19-58e2bc27cc8f",
+      "time": "2026-07-31 00:59:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israel's defense minister said the military is fully prepared to meet any contingency, for both defensive and offensive operations."
+    },
+    {
+      "id": "5017543",
+      "time": "2026-07-31 00:59:07",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【微軟有望創下市值增幅紀錄】微軟公司有望創下美股史上個股最大單日市值增幅。微軟盤中最大漲幅達 17%。截至紐約時間下午 12 時 55 分，公司市值增加 4900 億美元。資料顯示，若該漲幅維持至收盤，將超越去年特朗普總統宣佈暫停 90 天關稅後英偉達創下的 4400 億美元市值增幅，重新整理歷史紀錄。"
+    },
+    {
+      "id": "5017542",
+      "time": "2026-07-31 00:57:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "義大利國家電力公司（ENEL）首席財務官表示：我們預計西班牙業務下半年業績將非常出色，智利業務則有望復甦。"
+    },
+    {
+      "id": "5017541",
+      "time": "2026-07-31 00:57:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：委內瑞拉官方尚未正式宣佈延長專案調整截止日期，但告知各家企業，可先行簽署主合同，後續靈活簽署補充協議。"
+    },
+    {
+      "id": "mkt:019fb3f5-b98e-7aab-8f19-5696b4a3da28",
+      "time": "2026-07-31 00:57:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Apple (AAPL.O) CEO Tim Cook said Apple has donated to support relief efforts for those affected by the Kumamoto earthquake and aftershocks."
+    },
+    {
+      "id": "5017540",
+      "time": "2026-07-31 00:56:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：委內瑞拉官員與石油企業高管正推進數十家合資企業適用全新條款的調整工作，相關條款已在政府全面改革框架下獲批，但敲定啟動專案所需協議仍存在延誤。"
+    },
+    {
+      "id": "5017539",
+      "time": "2026-07-31 00:56:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "最近24小時，MarketVectorTM數字資產100小盤指數漲1%，暫報2073點。MarketVectorTM數字資產100中盤指數漲1.83%，報2381.55點，北京時間05:05重新整理日低至2311.71點以來持續反彈。MarketVector數字資產100指數漲1.68%，報12847.19點。目前，Solana漲1.78%，狗狗幣漲0.80%，XRP漲1.47%。比特幣漲1.54%，暫報64763.94美元，北京時間05:08跌至63269.29美元，隨後持續上揚；以太坊漲1.18%，暫報1917.18美元。"
+    },
+    {
+      "id": "5017538",
+      "time": "2026-07-31 00:55:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果CEO： 熊本地震及其餘震持續帶來影響，我們心繫當地民眾。感謝奔赴一線救助受災群眾的應急救援人員。蘋果公司將捐款支援救災工作。"
+    },
+    {
+      "id": "5017537",
+      "time": "2026-07-31 00:55:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲1.00%，現報52112.500點；納指漲2.39%，現報25027.578點；標普500指數漲1.34%，現報7414.420點。"
+    },
+    {
+      "id": "5017536",
+      "time": "2026-07-31 00:55:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【加拿大鎳業克勞福德鎳礦專案獲聯邦政府批准】訊息人士報道，加拿大鎳業公司旗艦專案克勞福德專案已獲得聯邦政府批准，掃清開工前一項關鍵監管障礙。這家總部位於多倫多的公司上週表示，在一家核心政府機構向加拿大環境與氣候變化部長提交影響評估報告後，該專案進入渥太華審批最終階段。執行長馬克・塞爾比稱，公司正推進相關工作，計劃於 2027 年敲定專案建設決議。克勞福德專案被視作全球規模最大的鎳礦資源專案之一。今年早些時候，該專案獲得安大略省政府支援，當地政府推出舉措加快省內礦業開發審批。"
+    },
+    {
+      "id": "5017535",
+      "time": "2026-07-31 00:53:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲222美元，報13803美元/噸。LME期鋁收漲16美元，報3196美元/噸。LME期鋅收漲52美元，報3622美元/噸。LME期鉛收跌4美元，報1896美元/噸。LME期鎳收漲133美元，報17270美元/噸。LME期錫收漲1096美元，報54978美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
+    {
+      "id": "mkt:019fb3f1-f368-7aab-8f19-4f5b6a906c61",
+      "time": "2026-07-31 00:53:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A first informal straw poll of the UN Security Council shows Costa Rica’s Rebeca Grynspan currently leading the UN secretary-general race."
+    },
+    {
+      "id": "mkt:019fb3f1-b9c2-7aab-8f19-442900724d02",
+      "time": "2026-07-31 00:53:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Lebanese army commander says internal divisions are among the targets of Israeli occupiers and must be countered."
+    },
+    {
+      "id": "5017534",
+      "time": "2026-07-31 00:52:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "外交人士稱，聯合國安理會首次非正式意向投票顯示，哥斯大黎加的麗貝卡·格林斯潘在角逐新任聯合國秘書長的競爭中目前處於領先地位。"
+    },
+    {
+      "id": "5017533",
+      "time": "2026-07-31 00:51:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩陸軍司令：內部分裂是以色列佔領的目標之一，必須予以應對。"
+    },
+    {
+      "id": "5017532",
+      "time": "2026-07-31 00:50:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "蒂森克虜伯紐瑟拉預計第三季度集團初步銷售額1.45億歐元。"
+    },
+    {
+      "id": "5017531",
+      "time": "2026-07-31 00:48:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東歐因多瑙河水位創歷史新低而面臨限電危機】7月30日，多瑙河水位在布達佩斯創下歷史新低。隨著多瑙河水位降至歷史最低點導致核電產量下降，東歐消費者正為潛在的電力限制做準備。匈牙利總理彼得·毛焦爾（Peter Magyar）週四表示，由於冷卻水短缺，保克什（Paks）核電站將史上首次關停。為此，匈牙利已要求包括汽車製造商和電池製造商在內的大型工業企業限制用電。該核電站提供了匈牙利40%以上的電力產量，其運營商表示，電站必須在72小時內暫時停運。"
+    },
+    {
+      "id": "5017530",
+      "time": "2026-07-31 00:48:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將諾基亞展望上調至“正面”，因業務多元化及現金流穩定；確認“BBB-”評級。"
+    },
+    {
+      "id": "te:markets:571327",
+      "time": "2026-07-31 00:48:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Japanese Yen Rebounds on Likely Intervention — The Japanese yen surged past 160 per dollar on Thursday from the 40-year low of 164 in the prior session amid the likely intervention by the Ministry of Finance. The probable move followed the $74.2 billion in selling by the MoF on the month to May 27th. This brought relief to recent pressure from high energy prices, fiscal concerns, and wide interest rate differentials. Soaring LNG and petrol prices due to the war in Iran raised dollar bids in Japan by energy importers and pressured growth due to lower margins, pressuring the domestic currency. In the meantime, fiscal concerns were magnified by the domestic tax panel reiterating the proposal to cut food taxes to 1% from the current 8%, adding to the supply of yen through fresh debt. Lastly, the Bank of Japan is due to hold rates unchanged tomorrow following their hike in June. The BoJ is expected to still deliver hikes this year, but the expectation of hikes by the US Fed limited any narrowing in the rate differential."
+    },
+    {
+      "id": "mkt:019fb3eb-e424-7aab-8f19-3df4a7cdd8a2",
+      "time": "2026-07-31 00:46:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi hosts talks on maritime defence alliance; 43 countries and EU delegation attend】Saudi Arabia hosted an international meeting to discuss forming a maritime defence alliance, the Saudi defence ministry said. Delegations from 43 countries and an EU delegation attended; participants discussed Saudi Arabia acting as founding leader and host of the proposed alliance’s headquarters. The grouping would bolster defence cooperation across the Bab al‑Mandeb, Red Sea and Gulf of Aden to protect navigation and global trade. Fourteen countries, including Turkey, Pakistan, Egypt, Sudan and Djibouti, issued a joint statement backing the proposal. The defence ministry said any country may apply to join."
+    },
+    {
+      "id": "mkt:019fb3e9-61b0-7aab-8f19-37a2f0efd003",
+      "time": "2026-07-31 00:44:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU returned to Israel after concluding a US visit, landing at Nevatim Air Base."
+    },
+    {
+      "id": "5017529",
+      "time": "2026-07-31 00:44:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝發言人稱沙特正走向全面升級局勢。此前有訊息稱，沙特在葉門薩那發動襲擊。"
+    },
+    {
+      "id": "5017528",
+      "time": "2026-07-31 00:43:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Cigna警示GLP-1處方藥增速放緩，禮來股價下跌】在藥品福利管理機構信諾集團（Cigna）表示第二季度GLP-1處方藥增速放緩，並預計下半年銷量將“略低”後，禮來公司股價盤中跌幅最高達4.5%，創下自4月以來的最大單日盤中跌幅。信諾首席財務官Ann Dennison在財報電話會議上表示：“第二季度，我們觀察到GLP-1的增長有所放緩，因為保障水平（coverage levels）略有下降，且使用量的增速較前期的高位有所減緩。我們預計這一趨勢將在今年剩餘時間內持續，並且已將其納入我們的全年業績展望中。”"
+    },
+    {
+      "id": "5017527",
+      "time": "2026-07-31 00:41:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "義大利國家電力公司（ENEL）首席財務官表示：集團預計義大利能源法案政令將對2027年債務產生16億至18億歐元的負面影響。"
+    },
+    {
+      "id": "5017526",
+      "time": "2026-07-31 00:41:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "世界貿易組織：巴西就美國額外關稅提起爭端訴訟。"
+    },
+    {
+      "id": "mkt:019fb3e6-310e-7aab-8f19-29d8734b0e02",
+      "time": "2026-07-31 00:40:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemen's Houthi spokesman said signs indicate Saudi Arabia is moving toward full escalation."
+    },
+    {
+      "id": "mkt:019fb3e5-f268-7aab-8f19-2283717427ed",
+      "time": "2026-07-31 00:40:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sen. Cornyn said Trump may withdraw his nomination of Blanch; that could be a negotiating tactic, but related consultations have effectively collapsed at least through the end of this week."
+    },
+    {
+      "id": "5017525",
+      "time": "2026-07-31 00:39:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：卡達強烈譴責針對埃及達米埃塔港兩艘液化天然氣運輸船的襲擊行為。我們重申卡達反對針對關鍵設施的襲擊，並強調必須避免該地區遭受無端襲擊所帶來的後果；重申卡達與埃及站在一起，並支援埃及為維護其主權與安全所採取的一切措施。"
+    },
+    {
+      "id": "5017524",
+      "time": "2026-07-31 00:39:13",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【花旗稱日元將轉弱，建議在日本央行決議前做多美元兌日元】花旗集團分析師Daniel Tobon、高島修（Osamu Takashima）和Brian Levine認為，日元存在走弱的空間，因為日本央行行長植田和男不太可能發出比市場預期更為鷹派的訊號。“我們買入1個月期、執行價為160.50/162的美元兌日元看漲期權價差。”美元兌日元的大幅走低“與以往干預期間出現的走勢一致”。然而，“植田行長無法在週五的日本央行會議上發出超出市場預期的鷹派訊號，這可能會導致市場失望。”“我們認為美元兌日元今晚存在反彈的空間，且隨後將有進一步的上漲跟進。”"
+    },
     {
       "id": "5017523",
       "time": "2026-07-31 00:38:54",
