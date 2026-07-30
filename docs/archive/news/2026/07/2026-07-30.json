@@ -1,7 +1,212 @@
 {
   "date": "2026-07-30",
-  "count": 3691,
+  "count": 3712,
   "items": [
+    {
+      "id": "5017257",
+      "time": "2026-07-30 21:51:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【長電科技：股價連續三日跌幅偏離值超20% 無應披露未披露事項】長電科技公告稱，公司股票在2026年7月28日-7月30日連續3個交易日內收盤價格跌幅偏離值累計超20%，屬異常波動。經自查及向控股股東、實控人核實，截至公告披露日，公司生產經營正常，未發現應披露而未披露的重大事項，董事、高管、控股股東及實控人在此期間無買賣公司股票情況。公司2026年半年度業績預測未經審計，提醒投資者注意風險。"
+    },
+    {
+      "id": "5017256",
+      "time": "2026-07-30 21:50:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌執行長表示，力爭在今年年底前作出加拿大液化天然氣二期專案最終投資決策。"
+    },
+    {
+      "id": "5017255",
+      "time": "2026-07-30 21:50:53",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【費城半導體指數漲超7％】費城半導體指數漲超7％，閃迪漲約20％，希捷科技漲約18％，西部資料漲約16％，美光科技漲約11％，SK海力士漲約11％。"
+    },
+    {
+      "id": "te:markets:571292",
+      "time": "2026-07-30 21:50:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "HSBC Holdings Stock Price Hits 27-year High — HSBC Holdings shares increased to 1590.00 GBp, the highest since July 1999. Over the past 4 weeks, HSBC Holdings gained 10.34%, and in the last 12 months, it increased 72.24%."
+    },
+    {
+      "id": "mkt:019fb34a-98eb-7aab-8f15-96b18ad95f68",
+      "time": "2026-07-30 21:50:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Shell CFO says more liquefied natural gas is shifting from Asia to Europe."
+    },
+    {
+      "id": "5017254",
+      "time": "2026-07-30 21:50:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部對陝西甘肅啟動洪水防禦Ⅳ級應急響應】據預報，受西南季風和冷空氣共同影響，7月30日20時至8月3日8時，陝西西南部、甘肅東南部區域性將有暴雨，並伴有短時強降雨；30日20時至31日20時，陝西省鳳縣、略陽縣、勉縣、寧強縣，甘肅省成縣、徽縣、康縣、兩當縣、文縣、武都區、西和縣、麥積區、秦州區等13個縣（區）山洪災害達到橙色預警級別。 根據《水利部水旱災害防禦應急響應工作規程》，水利部於7月30日21時針對陝西、甘肅兩省啟動洪水防禦Ⅳ級應急響應。督促指導地方水利部門強化值班值守和會商研判，抓細抓實山洪災害防禦各項工作，加強雨水情監測預報預警，落實臨災預警“叫應”機制，緊盯“誰組織、轉移誰、何時轉、轉何處、不擅返”五個關鍵環節責任和措施，提前轉移危險區人員，切實維護人民群眾生命財產安全。（水利部）"
+    },
+    {
+      "id": "mkt:019fb34a-4ffc-7aab-8f15-885731bf5d3f",
+      "time": "2026-07-30 21:50:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Shell CEO expects the LNG market to tighten over the next quarter."
+    },
+    {
+      "id": "mkt:019fb34a-153a-7aab-8f15-8390aeb7995c",
+      "time": "2026-07-30 21:50:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shell CEO says the Middle East war has had a major impact on the LNG spot market."
+    },
+    {
+      "id": "te:markets:571291",
+      "time": "2026-07-30 21:49:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Sugar Hits 4-week Low — Sugar decreased to 14.37 USd/Lbs, the lowest since June 2026. Over the past 4 weeks, Sugar lost 4.12%, and in the last 12 months, it decreased 12.09%."
+    },
+    {
+      "id": "te:markets:571290",
+      "time": "2026-07-30 21:49:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Rises Above $58 on Weaker Dollar — Silver climbed above $58 per ounce on Thursday, supported by a weaker US dollar as investors assessed the Federal Reserve's decision to keep interest rates unchanged and monitored escalating tensions in the Middle East. The Fed left its benchmark rate at 3.50%-3.75%, while Chair Kevin Warsh reiterated the central bank's commitment to bringing inflation under control. Meanwhile, the US military said it struck dozens of IRGC targets in Iran after Tehran launched ballistic missiles at US troops in Jordan, heightening concerns that a broader conflict could reignite inflationary pressures. Markets are pricing in roughly a 60% chance of a Fed rate hike in September. Higher interest rates typically weigh on non-yielding precious metals such as silver by increasing the opportunity cost of holding them."
+    },
+    {
+      "id": "5017253",
+      "time": "2026-07-30 21:49:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：上半年累計接待遊客3.13億人次，同比增長17.60%】2026年上半年，上海文旅市場持續鞏固高質量發展向好態勢，呈現“客流穩步回升、消費韌性強勁、假日拉動顯著、數字服務賦能增效”的整體格局。從客流維度看，全市累計接待遊客3.13億人次，同比增長17.60%，月度走勢前穩後揚，春節、五一兩大假期形成明顯客流高峰。從消費維度看，全市全要素文旅消費總額達5433.26億元，同比增長8.75%。從文旅產業看，演出經濟、文商旅體展深度融合專案熱度持續走高，以“滬小遊”為核心的數字文旅服務平臺落地見效，線上諮詢、預約、購票一體化服務效能持續提升。從客源構成看，長三角通勤商務客群、全國來滬商旅人群、境外高淨值入境客群、本地品質休閒市民四大群體共同構成上海旅遊市場核心消費主體，多元客群疊加推動市場活力持續釋放。"
+    },
+    {
+      "id": "5017252",
+      "time": "2026-07-30 21:48:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4100美元/盎司，日內漲0.84%。"
+    },
+    {
+      "id": "5017251",
+      "time": "2026-07-30 21:48:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "殼牌首席財務官表示，更多液化天然氣運力已從亞洲轉向歐洲。"
+    },
+    {
+      "id": "5017250",
+      "time": "2026-07-30 21:48:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4160美元/盎司，日內漲1.54%。"
+    },
+    {
+      "id": "5017249",
+      "time": "2026-07-30 21:48:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌首席財務官表示，預計下季度液化天然氣市場將供應緊張。"
+    },
+    {
+      "id": "5017248",
+      "time": "2026-07-30 21:48:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "殼牌執行長表示，中東衝突對液化天然氣市場的主要影響集中在現貨市場。"
+    },
+    {
+      "id": "mkt:019fb348-3741-7aab-8f15-7be0b39abc35",
+      "time": "2026-07-30 21:48:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【PCE cools but Fed's job far from finished】June personal consumption expenditures (PCE) price index edged down — a modestly positive signal for the Fed but still well above the Fed's 2% target. Fed Chair Kevin Warsh said at a Wednesday press conference he will watch a broader set of inflation indicators beyond PCE. Despite an oil-price shock, US consumer spending remained resilient: Commerce Department data show consumer spending rose 3.2% in Q2, up from 0.5% in Q1."
+    },
+    {
+      "id": "5017247",
+      "time": "2026-07-30 21:48:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌首席財務官表示，預計下一季度液化天然氣市場將供應緊張。"
+    },
+    {
+      "id": "5017246",
+      "time": "2026-07-30 21:47:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "殼牌執行長表示，中東衝突對液化天然氣市場的主要影響體現在現貨市場。"
+    },
+    {
+      "id": "te:markets:571289",
+      "time": "2026-07-30 21:47:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Extends Gains on Softer Dollar — Gold climbed to $4,080 per ounce on Thursday, extending Wednesday's 2% rally as a weaker US dollar provided support, while investors assessed the Federal Reserve's decision to leave rates unchanged and monitored escalating tensions in the Middle East. The Fed kept rates at 3.50%-3.75%, with Chair Kevin Warsh reaffirming the central bank's commitment to bringing inflation down. Meanwhile, the US military said it struck dozens of IRGC targets in Iran after Tehran launched ballistic missiles at US troops in Jordan, raising concerns over renewed inflationary pressures. Although gold is widely viewed as a hedge against inflation and geopolitical uncertainty, expectations of higher interest rates for longer tend to weigh on the non-yielding metal. Markets are currently pricing in roughly a 60% chance of a Fed rate hike in September. Separately, the World Gold Council said unofficial gold inflows into India have risen since the country increased import tariffs earlier this year."
+    },
+    {
+      "id": "5017245",
+      "time": "2026-07-30 21:47:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特二季度的石油收入為1851億里亞爾。"
+    },
     {
       "id": "5017244",
       "time": "2026-07-30 21:47:37",
