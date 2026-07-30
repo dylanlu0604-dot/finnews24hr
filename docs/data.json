@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-31 04:07:42",
+  "updated": "2026-07-31 04:11:44",
   "count": 17874,
   "items": [
+    {
+      "id": "mkt:019fb4a5-03d4-7aab-8f1c-1de96404111c",
+      "time": "2026-07-31 04:09:01",
+      "tags": [
+        "MKT News",
+        "RIVN.O",
+        "Impact bullish"
+      ],
+      "text": "Rivian (RIVN.O) raised FY2026 delivery guidance to 65,000-70,000 vehicles, up from its prior forecast of 62,000-67,000."
+    },
+    {
+      "id": "mkt:019fb4a4-7c90-7aab-8f1c-17b689770b24",
+      "time": "2026-07-31 04:08:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV reported Iran's foreign minister accused Israel of orchestrating a drone attack on Egypt's Damietta port."
+    },
+    {
+      "id": "5017688",
+      "time": "2026-07-31 04:07:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "Coinbase 第二季度總營收 12.2 億美元，市場預期 12.9 億美元。"
+    },
+    {
+      "id": "5017687",
+      "time": "2026-07-31 04:07:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "Reddit二季度營收8.049億美元，分析師預期7.318億美元。"
+    },
     {
       "id": "te:markets:571336",
       "time": "2026-07-31 04:06:56",
@@ -164996,43 +165030,6 @@
         "Importance 0"
       ],
       "text": "Hartford Financial Services earnings above expectations at 3.42 USD — Hartford Financial Services (HIG) released earnings per share at 3.42 USD, compared to market expectations of 3.22 USD."
-    },
-    {
-      "id": "mkt:019f9099-d917-7aab-8e73-0f34dbc851f5",
-      "time": "2026-07-24 04:10:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX (SPCX.O): Citing weather, Starship's 13th flight test is scheduled for Friday, July 24."
-    },
-    {
-      "id": "mkt:019f9099-5b47-7aab-8e73-02eb33da169d",
-      "time": "2026-07-24 04:09:57",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "【Dollar index up 0.32% to 101.445 at New York close on 23rd】The dollar index, measuring the dollar against six major currencies, rose 0.32% to 101.445 at the New York close on the 23rd. EUR/USD 1.1377, down from 1.1411; GBP/USD 1.3318, down from 1.3373. USD/JPY 163.80, up from 163.13; USD/CHF 0.8169, up from 0.8146; USD/CAD 1.4076, down from 1.4085; USD/SEK 9.7663, up from 9.7014."
-    },
-    {
-      "id": "5005387",
-      "time": "2026-07-24 04:09:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：受天氣影響，現計劃於週五開展飛行測試。"
-    },
-    {
-      "id": "5005386",
-      "time": "2026-07-24 04:08:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾：專用定製晶片營收同比增長近兩倍。"
     }
   ]
 }

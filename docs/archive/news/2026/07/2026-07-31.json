@@ -1,7 +1,41 @@
 {
   "date": "2026-07-31",
-  "count": 344,
+  "count": 348,
   "items": [
+    {
+      "id": "mkt:019fb4a5-03d4-7aab-8f1c-1de96404111c",
+      "time": "2026-07-31 04:09:01",
+      "tags": [
+        "MKT News",
+        "RIVN.O",
+        "Impact bullish"
+      ],
+      "text": "Rivian (RIVN.O) raised FY2026 delivery guidance to 65,000-70,000 vehicles, up from its prior forecast of 62,000-67,000."
+    },
+    {
+      "id": "mkt:019fb4a4-7c90-7aab-8f1c-17b689770b24",
+      "time": "2026-07-31 04:08:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV reported Iran's foreign minister accused Israel of orchestrating a drone attack on Egypt's Damietta port."
+    },
+    {
+      "id": "5017688",
+      "time": "2026-07-31 04:07:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "Coinbase 第二季度總營收 12.2 億美元，市場預期 12.9 億美元。"
+    },
+    {
+      "id": "5017687",
+      "time": "2026-07-31 04:07:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "Reddit二季度營收8.049億美元，分析師預期7.318億美元。"
+    },
     {
       "id": "te:markets:571336",
       "time": "2026-07-31 04:06:56",
