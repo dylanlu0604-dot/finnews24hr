@@ -1,7 +1,152 @@
 {
   "date": "2026-07-30",
-  "count": 3611,
+  "count": 3626,
   "items": [
+    {
+      "id": "5017203",
+      "time": "2026-07-30 21:31:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "ARM HOLDINGS股價上漲高達19%，創3月25日以來最大漲幅。"
+    },
+    {
+      "id": "5017202",
+      "time": "2026-07-30 21:30:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆：我已向特朗普總統表明，我將對北海問題採取務實態度。"
+    },
+    {
+      "id": "5017201",
+      "time": "2026-07-30 21:30:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "微軟股價大漲12%，創2020年以來最大單日漲幅。"
+    },
+    {
+      "id": "5017200",
+      "time": "2026-07-30 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.65%，標普500指數漲0.90%，納指漲1.54%。泛林集團漲20.02%，百特國際漲19.22%，廣達公司漲18.59%，Arm Holdings Plc漲17.16%，希捷漲14.01%。“七姐妹”方面：微軟漲11.67%，亞馬遜漲2.92%，特斯拉漲1.57%，英偉達漲1.23%，谷歌跌0.37%，蘋果跌1.68%，Meta Platforms跌9.14%。"
+    },
+    {
+      "id": "mkt:019fb338-3e6c-7aab-8f14-d8a4147768c4",
+      "time": "2026-07-30 21:30:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish",
+        "SNDK.O",
+        "SKHY.O"
+      ],
+      "text": "【US stocks open higher; storage sector rebounds】At the open, all three major US indexes rose: Dow +0.6%, S&P 500 +1.0%, Nasdaq +1.6%. Microsoft (MSFT.O) jumped about 12% after its fiscal Q4 cloud business grew well above expectations. Storage names led gains—SanDisk (SNDK.O) up ~11%, SK Hynix (SKHY.O) about +7%."
+    },
+    {
+      "id": "5017199",
+      "time": "2026-07-30 21:30:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，攜程漲0.80%，嘉楠科技漲0.65%。"
+    },
+    {
+      "id": "te:markets:571280",
+      "time": "2026-07-30 21:30:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Microsoft Stock Price Hits 8-week High — Microsoft shares increased to 437.04 USD, the highest since June 2026. Over the past 4 weeks, Microsoft gained 16.84%, and in the last 12 months, it decreased 15.08%."
+    },
+    {
+      "id": "te:markets:571279",
+      "time": "2026-07-30 21:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Meta Stock Price Hits 17-week Low — Meta shares decreased to 524.88 USD, the lowest since March 2026. Over the past 4 weeks, Meta Platforms, Inc. gained 3.96%, and in the last 12 months, it decreased 15.77%."
+    },
+    {
+      "id": "5017198",
+      "time": "2026-07-30 21:29:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "7月30日，全球基金淨買入印度股票362億印度盧比。"
+    },
+    {
+      "id": "mkt:019fb336-e6b0-7aab-8f14-d21343bdc248",
+      "time": "2026-07-30 21:29:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "White House National Economic Council director Hassett said he does not believe markets are in a bubble because of AI advances."
+    },
+    {
+      "id": "5017197",
+      "time": "2026-07-30 21:29:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬事達卡首席財務官表示：預計中東衝突帶來的影響將與我們在第二季度末所見的影響水平大致相當。"
+    },
+    {
+      "id": "5017196",
+      "time": "2026-07-30 21:28:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬事達卡首席財務官：中東局勢動盪帶來的影響在第二季度逐步減弱，嚴重程度低於我們此前預期。"
+    },
+    {
+      "id": "5017195",
+      "time": "2026-07-30 21:27:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "提示：哈塞特講話結束。"
+    },
+    {
+      "id": "5017194",
+      "time": "2026-07-30 21:27:38",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "哈塞特：認為人工智慧並未令市場進入泡沫區間。"
+    },
+    {
+      "id": "5017193",
+      "time": "2026-07-30 21:27:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州：美團外賣騎手納入消防救援聯動體系】30日上午，“一呼百應”滅火救援應急聯動合作簽約暨美團騎手志願消防服務隊授旗啟動儀式在廣州市消防救援局舉行，首批志願騎手經培訓後正式納入城市滅火救援應急聯動體系。 （新華社）"
+    },
     {
       "id": "5017192",
       "time": "2026-07-30 21:26:48",
