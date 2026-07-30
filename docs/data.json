@@ -1,7 +1,261 @@
 {
-  "updated": "2026-07-31 03:40:15",
-  "count": 17877,
+  "updated": "2026-07-31 04:03:46",
+  "count": 17875,
   "items": [
+    {
+      "id": "mkt:019fb49e-f72d-7aab-8f1b-f1300cca83ff",
+      "time": "2026-07-31 04:02:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) is up over 5% in after-hours trading after reporting earnings."
+    },
+    {
+      "id": "mkt:019fb49e-f575-7aab-8f1b-efeb9ac438fb",
+      "time": "2026-07-31 04:02:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) Q2 2026 AWS revenue $42.2 billion vs market consensus $40.481 billion, beating estimates by about $1.72 billion."
+    },
+    {
+      "id": "mkt:019fb49e-5989-7aab-8f1b-e135a90d3174",
+      "time": "2026-07-31 04:01:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) Q2 2026 revenue $200.6 bln, up from $167.7 bln a year earlier; consensus $196.4 bln — beat by $4.2 bln (2.1%)."
+    },
+    {
+      "id": "te:markets:571335",
+      "time": "2026-07-31 04:01:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Near $89 — Brent fell nearly 1.8% to below $89 a barrel on Thursday, following a 7.9% surge in the previous session, amid signs of improving shipping activity through the Strait of Hormuz and continued diplomatic efforts to ease regional tensions, despite ongoing hostilities in the Middle East. According to Kpler, 14 commodity vessels transited the Strait of Hormuz in both directions on Wednesday, up from single-digit daily crossings recorded last week. Qatar also dispatched its first LNG cargo through the waterway, while reports indicated that Saudi Arabia had proposed a naval coalition to safeguard key trade routes. Meanwhile, elevated crude inventories in China continued to weigh on import demand, further easing fears of a near-term supply squeeze. However, geopolitical risks remained elevated after US forces struck dozens of Iranian military targets in an effort to weaken Tehran's ability to threaten regional shipping and US allies."
+    },
+    {
+      "id": "5017683",
+      "time": "2026-07-31 04:01:28",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "亞馬遜第二季度經營利潤274.6億美元，預估236.1億美元。亞馬遜二季度淨銷售2006億美元，預期1970.1億美元。"
+    },
+    {
+      "id": "mkt:019fb49e-0db4-7aab-8f1b-de0a7b5dc5d2",
+      "time": "2026-07-31 04:01:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "MU.O",
+        "Impact bullish",
+        "SKHY.O",
+        "SNDK.O"
+      ],
+      "text": "【U.S. close: Nasdaq up 2.78% as memory-chip stocks surge】U.S. stocks closed higher on Thursday: Dow Jones Industrial Average +1.19%, S&P 500 +1.67%, Nasdaq Composite +2.78%. Memory-chip names led the rally—Micron Technology (MU.O) +18%, SanDisk (SNDK.O) +26%, SK Hynix (SKHY.O) +17%—while NVIDIA (NVDA.O) rose just over 2%. The Nasdaq Golden Dragon China Index gained 1.05%; iQIYI (IQ.O) +4%."
+    },
+    {
+      "id": "mkt:019fb49d-9f98-7aab-8f1b-d70b7bc505af",
+      "time": "2026-07-31 04:00:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil slips on 30th; U.S. crude $83.59, Brent $89.03 at close】NYMEX September light sweet crude futures fell $0.87 to settle at $83.59 a barrel, down 1.03% at the close. London Brent September futures fell $1.71 to $89.03 a barrel, down 1.88% at the close."
+    },
+    {
+      "id": "5017682",
+      "time": "2026-07-31 04:00:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "微軟股價大漲 16%，創 2008 年以來最大單日漲幅。"
+    },
+    {
+      "id": "5017681",
+      "time": "2026-07-31 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲1.19%，標普500指數漲1.67%，納指漲2.84%。閃迪漲25.99%，埃姆科漲19.36%，美光漲18.39%，泛林集團漲17.95%。“七姐妹”方面：微軟漲15.61%，亞馬遜漲3.92%，特斯拉漲3.46%，英偉達漲2.75%，谷歌跌0.60%，蘋果跌1.33%，Meta Platforms跌7.82%。"
+    },
+    {
+      "id": "mkt:019fb49d-5353-7aab-8f1b-ca06b77ebe4a",
+      "time": "2026-07-31 04:00:37",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【US dollar index falls 1.01% to 99.868 at New York close】The US dollar index, measuring the dollar against six major currencies, fell 1.01% to 99.868 at the New York close on the 30th. EUR/USD rose to 1.1535 from 1.1452; GBP/USD to 1.3476 from 1.3364. USD/JPY fell to 158.93 from 163.32; USD/CHF to 0.8040 from 0.8149; USD/CAD to 1.3996 from 1.4040; USD/SEK to 9.5189 from 9.6434."
+    },
+    {
+      "id": "te:markets:571334",
+      "time": "2026-07-31 04:00:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Down on Thursday — Crude oil fell nearly 1% to below $84 a barrel on Thursday, following a 6.6% surge in the previous session, amid signs of improving shipping activity through the Strait of Hormuz and continued diplomatic efforts to ease regional tensions, despite ongoing hostilities in the Middle East. According to Kpler, 14 commodity vessels transited the Strait of Hormuz in both directions on Wednesday, up from single-digit daily crossings recorded last week. Qatar also dispatched its first LNG cargo through the waterway, while reports indicated that Saudi Arabia had proposed a naval coalition to safeguard key trade routes. Meanwhile, elevated crude inventories in China continued to weigh on import demand, further easing fears of a near-term supply squeeze. However, geopolitical risks remained elevated after US forces struck dozens of Iranian military targets in an effort to weaken Tehran's ability to threaten regional shipping and US allies."
+    },
+    {
+      "id": "5017680",
+      "time": "2026-07-31 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲1.05%】盛豐物流漲26.12%，世紀互聯漲16.14%，好未來漲13.31%，高途漲8.53%，迅雷漲8.22%。"
+    },
+    {
+      "id": "mkt:019fb49b-bd9c-7aab-8f1b-c536d91e9127",
+      "time": "2026-07-31 03:58:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iraq government spokesman said if the Strait of Hormuz remains closed, the government will turn to external borrowing."
+    },
+    {
+      "id": "5017679",
+      "time": "2026-07-31 03:57:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數30日大幅下跌】衡量美元對六種主要貨幣的美元指數當天下跌1.01%，在匯市尾市收於99.868。截至紐約匯市尾市，1歐元兌換1.1535美元，高於前一交易日的1.1452美元；1英鎊兌換1.3476美元，高於前一交易日的1.3364美元。1美元兌換158.93日元，低於前一交易日的163.32日元；1美元兌換0.8040瑞士法郎，低於前一交易日的0.8149瑞士法郎；1美元兌換1.3996加元，低於前一交易日的1.4040加元；1美元兌換9.5189瑞典克朗，低於前一交易日的9.6434瑞典克朗。"
+    },
+    {
+      "id": "5017678",
+      "time": "2026-07-31 03:56:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價30日下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌87美分，收於每桶83.59美元，跌幅為1.03%；9月交貨的倫敦布倫特原油期貨價格下跌1.71美元，收於每桶89.03美元，跌幅為1.88%。"
+    },
+    {
+      "id": "5017677",
+      "time": "2026-07-31 03:56:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長：我們所有人必須警惕以色列的各類陰謀以及旨在破壞地區和平的偽旗行動。威脅已然明晰，各方都面臨這一威脅， 而（該勢力）懼怕穆斯林團結一致。"
+    },
+    {
+      "id": "mkt:019fb499-3f56-7aab-8f1b-bb9e297c4050",
+      "time": "2026-07-31 03:56:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi said Egypt is an important regional friend and partner and that its security is vital to Iran."
+    },
+    {
+      "id": "5017676",
+      "time": "2026-07-31 03:54:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長：埃及是地區內重要的友邦與合作伙伴，埃及的安全對我們至關重要。"
+    },
+    {
+      "id": "5017674",
+      "time": "2026-07-31 03:52:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "據半島電視臺記者：與阿曼馬斯喀特方面圍繞霍爾木茲海峽開展的談判並未中斷。任何有關霍爾木茲海峽的協議，都可能成為解除海上封鎖與石油制裁的突破口。"
+    },
+    {
+      "id": "5017673",
+      "time": "2026-07-31 03:51:37",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "墨西哥財政部：維持 2026 年國內生產總值（GDP）增速預期區間 1.8% 至 2.8%。"
+    },
+    {
+      "id": "mkt:019fb493-ae30-7aab-8f1b-b023b5a8b0d1",
+      "time": "2026-07-31 03:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "AMZN.O"
+      ],
+      "text": "Amazon and Apple will report earnings after the U.S. market close on July 30."
+    },
+    {
+      "id": "5017672",
+      "time": "2026-07-31 03:46:23",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "墨西哥財政部：墨西哥石油收入實際條款同比增長2.1%。"
+    },
+    {
+      "id": "mkt:019fb48f-fc89-7aab-8f1b-aa479b86ef6c",
+      "time": "2026-07-31 03:46:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Senate confirmed David Cummins as administrator of the Transportation Security Administration (TSA)."
+    },
+    {
+      "id": "5017671",
+      "time": "2026-07-31 03:45:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院確認 David Cummins 出任運輸安全管理局新任局長。"
+    },
     {
       "id": "mkt:019fb489-1eb3-7aab-8f1b-a4a85ba7d687",
       "time": "2026-07-31 03:38:32",
@@ -164795,271 +165049,6 @@
         "BABA.N"
       ],
       "text": "【US close: major indexes lower; Tesla plunges over 14%】U.S. equities closed lower Thursday: Dow -0.97%, S&P 500 -1.2%, Nasdaq -2.15%. Micron Technology (MU.O) +3%, SK Hynix (SKHY.O) +2.5%, Alphabet (GOOG.O) -7%, Tesla (TSLA.O) -14.5%, SpaceX (SPCX.O) +2%. Nasdaq Golden Dragon China Index -0.57%; Alibaba (BABA.N) -2%."
-    },
-    {
-      "id": "5005381",
-      "time": "2026-07-24 04:03:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價23日大幅上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲5.36美元，收於每桶92.19美元，漲幅為6.17%；9月交貨的倫敦布倫特原油期貨價格上漲6.62美元，收於每桶100.69美元，漲幅為7.04%。"
-    },
-    {
-      "id": "te:economy:569371",
-      "time": "2026-07-24 04:03:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Paraguay",
-        "Producer Prices Change",
-        "Importance 0"
-      ],
-      "text": "Paraguay PPI Extends Annual Decline — Paraguay's Producer Price Index fell 1.8% year-on-year in June 2026, following a 1.5% decline in May and marking its fifth consecutive annual decrease. The decline was driven mainly by lower prices for domestically produced agricultural and horticultural products, as well as imported metal products, machinery and equipment, non-metallic manufactured goods, and food, beverages, tobacco, textiles, and leather products. Overall, the annual decline was primarily explained by falling prices of imported goods. This was partly offset by higher prices for domestically produced goods, particularly food, beverages, tobacco, textiles and leather products, forestry products, and non-metallic manufactured goods."
-    },
-    {
-      "id": "5005380",
-      "time": "2026-07-24 04:03:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉股價暴跌15%，創下自2025年3月以來最大跌幅。"
-    },
-    {
-      "id": "5005379",
-      "time": "2026-07-24 04:02:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾CFO：英特爾計劃將2026年的資本支出從180億美元提高到200億美元。英特爾計劃在2027年大幅增加資本支出。英特爾已與客戶簽署長期協議，供應CPU和XPUS處理器。"
-    },
-    {
-      "id": "mkt:019f9092-a77b-7aab-8e72-e74ab361b7cd",
-      "time": "2026-07-24 04:02:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "Intel (INTC.O) CFO said the company has signed long-term customer agreements to supply CPUs and XPUs."
-    },
-    {
-      "id": "5005378",
-      "time": "2026-07-24 04:02:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "英特爾執行長表示需求超過供應。"
-    },
-    {
-      "id": "mkt:019f9092-36dc-7aab-8e72-db20fef8cd13",
-      "time": "2026-07-24 04:02:09",
-      "tags": [
-        "MKT News",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "Intel (INTC.O) CFO said the company plans to raise 2026 capital expenditure to $20 bln from $18 bln."
-    },
-    {
-      "id": "mkt:019f9091-b34b-7aab-8e72-d2eb5e317b3c",
-      "time": "2026-07-24 04:01:35",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Intel (INTC.O) CFO says the company plans to substantially raise capex in 2027."
-    },
-    {
-      "id": "mkt:019f9091-8999-7aab-8e72-ceca7d660438",
-      "time": "2026-07-24 04:01:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "INTC.O",
-        "Impact bearish"
-      ],
-      "text": "Intel (INTC.O) sees Q3 revenue of $15.8-16.8 bln, below IBES estimate of $15.1 bln."
-    },
-    {
-      "id": "mkt:019f9091-4b52-7aab-8e72-c7738fd6f16a",
-      "time": "2026-07-24 04:01:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "INTC.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "Intel (INTC.O) Q2 2026 revenue $16.13 bln, up from $12.9 bln year-ago; consensus $14.43 bln."
-    },
-    {
-      "id": "5005377",
-      "time": "2026-07-24 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.97%，標普500指數跌1.21%，納指跌2.15%。T MOBILE US INC跌10.71%，Rollins Inc跌9.27%，美國都福集團跌7.85%，谷歌A類股跌7.13%。“七姐妹”方面：蘋果跌1.29%，英偉達跌1.56%，微軟跌2.25%，Meta Platforms跌3.39%，亞馬遜跌4.62%，谷歌跌6.91%，特斯拉跌14.55%。"
-    },
-    {
-      "id": "5005376",
-      "time": "2026-07-24 04:00:46",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "英特爾第二季度營收 161.3 億美元，市場預期 144.2 億美元。"
-    },
-    {
-      "id": "5005375",
-      "time": "2026-07-24 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌0.62%】中進醫療跌9.66%，康迪車業跌7.53%，塗鴉智慧跌7.14%，嘉楠科技跌6.22%，小牛電動跌6.02%。"
-    },
-    {
-      "id": "mkt:019f9090-3abf-7aab-8e72-be0d8b7547e0",
-      "time": "2026-07-24 03:59:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Market sources: Alphabet (GOOG.O)'s stake in ANTHROPIC is now valued at about $124 billion."
-    },
-    {
-      "id": "5005374",
-      "time": "2026-07-24 03:59:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院多數黨領袖約翰·圖恩：我們計劃於下週就俄羅斯制裁法案進行投票。"
-    },
-    {
-      "id": "mkt:019f908e-b463-7aab-8e72-b23059eb3dd5",
-      "time": "2026-07-24 03:58:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【25 US states and DC sue Trump administration to block tying disaster aid to election changes】Twenty-five US states and the District of Columbia sued in U.S. District Court in Rhode Island seeking to block the Trump administration from conditioning part of FEMA disaster aid on state changes to election administration. The Department of Homeland Security said it would attach conditions to more than $1 billion in FEMA grants; states that do not submit plans to replace barcode/QR-scanned electronic voting systems with devices that accept hand-marked paper ballots would face a 20% withholding of the related funds."
-    },
-    {
-      "id": "te:economy:569370",
-      "time": "2026-07-24 03:57:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Argentina Retail Sales Jump in May — Argentina's retail sales rose 33.1% year-on-year to ARS 670.2 billion in May 2026, up from 11.9% in April and marking a one-year high. The strongest growth was recorded in furniture, home decoration and household textiles (58.3%), followed by perfumery and pharmacies (46.9%), sporting goods (46.0%), and food courts, food stores and kiosks (40.3%). Sales also increased for toys (33.9%), bookstores and stationery (33.9%), clothing, footwear and leather goods (30.5%), and entertainment (20.5%). In contrast, electronics, home appliances and computers posted the weakest growth, rising 9.1% from a year earlier. By region, retail sales in the City of Buenos Aires increased 37.7%. In the 24 districts of Greater Buenos Aires, sales were up 33.1% Meanwhile, sales in the Pampeana Region grew 28.4%. Sales in the Cuyo Region rose 29.8%. Finally, the Northern Region and Patagonia rose 29.5% and 34.9%, respectively."
-    },
-    {
-      "id": "5005373",
-      "time": "2026-07-24 03:56:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美25州起訴特朗普政府 反對將救災資金與選舉制度改革掛鉤】記者當地時間7月23日獲悉，美國25個州及哥倫比亞特區當天向羅得島州聯邦法院提起訴訟，要求阻止特朗普政府將部分災害應急資金與各州修改選舉管理制度掛鉤。美國國土安全部此前宣佈，將對總額超過10億美元的部分聯邦緊急事務管理局撥款設定條件。各州若未提交計劃，改用接收手工填寫紙質選票的裝置，而非依賴條形碼或二維碼計票的電子投票系統，相關撥款的20%將被暫緩發放。(央視新聞)"
-    },
-    {
-      "id": "mkt:019f908b-6206-7aab-8e72-a891eec0c6c2",
-      "time": "2026-07-24 03:54:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran foreign ministry spokesman said Gulf Cooperation Council member states should respond regarding their participation in military action against Iran."
-    },
-    {
-      "id": "5005372",
-      "time": "2026-07-24 03:53:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "Alphabet持有的 Anthropic 股權價值飆升至約 1240 億美元。"
-    },
-    {
-      "id": "mkt:019f9087-b22e-7aab-8e72-a48f5659bc40",
-      "time": "2026-07-24 03:50:39",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iranian media Fars News reported the US Ali Al Salem Air Base in Kuwait was struck by missiles and drones, and that Kuwaiti air-defence systems were intercepting drones and missiles launched from Iran."
-    },
-    {
-      "id": "5005371",
-      "time": "2026-07-24 03:45:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：ChatGPT語音功能現在已在桌面應用中上線。"
-    },
-    {
-      "id": "mkt:019f9082-d22c-7aab-8e72-9a6c9fa5b551",
-      "time": "2026-07-24 03:45:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI says ChatGPT voice capability is now available in the desktop app."
-    },
-    {
-      "id": "te:economy:569369",
-      "time": "2026-07-24 03:42:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Paraguay",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Paraguay Holds Interest Rate at 5.5% — Paraguay's central bank kept its benchmark interest rate unchanged at 5.5% in July 2026. Policymakers noted that domestic economic activity continues to outperform expectations, prompting an upward revision to the country's 2026 GDP growth forecast to 4.5% from 4.2%, supported by stronger prospects for agriculture, manufacturing, utilities, and services. At the same time, the inflation forecast for 2026 was lowered to 3.3% from 3.5%, reflecting softer price pressures for non-energy goods. Headline inflation eased to 2.1% in June, while core inflation remained at 1.1%, with inflation expectations anchored at 3.5%. Despite the favorable domestic outlook, the central bank highlighted rising external risks, including higher oil prices driven by Middle East tensions and expectations of further Federal Reserve rate hikes."
-    },
-    {
-      "id": "mkt:019f907f-77b0-7aab-8e72-9538b97b0040",
-      "time": "2026-07-24 03:41:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bearish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "Tesla (TSLA.O) hit an intraday low, trading down more than 15%."
-    },
-    {
-      "id": "5005370",
-      "time": "2026-07-24 03:40:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "特斯拉跌幅擴大至15%，觸及盤中低點。"
     }
   ]
 }

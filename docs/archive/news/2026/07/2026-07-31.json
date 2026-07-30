@@ -1,7 +1,261 @@
 {
   "date": "2026-07-31",
-  "count": 313,
+  "count": 337,
   "items": [
+    {
+      "id": "mkt:019fb49e-f72d-7aab-8f1b-f1300cca83ff",
+      "time": "2026-07-31 04:02:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) is up over 5% in after-hours trading after reporting earnings."
+    },
+    {
+      "id": "mkt:019fb49e-f575-7aab-8f1b-efeb9ac438fb",
+      "time": "2026-07-31 04:02:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) Q2 2026 AWS revenue $42.2 billion vs market consensus $40.481 billion, beating estimates by about $1.72 billion."
+    },
+    {
+      "id": "mkt:019fb49e-5989-7aab-8f1b-e135a90d3174",
+      "time": "2026-07-31 04:01:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) Q2 2026 revenue $200.6 bln, up from $167.7 bln a year earlier; consensus $196.4 bln — beat by $4.2 bln (2.1%)."
+    },
+    {
+      "id": "te:markets:571335",
+      "time": "2026-07-31 04:01:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Near $89 — Brent fell nearly 1.8% to below $89 a barrel on Thursday, following a 7.9% surge in the previous session, amid signs of improving shipping activity through the Strait of Hormuz and continued diplomatic efforts to ease regional tensions, despite ongoing hostilities in the Middle East. According to Kpler, 14 commodity vessels transited the Strait of Hormuz in both directions on Wednesday, up from single-digit daily crossings recorded last week. Qatar also dispatched its first LNG cargo through the waterway, while reports indicated that Saudi Arabia had proposed a naval coalition to safeguard key trade routes. Meanwhile, elevated crude inventories in China continued to weigh on import demand, further easing fears of a near-term supply squeeze. However, geopolitical risks remained elevated after US forces struck dozens of Iranian military targets in an effort to weaken Tehran's ability to threaten regional shipping and US allies."
+    },
+    {
+      "id": "5017683",
+      "time": "2026-07-31 04:01:28",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "亞馬遜第二季度經營利潤274.6億美元，預估236.1億美元。亞馬遜二季度淨銷售2006億美元，預期1970.1億美元。"
+    },
+    {
+      "id": "mkt:019fb49e-0db4-7aab-8f1b-de0a7b5dc5d2",
+      "time": "2026-07-31 04:01:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "MU.O",
+        "Impact bullish",
+        "SKHY.O",
+        "SNDK.O"
+      ],
+      "text": "【U.S. close: Nasdaq up 2.78% as memory-chip stocks surge】U.S. stocks closed higher on Thursday: Dow Jones Industrial Average +1.19%, S&P 500 +1.67%, Nasdaq Composite +2.78%. Memory-chip names led the rally—Micron Technology (MU.O) +18%, SanDisk (SNDK.O) +26%, SK Hynix (SKHY.O) +17%—while NVIDIA (NVDA.O) rose just over 2%. The Nasdaq Golden Dragon China Index gained 1.05%; iQIYI (IQ.O) +4%."
+    },
+    {
+      "id": "mkt:019fb49d-9f98-7aab-8f1b-d70b7bc505af",
+      "time": "2026-07-31 04:00:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil slips on 30th; U.S. crude $83.59, Brent $89.03 at close】NYMEX September light sweet crude futures fell $0.87 to settle at $83.59 a barrel, down 1.03% at the close. London Brent September futures fell $1.71 to $89.03 a barrel, down 1.88% at the close."
+    },
+    {
+      "id": "5017682",
+      "time": "2026-07-31 04:00:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "微軟股價大漲 16%，創 2008 年以來最大單日漲幅。"
+    },
+    {
+      "id": "5017681",
+      "time": "2026-07-31 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲1.19%，標普500指數漲1.67%，納指漲2.84%。閃迪漲25.99%，埃姆科漲19.36%，美光漲18.39%，泛林集團漲17.95%。“七姐妹”方面：微軟漲15.61%，亞馬遜漲3.92%，特斯拉漲3.46%，英偉達漲2.75%，谷歌跌0.60%，蘋果跌1.33%，Meta Platforms跌7.82%。"
+    },
+    {
+      "id": "mkt:019fb49d-5353-7aab-8f1b-ca06b77ebe4a",
+      "time": "2026-07-31 04:00:37",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【US dollar index falls 1.01% to 99.868 at New York close】The US dollar index, measuring the dollar against six major currencies, fell 1.01% to 99.868 at the New York close on the 30th. EUR/USD rose to 1.1535 from 1.1452; GBP/USD to 1.3476 from 1.3364. USD/JPY fell to 158.93 from 163.32; USD/CHF to 0.8040 from 0.8149; USD/CAD to 1.3996 from 1.4040; USD/SEK to 9.5189 from 9.6434."
+    },
+    {
+      "id": "te:markets:571334",
+      "time": "2026-07-31 04:00:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Down on Thursday — Crude oil fell nearly 1% to below $84 a barrel on Thursday, following a 6.6% surge in the previous session, amid signs of improving shipping activity through the Strait of Hormuz and continued diplomatic efforts to ease regional tensions, despite ongoing hostilities in the Middle East. According to Kpler, 14 commodity vessels transited the Strait of Hormuz in both directions on Wednesday, up from single-digit daily crossings recorded last week. Qatar also dispatched its first LNG cargo through the waterway, while reports indicated that Saudi Arabia had proposed a naval coalition to safeguard key trade routes. Meanwhile, elevated crude inventories in China continued to weigh on import demand, further easing fears of a near-term supply squeeze. However, geopolitical risks remained elevated after US forces struck dozens of Iranian military targets in an effort to weaken Tehran's ability to threaten regional shipping and US allies."
+    },
+    {
+      "id": "5017680",
+      "time": "2026-07-31 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲1.05%】盛豐物流漲26.12%，世紀互聯漲16.14%，好未來漲13.31%，高途漲8.53%，迅雷漲8.22%。"
+    },
+    {
+      "id": "mkt:019fb49b-bd9c-7aab-8f1b-c536d91e9127",
+      "time": "2026-07-31 03:58:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iraq government spokesman said if the Strait of Hormuz remains closed, the government will turn to external borrowing."
+    },
+    {
+      "id": "5017679",
+      "time": "2026-07-31 03:57:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數30日大幅下跌】衡量美元對六種主要貨幣的美元指數當天下跌1.01%，在匯市尾市收於99.868。截至紐約匯市尾市，1歐元兌換1.1535美元，高於前一交易日的1.1452美元；1英鎊兌換1.3476美元，高於前一交易日的1.3364美元。1美元兌換158.93日元，低於前一交易日的163.32日元；1美元兌換0.8040瑞士法郎，低於前一交易日的0.8149瑞士法郎；1美元兌換1.3996加元，低於前一交易日的1.4040加元；1美元兌換9.5189瑞典克朗，低於前一交易日的9.6434瑞典克朗。"
+    },
+    {
+      "id": "5017678",
+      "time": "2026-07-31 03:56:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價30日下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌87美分，收於每桶83.59美元，跌幅為1.03%；9月交貨的倫敦布倫特原油期貨價格下跌1.71美元，收於每桶89.03美元，跌幅為1.88%。"
+    },
+    {
+      "id": "5017677",
+      "time": "2026-07-31 03:56:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長：我們所有人必須警惕以色列的各類陰謀以及旨在破壞地區和平的偽旗行動。威脅已然明晰，各方都面臨這一威脅， 而（該勢力）懼怕穆斯林團結一致。"
+    },
+    {
+      "id": "mkt:019fb499-3f56-7aab-8f1b-bb9e297c4050",
+      "time": "2026-07-31 03:56:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi said Egypt is an important regional friend and partner and that its security is vital to Iran."
+    },
+    {
+      "id": "5017676",
+      "time": "2026-07-31 03:54:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長：埃及是地區內重要的友邦與合作伙伴，埃及的安全對我們至關重要。"
+    },
+    {
+      "id": "5017674",
+      "time": "2026-07-31 03:52:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "據半島電視臺記者：與阿曼馬斯喀特方面圍繞霍爾木茲海峽開展的談判並未中斷。任何有關霍爾木茲海峽的協議，都可能成為解除海上封鎖與石油制裁的突破口。"
+    },
+    {
+      "id": "5017673",
+      "time": "2026-07-31 03:51:37",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "墨西哥財政部：維持 2026 年國內生產總值（GDP）增速預期區間 1.8% 至 2.8%。"
+    },
+    {
+      "id": "mkt:019fb493-ae30-7aab-8f1b-b023b5a8b0d1",
+      "time": "2026-07-31 03:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "AMZN.O"
+      ],
+      "text": "Amazon and Apple will report earnings after the U.S. market close on July 30."
+    },
+    {
+      "id": "5017672",
+      "time": "2026-07-31 03:46:23",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "墨西哥財政部：墨西哥石油收入實際條款同比增長2.1%。"
+    },
+    {
+      "id": "mkt:019fb48f-fc89-7aab-8f1b-aa479b86ef6c",
+      "time": "2026-07-31 03:46:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Senate confirmed David Cummins as administrator of the Transportation Security Administration (TSA)."
+    },
+    {
+      "id": "5017671",
+      "time": "2026-07-31 03:45:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院確認 David Cummins 出任運輸安全管理局新任局長。"
+    },
     {
       "id": "mkt:019fb489-1eb3-7aab-8f1b-a4a85ba7d687",
       "time": "2026-07-31 03:38:32",
