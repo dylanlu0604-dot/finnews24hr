@@ -1,7 +1,148 @@
 {
   "date": "2026-07-30",
-  "count": 1234,
+  "count": 1249,
   "items": [
+    {
+      "id": "5015579",
+      "time": "2026-07-30 09:25:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國因個人資料洩露對KT處以540億韓元罰款。"
+    },
+    {
+      "id": "te:economy:570937",
+      "time": "2026-07-30 09:25:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Business Confidence",
+        "Importance 2"
+      ],
+      "text": "New Zealand Business Sentiment Jumps to 5-Month High — New Zealand’s ANZ Business Outlook Index surged to 56.1 in July 2026 from 36.6 in the previous month, marking the strongest reading since February. Firms’ own activity outlook strengthened markedly (49.3 vs 36.9 in June), while assessments of past activity edged higher (9.7 vs 9.0), supported by easing oil prices as tensions in the Middle East continued to subside. Forward-looking indicators rose, with stronger export intentions (26.6 vs 18.1), profit expectations (28.7 vs 13.0), investment intentions (22.8 vs 16.5), and employment intentions (18.1 vs 9.4). At the same time, pricing intentions (47.2 vs 50.7), cost expectations (78.2 vs 84.7), and inflation expectations (3.14% vs 3.36%) all moderated, while wage growth expectations were broadly steady (2.52% vs 2.53%). Further, credit availability turned positive (1.4 vs -1.9). Sectoral sentiment strengthened notably in construction, with confidence rising in both residential (42.5 vs 25.0) and commercial construction (48.9 vs 28.9)."
+    },
+    {
+      "id": "mkt:019fb0a0-682f-7aab-8efd-eda1640dbf18",
+      "time": "2026-07-30 09:25:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "A-shares open: Shanghai Composite down 0.43%, Shenzhen Composite Index down 0.93%, ChiNext down 1.4%."
+    },
+    {
+      "id": "5015578",
+      "time": "2026-07-30 09:25:12",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指低開，滬指跌0.43％，深成指跌0.93％，創業板跌1.4％。"
+    },
+    {
+      "id": "5015577",
+      "time": "2026-07-30 09:25:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本熊本縣發生4.2級地震】據日本氣象廳訊息，日本當地時間30日9時56分左右，日本熊本縣天草及蘆北地區發生4.2級地震，最大震感為震度3，震源深度10公里。（央視新聞）"
+    },
+    {
+      "id": "5015576",
+      "time": "2026-07-30 09:24:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星預計下半年整體消費市場需求將有所放緩。"
+    },
+    {
+      "id": "5015575",
+      "time": "2026-07-30 09:24:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江特電機成立智慧技術公司，含物聯網相關業務】企查查APP顯示，近日，尉爾（成都）智慧技術有限公司成立，經營範圍包含：電力電子元器件銷售；物聯網技術研發；工業網際網路資料服務；智慧基礎製造裝備銷售等。企查查股權穿透顯示，該公司由江特電機全資持股。"
+    },
+    {
+      "id": "mkt:019fb09f-4aa9-7aab-8efd-e06d8638b68f",
+      "time": "2026-07-30 09:24:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "Samsung Electronics said it has secured foundry orders for its 2nm process from a cloud service provider."
+    },
+    {
+      "id": "5015574",
+      "time": "2026-07-30 09:24:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：代工業務已獲得雲服務供應商的2奈米工藝訂單。"
+    },
+    {
+      "id": "5015573",
+      "time": "2026-07-30 09:23:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股人工智慧相關個股走強 明略科技漲近9%】截至發稿，明略科技(02718.HK)漲8.70%，德適-B(02526.HK)漲3.52%，智譜(02513.HK)漲1.45%。"
+    },
+    {
+      "id": "5015572",
+      "time": "2026-07-30 09:23:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "兆易創新：董事長此前於5月、6月合計減持股份，佔公司總股本的1.58%。"
+    },
+    {
+      "id": "5015571",
+      "time": "2026-07-30 09:23:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "兆易創新：董事長基於對未來前景的信心，計劃增持A股股份。"
+    },
+    {
+      "id": "5015570",
+      "time": "2026-07-30 09:22:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放665.0億元人民幣。"
+    },
+    {
+      "id": "mkt:019fb09d-9476-7aab-8efd-dcf75f0e1c8b",
+      "time": "2026-07-30 09:22:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC conducted CNY 270.5 bln of 7-day reverse repos today; bids and allotment both CNY 270.5 bln at a 1.40% rate. It also conducted CNY 600 bln of overnight reverse repos."
+    },
+    {
+      "id": "em:qqyh_zgyh:202607303825997061",
+      "time": "2026-07-30 09:22:17",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "中國人民銀行以固定利率、數量招標方式開展了2705億元7天期逆回購操作，全額滿足了一級交易商需求。同時，開展了6000億元隔夜逆回購操作。"
+    },
     {
       "id": "5015569",
       "time": "2026-07-30 09:22:01",
