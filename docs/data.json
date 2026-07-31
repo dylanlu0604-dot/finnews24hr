@@ -1,7 +1,114 @@
 {
-  "updated": "2026-07-31 18:27:32",
-  "count": 17980,
+  "updated": "2026-07-31 18:31:21",
+  "count": 17966,
   "items": [
+    {
+      "id": "te:markets:571757",
+      "time": "2026-07-31 18:30:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 0.14% Higher — The SENSEX Index went up by 110 points or 0.14 percent on Friday to close at 78039 points. The rise was led by Bajaj Finance (8.32%), Bajaj Finserv (6.37%) and Mahindra & Mahindra (3.30%). On the downside, the weakerst performers were Tata Consultancy (-2.68%), Infosys (-2.18%) and Eternal Limited (-1.93%)."
+    },
+    {
+      "id": "mkt:019fb7b8-e510-7aab-8f32-13c58cb610d7",
+      "time": "2026-07-31 18:29:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hamas official says disarmament conditional on Israeli withdrawal and Gaza reconstruction progress】Ghazi Hamad told Al Jazeera on July 31 that Hamas’s disarmament depends on Israeli forces withdrawing from Gaza and on progress in Gaza reconstruction. He said Hamas would hand weapons to the Gaza National Administrative Committee for safekeeping; the committee and an international stabilization force must enter Gaza and Israeli-backed armed militias must be disbanded. He described negotiations as difficult and warned that if Israeli forces do not fulfil their obligations, Hamas will not implement any part of the agreement."
+    },
+    {
+      "id": "mkt:019fb7b8-73ab-7aab-8f32-0d42bc0407a9",
+      "time": "2026-07-31 18:29:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said Ukraine struck a maritime terminal in Russia's Krasnodar region."
+    },
+    {
+      "id": "mkt:019fb7b8-532b-7aab-8f32-04c0a87d99d9",
+      "time": "2026-07-31 18:28:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Zelenskiy said Ukraine struck Russian logistics facilities in three regions."
+    },
+    {
+      "id": "5019121",
+      "time": "2026-07-31 18:28:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，烏克蘭襲擊了俄羅斯三個地區的後勤設施。"
+    },
+    {
+      "id": "5019120",
+      "time": "2026-07-31 18:28:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航天科工火箭公司更名“快舟航天空間科技有限公司”】航天科工火箭技術有限公司7月31日釋出訊息，因公司股權結構調整，經公司股東會審議透過，公司已依法完成企業名稱工商變更登記手續，名稱正式變更為“快舟航天空間科技有限公司”。原“航天科工火箭技術有限公司”的全部資產、負債、債權債務，以及已簽訂的各類合同、協議等法律檔案所約定的權利與義務，均由變更後的“快舟航天空間科技有限公司”依法全面承繼。"
+    },
+    {
+      "id": "5019119",
+      "time": "2026-07-31 18:27:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哈馬斯高官：是否解除武裝取決於以色列從加沙撤軍進展】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）高階官員加齊·哈馬德7月31日在接受半島電視臺等媒體採訪時說，哈馬斯是否解除武裝取決於以色列從加沙地帶撤軍和加沙重建工作的進展。哈馬德說，哈馬斯將移交武器，由加沙國家行政委員會負責保管。加沙國家行政委員會和國際穩定部隊必須進入加沙地帶，以色列支援的武裝民兵必須解散。哈馬德說，談判十分艱難。如果以色列軍隊不履行其義務，哈馬斯將不會執行協議的任何部分。美國總統特朗普30日在社交媒體發文稱，已達成一項關於“全面解除”哈馬斯武裝的協議。特朗普說，該協議將分階段實施，隨著解除武裝工作的完成，以色列軍隊將撤出加沙地帶，而國際穩定部隊將與新組建的巴勒斯坦警察部隊協作，共同確保加沙地帶居民及其周邊地區的安全。(新華社)"
+    },
+    {
+      "id": "5019118",
+      "time": "2026-07-31 18:27:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中體產業：獨立董事對資金佔用問詢函相關事項發表意見】中體產業公告稱，公司近日收到上交所關於2025年年報的問詢函，涉及資金佔用等問題。獨立董事就相關事項發表意見：2026年6月中奧公司訴中體海盈案一審基本全額支援訴求，後續將督導推進執行；建議將資金佔用整改及內控提升納入常態化監督重點；核查顯示除已披露的中體海盈資金佔用外，公司與關聯方無其他未披露的非經營性資金佔用等問題。"
+    },
+    {
+      "id": "5019117",
+      "time": "2026-07-31 18:27:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永貴電器：獲1.3億元股票回購專項貸款承諾函】永貴電器公告稱，公司於2026年7月21日透過股份回購方案，回購資金1-1.5億元，價格不超24.94元/股，期限12個月。近日，公司獲中國工商銀行臺州分行《貸款承諾函》，貸款額度不超1.3億元，專項用於股票回購，承諾函有效期1年。具體權利義務以借款合同為準，回購金額及數量以實際為準。"
+    },
+    {
+      "id": "mkt:019fb7b6-f470-7aab-8f31-fc36332bbd30",
+      "time": "2026-07-31 18:27:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "BOFA GLOBAL RESEARCH raises Amazon (AMZN.O) PT to $320 from $310."
+    },
+    {
+      "id": "5019116",
+      "time": "2026-07-31 18:27:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆為科技：擬出資2900萬元認購投資基金19.33%份額】恆為科技公告，公司擬作為有限合夥人出資2900萬元認購南通正海國恆創業投資合夥企業（有限合夥）基金份額，認繳出資佔比19.33%。該基金規模1.5億元，投資於高階裝備、先進製造、新材料等硬科技行業。本次投資已獲公司第四屆董事會第十七次會議審議透過，無需提交股東會審議。基金尚處於籌備設立階段，後續需完成登記註冊及備案手續。"
+    },
+    {
+      "id": "5019115",
+      "time": "2026-07-31 18:27:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "美銀全球研究將亞馬遜目標股價從310美元上調至320美元。"
+    },
     {
       "id": "5019114",
       "time": "2026-07-31 18:26:54",
@@ -166079,247 +166186,6 @@
         "Impact bearish"
       ],
       "text": "【RABOBANK: US July preliminary PMI may understate Middle East and oil-price effects】RABOBANK analysts warn the preliminary US July PMI due tonight may not fully capture recent Middle East developments and commodity-market moves. They say the July survey was likely conducted over the past two weeks, so if many respondents answered earlier they may not have factored the latest Middle East tensions or this week’s oil-price rise, leaving the print potentially biased."
-    },
-    {
-      "id": "5006749",
-      "time": "2026-07-24 18:31:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行表示，預計2026年國內生產總值（GDP）將增長0.0%-1.0%，此前預測區間為增長0.5%-1.5%。"
-    },
-    {
-      "id": "mkt:019f93ad-eeff-7aab-8e84-e0046126aff9",
-      "time": "2026-07-24 18:31:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian central bank: Given its monetary policy stance, inflation will remain within the target range in 2027 and beyond."
-    },
-    {
-      "id": "5006748",
-      "time": "2026-07-24 18:31:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行表示，在基準情景下，預計2026年平均油價為每桶60美元（此前預測為每桶65美元）。"
-    },
-    {
-      "id": "5006747",
-      "time": "2026-07-24 18:31:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行預計2026年經常賬戶順差為480億美元，而路透調查預測順差為720億美元。。"
-    },
-    {
-      "id": "mkt:019f93ad-b4f2-7aab-8e84-de02feedd2ea",
-      "time": "2026-07-24 18:31:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "RUSSIAN CENBANK forecasts 2026 annual inflation of 6.0%–7.0% driven by a sharp rise in fuel prices."
-    },
-    {
-      "id": "5006746",
-      "time": "2026-07-24 18:30:58",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯央行表示：俄羅斯央行預測，受燃料價格大幅上漲影響，2026年全年通脹率將處於6.0%-7.0%區間。"
-    },
-    {
-      "id": "mkt:019f93ad-a5c6-7aab-8e84-d0d317f8a831",
-      "time": "2026-07-24 18:30:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RUSSIAN CENBANK said further key interest-rate decisions will be based on the dynamics of inflation and inflation expectations and on an assessment of risks from domestic and external developments."
-    },
-    {
-      "id": "5006745",
-      "time": "2026-07-24 18:30:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行：未來關鍵利率的調整將基於通脹走勢、通脹預期，以及對內外條件帶來的風險分析作出決定。"
-    },
-    {
-      "id": "5006744",
-      "time": "2026-07-24 18:30:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上交所：本週對201起拉抬打壓、虛假申報等證券異常交易行為採取了自律監管措施】據“上交所釋出”公眾號，本週上交所對201起拉抬打壓、虛假申報等證券異常交易行為採取了自律監管措施，對32起上市公司重大事項等進行專項核查，向證監會上報涉嫌違法違規案件線索5起。"
-    },
-    {
-      "id": "mkt:019f93ad-6a31-7aab-8e84-ced9460ac455",
-      "time": "2026-07-24 18:30:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Shanghai Stock Exchange said it took self-regulatory measures this week in 201 cases of abnormal securities trading, including ramping and pushing and fictitious orders; opened special inspections into 32 listed-company material events; and reported five suspected illegal/violative case leads to the CSRC."
-    },
-    {
-      "id": "5006743",
-      "time": "2026-07-24 18:30:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行表示，在當前貨幣政策立場下，2027年及以後，年通脹率將維持在目標水平。"
-    },
-    {
-      "id": "mkt:019f93ad-56d3-7aab-8e84-c02a2caa957b",
-      "time": "2026-07-24 18:30:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Bank of Russia baseline scenario assumes the key rate will average 14.5–14.6% in 2026 and 10.5–12.5% in 2027."
-    },
-    {
-      "id": "mkt:019f93ad-2bb4-7aab-8e84-be58e5b8d656",
-      "time": "2026-07-24 18:30:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Russia cut its key rate by 25 bps to 14.00%, in line with market expectations."
-    },
-    {
-      "id": "5006742",
-      "time": "2026-07-24 18:30:10",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "俄羅斯央行將基準利率下調至14.00%；預期為14.25%。"
-    },
-    {
-      "id": "mkt:019f93ac-eae4-7aab-8e84-b59cfd6b284f",
-      "time": "2026-07-24 18:30:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Russia left its policy rate at 14% on July 24, in line with expectations; prior rate 14.25%."
-    },
-    {
-      "id": "te:markets:569754",
-      "time": "2026-07-24 18:30:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The SENSEX Index Closes 0.43% Lower — The SENSEX Index decreased 332 points or 0.43 percent on Friday to close at 76060 points. The decline was led by Eternal Limited (-2.16%), Bajaj Finance (-2.11%) and Mahindra & Mahindra (-2.00%). On the upside, the strongest performers were HCL Tech (1.95%), ITC (0.94%) and Reliance Industries (0.65%)."
-    },
-    {
-      "id": "mkt:019f93ac-c7a1-7aab-8e84-ac0ba5c5e832",
-      "time": "2026-07-24 18:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Russia | Bank of Russia Interest Rate Decision (Jul.24) | actual 14% | consensus 14% | previous 14.25%"
-    },
-    {
-      "id": "mkt:019f93ac-9bf3-7aab-8e84-a5f5ddf2d9eb",
-      "time": "2026-07-24 18:29:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB Governing Council member Makhloof said more information will be available in September."
-    },
-    {
-      "id": "5006741",
-      "time": "2026-07-24 18:29:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委馬赫魯夫：9 月將掌握更多相關資料。"
-    },
-    {
-      "id": "te:markets:569752",
-      "time": "2026-07-24 18:29:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Set for 10% Weekly Gain — Crude oil slipped toward $89 per barrel on Friday but remained up by around 10% for the week, as traders continued to assess mounting geopolitical risks to global energy supplies. The US launched a 13th straight day of strikes on Iran, with both sides ruling out near-term talks. President Trump also threatened \"major military punishment\" against Iran and the Houthis over any further attacks on Red Sea shipping and said he was considering a \"massive attack\" on Iran. His remarks followed attacks by Iran-backed Houthi militants on two Saudi oil tankers in the Red Sea, a key alternative export route for Saudi Arabia as fighting continued to disrupt traffic through the Strait of Hormuz. Asian buyers have begun discussing rerouting Saudi crude shipments through the Suez Canal and around Africa. Adding to supply constraints, the Caspian Pipeline Consortium suspended crude loadings at its Black Sea terminal after tanker attacks, disrupting around 80% of Kazakhstan's oil exports."
-    },
-    {
-      "id": "mkt:019f93ac-2438-7aab-8e84-9b6713bf5710",
-      "time": "2026-07-24 18:29:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "ECB policymaker MAKHLOUF said inflationary pressures have not yet eased."
-    },
-    {
-      "id": "5006740",
-      "time": "2026-07-24 18:29:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委馬赫魯夫：通脹壓力仍未消退。"
-    },
-    {
-      "id": "5006739",
-      "time": "2026-07-24 18:29:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【工信部赴廣汽埃安、小鵬開展監督檢查，隨機抽取樣車、動力電池等檢驗】工信部發文稱，為進一步規範汽車產業競爭秩序、提升汽車產品生產一致性和質量安全水平，工業和資訊化部裝備工業一司赴廣汽埃安新能源汽車股份有限公司、肇慶小鵬新能源投資有限公司開展道路機動車輛生產企業產品安全保障能力和生產一致性監督檢查。據悉，此次重點檢查企業的智慧網聯汽車安全保障能力、設計開發及生產能力、生產一致性保證能力等生產准入條件保持情況，現場隨機抽取樣車、動力電池等，轉送至有關機構進行國家標準符合性等檢驗檢測。下一步，工業和資訊化部裝備工業一司將持續組織對汽車、摩托車生產企業及產品開展監督檢查，依法依規對發現存在問題的企業進行嚴肅處理，堅決守牢汽車產品安全底線，切實維護消費者合法權益。（新浪科技）"
-    },
-    {
-      "id": "mkt:019f93ab-d39a-7aab-8e84-966568c1dfaf",
-      "time": "2026-07-24 18:28:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Europe & UK"
-      ],
-      "text": "【China-EU sign cooperation on automotive trusted data space ecosystem and interoperability technology】At the China Auto Forum in Shanghai (July 21–23), China and the EU signed agreements on July 22 to establish an automotive trusted data space ecosystem and interoperability technology cooperation. The accords target joint governance mechanisms, standards, digital infrastructure and application scenarios to deepen cross-border automotive data collaboration, marking a shift from strategic consensus to practical ecosystem coordination, interoperability and scenario deployment."
-    },
-    {
-      "id": "5006738",
-      "time": "2026-07-24 18:28:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：塔塔消費品公司第一季度合併運營收入534.9億盧比；IBES預估為538.3億盧比。"
-    },
-    {
-      "id": "5006737",
-      "time": "2026-07-24 18:28:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中歐汽車行業可信資料空間生態與技術合作正式簽約】7月21日-23日，由中國汽車工業協會主辦的第16屆中國汽車論壇在上海嘉定舉辦。7月22日，中歐汽車行業可信資料空間合作簽約儀式在大會論壇上順利舉行。隨著全球汽車產業電動化、智慧化和綠色低碳轉型深入發展，產業鏈協同和資料可信流通需求不斷提升。本次簽約聚焦生態合作與互聯互通技術合作，包括中歐汽車行業可信資料空間生態合作簽約和互聯互通技術合作兩項簽約，旨在推動中歐汽車資料生態在治理機制、標準體系、數字基礎設施和應用場景等層面深化協同，標誌著雙方合作由戰略共識正式邁入生態協同、互聯互通和場景落地的新階段。"
     }
   ]
 }
