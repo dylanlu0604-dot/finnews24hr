@@ -1,7 +1,152 @@
 {
   "date": "2026-07-31",
-  "count": 1474,
+  "count": 1491,
   "items": [
+    {
+      "id": "te:economy:571529",
+      "time": "2026-07-31 14:04:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Nationwide Housing Prices YoY",
+        "Importance 2"
+      ],
+      "text": "UK House Price Growth Slows in July — The UK Nationwide House Price Index rose 1.8% year-on-year in July 2026, slowing from a 2.2% increase in June and coming in slightly below market expectations of a 1.9% gain. Nationwide Chief Economist Robert Gardner said renewed geopolitical tensions, particularly the conflict involving Iran and the US, have pushed up energy prices and contributed to volatility in market interest rate expectations. However, he noted that easing consumer inflation and moderating wage growth have given the Bank of England greater scope to assess whether further policy tightening is needed to return inflation to target. Gardner also highlighted that the latest housing survey showed the average length of residence has remained broadly stable at around 14 years, with outright homeowners staying in the same property for nearly 24 years on average, while private renters typically remain in a home for around five years. On a monthly basis, house prices edged up 0.1%, following a flat reading in June."
+    },
+    {
+      "id": "mkt:019fb6c5-ca5d-7aab-8f27-ca8ed27555a9",
+      "time": "2026-07-31 14:04:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SHEL.N"
+      ],
+      "text": "Shell (SHEL.N) said BG Cyprus will hold a 35% non-operated interest in Cyprus offshore Block 12; the transaction is expected to close in early 2027."
+    },
+    {
+      "id": "mkt:019fb6c5-623e-7aab-8f27-c1c499393a15",
+      "time": "2026-07-31 14:03:36",
+      "tags": [
+        "MKT News",
+        "SHEL.N"
+      ],
+      "text": "Shell (SHEL.N) has agreed to sell its wholly owned subsidiary BG Cyprus to MOL Group for up to $720 million."
+    },
+    {
+      "id": "5018402",
+      "time": "2026-07-31 14:03:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電機板塊持續走高，臥龍電驅漲停】電機板塊持續走高，臥龍電驅漲停，神力股份、晨光電機、兆威機電、江蘇雷利、通達動力等跟漲。"
+    },
+    {
+      "id": "5018401",
+      "time": "2026-07-31 14:03:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌：已達成協議，將其全資子公司BG塞普勒斯有限公司出售給摩爾集團，交易總金額最高達7.2億美元；該交易價格受慣常調整以及與里程碑掛鉤的或有付款條款約束。"
+    },
+    {
+      "id": "5018400",
+      "time": "2026-07-31 14:02:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "亞塞拜然央行將關鍵再融資利率維持在6.5%（此前為6.5%）。"
+    },
+    {
+      "id": "mkt:019fb6c4-5690-7aab-8f27-b0bdbf827708",
+      "time": "2026-07-31 14:02:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Azerbaijan's central bank left its key refinancing rate unchanged at 6.5%."
+    },
+    {
+      "id": "5018399",
+      "time": "2026-07-31 14:02:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "彪馬股份公司（PUMA SE）：北美銷售額按固定匯率計算下滑16.7%，主要受消費者需求走弱，以及縮減與大眾零售商非合意業務的影響。"
+    },
+    {
+      "id": "mkt:019fb6c4-04a2-7aab-8f27-ab25f290c8ea",
+      "time": "2026-07-31 14:02:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【DeepSeek launches public beta of DeepSeek-V4-Flash API; DeepSeek-V4-Pro release due soon】DeepSeek launched a public beta for the official DeepSeek‑V4‑Flash API. The DeepSeek‑V4‑Flash‑0731 model keeps the same architecture and size as the DeepSeek‑V4‑Flash‑preview and has only undergone post-training. The company says the formal DeepSeek‑V4‑Pro release will follow shortly."
+    },
+    {
+      "id": "5018398",
+      "time": "2026-07-31 14:01:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "彪馬股份公司：受地區衝突影響，中東地區銷售額大幅下滑。"
+    },
+    {
+      "id": "mkt:019fb6c3-42b9-7aab-8f27-a064378f86bb",
+      "time": "2026-07-31 14:01:17",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "STOXX Europe 50 futures up 0.8%; DAX futures up 0.58%; FTSE 100 futures up 0.51%."
+    },
+    {
+      "id": "5018397",
+      "time": "2026-07-31 14:01:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.8%，德國DAX指數期貨上漲0.58%，英國富時指數期貨上漲0.51%。"
+    },
+    {
+      "id": "5018396",
+      "time": "2026-07-31 14:00:16",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國7月Nationwide房價指數月率 0.1%，預期0.10%，前值0.00%。英國7月Nationwide房價指數年率 1.8%，預期1.90%，前值2.20%。"
+    },
+    {
+      "id": "mkt:019fb6c2-4baa-7aab-8f27-9e971be72d33",
+      "time": "2026-07-31 14:00:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "UK Nationwide house price index MoM +0.1% in July, matching expected +0.1%; June revised 0.0%."
+    },
+    {
+      "id": "mkt:019fb6c2-4afe-7aab-8f27-95c9105899e1",
+      "time": "2026-07-31 14:00:14",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "UK July Nationwide house price index YoY 1.8% vs 1.9% expected, down from June's 2.2%."
+    },
     {
       "id": "mkt:019fb6c2-2df9-7aab-8f27-880d0e59d6cb",
       "time": "2026-07-31 14:00:06",
@@ -21,6 +166,14 @@
         "Important"
       ],
       "text": "United Kingdom | Nationwide House Price Index (MoM) (Jul) | actual 0.1% | consensus 0.10% | previous 0.00%"
+    },
+    {
+      "id": "5018395",
+      "time": "2026-07-31 13:59:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【DeepSeek：DeepSeek-V4-Flash 正式版 API 上線公測 DeepSeek-V4-Pro 正式版將會盡快釋出】DeepSeek釋出更新日誌，DeepSeek-V4-Flash 正式版 API 上線公測。DeepSeek-V4-Flash-0731 的模型結構、尺寸和 DeepSeek-V4-Flash-preview 保持一致，僅重新進行了後訓練。DeepSeek-V4-Pro 正式版將會盡快釋出。（DeepSeek）"
     },
     {
       "id": "5018394",
@@ -462,6 +615,19 @@
         "國際"
       ],
       "text": "俄羅斯國防部：俄軍襲擊一艘駛往烏克蘭敖德薩附近港口、載有軍用貨物的船隻。"
+    },
+    {
+      "id": "mkt:019fb6c5-08c7-7aab-8f27-bd4e30223878",
+      "time": "2026-07-31 13:08:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "6758.T",
+        "Impact bullish"
+      ],
+      "text": "Sony Semiconductor Manufacturing Corporation said its Kumamoto Technology Center, which suspended operations after an earthquake, will resume phased operations from Aug. 4."
     },
     {
       "id": "5018354",

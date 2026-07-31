@@ -1,7 +1,152 @@
 {
-  "updated": "2026-07-31 14:00:46",
-  "count": 17963,
+  "updated": "2026-07-31 14:05:25",
+  "count": 17971,
   "items": [
+    {
+      "id": "te:economy:571529",
+      "time": "2026-07-31 14:04:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Nationwide Housing Prices YoY",
+        "Importance 2"
+      ],
+      "text": "UK House Price Growth Slows in July — The UK Nationwide House Price Index rose 1.8% year-on-year in July 2026, slowing from a 2.2% increase in June and coming in slightly below market expectations of a 1.9% gain. Nationwide Chief Economist Robert Gardner said renewed geopolitical tensions, particularly the conflict involving Iran and the US, have pushed up energy prices and contributed to volatility in market interest rate expectations. However, he noted that easing consumer inflation and moderating wage growth have given the Bank of England greater scope to assess whether further policy tightening is needed to return inflation to target. Gardner also highlighted that the latest housing survey showed the average length of residence has remained broadly stable at around 14 years, with outright homeowners staying in the same property for nearly 24 years on average, while private renters typically remain in a home for around five years. On a monthly basis, house prices edged up 0.1%, following a flat reading in June."
+    },
+    {
+      "id": "mkt:019fb6c5-ca5d-7aab-8f27-ca8ed27555a9",
+      "time": "2026-07-31 14:04:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SHEL.N"
+      ],
+      "text": "Shell (SHEL.N) said BG Cyprus will hold a 35% non-operated interest in Cyprus offshore Block 12; the transaction is expected to close in early 2027."
+    },
+    {
+      "id": "mkt:019fb6c5-623e-7aab-8f27-c1c499393a15",
+      "time": "2026-07-31 14:03:36",
+      "tags": [
+        "MKT News",
+        "SHEL.N"
+      ],
+      "text": "Shell (SHEL.N) has agreed to sell its wholly owned subsidiary BG Cyprus to MOL Group for up to $720 million."
+    },
+    {
+      "id": "5018402",
+      "time": "2026-07-31 14:03:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電機板塊持續走高，臥龍電驅漲停】電機板塊持續走高，臥龍電驅漲停，神力股份、晨光電機、兆威機電、江蘇雷利、通達動力等跟漲。"
+    },
+    {
+      "id": "5018401",
+      "time": "2026-07-31 14:03:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌：已達成協議，將其全資子公司BG塞普勒斯有限公司出售給摩爾集團，交易總金額最高達7.2億美元；該交易價格受慣常調整以及與里程碑掛鉤的或有付款條款約束。"
+    },
+    {
+      "id": "5018400",
+      "time": "2026-07-31 14:02:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "亞塞拜然央行將關鍵再融資利率維持在6.5%（此前為6.5%）。"
+    },
+    {
+      "id": "mkt:019fb6c4-5690-7aab-8f27-b0bdbf827708",
+      "time": "2026-07-31 14:02:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Azerbaijan's central bank left its key refinancing rate unchanged at 6.5%."
+    },
+    {
+      "id": "5018399",
+      "time": "2026-07-31 14:02:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "彪馬股份公司（PUMA SE）：北美銷售額按固定匯率計算下滑16.7%，主要受消費者需求走弱，以及縮減與大眾零售商非合意業務的影響。"
+    },
+    {
+      "id": "mkt:019fb6c4-04a2-7aab-8f27-ab25f290c8ea",
+      "time": "2026-07-31 14:02:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【DeepSeek launches public beta of DeepSeek-V4-Flash API; DeepSeek-V4-Pro release due soon】DeepSeek launched a public beta for the official DeepSeek‑V4‑Flash API. The DeepSeek‑V4‑Flash‑0731 model keeps the same architecture and size as the DeepSeek‑V4‑Flash‑preview and has only undergone post-training. The company says the formal DeepSeek‑V4‑Pro release will follow shortly."
+    },
+    {
+      "id": "5018398",
+      "time": "2026-07-31 14:01:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "彪馬股份公司：受地區衝突影響，中東地區銷售額大幅下滑。"
+    },
+    {
+      "id": "mkt:019fb6c3-42b9-7aab-8f27-a064378f86bb",
+      "time": "2026-07-31 14:01:17",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "STOXX Europe 50 futures up 0.8%; DAX futures up 0.58%; FTSE 100 futures up 0.51%."
+    },
+    {
+      "id": "5018397",
+      "time": "2026-07-31 14:01:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.8%，德國DAX指數期貨上漲0.58%，英國富時指數期貨上漲0.51%。"
+    },
+    {
+      "id": "5018396",
+      "time": "2026-07-31 14:00:16",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國7月Nationwide房價指數月率 0.1%，預期0.10%，前值0.00%。英國7月Nationwide房價指數年率 1.8%，預期1.90%，前值2.20%。"
+    },
+    {
+      "id": "mkt:019fb6c2-4baa-7aab-8f27-9e971be72d33",
+      "time": "2026-07-31 14:00:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "UK Nationwide house price index MoM +0.1% in July, matching expected +0.1%; June revised 0.0%."
+    },
+    {
+      "id": "mkt:019fb6c2-4afe-7aab-8f27-95c9105899e1",
+      "time": "2026-07-31 14:00:14",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "UK July Nationwide house price index YoY 1.8% vs 1.9% expected, down from June's 2.2%."
+    },
     {
       "id": "mkt:019fb6c2-2df9-7aab-8f27-880d0e59d6cb",
       "time": "2026-07-31 14:00:06",
@@ -21,6 +166,14 @@
         "Important"
       ],
       "text": "United Kingdom | Nationwide House Price Index (MoM) (Jul) | actual 0.1% | consensus 0.10% | previous 0.00%"
+    },
+    {
+      "id": "5018395",
+      "time": "2026-07-31 13:59:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【DeepSeek：DeepSeek-V4-Flash 正式版 API 上線公測 DeepSeek-V4-Pro 正式版將會盡快釋出】DeepSeek釋出更新日誌，DeepSeek-V4-Flash 正式版 API 上線公測。DeepSeek-V4-Flash-0731 的模型結構、尺寸和 DeepSeek-V4-Flash-preview 保持一致，僅重新進行了後訓練。DeepSeek-V4-Pro 正式版將會盡快釋出。（DeepSeek）"
     },
     {
       "id": "5018394",
@@ -462,6 +615,19 @@
         "國際"
       ],
       "text": "俄羅斯國防部：俄軍襲擊一艘駛往烏克蘭敖德薩附近港口、載有軍用貨物的船隻。"
+    },
+    {
+      "id": "mkt:019fb6c5-08c7-7aab-8f27-bd4e30223878",
+      "time": "2026-07-31 13:08:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "6758.T",
+        "Impact bullish"
+      ],
+      "text": "Sony Semiconductor Manufacturing Corporation said its Kumamoto Technology Center, which suspended operations after an earthquake, will resume phased operations from Aug. 4."
     },
     {
       "id": "5018354",
@@ -166020,95 +166186,6 @@
         "其他"
       ],
       "text": "越南擬禁止16歲以下青少年在社交媒體上發帖。"
-    },
-    {
-      "id": "5006059",
-      "time": "2026-07-24 14:05:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "新臺幣兌美元下跌0.4%至32.396。"
-    },
-    {
-      "id": "mkt:019f92ba-4127-7aab-8e7c-50ce7a31bdba",
-      "time": "2026-07-24 14:05:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "MS.O",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "【MORGAN STANLEY passed over as sole lead on SK Hynix US ADR; internal fallout】MORGAN STANLEY was not selected as the sole lead underwriter for SK Hynix’s US ADR listing, a deal sized at about $26.5 billion (roughly 40 trillion won) — the largest foreign IPO in the US by scale. At an assumed 0.5% underwriting fee the commission totals roughly $130 million. The final syndicate is Bank of America, CITIGROUP, Goldman Sachs and JP Morgan. Inside MORGAN STANLEY the loss is viewed as a reputational setback; the bank had recently won mandates on SpaceX and ANTHROPIC and was a frontrunner for an OpenAI listing. Market participants largely attribute MORGAN STANLEY’s exclusion to its repeated bearish Korea semiconductor research, including a well-known “memory winter” analysis. Several bankers, including former MORGAN STANLEY executives, say the firm’s Seoul office increasingly believes those bearish reports may have cost the deal and that the office will be more cautious publishing similar views going forward."
-    },
-    {
-      "id": "5006058",
-      "time": "2026-07-24 14:05:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新加坡GIC擬向對沖基金再投300億美元 看好全球宏觀、量化與多策略】新加坡主權財富基金新加坡政府投資公司(GIC Pte)未來三年將向對沖基金再投入300億美元，這將是對這個已蓬勃發展的行業最大規模的資金挹注之一。集團投資長Bryan Yeo表示，GIC過去十年投資對沖基金的規模已增長兩倍，但未透露具體金額。他指出，全球宏觀、量化和多策略對沖基金是GIC重點擴張的領域。根據Global SWF估計，GIC管理的資產規模約為9,360億美元。此舉將進一步鞏固GIC在對沖基金領域的重要地位。GIC早年就支援橋水基金及其創始人達利歐；最近從Jain Global撤資 ，後者幾個月前同意專門為Millennium Management管理資金。此外，GIC也投資了城堡投資和Viking Global Investors管理的基金。"
-    },
-    {
-      "id": "mkt:019f92ba-1f10-7aab-8e7c-4c63a05cf458",
-      "time": "2026-07-24 14:04:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Analyst: Trump's tariff threats louder but losing bite】The Trump administration has announced tariffs on about 60 economies of roughly 10–12.5%, yet evidence of market impact is limited. Polling shows roughly 60% of Americans lack confidence in the trade policy; manufacturing has not picked up despite some investment announcements. The recent narrowing of the goods deficit mainly reflects import front‑loading ahead of tariffs. Academic studies indicate exporters absorbed about 60% of tariff costs—US import prices stayed largely unchanged—and when US buyers switched suppliers an 8 percentage‑point tariff increase was associated with about a 5% drop in pre‑tariff import prices, roughly half caused by lower quality. Supreme Court rulings against some tariff measures and repeated unfulfilled threats have eroded the policy's deterrent effect."
-    },
-    {
-      "id": "5006057",
-      "time": "2026-07-24 14:04:52",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【大摩錯失SK海力士在美上市承銷 投行內部反應激烈】摩根士丹利未被選為SK海力士美國存託憑證（ADR）上市的唯一主承銷商，該交易規模約265億美元（約40萬億韓元），為外資在美最大規模IPO，按0.5%承銷費率計算佣金約1.3億美元。最終承銷團由美銀、花旗、高盛和摩根大通組成。大摩此前曾拿下SpaceX、Anthropic等專案，並一度被視為OpenAI上市專案的熱門承銷行，因此此次落選被其內部視為一次聲譽打擊。業內普遍認為，大摩落選與其多次釋出看空韓國半導體報告有關，其中包括著名的“儲存寒冬”分析。包括大摩前高管在內的多名投行人士表示，首爾辦公室內部越來越多人認為，此前的看空報告可能讓公司失去了SK海力士這筆交易，因此今後在釋出相關觀點時需要更加謹慎。"
-    },
-    {
-      "id": "5006056",
-      "time": "2026-07-24 14:04:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本40年期國債收益率上升10個基點至4.01%。"
-    },
-    {
-      "id": "te:economy:569606",
-      "time": "2026-07-24 14:04:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Consumer Confidence",
-        "Importance 2"
-      ],
-      "text": "German Consumer Mood Unexpectedly Weakens — Germany's GfK Consumer Climate Indicator edged down to -29.6 heading into August 2026 from a revised -29.3 in July, remaining at a low level and missing expectations for a modest improvement to -28.5. The slight deterioration reflected weaker income expectations, which fell by 2.3 points to -14.5 as consumers became less optimistic about their financial outlook, while the propensity to save increased by 3.1 points to 17.0, remaining historically elevated as households continued to favor saving amid persistent uncertainty. In contrast, willingness to buy rose by 3.5 points to -9.9, though it remained subdued, while economic expectations improved for a third consecutive month, rising by 2.4 points to -6.3 as pessimism eased. Nevertheless, most consumers still expected economic conditions to worsen over the next 12 months. Inflation concerns also increased after the expiry of the fuel subsidy pushed fuel prices higher."
-    },
-    {
-      "id": "5006055",
-      "time": "2026-07-24 14:02:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "菜粕連續主力合約日內漲2%，現報2425.00元。"
-    },
-    {
-      "id": "mkt:019f92b6-5afd-7aab-8e7c-43eb466177c6",
-      "time": "2026-07-24 14:00:52",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "EURUSD"
-      ],
-      "text": "Sources said on Thursday that German Chancellor MERZ may announce a cabinet reshuffle on Friday."
     }
   ]
 }
