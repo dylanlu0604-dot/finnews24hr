@@ -1,7 +1,25 @@
 {
   "date": "2026-08-01",
-  "count": 408,
+  "count": 410,
   "items": [
+    {
+      "id": "5020009",
+      "time": "2026-08-01 05:44:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，在歐洲抵制和全球輿論憤怒反對後，國際足聯已放棄了價值200億美元的世界盃出售計劃。"
+    },
+    {
+      "id": "mkt:019fba21-b157-7aab-8f3e-286980bac763",
+      "time": "2026-08-01 05:43:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "A Pentagon spokesperson said the U.S. Department of Defense stands ready at any time to carry out President Trump's instructions."
+    },
     {
       "id": "5020008",
       "time": "2026-08-01 05:40:24",
