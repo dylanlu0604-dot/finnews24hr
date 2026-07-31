@@ -1,7 +1,37 @@
 {
   "date": "2026-07-31",
-  "count": 3307,
+  "count": 3311,
   "items": [
+    {
+      "id": "mkt:019fb8b3-4b6f-7aab-8f39-696294e55eb4",
+      "time": "2026-07-31 23:03:05",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【CSRC issues nine penalties in one day; six securities firms' IB units targeted】On July 31 the CSRC disclosed nine administrative penalties. Guoyuan Securities, Guorong Securities and Yongxing Securities were ordered to rectify and three related heads of investment banking were sanctioned. GF Securities, Century Securities and Hongta Securities received warning letters. All actions cite investment-banking violations, with deficiencies in quality control and internal-control processes singled out. Regulators said enforcement is focused on project execution quality and the effectiveness of the “three lines of defense,” signaling that IB internal controls must be substantive and compliance breaches will not be tolerated."
+    },
+    {
+      "id": "5019695",
+      "time": "2026-07-31 23:01:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "據沙特媒體：美國向哈馬斯保證，將施壓內塔尼亞胡撤出加沙地帶並落實相關協議。"
+    },
+    {
+      "id": "mkt:019fb8b1-a253-7aab-8f39-6612ff90318d",
+      "time": "2026-07-31 23:01:16",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "【Bank of England hawks increasingly isolated; deputy governors shift toward pausing hikes】Bank of England's MPC stance is shifting: hawkish members are becoming isolated. Thursday's 6-3 vote to raise rates—driven by concern over an Iran-related energy shock—masks a broader migration toward dovishness among other MPC members, notably deputy governors Lombard and Ramsden. Both had warned of second-round inflation from higher energy, but those concerns are easing as growth softens and firms curb hiring. Markets now see a majority consensus to keep rates unchanged unless inflation risks re-emerge; Ramsden said if the conflict eases and domestic price pressures continue to fall the Bank may resume its previously paused rate-cut process, while Lombard said current support for a hold is not \"close to a tipping point.\" Analysts say the hawk–dove boundary is being redrawn and the bar for further hikes has risen; rate markets price only one possible hike this year."
+    },
     {
       "id": "mkt:019fb8b1-254c-7aab-8f39-5d59a0340289",
       "time": "2026-07-31 23:00:44",
@@ -10,6 +40,14 @@
         "Important"
       ],
       "text": "As of the 23:00 close, China's main futures mostly rose. Low-sulfur fuel oil (LU) advanced more than 3%; asphalt and LPG gained over 2%; plastics, PX, PTA, propylene and fuel oil rose above 1%. On the downside, iron ore dropped nearly 3%; coke, coking coal, soda ash and glass fell more than 1%; pulp and rebar slipped about 1%."
+    },
+    {
+      "id": "5019694",
+      "time": "2026-07-31 23:00:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普擬在反信貸歧視政策改革中將激進組織列為整治目標。"
     },
     {
       "id": "5019693",

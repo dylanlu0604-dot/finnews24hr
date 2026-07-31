@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-31 23:01:19",
+  "updated": "2026-07-31 23:05:20",
   "count": 17975,
   "items": [
+    {
+      "id": "mkt:019fb8b3-4b6f-7aab-8f39-696294e55eb4",
+      "time": "2026-07-31 23:03:05",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【CSRC issues nine penalties in one day; six securities firms' IB units targeted】On July 31 the CSRC disclosed nine administrative penalties. Guoyuan Securities, Guorong Securities and Yongxing Securities were ordered to rectify and three related heads of investment banking were sanctioned. GF Securities, Century Securities and Hongta Securities received warning letters. All actions cite investment-banking violations, with deficiencies in quality control and internal-control processes singled out. Regulators said enforcement is focused on project execution quality and the effectiveness of the “three lines of defense,” signaling that IB internal controls must be substantive and compliance breaches will not be tolerated."
+    },
+    {
+      "id": "5019695",
+      "time": "2026-07-31 23:01:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "據沙特媒體：美國向哈馬斯保證，將施壓內塔尼亞胡撤出加沙地帶並落實相關協議。"
+    },
+    {
+      "id": "mkt:019fb8b1-a253-7aab-8f39-6612ff90318d",
+      "time": "2026-07-31 23:01:16",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "【Bank of England hawks increasingly isolated; deputy governors shift toward pausing hikes】Bank of England's MPC stance is shifting: hawkish members are becoming isolated. Thursday's 6-3 vote to raise rates—driven by concern over an Iran-related energy shock—masks a broader migration toward dovishness among other MPC members, notably deputy governors Lombard and Ramsden. Both had warned of second-round inflation from higher energy, but those concerns are easing as growth softens and firms curb hiring. Markets now see a majority consensus to keep rates unchanged unless inflation risks re-emerge; Ramsden said if the conflict eases and domestic price pressures continue to fall the Bank may resume its previously paused rate-cut process, while Lombard said current support for a hold is not \"close to a tipping point.\" Analysts say the hawk–dove boundary is being redrawn and the bar for further hikes has risen; rate markets price only one possible hike this year."
+    },
     {
       "id": "mkt:019fb8b1-254c-7aab-8f39-5d59a0340289",
       "time": "2026-07-31 23:00:44",
@@ -10,6 +40,14 @@
         "Important"
       ],
       "text": "As of the 23:00 close, China's main futures mostly rose. Low-sulfur fuel oil (LU) advanced more than 3%; asphalt and LPG gained over 2%; plastics, PX, PTA, propylene and fuel oil rose above 1%. On the downside, iron ore dropped nearly 3%; coke, coking coal, soda ash and glass fell more than 1%; pulp and rebar slipped about 1%."
+    },
+    {
+      "id": "5019694",
+      "time": "2026-07-31 23:00:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普擬在反信貸歧視政策改革中將激進組織列為整治目標。"
     },
     {
       "id": "5019693",
@@ -166470,41 +166508,6 @@
         "國際"
       ],
       "text": "【標普500成分股盈利超預期比例高於去年同期】在披露2026年二季度財報季的過程中，越來越多的美國公司交出了超出預期的盈利答卷，其中消費必需品和醫療保健板塊是最大的贏家。根據彭博彙編的資料，在已經公佈第三季度業績的120家標普500成分股中，有88%的公司每股收益（EPS）超出了分析師的預期，而去年同期整個財報季這一比例為87%。相比之下，盈利不及預期的公司佔比約為12%，去年同期為13%。 在營收方面，20%的公司未能達到預期，而80%的公司實現了超預期增長。去年同期的這兩項資料分別為30%和70%。儘管如此，自本輪財報季開始以來，藍籌股標杆的標普500指數仍下跌了0.9%。"
-    },
-    {
-      "id": "5007338",
-      "time": "2026-07-24 23:05:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東水利防汛防颱風應急響應提升至Ⅲ級】鑑於今年第12號颱風“紅霞”強度進一步增強，並預測正面登陸廣東省，根據《廣東省水利廳水旱災害防禦工作規則》，廣東省水利廳水旱災害防禦領導小組定於2026年7月24日20時將水利防汛防颱風Ⅳ級應急響應提升至Ⅲ級。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f94a7-67c6-7aab-8e8b-0e4048c9d922",
-      "time": "2026-07-24 23:03:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian Defence Ministry said it carried out a precision strike on a facility in the suburbs of Kyiv that was hosting a drone demonstration."
-    },
-    {
-      "id": "5007336",
-      "time": "2026-07-24 23:02:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄軍動用高精度武器對基輔郊區一處設施實施精準打擊。事發時該場地正在舉辦無人機展示活動，展品包含多款烏克蘭自研及海外製造的新型無人機，此類裝備被用於襲擊俄羅斯境內民用目標。"
-    },
-    {
-      "id": "mkt:019f94a5-69e1-7aab-8e8b-044a0e53203a",
-      "time": "2026-07-24 23:01:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "As of the 23:00 close, China's domestic futures front-month contracts were mostly lower. Low-sulfur fuel oil (LU) and p-xylene (PX) fell over 2%; PTA dropped nearly 2%; fuel oil, synthetic rubber, benzene and liquefied petroleum gas (LPG) declined more than 1%; asphalt fell nearly 1%. On the upside, caustic soda rose over 2%; ethylene glycol (EG) and glass gained over 1%; coke and Soybean No.1 were up about 1%."
     }
   ]
 }
