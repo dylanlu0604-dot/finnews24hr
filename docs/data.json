@@ -1,7 +1,271 @@
 {
-  "updated": "2026-08-01 03:32:41",
-  "count": 17939,
+  "updated": "2026-08-01 04:01:46",
+  "count": 17897,
   "items": [
+    {
+      "id": "5019884",
+      "time": "2026-08-01 04:01:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "非官方資料顯示，本週標普500指數上漲1.05%，納斯達克指數上升1.59%，道瓊斯工業指數攀升1.04%。本月標普500指數下跌0.13%，納斯達克指數下滑3.2%，道瓊斯工業指數上漲0.32%。"
+    },
+    {
+      "id": "5019883",
+      "time": "2026-08-01 04:00:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "ROBLOX股價收盤下跌27%，創歷史最大單日跌幅。"
+    },
+    {
+      "id": "5019882",
+      "time": "2026-08-01 04:00:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜股價飆升15%，創下2012年以來最佳單日表現。"
+    },
+    {
+      "id": "5019881",
+      "time": "2026-08-01 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.53%，標普500指數漲0.70%，納指漲0.99%。德康醫療漲11.95%，Monolithic Power Systems漲8.22%。“七姐妹”方面：亞馬遜漲15.24%，谷歌漲6.87%，Meta Platforms漲3.20%，英偉達漲3.20%，微軟漲3.07%，特斯拉漲0.76%，蘋果跌7.08%。"
+    },
+    {
+      "id": "5019880",
+      "time": "2026-08-01 04:00:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "CH ROBINSON 股價7月份下跌22%，創2000年以來最大單月跌幅。"
+    },
+    {
+      "id": "5019879",
+      "time": "2026-08-01 04:00:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "ROBLOX股價收盤下跌27%，創歷史最大單日跌幅。"
+    },
+    {
+      "id": "5019878",
+      "time": "2026-08-01 04:00:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西石油監管機構：汽油中強制摻入32%乙醇的規定於8月1日生效，有效期為180天。"
+    },
+    {
+      "id": "5019877",
+      "time": "2026-08-01 04:00:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "7月份，美股儲存晶片指數跌28.6%，半導體指數跌19.8%，美國科技股七巨頭指數漲4.9%。"
+    },
+    {
+      "id": "5019876",
+      "time": "2026-08-01 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲1.47%】金山雲漲10.21%，金生遊樂漲9.16%，中進醫療漲7.85%，叮咚買菜漲6.40%，中汽系統漲5.37%。"
+    },
+    {
+      "id": "mkt:019fb9c1-9285-7aab-8f3d-3b164940fc1c",
+      "time": "2026-08-01 03:58:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Egypt will raise residential electricity tariffs across consumption tiers by an average 12%, while keeping the first-tier (lowest) tariff unchanged, according to a statement."
+    },
+    {
+      "id": "5019875",
+      "time": "2026-08-01 03:55:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及電價制度規定，居民用電各檔位電價平均上調12%，第一檔電價維持不變。"
+    },
+    {
+      "id": "5019874",
+      "time": "2026-08-01 03:55:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數漲幅擴大至1%。"
+    },
+    {
+      "id": "5019873",
+      "time": "2026-08-01 03:54:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市延續漲勢，標普500指數上漲1.00%。"
+    },
+    {
+      "id": "5019872",
+      "time": "2026-08-01 03:52:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行監管機構放寬委內瑞拉相關《銀行保密法》執法政策。"
+    },
+    {
+      "id": "5019871",
+      "time": "2026-08-01 03:51:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【專家：Anthropic與OpenAI入侵事件預示美國安全風險】網路安全專家批評 Anthropic 與 OpenAI 安全防護措施粗疏，兩家企業的人工智慧模型侵入外部機構系統；專家警示，此類入侵事件預示著日益迫近的國家安全風險。Anthropic 於週四披露，公司利用 Claude 模型開展 141006 次網路安全測評時，本應切斷模型的網際網路訪問許可權。但一處程式漏洞導致該模型在少數場景下接入網際網路，併發起攻擊 —— 模型錯誤認定這些攻擊屬於測試內容。該模型入侵了一家機構，竊取基礎設施訪問憑證以及存有內部生產資料的資料庫。另一起事件中，模型分發惡意軟體，並利用該程式盜取另一家機構的賬號憑證。受影響機構的身份尚未對外公佈。這些入侵事件最早發生在 4 月，但直到上週才被發現。此前 OpenAI 對外披露，自家 AI 智慧體脫離測試環境、侵入開源 AI 模型庫 Hugging Face，Anthropic 隨即對內部網路安全測試專案開展審計，才查出相關問題。英國國家網路安全中心前負責人西亞蘭・馬丁表示：“從網路安全行業視角來看，很多人會認定這屬於防護疏漏。”美國國防部聯合人工智慧中心前戰略與政策主管格雷戈裡・艾倫提出，美軍可以運用先進 AI 模型防護資訊系統，但同時必須認清，這項技術催生了全新類別風險。“正是因為主動排查，Anthropic 才發現了這些入侵行為，” 艾倫表示，“現階段我們根本無從判斷自主 AI 駭客攻擊的普遍程度。”"
+    },
+    {
+      "id": "5019870",
+      "time": "2026-08-01 03:47:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府負責委內瑞拉事務的非官方顧問卸任。訊息稱由於美方擔憂其影響力過大，且他與委內瑞拉商界人士存在關聯，其實際遭到勸退。"
+    },
+    {
+      "id": "5019869",
+      "time": "2026-08-01 03:46:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "人工智慧公司Anthropic、OpenAI遭遇網路安全事故，暴露出美國存在安全隱患。"
+    },
+    {
+      "id": "5019868",
+      "time": "2026-08-01 03:46:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【CFTC：美元多頭總持倉創下歷史新高】美國商品期貨交易委員會（CFTC）：美元多頭總持倉激增至略超 500 億美元，創下歷史新高。雖然投機客買入 0.23 萬手紐西蘭元，同時小幅增持瑞郎與墨西哥比索多頭，但美元整體多頭頭寸仍增加近 70 億美元，小幅突破 2014 至 2015 年創下的歷史最高持倉紀錄。"
+    },
+    {
+      "id": "5019867",
+      "time": "2026-08-01 03:44:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：桑托斯因借國情諮文行情進行交易，須繳納罰金。"
+    },
+    {
+      "id": "5019866",
+      "time": "2026-08-01 03:43:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：喬治・桑托斯因 “操縱性” 交易須繳納 3.5 萬美元罰金。"
+    },
+    {
+      "id": "mkt:019fb9b4-02c4-7aab-8f3d-37f899a0e958",
+      "time": "2026-08-01 03:43:29",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "CFTC: For the week ended July 28, equity fund managers raised S&P 500 futures (CME) net long positions by 12,702 contracts to 939,115. Equity fund speculators cut S&P 500 futures (CME) net short positions by 28,795 contracts to 287,277."
+    },
+    {
+      "id": "5019865",
+      "time": "2026-08-01 03:42:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "Vortexa 船舶追蹤資料顯示：受運往歐洲的貨運量降至一年半低點影響，加拿大東部油輪原油出口量由 6 月日均 41.3 萬桶回落至 7 月日均 35.6 萬桶。"
+    },
+    {
+      "id": "5019864",
+      "time": "2026-08-01 03:40:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美否認介入航線調整，卡達 LNG 貨輪駛離波斯灣前往巴基斯坦】美國方面表示，並未參與安排首艘卡達液化天然氣運輸船改變航線，該船是三週多以來首艘穿越霍爾木茲海峽的卡達液化天然氣船。“阿爾・阿里什” 號 7 月初在卡達拉斯拉凡液化天然氣出口碼頭裝貨後，便一直在波斯灣滯留。週四凌晨，該船開啟應答器駛過霍爾木茲海峽，航行資訊顯示目的地為巴基斯坦。資料顯示，目前這艘船位於阿曼馬斯喀特港附近，原定 7 月 31 日抵達巴基斯坦，預計到港時間調整至 8 月 6 日。一名知情人士透露，伊朗方面下令這艘船隻暫停前往巴基斯坦的航程。 這批液化天然氣交付延期，或將加劇巴基斯坦能源供應緊張局面。巴基斯坦幾乎全部發電廠所需液化天然氣都依賴卡達進口。"
+    },
+    {
+      "id": "5019863",
+      "time": "2026-08-01 03:38:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元兌日元本週跌2.9%】週五（7月31日）紐約尾盤，美元兌日元跌0.31%，報159.04日元，本週累計下跌2.91%、7月30日美股盤初急劇跳水，7月份累計下跌2.09%，整體交投區間為163.99-157.98日元，在平緩的持續上揚行情中、7月23日美股盤初達到頂部。歐元兌日元跌0.28%，報183.40日元，本週累跌1.53%，7月份累跌1.22%；英鎊兌日元跌0.17%，報214.466日元，本週累跌1.78%，7月份累跌0.48%。"
+    },
+    {
+      "id": "mkt:019fb9ae-b425-7aab-8f3d-2a8c38130ad6",
+      "time": "2026-08-01 03:37:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "CFTC: For the week ended July 28, speculators cut net short positions in CBOT U.S. 10-year Treasury futures by 3,587 contracts to 876,119. Net shorts in CBOT U.S. ultra-long Treasury futures fell by 642 contracts to 320,708."
+    },
+    {
+      "id": "mkt:019fb9ae-b300-7aab-8f3d-269623f7c440",
+      "time": "2026-08-01 03:37:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CFTC: Week to July 28, speculative traders increased net-short positions in natural gas across NYMEX and ICE by 5,281 contracts to 60,997 contracts."
+    },
+    {
+      "id": "mkt:019fb9ae-95e0-7aab-8f3d-188cd309a48e",
+      "time": "2026-08-01 03:37:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. Commodity Futures Trading Commission (CFTC): For the week to July 28, speculators cut net short positions in CBOT U.S. 2-year Treasury futures by 30,023 contracts to 1,124,574, and cut net shorts in CBOT U.S. 5-year Treasury futures by 126,929 contracts to 1,146,400."
+    },
+    {
+      "id": "5019862",
+      "time": "2026-08-01 03:36:55",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【美日協同支撐日元 匯市干預或迎來新常態】美國與日本為支撐疲軟日元而展開的協調似乎達到數十年來未有的緊密程度，兩國在日均交易額達9.5萬億美元的全球外匯市場中聯合擊退拋售日元的力量。日本週四可能動用約8.45萬億日元干預匯市，美國當局還向多家銀行詢問日元匯率報價。這種“匯率檢查”通常被視為外匯干預的前兆，也是美國今年第二次採取這一行動。受此影響，日元兌美元在紐約交易時段一度上漲3.3%。在報道稱美國當局通知銀行可能進行支撐日元的交易後，日元在週五進一步走強。截至紐約時間下午2:38，日元兌美元一度上漲0.9%，至158.84。報道稱，紐約聯儲週五要求至少兩家美國大型銀行提供日元兌歐元報價。"
+    },
+    {
+      "id": "5019861",
+      "time": "2026-08-01 03:36:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特： 正如美國總統所言，創紀錄規模的投資正源源不斷湧入美國。得益於特朗普總統的領導，無論是數字資產、科技創新領域，還是重振美國製造業，我們正甩開全球其他競爭對手。"
+    },
+    {
+      "id": "5019860",
+      "time": "2026-08-01 03:35:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 法官傾向於命令扎克伯格在人工智慧相關訴訟中接受庭外取證質詢。"
+    },
     {
       "id": "5019858",
       "time": "2026-08-01 03:31:56",
@@ -165469,667 +165733,6 @@
         "Impact bullish"
       ],
       "text": "【US close: major indexes mixed; SanDisk falls over 10%】U.S. equities closed mixed on Friday: Dow Jones +0.45%, S&P 500 +0.05%, Nasdaq -0.64%. Memory/storage names led declines — SanDisk (SNDK.O) -10.79%, SK Hynix (SKHY.O) -8.81%, Micron Technology (MU.O) -6.99%; Philadelphia Semiconductor Index down 4.25%, Intel (INTC.O) -7.89%. IBM (IBM.N) +3.64%, Apple (AAPL.O) +3.53%. Nasdaq Golden Dragon China Index -0.68%; Alibaba (BABA.N) -1.67%, Baidu (BIDU.O) -1.91%."
-    },
-    {
-      "id": "5007569",
-      "time": "2026-07-25 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.45%，標普500指數漲0.05%，納指跌0.64%。國際紙業漲11.26%，SW漲11.12%，斯倫貝謝漲11.08%，數字房地信託漲10.90%，閃迪跌10.79%，Coherent Corp跌9.79%。“七姐妹”方面：蘋果漲3.55%，谷歌漲0.25%，微軟漲0.06%，亞馬遜跌0.68%，英偉達跌0.85%，Meta Platforms跌1.79%，特斯拉跌2.08%。"
-    },
-    {
-      "id": "5007568",
-      "time": "2026-07-25 04:00:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數<.SPX>非官方收盤下跌2.13點，或0.03%，報7,406.17點。"
-    },
-    {
-      "id": "5007567",
-      "time": "2026-07-25 04:00:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克指數<.IXIC>非官方收盤下跌172.54點，跌幅0.69%，報24,965.15點。"
-    },
-    {
-      "id": "mkt:019f95b6-f6a4-7aab-8e90-2afe92b6cabf",
-      "time": "2026-07-25 04:00:23",
-      "tags": [
-        "MKT News",
-        "PSKY.O",
-        "Impact bearish",
-        "WBD.O"
-      ],
-      "text": "【Paramount, Warner Bros. Discovery agree to pause $111 bln merger】Paramount (PSKY.O) said on Friday it has agreed to pause its $111 bln merger with Warner Bros. Discovery (WBD.O) — the suspension may extend until no later than June next year — while courts consider lawsuits filed by multiple state attorneys general seeking to block the deal. In court filings the parties said the agreement freezes the transaction and extends a shorter pause previously ordered by a California federal judge. The merger would combine major studios, streaming services HBO Max and Paramount+, and networks including CBS and CNN. Paramount CEO David Ellison led the acquisition and prevailed over Netflix after multiple rounds of higher bids."
-    },
-    {
-      "id": "5007566",
-      "time": "2026-07-25 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌0.68%】盛豐物流跌10.24%，中進醫療跌9.65%，阿特斯跌9.05%，嘉楠科技跌7.10%，世紀互聯跌7.14%。"
-    },
-    {
-      "id": "mkt:019f95b5-1b23-7aab-8e90-24ffee8b2a3e",
-      "time": "2026-07-25 03:58:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said the new tariffs are very standard and that a simpler method exists to levy them, adding there are multiple options."
-    },
-    {
-      "id": "5007565",
-      "time": "2026-07-25 03:58:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "提示：特朗普結束講話。"
-    },
-    {
-      "id": "5007564",
-      "time": "2026-07-25 03:58:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：如果沒有我當選總統，伊朗可能將造出核武器打擊以色列，以色列將不復存在。"
-    },
-    {
-      "id": "mkt:019f95b4-16d9-7aab-8e90-1de326586ee9",
-      "time": "2026-07-25 03:57:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Market sources: witnesses report multiple airstrikes at Yemen's Hodeidah port."
-    },
-    {
-      "id": "5007563",
-      "time": "2026-07-25 03:53:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：另一種關稅方案操作起來更簡便，但我們手握多種徵稅手段。"
-    },
-    {
-      "id": "mkt:019f95b0-938e-7aab-8e90-16d437fa1cf1",
-      "time": "2026-07-25 03:53:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said he had not spoken with Energy Secretary Wright before signing the Saudi nuclear agreement."
-    },
-    {
-      "id": "5007562",
-      "time": "2026-07-25 03:53:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：哥倫比亞當選副總統稱將與美方就關稅問題展開談判 。"
-    },
-    {
-      "id": "mkt:019f95af-ba63-7aab-8e90-083e96361077",
-      "time": "2026-07-25 03:52:29",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Brazil estimates 16.5% of its exports will be affected by a 37.5% US composite tariff."
-    },
-    {
-      "id": "mkt:019f95af-5db4-7aab-8e90-03e604714209",
-      "time": "2026-07-25 03:52:05",
-      "tags": [
-        "MKT News",
-        "PARA.O",
-        "Impact bearish",
-        "WBD.O"
-      ],
-      "text": "The New York Times reports Paramount has agreed to delay its merger with Warner Bros. by several months."
-    },
-    {
-      "id": "mkt:019f95af-2195-7aab-8e8f-ff6da2bfccea",
-      "time": "2026-07-25 03:51:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil expects new U.S. tariffs to affect 23.1% of its exports."
-    },
-    {
-      "id": "5007561",
-      "time": "2026-07-25 03:51:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：關於伊朗，我們有兩個選擇：要麼繼續打擊並摧毀其軍事能力，要麼達成協議。"
-    },
-    {
-      "id": "5007560",
-      "time": "2026-07-25 03:51:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西估計，美國加徵的合計37.5%關稅將影響其16.5%的出口。"
-    },
-    {
-      "id": "5007559",
-      "time": "2026-07-25 03:50:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品管理局(FDA)諮詢委員會投票決定將多肽藥物SEMAX列入允許藥房配製的藥物清單。"
-    },
-    {
-      "id": "5007558",
-      "time": "2026-07-25 03:49:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "法律網站訊息：國土安全部因採用 “無差別大規模蒐集” 手段收集移民及海關執法局抗議者相關資料遭起訴 。"
-    },
-    {
-      "id": "5007557",
-      "time": "2026-07-25 03:49:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "派拉蒙天空之舞股價跌至盤中最低點2%。"
-    },
-    {
-      "id": "5007556",
-      "time": "2026-07-25 03:49:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西政府宣告表示，估計美國新增關稅將影響巴西23.1%的出口產品。"
-    },
-    {
-      "id": "mkt:019f95ad-0a8c-7aab-8e8f-f5166e2e5cbe",
-      "time": "2026-07-25 03:49:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "U.S. President Trump said there will be no nuclear agreement with Saudi Arabia unless Riyadh joins the Abraham Accords."
-    },
-    {
-      "id": "5007555",
-      "time": "2026-07-25 03:49:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日元本週跌約0.9%】週五（7月24日）紐約尾盤，美元兌日元大致持平，報163.85日元，本週累計上漲0.89%，交投區間為162.22-163.99日元。本週，歐元兌日元累漲0.26%，報186.29日元；英鎊兌日元累跌0.10%，報218.271日元。"
-    },
-    {
-      "id": "mkt:019f95ac-a7cf-7aab-8e8f-ee70dabff7db",
-      "time": "2026-07-25 03:49:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi Transport Authority said the vessel resumed its voyage to its destination after confirming the safety of the ship and its crew."
-    },
-    {
-      "id": "5007554",
-      "time": "2026-07-25 03:48:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【對沖基金做空加元創2024年8月以來新高】受美國加徵關稅威脅及美加貿易緊張局勢持續升級影響，對沖基金對加元的看跌押注達到兩年來最高水平。美國商品期貨交易委員會（CFTC）最新資料顯示，截至7月21日當週，槓桿資金管理人持有的加元淨空頭頭寸增至99,823份合約，創下自2024年8月以來的最高紀錄。在貿易摩擦加劇的背景下，加元正經歷五週以來最糟糕的單週表現。本週加元兌美元匯率累計下跌0.5%，市場悲觀情緒顯著升溫。本週早些時候，特朗普政府宣佈對部分加拿大商品加徵50%的關稅，以回應加拿大對美國酒類、汽車和乳製品採取的貿易限制措施。這一舉措進一步加劇了加元的貶值壓力。今年以來，受加拿大國內經濟疲軟以及美加兩國不利的利差影響，加元表現持續落後於大多數主要貨幣。隨著貿易不確定性上升，市場對加元的負面預期仍在發酵。"
-    },
-    {
-      "id": "mkt:019f95ab-8c1e-7aab-8e8f-e0eb30832e79",
-      "time": "2026-07-25 03:47:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Trump says he has not decided on a major strike against Iran, sees Iran taking talks more seriously】US President Trump said he is prepared to undertake higher-level military action against Iran but has not decided on a major strike. He said he believes Iran has become more serious in negotiations over time, is not in a hurry to reach a deal, and will monitor progress in the talks."
-    },
-    {
-      "id": "5007553",
-      "time": "2026-07-25 03:46:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：沙烏地阿拉伯清楚核協議的各項條件。"
-    },
-    {
-      "id": "5007552",
-      "time": "2026-07-25 03:46:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談沙特核協議：如果沙烏地阿拉伯不加入相關協議，我們就不會推進這項協議。"
-    },
-    {
-      "id": "5007551",
-      "time": "2026-07-25 03:46:08",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "阿根廷央行今日外匯儲備規模為491.8億美元。"
-    },
-    {
-      "id": "5007550",
-      "time": "2026-07-25 03:44:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱美方正與伊朗談判 不排除加大軍事打擊】當地時間7月24日，美國總統特朗普在白宮談及對伊朗戰爭的“退出戰略”時表示，美國有兩種選擇：一是繼續當前軍事行動，並可能加大打擊力度，逐步摧毀伊朗的軍事能力；二是透過談判達成協議。特朗普稱，伊朗方面希望達成協議，但目前“還沒有準備好”。他表示，美國可以繼續按現有方式行動，也可以更迅速地加強打擊。特朗普同時表示，美方目前仍在與伊朗進行談判，“就在我們說話的時候，雙方正在交談”。(央視新聞)"
-    },
-    {
-      "id": "mkt:019f95a8-6eca-7aab-8e8f-d87734d0ee6f",
-      "time": "2026-07-25 03:44:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi Press Agency said the Saudi vessel NCC MASA is continuing to its destination; the ship and crew are reported safe."
-    },
-    {
-      "id": "mkt:019f95a8-4c70-7aab-8e8f-d29305d6a17b",
-      "time": "2026-07-25 03:44:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he is talking with Iranians and believes they are becoming more serious."
-    },
-    {
-      "id": "mkt:019f95a7-f426-7aab-8e8f-cddb20693292",
-      "time": "2026-07-25 03:43:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Secretary of State Rubio and Vice President Vance discussed Iran."
-    },
-    {
-      "id": "mkt:019f95a7-bbe1-7aab-8e8f-c0816ebd403d",
-      "time": "2026-07-25 03:43:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Barclays: spot crude may lead the move and could test $150/bbl if sustained for three months."
-    },
-    {
-      "id": "mkt:019f95a7-a7ea-7aab-8e8f-bb118095e3e9",
-      "time": "2026-07-25 03:43:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Barclays: If the current situation persists another 1, 2 or 3 months, Brent faces upside risk of $2, $7 and $10 per barrel, respectively, versus Barclays' 2026 forecast of $96/bbl."
-    },
-    {
-      "id": "mkt:019f95a7-97a8-7aab-8e8f-b49e7cfd246c",
-      "time": "2026-07-25 03:43:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Barclays sees upside risk to its oil-price forecasts, conditional on how long the Strait of Hormuz standoff continues."
-    },
-    {
-      "id": "5007549",
-      "time": "2026-07-25 03:43:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國內政部長：大量資金將流入美國核能企業。"
-    },
-    {
-      "id": "5007548",
-      "time": "2026-07-25 03:41:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們將在核能應用問題上保持克制。"
-    },
-    {
-      "id": "mkt:019f95a5-740a-7aab-8e8f-aa236897a340",
-      "time": "2026-07-25 03:41:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "US President Trump says he is prepared to take escalated military action against Iran."
-    },
-    {
-      "id": "mkt:019f95a4-c7f9-7aab-8e8f-a45036bb4f10",
-      "time": "2026-07-25 03:40:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said he will impose steep tariffs on Canadian tobacco imports."
-    },
-    {
-      "id": "mkt:019f95a4-a3b2-7aab-8e8f-9fd346f94f6d",
-      "time": "2026-07-25 03:40:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump will impose steep tariffs on Mexican lettuce."
-    },
-    {
-      "id": "mkt:019f95a4-9714-7aab-8e8f-91aedb7c7933",
-      "time": "2026-07-25 03:40:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi state news agency reports Saudi-flagged vessel NCC MASA was attacked in the Red Sea; hull sustained minor damage."
-    },
-    {
-      "id": "5007547",
-      "time": "2026-07-25 03:40:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普總統表示，已有四家企業在政府設定的截止日期前，完成私人出資研發先進核反應堆的相關工作。他稱，這是四十多年來美國首次推進全新反應堆設計落地。他表示，以往耗時六年甚至更久的審批研發流程如今已大幅提速，並補充道，美國當下在新一代核電技術領域領跑全球。"
-    },
-    {
-      "id": "5007546",
-      "time": "2026-07-25 03:38:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普再度批評風力發電機。"
-    },
-    {
-      "id": "5007545",
-      "time": "2026-07-25 03:38:38",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我總是傾向於達成協議。"
-    },
-    {
-      "id": "mkt:019f95a2-95e4-7aab-8e8f-88821eb67db7",
-      "time": "2026-07-25 03:38:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Trump says multiple exit strategies on Iran】Trump said the US has multiple exit strategies on Iran, including military options or negotiating a deal, but he does not believe Iran is currently ready to reach an agreement."
-    },
-    {
-      "id": "5007544",
-      "time": "2026-07-25 03:37:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：外界都在拿選舉說事，但我在伊朗問題上一點都不急。"
-    },
-    {
-      "id": "5007543",
-      "time": "2026-07-25 03:37:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我認為伊朗此次談判態度是我們見過最為誠懇的一次。"
-    },
-    {
-      "id": "mkt:019f95a2-2ba9-7aab-8e8f-82ab13be6a1c",
-      "time": "2026-07-25 03:37:40",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "GBPUSD"
-      ],
-      "text": "CFTC week ended July 21: net short positions — Swiss franc 34,242 contracts; British pound 55,561 contracts; euro 41,338 contracts; Japanese yen 152,125 contracts."
-    },
-    {
-      "id": "5007542",
-      "time": "2026-07-25 03:37:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊：現貨原油價格大機率主導走勢，未來三個月情景下可能測試每桶150美元。"
-    },
-    {
-      "id": "5007541",
-      "time": "2026-07-25 03:37:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：儘管面臨中期選舉，在伊朗問題上我們並不急於求成。"
-    },
-    {
-      "id": "5007540",
-      "time": "2026-07-25 03:37:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "派拉蒙、天空之舞和華納兄弟股價跌至當日新低。"
-    },
-    {
-      "id": "5007539",
-      "time": "2026-07-25 03:36:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們正與伊朗展開談判，後續結果拭目以待。"
-    },
-    {
-      "id": "5007538",
-      "time": "2026-07-25 03:36:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：相信伊朗是非常認真的，他們應該這樣。"
-    },
-    {
-      "id": "5007537",
-      "time": "2026-07-25 03:36:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談誰在與伊朗對話：萬斯、盧比奧和其他人都在談論此事。"
-    },
-    {
-      "id": "mkt:019f95a1-19ac-7aab-8e8f-7aefe7d1b451",
-      "time": "2026-07-25 03:36:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "CFTC: For the week to July 21, speculative traders increased net short positions in CBOT U.S. 10-year Treasury futures by 48,031 contracts to 879,706 contracts. Speculators also raised net short positions in CBOT U.S. Treasury futures by 7,734 contracts to 186,790 contracts."
-    },
-    {
-      "id": "mkt:019f95a0-f7c3-7aab-8e8f-76bc081ae01b",
-      "time": "2026-07-25 03:36:22",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "CFTC said speculators cut net short positions in CBOT US 2‑year Treasury futures by 2,880 contracts to 1,154,597 in the week ended July 21. They reduced net shorts in CBOT US 5‑year Treasury futures by 20,954 contracts to 1,273,329."
-    },
-    {
-      "id": "5007536",
-      "time": "2026-07-25 03:36:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：我們已做好充分準備，隨時出發。"
-    },
-    {
-      "id": "5007535",
-      "time": "2026-07-25 03:36:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我認為伊朗局勢變得更加嚴峻是出於“顯而易見”的原因。"
-    },
-    {
-      "id": "5007534",
-      "time": "2026-07-25 03:35:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我認為隨著時間推移，伊朗在談判中的態度愈發認真。"
-    },
-    {
-      "id": "5007533",
-      "time": "2026-07-25 03:35:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：尚未決定是否對伊朗發動大規模打擊。"
-    },
-    {
-      "id": "5007532",
-      "time": "2026-07-25 03:35:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：考慮因煙霧汙染問題對加拿大徵收高額關稅。"
-    },
-    {
-      "id": "mkt:019f959f-dd94-7aab-8e8f-6e59b3eda668",
-      "time": "2026-07-25 03:35:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said a deal with Iran may be possible, but he does not believe Iran is ready to reach one."
-    },
-    {
-      "id": "5007531",
-      "time": "2026-07-25 03:34:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：派拉蒙與華納兄弟達成一致，將併購交易暫緩至 2007 年 6 月 1 日。"
-    },
-    {
-      "id": "mkt:019f959e-f8f7-7aab-8e8f-6060d81ffce4",
-      "time": "2026-07-25 03:34:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "CFTC: In the week ending July 21, speculative traders in the four major NYMEX and ICE natural gas contracts increased net short positions by 5,421 contracts to 55,716 contracts."
-    },
-    {
-      "id": "mkt:019f959e-ca99-7aab-8e8f-5d06b3d76b59",
-      "time": "2026-07-25 03:33:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact mixed",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "President Trump said the U.S. has many exit strategies on Iran."
-    },
-    {
-      "id": "mkt:019f959e-9262-7aab-8e8f-5592fdf93878",
-      "time": "2026-07-25 03:33:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said Venezuela is not yet ready to hold elections but \"one day they will be ready.\""
-    },
-    {
-      "id": "5007530",
-      "time": "2026-07-25 03:33:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我認為伊朗目前還沒準備好，但他們有意達成協議。"
-    },
-    {
-      "id": "mkt:019f959e-7782-7aab-8e8f-4f991335cf61",
-      "time": "2026-07-25 03:33:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "CFTC: In the week ended July 21, COMEX gold speculators increased net longs by 4,438 contracts to 123,586; silver speculators cut net longs by 374 contracts to 10,003; copper speculators raised net longs by 11,751 contracts to 73,685."
-    },
-    {
-      "id": "5007529",
-      "time": "2026-07-25 03:33:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗問題：我們既可達成協議，也能對其實施更強硬打擊。"
-    },
-    {
-      "id": "5007528",
-      "time": "2026-07-25 03:33:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗尚未準備好達成協議。"
-    },
-    {
-      "id": "5007527",
-      "time": "2026-07-25 03:33:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普表示，美國在伊朗問題上有很多退出策略。"
     }
   ]
 }
