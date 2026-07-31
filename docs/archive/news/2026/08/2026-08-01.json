@@ -1,7 +1,79 @@
 {
   "date": "2026-08-01",
-  "count": 292,
+  "count": 300,
   "items": [
+    {
+      "id": "te:markets:571853",
+      "time": "2026-08-01 04:26:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls as Mining and Tech Losses Weigh — The S&P/TSX Composite Index fell 0.8% to close at 35,226 on Friday, pressured by losses in mining and technology stocks. Gold miners declined as gold prices weakened amid a sharp rise in long-term US Treasury yields, with Agnico Eagle down 3.6%, Barrick losing 2.5%, and WPM falling 3.9%. Technology shares also underperformed, led by Shopify (-4.3%) and Celestica (-6%), as investors turned cautious ahead of Shopify's 2Q26 earnings on August 5. Fairfax Financial (-0.5%) and Cameco (-2.1%) reported revenue above expectations but missed EPS estimates. Enbridge slipped 1.8% despite beating forecasts for adjusted second-quarter profit. Telus plunged 11.3% after posting a second-quarter loss and resetting its quarterly dividend. Meanwhile, Imperial Oil rose 0.5% on stronger-than-expected earnings, while ATD gained 1.4% after announcing plans to acquire Poland's Zabka."
+    },
+    {
+      "id": "5019919",
+      "time": "2026-08-01 04:26:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國醫療保險和醫療補助服務中心（CMS）：擴大版關節置換綜合護理模式（CJR-X）自2028年1月1日起強制實施。"
+    },
+    {
+      "id": "mkt:019fb9db-445b-7aab-8f3d-b097103160cb",
+      "time": "2026-08-01 04:26:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hamas leader says consensus with mediators is to store, not transfer, weapons."
+    },
+    {
+      "id": "5019918",
+      "time": "2026-08-01 04:26:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾華宣佈Pluvicto獲FDA批准用於PSMA陽性轉移性激素敏感性前列腺癌，有望推動轉移性前列腺癌治療新標準。"
+    },
+    {
+      "id": "mkt:019fb9da-eb83-7aab-8f3d-a87de0d699de",
+      "time": "2026-08-01 04:25:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hamas leader said Israel has disregarded US mediators in recent months; if Israel does not comply with the plan's terms, Hamas will not fulfill its obligations."
+    },
+    {
+      "id": "5019917",
+      "time": "2026-08-01 04:25:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局批准PLUVICTO用於治療PSMA陽性轉移性激素敏感性前列腺癌，有望推動該藥物成為轉移性前列腺癌治療的新標準方案。"
+    },
+    {
+      "id": "mkt:019fb9da-634b-7aab-8f3d-a4fd48efa51f",
+      "time": "2026-08-01 04:25:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Hamas leader said the Gaza peace agreement is a comprehensive package; mediators have expressed positive signals, but past experience shows Israel has breached agreements."
+    },
+    {
+      "id": "5019916",
+      "time": "2026-08-01 04:24:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元上漲0.9%，觸及盤中高點158.03。"
+    },
     {
       "id": "5019915",
       "time": "2026-08-01 04:24:36",

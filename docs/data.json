@@ -1,7 +1,79 @@
 {
-  "updated": "2026-08-01 04:25:19",
-  "count": 17927,
+  "updated": "2026-08-01 04:29:14",
+  "count": 17933,
   "items": [
+    {
+      "id": "te:markets:571853",
+      "time": "2026-08-01 04:26:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls as Mining and Tech Losses Weigh — The S&P/TSX Composite Index fell 0.8% to close at 35,226 on Friday, pressured by losses in mining and technology stocks. Gold miners declined as gold prices weakened amid a sharp rise in long-term US Treasury yields, with Agnico Eagle down 3.6%, Barrick losing 2.5%, and WPM falling 3.9%. Technology shares also underperformed, led by Shopify (-4.3%) and Celestica (-6%), as investors turned cautious ahead of Shopify's 2Q26 earnings on August 5. Fairfax Financial (-0.5%) and Cameco (-2.1%) reported revenue above expectations but missed EPS estimates. Enbridge slipped 1.8% despite beating forecasts for adjusted second-quarter profit. Telus plunged 11.3% after posting a second-quarter loss and resetting its quarterly dividend. Meanwhile, Imperial Oil rose 0.5% on stronger-than-expected earnings, while ATD gained 1.4% after announcing plans to acquire Poland's Zabka."
+    },
+    {
+      "id": "5019919",
+      "time": "2026-08-01 04:26:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國醫療保險和醫療補助服務中心（CMS）：擴大版關節置換綜合護理模式（CJR-X）自2028年1月1日起強制實施。"
+    },
+    {
+      "id": "mkt:019fb9db-445b-7aab-8f3d-b097103160cb",
+      "time": "2026-08-01 04:26:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hamas leader says consensus with mediators is to store, not transfer, weapons."
+    },
+    {
+      "id": "5019918",
+      "time": "2026-08-01 04:26:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾華宣佈Pluvicto獲FDA批准用於PSMA陽性轉移性激素敏感性前列腺癌，有望推動轉移性前列腺癌治療新標準。"
+    },
+    {
+      "id": "mkt:019fb9da-eb83-7aab-8f3d-a87de0d699de",
+      "time": "2026-08-01 04:25:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hamas leader said Israel has disregarded US mediators in recent months; if Israel does not comply with the plan's terms, Hamas will not fulfill its obligations."
+    },
+    {
+      "id": "5019917",
+      "time": "2026-08-01 04:25:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局批准PLUVICTO用於治療PSMA陽性轉移性激素敏感性前列腺癌，有望推動該藥物成為轉移性前列腺癌治療的新標準方案。"
+    },
+    {
+      "id": "mkt:019fb9da-634b-7aab-8f3d-a4fd48efa51f",
+      "time": "2026-08-01 04:25:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Hamas leader said the Gaza peace agreement is a comprehensive package; mediators have expressed positive signals, but past experience shows Israel has breached agreements."
+    },
+    {
+      "id": "5019916",
+      "time": "2026-08-01 04:24:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元上漲0.9%，觸及盤中高點158.03。"
+    },
     {
       "id": "5019915",
       "time": "2026-08-01 04:24:36",
@@ -165985,25 +166057,6 @@
         "Importance 1"
       ],
       "text": "TSX Rises as Bond Yields Ease — The S&P/TSX Composite Index rose 0.5% to close at 35,369 on Friday, supported by gains in financial, mining, and technology stocks. The pause in the oil rally eased energy-driven inflation concerns, pushing bond yields lower and supporting financials and the broader market. TD Bank gained 0.7%, while BMO and Scotiabank each added 0.7%, CIBC rose 0.9%, and Brookfield advanced 1.2%. Gold prices edged higher, lifting miners, with Agnico Eagle up 0.7% and WPM gaining 1.5%. In technology, Shopify climbed 1.6% and Constellation Software rose 4%, while Celestica tumbled 8.7%, tracking a selloff in US chipmakers. Energy stocks declined as oil prices pulled back from recent highs, with Canadian Natural down 1.1% and Suncor losing 0.7%. Cenovus fell 1.4% ahead of the release of its earnings report due July 29th."
-    },
-    {
-      "id": "5007578",
-      "time": "2026-07-25 04:28:06",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【馬斯克的艱難一週：特斯拉遭遇2022年以來最大跌幅，星艦試飛前夕SpaceX股價下挫】本週，特斯拉和SpaceX股價雙雙下跌，馬斯克的汽車公司股價累計下挫18%——遭遇2022年以來最嚴重的單週暴跌。在計劃於週五進行巨型星艦V3（Starship V3）火箭試飛前夕，SpaceX本週下跌約7%，報115.07美元，創該公司上月美國IPO以來最低收盤價。隨著兩隻股票的下滑，馬斯克的個人財富蒸發了約1300億美元，距離他成為世界上首位萬億富翁僅過去了幾周時間。馬斯克週五在X平臺上發帖寫道：“（前）萬億富翁。”"
-    },
-    {
-      "id": "mkt:019f95ce-cac3-7aab-8e90-62ad9dad6124",
-      "time": "2026-07-25 04:26:25",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Houthi-affiliated Almasirah TV said Saudi air strikes hit Kamaran Island in Yemen."
     }
   ]
 }
