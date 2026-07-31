@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-01 06:37:34_
-_本檔包含 3675 則快訊，約 672259 字_
+_更新時間：2026-08-01 07:36:07_
+_本檔包含 3646 則快訊，約 672878 字_
+
+---
+
+### 2026-07-31 02:58:52  #其他
+
+安聯將支付至少 14 億歐元對價，以現金收購 PIMCO 流通在外的 M 份額。
+
+---
+
+### 2026-07-31 02:58:44  #市場
+
+【芝加哥玉米期貨跌約0.7%】週四（7月30日）紐約尾盤，彭博穀物分類指數跌0.16%，報31.5723點，整體衝高回落、北京時間18:02重新整理日高至32.1357點。CBOT玉米期貨跌0.69%，CBOT小麥期貨漲0.42%。CBOT大豆期貨跌0.36%，報11.8850美元/蒲式耳，豆粕期貨跌0.25%，豆油期貨跌0.47%。ICE阿拉比卡咖啡期貨跌0.40%，咖啡“C”期貨漲0.19%。羅布斯塔咖啡期貨漲0.13%。紐約可可期貨跌1.29%，報5118美元/噸。倫敦可可期貨跌2.35%。
+
+---
+
+### 2026-07-31 02:58:27  #其他
+
+安聯啟動權利，終止 PIMCO 員工股權計劃。
+
+---
+
+### 2026-07-31 02:57:30  #MKT News #Important #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Meta Platforms #META.O #Impact mixed
+
+Meta Platforms (META.O) said it has committed nearly $700 bln in future spending under long- and short-term agreements for AI data centers, cloud computing and related infrastructure.
+
+---
+
+### 2026-07-31 02:57:23  #央行 #其他
+
+前聖路易斯聯儲主席詹姆斯・布拉德談及 7 月 FOMC 會議：“在央行官員看來，市場拋售、30 年期美債收益率上行著實令人擔憂。”布拉德評價沃什：“沃什本應當採取更多舉措，為 9 月議息會議預留政策選擇空間，但他在這方面做得遠遠不夠。”
+
+---
+
+### 2026-07-31 02:55:38  #其他
+
+巴西港口部長稱桑托斯港T-CON 10碼頭招標或於年內啟動，拍賣預計僅會在2027年進行。
+
+---
+
+### 2026-07-31 02:55:30  #公司
+
+標普：陶氏化學公司展望由負面調整為穩定，原因是盈利改善；評級維持不變。
+
+---
+
+### 2026-07-31 02:54:16  #其他
+
+有目擊者在休達看到西班牙軍用車輛正向摩洛哥邊境行進。
+
+---
+
+### 2026-07-31 02:52:53  #公司 #國際
+
+衣索比亞航空集團預計今年其收入增長速度將減半，這是由於伊朗戰爭引發的油價飆升。
+
+---
+
+### 2026-07-31 02:52:30  #公司
+
+【Meta報告稱未來支出承諾接近7000億美元】Meta表示，已透過長期和短期協議，承諾了近7000億美元的未來支出，涉及人工智慧資料中心、雲端計算等領域。Meta在週四的一份監管申報檔案中表示，公司擁有3493億美元的不可撤銷合同承諾，主要涉及第三方雲服務協議、伺服器和網路基礎設施。該公司還有3470億美元尚未開始的租賃承諾，尚未反映在資產負債表中。其中僅7月份就新增了680億美元，付款將從2027年和2028年開始。這些成本是在現有活躍租賃之外的，涵蓋資料中心、託管設施及“部分網路基礎設施”。
+
+---
+
+### 2026-07-31 02:50:35  #MKT News #Market Regions #Europe & UK #FTSE100
+
+【FCA to begin daily UK equity trading data releases from Friday】People familiar with the matter said the UK Financial Conduct Authority will start publishing daily aggregate UK equity trading data from Friday to boost market transparency. The FCA will provide a one‑year historical backfill; the daily updates are a transitional measure ahead of a full consolidated tape (single source of UK equity trade data). The regulator will publish the data stream’s coverage on Friday, which is expected to include pre‑ and post‑trade data.
+
+---
+
+### 2026-07-31 02:50:30  #公司
+
+市場訊息：英特爾向一家新興初創企業開放部分處理器技術授權。註冊檔案顯示，這家名為 RosaicLabs的企業於 5 月提交首次註冊資料。英特爾執行長陳立武與該初創企業負責人是長期聯合投資人。
+
+---
+
+### 2026-07-31 02:48:41  #國際
+
+伊朗外交部發言人：每一次爆炸，每一次罪行，每一次制裁，每一次威脅，每一次殺害兒童，都會讓伊朗人在捍衛祖國時更加堅定和團結。
+
+---
+
+### 2026-07-31 02:47:50  #MKT News
+
+Suncor Energy's Sarnia refinery in Ontario will conduct maintenance over the next few days and will temporarily use its flare system, a local community alert said.
+
+---
+
+### 2026-07-31 02:47:40  #國際
+
+巴勒斯坦訊息人士：敵方部隊在被佔領的耶路撒冷以北哈茲馬鎮的入口處設立檢查站。
+
+---
+
+### 2026-07-31 02:45:31  #國際
+
+據知情人士透露，美國頁岩行業先驅哈羅德・哈姆計劃擴大在阿根廷瓦卡穆埃爾塔頁岩盆地的佈局，該盆地是全球頁岩油氣開發增速最快的區域。
+
+---
+
+### 2026-07-31 02:44:12  #MKT News
+
+Qatar's foreign ministry said it condemns Iran's renewed attacks on Jordanian and Kuwaiti territory, calling them violations of the two countries' sovereignty.
+
+---
+
+### 2026-07-31 02:38:11  #國際
+
+【白宮稱哈馬斯或數日內同意解除武裝協議】據報道，協議被視為落實特朗普“20點和平計劃”的關鍵一步。核心內容包括：哈馬斯解除輕重武器、移交地道網路和武器設施資訊，並在6至8個月內完成去軍事化；隨後由新的“加沙管理國家委員會”接管治理，統一政府、法律和安全體系。訊息人士稱，美方、埃及、卡達和土耳其近幾個月持續向哈馬斯施壓，試圖切斷其資金來源，並利用其經濟困境推動其接受協議。談判目前在埃及阿拉曼舉行，並進入最後階段，但哈馬斯尚未正式批准。據悉，埃及情報總局局長哈桑·拉沙德在談判中發揮關鍵作用，並與哈馬斯新領導人哈利勒·哈亞保持聯絡。與此同時，伊朗方面則敦促哈馬斯不要急於簽署協議，爭取更多時間。根據協議草案，哈馬斯成員可獲得特赦並留在加沙；武裝人員上繳武器可獲得補償；以色列將在協議落實後逐步撤軍，並停止針對哈馬斯人員的定點清除行動。不過，以色列方面仍對哈馬斯是否真正願意解除武裝持懷疑態度，認為其可能只是緩解壓力的策略。特朗普政府則認為，如果協議最終達成，將為結束加沙戰爭、啟動重建程序邁出重要一步。
+
+---
+
+### 2026-07-31 02:37:35  #MKT News
+
+India reappointed K. Rajaraman as chairman of the International Financial Services Centres Authority (IFSCA), with a term running until he turns 65, per a government order.
+
+---
+
+### 2026-07-31 02:37:30  #國際
+
+【IMF總裁：石油衝擊或將引發衰退的風險仍持續存在】國際貨幣基金組織總裁克里斯塔利娜・格奧爾基耶娃在烏拉圭蒙得維的亞一場活動上表示，儘管霍爾木茲海峽若迅速恢復通航，衝突帶來的影響將相對有限，但中東石油衝擊仍有可能令全球經濟陷入衰退，該風險尚未消除。格奧爾基耶娃稱，IMF 正密切關注通脹走勢，通脹會影響利率水平並加劇公共財政壓力。格奧爾基耶娃指出，在全球多邊協議推進受阻的背景下，小型開放經濟體之間應當尋求達成貿易協定。“我十分支援發掘區域及跨區域貿易合作機遇。” 格奧爾基耶娃表示。她稱：“想要達成並落實一份全球性協議難度很大。”格奧爾基耶娃認為，當前貿易保護主義態勢將會長期持續。
+
+---
+
+### 2026-07-31 02:36:48  #公司
+
+通用電氣維諾娃公司（GE Vernova Inc.）預計將在賓夕法尼亞州西部投資1.66億美元，並在賓州全境創造逾700個高技能製造業新崗位。
+
+---
+
+### 2026-07-31 02:36:31  #MKT News
+
+【White House says Hamas could agree to disarmament accord within days】Axios, citing four people familiar with the matter, reports a draft accord viewed as key to implementing Trump’s 20-point peace plan and that the White House says Hamas could agree within days. Core terms would require Hamas to surrender light and heavy weapons, hand over tunnel networks and weapons-facility intelligence, and complete demilitarization within 6–8 months. A new Gaza National Administration Committee would assume governance and unify government, legal and security systems. The US, Egypt, Qatar and Turkey have pressured Hamas in recent months, including efforts to cut funding and exploit economic strain to force acceptance. Talks are reportedly in their final stage in Egypt’s El Alamein, but Hamas has not formally approved. Egyptian intelligence chief Hassan Rashad is said to be playing a key role and liaising with new Hamas leader Khalil al-Hayya; Iran is urging Hamas to delay. Under the draft, Hamas members could receive amnesty and remain in Gaza; militants who surrender weapons could receive compensation; Israel would withdraw gradually after implementation and halt targeted strikes on Hamas personnel. Israel remains skeptical Hamas will fully disarm. The Trump administration says a finalized accord would be a major step toward ending the Gaza war and launching reconstruction.
+
+---
+
+### 2026-07-31 02:36:18  #國際
+
+印度政府令：K·拉賈拉曼再次被任命為國際金融服務中心管理局主席，任期至65歲。
+
+---
+
+### 2026-07-31 02:36:11  #其他
+
+通用電氣維諾華：本次擴張屬於現有1.38億美元投資專案的一部分，預計到2028年將創造275個就業崗位，計劃在2030年之前追加招聘。
+
+---
+
+### 2026-07-31 02:34:46  #國際
+
+通用電氣維諾華擴建賓夕法尼亞州製造基地，以強化美國電網供應鏈。
+
+---
+
+### 2026-07-31 02:31:26  #MKT News
+
+According to Axios, citing four people familiar with the matter, the White House and President Trump's peace committee believe Hamas could sign within days an agreement to gradually disarm and demilitarize the Gaza Strip.
+
+---
+
+### 2026-07-31 02:31:21  #MKT News #XAUUSD #Impact bullish #WTI #Impact bearish
+
+【Night session main contracts close】At the 02:30 close of the Shanghai futures night session, the main gold contract rose 1.20% to 895 yuan/gram, the main silver contract rose 1.82% to 14,402 yuan/kilogram, and the SC crude main contract fell 1.39% to 553 yuan/barrel.
+
+---
+
+### 2026-07-31 02:31:11  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange: Gold T+D closed up 0.96% at 891.03 yuan/gram in the July 30 evening session; Silver T+D closed up 1.6% at 14,330 yuan/kg.
+
+---
+
+### 2026-07-31 02:31:07  #MKT News
+
+Jordan's foreign ministry said Jordan's foreign minister held a call with his UAE counterpart to discuss regional developments and de-escalation efforts. Both condemned Iran's attacks on Jordan; the UAE reiterated support for Jordan's security and stability.
+
+---
+
+### 2026-07-31 02:31:03  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Israeli media: US Wednesday strikes 'only the tip of the iceberg'; bigger retaliation likely】i24News reported that after a six-day pause US forces struck dozens of IRGC targets overnight in retaliation for a missile strike on US troops in Jordan, attacks by Iran-backed militias and continued threats from Tehran. Sources said Washington is preparing a major counterstrike described as 'far beyond anything we've seen'; one source called last night's strikes 'only the tip of the iceberg' and warned follow-up operations could be more severe. Israel has kept a low profile and is letting the US lead. An Israeli diplomatic source who attended a summit with Trump said discussions covered possible diplomatic deals and continued pressure, and that Israel judges a significant military operation—potentially imminent—may be necessary to effect fundamental change on the ground.
 
 ---
 
@@ -21777,359 +21957,5 @@ Meta Platforms (META.O) narrowed its 2026 capital expenditure outlook to $130–
 ### 2026-07-30 04:11:44  #Trading Economics #Markets #United States #Earnings #Importance 0
 
 Lam Research earnings above expectations at 1.82 USD — Lam Research (LRCX) released earnings per share at 1.82 USD, compared to market expectations of 1.68 USD.
-
----
-
-### 2026-07-30 04:10:54  #其他 #焦點
-
-微軟第二季度每股收益4.81美元，調整後每股收益4.74美元，高於預期4.25美元；營收900.1億美元，超出預期877.2億美元；營業利潤406.0億美元，高於預期390.2億美元。
-
----
-
-### 2026-07-30 04:10:45  #其他
-
-星巴克：預計全年調整後運營利潤率超過11％，預估10.9％。
-
----
-
-### 2026-07-30 04:10:40  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bearish
-
-Microsoft (MSFT.O) reported Q4 free cash flow of $19.6 billion, down 23%.
-
----
-
-### 2026-07-30 04:09:22  #MKT News #Important #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) said Azure and other cloud services revenue rose 43% YoY in its fourth fiscal quarter, excluding currency effects, beating estimates.
-
----
-
-### 2026-07-30 04:09:21  #其他
-
-【Meta第二季度營業利潤下滑8.2%】Meta第二季度營業利潤187.8億美元，同比下滑8.2%；廣告營收593.6億美元，應用家族總營收603.7億美元，兩項均超出預期；但應用家族業務營業利潤233.9億美元，低於市場預期261.1億美元；現實實驗室營收4.31億美元好於預期，虧損擴大至46.2億美元，市場預期虧損44.5億美元。
-
----
-
-### 2026-07-30 04:08:57  #其他
-
-【Meta上調全年費用指引 】Meta上調全年費用指引至1650億–1690億美元，資本開支指引上調至1300億–1450億美元，兩項指引區間下限均抬升；二季度包含5月裁員產生的11.8億美元遣散費；業績展望計入24億美元法律相關支出；6月日均活躍使用者均值36億。
-
----
-
-### 2026-07-30 04:07:57  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #QCOM.O #Impact bullish
-
-Qualcomm (QCOM.O) expects the YoY increase in fiscal 2027 non-handset revenue to exceed Apple’s total product revenue in fiscal 2026.
-
----
-
-### 2026-07-30 04:07:43  #MKT News #QCOM.O #Impact bearish
-
-Qualcomm (QCOM.O) said fiscal 2026's unprecedented memory-price increases and supply shortages posed cyclical headwinds for the global smartphone industry.
-
----
-
-### 2026-07-30 04:07:42  #公司 #市場
-
-星巴克股價盤後上漲6.6%，此前該公司公佈的第二季度同店銷售額超出預期。
-
----
-
-### 2026-07-30 04:07:17  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7
-
-Meta Platforms (META.O) second-quarter free cash flow was $784 million.
-
----
-
-### 2026-07-30 04:06:56  #公司
-
-Meta股價大跌9%，因公司給出的第三季度營收指引區間中值低於市場預期。
-
----
-
-### 2026-07-30 04:06:53  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
-
-Qualcomm (QCOM.O) expects near-term revenue growth for its non-phone businesses, including data center, to accelerate from 24% in fiscal 2026 to above 60% in fiscal 2027.
-
----
-
-### 2026-07-30 04:06:51  #Trading Economics #Markets #United Kingdom #Earnings #Importance 0
-
-ARM Holdings earnings above expectations at 0.45 USD — ARM Holdings (ARM) released earnings per share at 0.45 USD, compared to market expectations of 0.37 USD.
-
----
-
-### 2026-07-30 04:06:51  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Meta earnings below expectations at 6.18 USD — Meta (FB) released earnings per share at 6.18 USD, compared to market expectations of 7.18 USD.
-
----
-
-### 2026-07-30 04:06:49  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Microsoft earnings above expectations at 4.74 USD — Microsoft (MSFT) released earnings per share at 4.74 USD, compared to market expectations of 4.24 USD.
-
----
-
-### 2026-07-30 04:06:44  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) reported Intelligent Cloud revenue of $39.3 billion in the fiscal fourth quarter, up 32% YoY.
-
----
-
-### 2026-07-30 04:06:42  #其他
-
-星巴克：預計2026財年全年合併淨營收將與去年持平，或實現小幅增長。
-
----
-
-### 2026-07-30 04:06:25  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #QCOM.O #Impact bearish
-
-Qualcomm (QCOM.O) expects revenue from Apple-related products to decline at an accelerated pace starting in Q4.
-
----
-
-### 2026-07-30 04:06:07  #其他
-
-星巴克：第二季度淨營收93億美元，預估91.6億美元。
-
----
-
-### 2026-07-30 04:06:07  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish #Nasdaq100
-
-Microsoft (MSFT.O): Azure revenue surpassed $100 billion for the first time.
-
----
-
-### 2026-07-30 04:05:55  #其他
-
-星巴克第二季度同店銷售額增長7.9%，高於預期增長5.73%。
-
----
-
-### 2026-07-30 04:05:39  #其他
-
-微軟：第二季度資本支出358.0億美元，預估352.2億美元。
-
----
-
-### 2026-07-30 04:05:11  #MKT News #Dow #Impact bearish #S&P500 #Nasdaq100
-
-U.S. stocks fell on Wednesday, July 29: Dow Jones Industrial Average closed down 1,152.46 points (-2.18%) at 51,594.86; S&P 500 closed down 112.40 points (-1.51%) at 7,316.38; Nasdaq Composite closed down 433.97 points (-1.74%) at 24,442.94.
-
----
-
-### 2026-07-30 04:05:11  #MKT News #ARM.O #Impact bullish
-
-Arm (ARM.O) reported fiscal 2027 Q1 revenue of $1.29 bln, up from $1.053 bln a year earlier and above the $1.262 bln consensus.
-
----
-
-### 2026-07-30 04:05:09  #市場
-
-【美元指數29日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.52%，在匯市尾市收於100.886。截至紐約匯市尾市，1歐元兌換1.1452美元，高於前一交易日的1.1387美元；1英鎊兌換1.3364美元，高於前一交易日的1.3289美元。1美元兌換163.32日元，低於前一交易日的163.86日元；1美元兌換0.8149瑞士法郎，低於前一交易日的0.8190瑞士法郎；1美元兌換1.4040加元，低於前一交易日的1.4105加元；1美元兌換9.6434瑞典克朗，低於前一交易日的9.6954瑞典克朗。
-
----
-
-### 2026-07-30 04:04:46  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-Meta Platforms (META.O) guided third-quarter revenue to $61–64 billion; analysts had expected $63.17 billion.
-
----
-
-### 2026-07-30 04:04:45  #其他
-
-ARM：第二季度營收預期區間13.3億–14.3億美元，市場預期13.5億美元。
-
----
-
-### 2026-07-30 04:04:32  #市場
-
-高通股價盤後下跌5%，此前其盈利預期不及預期。
-
----
-
-### 2026-07-30 04:04:19  #其他
-
-微軟：Microsoft 365 Copilot付費席位已突破3000萬。
-
----
-
-### 2026-07-30 04:04:01  #MKT News #Important #Star Stocks #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) reported cloud revenue of $59.3 billion in the fiscal fourth quarter.
-
----
-
-### 2026-07-30 04:03:49  #市場
-
-【國際油價29日大幅上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲5.20美元，收於每桶84.46美元，漲幅為6.56%；9月交貨的倫敦布倫特原油期貨價格上漲6.65美元，收於每桶90.74美元，漲幅為7.91%。
-
----
-
-### 2026-07-30 04:03:21  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
-
-Microsoft Corp (MSFT.O) reported fiscal fourth-quarter capital expenditures of $41.0 billion.
-
----
-
-### 2026-07-30 04:02:58  #公司 #市場
-
-Meta股價在公佈第二季度財報後下跌5.6%。
-
----
-
-### 2026-07-30 04:02:22  #市場
-
-微軟股價盤後上漲3%。
-
----
-
-### 2026-07-30 04:02:14  #公司
-
-微軟公司第二季度營收900.1億美元，預估877.2億美元。
-
----
-
-### 2026-07-30 04:02:10  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish #Nasdaq100 #S&P500
-
-Microsoft (MSFT.O) reported fiscal 2026 Q4 revenue $90.0 bln, vs $76.441 bln a year earlier; consensus $87.63 bln.
-
----
-
-### 2026-07-30 04:02:07  #市場
-
-納斯達克100指數較6月高點下跌11%，進入回撥。
-
----
-
-### 2026-07-30 04:01:56  #其他 #焦點
-
-Meta：第二季度營收608.0億美元，預估602.4億美元；第二季度經營利潤187.8億美元，同比-8.2%。
-
----
-
-### 2026-07-30 04:01:51  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bullish
-
-Meta Platforms (META.O) reported Q2 2026 revenue of $60.801 billion, up from $47.516 billion a year earlier; consensus $60.164 billion.
-
----
-
-### 2026-07-30 04:01:36  #MKT News #QCOM.O
-
-Qualcomm (QCOM.O) expects Q4 revenue of $9.7 bln to $10.5 bln, versus $10.02 bln consensus.
-
----
-
-### 2026-07-30 04:00:57  #MKT News #Important #QCOM.O #Impact bullish
-
-Qualcomm (QCOM.O) fiscal 2026 Q3 revenue $9.95 bln, down from $10.365 bln a year earlier; consensus $9.66 bln.
-
----
-
-### 2026-07-30 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收跌】道指跌2.18%，標普500指數跌1.51%，納指跌1.80%。雷諾士跌20.99%，VRT跌17.00%，馬斯科跌11.06%，科磊跌10.63%，超微電腦跌9.54%，美光跌9.45%。“七姐妹”方面：谷歌漲0.84%，蘋果跌0.66%，微軟跌0.78%，Meta Platforms跌1.40%，亞馬遜跌1.90%，特斯拉跌2.94%，英偉達跌3.47%。
-
----
-
-### 2026-07-30 04:00:42  #公司 #市場
-
-GE醫療集團股價收盤上漲12%，創下單日漲幅紀錄。
-
----
-
-### 2026-07-30 04:00:34  #國際
-
-美國晶片股指數遭遇自2025年4月以來最嚴重的五日暴跌。
-
----
-
-### 2026-07-30 04:00:21  #市場 #焦點
-
-費城半導體指數連續5天下跌，跌幅達16%。
-
----
-
-### 2026-07-30 04:00:13  #其他 #焦點
-
-高通預計第四季度營收為97億美元至105億美元，此前預期為99.5億美元。
-
----
-
-### 2026-07-30 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收漲1.69%】新東方漲15.18%，寶尊電商漲6.40%，高途漲6.21%，中進醫療漲5.47%，理想汽車漲4.47%。
-
----
-
-### 2026-07-30 03:59:52  #公司 #國際
-
-【馬斯克企業獲美太空軍16億美元合同】美國太空軍當地時間7月29日宣佈，美國太空探索技術公司（SpaceX）最新獲得一份價值16億美元的合同，將在2027年底前執行18次“獵鷹9”號火箭發射任務，搭載用於探測和追蹤空中目標的軍用衛星升空。
-
----
-
-### 2026-07-30 03:59:01  #市場
-
-納斯達克綜合指數較6月1日盤中歷史高點下跌10%，進入回撥區間。
-
----
-
-### 2026-07-30 03:58:26  #市場
-
-納斯達克100指數跌幅擴大至2%，標普500指數下跌1.5%。
-
----
-
-### 2026-07-30 03:57:06  #MKT News #Important #WTI #Impact bullish #Brent #DXY #Impact mixed
-
-Saudi Arabia is seeking to form an international coalition to protect Red Sea shipping from Houthi militant attacks, two people with knowledge said. The coalition's membership remains undecided as Riyadh holds talks with dozens of countries.
-
----
-
-### 2026-07-30 03:56:35  #其他
-
-知情人士透露，沙特提議的國際聯盟的具體構成尚未明確，目前仍在與數十個國家進行磋商。
-
----
-
-### 2026-07-30 03:56:24  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
-
-CNBC cited Gundlach saying the Fed could hike rates in September, particularly if the yield curve remains steep.
-
----
-
-### 2026-07-30 03:56:06  #公司 #央行 #焦點 #國際
-
-雙線資本CEO岡德拉克：美聯儲很可能在9月加息，尤其是如果收益率曲線繼續趨陡。
-
----
-
-### 2026-07-30 03:55:54  #其他
-
-知情人士表示，沙烏地阿拉伯正尋求組建國際聯盟，以保護紅海航運免受胡塞武裝襲擊。
-
----
-
-### 2026-07-30 03:54:25  #國際
-
-【聯合國：以色列持續佔領巴勒斯坦領土違反國際法】當地時間29日，聯合國人權事務高階專員辦事處發言人拉維娜·沙姆達薩尼表示，以色列持續佔領巴勒斯坦領土違反國際法。但目前以色列政府宣佈將進一步增加以色列定居點和前哨站的數量，以色列領導人公然呼籲對巴勒斯坦社群進行報復和集體懲罰，並威脅將約旦河西岸變成另一個加沙地帶，令人深感震驚。
-
----
-
-### 2026-07-30 03:53:47  #MKT News
-
-【Ukrainian Air Force F-16 crashes on frontline】On July 29 local time the Ukrainian Air Force said an F-16 crashed on the frontline after losing contact while on a mission to intercept an enemy aerial target. Initial reports said an abnormal situation occurred on board and the pilot was forced to eject. The pilot is reported in a safe condition, evacuated and taken to a medical facility for checks. Authorities have opened an investigation; no ground casualties or property damage were reported.
-
----
-
-### 2026-07-30 03:53:36  #公司 #市場
-
-聯合航空控股股價下跌3.4%，報119.44美元；此前該公司宣佈在華盛頓杜勒斯國際機場進行200億美元的資本投資。
-
----
-
-### 2026-07-30 03:52:20  #國際
-
-【烏克蘭空軍一架F-16戰機墜毀】當地時間7月29日，烏克蘭空軍通報稱，烏空軍一架F-16戰鬥機當天在前線墜毀。通報表示，該架戰機在執行攔截敵方空中目標的戰鬥任務時失聯。根據初步訊息，當時機上發生非正常情況，飛行員被迫彈射逃生。飛行員目前處於安全狀態，已被撤離並送往醫療機構進行檢查。同時，相關部門已開始調查事故原因。該事件沒有造成地面人員傷亡和財產損失。
 
 ---

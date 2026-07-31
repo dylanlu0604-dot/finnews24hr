@@ -1,7 +1,361 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-01 06:37:34_
-_本檔包含 3834 則快訊，約 673074 字_
+_更新時間：2026-08-01 07:36:07_
+_本檔包含 3863 則快訊，約 672957 字_
+
+---
+
+### 2026-07-30 04:10:54  #其他 #焦點
+
+微軟第二季度每股收益4.81美元，調整後每股收益4.74美元，高於預期4.25美元；營收900.1億美元，超出預期877.2億美元；營業利潤406.0億美元，高於預期390.2億美元。
+
+---
+
+### 2026-07-30 04:10:45  #其他
+
+星巴克：預計全年調整後運營利潤率超過11％，預估10.9％。
+
+---
+
+### 2026-07-30 04:10:40  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bearish
+
+Microsoft (MSFT.O) reported Q4 free cash flow of $19.6 billion, down 23%.
+
+---
+
+### 2026-07-30 04:09:22  #MKT News #Important #MSFT.O #Impact bullish
+
+Microsoft (MSFT.O) said Azure and other cloud services revenue rose 43% YoY in its fourth fiscal quarter, excluding currency effects, beating estimates.
+
+---
+
+### 2026-07-30 04:09:21  #其他
+
+【Meta第二季度營業利潤下滑8.2%】Meta第二季度營業利潤187.8億美元，同比下滑8.2%；廣告營收593.6億美元，應用家族總營收603.7億美元，兩項均超出預期；但應用家族業務營業利潤233.9億美元，低於市場預期261.1億美元；現實實驗室營收4.31億美元好於預期，虧損擴大至46.2億美元，市場預期虧損44.5億美元。
+
+---
+
+### 2026-07-30 04:08:57  #其他
+
+【Meta上調全年費用指引 】Meta上調全年費用指引至1650億–1690億美元，資本開支指引上調至1300億–1450億美元，兩項指引區間下限均抬升；二季度包含5月裁員產生的11.8億美元遣散費；業績展望計入24億美元法律相關支出；6月日均活躍使用者均值36億。
+
+---
+
+### 2026-07-30 04:07:57  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) expects the YoY increase in fiscal 2027 non-handset revenue to exceed Apple’s total product revenue in fiscal 2026.
+
+---
+
+### 2026-07-30 04:07:43  #MKT News #QCOM.O #Impact bearish
+
+Qualcomm (QCOM.O) said fiscal 2026's unprecedented memory-price increases and supply shortages posed cyclical headwinds for the global smartphone industry.
+
+---
+
+### 2026-07-30 04:07:42  #公司 #市場
+
+星巴克股價盤後上漲6.6%，此前該公司公佈的第二季度同店銷售額超出預期。
+
+---
+
+### 2026-07-30 04:07:17  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7
+
+Meta Platforms (META.O) second-quarter free cash flow was $784 million.
+
+---
+
+### 2026-07-30 04:06:56  #公司
+
+Meta股價大跌9%，因公司給出的第三季度營收指引區間中值低於市場預期。
+
+---
+
+### 2026-07-30 04:06:53  #MKT News #Market Themes #Chip Wars #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) expects near-term revenue growth for its non-phone businesses, including data center, to accelerate from 24% in fiscal 2026 to above 60% in fiscal 2027.
+
+---
+
+### 2026-07-30 04:06:51  #Trading Economics #Markets #United Kingdom #Earnings #Importance 0
+
+ARM Holdings earnings above expectations at 0.45 USD — ARM Holdings (ARM) released earnings per share at 0.45 USD, compared to market expectations of 0.37 USD.
+
+---
+
+### 2026-07-30 04:06:51  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Meta earnings below expectations at 6.18 USD — Meta (FB) released earnings per share at 6.18 USD, compared to market expectations of 7.18 USD.
+
+---
+
+### 2026-07-30 04:06:49  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Microsoft earnings above expectations at 4.74 USD — Microsoft (MSFT) released earnings per share at 4.74 USD, compared to market expectations of 4.24 USD.
+
+---
+
+### 2026-07-30 04:06:44  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
+
+Microsoft (MSFT.O) reported Intelligent Cloud revenue of $39.3 billion in the fiscal fourth quarter, up 32% YoY.
+
+---
+
+### 2026-07-30 04:06:42  #其他
+
+星巴克：預計2026財年全年合併淨營收將與去年持平，或實現小幅增長。
+
+---
+
+### 2026-07-30 04:06:25  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #QCOM.O #Impact bearish
+
+Qualcomm (QCOM.O) expects revenue from Apple-related products to decline at an accelerated pace starting in Q4.
+
+---
+
+### 2026-07-30 04:06:07  #其他
+
+星巴克：第二季度淨營收93億美元，預估91.6億美元。
+
+---
+
+### 2026-07-30 04:06:07  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish #Nasdaq100
+
+Microsoft (MSFT.O): Azure revenue surpassed $100 billion for the first time.
+
+---
+
+### 2026-07-30 04:05:55  #其他
+
+星巴克第二季度同店銷售額增長7.9%，高於預期增長5.73%。
+
+---
+
+### 2026-07-30 04:05:39  #其他
+
+微軟：第二季度資本支出358.0億美元，預估352.2億美元。
+
+---
+
+### 2026-07-30 04:05:11  #MKT News #Dow #Impact bearish #S&P500 #Nasdaq100
+
+U.S. stocks fell on Wednesday, July 29: Dow Jones Industrial Average closed down 1,152.46 points (-2.18%) at 51,594.86; S&P 500 closed down 112.40 points (-1.51%) at 7,316.38; Nasdaq Composite closed down 433.97 points (-1.74%) at 24,442.94.
+
+---
+
+### 2026-07-30 04:05:11  #MKT News #ARM.O #Impact bullish
+
+Arm (ARM.O) reported fiscal 2027 Q1 revenue of $1.29 bln, up from $1.053 bln a year earlier and above the $1.262 bln consensus.
+
+---
+
+### 2026-07-30 04:05:09  #市場
+
+【美元指數29日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.52%，在匯市尾市收於100.886。截至紐約匯市尾市，1歐元兌換1.1452美元，高於前一交易日的1.1387美元；1英鎊兌換1.3364美元，高於前一交易日的1.3289美元。1美元兌換163.32日元，低於前一交易日的163.86日元；1美元兌換0.8149瑞士法郎，低於前一交易日的0.8190瑞士法郎；1美元兌換1.4040加元，低於前一交易日的1.4105加元；1美元兌換9.6434瑞典克朗，低於前一交易日的9.6954瑞典克朗。
+
+---
+
+### 2026-07-30 04:04:46  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
+
+Meta Platforms (META.O) guided third-quarter revenue to $61–64 billion; analysts had expected $63.17 billion.
+
+---
+
+### 2026-07-30 04:04:45  #其他
+
+ARM：第二季度營收預期區間13.3億–14.3億美元，市場預期13.5億美元。
+
+---
+
+### 2026-07-30 04:04:32  #市場
+
+高通股價盤後下跌5%，此前其盈利預期不及預期。
+
+---
+
+### 2026-07-30 04:04:19  #其他
+
+微軟：Microsoft 365 Copilot付費席位已突破3000萬。
+
+---
+
+### 2026-07-30 04:04:01  #MKT News #Important #Star Stocks #MSFT.O #Impact bullish
+
+Microsoft (MSFT.O) reported cloud revenue of $59.3 billion in the fiscal fourth quarter.
+
+---
+
+### 2026-07-30 04:03:49  #市場
+
+【國際油價29日大幅上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲5.20美元，收於每桶84.46美元，漲幅為6.56%；9月交貨的倫敦布倫特原油期貨價格上漲6.65美元，收於每桶90.74美元，漲幅為7.91%。
+
+---
+
+### 2026-07-30 04:03:21  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
+
+Microsoft Corp (MSFT.O) reported fiscal fourth-quarter capital expenditures of $41.0 billion.
+
+---
+
+### 2026-07-30 04:02:58  #公司 #市場
+
+Meta股價在公佈第二季度財報後下跌5.6%。
+
+---
+
+### 2026-07-30 04:02:22  #市場
+
+微軟股價盤後上漲3%。
+
+---
+
+### 2026-07-30 04:02:14  #公司
+
+微軟公司第二季度營收900.1億美元，預估877.2億美元。
+
+---
+
+### 2026-07-30 04:02:10  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish #Nasdaq100 #S&P500
+
+Microsoft (MSFT.O) reported fiscal 2026 Q4 revenue $90.0 bln, vs $76.441 bln a year earlier; consensus $87.63 bln.
+
+---
+
+### 2026-07-30 04:02:07  #市場
+
+納斯達克100指數較6月高點下跌11%，進入回撥。
+
+---
+
+### 2026-07-30 04:01:56  #其他 #焦點
+
+Meta：第二季度營收608.0億美元，預估602.4億美元；第二季度經營利潤187.8億美元，同比-8.2%。
+
+---
+
+### 2026-07-30 04:01:51  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bullish
+
+Meta Platforms (META.O) reported Q2 2026 revenue of $60.801 billion, up from $47.516 billion a year earlier; consensus $60.164 billion.
+
+---
+
+### 2026-07-30 04:01:36  #MKT News #QCOM.O
+
+Qualcomm (QCOM.O) expects Q4 revenue of $9.7 bln to $10.5 bln, versus $10.02 bln consensus.
+
+---
+
+### 2026-07-30 04:00:57  #MKT News #Important #QCOM.O #Impact bullish
+
+Qualcomm (QCOM.O) fiscal 2026 Q3 revenue $9.95 bln, down from $10.365 bln a year earlier; consensus $9.66 bln.
+
+---
+
+### 2026-07-30 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收跌】道指跌2.18%，標普500指數跌1.51%，納指跌1.80%。雷諾士跌20.99%，VRT跌17.00%，馬斯科跌11.06%，科磊跌10.63%，超微電腦跌9.54%，美光跌9.45%。“七姐妹”方面：谷歌漲0.84%，蘋果跌0.66%，微軟跌0.78%，Meta Platforms跌1.40%，亞馬遜跌1.90%，特斯拉跌2.94%，英偉達跌3.47%。
+
+---
+
+### 2026-07-30 04:00:42  #公司 #市場
+
+GE醫療集團股價收盤上漲12%，創下單日漲幅紀錄。
+
+---
+
+### 2026-07-30 04:00:34  #國際
+
+美國晶片股指數遭遇自2025年4月以來最嚴重的五日暴跌。
+
+---
+
+### 2026-07-30 04:00:21  #市場 #焦點
+
+費城半導體指數連續5天下跌，跌幅達16%。
+
+---
+
+### 2026-07-30 04:00:13  #其他 #焦點
+
+高通預計第四季度營收為97億美元至105億美元，此前預期為99.5億美元。
+
+---
+
+### 2026-07-30 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收漲1.69%】新東方漲15.18%，寶尊電商漲6.40%，高途漲6.21%，中進醫療漲5.47%，理想汽車漲4.47%。
+
+---
+
+### 2026-07-30 03:59:52  #公司 #國際
+
+【馬斯克企業獲美太空軍16億美元合同】美國太空軍當地時間7月29日宣佈，美國太空探索技術公司（SpaceX）最新獲得一份價值16億美元的合同，將在2027年底前執行18次“獵鷹9”號火箭發射任務，搭載用於探測和追蹤空中目標的軍用衛星升空。
+
+---
+
+### 2026-07-30 03:59:01  #市場
+
+納斯達克綜合指數較6月1日盤中歷史高點下跌10%，進入回撥區間。
+
+---
+
+### 2026-07-30 03:58:26  #市場
+
+納斯達克100指數跌幅擴大至2%，標普500指數下跌1.5%。
+
+---
+
+### 2026-07-30 03:57:06  #MKT News #Important #WTI #Impact bullish #Brent #DXY #Impact mixed
+
+Saudi Arabia is seeking to form an international coalition to protect Red Sea shipping from Houthi militant attacks, two people with knowledge said. The coalition's membership remains undecided as Riyadh holds talks with dozens of countries.
+
+---
+
+### 2026-07-30 03:56:35  #其他
+
+知情人士透露，沙特提議的國際聯盟的具體構成尚未明確，目前仍在與數十個國家進行磋商。
+
+---
+
+### 2026-07-30 03:56:24  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
+
+CNBC cited Gundlach saying the Fed could hike rates in September, particularly if the yield curve remains steep.
+
+---
+
+### 2026-07-30 03:56:06  #公司 #央行 #焦點 #國際
+
+雙線資本CEO岡德拉克：美聯儲很可能在9月加息，尤其是如果收益率曲線繼續趨陡。
+
+---
+
+### 2026-07-30 03:55:54  #其他
+
+知情人士表示，沙烏地阿拉伯正尋求組建國際聯盟，以保護紅海航運免受胡塞武裝襲擊。
+
+---
+
+### 2026-07-30 03:54:25  #國際
+
+【聯合國：以色列持續佔領巴勒斯坦領土違反國際法】當地時間29日，聯合國人權事務高階專員辦事處發言人拉維娜·沙姆達薩尼表示，以色列持續佔領巴勒斯坦領土違反國際法。但目前以色列政府宣佈將進一步增加以色列定居點和前哨站的數量，以色列領導人公然呼籲對巴勒斯坦社群進行報復和集體懲罰，並威脅將約旦河西岸變成另一個加沙地帶，令人深感震驚。
+
+---
+
+### 2026-07-30 03:53:47  #MKT News
+
+【Ukrainian Air Force F-16 crashes on frontline】On July 29 local time the Ukrainian Air Force said an F-16 crashed on the frontline after losing contact while on a mission to intercept an enemy aerial target. Initial reports said an abnormal situation occurred on board and the pilot was forced to eject. The pilot is reported in a safe condition, evacuated and taken to a medical facility for checks. Authorities have opened an investigation; no ground casualties or property damage were reported.
+
+---
+
+### 2026-07-30 03:53:36  #公司 #市場
+
+聯合航空控股股價下跌3.4%，報119.44美元；此前該公司宣佈在華盛頓杜勒斯國際機場進行200億美元的資本投資。
+
+---
+
+### 2026-07-30 03:52:20  #國際
+
+【烏克蘭空軍一架F-16戰機墜毀】當地時間7月29日，烏克蘭空軍通報稱，烏空軍一架F-16戰鬥機當天在前線墜毀。通報表示，該架戰機在執行攔截敵方空中目標的戰鬥任務時失聯。根據初步訊息，當時機上發生非正常情況，飛行員被迫彈射逃生。飛行員目前處於安全狀態，已被撤離並送往醫療機構進行檢查。同時，相關部門已開始調查事故原因。該事件沒有造成地面人員傷亡和財產損失。
 
 ---
 
@@ -22929,192 +23283,5 @@ U.S. President Trump will meet Israeli Prime Minister Netanyahu at 11:00 a.m. US
 ### 2026-07-28 22:51:17  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
 
 【Musk net worth nearly halved from highs but still above $700 bln】Since SpaceX's stock peaked in June, Musk has lost about $650 bln as Tesla and SpaceX shares continue to slide. Despite the decline his net worth remains above $700 bln. Investors are watching whether AI-driven growth can sustain high valuations.
-
----
-
-### 2026-07-28 22:51:07  #其他
-
-美銀全球研究將UBER目標股價從104美元下調至103美元。
-
----
-
-### 2026-07-28 22:50:45  #國際
-
-美國國防部訊息：查爾斯頓聯合基地將更名，以此紀念已故參議員林賽・格雷厄姆。
-
----
-
-### 2026-07-28 22:50:12  #MKT News #Market Regions #Japan & APAC
-
-【Kumamoto, Japan records over 100 felt aftershocks】The Japan Meteorological Agency said that following this afternoon’s quake on July 28, Kumamoto had experienced more than 100 felt aftershocks as of 23:30 local time.
-
----
-
-### 2026-07-28 22:49:38  #國際
-
-【日本熊本已發生上百次餘震】據日本氣象廳資料，在今天（7月28日）下午地震發生後，截至當地時間23:30，熊本當地已發生有感地震超過100次。（CCTV國際時訊）
-
----
-
-### 2026-07-28 22:48:52  #其他
-
-波音預計旗下國防、太空與安全業務板塊在 2029 年底利潤率回升至較高個位數區間。
-
----
-
-### 2026-07-28 22:48:22  #公司
-
-捷藍航空CEO：精神航空的清算為將運力從高成本機場重新部署至勞德代爾堡提供了絕佳機遇。
-
----
-
-### 2026-07-28 22:47:13  #公司 #市場
-
-【馬斯克身家大幅縮水，但仍超 7000 億美元】自太空探索技術公司股價 6 月創下高點以來，隨著特斯拉與 SpaceX 股價持續下跌，埃隆・馬斯克的財富蒸發約 6500 億美元。儘管財富大幅縮水，馬斯克個人淨資產依舊超過 7000 億美元。投資者仍在關注，人工智慧帶來的增長能否支撐當下高企的估值。
-
----
-
-### 2026-07-28 22:46:11  #其他
-
-波音首席財務官表示，通用電氣將於第三季度恢復 777X 機型配套發動機的交付工作。
-
----
-
-### 2026-07-28 22:45:48  #Trading Economics #Economy #United States #Dallas Fed Services Index #Importance 1
-
-Dallas Fed Business Activity Rises Most in 11 Months — The general business activity index for the service sector published by the Federal Reserve Bank of Dallas rose to 6.6 in July of 2026 from 2.9 in the previous month, marking the sharpest pace of growth in 11 months. The result was aligned with other similar surveys in the period as exports of energy in the Middle East were momentarily restored, lowering energy prices and operating costs to improve margin prospects in the sector. Revenue growth eased slightly (9.8 vs 9.5 in June), although hours worked rose faster (4.9 vs 3.6). Meanwhile, input prices slowed (33.5 vs 36.5) while selling charges rose sharply (14.2 vs 7.7). Looking ahead, the general business conditions for companies rose to 21 from 17.1.
-
----
-
-### 2026-07-28 22:45:42  #MKT News
-
-U.S. financial outlet Semafor reports Saudi Arabia is lobbying to host the G20 summit in 2030.
-
----
-
-### 2026-07-28 22:45:28  #其他
-
-波音今年計劃交付 90 至 100 架 787 客機。
-
----
-
-### 2026-07-28 22:45:15  #公司
-
-市場訊息：沙烏地阿拉伯正積極遊說，爭取主辦 2030 年二十國集團峰會。
-
----
-
-### 2026-07-28 22:44:18  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【KATZ says IDF to take over West Bank refugee camp】Israeli Defense Minister KATZ said on the 28th he has ordered the IDF to expand operations in the West Bank and prepare to take over a Palestinian refugee camp and forcibly evacuate residents. The statement did not identify the camp but said the takeover would mirror prior IDF actions in Jenin, Tulkarem and Nur Shams: forced evacuations, removal of armed infrastructure and long-term garrisoning by the military.
-
----
-
-### 2026-07-28 22:43:48  #國際
-
-【以色列防長稱以軍將接管約旦河西岸一難民營】以色列國防部長卡茨28日發表宣告稱，他已指示以軍擴大在約旦河西岸的軍事行動，並準備接管一處巴勒斯坦難民營並強行疏散那裡的居民。宣告未提及這處難民營的具體資訊，但稱“接管行動”將與此前以色列國防軍對傑寧、圖勒凱爾姆和努爾沙姆斯難民營採取的行動類似，即強行疏散居民、清除武裝基礎設施，並由以軍長期駐守。卡茨當天在接受以色列第14頻道電視臺採訪時說，以色列計劃擴大約旦河西岸的猶太人定居點規模，將新建數十個定居點。他還表示，以軍不會撤出目前在加沙地帶、敘利亞和黎巴嫩控制的地區。（新華社）
-
----
-
-### 2026-07-28 22:43:36  #Trading Economics #Markets #Canada #stocks #Importance 1
-
-Shopify Stock Price Hits 14-week High — Shopify shares increased to 184.99 CAD, the highest since April 2026. Over the past 4 weeks, Shopify Inc gained 13.9%, and in the last 12 months, it increased 7.51%.
-
----
-
-### 2026-07-28 22:43:10  #公司 #市場
-
-【7月28日增減持彙總（表）】7月28日盤後，據不完全統計，包括燕東微、京東方A、海亮股份、萬孚生物、重慶港在內的5家A股上市公司披露擬增持情況；當日暫無A股公司披露減持情況。
-
----
-
-### 2026-07-28 22:42:21  #MKT News
-
-UEFA said FIFA's plan to sell shares crosses a line football governing bodies must never cross.
-
----
-
-### 2026-07-28 22:41:57  #國際
-
-歐洲足球管理機構歐足聯表示，國際足聯出售股權的計劃“越過了足球管理機構絕不應逾越的紅線”。
-
----
-
-### 2026-07-28 22:40:37  #其他
-
-【AI 時尚新職業爆發 部分AI時尚從業者月薪能達3萬元】現在，AI已經滲透到時尚行業的設計、生產、營銷、零售全鏈條，催生出一批全新工種。 一是創意設計類，比如給虛擬人物設計服飾的虛擬時裝設計師、AI時尚內容設計師。 二是資料運營類，如AI趨勢分析師和數字穿搭師。 三是技術適配類，如3D虛擬樣衣師和AI設計訓練師。 AI催生出與時尚相關的新崗位，薪資水平也呈現明顯溢價。資料顯示，國內虛擬時裝設計師應屆畢業生月薪一般在1.2萬元左右，3-5年資深從業者月薪可達3萬元；數字穿搭師薪資區間一般為8000元到1.8萬元/月。行業資料顯示，2026年全球人工智慧在時尚市場的價值將達到9.7億美元，預計到2035年將達到47.9億美元。AI產生的影響不侷限在服裝行業，也溢位到時尚買手、陳列師等崗位，如今從業者可藉助AI完成基礎資料整理、趨勢初判、陳列初稿搭建等工作。 （央視財經）
-
----
-
-### 2026-07-28 22:39:45  #市場 #焦點
-
-可口可樂股價漲幅進一步擴大，最新上漲7.1%，創下90.06美元的歷史新高。
-
----
-
-### 2026-07-28 22:39:39  #其他
-
-波音稱 787 生產線曾停工數日。
-
----
-
-### 2026-07-28 22:39:10  #其他
-
-波音 4 月放緩 787 客機生產速度，以緩解供應鏈壓力。
-
----
-
-### 2026-07-28 22:38:47  #市場
-
-【SpaceX較IPO發行價跌20%後 太空相關股票紛紛下跌】受SpaceX股價大跌拖累，火箭、衛星及航天相關企業股價週二集體走低。SpaceX股價一度較135美元的IPO發行價下跌20%，累計跌去約五分之一市值。截至紐約時間上午10:13，SpaceX股價報107.81美元。下跌的航天概念股包括：Intuitive Machines跌10%，Rocket Lab跌10%，AST SpaceMobile跌7.8%，Redwire跌8.8%，York Space Systems跌9.2%，Momentus 跌6.6%，Firefly Aerospace跌7.3%，Satellogic跌6.8%，維珍銀河跌5.1%，Viasat跌6.0%，Voyager Technologies跌5.6%
-
----
-
-### 2026-07-28 22:37:46  #公司
-
-波音執行長在電話會議中表示：關於737-10機型，我們近期已完成最後一次試飛。
-
----
-
-### 2026-07-28 22:36:31  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish
-
-【MOFCOM legal department head on WTO panel report in China v Turkey over Turkish restrictions on electric vehicles (DS629)】Geneva, July 28 — The WTO published the panel report in China v Turkey (DS629). MOFCOM’s treaty and legal department said the panel upheld China’s claims and found Turkey’s measures on electric and other vehicles in breach of WTO rules. Since 2023 Turkey imposed additional tariffs and import licenses on Chinese electric and hybrid vehicles, which MOFCOM says violated tariff bindings, national treatment and MFN obligations and damaged China’s trade interests and bilateral economic ties. China welcomed the ruling and urged Turkey to respect the panel report and promptly correct the measures.
-
----
-
-### 2026-07-28 22:36:30  #國際
-
-市場訊息：以色列代表團已抵達白宮，內塔尼亞胡尚未到場，澤連斯基仍在橢圓形辦公室內。
-
----
-
-### 2026-07-28 22:36:18  #MKT News
-
-U.S. media report an Israeli delegation has arrived at the White House; Prime Minister Netanyahu has not yet arrived and Ukrainian President Zelensky remains in the Oval Office.
-
----
-
-### 2026-07-28 22:35:36  #焦點 #國際
-
-【商務部條約法律司負責人就世貿組織釋出我訴土耳其電動汽車和其他車輛限制措施世貿爭端案專家組報告答記者問】
-有記者問：日內瓦時間7月28日，世貿組織公佈了中國訴土耳其電動汽車和其他車輛限制措施世貿爭端案專家組報告。請問中方對此有何評論？ 
-
-答：我們注意到，世貿組織散發了中國訴土耳其電動汽車和其他車輛限制措施案（案件編號：DS629）專家組報告。專家組支援中方主張，裁定土方涉案措施違反世貿規則。中方對此裁決表示歡迎。
-
-2023年以來，土方對中國出口的電動汽車、混動汽車等車輛，先後採取附加關稅、進口許可證等限制措施，違反約束關稅、國民待遇、最惠國待遇等多邊貿易規則，嚴重損害中方正當貿易利益和中土經貿關係。中方敦促土方尊重世貿組織專家組裁決，採取切實行動，儘快糾正違規措施。
-
-同時，我想指出，中方堅定奉行互利共贏的開放戰略，堅定維護以世貿組織為核心的多邊貿易體制。中方願在符合多邊貿易規則的基礎上，與各方不斷提升在新能源汽車等領域的貿易投資合作質量和水平，實現共同發展。（商務部）
-
----
-
-### 2026-07-28 22:35:13  #公司 #國際
-
-【伊朗軍方警告不要接受美國使用伊資產進行“賠償”】據伊朗伊斯蘭共和國廣播電視臺28日報道，伊朗武裝部隊哈塔姆安比亞中央總部發言人說，接受美國使用伊朗資產進行所謂賠償的任何國家或公司，其所屬船隻將不被允許透過霍爾木茲海峽。發言人說，美國總統特朗普此前宣佈，將利用伊朗被凍結資產，賠償伊美衝突期間受損船隻。伊方認為，這些船隻受損是由於美軍制造地區不安全域性勢，以及“違規駛入霍爾木茲海峽南部非法且不安全的航道”所致。他警告稱，自即日起，任何支援特朗普上述提議和使用伊朗被凍結資產的國家或公司所屬船隻將被禁止透過霍爾木茲海峽。（新華社）
-
----
-
-### 2026-07-28 22:35:08  #MKT News #WTI #Impact bullish #Brent
-
-【Iran warns ships of states or firms that accept US use of frozen Iranian assets will be barred from Strait of Hormuz】Iran’s Hatam al-Anbiya central command spokesman told state broadcaster IRIB on the 28th that any country or company that accepts the US using frozen Iranian assets to compensate vessels damaged in US‑Iran clashes will have its ships barred from transiting the Strait of Hormuz, effective immediately. The spokesman referenced President Trump’s prior announcement to use frozen Iranian assets for compensation and said the vessel damage was caused by US‑created regional insecurity and by illegal, unsafe navigation in the southern Strait of Hormuz.
 
 ---

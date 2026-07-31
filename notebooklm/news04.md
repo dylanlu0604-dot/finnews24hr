@@ -1,7 +1,194 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-01 06:37:34_
-_本檔包含 3605 則快訊，約 672599 字_
+_更新時間：2026-08-01 07:36:07_
+_本檔包含 3611 則快訊，約 673025 字_
+
+---
+
+### 2026-07-28 22:51:07  #其他
+
+美銀全球研究將UBER目標股價從104美元下調至103美元。
+
+---
+
+### 2026-07-28 22:50:45  #國際
+
+美國國防部訊息：查爾斯頓聯合基地將更名，以此紀念已故參議員林賽・格雷厄姆。
+
+---
+
+### 2026-07-28 22:50:12  #MKT News #Market Regions #Japan & APAC
+
+【Kumamoto, Japan records over 100 felt aftershocks】The Japan Meteorological Agency said that following this afternoon’s quake on July 28, Kumamoto had experienced more than 100 felt aftershocks as of 23:30 local time.
+
+---
+
+### 2026-07-28 22:49:38  #國際
+
+【日本熊本已發生上百次餘震】據日本氣象廳資料，在今天（7月28日）下午地震發生後，截至當地時間23:30，熊本當地已發生有感地震超過100次。（CCTV國際時訊）
+
+---
+
+### 2026-07-28 22:48:52  #其他
+
+波音預計旗下國防、太空與安全業務板塊在 2029 年底利潤率回升至較高個位數區間。
+
+---
+
+### 2026-07-28 22:48:22  #公司
+
+捷藍航空CEO：精神航空的清算為將運力從高成本機場重新部署至勞德代爾堡提供了絕佳機遇。
+
+---
+
+### 2026-07-28 22:47:13  #公司 #市場
+
+【馬斯克身家大幅縮水，但仍超 7000 億美元】自太空探索技術公司股價 6 月創下高點以來，隨著特斯拉與 SpaceX 股價持續下跌，埃隆・馬斯克的財富蒸發約 6500 億美元。儘管財富大幅縮水，馬斯克個人淨資產依舊超過 7000 億美元。投資者仍在關注，人工智慧帶來的增長能否支撐當下高企的估值。
+
+---
+
+### 2026-07-28 22:46:11  #其他
+
+波音首席財務官表示，通用電氣將於第三季度恢復 777X 機型配套發動機的交付工作。
+
+---
+
+### 2026-07-28 22:45:48  #Trading Economics #Economy #United States #Dallas Fed Services Index #Importance 1
+
+Dallas Fed Business Activity Rises Most in 11 Months — The general business activity index for the service sector published by the Federal Reserve Bank of Dallas rose to 6.6 in July of 2026 from 2.9 in the previous month, marking the sharpest pace of growth in 11 months. The result was aligned with other similar surveys in the period as exports of energy in the Middle East were momentarily restored, lowering energy prices and operating costs to improve margin prospects in the sector. Revenue growth eased slightly (9.8 vs 9.5 in June), although hours worked rose faster (4.9 vs 3.6). Meanwhile, input prices slowed (33.5 vs 36.5) while selling charges rose sharply (14.2 vs 7.7). Looking ahead, the general business conditions for companies rose to 21 from 17.1.
+
+---
+
+### 2026-07-28 22:45:42  #MKT News
+
+U.S. financial outlet Semafor reports Saudi Arabia is lobbying to host the G20 summit in 2030.
+
+---
+
+### 2026-07-28 22:45:28  #其他
+
+波音今年計劃交付 90 至 100 架 787 客機。
+
+---
+
+### 2026-07-28 22:45:15  #公司
+
+市場訊息：沙烏地阿拉伯正積極遊說，爭取主辦 2030 年二十國集團峰會。
+
+---
+
+### 2026-07-28 22:44:18  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【KATZ says IDF to take over West Bank refugee camp】Israeli Defense Minister KATZ said on the 28th he has ordered the IDF to expand operations in the West Bank and prepare to take over a Palestinian refugee camp and forcibly evacuate residents. The statement did not identify the camp but said the takeover would mirror prior IDF actions in Jenin, Tulkarem and Nur Shams: forced evacuations, removal of armed infrastructure and long-term garrisoning by the military.
+
+---
+
+### 2026-07-28 22:43:48  #國際
+
+【以色列防長稱以軍將接管約旦河西岸一難民營】以色列國防部長卡茨28日發表宣告稱，他已指示以軍擴大在約旦河西岸的軍事行動，並準備接管一處巴勒斯坦難民營並強行疏散那裡的居民。宣告未提及這處難民營的具體資訊，但稱“接管行動”將與此前以色列國防軍對傑寧、圖勒凱爾姆和努爾沙姆斯難民營採取的行動類似，即強行疏散居民、清除武裝基礎設施，並由以軍長期駐守。卡茨當天在接受以色列第14頻道電視臺採訪時說，以色列計劃擴大約旦河西岸的猶太人定居點規模，將新建數十個定居點。他還表示，以軍不會撤出目前在加沙地帶、敘利亞和黎巴嫩控制的地區。（新華社）
+
+---
+
+### 2026-07-28 22:43:36  #Trading Economics #Markets #Canada #stocks #Importance 1
+
+Shopify Stock Price Hits 14-week High — Shopify shares increased to 184.99 CAD, the highest since April 2026. Over the past 4 weeks, Shopify Inc gained 13.9%, and in the last 12 months, it increased 7.51%.
+
+---
+
+### 2026-07-28 22:43:10  #公司 #市場
+
+【7月28日增減持彙總（表）】7月28日盤後，據不完全統計，包括燕東微、京東方A、海亮股份、萬孚生物、重慶港在內的5家A股上市公司披露擬增持情況；當日暫無A股公司披露減持情況。
+
+---
+
+### 2026-07-28 22:42:21  #MKT News
+
+UEFA said FIFA's plan to sell shares crosses a line football governing bodies must never cross.
+
+---
+
+### 2026-07-28 22:41:57  #國際
+
+歐洲足球管理機構歐足聯表示，國際足聯出售股權的計劃“越過了足球管理機構絕不應逾越的紅線”。
+
+---
+
+### 2026-07-28 22:40:37  #其他
+
+【AI 時尚新職業爆發 部分AI時尚從業者月薪能達3萬元】現在，AI已經滲透到時尚行業的設計、生產、營銷、零售全鏈條，催生出一批全新工種。 一是創意設計類，比如給虛擬人物設計服飾的虛擬時裝設計師、AI時尚內容設計師。 二是資料運營類，如AI趨勢分析師和數字穿搭師。 三是技術適配類，如3D虛擬樣衣師和AI設計訓練師。 AI催生出與時尚相關的新崗位，薪資水平也呈現明顯溢價。資料顯示，國內虛擬時裝設計師應屆畢業生月薪一般在1.2萬元左右，3-5年資深從業者月薪可達3萬元；數字穿搭師薪資區間一般為8000元到1.8萬元/月。行業資料顯示，2026年全球人工智慧在時尚市場的價值將達到9.7億美元，預計到2035年將達到47.9億美元。AI產生的影響不侷限在服裝行業，也溢位到時尚買手、陳列師等崗位，如今從業者可藉助AI完成基礎資料整理、趨勢初判、陳列初稿搭建等工作。 （央視財經）
+
+---
+
+### 2026-07-28 22:39:45  #市場 #焦點
+
+可口可樂股價漲幅進一步擴大，最新上漲7.1%，創下90.06美元的歷史新高。
+
+---
+
+### 2026-07-28 22:39:39  #其他
+
+波音稱 787 生產線曾停工數日。
+
+---
+
+### 2026-07-28 22:39:10  #其他
+
+波音 4 月放緩 787 客機生產速度，以緩解供應鏈壓力。
+
+---
+
+### 2026-07-28 22:38:47  #市場
+
+【SpaceX較IPO發行價跌20%後 太空相關股票紛紛下跌】受SpaceX股價大跌拖累，火箭、衛星及航天相關企業股價週二集體走低。SpaceX股價一度較135美元的IPO發行價下跌20%，累計跌去約五分之一市值。截至紐約時間上午10:13，SpaceX股價報107.81美元。下跌的航天概念股包括：Intuitive Machines跌10%，Rocket Lab跌10%，AST SpaceMobile跌7.8%，Redwire跌8.8%，York Space Systems跌9.2%，Momentus 跌6.6%，Firefly Aerospace跌7.3%，Satellogic跌6.8%，維珍銀河跌5.1%，Viasat跌6.0%，Voyager Technologies跌5.6%
+
+---
+
+### 2026-07-28 22:37:46  #公司
+
+波音執行長在電話會議中表示：關於737-10機型，我們近期已完成最後一次試飛。
+
+---
+
+### 2026-07-28 22:36:31  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish
+
+【MOFCOM legal department head on WTO panel report in China v Turkey over Turkish restrictions on electric vehicles (DS629)】Geneva, July 28 — The WTO published the panel report in China v Turkey (DS629). MOFCOM’s treaty and legal department said the panel upheld China’s claims and found Turkey’s measures on electric and other vehicles in breach of WTO rules. Since 2023 Turkey imposed additional tariffs and import licenses on Chinese electric and hybrid vehicles, which MOFCOM says violated tariff bindings, national treatment and MFN obligations and damaged China’s trade interests and bilateral economic ties. China welcomed the ruling and urged Turkey to respect the panel report and promptly correct the measures.
+
+---
+
+### 2026-07-28 22:36:30  #國際
+
+市場訊息：以色列代表團已抵達白宮，內塔尼亞胡尚未到場，澤連斯基仍在橢圓形辦公室內。
+
+---
+
+### 2026-07-28 22:36:18  #MKT News
+
+U.S. media report an Israeli delegation has arrived at the White House; Prime Minister Netanyahu has not yet arrived and Ukrainian President Zelensky remains in the Oval Office.
+
+---
+
+### 2026-07-28 22:35:36  #焦點 #國際
+
+【商務部條約法律司負責人就世貿組織釋出我訴土耳其電動汽車和其他車輛限制措施世貿爭端案專家組報告答記者問】
+有記者問：日內瓦時間7月28日，世貿組織公佈了中國訴土耳其電動汽車和其他車輛限制措施世貿爭端案專家組報告。請問中方對此有何評論？ 
+
+答：我們注意到，世貿組織散發了中國訴土耳其電動汽車和其他車輛限制措施案（案件編號：DS629）專家組報告。專家組支援中方主張，裁定土方涉案措施違反世貿規則。中方對此裁決表示歡迎。
+
+2023年以來，土方對中國出口的電動汽車、混動汽車等車輛，先後採取附加關稅、進口許可證等限制措施，違反約束關稅、國民待遇、最惠國待遇等多邊貿易規則，嚴重損害中方正當貿易利益和中土經貿關係。中方敦促土方尊重世貿組織專家組裁決，採取切實行動，儘快糾正違規措施。
+
+同時，我想指出，中方堅定奉行互利共贏的開放戰略，堅定維護以世貿組織為核心的多邊貿易體制。中方願在符合多邊貿易規則的基礎上，與各方不斷提升在新能源汽車等領域的貿易投資合作質量和水平，實現共同發展。（商務部）
+
+---
+
+### 2026-07-28 22:35:13  #公司 #國際
+
+【伊朗軍方警告不要接受美國使用伊資產進行“賠償”】據伊朗伊斯蘭共和國廣播電視臺28日報道，伊朗武裝部隊哈塔姆安比亞中央總部發言人說，接受美國使用伊朗資產進行所謂賠償的任何國家或公司，其所屬船隻將不被允許透過霍爾木茲海峽。發言人說，美國總統特朗普此前宣佈，將利用伊朗被凍結資產，賠償伊美衝突期間受損船隻。伊方認為，這些船隻受損是由於美軍制造地區不安全域性勢，以及“違規駛入霍爾木茲海峽南部非法且不安全的航道”所致。他警告稱，自即日起，任何支援特朗普上述提議和使用伊朗被凍結資產的國家或公司所屬船隻將被禁止透過霍爾木茲海峽。（新華社）
+
+---
+
+### 2026-07-28 22:35:08  #MKT News #WTI #Impact bullish #Brent
+
+【Iran warns ships of states or firms that accept US use of frozen Iranian assets will be barred from Strait of Hormuz】Iran’s Hatam al-Anbiya central command spokesman told state broadcaster IRIB on the 28th that any country or company that accepts the US using frozen Iranian assets to compensate vessels damaged in US‑Iran clashes will have its ships barred from transiting the Strait of Hormuz, effective immediately. The spokesman referenced President Trump’s prior announcement to use frozen Iranian assets for compensation and said the vessel damage was caused by US‑created regional insecurity and by illegal, unsafe navigation in the southern Strait of Hormuz.
 
 ---
 
@@ -21622,149 +21809,5 @@ Pakistan central bank governor said the bank bought $28 bln of foreign exchange 
 ### 2026-07-27 19:29:36  #公司
 
 【深圳再添兩個百億級半導體專案】兩大電子產業鏈龍頭企業相繼披露重大投資計劃，專案雙雙落子深圳，合計規劃投資規模超過200億元，分別瞄準AI伺服器電路板和半導體大尺寸矽片兩大高成長賽道。臻鼎科技集團在深圳寶安舉行鵬鼎控股第三園區動土典禮。該專案由臻鼎科技集團旗下核心上市主體——鵬鼎控股（深圳）股份有限公司投資，總投資超100億元，將打造人工智慧高階類載板及柔性電路板智造基地。TCL中環釋出公告，擬以控股子公司中環領先的子公司——深圳中環領先為主體，投資建設“積體電路用半導體大矽片深圳專案”，投資總額預計約為119.6億元。
-
----
-
-### 2026-07-27 19:29:31  #公司
-
-【古鰲科技：擬以4000萬元認繳出資設立嘉興疊域創業投資合夥企業】古鰲科技公告，公司作為有限合夥人與普通合夥人光合（海南）私募基金管理有限公司及其他有限合夥人共同投資設立嘉興疊域創業投資合夥企業（有限合夥），總認繳規模為人民幣1.01億元。公司擬以自有資金認繳出資額為人民幣4000萬元。
-
----
-
-### 2026-07-27 19:29:27  #公司
-
-【臥龍電驅：擬以5000萬元-1億元回購公司股份】臥龍電驅公告，擬以5000萬元-1億元回購公司股份，回購價格不超過51.03元/股。
-
----
-
-### 2026-07-27 19:29:22  #觀點
-
-【首批北交所三個月持有期主題基金陸續上報】《中國證券報》27日刊發文章《首批北交所三個月持有期主題基金陸續上報》。文章稱，記者近日獲悉，首批北交所三個月持有期主題基金自7月24日起陸續向中國證監會遞交產品註冊申請，目前已經確定華夏基金、易方達基金、匯添富基金、南方基金、嘉實基金、東財基金、富國基金及中信建投基金等8家管理人。這意味著公募產品佈局北交所實現進一步擴容，也將進一步豐富北交所投資產品，吸引增量資金進場，改善二級市場流動性，助力創新型中小企業估值修復。（新華社）
-
----
-
-### 2026-07-27 19:28:53  #MKT News
-
-Israeli Prime Minister Netanyahu said he is en route to the United States to meet President Trump; it will be their eighth meeting since Trump's election, more than with any other foreign leader.
-
----
-
-### 2026-07-27 19:28:16  #公司 #市場 #國際
-
-D-Wave量子公司股價盤前上漲9.1%，此前美國電話電報公司（AT&T）擴大了與該公司的量子計算合作關係。
-
----
-
-### 2026-07-27 19:28:07  #MKT News
-
-State Council Information Office will hold a press briefing at 10:00 Beijing time on 29 July 2026; National Intellectual Property Administration deputy director and spokesperson Rui Wenbiao will outline intellectual property protection and utilization measures for the 15th Five-Year Plan and answer questions.
-
----
-
-### 2026-07-27 19:27:32  #公司 #市場
-
-西班牙山黃金公司在可行性研究鑽探專案中擴大礦化範圍，見礦厚度達252.3米，金品位為每噸0.82克，其中包含一段厚度93.5米、金品位每噸1.32克的礦化體。
-
----
-
-### 2026-07-27 19:27:12  #宏觀
-
-【預告】國務院新聞辦公室將於2026年7月29日（星期三）上午10時舉行“開局起步‘十五五’”系列主題新聞釋出會，請國家智慧財產權局新聞發言人、副局長芮文彪介紹“十五五”時期智慧財產權保護和運用有關情況，並答記者問。
-
----
-
-### 2026-07-27 19:26:28  #公司
-
-【民爆光電：披露發行股份購買資產草案修訂說明】民爆光電公告稱，公司擬發行股份向廈門麥達智慧科技有限公司購買廈門廈芝精密科技有限公司49%股權。2026年7月27日，公司第三屆董事會第十六次會議審議透過草案修訂稿。相較7月10日披露的草案，修訂稿主要在釋義、重大事項提示、交易對方基本情況等多個章節進行了補充和更新，包括增加釋義、更新審批程式、補充財務指標等，對交易方案無影響。
-
----
-
-### 2026-07-27 19:26:22  #央行 #市場
-
-巴西央行調查：經濟學家預計2026年末雷亞爾兌美元匯率將為5.20雷亞爾兌1美元，與此前預期持平。
-
----
-
-### 2026-07-27 19:26:10  #央行 #其他
-
-巴西央行調查：經濟學家預計2026年巴西國內生產總值增長1.99%，與前次預期持平。
-
----
-
-### 2026-07-27 19:26:02  #央行 #其他
-
-巴西央行調查：經濟學家預計2026年底 Selic 基準利率為14.00%，與前次預期一致。
-
----
-
-### 2026-07-27 19:25:53  #央行 #資料
-
-巴西央行調查：經濟學家預計2026年巴西IPCA通脹率年率將達5.12%，此前預期為5.15%。
-
----
-
-### 2026-07-27 19:25:48  #央行 #其他
-
-巴西央行調查：經濟學家預計2027年IPCA年度通脹率將達4.22%，此前預期為4.20%。
-
----
-
-### 2026-07-27 19:24:40  #Trading Economics #Markets #Commodity #Importance 0
-
-Wheat Eases from Over 2-Year High — Wheat futures fell below $6.70 per bushel, extending losses from the more than two-year high of $7.06 reached on July 22, as a sharp decline in crude oil prices weighed on agricultural markets. The US and Iran paused military strikes over the weekend following two weeks of hostilities, raising hopes that renewed diplomatic efforts could ease tensions and allow shipping through the Strait of Hormuz to normalize. Despite the pullback, supply risks remain elevated. Heatwaves across Europe and continued attacks between Russia and Ukraine have intensified worries over crop production and exports. Russian strikes on grain infrastructure and ports prompted Allseeds to suspend operations in Ukraine's Odesa region. Still, discussions on mechanisms to protect Black Sea shipping, including coordinated vessel notifications and temporary ceasefire windows, have raised hopes that grain exports can continue with limited disruption.
-
----
-
-### 2026-07-27 19:24:31  #MKT News
-
-【Bright Smart Securities accepts SFC HKD2.8 million fine; says remediation completed】The SFC has censured and fined Bright Smart Securities (Hong Kong) Limited HKD2.8 million for failing to implement adequate and effective internal controls to monitor and detect client wash trading. The firm said it accepts the penalty, completed remediation in September 2025, and that its internal-control technology now meets regulatory requirements. Bright Smart added the matter did not involve cybersecurity issues and did not affect client trading or funds.
-
----
-
-### 2026-07-27 19:24:26  #公司
-
-【通合科技：股東任獻偉減持計劃期限屆滿 累計減持89.51萬股】通合科技公告稱，股東任獻偉女士減持計劃期限（2026年4月27日至7月26日）已屆滿。其於2026年5月29日至6月22日，透過集中競價交易減持895,100股，佔總股本0.5038%，減持均價40元/股。減持前持股6,302,800股，佔比3.59%；減持後持股5,407,700股，佔比3.04%。本次減持未違規，不會導致公司控制權變更。
-
----
-
-### 2026-07-27 19:23:51  #MKT News #IBM.N #Impact bearish
-
-HSBC cut its PT for IBM (IBM.N) to $174 from $175.
-
----
-
-### 2026-07-27 19:23:33  #其他
-
-滙豐銀行將IBM目標股價從175美元下調至174美元。
-
----
-
-### 2026-07-27 19:22:42  #宏觀
-
-巴西財政部長：公共債務處於可控範圍，當前的挑戰是要向外界證明我們長期擁有可持續的債務發展軌跡。
-
----
-
-### 2026-07-27 19:22:36  #其他
-
-【滙豐銀行上調SAP目標股價】滙豐銀行將SAP（思愛普）目標股價從185歐元上調至196歐元。
-
----
-
-### 2026-07-27 19:22:36  #MKT News #CSI300 #Impact bullish #SSE Composite #CNH
-
-【MIIT to fast-track 15th Five-Year plan for China's intelligent connected NEV industry】July 27 — The Ministry of Industry and Information Technology said it will fast-track drafting and issuance of the 15th Five-Year plan for China’s intelligent connected new-energy vehicle (NEV) industry. The ministry said it will implement the National Standardization Development Outline, accelerate breakthroughs in key core technologies, speed development, international coordination and implementation of priority standards, advance vehicle–road–cloud integration pilot projects, streamline production access and on‑road trial approvals, and promote building a full, end-to-end industry-chain ecosystem.
-
----
-
-### 2026-07-27 19:21:50  #其他
-
-【金融監管總局：穩步推進中小金融機構改革化險，有效防範化解重點領域風險】7月27日，金融監管總局召開系統黨的建設工作會議暨2026年年中工作會議。會議強調，全系統要堅決把思想和行動統一到黨中央對當前形勢的科學判斷和決策部署上來，統籌推進防風險、強監管、促高質量發展各項工作。樹牢底線思維，穩步推進中小金融機構改革化險，有效防範化解重點領域風險，堅決守住不發生系統性金融風險底線。堅持問題導向，堅定不移推進嚴監管強監管，堅守監管姓監定位，做到專注監管、嚴格監管。強化監管引領，督促金融機構加快改革轉型、實現錯位發展，多措並舉營造良好行業生態，有效提升經濟金融適配性，以行業高質量發展促進經濟社會高質量發展。會議還對做好近期安全生產、應急金融服務保障等工作作出部署。
-
----
-
-### 2026-07-27 19:21:41  #MKT News #CSI300 #Impact bullish
-
-【NAFR to push reforms of small- and medium-sized financial firms to defuse risks, prevent systemic risk】July 27 — The National Administration of Financial Regulation said at a party-building and mid-2026 work meeting it will steadily advance reform-led risk resolution of small- and medium-sized financial institutions and effectively prevent and resolve risks in key sectors. The regulator stressed resolving downside risks as a priority, reiterating resolve to prevent systemic financial risk and to pursue problem-oriented, strict supervision while maintaining its supervisory mandate. NAFR said it will push firms to accelerate reform and transformation, promote differentiated positioning across institutions, and deploy multiple measures to improve industry ecology and enhance finance–economy alignment. The meeting also ordered preparations for recent safety-production issues and arrangements for emergency financial service support.
 
 ---
