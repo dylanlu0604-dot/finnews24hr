@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-01 02:44:52",
-  "count": 17958,
+  "updated": "2026-08-01 02:48:54",
+  "count": 17954,
   "items": [
+    {
+      "id": "5019809",
+      "time": "2026-08-01 02:46:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行推出計劃，至多增持 40 億美元國際儲備。"
+    },
+    {
+      "id": "mkt:019fb97f-b1c1-7aab-8f3c-b13ee6af5b6a",
+      "time": "2026-08-01 02:46:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Caspian Pipeline Consortium (CPC) will continue oil and tanker operations after earlier consideration of an indefinite suspension."
+    },
+    {
+      "id": "5019808",
+      "time": "2026-08-01 02:46:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：裡海管道聯盟（CPC）繼續開展石油作業。此前曾考慮“無限期”暫停石油及油輪運營。"
+    },
     {
       "id": "mkt:019fb97d-7c91-7aab-8f3c-af0299857937",
       "time": "2026-08-01 02:43:56",
@@ -166209,75 +166240,6 @@
         "MKT News"
       ],
       "text": "【Colombia declares one-year national disaster over El Nifio risk】Colombian government issued a decree on the 23rd declaring a one-year national disaster to pre-position resources against a likely intensification of El Nifio in coming months, warning of potential severe, persistent shocks to water resources, food supplies and public electricity services. The decree tasks Colombia’s National Disaster Risk Management Unit to coordinate national, local and private-sector efforts focused on water conservation and supply, food security, energy transitions for rural and low-income households, public-health surveillance and forest-fire prevention."
-    },
-    {
-      "id": "mkt:019f9575-6303-7aab-8e8e-9176fea2b339",
-      "time": "2026-07-25 02:48:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil planning minister Moretti said gasoline subsidies are expected to cost about BRL 1.3 bln per month and diesel subsidies about BRL 5.5 bln per month."
-    },
-    {
-      "id": "5007470",
-      "time": "2026-07-25 02:48:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西規劃部長：汽油補貼支出預計每月 13 億雷亞爾，柴油補貼每月 55 億雷亞爾。"
-    },
-    {
-      "id": "mkt:019f9574-74fd-7aab-8e8e-88a37a5dc4bb",
-      "time": "2026-07-25 02:47:44",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran accuses US military of mistakenly striking merchant ship, killing two crew】Iranian state media said on Friday afternoon local time the US military fired two missiles at an LPG tanker entering the area from the Gulf of Oman. The report said US forces had allegedly mistaken the vessel for carrying Iranian natural gas; the strike killed two crew, damaged the engine room and left the ship immobilized."
-    },
-    {
-      "id": "5007469",
-      "time": "2026-07-25 02:46:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗邁赫爾通訊社：科威特北部發生多起爆炸。"
-    },
-    {
-      "id": "mkt:019f9572-f7ef-7aab-8e8e-86febb350c2a",
-      "time": "2026-07-25 02:46:07",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【US media: intelligence assessment says Iran's new leadership has greater nuclear ambitions】The New York Times, citing officials familiar with the assessment, reports US intelligence now judges Iran’s new supreme leader Mujtaba more intent on developing nuclear weapons than his father, former supreme leader Ali Khamenei, who had vowed not to pursue them. Mujtaba has not publicly called for nuclear arms, but US agencies assess that after US‑Israeli strikes that killed several former Iranian leaders, Mujtaba and the hard‑line government that followed harbor ambitions to develop advanced nuclear weapons. Officials say if a US‑Israel war makes Tehran more likely, rather than less likely, to seek nuclear arms, that would be another serious consequence of Khamenei’s assassination and the Trump administration’s earlier regime‑change efforts."
-    },
-    {
-      "id": "mkt:019f9572-d4dd-7aab-8e8e-7fe7cb31f13e",
-      "time": "2026-07-25 02:45:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude futures settled at $96.78 a barrel, down $3.91 or 3.88%."
-    },
-    {
-      "id": "5007468",
-      "time": "2026-07-25 02:45:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗國家電視臺（IRIB）：今日下午，美軍向一艘從阿曼灣駛入該海域的液化石油氣運輸船發射兩枚導彈。這艘油輪遭襲擊的原因是美軍誤判其裝載伊朗天然氣。此次襲擊造成兩名船員遇難，船舶機艙受損，船隻已徹底喪失航行能力。"
     }
   ]
 }

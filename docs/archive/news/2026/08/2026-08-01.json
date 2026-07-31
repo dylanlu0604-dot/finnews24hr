@@ -1,7 +1,38 @@
 {
   "date": "2026-08-01",
-  "count": 151,
+  "count": 154,
   "items": [
+    {
+      "id": "5019809",
+      "time": "2026-08-01 02:46:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行推出計劃，至多增持 40 億美元國際儲備。"
+    },
+    {
+      "id": "mkt:019fb97f-b1c1-7aab-8f3c-b13ee6af5b6a",
+      "time": "2026-08-01 02:46:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Caspian Pipeline Consortium (CPC) will continue oil and tanker operations after earlier consideration of an indefinite suspension."
+    },
+    {
+      "id": "5019808",
+      "time": "2026-08-01 02:46:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：裡海管道聯盟（CPC）繼續開展石油作業。此前曾考慮“無限期”暫停石油及油輪運營。"
+    },
     {
       "id": "mkt:019fb97d-7c91-7aab-8f3c-af0299857937",
       "time": "2026-08-01 02:43:56",
