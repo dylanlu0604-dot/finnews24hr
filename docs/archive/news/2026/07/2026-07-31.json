@@ -1,7 +1,170 @@
 {
   "date": "2026-07-31",
-  "count": 1061,
+  "count": 1077,
   "items": [
+    {
+      "id": "5018113",
+      "time": "2026-07-31 10:07:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AI應用端持續走高 福昕軟體等多股漲停】AI應用端持續走高，福昕軟體、歡瑞世紀封漲停，此前傳智教育5連板，普聯軟體20cm2連板，易點天下、海天瑞聲、星環科技等多股漲超10%。"
+    },
+    {
+      "id": "mkt:019fb5ed-2d65-7aab-8f23-eb979f5bbda9",
+      "time": "2026-07-31 10:07:27",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude slipped below $85/bbl, down 2.6% on the day."
+    },
+    {
+      "id": "mkt:019fb5ed-01e0-7aab-8f23-e5e7b80d8099",
+      "time": "2026-07-31 10:07:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share fiber-optic sector rebounded intraday; Tongding Interconnection hit the daily limit, Changyingtong rallied 17%. Yangtze Optical Fibre and Cable, Zhongtian Technology, Hengtong Optic‑Electric and Tefa Information also advanced."
+    },
+    {
+      "id": "5018112",
+      "time": "2026-07-31 10:07:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年7550億元中央預算內投資已基本下達完畢】在今天舉行的國家發展改革委7月份新聞釋出會上，國家發展改革委新聞發言人表示，今年7550億元中央預算內投資已基本下達完畢。國家發展改革委政策研究室主任、新聞發言人 蔣毅：我們堅持投資於物和投資於人緊密結合，進一步加大民生類政府投資力度。比如，在搶險救災方面，今年入汛以來，國家發展改革委已緊急下達14批中央預算內投資，合計7.5億元，支援有關受災地區開展基礎設施和公共服務設施災後應急恢復。又比如，在以工代賑方面，今年已下達資金395億元，實施專案7800餘個，吸納帶動務工人數達150萬人，人均增收1萬元以上，充分發揮促就業、助增收、惠民生的綜合效能。"
+    },
+    {
+      "id": "mkt:019fb5ec-aa56-7aab-8f23-dd79560ec423",
+      "time": "2026-07-31 10:06:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "China has largely allocated this year’s 755 billion yuan of central budgetary investment."
+    },
+    {
+      "id": "5018111",
+      "time": "2026-07-31 10:06:36",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "發改委：今年7550億元中央預算內投資已基本下達完畢。"
+    },
+    {
+      "id": "mkt:019fb5ec-5459-7aab-8f23-d349d9b717ae",
+      "time": "2026-07-31 10:06:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Mitsubishi UFJ: Market likely to remain cautious on short-term yen bets】Michael Wan, senior FX strategist at Mitsubishi UFJ Financial Group, says market participants are likely to remain cautious on short-term yen bets given the risk balance. Yen net-short positions remain near historic highs and Japanese authorities may be trying to force position unwinds. Whether the yen can extend Thursday’s 3.3% rally will likely depend on market reaction to the BOJ policy meeting. Mitsubishi UFJ said it will remain cautious on USD/JPY into the weekend and early next week."
+    },
+    {
+      "id": "5018110",
+      "time": "2026-07-31 10:06:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌2%，現報81.73美元/桶。"
+    },
+    {
+      "id": "5018109",
+      "time": "2026-07-31 10:06:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守82美元/桶，日內跌2.22%。"
+    },
+    {
+      "id": "mkt:019fb5ec-28d8-7aab-8f23-cd112afa6243",
+      "time": "2026-07-31 10:06:20",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude down 2.00% intraday at $85.13/bbl."
+    },
+    {
+      "id": "te:markets:571437",
+      "time": "2026-07-31 10:06:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Retreat After Recent Gains — The Hang Seng Index fell 0.4%, or 108 points, to 25,750 on Friday, as investors locked in profits following the benchmark's recent rally. Sentiment was further dampened after China's official PMIs unexpectedly fell back into contraction in July, raising concerns over the pace of economic recovery. Losses accelerated after Zhongji Innolight declined on its Hong Kong trading debut despite raising approximately HK$53.4 billion in one of the city's largest IPOs this year, highlighting caution toward AI and semiconductor-related stocks amid a broader global technology selloff. Property stocks also came under pressure as analysts cautioned that Hong Kong's housing rally may slow after a strong first half. Still, Hong Kong's IPO market remained a bright spot, with investors also focusing on Shein after the fast-fashion retailer advanced its planned Hong Kong listing. Notable losers included Xiaomi (-7.9%), Tencent (-0.9%), Meituan (-3.2%), AIA (-1.0%), and Anta Sports (-1.6%)."
+    },
+    {
+      "id": "5018108",
+      "time": "2026-07-31 10:05:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI應用概念活躍 天娛數科漲停】AI應用概念活躍，易點天下、崑崙萬維漲超10%，三人行、天娛數科、智度股份漲停，藍色游標、利歐股份、慧辰股份漲幅居前。"
+    },
+    {
+      "id": "5018107",
+      "time": "2026-07-31 10:05:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家發展改革委：共建“一帶一路”投資合作向高科技等領域延伸】在今天舉行的國家發展改革委7月份新聞釋出會上，國家發展改革委新聞發言人表示，今年上半年，共建“一帶一路”取得紮實進展，共建“一帶一路”投資合作持續向高科技、綠色低碳等領域延伸。國家發展改革委政策研究室主任、新聞發言人蔣毅介紹，經貿合作方面，與共建國家貨物進出口總額達到12.97萬億元、同比增長14.8%，佔外貿總額的50.9%，共建“一帶一路”投資合作持續向高科技、綠色低碳等領域延伸。互聯互通方面，匈塞鐵路匈牙利段開通貨運，中吉烏鐵路全線開工。中歐班列保持強勁發展態勢，上半年共開行11186列、同比增長20.2%。"
+    },
+    {
+      "id": "mkt:019fb5ea-b9aa-7aab-8f23-c017e0db0511",
+      "time": "2026-07-31 10:04:46",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【109 major projects under the 15th Five-Year Plan accelerate implementation】At a July press conference the National Development and Reform Commission (NDRC) said 109 major projects under the 15th Five-Year Plan are accelerating. New starts this year include a Three Gorges waterway new channel, Guangzhou’s new airport and the Shangbaishi water-conservancy hub in Fujian. Preparatory work on the east–west sections of the new Tibet railway and the Dujiangyan irrigation modernization in Sichuan is being fast-tracked, with aims to commence construction soon and deliver tangible on-site progress."
+    },
+    {
+      "id": "te:economy:571434",
+      "time": "2026-07-31 10:04:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Loans to Private Sector",
+        "Importance 1"
+      ],
+      "text": "Singapore Bank Lending Hits New Record High — Singapore’s bank loans increased to a fresh record high of SGD 931.4 billion in June 2026 from SGD 917.7 billion in the previous month. Loans to businesses climbed to SGD 569.3 billion from SGD 557.8 billion, mainly driven by higher lending to manufacturing (SGD 28.3 billion vs. SGD 28.1 billion), building and construction (SGD 186.6 billion vs. SGD 185.2 billion), transportation, storage, and communication (SGD 50.5 billion vs. SGD 49.0 billion), and financial and insurance activities (SGD 151.3 billion vs. SGD 148.0 billion)."
+    },
+    {
+      "id": "5018106",
+      "time": "2026-07-31 10:04:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光纖概念震盪反彈 通鼎互聯觸及漲停】光纖概念盤中震盪反彈，通鼎互聯觸及漲停，長盈通漲17%，長飛光纖、中天科技、亨通光電、特發資訊等跟漲。"
+    },
     {
       "id": "te:economy:571433",
       "time": "2026-07-31 10:04:02",
