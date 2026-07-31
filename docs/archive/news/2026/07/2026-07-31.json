@@ -1,7 +1,58 @@
 {
   "date": "2026-07-31",
-  "count": 1111,
+  "count": 1117,
   "items": [
+    {
+      "id": "mkt:019fb5ff-98ec-7aab-8f24-4a9ac9589cc0",
+      "time": "2026-07-31 10:27:34",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【CHINA STATE PLANNER: Agencies estimate 15th Five-Year Plan compute-network build-out will add 4 tln yuan in direct investment】CHINA STATE PLANNER spokesperson Jiang Yi said institutions estimate compute-network construction over the 15th Five-Year Plan will require about 4 tln yuan in new direct investment. With enterprises expected to provide most funding, the program should create substantial room for private investment. The agency said it will strengthen planning guidance and secure input factors to foster a favorable environment for private capital."
+    },
+    {
+      "id": "5018139",
+      "time": "2026-07-31 10:27:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇樹科技參保人數9年增長124倍 2年增資187倍】據媒體報道，7月30日晚間，上交所官網公佈宇樹科技首次公開發行股票並在科創板上市發行安排及初步詢價公告，相關話題引發廣泛關注。天眼查App顯示，宇樹科技股份有限公司成立於2016年8月，法定代表人為王興興，經營範圍包括軟體開發、軟體銷售、智慧機器人的研發等，由王興興、漢海資訊科技（上海）有限公司、寧波紅杉科盛股權投資合夥企業（有限合夥）等共同持股。參保人數資訊顯示，該公司參保人數從2016年的4人增至2025年的501人。變更記錄顯示，該公司註冊資本從2024年的約193萬人民幣增至約3.6億人民幣。"
+    },
+    {
+      "id": "5018138",
+      "time": "2026-07-31 10:25:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為開源盤古5050億引數openPangu-2.0-Pro模型正式開源上線】華為開源盤古5050億引數的openPangu-2.0-Pro模型（模型權重、基礎推理程式碼）及技術報告正式開源上線。開源盤古openPangu是華為開源AI模型品牌，致力於透過昇騰原生訓練與推理技術，為業界用好昇騰提供最佳實踐參考，助力打造Agent時代強大的智慧底座，加快人工智慧商業創新和生態繁榮。openPangu-2.0模型相關元件已陸續上線開源平臺。華為方面稱，誠邀全球開發者、企業夥伴及研究人員下載使用，或訪問華為雲MaaS模型即服務平臺線上體驗，歡迎廣大使用者反饋使用意見，助力開源生態持續進步。"
+    },
+    {
+      "id": "5018137",
+      "time": "2026-07-31 10:24:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【格思資訊擬啟動增資】上海聯合產權交易所釋出的資訊顯示，上海格思資訊科技有限公司（簡稱“格思資訊”）將啟動增資擴股程式，公司擬透過公開掛牌方式引入戰略投資者。格思資訊深耕衛星製造行業20年，並在2024年牽頭組建大規模衛星智慧化創新聯合體，是千帆星座組網的核心參研單位。"
+    },
+    {
+      "id": "5018136",
+      "time": "2026-07-31 10:24:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通鼎互聯在杭州成立網路技術公司】企查查APP顯示，近日，杭州百卓數科網路技術有限公司成立，法定代表人為周金碧，註冊資本為1000萬元，經營範圍包含：資訊保安裝置銷售；大資料服務；網路與資訊保安軟體開發；行動通訊裝置銷售；網際網路安全服務等。企查查股權穿透顯示，該公司由通鼎互聯間接全資持股。"
+    },
+    {
+      "id": "5018135",
+      "time": "2026-07-31 10:24:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家稅務總局首個跨境稅收行業類指引《國際運輸涉稅服務指引》正式釋出】近期，國家稅務總局釋出了首個跨境稅收行業類指引《國際運輸涉稅服務指引》，為從事國際航海、航空、陸路等跨境運輸行業的經營主體提供全鏈條、標準化、可落地的涉稅合規參考，“稅路通”跨境稅收知識產品體系實現再擴容。"
+    },
     {
       "id": "mkt:019fb5fc-5df2-7aab-8f24-47c471889eed",
       "time": "2026-07-31 10:24:02",
