@@ -1,7 +1,75 @@
 {
   "date": "2026-08-01",
-  "count": 34,
+  "count": 42,
   "items": [
+    {
+      "id": "5019759",
+      "time": "2026-08-01 00:18:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及對伊朗打擊行動：我們已經實施大規模行動。"
+    },
+    {
+      "id": "mkt:019fb8f7-7b84-7aab-8f3a-fcebff8e81fd",
+      "time": "2026-08-01 00:17:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the (de-weaponization) fund has fallen through, but he hopes it has not."
+    },
+    {
+      "id": "te:economy:571837",
+      "time": "2026-08-01 00:15:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Germany 10Y Bond Yield Hits 15-year High — Germany 10 Year Government Bond Yield increased to 3.21%, the highest since May 2011. Over the past 4 weeks, Germany 10Y Bond Yield gained 33.35 basis points, and in the last 12 months, it increased 53.34 basis points."
+    },
+    {
+      "id": "5019758",
+      "time": "2026-08-01 00:15:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國代理司法部長布蘭奇應該獲得批准。"
+    },
+    {
+      "id": "mkt:019fb8f5-c50e-7aab-8f3a-f6f12b1d8d36",
+      "time": "2026-08-01 00:15:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's Pemex said it paid 248 bln pesos to suppliers and contractors in 1H."
+    },
+    {
+      "id": "mkt:019fb8f5-be11-7aab-8f3a-ef7212050d7e",
+      "time": "2026-08-01 00:15:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says Acting U.S. Attorney General Blanche should be confirmed."
+    },
+    {
+      "id": "mkt:019fb8f5-a249-7aab-8f3a-e24ccf920f08",
+      "time": "2026-08-01 00:15:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said parties have agreed not to establish a deweaponization fund."
+    },
+    {
+      "id": "5019757",
+      "time": "2026-08-01 00:15:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及 “反武器化” 基金：各方已同意不再設立該基金。"
+    },
     {
       "id": "mkt:019fb8f4-0298-7aab-8f3a-da1d7c1b26fe",
       "time": "2026-08-01 00:13:46",

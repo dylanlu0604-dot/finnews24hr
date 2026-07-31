@@ -1,7 +1,75 @@
 {
-  "updated": "2026-08-01 00:15:34",
-  "count": 17981,
+  "updated": "2026-08-01 00:20:12",
+  "count": 17982,
   "items": [
+    {
+      "id": "5019759",
+      "time": "2026-08-01 00:18:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及對伊朗打擊行動：我們已經實施大規模行動。"
+    },
+    {
+      "id": "mkt:019fb8f7-7b84-7aab-8f3a-fcebff8e81fd",
+      "time": "2026-08-01 00:17:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the (de-weaponization) fund has fallen through, but he hopes it has not."
+    },
+    {
+      "id": "te:economy:571837",
+      "time": "2026-08-01 00:15:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Germany 10Y Bond Yield Hits 15-year High — Germany 10 Year Government Bond Yield increased to 3.21%, the highest since May 2011. Over the past 4 weeks, Germany 10Y Bond Yield gained 33.35 basis points, and in the last 12 months, it increased 53.34 basis points."
+    },
+    {
+      "id": "5019758",
+      "time": "2026-08-01 00:15:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國代理司法部長布蘭奇應該獲得批准。"
+    },
+    {
+      "id": "mkt:019fb8f5-c50e-7aab-8f3a-f6f12b1d8d36",
+      "time": "2026-08-01 00:15:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's Pemex said it paid 248 bln pesos to suppliers and contractors in 1H."
+    },
+    {
+      "id": "mkt:019fb8f5-be11-7aab-8f3a-ef7212050d7e",
+      "time": "2026-08-01 00:15:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says Acting U.S. Attorney General Blanche should be confirmed."
+    },
+    {
+      "id": "mkt:019fb8f5-a249-7aab-8f3a-e24ccf920f08",
+      "time": "2026-08-01 00:15:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said parties have agreed not to establish a deweaponization fund."
+    },
+    {
+      "id": "5019757",
+      "time": "2026-08-01 00:15:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及 “反武器化” 基金：各方已同意不再設立該基金。"
+    },
     {
       "id": "mkt:019fb8f4-0298-7aab-8f3a-da1d7c1b26fe",
       "time": "2026-08-01 00:13:46",
@@ -166477,77 +166545,6 @@
         "國際"
       ],
       "text": "伊朗外長阿拉格奇與阿曼外長通電話。"
-    },
-    {
-      "id": "mkt:019f94ec-95a8-7aab-8e8c-7a8df3b3d85b",
-      "time": "2026-07-25 00:19:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. embassies in Jordan and Iraq urged U.S. citizens to remain vigilant and prepare for possible flight cancellations amid heightened tensions in the Middle East."
-    },
-    {
-      "id": "mkt:019f94ec-35b1-7aab-8e8c-71608f69cad8",
-      "time": "2026-07-25 00:18:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "EU foreign policy chief Kallas said the EU will summon Russia's ambassador to the EU over Friday's attack and will propose additional sanctions targeting Russia's military-industrial complex."
-    },
-    {
-      "id": "5007403",
-      "time": "2026-07-25 00:18:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【英國10年期國債收益率跌約7個基點，使得本週累計漲幅收窄】週五（7月24日）歐市尾盤，英國10年期國債收益率跌6.9個基點，報5.033%，本週累計上漲8.1個基點，週一至週四持續上揚——最高達到5.122%。兩年期英債收益率跌7.6個基點，報4.412%，本週累漲6.6個基點，週四曾達到4.507%。本週，30年期英債收益率累漲6.9個基點，報5.725%；50年期英債收益率累漲3.3個基點，報5.273%。2/10年期英債收益率利差累漲1.524個基點，報+61.889個基點。"
-    },
-    {
-      "id": "5007402",
-      "time": "2026-07-25 00:18:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：美英計劃召開霍爾木茲海峽國際會議】兩名歐洲外交官及另外兩名知情人士透露，美國與英國計劃於下週在倫敦舉辦一場高階別會議，核心議題是組建一支國際聯合力量，保障霍爾木茲海峽航運安全。歐洲外交官表示，本次會議的日程與舉辦日期仍在磋商，尚未敲定；參會人員或將涵蓋西方國家及中東地區各國的國防部長、軍方最高指揮官。美國國防部長赫格塞思、參聯會主席丹・凱恩上將或將出席此次會議。知情人士稱，英美計劃依託近數月英、法同多國開展的磋商，推進霍爾木茲海峽國際護航聯盟籌備工作。多國提出一項核心前提：海峽內敵對行動必須停止，當地安全環境達標後，國際海上護航行動才能落地。訊息人士表示，美國希望盟友向中東調派掃雷艦、軍艦、無人機等裝備，共同守護航道安全。一名歐洲外交官表示：“美國急於尋找脫身方案，因此需要我們提供協助。”"
-    },
-    {
-      "id": "mkt:019f94ea-435e-7aab-8e8c-6eaf4bf0cb3b",
-      "time": "2026-07-25 00:16:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Axios reports the US and UK plan to convene an international meeting on the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019f94e9-a1a6-7aab-8e8c-63d203a942a4",
-      "time": "2026-07-25 00:16:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iranian media reported the head of Iran's Supreme Joint Military Command vowed that for every Iranian killed, Iran will kill one US service member."
-    },
-    {
-      "id": "5007401",
-      "time": "2026-07-25 00:15:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行官員淡化9月加息預期 強調等待更多資料】歐洲央行政策制定者避免釋放9月可能加息的訊號，而是選擇等待更多資料來為決策提供依據。歐元區兩大經濟體的央行行長在週四利率決議後均未暗示下一步行動方向，當時部分官員在會議上考慮立即加息，但最終一致決定維持利率不變。“我們仍然面臨高度不確定性，”德國央行行長Joachim Nagel在宣告中表示，而法國央行行長Emmanuel Moulin強調，歐洲央行已在6月收緊政策。知情人士表示，除非歐元區通脹前景顯著改善，否則歐洲央行官員已做好9月加息的準備。週四中東衝突進一步升級後，油價兩個月來首次突破每桶100美元。"
     }
   ]
 }
