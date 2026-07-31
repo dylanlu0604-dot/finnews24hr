@@ -1,7 +1,105 @@
 {
   "date": "2026-07-31",
-  "count": 2653,
+  "count": 2663,
   "items": [
+    {
+      "id": "5019255",
+      "time": "2026-07-31 19:20:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "油價上漲，德國國債和英國國債下跌；德國10年期國債收益率上漲2個基點至3.18%。"
+    },
+    {
+      "id": "mkt:019fb7e7-51d0-7aab-8f33-df59f9508d14",
+      "time": "2026-07-31 19:20:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Caspian Pipeline Consortium (CPC) export terminal is critical to Kazakhstan's oil exports."
+    },
+    {
+      "id": "mkt:019fb7e6-94ac-7aab-8f33-d2aab9242576",
+      "time": "2026-07-31 19:19:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Market sources: Caspian Pipeline Consortium (CPC) will decide later on Friday whether to suspend oil operations."
+    },
+    {
+      "id": "5019254",
+      "time": "2026-07-31 19:19:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "裡海管道聯盟（CPC）將在週五晚些時候決定是否暫停石油運營。"
+    },
+    {
+      "id": "5019253",
+      "time": "2026-07-31 19:19:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英國石油公司啟動北海業務出售流程】7月31日，據報道，英國石油公司表示，已啟動對其北海業務進行市場營銷的程序，以尋求潛在出售。此前有報道稱，該公司正在考慮出售該業務部門，此項剝離交易可能帶來約20億英鎊（合27億美元）的收益。"
+    },
+    {
+      "id": "5019252",
+      "time": "2026-07-31 19:18:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精鍛科技：募投專案結項 1143.82萬元節餘資金補流】精鍛科技公告稱，“新能源汽車電驅傳動部件產業化專案”已達預定可使用狀態，公司擬將其結項。截至2026年6月30日，該專案累計投入97,645.69萬元，超調整後募資投入832.95萬元，閒置募資現金管理獲收益1,976.77萬元，節餘1,143.82萬元。公司擬將節餘資金永久補充流動資金，相關事項已透過審計委員會、董事會審議，保薦機構無異議。"
+    },
+    {
+      "id": "mkt:019fb7e5-dcdd-7aab-8f33-c805c6e7ddf1",
+      "time": "2026-07-31 19:18:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Caspian Pipeline Consortium (CPC) may suspend oil operations until it obtains security guarantees from other states; an indefinite suspension of oil and tanker operations has been discussed."
+    },
+    {
+      "id": "5019251",
+      "time": "2026-07-31 19:18:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST啟環：與4家產業投資人簽署重整投資協議，受讓8.78億股價格為1.2元/股】*ST啟環公告，公司於2026年7月31日與宜昌城發控股、宜昌創元國控、啟迪未來公司、三峽至喜公司簽署《重整投資協議》。產業投資人將透過三峽至喜公司受讓轉增股票6.52億股，價格為1.2元/股，價款為7.82億元；啟迪未來公司受讓2.26億股，價格為1.2元/股，價款為2.71億元。重整完成後，三峽至喜公司將成為公司控股股東，宜昌市國資委將成為實際控制人。"
+    },
+    {
+      "id": "5019250",
+      "time": "2026-07-31 19:17:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧飛資料：上半年歸母淨利潤1.97億元，同比增長123.64%】奧飛資料7月31日披露半年報，公司上半年實現營業收入14.69億元，同比增長27.95%；歸屬於上市公司股東的淨利潤1.97億元，同比增長123.64%；基本每股收益0.1995元/股。"
+    },
+    {
+      "id": "mkt:019fb7e4-484b-7aab-8f33-c3be624ebf35",
+      "time": "2026-07-31 19:16:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "XOM.N",
+        "Impact mixed"
+      ],
+      "text": "【Exxon says Middle East growth plan intact despite ~500k bpd outage from Iran conflict】Exxon Mobil (XOM.N) says it remains committed to Middle East investment despite roughly 500,000 bpd of production offline after conflict tied to Iran. CFO Neil Hansen: \"We will not make broad investment decisions based on today's headlines. We can thrive in this environment and remain committed to current and future investments in the region.\" Before the late-February fighting, Exxon's UAE and Qatar crude output totaled about 900,000 bpd, roughly one-fifth of its global production; those volumes are now heavily disrupted. Two Qatar gas projects in which Exxon holds stakes were badly damaged in an Iran strike, leaving about 450,000 bpd of Qatar output suspended and roughly 50,000 bpd in the UAE affected. Hansen said some firms view staying away from the region as an advantage; Exxon calls that short-sighted. Some UAE volumes are being held in storage pending the lifting of transport restrictions."
+    },
     {
       "id": "5019249",
       "time": "2026-07-31 19:16:30",
