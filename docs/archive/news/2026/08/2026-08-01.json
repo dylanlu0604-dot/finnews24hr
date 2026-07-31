@@ -1,7 +1,70 @@
 {
   "date": "2026-08-01",
-  "count": 171,
+  "count": 178,
   "items": [
+    {
+      "id": "5019827",
+      "time": "2026-08-01 03:12:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行行長： 重啟哥倫比亞加息舉措已納入考量範圍。"
+    },
+    {
+      "id": "5019826",
+      "time": "2026-08-01 03:11:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "KKR收購Integer的交易最快或於下週敲定。"
+    },
+    {
+      "id": "mkt:019fb996-6933-7aab-8f3c-e5a965450652",
+      "time": "2026-08-01 03:11:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US F-35 crashes and catches fire at Miramar; pilot ejects】July 31 — At Marine Corps Air Station Miramar in San Diego, an F-35 stealth fighter crashed on landing, caught fire and produced heavy black smoke. Two jets were conducting training; one landed safely, the other suffered a heavy tail strike on touchdown, skidded along the runway and the pilot ejected. The blaze burned nearby vegetation. Officials have not released the status of the pilot or crew; cause under investigation."
+    },
+    {
+      "id": "5019825",
+      "time": "2026-08-01 03:10:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍一架F-35隱形戰機發生事故並起火 飛行員彈射】美國加州聖迭戈米拉瑪海軍陸戰隊航空站基地一架美軍F-35隱形戰鬥機當日發生事故並起火，現場升起大量黑煙。目擊者稱，當時有兩架戰鬥機進行訓練，其中一架安全著陸，另一架在降落時機尾接地過重，隨後在跑道上滑行，飛行員之後彈射。事故還導致基地內部分植被被燒燬。目前官方尚未公佈飛行員或機組人員的傷亡狀況，事故原因正在調查中。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fb995-b907-7aab-8f3c-dcdba9f68187",
+      "time": "2026-08-01 03:10:24",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "The Times reports UK Chancellor Healey said he cannot rule out tax increases in the budget."
+    },
+    {
+      "id": "5019824",
+      "time": "2026-08-01 03:10:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜公司週五遭到消費者起訴，消費者指控這家電商平臺誇大其在售海鮮產品的環保效益，此舉屬於漂綠行為。"
+    },
+    {
+      "id": "mkt:019fb995-4b23-7aab-8f3c-d5f3e3e28fe2",
+      "time": "2026-08-01 03:09:56",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "The Times reports UK Chancellor Healy has instructed cabinet ministers to prepare for budget cuts."
+    },
     {
       "id": "5019823",
       "time": "2026-08-01 03:07:20",
