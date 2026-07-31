@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-01 02:36:46",
-  "count": 17960,
+  "updated": "2026-08-01 02:40:39",
+  "count": 17958,
   "items": [
+    {
+      "id": "5019806",
+      "time": "2026-08-01 02:37:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "西捷航空：持續參與談判磋商，爭取儘早達成雙方均能接受的協議。 由 Q400 執飛的 Encore 支線航班，以及合作伙伴航司運營的程式碼共享航班暫不受影響。"
+    },
+    {
+      "id": "5019805",
+      "time": "2026-08-01 02:36:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "西捷航空：談判未能達成協議。隨著勞資糾紛引發的運營中斷臨近，西捷航空必須著手停放 737 型客機。"
+    },
     {
       "id": "mkt:019fb974-fafd-7aab-8f3c-a172ceb3cf2f",
       "time": "2026-08-01 02:34:39",
@@ -166265,40 +166281,6 @@
         "Important"
       ],
       "text": "Musk said Grok 4.6 will be released in two weeks and Grok 4.7 in four weeks."
-    },
-    {
-      "id": "mkt:019f956d-be77-7aab-8e8e-6001103829b6",
-      "time": "2026-07-25 02:40:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM NEWS reported Iran and Pakistan foreign ministers met to discuss bilateral ties and regional and international developments."
-    },
-    {
-      "id": "5007467",
-      "time": "2026-07-25 02:38:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：兩週後推出 Grok 4.6 版本，四周後上線 Grok 4.7 版本。"
-    },
-    {
-      "id": "5007466",
-      "time": "2026-07-25 02:37:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗胡齊斯坦省副省長助理：有關美國再次襲擊伊朗與伊拉克接壤的沙拉姆切邊境口岸的傳聞不屬實。"
-    },
-    {
-      "id": "mkt:019f956b-517a-7aab-8e8e-58dfc42b5f7b",
-      "time": "2026-07-25 02:37:46",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "An aide to Khuzestan province’s deputy governor said reports that the US again struck the Shalamcheh Iran–Iraq border crossing are false."
     }
   ]
 }
