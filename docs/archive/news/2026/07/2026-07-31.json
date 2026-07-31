@@ -1,7 +1,232 @@
 {
   "date": "2026-07-31",
-  "count": 2586,
+  "count": 2611,
   "items": [
+    {
+      "id": "mkt:019fb7d9-159e-7aab-8f33-53a0c89fe81e",
+      "time": "2026-07-31 19:04:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Deutsche Bank raises Amazon (AMZN.O) price target to $325 from $315."
+    },
+    {
+      "id": "mkt:019fb7d8-f3c1-7aab-8f33-4ff78999a5f1",
+      "time": "2026-07-31 19:04:36",
+      "tags": [
+        "MKT News",
+        "RIVN.O",
+        "Impact bullish"
+      ],
+      "text": "Deutsche Bank raises Rivian (RIVN.O) PT to $24 from $23."
+    },
+    {
+      "id": "te:economy:571760",
+      "time": "2026-07-31 19:04:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Government Budget Value",
+        "Importance 1"
+      ],
+      "text": "India Fiscal Deficit Widens — India's fiscal deficit surged to INR 3.1 trillion in the first quarter of FY2027 from INR 280 billion in the corresponding period of the previous year. This was equivalent to 28.7% of the current budget estimate, which is commonly depleted toward the end of the fiscal year, compared to 26.7% in the previous year. As a net energy importer, the country is grappling with rising fuel subsidy costs due to elevated oil prices linked to the ongoing Middle East conflict. Total expenditure surged 11.0% year-on-year to INR 13.5 trillion (25.4% of budgeted amount), while total receipts rose by 11.5 to INR 10-5 trillion (28.7% of the budgeted amount)."
+    },
+    {
+      "id": "mkt:019fb7d8-c132-7aab-8f33-42a86044079f",
+      "time": "2026-07-31 19:04:23",
+      "tags": [
+        "MKT News",
+        "MRNA.O",
+        "Impact bearish"
+      ],
+      "text": "Moderna (MRNA.O) down 5.7% in pre-market trade after Q2 revenue came in slightly below expectations."
+    },
+    {
+      "id": "5019219",
+      "time": "2026-07-31 19:04:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【海大集團：擬開展最高80億元套期保值業務】海大集團公告稱，為規避經營風險，公司擬開展套期保值業務。商品套期保值方面，擬交易玉米、大豆等產品期貨、期權合約，保證金最高佔用額不超40億元；外匯套期保值方面，擬開展遠期結售匯等業務，餘額不超40億元。兩項業務期限均為股東會審議透過之日起12個月。公司已制定相關管理制度，具備開展業務條件，但也存在價格異常波動、資金等風險，將採取匹配經營、控制資金等風控措施。"
+    },
+    {
+      "id": "5019218",
+      "time": "2026-07-31 19:04:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正泰電源：股東及其一致行動人減持股份 持股降至5%以下】正泰電源公告稱，2026年5月15日至7月31日，股東珠海悅寧及其一致行動人珠海康東透過集中競價合計減持343.60萬股，二者合計持股比例由5.95213%降至4.99998%，不再是持股5%以上股東。本次減持是履行此前披露的減持計劃，不觸及要約收購，不會導致公司控制權變更。截至公告披露日，減持計劃尚未實施完畢，公司將持續關注進展並及時披露。"
+    },
+    {
+      "id": "mkt:019fb7d8-7cfd-7aab-8f33-3b0c5b6aca1f",
+      "time": "2026-07-31 19:04:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump's Friday schedule】Beijing time 31, 20:00 — Trump at the White House for executive business; later departs for Camp David (departure time TBD) and arrives there. Beijing time 31, 23:00 — Trump to chair a Cabinet meeting at Camp David; afterwards departs Camp David for Bedminster, New Jersey (departure time TBD)."
+    },
+    {
+      "id": "5019217",
+      "time": "2026-07-31 19:04:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所：就鋁、鋅、鉛的永久性標識及原鋁在香港場外倉儲事宜徵詢意見。"
+    },
+    {
+      "id": "mkt:019fb7d8-5cc4-7aab-8f33-32491ef77510",
+      "time": "2026-07-31 19:03:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "LME launches consultation on reforms to improve warehouse and physical-market operations and to simplify brand-listing requirements."
+    },
+    {
+      "id": "5019216",
+      "time": "2026-07-31 19:03:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會主席布倫丹·卡爾：廣播員必須以公共利益為出發點開展業務。"
+    },
+    {
+      "id": "5019215",
+      "time": "2026-07-31 19:03:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬科A：選舉徐恩利為董事長】萬科A(000002.SZ)公告稱，公司第二十一屆董事會第一次會議選舉徐恩利為董事長，並續聘黃宇為總裁、田鈞為董事會秘書，同時續聘李鋒、華翠、李剛為執行副總裁，韓慧華為執行副總裁、財務負責人。"
+    },
+    {
+      "id": "mkt:019fb7d7-8f59-7aab-8f33-298d9a8f5919",
+      "time": "2026-07-31 19:03:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【State Council issues 15th Five-Year Plan for intellectual property protection and utilization】The State Council published the 15th Five-Year Plan for Intellectual Property Protection and Utilization, setting targets, priority tasks and special projects for the period. The plan states that by 2030 China’s IP comprehensive strength and international competitiveness will be further enhanced: IP protection strengthened, IP market value increased, public IP services improved, IP governance made more efficient, and international IP cooperation deepened, achieving decisive progress toward building an IP power. Looking to 2035, China aims to rank among the world’s leaders in IP competitiveness and have essentially built a world-class IP power with Chinese characteristics."
+    },
+    {
+      "id": "5019214",
+      "time": "2026-07-31 19:03:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【建設工業：完成第八屆董事會換屆選舉，9名董事組成】建設工業公告，公司於2026年7月31日召開2026年第二次臨時股東會，選舉產生第八屆董事會非獨立董事和獨立董事，並於2026年7月30日召開職工代表組長會議選舉產生職工代表董事。第八屆董事會由9名董事組成，其中6名非獨立董事（含1名職工代表董事）、3名獨立董事，任期自股東會選舉透過之日起三年。"
+    },
+    {
+      "id": "5019213",
+      "time": "2026-07-31 19:02:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【普聯軟體：股票交易異常波動 控股股東擬發生變更】普聯軟體公告稱，公司股票交易價格連續2個交易日（2026年7月30日、7月31日）收盤價漲幅偏離值累計達44.34%，屬異常波動。2026年7月29日，公司控股股東藺國強、王虎等轉讓方擬嚮明略昭輝轉讓75473893股，佔總股本19.07%，權益變動後，控股股東將變更為明略昭輝，實控人變為吳明輝。公司目前經營及內外部環境未變，不存在應披露未披露事項。公司預約8月27日披露半年報。"
+    },
+    {
+      "id": "5019212",
+      "time": "2026-07-31 19:02:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所：釋出關於LME實物市場諮詢與討論檔案的決定通知，並就包括品牌上市流程在內的實物市場最佳化措施展開進一步諮詢。"
+    },
+    {
+      "id": "5019211",
+      "time": "2026-07-31 19:02:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本長崎、廣島市長呼籲防衛大臣正視核武器危害性】據日本共同社7月31日報道，日本長崎市和廣島市市長當天各自召開記者會，就防衛大臣小泉進次郎近日的涉核言論表達擔憂，呼籲其正視核武器可能造成的災難性後果。 長崎市市長鈴木史朗呼籲小泉親自訪問經歷過核爆的地區，瞭解核武器的非人道性和殘酷性，並在此基礎上討論安全保障問題。廣島市市長松井一實呼籲小泉充分考慮曾經歷核爆的廣島的訴求。 近日，小泉進次郎在一檔網路節目中聲稱，日本應“毫無禁忌地”討論與核武器相關的政策。此番言論引發日本國內和國際社會廣泛擔憂。(新華社)"
+    },
+    {
+      "id": "mkt:019fb7d6-cb34-7aab-8f33-24c94f156f80",
+      "time": "2026-07-31 19:02:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England survey: Market expects QT in 2026/27 to be split 43% into short-term gilts, 41% into medium-term gilts and 16% into long-term gilts."
+    },
+    {
+      "id": "mkt:019fb7d6-b844-7aab-8f33-1cc13dc4035d",
+      "time": "2026-07-31 19:02:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese foreign ministry says Philippines' so-called 'territorial sea baseline' at Huangyan Island illegal】China's foreign ministry said the Philippines' establishment of a so-called territorial sea baseline at Huangyan Island (Scarborough Shoal), on Chinese territory, is illegal and invalid, and breaches the UN Charter and UNCLOS. Beijing said it firmly opposes and will not accept the move, accused the Philippines of repeated provocations in the Shoal that have raised maritime tensions and undermined South China Sea stability, and warned Manila to respect China's territorial sovereignty and maritime rights or face resolute countermeasures."
+    },
+    {
+      "id": "5019210",
+      "time": "2026-07-31 19:02:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長城證券：董事段心燁因工作調整離任 公司擬變更董事】長城證券公告稱，7月30日，公司董事會收到董事段心燁書面辭職報告，其因工作調整辭去第三屆董事會董事及相關委員會委員職務。辭職自公司收到報告之日生效，段心燁未持股，離任後不在公司任職且已做好工作交接。公司7月31日召開會議審議透過變更董事議案，並將提交股東會審議。"
+    },
+    {
+      "id": "mkt:019fb7d6-a298-7aab-8f33-1497d18ac89e",
+      "time": "2026-07-31 19:02:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England's July market participants' survey showed the median market expectation for QT between Oct 2026 and Sep 2027 at £50 bln (June survey: £50 bln)."
+    },
+    {
+      "id": "te:markets:571759",
+      "time": "2026-07-31 19:02:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Colgate-Palmolive earnings above expectations at 0.99 USD — Colgate-Palmolive (CL) released earnings per share at 0.99 USD, compared to market expectations of 0.95 USD."
+    },
+    {
+      "id": "5019209",
+      "time": "2026-07-31 19:02:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大恆科技：調整2025年度利潤分配每股派發金額】大恆科技公告稱，因公司回購專用證券賬戶中股份總數變動，2025年度利潤分配擬每10股派發現金分紅金額由0.24元（含稅）調整為0.243元（含稅），派發現金總額為1049.20萬元（含稅）。自利潤分配方案披露至公告日，公司回購股份503.01萬股，實際參與分配的股份總數調整為4.32億股。因計算尾數問題，實際派發現金紅利總額與原總額略有差異，以實際發放結果為準。"
+    },
+    {
+      "id": "5019208",
+      "time": "2026-07-31 19:01:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度天然氣管理局（GAIL）一位高管表示，印度政府正著手推進建設天然氣戰略儲備專案。"
+    },
+    {
+      "id": "5019207",
+      "time": "2026-07-31 19:01:50",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院日前印發《智慧財產權保護和運用“十五五”規劃》】國務院日前印發《智慧財產權保護和運用“十五五”規劃》，明確了“十五五”時期開展智慧財產權工作的目標指標、重點任務和專項工程。規劃提出，到2030年，我國智慧財產權綜合實力和國際競爭力進一步增強，智慧財產權保護更加有力，智慧財產權市場價值更加彰顯，智慧財產權公共服務更加優質，智慧財產權綜合管理體制更加高效，智慧財產權國際合作更加深入，智慧財產權強國建設取得決定性進展。規劃部署了持續最佳化支援全面創新的智慧財產權保護環境、大力提升促進經濟高質量發展的智慧財產權運用效能、不斷健全推進高效能治理的智慧財產權綜合管理體系、積極構建服務高水平對外開放的智慧財產權國際合作新格局四方面重點任務。"
+    },
+    {
+      "id": "5019206",
+      "time": "2026-07-31 19:01:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "MODERNA股價在公佈第二季度業績後下跌7.2%。"
+    },
     {
       "id": "mkt:019fb7d6-0e9d-7aab-8f33-0e378536dd9c",
       "time": "2026-07-31 19:01:26",
