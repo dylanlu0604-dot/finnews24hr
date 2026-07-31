@@ -1,7 +1,86 @@
 {
-  "updated": "2026-08-01 04:05:49",
-  "count": 17904,
+  "updated": "2026-08-01 04:09:43",
+  "count": 17908,
   "items": [
+    {
+      "id": "5019898",
+      "time": "2026-08-01 04:08:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱在加沙地帶打死兩名哈馬斯官員】以色列國防軍7月31日發表宣告稱，近日以軍在加沙地帶多地發動空襲，打死兩名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）官員。此外，以軍還稱，過去一週在約旦河西岸開展了數十次軍事行動，共抓捕了200多名巴勒斯坦人。（央視）"
+    },
+    {
+      "id": "5019897",
+      "time": "2026-08-01 04:08:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普全球評級確認波黑信用評級維持B+。"
+    },
+    {
+      "id": "5019895",
+      "time": "2026-08-01 04:06:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "安進：相關調查仍在進行中。"
+    },
+    {
+      "id": "mkt:019fb9c8-aba7-7aab-8f3d-62dba4c06bd7",
+      "time": "2026-08-01 04:06:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P Global Ratings confirmed Luxembourg's sovereign ratings at \"AAA/A-1+\"; outlook stable."
+    },
+    {
+      "id": "mkt:019fb9c8-a26b-7aab-8f3d-5e2851f3d28f",
+      "time": "2026-08-01 04:06:01",
+      "tags": [
+        "MKT News",
+        "PSKY.O"
+      ],
+      "text": "Paramount (PSKY.O) announced it is extending the expiration date for its previously announced exchange offer and tender offer."
+    },
+    {
+      "id": "mkt:019fb9c8-99ae-7aab-8f3d-558b0633bb9d",
+      "time": "2026-08-01 04:05:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Brazil's oil regulator said gasoline will be required to contain a 32% ethanol blend from Aug. 1 for 180 days."
+    },
+    {
+      "id": "mkt:019fb9c8-8037-7aab-8f3d-4bd8cc3153ef",
+      "time": "2026-08-01 04:05:52",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks closed higher on Friday, July 31: Dow Jones Industrial Average rose 277.45 points (+0.53%) to 52,485.51; S&P 500 rose 52.13 points (+0.70%) to 7,489.76; Nasdaq Composite rose 251.68 points (+1.00%) to 25,373.85."
+    },
+    {
+      "id": "5019894",
+      "time": "2026-08-01 04:05:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "安進：預計這一事件不會對公司財務狀況或經營業績產生重大影響。"
+    },
+    {
+      "id": "5019893",
+      "time": "2026-08-01 04:05:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "安進（AMGEN）在提交給美國證券交易委員會（SEC）的檔案中披露：其雲環境中發生專有資訊與患者資料洩露事件。截至2026年7月29日判定此次網路安全事件屬於重大事件。"
+    },
     {
       "id": "5019892",
       "time": "2026-08-01 04:04:27",
@@ -165745,56 +165824,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Mixed Amid Middle East Tensions — US equity indices closed mixed on Friday as investors assessed corporate earnings and the outlook for interest rates. The S&P 500 inched higher, the Nasdaq 100 lost 1.1%, and the Dow added 236 points. Oil prices eased but remained sharply higher on the week as escalating strikes between the US and Iran disrupted tanker traffic through the Persian Gulf and the Red Sea. Treasury yields followed energy prices higher as investors increased bets that persistent energy-driven inflation could prompt the Federal Reserve to raise interest rates next week. Intel fell 7.9% despite posting its strongest revenue growth in 17 years, reflecting continued volatility in semiconductor stocks following their sharp rally since the second quarter. Concerns over AI-related capital spending also weighed on hyperscalers, with Tesla down 2.1%, and Meta slipping 1.8%. Elsewhere, Amex fell 4.3% after reporting earnings, while Verizon gained 5.8% after posting stronger-than-expected subscriber growth."
-    },
-    {
-      "id": "5007573",
-      "time": "2026-07-25 04:07:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門荷臺達傳出多次劇烈爆炸聲】總檯記者當地時間24日獲悉，據葉門荷臺達市居民反映，當地傳出多次劇烈爆炸聲。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f95bd-3ce2-7aab-8e90-47e9e496cbdb",
-      "time": "2026-07-25 04:07:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Dow Jones Industrial Average closed up 235.60 points (+0.46%) at 51,947.25 on Friday, July 24. S&P 500 closed up 3.72 points (+0.05%) at 7,412.02. Nasdaq Composite closed down 161.87 points (-0.64%) at 24,975.82."
-    },
-    {
-      "id": "mkt:019f95bd-0fd0-7aab-8e90-3ecbc351f090",
-      "time": "2026-07-25 04:07:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Fars News, citing Arab sources, reported Saudi Arabia carried out airstrikes on Yemen's Hodeidah port."
-    },
-    {
-      "id": "5007572",
-      "time": "2026-07-25 04:06:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "派拉蒙：（要約期限）已延長至 8 月 7 日。"
-    },
-    {
-      "id": "5007571",
-      "time": "2026-07-25 04:06:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息： 派拉蒙公告延長收購要約有效期。"
     }
   ]
 }
