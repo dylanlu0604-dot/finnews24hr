@@ -1,7 +1,122 @@
 {
   "date": "2026-08-01",
-  "count": 349,
+  "count": 362,
   "items": [
+    {
+      "id": "5019968",
+      "time": "2026-08-01 05:03:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：特朗普認定對進口QSP實施為期四年的關稅配額是適當的。"
+    },
+    {
+      "id": "5019966",
+      "time": "2026-08-01 05:03:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：確認克羅埃西亞評級為“A-”，展望穩定。"
+    },
+    {
+      "id": "5019965",
+      "time": "2026-08-01 05:03:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "華納音樂首席財務官阿明·澤爾扎卸任。"
+    },
+    {
+      "id": "mkt:019fb9fc-7b22-7aab-8f3e-00ba539d7999",
+      "time": "2026-08-01 05:02:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【US media: US and Israel plan expanded strikes on Iran; energy facilities may be primary targets】CBS News, citing multiple sources, reports the US and Israel are planning one of the most intense bombing campaigns yet against Iranian energy infrastructure, with potential targets including power plants and refineries and operations possibly continuing through the weekend. Israel has been notified and is coordinating with Washington, but President Trump has not given final approval. Some White House political aides strongly oppose the plan, warning it could shock the US and global economies. US officials have discussed cutting Tehran’s power supply but have not decided. Trump previously said the US would bomb an Iranian bridge or power plant in response to each attack on ships in the Strait of Hormuz. If executed, the strikes would signal Israel resuming operations that were paused under a US-mediated ceasefire."
+    },
+    {
+      "id": "5019964",
+      "time": "2026-08-01 05:02:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認捷克共和國信用評級為“AA-”，展望穩定。"
+    },
+    {
+      "id": "5019963",
+      "time": "2026-08-01 05:02:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽維持羅馬尼亞信用評級“BBB-”不變，展望負面。"
+    },
+    {
+      "id": "mkt:019fb9fb-f091-7aab-8f3d-fc841a496441",
+      "time": "2026-08-01 05:02:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Houthis say they will continue blockade of Saudi vessels】Houthi forces in Yemen said they will continue maritime restrictions on Saudi oil vessels under a \"blockade to counter blockade\" strategy, and that eight Saudi oil tankers have been forced to reroute around the Cape of Good Hope. The group warned it will act against relevant ships within its capabilities and said it will continue efforts to lift the blockade on Yemen and defend its rights."
+    },
+    {
+      "id": "5019962",
+      "time": "2026-08-01 05:02:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "白宮：特朗普簽署公告，促進對進口石英檯面產品的競爭作出積極調整。"
+    },
+    {
+      "id": "5019961",
+      "time": "2026-08-01 05:01:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "白宮釋出石英檯面製品相關公告。"
+    },
+    {
+      "id": "5019960",
+      "time": "2026-08-01 05:00:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "道富標普500交易所交易基金下跌0.4%。"
+    },
+    {
+      "id": "5019959",
+      "time": "2026-08-01 05:00:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油日內漲4%，現報90.38美元/桶。"
+    },
+    {
+      "id": "5019958",
+      "time": "2026-08-01 05:00:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【現貨黃金週五跌約1.3%，7月紐約銅漲超5.7%】週五（7月31日）紐約尾盤，現貨黃金跌1.27%，報4051.30美元/盎司，本週大致持平，7月份累計上漲0.53%，整體震盪於3959.84-4202.90美元區間。COMEX黃金期貨跌1.28%，報4107.20美元/盎司，7月份累跌0.83%。現貨白銀跌1.89%，報57.8705美元/盎司，本週累跌0.52%，7月份累跌2.34%，交投於63.2757-54.7775美元。COMEX白銀期貨跌1.77%，報57.970美元/盎司，7月份累跌3.63%。COMEX銅期貨漲0.63%，報6.5155美元/磅，本週累漲2.49%，7月份累漲5.76%，7月21日紐約中午曾達到6.5670美元。現貨鉑金跌0.40%，報1654.51美元/盎司，7月份累漲4.48%。現貨鈀金跌2.31%，報1287.54美元/盎司，7月份累漲5.20%。"
+    },
+    {
+      "id": "5019957",
+      "time": "2026-08-01 05:00:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI敘事降溫 “算力金屬”還能漲嗎】過去兩年，在AI浪潮推動下，雲廠商、晶片及相關資源品價格一路水漲船高。如今，隨著AI敘事逐步進入深水區，市場已經不滿足於僅交易遠期預期，而希望看到AI帶來的實際利潤。 這一變化，也讓此前漲勢凌厲的“算力金屬”面臨重新審視。全球科技巨頭陸續披露財報，微軟、Meta、谷歌母公司Alphabet仍在投入鉅額資金建設AI基礎設施，但自由現金流承壓、資本開支增長快於收入回報等問題，也讓投資者重新評估這場AI競賽的可持續性。與此同時，光互連、高壓直流供電等新架構加速落地，也可能降低部分環節的單位算力銅耗。銅之外，錫、鍺等更多“算力金屬”也面臨著類似的問題。 AI對銅需求的拉動是否被高估？業內人士認為，答案並非簡單的是或否，AI用銅邏輯已經綜合了對實際投產規模、技術路線變化和電力配套進度的判斷。機房內部的單位用銅量可能下降，但資料中心擴張帶來的電源、變電、輸配電和冷卻需求仍在增長。（中證報）"
+    },
     {
       "id": "5019956",
       "time": "2026-08-01 04:58:23",
