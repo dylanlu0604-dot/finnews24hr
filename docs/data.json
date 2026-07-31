@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-31 13:27:41",
-  "count": 18034,
+  "updated": "2026-07-31 13:32:26",
+  "count": 18032,
   "items": [
+    {
+      "id": "5018375",
+      "time": "2026-07-31 13:30:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內跌3%，現報8330.00元。"
+    },
+    {
+      "id": "5018374",
+      "time": "2026-07-31 13:30:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌4%，現報538.40元。"
+    },
+    {
+      "id": "5018373",
+      "time": "2026-07-31 13:30:19",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數站上6600點，日內漲18.00%。"
+    },
+    {
+      "id": "5018372",
+      "time": "2026-07-31 13:30:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌4%，現報3517.00元。"
+    },
+    {
+      "id": "5018371",
+      "time": "2026-07-31 13:30:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守85美元/桶，日內跌2.19%。"
+    },
+    {
+      "id": "5018370",
+      "time": "2026-07-31 13:27:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "派傑投資將萬事達卡目標價從597美元上調至710美元。"
+    },
+    {
+      "id": "te:economy:571512",
+      "time": "2026-07-31 13:27:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "BoJ to Hold Eight Policy Meetings in 2027 — The Bank of Japan will hold eight Monetary Policy Meetings in 2027, convening in January, March, April, June, July, September, October, and December. In its statement, the central bank noted that the quarterly Outlook Report will be released four times during the year: January, April, July, and October, to provide updated assessments of economic and price developments."
+    },
     {
       "id": "5018369",
       "time": "2026-07-31 13:26:28",
@@ -166732,84 +166798,6 @@
         "國際"
       ],
       "text": "印度政府：限制進口到岸價高於每公斤0.766美元的懸浮級聚氯乙烯樹脂，為期六個月。"
-    },
-    {
-      "id": "5006000",
-      "time": "2026-07-24 13:32:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾汽車 第二季度營收824.4億歐元，預估817.2億歐元。"
-    },
-    {
-      "id": "5005999",
-      "time": "2026-07-24 13:32:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾汽車預計全年營收-3％至0％，此前預計0％至+3％。"
-    },
-    {
-      "id": "5005998",
-      "time": "2026-07-24 13:31:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾汽車 第二季度營業利潤34.7億歐元，預估40.7億歐元。"
-    },
-    {
-      "id": "5005997",
-      "time": "2026-07-24 13:31:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾汽車 第二季度營業利益率4.2％，預估4.79％。"
-    },
-    {
-      "id": "5005996",
-      "time": "2026-07-24 13:31:08",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團將力拓目標價從7700便士下調至7100便士。"
-    },
-    {
-      "id": "5005995",
-      "time": "2026-07-24 13:30:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀連續主力合約日內跌7%，現報291.95元。"
-    },
-    {
-      "id": "5005993",
-      "time": "2026-07-24 13:28:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "國泰航空自8月1日起上調燃油附加費。"
-    },
-    {
-      "id": "mkt:019f9298-a75f-7aab-8e7b-2c4a0f10fe23",
-      "time": "2026-07-24 13:28:25",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Iran says it struck U.S. bases in Jordan and Bahrain】Iran's military said in a statement that in the 24th phase of Operation 'Lightning' it used 'Arash' drones in the early hours to strike fuel storage, equipment warehouses and personnel quarters at the Sheikh Isa base in Bahrain. The statement said it also struck hangars, aircraft maintenance facilities and personnel quarters at the Azraq base in Jordan."
-    },
-    {
-      "id": "5005992",
-      "time": "2026-07-24 13:27:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗襲擊約旦和巴林境內美軍基地 】伊朗軍方今天（7月24日）釋出宣告稱，在“閃電”行動第24階段中，伊朗軍方今天凌晨使用“阿拉什”無人機，對巴林謝赫伊薩基地內的燃料儲存設施、裝備倉庫和人員駐地發動襲擊。宣告稱，伊朗軍方還對約旦阿茲拉克基地內的飛機庫、飛機維修設施和人員駐地發動無人機襲擊。"
     }
   ]
 }
