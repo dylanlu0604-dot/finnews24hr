@@ -1,7 +1,226 @@
 {
-  "updated": "2026-07-31 08:01:07",
-  "count": 17973,
+  "updated": "2026-07-31 08:05:10",
+  "count": 17988,
   "items": [
+    {
+      "id": "mkt:019fb57c-b5a6-7aab-8f20-7b179b0e1c49",
+      "time": "2026-07-31 08:04:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's top foreign-exchange official MIMURA said he has heard various concerns about recent yen weakness."
+    },
+    {
+      "id": "mkt:019fb57c-9e83-7aab-8f20-737d35a3a6b1",
+      "time": "2026-07-31 08:04:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI index surged 14.00% intraday to 6,385.83."
+    },
+    {
+      "id": "mkt:019fb57c-7dbe-7aab-8f20-6983dcaad74a",
+      "time": "2026-07-31 08:04:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Mimura, Japan's top foreign-exchange official, said Japan's contacts on foreign exchange are not limited to the United States."
+    },
+    {
+      "id": "5017897",
+      "time": "2026-07-31 08:03:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SK海力士早盤股價飆升27%，三星電子股價上漲20%。"
+    },
+    {
+      "id": "5017896",
+      "time": "2026-07-31 08:03:43",
+      "tags": [],
+      "text": "SK海力士漲幅擴大至24％，三星電子股價漲超20％。"
+    },
+    {
+      "id": "5017895",
+      "time": "2026-07-31 08:03:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士股價漲幅超20%。"
+    },
+    {
+      "id": "mkt:019fb57b-93a4-7aab-8f20-628287638cc0",
+      "time": "2026-07-31 08:03:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "SK Hynix gains widened to 24%; Samsung Electronics shares rose more than 20%."
+    },
+    {
+      "id": "5017894",
+      "time": "2026-07-31 08:03:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）上漲14%，至6354.20。"
+    },
+    {
+      "id": "5017893",
+      "time": "2026-07-31 08:03:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲逾20%。"
+    },
+    {
+      "id": "mkt:019fb57b-4098-7aab-8f20-5a39010aa9a7",
+      "time": "2026-07-31 08:03:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI index saw early trading gains swiftly widen to 13%."
+    },
+    {
+      "id": "5017892",
+      "time": "2026-07-31 08:02:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本負責外匯事務的最高官員三村淳：我們從美國當局那裡得到的不僅僅是道義上的支援。對未來的計劃不予置評。正與美國當局保持密切溝通。隨時準備採取適當行動。"
+    },
+    {
+      "id": "mkt:019fb57a-fbf0-7aab-8f20-53df26926d5b",
+      "time": "2026-07-31 08:02:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan's top foreign-exchange official Mimura said Japan is keeping close contact with U.S. authorities."
+    },
+    {
+      "id": "mkt:019fb57a-f605-7aab-8f20-4dcb46ec9892",
+      "time": "2026-07-31 08:02:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China releases 15th Five-Year Plan for industrial green, low‑carbon development】The Ministry of Industry and Information Technology said on July 31 it has released the 15th Five-Year Plan for Industrial Green Low-Carbon Development. The plan shifts emphasis from industry-only decarbonization to industry’s role in supporting an economy-wide green transition, and calls for coordinated promotion of industrial greening and green industrialization. It mandates deep implementation of industrial carbon-peak measures: coordinated transformation of industrial and energy-use structures, accelerated electrification and adoption of green energy, stepped-up energy savings and carbon cuts in key sectors, and specific tasks for local carbon assessment, sectoral carbon controls, corporate carbon management, project-level carbon evaluation and product carbon footprinting."
+    },
+    {
+      "id": "mkt:019fb57a-ef6b-7aab-8f20-44b857f9f584",
+      "time": "2026-07-31 08:02:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's top foreign-exchange official MIMURA said he remains prepared to take appropriate action."
+    },
+    {
+      "id": "5017891",
+      "time": "2026-07-31 08:02:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數上漲1%，至9059.80。"
+    },
+    {
+      "id": "mkt:019fb57a-4eec-7aab-8f20-3a8d90de07b8",
+      "time": "2026-07-31 08:01:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mimura, Japan's top foreign-exchange official, declined to comment on our future plans."
+    },
+    {
+      "id": "mkt:019fb57a-01e1-7aab-8f20-33f94820b22f",
+      "time": "2026-07-31 08:01:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's top foreign-exchange official MIMURA said he is maintaining close contact with relevant foreign-exchange supervisory authorities."
+    },
+    {
+      "id": "mkt:019fb579-fa45-7aab-8f20-2f33ec61f6d9",
+      "time": "2026-07-31 08:01:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's top foreign-exchange official Mimura declined to comment on whether authorities had intervened in the currency market."
+    },
+    {
+      "id": "mkt:019fb579-f223-7aab-8f20-22bdba1ff265",
+      "time": "2026-07-31 08:01:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened up 88.42 points, or 0.14%, at 61,955.85 on Friday, July 31."
+    },
+    {
+      "id": "5017890",
+      "time": "2026-07-31 08:01:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省外匯事務最高官員三村淳：對匯率干預不予置評。"
+    },
+    {
+      "id": "mkt:019fb579-6983-7aab-8f20-1b635a6110af",
+      "time": "2026-07-31 08:01:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "【Korean stocks open higher; SK Hynix +18%, Samsung Electronics +15%】South Korea's KOSPI opened 1.1% higher as SK Hynix rallied 18% and Samsung Electronics gained 15% at the open."
+    },
+    {
+      "id": "5017889",
+      "time": "2026-07-31 08:00:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤報5657.79點，上漲1.1%。"
+    },
+    {
+      "id": "5017888",
+      "time": "2026-07-31 08:00:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報61957.10點，漲幅0.14％。韓國綜合股價指數（KOSPI）開盤報5657.79點，上漲1.1％。SK海力士大漲18%，三星電子大漲15%。"
+    },
     {
       "id": "5017887",
       "time": "2026-07-31 08:00:07",
@@ -166056,81 +166275,6 @@
         "國際"
       ],
       "text": "【油價上漲背景下巴西將汽油補貼延長30天】巴西財政部週四釋出宣告稱，受中東衝突升級推高國際油價影響，巴西政府決定延續每升0.44雷亞爾的汽油補貼政策。巴西財政部表示，原定於7月25日到期的汽油補貼，將從7月26日起延長30天。財政部長達里奧・杜裡甘在接受採訪時表示，本次補貼延期的資金將來源於油價走高帶來的政府增收，例如石油特許權使用費。媒體上週援引訊息人士報道，巴西政府當時已計劃延長汽油及柴油補貼。6月末，隨著中東緊張局勢緩和、油價回落，巴西政府曾削減部分柴油補貼，但油價走低的態勢並未持續。目前每升1.12雷亞爾的柴油補貼仍在執行。"
-    },
-    {
-      "id": "5005549",
-      "time": "2026-07-24 08:04:08",
-      "tags": [
-        "宏觀",
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信證券：可再生能源擴量提質 綠氫等非電領域正迎來更有力的政策支撐】中信證券研報稱，2026年7月23日，國家發改委等印發《可再生能源發展“十五五”規劃》，以擴量提質、可靠替代為主線，推動新能源從補充電源轉為電力系統主力電源。《規劃》提出可再生能源消費和裝機在“十五五”時期雙50%增長目標，並明確劃定風光、水電、抽蓄、光熱發電等新增規模；首次新增置信出力、頂峰供電等可靠性考核指標，同步擴容綠氫、地熱等非電應用規模，並落地全行業強制消納考核，形成供需兩端雙向管控。投資層面，風光基地、海上風電、儲能、特高壓及負荷調節資源具備長期配置價值，綠氫等非電領域正迎來更有力的政策支撐；同時，建議關注電力容量市場等領域的改革程序。"
-    },
-    {
-      "id": "mkt:019f916f-b2ba-7aab-8e75-8e53aa93333c",
-      "time": "2026-07-24 08:04:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【UK opens 'Northern Downing Street No.10' in Manchester】The prime minister's office said on the 23rd it has opened a 'Northern Downing Street No.10' in Manchester. The facility, in the city-centre Heron Building, will be a regular workplace for Prime Minister Burnham and other cabinet ministers and will coordinate local economic development and devolution policy. The move is described as an effort to shift economic decision-making away from London. Burnham will chair the restarted National Economic Council's first meeting at the site on the 24th; senior cabinet members and English regional mayors are scheduled to attend. The office said Burnham is expected to work from Manchester on a weekly basis going forward."
-    },
-    {
-      "id": "5005548",
-      "time": "2026-07-24 08:03:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國將燃油稅減免政策延長兩個月至9月底。"
-    },
-    {
-      "id": "5005547",
-      "time": "2026-07-24 08:02:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心稱，熱帶風暴伯莎減弱為熱帶低氣壓。"
-    },
-    {
-      "id": "5005546",
-      "time": "2026-07-24 08:01:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數開盤下跌1.3%，報65584.25點，市場遭遇拋售。"
-    },
-    {
-      "id": "mkt:019f916d-713b-7aab-8e75-87409d6befb1",
-      "time": "2026-07-24 08:01:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "【KOSPI opens 1.5% lower】KOSPI fell to 7,000, down 1.55% intraday. SK Hynix -1.8%, Samsung Electronics -1.4%. South Korean regulators advanced by three days an increase in cash deposit requirements for single-stock leveraged ETF trading."
-    },
-    {
-      "id": "5005545",
-      "time": "2026-07-24 08:01:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率上升1.5個基點，至2.015%。"
-    },
-    {
-      "id": "mkt:019f916d-1cff-7aab-8e75-7af8c9d781d4",
-      "time": "2026-07-24 08:01:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 opened down 831.52 points, or 1.25%, at 65,591.08 on Friday, July 24."
     }
   ]
 }

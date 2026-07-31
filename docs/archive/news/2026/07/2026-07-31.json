@@ -1,7 +1,226 @@
 {
   "date": "2026-07-31",
-  "count": 703,
+  "count": 726,
   "items": [
+    {
+      "id": "mkt:019fb57c-b5a6-7aab-8f20-7b179b0e1c49",
+      "time": "2026-07-31 08:04:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's top foreign-exchange official MIMURA said he has heard various concerns about recent yen weakness."
+    },
+    {
+      "id": "mkt:019fb57c-9e83-7aab-8f20-737d35a3a6b1",
+      "time": "2026-07-31 08:04:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI index surged 14.00% intraday to 6,385.83."
+    },
+    {
+      "id": "mkt:019fb57c-7dbe-7aab-8f20-6983dcaad74a",
+      "time": "2026-07-31 08:04:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Mimura, Japan's top foreign-exchange official, said Japan's contacts on foreign exchange are not limited to the United States."
+    },
+    {
+      "id": "5017897",
+      "time": "2026-07-31 08:03:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SK海力士早盤股價飆升27%，三星電子股價上漲20%。"
+    },
+    {
+      "id": "5017896",
+      "time": "2026-07-31 08:03:43",
+      "tags": [],
+      "text": "SK海力士漲幅擴大至24％，三星電子股價漲超20％。"
+    },
+    {
+      "id": "mkt:019fb57b-93a4-7aab-8f20-628287638cc0",
+      "time": "2026-07-31 08:03:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "SK Hynix gains widened to 24%; Samsung Electronics shares rose more than 20%."
+    },
+    {
+      "id": "5017895",
+      "time": "2026-07-31 08:03:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士股價漲幅超20%。"
+    },
+    {
+      "id": "5017894",
+      "time": "2026-07-31 08:03:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）上漲14%，至6354.20。"
+    },
+    {
+      "id": "5017893",
+      "time": "2026-07-31 08:03:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲逾20%。"
+    },
+    {
+      "id": "mkt:019fb57b-4098-7aab-8f20-5a39010aa9a7",
+      "time": "2026-07-31 08:03:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI index saw early trading gains swiftly widen to 13%."
+    },
+    {
+      "id": "5017892",
+      "time": "2026-07-31 08:02:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本負責外匯事務的最高官員三村淳：我們從美國當局那裡得到的不僅僅是道義上的支援。對未來的計劃不予置評。正與美國當局保持密切溝通。隨時準備採取適當行動。"
+    },
+    {
+      "id": "mkt:019fb57a-fbf0-7aab-8f20-53df26926d5b",
+      "time": "2026-07-31 08:02:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan's top foreign-exchange official Mimura said Japan is keeping close contact with U.S. authorities."
+    },
+    {
+      "id": "mkt:019fb57a-f605-7aab-8f20-4dcb46ec9892",
+      "time": "2026-07-31 08:02:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China releases 15th Five-Year Plan for industrial green, low‑carbon development】The Ministry of Industry and Information Technology said on July 31 it has released the 15th Five-Year Plan for Industrial Green Low-Carbon Development. The plan shifts emphasis from industry-only decarbonization to industry’s role in supporting an economy-wide green transition, and calls for coordinated promotion of industrial greening and green industrialization. It mandates deep implementation of industrial carbon-peak measures: coordinated transformation of industrial and energy-use structures, accelerated electrification and adoption of green energy, stepped-up energy savings and carbon cuts in key sectors, and specific tasks for local carbon assessment, sectoral carbon controls, corporate carbon management, project-level carbon evaluation and product carbon footprinting."
+    },
+    {
+      "id": "mkt:019fb57a-ef6b-7aab-8f20-44b857f9f584",
+      "time": "2026-07-31 08:02:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's top foreign-exchange official MIMURA said he remains prepared to take appropriate action."
+    },
+    {
+      "id": "5017891",
+      "time": "2026-07-31 08:02:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數上漲1%，至9059.80。"
+    },
+    {
+      "id": "mkt:019fb57a-4eec-7aab-8f20-3a8d90de07b8",
+      "time": "2026-07-31 08:01:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mimura, Japan's top foreign-exchange official, declined to comment on our future plans."
+    },
+    {
+      "id": "mkt:019fb57a-01e1-7aab-8f20-33f94820b22f",
+      "time": "2026-07-31 08:01:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's top foreign-exchange official MIMURA said he is maintaining close contact with relevant foreign-exchange supervisory authorities."
+    },
+    {
+      "id": "mkt:019fb579-fa45-7aab-8f20-2f33ec61f6d9",
+      "time": "2026-07-31 08:01:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's top foreign-exchange official Mimura declined to comment on whether authorities had intervened in the currency market."
+    },
+    {
+      "id": "mkt:019fb579-f223-7aab-8f20-22bdba1ff265",
+      "time": "2026-07-31 08:01:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened up 88.42 points, or 0.14%, at 61,955.85 on Friday, July 31."
+    },
+    {
+      "id": "5017890",
+      "time": "2026-07-31 08:01:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省外匯事務最高官員三村淳：對匯率干預不予置評。"
+    },
+    {
+      "id": "mkt:019fb579-6983-7aab-8f20-1b635a6110af",
+      "time": "2026-07-31 08:01:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "【Korean stocks open higher; SK Hynix +18%, Samsung Electronics +15%】South Korea's KOSPI opened 1.1% higher as SK Hynix rallied 18% and Samsung Electronics gained 15% at the open."
+    },
+    {
+      "id": "5017889",
+      "time": "2026-07-31 08:00:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤報5657.79點，上漲1.1%。"
+    },
+    {
+      "id": "5017888",
+      "time": "2026-07-31 08:00:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報61957.10點，漲幅0.14％。韓國綜合股價指數（KOSPI）開盤報5657.79點，上漲1.1％。SK海力士大漲18%，三星電子大漲15%。"
+    },
     {
       "id": "5017887",
       "time": "2026-07-31 08:00:07",
