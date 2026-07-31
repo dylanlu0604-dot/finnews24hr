@@ -1,7 +1,15 @@
 {
   "date": "2026-08-01",
-  "count": 122,
+  "count": 123,
   "items": [
+    {
+      "id": "mkt:019fb947-5be7-7aab-8f3c-57ef170aebce",
+      "time": "2026-08-01 01:44:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Serbian state TV said Serbia has again received a US sanctions waiver for its Russian-owned oil company NIS."
+    },
     {
       "id": "te:economy:571844",
       "time": "2026-08-01 01:42:12",
