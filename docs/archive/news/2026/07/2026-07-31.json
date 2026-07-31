@@ -1,7 +1,133 @@
 {
   "date": "2026-07-31",
-  "count": 2629,
+  "count": 2643,
   "items": [
+    {
+      "id": "mkt:019fb7e0-7ef5-7aab-8f33-b1f8be11c480",
+      "time": "2026-07-31 19:12:50",
+      "tags": [
+        "MKT News",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. National Highway Traffic Safety Administration (NHTSA) opened an investigation into suspension failures affecting 1.2 million Tesla (TSLA.O) vehicles."
+    },
+    {
+      "id": "5019239",
+      "time": "2026-07-31 19:11:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：訊息人士透露，特朗普兒子埃裡克·特朗普支援的防禦技術公司Space-Eyes將透過一項價值6.38億美元的特殊目的收購公司(SPAC)交易上市。"
+    },
+    {
+      "id": "mkt:019fb7df-3dd2-7aab-8f33-a9354e26a1a3",
+      "time": "2026-07-31 19:11:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Sources said Eric Trump-backed defense technology company Space-Eyes will list via a $638 million SPAC transaction."
+    },
+    {
+      "id": "5019238",
+      "time": "2026-07-31 19:10:32",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "李強主持召開國務院常務會議，決定核准遼寧莊河一期工程等四個核電專案。（央視）"
+    },
+    {
+      "id": "5019237",
+      "time": "2026-07-31 19:10:29",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "李強主持召開國務院常務會議，審議透過《國務院關於修改〈住房公積金管理條例〉的決定（草案）》和《國務院關於修改和廢止部分行政法規的決定（草案）》。（央視）"
+    },
+    {
+      "id": "5019236",
+      "time": "2026-07-31 19:10:25",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "李強主持召開國務院常務會議，聽取新型電網、物流網建設情況彙報。(央視新聞)"
+    },
+    {
+      "id": "mkt:019fb7de-3f32-7aab-8f33-a1e5d679e29c",
+      "time": "2026-07-31 19:10:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese President Aoun met a senior Palestinian delegation on Friday to discuss preparations for upcoming Palestinian elections, the situation of Palestinian refugees in Lebanon and developments in the occupied Palestinian territories, the Wafa news agency reported."
+    },
+    {
+      "id": "5019235",
+      "time": "2026-07-31 19:10:21",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "李強主持召開國務院常務會議，聽取新型電網、物流網建設情況彙報。 (央視新聞)"
+    },
+    {
+      "id": "mkt:019fb7dd-eb85-7aab-8f33-9f2a65b57fa7",
+      "time": "2026-07-31 19:10:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "CCTV reported Premier Li Qiang chaired a State Council executive meeting that approved four nuclear power projects, including the Liaoning Zhuanghe Phase I project."
+    },
+    {
+      "id": "5019234",
+      "time": "2026-07-31 19:09:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨就休達局勢發表講話：我們正就此與西班牙政府保持聯絡。"
+    },
+    {
+      "id": "mkt:019fb7dd-bebc-7aab-8f33-90a8b7f5f0b9",
+      "time": "2026-07-31 19:09:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CCTV: Premier Li Qiang chaired a State Council executive meeting that reviewed and approved draft decisions to amend China’s Regulations on Housing Provident Fund Management and to amend and abolish certain administrative regulations."
+    },
+    {
+      "id": "5019233",
+      "time": "2026-07-31 19:09:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "默茨：預計摩洛哥將遣返非法移民。"
+    },
+    {
+      "id": "5019232",
+      "time": "2026-07-31 19:09:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新特電氣：控股股東等提前終止減持計劃 未減持公司股份】新特電氣公告稱，公司控股股東、實際控制人及其一致行動人譚勇、宗麗麗、李淑芹和宗寶峰合計持股202,193,432股，佔總股本54.19%。原計劃自6月25日起十五個交易日後的三個月內減持不超11,193,700股，佔總股本3%。近日，基於對公司未來發展前景的信心和對公司長期投資價值的認可，上述股東決定提前終止減持計劃，且未減持公司股份。"
+    },
+    {
+      "id": "5019231",
+      "time": "2026-07-31 19:09:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨就休達局勢表態：保護歐盟外部邊界對打擊非法移民至關重要。"
+    },
     {
       "id": "mkt:019fb7dc-dc41-7aab-8f33-8fe38effe575",
       "time": "2026-07-31 19:08:52",
