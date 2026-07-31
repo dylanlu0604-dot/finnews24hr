@@ -1,7 +1,82 @@
 {
-  "updated": "2026-07-31 20:48:00",
-  "count": 17954,
+  "updated": "2026-07-31 20:51:51",
+  "count": 17947,
   "items": [
+    {
+      "id": "5019450",
+      "time": "2026-07-31 20:50:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍位於得克薩斯州帕薩迪納的煉油廠報告，廠區內發生的醫療事件已解除警報。"
+    },
+    {
+      "id": "5019449",
+      "time": "2026-07-31 20:50:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯穀物出口商與生產商聯盟：從黑海盆地採購穀物的最貧困國家將面臨饑荒。"
+    },
+    {
+      "id": "5019448",
+      "time": "2026-07-31 20:50:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： IONQ 完成收購 SkyWater Technology。"
+    },
+    {
+      "id": "5019447",
+      "time": "2026-07-31 20:49:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥：正在研判英國上報的環孢子蟲病例資訊。"
+    },
+    {
+      "id": "mkt:019fb838-f415-7aab-8f36-1f93a190d581",
+      "time": "2026-07-31 20:49:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "MediaTek's board approved a bond issuance program of up to $5 bln to fund supply‑chain expansion."
+    },
+    {
+      "id": "mkt:019fb838-5739-7aab-8f36-157b871d1c44",
+      "time": "2026-07-31 20:48:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Grain Exporters and Producers Union says the crisis' consequences will affect many countries in the near term."
+    },
+    {
+      "id": "5019446",
+      "time": "2026-07-31 20:48:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基要求下週公佈出口多元化措施清單。"
+    },
+    {
+      "id": "5019445",
+      "time": "2026-07-31 20:48:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯穀物出口商與生產商聯盟：本次危機的影響將在不久的未來波及多國。"
+    },
+    {
+      "id": "5019444",
+      "time": "2026-07-31 20:47:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶萊特：寶萊轉債8月3日起停牌並暫停轉股】寶萊特公告稱，因控股股東正籌劃控制權變更事項，有關事項尚不確定，經申請，公司股票（證券簡稱：寶萊特，證券程式碼：300246）和可轉換公司債券（債券簡稱：寶萊轉債，債券程式碼：123065）自2026年8月3日開市起停牌，預計不超2個交易日。“寶萊轉債”停牌期間暫停轉股，公司將按規定披露進展，確定後將申請復牌和恢復轉股。"
+    },
     {
       "id": "5019443",
       "time": "2026-07-31 20:47:22",
@@ -166076,147 +166151,6 @@
         "Importance 1"
       ],
       "text": "US Natgas Prices Rebound — US natural gas futures climbed above $2.95 per MMBtu, extending their rebound from a two-month low as forecasts for hotter weather boosted expectations of stronger cooling demand. Meteorologists expect temperatures to remain mostly above normal through August 7, likely increasing natural gas consumption by power generators as air conditioning use rises. However, gains were capped by ample supply conditions. EIA data showed gas inventories were 6.4% above the five-year seasonal average as of July 17, while production in the Lower 48 states increased to an average of 110.4 bcfd so far in July, up from 110.0 bcfd in June. LNG export demand also eased, with gas flows to major export terminals averaging 17.4 bcfd so far this month, slightly below June's pace, partly due to scheduled maintenance at Freeport LNG's Texas facility. Meanwhile, Tropical Storm Bertha is being closely monitored as it could disrupt LNG export operations along the US Gulf Coast."
-    },
-    {
-      "id": "5007103",
-      "time": "2026-07-24 20:51:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國運通首席財務官在電話會議上表示，預計全年信貸指標整體保持穩定。"
-    },
-    {
-      "id": "te:economy:569780",
-      "time": "2026-07-24 20:51:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Building Permits",
-        "Importance 1"
-      ],
-      "text": "US Building Permits Fall Less than Initially Thought in June — US building permits fell 2.6% month over month to a seasonally adjusted annual rate of 1.374 million in June 2026, according to final data, slightly above the preliminary estimate of 1.367 million. Despite the upward revision, permit issuance remained at a three-month low, highlighting persistent weakness in the housing market as elevated mortgage rates and a growing inventory of unsold new homes continue to weigh on construction activity. Permits for multifamily buildings with five or more units declined 3.1% to 502,000, while single-family permits dropped 2.2% to 872,000, their lowest level in ten months. Regionally, permitting activity decreased in the South (-7.1% to 708,000) and the West (-4.3% to 308,000), while the Midwest (5.2% to 203,000) and the Northeast (16.5% to 155,000) recorded gains."
-    },
-    {
-      "id": "5007102",
-      "time": "2026-07-24 20:51:15",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "德國商業銀行經濟學家Michael Pfister：結束美伊衝突的協議即使對歐元區經濟有利，也不一定預示著歐元走勢良好。如果油價因衝突降溫而下跌，市場可能會不再計入對歐洲央行加息的預期。"
-    },
-    {
-      "id": "mkt:019f942e-13b0-7aab-8e88-baf95978c98d",
-      "time": "2026-07-24 20:51:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Salemi, head of Yemen's national negotiation delegation, urged fair measures to ensure Yemen's security, sovereignty and independence."
-    },
-    {
-      "id": "mkt:019f942d-fc51-7aab-8e88-b427ef724734",
-      "time": "2026-07-24 20:51:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Yemen's national negotiation delegation chief Salemi said Saudi Arabia's maritime blockade will continue until the blockade on Yemen ends."
-    },
-    {
-      "id": "mkt:019f942d-9d63-7aab-8e88-adb0f1c07c8b",
-      "time": "2026-07-24 20:50:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemen's chief negotiator Salemi said Saudi Arabia rejected a fair solution to the crisis."
-    },
-    {
-      "id": "mkt:019f942d-86cc-7aab-8e88-a67687d81a96",
-      "time": "2026-07-24 20:50:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Head of Yemen's national negotiating delegation, Salemi, said the move was a response to Saudi Arabia's 12-year blockade of Yemen."
-    },
-    {
-      "id": "5007101",
-      "time": "2026-07-24 20:50:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "高知特與海灣邊緣宣佈達成戰略合作伙伴關係，以推動東南亞地區企業人工智慧應用落地。"
-    },
-    {
-      "id": "5007100",
-      "time": "2026-07-24 20:50:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "威瑞森執行長表示：我們已簽署其他多項交易，未來幾年這些交易將帶來數十億美元的收入，我們預計將在年底前公佈這些交易。"
-    },
-    {
-      "id": "mkt:019f942d-4a27-7aab-8e88-9df69f7d27c0",
-      "time": "2026-07-24 20:50:23",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Yemen national negotiating delegation head Salemi said the Yemeni armed forces' position is limited to a \"maritime blockade\" against Saudi Arabia."
-    },
-    {
-      "id": "5007099",
-      "time": "2026-07-24 20:50:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門全國談判代表團團長薩爾米：此次行動是對沙特長達12年封鎖葉門的回應。呼籲採取公平方案，保障葉門的安全、主權與獨立。"
-    },
-    {
-      "id": "5007098",
-      "time": "2026-07-24 20:50:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門全國談判代表團團長薩爾米：沙特拒絕化解危機的公平解決方案。"
-    },
-    {
-      "id": "5007097",
-      "time": "2026-07-24 20:50:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門全國談判代表團團長薩爾米：針對沙特的海上封鎖將持續至沙特解除對葉門的封鎖為止。"
-    },
-    {
-      "id": "mkt:019f942c-df5f-7aab-8e88-908310f959b8",
-      "time": "2026-07-24 20:49:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemen's national negotiating delegation head Salemi said the Bab al-Mandeb Strait is not closed, contrary to some reports."
-    },
-    {
-      "id": "5007096",
-      "time": "2026-07-24 20:49:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "泛歐交易所9月小麥期貨下跌5.6%，報每噸229.5歐元；目前市場流傳未經證實的傳言稱，烏克蘭正研究相關機制維持黑海港口的執行，這給小麥價格帶來了下行壓力。"
-    },
-    {
-      "id": "5007095",
-      "time": "2026-07-24 20:48:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "威瑞森執行長：已與谷歌簽署協議，協議價值超10億美元，谷歌將使用威瑞森的暗纖連線其資料中心。"
     }
   ]
 }
