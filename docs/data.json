@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-01 01:32:40",
-  "count": 17982,
+  "updated": "2026-08-01 01:36:35",
+  "count": 17980,
   "items": [
+    {
+      "id": "mkt:019fb93e-d9cd-7aab-8f3c-3e5fc8db7893",
+      "time": "2026-08-01 01:35:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "ICE data for the week to July 28: speculators cut Brent crude net longs by 6,948 contracts to 185,083. Diesel net longs rose 2,654 contracts to 87,194."
+    },
+    {
+      "id": "5019793",
+      "time": "2026-08-01 01:33:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟各國大使將於週一舉行會議，討論西班牙移民問題。"
+    },
     {
       "id": "5019792",
       "time": "2026-08-01 01:30:50",
@@ -166499,46 +166519,6 @@
         "CNH"
       ],
       "text": "【China's mission to EU urges immediate correction after EU lists Chinese firms in 21st Russia sanctions round】On July 24 China's mission to the EU said the EU added Chinese firms to its 21st round of sanctions on Russia despite repeated Chinese objections. China said it is strongly dissatisfied and firmly opposed, has lodged stern representations and taken measures to protect the legitimate rights of its companies, and urged the EU to immediately correct the action."
-    },
-    {
-      "id": "mkt:019f9532-1c4b-7aab-8e8d-9fa093b8fbc0",
-      "time": "2026-07-25 01:35:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Bahrain, Kuwait reportedly carried out air strikes inside Iran】Sources told the Wall Street Journal that Bahrain and Kuwait secretly dispatched warplanes to carry out air strikes inside Iran, the first time either country has taken such direct retaliatory action. The strikes earlier this month reportedly targeted drone and missile storage facilities. The UAE provided targeting intelligence and defensive air cover, indicating closer Arab military cooperation against Iran."
-    },
-    {
-      "id": "5007444",
-      "time": "2026-07-25 01:35:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "截至 7 月 21 日當週，洲際交易所柴油投機多頭淨持倉增加 12665 手，升至 84540 手。\n洲際交易所布倫特原油投機資金淨多頭持倉增加 22192 手，至 192031 手。"
-    },
-    {
-      "id": "5007443",
-      "time": "2026-07-25 01:34:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：參議院必須在8月夏季休假開始之前批准預算解決方案。"
-    },
-    {
-      "id": "te:economy:569836",
-      "time": "2026-07-25 01:32:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Calendar",
-        "Importance 2"
-      ],
-      "text": "Week Ahead - Jul 27th — The conflict between the US and Iran will remain in the spotlight as signs that talks could restart weighed against repeated strikes and naval blockades against vessels crossing maritime chokepoints, lifting energy prices and global inflation. Earnings by major companies should also dictate equity movements, including Apple, Microsoft, Amazon, Meta, and Samsung. Meanwhile, the Federal Reserve will set its July policy decision. This coincides with Q2 GDP data and the income and outlays report. Other US data includes CB consumer confidence, the trade balance, and employment costs. Similarly, the Bank of England will set its Bank Rate and the Eurozone is set to release GDP and inflation data. A busy week in Asia will be headlined by the Bank of Japan rate decision, while statistical authorities share industrial production, retail sales, and unemployment. The Chinese Communist Party will host its July Politburo meeting as a mid-year checkup. China will also post PMIs."
     }
   ]
 }

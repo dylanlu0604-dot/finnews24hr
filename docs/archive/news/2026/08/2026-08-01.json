@@ -1,7 +1,27 @@
 {
   "date": "2026-08-01",
-  "count": 115,
+  "count": 117,
   "items": [
+    {
+      "id": "mkt:019fb93e-d9cd-7aab-8f3c-3e5fc8db7893",
+      "time": "2026-08-01 01:35:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "ICE data for the week to July 28: speculators cut Brent crude net longs by 6,948 contracts to 185,083. Diesel net longs rose 2,654 contracts to 87,194."
+    },
+    {
+      "id": "5019793",
+      "time": "2026-08-01 01:33:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟各國大使將於週一舉行會議，討論西班牙移民問題。"
+    },
     {
       "id": "5019792",
       "time": "2026-08-01 01:30:50",
