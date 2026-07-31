@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-01 01:40:25",
+  "updated": "2026-08-01 01:44:19",
   "count": 17978,
   "items": [
+    {
+      "id": "te:economy:571844",
+      "time": "2026-08-01 01:42:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - Aug 3rd — The start of August will see the war between Iran and the US continue to uphold the uncertainty in global energy prices, and consequently, the inflation outlook. This is in tandem with volatility in the AI trade, to be updated with results from SpaceX and AMD. A busy week of economic data will be headlined by the US jobs report and other labor data in the JOLTS and ADP report. ISM PMIs, factory orders, and the trade balance will also be featured for updates on industry and tariffs. In Europe, industrial production among the largest Eurozone states will unveil the impact of higher power costs, while Germany will post its trade balance. PMI results and the trade balance are awaited in China. Meanwhile, Japan will release wage data, and industry surveys are due in Australia. Interest rate decisions will take place in Brazil and India. Elsewhere, OPEC+ members will convene and discuss oil output quotas for the year."
+    },
+    {
+      "id": "mkt:019fb943-fa83-7aab-8f3c-4b452f76e9a1",
+      "time": "2026-08-01 01:41:07",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY hit an intraday low, down over 0.7% on the day at 158.32."
+    },
+    {
+      "id": "5019795",
+      "time": "2026-08-01 01:41:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理：義大利支援歐盟支援西班牙的倡議。"
+    },
     {
       "id": "5019794",
       "time": "2026-08-01 01:38:01",
@@ -166464,34 +166494,6 @@
         "META.O"
       ],
       "text": "【Meta adds Gmail and Google Calendar access to AI assistant via Muse Spark 1.1】Meta Platforms (META.O) said its AI assistant, powered by the Muse Spark 1.1 model, can now access Google Calendar and Gmail to produce daily briefings, assist research and support tasks such as home redecoration. The upgrade is part of CEO Mark Zuckerberg’s push for a “personal superintelligence” and follows an AI-positive publicity campaign this week. Meta cautioned its AI capabilities remain weaker than rivals; OpenAI, Anthropic and Google continue to offer agent systems that handle broader task sets and run autonomously for longer."
-    },
-    {
-      "id": "5007446",
-      "time": "2026-07-25 01:44:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "SpaceX股價勢將跌至自IPO以來的最低收盤價，現跌約4.5%，報113美元。"
-    },
-    {
-      "id": "mkt:019f9539-face-7aab-8e8d-c7ff9d8603c8",
-      "time": "2026-07-25 01:43:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SPCX.O",
-        "Impact bearish"
-      ],
-      "text": "SpaceX (SPCX.O) shares are poised to close at their lowest level since the IPO, down about 4.5% at $113."
-    },
-    {
-      "id": "5007445",
-      "time": "2026-07-25 01:41:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行首席經濟學家Lane將9月視為利率走向的下一個關鍵時刻】歐洲央行首席經濟學家Philip Lane表示，歐洲央行將在9月份評估其政策立場，並可能作出調整。Lane在愛爾蘭多尼戈爾參加一個小組討論時表示，在校準利率時，決策者將根據陸續公佈的資料作出回應。他認為，歐元區經濟主要受到內需支撐，並稱美國並不是全球貿易中的主導力量。Lane在回答歐洲央行如何應對其面臨的地緣政治挑戰時表示：“我們的工作更多是作出反應。”他補充說，歐洲央行的應對將“既不過度反應，也不反應不足”。"
     }
   ]
 }

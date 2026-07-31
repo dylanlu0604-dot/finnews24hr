@@ -1,7 +1,37 @@
 {
   "date": "2026-08-01",
-  "count": 119,
+  "count": 122,
   "items": [
+    {
+      "id": "te:economy:571844",
+      "time": "2026-08-01 01:42:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - Aug 3rd — The start of August will see the war between Iran and the US continue to uphold the uncertainty in global energy prices, and consequently, the inflation outlook. This is in tandem with volatility in the AI trade, to be updated with results from SpaceX and AMD. A busy week of economic data will be headlined by the US jobs report and other labor data in the JOLTS and ADP report. ISM PMIs, factory orders, and the trade balance will also be featured for updates on industry and tariffs. In Europe, industrial production among the largest Eurozone states will unveil the impact of higher power costs, while Germany will post its trade balance. PMI results and the trade balance are awaited in China. Meanwhile, Japan will release wage data, and industry surveys are due in Australia. Interest rate decisions will take place in Brazil and India. Elsewhere, OPEC+ members will convene and discuss oil output quotas for the year."
+    },
+    {
+      "id": "mkt:019fb943-fa83-7aab-8f3c-4b452f76e9a1",
+      "time": "2026-08-01 01:41:07",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY hit an intraday low, down over 0.7% on the day at 158.32."
+    },
+    {
+      "id": "5019795",
+      "time": "2026-08-01 01:41:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理：義大利支援歐盟支援西班牙的倡議。"
+    },
     {
       "id": "5019794",
       "time": "2026-08-01 01:38:01",
