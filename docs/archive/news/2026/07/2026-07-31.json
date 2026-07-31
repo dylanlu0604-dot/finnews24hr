@@ -1,7 +1,66 @@
 {
   "date": "2026-07-31",
-  "count": 2954,
+  "count": 2960,
   "items": [
+    {
+      "id": "mkt:019fb841-9af7-7aab-8f36-36033ca1c8ce",
+      "time": "2026-07-31 20:58:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude oil up 2.00% intraday at $84.31/bbl."
+    },
+    {
+      "id": "5019461",
+      "time": "2026-07-31 20:57:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破86美元/桶，日內漲3.42%。"
+    },
+    {
+      "id": "5019460",
+      "time": "2026-07-31 20:57:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲3%，現報86.45美元/桶。"
+    },
+    {
+      "id": "mkt:019fb83f-713b-7aab-8f36-2f6d7d367fd2",
+      "time": "2026-07-31 20:56:33",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Gaza roadmap: the deadline for executing the second phase can be extended. Hamas and other factions agreed to hand civil and security functions to an administrative committee and not to interfere with the committee’s affairs during the transition. An international committee will monitor any violations by either side using an enhanced monitoring mechanism."
+    },
+    {
+      "id": "5019459",
+      "time": "2026-07-31 20:56:33",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "中金公司在香港舉辦首屆啟航沙龍，推出國際資產託管服務。"
+    },
+    {
+      "id": "5019458",
+      "time": "2026-07-31 20:55:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院國資委：深化央企“人工智慧+”專項行動 因企制宜培育新興產業和未來產業】7月31日，國務院國資委黨委召開擴大會議。會議強調，國資央企要堅決把思想和行動統一到黨中央對當前經濟形勢的科學判斷和經濟工作部署上來，清醒把握當前形勢，進一步堅定信心決心，用好各種機遇和優勢，全力以赴提質增效穩增長，堅決完成全年目標任務，推動中央企業高質量發展行穩致遠。要指導中央企業主動對接和帶頭落實好國家政策，抓住重點、主動作為，充分發揮引領帶動作用，更好助推經濟持續向新向優向好發展。要錨定全年目標不動搖，切實加強現場督導調研，把中央企業生產經營情況摸清摸透，找準痛點、對症下藥，夯實企業高質量發展基礎。要著力推進原始創新和關鍵核心技術攻關，以更大力度加強基礎研究，深化央企“人工智慧+”專項行動，因企制宜培育新興產業和未來產業。要持續深化提質增效，做好重點領域內卷治理，推進全產業鏈、全價值鏈降本節支，增強經營創現能力和資本積累積聚能力，以“自身穩”帶動“行業穩”。要堅決守住風險底線，有效發揮司庫體系功能作用，切實加強穿透監管，紮實抓好防汛救災和安全生產工作，築牢高質量發展的安全屏障。"
+    },
     {
       "id": "5019457",
       "time": "2026-07-31 20:54:58",
