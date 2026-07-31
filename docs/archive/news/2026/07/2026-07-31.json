@@ -1,7 +1,83 @@
 {
   "date": "2026-07-31",
-  "count": 1466,
+  "count": 1474,
   "items": [
+    {
+      "id": "mkt:019fb6c2-2df9-7aab-8f27-880d0e59d6cb",
+      "time": "2026-07-31 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Nationwide House Price Index (YoY) (Jul) | actual 1.8% | consensus 1.90% | previous 2.20%"
+    },
+    {
+      "id": "mkt:019fb6c2-2df7-7aab-8f27-81133db620da",
+      "time": "2026-07-31 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Nationwide House Price Index (MoM) (Jul) | actual 0.1% | consensus 0.10% | previous 0.00%"
+    },
+    {
+      "id": "5018394",
+      "time": "2026-07-31 13:59:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海閔行：“十五五”期間力爭生物醫藥產值年均增長9%左右】上海市閔行區人民政府印發《虹橋國際中央商務區（閔行部分）“十五五”規劃》。其中提出，培育高質量創新發展新動力。現代化產業體系基本成型，生物醫藥產值年均增長9%左右，累計引育長三角製造業研發機構200家，其中高能級企業研發機構80家，“虹橋研發+長三角製造+全球應用”協同正規化成為全國標杆。科創策源與產業轉化功能進一步強化，成為培育新質生產力的核心動力源。"
+    },
+    {
+      "id": "5018393",
+      "time": "2026-07-31 13:59:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "村田社長：資料中心總支出不會大幅下降。"
+    },
+    {
+      "id": "te:economy:571527",
+      "time": "2026-07-31 13:59:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kenya",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Kenya Inflation Rate Edges Up to 6.5% — The annual inflation rate in Kenya edged up to 6.5% in July 2026 from 6.4% in the previous month, remaining above the midpoint of the central bank's 2.5%-7.5% target range for a third consecutive period. The main upward pressure came from transport prices, which rose 15.6% year-on-year, reflecting the pass-through effects of earlier fuel price increases despite unchanged pump prices during the mid-month review. Food and non-alcoholic beverage inflation also remained elevated at 9.0%. Meanwhile, core inflation, which excludes selected volatile items, accelerated slightly to 3.2% from 3.1% in June, pointing to growing underlying price pressures."
+    },
+    {
+      "id": "5018392",
+      "time": "2026-07-31 13:58:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【華福證券任志強：政策組合拳的輪廓更加清晰】中共中央政治局7月30日召開會議，分析研究當前經濟形勢，部署下半年經濟工作。華福證券總裁助理兼研究所所長任志強接受採訪時表示，下半年宏觀政策或將進入存量加速與增量加力的共振視窗期，新舊動能轉換有望提速，資本市場改革預期升溫。“本次政治局會議的政策定調更加積極，政策組合拳的輪廓更加清晰。”任志強說，政策底進一步夯實。會議明確“加大逆週期調節力度”，宏觀政策從“穩”向“進”的轉變訊號明確，有助於提振市場信心、改善市場預期。其次，“加快推動新舊動能轉換”的提法意味著產業轉型升級的政策力度或將進一步加大，新質生產力方向是中長期最具確定性的投資主線。同時，內需鏈條有望邊際改善。隨著財政加快支出、貨幣適度寬鬆、“六張網”加速落地，基建投資鏈、服務消費鏈有望迎來階段性修復機會。此外，資本市場改革預期升溫，後續資本市場投融資改革的推進值得期待。 （證券時報）"
+    },
+    {
+      "id": "te:markets:571523",
+      "time": "2026-07-31 13:57:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Reverses Morning Gains, but Posts Monthly Gain — New Zealand's stocks dropped 64 points, or 0.5%, to 13,699 on Friday, extending losses from the previous session, as traders continued profit-taking after the index hit a third consecutive record high, mainly weighed down by communication services, consumer staples, and real estate. A rebound in the global technology sector was offset by a contraction in China's manufacturing sector, New Zealand's top trading partner. Traders were also cautious ahead of the release of New Zealand's unemployment data due next week. However, the latest data helped limit the decline, as New Zealand's consumer confidence hit a five-month high, while moderating oil prices eased inflation concerns and tempered expectations of an interest rate hike. Among the worst performers were A2 Milk (-2.6%), Ryman Healthcare (-2.3%), Chorus (-2.0%), and Ebos Group (-1.0%). For the week, the index fell 0.2%, while posting a 0.6% increase for the month, marking the sixth straight monthly gain."
+    },
+    {
+      "id": "5018391",
+      "time": "2026-07-31 13:55:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【申能財險獲批開展保險資金境外投資業務】上海金融監管局官網顯示，批覆同意申能財險開展保險資金境外投資業務，用於該公司申請的境外資產。"
+    },
     {
       "id": "5018390",
       "time": "2026-07-31 13:54:28",
