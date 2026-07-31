@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-01 01:20:44",
-  "count": 17984,
+  "updated": "2026-08-01 01:24:43",
+  "count": 17983,
   "items": [
+    {
+      "id": "mkt:019fb932-1995-7aab-8f3c-2c2c8073809c",
+      "time": "2026-08-01 01:21:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior Gaza Peace Committee official told i24News on Friday that under the proposed Gaza framework, Israel’s obligations would be limited to later phases and reversible. Implementation is conditional on Hamas and other armed groups first fulfilling security commitments."
+    },
+    {
+      "id": "5019790",
+      "time": "2026-08-01 01:20:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "泰達幣發行人Tether的黃金儲備在6月末達到188億美元，（按當時現貨價格）等同於146噸（金條）。"
+    },
     {
       "id": "mkt:019fb92d-c137-7aab-8f3c-2639d78a7f8f",
       "time": "2026-08-01 01:16:51",
@@ -166540,33 +166556,6 @@
         "S&P500"
       ],
       "text": "【Trump threatens high tariffs on EU, seeks revocation of fines on U.S. tech firms】U.S. President Trump said the EU has imposed discriminatory fines on American tech companies, citing Apple $15bln, Meta $3bln, Amazon $2.5bln and a new $1bln penalty on Google that he said brings Google’s total to over $18bln. He said the administration will immediately open a Section 301 investigation into the EU’s treatment of U.S. firms, seek revocation of the fines and expects to impose substantial tariffs on EU goods in short order."
-    },
-    {
-      "id": "5007440",
-      "time": "2026-07-25 01:22:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "Claude：根據我們的自動化行為審計結果，Opus 5 是迄今為止我們安全對齊程度最高的模型。與我們的其他模型相比，它表現出最低的魯莽或欺騙性行為發生率，並且在遵循 Claude 憲章（Claude’s Constitution）方面表現最為出色。Opus5在網路安全任務上比Opus 4.8更強。但在開發漏洞方面，仍然遠遠落後於Mythos 5。它的安全措施旨在幫助開發者識別和修復軟體漏洞，同時阻止高風險使用。"
-    },
-    {
-      "id": "mkt:019f9526-b0ae-7aab-8e8d-7bc6880fabcc",
-      "time": "2026-07-25 01:22:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Claude: OPUS 5 outperforms OPUS 4.8 on cybersecurity tasks but still trails MYTHOS 5 by a wide margin on exploit development. Its safety measures are designed to help developers identify and patch software vulnerabilities while blocking high-risk uses."
-    },
-    {
-      "id": "mkt:019f9525-b396-7aab-8e8d-7122772c47b2",
-      "time": "2026-07-25 01:21:43",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【China foreign minister Wang Yi meets Iranian foreign minister Alaghezi】China foreign minister Wang Yi met Iran foreign minister Alaghezi on July 24 in Kyrgyzstan at the SCO foreign ministers' meeting. China said the recent renewed escalation in the Gulf is a source of deep concern and said the memorandum of understanding signed just over a month ago is a valuable product of multilateral mediation that should not be discarded. China urged keeping negotiation channels open, returning to implementation of the MoU consensus and persisting with talks while there is hope for peace. As a comprehensive strategic partner, China said it will continue to support Pakistan and other parties’ mediation efforts to restore direct dialogue and properly address issues in and around the Strait of Hormuz."
     }
   ]
 }

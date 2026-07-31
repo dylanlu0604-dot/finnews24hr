@@ -1,7 +1,23 @@
 {
   "date": "2026-08-01",
-  "count": 110,
+  "count": 112,
   "items": [
+    {
+      "id": "mkt:019fb932-1995-7aab-8f3c-2c2c8073809c",
+      "time": "2026-08-01 01:21:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior Gaza Peace Committee official told i24News on Friday that under the proposed Gaza framework, Israel’s obligations would be limited to later phases and reversible. Implementation is conditional on Hamas and other armed groups first fulfilling security commitments."
+    },
+    {
+      "id": "5019790",
+      "time": "2026-08-01 01:20:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "泰達幣發行人Tether的黃金儲備在6月末達到188億美元，（按當時現貨價格）等同於146噸（金條）。"
+    },
     {
       "id": "mkt:019fb92d-c137-7aab-8f3c-2639d78a7f8f",
       "time": "2026-08-01 01:16:51",
