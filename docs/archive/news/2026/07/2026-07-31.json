@@ -1,7 +1,112 @@
 {
   "date": "2026-07-31",
-  "count": 1050,
+  "count": 1061,
   "items": [
+    {
+      "id": "te:economy:571433",
+      "time": "2026-07-31 10:04:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Private Sector Credit",
+        "Importance 1"
+      ],
+      "text": "Australia Private Credit Grows the Most in Six Months — Australia's private sector credit rose 0.8% month-over-month in June 2026, quickening slightly from 0.7% growth recorded in each of the previous three months and marking the fastest expansion since December. Business credit increased 1.1%, the strongest gain in six months, up from 1.0% in May, supported by continued corporate borrowing and investment activity. Personal credit rose 0.8%, accelerating from 0.6% and posting its strongest monthly increase since December 2009, suggesting firmer household demand for consumer and other personal loans. Meanwhile, housing credit held steady at 0.6% for a sixth consecutive month, indicating resilient mortgage lending despite still-elevated borrowing costs. On an annual basis, private sector credit grew 8.5%, up from 8.3% in May and marking the strongest yearly expansion since October 2022, reflecting sustained demand for credit across households and businesses."
+    },
+    {
+      "id": "mkt:019fb5e9-d85e-7aab-8f23-bbe34414cb3a",
+      "time": "2026-07-31 10:03:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "LSEG data showed USD/KRW rose 0.8% to 1,434.90."
+    },
+    {
+      "id": "5018105",
+      "time": "2026-07-31 10:03:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“十五五”規劃109項重大工程加快實施】今天上午，國家發展改革委舉行7月份新聞釋出會。國家發展改革委新聞發言人表示，當前，“十五五”規劃109項重大工程加快實施。今年新開工了三峽水運新通道、廣州新機場、福建上白石水利樞紐等一批重大工程專案，新藏鐵路東西路段、四川都江堰灌區現代化改造等專案前期工作正在加快推進，爭取儘早開工建設、形成實物工作量。"
+    },
+    {
+      "id": "5018104",
+      "time": "2026-07-31 10:02:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中央安全生產考核巡查組在河北明查暗訪】近期，中央安全生產考核巡查組進駐各地，紮實推進第二、三季度安全生產明查暗訪工作，從嚴從實從細深挖各類安全風險隱患。相較於以往，本次明查暗訪時間更長、力度更大，時間從7天延長到15天，同時強調對典型重大事故隱患倒查責任，核實後嚴肅追責問責。本輪明查暗訪還首次開展監管執法問題專項檢查，嚴肅查處安全生產非法違法和弄虛作假等行為，以及安全生產領域風腐等突出問題。"
+    },
+    {
+      "id": "mkt:019fb5e8-6ed9-7aab-8f23-b70a9e1dc789",
+      "time": "2026-07-31 10:02:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O",
+        "GOOGL.O"
+      ],
+      "text": "OpenAI's head of applied research said GPT-5.6 Luna is expected to see broader use; given rapid model progress, its costs are extremely low and its speed very fast."
+    },
+    {
+      "id": "5018103",
+      "time": "2026-07-31 10:01:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴州省自然資源廳黨委委員劉雲成接受審查調查】中央紀委國家監委網站7月31日通報，據貴州省紀委監委訊息：貴州省自然資源廳黨委委員、省紀委監委派駐省自然資源廳紀檢監察組組長劉雲成涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5018102",
+      "time": "2026-07-31 10:01:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴州省貴陽市委常委、秘書長劉本立接受審查調查】中央紀委國家監委網站7月31日通報，據貴州省紀委監委訊息：貴州省貴陽市委常委、秘書長劉本立涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5018101",
+      "time": "2026-07-31 10:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月1日起，涉及腦機介面等488項國家標準將實施】8月1日起，488項國家標準開始實施，包括46項強制性國家標準和442項推薦性國家標準。其中，相關產品能源消耗限額、黃河流域用水定額、家用太陽能熱水系統、腦機介面、數字孿生、北斗應用、光伏發電系統、綠色產品評價、旅遊服務等重要國家標準，將為引領和規範新興產業及未來產業的發展、促進環境保護和綠色發展、提升人民群眾的生活品質、助力國民經濟高質量發展等提供標準支撐。（新華社）"
+    },
+    {
+      "id": "mkt:019fb5e6-d3ad-7aab-8f23-aa02f3d482da",
+      "time": "2026-07-31 10:00:31",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share gas-turbine concept sector firmed amid volatile trade; Longda Co. jumped over 11%, Jereh and Liande rose more than 9%, while Feiwo Technology, Yingliu, Boyingte Welding, Tunan and Qilun Technology also advanced."
+    },
+    {
+      "id": "5018100",
+      "time": "2026-07-31 10:00:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量2905億元。"
+    },
+    {
+      "id": "5018099",
+      "time": "2026-07-31 10:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡6月M2貨幣供應量同比增長4.024%。"
+    },
     {
       "id": "mkt:019fb5e6-664f-7aab-8f23-a33a99b05e75",
       "time": "2026-07-31 10:00:03",

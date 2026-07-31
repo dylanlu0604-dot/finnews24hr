@@ -1,7 +1,112 @@
 {
-  "updated": "2026-07-31 10:00:42",
-  "count": 18032,
+  "updated": "2026-07-31 10:04:37",
+  "count": 18033,
   "items": [
+    {
+      "id": "te:economy:571433",
+      "time": "2026-07-31 10:04:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Private Sector Credit",
+        "Importance 1"
+      ],
+      "text": "Australia Private Credit Grows the Most in Six Months — Australia's private sector credit rose 0.8% month-over-month in June 2026, quickening slightly from 0.7% growth recorded in each of the previous three months and marking the fastest expansion since December. Business credit increased 1.1%, the strongest gain in six months, up from 1.0% in May, supported by continued corporate borrowing and investment activity. Personal credit rose 0.8%, accelerating from 0.6% and posting its strongest monthly increase since December 2009, suggesting firmer household demand for consumer and other personal loans. Meanwhile, housing credit held steady at 0.6% for a sixth consecutive month, indicating resilient mortgage lending despite still-elevated borrowing costs. On an annual basis, private sector credit grew 8.5%, up from 8.3% in May and marking the strongest yearly expansion since October 2022, reflecting sustained demand for credit across households and businesses."
+    },
+    {
+      "id": "mkt:019fb5e9-d85e-7aab-8f23-bbe34414cb3a",
+      "time": "2026-07-31 10:03:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "LSEG data showed USD/KRW rose 0.8% to 1,434.90."
+    },
+    {
+      "id": "5018105",
+      "time": "2026-07-31 10:03:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“十五五”規劃109項重大工程加快實施】今天上午，國家發展改革委舉行7月份新聞釋出會。國家發展改革委新聞發言人表示，當前，“十五五”規劃109項重大工程加快實施。今年新開工了三峽水運新通道、廣州新機場、福建上白石水利樞紐等一批重大工程專案，新藏鐵路東西路段、四川都江堰灌區現代化改造等專案前期工作正在加快推進，爭取儘早開工建設、形成實物工作量。"
+    },
+    {
+      "id": "5018104",
+      "time": "2026-07-31 10:02:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中央安全生產考核巡查組在河北明查暗訪】近期，中央安全生產考核巡查組進駐各地，紮實推進第二、三季度安全生產明查暗訪工作，從嚴從實從細深挖各類安全風險隱患。相較於以往，本次明查暗訪時間更長、力度更大，時間從7天延長到15天，同時強調對典型重大事故隱患倒查責任，核實後嚴肅追責問責。本輪明查暗訪還首次開展監管執法問題專項檢查，嚴肅查處安全生產非法違法和弄虛作假等行為，以及安全生產領域風腐等突出問題。"
+    },
+    {
+      "id": "mkt:019fb5e8-6ed9-7aab-8f23-b70a9e1dc789",
+      "time": "2026-07-31 10:02:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O",
+        "GOOGL.O"
+      ],
+      "text": "OpenAI's head of applied research said GPT-5.6 Luna is expected to see broader use; given rapid model progress, its costs are extremely low and its speed very fast."
+    },
+    {
+      "id": "5018103",
+      "time": "2026-07-31 10:01:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴州省自然資源廳黨委委員劉雲成接受審查調查】中央紀委國家監委網站7月31日通報，據貴州省紀委監委訊息：貴州省自然資源廳黨委委員、省紀委監委派駐省自然資源廳紀檢監察組組長劉雲成涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5018102",
+      "time": "2026-07-31 10:01:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴州省貴陽市委常委、秘書長劉本立接受審查調查】中央紀委國家監委網站7月31日通報，據貴州省紀委監委訊息：貴州省貴陽市委常委、秘書長劉本立涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5018101",
+      "time": "2026-07-31 10:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月1日起，涉及腦機介面等488項國家標準將實施】8月1日起，488項國家標準開始實施，包括46項強制性國家標準和442項推薦性國家標準。其中，相關產品能源消耗限額、黃河流域用水定額、家用太陽能熱水系統、腦機介面、數字孿生、北斗應用、光伏發電系統、綠色產品評價、旅遊服務等重要國家標準，將為引領和規範新興產業及未來產業的發展、促進環境保護和綠色發展、提升人民群眾的生活品質、助力國民經濟高質量發展等提供標準支撐。（新華社）"
+    },
+    {
+      "id": "mkt:019fb5e6-d3ad-7aab-8f23-aa02f3d482da",
+      "time": "2026-07-31 10:00:31",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share gas-turbine concept sector firmed amid volatile trade; Longda Co. jumped over 11%, Jereh and Liande rose more than 9%, while Feiwo Technology, Yingliu, Boyingte Welding, Tunan and Qilun Technology also advanced."
+    },
+    {
+      "id": "5018100",
+      "time": "2026-07-31 10:00:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量2905億元。"
+    },
+    {
+      "id": "5018099",
+      "time": "2026-07-31 10:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡6月M2貨幣供應量同比增長4.024%。"
+    },
     {
       "id": "mkt:019fb5e6-664f-7aab-8f23-a33a99b05e75",
       "time": "2026-07-31 10:00:03",
@@ -166626,101 +166731,6 @@
         "公司"
       ],
       "text": "雲知聲：執行長已從公開市場購入價值400萬港元的股份，另一位董事從公開市場購入價值110萬港元的股份。"
-    },
-    {
-      "id": "5005735",
-      "time": "2026-07-24 10:04:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【先進封裝概念震盪反彈，朗迪集團漲停】先進封裝概念震盪反彈，朗迪集團漲停，光力科技、通富微電、芯碁微裝、深科技、華天科技、甬矽電子等跟漲。"
-    },
-    {
-      "id": "5005734",
-      "time": "2026-07-24 10:04:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【優必選在鹽城成立智慧機器人公司】企查查APP顯示，近日，優必選（鹽城）智慧機器人有限公司成立，經營範圍包含人工智慧理論與演算法軟體開發；人工智慧應用軟體開發；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由優必選（09880.HK）全資持股。"
-    },
-    {
-      "id": "mkt:019f91dc-e565-7aab-8e77-e04a213c579e",
-      "time": "2026-07-24 10:03:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "【SK Hynix, Samsung and Kioxia face earnings test amid AI-driven market volatility】SK Hynix and Samsung Electronics head into results that will test storage-chip demand; Korea's stock market has become a barometer for AI sentiment but leveraged positions in chip trades have amplified volatility. Kioxia will also report and must address a share-price collapse that cut its market value by about half in recent weeks, underscoring persistent volatility as some investors worry the AI rally is overextended. HSBC analysts say rising HBM prices and the roll-out of higher-priced HBM4 should support Samsung and SK Hynix earnings and help allay concerns of an H2 profit slowdown."
-    },
-    {
-      "id": "5005733",
-      "time": "2026-07-24 10:03:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼基準股指早盤下跌1.4%，至6,227.406點。"
-    },
-    {
-      "id": "te:markets:569481",
-      "time": "2026-07-24 10:02:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Fall on Tariff Concerns — The Shanghai Composite fell 0.6% to 3,853 on Friday, while the Shenzhen Component lost 0.6% to 14,041, reversing the previous session’s gains as fresh US tariffs dampened market sentiment. Washington announced duties of 10%–12.5% on imports from most major trading partners as part of President Trump’s renewed tariff push, with Chinese goods facing a 12.5% levy. Limiting losses, the People's Bank of China said it would inject a net CNY 500 billion into the banking system through a one-year MLF operation, following CNY 700 billion in liquidity added earlier this month via outright reverse repos. The move marks the largest medium- to long-term liquidity injection since February and is aimed at supporting growth ahead of the late-July Politburo meeting. Among the biggest laggards were Foxconn Industrial Internet (-3%), Zijin Mining Group (-4.8%), Zhongji Innolight (-1.9%), and Eoptolink Technology (-2.2%). Despite Friday’s retreat, both indexes remained on track for weekly gains."
-    },
-    {
-      "id": "5005732",
-      "time": "2026-07-24 10:01:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【河南廣播電視臺原黨組書記、臺長，河南廣電傳媒控股集團有限責任公司原黨委書記、董事長王仁海接受紀律審查和監察調查】據河南省紀委監委訊息：河南廣播電視臺原黨組書記、臺長，河南廣電傳媒控股集團有限責任公司原黨委書記、董事長王仁海涉嫌嚴重違紀違法，目前正接受河南省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "te:markets:569479",
-      "time": "2026-07-24 10:01:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Fall as Middle East Tensions Weigh — The Hang Seng Index slipped 1.3%, or 324 points, to 24,877 on Friday, giving back part of the previous session's gains as surging oil prices and renewed geopolitical tensions dampened investor sentiment. Brent crude climbed above $100 a barrel for the first time in two months after intensified Houthi attacks on vessels in the Red Sea heightened supply concerns, while President Donald Trump's threat to expand strikes on Iran added to market uncertainty. The risk-off mood was reinforced by a technology-led selloff on Wall Street and higher US Treasury yields, fueling expectations that the Federal Reserve could keep interest rates elevated for longer. Limiting the decline, China's central bank injected the most liquidity into the financial system in five months through its medium-term lending facility, boosting hopes of further policy support for economic growth. Notable laggards included Tencent (-2.2%), AIA (-1.5%), Xiaomi (-0.7%), Meituan (-2.0%), and Kingboard Laminates (-2.7%)."
-    },
-    {
-      "id": "5005731",
-      "time": "2026-07-24 10:01:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "老鋪黃金股價下跌6.3%至367.40港元，領跌恒生指數。"
-    },
-    {
-      "id": "5005730",
-      "time": "2026-07-24 10:01:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界鋼鐵協會：6月全球粗鋼產量同比增長1.7%】世界鋼鐵協會發布資料，2026年6月全球70個納入世界鋼鐵協會統計國家/地區的粗鋼產量為1.557億噸，同比增長1.7%。其中，中國粗鋼產量為8367萬噸，同比增長0.4%。"
-    },
-    {
-      "id": "5005729",
-      "time": "2026-07-24 10:00:58",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【公安部：強治理護民安促發展 全力服務保障“十五五”開局起步】今天（24日）上午，國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，公安部相關負責人介紹強治理護民安促發展，全力服務保障“十五五”開局起步有關情況，並回答記者提問。“十五五”時期是我國基本實現社會主義現代化夯實基礎、全面發力的關鍵時期。全國公安機關以高效能治理促進高水平安全和高質量發展良性互動，為以中國式現代化全面推進強國建設、民族復興偉業提供堅強安全保障。今年上半年，我國刑事案件、治安案件數分別同比下降16.5%、11.3%，社會穩定形勢持續向好，“中國式安全感”成為海外社交平臺的熱門話題。"
     }
   ]
 }
