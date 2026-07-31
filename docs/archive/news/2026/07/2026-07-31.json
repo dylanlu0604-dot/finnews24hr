@@ -1,7 +1,218 @@
 {
   "date": "2026-07-31",
-  "count": 1856,
+  "count": 1877,
   "items": [
+    {
+      "id": "5018685",
+      "time": "2026-07-31 15:56:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大眾交通：郭紅英辭任公司財務總監職務，聘任蔣贇為副總經理、財務總監】大眾交通7月31日公告，公司董事會於近日收到公司財務總監郭紅英提交的離任報告，郭紅英因已屆退休年齡申請辭去財務總監職務，離任後不再擔任公司任何職務。根據執行長（CEO）提名，經公司董事會提名委員會、審計委員會審議透過，公司於2026年7月31日召開第十一屆董事會第十五次會議，審議透過了《關於財務總監退休離任暨聘任副總經理、財務總監的議案》，同意聘任蔣贇擔任公司副總經理、財務總監，任期自2026年8月1日起至第十一屆董事會任期屆滿之日止。"
+    },
+    {
+      "id": "5018684",
+      "time": "2026-07-31 15:56:19",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "財政部擬於8月5日第三次續發行2026年超長期特別國債（四期）。本次續發行國債為30年期固定利率附息債，競爭性招標面值總額730億元，不進行甲類成員追加投標。本次續發行國債票面利率與之前發行的同期國債相同，為2.23%。"
+    },
+    {
+      "id": "5018683",
+      "time": "2026-07-31 15:56:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "佛瑞亞執行長：歡迎大眾汽車削減車型和零部件多樣化的計劃，這將降低體系複雜度。"
+    },
+    {
+      "id": "5018682",
+      "time": "2026-07-31 15:56:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST京化：預計2026年半年度扣非淨利潤2000萬元到2600萬元】*ST京化公告，公司釋出2026年半年度業績預告更正公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為4000萬元到4800萬元，與上年同期相比將實現扭虧為盈；預計歸屬於母公司所有者的扣除非經常性損益後的淨利潤為2000萬元到2600萬元。更正前預計扣非淨利潤為3200萬元到3800萬元。本次更正系因公司重大資產重組構成同一控制下企業合併，置入資產南京工藝期初至合併日的當期淨損益應計入非經常性損益所致。"
+    },
+    {
+      "id": "mkt:019fb72b-f963-7aab-8f2d-1b9cf134537f",
+      "time": "2026-07-31 15:55:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kioxia CFO says he opposes heavy capital spending to chase market share."
+    },
+    {
+      "id": "mkt:019fb72b-c3e1-7aab-8f2d-132558af8bc0",
+      "time": "2026-07-31 15:55:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany July seasonally adjusted unemployment rose by 6,000, versus a 5,000 increase expected; June was -1,000."
+    },
+    {
+      "id": "5018681",
+      "time": "2026-07-31 15:55:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【仙琚製藥：炔雌醇環丙孕酮片透過仿製藥一致性評價】仙琚製藥公告稱，公司近日收到國家藥監局核准簽發的炔雌醇環丙孕酮片《藥品補充申請批准通知書》，該藥品透過仿製藥質量和療效一致性評價。此藥主要用於治療育齡女性雄激素敏感所致的中重度痤瘡及/或多毛等。透過評價有利於鞏固和提升產品競爭力、積累後續評價經驗，但藥品研發等受政策和市場影響，有不確定性，提醒投資者注意風險。"
+    },
+    {
+      "id": "mkt:019fb72b-9aba-7aab-8f2d-0a0dc7d41be7",
+      "time": "2026-07-31 15:55:15",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany July seasonally adjusted total unemployed 2.993 mln, prior 2.984 mln."
+    },
+    {
+      "id": "mkt:019fb72b-8cc4-7aab-8f2d-06c39897dc35",
+      "time": "2026-07-31 15:55:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Germany July seasonally unadjusted total unemployed 3.007 mln; previous 2.936 mln."
+    },
+    {
+      "id": "mkt:019fb72b-8cb0-7aab-8f2c-fadb9d56a075",
+      "time": "2026-07-31 15:55:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany July seasonally adjusted unemployment rate 6.4%, vs 6.3% expected and 6.3% prior — 10bps upside surprise."
+    },
+    {
+      "id": "5018680",
+      "time": "2026-07-31 15:55:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國7月失業率 6.4%，預期 6.3%，前值 6.3%。德國7月失業人數變動 0.6萬人，預期 0.5萬人，前值 -0.1萬人。"
+    },
+    {
+      "id": "mkt:019fb72b-6972-7aab-8f2c-f6043b0c8aca",
+      "time": "2026-07-31 15:55:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【CGN Ningde 200 MW offshore PV project fully grid-connected】China General Nuclear (CGN) Ningde’s 200 MW offshore solar PV project has reached full-capacity grid connection. The project, among Fujian’s first offshore PV developments and CGN’s first nuclear–solar co-located offshore PV installation, includes 200 MW of installed capacity and a 20 MW/40 MWh battery storage system. Over a 25-year operating life it is expected to produce about 300 mln kWh annually, equivalent to roughly 91,300 tonnes of standard coal saved and about 198,000 tonnes of CO2 avoided per year."
+    },
+    {
+      "id": "mkt:019fb72b-5dbd-7aab-8f2c-eb524db2edd9",
+      "time": "2026-07-31 15:55:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Total Unemployed (Jul) | actual 3007000K | previous 2936000K"
+    },
+    {
+      "id": "mkt:019fb72b-5d65-7aab-8f2c-e77bf13cca01",
+      "time": "2026-07-31 15:55:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Total Unemployed SA (Jul) | actual 2993000K | previous 2984000K"
+    },
+    {
+      "id": "mkt:019fb72b-5d64-7aab-8f2c-db66357f863b",
+      "time": "2026-07-31 15:55:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Unemployment Rate SA (Jul) | actual 6.4% | consensus 6.30% | previous 6.30%"
+    },
+    {
+      "id": "mkt:019fb72b-5d55-7aab-8f2c-d3cff211e846",
+      "time": "2026-07-31 15:55:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Unemployment Change SA (Jul) | actual 6000K | consensus 5000K | previous -1000K"
+    },
+    {
+      "id": "5018679",
+      "time": "2026-07-31 15:54:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【申昊科技等成立新公司 含智慧機器人銷售業務】企查查APP顯示，近日，上海智競星途企業發展有限公司成立，法定代表人為汪紅賓，經營範圍包含：電子產品銷售；日用品銷售；玩具銷售；智慧機器人銷售；工業機器人銷售；工業機器人安裝、維修等。企查查股權穿透顯示，該公司由申昊科技、杭州洋天機器人科技有限公司等共同持股。"
+    },
+    {
+      "id": "te:economy:571611",
+      "time": "2026-07-31 15:54:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Personal Spending",
+        "Importance 0"
+      ],
+      "text": "Thailand Personal Spending Rises at a Faster Pace — Private consumption in Thailand increased by 1.1% month-on-month in June 2026, accelerating from 0.6% in the previous month. It marked the second straight month of growth, driven mainly by stronger spending on non-durable goods amid higher consumer goods sales following government stimulus measures, as well as improved fuel consumption as retail fuel prices declined and sales returned closer to normal levels. Spending on durable goods also strengthened, supported by higher motorcycle registrations and passenger car sales, partly reflecting growing consumer interest in electric vehicles. Consumption of semi-durable goods also advanced, supported by higher imports of textiles and apparel. In contrast, spending on services weakened, particularly at hotels and restaurants, in line with softer tourism activity. Meanwhile, consumer confidence improved, buoyed by government measures and easing concerns over tensions in the Middle East."
+    },
+    {
+      "id": "5018678",
+      "time": "2026-07-31 15:54:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國能源集團ENGIE執行長：我們目前有總裝機容量4吉瓦的資料中心專案協議處於推進後期階段，其中部分專案預計將在未來12個月內落地。"
+    },
+    {
+      "id": "te:economy:571610",
+      "time": "2026-07-31 15:53:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Private Investment",
+        "Importance 0"
+      ],
+      "text": "Thailand Private Investment Eases in June — Private investment in Thailand increased by 0.5% month-on-month in June 2026, easing from a 1.2% increase in the previous month, marking the softest monthly increase since January 2025. Despite the moderation, investment remained supported by continued spending on machinery and equipment, driven by stronger exports of technology-related products amid the global electronics upcycle. Ongoing investment in data centers and digital infrastructure also sustained capital expenditure. Meanwhile, electric vehicle (EV) sales increased as elevated fuel prices and shifting consumer preferences boosted demand, encouraging investment across the EV supply chain. Construction activity edged up overall, supported by industrial and commercial projects despite cautious business sentiment and tighter financial conditions."
+    },
+    {
+      "id": "5018677",
+      "time": "2026-07-31 15:53:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞寶藥業：全資子公司取得鹽酸左西替利嗪口服溶液藥品註冊證書】亞寶藥業公告稱，其全資子公司亞寶藥業四川製藥有限公司收到國家藥監局核准簽發的鹽酸左西替利嗪口服溶液兩個規格《藥品註冊證書》。該藥品適用於多種過敏症狀，可用於6個月以上人群。2025年國內銷售金額4.61億元。截至公告日，國內除公司外有27家企業獲註冊批文，公司已投入研發費用500.60萬元，後續將推進生產及銷售，但存在不確定性。"
+    },
     {
       "id": "5018676",
       "time": "2026-07-31 15:53:04",
