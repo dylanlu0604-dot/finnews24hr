@@ -1,7 +1,152 @@
 {
   "date": "2026-07-31",
-  "count": 2001,
+  "count": 2017,
   "items": [
+    {
+      "id": "mkt:019fb746-71f2-7aab-8f2e-3c8ebfbca420",
+      "time": "2026-07-31 16:24:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Hong Kong close: Hang Seng +0.1%; AI recent listings surge】After four straight gains Hong Kong opened slightly lower and the Hang Seng Index briefly dipped below its 250-day moving average, falling as much as 235 points to an intraday low of 25,622 after opening down 21 at 25,837, before recovering to close up 0.1%; July gain now >13%. The Hang Seng Tech Index closed up 0.53%, nearly +8% in July. Market turnover was HKD 328.17 bln. Storage names, AI recent listings and PCB stocks led a sharp rebound; brain‑computer interface, electronic components and commercial aerospace also rallied. Alcoholic beverages, consumer electronics and mainland-traded shares corrected; autos, paper and dairy weakened intraday. Leveraged 2x long products tracking SK hynix (07709.HK) and Samsung Electronics (07747.HK) jumped about 67.5% and 48% respectively; Zhipu (02513.HK) +14.5%, MiniMax (00100.HK) +13%, Laopu Gold (06181.HK) +10%; Xiaomi (01810.HK) -7%, Budweiser APAC (01876.HK) -6.5%."
+    },
+    {
+      "id": "te:economy:571634",
+      "time": "2026-07-31 16:24:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Taiwan",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Taiwan Q2 GDP Growth Loses Momentum — Taiwan’s economy expanded 12.92% year-on-year in the second quarter of 2026, beating market expectations of 10.8% but slowing from a multi-decade high of 14.55% in the previous quarter, preliminary estimates showed. The latest reading marked the weakest economic growth since Q3 2025, as external demand lost momentum, with exports of goods and services growth easing to 21.64% from 35.76% in Q1, while imports slowed to 18.27% from 26.34%. Meanwhile, domestic demand strengthened, supported by firmer household consumption, which rose to 5.88% from 4.74% previously, and gross capital formation, which accelerated to 15.14% from 5.92%. In contrast, government spending moderated to 3.22% from 4.06%. On a seasonally adjusted quarterly basis, Taiwan’s economy grew 2.39% in Q2 2026, accelerating from 1.69% growth in the first quarter."
+    },
+    {
+      "id": "5018773",
+      "time": "2026-07-31 16:24:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天益醫療：董事會秘書李孟良離任 董事長吳志敏代行職責】天益醫療公告稱，公司副總經理、董事會秘書李孟良因個人原因辭職，不再擔任公司及控股子公司任何職務，原定任期至2028年12月4日。其辭職報告送達董事會之日起生效，且不影響公司正常執行。截至公告披露日，李孟良未持股，無未履行承諾事項，已完成交接。在聘任新董秘前，由董事長吳志敏代行職責，公司將盡快完成後續聘任工作。"
+    },
+    {
+      "id": "5018772",
+      "time": "2026-07-31 16:24:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宜通世紀：中標超1.11億元廣東移動機房配套施工服務專案】宜通世紀公告稱，公司成為中國行動通訊集團廣東有限公司2026年至2028年通訊接入機房配套施工服務公開招標採購專案份額六中標單位，折扣前中選金額為1.11億元（含稅），服務區域包括深圳寶安區、惠州惠城區等。服務期自合同簽訂之日起至2028年8月31日。若順利實施，對公司業務量增長和業績有積極影響。不過，公司尚未籤正式合同，存在不確定性。"
+    },
+    {
+      "id": "5018771",
+      "time": "2026-07-31 16:24:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【領益智造：終止參與富通嘉善重整投資事項】領益智造公告，公司此前擬透過控股子公司參與富通集團（嘉善）通訊技術有限公司重整投資，已繳納報名保證金人民幣5000萬元並開展盡職調查。因盡職調查時間有限，中介機構無法及時出具報告，公司無法對標的資產做出合理價值判斷，經審慎研究，決定終止參與富通嘉善重整投資事項。本次終止不會對公司日常經營、財務狀況和經營成果產生重大不利影響。"
+    },
+    {
+      "id": "5018770",
+      "time": "2026-07-31 16:23:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中馬各界探討人工智慧賦能經貿合作新機遇】2026陸海財經論壇7月30日在馬來西亞首都吉隆坡舉行。中國和馬來西亞政商界、學術界代表圍繞人工智慧賦能產業升級、推動經貿合作展開交流，探討中馬及中國—東盟經貿合作新機遇。(新華社)"
+    },
+    {
+      "id": "5018769",
+      "time": "2026-07-31 16:23:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遼寧能源：增補董事任長宏並聘任李華女士為財務總監】遼寧能源公告稱，公司7月31日召開第十二屆董事會第二次會議，同意提名任長宏為第十二屆董事會董事候選人，任期自股東會審議透過至2029年6月30日；聘任李華女士為財務總監，任期自董事會審議透過至2029年6月30日。截至目前，二人未直接持股，與相關方無關聯關係，符合任職條件。"
+    },
+    {
+      "id": "5018768",
+      "time": "2026-07-31 16:23:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中原地產：香港二手房價格按周下跌0.4%】中原地產在網站上表示，在7月20日至26日當週，衡量香港二手房價格的中原城市領先指數按周下跌0.4%，至159.92。"
+    },
+    {
+      "id": "5018767",
+      "time": "2026-07-31 16:23:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Arm Holdings盤前漲5.03%，現報253.68美元】Arm Holdings盤前漲5.03%，現報253.68美元。訊息面上，Arm第一財季業績超預期並披露資料中心版稅收入同比翻倍以上，強化AI資料中心業務增長預期。"
+    },
+    {
+      "id": "5018766",
+      "time": "2026-07-31 16:22:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國長征火箭成立龍擎宇航技術公司】企查查APP顯示，近日，北京龍擎宇航技術有限公司成立，經營範圍包含：火箭發射裝置研發和製造；民用航天發射技術服務；火箭控制系統研發；特種裝置設計等。企查查股權穿透顯示，該公司由中國長征火箭有限公司全資持股。"
+    },
+    {
+      "id": "5018765",
+      "time": "2026-07-31 16:22:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "深交所：2026年7月31日，蘇州綠控傳動科技股份有限公司（簡稱：綠控傳動）披露招股書，擬於近期在深市發行新股並上市。"
+    },
+    {
+      "id": "mkt:019fb744-43c6-7aab-8f2e-36546f1e9fb9",
+      "time": "2026-07-31 16:22:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【KOSPI surges 18% in record single-day gain as 'gamification' fuels volatility】South Korea's KOSPI closed Friday up 18%, its largest single-day gain on record, reversing a three-day decline. LSEG data show five of the index's ten biggest single-day rallies have occurred since March, and three of the four largest single-day drops in the past decade occurred in the last five weeks. KB Financial strategist Peter S. Kim said market 'gamification' is producing sharp moves driven more by news and momentum than fundamentals, posing a significant challenge for policymakers. BNP Paribas analyst William Bratton said volatility is likely to remain elevated and Korea is central to debates over the sustainability of an AI-driven tech supercycle."
+    },
+    {
+      "id": "5018764",
+      "time": "2026-07-31 16:22:02",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【股市“遊戲化”波動，KOSPI史詩級暴漲18%】韓國KOSPI指數週五收盤上漲18%，大幅扭轉了此前三天的下跌趨勢，創下有史以來單日最大漲幅。根據LSEG的資料，歷史上KOSPI指數十大單日漲幅中有五次發生在三月以來，而過去十年中四大單日跌幅中有三次出現在最近五週內。“股市的遊戲化導致了劇烈波動，這種波動更多源於新聞動態和潮流，而非基本面因素，”KB金融集團全球戰略師彼得·S·金表示。對政策制定者而言，這種波動已成為一個重大難題。韓國市場的快速興衰使得該市場被稱為“魷魚遊戲”市場，這一名稱源自該國廣受歡迎的反烏托邦生存驚悚劇集，劇中絕望的人物為爭奪金錢而訴諸暴力。“我們預計市場波動仍將居高不下。”法國巴黎銀行分析師威廉·布拉頓表示，韓國正成為圍繞人工智慧驅動的科技超級週期可持續性問題討論的核心。"
+    },
+    {
+      "id": "5018763",
+      "time": "2026-07-31 16:21:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【日本央行行長會議要點彙總】 \n①關於政策調整和加息節奏：行長植田和男總體基調偏鷹派，承諾將繼續提高借貸成本，並強調如果判定金融條件過於寬鬆，可能會加快加息步伐。但他也指出，需要評估此前緊縮政策的影響。\n②關於通脹前景：植田和男強調，通脹現在已非常接近2%的目標，價格上行風險加大。\n③關於經濟增長：需要特別關注中東局勢發展，全球AI需求有助於提振日本經濟。\n④關於日元走勢：匯率變動對價格的影響現在比以前更大，必須更密切地監控上行價格風險。"
+    },
+    {
+      "id": "5018762",
+      "time": "2026-07-31 16:21:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【超威半導體美股盤前漲超4%】超威半導體美股盤前漲超4%，現報504.98美元。"
+    },
+    {
+      "id": "te:markets:571633",
+      "time": "2026-07-31 16:20:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Posts Best Month Since February — The FTSE 100 climbed more than 0.5% on Friday to a fresh record high near 10,970, putting the index on track for a weekly gain of around 2.2% and a monthly advance of roughly 4.5%, its strongest performance since February. Investors continued to monitor weaker oil prices and renewed volatility in semiconductor stocks. NatWest jumped nearly 4% after raising its full-year guidance and announcing plans for a share buyback alongside its 2026 annual results. J Sainsbury gained more than 3% after agreeing to sell its Argos business to Swift Partners for at least £120 million. On the downside, Pearson fell almost 4% despite reaffirming its outlook, while IG Group dropped over 5% after announcing a deal worth up to $1.3 billion to acquire US sports prediction platform Underdog. IAG lost around 1.6% after missing revenue estimates and warning of higher fuel costs and prolonged Middle East route suspensions."
+    },
     {
       "id": "te:economy:571632",
       "time": "2026-07-31 16:20:29",
