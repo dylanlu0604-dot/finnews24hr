@@ -1,7 +1,51 @@
 {
   "date": "2026-08-01",
-  "count": 183,
+  "count": 188,
   "items": [
+    {
+      "id": "5019834",
+      "time": "2026-08-01 03:20:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥小麥期貨週五跌超3.8%，7月份累漲約8.3%】週五（7月31日）紐約尾盤，彭博穀物分類指數跌1.57%，報31.0762點，本週累計下跌5.26%，7月份累計上漲5.65%，7月1-24日持續上揚、最高達到33.3899點，隨後逐步回吐漲幅。CBOT玉米期貨跌1.01%，報4.6375美元/蒲式耳，本週累跌4.87%，7月份累漲6.36%。CBOT小麥期貨跌3.84%，報6.38美元/蒲式耳，本週累跌5.90%，7月份累漲8.27%。CBOT大豆期貨跌0.04%，報11.8825美元/蒲式耳，本週累跌5.21%，7月份累漲3.89%，豆粕期貨累漲5.87%，豆油期貨累漲2.60%。"
+    },
+    {
+      "id": "mkt:019fb99d-f9da-7aab-8f3c-f12951700ad0",
+      "time": "2026-08-01 03:19:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRNA reported an Iraqi armed forces spokesman said the government has ordered heightened alert and combat-readiness at all barracks and military bases."
+    },
+    {
+      "id": "mkt:019fb99d-2629-7aab-8f3c-ebc1536b412b",
+      "time": "2026-08-01 03:18:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【5.2 magnitude earthquake off central Chile coast】A magnitude 5.2 earthquake struck off the coast of Chile's Coquimbo Region at 13:48 local time on July 31, with a focal depth of 30 km, the University of Chile Seismology Center said. No tsunami warning has been issued."
+    },
+    {
+      "id": "5019833",
+      "time": "2026-08-01 03:18:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "Integer股票恢復交易，大漲21%。"
+    },
+    {
+      "id": "5019832",
+      "time": "2026-08-01 03:17:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智利中部沿海地區發生5.2級地震】根據智利大學地震中心報告，當地時間7月31日13時48分，智利科金博大區沿海地區發生5.2級地震，震源深度30公里。目前暫無海嘯預警報告。（央視）"
+    },
     {
       "id": "te:economy:571849",
       "time": "2026-08-01 03:16:32",
