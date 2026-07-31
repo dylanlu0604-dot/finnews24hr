@@ -1,7 +1,159 @@
 {
   "date": "2026-07-31",
-  "count": 1082,
+  "count": 1098,
   "items": [
+    {
+      "id": "mkt:019fb5f5-1561-7aab-8f24-13c0807d526f",
+      "time": "2026-07-31 10:16:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "TM.N",
+        "Impact bearish"
+      ],
+      "text": "Nikkei reports Toyota Motor Corp (TM.N) plans to extend suspension of production at its Fukuoka plant following the Kumamoto earthquake."
+    },
+    {
+      "id": "5018127",
+      "time": "2026-07-31 10:15:51",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【發改委：“六張網”建設要突出“多網協同、軟硬協同、場景協同”】7月31日，國家發展改革委政策研究室主任、新聞發言人蔣毅在新聞釋出會上表示，規劃建設“六張網”是有效擴大國內需求的重大舉措，在各方共同努力下，一大批專案正在抓緊開工。下一步，國家發展改革委將會同有關方面突出“多網協同、軟硬協同、場景協同”，細化落實具體方案。一是注重一體統籌佈局，多網協同推進；二是注重實現高效應用，解決實際問題，堅持問題導向和目標導向，把錢花在刀刃上；三是注重打通堵點卡點，提升治理水平。"
+    },
+    {
+      "id": "5018126",
+      "time": "2026-07-31 10:15:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "中際旭創A股成交額超300億元，現漲9.95%。"
+    },
+    {
+      "id": "te:economy:571442",
+      "time": "2026-07-31 10:15:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Full Year GDP Growth",
+        "Importance 1"
+      ],
+      "text": "China Politburo Vows Fiscal Push, Signals No Broad Easing — China’s Politburo on Thursday signaled it will continue leaning on existing policy tools rather than rolling out sweeping stimulus, stressing the need to “fully use” current measures. While no major easing appears imminent, leaders pledged stronger countercyclical adjustments and “pragmatic, effective” steps when appropriate, without offering a timetable. Fiscal spending and bond proceeds will be accelerated to spur demand and optimize supply, alongside support for breakthroughs in advanced technologies, future industries, and emerging sectors. The leadership also reiterated commitments to stabilize property, safeguard jobs, tackle local debt risks, reform smaller banks, and deepen capital-market changes. The cautious stance was widely expected after Beijing trimmed its 2026 growth target to 4.5%–5%, even as Q2 delivered the weakest quarterly expansion in more than three years."
+    },
+    {
+      "id": "te:markets:571441",
+      "time": "2026-07-31 10:15:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: Japanese Yen Depreciates by 0.64% — Top currency losers are Japanese Yen (-0.64%) and South Korean Won (-0.63%). Meanwhile Chinese Yuan was little changed."
+    },
+    {
+      "id": "5018125",
+      "time": "2026-07-31 10:15:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【影視院線概念異動拉昇 歡瑞世紀漲停】影視院線概念異動拉昇，歡瑞世紀漲停，捷成股份、華策影視、百納千成、光線傳媒、博納影業等跟漲。"
+    },
+    {
+      "id": "5018124",
+      "time": "2026-07-31 10:15:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【道富：日本干預日元匯率的規模估計在5萬億日元】道富投資管理指出，日本週四在外匯市場上干預的交易規模估計達到約5萬億日元（311億美元）。他表示，日本央行今天可能會宣佈按兵不動，但透出鷹派立場；9月和10月會議將是下一次加息的時機，而不是通常的6個月間隔。貝森特的評論和紐約聯邦儲備銀行的外匯詢價，實際上給了日本當局更多理由來應對日元過度疲軟，“如果美元/日元再次出現無序波動，日本財務省將毫不猶豫地進行干預”。"
+    },
+    {
+      "id": "mkt:019fb5f3-ca38-7aab-8f24-0d1b5a1f57a4",
+      "time": "2026-07-31 10:14:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Survey: South Korea July export growth likely to slow】A Wall Street Journal survey of 11 economists shows South Korea’s July export growth likely to slow to a median 59.5% YoY, down from a revised 70.7% in June, driven partly by fewer working days. Imports are forecast to rise 26.3% YoY, implying a $29.48 bln trade surplus for July. Economists say robust memory-chip shipments should sustain overall export momentum despite the calendar effect. Official trade data are due Saturday."
+    },
+    {
+      "id": "mkt:019fb5f3-6309-7aab-8f24-03d1b07e2c2c",
+      "time": "2026-07-31 10:14:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SCHUMER said Trump cut $700 mln from the U.S. Cybersecurity and Infrastructure Security Agency (CISA) budget and has not nominated a permanent director, calling the moves visionless and dangerous and saying they leave Americans exposed to greater cyber risk."
+    },
+    {
+      "id": "5018122",
+      "time": "2026-07-31 10:13:37",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "發改委：十五五時期，算力網建設將新增直接投資4萬億元。"
+    },
+    {
+      "id": "5018121",
+      "time": "2026-07-31 10:12:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "熊本地震引發的供應鏈中斷迫使豐田擴大停產範圍。"
+    },
+    {
+      "id": "mkt:019fb5f2-17be-7aab-8f23-fe370f845411",
+      "time": "2026-07-31 10:12:49",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "EURUSD"
+      ],
+      "text": "【NDRC: Belt and Road investment cooperation extends into high-tech and green sectors】At a July NDRC press briefing the agency said Belt and Road cooperation advanced in 1H. Goods trade with Belt and Road partner countries reached 12.97 trillion yuan in 1H, up 14.8% YoY and accounting for 50.9% of China’s foreign trade. Investment cooperation is increasingly shifting into high‑tech and green/low‑carbon sectors. Connectivity updates: the Hungary segment of the Hungary–Serbia railway opened for freight and the China–Kyrgyzstan–Uzbekistan railway began full-line construction. China–Europe freight trains ran 11,186 trips in 1H, up 20.2% YoY."
+    },
+    {
+      "id": "te:markets:571440",
+      "time": "2026-07-31 10:12:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Climb on AI Optimism — The Shanghai Composite climbed 1.1% to 3,843 on Friday, while the Shenzhen Component surged nearly 4% to 13,810, led by a sharp rebound in semiconductor and AI-related stocks. The rally was fueled by renewed optimism over AI spending after major US tech firms reinforced their aggressive investment plans. Adding to the positive sentiment were Microsoft's strong earnings and robust Azure growth. Among the top gainers were Cambricon Technologies (10.2%), SMIC (8.1%), Zhongji Innolight (13.7%), and Eoptolink Technology (14.4%). Meanwhile, China's manufacturing PMI slipped into contraction for the first time since February in July, while the non-manufacturing PMI also unexpectedly declined. The weak readings reinforced concerns over slowing growth after Q2 GDP fell below the government's 4.5%-5% target range. The Politburo pledged timely and effective policy support but offered few details on additional stimulus measures. Despite Friday’s gains, both benchmarks were set for monthly losses."
+    },
+    {
+      "id": "5018120",
+      "time": "2026-07-31 10:12:25",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【貴金屬概念走強 招金黃金觸及漲停】貴金屬概念走強，招金黃金觸及漲停，曉程科技漲超10%，赤峰黃金、西部黃金、中金黃金、四川黃金跟漲。"
+    },
+    {
+      "id": "5018119",
+      "time": "2026-07-31 10:12:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【TCL華星趙軍：搭載TCL華星印刷OLED屏的微星IT產品已經發布，t8產線建設進度快於預期】TCL華星CEO趙軍在2026 ChinaJoy期間接受記者採訪時表示，印刷OLED是一種精準適配中尺寸產品的顯示技術，未來也有向小尺寸擴充套件的潛質。目前，公司一方面依託於武漢的5.5代線快速切入，推進印刷OLED全品類產品的開發與市場匯入，公司正在與多個頭部IT客戶進行聯合開發驗證，為t8產線大規模量產打好基礎，其中與微星的合作產品已經發布，即將量產；另一方面，t8產線建設正在正常推進，已於5月實現廠房封頂，進度較原計劃提前約一個月，後續環節將按既定計劃穩步實施。（財聯社）"
+    },
+    {
+      "id": "5018118",
+      "time": "2026-07-31 10:11:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "豐田將延長福岡工廠的停產時間。"
+    },
     {
       "id": "mkt:019fb5f0-fdcd-7aab-8f23-f4185fc16587",
       "time": "2026-07-31 10:11:37",
