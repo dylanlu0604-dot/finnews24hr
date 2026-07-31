@@ -1,7 +1,55 @@
 {
   "date": "2026-08-01",
-  "count": 362,
+  "count": 370,
   "items": [
+    {
+      "id": "5019973",
+      "time": "2026-08-01 05:07:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國豁免從墨西哥和加拿大進口石英石表面材料。"
+    },
+    {
+      "id": "5019972",
+      "time": "2026-08-01 05:06:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國海證券計算機行業首席分析師劉熹：超節點產業爆發在即 回撥或是佈局良機】產業的加速度與市場的劇烈波動形成鮮明反差。日前，國海證券計算機行業首席分析師劉熹在接受記者專訪時表示，2026年是基於國產供應鏈的國產AI晶片放量元年，2025年至2028年國產超節點市場規模年均複合增長率有望達到341%。當前科技板塊的回撥更多是短期交易層面因素的釋放，超節點產業的長期邏輯並未發生根本性變化，回撥之下或恰恰為投資者提供了把握結構性機遇的視窗。（中證報）"
+    },
+    {
+      "id": "5019971",
+      "time": "2026-08-01 05:06:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【A股科技板塊全線反攻 機構稱調整或接近尾聲】7月31日，A股迎來7月收官，科技板塊全線反攻成為最大亮點。截至收盤，上證指數上漲0.72%，深證成指上漲2.21%，創業板指上漲3.06%，科創50指數盤中一度漲超8%。全市成交額達2.56萬億元，較前一交易日放量逾2000億元，市場交投情緒顯著回暖。全市場4691只個股上漲，科技四大板塊合計吸納主力資金超460億元。 分析人士認為，7月科技板塊經歷充分調整後，當前價效比已凸顯，短期市場或維持震盪整固，但中期結構性機會依然較多。科技成長仍是配置主線，光通訊、儲存晶片等方向的調整或已接近尾聲，後市值得重點關注。（中證報）"
+    },
+    {
+      "id": "mkt:019fb9ff-4c9a-7aab-8f3e-0f6025a10fbb",
+      "time": "2026-08-01 05:05:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House: Trump has determined that imposing tariff-rate quotas on imported quartz surfacing products for the next four years is appropriate."
+    },
+    {
+      "id": "5019970",
+      "time": "2026-08-01 05:05:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "維薩（Visa）將於2026年10月1日起永久裁減貝爾維尤市70個工作崗位。"
+    },
+    {
+      "id": "5019969",
+      "time": "2026-08-01 05:05:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美中央司令部：已改變30艘商船航行路線】當地時間7月31日，美國中央司令部表示，截至當天，中央司令部已改變30艘商船的航行路線，使2艘船隻失去行動能力，並登船檢查2艘，以確保其完全遵守封鎖要求。美軍還允許近30艘船隻透過封鎖線運送人道主義援助。（央視新聞）"
+    },
     {
       "id": "5019968",
       "time": "2026-08-01 05:03:31",
@@ -9,6 +57,16 @@
         "國際"
       ],
       "text": "白宮：特朗普認定對進口QSP實施為期四年的關稅配額是適當的。"
+    },
+    {
+      "id": "5019967",
+      "time": "2026-08-01 05:03:22",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【加息交易降溫 美元指數震盪】美元近期再度轉弱。7月28日至30日，美元指數連續三個交易日下跌，累計跌逾1.5%，並失守100點關口。7月31日，美元指數小幅反彈，盤中重新站上100點關口，但仍明顯低於本週美聯儲議息會議前水平。 美聯儲7月議息會議上，雖有三名委員投下反對票、主張加息，但美聯儲主席凱文·沃什並未釋放近期加息的明確訊號，市場對9月加息的押注隨之降溫。 機構人士認為，通脹與增長之間的拉鋸仍將主導美元走勢，能源價格、美聯儲政策以及全球避險需求則可能放大匯率波動。未來數月美元指數或主要在95點-102點區間執行，年底前總體呈現溫和下行傾向。整體來看，美元仍有高利率和避險需求支撐，但隨著政策緊縮預期降溫，其進一步上行動力或有所減弱。（中證報）"
     },
     {
       "id": "5019966",
@@ -275,6 +333,14 @@
         "Importance 2"
       ],
       "text": "Crude Posts Best Monthly Gain Since March — Crude oil prices rose 1% on Friday to finish just below $85 a barrel, capping a more than 20% gain in July, its strongest monthly increase since March, driven by escalating geopolitical tensions and growing concerns over global oil supplies. Iran claimed it attacked two tankers transiting the Strait of Hormuz under US military escort, though Western maritime authorities have not confirmed the incident. Renewed conflict between the US and Iran, Houthi attacks in the Red Sea, and Saudi strikes on Iran-backed groups have heightened risks to key shipping routes. Falling US crude inventories have added further upward pressure on prices. Meanwhile, attacks near Russia’s Black Sea oil export infrastructure, including the Caspian Pipeline Consortium (CPC) terminal, have raised concerns about disruptions to Kazakhstan’s oil exports, an important source for European refiners. Although the CPC decided to continue operations, uncertainty over supply security continues to support higher oil prices."
+    },
+    {
+      "id": "5019941",
+      "time": "2026-08-01 04:44:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "共和黨眾議員托馬斯・馬西周五表示，在美國眼中不斷加劇的戰略風險成為現實前，美國應當退出伊朗相關談判。他稱，德黑蘭方面正觀望多項局勢進展，之後才會考慮達成協議。"
     },
     {
       "id": "mkt:019fb9ea-6ec5-7aab-8f3d-ea3c89500f31",
