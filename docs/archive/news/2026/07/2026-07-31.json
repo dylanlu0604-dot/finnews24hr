@@ -1,7 +1,95 @@
 {
   "date": "2026-07-31",
-  "count": 1033,
+  "count": 1042,
   "items": [
+    {
+      "id": "te:markets:571430",
+      "time": "2026-07-31 09:55:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Heads for Sharp Weekly Loss — The dollar index traded near 100 on Friday after sliding for three straight sessions and was on track to decline more than 1% for the week, pressured by the Federal Reserve’s cautious policy stance and a suspected Japanese currency intervention to support the yen. The greenback tumbled as much as 3.3% against the yen on Thursday as Tokyo was believed to have stepped into the foreign exchange market once again, while US Treasury Secretary Scott Bessent said the yen is “very undervalued” and argued that excessive currency volatility is unhealthy. Meanwhile, the Fed kept interest rates unchanged this week despite mounting inflationary risks stemming from renewed hostilities in the Middle East, although three FOMC members voted in favor of a rate hike. Markets are still pricing in about a 63% chance of a 25-basis-point Fed rate hike in September."
+    },
+    {
+      "id": "5018094",
+      "time": "2026-07-31 09:55:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體裝置板塊持續走高 多隻ETF封漲停】半導體產業鏈盤中持續走高，半導體裝置ETF華夏（562590）、半導體裝置ETF招商（561980）、半導體裝置ETF國泰（159516）封漲停，科創半導體裝置ETF鵬華（589020）、科創半導體裝置ETF華泰柏瑞（588710）均漲超10%。"
+    },
+    {
+      "id": "5018093",
+      "time": "2026-07-31 09:55:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "電子特氣概念震盪拉昇，正帆科技、中船特氣、廣鋼氣體漲超10%，華特氣體、金宏氣體、和遠氣體漲幅居前。"
+    },
+    {
+      "id": "5018092",
+      "time": "2026-07-31 09:54:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【燃氣輪機概念震盪走強 隆達股份漲超11%】燃氣輪機概念震盪走強，隆達股份漲超11%，傑瑞股份、聯德股份漲超9%，飛沃科技、應流股份、博盈特焊、圖南股份、汽輪科技跟漲。"
+    },
+    {
+      "id": "mkt:019fb5e0-1e42-7aab-8f23-82cf0326f396",
+      "time": "2026-07-31 09:53:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A-share Changxin turnover exceeded 20 bln yuan; shares up 12.9%."
+    },
+    {
+      "id": "5018091",
+      "time": "2026-07-31 09:52:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【正規化智慧獲得浦發銀行30億元意向性融資支援】7月31日正規化智慧（06682.HK）向證券時報記者表示，近日與上海浦東發展銀行正式簽署長期戰略合作協議。浦發銀行將向正規化提供人民幣30億元的意向性融資支援，專項用於AI算力基礎設施建設與核心技術迭代。"
+    },
+    {
+      "id": "mkt:019fb5df-7e27-7aab-8f23-794bb0e63268",
+      "time": "2026-07-31 09:52:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "Ninebot said cumulative domestic shipments of its smart electric vehicles have surpassed 13 million units."
+    },
+    {
+      "id": "mkt:019fb5df-749e-7aab-8f23-772dabbf76f1",
+      "time": "2026-07-31 09:52:28",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China CSI 500 index futures (IC) main contract rallied to 7,600, up 4.48% intraday."
+    },
+    {
+      "id": "mkt:019fb5df-2856-7aab-8f23-6df31da51916",
+      "time": "2026-07-31 09:52:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "601288.SS",
+        "Impact bearish",
+        "601939.SS",
+        "601398.SS"
+      ],
+      "text": "Chinese A-share banking sector fell against the market trend: Agricultural Bank of China and China Construction Bank slid more than 4%; Industrial and Commercial Bank of China, Bank of China, Bank of Communications, Shanghai Pudong Development Bank and China CITIC Bank dropped over 3%."
+    },
     {
       "id": "5018090",
       "time": "2026-07-31 09:51:48",
