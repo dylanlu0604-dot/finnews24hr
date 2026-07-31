@@ -1,7 +1,627 @@
 {
-  "updated": "2026-07-31 09:28:36",
-  "count": 17990,
+  "updated": "2026-07-31 09:36:17",
+  "count": 18020,
   "items": [
+    {
+      "id": "mkt:019fb5d0-137b-7aab-8f23-071294cbd13b",
+      "time": "2026-07-31 09:35:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local government: an energy facility in Russia's Volgograd region caught fire after a drone attack."
+    },
+    {
+      "id": "mkt:019fb5cf-c5ce-7aab-8f22-fd6f5c2272fa",
+      "time": "2026-07-31 09:35:20",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【China NBS: some equipment-manufacturing sectors seeing rapid output and demand growth】China's National Bureau of Statistics said the manufacturing production index and new orders index stood at 49.9 and 48.5, down 1.5 and 2.7 points MoM, indicating production and market demand eased. By sector, general equipment and computer, communications and electronic-equipment industries recorded both production and new-orders indices above 53.0, signalling brisk activity and faster output-demand growth. Non-metallic mineral products, ferrous-metal smelting and rolling, and autos posted both indices below the 50 threshold, reflecting weak supply-demand conditions."
+    },
+    {
+      "id": "te:economy:571414",
+      "time": "2026-07-31 09:35:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "NBS General PMI",
+        "Importance 1"
+      ],
+      "text": "China NBS General PMI Lowest Since Late 2022 — China’s NBS Composite PMI Output Index slipped to 49.3 in July 2026 from 50.6 in the previous month, marking the lowest reading since December 2022. It was also the first contraction in overall business activity since February."
+    },
+    {
+      "id": "5018052",
+      "time": "2026-07-31 09:35:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達6.91%，成分股中，生益電子漲16.72%，源傑科技漲15.46%，華虹宏力漲13.04%，中科飛測漲12.94%。"
+    },
+    {
+      "id": "mkt:019fb5cf-5af6-7aab-8f22-f1bec51053e5",
+      "time": "2026-07-31 09:34:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share compute-power leasing stocks jumped; Litong Electronics locked at the daily limit, Hongjing Technology and Xiechuang Data rose more than 14%, while Tongniu Information, Wangsu Technology, Dongyangguang and UCloud also advanced."
+    },
+    {
+      "id": "mkt:019fb5cf-019f-7aab-8f22-ea13f021cd67",
+      "time": "2026-07-31 09:34:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "CNH",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【NBS: China non-manufacturing business activity index dips; cultural and tourism sector active】The National Bureau of Statistics Service Industry Survey Center chief statistician Huo Lihui said China’s non-manufacturing business activity index fell to 49.0 in July, down 1.2 ppt month-on-month, indicating a pullback in non-manufacturing activity. The services business activity index declined to 49.3, down 1.1 ppt, showing softer market activity. Summer consumption lifted leisure and travel, with air transport, accommodation and cultural and sports entertainment activity indices rebounding markedly and related firms reporting rapid volume growth. Wholesale and monetary/financial services posted larger declines and were the main drag on the services reading. Capital-market services and real estate remained below the 50 expansion-contraction threshold. The services business activity expectation index stayed at 56.0, unchanged from June, signalling stable near-term business confidence."
+    },
+    {
+      "id": "mkt:019fb5ce-b07d-7aab-8f22-e6c8db6b37ec",
+      "time": "2026-07-31 09:34:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "【NBS: Composite PMI output index below 50 in July】Huo Lihui, chief statistician at the NBS service-sector survey center, said July's composite PMI output index was 49.3%, down 1.3 percentage points month-on-month, indicating firms' production and business activity slowed. The manufacturing production index was 49.9% and the non-manufacturing business activity index was 49.0%."
+    },
+    {
+      "id": "5018051",
+      "time": "2026-07-31 09:34:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河北省委主要負責同志職務調整】日前，中共中央決定：羅文同志任河北省委委員、常委、書記；倪嶽峰同志不再擔任河北省委書記、常委、委員職務，另有任用。（新華社）"
+    },
+    {
+      "id": "5018050",
+      "time": "2026-07-31 09:33:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO概念集體反彈 新易盛漲超15%】早盤CPO概念集體反彈，新易盛、聯訊儀器漲超15%，天孚通訊、中際旭創、羅博特科、太辰光等多股漲超10%。"
+    },
+    {
+      "id": "mkt:019fb5ce-3d64-7aab-8f22-dcbcb74cd819",
+      "time": "2026-07-31 09:33:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share Changxin's intraday market value topped CNY4 tln; shares rose 14.3% to CNY60.49, a record high, on turnover of CNY8.8 bln."
+    },
+    {
+      "id": "mkt:019fb5ce-19a8-7aab-8f22-d7d73f332d5a",
+      "time": "2026-07-31 09:33:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "【NBS: Price indices fall for four consecutive months amid recent commodity swings】NBS Service Industry Survey Center chief statistician Huo Lihui said July price indices continued to decline. The purchase-price index for major raw materials was 53.2 and the factory-gate price index 47.8, both down for a fourth month amid recent commodity-price volatility. Price indices for non-ferrous metal smelting and rolling were both below 45.0. Large price swings weakened firms’ procurement intent, pulling the purchasing-volume index down to 49.4."
+    },
+    {
+      "id": "5018049",
+      "time": "2026-07-31 09:33:18",
+      "tags": [
+        "資料"
+      ],
+      "text": "【國家統計局：裝備製造業和高技術製造業繼續發揮支撐引領作用】國家統計局服務業調查中心首席統計師霍麗慧表示，7月份，製造業採購經理指數有所回落，高技術製造業持續擴張。受前期製造業較快增長基數較高、部分製造業行業進入傳統生產淡季等因素影響，製造業PMI降至49.2%。裝備製造業和高技術製造業繼續發揮支撐引領作用。裝備製造業和高技術製造業PMI分別為51.4%和53.3%，明顯高於製造業總體，保持較快擴張，帶動製造業發展向新向優；消費品行業和高耗能行業PMI分別為47.8%和47.0%，比上月下降2.4個和0.1個百分點，景氣水平回落。（國家統計局）"
+    },
+    {
+      "id": "mkt:019fb5cd-d28e-7aab-8f22-ce8ab85ca156",
+      "time": "2026-07-31 09:33:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share lithography-equipment stocks jumped in early trade: Xinqi Weizhuang rose >16%, Juguang Technology up >14%, Jiangfeng Electronics and Zhongrun Optics up over 10.5%; Taijing Technology hit the daily limit, with Tongfei Co. and other names also rallying."
+    },
+    {
+      "id": "mkt:019fb5cd-b683-7aab-8f22-c4258195b75c",
+      "time": "2026-07-31 09:33:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【National Bureau of Statistics: Equipment and high‑tech manufacturing continue to support and lead】Huo Lihui, chief statistician at the NBS service-industry survey center, said July manufacturing PMI eased to 49.2, hit by a high prior-period base and seasonal softening. Equipment-manufacturing PMI was 51.4 and high-tech manufacturing PMI 53.3, both well above the headline and still expanding, supporting a shift toward newer, higher-quality manufacturing. Consumer-goods PMI was 47.8 and high-energy-consuming industries PMI 47.0, down 2.4pts and 0.1pt MoM, respectively."
+    },
+    {
+      "id": "te:markets:571413",
+      "time": "2026-07-31 09:33:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Declines — Heating oil futures in the US fell below $4.10 per gallon in late July, pulling back from a nearly four-month high, as investors weighed improving shipping activity against ongoing geopolitical risks. Middle East oil shipments appeared to have picked up in recent days, with more vessels leaving the Persian Gulf undetected and two Saudi tankers successfully transiting the Bab el-Mandeb Strait. Separately, Saudi Arabia proposed an international maritime coalition to protect key shipping routes, with representatives from 43 countries participating in talks to safeguard navigation in the Red Sea following the Iran-backed Houthis' announced blockade against the kingdom. Meanwhile, Russian diesel supplies remained constrained by recent Ukrainian attacks on refineries, prompting Moscow to halt exports for all of July. Still, heating oil remained on track for a roughly 27% monthly gain as geopolitical tensions escalated earlier this month amid exchanges of strikes between the US and Iran."
+    },
+    {
+      "id": "te:markets:571412",
+      "time": "2026-07-31 09:32:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Rally on Tech Rebound — The benchmark KOSPI soared more than 15% to around 6,450 on Friday, rebounding sharply from the previous session as a global technology rally lifted semiconductor stocks. Sentiment improved after Microsoft's stronger-than-expected earnings and robust Azure growth eased concerns over AI spending, fueling gains in US chipmakers overnight and driving sharp advances in Korean heavyweights. Samsung Electronics and SK hynix both surged more than 25%, along with notable gains in SK Square (29.9%), Hyundai Motor (9.4%), Kia Corporation (8.6%), and HD Hyundai Heavy Industries (5.0%). The government announced plans to establish a 20 trillion won sovereign wealth fund to invest in strategic industries, including AI, semiconductors, data centers, and infrastructure. Domestic sentiment was also supported by June industrial production, which rose 2.3%, the fastest monthly increase in six years, led by strong growth in automobile and semiconductor output."
+    },
+    {
+      "id": "5018048",
+      "time": "2026-07-31 09:32:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【長鑫科技市值突破4萬億】長鑫科技繼續衝高，盤中漲近13%，總市值突破4萬億。"
+    },
+    {
+      "id": "5018047",
+      "time": "2026-07-31 09:32:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日韓罕見同步干預外匯，韓國官員稱正與美日等國密切合作】7月31日訊息，據報道，韓國外匯當局於30日進行了一次罕見的拋售美元干預操作，推動韓元對美元匯率升至九個月來的最高水平。韓國的這一舉措與日本在紐約外匯市場買入日元、拋售美元的干預行動同步發生，幫助日元脫離四十年來低位。韓國副財長31日表示，韓國外匯管理部門正與美國、日本等主要國家的同行密切合作，並將持續保持這種協作。此前，日韓兩國官方均曾公開表示將就外匯市場動態保持緊密溝通，以應對本幣貶值壓力。"
+    },
+    {
+      "id": "te:markets:571411",
+      "time": "2026-07-31 09:32:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "EU Gas Prices Extend Decline — European natural gas prices dropped to around €57 per MWh on Friday, extending losses from the previous session amid signs of improving shipping conditions through the Strait of Hormuz despite regional tensions and fresh LNG arrivals in Europe. Qatar sent its first LNG tanker through the waterway in more than three weeks, raising hopes that exports from one of the world's largest LNG suppliers could gradually resume. Steady LNG deliveries to Northwest Europe, along with reliable pipeline flows from Norway, also helped ease supply concerns. Despite the recent pullback, EU gas prices remain more than 33% higher in July, as renewed US-Iran hostilities disrupted Persian Gulf supplies while heatwaves boosted electricity demand, limiting Europe's ability to replenish inventories ahead of winter. EU storage facilities are about 55% full, below the seasonal five-year average and behind the pace needed to comfortably meet pre-winter storage targets before the heating season begins in November."
+    },
+    {
+      "id": "5018046",
+      "time": "2026-07-31 09:31:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "C長鑫高開超10%。"
+    },
+    {
+      "id": "mkt:019fb5cc-5b10-7aab-8f22-b8df7f3bcf32",
+      "time": "2026-07-31 09:31:36",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia private sector loan growth YoY 8.5% in June, up from 8.20% previously."
+    },
+    {
+      "id": "5018045",
+      "time": "2026-07-31 09:31:34",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞6月私營企業貸款年率 8.5%，前值8.20%。"
+    },
+    {
+      "id": "5018044",
+      "time": "2026-07-31 09:31:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力租賃概念表現活躍 利通電子一字漲停】算力租賃概念表現活躍，利通電子一字漲停，宏景科技、協創資料漲超14%，銅牛資訊網宿科技、東陽光、優刻得跟漲。"
+    },
+    {
+      "id": "mkt:019fb5cc-3cfc-7aab-8f22-b00654637e35",
+      "time": "2026-07-31 09:31:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Private Sector Credit (YoY) (Jun) | actual 8.5% | previous 8.20%"
+    },
+    {
+      "id": "mkt:019fb5cc-24ff-7aab-8f22-a9014bf974ac",
+      "time": "2026-07-31 09:31:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Equity index futures open higher in morning session】China equity index futures opened higher in the morning session: CSI 300 main contract (IF) +1.73%, SSE 50 main contract (IH) +0.89%, CSI 500 main contract (IC) +3.56%, CSI 1000 main contract (IM) +3.54%."
+    },
+    {
+      "id": "mkt:019fb5cc-1e51-7aab-8f22-a0eb96897dde",
+      "time": "2026-07-31 09:31:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "China composite PMI (July) 49.3; prior 50.6."
+    },
+    {
+      "id": "mkt:019fb5cc-00e0-7aab-8f22-9deb1f992463",
+      "time": "2026-07-31 09:31:13",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Composite PMI (Jul) | actual 49.3 | previous 50.6"
+    },
+    {
+      "id": "mkt:019fb5cb-feeb-7aab-8f22-9684303b6286",
+      "time": "2026-07-31 09:31:12",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "【China spare-cash parking: money-market yield snapshot】Tencent's Licaitong (Current+) 7-day annualized yields ranged 0.7040%–1.4270%; WeChat Wallet's Lingqiantong 7-day annualized yields ranged 0.9120%–1.0000%; Alipay's Yu'e Bao 7-day annualized yields ranged 0.9090%–1.0140%."
+    },
+    {
+      "id": "mkt:019fb5cb-f39b-7aab-8f22-8a54c127493a",
+      "time": "2026-07-31 09:31:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures morning open】China government bond futures front contracts at morning open: 2-year (TS) +0.02%, 5-year (TF) +0.04%, 10-year (T) +0.06%, 30-year (TL) +0.17%."
+    },
+    {
+      "id": "5018043",
+      "time": "2026-07-31 09:31:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流入超100億。"
+    },
+    {
+      "id": "5018042",
+      "time": "2026-07-31 09:31:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達7.84%，成分股中，源傑科技漲15.07%，中科飛測漲14.04%，華虹宏力漲13.40%，佰維儲存漲13.26%。"
+    },
+    {
+      "id": "mkt:019fb5cb-7ecc-7aab-8f22-80b3219ada93",
+      "time": "2026-07-31 09:30:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "China's official manufacturing PMI fell to 49.2 in July, below consensus 50.1 and June's 50.3, returning to contraction territory below the 50 threshold."
+    },
+    {
+      "id": "5018041",
+      "time": "2026-07-31 09:30:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達3.04%，成分股中，華嶺股份漲16.49%，戈碧迦漲14.56%，錦華新材漲9.95%，並行科技漲7.70%。"
+    },
+    {
+      "id": "mkt:019fb5cb-626a-7aab-8f22-7e428e0fbead",
+      "time": "2026-07-31 09:30:32",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Official Manufacturing PMI (Jul) | actual 49.2 | consensus 50.1 | previous 50.3"
+    },
+    {
+      "id": "mkt:019fb5cb-60ce-7aab-8f22-768b296bbb16",
+      "time": "2026-07-31 09:30:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "China July non-manufacturing PMI 49.0, vs 50.0 expected and 50.2 prior."
+    },
+    {
+      "id": "5018040",
+      "time": "2026-07-31 09:30:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【7月份中國製造業採購經理指數為49.2% 製造業生產端韌性較好】國家統計局服務業調查中心、中國物流與採購聯合會今天（31日）公佈7月份中國採購經理指數。受季節性因素影響，製造業執行放緩。裝備製造業和高技術製造業持續擴張。製造業執行放緩 新動能保持擴張7月份中國製造業採購經理指數為49.2%，較上月下降1.1個百分點。從歷史資料來看，受高溫多雨以及颱風等季節性因素影響，多數年份的7月份，製造業採購經理指數環比均有下行。從分項指數看，7月份製造業國內外市場需求均有所放緩。生產指數為49.9%，接近50%的臨界點，說明我國製造業生產端韌性較好，在極端天氣影響下仍具備穩定執行基礎。國家統計局服務業調查中心首席統計師霍麗慧分析，從行業來看，通用裝置、計算機通訊電子裝置等行業的生產指數和新訂單指數都高於53%，相關行業市場活躍度較高，產需較快增長。7月份，裝備製造業、高技術製造業採購經理指數分別為51.4%和53.3%，明顯高於製造業總體，保持較快擴張，帶動製造業發展向新向優。專家表示，儘管極端天氣對企業執行、物流運輸等有所影響，但是我國製造業新動能仍保持較好擴張態勢。中國物流與採購聯合會副會長兼秘書長馬增榮介紹，新動能不僅持續保持向好發展態勢，抗風險能力也不斷加強，有效對沖傳統產業波動，經濟高質量發展向深向實。從價格相關指數來看，受近期部分大宗商品價格波動等因素影響，原材料購進價格指數連續四個月環比下降，製造業整體原材料價格上漲勢頭持續放緩。從市場預期來看，7月生產經營活動預期指數為54.1%，連續2個月執行在54%以上，顯示製造業企業對後市保持穩定樂觀預期。專家表示，隨著極端天氣影響消退，前期受影響地區的企業產能和供應鏈執行恢復正常，市場需求穩定釋放，預計8月份製造業有較好的趨穩回升基礎。"
+    },
+    {
+      "id": "mkt:019fb5cb-517d-7aab-8f22-6be658500bf2",
+      "time": "2026-07-31 09:30:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China manufacturing PMI for July stood at 49.2%, with the production side showing relative resilience."
+    },
+    {
+      "id": "mkt:019fb5cb-45c7-7aab-8f22-61c2d6dec63b",
+      "time": "2026-07-31 09:30:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Non-Manufacturing PMI (Jul) | actual 49 | consensus 50 | previous 50.2"
+    },
+    {
+      "id": "mkt:019fb5cb-24f4-7aab-8f22-5f5c9ab552f9",
+      "time": "2026-07-31 09:30:17",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia private-sector loans MoM +0.8% vs +0.6% est; prior +0.7%."
+    },
+    {
+      "id": "5018039",
+      "time": "2026-07-31 09:30:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞第二季度PPI季率 1.3%，前值0.40%。澳大利亞第二季度PPI年率 3.6%，前值3.00%。"
+    },
+    {
+      "id": "mkt:019fb5cb-0e4e-7aab-8f22-51afcace8d50",
+      "time": "2026-07-31 09:30:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia Q2 producer-price inflation YoY 3.6%; prior 3.0%."
+    },
+    {
+      "id": "mkt:019fb5cb-0a60-7aab-8f22-48f24fa6e901",
+      "time": "2026-07-31 09:30:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia Q2 PPI (QoQ) +1.3%; prior +0.4%."
+    },
+    {
+      "id": "mkt:019fb5cb-08e1-7aab-8f22-410eaa719c8d",
+      "time": "2026-07-31 09:30:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Private Sector Credit (MoM) (Jun) | actual 0.8% | consensus 0.60% | previous 0.70%"
+    },
+    {
+      "id": "em:jjsj_zgsj:202607313827663157",
+      "time": "2026-07-31 09:30:06",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：7月官方製造業PMI為49.2%】7月份，製造業採購經理指數（PMI）為49.2%，比上月下降1.1個百分點，景氣水平有所回落。從企業規模看，大、中、小型企業PMI分別為49.5%、49.7%和47.4%，比上月下降1.2個、0.8個和0.8個百分點，均低於臨界點。從分類指數看，構成製造業PMI的5個分類指數中，生產指數、新訂單指數、原材料庫存指數、從業人員指數和供應商配送時間指數均低於臨界點。"
+    },
+    {
+      "id": "te:economy:571410",
+      "time": "2026-07-31 09:30:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "China 10Y Bond Yield Hits 8-week Low — China 10 Year Government Bond Yield decreased to 1.71%, the lowest since June 2026. Over the past 4 weeks, China 10Y Bond Yield lost 2.50 basis points, and in the last 12 months, it decreased 1.00 basis points."
+    },
+    {
+      "id": "5018038",
+      "time": "2026-07-31 09:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內漲2%，現報4599.80點。"
+    },
+    {
+      "id": "5018037",
+      "time": "2026-07-31 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲4%，現報7536.60點。"
+    },
+    {
+      "id": "5018036",
+      "time": "2026-07-31 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達8.37%，成分股中，源傑科技漲16.92%，中科飛測漲14.04%，佰維儲存漲13.26%，瀾起科技漲12.98%。"
+    },
+    {
+      "id": "5018035",
+      "time": "2026-07-31 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲4%，現報7123.40點。"
+    },
+    {
+      "id": "5018034",
+      "time": "2026-07-31 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達2.81%，成分股中，華嶺股份漲18.61%，戈碧迦漲14.34%，吉岡精密漲9.20%，錦華新材漲8.70%。"
+    },
+    {
+      "id": "5018033",
+      "time": "2026-07-31 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲3.43%， 滬深300指數期貨連續漲1.81%， 中證500指數期貨連續漲3.33%， 上證50指數期貨連續漲0.91%。"
+    },
+    {
+      "id": "5018032",
+      "time": "2026-07-31 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.17%， 10年期主力合約漲0.06%， 5年期主力合約漲0.03%， 2年期主力合約漲0.02%。"
+    },
+    {
+      "id": "mkt:019fb5ca-e540-7aab-8f22-378360ddbeba",
+      "time": "2026-07-31 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | PPI (YoY) (Q2) | actual 3.6% | previous 3.00%"
+    },
+    {
+      "id": "mkt:019fb5ca-e54e-7aab-8f22-3a7efef190b9",
+      "time": "2026-07-31 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | PPI (QoQ) (Q2) | actual 1.3% | previous 0.40%"
+    },
+    {
+      "id": "mkt:019fb5ca-69ae-7aab-8f22-296d0af722b3",
+      "time": "2026-07-31 09:29:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share storage-chip names surged in the opening auction; GigaDevice, Demingli and Taiji Industrial opened locked at the daily limit, while Puran, Beijing Junzheng, Baiwei Storage, Jiangbolong and Dapuwei rose more than 10%."
+    },
+    {
+      "id": "5018031",
+      "time": "2026-07-31 09:29:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【元件板塊大幅高開】元件板塊大幅高開，風華高科、寶鼎科技、金安國紀、生益科技、華正新材漲停，三環集團、勝宏科技、南亞新材、科翔股份、生益電子、迅捷興、中富電路、威爾高漲超10%，景旺電子、泰晶科技、深南電路、東山精密、達利凱普跟漲。"
+    },
+    {
+      "id": "5018030",
+      "time": "2026-07-31 09:29:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲3%，現報7514.80點。"
+    },
+    {
+      "id": "5018029",
+      "time": "2026-07-31 09:29:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內漲1%，現報4589.40點。"
+    },
+    {
+      "id": "5018028",
+      "time": "2026-07-31 09:29:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲3%，現報7110.00點。"
+    },
+    {
+      "id": "5018027",
+      "time": "2026-07-31 09:28:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PCB概念開盤活躍 金安國紀、華正新材雙雙漲停】PCB概念開盤活躍，金安國紀、華正新材雙雙漲停，南亞新材、勝宏科技、迅捷興漲超12%，生益科技漲停價開盤，滬電股份、鵬鼎控股、廣合科技高開。"
+    },
+    {
+      "id": "5018026",
+      "time": "2026-07-31 09:28:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克期貨上漲超過1%；標普500期貨上漲0.4%。"
+    },
     {
       "id": "mkt:019fb5c9-0caf-7aab-8f22-26785a372f22",
       "time": "2026-07-31 09:27:59",
@@ -165988,291 +166608,6 @@
         "其他"
       ],
       "text": "【培育鑽石概念股盤初走低 惠豐鑽石跌超5%】培育鑽石概念股盤初走低，惠豐鑽石跌超5%，黃河旋風、四方達等股跟跌。"
-    },
-    {
-      "id": "5005692",
-      "time": "2026-07-24 09:36:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "軍工板塊異動拉昇，中光防雷20cm漲停，長城軍工、北方長龍、北自科技、江龍船艇、建設工業漲幅居前。"
-    },
-    {
-      "id": "5005691",
-      "time": "2026-07-24 09:36:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿里巴巴港股跌3.48%，騰訊跌超2%。"
-    },
-    {
-      "id": "mkt:019f91c3-7fcf-7aab-8e77-4b260f2e487e",
-      "time": "2026-07-24 09:35:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "00148.HK",
-        "Impact bearish",
-        "01888.HK",
-        "01377.HK"
-      ],
-      "text": "Hong Kong PCB-related stocks slid: 00148.HK fell over 5%, 01888.HK fell over 3%; 01377.HK, 02476.HK and 01989.HK also declined."
-    },
-    {
-      "id": "te:markets:569464",
-      "time": "2026-07-24 09:35:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Fall on Middle East Risks — The benchmark KOSPI slipped more than 2% to around 6,920 on Friday, snapping a three-day rally as escalating Middle East tensions dampened investor sentiment. Brent crude climbed above $100 per barrel after attacks on Saudi oil tankers and heightened concerns over the conflict between the US and Iran fueled fears of supply disruptions, prompting a broad risk-off move across global markets. Investor sentiment also came under pressure from a selloff in technology stocks following disappointing earnings from major US companies, weighing on South Korean chipmakers. Separately, fresh US tariffs of up to 12.5% on South Korea and other trading partners over forced labor concerns added to uncertainty over the export outlook. Among heavyweights, Samsung Electronics (-3.6%), SK hynix (-3.1%), SK Square (-6.1%), Hyundai Motor (-6.1%), LG Energy Solution (-3.7%), and KB Financial Group (-5.0%) all declined."
-    },
-    {
-      "id": "5005690",
-      "time": "2026-07-24 09:34:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【能源裝置板塊盤初走強 特瑞斯漲超8%】能源裝置板塊盤初走強，特瑞斯漲超8%，傑瑞股份、科力股份、中曼石油等股跟漲。"
-    },
-    {
-      "id": "5005689",
-      "time": "2026-07-24 09:34:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "火電板塊持續走低，深南電A跌超6%，粵電力A、晉控電力、豫能控股、京能電力等跟跌。"
-    },
-    {
-      "id": "5005688",
-      "time": "2026-07-24 09:33:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電網裝置板塊繼續活躍 長纜科技4連板】早盤電網裝置板塊繼續活躍，長纜科技4連板，韶能股份2連板，中能電氣漲超10%，新亞電纜、中電鑫龍、太陽電纜、雙傑電氣跟漲。"
-    },
-    {
-      "id": "5005687",
-      "time": "2026-07-24 09:33:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱連續第13晚打擊伊朗 持續超兩小時】當地時間7月23日，美軍中央司令部表示，美軍於美東時間當天21時完成了針對伊朗的連續第13晚打擊行動。美軍中央司令部稱，此次打擊目標包括伊朗軍事指揮中心、無人機儲存設施、通訊網路、沿海監視點及海上作戰力量，旨在“進一步削弱伊朗對透過霍爾木茲海峽的民用船員和商業船隻構成的威脅”。美軍中央司令部稱，霍爾木茲海峽仍保持開放，商業船隻“在美軍支援下繼續通行”。目前，超過5萬名美軍人員正在中東地區執行任務。"
-    },
-    {
-      "id": "mkt:019f91c1-1241-7aab-8e77-4247a1e61af2",
-      "time": "2026-07-24 09:32:57",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "【China index futures open】China equity index futures opened lower: CSI 500 (IC) most-active contract -1.70%, CSI 1000 (IM) -1.65%, CSI 300 (IF) -1.04%, SSE 50 (IH) -0.67%."
-    },
-    {
-      "id": "mkt:019f91c0-f5e4-7aab-8e77-3b0848c34493",
-      "time": "2026-07-24 09:32:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China government bond futures open】China government-bond futures opened lower. Most-active contracts: 2-year (TS) down 0.01%, 5-year (TF) down 0.02%, 10-year (T) down 0.03%, 30-year (TL) down 0.11%."
-    },
-    {
-      "id": "mkt:019f91c0-d2be-7aab-8e77-33f853417bc3",
-      "time": "2026-07-24 09:32:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "07366.HK",
-        "Impact bullish",
-        "TSLA.O",
-        "Impact bearish"
-      ],
-      "text": "Southern's 2x short Tesla product (07366.HK) rose more than 15% after reports that Tesla's quarterly profit missed expectations and its free cash flow turned negative for the first time in over two years."
-    },
-    {
-      "id": "5005686",
-      "time": "2026-07-24 09:32:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "南方兩倍做空特斯拉(07366.HK)漲超15%；訊息面上，特斯拉季度利潤未達預期且自由現金流逾兩年來首度轉負。"
-    },
-    {
-      "id": "mkt:019f91c0-a07c-7aab-8e77-2bd765262e76",
-      "time": "2026-07-24 09:32:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【NBS: Mid-July live hog (three-way crossbred) price up 0.9% MoM at 11 yuan/kg】China's National Bureau of Statistics said the mid-July price of live hogs (three-way crossbred) was 11 yuan/kg, up 0.9% from early July. NBS monitoring of 9 major categories across 50 key production-material markets showed 26 prices rose, 19 fell and 5 were unchanged."
-    },
-    {
-      "id": "5005685",
-      "time": "2026-07-24 09:32:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國家統計局：7月中旬生豬（外三元）價格環比增長0.9%】據對全國流通領域9大類50種重要生產資料市場價格的監測顯示，2026年7月中旬與7月上旬相比，26種產品價格上漲，19種下降，5種持平。其中生豬（外三元）價格為11元/千克，環比增長0.9%。"
-    },
-    {
-      "id": "5005684",
-      "time": "2026-07-24 09:31:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2％，成分股中，源傑科技跌5.5％，華虹宏力跌4.7％，生益電子跌3.8％，佰維儲存跌3.7％。"
-    },
-    {
-      "id": "mkt:019f91bf-06b2-7aab-8e77-21b10c01e9bc",
-      "time": "2026-07-24 09:30:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-shares humanoid-robotics sector opened lower; Lude Xiebo fell nearly 6%, Top Group slipped over 4%, while Sanhua Zhikong, Haozhi Jidian, Guoji Jinggong and Buke Co. also declined."
-    },
-    {
-      "id": "5005683",
-      "time": "2026-07-24 09:30:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬深300指數下跌1%至4,679.00點。"
-    },
-    {
-      "id": "5005682",
-      "time": "2026-07-24 09:30:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌2.04%，現報3502.473點；上證指數跌0.69%，現報3850.023點；深證成指跌1.73%，現報13878.769點。"
-    },
-    {
-      "id": "5005681",
-      "time": "2026-07-24 09:30:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌2%，現報7450.40點。"
-    },
-    {
-      "id": "5005680",
-      "time": "2026-07-24 09:30:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深300指數期貨連續主力合約日內跌1%，現報4612.40點。"
-    },
-    {
-      "id": "5005679",
-      "time": "2026-07-24 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約跌0.08%， 10年期主力合約跌0.02%， 5年期主力合約跌0.02%， 2年期主力合約跌0.01%。"
-    },
-    {
-      "id": "5005678",
-      "time": "2026-07-24 09:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.34%，成分股中，戈碧迦跌4.80%，聚星科技跌4.10%，雲星宇跌3.28%，則成電子跌2.56%。"
-    },
-    {
-      "id": "5005677",
-      "time": "2026-07-24 09:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.31%，成分股中，華虹宏力跌4.07%，盛科通訊跌3.56%，源傑科技跌3.11%，芯原股份跌2.69%。"
-    },
-    {
-      "id": "5005676",
-      "time": "2026-07-24 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌1.18%， 滬深300指數期貨連續跌0.85%， 中證500指數期貨連續跌1.07%， 上證50指數期貨連續跌0.18%。"
-    },
-    {
-      "id": "5005675",
-      "time": "2026-07-24 09:29:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AMD：第二代AI伺服器Helios已全面量產，預計三季末開始出貨】AMD執行長蘇姿豐當地時間7月23日表示，搭載MI455X AI加速器和Venice處理器的第二代AI伺服器Helios已進入全面量產階段，預計將於第三季末開始出貨。"
-    },
-    {
-      "id": "5005674",
-      "time": "2026-07-24 09:29:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鉑連續主力合約日內跌4%，現報395.50元。"
-    },
-    {
-      "id": "mkt:019f91bd-b907-7aab-8e77-1dab838961d3",
-      "time": "2026-07-24 09:29:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "China A-share precious metals sector opened sharply lower; Hunan Baiyin opened down more than 7%, with Shanjin International, Chifeng Gold, Xiaocheng Technology and Western Gold also sliding."
-    },
-    {
-      "id": "5005673",
-      "time": "2026-07-24 09:29:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【深交所：“肇民轉債”盤中臨時停牌】深交所公告，“肇民轉債”（123275）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
-    },
-    {
-      "id": "5005672",
-      "time": "2026-07-24 09:29:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌1%，現報7000.00點。"
-    },
-    {
-      "id": "mkt:019f91bd-66e6-7aab-8e77-120af570bd32",
-      "time": "2026-07-24 09:28:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "N Changying opened 265.27% higher."
-    },
-    {
-      "id": "5005671",
-      "time": "2026-07-24 09:28:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "N長鷹開漲265.27%。"
     }
   ]
 }
