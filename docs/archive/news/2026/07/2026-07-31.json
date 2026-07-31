@@ -1,7 +1,150 @@
 {
   "date": "2026-07-31",
-  "count": 1970,
+  "count": 1985,
   "items": [
+    {
+      "id": "5018753",
+      "time": "2026-07-31 16:15:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國外交部：緬甸總統將於8月6日至7日訪問泰國。"
+    },
+    {
+      "id": "mkt:019fb73e-3f05-7aab-8f2e-1f696627d7be",
+      "time": "2026-07-31 16:15:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan bond-buying plan for August unchanged from July."
+    },
+    {
+      "id": "5018752",
+      "time": "2026-07-31 16:15:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鐵科軌道：副總經理李國清因到齡退休離任】鐵科軌道7月31日公告，董事會當天收到公司副總經理李國清的書面辭職報告，因已到法定退休年齡，李國清申請辭去公司副總經理職務。根據有關規定，李國清的離任自辭職報告送達公司董事會之日起生效。李國清離任後，公司擬返聘其擔任全資子公司鐵科（興城）科技有限公司技術顧問職務。"
+    },
+    {
+      "id": "mkt:019fb73d-dd18-7aab-8f2e-13156eca97ce",
+      "time": "2026-07-31 16:15:12",
+      "tags": [
+        "MKT News",
+        "RDDT.N",
+        "Impact bearish"
+      ],
+      "text": "Reddit (RDDT.N) fell 10.2% in premarket trading after reporting slower U.S. user growth in Q2."
+    },
+    {
+      "id": "5018751",
+      "time": "2026-07-31 16:14:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美ITC對進口自中國的225-999cc立式發動機及其零部件作出第一次雙反日落複審產業損害終裁】近日，美國國際貿易委員會（ITC）投票對進口自中國的排量為225～999cc立式發動機及其零部件作出第一次反傾銷和反補貼日落複審產業損害肯定性終裁：裁定若取消現行反傾銷和反補貼措施，在合理可預見期間內，涉案產品的進口對美國國內產業造成的實質性損害可能繼續或再度發生。根據終裁結果，本案現行反傾銷和反補貼措施繼續有效。"
+    },
+    {
+      "id": "5018750",
+      "time": "2026-07-31 16:14:53",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "Reddit股價盤前下跌10.2%，此前該公司公佈第二季度美國使用者增長放緩。"
+    },
+    {
+      "id": "te:economy:571626",
+      "time": "2026-07-31 16:14:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Retail Sales YoY",
+        "Importance 0"
+      ],
+      "text": "Thailand Retail Sales Fall at Softer Pace — Retail sales in Thailand fell 14.5% year-on-year in May 2026, easing from a 20% plunge in the previous month. Sales in other retail categories contracted at a slower pace (-31.3% vs -37.1% in April), supported by stronger sales via stalls and markets for other goods (34% vs 11.6%) and sales through mail-order houses and the internet (61.9% vs 49.3%). In contrast, sales growth for non-durable goods eased to 1.75% from 5.5% in the previous month, mainly due to a decline in food sales (-3.7% vs 5.1%) and weaker growth in pharmaceutical and medical goods, cosmetics, and toiletries (2.9% vs 8.5%). Sales growth also moderated for durable goods (4.2% vs 8.6%) and automotive fuel (11.7% vs 12.1%). On a monthly basis, retail activity declined 5.3% in June, significantly improving from a 22% slump in the previous month."
+    },
+    {
+      "id": "mkt:019fb73c-adc7-7aab-8f2e-0fdd3c2abc02",
+      "time": "2026-07-31 16:13:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "RIVN.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. electric-vehicle maker Rivian (RIVN.O) rose 4% in premarket trading after quarterly revenue beat expectations."
+    },
+    {
+      "id": "5018749",
+      "time": "2026-07-31 16:13:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞洲足球聯合會表示，足球絕不應陷入世界盃遭抵制威脅的處境。"
+    },
+    {
+      "id": "5018748",
+      "time": "2026-07-31 16:13:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Rivian股價盤前上漲4%，此前該公司季度營收超出市場預期。"
+    },
+    {
+      "id": "5018747",
+      "time": "2026-07-31 16:13:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新日股份：控股股東一致行動人部分股票質押展期】新日股份公告稱，2026年7月30日，公司接到股東安吉諄萊通知，其於招商證券辦理400萬股股份質押展期業務，原到期日為2026年7月31日，現展期至2027年7月31日，融資用於償還債務。安吉諄萊直接持股1829.87萬股，佔總股本7.95%，本次展期後累計質押900萬股，佔其持股49.18%，佔總股本3.91%。安吉諄萊等三方合計持股1.31億股，佔總股本56.97%，展期後累計質押3278萬股，佔比25%，佔總股本14.24%。本次展期不影響公司控制權和經營。"
+    },
+    {
+      "id": "5018746",
+      "time": "2026-07-31 16:13:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "線上影片遊戲平臺Roblox美股盤前下跌14.7%，因公司預計第三季度預訂量將出現超出預期的顯著下降。"
+    },
+    {
+      "id": "mkt:019fb73b-d385-7aab-8f2e-01bfb467f242",
+      "time": "2026-07-31 16:12:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell more than 1% intraday, trading at $4,062.35/oz."
+    },
+    {
+      "id": "5018745",
+      "time": "2026-07-31 16:12:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌1%，現報4061.77美元/盎司。"
+    },
+    {
+      "id": "5018744",
+      "time": "2026-07-31 16:12:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4118.91美元/盎司。"
+    },
     {
       "id": "5018743",
       "time": "2026-07-31 16:12:30",

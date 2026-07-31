@@ -1,7 +1,150 @@
 {
-  "updated": "2026-07-31 16:13:12",
-  "count": 17998,
+  "updated": "2026-07-31 16:17:19",
+  "count": 17992,
   "items": [
+    {
+      "id": "5018753",
+      "time": "2026-07-31 16:15:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國外交部：緬甸總統將於8月6日至7日訪問泰國。"
+    },
+    {
+      "id": "mkt:019fb73e-3f05-7aab-8f2e-1f696627d7be",
+      "time": "2026-07-31 16:15:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan bond-buying plan for August unchanged from July."
+    },
+    {
+      "id": "5018752",
+      "time": "2026-07-31 16:15:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鐵科軌道：副總經理李國清因到齡退休離任】鐵科軌道7月31日公告，董事會當天收到公司副總經理李國清的書面辭職報告，因已到法定退休年齡，李國清申請辭去公司副總經理職務。根據有關規定，李國清的離任自辭職報告送達公司董事會之日起生效。李國清離任後，公司擬返聘其擔任全資子公司鐵科（興城）科技有限公司技術顧問職務。"
+    },
+    {
+      "id": "mkt:019fb73d-dd18-7aab-8f2e-13156eca97ce",
+      "time": "2026-07-31 16:15:12",
+      "tags": [
+        "MKT News",
+        "RDDT.N",
+        "Impact bearish"
+      ],
+      "text": "Reddit (RDDT.N) fell 10.2% in premarket trading after reporting slower U.S. user growth in Q2."
+    },
+    {
+      "id": "5018751",
+      "time": "2026-07-31 16:14:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美ITC對進口自中國的225-999cc立式發動機及其零部件作出第一次雙反日落複審產業損害終裁】近日，美國國際貿易委員會（ITC）投票對進口自中國的排量為225～999cc立式發動機及其零部件作出第一次反傾銷和反補貼日落複審產業損害肯定性終裁：裁定若取消現行反傾銷和反補貼措施，在合理可預見期間內，涉案產品的進口對美國國內產業造成的實質性損害可能繼續或再度發生。根據終裁結果，本案現行反傾銷和反補貼措施繼續有效。"
+    },
+    {
+      "id": "5018750",
+      "time": "2026-07-31 16:14:53",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "Reddit股價盤前下跌10.2%，此前該公司公佈第二季度美國使用者增長放緩。"
+    },
+    {
+      "id": "te:economy:571626",
+      "time": "2026-07-31 16:14:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Retail Sales YoY",
+        "Importance 0"
+      ],
+      "text": "Thailand Retail Sales Fall at Softer Pace — Retail sales in Thailand fell 14.5% year-on-year in May 2026, easing from a 20% plunge in the previous month. Sales in other retail categories contracted at a slower pace (-31.3% vs -37.1% in April), supported by stronger sales via stalls and markets for other goods (34% vs 11.6%) and sales through mail-order houses and the internet (61.9% vs 49.3%). In contrast, sales growth for non-durable goods eased to 1.75% from 5.5% in the previous month, mainly due to a decline in food sales (-3.7% vs 5.1%) and weaker growth in pharmaceutical and medical goods, cosmetics, and toiletries (2.9% vs 8.5%). Sales growth also moderated for durable goods (4.2% vs 8.6%) and automotive fuel (11.7% vs 12.1%). On a monthly basis, retail activity declined 5.3% in June, significantly improving from a 22% slump in the previous month."
+    },
+    {
+      "id": "mkt:019fb73c-adc7-7aab-8f2e-0fdd3c2abc02",
+      "time": "2026-07-31 16:13:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "RIVN.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. electric-vehicle maker Rivian (RIVN.O) rose 4% in premarket trading after quarterly revenue beat expectations."
+    },
+    {
+      "id": "5018749",
+      "time": "2026-07-31 16:13:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞洲足球聯合會表示，足球絕不應陷入世界盃遭抵制威脅的處境。"
+    },
+    {
+      "id": "5018748",
+      "time": "2026-07-31 16:13:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Rivian股價盤前上漲4%，此前該公司季度營收超出市場預期。"
+    },
+    {
+      "id": "5018747",
+      "time": "2026-07-31 16:13:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新日股份：控股股東一致行動人部分股票質押展期】新日股份公告稱，2026年7月30日，公司接到股東安吉諄萊通知，其於招商證券辦理400萬股股份質押展期業務，原到期日為2026年7月31日，現展期至2027年7月31日，融資用於償還債務。安吉諄萊直接持股1829.87萬股，佔總股本7.95%，本次展期後累計質押900萬股，佔其持股49.18%，佔總股本3.91%。安吉諄萊等三方合計持股1.31億股，佔總股本56.97%，展期後累計質押3278萬股，佔比25%，佔總股本14.24%。本次展期不影響公司控制權和經營。"
+    },
+    {
+      "id": "5018746",
+      "time": "2026-07-31 16:13:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "線上影片遊戲平臺Roblox美股盤前下跌14.7%，因公司預計第三季度預訂量將出現超出預期的顯著下降。"
+    },
+    {
+      "id": "mkt:019fb73b-d385-7aab-8f2e-01bfb467f242",
+      "time": "2026-07-31 16:12:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell more than 1% intraday, trading at $4,062.35/oz."
+    },
+    {
+      "id": "5018745",
+      "time": "2026-07-31 16:12:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌1%，現報4061.77美元/盎司。"
+    },
+    {
+      "id": "5018744",
+      "time": "2026-07-31 16:12:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4118.91美元/盎司。"
+    },
     {
       "id": "5018743",
       "time": "2026-07-31 16:12:30",
@@ -166214,203 +166357,6 @@
         "其他"
       ],
       "text": "據香港證監會，勝利證券有限公司因違反監管規定遭證監會譴責及罰款170萬元並暫時吊銷其負責人員的牌照。"
-    },
-    {
-      "id": "5006363",
-      "time": "2026-07-24 16:16:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【杭州園林：與清微智慧等共同投資設立合資公司】杭州園林公告，公司擬與北京清微智慧科技股份有限公司、道客智算（上海）科技有限公司、芯計源資訊科技（上海）有限公司共同投資設立杭微天算（上海）智慧科技有限公司，註冊資本2000萬元。其中，杭州園林認繳出資1020萬元，持股51%；清微智慧認繳出資300萬元，持股15%；道客智算認繳出資300萬元，持股15%；芯計源資訊認繳出資380萬元，持股19%。合資公司處於籌備階段，尚未正式開展業務。"
-    },
-    {
-      "id": "5006362",
-      "time": "2026-07-24 16:16:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浩辰軟體：首次回購0.33%公司股份，已支付資金總額為人民幣852.51萬元】浩辰軟體公告，2026年7月24日，公司透過上海證券交易所交易系統以集中競價交易方式首次回購公司股份31.66萬股，佔公司總股本9542.04萬股的比例為0.33%，回購成交的最高價為27.14元/股，最低價為26.56元/股，支付的資金總額為人民幣852.51萬元（不含印花稅、交易佣金等交易費用）。"
-    },
-    {
-      "id": "5006361",
-      "time": "2026-07-24 16:16:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【至正股份：控股股東一致行動人質押795萬股 佔總股本5.21%】至正股份公告稱，公司控股股東一致行動人先進半導體直接持有公司股份1191.56萬股，佔總股本7.80%，本次質押795萬股，佔其所持股份66.72%，佔總股本5.21%。控股股東及其一致行動人合計持有公司股份3717.73萬股，佔總股本24.35%，本次質押後累計質押2601萬股，佔其所持股份69.96%，佔總股本17.03%。該質押風險可控，不會對公司經營及控制權產生重大影響。"
-    },
-    {
-      "id": "mkt:019f9332-2d4f-7aab-8e81-35ecdb7c1724",
-      "time": "2026-07-24 16:16:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "Chip Wars",
-        "Hang Seng Index",
-        "Impact bearish",
-        "02388.HK",
-        "Impact bullish",
-        "02513.HK"
-      ],
-      "text": "【Hong Kong close: Hang Seng down 0.98%; chip names retreat after earlier gains】Hong Kong stocks closed lower after a weak start. The Hang Seng Index fell 0.98% at the close and the Hang Seng Tech Index was down 1.47%, after the tech gauge dropped more than 2% earlier. Chip names ran up then pulled back: Lanqi Technology (06809.HK) gained over 6% intraday and Tianshu Zhixin (09903.HK) rose more than 3% before trimming gains. Bank of China Hong Kong (02388.HK) jumped nearly 6% to a record high; China Merchants Bank (03968.HK) and China Construction Bank (00939.HK) also traded higher. AI names saw pockets of strength, with Zhipu AI (02513.HK) up over 5%. Winners included telecoms, memory/storage, brain–computer interface and agriculture stocks. PCB makers slid: Kingboard Laminates (01888.HK) and Kingboard Holdings (00148.HK) each fell more than 7%. Gold producers plunged—Lingbao Gold (03330.HK) dropped over 5%—while base metals, building materials/cement, mainland property, cloud computing, robotics and heavy machinery were among the laggards."
-    },
-    {
-      "id": "5006360",
-      "time": "2026-07-24 16:15:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "2026年7月27日，江蘇展芯半導體技術股份有限公司（簡稱：展芯股份）將透過深交所網下發行電子平臺和交易系統發行新股，具體資訊如下。"
-    },
-    {
-      "id": "5006359",
-      "time": "2026-07-24 16:15:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國藥現代：全資子公司獲鹽酸氯胺酮注射液《藥品註冊證書》】國藥現代公告稱，近日，其全資子公司國藥工業收到國家藥監局核准簽發的鹽酸氯胺酮注射液《藥品註冊證書》，規格為2ml:0.1g，註冊分類為化學藥品3類。國藥工業是首家視同透過一致性評價的企業，截至目前，該專案累計研發投入約683.11萬元。這將豐富公司麻醉鎮痛板塊產品群，增強競爭力，但對目前經營業績無重大影響，藥品銷售存在不確定性。"
-    },
-    {
-      "id": "5006358",
-      "time": "2026-07-24 16:15:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國中冶：2026年上半年新籤合同額4136.4億元 同比降24.5%】中國中冶公告稱，2026年1-6月新籤合同額4136.4億元，同比降低24.5%，其中二季度新籤合同額2075.4億元，同比降低34.6%。分業務看，核心業務新籤合同額1040.3億元，同比降6.9%；主體業務2560.0億元，同比降29.8%；特色業務477.1億元，同比降22.6%；其他業務58.9億元，同比降40.6%。截至6月30日，公司無已簽訂尚未執行的重大專案。"
-    },
-    {
-      "id": "5006357",
-      "time": "2026-07-24 16:15:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金溢科技：控股股東667萬股股份解除質押及再質押】金溢科技公告稱，近日，公司控股股東敏行電子將667萬股（佔其所持股份比例21.79%，佔公司總股本比例3.77%）辦理了解除質押及再質押業務，質押到期日為辦理解除質押登記手續為止，質權人為深圳市高新投小額貸款有限公司，質押用途為自身資金需求。截至公告披露日，敏行電子及其一致行動人累計質押股份佔其所持股份比例為47.61%，佔公司總股本的比例為10.14%，質押風險可控。"
-    },
-    {
-      "id": "5006356",
-      "time": "2026-07-24 16:15:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【亞太實業：控股股東部分股份質押及解除質押，累計質押比例達98%】亞太實業公告稱，公司控股股東星瑞（蘭州）科技有限公司2026年7月23日質押1300萬股（首發後限售股），佔其所持股份比例17.33%，佔公司總股本比例2.68%，用於自身償還債務；同日解除質押1300萬股（首發後限售股）。截至公告披露日，星瑞科技累計質押股份7350萬股，佔其所持股份比例98%，佔公司總股本比例15.16%。其資信良好，質押股份暫無平倉或被強制過戶風險。"
-    },
-    {
-      "id": "5006355",
-      "time": "2026-07-24 16:15:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【全聚德：2026年上半年淨利潤1280萬-1550萬元 同比升3.39%-25.20%】全聚德公告稱，2026年1月1日至6月30日，預計歸屬於上市公司股東的淨利潤為1280萬元-1550萬元，同比上升3.39%-25.20%；扣除非經常性損益後的淨利潤為710萬元-920萬元，同比上升82.05%-135.90%。報告期內，公司營收同比小幅下降，但持續推進降本增效，最佳化門店佈局，提升了整體盈利水平。"
-    },
-    {
-      "id": "5006354",
-      "time": "2026-07-24 16:15:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華西證券：聘任黃明為總經理 楊炯洋因年齡原因離任】華西證券公告稱，經董事長提名、董事會提名委員會資格稽核，公司聘任黃明為總經理，任期至本屆董事會屆滿。因年齡原因，楊炯洋不再擔任總經理職務，公司將進行法定代表人變更。離任後，楊炯洋仍擔任公司黨委副書記等職。截至公告披露日，楊炯洋未持股，無未履行承諾事項。黃明曾任職多家金融機構，未受處罰處分，無違法違規情形。本次人事變動已透過審議，不會對公司產生重大不利影響。"
-    },
-    {
-      "id": "mkt:019f9331-789d-7aab-8e81-292d587eaf40",
-      "time": "2026-07-24 16:15:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's judiciary chief Ejei said Iran harbors no hostility or hatred toward its neighbors and regards them as friends."
-    },
-    {
-      "id": "5006353",
-      "time": "2026-07-24 16:15:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴西反對美國連連加稅 盧拉稱“會找新買家”】巴西政府發表宣告，反對美國以所謂“強迫勞動”為由對巴西征收12.5%的關稅，認為該措施“缺乏法律依據”。巴西方面將立即啟動相關程式以維護國家利益。巴西發展、工業與貿易部長馬爾西奧·羅薩指出，疊加美國近期對部分巴西產品加徵25%的關稅，巴西鞋類、機械裝置、零部件、服裝及非醫藥化工等多個行業面臨最高37.5%的稅率，產業或受到嚴重衝擊。他表示，巴西希望透過談判推動美國取消相關關稅，但不放棄採取對等措施的可能性。（新華社）"
-    },
-    {
-      "id": "mkt:019f9331-6656-7aab-8e81-25b5dd947658",
-      "time": "2026-07-24 16:15:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's judiciary chief Ejei said the only way out for the United States and its president is to abandon excessive demands and bullying, and they should not expect the Iranian people to yield."
-    },
-    {
-      "id": "mkt:019f9331-3a52-7aab-8e81-1fa99565e95e",
-      "time": "2026-07-24 16:15:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong's Hang Seng Index (HSI) closed down 247.58 points, or 0.98%, at 24,963.23 on July 24. The Hang Seng Tech Index fell 68.97 points, or 1.47%, to 4,629.51. The Hang Seng China Enterprises Index (HSCEI) slipped 81.61 points, or 0.98%, to 8,271.06. The Hang Seng Red Chip Index dropped 73.91 points, or 1.76%, to 4,119.21."
-    },
-    {
-      "id": "mkt:019f9331-1905-7aab-8e81-173145d9b70c",
-      "time": "2026-07-24 16:14:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "EURUSD",
-        "Impact bearish",
-        "GBPUSD"
-      ],
-      "text": "【Mitsubishi UFJ Financial Group: sustained energy-price rise could weigh on euro and pound】Mitsubishi UFJ Financial Group analyst Derek Halpenny said a sustained surge in energy prices, especially if a US‑Iran conflict intensifies, could put downward pressure on the euro and pound. Higher natural gas prices would hit household incomes and likely damp consumer spending and economic growth. He noted that while market rate expectations for the Fed, ECB and BoE are converging, investors may view the US economy as better able to withstand tighter policy."
-    },
-    {
-      "id": "te:economy:569712",
-      "time": "2026-07-24 16:14:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Euro Area",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Eurozone Manufacturing Growth Picks Up Slightly — The S&P Global Eurozone Manufacturing PMI rose to 52.0 in July 2026 from 51.4 in June, above expectations of 51.5, preliminary data showed. This also marked the steepest expansion in three months, supported by a stronger increase in output, as the manufacturing output index climbed to 53.0 from 51.7, marking the strongest pace since March 2022. Manufacturers kept purchasing activity broadly unchanged, while easing supply-chain disruptions allowed firms to increase input inventories for the first time in three-and-a-half years. However, manufacturers continued to reduce staffing levels. On the price front, manufacturing input cost inflation slowed in July, while output price inflation also eased, although cost pressures remained elevated. Looking ahead, manufacturers' confidence regarding future output improved slightly."
-    },
-    {
-      "id": "5006352",
-      "time": "2026-07-24 16:14:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊拉克總理扎伊迪會見了伊朗司法總監埃傑伊】伊拉克總理扎伊迪會見了伊朗司法總監埃傑伊。埃傑伊表示，在過去47年裡，美國對伊朗人民施加了各種形式的敵意，從宣傳和心理戰到經濟恐怖主義以及安全和軍事陰謀；美國及其總統唯一的出路是放棄過分的訴求和霸凌行徑，永遠不要幻想伊朗人民會屈服；伊朗對其鄰國沒有敵意或仇恨，並將其視為朋友。"
-    },
-    {
-      "id": "mkt:019f9330-e001-7aab-8e81-0e6b027f1436",
-      "time": "2026-07-24 16:14:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraq’s prime minister met Iran’s judiciary chief Gholamhossein Mohseni-Eje'i, who accused the US of 47 years of hostility toward the Iranian people, citing propaganda, psychological warfare, economic terrorism and security and military conspiracies."
-    },
-    {
-      "id": "5006351",
-      "time": "2026-07-24 16:14:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體（IRNA）稱，《紐約時報》關於伊拉克總理提議的報道“具有誤導性”。"
-    },
-    {
-      "id": "mkt:019f932f-8cb6-7aab-8e81-04fab076216e",
-      "time": "2026-07-24 16:13:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "【ECB executive board member Kocher: focus shifts to gas, food prices and wages】ECB executive board member Kocher said on Friday the bank does not yet see clear second‑round effects but risks of persistent inflation remain. Beyond oil, the ECB’s attention is shifting to the gas market, food prices and euro‑area wages. He said energy price increases typically feed into services prices with a longer lag while pass‑through to goods is faster. Kocher added the September meeting will be particularly important for gauging how energy market developments affect inflation."
     }
   ]
 }
