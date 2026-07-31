@@ -1,7 +1,57 @@
 {
   "date": "2026-08-01",
-  "count": 131,
+  "count": 136,
   "items": [
+    {
+      "id": "te:markets:571846",
+      "time": "2026-08-01 02:20:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Titanium Drops by 2.20% — Top commodity losers are Titanium (-2.20%), Silver (-2.07%), Lithium Carbonate (-2.05%) and Gold (-1.30%). Gains are led by Copper (0.58%)."
+    },
+    {
+      "id": "te:markets:571845",
+      "time": "2026-08-01 02:15:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Germany Natural Gas THE Rises by 2.32% — Top commodity gainers are Germany Natural Gas THE (2.32%), Brent Crude Oil (1.41%) and Crude Oil WTI (1.35%). Biggest losers are Propane (-1.42%), Heating Oil (-1.24%) and Methanol (-1.11%)."
+    },
+    {
+      "id": "5019800",
+      "time": "2026-08-01 02:14:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍一架F-35隱形戰鬥機在加州墜毀】據美國媒體31日報道，一架美軍F-35隱形戰鬥機當日在加利福尼亞州聖迭戈一處軍事基地墜毀。（新華社）"
+    },
+    {
+      "id": "mkt:019fb960-9d12-7aab-8f3c-84bb2bd0fc1d",
+      "time": "2026-08-01 02:12:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US F-35 crashes at Marine Corps Air Station Miramar; emergency crews responding】Just after 10 a.m. local Friday, FOX 5/KUSI reported heavy smoke near Marine Corps Air Station Miramar in California. Marine officials said emergency crews are responding to an F-35 aircraft incident on the flight line. The jet is assigned to the 3rd Marine Aircraft Wing’s Marine Aircraft Group 11. Fire was reported east of the runway near Kearny Villa Road and Johnson Road; news helicopter footage showed heavy smoke and what appeared to be a burned aircraft."
+    },
+    {
+      "id": "mkt:019fb95f-efe3-7aab-8f3c-7e935143b806",
+      "time": "2026-08-01 02:11:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "CNC.V",
+        "Impact bullish"
+      ],
+      "text": "Canadian government has approved Canada Nickel's Crawford nickel mine project in northern Ontario."
+    },
     {
       "id": "5019799",
       "time": "2026-08-01 02:00:11",

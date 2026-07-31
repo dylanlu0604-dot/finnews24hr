@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-01 02:11:58",
-  "count": 17969,
+  "updated": "2026-08-01 02:20:46",
+  "count": 17962,
   "items": [
+    {
+      "id": "te:markets:571846",
+      "time": "2026-08-01 02:20:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Titanium Drops by 2.20% — Top commodity losers are Titanium (-2.20%), Silver (-2.07%), Lithium Carbonate (-2.05%) and Gold (-1.30%). Gains are led by Copper (0.58%)."
+    },
+    {
+      "id": "te:markets:571845",
+      "time": "2026-08-01 02:15:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Germany Natural Gas THE Rises by 2.32% — Top commodity gainers are Germany Natural Gas THE (2.32%), Brent Crude Oil (1.41%) and Crude Oil WTI (1.35%). Biggest losers are Propane (-1.42%), Heating Oil (-1.24%) and Methanol (-1.11%)."
+    },
+    {
+      "id": "5019800",
+      "time": "2026-08-01 02:14:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍一架F-35隱形戰鬥機在加州墜毀】據美國媒體31日報道，一架美軍F-35隱形戰鬥機當日在加利福尼亞州聖迭戈一處軍事基地墜毀。（新華社）"
+    },
+    {
+      "id": "mkt:019fb960-9d12-7aab-8f3c-84bb2bd0fc1d",
+      "time": "2026-08-01 02:12:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US F-35 crashes at Marine Corps Air Station Miramar; emergency crews responding】Just after 10 a.m. local Friday, FOX 5/KUSI reported heavy smoke near Marine Corps Air Station Miramar in California. Marine officials said emergency crews are responding to an F-35 aircraft incident on the flight line. The jet is assigned to the 3rd Marine Aircraft Wing’s Marine Aircraft Group 11. Fire was reported east of the runway near Kearny Villa Road and Johnson Road; news helicopter footage showed heavy smoke and what appeared to be a burned aircraft."
+    },
+    {
+      "id": "mkt:019fb95f-efe3-7aab-8f3c-7e935143b806",
+      "time": "2026-08-01 02:11:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "CNC.V",
+        "Impact bullish"
+      ],
+      "text": "Canadian government has approved Canada Nickel's Crawford nickel mine project in northern Ontario."
+    },
     {
       "id": "5019799",
       "time": "2026-08-01 02:00:11",
@@ -166281,124 +166331,6 @@
         "Impact bearish"
       ],
       "text": "The New York Times, citing four people familiar with the matter, reports Trump met on Friday with senior advisers and Cabinet members to decide whether to escalate military strikes against Iran."
-    },
-    {
-      "id": "te:markets:569839",
-      "time": "2026-07-25 02:20:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Gains by 1.45% — Top commodity gainers are Silver (1.45%) and Gold (0.27%). Biggest losers are Titanium (-1.08%) and Lithium Carbonate (-0.68%)."
-    },
-    {
-      "id": "5007461",
-      "time": "2026-07-25 02:17:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭基輔州遭導彈襲擊致10人死亡】烏克蘭國家緊急情況局24日晚在社交媒體發文稱，基輔州布昌斯基區當天遭導彈襲擊致10人死亡、數十人受傷。烏國家緊急情況局稱，襲擊導致3處公寓樓起火，另有23處住宅、2處賓館等設施受損。截至發稿時，大火已被撲滅，烏國家緊急情況局和警方在組織救援。(新華社)"
-    },
-    {
-      "id": "5007460",
-      "time": "2026-07-25 02:17:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普週五就伊朗議題召開高層顧問會議。"
-    },
-    {
-      "id": "mkt:019f9558-cb17-7aab-8e8e-2502b30f1d85",
-      "time": "2026-07-25 02:17:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Two small firms sue U.S. government over Trump's global tariffs】Two small U.S. companies filed suit Friday in the U.S. Court of International Trade, alleging President Trump and U.S. officials illegally invoked Section 301 of the Trade Act of 1974 to impose the president's latest global tariffs, which took effect Friday. The plaintiffs say the administration used Section 301 to replace an earlier legal authority that the U.S. Supreme Court had struck down."
-    },
-    {
-      "id": "5007459",
-      "time": "2026-07-25 02:16:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲接受國家電視臺採訪時表示，伊朗已做好與美國對抗的充分準備，並警告美方將為此承受 “慘痛代價”。"
-    },
-    {
-      "id": "mkt:019f9556-e6e7-7aab-8e8e-190dbcabcc0b",
-      "time": "2026-07-25 02:15:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Zelenskiy says intelligence indicates Russia plans to increase troop presence in Ukraine this autumn."
-    },
-    {
-      "id": "5007458",
-      "time": "2026-07-25 02:15:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基警告，未來 48 小時內俄羅斯可能發動新一輪導彈襲擊，情報顯示俄羅斯計劃在秋季向烏克蘭增派兵力。"
-    },
-    {
-      "id": "te:markets:569838",
-      "time": "2026-07-25 02:15:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Brent Crude Oil Drops by 4.41% — Top commodity losers are Brent Crude Oil (-4.41%), Heating Oil (-3.92%) and Crude Oil WTI (-3.78%). Gains are led by Germany Natural Gas THE (2.30%), Natural Gas UK (2.07%) and Natural Gas EU (1.76%)."
-    },
-    {
-      "id": "5007457",
-      "time": "2026-07-25 02:13:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英媒：俄羅斯極有可能最早於今晚或未來幾天內發動新一輪大規模空襲】據英國金融時報報道，烏克蘭總統澤連斯基以及西方情報人士均發出警告，俄羅斯極有可能最早於今晚或在未來幾天內發動新一輪大規模空襲。澤連斯基在晚間講話中表示：“我們從合作伙伴處獲悉，俄方已準備好導彈，計劃對烏克蘭發動新一輪大規模打擊。此次打擊可能就在今天；初步情報顯示，行動將在未來48小時內進行。請大家務必注意安全，密切關注防空警報。”"
-    },
-    {
-      "id": "mkt:019f9555-2562-7aab-8e8e-162c84db7a51",
-      "time": "2026-07-25 02:13:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Financial Times: Zelenskiy, Western intelligence say Russia highly likely to launch large-scale air strikes within 48 hours】The Financial Times reports Ukrainian President Zelenskiy and Western intelligence warn Russia is highly likely to launch a new large-scale air strike as soon as tonight or within the next few days. Zelenskiy said in an evening address: “Partners have told us Russia has missiles ready and plans a new large-scale strike, possibly today; preliminary intelligence indicates action within 48 hours. Please stay safe and monitor air-raid alerts.”"
-    },
-    {
-      "id": "mkt:019f9554-1556-7aab-8e8e-0c868583a838",
-      "time": "2026-07-25 02:12:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Musk said next month all code related to the X system will be open-sourced and subjected to third-party audits; only full transparency can win trust."
-    },
-    {
-      "id": "te:markets:569837",
-      "time": "2026-07-25 02:12:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Poste Italiane earnings below expectations at 0.45 EUR — Poste Italiane (PST) released earnings per share at 0.45 EUR, compared to market expectations of 0.49 EUR."
     }
   ]
 }
