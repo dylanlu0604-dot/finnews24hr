@@ -1,7 +1,28 @@
 {
   "date": "2026-07-31",
-  "count": 828,
+  "count": 830,
   "items": [
+    {
+      "id": "5017964",
+      "time": "2026-07-31 08:52:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債收益率下跌0.5個基點，至3.960%。"
+    },
+    {
+      "id": "te:markets:571400",
+      "time": "2026-07-31 08:51:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japan’s Nikkei Jumps on Semiconductor Rally — The Nikkei 225 Index jumped 5% to around 65,000 on Friday, extending the previous session’s gains and tracking Wall Street higher amid a global rally in semiconductor stocks and renewed optimism surrounding the artificial intelligence sector. Investor sentiment was lifted by strong earnings from Microsoft and Amazon, whose shares surged after reinforcing confidence in hyperscaler investment and sustained AI-driven demand. In Japan, Advantest soared another 17% after raising its annual operating profit forecast by 35%, fueled by robust demand for AI-related chip-testing equipment. Other major technology gainers included Tokyo Electron (8.4%), Kokusai Electric (6.2%), SoftBank Group (14.5%), Fujikura (12.4%), and Lasertec (11.8%). Meanwhile, investors remained focused on the Bank of Japan’s policy decision later today, with the central bank widely expected to keep interest rates unchanged."
+    },
     {
       "id": "mkt:019fb5a6-c928-7aab-8f21-55e08e257b80",
       "time": "2026-07-31 08:50:34",
