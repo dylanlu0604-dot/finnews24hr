@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-31 13:09:42",
-  "count": 18037,
+  "updated": "2026-07-31 13:14:04",
+  "count": 18034,
   "items": [
+    {
+      "id": "5018358",
+      "time": "2026-07-31 13:12:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國野火引爆疑似德軍二戰遺留彈藥庫 】法國大西洋沿岸近日野火肆虐，一處被遺忘的二戰彈藥庫在野火中爆炸，傳出上百次爆炸聲。法國吉倫特省勒波日鎮長馬夏爾·扎尼內蒂7月30日告訴法國新聞廣播電臺，本輪野火吞噬了不少房屋，而且引爆了被遺忘的二戰時期地下彈藥庫，爆炸發出的巨響震耳欲聾。“鎮上的私有土地下竟然埋藏著彈藥庫，我們對此毫不知情。”依照《法蘭西西部報》說法，這批彈藥很可能是德軍遺留物資。二戰期間，德軍曾在法國大西洋沿岸的沙丘與林地修建大量碉堡、指揮點和彈藥庫。德軍1944年撤退時遺棄許多設施，大量彈藥與軍用裝備逐漸被遺忘。當地至今仍不時發掘出這類物品。（新華社）"
+    },
+    {
+      "id": "te:economy:571506",
+      "time": "2026-07-31 13:11:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Singapore Business Mood Remains Positive — Business confidence in Singapore's manufacturing sector remained positive in the second quarter of 2026, with a net weighted balance of 12%, though down from 17% in the previous survey, as strong global AI-related demand continued to support sentiment despite elevated geopolitical and economic uncertainty. Precision engineering (+55) was the most optimistic, driven by semiconductor-related equipment demand, while electronics (+19) also stayed upbeat on robust AI-related semiconductor demand. In contrast, chemicals (-25) remained the weakest amid Middle East-related feedstock supply disruptions, while general manufacturing industries (-13) stayed cautious due to rising material, fuel, and freight costs. Looking ahead, a net 26% of firms expect output to increase in the third quarter, led by precision engineering, electronics, and transport engineering, while most manufacturers anticipate stable employment."
+    },
+    {
+      "id": "5018357",
+      "time": "2026-07-31 13:10:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【一票之差 美國會欲給對伊戰爭“踩剎車”再度遇阻】當地時間7月30日，美國參議院再次就持續五個月的對伊朗戰爭進行表決。結果是49票贊成、50票反對——只差一票，一項要求總統將美軍撤出未經國會授權的對伊軍事行動的決議，未能在參議院推進。這場投票的分佈沒有完全沿著兩黨界線展開。三名共和黨參議員蘇珊·柯林斯、麗莎·穆爾科斯基和蘭德·保羅與民主黨人一起支援推進決議；民主黨參議員約翰·費特曼則投下反對票；共和黨參議員米奇·麥康奈爾沒有參加投票。（央視）"
+    },
+    {
+      "id": "5018356",
+      "time": "2026-07-31 13:09:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
     {
       "id": "5018355",
       "time": "2026-07-31 13:08:51",
@@ -166778,66 +166815,6 @@
         "國際"
       ],
       "text": "【韓國法院在離婚判決中裁定SK集團董事長崔泰源向前妻支付6.4億美元】週五，韓國一家法院在一樁與離婚相關的財產分割案件中，裁定SK集團董事長崔泰源向前妻羅素英支付9,440億韓元 (6.4億美元)。這一數額低於此前裁定的1.38萬億韓元，此前那項裁決 曾引發對其在該集團控股公司持股情況的質疑。此前，最高法院去年推翻了下級法院關於該離婚財產分割案判決的一部分，稱羅素英的父親、前總統盧泰愚據稱提供給該集團的資金不能被視為受法律保護的出資。雙方均可就該裁決向最高法院提起上訴。"
-    },
-    {
-      "id": "mkt:019f928b-4a41-7aab-8e7b-1d2e364d22fd",
-      "time": "2026-07-24 13:13:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB Executive Board member Nagel said policymakers should not pre-commit to any rate changes before the September meeting."
-    },
-    {
-      "id": "5005981",
-      "time": "2026-07-24 13:11:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "挪威外交大臣：我們沒有計劃對源自美國的進口商品徵收任何關稅。"
-    },
-    {
-      "id": "mkt:019f9289-504e-7aab-8e7b-178ae39e0a21",
-      "time": "2026-07-24 13:11:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Norwegian foreign minister says Norway has no plans to impose tariffs on imports from the United States."
-    },
-    {
-      "id": "mkt:019f9289-4679-7aab-8e7b-0a8c7e4ea532",
-      "time": "2026-07-24 13:11:37",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "The STAR 50 index rose more than 2% despite broader weakness, with the storage-chip sector outperforming; constituents Jingchen and Zhongke Feice each gained over 10%."
-    },
-    {
-      "id": "5005980",
-      "time": "2026-07-24 13:11:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達2.10%，成分股中，晶晨股份漲10.73%，中科飛測漲10.62%，翱捷科技漲9.00%，拓荊科技漲7.86%。"
-    },
-    {
-      "id": "5005979",
-      "time": "2026-07-24 13:10:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體裝置午後持續走高 託倫斯逼近20CM漲停】半導體裝置午後持續走高，至純科技漲停，託倫斯逼近20CM漲停，中科飛測、芯源微、拓荊科技、強一股份、京儀裝備跟漲。"
-    },
-    {
-      "id": "5005978",
-      "time": "2026-07-24 13:09:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【深圳華強：近期觀察到MLCC客戶下單增加 主動補庫存】深圳華強7月23日在機構線下調研時表示，公司近期觀察到MLCC客戶下單增加，開始拉貨、主動補庫存。對部分缺貨的型號，公司優先滿足大客戶的採購需求。同時，公司表示，目前電子元器件產業景氣度高企，產業鏈各環節的價格普遍上漲，價格上漲的原因包括AI算力基建帶來的增量需求和對產能的虹吸效應，物料和生產成本的上漲，地緣政治衝突、逆全球化對供應鏈擾動的影響等。"
     }
   ]
 }
