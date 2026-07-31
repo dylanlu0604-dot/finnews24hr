@@ -1,7 +1,72 @@
 {
   "date": "2026-07-31",
-  "count": 1428,
+  "count": 1435,
   "items": [
+    {
+      "id": "5018363",
+      "time": "2026-07-31 13:17:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達4.02%，成分股中，國子軟體漲24.18%，萬達軸承漲14.47%，戈碧迦漲11.92%，三協電機漲11.25%。"
+    },
+    {
+      "id": "5018362",
+      "time": "2026-07-31 13:16:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【必揚醫藥完成近兩億元A輪融資】7月31日，據星漢資本訊息，成都必揚醫藥科技有限公司近日宣佈超額完成近兩億元人民幣A輪融資。本輪融資由君聯資本與上海生物醫藥創新轉化基金聯合領投，康哲藥業、豐雷資本、上海科創基金與港粵資本跟投，老股東源津創投與元生創投持續加碼，星漢資本擔任本輪融資財務顧問。本輪資金將主要用於加速公司核心AI+分子設計與最佳化平臺（ExCEED）的技術迭代，推進重點專案管線的臨床與臨床前開發，並進一步完善國際化研發及商務團隊建設。"
+    },
+    {
+      "id": "5018361",
+      "time": "2026-07-31 13:16:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人形機器人概念持續走強 奧比中光20%漲停】人形機器人概念持續走強，奧比中光午後20%漲停，中控技術、拓斯達、長盛軸承等跟漲。"
+    },
+    {
+      "id": "5018360",
+      "time": "2026-07-31 13:16:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐將 殼牌 目標價從3500便士上調至3650便士。"
+    },
+    {
+      "id": "5018359",
+      "time": "2026-07-31 13:15:23",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SK海力士股價在首爾漲幅擴大至30%，觸及漲停板。"
+    },
+    {
+      "id": "te:markets:571508",
+      "time": "2026-07-31 13:15:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Drops by 0.93% — Top currency losers are South Korean Won (-0.93%), Japanese Yen (-0.71%), Swiss Franc (-0.28%), Euro (-0.18%) and British Pound (-0.15%). Gains are led by Dollar Index (0.23%)."
+    },
+    {
+      "id": "te:economy:571507",
+      "time": "2026-07-31 13:14:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Housing Starts YoY",
+        "Importance 1"
+      ],
+      "text": "Japan Housing Starts Slow Sharply, Still Beat Expectations — Japan’s housing starts increased 18.6% year-on-year in June 2026, easing significantly from a 33.9% surge in the previous month but marking the third consecutive month of growth. The latest reading also comfortably exceeded market expectations of a 12.8% increase, suggesting housing construction remained resilient despite the moderation. Growth slowed across major categories, including owner-occupied homes (15.7% vs. 31.8% in May), rental housing (24.6% vs. 33.3%), and built-for-sale homes (14.2% vs. 39.2%). Meanwhile, starts for two-by-four homes fell 7.4%, reversing a 24.8% increase in May. In contrast, prefabricated housing starts rebounded strongly, rising 13.7% after a 3.4% decline in May."
+    },
     {
       "id": "5018358",
       "time": "2026-07-31 13:12:54",
