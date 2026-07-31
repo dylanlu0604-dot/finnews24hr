@@ -1,7 +1,132 @@
 {
-  "updated": "2026-07-31 23:45:35",
-  "count": 17966,
+  "updated": "2026-07-31 23:49:56",
+  "count": 17973,
   "items": [
+    {
+      "id": "mkt:019fb8dd-3459-7aab-8f3a-4a6e4be81727",
+      "time": "2026-07-31 23:48:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Germany to extend border controls beyond September】Federal Interior Minister Dobrindt said on July 31 local time that, after a recent large influx of migrants into Spain’s North African enclave Ceuta, Germany will extend border controls with neighboring countries beyond September to continue curbing illegal migration."
+    },
+    {
+      "id": "5019736",
+      "time": "2026-07-31 23:48:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國宣佈延長邊境管控措施至9月以後】德國聯邦內政部長多布林特當地時間7月31日表示，鑑於近期西班牙北非飛地休達出現大規模非法移民湧入，德國將把針對鄰國邊境的管控措施延長至9月以後，以繼續遏制非法移民。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fb8dc-6b13-7aab-8f3a-41c54e62c2b6",
+      "time": "2026-07-31 23:48:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "U.S. President Trump said Iran will soon no longer possess certain military capabilities."
+    },
+    {
+      "id": "5019735",
+      "time": "2026-07-31 23:47:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：不久之後，伊朗部分軍事力量將不復存在。"
+    },
+    {
+      "id": "te:markets:571825",
+      "time": "2026-07-31 23:47:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Rapeseed Hits 4-week Low — Rapeseed decreased to 517.25 EUR/T, the lowest since July 2026. Over the past 4 weeks, Rapeseed gained 1.82%, and in the last 12 months, it increased 9.06%."
+    },
+    {
+      "id": "mkt:019fb8db-c36d-7aab-8f3a-3f8abbb9bbd4",
+      "time": "2026-07-31 23:47:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said the U.S.-Venezuela relationship is very good."
+    },
+    {
+      "id": "te:markets:571824",
+      "time": "2026-07-31 23:46:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Gain on Strong Corporate Results — The CAC 40 gained 0.3% to close at 8,510 on Friday as investors assessed another round of corporate earnings and business updates. Engie surged 5.3% after reporting strong first-half results and raising its 2026 guidance. Crédit Agricole gained 2.5% after beating second-quarter expectations, while Saint-Gobain jumped 7% as the company returned to double-digit sales growth in the second quarter and reaffirmed its 2026 outlook. TotalEnergies added 0.8% as oil prices extended gains. Luxury stocks were mixed as persistent Middle East tensions weighed on risk sentiment. LVMH rose 0.4%, while L'Oréal fell 1.8% and Hermès lost 1.1%. On the data front, France's annual inflation rate accelerated to 2.1% in July from 1.8% in June, reinforcing the case for a more cautious ECB easing cycle. Meanwhile, producer prices fell 0.6% month-over-month in June after a revised 0.2% decline in May."
+    },
+    {
+      "id": "5019734",
+      "time": "2026-07-31 23:46:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們與委內瑞拉關係很好。"
+    },
+    {
+      "id": "mkt:019fb8da-8b11-7aab-8f3a-3299341e37bb",
+      "time": "2026-07-31 23:45:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he hopes defense contractors will act swiftly."
+    },
+    {
+      "id": "5019733",
+      "time": "2026-07-31 23:45:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：希望國防企業加快行動。"
+    },
+    {
+      "id": "5019732",
+      "time": "2026-07-31 23:45:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗在與美國打交道時一直不誠實。"
+    },
+    {
+      "id": "mkt:019fb8da-0900-7aab-8f3a-2fb3b228dbed",
+      "time": "2026-07-31 23:45:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Iran is facing serious difficulties and that its situation is very bad."
+    },
+    {
+      "id": "5019731",
+      "time": "2026-07-31 23:45:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗目前處境十分艱難。"
+    },
+    {
+      "id": "5019730",
+      "time": "2026-07-31 23:44:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：西班牙移民局勢為“災難”。"
+    },
     {
       "id": "5019729",
       "time": "2026-07-31 23:44:03",
@@ -166326,79 +166451,6 @@
         "MKT News"
       ],
       "text": "【China foreign minister Wang Yi meets Russian foreign minister Lavrov】China foreign minister Wang Yi met Russian foreign minister Lavrov on the 24th on the sidelines of the Shanghai Cooperation Organization foreign ministers' meeting in Kyrgyzstan. They agreed to follow leaders' consensus, pursue independent development and deepen comprehensive strategic coordination and mutual trust, and to plan further high-level exchanges to sustain pragmatic cooperation. Wang called for strengthened strategic coordination to safeguard World War II victory outcomes and said Japan must not be allowed to rearm. He also urged closer multilateral coordination, expecting continued Russian support for APEC’s China Year activities and reciprocal backing in the United Nations and other multilateral forums."
-    },
-    {
-      "id": "5007380",
-      "time": "2026-07-24 23:49:19",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅會見俄羅斯外長拉夫羅夫】中共中央政治局委員、外交部長王毅24日在吉爾吉斯斯坦出席上海合作組織外長會期間會見俄羅斯外長拉夫羅夫。王毅表示，今年5月，習近平主席同普京總統在北京舉行重要會晤，推動中俄關系進入更有作為、更快發展的新階段。中方預祝俄方9月新一屆國家杜馬選舉順利舉行，堅定支援俄羅斯人民自主作出的選擇。今年是中俄簽署睦鄰友好合作條約和上海合作組織成立25週年。在條約指引下，中俄樹立起新型國與國關係和大國關係的典範。上合組織現已成為世界穩定力量，國際聲望持續提升。雙方要共同支援上合組織發展壯大，弘揚“上海精神”，為完善全球治理、構建人類命運共同體注入生機活力。（新華社）"
-    },
-    {
-      "id": "mkt:019f94d0-b7ac-7aab-8e8b-f90e26ef73f0",
-      "time": "2026-07-24 23:48:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB chief economist Lane said the euro-area economy continues to grow."
-    },
-    {
-      "id": "5007379",
-      "time": "2026-07-24 23:48:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行首席經濟學家連恩： 歐洲經濟仍保持增長。"
-    },
-    {
-      "id": "mkt:019f94d0-079b-7aab-8e8b-f356acd7c6b1",
-      "time": "2026-07-24 23:48:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. Embassy in Jerusalem urged U.S. citizens in the Middle East to prepare for \"flight cancellations\" and \"airspace closures\"."
-    },
-    {
-      "id": "te:markets:569822",
-      "time": "2026-07-24 23:48:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Ends Week Higher — The FTSE 100 climbed 0.9% on Friday, with broad-based gains across most sectors offsetting weakness in energy stocks. RELX was among the top performers, advancing around 5%, while Rolls-Royce gained more than 3%. London Stock Exchange Group and British American Tobacco also rose over 2%. Reckitt Benckiser also moved higher after announcing the sale of its Russian hygiene business to Arnest Management, a transaction expected to result in a post-tax loss of about £175 million. In contrast, Shell and BP each fell more than 1% as oil prices retreated following reports that Pakistan, backed by China, was seeking to revive US-Iran peace talks, easing concerns over supply disruptions. On the macroeconomic front, UK retail sales unexpectedly rose 1% in June, beating forecasts for a 0.3% decline. Meanwhile, the latest S&P Global PMI survey showed UK business activity returned to expansion and exceeded market expectations. The FTSE 100 ended the week with a gain of around 1.3%."
-    },
-    {
-      "id": "mkt:019f94cf-d7a5-7aab-8e8b-ebddb283f404",
-      "time": "2026-07-24 23:47:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China foreign minister Wang Yi attends SCO foreign ministers' meeting】China foreign minister Wang Yi attended the Shanghai Cooperation Organization foreign ministers' council in Kyrgyzstan on the 24th. He marked the group's 25th anniversary, noting its expansion from six founding states focused on border security to a 27-member forum cooperating in more than 50 areas and representing nearly half the world's population. The council endorsed a 10-year strategy for closer cooperation aimed at strengthening regional security and development and contributing to a more democratic, multipolar global order."
-    },
-    {
-      "id": "5007378",
-      "time": "2026-07-24 23:46:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行首席經濟學家連恩： 美國並非全球貿易中的 “主導因素”。"
     }
   ]
 }

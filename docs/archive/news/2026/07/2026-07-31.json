@@ -1,7 +1,132 @@
 {
   "date": "2026-07-31",
-  "count": 3371,
+  "count": 3385,
   "items": [
+    {
+      "id": "mkt:019fb8dd-3459-7aab-8f3a-4a6e4be81727",
+      "time": "2026-07-31 23:48:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Germany to extend border controls beyond September】Federal Interior Minister Dobrindt said on July 31 local time that, after a recent large influx of migrants into Spain’s North African enclave Ceuta, Germany will extend border controls with neighboring countries beyond September to continue curbing illegal migration."
+    },
+    {
+      "id": "5019736",
+      "time": "2026-07-31 23:48:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國宣佈延長邊境管控措施至9月以後】德國聯邦內政部長多布林特當地時間7月31日表示，鑑於近期西班牙北非飛地休達出現大規模非法移民湧入，德國將把針對鄰國邊境的管控措施延長至9月以後，以繼續遏制非法移民。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fb8dc-6b13-7aab-8f3a-41c54e62c2b6",
+      "time": "2026-07-31 23:48:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "U.S. President Trump said Iran will soon no longer possess certain military capabilities."
+    },
+    {
+      "id": "5019735",
+      "time": "2026-07-31 23:47:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：不久之後，伊朗部分軍事力量將不復存在。"
+    },
+    {
+      "id": "te:markets:571825",
+      "time": "2026-07-31 23:47:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Rapeseed Hits 4-week Low — Rapeseed decreased to 517.25 EUR/T, the lowest since July 2026. Over the past 4 weeks, Rapeseed gained 1.82%, and in the last 12 months, it increased 9.06%."
+    },
+    {
+      "id": "mkt:019fb8db-c36d-7aab-8f3a-3f8abbb9bbd4",
+      "time": "2026-07-31 23:47:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said the U.S.-Venezuela relationship is very good."
+    },
+    {
+      "id": "te:markets:571824",
+      "time": "2026-07-31 23:46:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Gain on Strong Corporate Results — The CAC 40 gained 0.3% to close at 8,510 on Friday as investors assessed another round of corporate earnings and business updates. Engie surged 5.3% after reporting strong first-half results and raising its 2026 guidance. Crédit Agricole gained 2.5% after beating second-quarter expectations, while Saint-Gobain jumped 7% as the company returned to double-digit sales growth in the second quarter and reaffirmed its 2026 outlook. TotalEnergies added 0.8% as oil prices extended gains. Luxury stocks were mixed as persistent Middle East tensions weighed on risk sentiment. LVMH rose 0.4%, while L'Oréal fell 1.8% and Hermès lost 1.1%. On the data front, France's annual inflation rate accelerated to 2.1% in July from 1.8% in June, reinforcing the case for a more cautious ECB easing cycle. Meanwhile, producer prices fell 0.6% month-over-month in June after a revised 0.2% decline in May."
+    },
+    {
+      "id": "5019734",
+      "time": "2026-07-31 23:46:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們與委內瑞拉關係很好。"
+    },
+    {
+      "id": "mkt:019fb8da-8b11-7aab-8f3a-3299341e37bb",
+      "time": "2026-07-31 23:45:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he hopes defense contractors will act swiftly."
+    },
+    {
+      "id": "5019733",
+      "time": "2026-07-31 23:45:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：希望國防企業加快行動。"
+    },
+    {
+      "id": "5019732",
+      "time": "2026-07-31 23:45:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗在與美國打交道時一直不誠實。"
+    },
+    {
+      "id": "mkt:019fb8da-0900-7aab-8f3a-2fb3b228dbed",
+      "time": "2026-07-31 23:45:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Iran is facing serious difficulties and that its situation is very bad."
+    },
+    {
+      "id": "5019731",
+      "time": "2026-07-31 23:45:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗目前處境十分艱難。"
+    },
+    {
+      "id": "5019730",
+      "time": "2026-07-31 23:44:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：西班牙移民局勢為“災難”。"
+    },
     {
       "id": "5019729",
       "time": "2026-07-31 23:44:03",
