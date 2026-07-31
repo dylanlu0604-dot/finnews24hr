@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-01 02:56:47",
-  "count": 17951,
+  "updated": "2026-08-01 03:01:14",
+  "count": 17944,
   "items": [
+    {
+      "id": "5019810",
+      "time": "2026-08-01 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.06%，報25925.68點，高水41.25點。"
+    },
     {
       "id": "mkt:019fb983-e34b-7aab-8f3c-c20e67368ca9",
       "time": "2026-08-01 02:50:56",
@@ -166141,80 +166149,6 @@
         "國際"
       ],
       "text": "美國農業部稱，美國牛存欄量為9420萬頭。同比增長0.2%。"
-    },
-    {
-      "id": "mkt:019f9580-af5f-7aab-8e8e-c3765dcc3450",
-      "time": "2026-07-25 03:01:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures night session closed up 0.22% at 25,020, a 57-point premium to the cash index."
-    },
-    {
-      "id": "5007477",
-      "time": "2026-07-25 03:01:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "海南省氣象臺2026年07月25日02時39分發布海上雷雨大風黃色預警訊號：受對流雲團影響，北部灣北部海面25日02時39分到09時可能出現雷雨大風天氣，風力達7～9級並伴有強雷電，建議有關單位和人員做好防範工作。（海南氣象）"
-    },
-    {
-      "id": "5007476",
-      "time": "2026-07-25 03:00:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒生指數主連夜盤收漲0.22%，報25020點。恒生科技指數主連夜盤收跌0.11%，報4633點。"
-    },
-    {
-      "id": "5007475",
-      "time": "2026-07-25 03:00:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部稱，6月份美國牛肉供應量為3.892億磅。"
-    },
-    {
-      "id": "mkt:019f957f-f239-7aab-8e8e-b8b5d1142c3b",
-      "time": "2026-07-25 03:00:17",
-      "tags": [
-        "MKT News",
-        "GOOGL.O"
-      ],
-      "text": "Google is working to comply with the EU Digital Markets Act (DMA)."
-    },
-    {
-      "id": "5007474",
-      "time": "2026-07-25 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.26%，報25012.80點，高水49.57點。"
-    },
-    {
-      "id": "mkt:019f957e-22ce-7aab-8e8e-b2b031513393",
-      "time": "2026-07-25 02:58:19",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Google said it was concerned about the impact of recent European Commission decisions and thanked the US government for its involvement."
-    },
-    {
-      "id": "5007473",
-      "time": "2026-07-25 02:57:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌：對歐盟委員會近期各項裁決帶來的影響表示擔憂，對美國政府的溝通互動表示認可，認可美國政府開展的溝通磋商。"
     }
   ]
 }
