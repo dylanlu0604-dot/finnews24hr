@@ -1,7 +1,198 @@
 {
-  "updated": "2026-07-31 15:57:32",
-  "count": 17983,
+  "updated": "2026-07-31 16:01:26",
+  "count": 17988,
   "items": [
+    {
+      "id": "mkt:019fb730-ca01-7aab-8f2d-5c52c9575ff8",
+      "time": "2026-07-31 16:00:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "LME inventories fell: tin down 185 tonnes, lead down 4,575 tonnes, nickel down 1,350 tonnes, zinc down 900 tonnes, aluminium down 1,900 tonnes, copper down 5,550 tonnes."
+    },
+    {
+      "id": "5018697",
+      "time": "2026-07-31 16:00:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所（LME）：錫庫存減少185噸，鉛庫存減少4575噸，鎳庫存減少1350噸，鋅庫存減少900噸，鋁庫存減少1900噸，銅庫存減少5550噸。"
+    },
+    {
+      "id": "5018696",
+      "time": "2026-07-31 16:00:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "亞馬遜股價盤前上漲10.8%，此前該公司錄得四年多以來最強勁的雲端計算業務增長。"
+    },
+    {
+      "id": "5018695",
+      "time": "2026-07-31 16:00:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中證指數公司：釋出中證科創創業通訊裝置主題等3條指數】中證指數有限公司將於2026年8月3日正式釋出中證科創創業通訊裝置主題指數等3條指數，為市場提供更豐富的投資標的。 中證科創創業通訊裝置主題指數從科創板和創業板中選取40只業務涉及通訊裝置製造、衛星網際網路建設等領域的上市公司證券作為指數樣本，以反映科創板和創業板通訊裝置主題上市公司證券的整體表現。 中證儲存晶片臻選指數選取30只業務涉及儲存晶片設計與製造、封測、材料、裝置、分銷、關鍵配套產業等領域的上市公司證券作為指數樣本，以反映儲存晶片產業細分領域代表性上市公司證券的整體表現。 中證智選低波動100指數選取100只基本面較穩健、綜合波動率較低的上市公司證券作為指數樣本，以反映低波動特徵較為突出的上市公司證券的整體表現。"
+    },
+    {
+      "id": "mkt:019fb730-9cc0-7aab-8f2d-530a17122cc2",
+      "time": "2026-07-31 16:00:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Istat Manufacturing Confidence Index (Jul) | actual 89.6 | consensus 88.9 | previous 88.4"
+    },
+    {
+      "id": "mkt:019fb730-9cb2-7aab-8f2d-4d1374771713",
+      "time": "2026-07-31 16:00:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Istat Consumer Confidence Index (Jul) | actual 94.2 | consensus 92.5 | previous 92.4"
+    },
+    {
+      "id": "5018694",
+      "time": "2026-07-31 16:00:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部檢查指導組在江蘇明察暗訪時發現，個別景區客船脫險通道鎖閉】近日，交通運輸部檢查指導組赴江蘇開展汛期暑期交通運輸安全生產重大風險隱患排查整治指導工作。在南京、常州、徐州、無錫、鎮江5個地市的26個縣（市、區），檢查指導組明察暗訪交通運輸管理部門和道路運輸、公路運營、公路水運工程建設、水上交通、港口航道等領域企業共72家，發現問題隱患56項，其中重大事故隱患1項。"
+    },
+    {
+      "id": "mkt:019fb730-2d18-7aab-8f2d-47775aeb97de",
+      "time": "2026-07-31 16:00:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Taiwan Q2 preliminary annualized GDP 12.92% vs 10.8% expected; prior 14.55%."
+    },
+    {
+      "id": "te:markets:571615",
+      "time": "2026-07-31 16:00:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Crude Oil WTI Falls by 1.65% — Top commodity losers are Crude Oil WTI (-1.65%), Gasoline (-1.44%) and Brent Crude Oil (-1.31%)."
+    },
+    {
+      "id": "mkt:019fb730-0c25-7aab-8f2d-3dd1a5359f8a",
+      "time": "2026-07-31 16:00:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Economic Growth Rate Preliminary (YoY) (Q2) | actual 12.92% | consensus 10.8% | previous 14.55%"
+    },
+    {
+      "id": "5018693",
+      "time": "2026-07-31 16:00:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【去哪兒：8月5日起燃油附加費再下調，800公里以上航線每人省30元】7月31日，去哪兒接到多家航空公司通知，自2026年8月5日（出票日期）起，成人旅客：800公里以上航線每位旅客收取70元燃油附加費，800公里（含）以下航線每位旅客收取40元燃油附加費。相較於調整前降低了30元/10元。"
+    },
+    {
+      "id": "mkt:019fb72f-f6dd-7aab-8f2d-30c1749e2291",
+      "time": "2026-07-31 16:00:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qunar: fuel surcharge cut from Aug 5; >800 km routes save 30 yuan per passenger】Qunar said on July 31 it received notices from multiple airlines that, effective for tickets issued from Aug 5, 2026, adult passengers will be charged a fuel surcharge of 70 yuan for routes over 800 km and 40 yuan for routes of 800 km or less, reductions of 30 yuan and 10 yuan respectively versus prior levels."
+    },
+    {
+      "id": "5018692",
+      "time": "2026-07-31 15:59:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗駐華大使：在軍事威脅下，不準備與美對話】伊朗駐華大使法茲裡7月28日表示，伊美回到談判桌的前提是美國必須遵守伊美諒解備忘錄，但伊朗對美國“沒有任何信任”，在面臨軍事威脅的情況下，不準備與美國進行對話。（新華社）"
+    },
+    {
+      "id": "5018691",
+      "time": "2026-07-31 15:59:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【濟民健康：擬4.09億元購資產 已付首期款1.43億元】濟民健康公告稱，公司於2026年7月20日擬出資4.09億元，透過受讓長沙中電匯智投資管理合夥企業部分合夥人合夥份額，間接取得長城銀河20.4550%股權。截至公告日，公司已按協議向交易共管賬戶支付首期轉讓款1.43億元，佔總轉讓款的35%，本次購買資產正按計劃推進。"
+    },
+    {
+      "id": "mkt:019fb72e-b539-7aab-8f2d-28e273affd5c",
+      "time": "2026-07-31 15:58:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "VIV.PA",
+        "Impact bearish"
+      ],
+      "text": "Shares of French media and investment group Vivendi continued to fall, down 20% intraday and poised for the largest one-day drop in 24 years."
+    },
+    {
+      "id": "5018690",
+      "time": "2026-07-31 15:58:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "法國傳媒和投資集團維旺迪股價繼續下跌，目前下跌20%，有望創下24年來最大單日跌幅。"
+    },
+    {
+      "id": "5018689",
+      "time": "2026-07-31 15:58:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券法庭將簡街聽證會推遲至9月4日。"
+    },
+    {
+      "id": "5018688",
+      "time": "2026-07-31 15:58:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣汽豐田汽車有限公司召回部分鉑智7汽車】日前，廣汽豐田汽車有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0083V：自2026年8月1日起，召回2025年10月28日至2026年6月15日期間生產的部分鉑智7純電動汽車，共計15266輛。召回編號S2026M0084V：自2026年8月1日起，召回2025年10月28日至2026年7月10日期間生產的部分鉑智7純電動汽車，共計24286輛。"
+    },
+    {
+      "id": "5018687",
+      "time": "2026-07-31 15:58:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、特朗普於當地時間 7 月 30 日宣佈，“和平委員會” 達成歷史性協議，哈馬斯及加沙所有武裝團體將全面解除武裝。\n2、特朗普稱哈馬斯解除武裝後以色列將從加沙撤軍。\n3、特朗普表示“不確定”是否會允許烏克蘭製造愛國者導彈。\n4、特朗普下令對關鍵礦產廢料實施出口限制。\n5、特朗普稱不反對撤回回託德·布蘭奇的司法部長提名。\n6、特朗普表示，無證外籍卡車司機正被逐出美國道路，其政府計劃由美國退伍軍人取而代之。\n7、特朗普將於週五美國東部時間上午11點在戴維營主持內閣會議。"
+    },
+    {
+      "id": "mkt:019fb72d-9458-7aab-8f2d-22c550ffa9bb",
+      "time": "2026-07-31 15:57:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【ING: US SPR Nears Red Line; Middle-Distillate Market Tight as Russia Extends Diesel Ban】ING analysts Warren Patterson and Ewa Manthey say oil prices have eased even as vessel-tracking shows a slight uptick in tanker transits through the Strait of Hormuz. US Energy Secretary said about 13 mln bpd is leaving the Persian Gulf, roughly half via the strait and half via pipelines bypassing it. The US appears to have ruled out further SPR releases after the current 172 mln-barrel program; SPR stocks are just below 308 mln barrels, heightening concern about remaining drawdown capacity above the operational minimum. Middle-distillate markets are expected to stay tight after Russia extended its diesel export ban to Sept 1; Russia was the world’s second-largest diesel exporter, averaging more than 700k bpd in 2025."
+    },
+    {
+      "id": "5018686",
+      "time": "2026-07-31 15:57:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "索尼：預計將獲得 800 億日元的關稅退款，其中大部分已包含在預測中。"
+    },
     {
       "id": "5018685",
       "time": "2026-07-31 15:56:28",
@@ -166145,167 +166336,6 @@
         "市場"
       ],
       "text": "美股盤前，英特爾漲約5%，公司Q2營收增25%大超預期，指引保持高增。Amkor漲約9%，英偉達與Amkor簽署價值15億美元的晶片封裝協議。"
-    },
-    {
-      "id": "mkt:019f9324-5aad-7aab-8e80-6932c772f70f",
-      "time": "2026-07-24 16:01:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "European Central Bank survey shows euro area consumers' 12-month inflation expectations fell to 3.0% from 3.5%."
-    },
-    {
-      "id": "5006310",
-      "time": "2026-07-24 16:00:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【明年起，企業年金個人賬戶轉移接續可以線上辦理】人力資源社會保障部辦公廳印發了《企業年金個人賬戶轉移接續規程（暫行）》，就企業年金個人賬戶轉移接續給出了具體的管理辦法。從2027年1月1日起，職工可以透過登入國家社會保險公共服務平臺、全國人社政務服務平臺、電子社保卡、掌上12333App等全國統一線上服務渠道，申請轉移接續本人企業年金個人賬戶，並查詢辦理進度。《規程》規定：職工已參加新就業單位企業年金的，選擇名下新就業單位的企業年金個人賬戶作為歸集賬戶。新就業單位沒有建立企業年金或者未參加新就業單位企業年金且需歸集多個企業年金個人賬戶時，區分不同情形，選擇一個企業年金集合計劃管理的保留賬戶或者最後一個原就業單位管理的企業年金賬戶作為歸集賬戶。之後，職工向管理歸集賬戶的企業年金受託人提出轉移接續申請。企業年金受託人（包括法人受託機構和理事會）透過養老保險第二支柱資訊平臺接受轉移接續業務申請及資料互動，辦理完成後向資訊平臺和新就業單位反饋。《規程》提出，退休人員正在領取企業年金待遇的，可以申請將本人其他企業年金個人賬戶資金轉移至正在領取的企業年金個人賬戶。各企業年金受託人、賬戶管理人應當加強資訊化建設，按照本規程要求做好轉移接續工作。（央視新聞）"
-    },
-    {
-      "id": "5006309",
-      "time": "2026-07-24 16:00:55",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【商務部公告2026年第30號 公佈將14家歐盟實體列入出口管制管控名單】根據《中華人民共和國出口管制法》和《中華人民共和國兩用物項出口管制條例》等法律法規有關規定，為維護國家安全和利益，履行防擴散等國際義務，決定將拉法特集團等14家歐盟實體列入出口管制管控名單（見附件），並採取以下措施：一、禁止出口經營者向上述14家實體出口兩用物項，禁止境外組織和個人將原產於中華人民共和國的兩用物項轉移或提供給上述14家實體；正在開展的相關活動應當立即停止。二、特殊情況下確需出口的，出口經營者應當向商務部提出申請。本公告自公佈之日起正式實施。"
-    },
-    {
-      "id": "mkt:019f9324-2e28-7aab-8e80-605980415216",
-      "time": "2026-07-24 16:00:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "London Metal Exchange (LME) inventories fell: zinc down 275 tonnes, tin down 140 tonnes, copper down 4,650 tonnes, lead down 475 tonnes, aluminium down 2,400 tonnes and nickel down 1,206 tonnes."
-    },
-    {
-      "id": "mkt:019f9324-21b0-7aab-8e80-5fc3ae260302",
-      "time": "2026-07-24 16:00:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【China completes first lacustrine fault-basin shale-oil national demonstration zone, Sinopec says】Sinopec said China’s first national demonstration zone for lacustrine fault-basin shale oil — the Shengli Jiyang shale-oil demonstration zone in Shandong — has been completed. The zone covers about 7,300 sq km and achieved a major exploration breakthrough in 2021, filling a gap in national demonstration construction for this play. Sinopec said the project provides a replicable, scalable technical pathway for large-scale, higher-efficiency development of similar shale-oil resources. Shengli oilfield has steadily increased block capacity, with daily oil output rising from roughly 100 tonnes initially to more than 2,400 tonnes, a marked improvement in development quality and efficiency."
-    },
-    {
-      "id": "5006308",
-      "time": "2026-07-24 16:00:33",
-      "tags": [
-        "資料"
-      ],
-      "text": "歐元區7月綜合PMI初值 51.9，預期50.3，前值50。\n歐元區7月製造業PMI初值 52，預期51.5，前值51.4。\n歐元區7月服務業PMI初值 51.6，預期49.8，前值49.4。"
-    },
-    {
-      "id": "mkt:019f9323-c96f-7aab-8e80-5747994ce511",
-      "time": "2026-07-24 16:00:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "INTC.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "Intel (INTC.O) rose nearly 5% in premarket trading after reporting stronger-than-expected Q2 results and issuing Q3 guidance above consensus."
-    },
-    {
-      "id": "5006307",
-      "time": "2026-07-24 16:00:22",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【細化益生菌原料保健食品註冊備案要求 公開徵求意見】記者今天瞭解到，為進一步規範使用益生菌原料保健食品註冊備案工作，市場監管總局組織對《益生菌類保健食品申報與審評規定（試行）》進行修訂，形成《使用益生菌原料保健食品註冊備案申報規定（徵求意見稿）》，自7月24日至8月24日向社會公開徵求意見。（央視新聞）"
-    },
-    {
-      "id": "em:jjsj_oyqsj:202607243820457670",
-      "time": "2026-07-24 16:00:17",
-      "tags": [
-        "經濟數據",
-        "歐元區"
-      ],
-      "text": "【歐元區7月製造業PMI初值52】歐元區7月製造業PMI初值52，預期51.5，前值51.4。"
-    },
-    {
-      "id": "te:markets:569702",
-      "time": "2026-07-24 16:00:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Gasoline Falls by 2.23% — Top commodity losers are Gasoline (-2.23%), Brent Crude Oil (-2.15%) and Crude Oil WTI (-1.89%)."
-    },
-    {
-      "id": "mkt:019f9323-8c0c-7aab-8e80-49073f619153",
-      "time": "2026-07-24 16:00:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Eurozone July manufacturing PMI (flash) 52.0, consensus 51.5, prior 51.4."
-    },
-    {
-      "id": "5006306",
-      "time": "2026-07-24 15:59:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北部灣港：副董事長、總經理辭職，聘任汪國維為總經理】北部灣港公告稱，因工作調動，汪國維辭去副董事長及董事會審計委員會委員職務，仍任董事；莫怒辭去董事、總經理及董事會戰略委員會委員職務，不再擔任其他職務。莫怒持有公司56,666股股份。董事辭職自報告送達生效，高管辭職待會議審議透過生效。2026年7月24日，公司第十屆董事會第二十七次會議同意聘任汪國維為總經理，任期至第十屆董事會任期屆滿。"
-    },
-    {
-      "id": "5006304",
-      "time": "2026-07-24 15:58:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【破解世界級勘探開發難題 我國首個陸相斷陷湖盆頁岩油示範區建成】今天（7月24日），記者從中國石化獲悉，我國首個陸相斷陷湖盆頁岩油國家級示範區——勝利濟陽頁岩油示範區正式建成，為我國同類頁岩油資源規模化、效益化開發，提供了可複製、可推廣的技術路徑。頁岩油是重要的非常規油氣接替資源。勝利濟陽頁岩油國家級示範區坐落於山東境內，總面積7300平方公里，2021年實現勘探重大突破，填補了我國陸相斷陷湖盆頁岩油國家級示範建設空白。（央視新聞）"
-    },
-    {
-      "id": "5006303",
-      "time": "2026-07-24 15:58:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華南地區遭遇洪澇等極端氣候災害，農業農村部：因災死亡生豬無害化處理工作已基本完成】7月24日，國新辦就2026年上半年農業農村經濟執行情況舉行新聞釋出會，農業農村部發展規劃司司長陳邦勳在會上表示，近期華南地區遭遇了洪澇等極端氣候災害，農業農村部第一時間派出專家組，指導受災地區妥善做好因災死亡生豬的無害化處理、養殖環境消殺等災後動物防疫工作。截至目前，因災死亡生豬的無害化處理工作已經基本完成，這些地方沒有報告發生重大動物疫情，此次災害也未對全國生豬生產造成明顯影響。"
-    },
-    {
-      "id": "5006302",
-      "time": "2026-07-24 15:57:46",
-      "tags": [
-        "行業",
-        "其他",
-        "焦點"
-      ],
-      "text": "【農業農村部：支援有條件的地區加快推進充電樁、充電站等新基建】7月24日，農業農村部副部長張興旺在國新辦新聞釋出會上表示，農業農村部將推動實施農村現代生活條件補短板工程，協調推進農村水電路氣訊等基礎設施建設，支援有條件的地區加快推進充電樁、充電站等新基建等。"
-    },
-    {
-      "id": "5006301",
-      "time": "2026-07-24 15:57:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈薩克中央銀行預計堅戈不會出現大幅波動。"
     }
   ]
 }
