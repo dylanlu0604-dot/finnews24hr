@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-31 09:16:42",
-  "count": 18005,
+  "updated": "2026-07-31 09:20:40",
+  "count": 18000,
   "items": [
+    {
+      "id": "mkt:019fb5c1-cb4f-7aab-8f21-f44fd1df0296",
+      "time": "2026-07-31 09:20:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's July official manufacturing PMI due in 10 minutes."
+    },
+    {
+      "id": "5018012",
+      "time": "2026-07-31 09:19:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【飛天茅臺領漲 白酒大單品總價止跌微升】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售總價7月31日低位企穩。如果主要單品各取一瓶整體打包售賣，今日總售價為9872元，較昨日微幅上漲1元，在連續兩日走低後止跌微升，低位盤整格局仍在延續。縱觀全場，過去一天酒市終端交投情緒低位趨穩，多空雙方再陷膠著。\n\n今日11大白酒單品四漲六跌一平，輸家數量佔據優勢，但上漲品種的合計漲幅略勝一籌。上漲方面，飛天茅臺與青花汾20並列領漲，均上漲5元/瓶。其中，前者的全國零售均價在昨日小幅走低後再度轉漲，7.18提價後的高位整理格局延續；後者則打破此前兩連平，自近一個月最低位明顯修復，重新站上370元關口。國窖1573上漲3元/瓶，自昨日創下的今年2月2日以來最低位反彈；青花郎小漲1元/瓶，昨日大幅下挫後出現技術性回補。下跌方面，習酒君品跌幅居前，下跌3元/瓶，三連跌價格退守630一線。精品茅臺、五糧液普五八代、五糧液1618、洋河夢之藍M6+與古井貢古20均下跌2元/瓶。其中，精品茅臺二連陽告終，價格繼續在2400元下方拉鋸；五糧液普五八代四連陰，再平“酒價內參”自去年11月有統計以來最低價紀錄；五糧液1618再度跌破820元關口；洋河夢之藍M6+結束此前連續三日平盤，600元整數支撐位再度失守；古井貢古20連續三日走低。水晶劍南春價格環比昨日保持不變，連續兩日維持在403元/瓶。"
+    },
     {
       "id": "5018011",
       "time": "2026-07-31 09:15:42",
@@ -166361,75 +166378,6 @@
         "CNH"
       ],
       "text": "PBOC conducted CNY 89 billion 7-day reverse repo today; bids CNY 89 billion, allotment CNY 89 billion; rate 1.40%, unchanged."
-    },
-    {
-      "id": "5005656",
-      "time": "2026-07-24 09:20:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：全年365天，每天24小時隨時與美國方面保持聯絡。"
-    },
-    {
-      "id": "mkt:019f91b4-c0cc-7aab-8e76-bf38e9bd6030",
-      "time": "2026-07-24 09:19:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister Katayama said she will not comment on specific exchange-rate levels."
-    },
-    {
-      "id": "mkt:019f91b4-aca2-7aab-8e76-b3e58b535d61",
-      "time": "2026-07-24 09:19:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【Capital Economics: Japan July PMI suggests economy has shrugged off energy-cost shock】Capital Economics Asia chief economist Marcel Thieliant said preliminary July PMIs indicate Japan’s economy has continued to shrug off the energy-cost shock and remains resilient, pointing to a sharp acceleration in inf. The composite PMI rose to 53.1 in July from 52.8, a four-month high, consistent with GDP running roughly 1.5% above trend. Thieliant flagged the improvement is hard to reconcile with softer services and manufacturing PMIs and suggested stronger demand for AI-related products may explain the surprise."
-    },
-    {
-      "id": "5005655",
-      "time": "2026-07-24 09:19:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：不對具體匯率水平置評。"
-    },
-    {
-      "id": "mkt:019f91b4-a60d-7aab-8e76-af47eaacd241",
-      "time": "2026-07-24 09:19:22",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Japan's finance minister Katayama said the U.S. Treasury's FX report referenced a U.S.-Japan joint statement noting excessive exchange-rate volatility is undesirable."
-    },
-    {
-      "id": "5005654",
-      "time": "2026-07-24 09:19:00",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "日本財務大臣片山表示：美國財政部匯率報告引用了美日聯合宣告，該宣告稱匯率過度波動是不可取的。"
-    },
-    {
-      "id": "mkt:019f91b2-36cf-7aab-8e76-a498a8a1f9ba",
-      "time": "2026-07-24 09:16:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【China General Nuclear's Daesan Phase II 557 MW gas plant begins commercial operation in South Korea】China General Nuclear (CGN)'s Daesan Phase II 557 MW gas-fired plant entered commercial operation at 00:00 local time on July 24. The greenfield project, developed by CGN in South Korea, engaged more than 100 Korean firms, improved construction efficiency by about 15% and has a maximum annual output of roughly 3.9 bln kWh, which will bolster local power supply."
     }
   ]
 }
