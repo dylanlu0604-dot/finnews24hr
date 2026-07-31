@@ -1,7 +1,95 @@
 {
   "date": "2026-07-31",
-  "count": 3319,
+  "count": 3328,
   "items": [
+    {
+      "id": "5019706",
+      "time": "2026-07-31 23:20:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞總理：因電力發電量下降，宣佈全國進入緊急狀態，有效期持續至 8 月。"
+    },
+    {
+      "id": "5019705",
+      "time": "2026-07-31 23:19:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍：已將騰吉斯油田三代專案廠區的原油銘牌產能提升至每日 32 萬桶。"
+    },
+    {
+      "id": "mkt:019fb8c2-7e7d-7aab-8f39-94dcc078417e",
+      "time": "2026-07-31 23:19:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "CVX.N",
+        "Impact mixed"
+      ],
+      "text": "Chevron (CVX.N) raised the nameplate oil capacity of the third-generation facility at Kazakhstan's Tengiz field to 320,000 bpd."
+    },
+    {
+      "id": "5019704",
+      "time": "2026-07-31 23:19:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "訊息人士：美國財政部已通知各家銀行，銀行應做好準備，應對後續干預行動。"
+    },
+    {
+      "id": "5019703",
+      "time": "2026-07-31 23:18:27",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "訊息人士：美國財政部已透過紐約聯儲告知各大銀行，美方今日可能入場干預日元匯率。"
+    },
+    {
+      "id": "5019702",
+      "time": "2026-07-31 23:16:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "雪佛龍CEO：CPC管道目前正在執行，本週已有油輪開展裝船作業。"
+    },
+    {
+      "id": "mkt:019fb8bf-53e6-7aab-8f39-8bdb688133e0",
+      "time": "2026-07-31 23:16:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Chevron (CVX.N) CEO said the CPC pipeline is operating and vessels are still loading this week."
+    },
+    {
+      "id": "5019701",
+      "time": "2026-07-31 23:14:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）：5 月美國餾分燃料油供應量降至 2020 年 6 月以來最低水平。"
+    },
+    {
+      "id": "5019700",
+      "time": "2026-07-31 23:13:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料：5 月美國原油及石油產品總供應量降至 2025 年 3 月以來最低水平。"
+    },
     {
       "id": "5019699",
       "time": "2026-07-31 23:12:36",

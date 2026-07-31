@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-31 23:13:41",
-  "count": 17970,
+  "updated": "2026-07-31 23:21:49",
+  "count": 17959,
   "items": [
+    {
+      "id": "5019706",
+      "time": "2026-07-31 23:20:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞總理：因電力發電量下降，宣佈全國進入緊急狀態，有效期持續至 8 月。"
+    },
+    {
+      "id": "5019705",
+      "time": "2026-07-31 23:19:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍：已將騰吉斯油田三代專案廠區的原油銘牌產能提升至每日 32 萬桶。"
+    },
+    {
+      "id": "mkt:019fb8c2-7e7d-7aab-8f39-94dcc078417e",
+      "time": "2026-07-31 23:19:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "CVX.N",
+        "Impact mixed"
+      ],
+      "text": "Chevron (CVX.N) raised the nameplate oil capacity of the third-generation facility at Kazakhstan's Tengiz field to 320,000 bpd."
+    },
+    {
+      "id": "5019704",
+      "time": "2026-07-31 23:19:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "訊息人士：美國財政部已通知各家銀行，銀行應做好準備，應對後續干預行動。"
+    },
+    {
+      "id": "5019703",
+      "time": "2026-07-31 23:18:27",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "訊息人士：美國財政部已透過紐約聯儲告知各大銀行，美方今日可能入場干預日元匯率。"
+    },
+    {
+      "id": "5019702",
+      "time": "2026-07-31 23:16:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "雪佛龍CEO：CPC管道目前正在執行，本週已有油輪開展裝船作業。"
+    },
+    {
+      "id": "mkt:019fb8bf-53e6-7aab-8f39-8bdb688133e0",
+      "time": "2026-07-31 23:16:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Chevron (CVX.N) CEO said the CPC pipeline is operating and vessels are still loading this week."
+    },
+    {
+      "id": "5019701",
+      "time": "2026-07-31 23:14:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）：5 月美國餾分燃料油供應量降至 2020 年 6 月以來最低水平。"
+    },
+    {
+      "id": "5019700",
+      "time": "2026-07-31 23:13:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料：5 月美國原油及石油產品總供應量降至 2025 年 3 月以來最低水平。"
+    },
     {
       "id": "5019699",
       "time": "2026-07-31 23:12:36",
@@ -166266,196 +166354,6 @@
         "Importance 1"
       ],
       "text": "Canadian Dollar Steady on Softer Inflation — The Canadian dollar was at 1.41 per USD, holding most of the pullback from the one-month low of 1.40 on July 17th after a soft PPI added to the disinflationary momentum in Canada. Canada's producer prices fell 1.4% month-over-month in June 2026, the sharpest decline since December 2023. Meanwhile, annual consumer inflation eased to 2.8% in June from 3.2% in May, slightly below forecasts of 2.9%. The Bank of Canada's preferred core inflation measures fell to their lowest levels in more than five years, reinforcing the BoC's view that higher energy costs stemming from the Middle East oil supply crisis are not spreading broadly through the economy. The softer inflation data reduced expectations of further Bank of Canada rate hikes this year, limiting the yield advantage that has supported the Canadian dollar."
-    },
-    {
-      "id": "5007358",
-      "time": "2026-07-24 23:19:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "美債收益率跌幅擴大，日內下行 3 至 5 個基點。"
-    },
-    {
-      "id": "mkt:019f94b5-d986-7aab-8e8b-73ba1470b723",
-      "time": "2026-07-24 23:19:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "XAUUSD",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US Treasury yields continued to fall, sliding roughly 3-5 bps intraday."
-    },
-    {
-      "id": "5007357",
-      "time": "2026-07-24 23:19:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4080美元/盎司，日內漲0.78%。"
-    },
-    {
-      "id": "mkt:019f94b5-9a2c-7aab-8e8b-6b006685701d",
-      "time": "2026-07-24 23:19:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold climbed above $4,080/oz, up 0.77% intraday."
-    },
-    {
-      "id": "5007356",
-      "time": "2026-07-24 23:19:05",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【據悉巴基斯坦正探索重啟美伊談判的途徑】據三位巴基斯坦訊息人士稱，巴基斯坦正探索重啟美伊談判的途徑，以結束持續近五個月的戰爭。訊息人士稱，伊朗內政部長埃斯坎達爾·莫門尼本週訪問伊斯蘭堡期間舉行了探索性會談——這是他過去10天內的第二次訪問。據巴基斯坦政府宣告稱，被視為與伊朗革命衛隊關係密切的莫門尼本週會見了巴基斯坦政府領導人和軍方負責人阿西姆·穆尼爾。這三個訊息人士均警告稱，與美國進行談判的障礙仍然很高。"
-    },
-    {
-      "id": "mkt:019f94b5-23df-7aab-8e8b-66fe59bd08e3",
-      "time": "2026-07-24 23:18:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Intraday losses for both U.S. crude (WTI) and Brent widened to about $1.50. Brent crude plunged 4% to $91.11/bbl. WTI slipped below $89/bbl, down 4.26% on the day."
-    },
-    {
-      "id": "5007355",
-      "time": "2026-07-24 23:17:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體援引衛生部訊息釋出傷亡相關報道稱美國空襲造成666人受傷。"
-    },
-    {
-      "id": "mkt:019f94b4-0bd1-7aab-8e8b-59c4b2f35119",
-      "time": "2026-07-24 23:17:35",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Pakistan exploring restart of US‑Iran talks】Pakistan is exploring ways to restart US‑Iran talks to end a nearly five‑month‑long war, three Pakistani sources said. Iran interior minister Eskandar Momeni held exploratory talks in Islamabad this week—his second visit in 10 days—and met Pakistani leaders and army chief Asim Munir. The sources warned obstacles to negotiating with the United States remain high."
-    },
-    {
-      "id": "5007354",
-      "time": "2026-07-24 23:17:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：儘管烏克蘭戰火仍在持續（我與澤連斯基總統也維持著相應溝通），普京總統向我表示，俄羅斯不會向伊朗出售武器。他清楚，我不會直接向烏克蘭輸送武器，美國只向北約各國售賣軍備。北約國家全額支付貨款，至於這些武器最終流向何處，我並不知情。"
-    },
-    {
-      "id": "mkt:019f94b2-ec63-7aab-8e8b-5660098129bc",
-      "time": "2026-07-24 23:16:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Russian President Putin told him he will not sell weapons to Iran."
-    },
-    {
-      "id": "5007353",
-      "time": "2026-07-24 23:15:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌4%，現報88.49美元/桶。"
-    },
-    {
-      "id": "5007352",
-      "time": "2026-07-24 23:15:53",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：普京表示不會向伊朗出售武器。"
-    },
-    {
-      "id": "5007351",
-      "time": "2026-07-24 23:15:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守91美元/桶，日內跌3.48%。"
-    },
-    {
-      "id": "mkt:019f94b2-3649-7aab-8e8b-49f4995f87ab",
-      "time": "2026-07-24 23:15:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Tesla CEO Elon Musk said he supports a US tech-industry open letter calling for open AI models."
-    },
-    {
-      "id": "5007350",
-      "time": "2026-07-24 23:15:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬斯克：支援美國科技企業就開源模型釋出的聯名公開信。"
-    },
-    {
-      "id": "5007349",
-      "time": "2026-07-24 23:15:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4080美元/盎司，日內漲0.76%。"
-    },
-    {
-      "id": "5007348",
-      "time": "2026-07-24 23:15:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲2%，現報59.23美元/盎司。"
-    },
-    {
-      "id": "5007347",
-      "time": "2026-07-24 23:14:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲2%，現報58.81美元/盎司。"
-    },
-    {
-      "id": "5007346",
-      "time": "2026-07-24 23:14:27",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行行長： 我們將持續監測各項經濟資料，堅定認為當前經濟形勢仍需維持緊縮利率水平。"
-    },
-    {
-      "id": "mkt:019f94b0-9326-7aab-8e8b-46051e51af74",
-      "time": "2026-07-24 23:13:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. (WTI) and Brent crude fell about $1 intraday to $89.77/bbl and $91.93/bbl, respectively."
     }
   ]
 }
