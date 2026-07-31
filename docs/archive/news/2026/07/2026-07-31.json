@@ -1,7 +1,207 @@
 {
   "date": "2026-07-31",
-  "count": 2531,
+  "count": 2555,
   "items": [
+    {
+      "id": "mkt:019fb7ce-e0be-7aab-8f32-dd64b0f68391",
+      "time": "2026-07-31 18:53:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Chinese entrepreneurs delegation visits US for broad political and commercial talks】The China Council for the Promotion of International Trade (CCPIT) is leading a delegation of Chinese entrepreneurs on a US visit at the invitation of the US-China Business Council, CCPIT said. The delegation will visit Washington and states including Utah and Illinois and plans more than 10 Sino-US business-matching events; 22 Chinese companies from key sectors are scheduled for multi-level meetings with US firms and institutions including Cargill, Visa and 3M."
+    },
+    {
+      "id": "5019180",
+      "time": "2026-07-31 18:53:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙首相桑切斯：人口販賣黑手黨對西班牙最高法院裁決做出了利己解讀。"
+    },
+    {
+      "id": "mkt:019fb7ce-bfd6-7aab-8f32-d3e6241c2bcf",
+      "time": "2026-07-31 18:53:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "VON DER LEYEN said she believes close cooperation with Morocco will yield concrete results."
+    },
+    {
+      "id": "mkt:019fb7ce-1ee7-7aab-8f32-cff62f638dbd",
+      "time": "2026-07-31 18:52:46",
+      "tags": [
+        "MKT News",
+        "RIVN.O",
+        "Impact bullish"
+      ],
+      "text": "Morgan Stanley raises Rivian (RIVN.O) price target to $14.00 from $13.00."
+    },
+    {
+      "id": "5019179",
+      "time": "2026-07-31 18:52:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紅果短劇：近一週攔截誘導引流、色情導流等言論超20萬條】7月31日，紅果短劇釋出關於打擊違規導流行為的公告：近一週共處置導流外部違規平臺賬號超300個，攔截誘導引流、色情導流等言論超20萬條。"
+    },
+    {
+      "id": "5019178",
+      "time": "2026-07-31 18:52:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟馮德萊恩：我相信我們與摩洛哥的緊密夥伴關係將助力取得切實成果。"
+    },
+    {
+      "id": "5019177",
+      "time": "2026-07-31 18:52:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：伊拉克東南部艾哈達布油田發生火災。"
+    },
+    {
+      "id": "mkt:019fb7cd-c75e-7aab-8f32-c1ec3e0135d1",
+      "time": "2026-07-31 18:52:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "Morgan Stanley cuts Apple (AAPL.O) price target to $360.00 from $364.00."
+    },
+    {
+      "id": "5019176",
+      "time": "2026-07-31 18:52:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州都市圈四市簽署合作協議 異地住房公積金貸款擬互認互通】廣州、佛山、肇慶、清遠四市住房公積金管理中心7月29日在廣州簽署《廣州都市圈住房公積金協同發展合作協議》，並召開第一次聯席會議。廣州、佛山、肇慶、清遠四市圍繞“協同高效、便民利企、風險可控”核心目標，將在繳存資訊互認、異地貸款互認互通、服務事項跨域通辦、行政執法協查聯辦、資訊聯查聯動、風險防範協同、政策宣傳聯動、財務管理研究交流、黨建引領業務發展等九個方面開展合作。"
+    },
+    {
+      "id": "5019175",
+      "time": "2026-07-31 18:52:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【實樸檢測：擬投資1億元建設電子級高純紅磷專案】實樸檢測公告，公司於2026年7月31日召開董事會審議透過對外投資議案，同意在全資孫公司無錫實樸下新設全資專案公司，以自有資金或自籌資金人民幣1億元投資電子級高純紅磷專案，專案建設期約24個月，分三期推進，尚需辦理相關部門前置審批手續。"
+    },
+    {
+      "id": "mkt:019fb7cd-5779-7aab-8f32-bea05d3c5c3f",
+      "time": "2026-07-31 18:51:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Spanish Prime Minister Sanchez said Spain suffered a \"territorial attack\" in Ceuta, one of its two North African enclaves, and will deploy all state resources to ensure Ceuta's security."
+    },
+    {
+      "id": "mkt:019fb7cd-12ba-7aab-8f32-b0b81d4eb74a",
+      "time": "2026-07-31 18:51:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hanrui Cobalt 1H 2026 revenue 3.907 bln yuan; net profit 98.63 mln yuan, down 22.5% YoY】Hanrui Cobalt released its 1H 2026 interim results bulletin. Revenue was 3.907 bln yuan, up 23.32% YoY; net profit attributable to shareholders was 98.63 mln yuan, down 22.50% YoY."
+    },
+    {
+      "id": "5019174",
+      "time": "2026-07-31 18:51:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟馮德萊恩：布倫納委員正致力於為西班牙提供額外行動支援，包括透過歐洲邊境與海岸警衛局（Frontex）提供相關支援。"
+    },
+    {
+      "id": "mkt:019fb7cd-054e-7aab-8f32-ad36eb8b63d7",
+      "time": "2026-07-31 18:51:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangzhou metro four cities sign pact to mutually recognize cross‑city housing provident fund loans】On July 29, announced July 31 by the Guangzhou Housing Provident Fund Management Center, Guangzhou, Foshan, Zhaoqing and Qingyuan signed the Guangzhou Metropolitan Area Housing Provident Fund Collaborative Development Cooperation Agreement and held their first joint meeting. The four cities agreed to cooperate across nine areas focused on efficient coordination, convenience for residents and firms, and risk control — notably mutual recognition of contribution records, mutual recognition and interoperability of cross‑city housing provident fund loans, cross‑region processing of service items, joint administrative enforcement, linked information checks and sharing, coordinated risk prevention, joint policy publicity, financial management research exchanges and party‑led business coordination."
+    },
+    {
+      "id": "5019172",
+      "time": "2026-07-31 18:51:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧海科技：控股子公司簽署5.7億元投資協議，專案預計2030年達產】奧海科技公告，公司控股子公司智新控制系統有限公司近日與武漢經濟技術開發區管理委員會簽訂《投資協議》，擬投資建設智新控制研發中心及生產基地專案，預計總投資約5.7億元，其中固定資產投資1.7億元、研發投入4億元。專案於2026年投產，2030年達產，達產後預計年產值/營業收入30億元。"
+    },
+    {
+      "id": "5019171",
+      "time": "2026-07-31 18:51:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長安汽車：終止長安科技增資擴股暨關聯交易，原擬合計出資30億元】長安汽車公告，公司此前披露與中國長安汽車、辰致集團擬合計出資30億元共同參與全資子公司長安科技增資擴股，該交易構成關聯交易。2026年7月30日，公司召開第九屆董事會第六十一次會議，審議透過《關於終止全資子公司增資擴股的議案》《關於終止向全資子公司增資的議案》，其中終止向全資子公司增資的議案尚需提交股東會審議。公司稱，因長安科技智慧化創新超越預期，為加快市場化融資程序，經審慎研究決定終止原方案，計劃儘快啟動新一輪市場化融資，原增資方將繼續參與。"
+    },
+    {
+      "id": "5019169",
+      "time": "2026-07-31 18:51:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙首相：西班牙將動用一切國家資源確保休達安全。"
+    },
+    {
+      "id": "5019168",
+      "time": "2026-07-31 18:50:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙首相桑切斯：昨日休達發生的事件是對西班牙領土主權的侵犯。"
+    },
+    {
+      "id": "5019167",
+      "time": "2026-07-31 18:50:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟馮德萊恩：我們不允許任何人不遵守我們的規則就進入歐盟。"
+    },
+    {
+      "id": "mkt:019fb7cb-b303-7aab-8f32-a3e44a936c47",
+      "time": "2026-07-31 18:50:07",
+      "tags": [
+        "MKT News",
+        "HON.O",
+        "Impact mixed"
+      ],
+      "text": "July 29 — China's international trade negotiator and Vice Minister Li Chenggang met with Honeywell's chairman and CEO."
+    },
+    {
+      "id": "5019166",
+      "time": "2026-07-31 18:50:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘿蔔快跑：部分網路賬號惡意製造誤導性內容，公司已提起訴訟】7月31日，蘿蔔快跑法務部發布宣告：近期，我們注意到，部分網路賬號透過拼接無事實關聯的畫面、錄音，惡意製造涉“蘿蔔快跑”誤導性內容，涉嫌侵犯蘿蔔快跑合法權益。經核查，抖音賬號“其實太陽**”將來源於其他事件的司機哭訴錄音與蘿蔔快跑相關畫面進行拼接傳播，引導公眾誤認為相關事件由蘿蔔快跑引發；抖音賬號“金*”則將因其他事件引發的司機聚集畫面與蘿蔔快跑進行惡意拼接，並使用誤導性標題引發公眾誤解。相關內容釋出後，引發大量互動和傳播。上述內容透過拼接無事實關聯的畫面、錄音，製造蘿蔔快跑與相關事件之間的不實關聯，涉嫌誤導公眾認知，已超出理性討論和正常監督範疇。針對上述行為，我司已依法向人民法院提起訴訟，目前相關案件均已獲法院立案。我們將持續關注各類涉蘿蔔快跑侵權內容傳播情況，並依法採取必要措施，維護自身合法權益。"
+    },
+    {
+      "id": "5019165",
+      "time": "2026-07-31 18:50:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "TELUS將季度股息從每股0.4184加元削減至每股0.1875加元。"
+    },
+    {
+      "id": "5019164",
+      "time": "2026-07-31 18:49:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：休達傳來的現場畫面令人無法接受。"
+    },
     {
       "id": "5019163",
       "time": "2026-07-31 18:49:13",
@@ -17,6 +217,14 @@
         "公司"
       ],
       "text": "【廣安愛眾：擬3000萬元參與設立5.01億元產業投資基金】廣安愛眾公告稱，公司作為有限合夥人，以自有資金3000萬元，佔比5.99%，與南京江北益華等多家企業共同投資設立廣安市創化能源化工產業投資引導基金合夥企業，基金總規模5.01億元，主要投資高階製造等領域的能源化工類專案。本次投資無需提交董事會和股東會審議，不構成關聯交易和重大資產重組。基金暫未完成工商註冊和協會備案，實施存在不確定性，且可能面臨投資收益不達預期風險。"
+    },
+    {
+      "id": "5019161",
+      "time": "2026-07-31 18:48:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川省南充市委原書記古正舉受賄案一審宣判】四川省攀枝花市中級人民法院一審公開宣判四川省南充市委原書記古正舉受賄案，對被告人古正舉以受賄罪判處無期徒刑，剝奪政治權利終身，並處沒收個人全部財產；對追繳在案的古正舉受賄所得財物及孳息依法上繳國庫，不足部分繼續追繳。（新華社）"
     },
     {
       "id": "5019160",
