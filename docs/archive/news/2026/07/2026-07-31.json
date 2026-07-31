@@ -1,7 +1,88 @@
 {
   "date": "2026-07-31",
-  "count": 911,
+  "count": 919,
   "items": [
+    {
+      "id": "mkt:019fb5c9-0caf-7aab-8f22-26785a372f22",
+      "time": "2026-07-31 09:27:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "At the open on July 31 (Fri), China's Shanghai Composite Index rose 0.76% to 3,833.54 (up 28.84 pts); Shenzhen Composite Index rose 3.04% to 13,690 (up 404.19 pts); CSI 300 Index rose 1.63% to 4,623.85 (up 74.13 pts); ChiNext Index rose 5.15% to 3,411.61 (up 166.99 pts); STAR 50 Index rose 8.37% to 1,721.36 (up 132.95 pts)."
+    },
+    {
+      "id": "5018025",
+      "time": "2026-07-31 09:27:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲2%，現報890.00元。"
+    },
+    {
+      "id": "mkt:019fb5c6-f07f-7aab-8f22-1fd8143963b9",
+      "time": "2026-07-31 09:25:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "At the A-share open, the Shanghai Composite was up 0.76%, the Shenzhen Composite Index up 3.04%, the ChiNext Index up 5.15% and the STAR 50 Index up 8.37%. Changxin C-shares opened more than 10% higher."
+    },
+    {
+      "id": "te:markets:571409",
+      "time": "2026-07-31 09:25:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Retreats Further — US gasoline futures fell below $3.10 per gallon, retreating further from the two-month high of $3.50 reached on July 23, as investors weighed improving shipping activity against ongoing geopolitical risks. Oil shipments from the Middle East picked up as more vessels left the Persian Gulf with transponders turned off, while two Saudi tankers crossed the Bab el-Mandeb Strait undetected. Additionally, Saudi Arabia proposed an international maritime coalition to protect key shipping routes, with representatives from 43 countries participating in talks to safeguard navigation in the Red Sea following the Iran-backed Houthis' announced blockade against the kingdom. In Russia, the government extended its diesel and gasoline export ban through January 2027 as fuel shortages persisted after Ukrainian drone strikes shut another crude distillation unit. Still, gasoline remained on track for a 5% monthly gain as exchanges of strikes between the US and Iran escalated earlier this month."
+    },
+    {
+      "id": "5018024",
+      "time": "2026-07-31 09:25:35",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【儲存晶片大幅高開 兆易創新等多股競價漲停】早盤儲存晶片大幅高開，兆易創新、德明利、太極實業一字漲停，普冉股份、北京君正、佰維儲存、江波龍、大普微等多股漲超10%。"
+    },
+    {
+      "id": "5018023",
+      "time": "2026-07-31 09:25:14",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指高開，滬指漲0.76％，深成指漲3.04％，創業板漲5.15％。"
+    },
+    {
+      "id": "te:markets:571408",
+      "time": "2026-07-31 09:24:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Stocks Eye Fourth Monthly Rise — Australian shares advanced 34 points, or 0.4%, to 9,001 in early Friday trade, rebounding from the prior session’s weakness after Wall Street rallied overnight, as heavyweight chipmakers surged on renewed bets the AI-driven bull run still has legs. Gains were led by tech, non-energy minerals, industrial services, and utilities, though healthcare and consumer non-durables weighed. However, gains were capped by lingering caution over whether three rate hikes this year from the Reserve Bank will prove sufficient, with their full impact yet to filter through the economy. Standouts included BHP Group (2.4%), Lynas Rare Earths (4.7%), and Sandfire Resources (3.2%), while the big four banks added between 0.1% and 0.6%. Local markets are on track for weekly gains of more than 2%, reversing three straight weekly declines and setting up a fourth monthly rise. Momentum has been underpinned by easing inflation concerns and signs of resilience in manufacturing and services activity through July."
+    },
+    {
+      "id": "5018022",
+      "time": "2026-07-31 09:24:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【7月以來43只新基金延長募集 ETF佔比超六成】新基金髮行市場延長募集的情況明顯增多。資料顯示，7月以來共有54則基金延長募集期公告，涉及43只基金。其中，10只基金曾兩次及以上延長募集期。部分基金募集期延長幅度較大。華泰柏瑞中證港股通資訊科技綜合ETF的募集截止日由7月24日延至9月30日，延長68天；廣發穩致、貝萊德行業輪動量化選股的募集截止日均由7月31日延至8月31日。從產品型別看，43只基金中有26只為被動指數型基金，佔比超過六成，其中25只為ETF；此外還包括偏股混合型基金、普通股票型基金、偏債混合型基金及FOF等產品。"
+    },
     {
       "id": "5018020",
       "time": "2026-07-31 09:23:55",

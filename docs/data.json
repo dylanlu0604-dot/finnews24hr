@@ -1,7 +1,88 @@
 {
-  "updated": "2026-07-31 09:24:38",
-  "count": 17996,
+  "updated": "2026-07-31 09:28:36",
+  "count": 17990,
   "items": [
+    {
+      "id": "mkt:019fb5c9-0caf-7aab-8f22-26785a372f22",
+      "time": "2026-07-31 09:27:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "At the open on July 31 (Fri), China's Shanghai Composite Index rose 0.76% to 3,833.54 (up 28.84 pts); Shenzhen Composite Index rose 3.04% to 13,690 (up 404.19 pts); CSI 300 Index rose 1.63% to 4,623.85 (up 74.13 pts); ChiNext Index rose 5.15% to 3,411.61 (up 166.99 pts); STAR 50 Index rose 8.37% to 1,721.36 (up 132.95 pts)."
+    },
+    {
+      "id": "5018025",
+      "time": "2026-07-31 09:27:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲2%，現報890.00元。"
+    },
+    {
+      "id": "mkt:019fb5c6-f07f-7aab-8f22-1fd8143963b9",
+      "time": "2026-07-31 09:25:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "At the A-share open, the Shanghai Composite was up 0.76%, the Shenzhen Composite Index up 3.04%, the ChiNext Index up 5.15% and the STAR 50 Index up 8.37%. Changxin C-shares opened more than 10% higher."
+    },
+    {
+      "id": "te:markets:571409",
+      "time": "2026-07-31 09:25:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Retreats Further — US gasoline futures fell below $3.10 per gallon, retreating further from the two-month high of $3.50 reached on July 23, as investors weighed improving shipping activity against ongoing geopolitical risks. Oil shipments from the Middle East picked up as more vessels left the Persian Gulf with transponders turned off, while two Saudi tankers crossed the Bab el-Mandeb Strait undetected. Additionally, Saudi Arabia proposed an international maritime coalition to protect key shipping routes, with representatives from 43 countries participating in talks to safeguard navigation in the Red Sea following the Iran-backed Houthis' announced blockade against the kingdom. In Russia, the government extended its diesel and gasoline export ban through January 2027 as fuel shortages persisted after Ukrainian drone strikes shut another crude distillation unit. Still, gasoline remained on track for a 5% monthly gain as exchanges of strikes between the US and Iran escalated earlier this month."
+    },
+    {
+      "id": "5018024",
+      "time": "2026-07-31 09:25:35",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【儲存晶片大幅高開 兆易創新等多股競價漲停】早盤儲存晶片大幅高開，兆易創新、德明利、太極實業一字漲停，普冉股份、北京君正、佰維儲存、江波龍、大普微等多股漲超10%。"
+    },
+    {
+      "id": "5018023",
+      "time": "2026-07-31 09:25:14",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指高開，滬指漲0.76％，深成指漲3.04％，創業板漲5.15％。"
+    },
+    {
+      "id": "te:markets:571408",
+      "time": "2026-07-31 09:24:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Stocks Eye Fourth Monthly Rise — Australian shares advanced 34 points, or 0.4%, to 9,001 in early Friday trade, rebounding from the prior session’s weakness after Wall Street rallied overnight, as heavyweight chipmakers surged on renewed bets the AI-driven bull run still has legs. Gains were led by tech, non-energy minerals, industrial services, and utilities, though healthcare and consumer non-durables weighed. However, gains were capped by lingering caution over whether three rate hikes this year from the Reserve Bank will prove sufficient, with their full impact yet to filter through the economy. Standouts included BHP Group (2.4%), Lynas Rare Earths (4.7%), and Sandfire Resources (3.2%), while the big four banks added between 0.1% and 0.6%. Local markets are on track for weekly gains of more than 2%, reversing three straight weekly declines and setting up a fourth monthly rise. Momentum has been underpinned by easing inflation concerns and signs of resilience in manufacturing and services activity through July."
+    },
+    {
+      "id": "5018022",
+      "time": "2026-07-31 09:24:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【7月以來43只新基金延長募集 ETF佔比超六成】新基金髮行市場延長募集的情況明顯增多。資料顯示，7月以來共有54則基金延長募集期公告，涉及43只基金。其中，10只基金曾兩次及以上延長募集期。部分基金募集期延長幅度較大。華泰柏瑞中證港股通資訊科技綜合ETF的募集截止日由7月24日延至9月30日，延長68天；廣發穩致、貝萊德行業輪動量化選股的募集截止日均由7月31日延至8月31日。從產品型別看，43只基金中有26只為被動指數型基金，佔比超過六成，其中25只為ETF；此外還包括偏股混合型基金、普通股票型基金、偏債混合型基金及FOF等產品。"
+    },
     {
       "id": "5018020",
       "time": "2026-07-31 09:23:55",
@@ -166192,150 +166273,6 @@
         "其他"
       ],
       "text": "N長鷹開漲265.27%。"
-    },
-    {
-      "id": "5005670",
-      "time": "2026-07-24 09:27:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【OPEC+或從9月起再次上調石油產量目標】據報道，知情人士稱稱，OPEC+產油國聯盟很可能在8月2日開會時同意從9月起進一步提高產量目標，儘管伊朗戰事再次導致部分成員國難以增產。據悉，OPEC+七個核心成員國很可能將9月產量目標提高約18.8萬桶/日，與6-8月的增幅相同。"
-    },
-    {
-      "id": "5005669",
-      "time": "2026-07-24 09:27:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黑龍江省釋出暴雨紅色預警】黑龍江省氣象臺2026年7月24日8時50分發布暴雨紅色預警訊號：過去2小時綏化市慶安、北林的部分鄉鎮降水量已達70～80毫米，預計未來1小時還將有30～50毫米的降水，累計雨量將超過100毫米，請注意防範。"
-    },
-    {
-      "id": "mkt:019f91bc-3c33-7aab-8e77-0aa45fb1cfcc",
-      "time": "2026-07-24 09:27:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy",
-        "CSI300",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "A-share oil services and engineering sector opened higher; Zhongman Petroleum up >8%, Keli up >5%, with Qianeng Hengxin, Tongyuan Petroleum, Bomaike, Haiyou Engineering, Zhongyou Engineering and CNOOC oilfield services also rising. The New York Times reports Iranian and Iraqi officials say Iran on Thursday rejected a ceasefire proposal from U.S. President Trump that had been delivered to Tehran by the Iraqi prime minister."
-    },
-    {
-      "id": "5005668",
-      "time": "2026-07-24 09:27:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【貴金屬板塊大幅低開】貴金屬板塊大幅低開，湖南白銀低開超7%，山金國際、赤峰黃金、曉程科技、西部黃金跟跌。"
-    },
-    {
-      "id": "mkt:019f91bb-f650-7aab-8e77-02dc95d0abef",
-      "time": "2026-07-24 09:27:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "CSI300",
-        "SZSE Component"
-      ],
-      "text": "China's Shanghai Composite Index opened down 23.15 points (-0.60%) at 3,853.63 on Friday, July 24; Shenzhen Composite Index opened down 208.27 points (-1.47%) at 13,915.04; CSI 300 Index opened down 42.59 points (-0.90%) at 4,685.41; ChiNext Index opened down 60.02 points (-1.68%) at 3,515.50; STAR 50 Index opened down 23.43 points (-1.31%) at 1,766.26."
-    },
-    {
-      "id": "5005667",
-      "time": "2026-07-24 09:27:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國政府拉美事務特別代表邱小琪會見厄瓜多多黨議員考察團】7月23日，中國政府拉美事務特別代表邱小琪會見由厄瓜多國會厄中議員友好小組主席薩拉薩爾率領的多黨議員考察團。邱小琪表示，建交46年來，中厄關係始終保持良好發展勢頭。去年6月，習近平主席同來華出席夏季達沃斯論壇的諾沃亞總統會晤，兩國元首共同為中厄關係發展指明方向。今年是中厄建立全面戰略伙伴關係10週年，中方願同厄方落實好兩國元首共識，進一步鞏固政治互信，密切各領域合作，推動中厄關係再上新臺階。薩拉薩爾表示，厄國會各黨派在加強厄中友好上有高度共識。厄方堅定恪守一箇中國原則，願同中方深化政治互信，拓展經貿、文化、科技、旅遊、農業等各領域合作，更好造福兩國人民。（外交部網站）"
-    },
-    {
-      "id": "mkt:019f91bb-9329-7aab-8e76-fda8e50767bf",
-      "time": "2026-07-24 09:26:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "CENTCOM said strike targets included Iran’s military command centers, drone storage facilities, communications networks, coastal surveillance posts and maritime combat assets, aimed at further degrading Iran’s ability to threaten civilian mariners and merchant vessels transiting the Strait of Hormuz."
-    },
-    {
-      "id": "em:qqyh_ozyh:202607243819836546",
-      "time": "2026-07-24 09:26:39",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【歐洲央行研究調整準備金制度方案以減輕財務損失】據報道，知情人士稱，歐洲央行正研究多種方案以減輕其財務損失，圍繞這一議題的討論預計將在秋季進入關鍵階段。歐洲央行行長拉加德7月23日證實，決策者將討論提高法定準備金率，即增加銀行必須存放在無息賬戶中的資金。其他選項還包括對部分超額準備金停止付息，甚至向銀行收取費用。這些措施將減輕各國央行負擔，以部分抵消歐洲央行過去十年刺激政策帶來的損失。"
-    },
-    {
-      "id": "5005666",
-      "time": "2026-07-24 09:26:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股腦機介面概念股走強 腦動極光漲近9%】截至發稿，腦動極光-B(06681.HK)漲8.98%，南京熊貓電子股份(00533.HK)漲6.59%，微創腦科學(02172.HK)漲3.02%。"
-    },
-    {
-      "id": "mkt:019f91bb-02ae-7aab-8e76-f5666f3117b1",
-      "time": "2026-07-24 09:26:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said it completed strikes against Iran for a 13th consecutive night at 9:00 pm EDT on July 23 (9:00 am Beijing time)."
-    },
-    {
-      "id": "mkt:019f91ba-92c9-7aab-8e76-ee3d091758fa",
-      "time": "2026-07-24 09:25:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "A-share market opened: Shanghai Composite down 0.60%, Shenzhen Composite Index down 1.47%, ChiNext Index down 1.68%. Oilfield services/engineering and gas sectors outperformed; precious metals, MLCC, CPO, memory chips and PCB sectors opened lower."
-    },
-    {
-      "id": "5005665",
-      "time": "2026-07-24 09:25:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【閏土股份、巍華新材等新設智舜創投基金】企查查APP顯示，近日，紹興上虞智舜創業投資基金合夥企業（有限合夥）成立，經營範圍包含創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由閏土股份、巍華新材等共同出資。"
-    },
-    {
-      "id": "5005664",
-      "time": "2026-07-24 09:25:11",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指低開，滬指跌0.6％，深成指跌1.47％，創業板跌1.68％。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202607243819830955",
-      "time": "2026-07-24 09:24:39",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【拉加德承諾留任至明年 歐洲央行新行長遴選或很快啟動】據報道，歐洲央行行長拉加德承諾將留任至2027年，意味著繼任人選競逐階段可能在不到五個月內啟動。"
     }
   ]
 }
