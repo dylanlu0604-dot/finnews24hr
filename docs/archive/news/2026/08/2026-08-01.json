@@ -1,7 +1,48 @@
 {
   "date": "2026-08-01",
-  "count": 194,
+  "count": 199,
   "items": [
+    {
+      "id": "5019842",
+      "time": "2026-08-01 03:27:59",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "哥倫比亞央行行長： 哥倫比亞央行難以解釋比索走強的原因。"
+    },
+    {
+      "id": "5019841",
+      "time": "2026-08-01 03:27:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟的布魯納：幾乎所有進入休達的人員現已全部撤離。"
+    },
+    {
+      "id": "5019840",
+      "time": "2026-08-01 03:26:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "布魯納：已與西班牙外交大臣阿爾瓦雷斯通電話。"
+    },
+    {
+      "id": "mkt:019fb9a4-321d-7aab-8f3d-02ee8b269001",
+      "time": "2026-08-01 03:26:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM spokesman Capt. Tim Hawkins said on Friday local time the US military did not participate in altering the course of Qatar's LNG tanker Al Areesh en route to Pakistan. A source said the vessel had earlier suspended its voyage to Pakistan at Iran's request."
+    },
+    {
+      "id": "5019839",
+      "time": "2026-08-01 03:26:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數7月份跌約1.5%】週五（7月31日）紐約尾盤，ICE美元指數漲0.03%，報99.899點，本週累計下跌1.54%，7月份累計下跌1.47%，7月1-29日高位震盪、29日紐約中午至30日持續下挫，整體交投區間為101.640-99.806點。彭博美元指數漲0.02%，報1206.80點，本週累跌1.28%，7月份累跌1.47%，7月1日亞太盤初微幅上揚、剩餘時間處於下跌狀態，7月1-29日震盪於1220點附近，之後顯著下挫。"
+    },
     {
       "id": "5019838",
       "time": "2026-08-01 03:23:25",
