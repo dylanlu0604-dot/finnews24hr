@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-01 04:01:46",
-  "count": 17897,
+  "updated": "2026-08-01 04:05:49",
+  "count": 17904,
   "items": [
+    {
+      "id": "5019892",
+      "time": "2026-08-01 04:04:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認盧森堡信用評級為AAA。"
+    },
+    {
+      "id": "mkt:019fb9c6-a379-7aab-8f3d-47964dd10110",
+      "time": "2026-08-01 04:03:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Amazon",
+        "Alphabet",
+        "Microsoft",
+        "Meta Platforms",
+        "Apple",
+        "Alibaba",
+        "Market Themes",
+        "China Tech Giants",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bullish",
+        "Dow",
+        "AMZN.O"
+      ],
+      "text": "【U.S. close: major indexes up; Amazon jumps 15%】U.S. equities closed higher on Friday: Dow Jones +0.53%, S&P 500 +0.70%, Nasdaq +1.00%. Tech and chip-related names were mixed. Amazon (AMZN.O) surged 15.32%, Google (GOOG.O) +6.73%, NVIDIA (NVDA.O) +2.93%, Meta Platforms (META.O) +3.28%, Microsoft (MSFT.O) +3.02%. Apple (AAPL.O) fell 7.35%; SpaceX (SPCX.O) -3.41%. Nasdaq Golden Dragon China Index rose 1.48%; Alibaba (BABA.N) +5.12%, Baidu (BIDU.O) +3.38%."
+    },
+    {
+      "id": "5019891",
+      "time": "2026-08-01 04:03:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數31日上漲】美元指數31日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.05%，在匯市尾市收於99.917。截至紐約匯市尾市，1歐元兌換1.1531美元，低於前一交易日的1.1535美元；1英鎊兌換1.3482美元，高於前一交易日的1.3476美元。1美元兌換158.90日元，低於前一交易日的158.93日元；1美元兌換0.8082瑞士法郎，高於前一交易日的0.8040瑞士法郎；1美元兌換1.4019加元，高於前一交易日的1.3996加元；1美元兌換9.5193瑞典克朗，高於前一交易日的9.5189瑞典克朗。"
+    },
+    {
+      "id": "5019890",
+      "time": "2026-08-01 04:03:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多股指7月累計上漲1.1%."
+    },
+    {
+      "id": "5019889",
+      "time": "2026-08-01 04:02:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "派拉蒙天舞：有效期延長至美國東部時間8月14日下午5點。"
+    },
+    {
+      "id": "5019888",
+      "time": "2026-08-01 04:02:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "INTEGER股票飆升20%，創下2000年10月以來最大單日漲幅。"
+    },
+    {
+      "id": "5019887",
+      "time": "2026-08-01 04:02:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙天舞：此前公佈的交換要約與收購要約到期日延長。"
+    },
+    {
+      "id": "5019886",
+      "time": "2026-08-01 04:02:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "派拉蒙天空之舞公司或將再度延長收購要約有效期，以配合華納兄弟探索公司收購交易完成。"
+    },
+    {
+      "id": "5019885",
+      "time": "2026-08-01 04:01:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "REDDIT股價週五收盤下跌21%，創下自2024年IPO以來最大跌幅。"
+    },
     {
       "id": "5019884",
       "time": "2026-08-01 04:01:12",
@@ -165707,32 +165795,6 @@
         "公司"
       ],
       "text": "市場訊息： 派拉蒙公告延長收購要約有效期。"
-    },
-    {
-      "id": "5007570",
-      "time": "2026-07-25 04:05:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽通航量下降 曼德海峽回升】國際市場服務機構克普勒24日在社交媒體釋出訊息說，中東兩大關鍵海上通道23日船舶通航情況出現分化，霍爾木茲海峽通航量明顯下降，而連線紅海和亞丁灣的曼德海峽通航量有所回升。克普勒資料顯示，霍爾木茲海峽23日共有6艘船舶完成通行，較前一日下降60%。除一艘船舶外，其餘均經由伊朗劃設的航道通行。與此同時，曼德海峽當天共有49艘船舶完成過境，高於此前水平。其中包括4艘關閉船舶自動識別系統進行“暗航”的船舶。克普勒表示，此前在亞丁灣和紅海因安全風險掉頭返航的部分船舶已恢復航行並完成通行，但仍有部分船舶在掉頭後繼續停留觀望。目前國際航運企業仍在持續評估地區安全形勢，整體通航活動呈現“謹慎但選擇性恢復”的特點。（新華社）"
-    },
-    {
-      "id": "mkt:019f95b9-159b-7aab-8e90-31c3cf4271e8",
-      "time": "2026-07-25 04:02:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "SNDK.O",
-        "Impact bearish",
-        "MU.O",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "【US close: major indexes mixed; SanDisk falls over 10%】U.S. equities closed mixed on Friday: Dow Jones +0.45%, S&P 500 +0.05%, Nasdaq -0.64%. Memory/storage names led declines — SanDisk (SNDK.O) -10.79%, SK Hynix (SKHY.O) -8.81%, Micron Technology (MU.O) -6.99%; Philadelphia Semiconductor Index down 4.25%, Intel (INTC.O) -7.89%. IBM (IBM.N) +3.64%, Apple (AAPL.O) +3.53%. Nasdaq Golden Dragon China Index -0.68%; Alibaba (BABA.N) -1.67%, Baidu (BIDU.O) -1.91%."
     }
   ]
 }
