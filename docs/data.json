@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-31 08:56:18",
-  "count": 17993,
+  "updated": "2026-07-31 09:00:50",
+  "count": 17983,
   "items": [
+    {
+      "id": "5017969",
+      "time": "2026-07-31 08:59:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股納斯達克100指數期貨漲超1%】美股納斯達克100指數期貨漲超1%，標普500指數期貨漲0.3%，道瓊斯指數期貨漲0.28%。"
+    },
+    {
+      "id": "mkt:019fb5ae-cda2-7aab-8f21-5ec05691b663",
+      "time": "2026-07-31 08:59:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign investors' June net selling of South Korean stocks hits record while holdings' market value rises to record】South Korea's Financial Supervisory Service said foreign investors net-sold 49.336 tln won of listed shares in June, the sixth consecutive month of net outflows. Net sales were concentrated on the KOSPI (50.979 tln won sold) while the KOSDAQ saw net inflows of 1.643 tln won. June's outflow exceeded May's record net sell of 47.019 tln won, setting a new monthly high. Year-to-date foreign net sales reached 116.3563 tln won, more than ten times last year's full-year net sell of 11.768 tln won. Despite heavy disposals, foreigners' end-June holdings of listed shares rose to 2,908.639 tln won, up 56.3 tln won month-on-month, and foreigners' share of market value climbed to a record 36.4%. Analysts attribute the pattern to profit-taking selling amid strong price gains in major holdings, which pushed up the market value of remaining positions and the ownership ratio."
+    },
+    {
+      "id": "5017968",
+      "time": "2026-07-31 08:59:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科原動力獲奇瑞智慧科技數億元B2輪投資】近日，北京中科原動力科技有限公司完成B2輪數億元融資，本輪融資由奇瑞控股集團旗下安徽奇瑞智慧科技有限公司投資。本輪融資將主要用於新能源智慧農機及具身智慧農業機器人核心技術研發、產品規模化交付及加快海外市場拓展。"
+    },
+    {
+      "id": "5017967",
+      "time": "2026-07-31 08:58:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【離岸人民幣國債期貨時隔九年再登港交所】時隔九年，離岸人民幣國債期貨下週一將重新在香港上市交易。根據香港證監會披露，首個上市的5年期國債期貨將採用現金結算，價格按一籃子中國國債釐定，而在岸品種採用實物交割的方式。香港國債期貨合約金額為50萬元人民幣，僅為在岸同期限品種的一半，其交易時間長於在岸市場。"
+    },
+    {
+      "id": "5017966",
+      "time": "2026-07-31 08:56:44",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：美元指數跌破100關口，黃金大幅反彈】據日經新聞報道，日本當局進行了買入日元的匯率干預，美國監管機構亦進行了利率核查，但官方干預並未得到正式確認。日元的急劇升值加劇了美元的跌勢，美元指數跌破100關口，黃金大幅反彈，我們之前強調的黃金反彈逐漸度兌現，多單可繼續持有，密切關注日本在匯率方面的動向，以及原油市場的表現。"
+    },
+    {
+      "id": "5017965",
+      "time": "2026-07-31 08:55:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證股價指數上漲2%。"
+    },
     {
       "id": "5017964",
       "time": "2026-07-31 08:52:48",
@@ -166176,153 +166227,6 @@
         "國際"
       ],
       "text": "30年期日本國債收益率上升5個基點，報3.965%。"
-    },
-    {
-      "id": "5005625",
-      "time": "2026-07-24 09:00:45",
-      "tags": [],
-      "text": "國內期貨主力合約漲多跌少，SC原油漲超6％，燃料油、苯乙烯（EB）漲超3％，純苯、低硫燃料油（LU）、瀝青、合成橡膠、乙二醇（EG）漲超2％。跌幅方面，滬銀跌近4％，鉑、鈀跌超3％，滬金跌超2％，國際銅跌近2％，滬銅、滬錫、玻璃跌超1％。"
-    },
-    {
-      "id": "mkt:019f91a3-84bf-7aab-8e76-3e0811a614d8",
-      "time": "2026-07-24 09:00:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index"
-      ],
-      "text": "FTSE China A50 index futures opened down 0.62%."
-    },
-    {
-      "id": "5005624",
-      "time": "2026-07-24 09:00:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數下跌1.2%至44,311.26點。"
-    },
-    {
-      "id": "mkt:019f91a3-37c8-7aab-8e76-33cc1567ec82",
-      "time": "2026-07-24 09:00:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Precious Metals",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "China's main domestic futures front-month contracts opened mixed; SC crude rose over 6%. Fuel oil and styrene (EB) gained more than 3%; benzene, low-sulfur fuel oil (LU), bitumen, synthetic rubber and ethylene glycol (EG) were up over 2%. On the downside, Shanghai silver fell about 4%; platinum and palladium dropped more than 3%; Shanghai gold declined over 2%; international copper slipped nearly 2%; Shanghai copper, Shanghai tin and glass fell more than 1%."
-    },
-    {
-      "id": "5005623",
-      "time": "2026-07-24 09:00:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開低0.2%報44,769.39。"
-    },
-    {
-      "id": "5005622",
-      "time": "2026-07-24 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀連續主力合約日內跌4%，現報301.20元。"
-    },
-    {
-      "id": "5005621",
-      "time": "2026-07-24 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲5%，現報596.70元。"
-    },
-    {
-      "id": "5005620",
-      "time": "2026-07-24 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌3%，現報14187.00元。"
-    },
-    {
-      "id": "5005619",
-      "time": "2026-07-24 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】上海原油連續漲6.05%，鈀連續跌3.76%，白銀連續跌3.69%，低硫燃料油連續漲3.45%，燃料油連續漲3.23%，苯乙烯連續漲3.23%。"
-    },
-    {
-      "id": "5005618",
-      "time": "2026-07-24 09:00:02",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中金：AI資本開支催生3.5萬億美元融資需求 債務償還能力成關鍵考驗】中金髮布研報稱，AI資本開支正快速擴張，大型雲廠商資本開支佔收入比或從2023年12%升至2027年40%以上，未來五年催生約3.5萬億美元外部融資需求，主要由投資級債券和私募資本承接。核心挑戰在於AI應用需形成每年約1萬億美元收入方能覆蓋債務成本，且利潤率需達約50%、折舊年限約5年。該行測算27-32年大型雲廠商債券到期進入高峰期，每年到期規模約280億美元，相比24-26年上升60%，再融資壓力上升。"
-    },
-    {
-      "id": "5005617",
-      "time": "2026-07-24 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤下跌0.60%。"
-    },
-    {
-      "id": "5005616",
-      "time": "2026-07-24 08:59:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商務部：上半年消費市場持續擴容升級、韌性十足】商務部消費促進司負責人談2026年上半年我國消費市場情況。從商品消費看，消費市場持續擴容升級、韌性十足。在去年同期高基數情況下，上半年社會消費品零售總額增長1.3%，6月份增速止跌回升，增長1.0%。限額以上單位16大類商品中，10類商品保持增長，其中7類商品增速在5%以上，商品消費總體平穩、基本面良好，呈現進一步企穩向好態勢。綠色、智慧、健康等商品消費需求旺盛，限額以上單位通訊器材零售額增長14.4%，高能效等級家電零售額增長超過30%；商務部商務大資料顯示，上半年重點平臺智慧眼鏡銷售額增長1.5倍、心電監護儀銷售額增長89.5%、運動相機銷售額增長21.4%、有機食品銷售額增長5.2%。"
-    },
-    {
-      "id": "5005615",
-      "time": "2026-07-24 08:58:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奧克股份：光固化單體原材料產品小規模供貨】奧克股份(300082)7月24日在互動平臺表示，光固化單體原材料產品小規模供貨，但屬上游原料，不直接對應PCB終端客戶。"
-    },
-    {
-      "id": "te:markets:569449",
-      "time": "2026-07-24 08:58:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Holds Decline — Silver hovered around $57.7 per ounce on Friday after falling more than 3% in the previous session, as surging oil prices fueled by the escalating Middle East conflict strengthened the case for tighter US monetary policy. President Donald Trump threatened broader military action against Iran and said Tehran would be held responsible for any future Houthi attacks on Red Sea shipping, helping propel Brent crude above $100 a barrel for the first time since May. The jump in oil prices stoked inflation concerns, reinforcing expectations of tighter Fed policy and weighing on non-yielding assets. Markets now see a 34% chance of a rate hike next week, with the probability of a September increase exceeding 78%. Separately, fresh US tariffs of 10%–12.5% on imports from major trading partners added to market uncertainty. Despite the recent pullback, silver remained on track for a weekly gain."
-    },
-    {
-      "id": "5005614",
-      "time": "2026-07-24 08:57:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "海南省氣象臺2026年07月24日08時55分繼續釋出海上雷雨大風黃色預警訊號：受對流雲團影響，北部灣南部海面24日08時55分到17時可能出現雷雨大風天氣，風力達7～9級並伴有強雷電，建議有關單位和人員做好防範工作。"
-    },
-    {
-      "id": "5005613",
-      "time": "2026-07-24 08:56:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔：美國針對強迫勞動徵收關稅令人遺憾。"
     }
   ]
 }
