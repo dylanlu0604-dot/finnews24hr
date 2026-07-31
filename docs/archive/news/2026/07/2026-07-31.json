@@ -1,7 +1,62 @@
 {
   "date": "2026-07-31",
-  "count": 3311,
+  "count": 3317,
   "items": [
+    {
+      "id": "mkt:019fb8b7-b57c-7aab-8f39-8477fbad9782",
+      "time": "2026-07-31 23:07:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said work completed via Codex accounts accounted for 99.8% of weekly output tokens."
+    },
+    {
+      "id": "5019698",
+      "time": "2026-07-31 23:07:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：Codex 相關賬號貢獻 99.8% 的周輸出 Token。"
+    },
+    {
+      "id": "5019697",
+      "time": "2026-07-31 23:06:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯穀物出口商與生產商聯盟：預計俄羅斯小麥供應缺口將達到3000萬-3500萬噸。"
+    },
+    {
+      "id": "mkt:019fb8b5-c1e2-7aab-8f39-7a4f934166fb",
+      "time": "2026-07-31 23:05:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI says its models now cover more than 2 mln companies."
+    },
+    {
+      "id": "5019696",
+      "time": "2026-07-31 23:05:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：目前已有超 200 萬家企業使用我們的模型， 我們的模型目前已覆蓋超過10億活躍使用者。"
+    },
+    {
+      "id": "mkt:019fb8b5-69c2-7aab-8f39-75e05a65ac5b",
+      "time": "2026-07-31 23:05:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI says its models now have over 1 billion active users."
+    },
     {
       "id": "mkt:019fb8b3-4b6f-7aab-8f39-696294e55eb4",
       "time": "2026-07-31 23:03:05",

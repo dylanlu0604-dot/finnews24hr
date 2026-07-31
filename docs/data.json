@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-31 23:05:20",
-  "count": 17975,
+  "updated": "2026-07-31 23:09:24",
+  "count": 17979,
   "items": [
+    {
+      "id": "mkt:019fb8b7-b57c-7aab-8f39-8477fbad9782",
+      "time": "2026-07-31 23:07:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said work completed via Codex accounts accounted for 99.8% of weekly output tokens."
+    },
+    {
+      "id": "5019698",
+      "time": "2026-07-31 23:07:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：Codex 相關賬號貢獻 99.8% 的周輸出 Token。"
+    },
+    {
+      "id": "5019697",
+      "time": "2026-07-31 23:06:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯穀物出口商與生產商聯盟：預計俄羅斯小麥供應缺口將達到3000萬-3500萬噸。"
+    },
+    {
+      "id": "mkt:019fb8b5-c1e2-7aab-8f39-7a4f934166fb",
+      "time": "2026-07-31 23:05:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI says its models now cover more than 2 mln companies."
+    },
+    {
+      "id": "5019696",
+      "time": "2026-07-31 23:05:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：目前已有超 200 萬家企業使用我們的模型， 我們的模型目前已覆蓋超過10億活躍使用者。"
+    },
+    {
+      "id": "mkt:019fb8b5-69c2-7aab-8f39-75e05a65ac5b",
+      "time": "2026-07-31 23:05:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI says its models now have over 1 billion active users."
+    },
     {
       "id": "mkt:019fb8b3-4b6f-7aab-8f39-696294e55eb4",
       "time": "2026-07-31 23:03:05",
@@ -166490,24 +166545,6 @@
         "Brent"
       ],
       "text": "Brazil's central bank governor said the bank monitors Brent crude's performance daily."
-    },
-    {
-      "id": "mkt:019f94ac-203c-7aab-8e8b-15302a13d978",
-      "time": "2026-07-24 23:08:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil central bank governor said many studies will examine El Niño's impact on CPI."
-    },
-    {
-      "id": "5007339",
-      "time": "2026-07-24 23:08:39",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【標普500成分股盈利超預期比例高於去年同期】在披露2026年二季度財報季的過程中，越來越多的美國公司交出了超出預期的盈利答卷，其中消費必需品和醫療保健板塊是最大的贏家。根據彭博彙編的資料，在已經公佈第三季度業績的120家標普500成分股中，有88%的公司每股收益（EPS）超出了分析師的預期，而去年同期整個財報季這一比例為87%。相比之下，盈利不及預期的公司佔比約為12%，去年同期為13%。 在營收方面，20%的公司未能達到預期，而80%的公司實現了超預期增長。去年同期的這兩項資料分別為30%和70%。儘管如此，自本輪財報季開始以來，藍籌股標杆的標普500指數仍下跌了0.9%。"
     }
   ]
 }
