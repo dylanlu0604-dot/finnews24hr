@@ -1,7 +1,157 @@
 {
   "date": "2026-07-31",
-  "count": 1142,
+  "count": 1157,
   "items": [
+    {
+      "id": "5018162",
+      "time": "2026-07-31 10:44:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本最大電力公司JERA高管表示：液化天然氣庫存充足，足以保障10月份的供應，即使在夏季熱浪期間，穩定的電力供應也不會受到影響。"
+    },
+    {
+      "id": "5018161",
+      "time": "2026-07-31 10:43:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "發改委：將綜合運用產能調控等手段，深入整治內卷式競爭。"
+    },
+    {
+      "id": "mkt:019fb60e-1efe-7aab-8f24-c3b7470d738e",
+      "time": "2026-07-31 10:43:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wildfires on Crete force about 8,000 evacuations; Rethymno’s Agios Vasilios declares emergency】Hellenic Broadcasting Corporation reported on the 30th that large wildfires in southern Crete, burning since the 29th, have forced the evacuation of about 8,000 residents and tourists. Agios Vasilios municipality in Rethymno has declared a state of emergency. Fire fronts exceed 15 km."
+    },
+    {
+      "id": "5018160",
+      "time": "2026-07-31 10:43:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量3373億元。"
+    },
+    {
+      "id": "mkt:019fb60d-878b-7aab-8f24-b826fa4ef13b",
+      "time": "2026-07-31 10:42:47",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,080/oz, down 0.58% on the day."
+    },
+    {
+      "id": "mkt:019fb60d-1f76-7aab-8f24-b117e8ba0355",
+      "time": "2026-07-31 10:42:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【CHINA STATE PLANNER to accelerate planning and build-out of 'six networks'】CHINA STATE PLANNER said at a July press briefing it will coordinate with ministries and local governments to draft targeted plans or implementation schemes for each of the six networks and push quickly to convert plans into physical work. The agency said it will emphasize multi-network, hardware–software and scenario coordination and accelerate detailed, locality- and sector-specific implementation. Policy research director Jiang Yi said that during the 15th Five-Year Plan period the new-type power grid is expected to receive over 5 tln yuan of investment to upgrade grid architecture, transmission and storage technologies and power-supply services to better meet demand, accommodate renewable integration and strengthen disaster response and rapid recovery. Underground utility networks are slated for about 5 tln yuan of investment to shore up gaps in gas, water supply/drainage and heating, boosting urban infrastructure resilience and living standards."
+    },
+    {
+      "id": "mkt:019fb60c-bfda-7aab-8f24-a9ef201e068d",
+      "time": "2026-07-31 10:41:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "Hang Seng Index",
+        "Impact bullish",
+        "02513.HK",
+        "00992.HK"
+      ],
+      "text": "Hang Seng Tech Index rose over 1% intraday after an earlier 0.7% drop; the Hang Seng Index turned positive intraday after falling as much as 1% earlier. Notable movers: Zhipu (02513.HK) +22%, MiniMax (00100.HK) +13%, Lenovo Group (00992.HK) +8%, Huahong Hongli (01347.HK) +5%, Alibaba Group (09988.HK) +5%."
+    },
+    {
+      "id": "5018159",
+      "time": "2026-07-31 10:41:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4080美元/盎司，日內跌0.58%。"
+    },
+    {
+      "id": "te:economy:571449",
+      "time": "2026-07-31 10:41:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Singapore Q2 Jobless Rate Holds Steady at 2.0% — Singapore’s seasonally adjusted unemployment rate stood at 2.0% in the second quarter of 2026, unchanged from the previous quarter, holding steady at 2.0% for the fourth consecutive quarter, preliminary estimates showed. Retrenchments rose to 4,500 in Q2 from 3,830 workers in Q1, marking the highest number since Q4 2020. Meanwhile, total employment increased by 10,700 in Q2 2026, up from 9,400 in Q1, marking the 19th consecutive quarter of growth since Q4 2021."
+    },
+    {
+      "id": "mkt:019fb60b-e848-7aab-8f24-a708d006c9cf",
+      "time": "2026-07-31 10:41:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CHINA STATE PLANNER: AI development must be human‑led and for human benefit】July 31 — CHINA STATE PLANNER spokesperson Jiang Yi said authorities will strengthen AI risk monitoring and control, build and refine technical monitoring, risk‑early‑warning and emergency‑response systems, and insist AI development remain human‑led, human‑centric and benevolent. The agency said it will actively address AI’s potential impacts on economic activity and employment distribution."
+    },
+    {
+      "id": "5018158",
+      "time": "2026-07-31 10:40:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4851.860點；恒生指數現跌0.045%。"
+    },
+    {
+      "id": "5018157",
+      "time": "2026-07-31 10:40:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "長鑫科技成交額超300億元，現漲8%。"
+    },
+    {
+      "id": "mkt:019fb60b-9c23-7aab-8f24-9ab1e84b2b7a",
+      "time": "2026-07-31 10:40:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【China State Planner to accelerate AI law legislation】On July 31 the China State Planner said it will accelerate legislation of an AI law. It reported faster domestic AI innovation in 1H, noting local firms, including Moonshot AI, have released open-source large models at roughly trillion-parameter scale and Chinese models have surpassed 10 bln global downloads. Policy priorities: speed up independent innovation (basic theory, training and inference efficiency, multimodal models, intelligent agents), accelerate construction of national AI application pilot bases, and deepen the AI ecosystem by fostering downstream intelligent firms while managing the dynamic balance between development and security."
+    },
+    {
+      "id": "mkt:019fb60b-6261-7aab-8f24-9214c71bb74d",
+      "time": "2026-07-31 10:40:27",
+      "tags": [
+        "MKT News",
+        "HSBA.L",
+        "Impact mixed"
+      ],
+      "text": "HSBC has agreed to sell its Australian mortgage book valued at US$25.3bn to a fund managed by Blackstone."
+    },
+    {
+      "id": "5018156",
+      "time": "2026-07-31 10:40:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家發展改革委：我國加快推進“六張網”規劃建設】今天上午，國家發展改革委舉行7月份新聞釋出會。國家發展改革委新聞發言人表示，為加快規劃建設“六張網”，國家發展改革委會同有關部門和各地方，針對每張“網”精準謀劃制定專項規劃或實施方案，力爭儘快形成實物工作量。據介紹，在“六張網”方面，目前，一大批專案抓緊開工，擬於年內開工的重大單體專案多數已實現開工；一大批專案加快建設，國家水網大動脈中的南水北調中線引江補漢工程、能源大動脈上的四川阿壩1000千伏變電站等加緊實施；還有一大批專案建成執行，在鄭州的國家超算網際網路核心節點，有數萬張國產AI晶片正在高速執行。“六張網”建設正在加快推進，政策紅利也在持續釋放。下一步，國家發展改革委將會同有關方面，突出多網協同、軟硬協同、場景協同，抓緊細化落實具體方案，因地因業加快推進建設。國家發展改革委政策研究室主任、新聞發言人蔣毅介紹，“十五五”時期新型電網擬投資超5萬億元，透過電網架構、輸電儲能技術、供電服務等創新，更好滿足用電以及新能源消納等需求，提升應對自然災害和快速恢復的能力。“十五五”時期地下管網擬投資約5萬億元，將加快補齊燃氣、供排水、供熱等短板弱項，提升城市基礎設施安全韌性和人民群眾生活品質。"
+    },
     {
       "id": "mkt:019fb60a-0e51-7aab-8f24-8e64336969a5",
       "time": "2026-07-31 10:39:00",
