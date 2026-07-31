@@ -1,7 +1,103 @@
 {
-  "updated": "2026-08-01 04:33:11",
-  "count": 17940,
+  "updated": "2026-08-01 04:37:02",
+  "count": 17949,
   "items": [
+    {
+      "id": "5019934",
+      "time": "2026-08-01 04:36:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元下跌1%，至157.93。"
+    },
+    {
+      "id": "te:markets:571857",
+      "time": "2026-08-01 04:35:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.53% Higher — The Dow Jones Index gained 277 points or 0.53 percent on Friday to close at 52485 points. Gains were led by Amazon (15.63%), Alphabet (7.12%) and Nvidia (3.46%). Biggest losers were Apple (-7.13%), Boeing (-1.90%) and UnitedHealth (-1.58%)."
+    },
+    {
+      "id": "mkt:019fb9e3-5dc3-7aab-8f3d-d7515acceb66",
+      "time": "2026-08-01 04:35:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The New York Times reports Fed Chair KEVIN WARSH is considering reducing the frequency of Federal Reserve policy meetings."
+    },
+    {
+      "id": "5019932",
+      "time": "2026-08-01 04:34:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，颶風“吉納維芙”將繼續向西北偏西方向移動，穿過開闊太平洋，預計將於本週末後期減弱為低壓殘餘環流。"
+    },
+    {
+      "id": "5019931",
+      "time": "2026-08-01 04:34:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數的11個板塊中，可選消費板塊收漲6.07%，電信板塊漲4.6%，工業板塊漲0.79%表現第三，資訊科技/科技板塊跌0.54%，房地產板塊跌0.68%，公用事業板塊跌0.74%，原材料板塊跌2.71%。"
+    },
+    {
+      "id": "5019930",
+      "time": "2026-08-01 04:34:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（7月31日），美股行業ETF漲跌各異，可選消費ETF收漲3.29%，網路股指數ETF漲2.59%，能源業ETF漲1%，半導體ETF漲0.3%，科技行業ETF跌0.22%，醫療業ETF跌0.59%，生物科技指數ETF跌1.87%。2026年1-7月，半導體ETF累計上漲50.09%，能源業ETF漲35.03%，全球科技股指數ETF、科技行業ETF至少漲22.09%，可選消費ETF則累跌2.39%。"
+    },
+    {
+      "id": "5019929",
+      "time": "2026-08-01 04:34:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "華納音樂集團任命盧·迪格勒為臨時首席財務官。"
+    },
+    {
+      "id": "5019928",
+      "time": "2026-08-01 04:34:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【報道：沃什考慮減少美聯儲政策會議的頻率】凱文・M・沃什正考慮減少美聯儲制定利率的例行會議場次。此舉可能引發重大震動，或將成為這家央行多年來運營模式最重大的改革。美聯儲由 12 名成員組成的政策委員會每年召開八次會議，投票決定上調、下調或是維持借貸成本。四名獲准匿名受訪的知情人士透露，沃什在美聯儲本週的會議上提出調整上述會議頻次的構想。這是沃什以主席身份主持的第二次會議。他釋放訊號，美聯儲有望在 9 月中旬下次會議前敲定新會議日程方案，相關調整或延後落地實施。美聯儲方面拒絕置評。下調會議頻次，隨之減少利率投票次數，將是沃什上任至今影響最為深遠的舉措。該方案將打破延續數十年的慣例，重塑美聯儲調控經濟的方式，還可能削弱其針對通脹、就業市場變動做出快速應對的能力。會議次數減少，華爾街與公眾能夠獲取的美聯儲利率思路相關資訊也會變少，扭轉持續數十年的資訊透明化趨勢。"
+    },
+    {
+      "id": "mkt:019fb9e2-5806-7aab-8f3d-ca2c47f4f182",
+      "time": "2026-08-01 04:34:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Emerging markets equity index rose 6.6%, marking its largest one-day gain since the 2008 US subprime crisis."
+    },
+    {
+      "id": "mkt:019fb9e1-e37d-7aab-8f3d-c2e970f67852",
+      "time": "2026-08-01 04:33:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "USD/JPY fell below 158 to 157.99, down 0.92% on the day, after plunging more than 100 pips within 30 minutes."
+    },
     {
       "id": "5019927",
       "time": "2026-08-01 04:32:21",
@@ -166112,18 +166208,6 @@
         "其他"
       ],
       "text": "葉門胡塞武裝旗下媒體：沙特襲擊了卡馬蘭島與荷臺達市的一座通訊設施，有一人在襲擊中受傷。"
-    },
-    {
-      "id": "te:markets:569854",
-      "time": "2026-07-25 04:35:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.46% Higher — The Dow Jones Index gained 236 points or 0.46 percent on Friday to close at 51947 points. Gains were led by Salesforce (4.05%), IBM (3.61%) and Apple (3.52%). Biggest losers were American Express (-4.41%), Honeywell International (-1.85%) and Goldman Sachs (-1.37%)."
     }
   ]
 }
