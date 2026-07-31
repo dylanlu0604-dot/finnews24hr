@@ -1,7 +1,96 @@
 {
   "date": "2026-07-31",
-  "count": 1042,
+  "count": 1050,
   "items": [
+    {
+      "id": "mkt:019fb5e6-664f-7aab-8f23-a33a99b05e75",
+      "time": "2026-07-31 10:00:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PHILIPPINE C.BANK said July annual inflation likely 5.6–6.6% YoY."
+    },
+    {
+      "id": "5018098",
+      "time": "2026-07-31 09:59:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行預測，7月份菲律賓通脹率可能在5.6%至6.6%之間。"
+    },
+    {
+      "id": "mkt:019fb5e4-0f7c-7aab-8f23-9cfd78b99f75",
+      "time": "2026-07-31 09:57:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "CNH"
+      ],
+      "text": "【China semiconductor equipment sector extends gains; multiple ETFs hit daily limit】A-share semiconductor equipment sector rallied intraday; three sector ETFs — ChinaAMC Semiconductor Equipment ETF, China Merchants Semiconductor Equipment ETF and Guotai Semiconductor Equipment ETF — hit their daily limit, while Penghua Sci‑Tech Semiconductor Equipment ETF and Huatai‑PineBridge Sci‑Tech Semiconductor Equipment ETF rose over 10%."
+    },
+    {
+      "id": "5018097",
+      "time": "2026-07-31 09:57:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "截止09:57，兩市100只個股漲停。"
+    },
+    {
+      "id": "5018096",
+      "time": "2026-07-31 09:57:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【松田科技啟動IPO輔導】證監會網站披露，廣東松田科技股份有限公司於2026年7月30日在廣東證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為東方證券。"
+    },
+    {
+      "id": "mkt:019fb5e3-5ba8-7aab-8f23-9477cb77e21e",
+      "time": "2026-07-31 09:56:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "600489.SS",
+        "Impact bullish",
+        "600988.SS",
+        "XAUUSD"
+      ],
+      "text": "China A-share precious metals sector strengthened intraday; Zhuzhou Smelter Group rose more than 7%, while Xiaocheng Technology, Zhaojin Gold, Chifeng Gold, Zhongjin Gold and Xingye Silver-Tin also advanced."
+    },
+    {
+      "id": "5018095",
+      "time": "2026-07-31 09:56:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲5%，現報7608.00點。"
+    },
+    {
+      "id": "mkt:019fb5e2-f924-7aab-8f23-8b7f52dd5727",
+      "time": "2026-07-31 09:56:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【CHINA STATE PLANNER: deepen \"East Data West Computing\" implementation; coordinate layout and orderly construction of computing facilities】At a July 30 1H 2026 briefing, the CHINA STATE PLANNER stressed ensuring delivery of annual targets and urged accelerating construction of a modern industrial system, using regionally tailored, category-specific measures to scale emerging and future industries. It called for deeper implementation of the \"East Data West Computing\" project — coordinating spatial layout and orderly construction of computing facilities — faster deployment of AI benchmark applications to accelerate adoption in manufacturing, agriculture and energy, and accelerated progress on AI legislation. The agency also pushed higher-quality, more efficient services and directed key industries to raise quality while cutting costs and carbon."
+    },
     {
       "id": "te:markets:571430",
       "time": "2026-07-31 09:55:43",
