@@ -1,7 +1,82 @@
 {
-  "updated": "2026-07-31 10:36:51",
-  "count": 18026,
+  "updated": "2026-07-31 10:40:56",
+  "count": 18023,
   "items": [
+    {
+      "id": "mkt:019fb60a-0e51-7aab-8f24-8e64336969a5",
+      "time": "2026-07-31 10:39:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "588000",
+        "Impact bullish",
+        "159915"
+      ],
+      "text": "【Sci‑Tech 50 and ChiNext ETFs each top CNY100bn turnover in first hour】In the first hour of trading, Huaxia Sci‑Tech Innovation 50 ETF (588000) and E Fund ChiNext ETF (159915) each recorded turnover above CNY100bn, well above levels at the same time yesterday. July net subscription inflows were CNY44.68bn and CNY39.33bn, respectively, the largest net inflows among broad‑based ETFs in July."
+    },
+    {
+      "id": "mkt:019fb60a-00b4-7aab-8f24-847805058259",
+      "time": "2026-07-31 10:38:56",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【Volatile tech stock swings prompt South Korean retail to cut margin loans】South Korean retail margin loans have fallen more than 10% since end-June, data show. Assets under management in Korea-listed leveraged ETFs tied to Samsung Electronics and SK Hynix slid from over $11.0bn on June 25 to $4.1bn as of Thursday, driven mainly by declines in the underlying shares. Flows into these funds turned negative over the past two weeks. Tigress Financial Partners’ CIO said large-scale de‑leveraging is often a healthy, sometimes necessary market adjustment when forced positions rather than fundamentals drive moves, removing speculative excess and reducing the risk of further forced liquidations."
+    },
+    {
+      "id": "5018155",
+      "time": "2026-07-31 10:38:48",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【發改委：堅持人工智慧發展由人主導、與人為善】7月31日，國家發展改革委政策研究室主任、新聞發言人蔣毅在新聞釋出會上表示，要強化人工智慧風險監測防控，建立健全技術監測、風險預警、應急響應體系，堅持人工智慧的發展由人主導、為人所用、與人為善，積極應對人工智慧對經濟執行、就業分配等方面的影響衝擊。"
+    },
+    {
+      "id": "5018154",
+      "time": "2026-07-31 10:38:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報143350元/噸，較上日16:30價格下跌1250元/噸。"
+    },
+    {
+      "id": "5018153",
+      "time": "2026-07-31 10:37:53",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【發改委：將加快人工智慧法的立法程序】7月31日，國家發展改革委政策研究室主任、新聞發言人蔣毅在新聞釋出會上表示，上半年，我國人工智慧自主創新步伐加快，在全產業鏈、多環節實現突破。深度求索、月之暗面等本土企業先後釋出引數規模達到“萬億”級別的開源大模型，國產大模型全球下載量突破100億次。下一步，國家發展改革委將統籌高質量發展和高水平安全，讓人工智慧這匹千里馬既跑得快又跑得穩。一是加快自主創新，聚焦大模型的基礎理論、訓練、推理效率、多模態、智慧體等前沿方向，加強基礎研究和技術創新；二是突出應用，加快推動國家人工智慧應用中試基地佈局建設；三是深化生態系統，大力培育智慧衍生企業，重點把握好發展和安全的動態平衡，將加快人工智慧法的立法程序。"
+    },
+    {
+      "id": "5018152",
+      "time": "2026-07-31 10:37:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5018151",
+      "time": "2026-07-31 10:37:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【國債期貨漲幅擴大 30年期主力合約創2025年11月25日以來新高】國債期貨漲幅擴大，30年期主力合約漲0.38%報115.51元，創2025年11月25日以來盤中新高，10年期主力合約漲0.11%，5年期主力合約漲0.06%，2年期主力合約漲0.03%。"
+    },
+    {
+      "id": "5018150",
+      "time": "2026-07-31 10:36:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【成交火爆！2只科創、創業ETF成交雙雙破百億】開盤僅1個小時，科創50ETF華夏（588000）、創業板ETF易方達（159915）成交額均破100億，較昨日此時大幅放量成交。7月份申贖淨流入分別為446.81億元、393.31億元為資金淨流入最多的2只寬基ETF。"
+    },
     {
       "id": "5018149",
       "time": "2026-07-31 10:35:44",
@@ -166582,118 +166657,6 @@
         "公司"
       ],
       "text": "必和必拓集團證實，其一家承包合作伙伴的一名團隊成員在皮克唐斯礦區因車輛事故不幸身亡。"
-    },
-    {
-      "id": "5005797",
-      "time": "2026-07-24 10:40:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達3.00%，成分股中，聚星科技跌9.16%，並行科技跌6.66%，三協電機跌5.86%，國子軟體跌5.51%。"
-    },
-    {
-      "id": "5005796",
-      "time": "2026-07-24 10:39:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "必和必拓集團昆士蘭州皮克唐斯礦發生致命事故。"
-    },
-    {
-      "id": "mkt:019f91fd-942f-7aab-8e78-9f60ada9249d",
-      "time": "2026-07-24 10:39:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "Nasdaq100",
-        "Impact mixed"
-      ],
-      "text": "【Analyst: NVIDIA acting as \"capital allocator\" in AI era】Analyst Rick says NVIDIA is functioning as a \"quasi-central bank\" for the AI era: it cannot issue currency or set rates, but it is reshaping allocation of the scarcest capital input—GPUs—and accelerating financialization of the AI industry. The industry is shifting toward an infrastructure financing model: financing to buy GPUs → GPU leasing produces cash flows → cash supports further financing → more GPU purchases, creating a self-reinforcing capital flywheel. GPUs are acquiring infrastructure-asset characteristics—long-duration cash flows, collateral value and securitization potential—which helps explain NVIDIA’s continued lock-up of HBM, advanced packaging and supply capacity. Cloud giants (Microsoft, Google, Meta, Amazon) are expanding capex and using orders, prepayments and deals to ease upstream financing; NeoCloud, HBM vendors and advanced-packaging firms are raising debt and signing long-term contracts; private credit, infrastructure funds and sovereign wealth funds are moving into AI data-center investment. Market implications: sustained, large-scale capital demand may keep long-term funding costs elevated even if short-term policy rates fall; long-duration capital will flow not only to GPUs but to data centers, power, fiber, cooling, HBM and packaging. Financing costs are likely to bifurcate—lower for AI firms with predictable cash flows, relatively higher for traditional sectors—raising the risk of widening credit spreads."
-    },
-    {
-      "id": "5005795",
-      "time": "2026-07-24 10:38:38",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國KOSPI指數跌超5%，三星電子、SK海力士均跌超6%。"
-    },
-    {
-      "id": "5005794",
-      "time": "2026-07-24 10:38:29",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【公安部：加強生態警務機制建設 上半年偵辦相關犯罪案件1.8萬起】國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，公安部相關負責人介紹強治理護民安促發展，全力服務保障“十五五”開局起步有關情況，並回答記者提問。公安部等十部門去年印發了《關於加強生態警務機制建設的意見》。《意見》印發以來，各地公安機關錨定2027年基本建成、2035年成熟定型的“兩步走”目標，緊緊圍繞“打、防、治、服”四項任務，加快構建“公安機關牽頭、相關部門聯動”的生態警務工作格局。一是堅持嚴打方針。全國公安機關深入開展“平安原野”“平安長江”等專項行動、專項工作，依法嚴打汙染環境、危害鳥類等野生動物、破壞古樹名木、非法採礦、非法佔用農用地等突出犯罪，今年上半年偵辦相關犯罪案件1.8萬起，抓獲犯罪嫌疑人2.9萬名。二是突出主動預防。堅持山水林田湖草沙一體化保護和系統治理，差異化打造山林型、河湖型、沿海型、礦區型等生態警務機制模式，建立生態警務站點3000餘個，設立河湖警長、林警長和生態警長7.3萬名，發展生態義警44萬名，推動生態保護與日常警務有機結合、與基層社會治理深度融合。三是推進綜合治理。密切雙向行刑銜接，推動前端治理，堵塞管理漏洞。各級公安機關向行政部門通報線索2800餘條，就風險隱患傳送公安建議書、提示函1800餘份，行政部門據此立行政案件1500餘起。四是服務價值轉化。依法嚴厲打擊破壞生態旅遊資源、危害綠色低碳產業發展以及侵權假冒名優農產品等犯罪活動，深入開展“惠民利企”走訪調研，建立常態化警企聯絡服務機制，服務保障“兩山”轉化，助力經濟社會綠色轉型。"
-    },
-    {
-      "id": "te:markets:569504",
-      "time": "2026-07-24 10:38:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Platinum Retreats From 2-Week High — Platinum futures fell below $1,600 an ounce, pulling back from a two-week high reached on July 22 and tracking losses across the precious metals complex as soaring oil prices reinforced expectations for tighter US monetary policy. Markets boosted bets on a Federal Reserve rate hike in September to above 78% after oil prices topped $100 per barrel, as tanker attacks in the Red Sea and ongoing fighting in the Middle East stoked inflation fears. Fresh US tariffs on goods from 60 trading added to the uncertain market backdrop. Meanwhile, underlying platinum fundamentals remain supportive, with the market forecast to post a fourth consecutive annual deficit in 2026 as constrained mine supply and declining above-ground inventories outweighed stronger recycling growth. China's industrial policies supporting AI, electric vehicles, and clean energy, together with the launch of the first platinum investment bar series, are also expected to support long-term consumption."
-    },
-    {
-      "id": "mkt:019f91fc-7867-7aab-8e78-97440148f688",
-      "time": "2026-07-24 10:37:49",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI fell 5.00% intraday to 6,737.20 points."
-    },
-    {
-      "id": "mkt:019f91fc-5fdb-7aab-8e78-8a6afcb59467",
-      "time": "2026-07-24 10:37:43",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "U.S. Treasury said on Thursday that Japan, Thailand and eight other major trading partners remain on Washington’s monitoring list for potential unfair currency practices. In its semiannual report to Congress the department did not designate any trading partner as a currency manipulator."
-    },
-    {
-      "id": "5005793",
-      "time": "2026-07-24 10:37:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鉑連續主力合約日內跌5%，現報391.35元。"
-    },
-    {
-      "id": "5005792",
-      "time": "2026-07-24 10:37:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方鉭業：高溫合金、半導體鉭靶材等高附加值產品的國內需求正在逐步上升】東方鉭業7月23日接受機構調研時表示，隨著我國高科技、新基建等行業的持續發展，高溫合金、半導體鉭靶材以及高純鈮材等高附加值產品的國內需求正在逐步上升，公司近年來全力推動生產線技術改造升級的擴能改造建設，合理組織生產，新增產能逐步釋放。在產業鏈自主可控戰略指引下，國產化替代程序已從單一產品突破向系統化解決方案演進，為鉭鈮及其合金製品的增長提供了堅實基礎。"
-    },
-    {
-      "id": "5005791",
-      "time": "2026-07-24 10:37:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【抖音電商嚴打活體寵物違規售賣，近半年處置違規商家3993個】據抖音電商訊息，近期，隨著寵物經濟快速發展，線上活體寵物交易日益活躍，部分商家、達人仍存在合規意識淡薄、售賣劣質活體寵物、虛假宣傳、違規導流等行為。針對上述違規，平臺堅決打擊並持續展開了專項治理。近半年來，平臺共處置違規商家3993個，違規達人265名。為進一步保障消費者權益，維護市場公平，平臺自即日起將繼續升級治理措施，全面從嚴活體寵物商品品質、經營資質、交易規範和售後服務等各環節要求。"
     }
   ]
 }
