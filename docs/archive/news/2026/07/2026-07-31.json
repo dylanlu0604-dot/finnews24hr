@@ -1,7 +1,105 @@
 {
   "date": "2026-07-31",
-  "count": 3046,
+  "count": 3056,
   "items": [
+    {
+      "id": "5019536",
+      "time": "2026-07-31 21:31:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "Reddit 股價大跌 19%，創 2025 年 3 月以來最大盤中跌幅。"
+    },
+    {
+      "id": "5019535",
+      "time": "2026-07-31 21:30:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【力積電董事長黃崇仁去世】晶圓代工企業力積電7月31日公告，董事長黃崇仁因心肺衰竭於家中離世，由副董事長謝再居代理董事長職務。力積電指出，公司產銷業務將依照既定規劃有序推進。"
+    },
+    {
+      "id": "5019534",
+      "time": "2026-07-31 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.39%，標普500指數漲0.47%，納指漲0.93%。Monolithic Power Systems漲13.44%，Coherent Corp漲11.52%，Lumentum Holdings Inc. Common Stock When Issued漲9.73%。“七姐妹”方面：亞馬遜漲11.70%，谷歌漲2.04%，Meta Platforms漲1.74%，英偉達漲1.25%，微軟漲0.97%，特斯拉漲0.67%，蘋果跌8.26%。"
+    },
+    {
+      "id": "mkt:019fb85e-a55f-7aab-8f36-c3d6a7a4c4d2",
+      "time": "2026-07-31 21:30:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Amazon",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish",
+        "AMZN.O",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【U.S. stocks open higher】U.S. stocks opened higher: Dow Jones Industrial Average +0.5%, S&P 500 +0.5%, Nasdaq +0.8% at the open. Apple (AAPL.O) fell 8% after Q4 revenue guidance disappointed. Amazon (AMZN.O) rose more than 11% as Q2 cloud business growth reached a four-year high."
+    },
+    {
+      "id": "te:markets:571781",
+      "time": "2026-07-31 21:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Amazon Stock Price Hits 8-week High — Amazon shares increased to 264.17 USD, the highest since June 2026. Over the past 4 weeks, Amazon gained 8.86%, and in the last 12 months, it increased 12.39%."
+    },
+    {
+      "id": "5019533",
+      "time": "2026-07-31 21:29:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國敲定新規，部分旅客需繳納最高 2 萬美元簽證保證金。"
+    },
+    {
+      "id": "5019532",
+      "time": "2026-07-31 21:29:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【汽車後市場百萬人才缺口】今年6月，商務部等九部門聯合釋出《關於培育壯大汽車後市場消費若干措施的通知》，聚焦汽車改裝、汽車賽事、房車露營、汽車維修、汽車租賃、傳統經典車等領域推出多項舉措，持續啟用汽車後市場潛力。深耕行業多年的業內人士告訴記者，汽車後市場細分賽道持續擴容，不少領域對專業人才需求激增。僅是內飾、輪轂、燈光等合規改裝就能帶動萬億級市場。“以前沒有大規模規範化的服務，現在需要非常專業的人員來做，應該是百萬級的人才需求。”（央視財經）"
+    },
+    {
+      "id": "5019531",
+      "time": "2026-07-31 21:29:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新鳳鳴：控股股東及其一致行動人合計持股比例降至52.88%】新鳳鳴公告稱，2026年7月23 - 29日，桐鄉市中聚投資有限公司集中競價減持1046.18萬股，佔總股本0.62%；7月29 - 31日，其一致行動人屈鳳琪大宗交易減持540萬股，佔總股本0.32%。二者合計持股比例由53.82%降至52.88%，觸及1%整數倍。本次減持不涉及要約收購，控股股東及實控人未變，減持計劃未實施完畢。"
+    },
+    {
+      "id": "5019530",
+      "time": "2026-07-31 21:29:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌日元交投於 159.54 附近。"
+    },
+    {
+      "id": "5019529",
+      "time": "2026-07-31 21:28:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙休達移民遇難人數上升至41人】當地時間31日，西班牙政府駐休達代表處確認，已有41人在試圖從摩洛哥游泳進入休達的過程中溺亡。（央視新聞）"
+    },
     {
       "id": "5019528",
       "time": "2026-07-31 21:26:44",
