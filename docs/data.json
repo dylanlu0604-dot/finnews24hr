@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-01 02:20:46",
-  "count": 17962,
+  "updated": "2026-08-01 02:24:45",
+  "count": 17961,
   "items": [
+    {
+      "id": "5019801",
+      "time": "2026-08-01 02:20:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普尚未批准從規模 4.01 億美元的政治行動委員會資金中拿出中期選舉開支。"
+    },
     {
       "id": "te:markets:571846",
       "time": "2026-08-01 02:20:01",
@@ -166306,31 +166314,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Wheat Drops by 2.56% — Top commodity losers are Wheat (-2.56%) and Rapeseed (-2.30%). Gains are led by Coffee (1.55%), Soybeans (0.70%) and Cocoa (0.57%)."
-    },
-    {
-      "id": "mkt:019f955d-5fac-7aab-8e8e-313fb5954c32",
-      "time": "2026-07-25 02:22:32",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bearish",
-        "RTX.O"
-      ],
-      "text": "The US State Department said Turkey does not meet the legal requirements to receive F-35 fighters; F-35 aircraft cannot be transferred to Turkey until it fully complies with US law."
-    },
-    {
-      "id": "mkt:019f955b-cbf5-7aab-8e8e-29bd2c9af8d4",
-      "time": "2026-07-25 02:20:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "The New York Times, citing four people familiar with the matter, reports Trump met on Friday with senior advisers and Cabinet members to decide whether to escalate military strikes against Iran."
     }
   ]
 }
