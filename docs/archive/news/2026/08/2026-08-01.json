@@ -1,7 +1,53 @@
 {
   "date": "2026-08-01",
-  "count": 178,
+  "count": 183,
   "items": [
+    {
+      "id": "te:economy:571849",
+      "time": "2026-08-01 03:16:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Uruguay Trade Balance Swings to Deficit in June — Uruguay’s trade balance swung to a deficit of $71.7 million in June 2026 from a surplus of $274.8 million a year earlier. Imports surged 35.5% year-on-year to $1.18 billion, driven by a 57% increase in intermediate goods. Purchases of electricity soared 1,286.1%, while imports of oil and distillates jumped 407.7%. Meanwhile, consumer goods imports rose 13.2% and capital goods imports increased 12.7%. Exports fell 3.2% to $1.11 billion, as shipments of electricity, gas, and water plunged 87%. Exports of primary products also declined 14.8%, while manufactured goods exports increased 7.3%."
+    },
+    {
+      "id": "5019831",
+      "time": "2026-08-01 03:14:07",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【英國工黨敲定十月秋季預算，大範圍減稅讓利地方民生】安迪·伯納姆領導的新一屆英國政府確定預算案日期，將於10月底出臺預算方案，推動資金與權力從威斯敏斯特向外分流。新任首相正穩步推行其稅收與支出規劃。財政大臣約翰·希利宣佈秋季預算定於10月28日釋出。他表示，工黨將嚴守財政規則，相關政策旨在為企業和家庭營造未來發展的穩定環境。伯納姆執政頭兩週密集推出多項政策：下調能源賬單增值稅、削減酒吧、俱樂部與現場音樂場館的商業地產稅、設定公交票價上限，並承諾將部分所得稅收入分配給英格蘭各地區市長。基爾·斯塔默執政時期，工黨民調持續疲軟。伯納姆希望扭轉這一局面，但這份形勢嚴峻的秋季預算必須明確新政資金來源。近幾周，受伊朗衝突拖累，全球經濟承壓、通脹升溫，各國財政壓力加劇，英國政府在全球金融市場的融資成本大幅攀升。希利表示，政府正迅速推出各項舉措重振民眾信心，他將在自己就任財政大臣後的首份預算案中抓緊落實相關工作。"
+    },
+    {
+      "id": "5019830",
+      "time": "2026-08-01 03:13:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "KKR收購Integer的交易將使該公司估值約為每股127美元。"
+    },
+    {
+      "id": "5019829",
+      "time": "2026-08-01 03:13:12",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行行長：哥倫比亞國際儲備規模處於充足水平。"
+    },
+    {
+      "id": "5019828",
+      "time": "2026-08-01 03:12:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "受KKR即將達成交易的報道提振，INTEGER HOLDINGS股價飆升11%。"
+    },
     {
       "id": "5019827",
       "time": "2026-08-01 03:12:33",
