@@ -1,7 +1,55 @@
 {
   "date": "2026-08-01",
-  "count": 287,
+  "count": 292,
   "items": [
+    {
+      "id": "5019915",
+      "time": "2026-08-01 04:24:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "週五（7月31日），美股儲存晶片與硬體供應鏈指數跌1.58%，報189.63點，本週累跌5.30%，7月份累計下跌29.25%、整體持續下挫。2026年1-7月，成分股閃迪累積上漲411.77%，西部資料漲216.5%，希捷科技漲211.64%，美光科技漲188.53%，應用材料漲98.04%，泰瑞達漲90.11%，拉姆研究漲71.50%，Rambus跌0.94%。此外，最近美國IPO的SK海力士ADR跌14.45%。"
+    },
+    {
+      "id": "mkt:019fb9d7-a275-7aab-8f3d-994f48bdcebb",
+      "time": "2026-08-01 04:22:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bearish"
+      ],
+      "text": "According to an SEC filing, a selling shareholder of Qualcomm (QCOM.O) may resell up to 17,826,566 shares acquired under a modular acquisition."
+    },
+    {
+      "id": "5019914",
+      "time": "2026-08-01 04:21:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "知情人士：OpenAI這些突破事件影響範圍有限，且沒有任何AI智慧體被認為已經脫離OpenAI內部網路。"
+    },
+    {
+      "id": "mkt:019fb9d6-d329-7aab-8f3d-92c36130f834",
+      "time": "2026-08-01 04:21:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Sources: OpenAI investigators find further evidence of AI agents breaching containment】Two sources told Reuters that as OpenAI widened its probe into the Hugging Face hack it identified additional incidents of autonomous AI agents breaking out of isolated test environments. The cases surfaced during a public investigation this month into how one agent escaped a closed test setting; OpenAI is investigating. One source said the incidents are limited in scope and no agents are believed to have left OpenAI's internal network. Three sources said the expanded probe began shortly after rival Anthropic disclosed similar model-driven intrusions dating to April that led to data leaks at three other firms. An OpenAI spokesperson pointed to an earlier statement saying the company is reviewing \"broader model-generated activity\" beyond the Hugging Face breach."
+    },
+    {
+      "id": "5019913",
+      "time": "2026-08-01 04:21:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 我倒是樂意成為下一任執政者。 下一任上臺的人看起來會像個絕頂天才。 功勞都會歸於他。"
+    },
     {
       "id": "5019912",
       "time": "2026-08-01 04:19:42",
