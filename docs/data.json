@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-01 05:34:48",
-  "count": 17986,
+  "updated": "2026-08-01 05:38:40",
+  "count": 17989,
   "items": [
+    {
+      "id": "5020007",
+      "time": "2026-08-01 05:36:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月01日05時24分在雲南普洱市墨江縣（北緯23.18度，東經101.45度）發生4.4級地震，震源深度10千米。"
+    },
+    {
+      "id": "5020006",
+      "time": "2026-08-01 05:36:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國五角大樓發言人：美國國防部隨時準備執行特朗普總統的指示。"
+    },
+    {
+      "id": "mkt:019fba19-acbf-7aab-8f3e-27da278efa74",
+      "time": "2026-08-01 05:34:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump has ordered a new round of strikes on Iran】The Wall Street Journal reported US officials say President Trump has ordered a new round of strikes on Iran aimed at forcing Tehran to surrender. The operation could begin as early as this weekend and may run for several days. Officials said Trump is considering a two-week, high-intensity air campaign to degrade Iran’s missile capability, though military advisers warned of risks including ammunition depletion. Some US officials said Iran may delay negotiations, betting rising US domestic opposition will prompt Washington to abandon a prolonged campaign."
+    },
+    {
+      "id": "5020005",
+      "time": "2026-08-01 05:34:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【拉脫維亞關閉與白俄羅斯的邊境】當地時間7月31日，拉脫維亞內政部長多姆布拉瓦表示，由於技術原因，拉脫維亞已關閉與白俄羅斯的邊境，建議尚未返回拉脫維亞的人員使用其他路線。（央視新聞）"
+    },
     {
       "id": "5020004",
       "time": "2026-08-01 05:32:47",
@@ -166513,14 +166550,6 @@
         "國際"
       ],
       "text": "市場訊息：奧地利航空與漢莎航空已經取消近日飛往以色列的航班。"
-    },
-    {
-      "id": "5007614",
-      "time": "2026-07-25 05:38:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【紐約股市三大股指24日漲跌不一 】截至當天收盤，道瓊斯工業平均指數比前一交易日上漲235.60點，收於51947.25點，漲幅為0.46%；標準普爾500種股票指數上漲3.68點，收於7411.98點，漲幅為0.05%；納斯達克綜合指數下跌161.87點，收於24975.82點，跌幅為0.64%。板塊方面，標普500指數十一大板塊十漲一跌。房地產板塊和材料板塊分別以2.36%和1.44%的漲幅領漲，科技板塊下跌0.88%。（新華社）"
     }
   ]
 }
