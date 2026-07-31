@@ -1,7 +1,45 @@
 {
   "date": "2026-07-31",
-  "count": 1449,
+  "count": 1453,
   "items": [
+    {
+      "id": "5018378",
+      "time": "2026-07-31 13:36:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌4%，現報138940.00元。"
+    },
+    {
+      "id": "5018377",
+      "time": "2026-07-31 13:35:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收高8%報43,119.75。"
+    },
+    {
+      "id": "te:markets:571514",
+      "time": "2026-07-31 13:34:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Eases from 9-Month High — The South Korean won traded around 1,435 per dollar in late July, easing from its strongest level in nine months near 1,418, as the initial boost from reports of foreign exchange intervention by South Korean authorities faded. The currency had strengthened sharply alongside the Japanese yen after markets speculated that Seoul and Tokyo may have taken steps to support their currencies, but both reversed some gains as investors assessed the sustainability of the moves. Despite the pullback, the won has gained more than 8% against the US dollar this month, marking its strongest monthly performance since March 2009. Global risk sentiment improved following a rebound in technology stocks, reducing demand for the greenback. Stronger foreign investor activity in South Korean equities boosted currency flows, while expectations of continued AI-led semiconductor export growth reinforced Korea's external position."
+    },
+    {
+      "id": "5018376",
+      "time": "2026-07-31 13:31:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓華航空航天公司：正在美國尋找建設彈藥工廠的選址。"
+    },
     {
       "id": "5018375",
       "time": "2026-07-31 13:30:47",

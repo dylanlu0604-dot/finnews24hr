@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-31 13:32:26",
-  "count": 18032,
+  "updated": "2026-07-31 13:37:04",
+  "count": 18025,
   "items": [
+    {
+      "id": "5018378",
+      "time": "2026-07-31 13:36:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌4%，現報138940.00元。"
+    },
+    {
+      "id": "5018377",
+      "time": "2026-07-31 13:35:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收高8%報43,119.75。"
+    },
+    {
+      "id": "te:markets:571514",
+      "time": "2026-07-31 13:34:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Eases from 9-Month High — The South Korean won traded around 1,435 per dollar in late July, easing from its strongest level in nine months near 1,418, as the initial boost from reports of foreign exchange intervention by South Korean authorities faded. The currency had strengthened sharply alongside the Japanese yen after markets speculated that Seoul and Tokyo may have taken steps to support their currencies, but both reversed some gains as investors assessed the sustainability of the moves. Despite the pullback, the won has gained more than 8% against the US dollar this month, marking its strongest monthly performance since March 2009. Global risk sentiment improved following a rebound in technology stocks, reducing demand for the greenback. Stronger foreign investor activity in South Korean equities boosted currency flows, while expectations of continued AI-led semiconductor export growth reinforced Korea's external position."
+    },
+    {
+      "id": "5018376",
+      "time": "2026-07-31 13:31:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓華航空航天公司：正在美國尋找建設彈藥工廠的選址。"
+    },
     {
       "id": "5018375",
       "time": "2026-07-31 13:30:47",
@@ -166704,100 +166742,6 @@
         "國際"
       ],
       "text": "科赫爾：歐洲央行9月要麼加息要麼維持利率不變。"
-    },
-    {
-      "id": "5006009",
-      "time": "2026-07-24 13:36:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "科赫爾：歐洲央行將在未來幾周保持警惕。"
-    },
-    {
-      "id": "5006008",
-      "time": "2026-07-24 13:36:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委科赫爾：近期石油市場發展動態令人擔憂。"
-    },
-    {
-      "id": "mkt:019f929f-adfe-7aab-8e7b-3a912ecbfa5b",
-      "time": "2026-07-24 13:36:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SK chairman Chey Tae-won ordered to pay 944 billion won divorce settlement; would be South Korea record if upheld】A South Korean court has ordered SK Group chairman Chey Tae-won to pay his ex-wife 944 billion won (about $643 million) in a divorce property settlement, a ruling that brings the long-running case closer to conclusion. If upheld, the award would be the largest divorce settlement in South Korean history. Bloomberg Billionaires Index estimates Chey’s net worth at roughly $5.6 billion, more than double over the past year amid an AI-driven surge in his wealth. The court has not specified whether the payment will be made in cash or shares."
-    },
-    {
-      "id": "mkt:019f929f-28af-7aab-8e7b-326d75377d01",
-      "time": "2026-07-24 13:35:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan's TAIEX fell 1,195.97 points (-2.67%) to 43,654.84 at the close on Friday, July 24."
-    },
-    {
-      "id": "5006007",
-      "time": "2026-07-24 13:35:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收低2.7%報43,654.84。"
-    },
-    {
-      "id": "5006006",
-      "time": "2026-07-24 13:35:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾汽車：即便在充滿挑戰的市場環境下，預計全年業績仍將強勁，高於上年水平。"
-    },
-    {
-      "id": "5006005",
-      "time": "2026-07-24 13:34:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力晶片概念震盪反彈 魅視科技漲停】午後算力晶片概念震盪反彈，魅視科技漲停，翱捷科技漲超10%，瀾起科技、沐曦股份、海光資訊、芯原股份等跟漲。"
-    },
-    {
-      "id": "5006004",
-      "time": "2026-07-24 13:33:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：若懸浮法聚氯乙烯（PVC）用於出口，則進口價格限制不適用。"
-    },
-    {
-      "id": "5006003",
-      "time": "2026-07-24 13:33:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾汽車仍預計本財年汽車業務淨現金流為30億至60億歐元。"
-    },
-    {
-      "id": "5006002",
-      "time": "2026-07-24 13:32:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "大眾汽車：集團預計汽車部門2026年的投資率將維持在11%至12%區間。"
-    },
-    {
-      "id": "5006001",
-      "time": "2026-07-24 13:32:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：限制進口到岸價高於每公斤0.766美元的懸浮級聚氯乙烯樹脂，為期六個月。"
     }
   ]
 }
