@@ -1,7 +1,52 @@
 {
   "date": "2026-08-01",
-  "count": 430,
+  "count": 435,
   "items": [
+    {
+      "id": "5020031",
+      "time": "2026-08-01 06:17:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社援引高階安全官員訊息：伊朗已制定全面計劃，以應對任何“美國潛在的魯莽行動”。"
+    },
+    {
+      "id": "5020030",
+      "time": "2026-08-01 06:16:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社援引伊朗高階安全官員的話表示：我們認為有關美國和以色列可能襲擊伊朗基礎設施的報道是一種“魯莽行徑”。"
+    },
+    {
+      "id": "te:markets:571865",
+      "time": "2026-08-01 06:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Drops by 1.35% — Top currency losers are South Korean Won (-1.35%), Swiss Franc (-0.31%) and Dollar Index (-0.08%). Gains are led by Japanese Yen (1.31%), Norwegian Krone (0.55%) and British Pound (0.12%). Meanwhile Euro was little changed."
+    },
+    {
+      "id": "5020029",
+      "time": "2026-08-01 06:15:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI在華盛頓特區展示了其“ASTRA”人工智慧模型的預覽。"
+    },
+    {
+      "id": "5020028",
+      "time": "2026-08-01 06:14:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【哥倫比亞比索創七年新高，央行將積累外匯儲備以引導匯率回落】哥倫比亞啟動了一項旨在積累高達40億美元國際儲備的計劃，以促使該國貨幣從七年高點回落。7月31日，該國央行行長Leonardo Villar宣佈了這項決定，就在政策制定者剛剛決定維持利率不變之後。該計劃將從8月份初期開始透過每月的看跌期權拍賣進行，首次拍賣的上限為4億美元。"
+    },
     {
       "id": "5020027",
       "time": "2026-08-01 06:10:44",
