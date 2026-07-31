@@ -1,7 +1,129 @@
 {
   "date": "2026-07-31",
-  "count": 1157,
+  "count": 1170,
   "items": [
+    {
+      "id": "mkt:019fb612-c328-7aab-8f24-d9678ed88a8d",
+      "time": "2026-07-31 10:48:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tesla introduces Doubao LLM in China】Tesla China released vehicle software version 2026.14.13 on July 31, a phased update covering Model 3, Model Y, Model S and Model X. The main addition is Doubao, a large-model in‑car voice assistant that provides real-time information and natural, conversational responses, offers multiple premium voice options and role-based personas (Know-it-all, Music Lover, Storyteller), and requires activation of the premium in‑car entertainment service to use."
+    },
+    {
+      "id": "5018169",
+      "time": "2026-07-31 10:48:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "木原稔：拒絕就是否干預匯市發表評論。"
+    },
+    {
+      "id": "5018168",
+      "time": "2026-07-31 10:47:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【發改委：全球每銷售10臺人形和四足智慧機器人，就有8臺來自中國】7月31日，國家發展改革委政策研究室主任、新聞發言人蔣毅在新聞釋出會上表示，當前，全球每銷售10臺人形和四足智慧機器人，就有8臺來自中國。"
+    },
+    {
+      "id": "mkt:019fb611-abc9-7aab-8f24-d77e258f6599",
+      "time": "2026-07-31 10:47:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Copper"
+      ],
+      "text": "【China State Planner to push 'one-document, one-container, one-price' model】China State Planner policy research office director and spokesperson Jiang Yi said at a press briefing on the 31st that China's container multimodal transport has expanded rapidly but faces equipment-standard mismatches, fragmented documentation rules and poor last-mile rail connections into ports and industrial parks, weighing on costs and efficiency. The agency said it will vigorously promote a 'one-document, one-container, one-price' model to drive cost reductions and efficiency gains."
+    },
+    {
+      "id": "5018167",
+      "time": "2026-07-31 10:47:04",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【發改委： 將綜合運用產能調控，深入整治“內卷式”競爭】7月31日，國家發展改革委政策研究室主任、新聞發言人蔣毅在新聞釋出會上表示，全國統一大市場建設既是攻堅戰，更是持久戰。在各部門、各地方的共同努力下，相關工作取得一些積極成效。隨著工作的不斷深入，也暴露出一些深層問題。下一步，國家發展改革委將從多方面推動改革攻堅。一是加快建章立制，重點是打出“一個條例、三張清單、三項制度”的組合拳，明確劃定政府經濟促進行為的尺度和邊界，既明確不能做什麼，更要講清楚可以做什麼，引導各方面在守住公平競爭底線的基礎上，放開手腳謀發展；二是重點打通商品和服務流通的瓶頸環節，進一步提升各類要素的流通效率。此外，國家發展改革委還將緊盯問題整改，清除一批頑瘴痼疾。比如針對企業低價無序競爭亂象，將綜合運用產能調控、標準引領、價格執法、質量監督等手段，深入整治“內卷式”競爭。"
+    },
+    {
+      "id": "te:economy:571454",
+      "time": "2026-07-31 10:46:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Set for Weekly Fall — The yield on the US 10-year Treasury note eased to around 4.65% on Friday and was on track to finish the week lower as investors assessed the Federal Reserve’s cautious policy stance. The central bank left interest rates unchanged on Wednesday despite mounting inflationary pressures stemming from renewed hostilities in the Middle East, although three FOMC members voted in favor of a rate hike. While Chair Kevin Warsh reaffirmed the Fed’s commitment to bringing inflation under control and emphasized that policymakers would act if needed, he did not support an immediate increase and stopped short of providing clear forward guidance. Even so, markets are currently pricing in about a 63% chance of a 25-basis-point Fed rate hike in September. Meanwhile, geopolitical tensions remained elevated after the US military launched fresh strikes on Iranian targets in retaliation for Tehran’s attacks on US assets across the Middle East, reducing the likelihood of any near-term diplomatic agreement."
+    },
+    {
+      "id": "mkt:019fb610-f205-7aab-8f24-cef9ce14a99d",
+      "time": "2026-07-31 10:46:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan government says its top foreign-exchange official Mimura will be reappointed to begin a third term."
+    },
+    {
+      "id": "te:markets:571452",
+      "time": "2026-07-31 10:46:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Offshore Yuan Holds at Strongest Level Since 2023 — The offshore yuan held its gains around 6.74 per dollar on Friday, remaining at its strongest level since February 2023, as investors raised expectations for additional policy support following PMI data releases. Official figures showed China’s manufacturing PMI fell to 49.2 in July 2026 from 50.3 in June, marking its first contraction since February, while the non-manufacturing PMI slipped to 49.0 from 50.2, signaling a renewed downturn after two months of modest expansion. The weak readings followed data showing Q2 GDP growth missed expectations and fell below the government’s 4.5%-5% target range. At the Politburo meeting, authorities vowed timely policy measures and to accelerate public spending and government bond fund usage. However, policymakers are expected to adopt a cautious approach to unveiling additional stimulus measures amid double-digit export growth."
+    },
+    {
+      "id": "5018166",
+      "time": "2026-07-31 10:46:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【第十二批國採現場：多家金融機構到場介紹“集採貸”“BD貸”等服務產品】記者在第十二批國家組織藥品集中帶量採購開標現場看到，中國銀行、中國出口信用保險公司、招商銀行、浦發銀行、上海銀行等金融機構，以及中國藥品價格登記系統等機構在現場設定服務展位，為參與企業介紹“集採貸”“BD貸”“管線研發貸”“藥品價格登記”等相關服務。現場工作人員對記者介紹，集採中選後，部分企業尤其是首次中選企業可能面臨短期資金週轉壓力，相關貸款產品利率可低至3%以下，將為企業緩解資金壓力。（財聯社）"
+    },
+    {
+      "id": "5018165",
+      "time": "2026-07-31 10:45:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本政府表示，日本首席外匯外交官三村淳將獲得連任，開啟第三個任期。"
+    },
+    {
+      "id": "te:markets:571451",
+      "time": "2026-07-31 10:45:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Stock Momentum Builds as Monthly Turnaround Looms — Indonesian equities rose 42 points, or 0.7%, to 6,227 in early Friday trade, extending prior gains following an overnight rebound on Wall Street as chipmakers recovered from recent weakness. Locally, sentiment was lifted by the constitutional court’s ruling that financing for free meals should not come from the education budget, a move seen as reinforcing governance reforms tied to President Prabowo’s flagship program. Upside was capped, however, by caution ahead of key data releases next week, including inflation, trade performance, and Q2 GDP. In China, Indonesia’s largest trading partner, Beijing will stick to existing policy tools rather than unveil sweeping stimulus, keeping growth concerns in play. Gains were broad-based, led by basic materials, energy, and healthcare. Notable movers included Surya Citra Media (5.1%), Darma Henwa (4.4%), and Astra Intl (2.5%). The market is on track for a fourth straight weekly rise, setting up the first monthly gain after six periods of drop."
+    },
+    {
+      "id": "5018164",
+      "time": "2026-07-31 10:45:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蜘蛛俠嶄新之日總票房破4億】據貓眼專業版資料，電影 《蜘蛛俠：嶄新之日》 上映3天， 總票房破4億"
+    },
+    {
+      "id": "5018163",
+      "time": "2026-07-31 10:45:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昆騰動力完成超億元種子輪融資】7月31日訊息，Physical AI平臺公司“昆騰動力(Quantum Dynamics)”近日完成超億元種子輪融資，本輪由雲啟資本、商湯國香資本聯合投資。資金將主要用於Physical AI核心技術研發、人才梯隊建設及全球化市場拓展，加速其面向物理世界的智慧系統從底層模型到場景化落地的全鏈路構建。多維資本參與專案孵化與團隊組建。"
+    },
     {
       "id": "5018162",
       "time": "2026-07-31 10:44:11",

@@ -1,7 +1,129 @@
 {
-  "updated": "2026-07-31 10:45:05",
-  "count": 18032,
+  "updated": "2026-07-31 10:49:15",
+  "count": 18026,
   "items": [
+    {
+      "id": "mkt:019fb612-c328-7aab-8f24-d9678ed88a8d",
+      "time": "2026-07-31 10:48:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tesla introduces Doubao LLM in China】Tesla China released vehicle software version 2026.14.13 on July 31, a phased update covering Model 3, Model Y, Model S and Model X. The main addition is Doubao, a large-model in‑car voice assistant that provides real-time information and natural, conversational responses, offers multiple premium voice options and role-based personas (Know-it-all, Music Lover, Storyteller), and requires activation of the premium in‑car entertainment service to use."
+    },
+    {
+      "id": "5018169",
+      "time": "2026-07-31 10:48:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "木原稔：拒絕就是否干預匯市發表評論。"
+    },
+    {
+      "id": "5018168",
+      "time": "2026-07-31 10:47:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【發改委：全球每銷售10臺人形和四足智慧機器人，就有8臺來自中國】7月31日，國家發展改革委政策研究室主任、新聞發言人蔣毅在新聞釋出會上表示，當前，全球每銷售10臺人形和四足智慧機器人，就有8臺來自中國。"
+    },
+    {
+      "id": "mkt:019fb611-abc9-7aab-8f24-d77e258f6599",
+      "time": "2026-07-31 10:47:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Copper"
+      ],
+      "text": "【China State Planner to push 'one-document, one-container, one-price' model】China State Planner policy research office director and spokesperson Jiang Yi said at a press briefing on the 31st that China's container multimodal transport has expanded rapidly but faces equipment-standard mismatches, fragmented documentation rules and poor last-mile rail connections into ports and industrial parks, weighing on costs and efficiency. The agency said it will vigorously promote a 'one-document, one-container, one-price' model to drive cost reductions and efficiency gains."
+    },
+    {
+      "id": "5018167",
+      "time": "2026-07-31 10:47:04",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【發改委： 將綜合運用產能調控，深入整治“內卷式”競爭】7月31日，國家發展改革委政策研究室主任、新聞發言人蔣毅在新聞釋出會上表示，全國統一大市場建設既是攻堅戰，更是持久戰。在各部門、各地方的共同努力下，相關工作取得一些積極成效。隨著工作的不斷深入，也暴露出一些深層問題。下一步，國家發展改革委將從多方面推動改革攻堅。一是加快建章立制，重點是打出“一個條例、三張清單、三項制度”的組合拳，明確劃定政府經濟促進行為的尺度和邊界，既明確不能做什麼，更要講清楚可以做什麼，引導各方面在守住公平競爭底線的基礎上，放開手腳謀發展；二是重點打通商品和服務流通的瓶頸環節，進一步提升各類要素的流通效率。此外，國家發展改革委還將緊盯問題整改，清除一批頑瘴痼疾。比如針對企業低價無序競爭亂象，將綜合運用產能調控、標準引領、價格執法、質量監督等手段，深入整治“內卷式”競爭。"
+    },
+    {
+      "id": "te:economy:571454",
+      "time": "2026-07-31 10:46:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Set for Weekly Fall — The yield on the US 10-year Treasury note eased to around 4.65% on Friday and was on track to finish the week lower as investors assessed the Federal Reserve’s cautious policy stance. The central bank left interest rates unchanged on Wednesday despite mounting inflationary pressures stemming from renewed hostilities in the Middle East, although three FOMC members voted in favor of a rate hike. While Chair Kevin Warsh reaffirmed the Fed’s commitment to bringing inflation under control and emphasized that policymakers would act if needed, he did not support an immediate increase and stopped short of providing clear forward guidance. Even so, markets are currently pricing in about a 63% chance of a 25-basis-point Fed rate hike in September. Meanwhile, geopolitical tensions remained elevated after the US military launched fresh strikes on Iranian targets in retaliation for Tehran’s attacks on US assets across the Middle East, reducing the likelihood of any near-term diplomatic agreement."
+    },
+    {
+      "id": "mkt:019fb610-f205-7aab-8f24-cef9ce14a99d",
+      "time": "2026-07-31 10:46:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan government says its top foreign-exchange official Mimura will be reappointed to begin a third term."
+    },
+    {
+      "id": "te:markets:571452",
+      "time": "2026-07-31 10:46:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Offshore Yuan Holds at Strongest Level Since 2023 — The offshore yuan held its gains around 6.74 per dollar on Friday, remaining at its strongest level since February 2023, as investors raised expectations for additional policy support following PMI data releases. Official figures showed China’s manufacturing PMI fell to 49.2 in July 2026 from 50.3 in June, marking its first contraction since February, while the non-manufacturing PMI slipped to 49.0 from 50.2, signaling a renewed downturn after two months of modest expansion. The weak readings followed data showing Q2 GDP growth missed expectations and fell below the government’s 4.5%-5% target range. At the Politburo meeting, authorities vowed timely policy measures and to accelerate public spending and government bond fund usage. However, policymakers are expected to adopt a cautious approach to unveiling additional stimulus measures amid double-digit export growth."
+    },
+    {
+      "id": "5018166",
+      "time": "2026-07-31 10:46:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【第十二批國採現場：多家金融機構到場介紹“集採貸”“BD貸”等服務產品】記者在第十二批國家組織藥品集中帶量採購開標現場看到，中國銀行、中國出口信用保險公司、招商銀行、浦發銀行、上海銀行等金融機構，以及中國藥品價格登記系統等機構在現場設定服務展位，為參與企業介紹“集採貸”“BD貸”“管線研發貸”“藥品價格登記”等相關服務。現場工作人員對記者介紹，集採中選後，部分企業尤其是首次中選企業可能面臨短期資金週轉壓力，相關貸款產品利率可低至3%以下，將為企業緩解資金壓力。（財聯社）"
+    },
+    {
+      "id": "5018165",
+      "time": "2026-07-31 10:45:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本政府表示，日本首席外匯外交官三村淳將獲得連任，開啟第三個任期。"
+    },
+    {
+      "id": "te:markets:571451",
+      "time": "2026-07-31 10:45:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Stock Momentum Builds as Monthly Turnaround Looms — Indonesian equities rose 42 points, or 0.7%, to 6,227 in early Friday trade, extending prior gains following an overnight rebound on Wall Street as chipmakers recovered from recent weakness. Locally, sentiment was lifted by the constitutional court’s ruling that financing for free meals should not come from the education budget, a move seen as reinforcing governance reforms tied to President Prabowo’s flagship program. Upside was capped, however, by caution ahead of key data releases next week, including inflation, trade performance, and Q2 GDP. In China, Indonesia’s largest trading partner, Beijing will stick to existing policy tools rather than unveil sweeping stimulus, keeping growth concerns in play. Gains were broad-based, led by basic materials, energy, and healthcare. Notable movers included Surya Citra Media (5.1%), Darma Henwa (4.4%), and Astra Intl (2.5%). The market is on track for a fourth straight weekly rise, setting up the first monthly gain after six periods of drop."
+    },
+    {
+      "id": "5018164",
+      "time": "2026-07-31 10:45:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蜘蛛俠嶄新之日總票房破4億】據貓眼專業版資料，電影 《蜘蛛俠：嶄新之日》 上映3天， 總票房破4億"
+    },
+    {
+      "id": "5018163",
+      "time": "2026-07-31 10:45:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昆騰動力完成超億元種子輪融資】7月31日訊息，Physical AI平臺公司“昆騰動力(Quantum Dynamics)”近日完成超億元種子輪融資，本輪由雲啟資本、商湯國香資本聯合投資。資金將主要用於Physical AI核心技術研發、人才梯隊建設及全球化市場拓展，加速其面向物理世界的智慧系統從底層模型到場景化落地的全鏈路構建。多維資本參與專案孵化與團隊組建。"
+    },
     {
       "id": "5018162",
       "time": "2026-07-31 10:44:11",
@@ -166578,186 +166700,6 @@
         "日本央行"
       ],
       "text": "【日本央行很可能維持政策指引 承諾將繼續加息】據報道，日本央行很可能維持政策指引，承諾將繼續加息。日本央行將在下週維持通脹可能超2%目標的警告，但將暗示由石油引發的即時價格衝擊風險已較4月有所緩解。"
-    },
-    {
-      "id": "5005816",
-      "time": "2026-07-24 10:49:05",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【公安部：全國道路交通安全形勢總體平穩 較大事故同比下降8.8%】國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，公安部相關負責人介紹強治理護民安促發展，全力服務保障“十五五”開局起步有關情況，並回答記者提問。今年以來，全國公安交管部門緊緊圍繞服務保障“十五五”開局起步，統籌推進防事故、護安全、保暢通、推改革、促發展各項工作，取得階段性成效。截至6月30日，在機動車增加710萬輛、保有量達到4.76億輛，駕駛人增加844萬人、總量達到5.67億人的情況下，全國道路交通安全形勢總體平穩，較大事故同比下降8.8%。"
-    },
-    {
-      "id": "5005815",
-      "time": "2026-07-24 10:49:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【晨哨打造醫療健康股權交易撮合平臺】7月22日至24日，首屆大國新藥全球會議在上海舉行。大會期間，晨哨與同寫意聯合打造的醫療健康股權交易撮合平臺正式上線，旨在為生物醫藥產業提供從標的發現、買方需求挖掘、智慧撮合匹配，交易投行的一站式專業服務。"
-    },
-    {
-      "id": "mkt:019f9206-af13-7aab-8e78-c2ed122f848e",
-      "time": "2026-07-24 10:48:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Korea Exchange activated a program-trading suspension mechanism for the KOSDAQ."
-    },
-    {
-      "id": "5005814",
-      "time": "2026-07-24 10:48:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：棕櫚油價格上漲，受印度需求支撐】大馬投資銀行在一份報告中表示，受印度食用油買盤興趣推動，亞洲交易時段棕櫚油價格上漲。在節假日需求高峰到來前，受國內供應趨緊推動，7月至10月期間印度食用油進口可能會增加，預計這將對馬來西亞棕櫚油價格提供支撐。大馬投資銀行預計，價格將在每噸4,807林吉特面臨阻力，並在每噸4,650林吉特找到支撐。"
-    },
-    {
-      "id": "5005813",
-      "time": "2026-07-24 10:48:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報57.47美元/盎司。"
-    },
-    {
-      "id": "5005812",
-      "time": "2026-07-24 10:48:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化賣盤。"
-    },
-    {
-      "id": "mkt:019f9206-48ce-7aab-8e78-ba7e3d31717a",
-      "time": "2026-07-24 10:48:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "Sources say the Bank of Japan is shifting its focus to the extent firms are passing rising costs onto households."
-    },
-    {
-      "id": "mkt:019f9206-0983-7aab-8e78-b2f6e074ba9e",
-      "time": "2026-07-24 10:48:16",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "Brent",
-        "Impact mixed"
-      ],
-      "text": "Sources say the Bank of Japan will next week retain a warning that inflation may exceed its 2% target, while indicating the near-term risk of an oil-driven price shock has eased since April."
-    },
-    {
-      "id": "5005811",
-      "time": "2026-07-24 10:48:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4040美元/盎司，日內跌0.33%。"
-    },
-    {
-      "id": "5005810",
-      "time": "2026-07-24 10:48:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "訊息人士稱，日本央行下週將維持通脹可能超過2%目標的警告，但暗示由油價引發的即時價格衝擊風險已較4月有所緩解。"
-    },
-    {
-      "id": "5005809",
-      "time": "2026-07-24 10:48:01",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "訊息人士稱日本央行關注焦點轉向企業將成本上漲轉嫁給家庭的程度。"
-    },
-    {
-      "id": "5005808",
-      "time": "2026-07-24 10:47:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4040美元/盎司，日內跌0.31%。"
-    },
-    {
-      "id": "mkt:019f9205-ba8e-7aab-8e78-ad2ab69104df",
-      "time": "2026-07-24 10:47:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "Sources say the Bank of Japan is likely to maintain its policy guidance and pledge to continue raising interest rates."
-    },
-    {
-      "id": "5005807",
-      "time": "2026-07-24 10:47:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "訊息人士稱，日本央行可能維持政策指引不變，承諾繼續加息。"
-    },
-    {
-      "id": "te:markets:569509",
-      "time": "2026-07-24 10:47:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesia Stock Under Strain as Tariff Shock Hits — Shares in Indonesia dipped 95 points or 1.5% to 6,219 on Friday morning trade, retreating for the third session following a sell-off on Wall Street overnight after the Trump administration said it would impose new tariffs on 60 trading partners, replacing the temporary 10% tariffs that expire today. All major sectors were under pressure, led by cyclicals, transport, infrastructure, and basic materials. Among the biggest laggards were Petrindo Jaya Kreasi (-6.0%), Bumi Resources (-3.8%), Charoen Pokphand (-3.6%), and Bank Mandiri (-3.2%). Still, local markets are heading for a modest weekly rise, up around 0.2% so far to mark the third straight weekly advance. This was supported by an unexpected move by the central bank that paused its policy tightening following a total 100bps hike since May. Meanwhile, efforts to boost fiscal efficiency continue, with the government slashing its free school meals budget further and paring back defence and police budgets."
-    },
-    {
-      "id": "mkt:019f9204-f831-7aab-8e78-a3853734902c",
-      "time": "2026-07-24 10:47:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM NEWS reported alarms sounded in Amman, Jordan's capital."
-    },
-    {
-      "id": "5005806",
-      "time": "2026-07-24 10:46:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【光伏行業五項強制性國標釋出，多晶矽落後產能最高淘汰60%】在中國光伏行業協會主辦的“光伏行業2026年上半年發展回顧與下半年形勢展望研討會”上，全國太陽光伏能源系統標準化技術委員會秘書長裴會川介紹了標準化體系建設的最新進展。他表示，今年5月釋出了《光伏元件安全要求》和《光伏元件銘牌標識要求》兩項強制性國家標準；6月釋出了多晶矽、單晶矽能耗限額及元件逆變器能效限定值三項強制性國家標準。五項強標成體系、分層次、全覆蓋，從矽料、矽片到元件、逆變器築起質量安全底線。據測算，多晶矽能耗標準預計可淘汰25%至60%的落後產能，單晶矽淘汰約30%，元件淘汰約20%。裴會川透露，正在制定的光伏產品分級分類行業標準將與強標配套，形成“強標築底線、分級拉高線”的格局。（新浪科技）"
-    },
-    {
-      "id": "5005805",
-      "time": "2026-07-24 10:46:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【高新興中標信陽電動車“一車一碼”登記管理平臺專案】據高新興訊息，近日，高新興成功中標河南省信陽市電動車“一車一碼”登記管理平臺專案（電子編碼標識、電動車編碼登記識別服務），專案金額超2000萬元。"
-    },
-    {
-      "id": "5005804",
-      "time": "2026-07-24 10:45:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【瑞銀：上調太古目標價至87港元，預期中期經常性基本溢利同比增36%】瑞銀髮表研報，預期太古今年上半年經常性基本溢利64億港元，同比增長36%，主要受惠於太古地產的物業發展入賬及國泰的盈利表現。該行預計太古地產為太古貢獻37億港元基本溢利，同比增長32%，當中包括出售兩間深水灣豪宅的11億港元利潤；整體租金收入預計同比大致持平，香港寫字樓租金跌幅被香港零售租金及內地零售租金抵銷。瑞銀將太古A目標價由72.7港元上調20%至87港元，維持“中性”評級，反映國泰及太古地產的最新市值，並將折讓收窄至20%(此前為30%)。太古承諾經常性基本溢利派息比率至少50%，亦將提升股東回報政策。"
     }
   ]
 }
