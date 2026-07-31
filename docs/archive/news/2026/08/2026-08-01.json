@@ -1,7 +1,44 @@
 {
   "date": "2026-08-01",
-  "count": 423,
+  "count": 427,
   "items": [
+    {
+      "id": "5020024",
+      "time": "2026-08-01 06:04:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新聞秘書卡羅琳・萊維特表示，伊朗若不與美國開展實質性談判，就將持續付出代價。"
+    },
+    {
+      "id": "5020023",
+      "time": "2026-08-01 06:03:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府承認，反射池受損是由承包商施工不當導致的。"
+    },
+    {
+      "id": "5020022",
+      "time": "2026-08-01 06:03:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤白銀突破52美元/盎司，日內漲幅0.3%。"
+    },
+    {
+      "id": "mkt:019fba33-23e4-7aab-8f3e-398e70d927d5",
+      "time": "2026-08-01 06:02:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Nikkei reports the Japanese government and the Bank of Japan have again intervened in the yen FX market."
+    },
     {
       "id": "5020021",
       "time": "2026-08-01 06:01:16",
