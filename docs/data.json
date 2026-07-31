@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-01 06:33:37",
-  "count": 17999,
+  "updated": "2026-08-01 06:37:34",
+  "count": 18000,
   "items": [
+    {
+      "id": "te:markets:571867",
+      "time": "2026-08-01 06:35:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Falls by 2.46% — Top commodity losers are Silver (-2.46%), Titanium (-2.20%), Lithium Carbonate (-2.05%) and Gold (-1.47%). Gains are led by Copper (0.64%)."
+    },
+    {
+      "id": "5020036",
+      "time": "2026-08-01 06:33:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國四大科技巨頭競逐AI 支出承諾總計超2萬億美元】資料中心競賽中的四大巨頭已承諾在未來幾年內投入近2.4萬億美元，表明對人工智慧基礎設施的投資將繼續大幅增加。由於競相建設資料中心，Alphabet、Meta Platforms、微軟和亞馬遜在過去一年紛紛披露在租賃、建築、能源及其他裝置方面的承諾金額大幅增加。這些承諾既包括短期支出，也包括期限長達數十年的長期投資。以谷歌母公司Alphabet為例，該公司上週披露，尚未開始執行的採購承諾、合同義務及租賃承諾達到9020億美元。這是一年前的逾九倍。根據公司提交的監管檔案，這些承諾包括技術裝置、能源以及租賃協議。"
+    },
     {
       "id": "5020035",
       "time": "2026-08-01 06:32:17",
@@ -166644,17 +166664,6 @@
         "國際"
       ],
       "text": "【特朗普與顧問討論加大力度打擊伊朗】當地時間7月24日，據美國廣播公司報道，美國總統特朗普當天在白宮與其高階顧問閉門會談，討論對伊朗的政策選項，其中包括擴大軍事行動的可能性。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:569862",
-      "time": "2026-07-25 06:35:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Titanium Falls by 1.08% — Top commodity losers are Titanium (-1.08%), Lithium Carbonate (-0.68%) and Platinum (-0.60%). Gains are led by Silver (0.96%) and Gold (0.06%)."
     }
   ]
 }
