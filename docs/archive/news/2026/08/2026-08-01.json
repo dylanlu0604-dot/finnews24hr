@@ -1,7 +1,18 @@
 {
   "date": "2026-08-01",
-  "count": 146,
+  "count": 147,
   "items": [
+    {
+      "id": "mkt:019fb974-fafd-7aab-8f3c-a172ceb3cf2f",
+      "time": "2026-08-01 02:34:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Market sources say the New York Fed has asked US banks to review EUR/JPY quotes."
+    },
     {
       "id": "mkt:019fb972-5291-7aab-8f3c-98c0c6be0e5b",
       "time": "2026-08-01 02:31:44",
