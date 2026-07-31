@@ -1,7 +1,116 @@
 {
   "date": "2026-07-31",
-  "count": 2486,
+  "count": 2498,
   "items": [
+    {
+      "id": "5019136",
+      "time": "2026-07-31 18:38:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐威品牌股價上漲15%，因上調全年盈利預期。"
+    },
+    {
+      "id": "mkt:019fb7c0-a523-7aab-8f32-629fcdfb5305",
+      "time": "2026-07-31 18:38:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's Ministry of Oil said it is extinguishing a fire at the Ahdab oilfield; no toxic gas leak has been detected and oil production is unaffected."
+    },
+    {
+      "id": "mkt:019fb7c0-6a11-7aab-8f32-5b19e747db08",
+      "time": "2026-07-31 18:37:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "On-site sources reported a fire at a crude oil storage facility at the Ahdab oilfield in Iraq's Wasit province."
+    },
+    {
+      "id": "5019135",
+      "time": "2026-07-31 18:37:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美公司披露3起AI模型在測試中入侵真實系統事件】美國人工智慧企業Anthropic公司表示，在審查該公司網路安全能力評估記錄後發現，其人工智慧（AI）模型曾在網路能力測試中未經授權訪問了3家機構的系統。美國開放人工智慧研究中心近日披露，其模型在網路安全測試中利用第三方軟體的“零日漏洞”突破與網際網路隔離的測試環境，未經授權侵入美國抱抱臉公司系統。（新華社）"
+    },
+    {
+      "id": "5019134",
+      "time": "2026-07-31 18:37:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華立科技：擬3500萬元參設1億元產業基金】華立科技公告稱，公司擬與萬聯天澤等機構共同投資設立“廣州天澤華升創業投資基金合夥企業（有限合夥）”，基金認繳規模1億元，公司認繳3500萬元，佔35%。公司7月30日董事會已審議透過該議案，無需提交股東會。本次投資不構成關聯或重大資產重組。產業基金存續7年，主要投資動漫、文創等未上市企業。該投資預計不影響公司正常經營，不過基金備案及實施存在不確定性，可能面臨效益不達預期或虧損風險。"
+    },
+    {
+      "id": "5019133",
+      "time": "2026-07-31 18:37:19",
+      "tags": [
+        "宏觀",
+        "兩會"
+      ],
+      "text": "【財政部召開新修改註冊會計師法貫徹落實座談會】2026年7月28日，財政部召開新修改註冊會計師法貫徹落實座談會。財政部黨組成員、副部長郭婷婷出席會議並講話。全國人大常委會法工委副主任雷建斌應邀出席會議並介紹了修法總體情況和重點內容。 會議指出，新修改註冊會計師法深入貫徹習近平總書記重要指示批示精神和黨中央決策部署，從加強黨的領導、完善監管措施、加大責任追究力度、支援促進註冊會計師行業健康發展等方面作了重點修改，為確保行業正確發展方向提供了法治保障，為打擊財務造假、加強財會監督提供了堅實支撐，為發揮行業專業價值提供了重要指引。 會議強調，註冊會計師行業在維護資本市場秩序和社會公眾利益、提升會計資訊質量和經濟效率等方面發揮著重要作用，要緊扣服務國家建設這個主題，堅持誠信建設這條主線，不斷提升執業質量，發揮“看門人”作用，在服務國家發展大局中推動行業高質量發展。 會議強調，要紮實做好新修改註冊會計師法的貫徹落實工作。系統開展宣傳貫徹，做到全面覆蓋、突出重點，推動新修改註冊會計師法在行業內人人知曉、主動落實。加快完善配套制度，做好與有關法律制度的銜接安排，確保將法律要求落實落細。持續加強監督管理，提升監管效率和水平，依法加大責任追究力度。促進行業健康發展，不斷提升規範化、專業化水平，引領行業向價值鏈高階延伸。(財政部)"
+    },
+    {
+      "id": "5019132",
+      "time": "2026-07-31 18:37:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特方面表示，週四在本國領空攔截多架敵對無人機。"
+    },
+    {
+      "id": "te:markets:571758",
+      "time": "2026-07-31 18:36:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Ireland",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Eaton earnings above expectations at 3.15 USD — Eaton (ETN) released earnings per share at 3.15 USD, compared to market expectations of 3.07 USD."
+    },
+    {
+      "id": "5019131",
+      "time": "2026-07-31 18:36:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "埃克森美孚股價盤前下跌2.5%，此前其二季度業績不及預期。"
+    },
+    {
+      "id": "5019130",
+      "time": "2026-07-31 18:35:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報87.76美元/桶。"
+    },
+    {
+      "id": "5019129",
+      "time": "2026-07-31 18:35:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行將蘋果目標股價從310美元上調至350美元。"
+    },
+    {
+      "id": "mkt:019fb7bd-c629-7aab-8f32-5182ebdedeb7",
+      "time": "2026-07-31 18:34:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "【UK regulator sets scope for consolidated UK equity trade data】The Financial Conduct Authority on Friday published the scope of UK equity trading data it will permit to be released, a move aimed at boosting liquidity on the London Stock Exchange. The FCA said it plans to introduce a single data source as early as next year that will publish both pre-trade and post-trade data, enabling investors to compare quotes across venues before execution. The regulator is consulting on whether to include investment bank trading data and on how revenue from the product should be allocated. As a transitional measure, the FCA will from Friday publish a daily closing consolidated UK equity report, the Market Activity Report (MARS), containing the past 12 months of data to help market participants assess market size."
+    },
     {
       "id": "mkt:019fb7bd-8441-7aab-8f32-4e2257bd7e92",
       "time": "2026-07-31 18:34:38",
