@@ -1,7 +1,29 @@
 {
   "date": "2026-07-31",
-  "count": 3359,
+  "count": 3361,
   "items": [
+    {
+      "id": "5019726",
+      "time": "2026-07-31 23:39:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：我同美國副總統萬斯進行了一次融洽的通話。雙方探討了近期我與特朗普總統在華盛頓會晤的成果，此次會晤積極且富有成效。"
+    },
+    {
+      "id": "mkt:019fb8d2-a1f1-7aab-8f39-ef58003f7621",
+      "time": "2026-07-31 23:37:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "European equities on Friday, July 31: Germany's DAX closed up 68.42 points (+0.27%) at 25,642.92; Britain's FTSE 100 closed down 21.08 points (-0.19%) at 10,876.19; France's CAC 40 closed up 24.00 points (+0.28%) at 8,509.64; STOXX Europe 50 closed up 14.95 points (+0.24%) at 6,359.35; Spain's IBEX 35 closed up 15.58 points (+0.08%) at 19,773.28; Italy's FTSE MIB closed up 52.62 points (+0.10%) at 52,157.00."
+    },
     {
       "id": "5019725",
       "time": "2026-07-31 23:36:29",
