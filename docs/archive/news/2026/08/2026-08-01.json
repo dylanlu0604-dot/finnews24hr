@@ -1,7 +1,26 @@
 {
   "date": "2026-08-01",
-  "count": 107,
+  "count": 109,
   "items": [
+    {
+      "id": "5019789",
+      "time": "2026-08-01 01:16:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週五（7月31日），美聯儲隔夜逆回購協議（RRP）使用規模為21.51億美元（交易對手4家），上個交易日報10.76億美元。"
+    },
+    {
+      "id": "mkt:019fb92a-fe56-7aab-8f3c-1eb01a1f313a",
+      "time": "2026-08-01 01:13:50",
+      "tags": [
+        "MKT News",
+        "NXPI.O",
+        "Impact bearish"
+      ],
+      "text": "NXP SEMI (NXPI.O) fell more than 4% after the Financial Times reported the company is in talks to acquire driver-assistance systems maker Ambarella."
+    },
     {
       "id": "mkt:019fb925-7770-7aab-8f3c-1671cd5b9459",
       "time": "2026-08-01 01:07:48",

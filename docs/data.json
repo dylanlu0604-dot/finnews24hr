@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-01 01:12:42",
-  "count": 17987,
+  "updated": "2026-08-01 01:16:48",
+  "count": 17986,
   "items": [
+    {
+      "id": "5019789",
+      "time": "2026-08-01 01:16:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週五（7月31日），美聯儲隔夜逆回購協議（RRP）使用規模為21.51億美元（交易對手4家），上個交易日報10.76億美元。"
+    },
+    {
+      "id": "mkt:019fb92a-fe56-7aab-8f3c-1eb01a1f313a",
+      "time": "2026-08-01 01:13:50",
+      "tags": [
+        "MKT News",
+        "NXPI.O",
+        "Impact bearish"
+      ],
+      "text": "NXP SEMI (NXPI.O) fell more than 4% after the Financial Times reported the company is in talks to acquire driver-assistance systems maker Ambarella."
+    },
     {
       "id": "mkt:019fb925-7770-7aab-8f3c-1671cd5b9459",
       "time": "2026-08-01 01:07:48",
@@ -166567,39 +166586,6 @@
         "國際"
       ],
       "text": "【王毅會見塔吉克外長穆赫裡丁】中共中央政治局委員、外交部長王毅24日在吉爾吉斯斯坦出席上海合作組織外長會期間會見塔吉克外長穆赫裡丁。\n王毅表示，今年5月，拉赫蒙總統對華成功進行國事訪問，習近平主席同他就中塔關係發展作出新的戰略部署。此訪最重要成果是簽署了《中塔永久睦鄰友好合作條約》，在中亞地區開創了先例。雙方還發表《中華人民共和國和塔吉克共和國關於深化新時代全面戰略合作伙伴關係的聯合宣告》，宣示攜手推動構建中塔命運共同體的決心。雙方外交部的共同任務就是把兩國元首共識轉化為實際行動，規劃好各層級交往，推動能源、互聯互通、反恐安全等領域合作走深走實，以更多合作成果造福兩國人民。\n穆赫裡丁表示，拉赫蒙總統今年訪華極其成功，取得豐碩成果，進一步鞏固兩國高水平互信，開啟了雙邊關係嶄新篇章。中國已成為塔方最大經貿夥伴，塔方對兩國合作前景充滿信心，願同中方深入落實訪問達成的各項共識，加強能源等領域務實合作，合力打擊恐怖主義，推動塔中新時代全面戰略合作伙伴關係更上層樓。（新華社）"
-    },
-    {
-      "id": "5007437",
-      "time": "2026-07-25 01:16:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週五（7月24日），美聯儲隔夜逆回購協議（RRP）使用規模為6.75億美元（交易對手2家），上個交易日報9.04億美元。"
-    },
-    {
-      "id": "5007436",
-      "time": "2026-07-25 01:14:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【颶風“福斯托”增強為二級風暴 預計下週逼近夏威夷群島】記者當地時間24日獲悉，氣象預報員表示，太平洋上的颶風“福斯托”已增強為二級風暴，預計將於下週逼近夏威夷群島。位於邁阿密的美國國家颶風中心當日表示，該地區遭受風暴影響的風險正在增加，但目前無法確定具體受影響地點或潛在影響強度。颶風中心表示，“福斯托”引發的湧浪可能在南加州部分地區造成危及生命的海浪和離岸流。(央視新聞)"
-    },
-    {
-      "id": "mkt:019f951e-6394-7aab-8e8d-665ba71ac3ca",
-      "time": "2026-07-25 01:13:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Trump threatens Section 301 probe, says large tariffs on EU possible】President Trump said the European Union has been directly targeting U.S. companies and that his administration will not tolerate it. He said the U.S. will immediately initiate a Section 301 investigation into EU actions that \"plunder\" American firms and harm U.S. taxpayers, that EU penalties will be fully reversed, and that the U.S. expects to impose large tariffs on the EU at the earliest opportunity."
     }
   ]
 }
