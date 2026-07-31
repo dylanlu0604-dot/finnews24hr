@@ -1,7 +1,163 @@
 {
-  "updated": "2026-07-31 09:36:17",
-  "count": 18020,
+  "updated": "2026-07-31 09:40:23",
+  "count": 18027,
   "items": [
+    {
+      "id": "5018063",
+      "time": "2026-07-31 09:39:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "中證500股指期貨(IC)主力合約日內漲超4%，現報7575.4點。"
+    },
+    {
+      "id": "mkt:019fb5d3-8e49-7aab-8f23-25c6aadfe36c",
+      "time": "2026-07-31 09:39:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【Daiwa Securities: Any intervention to support the yen may only buy time】Daiwa Securities chief FX strategist Kenta Tadaide said any surprise Japanese government intervention to support the yen may only be a stopgap to buy time. \"To maximize the effect of FX intervention, monetary policy must remain aligned,\" he said, adding markets largely expect the Bank of Japan to keep policy rates unchanged at today's decision and are focused on the policy statement and Governor Kazuo Ueda's press conference."
+    },
+    {
+      "id": "te:economy:571416",
+      "time": "2026-07-31 09:39:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Non Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "China Services Activity Returns to Contraction — China's official NBS Non-Manufacturing PMI fell to 49.0 in July 2026 from 50.2 in June, pointing to a renewed contraction in non-manufacturing activity after two months of modest expansion and defying expectations of a flat reading. The business activity index for the services sector declined to 49.3 from 50.4, while the construction index dropped to 47.0 from 49.0. Within services, postal services, telecommunications, broadcasting, and culture and entertainment remained strong, with business activity indices above 55.0, while capital market services and real estate remained in contraction. Meanwhile, the new orders index fell to 44.4 from 48.0, with construction declining to 40.1 from 46.3 and services easing to 45.2 from 48.4. Input prices were unchanged at 49.7, while sales prices slipped to 47.9 from 48.4. Employment edged down to 45.4 from 45.8. Still, business expectations improved slightly to 55.4 from 55.3, indicating firms remained optimistic about future activity."
+    },
+    {
+      "id": "5018062",
+      "time": "2026-07-31 09:38:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中證1000股指期貨(IM)主力合約日內漲超4%】中證1000股指期貨(IM)主力合約日內漲超4%，現報7163.6點。"
+    },
+    {
+      "id": "mkt:019fb5d2-ae2f-7aab-8f23-1cabbfd39f60",
+      "time": "2026-07-31 09:38:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China's CSI 1000 index futures (IM) most-active contract extended intraday gains to 4.00%, trading at 7,153.0."
+    },
+    {
+      "id": "5018061",
+      "time": "2026-07-31 09:38:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【人形機器人概念表現活躍 奧比中光、綠的諧波、斯菱智驅均漲超10%】人形機器人概念表現活躍，奧比中光、綠的諧波、斯菱智驅均漲超10%，晉拓股份、倍特科技、上緯新材、中大力德、五洲新春跟漲。"
+    },
+    {
+      "id": "mkt:019fb5d2-8139-7aab-8f23-127b42e054ad",
+      "time": "2026-07-31 09:38:19",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share dairy sector surged intraday; Yiming Food hit the daily limit, while Zhuangyuan Pasture, Western Animal Husbandry, Beingmate, Huangshi Group and Jiahe Food also rallied."
+    },
+    {
+      "id": "5018060",
+      "time": "2026-07-31 09:37:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量2069億元。"
+    },
+    {
+      "id": "5018059",
+      "time": "2026-07-31 09:37:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股儲存概念股大漲 南方兩倍做多海力士漲55%】港股儲存概念股大漲，兆易創新漲逾23%，瀾起科技漲17%，南方兩倍做多海力士漲55%，南方兩倍做多三星電子漲46%。"
+    },
+    {
+      "id": "5018058",
+      "time": "2026-07-31 09:37:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數下跌1%至5616.30。"
+    },
+    {
+      "id": "5018057",
+      "time": "2026-07-31 09:37:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "中藥板塊短線拉昇，維康藥業漲超10%，隴神戎發、康惠股份、珍寶島、上海凱寶、太極集團等跟漲。"
+    },
+    {
+      "id": "5018056",
+      "time": "2026-07-31 09:37:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【乳品板塊直線拉昇】乳品板塊直線拉昇，一鳴食品漲停，莊園牧場、西部牧業、貝因美、皇氏集團、佳禾食品等紛紛走高。"
+    },
+    {
+      "id": "5018055",
+      "time": "2026-07-31 09:36:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "港股儲存概念股大漲，兆易創新漲逾23%，瀾起科技漲17%，南方兩倍做多海力士漲55%，南方兩倍做多三星電子漲46%。"
+    },
+    {
+      "id": "5018054",
+      "time": "2026-07-31 09:36:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯伏爾加格勒州州長表示，該州多處倉庫在無人機襲擊後起火。"
+    },
+    {
+      "id": "mkt:019fb5d0-cac0-7aab-8f23-0b013c805821",
+      "time": "2026-07-31 09:36:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【BOJ likely to stand pat; October seen as next potential hike】Major banks and a Reuters survey expect the BOJ to hold policy at this meeting, with October the earliest likely window for a rate increase. JPMorgan and others cite slowing inflation and weak wages as reasons to pause; Citi says a clear October roadmap from Governor Ueda would be a strong hawkish signal but is unlikely in the near term. Several banks warn that insufficiently hawkish messaging could push USD/JPY toward 165, keeping intervention risk elevated, while some firms (Meiji Yasuda) still see scope for an accelerated hiking pace to counter inflation and yen selling. Market takeaway: a sustained yen rebound likely requires tightening from both the BOJ and the Fed; any October guidance or signs of faster tightening would be material for rates, FX and intervention probability."
+    },
+    {
+      "id": "5018053",
+      "time": "2026-07-31 09:35:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯伏爾加格勒州州長表示，該州一處能源設施遭無人機襲擊後起火。"
+    },
     {
       "id": "mkt:019fb5d0-137b-7aab-8f23-071294cbd13b",
       "time": "2026-07-31 09:35:39",
@@ -166513,101 +166669,6 @@
         "市場"
       ],
       "text": "布倫特原油日內跌1%，現報93.30美元/桶。"
-    },
-    {
-      "id": "5005697",
-      "time": "2026-07-24 09:40:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "mkt:019f91c7-92f4-7aab-8e77-6f7e9babd62e",
-      "time": "2026-07-24 09:40:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "06681.HK",
-        "Impact bullish",
-        "00553.HK",
-        "06613.HK"
-      ],
-      "text": "Hong Kong brain–computer interface stocks rallied after a Chinese research team unveiled a novel EEG acquisition device that for the first time globally enables cross-region synchronous EEG recording of thousands of people. 06681.HK surged over 10%; 00553.HK, 06613.HK and 02172.HK also rose."
-    },
-    {
-      "id": "mkt:019f91c6-9a3f-7aab-8e77-62dd60b7f7e6",
-      "time": "2026-07-24 09:38:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share maritime equipment sector rose intraday; Jianglong Shipbuilding jumped over 7%, while Tianhai Defense, Songfa Co., Zhongke Haixun, China Haifang and Guorui Technology also gained."
-    },
-    {
-      "id": "mkt:019f91c6-1956-7aab-8e77-5f3321099461",
-      "time": "2026-07-24 09:38:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share defense stocks extended gains. Beifang Changlong rose more than 11%; Changcheng Military hit the daily trading limit. Neimeng Yiji, Jieqiang Equipment, Guoke Military Industry and Beifang Navigation also advanced."
-    },
-    {
-      "id": "5005696",
-      "time": "2026-07-24 09:38:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奧飛資料新設子公司 含多項AI相關業務】企查查APP顯示，近日，崑山奧辰資料科技有限公司成立，註冊資本2億元，經營範圍包含人工智慧應用軟體開發；人工智慧公共資料平臺；人工智慧基礎軟體開發；人工智慧基礎資源與技術平臺等。企查查股權穿透顯示，該公司由奧飛資料(300738)全資持股。"
-    },
-    {
-      "id": "5005695",
-      "time": "2026-07-24 09:37:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【地面兵裝板塊再度活躍 長城軍工漲停】地面兵裝板塊再度活躍，長城軍工漲停，北方長龍、建設工業、內蒙一機等股跟漲。"
-    },
-    {
-      "id": "mkt:019f91c5-01f8-7aab-8e77-5688c4605ffb",
-      "time": "2026-07-24 09:37:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "09988.HK",
-        "Impact bearish",
-        "00700.HK",
-        "03690.HK"
-      ],
-      "text": "Hong Kong internet stocks slid: Alibaba (09988.HK) and Kuaishou (01024.HK) dropped over 3pct, Tencent Holdings (00700.HK) and Meituan (03690.HK) fell more than 2pct; Baidu (09888.HK), JD.com (09618.HK) and NetEase (09999.HK) also declined."
-    },
-    {
-      "id": "5005694",
-      "time": "2026-07-24 09:36:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電解液概念逆勢活躍 孚日股份2連板】早盤鋰電池電解液概念逆勢活躍，孚日股份2連板，華盛鋰電、永太科技、石大勝華、海科新源、天賜材料跟漲。"
-    },
-    {
-      "id": "5005693",
-      "time": "2026-07-24 09:36:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【培育鑽石概念股盤初走低 惠豐鑽石跌超5%】培育鑽石概念股盤初走低，惠豐鑽石跌超5%，黃河旋風、四方達等股跟跌。"
     }
   ]
 }
