@@ -1,7 +1,361 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-01 05:15:57_
-_本檔包含 3661 則快訊，約 672447 字_
+_更新時間：2026-08-01 06:37:34_
+_本檔包含 3675 則快訊，約 672259 字_
+
+---
+
+### 2026-07-31 02:30:59  #市場 #國際
+
+美國原油期貨結算價報每桶83.59美元，下跌87美分，跌幅1.03%
+
+---
+
+### 2026-07-31 02:30:06  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Binance Appreciates by 3.92% — Top crypto gainers are Binance (3.92%), Bitcoin (1.34%) and Ether (0.55%).
+
+---
+
+### 2026-07-31 02:30:02  #市場
+
+上期所原油期貨夜盤收跌1.39%，報553.20元人民幣/桶。滬金夜盤收漲1.20%，滬銀收漲1.82%。
+
+---
+
+### 2026-07-31 02:27:49  #公司 #國際
+
+美國食品安全與檢驗局釋出與李斯特菌相關的警示，涉瑪麗收穫生鮮食品公司的咖哩雞肉沙拉。
+
+---
+
+### 2026-07-31 02:25:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Rice Gains by 1.96% — Top commodity gainers are Rice (1.96%) and Cotton (1.34%). Biggest losers are Rubber (-1.66%) and Cocoa (-1.29%).
+
+---
+
+### 2026-07-31 02:24:36  #國際
+
+美國鈴木汽車勝訴，剎車缺陷相關訴訟遭駁回。
+
+---
+
+### 2026-07-31 02:21:24  #MKT News
+
+A Brazilian finance ministry official said the government is considering a potential adjustment to the spending cap to help balance public finances and meet announced fiscal targets.
+
+---
+
+### 2026-07-31 02:20:33  #宏觀
+
+巴西財政部官員：政府正考慮對支出上限作出調整，以平衡公共賬戶並實現已公佈的目標。
+
+---
+
+### 2026-07-31 02:20:27  #其他
+
+星鏈：首批星鏈 V3 衛星順利部署，完成組網並拍攝星艦畫面。
+
+---
+
+### 2026-07-31 02:20:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Gains by 3.89% — Top commodity gainers are Platinum (3.89%), Copper (2.60%), Silver (2.18%) and Gold (0.94%). Biggest losers are Iron Ore CNY (-3.25%), Steel Rebar (-1.12%) and Titanium (-1.09%).
+
+---
+
+### 2026-07-31 02:18:46  #國際
+
+市場訊息：以色列總理本雅明・內塔尼亞胡結束華盛頓行程返回以色列。訪美期間，他會晤了唐納德・特朗普總統及美國多名高階官員。出於安全考量，總理辦公室未對外公佈其啟程與歸國行程。
+
+---
+
+### 2026-07-31 02:18:31  #MKT News
+
+U.S. Federal Aviation Administration (FAA) Deputy Administrator Rochello will step down next week, according to an internal staff email.
+
+---
+
+### 2026-07-31 02:18:01  #MKT News
+
+Starlink said the first batch of V3 satellites that reached orbit successfully deployed solar panels, fired their thrusters, established RF and laser links to the Starlink network, and captured imagery of Starship.
+
+---
+
+### 2026-07-31 02:17:00  #國際
+
+據美國聯邦航空管理局發給員工的內部郵件顯示，該局副局長羅謝洛將於下週卸任。
+
+---
+
+### 2026-07-31 02:16:56  #其他
+
+據知情人士透露，Equinix料將達成最新一筆資料中心協議，有望透過出售投資級債券融資30億美元。
+
+---
+
+### 2026-07-31 02:15:41  #國際
+
+哈馬斯表示，組織武器的清點與入庫過程將耗時14天。一個直接與該組織對接的國際委員會將負責武器的清點與入庫工作。重型武器將進行清點，並移交給加沙管理國家委員會。
+
+---
+
+### 2026-07-31 02:15:10  #宏觀
+
+【英國FCA將從週五起釋出每日股票交易資料】據知情人士透露，英國市場監管機構金融行為監管局（FCA）計劃從本週五起，每日釋出英國股票交易的彙總資料，這是其提高市場透明度舉措的一部分。該監管機構還將釋出為期一年的歷史回溯資料，以幫助投資者評估英國股票的交易量。在推出完整的股票綜合資料流（即單一的股票交易資料來源）之前，每日更新將作為一項過渡性舉措。
+
+---
+
+### 2026-07-31 02:15:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Germany Natural Gas THE Falls by 3.68% — Top commodity losers are Germany Natural Gas THE (-3.68%), Coking Coal (-3.53%), Natural Gas EU (-3.46%), Brent Crude Oil (-1.35%) and Crude Oil WTI (-0.38%). Gains are led by Natural gas (1.27%).
+
+---
+
+### 2026-07-31 02:12:17  #其他
+
+市場訊息：密克羅尼西亞科洛尼亞東北偏北 247 公里處發生 5.9 級地震。
+
+---
+
+### 2026-07-31 02:11:48  #MKT News
+
+【MILEI signs decree barring entry to foreigners who incite attacks on Argentina or its citizens】President MILEI on the evening of the 29th signed a decree banning entry to foreign nationals who, verbally or in writing, spread hate speech or incite attacks against Argentina, its citizens or national symbols. Identified individuals can be denied entry or deported. The decree exempts political and academic criticism. The Casa Rosada said the measure responds to recent hostile acts targeting Argentina and its citizens.
+
+---
+
+### 2026-07-31 02:11:40  #其他
+
+英國金融行為監管局（FCA）將於週五起釋出每日股票交易資料。
+
+---
+
+### 2026-07-31 02:11:00  #MKT News #WTI #Impact bullish #Brent
+
+【Senate Republicans block resolution aimed at halting U.S. hostilities with Iran】The Hill reported that despite growing Republican unease about a widening war and its impact on energy prices, Senate Republicans on Thursday blocked a motion to discharge a Senate Foreign Relations Committee measure to the floor that would have required Trump to withdraw U.S. forces from hostilities with Iran without congressional authorization. The motion was defeated 49-50. Thursday's vote was the Senate's 13th on Iran war-powers measures; Republicans had previously blocked 11 attempts to halt the hostilities.
+
+---
+
+### 2026-07-31 02:09:24  #MKT News #Market Themes #AI Revolution #FDX.O #Impact bullish
+
+FedEx expands partnership with robotics firm Dexterity to deploy AI robots at its Hagerstown, Maryland sortation center.
+
+---
+
+### 2026-07-31 02:08:59  #國際
+
+知情人士透露，哈馬斯及其他巴勒斯坦派系已同意加沙相關協議全部條款。
+
+---
+
+### 2026-07-31 02:08:16  #公司
+
+聯邦快遞：擴大與Dexterity公司的合作，將在馬里蘭州黑格斯敦樞紐部署人工智慧機器人。
+
+---
+
+### 2026-07-31 02:08:09  #宏觀 #國際
+
+美國財長貝森特：美國財政部將持續甄別、曝光（伊朗革命衛隊）相關主體，並切斷其接入美國金融體系的渠道。
+
+---
+
+### 2026-07-31 02:07:17  #MKT News
+
+Al Arabiya TV reported Hamas said the inventory and storage of the group's weapons will take 14 days. A directly linked international committee will oversee counting and storage, and heavy weapons will be inventoried and transferred to a Gaza administrative national committee.
+
+---
+
+### 2026-07-31 02:05:31  #其他
+
+惠譽評級：北美資料、分析與交易處理商憑藉嵌入式產品及自有資料展現最強實力。
+
+---
+
+### 2026-07-31 02:04:27  #國際
+
+伊朗哈塔姆・安比亞中央指揮部司令阿卜杜拉希少將表示，美國及其僱傭軍已然明白，棺材如今成了他們在該地區裝備清單的一部分。
+
+---
+
+### 2026-07-31 02:03:53  #國際
+
+惠譽評級：2026年第二季度美國私人信貸違約率創歷史新高。
+
+---
+
+### 2026-07-31 02:03:34  #MKT News #Macro & Rates #S&P500 #Impact bearish #US10Y #Impact bullish #DXY
+
+Fitch: US private credit default rate hit a record high in Q2 2026.
+
+---
+
+### 2026-07-31 02:03:04  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+The U.S. Senate voted 49-50 to reject a resolution that would have required President Trump to cease hostile actions against Iran absent Congressional authorization.
+
+---
+
+### 2026-07-31 02:01:28  #公司
+
+太平洋海岸能源公司：正與委內瑞拉國家石油公司及委內瑞拉政府敲定協議。
+
+---
+
+### 2026-07-31 01:59:55  #其他
+
+【阿根廷頒新規 禁止煽動攻擊阿的外國人入境】阿根廷總統米萊29日晚簽署法令，禁止煽動攻擊該國及其公民或國家象徵的外國人入境。根據這項法令，任何外國人若以口頭或書面形式散佈仇恨資訊、煽動攻擊阿根廷國家及公民，都將被拒絕入境或驅逐出境。但政治和學術方面的批評言論不受該法令約束。阿根廷總統府在一份宣告中說，上述法令旨在回應近期針對阿及其公民的“敵對行為”。（新華社）
+
+---
+
+### 2026-07-31 01:59:34  #國際
+
+哈馬斯稱關於加沙協議細節的宣佈可能在明天進行。
+
+---
+
+### 2026-07-31 01:59:15  #國際
+
+市場訊息：哈馬斯稱加沙地帶的民兵武裝將被解散。
+
+---
+
+### 2026-07-31 01:58:06  #MKT News #Important #Commodities #Energy
+
+【Banks in talks on $15bn loan for ANTHROPIC data center; Google to provide guarantees, chips】A MORGAN STANLEY-led banking syndicate is negotiating a $15 billion loan to Nexus Data Centers to build a large data center campus and a 1.6 GW onsite gas-fired power plant in Hubbard, Texas. Google will provide financial guarantees and supply chips; the guarantees are said to cover ANTHROPIC’s lease and power-payment obligations on four signed data center leases and related power purchase agreements but are limited to the minimum amount lenders require. The deal could be announced as soon as today.
+
+---
+
+### 2026-07-31 01:55:53  #焦點 #國際
+
+一名參與特朗普總統峰會的以色列外交訊息人士透露，各方探討了外交協議方案以及持續施壓行動。但以色列的判斷十分明確：若不開展大規模軍事行動，很難實現地區局勢根本性轉變，而這類軍事行動可能很快到來。
+
+---
+
+### 2026-07-31 01:55:32  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israel's i24News cited sources saying US strikes on Iran on Wednesday local time were not even the "tip of the iceberg" of expected future actions.
+
+---
+
+### 2026-07-31 01:55:29  #MKT News #MU.O #Impact bullish
+
+MOODY'S upgraded Micron Technology's (MU.O) senior unsecured rating to Baa1; outlook stable.
+
+---
+
+### 2026-07-31 01:54:46  #其他
+
+【英國薩福克郡發生大面積山火】總檯記者當地時間7月30日獲悉，英國薩福克郡海岸地區29日下午發生大面積山火，約90名消防員投入滅火。消防部門表示，當前火勢規模大、撲救難度高。當地政府呼籲居民避免前往事發區域，並關閉門窗以防煙霧影響。（央視新聞）
+
+---
+
+### 2026-07-31 01:54:38  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+Saudi outlet Hadath cites sources saying negotiations to disarm Hamas are being treated seriously, and that Israel and Hamas have agreed all terms of a Gaza plan; the Gaza agreement will be formally announced once Israel approves the terms.
+
+---
+
+### 2026-07-31 01:52:47  #國際
+
+知情人士稱，美國週三針對伊朗發動的打擊，僅僅是後續一系列行動的冰山一角。
+
+---
+
+### 2026-07-31 01:51:58  #市場
+
+【遭遇虧損後，Situational Awareness基金資產規模縮水至100億美元】利奧波德·阿申布倫納旗下對沖基金Situational Awareness因被迫平倉部分頭寸以追加保證金，基金資產規模已跌至約100億美元。一位要求匿名、討論未公開資訊的知情人士透露，該規模較近幾月峰值縮水超一半。截至5月末，Situational Awareness資產管理規模超200億美元。該基金部分重倉標的在此之後繼續上漲，直至本月大幅下挫。
+
+---
+
+### 2026-07-31 01:51:14  #國際
+
+市場訊息：美國駐巴格達大使館指示其工作人員留在外交使團駐地內，直至另行通知。
+
+---
+
+### 2026-07-31 01:50:36  #MKT News
+
+Saudi outlet Hadas reported sources saying the U.S. embassy in Baghdad has directed staff to remain inside the diplomatic compound until further notice.
+
+---
+
+### 2026-07-31 01:50:26  #國際
+
+特朗普： 曾在軍隊駕駛重型車輛的美國人將自動具備申領商業駕駛執照資格；擁有軍用重型車輛駕駛經驗的退伍軍人，可免除冗餘路考，在退役兩年內取得商業駕照。
+
+---
+
+### 2026-07-31 01:48:23  #其他
+
+訊息稱Situational Awareness資產規模或將降至100億美元。
+
+---
+
+### 2026-07-31 01:48:16  #MKT News #Commodities #Energy
+
+ANTHROPIC plans to lease a 1.6 GW campus in Texas, with Google guaranteeing the lease and power costs.
+
+---
+
+### 2026-07-31 01:48:05  #公司 #國際
+
+【伊朗軍隊稱打擊美軍在巴林空軍基地】當地時間7月30日晚，伊朗軍隊釋出公告稱，軍隊使用無人機襲擊了美軍位於巴林的謝赫伊薩空軍基地的發電機、導航系統以及行政和後勤保障建築。公告表示，儘管美軍基地擁有眾多防禦系統和裝備，但近日針對該地區美軍基地的襲擊，已對其裝備和中心造成了重大破壞。（央視新聞）
+
+---
+
+### 2026-07-31 01:47:46  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O
+
+The Wall Street Journal reports Anthropic's new Texas data center campus will use Google's TPU chips, sources say.
+
+---
+
+### 2026-07-31 01:47:43  #MKT News
+
+The Wall Street Journal, citing sources, says Nexus Data Centers is in talks to raise $15 bln to finance a new data‑center campus in Texas.
+
+---
+
+### 2026-07-31 01:47:32  #MKT News #Important #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+SPA reported Saudi Arabia has formed a maritime defense coalition to protect Red Sea shipping, with 13 other countries participating.
+
+---
+
+### 2026-07-31 01:47:27  #MKT News
+
+Sources said Situational Awareness did not sell its ANTHROPIC stake in a portfolio-sale transaction with Citadel.
+
+---
+
+### 2026-07-31 01:47:24  #MKT News #Important #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet #GOOGL.O #Impact bullish
+
+The Wall Street Journal reports multiple banks are negotiating a USD 15 bln loan to a data-center developer partnered with ANTHROPIC; Google will provide financial guarantees and chip support.
+
+---
+
+### 2026-07-31 01:46:59  #央行 #國際
+
+納瓦羅：如果趨勢持續，美聯儲降息仍應是選項之一。
+
+---
+
+### 2026-07-31 01:46:43  #其他
+
+穆迪評級將美光科技的SR無擔保債券評級上調至BAA1；展望穩定。
+
+---
+
+### 2026-07-31 01:45:59  #公司 #觀點
+
+【谷歌擔保背書 Anthropic得州資料中心正洽談融資150 億美元】知情人士透露，一家與Anthropic合作的資料中心開發商正進入深度洽談階段，計劃融資150億美元，在得克薩斯州興建大型資料中心園區及配套發電廠；谷歌將為此提供財務擔保與晶片。依據正在磋商的方案，由摩根士丹利牽頭的銀行財團將向Nexus Data Centers提供150億美元貸款，用於在得州哈伯德建設該園區。園區將配套自建天然氣發電廠，發電規模可達160萬千瓦。相關交易最快於今日公佈。知情人士稱，為協助Nexus完成融資，谷歌對Anthropic數十億美元的租賃費用、電力支付義務出具擔保，防範這家初創企業出現違約。其中一名訊息人士表示，谷歌提供的擔保額度有限，僅滿足銀行完成融資所需的最低要求。擔保覆蓋Anthropic簽署的四份資料中心租賃協議以及配套購電協議，電力將由服務該園區的廠內自備電廠供給。
+
+---
+
+### 2026-07-31 01:45:00  #國際
+
+【國際冰聯禁止俄羅斯和白俄羅斯參加2027年多項賽事】當地時間7月30日，國際冰球聯合會釋出宣告稱，不允許俄羅斯參加2027年國際冰聯男子冰球世錦賽、世界青年錦標賽、男子U18世錦賽和女子U18世錦賽。俄羅斯參加2027年女子冰球世錦賽的資格將由國際冰聯理事會於11月根據屆時情況和風險評估單獨審議。國際冰球聯合會還決定，白俄羅斯將不得參加2027年國際冰聯男子冰球世錦賽和世界青年錦標賽。（央視新聞）
 
 ---
 
@@ -21777,276 +22131,5 @@ CNBC cited Gundlach saying the Fed could hike rates in September, particularly i
 ### 2026-07-30 03:52:20  #國際
 
 【烏克蘭空軍一架F-16戰機墜毀】當地時間7月29日，烏克蘭空軍通報稱，烏空軍一架F-16戰鬥機當天在前線墜毀。通報表示，該架戰機在執行攔截敵方空中目標的戰鬥任務時失聯。根據初步訊息，當時機上發生非正常情況，飛行員被迫彈射逃生。飛行員目前處於安全狀態，已被撤離並送往醫療機構進行檢查。同時，相關部門已開始調查事故原因。該事件沒有造成地面人員傷亡和財產損失。
-
----
-
-### 2026-07-30 03:52:09  #國際
-
-沙特國防部長週三在白宮會見副總統萬斯，其強調儘管美沙聯軍對伊拉克境內民兵組織實施聯合打擊，但依舊支援推動與伊朗局勢降溫。
-
----
-
-### 2026-07-30 03:50:37  #國際
-
-美國考慮推遲甚至可能阻止新任法國駐華盛頓大使的任命，該大使原定於9月1日開始任職。
-
----
-
-### 2026-07-30 03:50:07  #MKT News
-
-Market update: Canada’s prime minister Carney dismissed proposals to restrict supplies of critical resources to the United States as retaliation for U.S. tariff policy.
-
----
-
-### 2026-07-30 03:50:04  #MKT News #Important #Star Stocks #Meta Platforms #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact mixed #META.O #QCOM.O
-
-Meta, Microsoft, Qualcomm and Arm will report Q2 2026 earnings after the US market close.
-
----
-
-### 2026-07-30 03:48:03  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Above $90 — Brent extended gains to rise more than 7% to above $90 a barrel on Wednesday, snapping a three-day losing streak, as hostilities in the Middle East increased. US President Trump said the US will hit Iran hard in retaliation for an attempted surprise attack on American forces. This comes after the US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East. Meanwhile, Iran-backed militias in Iraq launched drones at oil facilities in Saudi Arabia’s Eastern Region for a second consecutive day. Also, there were reports that Yemen's Houthi militants were considering charging fees for vessels transiting the Red Sea, adding to concerns over shipping costs and energy flows. Iran has also sought to impose similar charges on the Strait of Hormuz. In the US, API data showed crude oil inventories fell by 3.3 million barrels last week, pointing to continued tightness in global oil supplies.
-
----
-
-### 2026-07-30 03:47:56  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
-
-Axios reports Saudi defense minister said he supports de-escalation of the situation.
-
----
-
-### 2026-07-30 03:47:37  #公司 #國際
-
-美國聯合航空公司宣佈在華盛頓杜勒斯國際機場投資200億美元。
-
----
-
-### 2026-07-30 03:47:27  #國際
-
-記者：能否請您談談眾議院能否在8月31日前復會，推進俄伊制裁法案？
-特朗普：說實話，其實本不必這麼做。但如果確有必要，我希望議員在法案中納入針對伊朗的關稅條款。
-
----
-
-### 2026-07-30 03:47:25  #Trading Economics #Markets #Commodity #Importance 2
-
-Crude Oil Jumps 7% to Around $85 — Crude oil extended gains to rise more than 7% to around $85 a barrel on Wednesday, snapping a three-day losing streak, as hostilities in the Middle East increased. US President Trump said the US will hit Iran hard in retaliation for an attempted surprise attack on American forces. This comes after the US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East. Meanwhile, Iran-backed militias in Iraq launched drones at oil facilities in Saudi Arabia’s Eastern Region for a second consecutive day. Also, there were reports that Yemen's Houthi militants were considering charging fees for vessels transiting the Red Sea, adding to concerns over shipping costs and energy flows. Iran has also sought to impose similar charges on the Strait of Hormuz. In the US, API data showed crude oil inventories fell by 3.3 million barrels last week, pointing to continued tightness in global oil supplies.
-
----
-
-### 2026-07-30 03:47:13  #其他
-
-沙特國防大臣表示支援緩和局勢。
-
----
-
-### 2026-07-30 03:46:57  #市場 #焦點
-
-標普500指數下跌1.3%，至當日低點。
-
----
-
-### 2026-07-30 03:46:48  #國際
-
-【特朗普公佈全面改造華盛頓杜勒斯機場計劃】美國總統特朗普宣佈計劃改造、擴建華盛頓杜勒斯國際機場，稱這項翻新重建工程早已亟待落地。改造工程將新增及翻新超過500萬平方英尺空間，更換C、D候機廊道；同時保留這座機場標誌性原始主樓，正是這座主樓令其成為建築地標。特朗普表示，完工後的機場將成為面向國際旅客的標杆專案，整體工期預計兩年，部分方案仍需國會審批。
-
----
-
-### 2026-07-30 03:44:43  #MKT News #SPCX.O #Impact bullish
-
-SpaceX (SPCX.O) won a $1.6 billion U.S. Space Force contract for 18 Falcon 9 launches to deploy military-guided satellites.
-
----
-
-### 2026-07-30 03:43:43  #國際
-
-SpaceX獲美國太空軍16億美元合同，將執行18次獵鷹9號發射任務，用於部署軍用目標定位衛星。
-
----
-
-### 2026-07-30 03:43:32  #焦點 #國際
-
-SpaceX獲得美國太空軍16億美元專案訂單。
-
----
-
-### 2026-07-30 03:42:42  #市場 #國際
-
-美國20年期國債收益率最新上漲9.05個基點，報5.205%。
-
----
-
-### 2026-07-30 03:42:37  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-US long-term Treasury yields rose further after the Fed meeting: 10-year +5.7 bps to 4.661%; 20-year +9.05 bps to 5.205%; 30-year +9.84 bps to 5.193%, earlier touching 5.213%, the highest since July 2007.
-
----
-
-### 2026-07-30 03:42:27  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Trump says Iran asked US not to strike but US will 'give them a lesson'】In a recent interview Trump said he had been briefed on an incident in Egypt and would strike those responsible "very hard." He said Iran had asked the US not to attack but the US would "give Iran a little lesson" in response to an attack on a US base in Jordan, and added "we'll see" if an Iran deal can be reached. He also said he wants Zelensky to end the war in Ukraine.
-
----
-
-### 2026-07-30 03:42:25  #市場 #央行 #國際
-
-美聯儲會議後，美國長期國債收益率進一步攀升；10年期美國國債收益率最新上漲5.7個基點，報4.661%。
-
----
-
-### 2026-07-30 03:42:21  #市場 #國際
-
-美國30年期國債收益率上漲9.84個基點，報5.193%；盤中曾觸及5.213%，為2007年7月以來最高水平。
-
----
-
-### 2026-07-30 03:42:16  #國際
-
-特朗普談俄烏衝突：我希望澤連斯基結束這場衝突，事情本可以很簡單。我和普京、澤連斯基兩人都能溝通。我告訴過他們“結束衝突。”
-
----
-
-### 2026-07-30 03:41:50  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
-
-【KEVIN WARSH says Fed has consensus despite internal 'debate'】At the post-decision press conference, Fed chair KEVIN WARSH said policymakers held a 'healthy internal debate' and, despite split votes, reached broad agreement that the Fed has the power, tools and statutory mandate to achieve price stability. He said differences over today's decision exist but 'do not fully capture' the discussion and that the meeting left him 'more convinced' the committee can win the fight against high inflation.
-
----
-
-### 2026-07-30 03:41:41  #MKT News #Important
-
-【Kevin Warsh: Reducing forward guidance gives markets chance to 'speak'】Kevin Warsh said the Fed's pullback from forward guidance allows the central bank to listen to market signals rather than unilaterally shape expectations. He noted recent rises in U.S. Treasury yields reflect stronger fundamentals—solid output, robust capital spending and productivity, and a stable, resilient labor market—and said the bond market is conveying the same message.
-
----
-
-### 2026-07-30 03:41:37  #MKT News
-
-President Trump said people should pay attention to Republicans who do not support a voter ID bill.
-
----
-
-### 2026-07-30 03:40:35  #Trading Economics #Markets #Canada #Currency #Importance 1
-
-Canadian Dollar Strengthens After Fed Hold — The Canadian dollar strengthened to around 1.40 per USD from the two-week high of 1.42 on July 27th after the Federal Reserve held rates unchanged. The decision weakened the greenback as around one third of the market was positioned for a hike. Earlier this month, the BoC held its policy rate at 2.25% for a sixth straight meeting. The bank noted that the economy was adjusting to recent shocks and that energy-driven inflation pressures were easing, although some policymakers questioned the durability of the recovery and warned about rising inflation expectations. However, the decision preceded US President Trump’s threat of additional tariffs on Canadian imports and the latest escalation in US-Iran tensions.
-
----
-
-### 2026-07-30 03:40:01  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Wells Fargo Stock Price Hits 4-week Low — Wells Fargo shares decreased to 83.78 USD, the lowest since July 2026. Over the past 4 weeks, Wells Fargo gained 1.46%, and in the last 12 months, it increased 2.53%.
-
----
-
-### 2026-07-30 03:39:45  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
-
-U.S. President Trump said he wants Congress to add tariffs on Iran to the Russia sanctions bill.
-
----
-
-### 2026-07-30 03:39:19  #國際
-
-特朗普：我希望國會在對俄製裁法案中加入對伊朗的關稅條款。
-
----
-
-### 2026-07-30 03:39:12  #國際
-
-【埃及達米埃塔港兩艘船起火 暫無人員傷亡】埃及石油和礦產資源部29日發表宣告證實，兩艘船隻在地中海沿岸的埃及達米埃塔港起火，應急團隊和相關技術部門已迅速展開處置，目前暫無人員傷亡。
-
----
-
-### 2026-07-30 03:39:00  #MKT News
-
-US President Trump praised the Patriot missile system.
-
----
-
-### 2026-07-30 03:38:55  #焦點 #國際
-
-特朗普：我們會稍微教訓一下伊朗。
-
----
-
-### 2026-07-30 03:38:53  #MKT News
-
-Trump says he hopes Ukraine's President Zelensky will end the war.
-
----
-
-### 2026-07-30 03:38:45  #MKT News #RTX.O
-
-President Trump said Patriot missile systems protected US bases overnight.
-
----
-
-### 2026-07-30 03:38:36  #市場 #焦點
-
-道指跌2.01%，現報51686.398點；納指跌1.08%，現報24607.750點；標普500指數跌1.09%，現報7347.770點。
-
----
-
-### 2026-07-30 03:38:33  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-TRUMP said the US will teach Iran a lesson and will respond to last night's attack on a base in Jordan.
-
----
-
-### 2026-07-30 03:38:28  #國際
-
-特朗普：我希望澤連斯基結束俄烏衝突。
-
----
-
-### 2026-07-30 03:38:14  #國際
-
-特朗普：美國將對昨晚約旦境內軍事基地遇襲事件作出回應。
-
----
-
-### 2026-07-30 03:37:37  #MKT News #S&P500 #Impact bearish #Nasdaq100 #Dow
-
-US equities fell again: Dow Jones -1.94%, S&P 500 -0.99%, Nasdaq -0.88%.
-
----
-
-### 2026-07-30 03:37:13  #國際
-
-特朗普：安迪·伯納姆必須正視移民問題，移民問題正在拖垮英國。
-
----
-
-### 2026-07-30 03:37:13  #MKT News #Important #Market Themes #AI Revolution
-
-U.S. President Trump said he is monitoring regulatory issues around artificial intelligence.
-
----
-
-### 2026-07-30 03:36:48  #宏觀 #國際
-
-特朗普談及人工智慧：政府正研究出臺相關管控措施。
-
----
-
-### 2026-07-30 03:36:39  #焦點 #國際
-
-特朗普：正研究人工智慧管控措施。
-
----
-
-### 2026-07-30 03:36:31  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Fed Chair Kevin Warsh says Jackson Hole speech will focus on macro picture】Fed Chair Kevin Warsh said he has not yet decided the content of his speech at the central bank symposium in Jackson Hole, Wyoming, at the end of next month. Speaking at the FOMC press conference after the latest meeting, Warsh said he has made no judgment on his remarks but signaled he will focus on the broader macro picture and outline major issues, warning that a rising cadence of meetings and press conferences can foster short-termism.
-
----
-
-### 2026-07-30 03:36:29  #MKT News #Market Themes #The Trump Trade
-
-President Trump, when asked whether U.S. Senate Republican leader Thune is fit for the position, said he would wait and see.
-
----
-
-### 2026-07-30 03:36:24  #MKT News #Important #Macro & Rates #The Fed (FOMC) #Treasury Yields #US Economy #US10Y #Impact bearish #DXY #Impact bullish
-
-【Kevin Warsh rejects calling Fed 'on hold', says markets have already reacted】Fed chair Kevin Warsh said financial markets have already priced most of the Fed's tightening since the June meeting and rejected describing today's decision to hold rates as a 'pause'. U.S. 2‑yr and 10‑yr Treasury yields have risen about 20bps since mid‑June. Warsh said markets have been repricing on inflation prints and resilient growth, lifting both nominal and real yields, and that leaving the policy rate unchanged today is 'the beginning, not the end' of the policy story.
 
 ---

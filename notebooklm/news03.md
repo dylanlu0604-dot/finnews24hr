@@ -1,7 +1,278 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-01 05:15:57_
-_本檔包含 3826 則快訊，約 672692 字_
+_更新時間：2026-08-01 06:37:34_
+_本檔包含 3834 則快訊，約 673074 字_
+
+---
+
+### 2026-07-30 03:52:09  #國際
+
+沙特國防部長週三在白宮會見副總統萬斯，其強調儘管美沙聯軍對伊拉克境內民兵組織實施聯合打擊，但依舊支援推動與伊朗局勢降溫。
+
+---
+
+### 2026-07-30 03:50:37  #國際
+
+美國考慮推遲甚至可能阻止新任法國駐華盛頓大使的任命，該大使原定於9月1日開始任職。
+
+---
+
+### 2026-07-30 03:50:07  #MKT News
+
+Market update: Canada’s prime minister Carney dismissed proposals to restrict supplies of critical resources to the United States as retaliation for U.S. tariff policy.
+
+---
+
+### 2026-07-30 03:50:04  #MKT News #Important #Star Stocks #Meta Platforms #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact mixed #META.O #QCOM.O
+
+Meta, Microsoft, Qualcomm and Arm will report Q2 2026 earnings after the US market close.
+
+---
+
+### 2026-07-30 03:48:03  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Above $90 — Brent extended gains to rise more than 7% to above $90 a barrel on Wednesday, snapping a three-day losing streak, as hostilities in the Middle East increased. US President Trump said the US will hit Iran hard in retaliation for an attempted surprise attack on American forces. This comes after the US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East. Meanwhile, Iran-backed militias in Iraq launched drones at oil facilities in Saudi Arabia’s Eastern Region for a second consecutive day. Also, there were reports that Yemen's Houthi militants were considering charging fees for vessels transiting the Red Sea, adding to concerns over shipping costs and energy flows. Iran has also sought to impose similar charges on the Strait of Hormuz. In the US, API data showed crude oil inventories fell by 3.3 million barrels last week, pointing to continued tightness in global oil supplies.
+
+---
+
+### 2026-07-30 03:47:56  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
+
+Axios reports Saudi defense minister said he supports de-escalation of the situation.
+
+---
+
+### 2026-07-30 03:47:37  #公司 #國際
+
+美國聯合航空公司宣佈在華盛頓杜勒斯國際機場投資200億美元。
+
+---
+
+### 2026-07-30 03:47:27  #國際
+
+記者：能否請您談談眾議院能否在8月31日前復會，推進俄伊制裁法案？
+特朗普：說實話，其實本不必這麼做。但如果確有必要，我希望議員在法案中納入針對伊朗的關稅條款。
+
+---
+
+### 2026-07-30 03:47:25  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Oil Jumps 7% to Around $85 — Crude oil extended gains to rise more than 7% to around $85 a barrel on Wednesday, snapping a three-day losing streak, as hostilities in the Middle East increased. US President Trump said the US will hit Iran hard in retaliation for an attempted surprise attack on American forces. This comes after the US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East. Meanwhile, Iran-backed militias in Iraq launched drones at oil facilities in Saudi Arabia’s Eastern Region for a second consecutive day. Also, there were reports that Yemen's Houthi militants were considering charging fees for vessels transiting the Red Sea, adding to concerns over shipping costs and energy flows. Iran has also sought to impose similar charges on the Strait of Hormuz. In the US, API data showed crude oil inventories fell by 3.3 million barrels last week, pointing to continued tightness in global oil supplies.
+
+---
+
+### 2026-07-30 03:47:13  #其他
+
+沙特國防大臣表示支援緩和局勢。
+
+---
+
+### 2026-07-30 03:46:57  #市場 #焦點
+
+標普500指數下跌1.3%，至當日低點。
+
+---
+
+### 2026-07-30 03:46:48  #國際
+
+【特朗普公佈全面改造華盛頓杜勒斯機場計劃】美國總統特朗普宣佈計劃改造、擴建華盛頓杜勒斯國際機場，稱這項翻新重建工程早已亟待落地。改造工程將新增及翻新超過500萬平方英尺空間，更換C、D候機廊道；同時保留這座機場標誌性原始主樓，正是這座主樓令其成為建築地標。特朗普表示，完工後的機場將成為面向國際旅客的標杆專案，整體工期預計兩年，部分方案仍需國會審批。
+
+---
+
+### 2026-07-30 03:44:43  #MKT News #SPCX.O #Impact bullish
+
+SpaceX (SPCX.O) won a $1.6 billion U.S. Space Force contract for 18 Falcon 9 launches to deploy military-guided satellites.
+
+---
+
+### 2026-07-30 03:43:43  #國際
+
+SpaceX獲美國太空軍16億美元合同，將執行18次獵鷹9號發射任務，用於部署軍用目標定位衛星。
+
+---
+
+### 2026-07-30 03:43:32  #焦點 #國際
+
+SpaceX獲得美國太空軍16億美元專案訂單。
+
+---
+
+### 2026-07-30 03:42:42  #市場 #國際
+
+美國20年期國債收益率最新上漲9.05個基點，報5.205%。
+
+---
+
+### 2026-07-30 03:42:37  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+US long-term Treasury yields rose further after the Fed meeting: 10-year +5.7 bps to 4.661%; 20-year +9.05 bps to 5.205%; 30-year +9.84 bps to 5.193%, earlier touching 5.213%, the highest since July 2007.
+
+---
+
+### 2026-07-30 03:42:27  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Trump says Iran asked US not to strike but US will 'give them a lesson'】In a recent interview Trump said he had been briefed on an incident in Egypt and would strike those responsible "very hard." He said Iran had asked the US not to attack but the US would "give Iran a little lesson" in response to an attack on a US base in Jordan, and added "we'll see" if an Iran deal can be reached. He also said he wants Zelensky to end the war in Ukraine.
+
+---
+
+### 2026-07-30 03:42:25  #市場 #央行 #國際
+
+美聯儲會議後，美國長期國債收益率進一步攀升；10年期美國國債收益率最新上漲5.7個基點，報4.661%。
+
+---
+
+### 2026-07-30 03:42:21  #市場 #國際
+
+美國30年期國債收益率上漲9.84個基點，報5.193%；盤中曾觸及5.213%，為2007年7月以來最高水平。
+
+---
+
+### 2026-07-30 03:42:16  #國際
+
+特朗普談俄烏衝突：我希望澤連斯基結束這場衝突，事情本可以很簡單。我和普京、澤連斯基兩人都能溝通。我告訴過他們“結束衝突。”
+
+---
+
+### 2026-07-30 03:41:50  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+【KEVIN WARSH says Fed has consensus despite internal 'debate'】At the post-decision press conference, Fed chair KEVIN WARSH said policymakers held a 'healthy internal debate' and, despite split votes, reached broad agreement that the Fed has the power, tools and statutory mandate to achieve price stability. He said differences over today's decision exist but 'do not fully capture' the discussion and that the meeting left him 'more convinced' the committee can win the fight against high inflation.
+
+---
+
+### 2026-07-30 03:41:41  #MKT News #Important
+
+【Kevin Warsh: Reducing forward guidance gives markets chance to 'speak'】Kevin Warsh said the Fed's pullback from forward guidance allows the central bank to listen to market signals rather than unilaterally shape expectations. He noted recent rises in U.S. Treasury yields reflect stronger fundamentals—solid output, robust capital spending and productivity, and a stable, resilient labor market—and said the bond market is conveying the same message.
+
+---
+
+### 2026-07-30 03:41:37  #MKT News
+
+President Trump said people should pay attention to Republicans who do not support a voter ID bill.
+
+---
+
+### 2026-07-30 03:40:35  #Trading Economics #Markets #Canada #Currency #Importance 1
+
+Canadian Dollar Strengthens After Fed Hold — The Canadian dollar strengthened to around 1.40 per USD from the two-week high of 1.42 on July 27th after the Federal Reserve held rates unchanged. The decision weakened the greenback as around one third of the market was positioned for a hike. Earlier this month, the BoC held its policy rate at 2.25% for a sixth straight meeting. The bank noted that the economy was adjusting to recent shocks and that energy-driven inflation pressures were easing, although some policymakers questioned the durability of the recovery and warned about rising inflation expectations. However, the decision preceded US President Trump’s threat of additional tariffs on Canadian imports and the latest escalation in US-Iran tensions.
+
+---
+
+### 2026-07-30 03:40:01  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Wells Fargo Stock Price Hits 4-week Low — Wells Fargo shares decreased to 83.78 USD, the lowest since July 2026. Over the past 4 weeks, Wells Fargo gained 1.46%, and in the last 12 months, it increased 2.53%.
+
+---
+
+### 2026-07-30 03:39:45  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
+
+U.S. President Trump said he wants Congress to add tariffs on Iran to the Russia sanctions bill.
+
+---
+
+### 2026-07-30 03:39:19  #國際
+
+特朗普：我希望國會在對俄製裁法案中加入對伊朗的關稅條款。
+
+---
+
+### 2026-07-30 03:39:12  #國際
+
+【埃及達米埃塔港兩艘船起火 暫無人員傷亡】埃及石油和礦產資源部29日發表宣告證實，兩艘船隻在地中海沿岸的埃及達米埃塔港起火，應急團隊和相關技術部門已迅速展開處置，目前暫無人員傷亡。
+
+---
+
+### 2026-07-30 03:39:00  #MKT News
+
+US President Trump praised the Patriot missile system.
+
+---
+
+### 2026-07-30 03:38:55  #焦點 #國際
+
+特朗普：我們會稍微教訓一下伊朗。
+
+---
+
+### 2026-07-30 03:38:53  #MKT News
+
+Trump says he hopes Ukraine's President Zelensky will end the war.
+
+---
+
+### 2026-07-30 03:38:45  #MKT News #RTX.O
+
+President Trump said Patriot missile systems protected US bases overnight.
+
+---
+
+### 2026-07-30 03:38:36  #市場 #焦點
+
+道指跌2.01%，現報51686.398點；納指跌1.08%，現報24607.750點；標普500指數跌1.09%，現報7347.770點。
+
+---
+
+### 2026-07-30 03:38:33  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+TRUMP said the US will teach Iran a lesson and will respond to last night's attack on a base in Jordan.
+
+---
+
+### 2026-07-30 03:38:28  #國際
+
+特朗普：我希望澤連斯基結束俄烏衝突。
+
+---
+
+### 2026-07-30 03:38:14  #國際
+
+特朗普：美國將對昨晚約旦境內軍事基地遇襲事件作出回應。
+
+---
+
+### 2026-07-30 03:37:37  #MKT News #S&P500 #Impact bearish #Nasdaq100 #Dow
+
+US equities fell again: Dow Jones -1.94%, S&P 500 -0.99%, Nasdaq -0.88%.
+
+---
+
+### 2026-07-30 03:37:13  #國際
+
+特朗普：安迪·伯納姆必須正視移民問題，移民問題正在拖垮英國。
+
+---
+
+### 2026-07-30 03:37:13  #MKT News #Important #Market Themes #AI Revolution
+
+U.S. President Trump said he is monitoring regulatory issues around artificial intelligence.
+
+---
+
+### 2026-07-30 03:36:48  #宏觀 #國際
+
+特朗普談及人工智慧：政府正研究出臺相關管控措施。
+
+---
+
+### 2026-07-30 03:36:39  #焦點 #國際
+
+特朗普：正研究人工智慧管控措施。
+
+---
+
+### 2026-07-30 03:36:31  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Fed Chair Kevin Warsh says Jackson Hole speech will focus on macro picture】Fed Chair Kevin Warsh said he has not yet decided the content of his speech at the central bank symposium in Jackson Hole, Wyoming, at the end of next month. Speaking at the FOMC press conference after the latest meeting, Warsh said he has made no judgment on his remarks but signaled he will focus on the broader macro picture and outline major issues, warning that a rising cadence of meetings and press conferences can foster short-termism.
+
+---
+
+### 2026-07-30 03:36:29  #MKT News #Market Themes #The Trump Trade
+
+President Trump, when asked whether U.S. Senate Republican leader Thune is fit for the position, said he would wait and see.
+
+---
+
+### 2026-07-30 03:36:24  #MKT News #Important #Macro & Rates #The Fed (FOMC) #Treasury Yields #US Economy #US10Y #Impact bearish #DXY #Impact bullish
+
+【Kevin Warsh rejects calling Fed 'on hold', says markets have already reacted】Fed chair Kevin Warsh said financial markets have already priced most of the Fed's tightening since the June meeting and rejected describing today's decision to hold rates as a 'pause'. U.S. 2‑yr and 10‑yr Treasury yields have risen about 20bps since mid‑June. Warsh said markets have been repricing on inflation prints and resilient growth, lifting both nominal and real yields, and that leaving the policy rate unchanged today is 'the beginning, not the end' of the policy story.
 
 ---
 
@@ -22845,236 +23116,5 @@ U.S. media report an Israeli delegation has arrived at the White House; Prime Mi
 ### 2026-07-28 22:35:08  #MKT News #WTI #Impact bullish #Brent
 
 【Iran warns ships of states or firms that accept US use of frozen Iranian assets will be barred from Strait of Hormuz】Iran’s Hatam al-Anbiya central command spokesman told state broadcaster IRIB on the 28th that any country or company that accepts the US using frozen Iranian assets to compensate vessels damaged in US‑Iran clashes will have its ships barred from transiting the Strait of Hormuz, effective immediately. The spokesman referenced President Trump’s prior announcement to use frozen Iranian assets for compensation and said the vessel damage was caused by US‑created regional insecurity and by illegal, unsafe navigation in the southern Strait of Hormuz.
-
----
-
-### 2026-07-28 22:34:47  #公司
-
-【上海深入整治AI應用亂象 嚴防技術濫用侵害未成年人】落實中央網信辦“清朗·整治AI應用亂象”專項行動第二階段部署，6月下旬以來，上海市委網信辦聚焦AI技術生成“數字泔水”、製作釋出虛假資訊、散播暴力低俗內容、仿冒他人、侵害未成年人權益、從事網路水軍活動、違規提供AI產品服務和應用程式7類突出問題，堅決清理違法和不良資訊，依法處置違規賬號。截至目前，屬地網站平臺共清理違法和不良資訊174萬餘條，處置違規賬號4200餘個。多家重點平臺已面向社會公開發布“清朗·整治AI應用亂象”專項行動第二階段治理公告，主動接受公眾監督。（網信上海微信公眾號）
-
----
-
-### 2026-07-28 22:34:41  #其他
-
-【澳門“三五”規劃公開諮詢總結報告公佈】澳門特區政府政策研究和區域發展局28日公佈《〈澳門特別行政區經濟和社會發展第三個五年規劃（2026-2030年）〉公開諮詢總結報告》。報告顯示，整體上市民普遍支援諮詢文字內容。經統計，本次諮詢共收到1716份、8230條意見，其中正面意見佔92.1%。從社會關注領域看，收集到最多意見的分別為：“第七篇 有效保障和最佳化民生福祉”“第四篇 紮實推進經濟適度多元發展”以及“第五篇 高質量推進橫琴合作區建設”。政發局表示，特區政府高度重視社會各界和廣大市民的意見建議。在深入分類梳理、研究分析基礎上，將可行且有社會共識的意見和建議充分吸納到“三五”規劃正式文字中，確保規劃藍圖更加貼近民意。未納入規劃的意見建議亦將作為相關範疇施政工作的參考。特區政府5月19日公佈《澳門特別行政區經濟和社會發展第三個五年規劃（2026-2030年）》諮詢文字，自20日起開啟為期40天的公開諮詢。（央視新聞）
-
----
-
-### 2026-07-28 22:33:59  #市場
-
-HPE股價料創2025年10月以來最大單日跌幅，最新下跌9%。
-
----
-
-### 2026-07-28 22:33:39  #MKT News
-
-Kyodo: explosion at an AEON shopping center may have been caused by a gas leak.
-
----
-
-### 2026-07-28 22:33:34  #市場
-
-標普 500 等權重指數上漲 1.1%，創下歷史新高。
-
----
-
-### 2026-07-28 22:33:19  #其他
-
-市場訊息：永旺商場爆炸事故或由燃氣洩漏引發。
-
----
-
-### 2026-07-28 22:32:56  #其他
-
-捷藍航空：下半年資金流動性需求取決於燃油價格走勢。
-
----
-
-### 2026-07-28 22:32:11  #行業
-
-【上合專家學者呼籲提升數智時代國際資訊保安】
-2026上海合作組織媒體智庫峰會專家論壇27日在吉爾吉斯斯坦首都比什凱克舉行。與會專家學者表示，上合組織的成就證明，建立在相互理解和互利共贏基礎上的多邊合作，不僅有利於促進和平與安定，也有利於促進可持續發展。數智時代面臨前所未有的機遇和挑戰，各國需要攜手努力，共同塑造一個安全、有韌性、包容且有利於可持續發展的國際資訊環境。
-“今日俄羅斯”國際媒體集團國際合作局局長瓦西里·普什科夫說，世界正經歷動盪變革，迫切需要智庫專家與媒體攜手合作，在加強相互理解、互信與睦鄰友好等方面發揮重要作用，為開展坦誠而有針對性的對話打造平臺。
-白俄羅斯國立大學國際研究中心主任尼基塔·別連琴科說，隨著人工智慧技術快速發展，傳統資訊保安理念已難以應對新的挑戰，各國應重視資訊環境韌性和資訊自主能力，需要推動建立聯合監測預警機制，深化人工智慧領域研究與媒體、智庫交流，共同維護數智時代的資訊保安。
-埃及金字塔政治和戰略研究中心副主任艾哈邁德·坎迪勒說，“上海精神”為世界提供了一條既區別於強權支配也不同於失序混亂的發展路徑，各國可以依託協商實現互利共贏。
-寮國社會與經濟科學院社會經濟政策研究所所長吳沙萬·天特翁薩說，寮國致力於與上合組織夥伴密切合作，加強資訊共享，“更好地保護我們的數字環境和發展成果”。
-尼泊爾中國研究中心秘書長烏彭德拉·高塔姆說，真誠協作創造的價值，遠大於各國獨自耕耘的總和。上合組織越來越務實、包容、以人為本，將進一步助力構建人類命運共同體。
-新華社研究院院長劉剛說，25年來，上合組織在捍衛以聯合國為核心的國際體系和以國際法為基礎的國際秩序中發揮了重要作用。當前，單邊主義、保護主義持續衝擊全球秩序，地緣博弈加劇考驗區域協作效能，上合組織迎來提質升級的關鍵視窗期，需要加強合作，架起智庫溝通的橋樑。
-與會專家學者認為，上合組織堅持求同存異、互利共贏、開放包容、公平正義、務實高效的原則，在確保地區安全穩定、推動地區繁榮、促進人文交流、維護國際公平正義、提升組織行動能力等方面取得了開創性成果，將在維護和平、促進發展、推動全球治理體系變革等方面發揮重要作用。
-這次專家論壇由新華通訊社、“今日俄羅斯”國際媒體集團共同舉辦。來自中國、俄羅斯、吉爾吉斯斯坦、哈薩克、巴基斯坦、印度、斯里蘭卡、阿聯酋、寮國等十餘個國家的相關專家學者與會。（小故事）
-
----
-
-### 2026-07-28 22:30:48  #央行 #國際
-
-美國 7 月達拉斯聯儲服務業商業活動指數 6.6。
-
----
-
-### 2026-07-28 22:30:06  #其他
-
-捷藍航空與普惠達成初步協議，削減運營成本。
-
----
-
-### 2026-07-28 22:28:55  #國際
-
-市場訊息：7 月 28 日週二，伊朗外長阿拉格齊與日本外相茂木敏充舉行電話會談，雙方就雙邊關係展開磋商，並針對近期地區及國際局勢交換意見。
-
----
-
-### 2026-07-28 22:28:22  #MKT News #Commodities #Industrial Metals #Market Regions #Greater China #Copper #Impact bullish
-
-【Recycled copper market tightens as premium scrap snapped up on arrival】Traders in Taizhou, Zhejiang report sustained copper price gains and acute demand for high‑purity scrap; premium scrap consignments are being bought the moment they arrive. Dealers are dismantling motors, cables and radiator units and sorting metal streams to meet downstream appetite. Demand expansion from EVs, AI and other industrial users, combined with constrained growth in primary copper smelting capacity, is broadening demand for recycled copper and creating opportunities in China’s scrap recovery market. Chinese recycled-copper products are also attracting overseas buyers on the back of lower carbon intensity, lower energy use, stable quality and traceable carbon footprints.
-
----
-
-### 2026-07-28 22:26:18  #MKT News
-
-【Trump meets ZELENSKIY at WHITE HOUSE】U.S. media reported Tuesday that Trump met Ukrainian President ZELENSKIY at the WHITE HOUSE; a WHITE HOUSE source said the meeting began at 9:47 a.m. ET (21:47 Beijing time). The leaders were expected to discuss diplomatic efforts to end the war in Ukraine.
-
----
-
-### 2026-07-28 22:24:54  #央行 #其他
-
-市場訊息：阿根廷總統發言人將於當地時間週四晚 8 點發表講話，主題為央行改革。
-
----
-
-### 2026-07-28 22:24:15  #市場 #焦點
-
-納斯達克中國金龍指數漲超1%，陸金所控股漲8.90%，亞朵集團漲4.71%，萬物新生漲4.37%，京東漲3.83%，理想汽車漲3.92%。
-
----
-
-### 2026-07-28 22:24:09  #市場
-
-現貨銀下跌近3%，至每盎司56.73美元。
-
----
-
-### 2026-07-28 22:23:56  #公司 #市場
-
-【新易盛：光模組訂單需求明確 正在持續擴大產能】7月28日，光通訊板塊整體走弱，新易盛股價出現大幅調整，截至收盤跌幅達17.13%，成交額顯著放大，引發市場投資者廣泛關注。記者從新易盛方面獲悉，目前公司生產經營活動有序開展，內外部經營環境未出現重大變化，不存在應披露而未披露的重大事項。從經營表現來看，新易盛今年上半年業績維持高增，二季度盈利環比上行。7月19日晚間，新易盛披露2026年上半年業績預告，預計實現淨利潤70億元至80億元，同比增長77.56%至102.93%；扣非淨利潤預計69.81億元至79.81億元，同比增長77.46%至102.88%。（上海證券報）
-
----
-
-### 2026-07-28 22:23:47  #MKT News #Commodities #Precious Metals
-
-Spot silver fell more than 3.00% intraday to $56.65 per ounce.
-
----
-
-### 2026-07-28 22:22:55  #市場
-
-【美光科技總市值跌至9000億美元】美光科技股價下跌11.5%，報798.830美元/股，總市值跌至9000億美元。
-
----
-
-### 2026-07-28 22:22:04  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #Impact bullish #US10Y
-
-【U.S. consumer confidence dips in July】The Conference Board’s consumer confidence index fell to 90.8 in July from a revised 92.2 in June, below a forecast of 92.3. "In July, consumer feedback on factors affecting the economy remained predominantly pessimistic," Conference Board chief economist Dana Peterson said, adding mentions of employment and unemployment rose slightly and households’ views of the labor market remained relatively weak.
-
----
-
-### 2026-07-28 22:21:16  #市場 #焦點
-
-康寧股價跌幅進一步擴大，最新下跌20%。
-
----
-
-### 2026-07-28 22:19:11
-
-美股費城半導體指數跌超6％，納斯達克100指數跌超2％。
-
----
-
-### 2026-07-28 22:19:09  #市場
-
-路威酩軒股價轉漲，最新上漲0.4%。
-
----
-
-### 2026-07-28 22:19:02  #宏觀 #公司 #市場
-
-【SpaceX股價較 6 月高點暴跌近五成】SpaceX 股價再度下跌 5.5%，較 6 月 16 日的峰值累計下挫 47%，市值蒸發超 1.2 萬億美元。本輪股價下跌主要受三大因素拖累：市場對人工智慧板塊估值的擔憂、地緣政治局勢不明朗，以及大規模空頭拋售行為。投資者同時密切關注 8 月 6 日大額限售股解禁事件，此次解禁將大幅增加市場流通股份數量。
-
----
-
-### 2026-07-28 22:18:07  #國際
-
-市場訊息：烏克蘭本週債券拍賣融資 94.4 億格里夫納。
-
----
-
-### 2026-07-28 22:17:20  #市場
-
-捷藍航空高管：由於7月航空燃油價格上漲，我們已決定將第四季度運營計劃削減約1個百分點。
-
----
-
-### 2026-07-28 22:17:15  #公司 #市場 #國際
-
-【美股AI硬體板塊跌幅繼續擴大 美光、AMD、閃迪等多股跌超10%】美股AI硬體板塊跌幅繼續擴大，費城半導體指數下跌6.03%。英偉達下跌1.41%，臺積電下跌3.98%，博通下跌2.46%，SK海力士下跌9.54%，美光科技下跌10.90%，美國超微公司下跌9.41%，英特爾下跌8.39%，阿斯麥下跌5.64%，泛林集團下跌10.88%，Arm Holdings下跌8.99%，閃迪下跌16.17%，高通下跌3.08%，邁威爾科技下跌10.39%，西部資料下跌14.37%，希捷科技下跌13.20%。
-
----
-
-### 2026-07-28 22:16:26  #Trading Economics #Economy #United States #Richmond Fed Manufacturing Index #Importance 1
-
-US Fifth District Manufacturing Edges Up in July — The Federal Reserve's Fifth District manufacturing index edged up to 5 in July 2026 from 4 in June, remaining well below market expectations of 9. Manufacturing activity was broadly stable during the month, as stronger shipments (8 vs. 4) and a rebound in employment (2 vs. -1) offset slower growth in new orders (5 vs. 8). Local business conditions improved sharply, with the index rising to 10 from -1. On the price front, cost pressures eased, as the growth rate of prices paid slowed to 6.08% from 6.99%, while prices received moderated to 3.96% from 4.57%. Looking ahead, firms expect inflationary pressures to moderate over the next 12 months. However, optimism softened, with expectations for local business conditions (19 vs. 22), shipments (33 vs. 36), and new orders (31 vs. 33) all declining, though remaining firmly in positive territory.
-
----
-
-### 2026-07-28 22:15:54  #Trading Economics #Markets #United States #stocks #Importance 1
-
-NextEra Energy Stock Price Hits 10-week High — NextEra Energy shares increased to 90.94 USD, the highest since May 2026. Over the past 4 weeks, NextEra Energy gained 2.46%, and in the last 12 months, it increased 26.25%.
-
----
-
-### 2026-07-28 22:15:49  #其他
-
-【劉偉在青海調研】7月26日至28日，交通運輸部黨組書記、部長劉偉在青海省就深入學習貫徹習近平總書記關於交通強國的重要論述，紮實推動“十五五”規劃任務落地見效，調研定點幫扶、農村公路建設、國家綜合貨運樞紐補鏈強鏈、應急物資儲備、水上交通安全等工作。調研期間，劉偉與青海省委書記吳曉軍、省長羅東川座談，就推動交通運輸高質量發展進行深入交流。（交通運輸部）
-
----
-
-### 2026-07-28 22:14:45  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Merck Stock Price Hits 54-year High — Merck shares increased to 134.65 USD, the highest since May 1972. Over the past 4 weeks, Merck & Co gained 3.96%, and in the last 12 months, it increased 60%.
-
----
-
-### 2026-07-28 22:14:34  #其他
-
-【中國駐西班牙使館、駐巴塞羅那總領館提醒在西中國公民防範山火災害】7月28日，據“中國駐西班牙使館”公眾號訊息，今年入夏以來，受持續高溫、乾旱及強風天氣等因素影響，西班牙馬德里、加泰羅尼亞、加利西亞、阿拉貢、卡斯蒂利亞-拉曼恰、卡斯蒂利亞-萊昂、巴倫西亞等多個自治區山火頻發。近日，位於西班牙中部的馬德里、阿維拉省、托萊多省以及東部卡斯特利翁省等地山火持續蔓延，已影響到40多個市鎮，數萬人被迫疏散或居家避險。駐西班牙使館、駐巴塞羅那總領館提醒在西中國公民增強防火意識，提高防範能力。
-
----
-
-### 2026-07-28 22:14:32  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Oracle Stock Price Hits 25-month Low — Oracle shares decreased to 114.67 USD, the lowest since May 2024. Over the past 4 weeks, Oracle lost 22.35%, and in the last 12 months, it decreased 53.68%.
-
----
-
-### 2026-07-28 22:14:14  #市場 #焦點
-
-美國天然氣期貨跌超3.00%，現報2.704美元/百萬英熱。
-
----
-
-### 2026-07-28 22:13:48  #其他
-
-瑞銀將雅培目標股價從135美元下調至125美元。
-
----
-
-### 2026-07-28 22:13:23  #國際
-
-俄羅斯國防部稱，俄軍對尼古拉耶夫港一處轉運綜合設施內的基礎設施、儲油槽發動打擊，同時海上一艘乾貨船也遭俄軍襲擊。
-
----
-
-### 2026-07-28 22:11:21  #Trading Economics #Economy #United States #Richmond Fed Services Index #Importance 1
-
-Richmond Fed Services Index Remains Flat in July — The Richmond Fed Fifth District Service Sector Survey was broadly unchanged in July 2026, marking a second consecutive month of flat activity. The revenues index slipped to -3 from 0, while the demand index edged up to 5 from 4. Current local business conditions improved slightly to -5 from -7, although expectations weakened, with the future business conditions index falling to 9 from 16. Employment growth moderated, as the current employment index declined to 4 from 8, while the forward-looking employment gauge was little changed at 23, pointing to continued hiring plans. Wage growth remained firm, with both current and expected wage indexes staying in positive territory. Price pressures eased slightly, as the growth rate of prices paid slowed, while prices received rose marginally. Firms expect both measures to moderate further over the next 12 months.
 
 ---
