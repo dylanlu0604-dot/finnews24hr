@@ -1,7 +1,175 @@
 {
   "date": "2026-07-31",
-  "count": 2611,
+  "count": 2629,
   "items": [
+    {
+      "id": "mkt:019fb7dc-dc41-7aab-8f33-8fe38effe575",
+      "time": "2026-07-31 19:08:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "According to CCTV, Premier Li Qiang chaired a State Council executive meeting to study implementation measures for the health-first development strategy."
+    },
+    {
+      "id": "5019230",
+      "time": "2026-07-31 19:08:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永和股份：新增回購專用證券賬戶用於股份回購】永和股份公告稱，公司此前審議透過回購股份方案，擬用1.5億-3億元自有或自籌資金回購股份，其中1.2億-2.4億元用於登出減資，3000萬-6000萬元用於員工持股或股權激勵，回購期限不超9個月。近日公司獲工行衢州分行不超2.7億元貸款額度用於回購股份，已完成股份回購專用證券賬戶開立，賬戶名稱為“浙江永和製冷股份有限公司回購專用證券賬戶”，號碼為B888589162，本次回購方案其他內容不變。"
+    },
+    {
+      "id": "5019229",
+      "time": "2026-07-31 19:08:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙首相桑切斯：我們將評估是否有必要修改法律，以確保遣返移民。"
+    },
+    {
+      "id": "5019228",
+      "time": "2026-07-31 19:08:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "默茨：期望所有歐盟成員國保護邊境。"
+    },
+    {
+      "id": "mkt:019fb7dc-65bb-7aab-8f33-851939797599",
+      "time": "2026-07-31 19:08:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "CCTV reported Premier Li Qiang chaired a State Council executive meeting to hear reports on construction of a new power grid and a logistics network."
+    },
+    {
+      "id": "5019227",
+      "time": "2026-07-31 19:08:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【規範網際網路渠道售卡管理 運營商停止第三方網際網路渠道號卡辦理】中國電信、中國移動和中國聯通7月31日晚釋出“關於規範網際網路渠道售卡管理的公告”。《公告》稱：為保障使用者權益和資料資訊保安，對網際網路渠道號卡訂購業務進行統一規範。自2026年8月1日起，使用者如需在網際網路渠道訂購號卡，只能透過電信運營商官方App、官方網站等渠道辦理，第三方網際網路渠道不再提供電訊號卡辦理相關服務。運營商在《公告》中表示，近期發現有不法商家冒用“運營商授權合作”名義釋出虛假售卡資訊，或假借售卡名義收集使用者身份證件、住址、聯絡方式等個人敏感資訊，侵害了使用者權益，給使用者帶來了極大的資訊洩露風險。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fb7dc-46c2-7aab-8f33-7daca04d72e4",
+      "time": "2026-07-31 19:08:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Two sources said Kazakhstan's Tengizchevroil has resumed exports via Batumi port on the Black Sea, while the Caspian Pipeline Consortium (CPC) remains shut."
+    },
+    {
+      "id": "5019226",
+      "time": "2026-07-31 19:07:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新特電氣：控股股東等未減持並提前終止減持計劃】新特電氣公告，控股股東、實際控制人及其一致行動人譚勇、宗麗麗、李淑芹和宗寶峰合計持有公司股份2.02億股，佔總股本54.19%，原計劃減持不超過1119.37萬股（佔總股本3%）。截至本公告披露日，上述股東未減持公司股份，並決定提前終止減持計劃。"
+    },
+    {
+      "id": "mkt:019fb7db-b519-7aab-8f33-731626f74996",
+      "time": "2026-07-31 19:07:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "CCTV reports Premier Li Qiang chaired a State Council executive meeting to study and implement Xi Jinping’s remarks on China’s H1 economic situation and economic work for H2."
+    },
+    {
+      "id": "5019225",
+      "time": "2026-07-31 19:07:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盈峰環境：擬1億-2億元回購股份用於激勵或持股計劃】盈峰環境公告稱，公司擬以集中競價交易方式回購股份，資金不低於1億元且不超過2億元，回購價不超14.22元/股。預計回購股份數量約703.23萬股-1406.47萬股，約佔總股本的0.21%-0.42%，用於股權激勵或員工持股計劃，未使用部分將登出。資金源於自有資金和專項貸款，已獲建行佛山分行不超1.8億元貸款承諾。控股股東一致行動人可交換債券換股可能致持股減少，除此外相關方未來六個月無減持計劃。"
+    },
+    {
+      "id": "5019224",
+      "time": "2026-07-31 19:07:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【愛麗家居：股票異常波動 8月3日起停牌核查】愛麗家居公告稱，公司股票7月21日至31日多次觸及異常及嚴重異常波動情形，7月30 - 31日收盤價格漲幅偏離值累計超20%，10個交易日內4次同向異常波動，9個交易日漲停，股價累計漲幅135.77%。公司基本面未變，但股價已嚴重脫離基本面。為維護投資者利益，公司股票8月3日開市起停牌，待披露核查公告後復牌。此外，公司擬現金收購歐康諾不低於77.08%股權，控股股東擬轉讓20%股份，相關交易存在不確定性。"
+    },
+    {
+      "id": "mkt:019fb7db-75d6-7aab-8f33-6b34e5144d38",
+      "time": "2026-07-31 19:07:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AILI.O",
+        "Impact bearish"
+      ],
+      "text": "Aili Home suspended trading after abnormal share-price volatility; suspension pending verification."
+    },
+    {
+      "id": "5019223",
+      "time": "2026-07-31 19:07:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "高露潔棕欖：近期關稅上調的影響完全覆蓋了我們第二季度獲得的關稅退稅，因此相比此前預期，我們將面臨更多不利因素。"
+    },
+    {
+      "id": "mkt:019fb7da-f089-7aab-8f33-67a855a45098",
+      "time": "2026-07-31 19:06:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Aili Home Furnishings halted trading after abnormal share-price fluctuations; suspension pending investigation."
+    },
+    {
+      "id": "5019222",
+      "time": "2026-07-31 19:06:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：馬克龍團隊表示，法國已做好準備，必要時對西班牙提供援助，包括透過歐盟邊境與海岸警衛局（Frontex）提供協助。"
+    },
+    {
+      "id": "5019221",
+      "time": "2026-07-31 19:06:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高新興：增加2026年度日常關聯交易額度至8.23億元】高新興公告稱，公司於7月31日召開的第七屆董事會第五次會議，審議透過增加2026年度日常關聯交易額度的議案。基於業務發展需要，公司向廣州圖靈及其下屬公司銷售商品、提供勞務額度增加5億元，增加後2026年度該項日常關聯交易預計金額調整至7.8億元，公司與關聯公司預計的2026年日常關聯交易總額度從3.23億元調整至8.23億元。本事項尚需提交公司2026年第二次臨時股東會審議。"
+    },
+    {
+      "id": "mkt:019fb7da-1603-7aab-8f33-5e4326d5eca2",
+      "time": "2026-07-31 19:05:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "LME proposes accelerating the listing process for new metal brands and has launched consultations on permanent tagging for aluminium, zinc and lead and on storing primary aluminium in Hong Kong."
+    },
+    {
+      "id": "5019220",
+      "time": "2026-07-31 19:05:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "高露潔-棕欖維持年度銷售預測後，盤前股價下跌約2%。"
+    },
     {
       "id": "mkt:019fb7d9-159e-7aab-8f33-53a0c89fe81e",
       "time": "2026-07-31 19:04:45",
