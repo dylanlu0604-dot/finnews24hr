@@ -1,7 +1,94 @@
 {
-  "updated": "2026-07-31 08:28:41",
-  "count": 18000,
+  "updated": "2026-07-31 08:32:44",
+  "count": 17999,
   "items": [
+    {
+      "id": "5017939",
+      "time": "2026-07-31 08:30:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "軟銀股價一度上漲15%，觸及日內漲停板。"
+    },
+    {
+      "id": "mkt:019fb594-acd8-7aab-8f21-2e4fa548d429",
+      "time": "2026-07-31 08:30:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 jumped 5.00% intraday to 64,989.78 points."
+    },
+    {
+      "id": "5017938",
+      "time": "2026-07-31 08:30:31",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "日經225指數漲幅擴大至5%，現報64989.78點。"
+    },
+    {
+      "id": "mkt:019fb594-5258-7aab-8f21-24700049de54",
+      "time": "2026-07-31 08:30:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romanian Defence Ministry said an aerial object disappeared from radar monitoring systems without entering Romanian airspace. After radar contact was lost, explosions were reported inside Ukraine. Air-raid alerts have now ended."
+    },
+    {
+      "id": "mkt:019fb594-4373-7aab-8f21-1bcfb7d30034",
+      "time": "2026-07-31 08:30:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "【Tokyo inflation accelerates for second month, bolstering BOJ rate-hike prospects】Tokyo core CPI rose 1.9% YoY in July versus market est. 1.8%, Ministry of Internal Affairs and Communications data showed; core-core CPI (ex fresh food and energy) rose 2.0% and overall CPI rose 2.0%. The acceleration — driven by a narrowing decline in electricity and gas costs and steady rises in processed food prices, despite a larger gasoline price drop after government measures — strengthens the case for the Bank of Japan to consider another rate hike in coming months, even as markets largely expect a hold today (31st). Takeshi Minami, chief economist at the Norinchukin Research Institute, said ongoing Middle East tensions could keep energy-related prices higher and push up food and other costs, meaning inflation may remain above 2% from this autumn."
+    },
+    {
+      "id": "te:markets:571399",
+      "time": "2026-07-31 08:29:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Gains as Dollar Weakens — Silver traded around $59 an ounce on Friday after rising for two straight sessions, supported by a sharp decline in the US dollar as Japan is suspected to have intervened in the currency market once again to strengthen the yen. The precious metal also drew support this week after the Federal Reserve left interest rates unchanged despite mounting inflationary pressures stemming from renewed hostilities in the Middle East. However, expectations for tighter monetary policy continued to limit further gains, with markets currently pricing in about a 63% chance of a Fed rate hike in September. Meanwhile, the US military launched fresh strikes on Iranian targets in retaliation for Tehran’s attacks on US assets across the Middle East, reducing the likelihood of any near-term diplomatic agreement. Silver is also on track to end the month with a small gain after tumbling more than 20% in June."
+    },
+    {
+      "id": "5017937",
+      "time": "2026-07-31 08:29:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞國防部在X平臺上表示：空襲警報已解除。"
+    },
+    {
+      "id": "5017936",
+      "time": "2026-07-31 08:29:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞國防部在X平臺發文：空中目標未進入羅馬尼亞領空，便已從雷達監測系統上消失。"
+    },
+    {
+      "id": "5017935",
+      "time": "2026-07-31 08:28:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部：積極發展電池、甲醇、氨、氫等動力船舶，加快內河船舶新能源應用】近日，工業和資訊化部印發《工業綠色低碳發展“十五五”規劃》。其中提出，大力發展綠色裝備。加快提升節能裝備、節水裝備、環保裝備、資源綜合利用裝備供給能力。積極發展電池、甲醇、氨、氫等動力船舶，加快內河船舶新能源應用。有序發展電動、氫能等新能源航空器，推動在國產民用飛機應用可持續航空燃料。"
+    },
     {
       "id": "5017934",
       "time": "2026-07-31 08:27:46",
@@ -166294,109 +166381,6 @@
         "Importance 1"
       ],
       "text": "Japan Composite PMI Highest in Five Months — Japan’s S&P Global Composite PMI Business Activity Index edged up to 53.1 in July 2026 from a final 52.8 in the prior month, flash data showed. It was the highest reading since February, marking the 16th straight month of expansion in private sector activity."
-    },
-    {
-      "id": "5005584",
-      "time": "2026-07-24 08:32:27",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "韓國部長表示，韓國將努力把7月份的CPI降至2%的水平。"
-    },
-    {
-      "id": "5005583",
-      "time": "2026-07-24 08:31:04",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "日本7月製造業採購經理人指數(PMI)初值為54.7 (上月為54.8)；日本7月服務業採購經理人指數(PMI)初值為51.9 (上月為52.2)；日本7月份標普全球綜合PMI報53.1。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202607243819621635",
-      "time": "2026-07-24 08:30:45",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本7月服務業PMI初值51.9，前值52.2。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202607243819621721",
-      "time": "2026-07-24 08:30:25",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本7月製造業PMI初值54.7，前值54.8。"
-    },
-    {
-      "id": "5005582",
-      "time": "2026-07-24 08:30:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥衛生部表示，對泰勒農場生菜與水樣的檢測結果顯示，並未檢出環孢子蟲。"
-    },
-    {
-      "id": "mkt:019f9187-91c8-7aab-8e76-1bbf514e554c",
-      "time": "2026-07-24 08:30:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan July preliminary composite PMI 53.1; prior 52.8."
-    },
-    {
-      "id": "mkt:019f9187-8d57-7aab-8e76-14f4aa7cfb2b",
-      "time": "2026-07-24 08:30:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan preliminary July manufacturing PMI 54.7, versus 54.8 previously."
-    },
-    {
-      "id": "mkt:019f9187-8b65-7aab-8e76-08c79ee58a88",
-      "time": "2026-07-24 08:30:07",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan preliminary July services PMI 51.9, down from 52.2."
-    },
-    {
-      "id": "mkt:019f9187-7050-7aab-8e76-07a90727eee8",
-      "time": "2026-07-24 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Manufacturing PMI Flash (Jul) | actual 54.7 | previous 54.8"
-    },
-    {
-      "id": "5005581",
-      "time": "2026-07-24 08:29:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Stripe據悉洽購AI模型聚合平臺創企OpenRouter】據報道，支付公司Stripe正洽談收購AI模型聚合平臺創企OpenRouter，可能很快宣佈達成交易，但洽談仍可能破裂或出現其他競購者。OpenRouter此前估值約13億美元，若達成收購協議，其估值可能達到約100億美元。"
     }
   ]
 }
