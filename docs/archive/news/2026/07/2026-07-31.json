@@ -1,7 +1,30 @@
 {
   "date": "2026-07-31",
-  "count": 3396,
+  "count": 3398,
   "items": [
+    {
+      "id": "mkt:019fb8e5-2a72-7aab-8f3a-7a4bf25b1828",
+      "time": "2026-07-31 23:57:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "TRUMP said on Iran they have some missiles but far fewer than 4-5 months ago and their production capacity has almost completely disappeared."
+    },
+    {
+      "id": "te:markets:571828",
+      "time": "2026-07-31 23:57:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Ends July Near Record High — Frankfurt's DAX 40 edged up on the final trading session of July, reaching its highest level since the record peak set earlier this month and recording a monthly gain of more than 2%. The advance was driven by a strong rebound in technology stocks, broadly upbeat corporate earnings, and a continued sharp decline in oil prices, despite persistent geopolitical tensions in the Middle East. Chipmaker Infineon led the benchmark with a gain of more than 4%, followed by Hochtief, which advanced 2.7%. On the downside, Siemens Healthineers fell 1% after lowering its fiscal 2025/26 revenue guidance due to continued weakness in its diagnostics business. Elsewhere, defense electronics company Hensoldt reported that order intake more than doubled year over year, sportswear manufacturer Puma reaffirmed its full-year guidance despite weaker demand, and wafer producer Siltronic posted strong quarterly results."
+    },
     {
       "id": "mkt:019fb8e4-cc57-7aab-8f3a-7021db419af6",
       "time": "2026-07-31 23:57:09",

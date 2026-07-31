@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-01",
+  "count": 2,
+  "items": [
+    {
+      "id": "te:markets:571829",
+      "time": "2026-08-01 00:00:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Little Changed — The FTSE MIB closed little changed at 52,173 on Friday, as concerns over rising European gas prices weighed on utilities and offset support from upbeat corporate earnings. Amplifon surged 8.1% after posting stronger-than-expected results, supported by a wave of positive analyst reviews, including an Outperform rating from Intermonte, a Buy recommendation from Citi, and higher revenue forecasts from Mediobanca. Diasorin (4.2%) and Brunello Cucinelli (3%) also advanced, while banking stocks extended recent gains, led by Banca Mediolanum (1.7%). On the downside, utility shares came under pressure as European gas prices continued to climb. Italy became Europe's largest LNG importer in July as traders took advantage of government incentives to secure cargoes despite soaring prices, fueling concerns over prolonged tensions in the Middle East. Snam and Italgas both lost more than 1.5%. In turn, Stellantis fell 2% after recalling over 1.5 million vehicles worldwide due to a seat belt defect."
+    },
+    {
+      "id": "mkt:019fb8e7-fa67-7aab-8f3a-84d19294cbd0",
+      "time": "2026-08-01 00:00:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump on Iran said they still have some missiles but far fewer than 4-5 months ago, and their production capacity has almost entirely disappeared."
+    }
+  ]
+}

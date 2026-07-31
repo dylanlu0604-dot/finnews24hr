@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-31 23:58:05",
-  "count": 17974,
+  "updated": "2026-08-01 00:03:20",
+  "count": 17967,
   "items": [
+    {
+      "id": "te:markets:571829",
+      "time": "2026-08-01 00:00:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Little Changed — The FTSE MIB closed little changed at 52,173 on Friday, as concerns over rising European gas prices weighed on utilities and offset support from upbeat corporate earnings. Amplifon surged 8.1% after posting stronger-than-expected results, supported by a wave of positive analyst reviews, including an Outperform rating from Intermonte, a Buy recommendation from Citi, and higher revenue forecasts from Mediobanca. Diasorin (4.2%) and Brunello Cucinelli (3%) also advanced, while banking stocks extended recent gains, led by Banca Mediolanum (1.7%). On the downside, utility shares came under pressure as European gas prices continued to climb. Italy became Europe's largest LNG importer in July as traders took advantage of government incentives to secure cargoes despite soaring prices, fueling concerns over prolonged tensions in the Middle East. Snam and Italgas both lost more than 1.5%. In turn, Stellantis fell 2% after recalling over 1.5 million vehicles worldwide due to a seat belt defect."
+    },
+    {
+      "id": "mkt:019fb8e7-fa67-7aab-8f3a-84d19294cbd0",
+      "time": "2026-08-01 00:00:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump on Iran said they still have some missiles but far fewer than 4-5 months ago, and their production capacity has almost entirely disappeared."
+    },
+    {
+      "id": "mkt:019fb8e5-2a72-7aab-8f3a-7a4bf25b1828",
+      "time": "2026-07-31 23:57:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "TRUMP said on Iran they have some missiles but far fewer than 4-5 months ago and their production capacity has almost completely disappeared."
+    },
+    {
+      "id": "te:markets:571828",
+      "time": "2026-07-31 23:57:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Ends July Near Record High — Frankfurt's DAX 40 edged up on the final trading session of July, reaching its highest level since the record peak set earlier this month and recording a monthly gain of more than 2%. The advance was driven by a strong rebound in technology stocks, broadly upbeat corporate earnings, and a continued sharp decline in oil prices, despite persistent geopolitical tensions in the Middle East. Chipmaker Infineon led the benchmark with a gain of more than 4%, followed by Hochtief, which advanced 2.7%. On the downside, Siemens Healthineers fell 1% after lowering its fiscal 2025/26 revenue guidance due to continued weakness in its diagnostics business. Elsewhere, defense electronics company Hensoldt reported that order intake more than doubled year over year, sportswear manufacturer Puma reaffirmed its full-year guidance despite weaker demand, and wafer producer Siltronic posted strong quarterly results."
+    },
     {
       "id": "mkt:019fb8e4-cc57-7aab-8f3a-7021db419af6",
       "time": "2026-07-31 23:57:09",
@@ -166369,102 +166412,6 @@
         "Importance 0"
       ],
       "text": "CAC 40 Rises as Oil Rally Pauses — The CAC 40 rose 0.9% to close at 8,372 on Friday as easing oil prices cooled energy-driven inflation concerns. Lower bond yields supported financials and the broader market. Crédit Agricole gained 2.6%, Société Générale rose 1.9%, and BNP Paribas added 2.1% after reporting earnings and revenue above expectations. An ECB survey showed euro area inflation expectations remained broadly stable over the past three months, with inflation expected to slow sharply next year before returning to the 2% target in 2028. Meanwhile, France's private sector contraction eased in July, with the S&P Global Flash Services PMI rising to 49.8 from 46.8 in June, beating forecasts. Luxury stocks advanced, with LVMH up 1.8%, L'Oréal gaining 1.6%, Hermès rising 1.3%, and Kering adding 1.5%. In industrials, Airbus gained 0.8% and Safran climbed 2.6%, while Thales slipped 0.8% as investors took profits following its 5.1% surge in the previous session."
-    },
-    {
-      "id": "mkt:019f94dc-80ac-7aab-8e8c-47b36baaeead",
-      "time": "2026-07-25 00:01:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Warner Bros. Discovery (WBD.O) will report second-quarter results on Thursday, Aug. 6, 2026, local time."
-    },
-    {
-      "id": "mkt:019f94db-e6e7-7aab-8e8c-383a2b746050",
-      "time": "2026-07-25 00:01:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine agriculture minister Visotsky said Russian attacks on port infrastructure and vessels are not new."
-    },
-    {
-      "id": "mkt:019f94db-84a3-7aab-8e8c-32f65b3f4223",
-      "time": "2026-07-25 00:00:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's agriculture minister Vysotsky said the government is willing to assist exports using alternative routes via rail and the Danube."
-    },
-    {
-      "id": "5007389",
-      "time": "2026-07-25 00:00:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "華納兄弟探索公司將於 8 月 6 日（週四）公佈 2026 年第二季度財報。"
-    },
-    {
-      "id": "mkt:019f94da-fa38-7aab-8e8c-2e71634efaa2",
-      "time": "2026-07-25 00:00:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's Agriculture Minister Vysotsky said the military is working to ensure safe passage through existing grain corridors."
-    },
-    {
-      "id": "te:markets:569826",
-      "time": "2026-07-25 00:00:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Falls from 3-1/2-Month High — US heating oil prices fell 3% to around $4.20 per gallon, retreating from a 3-1/2-month high of $4.34 reached in the previous session, as broader oil markets declined on signs of renewed diplomatic efforts between the US and Iran. Reports indicated that Pakistan, with backing from China, was seeking to restart negotiations, raising hopes of a potential easing in regional tensions. However, the Middle East conflict intensified this week, with US Central Command conducting its 13th consecutive night of strikes on Iran. Outside the region, Russian fuel supplies remain constrained, with less than half of refinery capacity damaged by Ukrainian drone attacks restored, leaving around 45 million tonnes of annual capacity offline. Meanwhile, warmer-than-normal weather forecasts through August 7 could lift power sector demand. EIA data showed distillate inventories, including heating oil and diesel, increased by 1.395 million barrels in the week ended July 17."
-    },
-    {
-      "id": "mkt:019f94da-e1e5-7aab-8e8c-21d3ea029d07",
-      "time": "2026-07-25 00:00:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian agriculture minister Visotsky said there have been no official discussions at present on reported plans for a mechanism governing vessels at the Black Sea port of Odessa."
-    },
-    {
-      "id": "5007388",
-      "time": "2026-07-24 23:59:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭農業部長： 政府願意協助開闢鐵路、多瑙河出口替代運輸通道。"
-    },
-    {
-      "id": "5007387",
-      "time": "2026-07-24 23:59:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭農業部長針對有關敖德薩黑海港口船隻通行潛在機制的相關報道回應：目前尚未開展此類官方磋商。軍方正採取行動，保障現有糧食走廊的通航安全。"
-    },
-    {
-      "id": "mkt:019f94d9-d4e4-7aab-8e8c-1e8bf159b31b",
-      "time": "2026-07-24 23:58:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Nigeria's exports of four main crude grades are forecast to average 952,000 bpd in September, up from 763,000 bpd in August."
-    },
-    {
-      "id": "5007386",
-      "time": "2026-07-24 23:58:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "初步裝運計劃資料顯示，奈及利亞四種主要原油品級 9 月出口量預估均值為 95.2 萬桶 / 日，8 月為 76.3 萬桶 / 日。"
     }
   ]
 }
