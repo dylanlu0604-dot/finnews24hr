@@ -1,7 +1,105 @@
 {
   "date": "2026-07-31",
-  "count": 2914,
+  "count": 2925,
   "items": [
+    {
+      "id": "5019432",
+      "time": "2026-07-31 20:43:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【交大昂立：因信披違法擬被處罰 股票將被實施其他風險警示】交大昂立公告稱，公司2025年7月因涉嫌資訊披露違法違規被證監會立案。2026年7月31日，收到上海監管局《行政處罰事先告知書》，公司2023年會計差錯更正公告及2024年年報存在虛假記載，擬對公司責令改正、警告，並處400萬元罰款；對嵇霖、嵇敏、曹毅分別警告，並處200萬、100萬、100萬元罰款。公司股票將被實施其他風險警示，但未觸及重大違法類強制退市情形。"
+    },
+    {
+      "id": "mkt:019fb832-cd4e-7aab-8f36-017f14d8127b",
+      "time": "2026-07-31 20:42:44",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Russian Grain Exporters and Producers Union says attacks in the Black Sea region could soon lead to a complete shutdown of export corridors."
+    },
+    {
+      "id": "5019431",
+      "time": "2026-07-31 20:42:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙訊息稱，休達近25000名移民已離開。"
+    },
+    {
+      "id": "mkt:019fb832-a0de-7aab-8f35-fc2ad1272dc7",
+      "time": "2026-07-31 20:42:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "【Oxford Economics: rising inflation risks boost odds of ECB September rate hike】Oxford Economics analyst Iain Simmons says euro‑area inflation remains above target and faces material upside risks. Middle East tensions have pushed energy prices higher; July headline inflation rose 0.1ppt to 2.9%. Since the breakdown of the Iran ceasefire, the risk of broader inflation spillovers has increased, strengthening the case for an ECB rate rise in September. Simmons adds that yesterday’s stronger‑than‑expected GDP print suggests the euro‑area may better tolerate tightening, but inflation’s response to Middle East developments has so far been muted and any second‑round wage effects later this year may be limited."
+    },
+    {
+      "id": "5019430",
+      "time": "2026-07-31 20:42:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯穀物出口商與生產商聯盟表示，黑海地區遇襲很可能會導致那裡的出口航道在近期被完全封鎖。"
+    },
+    {
+      "id": "5019429",
+      "time": "2026-07-31 20:41:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【玲瓏輪胎：戴雲霞間接持股增加約6% 控股股東未變】玲瓏輪胎公告稱，2026年7月31日，戴雲霞與王鋒簽署《玲瓏集團有限公司股權轉讓協議》，王鋒將持有的玲瓏集團14.551%股權轉給配偶戴雲霞。變動後，戴雲霞間接持有玲瓏輪胎約6%股權，王鋒不再間接持股。本次權益變動不會導致公司控股股東、實際控制人變更，戴雲霞為實際控制人王氏家族之一致行動人。戴雲霞暫無增持上市公司股份的計劃。"
+    },
+    {
+      "id": "5019428",
+      "time": "2026-07-31 20:41:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST益通：披露股票交易被實施風險警示的整改進展】*ST益通公告稱，因2025年度財務報告被出具無法表示意見審計報告、內部控制有效性被出具否定意見審計報告，自2026年5月6日起，公司股票交易被實施退市及其他風險警示。截至目前，公司已採取多項整改措施，包括成立內控整改工作領導小組、聘請中興華會計師事務所協助自查整改、召開中高層會議宣貫整改方案等。公司將持續開展合規培訓，後續會每月披露進展及風險提示。"
+    },
+    {
+      "id": "5019427",
+      "time": "2026-07-31 20:41:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇蘇州啟動騎手“等燈停表”暖心服務】31日，蘇州市公安局等部門聯合外賣平臺企業，啟動外賣騎手“等燈停表”暖心服務。部分外賣平臺接入當地交通資料，在App上線“等燈停表”功能。騎手等紅燈，外賣配送時長將順延。記者採訪看到，當騎手在交通路口等紅燈時，手機頁面會呈現紅燈倒計時讀秒資訊，AI安全助手會發布提示資訊：“紅燈停一停，正在記錄等燈時長，訂單結束時將延長本單配送時間。”騎手還可在此頁面中看到所在區域的禁行道路資訊，選擇不同的配送路線。（新華社）"
+    },
+    {
+      "id": "5019426",
+      "time": "2026-07-31 20:40:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4100美元/盎司，日內跌1.46%。"
+    },
+    {
+      "id": "5019425",
+      "time": "2026-07-31 20:40:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "義大利遊艇製造商法拉帝：首席財務官稱公司7月訂單額超5000萬歐元。"
+    },
+    {
+      "id": "5019424",
+      "time": "2026-07-31 20:39:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滬上阿姨：2026年上半年收入25.89億元同比增42.4%】滬上阿姨公告，2026年上半年收入25.89億元（人民幣），同比增長42.4%。期內利潤3.21億元，同比增長58.3%。母公司擁有人應占期內利潤3.21億元，上年同期2.03億元。期內經調整利潤3.45億元，同比增長41.6%。基本每股盈利3.05元。"
+    },
     {
       "id": "5019423",
       "time": "2026-07-31 20:39:33",
