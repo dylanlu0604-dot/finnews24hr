@@ -1,7 +1,203 @@
 {
   "date": "2026-07-31",
-  "count": 2960,
+  "count": 2981,
   "items": [
+    {
+      "id": "5019475",
+      "time": "2026-07-31 21:02:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "厄瓜多總統諾沃亞稱，當局考慮洽談薩查油田石油服務合作協議。"
+    },
+    {
+      "id": "te:markets:571777",
+      "time": "2026-07-31 21:02:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Muted as Markets Assess GDP and Earnings — Futures tracking the S&P/TSX Composite Index were little changed on Friday as investors assessed another round of corporate earnings and Canada's May GDP report. Fairfax Financial and Cameco reported revenue above expectations, although both missed EPS forecasts. Enbridge beat estimates for second-quarter adjusted profit. Imperial Oil reported quarterly earnings above expectations as profit doubled on higher crude prices and stronger refining margins. On the data front, Canada's economy expanded 0.3% in May, the second consecutive monthly increase and slightly above forecasts of 0.2%, reinforcing the BoC's view that the economy is adjusting to recent shocks. Meanwhile, gold prices fell as a stronger US dollar weighed on mining stocks. Oil prices extended gains, supporting energy shares but fueling inflation concerns."
+    },
+    {
+      "id": "mkt:019fb845-16c9-7aab-8f36-655dc385683e",
+      "time": "2026-07-31 21:02:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Hamas official says group agreed to latest ceasefire roadmap】Senior Hamas official Naim said after intense negotiations Hamas has agreed to the latest ceasefire roadmap. He said \"the ball is now on Israel's side\" and that Israel must fulfil its commitments under the deal. Mediators and guarantors must oversee and compel Israeli compliance to prevent violations. The next phase will not begin until first-stage preconditions are fully implemented."
+    },
+    {
+      "id": "5019474",
+      "time": "2026-07-31 21:02:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "厄瓜多力爭 2027 年將石油日產量提升至 50 萬桶以上。"
+    },
+    {
+      "id": "5019473",
+      "time": "2026-07-31 21:02:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新築股份：資產出售及購買資產交易對價合計70.58億元】新築股份公告，公司披露資產出售、發行股份及支付現金購買資產並募集配套資金暨關聯交易報告書（草案）摘要（修訂稿）。本次交易擬置入資產蜀道清潔能源60%股權交易對價為56.03億元，擬出售資產交易對價為14.55億元。交易完成後，公司控股股東仍為蜀道集團，實際控制人仍為四川省國資委。本次交易已獲四川省國資委批准，尚需深交所稽核透過及中國證監會同意註冊。"
+    },
+    {
+      "id": "5019472",
+      "time": "2026-07-31 21:01:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國石油（BP）：伊恩·泰勒將卸任董事長，留任人事與薪酬委員會委員。"
+    },
+    {
+      "id": "mkt:019fb844-3e8c-7aab-8f36-5c48f3d8717d",
+      "time": "2026-07-31 21:01:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Chile's National Statistics Institute reported June copper production rose 5.1% YoY."
+    },
+    {
+      "id": "5019471",
+      "time": "2026-07-31 21:01:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "路透調查：預計到2026年底俄羅斯通脹中位數為6.5%（上次調查為5.7%）。分析師預計俄羅斯央行將在四季度將基準利率從當前的14.00%下調至13.50%（上次調查為下調至13.00%）。俄羅斯2026年GDP增長預計為0.5%（上次調查為0.6%）。"
+    },
+    {
+      "id": "mkt:019fb843-bf7a-7aab-8f36-53a5e43782d9",
+      "time": "2026-07-31 21:01:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: Russia's 2026 GDP growth is forecast at 0.5%, versus 0.6% in the prior survey."
+    },
+    {
+      "id": "mkt:019fb843-b9f8-7aab-8f36-4f25bb00399d",
+      "time": "2026-07-31 21:01:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters survey: Analysts expect the Russian central bank to cut its policy rate in Q4 from the current 14.00% to 13.50% (previous survey: cut to 13.00%)."
+    },
+    {
+      "id": "5019470",
+      "time": "2026-07-31 21:01:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌2%，現報14000.00元。"
+    },
+    {
+      "id": "5019469",
+      "time": "2026-07-31 21:00:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長江儲存攜消費級固態硬碟等產品亮相ChinaJoy】在ChinaJoy2026上，長江儲存攜多款消費級固態硬碟SSD、高速儲存卡等產品亮相。記者注意到，這些SSD產品已應用於小米、機械革命等品牌筆記本上。（科創板日報）"
+    },
+    {
+      "id": "mkt:019fb843-5086-7aab-8f36-447b3e45fb2f",
+      "time": "2026-07-31 21:00:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: Median forecast for Russian inf at end-2026 6.5% (previous survey 5.7%)."
+    },
+    {
+      "id": "5019468",
+      "time": "2026-07-31 21:00:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版，截至7月31日21時，2026年7月總票房50.05億，《功夫女足》《八仙！》《蜘蛛俠：嶄新之日》《小黃人與大怪獸》《四渡》位列7月票房榜前五！"
+    },
+    {
+      "id": "5019467",
+      "time": "2026-07-31 21:00:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利6月失業率9.4%；預計 9.5%。"
+    },
+    {
+      "id": "mkt:019fb842-e8ab-7aab-8f36-3d0700ab1a1c",
+      "time": "2026-07-31 21:00:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Night session opened: China’s main futures contracts mixed. SC crude up about 3%; low‑sulfur fuel oil (LU), asphalt, fuel oil and propylene rose more than 2%; LPG and ethylene glycol (EG) up about 2%; plastics up over 1%. On the downside, Shanghai silver, coking coal and Shanghai gold fell more than 1%; coke and soda ash down roughly 1%."
+    },
+    {
+      "id": "5019466",
+      "time": "2026-07-31 21:00:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4040美元/盎司，日內跌1.57%。"
+    },
+    {
+      "id": "5019465",
+      "time": "2026-07-31 21:00:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲2%，現報5109.00元。"
+    },
+    {
+      "id": "5019464",
+      "time": "2026-07-31 21:00:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "7 月 30 日有效聯邦基金利率維持 3.63%，與前一日持平。"
+    },
+    {
+      "id": "5019463",
+      "time": "2026-07-31 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】碳酸鋰連續跌4.84%，集運指數歐線期貨連續漲3.13%，上海原油連續漲3.07%，低硫燃料油連續漲2.78%，瀝青連續漲2.39%。"
+    },
+    {
+      "id": "5019462",
+      "time": "2026-07-31 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲2%，現報3656.00元。"
+    },
     {
       "id": "mkt:019fb841-9af7-7aab-8f36-36033ca1c8ce",
       "time": "2026-07-31 20:58:54",
