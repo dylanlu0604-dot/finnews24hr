@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-01 01:04:35",
-  "count": 17993,
+  "updated": "2026-08-01 01:08:27",
+  "count": 17988,
   "items": [
+    {
+      "id": "mkt:019fb925-7770-7aab-8f3c-1671cd5b9459",
+      "time": "2026-08-01 01:07:48",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Fed's Barkin: Whether rates are high enough an \"open question\"】Fed regional president Barkin said whether current policy rates are sufficiently restrictive to curb inf remains an \"open question\" and he is unsure he would have voted for this week's hike like three other regional presidents. He said there is a case for tightening to reverse part of last year's rate cuts, but June's slower inf gives time before the next meeting to assess the policy stance. Barkin is not a voting member on rate decisions until next year. He expressed doubt that the labor market is notably tight and said uneven price pass-through makes it hard to gauge residual inf."
+    },
+    {
+      "id": "5019788",
+      "time": "2026-08-01 01:04:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：美國電信運營商T-Mobil通報德國電信，該公司不支援潛在交易。"
+    },
     {
       "id": "mkt:019fb921-122a-7aab-8f3c-0d962f645d64",
       "time": "2026-08-01 01:02:59",
@@ -166588,71 +166610,6 @@
         "國際"
       ],
       "text": "【特朗普：美國開始對歐盟針對美國科技企業採取的行動展開301調查】歐盟又故技重施，一如既往地將矛頭直指美國頂尖企業！此前歐盟毫無緣由地向蘋果處以 150 億美元罰款、向Meta罰款 30 億美元、向亞馬遜罰款 25 億美元，還處罰了諸多其他企業。而我們剛剛獲悉，技術頂尖、實力出眾的谷歌又被歐盟無故罰款 10 億美元，沒有給出任何合理解釋。至此，谷歌累計被罰金額已超 180 億美元！\n這種違法且帶有嚴重歧視性的處罰行為，在我特朗普執政時期絕不會再持續下去。美國絕非歐洲的 “提款機”，我們絕不允許歐洲肆意榨取美國利益！\n特此鄭重宣告：我們將立即啟動 301 調查，針對歐盟掠奪美國企業、進而損害美國納稅人利益的不當行為展開核查。我此前已多次警示歐盟，他們必將為這種違法、極不道德的做法付出慘痛代價。歐盟此前針對美企開出的所有罰單將全部作廢，同時我方計劃儘快對歐盟加徵高額關稅。"
-    },
-    {
-      "id": "5007434",
-      "time": "2026-07-25 01:08:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：歐盟將為其這種非法且極不道德的行徑付出沉重代價。現有處罰措施將全部撤銷，同時我們預計，會盡快對歐盟加徵高額關稅。"
-    },
-    {
-      "id": "5007433",
-      "time": "2026-07-25 01:07:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：特此宣告，我們將立刻針對各類掠奪美國企業的行為發起 301 調查。"
-    },
-    {
-      "id": "5007432",
-      "time": "2026-07-25 01:07:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：歐盟針對美國企業的打壓行為，在我執政期間不會持續下去。"
-    },
-    {
-      "id": "5007431",
-      "time": "2026-07-25 01:06:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "Claude：在多項程式設計和知識工作評測中，Opus 5 達到了新的最先進水平。Opus 5 也非常高效，在每個任務的成本相似或更低的情況下，其表現優於其他模型。"
-    },
-    {
-      "id": "mkt:019f9517-b887-7aab-8e8d-5fc8a261abc1",
-      "time": "2026-07-25 01:06:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Claude: OPUS 5 is also highly efficient; at similar or lower cost per task, it outperforms other models."
-    },
-    {
-      "id": "mkt:019f9517-5d64-7aab-8e8d-5700ed120f03",
-      "time": "2026-07-25 01:06:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Claude said Opus 5 achieved new state-of-the-art performance across multiple programming and knowledge-work benchmarks."
-    },
-    {
-      "id": "mkt:019f9516-ff2b-7aab-8e8d-4dcfedd96843",
-      "time": "2026-07-25 01:05:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Baker Hughes: U.S. energy firms cut rig count for first time in six weeks."
     }
   ]
 }

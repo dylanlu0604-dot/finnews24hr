@@ -1,7 +1,29 @@
 {
   "date": "2026-08-01",
-  "count": 105,
+  "count": 107,
   "items": [
+    {
+      "id": "mkt:019fb925-7770-7aab-8f3c-1671cd5b9459",
+      "time": "2026-08-01 01:07:48",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Fed's Barkin: Whether rates are high enough an \"open question\"】Fed regional president Barkin said whether current policy rates are sufficiently restrictive to curb inf remains an \"open question\" and he is unsure he would have voted for this week's hike like three other regional presidents. He said there is a case for tightening to reverse part of last year's rate cuts, but June's slower inf gives time before the next meeting to assess the policy stance. Barkin is not a voting member on rate decisions until next year. He expressed doubt that the labor market is notably tight and said uneven price pass-through makes it hard to gauge residual inf."
+    },
+    {
+      "id": "5019788",
+      "time": "2026-08-01 01:04:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：美國電信運營商T-Mobil通報德國電信，該公司不支援潛在交易。"
+    },
     {
       "id": "mkt:019fb921-122a-7aab-8f3c-0d962f645d64",
       "time": "2026-08-01 01:02:59",
