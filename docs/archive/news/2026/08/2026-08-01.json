@@ -1,7 +1,20 @@
 {
   "date": "2026-08-01",
-  "count": 437,
+  "count": 438,
   "items": [
+    {
+      "id": "mkt:019fba45-4f58-7aab-8f3e-405854144938",
+      "time": "2026-08-01 06:22:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Tasnim news agency: A senior Iranian security official said Iran views US and Israeli claims they might strike Iranian infrastructure as a reckless falsehood. Iran has drawn up a comprehensive plan that includes strikes on key Israeli infrastructure and on US energy infrastructure in the region."
+    },
     {
       "id": "5020033",
       "time": "2026-08-01 06:19:48",
