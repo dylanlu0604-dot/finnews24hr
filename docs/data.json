@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-31 13:01:22",
-  "count": 18042,
+  "updated": "2026-07-31 13:09:42",
+  "count": 18037,
   "items": [
+    {
+      "id": "5018355",
+      "time": "2026-07-31 13:08:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍襲擊一艘駛往烏克蘭敖德薩附近港口、載有軍用貨物的船隻。"
+    },
+    {
+      "id": "5018354",
+      "time": "2026-07-31 13:08:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯軍隊對敖德薩港和貨船發動了襲擊。"
+    },
+    {
+      "id": "5018353",
+      "time": "2026-07-31 13:06:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【萬億產業可期！北斗走進日常賦能千行百業】今天（31日），北斗三號全球衛星導航系統迎來開通六週年紀念日。最新資料顯示，2025年，我國以北斗為核心的衛星導航與位置服務產業總體產值已達6290億元。按照規劃，這一規模將在“十五五”期間突破一萬億元大關。（央視）"
+    },
+    {
+      "id": "5018352",
+      "time": "2026-07-31 13:04:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【軍工板塊午後異動】觀想科技直線漲停，華如科技漲超10%，建設工業等多股衝高。"
+    },
+    {
+      "id": "5018351",
+      "time": "2026-07-31 13:04:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【索尼將於下週二分階段重啟遭地震衝擊的感測器工廠】索尼集團表示，在日本西南部島嶼遭遇7.1級地震及多次餘震襲擊後，公司將於下週二分階段重啟位於九州的影象感測器工廠。公司預估，這座工廠將在8月中旬恢復至震前產能水平。索尼這座熊本縣工廠生產面向數碼相機、監控系統以及汽車高階駕駛輔助系統的影象感測器，該廠區並不生產手機影象感測器。熊本縣內還設有臺積電、東京電子、三菱電機的生產基地。上述多家工廠目前大多仍處於停產狀態，裝置正在接受檢修與校準，此次地震對工業及科技供應鏈造成的整體影響尚不明朗。十年前熊本縣曾遭遇強震重創。當時索尼花費三個多月才恢復工廠生產，又額外耗時兩個月使產能迴歸常態。索尼在九州其他地區還設有影象感測器工廠，本輪地震並未對這些廠區造成影響。"
+    },
+    {
+      "id": "mkt:019fb68c-f4ad-7aab-8f27-7b7d591d5696",
+      "time": "2026-07-31 13:01:58",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Construction Orders (YoY) (Jun) | actual 2.3% | previous -6.7%"
+    },
+    {
+      "id": "mkt:019fb68b-f007-7aab-8f27-77627caab84f",
+      "time": "2026-07-31 13:00:51",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Housing starts (YoY) (Jun) | actual 18.57% | consensus 12.8% | previous 33.90%"
+    },
     {
       "id": "5018350",
       "time": "2026-07-31 13:00:20",
@@ -27,6 +88,15 @@
         "焦點"
       ],
       "text": "深證成指漲3.27%，現報13720.591點；上證指數漲0.79%，現報3834.871點；創業板指漲5.24%，現報3414.486點。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202607313828143171",
+      "time": "2026-07-31 12:58:37",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日元匯率大漲 日本央行入市干預】週四，全球外匯市場巨震，美元指數失守100關口，美元兌日元盤中最大跌幅達3%，自本週早些時候逼近164的40年高點最低跌至158.34。日本央行將於週五公佈最新利率決議，行情異動表明日本政府開展外匯干預，支撐長期徘徊的日元。"
     },
     {
       "id": "5018347",
@@ -166768,132 +166838,6 @@
         "市場"
       ],
       "text": "【深圳華強：近期觀察到MLCC客戶下單增加 主動補庫存】深圳華強7月23日在機構線下調研時表示，公司近期觀察到MLCC客戶下單增加，開始拉貨、主動補庫存。對部分缺貨的型號，公司優先滿足大客戶的採購需求。同時，公司表示，目前電子元器件產業景氣度高企，產業鏈各環節的價格普遍上漲，價格上漲的原因包括AI算力基建帶來的增量需求和對產能的虹吸效應，物料和生產成本的上漲，地緣政治衝突、逆全球化對供應鏈擾動的影響等。"
-    },
-    {
-      "id": "mkt:019f9286-f1f6-7aab-8e7b-0466d139ffb3",
-      "time": "2026-07-24 13:09:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A South Korean court ordered SK Group chairman Chey Tae-won to pay his ex-wife KRW 944 billion."
-    },
-    {
-      "id": "5005977",
-      "time": "2026-07-24 13:08:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部辦公廳印發2026年度國家工業節能監察任務清單】工信部官網訊息，按照《工業和資訊化部辦公廳關於組織開展2026年度工業節能監察工作的通知》（工信廳節函〔2026〕221號，以下簡稱《通知》），在省級工業和資訊化主管部門報送的監察計劃和任務清單基礎上，我部確定了2026年度工業節能監察任務3874家企業，包括鋼鐵、合成氨、煉油、乙烯、燒鹼、純鹼、甲醇、聚氯乙烯、電解鋁、工業矽、水泥、平板玻璃、建築和衛生陶瓷、算力設施等重點行業領域能效監察2739家企業；光伏、風電機組、動力和儲能電池、水電解制氫裝備等重點產業鏈能效監察976家；2025年度違規企業整改落實情況“回頭看”監察159家企業。"
-    },
-    {
-      "id": "mkt:019f9286-1e87-7aab-8e7a-f9f04d64ff51",
-      "time": "2026-07-24 13:08:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "CSI300"
-      ],
-      "text": "【MIIT office issues 2026 national industrial energy‑efficiency inspection task list】Under a MIIT notice and based on provincial submissions, the Ministry of Industry and Information Technology’s office has designated 3,874 enterprises for 2026 industrial energy‑efficiency inspections. Of these, 2,739 are in energy‑intensive sectors — steel, synthetic ammonia, refining, ethylene, caustic soda, soda ash, methanol, PVC, electrolytic aluminum, industrial silicon, cement, flat glass, building and sanitary ceramics, and computing‑power facilities — and 976 are in key industrial chains, including photovoltaic, wind turbines, power and storage batteries, and water‑electrolysis hydrogen equipment. The plan also covers 159 firms for follow‑up inspections of 2025 non‑compliance rectification."
-    },
-    {
-      "id": "5005976",
-      "time": "2026-07-24 13:07:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【據報伊朗防空系統擊落一飛行器】當地時間今天（7月24日）凌晨，美軍對伊朗連續第13晚發動襲擊。美軍中央司令部稱，在持續兩個多小時的行動中，重點打擊了伊朗的軍事指揮中心、無人機儲存設施、通訊網路、海岸監視站點及海上作戰能力，旨在進一步削弱伊朗對經霍爾木茲海峽通行的平民船員和商業船隻構成的威脅。據伊朗媒體報道，伊朗南部霍爾木茲甘省、西南部胡齊斯坦省，以及中部亞茲德省、中央省等多地傳出爆炸聲。 首都德黑蘭的防空系統啟動，應對“敵對”空中威脅。 據報道，位於波斯灣的伊朗最大島嶼格什姆島，防空系統擊落一架飛行器。"
-    },
-    {
-      "id": "5005975",
-      "time": "2026-07-24 13:07:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國法院：SK集團會長崔泰源被判在財產分割中向前妻支付9440億韓元。"
-    },
-    {
-      "id": "mkt:019f9285-0a7f-7aab-8e7a-f2d8acd0c0f7",
-      "time": "2026-07-24 13:07:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Karen Hao, author of new book AI Empire, says current AI development is concentrated in a few large tech firms; pursuit of breakthroughs risks data, energy, environmental and labor pressures and may widen economic inequality. She urges attention to the industry’s underlying power structures rather than focusing solely on technological progress."
-    },
-    {
-      "id": "5005974",
-      "time": "2026-07-24 13:06:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大皇家銀行將洛克希德·馬丁公司目標價從575美元上調至600美元。"
-    },
-    {
-      "id": "te:economy:569576",
-      "time": "2026-07-24 13:06:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "India Services Sector Growth Weakest Since 2022 — The HSBC India Services PMI declined to 53.1 in July 2026 from a final 57.4 in the previous month, preliminary estimates showed. It was the softest expansion in the services sector since February 2022, as growth in both output and new orders slowed, with the rates of expansion retreating sharply from June to their weakest levels in 53 months."
-    },
-    {
-      "id": "5005973",
-      "time": "2026-07-24 13:05:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貿仲上半年受理案件平均爭議金額同比增25.3%】記者在今天舉辦的中國國際經濟貿易仲裁委員會成立七十週年座談會上瞭解到，今年上半年，貿仲受理外方當事人訴外方當事人的案件38件，爭議金額人民幣14.72億元，同比增長356%。同時，上半年受理案件的個案平均爭議金額同比增長25.3%，體現出貿仲正在成為高價值、複雜商業爭議的優選機構，這將更好推動我國建設國際商事糾紛解決優選地。"
-    },
-    {
-      "id": "5005972",
-      "time": "2026-07-24 13:05:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國—國際可再生能源署（IRENA）合作專項工作組換屆及擴容結果公佈】國家能源局公告，為深化中國與國際可再生能源署（IRENA）務實合作，2026年3月，國家能源局釋出公告，對中國—IRENA“1+1+N”（1個合作指導委員會、1個合作辦公室和N個合作專項工作組）合作機制下首批能源轉型、水電、太陽能、氫能、電網5個專項工作組進行換屆，並增設儲能、風能、教育與青年3個專項工作組，面向社會公開徵集新一屆組成單位。經自主申報、協商確認和擇優遴選，現將新一屆組成單位名單予以公佈，其中各組長（副組長）單位任期3年，自發布之日起。"
-    },
-    {
-      "id": "5005971",
-      "time": "2026-07-24 13:04:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【採購經理人指數顯示：印度7月私營部門擴張速度跌至四年多低點】一項調查資料顯示，儘管出口訂單增加、用工擴張帶來小幅支撐，但服務業大幅降溫拖累整體經濟，印度7月私營部門經濟活動擴張速度創下四年多來新低。標普全球編制的滙豐印度綜合採購經理人指數（初值）7月錄得54.3，低於6月的57.1；此前調查分析師預期中值為升至57.7，實際資料與市場預期相悖。不過該指數仍高於榮枯分界線50，代表經濟維持擴張態勢。出口訂單表現亮眼，海外訂單增速創下3月以來新高。"
-    },
-    {
-      "id": "mkt:019f9282-1ddb-7aab-8e7a-e96fbb67c049",
-      "time": "2026-07-24 13:03:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A‑share storage chip sector rebounded in the afternoon. Tuolunsi surged over 15%, Zhichun Technology hit the daily limit, Zhengfan Technology rose more than 9%; Tongfu Microelectronics, Jingce Electronics, Qiangyi Co., Shen Technology and Tuojing Technology also advanced. Changxin Technology is scheduled to list on the Shanghai Stock Exchange STAR Market on July 27, 2026."
-    },
-    {
-      "id": "te:economy:569574",
-      "time": "2026-07-24 13:02:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "India Composite PMI Slips to Over 4-Year Low — India’s HSBC Composite PMI dropped to 54.3 in July 2026 from a final 57.1 in the previous month, flash data showed. It was the lowest reading since March 2022, reflecting the impact of persistent hostilities in the Middle East."
     }
   ]
 }
