@@ -1,7 +1,121 @@
 {
-  "updated": "2026-07-31 23:49:56",
-  "count": 17973,
+  "updated": "2026-07-31 23:58:05",
+  "count": 17974,
   "items": [
+    {
+      "id": "mkt:019fb8e4-cc57-7aab-8f3a-7021db419af6",
+      "time": "2026-07-31 23:57:09",
+      "tags": [
+        "MKT News",
+        "CVX.N",
+        "Impact bullish"
+      ],
+      "text": "Chevron (CVX.N) CFO says he expects Venezuelan debt to be recovered by early next year."
+    },
+    {
+      "id": "5019741",
+      "time": "2026-07-31 23:56:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍：預計到2027年年度將收回在委內瑞拉的債務。"
+    },
+    {
+      "id": "5019740",
+      "time": "2026-07-31 23:54:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "雪佛龍CEO： 目前難以找到需求出現長期性結構性萎縮的證據。歐洲柴油需求可能會增長。預計第三季度產品價格將面臨一定的上行壓力。"
+    },
+    {
+      "id": "mkt:019fb8e1-e400-7aab-8f3a-6fe1b4689f0b",
+      "time": "2026-07-31 23:53:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CVX.N",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Chevron (CVX.N) CEO said it is currently difficult to find evidence of a long-term structural decline in oil demand."
+    },
+    {
+      "id": "te:markets:571826",
+      "time": "2026-07-31 23:53:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls on Friday, Still Logs Monthly Gain — The FTSE 100 edged lower on Friday due to weakness in heavyweight consumer goods, healthcare, and banking stocks. Unilever dropped more than 2%, while AstraZeneca and GSK each declined around 0.5%. Major lenders HSBC Holdings and Lloyds Banking also fell. IAG fell more than 1% after reporting second-quarter revenue below expectations, reflecting the impact of ongoing disruption from the Middle East conflict on air travel. In contrast, NatWest surged more than 4% after raising its full-year guidance and indicating it could launch additional share buybacks. Sainsbury's gained around 2% after announcing the sale of its Argos business. Energy stocks also advanced, with BP and Shell rising between 1.3% and 1.8% as oil prices extended their sharp monthly rally of more than 20%. Despite Friday's decline, the FTSE 100 finished the week up more than 1% and posted a monthly gain of roughly 3.5%, its strongest performance since February."
+    },
+    {
+      "id": "5019739",
+      "time": "2026-07-31 23:53:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，金山雲漲8.19%，中進醫療漲7.33%，網易有道漲5.50%，叮咚買菜漲4.75%，中汽系統漲4.67%。"
+    },
+    {
+      "id": "mkt:019fb8e1-a5f5-7aab-8f3a-65ca300ffc01",
+      "time": "2026-07-31 23:53:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "CVX.N",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Chevron (CVX.N) CEO says European diesel demand may rise."
+    },
+    {
+      "id": "5019738",
+      "time": "2026-07-31 23:53:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沒有資訊顯示國際刑事法院正在追查我。"
+    },
+    {
+      "id": "mkt:019fb8e1-80c0-7aab-8f3a-594dd8146f5e",
+      "time": "2026-07-31 23:53:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "CVX.N"
+      ],
+      "text": "Chevron (CVX.N) CEO expects product prices to face some upward pressure in Q3."
+    },
+    {
+      "id": "mkt:019fb8e1-43e5-7aab-8f3a-57893a872558",
+      "time": "2026-07-31 23:53:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Strait of Hormuz daily vessel transits drop to five】Shipping information platform MarineTraffic published data on July 31 showing vessel transits through the Strait of Hormuz on July 30 fell to five from 22 the previous day, a 77% decline. The platform reports all five transits used the Iran-side channel."
+    },
+    {
+      "id": "5019737",
+      "time": "2026-07-31 23:53:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 伊朗還剩下一部分導彈，但其存量遠少於四五個月之前。 他們的製造產能幾乎耗盡，無人機生產能力也基本不復存在。 不過，伊朗仍保有少量相關裝備。"
+    },
     {
       "id": "mkt:019fb8dd-3459-7aab-8f3a-4a6e4be81727",
       "time": "2026-07-31 23:48:52",
@@ -166351,106 +166465,6 @@
         "其他"
       ],
       "text": "初步裝運計劃資料顯示，奈及利亞四種主要原油品級 9 月出口量預估均值為 95.2 萬桶 / 日，8 月為 76.3 萬桶 / 日。"
-    },
-    {
-      "id": "te:markets:569825",
-      "time": "2026-07-24 23:57:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "US Dollar Index Eases from 15-Month High — The US dollar index was at 101.3, halting the rally that topped at a one-month high of 101.5 on July 23rd, as a slight pullback in energy prices softened growing bets that the Federal Reserve could deliver a rate hike this month. Still, the index remained only 0.3% away from the 15-month high touched late June amid the sustained consensus that the central bank will still deliver a rate hike this year. Energy inflation concerns regained momentum after an escalation to the war between the US and Iran resulted in blockades for energy tankers in the Persian Gulf and Red Sea, lifting oil and fuel prices. The inflationary risks were combined with robust economic data, adding leeway for higher rates. PMI data from the S&P showed that private sector activity grew the most this year. Also, initial unemployment claims fell the most in nearly six decades last week, consolidating the robust momentum of the labor market."
-    },
-    {
-      "id": "mkt:019f94d7-835c-7aab-8e8c-12c079bfb643",
-      "time": "2026-07-24 23:56:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Interfax: Russia said it struck facilities at Ukraine's Odesa and Pivdennyi ports."
-    },
-    {
-      "id": "5007385",
-      "time": "2026-07-24 23:55:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯稱已打擊敖德薩、皮夫傑尼港口相關設施。"
-    },
-    {
-      "id": "mkt:019f94d6-4fc9-7aab-8e8c-0a2e73382148",
-      "time": "2026-07-24 23:55:00",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Interfax reports Kazakhstan has frozen assets of the Kashagan operator."
-    },
-    {
-      "id": "te:markets:569824",
-      "time": "2026-07-24 23:54:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Ends Higher — The FTSE MIB rose 0.9% to 51,802 on Friday, as inflation concerns eased, driven by lower oil prices, and lifted financial stocks. Financials led gains, with BPER Banca rising 2.8% as sovereign bond yields stabilized following a retreat in oil prices, easing inflation concerns and offsetting the impact of newly announced US global tariffs. Intesa Sanpaolo, Banco BPM, Mediobanca, and BMPS all gained more than 2%. UniCredit advanced 1.5% after Commerzbank confirmed that discussions will resume next month, following the Italian lender's acquisition of a likely controlling stake, helping alleviate investor concerns over delays to its share buyback program. STMicroelectronics fell 2.4%, extending a near 18% plung in the last session after missing estimates, with AI overspending concerns continuing to weigh. Poste Italiane led declines, falling 3.7%, followed by Telecom Italia (-2.7%), after Poste unveiled plans for a new AI-focused data centre in partnership with the telecom operator."
-    },
-    {
-      "id": "5007384",
-      "time": "2026-07-24 23:54:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國家航空航天局（NASA）將為藍色起源公司新格倫重型火箭提供測試配套支援。"
-    },
-    {
-      "id": "te:markets:569823",
-      "time": "2026-07-24 23:54:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX 40 Rebounds on Friday — The DAX 40 advanced more than 1% to above 25,100 on Friday, rebounding from a near one-month low as investors welcomed strong corporate earnings and better-than-expected PMI data. Sentiment also improved late in the European session after oil prices retreated on reports that Pakistan was seeking to revive US-Iran peace talks. Meanwhile, markets continued to assess the impact of new US tariffs imposed on imports from 60 trading partners, including the European Union. The latest S&P Global survey showed Eurozone business activity returned to growth in July, exceeding expectations, with Germany leading the recovery. SAP surged 10% after reporting stronger-than-expected quarterly revenue, driven by solid cloud backlog growth and robust demand for its AI platform, while Atoss Software gained almost 10% on strong cloud-related results. In contrast, Adidas fell 1.5%, and Volkswagen dropped 2.4% after weaker earnings and a lower revenue outlook. For the week, the German index rose 1.1%."
-    },
-    {
-      "id": "5007382",
-      "time": "2026-07-24 23:51:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【孟加拉國議長擔任代理總統】孟加拉國國民議會秘書處24日向媒體證實，總統穆罕默德·謝哈布丁·楚普辭職後，國民議會議長哈菲茲·烏丁·艾哈邁德擔任代理總統。孟加拉國總統新聞秘書薩瓦爾·阿拉姆當日向新華社記者證實，楚普當天向國民議會議長提交辭呈。據媒體報道，楚普在辭呈中表示，由於身患多種疾病，他需要接受長期治療，無法繼續履行總統這一重要職務。楚普出生於1949年，2023年2月作為當時執政的人民聯盟提名的唯一候選人當選總統，同年4月宣誓就職，任期原定為5年。孟加拉國實行議會制，總統為名義上的國家元首。根據孟加拉國憲法，總統職位空缺後，國民議會議長將代行總統職權，直至選出新總統。(新華社)"
-    },
-    {
-      "id": "5007381",
-      "time": "2026-07-24 23:50:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本任命國家情報局首任局長】日本將於7月31日成立“國家情報局”。日本政府7月24日在內閣會議上決定，該機構首任局長選定內閣情報官原和也。日本“國家情報局”由內閣情報調查室升級而來，除負責統籌各省廳的情報部門外，還將承擔情報活動的實際執行工作。中國社科院日本問題專家呂耀東分析指出，日本“國家情報局”的設立及其人事安排，本質上是日本右翼勢力為突破戰後和平憲法、實現軍事擴張和地緣政治野心所進行的一次關鍵佈局，對於地區和平穩定必將構成現實威脅。（ CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f94d1-fc3a-7aab-8e8c-009fe00d2e7e",
-      "time": "2026-07-24 23:50:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China foreign minister Wang Yi meets Russian foreign minister Lavrov】China foreign minister Wang Yi met Russian foreign minister Lavrov on the 24th on the sidelines of the Shanghai Cooperation Organization foreign ministers' meeting in Kyrgyzstan. They agreed to follow leaders' consensus, pursue independent development and deepen comprehensive strategic coordination and mutual trust, and to plan further high-level exchanges to sustain pragmatic cooperation. Wang called for strengthened strategic coordination to safeguard World War II victory outcomes and said Japan must not be allowed to rearm. He also urged closer multilateral coordination, expecting continued Russian support for APEC’s China Year activities and reciprocal backing in the United Nations and other multilateral forums."
     }
   ]
 }
