@@ -1,7 +1,24 @@
 {
   "date": "2026-08-01",
-  "count": 149,
+  "count": 151,
   "items": [
+    {
+      "id": "mkt:019fb97d-7c91-7aab-8f3c-af0299857937",
+      "time": "2026-08-01 02:43:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's central bank left the policy rate unchanged at 12%, with the decision backed by a majority of the seven-member board."
+    },
+    {
+      "id": "5019807",
+      "time": "2026-08-01 02:42:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行維持隔夜利率不變，利率水平為 12.00%。"
+    },
     {
       "id": "5019806",
       "time": "2026-08-01 02:37:11",

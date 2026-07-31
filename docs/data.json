@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-01 02:40:39",
+  "updated": "2026-08-01 02:44:52",
   "count": 17958,
   "items": [
+    {
+      "id": "mkt:019fb97d-7c91-7aab-8f3c-af0299857937",
+      "time": "2026-08-01 02:43:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's central bank left the policy rate unchanged at 12%, with the decision backed by a majority of the seven-member board."
+    },
+    {
+      "id": "5019807",
+      "time": "2026-08-01 02:42:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行維持隔夜利率不變，利率水平為 12.00%。"
+    },
     {
       "id": "5019806",
       "time": "2026-08-01 02:37:11",
@@ -166261,26 +166278,6 @@
         "國際"
       ],
       "text": "據伊朗國家電視臺（IRIB）：今日下午，美軍向一艘從阿曼灣駛入該海域的液化石油氣運輸船發射兩枚導彈。這艘油輪遭襲擊的原因是美軍誤判其裝載伊朗天然氣。此次襲擊造成兩名船員遇難，船舶機艙受損，船隻已徹底喪失航行能力。"
-    },
-    {
-      "id": "mkt:019f9570-72ba-7aab-8e8e-713dcd92d808",
-      "time": "2026-07-25 02:43:22",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Iranian media Fars News reports several explosions in northern Kuwait."
-    },
-    {
-      "id": "mkt:019f956d-fa47-7aab-8e8e-6ce0b0f0edcc",
-      "time": "2026-07-25 02:40:40",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Musk said Grok 4.6 will be released in two weeks and Grok 4.7 in four weeks."
     }
   ]
 }
