@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-01 04:17:32",
-  "count": 17922,
+  "updated": "2026-08-01 04:21:26",
+  "count": 17923,
   "items": [
+    {
+      "id": "5019912",
+      "time": "2026-08-01 04:19:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【華爾街自2020年以來最大規模資金輪動，暴露AI交易擁擠風險】華爾街在經歷了人工智慧（AI）繁榮中最劇烈的一週後迎來了試探性復甦。此前科技股遭遇重挫、長期借貸成本飆升，隨後市場又出現了決定性的反彈。本週的動盪部分是由對沖基金Situational Awareness在槓桿AI押注中遭受虧損所引發的，該基金被迫在下跌的市場中拋售公開股票。"
+    },
+    {
+      "id": "5019911",
+      "time": "2026-08-01 04:19:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通：售股股東擬轉售從模組化交易收購中獲得的最多17,826,566股股份。"
+    },
+    {
+      "id": "5019910",
+      "time": "2026-08-01 04:19:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 擴大對入侵 Hugging Face 事件的調查範圍。"
+    },
+    {
+      "id": "5019909",
+      "time": "2026-08-01 04:17:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【非美貨幣7月份普遍上漲，挪威克朗漲超4.5%、紐元漲超3.8%】週五（7月31日）紐約尾盤，歐元兌美元持平、整體呈現出V形反轉、北京時間21:40跌至1.1455重新整理日低，7月份累計上漲0.95%，7月29-30日顯著上漲。英鎊兌美元漲0.10%、21:40也曾重新整理日低至1.34，7月份累漲1.65%，7月15日、29-30日顯著走高。美元兌瑞郎漲0.42%、22:08曾重新整理日高至0.8129，7月份大致持平。7月份，商品貨幣對中，澳元兌美元累漲1.77%，紐元兌美元累漲3.83%，美元兌加元累跌1.29%。瑞典克朗兌美元累漲1.91%，挪威克朗兌美元累漲4.52%，丹麥克朗兌美元累漲0.91%。波蘭茲羅提兌美元累漲0.71%，美元兌匈牙利福林累跌1.64%。印度盧比兌美元累跌0.77%，土耳其里拉兌美元累跌1.85%，南非蘭特兌美元累跌0.84%，墨西哥比索兌美元累漲0.95%，巴西雷亞爾兌美元累漲1.74%。"
+    },
     {
       "id": "5019908",
       "time": "2026-08-01 04:17:00",
@@ -165931,33 +165964,6 @@
         "其他"
       ],
       "text": "葉門胡塞武裝旗下媒體：沙特空襲目標指向卡馬蘭島（位於葉門紅海海岸，是紅海上的一個重要戰略島嶼）。"
-    },
-    {
-      "id": "mkt:019f95c8-e5ec-7aab-8e90-5bc6c60221c4",
-      "time": "2026-07-25 04:19:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Peru, Venezuela begin process to restore bilateral relations】Peru and Venezuela issued a joint communique on July 24 launching a gradual process to fully restore bilateral relations. They agreed to first restore consular relations to ensure citizens residing in each country receive consular protection and services. On July 30, 2024 Peru refused to recognize the Venezuelan presidential election results, after which Venezuela severed diplomatic ties with Peru."
-    },
-    {
-      "id": "5007576",
-      "time": "2026-07-25 04:19:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗和阿曼就霍爾木茲海峽問題舉行會談】據伊朗伊斯蘭共和國通訊社24日報道，阿曼外交代表團當天抵達伊朗首都德黑蘭，就霍爾木茲海峽管理問題舉行會談。報道稱，此訪旨在建立霍爾木茲海峽海上交通管理的適當機制。另據伊朗媒體報道，伊朗外長阿拉格齊24日晚間與阿曼外交大臣巴德爾通電話，討論近期地區局勢、霍爾木茲海峽和波斯灣商業航運安全等問題。(新華社)"
-    },
-    {
-      "id": "mkt:019f95c7-a324-7aab-8e90-52115975f38d",
-      "time": "2026-07-25 04:18:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Hormuz Strait traffic drops; Bab al-Mandeb transits rebound】Kpler said on the 24th that traffic diverged at two Middle East chokepoints on the 23rd. The Strait of Hormuz recorded six transits, down 60% from the prior day; all but one vessel used Iran-designated channels. Bab al-Mandeb saw 49 transits, above earlier levels, including four vessels that switched off their AIS for “dark” passage. Kpler said some ships that had turned back from the Red Sea/Gulf of Aden over security concerns have since resumed and completed transit, while others remain waiting. Shipping companies are continuing to assess regional security; overall activity shows a cautious, selective recovery."
     }
   ]
 }
