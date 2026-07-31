@@ -1,7 +1,94 @@
 {
   "date": "2026-08-01",
-  "count": 300,
+  "count": 309,
   "items": [
+    {
+      "id": "5019927",
+      "time": "2026-08-01 04:32:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什本週提出調整會議日程的設想。"
+    },
+    {
+      "id": "5019926",
+      "time": "2026-08-01 04:32:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "QUESTERRE ENERGY：PX能源設施發生加熱爐管道嚴重破裂，已停產停產預計將持續三至四周，將造成產量損失與營收損失。整改工作直接成本預估為150萬加元。"
+    },
+    {
+      "id": "5019925",
+      "time": "2026-08-01 04:31:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克淨資產跌至6840億美元，SpaceX上市帶來的賬面收益盡數蒸發。"
+    },
+    {
+      "id": "5019924",
+      "time": "2026-08-01 04:31:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "沃什考慮減少美聯儲政策會議的頻率。"
+    },
+    {
+      "id": "5019923",
+      "time": "2026-08-01 04:30:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱，憑藉海上封鎖行動，已迫使八艘沙特油輪改道繞行好望角。"
+    },
+    {
+      "id": "mkt:019fb9de-48a3-7aab-8f3d-babadf80f9f5",
+      "time": "2026-08-01 04:29:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Amazon",
+        "Microsoft",
+        "AMZN.O",
+        "Impact bullish",
+        "MSFT.O",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "【Amazon eases AI-capex fears; major US indexes end higher】Major US equity indices closed higher on Friday as Amazon (AMZN.O) surged more than 15% after reporting its largest quarterly revenue gain in over four years. Amazon’s results, alongside a similar Microsoft (MSFT.O) report on Wednesday, eased investor concerns about potential overinvestment in AI data-center capacity. Longbow Asset Management CEO Jake Dollarhide said the reports dispelled worries that Amazon’s spending was a risky 'moonshot.' Apple (AAPL.O) fell 7.4% after warning that supply constraints will weigh on growth, reviving concerns that recent iPhone price increases could damp consumer demand."
+    },
+    {
+      "id": "5019922",
+      "time": "2026-08-01 04:29:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "新興市場股票指數收盤上漲6.6%，創2008年以來最佳單日表現。"
+    },
+    {
+      "id": "5019921",
+      "time": "2026-08-01 04:29:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃姆科：美國礦山安全與健康管理局向 MOR PPM 作業單元下發即刻危險勒令； 暫無人員受傷。"
+    },
+    {
+      "id": "5019920",
+      "time": "2026-08-01 04:29:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 各類物價大幅回落，只有石油除外。兩週前市場認為我們即將達成協議時，油價曾直線下跌。 但我們想要一份真正的協議，我不接受虛假協議。"
+    },
     {
       "id": "te:markets:571853",
       "time": "2026-08-01 04:26:43",
