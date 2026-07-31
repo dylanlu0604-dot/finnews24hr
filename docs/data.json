@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-01 01:52:02",
-  "count": 17979,
+  "updated": "2026-08-01 01:55:58",
+  "count": 17980,
   "items": [
+    {
+      "id": "mkt:019fb950-bd1f-7aab-8f3c-7155bdfdb004",
+      "time": "2026-08-01 01:55:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House official Gorka said no armed drones were detected during FIFA World Cup events."
+    },
+    {
+      "id": "mkt:019fb950-b7c5-7aab-8f3c-6a57a9ae757a",
+      "time": "2026-08-01 01:55:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian government: Deputy Foreign Minister Abbas Araghchi held a phone call with India's foreign minister to discuss bilateral ties and recent regional developments."
+    },
+    {
+      "id": "5019797",
+      "time": "2026-08-01 01:54:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮官員：世界盃賽事舉辦期間沒有查獲任何武器化無人機。"
+    },
     {
       "id": "mkt:019fb94c-7e8a-7aab-8f3c-608e3d802b65",
       "time": "2026-08-01 01:50:25",
@@ -166482,23 +166506,6 @@
         "國際"
       ],
       "text": "塞爾維亞總統武契奇：美國已經對我國產品取消（加徵）35%的關稅。塞美將談判新的關稅，稅率可能會（低至）10%-12%。"
-    },
-    {
-      "id": "5007449",
-      "time": "2026-07-25 01:55:42",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根士丹利：如果SpaceX股價跌至10%，將意味著該公司的人工智慧（AI）毫無價值。"
-    },
-    {
-      "id": "5007448",
-      "time": "2026-07-25 01:55:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所（ICE）：7月21日當週，對沖基金所持ICE布倫特原油淨多頭頭寸增加22,192手合約，至192,031手合約，創六週新高。"
     }
   ]
 }
