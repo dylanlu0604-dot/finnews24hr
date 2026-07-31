@@ -1,7 +1,175 @@
 {
-  "updated": "2026-08-01 00:03:20",
-  "count": 17967,
+  "updated": "2026-08-01 00:11:30",
+  "count": 17971,
   "items": [
+    {
+      "id": "te:markets:571832",
+      "time": "2026-08-01 00:10:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.46% Higher — The CAC 40 Index rose 39 points or 0.46 percent on Friday to close at 8525 points. Leading the gains are TP (10.63%), Saint-Gobain (6.96%) and ENGIE (3.99%). Top losers were Veolia (-3.18%), Orange (-2.97%) and Accor (-2.92%)."
+    },
+    {
+      "id": "5019749",
+      "time": "2026-08-01 00:08:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿根廷與韓國簽署關鍵礦物合作協議。"
+    },
+    {
+      "id": "5019748",
+      "time": "2026-08-01 00:08:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們自 2025 年 3 月啟動相關行動。2025 年 12 月，伊朗最大銀行宣告倒閉。伊朗央行不得不印鈔，進而引發通脹。如今伊朗已經無力支付軍隊薪餉。"
+    },
+    {
+      "id": "5019747",
+      "time": "2026-08-01 00:07:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "索尼：《蜘蛛俠》點映票房創下史上最高紀錄，達 7200 萬美元。"
+    },
+    {
+      "id": "mkt:019fb8ee-2680-7aab-8f3a-b4728895b07e",
+      "time": "2026-08-01 00:07:22",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "U.S. Treasury Secretary said core inf remains low and consumer confidence is strong."
+    },
+    {
+      "id": "te:markets:571831",
+      "time": "2026-08-01 00:07:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.16% Lower — The FTSE 100 Index dropped 18 points or 0.16 percent on Friday to close at 10879 points. Losses were led by IG Group Holdings (-8.56%), Melrose (-4.25%) and Experian (-3.21%). Offsetting the fall, top gainers were Natwest (4.53%), Centrica (2.11%) and BAE Systems (2.02%)."
+    },
+    {
+      "id": "mkt:019fb8ed-8d49-7aab-8f3a-a9cd30e3bee1",
+      "time": "2026-08-01 00:06:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary said funds tied to Iran will be used for the Iranian people."
+    },
+    {
+      "id": "mkt:019fb8ed-6571-7aab-8f3a-a66edc1fcede",
+      "time": "2026-08-01 00:06:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary on Iran said the department is searching for Iranian assets worldwide."
+    },
+    {
+      "id": "5019746",
+      "time": "2026-08-01 00:06:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊朗無力支付軍薪，美國正在搜尋其資產。"
+    },
+    {
+      "id": "mkt:019fb8ec-8dd7-7aab-8f3a-9caa5e7f5c08",
+      "time": "2026-08-01 00:05:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CENTCOM says Iran's claim to have closed the Strait of Hormuz is false. The strait remains open to commercial shipping and is not under Iranian control. Thousands of vessels transited the international waterway over the past four months."
+    },
+    {
+      "id": "5019745",
+      "time": "2026-08-01 00:05:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "休達移民危機爆發後，義大利暫停歐盟申根區與西班牙之間的自由通行機制。"
+    },
+    {
+      "id": "5019744",
+      "time": "2026-08-01 00:04:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：伊朗政府再度宣稱已封鎖霍爾木茲海峽。此說法不實。事實是，霍爾木茲海峽仍對商業船舶開放通航。伊朗無法掌控該海峽。過去四個月已有數千艘船隻經由這條國際航道通行。"
+    },
+    {
+      "id": "5019743",
+      "time": "2026-08-01 00:03:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：核心通脹處於低位，消費者信心強勁。"
+    },
+    {
+      "id": "mkt:019fb8ea-5db6-7aab-8f3a-97a624c104a0",
+      "time": "2026-08-01 00:03:14",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Italy said it has suspended the EU Schengen free-movement agreement with Spain following the Ceuta migrant crisis."
+    },
+    {
+      "id": "mkt:019fb8e9-e19a-7aab-8f3a-8a8c8110d6da",
+      "time": "2026-08-01 00:02:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hegseth said the Pentagon's enlistment records are refreshed every month."
+    },
+    {
+      "id": "te:markets:571830",
+      "time": "2026-08-01 00:02:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Credit Agricole earnings above expectations at 0.59 EUR — Credit Agricole (ACA) released earnings per share at 0.59 EUR, compared to market expectations of 0.58 EUR."
+    },
+    {
+      "id": "5019742",
+      "time": "2026-08-01 00:01:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞斯談及維特科夫： 我們擁有全球最頂尖的談判專家。"
+    },
     {
       "id": "te:markets:571829",
       "time": "2026-08-01 00:00:48",
@@ -166283,135 +166451,6 @@
         "Importance 1"
       ],
       "text": "The FTSE MIB Index Closes 0.95% Higher — The FTSE MIB Index gained 486 points or 0.95 percent on Friday to close at 51802 points. Gains were led by Bper Banca (2.75%), Brunello Cucinelli (2.54%) and Intesa Sanpaolo (2.27%). Biggest losers were Poste Italiane (-3.32%), Telecom Italia (-2.26%) and STMicroelectronics (-1.96%)."
-    },
-    {
-      "id": "5007397",
-      "time": "2026-07-25 00:11:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行首席經濟學家連恩： 歐元區經濟正遭遇中等程度衝擊。"
-    },
-    {
-      "id": "te:markets:569831",
-      "time": "2026-07-25 00:11:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 1.36% Higher — The DAX Index went up by 336 points or 1.36 percent on Friday to close at 25099 points. The rise was led by SAP (10.07%), Siemens Healthineers (2.81%) and Fresenius (2.22%)."
-    },
-    {
-      "id": "te:markets:569830",
-      "time": "2026-07-25 00:10:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.79% Higher — The CAC 40 Index rose 66 points or 0.79 percent on Friday to close at 8365 points. Leading the gains are Dassault Systemes (7.90%), Capgemini (4.44%) and Safran (2.66%). Top losers were Carrefour (-4.85%), STMicroelectronics (-2.14%) and Thales (-1.13%)."
-    },
-    {
-      "id": "5007396",
-      "time": "2026-07-25 00:09:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：哈塔姆安比亞基地指揮官表態稱，每犧牲一名伊朗公民，就會有一名美國人付出生命代價。"
-    },
-    {
-      "id": "te:markets:569829",
-      "time": "2026-07-25 00:07:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.93% Higher — The FTSE 100 Index gained 99 points or 0.93 percent on Friday to close at 10738 points. Gains were led by Relx (4.94%), The Sage Group (4.44%) and Experian (4.03%). Biggest losers were Airtel Africa (-3.30%), Vodafone (-1.59%) and BP (-1.36%)."
-    },
-    {
-      "id": "5007394",
-      "time": "2026-07-25 00:07:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "高通表示已無力繼續消化持續上漲的各項成本。"
-    },
-    {
-      "id": "mkt:019f94e1-333f-7aab-8e8c-57ae906720c0",
-      "time": "2026-07-25 00:06:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's Fars News cited sources linked to Yemen's maritime authority saying nearly all commercial vessels transiting the Bab al-Mandeb Strait are complying with directives from Yemeni naval forces."
-    },
-    {
-      "id": "5007393",
-      "time": "2026-07-25 00:05:58",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "高通告知客戶產品價格將迎來兩位數百分比漲幅。"
-    },
-    {
-      "id": "5007392",
-      "time": "2026-07-25 00:05:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：葉門航運管理部門相關知情人士稱，幾乎所有途經曼德海峽的商船均遵守葉門海軍部隊的相關規定。"
-    },
-    {
-      "id": "5007391",
-      "time": "2026-07-25 00:04:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國駐歐盟使團發言人就歐盟第21輪對俄羅斯制裁列單制裁中國企業事答記者問】中國駐歐盟使團發言人就歐盟第21輪對俄羅斯制裁列單制裁中國企業事答記者問。問：2026年7月23日，歐盟透過第21輪對俄羅斯制裁方案，新增列單制裁中國企業。中方對此有何評論？ \n答：歐方不顧中方堅決反對和多次嚴正交涉，在第21輪對俄羅斯制裁中新增列單制裁中方企業，中方對此強烈不滿、堅決反對，已再次向歐方提出嚴正交涉，並已採取相應措施，堅定維護中方企業正當權益。中國在烏克蘭危機問題上秉持客觀公正立場，堅持勸和促談，為推動政治解決烏克蘭危機發揮建設性作用。中方堅決反對歐方在烏克蘭危機問題上對中方甩鍋推責、汙衊抹黑，堅決反對歐方對中方企業和公民無端實施列單制裁。中方敦促歐方立即糾正錯誤做法，消除惡劣影響，以實際行動維護中歐關係大局。"
-    },
-    {
-      "id": "5007390",
-      "time": "2026-07-25 00:04:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭警告船東避開俄羅斯黑海港口，烏克蘭認為俄羅斯存在針對航運船隻實施挑釁行為的威脅。"
-    },
-    {
-      "id": "mkt:019f94df-0170-7aab-8e8c-4d6792be59b0",
-      "time": "2026-07-25 00:04:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI founder Altman said he hopes the U.S. prevails in open-source AI and also in proprietary AI models."
-    },
-    {
-      "id": "te:markets:569828",
-      "time": "2026-07-25 00:03:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Rises as Oil Rally Pauses — The CAC 40 rose 0.9% to close at 8,372 on Friday as easing oil prices cooled energy-driven inflation concerns. Lower bond yields supported financials and the broader market. Crédit Agricole gained 2.6%, Société Générale rose 1.9%, and BNP Paribas added 2.1% after reporting earnings and revenue above expectations. An ECB survey showed euro area inflation expectations remained broadly stable over the past three months, with inflation expected to slow sharply next year before returning to the 2% target in 2028. Meanwhile, France's private sector contraction eased in July, with the S&P Global Flash Services PMI rising to 49.8 from 46.8 in June, beating forecasts. Luxury stocks advanced, with LVMH up 1.8%, L'Oréal gaining 1.6%, Hermès rising 1.3%, and Kering adding 1.5%. In industrials, Airbus gained 0.8% and Safran climbed 2.6%, while Thales slipped 0.8% as investors took profits following its 5.1% surge in the previous session."
     }
   ]
 }
