@@ -1,7 +1,27 @@
 {
   "date": "2026-07-31",
-  "count": 3317,
+  "count": 3319,
   "items": [
+    {
+      "id": "5019699",
+      "time": "2026-07-31 23:12:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "利安德巴塞爾：預估有 600 萬噸聚乙烯產能遭遇損毀，該規模佔中東聚乙烯供應量的 20%–25%，受損產能 2027 年之前無法重啟。"
+    },
+    {
+      "id": "te:economy:571821",
+      "time": "2026-07-31 23:12:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Colombia Unemployment Rate Holds at 8% — Colombia's unemployment rate held steady at 8% in June 2026, unchanged from the previous month and slightly below market expectations of 8.1%. The unemployment rate stood at 9.9% for women and 6.6% for men, resulting in a gender gap of 3.3 percentage points. Across the country's 13 major metropolitan areas, the unemployment rate was 8.3%. The highest jobless rates were recorded in Quibdó (23.3%), Cartagena (13.2%), and Ibagué (12.8%), while Medellín Metropolitan Area (7.1%), Pereira Metropolitan Area (7.2%), and Villavicencio (7.9%) posted the lowest rates. The national employment rate stood at 59.4%. In the April-June 2026 period, the average unemployment rate was 8.3%."
+    },
     {
       "id": "mkt:019fb8b7-b57c-7aab-8f39-8477fbad9782",
       "time": "2026-07-31 23:07:54",
