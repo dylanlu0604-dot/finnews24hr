@@ -1,7 +1,121 @@
 {
   "date": "2026-07-31",
-  "count": 3022,
+  "count": 3034,
   "items": [
+    {
+      "id": "mkt:019fb857-e2e4-7aab-8f36-a87f532cffc4",
+      "time": "2026-07-31 21:23:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Market sources say the US Treasury has notified banks it may intervene in the yen market on Friday."
+    },
+    {
+      "id": "5019519",
+      "time": "2026-07-31 21:22:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍正洽談更多與資料中心合作的發電專案。"
+    },
+    {
+      "id": "5019518",
+      "time": "2026-07-31 21:22:26",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "據知情人士透露，美國財政部已通知各銀行，美方可能於週五在日元外匯市場進行干預。"
+    },
+    {
+      "id": "5019517",
+      "time": "2026-07-31 21:22:23",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "立景創新科技股份有限公司向港交所提交上市申請書，聯席保薦人為中信證券、中金公司。"
+    },
+    {
+      "id": "mkt:019fb857-1177-7aab-8f36-a3755763aa68",
+      "time": "2026-07-31 21:22:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Chevron's average daily production in Venezuela in 2026 was 280,000 bpd, up 17% YoY."
+    },
+    {
+      "id": "5019516",
+      "time": "2026-07-31 21:21:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍稱委內瑞拉產量到 2028 年有望升至每日 40 萬桶。"
+    },
+    {
+      "id": "mkt:019fb856-6596-7aab-8f36-9b26fe48390c",
+      "time": "2026-07-31 21:21:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot silver fell 3.00% intraday to $57.19/oz."
+    },
+    {
+      "id": "te:economy:571780",
+      "time": "2026-07-31 21:21:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Copper Production",
+        "Importance 1"
+      ],
+      "text": "Chile Copper Output Rebounds in June — Chile's copper production rose 5.1% year-on-year to 447,294 metric tons in June 2026, rebounding from a 12.9% decline in May. The increase was driven by higher ore processing at the country's major mining companies. The recovery in Chile, the world's largest copper producer, helped ease concerns over tightening global copper supply. Meanwhile, Chile's Mining Production Index rose 6% from a year earlier, supported by a 4.6% increase in metallic mining, a 14.5% rise in non-metallic mining, and a 4.3% gain in energy resources production."
+    },
+    {
+      "id": "5019513",
+      "time": "2026-07-31 21:21:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩真主黨：沙特不應落入美以專案的陷阱】黎巴嫩真主黨發表宣告，強烈譴責美國對伊拉克及其人民的傲慢襲擊，該襲擊導致多名人員死傷。宣告指出，此次針對伊拉克官方機構的公然且危險的侵略，且有阿拉伯國家參與，將為整個地區帶來極其危險的後果。此舉完全符合美以試圖破壞該地區穩定、使得中東進入分歧和衝突迴圈的利益。真主黨強調，基於沙烏地阿拉伯與伊拉克及其人民之間的睦鄰友好及歷史性兄弟關係，沙特本應利用對話和與伊拉克政府開啟外交溝通渠道來解決任何緊張或危機，而不是配合美以政策，陷入其破壞地區穩定、分裂地區團結的專案中。"
+    },
+    {
+      "id": "5019512",
+      "time": "2026-07-31 21:20:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍在委內瑞拉日產原油 28 萬桶，2026 年產量同比上升 17%。"
+    },
+    {
+      "id": "5019511",
+      "time": "2026-07-31 21:20:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報57.20美元/盎司。"
+    },
+    {
+      "id": "5019510",
+      "time": "2026-07-31 21:20:31",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國第二季度僱傭成本穩步增長 勞動力成本壓力依舊溫和】美國第二季度勞動力成本保持平穩增長，顯示就業市場對通脹壓力的推動作用依然有限。美國勞工統計局週五公佈的資料顯示，僱傭成本指數同比上漲3.4%。該指數衡量工資和福利成本的變化。不過，經通脹因素調整後，勞動報酬成本實際有所下降。按季度計算，僱傭成本指數環比上漲0.9%。美聯儲一直密切關注勞動力市場狀況。雖然第二季度初招聘活動較為強勁，但到季度末已逐漸放緩。週五公佈的資料表明，季度初招聘回暖並未明顯推高薪資增速，顯示勞動力市場整體仍大致處於供需平衡狀態。美聯儲主席凱文·沃什週三在宣佈維持利率不變後表示，“就業增長與勞動力規模基本保持同步，失業率變化不大。”另一份週四公佈的資料顯示，美國6月通脹有所降溫，但仍明顯高於美聯儲2%的目標。週五公佈的僱傭成本指數報告還顯示，截至6月的三個月，美國民間勞動者工資和薪金環比增長0.9%，同比增長3.2%。不過，經通脹調整後，工資和薪金同比實際下降。"
+    },
     {
       "id": "mkt:019fb853-f529-7aab-8f36-97711d70ff98",
       "time": "2026-07-31 21:18:57",
