@@ -1,7 +1,89 @@
 {
   "date": "2026-08-01",
-  "count": 265,
+  "count": 275,
   "items": [
+    {
+      "id": "mkt:019fb9cf-1c46-7aab-8f3d-79acde14d360",
+      "time": "2026-08-01 04:13:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IDF says it killed two Hamas officials in Gaza】Israeli Defense Forces (IDF) said in a July 31 statement that recent airstrikes in multiple locations in the Gaza Strip killed two Hamas officials. The IDF also said it carried out dozens of operations in the West Bank over the past week, arresting more than 200 Palestinians."
+    },
+    {
+      "id": "5019902",
+      "time": "2026-08-01 04:12:45",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "據美國證券交易委員會檔案，高盛私人信貸公司截至估值日接受要約股份資產淨值合計 2.9676 億美元，每股 24.57 美元。"
+    },
+    {
+      "id": "5019901",
+      "time": "2026-08-01 04:12:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "安進：部分資料已遭竊取，其中包括專有資料、患者受保護健康資訊及其他資訊。"
+    },
+    {
+      "id": "5019900",
+      "time": "2026-08-01 04:11:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（7月31日），彭博電動汽車價格回報指數漲0.16%，報3320.82點，本週累計上漲2.80%，7月份累計下跌6.80%，整體持續走低。"
+    },
+    {
+      "id": "mkt:019fb9cd-a33c-7aab-8f3d-75a416564cbf",
+      "time": "2026-08-01 04:11:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【Dollar index up 0.05% to 99.917 at New York FX close on 31st】The dollar index, measuring the dollar against six major currencies, rose 0.05% to 99.917 at the New York FX close on the 31st. EUR/USD 1.1531, down from 1.1535; GBP/USD 1.3482, up from 1.3476. USD/JPY 158.90, down from 158.93; USD/CHF 0.8082, up from 0.8040; USD/CAD 1.4019, up from 1.3996; USD/SEK 9.5193, up from 9.5189."
+    },
+    {
+      "id": "mkt:019fb9cd-8d8a-7aab-8f3d-6bf0a818a5b5",
+      "time": "2026-08-01 04:11:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil futures rise on 31st】At the close on the 31st, NYMEX September light sweet crude futures settled at $84.67/bbl, up $1.08 or 1.29%; ICE Brent September futures settled at $90.12/bbl, up $1.09 or 1.22%."
+    },
+    {
+      "id": "te:markets:571851",
+      "time": "2026-08-01 04:10:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Close Higher on Tech Gains — US stock indices closed higher on Friday as gains in major technology stocks lifted the market late in a volatile session. The S&P 500 rose 0.7%, the Nasdaq gained 0.6%, and the Dow added 277 points. Amazon jumped 15.3% on strong cloud growth. Optimism around the AI trade boosted software and hyperscalers, with Alphabet gaining 6.7%, Microsoft adding 3%, and Meta rising 3.3%. Those gains outweighed a decline in Apple (-7.3%), after chip shortages raised costs and reduced June-quarter production, weighing on earnings. Elsewhere, broader sectors were weaker, with Netflix down 2% and Eli Lilly losing 0.5%. The 30-year Treasury yield climbed further on concerns that Kevin Warsh's FOMC may refrain from raising rates to curb inflation. Meanwhile, ExxonMobil fell 1% as limited refinery capacity prevented the oil major from fully benefiting from higher oil prices last quarter."
+    },
+    {
+      "id": "5019899",
+      "time": "2026-08-01 04:10:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "本週，谷歌A、亞馬遜、微軟市值合計增長大約1.5萬億美元。"
+    },
     {
       "id": "5019898",
       "time": "2026-08-01 04:08:44",
@@ -17,6 +99,14 @@
         "其他"
       ],
       "text": "標普全球評級確認波黑信用評級維持B+。"
+    },
+    {
+      "id": "5019896",
+      "time": "2026-08-01 04:07:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 共和黨人都想成為 “讓美國再次偉大” 支持者。 如今共和黨基本上全員擁護 “讓美國再次偉大” 理念。"
     },
     {
       "id": "5019895",
@@ -432,6 +522,16 @@
         "其他"
       ],
       "text": "市場訊息： 法官傾向於命令扎克伯格在人工智慧相關訴訟中接受庭外取證質詢。"
+    },
+    {
+      "id": "5019859",
+      "time": "2026-08-01 03:33:50",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日元走強 紐約聯儲就關鍵匯率向美國大型銀行詢價】隨著市場對日本當局可能再次入市干預的猜測升溫，日元週五上漲。紐約交易時段，日元兌美元和歐元均一度上漲0.9%。兩名知情人士稱，紐約聯儲要求至少兩家美國大型銀行提供日元兌歐元報價。因相關要求非公開，知情人士不願具名。“鑑於日元反應有限，交易員可能會對後續干預行動保持警惕，”道明證券駐新加坡經濟學家Alex Loo表示。週四，日本疑似出手干預匯市後，日元一度大漲3.3%。彭博根據日本央行週五公佈的賬戶資料和貨幣經紀商的預測估算，此次干預規模約為8.45萬億日元（528億美元）。這可能創下日本單日匯市干預規模之最。芝商所資料顯示，週四，大量日元買盤推動其交易量升至近12年來最高水平。但即使干預規模如此之大，對外匯市場的影響仍然有限。日元近幾個月來一度跌至1986年以來最低水平，持續受到油價上漲、財政赤字居高不下以及日美利差懸殊等因素拖累。“歸根結底，除非基本面發生變化，否則匯市干預對匯率的影響可能只是暫時的，”野村國際外匯策略師Yusuke Miyairi表示。"
     },
     {
       "id": "5019858",
