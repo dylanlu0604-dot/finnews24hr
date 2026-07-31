@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-01 06:29:44",
-  "count": 18001,
+  "updated": "2026-08-01 06:33:37",
+  "count": 17999,
   "items": [
+    {
+      "id": "5020035",
+      "time": "2026-08-01 06:32:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【因擔憂虛假影象，谷歌撤回地球AI工具】谷歌母公司Alphabet Inc.宣佈，將撤回其在Google Earth（谷歌地球）中推出的全新AI影象生成功能。原因是部分使用者利用該工具生成修改過的衛星影象，這些影象似乎違反了公司的相關政策。該工具允許使用者透過文字提示生成逼真的空中場景，一些觀察人士對此表示擔憂，認為這些虛假影象可能會被誤認為是真實的。谷歌正在撤回該功能以實施更嚴格的安全防護措施，且所有AI生成的影象均未出現在Google Earth的主平臺中。"
+    },
+    {
+      "id": "te:markets:571866",
+      "time": "2026-08-01 06:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Gains by 3.87% — Top commodity gainers are Brent Crude Oil (3.87%), Crude Oil WTI (3.84%) and Germany Natural Gas THE (2.32%). Biggest losers are Propane (-2.01%) and Methanol (-1.94%)."
+    },
     {
       "id": "5020034",
       "time": "2026-08-01 06:28:48",
@@ -166636,42 +166655,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Titanium Falls by 1.08% — Top commodity losers are Titanium (-1.08%), Lithium Carbonate (-0.68%) and Platinum (-0.60%). Gains are led by Silver (0.96%) and Gold (0.06%)."
-    },
-    {
-      "id": "5007635",
-      "time": "2026-07-25 06:33:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【資金 重新迴流黃金主題ETF 機構：積極因素正在積聚】國際金價近期持續震盪，資金正在悄然行動。從黃金商品ETF的資金流向看，前期淨流出狀態正在逆轉，近日吸引較多資金加倉。與此同時，部分基金經理在二季度減持黃金後，正在等待新的入場時機。在多家機構看來，黃金正在迎來重要的佈局時點。"
-    },
-    {
-      "id": "5007634",
-      "time": "2026-07-25 06:33:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【萬那杜群島發生5.9級地震 震源深度40公里】中國地震臺網正式測定：7月25日5時37分，在萬那杜群島（南緯14.10度，東經166.95度）發生5.9級地震，震源深度40公里。（央視新聞）"
-    },
-    {
-      "id": "te:markets:569861",
-      "time": "2026-07-25 06:30:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Naphtha Falls by 2.79% — Top commodity losers are Naphtha (-2.79%), Heating Oil (-2.67%), Propane (-2.38%), Brent Crude Oil (-2.29%) and Crude Oil WTI (-1.87%). Gains are led by Germany Natural Gas THE (2.30%), Natural Gas UK (2.07%) and Natural Gas EU (1.83%)."
-    },
-    {
-      "id": "5007633",
-      "time": "2026-07-25 06:30:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "兩名知情人士透露，特朗普總統週五在白宮閉門會見核心幕僚，商議針對伊朗的各類應對方案，其中包括大幅擴大對伊軍事行動的可能性。"
     }
   ]
 }

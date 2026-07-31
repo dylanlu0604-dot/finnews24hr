@@ -1,7 +1,26 @@
 {
   "date": "2026-08-01",
-  "count": 439,
+  "count": 441,
   "items": [
+    {
+      "id": "5020035",
+      "time": "2026-08-01 06:32:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【因擔憂虛假影象，谷歌撤回地球AI工具】谷歌母公司Alphabet Inc.宣佈，將撤回其在Google Earth（谷歌地球）中推出的全新AI影象生成功能。原因是部分使用者利用該工具生成修改過的衛星影象，這些影象似乎違反了公司的相關政策。該工具允許使用者透過文字提示生成逼真的空中場景，一些觀察人士對此表示擔憂，認為這些虛假影象可能會被誤認為是真實的。谷歌正在撤回該功能以實施更嚴格的安全防護措施，且所有AI生成的影象均未出現在Google Earth的主平臺中。"
+    },
+    {
+      "id": "te:markets:571866",
+      "time": "2026-08-01 06:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Gains by 3.87% — Top commodity gainers are Brent Crude Oil (3.87%), Crude Oil WTI (3.84%) and Germany Natural Gas THE (2.32%). Biggest losers are Propane (-2.01%) and Methanol (-1.94%)."
+    },
     {
       "id": "5020034",
       "time": "2026-08-01 06:28:48",
