@@ -1,7 +1,23 @@
 {
   "date": "2026-08-01",
-  "count": 117,
+  "count": 119,
   "items": [
+    {
+      "id": "5019794",
+      "time": "2026-08-01 01:38:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利總理：決定暫停與西班牙之間的申根協定。"
+    },
+    {
+      "id": "mkt:019fb940-169b-7aab-8f3c-40049dab39ff",
+      "time": "2026-08-01 01:36:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU ambassadors will meet on Monday to discuss the migration situation in Spain."
+    },
     {
       "id": "mkt:019fb93e-d9cd-7aab-8f3c-3e5fc8db7893",
       "time": "2026-08-01 01:35:31",
