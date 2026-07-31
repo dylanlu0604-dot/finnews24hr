@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-01 02:03:59",
-  "count": 17980,
+  "updated": "2026-08-01 02:11:58",
+  "count": 17969,
   "items": [
     {
       "id": "5019799",
@@ -166399,113 +166399,6 @@
         "Importance 0"
       ],
       "text": "Poste Italiane earnings below expectations at 0.45 EUR — Poste Italiane (PST) released earnings per share at 0.45 EUR, compared to market expectations of 0.49 EUR."
-    },
-    {
-      "id": "mkt:019f9553-3c55-7aab-8e8e-05ee32cba5e3",
-      "time": "2026-07-25 02:11:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Brazilian National Confederation of Industry (CNI) estimates 3,900 products will face US tariffs totaling 37.5%, affecting dlr 12.4 bln of trade."
-    },
-    {
-      "id": "5007456",
-      "time": "2026-07-25 02:10:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：下月，所有涉及 X 平臺系統的程式碼將全部開源，並交由第三方機構審計。唯有完全透明，方能贏得信任。"
-    },
-    {
-      "id": "5007455",
-      "time": "2026-07-25 02:09:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯與委內瑞拉將恢復雙邊外交關係。"
-    },
-    {
-      "id": "5007454",
-      "time": "2026-07-25 02:08:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西全國工業聯合會（CNI）預估，共計 3900 種商品將被美國疊加徵收 37.5% 關稅，相關貿易受影響規模達 124 億美元。"
-    },
-    {
-      "id": "mkt:019f9550-4d1b-7aab-8e8d-fe0c58f3761e",
-      "time": "2026-07-25 02:08:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "SpaceX AI said it will add Grok to Google Workspace today. Grok for Google Workspace will be offered as a free add-on."
-    },
-    {
-      "id": "mkt:019f954e-5a0f-7aab-8e8d-f15b8655de6e",
-      "time": "2026-07-25 02:06:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Japan & APAC",
-        "Europe & UK",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "AWS has launched Claude OPUS in regions including US East (Northern Virginia), Asia Pacific (Melbourne), Europe (Ireland) and Europe (Stockholm)."
-    },
-    {
-      "id": "mkt:019f954d-fceb-7aab-8e8d-ef87f8ce9f67",
-      "time": "2026-07-25 02:05:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US small businesses filed suit challenging President Trump's new 'forced labor' tariffs, arguing the authority for the duties requires more detailed, country-specific investigative findings to be legally valid."
-    },
-    {
-      "id": "mkt:019f954d-e566-7aab-8e8d-e3a72ffed3f2",
-      "time": "2026-07-25 02:05:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "AWS announced it has integrated Claude Opus 5 into Amazon Bedrock and AWS."
-    },
-    {
-      "id": "5007453",
-      "time": "2026-07-25 02:05:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX AI：適配谷歌辦公套件的 Grok 外掛免費開放。"
-    },
-    {
-      "id": "mkt:019f954d-e463-7aab-8e8d-df67d83f719e",
-      "time": "2026-07-25 02:05:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【SpaceX selloff may create buying opportunity, Morgan Stanley analyst backs AI valuation】Morgan Stanley analyst Adam Jonas said Friday the recent selloff has pushed SpaceX’s stock to a level that effectively prices its AI business at zero. Jonas wrote investor pessimism appears disconnected from fundamentals and creates an attractive buying opportunity. He warned upcoming lock-up expirations next month could allow insider sales and potentially drive the share price as low as $100 — a level that would imply zero or negative value for the AI unit. Jonas assigns a $300 target price, with more than 50% of the valuation attributable to SpaceX’s AI business."
-    },
-    {
-      "id": "5007452",
-      "time": "2026-07-25 02:05:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX AI：今日我們將 Grok 接入谷歌辦公套件。"
     }
   ]
 }
