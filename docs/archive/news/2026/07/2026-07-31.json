@@ -1,7 +1,84 @@
 {
   "date": "2026-07-31",
-  "count": 1491,
+  "count": 1499,
   "items": [
+    {
+      "id": "mkt:019fb6ca-6c63-7aab-8f27-d9b5fc01740b",
+      "time": "2026-07-31 14:09:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "TD Cowen raised its PT on Amazon (AMZN.O) to $350 from $340."
+    },
+    {
+      "id": "5018407",
+      "time": "2026-07-31 14:08:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "TD考恩將亞馬遜目標價從340美元上調至350美元。"
+    },
+    {
+      "id": "te:markets:571532",
+      "time": "2026-07-31 14:07:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Poised for Strong Open — European equity markets were set to open higher on Friday, building on the previous session’s gains as sentiment improved amid a global rally in technology stocks and renewed optimism surrounding the artificial intelligence sector. Semiconductor shares in the US and Asia led the advance, with strong earnings from Microsoft and Amazon reinforcing confidence in continued hyperscaler investment and resilient AI-driven demand. In Europe, investors will focus on July inflation data from the Eurozone, France, and Italy, along with Germany’s latest unemployment figures. On the corporate front, earnings reports are due from Linde, Enel, AXA, ENGIE, and NatWest, among others. In premarket trading, futures for both the Euro Stoxx 50 and the Stoxx 600 were up around 0.8%."
+    },
+    {
+      "id": "mkt:019fb6c7-dceb-7aab-8f27-d2f5634653ca",
+      "time": "2026-07-31 14:06:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Al Jazeera, citing sources, reported that dozens of Israeli settlers, under protection of the Israeli military, are storming the western part of Nablus."
+    },
+    {
+      "id": "5018406",
+      "time": "2026-07-31 14:06:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下跌0.5個基點，至2.79%。"
+    },
+    {
+      "id": "5018405",
+      "time": "2026-07-31 14:06:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇瞳光學等成立科技公司，含光電子器件製造業務】企查查APP顯示，近日，深圳宇瞳光互連科技有限公司成立，法定代表人為何敏超，經營範圍包含：光學儀器製造；光學儀器銷售；電子元器件製造；電子元器件零售；光電子器件製造；光電子器件銷售等。企查查股權穿透顯示，該公司由宇瞳光學全資子公司東莞市宇瞳精密光學有限公司等共同持股。"
+    },
+    {
+      "id": "5018404",
+      "time": "2026-07-31 14:05:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【直擊ChinaJoy 2026 ：宇樹科技攜4臺G1系列人形機器人現場熱舞】今日，第二十三屆ChinaJoy在上海新國際博覽中心正式開幕。宇樹科技攜人形機器人、 四足機器人、行業解決方案及資料採集方案等全產品矩陣亮相。新浪科技在現場看到，量產級人形機器人G1是本次舞臺展示主力，現場四臺G1透過定位群控完成整齊劃一的舞蹈編排。據瞭解，G1整機約132cm 高、約35kg重，擁有23至43個關節自由度，是宇樹人形機器人量產化的核心產品。（新浪科技）"
+    },
+    {
+      "id": "5018403",
+      "time": "2026-07-31 14:05:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小鵬汽車、智元機器人等將率先接入Seedance 2.5】火山引擎訊息，今天，新一代影片生成模型Seedance 2.5正式釋出。針對企業使用者，火山引擎將於近期上線API服務。徐工集團、小鵬汽車、智元機器人、靈初智慧、微分智飛、穹徹智慧、Xspark AI（無界智航）等多家企業已與火山引擎達成合作意向，將率先接入Seedance 2.5。"
+    },
     {
       "id": "te:economy:571529",
       "time": "2026-07-31 14:04:34",

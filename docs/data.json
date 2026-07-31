@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-31 14:05:25",
-  "count": 17971,
+  "updated": "2026-07-31 14:10:05",
+  "count": 17970,
   "items": [
+    {
+      "id": "mkt:019fb6ca-6c63-7aab-8f27-d9b5fc01740b",
+      "time": "2026-07-31 14:09:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "TD Cowen raised its PT on Amazon (AMZN.O) to $350 from $340."
+    },
+    {
+      "id": "5018407",
+      "time": "2026-07-31 14:08:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "TD考恩將亞馬遜目標價從340美元上調至350美元。"
+    },
+    {
+      "id": "te:markets:571532",
+      "time": "2026-07-31 14:07:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Poised for Strong Open — European equity markets were set to open higher on Friday, building on the previous session’s gains as sentiment improved amid a global rally in technology stocks and renewed optimism surrounding the artificial intelligence sector. Semiconductor shares in the US and Asia led the advance, with strong earnings from Microsoft and Amazon reinforcing confidence in continued hyperscaler investment and resilient AI-driven demand. In Europe, investors will focus on July inflation data from the Eurozone, France, and Italy, along with Germany’s latest unemployment figures. On the corporate front, earnings reports are due from Linde, Enel, AXA, ENGIE, and NatWest, among others. In premarket trading, futures for both the Euro Stoxx 50 and the Stoxx 600 were up around 0.8%."
+    },
+    {
+      "id": "mkt:019fb6c7-dceb-7aab-8f27-d2f5634653ca",
+      "time": "2026-07-31 14:06:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Al Jazeera, citing sources, reported that dozens of Israeli settlers, under protection of the Israeli military, are storming the western part of Nablus."
+    },
+    {
+      "id": "5018406",
+      "time": "2026-07-31 14:06:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下跌0.5個基點，至2.79%。"
+    },
+    {
+      "id": "5018405",
+      "time": "2026-07-31 14:06:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇瞳光學等成立科技公司，含光電子器件製造業務】企查查APP顯示，近日，深圳宇瞳光互連科技有限公司成立，法定代表人為何敏超，經營範圍包含：光學儀器製造；光學儀器銷售；電子元器件製造；電子元器件零售；光電子器件製造；光電子器件銷售等。企查查股權穿透顯示，該公司由宇瞳光學全資子公司東莞市宇瞳精密光學有限公司等共同持股。"
+    },
+    {
+      "id": "5018404",
+      "time": "2026-07-31 14:05:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【直擊ChinaJoy 2026 ：宇樹科技攜4臺G1系列人形機器人現場熱舞】今日，第二十三屆ChinaJoy在上海新國際博覽中心正式開幕。宇樹科技攜人形機器人、 四足機器人、行業解決方案及資料採集方案等全產品矩陣亮相。新浪科技在現場看到，量產級人形機器人G1是本次舞臺展示主力，現場四臺G1透過定位群控完成整齊劃一的舞蹈編排。據瞭解，G1整機約132cm 高、約35kg重，擁有23至43個關節自由度，是宇樹人形機器人量產化的核心產品。（新浪科技）"
+    },
+    {
+      "id": "5018403",
+      "time": "2026-07-31 14:05:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小鵬汽車、智元機器人等將率先接入Seedance 2.5】火山引擎訊息，今天，新一代影片生成模型Seedance 2.5正式釋出。針對企業使用者，火山引擎將於近期上線API服務。徐工集團、小鵬汽車、智元機器人、靈初智慧、微分智飛、穹徹智慧、Xspark AI（無界智航）等多家企業已與火山引擎達成合作意向，將率先接入Seedance 2.5。"
+    },
     {
       "id": "te:economy:571529",
       "time": "2026-07-31 14:04:34",
@@ -166099,93 +166176,6 @@
         "其他"
       ],
       "text": "【部分飲料概念港股急升 安德利果汁漲超20%】部分飲料概念港股午後急升。截至發稿，安德利果汁(02218.HK)漲超20%，滬上阿姨(02589.HK)漲超10%。"
-    },
-    {
-      "id": "mkt:019f92be-b72c-7aab-8e7c-60a8adf221db",
-      "time": "2026-07-24 14:09:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China Resources Group chairman change】July 23, 2026 — The Central Organization Department announced the CPC Central Committee's decision to appoint Wang Haimin as chairman of China Resources (Group) Co., Ltd. and to relieve Wang Xiangming of the chairmanship. Wang Haimin was also relieved of his chairmanship at Hong Kong China Travel Service (Group) Co. The announcement was made at a China Resources senior management meeting."
-    },
-    {
-      "id": "5006065",
-      "time": "2026-07-24 14:09:16",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊外長：任何襲擊伊朗的源頭都將成防禦行動合法目標】當地時間24日，伊朗外交部長阿拉格齊表示，伊朗將把任何針對伊朗人民發動襲擊的源頭，視為伊朗武裝力量採取防禦行動的合法目標。阿拉格齊同時強調，任何參與、配合或協助對伊朗實施襲擊的行為，都將使相關方面承擔相應的國際責任。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f92bd-7a90-7aab-8e7c-59054ab7c87e",
-      "time": "2026-07-24 14:08:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DAX",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【War uncertainty weighs on German consumer confidence】Escalation in the Middle East and rising oil prices have dented German consumer sentiment: GfK's August consumer confidence index fell to -29.6, below economists' forecasts, with July revised to -29.3 from -29.2. The survey attributed the decline mainly to weaker income expectations and a stronger propensity to save, saying consumers are pessimistic about their finances over the next 12 months. Purchase intentions and general economic expectations ticked up modestly. Rolf Buerkl, head of consumer confidence at the Nuremberg market research institute, said persistent uncertainty is keeping many households cautious on spending."
-    },
-    {
-      "id": "5006064",
-      "time": "2026-07-24 14:08:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "起亞：韓元疲軟將緩解原材料價格上漲的影響。"
-    },
-    {
-      "id": "5006063",
-      "time": "2026-07-24 14:08:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大皇家銀行將Mobileye目標價從10美元下調至7美元。"
-    },
-    {
-      "id": "te:economy:569607",
-      "time": "2026-07-24 14:07:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Retail Sales MoM",
-        "Importance 2"
-      ],
-      "text": "UK Retail Sales Unexpectedly Rise — UK retail sales volumes increased 1.0% month-on-month in June 2026, defying market expectations of a 0.3% decline, though easing from a 1.2% increase in the previous month. Growth was driven by stronger non-store retail sales, as retailers reported that sales promotions and robust demand for sports merchandise, clothing, outdoor products, fans, and air conditioning equipment boosted activity. Clothing store sales rose 1.9%, marking their largest monthly increase since September 2025, supported by promotional discounts and warm weather. Meanwhile, other non-food stores also recorded solid performance, with art galleries posting strong sales and retailers broadly citing increased demand for seasonal goods due to the favorable weather. On an annual basis, retail sales rose 4.2%, surpassing market expectations of a 2.3% increase and accelerating from a 3.5% gain in May."
-    },
-    {
-      "id": "5006062",
-      "time": "2026-07-24 14:07:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【TVB宣佈正式更名為“無線集團”，由傳統電視臺升級為跨媒體娛樂集團，市場拓寬到大灣區】據TVB官方微博訊息，TVB宣佈正式更名為“無線集團”，由傳統電視臺升級為跨媒體娛樂集團。業務更多元化，擁抱創新AI技術，市場拓寬到大灣區。"
-    },
-    {
-      "id": "5006061",
-      "time": "2026-07-24 14:07:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本再排7900噸核汙染水入海 超此前預計排放量】日本東京電力公司7月24日釋出訊息稱，本年度福島第一核電站第三輪核汙染水排海結束，本次排海量約7900噸，超出此前該公司公佈的預計排放量。本月2日，日本東電公司公佈的資料顯示，本輪核汙染水排放總量預計約7800噸，含放射性氚總量約1.3萬億貝克勒爾。（央視新聞）"
-    },
-    {
-      "id": "5006060",
-      "time": "2026-07-24 14:06:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "越南擬禁止16歲以下青少年在社交媒體上發帖。"
     }
   ]
 }
