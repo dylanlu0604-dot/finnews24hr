@@ -1,7 +1,64 @@
 {
-  "updated": "2026-07-31 10:20:49",
-  "count": 18034,
+  "updated": "2026-07-31 10:24:47",
+  "count": 18026,
   "items": [
+    {
+      "id": "mkt:019fb5fc-5df2-7aab-8f24-47c471889eed",
+      "time": "2026-07-31 10:24:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Huawei open-sources 505 billion-parameter openPangu-2.0-Pro model】Huawei has open-sourced the openPangu-2.0-Pro model — a 505 billion-parameter model — releasing model weights, base inference code and a technical report. The openPangu brand targets Ascend-native training and inference, positioning the release as a best-practice reference to support Ascend adoption and accelerate AI commercialization and ecosystem development. Related components are already live on open-source platforms, and the model is available for online testing via Huawei Cloud MaaS. Huawei invited global developers, enterprise partners and researchers to download and provide feedback to support the open-source ecosystem."
+    },
+    {
+      "id": "5018134",
+      "time": "2026-07-31 10:23:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "兆易創新、德明利相繼炸板，此前一度雙雙一字漲停。"
+    },
+    {
+      "id": "5018133",
+      "time": "2026-07-31 10:23:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達5.93%，成分股中，生益電子漲19.62%，盛科通訊漲14.81%，芯原股份漲14.28%，源傑科技漲14.08%。"
+    },
+    {
+      "id": "5018132",
+      "time": "2026-07-31 10:22:49",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【發改委：我國作為世界工廠和世界市場的作用進一步加強】7月31日，國家發展改革委國民經濟綜合司副司長周宏偉在新聞釋出會上表示，上半年我國經濟呈現動能向新、結構向優發展態勢，高階製造、智慧經濟、現代服務等新功能對經濟增長的貢獻率超過四成。完整的產業體系和科技創新能力，助推外貿快速增長。我國作為世界工廠和世界市場的作用進一步加強。"
+    },
+    {
+      "id": "5018131",
+      "time": "2026-07-31 10:22:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微導奈米、通靈股份等在無錫成立投資合夥企業】企查查APP顯示，近日，無錫弘毅同創三號投資合夥企業（有限合夥）成立，經營範圍包括：股權投資。企查查股權穿透顯示，該合夥企業由微導奈米、通靈股份等共同持股。"
+    },
+    {
+      "id": "mkt:019fb5f9-b0f7-7aab-8f24-38a98a730d25",
+      "time": "2026-07-31 10:21:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Heilongjiang issues red rainstorm warning】Heilongjiang Meteorological Observatory at 09:45 on July 31, 2026 issued a red rainstorm warning. In the past hour parts of eastern Bin County, western Fangzheng County and northern Yanshou County in Harbin recorded 50–70 mm of rain. Another 30–50 mm is expected over the next two hours, with cumulative totals likely to exceed 100 mm."
+    },
+    {
+      "id": "5018130",
+      "time": "2026-07-31 10:20:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黑龍江釋出暴雨紅色預警】黑龍江省氣象臺2026年7月31日9時45分發布暴雨紅色預警訊號：過去1小時哈爾濱市賓縣東部、哈爾濱市方正縣西部、哈爾濱市延壽縣北部部分鄉鎮降水量已達50~70毫米，未來2小時仍有30~50毫米的降水，預計累計雨量將超過100毫米，請注意防範。"
+    },
     {
       "id": "5018129",
       "time": "2026-07-31 10:18:37",
@@ -166635,137 +166692,6 @@
         "Importance 1"
       ],
       "text": "Philippine Peso Nears Fresh Record Low — The Philippine peso weakened to around 61.84 per US dollar in late July, moving closer to a fresh record low as surging oil prices and broad US dollar strength weighed on the currency. Crude prices have jumped more than 30% this month as the escalating US-Iran conflict spilled over into key other shipping routes, heightening concerns over deeper disruptions to global energy supplies. This has intensified pressure on oil-importing economies, including the Philippines, raising concerns over imported inflation and the country's trade balance. The Bangko Sentral ng Pilipinas intervened in the foreign exchange market this week to support the peso, while the Marcos administration expressed confidence that the central bank would act decisively if needed. Fitch Group's BMI Research forecasts the peso to trade within the 61–63 per US dollar range this year, making it one of Asia's weakest-performing currencies. The peso has fallen nearly 5% against the US dollar so far this year."
-    },
-    {
-      "id": "mkt:019f91f0-5672-7aab-8e78-494eac842197",
-      "time": "2026-07-24 10:24:34",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Korea Exchange activated a pause mechanism for programmatic trading on the KOSPI index."
-    },
-    {
-      "id": "5005774",
-      "time": "2026-07-24 10:24:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化賣盤。"
-    },
-    {
-      "id": "5005773",
-      "time": "2026-07-24 10:23:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【派瑞股份赴常州開展產業調研交流活動】據派瑞股份訊息，近期，派瑞股份董事長盧道真帶領公司技術團隊一行赴江蘇常州開展專項調研與行業交流活動。調研團隊先後走進常州瑞華電力電子器件有限公司、江蘇宏微科技股份有限公司，圍繞功率模組研發製造、工藝管控、生產管理、供應鏈體系建設等核心板塊開展實地考察，深入學習行業頭部企業精細化運營與技術迭代經驗，結合公司業務現狀，就技術落地、生產提質增效等內容開展務實交流。另外，調研期間，團隊受邀參加常州市人民政府主辦的“江蘇省固態變壓器產業聯盟成立暨固態變壓器產業創新發展會議”，與行業專家、企業代表深度對接，聚焦固態變壓器、功率半導體產業新技術、新應用、新趨勢展開研討。"
-    },
-    {
-      "id": "5005772",
-      "time": "2026-07-24 10:23:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普將於週五晚8:55（美國東部時間）在白宮記者協會發表講話。"
-    },
-    {
-      "id": "5005771",
-      "time": "2026-07-24 10:23:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣藥集團：“十五五”時期計劃投入200億元用於研發、300億元用於產業併購與管線合作】在7月22日—24日舉行的首屆“大國新藥”全球會議上，廣藥集團副總經理彭偉向全球優質科研BD管線合作專案發起邀約，他表示，廣藥集團正積極構建“自研+併購”雙輪驅動格局，“十五五”時期計劃投入200億元用於研發、300億元用於產業併購與管線合作，力爭實現1—2年內併購企業見成效，3—5年內併購管線見成效，5—10年內自研投入見成效。"
-    },
-    {
-      "id": "mkt:019f91ee-d9e7-7aab-8e78-435750f00733",
-      "time": "2026-07-24 10:22:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Major Chinese jewellery brands cut retail gold prices】On Beijing time on the 24th, spot gold and spot silver continued to decline. After three consecutive increases, domestic retail gold jewellery prices fell sharply: Chow Sang Sang pure-gold jewellery quoted 1,227 yuan/gram, down 31 yuan on the day; Lao Miao pure-gold jewellery 1,231 yuan/gram, down 27 yuan; Lao Feng Xiang pure-gold jewellery 1,229 yuan/gram, down 24 yuan."
-    },
-    {
-      "id": "mkt:019f91ee-8ef8-7aab-8e78-39c75117368a",
-      "time": "2026-07-24 10:22:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BNO News: A Kenmore Air aircraft carrying 11 people crashed north of Seattle; the airline says all onboard survived and some were taken to hospital."
-    },
-    {
-      "id": "5005770",
-      "time": "2026-07-24 10:22:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國海證券：快遞行業展現顯著韌性 板塊結構性機遇值得關注】國海證券釋出研報稱，在當前消費整體呈現弱復甦、結構分化的宏觀背景下，快遞行業展現出超越消費大盤的顯著韌性，該行認為，這來源於行業內部多引擎驅動的結構性成長。隨著即時零售場景的不斷拓展和消費習慣的轉變，該板塊的結構性機遇值得關注。快遞業務量有望穩步增長，維持快遞物流板塊“推薦”評級。"
-    },
-    {
-      "id": "mkt:019f91ee-53a8-7aab-8e78-3477f1e70226",
-      "time": "2026-07-24 10:22:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "China A-share gas sector saw localized volatility; Guo Xin Nengyuan surged straight to its daily limit-up."
-    },
-    {
-      "id": "5005769",
-      "time": "2026-07-24 10:22:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普將於美國東部時間週五下午3點宣佈有關核能創新的計劃。"
-    },
-    {
-      "id": "5005768",
-      "time": "2026-07-24 10:22:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【周生生、老鳳祥等品牌金飾價格集體下調】當地時間7月23日，黃金白銀大跌，油價狂飆。現貨黃金跌1.96%，報4049美元；現貨白銀跌3.60%，報57.5967美元/盎司。國際貴金屬期貨普遍收跌。COMEX黃金期貨跌2.4%，報4052.30美元/盎司；COMEX白銀期貨跌3.99%，報57.90美元/盎司。北京時間24日，現貨黃金、現貨白銀持續下跌。記者梳理發現，國內品牌金飾價格經歷三連漲後再次大跌，周生生足金飾品報1227元/克，單日大跌31元；老廟黃金足金飾品現報1231元/克，單日大跌27元；老鳳祥足金飾品現報1229元/克，單日大跌24元。（中新經緯）"
-    },
-    {
-      "id": "5005767",
-      "time": "2026-07-24 10:22:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【麥格理：升寧德時代目標價至700港元 評級“跑贏大市”】麥格理髮布研報稱，將寧德時代(03750)目標價由680港元上調至700港元，重申“跑贏大市”評級。該行指出，儘管國內電動車需求軟化拖累情緒，但寧德時代可透過提高單車電池裝機量及轉嫁成本來抵消影響。雖然該行將其2026財年盈利預測下調9%，但將估值基準滾動至2027財年每股盈利的20倍，並考慮到股份供求情況將H股溢價由20%調高至25%。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202607243820106848",
-      "time": "2026-07-24 10:21:52",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【今年上半年廣州GDP同比增長5.8%】7月24日，廣州市統計局公佈2026年上半年廣州經濟執行情況。根據廣東省地區生產總值統一核算結果，上半年，全市地區生產總值16045億元，按不變價格計算，同比增長5.8%。其中，第一產業增加值108億元，增長3.2%；第二產業增加值3800億元，增長5.6%；第三產業增加值12137億元，增長5.9%。"
-    },
-    {
-      "id": "5005766",
-      "time": "2026-07-24 10:21:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【可立克實驗中心順利透過CNAS國家級認可】據可立克訊息，近日，全資子公司惠州市可立克電子有限公司實驗中心透過中國合格評定國家認可委員會（CNAS）嚴格評審，正式獲得CNAS實驗室認可證書（註冊號：CNAS L26096），此次認可覆蓋磁性元件系列檢測專案，具備CNAS全球互認資質。"
-    },
-    {
-      "id": "5005765",
-      "time": "2026-07-24 10:21:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國海證券：AI浪潮帶動材料需求大幅增長 維持基礎化工行業“推薦”評級】國海證券釋出研報稱，AI大潮有望帶動產業鏈迎來大時代。化工行業作為各行業的材料根基，有望迎來全新的發展格局。AI帶動下，相關化工材料需求有望保持可持續增長，AI促進下技術進步與革新的腳步有望加快，同時我國“卡脖子”材料有望加速國產化替代程序。綜合考慮AI對化工行業的賦能和帶動效應，維持基礎化工行業“推薦”評級。"
     }
   ]
 }
