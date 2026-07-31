@@ -1,7 +1,228 @@
 {
   "date": "2026-07-31",
-  "count": 2027,
+  "count": 2051,
   "items": [
+    {
+      "id": "mkt:019fb74d-7188-7aab-8f2e-a10bc62e5279",
+      "time": "2026-07-31 16:32:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Xiexin Nengke hits daily price limit; broker seat traded CNY414.62 mln】Xiexin Nengke hit the daily price limit. A single broker seat recorded CNY414.62 mln in turnover, equal to 28.69% of the stock's daily trading value, with CNY299.54 mln in buys and CNY115.08 mln in sells (net buy CNY184.46 mln). Shenzhen Stock Connect special account bought CNY94.23 mln and sold CNY42.93 mln; Ping An Securities Shenzhen Shennan East Road Luohu business center sold CNY11.56 mln. Institutional accounts bought CNY187.23 mln and sold CNY39.19 mln (net buy CNY148.03 mln)."
+    },
+    {
+      "id": "mkt:019fb74c-fce7-7aab-8f2e-996bd0799199",
+      "time": "2026-07-31 16:31:43",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "【SAFE: June China FX market turnover RMB 28.00 trillion】The State Administration of Foreign Exchange reported June turnover in China’s FX market (excluding non‑RMB currency‑pair markets) at RMB 28.00 trillion (USD 4.11 trillion). Bank‑to‑client trading was RMB 5.18 trillion (USD 0.76 trillion) and interbank trading RMB 22.81 trillion (USD 3.35 trillion). Spot turnover totaled RMB 10.31 trillion (USD 1.51 trillion) and derivatives turnover RMB 17.68 trillion (USD 2.59 trillion). Jan–Jun cumulative turnover was RMB 152.21 trillion (USD 22.08 trillion)."
+    },
+    {
+      "id": "5018790",
+      "time": "2026-07-31 16:31:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【外匯局：6月中國外匯市場總計成交28.00萬億元人民幣】國家外匯管理局統計資料顯示，2026年6月，中國外匯市場（不含外幣對市場，下同）總計成交28.00萬億元人民幣（等值4.11萬億美元）。其中，銀行對客戶市場成交5.18萬億元人民幣（等值0.76萬億美元），銀行間市場成交22.81萬億元人民幣（等值3.35萬億美元）；即期市場累計成交10.31萬億元人民幣（等值1.51萬億美元），衍生品市場累計成交17.68萬億元人民幣（等值2.59萬億美元）。2026年1-6月，中國外匯市場累計成交152.21萬億元人民幣（等值22.08萬億美元）。"
+    },
+    {
+      "id": "te:economy:571638",
+      "time": "2026-07-31 16:31:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "German Unemployment Rate Rises to 6.4% as Labor Market Softens — Germany's seasonally adjusted unemployment rate rose to 6.4% in July 2026 from 6.3% in June, exceeding market expectations of 6.3%. The number of unemployed increased by slightly more than expected, rising by 6,000 to 2.99 million, just below the politically significant 3 million threshold. On a non-seasonally adjusted basis, unemployment climbed above 3 million. The labor market has continued to weaken with a lag following the geopolitical shock of the Iran war, which began in February. Adding to the pressure, inflation accelerated to 2.8% in July as higher energy prices filtered through the economy. Although Germany's second-quarter GDP growth exceeded expectations, the outlook remains clouded by renewed US-Iran hostilities, which could keep energy prices elevated, reinforce expectations of tighter ECB policy, and weigh on investment and consumer spending."
+    },
+    {
+      "id": "5018789",
+      "time": "2026-07-31 16:31:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【內蒙古交通集團原總經理劉學武被公訴】日前，內蒙古交通集團有限公司原黨委副書記、總經理、董事劉學武涉嫌受賄罪一案，由內蒙古自治區監察委員會調查終結，移送檢察機關審查起訴。經內蒙古自治區人民檢察院指定管轄，由烏蘭察布市人民檢察院依法向烏蘭察布市中級人民法院提起公訴。案件正在進一步辦理中。檢察機關在審查起訴階段，依法告知了被告人劉學武享有的訴訟權利，並依法訊問了被告人，聽取了辯護人的意見。烏蘭察布市人民檢察院起訴指控：被告人劉學武身為國家工作人員，利用職務上的便利，為他人謀取利益，非法收受他人財物，數額特別巨大，依法應當以受賄罪追究其刑事責任。"
+    },
+    {
+      "id": "mkt:019fb74c-a1b7-7aab-8f2e-92f3d3f4def4",
+      "time": "2026-07-31 16:31:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong, China Q2 GDP final QoQ -0.6 pct (expected -0.3 pct); prior +2.90 pct."
+    },
+    {
+      "id": "mkt:019fb74c-8c9f-7aab-8f2e-8891c9de582d",
+      "time": "2026-07-31 16:31:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong Q2 GDP final YoY 4.3%, below consensus 4.5% and down from prior 5.9%."
+    },
+    {
+      "id": "5018788",
+      "time": "2026-07-31 16:31:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元收盤報6.7476，較上一交易日上漲88點。"
+    },
+    {
+      "id": "mkt:019fb74c-70ad-7aab-8f2e-812b365428db",
+      "time": "2026-07-31 16:31:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | GDP (QoQ) (Q2) | actual -0.6% | consensus -0.3% | previous 2.90%"
+    },
+    {
+      "id": "mkt:019fb74c-5d5c-7aab-8f2e-7a2253c4c0e2",
+      "time": "2026-07-31 16:31:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vanke: Containing and reducing losses a core annual operating goal; near-term pressure remains high】Vanke held its first extraordinary shareholders’ meeting of 2026. Management said containing and reducing losses is one of this year’s core operating targets; H1 delivered phased progress in project classification, lean operations and expense control, but multiple factors mean near-term loss-control pressure remains high. The company will push to gradually restore operating performance and said it prioritizes deliveries, expressing confidence that with support from all parties it can complete H2 delivery tasks on time and to required quality."
+    },
+    {
+      "id": "mkt:019fb74c-5a6e-7aab-8f2e-74b5249c24da",
+      "time": "2026-07-31 16:31:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | GDP (YoY) (Q2) | actual 4.3% | consensus 4.5% | previous 5.90%"
+    },
+    {
+      "id": "5018787",
+      "time": "2026-07-31 16:30:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國香港二季度GDP同比初值 4.3%，預期 4.9%，前值 5.9%。中國香港二季度GDP季環比初值 -0.6%，預期 0.2%，前值 2.9%。"
+    },
+    {
+      "id": "5018786",
+      "time": "2026-07-31 16:30:28",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國香港6月貨幣供應M3年率 2.6%，前值1.00%。"
+    },
+    {
+      "id": "mkt:019fb74b-bade-7aab-8f2e-6be78bdfa1c2",
+      "time": "2026-07-31 16:30:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Hong Kong M3 money supply YoY 2.6% in June, up from 1.0% previously."
+    },
+    {
+      "id": "mkt:019fb74b-9304-7aab-8f2e-6202b4a71763",
+      "time": "2026-07-31 16:30:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | M3 Money Supply (YoY) (Jun) | actual 2.6% | previous 1.00%"
+    },
+    {
+      "id": "te:markets:571637",
+      "time": "2026-07-31 16:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Depreciates by 1.34% — Top crypto losers are Ether (-1.34%) and Bitcoin (-1.25%)."
+    },
+    {
+      "id": "mkt:019fb74b-5496-7aab-8f2e-59b450ea5510",
+      "time": "2026-07-31 16:29:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry of Foreign Affairs to suspend regular press briefings Aug 3-14, resume Aug 17】On July 31 the Ministry of Foreign Affairs said on the Foreign Journalists' News Centre website that routine press briefings will be suspended Aug. 3–14 and will resume Aug. 17. During the recess the spokesperson's office will accept questions by fax, email or WeChat; any special briefings will be announced on the Foreign Journalists' News Centre website."
+    },
+    {
+      "id": "5018785",
+      "time": "2026-07-31 16:29:49",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【萬科：控虧、減虧是全年核心經營目標之一，短期內仍面臨較大壓力】7月31日，萬科舉行2026年第一次臨時股東會。萬科管理層表示，控虧、減虧是公司今年核心經營目標之一，上半年已在專案分類施策、精益運營、費用管控等方面取得階段性進展，但受多重因素影響，短期控虧壓力仍然較大，將全力以赴推動經營業績逐步改善修復。萬科強調，公司高度重視交付工作，有信心在各方的支援下，保質保量完成下半年任務。"
+    },
+    {
+      "id": "5018784",
+      "time": "2026-07-31 16:29:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海爾生物：控股子公司增資擴股完成工商變更登記，持股比例降至58.38%】海爾生物公告，控股子公司鴻鵠航空增資擴股事項已完成工商變更登記，註冊資本由3750萬元增加至4625萬元，公司持股比例從72%變更為58.38%，鴻鵠航空仍為合併報表範圍內控股子公司。"
+    },
+    {
+      "id": "5018783",
+      "time": "2026-07-31 16:29:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：例行記者會將於8月3日至8月14日休會，8月17日恢復】7月31日，外交部發布例行記者會暑期休會通知：2026年暑期，外交部例行記者會將於8月3日（星期一）至8月14日（星期五）休會，8月17日（星期一）恢復。休會期間，外交部發言人辦公室將照常接受記者傳真、電郵或微信提問。如舉行專題吹風會將及時通知，請關注外交部外國記者新聞中心網站。"
+    },
+    {
+      "id": "mkt:019fb74a-c3f1-7aab-8f2e-53757a7de435",
+      "time": "2026-07-31 16:29:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000002.SZ",
+        "Impact bullish"
+      ],
+      "text": "【Vanke president Huang Yu, appointed in July, pledges risk mitigation and market-based debt solutions】Vanke held its first extraordinary shareholders’ meeting of 2026. Huang Yu, who took office as president in July, said the company will prioritize fulfilling its core responsibilities, balance short-term risk mitigation with long-term operational optimisation, and accelerate execution of operating measures. On debt, Vanke will actively pursue diversified market-based solutions and flexibly advance debt optimisation tailored to circumstances to safeguard the long-term interests of all parties."
+    },
+    {
+      "id": "5018782",
+      "time": "2026-07-31 16:29:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天順風能：簽訂6艘油輪建造合同，金額約4.2-4.8億美元】天順風能公告，公司海工板塊全資子公司與國際知名船東下屬子公司簽署6艘114,000DWT成品油/原油兩用油輪建造合同，合同金額約4.2-4.8億美元，摺合人民幣約28.5-32.6億元，將於2028年、2029年分批交付。本次簽約驗證了公司油氣海工業務在高質量、準交付方面得到船東及業主方高度認可，對當期利潤不構成重大影響，若順利實施將對未來營業收入和利潤產生積極影響。"
+    },
+    {
+      "id": "5018781",
+      "time": "2026-07-31 16:29:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博威合金：控股股東博威集團增持497.32萬股，持股比例升至26.08%】博威合金公告，控股股東博威集團基於增持計劃，自2026年3月24日至2026年7月30日透過集中競價方式增持公司股份497.32萬股，佔公司總股本的0.54%。本次權益變動後，博威集團持有公司2.4億股股份，佔公司總股本的26.08%，觸及1%刻度；博威集團及其一致行動人合計持有公司3.72億股股份，佔公司總股本的40.52%。"
+    },
+    {
+      "id": "5018780",
+      "time": "2026-07-31 16:29:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金田股份：累計回購1929.92萬股，支付總金額2億元】金田股份公告，公司此前披露擬以2億元~4億元回購公司股份，回購價格不超過16.84元/股，用於轉換公司可轉債，實施期限為2026年1月27日至2027年1月26日。因2025年年度權益分派，回購價格上限調整為不超過16.7元/股。截至2026年7月31日，公司累計回購股份1929.92萬股，佔總股本1.12%，成交最高價12.05元/股、最低價9.06元/股，支付總金額2億元（不含交易費用）。"
+    },
     {
       "id": "te:economy:571636",
       "time": "2026-07-31 16:28:16",
