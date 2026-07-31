@@ -1,7 +1,116 @@
 {
   "date": "2026-08-01",
-  "count": 94,
+  "count": 105,
   "items": [
+    {
+      "id": "mkt:019fb921-122a-7aab-8f3c-0d962f645d64",
+      "time": "2026-08-01 01:02:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Baker Hughes: U.S. energy firms added drilling rigs for the sixth time in seven weeks."
+    },
+    {
+      "id": "5019787",
+      "time": "2026-08-01 01:01:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【墨西哥恰帕斯州發生5.0級地震】7月31日，根據墨西哥國家地震監測局（SSN）的資訊，7月31日10時15分56秒，在墨西哥東南部的恰帕斯州的瑪帕斯特佩克市西南方向約165公里處發生5.0級地震，震源深度約10公里。墨西哥的地震預警系統沒有啟動，目前暫無人員傷亡和財產損失的報告。（央視）"
+    },
+    {
+      "id": "5019786",
+      "time": "2026-08-01 01:01:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SpaceX火箭殘骸即將撞月 可為月球撞擊研究提供樣本】一枚約5噸重的SpaceX火箭殘骸即將撞上月球。這枚火箭曾將兩臺月球著陸器送往月球，而本次撞擊並非計劃內操作。 追蹤天體軌道的“冥王星計劃”負責人Bill Gray開發了天體追蹤軟體，據其測算，這枚被遺棄的獵鷹9號火箭上面級，將於美國東部時間8月5日凌晨2點34分左右，以每小時5400英里的速度撞擊月球西側邊緣的愛因斯坦隕石坑附近。 2025年1月15日，SpaceX使用獵鷹9號火箭將螢火蟲航空的“藍幽靈1號”月球著陸器以及日本ispace公司的“韌性號”著陸器一同發射奔赴月球。“藍幽靈1號”於2025年3月2日順利月面軟著陸；而“韌性號”在著陸前90秒失聯，最終墜毀於月球表面。 研究人員介紹，本次任務結束後，獵鷹9號火箭上面級被遺棄在一條會穿越月球軌道的高地球軌道上，如今最終踏上了撞月軌跡。 新墨西哥州洛斯阿拉莫斯國家實驗室博士後研究員Fernando表示：“我們無法確定SpaceX對這次撞擊發生的知情程度。可以確定的是，由於該上面級承擔了月球載荷運送任務，最終被送入的軌道本身就存在撞月可能性。究竟是公司預判到風險卻未對外說明，還是根本沒有做軌道演算，這一點我們無從考證。”"
+    },
+    {
+      "id": "mkt:019fb91f-a80d-7aab-8f3c-03753cbe9989",
+      "time": "2026-08-01 01:01:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US total rig count stood at 588 in the week ended July 31, up from 587 the prior week."
+    },
+    {
+      "id": "mkt:019fb91f-7f4f-7aab-8f3b-f93503559875",
+      "time": "2026-08-01 01:01:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas rigs totaled 127 in the week to July 31, unchanged from the prior week."
+    },
+    {
+      "id": "mkt:019fb91f-7e3f-7aab-8f3b-f5627b9bcac1",
+      "time": "2026-08-01 01:01:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (Jul.31) | actual 588 | previous 587"
+    },
+    {
+      "id": "mkt:019fb91f-6a98-7aab-8f3b-ee52e294ef53",
+      "time": "2026-08-01 01:01:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US oil rig count for the week to July 31 rose to 451 rigs from 450 the previous week."
+    },
+    {
+      "id": "mkt:019fb91f-64c2-7aab-8f3b-e6048ff9df8f",
+      "time": "2026-08-01 01:01:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (Jul.31) | actual 127 | previous 127"
+    },
+    {
+      "id": "mkt:019fb91f-483f-7aab-8f3b-dbb2b87f42ac",
+      "time": "2026-08-01 01:01:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (Jul.31) | actual 451 | previous 450"
+    },
+    {
+      "id": "5019785",
+      "time": "2026-08-01 01:01:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至7月31日當週總鑽井總數 588口，前值587口。\n美國至7月31日當週石油鑽井總數 451口，前值450口。\n美國至7月31日當週天然氣鑽井總數 127口，前值127口。"
+    },
+    {
+      "id": "5019784",
+      "time": "2026-08-01 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.15%，滬銅收跌0.18%，滬鋁收平，滬鋅收漲0.64%，滬鉛收跌1.41%，滬鎳收跌0.24%，滬錫收漲0.72%。氧化鋁夜盤收漲0.04%，鋁合金收漲0.06%。不鏽鋼夜盤收漲0.17%。"
+    },
     {
       "id": "mkt:019fb91e-36bd-7aab-8f3b-d2d8702e7489",
       "time": "2026-08-01 00:59:52",
