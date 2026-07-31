@@ -1,7 +1,116 @@
 {
-  "updated": "2026-07-31 14:14:56",
-  "count": 17975,
+  "updated": "2026-07-31 14:19:41",
+  "count": 17977,
   "items": [
+    {
+      "id": "mkt:019fb6d2-9b1c-7aab-8f28-17b9125bc4d8",
+      "time": "2026-07-31 14:18:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "Apple shares fell 6.3% on Tradegate after the company said it expects current-quarter sales growth to be below market expectations."
+    },
+    {
+      "id": "5018423",
+      "time": "2026-07-31 14:17:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【野村：小米推出澎程車系，標誌著從BEV邁向EREV的第一步】野村發表報告指，小米於昨日舉行第二屆汽車科技日，推出SkyNomad(澎程)作為SU7/YU7以外的第二個車系系列，標誌著從純電池電動車(BEV)邁向增程式電動車(EREV)的第一步。該行予小米“中性”評級，目標價33港元。"
+    },
+    {
+      "id": "te:markets:571539",
+      "time": "2026-07-31 14:16:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Sony earnings above expectations at 58.07 JPY — Sony (6758) released earnings per share at 58.07 JPY, compared to market expectations of 44.86 JPY."
+    },
+    {
+      "id": "5018422",
+      "time": "2026-07-31 14:16:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【千問已在特斯拉車機內測】據媒體資訊，豆包大模型助手已接入部分特斯拉新車中。不過，多位知情人士透露，千問也早已進入特斯拉中國車機的深度測試階段，上車在即。結合上述知情人士的資訊，千問目前已經在特斯拉真實車機環境下完成大量的上車測試工作，“能聽能答、能控車、能導航、能辦事，都已經在計劃內”，未來，千問在特斯拉車機上能提供的能力，可能遠超單一“語音助手”的定義。"
+    },
+    {
+      "id": "mkt:019fb6d1-2bdd-7aab-8f28-0891803caae0",
+      "time": "2026-07-31 14:16:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【Barclays says euro-area rates trapped in cycle of hope and fear】Barclays rates strategists say euro-area interest rates remain locked in an \"endless cycle of hope and fear\" after German Bunds endured their worst July in more than 20 years. Ten-year German Bund yield is 3.15%, on the cheaper end of the range; Barclays warns that while lower yields could ease post-summer supply absorption, front-end rates and global factors still dominate. The bank adds tariff swings will be a key feature in 2025, with open conflict and ceasefire dynamics shaping 2026, and that the Middle East conflict continues to affect growth, inflation and monetary policy outlooks."
+    },
+    {
+      "id": "5018421",
+      "time": "2026-07-31 14:16:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦煤礦爆炸死亡人數升至34人。"
+    },
+    {
+      "id": "5018420",
+      "time": "2026-07-31 14:16:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出黃色暴雨警告。"
+    },
+    {
+      "id": "5018419",
+      "time": "2026-07-31 14:15:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大皇家銀行將阿迪達斯目標股價從210歐元下調至200歐元。"
+    },
+    {
+      "id": "5018418",
+      "time": "2026-07-31 14:15:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "蘋果股價在TradeGate交易平臺下跌6.3%，此前該公司公佈本季度營收增速將低於華爾街預期。"
+    },
+    {
+      "id": "mkt:019fb6cf-d487-7aab-8f28-07850e98b68b",
+      "time": "2026-07-31 14:15:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon shares rose 10.2% on Tradegate after the company's quarterly cloud revenue exceeded estimates."
+    },
+    {
+      "id": "5018417",
+      "time": "2026-07-31 14:14:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "亞馬遜股價在TradeGate交易所上漲10.2%，此前該公司季度雲營收增長超出市場預期。"
+    },
     {
       "id": "5018415",
       "time": "2026-07-31 14:13:31",
@@ -166141,92 +166250,6 @@
         "其他"
       ],
       "text": "【國家能源局：6月國家能源局核發綠證3.73億個】2026年6月，國家能源局核發綠證3.73億個，涉及可再生能源發電專案124.75萬個，其中可交易綠證2.06億個，佔比55.41%，可交易綠證數量較上月基本持平。本期核發2026年5月可再生能源電量對應綠證2.70億個，佔比72.38%。本月常規水電、生物質發電及其他可再生能源發電型別綠證核發數量均有所增長，其中常規水電綠證核發增幅最大。（國家能源局）"
-    },
-    {
-      "id": "5006077",
-      "time": "2026-07-24 14:19:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "德意志銀行將意法半導體目標股價從75歐元下調至70歐元。"
-    },
-    {
-      "id": "mkt:019f92c7-0255-7aab-8e7c-8a8063ba0021",
-      "time": "2026-07-24 14:19:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "01141.HK",
-        "Impact bearish"
-      ],
-      "text": "Minyin Capital (01141.HK) plunged in afternoon trading, down more than 40% at one point; now down 30%."
-    },
-    {
-      "id": "5006075",
-      "time": "2026-07-24 14:18:53",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【大摩：大幅下調IBM目標價至190美元，維持“與大市同步”評級】摩根士丹利發表報告指，IBM下半年復甦情境具有可行性，受早期訂單回補及生產力提升支撐，但指引幾乎沒有容許錯誤空間，並需要Z業務(企業級大型主機)強勁反彈。第三季業務與第四季指引，應能釐清第二季表現是暫時性還是更廣泛的優先順序調整趨勢。該行將其目標價由293美元大幅下調至190美元，維持“與大市同步”評級。"
-    },
-    {
-      "id": "5006074",
-      "time": "2026-07-24 14:17:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【重慶武隆能源發展集團董事長李志強接受審查調查】據重慶武隆區紀委監委訊息，重慶武隆能源發展（集團）有限公司黨委書記、董事長李志強涉嫌嚴重違紀違法，目前正接受區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "5006073",
-      "time": "2026-07-24 14:17:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股民銀資本午後下挫 盤中跌幅一度超40%】港股民銀資本午後股價下挫，跌幅一度超過40%，股價一度低至2.19港元。"
-    },
-    {
-      "id": "mkt:019f92c4-e567-7aab-8e7c-8128bb7e813c",
-      "time": "2026-07-24 14:16:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【UK June retail sales unexpectedly rise 1.0% MoM; YoY up 4.2%】ONS data show UK retail sales rose 1.0% MoM in June (consensus -0.3%) and 4.2% YoY (consensus 2.3%). ONS senior statistician Hannah Finselbach said demand was strong for outdoor goods, air conditioners and clothing, and online sales of sports goods were robust. The report notes household inflation has fallen to its lowest in over a year as fuel and food prices decline, and labour market weakness is showing tentative signs of stabilising. ONS cautioned the recovery remains fragile; the recent breakdown of a US–Iran ceasefire has revived concerns about higher energy bills and rising mortgage costs."
-    },
-    {
-      "id": "mkt:019f92c4-afe6-7aab-8e7c-79e58f3b5968",
-      "time": "2026-07-24 14:16:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Fubao Info: Lithium carbonate spot down 1,500 yuan/ton; battery-grade at 140,850 yuan/ton】Fubao battery-grade spot basis index -1,620 yuan/ton (unchanged). Battery-grade lithium carbonate 140,850 yuan/ton (-1,500). Industrial-grade lithium carbonate (composite) 138,350 yuan/ton (-1,500). Premium battery-grade lithium carbonate 141,850 yuan/ton (-1,500). Lithium hydroxide index 126,333.33 yuan/ton (-1,500). Metallic lithium index 1,032,500 yuan/ton (unchanged). Fubao brine-derived lithium sulfate discount factor 76.5% (+0.5 pts)."
-    },
-    {
-      "id": "5006072",
-      "time": "2026-07-24 14:15:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "豆粕連續主力合約日內漲1%，現報3215.00元。"
-    },
-    {
-      "id": "mkt:019f92c3-69aa-7aab-8e7c-74d8afd51acd",
-      "time": "2026-07-24 14:15:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Tencent reorganizes Hunyuan teams, merges large-language and multimodal units to accelerate model R&D】Tencent has merged its Hunyuan multimodal and large-language model teams into a single Foundation Model Department overseen by Chief AI Scientist Yao Shunyu, aiming to improve R&D and coordination efficiency and to advance full‑modality model capabilities."
     }
   ]
 }
