@@ -1,7 +1,149 @@
 {
   "date": "2026-07-31",
-  "count": 2472,
+  "count": 2486,
   "items": [
+    {
+      "id": "mkt:019fb7bd-8441-7aab-8f32-4e2257bd7e92",
+      "time": "2026-07-31 18:34:38",
+      "tags": [
+        "MKT News",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Wells Fargo raises Apple (AAPL.O) PT to $350 from $310."
+    },
+    {
+      "id": "5019128",
+      "time": "2026-07-31 18:34:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陳新武任重慶市代市長】重慶市第六屆人民代表大會常務委員會第二十五次會議7月31日決定，任命陳新武為重慶市人民政府副市長、代理市長。（新華社）"
+    },
+    {
+      "id": "mkt:019fb7bc-975f-7aab-8f32-41da96197581",
+      "time": "2026-07-31 18:33:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XOM.O",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Exxon Mobil (XOM.N): Middle East production disruptions have cut year-to-date earnings by $1.8 bln."
+    },
+    {
+      "id": "mkt:019fb7bc-365b-7aab-8f32-3b110dc5fb53",
+      "time": "2026-07-31 18:33:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Exxon Mobil (XOM.N): After the strait reopened, two damaged Qatari LNG trains will remain offline, expected to cut output by about 100,000 barrels of oil equivalent."
+    },
+    {
+      "id": "5019127",
+      "time": "2026-07-31 18:32:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃克森美孚：中東市場波動干擾導致年初至今盈利減少18億美元。"
+    },
+    {
+      "id": "mkt:019fb7bb-cdf5-7aab-8f32-33bd04cf8b10",
+      "time": "2026-07-31 18:32:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Wedbush raises PT on Amazon (AMZN.O) to $310 from $293."
+    },
+    {
+      "id": "5019126",
+      "time": "2026-07-31 18:32:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百傲化學：擬8000萬至1.2億元回購股份維護股東權益】百傲化學公告稱，公司擬以集中競價交易方式回購股份，回購金額不低於8000萬元且不超過1.2億元，回購價格不超過22.96元/股，回購期限為董事會審議透過方案之日（2026年7月31日）起3個月內。回購股份數量為348.43萬股至522.65萬股，佔總股本的0.49% - 0.74%，用途為維護公司價值及股東權益所必需，後續將嚴格按規定出售，未售部分依法登出。相關主體暫無減持計劃，本次回購存在多種不確定性風險。"
+    },
+    {
+      "id": "mkt:019fb7bb-7e3a-7aab-8f32-2ce8a5676447",
+      "time": "2026-07-31 18:32:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XOM.N"
+      ],
+      "text": "Exxon Mobil (XOM.N): A full Q3 closure of the Strait of Hormuz would cut Middle East output by about 750,000 barrels of oil equivalent per day YoY."
+    },
+    {
+      "id": "5019125",
+      "time": "2026-07-31 18:32:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲中馬：擬3000萬-5000萬元回購股份用於激勵】雲中馬公告稱，公司擬以集中競價交易方式回購股份，回購資金總額不低於3000萬元、不超過5000萬元，回購價格不超過58.80元/股。回購股份數量約51.02萬股-85.03萬股，佔公司目前總股本的0.37%-0.62%，將用於未來實施員工持股計劃或股權激勵。回購期限自董事會審議透過方案之日起12個月內。截至決議日，相關股東未來3個月、6個月無減持計劃。本次回購存在價格、方案實施等風險。"
+    },
+    {
+      "id": "5019124",
+      "time": "2026-07-31 18:31:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "韋德布什將亞馬遜目標股價從293美元上調至310美元。"
+    },
+    {
+      "id": "mkt:019fb7ba-c659-7aab-8f32-208cf53b6e0a",
+      "time": "2026-07-31 18:31:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XOM.N",
+        "Impact bullish"
+      ],
+      "text": "Exxon Mobil (XOM.N) said second-quarter production was 4,514 thousand barrels of oil equivalent (4.514 mln boe), versus market consensus of 4,227 thousand boe (4.227 mln)."
+    },
+    {
+      "id": "5019123",
+      "time": "2026-07-31 18:31:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚第二季度調整後每股收益3.52美元，市場預估3.54美元。"
+    },
+    {
+      "id": "5019122",
+      "time": "2026-07-31 18:31:31",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "【三菱日聯：疑似日元干預的時機與過往行動相似】三菱日聯銀行分析師在報告中指出，週四旨在提振日元的疑似干預行動，其時機與以往的干預操作如出一轍。他們表示，此次疑似干預發生在月底，屬於相關確認資料要等到8月底才會公佈的時間段。此外，行動發生在紐約交易時段，這給人留下了“此次行動得到了美國政府全力支援的明確印象”。美國財政部長貝森特在週四表示，日元似乎“被嚴重低估”；與此同時，媒體報道稱紐約聯儲進行了美元兌日元匯率詢價。"
+    },
+    {
+      "id": "mkt:019fb7ba-a3cf-7aab-8f32-1f0594e9ff50",
+      "time": "2026-07-31 18:31:29",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Mitsubishi UFJ: Timing of suspected yen intervention mirrors past moves】Mitsubishi UFJ analysts said a suspected yen-support intervention on Thursday mirrored prior operations, noting the timing — at month-end and before confirmation data due at the end of August — and that it occurred in the New York session. The timing and venue left \"the clear impression that the action had full support of the U.S. government.\" U.S. Treasury Secretary Bessent said the yen appears \"severely undervalued,\" and media reported the New York Fed sought dollar/yen quotes."
+    },
     {
       "id": "te:markets:571757",
       "time": "2026-07-31 18:30:00",

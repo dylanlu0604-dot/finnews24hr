@@ -1,7 +1,149 @@
 {
-  "updated": "2026-07-31 18:31:21",
-  "count": 17966,
+  "updated": "2026-07-31 18:35:07",
+  "count": 17959,
   "items": [
+    {
+      "id": "mkt:019fb7bd-8441-7aab-8f32-4e2257bd7e92",
+      "time": "2026-07-31 18:34:38",
+      "tags": [
+        "MKT News",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Wells Fargo raises Apple (AAPL.O) PT to $350 from $310."
+    },
+    {
+      "id": "5019128",
+      "time": "2026-07-31 18:34:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陳新武任重慶市代市長】重慶市第六屆人民代表大會常務委員會第二十五次會議7月31日決定，任命陳新武為重慶市人民政府副市長、代理市長。（新華社）"
+    },
+    {
+      "id": "mkt:019fb7bc-975f-7aab-8f32-41da96197581",
+      "time": "2026-07-31 18:33:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XOM.O",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Exxon Mobil (XOM.N): Middle East production disruptions have cut year-to-date earnings by $1.8 bln."
+    },
+    {
+      "id": "mkt:019fb7bc-365b-7aab-8f32-3b110dc5fb53",
+      "time": "2026-07-31 18:33:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Exxon Mobil (XOM.N): After the strait reopened, two damaged Qatari LNG trains will remain offline, expected to cut output by about 100,000 barrels of oil equivalent."
+    },
+    {
+      "id": "5019127",
+      "time": "2026-07-31 18:32:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃克森美孚：中東市場波動干擾導致年初至今盈利減少18億美元。"
+    },
+    {
+      "id": "mkt:019fb7bb-cdf5-7aab-8f32-33bd04cf8b10",
+      "time": "2026-07-31 18:32:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Wedbush raises PT on Amazon (AMZN.O) to $310 from $293."
+    },
+    {
+      "id": "5019126",
+      "time": "2026-07-31 18:32:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百傲化學：擬8000萬至1.2億元回購股份維護股東權益】百傲化學公告稱，公司擬以集中競價交易方式回購股份，回購金額不低於8000萬元且不超過1.2億元，回購價格不超過22.96元/股，回購期限為董事會審議透過方案之日（2026年7月31日）起3個月內。回購股份數量為348.43萬股至522.65萬股，佔總股本的0.49% - 0.74%，用途為維護公司價值及股東權益所必需，後續將嚴格按規定出售，未售部分依法登出。相關主體暫無減持計劃，本次回購存在多種不確定性風險。"
+    },
+    {
+      "id": "mkt:019fb7bb-7e3a-7aab-8f32-2ce8a5676447",
+      "time": "2026-07-31 18:32:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XOM.N"
+      ],
+      "text": "Exxon Mobil (XOM.N): A full Q3 closure of the Strait of Hormuz would cut Middle East output by about 750,000 barrels of oil equivalent per day YoY."
+    },
+    {
+      "id": "5019125",
+      "time": "2026-07-31 18:32:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲中馬：擬3000萬-5000萬元回購股份用於激勵】雲中馬公告稱，公司擬以集中競價交易方式回購股份，回購資金總額不低於3000萬元、不超過5000萬元，回購價格不超過58.80元/股。回購股份數量約51.02萬股-85.03萬股，佔公司目前總股本的0.37%-0.62%，將用於未來實施員工持股計劃或股權激勵。回購期限自董事會審議透過方案之日起12個月內。截至決議日，相關股東未來3個月、6個月無減持計劃。本次回購存在價格、方案實施等風險。"
+    },
+    {
+      "id": "5019124",
+      "time": "2026-07-31 18:31:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "韋德布什將亞馬遜目標股價從293美元上調至310美元。"
+    },
+    {
+      "id": "mkt:019fb7ba-c659-7aab-8f32-208cf53b6e0a",
+      "time": "2026-07-31 18:31:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XOM.N",
+        "Impact bullish"
+      ],
+      "text": "Exxon Mobil (XOM.N) said second-quarter production was 4,514 thousand barrels of oil equivalent (4.514 mln boe), versus market consensus of 4,227 thousand boe (4.227 mln)."
+    },
+    {
+      "id": "5019123",
+      "time": "2026-07-31 18:31:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚第二季度調整後每股收益3.52美元，市場預估3.54美元。"
+    },
+    {
+      "id": "5019122",
+      "time": "2026-07-31 18:31:31",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "【三菱日聯：疑似日元干預的時機與過往行動相似】三菱日聯銀行分析師在報告中指出，週四旨在提振日元的疑似干預行動，其時機與以往的干預操作如出一轍。他們表示，此次疑似干預發生在月底，屬於相關確認資料要等到8月底才會公佈的時間段。此外，行動發生在紐約交易時段，這給人留下了“此次行動得到了美國政府全力支援的明確印象”。美國財政部長貝森特在週四表示，日元似乎“被嚴重低估”；與此同時，媒體報道稱紐約聯儲進行了美元兌日元匯率詢價。"
+    },
+    {
+      "id": "mkt:019fb7ba-a3cf-7aab-8f32-1f0594e9ff50",
+      "time": "2026-07-31 18:31:29",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Mitsubishi UFJ: Timing of suspected yen intervention mirrors past moves】Mitsubishi UFJ analysts said a suspected yen-support intervention on Thursday mirrored prior operations, noting the timing — at month-end and before confirmation data due at the end of August — and that it occurred in the New York session. The timing and venue left \"the clear impression that the action had full support of the U.S. government.\" U.S. Treasury Secretary Bessent said the yen appears \"severely undervalued,\" and media reported the New York Fed sought dollar/yen quotes."
+    },
     {
       "id": "te:markets:571757",
       "time": "2026-07-31 18:30:00",
@@ -165994,198 +166136,6 @@
         "市場"
       ],
       "text": "【孚日股份：股價連續兩日異動 新能源業務業績影響不確定】孚日股份公告稱，公司股票23、24日收盤價格漲幅偏離值累計超22.68%，屬異常波動。經核查，公司前期資訊無需更正補充，經營正常，控股股東等在異動期間無買賣公司股票行為，不存在應披露而未披露事項。子公司孚日新能源VC精製產能1萬噸，截至2026年半年度營收佔公司約10%，新能源業務未來業績影響不確定，提醒投資者注意風險。"
-    },
-    {
-      "id": "5006762",
-      "time": "2026-07-24 18:34:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海大集團：控股股東持股比例因期權行權被動稀釋至55%】海大集團公告稱，2026年6月30日至7月23日，因公司2024年股票期權激勵計劃股票期權第二個行權期自主行權1025.04萬股，公司總股本由16.45億股增至16.56億股，控股股東海灝投資持股比例由55.34%被動稀釋至55.00%，被動稀釋比例為0.34%。本次權益變動不涉及持股數量變化，不會導致控股股東、實際控制人變化，也不影響公司治理結構和持續經營。"
-    },
-    {
-      "id": "5006761",
-      "time": "2026-07-24 18:34:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【希荻微：股東重慶唯純提前終止減持計劃，已減持0.40%】希荻微公告，持股5%以上股東重慶唯純決定提前終止減持計劃。截至2026年7月24日，重慶唯純透過集中競價方式減持公司股份167.45萬股，佔公司當前總股本的0.40%；減持價格區間18.61～19.73元/股，減持總金額3224.28萬元，當前持股2227.71萬股，當前持股比例5.36%。"
-    },
-    {
-      "id": "5006760",
-      "time": "2026-07-24 18:34:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【欣天科技：籌劃公司控制權變更事項申請停牌】欣天科技公告，公司於2026年7月27日開市起停牌，預計停牌時間不超過兩個交易日。公司控股股東、實際控制人石偉平先生正在籌劃涉及所持有公司股份轉讓的相關事宜，該事項可能導致公司控股股東、實際控制人發生變更。目前，各方主體正在就具體交易方案、交易價格、協議條款等相關事項進行論證和磋商，具體情況以各方簽訂的相關協議為準。"
-    },
-    {
-      "id": "5006759",
-      "time": "2026-07-24 18:34:07",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團將IBM目標股價從255美元下調至245美元。"
-    },
-    {
-      "id": "mkt:019f93b0-58e0-7aab-8e85-22a4ff94070b",
-      "time": "2026-07-24 18:33:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India and Israel have completed the second round of negotiations on a free trade agreement."
-    },
-    {
-      "id": "5006758",
-      "time": "2026-07-24 18:33:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度與以色列完成自由貿易協定第二輪談判。"
-    },
-    {
-      "id": "mkt:019f93b0-4f8a-7aab-8e85-1a829a809308",
-      "time": "2026-07-24 18:33:53",
-      "tags": [
-        "MKT News",
-        "IBM.N",
-        "Impact bearish"
-      ],
-      "text": "Citigroup cut its PT on IBM (IBM.N) to $245 from $255."
-    },
-    {
-      "id": "5006757",
-      "time": "2026-07-24 18:33:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：烏克蘭武裝部隊沒有機會重奪紅利曼。"
-    },
-    {
-      "id": "5006756",
-      "time": "2026-07-24 18:33:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列國防軍暫停士兵休假，增派增援部隊，準備在約旦河西岸進行大規模行動，此前該地區發生致命襲擊。"
-    },
-    {
-      "id": "mkt:019f93af-e806-7aab-8e85-122ad4b05000",
-      "time": "2026-07-24 18:33:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IDF suspends troop leave, sends reinforcements and prepares large-scale operations in the West Bank after a deadly attack, i24News reports."
-    },
-    {
-      "id": "5006755",
-      "time": "2026-07-24 18:33:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行：截至 7 月 20 日，年度通脹率為 5.9%."
-    },
-    {
-      "id": "mkt:019f93af-780e-7aab-8e85-0ff2ad19b182",
-      "time": "2026-07-24 18:32:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian Defence Ministry says Ukrainian Armed Forces have no chance of retaking Hongliman."
-    },
-    {
-      "id": "5006754",
-      "time": "2026-07-24 18:32:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遼寧省阜新市人大常委會原副主任劉林被雙開】經查，劉林喪失理想信念，背棄初心使命，違規收受禮金，利用職權為親屬經營活動謀取利益；紀法底線失守，利用職務上的便利，為他人在工程款結算、企業經營等方面謀取利益，非法收受財物；濫用職權致使公共財產、國家和人民利益遭受重大損失。"
-    },
-    {
-      "id": "5006753",
-      "time": "2026-07-24 18:32:39",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【微信上線新功能：可手動清除撤回記錄提示】據悉，微信8.0.76版本上線“撤回提示刪除”功能，使用者可手動清理聊天介面中的撤回記錄提示。具體操作：長按“你撤回了一條訊息”，然後點選刪除就可以了。對此，騰訊客服回應表示，“微信更新至8.0.72及以上版本後，長按撤回訊息的提示，選擇“刪除”即可（僅刪除自己裝置上的記錄）。該功能目前已在iOS/Android端灰度測試，未獲體驗資格請等待後續更新。”（新浪科技）"
-    },
-    {
-      "id": "5006752",
-      "time": "2026-07-24 18:32:38",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯央行預計通脹將因\"燃料價格大幅上漲\"而上升."
-    },
-    {
-      "id": "5006751",
-      "time": "2026-07-24 18:32:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行：考慮到某些行業生產能力的暫時下降所帶來的直接和間接影響，以及未來三年內財政政策的擴張性將超過四月份的預期，經濟將更加平穩。"
-    },
-    {
-      "id": "mkt:019f93ae-c78e-7aab-8e85-05687d08d7b6",
-      "time": "2026-07-24 18:32:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian central bank said the economy will be more stable, citing the direct and indirect effects of temporary production-capacity declines in some sectors and fiscal policy over the next three years being more expansionary than expected in April."
-    },
-    {
-      "id": "mkt:019f93ae-9107-7aab-8e84-fe6f51c97212",
-      "time": "2026-07-24 18:31:58",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "Brent",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "Russian central bank expects 2026 GDP growth of 0.0–1.0%, down from a prior 0.5–1.5% forecast."
-    },
-    {
-      "id": "mkt:019f93ae-361f-7aab-8e84-f261f524ee26",
-      "time": "2026-07-24 18:31:35",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "RUSSIAN CENBANK expects the average oil price in its 2026 baseline scenario to be $60/bbl, down from a prior forecast of $65/bbl."
-    },
-    {
-      "id": "5006750",
-      "time": "2026-07-24 18:31:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行預計2027年關鍵利率將處於10.5%-12.5%區間，此前預測值為8%-10%。"
-    },
-    {
-      "id": "mkt:019f93ae-0e4a-7aab-8e84-ea1d26af14d5",
-      "time": "2026-07-24 18:31:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【RABOBANK: US July preliminary PMI may understate Middle East and oil-price effects】RABOBANK analysts warn the preliminary US July PMI due tonight may not fully capture recent Middle East developments and commodity-market moves. They say the July survey was likely conducted over the past two weeks, so if many respondents answered earlier they may not have factored the latest Middle East tensions or this week’s oil-price rise, leaving the print potentially biased."
     }
   ]
 }
