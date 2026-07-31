@@ -1,7 +1,275 @@
 {
   "date": "2026-07-31",
-  "count": 726,
+  "count": 754,
   "items": [
+    {
+      "id": "te:markets:571385",
+      "time": "2026-07-31 08:11:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Fairfax Financial earnings below expectations at 63.38 USD — Fairfax Financial (FFHU) released earnings per share at 63.38 USD, compared to market expectations of 76.63 USD."
+    },
+    {
+      "id": "te:markets:571384",
+      "time": "2026-07-31 08:11:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Fujitsu earnings above expectations at 23.13 JPY — Fujitsu (6702) released earnings per share at 23.13 JPY, compared to market expectations of 16.99 JPY."
+    },
+    {
+      "id": "te:markets:571383",
+      "time": "2026-07-31 08:11:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Takeda earnings above expectations at 71.65 JPY — Takeda (4502) released earnings per share at 71.65 JPY, compared to market expectations of 54.71 JPY."
+    },
+    {
+      "id": "te:markets:571382",
+      "time": "2026-07-31 08:11:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Japan Tobacco earnings above expectations at 132.25 JPY — Japan Tobacco (2914) released earnings per share at 132.25 JPY, compared to market expectations of 105.38 JPY."
+    },
+    {
+      "id": "te:markets:571381",
+      "time": "2026-07-31 08:11:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Mizuho Financial earnings above expectations at 115.90 JPY — Mizuho Financial (8411) released earnings per share at 115.90 JPY, compared to market expectations of 115.52 JPY."
+    },
+    {
+      "id": "5017911",
+      "time": "2026-07-31 08:10:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均股價指數漲幅進一步擴大，上漲2%。"
+    },
+    {
+      "id": "5017910",
+      "time": "2026-07-31 08:10:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "任天堂股價下跌7.5%，創11周以來最大跌幅。"
+    },
+    {
+      "id": "mkt:019fb581-dd9d-7aab-8f20-b92194a1ccea",
+      "time": "2026-07-31 08:10:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Australia's S&P/ASX 200 opened 76.50 points higher, or 0.85%, at 9,044.20 on July 31 (Friday)."
+    },
+    {
+      "id": "mkt:019fb581-d71a-7aab-8f20-b5eebff0605a",
+      "time": "2026-07-31 08:10:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romanian Defence Ministry said it scrambled two fighter jets after detecting a group of aerial targets near the river border with Ukraine."
+    },
+    {
+      "id": "mkt:019fb581-a4e5-7aab-8f20-a8b8dd8d5e6b",
+      "time": "2026-07-31 08:10:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 rose to 63,000 points, up 2.00% intraday."
+    },
+    {
+      "id": "5017909",
+      "time": "2026-07-31 08:09:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：埃及政策審議完成後，埃及當局可提取約18億美元的對應資金。"
+    },
+    {
+      "id": "5017908",
+      "time": "2026-07-31 08:09:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅馬尼亞國防部在X平臺發文稱，羅馬尼亞在與烏克蘭接壤的河流邊境附近探測到一組空中目標，已緊急派出兩架戰機。"
+    },
+    {
+      "id": "5017907",
+      "time": "2026-07-31 08:09:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：完成對埃及的評估。"
+    },
+    {
+      "id": "5017906",
+      "time": "2026-07-31 08:08:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元現上漲0.55%，報160.35。"
+    },
+    {
+      "id": "5017905",
+      "time": "2026-07-31 08:08:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國副財長：正就外匯市場事宜與美日等主要國家保持密切協調。"
+    },
+    {
+      "id": "te:markets:571379",
+      "time": "2026-07-31 08:08:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Yen Strengthens on Suspected Intervention — The Japanese yen traded near 160 per dollar on Friday after surging as much as 3.3% in the previous session, with markets suspecting Tokyo intervened once again to support the currency ahead of the Bank of Japan’s policy decision. Nikkei reported that Japanese authorities entered the foreign exchange market and that US officials requested dollar-yen rate quotes. Japanese Finance Minister Satsuki Katayama has repeatedly signaled that authorities stand ready to intervene at any time, while noting that Japan remains in close communication with the US on foreign exchange issues. The yen had weakened to a 40-year low earlier this month under pressure from elevated energy costs, fiscal concerns, and wide interest rate differentials. Investors now await the BOJ’s policy decision later today, with the central bank widely expected to leave interest rates unchanged following its June rate hike."
+    },
+    {
+      "id": "mkt:019fb580-0ac8-7aab-8f20-a72d913425d5",
+      "time": "2026-07-31 08:08:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea’s vice finance minister said Seoul will continue close cooperation with the United States and Japan."
+    },
+    {
+      "id": "mkt:019fb57f-d65b-7aab-8f20-9bf4b0794e56",
+      "time": "2026-07-31 08:08:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's deputy finance minister said Seoul is closely coordinating with the United States, Japan and other major countries in the foreign exchange market."
+    },
+    {
+      "id": "mkt:019fb57f-a5b9-7aab-8f20-93e7f6daa664",
+      "time": "2026-07-31 08:07:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Japan's top FX official MIMURA said Tokyo has received U.S. support that goes beyond mere moral backing."
+    },
+    {
+      "id": "5017904",
+      "time": "2026-07-31 08:07:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所對KOSPI啟動了側車機制，程式化交易暫停5分鐘。"
+    },
+    {
+      "id": "mkt:019fb57e-faa4-7aab-8f20-881399f6b2a7",
+      "time": "2026-07-31 08:07:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange activated the KOSDAQ sidecar mechanism, halting algorithmic trading for 5 minutes."
+    },
+    {
+      "id": "mkt:019fb57e-b883-7aab-8f20-84cc4ea3feb7",
+      "time": "2026-07-31 08:06:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange (KRX) activated a sidecar mechanism on the KOSPI, suspending algorithmic trading for five minutes."
+    },
+    {
+      "id": "5017903",
+      "time": "2026-07-31 08:06:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1.5%至260.67點。"
+    },
+    {
+      "id": "5017902",
+      "time": "2026-07-31 08:06:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國交易所啟動KOSDAQ臨時停牌機制，程式化交易暫停5分鐘。"
+    },
+    {
+      "id": "5017901",
+      "time": "2026-07-31 08:06:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數上漲1.4%，至62734.18點。"
+    },
+    {
+      "id": "5017900",
+      "time": "2026-07-31 08:05:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《工業綠色低碳發展“十五五”規劃》釋出】據工業和資訊化部訊息，今天（7月31日），《工業綠色低碳發展“十五五”規劃》（以下簡稱《規劃》）正式釋出，從強調工業自身綠色低碳發展，到更加註重工業對全社會綠色轉型的支撐作用，統籌推進產業綠色化和綠色產業化。《規劃》明確，深入實施工業領域碳達峰行動，提出推動產業結構和用能結構協同轉型、加快電氣化改造和綠色能源應用、加力推進工業重點行業節能降碳等細分任務，明確了地方碳考核、行業碳管控、企業碳管理、專案碳評價、產品碳足跡等具體任務。"
+    },
+    {
+      "id": "5017899",
+      "time": "2026-07-31 08:05:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "軟銀集團股票因大量買單湧入而暫未交易。"
+    },
+    {
+      "id": "5017898",
+      "time": "2026-07-31 08:04:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本負責外匯事務的最高官員三村淳表示：（有關外匯）保持聯絡的物件不只是美國。聽到各方對近期日元疲軟的各種擔憂。"
+    },
     {
       "id": "mkt:019fb57c-b5a6-7aab-8f20-7b179b0e1c49",
       "time": "2026-07-31 08:04:36",

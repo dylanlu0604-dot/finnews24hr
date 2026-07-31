@@ -1,7 +1,275 @@
 {
-  "updated": "2026-07-31 08:05:10",
-  "count": 17988,
+  "updated": "2026-07-31 08:12:37",
+  "count": 17990,
   "items": [
+    {
+      "id": "te:markets:571385",
+      "time": "2026-07-31 08:11:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Fairfax Financial earnings below expectations at 63.38 USD — Fairfax Financial (FFHU) released earnings per share at 63.38 USD, compared to market expectations of 76.63 USD."
+    },
+    {
+      "id": "te:markets:571384",
+      "time": "2026-07-31 08:11:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Fujitsu earnings above expectations at 23.13 JPY — Fujitsu (6702) released earnings per share at 23.13 JPY, compared to market expectations of 16.99 JPY."
+    },
+    {
+      "id": "te:markets:571383",
+      "time": "2026-07-31 08:11:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Takeda earnings above expectations at 71.65 JPY — Takeda (4502) released earnings per share at 71.65 JPY, compared to market expectations of 54.71 JPY."
+    },
+    {
+      "id": "te:markets:571382",
+      "time": "2026-07-31 08:11:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Japan Tobacco earnings above expectations at 132.25 JPY — Japan Tobacco (2914) released earnings per share at 132.25 JPY, compared to market expectations of 105.38 JPY."
+    },
+    {
+      "id": "te:markets:571381",
+      "time": "2026-07-31 08:11:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Mizuho Financial earnings above expectations at 115.90 JPY — Mizuho Financial (8411) released earnings per share at 115.90 JPY, compared to market expectations of 115.52 JPY."
+    },
+    {
+      "id": "5017911",
+      "time": "2026-07-31 08:10:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均股價指數漲幅進一步擴大，上漲2%。"
+    },
+    {
+      "id": "5017910",
+      "time": "2026-07-31 08:10:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "任天堂股價下跌7.5%，創11周以來最大跌幅。"
+    },
+    {
+      "id": "mkt:019fb581-dd9d-7aab-8f20-b92194a1ccea",
+      "time": "2026-07-31 08:10:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Australia's S&P/ASX 200 opened 76.50 points higher, or 0.85%, at 9,044.20 on July 31 (Friday)."
+    },
+    {
+      "id": "mkt:019fb581-d71a-7aab-8f20-b5eebff0605a",
+      "time": "2026-07-31 08:10:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romanian Defence Ministry said it scrambled two fighter jets after detecting a group of aerial targets near the river border with Ukraine."
+    },
+    {
+      "id": "mkt:019fb581-a4e5-7aab-8f20-a8b8dd8d5e6b",
+      "time": "2026-07-31 08:10:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 rose to 63,000 points, up 2.00% intraday."
+    },
+    {
+      "id": "5017909",
+      "time": "2026-07-31 08:09:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：埃及政策審議完成後，埃及當局可提取約18億美元的對應資金。"
+    },
+    {
+      "id": "5017908",
+      "time": "2026-07-31 08:09:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅馬尼亞國防部在X平臺發文稱，羅馬尼亞在與烏克蘭接壤的河流邊境附近探測到一組空中目標，已緊急派出兩架戰機。"
+    },
+    {
+      "id": "5017907",
+      "time": "2026-07-31 08:09:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：完成對埃及的評估。"
+    },
+    {
+      "id": "5017906",
+      "time": "2026-07-31 08:08:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元現上漲0.55%，報160.35。"
+    },
+    {
+      "id": "5017905",
+      "time": "2026-07-31 08:08:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國副財長：正就外匯市場事宜與美日等主要國家保持密切協調。"
+    },
+    {
+      "id": "te:markets:571379",
+      "time": "2026-07-31 08:08:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Yen Strengthens on Suspected Intervention — The Japanese yen traded near 160 per dollar on Friday after surging as much as 3.3% in the previous session, with markets suspecting Tokyo intervened once again to support the currency ahead of the Bank of Japan’s policy decision. Nikkei reported that Japanese authorities entered the foreign exchange market and that US officials requested dollar-yen rate quotes. Japanese Finance Minister Satsuki Katayama has repeatedly signaled that authorities stand ready to intervene at any time, while noting that Japan remains in close communication with the US on foreign exchange issues. The yen had weakened to a 40-year low earlier this month under pressure from elevated energy costs, fiscal concerns, and wide interest rate differentials. Investors now await the BOJ’s policy decision later today, with the central bank widely expected to leave interest rates unchanged following its June rate hike."
+    },
+    {
+      "id": "mkt:019fb580-0ac8-7aab-8f20-a72d913425d5",
+      "time": "2026-07-31 08:08:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea’s vice finance minister said Seoul will continue close cooperation with the United States and Japan."
+    },
+    {
+      "id": "mkt:019fb57f-d65b-7aab-8f20-9bf4b0794e56",
+      "time": "2026-07-31 08:08:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's deputy finance minister said Seoul is closely coordinating with the United States, Japan and other major countries in the foreign exchange market."
+    },
+    {
+      "id": "mkt:019fb57f-a5b9-7aab-8f20-93e7f6daa664",
+      "time": "2026-07-31 08:07:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Japan's top FX official MIMURA said Tokyo has received U.S. support that goes beyond mere moral backing."
+    },
+    {
+      "id": "5017904",
+      "time": "2026-07-31 08:07:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所對KOSPI啟動了側車機制，程式化交易暫停5分鐘。"
+    },
+    {
+      "id": "mkt:019fb57e-faa4-7aab-8f20-881399f6b2a7",
+      "time": "2026-07-31 08:07:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange activated the KOSDAQ sidecar mechanism, halting algorithmic trading for 5 minutes."
+    },
+    {
+      "id": "mkt:019fb57e-b883-7aab-8f20-84cc4ea3feb7",
+      "time": "2026-07-31 08:06:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange (KRX) activated a sidecar mechanism on the KOSPI, suspending algorithmic trading for five minutes."
+    },
+    {
+      "id": "5017903",
+      "time": "2026-07-31 08:06:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1.5%至260.67點。"
+    },
+    {
+      "id": "5017902",
+      "time": "2026-07-31 08:06:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國交易所啟動KOSDAQ臨時停牌機制，程式化交易暫停5分鐘。"
+    },
+    {
+      "id": "5017901",
+      "time": "2026-07-31 08:06:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數上漲1.4%，至62734.18點。"
+    },
+    {
+      "id": "5017900",
+      "time": "2026-07-31 08:05:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《工業綠色低碳發展“十五五”規劃》釋出】據工業和資訊化部訊息，今天（7月31日），《工業綠色低碳發展“十五五”規劃》（以下簡稱《規劃》）正式釋出，從強調工業自身綠色低碳發展，到更加註重工業對全社會綠色轉型的支撐作用，統籌推進產業綠色化和綠色產業化。《規劃》明確，深入實施工業領域碳達峰行動，提出推動產業結構和用能結構協同轉型、加快電氣化改造和綠色能源應用、加力推進工業重點行業節能降碳等細分任務，明確了地方碳考核、行業碳管控、企業碳管理、專案碳評價、產品碳足跡等具體任務。"
+    },
+    {
+      "id": "5017899",
+      "time": "2026-07-31 08:05:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "軟銀集團股票因大量買單湧入而暫未交易。"
+    },
+    {
+      "id": "5017898",
+      "time": "2026-07-31 08:04:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本負責外匯事務的最高官員三村淳表示：（有關外匯）保持聯絡的物件不只是美國。聽到各方對近期日元疲軟的各種擔憂。"
+    },
     {
       "id": "mkt:019fb57c-b5a6-7aab-8f20-7b179b0e1c49",
       "time": "2026-07-31 08:04:36",
@@ -166017,264 +166285,6 @@
         "公司"
       ],
       "text": "【瑞豐光電：基於公司重要在研專案Micro LED研究程序 可實現短距離光通訊場景應用】瑞豐光電近日接受機構調研時表示，基於公司重要在研專案Micro LED研究程序，可實現短距離光通訊場景應用，推薦有效範圍在十米之內，主要適用於兩個場景：一是機櫃內部，用於機櫃內的短距離資料傳輸，同樣適配十米內的通訊需求；二是汽車內部，用於車內所有預控通訊，如主機與座椅安全、智控攝像頭、顯示器等裝置間的通訊，該光通訊產品尚在開發程序中。"
-    },
-    {
-      "id": "5005560",
-      "time": "2026-07-24 08:12:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本國債收益率上漲1.5個基點，至3.640%。"
-    },
-    {
-      "id": "te:markets:569430",
-      "time": "2026-07-24 08:12:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Netherlands",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "argenx SE earnings above expectations at 6.44 USD — argenx SE (ARGX) released earnings per share at 6.44 USD, compared to market expectations of 5.41 USD."
-    },
-    {
-      "id": "te:markets:569429",
-      "time": "2026-07-24 08:12:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Comfort Systems USA earnings above expectations at 12.53 USD — Comfort Systems USA (FIX) released earnings per share at 12.53 USD, compared to market expectations of 10.42 USD."
-    },
-    {
-      "id": "te:markets:569428",
-      "time": "2026-07-24 08:12:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Digital Realty earnings above expectations at 1.21 USD — Digital Realty (DLR) released earnings per share at 1.21 USD, compared to market expectations of 0.49 USD."
-    },
-    {
-      "id": "te:markets:569427",
-      "time": "2026-07-24 08:12:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Newmont Corporation earnings below expectations at 3.01 AUD — Newmont Corporation (NEM) released earnings per share at 3.01 AUD, compared to market expectations of 3.12 AUD."
-    },
-    {
-      "id": "te:markets:569426",
-      "time": "2026-07-24 08:12:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "SAP earnings below expectations at 1.59 EUR — SAP (SAP) released earnings per share at 1.59 EUR, compared to market expectations of 1.76 EUR."
-    },
-    {
-      "id": "te:markets:569425",
-      "time": "2026-07-24 08:12:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Infosys earnings above expectations at 19.17 INR — Infosys (INFO) released earnings per share at 19.17 INR, compared to market expectations of 19.15 INR."
-    },
-    {
-      "id": "5005559",
-      "time": "2026-07-24 08:12:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片價格劇烈波動 智慧手機集體漲價】今年以來，國內智慧手機市場迎來一輪罕見的集體漲價。近日，記者在調研時發現，無論是線上電商還是線下門店，主流廠商旗下多款新機及在售機型價格普遍上調，漲幅多在300元至1000元區間，部分高階旗艦產品漲幅甚至突破千元。據瞭解，vivo旗下iQOO產品價格出現明顯上漲，標準版單輪漲價400元至1000元，其中16GB+1TB頂配版本對比首發價累計上漲1500元。在京東之家等門店，相關產品上漲超1600元。榮耀以及華為nova系列等產品相比上一代產品價格漲幅普遍在300元到1000元區間。業內普遍認為，儲存晶片價格的劇烈波動是本輪手機漲價的主因。小米集團總裁盧偉冰預計本輪漲價趨勢至少延續到2027年底。IDC分析師認為，預計2028年至2029年隨著新一輪換機週期到來，市場有望迎來需求復甦。（證券日報）"
-    },
-    {
-      "id": "te:markets:569424",
-      "time": "2026-07-24 08:12:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Hyundai Motor earnings below expectations at 11018.73 KRW — Hyundai Motor (005380) released earnings per share at 11018.73 KRW, compared to market expectations of 11823.38 KRW."
-    },
-    {
-      "id": "mkt:019f9175-d763-7aab-8e75-caf5624f21ee",
-      "time": "2026-07-24 08:10:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China's first commercial space-debris monitoring satellite reaches orbit】At 07:33 on July 24, Zhongke Yuhang's Lijian-1 carrier rocket launched from the Dongfeng Commercial Space Innovation Test Zone, inserting five satellites — including the LX630 constellation's inaugural Gande-1 01 — into their planned orbits in a multi-satellite mission. Gande-1 01, co-developed by Liangxi Aerospace Technology Group and Aotian Technology, is China's first commercial space debris-monitoring satellite. Its solar arrays deployed normally and attitude is stable. The launch initiates deployment of the Aotian Gande LX630 constellation."
-    },
-    {
-      "id": "mkt:019f9175-bc10-7aab-8e75-c3ce7c65ab69",
-      "time": "2026-07-24 08:10:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Australia's S&P/ASX 200 opened down 56.10 points (-0.63%) at 8,782.90 on Friday, July 24."
-    },
-    {
-      "id": "5005558",
-      "time": "2026-07-24 08:10:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞豐光電：基於公司重要在研專案Micro LED研究程序 可實現短距離光通訊場景應用】瑞豐光電近日接受機構調研時表示，基於公司重要在研專案Micro LED研究程序，可實現短距離光通訊場景應用，推薦有效範圍在十米之內，主要適用於兩個場景：一是機櫃內部，用於機櫃內的短距離資料傳輸，同樣適配十米內的通訊需求；二是汽車內部，用於車內所有預控通訊，如主機與座椅安全、智控攝像頭、顯示器等裝置間的通訊，該光通訊產品尚在開發程序中。"
-    },
-    {
-      "id": "mkt:019f9174-ba79-7aab-8e75-bd6367ff2161",
-      "time": "2026-07-24 08:09:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 fell as much as 2.00% intraday."
-    },
-    {
-      "id": "5005557",
-      "time": "2026-07-24 08:09:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國內首顆商業空間碎片監測衛星成功入軌】7月24日7時33分，中科宇航力箭一號運載火箭在東風商業航天創新試驗區成功發射，以一箭多星模式，將甘德星座一期LX630首發星——甘德一號01星等5顆衛星精準送入預定軌道，發射任務圓滿成功。甘德一號01星是梁溪空天科技集團與遨天科技合作共建的LX630星座系統首發星，也是國內首顆商業空間碎片監測衛星。衛星入軌後太陽帆板展開正常，姿態穩定，發射任務取得圓滿成功。此次首發星成功發射，標誌著遨天甘德星座組網建設正式拉開序幕。"
-    },
-    {
-      "id": "mkt:019f9174-5aac-7aab-8e75-b2f63e96d941",
-      "time": "2026-07-24 08:09:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "YONHAP: South Korea will extend fuel tax relief measures through end-September."
-    },
-    {
-      "id": "5005556",
-      "time": "2026-07-24 08:09:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "國家海洋預報臺7月24日08時釋出海浪黃色警報：受今年第12號颱風“紅霞”（熱帶風暴級）的影響，預計：7月24日傍晚到25日上午，南海東北部將出現5到7米的巨浪到狂浪區，臺灣海峽將出現3到5米的大浪到巨浪區，近海海域海浪預警級別為黃色。"
-    },
-    {
-      "id": "mkt:019f9173-d125-7aab-8e75-ae7aa6c6be32",
-      "time": "2026-07-24 08:08:34",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "On July 24, the China Coast Guard lawfully imposed control measures on multiple Philippine vessels accused of conducting illegal activities in waters under the jurisdiction of China’s Huangyan Island (Scarborough Shoal)."
-    },
-    {
-      "id": "5005555",
-      "time": "2026-07-24 08:08:33",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數下跌2%，至65071.47點。"
-    },
-    {
-      "id": "mkt:019f9173-9f30-7aab-8e75-a188814abd83",
-      "time": "2026-07-24 08:08:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Koreans skeptical of single-stock leveraged ETFs; 63.7% say introduction was 'wrong decision'】Pollster Realmeter surveyed 504 South Korean adults on July 22. 63.7% said the planned introduction of single-stock leveraged ETFs was a \"wrong decision\" (41.2% \"very wrong\", 22.5% \"generally wrong\"); 19.0% said it was correct and 17.4% were unsure. 59.2% judged Korean financial regulators' supplementary measures announced on July 16 to be insufficient. Top-supported additional steps were limiting daily trade frequency (24.1%), sharply raising underlying margin requirements (22.2%), sharply raising minimum trading units (21.5%) and extending mandatory investor-education time (10.6%)."
-    },
-    {
-      "id": "5005554",
-      "time": "2026-07-24 08:07:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "7月24日，中國海警依法對位中國黃巖島管轄海域非法活動的菲律賓多艘船隻採取管制措施。"
-    },
-    {
-      "id": "5005553",
-      "time": "2026-07-24 08:07:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界網際網路大會數智健康工作組正式成立】據世界網際網路大會訊息，7月22日，在陝西西安舉辦的世界網際網路大會數字絲路發展論壇數智健康論壇現場，世界網際網路大會數智健康工作組正式宣告成立。工作組旨在搭建常態化、機制化的產業協同平臺，匯聚產學研用多方智慧，推動醫學人工智慧技術創新與跨國協作，為全球數智健康產業發展提供堅實支撐。"
-    },
-    {
-      "id": "5005552",
-      "time": "2026-07-24 08:07:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.6%，報8,782點。"
-    },
-    {
-      "id": "mkt:019f9172-4e41-7aab-8e75-9cc8d5542efe",
-      "time": "2026-07-24 08:06:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bearish"
-      ],
-      "text": "SK Hynix shares fell 3%."
-    },
-    {
-      "id": "5005551",
-      "time": "2026-07-24 08:05:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌2.1%，至6949.99點。"
-    },
-    {
-      "id": "mkt:019f9171-3eeb-7aab-8e75-9154717a39e8",
-      "time": "2026-07-24 08:05:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "South Korea's KOSPI fell as much as 2.00% intraday."
-    },
-    {
-      "id": "5005550",
-      "time": "2026-07-24 08:05:12",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【油價上漲背景下巴西將汽油補貼延長30天】巴西財政部週四釋出宣告稱，受中東衝突升級推高國際油價影響，巴西政府決定延續每升0.44雷亞爾的汽油補貼政策。巴西財政部表示，原定於7月25日到期的汽油補貼，將從7月26日起延長30天。財政部長達里奧・杜裡甘在接受採訪時表示，本次補貼延期的資金將來源於油價走高帶來的政府增收，例如石油特許權使用費。媒體上週援引訊息人士報道，巴西政府當時已計劃延長汽油及柴油補貼。6月末，隨著中東緊張局勢緩和、油價回落，巴西政府曾削減部分柴油補貼，但油價走低的態勢並未持續。目前每升1.12雷亞爾的柴油補貼仍在執行。"
     }
   ]
 }
