@@ -1,7 +1,74 @@
 {
   "date": "2026-07-31",
-  "count": 2673,
+  "count": 2681,
   "items": [
+    {
+      "id": "5019269",
+      "time": "2026-07-31 19:27:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST春天：實際控制人部分股份質押和解除質押】*ST春天公告稱，公司實際控制人肖融持有公司56,762,789股，佔總股本9.67%。近日，肖融解除質押3,014萬股（佔其持股53.10%、總股本5.13%），又分別於7月29日、31日質押858萬股、2156萬股，為西藏榮恩融資提供擔保。截至公告披露日，西藏榮恩及其一致行動人肖融共持股245,377,983股，佔總股本41.80%，累計質押17,320萬股，佔其持股70.58%、總股本29.50%。本次質押不會影響公司經營及控制權。"
+    },
+    {
+      "id": "5019268",
+      "time": "2026-07-31 19:27:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 諾和諾德稱Ziltivekimab 相比安慰劑，未能降低主要不良心血管事件（MACE）發生風險。"
+    },
+    {
+      "id": "mkt:019fb7ec-d902-7aab-8f33-fa6d3805cabb",
+      "time": "2026-07-31 19:26:20",
+      "tags": [
+        "MKT News",
+        "NVO.N",
+        "Impact bearish"
+      ],
+      "text": "Novo Nordisk (NVO.N) fell 8.3% pre-market after updating progress on the ZEUS Phase III trial."
+    },
+    {
+      "id": "5019266",
+      "time": "2026-07-31 19:25:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【最高檢、公安部聯合釋出《關於辦理已滿十二週歲不滿十四周歲未成年人嚴重暴力犯罪核准追訴案件若干問題的規定》】日前，最高人民檢察院、公安部聯合釋出《關於辦理已滿十二週歲不滿十四周歲未成年人嚴重暴力犯罪核准追訴案件若干問題的規定》。《規定》共15條，進一步明確了已滿十二週歲不滿十四周歲未成年人嚴重暴力犯罪核准追訴案件的法律適用標準，重點就案件範圍、“情節惡劣”的認定條件、核准追訴的程式等實務問題作出細化規定，強調應當全面準確貫徹寬嚴相濟刑事政策，堅持預防就是保護、懲治也是挽救，對符合核准追訴條件的，依法核准追訴，追究刑事責任。"
+    },
+    {
+      "id": "5019265",
+      "time": "2026-07-31 19:25:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中航西飛：截至目前光啟技術股份有限公司不是公司供應商】中航西飛7月31日在互動平臺表示，截至目前，光啟技術股份有限公司不是公司供應商，深圳光啟尖端技術有限責任公司是公司的合格供應商。"
+    },
+    {
+      "id": "mkt:019fb7eb-63a3-7aab-8f33-f7973438ecf7",
+      "time": "2026-07-31 19:24:44",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Samsung Electronics co-CEO Roh buys 3,045 shares for 700.35 mln won】YONHAP reports that amid recent sharp swings in Samsung Electronics' share price, Roh Tae-moon, head of the company's DX division and co-CEO, bought 3,045 Samsung Electronics shares at 230,000 won each on July 30. The Financial Supervisory Service electronic disclosure system (DART) posted the filing on July 31, showing a total spend of about 700.35 million won and a post-trade holding of 124,280 shares."
+    },
+    {
+      "id": "mkt:019fb7eb-53e5-7aab-8f33-ed3618ebc635",
+      "time": "2026-07-31 19:24:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "GBPUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "German and UK government bonds fell; Germany's 10-year government bond yield rose 2bp to 3.18%."
+    },
     {
       "id": "5019264",
       "time": "2026-07-31 19:24:19",
@@ -224,6 +291,14 @@
         "Hang Seng Index"
       ],
       "text": "【China approves eight new nuclear reactor units; projects to cost over 170 billion yuan】China’s State Council executive meeting on July 31 approved four nuclear projects — reopening approvals for new domestic nuclear builds in 2026. Approved plants: Zhejiang Jinqimen Phase II (units 3–4), Guangdong Taipingling Phase III (units 5–6), Liaoning Zhuanghe Phase I (units 1–2) and Shandong Laiyang Phase I (units 1–2), totaling eight reactors. Estimated combined investment exceeds 170 billion yuan."
+    },
+    {
+      "id": "5019246",
+      "time": "2026-07-31 19:15:11",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【我國新核准8臺核電機組 專案總投資超1700億元】據新聞聯播報道，當天召開的國務院常務會議決定核准遼寧莊河一期工程等四個核電專案。此次在國常會上獲批的新專案包括浙江金七門核電二期工程（3、4號機組），廣東太平嶺核電三期工程（5、6號機組），遼寧莊河核電一期工程（1、2號機組），山東萊陽核電一期工程（1、2號機組），共計8臺新機組。核電工程歷來是擴大有效投資的重要拉動力，據估算，上述新專案的總投資將超過1700億元。 (澎湃新聞)"
     },
     {
       "id": "5019245",

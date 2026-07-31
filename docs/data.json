@@ -1,7 +1,74 @@
 {
-  "updated": "2026-07-31 19:25:04",
-  "count": 17978,
+  "updated": "2026-07-31 19:28:49",
+  "count": 17969,
   "items": [
+    {
+      "id": "5019269",
+      "time": "2026-07-31 19:27:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST春天：實際控制人部分股份質押和解除質押】*ST春天公告稱，公司實際控制人肖融持有公司56,762,789股，佔總股本9.67%。近日，肖融解除質押3,014萬股（佔其持股53.10%、總股本5.13%），又分別於7月29日、31日質押858萬股、2156萬股，為西藏榮恩融資提供擔保。截至公告披露日，西藏榮恩及其一致行動人肖融共持股245,377,983股，佔總股本41.80%，累計質押17,320萬股，佔其持股70.58%、總股本29.50%。本次質押不會影響公司經營及控制權。"
+    },
+    {
+      "id": "5019268",
+      "time": "2026-07-31 19:27:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 諾和諾德稱Ziltivekimab 相比安慰劑，未能降低主要不良心血管事件（MACE）發生風險。"
+    },
+    {
+      "id": "mkt:019fb7ec-d902-7aab-8f33-fa6d3805cabb",
+      "time": "2026-07-31 19:26:20",
+      "tags": [
+        "MKT News",
+        "NVO.N",
+        "Impact bearish"
+      ],
+      "text": "Novo Nordisk (NVO.N) fell 8.3% pre-market after updating progress on the ZEUS Phase III trial."
+    },
+    {
+      "id": "5019266",
+      "time": "2026-07-31 19:25:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【最高檢、公安部聯合釋出《關於辦理已滿十二週歲不滿十四周歲未成年人嚴重暴力犯罪核准追訴案件若干問題的規定》】日前，最高人民檢察院、公安部聯合釋出《關於辦理已滿十二週歲不滿十四周歲未成年人嚴重暴力犯罪核准追訴案件若干問題的規定》。《規定》共15條，進一步明確了已滿十二週歲不滿十四周歲未成年人嚴重暴力犯罪核准追訴案件的法律適用標準，重點就案件範圍、“情節惡劣”的認定條件、核准追訴的程式等實務問題作出細化規定，強調應當全面準確貫徹寬嚴相濟刑事政策，堅持預防就是保護、懲治也是挽救，對符合核准追訴條件的，依法核准追訴，追究刑事責任。"
+    },
+    {
+      "id": "5019265",
+      "time": "2026-07-31 19:25:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中航西飛：截至目前光啟技術股份有限公司不是公司供應商】中航西飛7月31日在互動平臺表示，截至目前，光啟技術股份有限公司不是公司供應商，深圳光啟尖端技術有限責任公司是公司的合格供應商。"
+    },
+    {
+      "id": "mkt:019fb7eb-63a3-7aab-8f33-f7973438ecf7",
+      "time": "2026-07-31 19:24:44",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Samsung Electronics co-CEO Roh buys 3,045 shares for 700.35 mln won】YONHAP reports that amid recent sharp swings in Samsung Electronics' share price, Roh Tae-moon, head of the company's DX division and co-CEO, bought 3,045 Samsung Electronics shares at 230,000 won each on July 30. The Financial Supervisory Service electronic disclosure system (DART) posted the filing on July 31, showing a total spend of about 700.35 million won and a post-trade holding of 124,280 shares."
+    },
+    {
+      "id": "mkt:019fb7eb-53e5-7aab-8f33-ed3618ebc635",
+      "time": "2026-07-31 19:24:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "GBPUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "German and UK government bonds fell; Germany's 10-year government bond yield rose 2bp to 3.18%."
+    },
     {
       "id": "5019264",
       "time": "2026-07-31 19:24:19",
@@ -224,6 +291,14 @@
         "Hang Seng Index"
       ],
       "text": "【China approves eight new nuclear reactor units; projects to cost over 170 billion yuan】China’s State Council executive meeting on July 31 approved four nuclear projects — reopening approvals for new domestic nuclear builds in 2026. Approved plants: Zhejiang Jinqimen Phase II (units 3–4), Guangdong Taipingling Phase III (units 5–6), Liaoning Zhuanghe Phase I (units 1–2) and Shandong Laiyang Phase I (units 1–2), totaling eight reactors. Estimated combined investment exceeds 170 billion yuan."
+    },
+    {
+      "id": "5019246",
+      "time": "2026-07-31 19:15:11",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【我國新核准8臺核電機組 專案總投資超1700億元】據新聞聯播報道，當天召開的國務院常務會議決定核准遼寧莊河一期工程等四個核電專案。此次在國常會上獲批的新專案包括浙江金七門核電二期工程（3、4號機組），廣東太平嶺核電三期工程（5、6號機組），遼寧莊河核電一期工程（1、2號機組），山東萊陽核電一期工程（1、2號機組），共計8臺新機組。核電工程歷來是擴大有效投資的重要拉動力，據估算，上述新專案的總投資將超過1700億元。 (澎湃新聞)"
     },
     {
       "id": "5019245",
@@ -166168,150 +166243,6 @@
         "Impact bullish"
       ],
       "text": "CATL announces 2026 interim dividend: cash payout of RMB14.11 per 10 shares to all shareholders, tax included."
-    },
-    {
-      "id": "5006905",
-      "time": "2026-07-24 19:28:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮表示，美國未能說服烏克蘭接受此前的多項提案。"
-    },
-    {
-      "id": "mkt:019f93e2-7276-7aab-8e86-437482b540f3",
-      "time": "2026-07-24 19:28:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kremlin says US failed to persuade Ukraine to accept an earlier proposal."
-    },
-    {
-      "id": "5006904",
-      "time": "2026-07-24 19:28:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "韋德布什將育碧評級從“跑贏大盤”下調至“中性”，並將目標股價從12歐元下調至5歐元。"
-    },
-    {
-      "id": "5006903",
-      "time": "2026-07-24 19:28:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度銀行第一季度淨利潤 307 億盧比。"
-    },
-    {
-      "id": "mkt:019f93e2-02a9-7aab-8e86-3e777a50a947",
-      "time": "2026-07-24 19:28:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kremlin says it will wait for the US to present new proposals to resolve the Ukraine conflict."
-    },
-    {
-      "id": "5006902",
-      "time": "2026-07-24 19:27:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "克里姆林宮表示，將等待美方就解決烏克蘭衝突提出新方案。"
-    },
-    {
-      "id": "mkt:019f93e1-afe4-7aab-8e86-372fc1718304",
-      "time": "2026-07-24 19:27:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China EV Leaders",
-        "300750.SZ",
-        "Impact bullish"
-      ],
-      "text": "CATL reported 1H net profit of 43.284 bln yuan, up 41.98% YoY."
-    },
-    {
-      "id": "5006901",
-      "time": "2026-07-24 19:27:36",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【寧德時代：2026年上半年淨利潤432.84億元，同比增長41.98%】寧德時代公告，2026年上半年營業收入2769.17億元，同比增長54.80%；歸屬於上市公司股東的淨利潤432.84億元，同比增長41.98%；歸屬於上市公司股東的扣除非經常性損益的淨利潤390.13億元，同比增長43.44%。上年同期淨利潤304.85億元。公司擬以總股本扣除回購股份後的45.98億股為基數，每10股派發現金分紅14.11元（含稅）。"
-    },
-    {
-      "id": "5006900",
-      "time": "2026-07-24 19:27:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏稱基輔州遭襲致6人死亡 俄方暫無回應】當地時間7月24日，烏克蘭總統澤連斯基透過社交媒體表示，烏克蘭基輔州遭俄方襲擊，目前已確認6人死亡、數十人受傷。據悉，現場救援工作仍在持續推進。俄羅斯方面對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "5006899",
-      "time": "2026-07-24 19:27:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【焦炭仍有繼續提降預期 產地焦煤流拍率持續走高】本週主流鋼廠招標下調焦炭採購價，溼熄焦下調50元/噸，幹熄焦下調55元/噸，現階段焦化廠出貨順暢，僅個別焦化企業庫存小幅堆積。7月24日進口蒙古國煉焦煤市場漲跌互現。期貨盤面小幅波動，口岸貿易企業挺價，下游企業剛需採購，蒙煤市場交投氛圍稍有改善，國內鋼廠鐵水產量下滑，對煉焦煤剛性需求支撐趨弱，焦炭一輪提降落地後市場仍有繼續提降預期，後續煤焦市場價格走勢有待觀望。 (我的鋼鐵網)"
-    },
-    {
-      "id": "5006898",
-      "time": "2026-07-24 19:26:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴林國防部隊指責伊朗動用導彈與無人機襲擊平民、損毀私人財產  。"
-    },
-    {
-      "id": "mkt:019f93e0-2494-7aab-8e86-28ce59fe8549",
-      "time": "2026-07-24 19:26:07",
-      "tags": [
-        "MKT News",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "WEDBUSH raised Intel (INTC.O) PT to $98 from $60."
-    },
-    {
-      "id": "5006897",
-      "time": "2026-07-24 19:25:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鮑斯股份：擬對全資子公司增資5億元】鮑斯股份公告，擬對全資子公司江西鮑斯產業鏈服務有限公司增資5億元，增資後江西產業鏈註冊資本增加至13億元，其中鮑斯股份持股84.62%，寧波鮑斯產業鏈服務有限公司持股15.38%。此次增資旨在投資建設冷媒壓縮機及熱泵新生產基地，以提升公司冷媒壓縮機及熱泵業務產能規模。"
-    },
-    {
-      "id": "5006896",
-      "time": "2026-07-24 19:25:46",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家能源局召開2026年第二次能源監管工作例會】7月24日，國家能源局召開2026年第二次能源監管工作例會，深入學習貫徹黨中央、國務院關於全國統一電力市場建設、健全能源自然壟斷環節監管等決策部署，總結上半年工作，分析當前形勢，佈置下半年重點監管任務。會議要求，各能源監管機構要強化迎峰度夏能源保供監管，強化市場作用發揮和協同供給保障，嚴守民生用能底線。要完善全國統一電力市場體系，健全電力市場各項功能，加強電力零售市場管理，著力規範電力市場秩序。要全面抓好年度重點監管任務落實，健全長效制度機制，提升監管質效。要深化落實新一輪“獲得電力”政策，深入開展供電質量提升行動，滿足企業和群眾高品質用電需求。（國家能源局）"
-    },
-    {
-      "id": "5006895",
-      "time": "2026-07-24 19:25:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國前國務卿布林肯表示：我認為特朗普如今深陷自己一手造成的僵局，想要脫身。他一直在尋找出路，卻無計可施。有人將當前局勢稱作不斷升級衝突的困局。"
-    },
-    {
-      "id": "mkt:019f93df-7dec-7aab-8e86-2033ffa0b301",
-      "time": "2026-07-24 19:25:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Former US Secretary of State Blinken said he believes US President Trump wants to get out of his current predicament; he is searching for a way out but cannot find one, and some call it an escalation trap."
-    },
-    {
-      "id": "5006894",
-      "time": "2026-07-24 19:25:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "韋德布什將英特爾目標股價從60美元上調至98美元。"
     }
   ]
 }
