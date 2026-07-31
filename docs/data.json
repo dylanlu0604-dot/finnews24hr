@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-01 01:16:48",
-  "count": 17986,
+  "updated": "2026-08-01 01:20:44",
+  "count": 17984,
   "items": [
+    {
+      "id": "mkt:019fb92d-c137-7aab-8f3c-2639d78a7f8f",
+      "time": "2026-08-01 01:16:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $2.151 billion from four counterparties in its fixed-rate reverse repurchase operation."
+    },
     {
       "id": "5019789",
       "time": "2026-08-01 01:16:00",
@@ -166557,35 +166567,6 @@
         "Important"
       ],
       "text": "【China foreign minister Wang Yi meets Iranian foreign minister Alaghezi】China foreign minister Wang Yi met Iran foreign minister Alaghezi on July 24 in Kyrgyzstan at the SCO foreign ministers' meeting. China said the recent renewed escalation in the Gulf is a source of deep concern and said the memorandum of understanding signed just over a month ago is a valuable product of multilateral mediation that should not be discarded. China urged keeping negotiation channels open, returning to implementation of the MoU consensus and persisting with talks while there is hope for peace. As a comprehensive strategic partner, China said it will continue to support Pakistan and other parties’ mediation efforts to restore direct dialogue and properly address issues in and around the Strait of Hormuz."
-    },
-    {
-      "id": "5007439",
-      "time": "2026-07-25 01:18:08",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【王毅會見伊朗外長阿拉格齊】中共中央政治局委員、外交部長王毅24日在吉爾吉斯斯坦出席上海合作組織外長會期間會見伊朗外長阿拉格齊。\n王毅表示，近期中東海灣局勢再度緊張升級，中方對此深表關切。一個多月前簽署的諒解備忘錄是多方斡旋調停的寶貴成果，寄託著伊朗和中東人民止戰安邦的和平期許，不應前功盡棄。談判的大門既然開啟就不應關上，和平只要還有希望就不應放棄。當務之急是堅持談判化解爭端方向，迴歸落實備忘錄共識。作為全面戰略伙伴，中方堅定支援伊朗維護自身主權、安全和民族尊嚴，將秉持習近平主席提出的維護和促進中東和平穩定四點主張，繼續支援巴基斯坦等各方斡旋努力，儘早恢復當事方對話談判，妥處霍爾木茲海峽問題，推進鄰國間關係改善，共謀海灣國家集體安全，為早日恢復中東地區和平安寧作出貢獻。\n阿拉格齊通報了中東海灣地區最新形勢，表示美方違反雙方達成的諒解備忘錄，導致局勢緊張升級。伊方談判意願從未改變，也不希望衝突持續下去，敦促美方信守承諾，保持克制，與伊方相向而行，尋找合理解決方案。在當前關鍵時刻，伊中作為全面戰略伙伴，加強溝通協調至關重要。感謝中方始終秉持客觀公正立場，一以貫之勸和止戰，期待中方繼續發揮重要作用，推動局勢走向緩和降溫。（新華社）"
-    },
-    {
-      "id": "mkt:019f9522-480c-7aab-8e8d-6f87781bddb0",
-      "time": "2026-07-25 01:17:59",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $675 mln in fixed-rate reverse repo bids from two counterparties."
-    },
-    {
-      "id": "5007438",
-      "time": "2026-07-25 01:17:37",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅會見塔吉克外長穆赫裡丁】中共中央政治局委員、外交部長王毅24日在吉爾吉斯斯坦出席上海合作組織外長會期間會見塔吉克外長穆赫裡丁。\n王毅表示，今年5月，拉赫蒙總統對華成功進行國事訪問，習近平主席同他就中塔關係發展作出新的戰略部署。此訪最重要成果是簽署了《中塔永久睦鄰友好合作條約》，在中亞地區開創了先例。雙方還發表《中華人民共和國和塔吉克共和國關於深化新時代全面戰略合作伙伴關係的聯合宣告》，宣示攜手推動構建中塔命運共同體的決心。雙方外交部的共同任務就是把兩國元首共識轉化為實際行動，規劃好各層級交往，推動能源、互聯互通、反恐安全等領域合作走深走實，以更多合作成果造福兩國人民。\n穆赫裡丁表示，拉赫蒙總統今年訪華極其成功，取得豐碩成果，進一步鞏固兩國高水平互信，開啟了雙邊關係嶄新篇章。中國已成為塔方最大經貿夥伴，塔方對兩國合作前景充滿信心，願同中方深入落實訪問達成的各項共識，加強能源等領域務實合作，合力打擊恐怖主義，推動塔中新時代全面戰略合作伙伴關係更上層樓。（新華社）"
     }
   ]
 }
