@@ -1,7 +1,199 @@
 {
-  "updated": "2026-07-31 20:28:37",
-  "count": 17960,
+  "updated": "2026-07-31 20:32:28",
+  "count": 17957,
   "items": [
+    {
+      "id": "5019410",
+      "time": "2026-07-31 20:31:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲隔夜回購操作未收到任何投標。"
+    },
+    {
+      "id": "5019409",
+      "time": "2026-07-31 20:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "傑富瑞股價在盤前交易中下跌5.6%。"
+    },
+    {
+      "id": "5019408",
+      "time": "2026-07-31 20:30:27",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國第二季度勞工成本指數季率 0.9%，預期0.80%，前值0.90%。美國第二季度勞工就業工資季率 0.9%，前值0.8%。美國第二季度勞工就業福利季率 1%，前值1.2%。"
+    },
+    {
+      "id": "mkt:019fb827-83c8-7aab-8f35-ca56599d9c1e",
+      "time": "2026-07-31 20:30:25",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada May GDP YoY 1.7% (consensus 1.4%, prior 1.1%)."
+    },
+    {
+      "id": "mkt:019fb827-6808-7aab-8f35-c4377a953c33",
+      "time": "2026-07-31 20:30:17",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | GDP (YoY) (May) | actual 1.7% | consensus 1.40% | previous 1.10%"
+    },
+    {
+      "id": "5019407",
+      "time": "2026-07-31 20:30:16",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大5月GDP月率 0.3%，預期0.20%，前值由0.50%修正為0.6%。加拿大5月GDP年率 1.7%，預期1.40%，前值1.10%。"
+    },
+    {
+      "id": "mkt:019fb827-5b76-7aab-8f35-bdbb3d0c3e2a",
+      "time": "2026-07-31 20:30:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Q2 labor and employment benefits QoQ 1.0%, prior 1.2%."
+    },
+    {
+      "id": "mkt:019fb827-50a4-7aab-8f35-b3f7842d4a80",
+      "time": "2026-07-31 20:30:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US Q2 Employment Cost Index q/q +0.9% vs +0.8% expected; prior +0.9%."
+    },
+    {
+      "id": "mkt:019fb827-47f6-7aab-8f35-afa69366553e",
+      "time": "2026-07-31 20:30:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. Q2 labor wages QoQ +0.9% (prior +0.8%)."
+    },
+    {
+      "id": "mkt:019fb827-47ee-7aab-8f35-a279b4dfed59",
+      "time": "2026-07-31 20:30:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Canada May GDP MoM +0.3% vs +0.2% expected; April revised up to +0.6% from +0.5%."
+    },
+    {
+      "id": "mkt:019fb827-2bb8-7aab-8f35-942b62eb0f9d",
+      "time": "2026-07-31 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Employment Cost Index quarterover-quarter rate (Q2) | actual 1% | previous 1.2%"
+    },
+    {
+      "id": "mkt:019fb827-2bc0-7aab-8f35-9deaa13eb1ff",
+      "time": "2026-07-31 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Average Hourly Earnings quarterover-quarter rate (Q2) | actual 0.9% | previous 0.8%"
+    },
+    {
+      "id": "mkt:019fb827-2b6b-7aab-8f35-89cd993f0e66",
+      "time": "2026-07-31 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Employment Cost Index (QoQ) (Q2) | actual 0.9% | consensus 0.80% | previous 0.90%"
+    },
+    {
+      "id": "5019406",
+      "time": "2026-07-31 20:30:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報57.78美元/盎司。"
+    },
+    {
+      "id": "mkt:019fb827-24c3-7aab-8f35-87c6b2e99359",
+      "time": "2026-07-31 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | GDP (MoM) (May) | actual 0.3% | consensus 0.20% | previous 0.50%"
+    },
+    {
+      "id": "5019405",
+      "time": "2026-07-31 20:29:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【祥源文旅：控股股東一致行動人擬減持 浙江省旅投集團將增持】祥源文旅公告稱，控股股東祥源旅開之一致行動人安徽祥源所持1.06億股無限售流通股司法拍賣已完成，競拍成交物件為浙江省旅投集團。辦理完股份過戶登記後，安徽祥源持股比例將由20.56%降至10.56%，控股股東及一致行動人合計持股比例由58.08%降至48.07%；浙江省旅投集團持股比例將由4.78%升至14.78%。本次權益變動不觸及要約收購，不改變控股股東及實控人，尚需辦理過戶登記。"
+    },
+    {
+      "id": "5019404",
+      "time": "2026-07-31 20:29:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度儲備銀行（RBI）資料顯示，截至6月30日，印度央行美元遠期頭寸淨空頭規模為1033億美元，5月末該數值為1066億美元。"
+    },
+    {
+      "id": "mkt:019fb825-fbb5-7aab-8f35-7f5a7759116e",
+      "time": "2026-07-31 20:28:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhu Hexin meets Global Infrastructure Partners chairman and CEO Bai You】July 30, 2026 — Zhu Hexin, PBOC deputy governor and head of the State Administration of Foreign Exchange, met Global Infrastructure Partners chairman and CEO Bai You to exchange views on the global economic outlook and developments in international financial markets. Li Hongyan, SAFE deputy director, accompanied the meeting."
+    },
+    {
+      "id": "5019403",
+      "time": "2026-07-31 20:28:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【朱鶴新局長會見全球基礎設施合夥公司董事長兼執行長柏優】2026年7月30日，中國人民銀行副行長、國家外匯管理局局長朱鶴新會見來訪的全球基礎設施合夥公司（GIP）董事長兼執行長柏優（Adebayo Ogunlesi）。雙方就當前全球經濟形勢、國際金融市場發展等議題進行了交流。國家外匯管理局副局長李紅燕陪同會見。（外匯管理局）"
+    },
+    {
+      "id": "5019402",
+      "time": "2026-07-31 20:28:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4050美元/盎司，日內跌1.30%。"
+    },
     {
       "id": "5019401",
       "time": "2026-07-31 20:27:30",
@@ -166062,218 +166254,6 @@
         "國際"
       ],
       "text": "美國地質調查局：印度尼西亞阿貝普拉以西202公里處發生5.4級地震。"
-    },
-    {
-      "id": "5007059",
-      "time": "2026-07-24 20:31:06",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【據悉特朗普尋求在地震後解凍委內瑞拉數十億美元資產】據訊息人士稱，特朗普政府和委內瑞拉官員正在探討解凍數十億美元海外凍結資產的途徑，旨在幫助委內瑞拉從兩起地震中復甦，同時避免給美國納稅人增加更多負擔。訊息人士表示，該計劃旨在幫助委內瑞拉政府重建經濟，而無需華盛頓動用已承諾的3.86億美元之外的資金。委內瑞拉至今仍無法透過國際貨幣基金組織獲取數十億美元資金，也無法透過英國央行或各類海外賬戶獲得黃金等資源。"
-    },
-    {
-      "id": "mkt:019f941b-72ef-7aab-8e88-44d1168bfbd2",
-      "time": "2026-07-24 20:30:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Trump reportedly seeks to unfreeze billions of Venezuelan assets after earthquakes】The Trump administration and Venezuelan officials are exploring ways to unfreeze billions of dollars in overseas Venezuelan assets to help recovery from two earthquakes, sources say. The proposal aims to enable economic reconstruction without adding costs to US taxpayers or requiring Washington to deploy funds beyond the $386m already pledged. Venezuela remains unable to secure billions from the IMF or to access gold and other assets held at the Bank of England and other overseas accounts."
-    },
-    {
-      "id": "mkt:019f941b-3664-7aab-8e88-38b37da6a078",
-      "time": "2026-07-24 20:30:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU foreign policy chief says as Tehran steps up domestic crackdown, the EU will continue to hold those responsible to account."
-    },
-    {
-      "id": "5007058",
-      "time": "2026-07-24 20:30:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大6月原材料價格指數環比 -6.9%，預期 -1.3%，前值 0.7%。"
-    },
-    {
-      "id": "mkt:019f941a-f4ed-7aab-8e88-344625f54d24",
-      "time": "2026-07-24 20:30:22",
-      "tags": [
-        "MKT News",
-        "USDCAD",
-        "Impact mixed"
-      ],
-      "text": "Canada raw materials price index +20.7% YoY in June, down from 33.4% previously."
-    },
-    {
-      "id": "mkt:019f941a-f208-7aab-8e88-2a92473f178a",
-      "time": "2026-07-24 20:30:21",
-      "tags": [
-        "MKT News",
-        "USDCAD",
-        "Impact bearish"
-      ],
-      "text": "Canada industrial product price index YoY 12.4% in June, down from 13.6% previously."
-    },
-    {
-      "id": "mkt:019f941a-ee84-7aab-8e88-22fe5d232cb2",
-      "time": "2026-07-24 20:30:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada New Housing Price Index (NHPI) MoM -0.1% in June; prior -0.3%."
-    },
-    {
-      "id": "5007057",
-      "time": "2026-07-24 20:30:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大6月工業品價格指數環比 -1.4%，預期 -0.4%，前值 1.2%。"
-    },
-    {
-      "id": "mkt:019f941a-ee20-7aab-8e88-1a712a504d54",
-      "time": "2026-07-24 20:30:14",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "Canada June raw materials price index m/m -6.9% (expected -1.3%, prior +0.7%)."
-    },
-    {
-      "id": "mkt:019f941a-d716-7aab-8e88-17a0e3d5b31c",
-      "time": "2026-07-24 20:30:13",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "Canada June industrial product price index (IPPI) MoM -1.4% vs -0.4% expected; prior +1.2%."
-    },
-    {
-      "id": "mkt:019f941a-c7e5-7aab-8e88-0d87aab19f9d",
-      "time": "2026-07-24 20:30:10",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | New Housing Price Index (MoM) (Jun) | actual -0.1% | previous -0.3%"
-    },
-    {
-      "id": "mkt:019f941a-b2c4-7aab-8e88-023173939207",
-      "time": "2026-07-24 20:30:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Raw Material Price Index (YoY) (Jun) | actual 20.7% | previous 33.4%"
-    },
-    {
-      "id": "mkt:019f941a-b265-7aab-8e87-f8d8e9d4826a",
-      "time": "2026-07-24 20:30:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Raw Material Price Index (MoM) (Jun) | actual -6.9% | consensus -1.30% | previous 0.70%"
-    },
-    {
-      "id": "mkt:019f941a-b203-7aab-8e87-f75be65f1cfe",
-      "time": "2026-07-24 20:30:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Industrial Product Price Index (YoY) (Jun) | actual 12.4% | previous 13.6%"
-    },
-    {
-      "id": "mkt:019f941a-b202-7aab-8e87-ee9fd104ed7f",
-      "time": "2026-07-24 20:30:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Industrial Product Price Index (MoM) (Jun) | actual -1.4% | consensus -0.40% | previous 1.20%"
-    },
-    {
-      "id": "5007056",
-      "time": "2026-07-24 20:29:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交政策負責人：隨著德黑蘭加大國內鎮壓力度，歐盟將繼續追究相關責任人的責任。"
-    },
-    {
-      "id": "5007055",
-      "time": "2026-07-24 20:29:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美年健康：終止發行股份購買資產申請稽核】美年健康公告，公司於2026年7月17日召開第九屆董事會第二十五次（臨時）會議，審議透過《關於終止發行股份購買資產暨關聯交易事項並撤回申請檔案的議案》，同意公司終止發行股份購買資產暨關聯交易事項並向深圳證券交易所撤回本次交易的申請檔案。2026年7月24日，公司收到深圳證券交易所《關於終止對美年大健康產業控股股份有限公司發行股份購買資產申請稽核的決定》（深證上審〔2026〕233號），根據《深圳證券交易所上市公司重大資產重組稽核規則》第五十二條的有關規定，深圳證券交易所決定終止對公司發行股份購買資產申請的稽核。"
-    },
-    {
-      "id": "5007054",
-      "time": "2026-07-24 20:29:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交政策負責人：我們還制裁了一個網路組織的主要人物，此人協助該政權壓制資訊。"
-    },
-    {
-      "id": "mkt:019f941a-22d8-7aab-8e87-e2b86561cbe0",
-      "time": "2026-07-24 20:29:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU foreign policy chief says the bloc has sanctioned senior figures of a cyber group that aided the Iranian regime's suppression of information."
-    },
-    {
-      "id": "5007053",
-      "time": "2026-07-24 20:29:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "約旦軍方稱伊朗襲擊未造成物質損壞或人員傷亡。"
-    },
-    {
-      "id": "5007052",
-      "time": "2026-07-24 20:29:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交與安全政策高階代表：歐盟對應對嚴重侵犯人權行為負責的伊朗法官實施了新的限制性措施。"
-    },
-    {
-      "id": "mkt:019f9419-c960-7aab-8e87-da43d5f22c9a",
-      "time": "2026-07-24 20:29:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU foreign policy chief said the EU has imposed new restrictive measures on Iranian judges responsible for serious human rights violations."
-    },
-    {
-      "id": "5007051",
-      "time": "2026-07-24 20:28:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST寧科：部分董事及高管擬增持不低於370萬元】ST 寧科公告，公司部分董事、全體高階管理人員計劃自本公告披露之日起6個月內，透過上海證券交易所股票交易系統以集中競價交易方式增持公司股份，合計增持金額不低於人民幣370萬元（含交易費用），不超過人民幣600萬元（含交易費用）。本次增持計劃實施期間為2026年7月28日～2027年1月27日，不設固定價格區間。"
     }
   ]
 }
