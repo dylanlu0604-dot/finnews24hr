@@ -1,7 +1,273 @@
 {
   "date": "2026-07-31",
-  "count": 836,
+  "count": 864,
   "items": [
+    {
+      "id": "mkt:019fb5b3-47b0-7aab-8f21-af7ceb3e7aa8",
+      "time": "2026-07-31 09:04:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) opened 2,549.58 points higher, up 6.38% at 42,482.88 on Friday, July 31."
+    },
+    {
+      "id": "mkt:019fb5b3-4335-7aab-8f21-a15e7924a32f",
+      "time": "2026-07-31 09:04:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P 500 futures up 0.3%; Nasdaq futures up 1.1%."
+    },
+    {
+      "id": "5017986",
+      "time": "2026-07-31 09:04:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正帆科技等成立新公司，含物聯網應用業務】企查查APP顯示，近日，上海正帆環亞科技有限公司成立，經營範圍包含：電子元器件與機電元件裝置銷售；半導體器件專用裝置銷售；物聯網應用服務等。企查查股權穿透顯示，該公司由正帆科技等共同持股。"
+    },
+    {
+      "id": "5017985",
+      "time": "2026-07-31 09:03:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨漲超2%。"
+    },
+    {
+      "id": "mkt:019fb5b2-b7f1-7aab-8f21-9c0cbb0e0f67",
+      "time": "2026-07-31 09:03:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 index futures jumped over 2.2% in early trade."
+    },
+    {
+      "id": "mkt:019fb5b2-2180-7aab-8f21-94c77b339f5c",
+      "time": "2026-07-31 09:02:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai Futures Exchange silver front-month contract rose 2.00% intraday to 14,428.00 yuan/kg."
+    },
+    {
+      "id": "mkt:019fb5b1-a5eb-7aab-8f21-8f17a8cd95e0",
+      "time": "2026-07-31 09:02:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 0.85% to 890.1 yuan/gram in early trade on Friday, July 31; silver T+D rose 1.6% to 14,330 yuan/kg."
+    },
+    {
+      "id": "te:markets:571402",
+      "time": "2026-07-31 09:01:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Advance on Chip-Led Rally — Asian equity markets moved higher on Friday, tracking gains on Wall Street overnight as a global rally in semiconductor stocks and renewed optimism over the artificial intelligence trade lifted investor sentiment. Confidence was boosted by strong earnings from Microsoft and Amazon, reinforcing expectations for continued hyperscaler investment and resilient AI-related demand. South Korea’s KOSPI Composite Index surged more than 15%, with SK Hynix and Samsung Electronics each soaring over 20%, while Japan’s Nikkei 225 Index climbed 5%. Meanwhile, investors also looked ahead to the Bank of Japan’s policy decision later today, with the central bank widely expected to leave interest rates unchanged."
+    },
+    {
+      "id": "mkt:019fb5b0-cdff-7aab-8f21-86716e20983b",
+      "time": "2026-07-31 09:01:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened up 2,549.58 points on Friday, July 31, rising 6.38% to 42,482.88."
+    },
+    {
+      "id": "5017984",
+      "time": "2026-07-31 09:01:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大科學裝置拉索新發現 認證首個拍電子伏伽馬射線變源】從中國科學院高能物理研究所獲悉，由該所聯合國內外多家研究機構透過國家重大科技基礎設施高海拔宇宙線觀測站（LHAASO，拉索），發現最高能量的光子發自黑洞（或中子星）瘋狂吸噬大質量伴星吹出的強烈星風的過程，表明這個位於天鵝座非常特別的雙星系統（Cygnus X-3）是迄今為止能夠產生最高能量的粒子加速器。拉索測到的精確時變特徵、超高的伽馬射線能量及其能譜特徵共同確認了這個宇宙線的源天體，宇宙線粒子能量至少到達30PeV（1PeV=10的15次方電子伏特），遠超當前主流的理論預期。相關成果近日在學術期刊《國家科學評論》發表。"
+    },
+    {
+      "id": "5017983",
+      "time": "2026-07-31 09:01:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國五礦集團有限公司原黨組副書記、總經理國文清接受中央紀委國家監委紀律審查和監察調查】中央紀委國家監委網站7月31日通報，中國五礦集團有限公司原黨組副書記、總經理國文清涉嫌嚴重違紀違法，主動投案，目前正接受中央紀委國家監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5017982",
+      "time": "2026-07-31 09:01:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報85.98美元/桶。"
+    },
+    {
+      "id": "5017981",
+      "time": "2026-07-31 09:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守86美元/桶，日內跌1.04%。"
+    },
+    {
+      "id": "mkt:019fb5b0-39f0-7aab-8f21-7869b3ddd449",
+      "time": "2026-07-31 09:00:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude falls 1.4% intraday to $81.49/bbl."
+    },
+    {
+      "id": "5017980",
+      "time": "2026-07-31 09:00:51",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數上漲16%，至6489.83。"
+    },
+    {
+      "id": "mkt:019fb5af-f983-7aab-8f21-775c215fbeed",
+      "time": "2026-07-31 09:00:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Shanghai crude main contract (SC) fell 2.00% intraday to 549.60 yuan/barrel."
+    },
+    {
+      "id": "mkt:019fb5af-f8b3-7aab-8f21-6d9df3163209",
+      "time": "2026-07-31 09:00:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI index surged 16.00% intraday, currently at 6,489.83 points."
+    },
+    {
+      "id": "5017979",
+      "time": "2026-07-31 09:00:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲3.6%至265.92點。"
+    },
+    {
+      "id": "5017978",
+      "time": "2026-07-31 09:00:32",
+      "tags": [],
+      "text": "國內期貨主力合約跌多漲少，焦煤跌超2％，焦炭跌近2％，低硫燃料油（LU）、燃料油、SC原油、純鹼、液化石油氣（LPG）、純苯、雞蛋、紙漿、苯乙烯跌超1％。漲幅方面，鈀漲超3％，滬錫、鉑漲超2％，滬銀漲近2％，瓶片、紅棗漲超1％。"
+    },
+    {
+      "id": "5017977",
+      "time": "2026-07-31 09:00:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲6.6%至42,577.20點。"
+    },
+    {
+      "id": "5017976",
+      "time": "2026-07-31 09:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲5.5%至42,140.63點。"
+    },
+    {
+      "id": "mkt:019fb5af-b8ab-7aab-8f21-64ecb38ae4c2",
+      "time": "2026-07-31 09:00:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "At the morning open, China's commodity-futures main contracts were mostly lower. Coking coal fell over 2%, coke nearly 2%. Low-sulfur fuel oil (LU), fuel oil, Shanghai crude (SC), soda ash, LPG, benzene, eggs, pulp and styrene were down more than 1%. On the upside, palladium rose over 3%; SHFE tin and platinum gained more than 2%; SHFE silver climbed about 2%; bottle-grade PET chips and red dates were up over 1%."
+    },
+    {
+      "id": "5017975",
+      "time": "2026-07-31 09:00:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高4.2%報41,610.41。"
+    },
+    {
+      "id": "5017974",
+      "time": "2026-07-31 09:00:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報82.12美元/桶。"
+    },
+    {
+      "id": "5017973",
+      "time": "2026-07-31 09:00:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌2%，現報3590.00元。"
+    },
+    {
+      "id": "5017972",
+      "time": "2026-07-31 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】鈀連續漲2.51%，錫連續漲2.34%，焦煤連續跌2.27%，鉑連續漲2.20%，低硫燃料油連續跌2.01%。"
+    },
+    {
+      "id": "5017971",
+      "time": "2026-07-31 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌1%，現報935.00元。"
+    },
+    {
+      "id": "5017970",
+      "time": "2026-07-31 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲1.86%。"
+    },
     {
       "id": "5017969",
       "time": "2026-07-31 08:59:36",

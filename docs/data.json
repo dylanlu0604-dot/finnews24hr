@@ -1,7 +1,273 @@
 {
-  "updated": "2026-07-31 09:00:50",
-  "count": 17983,
+  "updated": "2026-07-31 09:04:48",
+  "count": 17996,
   "items": [
+    {
+      "id": "mkt:019fb5b3-47b0-7aab-8f21-af7ceb3e7aa8",
+      "time": "2026-07-31 09:04:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) opened 2,549.58 points higher, up 6.38% at 42,482.88 on Friday, July 31."
+    },
+    {
+      "id": "mkt:019fb5b3-4335-7aab-8f21-a15e7924a32f",
+      "time": "2026-07-31 09:04:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P 500 futures up 0.3%; Nasdaq futures up 1.1%."
+    },
+    {
+      "id": "5017986",
+      "time": "2026-07-31 09:04:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正帆科技等成立新公司，含物聯網應用業務】企查查APP顯示，近日，上海正帆環亞科技有限公司成立，經營範圍包含：電子元器件與機電元件裝置銷售；半導體器件專用裝置銷售；物聯網應用服務等。企查查股權穿透顯示，該公司由正帆科技等共同持股。"
+    },
+    {
+      "id": "5017985",
+      "time": "2026-07-31 09:03:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨漲超2%。"
+    },
+    {
+      "id": "mkt:019fb5b2-b7f1-7aab-8f21-9c0cbb0e0f67",
+      "time": "2026-07-31 09:03:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 index futures jumped over 2.2% in early trade."
+    },
+    {
+      "id": "mkt:019fb5b2-2180-7aab-8f21-94c77b339f5c",
+      "time": "2026-07-31 09:02:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai Futures Exchange silver front-month contract rose 2.00% intraday to 14,428.00 yuan/kg."
+    },
+    {
+      "id": "mkt:019fb5b1-a5eb-7aab-8f21-8f17a8cd95e0",
+      "time": "2026-07-31 09:02:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 0.85% to 890.1 yuan/gram in early trade on Friday, July 31; silver T+D rose 1.6% to 14,330 yuan/kg."
+    },
+    {
+      "id": "te:markets:571402",
+      "time": "2026-07-31 09:01:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Advance on Chip-Led Rally — Asian equity markets moved higher on Friday, tracking gains on Wall Street overnight as a global rally in semiconductor stocks and renewed optimism over the artificial intelligence trade lifted investor sentiment. Confidence was boosted by strong earnings from Microsoft and Amazon, reinforcing expectations for continued hyperscaler investment and resilient AI-related demand. South Korea’s KOSPI Composite Index surged more than 15%, with SK Hynix and Samsung Electronics each soaring over 20%, while Japan’s Nikkei 225 Index climbed 5%. Meanwhile, investors also looked ahead to the Bank of Japan’s policy decision later today, with the central bank widely expected to leave interest rates unchanged."
+    },
+    {
+      "id": "mkt:019fb5b0-cdff-7aab-8f21-86716e20983b",
+      "time": "2026-07-31 09:01:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened up 2,549.58 points on Friday, July 31, rising 6.38% to 42,482.88."
+    },
+    {
+      "id": "5017984",
+      "time": "2026-07-31 09:01:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大科學裝置拉索新發現 認證首個拍電子伏伽馬射線變源】從中國科學院高能物理研究所獲悉，由該所聯合國內外多家研究機構透過國家重大科技基礎設施高海拔宇宙線觀測站（LHAASO，拉索），發現最高能量的光子發自黑洞（或中子星）瘋狂吸噬大質量伴星吹出的強烈星風的過程，表明這個位於天鵝座非常特別的雙星系統（Cygnus X-3）是迄今為止能夠產生最高能量的粒子加速器。拉索測到的精確時變特徵、超高的伽馬射線能量及其能譜特徵共同確認了這個宇宙線的源天體，宇宙線粒子能量至少到達30PeV（1PeV=10的15次方電子伏特），遠超當前主流的理論預期。相關成果近日在學術期刊《國家科學評論》發表。"
+    },
+    {
+      "id": "5017983",
+      "time": "2026-07-31 09:01:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國五礦集團有限公司原黨組副書記、總經理國文清接受中央紀委國家監委紀律審查和監察調查】中央紀委國家監委網站7月31日通報，中國五礦集團有限公司原黨組副書記、總經理國文清涉嫌嚴重違紀違法，主動投案，目前正接受中央紀委國家監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5017982",
+      "time": "2026-07-31 09:01:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報85.98美元/桶。"
+    },
+    {
+      "id": "5017981",
+      "time": "2026-07-31 09:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守86美元/桶，日內跌1.04%。"
+    },
+    {
+      "id": "mkt:019fb5b0-39f0-7aab-8f21-7869b3ddd449",
+      "time": "2026-07-31 09:00:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude falls 1.4% intraday to $81.49/bbl."
+    },
+    {
+      "id": "5017980",
+      "time": "2026-07-31 09:00:51",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數上漲16%，至6489.83。"
+    },
+    {
+      "id": "mkt:019fb5af-f983-7aab-8f21-775c215fbeed",
+      "time": "2026-07-31 09:00:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Shanghai crude main contract (SC) fell 2.00% intraday to 549.60 yuan/barrel."
+    },
+    {
+      "id": "mkt:019fb5af-f8b3-7aab-8f21-6d9df3163209",
+      "time": "2026-07-31 09:00:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI index surged 16.00% intraday, currently at 6,489.83 points."
+    },
+    {
+      "id": "5017979",
+      "time": "2026-07-31 09:00:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲3.6%至265.92點。"
+    },
+    {
+      "id": "5017978",
+      "time": "2026-07-31 09:00:32",
+      "tags": [],
+      "text": "國內期貨主力合約跌多漲少，焦煤跌超2％，焦炭跌近2％，低硫燃料油（LU）、燃料油、SC原油、純鹼、液化石油氣（LPG）、純苯、雞蛋、紙漿、苯乙烯跌超1％。漲幅方面，鈀漲超3％，滬錫、鉑漲超2％，滬銀漲近2％，瓶片、紅棗漲超1％。"
+    },
+    {
+      "id": "5017977",
+      "time": "2026-07-31 09:00:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲6.6%至42,577.20點。"
+    },
+    {
+      "id": "5017976",
+      "time": "2026-07-31 09:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲5.5%至42,140.63點。"
+    },
+    {
+      "id": "mkt:019fb5af-b8ab-7aab-8f21-64ecb38ae4c2",
+      "time": "2026-07-31 09:00:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "At the morning open, China's commodity-futures main contracts were mostly lower. Coking coal fell over 2%, coke nearly 2%. Low-sulfur fuel oil (LU), fuel oil, Shanghai crude (SC), soda ash, LPG, benzene, eggs, pulp and styrene were down more than 1%. On the upside, palladium rose over 3%; SHFE tin and platinum gained more than 2%; SHFE silver climbed about 2%; bottle-grade PET chips and red dates were up over 1%."
+    },
+    {
+      "id": "5017975",
+      "time": "2026-07-31 09:00:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高4.2%報41,610.41。"
+    },
+    {
+      "id": "5017974",
+      "time": "2026-07-31 09:00:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報82.12美元/桶。"
+    },
+    {
+      "id": "5017973",
+      "time": "2026-07-31 09:00:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌2%，現報3590.00元。"
+    },
+    {
+      "id": "5017972",
+      "time": "2026-07-31 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】鈀連續漲2.51%，錫連續漲2.34%，焦煤連續跌2.27%，鉑連續漲2.20%，低硫燃料油連續跌2.01%。"
+    },
+    {
+      "id": "5017971",
+      "time": "2026-07-31 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌1%，現報935.00元。"
+    },
+    {
+      "id": "5017970",
+      "time": "2026-07-31 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲1.86%。"
+    },
     {
       "id": "5017969",
       "time": "2026-07-31 08:59:36",
@@ -166083,150 +166349,6 @@
         "其他"
       ],
       "text": "【遼寧省公共資源交易中心原副主任劉暢接受審查調查】中央紀委國家監委網站7月24日通報，據遼寧省紀委監委訊息：遼寧省公共資源交易中心（遼寧省政府採購中心）原黨組成員、副主任劉暢涉嫌嚴重違紀違法，目前正接受遼寧省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "5005635",
-      "time": "2026-07-24 09:04:47",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信期貨：貴金屬方面維持謹慎觀望，短線交易者建議等待明確的右側入場機會】中信期貨觀點稱，建議大類資產配置維持“均衡配置、關注結構機會”的整體思路。從季度維度上看，受經濟增長預期驅動，與AI產業關聯度更高的資產的表現或將繼續好於主要金融條件驅動的資產，中信期貨推薦多頭標配IC、IH、銅，密切留意美銅關稅動態；貴金屬方面維持謹慎觀望，短線交易者建議等待明確的右側入場機會，關注三季度後期的時間視窗、觀察美聯儲鷹派政策預期是否會出現明確的回擺空間。"
-    },
-    {
-      "id": "mkt:019f91a7-1dfc-7aab-8e76-6136e214fae7",
-      "time": "2026-07-24 09:04:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold slipped $10 intraday to $4,041.50/oz."
-    },
-    {
-      "id": "5005634",
-      "time": "2026-07-24 09:04:25",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本政府白皮書：日企加速轉嫁成本，通脹壓力日益加劇】日本政府在週五釋出的年度白皮書中指出，與2022年烏克蘭戰爭推高燃料成本時相比，日本企業正在以更快的速度將中東衝突導致的成本上漲轉嫁給消費者。白皮書稱，企業和家庭的通脹預期也在加速上升，這與日本央行的看法一致，即在這個曾深陷通縮的國家，通脹壓力正變得根深蒂固。白皮書指出：“企業支出意願依然強勁，投資計劃已連續兩年超過歷史平均水平”，這凸顯了日本經濟應對沖突引發能源衝擊的韌性。不過，白皮書警告稱，需要“密切關注”中東衝突可能在多大程度上影響日本經濟及產出缺口。該白皮書由內閣府編制。內閣府由經濟財政大臣城內實負責；外界認為，他對日本央行的加息計劃持謹慎態度。"
-    },
-    {
-      "id": "mkt:019f91a6-3556-7aab-8e76-5a950709e5d7",
-      "time": "2026-07-24 09:03:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China-ASEAN foreign ministers' joint statement on addressing the regional impact of developments in the Middle East and strengthening regional energy cooperation"
-    },
-    {
-      "id": "5005633",
-      "time": "2026-07-24 09:03:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國—東盟外長關於應對中東局勢演變對本地區影響及加強區域能源合作的聯合宣告：同意開展中國東盟能源政策交流和務實合作，為此經雙方協商一致探討建立合作機制，加強區域能源安全和韌性，助力區域可持續發展。我們將進一步加強區域電網互聯互通、能源供應鏈、清潔低碳和可再生能源、能源技術創新、民用核能及其他相關領域合作，支援《東盟能源合作行動計劃（2026-2030）》，在中國提出的全球發展倡議、共建“一帶一路”中發掘合作機遇。我們還將在協商一致的前提下，妥善利用相關合作倡議，如東盟能源中心與中國—東盟清潔能源合作中心的夥伴關係，調動公私融資資源，包括東盟相關機構、多邊開發銀行、國際金融機構以及中國—東盟投資合作基金等夥伴方支援的融資機制。"
-    },
-    {
-      "id": "5005632",
-      "time": "2026-07-24 09:03:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國—東盟外長關於應對中東局勢演變對本地區影響及加強區域能源合作的聯合宣告：重申依據包括《聯合國憲章》在內的國際法尊重各國主權和領土完整；以及依據包括1982年《聯合國海洋法公約》在內的國際法、國際海事組織相關文書、國際民航組織相關標準和建議措施，維護海上安全和國際航行海峽的航行和飛越自由。鑑此，我們呼籲依據1982年《聯合國海洋法公約》，保障國際航行海峽內船舶和飛行器安全、暢通、持續的過境通行，並呼籲各方依據《國際海上人命安全公約》確保船舶和船員安全。"
-    },
-    {
-      "id": "mkt:019f91a5-d120-7aab-8e76-51b360e5e08f",
-      "time": "2026-07-24 09:03:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "China's Shanghai crude (SC) main contract narrowed gains, trading up 5.25% at 593.5 yuan per barrel after earlier jumping more than 7%. Low-sulfur fuel oil (LU) rose 2.14% to 5,010 yuan/ton; fuel oil gained 2.24% to 3,930 yuan/ton."
-    },
-    {
-      "id": "5005631",
-      "time": "2026-07-24 09:03:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國—東盟外長關於應對中東局勢演變對本地區影響及加強區域能源合作的聯合宣告：歡迎當前持續推進的各項外交接觸，包括由巴基斯坦伊斯蘭共和國和卡達國斡旋、其他有關各方支援的美利堅合眾國和伊朗伊斯蘭共和國之間的談判程序，呼籲有關各方堅持多邊主義，秉持真誠對話，透過外交途徑，依據《聯合國憲章》和國際法宗旨原則，推動衝突和平持久解決。我們強調維護地區和平、穩定與繁榮及恪守國際法的重要性，敦促各方和平共處，並透過嚴格遵守停火條款，保持最大限度剋制，在中東所有戰線全面立即停止敵對行動，尊重各國主權和領土完整，在武裝衝突中保護平民和民用基礎設施，確保人道主義援助准入暢通，避免採取任何可能加劇緊張局勢的行動，為全面有效執行停火營造有利條件。"
-    },
-    {
-      "id": "5005630",
-      "time": "2026-07-24 09:02:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國—東盟外長關於應對中東局勢演變對本地區影響及加強區域能源合作的聯合宣告。"
-    },
-    {
-      "id": "5005629",
-      "time": "2026-07-24 09:01:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "新加坡海峽時報指數開盤下跌0.5%，至5552.31點。馬來西亞綜指開盤下跌 0.2% 至 1710.45。"
-    },
-    {
-      "id": "mkt:019f91a4-72b6-7aab-8e76-4bae8d537bab",
-      "time": "2026-07-24 09:01:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D fell 1.88% in early trading on Friday, July 24, to 883.58 yuan/gram; Silver T+D fell 3.57% to 14,095.0 yuan/kg."
-    },
-    {
-      "id": "mkt:019f91a4-7128-7aab-8e76-46f2aec92cea",
-      "time": "2026-07-24 09:01:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index (TAIEX) opened down 782.15 points (-1.74%) at 44,068.66 points on July 24 (Fri)."
-    },
-    {
-      "id": "5005628",
-      "time": "2026-07-24 09:01:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "受油價上漲影響，菲律賓比索兌美元跌至歷史新低。"
-    },
-    {
-      "id": "5005627",
-      "time": "2026-07-24 09:01:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌4%，現報14141.00元。"
-    },
-    {
-      "id": "5005626",
-      "time": "2026-07-24 09:01:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "30年期日本國債收益率上升5個基點，報3.965%。"
     }
   ]
 }
