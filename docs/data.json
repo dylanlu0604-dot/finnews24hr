@@ -1,7 +1,181 @@
 {
-  "updated": "2026-07-31 21:35:37",
-  "count": 17961,
+  "updated": "2026-07-31 21:39:32",
+  "count": 17969,
   "items": [
+    {
+      "id": "mkt:019fb866-00fc-7aab-8f37-1f90d6605da8",
+      "time": "2026-07-31 21:38:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's defense minister said Polish F-16s earlier intercepted a Russian reconnaissance aircraft over the Baltic Sea."
+    },
+    {
+      "id": "5019562",
+      "time": "2026-07-31 21:38:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "高露潔維持年度銷售預測後股價下跌約1%。"
+    },
+    {
+      "id": "5019561",
+      "time": "2026-07-31 21:38:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "史賽克下調全年利潤預期後，股價下跌 8%。"
+    },
+    {
+      "id": "te:markets:571784",
+      "time": "2026-07-31 21:38:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rebound on Friday — Futures tracking US equity indices extended yesterday's rebound amid another strong session for chip producers and optimistic corporate results. Contract for the S&P 500 and the Dow were around 0.5% higher, while the Nasdaq 100 rose over 1%. Amazon surged over 10% premarket after reporting an acceleration in cloud-computing revenue for a fifth quarter, easing concerns that soaring AI spending would not produce returns. The rhetoric was aligned with a second session of gains for chip producers as markets grappled with concerns that spending could slow on AI infrastructure against the large potential upside on the trade. Micron and Sandisk gained, erasing the selloff from the week, while AMD added 4% and Nvidia gained 3%. In turn, Apple slipped 7% as the shortage for chips raised costs and dented production. Meanwhile, Exxon and Chevron were mixed after their earnings, unveiling the magnitude of the benefit from soaring energy costs from the Middle East-war."
+    },
+    {
+      "id": "5019560",
+      "time": "2026-07-31 21:38:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1268.00美元/盎司。"
+    },
+    {
+      "id": "5019559",
+      "time": "2026-07-31 21:38:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "費城半導體指數一度漲超5%，閃迪漲約8%，希捷科技漲約8%，西部資料漲約9，美光科技漲約6%，SK海力士漲約9。"
+    },
+    {
+      "id": "mkt:019fb865-6fbf-7aab-8f37-104d7d4494b6",
+      "time": "2026-07-31 21:38:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EPB.O"
+      ],
+      "text": "El Paso Pipeline said the Lincoln station has lifted its force majeure."
+    },
+    {
+      "id": "5019558",
+      "time": "2026-07-31 21:37:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨發表宣告警告：美國對伊拉克採取的軍事行動，將給整個地區埋下危險後患。"
+    },
+    {
+      "id": "5019557",
+      "time": "2026-07-31 21:37:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鈀金<XPD=>下跌3%，至每盎司1265.39美元。"
+    },
+    {
+      "id": "5019556",
+      "time": "2026-07-31 21:37:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：我們使用多枚彈道導彈襲擊了約旦境內的美軍空軍基地。"
+    },
+    {
+      "id": "5019555",
+      "time": "2026-07-31 21:36:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我們將持續對伊朗實施強力打擊。"
+    },
+    {
+      "id": "5019554",
+      "time": "2026-07-31 21:36:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普人事辦公室接管員工申訴相關事務。"
+    },
+    {
+      "id": "mkt:019fb864-609c-7aab-8f37-0a44bb22313d",
+      "time": "2026-07-31 21:36:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said the U.S. will continue to carry out strong strikes against Iran."
+    },
+    {
+      "id": "5019553",
+      "time": "2026-07-31 21:35:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚石油跌1.2%，因二季度利潤未達華爾街預期。"
+    },
+    {
+      "id": "mkt:019fb863-52c8-7aab-8f37-053630001d82",
+      "time": "2026-07-31 21:35:44",
+      "tags": [
+        "MKT News",
+        "XOM.N",
+        "Impact bearish"
+      ],
+      "text": "Exxon Mobil (XOM.N) shares fell 1.2% after second-quarter profit missed Wall Street expectations."
+    },
+    {
+      "id": "mkt:019fb863-16e4-7aab-8f36-ffad279e826a",
+      "time": "2026-07-31 21:35:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Russian Defence Ministry: Russian forces struck a mail-sorting center in Ukraine's Dnipropetrovsk region."
+    },
+    {
+      "id": "5019552",
+      "time": "2026-07-31 21:35:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍漲1.5%，二季度利潤超預期。"
+    },
+    {
+      "id": "5019551",
+      "time": "2026-07-31 21:35:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國家安全部長：“和平委員會” 公佈的協議草案無法被以色列接受。加沙的定點清除行動必須持續推進，同時應當推動當地民眾遷出，以色列必須取得勝利。"
+    },
+    {
+      "id": "mkt:019fb862-cf05-7aab-8f36-f4f7cd918fab",
+      "time": "2026-07-31 21:35:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CVX.N",
+        "Impact bullish"
+      ],
+      "text": "Chevron (CVX.N) up 1.5% after Q2 profit beat expectations."
+    },
     {
       "id": "mkt:019fb862-b45e-7aab-8f36-ebc82cb8767e",
       "time": "2026-07-31 21:35:04",
@@ -166195,99 +166369,6 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Opens 0.20% Higher — The Dow Jones Index is picking up 105 points or 0.20 percent on Friday. Gains are led by IBM (2.02%), Walt Disney (1.58%) and Travelers Companies (1.33%). Biggest losers are American Express (-5.59%), Nvidia (-0.63%) and P&G (-0.54%)."
-    },
-    {
-      "id": "5007201",
-      "time": "2026-07-24 21:39:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國科技公司公開信稱可行舉措包括：為初創企業與科研人員擴充算力供給、共建共享訓練資源（資料集、工具、評估框架）；避免過早限制開源模型，維持前沿技術賽道多元競爭格局，防止抑制行業創新、倒逼技術研發外流。相關政策還需關注如何完善應用層生態，讓各行各業都能自主可控地使用人工智慧技術。"
-    },
-    {
-      "id": "5007200",
-      "time": "2026-07-24 21:39:04",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【摩根士丹利：投資者目前似乎對英特爾的支出計劃充滿熱情】摩根士丹利表示，英特爾將今年的總資本支出預期從約150億美元上調至200億美元，並且該公司預計明年的支出將大幅高於這一水平。摩根士丹利的分析師預計2027財年的資本支出約為300億美元。“我們預計投資者對這種支出的熱情將完全取決於對這些投資的長期前景的熱情，”他們在研究報告中表示。英特爾將受益於蓬勃發展的AI技術，該技術依賴於該公司擅長的CPU。“伺服器領域的敘事確實支援了一些增長，”摩根士丹利的分析師說。“但僅靠伺服器的盈利前景至少在一定程度上取決於維持短缺狀態，因為CPU供應充足可能會導致一些市場份額流失和價格下跌。”"
-    },
-    {
-      "id": "5007199",
-      "time": "2026-07-24 21:38:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳市委常委會召開會議 研究進一步做好人工智慧、城市建設、地質災害防範和颱風防禦等工作 靳磊主持】7月24日，深圳市委常委會召開會議，認真學習貫徹習近平總書記近期重要講話重要指示精神，研究我市落實意見。市委書記靳磊主持會議並講話。會議強調，要認真學習貫徹習近平總書記在2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式上的重要講話精神，搶抓人工智慧發展的歷史性機遇，堅持有效市場和有為政府相結合，以走在前列、勇當尖兵的擔當作為推動人工智慧創新發展，加快關鍵核心技術攻關，加強算力基礎設施建設，深化算電協同等改革，深入實施“人工智慧+”行動，務實開展人工智慧國際合作，集聚國內國際企業、技術、人才等要素資源，全面促進人工智慧科技創新、產業發展、場景應用，推動人工智慧安全、可靠、可控發展，加快打造人工智慧產業高地。（深圳釋出）"
-    },
-    {
-      "id": "5007198",
-      "time": "2026-07-24 21:38:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾走弱，現跌幅擴大至2.5%。"
-    },
-    {
-      "id": "5007197",
-      "time": "2026-07-24 21:38:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股AI應用軟體股盤初集體上漲】美股AI應用軟體股盤初集體上漲，SAP、ServiceNow升逾5%，Figma升逾4%，Workday、賽富時、Adobe升逾2%。"
-    },
-    {
-      "id": "5007196",
-      "time": "2026-07-24 21:37:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界銀行稱，摩洛哥2026年經濟增速將放緩至4.2%。"
-    },
-    {
-      "id": "5007195",
-      "time": "2026-07-24 21:37:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀全球研究將AMD目標股價從560美元上調至620美元。"
-    },
-    {
-      "id": "5007194",
-      "time": "2026-07-24 21:36:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "斯倫貝謝執行長在電話會議上表示，第二季度中東多個國家的業務活動已恢復，但伊拉克的運營仍受到限制。"
-    },
-    {
-      "id": "5007193",
-      "time": "2026-07-24 21:36:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機器人合夥開餐廳了 超400億元AI餐飲新風口來了】當鍋氣遇上演算法，當後廚連線雲端，AI早已不是遙不可及的科技概念，而是悄然滲透餐飲行業的“新幫手”。機器人合夥開餐廳，在北京亦莊已經成為現實。在餐廳裡，機器人的工作還有很多——機器人多功能吧檯可實現“日咖夜酒”，搭配機器人制作的熱狗、冰激凌等，提供全天候輕餐體驗。互動體驗區內，人形機器人參與互動表演。科技、餐飲與體驗在這裡融為一體，為消費者打造出一個全新的未來餐廳樣本。事實上，這股“AI+餐飲”的熱潮正在加速蔓延。行業資料顯示，國內智慧食堂市場規模今年將突破410億元，持續保持28%以上的高速增長。全球餐飲AI市場也處於快速擴張期，2025年全球餐飲AI市場規模達到150億美元，同比增長38.9%，預計2026年將突破200億美元。 （央視財經）"
-    },
-    {
-      "id": "5007192",
-      "time": "2026-07-24 21:36:08",
-      "tags": [
-        "行業",
-        "市場"
-      ],
-      "text": "【乘聯分會：6月份皮卡市場銷售6.2萬輛 同比增長29%】乘聯分會資料顯示，皮卡產銷呈現春季的拉昇特徵，6月出口走勢超強。2026年6月份皮卡市場銷售6.2萬輛，同比增長29%，環比增長3%，處於近5年的當月次高位水平。1-6月銷量34.3萬輛，增長18%。"
-    },
-    {
-      "id": "5007191",
-      "time": "2026-07-24 21:35:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多家航司釋出受颱風“紅霞”影響航線客票處置方案】記者24日從多家航空公司獲悉，為做好受颱風“紅霞”影響航班的旅客服務，協助旅客更好地安排出行，國航、深航、廈航等航空公司已釋出相關航線客票特殊處置方案。以國航為例，旅客在7月24日16時（含）前購買的，旅行日期為7月25日至26日的廣州、深圳、珠海等機場進出港航線國航客票，可按特殊處置方案辦理免費變更或退票，具體規則以國航官網公告為準。航空公司方面提醒相關旅客，密切留意天氣狀況和航班狀態，建議優先透過航空公司線上渠道辦理客票退改手續。（新華社）"
     }
   ]
 }

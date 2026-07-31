@@ -1,7 +1,181 @@
 {
   "date": "2026-07-31",
-  "count": 3077,
+  "count": 3096,
   "items": [
+    {
+      "id": "mkt:019fb866-00fc-7aab-8f37-1f90d6605da8",
+      "time": "2026-07-31 21:38:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's defense minister said Polish F-16s earlier intercepted a Russian reconnaissance aircraft over the Baltic Sea."
+    },
+    {
+      "id": "5019562",
+      "time": "2026-07-31 21:38:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "高露潔維持年度銷售預測後股價下跌約1%。"
+    },
+    {
+      "id": "te:markets:571784",
+      "time": "2026-07-31 21:38:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rebound on Friday — Futures tracking US equity indices extended yesterday's rebound amid another strong session for chip producers and optimistic corporate results. Contract for the S&P 500 and the Dow were around 0.5% higher, while the Nasdaq 100 rose over 1%. Amazon surged over 10% premarket after reporting an acceleration in cloud-computing revenue for a fifth quarter, easing concerns that soaring AI spending would not produce returns. The rhetoric was aligned with a second session of gains for chip producers as markets grappled with concerns that spending could slow on AI infrastructure against the large potential upside on the trade. Micron and Sandisk gained, erasing the selloff from the week, while AMD added 4% and Nvidia gained 3%. In turn, Apple slipped 7% as the shortage for chips raised costs and dented production. Meanwhile, Exxon and Chevron were mixed after their earnings, unveiling the magnitude of the benefit from soaring energy costs from the Middle East-war."
+    },
+    {
+      "id": "5019561",
+      "time": "2026-07-31 21:38:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "史賽克下調全年利潤預期後，股價下跌 8%。"
+    },
+    {
+      "id": "5019560",
+      "time": "2026-07-31 21:38:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1268.00美元/盎司。"
+    },
+    {
+      "id": "5019559",
+      "time": "2026-07-31 21:38:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "費城半導體指數一度漲超5%，閃迪漲約8%，希捷科技漲約8%，西部資料漲約9，美光科技漲約6%，SK海力士漲約9。"
+    },
+    {
+      "id": "mkt:019fb865-6fbf-7aab-8f37-104d7d4494b6",
+      "time": "2026-07-31 21:38:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EPB.O"
+      ],
+      "text": "El Paso Pipeline said the Lincoln station has lifted its force majeure."
+    },
+    {
+      "id": "5019558",
+      "time": "2026-07-31 21:37:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨發表宣告警告：美國對伊拉克採取的軍事行動，將給整個地區埋下危險後患。"
+    },
+    {
+      "id": "5019557",
+      "time": "2026-07-31 21:37:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鈀金<XPD=>下跌3%，至每盎司1265.39美元。"
+    },
+    {
+      "id": "5019556",
+      "time": "2026-07-31 21:37:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：我們使用多枚彈道導彈襲擊了約旦境內的美軍空軍基地。"
+    },
+    {
+      "id": "5019555",
+      "time": "2026-07-31 21:36:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我們將持續對伊朗實施強力打擊。"
+    },
+    {
+      "id": "5019554",
+      "time": "2026-07-31 21:36:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普人事辦公室接管員工申訴相關事務。"
+    },
+    {
+      "id": "mkt:019fb864-609c-7aab-8f37-0a44bb22313d",
+      "time": "2026-07-31 21:36:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said the U.S. will continue to carry out strong strikes against Iran."
+    },
+    {
+      "id": "5019553",
+      "time": "2026-07-31 21:35:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚石油跌1.2%，因二季度利潤未達華爾街預期。"
+    },
+    {
+      "id": "mkt:019fb863-52c8-7aab-8f37-053630001d82",
+      "time": "2026-07-31 21:35:44",
+      "tags": [
+        "MKT News",
+        "XOM.N",
+        "Impact bearish"
+      ],
+      "text": "Exxon Mobil (XOM.N) shares fell 1.2% after second-quarter profit missed Wall Street expectations."
+    },
+    {
+      "id": "mkt:019fb863-16e4-7aab-8f36-ffad279e826a",
+      "time": "2026-07-31 21:35:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Russian Defence Ministry: Russian forces struck a mail-sorting center in Ukraine's Dnipropetrovsk region."
+    },
+    {
+      "id": "5019552",
+      "time": "2026-07-31 21:35:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍漲1.5%，二季度利潤超預期。"
+    },
+    {
+      "id": "5019551",
+      "time": "2026-07-31 21:35:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國家安全部長：“和平委員會” 公佈的協議草案無法被以色列接受。加沙的定點清除行動必須持續推進，同時應當推動當地民眾遷出，以色列必須取得勝利。"
+    },
+    {
+      "id": "mkt:019fb862-cf05-7aab-8f36-f4f7cd918fab",
+      "time": "2026-07-31 21:35:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CVX.N",
+        "Impact bullish"
+      ],
+      "text": "Chevron (CVX.N) up 1.5% after Q2 profit beat expectations."
+    },
     {
       "id": "mkt:019fb862-b45e-7aab-8f36-ebc82cb8767e",
       "time": "2026-07-31 21:35:04",
