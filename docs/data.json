@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-01 02:24:45",
-  "count": 17961,
+  "updated": "2026-08-01 02:28:44",
+  "count": 17962,
   "items": [
+    {
+      "id": "5019802",
+      "time": "2026-08-01 02:26:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "據稱紐約聯邦儲備銀行要求美國各家銀行核查歐元兌日元匯率。"
+    },
+    {
+      "id": "te:markets:571847",
+      "time": "2026-08-01 02:25:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Rallies by 5.58% — Top commodity gainers are Cocoa (5.58%) and Coffee (2.62%). Biggest losers are Wheat (-3.76%), Rapeseed (-2.84%) and Lumber (-1.68%)."
+    },
     {
       "id": "5019801",
       "time": "2026-08-01 02:20:27",
@@ -166303,17 +166322,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Bitcoin Drops by 1.50% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a -1.50% decrease."
-    },
-    {
-      "id": "te:markets:569840",
-      "time": "2026-07-25 02:25:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Wheat Drops by 2.56% — Top commodity losers are Wheat (-2.56%) and Rapeseed (-2.30%). Gains are led by Coffee (1.55%), Soybeans (0.70%) and Cocoa (0.57%)."
     }
   ]
 }

@@ -1,7 +1,26 @@
 {
   "date": "2026-08-01",
-  "count": 137,
+  "count": 139,
   "items": [
+    {
+      "id": "5019802",
+      "time": "2026-08-01 02:26:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "據稱紐約聯邦儲備銀行要求美國各家銀行核查歐元兌日元匯率。"
+    },
+    {
+      "id": "te:markets:571847",
+      "time": "2026-08-01 02:25:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Rallies by 5.58% — Top commodity gainers are Cocoa (5.58%) and Coffee (2.62%). Biggest losers are Wheat (-3.76%), Rapeseed (-2.84%) and Lumber (-1.68%)."
+    },
     {
       "id": "5019801",
       "time": "2026-08-01 02:20:27",
