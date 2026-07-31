@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-31 13:18:33",
-  "count": 18032,
+  "updated": "2026-07-31 13:23:03",
+  "count": 18035,
   "items": [
+    {
+      "id": "te:economy:571509",
+      "time": "2026-07-31 13:22:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Estonia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Estonia Retail Sales Rebound in June — Retail sales in Estonia increased 0.8% year-on-year in June 2026, rebounding from a 1.1% decline in the previous month. Sales of food, beverages, and tobacco recovered, rising 1.0% following a 0.4% decline in May, while the drop in sales of non-food products excluding fuel eased significantly to 0.1% from 4.6%. Meanwhile, sales growth for automotive fuel in specialised stores slowed to 0.4% from 2.3% in the previous month. On a monthly basis, retail sales climbed 1.9% in June, accelerating from a modest 0.1% increase in May and marking the strongest monthly gain since March."
+    },
+    {
+      "id": "5018367",
+      "time": "2026-07-31 13:20:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度馬哈拉施特拉邦一建築倒塌 已致9人死亡】當地時間7月30日晚間，印度馬哈拉施特拉邦一棟四層建築發生倒塌。總檯記者31日獲悉，事故目前已造成9人死亡，另有多人可能仍被困在廢墟下。（央視新聞）"
+    },
+    {
+      "id": "5018366",
+      "time": "2026-07-31 13:20:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "安盛執行長表示，巨災債券是向市場引入資本的好方法。"
+    },
+    {
+      "id": "5018365",
+      "time": "2026-07-31 13:20:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "安盛執行長：只要做好預防措施，所有風險都可以投保。"
+    },
+    {
+      "id": "5018364",
+      "time": "2026-07-31 13:18:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【村田上調業績預期，表明人工智慧零部件需求旺盛】日本村田製作所上調盈利預期，凸顯全球科技產業擴張所需的高階人工智慧零部件需求強勁。這家總部位於京都的企業稱，目前預計全年營業利潤達 4300 億日元（摺合 27 億美元），此前預期為 3800 億日元。4 至 6 月季度營業利潤為 985 億日元，高於分析師平均預期的 906 億日元。公司在宣告中表示：“我們預計資料中心相關需求將持續增長，加之日元走弱，有望推動利潤超出此前預期。”全球各大頭部資料中心運營商均採購村田的高階產品。該企業是全球多層陶瓷電容器龍頭供應商。這類元件可調控電流，是所有用電裝置不可或缺的零部件。"
+    },
     {
       "id": "5018363",
       "time": "2026-07-31 13:17:30",
@@ -166774,27 +166819,6 @@
         "公司"
       ],
       "text": "【小馬智行、中國外運成立物流科技公司 含多項AI業務】企查查APP顯示，近日，北京青騅物流科技有限公司成立，法定代表人為賀星，經營範圍包含人工智慧基礎軟體開發；人工智慧應用軟體開發；電子產品銷售；智慧車載裝置銷售；汽車零部件研發等。企查查股權穿透顯示，該公司由青騅物流科技有限公司全資持股，後者由小馬智行關聯公司北京小馬慧行科技有限公司、中國外運(601598)共同持股。"
-    },
-    {
-      "id": "te:economy:569584",
-      "time": "2026-07-24 13:21:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Finland",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Finland Producer Inflation Eases in June — Producer prices in Finland rose 6.7% year-on-year in June 2026, easing from a three-year high of 7.4% in the previous month. Price growth slowed in manufactured products (5.8% vs 6.4% in May), particularly in beverages (1.3% vs 4.9%), computers, electrical and optical products (8.7% vs 9.2%) and machinery and equipment (2.2% vs 2.4%), while declines were recorded in the manufacture of textiles (-0.3% vs 1.0%) and glass and glass products (-0.2% vs 0.8%). Moreover, inflation grew at a softer pace for electricity, gas, steam, and air-conditioning supply (15.0% vs 17.9%). On the other hand, costs increased in mining and quarrying (14.9% vs 11.9%) and water supply, sewerage, waste management, and remediation services (11.1% vs 10.1%). On a monthly basis, producer prices fell by 0.7% in June, following a 1.3% growth in the preceding period."
-    },
-    {
-      "id": "5005988",
-      "time": "2026-07-24 13:20:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【納格爾稱歐洲央行處於有利位置，對下一次利率調整保持沉默】歐洲央行管理委員會委員約阿希姆・納格爾表示，央行9月召開下一次利率議息會議時，將依託大量全新經濟資料研判形勢。納格爾同時兼任德國聯邦銀行行長，他為歐洲央行週四維持利率不變的決議作出辯護，並著重提及中東局勢瞬息萬變。他在郵件宣告中表示：“本次維持歐洲央行關鍵利率穩定是正確之舉。6月的加息操作已讓我們佔據有利位置，得以密切跟蹤後續經濟變化。”此番表態釋出於歐洲央行宣佈按兵不動之後。6月央行已加息25個基點，當下暫緩調整利率，是為爭取時間，研判伊朗衝突引發的通脹壓力是否需要進一步收緊貨幣政策。歐洲央行行長克里斯蒂娜・拉加德此前已為9月再度加息埋下伏筆，稱部分管委會官員甚至考慮本月就啟動加息。知情人士透露，除非歐元區通脹前景出現顯著好轉，否則政策官員屆時準備加息。 納格爾重申歐洲央行一貫立場——絕不提前鎖定政策路徑，他稱：“我們仍處在高度不確定的環境中。9月我們將拿到海量新資料與全新經濟預測，屆時會重新評估通脹前景。”"
     }
   ]
 }

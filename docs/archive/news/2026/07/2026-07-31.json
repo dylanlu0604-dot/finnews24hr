@@ -1,7 +1,52 @@
 {
   "date": "2026-07-31",
-  "count": 1435,
+  "count": 1440,
   "items": [
+    {
+      "id": "te:economy:571509",
+      "time": "2026-07-31 13:22:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Estonia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Estonia Retail Sales Rebound in June — Retail sales in Estonia increased 0.8% year-on-year in June 2026, rebounding from a 1.1% decline in the previous month. Sales of food, beverages, and tobacco recovered, rising 1.0% following a 0.4% decline in May, while the drop in sales of non-food products excluding fuel eased significantly to 0.1% from 4.6%. Meanwhile, sales growth for automotive fuel in specialised stores slowed to 0.4% from 2.3% in the previous month. On a monthly basis, retail sales climbed 1.9% in June, accelerating from a modest 0.1% increase in May and marking the strongest monthly gain since March."
+    },
+    {
+      "id": "5018367",
+      "time": "2026-07-31 13:20:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度馬哈拉施特拉邦一建築倒塌 已致9人死亡】當地時間7月30日晚間，印度馬哈拉施特拉邦一棟四層建築發生倒塌。總檯記者31日獲悉，事故目前已造成9人死亡，另有多人可能仍被困在廢墟下。（央視新聞）"
+    },
+    {
+      "id": "5018366",
+      "time": "2026-07-31 13:20:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "安盛執行長表示，巨災債券是向市場引入資本的好方法。"
+    },
+    {
+      "id": "5018365",
+      "time": "2026-07-31 13:20:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "安盛執行長：只要做好預防措施，所有風險都可以投保。"
+    },
+    {
+      "id": "5018364",
+      "time": "2026-07-31 13:18:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【村田上調業績預期，表明人工智慧零部件需求旺盛】日本村田製作所上調盈利預期，凸顯全球科技產業擴張所需的高階人工智慧零部件需求強勁。這家總部位於京都的企業稱，目前預計全年營業利潤達 4300 億日元（摺合 27 億美元），此前預期為 3800 億日元。4 至 6 月季度營業利潤為 985 億日元，高於分析師平均預期的 906 億日元。公司在宣告中表示：“我們預計資料中心相關需求將持續增長，加之日元走弱，有望推動利潤超出此前預期。”全球各大頭部資料中心運營商均採購村田的高階產品。該企業是全球多層陶瓷電容器龍頭供應商。這類元件可調控電流，是所有用電裝置不可或缺的零部件。"
+    },
     {
       "id": "5018363",
       "time": "2026-07-31 13:17:30",
