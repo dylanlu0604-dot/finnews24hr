@@ -1,7 +1,78 @@
 {
-  "updated": "2026-08-01 02:28:44",
-  "count": 17962,
+  "updated": "2026-08-01 02:32:47",
+  "count": 17967,
   "items": [
+    {
+      "id": "mkt:019fb972-5291-7aab-8f3c-98c0c6be0e5b",
+      "time": "2026-08-01 02:31:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NewsNation cited the US Marine Corps confirming an F-35B suffered a Class A mishap near Marine Corps Air Station Miramar; the pilot ejected and has been rescued."
+    },
+    {
+      "id": "mkt:019fb972-3c53-7aab-8f3c-96be892144b0",
+      "time": "2026-08-01 02:31:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night-session front-month contracts close】As of the 02:30 night-session close, Shanghai gold front-month contract fell 0.89% to 884 yuan/gram, Shanghai silver front-month contract fell 1.01% to 14,143 yuan/kg, and SC crude oil front-month contract rose 0.71% to 554 yuan/barrel."
+    },
+    {
+      "id": "5019804",
+      "time": "2026-08-01 02:31:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 9月原油期貨收報84.67美元/桶。NYMEX 8月天然氣期貨收報2.7470美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.2216美元/加侖，NYMEX 8月取暖油期貨收報4.1215美元/加侖。"
+    },
+    {
+      "id": "mkt:019fb971-2d11-7aab-8f3c-8e21e41f69bb",
+      "time": "2026-08-01 02:30:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 0.71% at 881.08 yuan/gram in the evening session on July 31; silver T+D fell 0.99% to 14,094.0 yuan/kg."
+    },
+    {
+      "id": "5019803",
+      "time": "2026-08-01 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲0.71%，報553.80元人民幣/桶。滬金夜盤收跌0.89%，滬銀收跌1.01%。"
+    },
+    {
+      "id": "te:markets:571848",
+      "time": "2026-08-01 02:30:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Depreciates by 2.66% — Top crypto losers are Bitcoin (-2.66%) and Ether (-2.58%)."
+    },
+    {
+      "id": "em:qqyh_mlc:202608013828783887",
+      "time": "2026-08-01 02:27:44",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "據悉紐約聯儲要求美國各銀行關注歐元/日元匯率。"
+    },
     {
       "id": "5019802",
       "time": "2026-08-01 02:26:06",
@@ -166303,25 +166374,6 @@
         "其他"
       ],
       "text": "納斯達克100指數跌幅擴大至1%。"
-    },
-    {
-      "id": "5007462",
-      "time": "2026-07-25 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌2.55%，報577.70元人民幣/桶。滬金夜盤收漲0.22%，滬銀收漲1.39%。"
-    },
-    {
-      "id": "te:markets:569841",
-      "time": "2026-07-25 02:30:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Bitcoin Drops by 1.50% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a -1.50% decrease."
     }
   ]
 }
