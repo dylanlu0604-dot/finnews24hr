@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-01 03:01:14",
-  "count": 17944,
+  "updated": "2026-08-01 03:05:13",
+  "count": 17943,
   "items": [
+    {
+      "id": "5019817",
+      "time": "2026-08-01 03:04:12",
+      "tags": [
+        "資料"
+      ],
+      "text": "Flapping Airplanes 正在洽談新一輪融資，目標估值 50 億美元。"
+    },
+    {
+      "id": "5019816",
+      "time": "2026-08-01 03:02:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：拉美非銀行金融機構面臨更嚴峻的運營環境。"
+    },
+    {
+      "id": "5019815",
+      "time": "2026-08-01 03:02:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部：6 月農戶農產品銷售價格同比持平。"
+    },
+    {
+      "id": "mkt:019fb98e-99b4-7aab-8f3c-cbd203c12a84",
+      "time": "2026-08-01 03:02:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index"
+      ],
+      "text": "Hang Seng Index futures night session closed down 0.07% at 25,922, trading a 38-point premium to the spot index."
+    },
+    {
+      "id": "5019814",
+      "time": "2026-08-01 03:01:31",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行比亞爾： 部分理事會成員擔憂消費者物價指數加速上行。"
+    },
+    {
+      "id": "5019813",
+      "time": "2026-08-01 03:01:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行比亞爾：部分哥倫比亞央行政策委員認為有必要收緊貨幣政策。"
+    },
+    {
+      "id": "5019812",
+      "time": "2026-08-01 03:00:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "匈牙利 MOL 集團獲得美方許可，可繼續推進 NIS 收購談判。"
+    },
+    {
+      "id": "5019811",
+      "time": "2026-08-01 03:00:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國農業部：6 月農業生產投入價格同比上漲 8.8%。"
+    },
     {
       "id": "5019810",
       "time": "2026-08-01 03:00:02",
@@ -166069,86 +166139,6 @@
         "MKT News"
       ],
       "text": "Saudi state TV reports the Saudi Public Investment Fund (PIF) and the US Export-Import Bank have signed a memorandum of understanding covering advanced technologies, aerospace, infrastructure, future mobility, water security and mineral resources."
-    },
-    {
-      "id": "mkt:019f9584-6b8c-7aab-8e8e-e081a957e3e8",
-      "time": "2026-07-25 03:05:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi state TV said the Public Investment Fund (PIF) and the US Export-Import Bank (US EXIM) signed a memorandum of understanding creating a financing framework to fund eligible PIF portfolio companies’ purchases of US goods and services."
-    },
-    {
-      "id": "5007482",
-      "time": "2026-07-25 03:04:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特媒體報道：沙特公共投資基金與美國進出口銀行簽署的諒解備忘錄涵蓋先進技術、航天航空、基礎設施、未來出行、水安全與礦產領域。"
-    },
-    {
-      "id": "mkt:019f9583-5e21-7aab-8e8e-dabd16406001",
-      "time": "2026-07-25 03:04:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil Planning Minister Moretti said he does not expect the additional diesel subsidy of 0.35 reais per liter to be reinstated."
-    },
-    {
-      "id": "mkt:019f9583-4654-7aab-8e8e-d16153d27e0f",
-      "time": "2026-07-25 03:03:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brazil's planning minister Moretti said the government will reassess its stance on oil export taxes if indicators linked to Brent crude ease again."
-    },
-    {
-      "id": "mkt:019f9583-323e-7aab-8e8e-cfeb3a7c5e8e",
-      "time": "2026-07-25 03:03:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Saudi Arabia's Public Investment Fund (PIF) signed a memorandum of understanding with the Export-Import Bank of the United States (EXIM) on financing worth up to $15 billion."
-    },
-    {
-      "id": "5007481",
-      "time": "2026-07-25 03:03:33",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "倫敦證券交易所集團-理柏（LSGE Lipper）正評估美國投資級（債券）基金的每週資料流。此前，摩根大通報告稱，逾六年來最大單週資金外流資料可能存在錯誤。"
-    },
-    {
-      "id": "5007480",
-      "time": "2026-07-25 03:03:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西經濟部長莫雷蒂表示：我們預計不會恢復每升柴油0.35雷亞爾的額外補貼政策。"
-    },
-    {
-      "id": "5007479",
-      "time": "2026-07-25 03:03:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙烏地阿拉伯公共投資基金與美國進出口銀行簽署價值最高達150億美元的諒解備忘錄，為合格投資組合企業採購美國商品與服務提供融資框架。"
-    },
-    {
-      "id": "5007478",
-      "time": "2026-07-25 03:01:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部稱，美國牛存欄量為9420萬頭。同比增長0.2%。"
     }
   ]
 }
