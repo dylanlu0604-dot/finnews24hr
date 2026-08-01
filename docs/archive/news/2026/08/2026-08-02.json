@@ -1,7 +1,15 @@
 {
   "date": "2026-08-02",
-  "count": 31,
+  "count": 32,
   "items": [
+    {
+      "id": "5020539",
+      "time": "2026-08-02 01:32:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Codex與開源模型關注度攀升，Anthropic旗下Claude Code依舊佔據主導】Anthropic正面臨日趨激烈的市場競爭，客戶也對其AI工具高昂的價格心存疑慮。但爆款產品Claude Code的領先地位依舊難以撼動。2025年末至2026年初，大量企業轉向Claude Code，不少場景下擠佔了微軟GitHub Copilot以及AI程式碼工具廠商Cursor的市場份額。近幾個月，隨著Anthropic切換至按量計費模式，客戶使用成本大幅上漲；與此同時，競爭對手OpenAI持續迭代Codex，競爭力顯著增強，來自中國的開源模型能力也取得長足進步。即便各大企業積極尋求控本方案，眾多企業依舊選擇繼續使用Claude Code。"
+    },
     {
       "id": "mkt:019fbe5d-f0db-7aab-8f43-273a0dd5eda8",
       "time": "2026-08-02 01:27:35",
