@@ -1,7 +1,19 @@
 {
   "date": "2026-08-01",
-  "count": 932,
+  "count": 933,
   "items": [
+    {
+      "id": "mkt:019fbd16-3d71-7aab-8f42-11cdf0e83a9c",
+      "time": "2026-08-01 19:29:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. embassy in Jordan warns Middle East tensions may escalate】On Aug. 1 the U.S. embassy in Jordan issued a security alert saying regional security remains complex and could further escalate. It advised U.S. citizens in the Middle East to remain vigilant and prepare for possible flight cancellations, temporary airspace closures and travel disruptions; those outside the region should reconsider travel or transit through the area. The embassy also urged U.S. citizens to avoid U.S. military bases in Jordan and areas with heavy security deployments."
+    },
     {
       "id": "mkt:019fbd10-f138-7aab-8f42-0c9a4760d9d4",
       "time": "2026-08-01 19:23:51",
