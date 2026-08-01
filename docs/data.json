@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-01 15:33:06",
-  "count": 17977,
+  "updated": "2026-08-01 15:37:11",
+  "count": 17978,
   "items": [
+    {
+      "id": "mkt:019fbc3f-2644-7aab-8f40-f7691bf47c78",
+      "time": "2026-08-01 15:34:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "An Indian Oil Corp top executive said the company set August aviation turbine fuel (ATF) at 115 rupees per litre, up 5 rupees from July."
+    },
+    {
+      "id": "5020294",
+      "time": "2026-08-01 15:32:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油公司高管表示，該公司將國內航空公司8月航空燃油價格定為每升115盧比，較7月上調5盧比每升。"
+    },
     {
       "id": "mkt:019fbc3b-6422-7aab-8f40-eaacb60ca1f4",
       "time": "2026-08-01 15:30:36",
@@ -166443,14 +166462,6 @@
         "Copper"
       ],
       "text": "【China's digital industry revenue reaches 39.6 tln yuan in 2025】The Cyberspace Administration of China’s National Informatization Development Report (2025) shows core digital industry value-added accounted for over 10.5% of GDP; digital industry revenue reached 39.6 tln yuan, up 8.8% YoY, while household digital consumption was 25.3 tln yuan, up 8.7% YoY. Network infrastructure upgrades continued: 5G base stations totaled 4.838 mln by end‑2025, about two‑thirds of prefecture‑level cities meet gigabit‑city standards, and active IPv6 users reached 869 mln."
-    },
-    {
-      "id": "5007901",
-      "time": "2026-07-25 15:34:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風“紅霞”臨近 港珠澳大橋橋樑航道實施臨時交通管制】颱風“紅霞”已於7月25日早晨加強為颱風級（12級），預計“紅霞”將於25日夜間至26日早晨以颱風級或強颱風級登陸深圳至惠來一帶沿海，登陸時距離珠海市陸地約150公里。記者從港珠澳大橋海事局瞭解到，為做好防颱應對，港珠澳大橋海事局於7月25日10時20分將防熱帶氣旋響應由四級提升至三級，同時，於25日12時對港珠澳大橋橋樑航道實施臨時交通管制，禁止內河船舶進入港珠澳大橋橋樑航道。管制期間，港珠澳大橋海事局透過智慧海事系統，啟用區域電子圍欄實施精準管控，迴圈播發預警資訊，加強遠端監管，提醒航運企業及船舶嚴格執行各項防颱舉措。（央視新聞）"
     }
   ]
 }

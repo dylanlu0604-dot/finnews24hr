@@ -1,7 +1,26 @@
 {
   "date": "2026-08-01",
-  "count": 786,
+  "count": 788,
   "items": [
+    {
+      "id": "mkt:019fbc3f-2644-7aab-8f40-f7691bf47c78",
+      "time": "2026-08-01 15:34:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "An Indian Oil Corp top executive said the company set August aviation turbine fuel (ATF) at 115 rupees per litre, up 5 rupees from July."
+    },
+    {
+      "id": "5020294",
+      "time": "2026-08-01 15:32:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油公司高管表示，該公司將國內航空公司8月航空燃油價格定為每升115盧比，較7月上調5盧比每升。"
+    },
     {
       "id": "mkt:019fbc3b-6422-7aab-8f40-eaacb60ca1f4",
       "time": "2026-08-01 15:30:36",
