@@ -1,7 +1,16 @@
 {
   "date": "2026-08-01",
-  "count": 960,
+  "count": 961,
   "items": [
+    {
+      "id": "mkt:019fbd3b-8801-7aab-8f42-3f56522b23dd",
+      "time": "2026-08-01 20:10:22",
+      "tags": [
+        "MKT News",
+        "600104.SS"
+      ],
+      "text": "【SAIC Motor July 2026 vehicle sales 339,000 units】SAIC Motor reported July 2026 vehicle sales of 339,000 units; cumulative Jan–Jul sales reached 2.384 million vehicles."
+    },
     {
       "id": "5020439",
       "time": "2026-08-01 20:05:41",
