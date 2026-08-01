@@ -1,7 +1,27 @@
 {
   "date": "2026-08-01",
-  "count": 512,
+  "count": 514,
   "items": [
+    {
+      "id": "te:economy:571872",
+      "time": "2026-08-01 08:12:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Exports YoY",
+        "Importance 2"
+      ],
+      "text": "South Korea Export Growth Above Forecasts — Exports soared 62.8% year-on-year to USD 98.89 billion, surpassing market estimates of 59.0%, though easing from a 70.7% surge in June. Shipments rose for the 14th consecutive month, driven by strong demand for memory chips."
+    },
+    {
+      "id": "mkt:019fbaa9-c895-7aab-8f3e-9170dea08f4e",
+      "time": "2026-08-01 08:11:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【FIFA abandons plan to sell stakes in World Cup and other events】Sky News reported Aug. 1 that FIFA president Gianni Infantino has abandoned plans to sell partial ownership stakes in the World Cup and other FIFA competitions. Infantino said the proposal provoked serious divisions and will not be taken forward. He plans to reconvene stakeholders in the coming weeks and months to seek alternative measures to support global football development, with emphasis on countries most in need."
+    },
     {
       "id": "5020091",
       "time": "2026-08-01 08:10:27",

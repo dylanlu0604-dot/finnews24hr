@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-01 08:11:12",
-  "count": 18012,
+  "updated": "2026-08-01 08:15:13",
+  "count": 18010,
   "items": [
+    {
+      "id": "te:economy:571872",
+      "time": "2026-08-01 08:12:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Exports YoY",
+        "Importance 2"
+      ],
+      "text": "South Korea Export Growth Above Forecasts — Exports soared 62.8% year-on-year to USD 98.89 billion, surpassing market estimates of 59.0%, though easing from a 70.7% surge in June. Shipments rose for the 14th consecutive month, driven by strong demand for memory chips."
+    },
+    {
+      "id": "mkt:019fbaa9-c895-7aab-8f3e-9170dea08f4e",
+      "time": "2026-08-01 08:11:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【FIFA abandons plan to sell stakes in World Cup and other events】Sky News reported Aug. 1 that FIFA president Gianni Infantino has abandoned plans to sell partial ownership stakes in the World Cup and other FIFA competitions. Infantino said the proposal provoked serious divisions and will not be taken forward. He plans to reconvene stakeholders in the coming weeks and months to seek alternative measures to support global football development, with emphasis on countries most in need."
+    },
     {
       "id": "5020091",
       "time": "2026-08-01 08:10:27",
@@ -166755,49 +166775,6 @@
         "公司"
       ],
       "text": "SK集團會長崔泰源：我們公佈的大型投資專案均切合實際，可落地實施。"
-    },
-    {
-      "id": "mkt:019f96a0-064c-7aab-8e90-e765a662a6c6",
-      "time": "2026-07-25 08:14:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "000660.KS",
-        "Impact bullish",
-        "NVDA.O"
-      ],
-      "text": "SK Group chairman Chey Tae-won said NVIDIA CEO Jensen Huang will likely request additional memory chips at their next meeting."
-    },
-    {
-      "id": "5007692",
-      "time": "2026-07-25 08:14:39",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "SK集團會長崔泰源：英偉達黃仁勳下次會面時，大機率會要求我們供應更多儲存晶片。"
-    },
-    {
-      "id": "5007691",
-      "time": "2026-07-25 08:12:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【市場需求多點釋放 稀土產業鏈公司預喜半年度業績】近期，稀土永磁產業鏈上下游公司紛紛預喜半年度業績。輕稀土價格同比上漲逾七成，上游礦企業績大幅躍升，北方稀土等礦企歸母淨利潤倍增。同時，面對稀土原材料價格上漲的壓力，下游磁材企業透過開發新興市場、最佳化業務構成等方式，同樣交出亮眼成績單，寧波韻升等企業淨利潤增幅顯著。展望後市，在供給收緊、下游採購旺季來臨、新興領域貢獻需求增量的背景下，稀土價格有望維持強勢，行業或將維持高景氣度。（上海證券報）"
-    },
-    {
-      "id": "5007690",
-      "time": "2026-07-25 08:12:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【資金重新迴流黃金主題ETF 機構：積極因素正在積聚】國際金價近期持續震盪，資金正在悄然行動。從黃金商品ETF的資金流向看，前期淨流出狀態正在逆轉，近日吸引較多資金加倉。與此同時，部分基金經理在二季度減持黃金後，正在等待新的入場時機。在多家機構看來，黃金正在迎來重要的佈局時點。（上海證券報）"
     }
   ]
 }
