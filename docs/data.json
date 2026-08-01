@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-01 19:14:17",
-  "count": 18034,
+  "updated": "2026-08-01 19:18:27",
+  "count": 18035,
   "items": [
+    {
+      "id": "5020406",
+      "time": "2026-08-01 19:15:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "馮德萊恩：歡迎各國領導人提議召開休達相關會議。"
+    },
+    {
+      "id": "5020405",
+      "time": "2026-08-01 19:14:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：已就休達事宜與布倫納專員、舒伊察專員進行了磋商。"
+    },
     {
       "id": "5020404",
       "time": "2026-08-01 19:12:44",
@@ -166939,16 +166955,6 @@
         "其他"
       ],
       "text": "【法國今年森林火災過火面積近10萬公頃 創歷史新高】當地時間7月24日，法國內政部長洛朗·努內茲在跨部門危機管理中心通報該國森林火災形勢時表示，今年法國森林火災累計過火面積已接近9.8萬公頃，創歷史新高。其中，僅吉倫特省過火面積就已超過4萬公頃。目前，吉倫特省、朗德省和瓦爾省仍有多處火災尚未得到控制。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f98fe-cdbf-7aab-8e94-f540937f5008",
-      "time": "2026-07-25 19:17:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Hong Kong chief executive orders preparations as Typhoon Hongxia approaches】Hong Kong Chief Executive John Lee said he has directed government departments to mount full contingency preparations as Typhoon Hongxia approaches. The Hong Kong government will keep departments on duty and deploy measures to protect life, property and public safety; the public was urged to remain alert and follow official weather updates. Officials warned that even after the No. 8 gale or storm signal is lowered, Hongxia may still bring strong winds and heavy rain. The district consultation session on the first five-year plan and the 2026 Policy Address scheduled for tomorrow (26th) has been postponed."
     }
   ]
 }
