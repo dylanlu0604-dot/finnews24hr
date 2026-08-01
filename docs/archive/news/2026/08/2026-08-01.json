@@ -1,7 +1,42 @@
 {
   "date": "2026-08-01",
-  "count": 1013,
+  "count": 1017,
   "items": [
+    {
+      "id": "5020501",
+      "time": "2026-08-01 22:55:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林譴責伊朗週六對科威特平民和重要設施的反覆襲擊，稱這些襲擊是對該國主權、安全和穩定的嚴重侵犯。"
+    },
+    {
+      "id": "5020500",
+      "time": "2026-08-01 22:54:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：履行你們的職責，參議院領袖約翰·圖恩、參議員莉薩·穆爾科夫斯基、湯姆·蒂利斯、蘇珊·柯林斯。取消為期五週的休會假期，推動《拯救美國法案》落地。"
+    },
+    {
+      "id": "5020499",
+      "time": "2026-08-01 22:53:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "西班牙抨擊歐盟對休達危機的應對舉措，要求歐盟緊急召開會議。"
+    },
+    {
+      "id": "mkt:019fbdd0-4f32-7aab-8f42-b9563671983b",
+      "time": "2026-08-01 22:52:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Interfax: Russian forces damaged an oil tanker previously used by the Ukrainian military in Odesa port and struck an ocean tug in Mykolaiv port."
+    },
     {
       "id": "5020498",
       "time": "2026-08-01 22:50:05",
