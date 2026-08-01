@@ -1,7 +1,17 @@
 {
   "date": "2026-08-01",
-  "count": 983,
+  "count": 984,
   "items": [
+    {
+      "id": "mkt:019fbd8d-348f-7aab-8f42-7abea649ce96",
+      "time": "2026-08-01 21:39:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Danube drop cuts Paks output to 480 MW; Hungary mobilises reserves】On Aug 1 Prime Minister Magyar said falling Danube levels forced the Paks nuclear plant to cut output to 480 MW from a normal 2,000 MW and that the plant could be taken fully offline sooner than expected, possibly by the weekend. Electricity providers have activated contingency plans for major grid failures. The government reviewed all available generation, power-import options, projected peak demand, voluntary load-reduction commitments and river conditions, and ordered all available reserve plants into operation and on standby with fuel secured. Authorities also asked major industrial users to voluntarily curb consumption; many agreed to shift production and reduce evening peak demand by about 240 MW."
+    },
     {
       "id": "te:markets:571892",
       "time": "2026-08-01 21:30:18",

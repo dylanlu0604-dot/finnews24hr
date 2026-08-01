@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-01 21:36:24",
+  "updated": "2026-08-01 21:44:19",
   "count": 18032,
   "items": [
+    {
+      "id": "mkt:019fbd8d-348f-7aab-8f42-7abea649ce96",
+      "time": "2026-08-01 21:39:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Danube drop cuts Paks output to 480 MW; Hungary mobilises reserves】On Aug 1 Prime Minister Magyar said falling Danube levels forced the Paks nuclear plant to cut output to 480 MW from a normal 2,000 MW and that the plant could be taken fully offline sooner than expected, possibly by the weekend. Electricity providers have activated contingency plans for major grid failures. The government reviewed all available generation, power-import options, projected peak demand, voluntary load-reduction commitments and river conditions, and ordered all available reserve plants into operation and on standby with fuel secured. Authorities also asked major industrial users to voluntarily curb consumption; many agreed to shift production and reduce evening peak demand by about 240 MW."
+    },
     {
       "id": "te:markets:571892",
       "time": "2026-08-01 21:30:18",
@@ -166937,14 +166947,6 @@
         "MKT News"
       ],
       "text": "【Iran official: Gaoshan facility \"currently empty\"】A senior Iranian security official told Iranian state TV that any US strike on the Gaoshan facility would be doomed to fail because the site is heavily fortified and, \"more importantly, the facility is currently empty.\" He said Trump seeks to score political points by attacking Gaoshan but striking an empty depot only creates false narratives, and warned Iran would respond \"in different ways\" that \"would not be limited to large-scale military action.\""
-    },
-    {
-      "id": "5008040",
-      "time": "2026-07-25 21:38:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部專題部署颱風“紅霞”暴雨洪水防禦工作】7月25日下午，國家防總副總指揮、水利部部長李國英主持專題會商，影片連線水利部長江、黃河、淮河、海河、珠江、松遼、太湖等流域管理機構，分析研判第12號颱風“紅霞”發展態勢及影響，逐流域研判風險點位，系統安排部署颱風暴雨洪水防禦工作。李國英指出，今年第12號颱風“紅霞”將於7月25日夜間至26日凌晨在香港到廣東陸豐一帶沿海登陸，具有登陸強度大、攜帶水汽足、影響範圍廣、持續時間長等突出特點。受其影響，預報7月25日至30日，珠江、長江、淮河、黃河、海河等流域部分主要河流將出現明顯漲水過程，珠江流域東江可能發生編號洪水；颱風影響範圍內前期降雨多、土壤飽和，山洪災害風險高，中小河流洪水多發；受風、雨、潮共同影響，粵東閩南沿海部分潮位站將超警。"
     }
   ]
 }
