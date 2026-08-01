@@ -1,7 +1,23 @@
 {
   "date": "2026-08-01",
-  "count": 953,
+  "count": 955,
   "items": [
+    {
+      "id": "5020434",
+      "time": "2026-08-01 20:00:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上汽集團7月整車銷售33.9萬輛】據上汽集團訊息，上汽集團2026年7月整車銷售33.9萬輛，1—7月累計銷售238.4萬輛。"
+    },
+    {
+      "id": "mkt:019fbd32-9ccb-7aab-8f42-27f12d84b254",
+      "time": "2026-08-01 20:00:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi media Hadath, citing Lebanese sources, says Lebanon will not accept Israeli verification of implementation of the \"first phase\" and will pursue verification through other channels."
+    },
     {
       "id": "5020433",
       "time": "2026-08-01 19:56:47",
