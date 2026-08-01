@@ -1,7 +1,41 @@
 {
   "date": "2026-08-01",
-  "count": 795,
+  "count": 799,
   "items": [
+    {
+      "id": "mkt:019fbc4d-a338-7aab-8f41-0f71ab260c37",
+      "time": "2026-08-01 15:50:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【Chery Group July vehicle sales 276,820 units, up 23.3% YoY】Chery Group sold 276,820 vehicles in July, up 23.3% YoY. Exports rose to 202,533 units, up 70.1% YoY, making Chery the first Chinese automaker to exceed 200,000 monthly exports. July NEV sales were 129,067 units, up 97.5% YoY. Jan–Jul cumulative vehicle sales reached 1,634,353 units, up 10.1% YoY; cumulative exports 1,146,350 units, up 71.2%; cumulative NEV sales 604,305 units, up 42.3% YoY."
+    },
+    {
+      "id": "5020302",
+      "time": "2026-08-01 15:50:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗警告稱美國海軍封鎖可能導致更多海峽關閉】伊朗最高國家安全委員會秘書Mohammad Bagher Zolghadr當地時間週六早些時候表示，美國持續的海上封鎖和局勢升級，不僅會令霍爾木茲海峽的通行進一步受限，其他海峽和戰略咽喉要道也會關閉。"
+    },
+    {
+      "id": "5020301",
+      "time": "2026-08-01 15:48:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奇瑞集團7月銷量27.7萬輛，同比增長23.3%】8月1日，奇瑞集團公佈，2026年7月，奇瑞集團銷售汽車276,820輛，同比增長23.3%。其中，出口202,533輛，同比增長70.1%，成為中國首個單月出口突破20萬輛的車企。7月份，集團銷售新能源汽車129,067輛，同比增長97.5%。1-7月，奇瑞集團累計銷量汽車1,634,353輛，同比增長10.1%。其中，累計出口1,146,350輛，同比增長71.2%；新能源汽車累計銷量604,305輛，同比增長42.3%。"
+    },
+    {
+      "id": "5020300",
+      "time": "2026-08-01 15:47:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟能源專員約根森：準備召集電力協調小組。"
+    },
     {
       "id": "5020299",
       "time": "2026-08-01 15:44:25",
