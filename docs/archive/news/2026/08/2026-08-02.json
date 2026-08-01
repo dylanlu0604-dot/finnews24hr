@@ -1,7 +1,43 @@
 {
   "date": "2026-08-02",
-  "count": 10,
+  "count": 14,
   "items": [
+    {
+      "id": "mkt:019fbe2f-426c-7aab-8f42-dfdf3b033cc6",
+      "time": "2026-08-02 00:36:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he disagrees with Washington, D.C., prosecutor Piro's view on the Reflecting Pool."
+    },
+    {
+      "id": "mkt:019fbe2f-0674-7aab-8f42-d30815884a6d",
+      "time": "2026-08-02 00:36:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "U.S. is evacuating its air force base in Bahrain amid expectations of a possible regional escalation."
+    },
+    {
+      "id": "5020528",
+      "time": "2026-08-02 00:35:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我完全不認同聯邦檢察官皮羅關於倒影池案件的處理方式。\n注：皮羅選擇撤訴，認為不存在惡意破壞。"
+    },
+    {
+      "id": "5020527",
+      "time": "2026-08-02 00:33:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：在傳聞中的升級打擊到來前，美軍開始撤離巴林空軍基地人員。"
+    },
     {
       "id": "5020526",
       "time": "2026-08-02 00:31:12",
