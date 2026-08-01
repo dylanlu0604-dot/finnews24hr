@@ -1,7 +1,15 @@
 {
   "date": "2026-08-01",
-  "count": 981,
+  "count": 982,
   "items": [
+    {
+      "id": "mkt:019fbd81-0a31-7aab-8f42-74819a29b900",
+      "time": "2026-08-01 21:26:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Truck bomb attack in Cúcuta injures at least 10, including seven police】A truck bomb detonated in the early hours near a police station in Cúcuta, capital of Norte de Santander province, injuring at least 10 people, including seven police."
+    },
     {
       "id": "5020476",
       "time": "2026-08-01 21:06:56",

@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-01 21:24:19",
+  "updated": "2026-08-01 21:28:30",
   "count": 18037,
   "items": [
+    {
+      "id": "mkt:019fbd81-0a31-7aab-8f42-74819a29b900",
+      "time": "2026-08-01 21:26:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Truck bomb attack in Cúcuta injures at least 10, including seven police】A truck bomb detonated in the early hours near a police station in Cúcuta, capital of Norte de Santander province, injuring at least 10 people, including seven police."
+    },
     {
       "id": "5020476",
       "time": "2026-08-01 21:06:56",
@@ -166981,15 +166989,6 @@
         "Brent"
       ],
       "text": "Interfax, citing Russia's deputy prime minister, said Moscow will extend its gasoline export ban through the end of the year and will lift it only \"after the market recovers\"."
-    },
-    {
-      "id": "5008030",
-      "time": "2026-07-25 21:27:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油暗盤跌破92美元，日內跌超0.5%。"
     }
   ]
 }
