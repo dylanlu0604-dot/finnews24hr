@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-02 01:06:14",
-  "count": 18031,
+  "updated": "2026-08-02 01:10:10",
+  "count": 18030,
   "items": [
+    {
+      "id": "mkt:019fbe4b-ecb1-7aab-8f43-12c008a2cfd5",
+      "time": "2026-08-02 01:07:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "According to Israel's Channel 13, the White House said Iran will pay a heavy price until it returns to the negotiating table."
+    },
     {
       "id": "mkt:019fbe49-f64e-7aab-8f43-095a2d3ba7aa",
       "time": "2026-08-02 01:05:45",
@@ -166937,27 +166948,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊發言人：我方在15天內於中東區域擊毀了11架停放在地面的美軍戰鬥機與直升機。"
-    },
-    {
-      "id": "5008095",
-      "time": "2026-07-26 01:06:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：確認已成功部署24顆星鏈衛星。"
-    },
-    {
-      "id": "mkt:019f9a3e-72ef-7aab-8e96-19061619bbe3",
-      "time": "2026-07-26 01:06:51",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Islamic Revolutionary Guard Corps (IRGC) spokesman said its forces destroyed 11 U.S. fighter jets and helicopters over 15 days of fighting."
     }
   ]
 }

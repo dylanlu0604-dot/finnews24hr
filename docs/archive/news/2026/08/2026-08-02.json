@@ -1,7 +1,18 @@
 {
   "date": "2026-08-02",
-  "count": 26,
+  "count": 27,
   "items": [
+    {
+      "id": "mkt:019fbe4b-ecb1-7aab-8f43-12c008a2cfd5",
+      "time": "2026-08-02 01:07:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "According to Israel's Channel 13, the White House said Iran will pay a heavy price until it returns to the negotiating table."
+    },
     {
       "id": "mkt:019fbe49-f64e-7aab-8f43-095a2d3ba7aa",
       "time": "2026-08-02 01:05:45",
