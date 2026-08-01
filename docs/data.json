@@ -1,7 +1,139 @@
 {
-  "updated": "2026-08-01 08:04:14",
-  "count": 18009,
+  "updated": "2026-08-01 08:11:12",
+  "count": 18012,
   "items": [
+    {
+      "id": "5020091",
+      "time": "2026-08-01 08:10:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "印度電子商務公司Zepto執行長告訴員工，公司將推遲IPO 2-3個季度。"
+    },
+    {
+      "id": "mkt:019fbaa7-f2a8-7aab-8f3e-89167a9287a0",
+      "time": "2026-08-01 08:09:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "RIA reported Russian air defense forces shot down more than 21,000 Ukrainian military drones over Russian territory in July."
+    },
+    {
+      "id": "mkt:019fbaa7-73ca-7aab-8f3e-87fae6e54b75",
+      "time": "2026-08-01 08:09:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Financial Times reports Fed governor Musalem said they lean toward raising interest rates."
+    },
+    {
+      "id": "mkt:019fbaa7-333a-7aab-8f3e-7d4f1bde799a",
+      "time": "2026-08-01 08:09:07",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "The Financial Times reports Federal Reserve official Musalem said the recent bond sell-off is a warning to the Fed's credibility."
+    },
+    {
+      "id": "5020090",
+      "time": "2026-08-01 08:08:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟取消小額包裹免稅滿月 跨境電商企業多舉措消化增量成本】記者採訪平臺和商家等人士瞭解到，歐盟舉措拖累國內跨境電商歐洲業務增長，低價直郵模式承壓，行業加速洗牌，跨境賣家積極應對成本壓力，海外倉與精品高客單模式優勢凸顯。不過，對於商家而言，鑑於海外倉前期投入成本高，業內呼籲推出專項扶持政策，適當提供海外倉及合規相關補貼。（證券時報）"
+    },
+    {
+      "id": "te:economy:571871",
+      "time": "2026-08-01 08:07:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "South Korea Trade Surplus Beats Estimates — South Korea’s trade surplus surged to USD 30.32 billion in July 2026, up from USD 6.61 billion in the same month a year earlier, surpassing market estimates of USD 29.59 billion and marking the 18th consecutive month of surplus, flash data showed, as exports grew much more than imports. Exports surged 62.8% from a year earlier, while imports rose at a slower 26.5%."
+    },
+    {
+      "id": "5020089",
+      "time": "2026-08-01 08:07:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美媒：美聯儲主席考慮減少每年議息會議頻次】美國媒體7月31日援引知情人士的話報道說，美國聯邦儲備委員會主席凱文·沃什正在考慮減少每年常規貨幣政策會議（即議息會議）召開頻次。《紐約時報》援引4名知情人士的話說，沃什在本週議息會議上提議減少這類會議的召開頻次，談及規定議息會議每年最少召開頻次的法律以及要對此作出調整的時間框架，但沒有對“會議日曆”進行充分討論，而是要求美聯儲官員向他反饋想法。根據美國《1935年銀行法》規定，美聯儲聯邦公開市場委員會每年應至少召開4次議息會議。自1981年以來，美聯儲每年固定召開8次議息會議，大約每6週一次。（新華社）"
+    },
+    {
+      "id": "5020088",
+      "time": "2026-08-01 08:07:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【2026年中期分紅方案密集落地 45家公司擬派現逾370億元】Wind資料顯示，7月以來已有45家上市公司披露2026年度中期分紅方案（含半年報、一季報），合計擬派發現金紅利374.43億元。其中，紫金礦業擬派現111.36億元，暫居首位；寧德時代、海康威視、東鵬飲料等緊隨其後，擬現金分紅金額均超過10億元。本輪中期分紅呈現兩大特徵：一是分紅計劃前置，不少公司在正式釋出半年報前，便提前披露中期分紅提議公告；二是一年多次分紅模式常態化、擴容化，上市公司分紅意願持續提升，回報股東的長效機制愈發成熟。（上海證券報）"
+    },
+    {
+      "id": "5020087",
+      "time": "2026-08-01 08:06:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事穆薩萊姆表示，傾向於加息。"
+    },
+    {
+      "id": "te:economy:571870",
+      "time": "2026-08-01 08:06:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "South Korea Import Growth Remains Solid — South Korea’s imports rose 26.5% year-on-year in July 2026, slowing from a 30.0% surge in the prior month and roughly in line with market forecasts of 26.6%, flash data showed. It marked the ninth consecutive month of import growth, supported by resilient domestic demand as concerns over trade disruptions stemming from the Middle East conflict eased."
+    },
+    {
+      "id": "5020086",
+      "time": "2026-08-01 08:06:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【53.2萬億元！香港人民幣清算量創紀錄 離岸市場功能加速升級】香港離岸人民幣市場正在迎來新變化。資料顯示，香港6月人民幣清算量升至53.2萬億元，創歷史紀錄，在港結算規模首次超過港元和美元。此外，香港離岸人民幣存款於5月底達到1.13萬億元歷史高位，人民幣債券發行量年內同比增長33%。多位受訪專家認為，清算量、存款和債券發行同步增長，意味著香港離岸人民幣市場功能正在從貿易結算進一步向融資、投資和資產配置延伸。人民幣國際化也正從“使用場景擴大”，逐步走向“金融功能增強”。（上海證券報）"
+    },
+    {
+      "id": "5020085",
+      "time": "2026-08-01 08:06:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事穆薩萊姆：債券拋售潮對美聯儲的信譽發出警告。"
+    },
+    {
+      "id": "5020084",
+      "time": "2026-08-01 08:05:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科技股上演反攻行情 重倉基金大面積“回血”】7月31日，經過近一個月的回撥，在外圍市場的帶動下以AI為代表的科技股集體反彈，多隻科技ETF單日漲幅超過9%，重倉科技的主動權益基金大面積“回血”。多位受訪基金經理表示，當下的反彈可以視為市場從“過度悲觀定價”向“階段性重新均衡定價”的修正過程，能否進一步演化為持續行情，仍需後續盤面與資金行為繼續驗證。另外，雖然絕大多數基金經理依然看好AI產業鏈的長期趨勢，但從“集中”向“均衡”的配置思路正進一步凝聚共識，市場風格的K形分化或有望進一步收斂。（上海證券報）"
+    },
     {
       "id": "mkt:019fbaa2-0ed3-7aab-8f3e-73101bc3b9bf",
       "time": "2026-08-01 08:03:30",
@@ -166666,87 +166798,6 @@
         "市場"
       ],
       "text": "【資金重新迴流黃金主題ETF 機構：積極因素正在積聚】國際金價近期持續震盪，資金正在悄然行動。從黃金商品ETF的資金流向看，前期淨流出狀態正在逆轉，近日吸引較多資金加倉。與此同時，部分基金經理在二季度減持黃金後，正在等待新的入場時機。在多家機構看來，黃金正在迎來重要的佈局時點。（上海證券報）"
-    },
-    {
-      "id": "5007689",
-      "time": "2026-07-25 08:11:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：星艦完好無損，漂浮在海面上並傳輸遙測資料。"
-    },
-    {
-      "id": "5007688",
-      "time": "2026-07-25 08:08:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【承諾不減持、終止減持 多家上市公司重要股東“鎖倉”穩信心】7月，A股市場迎來一波股東信心釋放潮。一邊是上汽集團、中國環保等國資控股股東集中出具6個月不減持承諾函，主動延長股份鎖定時間；另一邊，伯特利、永茂泰、希荻微等20多家上市公司重要股東宣佈提前終止減持計劃。一“鎖”一“停”兩大動作形成合力，上市公司出“真招”表態，向市場傳遞信心。（上海證券報）"
-    },
-    {
-      "id": "mkt:019f9699-0732-7aab-8e90-dc9c3a276471",
-      "time": "2026-07-25 08:07:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "USDA will open the Douglas, Arizona port of entry for cattle trade effective Aug 24."
-    },
-    {
-      "id": "5007687",
-      "time": "2026-07-25 08:06:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【雪佛龍竭力保全哈薩克油氣資產，避免捲入俄烏衝突】本週早些時候，雪佛龍執行長邁克·沃思與特朗普政府官員會面，商議一項緊迫議題：如何讓這家美國石油巨頭在哈薩克的大型油氣業務，不淪為俄烏衝突的附帶犧牲品。多位知情人士透露，本週，沃思、公司高管及其他石油行業領袖與美國高層官員會談，探討石油市場與黑海局勢，力求維護企業當地權益。 一名美國官員稱，在與石油行業溝通後，特朗普政府向烏克蘭發出警告，禁止其襲擊黑海海域非俄羅斯籍油輪。 該官員表示：“美方認為，裡海管道財團管線是哈薩克原油輸往歐洲市場的關鍵通道，為歐洲提供了俄羅斯能源之外的替代供應來源。”"
-    },
-    {
-      "id": "5007686",
-      "time": "2026-07-25 08:06:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部：正為新墨西哥州聖特雷莎口岸與哥倫布口岸的後續開放啟動必要運營準備工作。"
-    },
-    {
-      "id": "5007685",
-      "time": "2026-07-25 08:05:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部：自8月24日起，美國農業部將開放亞利桑那州道格拉斯入境口岸開展活牛貿易。"
-    },
-    {
-      "id": "5007684",
-      "time": "2026-07-25 08:05:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Anthropic上新大模型Opus 5】週五，Anthropic釋出全新Claude系列大模型Opus 5。這家AI初創企業稱，該模型綜合效能接近其旗艦頂配模型Fable 5，但呼叫成本僅為後者一半，非常適配日常辦公、程式設計開發類通用任務。實測資料顯示，在挖掘網路安全漏洞這類高危任務上，Opus 5的能力不及Anthropic頂級旗艦Fable 5。"
-    },
-    {
-      "id": "mkt:019f9697-3fec-7aab-8e90-d7eaa0f094f1",
-      "time": "2026-07-25 08:05:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "USDA announces phased reopening of southern ports for livestock trade."
-    },
-    {
-      "id": "5007683",
-      "time": "2026-07-25 08:05:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部：南部港口將於8月24日開始開放牲畜貿易；牲畜貿易恢復取決於墨西哥的合作。"
-    },
-    {
-      "id": "5007682",
-      "time": "2026-07-25 08:04:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國就黑海襲擊事件發出警告，此前曾與業界進行過會談。"
     }
   ]
 }
