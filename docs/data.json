@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-02 02:17:02",
-  "count": 18029,
+  "updated": "2026-08-02 02:20:59",
+  "count": 18031,
   "items": [
+    {
+      "id": "mkt:019fbe8d-bd65-7aab-8f43-482eb574f92c",
+      "time": "2026-08-02 02:19:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Israeli official says US close to approving strike on Iran; Israel on high alert】On Aug 1 an Israeli official said US President Trump is closer than ever to approving a major military strike on Iran, though no decision is final. US options reportedly focus on precise, limited strikes on specific Iranian energy facilities, and US planners prefer Israel not to participate in an initial phase. Israel assesses a significant US attack would likely prompt Iranian military retaliation against Israel and could draw Israel into wider fighting; Israeli defense forces are on high alert."
+    },
+    {
+      "id": "5020549",
+      "time": "2026-08-02 02:18:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【以官員稱美接近批准對伊軍事打擊 以方保持高度警惕】當地時間8月1日，據一名以色列官員透露，以色列方面評估認為，美國總統特朗普目前比以往任何時候都更接近批准對伊朗發動重大軍事襲擊，但相關計劃尚未最終確定。根據該官員披露的預案細節，美方考慮對伊朗的特定能源設施進行精準且受限的打擊。評估顯示，美方目前傾向於不讓以色列參與第一階段的最初襲擊。但以色列方面認為，美國一旦對伊朗發動重大襲擊，很可能會直接引發伊朗對以色列的軍事報復，而以色列屆時或將被迫捲入衝突並加入戰局。目前，以色列國防機構因此保持高度警惕。（央視新聞）"
+    },
+    {
+      "id": "5020548",
+      "time": "2026-08-02 02:17:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普社交媒體發文：正是在其的治理下，美國石油出口量大幅飆升。"
+    },
     {
       "id": "5020547",
       "time": "2026-08-02 02:15:36",
@@ -166928,14 +166957,6 @@
         "國際"
       ],
       "text": "以色列軍方：上週在加沙擊斃哈馬斯一支精銳小隊指揮官及兩名武裝人員，該指揮官參與過10月7日襲擊行動。"
-    },
-    {
-      "id": "5008108",
-      "time": "2026-07-26 02:18:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室釋出宣告稱，一艘油輪在距離沙特舒蓋格港約70海里處遭炮彈襲擊。"
     }
   ]
 }
