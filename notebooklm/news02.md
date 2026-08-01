@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-02 02:36:40_
-_本檔包含 3638 則快訊，約 673257 字_
+_更新時間：2026-08-02 03:51:04_
+_本檔包含 3618 則快訊，約 673027 字_
+
+---
+
+### 2026-07-31 09:32:50  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Rally on Tech Rebound — The benchmark KOSPI soared more than 15% to around 6,450 on Friday, rebounding sharply from the previous session as a global technology rally lifted semiconductor stocks. Sentiment improved after Microsoft's stronger-than-expected earnings and robust Azure growth eased concerns over AI spending, fueling gains in US chipmakers overnight and driving sharp advances in Korean heavyweights. Samsung Electronics and SK hynix both surged more than 25%, along with notable gains in SK Square (29.9%), Hyundai Motor (9.4%), Kia Corporation (8.6%), and HD Hyundai Heavy Industries (5.0%). The government announced plans to establish a 20 trillion won sovereign wealth fund to invest in strategic industries, including AI, semiconductors, data centers, and infrastructure. Domestic sentiment was also supported by June industrial production, which rose 2.3%, the fastest monthly increase in six years, led by strong growth in automobile and semiconductor output.
+
+---
+
+### 2026-07-31 09:32:49  #市場 #焦點
+
+【長鑫科技市值突破4萬億】長鑫科技繼續衝高，盤中漲近13%，總市值突破4萬億。
+
+---
+
+### 2026-07-31 09:32:15  #國際
+
+【日韓罕見同步干預外匯，韓國官員稱正與美日等國密切合作】7月31日訊息，據報道，韓國外匯當局於30日進行了一次罕見的拋售美元干預操作，推動韓元對美元匯率升至九個月來的最高水平。韓國的這一舉措與日本在紐約外匯市場買入日元、拋售美元的干預行動同步發生，幫助日元脫離四十年來低位。韓國副財長31日表示，韓國外匯管理部門正與美國、日本等主要國家的同行密切合作，並將持續保持這種協作。此前，日韓兩國官方均曾公開表示將就外匯市場動態保持緊密溝通，以應對本幣貶值壓力。
+
+---
+
+### 2026-07-31 09:32:10  #Trading Economics #Markets #Commodity #Importance 1
+
+EU Gas Prices Extend Decline — European natural gas prices dropped to around €57 per MWh on Friday, extending losses from the previous session amid signs of improving shipping conditions through the Strait of Hormuz despite regional tensions and fresh LNG arrivals in Europe. Qatar sent its first LNG tanker through the waterway in more than three weeks, raising hopes that exports from one of the world's largest LNG suppliers could gradually resume. Steady LNG deliveries to Northwest Europe, along with reliable pipeline flows from Norway, also helped ease supply concerns. Despite the recent pullback, EU gas prices remain more than 33% higher in July, as renewed US-Iran hostilities disrupted Persian Gulf supplies while heatwaves boosted electricity demand, limiting Europe's ability to replenish inventories ahead of winter. EU storage facilities are about 55% full, below the seasonal five-year average and behind the pace needed to comfortably meet pre-winter storage targets before the heating season begins in November.
+
+---
+
+### 2026-07-31 09:31:47  #市場
+
+C長鑫高開超10%。
+
+---
+
+### 2026-07-31 09:31:36  #MKT News #AUDUSD #Impact bullish #DXY #Impact bearish
+
+Australia private sector loan growth YoY 8.5% in June, up from 8.20% previously.
+
+---
+
+### 2026-07-31 09:31:34  #資料
+
+澳大利亞6月私營企業貸款年率 8.5%，前值8.20%。
+
+---
+
+### 2026-07-31 09:31:30  #市場
+
+【算力租賃概念表現活躍 利通電子一字漲停】算力租賃概念表現活躍，利通電子一字漲停，宏景科技、協創資料漲超14%，銅牛資訊網宿科技、東陽光、優刻得跟漲。
+
+---
+
+### 2026-07-31 09:31:28  #MKT News #Economic Calendar #Important
+
+Australia | Private Sector Credit (YoY) (Jun) | actual 8.5% | previous 8.20%
+
+---
+
+### 2026-07-31 09:31:22  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish
+
+【Equity index futures open higher in morning session】China equity index futures opened higher in the morning session: CSI 300 main contract (IF) +1.73%, SSE 50 main contract (IH) +0.89%, CSI 500 main contract (IC) +3.56%, CSI 1000 main contract (IM) +3.54%.
 
 ---
 
@@ -21764,185 +21824,5 @@ LG新能源：北美電動汽車需求復甦緩慢。
 ### 2026-07-30 09:49:17  #Trading Economics #Economy #Australia #Private House Approvals #Importance 1
 
 Australia Private House Approval Growth Eases — Private house approvals in Australia rose 0.4% month-on-month to 10,631 units in June 2026, according to preliminary estimates, easing from a downwardly revised 2.4% increase in the previous month. This marked the second consecutive monthly gain, driven by higher approvals in Queensland (2.9%), South Australia (2.8%), and Victoria (2.2%), which more than offset declines in Western Australia (-5.4%) and New South Wales (-0.3%). On an annual basis, private house approvals climbed 15.8%, accelerating from a 13.3% increase in the previous month and marking the strongest annual growth since September 2024.
-
----
-
-### 2026-07-30 09:49:14  #其他
-
-LG新能源：正與潛在客戶洽談，為超大規模資料中心供應備用電池單元。
-
----
-
-### 2026-07-30 09:49:01  #國際
-
-當地時間7月29日，美軍中央司令部表示，美軍繼續執行對伊朗的海上封鎖行動。截至當天，美軍已改變20艘商船的航行路線，並使2艘船隻失去行動能力；此外，美軍還對2艘船隻進行登船檢查。（ CCTV國際時訊）
-
----
-
-### 2026-07-30 09:49:01  #市場 #焦點
-
-中證500指數期貨連續主力合約日內跌1%，現報7379.40點。
-
----
-
-### 2026-07-30 09:48:06  #市場 #焦點
-
-科創50日內跌幅達3％，成分股中，華虹宏力跌8.6％，翱捷科技跌8.3％，源傑科技跌8.1％，寒武紀跌6.1％。
-
----
-
-### 2026-07-30 09:47:48  #其他
-
-【新款華為MatePad Pro將於8月5日釋出】7月30日，華為終端宣佈新款華為MatePad Pro將於8月5日釋出，該機整機重量439g，厚度4.7mm。
-
----
-
-### 2026-07-30 09:47:40  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時縮量189億元。
-
----
-
-### 2026-07-30 09:47:36  #公司
-
-三星電子：下半年手機業務成本壓力將持續。
-
----
-
-### 2026-07-30 09:47:30  #公司 #市場
-
-【端側AI概念震盪調整 瑞芯微逼近跌停】早盤端側AI概念震盪調整，瑞芯微逼近跌停，星宸科技、聖邦股份、樂鑫科技、翱捷科技、移遠通訊、博通整合等多股跌超5%。
-
----
-
-### 2026-07-30 09:47:12  #其他
-
-【我國成功發射通訊技術試驗衛星二十七號A/B星】7月30日9時00分，我國在太原衛星發射中心使用長征六號改運載火箭，成功將通訊技術試驗衛星二十七號A/B星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。 通訊技術試驗衛星二十七號A/B星主要用於衛星通訊、廣播電視、資料傳輸等業務，並開展相關技術試驗驗證。 這次任務是長征系列運載火箭的第660次飛行。(新華社)
-
----
-
-### 2026-07-30 09:45:35  #市場 #焦點
-
-創業板指跌2.02%，現報3310.598點；上證指數漲0.09%，現報3831.751點；深證成指跌0.99%，現報13523.392點。
-
----
-
-### 2026-07-30 09:45:26  #市場 #焦點
-
-恒生科技指數跌超1%，現報4815.900點；恒生指數現跌0.302%。
-
----
-
-### 2026-07-30 09:45:22  #MKT News #Important #005930.KS
-
-Samsung Electronics says it is not currently considering issuing American Depositary Receipts (ADRs) but remains open to ADR issuance over the medium-to-long term.
-
----
-
-### 2026-07-30 09:45:06  #公司 #國際
-
-三星電子：對中長期發行美國存託憑證（ADR）持開放態度。
-
----
-
-### 2026-07-30 09:45:00  #其他
-
-【聯創電子：鄭州聯創智造產業園廠房正式投產】據聯創電子訊息，鄭州聯創智造產業園廠房於2026年6月30日全面完成建設、實現產線進駐與穩定量產，標誌著園區廠房正式落成啟用、投入運營。
-
----
-
-### 2026-07-30 09:44:56  #MKT News
-
-【Qeshm Island power restored after brief outage from US missile strikes】Qeshm Island’s power was fully restored after a brief outage caused by missile strikes on the grid, the local power company said. Repair crews fixed the outage but staff remain on high alert. US warplanes fired multiple missiles at several sites on the island early that morning.
-
----
-
-### 2026-07-30 09:44:55  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component #Impact bearish
-
-China A-shares opened with the ChiNext down more than 2%, the Shenzhen Composite down over 1% and the Shanghai Composite up 0.1%. Baijiu, internet insurance and gaming stocks led gains.
-
----
-
-### 2026-07-30 09:44:49  #公司 #國際
-
-三星電子：目前不考慮發行美國存託憑證（ADR）。
-
----
-
-### 2026-07-30 09:44:42  #經濟數據 #中國
-
-【國家統計局：上半年文化服務業實現營業收入同比增長8.1%】國家統計局社科文司統計師潘旭華解讀2026年上半年全國規模以上文化及相關產業企業資料，文化服務業發揮重要支撐作用。上半年，文化服務業實現營業收入43235億元，比上年同期增長8.1%，快於規模以上文化企業3.5個百分點。文化服務業企業營業收入佔規模以上文化企業的比重為60.0%，比上年同期提高1.9個百分點，拉動規模以上文化企業營業收入增長4.7個百分點。
-
----
-
-### 2026-07-30 09:43:56  #MKT News #Important
-
-A-share retail sector rebounded; Nanning Department Store rallied straight to its daily limit, with peers Dongbai Group, Lingnan Holdings, Guangbai Co., Caesar Tourism, Hainan Development and Ouya Group also rising.
-
----
-
-### 2026-07-30 09:43:41  #市場
-
-白酒股快速拉昇，捨得酒業觸及漲停。
-
----
-
-### 2026-07-30 09:43:23  #市場 #焦點
-
-深證成指跌1.01%，現報13520.456點；上證指數漲%，現報3828.627點；創業板指跌1.95%，現報3312.885點。
-
----
-
-### 2026-07-30 09:43:19  #公司
-
-油氣概念表現活躍，通源石油漲近10%，科力股份、泰山石油、中國海油、山東墨龍、石化油服跟漲。
-
----
-
-### 2026-07-30 09:42:35  #公司 #市場
-
-【免稅概念震盪反彈，南寧百貨直線漲停】免稅概念震盪反彈，南寧百貨直線漲停，東百集團、嶺南控股、廣百股份、凱撒旅業、海南發展、歐亞集團等跟漲。
-
----
-
-### 2026-07-30 09:42:30  #MKT News #Market Themes #China EV Leaders #CSI300 #Impact bullish #SSE Composite
-
-China A-share smart-driving sector rallied; Zhejiang Shibao hit its daily limit, while Wanji Technology, Suoling Co., BAIC BluePark and King Long Motor also advanced.
-
----
-
-### 2026-07-30 09:42:24  #公司
-
-【國家藥監局批准4款創新藥上市】近日，國家藥品監督管理局批准湖南九典制藥股份有限公司申報的中藥1.1類創新藥椒七止痛凝膠貼膏上市。該藥品為中藥複方外用製劑，具有溫經散寒、活血止痛功效，用於膝骨關節炎寒凝血瘀證。近日，國家藥監局附條件批准西湖製藥（杭州）有限公司申報的1類創新藥鹽酸伊司特韋片上市。該藥品為口服小分子新冠病毒感染治療藥物，用於治療成人輕型、中型新型冠狀病毒感染（COVID-19）。近日，國家藥品監督管理局批准江蘇恆瑞醫藥股份有限公司申報的舒地胰島素注射液（商品名：瑞恆盈）上市，用於治療成人2型糖尿病。 近日，國家藥品監督管理局透過優先審評審批程式批准上海華奧泰生物藥業股份有限公司申報的瑞西奇拜單抗注射液（商品名：華亦淨）上市，用於治療成人(體重≥40kg)泛發性膿皰型銀屑病發作。
-
----
-
-### 2026-07-30 09:42:15  #MKT News #Market Themes #Chip Wars #005930.KS
-
-Samsung Electronics expects H2 HBM4 revenue to account for about 60% of its total HBM revenue.
-
----
-
-### 2026-07-30 09:42:09  #公司
-
-三星電子：下半年HBM4營收將佔高頻寬儲存器總營收約60%。
-
----
-
-### 2026-07-30 09:42:03  #市場 #焦點
-
-科創50日內跌幅達2.00%，成分股中，華虹宏力跌7.09%，翱捷科技跌6.20%，源傑科技跌5.37%，華海清科跌4.63%。
-
----
-
-### 2026-07-30 09:41:59  #國際
-
-波蘭武裝部隊30日在社交媒體發文稱，為了保護本國領空，波蘭已出動戰鬥機進行防禦性部署，以應對俄羅斯對烏克蘭發動空襲。（央視新聞）
-
----
-
-### 2026-07-30 09:41:43  #MKT News #Important
-
-South Korea's KOSPI rose 5% intraday to 5,950.55, with Samsung Electronics up 7% and SK Hynix up 3.2%.
 
 ---

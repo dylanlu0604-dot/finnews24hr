@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-02 02:36:40_
-_本檔包含 3327 則快訊，約 673362 字_
+_更新時間：2026-08-02 03:51:04_
+_本檔包含 3336 則快訊，約 673084 字_
+
+---
+
+### 2026-07-28 00:32:31  #MKT News #Market Themes #The Trump Trade #WTI #Impact bearish #Brent #XAUUSD
+
+US President Trump said, regarding Israel, the US is very close to reaching an agreement on Iran.
+
+---
+
+### 2026-07-28 00:32:09  #國際
+
+特朗普：我們將動用伊朗的資金，賠付霍爾木茲地區造成的損失。
+
+---
+
+### 2026-07-28 00:31:52  #國際
+
+特朗普：委內瑞拉的資金可交由軍方使用。
+
+---
+
+### 2026-07-28 00:31:37  #國際
+
+【中國駐日使館發言人就日公佈起訴村田晃大訊息答記者問】中國駐日本大使館發言人27日就日方公佈起訴村田晃大訊息答記者問，指出此事暴露出日本國內極右翼思潮和勢力猖獗，日方須負起責任，向中方和國際社會作出負責任的交代。據日本廣播協會27日報道，針對今年3月日本現役自衛隊官員持刀擅闖中國駐日本大使館，日本檢方27日以入侵建築物、威脅使館工作人員等罪名對其提起公訴。被起訴的是日本陸上自衛隊三等陸尉村田晃大，現年24歲，隸屬宮崎縣陸上自衛隊蝦野駐屯地。今年3月，他攜帶刀具，翻牆闖入位於東京的中國駐日本大使館，隨後被警方逮捕。（新華社）
+
+---
+
+### 2026-07-28 00:31:34  #MKT News #Market Themes #The Trump Trade
+
+TRUMP said he will assess Russia's actions in the war in Ukraine and will ask Putin about satellite imagery regarding Iran.
+
+---
+
+### 2026-07-28 00:31:12  #國際
+
+特朗普：會查清俄羅斯的相關行動。
+
+---
+
+### 2026-07-28 00:30:55  #國際
+
+特朗普： 我和圖恩關係很好，還沒有考慮更換美國參議院多數黨領袖圖恩。
+
+---
+
+### 2026-07-28 00:30:47  #MKT News
+
+President Trump said he and Israeli Prime Minister Netanyahu have some differences on Iran.
+
+---
+
+### 2026-07-28 00:30:33  #MKT News
+
+President Trump said he has not yet considered replacing Senate Majority Leader Thune.
+
+---
+
+### 2026-07-28 00:30:25  #國際
+
+特朗普：可能需要介入胡塞武裝（問題）。尚未與沙烏地阿拉伯討論加入亞伯拉罕協議。
+
+---
+
+### 2026-07-28 00:30:16  #國際
+
+特朗普：我會向普京求證他是否在向伊朗提供衛星影象。
+
+---
+
+### 2026-07-28 00:29:47  #MKT News #RTX.O #Impact bullish
+
+President Trump said the US is building a large number of Patriot air-defense missiles.
+
+---
+
+### 2026-07-28 00:29:39  #MKT News
+
+U.S. President Trump said he has not yet discussed Saudi Arabia joining the Abraham Accords.
+
+---
+
+### 2026-07-28 00:29:33  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+U.S. President Trump: may need to intervene against Houthi militants.
+
+---
+
+### 2026-07-28 00:29:04  #國際
+
+特朗普：我和內塔尼亞胡在伊朗問題上有點分歧。
+
+---
+
+### 2026-07-28 00:28:55  #國際
+
+特朗普：我們目前局勢佔優，還希望配備更多精密導彈。
+
+---
+
+### 2026-07-28 00:28:13  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bearish #DXY #S&P500 #Impact bullish
+
+U.S. President Trump said Iran has requested a meeting via intermediaries.
+
+---
+
+### 2026-07-28 00:28:09  #MKT News
+
+U.S. President Trump said he has ample patience and plenty of time.
+
+---
+
+### 2026-07-28 00:27:42  #公司
+
+LVMH集團：二季度迪奧有機銷售增速略微高於部門均值。
+
+---
+
+### 2026-07-28 00:27:39  #MKT News #Market Themes #The Trump Trade
+
+US President Trump said we have a lot of ammunition.
+
+---
+
+### 2026-07-28 00:27:36  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+TRUMP said talks with Iran are going well and there is a strong chance something will happen.
+
+---
+
+### 2026-07-28 00:27:30  #國際
+
+特朗普：美國有很多彈藥。
+
+---
+
+### 2026-07-28 00:26:57  #國際
+
+特朗普：我們的談判進展順利，後續結果拭目以待。
+
+---
+
+### 2026-07-28 00:26:38  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
+
+U.S. President Trump said Iran wants a meeting and the U.S. will meet with them.
+
+---
+
+### 2026-07-28 00:26:23  #MKT News
+
+US President Trump said he is not disappointed with Defense Secretary Hegseth's handling of Iran and that Hegseth is doing a good job.
+
+---
+
+### 2026-07-28 00:26:21  #國際
+
+特朗普：伊朗透過中間人提出了會談請求，我們正與伊朗進行會晤，有望取得積極進展。
+
+---
+
+### 2026-07-28 00:26:09  #MKT News
+
+Qatar News Agency said the Qatari prime minister and foreign minister spoke by phone with Canada's foreign minister.
+
+---
+
+### 2026-07-28 00:25:58  #國際
+
+特朗普：我們有可能和伊朗達成協議。
+
+---
+
+### 2026-07-28 00:25:46  #焦點 #國際
+
+特朗普：伊朗有意舉行會談，我們正在開展接觸。
+
+---
+
+### 2026-07-28 00:25:33  #MKT News
+
+【2026 SCO media and think‑tank summit opens in Bishkek with focus on information security】The 2026 Shanghai Cooperation Organization (SCO) media and think‑tank summit opened on the 27th in Bishkek, drawing about 260 delegates from roughly 150 media outlets, think tanks, government agencies and the SCO Secretariat. Kyrgyz presidential office information policy chief Orenbekov said media and think tanks bear responsibility for shaping public opinion and defending interstate trust, and their cooperation is key to countering disinformation. SCO Secretariat senior expert Sarlbayev said the meeting aims to deepen media–think‑tank exchanges under the SCO framework and advance information‑security cooperation and academic ties.
+
+---
+
+### 2026-07-28 00:25:10  #國際
+
+特朗普：赫格塞斯做得非常出色。
+
+---
+
+### 2026-07-28 00:23:02  #MKT News #WTI #Impact bullish #Brent
+
+Kuwait condemned drone attacks on Saudi oil facilities, Al Jazeera reported.
+
+---
+
+### 2026-07-28 00:20:23  #MKT News #Commodities #Energy
+
+Lebanese presidency: President Michel Aoun strongly condemned an attempted drone attack on Saudi Arabia's oil facilities and said Lebanon supports Saudi Arabia in responding to any actions that threaten its security and sovereignty.
+
+---
+
+### 2026-07-28 00:20:16  #其他
+
+黎巴嫩總統府宣告：總統奧恩強烈譴責針對沙烏地阿拉伯石油設施的無人機襲擊企圖。總統認為此類襲擊侵犯沙特的安全與穩定，同時威脅地區安全及各國人民利益。 奧恩總統申明，黎巴嫩將與沙烏地阿拉伯站在一起，共同應對一切損害沙特安全與主權的行徑。黎巴嫩再次呼籲各國尊重國家主權，杜絕任何可能激化地區緊張局勢的行為，優先採取對話與和平解決方案，維護地區安全穩定。
+
+---
+
+### 2026-07-28 00:20:07  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【US Central Command says 17 merchant vessels forced to divert since resuming maritime blockade of Iran】On July 27 local time, US Central Command said that since resuming a maritime blockade of Iran it has forced 17 merchant vessels to change course, disabled two vessels and boarded and inspected two others.
+
+---
+
+### 2026-07-28 00:19:13  #國際
+
+【美軍稱對伊朗海上封鎖期間已迫使17艘商船改道】當地時間7月27日，美軍中央司令部表示，自恢復對伊朗的海上封鎖以來，美軍已迫使17艘商船改變航向，使2艘商船喪失航行能力，並登臨檢查了2艘商船。（央視新聞）
+
+---
+
+### 2026-07-28 00:18:59  #MKT News
+
+Oman's foreign ministry condemned and strongly opposed drone attacks targeting Saudi Arabia, saying it will support any measures Saudi Arabia takes to safeguard its sovereignty, security and territorial integrity.
+
+---
+
+### 2026-07-28 00:18:00  #其他
+
+市場訊息：軟銀有望很快拿下 SP.LINKS 的優先競標方資格。
+
+---
+
+### 2026-07-28 00:17:14  #公司 #國際
+
+【受AI熱潮推動，貝萊德韓國ETF連續第三週錄得資金淨流入】在全球部分最大科技公司的財報季到來前，投資者繼續將資金大舉湧入美國上市的最大韓國交易所交易基金（ETF）。規模達233億美元的iShares MSCI韓國ETF上週錄得超10億美元的資金淨流入，將連續三週的流入勢頭進一步延長，使其7月份的總流入額達到37億美元。如果這一增長勢頭能保持到月底，這將是該基金有記錄以來最大的單月資金流入。該基金追蹤韓國股票，其份額自6月18日創下歷史新高以來，已回落超過28%。
 
 ---
 
@@ -19890,185 +20124,5 @@ Fars News Agency cited an Islamic Revolutionary Guard Corps spokesman saying the
 ### 2026-07-26 03:57:01  #MKT News
 
 【Iran says new hostilities stem from US breach of Strait of Hormuz transit agreement】A spokesman for the Islamic Revolutionary Guard Corps said the latest round of hostilities resulted from a US breach of an agreement on passage through the Strait of Hormuz. He said the deal required transit to follow Iran’s rules but the US announced an alternative transit route; after that alleged breach the IRGC blocked vessels and struck ships it judged to be violating the terms. The spokesman said Iran had expected the US to resume compliance but that the US instead attacked Iranian coastlines, islands and some radars. He added the IRGC’s strikes were intended to compel US compliance and that it had launched Operation "Victory 2".
-
----
-
-### 2026-07-26 03:47:25  #國際
-
-以色列國家安全部長辦公室：安保人員向本-格維爾部長通報，一架無人機墜落在其住宅附近，事件具體情況目前正在調查。以色列國防軍已回收該無人機，本次事件未造成人員受傷。
-
----
-
-### 2026-07-26 03:44:04  #公司
-
-【馬斯克旗下Boring Company洽談新一輪融資 估值200億美元】據知情人士透露，馬斯克的隧道企業Boring Company正洽談一輪新融資，投後估值預計達200億美元，計劃募資規模約40億美元。多名知情人士稱，公司本輪融資目標募資40億美元，但融資尚未完成交割，相關條款仍存在變動可能。該企業自主研發隧道掘進機，宣稱地下挖掘施工成本低於傳統工程企業。這家2018年從SpaceX分拆獨立的公司，已在拉斯維加斯大道建成地下交通隧道網路，依靠特斯拉車輛搭載乘客往返拉斯維加斯會展中心。2022年一輪融資完成後，Boring Company估值約57億美元，該輪融資共籌集6.75億美元，投資方包括維資本、紅杉資本、創始人基金。公司曾向巴爾的摩、芝加哥、洛杉磯等城市推介私人出資建設的地下隧道專案，計劃依靠乘客購票通行實現盈利，但多數專案最終未能落地。
-
----
-
-### 2026-07-26 03:42:01  #MKT News #Important
-
-The Wall Street Journal reports Musk's The Boring Company is seeking financing at a $20 billion valuation.
-
----
-
-### 2026-07-26 03:40:40  #MKT News
-
-Israeli reports said a drone crashed near the residence of Israeli national security minister Ben-Gvir in Hebron; details are under investigation.
-
----
-
-### 2026-07-26 03:39:33  #國際
-
-以色列媒體：一架無人機在國家安全部長希伯倫本-格維爾住宅附近墜毀，相關細節正在調查中。
-
----
-
-### 2026-07-26 03:33:31  #國際
-
-【伊朗外交部譴責烏克蘭襲擊伊朗商船】伊朗外交部週六釋出宣告，譴責烏克蘭襲擊一艘航行於裡海的伊朗商船，此次爆炸造成一名船員遇難、一人受傷。伊朗方面稱該襲擊屬於侵略行徑，嚴重違反國際法，並指責烏克蘭意在擴大俄烏衝突範圍。而在週六早些時候，烏克蘭總統澤連斯基表示，烏軍在裡海打擊了一艘俄羅斯軍艦以及數艘運輸伊朗相關軍事物資的船舶。
-
----
-
-### 2026-07-26 03:31:23  #MKT News #WTI #Impact bullish #XAUUSD
-
-【Netanyahu to share Iran intelligence at White House meeting】Channel 12 reports Israeli Prime Minister Netanyahu will present new intelligence on Iran's nuclear program and military reconstruction to President Trump at a White House meeting on July 28. The material reportedly shows Israel assesses Iran, under Supreme Leader Mujtaba, is accelerating efforts to acquire nuclear weapons; a senior Israeli official said a U.S.-Iran agreement is highly unlikely and conflict escalation is unavoidable.
-
----
-
-### 2026-07-26 03:24:44  #國際
-
-【上訴法院站在各州一方，特朗普郵寄投票改革方案遭駁回】美國一家聯邦上訴法院駁回司法部訴求，不允許聯邦官員在11月中期選舉前全面推行特朗普的郵寄投票改革方案。法院維持波士頓聯邦法官此前的裁定，認定總統相關政策違法；法院表示，提起訴訟的各州已提交充分證據，證明總統的舉措對本州造成損害。司法部表態，或將把本案上訴至美國最高法院；各黨派維權人士均力爭在11月大選前，讓各類選舉相關訴訟取得有利於己方的結果。
-
----
-
-### 2026-07-26 03:20:04  #國際
-
-【伊朗伊斯蘭革命衛隊稱15天內摧毀多架美軍戰機】當地時間25日，伊朗伊斯蘭革命衛隊發言人穆赫比表示，伊朗伊斯蘭革命衛隊在15天內摧毀了11架停放在美軍基地的美軍戰鬥機和直升機，還摧毀了17架軍用無人機，一架停放在機庫內的F-15戰鬥機，一架P-8反潛巡邏機，一架C-17運輸機和8架空中加油機。目前，上述說法尚未得到美國軍方證實。（央視新聞）
-
----
-
-### 2026-07-26 03:19:13  #MKT News #Market Themes #AI Revolution
-
-OpenAI's Codex product lead Tibo said the firm has reset usage quotas for all Codex and ChatGPT Work users after a near-global outage between about 02:00 and 04:00 last night. All services have been restored.
-
----
-
-### 2026-07-26 03:17:07  #MKT News
-
-A Gaza hospital said Israeli forces' gunfire in Gaza killed at least seven Palestinians and wounded 20.
-
----
-
-### 2026-07-26 03:16:42  #國際
-
-訊息人士：今早以來，以軍在加沙地帶開火，造成至少7名巴勒斯坦人死亡、20人受傷。
-
----
-
-### 2026-07-26 03:15:08  #MKT News
-
-U.S. appeals court refused to allow enforcement of Trump's executive order restricting mail-in voting.
-
----
-
-### 2026-07-26 03:14:23  #國際
-
-美國上訴法院拒絕允許實施特朗普限制郵寄投票的行政令。
-
----
-
-### 2026-07-26 03:14:15  #其他 #焦點
-
-【卡達宣佈將恢復海上航行】卡達7月25日宣佈，自26日起，全面恢復各類船舶的海上航行活動。此前，卡達曾於7月12日建議公民暫停所有海上活動。海事部門在宣告中表示，所有船員和運營方須嚴格遵守國家海事法規。出航前及航行期間，務必全面檢查並配齊安全與安保裝置，保障海上航行安全。（央視新聞）
-
----
-
-### 2026-07-26 03:13:05  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-【Trump says he would consider resuming full-scale war if he cannot get 100% from Iran】French broadcaster LCI reported Trump said the U.S. would absolutely consider resuming a full-scale war if it cannot obtain 100% of what it wants from Iran. When asked what he would say to European allies, he said they are lucky to have a friend like him.
-
----
-
-### 2026-07-26 03:04:40  #國際
-
-【澤連斯基：俄羅斯持續對海灣國家及其境內美軍設施開展衛星偵察活動】烏克蘭總統澤連斯基表示，自7月初以來，烏方監測到俄羅斯持續對海灣國家及其境內美軍設施開展衛星偵察活動。他表示，這些衛星影像隨後會流轉至伊朗手中。與此同時，俄軍拍攝的目標點位衛星圖與伊朗發動的打擊行動存在明確關聯：無論是襲擊前的目標籌備定位，還是襲擊結束後用於評估損毀程度，伊朗都在依託俄方衛星資料行動。澤連斯基舉例：僅7月19日、20日兩天，就有四座空軍基地被俄羅斯衛星重點監測，其中兩座位於巴林、一座位於約旦、一座位於科威特，俄方此舉意圖十分明確。
-
----
-
-### 2026-07-26 03:01:53  #國際
-
-【黎巴嫩和巴勒斯坦遺址申遺成功】正在韓國釜山舉行的聯合國教科文組織第48屆世界遺產大會24日透過決議，將位於黎巴嫩南部的博福特城堡等五座城堡和約旦河西岸的塞巴斯蒂亞考古遺址，同時列入《世界遺產名錄》和《瀕危世界遺產名錄》。（央視新聞）
-
----
-
-### 2026-07-26 03:00:40  #焦點 #國際
-
-【特朗普：如果不100%滿足我們對伊朗的要求，戰爭將以全力度重啟】美國總統特朗普週六在接受法國媒體採訪時表示，若無法拿到美方想要的全部條件，他“完全有可能”重啟針對伊朗的全面戰爭。當被問及想對美國的歐洲盟友傳遞何種資訊時，特朗普稱：“有我當他們的盟友，是他們的幸運。”
-
----
-
-### 2026-07-26 03:00:29  #MKT News #Important
-
-Iran's foreign ministry condemned Ukraine for an attack on an Iranian merchant ship in the Caspian Sea, saying an explosion killed one crew member and injured another.
-
----
-
-### 2026-07-26 02:58:55  #國際
-
-特朗普：靠許諾各種免費福利換取選票，是歷史上最老套的政治騙局。
-
----
-
-### 2026-07-26 02:58:28  #焦點 #國際
-
-【伊朗官方駁斥美方傷亡通報，稱打擊已致200美軍喪生】伊朗革命衛隊發言人稱，自美伊諒解備忘錄遭美方撕毀後，駐中東美軍陣亡人數已超200人。這位發言人表示，美方釋出的傷亡通報完全虛假。他聲稱，僅代號勝利2號的軍事行動，就造成200餘名美軍人員喪生，另有大量人員負傷。
-
----
-
-### 2026-07-26 02:57:22  #國際
-
-伊朗外交部譴責烏克蘭在裡海襲擊伊朗商船：爆炸造成一名船員遇難、一人受傷。
-
----
-
-### 2026-07-26 02:54:24  #MKT News #WTI #Impact bullish #Brent
-
-A spokesman for Iran's parliamentary national security committee said the primary point of contention with the U.S. is the Strait of Hormuz and that the strait will never return to its pre-war state.
-
----
-
-### 2026-07-26 02:52:13  #國際
-
-【伊朗近半年原油創收超180億美元，完成年度預算六成收入】伊朗石油部長穆赫森·帕克內賈德表示，自2月28日戰事爆發以來，伊朗石油銷售收入達115億美元；停火階段石油銷售額為65億美元。帕克內賈德補充說明，本次停火始於4月7日，7月10日宣告結束。即便遭遇戰事與制裁衝擊，伊朗石油營收仍完成年度預算石油收入預期目標的六成以上。
-
----
-
-### 2026-07-26 02:40:43  #國際
-
-科威特駐美大使：《華爾街日報》有關科威特參與打擊伊朗軍事行動的報道毫無依據。
-
----
-
-### 2026-07-26 02:40:35  #國際
-
-科威特駐美大使：科威特未參與任何針對伊朗的軍事行動。
-
----
-
-### 2026-07-26 02:40:30  #國際
-
-科威特駐美國大使：我國絕不允許任何一方利用本國陸地、領空及海域發起進攻性軍事行動。
-
----
-
-### 2026-07-26 02:40:17  #MKT News
-
-Former Israeli prime minister Naftali Bennett said he is the most suitable person to serve as prime minister and will accept the people's choice.
-
----
-
-### 2026-07-26 02:37:24  #國際
-
-特朗普：如果不100%滿足我們對伊朗的要求，戰爭將以全力度重啟。
 
 ---

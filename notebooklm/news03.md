@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-02 02:36:40_
-_本檔包含 3799 則快訊，約 673791 字_
+_更新時間：2026-08-02 03:51:04_
+_本檔包含 3805 則快訊，約 673101 字_
+
+---
+
+### 2026-07-30 09:49:14  #其他
+
+LG新能源：正與潛在客戶洽談，為超大規模資料中心供應備用電池單元。
+
+---
+
+### 2026-07-30 09:49:01  #國際
+
+當地時間7月29日，美軍中央司令部表示，美軍繼續執行對伊朗的海上封鎖行動。截至當天，美軍已改變20艘商船的航行路線，並使2艘船隻失去行動能力；此外，美軍還對2艘船隻進行登船檢查。（ CCTV國際時訊）
+
+---
+
+### 2026-07-30 09:49:01  #市場 #焦點
+
+中證500指數期貨連續主力合約日內跌1%，現報7379.40點。
+
+---
+
+### 2026-07-30 09:48:06  #市場 #焦點
+
+科創50日內跌幅達3％，成分股中，華虹宏力跌8.6％，翱捷科技跌8.3％，源傑科技跌8.1％，寒武紀跌6.1％。
+
+---
+
+### 2026-07-30 09:47:48  #其他
+
+【新款華為MatePad Pro將於8月5日釋出】7月30日，華為終端宣佈新款華為MatePad Pro將於8月5日釋出，該機整機重量439g，厚度4.7mm。
+
+---
+
+### 2026-07-30 09:47:40  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時縮量189億元。
+
+---
+
+### 2026-07-30 09:47:36  #公司
+
+三星電子：下半年手機業務成本壓力將持續。
+
+---
+
+### 2026-07-30 09:47:30  #公司 #市場
+
+【端側AI概念震盪調整 瑞芯微逼近跌停】早盤端側AI概念震盪調整，瑞芯微逼近跌停，星宸科技、聖邦股份、樂鑫科技、翱捷科技、移遠通訊、博通整合等多股跌超5%。
+
+---
+
+### 2026-07-30 09:47:12  #其他
+
+【我國成功發射通訊技術試驗衛星二十七號A/B星】7月30日9時00分，我國在太原衛星發射中心使用長征六號改運載火箭，成功將通訊技術試驗衛星二十七號A/B星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。 通訊技術試驗衛星二十七號A/B星主要用於衛星通訊、廣播電視、資料傳輸等業務，並開展相關技術試驗驗證。 這次任務是長征系列運載火箭的第660次飛行。(新華社)
+
+---
+
+### 2026-07-30 09:45:35  #市場 #焦點
+
+創業板指跌2.02%，現報3310.598點；上證指數漲0.09%，現報3831.751點；深證成指跌0.99%，現報13523.392點。
+
+---
+
+### 2026-07-30 09:45:26  #市場 #焦點
+
+恒生科技指數跌超1%，現報4815.900點；恒生指數現跌0.302%。
+
+---
+
+### 2026-07-30 09:45:22  #MKT News #Important #005930.KS
+
+Samsung Electronics says it is not currently considering issuing American Depositary Receipts (ADRs) but remains open to ADR issuance over the medium-to-long term.
+
+---
+
+### 2026-07-30 09:45:06  #公司 #國際
+
+三星電子：對中長期發行美國存託憑證（ADR）持開放態度。
+
+---
+
+### 2026-07-30 09:45:00  #其他
+
+【聯創電子：鄭州聯創智造產業園廠房正式投產】據聯創電子訊息，鄭州聯創智造產業園廠房於2026年6月30日全面完成建設、實現產線進駐與穩定量產，標誌著園區廠房正式落成啟用、投入運營。
+
+---
+
+### 2026-07-30 09:44:56  #MKT News
+
+【Qeshm Island power restored after brief outage from US missile strikes】Qeshm Island’s power was fully restored after a brief outage caused by missile strikes on the grid, the local power company said. Repair crews fixed the outage but staff remain on high alert. US warplanes fired multiple missiles at several sites on the island early that morning.
+
+---
+
+### 2026-07-30 09:44:55  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component #Impact bearish
+
+China A-shares opened with the ChiNext down more than 2%, the Shenzhen Composite down over 1% and the Shanghai Composite up 0.1%. Baijiu, internet insurance and gaming stocks led gains.
+
+---
+
+### 2026-07-30 09:44:49  #公司 #國際
+
+三星電子：目前不考慮發行美國存託憑證（ADR）。
+
+---
+
+### 2026-07-30 09:44:42  #經濟數據 #中國
+
+【國家統計局：上半年文化服務業實現營業收入同比增長8.1%】國家統計局社科文司統計師潘旭華解讀2026年上半年全國規模以上文化及相關產業企業資料，文化服務業發揮重要支撐作用。上半年，文化服務業實現營業收入43235億元，比上年同期增長8.1%，快於規模以上文化企業3.5個百分點。文化服務業企業營業收入佔規模以上文化企業的比重為60.0%，比上年同期提高1.9個百分點，拉動規模以上文化企業營業收入增長4.7個百分點。
+
+---
+
+### 2026-07-30 09:43:56  #MKT News #Important
+
+A-share retail sector rebounded; Nanning Department Store rallied straight to its daily limit, with peers Dongbai Group, Lingnan Holdings, Guangbai Co., Caesar Tourism, Hainan Development and Ouya Group also rising.
+
+---
+
+### 2026-07-30 09:43:41  #市場
+
+白酒股快速拉昇，捨得酒業觸及漲停。
+
+---
+
+### 2026-07-30 09:43:23  #市場 #焦點
+
+深證成指跌1.01%，現報13520.456點；上證指數漲%，現報3828.627點；創業板指跌1.95%，現報3312.885點。
+
+---
+
+### 2026-07-30 09:43:19  #公司
+
+油氣概念表現活躍，通源石油漲近10%，科力股份、泰山石油、中國海油、山東墨龍、石化油服跟漲。
+
+---
+
+### 2026-07-30 09:42:35  #公司 #市場
+
+【免稅概念震盪反彈，南寧百貨直線漲停】免稅概念震盪反彈，南寧百貨直線漲停，東百集團、嶺南控股、廣百股份、凱撒旅業、海南發展、歐亞集團等跟漲。
+
+---
+
+### 2026-07-30 09:42:30  #MKT News #Market Themes #China EV Leaders #CSI300 #Impact bullish #SSE Composite
+
+China A-share smart-driving sector rallied; Zhejiang Shibao hit its daily limit, while Wanji Technology, Suoling Co., BAIC BluePark and King Long Motor also advanced.
+
+---
+
+### 2026-07-30 09:42:24  #公司
+
+【國家藥監局批准4款創新藥上市】近日，國家藥品監督管理局批准湖南九典制藥股份有限公司申報的中藥1.1類創新藥椒七止痛凝膠貼膏上市。該藥品為中藥複方外用製劑，具有溫經散寒、活血止痛功效，用於膝骨關節炎寒凝血瘀證。近日，國家藥監局附條件批准西湖製藥（杭州）有限公司申報的1類創新藥鹽酸伊司特韋片上市。該藥品為口服小分子新冠病毒感染治療藥物，用於治療成人輕型、中型新型冠狀病毒感染（COVID-19）。近日，國家藥品監督管理局批准江蘇恆瑞醫藥股份有限公司申報的舒地胰島素注射液（商品名：瑞恆盈）上市，用於治療成人2型糖尿病。 近日，國家藥品監督管理局透過優先審評審批程式批准上海華奧泰生物藥業股份有限公司申報的瑞西奇拜單抗注射液（商品名：華亦淨）上市，用於治療成人(體重≥40kg)泛發性膿皰型銀屑病發作。
+
+---
+
+### 2026-07-30 09:42:15  #MKT News #Market Themes #Chip Wars #005930.KS
+
+Samsung Electronics expects H2 HBM4 revenue to account for about 60% of its total HBM revenue.
+
+---
+
+### 2026-07-30 09:42:09  #公司
+
+三星電子：下半年HBM4營收將佔高頻寬儲存器總營收約60%。
+
+---
+
+### 2026-07-30 09:42:03  #市場 #焦點
+
+科創50日內跌幅達2.00%，成分股中，華虹宏力跌7.09%，翱捷科技跌6.20%，源傑科技跌5.37%，華海清科跌4.63%。
+
+---
+
+### 2026-07-30 09:41:59  #國際
+
+波蘭武裝部隊30日在社交媒體發文稱，為了保護本國領空，波蘭已出動戰鬥機進行防禦性部署，以應對俄羅斯對烏克蘭發動空襲。（央視新聞）
+
+---
+
+### 2026-07-30 09:41:43  #MKT News #Important
+
+South Korea's KOSPI rose 5% intraday to 5,950.55, with Samsung Electronics up 7% and SK Hynix up 3.2%.
 
 ---
 
@@ -22754,149 +22934,5 @@ SK海力士：正按計劃推進HBM4E的量產，預計將於2027年開始量產
 ### 2026-07-29 08:42:19  #央行 #其他
 
 【英國國家經濟社會研究院：英國央行今明兩年料按兵不動】英國國家經濟社會研究院（National Institute of Economic and Social Research，簡稱NIESR）7月29日釋出最新經濟展望報告稱，儘管物價上行壓力顯著，英國央行在未來一年半內大機率不會啟動加息。（新華財經）
-
----
-
-### 2026-07-29 08:40:59  #公司
-
-【AI債券熱潮降溫 大型科技公司發債變難變貴】幾個月來，大型科技公司大型科技公司大舉湧入債券市場，發行規模龐大的債券；起初，吸引渴望搭上AI熱潮的投資人爭相搶購。但隨著需求減弱和泡沫疑慮加劇，這類交易如今變得更難完成，融資成本也更高。貝萊德週一發行125億美元的債券，收益率高達7.53%。資料顯示，這是自去年AI融資熱展開以來，收益率最高的藍籌資料中心債券發行之一。自2025年以來，全球AI相關債務融資規模已超過5,700億美元，借貸成本也隨之飆升。在更多交易還在排隊上場之際，這股熱潮已將信用市場推向極限，也引發銀行等機構設法對沖投資萬一無法獲得回報的風險。
-
----
-
-### 2026-07-29 08:39:50  #其他
-
-OpenAI：釋出開源的程式碼安全命令列工具。
-
----
-
-### 2026-07-29 08:39:20  #國際
-
-【大範圍降雨將貫穿南北 中東部高溼悶熱天氣持續】未來三天（7月29日至31日），全國大部雨水總體呈現面廣點強的特點，廣東、四川、河南、黑龍江等局地雨勢猛烈，需警惕暴雨致災。隨著副熱帶高壓北抬、大陸高壓東移，中東部暑熱發展，加上溼度較大，大範圍桑拿天持續，東北等地部分地區將熱到同期少見。
-
----
-
-### 2026-07-29 08:39:15
-
-【SK海力士電話會：目前沒有看到人工智慧投資放緩的跡象】SK海力士：人工智慧基礎設施投資在2027年以後仍將保持穩健。將透過長期協議鞏固其在HBM領域的領先地位。
-
----
-
-### 2026-07-29 08:39:07  #其他
-
-SK海力士：第二季度產品銷售組合影響了平均售價。
-
----
-
-### 2026-07-29 08:38:31  #市場
-
-力拓股價在悉尼盤中上漲4.8%，此前上半年利潤大幅增長。
-
----
-
-### 2026-07-29 08:36:38  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Saudi Arabia's defense ministry said the airstrike was in response to drone attacks on Saudi oil facilities, adding Riyadh does not seek escalation but will respond to any "aggression".
-
----
-
-### 2026-07-29 08:36:26  #國際
-
-【美軍與沙特聯合空襲伊拉克境內武裝】美軍中央司令部發布宣告稱，美軍與沙烏地阿拉伯武裝部隊於（美東時間）7月28日對伊拉克實施“精確打擊”，目標為“受伊朗伊斯蘭革命衛隊指揮、曾襲擊駐中東美軍及沙特能源基礎設施的親伊朗武裝組織”。 宣告稱，“美軍和沙特戰鬥機對伊拉克東部多處武裝組織的後勤及武器設施發動空襲，以回應過去72小時內由伊朗伊斯蘭革命衛隊策劃並指揮的30多起無人機襲擊。”據稱這些針對駐中東美軍的襲擊“均未得逞”。 宣告還稱，今年2月至4月，伊拉克境內與伊朗結盟的武裝組織曾“對美國公民及美國設施發起600多次襲擊企圖”。 美軍中央司令部警告稱，伊朗伊斯蘭革命衛隊及其支援的武裝代理人必須停止此類襲擊，否則將面臨美軍進一步的回應。 （CCTV國際時訊 ）
-
----
-
-### 2026-07-29 08:36:22  #MKT News #Market Themes #Chip Wars #000660.KS #Impact bullish
-
-SK Hynix expects HBM4 sales in H2 to lift H2 blended ASP.
-
----
-
-### 2026-07-29 08:36:14  #MKT News #Market Themes #Chip Wars #SKHY.O #Impact bullish
-
-SK Hynix (SKHY.O) said it expects bit shipment growth in H2 to be significantly higher than in H1.
-
----
-
-### 2026-07-29 08:36:13  #MKT News #Market Themes #Chip Wars #SKHY.O #Impact bullish
-
-SK Hynix (SKHY.O) expects earnings to improve in H2.
-
----
-
-### 2026-07-29 08:35:48  #公司
-
-【規模近15億元，中國人壽壽險公司落地綠色股權投資計劃】7月29日，中國人壽集團宣佈，旗下壽險公司透過中國人壽資產公司發起設立的“中國人壽-蒙能綠色股權投資計劃”，投資於內蒙古能源集團有限公司旗下新能源產業平臺內蒙古蒙能新能源股份有限公司。股權投資計劃整體投資規模近15億元，其中中國人壽壽險公司實繳出資10億元。
-
----
-
-### 2026-07-29 08:35:38  #其他
-
-SK海力士：預計下半年盈利將改善。
-
----
-
-### 2026-07-29 08:35:30  #其他
-
-沙烏地阿拉伯國防部表示，該國不尋求局勢升級，但將對任何"侵略行為"作出回應。
-
----
-
-### 2026-07-29 08:35:20  #其他
-
-SK海力士：預計下半年HBM4銷售將對混合平均售價產生積極影響。
-
----
-
-### 2026-07-29 08:35:08  #其他
-
-SK海力士承諾將透過長期協議鞏固其在HBM領域的領先地位。
-
----
-
-### 2026-07-29 08:34:14  #其他
-
-沙烏地阿拉伯國防部稱，空襲是對石油設施遭無人機襲擊的回應。
-
----
-
-### 2026-07-29 08:34:10  #其他
-
-SK海力士：預計下半年位元增長率將高於上半年水平。
-
----
-
-### 2026-07-29 08:33:59  #MKT News
-
-Saudi Arabia's Ministry of Defense said it successfully intercepted drone attacks targeting Riyadh and energy facilities in the Eastern Province.
-
----
-
-### 2026-07-29 08:33:37  #MKT News #WTI #Impact bullish #Brent #DXY
-
-Saudi defense ministry says airstrike was coordinated with CENTCOM.
-
----
-
-### 2026-07-29 08:33:28  #Trading Economics #Markets #Commodity #Importance 1
-
-EU Natural Gas Rebounds — European natural gas prices jumped over 4% to above €58 per MWh on Wednesday, rebounding after two consecutive sessions of losses, as fresh hostilities in the Middle East deepened concerns over prolonged supply disruptions. The US military said on Tuesday it had intercepted multiple missiles launched by Iran, ending a days-long lull in fighting between the two sides. Both nations had largely held fire over the weekend following nearly two weeks of nightly US strikes on Iran and repeated attacks by Tehran targeting Washington's allies across the Gulf. The latest escalation worsens Europe’s gas supply outlook as the region races to replenish storage ahead of the winter heating season. Supply concerns were further exacerbated by reports that QatarEnergy, one of the world's largest LNG exporters, has extended its force majeure for European buyers until at least the end of September.
-
----
-
-### 2026-07-29 08:33:17  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Saudi Arabia's Ministry of Defense said it struck targets of Iran-backed groups inside Iraq.
-
----
-
-### 2026-07-29 08:33:12  #國際
-
-沙特國防部表示，沙特對伊拉克境內伊朗支援的組織目標發動了打擊。襲擊行動與美國中央司令部協調開展。
-
----
-
-### 2026-07-29 08:32:32  #MKT News #Market Themes #AI Revolution
-
-【1,132 frontier AI employees urge US to lead international effort to slow frontier AI development】A joint statement signed by 1,132 employees at frontier AI firms including OpenAI, Meta, Google and Anthropic warned automation of AI R&D may be near and, while timing is uncertain, a material risk exists that rapid capability breakthroughs could outpace human understanding and control. The signatories said industry, governments and society need time to address emerging risks, build safety guardrails and strengthen regulatory frameworks, but firms and countries face a competitive dilemma—no one is willing to slow alone. They urged the US government to build on existing monitoring of frontier model releases and push an international collaboration to develop the technical and governance tools needed to prudently guide automated AI R&D.
 
 ---

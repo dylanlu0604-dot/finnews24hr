@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-02 02:36:40_
-_本檔包含 3531 則快訊，約 673747 字_
+_更新時間：2026-08-02 03:51:04_
+_本檔包含 3538 則快訊，約 673501 字_
+
+---
+
+### 2026-08-02 03:41:39  #國際
+
+【伊朗外交部：將持續抵禦美以聯盟，全力捍衛國家安全】伊朗外交部週六警告地區各國，切勿允許美國與以色列利用其領土或設施發起針對伊朗的襲擊，並表示德黑蘭方面將會打擊發動此類襲擊的地點。伊朗外交部稱：“我方英勇武裝力量的防禦性打擊行動正在全力持續推進。”外交部提及的背景包括：伊朗港口與商業航運遭遇海上封鎖、伊朗境內遭受襲擊、所承受的經濟施壓不斷升級，以及各類非法威脅。
+
+---
+
+### 2026-08-02 03:37:28  #其他
+
+秘魯發生觀光飛機墜毀事故，造成13人死亡。
+
+---
+
+### 2026-08-02 03:29:39  #國際
+
+俄羅斯宣佈：莫斯科市及周邊地區將禁止加密貨幣挖礦，禁令有效期至2032年。
+
+---
+
+### 2026-08-02 03:25:14  #國際
+
+伊朗外交部：面對美以敵方的侵略行為，伊朗將動用一切必要手段，捍衛自身權利、利益與國家安全，行使合法自衛權。
+
+---
+
+### 2026-08-02 03:16:39  #MKT News #WJA.TO #Impact bearish
+
+Public Service Alliance of Canada (PSAC) said WestJet flight attendants have issued a 72-hour strike notice. WestJet subsequently issued a 72-hour work-stoppage notice.
+
+---
+
+### 2026-08-02 03:14:46  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's foreign ministry warned that if the U.S. continues to violate the June 28 ceasefire agreement — including a maritime blockade of Iran's ports and commercial shipping, attacks across the country, and intensified economic pressure and illegal threats — Iran's armed forces will continue defensive strikes at full force.
+
+---
+
+### 2026-08-02 03:12:51  #央行 #國際
+
+市場資訊：市場預期美聯儲將在下次聯邦公開市場委員會（FOMC）會議上加息。
+
+---
+
+### 2026-08-02 03:11:13  #MKT News #DXY #Impact bearish #Brent #XAUUSD
+
+Ukrainian President Zelenskiy said he spoke by phone with the UAE president to discuss Emirati support in Europe, particularly the Black Sea, focusing on food security, maritime-route safety and measures to strengthen Ukraine’s life‑protection capabilities. They also reviewed multiple bilateral cooperation projects and are working to ensure those projects are implemented.
+
+---
+
+### 2026-08-02 03:08:29  #其他
+
+加拿大公共僱員工會：西捷航空空乘人員已發出72小時罷工通知。西捷航空隨後發出72小時停工通知。
+
+---
+
+### 2026-08-02 03:05:22  #公司 #國際
+
+英偉達向Reflection AI投資8億美元，並推動其成長為美國開源人工智慧領域的領軍企業。但時隔近一年，這家初創公司尚未推出任何模型。
+
+---
+
+### 2026-08-02 03:04:38  #MKT News
+
+Sky News reported Ukrainian President ZELENSKIY thanked the United Arab Emirates president for continued diplomatic efforts to facilitate prisoner exchanges between Russia and Ukraine.
+
+---
+
+### 2026-08-02 03:04:09  #MKT News
+
+Sky News said the UAE president phoned Ukrainian President Zelenskiy to discuss latest developments in the Ukraine crisis and steps to strengthen bilateral cooperation.
+
+---
+
+### 2026-08-02 02:55:51  #市場 #國際
+
+特朗普在“真實社交”平臺釋出一張圖表，宣稱其正在“重創伊朗貨幣”。圖表資料顯示，2025年1月至2026年7月期間，伊朗里亞爾兌美元匯率從90萬里亞爾兌換1美元，貶值至190萬里亞爾兌換1美元。
+
+---
+
+### 2026-08-02 02:53:17  #其他
+
+在大量移民從摩洛哥越境、造成至少67人遇難事件發生後，西班牙在休達近海佈設了一道500米長的海上浮動隔離屏障。
+
+---
+
+### 2026-08-02 02:50:32  #國際
+
+特朗普：《反武器化法案》必須獲得透過，遭拜登政府利用司法手段打壓的受害者理應得到公正對待。
+
+---
+
+### 2026-08-02 02:43:28  #MKT News
+
+【UK prime minister Burnham: Devolution plan to pave way for a written constitution】UK prime minister Burnham said his sweeping devolution package unveiled this week will "strengthen the case for a written constitution." The blueprint, billed as a "new model of government," goes further than earlier proposals by shifting large swathes of public spending control and local tax powers from Whitehall and independent bodies to mayors and other local leaders. Authorities would gain control over local transport, housing, innovation, energy, cultural investment and skills, plus greater oversight of policing and healthcare; they would receive a share of income tax revenue starting in 2028.
+
+---
+
+### 2026-08-02 02:38:59  #其他
+
+英國首相伯納姆：權力下放方案將為英國成文憲法鋪路。
 
 ---
 
@@ -21239,65 +21341,5 @@ China A-share lithography-equipment stocks jumped in early trade: Xinqi Weizhuan
 ### 2026-07-31 09:33:02  #Trading Economics #Markets #Commodity #Importance 1
 
 Heating Oil Declines — Heating oil futures in the US fell below $4.10 per gallon in late July, pulling back from a nearly four-month high, as investors weighed improving shipping activity against ongoing geopolitical risks. Middle East oil shipments appeared to have picked up in recent days, with more vessels leaving the Persian Gulf undetected and two Saudi tankers successfully transiting the Bab el-Mandeb Strait. Separately, Saudi Arabia proposed an international maritime coalition to protect key shipping routes, with representatives from 43 countries participating in talks to safeguard navigation in the Red Sea following the Iran-backed Houthis' announced blockade against the kingdom. Meanwhile, Russian diesel supplies remained constrained by recent Ukrainian attacks on refineries, prompting Moscow to halt exports for all of July. Still, heating oil remained on track for a roughly 27% monthly gain as geopolitical tensions escalated earlier this month amid exchanges of strikes between the US and Iran.
-
----
-
-### 2026-07-31 09:32:50  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
-
-South Korean Shares Rally on Tech Rebound — The benchmark KOSPI soared more than 15% to around 6,450 on Friday, rebounding sharply from the previous session as a global technology rally lifted semiconductor stocks. Sentiment improved after Microsoft's stronger-than-expected earnings and robust Azure growth eased concerns over AI spending, fueling gains in US chipmakers overnight and driving sharp advances in Korean heavyweights. Samsung Electronics and SK hynix both surged more than 25%, along with notable gains in SK Square (29.9%), Hyundai Motor (9.4%), Kia Corporation (8.6%), and HD Hyundai Heavy Industries (5.0%). The government announced plans to establish a 20 trillion won sovereign wealth fund to invest in strategic industries, including AI, semiconductors, data centers, and infrastructure. Domestic sentiment was also supported by June industrial production, which rose 2.3%, the fastest monthly increase in six years, led by strong growth in automobile and semiconductor output.
-
----
-
-### 2026-07-31 09:32:49  #市場 #焦點
-
-【長鑫科技市值突破4萬億】長鑫科技繼續衝高，盤中漲近13%，總市值突破4萬億。
-
----
-
-### 2026-07-31 09:32:15  #國際
-
-【日韓罕見同步干預外匯，韓國官員稱正與美日等國密切合作】7月31日訊息，據報道，韓國外匯當局於30日進行了一次罕見的拋售美元干預操作，推動韓元對美元匯率升至九個月來的最高水平。韓國的這一舉措與日本在紐約外匯市場買入日元、拋售美元的干預行動同步發生，幫助日元脫離四十年來低位。韓國副財長31日表示，韓國外匯管理部門正與美國、日本等主要國家的同行密切合作，並將持續保持這種協作。此前，日韓兩國官方均曾公開表示將就外匯市場動態保持緊密溝通，以應對本幣貶值壓力。
-
----
-
-### 2026-07-31 09:32:10  #Trading Economics #Markets #Commodity #Importance 1
-
-EU Gas Prices Extend Decline — European natural gas prices dropped to around €57 per MWh on Friday, extending losses from the previous session amid signs of improving shipping conditions through the Strait of Hormuz despite regional tensions and fresh LNG arrivals in Europe. Qatar sent its first LNG tanker through the waterway in more than three weeks, raising hopes that exports from one of the world's largest LNG suppliers could gradually resume. Steady LNG deliveries to Northwest Europe, along with reliable pipeline flows from Norway, also helped ease supply concerns. Despite the recent pullback, EU gas prices remain more than 33% higher in July, as renewed US-Iran hostilities disrupted Persian Gulf supplies while heatwaves boosted electricity demand, limiting Europe's ability to replenish inventories ahead of winter. EU storage facilities are about 55% full, below the seasonal five-year average and behind the pace needed to comfortably meet pre-winter storage targets before the heating season begins in November.
-
----
-
-### 2026-07-31 09:31:47  #市場
-
-C長鑫高開超10%。
-
----
-
-### 2026-07-31 09:31:36  #MKT News #AUDUSD #Impact bullish #DXY #Impact bearish
-
-Australia private sector loan growth YoY 8.5% in June, up from 8.20% previously.
-
----
-
-### 2026-07-31 09:31:34  #資料
-
-澳大利亞6月私營企業貸款年率 8.5%，前值8.20%。
-
----
-
-### 2026-07-31 09:31:30  #市場
-
-【算力租賃概念表現活躍 利通電子一字漲停】算力租賃概念表現活躍，利通電子一字漲停，宏景科技、協創資料漲超14%，銅牛資訊網宿科技、東陽光、優刻得跟漲。
-
----
-
-### 2026-07-31 09:31:28  #MKT News #Economic Calendar #Important
-
-Australia | Private Sector Credit (YoY) (Jun) | actual 8.5% | previous 8.20%
-
----
-
-### 2026-07-31 09:31:22  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish
-
-【Equity index futures open higher in morning session】China equity index futures opened higher in the morning session: CSI 300 main contract (IF) +1.73%, SSE 50 main contract (IH) +0.89%, CSI 500 main contract (IC) +3.56%, CSI 1000 main contract (IM) +3.54%.
 
 ---

@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-02 02:36:40_
-_本檔包含 3739 則快訊，約 673336 字_
+_更新時間：2026-08-02 03:51:04_
+_本檔包含 3724 則快訊，約 673088 字_
+
+---
+
+### 2026-07-29 08:40:59  #公司
+
+【AI債券熱潮降溫 大型科技公司發債變難變貴】幾個月來，大型科技公司大型科技公司大舉湧入債券市場，發行規模龐大的債券；起初，吸引渴望搭上AI熱潮的投資人爭相搶購。但隨著需求減弱和泡沫疑慮加劇，這類交易如今變得更難完成，融資成本也更高。貝萊德週一發行125億美元的債券，收益率高達7.53%。資料顯示，這是自去年AI融資熱展開以來，收益率最高的藍籌資料中心債券發行之一。自2025年以來，全球AI相關債務融資規模已超過5,700億美元，借貸成本也隨之飆升。在更多交易還在排隊上場之際，這股熱潮已將信用市場推向極限，也引發銀行等機構設法對沖投資萬一無法獲得回報的風險。
+
+---
+
+### 2026-07-29 08:39:50  #其他
+
+OpenAI：釋出開源的程式碼安全命令列工具。
+
+---
+
+### 2026-07-29 08:39:20  #國際
+
+【大範圍降雨將貫穿南北 中東部高溼悶熱天氣持續】未來三天（7月29日至31日），全國大部雨水總體呈現面廣點強的特點，廣東、四川、河南、黑龍江等局地雨勢猛烈，需警惕暴雨致災。隨著副熱帶高壓北抬、大陸高壓東移，中東部暑熱發展，加上溼度較大，大範圍桑拿天持續，東北等地部分地區將熱到同期少見。
+
+---
+
+### 2026-07-29 08:39:15
+
+【SK海力士電話會：目前沒有看到人工智慧投資放緩的跡象】SK海力士：人工智慧基礎設施投資在2027年以後仍將保持穩健。將透過長期協議鞏固其在HBM領域的領先地位。
+
+---
+
+### 2026-07-29 08:39:07  #其他
+
+SK海力士：第二季度產品銷售組合影響了平均售價。
+
+---
+
+### 2026-07-29 08:38:31  #市場
+
+力拓股價在悉尼盤中上漲4.8%，此前上半年利潤大幅增長。
+
+---
+
+### 2026-07-29 08:36:38  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Saudi Arabia's defense ministry said the airstrike was in response to drone attacks on Saudi oil facilities, adding Riyadh does not seek escalation but will respond to any "aggression".
+
+---
+
+### 2026-07-29 08:36:26  #國際
+
+【美軍與沙特聯合空襲伊拉克境內武裝】美軍中央司令部發布宣告稱，美軍與沙烏地阿拉伯武裝部隊於（美東時間）7月28日對伊拉克實施“精確打擊”，目標為“受伊朗伊斯蘭革命衛隊指揮、曾襲擊駐中東美軍及沙特能源基礎設施的親伊朗武裝組織”。 宣告稱，“美軍和沙特戰鬥機對伊拉克東部多處武裝組織的後勤及武器設施發動空襲，以回應過去72小時內由伊朗伊斯蘭革命衛隊策劃並指揮的30多起無人機襲擊。”據稱這些針對駐中東美軍的襲擊“均未得逞”。 宣告還稱，今年2月至4月，伊拉克境內與伊朗結盟的武裝組織曾“對美國公民及美國設施發起600多次襲擊企圖”。 美軍中央司令部警告稱，伊朗伊斯蘭革命衛隊及其支援的武裝代理人必須停止此類襲擊，否則將面臨美軍進一步的回應。 （CCTV國際時訊 ）
+
+---
+
+### 2026-07-29 08:36:22  #MKT News #Market Themes #Chip Wars #000660.KS #Impact bullish
+
+SK Hynix expects HBM4 sales in H2 to lift H2 blended ASP.
+
+---
+
+### 2026-07-29 08:36:14  #MKT News #Market Themes #Chip Wars #SKHY.O #Impact bullish
+
+SK Hynix (SKHY.O) said it expects bit shipment growth in H2 to be significantly higher than in H1.
+
+---
+
+### 2026-07-29 08:36:13  #MKT News #Market Themes #Chip Wars #SKHY.O #Impact bullish
+
+SK Hynix (SKHY.O) expects earnings to improve in H2.
+
+---
+
+### 2026-07-29 08:35:48  #公司
+
+【規模近15億元，中國人壽壽險公司落地綠色股權投資計劃】7月29日，中國人壽集團宣佈，旗下壽險公司透過中國人壽資產公司發起設立的“中國人壽-蒙能綠色股權投資計劃”，投資於內蒙古能源集團有限公司旗下新能源產業平臺內蒙古蒙能新能源股份有限公司。股權投資計劃整體投資規模近15億元，其中中國人壽壽險公司實繳出資10億元。
+
+---
+
+### 2026-07-29 08:35:38  #其他
+
+SK海力士：預計下半年盈利將改善。
+
+---
+
+### 2026-07-29 08:35:30  #其他
+
+沙烏地阿拉伯國防部表示，該國不尋求局勢升級，但將對任何"侵略行為"作出回應。
+
+---
+
+### 2026-07-29 08:35:20  #其他
+
+SK海力士：預計下半年HBM4銷售將對混合平均售價產生積極影響。
+
+---
+
+### 2026-07-29 08:35:08  #其他
+
+SK海力士承諾將透過長期協議鞏固其在HBM領域的領先地位。
+
+---
+
+### 2026-07-29 08:34:14  #其他
+
+沙烏地阿拉伯國防部稱，空襲是對石油設施遭無人機襲擊的回應。
+
+---
+
+### 2026-07-29 08:34:10  #其他
+
+SK海力士：預計下半年位元增長率將高於上半年水平。
+
+---
+
+### 2026-07-29 08:33:59  #MKT News
+
+Saudi Arabia's Ministry of Defense said it successfully intercepted drone attacks targeting Riyadh and energy facilities in the Eastern Province.
+
+---
+
+### 2026-07-29 08:33:37  #MKT News #WTI #Impact bullish #Brent #DXY
+
+Saudi defense ministry says airstrike was coordinated with CENTCOM.
+
+---
+
+### 2026-07-29 08:33:28  #Trading Economics #Markets #Commodity #Importance 1
+
+EU Natural Gas Rebounds — European natural gas prices jumped over 4% to above €58 per MWh on Wednesday, rebounding after two consecutive sessions of losses, as fresh hostilities in the Middle East deepened concerns over prolonged supply disruptions. The US military said on Tuesday it had intercepted multiple missiles launched by Iran, ending a days-long lull in fighting between the two sides. Both nations had largely held fire over the weekend following nearly two weeks of nightly US strikes on Iran and repeated attacks by Tehran targeting Washington's allies across the Gulf. The latest escalation worsens Europe’s gas supply outlook as the region races to replenish storage ahead of the winter heating season. Supply concerns were further exacerbated by reports that QatarEnergy, one of the world's largest LNG exporters, has extended its force majeure for European buyers until at least the end of September.
+
+---
+
+### 2026-07-29 08:33:17  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Saudi Arabia's Ministry of Defense said it struck targets of Iran-backed groups inside Iraq.
+
+---
+
+### 2026-07-29 08:33:12  #國際
+
+沙特國防部表示，沙特對伊拉克境內伊朗支援的組織目標發動了打擊。襲擊行動與美國中央司令部協調開展。
+
+---
+
+### 2026-07-29 08:32:32  #MKT News #Market Themes #AI Revolution
+
+【1,132 frontier AI employees urge US to lead international effort to slow frontier AI development】A joint statement signed by 1,132 employees at frontier AI firms including OpenAI, Meta, Google and Anthropic warned automation of AI R&D may be near and, while timing is uncertain, a material risk exists that rapid capability breakthroughs could outpace human understanding and control. The signatories said industry, governments and society need time to address emerging risks, build safety guardrails and strengthen regulatory frameworks, but firms and countries face a competitive dilemma—no one is willing to slow alone. They urged the US government to build on existing monitoring of frontier model releases and push an international collaboration to develop the technical and governance tools needed to prudently guide automated AI R&D.
 
 ---
 
@@ -22365,239 +22509,5 @@ U.S. President Trump said Venezuela's funds can be used for the military.
 ### 2026-07-28 00:32:39  #MKT News #WTI #Impact bullish #Brent
 
 U.S. President Trump said he will use Iranian funds to pay for losses in the Strait of Hormuz.
-
----
-
-### 2026-07-28 00:32:31  #MKT News #Market Themes #The Trump Trade #WTI #Impact bearish #Brent #XAUUSD
-
-US President Trump said, regarding Israel, the US is very close to reaching an agreement on Iran.
-
----
-
-### 2026-07-28 00:32:09  #國際
-
-特朗普：我們將動用伊朗的資金，賠付霍爾木茲地區造成的損失。
-
----
-
-### 2026-07-28 00:31:52  #國際
-
-特朗普：委內瑞拉的資金可交由軍方使用。
-
----
-
-### 2026-07-28 00:31:37  #國際
-
-【中國駐日使館發言人就日公佈起訴村田晃大訊息答記者問】中國駐日本大使館發言人27日就日方公佈起訴村田晃大訊息答記者問，指出此事暴露出日本國內極右翼思潮和勢力猖獗，日方須負起責任，向中方和國際社會作出負責任的交代。據日本廣播協會27日報道，針對今年3月日本現役自衛隊官員持刀擅闖中國駐日本大使館，日本檢方27日以入侵建築物、威脅使館工作人員等罪名對其提起公訴。被起訴的是日本陸上自衛隊三等陸尉村田晃大，現年24歲，隸屬宮崎縣陸上自衛隊蝦野駐屯地。今年3月，他攜帶刀具，翻牆闖入位於東京的中國駐日本大使館，隨後被警方逮捕。（新華社）
-
----
-
-### 2026-07-28 00:31:34  #MKT News #Market Themes #The Trump Trade
-
-TRUMP said he will assess Russia's actions in the war in Ukraine and will ask Putin about satellite imagery regarding Iran.
-
----
-
-### 2026-07-28 00:31:12  #國際
-
-特朗普：會查清俄羅斯的相關行動。
-
----
-
-### 2026-07-28 00:30:55  #國際
-
-特朗普： 我和圖恩關係很好，還沒有考慮更換美國參議院多數黨領袖圖恩。
-
----
-
-### 2026-07-28 00:30:47  #MKT News
-
-President Trump said he and Israeli Prime Minister Netanyahu have some differences on Iran.
-
----
-
-### 2026-07-28 00:30:33  #MKT News
-
-President Trump said he has not yet considered replacing Senate Majority Leader Thune.
-
----
-
-### 2026-07-28 00:30:25  #國際
-
-特朗普：可能需要介入胡塞武裝（問題）。尚未與沙烏地阿拉伯討論加入亞伯拉罕協議。
-
----
-
-### 2026-07-28 00:30:16  #國際
-
-特朗普：我會向普京求證他是否在向伊朗提供衛星影象。
-
----
-
-### 2026-07-28 00:29:47  #MKT News #RTX.O #Impact bullish
-
-President Trump said the US is building a large number of Patriot air-defense missiles.
-
----
-
-### 2026-07-28 00:29:39  #MKT News
-
-U.S. President Trump said he has not yet discussed Saudi Arabia joining the Abraham Accords.
-
----
-
-### 2026-07-28 00:29:33  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. President Trump: may need to intervene against Houthi militants.
-
----
-
-### 2026-07-28 00:29:04  #國際
-
-特朗普：我和內塔尼亞胡在伊朗問題上有點分歧。
-
----
-
-### 2026-07-28 00:28:55  #國際
-
-特朗普：我們目前局勢佔優，還希望配備更多精密導彈。
-
----
-
-### 2026-07-28 00:28:13  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bearish #DXY #S&P500 #Impact bullish
-
-U.S. President Trump said Iran has requested a meeting via intermediaries.
-
----
-
-### 2026-07-28 00:28:09  #MKT News
-
-U.S. President Trump said he has ample patience and plenty of time.
-
----
-
-### 2026-07-28 00:27:42  #公司
-
-LVMH集團：二季度迪奧有機銷售增速略微高於部門均值。
-
----
-
-### 2026-07-28 00:27:39  #MKT News #Market Themes #The Trump Trade
-
-US President Trump said we have a lot of ammunition.
-
----
-
-### 2026-07-28 00:27:36  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-TRUMP said talks with Iran are going well and there is a strong chance something will happen.
-
----
-
-### 2026-07-28 00:27:30  #國際
-
-特朗普：美國有很多彈藥。
-
----
-
-### 2026-07-28 00:26:57  #國際
-
-特朗普：我們的談判進展順利，後續結果拭目以待。
-
----
-
-### 2026-07-28 00:26:38  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
-
-U.S. President Trump said Iran wants a meeting and the U.S. will meet with them.
-
----
-
-### 2026-07-28 00:26:23  #MKT News
-
-US President Trump said he is not disappointed with Defense Secretary Hegseth's handling of Iran and that Hegseth is doing a good job.
-
----
-
-### 2026-07-28 00:26:21  #國際
-
-特朗普：伊朗透過中間人提出了會談請求，我們正與伊朗進行會晤，有望取得積極進展。
-
----
-
-### 2026-07-28 00:26:09  #MKT News
-
-Qatar News Agency said the Qatari prime minister and foreign minister spoke by phone with Canada's foreign minister.
-
----
-
-### 2026-07-28 00:25:58  #國際
-
-特朗普：我們有可能和伊朗達成協議。
-
----
-
-### 2026-07-28 00:25:46  #焦點 #國際
-
-特朗普：伊朗有意舉行會談，我們正在開展接觸。
-
----
-
-### 2026-07-28 00:25:33  #MKT News
-
-【2026 SCO media and think‑tank summit opens in Bishkek with focus on information security】The 2026 Shanghai Cooperation Organization (SCO) media and think‑tank summit opened on the 27th in Bishkek, drawing about 260 delegates from roughly 150 media outlets, think tanks, government agencies and the SCO Secretariat. Kyrgyz presidential office information policy chief Orenbekov said media and think tanks bear responsibility for shaping public opinion and defending interstate trust, and their cooperation is key to countering disinformation. SCO Secretariat senior expert Sarlbayev said the meeting aims to deepen media–think‑tank exchanges under the SCO framework and advance information‑security cooperation and academic ties.
-
----
-
-### 2026-07-28 00:25:10  #國際
-
-特朗普：赫格塞斯做得非常出色。
-
----
-
-### 2026-07-28 00:23:02  #MKT News #WTI #Impact bullish #Brent
-
-Kuwait condemned drone attacks on Saudi oil facilities, Al Jazeera reported.
-
----
-
-### 2026-07-28 00:20:23  #MKT News #Commodities #Energy
-
-Lebanese presidency: President Michel Aoun strongly condemned an attempted drone attack on Saudi Arabia's oil facilities and said Lebanon supports Saudi Arabia in responding to any actions that threaten its security and sovereignty.
-
----
-
-### 2026-07-28 00:20:16  #其他
-
-黎巴嫩總統府宣告：總統奧恩強烈譴責針對沙烏地阿拉伯石油設施的無人機襲擊企圖。總統認為此類襲擊侵犯沙特的安全與穩定，同時威脅地區安全及各國人民利益。 奧恩總統申明，黎巴嫩將與沙烏地阿拉伯站在一起，共同應對一切損害沙特安全與主權的行徑。黎巴嫩再次呼籲各國尊重國家主權，杜絕任何可能激化地區緊張局勢的行為，優先採取對話與和平解決方案，維護地區安全穩定。
-
----
-
-### 2026-07-28 00:20:07  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【US Central Command says 17 merchant vessels forced to divert since resuming maritime blockade of Iran】On July 27 local time, US Central Command said that since resuming a maritime blockade of Iran it has forced 17 merchant vessels to change course, disabled two vessels and boarded and inspected two others.
-
----
-
-### 2026-07-28 00:19:13  #國際
-
-【美軍稱對伊朗海上封鎖期間已迫使17艘商船改道】當地時間7月27日，美軍中央司令部表示，自恢復對伊朗的海上封鎖以來，美軍已迫使17艘商船改變航向，使2艘商船喪失航行能力，並登臨檢查了2艘商船。（央視新聞）
-
----
-
-### 2026-07-28 00:18:59  #MKT News
-
-Oman's foreign ministry condemned and strongly opposed drone attacks targeting Saudi Arabia, saying it will support any measures Saudi Arabia takes to safeguard its sovereignty, security and territorial integrity.
-
----
-
-### 2026-07-28 00:18:00  #其他
-
-市場訊息：軟銀有望很快拿下 SP.LINKS 的優先競標方資格。
-
----
-
-### 2026-07-28 00:17:14  #公司 #國際
-
-【受AI熱潮推動，貝萊德韓國ETF連續第三週錄得資金淨流入】在全球部分最大科技公司的財報季到來前，投資者繼續將資金大舉湧入美國上市的最大韓國交易所交易基金（ETF）。規模達233億美元的iShares MSCI韓國ETF上週錄得超10億美元的資金淨流入，將連續三週的流入勢頭進一步延長，使其7月份的總流入額達到37億美元。如果這一增長勢頭能保持到月底，這將是該基金有記錄以來最大的單月資金流入。該基金追蹤韓國股票，其份額自6月18日創下歷史新高以來，已回落超過28%。
 
 ---
