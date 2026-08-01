@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-01 12:56:14",
-  "count": 17959,
+  "updated": "2026-08-01 13:00:13",
+  "count": 17956,
   "items": [
+    {
+      "id": "5020225",
+      "time": "2026-08-01 12:57:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國貿促會：任鴻斌率中國企業家代表團訪問美國】7月27日至31日，應美中貿委會邀請，中國貿促會組織中國企業家代表團訪問美國鹽湖城、芝加哥、華盛頓，推動兩國工商界積極落實兩國元首北京會晤重要共識，拓展經貿領域務實合作。22家中國企業隨團訪問。期間，中國貿促會會長任鴻斌會見美國聯邦眾議員傑克遜、伊利諾伊州前州長奎因、芝加哥前市長萊特富特、伊利諾伊州眾議員福特、猶他州世貿中心總裁兼執行長弗裡德曼、芝加哥招商局總裁兼執行長克萊門特、美國商業圓桌會議總裁兼營運長西爾弗伯格、美國大豆出口協會執行長蘇健，赴嘉吉、如新、多特瑞、拉森農場等走訪調研。中國貿促會與美有關機構合作舉辦多場中美工商對接活動，同120餘家美國企業機構座談交流。（中國貿促）"
+    },
     {
       "id": "5020224",
       "time": "2026-08-01 12:54:19",
@@ -166265,47 +166273,6 @@
         "公司"
       ],
       "text": "科威特與黑石集團、布魯克菲爾德和KKR簽署價值160億美元的管道建設協議。"
-    },
-    {
-      "id": "mkt:019f97a3-b72b-7aab-8e93-454dab0c7aee",
-      "time": "2026-07-25 12:58:36",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【ECB chief economist: US not dominant force in international trade】ECB chief economist Lane, commenting on recent US tariffs on some trading partners, said the euro-area economy is primarily supported by domestic demand. He added that while transatlantic trade matters, it is \"not the dominant issue\" and that \"the US is not the dominant force in international trade,\" noting Europe trades with the whole world, not just the United States."
-    },
-    {
-      "id": "5007850",
-      "time": "2026-07-25 12:57:22",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行首席經濟學家：美國並非國際貿易主導力量】歐洲央行首席經濟學家菲利普·萊恩日前就美國對一些貿易伙伴徵收新關稅發表評論說，歐洲經濟主要依靠內需支撐，歐美之間的貿易固然重要，但“並非主導問題”。彭博社報道，萊恩在愛爾蘭參加一場活動時表示，“美國並非國際貿易主導力量”，歐洲面向全世界進行貿易，而不僅僅是美國。美國貿易代表辦公室23日釋出公告，宣佈依據《1974年貿易法》第301條，以所謂“強迫勞動”為名對60個國家和地區徵收10%至12.5%的關稅，以替代24日到期的全球進口關稅。（新華社）"
-    },
-    {
-      "id": "5007849",
-      "time": "2026-07-25 12:56:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委齊格曼：對通脹的影響要到未來幾個月才能顯現。"
-    },
-    {
-      "id": "5007848",
-      "time": "2026-07-25 12:56:34",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委齊格曼：地緣政治局勢仍存在不確定性。"
     }
   ]
 }
