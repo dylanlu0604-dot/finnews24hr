@@ -1,7 +1,19 @@
 {
   "date": "2026-08-02",
-  "count": 81,
+  "count": 82,
   "items": [
+    {
+      "id": "mkt:019fbef1-e307-7aab-8f43-aa7015cd4e84",
+      "time": "2026-08-02 04:09:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【IRGC says ballistic missile strike on Jordan's Al Azraq destroyed three US F-35s, damaged three more】Iran's Islamic Revolutionary Guard Corps said its air force used multiple ballistic missiles this morning to strike US F-35 maintenance hangars and ramps at Al Azraq air base in Jordan, in retaliation for a US strike on Qeshm Island. It said the attack destroyed three F-35s and severely damaged three others."
+    },
     {
       "id": "5020572",
       "time": "2026-08-02 04:04:40",
