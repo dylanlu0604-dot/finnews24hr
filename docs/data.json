@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-02 04:26:23",
-  "count": 18024,
+  "updated": "2026-08-02 04:30:25",
+  "count": 18025,
   "items": [
+    {
+      "id": "mkt:019fbf04-4f74-7aab-8f43-cacbd98928cf",
+      "time": "2026-08-02 04:29:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Moscow restaurant explosion kills three, injures 21】The Russian National Anti-Terrorism Committee said on the evening of Aug. 1 local time a homemade explosive device detonated at a restaurant on Kudrinskaya Square in central Moscow. An unidentified woman tried to bring the device into the restaurant and was stopped by security; the blast killed the woman, a security guard and another patron, and injured 21 people."
+    },
+    {
+      "id": "mkt:019fbf02-cdbc-7aab-8f43-c26e7acaf812",
+      "time": "2026-08-02 04:27:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Iraqi government said its armed forces are prepared to repel any attempts against neighboring countries, will not permit Iraqi territory to be used as a launchpad for attacks, and pledged to safeguard regional security."
+    },
     {
       "id": "mkt:019fbeff-15f9-7aab-8f43-b8634e7b75d1",
       "time": "2026-08-02 04:23:36",
@@ -166902,14 +166919,6 @@
         "國際"
       ],
       "text": "美國國家颶風中心（NHC）表示，熱帶風暴“吉納維芙”已接近颶風強度，預計將於下週初增強為大型颶風。"
-    },
-    {
-      "id": "5008134",
-      "time": "2026-07-26 04:27:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列總理將向特朗普遞交伊朗情報】當地時間7月25日，據以色列第12頻道電視臺等多家媒體報道，以色列總理內塔尼亞胡及其訪美團隊計劃於7月28日在白宮會晤美國總統特朗普時，向美方遞交一份有關伊朗軍事與核計劃的最新情報。報道援引以色列訊息人士的話稱，以方在情報中指責伊朗正在加速推進核武器研發計劃。另據媒體披露，有以色列高階官員揚言，美國與伊朗之間達成協議的可能性“微乎其微”，衝突升級“不可避免”。（CCTV國際時訊）"
     }
   ]
 }
