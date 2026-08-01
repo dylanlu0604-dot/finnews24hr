@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-01 10:26:58",
+  "updated": "2026-08-01 10:30:52",
   "count": 17964,
   "items": [
+    {
+      "id": "5020156",
+      "time": "2026-08-01 10:29:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傑瑞再生迴圈重慶鋰電資源化迴圈利用場站正式投產】據傑瑞股份訊息，7月31日，傑瑞再生迴圈重慶鋰電資源化迴圈利用場站正式投產。活動同期，舉辦了鋰電池資源化迴圈利用專案集中籤約儀式。傑瑞再生迴圈分別與沙特 EADA 公司、阿聯酋Witthal Gulf公司（連線簽約）、廈門海辰新材料科技股份有限公司、九江天賜資源迴圈科技有限公司、安徽潔途科技新能源科技有限公司、曲靖市華祥科技有限公司、重慶三電能源科技有限公司、河南譽碳新能源有限公司、山東潤泉環境科技有限公司在內的九家行業企業簽署合作協議，持續深化鋰電池資源化迴圈利用及極片修復業務佈局。"
+    },
+    {
+      "id": "mkt:019fbb27-5434-7aab-8f3f-0ccd893975f2",
+      "time": "2026-08-01 10:29:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "YONHAP: A South Korean official said South Korea and Argentina have reached an agreement to strengthen cooperation on critical minerals."
+    },
+    {
+      "id": "5020155",
+      "time": "2026-08-01 10:28:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內金飾價格集體下跌】8月1日，周生生足金飾品報1225元/克，單日降15元；老廟黃金足金飾品報1226元/克，單日降14元；老鳳祥足金飾品報1225元/克，單日降14元。"
+    },
+    {
+      "id": "mkt:019fbb26-1121-7aab-8f3f-04306479ded6",
+      "time": "2026-08-01 10:27:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【South Korea July exports jump to second-highest on record; semiconductor exports up 179% YoY】South Korea July exports rose 63.0% YoY to $99.0bn, the second-highest monthly total after June’s $102.2bn. Imports increased 26.5% to $68.6bn, leaving a trade surplus of $30.3bn. Semiconductor exports surged 179% YoY to $41.0bn, exceeding $40bn for a second consecutive month, driven by strong storage-chip demand. Exports to the US jumped 68.7% to $17.4bn, supported by AI data-center investment from major tech firms. The trade minister said 19 of 20 major export categories expanded, flagging meaningful export diversification."
+    },
     {
       "id": "5020154",
       "time": "2026-08-01 10:21:36",
@@ -166336,38 +166372,6 @@
         "AI Revolution"
       ],
       "text": "【APEC Digital Week data events in Chengdu emphasize 'data promotes growth'】APEC Digital Week's data-track opened in Chengdu today under the theme 'data promotes growth', focusing on data cooperation and development. Organisers convened a high-level roundtable on data-driven growth and a seminar on data and AI to advance industrial development and productive services. Participants include governments from APEC economies, international organisations, Fortune 500 firms and research institutes. The data-track runs through the 29th and will feature data and AI site visits and scenario-based demonstrations of China's Digital China initiatives."
-    },
-    {
-      "id": "5007780",
-      "time": "2026-07-25 10:30:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "本週普冉股份、中微半導、金祿電子等85只個股釋出業績預告，其中業績大幅預增35只，普冉股份淨利潤預測同比增長1925.36%"
-    },
-    {
-      "id": "5007779",
-      "time": "2026-07-25 10:30:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聚焦“資料促進增長” APEC數字週資料領域活動舉辦】今天，APEC數字週資料領域系列活動在四川成都舉辦，主題為“資料促進增長”。聚焦資料合作與發展，舉辦“APEC資料促進增長高階別圓桌會”；圍繞相關生產性服務業議題，舉辦“APEC資料與人工智慧促進產業發展專題研討會”。APEC各經濟體政府、國際組織、世界500強企業、科研機構等領域代表參會。據瞭解，APEC數字週資料領域系列活動將持續至29日，還將舉辦資料與人工智慧領域系列主題參訪，場景化展示數字中國建設的最新成果。（央視新聞）"
-    },
-    {
-      "id": "5007778",
-      "time": "2026-07-25 10:29:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我打算送一套精緻的巴勒斯坦服飾給查克・舒默，等下週本雅明・內塔尼亞胡到訪的時候，讓他穿著這身衣服接待內塔尼亞胡，一同接待的還有（紐約）市長，我相信市長也很想見見內塔尼亞胡。"
-    },
-    {
-      "id": "5007777",
-      "time": "2026-07-25 10:27:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在白宮記者晚宴：我很失望（加州州長）加文·紐森沒出現……我聽說他最近說，‘如果我們不以火對火，我們就會失去我們的國家。’而且，公平地說，我們對加文只有一件事是確定的——那就是他絕對不想用水滅火。"
     }
   ]
 }
