@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-02 05:40:07",
+  "updated": "2026-08-02 05:44:05",
   "count": 18015,
   "items": [
+    {
+      "id": "mkt:019fbf48-22f3-7aab-8f43-eda9d1f6757c",
+      "time": "2026-08-02 05:43:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister said today he spoke with Iranian foreign minister Araghchi to discuss the latest progress in US-Iran negotiations; Turkey will continue efforts to end regional conflict and build a lasting peace."
+    },
     {
       "id": "5020582",
       "time": "2026-08-02 05:36:55",
@@ -166826,14 +166834,6 @@
         "國際"
       ],
       "text": "伊朗外長在與歐盟外交與安全政策高階代表卡拉斯通話時，譴責烏克蘭襲擊伊朗船隻的行為。"
-    },
-    {
-      "id": "5008149",
-      "time": "2026-07-26 05:41:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國警方：柏林25日晚發生一起汽車衝撞行人事件，已造成一人死亡。"
     }
   ]
 }

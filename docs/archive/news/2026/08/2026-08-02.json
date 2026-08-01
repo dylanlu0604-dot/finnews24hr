@@ -1,7 +1,15 @@
 {
   "date": "2026-08-02",
-  "count": 99,
+  "count": 100,
   "items": [
+    {
+      "id": "mkt:019fbf48-22f3-7aab-8f43-eda9d1f6757c",
+      "time": "2026-08-02 05:43:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister said today he spoke with Iranian foreign minister Araghchi to discuss the latest progress in US-Iran negotiations; Turkey will continue efforts to end regional conflict and build a lasting peace."
+    },
     {
       "id": "5020582",
       "time": "2026-08-02 05:36:55",
