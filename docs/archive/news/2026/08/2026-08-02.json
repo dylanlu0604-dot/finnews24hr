@@ -1,7 +1,32 @@
 {
   "date": "2026-08-02",
-  "count": 60,
+  "count": 63,
   "items": [
+    {
+      "id": "5020560",
+      "time": "2026-08-02 03:05:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英偉達向Reflection AI投資8億美元，並推動其成長為美國開源人工智慧領域的領軍企業。但時隔近一年，這家初創公司尚未推出任何模型。"
+    },
+    {
+      "id": "mkt:019fbeb6-cc94-7aab-8f43-7556be819e44",
+      "time": "2026-08-02 03:04:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sky News reported Ukrainian President ZELENSKIY thanked the United Arab Emirates president for continued diplomatic efforts to facilitate prisoner exchanges between Russia and Ukraine."
+    },
+    {
+      "id": "mkt:019fbeb6-5c27-7aab-8f43-6d6bf588aeaf",
+      "time": "2026-08-02 03:04:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sky News said the UAE president phoned Ukrainian President Zelenskiy to discuss latest developments in the Ukraine crisis and steps to strengthen bilateral cooperation."
+    },
     {
       "id": "5020559",
       "time": "2026-08-02 02:55:51",
