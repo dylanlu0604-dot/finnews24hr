@@ -1,7 +1,179 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-02 00:33:55_
-_本檔包含 3329 則快訊，約 673681 字_
+_更新時間：2026-08-02 01:38:04_
+_本檔包含 3330 則快訊，約 672434 字_
+
+---
+
+### 2026-07-27 23:52:55  #其他
+
+【法國政府：已抓獲162名涉嫌故意縱火人員】當地時間7月27日，法國總理塞巴斯蒂安·勒科爾尼表示，自7月6日以來，法國警方已抓獲162名涉嫌故意縱火人員。他強調，故意縱火屬於重罪，最高可判處15年有期徒刑。目前，法國安全部門正全力追查縱火嫌疑人，所有涉案人員都將被依法追究責任。（央視新聞）
+
+---
+
+### 2026-07-27 23:52:11  #MKT News
+
+IRNA reported Pakistan's interior minister made an unannounced visit to Doha and met his Qatari counterpart to discuss security matters.
+
+---
+
+### 2026-07-27 23:51:42  #其他
+
+據IRNA： 巴基斯坦內政部長突訪多哈，與卡達內政部長會晤磋商安全相關事宜。
+
+---
+
+### 2026-07-27 23:51:42  #MKT News #WTI #Impact bullish #Brent
+
+The US has directed 17 commercial vessels to change course during its blockade of Iran.
+
+---
+
+### 2026-07-27 23:50:55  #國際
+
+美國中央司令部：為確保各方遵守相關管控規定，中央司令部已勒令 17 艘商船改道、扣押 2 艘船舶並登臨檢查 2 艘船隻。
+
+---
+
+### 2026-07-27 23:50:40  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
+
+Amazon said AWS has launched the AWS Healthomics service in the Asia Pacific (Tokyo) region.
+
+---
+
+### 2026-07-27 23:50:10  #MKT News #Important #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #NVIDIA #AMD.O #Impact bearish #NVDA.O #INTC.O
+
+【US chip stocks slide; Philadelphia Semiconductor Index down about 5%】US chip stocks are down; the Philadelphia Semiconductor Index is down about 5%. AMD (AMD.O) is down more than 8%, NVIDIA (NVDA.O) is down more than 7%, Intel (INTC.O) is down about 4%.
+
+---
+
+### 2026-07-27 23:48:18  #公司
+
+亞馬遜：AWS 於亞太（東京）區域推出 AWS HealthOmics 服務。
+
+---
+
+### 2026-07-27 23:47:52  #MKT News
+
+UK Prime Minister Burnham seeks stronger defense cooperation with Kuwait.
+
+---
+
+### 2026-07-27 23:47:37  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Gains as Oil Prices Retreat — The CAC 40 rose 0.4% to close at 8,406 on Monday as a pause in US-Iran hostilities over the weekend sent oil prices lower. Crude prices fell after both countries halted strikes amid renewed diplomatic efforts, with President Donald Trump reportedly open to restarting peace talks. The decline in oil prices eased energy-driven inflation concerns, supporting the broader market. Financials led the gains, with BNP Paribas up 2.1% and AXA adding 1.2%. Luxury stocks also advanced amid lower risk aversion ahead of upcoming earnings, with LVMH up 0.9%, L'Oréal gaining 0.7%, Hermès rising 1.7%, and Kering adding 1.3%. Safran (+1.6%), Air Liquide (+0.7%), Airbus (+1.6%), EssilorLuxottica (+1.7%), and Danone (+1.4%) are also due to report earnings this week. Meanwhile, TotalEnergies fell 1.7% on lower oil prices, while Engie (-2.5%) and STMicroelectronics (-1.7%) were among the session's biggest laggards.
+
+---
+
+### 2026-07-27 23:46:31  #市場
+
+費城半導體指數下跌 4.7%，ARM下跌 2.7%，西部資料下跌 6.6%，美光科技下跌 5.6%。
+
+---
+
+### 2026-07-27 23:46:21  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #EURUSD #Impact bearish #WTI
+
+【Capital Economics: Fed policy may diverge from ECB and BoE by 2027】Capital Economics economist Neil Shearing said in a note markets price just over 50bps of tightening for the Fed, the Bank of England and the European Central Bank by mid-2027, but policy paths could start to diverge as soon as next year. He said an end to the Iran conflict would likely push energy prices lower, leaving domestic fundamentals as the main driver of policy; underlying inflation pressures in the UK and euro area are weak, while the US faces a stronger inflation backdrop and fiscal policy remains relatively loose. Shearing added it is increasingly hard to justify market-implied tightening for the ECB and BoE, whereas the Fed may resume tightening sooner.
+
+---
+
+### 2026-07-27 23:46:10  #MKT News
+
+UK Prime Minister Burnham said he wants to strengthen defence ties with Qatar.
+
+---
+
+### 2026-07-27 23:45:50  #公司 #國際
+
+LVMH集團（路易威登母公司）二季度時裝與皮草有機銷售增長1%，分析師預期增長1.52%。
+二季度有機營收增長3%，分析師預期增長2.32%。
+二季度美國有機營收增長6%，分析師預期增長4%。
+二季度亞洲（剔除日本）有機增長4%，分析師預期增長4.6%。
+二季度紅酒與烈酒有機銷售增長5%，分析師預期下滑1.94%。
+
+---
+
+### 2026-07-27 23:45:36  #其他
+
+米其林上半年營收126.9億歐元，分析師預期127.4億歐元。上半年淨利潤7.66億歐元，分析師預期9.77億歐元。確認全年業績指引。
+
+---
+
+### 2026-07-27 23:44:17  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bearish #Nasdaq100
+
+NVIDIA (NVDA.O) extends losses to 5%.
+
+---
+
+### 2026-07-27 23:43:50  #其他
+
+英偉達股價跌幅擴大至5%。
+
+---
+
+### 2026-07-27 23:41:47  #國際
+
+伊朗外長：伊朗已證明本國絕不會向美國的霸凌行徑低頭。
+
+---
+
+### 2026-07-27 23:41:17  #MKT News
+
+Armenian government said the prime minister asked Russian President Putin to resolve Moscow's export restrictions on Armenia.
+
+---
+
+### 2026-07-27 23:40:49  #國際
+
+亞美尼亞總理請求俄羅斯總統普京解決俄方限制亞美尼亞出口相關問題。
+
+---
+
+### 2026-07-27 23:39:45  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX 40 Rises Toward 3-Week High — The DAX 40 rose more than 1% to above 25,400 on Monday, the highest in nearly three weeks, as improving US-Iran relations, weaker oil prices and falling bond yields boosted investor sentiment. The decline in energy prices eased inflation concerns and reduced expectations for additional monetary tightening ahead of a busy week of central bank decisions and major technology earnings. SAP led the gains, jumping more than 7% after launching the second phase of its €10 billion share buyback programme and extending the positive momentum following stronger-than-expected second-quarter results. Deutsche Telekom (+2.6%) and Rheinmetall (+1.3%) also gained. In contrast, Infineon dropped 4.5% after ASML shares declined following reports that a Chinese state-backed company is developing chipmaking equipment that could challenge its market position. Lower energy prices weighed on Siemens Energy (-2%) and E.ON (-2.5%).
+
+---
+
+### 2026-07-27 23:39:06  #MKT News
+
+UK Prime Minister Burnham phoned the UAE president and expressed intent to deepen UK‑UAE trade ties.
+
+---
+
+### 2026-07-27 23:38:15  #MKT News
+
+The Armenian government said Russian President Putin spoke by phone with Armenian Prime Minister Pashinyan.
+
+---
+
+### 2026-07-27 23:38:14  #國際
+
+亞美尼亞政府訊息：俄羅斯總統普京與亞美尼亞總理通電話。
+
+---
+
+### 2026-07-27 23:37:22  #其他
+
+英國首相伯納姆：希望加強英國與阿聯酋的貿易往來。
+
+---
+
+### 2026-07-27 23:37:00  #國際
+
+【以色列前高官發聯名信警告約旦河西岸局勢或升級】約600名以色列軍方、警方、國家安全總局以及情報和特勤局前高階官員聯合致信美國總統特朗普，呼籲美方敦促以色列政府遏制約旦河西岸日益加劇的定居者暴力，並警告當地局勢可能導致衝突升級。聯名信指出，約旦河西岸的衝突可能進一步升級，不斷增加的暴力活動正在“危及以色列安全、美國利益和地區穩定”。這些前官員還在聯名信中警告稱，局勢進一步惡化所造成的後果，甚至可能比2023年10月7日新一輪巴以衝突及此後以色列面對的多線衝突“更具災難性”。（新華社）
+
+---
+
+### 2026-07-27 23:36:56  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
+
+European equities closed higher on Monday July 27: Germany's DAX rose 280.47 points (1.12%) to 25,372.16; the FTSE 100 rose 46.56 points (0.43%) to 10,782.79; France's CAC 40 rose 33.78 points (0.40%) to 8,406.06; the Euro Stoxx 50 rose 3.41 points (0.05%) to 6,284.35; Spain's IBEX 35 rose 157.21 points (0.80%) to 19,742.91; Italy's FTSE MIB rose 253.77 points (0.49%) to 52,056.00.
+
+---
+
+### 2026-07-27 23:35:48  #國際
+
+【中國駐吉達總領館再次提醒在沙特中資機構和中國公民注意安全】中國駐吉達總領館釋出提醒稱，連日來，沙特多地遭導彈和無人機攻擊，數艘沙特運營的船隻在紅海航行時遭襲，部分地區航班受到影響，局勢還有可能進一步惡化。中國駐吉達總領館再次提醒在沙中資機構和中國公民密切關注沙特和中東地區形勢發展，採取必要措施切實加強安全防範，及時避險。不要拍攝軍事行動，不傳播未經證實的訊息。有乘飛機或輪船出行計劃的旅客請與有關航司保持密切聯絡，以免影響行程。如遇緊急情況，請及時報警並聯系駐沙使領館。
 
 ---
 
@@ -19916,167 +20088,5 @@ Zelenskiy said Russian satellite monitoring shows Moscow is assisting Tehran wit
 ### 2026-07-26 01:40:41  #市場 #焦點
 
 布倫特原油暗盤跌破90美元，日內跌超1.6%。
-
----
-
-### 2026-07-26 01:35:59  #國際
-
-伊朗副外長：我們致力於公平談判，並保證船隻透過霍爾木茲海峽的安全和平通行；我們不會允許美國霸權強加於霍爾木茲海峽，我們將行使合法防禦的權利。
-
----
-
-### 2026-07-26 01:35:27  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-Iran's deputy foreign minister said Iran will not allow US hegemony to influence the Strait of Hormuz and will exercise its legitimate right of self-defense. He said Iran is committed to fair negotiations and will guarantee ships' safe, peaceful passage through the strait.
-
----
-
-### 2026-07-26 01:33:09  #MKT News #WTI #Impact bearish #Brent
-
-【Trump orders pause in airstrikes on Iran】U.S. President Trump on July 25 ordered U.S. forces not to launch new airstrikes on Iran, halting 13 consecutive days of daily strikes. Trump had been approving daily strike plans but did not approve the plan submitted on the 25th and instead ordered a pause; it is unclear whether the halt is a one-day measure or the start of a longer suspension. Hours before the order an Omani delegation arrived in Tehran to negotiate arrangements to reopen navigation in the Strait of Hormuz. Two regional sources said talks have progressed and Oman and Iran could reach an agreement by the weekend, after which Trump would decide whether to accept it.
-
----
-
-### 2026-07-26 01:31:04  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【IRGC publishes tally of alleged U.S. asset damage in Middle East】An IRGC spokesman said US assets in the region suffered the following damage between July 7 and July 21. Radar and air-defence: 7 command-and-control centers; 3 satellite-communications systems; 6 Patriot air-defence radars (Iran said Patriots were severely degraded and that Iranian missiles and drones struck targets without interception); 3 airborne/maritime surveillance radars; 8 early-warning/pulse radars; 7 airborne missile-defence radars; multiple EPS and EPS‑117 radars; and several long-range and tactical radars. Logistics and support: 6 fighter/helicopter maintenance centres; 3 logistics centres; 12 fuel depots; 17 weapons and aircraft-parts warehouses; 6 missile depots. Operational infrastructure: 6 MQ‑9 drone hangars; an F‑15 preparation/workshop; a shelter storing 8 new drones; 2 command centres; a carrier refuelling platform; a P‑8 hangar; 4 HIMARS launch platforms; 5 fighter hangars; 4 Patriot system complexes; 6 missile-launch platforms; a fuel pump station; 2 signal/communications centres; an intelligence data centre; an AI/data-processing centre (Amazon-related); a remote-controlled unmanned-vessel storage centre; a refuelling pier; and multiple aircraft ramps. Air assets: 11 fighters/helicopters on the ground; 17 reconnaissance/strike drones (8 new); 1 F‑15 (in shelter); 1 P‑8; 1 C‑17; 8 tanker aircraft; 4 heavy helicopters; and 6 inventory missiles.
-
----
-
-### 2026-07-26 01:30:49  #焦點 #國際
-
-【特朗普下令暫停空襲伊朗】當地時間7月25日，美國總統特朗普下令美軍當天不要對伊朗發動新的空襲，結束了此前連續近兩週、持續13天的每日打擊行動。據悉，特朗普此前每天都會批准軍方提交的對伊朗打擊方案，但25日收到新的作戰計劃後，並未批准執行，而是直接下令當天暫停空襲。目前尚不清楚這一決定只是一天的臨時安排，還是意味著軍事行動將進入暫停階段。兩名知情人士表示，特朗普此舉一方面是為了給外交談判留出更多空間，另一方面是認為在不重新展開大規模軍事行動的情況下，目前的空襲已基本達到其效果上限。不過，美軍仍在制定恢復大規模軍事行動的預案，一旦特朗普下令，仍可在短時間內恢復打擊。（央視新聞）
-
----
-
-### 2026-07-26 01:30:24  #國際
-
-【伊朗：過去15天伊朗摧毀中東多地的美軍戰機、愛國者防空系統、雷達站及各類軍事基礎設施】伊朗革命衛隊發言人侯賽因·穆赫比於週六稱，過去15天裡，伊朗發動的打擊行動摧毀了中東多地的美軍戰機、愛國者防空系統、雷達站及各類軍事基礎設施。穆赫比透露，7月8日至22日期間美方所謂裝備損失清單如下：11架停放在地面的戰鬥機與直升機、17架偵察及作戰無人機；另有1架存放在機庫內的F-15戰機、1架P-8反潛巡邏機、1架C-17戰略運輸機、8架空中加油機以及4架重型直升機。他還表示，伊朗武裝力量摧毀了6部愛國者防空雷達、4套愛國者防空導彈系統、7座指揮控制中心、8部預警雷達、5部遠端雷達，以及其餘多套防空與反導設施。穆赫比稱，襲擊目標還包括飛機機庫、維修後勤中心、儲油罐體、武器倉庫、導彈儲存點、海馬斯火箭炮發射平臺、導彈發射裝置，以及情報通訊配套設施。美國方面並未證實上述裝備損毀訊息，且伊朗革命衛隊未提供任何可供第三方獨立核驗的證據。
-
----
-
-### 2026-07-26 01:28:50  #宏觀 #國際
-
-以色列財政部長： 以色列經濟不只是在危機中勉強存續，更能借危機實現增長。
-
----
-
-### 2026-07-26 01:21:30  #國際
-
-烏克蘭總統澤連斯基：普京正在為俄羅斯擴大徵兵動員規模鋪墊條件，烏克蘭已掌握俄方秋季相關計劃的完整情報。
-
----
-
-### 2026-07-26 01:15:01  #其他
-
-香港發出九號颱風預警訊號。
-
----
-
-### 2026-07-26 01:13:14  #國際
-
-伊朗革命衛隊發言人：我方在15天內於中東區域擊毀了11架停放在地面的美軍戰鬥機與直升機。
-
----
-
-### 2026-07-26 01:06:59  #其他
-
-SpaceX：確認已成功部署24顆星鏈衛星。
-
----
-
-### 2026-07-26 01:06:51  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Islamic Revolutionary Guard Corps (IRGC) spokesman said its forces destroyed 11 U.S. fighter jets and helicopters over 15 days of fighting.
-
----
-
-### 2026-07-26 01:05:47  #焦點 #國際
-
-市場資訊：美國特種部隊正籌備突襲行動，意圖奪取伊朗濃縮鈾。
-
----
-
-### 2026-07-26 01:05:10  #焦點 #國際
-
-訊息人士：阿曼與伊朗的會談取得進展，可能於週末達成協議。
-
----
-
-### 2026-07-26 01:00:58  #MKT News #Important #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
-
-【Trump instructed US military on Friday not to launch new strikes on Iran, Axios says】Axios, citing two sources, reported Trump on Friday instructed the US military not to launch new strikes in Iran, halting 13 consecutive days of daily strikes. Sources said it is unclear whether the order is a one-off pause or signals a sustained halt. They said the move creates diplomatic space and reflects limits to the effect of strikes absent renewed large-scale operations. The military can mobilize relatively quickly if ordered to resume and is planning for a possible return to large-scale action, but has not received such an order. The White House did not respond.
-
----
-
-### 2026-07-26 00:58:52  #其他
-
-【颱風“紅霞”逼近 廣東已累計轉移人員超71萬人】今年第12號颱風“紅霞”已於25日22時由颱風級加強為強颱風級，其中心位於惠州惠東縣東南方向大約100公里的近海海面上。預計，“紅霞”將以每小時20公里的速度向西北方向移動，將於26日凌晨在廣東深圳到海豐一帶沿海登陸，登陸後轉向北偏西方向移動，強度逐漸減弱。截至7月26日0時，廣東省累計轉移人員715351人。目前，潮州、汕頭、揭陽、汕尾、河源、梅州、深圳、珠海、江門、廣州、東莞、惠州等12個地市已採取“五停”或部分“五停”措施。（央視新聞）
-
----
-
-### 2026-07-26 00:54:22  #MKT News #Commodities #Energy
-
-Iran's oil ministry says it has achieved over 60% of its annual oil revenue budget target despite war and sanctions.
-
----
-
-### 2026-07-26 00:53:51  #國際
-
-伊朗石油部：儘管面臨戰爭與制裁，伊朗已實現預算中年度石油收入預期的60%以上。
-
----
-
-### 2026-07-26 00:51:24  #國際
-
-伊朗石油部：在戰爭期間售出了價值115億美元的石油，停火期間售出了價值65億美元的石油。
-
----
-
-### 2026-07-26 00:51:16  #MKT News #Important #Commodities #Energy
-
-Iran's oil ministry said it sold $11.5 bln of oil during the war and $6.5 bln during the ceasefire.
-
----
-
-### 2026-07-26 00:50:48  #MKT News
-
-【Shenzhen issues red typhoon warning】Typhoon "Hongxia" (strong typhoon) will bring severe wind and rain to Shenzhen; eastern Shenzhen will enter a 12-level wind circle. At 00:30 on July 26 the Shenzhen Meteorological Observatory upgraded typhoon warnings: Yantian, Pingshan, Dapeng New District, Dapeng Bay, Daya Bay and parts of Longgang (Pingdi, Longcheng, Longgang, Baolong, Yuanshan subdistricts) were raised from orange to red. Luohu, Nanshan, Futian, Bao'an, Guangming, Longhua, the Pearl River estuary, Shenzhen Bay and other parts of Longgang (Pinghu, Nanwan, Bantian, Henggang, Jihua subdistricts) were raised from yellow to orange.
-
----
-
-### 2026-07-26 00:50:20  #國際
-
-卡達與埃及外交部長於多哈舉行會晤，就地區穩定及緩和局勢的相關舉措展開磋商。
-
----
-
-### 2026-07-26 00:47:12  #其他 #焦點
-
-【深圳市釋出颱風紅色預警訊號】颱風“紅霞”（強颱風級）將給深圳帶來嚴重風雨影響，深圳東部將進入12級風圈，深圳市氣象臺7月26日0時30分將鹽田區、坪山區、大鵬新區、大鵬灣、大亞灣和龍崗區（坪地、龍城、龍崗、寶龍、園山街道）颱風橙色預警訊號升級為紅色；同時將羅湖區、南山區、福田區、寶安區、光明區、龍華區、珠江口、深圳灣和龍崗區（平湖、南灣、坂田、橫崗、吉華街道）颱風黃色預警訊號升級為橙色。請做好防風防雨工作。（央視新聞）
-
----
-
-### 2026-07-26 00:44:37  #MKT News
-
-【Poll shows Democrats could flip House; Republicans under pressure】An Emerson College poll finds Democrats leading Republicans 53% to 42% on midterm election preference—the largest Democratic margin in the series. Trump's approval is 39% with 57% disapproval. The Democratic edge is concentrated among women, where Democrats lead by 27 percentage points. Newsweek applied a uniform national swing to House districts and estimates Democrats could flip about 36 Republican-held seats, implying a hypothetical 251-184 House split; Newsweek stressed this is a national-model stress test, not a forecast, and actual outcomes will depend on candidate quality, local issues, turnout and districting.
-
----
-
-### 2026-07-26 00:42:13  #其他
-
-沙特外交大臣接到巴基斯坦外長致電，雙方商討緩和地區衝突、降低局勢升級風險的相關舉措。
-
----
-
-### 2026-07-26 00:42:07  #國際
-
-沙特外交大臣與巴基斯坦外交部長就海灣航道及紅海安全事宜展開磋商。
-
----
-
-### 2026-07-26 00:37:59  #MKT News
-
-Israel Army Radio says Palestinians have fled to Yatta, south of Hebron; troops are conducting a manhunt.
 
 ---

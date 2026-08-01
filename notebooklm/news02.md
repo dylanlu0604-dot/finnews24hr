@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-02 00:33:55_
-_本檔包含 3627 則快訊，約 673660 字_
+_更新時間：2026-08-02 01:38:04_
+_本檔包含 3635 則快訊，約 673647 字_
+
+---
+
+### 2026-07-31 09:30:02  #市場 #焦點
+
+北證50日內漲幅達2.81%，成分股中，華嶺股份漲18.61%，戈碧迦漲14.34%，吉岡精密漲9.20%，錦華新材漲8.70%。
+
+---
+
+### 2026-07-31 09:30:02  #市場
+
+【股指期貨早盤開盤】 中證1000指數期貨連續漲3.43%， 滬深300指數期貨連續漲1.81%， 中證500指數期貨連續漲3.33%， 上證50指數期貨連續漲0.91%。
+
+---
+
+### 2026-07-31 09:30:02  #市場
+
+【國債期貨開盤】 30年期主力合約漲0.17%， 10年期主力合約漲0.06%， 5年期主力合約漲0.03%， 2年期主力合約漲0.02%。
+
+---
+
+### 2026-07-31 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | PPI (YoY) (Q2) | actual 3.6% | previous 3.00%
+
+---
+
+### 2026-07-31 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | PPI (QoQ) (Q2) | actual 1.3% | previous 0.40%
+
+---
+
+### 2026-07-31 09:29:29  #MKT News #Important #Market Regions #Greater China
+
+China A-share storage-chip names surged in the opening auction; GigaDevice, Demingli and Taiji Industrial opened locked at the daily limit, while Puran, Beijing Junzheng, Baiwei Storage, Jiangbolong and Dapuwei rose more than 10%.
+
+---
+
+### 2026-07-31 09:29:22  #公司 #市場
+
+【元件板塊大幅高開】元件板塊大幅高開，風華高科、寶鼎科技、金安國紀、生益科技、華正新材漲停，三環集團、勝宏科技、南亞新材、科翔股份、生益電子、迅捷興、中富電路、威爾高漲超10%，景旺電子、泰晶科技、深南電路、東山精密、達利凱普跟漲。
+
+---
+
+### 2026-07-31 09:29:01  #市場 #焦點
+
+中證500指數期貨連續主力合約日內漲3%，現報7514.80點。
+
+---
+
+### 2026-07-31 09:29:01  #市場 #焦點
+
+滬深300指數期貨連續主力合約日內漲1%，現報4589.40點。
+
+---
+
+### 2026-07-31 09:29:01  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內漲3%，現報7110.00點。
+
+---
+
+### 2026-07-31 09:28:36  #公司 #市場
+
+【PCB概念開盤活躍 金安國紀、華正新材雙雙漲停】PCB概念開盤活躍，金安國紀、華正新材雙雙漲停，南亞新材、勝宏科技、迅捷興漲超12%，生益科技漲停價開盤，滬電股份、鵬鼎控股、廣合科技高開。
+
+---
+
+### 2026-07-31 09:28:25  #市場
+
+納斯達克期貨上漲超過1%；標普500期貨上漲0.4%。
+
+---
+
+### 2026-07-31 09:27:59  #MKT News
+
+At the open on July 31 (Fri), China's Shanghai Composite Index rose 0.76% to 3,833.54 (up 28.84 pts); Shenzhen Composite Index rose 3.04% to 13,690 (up 404.19 pts); CSI 300 Index rose 1.63% to 4,623.85 (up 74.13 pts); ChiNext Index rose 5.15% to 3,411.61 (up 166.99 pts); STAR 50 Index rose 8.37% to 1,721.36 (up 132.95 pts).
+
+---
+
+### 2026-07-31 09:27:55  #市場 #焦點
+
+玻璃連續主力合約日內漲2%，現報890.00元。
+
+---
+
+### 2026-07-31 09:25:41  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
+
+At the A-share open, the Shanghai Composite was up 0.76%, the Shenzhen Composite Index up 3.04%, the ChiNext Index up 5.15% and the STAR 50 Index up 8.37%. Changxin C-shares opened more than 10% higher.
+
+---
+
+### 2026-07-31 09:25:39  #Trading Economics #Markets #Commodity #Importance 1
+
+Gasoline Retreats Further — US gasoline futures fell below $3.10 per gallon, retreating further from the two-month high of $3.50 reached on July 23, as investors weighed improving shipping activity against ongoing geopolitical risks. Oil shipments from the Middle East picked up as more vessels left the Persian Gulf with transponders turned off, while two Saudi tankers crossed the Bab el-Mandeb Strait undetected. Additionally, Saudi Arabia proposed an international maritime coalition to protect key shipping routes, with representatives from 43 countries participating in talks to safeguard navigation in the Red Sea following the Iran-backed Houthis' announced blockade against the kingdom. In Russia, the government extended its diesel and gasoline export ban through January 2027 as fuel shortages persisted after Ukrainian drone strikes shut another crude distillation unit. Still, gasoline remained on track for a 5% monthly gain as exchanges of strikes between the US and Iran escalated earlier this month.
+
+---
+
+### 2026-07-31 09:25:35  #公司 #市場 #焦點
+
+【儲存晶片大幅高開 兆易創新等多股競價漲停】早盤儲存晶片大幅高開，兆易創新、德明利、太極實業一字漲停，普冉股份、北京君正、佰維儲存、江波龍、大普微等多股漲超10%。
+
+---
+
+### 2026-07-31 09:25:14  #焦點 #A股
+
+三大股指高開，滬指漲0.76％，深成指漲3.04％，創業板漲5.15％。
+
+---
+
+### 2026-07-31 09:24:38  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australia Stocks Eye Fourth Monthly Rise — Australian shares advanced 34 points, or 0.4%, to 9,001 in early Friday trade, rebounding from the prior session’s weakness after Wall Street rallied overnight, as heavyweight chipmakers surged on renewed bets the AI-driven bull run still has legs. Gains were led by tech, non-energy minerals, industrial services, and utilities, though healthcare and consumer non-durables weighed. However, gains were capped by lingering caution over whether three rate hikes this year from the Reserve Bank will prove sufficient, with their full impact yet to filter through the economy. Standouts included BHP Group (2.4%), Lynas Rare Earths (4.7%), and Sandfire Resources (3.2%), while the big four banks added between 0.1% and 0.6%. Local markets are on track for weekly gains of more than 2%, reversing three straight weekly declines and setting up a fourth monthly rise. Momentum has been underpinned by easing inflation concerns and signs of resilience in manufacturing and services activity through July.
+
+---
+
+### 2026-07-31 09:24:29  #公司
+
+【7月以來43只新基金延長募集 ETF佔比超六成】新基金髮行市場延長募集的情況明顯增多。資料顯示，7月以來共有54則基金延長募集期公告，涉及43只基金。其中，10只基金曾兩次及以上延長募集期。部分基金募集期延長幅度較大。華泰柏瑞中證港股通資訊科技綜合ETF的募集截止日由7月24日延至9月30日，延長68天；廣發穩致、貝萊德行業輪動量化選股的募集截止日均由7月31日延至8月31日。從產品型別看，43只基金中有26只為被動指數型基金，佔比超過六成，其中25只為ETF；此外還包括偏股混合型基金、普通股票型基金、偏債混合型基金及FOF等產品。
+
+---
+
+### 2026-07-31 09:23:55  #其他
+
+中國地震臺網正式測定：07月31日08時58分在秘魯（南緯8.25度，西經74.15度）發生5.6級地震，震源深度150千米。
+
+---
+
+### 2026-07-31 09:23:01  #央行 #中國央行
+
+央行今日開展1340億元人民幣7天期逆回購操作，利率1.40%。同時，開展了6000億元隔夜逆回購操作。
+
+---
+
+### 2026-07-31 09:22:47  #央行 #其他
+
+央行公開市場今日淨投放450.0億元人民幣。
+
+---
+
+### 2026-07-31 09:22:45  #MKT News #Important #Market Regions #Greater China #01347.HK #Impact bullish #00100.HK #02513.HK
+
+Hong Kong shares opened: Hang Seng Index down 0.08%, Hang Seng TECH up 0.3%. 01347.HK, 00100.HK and 02513.HK climbed more than 14%; Lenovo Group (00992.HK) and SMIC (00981.HK) rose over 8%.
+
+---
+
+### 2026-07-31 09:22:41  #焦點
+
+港股恒指低開跌0.08％，國企指數跌0.24％，恒生科技指數漲0.3%。個股方面，中際旭創漲15%，長飛光纖光纜漲15%。
+
+---
+
+### 2026-07-31 09:22:29  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #DXY #Impact bearish #S&P500
+
+PBOC conducted 134 bln yuan 7-day reverse repo (bids 134 bln; allotment 134 bln) at 1.40% and executed 600 bln yuan in overnight reverse repos.
 
 ---
 
@@ -21770,113 +21926,5 @@ Samsung Electronics said its policy to return 50% of free cash flow to sharehold
 ### 2026-07-30 09:38:30  #Trading Economics #Economy #Australia #Export Prices MoM #Importance 1
 
 Australia Export Prices Rise 1.1% in Q2 — Australia's export prices climbed 1.1% quarter-on-quarter in Q2 2026, after a 0.5% rise in the previous quarter. It was the third consecutive quarterly increase, driven primarily by a 5.4% rise in coal, coke, and briquettes due to higher thermal coal prices amid stronger demand. Meanwhile, petroleum and related products jumped 22.7%, buoyed by higher oil prices due to ongoing tensions in the Middle East. Crude fertilisers also surged 20.9%, reflecting growing demand for lithium used in the battery storage and electric vehicle sectors, as well as constrained Chinese inventories. However, the increase was offset by declines in non-monetary gold (-8.8%), as tightening monetary policy expectations and higher US Treasury bond yields outweighed safe-haven demand, and metalliferous ores and metal scrap (-1.4%), which were weighed down by high Chinese iron ore stockpiles and strong global supply conditions.
-
----
-
-### 2026-07-30 09:38:08  #公司 #市場
-
-【房地產概念異動拉昇，香江控股漲停】房地產概念異動拉昇，香江控股漲停，大名城、陸家嘴、ST三木、錦和商管、臥龍新能、華髮股份等跟漲。
-
----
-
-### 2026-07-30 09:37:53  #市場
-
-臺灣加權股價指數上漲2%至40,855.63點。
-
----
-
-### 2026-07-30 09:37:42  #公司
-
-網際網路保險板塊直線走高，佳雲科技漲超10%，愛仕達、國源科技、志晟資訊、金證股份、天利科技跟漲。
-
----
-
-### 2026-07-30 09:37:33  #MKT News #CSI300 #Impact bullish #SSE Composite #DXY #Impact bearish
-
-Mainland A-share internet insurance stocks rallied; Jiayun Technology climbed more than 10%, with Aishida, Guoyuan Technology, Zhisheng Information, Jinzheng Shares and Tianli Technology also rising.
-
----
-
-### 2026-07-30 09:37:22  #其他
-
-【美團回應月付使用者稱被批次盜刷上千元：大機率遭遇新型電信詐騙，正積極配合警方調查】7月30日，就多名美團月付使用者稱被批次盜刷上千元一事，美團方面回應稱，經逐一核查，相關使用者很大機率遭遇了新型電信詐騙，美團正積極配合警方調查，並已採取多種措施，保證使用者賬戶安全。美團方面表示，據多方調查，此次事件作案手法高度一致：犯罪分子以“刷單返利”“高額佣金”等為誘餌，向使用者傳送含木馬程式的連結。使用者一旦點選，手機即遭遠端控制：犯罪分子隨後以使用者身份，在美團批次購買熱門餐廳團購券、景區套餐券等商品，再透過線上二手平臺迅速轉手變現，並以此牟利。據瞭解，目前，多地公安機關已就相關案件立案偵查，美團正積極配合警方提供賬號登入日誌、訂單詳情、核銷記錄等完整資料，協助追查犯罪團伙。面對這一新型犯罪手法，美團表示已持續升級風控策略：在熱門餐廳團購等高發場景，在批次購買前增加風險提示和驗證環節；對團購券轉贈路徑進行限制；同時下線了高風險品類的代付能力等。在使用者保障方面，美團已開通盜刷專項處理通道，確保使用者來電後第一時間攔截未核銷訂單；對於已核銷訂單，啟動專項評估流程，由專項團隊逐一聯絡受影響使用者，協助妥善處理相關損失。美團方面提醒，防範此類新型詐騙，關鍵在於守住“入口”：切勿相信任何“刷單返利”“高額佣金”類資訊，不要點選陌生人透過簡訊、社交軟體傳送的不明連結。（介面新聞）
-
----
-
-### 2026-07-30 09:37:14  #MKT News #Commodities #Industrial Metals #601969.SS #Impact bullish
-
-China A-share steel sector rose in early trade; Liugang posted a second consecutive daily limit-up, with Guangdong Mingzhu, Anyang Iron & Steel, Linggang, Sansteel Minguang, Hainan Mining and Ordos also advancing.
-
----
-
-### 2026-07-30 09:36:57  #MKT News #Important #Market Themes #Chip Wars
-
-Samsung Electronics said chip supply shortages will intensify in 2027 and persist into 2028.
-
----
-
-### 2026-07-30 09:36:34  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
-
-South Korean Shares Rebound on Chip Rally — The benchmark KOSPI rose more than 4% to around 5,890 on Thursday, recovering part of the previous session's losses as Samsung Electronics rallied after reporting record quarterly earnings. Samsung climbed nearly 3% after posting stronger-than-expected results, with record semiconductor operating profit driven by robust AI-related memory demand and forecasting continued strength in AI infrastructure spending. Additional support came from bargain hunting following the index's nearly 16% two-day slump, while upbeat earnings from Microsoft helped ease concerns over AI spending and lifted sentiment toward global technology shares. Other notable gainers included Hyundai Motor (1.6%), LG Energy Solution (7.2%), KB Financial Group (5.5%), and HD Hyundai Heavy Industries (5.1%). However, gains were tempered by lingering caution after the Federal Reserve maintained a higher-for-longer policy stance, while renewed US strikes on Iran kept geopolitical risks elevated.
-
----
-
-### 2026-07-30 09:36:29  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share MLCC sector rose in early trade; Shuangxing Xincai hit the daily limit-up, with Yunzhong Technology, Fenghua Gaoke, Jiemei Technology and Guoci Materials rallying.
-
----
-
-### 2026-07-30 09:36:20  #公司
-
-三星電子：積極探討特別股息政策。
-
----
-
-### 2026-07-30 09:35:38  #MKT News #Market Regions #Greater China
-
-China A-share education sector strengthened again; Chuanzhi Education posted a fourth consecutive daily limit-up, Chuangye Heima climbed more than 10%, and Kede Education, Xueda Education, Kaiwen Education, Angli Education and Zhonggong Education also advanced.
-
----
-
-### 2026-07-30 09:35:04  #公司 #市場
-
-【鋼鐵板塊異動拉昇，柳鋼股份漲停】鋼鐵板塊異動拉昇，柳鋼股份漲停，廣東明珠、安陽鋼鐵、凌鋼股份、三鋼閩光、海南礦業、鄂爾多斯等跟漲。
-
----
-
-### 2026-07-30 09:34:55  #MKT News #Important #CSI300 #Impact bullish
-
-A-share food-processing sector extended gains; Yiming Food hit a third straight daily limit-up, Junyao Health and Anji Food posted second straight limit-ups, while Haixin Food, Lizi Garden and Tianrun Dairy also rose.
-
----
-
-### 2026-07-30 09:34:44  #其他
-
-【上半年全國規模以上文化及相關產業企業營業收入增長4.6%】國家統計局今日（30日）釋出資料，據對全國8.2萬家規模以上文化及相關產業企業（以下簡稱“文化企業”）調查，2026年上半年，文化企業實現營業收入72026億元，按可比口徑計算，比上年同期增長4.6%。其中，文化新業態特徵較為明顯的16個行業小類實現營業收入35239億元，比上年同期增長9.6%，快於全部規模以上文化企業5.0個百分點。分產業型別看，文化製造業實現營業收入17851億元，比上年同期下降0.4%；文化批發和零售業10940億元，下降0.1%；文化服務業43235億元，增長8.1%。分領域看，文化核心領域實現營業收入50472億元，比上年同期增長5.5%；文化相關領域21554億元，增長2.5%。分行業類別看，新聞資訊服務實現營業收入10958億元，比上年同期增長9.2%；內容創作生產16830億元，增長4.4%；創意設計服務13987億元，增長9.2%；文化傳播渠道7512億元，下降3.2%；文化投資運營253億元，增長10.0%；文化娛樂休閒服務933億元，增長3.3%；文化輔助生產和中介服務7653億元，增長4.1%；文化裝備生產3226億元，增長6.2%；文化消費終端生產10675億元，增長0.4%。
-
----
-
-### 2026-07-30 09:34:39  #MKT News
-
-Iran's state television said several loud explosions were heard in Ahvaz.
-
----
-
-### 2026-07-30 09:34:20  #MKT News #Important
-
-South Korea's KOSPI index climbed above 5,900 points, extending intraday gains to 4.25%.
-
----
-
-### 2026-07-30 09:34:15  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-【Market liquidity indicator: DR007 at highest since June as PBOC injects large-scale liquidity】On July 29 DR007 closed at 1.5019%, the highest since June 25; it dipped to 1.4652% at the session open. The PBOC executed net liquidity injections of 870.5 bln yuan today. DR007 is widely used as China’s short-end rate anchor and reflects short-term funding tightness; the spread between DR007 and the PBOC 7-day reverse repo rate signals market liquidity pressure—a large premium suggests tightness and may prompt central bank injections, while a narrow or negative spread indicates ample funding and lower short-term funding costs for leveraged trades in equities and bonds.
-
----
-
-### 2026-07-30 09:34:10  #市場
-
-【教育板塊再度走強 傳智教育4連板】教育板塊再度走強，傳智教育4連板，創業黑馬漲超10%，科德教育、學大教育、凱文教育、昂立教育、中公教育跟漲。
 
 ---

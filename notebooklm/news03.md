@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-02 00:33:55_
-_本檔包含 3828 則快訊，約 673732 字_
+_更新時間：2026-08-02 01:38:04_
+_本檔包含 3794 則快訊，約 672775 字_
+
+---
+
+### 2026-07-30 09:38:08  #公司 #市場
+
+【房地產概念異動拉昇，香江控股漲停】房地產概念異動拉昇，香江控股漲停，大名城、陸家嘴、ST三木、錦和商管、臥龍新能、華髮股份等跟漲。
+
+---
+
+### 2026-07-30 09:37:53  #市場
+
+臺灣加權股價指數上漲2%至40,855.63點。
+
+---
+
+### 2026-07-30 09:37:42  #公司
+
+網際網路保險板塊直線走高，佳雲科技漲超10%，愛仕達、國源科技、志晟資訊、金證股份、天利科技跟漲。
+
+---
+
+### 2026-07-30 09:37:33  #MKT News #CSI300 #Impact bullish #SSE Composite #DXY #Impact bearish
+
+Mainland A-share internet insurance stocks rallied; Jiayun Technology climbed more than 10%, with Aishida, Guoyuan Technology, Zhisheng Information, Jinzheng Shares and Tianli Technology also rising.
+
+---
+
+### 2026-07-30 09:37:22  #其他
+
+【美團回應月付使用者稱被批次盜刷上千元：大機率遭遇新型電信詐騙，正積極配合警方調查】7月30日，就多名美團月付使用者稱被批次盜刷上千元一事，美團方面回應稱，經逐一核查，相關使用者很大機率遭遇了新型電信詐騙，美團正積極配合警方調查，並已採取多種措施，保證使用者賬戶安全。美團方面表示，據多方調查，此次事件作案手法高度一致：犯罪分子以“刷單返利”“高額佣金”等為誘餌，向使用者傳送含木馬程式的連結。使用者一旦點選，手機即遭遠端控制：犯罪分子隨後以使用者身份，在美團批次購買熱門餐廳團購券、景區套餐券等商品，再透過線上二手平臺迅速轉手變現，並以此牟利。據瞭解，目前，多地公安機關已就相關案件立案偵查，美團正積極配合警方提供賬號登入日誌、訂單詳情、核銷記錄等完整資料，協助追查犯罪團伙。面對這一新型犯罪手法，美團表示已持續升級風控策略：在熱門餐廳團購等高發場景，在批次購買前增加風險提示和驗證環節；對團購券轉贈路徑進行限制；同時下線了高風險品類的代付能力等。在使用者保障方面，美團已開通盜刷專項處理通道，確保使用者來電後第一時間攔截未核銷訂單；對於已核銷訂單，啟動專項評估流程，由專項團隊逐一聯絡受影響使用者，協助妥善處理相關損失。美團方面提醒，防範此類新型詐騙，關鍵在於守住“入口”：切勿相信任何“刷單返利”“高額佣金”類資訊，不要點選陌生人透過簡訊、社交軟體傳送的不明連結。（介面新聞）
+
+---
+
+### 2026-07-30 09:37:14  #MKT News #Commodities #Industrial Metals #601969.SS #Impact bullish
+
+China A-share steel sector rose in early trade; Liugang posted a second consecutive daily limit-up, with Guangdong Mingzhu, Anyang Iron & Steel, Linggang, Sansteel Minguang, Hainan Mining and Ordos also advancing.
+
+---
+
+### 2026-07-30 09:36:57  #MKT News #Important #Market Themes #Chip Wars
+
+Samsung Electronics said chip supply shortages will intensify in 2027 and persist into 2028.
+
+---
+
+### 2026-07-30 09:36:34  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Rebound on Chip Rally — The benchmark KOSPI rose more than 4% to around 5,890 on Thursday, recovering part of the previous session's losses as Samsung Electronics rallied after reporting record quarterly earnings. Samsung climbed nearly 3% after posting stronger-than-expected results, with record semiconductor operating profit driven by robust AI-related memory demand and forecasting continued strength in AI infrastructure spending. Additional support came from bargain hunting following the index's nearly 16% two-day slump, while upbeat earnings from Microsoft helped ease concerns over AI spending and lifted sentiment toward global technology shares. Other notable gainers included Hyundai Motor (1.6%), LG Energy Solution (7.2%), KB Financial Group (5.5%), and HD Hyundai Heavy Industries (5.1%). However, gains were tempered by lingering caution after the Federal Reserve maintained a higher-for-longer policy stance, while renewed US strikes on Iran kept geopolitical risks elevated.
+
+---
+
+### 2026-07-30 09:36:29  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share MLCC sector rose in early trade; Shuangxing Xincai hit the daily limit-up, with Yunzhong Technology, Fenghua Gaoke, Jiemei Technology and Guoci Materials rallying.
+
+---
+
+### 2026-07-30 09:36:20  #公司
+
+三星電子：積極探討特別股息政策。
+
+---
+
+### 2026-07-30 09:35:38  #MKT News #Market Regions #Greater China
+
+China A-share education sector strengthened again; Chuanzhi Education posted a fourth consecutive daily limit-up, Chuangye Heima climbed more than 10%, and Kede Education, Xueda Education, Kaiwen Education, Angli Education and Zhonggong Education also advanced.
+
+---
+
+### 2026-07-30 09:35:04  #公司 #市場
+
+【鋼鐵板塊異動拉昇，柳鋼股份漲停】鋼鐵板塊異動拉昇，柳鋼股份漲停，廣東明珠、安陽鋼鐵、凌鋼股份、三鋼閩光、海南礦業、鄂爾多斯等跟漲。
+
+---
+
+### 2026-07-30 09:34:55  #MKT News #Important #CSI300 #Impact bullish
+
+A-share food-processing sector extended gains; Yiming Food hit a third straight daily limit-up, Junyao Health and Anji Food posted second straight limit-ups, while Haixin Food, Lizi Garden and Tianrun Dairy also rose.
+
+---
+
+### 2026-07-30 09:34:44  #其他
+
+【上半年全國規模以上文化及相關產業企業營業收入增長4.6%】國家統計局今日（30日）釋出資料，據對全國8.2萬家規模以上文化及相關產業企業（以下簡稱“文化企業”）調查，2026年上半年，文化企業實現營業收入72026億元，按可比口徑計算，比上年同期增長4.6%。其中，文化新業態特徵較為明顯的16個行業小類實現營業收入35239億元，比上年同期增長9.6%，快於全部規模以上文化企業5.0個百分點。分產業型別看，文化製造業實現營業收入17851億元，比上年同期下降0.4%；文化批發和零售業10940億元，下降0.1%；文化服務業43235億元，增長8.1%。分領域看，文化核心領域實現營業收入50472億元，比上年同期增長5.5%；文化相關領域21554億元，增長2.5%。分行業類別看，新聞資訊服務實現營業收入10958億元，比上年同期增長9.2%；內容創作生產16830億元，增長4.4%；創意設計服務13987億元，增長9.2%；文化傳播渠道7512億元，下降3.2%；文化投資運營253億元，增長10.0%；文化娛樂休閒服務933億元，增長3.3%；文化輔助生產和中介服務7653億元，增長4.1%；文化裝備生產3226億元，增長6.2%；文化消費終端生產10675億元，增長0.4%。
+
+---
+
+### 2026-07-30 09:34:39  #MKT News
+
+Iran's state television said several loud explosions were heard in Ahvaz.
+
+---
+
+### 2026-07-30 09:34:20  #MKT News #Important
+
+South Korea's KOSPI index climbed above 5,900 points, extending intraday gains to 4.25%.
+
+---
+
+### 2026-07-30 09:34:15  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+【Market liquidity indicator: DR007 at highest since June as PBOC injects large-scale liquidity】On July 29 DR007 closed at 1.5019%, the highest since June 25; it dipped to 1.4652% at the session open. The PBOC executed net liquidity injections of 870.5 bln yuan today. DR007 is widely used as China’s short-end rate anchor and reflects short-term funding tightness; the spread between DR007 and the PBOC 7-day reverse repo rate signals market liquidity pressure—a large premium suggests tightness and may prompt central bank injections, while a narrow or negative spread indicates ample funding and lower short-term funding costs for leveraged trades in equities and bonds.
+
+---
+
+### 2026-07-30 09:34:10  #市場
+
+【教育板塊再度走強 傳智教育4連板】教育板塊再度走強，傳智教育4連板，創業黑馬漲超10%，科德教育、學大教育、凱文教育、昂立教育、中公教育跟漲。
 
 ---
 
@@ -22760,317 +22868,5 @@ SK海力士：預計雲服務提供商的AI相關投資將持續至明年以後�
 ### 2026-07-29 08:21:39  #MKT News #Market Themes #AI Revolution #SKHY.O #Impact bullish
 
 SK Hynix (SKHY.O) said it expects AI-related investment by cloud service providers (CSPs) to continue beyond next year.
-
----
-
-### 2026-07-29 08:21:13  #市場 #國際
-
-30年期日本國債收益率上漲1.0個基點，至3.990%。
-
----
-
-### 2026-07-29 08:21:07  #國際
-
-【日本熊本地震2人死3人心肺停止 】據日本熊本縣政府訊息，截至日本時間今天（7月29日）早上7點，地震已造成2人死亡、3人處於心肺停止狀態，至少9人下落不明。
-
----
-
-### 2026-07-29 08:21:00  #MKT News
-
-【C919 high-altitude variant makes maiden flight】China's first C919 high-altitude variant took off at 07:59 Beijing time from runway 4 at Shanghai Pudong International Airport for its maiden flight test.
-
----
-
-### 2026-07-29 08:20:55  #其他
-
-【C919高原型首飛】今日7時59分，C919高原型首架機在上海浦東國際機場第四跑道起飛，開展首次飛行試驗。（大灣區之聲）
-
----
-
-### 2026-07-29 08:20:25  #其他
-
-【昨日ETF資金整體淨流入253.31億元】據同花順iFinD資料顯示，7月28日，ETF資金整體淨流入253.31億元，股票型淨流入277.64億元，寬基型淨流入182.72億元。當日ETF資金淨流入榜單排名前3依次為：易方達創業板ETF（159915）淨流入68.56億元，華夏上證科創板50成份ETF（588000）淨流入37.97億元，華泰柏瑞滬深300ETF（510300）淨流入32.20億元。
-
----
-
-### 2026-07-29 08:20:24  #MKT News #WTI #Impact bullish #Brent
-
-Iran's Press TV reports multiple explosions in the Al-Dair area of Basra province in southern Iraq.
-
----
-
-### 2026-07-29 08:19:48  #市場 #國際
-
-10年期日本國債收益率持平，報2.775%。
-
----
-
-### 2026-07-29 08:19:18  #其他
-
-SK海力士：目前沒有看到人工智慧投資放緩的跡象。
-
----
-
-### 2026-07-29 08:19:02  #市場
-
-鎧俠股價上漲6.2%，愛德萬測試上漲6.1%，羅姆上漲2.5%。
-
----
-
-### 2026-07-29 08:18:57  #MKT News #Market Themes #AI Revolution #SKHY.O #Impact bullish
-
-SK Hynix (SKHY.O) expects investment in AI infrastructure to remain robust.
-
----
-
-### 2026-07-29 08:18:40  #其他
-
-海力士：預計人工智慧基礎設施投資仍將保持穩健。
-
----
-
-### 2026-07-29 08:17:41  #公司 #國際
-
-【英矽智慧 ISM6331 獲美國 FDA 快速通道資格，用於晚期間皮瘤治療】英矽智慧早間公告，本公司董事會欣然宣佈，公司自主研發、由人工智慧技術賦能的潛在同類最優廣譜 TEAD 抑制劑 ISM6331，已獲美國食品藥品監督管理局（FDA）授予快速通道資格，適應症為成年不可切除惡性胸膜間皮瘤患者 —— 該類患者在經抗 PD-1 抗體單藥或聯合抗 CTLA-4 抗體、鉑類化療方案治療後病情仍出現進展。
-
----
-
-### 2026-07-29 08:15:47  #MKT News #SKHY.O #Impact bullish
-
-SK Hynix (SKHY.O) expects shareholder returns to rise significantly.
-
----
-
-### 2026-07-29 08:15:13  #其他
-
-【航行警告！渤海海峽及黃海執行軍事任務】據中國海事局網站訊息，大連海事局釋出航行警告，7月29日03時至15時，渤海海峽及黃海部分海域執行軍事任務，禁止駛入。
-
----
-
-### 2026-07-29 08:14:55  #市場
-
-澳大利亞S&P/ASX 200指數上漲1%，至9038.50。
-
----
-
-### 2026-07-29 08:14:29  #其他
-
-SK海力士：預計股東回報將實現顯著增長。
-
----
-
-### 2026-07-29 08:14:18  #其他
-
-SK海力士：將能夠顯著提升股東回報。
-
----
-
-### 2026-07-29 08:13:16  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-【CITIC Securities bullish on Tesla robots' mass production and applications】Chinese broker CITIC Securities says Tesla combines leading AI large‑model capabilities with scale manufacturing and ranks among leaders in the global embodied intelligence supply chain. The broker is bullish on the mass‑production and application prospects for Tesla robots. Optimus is set to enter a production phase and Cybercab testing is proceeding as planned. CITIC recommends monitoring core supply‑chain players.
-
----
-
-### 2026-07-29 08:12:58  #國際
-
-【美軍稱伊朗革命衛隊試圖突襲】美軍中央司令部發布宣告稱，美國東部時間7月28日下午5點45分（伊朗時間7月29日凌晨1點15分，北京時間凌晨5點45分），伊朗伊斯蘭革命衛隊發射多枚彈道導彈，“試圖對部署在中東地區的美軍發動突然襲擊”。宣告稱，所有伊朗發射的導彈均已被成功攔截，未能擊中目標。駐中東美軍目前仍保持高度警戒，並維持高階別戰備狀態。 據美國“阿克西奧斯新聞網（Axios）”報道，伊朗伊斯蘭革命衛隊導彈的目標是約旦一處美軍基地。 對此目前伊朗方面暫無正式回應。
-
----
-
-### 2026-07-29 08:12:09  #MKT News #Important #000660.KS #Impact bullish #005930.KS
-
-South Korea's KOSPI extended gains to 3%, SK Hynix rose 4% and Samsung Electronics gained nearly 6%.
-
----
-
-### 2026-07-29 08:11:56  #市場 #焦點 #國際
-
-韓國綜合股價指數上漲3%，至6205.66。SK海力士漲4%，三星電子漲近6%。
-
----
-
-### 2026-07-29 08:11:56  #MKT News
-
-Bank Indonesia said it will continue to strengthen measures to stabilize the rupiah to meet its inf target and support economic activity.
-
----
-
-### 2026-07-29 08:11:21  #Trading Economics #Markets #Spain #Earnings #Importance 0
-
-Ferrovial earnings below expectations at 0.21 EUR — Ferrovial (FER) released earnings per share at 0.21 EUR, compared to market expectations of 0.25 EUR.
-
----
-
-### 2026-07-29 08:11:20  #Trading Economics #Markets #Canada #Earnings #Importance 0
-
-Great West Lifeco earnings above expectations at 1.42 CAD — Great West Lifeco (GWO) released earnings per share at 1.42 CAD, compared to market expectations of 1.37 CAD.
-
----
-
-### 2026-07-29 08:10:58  #觀點
-
-隨著人工智慧類股暴跌，高盛、摩根大通等銀行要求對沖基金提供更多抵押品。
-
----
-
-### 2026-07-29 08:10:30  #MKT News
-
-Australian S&P/ASX 200 opened up 67.30 points (+0.75%) at 9,015.10 on Wednesday, July 29.
-
----
-
-### 2026-07-29 08:10:25  #市場
-
-澳大利亞S&P/ASX 200指數早盤上漲0.8%，報9,020.30點。
-
----
-
-### 2026-07-29 08:10:18  #市場
-
-香港置地預計，隨著香港商業房地產市場開始復甦，旗下寫字樓租金將在連續六年下跌後於2027年企穩，並於2028年恢復增長。首席財務官Craig Beattie接受採訪時表示，明年到期租約的續租租金預計將與現有水平大致相當，“這意味著我們在香港的辦公樓租金將持平並企穩”。
-
----
-
-### 2026-07-29 08:09:49  #其他
-
-SK海力士：長期供應協議旨在抵禦儲存晶片價格波動。
-
----
-
-### 2026-07-29 08:09:49  #MKT News #Market Themes #Chip Wars #SKHY.O #Impact bullish
-
-SK Hynix (SKHY.O) said memory supply tightness will persist for a prolonged period.
-
----
-
-### 2026-07-29 08:09:37  #其他
-
-SK海力士：儲存晶片供應緊張局面將持續相當長一段時間。
-
----
-
-### 2026-07-29 08:09:29  #央行 #國際
-
-印尼央行：繼續加強印尼盾穩定，以實現通脹目標並促進經濟活動。
-
----
-
-### 2026-07-29 08:09:24  #央行 #國際
-
-印尼央行：仍致力於維護穩定，將此作為支援可持續經濟增長的首要前提。
-
----
-
-### 2026-07-29 08:09:16  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Japan's Nikkei 225 was up 1.00% intraday.
-
----
-
-### 2026-07-29 08:09:14  #Trading Economics #Markets #Netherlands #Earnings #Importance 0
-
-ASM International NV earnings above expectations at 5.96 EUR — ASM International NV (ASM) released earnings per share at 5.96 EUR, compared to market expectations of 5.06 EUR.
-
----
-
-### 2026-07-29 08:09:10  #公司
-
-市場訊息：阿達尼集團有意收購英國相關港口公司的控股權。
-
----
-
-### 2026-07-29 08:08:32  #公司 #觀點
-
-【中信證券：看好特斯拉機器人的量產和應用前景】中信證券指出，特斯拉兼具領先的AI大模型技術與規模化製造能力，公司位於全球具身智慧產業鏈頭部梯隊，堅定看好特斯拉機器人的量產和應用前景。特斯拉Optimus即將進入生產階段，Cybercab按計劃進行測試中。建議關注產業鏈核心玩家。
-
----
-
-### 2026-07-29 08:08:14  #觀點
-
-【中信證券：AI驅動半導體產業資本開支上行，裝置開啟新一輪成長週期】中信證券研報稱，AI正成為本輪全球半導體產業週期的核心驅動力，帶動全球晶圓廠資本開支進入新一輪上行週期，先進邏輯以及先進儲存正形成擴產共振，半導體裝置行業景氣度由週期修復邁向結構性成長階段，中信證券預計2028年全球半導體裝置市場規模將超過2900億美元，而中國半導體產業景氣度將受益於AI與國產替代雙重催化，預計2028年中國半導體裝置市場規模有望接近1000億美元。在此背景下，中信證券建議重點關注兩條投資主線：1）具備全球競爭力，持續受益於先進製程及先進封裝擴產的國內裝置龍頭；2）國產替代持續推進，產品矩陣不斷完善, 先進製程驗證持續突破的國產零部件企業。
-
----
-
-### 2026-07-29 08:08:11  #公司
-
-【中船集團與中核集團簽訂戰略合作框架協議】7月28日，中國船舶集團有限公司與中國核工業集團有限公司在上海簽署戰略合作框架協議。中船集團黨組書記、董事長徐鵬表示，希望以此次戰略合作框架協議簽訂為契機，聚焦裝備製造、綠色能源、科技創新等重點領域推動更高水平務實合作。
-
----
-
-### 2026-07-29 08:08:05  #央行 #美聯儲
-
-【華泰證券：預計美聯儲7月加息機率略高於一半 9月前加息的機率接近100%】華泰證券指出，美聯儲新任主席凱文·沃什（KevinWarsh）上任後，金融市場對這位新主席政策取向的定價從此前的鴿派降息，轉為更偏鷹派的短期立場。但臨近7月議息會議，市場對聯儲下一步政策的預期卻極度分化。沃什廢除前瞻指引後，市場定價更為困難，而沃什和市場博弈焦點勢必從“聽其言”轉為“觀其行”。
-
----
-
-### 2026-07-29 08:08:00  #MKT News #Market Themes #Chip Wars #SKHY.O #Impact bullish
-
-SK Hynix (SKHY.O): major customers continue to request increased memory supply.
-
----
-
-### 2026-07-29 08:07:55  #其他
-
-SK海力士：主要客戶持續要求增加記憶體供應。
-
----
-
-### 2026-07-29 08:07:41  #央行 #國際
-
-印尼央行：完善除政策利率以外的貨幣政策工具以穩定印尼盾。
-
----
-
-### 2026-07-29 08:07:19  #公司 #市場
-
-永旺公司股價在東京下跌0.7%。
-
----
-
-### 2026-07-29 08:06:42  #公司
-
-【邁威生物與SVAX就阿柏西普眼內注射溶液在海灣阿拉伯國家達成戰略合作】7月29日，邁威生物宣佈其與沙烏地阿拉伯生物製藥公司SVAXInc.（以下簡稱：SVAX）就9MW0813（阿柏西普眼內注射溶液，艾力雅®生物類似藥）達成許可協議。根據協議，雙方將就產品在海灣阿拉伯國家的註冊、生產和商業化展開深度合作。
-
----
-
-### 2026-07-29 08:06:38  #MKT News
-
-South Korea's KOSPI rose as much as 2.00% intraday.
-
----
-
-### 2026-07-29 08:06:33  #市場
-
-布倫特原油日內漲3%，現報84.55美元/桶。
-
----
-
-### 2026-07-29 08:06:32  #國際
-
-截至日本時間凌晨4點更新，熊本永旺購物中心倒塌事故已造成3人死亡。
-
----
-
-### 2026-07-29 08:06:12  #其他
-
-【日經225指數漲幅擴大至1%】日經225指數漲幅擴大至1%，現報62982.09點。
-
----
-
-### 2026-07-29 08:05:43  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #XAUUSD #Impact bearish #S&P500
-
-【Huatai Macro: Slightly above 50% chance of Fed July rate hike】Huatai Macro says markets have shifted from pricing dovish cuts to a more hawkish near-term stance after Kevin Warsh’s appointment as Fed chair. With forward guidance abandoned, expectations are highly split and pricing is more difficult; focus will move from words to actions. Based on past chair transitions, the current macro backdrop and Warsh’s need to build credibility, Huatai assigns a slightly >50% probability of a July rate hike (versus the market’s ~40%) and sees a near-100% chance of a hike before September. From the new-chair/market interaction, the aggregate cost of hiking in July may be lower.
-
----
-
-### 2026-07-29 08:05:16  #公司 #國際
-
-【韓國綜指漲幅擴大至2%】韓國綜指漲幅擴大至2%，現報6143.88點。個股方面，三星電子漲超4%，SK海力士漲超3%。
-
----
-
-### 2026-07-29 08:05:13  #公司
-
-【中國融通集團與珠海市政府簽署政企合作協議】7月28日，中國融通集團與珠海市人民政府在北京簽署政企合作協議。根據協議，雙方將建立常態化工作機制，在新興產業、海島經濟、軍事文旅、酒店配套、存量資產盤活等領域開展深度合作。
 
 ---

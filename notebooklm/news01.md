@@ -1,7 +1,140 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-02 00:33:55_
-_本檔包含 3536 則快訊，約 673809 字_
+_更新時間：2026-08-02 01:38:04_
+_本檔包含 3532 則快訊，約 673175 字_
+
+---
+
+### 2026-08-02 01:32:22  #市場
+
+【Codex與開源模型關注度攀升，Anthropic旗下Claude Code依舊佔據主導】Anthropic正面臨日趨激烈的市場競爭，客戶也對其AI工具高昂的價格心存疑慮。但爆款產品Claude Code的領先地位依舊難以撼動。2025年末至2026年初，大量企業轉向Claude Code，不少場景下擠佔了微軟GitHub Copilot以及AI程式碼工具廠商Cursor的市場份額。近幾個月，隨著Anthropic切換至按量計費模式，客戶使用成本大幅上漲；與此同時，競爭對手OpenAI持續迭代Codex，競爭力顯著增強，來自中國的開源模型能力也取得長足進步。即便各大企業積極尋求控本方案，眾多企業依舊選擇繼續使用Claude Code。
+
+---
+
+### 2026-08-02 01:27:35  #MKT News #XAUUSD #Impact bullish #DXY
+
+United Nations expressed serious concern over Israeli demolition operations in southern Lebanon, saying they have a devastating impact on civilian infrastructure, cultural heritage and communities' collective memory.
+
+---
+
+### 2026-08-02 01:27:29  #市場 #國際
+
+【以色列官員：緊張局勢達到頂點，瀕臨爆發邊緣】一名以色列官員表示：“當前緊張局勢已達到頂點，正處於爆發邊緣。”以方評估認為，美國總統特朗普“比以往任何時候都更接近對伊朗發動重大打擊，但目前尚無定論”。以色列目前已提高戒備等級。該官員稱：“我們估計特朗普尚未決定襲擊的規模，目前還不清楚他是否希望以色列參與第一階段的行動。”他補充稱，特朗普認為談判只是“浪費時間”，並且“憤怒、惱火和沮喪”。據其透露，白宮向特朗普提出的方案支援以色列的評估，即對能源設施發動大規模、有針對性的襲擊，可能動搖伊朗政權。該官員表示：“這樣的強力打擊可以及時完成，並不一定會引發導致全球能源價格上漲的‘能源戰爭’。目標將是特定設施，這些設施可能對伊朗民眾產生重大影響。目前尚不清楚特朗普是否會選擇這一方案，還是會繼續維持封鎖措施直到中期選舉。這不是‘是否採取行動’的問題，而是‘何時行動’的問題。所有跡象都表明，特朗普似乎別無選擇，只能朝這個方向推進。”
+
+---
+
+### 2026-08-02 01:24:15  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #XAUUSD #DXY
+
+【Israeli official: tensions at peak, Trump nearer to major strike on Iran】An Israeli official told Channel 12 tensions with Iran have reached a peak and are on the brink of erupting; Israel has raised its alert level. The official said President Trump is “closer than ever” to ordering a major strike on Iran but has not decided on the scale or on whether Israel would join initial operations. White House options reportedly favor large, targeted strikes on Iranian energy facilities intended to weaken the regime; the official said such strikes could be executed quickly and would not necessarily trigger a global energy-price shock but would hit facilities with major domestic impact. It is unclear whether Trump will choose that option or keep a blockade in place until the midterm elections—the question is timing, not whether to act.
+
+---
+
+### 2026-08-02 01:18:09  #國際
+
+聯合國對以色列在黎巴嫩南部實施拆除行動表達嚴重關切。
+
+---
+
+### 2026-08-02 01:07:54  #MKT News #WTI #Impact bullish #Brent
+
+According to Israel's Channel 13, the White House said Iran will pay a heavy price until it returns to the negotiating table.
+
+---
+
+### 2026-08-02 01:05:45  #MKT News
+
+Pulte said that after discussions with President Trump and Jay Clayton, the handover of the Director of National Intelligence (DNI) is scheduled for Monday.
+
+---
+
+### 2026-08-02 01:04:52  #國際
+
+美國代理國家情報總監普爾特：與特朗普、克萊頓磋商後，國家情報總監交接定於下週一開展。
+
+---
+
+### 2026-08-02 01:03:42  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israel's Channel 13 reported senior Israeli officials say they expect Trump to soon order a resumption of fighting. Israel has moved to highest alert.
+
+---
+
+### 2026-08-02 01:01:13  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+A Jordanian official said Iraq has informed Jordan it would strike pro-Iran militias if they attack Jordan, and Jordan expects Iraq to take measures to rein in those militias.
+
+---
+
+### 2026-08-02 01:00:55  #國際
+
+以色列官員：緊張局勢達到頂峰，特朗普比以往任何時候都接近對伊朗發動重大攻擊。
+
+---
+
+### 2026-08-02 00:59:36  #國際
+
+約旦官方訊息人士：伊拉克方面通知我方，若親伊朗民兵襲擊約旦，伊拉克將對這些民兵實施打擊；我方期待伊拉克採取措施約束民兵武裝。
+
+---
+
+### 2026-08-02 00:53:00  #國際
+
+特朗普：對全美50個州開展核查，排查非法非公民選民。目前已查出數千人。選舉舞弊的時代結束了。
+
+---
+
+### 2026-08-02 00:51:59  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Turkey, Iraq sign one-year crude transport deal; 750,000 bpd allocated to Iraq】On Aug 1 Turkey's Ministry of Energy and Natural Resources said state pipeline operator BOTAŞ and two Iraqi oil companies signed a one-year crude transport agreement. The deal allocates 750,000 bpd of the pipeline's capacity to Iraq; the pipeline's design capacity is 1.5m bpd. Iraq's prime minister Zaidi had earlier said during a visit he would supply 1m bpd to Turkey.
+
+---
+
+### 2026-08-02 00:50:39  #公司
+
+【土耳其與伊拉克簽署原油運輸協議 每日輸送75萬桶】當地時間8月1日，土耳其能源和自然資源部宣佈，土耳其國家石油管道公司（BOTAŞ）與伊拉克兩家石油公司正式簽署為期一年的原油運輸協議。根據協議，土伊雙方將高效利用原油管道，其中每日75萬桶的輸送能力將分配給伊拉克方。土耳其方面表示，該輸油管道總設計日產能達150萬桶。此前，伊拉克總理扎伊迪在訪問土耳其期間曾表示，將每天向土耳其提供100萬桶石油。
+
+---
+
+### 2026-08-02 00:43:19  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+Saudi outlet Alhadath reports Jordan expects Iraq to take measures to curb militia activity.
+
+---
+
+### 2026-08-02 00:42:52  #MKT News #WTI #Impact bullish #Brent #DXY
+
+Saudi outlet alhadath reports Jordan has notified Iraq it will strike if Iran-aligned militias attack Jordan.
+
+---
+
+### 2026-08-02 00:39:31  #其他
+
+《蜘蛛俠：嶄新之日》北美首映日票房斬獲1.68億美元，重新整理影史首映日票房紀錄。
+
+---
+
+### 2026-08-02 00:36:35  #MKT News
+
+President Trump said he disagrees with Washington, D.C., prosecutor Piro's view on the Reflecting Pool.
+
+---
+
+### 2026-08-02 00:36:20  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+U.S. is evacuating its air force base in Bahrain amid expectations of a possible regional escalation.
+
+---
+
+### 2026-08-02 00:35:47  #國際
+
+特朗普：我完全不認同聯邦檢察官皮羅關於倒影池案件的處理方式。
+注：皮羅選擇撤訴，認為不存在惡意破壞。
+
+---
+
+### 2026-08-02 00:33:27  #其他
+
+市場資訊：在傳聞中的升級打擊到來前，美軍開始撤離巴林空軍基地人員。
 
 ---
 
@@ -21172,161 +21305,5 @@ China 10Y Bond Yield Hits 8-week Low — China 10 Year Government Bond Yield dec
 ### 2026-07-31 09:30:02  #市場 #焦點
 
 中證1000指數期貨連續主力合約日內漲4%，現報7123.40點。
-
----
-
-### 2026-07-31 09:30:02  #市場 #焦點
-
-北證50日內漲幅達2.81%，成分股中，華嶺股份漲18.61%，戈碧迦漲14.34%，吉岡精密漲9.20%，錦華新材漲8.70%。
-
----
-
-### 2026-07-31 09:30:02  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續漲3.43%， 滬深300指數期貨連續漲1.81%， 中證500指數期貨連續漲3.33%， 上證50指數期貨連續漲0.91%。
-
----
-
-### 2026-07-31 09:30:02  #市場
-
-【國債期貨開盤】 30年期主力合約漲0.17%， 10年期主力合約漲0.06%， 5年期主力合約漲0.03%， 2年期主力合約漲0.02%。
-
----
-
-### 2026-07-31 09:30:00  #MKT News #Economic Calendar #Important
-
-Australia | PPI (YoY) (Q2) | actual 3.6% | previous 3.00%
-
----
-
-### 2026-07-31 09:30:00  #MKT News #Economic Calendar #Important
-
-Australia | PPI (QoQ) (Q2) | actual 1.3% | previous 0.40%
-
----
-
-### 2026-07-31 09:29:29  #MKT News #Important #Market Regions #Greater China
-
-China A-share storage-chip names surged in the opening auction; GigaDevice, Demingli and Taiji Industrial opened locked at the daily limit, while Puran, Beijing Junzheng, Baiwei Storage, Jiangbolong and Dapuwei rose more than 10%.
-
----
-
-### 2026-07-31 09:29:22  #公司 #市場
-
-【元件板塊大幅高開】元件板塊大幅高開，風華高科、寶鼎科技、金安國紀、生益科技、華正新材漲停，三環集團、勝宏科技、南亞新材、科翔股份、生益電子、迅捷興、中富電路、威爾高漲超10%，景旺電子、泰晶科技、深南電路、東山精密、達利凱普跟漲。
-
----
-
-### 2026-07-31 09:29:01  #市場 #焦點
-
-中證500指數期貨連續主力合約日內漲3%，現報7514.80點。
-
----
-
-### 2026-07-31 09:29:01  #市場 #焦點
-
-滬深300指數期貨連續主力合約日內漲1%，現報4589.40點。
-
----
-
-### 2026-07-31 09:29:01  #市場 #焦點
-
-中證1000指數期貨連續主力合約日內漲3%，現報7110.00點。
-
----
-
-### 2026-07-31 09:28:36  #公司 #市場
-
-【PCB概念開盤活躍 金安國紀、華正新材雙雙漲停】PCB概念開盤活躍，金安國紀、華正新材雙雙漲停，南亞新材、勝宏科技、迅捷興漲超12%，生益科技漲停價開盤，滬電股份、鵬鼎控股、廣合科技高開。
-
----
-
-### 2026-07-31 09:28:25  #市場
-
-納斯達克期貨上漲超過1%；標普500期貨上漲0.4%。
-
----
-
-### 2026-07-31 09:27:59  #MKT News
-
-At the open on July 31 (Fri), China's Shanghai Composite Index rose 0.76% to 3,833.54 (up 28.84 pts); Shenzhen Composite Index rose 3.04% to 13,690 (up 404.19 pts); CSI 300 Index rose 1.63% to 4,623.85 (up 74.13 pts); ChiNext Index rose 5.15% to 3,411.61 (up 166.99 pts); STAR 50 Index rose 8.37% to 1,721.36 (up 132.95 pts).
-
----
-
-### 2026-07-31 09:27:55  #市場 #焦點
-
-玻璃連續主力合約日內漲2%，現報890.00元。
-
----
-
-### 2026-07-31 09:25:41  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
-
-At the A-share open, the Shanghai Composite was up 0.76%, the Shenzhen Composite Index up 3.04%, the ChiNext Index up 5.15% and the STAR 50 Index up 8.37%. Changxin C-shares opened more than 10% higher.
-
----
-
-### 2026-07-31 09:25:39  #Trading Economics #Markets #Commodity #Importance 1
-
-Gasoline Retreats Further — US gasoline futures fell below $3.10 per gallon, retreating further from the two-month high of $3.50 reached on July 23, as investors weighed improving shipping activity against ongoing geopolitical risks. Oil shipments from the Middle East picked up as more vessels left the Persian Gulf with transponders turned off, while two Saudi tankers crossed the Bab el-Mandeb Strait undetected. Additionally, Saudi Arabia proposed an international maritime coalition to protect key shipping routes, with representatives from 43 countries participating in talks to safeguard navigation in the Red Sea following the Iran-backed Houthis' announced blockade against the kingdom. In Russia, the government extended its diesel and gasoline export ban through January 2027 as fuel shortages persisted after Ukrainian drone strikes shut another crude distillation unit. Still, gasoline remained on track for a 5% monthly gain as exchanges of strikes between the US and Iran escalated earlier this month.
-
----
-
-### 2026-07-31 09:25:35  #公司 #市場 #焦點
-
-【儲存晶片大幅高開 兆易創新等多股競價漲停】早盤儲存晶片大幅高開，兆易創新、德明利、太極實業一字漲停，普冉股份、北京君正、佰維儲存、江波龍、大普微等多股漲超10%。
-
----
-
-### 2026-07-31 09:25:14  #焦點 #A股
-
-三大股指高開，滬指漲0.76％，深成指漲3.04％，創業板漲5.15％。
-
----
-
-### 2026-07-31 09:24:38  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australia Stocks Eye Fourth Monthly Rise — Australian shares advanced 34 points, or 0.4%, to 9,001 in early Friday trade, rebounding from the prior session’s weakness after Wall Street rallied overnight, as heavyweight chipmakers surged on renewed bets the AI-driven bull run still has legs. Gains were led by tech, non-energy minerals, industrial services, and utilities, though healthcare and consumer non-durables weighed. However, gains were capped by lingering caution over whether three rate hikes this year from the Reserve Bank will prove sufficient, with their full impact yet to filter through the economy. Standouts included BHP Group (2.4%), Lynas Rare Earths (4.7%), and Sandfire Resources (3.2%), while the big four banks added between 0.1% and 0.6%. Local markets are on track for weekly gains of more than 2%, reversing three straight weekly declines and setting up a fourth monthly rise. Momentum has been underpinned by easing inflation concerns and signs of resilience in manufacturing and services activity through July.
-
----
-
-### 2026-07-31 09:24:29  #公司
-
-【7月以來43只新基金延長募集 ETF佔比超六成】新基金髮行市場延長募集的情況明顯增多。資料顯示，7月以來共有54則基金延長募集期公告，涉及43只基金。其中，10只基金曾兩次及以上延長募集期。部分基金募集期延長幅度較大。華泰柏瑞中證港股通資訊科技綜合ETF的募集截止日由7月24日延至9月30日，延長68天；廣發穩致、貝萊德行業輪動量化選股的募集截止日均由7月31日延至8月31日。從產品型別看，43只基金中有26只為被動指數型基金，佔比超過六成，其中25只為ETF；此外還包括偏股混合型基金、普通股票型基金、偏債混合型基金及FOF等產品。
-
----
-
-### 2026-07-31 09:23:55  #其他
-
-中國地震臺網正式測定：07月31日08時58分在秘魯（南緯8.25度，西經74.15度）發生5.6級地震，震源深度150千米。
-
----
-
-### 2026-07-31 09:23:01  #央行 #中國央行
-
-央行今日開展1340億元人民幣7天期逆回購操作，利率1.40%。同時，開展了6000億元隔夜逆回購操作。
-
----
-
-### 2026-07-31 09:22:47  #央行 #其他
-
-央行公開市場今日淨投放450.0億元人民幣。
-
----
-
-### 2026-07-31 09:22:45  #MKT News #Important #Market Regions #Greater China #01347.HK #Impact bullish #00100.HK #02513.HK
-
-Hong Kong shares opened: Hang Seng Index down 0.08%, Hang Seng TECH up 0.3%. 01347.HK, 00100.HK and 02513.HK climbed more than 14%; Lenovo Group (00992.HK) and SMIC (00981.HK) rose over 8%.
-
----
-
-### 2026-07-31 09:22:41  #焦點
-
-港股恒指低開跌0.08％，國企指數跌0.24％，恒生科技指數漲0.3%。個股方面，中際旭創漲15%，長飛光纖光纜漲15%。
-
----
-
-### 2026-07-31 09:22:29  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #DXY #Impact bearish #S&P500
-
-PBOC conducted 134 bln yuan 7-day reverse repo (bids 134 bln; allotment 134 bln) at 1.40% and executed 600 bln yuan in overnight reverse repos.
 
 ---

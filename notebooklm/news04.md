@@ -1,7 +1,319 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-02 00:33:55_
-_本檔包含 3710 則快訊，約 673655 字_
+_更新時間：2026-08-02 01:38:04_
+_本檔包含 3734 則快訊，約 673780 字_
+
+---
+
+### 2026-07-29 08:21:13  #市場 #國際
+
+30年期日本國債收益率上漲1.0個基點，至3.990%。
+
+---
+
+### 2026-07-29 08:21:07  #國際
+
+【日本熊本地震2人死3人心肺停止 】據日本熊本縣政府訊息，截至日本時間今天（7月29日）早上7點，地震已造成2人死亡、3人處於心肺停止狀態，至少9人下落不明。
+
+---
+
+### 2026-07-29 08:21:00  #MKT News
+
+【C919 high-altitude variant makes maiden flight】China's first C919 high-altitude variant took off at 07:59 Beijing time from runway 4 at Shanghai Pudong International Airport for its maiden flight test.
+
+---
+
+### 2026-07-29 08:20:55  #其他
+
+【C919高原型首飛】今日7時59分，C919高原型首架機在上海浦東國際機場第四跑道起飛，開展首次飛行試驗。（大灣區之聲）
+
+---
+
+### 2026-07-29 08:20:25  #其他
+
+【昨日ETF資金整體淨流入253.31億元】據同花順iFinD資料顯示，7月28日，ETF資金整體淨流入253.31億元，股票型淨流入277.64億元，寬基型淨流入182.72億元。當日ETF資金淨流入榜單排名前3依次為：易方達創業板ETF（159915）淨流入68.56億元，華夏上證科創板50成份ETF（588000）淨流入37.97億元，華泰柏瑞滬深300ETF（510300）淨流入32.20億元。
+
+---
+
+### 2026-07-29 08:20:24  #MKT News #WTI #Impact bullish #Brent
+
+Iran's Press TV reports multiple explosions in the Al-Dair area of Basra province in southern Iraq.
+
+---
+
+### 2026-07-29 08:19:48  #市場 #國際
+
+10年期日本國債收益率持平，報2.775%。
+
+---
+
+### 2026-07-29 08:19:18  #其他
+
+SK海力士：目前沒有看到人工智慧投資放緩的跡象。
+
+---
+
+### 2026-07-29 08:19:02  #市場
+
+鎧俠股價上漲6.2%，愛德萬測試上漲6.1%，羅姆上漲2.5%。
+
+---
+
+### 2026-07-29 08:18:57  #MKT News #Market Themes #AI Revolution #SKHY.O #Impact bullish
+
+SK Hynix (SKHY.O) expects investment in AI infrastructure to remain robust.
+
+---
+
+### 2026-07-29 08:18:40  #其他
+
+海力士：預計人工智慧基礎設施投資仍將保持穩健。
+
+---
+
+### 2026-07-29 08:17:41  #公司 #國際
+
+【英矽智慧 ISM6331 獲美國 FDA 快速通道資格，用於晚期間皮瘤治療】英矽智慧早間公告，本公司董事會欣然宣佈，公司自主研發、由人工智慧技術賦能的潛在同類最優廣譜 TEAD 抑制劑 ISM6331，已獲美國食品藥品監督管理局（FDA）授予快速通道資格，適應症為成年不可切除惡性胸膜間皮瘤患者 —— 該類患者在經抗 PD-1 抗體單藥或聯合抗 CTLA-4 抗體、鉑類化療方案治療後病情仍出現進展。
+
+---
+
+### 2026-07-29 08:15:47  #MKT News #SKHY.O #Impact bullish
+
+SK Hynix (SKHY.O) expects shareholder returns to rise significantly.
+
+---
+
+### 2026-07-29 08:15:13  #其他
+
+【航行警告！渤海海峽及黃海執行軍事任務】據中國海事局網站訊息，大連海事局釋出航行警告，7月29日03時至15時，渤海海峽及黃海部分海域執行軍事任務，禁止駛入。
+
+---
+
+### 2026-07-29 08:14:55  #市場
+
+澳大利亞S&P/ASX 200指數上漲1%，至9038.50。
+
+---
+
+### 2026-07-29 08:14:29  #其他
+
+SK海力士：預計股東回報將實現顯著增長。
+
+---
+
+### 2026-07-29 08:14:18  #其他
+
+SK海力士：將能夠顯著提升股東回報。
+
+---
+
+### 2026-07-29 08:13:16  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+【CITIC Securities bullish on Tesla robots' mass production and applications】Chinese broker CITIC Securities says Tesla combines leading AI large‑model capabilities with scale manufacturing and ranks among leaders in the global embodied intelligence supply chain. The broker is bullish on the mass‑production and application prospects for Tesla robots. Optimus is set to enter a production phase and Cybercab testing is proceeding as planned. CITIC recommends monitoring core supply‑chain players.
+
+---
+
+### 2026-07-29 08:12:58  #國際
+
+【美軍稱伊朗革命衛隊試圖突襲】美軍中央司令部發布宣告稱，美國東部時間7月28日下午5點45分（伊朗時間7月29日凌晨1點15分，北京時間凌晨5點45分），伊朗伊斯蘭革命衛隊發射多枚彈道導彈，“試圖對部署在中東地區的美軍發動突然襲擊”。宣告稱，所有伊朗發射的導彈均已被成功攔截，未能擊中目標。駐中東美軍目前仍保持高度警戒，並維持高階別戰備狀態。 據美國“阿克西奧斯新聞網（Axios）”報道，伊朗伊斯蘭革命衛隊導彈的目標是約旦一處美軍基地。 對此目前伊朗方面暫無正式回應。
+
+---
+
+### 2026-07-29 08:12:09  #MKT News #Important #000660.KS #Impact bullish #005930.KS
+
+South Korea's KOSPI extended gains to 3%, SK Hynix rose 4% and Samsung Electronics gained nearly 6%.
+
+---
+
+### 2026-07-29 08:11:56  #市場 #焦點 #國際
+
+韓國綜合股價指數上漲3%，至6205.66。SK海力士漲4%，三星電子漲近6%。
+
+---
+
+### 2026-07-29 08:11:56  #MKT News
+
+Bank Indonesia said it will continue to strengthen measures to stabilize the rupiah to meet its inf target and support economic activity.
+
+---
+
+### 2026-07-29 08:11:21  #Trading Economics #Markets #Spain #Earnings #Importance 0
+
+Ferrovial earnings below expectations at 0.21 EUR — Ferrovial (FER) released earnings per share at 0.21 EUR, compared to market expectations of 0.25 EUR.
+
+---
+
+### 2026-07-29 08:11:20  #Trading Economics #Markets #Canada #Earnings #Importance 0
+
+Great West Lifeco earnings above expectations at 1.42 CAD — Great West Lifeco (GWO) released earnings per share at 1.42 CAD, compared to market expectations of 1.37 CAD.
+
+---
+
+### 2026-07-29 08:10:58  #觀點
+
+隨著人工智慧類股暴跌，高盛、摩根大通等銀行要求對沖基金提供更多抵押品。
+
+---
+
+### 2026-07-29 08:10:30  #MKT News
+
+Australian S&P/ASX 200 opened up 67.30 points (+0.75%) at 9,015.10 on Wednesday, July 29.
+
+---
+
+### 2026-07-29 08:10:25  #市場
+
+澳大利亞S&P/ASX 200指數早盤上漲0.8%，報9,020.30點。
+
+---
+
+### 2026-07-29 08:10:18  #市場
+
+香港置地預計，隨著香港商業房地產市場開始復甦，旗下寫字樓租金將在連續六年下跌後於2027年企穩，並於2028年恢復增長。首席財務官Craig Beattie接受採訪時表示，明年到期租約的續租租金預計將與現有水平大致相當，“這意味著我們在香港的辦公樓租金將持平並企穩”。
+
+---
+
+### 2026-07-29 08:09:49  #其他
+
+SK海力士：長期供應協議旨在抵禦儲存晶片價格波動。
+
+---
+
+### 2026-07-29 08:09:49  #MKT News #Market Themes #Chip Wars #SKHY.O #Impact bullish
+
+SK Hynix (SKHY.O) said memory supply tightness will persist for a prolonged period.
+
+---
+
+### 2026-07-29 08:09:37  #其他
+
+SK海力士：儲存晶片供應緊張局面將持續相當長一段時間。
+
+---
+
+### 2026-07-29 08:09:29  #央行 #國際
+
+印尼央行：繼續加強印尼盾穩定，以實現通脹目標並促進經濟活動。
+
+---
+
+### 2026-07-29 08:09:24  #央行 #國際
+
+印尼央行：仍致力於維護穩定，將此作為支援可持續經濟增長的首要前提。
+
+---
+
+### 2026-07-29 08:09:16  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Japan's Nikkei 225 was up 1.00% intraday.
+
+---
+
+### 2026-07-29 08:09:14  #Trading Economics #Markets #Netherlands #Earnings #Importance 0
+
+ASM International NV earnings above expectations at 5.96 EUR — ASM International NV (ASM) released earnings per share at 5.96 EUR, compared to market expectations of 5.06 EUR.
+
+---
+
+### 2026-07-29 08:09:10  #公司
+
+市場訊息：阿達尼集團有意收購英國相關港口公司的控股權。
+
+---
+
+### 2026-07-29 08:08:32  #公司 #觀點
+
+【中信證券：看好特斯拉機器人的量產和應用前景】中信證券指出，特斯拉兼具領先的AI大模型技術與規模化製造能力，公司位於全球具身智慧產業鏈頭部梯隊，堅定看好特斯拉機器人的量產和應用前景。特斯拉Optimus即將進入生產階段，Cybercab按計劃進行測試中。建議關注產業鏈核心玩家。
+
+---
+
+### 2026-07-29 08:08:14  #觀點
+
+【中信證券：AI驅動半導體產業資本開支上行，裝置開啟新一輪成長週期】中信證券研報稱，AI正成為本輪全球半導體產業週期的核心驅動力，帶動全球晶圓廠資本開支進入新一輪上行週期，先進邏輯以及先進儲存正形成擴產共振，半導體裝置行業景氣度由週期修復邁向結構性成長階段，中信證券預計2028年全球半導體裝置市場規模將超過2900億美元，而中國半導體產業景氣度將受益於AI與國產替代雙重催化，預計2028年中國半導體裝置市場規模有望接近1000億美元。在此背景下，中信證券建議重點關注兩條投資主線：1）具備全球競爭力，持續受益於先進製程及先進封裝擴產的國內裝置龍頭；2）國產替代持續推進，產品矩陣不斷完善, 先進製程驗證持續突破的國產零部件企業。
+
+---
+
+### 2026-07-29 08:08:11  #公司
+
+【中船集團與中核集團簽訂戰略合作框架協議】7月28日，中國船舶集團有限公司與中國核工業集團有限公司在上海簽署戰略合作框架協議。中船集團黨組書記、董事長徐鵬表示，希望以此次戰略合作框架協議簽訂為契機，聚焦裝備製造、綠色能源、科技創新等重點領域推動更高水平務實合作。
+
+---
+
+### 2026-07-29 08:08:05  #央行 #美聯儲
+
+【華泰證券：預計美聯儲7月加息機率略高於一半 9月前加息的機率接近100%】華泰證券指出，美聯儲新任主席凱文·沃什（KevinWarsh）上任後，金融市場對這位新主席政策取向的定價從此前的鴿派降息，轉為更偏鷹派的短期立場。但臨近7月議息會議，市場對聯儲下一步政策的預期卻極度分化。沃什廢除前瞻指引後，市場定價更為困難，而沃什和市場博弈焦點勢必從“聽其言”轉為“觀其行”。
+
+---
+
+### 2026-07-29 08:08:00  #MKT News #Market Themes #Chip Wars #SKHY.O #Impact bullish
+
+SK Hynix (SKHY.O): major customers continue to request increased memory supply.
+
+---
+
+### 2026-07-29 08:07:55  #其他
+
+SK海力士：主要客戶持續要求增加記憶體供應。
+
+---
+
+### 2026-07-29 08:07:41  #央行 #國際
+
+印尼央行：完善除政策利率以外的貨幣政策工具以穩定印尼盾。
+
+---
+
+### 2026-07-29 08:07:19  #公司 #市場
+
+永旺公司股價在東京下跌0.7%。
+
+---
+
+### 2026-07-29 08:06:42  #公司
+
+【邁威生物與SVAX就阿柏西普眼內注射溶液在海灣阿拉伯國家達成戰略合作】7月29日，邁威生物宣佈其與沙烏地阿拉伯生物製藥公司SVAXInc.（以下簡稱：SVAX）就9MW0813（阿柏西普眼內注射溶液，艾力雅®生物類似藥）達成許可協議。根據協議，雙方將就產品在海灣阿拉伯國家的註冊、生產和商業化展開深度合作。
+
+---
+
+### 2026-07-29 08:06:38  #MKT News
+
+South Korea's KOSPI rose as much as 2.00% intraday.
+
+---
+
+### 2026-07-29 08:06:33  #市場
+
+布倫特原油日內漲3%，現報84.55美元/桶。
+
+---
+
+### 2026-07-29 08:06:32  #國際
+
+截至日本時間凌晨4點更新，熊本永旺購物中心倒塌事故已造成3人死亡。
+
+---
+
+### 2026-07-29 08:06:12  #其他
+
+【日經225指數漲幅擴大至1%】日經225指數漲幅擴大至1%，現報62982.09點。
+
+---
+
+### 2026-07-29 08:05:43  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #XAUUSD #Impact bearish #S&P500
+
+【Huatai Macro: Slightly above 50% chance of Fed July rate hike】Huatai Macro says markets have shifted from pricing dovish cuts to a more hawkish near-term stance after Kevin Warsh’s appointment as Fed chair. With forward guidance abandoned, expectations are highly split and pricing is more difficult; focus will move from words to actions. Based on past chair transitions, the current macro backdrop and Warsh’s need to build credibility, Huatai assigns a slightly >50% probability of a July rate hike (versus the market’s ~40%) and sees a near-100% chance of a hike before September. From the new-chair/market interaction, the aggregate cost of hiking in July may be lower.
+
+---
+
+### 2026-07-29 08:05:16  #公司 #國際
+
+【韓國綜指漲幅擴大至2%】韓國綜指漲幅擴大至2%，現報6143.88點。個股方面，三星電子漲超4%，SK海力士漲超3%。
+
+---
+
+### 2026-07-29 08:05:13  #公司
+
+【中國融通集團與珠海市政府簽署政企合作協議】7月28日，中國融通集團與珠海市人民政府在北京簽署政企合作協議。根據協議，雙方將建立常態化工作機制，在新興產業、海島經濟、軍事文旅、酒店配套、存量資產盤活等領域開展深度合作。
 
 ---
 
@@ -22257,177 +22569,5 @@ FTSE MIB Edges Up — The FTSE MIB rose 0.5% to 52,055 on Monday, tracking a bro
 ### 2026-07-27 23:53:11  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
 
 European Stocks Inch Higher — European stocks closed slightly higher, outperforming North American counterparts with support from lower bond yields. The Euro STOXX 60 inched higher to 6,290 and the STOXX Europe 600 rose 0.2% to 645.6. Sovereign yields fell sharply as the momentary pause in strikes between Iran and the US reignited hopes of LNG and fuel exports from the region, limiting inflationary risks. Banks were sharply higher, with Santander and BNP Paribas adding over 2% while Intesa Sanapaolo rose 1% ahead of its earnings this week. Meanwhile, software producers jumped, tracking Wall Street counterparts ahead of AI hyperscaler earnings this week, with SAP soaring 7.8%. In turn, chip producers remained volatile and sold off after a series of circular investments by Nvidia added to concerns of overspending on the sector. ASML sank 8.4% and Infineon dropped 4.5%. Also, Argenx dropped 2.3% after buying Forte Biosciences for $2.2 billion.
-
----
-
-### 2026-07-27 23:52:55  #其他
-
-【法國政府：已抓獲162名涉嫌故意縱火人員】當地時間7月27日，法國總理塞巴斯蒂安·勒科爾尼表示，自7月6日以來，法國警方已抓獲162名涉嫌故意縱火人員。他強調，故意縱火屬於重罪，最高可判處15年有期徒刑。目前，法國安全部門正全力追查縱火嫌疑人，所有涉案人員都將被依法追究責任。（央視新聞）
-
----
-
-### 2026-07-27 23:52:11  #MKT News
-
-IRNA reported Pakistan's interior minister made an unannounced visit to Doha and met his Qatari counterpart to discuss security matters.
-
----
-
-### 2026-07-27 23:51:42  #其他
-
-據IRNA： 巴基斯坦內政部長突訪多哈，與卡達內政部長會晤磋商安全相關事宜。
-
----
-
-### 2026-07-27 23:51:42  #MKT News #WTI #Impact bullish #Brent
-
-The US has directed 17 commercial vessels to change course during its blockade of Iran.
-
----
-
-### 2026-07-27 23:50:55  #國際
-
-美國中央司令部：為確保各方遵守相關管控規定，中央司令部已勒令 17 艘商船改道、扣押 2 艘船舶並登臨檢查 2 艘船隻。
-
----
-
-### 2026-07-27 23:50:40  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
-
-Amazon said AWS has launched the AWS Healthomics service in the Asia Pacific (Tokyo) region.
-
----
-
-### 2026-07-27 23:50:10  #MKT News #Important #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #NVIDIA #AMD.O #Impact bearish #NVDA.O #INTC.O
-
-【US chip stocks slide; Philadelphia Semiconductor Index down about 5%】US chip stocks are down; the Philadelphia Semiconductor Index is down about 5%. AMD (AMD.O) is down more than 8%, NVIDIA (NVDA.O) is down more than 7%, Intel (INTC.O) is down about 4%.
-
----
-
-### 2026-07-27 23:48:18  #公司
-
-亞馬遜：AWS 於亞太（東京）區域推出 AWS HealthOmics 服務。
-
----
-
-### 2026-07-27 23:47:52  #MKT News
-
-UK Prime Minister Burnham seeks stronger defense cooperation with Kuwait.
-
----
-
-### 2026-07-27 23:47:37  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Gains as Oil Prices Retreat — The CAC 40 rose 0.4% to close at 8,406 on Monday as a pause in US-Iran hostilities over the weekend sent oil prices lower. Crude prices fell after both countries halted strikes amid renewed diplomatic efforts, with President Donald Trump reportedly open to restarting peace talks. The decline in oil prices eased energy-driven inflation concerns, supporting the broader market. Financials led the gains, with BNP Paribas up 2.1% and AXA adding 1.2%. Luxury stocks also advanced amid lower risk aversion ahead of upcoming earnings, with LVMH up 0.9%, L'Oréal gaining 0.7%, Hermès rising 1.7%, and Kering adding 1.3%. Safran (+1.6%), Air Liquide (+0.7%), Airbus (+1.6%), EssilorLuxottica (+1.7%), and Danone (+1.4%) are also due to report earnings this week. Meanwhile, TotalEnergies fell 1.7% on lower oil prices, while Engie (-2.5%) and STMicroelectronics (-1.7%) were among the session's biggest laggards.
-
----
-
-### 2026-07-27 23:46:31  #市場
-
-費城半導體指數下跌 4.7%，ARM下跌 2.7%，西部資料下跌 6.6%，美光科技下跌 5.6%。
-
----
-
-### 2026-07-27 23:46:21  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #EURUSD #Impact bearish #WTI
-
-【Capital Economics: Fed policy may diverge from ECB and BoE by 2027】Capital Economics economist Neil Shearing said in a note markets price just over 50bps of tightening for the Fed, the Bank of England and the European Central Bank by mid-2027, but policy paths could start to diverge as soon as next year. He said an end to the Iran conflict would likely push energy prices lower, leaving domestic fundamentals as the main driver of policy; underlying inflation pressures in the UK and euro area are weak, while the US faces a stronger inflation backdrop and fiscal policy remains relatively loose. Shearing added it is increasingly hard to justify market-implied tightening for the ECB and BoE, whereas the Fed may resume tightening sooner.
-
----
-
-### 2026-07-27 23:46:10  #MKT News
-
-UK Prime Minister Burnham said he wants to strengthen defence ties with Qatar.
-
----
-
-### 2026-07-27 23:45:50  #公司 #國際
-
-LVMH集團（路易威登母公司）二季度時裝與皮草有機銷售增長1%，分析師預期增長1.52%。
-二季度有機營收增長3%，分析師預期增長2.32%。
-二季度美國有機營收增長6%，分析師預期增長4%。
-二季度亞洲（剔除日本）有機增長4%，分析師預期增長4.6%。
-二季度紅酒與烈酒有機銷售增長5%，分析師預期下滑1.94%。
-
----
-
-### 2026-07-27 23:45:36  #其他
-
-米其林上半年營收126.9億歐元，分析師預期127.4億歐元。上半年淨利潤7.66億歐元，分析師預期9.77億歐元。確認全年業績指引。
-
----
-
-### 2026-07-27 23:44:17  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bearish #Nasdaq100
-
-NVIDIA (NVDA.O) extends losses to 5%.
-
----
-
-### 2026-07-27 23:43:50  #其他
-
-英偉達股價跌幅擴大至5%。
-
----
-
-### 2026-07-27 23:41:47  #國際
-
-伊朗外長：伊朗已證明本國絕不會向美國的霸凌行徑低頭。
-
----
-
-### 2026-07-27 23:41:17  #MKT News
-
-Armenian government said the prime minister asked Russian President Putin to resolve Moscow's export restrictions on Armenia.
-
----
-
-### 2026-07-27 23:40:49  #國際
-
-亞美尼亞總理請求俄羅斯總統普京解決俄方限制亞美尼亞出口相關問題。
-
----
-
-### 2026-07-27 23:39:45  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX 40 Rises Toward 3-Week High — The DAX 40 rose more than 1% to above 25,400 on Monday, the highest in nearly three weeks, as improving US-Iran relations, weaker oil prices and falling bond yields boosted investor sentiment. The decline in energy prices eased inflation concerns and reduced expectations for additional monetary tightening ahead of a busy week of central bank decisions and major technology earnings. SAP led the gains, jumping more than 7% after launching the second phase of its €10 billion share buyback programme and extending the positive momentum following stronger-than-expected second-quarter results. Deutsche Telekom (+2.6%) and Rheinmetall (+1.3%) also gained. In contrast, Infineon dropped 4.5% after ASML shares declined following reports that a Chinese state-backed company is developing chipmaking equipment that could challenge its market position. Lower energy prices weighed on Siemens Energy (-2%) and E.ON (-2.5%).
-
----
-
-### 2026-07-27 23:39:06  #MKT News
-
-UK Prime Minister Burnham phoned the UAE president and expressed intent to deepen UK‑UAE trade ties.
-
----
-
-### 2026-07-27 23:38:15  #MKT News
-
-The Armenian government said Russian President Putin spoke by phone with Armenian Prime Minister Pashinyan.
-
----
-
-### 2026-07-27 23:38:14  #國際
-
-亞美尼亞政府訊息：俄羅斯總統普京與亞美尼亞總理通電話。
-
----
-
-### 2026-07-27 23:37:22  #其他
-
-英國首相伯納姆：希望加強英國與阿聯酋的貿易往來。
-
----
-
-### 2026-07-27 23:37:00  #國際
-
-【以色列前高官發聯名信警告約旦河西岸局勢或升級】約600名以色列軍方、警方、國家安全總局以及情報和特勤局前高階官員聯合致信美國總統特朗普，呼籲美方敦促以色列政府遏制約旦河西岸日益加劇的定居者暴力，並警告當地局勢可能導致衝突升級。聯名信指出，約旦河西岸的衝突可能進一步升級，不斷增加的暴力活動正在“危及以色列安全、美國利益和地區穩定”。這些前官員還在聯名信中警告稱，局勢進一步惡化所造成的後果，甚至可能比2023年10月7日新一輪巴以衝突及此後以色列面對的多線衝突“更具災難性”。（新華社）
-
----
-
-### 2026-07-27 23:36:56  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
-
-European equities closed higher on Monday July 27: Germany's DAX rose 280.47 points (1.12%) to 25,372.16; the FTSE 100 rose 46.56 points (0.43%) to 10,782.79; France's CAC 40 rose 33.78 points (0.40%) to 8,406.06; the Euro Stoxx 50 rose 3.41 points (0.05%) to 6,284.35; Spain's IBEX 35 rose 157.21 points (0.80%) to 19,742.91; Italy's FTSE MIB rose 253.77 points (0.49%) to 52,056.00.
-
----
-
-### 2026-07-27 23:35:48  #國際
-
-【中國駐吉達總領館再次提醒在沙特中資機構和中國公民注意安全】中國駐吉達總領館釋出提醒稱，連日來，沙特多地遭導彈和無人機攻擊，數艘沙特運營的船隻在紅海航行時遭襲，部分地區航班受到影響，局勢還有可能進一步惡化。中國駐吉達總領館再次提醒在沙中資機構和中國公民密切關注沙特和中東地區形勢發展，採取必要措施切實加強安全防範，及時避險。不要拍攝軍事行動，不傳播未經證實的訊息。有乘飛機或輪船出行計劃的旅客請與有關航司保持密切聯絡，以免影響行程。如遇緊急情況，請及時報警並聯系駐沙使領館。
 
 ---
