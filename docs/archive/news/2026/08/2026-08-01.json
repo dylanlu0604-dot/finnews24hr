@@ -1,7 +1,40 @@
 {
   "date": "2026-08-01",
-  "count": 915,
+  "count": 918,
   "items": [
+    {
+      "id": "mkt:019fbcfd-d379-7aab-8f41-ecc97b045d7b",
+      "time": "2026-08-01 19:02:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Zelenskiy said Ukraine's SBU struck infrastructure at three Russian oil refineries in Bashkortostan."
+    },
+    {
+      "id": "mkt:019fbcfd-be8d-7aab-8f41-e365d145eb17",
+      "time": "2026-08-01 19:02:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran military says it recently deployed new drones】Iranian media reported on Aug. 1 that Iran army spokesman Akraminia said Tehran has recently deployed a new type of drone and will publish details in coming days. He said the drones’ range is sufficient to reach US bases across the Middle East. Akraminia added that, given past US behavior on agreements, Iran expects memoranda of understanding could be torn up and that conflict could resume, and that Iran never trusted US commitments in such memoranda."
+    },
+    {
+      "id": "5020399",
+      "time": "2026-08-01 19:02:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐巴格達大使館和駐埃爾比勒總領事館週六敦促在伊拉克的美國公民保持高度警惕，並考慮離開中東，或做好在局勢進一步升級時撤離的準備。安全警報警告稱，航班可能取消，空域可能關閉，伊朗及其盟友可能襲擊美國利益。警報還指出，美國駐伊拉克使團仍然開放，但已接到撤離命令。"
+    },
     {
       "id": "5020397",
       "time": "2026-08-01 18:59:42",

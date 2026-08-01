@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-01 19:01:22",
-  "count": 18033,
+  "updated": "2026-08-01 19:05:51",
+  "count": 18034,
   "items": [
+    {
+      "id": "mkt:019fbcfd-d379-7aab-8f41-ecc97b045d7b",
+      "time": "2026-08-01 19:02:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Zelenskiy said Ukraine's SBU struck infrastructure at three Russian oil refineries in Bashkortostan."
+    },
+    {
+      "id": "mkt:019fbcfd-be8d-7aab-8f41-e365d145eb17",
+      "time": "2026-08-01 19:02:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran military says it recently deployed new drones】Iranian media reported on Aug. 1 that Iran army spokesman Akraminia said Tehran has recently deployed a new type of drone and will publish details in coming days. He said the drones’ range is sufficient to reach US bases across the Middle East. Akraminia added that, given past US behavior on agreements, Iran expects memoranda of understanding could be torn up and that conflict could resume, and that Iran never trusted US commitments in such memoranda."
+    },
+    {
+      "id": "5020399",
+      "time": "2026-08-01 19:02:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐巴格達大使館和駐埃爾比勒總領事館週六敦促在伊拉克的美國公民保持高度警惕，並考慮離開中東，或做好在局勢進一步升級時撤離的準備。安全警報警告稱，航班可能取消，空域可能關閉，伊朗及其盟友可能襲擊美國利益。警報還指出，美國駐伊拉克使團仍然開放，但已接到撤離命令。"
+    },
     {
       "id": "5020397",
       "time": "2026-08-01 18:59:42",
@@ -166909,22 +166942,6 @@
         "國際"
       ],
       "text": "【伊朗公佈打擊美亞馬遜公司衛星影象】伊朗法爾斯通訊社今天（7月25日）釋出了伊朗導彈擊中亞馬遜位於巴林的資料中心第三棟建築的衛星影象。當地時間22日，伊朗伊斯蘭革命衛隊宣佈襲擊了位於巴林境內的亞馬遜資料中心的核心基礎設施，並稱該設施是與美國軍方交換敏感資訊的主要節點之一。（CCTV國際時訊）"
-    },
-    {
-      "id": "5007953",
-      "time": "2026-07-25 19:05:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【高德掃街榜聯合九城釋出“城市書香地圖”】阿里旗下高德聯合九座城市共同釋出了全國首批“城市書香地圖”，覆蓋北京、上海、廣州、長沙、長春、成都、西安、杭州、南寧9座城市。城市書香地圖由“書香地圖掃街榜”、“書店飛行街景”、聯合作家發起的“遛遛書店閱讀行動”三個部分構成，為9城400餘家實體書店建立榜單。"
-    },
-    {
-      "id": "5007952",
-      "time": "2026-07-25 19:02:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風致廣東多機場大面積取消或延誤】受颱風“紅霞”及其外圍環流影響，7月25日，廣東、福建、湖南、湖北、四川、重慶等多地機場釋出雷雨天氣預警。其中，廣東多個機場出現不同程度的航班延誤和取消情況。 航旅縱橫民航官方直銷平臺大資料顯示，截至25日18:15，深圳寶安機場、珠海金灣機場大面積延誤，最高延誤比例達93%；惠州平潭機場大面積取消，揭陽潮汕機場小面積取消。（第一財經）"
     }
   ]
 }
