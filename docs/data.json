@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-02 02:40:35",
-  "count": 18032,
+  "updated": "2026-08-02 02:44:25",
+  "count": 18031,
   "items": [
+    {
+      "id": "mkt:019fbea3-6b6c-7aab-8f43-62479732967a",
+      "time": "2026-08-02 02:43:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK prime minister Burnham: Devolution plan to pave way for a written constitution】UK prime minister Burnham said his sweeping devolution package unveiled this week will \"strengthen the case for a written constitution.\" The blueprint, billed as a \"new model of government,\" goes further than earlier proposals by shifting large swathes of public spending control and local tax powers from Whitehall and independent bodies to mayors and other local leaders. Authorities would gain control over local transport, housing, innovation, energy, cultural investment and skills, plus greater oversight of policing and healthcare; they would receive a share of income tax revenue starting in 2028."
+    },
     {
       "id": "5020556",
       "time": "2026-08-02 02:38:59",
@@ -166950,22 +166958,6 @@
         "國際"
       ],
       "text": "【伊朗近半年原油創收超180億美元，完成年度預算六成收入】伊朗石油部長穆赫森·帕克內賈德表示，自2月28日戰事爆發以來，伊朗石油銷售收入達115億美元；停火階段石油銷售額為65億美元。帕克內賈德補充說明，本次停火始於4月7日，7月10日宣告結束。即便遭遇戰事與制裁衝擊，伊朗石油營收仍完成年度預算石油收入預期目標的六成以上。"
-    },
-    {
-      "id": "5008113",
-      "time": "2026-07-26 02:40:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特駐美大使：《華爾街日報》有關科威特參與打擊伊朗軍事行動的報道毫無依據。"
-    },
-    {
-      "id": "5008112",
-      "time": "2026-07-26 02:40:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特駐美大使：科威特未參與任何針對伊朗的軍事行動。"
     }
   ]
 }

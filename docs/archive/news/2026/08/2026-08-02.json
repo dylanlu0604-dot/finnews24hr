@@ -1,7 +1,15 @@
 {
   "date": "2026-08-02",
-  "count": 56,
+  "count": 57,
   "items": [
+    {
+      "id": "mkt:019fbea3-6b6c-7aab-8f43-62479732967a",
+      "time": "2026-08-02 02:43:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK prime minister Burnham: Devolution plan to pave way for a written constitution】UK prime minister Burnham said his sweeping devolution package unveiled this week will \"strengthen the case for a written constitution.\" The blueprint, billed as a \"new model of government,\" goes further than earlier proposals by shifting large swathes of public spending control and local tax powers from Whitehall and independent bodies to mayors and other local leaders. Authorities would gain control over local transport, housing, innovation, energy, cultural investment and skills, plus greater oversight of policing and healthcare; they would receive a share of income tax revenue starting in 2028."
+    },
     {
       "id": "5020556",
       "time": "2026-08-02 02:38:59",
