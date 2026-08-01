@@ -1,7 +1,27 @@
 {
   "date": "2026-08-02",
-  "count": 37,
+  "count": 39,
   "items": [
+    {
+      "id": "5020543",
+      "time": "2026-08-02 01:51:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國官員稱，伊朗方面近日舉動極具挑釁性。"
+    },
+    {
+      "id": "mkt:019fbe73-2019-7aab-8f43-3be1241cddc4",
+      "time": "2026-08-02 01:50:43",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The UAE foreign ministry said Iran's aggressive attack openly violated Kuwait's sovereignty and threatened its security and stability."
+    },
     {
       "id": "mkt:019fbe6f-a129-7aab-8f43-301a878fad65",
       "time": "2026-08-02 01:46:54",

@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-02 01:50:04",
+  "updated": "2026-08-02 01:54:02",
   "count": 18028,
   "items": [
+    {
+      "id": "5020543",
+      "time": "2026-08-02 01:51:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國官員稱，伊朗方面近日舉動極具挑釁性。"
+    },
+    {
+      "id": "mkt:019fbe73-2019-7aab-8f43-3be1241cddc4",
+      "time": "2026-08-02 01:50:43",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The UAE foreign ministry said Iran's aggressive attack openly violated Kuwait's sovereignty and threatened its security and stability."
+    },
     {
       "id": "mkt:019fbe6f-a129-7aab-8f43-301a878fad65",
       "time": "2026-08-02 01:46:54",
@@ -166913,22 +166933,6 @@
         "國際"
       ],
       "text": "市場資訊：特朗普堅持要求沙特加入《亞伯拉罕協議》，以此作為美方批准沙特開展民用核專案交易的前提條件。"
-    },
-    {
-      "id": "mkt:019f9a69-63ef-7aab-8e96-38f6afaf13cd",
-      "time": "2026-07-26 01:53:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【HKO reissues Tropical Cyclone Warning Signal No.9】The HKO early this morning reissued the No.9 gale-or-storm signal. The No.9 or higher tropical cyclone warning is expected to remain in force at least until 7:00 a.m. HKT."
-    },
-    {
-      "id": "5008105",
-      "time": "2026-07-26 01:51:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港天文臺改發“九號風球”】7月26日凌晨1時10分，香港天文臺改發九號烈風或暴風風力增強訊號（即“九號風球”）。"
     }
   ]
 }
