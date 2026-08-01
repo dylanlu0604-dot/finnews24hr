@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-01 23:59:31",
-  "count": 18030,
+  "updated": "2026-08-02 00:04:15",
+  "count": 18032,
   "items": [
+    {
+      "id": "5020520",
+      "time": "2026-08-02 00:02:15",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美政府建議中東地區美國公民做好撤離準備】當地時間8月1日，美國國務院向身處中東地區的美國公民發出廣泛安全警告，建議他們“考慮離開當地，或做好在局勢升級時迅速撤離的準備”。據此前訊息，美國官員透露，華盛頓正考慮最快於本週末對伊朗發動新一輪軍事打擊。與此同時，伊朗方面也稱，將進一步打擊那些允許美軍駐紮軍事基地的國家。"
+    },
+    {
+      "id": "mkt:019fbe0e-8bee-7aab-8f42-c53209aaa6b9",
+      "time": "2026-08-02 00:00:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US CENTCOM says CH-47 Chinook prepared to land in Middle East】CENTCOM said on Aug. 1 a US Army CH-47 Chinook heavy‑lift transport helicopter was prepared to land in the Middle East. The CH-47 Chinook is a heavy transport helicopter capable of moving personnel, equipment and materiel in combat and complex environments."
+    },
+    {
+      "id": "5020519",
+      "time": "2026-08-02 00:00:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版實時資料，截至8月2日0時0分，影片《蜘蛛俠：嶄新之日》票房突破7億。"
+    },
     {
       "id": "5020518",
       "time": "2026-08-01 23:58:20",
@@ -166933,14 +166959,6 @@
         "AI Revolution"
       ],
       "text": "【APEC issues chair's statement from High-Level Roundtable on Data for Growth】The 2026 APEC High-Level Roundtable on Data for Growth met in Chengdu on the 25th and issued a Chair’s Statement focused on data’s role in promoting innovation, raising productivity and driving economic growth, and outlining future cooperation priorities. The statement, citing rapid advances in digital technology and AI, calls for APEC data cooperation to shift from “managing data” to “using data,” moving beyond a primary focus on privacy protection and cross-border flow rules to, while safeguarding security, cover the full chain of data supply, flow, application and value creation to enable growth."
-    },
-    {
-      "id": "5008082",
-      "time": "2026-07-26 00:03:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《APEC資料促進增長高階別圓桌會主席宣告》釋出】2026年亞太經合組織（APEC）資料促進增長高階別圓桌會25日在成都舉行。會議形成併發布了《APEC資料促進增長高階別圓桌會主席宣告》，宣告聚焦發揮資料在促進創新、提升生產率和推動經濟增長中的重要作用，總結了本次會議關於“資料促進增長”的主要討論內容，提出了未來的合作方向。（新華社）"
     }
   ]
 }
