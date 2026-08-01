@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-01 22:47:48",
-  "count": 18032,
+  "updated": "2026-08-01 22:51:54",
+  "count": 18031,
   "items": [
+    {
+      "id": "5020498",
+      "time": "2026-08-01 22:50:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐足聯要求因凡蒂諾辭職】8月1日，歐足聯已要求國際足聯主席因凡蒂諾辭職。若其拒絕，歐足聯準備對他發起不信任投票。據悉，這需要國際足聯211個成員國中的43個國家投票支援，而歐足聯擁有55個成員國。 稍早前，在沒有與各大洲足聯溝通的情況下，國際足聯決定推出世界盃股份出售計劃。隨後，歐足聯、亞足聯以及中北美足聯公開批評這一計劃，其中，歐足聯表示一旦國際足聯推行這一計劃，將拒絕參加世界盃在內的國際足聯賽事。 面對巨大壓力，國際足聯宣佈放棄這一計劃。因凡蒂諾表示：“該計劃已引發的分歧程度，無論支援力度如何，都已不再符合最初設定目標的利益。”"
+    },
     {
       "id": "5020497",
       "time": "2026-08-01 22:47:07",
@@ -166939,29 +166947,6 @@
         "公司"
       ],
       "text": "【颱風對深圳機場執行影響較大 各航司將調減明日午前航班計劃】根據颱風“紅霞”影響評估，預計7月26日凌晨至上午為颱風對機場執行影響較強時段。為確保執行安全，深圳機場計劃於7月25日晚24時前完成當日進出港航班執行，7月26日上午至中午時段的航班計劃，各航司將根據天氣影響進行集中調減，具體航班調整情況，請聯絡購票航空公司查詢瞭解。"
-    },
-    {
-      "id": "mkt:019f99c0-e646-7aab-8e95-af26f7c8deed",
-      "time": "2026-07-25 22:49:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【CSC Financial sees favorable investment outlook for power equipment sector】CSC Financial research says Chinese power-equipment exporters are entering a golden growth period. Transformer demand in the US and Europe is the largest globally and remains highly buoyant amid tight supply; Chinese firms’ North America exports are growing rapidly and should continue to gain share. The report expects sustained high demand in developed markets, rising demand in the Middle East and other non-US markets, and a shift of global capacity toward US/EU procurement — creating further opportunities for Chinese exporters. Top exporters are continuing to deliver on fundamentals, with strong market expectations being realised."
-    },
-    {
-      "id": "5008061",
-      "time": "2026-07-25 22:49:42",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投：看好電力裝置產業投資前景】中信建投研報表示，中國電力裝置出海迎來黃金髮展期。分市場來看，美歐市場對變壓器需求規模全球領先，需求持續高景氣而供需偏緊，中國企業北美出海保持高增長，有望持續提升市場滲透率。我們預計，歐美市場需求持續高景氣；中東等非美市場需求增加+歐美虹吸全球產能的背景下，中國企業將大有可為。出口頭部公司持續兌現基本面，強預期持續照進現實。"
     }
   ]
 }
