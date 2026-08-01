@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-02 00:04:15",
-  "count": 18032,
+  "updated": "2026-08-02 00:09:33",
+  "count": 18034,
   "items": [
+    {
+      "id": "5020523",
+      "time": "2026-08-02 00:05:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "以軍宣佈在阿里塔希爾高地擊殺多名真主黨人員。"
+    },
+    {
+      "id": "5020522",
+      "time": "2026-08-02 00:05:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國媒體：20歲及以上美國男性勞動參與率降至66%，2006年該數值為73%。"
+    },
+    {
+      "id": "5020521",
+      "time": "2026-08-02 00:04:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：伊朗疑似發動網路攻擊，目標波及美國至少七個州的供水系統。"
+    },
     {
       "id": "5020520",
       "time": "2026-08-02 00:02:15",
@@ -166949,16 +166973,6 @@
         "其他"
       ],
       "text": "目擊者釋出影片顯示：一架俄軍蘇-35S戰鬥機正在列寧格勒州上空追擊獵殺烏軍FP-1無人機。交戰結果未知。"
-    },
-    {
-      "id": "mkt:019f9a08-97a5-7aab-8e95-b8807b9cf753",
-      "time": "2026-07-26 00:08:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【APEC issues chair's statement from High-Level Roundtable on Data for Growth】The 2026 APEC High-Level Roundtable on Data for Growth met in Chengdu on the 25th and issued a Chair’s Statement focused on data’s role in promoting innovation, raising productivity and driving economic growth, and outlining future cooperation priorities. The statement, citing rapid advances in digital technology and AI, calls for APEC data cooperation to shift from “managing data” to “using data,” moving beyond a primary focus on privacy protection and cross-border flow rules to, while safeguarding security, cover the full chain of data supply, flow, application and value creation to enable growth."
     }
   ]
 }
