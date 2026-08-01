@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-01 21:00:31",
-  "count": 18044,
+  "updated": "2026-08-01 21:08:16",
+  "count": 18045,
   "items": [
+    {
+      "id": "5020476",
+      "time": "2026-08-01 21:06:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本熊本地區發生4.7級地震】據日本氣象廳訊息，當地時間8月1日21時47分左右，熊本地區發生4.7級地震，最大震感為震度5弱，震源深度10公里。"
+    },
+    {
+      "id": "mkt:019fbd6f-1c84-7aab-8f42-6e74beaeded4",
+      "time": "2026-08-01 21:06:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS reported a M4.9 earthquake 3 km west of Matsuse, Japan, at a depth of 10.0 km."
+    },
+    {
+      "id": "5020475",
+      "time": "2026-08-01 21:06:28",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美財長稱正在全球範圍內追查伊朗資產】當地時間7月31日，美國財政部長貝森特在參加馬里蘭州戴維營舉行的內閣會議期間表示，按照特朗普總統的指示，財政部持續對伊朗展開經濟攻勢，並且正在全球範圍內追查伊朗資產。他還特意在特朗普面前羅列對伊朗的所謂“經濟戰果”：2025年3月推進相關行動後，當年年底伊朗最大民營銀行宣告破產，伊朗央行被迫大量印鈔，不斷推高通脹，貝森特聲稱，如今伊朗甚至無力支付軍餉。這番言論立刻引來網友質疑和吐槽。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fbd6a-5661-7aab-8f42-6675cd707100",
+      "time": "2026-08-01 21:01:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reported that Bani Hayyan in southern Lebanon was shelled."
+    },
     {
       "id": "5020471",
       "time": "2026-08-01 20:57:24",
@@ -167028,32 +167062,6 @@
         "Impact bearish"
       ],
       "text": "A Russia-appointed governor said the death toll from an attack on a holiday camp in the Russian-controlled area of Ukraine's Zaporizhzhia region has risen to 11, including four children."
-    },
-    {
-      "id": "mkt:019f9962-41df-7aab-8e95-473e022727e4",
-      "time": "2026-07-25 21:06:21",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【Heatwave scorches central U.S., raises electricity demand】A heatwave from the Rockies to the Mississippi Valley is pushing south toward the Gulf Coast and increasing strain on regional power grids and cooling demand. The NWS has extended extreme-heat warnings from Montana to Texas, including Dallas where highs are forecast near 100°F (38°C) through at least next Wednesday and heat index values could reach about 107°F. A separate hot dome covers Southern California and Arizona; Phoenix highs may reach 117°F. A senior branch forecaster at the Weather Prediction Center said the pattern is fairly persistent, likely into next week, with only minor day-to-day variation and overall persistence through the end of the month."
-    },
-    {
-      "id": "5008012",
-      "time": "2026-07-25 21:02:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“紅霞”即將登陸 港珠澳大橋橋樑航道交通管制再升級】受“紅霞”臺前颮線影響，港珠澳大橋水域出現10~11級陣風。為保障通航安全，港珠澳大橋海事局於25日18時起升級港珠澳大橋橋樑航道臨時交通管制措施，管制期間禁止所有船舶透過港珠澳大橋橋樑航道。目前，港珠澳大橋海事局已進入防颱應急狀態，持續跟蹤轄區天氣及水文變化，及時釋出安全預警資訊，並將根據風力情況動態調整管制措施。港珠澳大橋海事局提醒有關航運企業及船舶全面落實各項防颱措施，確保人民生命財產安全。"
-    },
-    {
-      "id": "5008011",
-      "time": "2026-07-25 21:02:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年上半年義烏聖誕用品出口達21.4億元】據義烏海關統計，今年上半年義烏聖誕用品出口達21.4億元，同比增長20.4%。（央視財經）"
     }
   ]
 }
