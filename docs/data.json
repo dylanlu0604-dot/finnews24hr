@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-02 01:02:18",
-  "count": 18030,
+  "updated": "2026-08-02 01:06:14",
+  "count": 18031,
   "items": [
+    {
+      "id": "mkt:019fbe49-f64e-7aab-8f43-095a2d3ba7aa",
+      "time": "2026-08-02 01:05:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pulte said that after discussions with President Trump and Jay Clayton, the handover of the Director of National Intelligence (DNI) is scheduled for Monday."
+    },
+    {
+      "id": "5020534",
+      "time": "2026-08-02 01:04:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國代理國家情報總監普爾特：與特朗普、克萊頓磋商後，國家情報總監交接定於下週一開展。"
+    },
+    {
+      "id": "mkt:019fbe48-15b5-7aab-8f43-0111cf0bc0fb",
+      "time": "2026-08-02 01:03:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Israel's Channel 13 reported senior Israeli officials say they expect Trump to soon order a resumption of fighting. Israel has moved to highest alert."
+    },
     {
       "id": "mkt:019fbe45-cdcb-7aab-8f42-fb477db6075c",
       "time": "2026-08-02 01:01:13",
@@ -166930,24 +166958,6 @@
         "Impact bearish"
       ],
       "text": "Islamic Revolutionary Guard Corps (IRGC) spokesman said its forces destroyed 11 U.S. fighter jets and helicopters over 15 days of fighting."
-    },
-    {
-      "id": "5008094",
-      "time": "2026-07-26 01:05:47",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場資訊：美國特種部隊正籌備突襲行動，意圖奪取伊朗濃縮鈾。"
-    },
-    {
-      "id": "5008093",
-      "time": "2026-07-26 01:05:10",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "訊息人士：阿曼與伊朗的會談取得進展，可能於週末達成協議。"
     }
   ]
 }
