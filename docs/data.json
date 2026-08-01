@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-02 03:55:00",
-  "count": 18023,
+  "updated": "2026-08-02 03:59:03",
+  "count": 18025,
   "items": [
+    {
+      "id": "mkt:019fbee7-042d-7aab-8f43-9fac1d18489b",
+      "time": "2026-08-02 03:57:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shooting in Rochester, New York kills one】In the early hours of Aug 1 local time, a shooting in Rochester, New York killed one woman and wounded three others. Police said they are investigating leads and searching for the suspect."
+    },
+    {
+      "id": "5020569",
+      "time": "2026-08-02 03:57:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國紐約州羅切斯特發生槍擊事件 1人死亡】當地時間8月1日凌晨，美國紐約州羅切斯特發生一起槍擊事件，造成1名女子死亡、3人受傷。警方表示目前仍在調查案件線索，尋找嫌疑人。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fbee5-225e-7aab-8f43-944d6c251144",
+      "time": "2026-08-02 03:55:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's foreign minister warned in separate calls with Turkey's foreign minister and Pakistan's army chief that the United States must not take any \"adventurous actions\"."
+    },
     {
       "id": "5020568",
       "time": "2026-08-02 03:53:48",
@@ -166882,14 +166911,6 @@
         "焦點"
       ],
       "text": "【颱風“紅霞”在廣東惠州登陸 中心附近最大風力14級】中央氣象臺訊息，今年第12號颱風“紅霞”（強颱風級）的中心已於26日03時50分前後在廣東省惠州市惠東縣平海鎮登陸，登陸時中心附近最大風力有14級（45米/秒），中心最低氣壓955百帕。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f9ada-3f3a-7aab-8e96-c3ef3ca983a3",
-      "time": "2026-07-26 03:57:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran says new hostilities stem from US breach of Strait of Hormuz transit agreement】A spokesman for the Islamic Revolutionary Guard Corps said the latest round of hostilities resulted from a US breach of an agreement on passage through the Strait of Hormuz. He said the deal required transit to follow Iran’s rules but the US announced an alternative transit route; after that alleged breach the IRGC blocked vessels and struck ships it judged to be violating the terms. The spokesman said Iran had expected the US to resume compliance but that the US instead attacked Iranian coastlines, islands and some radars. He added the IRGC’s strikes were intended to compel US compliance and that it had launched Operation \"Victory 2\"."
     }
   ]
 }
