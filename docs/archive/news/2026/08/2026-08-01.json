@@ -1,7 +1,47 @@
 {
   "date": "2026-08-01",
-  "count": 706,
+  "count": 710,
   "items": [
+    {
+      "id": "mkt:019fbbd4-e4bf-7aab-8f40-23f5d1fbbabb",
+      "time": "2026-08-01 13:38:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Ministry of Water Resources activates level‑IV flood‑defense emergency for Heilongjiang】The Ministry of Water Resources said heavy to very heavy rain is forecast in eastern Northeast China on Aug 1, light‑to‑moderate rain in the region's southeast on Aug 2, and moderate‑to‑heavy rain in central‑northern Northeast from Aug 3‑7. The Songhua River and the Ganhe, a tributary of the Nen River, may see a numbered flood. The ministry activated a flood‑defense level‑IV emergency for Heilongjiang province at 13:00 on Aug 1."
+    },
+    {
+      "id": "5020240",
+      "time": "2026-08-01 13:38:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部針對黑龍江省啟動洪水防禦Ⅳ級應急響應】記者從水利部瞭解到，8月1日東北東部將有大到暴雨，2日東北東南部將有小到中雨，3至7日東北中部北部仍將有中到大雨；黑龍江省松花江、嫩江支流甘河可能發生編號洪水。水利部於8月1日13時啟動針對黑龍江省的洪水防禦Ⅳ級應急響應。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fbbd4-0b4c-7aab-8f40-18bbafd98193",
+      "time": "2026-08-01 13:37:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Reserve Bank of India: India has attracted over $40bn in overseas capital since June】Since June, measures to attract overseas capital have brought in more than $40bn, bolstering the Reserve Bank of India’s foreign-exchange buffer, the RBI said. As of July 31, FCNR(B) deposits totalled $36.72bn; together with other overseas borrowings the sum is about $41bn. The RBI conducted roughly $7bn of FX sales on July 24 to defend the rupee, its largest direct intervention in months. Middle East tensions had pushed oil above $100/bbl and pressured the rupee; oil has since eased to around $90/bbl. The RBI governor said this week that recent rupee weakness reflects geopolitical tensions, dollar strength and EM volatility, not a deterioration in India’s economic fundamentals."
+    },
+    {
+      "id": "5020239",
+      "time": "2026-08-01 13:37:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "現代汽車印度公司：公佈2026年7月銷量達75360輛，創單月歷史新高。"
+    },
     {
       "id": "5020238",
       "time": "2026-08-01 13:34:25",
