@@ -1,7 +1,19 @@
 {
   "date": "2026-08-02",
-  "count": 94,
+  "count": 95,
   "items": [
+    {
+      "id": "mkt:019fbf24-c60b-7aab-8f43-e72e98d4d09e",
+      "time": "2026-08-02 05:04:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Lebanese national news agency reported Israeli forces opened fire in the Bint Jbeil area of southern Lebanon."
+    },
     {
       "id": "5020578",
       "time": "2026-08-02 04:47:59",

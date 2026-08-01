@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-02 05:05:08",
-  "count": 18021,
+  "updated": "2026-08-02 05:09:15",
+  "count": 18020,
   "items": [
+    {
+      "id": "mkt:019fbf24-c60b-7aab-8f43-e72e98d4d09e",
+      "time": "2026-08-02 05:04:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Lebanese national news agency reported Israeli forces opened fire in the Bint Jbeil area of southern Lebanon."
+    },
     {
       "id": "5020578",
       "time": "2026-08-02 04:47:59",
@@ -166873,22 +166885,6 @@
         "MKT News"
       ],
       "text": "【Car rams into pedestrians in Berlin, several injured】German police said a vehicle struck pedestrians in Berlin on the evening of the 25th, injuring multiple people; officers are searching for the suspect."
-    },
-    {
-      "id": "5008144",
-      "time": "2026-07-26 05:07:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗陸軍發言人：軍方目前正在使用比阿拉什-2更為先進的攻擊無人機。"
-    },
-    {
-      "id": "5008143",
-      "time": "2026-07-26 05:06:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：受人工智慧與機器人技術發展影響，“2036年金錢將失去實際意義”。"
     }
   ]
 }
