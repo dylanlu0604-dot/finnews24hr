@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-01 22:35:12",
-  "count": 18030,
+  "updated": "2026-08-01 22:39:48",
+  "count": 18027,
   "items": [
+    {
+      "id": "mkt:019fbdc2-0e29-7aab-8f42-b0b6dfb63f37",
+      "time": "2026-08-01 22:37:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC: Tropical Storm Genevieve is gradually weakening."
+    },
     {
       "id": "5020489",
       "time": "2026-08-01 22:31:11",
@@ -166912,45 +166920,6 @@
         "公司"
       ],
       "text": "【葉門胡塞武裝稱打擊沙特能源設施】葉門胡塞武裝25日宣佈，該組織當天使用導彈和無人機對位於沙烏地阿拉伯吉贊和延布的阿美石油公司設施實施打擊，並稱此次襲擊是為了回應沙特領導的聯軍空襲胡塞武裝控制區。（新華社）"
-    },
-    {
-      "id": "mkt:019f99b6-4b4b-7aab-8e95-a2c7f23742ce",
-      "time": "2026-07-25 22:38:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "France said it will deploy an additional 500 soldiers to assist in fighting forest fires."
-    },
-    {
-      "id": "mkt:019f99b5-c630-7aab-8e95-9f424a0fbe60",
-      "time": "2026-07-25 22:37:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【IDF conducts large-scale West Bank raids, detains more than 70 Palestinians】On the 25th, the Israel Defense Forces said the military, Shin Bet and border police carried out joint large-scale raids across the West Bank over the past 24 hours. They searched more than 300 locations, detained over 70 Palestinians and conducted on-site checks of about 130 others. Those detained were handed to authorities for interrogation, including individuals Israel identified as Hamas members and suspects accused of involvement in shootings, plotting attacks and weapons trafficking."
-    },
-    {
-      "id": "mkt:019f99b5-37e1-7aab-8e95-971f5e0ef975",
-      "time": "2026-07-25 22:36:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US using 'hot‑cold' tactics on Iran; likely aim to reopen Strait of Hormuz】A former Austrian defense attaché said the US is coordinating diplomatic pressure, a maritime blockade and military options against Iran, and that the immediate objective appears to be reopening the Strait of Hormuz. He said Washington is employing a 'hot‑and‑cold' tactic—periodic strikes followed by lulls—to induce Iran to abandon intent to continue the conflict. He added that, while Trump is reportedly seeking negotiations, Iran's leadership is split between a faction favoring restoration of a memorandum of understanding and a faction seeking to secure control of the Strait of Hormuz by military means."
-    },
-    {
-      "id": "5008057",
-      "time": "2026-07-25 22:35:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心預測，吉納維芙颶風將在未來幾天內迅速增強。"
     }
   ]
 }
