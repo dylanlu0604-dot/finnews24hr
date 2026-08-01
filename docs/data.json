@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-01 10:02:49",
-  "count": 17984,
+  "updated": "2026-08-01 10:06:49",
+  "count": 17980,
   "items": [
+    {
+      "id": "mkt:019fbb0f-23ea-7aab-8f3e-e9f4eeba25d3",
+      "time": "2026-08-01 10:02:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "LI.O"
+      ],
+      "text": "Li Auto delivered 30,468 vehicles in July 2026."
+    },
     {
       "id": "5020148",
       "time": "2026-08-01 10:01:24",
@@ -166519,46 +166531,6 @@
         "XAUUSD"
       ],
       "text": "Iran's Press TV reported missiles and drones from Yemen struck Saudi Arabia's Jazan, sparking fires."
-    },
-    {
-      "id": "mkt:019f9705-91e5-7aab-8e91-dde3cf877e9f",
-      "time": "2026-07-25 10:05:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump will attend next year's White House Correspondents' Dinner."
-    },
-    {
-      "id": "5007764",
-      "time": "2026-07-25 10:05:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱他將出席明年的白宮記者晚宴。"
-    },
-    {
-      "id": "mkt:019f9704-c4b8-7aab-8e91-d4225b90820b",
-      "time": "2026-07-25 10:04:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense says the threat in Yanbu has been lifted."
-    },
-    {
-      "id": "5007763",
-      "time": "2026-07-25 10:04:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門：延布省危險已解除。"
-    },
-    {
-      "id": "5007762",
-      "time": "2026-07-25 10:04:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中央氣象臺7月25日10時繼續釋出暴雨橙色預警】預計，7月25日14時至26日14時，廣東中東部和南部沿海、福建南部、江西南部、臺灣島東南部及黑龍江東南部、內蒙古東北部、遼寧中部、山東南部和東北部、甘肅東部、陝西西部、寧夏東部、雲南西南部等地部分地區有大到暴雨，其中，廣東東南部、福建南部沿海等地部分地區有大暴雨，廣東東南部沿海局地有特大暴雨(250~450毫米)。上述部分地區伴有短時強降水(最大小時降雨量30~60毫米，局地可超過100毫米)，局地有雷暴大風等強對流天氣。"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
   "date": "2026-08-01",
-  "count": 581,
+  "count": 582,
   "items": [
+    {
+      "id": "mkt:019fbb0f-23ea-7aab-8f3e-e9f4eeba25d3",
+      "time": "2026-08-01 10:02:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "LI.O"
+      ],
+      "text": "Li Auto delivered 30,468 vehicles in July 2026."
+    },
     {
       "id": "5020148",
       "time": "2026-08-01 10:01:24",
