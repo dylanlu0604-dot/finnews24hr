@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-01 09:22:45",
-  "count": 18002,
+  "updated": "2026-08-01 09:26:42",
+  "count": 18003,
   "items": [
+    {
+      "id": "te:economy:571887",
+      "time": "2026-08-01 09:22:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Credit Rating",
+        "Importance 1"
+      ],
+      "text": "Czech Republic Credit Ratings Affirm at AA- with Stable Outlook — Fitch Ratings affirmed the Czech Republic’s long-term foreign- and local-currency issuer default ratings at ‘AA-’ with a Stable Outlook, highlighting credible macroeconomic policies, strong institutions, and a solid external balance sheet. Fiscal deficits are set to widen under the new coalition’s looser stance, but Fitch expects easing to remain contained, keeping debt below peer medians. Growth prospects are robust, supporting income convergence with richer EU members, though risks arise from the government’s confrontational tone toward the EU on migration and climate policy. EU fund disbursements are not seen as jeopardized, and overall resilience persists despite fiscal pressures. Standard & Poor's credit rating for Czech Republic stands at AA- with stable outlook. Moody's credit rating for Czech Republic was last set at Aa3 with stable outlook, and DBRS' credit rating was last reported at AA with stable outlook."
+    },
     {
       "id": "5020136",
       "time": "2026-08-01 09:19:50",
