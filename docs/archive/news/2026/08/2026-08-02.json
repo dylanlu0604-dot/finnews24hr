@@ -1,7 +1,39 @@
 {
   "date": "2026-08-02",
-  "count": 14,
+  "count": 17,
   "items": [
+    {
+      "id": "mkt:019fbe35-6a16-7aab-8f42-ed68774d7b0c",
+      "time": "2026-08-02 00:43:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi outlet Alhadath reports Jordan expects Iraq to take measures to curb militia activity."
+    },
+    {
+      "id": "mkt:019fbe35-01e6-7aab-8f42-e01634d90955",
+      "time": "2026-08-02 00:42:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Saudi outlet alhadath reports Jordan has notified Iraq it will strike if Iran-aligned militias attack Jordan."
+    },
+    {
+      "id": "5020529",
+      "time": "2026-08-02 00:39:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "《蜘蛛俠：嶄新之日》北美首映日票房斬獲1.68億美元，重新整理影史首映日票房紀錄。"
+    },
     {
       "id": "mkt:019fbe2f-426c-7aab-8f42-dfdf3b033cc6",
       "time": "2026-08-02 00:36:35",
