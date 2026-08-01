@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-02 04:45:59",
-  "count": 18023,
+  "updated": "2026-08-02 04:53:12",
+  "count": 18024,
   "items": [
+    {
+      "id": "5020578",
+      "time": "2026-08-02 04:47:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理辦公室：伊拉克武裝部隊隨時待命，挫敗所有針對鄰國的襲擊圖謀；伊拉克再次重申承諾，絕不允許本國領土成為襲擊行動的發起據點或中轉通道，同時恪守國家主權、睦鄰友好原則與國際法。"
+    },
+    {
+      "id": "mkt:019fbf14-29e5-7aab-8f43-de29faab073a",
+      "time": "2026-08-02 04:46:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DWAC.O",
+        "Impact bullish"
+      ],
+      "text": "Trump's media company launched Truth API, a paid service granting subscribers earlier real‑time access to Truth Social posts than ordinary users. Monthly fee up to $100,000, marketed primarily to trading firms and corporations."
+    },
+    {
+      "id": "5020577",
+      "time": "2026-08-02 04:45:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤突破91美元，日內漲超3.8%。"
+    },
     {
       "id": "5020576",
       "time": "2026-08-02 04:34:21",
@@ -166885,22 +166914,6 @@
         "Important"
       ],
       "text": "IRNA reported Iran summoned Ukraine's acting chargé d'affaires over an attack on an Iranian merchant vessel."
-    },
-    {
-      "id": "5008140",
-      "time": "2026-07-26 04:48:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：梁文鋒不滿投資人洩露內部檔案，DeepSeek新一輪融資或暫停。"
-    },
-    {
-      "id": "mkt:019f9b08-3297-7aab-8e96-fe50729293ca",
-      "time": "2026-07-26 04:47:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thomas Ricouard, an OpenAI Codex developer, said he slightly raised geometry precision and material detail in 5.6 Sol with surprisingly strong results. The scene is built entirely in Blender, supports free manipulation and roaming, and can continuously generate aesthetically pleasing still images."
     }
   ]
 }
