@@ -1,7 +1,36 @@
 {
   "date": "2026-08-02",
-  "count": 17,
+  "count": 20,
   "items": [
+    {
+      "id": "5020531",
+      "time": "2026-08-02 00:53:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：對全美50個州開展核查，排查非法非公民選民。目前已查出數千人。選舉舞弊的時代結束了。"
+    },
+    {
+      "id": "mkt:019fbe3d-58d6-7aab-8f42-f2b076d84def",
+      "time": "2026-08-02 00:51:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Turkey, Iraq sign one-year crude transport deal; 750,000 bpd allocated to Iraq】On Aug 1 Turkey's Ministry of Energy and Natural Resources said state pipeline operator BOTAŞ and two Iraqi oil companies signed a one-year crude transport agreement. The deal allocates 750,000 bpd of the pipeline's capacity to Iraq; the pipeline's design capacity is 1.5m bpd. Iraq's prime minister Zaidi had earlier said during a visit he would supply 1m bpd to Turkey."
+    },
+    {
+      "id": "5020530",
+      "time": "2026-08-02 00:50:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【土耳其與伊拉克簽署原油運輸協議 每日輸送75萬桶】當地時間8月1日，土耳其能源和自然資源部宣佈，土耳其國家石油管道公司（BOTAŞ）與伊拉克兩家石油公司正式簽署為期一年的原油運輸協議。根據協議，土伊雙方將高效利用原油管道，其中每日75萬桶的輸送能力將分配給伊拉克方。土耳其方面表示，該輸油管道總設計日產能達150萬桶。此前，伊拉克總理扎伊迪在訪問土耳其期間曾表示，將每天向土耳其提供100萬桶石油。"
+    },
     {
       "id": "mkt:019fbe35-6a16-7aab-8f42-ed68774d7b0c",
       "time": "2026-08-02 00:43:19",

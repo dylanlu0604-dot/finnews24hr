@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-02 00:50:16",
-  "count": 18032,
+  "updated": "2026-08-02 00:54:24",
+  "count": 18029,
   "items": [
+    {
+      "id": "5020531",
+      "time": "2026-08-02 00:53:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：對全美50個州開展核查，排查非法非公民選民。目前已查出數千人。選舉舞弊的時代結束了。"
+    },
+    {
+      "id": "mkt:019fbe3d-58d6-7aab-8f42-f2b076d84def",
+      "time": "2026-08-02 00:51:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Turkey, Iraq sign one-year crude transport deal; 750,000 bpd allocated to Iraq】On Aug 1 Turkey's Ministry of Energy and Natural Resources said state pipeline operator BOTAŞ and two Iraqi oil companies signed a one-year crude transport agreement. The deal allocates 750,000 bpd of the pipeline's capacity to Iraq; the pipeline's design capacity is 1.5m bpd. Iraq's prime minister Zaidi had earlier said during a visit he would supply 1m bpd to Turkey."
+    },
+    {
+      "id": "5020530",
+      "time": "2026-08-02 00:50:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【土耳其與伊拉克簽署原油運輸協議 每日輸送75萬桶】當地時間8月1日，土耳其能源和自然資源部宣佈，土耳其國家石油管道公司（BOTAŞ）與伊拉克兩家石油公司正式簽署為期一年的原油運輸協議。根據協議，土伊雙方將高效利用原油管道，其中每日75萬桶的輸送能力將分配給伊拉克方。土耳其方面表示，該輸油管道總設計日產能達150萬桶。此前，伊拉克總理扎伊迪在訪問土耳其期間曾表示，將每天向土耳其提供100萬桶石油。"
+    },
     {
       "id": "mkt:019fbe35-6a16-7aab-8f42-ed68774d7b0c",
       "time": "2026-08-02 00:43:19",
@@ -166913,59 +166942,6 @@
         "其他"
       ],
       "text": "【颱風“紅霞”逼近 廣東已累計轉移人員超71萬人】今年第12號颱風“紅霞”已於25日22時由颱風級加強為強颱風級，其中心位於惠州惠東縣東南方向大約100公里的近海海面上。預計，“紅霞”將以每小時20公里的速度向西北方向移動，將於26日凌晨在廣東深圳到海豐一帶沿海登陸，登陸後轉向北偏西方向移動，強度逐漸減弱。截至7月26日0時，廣東省累計轉移人員715351人。目前，潮州、汕頭、揭陽、汕尾、河源、梅州、深圳、珠海、江門、廣州、東莞、惠州等12個地市已採取“五停”或部分“五停”措施。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f9a33-0456-7aab-8e96-097a14eecc25",
-      "time": "2026-07-26 00:54:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Iran's oil ministry says it has achieved over 60% of its annual oil revenue budget target despite war and sanctions."
-    },
-    {
-      "id": "5008091",
-      "time": "2026-07-26 00:53:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗石油部：儘管面臨戰爭與制裁，伊朗已實現預算中年度石油收入預期的60%以上。"
-    },
-    {
-      "id": "5008090",
-      "time": "2026-07-26 00:51:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗石油部：在戰爭期間售出了價值115億美元的石油，停火期間售出了價值65億美元的石油。"
-    },
-    {
-      "id": "mkt:019f9a30-2e2d-7aab-8e96-05da648a9743",
-      "time": "2026-07-26 00:51:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Iran's oil ministry said it sold $11.5 bln of oil during the war and $6.5 bln during the ceasefire."
-    },
-    {
-      "id": "mkt:019f9a2f-bfd4-7aab-8e95-fae2ef6536de",
-      "time": "2026-07-26 00:50:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shenzhen issues red typhoon warning】Typhoon \"Hongxia\" (strong typhoon) will bring severe wind and rain to Shenzhen; eastern Shenzhen will enter a 12-level wind circle. At 00:30 on July 26 the Shenzhen Meteorological Observatory upgraded typhoon warnings: Yantian, Pingshan, Dapeng New District, Dapeng Bay, Daya Bay and parts of Longgang (Pingdi, Longcheng, Longgang, Baolong, Yuanshan subdistricts) were raised from orange to red. Luohu, Nanshan, Futian, Bao'an, Guangming, Longhua, the Pearl River estuary, Shenzhen Bay and other parts of Longgang (Pinghu, Nanwan, Bantian, Henggang, Jihua subdistricts) were raised from yellow to orange."
-    },
-    {
-      "id": "5008089",
-      "time": "2026-07-26 00:50:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達與埃及外交部長於多哈舉行會晤，就地區穩定及緩和局勢的相關舉措展開磋商。"
     }
   ]
 }
