@@ -1,7 +1,23 @@
 {
   "date": "2026-08-01",
-  "count": 576,
+  "count": 578,
   "items": [
+    {
+      "id": "mkt:019fbb00-94a6-7aab-8f3e-e56813381da3",
+      "time": "2026-08-01 09:46:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Deep Blue Auto said July 2026 global sales were 29,213 vehicles, up 7.52% YoY; Jan–July YTD global sales were 193,369 vehicles, up 13.48% YoY. Cumulative global sales now exceed 910,000 vehicles."
+    },
+    {
+      "id": "5020145",
+      "time": "2026-08-01 09:46:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深藍汽車7月全球銷量29213輛，同比增長7.52%】8月1日，深藍汽車公佈，2026年7月全球銷量29213輛，同比增長7.52%；1-7月全球累計銷量193369輛，同比增長13.48%；全球累計銷量超91萬輛。"
+    },
     {
       "id": "mkt:019fbafb-4fa6-7aab-8f3e-d8b54a215b0d",
       "time": "2026-08-01 09:40:59",
