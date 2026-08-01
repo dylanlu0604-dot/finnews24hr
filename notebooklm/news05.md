@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-01 23:12:03_
-_本檔包含 3327 則快訊，約 673942 字_
+_更新時間：2026-08-02 00:33:55_
+_本檔包含 3329 則快訊，約 673681 字_
+
+---
+
+### 2026-07-27 23:34:50  #MKT News #Macro & Rates #Treasury Yields
+
+US two-year Treasury yield dipped to 4.315% from 4.320% ahead of a Treasury auction.
+
+---
+
+### 2026-07-27 23:34:27  #公司
+
+參議院發言人：OpenAI 執行長山姆・奧特曼本週將會見民主黨參議員馬克・沃納。
+
+---
+
+### 2026-07-27 23:34:09  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed #DXY #Impact bullish #S&P500 #Impact bearish
+
+U.S. Treasury auctioned $69.0 bln 2-year notes; stop-out yield 4.315%, bid-cover ratio 2.66 (prior 2.64).
+
+---
+
+### 2026-07-27 23:33:51  #宏觀 #市場 #國際
+
+美國財政部拍賣690億美元兩年期國債，得標利率4.315%（6月23日為4.189%，至少創2025年2月份以來新高），投標倍數2.66（前次為2.64）。
+
+---
+
+### 2026-07-27 23:33:20  #市場 #國際
+
+2 年期美國國債收益率在 690 億美元國債拍賣後延續跌勢，最新下跌 1.51 個基點，報 4.316%。
+
+---
+
+### 2026-07-27 23:32:51  #宏觀 #市場 #國際
+
+美國財政部拍賣六個月期國債，得標利率3.945%，投標倍數3.12。
+
+---
+
+### 2026-07-27 23:32:17  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed
+
+U.S. 6M Treasury auction on July 27: 36.13% of the awarded amount allocated at the stop-out rate, down from 51.45% previously.
+
+---
+
+### 2026-07-27 23:32:15  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US 6-month Treasury auction on July 27 bid-cover ratio 3.12; prior 2.94.
+
+---
+
+### 2026-07-27 23:32:15  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+6-month U.S. Treasury auction (settlement July 27) stop-out yield 3.945% vs 3.84% prior.
+
+---
+
+### 2026-07-27 23:32:06  #MKT News #Economic Calendar
+
+United States | 6-Month Bill Auction Bid/Cover Ratio (Jul.27) | actual 3.12 | previous 2.94
+
+---
+
+### 2026-07-27 23:32:06  #MKT News #Economic Calendar
+
+United States | 6-Month Bill Auction Accepted at High (Jul.27) | actual 36.13% | previous 51.45%
+
+---
+
+### 2026-07-27 23:32:06  #MKT News #Economic Calendar
+
+United States | 6-Month Bill Auction High Yield Rate (Jul.27) | actual 3.945% | previous 3.84%
+
+---
+
+### 2026-07-27 23:31:56  #國際
+
+【特朗普稱若談判破裂將強力打擊伊朗】今天（7月27日），據美國“阿克西奧斯新聞網（Axios）”報道，美國總統特朗普稱，他決定暫停對伊朗的打擊，以便給談判一個機會。但他強調，如果外交努力失敗，他可能會下令恢復並擴大軍事行動。 特朗普稱，美國正與伊朗進行“非常深入”的談判，如果談判沒有結果，美國將轉而採取非常強硬的軍事行動。當被問及願意給外交努力多長時間時，特朗普回答說：“時間不多，要麼進展迅速，要麼乾脆作罷。” （CCTV國際時訊）
+
+---
+
+### 2026-07-27 23:30:51  #其他
+
+德國DAX 30指數初步收漲1.34%，報25438.84點。法國股指初步收漲0.75%，義大利股指初步收漲0.64%、銀行指數漲1.33%，英國股指初步收漲0.74%。荷蘭股指初步收跌0.49%。
+
+---
+
+### 2026-07-27 23:30:46  #國際
+
+歐洲STOXX 600指數初步收漲0.30%，報646.37點。歐元區STOXX 50指數初步收漲0.37%，報6304.11點。富時泛歐績優300指數初步收漲0.23%，報2584.44點。
+
+---
+
+### 2026-07-27 23:30:35  #國際
+
+卡達外交部：卡達首相兼外交大臣接到加拿大外交部長的來電。 通話期間，雙方回顧了兩國合作關係，探討鞏固並深化雙邊合作的途徑；同時就地區最新局勢交換意見，重點談及各方開展的外交行動，以及為緩和衝突、維護地區安全穩定所開展的協同工作。
+
+---
+
+### 2026-07-27 23:28:58  #MKT News #Market Themes #AI Revolution
+
+KimiAI has open-sourced MoonEP, a high-performance communication library for distributed Mixture-of-Experts (MoE) workloads. MoonEP is designed to improve expert-parallel communication efficiency at scale and reduce communication overhead for large MoE models in training and inference.
+
+---
+
+### 2026-07-27 23:25:36  #國際
+
+俄羅斯總統新聞秘書佩斯科夫：俄羅斯是社會福利型國家，這點與美國不同，我國不會在社交媒體上投入數千億美元資金。
+
+---
+
+### 2026-07-27 23:25:08  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Climbs to 5-Month High — The FTSE 100 gained 0.4% on Monday, climbing above 10,780 to its highest level since the record close on February 27, supported by strong corporate earnings and easing energy costs. The US and Iran refrained from further attacks for a third consecutive night, reducing concerns over inflationary pressures. Vodafone was among the strongest performers, rising nearly 5% after reporting better-than-expected organic service revenue growth and maintaining a positive outlook. AstraZeneca advanced 1.7% after quarterly earnings exceeded expectations and the company reaffirmed its full-year guidance and 2030 targets. GSK gained more than 2%, while Unilever and BAE Systems also moved higher. In contrast, energy stocks declined as oil prices weakened, with Shell down 0.9% and BP falling 2.6%. Mining stocks also lagged, including Glencore (-3.4%), Anglo American (-2.4%) and Antofagasta (-1.9%).
+
+---
+
+### 2026-07-27 23:22:58  #MKT News
+
+UK Prime Minister Burnham said the next budget will not change or abolish stamp duty on property purchases.
+
+---
+
+### 2026-07-27 23:22:32  #公司
+
+【保時捷將在德國再裁員5000人】德國跑車製造商保時捷27日宣佈，將於2035年前在德國再裁減5000個工作崗位。這是該公司近期又一輪大規模裁員計劃，旨在降低人力成本、提升競爭力。（新華社）
+
+---
+
+### 2026-07-27 23:22:32  #MKT News #PAH3.DE #Impact mixed
+
+【Porsche to cut 5,000 jobs in Germany by 2035】Porsche said on the 27th it will cut 5,000 jobs in Germany by 2035. The latest round of large-scale layoffs is aimed at reducing labour costs and improving competitiveness.
 
 ---
 
@@ -19946,131 +20078,5 @@ Iran's oil ministry said it sold $11.5 bln of oil during the war and $6.5 bln du
 ### 2026-07-26 00:37:59  #MKT News
 
 Israel Army Radio says Palestinians have fled to Yatta, south of Hebron; troops are conducting a manhunt.
-
----
-
-### 2026-07-26 00:29:36  #MKT News
-
-Sudan's army said it has retaken Bara in North Kordofan after heavy fighting with the Rapid Support Forces.
-
----
-
-### 2026-07-26 00:26:20  #其他
-
-【臺灣民眾集會“反毒油”】7月25日，臺北氣溫達30多度，數萬民眾走上臺當局領導人辦公場所前的凱達格蘭大道，高喊“反毒臺”口號，表達對民進黨當局食安失守、漠視民生的強烈不滿。（新華社）
-
----
-
-### 2026-07-26 00:23:41  #MKT News
-
-Saudi foreign minister received a call from Pakistan’s foreign minister to discuss efforts to ease regional tensions.
-
----
-
-### 2026-07-26 00:22:28  #MKT News
-
-Israel Defense Forces says it is taking action in response to reported gunfire from the Susya area in the southern West Bank.
-
----
-
-### 2026-07-26 00:17:12  #MKT News
-
-Al Jazeera said West Bank settlers are blocking the tunnel road to a village northwest of Jerusalem and throwing stones at vehicles.
-
----
-
-### 2026-07-26 00:14:54  #其他
-
-市場資訊：《大空頭》原型人物邁克爾・伯裡增持英偉達空頭頭寸。
-
----
-
-### 2026-07-26 00:13:04  #MKT News #Market Regions #Japan & APAC
-
-【Zakharova: Lavrov held no substantive talks with Japan's Motegi in Manila】Russian Foreign Ministry spokeswoman Zakharova said Foreign Minister Lavrov did not hold substantive talks with Japanese Foreign Minister Motegi in Manila. She said there were no discussions on international, regional or bilateral issues, and that Lavrov returned Motegi’s greeting with a formal, polite remark.
-
----
-
-### 2026-07-26 00:11:06  #其他
-
-目擊者釋出影片顯示：一架俄軍蘇-35S戰鬥機正在列寧格勒州上空追擊獵殺烏軍FP-1無人機。交戰結果未知。
-
----
-
-### 2026-07-26 00:08:02  #MKT News #Market Themes #AI Revolution
-
-【APEC issues chair's statement from High-Level Roundtable on Data for Growth】The 2026 APEC High-Level Roundtable on Data for Growth met in Chengdu on the 25th and issued a Chair’s Statement focused on data’s role in promoting innovation, raising productivity and driving economic growth, and outlining future cooperation priorities. The statement, citing rapid advances in digital technology and AI, calls for APEC data cooperation to shift from “managing data” to “using data,” moving beyond a primary focus on privacy protection and cross-border flow rules to, while safeguarding security, cover the full chain of data supply, flow, application and value creation to enable growth.
-
----
-
-### 2026-07-26 00:03:55  #其他
-
-【《APEC資料促進增長高階別圓桌會主席宣告》釋出】2026年亞太經合組織（APEC）資料促進增長高階別圓桌會25日在成都舉行。會議形成併發布了《APEC資料促進增長高階別圓桌會主席宣告》，宣告聚焦發揮資料在促進創新、提升生產率和推動經濟增長中的重要作用，總結了本次會議關於“資料促進增長”的主要討論內容，提出了未來的合作方向。（新華社）
-
----
-
-### 2026-07-25 23:57:19  #國際
-
-特朗普：民主黨陣營陷入巨大恐慌。我們正對全美各州開展非公民選民核查工作，現已查出數千名無投票資格的非本國公民。絕不允許竊取美國大選。
-
----
-
-### 2026-07-25 23:53:32  #其他
-
-SpaceX：在加州發射了一枚獵鷹9號火箭。
-
----
-
-### 2026-07-25 23:52:32  #其他
-
-“水果姐”凱蒂·佩裡對白宮剪輯軍事打擊影片時使用她的歌曲一事表示強烈不滿。
-
----
-
-### 2026-07-25 23:48:09  #公司
-
-【受颱風影響 港珠澳大橋、深中通道將臨時封閉】記者獲悉，受今年第12號颱風“紅霞”影響，為確保交通安全，經粵港澳三地共同會商決定，定於7月26日0時0分起，對港珠澳大橋主橋實施臨時封橋，珠海公路口岸珠港之間暫停通關服務。解封時間將另行通知，請留意官方公告。經深中通道管理中心和屬地交警會商研判，定於7月26日1時00分起，對深中通道全線實施臨時封閉，深中通道的具體解封時間視颱風發展情況另行公告。（央視新聞）
-
----
-
-### 2026-07-25 23:44:31  #焦點 #國際
-
-美國銀行預測：美國今年財政赤字將突破2萬億美元，年度債務利息支出達1萬億美元。
-
----
-
-### 2026-07-25 23:42:23  #其他
-
-【廣東省將防風應急響應提升為Ⅰ級】記者獲悉，鑑於今年第12號颱風“紅霞”近岸加強，即將以強颱風級登陸廣東省，造成嚴重風雨影響。根據《廣東省防汛防旱防風防凍應急預案》和省防總有關規定，廣東省防總已於7月25日23時將防風Ⅱ級應急響應提升為防風Ⅰ級應急響應。（央視新聞）
-
----
-
-### 2026-07-25 23:41:39  #其他
-
-【江西釋出中小河流洪水和山洪氣象風險紅色預警】今天19時18分，江西省水文監測中心與江西省氣象臺聯合釋出中小河流洪水和山洪氣象風險紅色預警訊號：預計7月25日20時至26日20時，贛州市中南部、吉安市南部區域性可能發生中小河流洪水及山洪災害（Ⅳ級），其中贛州市南部、西部區域性發生中小河流洪水及山洪災害可能性較大（Ⅲ級），贛州市南部區域性發生中小河流洪水及山洪災害可能性大（Ⅱ級），贛州市東南部區域性發生中小河流洪水及山洪災害可能性很大（I級）。請上述地區注意做好短歷時強降雨引發的中小河流洪水及山洪災害防範工作。（央視新聞）
-
----
-
-### 2026-07-25 23:21:47  #市場
-
-【甘肅省釋出地質災害橙色預警】
-甘肅省自然資源廳、甘肅省氣象局於7月25日20時15分聯合釋出地質災害氣象風險預警：
-
-7月25日22時30分至7月26日20時30分，慶陽市（西峰區、合水縣、正寧縣、寧縣），平涼市（涇川縣、靈臺縣）發生崩塌、滑坡、泥石流等地質災害的風險高（橙色預警）。
-
-甘南藏族自治州（合作市、臨潭縣、卓尼縣、舟曲縣、迭部縣、碌曲縣、夏河縣），慶陽市（慶城縣、環縣、華池縣、鎮原縣），蘭州市（七里河區、西固區、永登縣），隴南市（武都區、成縣、文縣、康縣、西和縣、禮縣、徽縣、兩當縣），定西市（安定區、通渭縣、臨洮縣），天水市（秦州區、麥積區、清水縣、秦安縣、甘谷縣、張家川回族自治縣），白銀市（會寧縣、景泰縣），臨夏回族自治州（永靖縣、廣河縣、東鄉族自治縣），蘭州新區，武威市（古浪縣、天祝藏族自治縣），平涼市（崆峒區、崇信縣、莊浪縣、靜寧縣、華亭市）發生崩塌、滑坡、泥石流等地質災害的風險較高（黃色預警），請注意防範。（央視新聞）
-
----
-
-### 2026-07-25 23:21:25  #國際
-
-特朗普社交媒體發圖調侃加拿大：美加邊境建起巨型濾網隔離牆。 
-注：2026年7月加拿大全境野火持續爆發，累計起火超3800起，活躍火場近千處，過火面積接近290萬公頃，安大略省為重災區。野火產生海量PM2.5有毒煙塵，順著氣流南下跨境湧入美國，美國中西部、東北部10餘個州、超1.15億居民遭遇重度空氣汙染。
-
----
-
-### 2026-07-25 23:16:57  #國際
-
-【以色列情報研判：特朗普暫緩對伊軍事行動，意在倒逼伊朗妥協】以色列媒體週六表示，以色列此前研判美國或將在週五夜間對伊朗發動大規模襲擊，但以方官員後續判斷，特朗普推遲了此次軍事行動，意在給予德黑蘭更多時間做出讓步。卡達與阿曼已向伊朗施壓，敦促伊朗軟化立場，以此規避一場看似迫在眉睫的美國大規模軍事打擊。以色列官員認為，此次行動推遲只是短暫緩和，並非美方整體戰略轉向；美伊達成長期協議的可能性依舊渺茫。
 
 ---

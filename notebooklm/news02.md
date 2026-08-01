@@ -1,7 +1,69 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-01 23:12:03_
-_本檔包含 3638 則快訊，約 674000 字_
+_更新時間：2026-08-02 00:33:55_
+_本檔包含 3627 則快訊，約 673660 字_
+
+---
+
+### 2026-07-31 09:22:15  #央行 #其他
+
+央行進行 1,340 億元 7 天期逆回購操作 操作利率 1.4%。
+
+---
+
+### 2026-07-31 09:22:06  #其他
+
+【《工業綠色低碳發展“十五五”規劃》釋出】從工業和資訊化部瞭解到，今天（7月31日），《工業綠色低碳發展“十五五”規劃》（以下簡稱《規劃》）正式釋出，從強調工業自身綠色低碳發展，到更加註重工業對全社會綠色轉型的支撐作用，統籌推進產業綠色化和綠色產業化。《規劃》明確，深入實施工業領域碳達峰行動，提出推動產業結構和用能結構協同轉型、加快電氣化改造和綠色能源應用、加力推進工業重點行業節能降碳等細分任務，明確了地方碳考核、行業碳管控、企業碳管理、專案碳評價、產品碳足跡等具體任務。《規劃》要求：提升產業綠色價值創造能力，推進傳統產業綠色轉型、鞏固提升綠色優勢產業、培育壯大新興產業綠色動能；提升綠色裝備產品供給能力，強化綠色技術、裝備、工藝、產品的有效供給；提升綠色低碳科技創新能力，推動綠色低碳關鍵技術研發創新，促進綠色低碳科技成果轉化應用；提升智慧化綠色化融合發展能力，推動人工智慧賦能綠色製造，加快數智技術驅動生產組織方式重構。此外，《規劃》提出，健全工業資源迴圈利用體系，重點解決好複雜難用固廢、新型固廢綜合利用等問題；健全綠色製造和服務體系，推動綠色工廠提質擴面，綠色工業園區提檔升級，綠色供應鏈協同提效。
+
+---
+
+### 2026-07-31 09:21:10  #其他
+
+【秘魯烏卡亞利大區發生5.7級地震】據秘魯地球物理研究所報告，當地時間7月30日19時58分，秘魯烏卡亞利大區發生5.7級地震。震中位於烏卡亞利大區科羅內爾波蒂略省首府普卡爾帕東北約42公里處。首都利馬有震感。截至目前，當地政府尚未報告此次地震造成人員傷亡或財產損失。（央視新聞）
+
+---
+
+### 2026-07-31 09:20:47  #MKT News
+
+Hong Kong's HSI opened Friday, July 31 down 21.16 points (-0.08%) at 25,837.72; Hang Seng Tech Index opened up 14.24 points (+0.30%) at 4,818.01; Hang Seng China Enterprises Index (HSCEI) opened down 21.01 points (-0.24%) at 8,623.70; Hang Seng Red Chip Index opened down 5.51 points (-0.13%) at 4,244.91.
+
+---
+
+### 2026-07-31 09:20:45  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+【Japan declines to confirm yen intervention, says U.S. offered assistance】After a sharp yen rally, Japanese authorities declined to confirm whether they intervened in overnight FX trading but signalled overseas assistance, including from the United States. Finance Minister Satsuki Katayama avoided confirming intervention, saying authorities will "remain highly vigilant and respond appropriately as the situation requires." Jun Mimura, Japan’s top currency official, said Japan received help from the U.S. that was "far more than moral support" and that he maintains continuous contact with U.S. authorities via personal channels; he declined to give further detail.
+
+---
+
+### 2026-07-31 09:20:04  #MKT News #Important
+
+China's July official manufacturing PMI due in 10 minutes.
+
+---
+
+### 2026-07-31 09:19:23  #市場
+
+【飛天茅臺領漲 白酒大單品總價止跌微升】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售總價7月31日低位企穩。如果主要單品各取一瓶整體打包售賣，今日總售價為9872元，較昨日微幅上漲1元，在連續兩日走低後止跌微升，低位盤整格局仍在延續。縱觀全場，過去一天酒市終端交投情緒低位趨穩，多空雙方再陷膠著。
+
+今日11大白酒單品四漲六跌一平，輸家數量佔據優勢，但上漲品種的合計漲幅略勝一籌。上漲方面，飛天茅臺與青花汾20並列領漲，均上漲5元/瓶。其中，前者的全國零售均價在昨日小幅走低後再度轉漲，7.18提價後的高位整理格局延續；後者則打破此前兩連平，自近一個月最低位明顯修復，重新站上370元關口。國窖1573上漲3元/瓶，自昨日創下的今年2月2日以來最低位反彈；青花郎小漲1元/瓶，昨日大幅下挫後出現技術性回補。下跌方面，習酒君品跌幅居前，下跌3元/瓶，三連跌價格退守630一線。精品茅臺、五糧液普五八代、五糧液1618、洋河夢之藍M6+與古井貢古20均下跌2元/瓶。其中，精品茅臺二連陽告終，價格繼續在2400元下方拉鋸；五糧液普五八代四連陰，再平“酒價內參”自去年11月有統計以來最低價紀錄；五糧液1618再度跌破820元關口；洋河夢之藍M6+結束此前連續三日平盤，600元整數支撐位再度失守；古井貢古20連續三日走低。水晶劍南春價格環比昨日保持不變，連續兩日維持在403元/瓶。
+
+---
+
+### 2026-07-31 09:15:42  #市場
+
+【人民幣兌美元中間價報6.7894，較上日調低2點】人民幣兌美元中間價報6.7894，較上日調低2點。
+
+---
+
+### 2026-07-31 09:15:28  #市場
+
+人民幣兌美元中間價報6.7894元。
+
+---
+
+### 2026-07-31 09:15:28  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures opened the day session up 0.68% at 26,044, trading 194 points above the spot index.
 
 ---
 
@@ -21816,131 +21878,5 @@ South Korea's KOSPI index climbed above 5,900 points, extending intraday gains t
 ### 2026-07-30 09:34:10  #市場
 
 【教育板塊再度走強 傳智教育4連板】教育板塊再度走強，傳智教育4連板，創業黑馬漲超10%，科德教育、學大教育、凱文教育、昂立教育、中公教育跟漲。
-
----
-
-### 2026-07-30 09:34:09  #Trading Economics #Economy #Australia #Import Prices MoM #Importance 1
-
-Australia Q2 Import Prices Post Biggest Gain in 4-1/2 Years — Australia's import prices surged 5.7% quarter-on-quarter in Q2 2026, far exceeding market expectations for a flat reading and accelerating sharply from a 0.1% increase in Q1. The latest result marked the third consecutive quarterly rise and the strongest pace since Q4 2021.
-
----
-
-### 2026-07-30 09:33:51  #國際
-
-韓國綜指漲幅擴大至4%。MSCI亞太指數漲1%。
-
----
-
-### 2026-07-30 09:33:42  #MKT News #Important
-
-China A-share gaming sector rallied at the open; Glacier Network rose more than 12%, Caesar Culture hit the daily trading limit, Giant Network climbed over 9%, and Kaiying Network and Perfect World also gained.
-
----
-
-### 2026-07-30 09:33:32  #市場
-
-食品等消費股繼續走強，一鳴食品3連板，均瑤健康、安記食品2連板，海欣食品、李子園、天潤乳業漲幅居前。
-
----
-
-### 2026-07-30 09:33:24  #市場
-
-【遊戲板塊盤初走強 冰川網路漲超10%】遊戲板塊盤初走強，冰川網路漲超10%，凱撒文化漲停，巨人網路、電魂網路、愷英網路跟漲。
-
----
-
-### 2026-07-30 09:33:19  #國際
-
-【時隔6天美軍再襲伊朗】據伊朗塔斯尼姆通訊社報道，今天（7月30日）凌晨，美軍發射導彈襲擊了伊朗最大島嶼加什姆島上的居民區。（CCTV國際時訊）
-
----
-
-### 2026-07-30 09:33:16  #MKT News
-
-Local governor says a fire broke out at Russian online retailer Wildberries' logistics center in Penza.
-
----
-
-### 2026-07-30 09:33:01  #市場
-
-MSCI亞太指數上漲1%至257.65點。
-
----
-
-### 2026-07-30 09:32:51  #市場
-
-【MLCC概念盤初拉昇，雙星新材觸及漲停】MLCC概念盤初拉昇，雙星新材觸及漲停，火炬電子、潔美科技、風華高科、博遷新材、昀冢科技、國瓷材料等跟漲。
-
----
-
-### 2026-07-30 09:32:47  #其他
-
-【AI應用端反覆活躍 傳智教育4連板】AI應用端反覆活躍，傳智教育4連板，普聯軟體、恆鋒資訊、巨人網路、愷英網路、福石控股等跟漲。
-
----
-
-### 2026-07-30 09:32:46  #MKT News #Important #005930.KS #Impact bullish #000660.KS
-
-South Korea's KOSPI jumped about 3% intraday to 5,836.39, with Samsung Electronics up 4.5% and SK Hynix up 2%.
-
----
-
-### 2026-07-30 09:32:26  #國際
-
-【美國環孢子蟲病病例持續上升 確診超6700例】美國疾病控制和預防中心28日公佈的監測資料顯示，近期美國環孢子蟲病病例持續增加。自今年5月1日以來，全美已有45個州累計報告6707例實驗室確診、在美國本土感染的病例，另有超過1.15萬例疑似病例有待實驗室檢測確認。
-
----
-
-### 2026-07-30 09:32:23  #MKT News #DXY #Impact bearish
-
-Australia Q2 export price index YoY +3.9% vs -1.9% previously.
-
----
-
-### 2026-07-30 09:32:15  #MKT News #Economic Calendar #Important
-
-Australia | Export Price Index (YoY) (Q2) | actual 3.9% | previous -1.9%
-
----
-
-### 2026-07-30 09:32:12  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish
-
-Australia Q2 import price index YoY +6.2% (previous -0.3%).
-
----
-
-### 2026-07-30 09:32:05  #MKT News #Economic Calendar #Important
-
-Australia | Import Price Index (YoY) (Q2) | actual 6.2% | previous -0.3%
-
----
-
-### 2026-07-30 09:32:00  #MKT News #Important #Market Regions #Greater China #Commodities #Energy
-
-China A-share oil and gas extraction services sector jumped in early trade; Tongyuan Petroleum rose over 7%, while Keli Co., Qianeng Hengxin, Zhongman Petroleum and Sinopec Oilfield Service also advanced.
-
----
-
-### 2026-07-30 09:31:36  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #Hang Seng Index
-
-【China National Bureau of Statistics: Cultural enterprises' operating revenue rose steadily in 1H】China's National Bureau of Statistics said enterprises above designated size in cultural and related industries reported operating revenue of 7.203 trillion yuan in 1H, up 4.6% YoY. Revenue in core cultural sectors reached 5.047 trillion yuan, up 5.5% YoY. Within core sectors, cultural investment operations, news and information services, and creative design services grew 10.0%, 9.2% and 9.2%, respectively. New cultural business formats showed robust activity.
-
----
-
-### 2026-07-30 09:31:31  #宏觀
-
-【國家統計局：上半年文化企業營業收入平穩增長】上半年，各地區各部門認真貫徹落實黨中央、國務院決策部署，積極推動文化高質量發展若干經濟政策落地顯效，促進文化產業提質增效，著力擴大文化產品和服務消費，文化企業營業收入實現平穩增長，文化新業態行業展現蓬勃活力。規模以上文化企業營業收入平穩增長。上半年，全國規模以上文化及相關產業企業實現營業收入72026億元，比上年同期增長4.6%。分領域看，文化核心領域實現營業收入50472億元，比上年同期增長5.5%。其中，文化投資運營、新聞資訊服務、創意設計服務等3個行業大類營業收入實現較快增長，增速分別為10.0%、9.2%和9.2%。（國家統計局）
-
----
-
-### 2026-07-30 09:31:26  #公司 #國際
-
-【韓國綜指漲幅擴大至3%】韓國綜指漲幅擴大至3%，現報5836.39點。個股方面，三星電子漲超3%，SK海力士漲超1%。
-
----
-
-### 2026-07-30 09:31:20  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-【China index futures open higher】China's equity index futures opened higher: CSI 300 index futures (IF) main contract +0.08%; SSE 50 (IH) +0.49%; CSI 500 (IC) +0.21%; CSI 1000 (IM) +0.32%.
 
 ---

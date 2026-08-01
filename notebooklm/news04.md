@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-01 23:12:03_
-_本檔包含 3717 則快訊，約 673696 字_
+_更新時間：2026-08-02 00:33:55_
+_本檔包含 3710 則快訊，約 673655 字_
+
+---
+
+### 2026-07-29 08:05:09  #觀點 #央行 #國際
+
+【華泰證券：預計美聯儲7月加息機率略高於一半 9月前加息的機率接近100%】華泰證券指出，美聯儲新任主席凱文·沃什（Kevin Warsh）上任後，金融市場對這位新主席政策取向的定價從此前的鴿派降息，轉為更偏鷹派的短期立場。但臨近7月議息會議，市場對聯儲下一步政策的預期卻極度分化。沃什廢除前瞻指引後，市場定價更為困難，而沃什和市場博弈焦點勢必從“聽其言”轉為“觀其行”。綜合分析歷屆聯儲主席換屆經驗、當前宏觀環境以及沃什贏得公信力的目標，華泰證券將聯儲加息的預測時點提前——預計，7月加息機率略高於一半，高於市場目前預期的40%，而基準情形下，沃什9月前加息的機率接近100%。從新任主席和市場博弈的角度看，7月加息綜合成本或更低。
+
+---
+
+### 2026-07-29 08:04:59  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Holds Decline as Oil Prices Rebound — Silver traded near $57 an ounce on Wednesday, holding the previous session’s decline as oil prices rebounded following renewed hostilities in the Middle East, reviving geopolitical tensions and keeping investors focused on inflationary pressures and the interest rate outlook. The US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East. Investors also awaited the Federal Reserve’s policy decision, where it is expected to leave interest rates unchanged. However, markets continue to price in about a one-third chance of a rate hike, reflecting an unusually high level of uncertainty this close to a policy announcement despite repeated calls from President Donald Trump for lower interest rates. Traders also assign roughly an 80% probability to a rate increase in September, reinforcing expectations that borrowing costs could remain elevated.
+
+---
+
+### 2026-07-29 08:04:58  #市場 #觀點
+
+【中信證券：建議關注國內風電招標放量和建設提速帶來的產業鏈盈利改善和估值修復機會】中信證券研報稱，受綠電市場化交易政策影響，過去一年國內風電開發商觀望情緒濃厚，風電專案招標和開發進度多有延後；但隨著專案競價和執行經驗持續積累，以及2027年部分省份機制電價和電量大幅上漲帶動專案收益率預期回升，中信證券預計2026H2起，開發商對新專案招標和建設積極性有望迎來改善。目前風電行業預期底部已夯實，業績底有望隨著2027年中報陸續釋出而明確；隨著行回暖訊號漸強，建議關注國內風電招標放量和建設提速帶來的產業鏈盈利改善和估值修復機會，推薦具備“雙海”競爭優勢的整機和細分零部件龍頭。
+
+---
+
+### 2026-07-29 08:04:24  #公司 #國際
+
+【美國航空集團出現系統故障 航班一度停飛】當地時間7月28日晚間，美國聯邦航空管理局確認，因美國航空集團系統發生故障，對該集團在全美範圍的航班釋出“地面停飛”令。美國空中交通管制系統指揮中心表示，此次系統故障影響了美國航空在所有機場和相關設施的運營。根據航班追蹤資料公司FlightAware的資料，美國航空航班一度可正常降落，但暫停起飛。當天晚些時候，美國航空集團發表宣告稱，當晚公司部分系統曾因技術問題一度出現連線故障。在修復後，各項系統正陸續恢復上線，航班也已重新開始起飛。宣告同時確認在技術團隊排查並解決問題時，公司曾臨時實施地面停飛措施。（央視）
+
+---
+
+### 2026-07-29 08:03:56  #公司 #市場
+
+力拓股價上漲2.8%，此前該公司公佈的上半年基本利潤超出預期。
+
+---
+
+### 2026-07-29 08:01:57  #觀點
+
+【華泰證券：中長期繼續看好玻纖、潔淨室等高景氣板塊】華泰證券研報認為，AI科技鏈板塊基本面高景氣趨勢未變，其中玻纖電子布、潔淨室受益於量價齊升。雖然7月以來電子布等AI科技鏈新材料企業的股價已普遍回撥超過30%，但2026年以來累計漲幅仍在反映業績高增長趨勢，且WAIC展也顯示出國產算力和大模型的最新進展，未來有望成為推動國產PCB及上游材料成長的重要推動力。中長期繼續看好玻纖、潔淨室等高景氣板塊，重視玻璃基板從0到1的突破。
+
+---
+
+### 2026-07-29 08:01:52  #公司 #市場
+
+三星電子股價上漲超過3%。
+
+---
+
+### 2026-07-29 08:01:44  #MKT News #Important #Market Regions #Japan & APAC #000660.KS #Impact bullish #005930.KS #Nikkei 225
+
+【Korean, Japanese markets open higher; SK Hynix up 2% after results】South Korea's KOSPI opened 1.2% higher; SK Hynix rose 2% after Q2 operating profit surged but fell short of expectations, and Samsung Electronics gained 3%. Japan's Nikkei 225 opened 0.18% higher.
+
+---
+
+### 2026-07-29 08:01:27  #市場
+
+SK海力士漲2%，此前公佈二季度營業利潤飆升但不及預期，三星電子漲3%。
+
+---
+
+### 2026-07-29 08:00:39  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤上漲1.1%，至6089.11點。
+
+---
+
+### 2026-07-29 08:00:20  #市場
+
+【日韓股市開盤】日經225指數上午開盤報62734.68點，漲幅0.59％。韓國綜合股價指數（KOSPI）開盤上漲1.1％，至6089.11點。
+
+---
+
+### 2026-07-29 08:00:04  #市場
+
+布倫特原油日內漲2%，現報84.13美元/桶。
+
+---
+
+### 2026-07-29 07:59:48  #國際
+
+市場訊息：兩名從日本製紙工業株式會社八代工廠獲救的人員出現心肺驟停，另有九人下落不明。
+
+---
+
+### 2026-07-29 07:59:16  #公司
+
+【QFII持倉浮出水面 增持個股業績表現良好】隨著2026年半年報持續披露，首批合格境外機構投資者（QFII）的持倉情況已浮出水面。據證券時報·資料寶統計，截至7月28日，QFII進入14家上市公司前十大流通股東名單，持倉總市值約為119.95億元。具體來看，QFII對於寧德時代、金煤科技持股超過1000萬股，分別為2736.66萬股、1944.41萬股；持股中蘭環保、海南礦業均超700萬股；持股蘇試試驗、正泰電源均超400萬股。按照半年報、預告中值順序統計，QFII持倉的這14家公司上半年業績普遍向好。
+
+---
+
+### 2026-07-29 07:58:01  #公司 #市場
+
+【AI算力需求催熱上半年業績 MLCC產業鏈高景氣度下半年將延續】今年以來，受益於AI算力需求爆發，素有“電子工業大米”之稱的MLCC（片式多層陶瓷電容器）供應緊俏，價格持續上漲，帶動被動元器件行業景氣度回升，多家上市公司預計上半年業績實現大幅增長，最高增幅超過6倍。展望下半年，有行業人士向記者表示，7月以來，MLCC價格整體平穩，品類內部價格則分化加劇，AI和車規級高階高容產品價格繼續上漲。在AI伺服器需求旺盛、原廠產能被鎖定、上游貴金屬等原材料價格居高的背景下，預計下半年高階高容MLCC價格將繼續上漲，並有望推高被動元器件市場整體景氣度。（上海證券報）
 
 ---
 
@@ -22339,137 +22429,5 @@ European equities closed higher on Monday July 27: Germany's DAX rose 280.47 poi
 ### 2026-07-27 23:35:48  #國際
 
 【中國駐吉達總領館再次提醒在沙特中資機構和中國公民注意安全】中國駐吉達總領館釋出提醒稱，連日來，沙特多地遭導彈和無人機攻擊，數艘沙特運營的船隻在紅海航行時遭襲，部分地區航班受到影響，局勢還有可能進一步惡化。中國駐吉達總領館再次提醒在沙中資機構和中國公民密切關注沙特和中東地區形勢發展，採取必要措施切實加強安全防範，及時避險。不要拍攝軍事行動，不傳播未經證實的訊息。有乘飛機或輪船出行計劃的旅客請與有關航司保持密切聯絡，以免影響行程。如遇緊急情況，請及時報警並聯系駐沙使領館。
-
----
-
-### 2026-07-27 23:34:50  #MKT News #Macro & Rates #Treasury Yields
-
-US two-year Treasury yield dipped to 4.315% from 4.320% ahead of a Treasury auction.
-
----
-
-### 2026-07-27 23:34:27  #公司
-
-參議院發言人：OpenAI 執行長山姆・奧特曼本週將會見民主黨參議員馬克・沃納。
-
----
-
-### 2026-07-27 23:34:09  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed #DXY #Impact bullish #S&P500 #Impact bearish
-
-U.S. Treasury auctioned $69.0 bln 2-year notes; stop-out yield 4.315%, bid-cover ratio 2.66 (prior 2.64).
-
----
-
-### 2026-07-27 23:33:51  #宏觀 #市場 #國際
-
-美國財政部拍賣690億美元兩年期國債，得標利率4.315%（6月23日為4.189%，至少創2025年2月份以來新高），投標倍數2.66（前次為2.64）。
-
----
-
-### 2026-07-27 23:33:20  #市場 #國際
-
-2 年期美國國債收益率在 690 億美元國債拍賣後延續跌勢，最新下跌 1.51 個基點，報 4.316%。
-
----
-
-### 2026-07-27 23:32:51  #宏觀 #市場 #國際
-
-美國財政部拍賣六個月期國債，得標利率3.945%，投標倍數3.12。
-
----
-
-### 2026-07-27 23:32:17  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed
-
-U.S. 6M Treasury auction on July 27: 36.13% of the awarded amount allocated at the stop-out rate, down from 51.45% previously.
-
----
-
-### 2026-07-27 23:32:15  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 6-month Treasury auction on July 27 bid-cover ratio 3.12; prior 2.94.
-
----
-
-### 2026-07-27 23:32:15  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-6-month U.S. Treasury auction (settlement July 27) stop-out yield 3.945% vs 3.84% prior.
-
----
-
-### 2026-07-27 23:32:06  #MKT News #Economic Calendar
-
-United States | 6-Month Bill Auction Bid/Cover Ratio (Jul.27) | actual 3.12 | previous 2.94
-
----
-
-### 2026-07-27 23:32:06  #MKT News #Economic Calendar
-
-United States | 6-Month Bill Auction Accepted at High (Jul.27) | actual 36.13% | previous 51.45%
-
----
-
-### 2026-07-27 23:32:06  #MKT News #Economic Calendar
-
-United States | 6-Month Bill Auction High Yield Rate (Jul.27) | actual 3.945% | previous 3.84%
-
----
-
-### 2026-07-27 23:31:56  #國際
-
-【特朗普稱若談判破裂將強力打擊伊朗】今天（7月27日），據美國“阿克西奧斯新聞網（Axios）”報道，美國總統特朗普稱，他決定暫停對伊朗的打擊，以便給談判一個機會。但他強調，如果外交努力失敗，他可能會下令恢復並擴大軍事行動。 特朗普稱，美國正與伊朗進行“非常深入”的談判，如果談判沒有結果，美國將轉而採取非常強硬的軍事行動。當被問及願意給外交努力多長時間時，特朗普回答說：“時間不多，要麼進展迅速，要麼乾脆作罷。” （CCTV國際時訊）
-
----
-
-### 2026-07-27 23:30:51  #其他
-
-德國DAX 30指數初步收漲1.34%，報25438.84點。法國股指初步收漲0.75%，義大利股指初步收漲0.64%、銀行指數漲1.33%，英國股指初步收漲0.74%。荷蘭股指初步收跌0.49%。
-
----
-
-### 2026-07-27 23:30:46  #國際
-
-歐洲STOXX 600指數初步收漲0.30%，報646.37點。歐元區STOXX 50指數初步收漲0.37%，報6304.11點。富時泛歐績優300指數初步收漲0.23%，報2584.44點。
-
----
-
-### 2026-07-27 23:30:35  #國際
-
-卡達外交部：卡達首相兼外交大臣接到加拿大外交部長的來電。 通話期間，雙方回顧了兩國合作關係，探討鞏固並深化雙邊合作的途徑；同時就地區最新局勢交換意見，重點談及各方開展的外交行動，以及為緩和衝突、維護地區安全穩定所開展的協同工作。
-
----
-
-### 2026-07-27 23:28:58  #MKT News #Market Themes #AI Revolution
-
-KimiAI has open-sourced MoonEP, a high-performance communication library for distributed Mixture-of-Experts (MoE) workloads. MoonEP is designed to improve expert-parallel communication efficiency at scale and reduce communication overhead for large MoE models in training and inference.
-
----
-
-### 2026-07-27 23:25:36  #國際
-
-俄羅斯總統新聞秘書佩斯科夫：俄羅斯是社會福利型國家，這點與美國不同，我國不會在社交媒體上投入數千億美元資金。
-
----
-
-### 2026-07-27 23:25:08  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Climbs to 5-Month High — The FTSE 100 gained 0.4% on Monday, climbing above 10,780 to its highest level since the record close on February 27, supported by strong corporate earnings and easing energy costs. The US and Iran refrained from further attacks for a third consecutive night, reducing concerns over inflationary pressures. Vodafone was among the strongest performers, rising nearly 5% after reporting better-than-expected organic service revenue growth and maintaining a positive outlook. AstraZeneca advanced 1.7% after quarterly earnings exceeded expectations and the company reaffirmed its full-year guidance and 2030 targets. GSK gained more than 2%, while Unilever and BAE Systems also moved higher. In contrast, energy stocks declined as oil prices weakened, with Shell down 0.9% and BP falling 2.6%. Mining stocks also lagged, including Glencore (-3.4%), Anglo American (-2.4%) and Antofagasta (-1.9%).
-
----
-
-### 2026-07-27 23:22:58  #MKT News
-
-UK Prime Minister Burnham said the next budget will not change or abolish stamp duty on property purchases.
-
----
-
-### 2026-07-27 23:22:32  #公司
-
-【保時捷將在德國再裁員5000人】德國跑車製造商保時捷27日宣佈，將於2035年前在德國再裁減5000個工作崗位。這是該公司近期又一輪大規模裁員計劃，旨在降低人力成本、提升競爭力。（新華社）
-
----
-
-### 2026-07-27 23:22:32  #MKT News #PAH3.DE #Impact mixed
-
-【Porsche to cut 5,000 jobs in Germany by 2035】Porsche said on the 27th it will cut 5,000 jobs in Germany by 2035. The latest round of large-scale layoffs is aimed at reducing labour costs and improving competitiveness.
 
 ---
