@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-01 10:06:49",
-  "count": 17980,
+  "updated": "2026-08-01 10:10:55",
+  "count": 17976,
   "items": [
+    {
+      "id": "mkt:019fbb14-6513-7aab-8f3e-f6f1cd49c8d0",
+      "time": "2026-08-01 10:08:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Summer travel halfway: China railways carry 432 million passenger trips】China State Railway Group said the two-month summer transport period, which began July 1, carried 432 million passenger trips from July 1–31. Passenger flows concentrated in Chengdu–Chongqing, Beijing–Tianjin–Hebei, the Yangtze River Delta and the Guangdong–Hong Kong–Macao Greater Bay Area. As of July 31, China Railway’s Beijing bureau had carried 38.774 million passengers and the Guangzhou bureau 58.925 million."
+    },
+    {
+      "id": "5020149",
+      "time": "2026-08-01 10:07:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【暑運過半 全國鐵路累計傳送旅客4.32億人次】記者今天（8月1日）從國鐵集團獲悉，為期兩個月的鐵路暑運自7月1日啟動以來至7月31日，累計傳送旅客4.32億人次。（央視新聞）"
+    },
     {
       "id": "mkt:019fbb0f-23ea-7aab-8f3e-e9f4eeba25d3",
       "time": "2026-08-01 10:02:39",
@@ -166475,62 +166491,6 @@
         "DXY"
       ],
       "text": "U.S. President Trump said the situation with Iran is progressing very well and urged the public not to believe fake news."
-    },
-    {
-      "id": "mkt:019f9709-876b-7aab-8e91-ed368050db52",
-      "time": "2026-07-25 10:10:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Trump said Iran is currently in contact with the US, but he does not believe they are ready to reach an agreement."
-    },
-    {
-      "id": "5007768",
-      "time": "2026-07-25 10:08:11",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我認為現在還不是伊朗達成協議的時候。"
-    },
-    {
-      "id": "5007767",
-      "time": "2026-07-25 10:08:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：別以為伊朗已經做好準備了。"
-    },
-    {
-      "id": "5007766",
-      "time": "2026-07-25 10:07:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗現在正在和我們對話。"
-    },
-    {
-      "id": "5007765",
-      "time": "2026-07-25 10:07:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗局勢進展非常順利。"
-    },
-    {
-      "id": "mkt:019f9706-90ee-7aab-8e91-e6f9210684c9",
-      "time": "2026-07-25 10:06:57",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Iran's Press TV reported missiles and drones from Yemen struck Saudi Arabia's Jazan, sparking fires."
     }
   ]
 }

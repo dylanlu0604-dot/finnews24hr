@@ -1,7 +1,23 @@
 {
   "date": "2026-08-01",
-  "count": 582,
+  "count": 584,
   "items": [
+    {
+      "id": "mkt:019fbb14-6513-7aab-8f3e-f6f1cd49c8d0",
+      "time": "2026-08-01 10:08:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Summer travel halfway: China railways carry 432 million passenger trips】China State Railway Group said the two-month summer transport period, which began July 1, carried 432 million passenger trips from July 1–31. Passenger flows concentrated in Chengdu–Chongqing, Beijing–Tianjin–Hebei, the Yangtze River Delta and the Guangdong–Hong Kong–Macao Greater Bay Area. As of July 31, China Railway’s Beijing bureau had carried 38.774 million passengers and the Guangzhou bureau 58.925 million."
+    },
+    {
+      "id": "5020149",
+      "time": "2026-08-01 10:07:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【暑運過半 全國鐵路累計傳送旅客4.32億人次】記者今天（8月1日）從國鐵集團獲悉，為期兩個月的鐵路暑運自7月1日啟動以來至7月31日，累計傳送旅客4.32億人次。（央視新聞）"
+    },
     {
       "id": "mkt:019fbb0f-23ea-7aab-8f3e-e9f4eeba25d3",
       "time": "2026-08-01 10:02:39",
