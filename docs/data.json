@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-02 02:09:15",
+  "updated": "2026-08-02 02:13:08",
   "count": 18027,
   "items": [
+    {
+      "id": "5020544",
+      "time": "2026-08-02 02:10:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【以媒稱美接近批准襲擊伊朗能源設施】以色列第12頻道電視臺當地時間8月1日援引以色列官員的話報道稱，以色列方面評估認為，美國總統特朗普“比以往任何時候都更接近批准對伊朗發動重大軍事打擊”，但相關計劃尚未最終確定。報道稱，美方考慮對伊朗的“特定能源設施”進行“精準且受限的打擊”。評估顯示，美方目前“傾向於不讓以色列參與第一階段的最初襲擊”。但以色列方面認為，美國一旦對伊朗發動重大襲擊，很可能會直接引發伊朗對以色列的軍事報復，而以色列屆時或將“被迫捲入衝突並加入戰局”。目前，以色列國防機構正保持高度警惕。（CCTV國際時訊）"
+    },
     {
       "id": "5020543",
       "time": "2026-08-02 01:51:02",
@@ -166913,18 +166922,6 @@
         "國際"
       ],
       "text": "市場資訊： 烏克蘭總統澤連斯基稱：俄方衛星偵察情報顯示，俄羅斯正在為伊朗提供指引，協助其在中東發動打擊行動。"
-    },
-    {
-      "id": "mkt:019f9a78-18e9-7aab-8e96-44d450eed890",
-      "time": "2026-07-26 02:09:49",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【IRGC says US military deaths exceed official figures】An IRGC spokesman said US fatalities after breaching an agreement exceed 200 and called official US casualty figures a complete falsehood. He said IRGC strikes hit eight US garrisons in the \"Victory 2\" operation, destroying 20 warehouses at one site, and that injuries are substantially higher than the death toll. He urged the US government to allow journalists to visit strike sites to verify casualties."
     }
   ]
 }
