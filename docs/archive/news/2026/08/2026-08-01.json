@@ -1,7 +1,27 @@
 {
   "date": "2026-08-01",
-  "count": 963,
+  "count": 965,
   "items": [
+    {
+      "id": "mkt:019fbd47-ed27-7aab-8f42-45d0da1f57a5",
+      "time": "2026-08-01 20:23:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Qatar News Agency reported the Gulf Cooperation Council Secretary-General condemned Iran's attack on Kuwaiti civilian facilities."
+    },
+    {
+      "id": "5020444",
+      "time": "2026-08-01 20:22:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯襲擊基輔死亡人數升至10人。"
+    },
     {
       "id": "5020441",
       "time": "2026-08-01 20:16:32",
