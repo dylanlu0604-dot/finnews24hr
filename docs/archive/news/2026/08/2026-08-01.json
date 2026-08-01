@@ -1,7 +1,31 @@
 {
   "date": "2026-08-01",
-  "count": 696,
+  "count": 699,
   "items": [
+    {
+      "id": "5020232",
+      "time": "2026-08-01 13:10:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：加拿大麥克尼爾港西南200公里處發生5.6級地震。"
+    },
+    {
+      "id": "mkt:019fbbba-4cca-7aab-8f40-00606c722ae7",
+      "time": "2026-08-01 13:09:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SAIC-GM-Wuling reported July global sales of 120,050 vehicles; July new-energy vehicle (NEV) sales were 72,695 units."
+    },
+    {
+      "id": "5020231",
+      "time": "2026-08-01 13:08:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上汽通用五菱7月全球銷量120050輛】上汽通用五菱7月全球銷量120050輛，7月新能源銷量72695輛。"
+    },
     {
       "id": "mkt:019fbbb6-52d7-7aab-8f3f-f8821c630980",
       "time": "2026-08-01 13:05:15",
