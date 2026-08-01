@@ -1,7 +1,39 @@
 {
   "date": "2026-08-01",
-  "count": 802,
+  "count": 806,
   "items": [
+    {
+      "id": "mkt:019fbc59-c87f-7aab-8f41-1712ea406309",
+      "time": "2026-08-01 16:03:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait's military said it has detected and destroyed hostile drones in Kuwaiti airspace since dawn on Saturday."
+    },
+    {
+      "id": "5020308",
+      "time": "2026-08-01 16:03:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特：伊朗襲擊造成物質損失，無人傷亡。"
+    },
+    {
+      "id": "5020307",
+      "time": "2026-08-01 16:03:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特：伊朗無人機襲擊布比延島民用機械。"
+    },
+    {
+      "id": "5020306",
+      "time": "2026-08-01 16:02:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特稱伊朗無人機襲擊其北部政府設施。"
+    },
     {
       "id": "5020305",
       "time": "2026-08-01 15:55:10",

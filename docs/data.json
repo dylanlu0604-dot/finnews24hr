@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-01 16:01:11",
-  "count": 17989,
+  "updated": "2026-08-01 16:05:08",
+  "count": 17992,
   "items": [
+    {
+      "id": "mkt:019fbc59-c87f-7aab-8f41-1712ea406309",
+      "time": "2026-08-01 16:03:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait's military said it has detected and destroyed hostile drones in Kuwaiti airspace since dawn on Saturday."
+    },
+    {
+      "id": "5020308",
+      "time": "2026-08-01 16:03:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特：伊朗襲擊造成物質損失，無人傷亡。"
+    },
+    {
+      "id": "5020307",
+      "time": "2026-08-01 16:03:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特：伊朗無人機襲擊布比延島民用機械。"
+    },
+    {
+      "id": "5020306",
+      "time": "2026-08-01 16:02:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特稱伊朗無人機襲擊其北部政府設施。"
+    },
     {
       "id": "5020305",
       "time": "2026-08-01 15:55:10",
@@ -166547,14 +166579,6 @@
         "公司"
       ],
       "text": "【奇瑞集團全球累計銷量突破2000萬輛】據“奇瑞集團”公眾號訊息，2026年7月25日，奇瑞集團全球累計銷量正式突破2000萬輛。奇瑞集團表示，同一天即將迎來上市的風雲A9，將作為第2000萬輛車，正式交付給使用者。"
-    },
-    {
-      "id": "mkt:019f984e-11ec-7aab-8e94-340d5c883672",
-      "time": "2026-07-25 16:04:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to National Grid data, reactors 2-7 at Heysham in the UK are offline."
     }
   ]
 }
