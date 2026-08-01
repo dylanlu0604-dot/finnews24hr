@@ -1,7 +1,16 @@
 {
   "date": "2026-08-01",
-  "count": 901,
+  "count": 902,
   "items": [
+    {
+      "id": "mkt:019fbce2-2886-7aab-8f41-ce7e9e938ef9",
+      "time": "2026-08-01 18:32:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Saudi outlet Hadath reports an explosion in Eslamabad-e Gharb, Kermanshah province, Iran."
+    },
     {
       "id": "5020383",
       "time": "2026-08-01 18:26:57",
