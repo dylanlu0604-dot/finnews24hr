@@ -1,7 +1,542 @@
 {
   "date": "2026-08-01",
-  "count": 715,
+  "count": 775,
   "items": [
+    {
+      "id": "5020288",
+      "time": "2026-08-01 15:14:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【數字怪獸獲西高投千萬級戰略投資】近日，西安數字怪獸科技有限公司正式獲得西安高新技術產業風險投資有限責任公司（西高投）千萬級戰略投資。本輪投資將主要用於公司原創IP開發、動畫技術研發、人才團隊建設及業務升級。"
+    },
+    {
+      "id": "5020287",
+      "time": "2026-08-01 15:14:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中重科技承包遼寧紫竹集團輕型特鋼有限公司1150耐候特鋼高效能複合型鋼生產線投產】據中重科技訊息，近日，由中重科技負責全線機電液系統設計、核心裝置製造及總成的遼寧紫竹集團輕型特鋼有限公司1150耐候特鋼高效能複合型鋼生產線一次性熱負荷試車成功。試軋第一根鋼板樁順利透過粗軋機、精軋機組，成功進入冷床冷卻，產品尺寸合格。"
+    },
+    {
+      "id": "mkt:019fbc22-8c1e-7aab-8f40-ba1004dc5ffc",
+      "time": "2026-08-01 15:03:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【China Rare Earth Group and China Youyan Technology Group hold working talks】China Rare Earth Group chairman and party secretary Liu Leiyun met recently at headquarters with China Youyan Technology Group deputy party secretary and general manager Ai Lei. They exchanged on coordinated development of the rare‑earth metals industry, joint development of original technology capabilities, and construction of a rare‑earth pilot/testing platform, and agreed to advance regularized cooperation."
+    },
+    {
+      "id": "5020286",
+      "time": "2026-08-01 15:03:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "現代汽車美國公司：7月總銷量為82,480輛。"
+    },
+    {
+      "id": "5020285",
+      "time": "2026-08-01 15:01:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜完成對OpenAI總計500億美元全額投資】當地時間7月31日，亞馬遜在10-Q季報中披露，已完成對OpenAI總計500億美元的全額投資。今年第一季度，亞馬遜在OpenAI的C輪優先股中投資150億美元，並承諾將追加購買350億美元。第二季度，該公司投入承諾金額中的137億美元用於購買OpenAI C輪優先股。報告期後，公司又將剩餘213億美元的承諾金額投資於OpenAI的C輪優先股。亞馬遜表示，如果OpenAI完成首次公開募股（IPO）或其他流動性事件，屆時已發行的C輪優先股將轉換為普通股。公司預計在IPO後將受到慣例鎖定期約束，此後仍將受適用的證券法限制的約束。"
+    },
+    {
+      "id": "mkt:019fbc1e-f55f-7aab-8f40-b3e8a97eabbd",
+      "time": "2026-08-01 14:59:33",
+      "tags": [
+        "MKT News",
+        "IOC.NS",
+        "Impact bullish"
+      ],
+      "text": "A top executive at Indian Oil said refining capacity expansion will lift the company's crude throughput to 85 mln tonnes in FY2027/28."
+    },
+    {
+      "id": "5020284",
+      "time": "2026-08-01 14:59:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油公司高管表示，公司的煉油產能擴建專案將在2027/28財年把原油加工量提升至8500萬噸。"
+    },
+    {
+      "id": "5020283",
+      "time": "2026-08-01 14:58:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴新外長重申堅定奉行一箇中國政策】巴布亞紐幾內亞外交部長特卡琴科7月31日重申，巴新政府堅定奉行一箇中國政策，願以建交50週年為契機，推動兩國各領域交流合作取得更多成果。（新華社）"
+    },
+    {
+      "id": "mkt:019fbc1d-67d1-7aab-8f40-aa93b12404f3",
+      "time": "2026-08-01 14:57:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kia Motors America reported record July sales of 75,857 vehicles, up 7% YoY."
+    },
+    {
+      "id": "mkt:019fbc1c-921d-7aab-8f40-a52961e76992",
+      "time": "2026-08-01 14:56:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A top executive at Indian Oil said the company expects its LPG retail business to incur a loss of about 250 rupees per 14.2-kg cylinder sold in Jul-Sep."
+    },
+    {
+      "id": "5020282",
+      "time": "2026-08-01 14:56:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "起亞汽車美國公司7月銷量創紀錄，達75,857輛，同比增長7%。"
+    },
+    {
+      "id": "mkt:019fbc1b-d50b-7aab-8f40-992b1dda9ca8",
+      "time": "2026-08-01 14:56:08",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "ZELENSKIY says Ukraine lacks air-defense supplies and has shot down only one Russian ballistic missile."
+    },
+    {
+      "id": "5020280",
+      "time": "2026-08-01 14:55:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油公司高管表示，該公司7-9月液化石油氣零售業務每售出一個14.2千克裝氣瓶，預計虧損約250盧比。"
+    },
+    {
+      "id": "mkt:019fbc1a-cc9b-7aab-8f40-931c2dd60785",
+      "time": "2026-08-01 14:55:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "A top executive at an Indian oil company said the firm will invest about INR 1 tln over the next 5-6 years to expand petrochemical capacity."
+    },
+    {
+      "id": "mkt:019fbc1a-a575-7aab-8f40-8de2b5012e8d",
+      "time": "2026-08-01 14:54:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukrainian President Zelenskiy said Russia launched 35 missiles and 185 drones at Ukraine."
+    },
+    {
+      "id": "mkt:019fbc1a-8672-7aab-8f40-87e54aaf0b10",
+      "time": "2026-08-01 14:54:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Kazakhstan's Energy Ministry said a proposal to fully halt the Caspian Pipeline Consortium (CPC) is not under consideration."
+    },
+    {
+      "id": "5020279",
+      "time": "2026-08-01 14:54:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，俄羅斯發射了35枚導彈、185架無人機襲擊烏克蘭。由於烏克蘭缺乏防空裝備，僅一枚俄羅斯彈道導彈被擊落。"
+    },
+    {
+      "id": "5020278",
+      "time": "2026-08-01 14:53:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【出欄增加，生豬價格繼續走低】本週國內生豬價格先跌後穩。據中國養豬網的資料，7月31日，生豬（外三元）價格為10.35元/公斤，與上週五（7月24日）的10.69元/公斤相比，下降3.2%。從一週均價來看，本週生豬均價為10.45元/公斤，與上週10.82元/公斤的均價相比，下降3.4%。"
+    },
+    {
+      "id": "5020277",
+      "time": "2026-08-01 14:53:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油公司高管稱，公司未來5-6年將投資約1萬億盧比用於石化產能擴張。"
+    },
+    {
+      "id": "5020276",
+      "time": "2026-08-01 14:52:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克能源部表示，目前不考慮全面停止裡海管道聯盟(CPC)的運營。"
+    },
+    {
+      "id": "5020275",
+      "time": "2026-08-01 14:52:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "一位莫斯科訊息人士表示，俄方已準備好與烏克蘭進行談判。"
+    },
+    {
+      "id": "mkt:019fbc17-da77-7aab-8f40-7b1038b8af21",
+      "time": "2026-08-01 14:51:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU Naval Force vessel Aspides said a merchant ship completed a safe transit of the Red Sea under escort by an Italian frigate."
+    },
+    {
+      "id": "5020274",
+      "time": "2026-08-01 14:51:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟“阿斯皮德斯”海軍部隊表示，一艘商船在義大利護衛艦的護航下，已安全完成紅海航道通行。"
+    },
+    {
+      "id": "5020273",
+      "time": "2026-08-01 14:51:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【西班牙首相斥非法移民危機】西班牙政府7月31日表示，自7月30日以來，超過5萬名非法移民闖入西班牙北非飛地休達，至少57人在偷渡過程中死亡。西班牙首相桑切斯表示，該事件是對西班牙領土完整性的侵犯和攻擊。 截至7月31日下午，西班牙政府表示，已成功阻止大批非法移民湧入，約4.8萬名非法移民自願返回摩洛哥。儘管如此，本輪大規模偷渡潮帶來的外交爭議仍在持續。多個歐洲國家相繼表態，將強化與西班牙邊境管控，防範非法移民流入。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019fbc16-b681-7aab-8f40-755855ffc008",
+      "time": "2026-08-01 14:50:32",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Moscow source says Russia remains open to talks with Ukraine】State media cited a Moscow source saying Russia is prepared to negotiate with Ukraine and has repeatedly signaled openness. The source said Ukraine interrupted and even prohibited talks, and that Moscow has not rejected constructive proposals on forms of engagement."
+    },
+    {
+      "id": "5020272",
+      "time": "2026-08-01 14:47:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超強厄爾尼諾事件正在形成 或為150年來最強一次】記者從中國氣象局瞭解到，目前太平洋上持續增強的厄爾尼諾氣候現象，或將成為150年來最強的一次。根據中國氣象局國家氣候中心監測顯示，赤道中東太平洋於5月達到厄爾尼諾狀態的標準，且6月赤道中東太平洋海溫持續增暖，7月開始已經進入強厄爾尼諾事件的監測行列，發生超強厄爾尼諾事件的機率在增大。預計本次事件至少持續到明年春季，整體持續時間接近歷史上厄爾尼諾事件的平均長度——10至11個月。（央視新聞）"
+    },
+    {
+      "id": "5020271",
+      "time": "2026-08-01 14:46:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國稀土集團與中國有研科技集團舉行工作會談】據中國稀土集團訊息，近日，中國稀土集團黨委書記、董事長劉雷雲在總部會見中國有研科技集團黨委副書記、總經理艾磊一行，雙方圍繞稀土金屬產業協同發展、原創技術策源地共建、稀土中試平臺搭建等核心領域進行深入交流，並就推進常態化合作達成共識。"
+    },
+    {
+      "id": "mkt:019fbc10-9ff3-7aab-8f40-6b0325a8fb14",
+      "time": "2026-08-01 14:43:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Three agencies allocate 11,000 central relief items to Jilin and Heilongjiang】Aug 1 — The Office of the National Disaster Reduction and Relief Commission and the Ministry of Emergency Management sent teams to Jilin and Heilongjiang to assess recent rain- and flood-related damage and assist local rescue operations. In coordination with the State Grain and Material Reserves Administration, they allocated 11,000 central relief items — blankets, bedding and household emergency kits — to support resettlement and aid for affected residents."
+    },
+    {
+      "id": "5020270",
+      "time": "2026-08-01 14:43:53",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【驍龍攜第二代智慧指環亮相2026 ChinaJoy】2026 ChinaJoy展會現場，驍龍主題館帶來了第二代智慧指環的首秀。新浪科技在現場看到，透過搭載驍龍平臺的AR眼鏡、智慧指環與驍龍PC組成的跨終端體驗系統，玩家在佩戴AR眼睛和智慧手環後，透過手勢召喚、動作控制與自然語音交流等方式，和AI小熊貓互動。（新浪科技）"
+    },
+    {
+      "id": "5020269",
+      "time": "2026-08-01 14:43:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三部門調撥1.1萬件中央救災物資支援吉林、黑龍江救災救助工作】8月1日，國家防災減災救災委員會辦公室、應急管理部針對吉林、黑龍江等地近期暴雨洪澇災害情況，派出工作組赴兩省實地檢視災情，協助和指導地方做好救災工作。根據災區救災救助工作需要，會同國家糧食和物資儲備局向吉林、黑龍江調撥毛毯、被褥、家庭應急包等1.1萬件中央救災物資，支援地方妥善做好受災群眾安置救助工作。（央視新聞）"
+    },
+    {
+      "id": "5020268",
+      "time": "2026-08-01 14:38:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長三角多地發放結婚消費券】在長三角部分地區，新人們除了能收到來自親朋好友的祝福，還可能領到一份“官方隨的份子”——結婚消費券。 浙江江山第二批結婚消費券定於8月19日當天啟動發放，凡在七夕起一個月內登記的新人，每對可申領價值1000元的消費券。就在兩個多月前的“520”，首批消費券同樣引發了一波申領熱潮。 長三角多地已先後試水。日前，浙江義烏市民政部門宣佈再次延長結婚消費券活動時間，2026年10月底前，在當地登記結婚的新人均可申領價值1000元、由財政補貼的消費券。當地的結婚消費券發放活動2025年10月中旬啟動，這已經是第二次延期。每對辦理結婚登記的夫妻可領取10張“滿200元減100元”滿減券，用於婚禮婚慶、婚紗攝影、休閒旅遊、酒店住宿、婚俗文創、零售餐飲等消費，領取後30日核心銷。據義烏市婚姻登記中心介紹，到2026年6月底，已有3161對新人領取消費券。（上觀新聞）"
+    },
+    {
+      "id": "5020267",
+      "time": "2026-08-01 14:38:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【森峰鐳射北交所IPO將於8月7日上會】據北交所網站披露，北交所上市稽核委員會定於8月7日上午9時召開2026年第74次上市稽核委員會審議會議，屆時將審議濟南森峰鐳射科技股份有限公司的首發事項。"
+    },
+    {
+      "id": "5020266",
+      "time": "2026-08-01 14:31:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄羅斯襲擊基輔生產美國無人機工廠】據英國《衛報》網站7月31日報道，一枚俄羅斯彈道導彈當天摧毀了位於烏克蘭首都基輔的一家無人機工廠。該工廠的所有者是一家在美國特拉華州註冊的公司。 報道稱，這似乎是俄羅斯在衝突中首次以美國國防企業為目標。 該公司名為終端自主無人機公司。據一位熟悉該公司的人士透露，終端自主公司生產高精度的用於“縱深打擊”的無人機，其制導系統能夠抵禦俄羅斯的訊號干擾。 特拉華州政府記錄顯示，該公司於2023年在該州註冊成立。該公司網站稱：“我們部署人工智慧制導巡飛彈和精確制導彈藥，這些彈藥已在前線投入實戰，用於打擊敵方目標。” 終端自主無人機公司和烏克蘭國防部沒有回覆記者的置評請求。 （參考訊息）"
+    },
+    {
+      "id": "5020265",
+      "time": "2026-08-01 14:30:42",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【科威特稱正在應對無人機襲擊】當地時間8月1日上午，科威特武裝部隊釋出訊息稱，科方防空系統“正在”應對無人機襲擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fbc03-1a64-7aab-8f40-64bed302bb50",
+      "time": "2026-08-01 14:29:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait Armed Forces General Staff said Kuwait's air-defence forces are responding to hostile drone attacks, saying the action is to retaliate against Iranian aggression. It said any explosions heard are from its air-defence systems intercepting the attacks and urged the public to follow safety and protection directives issued by authorities."
+    },
+    {
+      "id": "5020264",
+      "time": "2026-08-01 14:28:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國把AI價格打下來了】當下，中國的大模型透過開源開放，讓人工智慧從昂貴的奢侈品變成普惠的日用品。過去，高效能的人工智慧像少數人的奢侈品，價格高、門檻高，許多國家看得見卻用不起、想參與卻進不來。如今，我國人工智慧開源大模型全球累計下載量已突破100億次，國家級的人工智慧開源社群彙集使用者1100餘萬，託管模型超過了7萬個。中國大模型走向世界，不只是輸出一個模型，更是紮根一片土地、培養一批人才、帶動一個產業、造福一方人民。真正偉大的技術，不應成為少數人的特權，而應成為全人類共同進步的力量。讓人工智慧惠及世界、造福人類，正是中國開源的時代使命。（央視財經）"
+    },
+    {
+      "id": "5020263",
+      "time": "2026-08-01 14:28:24",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【德國南部林火失控】德國南部巴伐利亞州弗羅伊登貝格附近地區發生林火，截至7月31日，火勢仍處於失控狀態。當局已部署約330名應急人員投入滅火行動。安貝格-蘇爾茨巴赫地方當局7月31日說，強風肆虐導致火勢失控。由於地形複雜，消防人員只能徒步前往各處地點實施滅火作業，雷暴天氣也對救援行動造成阻礙。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fbc01-c370-7aab-8f40-5eb4497c121f",
+      "time": "2026-08-01 14:27:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Kuwait's military said its air defenses are currently intercepting hostile missiles from Iran."
+    },
+    {
+      "id": "5020262",
+      "time": "2026-08-01 14:27:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【整合重組歌舞團、戲曲劇團、話劇團等，吉林市演藝集團揭牌】據吉林市融媒體中心訊息，2026年7月31日，吉林市演藝集團（市歌舞團）有限責任公司揭牌儀式舉行。此次改革系統性整合市歌舞團、市戲曲劇團、市話劇團、市人民大劇院、短篇小說雜誌社等全市優質文化文藝資源，透過機制重塑、產業拓展等方式，構建起統一管理、資源共享、多元發展的全新演藝運營格局。"
+    },
+    {
+      "id": "5020261",
+      "time": "2026-08-01 14:26:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "科威特軍方表示，防空部隊目前正在攔截伊朗來襲導彈。"
+    },
+    {
+      "id": "mkt:019fbbff-5288-7aab-8f40-560651516892",
+      "time": "2026-08-01 14:24:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Shenzhen residential online contract registrations 8,324 units in July, up 13.8% YoY】Shenzhen property market stayed active in July: total online contract registrations for new and second‑hand residential units were 8,324, up 13.8% YoY. New-build registrations totaled 3,529, up 32.7% YoY. Year-to-date, higher-quality projects have continued to sell strongly, with average opening-day sell-through around 70%. Second‑hand registrations were 4,795, up 3% YoY, accounting for roughly 60% of residential transactions."
+    },
+    {
+      "id": "mkt:019fbbfe-4a48-7aab-8f40-4ef6165aa621",
+      "time": "2026-08-01 14:23:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Kingsoft Office launches WPS update adding unified Storage Management; solicits user feedback at ChinaJoy】Aug 1 — Kingsoft Office launched a new WPS version introducing a unified \"Storage Management\" page that consolidates disk-usage viewing, cache cleaning and storage-path adjustments. Installation paths can now be configured independently. The company, exhibiting at ChinaJoy for the first time, collected on-site user feedback."
+    },
+    {
+      "id": "5020260",
+      "time": "2026-08-01 14:23:25",
+      "tags": [
+        "宏觀",
+        "行業",
+        "資料"
+      ],
+      "text": "【深圳住宅7月網籤8324套 同比增長13.8%】據深視新聞，7月以來，深圳樓市延續上半年活躍態勢，當月全市新建商品住宅和二手住宅累計網籤8324套，同比增長13.8%。7月，深圳全市新建商品住宅網籤銷售3529套，同比增長32.7%。今年以來“好房子”專案持續熱銷，開盤當日平均去化率在七成左右，市場熱度較高。7月，深圳全市二手住宅網籤銷售4795套，同比增長3%，約佔商品住宅成交總量六成。"
+    },
+    {
+      "id": "5020259",
+      "time": "2026-08-01 14:20:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議長：伊朗已贏得戰爭，需擴大最高領袖權威以鞏固成果】據半官方的塔斯尼姆通訊社報道，伊朗議會議長卡利巴夫表示，伊朗已經贏得了戰爭，但必須鞏固和夯實這一勝利。他補充說，國家必須對未來保持希望和信心。卡利巴夫是在伊朗議會協調委員會上發表上述言論的。他強調，伊朗官員必須首先擴大最高領袖的執行權威和能力，並指出任何建設強大伊朗的努力都必須從這個起點出發。"
+    },
+    {
+      "id": "mkt:019fbbfa-daa4-7aab-8f40-4744b4b18d3e",
+      "time": "2026-08-01 14:20:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran parliament speaker Ghalibaf says Iran has won the war, urges expansion of Supreme Leader authority】Iran parliament speaker Ghalibaf told the Parliament Coordination Council that Iran has won the war but must consolidate that victory. He urged expanding the Supreme Leader’s executive authority and capacity, saying any effort to build a stronger Iran must start from that point."
+    },
+    {
+      "id": "5020258",
+      "time": "2026-08-01 14:18:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金山辦公WPS儲存管理新版本上線】8月1日訊息，金山辦公首次參展ChinaJoy，包含儲存管理等多項更新的WPS新版本正式上線。首先，WPS新增統一的“儲存管理”入口，原本分散在不同位置的磁碟佔用檢視、快取清理和儲存路徑調整等功能，被集中到同一頁面。其次，安裝路徑可以分別設定。"
+    },
+    {
+      "id": "5020256",
+      "time": "2026-08-01 14:15:23",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【國際足聯放棄“出售世界盃部分股權”計劃，亞足聯主席發聲】據法新社報道，對於國際足聯決定“撤回”一項商業計劃，放棄繼續推進“出售世界盃部分股權”一事，亞足聯主席薩爾曼8月1日在一份宣告中表示“歡迎”。根據亞足聯網站釋出的宣告，薩爾曼還稱，希望今後任何可能會對全球足球運動產生影響的倡議，都將及時以透明且有意義的方式提交給各大洲足球聯合會、國際足聯理事會、成員協會及其他利益相關方進行討論。（環球網）"
+    },
+    {
+      "id": "5020255",
+      "time": "2026-08-01 14:14:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國內航行海船全面配備智慧監控系統 科技賦能助力航運企業落實安全生產主體責任】交通運輸部訊息，近日，《國內航行海船法定檢驗技術規則（2026年修改通報）》正式釋出，明確國內航行海船強制配備智慧監控系統。這一法定要求，旨在提升航運企業岸基遠端管控的技術要求，是支撐《航運企業落實安全生產主體責任指南》及6個配套工作指引制度體系落地的重要配套要求。船舶智慧監控系統技術要求包括整合AI影片識別、實時告警、遠端對講等功能，要求自動識別疲勞駕駛、駕駛員值班脫崗等不安全行為，同步推送告警資訊至岸基平臺。相關要求落實到船後，讓企業遠端管控從“事後追責”轉向“事前預警、事中干預”。"
+    },
+    {
+      "id": "5020254",
+      "time": "2026-08-01 14:11:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國將建立黃巖島保護區日常巡護制度】自然資源部、國家林業和草原局、中國海警局、海南省人民政府1日聯合印發《黃巖島國家級自然保護區管理辦法》。根據管理辦法，我國將在黃巖島國家級自然保護區建立日常巡護制度，依法及時查處各類違法行為。自然資源部國際合作司（海洋權益司）負責人、國家林業和草原局自然保護地管理司負責人8月1日表示，黃巖島國家級自然保護區由自然資源部南海局承擔管理機構職責，負責保護區日常保護管理、資源調查監測、生態保護修復等工作。鑑於保護區地理位置特殊、生態系統結構複雜多樣，海警機構應當會同管理機構建立日常巡護制度，合理配備巡護人員和巡護裝備，依法及時查處各類損害保護區自然資源和生態環境的違法行為。對相關違法行為，將依照生態環境法典、海域使用管理法、海島保護法、野生動物保護法、海警法、自然保護區條例等有關法律法規規定進行追究。（新華社）"
+    },
+    {
+      "id": "5020253",
+      "time": "2026-08-01 14:11:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱基輔遭俄軍襲擊 已致9死28傷】當地時間8月1日，烏克蘭基輔市市長克利奇科通報稱，俄軍襲擊基輔已致9人死亡、28人受傷，目前17名受傷人員在醫院住院治療。當天稍早前，俄國防部通報稱，俄軍使用陸基、海基遠端高精度武器和遠端攻擊型無人機，大規模打擊了基輔市和基輔州的烏克蘭軍工企業和物流中心。（央視新聞）"
+    },
+    {
+      "id": "5020252",
+      "time": "2026-08-01 14:09:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄方稱扎波羅熱一大巴遭烏襲擊 已致1死12傷】俄方任命的扎波羅熱地區行政長官巴利茨基8月1日透過社交平臺表示，一輛載有鐵礦企業工人的大巴車被烏軍無人機襲擊，1人遇難，12人受傷，其中2人情況危急。事發時，車上共載有55名剛下班的工人和1名司機。截至目前，烏克蘭方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "5020251",
+      "time": "2026-08-01 14:09:16",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【充電樁CCC認證自8月1日起開始強制實施】8月1日起，市場監管總局（國家認監委）對電動汽車供電裝置強制性產品認證（CCC認證）管理開始強制實施，透過開展防觸電、短路保護、耐火耐燃等關鍵安全指標測試和企業現場質量保證能力、產品一致性檢查，切實築牢產品質量安全底線。隨著我國新能源汽車的不斷普及和發展，電動汽車供電裝置（俗稱充電樁）已經成為服務百姓出行需求的重要基礎設施。8月1日起，未獲得CCC認證的電動汽車供電裝置，不得出廠、銷售、進口或者在其他經營活動中使用。對於8月1日前已經投入運營的裝置，經營者應當嚴格遵守《中華人民共和國產品質量法》《中華人民共和國消費者權益保護法》有關規定，保證其提供的商品或者服務符合保障人身、財產安全的要求。"
+    },
+    {
+      "id": "5020250",
+      "time": "2026-08-01 14:09:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗警告英國，如果英國援助侵略者，伊朗可能訴諸自衛。"
+    },
+    {
+      "id": "5020249",
+      "time": "2026-08-01 14:07:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陝西漢中釋出洪水紅色預警訊號】陝西省漢中水文水資源勘測中心2026年8月1日12時30分升級釋出洪水紅色預警：受降雨影響，考慮降雨預報，預計未來3小時，漢江支流漾家河元墩水文站將出現1400-1650立方米每秒的洪水過程（警戒600立方米每秒，保證1200立方米每秒）。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fbbee-9e2f-7aab-8f40-3c60eebf5a85",
+      "time": "2026-08-01 14:06:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "1211.HK",
+        "Impact bullish"
+      ],
+      "text": "【BYD GM Lu Tian says Datang capacity to rise from August, targeting 15,000 units】On Aug 1, Lu Tian, general manager of BYD’s Dynasty sales division, said on Weibo that Datang production capacity will increase from August with a target of 15,000 units; the team will also work to shorten customer delivery wait times."
+    },
+    {
+      "id": "5020248",
+      "time": "2026-08-01 14:05:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比亞迪路天：8月開始大唐產能會持續提升，衝擊1.5萬臺】8月1日，比亞迪王朝網銷售事業部總經理路天發文透露，8月開始大唐產能會持續提升，衝擊1.5萬臺，團隊全員也會繼續努力縮短大家的等車週期。"
+    },
+    {
+      "id": "5020247",
+      "time": "2026-08-01 14:03:42",
+      "tags": [
+        "行業",
+        "公司",
+        "國際"
+      ],
+      "text": "【部分美國企業換上中國大模型以降低成本】從AlphaGo稱霸圍棋界到ChatGPT面世，美國在演算法大模型領域積累了顯著的先發優勢。但近年中國大模型的崛起對AI格局有所衝擊。美國《華爾街日報》等多家媒體提到，中國大模型獨角獸月之暗面新一代開源大模型Kimi K3撼動資本市場，並稱其與DeepSeek在2025年釋出時引發的市場恐慌如出一轍，連馬斯克都贊其“令人印象深刻”。一些大型美國公司也開始轉向中國大模型。據美聯社訊息，加密貨幣交易所Coinbase表示，正在轉向使用中國人工智慧模型以降低成本。愛彼迎採用了阿里巴巴的Qwen模型，並稱贊其“快速且便宜”。（中新經緯）"
+    },
+    {
+      "id": "5020246",
+      "time": "2026-08-01 14:00:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃安：埃安i60 7月銷量11186臺。"
+    },
+    {
+      "id": "5020245",
+      "time": "2026-08-01 13:57:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "上海市氣象臺2026年08月01日13時50分發布中心城區冰雹黃色預警訊號：預計未來2小時內，靜安區、普陀區、虹口區、楊浦區將出現冰雹天氣，請做好易損室外物品和裝置的防護措施。"
+    },
+    {
+      "id": "5020244",
+      "time": "2026-08-01 13:56:19",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）表示，油輪船長報告稱，在船隻附近區域發生了爆炸，激起巨大浪湧，目前尚無船隻受損報告。"
+    },
     {
       "id": "5020243",
       "time": "2026-08-01 13:55:34",
