@@ -1,7 +1,53 @@
 {
   "date": "2026-08-01",
-  "count": 861,
+  "count": 866,
   "items": [
+    {
+      "id": "mkt:019fbcab-f4d0-7aab-8f41-905e01004d00",
+      "time": "2026-08-01 17:33:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Geely Auto Group July sales hit monthly record; NEV exports up 616% YoY】On Aug 1 Geely Auto Group reported July sales of 250,161 units, a record for the month. Overseas exports were 107,000 units, a single-month high. July NEV sales were 160,165 units, up 23% YoY; NEV exports were 62,604 units, up 616% YoY."
+    },
+    {
+      "id": "5020352",
+      "time": "2026-08-01 17:33:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉利汽車7月銷量創同期新高，新能源出口銷量同比增616%】吉利汽車集團8月1日公佈7月銷量250161輛，再創同期新高；海外出口銷量10.7萬輛，創單月歷史新高；7月新能源銷量160165輛，同比增長23%；新能源出口銷量62604輛，同比增長616%。"
+    },
+    {
+      "id": "5020351",
+      "time": "2026-08-01 17:32:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯國家原子能公司（Rosatom）表示：“此類襲擊只能被定義為海盜行為和海上搶劫。”"
+    },
+    {
+      "id": "mkt:019fbcaa-d2b6-7aab-8f41-882168c9c9bb",
+      "time": "2026-08-01 17:32:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Rosatom said Ukrainian drones struck and sank a Rosatom-owned civilian vessel in the Black Sea overnight; all crew survived. Rosatom described the attack as piracy and maritime robbery."
+    },
+    {
+      "id": "5020350",
+      "time": "2026-08-01 17:32:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯國家原子能公司（Rosatom）表示，烏克蘭無人機夜間在黑海襲擊並擊沉了該公司擁有的一艘民用船隻，船上所有船員均生還。"
+    },
     {
       "id": "5020349",
       "time": "2026-08-01 17:26:45",

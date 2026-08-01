@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-01 17:30:09",
-  "count": 18017,
+  "updated": "2026-08-01 17:34:05",
+  "count": 18019,
   "items": [
+    {
+      "id": "mkt:019fbcab-f4d0-7aab-8f41-905e01004d00",
+      "time": "2026-08-01 17:33:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Geely Auto Group July sales hit monthly record; NEV exports up 616% YoY】On Aug 1 Geely Auto Group reported July sales of 250,161 units, a record for the month. Overseas exports were 107,000 units, a single-month high. July NEV sales were 160,165 units, up 23% YoY; NEV exports were 62,604 units, up 616% YoY."
+    },
+    {
+      "id": "5020352",
+      "time": "2026-08-01 17:33:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉利汽車7月銷量創同期新高，新能源出口銷量同比增616%】吉利汽車集團8月1日公佈7月銷量250161輛，再創同期新高；海外出口銷量10.7萬輛，創單月歷史新高；7月新能源銷量160165輛，同比增長23%；新能源出口銷量62604輛，同比增長616%。"
+    },
+    {
+      "id": "5020351",
+      "time": "2026-08-01 17:32:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯國家原子能公司（Rosatom）表示：“此類襲擊只能被定義為海盜行為和海上搶劫。”"
+    },
+    {
+      "id": "mkt:019fbcaa-d2b6-7aab-8f41-882168c9c9bb",
+      "time": "2026-08-01 17:32:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Rosatom said Ukrainian drones struck and sank a Rosatom-owned civilian vessel in the Black Sea overnight; all crew survived. Rosatom described the attack as piracy and maritime robbery."
+    },
+    {
+      "id": "5020350",
+      "time": "2026-08-01 17:32:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯國家原子能公司（Rosatom）表示，烏克蘭無人機夜間在黑海襲擊並擊沉了該公司擁有的一艘民用船隻，船上所有船員均生還。"
+    },
     {
       "id": "5020349",
       "time": "2026-08-01 17:26:45",
@@ -166767,30 +166813,6 @@
         "Greater China"
       ],
       "text": "【Navigation warning: military operations in Bohai Strait, northern Yellow Sea】Dalian Maritime Safety Administration said on its website that parts of the Bohai Strait and the northern Yellow Sea will be closed for military operations from 1600 local time on July 26 to 1600 on August 2; entry is prohibited."
-    },
-    {
-      "id": "5007924",
-      "time": "2026-07-25 17:33:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克：霍爾木茲發生衝突事件後，我們在瑞士會談期間決定開通一條直接溝通渠道，以避免誤解。"
-    },
-    {
-      "id": "5007923",
-      "time": "2026-07-25 17:33:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！渤海海峽黃海北部執行軍事任務】據中國海事局網站訊息，大連海事局釋出航行警告，7月26日16時至8月2日16時，渤海海峽黃海北部部分海域執行軍事任務，禁止駛入。"
-    },
-    {
-      "id": "5007922",
-      "time": "2026-07-25 17:30:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長阿拉格齊：諒解備忘錄第五條規定明確，伊朗是決定穿越霍爾木茲海峽機制的實體。"
     }
   ]
 }
