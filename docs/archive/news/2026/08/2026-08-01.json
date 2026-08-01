@@ -1,7 +1,29 @@
 {
   "date": "2026-08-01",
-  "count": 704,
+  "count": 706,
   "items": [
+    {
+      "id": "5020238",
+      "time": "2026-08-01 13:34:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美中貿委會會長：美國企業重視中國市場和對華合作】當地時間7月31日，中國貿促會組織中國企業家代表團在華盛頓與美中貿易全國委員會及其會員企業交流座談。中國貿促會會長任鴻斌、中國駐美國使館經商處公參李勰、美中貿委會會長譚森等出席併發言。來自多個行業的中美企業代表參會並進行了積極溝通交流。美中貿委會會長譚森在接受媒體採訪時表示，美國企業仍致力於在中國發展，重視中國市場，並希望加強與中國企業合作。（中國日報）"
+    },
+    {
+      "id": "mkt:019fbbd0-75bc-7aab-8f40-16a60c442195",
+      "time": "2026-08-01 13:33:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian government spokesperson Fatemeh Mohajerani told IRNA that attacks on refineries, fuel depots, pipelines and gas facilities are intended not merely to destroy assets but to disrupt daily life—creating fuel queues, spreading anxiety and undermining social stability—and that energy security is a cornerstone of national security and national resilience."
+    },
     {
       "id": "5020236",
       "time": "2026-08-01 13:30:49",
