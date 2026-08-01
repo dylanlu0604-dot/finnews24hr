@@ -1,7 +1,34 @@
 {
   "date": "2026-08-01",
-  "count": 700,
+  "count": 703,
   "items": [
+    {
+      "id": "mkt:019fbbca-36c6-7aab-8f40-09aaceaf88ad",
+      "time": "2026-08-01 13:26:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Lebanon's president said the Lebanese army's responsibilities have doubled and that the next phase requires deployment along the southern border. He said Lebanon will continue coordinating with friendly countries to secure support and training for the military."
+    },
+    {
+      "id": "5020235",
+      "time": "2026-08-01 13:24:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【總投資超50億元，耀鴻電子AI智算高速主機板核心材料研發生產基地專案落地無錫】7月31日，耀鴻電子AI智算高速主機板核心材料研發生產基地專案在無錫簽約落地，專案總投資超50億元，主要生產面向AI伺服器、光模組、高階晶片等領域的高階覆銅板，並配套建設研發總部與重點實驗室，重點攻關M10高速覆銅板等前沿技術。專案預計今年年內開工，達產後將年產3000萬平方米的AI高速封裝載板超薄覆銅板和6000萬米的超薄粘結片。"
+    },
+    {
+      "id": "5020234",
+      "time": "2026-08-01 13:22:16",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【中國駐巴基斯坦大使館回應每經：雪崩致一支國際登山隊集體失聯，包含我國公民，要求巴方全力搜救並及時通報進展】“我們從巴方渠道瞭解到，7月30日一支國際登山隊在布洛阿特峰登山時遭遇雪崩意外，隊員集體失聯，其中包括一名全名為‘WANG ZHONG’的中國公民。”8月1日12時許，中國駐巴基斯坦大使館工作人員向記者表示，“我們第一時間就啟動了聯保應急機制，向巴軍政等部門瞭解事情進展，要求巴方全力搜救中國公民並及時通報進展。同時也與中國公民家屬取得聯絡，將為其提供必要的領事協助。”（每經）"
+    },
     {
       "id": "5020233",
       "time": "2026-08-01 13:17:49",
