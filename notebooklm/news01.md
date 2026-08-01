@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-02 03:51:04_
-_本檔包含 3538 則快訊，約 673501 字_
+_更新時間：2026-08-02 05:05:08_
+_本檔包含 3548 則快訊，約 673384 字_
+
+---
+
+### 2026-08-02 04:47:59  #其他
+
+伊拉克總理辦公室：伊拉克武裝部隊隨時待命，挫敗所有針對鄰國的襲擊圖謀；伊拉克再次重申承諾，絕不允許本國領土成為襲擊行動的發起據點或中轉通道，同時恪守國家主權、睦鄰友好原則與國際法。
+
+---
+
+### 2026-08-02 04:46:37  #MKT News #Market Themes #The Trump Trade #DWAC.O #Impact bullish
+
+Trump's media company launched Truth API, a paid service granting subscribers earlier real‑time access to Truth Social posts than ordinary users. Monthly fee up to $100,000, marketed primarily to trading firms and corporations.
+
+---
+
+### 2026-08-02 04:45:40  #市場 #焦點
+
+布倫特原油暗盤突破91美元，日內漲超3.8%。
+
+---
+
+### 2026-08-02 04:34:21  #焦點 #國際
+
+【莫斯科餐廳爆炸已致3死21傷 俄稱系自製炸彈襲擊】當地時間8月1日，俄羅斯國家反恐委員會表示，莫斯科市中心一家餐廳發生的事故系自制爆炸裝置爆炸所致。通報稱，一名女子企圖攜帶自制爆炸裝置闖入餐廳，被餐廳保安阻攔，隨後爆炸裝置啟動，該女子和保安當場死亡。此外，事故還造成一名顧客死亡。截至目前，事故已造成3人死亡、21人受傷。（央視新聞）
+
+---
+
+### 2026-08-02 04:33:21  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
+
+【Iran FM warns US: Iran will respond decisively to any aggressive action】On the 1st (local time) Iranian foreign minister Araghchi held phone calls with Pakistan army chief Munir and Turkey foreign minister Fidan to discuss recent regional developments. Araghchi warned the US military against any risky action, said Iran is fully prepared to defend its sovereignty, security and territorial integrity, and will respond decisively to any infringement; officials also flagged escalating regional tensions and rising security risks.
+
+---
+
+### 2026-08-02 04:33:08  #國際
+
+【阿拉格齊警告美方：伊朗將堅決回應任何侵犯行為】當地時間1日，伊朗外交部長阿拉格齊分別與巴基斯坦陸軍參謀長穆尼爾以及土耳其外交部長費丹通電話。通話中，各方討論了地區最新局勢，並就美國侵略性與破壞穩定行為所造成的後果，以及地區緊張局勢加劇和安全風險升級交換了意見。阿拉格齊在通話中警告美軍不要採取任何冒險行動，並強調伊朗已做好充分準備，維護國家主權、安全和領土完整，並將對任何侵犯行為作出堅決回應。
+
+---
+
+### 2026-08-02 04:31:47  #國際
+
+美國國家颶風中心表示，預計熱帶風暴吉納維芙將逐漸減弱。
+
+---
+
+### 2026-08-02 04:30:20  #國際
+
+伊朗外長在與沙特外交大臣的通話中表示，美國與以色列的任何“侵略行徑”，或是地區國家參與其中，都將得到“果斷回應”。
+
+---
+
+### 2026-08-02 04:29:18  #MKT News
+
+【Moscow restaurant explosion kills three, injures 21】The Russian National Anti-Terrorism Committee said on the evening of Aug. 1 local time a homemade explosive device detonated at a restaurant on Kudrinskaya Square in central Moscow. An unidentified woman tried to bring the device into the restaurant and was stopped by security; the blast killed the woman, a security guard and another patron, and injured 21 people.
+
+---
+
+### 2026-08-02 04:27:39  #MKT News #Important
+
+The Iraqi government said its armed forces are prepared to repel any attempts against neighboring countries, will not permit Iraqi territory to be used as a launchpad for attacks, and pledged to safeguard regional security.
+
+---
+
+### 2026-08-02 04:23:36  #MKT News
+
+Saudi outlet alhadath reports Iraq's commander‑in‑chief of the armed forces has ordered formation of a joint security committee and directed it to carry out duties to protect Iraq's sovereignty and maintain good neighborly relations.
+
+---
+
+### 2026-08-02 04:16:44  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Saudi outlet al-Hadath reports Iraq's armed forces commander‑in‑chief convened an emergency meeting to discuss regional security.
+
+---
+
+### 2026-08-02 04:09:11  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【IRGC says ballistic missile strike on Jordan's Al Azraq destroyed three US F-35s, damaged three more】Iran's Islamic Revolutionary Guard Corps said its air force used multiple ballistic missiles this morning to strike US F-35 maintenance hangars and ramps at Al Azraq air base in Jordan, in retaliation for a US strike on Qeshm Island. It said the attack destroyed three F-35s and severely damaged three others.
+
+---
+
+### 2026-08-02 04:04:40  #市場 #焦點
+
+暗盤金價突破4050美元/盎司，日內漲幅0.0%。
+
+---
+
+### 2026-08-02 04:03:29  #其他
+
+【秘魯一架小型飛機墜毀 機上十餘人遇難】當地時間8月1日，一架載有十餘人的小型觀光飛機在秘魯伊卡大區納斯卡省墜毀。據悉，這架飛機從皮斯科機場起飛，執行納斯卡線條觀光飛行任務，在起飛數分鐘後與控制塔失去聯絡。初步報告顯示，機上人員全部遇難，但官方尚未釋出正式宣告。目前，秘魯有關部門已展開調查，遇難者身份及事故原因仍在進一步確認中。
+
+---
+
+### 2026-08-02 04:02:04  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran foreign ministry says it will continue path of resistance and steadfastness】Iran's foreign ministry said on Aug. 1 it is determined to continue a path of resistance and steadfastness until the "enemy's" malice is eradicated. It accused the United States of breaching provisions of the June 18 US‑Iran memorandum by enforcing a maritime blockade of Iranian ports and merchant shipping, launching attacks across Iran, and stepping up economic pressure and illegal threats. The statement said defensive strikes by Iran's armed forces remain ongoing at full strength. It added that the US and some regional allies used the July 8 three‑vessel "accidents" as a pretext to attack Iran and to violate Iranian sovereignty in the Strait of Hormuz.
+
+---
+
+### 2026-08-02 04:00:59  #焦點 #國際
+
+【伊朗外交部：決心繼續走抵抗與堅守之路】伊朗外交部當地時間8月1日發表宣告稱，伊朗決心繼續走抵抗與堅守之路，直至徹底消除敵人的惡行。宣告表示，當前，美國繼續違反6月18日美伊諒解備忘錄的相關條款，持續對伊朗港口和商船實施海上封鎖，並不斷對伊朗各地發動野蠻襲擊，加大經濟施壓和非法威脅，持續對伊朗實施侵略。作為回應，伊朗武裝部隊的防禦性打擊仍在全力持續進行。宣告還稱，美國及其部分地區盟友以7月8日三艘船隻的所謂“事故”為藉口，對伊朗發動攻擊並持續至今，是其編造謊言、為違背雙方協議和侵犯伊朗在霍爾木茲海峽的主權尋找藉口的集中體現。
+
+---
+
+### 2026-08-02 03:57:18  #MKT News
+
+【Shooting in Rochester, New York kills one】In the early hours of Aug 1 local time, a shooting in Rochester, New York killed one woman and wounded three others. Police said they are investigating leads and searching for the suspect.
+
+---
+
+### 2026-08-02 03:57:00  #國際
+
+【美國紐約州羅切斯特發生槍擊事件 1人死亡】當地時間8月1日凌晨，美國紐約州羅切斯特發生一起槍擊事件，造成1名女子死亡、3人受傷。警方表示目前仍在調查案件線索，尋找嫌疑人。（央視新聞）
+
+---
+
+### 2026-08-02 03:55:15  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+Iran's foreign minister warned in separate calls with Turkey's foreign minister and Pakistan's army chief that the United States must not take any "adventurous actions".
+
+---
+
+### 2026-08-02 03:53:48  #焦點 #國際
+
+伊朗外長在分別與土耳其外長、巴基斯坦陸軍司令通話時警告稱，美國不得采取任何“冒險行動”。
+
+---
+
+### 2026-08-02 03:51:09  #國際
+
+伊朗前外長、現議員馬努切赫爾·穆塔基：任何涉及伊朗的談判，都必須獲得最高領袖穆傑塔巴批准才能開展。
 
 ---
 
@@ -21269,77 +21401,5 @@ Local government: an energy facility in Russia's Volgograd region caught fire af
 ### 2026-07-31 09:35:09  #Trading Economics #Economy #China #NBS General PMI #Importance 1
 
 China NBS General PMI Lowest Since Late 2022 — China’s NBS Composite PMI Output Index slipped to 49.3 in July 2026 from 50.6 in the previous month, marking the lowest reading since December 2022. It was also the first contraction in overall business activity since February.
-
----
-
-### 2026-07-31 09:35:04  #市場 #焦點
-
-科創50日內漲幅達6.91%，成分股中，生益電子漲16.72%，源傑科技漲15.46%，華虹宏力漲13.04%，中科飛測漲12.94%。
-
----
-
-### 2026-07-31 09:34:53  #MKT News
-
-China A-share compute-power leasing stocks jumped; Litong Electronics locked at the daily limit, Hongjing Technology and Xiechuang Data rose more than 14%, while Tongniu Information, Wangsu Technology, Dongyangguang and UCloud also advanced.
-
----
-
-### 2026-07-31 09:34:30  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #CNH #XAUUSD #Impact bullish
-
-【NBS: China non-manufacturing business activity index dips; cultural and tourism sector active】The National Bureau of Statistics Service Industry Survey Center chief statistician Huo Lihui said China’s non-manufacturing business activity index fell to 49.0 in July, down 1.2 ppt month-on-month, indicating a pullback in non-manufacturing activity. The services business activity index declined to 49.3, down 1.1 ppt, showing softer market activity. Summer consumption lifted leisure and travel, with air transport, accommodation and cultural and sports entertainment activity indices rebounding markedly and related firms reporting rapid volume growth. Wholesale and monetary/financial services posted larger declines and were the main drag on the services reading. Capital-market services and real estate remained below the 50 expansion-contraction threshold. The services business activity expectation index stayed at 56.0, unchanged from June, signalling stable near-term business confidence.
-
----
-
-### 2026-07-31 09:34:09  #MKT News #Market Regions #Greater China #CNH #Impact bearish #CSI300 #SSE Composite
-
-【NBS: Composite PMI output index below 50 in July】Huo Lihui, chief statistician at the NBS service-sector survey center, said July's composite PMI output index was 49.3%, down 1.3 percentage points month-on-month, indicating firms' production and business activity slowed. The manufacturing production index was 49.9% and the non-manufacturing business activity index was 49.0%.
-
----
-
-### 2026-07-31 09:34:03  #其他
-
-【河北省委主要負責同志職務調整】日前，中共中央決定：羅文同志任河北省委委員、常委、書記；倪嶽峰同志不再擔任河北省委書記、常委、委員職務，另有任用。（新華社）
-
----
-
-### 2026-07-31 09:33:46  #市場
-
-【CPO概念集體反彈 新易盛漲超15%】早盤CPO概念集體反彈，新易盛、聯訊儀器漲超15%，天孚通訊、中際旭創、羅博特科、太辰光等多股漲超10%。
-
----
-
-### 2026-07-31 09:33:39  #MKT News #Important #Market Regions #Greater China
-
-A-share Changxin's intraday market value topped CNY4 tln; shares rose 14.3% to CNY60.49, a record high, on turnover of CNY8.8 bln.
-
----
-
-### 2026-07-31 09:33:30  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish #CNH
-
-【NBS: Price indices fall for four consecutive months amid recent commodity swings】NBS Service Industry Survey Center chief statistician Huo Lihui said July price indices continued to decline. The purchase-price index for major raw materials was 53.2 and the factory-gate price index 47.8, both down for a fourth month amid recent commodity-price volatility. Price indices for non-ferrous metal smelting and rolling were both below 45.0. Large price swings weakened firms’ procurement intent, pulling the purchasing-volume index down to 49.4.
-
----
-
-### 2026-07-31 09:33:18  #資料
-
-【國家統計局：裝備製造業和高技術製造業繼續發揮支撐引領作用】國家統計局服務業調查中心首席統計師霍麗慧表示，7月份，製造業採購經理指數有所回落，高技術製造業持續擴張。受前期製造業較快增長基數較高、部分製造業行業進入傳統生產淡季等因素影響，製造業PMI降至49.2%。裝備製造業和高技術製造業繼續發揮支撐引領作用。裝備製造業和高技術製造業PMI分別為51.4%和53.3%，明顯高於製造業總體，保持較快擴張，帶動製造業發展向新向優；消費品行業和高耗能行業PMI分別為47.8%和47.0%，比上月下降2.4個和0.1個百分點，景氣水平回落。（國家統計局）
-
----
-
-### 2026-07-31 09:33:12  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component #SSE Composite
-
-China A-share lithography-equipment stocks jumped in early trade: Xinqi Weizhuang rose >16%, Juguang Technology up >14%, Jiangfeng Electronics and Zhongrun Optics up over 10.5%; Taijing Technology hit the daily limit, with Tongfei Co. and other names also rallying.
-
----
-
-### 2026-07-31 09:33:05  #MKT News #Important #Market Regions #Greater China #Copper #Impact bullish #CNH #Impact bearish #CSI300 #Impact mixed
-
-【National Bureau of Statistics: Equipment and high‑tech manufacturing continue to support and lead】Huo Lihui, chief statistician at the NBS service-industry survey center, said July manufacturing PMI eased to 49.2, hit by a high prior-period base and seasonal softening. Equipment-manufacturing PMI was 51.4 and high-tech manufacturing PMI 53.3, both well above the headline and still expanding, supporting a shift toward newer, higher-quality manufacturing. Consumer-goods PMI was 47.8 and high-energy-consuming industries PMI 47.0, down 2.4pts and 0.1pt MoM, respectively.
-
----
-
-### 2026-07-31 09:33:02  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Declines — Heating oil futures in the US fell below $4.10 per gallon in late July, pulling back from a nearly four-month high, as investors weighed improving shipping activity against ongoing geopolitical risks. Middle East oil shipments appeared to have picked up in recent days, with more vessels leaving the Persian Gulf undetected and two Saudi tankers successfully transiting the Bab el-Mandeb Strait. Separately, Saudi Arabia proposed an international maritime coalition to protect key shipping routes, with representatives from 43 countries participating in talks to safeguard navigation in the Red Sea following the Iran-backed Houthis' announced blockade against the kingdom. Meanwhile, Russian diesel supplies remained constrained by recent Ukrainian attacks on refineries, prompting Moscow to halt exports for all of July. Still, heating oil remained on track for a roughly 27% monthly gain as geopolitical tensions escalated earlier this month amid exchanges of strikes between the US and Iran.
 
 ---

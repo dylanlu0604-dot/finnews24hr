@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-02 03:51:04_
-_本檔包含 3724 則快訊，約 673088 字_
+_更新時間：2026-08-02 05:05:08_
+_本檔包含 3704 則快訊，約 672489 字_
+
+---
+
+### 2026-07-29 08:48:25  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
+
+【Two-exchange margin financing balance falls 29.76 bln yuan】As of July 28, Shanghai Stock Exchange margin financing balance stood at 1,349.01 bln yuan, down 15.30 bln from the previous trading day; Shenzhen Stock Exchange was 1,289.51 bln, down 14.46 bln; combined balance 2,638.52 bln, down 29.76 bln.
+
+---
+
+### 2026-07-29 08:48:13  #其他
+
+【兩市融資餘額減少297.59億元】截至7月28日，上交所融資餘額報13490.12億元，較前一交易日減少153.03億元；深交所融資餘額報12895.06億元，較前一交易日減少144.56億元；兩市合計26385.18億元，較前一交易日減少297.59億元。
+
+---
+
+### 2026-07-29 08:47:40  #MKT News #SKHY.O
+
+SK Hynix (SKHY.O) said negotiations with customers on 2027 HBM pricing are underway.
+
+---
+
+### 2026-07-29 08:47:31  #國際
+
+【日媒稱熊本地震已致十多人死亡 】據日本朝日電視臺今天（7月29日）報道，日本政府相關人士透露，首相官邸收到的報告稱，昨天下午的地震發生後，“熊本縣內已發現十多名死者”。
+
+---
+
+### 2026-07-29 08:46:55  #市場 #國際
+
+【美股期貨在科技股拋售後反彈】美股期貨上漲，此前科技股拋售一度將市場推至技術性回撥邊緣，隨後出現反彈。標普500指數期貨漲約0.4%，納斯達克100指數期貨上漲0.6%。儘管中東地區爆發新一輪衝突推高油價，但期貨仍呈上漲態勢。亞洲股市反彈，儘管SK海力士公佈的利潤資料令人失望，但受利好AI評論提振股價上漲。
+
+---
+
+### 2026-07-29 08:46:41  #市場 #焦點
+
+布倫特原油突破85美元/桶，日內漲3.56%。
+
+---
+
+### 2026-07-29 08:46:07  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #DXY
+
+【U.S. Senate clears procedural vote on bill to sanction Russia and Iran】On July 28 local time the U.S. Senate approved a procedural vote on a sanctions bill by 86-12. The measure would impose a 100% secondary tariff on countries that continue to buy Russian oil and gas and adds provisions to extend Iran sanctions scheduled to expire at year-end.
+
+---
+
+### 2026-07-29 08:46:05  #國際
+
+【美參議院透過制裁俄羅斯和伊朗法案程式性投票】當地時間7月28日，美國參議院以86票贊成、12票反對的投票結果，透過了一項旨在制裁俄羅斯和伊朗的法案程式性投票。根據法案內容，美國將對繼續購買俄羅斯石油和天然氣的國家徵收100%的二級關稅。此外，法案還新增條款，延長原定於今年年底到期的對伊朗制裁措施，確保相關制裁繼續生效。
+
+---
+
+### 2026-07-29 08:45:51  #其他
+
+SK海力士：與主要客戶就明年的HBM價格談判進展順利。
+
+---
+
+### 2026-07-29 08:44:20  #公司
+
+【比亞迪李雲飛：投資長鑫科技5000萬元為公司行為 董事長王傳福不存在個人對外投資情形】針對比亞迪參與長鑫科技首輪融資情況，比亞迪集團品牌及公關處總經理李雲飛表示，該投資六年前（2020年12月）由比亞迪股份出資5000萬元完成，公司董事長王傳福僅持有比亞迪相關股份，未以個人名義對外投資入股其他任何企業，不存在個人對外投資情形。同時，公司所有對外投資，均統一以比亞迪股份有限公司主體名義開展，公司高管從未以個人名義參與任何對外投資專案。“近年來公司開展的各項股權投資業務，均為企業層面的市場化投資行為。”李雲飛表示。
+
+---
+
+### 2026-07-29 08:44:02  #其他
+
+【澳大利亞研發AI蚊子探測器 可快速精準識別致病蚊種】澳大利亞伍倫貢大學研究人員研發出一款智慧監測裝置，透過捕捉並分析蚊子振翅聲響，快速精準識別具有致病風險的蚊種。該裝置由基蘭·特里維迪博士研發，已在聯合國人工智慧向善全球峰會上展出。裝置依託人工智慧技術，可識別伊蚊、按蚊與庫蚊等全球危害最嚴重的3類致病蚊種。不同蚊種的振翅頻率存在細微差異，形成獨一無二的“聲紋”，裝置可透過精準分析振翅頻率，在數秒內快速區分不同蚊種。裝置搭載微型機器學習技術，適合在鄉村及偏遠地區推廣使用。該裝置的核心是基於Arduino平臺的一塊微型電路板，配備了麥克風與顯示屏。研發團隊利用開源的蚊子振翅音訊資料對AI模型進行訓練，目前該裝置的蚊種識別準確率已達到88%。（環球時報）
+
+---
+
+### 2026-07-29 08:43:56  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Rebound on Bargain Hunting — The Nikkei 225 Index climbed 0.6% to above 62,700, while the broader Topix Index added 0.3% to 3,975 on Wednesday, recovering part of the previous session’s losses as investors scooped up shares of select beaten-down technology stocks. Leading the gains among major tech names were Kioxia Holdings (7.3%), Advantest (6.4%), and Keyence (14.2%). Other strong performers included Toyota Motor (1.9%), JX Advanced Metals (4.3%), and Capcom Co (11.9%). However, another overnight selloff in US chipmakers continued to weigh on market sentiment, as investors remained concerned about the sustainability of heavy spending on artificial intelligence. On the geopolitical front, the US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East, reigniting regional tensions and pushing oil prices higher.
+
+---
+
+### 2026-07-29 08:43:55  #MKT News #Important #Market Themes #Chip Wars #SKHY.O
+
+SK Hynix (SKHY.O) aims to begin producing HBM4E memory products by 2027.
+
+---
+
+### 2026-07-29 08:43:33  #公司
+
+【大連電瓷：正穩步推進沙特組裝工廠專案，後續擴產計劃將視市場情況適時推進】大連電瓷7月29日在互動平臺表示，江西萍鄉二期產線於2025年三季度投產並在年底全面達產，目前已實現產能全面釋放。此外公司當前正在穩步推進沙特組裝工廠專案，公司將結合全球市場需求統籌產能佈局，後續擴產計劃將視市場情況適時推進。
+
+---
+
+### 2026-07-29 08:43:21  #央行 #英國央行
+
+【英國國家經濟社會研究院：英國央行今明兩年料按兵不動】英國國家經濟社會研究院（NationalInstituteofEconomicandSocialResearch，簡稱NIESR）7月29日釋出最新經濟展望報告稱，儘管物價上行壓力顯著，英國央行在未來一年半內大機率不會啟動加息。（新華財經）
+
+---
+
+### 2026-07-29 08:42:43  #其他
+
+SK海力士：正按計劃推進HBM4E的量產，預計將於2027年開始量產。
+
+---
+
+### 2026-07-29 08:42:19  #央行 #其他
+
+【英國國家經濟社會研究院：英國央行今明兩年料按兵不動】英國國家經濟社會研究院（National Institute of Economic and Social Research，簡稱NIESR）7月29日釋出最新經濟展望報告稱，儘管物價上行壓力顯著，英國央行在未來一年半內大機率不會啟動加息。（新華財經）
 
 ---
 
@@ -22287,227 +22389,5 @@ LULA said South Korea will send a delegation to Brazil to conduct sanitary asses
 ### 2026-07-28 00:57:44  #MKT News
 
 Brazilian President Lula said he will form a working group to advance negotiations with South Korea on a Mercosur trade agreement.
-
----
-
-### 2026-07-28 00:57:17  #國際
-
-巴西總統盧拉：我方將成立工作組，推進韓國與南方共同市場貿易協定相關談判。
-
----
-
-### 2026-07-28 00:56:48  #國際
-
-LVMH首席財務官： 迪奧短期業績令人備受鼓舞，上半年所有核心客戶渠道營收均實現增長，手袋品類表現強勁。美國第二季度的需求來自本土銷售的強勁勢頭以及在此基礎上旅遊消費的加速增長。路易威登和迪奧在第二季度均處於正增長區間，迪奧在美洲和日本的增長在第二季度加速。
-
----
-
-### 2026-07-28 00:56:42  #MKT News #Market Regions #Japan & APAC #MC.PA #Impact bullish
-
-LVMH CFO said Louis Vuitton and Dior both posted positive growth in Q2, with Dior’s growth accelerating in the Americas and Japan.
-
----
-
-### 2026-07-28 00:56:27  #MKT News #MC.PA #Impact bullish
-
-LVMH CFO said U.S. Q2 demand was driven by strong domestic sales momentum and accelerating tourist spending.
-
----
-
-### 2026-07-28 00:55:36  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-【Former Israeli security chiefs warn West Bank tensions could escalate】About 600 former senior Israeli military, police, Shin Bet and intelligence and special-operations officials sent a joint letter to U.S. President Trump on the 27th urging Washington to press the Israeli government to curb rising settler violence in the West Bank, warning it could trigger escalation. The letter, initiated by the National Security Commanders group, was signed by roughly 600 ex-commanders and security heads; Trump is scheduled to meet Prime Minister Netanyahu at the White House on the 28th.
-
----
-
-### 2026-07-28 00:53:01  #MKT News #F.O
-
-According to the Wall Street Journal, Ford Motor Co (F.N) has joined the competition for the U.S. Army's next-generation truck program.
-
----
-
-### 2026-07-28 00:52:55  #MKT News #WTI #Impact bullish #Brent
-
-Canada's foreign minister spoke with Qatari PM and foreign minister. Ottawa said it supports Qatar's sovereignty and security, urged Iran to stop attacks, and said reopening the Strait of Hormuz is vital.
-
----
-
-### 2026-07-28 00:52:20  #其他
-
-LME期銅收漲88美元，報13732美元/噸。LME期鋁收漲8美元，報3168美元/噸。LME期鋅收漲20美元，報3612美元/噸。LME期鉛收漲4美元，報1891美元/噸。LME期鎳收跌166美元，報17213美元/噸。LME期錫收漲560美元，報54341美元/噸。LME期鈷收平，報56290美元/噸。
-
----
-
-### 2026-07-28 00:50:46  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
-
-【Trump says he is in "good talks" with Iran, hints something may happen】On Monday en route to Michigan on Air Force One, Trump told reporters the US is in "good talks" with Iran, that he has "plenty of time" to handle the Iran issue, and that "it's very possible something will happen" on a potential agreement. He said he will ask Russia for satellite imagery to assist on Iran and added that once the war ends prices will fall sharply.
-
----
-
-### 2026-07-28 00:48:24  #市場
-
-洲際交易所資料：荷蘭近月天然氣合約暴跌超 10%，報 56.83 歐元 / 兆瓦時。
-
----
-
-### 2026-07-28 00:44:28  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-WTI and Brent crude slid just over $0.50 intraday to $81.86/bbl and $86.18/bbl respectively after Trump said negotiations with Iran were progressing well and he would agree to meet Iran.
-
----
-
-### 2026-07-28 00:43:06  #公司 #國際
-
-【受高溫困擾，埃及購買8月LNG貨物以應對需求】據知情人士透露，埃及氣溫飆升及夏季用電高峰，已促使該國能源公司購買液化天然氣（LNG）的即期交貨。埃及國家能源公司埃及通用石油公司（EGPC）已鎖定此前招標的8月交貨貨物，並從現有供應商處額外採購了數批貨物。埃及此前曾是LNG出口國，但隨著國內產量下降且消費量超過供應量，該國日益依賴全球LNG市場。而涉及伊朗的衝突限制了霍爾木茲海峽的運輸，已導致市場可用貨物收緊，進一步加劇了埃及的採購壓力。
-
----
-
-### 2026-07-28 00:42:55  #MKT News #Market Themes #The Trump Trade
-
-President Trump said prices will fall sharply once the war ends.
-
----
-
-### 2026-07-28 00:41:06  #國際
-
-特朗普： 我們已經從委內瑞拉攫取了鉅額資金。 對待伊朗，我們也會如法炮製。
-
----
-
-### 2026-07-28 00:40:29  #國際
-
-特朗普：我們在委內瑞拉相關衝突上付出了鉅額代價，損失早已遠超投入。伊朗這邊也會是同樣的局面。
-
----
-
-### 2026-07-28 00:38:56  #MKT News #Market Themes #The Trump Trade
-
-President Trump said Turkey has been a good ally and, responding to Israeli Prime Minister Netanyahu's opposition to a sale of F-35 fighters to Turkey, said no one tells him what he should sell to them.
-
----
-
-### 2026-07-28 00:38:42  #央行 #國際
-
-特朗普：（被問及本週美聯儲會議）成本正在快速下降。沃什將作出正確決定，我理解沃什的想法和訴求。
-
----
-
-### 2026-07-28 00:38:22  #MKT News
-
-US President Trump said Walsh will make the right decision and that he understands Walsh's views and requests.
-
----
-
-### 2026-07-28 00:38:00  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Asked about this week's Fed meeting, US President Trump said costs are falling rapidly.
-
----
-
-### 2026-07-28 00:37:28  #其他
-
-國際貨幣基金組織（IMF）總裁Georgieva：沒必要向阿根廷提供更多支援。
-
----
-
-### 2026-07-28 00:37:18  #央行 #國際
-
-【美銀：成功干預日元需日本央行發出鷹派訊號】美國銀行策略師Shusuke Yamada認為，日本央行想要成功捍衛日元就得發出鷹派訊號。 他認為165是干預美元/日元匯率對的下一個潛在門檻。“儘管7月加息的可能性仍然極低，但決策層可能需要以一種能夠提升市場對9月加息預期的方式來傳達資訊，” 這位外匯/利率策略師在研報中寫道。
-
----
-
-### 2026-07-28 00:36:55  #其他
-
-微軟：Project Perception將於 8 月 3 日開啟公開預覽版。
-
----
-
-### 2026-07-28 00:35:51  #國際
-
-特朗普：若是沒有美國，以色列撐不下去。
-
----
-
-### 2026-07-28 00:35:44  #MKT News
-
-Trump: Israel could not survive without the United States.
-
----
-
-### 2026-07-28 00:35:30  #國際
-
-特朗普：土耳其一直是不錯的盟友，沒人能對我的軍售指手畫腳。
-
----
-
-### 2026-07-28 00:35:23  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #XAUUSD #Impact bullish #S&P500
-
-U.S. President Trump said the Fed should ensure U.S. interest rates are the lowest in the world.
-
----
-
-### 2026-07-28 00:35:13  #MKT News #Macro & Rates #The Fed (FOMC)
-
-President Trump said Federal Reserve Board members are "political".
-
----
-
-### 2026-07-28 00:35:05  #國際
-
-特朗普談及內塔尼亞胡與土耳其 F-35 戰機事宜：土耳其一直是可靠盟友。
-
----
-
-### 2026-07-28 00:34:47  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
-
-Trump said Fed Chair Kevin Warsh must address problems at the Fed's policy committee and that interest rates should be cut.
-
----
-
-### 2026-07-28 00:34:20  #央行 #國際
-
-特朗普：美聯儲理事會成員都帶有政治傾向。
-
----
-
-### 2026-07-28 00:34:05  #公司
-
-報道：英偉達將向ilya Sutskever的初創公司Safe Superintelligence Inc.投資50億美元，聯合宣告顯示，後者將獲得英偉達下一代Vera Rubin平臺。
-
----
-
-### 2026-07-28 00:33:58  #國際
-
-特朗普：我們應當擁有全球最低的利率。
-
----
-
-### 2026-07-28 00:33:42  #央行 #國際
-
-特朗普：沃什必須與美聯儲理事會協商行事。
-
----
-
-### 2026-07-28 00:33:25  #央行 #國際
-
-特朗普談及美聯儲：應當下調利率。
-
----
-
-### 2026-07-28 00:33:11  #MKT News #Market Themes #The Trump Trade
-
-U.S. President Trump said Venezuela's funds can be used for the military.
-
----
-
-### 2026-07-28 00:33:10  #央行 #國際
-
-特朗普：沃什能力出眾，但美聯儲理事會並非由他一人說了算。
-
----
-
-### 2026-07-28 00:32:39  #MKT News #WTI #Impact bullish #Brent
-
-U.S. President Trump said he will use Iranian funds to pay for losses in the Strait of Hormuz.
 
 ---

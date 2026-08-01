@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-02 03:51:04_
-_本檔包含 3618 則快訊，約 673027 字_
+_更新時間：2026-08-02 05:05:08_
+_本檔包含 3594 則快訊，約 673219 字_
+
+---
+
+### 2026-07-31 09:35:04  #市場 #焦點
+
+科創50日內漲幅達6.91%，成分股中，生益電子漲16.72%，源傑科技漲15.46%，華虹宏力漲13.04%，中科飛測漲12.94%。
+
+---
+
+### 2026-07-31 09:34:53  #MKT News
+
+China A-share compute-power leasing stocks jumped; Litong Electronics locked at the daily limit, Hongjing Technology and Xiechuang Data rose more than 14%, while Tongniu Information, Wangsu Technology, Dongyangguang and UCloud also advanced.
+
+---
+
+### 2026-07-31 09:34:30  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #CNH #XAUUSD #Impact bullish
+
+【NBS: China non-manufacturing business activity index dips; cultural and tourism sector active】The National Bureau of Statistics Service Industry Survey Center chief statistician Huo Lihui said China’s non-manufacturing business activity index fell to 49.0 in July, down 1.2 ppt month-on-month, indicating a pullback in non-manufacturing activity. The services business activity index declined to 49.3, down 1.1 ppt, showing softer market activity. Summer consumption lifted leisure and travel, with air transport, accommodation and cultural and sports entertainment activity indices rebounding markedly and related firms reporting rapid volume growth. Wholesale and monetary/financial services posted larger declines and were the main drag on the services reading. Capital-market services and real estate remained below the 50 expansion-contraction threshold. The services business activity expectation index stayed at 56.0, unchanged from June, signalling stable near-term business confidence.
+
+---
+
+### 2026-07-31 09:34:09  #MKT News #Market Regions #Greater China #CNH #Impact bearish #CSI300 #SSE Composite
+
+【NBS: Composite PMI output index below 50 in July】Huo Lihui, chief statistician at the NBS service-sector survey center, said July's composite PMI output index was 49.3%, down 1.3 percentage points month-on-month, indicating firms' production and business activity slowed. The manufacturing production index was 49.9% and the non-manufacturing business activity index was 49.0%.
+
+---
+
+### 2026-07-31 09:34:03  #其他
+
+【河北省委主要負責同志職務調整】日前，中共中央決定：羅文同志任河北省委委員、常委、書記；倪嶽峰同志不再擔任河北省委書記、常委、委員職務，另有任用。（新華社）
+
+---
+
+### 2026-07-31 09:33:46  #市場
+
+【CPO概念集體反彈 新易盛漲超15%】早盤CPO概念集體反彈，新易盛、聯訊儀器漲超15%，天孚通訊、中際旭創、羅博特科、太辰光等多股漲超10%。
+
+---
+
+### 2026-07-31 09:33:39  #MKT News #Important #Market Regions #Greater China
+
+A-share Changxin's intraday market value topped CNY4 tln; shares rose 14.3% to CNY60.49, a record high, on turnover of CNY8.8 bln.
+
+---
+
+### 2026-07-31 09:33:30  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish #CNH
+
+【NBS: Price indices fall for four consecutive months amid recent commodity swings】NBS Service Industry Survey Center chief statistician Huo Lihui said July price indices continued to decline. The purchase-price index for major raw materials was 53.2 and the factory-gate price index 47.8, both down for a fourth month amid recent commodity-price volatility. Price indices for non-ferrous metal smelting and rolling were both below 45.0. Large price swings weakened firms’ procurement intent, pulling the purchasing-volume index down to 49.4.
+
+---
+
+### 2026-07-31 09:33:18  #資料
+
+【國家統計局：裝備製造業和高技術製造業繼續發揮支撐引領作用】國家統計局服務業調查中心首席統計師霍麗慧表示，7月份，製造業採購經理指數有所回落，高技術製造業持續擴張。受前期製造業較快增長基數較高、部分製造業行業進入傳統生產淡季等因素影響，製造業PMI降至49.2%。裝備製造業和高技術製造業繼續發揮支撐引領作用。裝備製造業和高技術製造業PMI分別為51.4%和53.3%，明顯高於製造業總體，保持較快擴張，帶動製造業發展向新向優；消費品行業和高耗能行業PMI分別為47.8%和47.0%，比上月下降2.4個和0.1個百分點，景氣水平回落。（國家統計局）
+
+---
+
+### 2026-07-31 09:33:12  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component #SSE Composite
+
+China A-share lithography-equipment stocks jumped in early trade: Xinqi Weizhuang rose >16%, Juguang Technology up >14%, Jiangfeng Electronics and Zhongrun Optics up over 10.5%; Taijing Technology hit the daily limit, with Tongfei Co. and other names also rallying.
+
+---
+
+### 2026-07-31 09:33:05  #MKT News #Important #Market Regions #Greater China #Copper #Impact bullish #CNH #Impact bearish #CSI300 #Impact mixed
+
+【National Bureau of Statistics: Equipment and high‑tech manufacturing continue to support and lead】Huo Lihui, chief statistician at the NBS service-industry survey center, said July manufacturing PMI eased to 49.2, hit by a high prior-period base and seasonal softening. Equipment-manufacturing PMI was 51.4 and high-tech manufacturing PMI 53.3, both well above the headline and still expanding, supporting a shift toward newer, higher-quality manufacturing. Consumer-goods PMI was 47.8 and high-energy-consuming industries PMI 47.0, down 2.4pts and 0.1pt MoM, respectively.
+
+---
+
+### 2026-07-31 09:33:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Declines — Heating oil futures in the US fell below $4.10 per gallon in late July, pulling back from a nearly four-month high, as investors weighed improving shipping activity against ongoing geopolitical risks. Middle East oil shipments appeared to have picked up in recent days, with more vessels leaving the Persian Gulf undetected and two Saudi tankers successfully transiting the Bab el-Mandeb Strait. Separately, Saudi Arabia proposed an international maritime coalition to protect key shipping routes, with representatives from 43 countries participating in talks to safeguard navigation in the Red Sea following the Iran-backed Houthis' announced blockade against the kingdom. Meanwhile, Russian diesel supplies remained constrained by recent Ukrainian attacks on refineries, prompting Moscow to halt exports for all of July. Still, heating oil remained on track for a roughly 27% monthly gain as geopolitical tensions escalated earlier this month amid exchanges of strikes between the US and Iran.
 
 ---
 
@@ -21608,221 +21680,5 @@ China Stocks Mixed as Politburo Meeting Looms — The Shanghai Composite edged u
 ### 2026-07-30 10:05:42  #公司
 
 三星電子：先進節點晶圓代工利用率已達最高水平。
-
----
-
-### 2026-07-30 10:05:13  #其他
-
-【上半年我國煤電發電量佔總發電量比重首次低於50%】從國家能源局今天舉行的新聞釋出會上瞭解到，上半年，我國能源綠色低碳轉型步伐加快。截至6月底，風電、太陽能發電裝機容量合計達到19.5億千瓦，比上年同期增長16.8%。從發電量看，上半年，風電、太陽能發電總量突破1.2萬億千瓦時，約佔全社會用電量的四分之一。與此同時，我國煤電發電量為2.5萬億千瓦時，佔總發電量的比重降至49.7%，上半年發電量佔比首次低於50%。
-
----
-
-### 2026-07-30 10:04:54  #國際
-
-【預告：中國貿促會7月例行新聞釋出會將於31日上午10:00召開】中國貿促會定於7月31日（星期五）上午10:00在中國貿促會禮堂組織召開7月例行新聞釋出會。本期內容包括：鏈博會推動科技創新、中美經貿合作、助力中國人工智慧企業發展、ABAC第三次會議情況、上半年護航企業出海主要成效、助企防汛救災工作舉措，釋出5月全球經貿摩擦指數、上半年全國貿促系統商事認證資料、《墨西哥營商環境報告2025》、《南非營商環境報告2025》等。
-
----
-
-### 2026-07-30 10:04:43  #公司
-
-【天元智慧等成立清碳科技公司，含森林固碳服務業務】企查查APP顯示，近日，天元清碳（常州）科技有限公司成立，經營範圍包含：碳減排、碳轉化、碳捕捉、碳封存技術研發；森林固碳服務；儲能技術服務等。企查查股權穿透顯示，該公司由天元智慧等共同持股。
-
----
-
-### 2026-07-30 10:04:37  #其他
-
-【中國網路文學作品總量超3300萬部】中國作協7月30日釋出《2025中國網路文學藍皮書》顯示，截至2025年底，我國網路文學作品總量超3300萬部，讀者規模超5億人。現實、科幻、歷史、幻想等大類創作水平普遍提升。截至2025年底，中國網路文學累計向海外輸出作品超13萬部；現存海外註冊使用者數量約2.5億人，其中2025年新增4000萬人，海外活躍使用者覆蓋全球200多個國家和地區。海外網路文學及相關微短劇平臺每日活躍使用者總量達6000萬人，海外營收突破80億元（含網文平臺微短劇業務），市場多極增長。(新華社)
-
----
-
-### 2026-07-30 10:04:09  #市場 #央行 #國際
-
-【美聯儲維持利率不變後比特幣上漲】美聯儲隔夜維持利率不變後，比特幣在亞洲交易時段上漲。加密貨幣平臺Bitfinex的分析師表示，央行的這一決定被視為對風險資產有利，可能會決定比特幣的近期走向。他們補充說，交易員正在觀察現貨ETF資金流入是否會在美國聯邦公開市場委員會會議後恢復，並幫助該加密貨幣在經歷了一段去風險期後突破68,000美元至68,500美元的阻力區間。儘管如此，比特幣的夏季低迷期仍在持續，疲軟的內在需求依然是其最大制約因素。比特幣最大的企業持有者Strategy連續第五週籌集現金，而不是購買更多比特幣。Bitfinex表示，7月份有望創下自2023年11月以來按月計算的最低比特幣現貨日均交易量。比特幣最新上漲1.2%，報64,236.91美元。
-
----
-
-### 2026-07-30 10:04:08  #公司
-
-【英特爾向初創公司Rosaic Labs開放Atom處理器技術】據報道，英特爾已向一家名為Rosaic Labs的初創公司提供了其Atom處理器技術。Rosaic Labs今年5月在特拉華州註冊成立，報道稱該公司執行長Amarjit Gill曾協助英特爾執行長陳立武在另一家晶片公司Rivos搭建創始團隊。
-
----
-
-### 2026-07-30 10:04:07  #市場
-
-大盤主力淨流出超100億。
-
----
-
-### 2026-07-30 10:03:50  #公司
-
-【中國化工裝備有限公司原副總經理李東平被開除黨籍】中央紀委國家監委網站7月30日通報，據中央紀委國家監委駐中國中化控股有限責任公司紀檢監察組、北京市紀委監委訊息：日前，中央紀委國家監委駐中國中化控股有限責任公司紀檢監察組、北京市海淀區監察委員會對中國中化控股有限責任公司下屬中國化工裝備有限公司原副總經理李東平嚴重違紀違法問題進行了立案審查調查。經查，李東平身為國有企業黨員領導幹部，喪失理想信念，背棄初心使命；罔顧中央八項規定精神，違規收受可能影響公正執行公務的禮品、禮金，違規接受他人宴請；違背組織原則，違規安排親屬到重要崗位；廉潔底線失守，違規從事營利活動；不正確履行職責，違規干預招標採購工作；違反生活紀律；將公權力異化為謀取私利的工具，利用職務便利為他人謀取利益，非法收受他人鉅額錢款。李東平嚴重違反黨的政治紀律、組織紀律、廉潔紀律、工作紀律和生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，十九大後仍不知止，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經中國中化控股有限責任公司黨組研究，決定給予李東平開除黨籍處分；按規定調整其享受的退休待遇；收繳其違紀違法所得；由北京市海淀區監察委員會將其涉嫌職務犯罪問題移送檢察機關依法審查起訴。
-
----
-
-### 2026-07-30 10:03:35  #市場
-
-中際旭創香港上市首日股價下跌5.1%，報每股930港元，發行價為980港元。
-
----
-
-### 2026-07-30 10:02:41  #公司
-
-三星電子：2奈米晶片供不應求。
-
----
-
-### 2026-07-30 10:02:20  #市場
-
-【汽車整車板塊持續拉昇，江淮汽車漲停】汽車整車板塊持續拉昇，江淮汽車漲停，北汽藍谷、千里科技、賽力斯、錢江摩托、金龍汽車、長安汽車等跟漲。
-
----
-
-### 2026-07-30 10:02:04  #公司 #市場
-
-【光伏概念表現活躍 弘元綠能漲停】光伏概念表現活躍，弘元綠能漲停，拉普拉斯、連城數控、晶澳科技、阿特斯、愛旭股份跟漲。
-
----
-
-### 2026-07-30 10:01:47  #公司
-
-【廣東粵海控股集團有限公司原黨委書記侯外林接受審查調查】中央紀委國家監委網站7月30日通報，據廣東省紀委監委訊息：廣東粵海控股集團有限公司原黨委書記、董事長侯外林涉嫌嚴重違紀違法，目前正接受廣東省紀委監委紀律審查和監察調查。
-
----
-
-### 2026-07-30 10:01:15  #公司
-
-【陽光電源成立氫能科技公司】企查查APP顯示，近日，陽光氫能（宿州）科技有限公司成立，法定代表人為楊威，經營範圍包含：氣體、液體分離及純淨裝置銷售；新能源原動裝置製造；機械電氣裝置製造；站用加氫及儲氫設施銷售等。企查查股權穿透顯示，該公司由陽光電源旗下陽光氫能科技有限公司全資持股。
-
----
-
-### 2026-07-30 10:01:11  #其他
-
-光學元件板塊持續走低，波長光電跌超7%，光智科技、福晶科技、東田微、茂萊光學等跟跌。
-
----
-
-### 2026-07-30 10:01:03  #其他
-
-【中國與南非簽署認可領域合作諒解備忘錄】近期，中國合格評定國家認可委員會（CNAS）與南非國家認可機構（SANAS）正式簽署認可領域合作諒解備忘錄。國家市場監督管理總局副局長束為和南非貿易、工業與競爭部部長帕克斯·陶出席簽約儀式。 SANAS是南非唯一的國家認可機構，也是非洲成立最早、規模最大的認可機構。根據備忘錄，CNAS和SANAS將透過資訊交換、經驗分享、人員互訪、評審合作、培訓研討等多種方式開展交流與合作，更好發揮認可對中南、中非質量基礎設施聯通以及高質量共建“一帶一路”的技術支撐作用。 2024年9月中非合作論壇北京峰會期間，CNAS邀請包括SANAS在內的6家非洲認可機構來華開展認可技術交流，並在此基礎上持續推進中非合格評定能力提升行動。目前，CNAS已與包括SANAS在內的5家非洲認可機構簽署了雙邊協議，合作範圍覆蓋非洲地區25個國家。（日月譚天）
-
----
-
-### 2026-07-30 09:59:33  #市場 #焦點
-
-北證50日內漲幅達1.05%，成分股中，國子軟體漲6.94%，錦波生物漲6.65%，科力股份漲6.04%，連城數控漲5.51%。
-
----
-
-### 2026-07-30 09:59:08  #公司
-
-三星電子：作為長期供應協議的一部分設定最低定價。
-
----
-
-### 2026-07-30 09:59:01  #其他
-
-【汽車整車板塊再度走高 賽力斯漲超5%】汽車整車板塊再度走高，賽力斯漲超5%，江淮汽車、北汽藍谷、千里科技、金龍汽車跟漲。
-
----
-
-### 2026-07-30 09:58:43  #公司
-
-三星電子：計劃將約60%-70%的總產能覆蓋在多年期合同項下。
-
----
-
-### 2026-07-30 09:58:16  #公司
-
-三星：幾乎所有記憶體晶片大客戶都尋求籤訂多年合同。
-
----
-
-### 2026-07-30 09:58:02  #其他
-
-【階梯醫療植入式腦機介面獲臨床進展：延遲低於50毫秒，高位截癱患者實現“腦控”辦公】從階梯醫療處獲悉，其自主研發的微創植入式腦機介面技術在臨床試驗取得實質進展，多名高位截癱患者依託該系統成功重返職場，從事電商物流協調及後臺標註等專職工作。技術層面，階梯醫療自主研發的256通道植入式腦機介面系統WRS 01採用超柔性電極採集單神經元訊號，受試者人機資訊互動效率達380位元/分鐘，指令延遲低於50毫秒。應用層面，該系統已無縫接入Windows、iOS等主流作業系統，患者目前可連續3至4小時進行穩定高效的腦控操作與多工處理。此項臨床資料與實際應用成果，標誌著植入式腦機介面技術從實驗室向日常應用場景邁出關鍵一步。（介面新聞）
-
----
-
-### 2026-07-30 09:56:28  #央行 #國際
-
-香港金管局回應美聯儲利率決定：將繼續密切監視市場發展。
-
----
-
-### 2026-07-30 09:55:42  #國際
-
-日本財務大臣片山：需要對預算規模進行同比比較，因為初始預算可能比往年更大，市場可能對此反應過度。
-
----
-
-### 2026-07-30 09:55:00  #公司
-
-三星電子：許多客戶要求籤訂多年供應合同。
-
----
-
-### 2026-07-30 09:54:07  #公司
-
-【中核集團在雄安投資成立能源銷售新公司】企查查APP顯示，近日，中核（雄安）能源銷售有限公司成立，經營範圍包含：電動汽車充電基礎設施運營；智慧輸配電及控制裝置銷售；電工儀器儀表銷售；集中式快速充電站等。企查查股權穿透顯示，該公司由中國核工業集團有限公司間接全資持股。
-
----
-
-### 2026-07-30 09:53:10  #國際
-
-日本財務大臣片山：向市場全面解釋我們的財政政策至關重要。
-
----
-
-### 2026-07-30 09:52:51  #公司 #市場
-
-【創新藥概念逆勢拉昇 海南海藥直線漲停】創新藥概念逆勢拉昇，海南海藥直線漲停，九典制藥、哈藥股份、新贛江、聯環藥業、萬邦醫藥跟漲。
-
----
-
-### 2026-07-30 09:52:40  #其他
-
-LG新能源：北美電動汽車需求復甦緩慢。
-
----
-
-### 2026-07-30 09:52:02  #國際
-
-日本財務大臣片山：關於明年預算申請不設上限的提案由財務省官員提出。
-
----
-
-### 2026-07-30 09:51:52  #市場 #國際
-
-韓國Kospi指數最新上漲5.5%，報5973.89點。
-
----
-
-### 2026-07-30 09:51:07  #公司
-
-三星電子：第二季度儲存晶片業務增長同樣主要受NAND快閃記憶體推動。
-
----
-
-### 2026-07-30 09:50:58  #國際
-
-日本財務大臣片山：熊本地震發生後，目前來看無需動用超出本財年預算儲備的應對措施。
-
----
-
-### 2026-07-30 09:50:13  #公司
-
-三星電子：與主要NAND客戶簽訂了長期協議。
-
----
-
-### 2026-07-30 09:49:23  #公司 #市場
-
-三星電子股價延續漲勢；最新上漲7.2%，報223,500韓元。
-
----
-
-### 2026-07-30 09:49:17  #Trading Economics #Economy #Australia #Private House Approvals #Importance 1
-
-Australia Private House Approval Growth Eases — Private house approvals in Australia rose 0.4% month-on-month to 10,631 units in June 2026, according to preliminary estimates, easing from a downwardly revised 2.4% increase in the previous month. This marked the second consecutive monthly gain, driven by higher approvals in Queensland (2.9%), South Australia (2.8%), and Victoria (2.2%), which more than offset declines in Western Australia (-5.4%) and New South Wales (-0.3%). On an annual basis, private house approvals climbed 15.8%, accelerating from a 13.3% increase in the previous month and marking the strongest annual growth since September 2024.
 
 ---

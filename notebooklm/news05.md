@@ -1,7 +1,229 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-02 03:51:04_
-_本檔包含 3336 則快訊，約 673084 字_
+_更新時間：2026-08-02 05:05:08_
+_本檔包含 3351 則快訊，約 673203 字_
+
+---
+
+### 2026-07-28 00:57:17  #國際
+
+巴西總統盧拉：我方將成立工作組，推進韓國與南方共同市場貿易協定相關談判。
+
+---
+
+### 2026-07-28 00:56:48  #國際
+
+LVMH首席財務官： 迪奧短期業績令人備受鼓舞，上半年所有核心客戶渠道營收均實現增長，手袋品類表現強勁。美國第二季度的需求來自本土銷售的強勁勢頭以及在此基礎上旅遊消費的加速增長。路易威登和迪奧在第二季度均處於正增長區間，迪奧在美洲和日本的增長在第二季度加速。
+
+---
+
+### 2026-07-28 00:56:42  #MKT News #Market Regions #Japan & APAC #MC.PA #Impact bullish
+
+LVMH CFO said Louis Vuitton and Dior both posted positive growth in Q2, with Dior’s growth accelerating in the Americas and Japan.
+
+---
+
+### 2026-07-28 00:56:27  #MKT News #MC.PA #Impact bullish
+
+LVMH CFO said U.S. Q2 demand was driven by strong domestic sales momentum and accelerating tourist spending.
+
+---
+
+### 2026-07-28 00:55:36  #MKT News #XAUUSD #Impact bullish #Brent #WTI
+
+【Former Israeli security chiefs warn West Bank tensions could escalate】About 600 former senior Israeli military, police, Shin Bet and intelligence and special-operations officials sent a joint letter to U.S. President Trump on the 27th urging Washington to press the Israeli government to curb rising settler violence in the West Bank, warning it could trigger escalation. The letter, initiated by the National Security Commanders group, was signed by roughly 600 ex-commanders and security heads; Trump is scheduled to meet Prime Minister Netanyahu at the White House on the 28th.
+
+---
+
+### 2026-07-28 00:53:01  #MKT News #F.O
+
+According to the Wall Street Journal, Ford Motor Co (F.N) has joined the competition for the U.S. Army's next-generation truck program.
+
+---
+
+### 2026-07-28 00:52:55  #MKT News #WTI #Impact bullish #Brent
+
+Canada's foreign minister spoke with Qatari PM and foreign minister. Ottawa said it supports Qatar's sovereignty and security, urged Iran to stop attacks, and said reopening the Strait of Hormuz is vital.
+
+---
+
+### 2026-07-28 00:52:20  #其他
+
+LME期銅收漲88美元，報13732美元/噸。LME期鋁收漲8美元，報3168美元/噸。LME期鋅收漲20美元，報3612美元/噸。LME期鉛收漲4美元，報1891美元/噸。LME期鎳收跌166美元，報17213美元/噸。LME期錫收漲560美元，報54341美元/噸。LME期鈷收平，報56290美元/噸。
+
+---
+
+### 2026-07-28 00:50:46  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
+
+【Trump says he is in "good talks" with Iran, hints something may happen】On Monday en route to Michigan on Air Force One, Trump told reporters the US is in "good talks" with Iran, that he has "plenty of time" to handle the Iran issue, and that "it's very possible something will happen" on a potential agreement. He said he will ask Russia for satellite imagery to assist on Iran and added that once the war ends prices will fall sharply.
+
+---
+
+### 2026-07-28 00:48:24  #市場
+
+洲際交易所資料：荷蘭近月天然氣合約暴跌超 10%，報 56.83 歐元 / 兆瓦時。
+
+---
+
+### 2026-07-28 00:44:28  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+WTI and Brent crude slid just over $0.50 intraday to $81.86/bbl and $86.18/bbl respectively after Trump said negotiations with Iran were progressing well and he would agree to meet Iran.
+
+---
+
+### 2026-07-28 00:43:06  #公司 #國際
+
+【受高溫困擾，埃及購買8月LNG貨物以應對需求】據知情人士透露，埃及氣溫飆升及夏季用電高峰，已促使該國能源公司購買液化天然氣（LNG）的即期交貨。埃及國家能源公司埃及通用石油公司（EGPC）已鎖定此前招標的8月交貨貨物，並從現有供應商處額外採購了數批貨物。埃及此前曾是LNG出口國，但隨著國內產量下降且消費量超過供應量，該國日益依賴全球LNG市場。而涉及伊朗的衝突限制了霍爾木茲海峽的運輸，已導致市場可用貨物收緊，進一步加劇了埃及的採購壓力。
+
+---
+
+### 2026-07-28 00:42:55  #MKT News #Market Themes #The Trump Trade
+
+President Trump said prices will fall sharply once the war ends.
+
+---
+
+### 2026-07-28 00:41:06  #國際
+
+特朗普： 我們已經從委內瑞拉攫取了鉅額資金。 對待伊朗，我們也會如法炮製。
+
+---
+
+### 2026-07-28 00:40:29  #國際
+
+特朗普：我們在委內瑞拉相關衝突上付出了鉅額代價，損失早已遠超投入。伊朗這邊也會是同樣的局面。
+
+---
+
+### 2026-07-28 00:38:56  #MKT News #Market Themes #The Trump Trade
+
+President Trump said Turkey has been a good ally and, responding to Israeli Prime Minister Netanyahu's opposition to a sale of F-35 fighters to Turkey, said no one tells him what he should sell to them.
+
+---
+
+### 2026-07-28 00:38:42  #央行 #國際
+
+特朗普：（被問及本週美聯儲會議）成本正在快速下降。沃什將作出正確決定，我理解沃什的想法和訴求。
+
+---
+
+### 2026-07-28 00:38:22  #MKT News
+
+US President Trump said Walsh will make the right decision and that he understands Walsh's views and requests.
+
+---
+
+### 2026-07-28 00:38:00  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Asked about this week's Fed meeting, US President Trump said costs are falling rapidly.
+
+---
+
+### 2026-07-28 00:37:28  #其他
+
+國際貨幣基金組織（IMF）總裁Georgieva：沒必要向阿根廷提供更多支援。
+
+---
+
+### 2026-07-28 00:37:18  #央行 #國際
+
+【美銀：成功干預日元需日本央行發出鷹派訊號】美國銀行策略師Shusuke Yamada認為，日本央行想要成功捍衛日元就得發出鷹派訊號。 他認為165是干預美元/日元匯率對的下一個潛在門檻。“儘管7月加息的可能性仍然極低，但決策層可能需要以一種能夠提升市場對9月加息預期的方式來傳達資訊，” 這位外匯/利率策略師在研報中寫道。
+
+---
+
+### 2026-07-28 00:36:55  #其他
+
+微軟：Project Perception將於 8 月 3 日開啟公開預覽版。
+
+---
+
+### 2026-07-28 00:35:51  #國際
+
+特朗普：若是沒有美國，以色列撐不下去。
+
+---
+
+### 2026-07-28 00:35:44  #MKT News
+
+Trump: Israel could not survive without the United States.
+
+---
+
+### 2026-07-28 00:35:30  #國際
+
+特朗普：土耳其一直是不錯的盟友，沒人能對我的軍售指手畫腳。
+
+---
+
+### 2026-07-28 00:35:23  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #XAUUSD #Impact bullish #S&P500
+
+U.S. President Trump said the Fed should ensure U.S. interest rates are the lowest in the world.
+
+---
+
+### 2026-07-28 00:35:13  #MKT News #Macro & Rates #The Fed (FOMC)
+
+President Trump said Federal Reserve Board members are "political".
+
+---
+
+### 2026-07-28 00:35:05  #國際
+
+特朗普談及內塔尼亞胡與土耳其 F-35 戰機事宜：土耳其一直是可靠盟友。
+
+---
+
+### 2026-07-28 00:34:47  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+Trump said Fed Chair Kevin Warsh must address problems at the Fed's policy committee and that interest rates should be cut.
+
+---
+
+### 2026-07-28 00:34:20  #央行 #國際
+
+特朗普：美聯儲理事會成員都帶有政治傾向。
+
+---
+
+### 2026-07-28 00:34:05  #公司
+
+報道：英偉達將向ilya Sutskever的初創公司Safe Superintelligence Inc.投資50億美元，聯合宣告顯示，後者將獲得英偉達下一代Vera Rubin平臺。
+
+---
+
+### 2026-07-28 00:33:58  #國際
+
+特朗普：我們應當擁有全球最低的利率。
+
+---
+
+### 2026-07-28 00:33:42  #央行 #國際
+
+特朗普：沃什必須與美聯儲理事會協商行事。
+
+---
+
+### 2026-07-28 00:33:25  #央行 #國際
+
+特朗普談及美聯儲：應當下調利率。
+
+---
+
+### 2026-07-28 00:33:11  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump said Venezuela's funds can be used for the military.
+
+---
+
+### 2026-07-28 00:33:10  #央行 #國際
+
+特朗普：沃什能力出眾，但美聯儲理事會並非由他一人說了算。
+
+---
+
+### 2026-07-28 00:32:39  #MKT News #WTI #Impact bullish #Brent
+
+U.S. President Trump said he will use Iranian funds to pay for losses in the Strait of Hormuz.
 
 ---
 
@@ -19992,137 +20214,5 @@ Iranian Students' News Agency (ISNA), citing Iraqi sources, reported multiple la
 ### 2026-07-26 05:06:17  #其他
 
 馬斯克：受人工智慧與機器人技術發展影響，“2036年金錢將失去實際意義”。
-
----
-
-### 2026-07-26 05:02:19  #其他
-
-香港天文臺釋出黃色暴雨警告。
-
----
-
-### 2026-07-26 04:55:24  #國際
-
-伊朗召見烏克蘭代辦，就伊朗商船遇襲事件提出交涉。
-
----
-
-### 2026-07-26 04:55:16  #MKT News #Important
-
-IRNA reported Iran summoned Ukraine's acting chargé d'affaires over an attack on an Iranian merchant vessel.
-
----
-
-### 2026-07-26 04:48:00  #其他
-
-市場資訊：梁文鋒不滿投資人洩露內部檔案，DeepSeek新一輪融資或暫停。
-
----
-
-### 2026-07-26 04:47:13  #MKT News
-
-Thomas Ricouard, an OpenAI Codex developer, said he slightly raised geometry precision and material detail in 5.6 Sol with surprisingly strong results. The scene is built entirely in Blender, supports free manipulation and roaming, and can continuously generate aesthetically pleasing still images.
-
----
-
-### 2026-07-26 04:44:12  #國際
-
-伊朗革命衛隊發言人：根據相關協議約定，霍爾木茲海峽的通航事宜須依照伊朗公佈的安排執行。但不出我方所料，美國違背承諾，單方面宣佈設立另一條海峽通航通道。在美國作出此番違約行為後，伊朗革命衛隊攔截相關船隻，並對這艘違規船舶實施打擊。我方原本期待美國重新恪守承諾，然而美方並未這樣做，反倒襲擊我方海岸、島嶼以及部分雷達設施。由此可見，此次新一輪侵略行徑依舊由美國發起。
-
----
-
-### 2026-07-26 04:41:50  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-IRGC spokesman warned Israel knows what would happen if it returned to war and the IRGC concentrated forces against it.
-
----
-
-### 2026-07-26 04:41:27  #國際
-
-伊朗革命衛隊發言人：以色列清楚，一旦其重啟戰事、我們將火力對準以色列，我們會給以色列帶來何等深重的災難。
-
----
-
-### 2026-07-26 04:38:02  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【Iran condemns Ukraine attack on Iranian merchant ship in Caspian Sea, warns Kyiv will face consequences】On the evening of July 25 local time Iran’s foreign ministry condemned what it said was a Ukrainian attack on an Iranian merchant ship in the Caspian Sea, reporting one dead and one injured. Tehran called the strike an “act of aggression,” said it would resolutely defend its interests and security, accused Ukraine of seeking to widen the Russia-Ukraine conflict, and warned the Ukrainian government and its backers would bear consequences. President Zelenskiy said the same day Ukrainian forces struck a Russian warship and several vessels transporting “Iran-related” military materiel.
-
----
-
-### 2026-07-26 04:37:58  #國際
-
-【伊朗警告烏克蘭】當地時間7月25日晚，伊朗外交部譴責烏克蘭在裡海對一艘伊朗商船發動襲擊，稱襲擊導致一人死亡、一人受傷。伊朗外交部稱此舉為“侵略行為”，表示將堅決捍衛本國利益與安全，指責烏克蘭企圖擴大俄烏戰事波及範圍，並警告稱，烏克蘭政權及其支持者將為此次襲擊承擔後果。 烏克蘭總統澤連斯基當天稱，烏軍打擊了裡海的一艘俄羅斯軍艦及數艘用於運輸“與伊朗相關”軍事物資的船隻。（CCTV國際時訊）
-
----
-
-### 2026-07-26 04:34:49  #國際
-
-美國國家颶風中心（NHC）表示，颶風福斯托將繼續向西移動，預計將於週日早些時候進入中太平洋海域。
-
----
-
-### 2026-07-26 04:34:45  #國際
-
-美國國家颶風中心（NHC）表示，熱帶風暴“吉納維芙”已接近颶風強度，預計將於下週初增強為大型颶風。
-
----
-
-### 2026-07-26 04:27:21  #國際
-
-【以色列總理將向特朗普遞交伊朗情報】當地時間7月25日，據以色列第12頻道電視臺等多家媒體報道，以色列總理內塔尼亞胡及其訪美團隊計劃於7月28日在白宮會晤美國總統特朗普時，向美方遞交一份有關伊朗軍事與核計劃的最新情報。報道援引以色列訊息人士的話稱，以方在情報中指責伊朗正在加速推進核武器研發計劃。另據媒體披露，有以色列高階官員揚言，美國與伊朗之間達成協議的可能性“微乎其微”，衝突升級“不可避免”。（CCTV國際時訊）
-
----
-
-### 2026-07-26 04:25:46  #國際
-
-特朗普：自從X平臺昨天清掉那4.2萬個自動回覆機器人賬號後，現在評論區體驗好多了。我們終於又能和真實網友交流了。謝謝你，馬斯克。
-
----
-
-### 2026-07-26 04:19:17  #國際
-
-伊朗革命衛隊指責美國宣佈另一條途經霍爾木茲海峽的航運通道，此舉違反相關諒解備忘錄。其表示，該諒解備忘錄明確規定，航運通行須遵循伊朗公佈的相關安排。
-
----
-
-### 2026-07-26 04:10:44  #MKT News
-
-Israel Broadcasting Corporation says a drone that crashed near the residence of Israel's national security minister, Itamar Ben-Gvir, carried only a camera.
-
----
-
-### 2026-07-26 04:10:07  #MKT News
-
-An IRGC spokesperson said the current conflict is not a full-scale war but a response to U.S. aggression.
-
----
-
-### 2026-07-26 04:06:36  #MKT News #Important #DXY #Impact bullish #XAUUSD #GBPUSD #Impact bearish
-
-Fars News Agency cited an Islamic Revolutionary Guard Corps spokesman saying the UK would become a clear and legitimate target if it backed US entry into the conflict.
-
----
-
-### 2026-07-26 04:06:18  #焦點 #國際
-
-伊朗革命衛隊發言人表示，如果英國在戰爭中支援美國，將成為“明確且合法的打擊目標”。
-
----
-
-### 2026-07-26 04:02:04  #MKT News
-
-【Typhoon Hongxia makes landfall in Huizhou, Guangdong; near-center winds 45 m/s, central pressure 955 hPa】Typhoon Hongxia, the 12th typhoon of the year and classified as a strong typhoon, made landfall at about 03:50 on the 26th in Pinhai Town, Huidong County, Huizhou, Guangdong province. Near-center maximum winds were 14 on the scale (45 m/s) and central pressure was 955 hPa.
-
----
-
-### 2026-07-26 04:00:47  #其他 #焦點
-
-【颱風“紅霞”在廣東惠州登陸 中心附近最大風力14級】中央氣象臺訊息，今年第12號颱風“紅霞”（強颱風級）的中心已於26日03時50分前後在廣東省惠州市惠東縣平海鎮登陸，登陸時中心附近最大風力有14級（45米/秒），中心最低氣壓955百帕。（央視新聞）
-
----
-
-### 2026-07-26 03:57:01  #MKT News
-
-【Iran says new hostilities stem from US breach of Strait of Hormuz transit agreement】A spokesman for the Islamic Revolutionary Guard Corps said the latest round of hostilities resulted from a US breach of an agreement on passage through the Strait of Hormuz. He said the deal required transit to follow Iran’s rules but the US announced an alternative transit route; after that alleged breach the IRGC blocked vessels and struck ships it judged to be violating the terms. The spokesman said Iran had expected the US to resume compliance but that the US instead attacked Iranian coastlines, islands and some radars. He added the IRGC’s strikes were intended to compel US compliance and that it had launched Operation "Victory 2".
 
 ---
