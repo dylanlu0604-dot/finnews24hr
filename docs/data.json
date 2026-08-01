@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-02 04:34:18",
-  "count": 18029,
+  "updated": "2026-08-02 04:38:11",
+  "count": 18026,
   "items": [
+    {
+      "id": "5020576",
+      "time": "2026-08-02 04:34:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【莫斯科餐廳爆炸已致3死21傷 俄稱系自製炸彈襲擊】當地時間8月1日，俄羅斯國家反恐委員會表示，莫斯科市中心一家餐廳發生的事故系自制爆炸裝置爆炸所致。通報稱，一名女子企圖攜帶自制爆炸裝置闖入餐廳，被餐廳保安阻攔，隨後爆炸裝置啟動，該女子和保安當場死亡。此外，事故還造成一名顧客死亡。截至目前，事故已造成3人死亡、21人受傷。（央視新聞）"
+    },
     {
       "id": "mkt:019fbf08-044e-7aab-8f43-d4757cd87bab",
       "time": "2026-08-02 04:33:21",
@@ -166920,42 +166929,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊發言人：以色列清楚，一旦其重啟戰事、我們將火力對準以色列，我們會給以色列帶來何等深重的災難。"
-    },
-    {
-      "id": "mkt:019f9aff-cb6c-7aab-8e96-ecbf47f76b01",
-      "time": "2026-07-26 04:38:02",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran condemns Ukraine attack on Iranian merchant ship in Caspian Sea, warns Kyiv will face consequences】On the evening of July 25 local time Iran’s foreign ministry condemned what it said was a Ukrainian attack on an Iranian merchant ship in the Caspian Sea, reporting one dead and one injured. Tehran called the strike an “act of aggression,” said it would resolutely defend its interests and security, accused Ukraine of seeking to widen the Russia-Ukraine conflict, and warned the Ukrainian government and its backers would bear consequences. President Zelenskiy said the same day Ukrainian forces struck a Russian warship and several vessels transporting “Iran-related” military materiel."
-    },
-    {
-      "id": "5008137",
-      "time": "2026-07-26 04:37:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗警告烏克蘭】當地時間7月25日晚，伊朗外交部譴責烏克蘭在裡海對一艘伊朗商船發動襲擊，稱襲擊導致一人死亡、一人受傷。伊朗外交部稱此舉為“侵略行為”，表示將堅決捍衛本國利益與安全，指責烏克蘭企圖擴大俄烏戰事波及範圍，並警告稱，烏克蘭政權及其支持者將為此次襲擊承擔後果。 烏克蘭總統澤連斯基當天稱，烏軍打擊了裡海的一艘俄羅斯軍艦及數艘用於運輸“與伊朗相關”軍事物資的船隻。（CCTV國際時訊）"
-    },
-    {
-      "id": "5008136",
-      "time": "2026-07-26 04:34:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，颶風福斯托將繼續向西移動，預計將於週日早些時候進入中太平洋海域。"
-    },
-    {
-      "id": "5008135",
-      "time": "2026-07-26 04:34:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，熱帶風暴“吉納維芙”已接近颶風強度，預計將於下週初增強為大型颶風。"
     }
   ]
 }
