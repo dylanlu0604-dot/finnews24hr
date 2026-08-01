@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-02 00:13:58",
-  "count": 18032,
+  "updated": "2026-08-02 00:17:55",
+  "count": 18031,
   "items": [
+    {
+      "id": "5020524",
+      "time": "2026-08-02 00:15:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國前總統羅斯福（FDR）之孫掛牌出售得克薩斯牧場，標價2150萬美元。"
+    },
     {
       "id": "5020523",
       "time": "2026-08-02 00:05:20",
@@ -166939,22 +166947,6 @@
         "MKT News"
       ],
       "text": "Israel Defense Forces says it is taking action in response to reported gunfire from the Susya area in the southern West Bank."
-    },
-    {
-      "id": "mkt:019f9a10-fcd2-7aab-8e95-ce24545c6f6b",
-      "time": "2026-07-26 00:17:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera said West Bank settlers are blocking the tunnel road to a village northwest of Jerusalem and throwing stones at vehicles."
-    },
-    {
-      "id": "5008084",
-      "time": "2026-07-26 00:14:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：《大空頭》原型人物邁克爾・伯裡增持英偉達空頭頭寸。"
     }
   ]
 }
