@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-01 08:15:13",
-  "count": 18010,
+  "updated": "2026-08-01 08:19:08",
+  "count": 18005,
   "items": [
+    {
+      "id": "5020092",
+      "time": "2026-08-01 08:15:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本廣播協會引述日本警方訊息稱，當地時間8月1日早晨，有報警稱千葉縣市川市一棟公寓樓內“傳出爆炸聲”。目前疑似多人受傷，具體情況仍在調查中。（新華社）"
+    },
     {
       "id": "te:economy:571872",
       "time": "2026-08-01 08:12:44",
@@ -166721,60 +166729,6 @@
         "MKT News"
       ],
       "text": "【SpaceX conducts successful 13th Starship test flight】According to launch livestream footage, SpaceX successfully carried out the 13th test flight of its super-heavy Starship from its Texas Starbase after multiple weather delays and pre-launch automatic aborts. The mission had been postponed three times; an initial attempt was halted at the 11-TH HOUR when an automatic system stopped the countdown seconds before liftoff over a technical parameter, and later postponements were due to adverse weather around the Starbase launch area."
-    },
-    {
-      "id": "mkt:019f96a1-933c-7aab-8e90-f35a6eed8e12",
-      "time": "2026-07-25 08:16:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "SK Group chairman Chey Tae-won said Anthropic has decided to develop its own compute capacity."
-    },
-    {
-      "id": "5007696",
-      "time": "2026-07-25 08:16:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【國際油價重返100美元 國內化工品期貨“掉隊”】7月以來，布倫特原油期貨價格一路走強，短短三週時間從70美元/桶附近快速攀升至100美元/桶上方，漲幅超過30美元/桶，市場情緒也隨著地緣風險加劇迅速升溫。不過，與原油市場的火熱行情相比，國內化工期貨表現卻顯得有些“慢半拍”，不僅漲幅明顯落後，更呈現出跟漲乏力的態勢。業內人士表示，本輪國際原油價格上漲的核心驅動來自中東局勢變化帶來的供應收緊預期，而隨著原油市場風險溢價快速提升，短期油價仍存在衝高的可能。但對於國內化工市場而言，成本推動邏輯正在弱化，供需基本面重新成為主導因素，後續不同化工品之間的分化行情或將進一步加劇。（中國證券報）"
-    },
-    {
-      "id": "mkt:019f96a1-7478-7aab-8e90-ee4de2b595d1",
-      "time": "2026-07-25 08:16:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【NVIDIA to invest $1 bln in Naver; to build >2 GW Korea AI data center cluster with SK Group】NVIDIA will invest $1 bln in Korean internet and cloud firm Naver to expand Naver’s under-construction AI data center, which NVIDIA says will more than double Naver’s data center capacity. The project is being co-developed with US private equity firm Brookfield and will be fully equipped with NVIDIA AI compute hardware. Separately, NVIDIA and SK Group agreed to build an AI data center cluster in Korea with total power capacity exceeding 2 GW — roughly equivalent to the electricity demand of 1.5 mln households — and SK Telecom will bring the first AI compute facility online next year."
-    },
-    {
-      "id": "5007695",
-      "time": "2026-07-25 08:16:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK集團會長崔泰源：Anthropic已決定自建“算力”。"
-    },
-    {
-      "id": "5007694",
-      "time": "2026-07-25 08:15:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【機構調研券商“高頻詞”生變 硬科技投資受關注】Wind資料顯示，截至7月24日記者發稿時，6月以來已有19家上市券商及券商母公司累計接待了43次機構調研。與以往聚焦經紀和資管業務不同，如今調研機構最關心的是各家券商在科創領域的專案儲備和投資回報能力，硬科技行業投資佈局已成調研必問話題。在業內人士看來，投資者對券商另類子公司和私募股權平臺的關注度大幅提升，不只是看中短期投資收益，更是認可券商商業模式的轉型，即從傳統輕資產通道中介轉向重資產的產業資本，市場也在為這一轉型重新估值。（中國證券報）"
-    },
-    {
-      "id": "5007693",
-      "time": "2026-07-25 08:15:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK集團會長崔泰源：我們公佈的大型投資專案均切合實際，可落地實施。"
     }
   ]
 }
