@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-02 05:05:08_
-_本檔包含 3351 則快訊，約 673203 字_
+_更新時間：2026-08-02 06:08:00_
+_本檔包含 3349 則快訊，約 673117 字_
+
+---
+
+### 2026-07-28 01:03:29  #市場
+
+五年期美債收益率在國債拍賣後小幅收窄跌幅，最新下跌 2.37 個基點，報 4.402%。
+
+---
+
+### 2026-07-28 01:02:50  #宏觀 #市場 #國際
+
+美國財政部拍賣三個月期國債，得標利率3.815%，投標倍數3.06。
+
+---
+
+### 2026-07-28 01:02:34  #宏觀 #市場 #國際
+
+美國財政部拍賣700億美元五年期國債，得標利率4.408%（6月24日為4.20%、創2025年1月份以來新高），投標倍數2.28（前次為2.35）
+
+---
+
+### 2026-07-28 01:02:30  #MKT News #Macro & Rates #US10Y #Impact bullish
+
+US 3-month Treasury auction to July 27 bid-cover ratio 3.06, prior 3.00.
+
+---
+
+### 2026-07-28 01:02:25  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US 5-year Treasury auction (Jul 27): share awarded at stop-out yield 51.71%, prior 86.81%.
+
+---
+
+### 2026-07-28 01:02:25  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+U.S. 5-year Treasury auction on July 27 stop-out yield 4.408%, prior 4.20%.
+
+---
+
+### 2026-07-28 01:02:25  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+US 3-month Treasury auction on July 27: 83.44% of allotments were at the stop-out yield, versus 73.01% previously.
+
+---
+
+### 2026-07-28 01:02:25  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+US 3-month Treasury auction on July 27: stop-out yield 3.815%, prior 3.73%.
+
+---
+
+### 2026-07-28 01:02:25  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #XAUUSD #DXY #Impact bullish
+
+US 5-year Treasury auction on July 27: bid-cover ratio 2.28; prior 2.35.
+
+---
+
+### 2026-07-28 01:02:05  #MKT News #Economic Calendar
+
+United States | 5-Year Note Auction Bid/Cover Ratio (Jul.27) | actual 2.28 | previous 2.35
+
+---
+
+### 2026-07-28 01:02:05  #MKT News #Economic Calendar
+
+United States | 5-Year Note Auction Accepted at High (Jul.27) | actual 51.71% | previous 86.81%
+
+---
+
+### 2026-07-28 01:02:05  #MKT News #Economic Calendar
+
+United States | 5-Year Note Auction High Yield Rate (Jul.27) | actual 4.408% | previous 4.20%
+
+---
+
+### 2026-07-28 01:02:05  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction Bid/Cover Ratio (Jul.27) | actual 3.06 | previous 3
+
+---
+
+### 2026-07-28 01:02:05  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction Accepted at High (Jul.27) | actual 83.44% | previous 73.01%
+
+---
+
+### 2026-07-28 01:02:05  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction High Yield Rate (Jul.27) | actual 3.815% | previous 3.73%
+
+---
+
+### 2026-07-28 01:00:03  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+【Trump says US should have world's lowest interest rates】On Monday, Trump praised Fed chair Kevin Warsh as outstanding but said Warsh must address issues with the Fed's policymaking committee and expressed confidence Warsh will do the right thing. On rates, Trump said they should be lower and the US should have the world's lowest rates, and added that costs are falling rapidly.
+
+---
+
+### 2026-07-28 01:00:01  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.16%，滬銅收漲0.31%，滬鋁收漲0.43%，滬鋅收漲0.04%，滬鉛收漲0.51%，滬鎳收跌0.44%，滬錫收漲0.24%。氧化鋁夜盤收跌0.70%，鋁合金收漲0.37%。不鏽鋼夜盤收跌0.82%。
+
+---
+
+### 2026-07-28 01:00:01  #MKT News #BRFS.N #JBS.N
+
+LULA said South Korea will send a delegation to Brazil to conduct sanitary assessments of Brazil's meat-processing plants.
+
+---
+
+### 2026-07-28 00:58:34  #國際
+
+巴西總統盧拉：韓國將派遣考察團赴巴西，對巴西肉類加工廠開展衛生檢疫評估。
+
+---
+
+### 2026-07-28 00:57:44  #MKT News
+
+Brazilian President Lula said he will form a working group to advance negotiations with South Korea on a Mercosur trade agreement.
 
 ---
 
@@ -20082,137 +20202,5 @@ Foreign Minister Anand said Canada and the UAE have completed negotiations on a 
 ### 2026-07-26 06:09:05  #國際
 
 【美軍稱對伊海上封鎖已使兩艘船隻失去航行能力】當地時間7月25日，美國中央司令部表示，美國針對伊朗的海上封鎖仍全面生效。截至當天，美軍已攔截並改道12艘試圖突破封鎖的商船，使2艘拒不配合的船隻失去航行能力，並登船檢查2艘船舶。美國中央司令部稱，美軍當天在阿拉伯海完成對懸掛葛摩國旗的油輪登船核查，該船隨後繼續航行。7月24日，美軍還在阿曼灣使懸掛莫三比克國旗的油輪失去航行能力，稱該船多次試圖突破封鎖並無視警告，目前已不再駛往伊朗。（央視新聞）
-
----
-
-### 2026-07-26 06:01:19  #其他
-
-中央氣象臺7月26日06時繼續釋出強對流天氣黃色預警。
-
----
-
-### 2026-07-26 06:00:57  #其他 #焦點
-
-中央氣象臺7月26日06時繼續釋出暴雨紅色預警。
-
----
-
-### 2026-07-26 06:00:27  #其他
-
-中央氣象臺7月26日06時繼續釋出高溫黃色預警。
-
----
-
-### 2026-07-26 06:00:14  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Ukrainian Air Force says Russian forces are launching ballistic-missile strikes on Kyiv.
-
----
-
-### 2026-07-26 06:00:07  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Kyiv mayor says the city was hit in a Russian attack; falling debris ignited fires in at least three districts.
-
----
-
-### 2026-07-26 05:58:58  #國際
-
-基輔市長：基輔遭俄軍襲擊，墜落的碎片在至少三個區引發火災。
-
----
-
-### 2026-07-26 05:58:54  #國際
-
-烏克蘭空軍表示，俄羅斯部隊正使用彈道導彈打擊基輔。
-
----
-
-### 2026-07-26 05:51:10  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Series of explosions heard within Kyiv; city earlier sounded air-raid sirens.
-
----
-
-### 2026-07-26 05:50:43  #國際
-
-【烏克蘭基輔傳出連續爆炸聲】當地時間26日，烏克蘭基輔市內傳出連續爆炸聲。此前基輔拉響防空警報。
-
----
-
-### 2026-07-26 05:50:13  #國際
-
-伊朗外長在與歐盟外交與安全政策高階代表卡拉斯通話時，譴責烏克蘭襲擊伊朗船隻的行為。
-
----
-
-### 2026-07-26 05:41:37  #其他
-
-德國警方：柏林25日晚發生一起汽車衝撞行人事件，已造成一人死亡。
-
----
-
-### 2026-07-26 05:36:01  #MKT News #WTI #Impact bullish #Brent
-
-CENTCOM said on July 24 it took measures in the Gulf of Oman to halt the Mozambique‑flagged tanker "Lavine" after the crew repeatedly attempted to breach a blockade and ignored repeated warnings. The vessel is no longer en route to Iran.
-
----
-
-### 2026-07-26 05:33:52  #MKT News
-
-CENTCOM said earlier today US forces in the Arabian Sea conducted a boarding inspection of the Comoros-flagged tanker Charminar; the vessel has since resumed transit.
-
----
-
-### 2026-07-26 05:33:19  #MKT News #WTI #Impact bullish #Brent
-
-CENTCOM said the US maritime blockade of Iran remains fully enforced. As of July 25 it had forced 12 commercial vessels attempting to breach the blockade to change course, disabled two noncompliant vessels' ability to navigate, and boarded two vessels for inspection to ensure compliance.
-
----
-
-### 2026-07-26 05:32:37  #國際
-
-美國中央司令部：今日早些時候，美軍在阿拉伯海對葛摩籍油輪查米納爾號完成核查登船作業，該油輪現已恢復航行。7月24日，阿曼灣海域，莫三比克籍油輪拉維恩號船員多次企圖突破封鎖、無視我方反覆警告，中央司令部部隊對該船實施裝備癱瘓處置，目前這艘油輪已停止駛往伊朗的航行。
-
----
-
-### 2026-07-26 05:32:05  #國際
-
-美國中央司令部：針對伊朗的海上封鎖措施仍全面生效。截至7月25日，中央司令部已截停12艘試圖突破封鎖的民用商船，癱瘓2艘拒不配合的船隻，並登檢2艘以確保其完全遵守封鎖規定。
-
----
-
-### 2026-07-26 05:28:47  #其他
-
-【德國柏林發生汽車衝撞行人事件致多人受傷】據德國警方訊息，德國首都柏林25日晚發生一起汽車衝撞行人事件，造成多人受傷，警方正在搜捕犯罪嫌疑人。（新華社）
-
----
-
-### 2026-07-26 05:28:12  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Iranian Students' News Agency (ISNA), citing Iraqi sources, reported multiple large explosions and a widespread fire at the Jambur oilfield in Kirkuk province, Iraq.
-
----
-
-### 2026-07-26 05:27:11  #國際
-
-【伊朗要求伊拉克償還110億美元的天然氣進口欠款 】伊拉克總理阿里·扎伊迪近期訪問德黑蘭期間，伊朗方面要求伊拉克償還累計約110億美元的伊朗天然氣進口欠款。巴格達方面告知德黑蘭，目前無力全額清償欠款；而伊朗拒絕了伊拉克提出的透過替代方案償還部分債務的提議。
-
----
-
-### 2026-07-26 05:19:15  #MKT News
-
-【Car rams into pedestrians in Berlin, several injured】German police said a vehicle struck pedestrians in Berlin on the evening of the 25th, injuring multiple people; officers are searching for the suspect.
-
----
-
-### 2026-07-26 05:07:18  #國際
-
-伊朗陸軍發言人：軍方目前正在使用比阿拉什-2更為先進的攻擊無人機。
-
----
-
-### 2026-07-26 05:06:17  #其他
-
-馬斯克：受人工智慧與機器人技術發展影響，“2036年金錢將失去實際意義”。
 
 ---

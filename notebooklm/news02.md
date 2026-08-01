@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-02 05:05:08_
-_本檔包含 3594 則快訊，約 673219 字_
+_更新時間：2026-08-02 06:08:00_
+_本檔包含 3584 則快訊，約 672516 字_
+
+---
+
+### 2026-07-31 09:35:48  #國際
+
+俄羅斯伏爾加格勒州州長表示，該州一處能源設施遭無人機襲擊後起火。
+
+---
+
+### 2026-07-31 09:35:39  #MKT News
+
+Local government: an energy facility in Russia's Volgograd region caught fire after a drone attack.
+
+---
+
+### 2026-07-31 09:35:20  #MKT News #CNH #Impact bearish #Copper #Impact bullish #XAUUSD #Impact mixed
+
+【China NBS: some equipment-manufacturing sectors seeing rapid output and demand growth】China's National Bureau of Statistics said the manufacturing production index and new orders index stood at 49.9 and 48.5, down 1.5 and 2.7 points MoM, indicating production and market demand eased. By sector, general equipment and computer, communications and electronic-equipment industries recorded both production and new-orders indices above 53.0, signalling brisk activity and faster output-demand growth. Non-metallic mineral products, ferrous-metal smelting and rolling, and autos posted both indices below the 50 threshold, reflecting weak supply-demand conditions.
+
+---
+
+### 2026-07-31 09:35:09  #Trading Economics #Economy #China #NBS General PMI #Importance 1
+
+China NBS General PMI Lowest Since Late 2022 — China’s NBS Composite PMI Output Index slipped to 49.3 in July 2026 from 50.6 in the previous month, marking the lowest reading since December 2022. It was also the first contraction in overall business activity since February.
 
 ---
 
@@ -21596,89 +21620,5 @@ Yen Strengthens on Broad Dollar Weakness — The Japanese yen traded around 163.
 ### 2026-07-30 10:12:06  #央行 #美聯儲
 
 【摩根大通將美聯儲加息預期提前至12月】7月30日，據報道，摩根大通目前預計美聯儲將在12月加息，早於該行此前預期的2027年下半年。
-
----
-
-### 2026-07-30 10:11:43  #其他
-
-【海口美蘭國際機場口岸今年出入境人員超100萬人次】從海口美蘭國際機場口岸瞭解到，今年以來，截至7月28日，美蘭出入境邊防檢查站驗放出入境人員突破100萬人次，同比增長18.7%，創美蘭國際機場口岸出入境客流同期新高。其中，入出境外籍旅客超33.9萬人次，同比增長24.7%。
-
----
-
-### 2026-07-30 10:11:30  #公司
-
-【三星電子：到2026年，2nm專案將比2025年增長一倍以上】7月30日，三星電子表示，公司目前正在與博通及其他主要客戶就其他各類專案進行磋商，以持續拓展其在先進工藝節點上的晶片設計業務和產品組合。該公司預計，到2026年，其2nm專案將比2025年增長一倍以上。
-
----
-
-### 2026-07-30 10:10:46  #市場 #焦點
-
-滬深300指數期貨連續主力合約日內跌1%，現報4498.80點。
-
----
-
-### 2026-07-30 10:10:38  #其他
-
-【2026年1—6月國內遊戲市場實際銷售收入1884.50億元，同比增長12.17%】7月30日釋出的《2026年1—6月中國遊戲產業報告》顯示，2026年1—6月，國內遊戲市場實際銷售收入1884.50億元，同比增長12.17%；我國遊戲使用者規模為6.84億，同比增長0.82%；我國自主研發遊戲海外市場實際銷售收入為123.72億美元，同比增長30.22%。
-
----
-
-### 2026-07-30 10:10:26  #市場
-
-滬深300指數下跌1%至4,553.76點。
-
----
-
-### 2026-07-30 10:09:56  #其他
-
-中際旭創成交額達200億元，現跌超10%。
-
----
-
-### 2026-07-30 10:09:47  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-China Stocks Mixed as Politburo Meeting Looms — The Shanghai Composite edged up 0.1% to 3,833 on Thursday, while the Shenzhen Component fell 1.1% to 13,502, as investors turned cautious ahead of the closely watched Politburo meeting later this week. The gathering is expected to set the policy tone for the remainder of the year, with markets looking for fresh signals on stimulus support to bolster growth. Investor caution follows weaker-than-expected Q2 GDP data, weighed down by sluggish domestic demand, muted private-sector investment, and the prolonged property-market contraction. Tech and AI-related stocks led the declines, particularly Cambricon Technologies (-3.7%), SMIC (-1.7%), Zhongji Innolight (-4.8%), and Eoptolink Technology (-5%). Sentiment remained under pressure as a correction in China's AI sector deepened amid concerns over elevated valuations and heavy spending. The weakness persisted despite Zhongji Innolight's Hong Kong debut after its HK$53.4 billion ($6.8 billion) IPO, the city's largest listing in seven years.
-
----
-
-### 2026-07-30 10:09:15  #市場 #焦點
-
-南向資金淨買入額達10億港元。
-
----
-
-### 2026-07-30 10:07:14  #市場 #焦點
-
-創業板指跌3％，上證指數跌0.13％，深證成指跌1.73％。半導體晶片、算力硬體等方向跌幅居前，滬深京三市下跌個股近2100只。
-
----
-
-### 2026-07-30 10:07:07  #國際
-
-據當地官員稱，初步報告顯示，烏克蘭利沃夫的居民樓遭到破壞。
-
----
-
-### 2026-07-30 10:06:51  #市場 #焦點
-
-中證1000指數期貨連續主力合約日內跌1%，現報6976.00點。
-
----
-
-### 2026-07-30 10:06:03  #國際
-
-烏克蘭西部利沃夫市傳出爆炸聲。
-
----
-
-### 2026-07-30 10:05:56  #公司
-
-三星電子：預計短期內將扭虧為盈。
-
----
-
-### 2026-07-30 10:05:42  #公司
-
-三星電子：先進節點晶圓代工利用率已達最高水平。
 
 ---

@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-02 05:05:08_
-_本檔包含 3704 則快訊，約 672489 字_
+_更新時間：2026-08-02 06:08:00_
+_本檔包含 3693 則快訊，約 673237 字_
+
+---
+
+### 2026-07-29 08:55:21  #國際
+
+日本首相高市早苗：熊本地震死亡人數上升至13人。
+
+---
+
+### 2026-07-29 08:55:03  #公司
+
+【美盈森：近期原紙價格有一些波動，對公司業績會有一定影響】7月28日，針對原紙漲價是否會對公司造成影響，美盈森在接待機構調研時表示，近期原紙價格有一些波動，對公司業績會有一定影響。在原材料價格有波動的情況下，公司會考慮與下游客戶協商調整產品價格，也會在新的報價中考慮材料成本波動的因素，以儘量減少對公司業績的影響。
+
+---
+
+### 2026-07-29 08:53:48  #央行 #國際
+
+【印尼央行：將加大力度支撐印尼盾】印尼央行週三表示，全球不確定性加劇，印尼盾匯率徘徊在歷史低位附近，該行正加碼舉措穩定印尼盾匯率，以抑制通脹、託舉經濟增長。印尼央行貨幣與證券管理執行總監埃爾溫・胡塔佩阿在宣告中表示，央行正進一步最佳化貨幣政策組合以維穩印尼盾匯率，操作工具不僅包含政策利率，還涵蓋其他各類貨幣工具。他稱，央行將持續動用各類手段維穩匯率、吸引外資流入，包括外匯市場干預、最佳化印尼盾票據等貨幣工具。
+
+---
+
+### 2026-07-29 08:52:41  #市場 #國際
+
+【全球資金拋售韓國債券規模創9個月新高】韓國金融監督院資料顯示：7月27日外資淨賣出韓國債券5.331億美元，創2025年10月20日以來最高淨賣出規模。交易所資料顯示：7月28日外資淨賣出本土股票30.4億美元。
+
+---
+
+### 2026-07-29 08:51:50  #MKT News #XAUUSD #Impact bullish #USDJPY #Impact bearish #Nikkei 225
+
+Kyodo reported on the 29th, citing a senior Japanese government official, that deaths from the Kumamoto prefecture earthquake may have exceeded 10.
+
+---
+
+### 2026-07-29 08:51:45  #其他
+
+【年內百餘家公募高管調整】公募行業高管變動頻繁。據同花順iFinD統計，截至7月26日，年內已有107家公募機構發生高管變更。僅7月以來，就有金信基金、匯泉基金等多家機構進行核心管理層換屆。有業內人士指出，這輪調整並非短期陣痛，而是行業常態的開端。未來一至兩年，中小公募高管變動頻率或將維持高位，但在趨勢方面有望從“快速洗牌”逐步過渡到“合理調整”。（21財經）
+
+---
+
+### 2026-07-29 08:51:24  #MKT News #Important #Market Themes #AI Revolution #SKHY.O #Impact bullish
+
+【SK Hynix rebuts AI investment slowdown fears, says infrastructure spending to stay robust beyond next year】SK Hynix (SKHY.O) said on its Q2 earnings call that concerns AI infrastructure investment will slow amid big techs re-evaluating data center leasing and the rise of efficient AI models are misplaced. The company said those moves reflect higher utilization and faster monetization of large-scale AI infrastructure rather than cuts to AI spending, and that more efficient models are unlikely to reduce demand for infrastructure and memory because efficiency lets more users run multiple services on the same hardware, expanding adoption and raising overall utilization. In mid-to-long-term demand discussions with major customers, SK Hynix said it has confirmed sustainable AI investment and expects AI infrastructure spending to remain robust beyond next year.
+
+---
+
+### 2026-07-29 08:50:56  #市場 #國際
+
+2年期日本國債收益率下跌2.5個基點，至1.465%。
+
+---
+
+### 2026-07-29 08:49:25  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australian Stocks Hit March highs on Broad Gains — Australian equities jumped 109 points or 1.2% to breach the 9,000 level in early deals on Wednesday, advancing for the third straight session and reaching their highest level since early March. Stronger U.S. futures underpinned the rally after Wall Street closed mostly higher, buoyed by optimism over U.S.–Iran peace talks. Gains were broad-based across tech, healthcare, non-energy minerals, and commercial services, though momentum was tempered by caution ahead of June and Q2 inflation data due later today. Persistent price pressures remain in focus despite three RBA hikes this year, and Governor Michele Bullock reiterated the board’s readiness to tighten further if needed. Among individual stocks, Rio Tinto surged 4.5% after lifting its interim dividend on the back of a 47% profit jump. Meanwhile, Woodside Energy added 0.9% following a 28% rise in quarterly revenue. The big four banks lagged, however, with trading subdued against the broader market’s upswing.
 
 ---
 
@@ -22269,125 +22323,5 @@ Bonds Update: South Korea 10Y Bond Yield Drops by 11 bps — Government bonds yi
 ### 2026-07-28 01:04:59  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish
 
 US 5-year Treasury yield trimmed losses after the auction, down 2.37 bps at 4.402%.
-
----
-
-### 2026-07-28 01:03:29  #市場
-
-五年期美債收益率在國債拍賣後小幅收窄跌幅，最新下跌 2.37 個基點，報 4.402%。
-
----
-
-### 2026-07-28 01:02:50  #宏觀 #市場 #國際
-
-美國財政部拍賣三個月期國債，得標利率3.815%，投標倍數3.06。
-
----
-
-### 2026-07-28 01:02:34  #宏觀 #市場 #國際
-
-美國財政部拍賣700億美元五年期國債，得標利率4.408%（6月24日為4.20%、創2025年1月份以來新高），投標倍數2.28（前次為2.35）
-
----
-
-### 2026-07-28 01:02:30  #MKT News #Macro & Rates #US10Y #Impact bullish
-
-US 3-month Treasury auction to July 27 bid-cover ratio 3.06, prior 3.00.
-
----
-
-### 2026-07-28 01:02:25  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 5-year Treasury auction (Jul 27): share awarded at stop-out yield 51.71%, prior 86.81%.
-
----
-
-### 2026-07-28 01:02:25  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-U.S. 5-year Treasury auction on July 27 stop-out yield 4.408%, prior 4.20%.
-
----
-
-### 2026-07-28 01:02:25  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-US 3-month Treasury auction on July 27: 83.44% of allotments were at the stop-out yield, versus 73.01% previously.
-
----
-
-### 2026-07-28 01:02:25  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-US 3-month Treasury auction on July 27: stop-out yield 3.815%, prior 3.73%.
-
----
-
-### 2026-07-28 01:02:25  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #XAUUSD #DXY #Impact bullish
-
-US 5-year Treasury auction on July 27: bid-cover ratio 2.28; prior 2.35.
-
----
-
-### 2026-07-28 01:02:05  #MKT News #Economic Calendar
-
-United States | 5-Year Note Auction Bid/Cover Ratio (Jul.27) | actual 2.28 | previous 2.35
-
----
-
-### 2026-07-28 01:02:05  #MKT News #Economic Calendar
-
-United States | 5-Year Note Auction Accepted at High (Jul.27) | actual 51.71% | previous 86.81%
-
----
-
-### 2026-07-28 01:02:05  #MKT News #Economic Calendar
-
-United States | 5-Year Note Auction High Yield Rate (Jul.27) | actual 4.408% | previous 4.20%
-
----
-
-### 2026-07-28 01:02:05  #MKT News #Economic Calendar
-
-United States | 3-Month Bill Auction Bid/Cover Ratio (Jul.27) | actual 3.06 | previous 3
-
----
-
-### 2026-07-28 01:02:05  #MKT News #Economic Calendar
-
-United States | 3-Month Bill Auction Accepted at High (Jul.27) | actual 83.44% | previous 73.01%
-
----
-
-### 2026-07-28 01:02:05  #MKT News #Economic Calendar
-
-United States | 3-Month Bill Auction High Yield Rate (Jul.27) | actual 3.815% | previous 3.73%
-
----
-
-### 2026-07-28 01:00:03  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
-
-【Trump says US should have world's lowest interest rates】On Monday, Trump praised Fed chair Kevin Warsh as outstanding but said Warsh must address issues with the Fed's policymaking committee and expressed confidence Warsh will do the right thing. On rates, Trump said they should be lower and the US should have the world's lowest rates, and added that costs are falling rapidly.
-
----
-
-### 2026-07-28 01:00:01  #市場
-
-【夜盤期貨收盤】國際銅夜盤收漲0.16%，滬銅收漲0.31%，滬鋁收漲0.43%，滬鋅收漲0.04%，滬鉛收漲0.51%，滬鎳收跌0.44%，滬錫收漲0.24%。氧化鋁夜盤收跌0.70%，鋁合金收漲0.37%。不鏽鋼夜盤收跌0.82%。
-
----
-
-### 2026-07-28 01:00:01  #MKT News #BRFS.N #JBS.N
-
-LULA said South Korea will send a delegation to Brazil to conduct sanitary assessments of Brazil's meat-processing plants.
-
----
-
-### 2026-07-28 00:58:34  #國際
-
-巴西總統盧拉：韓國將派遣考察團赴巴西，對巴西肉類加工廠開展衛生檢疫評估。
-
----
-
-### 2026-07-28 00:57:44  #MKT News
-
-Brazilian President Lula said he will form a working group to advance negotiations with South Korea on a Mercosur trade agreement.
 
 ---

@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-02 05:05:08_
-_本檔包含 3548 則快訊，約 673384 字_
+_更新時間：2026-08-02 06:08:00_
+_本檔包含 3555 則快訊，約 673935 字_
+
+---
+
+### 2026-08-02 06:03:44  #MKT News #Commodities #Energy #Market Regions #Europe & UK
+
+【Hungary shuts its only nuclear plant for first time due to drought】Hungary will shut its only nuclear plant, Paks, after Danube water levels fell below the minimum needed to cool its four reactors. One of the two operating units will stop at 01:30 local time on Sunday and the remaining unit later that day. The 44-year-old Paks plant, south of Budapest, will remove more than 40% of the country’s generation capacity and may force Hungary to rely more on costly power imports. Prime Minister magyar said sustained low river levels could keep roughly 2,000 MW of Paks capacity offline for weeks, adding pressure to the power system as Central Europe faces a new heatwave.
+
+---
+
+### 2026-08-02 05:58:07  #其他
+
+中央氣象臺8月2日06時繼續釋出暴雨橙色預警。
+
+---
+
+### 2026-08-02 05:57:52  #國際
+
+市場資訊：美國對部分簽證申請人實施2萬美元的金融擔保要求。
+
+---
+
+### 2026-08-02 05:44:12  #MKT News
+
+Hungary will fully shut down the Paks nuclear power plant on Sunday, the prime minister said.
+
+---
+
+### 2026-08-02 05:43:56  #其他
+
+匈牙利總理毛焦爾：帕克斯核電站將於週日全面關閉。
+
+---
+
+### 2026-08-02 05:43:23  #MKT News
+
+Turkey's foreign minister said today he spoke with Iranian foreign minister Araghchi to discuss the latest progress in US-Iran negotiations; Turkey will continue efforts to end regional conflict and build a lasting peace.
+
+---
+
+### 2026-08-02 05:36:55  #國際
+
+土耳其外長：與伊朗外長阿拉格齊通電話。會談中雙方探討了當前（美伊）談判程序的最新態勢。土耳其將繼續付出努力，結束本地區衝突，構建持久和平。
+
+---
+
+### 2026-08-02 05:27:09  #國際
+
+【伊朗外交部：將繼續抵抗直至消除敵人威脅】伊朗外交部當地時間8月1日發表宣告稱，伊朗決心繼續走抵抗與堅守之路，直至徹底消除敵人的惡行。宣告表示，當前，美國繼續違反6月18日美伊諒解備忘錄的相關條款，持續對伊朗港口和商船實施海上封鎖，並不斷對伊朗各地發動野蠻襲擊，加大經濟施壓和非法威脅，持續對伊朗實施侵略。作為回應，伊朗武裝部隊的防禦性打擊仍在全力持續進行。
+
+---
+
+### 2026-08-02 05:16:40  #其他
+
+【新一輪熱浪襲擊克羅埃西亞 多地發生野火】克羅埃西亞近日遭受新一輪熱浪襲擊，紅色高溫預警1日覆蓋亞得里亞海沿岸和首都薩格勒布等地，普拉等地當天發生多起野火。克國家水文氣象局網站上的資訊顯示，亞得里亞海沿岸和薩格勒布等多地處於紅色高溫預警狀態，另有一些地區處於次一級的橙色高溫預警中。根據氣象預測，高溫天氣要持續到下週。
+
+---
+
+### 2026-08-02 05:08:50  #其他
+
+市場資訊：ColdCard硬體錢包遇駭客入侵，被盜比特幣價值超8800萬美元。
+
+---
+
+### 2026-08-02 05:04:45  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Lebanese national news agency reported Israeli forces opened fire in the Bint Jbeil area of southern Lebanon.
 
 ---
 
@@ -21377,29 +21443,5 @@ China A-share dairy sector surged intraday; Yiming Food hit the daily limit, whi
 ### 2026-07-31 09:36:27  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact bullish
 
 【BOJ likely to stand pat; October seen as next potential hike】Major banks and a Reuters survey expect the BOJ to hold policy at this meeting, with October the earliest likely window for a rate increase. JPMorgan and others cite slowing inflation and weak wages as reasons to pause; Citi says a clear October roadmap from Governor Ueda would be a strong hawkish signal but is unlikely in the near term. Several banks warn that insufficiently hawkish messaging could push USD/JPY toward 165, keeping intervention risk elevated, while some firms (Meiji Yasuda) still see scope for an accelerated hiking pace to counter inflation and yen selling. Market takeaway: a sustained yen rebound likely requires tightening from both the BOJ and the Fed; any October guidance or signs of faster tightening would be material for rates, FX and intervention probability.
-
----
-
-### 2026-07-31 09:35:48  #國際
-
-俄羅斯伏爾加格勒州州長表示，該州一處能源設施遭無人機襲擊後起火。
-
----
-
-### 2026-07-31 09:35:39  #MKT News
-
-Local government: an energy facility in Russia's Volgograd region caught fire after a drone attack.
-
----
-
-### 2026-07-31 09:35:20  #MKT News #CNH #Impact bearish #Copper #Impact bullish #XAUUSD #Impact mixed
-
-【China NBS: some equipment-manufacturing sectors seeing rapid output and demand growth】China's National Bureau of Statistics said the manufacturing production index and new orders index stood at 49.9 and 48.5, down 1.5 and 2.7 points MoM, indicating production and market demand eased. By sector, general equipment and computer, communications and electronic-equipment industries recorded both production and new-orders indices above 53.0, signalling brisk activity and faster output-demand growth. Non-metallic mineral products, ferrous-metal smelting and rolling, and autos posted both indices below the 50 threshold, reflecting weak supply-demand conditions.
-
----
-
-### 2026-07-31 09:35:09  #Trading Economics #Economy #China #NBS General PMI #Importance 1
-
-China NBS General PMI Lowest Since Late 2022 — China’s NBS Composite PMI Output Index slipped to 49.3 in July 2026 from 50.6 in the previous month, marking the lowest reading since December 2022. It was also the first contraction in overall business activity since February.
 
 ---
