@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-02 02:52:09",
-  "count": 18032,
+  "updated": "2026-08-02 02:56:07",
+  "count": 18031,
   "items": [
+    {
+      "id": "5020558",
+      "time": "2026-08-02 02:53:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "在大量移民從摩洛哥越境、造成至少67人遇難事件發生後，西班牙在休達近海佈設了一道500米長的海上浮動隔離屏障。"
+    },
     {
       "id": "5020557",
       "time": "2026-08-02 02:50:32",
@@ -166947,25 +166955,6 @@
         "國際"
       ],
       "text": "伊朗外交部譴責烏克蘭在裡海襲擊伊朗商船：爆炸造成一名船員遇難、一人受傷。"
-    },
-    {
-      "id": "mkt:019f9aa0-e7ad-7aab-8e96-7acf34b86c4b",
-      "time": "2026-07-26 02:54:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "A spokesman for Iran's parliamentary national security committee said the primary point of contention with the U.S. is the Strait of Hormuz and that the strait will never return to its pre-war state."
-    },
-    {
-      "id": "5008114",
-      "time": "2026-07-26 02:52:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗近半年原油創收超180億美元，完成年度預算六成收入】伊朗石油部長穆赫森·帕克內賈德表示，自2月28日戰事爆發以來，伊朗石油銷售收入達115億美元；停火階段石油銷售額為65億美元。帕克內賈德補充說明，本次停火始於4月7日，7月10日宣告結束。即便遭遇戰事與制裁衝擊，伊朗石油營收仍完成年度預算石油收入預期目標的六成以上。"
     }
   ]
 }
