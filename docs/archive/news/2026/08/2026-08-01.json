@@ -1,7 +1,255 @@
 {
   "date": "2026-08-01",
-  "count": 831,
+  "count": 859,
   "items": [
+    {
+      "id": "mkt:019fbca1-93d0-7aab-8f41-800ddba241f7",
+      "time": "2026-08-01 17:22:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "DXY",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【China Coast Guard stages rights-protection enforcement drill near Huangyan Island】China Coast Guard said on Aug 1 it staged a rights-protection enforcement and control drill near Huangyan Island, focusing on onboard inspections and arrests, interception of breach attempts, and forcible towing. The coast guard said Huangyan Island is Chinese territory and that it will intensify enforcement and control in adjacent waters to defend national sovereignty and maritime rights."
+    },
+    {
+      "id": "5020347",
+      "time": "2026-08-01 17:18:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南部戰區位黃巖島領海領空和周邊海空域開展多個實戰化科目演練】中國人民解放軍南部戰區位黃巖島領海、領空和周邊海空域組織海空聯合演訓，重點演練偵察預警、威懾巡航、海空管制、聯合突擊等實戰化科目，有效檢驗了部隊海空協同、快速支援和體系制勝能力。黃巖島是中國固有領土，菲方劃設所謂黃巖島“領海基線”非法無效。戰區部隊時刻保持高度戒備，堅決捍衛國家領土主權和海洋權益。"
+    },
+    {
+      "id": "5020346",
+      "time": "2026-08-01 17:17:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "超過20位歐盟領導人敦促歐盟就西班牙休達局勢採取行動。"
+    },
+    {
+      "id": "5020345",
+      "time": "2026-08-01 17:11:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "8月1日，中國海警位黃巖島附近海域組織維權執法管控演練，模擬拖離侵權船隻。（玉淵譚天）"
+    },
+    {
+      "id": "5020344",
+      "time": "2026-08-01 17:08:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港運輸及物流局：香港低空經濟再創新里程碑】香港特區政府運輸及物流局局長陳美寶1日表示，香港的低空經濟再邁向另一里程碑：首個運用最大起飛重量約150公斤的高載荷無人機進行非傳統操作的專案正式登場，無人機更可增加負重，在工地操作中發揮無限可能。 陳美寶在當日發表的網誌中說，特區政府去年3月推出低空經濟“監管沙盒”，目前已有超過20個專案進入恆常化和規模化運作，包括無人機進行建築物外牆清洗、基建勘察、設施巡檢等，並由香港民航處就有關應用場景釋出小型無人機通告，提供相關指引。2025年6月至2026年5月，民航處就有關恆常實際運作的應用場景批准共115項申請。 陳美寶指出，特區政府“發展低空經濟工作組”推出“監管沙盒”短短一年間，已批准將小型無人機應用到發展局轄下部門共12個場景，涵蓋工地管理、緊急應變及資產管理用途，是提升公共服務的最佳體現。 陳美寶表示，特區政府進一步拓展測試五類技術更復雜、使用航空器更大型的應用場景的進階版“監管沙盒X”，並已接獲超過100項申請，首批33個專案今年上半年起陸續進行測試。 “本月內，香港將推出更多跨界別的合作專案。這些新專案不僅僅是技術上的嘗試，更橫跨了切實的民生應用與前沿的高新科技突破。無論是提升城市效率，還是最佳化市民的日常生活體驗都將迎來令人矚目的里程碑。”陳美寶說。（新華社）"
+    },
+    {
+      "id": "5020343",
+      "time": "2026-08-01 17:04:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【廣汽埃安7月銷量增長31.7%，推出全新Ray車系佈局C端】廣汽埃安8月1日公佈的資料顯示，其7月終端銷量達34987輛，同比增長31.74%，實現連續5個月同比正增長。 銷量結構層面，2026年上半年埃安C端使用者佔比攀升至81%，主力車型已平穩過渡至埃安i60及N60。此外，公司成立“昊鉑埃安BU”推進組織變革，並推出面向年輕市場的全新Ray車系，其首款中大型純電轎車“Ray 7”將於8月中下旬亮相。"
+    },
+    {
+      "id": "5020342",
+      "time": "2026-08-01 17:03:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國汽車行業協會：特斯拉7月法國銷量增長86%，達2429輛。"
+    },
+    {
+      "id": "5020341",
+      "time": "2026-08-01 17:03:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國汽車行業協會PFA週六公佈的資料顯示，7月份法國新車註冊量同比增長9%，達到126,808輛。"
+    },
+    {
+      "id": "5020340",
+      "time": "2026-08-01 17:02:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車7月出口量為5765輛，而去年同期為2524輛。"
+    },
+    {
+      "id": "5020339",
+      "time": "2026-08-01 17:01:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國行業機構表示，7月法國新車註冊量同比增長9%。"
+    },
+    {
+      "id": "mkt:019fbc8e-54f3-7aab-8f41-7dfe26f4d1a1",
+      "time": "2026-08-01 17:01:12",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Russian Defence Ministry says forces launched large-scale strikes on Kyiv military-industrial sites】The Russian Defence Ministry said overnight July 31–Aug 1 Russian forces struck multiple military-industrial enterprises and logistics centers in Kyiv city and Kyiv region. Ukrainian media reported multiple killed and injured."
+    },
+    {
+      "id": "5020338",
+      "time": "2026-08-01 17:01:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "伊斯坦布林7月消費者物價指數同比上漲35.20%。"
+    },
+    {
+      "id": "5020337",
+      "time": "2026-08-01 17:00:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "伊斯坦布林7月消費者價格指數環比上漲2.06%。"
+    },
+    {
+      "id": "5020336",
+      "time": "2026-08-01 17:00:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "塔塔汽車：7月印度本地銷量33,876輛，同比增長28%。"
+    },
+    {
+      "id": "5020335",
+      "time": "2026-08-01 17:00:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車：7月份汽車銷量39,641輛，同比增長37%。"
+    },
+    {
+      "id": "5020334",
+      "time": "2026-08-01 16:54:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【烏克蘭謀求使用“星鏈”的更大許可權】據美國媒體7月31日報道，日前訪問美國期間，烏克蘭總統澤連斯基要求美國總統特朗普等美方官員勸說太空探索技術公司（SpaceX）創始人埃隆·馬斯克，希望馬斯克允許烏軍利用SpaceX旗下衛星網際網路系統“星鏈”打擊俄羅斯境內彈道導彈發射裝置。當下，俄方已開始部署一套類似“星鏈”的低軌道衛星系統。美聯社7月31日援引多名訊息人士的話報道，澤連斯基7月28日與特朗普在白宮舉行閉門會晤，向特朗普當面提出了上述要求。按照澤連斯基說法，烏克蘭需要在冬季前對俄彈道導彈發射裝置實施“精度更高的打擊”，以阻止俄方發動冬季攻勢、加大對烏能源設施的打擊。7月28日晚些時候，澤連斯基在美國國會與聯邦議員舉行會晤時，繼續遊說稱希望藉助“星鏈”打擊俄境內目標。據美聯社報道，在7月初舉行的北約峰會期間，澤連斯基就提出過類似要求。共和黨籍聯邦參議員、參議院軍事委員會成員邁克·朗茲透露，烏方需要“長期接入‘星鏈’”，以便提升中遠端武器系統的打擊精度。“烏方追求精準命中目標，而非籠統轟炸大片區域。他（澤連斯基）已經把這一點說得十分明確了。”另據美國《大西洋》月刊報道，特朗普稱會考慮澤連斯基的要求，但未明確允諾。此外，馬斯克拒絕了澤連斯基此次訪美期間提出的會面請求。目前，白宮、烏克蘭駐美國大使館以及SpaceX均未置評上述訊息。（新華社）"
+    },
+    {
+      "id": "5020333",
+      "time": "2026-08-01 16:52:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一汽紅旗新款天工08上市】8月1日，一汽紅旗宣佈新款天工08正式上市，670Max配置限時權益價17.99萬元。"
+    },
+    {
+      "id": "5020332",
+      "time": "2026-08-01 16:51:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "西班牙首相桑切斯致信歐盟領導層：對歐盟對休達事件的反應表示嚴重關切。歐盟承受不起自私、分裂、非法的反應。"
+    },
+    {
+      "id": "mkt:019fbc81-fedc-7aab-8f41-72eb01b2fc17",
+      "time": "2026-08-01 16:47:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran urges Middle East states to reconsider cooperation and alliance with US】Iran's Hatham al-Anbiya central headquarters commander Major General Ali Abdollahi said US actions against Iran are increasingly raising the risk of a wider regional conflagration. He told Middle Eastern states they should recognise US intent to use their wealth, infrastructure and resources as a 'defensive shield' for its waning military power, and warned any country acting as a US 'defensive shield' would be 'consumed by war'."
+    },
+    {
+      "id": "5020331",
+      "time": "2026-08-01 16:44:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川繼續釋出暴雨黃色預警】四川省氣象臺8月1日16時15分繼續釋出暴雨黃色預警： 8月1日20時到8月2日20時，廣元、巴中、南充、遂寧、資陽、內江6市，綿陽、德陽、成都、眉山、自貢、宜賓6市東部和瀘州北部的部分地方有暴雨到大暴雨（雨量70～160毫米），個別特大暴雨（雨量250～280毫米），最大小時雨強（60～90毫米），雷雨時伴有短時陣性大風。另外，涼山州和攀枝花市的部分地方，甘孜州南部和阿壩州西部的區域性地方有大雨到暴雨（雨量30～70毫米）。"
+    },
+    {
+      "id": "5020330",
+      "time": "2026-08-01 16:44:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：暑運前半段新疆、北京、雲南旅遊熱度高，TOP20熱門航線中8條航線票價降幅超1成】航班管家旗下DAST交通資料速遞8月1日釋出2026年暑運前半段民航資料總結。從入省運力（省外進港運力）上觀察，部分旅遊屬性的地區有較高的運力增幅，其中新疆同比增長10.3%、北京同比增長7.2%、雲南同比增長6.6%；除此之外，青海同比下滑16.5%、寧夏同比下滑10.6%、內蒙古同比下滑7.2%。7月份TOP20國內航線經濟艙平均票價約844.9元，其中僅3條航線均價超千元，且都是北京首都相關航線；對比歷史同期來看，僅上海虹橋-北京首都、深圳寶安-上海虹橋等4條航線票價同比正增長，其餘16條皆有不同程度的下滑，部分航線降幅較大，深圳寶安-北京首都、成都雙流-北京首都、廣州白雲-北京首都等8條航線降幅超1成。"
+    },
+    {
+      "id": "mkt:019fbc7e-417e-7aab-8f41-6a9eeddc4e93",
+      "time": "2026-08-01 16:43:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Crude oil ETF holdings report launches; WTI (USO) down, Brent (BNO) up】July 31 — New crude oil ETF holdings report launched. WTI (USO) nominal exposure about 21.8222 million barrels, down 1.67 million barrels on the day. Brent (BNO) futures holdings about 6.9990 million barrels, up roughly 2,000 barrels."
+    },
+    {
+      "id": "mkt:019fbc7c-65a3-7aab-8f41-65b693b27ae8",
+      "time": "2026-08-01 16:41:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangzhou Baiyun Airport launches blue emergency response; 42 departures delayed over 1 hour】Guangzhou Baiyun International Airport launched a blue emergency response on the afternoon of Aug 1 after forecasts of moderate-to-heavy showers with thunderstorms. As of 15:35, 42 passenger departures were delayed more than one hour and had not departed. The airport said it issued weather warnings to on-site units, activated contingency plans, added check-in, security and baggage counters or lanes, and will coordinate with air traffic control and carriers to accelerate flight releases once conditions improve."
+    },
+    {
+      "id": "5020329",
+      "time": "2026-08-01 16:39:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【受降雨影響 廣州白雲機場啟動航班大面積延誤藍色響應】從廣州白雲國際機場瞭解到，根據機場氣象預報，8月1日下午，受降雨天氣影響，預計機場全區將出現中到大陣雨的伴雷暴天氣。截至15時35分，白雲機場延誤一小時以上仍未執行出港的客運航班為42班，隨即啟動航班大面積延誤應急處置藍色響應。白雲機場表示，已第一時間向各駐場單位推送天氣預警，啟動應急預案，值機、安檢、問詢、行李查詢等崗位，將動態增開服務櫃檯或通道，全力做好複雜天氣服務保障。待天氣好轉後，將盡快與空管、航司協調對接，加速航班放行。同時提醒廣大旅客，留意天氣變化及所乘航空公司釋出的航班最新動態，合理安排出行。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fbc78-05fb-7aab-8f41-5ca04fe4d66e",
+      "time": "2026-08-01 16:36:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran military says it recently used a new drone】Iran's army spokesman told Iranian media the military recently used a new drone; further details will be released in coming days."
+    },
+    {
+      "id": "5020328",
+      "time": "2026-08-01 16:36:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗軍方稱近期使用新型無人機】伊朗陸軍發言人稱伊朗近期使用了新型無人機，具體細節將在未來幾天內公佈。（新華社）"
+    },
+    {
+      "id": "mkt:019fbc75-90b1-7aab-8f41-56c61ad7b9cf",
+      "time": "2026-08-01 16:34:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jiechuang Intelligence says ~430 mln yuan of domestic compute projects signed since 2026】Jiechuang Intelligence told investors it has signed about 430 mln yuan of projects in China’s domestic compute sector since 2026. Leveraging its Changqing Cloud platform, the company is advancing compatibility and ecosystem partnerships for domestic software and hardware and supplying general compute, intelligent compute and dedicated/hybrid cloud products and services to customers."
+    },
+    {
+      "id": "5020327",
+      "time": "2026-08-01 16:34:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國首臺掘爆機在武漢下線】8月1日，我國首臺掘爆機“翔龍號”在湖北省武漢市中鐵科工江夏製造基地下線。這款裝備融合掘進法與鑽爆法兩大主流工法，填補了複雜地質隧道一體化施工裝備領域的空白。“翔龍號”由清華大學與中鐵科工集團聯合研製，整機長70米，開挖直徑達4.55米，中心刀盤直徑達1.2米，整機重量約400噸。該裝備創新採用空心刀盤結構，依靠空心刀盤、中心刀盤協同運作，可靈活切換“前爆後掘”“前掘後爆”“全斷面掘進”等多種作業模式，融合超前鑽爆預處理、機械化連續開挖雙重優勢。"
+    },
     {
       "id": "5020326",
       "time": "2026-08-01 16:30:26",
