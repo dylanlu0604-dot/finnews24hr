@@ -1,7 +1,65 @@
 {
   "date": "2026-08-01",
-  "count": 806,
+  "count": 812,
   "items": [
+    {
+      "id": "5020311",
+      "time": "2026-08-01 16:14:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理：多瑙河水位偏低， 保克什核電站最快本週末就會徹底停機停運。"
+    },
+    {
+      "id": "mkt:019fbc62-e99d-7aab-8f41-2aff2f035a94",
+      "time": "2026-08-01 16:13:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwaiti military said Iran's attack struck equipment belonging to a civilian company on Bubiyan Island, causing material damage from falling shrapnel."
+    },
+    {
+      "id": "mkt:019fbc62-9940-7aab-8f41-21872e9c47a3",
+      "time": "2026-08-01 16:13:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Hainan Mining: Xingzhihai July lithium salt output 1,869 tonnes, monthly record】Hainan Mining said Hainan Xingzhihai New Materials Co. produced 1,869 tonnes of lithium salts in July, setting a monthly production record."
+    },
+    {
+      "id": "5020310",
+      "time": "2026-08-01 16:12:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南礦業：星之海7月份鋰鹽總產量達1869噸 創月度產量新高】據海南礦業訊息，海南星之海新材料有限公司（簡稱“星之海”）7月份鋰鹽總產量達1869噸，創月度產量新高。"
+    },
+    {
+      "id": "5020309",
+      "time": "2026-08-01 16:12:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "馬魯蒂鈴木：馬魯蒂鈴木印度有限公司2026年7月總銷量為241,421輛。"
+    },
+    {
+      "id": "mkt:019fbc60-df54-7aab-8f41-1f3d7cc49bee",
+      "time": "2026-08-01 16:11:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwaiti military says Iran's attack struck multiple key facilities, including a government agency in northern Kuwait."
+    },
     {
       "id": "mkt:019fbc59-c87f-7aab-8f41-1712ea406309",
       "time": "2026-08-01 16:03:48",

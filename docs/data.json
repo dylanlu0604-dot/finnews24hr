@@ -1,7 +1,65 @@
 {
-  "updated": "2026-08-01 16:09:22",
-  "count": 17989,
+  "updated": "2026-08-01 16:17:04",
+  "count": 17993,
   "items": [
+    {
+      "id": "5020311",
+      "time": "2026-08-01 16:14:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理：多瑙河水位偏低， 保克什核電站最快本週末就會徹底停機停運。"
+    },
+    {
+      "id": "mkt:019fbc62-e99d-7aab-8f41-2aff2f035a94",
+      "time": "2026-08-01 16:13:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwaiti military said Iran's attack struck equipment belonging to a civilian company on Bubiyan Island, causing material damage from falling shrapnel."
+    },
+    {
+      "id": "mkt:019fbc62-9940-7aab-8f41-21872e9c47a3",
+      "time": "2026-08-01 16:13:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Hainan Mining: Xingzhihai July lithium salt output 1,869 tonnes, monthly record】Hainan Mining said Hainan Xingzhihai New Materials Co. produced 1,869 tonnes of lithium salts in July, setting a monthly production record."
+    },
+    {
+      "id": "5020310",
+      "time": "2026-08-01 16:12:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南礦業：星之海7月份鋰鹽總產量達1869噸 創月度產量新高】據海南礦業訊息，海南星之海新材料有限公司（簡稱“星之海”）7月份鋰鹽總產量達1869噸，創月度產量新高。"
+    },
+    {
+      "id": "5020309",
+      "time": "2026-08-01 16:12:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "馬魯蒂鈴木：馬魯蒂鈴木印度有限公司2026年7月總銷量為241,421輛。"
+    },
+    {
+      "id": "mkt:019fbc60-df54-7aab-8f41-1f3d7cc49bee",
+      "time": "2026-08-01 16:11:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwaiti military says Iran's attack struck multiple key facilities, including a government agency in northern Kuwait."
+    },
     {
       "id": "mkt:019fbc59-c87f-7aab-8f41-1712ea406309",
       "time": "2026-08-01 16:03:48",
@@ -166537,22 +166595,6 @@
         "Brent"
       ],
       "text": "Local governor said drones sparked a fire at an oil refinery in Russia's Tyumen region."
-    },
-    {
-      "id": "5007906",
-      "time": "2026-07-25 16:16:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家防總提升針對廣東的應急響應至Ⅲ級】今年第12號颱風“紅霞”已於7月25日早晨加強為颱風級。預計，“紅霞”將於25日夜間至26日早晨在香港到廣東陸豐一帶沿海登陸（颱風級或強颱風級，12～14級，35～42米每秒）。受其影響，南海東北部部分海域、廣東東部沿海、珠江口風力可達9～11級、陣風12～13級，颱風中心經過的海域或地區風力有12～13級、陣風14～16級。25日至27日，廣東、江西、湖南等地有強降雨，廣東東部、江西南部、湖南南部等地部分地區累計降雨量150～300毫米，局地400～500毫米，單點最大600毫米左右。中央氣象臺25日10時釋出颱風、暴雨橙色預警。根據《國家防汛抗旱應急預案》及有關規定，國家防總決定於7月25日16時將針對廣東的防汛防颱風應急響應提升至Ⅲ級，並同步針對江西、湖南啟動防汛Ⅳ級應急響應。"
-    },
-    {
-      "id": "mkt:019f9855-6bcd-7aab-8e94-44d456196712",
-      "time": "2026-07-25 16:12:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【National Flood Control and Drought Relief Headquarters raises Guangdong flood/typhoon emergency response to Level 3】Typhoon Hongxia intensified to typhoon strength on the morning of July 25 and is forecast to make landfall along the coast between Hong Kong and Lufeng, Guangdong, between the night of July 25 and the morning of July 26. Forecast intensity: typhoon to strong typhoon, wind force 12–14 (35–42 m/s). Under the National Flood and Drought Emergency Response Plan and related rules, the National Flood Control and Drought Relief Headquarters upgraded Guangdong’s flood and typhoon emergency response to Level 3 at 16:00 on July 25 and simultaneously activated Level 4 responses for Jiangxi and Hunan."
     }
   ]
 }
