@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-02 03:12:16",
-  "count": 18030,
+  "updated": "2026-08-02 03:16:14",
+  "count": 18028,
   "items": [
+    {
+      "id": "mkt:019fbec0-121b-7aab-8f43-8164386bb888",
+      "time": "2026-08-02 03:14:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry warned that if the U.S. continues to violate the June 28 ceasefire agreement — including a maritime blockade of Iran's ports and commercial shipping, attacks across the country, and intensified economic pressure and illegal threats — Iran's armed forces will continue defensive strikes at full force."
+    },
+    {
+      "id": "5020562",
+      "time": "2026-08-02 03:12:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場資訊：市場預期美聯儲將在下次聯邦公開市場委員會（FOMC）會議上加息。"
+    },
     {
       "id": "mkt:019fbebc-d151-7aab-8f43-7e8f6d724964",
       "time": "2026-08-02 03:11:13",
@@ -166912,44 +166933,6 @@
         "國際"
       ],
       "text": "訊息人士：今早以來，以軍在加沙地帶開火，造成至少7名巴勒斯坦人死亡、20人受傷。"
-    },
-    {
-      "id": "mkt:019f9ab3-e5ab-7aab-8e96-9259e06e3413",
-      "time": "2026-07-26 03:15:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. appeals court refused to allow enforcement of Trump's executive order restricting mail-in voting."
-    },
-    {
-      "id": "5008122",
-      "time": "2026-07-26 03:14:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國上訴法院拒絕允許實施特朗普限制郵寄投票的行政令。"
-    },
-    {
-      "id": "5008121",
-      "time": "2026-07-26 03:14:15",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【卡達宣佈將恢復海上航行】卡達7月25日宣佈，自26日起，全面恢復各類船舶的海上航行活動。此前，卡達曾於7月12日建議公民暫停所有海上活動。海事部門在宣告中表示，所有船員和運營方須嚴格遵守國家海事法規。出航前及航行期間，務必全面檢查並配齊安全與安保裝置，保障海上航行安全。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f9ab2-0310-7aab-8e96-8e276fa63ab5",
-      "time": "2026-07-26 03:13:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Trump says he would consider resuming full-scale war if he cannot get 100% from Iran】French broadcaster LCI reported Trump said the U.S. would absolutely consider resuming a full-scale war if it cannot obtain 100% of what it wants from Iran. When asked what he would say to European allies, he said they are lucky to have a friend like him."
     }
   ]
 }
