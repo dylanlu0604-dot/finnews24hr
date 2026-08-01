@@ -1,7 +1,19 @@
 {
   "date": "2026-08-01",
-  "count": 785,
+  "count": 786,
   "items": [
+    {
+      "id": "mkt:019fbc3b-6422-7aab-8f40-eaacb60ca1f4",
+      "time": "2026-08-01 15:30:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "According to Iran's Fars News Agency, an Iranian military spokesman said new UAVs have been commissioned and that details will be released in coming days; he said their range is sufficient to cover Israeli territory."
+    },
     {
       "id": "mkt:019fbc38-1844-7aab-8f40-e27864da639a",
       "time": "2026-08-01 15:27:00",
