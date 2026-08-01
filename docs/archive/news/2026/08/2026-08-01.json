@@ -1,7 +1,38 @@
 {
   "date": "2026-08-01",
-  "count": 996,
+  "count": 999,
   "items": [
+    {
+      "id": "5020487",
+      "time": "2026-08-01 22:25:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿維塔7月交付7626輛】據阿維塔訊息，阿維塔7月交付7626輛。"
+    },
+    {
+      "id": "mkt:019fbdb6-2499-7aab-8f42-9eb1b3d69572",
+      "time": "2026-08-01 22:24:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese sources say the seventh round of Lebanon‑Israel talks will open in Rome on Tuesday and run for three days."
+    },
+    {
+      "id": "mkt:019fbdb5-df8b-7aab-8f42-9213d9a1dfce",
+      "time": "2026-08-01 22:24:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "META.O",
+        "Impact bearish",
+        "MSFT.O",
+        "Impact bullish",
+        "AMZN.O"
+      ],
+      "text": "【Tech post-earnings split signals market beginning to punish unchecked AI spending】Market reactions to big-tech earnings diverged sharply, signaling investor scrutiny of AI-driven spending. Meta fell as much as 8% in after-hours trade after issuing disappointing revenue guidance and reporting its weakest free cash flow in years, a market read as evidence of rising AI-related costs. Microsoft jumped about 16% post-earnings, adding roughly $450bn of market value, after reporting the fastest cloud growth in four years and saying it will control incremental capital expenditure this year. Amazon rallied about 15% after its cloud revenue posted a four-year high, easing concerns about returns on large AI investments. Explosive Options founder and chief options analyst Bob Long said investors will eventually tire of hyperscalers’ endless spending, so restraint being rewarded is unsurprising. Global AI supply-chain names and firms that provide or adopt AI appear to be back in favor."
+    },
     {
       "id": "mkt:019fbdb4-1767-7aab-8f42-8a63d744e1dd",
       "time": "2026-08-01 22:22:04",
