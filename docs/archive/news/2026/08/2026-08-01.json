@@ -1,7 +1,35 @@
 {
   "date": "2026-08-01",
-  "count": 693,
+  "count": 696,
   "items": [
+    {
+      "id": "mkt:019fbbb6-52d7-7aab-8f3f-f8821c630980",
+      "time": "2026-08-01 13:05:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Russian forces say they carried out large-scale night strike on Kyiv military-industrial sites】Russian Defence Ministry said between the night of July 31 and early August 1 local time its forces used land- and sea-based long-range precision weapons and long-range attack drones to strike Ukrainian military-industrial plants and logistics centres in Kyiv city and Kyiv region. The ministry said the struck facilities were used to produce, store and transport missiles, drones, radar systems and electronic-warfare equipment. Early on August 1 Kyiv registered multiple large explosions; Kyiv mayor Vitali Klitschko said Russian forces were launching ballistic missile strikes on the capital, causing casualties."
+    },
+    {
+      "id": "5020230",
+      "time": "2026-08-01 13:05:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄軍稱夜間大規模打擊基輔地區軍工企業】據俄羅斯國防部通報，當地時間7月31日夜間至8月1日凌晨，俄軍使用陸基、海基遠端高精度武器和遠端攻擊型無人機，大規模打擊了烏克蘭基輔市和基輔州的烏克蘭軍工企業和物流中心。被擊中設施用於生產儲存運送各類導彈武器、無人機、雷達站和電子戰裝置。當地時間8月1日凌晨，烏克蘭首都基輔響起密集的強烈爆炸聲。基輔市長克利奇科稱，俄軍正在對基輔市發動彈道導彈襲擊，造成人員傷亡。（央視新聞）"
+    },
+    {
+      "id": "5020229",
+      "time": "2026-08-01 13:04:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【影石GO Ultra將迎大更新？CEO劉靖康：將會重新定義拇指相機】7月31日晚，影石官方釋出預告稱Insta360 GO Ultra將迎來大更新，或推出語音助手功能。8月1日，影石CEO劉靖康發文表示，“將會重新定義拇指相機，可能會成為市場上除meta外存量和出貨量最大的個人AI助手。”"
+    },
     {
       "id": "5020228",
       "time": "2026-08-01 13:02:48",
