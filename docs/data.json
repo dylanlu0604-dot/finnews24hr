@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-01 17:26:05",
+  "updated": "2026-08-01 17:30:09",
   "count": 18017,
   "items": [
+    {
+      "id": "5020349",
+      "time": "2026-08-01 17:26:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國海警位黃巖島附近海域組織維權執法管控演練】據“中國海警”訊息，中國海警局新聞發言人姜略表示，8月1日，中國海警位黃巖島附近海域組織維權執法管控演練，重點演練臨檢拿捕、攔阻衝闖、強制拖離等執法行動。黃巖島是中國固有領土。中國海警將加大黃巖島附近海域維權執法管控力度，堅決維護國家領土主權和海洋權益。"
+    },
+    {
+      "id": "5020348",
+      "time": "2026-08-01 17:26:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【耀鴻電子超50億元人工智慧硬體材料研發生產基地專案在無錫落地】據“無錫釋出”訊息，7月31日，耀鴻電子AI智算高速主機板核心材料研發生產基地專案在錫簽約落地，專案總投資超50億元。該專案主要生產面向AI伺服器、光模組、高階晶片等領域的高階覆銅板，並配套建設研發總部與重點實驗室，重點攻關M10高速覆銅板等前沿技術，加快推動高階電子封裝基材的國產化替代程序。專案預計今年年內開工，達產後將年產3000萬平方米的AI高速封裝載板超薄覆銅板和6000萬米的超薄粘結片。"
+    },
     {
       "id": "mkt:019fbca1-93d0-7aab-8f41-800ddba241f7",
       "time": "2026-08-01 17:22:13",
@@ -166775,27 +166791,6 @@
         "國際"
       ],
       "text": "伊朗外交部長阿拉格齊：諒解備忘錄第五條規定明確，伊朗是決定穿越霍爾木茲海峽機制的實體。"
-    },
-    {
-      "id": "5007921",
-      "time": "2026-07-25 17:29:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德國工商界批評美國新關稅加劇貿易不確定性】當地時間7月24日，德國工商大會、德國批發和外貿協會分別就美國最新關稅措施發表宣告，批評美方頻繁調整關稅政策，加劇企業經營和投資的不確定性。德國工商大會外貿主管福爾克·特賴爾表示，美國正試圖透過新的法律依據恢復此前被法院叫停的關稅措施，持續變化的政策增加了企業行政負擔和法律風險，難以形成穩定、可預期的經營環境。他強調，美方違反世貿組織規則的關稅措施應全面取消，特別是目前仍在實施的對鋼鋁產品徵收的額外關稅。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f989b-b0e9-7aab-8e94-948d19730d35",
-      "time": "2026-07-25 17:29:27",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "【German business groups say US tariff shifts increase trade uncertainty】On July 24 the Association of German Chambers of Commerce (DIHK) and the German Wholesale and Foreign Trade Association said recent US tariff measures and frequent policy shifts are exacerbating operational and investment uncertainty. Volker Treier, DIHK head of foreign trade, said the US appears to be seeking a new legal basis to reinstate tariffs previously suspended by courts; the ongoing changes increase firms’ administrative and legal costs and undermine a predictable business environment. He urged the full removal of US tariffs that violate WTO rules, singling out the additional steel and aluminum duties still in effect."
     }
   ]
 }
