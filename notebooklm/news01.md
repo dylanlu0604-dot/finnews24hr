@@ -1,7 +1,277 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-01 19:01:22_
-_本檔包含 3527 則快訊，約 674692 字_
+_更新時間：2026-08-01 20:07:08_
+_本檔包含 3541 則快訊，約 675203 字_
+
+---
+
+### 2026-08-01 20:05:41  #其他
+
+土耳其能源部長：過境運輸協議涵蓋每日75萬桶輸油運力，目前仍在為達成長期協議繼續推進相關工作。
+
+---
+
+### 2026-08-01 20:05:37  #MKT News #WTI #Brent
+
+Turkey's energy minister said transit arrangements have capacity of 750,000 bpd and that Turkey is continuing to work to secure a long-term agreement.
+
+---
+
+### 2026-08-01 20:05:13  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
+
+Turkey's energy minister said Turkey and Iraq signed a one-year agreement allowing use of the oil pipeline to Ceyhan.
+
+---
+
+### 2026-08-01 20:04:09  #其他
+
+土耳其能源部長表示，土耳其與伊拉克已就土耳其傑伊漢輸油管道的使用簽署一項為期一年的協議
+
+---
+
+### 2026-08-01 20:02:06  #宏觀 #焦點
+
+【8月1日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.《求是》雜誌發表習近平總書記重要文章《加快建設健康中國》； 2.【新思想引領新徵程】在黨的旗幟下書寫強軍興軍新榮光； 3.我國現代化水網建設提速； 4.郵政行業寄遞業務量2030年將達2900億件； 5.第十二批國家組織藥品集採開標 藥品可及性持續提升； 6.超長期特別國債資金精準發力 加快補齊民生短板； 7.鐵路暑運過半 消夏旅遊列車激發消費活力； 8.國內聯播快訊： （1）水利部發布《中國節約用水報告2025》； （2）《退役軍人就業創業促進條例》今起正式實施； （3）《黃巖島國家級自然保護區管理辦法》印發； （4）中東部高溫天氣持續 東北局地防汛救災加緊進行； （5）中國—烏茲別克“經認證的經營者”（AEO）互認安排正式實施； （6）穗深城際全線貫通 廣深兩大機場軌道直連； （7）雄商高鐵河北段今天進入執行試驗階段； （8）海南首個“華龍一號”核電機組併網發電； （9）百噸級純電雙向行駛無人駕駛礦用自卸車成功投運； （10）第三批中國專家組赴剛果（金）支援埃博拉疫情防控； （11）2026中國西藏第七屆跨喜馬拉雅國際公路腳踏車極限賽開幕； 9.美媒披露美以欲猛烈轟炸伊朗能源設施 伊朗稱已制定全面應對計劃； 10.西班牙飛地移民危機死亡人數升至67人 義大利暫停與西班牙的申根自由通行機制 法德稱加強邊境管控； 11.法國東南部林火再度蔓延 羅馬尼亞全國因乾旱缺電進入警報狀態 世界氣象組織稱厄爾尼諾持續增強； 12.國際聯播快訊： （1）美稱向烏轉讓導彈生產技術須非常謹慎； （2）哈馬斯稱移交武器前提是以軍撤離加沙； （3）人工智慧發展推升一季度全球商品貿易； （4）美軍一架F-35隱形戰機在加州墜毀； （5）遭強烈反對 國際足聯放棄新商業提案。
+
+---
+
+### 2026-08-01 20:00:57  #公司
+
+【上汽集團7月整車銷售33.9萬輛】據上汽集團訊息，上汽集團2026年7月整車銷售33.9萬輛，1—7月累計銷售238.4萬輛。
+
+---
+
+### 2026-08-01 20:00:38  #MKT News
+
+Saudi media Hadath, citing Lebanese sources, says Lebanon will not accept Israeli verification of implementation of the "first phase" and will pursue verification through other channels.
+
+---
+
+### 2026-08-01 19:56:47  #國際
+
+俄羅斯國防部：已控制扎波羅熱州洛比楚基鎮和哈爾科夫州奧爾戈夫卡鎮。
+
+---
+
+### 2026-08-01 19:56:27  #國際
+
+俄羅斯國防部：針對無人機生產和儲存地點，以及烏克蘭部隊和僱傭兵在152個地區的集結點進行了打擊。
+
+---
+
+### 2026-08-01 19:54:35  #其他
+
+【萊茵河水位重新整理歷史最低紀錄 德國航運和物流承壓】受持續高溫和乾旱天氣影響，德國萊茵河水位持續下降。科隆水文站當地時間8月1日測得水位最低降至67釐米至68釐米，重新整理2018年創下的歷史最低紀錄；杜伊斯堡-魯爾奧特水文站水位也降至153釐米的歷史低位。據瞭解，萊茵河持續低水位已影響內河航運，貨船無法滿載通行，需分批運輸貨物，運輸成本上升，物流效率下降，對德國經濟造成進一步壓力。
+
+---
+
+### 2026-08-01 19:54:04  #其他
+
+土耳其表示將伊拉克輸油管道協議延長一年。
+
+---
+
+### 2026-08-01 19:53:43  #國際
+
+【澤連斯基稱烏軍擊沉一艘俄集裝箱船】當地時間8月1日，烏克蘭總統澤連斯基在社交平臺發文稱，烏軍於夜間發起打擊行動，對黑海、亞速海水域海上目標及俄羅斯境內腹地設施實施多輪打擊。一艘懸掛俄羅斯國旗的集裝箱船“亞尼納”號被烏方擊中並沉沒，該船載重噸位超10萬噸。澤連斯基還稱，此外，烏克蘭國家安全域性部隊還襲擊了俄巴什科爾託斯坦共和國三座煉油廠基礎設施。此次打擊目標距離烏克蘭邊境約1600公里。
+
+---
+
+### 2026-08-01 19:51:39  #其他
+
+伊拉克預計將與土耳其就輸油管道協議延期簽署協議。
+
+---
+
+### 2026-08-01 19:51:36  #MKT News
+
+【Trump threatens senators over confirmation of his attorney general pick】President Trump said he will keep Todd Blanche as acting attorney general and immediately push the Anti-Weaponization Act if Senators Cornyn and Tillis refuse to approve Blanche’s confirmation, saying the bill would protect people he says were harmed by the Biden and Obama administrations.
+
+---
+
+### 2026-08-01 19:48:52  #其他
+
+英國首相伯納姆表示，國際足聯取消新商業計劃的決定是正確的。
+
+---
+
+### 2026-08-01 19:47:44  #其他
+
+【海南將增設7家島內居民日用消費品免稅店 2家今日開業】據海南日報訊息，記者8月1日從海南省商務廳獲悉，在今年2月開設首批5家島內居民日用消費品免稅店的基礎上，海南計劃第二批開設7家島內居民日用消費品免稅店，其中三亞旺豪日用消費品免稅店、文昌旺豪日用消費品免稅店8月1日開業。
+
+---
+
+### 2026-08-01 19:47:41  #其他
+
+【山西釋出山洪災害氣象風險橙色預警】山西省水利廳和山西省氣象局2026年8月1日下午聯合釋出山洪災害氣象風險預警：8月1日20時至8月2日20時，受強降雨影響，山西省忻州市中南部4個縣發生山洪的可能性大（橙色預警）；大同市東部、朔州市西部、忻州市北部、太原市北部、呂梁市中部5個市15個縣發生山洪的可能性較大（黃色預警）；大同市西部和東南部、朔州市北部、忻州市西部、太原市西部、呂梁市北部和西南部、長治市、晉城市南部、臨汾市西部8個市36個縣可能發生山洪（藍色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
+
+---
+
+### 2026-08-01 19:47:16  #國際
+
+【特朗普敦促參議員批准布蘭奇擔任美國司法部長】特朗普在TRUTH SOCIAL發帖稱：如果科寧參議員和蒂利斯參議員（他們都因為我沒有支援他們而感到不滿，前者敗選，後者辭職！）不肯批准託德·布蘭奇擔任美國司法部長，那麼我將繼續讓託德擔任代理司法部長，並全力推動《反武器化法案》的透過。我會立即將法案重新提上議程，並促成此事。
+
+---
+
+### 2026-08-01 19:46:02  #其他
+
+【葡萄牙將加強南部海上邊境管控】葡萄牙海軍1日發表宣告說，將聯合海事警察和國民警衛隊，加強對葡南部海上邊境的巡邏和管控。宣告說，相關部門已在葡萄牙南部沿海地區開展常態化海陸聯合巡邏，強化邊境管控，重點查緝涉嫌非法移民活動或其他違法犯罪活動的船隻。葡萄牙總理蒙特內格羅7月31日表示，針對近期休達出現的移民危機，葡萄牙不會暫停申根區通行規則，而是將加強南部海上和陸地邊境的管控。（新華社）
+
+---
+
+### 2026-08-01 19:45:00  #其他
+
+阿曼航空：技術問題及運營限制影響航班執行。
+
+---
+
+### 2026-08-01 19:41:06  #其他
+
+【蘇州上線“紅燈停表” 第一批騎手已經用上】7月31日，蘇州交警聯合多部門在全國率先上線外賣騎手“紅燈停表”配時延長的交管新措。記者實地採訪發現，多名騎手接單途中在路口等紅燈時，騎手手機顯示紅燈倒計時讀秒，同步提示“紅燈停一停，正在記錄等燈時長”，配送結束後彈窗顯示等紅燈累計時間。以制度減壓促安全，讓騎手們守法不吃虧。（新華社）
+
+---
+
+### 2026-08-01 19:40:13  #國際
+
+【西班牙首相批某些歐盟國家“自私”】西班牙首相桑切斯1日致信歐盟，對西班牙飛地休達出現“偷渡潮”後一些歐盟國家的反應表達不滿，批評這些國家“自私”。據法新社報道，桑切斯在致歐盟領導人的信中寫道：“在當前國際形勢下，歐盟不能存在這類自私、極化和不合法的反應。”他同時呼籲歐盟就這一事件召開成員國內政部長級會議。（新華社）
+
+---
+
+### 2026-08-01 19:35:23  #其他
+
+土耳其據悉已就伊拉克輸油管道協議延期達成協議。
+
+---
+
+### 2026-08-01 19:34:45  #國際
+
+特朗普敦促參議院批准布蘭奇擔任美國司法部長。
+
+---
+
+### 2026-08-01 19:32:24  #其他
+
+【金風科技參建Ummbila Emoyeni一期風電專案實現商業運營】據金風科技訊息，近日，由南非Seriti Green開發的Ummbila Emoyeni專案群一期風電專案正式投入商業運營。該專案裝機容量達155MW，年發電量4.8億度，預計可滿足約50萬戶家庭的用電需求，每年減少碳排放約40萬噸。配置25臺金風科技GWH182-6.2MW智慧風電機組，葉輪直徑達183.5米，是截至目前南非葉輪直徑最大的在運風電專案。
+
+---
+
+### 2026-08-01 19:32:17  #公司
+
+【青海格爾木20兆瓦飛輪儲能專案開工建設】由中國綠髮投資集團有限公司青海分公司負責建設的20兆瓦飛輪儲能專案，8月1日在青海省海西蒙古族藏族自治州格爾木市開工建設，這個專案採用多型別飛輪協同技術，可實現毫秒級響應，建成後將助推我國新型儲能多元化、高質量發展。
+
+---
+
+### 2026-08-01 19:30:11  #宏觀 #公司 #國際
+
+【高至2萬美元 美簽證保證金將漲價並長期化】美國《聯邦政府紀事》7月31日以線上方式釋出公告說，美國國務院將把面向部分國家公民的簽證保證金制度長期化，50個國家的公民面臨高達2萬美元保證金。公告說，這項規定適用於以商務或旅遊為目的申請美國B1、B2類簽證的人員。領事官員可根據具體情況，將繳納保證金作為發放簽證的條件。新規將於8月3日在《聯邦政府紀事》正式刊登時生效。適用該制度的50個國家中有30個在非洲。（新華社）
+
+---
+
+### 2026-08-01 19:29:39  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【U.S. embassy in Jordan warns Middle East tensions may escalate】On Aug. 1 the U.S. embassy in Jordan issued a security alert saying regional security remains complex and could further escalate. It advised U.S. citizens in the Middle East to remain vigilant and prepare for possible flight cancellations, temporary airspace closures and travel disruptions; those outside the region should reconsider travel or transit through the area. The embassy also urged U.S. citizens to avoid U.S. military bases in Jordan and areas with heavy security deployments.
+
+---
+
+### 2026-08-01 19:23:51  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+【US embassy in Israel issues security alert, urges US citizens in Middle East to consider evacuation】On Aug 1 local time the US embassy in Israel issued a security alert saying sustained tension in the Middle East has left a complex security environment with risk of unpredictable escalation. The embassy said US citizens in the region should remain cautious and be prepared for possible flight cancellations, airspace closures and travel disruptions; some carriers have delayed resuming previously suspended services and have canceled routes. It urged US citizens to consider evacuating or be ready to depart at short notice.
+
+---
+
+### 2026-08-01 19:23:40  #其他
+
+【山東釋出高溫橙色預警 最高氣溫超40℃】山東省氣象臺8月1日16時升級高溫黃色預警為高溫橙色預警：1日，山東省內陸大部地區已出現35℃以上的高溫天氣，濰坊青州譚坊和煙臺芝罘港務局最高氣溫40.8℃。預計2日至5日，德州、濱州、東營、濟南北部、淄博北部、濰坊中北部、青島北部和煙臺北部最高氣溫37～39℃，區域性地區可達40℃以上，其他地區34～36℃。此次高溫過程持續時間長，相對溼度50%～80%，溫度高、溼度大，體感悶熱，高溫氣象災害風險較高，對農業生產、人體健康、戶外作業和城鄉用電等有不利影響，請做好防範。
+
+---
+
+### 2026-08-01 19:23:00  #國際
+
+【美國駐約旦使館：中東局勢可能進一步升級】美國駐約旦大使館1日釋出安全警告說，中東地區安全形勢依舊複雜，地區局勢可能進一步升級。美駐約旦使館建議目前身處中東地區的美國公民保持高度警惕，併為可能的航班取消、空域階段性關閉及旅行中斷做好準備。身處中東以外地區的美國公民應重新考慮前往或途經該地區的行程。該使館還建議美國公民避免前往約旦境內美軍基地，以及“有大量警力部署的危險區域”。（新華社）
+
+---
+
+### 2026-08-01 19:22:34  #公司 #國際
+
+【美駐以大使館釋出安全警告 敦促在中東美國公民考慮撤離】當地時間8月1日，美國駐以色列大使館釋出安全警告說，鑑於當前中東地區局勢持續緊張，該地區安全環境依舊複雜，存在不可預測的升級風險。警告說，目前在中東地區的美國公民應當保持謹慎，提高警惕。同時，美國公民應為可能出現的航班取消、領空關閉以及潛在的旅行受阻做好準備。目前該地區部分航空公司已推遲恢復先前的航班計劃，另有部分航線已被取消。美國大使館強調，在中東地區的美國公民應當考慮撤離，或做好局勢升級後隨時撤離的準備。
+
+---
+
+### 2026-08-01 19:21:00  #國際
+
+歐盟委員會主席馮德萊恩：大多數非法抵達休達的人已經返回摩洛哥。目前還沒有人抵達西班牙大陸或歐盟其他國家。
+
+---
+
+### 2026-08-01 19:20:04  #公司
+
+【國際足聯放棄新商業提案 歐足聯表示歡迎】當地時間8月1日，歐足聯釋出宣告，歡迎國際足聯放棄擬成立商業子公司並出售世界盃等旗下賽事部分股權的提案。宣告感謝所有反對該方案的球迷、聯賽、俱樂部、球員等。歐足聯表示，此項計劃由一些匿名人士炮製，速度極快，必須找出其負責人追究責任。歐足聯將與各成員協會以及其他洲際足聯密切合作，反思此次事件的起因，並制定計劃，確保類似事件不再發生。宣告還對國際足聯主席因凡蒂諾提出批評，稱其未能兌現承諾。
+
+---
+
+### 2026-08-01 19:17:55  #MKT News
+
+Israel Defense Forces said on Saturday night an officer was moderately wounded during an operation in southern Lebanon; the officer was evacuated to hospital and family notified.
+
+---
+
+### 2026-08-01 19:15:06  #其他
+
+馮德萊恩：歡迎各國領導人提議召開休達相關會議。
+
+---
+
+### 2026-08-01 19:14:43  #國際
+
+歐盟委員會主席馮德萊恩：已就休達事宜與布倫納專員、舒伊察專員進行了磋商。
+
+---
+
+### 2026-08-01 19:12:44  #國際
+
+以色列空襲在加沙造成兩人死亡，並摧毀多處藥品儲存倉庫。
+
+---
+
+### 2026-08-01 19:12:34  #國際
+
+美國駐約旦大使館和駐以色列大使館敦促在中東的美國公民考慮離開中東，或做好在局勢進一步升級時撤離的準備，並警告稱航班取消、空域關閉和旅行中斷的情況可能發生。
+
+---
+
+### 2026-08-01 19:09:24  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Saudi outlet Hadaas reports the U.S. embassy in Israel warned U.S. citizens that escalation could occur in the Middle East.
+
+---
+
+### 2026-08-01 19:07:27  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Zelenskiy said Ukrainian forces attacked YANINA, a sanctioned Russian container ship with deadweight over 100,000 tonnes.
+
+---
+
+### 2026-08-01 19:05:35  #國際
+
+【義大利臨時恢復對西班牙入境旅客邊境檢查】當地時間8月1日，義大利開始在機場和港口對從西班牙入境的旅客實施臨時邊境檢查，措施計劃持續一個月。當天，羅馬菲烏米奇諾機場對來自馬德里和巴塞羅那的首批航班旅客展開抽查，米蘭馬爾彭薩機場和利納特機場也已啟動相關檢查。此次檢查採取選擇性抽查方式，主要針對經西班牙進入義大利的非歐盟國家公民。義大利方面表示，西班牙及其他歐盟成員國公民前往義大利的旅行規定沒有變化，從義大利前往西班牙也不受影響。近日西班牙北非飛地休達發生大規模非法移民入境事件，引發歐洲多國關注。義大利政府隨後決定臨時恢復與西班牙之間航空和海運客運通道的邊境檢查。義大利內政部表示，這一決定是在有關部門評估最新移民和邊境安全形勢後作出的，相關措施旨在維護國家安全。
+
+---
+
+### 2026-08-01 19:02:59  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Zelenskiy said Ukraine's SBU struck infrastructure at three Russian oil refineries in Bashkortostan.
+
+---
+
+### 2026-08-01 19:02:53  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran military says it recently deployed new drones】Iranian media reported on Aug. 1 that Iran army spokesman Akraminia said Tehran has recently deployed a new type of drone and will publish details in coming days. He said the drones’ range is sufficient to reach US bases across the Middle East. Akraminia added that, given past US behavior on agreements, Iran expects memoranda of understanding could be torn up and that conflict could resume, and that Iran never trusted US commitments in such memoranda.
+
+---
+
+### 2026-08-01 19:02:12  #國際
+
+美國駐巴格達大使館和駐埃爾比勒總領事館週六敦促在伊拉克的美國公民保持高度警惕，並考慮離開中東，或做好在局勢進一步升級時撤離的準備。安全警報警告稱，航班可能取消，空域可能關閉，伊朗及其盟友可能襲擊美國利益。警報還指出，美國駐伊拉克使團仍然開放，但已接到撤離命令。
 
 ---
 
@@ -21098,191 +21368,5 @@ Trump will chair a cabinet meeting at Camp David on Friday at 11:00 a.m. ET (11:
 ### 2026-07-31 08:45:39  #MKT News #Star Stocks #Microsoft #Market Themes #AI Revolution #Magnificent 7 #005930.KS #Impact bullish #000660.KS #MU.O
 
 【Analyst: Deleveraging Nears End as Korean Stocks Surge】KOSPI jumped about 13% early Friday, triggering a buy-side curb that suspended programmatic buy orders, and later extended gains to roughly 15%. Samsung Electronics rose ~21% and SK Hynix ~26%. Future Asset researcher Kim Juyeon said the immediate catalyst was Microsoft’s after-hours earnings, where stronger-than-expected core results validated larger capex and eased concerns about the sustainability of AI-infrastructure investment, sparking a chip-led rally. Market participants also interpret that hedge-fund liquidations that had amplified recent downside are largely winding down and deleveraging is near completion, restoring risk appetite. Kiwoom Securities researcher Han Jiyoung said forced selling by leveraged funds drove the prior slide in semiconductor names; with major funds unwinding, stocks such as Micron and SanDisk rebounded sharply.
-
----
-
-### 2026-07-31 08:44:29  #其他
-
-【銀河證券：“六張網”作為支撐科技戰略落地的關鍵基礎設施 有望加速推進】銀河證券研報認為，“六張網”作為支撐科技戰略落地的關鍵基礎設施，有望加速推進。“六張網”具體指水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網，其中算力網、新一代通訊網、新型電網與科技行業緊密相關。算力網作為人工智慧時代的關鍵基礎設施環節，將全國算力設施連成一張網，實現跨區域、跨行業高效排程，直接支撐大模型訓練與推理；新一代通訊網涵蓋5G-A、6G、衛星網際網路等，實現空天地海一體化全域覆蓋，為具身智慧、智慧網聯汽車等提供確定性連線；新型電網則透過智慧排程支撐算力中心與新能源的“算電協同”，解決AI爆發帶來的電力負荷波動問題。這三張網共同構成智慧經濟的數字底座，打通資料、算力、能源等關鍵生產要素的流通壁壘，為科技行業提供無處不在、高效可靠的底層支撐。當前算力網已進入落地實施階段，科技行業將迎來技術攻關、場景融合、生態協同三大實質性機遇，相關龍頭企業即將迎來較大市場增量空間。
-
----
-
-### 2026-07-31 08:42:29  #其他
-
-【四川多地出現持續降雨 武都水庫啟動洩洪排程】受持續強降雨影響，四川部分地區暴雨洪水和山洪災害等風險加大。昨天（30日）下午5時，四川省水利廳將洪水防禦應急響應由四級提升為三級，四川省氣象臺升級釋出暴雨黃色預警，自然資源廳同步釋出地質災害黃色預警。氣象部門預計，本輪降雨將持續到8月3日前後，廣元、綿陽、德陽、成都、眉山等地有暴雨，局地有大暴雨。目前，各地已緊急落實防汛值守和避險準備。連日來，四川綿陽、廣元等地出現持續降雨。面對暴雨可能帶來的防洪壓力，昨天（30日）下午，位於綿陽涪江上游的武都水庫啟動洩洪排程。
-
----
-
-### 2026-07-31 08:42:05  #央行 #美聯儲
-
-【美國6月PCE時隔四年再次回落 美聯儲下一步會怎麼走】在美聯儲最新利率決議公佈後的第二天，貨幣政策制定者重點追蹤的通脹指標在6月有所回落，但仍遠高於央行2%的目標水平。考慮到經濟內在驅動因素整體穩健，新任主席凱文·沃什領導下的美聯儲接下來將作出何種政策應對引發了市場更多猜測，央行政策路徑變得撲朔迷離。
-
----
-
-### 2026-07-31 08:40:58  #市場 #國際
-
-5年期日本國債收益率上升1.5個基點，至2.030%。
-
----
-
-### 2026-07-31 08:40:53  #市場 #焦點
-
-紐約期金失守4150美元/盎司，日內跌0.25%。
-
----
-
-### 2026-07-31 08:39:50  #MKT News #USDJPY #Impact bullish
-
-USD/JPY rose to 160.5, up 0.64% intraday.
-
----
-
-### 2026-07-31 08:39:43  #市場
-
-美元/日元漲幅擴大，最新上漲0.6%，報160.450。
-
----
-
-### 2026-07-31 08:38:22  #公司 #市場 #國際
-
-【韓國股市反彈 科技公司支出計劃再度激發AI樂觀情緒】韓國股市週五大漲，從本週早些時候的暴跌行情中反彈。大型科技公司的支出計劃重新提振了市場對人工智慧交易的樂觀情緒。韓國Kospi指數一度大漲15%，創歷史最大盤中漲幅。SK海力士股價一度飆升28%，SK集團會長崔泰源罕見直接購股；三星電子一度上漲26%。韓國Kospi指數過去三個交易日累計下跌17%，受全球大型科技公司債務水平不斷攀升以及競爭的威脅擔憂影響。隨著5月份槓桿產品的推出，今年人工智慧驅動的大幅上漲行情波動性日益加劇。“近期受去槓桿、削減倉位、強制平倉以及其他流動性因素影響，人工智慧科技股加速拋售，這種行情可能正在趨於穩定，”NH Investment & Securities韓國現券股票主管Shawn Oh表示。
-
----
-
-### 2026-07-31 08:37:54
-
-SK海力士漲幅達26％，三星電子漲21％。
-
----
-
-### 2026-07-31 08:37:27  #國際
-
-【特朗普下令限制美國出口含關鍵礦產工業廢料】美國總統特朗普週四簽署一項措施，授權政府依據《國防生產法》對部分工業廢料實施出口限制，以保留其中所含的關鍵礦產和稀有元素。此舉是特朗普政府確保關鍵礦產供應的最新行動。白宮表示，美國的磁體、鋰離子電池等成品中蘊含大量可回收的關鍵礦產和材料，這些資源可以從相關產品中“回收並再利用”。
-
----
-
-### 2026-07-31 08:36:41  #資料 #市場 #央行 #國際
-
-【東京通脹加快 日本央行未來數月加息路徑獲支撐】東京的通脹增速連續第二個月加快，使得日本央行有望在未來數月再次加息，不過市場普遍預計其委員會將在週五維持利率不變。日本總務省週五公佈的資料顯示，7月份剔除生鮮食品的消費者價格同比上漲1.9%，對比彭博調查經濟學家的預期為1.8%。一項剔除生鮮食品和能源的指標上漲了2%，日本央行將此作為衡量核心通脹的指標而密切關注，整體消費價格也上漲了2%。東京CPI被視為全國價格走勢的領先指標。綜合來看，這些在央行決定政策前幾小時釋出的資料，將為當局繼續推進加息提供依據，而主要問題在於加息的步伐將如何把握。日本央行委員會上月將基準利率上調至約1% —— 這是自1995年以來的最高水平 —— 預計今日稍晚將維持該利率不變。
-
----
-
-### 2026-07-31 08:35:46  #其他
-
-【應急管理部針對陝西甘肅啟動國家地質災害四級應急響應】據氣象部門預測，7月30日至8月1日，西北地區東部、四川盆地等地有大到暴雨，部分地區有大暴雨。經與自然資源部聯合會商研判，陝西西南部、甘肅南部發生地質災害的風險高。根據《國家突發地質災害應急預案》及有關規定，應急管理部於7月30日針對陝西、甘肅啟動國家地質災害四級應急響應。應急管理部要求，相關強降雨地區要切實做好地質災害防範應對工作，壓實地方防範應對主體責任，加強部門協同聯動工作機制，密切監視雨情汛情和地質災害災情險情，加強會商研判和預警響應聯動，預置前置救援力量、物資、裝備，強化巡查排查和監測預警，堅決果斷組織轉移避險，確保應轉盡轉、應轉早轉，最大限度避免人員傷亡。
-
----
-
-### 2026-07-31 08:35:10  #市場 #國際
-
-韓國綜合股價指數上漲15%，至6436.79。
-
----
-
-### 2026-07-31 08:35:04  #MKT News #Important #005930.KS #Impact bullish #000660.KS
-
-【South Korea's KOSPI surges 15% intraday】South Korea's KOSPI surged 15% intraday; SK Hynix rose 26% and Samsung Electronics climbed 21%.
-
----
-
-### 2026-07-31 08:35:03  #國際
-
-據報道，韓國週四實施了拋售美元的干預措施。
-
----
-
-### 2026-07-31 08:33:49  #公司
-
-【滙豐控股將向黑石集團出售價值250億美元的澳大利亞貸款組合】滙豐控股已同意將其價值250億美元的澳大利亞住房和個人貸款組合出售給私募股權投資公司黑石集團(Blackstone)，這家總部位於英國的銀行將繼續重塑其業務，並專注於核心市場。滙豐週五表示，Virgo BidCo將收購該貸款組合。Virgo BidCo是一家由黑石集團附屬公司管理的基金全資擁有的實體。滙豐表示，將在未來18個月內逐步結束其在澳大利亞的剩餘零售業務。該行在澳大利亞的企業和機構銀行業務、資產管理和私人銀行業務將被整合到其悉尼分行。這家英國銀行預計將產生3億美元的相關重組成本和減記。
-
----
-
-### 2026-07-31 08:33:01  #其他
-
-【工信部：加快制修訂新型固廢綜合利用標準 實施行業規範管理】工業和資訊化部印發《工業綠色低碳發展“十五五”規劃》，其中指出，加快構建新型固廢綜合利用體系。聚焦新能源汽車廢動力電池、電動腳踏車廢鋰離子電池、廢光伏元件、廢風機葉片等新型固廢,推動精細化拆解、低成本利用、有價元素高效提取。加快制修訂新型固廢綜合利用標準，實施行業規範管理，培育骨幹企業。建立實施新能源汽車動力電池數字身份證管理制度，加強全鏈條監督管理。
-
----
-
-### 2026-07-31 08:32:34  #其他
-
-日經225指數在交易時段突破65000點，為7月27日以來首次。
-
----
-
-### 2026-07-31 08:30:47  #市場
-
-軟銀股價一度上漲15%，觸及日內漲停板。
-
----
-
-### 2026-07-31 08:30:47  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Japan's Nikkei 225 jumped 5.00% intraday to 64,989.78 points.
-
----
-
-### 2026-07-31 08:30:31  #市場 #焦點 #國際
-
-日經225指數漲幅擴大至5%，現報64989.78點。
-
----
-
-### 2026-07-31 08:30:24  #MKT News
-
-Romanian Defence Ministry said an aerial object disappeared from radar monitoring systems without entering Romanian airspace. After radar contact was lost, explosions were reported inside Ukraine. Air-raid alerts have now ended.
-
----
-
-### 2026-07-31 08:30:20  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225
-
-【Tokyo inflation accelerates for second month, bolstering BOJ rate-hike prospects】Tokyo core CPI rose 1.9% YoY in July versus market est. 1.8%, Ministry of Internal Affairs and Communications data showed; core-core CPI (ex fresh food and energy) rose 2.0% and overall CPI rose 2.0%. The acceleration — driven by a narrowing decline in electricity and gas costs and steady rises in processed food prices, despite a larger gasoline price drop after government measures — strengthens the case for the Bank of Japan to consider another rate hike in coming months, even as markets largely expect a hold today (31st). Takeshi Minami, chief economist at the Norinchukin Research Institute, said ongoing Middle East tensions could keep energy-related prices higher and push up food and other costs, meaning inflation may remain above 2% from this autumn.
-
----
-
-### 2026-07-31 08:29:41  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Holds Gains as Dollar Weakens — Silver traded around $59 an ounce on Friday after rising for two straight sessions, supported by a sharp decline in the US dollar as Japan is suspected to have intervened in the currency market once again to strengthen the yen. The precious metal also drew support this week after the Federal Reserve left interest rates unchanged despite mounting inflationary pressures stemming from renewed hostilities in the Middle East. However, expectations for tighter monetary policy continued to limit further gains, with markets currently pricing in about a 63% chance of a Fed rate hike in September. Meanwhile, the US military launched fresh strikes on Iranian targets in retaliation for Tehran’s attacks on US assets across the Middle East, reducing the likelihood of any near-term diplomatic agreement. Silver is also on track to end the month with a small gain after tumbling more than 20% in June.
-
----
-
-### 2026-07-31 08:29:22  #其他
-
-羅馬尼亞國防部在X平臺上表示：空襲警報已解除。
-
----
-
-### 2026-07-31 08:29:15  #其他
-
-羅馬尼亞國防部在X平臺發文：空中目標未進入羅馬尼亞領空，便已從雷達監測系統上消失。
-
----
-
-### 2026-07-31 08:28:23  #其他
-
-【工信部：積極發展電池、甲醇、氨、氫等動力船舶，加快內河船舶新能源應用】近日，工業和資訊化部印發《工業綠色低碳發展“十五五”規劃》。其中提出，大力發展綠色裝備。加快提升節能裝備、節水裝備、環保裝備、資源綜合利用裝備供給能力。積極發展電池、甲醇、氨、氫等動力船舶，加快內河船舶新能源應用。有序發展電動、氫能等新能源航空器，推動在國產民用飛機應用可持續航空燃料。
-
----
-
-### 2026-07-31 08:27:46  #其他
-
-【工信部：有序推動傳統能源汽車節能與低碳燃料技術迭代 加快智慧網聯新能源汽車向全氣候、全場景應用發展】工業和資訊化部印發《工業綠色低碳發展“十五五”規劃》，其中指出，聚焦長壽命、無害化、輕量化、降噪、節能、節水、節材、節空間、易回收再生、可重複使用、零碳等綠色設計重點方向，分行業制定綠色設計要求，開發綠色設計解決方案，推廣綠色產品。有序推動傳統能源汽車節能與低碳燃料技術迭代，加快智慧網聯新能源汽車向全氣候、全場景應用發展。制定汽車有害物質限制使用國家標準，完善有害物質管控機制，開展汽車製冷劑綠色替代。加強電器電子產品有害物質限制使用管理，穩步擴大管控品類，推動企業落實強制性國家標準。深入實施能效標識管理制度，鼓勵企業生產綠色智慧家電等產品，支援優質品牌納入中國消費名品。鼓勵企業生產健康、安全、綠色、優質建材產品。
-
----
-
-### 2026-07-31 08:27:21  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Holds Gains as Dollar Weakens — Gold traded around $4,100 an ounce on Friday after advancing for a second consecutive session, supported by a sharp decline in the US dollar as Japan is suspected to have intervened in the currency market once again to strengthen the yen. The precious metal also drew support this week after the Federal Reserve left interest rates unchanged despite mounting inflationary pressures stemming from renewed hostilities in the Middle East. However, expectations for tighter monetary policy continued to limit further gains, with markets currently pricing in about a 63% chance of a Fed rate hike in September. Meanwhile, the US military launched fresh strikes on Iranian targets in retaliation for Tehran’s attacks on US assets across the Middle East, reducing the likelihood of any near-term diplomatic agreement. Gold is also on track to rise more than 2% this month, marking its first monthly gain in five months.
-
----
-
-### 2026-07-31 08:25:58  #市場
-
-愛德萬測試股價一度上漲18%，觸及日內漲停板。
-
----
-
-### 2026-07-31 08:25:38  #MKT News #Macro & Rates #CSI300 #Impact bullish #CNH #Impact bearish
-
-【Market expects RRR and policy-rate cuts this year】Zhaolian chief economist Dong Ximiao expects RRR and interest-rate cuts in Q3. If H2 economic recovery momentum weakens, the policy rate could be trimmed 10-20 bps; but with commercial banks’ net interest margins near 1.40%—a historic low—LPR has limited downside, likely 5-10 bps. On RRR, to accommodate concentrated fiscal bond issuance and keep banking-system liquidity reasonably ample, there is 25-50 bps of cut space this year; implementation could be timed to bond-supply peaks or liquidity-tight episodes. The PBOC will rely more on structural monetary tools, step up timely liquidity management, and expand targeted support for tech innovation, consumption and small- and micro-enterprises.
 
 ---
