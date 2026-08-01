@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-01 19:10:07",
-  "count": 18035,
+  "updated": "2026-08-01 19:14:17",
+  "count": 18034,
   "items": [
+    {
+      "id": "5020404",
+      "time": "2026-08-01 19:12:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列空襲在加沙造成兩人死亡，並摧毀多處藥品儲存倉庫。"
+    },
+    {
+      "id": "5020403",
+      "time": "2026-08-01 19:12:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐約旦大使館和駐以色列大使館敦促在中東的美國公民考慮離開中東，或做好在局勢進一步升級時撤離的準備，並警告稱航班取消、空域關閉和旅行中斷的情況可能發生。"
+    },
+    {
+      "id": "mkt:019fbd03-b525-7aab-8f41-fb236a9165fe",
+      "time": "2026-08-01 19:09:24",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi outlet Hadaas reports the U.S. embassy in Israel warned U.S. citizens that escalation could occur in the Middle East."
+    },
     {
       "id": "mkt:019fbd01-ecc2-7aab-8f41-f35b83cf3471",
       "time": "2026-08-01 19:07:27",
@@ -166921,38 +166949,6 @@
         "Greater China"
       ],
       "text": "【Hong Kong chief executive orders preparations as Typhoon Hongxia approaches】Hong Kong Chief Executive John Lee said he has directed government departments to mount full contingency preparations as Typhoon Hongxia approaches. The Hong Kong government will keep departments on duty and deploy measures to protect life, property and public safety; the public was urged to remain alert and follow official weather updates. Officials warned that even after the No. 8 gale or storm signal is lowered, Hongxia may still bring strong winds and heavy rain. The district consultation session on the first five-year plan and the 2026 Policy Address scheduled for tomorrow (26th) has been postponed."
-    },
-    {
-      "id": "mkt:019f98fa-c077-7aab-8e94-e9e1478b07df",
-      "time": "2026-07-25 19:13:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "France's anti-terrorism prosecutor said six people have been remanded in custody pending trial in the attempted attack on a synagogue in the Paris region in early July."
-    },
-    {
-      "id": "5007957",
-      "time": "2026-07-25 19:13:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國反恐檢察官稱，六名嫌疑人因涉嫌7月初在巴黎地區一座猶太教堂發動未遂襲擊而被還押候審。"
-    },
-    {
-      "id": "5007956",
-      "time": "2026-07-25 19:12:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【李家超：為應對臺風“紅霞”做好準備】香港特區行政長官李家超在社交平臺發文表示，由於颱風“紅霞”逐漸逼近香港，他已指示各相關部門作出全面和充分的準備及應變部署，以應對“紅霞”可能為香港帶來的威脅。 李家超指出，香港特區政府各部門會堅守崗位，全方位部署，致力保障市民的生命財產和公共安全。並呼籲市民保持警覺，繼續留意政府發放的最新天氣訊息。 此外，八號烈風或暴風訊號除下後，“紅霞”仍可能為香港帶來狂風暴雨。故此，為確保參加者安全，原定明日（26日）舉行的香港第一個五年規劃及2026年《施政報告》地區諮詢會將會延期進行。（大灣區之聲）"
-    },
-    {
-      "id": "5007955",
-      "time": "2026-07-25 19:11:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "敘利亞衛生部：客車相撞事故已造成35人死亡，30人受傷。"
     }
   ]
 }

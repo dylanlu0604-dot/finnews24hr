@@ -1,7 +1,35 @@
 {
   "date": "2026-08-01",
-  "count": 920,
+  "count": 923,
   "items": [
+    {
+      "id": "5020404",
+      "time": "2026-08-01 19:12:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列空襲在加沙造成兩人死亡，並摧毀多處藥品儲存倉庫。"
+    },
+    {
+      "id": "5020403",
+      "time": "2026-08-01 19:12:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐約旦大使館和駐以色列大使館敦促在中東的美國公民考慮離開中東，或做好在局勢進一步升級時撤離的準備，並警告稱航班取消、空域關閉和旅行中斷的情況可能發生。"
+    },
+    {
+      "id": "mkt:019fbd03-b525-7aab-8f41-fb236a9165fe",
+      "time": "2026-08-01 19:09:24",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi outlet Hadaas reports the U.S. embassy in Israel warned U.S. citizens that escalation could occur in the Middle East."
+    },
     {
       "id": "mkt:019fbd01-ecc2-7aab-8f41-f35b83cf3471",
       "time": "2026-08-01 19:07:27",
