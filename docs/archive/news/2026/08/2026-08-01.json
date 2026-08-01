@@ -1,7 +1,29 @@
 {
   "date": "2026-08-01",
-  "count": 999,
+  "count": 1001,
   "items": [
+    {
+      "id": "mkt:019fbdba-d046-7aab-8f42-a8f9d8a51bba",
+      "time": "2026-08-01 22:29:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "IAEA said the cause of a recent nearly two-hour loss of offsite power at the Zaporizhzhia nuclear plant remains unclear."
+    },
+    {
+      "id": "mkt:019fbdb9-b417-7aab-8f42-a567fc663d69",
+      "time": "2026-08-01 22:28:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "IAEA: ZAPORIZHZHIA NUCLEAR PLANT lost off‑site power for the 23rd time today amid military fighting."
+    },
     {
       "id": "5020487",
       "time": "2026-08-01 22:25:43",

@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-01 22:26:49",
+  "updated": "2026-08-01 22:30:45",
   "count": 18029,
   "items": [
+    {
+      "id": "mkt:019fbdba-d046-7aab-8f42-a8f9d8a51bba",
+      "time": "2026-08-01 22:29:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "IAEA said the cause of a recent nearly two-hour loss of offsite power at the Zaporizhzhia nuclear plant remains unclear."
+    },
+    {
+      "id": "mkt:019fbdb9-b417-7aab-8f42-a567fc663d69",
+      "time": "2026-08-01 22:28:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "IAEA: ZAPORIZHZHIA NUCLEAR PLANT lost off‑site power for the 23rd time today amid military fighting."
+    },
     {
       "id": "5020487",
       "time": "2026-08-01 22:25:43",
@@ -166921,22 +166943,6 @@
         "其他"
       ],
       "text": "【福建啟動防汛四級應急響應 維持防颱風三級應急響應】記者從福建省防汛抗旱指揮部瞭解到，受颱風“紅霞”影響，預計今天夜間至26日白天，漳州和廈門兩市大部、龍巖（永定、上杭、武平、新羅）、泉州（安溪、南安）有暴雨或大暴雨，其餘地區區域性暴雨，24小時累計雨量50—100毫米，區域性200毫米；最大小時雨量80毫米。福建省防指於25日20時啟動防汛四級應急響應並維持防颱風三級應急響應。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f99ae-34a5-7aab-8e95-8bd5870e50de",
-      "time": "2026-07-25 22:29:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Qatar transport ministry to fully resume maritime navigation from July 26】Qatar's Ministry of Transport said it will fully resume all maritime vessel movements from Sunday, July 26, 2026. The ministry urged operators to comply with existing maritime regulations and directives and to ensure vessels carry required safety and security equipment before and during voyages."
-    },
-    {
-      "id": "5008055",
-      "time": "2026-07-25 22:28:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍在約旦河西岸展開大規模搜捕 扣押70多名巴勒斯坦人】當地時間25日，以色列國防軍發表宣告，以色列軍隊、國家安全域性（辛貝特）和邊防警察過去24小時在約旦河西岸展開大規模聯合搜捕行動。宣告稱，以軍在軍事行動中搜查了300多個地點，共扣押了70多名巴勒斯坦人，另有約130人遭到現場盤查。以方稱，被扣押人員已被移交審查，其中包括以方認定的巴勒斯坦伊斯蘭抵抗運動（哈馬斯）成員，以及涉嫌參與槍擊、策動襲擊和販運武器的武裝人員。（央視新聞）"
     }
   ]
 }
