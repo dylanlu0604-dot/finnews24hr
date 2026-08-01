@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-02 00:21:50",
-  "count": 18032,
+  "updated": "2026-08-02 00:25:44",
+  "count": 18031,
   "items": [
+    {
+      "id": "mkt:019fbe21-67df-7aab-8f42-c9c50a6a912c",
+      "time": "2026-08-02 00:21:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel said it killed a Hezbollah member in southern Lebanon and that one Israeli combat officer was wounded, Al Jazeera reported."
+    },
     {
       "id": "5020525",
       "time": "2026-08-02 00:21:09",
@@ -166939,22 +166947,6 @@
         "其他"
       ],
       "text": "【臺灣民眾集會“反毒油”】7月25日，臺北氣溫達30多度，數萬民眾走上臺當局領導人辦公場所前的凱達格蘭大道，高喊“反毒臺”口號，表達對民進黨當局食安失守、漠視民生的強烈不滿。（新華社）"
-    },
-    {
-      "id": "mkt:019f9a16-eca9-7aab-8e95-de85a5ca746a",
-      "time": "2026-07-26 00:23:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi foreign minister received a call from Pakistan’s foreign minister to discuss efforts to ease regional tensions."
-    },
-    {
-      "id": "mkt:019f9a15-d043-7aab-8e95-d6d449985aea",
-      "time": "2026-07-26 00:22:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces says it is taking action in response to reported gunfire from the Susya area in the southern West Bank."
     }
   ]
 }

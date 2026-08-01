@@ -1,7 +1,15 @@
 {
   "date": "2026-08-02",
-  "count": 8,
+  "count": 9,
   "items": [
+    {
+      "id": "mkt:019fbe21-67df-7aab-8f42-c9c50a6a912c",
+      "time": "2026-08-02 00:21:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel said it killed a Hezbollah member in southern Lebanon and that one Israeli combat officer was wounded, Al Jazeera reported."
+    },
     {
       "id": "5020525",
       "time": "2026-08-02 00:21:09",
