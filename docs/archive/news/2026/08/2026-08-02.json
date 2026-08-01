@@ -1,7 +1,15 @@
 {
   "date": "2026-08-02",
-  "count": 36,
+  "count": 37,
   "items": [
+    {
+      "id": "mkt:019fbe6f-a129-7aab-8f43-301a878fad65",
+      "time": "2026-08-02 01:46:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Former U.S. vice president Harris said Trump is an isolationist who repeatedly invokes \"America First.\" By failing to understand America's role — imperfect though it is — he has made the U.S. a less reliable partner and driven U.S. authority in global affairs to an unprecedented low."
+    },
     {
       "id": "mkt:019fbe6d-49ed-7aab-8f43-2989b75b0943",
       "time": "2026-08-02 01:44:21",
