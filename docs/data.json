@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-02 02:13:08",
-  "count": 18027,
+  "updated": "2026-08-02 02:17:02",
+  "count": 18029,
   "items": [
+    {
+      "id": "5020547",
+      "time": "2026-08-02 02:15:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：第51個州（委內瑞拉）。"
+    },
+    {
+      "id": "mkt:019fbe89-5188-7aab-8f43-425efdacc52e",
+      "time": "2026-08-02 02:14:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【EU to hold emergency meeting on Ceuta migrant crisis】On Aug 1 the EU said it will hold an emergency videoconference of interior ministers on Aug 4 to discuss the migrant crisis in the Spanish enclave of Ceuta and coordinate EU response measures. The meeting was proposed by Spain. Spanish Prime Minister Sanchez has written to Ireland, which holds the rotating EU presidency, Commission President Von der Leyen and European Council President Costa urging a coordinated EU response."
+    },
+    {
+      "id": "5020546",
+      "time": "2026-08-02 02:14:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯莫斯科市中心一餐飲店發生爆炸 造成人員傷亡】當地時間8月1日，俄羅斯莫斯科市中心一間餐飲店發生爆炸，多輛消防車和救護車駛往事故發生地。初步訊息顯示爆炸由燃氣洩漏引起。莫斯科警方稱，事故已造成3人死亡、15人受傷。"
+    },
+    {
+      "id": "5020545",
+      "time": "2026-08-02 02:13:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟宣佈將召開緊急會議討論休達移民危機】當地時間8月1日，歐盟宣佈將於4日以視訊會議形式召開歐盟成員國內政部長緊急會議，討論西班牙飛地休達移民危機及歐盟應對措施。此次會議由西班牙提議召開。西班牙首相桑切斯此前已致信歐盟理事會輪值主席國愛爾蘭、歐盟委員會主席馮德萊恩和歐洲理事會主席科斯塔，呼籲歐盟協調應對當前移民危機。"
+    },
     {
       "id": "5020544",
       "time": "2026-08-02 02:10:36",
@@ -166902,26 +166936,6 @@
         "其他"
       ],
       "text": "英國海上貿易行動辦公室釋出宣告稱，一艘油輪在距離沙特舒蓋格港約70海里處遭炮彈襲擊。"
-    },
-    {
-      "id": "mkt:019f9a7d-a84a-7aab-8e96-4debca2efbd0",
-      "time": "2026-07-26 02:15:54",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Zelenskiy said Russian satellite monitoring shows Moscow is assisting Tehran with strike operations in the Middle East."
-    },
-    {
-      "id": "5008107",
-      "time": "2026-07-26 02:14:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊： 烏克蘭總統澤連斯基稱：俄方衛星偵察情報顯示，俄羅斯正在為伊朗提供指引，協助其在中東發動打擊行動。"
     }
   ]
 }
