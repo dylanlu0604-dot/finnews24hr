@@ -1,7 +1,19 @@
 {
   "date": "2026-08-02",
-  "count": 104,
+  "count": 105,
   "items": [
+    {
+      "id": "mkt:019fbf5a-c29a-7aab-8f43-f8243209f827",
+      "time": "2026-08-02 06:03:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Hungary shuts its only nuclear plant for first time due to drought】Hungary will shut its only nuclear plant, Paks, after Danube water levels fell below the minimum needed to cool its four reactors. One of the two operating units will stop at 01:30 local time on Sunday and the remaining unit later that day. The 44-year-old Paks plant, south of Budapest, will remove more than 40% of the country’s generation capacity and may force Hungary to rely more on costly power imports. Prime Minister magyar said sustained low river levels could keep roughly 2,000 MW of Paks capacity offline for weeks, adding pressure to the power system as Central Europe faces a new heatwave."
+    },
     {
       "id": "5020585",
       "time": "2026-08-02 05:58:07",
