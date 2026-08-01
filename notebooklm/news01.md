@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-02 06:08:00_
-_本檔包含 3555 則快訊，約 673935 字_
+_更新時間：2026-08-02 07:06:21_
+_本檔包含 3553 則快訊，約 673281 字_
+
+---
+
+### 2026-08-02 07:04:30  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、“堅持高質量發展要成為領導幹部政績觀的重要內容”
+2、謀幸福——深刻認識“最本質的特徵”和“最大優勢”
+3、上海穩步建設全球科創高地
+4、湖北宣恩縣持續做好治水興城文章 貢水河畔話三變
+5、圖片報道
+6、不斷創造高質量發展新業績
+
+---
+
+### 2026-08-02 06:54:35  #宏觀 #國際
+
+【美計劃本週末發動“猛烈轟炸” 伊朗：全面反擊方案已就緒】美國國務院8月1日向中東地區美國公民發出廣泛安全警告，建議其考慮撤離或做好迅速撤離準備。據美方訊息，美以正計劃對伊朗能源設施發動“迄今最猛烈的轟炸”，行動或持續整個週末。不過，美總統特朗普尚未下達最終行動命令。伊朗外交部則在同日發表宣告，強調決心繼續抵抗。美伊停火備忘錄已名存實亡。最終“扳機”尚未扣下，但局勢升級的陰影再次籠罩中東地區。（央視新聞）
+
+---
+
+### 2026-08-02 06:54:02  #市場 #焦點
+
+暗盤白銀日內漲超1%，現報52.7429美元/盎司。
+
+---
+
+### 2026-08-02 06:52:25  #國際
+
+【解放軍報鈞聲：中方加強黃巖島管控合法合理】近期，菲律賓在中國領土黃巖島劃設所謂“領海基線”，妄圖為2016年那場非法仲裁“續命”，並掀起新一輪煽宣炒作。此種充滿挑釁意味的惡劣行徑，嚴重侵犯中國領土主權，嚴重違反《聯合國憲章》《聯合國海洋法公約》等國際法，再度暴露出一些菲律賓政客不斷生事、攪亂南海的醜陋面目。8月1日，中國人民解放軍南部戰區位黃巖島領海、領空和周邊海空域組織海空聯合演訓，這是針對當前南海局勢及個別域內國家破壞地區和平穩定的必要行動，也是堅定維護國家領土主權和海洋權益的必要之舉。
+
+---
+
+### 2026-08-02 06:49:04  #其他
+
+【多瑙河水位持續下降 匈牙利保克什核電站將完全關閉】當地時間8月2日凌晨，匈牙利總理毛焦爾表示，由於多瑙河水位進一步下降，保克什核電站最後兩臺發電機組中的一臺將於當天凌晨1時30分關閉，該核電站的發電量將降至240兆瓦。此外，據毛焦爾的說法，該核電站還將面臨44年來的首次完全關閉。
+
+---
+
+### 2026-08-02 06:47:45  #國際
+
+以色列官員稱，特朗普即將做出是否對伊朗發動大規模襲擊的決定，美軍已處於最高戰備狀態。不過這名官員著重強調，華盛頓方面尚未作出最終決定。
+
+---
+
+### 2026-08-02 06:35:39  #其他
+
+英國海上貿易行動組織（UKMTO）週六通報：一艘油輪遇襲，另有訊息稱阿曼附近霍爾木茲海峽內另一艘船舶周邊發生爆炸。兩起事件暫無人員傷亡報告。
+
+---
+
+### 2026-08-02 06:26:13  #其他
+
+委內瑞拉過渡談判將於下週啟動線下會談。
+
+---
+
+### 2026-08-02 06:11:43  #其他
+
+香港天文臺釋出黃色暴雨警告。
+
+---
+
+### 2026-08-02 06:08:18  #國際
+
+特朗普在社交媒體釋出合成圖，畫面呈現成年特朗普與就讀紐約軍事學院、17 歲少年時期的自己同框。
 
 ---
 
@@ -21371,77 +21437,5 @@ China A-share electronic chemicals sector surged intraday; Fangbang Shares hit a
 ### 2026-07-31 09:39:23  #Trading Economics #Economy #China #Non Manufacturing PMI #Importance 1
 
 China Services Activity Returns to Contraction — China's official NBS Non-Manufacturing PMI fell to 49.0 in July 2026 from 50.2 in June, pointing to a renewed contraction in non-manufacturing activity after two months of modest expansion and defying expectations of a flat reading. The business activity index for the services sector declined to 49.3 from 50.4, while the construction index dropped to 47.0 from 49.0. Within services, postal services, telecommunications, broadcasting, and culture and entertainment remained strong, with business activity indices above 55.0, while capital market services and real estate remained in contraction. Meanwhile, the new orders index fell to 44.4 from 48.0, with construction declining to 40.1 from 46.3 and services easing to 45.2 from 48.4. Input prices were unchanged at 49.7, while sales prices slipped to 47.9 from 48.4. Employment edged down to 45.4 from 45.8. Still, business expectations improved slightly to 55.4 from 55.3, indicating firms remained optimistic about future activity.
-
----
-
-### 2026-07-31 09:38:58  #市場 #國際
-
-【中證1000股指期貨(IM)主力合約日內漲超4%】中證1000股指期貨(IM)主力合約日內漲超4%，現報7163.6點。
-
----
-
-### 2026-07-31 09:38:30  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish
-
-China's CSI 1000 index futures (IM) most-active contract extended intraday gains to 4.00%, trading at 7,153.0.
-
----
-
-### 2026-07-31 09:38:23  #公司
-
-【人形機器人概念表現活躍 奧比中光、綠的諧波、斯菱智驅均漲超10%】人形機器人概念表現活躍，奧比中光、綠的諧波、斯菱智驅均漲超10%，晉拓股份、倍特科技、上緯新材、中大力德、五洲新春跟漲。
-
----
-
-### 2026-07-31 09:38:19  #MKT News #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-China A-share dairy sector surged intraday; Yiming Food hit the daily limit, while Zhuangyuan Pasture, Western Animal Husbandry, Beingmate, Huangshi Group and Jiahe Food also rallied.
-
----
-
-### 2026-07-31 09:37:58  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時放量2069億元。
-
----
-
-### 2026-07-31 09:37:34  #公司 #市場
-
-【港股儲存概念股大漲 南方兩倍做多海力士漲55%】港股儲存概念股大漲，兆易創新漲逾23%，瀾起科技漲17%，南方兩倍做多海力士漲55%，南方兩倍做多三星電子漲46%。
-
----
-
-### 2026-07-31 09:37:31  #市場
-
-新加坡海峽時報指數下跌1%至5616.30。
-
----
-
-### 2026-07-31 09:37:20  #公司 #市場
-
-中藥板塊短線拉昇，維康藥業漲超10%，隴神戎發、康惠股份、珍寶島、上海凱寶、太極集團等跟漲。
-
----
-
-### 2026-07-31 09:37:15  #公司 #市場
-
-【乳品板塊直線拉昇】乳品板塊直線拉昇，一鳴食品漲停，莊園牧場、西部牧業、貝因美、皇氏集團、佳禾食品等紛紛走高。
-
----
-
-### 2026-07-31 09:36:58  #公司 #市場
-
-港股儲存概念股大漲，兆易創新漲逾23%，瀾起科技漲17%，南方兩倍做多海力士漲55%，南方兩倍做多三星電子漲46%。
-
----
-
-### 2026-07-31 09:36:43  #國際
-
-俄羅斯伏爾加格勒州州長表示，該州多處倉庫在無人機襲擊後起火。
-
----
-
-### 2026-07-31 09:36:27  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact bullish
-
-【BOJ likely to stand pat; October seen as next potential hike】Major banks and a Reuters survey expect the BOJ to hold policy at this meeting, with October the earliest likely window for a rate increase. JPMorgan and others cite slowing inflation and weak wages as reasons to pause; Citi says a clear October roadmap from Governor Ueda would be a strong hawkish signal but is unlikely in the near term. Several banks warn that insufficiently hawkish messaging could push USD/JPY toward 165, keeping intervention risk elevated, while some firms (Meiji Yasuda) still see scope for an accelerated hiking pace to counter inflation and yen selling. Market takeaway: a sustained yen rebound likely requires tightening from both the BOJ and the Fed; any October guidance or signs of faster tightening would be material for rates, FX and intervention probability.
 
 ---

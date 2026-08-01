@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-02 06:08:00_
-_本檔包含 3584 則快訊，約 672516 字_
+_更新時間：2026-08-02 07:06:21_
+_本檔包含 3591 則快訊，約 673495 字_
+
+---
+
+### 2026-07-31 09:38:58  #市場 #國際
+
+【中證1000股指期貨(IM)主力合約日內漲超4%】中證1000股指期貨(IM)主力合約日內漲超4%，現報7163.6點。
+
+---
+
+### 2026-07-31 09:38:30  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish
+
+China's CSI 1000 index futures (IM) most-active contract extended intraday gains to 4.00%, trading at 7,153.0.
+
+---
+
+### 2026-07-31 09:38:23  #公司
+
+【人形機器人概念表現活躍 奧比中光、綠的諧波、斯菱智驅均漲超10%】人形機器人概念表現活躍，奧比中光、綠的諧波、斯菱智驅均漲超10%，晉拓股份、倍特科技、上緯新材、中大力德、五洲新春跟漲。
+
+---
+
+### 2026-07-31 09:38:19  #MKT News #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China A-share dairy sector surged intraday; Yiming Food hit the daily limit, while Zhuangyuan Pasture, Western Animal Husbandry, Beingmate, Huangshi Group and Jiahe Food also rallied.
+
+---
+
+### 2026-07-31 09:37:58  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時放量2069億元。
+
+---
+
+### 2026-07-31 09:37:34  #公司 #市場
+
+【港股儲存概念股大漲 南方兩倍做多海力士漲55%】港股儲存概念股大漲，兆易創新漲逾23%，瀾起科技漲17%，南方兩倍做多海力士漲55%，南方兩倍做多三星電子漲46%。
+
+---
+
+### 2026-07-31 09:37:31  #市場
+
+新加坡海峽時報指數下跌1%至5616.30。
+
+---
+
+### 2026-07-31 09:37:20  #公司 #市場
+
+中藥板塊短線拉昇，維康藥業漲超10%，隴神戎發、康惠股份、珍寶島、上海凱寶、太極集團等跟漲。
+
+---
+
+### 2026-07-31 09:37:15  #公司 #市場
+
+【乳品板塊直線拉昇】乳品板塊直線拉昇，一鳴食品漲停，莊園牧場、西部牧業、貝因美、皇氏集團、佳禾食品等紛紛走高。
+
+---
+
+### 2026-07-31 09:36:58  #公司 #市場
+
+港股儲存概念股大漲，兆易創新漲逾23%，瀾起科技漲17%，南方兩倍做多海力士漲55%，南方兩倍做多三星電子漲46%。
+
+---
+
+### 2026-07-31 09:36:43  #國際
+
+俄羅斯伏爾加格勒州州長表示，該州多處倉庫在無人機襲擊後起火。
+
+---
+
+### 2026-07-31 09:36:27  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact bullish
+
+【BOJ likely to stand pat; October seen as next potential hike】Major banks and a Reuters survey expect the BOJ to hold policy at this meeting, with October the earliest likely window for a rate increase. JPMorgan and others cite slowing inflation and weak wages as reasons to pause; Citi says a clear October roadmap from Governor Ueda would be a strong hawkish signal but is unlikely in the near term. Several banks warn that insufficiently hawkish messaging could push USD/JPY toward 165, keeping intervention risk elevated, while some firms (Meiji Yasuda) still see scope for an accelerated hiking pace to counter inflation and yen selling. Market takeaway: a sustained yen rebound likely requires tightening from both the BOJ and the Fed; any October guidance or signs of faster tightening would be material for rates, FX and intervention probability.
 
 ---
 
@@ -21590,35 +21662,5 @@ Asia FX Updates: South Korean Won Drops by 0.36% — Top currency loser is South
 ### 2026-07-30 10:13:48  #Trading Economics #Markets #Japan #Currency #Importance 1
 
 Yen Strengthens on Broad Dollar Weakness — The Japanese yen traded around 163.5 per dollar on Thursday after rebounding in the previous session, supported by broad dollar weakness following the Federal Reserve’s decision to leave interest rates unchanged. However, three FOMC members dissented in favor of a rate hike, while Chair Kevin Warsh emphasized that the decision to keep rates steady should not be viewed as a sign of policy inertia, adding that markets would continue to respond to incoming economic data. Meanwhile, the Bank of Japan is widely expected to leave interest rates unchanged on Friday while signaling that additional rate hikes remain possible to help curb the yen’s weakness. Verbal intervention from Japanese authorities has so far done little to support the currency, while the BOJ has remained vague about the timing of further policy tightening. On the geopolitical front, the US was reportedly carrying out fresh air strikes on Iran following attacks on American forces in the region.
-
----
-
-### 2026-07-30 10:13:38  #其他
-
-【廣州推出首個現房銷售試點】7月29日，廣州市規劃和自然資源局南沙區分局公開掛牌出讓一宗住宅用地的使用權，要求競得者承諾在其中一個地塊執行現房銷售，而地方政府則給予土地出讓金分期繳納的支援。南沙區住房和城鄉建設局相關人士對記者表示，這是廣州首個將“現房銷售承諾制”納入出讓條件的住宅專案，有效解決了“能否按時交房”的信任問題，下一步，該區將有序擴大現房銷售承諾制試點範圍，在更多優質地塊推廣這一模式，加快形成可複製經驗。（中國房地產報）
-
----
-
-### 2026-07-30 10:13:11  #市場 #焦點
-
-深證成指跌2.01%，現報13383.871點；上證指數跌0.20%，現報3820.731點；創業板指跌3.47%，現報3261.444點。
-
----
-
-### 2026-07-30 10:12:53  #國際
-
-【伊媒稱伊朗格什姆島和基什島遭美軍襲擊】據伊朗伊斯蘭共和國通訊社30日報道，美軍當天凌晨襲擊了包括格什姆島、基什島在內的霍爾木茲甘省部分地區。報道援引霍爾木茲甘省官員的話說，格什姆島附近一處地點遭美軍襲擊，目前正對事件進行評估。報道還說，當天凌晨，基什島傳來兩聲巨響。當地管理機構稱，襲擊未對城市設施和居民區造成損害，島上交通和機場執行未受影響。美軍中央司令部29日在社交媒體釋出訊息說，美軍於美國東部時間29日20時開始對伊朗發動空襲，從而結束了美軍自24日開始的短暫停火。此次空襲是對伊朗前一日企圖襲擊駐中東美軍的回應。（新華社）
-
----
-
-### 2026-07-30 10:12:34  #國際
-
-日本熊本地震已致28人死亡。（CCTV國際時訊）
-
----
-
-### 2026-07-30 10:12:06  #央行 #美聯儲
-
-【摩根大通將美聯儲加息預期提前至12月】7月30日，據報道，摩根大通目前預計美聯儲將在12月加息，早於該行此前預期的2027年下半年。
 
 ---

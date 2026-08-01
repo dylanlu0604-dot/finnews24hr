@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-02 06:08:00_
-_本檔包含 3693 則快訊，約 673237 字_
+_更新時間：2026-08-02 07:06:21_
+_本檔包含 3696 則快訊，約 673044 字_
+
+---
+
+### 2026-07-29 08:56:53  #公司 #市場 #央行 #國際
+
+【銀河證券：機構大幅減持 有色行業基金持倉回落至近年低點】銀河證券A股有色金屬行業2026Q2基金持倉分析指出，2026年二季度受中東衝突升級、霍爾木茲海峽封鎖影響，油價大幅衝高帶來通脹壓力，市場對美聯儲政策預期由年初的降息轉為加息，市場流動性與經濟預期的改變使有色金屬未來價格走勢與有色金屬企業未來業績的不確定性加大，主動權益類公募基金在2026年二季度大幅減持了銅、鋁、黃金等此前超配的有色金屬子行業，並在市場風格的帶動下加倉了與AI概念相關的鎢、鎳、磁性金屬等小金屬細分板塊。綜合來看，2026年二季度主動權益類公募基金對A股有色金屬行業重倉持股市值佔股票投資市值比達到了1.98%，環比2026年一季度的3.22%下行1.24個百分點，在2024年四季度後連續兩個季度減持有色金屬行業，且2026年二季度主動權益類公募基金對A股有色金屬行業重倉持股的單季度減持幅度創下了2010年以來的新高。
+
+---
+
+### 2026-07-29 08:56:36  #國際
+
+【日本地震已致13死】日本首相高市早苗在首相官邸表示，地震已造成13人死亡。（央視）
+
+---
+
+### 2026-07-29 08:56:12  #MKT News #SKHY.O
+
+SK Hynix (SKHY.O) said there is currently no detailed information on any factories beyond the investments it has already announced.
+
+---
+
+### 2026-07-29 08:56:06  #MKT News
+
+Ukraine's president Zelenskiy said he was honored to meet, that many issues were discussed and the meeting went very smoothly.
+
+---
+
+### 2026-07-29 08:55:51  #其他
+
+SK海力士：除已公佈的投資外，目前暫無其他新增晶圓廠的具體細節。
+
+---
+
+### 2026-07-29 08:55:44  #國際
+
+特朗普：非常榮幸會見烏克蘭總統澤連斯基。
+
+---
+
+### 2026-07-29 08:55:35  #國際
+
+特朗普：與澤連斯基的會面非常順利。
+
+---
+
+### 2026-07-29 08:55:26  #公司
+
+【華勤技術首批輪式雙臂機器人F1正式出貨】據華勤技術訊息，日前，華勤技術在南昌製造中心舉行了F1輪式雙臂機器人首批訂單出貨儀式。公司表示，繼先期數採機器人成功交付後，此次輪式雙臂機器人F1的順利出貨，標誌著公司機器人業務第二增長曲線正式進入規模化交付期。
 
 ---
 
@@ -22293,35 +22341,5 @@ Italy's Prime Minister Meloni has signed a decree to immediately cut diesel pric
 ### 2026-07-28 01:07:49  #Trading Economics #Markets #Italy #Stock Market #Importance 1
 
 The FTSE MIB Index Closes 0.49% Higher — The FTSE MIB Index went up by 253 points or 0.49 percent on Monday to close at 52055 points. The rise was led by Ferrari NV (4.29%), Lottomatica (3.16%) and Buzzi Unicem (2.80%). On the downside, the weakerst performers were Prysmian (-3.78%), Tenaris (-2.82%) and Eni (-2.44%).
-
----
-
-### 2026-07-28 01:07:49  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 1.04% Higher — The DAX Index rose 262 points or 1.04 percent on Monday to close at 25361 points. Leading the gains are SAP (7.90%), Zalando (4.12%) and Adidas (3.48%).
-
----
-
-### 2026-07-28 01:07:49  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.40% Higher — The CAC 40 Index gained 34 points or 0.40 percent on Monday to close at 8406 points. Gains were led by Capgemini (5.83%), Pernod Ricard (3.02%) and Thales (2.96%). Biggest losers were STMicroelectronics (-4.41%), ENGIE (-2.84%) and TotalEnergies SE (-2.00%).
-
----
-
-### 2026-07-28 01:07:49  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.42% Higher — The FTSE 100 Index went up by 46 points or 0.42 percent on Monday to close at 10782 points. The rise was led by Vodafone (4.84%), Relx (4.44%) and Airtel Africa (4.25%). On the downside, the weakerst performers were Glencore (-3.39%), BP (-2.57%) and IMI (-2.30%).
-
----
-
-### 2026-07-28 01:07:47  #Trading Economics #Economy #Bonds #Importance 1
-
-Bonds Update: South Korea 10Y Bond Yield Drops by 11 bps — Government bonds yields are lower on Monday. Top losers are South Korea 10Y (-11.20bps), Japan 10Y (-4.53bps), US 10Y (-3.70bps) and Germany 10Y (-3.42bps).
-
----
-
-### 2026-07-28 01:04:59  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish
-
-US 5-year Treasury yield trimmed losses after the auction, down 2.37 bps at 4.402%.
 
 ---
