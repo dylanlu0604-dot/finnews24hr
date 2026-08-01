@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-01 21:44:19_
-_本檔包含 3523 則快訊，約 674488 字_
+_更新時間：2026-08-01 23:12:03_
+_本檔包含 3521 則快訊，約 674045 字_
+
+---
+
+### 2026-08-01 23:04:57  #其他
+
+【嘉能可追討2.3億美元未付油款】全球大宗商品貿易商嘉能可稱，其遭誘騙向英國一家煉油廠供應總價值超2.3億美元原油；該煉油廠收貨後始終未支付貨款，並於去年宣告資不抵債。目前嘉能可正申請法院許可，起訴普拉克斯·林賽煉油廠，請求撤銷相關供貨合同。嘉能可主張，這些合同系透過欺詐手段訂立。根據訴訟檔案，嘉能可一旦勝訴，這批原油對應的收益將獨立劃出，不納入可供其他債權人分配的破產資產池。
+
+---
+
+### 2026-08-01 22:55:10  #國際
+
+巴林譴責伊朗週六對科威特平民和重要設施的反覆襲擊，稱這些襲擊是對該國主權、安全和穩定的嚴重侵犯。
+
+---
+
+### 2026-08-01 22:54:53  #國際
+
+特朗普：履行你們的職責，參議院領袖約翰·圖恩、參議員莉薩·穆爾科夫斯基、湯姆·蒂利斯、蘇珊·柯林斯。取消為期五週的休會假期，推動《拯救美國法案》落地。
+
+---
+
+### 2026-08-01 22:53:16  #國際
+
+西班牙抨擊歐盟對休達危機的應對舉措，要求歐盟緊急召開會議。
+
+---
+
+### 2026-08-01 22:52:53  #MKT News #Brent #Impact bullish #WTI
+
+Interfax: Russian forces damaged an oil tanker previously used by the Ukrainian military in Odesa port and struck an ocean tug in Mykolaiv port.
+
+---
+
+### 2026-08-01 22:50:05  #公司
+
+【歐足聯要求因凡蒂諾辭職】8月1日，歐足聯已要求國際足聯主席因凡蒂諾辭職。若其拒絕，歐足聯準備對他發起不信任投票。據悉，這需要國際足聯211個成員國中的43個國家投票支援，而歐足聯擁有55個成員國。 稍早前，在沒有與各大洲足聯溝通的情況下，國際足聯決定推出世界盃股份出售計劃。隨後，歐足聯、亞足聯以及中北美足聯公開批評這一計劃，其中，歐足聯表示一旦國際足聯推行這一計劃，將拒絕參加世界盃在內的國際足聯賽事。 面對巨大壓力，國際足聯宣佈放棄這一計劃。因凡蒂諾表示：“該計劃已引發的分歧程度，無論支援力度如何，都已不再符合最初設定目標的利益。”
+
+---
+
+### 2026-08-01 22:47:07  #國際
+
+俄羅斯武裝部隊在烏克蘭敖德薩港損毀了一艘原供烏克蘭軍方使用的油輪，並在尼古拉耶夫港擊中一艘海上拖船。
+
+---
+
+### 2026-08-01 22:44:50  #公司
+
+【義大利那不勒斯附近地震造成26人受傷】義大利民防部門1日釋出公告說，截至目前，義大利南部那不勒斯附近7月31日晚發生的地震已造成26人受傷。
+
+---
+
+### 2026-08-01 22:44:24  #其他
+
+【國家防總、應急管理部針對重慶啟動防汛四級應急響應】據氣象部門預報，8月1日至3日，重慶部分地區有大到暴雨、局地大暴雨，山洪和地質災害、中小河流洪水等災害風險較高。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月1日22時針對重慶啟動防汛四級應急響應。（央視新聞）
+
+---
+
+### 2026-08-01 22:42:50  #焦點 #國際
+
+【美國駐中東多國使館釋出警報 稱地區局勢可能升級】美國駐中東多國大使館1日釋出安全警報說，中東地區緊張局勢有可能進一步升級，身處中東的美國公民應做好應對航班取消等情況的準備，並考慮離開該地區。當天，美國駐埃及、沙烏地阿拉伯、科威特、約旦、巴林、卡達、阿聯酋、伊拉克、阿曼、以色列等國大使館分別釋出安全警報，主要內容基本一致。
+
+---
+
+### 2026-08-01 22:42:29  #公司 #國際
+
+雷諾印度公司：2026年7月國內批發銷量攀升27.9%，至3293輛。
+
+---
+
+### 2026-08-01 22:40:43  #其他
+
+市場資訊：義大利幾乎所有城市均啟動最高階別高溫預警。
+
+---
+
+### 2026-08-01 22:40:01  #國際
+
+美國紐約市延長公寓度假物業免稅申請截止日期，該市市長稱符合資格的業主可在9月18日前提交申請。
+
+---
+
+### 2026-08-01 22:38:53  #國際
+
+美國駐阿聯酋使團於週六敦促身處中東地區的美國公民考慮離開該地區；若局勢緊張程度升級，需做好撤離準備。
+
+---
+
+### 2026-08-01 22:37:19  #MKT News
+
+NHC: Tropical Storm Genevieve is gradually weakening.
+
+---
+
+### 2026-08-01 22:31:11  #其他
+
+國際原子能機構：扎波羅熱核電站近期發生的近兩小時場外斷電事故原因尚不清楚。
+
+---
+
+### 2026-08-01 22:31:04  #其他
+
+國際原子能機構（IAEA）：扎波羅熱核電站今日因軍事衝突失去場外供電，這已是衝突發生以來的第23次。
+
+---
+
+### 2026-08-01 22:29:24  #MKT News #Commodities #Energy
+
+IAEA said the cause of a recent nearly two-hour loss of offsite power at the Zaporizhzhia nuclear plant remains unclear.
+
+---
+
+### 2026-08-01 22:28:11  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+IAEA: ZAPORIZHZHIA NUCLEAR PLANT lost off‑site power for the 23rd time today amid military fighting.
+
+---
+
+### 2026-08-01 22:25:43  #其他
+
+【阿維塔7月交付7626輛】據阿維塔訊息，阿維塔7月交付7626輛。
+
+---
+
+### 2026-08-01 22:24:18  #MKT News
+
+Lebanese sources say the seventh round of Lebanon‑Israel talks will open in Rome on Tuesday and run for three days.
+
+---
+
+### 2026-08-01 22:24:00  #MKT News #Market Themes #AI Revolution #META.O #Impact bearish #MSFT.O #Impact bullish #AMZN.O
+
+【Tech post-earnings split signals market beginning to punish unchecked AI spending】Market reactions to big-tech earnings diverged sharply, signaling investor scrutiny of AI-driven spending. Meta fell as much as 8% in after-hours trade after issuing disappointing revenue guidance and reporting its weakest free cash flow in years, a market read as evidence of rising AI-related costs. Microsoft jumped about 16% post-earnings, adding roughly $450bn of market value, after reporting the fastest cloud growth in four years and saying it will control incremental capital expenditure this year. Amazon rallied about 15% after its cloud revenue posted a four-year high, easing concerns about returns on large AI investments. Explosive Options founder and chief options analyst Bob Long said investors will eventually tire of hyperscalers’ endless spending, so restraint being rewarded is unsurprising. Global AI supply-chain names and firms that provide or adopt AI appear to be back in favor.
+
+---
+
+### 2026-08-01 22:22:04  #MKT News
+
+【US Treasury Secretary Bessent says Treasury tracking Iranian assets globally】Treasury Secretary Bessent said at a Camp David cabinet meeting on July 31 that, at President Trump’s direction, the Treasury is continuing an economic campaign against Iran and is tracing Iranian assets worldwide. He claimed measures advanced in March 2025 resulted in Iran’s largest private bank declaring bankruptcy by year-end, forced large-scale central bank money printing that pushed up inflation, and left Iran unable to pay military wages.
+
+---
+
+### 2026-08-01 22:18:34  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Security and refinery sources say a fire at a refinery southwest of Erbil, Iraq, has been extinguished and production is gradually resuming.
+
+---
+
+### 2026-08-01 22:17:49  #其他
+
+伊拉克埃爾比勒西南部煉油廠火災已被撲滅，已開始逐步恢復生產。
+
+---
+
+### 2026-08-01 22:12:25  #公司
+
+【中國國新總經理侯曉會見中國物流總經理徐鴻】據中國國新訊息，7月30日，中國國新黨委副書記、總經理侯曉在公司總部會見中國物流黨委副書記、總經理徐鴻。侯曉表示，雙方自去年簽署戰略合作協議以來，持續推進基金設立、專案投資、金融服務、產業培育等方面合作。希望與中國物流不斷擴大合作領域，深化資源協同，共同服務國家重大戰略落實落地。徐鴻表示，希望雙方持續深化戰略合作關係，深入推進基金投資、金融服務、境外業務、資本運營等領域合作。
+
+---
+
+### 2026-08-01 22:09:42  #其他
+
+【REDMI K100 Pro系列定檔8月11日，全新配色“赤霞珠紅”ChinaJoy首秀】8月1日晚間訊息，近日，ChinaJoy展會開幕。展會現場，REDMI正式宣佈：REDMI K100 Pro系列提檔至8月11日釋出，REDMI K100 Pro、REDMI K100 Pro Max將率先登場。展會現場全新“赤霞珠紅”配色的REDMI K100 Pro Max 真機也首次公開亮相。（新浪科技）
+
+---
+
+### 2026-08-01 22:02:39  #其他
+
+【內蒙古呼和浩特獲授“世界乳都”稱號】2026年世界奶業大會1日在內蒙古自治區呼和浩特市開幕，國際食品科技聯盟正式授予呼和浩特“世界乳都”牌匾和獎盃。繼2005年獲評“中國乳都”、2023年獲評“世界乳業科技之都”之後，這座草原城市完成了由“中國乳都”向“世界乳都”的跨越。（新華社）
+
+---
+
+### 2026-08-01 21:59:53  #公司
+
+【金富科技：公司液冷產能和訂單銷量實現同比、環比穩步攀升】金富科技近日在機構調研時表示，液冷行業需求持續爆發、行業整體處於高景氣擴產週期，市場供貨需求旺盛。公司緊抓行業發展機遇，結合簡易程式定增募投專案及自有資金擴產專案，快速推動液冷產線建設、裝置採購、新增廠區裝修等，液冷板塊擴產工作全力加速推進。依託分批次產線投產落地，公司液冷產能和訂單銷量實現同比、環比穩步攀升，持續匹配下游客戶不斷增長的訂單需求。
+
+---
+
+### 2026-08-01 21:59:00  #公司
+
+【雅礱江流域2300萬千瓦投產裝機全面投入電力保供】記者8月1日從國投集團雅礱江流域水電開發有限公司獲悉，雅礱江流域水風光一體化基地約2300萬千瓦投產裝機已全面投入迎峰度夏電力保供。目前，流域梯級水電聯合執行蓄能達177.7億千瓦時，同比增加9.5億千瓦時，為電網頂峰供電儲備了充足水能。（新華社）
+
+---
+
+### 2026-08-01 21:58:17  #公司 #國際
+
+【俄國家原子能公司貨船遭烏無人機襲擊】 俄羅斯國家原子能公司執行長利哈喬夫1日證實，該公司下屬的遠東航運公司一艘貨運船在黑海東北部水域遭烏克蘭武裝部隊無人機襲擊。據俄原子能公司新聞處釋出的訊息，7月31日深夜至8日1日凌晨，一艘名為“亞尼那”的船隻在距離俄羅斯港口新羅西斯克130海里處遭2架烏無人機襲擊後沉沒，船上17名船員全部獲救。（新華社）
+
+---
+
+### 2026-08-01 21:57:38  #公司
+
+【伊利集團董事長潘剛：聯合英偉達、騰訊等啟動乳業數紐中心建設】在2026世界奶業大會開幕式上，伊利集團董事長、總裁潘剛在發言中宣佈，伊利聯合英偉達、騰訊等啟動乳業數紐中心建設，首創“資料+平臺+標準+人才”四位一體模式，填補行業垂直領域雲資料空白。據悉，乳業數紐中心旨在打造全球領先的乳產業鏈數智底座，中心以“Data+AI”為技術底座，以高質量資料集為核心產出，致力於打通“養殖-生產-流通-消費”全鏈路資料孤島。未來將面向中小乳企推出標準化資料集訂閱、定製化資料加工等普惠服務，實現“一家牽頭建設、全行業普惠受益”。（澎湃）
+
+---
+
+### 2026-08-01 21:55:59  #公司
+
+【葡萄牙航空一客機起飛後因緊急情況返航】當地時間8月1日，葡萄牙航空公司一架從里斯本飛往巴西庫裡蒂巴的空客A330客機，在起飛後通報機上發生緊急情況，決定返航里斯本機場。目前，機上發生緊急情況的原因尚未公佈。
+
+---
+
+### 2026-08-01 21:44:58  #公司 #國際
+
+【拉脫維亞關閉與白俄羅斯唯一公路口岸】拉脫維亞國家邊防局7月31日釋出公告說，拉脫維亞與白俄羅斯之間的帕特涅基邊境檢查站因技術故障暫停通關。公告說，帕特涅基邊境檢查站的資訊系統執行出現技術故障，暫時無法進行證件核驗和邊境管制。故障原因以及可能的恢復時間仍不清楚。（新華社）
 
 ---
 
@@ -21036,229 +21240,5 @@ China's July official manufacturing PMI due in 10 minutes.
 ### 2026-07-31 09:15:28  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bullish
 
 Hang Seng Index futures opened the day session up 0.68% at 26,044, trading 194 points above the spot index.
-
----
-
-### 2026-07-31 09:15:06  #公司
-
-【298股獲融資買入超億元，中際旭創穫買入73.45億元居首】A股7月30日共有3826只個股獲融資資金買入，有298股買入金額超億元。其中，中際旭創、C長鑫、兆易創新融資買入金額排名前三，分別獲買入73.45億元、52.1億元、51.06億元。從融資買入額佔當日總成交金額比重來看，有3只個股融資買入額佔比超30%。其中柳鋼股份、振德醫療、騰達建設融資買入額佔成交額比重排名前三，分別為32.86%、31.18%、30.12%。從融資淨買入金額來看，有12只個股獲融資淨買入超億元。其中，永鼎股份、兆易創新、藍色游標融資淨買入金額排名前三，分別獲淨買入6.28億元、2.07億元、1.6億元。
-
----
-
-### 2026-07-31 09:15:02  #市場
-
-恒指期貨日盤開盤漲0.90%，報26138.00點，高水279.12點。
-
----
-
-### 2026-07-31 09:14:59  #其他
-
-【秘魯烏卡亞利大區發生5.7級地震】據秘魯地球物理研究所報告，當地時間7月30日19時58分，秘魯烏卡亞利大區發生5.7級地震。震中位於烏卡亞利大區科羅內爾波蒂略省首府普卡爾帕東北約42公里處。總檯記者所在的首都利馬有震感。截至目前，當地政府尚未報告此次地震造成人員傷亡或財產損失。
-
----
-
-### 2026-07-31 09:14:49  #MKT News #Market Themes #AI Revolution
-
-【MiniMax launches H3; plans to release model weights in coming days】July 31 — MiniMax announced the release of MiniMax H3, a general-purpose multimodal generative model that ingests unified text, image, video and audio context and can produce native stereo audiovisual output up to 15 seconds at 2K resolution. MiniMax said it plans to release the model weights in the coming days, subject to applicable laws and regulations.
-
----
-
-### 2026-07-31 09:14:48  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slipped below $4,090/oz, down 0.33% intraday.
-
----
-
-### 2026-07-31 09:14:37  #市場 #焦點
-
-現貨黃金失守4090美元/盎司，日內跌0.35%。
-
----
-
-### 2026-07-31 09:13:42  #其他
-
-【MiniMax H3正式釋出，計劃在未來幾天內開放模型權重】7月31日，MiniMax宣佈正式釋出MiniMax H3。據介紹，這是一款通用的全模態生成模型，支援對文字、影象、影片、聲音組成的多模態上下文的統一理解能力、能夠輸出具備原生雙聲道的音影片，最高可支援15s 2K解析度。MiniMax表示，計劃在未來幾天內，在符合相關法律法規的前提下，開放模型權重。
-
----
-
-### 2026-07-31 09:13:38  #市場 #焦點
-
-玻璃連續主力合約日內漲1%，現報881.00元。
-
----
-
-### 2026-07-31 09:13:10  #其他
-
-【國家稅務總局首個跨境稅收行業類指引《國際運輸涉稅服務指引》正式釋出】近期，國家稅務總局釋出了首個跨境稅收行業類指引《國際運輸涉稅服務指引》，為從事國際航海、航空、陸路等跨境運輸行業的經營主體提供全鏈條、標準化、可落地的涉稅合規參考，“稅路通”跨境稅收知識產品體系實現再擴容。《指引》分為“引進來篇”和“走出去篇”，區分各類運輸方式，圍繞“該不該繳稅、繳什麼稅、繳多少稅、怎麼繳稅”，從納稅義務、扣繳義務、應稅收入、稅款計算、稅收優惠、協定待遇、辦稅流程、涉稅風險提示等八個維度系統梳理相關涉稅事項。同時，透過編譯公開涉稅案例以案釋法，直觀提示跨境經營稅務風險。附錄中還歸集了全鏈條涉稅政策，並彙總了指引涉及的辦稅渠道查詢連結等內容。
-
----
-
-### 2026-07-31 09:12:49  #MKT News #Commodities #Precious Metals
-
-Spot palladium fell below $1,300/oz, down 1.13% on the day.
-
----
-
-### 2026-07-31 09:12:27  #Trading Economics #Markets #Australia #Currency #Importance 1
-
-Australian Dollar Hits 6-Week High — The Australian dollar rose above $0.70, hitting a six-week high and on track for a weekly advance as broad weakness in the US dollar outweighed fading expectations for further interest rate hikes at home. Markets imply next to no chance the Reserve Bank of Australia will hike at its August meeting and see only even odds of a move by December after softer-than-expected second-quarter inflation figures reduced the need for further policy tightening. Still, the RBA governor recently warned that another rate hike may still be needed to bring inflation back to target. Meanwhile, the greenback weakened broadly after June inflation data, released a day after the Federal Reserve left interest rates unchanged, came in softer than expected, prompting investors to further scale back expectations for additional Fed rate hikes. Suspected intervention by Japanese authorities to support the yen also weighed on the US dollar, providing additional support for the Aussie.
-
----
-
-### 2026-07-31 09:11:09  #公司
-
-【高斯寶完成2億元B輪融資】7月31日，據朝希資本訊息，近日，廣東高斯寶電氣股份有限公司（簡稱“高斯寶”）正式完成B輪融資，本輪融資總額約2億元，由朝希資本領投。資料顯示，2026年7月，高斯寶完成IPO輔導備案，擬A股上市。
-
----
-
-### 2026-07-31 09:10:11  #市場 #焦點
-
-乙二醇連續主力合約日內跌2%，現報4983.00元。
-
----
-
-### 2026-07-31 09:09:52  #其他
-
-【工業和資訊化部電子資訊司組織赴天津、河南調研並召開2026年三季度電子資訊製造業發展形勢座談會】工業和資訊化部電子資訊司有關負責同志帶隊赴天津市、河南省開展電子資訊製造業發展形勢調研，並在河南省召開2026年三季度電子資訊製造業發展形勢座談會。調研組一行以2026年三季度電子資訊製造業發展形勢研判為主題、人工智慧技術對產業影響為專題，先後赴天津市和河南省三門峽市、洛陽市、鄭州市實地走訪11家重點企業和研究院，並在鄭州市召開河南省電子資訊製造業座談會，詳細瞭解企業生產經營情況，與10家企業進行座談交流，聽取了河南省鄭州市、洛陽市、鶴壁市、新鄉市、焦作市、許昌市和航空港區關於電子資訊製造業發展現狀和麵臨問題的報告，圍繞行業認識、穩增長、人工智慧技術影響等問題進行深入溝通交流。（工信部）
-
----
-
-### 2026-07-31 09:09:46  #市場
-
-MSCI新興市場股票指數飆升5%，創4月以來最大漲幅。
-
----
-
-### 2026-07-31 09:09:37  #其他
-
-【下週將有2只新股發行 預計合計募資22.02億元】資料顯示，下週（8月3日-8月7日）將有2只新股發行，其中北交所有1只，合計發行約4300.0萬股，預計合計募資22.02億元。具體來看，8月3日發行的是傑理科技；8月7日發行的是頻準鐳射。此外，下週還有1只新股上市。
-
----
-
-### 2026-07-31 09:09:03
-
-SK海力士漲近30％，三星電子漲超26％。
-
----
-
-### 2026-07-31 09:08:59  #其他
-
-【擴建算力資料中心後，智譜GLM Coding Plan開放訂閱】7月31日，智譜宣佈，隨著基礎設施持續擴容，面向開發者群體的付費訂閱服務GLM Coding Plan開放訂閱。此前因AI Coding需求爆發，使用者需求增長，階段性限制訂閱名額。另據第一財經瞭解，智譜已落地1GW級國產AI算力資料中心建設，全部採用國產AI晶片，並持續投入算力基礎設施建設。(第一財經)
-
----
-
-### 2026-07-31 09:08:59  #MKT News
-
-GFZ reported a magnitude 5.6 earthquake in the Peru-Brazil border region.
-
----
-
-### 2026-07-31 09:08:24  #市場 #國際
-
-【日本不願證實是否干預匯市 但暗示得到美國支援】日元大幅上漲後，日本政府不願證實是否在隔夜交易期間干預匯市，但暗示得到了美國官員等海外同行的支援。財務大臣片山皋月週五迴避了日元飆升是否是干預結果的個問題，她只表示，當局將“保持高度警惕，並採取適當措施”。隨後不久，日本外匯事務負責人三村淳暗示，一直得到美國同行和其他國家的支援。三村說，確實意識到，我們從美國獲得的支援不僅僅是道義上的支援。他補充道，透過自己的渠道，與美國當局保持密切聯絡，但拒絕透露更多細節。週四紐約交易時段，日元兌美元匯率一度上漲3.3%，創下自2023年12月以來的最大盤中漲幅。一位知情人士透露，日本政府出手干預以支撐日元匯率，並補充說，美國當局在東京時間2:30左右進行匯率檢查。
-
----
-
-### 2026-07-31 09:07:53  #其他
-
-【重慶大學附屬三峽醫院與金域醫學正式簽署戰略合作協議】 據金域醫學訊息，7月28日，重慶大學附屬三峽醫院與金域醫學正式簽署戰略合作協議。
-
----
-
-### 2026-07-31 09:07:35  #公司
-
-【長齡液壓成立智算樞紐科技公司，含多項AI業務】 企查查APP顯示，近日，天津智算樞紐科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，該公司由長齡液壓全資持股。
-
----
-
-### 2026-07-31 09:07:27  #市場 #國際
-
-韓國綜合股價指數（KOSPI）上漲17%，至6545.15點。
-
----
-
-### 2026-07-31 09:07:20  #MKT News #Market Regions
-
-South Korea's KOSPI index surged 17% intraday to 6,545.15 points.
-
----
-
-### 2026-07-31 09:07:14  #其他
-
-【北方華創釋出第三代12英寸全石英立式氮化矽LPCVD裝置】 近日，北方華創正式面向全球市場推出第三代12英寸全石英立式氮化矽低壓化學氣相沉積（LPCVD）裝置SICRIUS SN302D Ⅱ。該裝置助推北方華創深度切入儲存、先進邏輯、矽光整合、高階感測器等高景氣賽道。
-
----
-
-### 2026-07-31 09:07:04  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-WTI crude fell about 2% intraday, slipping below $81/bbl. Brent crude fell 1.6% to $85.4/bbl.
-
----
-
-### 2026-07-31 09:06:17  #市場 #焦點
-
-甲醇連續主力合約日內跌2%，現報2603.00元。
-
----
-
-### 2026-07-31 09:06:12  #國際
-
-【中俄邊境地方經貿合作和經濟特區合作常設工作組第六次會議及中俄森林資源開發和利用常設工作小組第二十一次會議在莫斯科舉行】7月30日，商務部副部長兼國際貿易談判副代表凌激在莫斯科分別與俄羅斯經濟發展部副部長伊利喬夫、俄羅斯工業和貿易部副部長尤林共同主持召開中俄邊境地方經貿合作和經濟特區合作常設工作組第六次會議、中俄森林資源開發和利用常設工作小組第二十一次會議。
-
-凌激表示，近年來，中俄毗鄰地區經貿合作保持良好發展勢頭，重點投資專案穩步推進，園區合作持續深化。希望中俄毗鄰地區發揮得天獨厚的優勢，進一步擴大貿易規模，大力發展跨境電商、邊民互市貿易等靈活貿易方式，提升口岸過貨能力和便利化水平，積極發展江海聯運，辦好中俄博覽會。中國是林產品消費大國、貿易大國，在林業合作方面，中俄已經形成上下游產供鏈的緊密合作關係。希望雙方不斷豐富林產品貿易種類，積極穩妥開展深加工合作，加強森林碳匯聯合研究，推動採伐和加工裝備合作，加強綠色建材標準對接，助力兩國“雙碳”目標實現。希望俄方切實保護中資企業合法權益。
-
-伊利喬夫表示，俄中兩國邊境和地方間經貿合作充滿活力，歡迎中方企業參與俄遠東開發，入駐經濟特區投資製造業、現代農業、科技創新等領域，俄方將為此創造穩定、法治的營商環境。
-
-尤林表示，俄方歡迎中方企業在木材採伐和加工、製漿造紙、生物燃料生產等方面開展貿易投資和技術合作。俄方願採取積極措施，為林業投資專案落地創造良好條件，希望俄中林業合作助力兩國綠色低碳發展。
-
-會後，雙方共同簽署會議紀要。
-
----
-
-### 2026-07-31 09:06:11  #市場 #焦點
-
-燃料油連續主力合約日內跌3%，現報3555.00元。
-
----
-
-### 2026-07-31 09:05:23  #市場
-
-臺灣證交所加權股價指數上漲7%至42,729.24點。
-
----
-
-### 2026-07-31 09:05:06  #MKT News #06809.HK #Impact bullish
-
-Montage Technology (06809.HK) said it has begun industry-first trial production of CXL 3.2 memory-expansion controller (MXC) chips.
-
----
-
-### 2026-07-31 09:04:13  #MKT News
-
-Taiwan Stock Exchange Weighted Index (TAIEX) opened 2,549.58 points higher, up 6.38% at 42,482.88 on Friday, July 31.
-
----
-
-### 2026-07-31 09:04:11  #MKT News
-
-S&P 500 futures up 0.3%; Nasdaq futures up 1.1%.
-
----
-
-### 2026-07-31 09:04:07  #公司
-
-【正帆科技等成立新公司，含物聯網應用業務】企查查APP顯示，近日，上海正帆環亞科技有限公司成立，經營範圍包含：電子元器件與機電元件裝置銷售；半導體器件專用裝置銷售；物聯網應用服務等。企查查股權穿透顯示，該公司由正帆科技等共同持股。
-
----
-
-### 2026-07-31 09:03:53  #市場
-
-富時中國A50指數期貨漲超2%。
-
----
-
-### 2026-07-31 09:03:36  #MKT News #Important #CSI300 #Impact bullish #SSE Composite #Hang Seng Index
-
-FTSE China A50 index futures jumped over 2.2% in early trade.
 
 ---

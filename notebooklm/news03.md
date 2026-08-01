@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-01 21:44:19_
-_本檔包含 3809 則快訊，約 673719 字_
+_更新時間：2026-08-01 23:12:03_
+_本檔包含 3822 則快訊，約 674032 字_
+
+---
+
+### 2026-07-30 09:31:17  #MKT News #AUDUSD #Impact bearish
+
+Australia June seasonally adjusted private sector building approvals YoY 0.4% (previous 13.2%).
+
+---
+
+### 2026-07-30 09:31:14  #MKT News #Market Regions #Greater China
+
+【China government bond futures open - morning session】China government bond futures opened in the morning session: 2-year (TS main contract) flat; 5-year (TF main contract) +0.01%; 10-year (T main contract) +0.01%; 30-year (TL main contract) +0.07%.
+
+---
+
+### 2026-07-30 09:31:09  #MKT News #Economic Calendar #Important
+
+Australia | Private Sector Building Approvals SA (YoY) (Jun) | actual 0.4% | previous 13.2%
+
+---
+
+### 2026-07-30 09:31:06  #市場 #焦點
+
+恒生科技指數漲超1%，現報4914.400點；恒生指數現漲0.630%。
+
+---
+
+### 2026-07-30 09:31:06  #MKT News #DXY #Impact bearish
+
+Australia June seasonally adjusted building approvals YoY +8.9%, prior +5.3%.
+
+---
+
+### 2026-07-30 09:30:58  #MKT News #Economic Calendar #Important
+
+Australia | Building Approvals SA (YoY) (Jun) | actual 8.9% | previous 5.3%
+
+---
+
+### 2026-07-30 09:30:39  #資料
+
+澳大利亞6月季調營建許可月率 7.2%，預期-1%，前值-1.10%。澳大利亞6月季調私營營建許可月率 0.4%，前值2.8%。
+
+---
+
+### 2026-07-30 09:30:34  #MKT News #Important
+
+【MOFCOM spokesperson on U.S. FCC adding foreign power inverters and advanced robotics to 'covered list'】MOFCOM said the U.S. FCC move to add foreign power inverters and advanced robotics equipment to a 'covered list' targets goods that are normal international commodities and that trade benefits all parties, including the U.S. It accused Washington of overbroad national-security claims and of using administrative powers to disrupt normal commercial transactions and push decoupling and supply‑chain severing, described the measures as market‑distorting unilateral bullying, urged immediate revocation, and warned that China will resolutely retaliate to safeguard its legitimate rights and interests if the U.S. persists.
+
+---
+
+### 2026-07-30 09:30:33  #資料
+
+澳大利亞第二季度出口物價指數季率 1.1%，前值0.50%。澳大利亞第二季度進口物價指數季率 5.7%，前值0.10%。
+
+---
+
+### 2026-07-30 09:30:12  #國際
+
+韓國KOSPI指數站上5800點，日內漲2.44%。
+
+---
+
+### 2026-07-30 09:30:11  #MKT News
+
+Australia Q2 export price index QoQ +1.1% (prior +0.5%).
+
+---
+
+### 2026-07-30 09:30:08  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish
+
+Australia Q2 import price index QoQ 5.7%, prior 0.10%.
+
+---
+
+### 2026-07-30 09:30:07  #MKT News
+
+Australia June seasonally adjusted building approvals +7.2% MoM; consensus -1.0%, prior -1.1%.
+
+---
+
+### 2026-07-30 09:30:07  #MKT News
+
+Australia June seasonally adjusted private-sector building approvals rose 0.4% MoM, prior +2.8%.
+
+---
+
+### 2026-07-30 09:30:03  #市場
+
+【國債期貨開盤】 30年期主力合約漲0.07%， 10年期主力合約漲0.01%， 5年期主力合約基本持平， 2年期主力合約基本持平。
+
+---
+
+### 2026-07-30 09:30:02  #市場
+
+【股指期貨早盤開盤】 中證1000指數期貨連續漲0.13%， 滬深300指數期貨連續跌0.55%， 中證500指數期貨連續跌0.46%， 上證50指數期貨連續跌0.29%。
+
+---
+
+### 2026-07-30 09:30:02  #市場 #焦點
+
+科創50日內跌幅達1.51%，成分股中，生益電子跌3.38%，中科飛測跌2.97%，沐曦股份跌2.83%，寒武紀跌2.78%。
+
+---
+
+### 2026-07-30 09:30:01  #MKT News #Economic Calendar #Important
+
+Australia | Export Price Index (QoQ) (Q2) | actual 1.1% | previous 0.50%
+
+---
+
+### 2026-07-30 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | Building Approvals SA (MoM) (Jun) | actual 7.2% | consensus -1% | previous -1.10%
+
+---
+
+### 2026-07-30 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | Private Sector Building Approvals SA (MoM) (Jun) | actual 0.4% | previous 2.8%
+
+---
+
+### 2026-07-30 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | Import Price Index (QoQ) (Q2) | actual 5.7% | previous 0.10%
+
+---
+
+### 2026-07-30 09:29:55  #MKT News #Market Regions #Emerging Markets
+
+South Korea's KOSPI climbed above 5,800, up 2.44% on the day.
+
+---
+
+### 2026-07-30 09:29:40  #宏觀 #焦點 #國際
+
+【商務部新聞發言人就美國聯邦通訊委員會將外國電力逆變器和先進機器人裝置列入“覆蓋清單”事答記者問】有記者問：美東時間7月28日，美國聯邦通訊委員會（FCC）宣佈，將外國生產的電力逆變器和先進機器人裝置列入“覆蓋清單”，相關新型號產品將無法獲得FCC認證授權，不得進入美市場銷售。請問商務部對此有何評論？答：我們注意到有關情況。美國聯邦通訊委員會相關措施表面上打著“非歧視”的旗號，實質上歧視性對待和打壓中國企業和產品。這已不是美國聯邦通訊委員會第一次採取類似措施，此前其已多次對其他中國商品實施限制。一段時間以來，美國聯邦通訊委員會無視中方反覆交涉和剋制態度，持續出臺、不斷升級限制措施，嚴重損害中方正當貿易利益，嚴重破壞中美經貿穩定局面，嚴重擾亂全球產業鏈供應鏈穩定，中方對此堅決反對。機器人、電力逆變器均是正常的國際商品，包括美國在內的各方都從貿易中獲益，美方泛化國家安全概念，不顧中美兩國業界強烈呼聲，動用行政力量，人為干擾企業間正常商業交易和貿易往來，持續推進“脫鉤斷鏈”，這種做法損人不利己，是典型的市場扭曲和單邊霸凌行為。中方敦促美方立即撤銷有關措施，停止錯誤做法。如果美方一意孤行，中方將堅決予以反制，維護自身正當權益。
+
+---
+
+### 2026-07-30 09:29:35  #MKT News #Market Regions #Greater China
+
+【China retail wallet money-market yield snapshot】Tencent Licaitong Current+ 7-day annualized yield ranged 0.7000%–1.4080% (high 1.4080%, low 0.7000%). WeChat Wallet Lingqiantong 7-day annualized yield ranged 0.9100%–1.0120%. Alipay Yu'ebao 7-day annualized yield ranged 0.9050%–1.0170%.
+
+---
+
+### 2026-07-30 09:29:06  #MKT News #Market Themes #China Tech Giants #AI Revolution
+
+【ByteDance launches AI org reshuffle: Feishu, Doubao and Volcano Engine teams to integrate】On July 29 ByteDance launched an AI-focused organizational restructuring. Feishu and Doubao product teams will be merged into a new Doubao product team led by Doubao head Zhao Qi; Feishu head Xie Xin will report to Zhao. Feishu’s GTM (marketing, sales, customer service) team will integrate with Volcano Engine to form a new ToB GTM organization, Creativity Service Platform, responsible for ByteDance’s MaaS and SaaS cloud services and led by Volcano Engine head Tan Dai; Feishu sales head Lin Chan and Feishu strategy and marketing head Shi Zhijun will report to Tan.
+
+---
+
+### 2026-07-30 09:28:28  #公司
+
+三星電子：下半年手機出貨量將下滑。
+
+---
+
+### 2026-07-30 09:28:23  #其他
+
+【氦星光聯打破商業航天鐳射通訊領域穩鏈時長紀錄】在“三體計算星座”鐳射通訊在軌測試中，氦星光聯團隊成功突破低成本鐳射通訊載荷長時穩定建鏈技術。“三體計算星座”首發星座高鏈鐳射鏈“05-08鏈”，基於1000km星距完成寬頻星間鐳射通訊驗證，實測高速業務資料可靠傳輸，達成鐳射鏈路長效穩定建鏈。單次長時穩鏈時長超192小時，斷鏈計數為0，通訊鏈路可用度達99.99%以上，創下商業航天鐳射通訊領域穩鏈時長新紀錄。
+
+---
+
+### 2026-07-30 09:28:22  #MKT News #005930.KS #Impact mixed
+
+Samsung Electronics said smartphone sales rose in Q2 versus Q1, but smartphone shipments are expected to decline in H2.
+
+---
+
+### 2026-07-30 09:28:16  #市場
+
+紫金黃金上漲2.6%，此前終止收購加拿大ALLIED GOLD的交易。
+
+---
+
+### 2026-07-30 09:27:54  #MKT News #Important
+
+A-share debut: N Xinxing opened up 197.8% on its first day, trading at 100.00 yuan; IPO price was 33.58 yuan.
+
+---
+
+### 2026-07-30 09:27:53  #市場
+
+A股新股N欣興上市首日開盤漲197.8%，現報100元，該股發行價為33.58元。
+
+---
+
+### 2026-07-30 09:27:46  #其他
+
+【位元組跳動啟動AI業務組織調整：飛書與豆包火山團隊整合】7月29日，位元組跳動啟動面向 AI 業務的組織調整。飛書產品團隊與豆包產品團隊將整合，成立新的豆包產品團隊，由豆包負責人趙祺負責，飛書負責人謝欣向趙祺彙報。GTM （市場、銷售、客戶服務）體系方面，飛書GTM團隊將與火山引擎團隊整合，成立新的 ToB GTM 組織“創造力服務平臺（Creativity Service Platform）”，整體負責位元組 MaaS和SaaS等雲服務的市場、銷售和客戶服務，由火山引擎負責人譚待負責，飛書銷售負責人林嬋、飛書戰略及市場負責人史志雋向譚待彙報。
+
+---
+
+### 2026-07-30 09:27:33  #其他
+
+【甘肅釋出地質災害氣象風險紅色預警】甘肅省自然資源廳、省氣象局7月30日8時30分發布地質災害氣象風險預警：預計未來24小時內（7月30日8時50分至7月31日8時50分），隴南市（武都區、成縣、文縣、康縣）發生崩塌、滑坡、泥石流等地質災害的風險很高（紅色預警）。甘南藏族自治州（舟曲縣），隴南市（宕昌縣、西和縣、禮縣、徽縣、兩當縣），天水市（秦州區、麥積區）發生崩塌、滑坡、泥石流等地質災害的風險高（橙色預警）。慶陽市（西峰區、慶城縣、環縣、華池縣、合水縣、正寧縣、寧縣、鎮原縣），定西市（通渭縣、隴西縣、漳縣、岷縣），天水市（清水縣、秦安縣、甘谷縣、武山縣、張家川回族自治縣），平涼市（崆峒區、涇川縣、靈臺縣、崇信縣、莊浪縣、靜寧縣、華亭市）發生崩塌、滑坡、泥石流等地質災害的風險較高（黃色預警），請注意防範。
+
+---
+
+### 2026-07-30 09:27:20  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #CSI300 #SZSE Component
+
+China's Shanghai Composite Index opened down 16.36 points (-0.43%) at 3,812.11; Shenzhen Composite Index opened down 127.37 points (-0.93%) at 13,531.07; CSI 300 Index opened down 34.22 points (-0.74%) at 4,566.05; China ChiNext Index opened down 47.38 points (-1.40%) at 3,331.32; China STAR 50 Index opened down 25.27 points (-1.51%) at 1,653.47.
+
+---
+
+### 2026-07-30 09:27:14  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+TASNIM NEWS said US forces struck Iran's southwestern Fars province and Kish Island in the Gulf. Two loud blasts were heard on Kish after the missile attack; the report said the island's airport and passenger ferry services were not affected.
+
+---
+
+### 2026-07-30 09:26:50  #公司
+
+三星SDS第二季營業利潤為2,318億韓元，同比增長0.7%。
+
+---
+
+### 2026-07-30 09:26:28  #國際
+
+伊朗西南部城市阿瓦士發生爆炸。
+
+---
+
+### 2026-07-30 09:26:17  #MKT News #005930.KS #Impact bullish
+
+Samsung Electronics said its display unit aims to remain profitable in H2.
+
+---
+
+### 2026-07-30 09:26:03  #公司
+
+三星電子：顯示業務目標在下半年維持盈利。
+
+---
+
+### 2026-07-30 09:25:59  #國際
+
+韓國因個人資料洩露對KT處以540億韓元罰款。
+
+---
+
+### 2026-07-30 09:25:52  #Trading Economics #Economy #New Zealand #Business Confidence #Importance 2
+
+New Zealand Business Sentiment Jumps to 5-Month High — New Zealand’s ANZ Business Outlook Index surged to 56.1 in July 2026 from 36.6 in the previous month, marking the strongest reading since February. Firms’ own activity outlook strengthened markedly (49.3 vs 36.9 in June), while assessments of past activity edged higher (9.7 vs 9.0), supported by easing oil prices as tensions in the Middle East continued to subside. Forward-looking indicators rose, with stronger export intentions (26.6 vs 18.1), profit expectations (28.7 vs 13.0), investment intentions (22.8 vs 16.5), and employment intentions (18.1 vs 9.4). At the same time, pricing intentions (47.2 vs 50.7), cost expectations (78.2 vs 84.7), and inflation expectations (3.14% vs 3.36%) all moderated, while wage growth expectations were broadly steady (2.52% vs 2.53%). Further, credit availability turned positive (1.4 vs -1.9). Sectoral sentiment strengthened notably in construction, with confidence rising in both residential (42.5 vs 25.0) and commercial construction (48.9 vs 28.9).
 
 ---
 
@@ -22790,173 +23036,5 @@ SK海力士漲2%，此前公佈二季度營業利潤飆升但不及預期，三�
 ### 2026-07-29 07:58:01  #公司 #市場
 
 【AI算力需求催熱上半年業績 MLCC產業鏈高景氣度下半年將延續】今年以來，受益於AI算力需求爆發，素有“電子工業大米”之稱的MLCC（片式多層陶瓷電容器）供應緊俏，價格持續上漲，帶動被動元器件行業景氣度回升，多家上市公司預計上半年業績實現大幅增長，最高增幅超過6倍。展望下半年，有行業人士向記者表示，7月以來，MLCC價格整體平穩，品類內部價格則分化加劇，AI和車規級高階高容產品價格繼續上漲。在AI伺服器需求旺盛、原廠產能被鎖定、上游貴金屬等原材料價格居高的背景下，預計下半年高階高容MLCC價格將繼續上漲，並有望推高被動元器件市場整體景氣度。（上海證券報）
-
----
-
-### 2026-07-29 07:57:30  #公司
-
-【東北證券：法院決定對第一大股東啟動預重整並指定臨時管理人】東北證券7月29日早間公告，公司於2026年7月28日收到第一大股東吉林亞泰（集團）股份有限公司（下稱亞泰集團）傳送的《關於法院決定對公司啟動預重整的告知函》，亞泰集團收到吉林省長春市中級人民法院作出的《決定書》，決定對亞泰集團啟動預重整，並指定亞泰集團清算組擔任其預重整臨時管理人。截至本公告披露日，亞泰集團持有公司股份數量為721,168,744股，佔公司股份總數的30.81%，其中，亞泰集團累計質押股份數量為355,190,000股，佔其所持公司股份總數的49.25%。亞泰集團進入預重整程式或者後續申請人對亞泰集團的重整申請被裁定受理，將可能對公司股權結構等產生影響。
-
----
-
-### 2026-07-29 07:57:08  #公司 #市場
-
-【SK海力士盤前股價抹去部分跌幅 此前公佈的第二財季營業利潤不及預期】SK海力士股價在Nextrade盤前交易中一度下跌6.5%，隨後在漲跌之間波動，此前該記憶體製造商公佈的第二財季營業利潤不及預期。關注記憶體同行及整個晶片板塊的動向。三星電子股價亦在漲跌之間波動。SK海力士表示，與上一季度相比，記憶體價格出現“顯著”上漲，並預計記憶體需求增長勢頭將持續。該公司已與約10家客戶簽署了長期協議；第二季度開始批次出貨HBM4，並將在下半年逐步擴大產能。
-
----
-
-### 2026-07-29 07:55:50  #國際
-
-【美加計劃舉行貿易會談 特朗普：我不在乎美墨加協定】美國總統特朗普週二表示，他不在乎更新美墨加協定（USMCA）一事。與此同時，加拿大透露計劃本週派遣高階貿易官員前往華盛頓進行進一步磋商。特朗普接受福克斯新聞頻道節目採訪時表示，美墨加協定對墨西哥和加拿大更為重要。當被問及是否會更新美墨加協定時，特朗普表示：“我不在乎。我的意思是，我其實並不想這麼做。我更願意保持獨立。關鍵在於：墨西哥和加拿大需要我們，而我們不需要他們。這項協定對他們很重要，但對我們來說並不重要。”特朗普政府7月1日決定不按現有條款續簽美墨加協定，啟動為期10年的“日落期”程式，除非三國在此之前能就修訂條款達成一致。
-
----
-
-### 2026-07-29 07:55:25  #國際
-
-【美參議院批准傑伊·克萊頓出任美國家情報總監】美國國會參議院28日投票批准美總統特朗普提名的傑伊·克萊頓出任國家情報總監。該職位將賦予其接觸美國最高階別國家機密的許可權，並負責統籌美國18個情報機構的工作。美參議院以51票贊成、47票反對的結果確認其任命，投票結果基本按照黨派立場劃分。克萊頓曾擔任美國證券交易委員會主席，現任紐約南區聯邦檢察官。
-
----
-
-### 2026-07-29 07:55:07  #國際
-
-日本讀賣新聞報道，日本首相高市早苗將推進食品銷售稅下調至1%。
-
----
-
-### 2026-07-29 07:53:51  #公司
-
-【MCN行業進入存量競爭階段 轉型策略出現明顯分化】依託短影片普及和直播電商崛起，國內MCN（多頻道網路）行業在過去十年迎來了爆發式擴張。憑藉達人簽約、內容創作、廣告植入、直播帶貨這套成熟商業模式，大批MCN機構快速崛起，一度被視作創投賽道的“風口”。近期，一則股權轉讓公告，暴露了MCN行業的經營困境。一家曾為直播平臺YY第一大公會的MCN機構，即便手握2000萬級粉絲頭部主播，年虧損仍接近7000萬元。這並非個例，記者梳理發現，包括多家新三板公司及上市公司在內，虧損成為國內MCN機構的普遍現狀。有業內人士坦言，行業已經進入存量競爭階段，受流量成本攀升、商業模式存在短板等問題影響，大小機構的生存路線、轉型策略正在出現明顯分化。
-
----
-
-### 2026-07-29 07:53:38  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Holds Decline as Oil Prices Rebound — Gold traded around $4,020 an ounce on Wednesday, holding the previous session’s decline as oil prices rebounded following renewed hostilities in the Middle East, reviving geopolitical tensions and keeping investors focused on inflationary pressures and the interest rate outlook. The US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East. Investors also awaited the Federal Reserve’s policy decision, where it is expected to leave interest rates unchanged. However, markets continue to price in about a one-third chance of a rate hike, reflecting an unusually high level of uncertainty this close to a policy announcement despite repeated calls from President Donald Trump for lower interest rates. Traders also assign roughly an 80% probability to a rate increase in September, reinforcing expectations that borrowing costs could remain elevated.
-
----
-
-### 2026-07-29 07:52:56  #公司 #市場
-
-【澳大利亞伍德賽德天然氣產量受氣旋、裝置檢修拖累大幅下滑】澳大利亞最大天然氣出口商伍德賽德能源集團釋出訊息，受氣旋干擾運營、普魯托出口工廠開展計劃性檢修雙重因素影響，截至 6 月的三個月內公司天然氣產量銳減超四分之一。伍德賽德週二提交監管檔案披露，其二季度天然氣產量同比下滑 27%，油氣總產出下降 18%，折算油當量為 4130 萬桶。同期公司實際銷售均價上漲 44%，霍爾木茲海峽航運受阻，卡達等液化天然氣競品出口商運輸受限是主要推漲因素。執行長莉茲・韋斯科特在報告中表示：“銷售均價走高為企業盈利與現金流提供支撐，印證我們多元化資產組合在宏觀經濟、大宗商品價格持續波動環境下具備抗風險能力。公司重點增長專案均按預算、計劃穩步推進。”
-
----
-
-### 2026-07-29 07:52:37  #MKT News
-
-President Trump congratulated Jay Clayton on his Senate confirmation as Director of National Intelligence, saying Clayton has performed excellently across the board and will do an outstanding job.
-
----
-
-### 2026-07-29 07:51:59  #市場
-
-納斯達克100指數期貨上漲0.6%，抹去了早前的跌幅。
-
----
-
-### 2026-07-29 07:51:43  #MKT News #Commodities
-
-【CITIC Construction Investment Research: Weak expectations, strong reality — lithium prices likely to sustain rebound】CITIC Construction Investment research says lithium has over-discounted prospective loosening; weekly inventories continue to fall and prices are oversold in the near term. Fundamentals remain strong for the year and supply stays tight: Baichuan data show several lithium-salt plants have announced maintenance, creating phased output cuts this month and next that should tighten short-term supply; heavy snow in South American salt lakes may further hit Q3 production and shipments. Demand has not softened through the July–August off-season—demand appears front‑loaded and downstream rigid procurement is supporting prices. Maintenance-driven supply reductions plus robust demand are continuing to draw inventories, underpinning a price floor and raising the odds of stronger prices into September–October.
-
----
-
-### 2026-07-29 07:50:59  #觀點
-
-【中信建投：年內預定利率預計保持穩定，儲蓄險長期競爭優勢不改】中信建投研報稱，本週證券板塊跑輸非銀及主要寬基指數，板塊整體呈韌性整固態勢。保險：年內預計不會有預定利率切換帶來的“炒停售”，同期較高基數下三季度新單增速或存在一定壓力，但長期仍看好居民龐大的穩健投資需求驅動新單保費較快增長。香港市場及港交所觀點：港股非銀板塊在低估值特徵與盈利改善預期共振下中長期配置價值凸顯。多元金融觀點：監管邏輯趨穩、促消費導向明確、AI技術提效的背景下，消費金融行業處於政策紅利與技術紅利的雙重驅動期。
-
----
-
-### 2026-07-29 07:50:26  #其他
-
-【新股提示：北交所珈凱生物今日申購】今日可申購北交所新股珈凱生物，珈凱生物發行總數約724萬股，發行市盈率14.98倍，申購程式碼為：920165，申購價格：19.26元。
-
----
-
-### 2026-07-29 07:50:04  #MKT News #Important #000660.KS
-
-SK Hynix to release Q2 earnings in 10 minutes.
-
----
-
-### 2026-07-29 07:49:49  #公司 #國際
-
-【沙特瓦利德王子斥資超1.2億美元買入電動車商Lucid約5%股份】當地時間7月28日，沙特王室成員、企業家瓦利德王子（瓦利德·本·塔拉勒·阿勒沙特）提交監管檔案披露，近期購入美國電動汽車製造商Lucid的1950萬股股票，相當於該公司5%的股份，價值超1.2億美元。
-
----
-
-### 2026-07-29 07:49:41  #市場
-
-【周大生：近期終端黃金珠寶經營態勢整體保持平穩】7月28日，周大生在接待機構調研時表示，近期終端黃金珠寶經營態勢整體保持平穩，消費市場對於金價漲跌不像以前那麼敏感，在逐步消解。
-
----
-
-### 2026-07-29 07:48:12  #公司 #國際
-
-【美國航空因IT問題導致全國範圍短暫停飛後恢復航班】美國航空公司及其地區航空公司表示，因IT系統故障導致全美航班短暫停飛後，已於週二晚間恢復航班運營。美國聯邦航空管理局（FAA）因IT系統故障，於美國東部時間下午6:30左右（GMT 22:30）對美國航空的航班下達了停飛令，該禁令於下午7:18解除。由於系統故障未解決前飛機無法起飛，此次故障導致數百個航班延誤；而此時，美國東海岸許多機場正因雷暴天氣而面臨嚴重延誤和停飛。“系統目前正在恢復執行，航班已重新起飛，”美國航空在一份宣告中表示。“在我們的團隊努力解決問題期間，我們實施了臨時停飛措施。我們對給客戶帶來的不便深表歉意。”航班追蹤網站FlightAware稱，美國航空週二共有1,100個航班延誤，佔當日航班總數的30%；另有221個航班被取消，佔6%。另一家航空網站Flightradar24表示，截至美國東部時間晚上7點，空中飛行航班數量比上週同期減少了130架次。
-
----
-
-### 2026-07-29 07:47:23
-
-SK海力士美股盤後轉漲，此前一度下跌9％。
-
----
-
-### 2026-07-29 07:46:33  #MKT News #Important #SKHY.O #Impact bullish
-
-SK Hynix (SKHY.O) shares turned higher in US after-hours trading after earlier sliding as much as 9%.
-
----
-
-### 2026-07-29 07:46:28  #國際
-
-【中東戰事導致伊拉克原油出口大幅下降】中東戰事爆發以來，霍爾木茲海峽通航幾近停滯，導致伊拉克原油出口大幅減少。伊拉克石油部7月28日發表宣告說，該國5月和6月共出口原油約3211萬桶，月均出口量遠低於中東戰事爆發前水平。統計資料顯示，5月和6月，伊拉克透過伊南部巴士拉出口原油約2024萬桶，透過伊北部基爾庫克出口原油約1031萬桶，透過伊北部庫爾德自治區出口原油約156萬桶。而在今年2月，伊拉克原油出口量約為9987萬桶。
-
----
-
-### 2026-07-29 07:45:59  #公司
-
-【A股定增一覽：6家公司披露定增進展】Wind資料顯示，7月29日，A股共6家公司釋出定增相關公告。其中1家公司披露股票定增預案，2家定增預案獲股東大會透過，2家定增預案獲交易所透過，1家定增預案獲證監會透過。從當日最新披露定增預案來看，立昂技術定增募資預案金額最高，擬定增不超2.55億元。今年以來，已有104家公司公告定增方案已完成，37家公司定增金額超10億元。具體來看，中國國航、中國神華、松發股份定增募資金額最高，募資總額分別為200.0億元、200.0億元、70.0億元。
-
----
-
-### 2026-07-29 07:45:49  #市場 #國際
-
-基準10年期日本國債期貨早盤上漲0.04點。
-
----
-
-### 2026-07-29 07:45:39  #市場 #國際
-
-日本日經平均指數期貨早盤上漲0.3%。
-
----
-
-### 2026-07-29 07:45:16  #市場 #國際
-
-【油價上漲，受伊朗突發導彈襲擊引發的供應中斷新擔憂提振】早盤油價上漲，因對供應中斷的擔憂重燃。近月西得州中質油期貨上漲4.1%，報每桶82.53美元。美國軍方表示，伊朗對駐中東美軍發動了出人意料的彈道導彈襲擊，標誌著在雙方連續四天未發生襲擊後局勢突然升溫。伊朗發動襲擊的幾個小時前，美國總統特朗普表示，如果無法達成停火協議，美國將重新對伊朗發動襲擊。此外，伊朗週二表示，拒絕了阿曼關於恢復霍爾木茲海峽交通的計劃，並提出了自己的提議，該提議將使德黑蘭對這一關鍵水道的航運擁有更多控制權。
-
----
-
-### 2026-07-29 07:44:19  #市場 #國際
-
-【在中東局勢不確定性情況下日經指數可能下跌】在伊朗衝突持續存在不確定性之際，日本股市可能下跌。在新加坡交易所，日經指數期貨下跌0.3%，至62320點。在伊朗對該地區的美國軍隊發動出人意料的彈道導彈襲擊後，中東局勢的發展成為關注焦點。在日本南部熊本縣發生強烈地震後，投資者也在密切關注對企業運營的任何干擾。日經指數週二下跌4.0%，至62364.92點。
-
----
-
-### 2026-07-29 07:43:50  #市場 #觀點
-
-【中信建投：多地散奶價格上漲催化乳製品板塊，關注資金再平衡】中信建投研報稱，大眾品量販賽道繼續高速開店，關注中報業績上修方向。1）關注零售新店型、商超定製等渠道變革機會，餐飲鏈復甦可期。新鮮零食賽道處在爆發前夜，金粒門幾多全等品牌開店進入加速期，關注新鮮零食門店及相關供應鏈。2）健康化賽道與功能化大單品。3）價格週期拐點。6月奶牛存欄量577.2萬頭、環比下降2.2萬頭，維持較快去化水平，其中成母牛存欄環比-0.8萬頭，6月生鮮乳產量同比+2.7%，主要系單產持續上漲，單產及產量增幅同步放緩。近期多地散奶價格上漲，肉奶共振推動原奶週期向好，利好龍頭液奶競爭格局改善，牛價持續上行帶動上游牧場盈利修復，奶價企穩下牧場利潤彈性更大。
-
----
-
-### 2026-07-29 07:43:41  #市場
-
-日經指數期貨在新加坡交易所開盤下跌260點，報62255點。
-
----
-
-### 2026-07-29 07:43:33  #國際
-
-【俄稱打擊烏無人機生產車間和倉庫 烏稱打擊俄戰略油庫】俄羅斯國防部7月28日通報稱，過去一天，俄軍對烏軍的彈藥庫、燃料庫、無人機生產車間和無人機儲存設施進行了打擊。此外，俄軍還打擊了烏軍使用的能源和交通基礎設施以及烏克蘭武裝部隊和外國僱傭兵在142個區域的臨時部署點，控制了頓涅茨克地區的紅庫特居民點。通報還稱，俄軍28日白天繼續打擊用於烏軍補給的港口和船隻。烏克蘭武裝部隊總參謀部28日通報稱，烏軍對俄多處軍事相關設施實施打擊，核心目標為俄羅斯烏德穆爾特共和國境內的一處聯合企業。該設施是封閉式國家級戰略油料儲備基地。除戰略油庫外，烏方還襲擊了多個地區的俄軍物資技術裝備倉庫、燃料潤滑材料倉庫和無人機倉庫。
 
 ---
