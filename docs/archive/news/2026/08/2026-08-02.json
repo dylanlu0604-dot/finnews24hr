@@ -1,7 +1,35 @@
 {
   "date": "2026-08-02",
-  "count": 20,
+  "count": 23,
   "items": [
+    {
+      "id": "mkt:019fbe45-cdcb-7aab-8f42-fb477db6075c",
+      "time": "2026-08-02 01:01:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "A Jordanian official said Iraq has informed Jordan it would strike pro-Iran militias if they attack Jordan, and Jordan expects Iraq to take measures to rein in those militias."
+    },
+    {
+      "id": "5020533",
+      "time": "2026-08-02 01:00:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列官員：緊張局勢達到頂峰，特朗普比以往任何時候都接近對伊朗發動重大攻擊。"
+    },
+    {
+      "id": "5020532",
+      "time": "2026-08-02 00:59:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦官方訊息人士：伊拉克方面通知我方，若親伊朗民兵襲擊約旦，伊拉克將對這些民兵實施打擊；我方期待伊拉克採取措施約束民兵武裝。"
+    },
     {
       "id": "5020531",
       "time": "2026-08-02 00:53:00",
