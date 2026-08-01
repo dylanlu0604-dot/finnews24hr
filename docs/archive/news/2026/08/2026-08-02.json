@@ -1,7 +1,17 @@
 {
   "date": "2026-08-02",
-  "count": 67,
+  "count": 68,
   "items": [
+    {
+      "id": "mkt:019fbec1-cdd2-7aab-8f43-8cc59e57ccb8",
+      "time": "2026-08-02 03:16:39",
+      "tags": [
+        "MKT News",
+        "WJA.TO",
+        "Impact bearish"
+      ],
+      "text": "Public Service Alliance of Canada (PSAC) said WestJet flight attendants have issued a 72-hour strike notice. WestJet subsequently issued a 72-hour work-stoppage notice."
+    },
     {
       "id": "mkt:019fbec0-121b-7aab-8f43-8164386bb888",
       "time": "2026-08-02 03:14:46",
