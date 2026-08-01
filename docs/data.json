@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-01 20:02:37",
-  "count": 18044,
+  "updated": "2026-08-01 20:07:08",
+  "count": 18045,
   "items": [
+    {
+      "id": "5020439",
+      "time": "2026-08-01 20:05:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其能源部長：過境運輸協議涵蓋每日75萬桶輸油運力，目前仍在為達成長期協議繼續推進相關工作。"
+    },
+    {
+      "id": "mkt:019fbd37-2c53-7aab-8f42-35ff5fdb4a1b",
+      "time": "2026-08-01 20:05:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Turkey's energy minister said transit arrangements have capacity of 750,000 bpd and that Turkey is continuing to work to secure a long-term agreement."
+    },
+    {
+      "id": "mkt:019fbd36-cdbb-7aab-8f42-2e8b32a5f1b2",
+      "time": "2026-08-01 20:05:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Turkey's energy minister said Turkey and Iraq signed a one-year agreement allowing use of the oil pipeline to Ceyhan."
+    },
+    {
+      "id": "5020436",
+      "time": "2026-08-01 20:04:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其能源部長表示，土耳其與伊拉克已就土耳其傑伊漢輸油管道的使用簽署一項為期一年的協議"
+    },
+    {
+      "id": "5020435",
+      "time": "2026-08-01 20:02:06",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【8月1日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.《求是》雜誌發表習近平總書記重要文章《加快建設健康中國》； 2.【新思想引領新徵程】在黨的旗幟下書寫強軍興軍新榮光； 3.我國現代化水網建設提速； 4.郵政行業寄遞業務量2030年將達2900億件； 5.第十二批國家組織藥品集採開標 藥品可及性持續提升； 6.超長期特別國債資金精準發力 加快補齊民生短板； 7.鐵路暑運過半 消夏旅遊列車激發消費活力； 8.國內聯播快訊： （1）水利部發布《中國節約用水報告2025》； （2）《退役軍人就業創業促進條例》今起正式實施； （3）《黃巖島國家級自然保護區管理辦法》印發； （4）中東部高溫天氣持續 東北局地防汛救災加緊進行； （5）中國—烏茲別克“經認證的經營者”（AEO）互認安排正式實施； （6）穗深城際全線貫通 廣深兩大機場軌道直連； （7）雄商高鐵河北段今天進入執行試驗階段； （8）海南首個“華龍一號”核電機組併網發電； （9）百噸級純電雙向行駛無人駕駛礦用自卸車成功投運； （10）第三批中國專家組赴剛果（金）支援埃博拉疫情防控； （11）2026中國西藏第七屆跨喜馬拉雅國際公路腳踏車極限賽開幕； 9.美媒披露美以欲猛烈轟炸伊朗能源設施 伊朗稱已制定全面應對計劃； 10.西班牙飛地移民危機死亡人數升至67人 義大利暫停與西班牙的申根自由通行機制 法德稱加強邊境管控； 11.法國東南部林火再度蔓延 羅馬尼亞全國因乾旱缺電進入警報狀態 世界氣象組織稱厄爾尼諾持續增強； 12.國際聯播快訊： （1）美稱向烏轉讓導彈生產技術須非常謹慎； （2）哈馬斯稱移交武器前提是以軍撤離加沙； （3）人工智慧發展推升一季度全球商品貿易； （4）美軍一架F-35隱形戰機在加州墜毀； （5）遭強烈反對 國際足聯放棄新商業提案。"
+    },
     {
       "id": "5020434",
       "time": "2026-08-01 20:00:57",
@@ -167000,40 +167048,6 @@
         "Brent"
       ],
       "text": "【Houthi forces say they twice struck ARAMCO targets in Jizan and Yanbu】On July 25 Houthi forces said they launched two attacks in response to Saudi airstrikes on Hodeidah city, Hodeidah port and Kamaran Island. They said the first strike used dozens of ballistic missiles and drones against ARAMCO \"sensitive targets\" in Jizan; the second used ballistic missiles, cruise missiles and drones against ARAMCO \"sensitive targets\" in Yanbu. The group claimed both strikes \"successfully achieved their aims\" and scored \"precise, direct hits.\" It accused Saudi Arabia of maintaining a blockade of Yemen, said maritime blockade measures targeting Saudi Arabia will continue, and warned it may expand operations and escalate over the coming hours and days."
-    },
-    {
-      "id": "5007988",
-      "time": "2026-07-25 20:06:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【胡塞武裝稱一天內兩次打擊沙特】葉門胡塞武裝今天（7月25日）發表宣告稱，為回應沙特此前對荷臺達市、荷臺達港及卡馬蘭島實施空襲，胡塞武裝力量當天開展兩次軍事行動。 宣告稱，第一次行動使用數十枚彈道導彈和無人機，打擊位於沙特吉讚的沙特阿美公司“敏感目標”；第二次行動使用彈道導彈、巡航導彈和無人機，打擊位於延布的沙特阿美公司“敏感目標”。宣告稱，兩次行動均“成功實現預定目標”，並造成“精確、直接命中”。 宣告指責沙特持續對葉門實施封鎖並侵犯葉門主權，稱胡塞武裝將繼續採取行動予以回應，並表示針對沙特的海上封鎖措施仍將持續，不排除根據未來數小時和數天局勢發展進一步擴大行動和升級措施。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f992b-06f4-7aab-8e95-0a6acc12bfbb",
-      "time": "2026-07-25 20:06:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【8th Private Enterprise Cooperation Conference opens in Yibin, Sichuan】The 8th Private Enterprise Cooperation Conference opened July 25 in Yibin, Sichuan. The forum focused on cultivating new productive forces, deeper integration of digital and real economies, and coordinated industrial-chain development. Programming included a main conference, private-sector digital/intelligent transformation promotion, enterprise project matchmaking, city promotion and brand exhibitions. Target sectors: digital economy, AI, biopharma, modern agriculture and advanced manufacturing. Organizers launched multiple industrial projects aimed at building regional industry clusters and supporting private-enterprise upgrading."
-    },
-    {
-      "id": "5007987",
-      "time": "2026-07-25 20:05:01",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【第八屆民營企業合作大會在宜賓召開】7月25日，第八屆民營企業合作大會在四川省宜賓市召開。市場監管總局黨組成員、副局長，中國個體勞動者協會會長束為出席大會並作主旨演講，四川省人民政府黨組成員、副省長任京東出席大會並致辭。本屆大會以“立上游，開新局”為主題，全國300餘家民營企業代表，以及專家學者、行業代表匯聚宜賓，共話發展新機遇、共探合作新路徑、共繪產業新藍圖。大會立足新時代民營經濟發展大局，緊扣新質生產力培育、數實深度融合、產業鏈協同融通發展主線，設定主題大會、民營企業數智化轉型促進活動、企業專項對接會、宜賓市城市宣傳推廣活動、民營企業品牌形象展示等系列活動，內容覆蓋數字經濟、人工智慧、生物醫藥、現代農業、先進製造等重點領域，推出多個優質產業專案，為區域產業建圈強鏈、民營企業提質升級注入強勁動能。（市場監管總局）"
-    },
-    {
-      "id": "5007986",
-      "time": "2026-07-25 20:04:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【閔行區啟用虹橋國際青年創業港，首批13個新銳青年創業專案入駐】7月25日，閔行區召開青年人才創新創業生態建設推進會，宣佈正式啟用虹橋國際青年創業港，並同步釋出虹橋青年科創服務包。活動現場為首批入駐專案、海外人才工作站授牌，聘任新一批全球引才大使，舉辦“青年創業者說”主題分享。虹橋國際青年創業港位於虹橋國際開放樞紐核心承載區，透過強化政策供給、最佳化服務體系、深化產業協同、打造青年社群，構建集創業孵化、產業對接、國際服務於一體的全球青年創新創業“首站、首接、首引、首發”平臺。港核心心運營空間分為綜合服務活動中心與零成本眾創孵化辦公區，設創業集市、M+咖啡、路演大廳等配套，打造階梯式零成本共享辦公空間，適配不同階段創業團隊。空間試運營三個月以來，已吸引13個新銳青年創業專案成功入駐。首批入駐專案涵蓋多個前沿科技賽道，是閔行青年科創力量的優秀代表。（上觀新聞）"
     }
   ]
 }
