@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-02 01:38:04_
-_本檔包含 3532 則快訊，約 673175 字_
+_更新時間：2026-08-02 02:36:40_
+_本檔包含 3531 則快訊，約 673747 字_
+
+---
+
+### 2026-08-02 02:34:57  #國際
+
+特朗普在社交媒體發文：正在摧毀伊朗的貨幣。
+
+---
+
+### 2026-08-02 02:28:56  #其他
+
+西捷航空：仍留在談判桌前，致力於透過談判達成一份暫定協議。
+
+---
+
+### 2026-08-02 02:28:45  #其他
+
+西捷航空：因罷工威脅，截至山地時間8月1日上午11點，已取消86架次航班。
+
+---
+
+### 2026-08-02 02:28:02  #其他
+
+西捷航空：因工會發出罷工通知，開始釋出航班取消通知。
+
+---
+
+### 2026-08-02 02:26:36  #國際
+
+伊拉克訊息人士：敘利亞通知伊拉克，監測到伊朗支援的民兵組織在兩國邊境附近調動。
+
+---
+
+### 2026-08-02 02:23:11  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #Brent
+
+Trump: I am destroying Iran's currency; Iran faces severe inf.
+
+---
+
+### 2026-08-02 02:22:40  #MKT News
+
+【Explosion at central Moscow restaurant kills three, injures 15】An explosion at a restaurant in central Moscow on Aug 1 killed three and injured 15, Moscow police said. Emergency services responded to the scene; preliminary reports attribute the blast to a gas leak.
+
+---
+
+### 2026-08-02 02:21:20  #其他
+
+全美汽車工人聯合會：密歇根州森特萊恩市斯特蘭蒂斯一處廠區發生致命工傷事故，將對此開展調查，並要求企業提供完整事故詳情。
+
+---
+
+### 2026-08-02 02:19:47  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Israeli official says US close to approving strike on Iran; Israel on high alert】On Aug 1 an Israeli official said US President Trump is closer than ever to approving a major military strike on Iran, though no decision is final. US options reportedly focus on precise, limited strikes on specific Iranian energy facilities, and US planners prefer Israel not to participate in an initial phase. Israel assesses a significant US attack would likely prompt Iranian military retaliation against Israel and could draw Israel into wider fighting; Israeli defense forces are on high alert.
+
+---
+
+### 2026-08-02 02:18:31  #焦點 #國際
+
+【以官員稱美接近批准對伊軍事打擊 以方保持高度警惕】當地時間8月1日，據一名以色列官員透露，以色列方面評估認為，美國總統特朗普目前比以往任何時候都更接近批准對伊朗發動重大軍事襲擊，但相關計劃尚未最終確定。根據該官員披露的預案細節，美方考慮對伊朗的特定能源設施進行精準且受限的打擊。評估顯示，美方目前傾向於不讓以色列參與第一階段的最初襲擊。但以色列方面認為，美國一旦對伊朗發動重大襲擊，很可能會直接引發伊朗對以色列的軍事報復，而以色列屆時或將被迫捲入衝突並加入戰局。目前，以色列國防機構因此保持高度警惕。（央視新聞）
+
+---
+
+### 2026-08-02 02:17:42  #國際
+
+特朗普社交媒體發文：正是在其的治理下，美國石油出口量大幅飆升。
+
+---
+
+### 2026-08-02 02:15:36  #國際
+
+特朗普：第51個州（委內瑞拉）。
+
+---
+
+### 2026-08-02 02:14:58  #MKT News #Market Regions #Europe & UK
+
+【EU to hold emergency meeting on Ceuta migrant crisis】On Aug 1 the EU said it will hold an emergency videoconference of interior ministers on Aug 4 to discuss the migrant crisis in the Spanish enclave of Ceuta and coordinate EU response measures. The meeting was proposed by Spain. Spanish Prime Minister Sanchez has written to Ireland, which holds the rotating EU presidency, Commission President Von der Leyen and European Council President Costa urging a coordinated EU response.
+
+---
+
+### 2026-08-02 02:14:33  #國際
+
+【俄羅斯莫斯科市中心一餐飲店發生爆炸 造成人員傷亡】當地時間8月1日，俄羅斯莫斯科市中心一間餐飲店發生爆炸，多輛消防車和救護車駛往事故發生地。初步訊息顯示爆炸由燃氣洩漏引起。莫斯科警方稱，事故已造成3人死亡、15人受傷。
+
+---
+
+### 2026-08-02 02:13:04  #國際
+
+【歐盟宣佈將召開緊急會議討論休達移民危機】當地時間8月1日，歐盟宣佈將於4日以視訊會議形式召開歐盟成員國內政部長緊急會議，討論西班牙飛地休達移民危機及歐盟應對措施。此次會議由西班牙提議召開。西班牙首相桑切斯此前已致信歐盟理事會輪值主席國愛爾蘭、歐盟委員會主席馮德萊恩和歐洲理事會主席科斯塔，呼籲歐盟協調應對當前移民危機。
+
+---
+
+### 2026-08-02 02:10:36  #焦點 #國際
+
+【以媒稱美接近批准襲擊伊朗能源設施】以色列第12頻道電視臺當地時間8月1日援引以色列官員的話報道稱，以色列方面評估認為，美國總統特朗普“比以往任何時候都更接近批准對伊朗發動重大軍事打擊”，但相關計劃尚未最終確定。報道稱，美方考慮對伊朗的“特定能源設施”進行“精準且受限的打擊”。評估顯示，美方目前“傾向於不讓以色列參與第一階段的最初襲擊”。但以色列方面認為，美國一旦對伊朗發動重大襲擊，很可能會直接引發伊朗對以色列的軍事報復，而以色列屆時或將“被迫捲入衝突並加入戰局”。目前，以色列國防機構正保持高度警惕。（CCTV國際時訊）
+
+---
+
+### 2026-08-02 01:51:02  #國際
+
+市場資訊：美國官員稱，伊朗方面近日舉動極具挑釁性。
+
+---
+
+### 2026-08-02 01:50:43  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+The UAE foreign ministry said Iran's aggressive attack openly violated Kuwait's sovereignty and threatened its security and stability.
+
+---
+
+### 2026-08-02 01:46:54  #MKT News
+
+Former U.S. vice president Harris said Trump is an isolationist who repeatedly invokes "America First." By failing to understand America's role — imperfect though it is — he has made the U.S. a less reliable partner and driven U.S. authority in global affairs to an unprecedented low.
+
+---
+
+### 2026-08-02 01:44:21  #MKT News
+
+Former U.S. vice president Kamala Harris said the Iran war is a conflict incumbent President Trump chose to enter, that he has allied with Israel in the fighting, and that it does not pose a clear U.S. national security threat.
+
+---
+
+### 2026-08-02 01:44:19  #國際
+
+美國前副總統哈里斯：特朗普秉持所謂“美國優先”綱領，奉行孤立主義。他未能理解美國在世界上扮演的角色——儘管我們自身並不完美，由此造成兩大後果，一是讓美國看上去不再是可靠的合作伙伴；二是致使美國如今在全球事務上的影響力跌至歷史低點。
+
+---
+
+### 2026-08-02 01:43:08  #其他
+
+【巴基斯坦雪崩致1名中國公民失聯 我使館敦促巴方全力搜救】7月30日，一支國際登山隊在喀喇崑崙山脈布洛阿特峰遭遇雪崩後失聯。8月1日，中國駐巴基斯坦大使館領僑處向總檯記者證實，該登山隊的失蹤者中包括1名中國公民。我使館表示，事件發生後，使館已啟動領事保護應急機制，與巴方有關部門保持密切聯絡，敦促其全力搜救失聯中國公民，並及時通報搜救進展。（央視新聞）
+
+---
+
+### 2026-08-02 01:41:25  #國際
+
+美國前副總統哈里斯談伊朗：這場戰爭是特朗普主動選擇捲入的衝突，他與以色列聯手開戰，而我國並沒有明確的國家安全利益受到威脅。
 
 ---
 
@@ -21161,149 +21299,5 @@ Australia | Private Sector Credit (YoY) (Jun) | actual 8.5% | previous 8.20%
 ### 2026-07-31 09:31:22  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish
 
 【Equity index futures open higher in morning session】China equity index futures opened higher in the morning session: CSI 300 main contract (IF) +1.73%, SSE 50 main contract (IH) +0.89%, CSI 500 main contract (IC) +3.56%, CSI 1000 main contract (IM) +3.54%.
-
----
-
-### 2026-07-31 09:31:20  #MKT News #Market Regions #Greater China #CNH #Impact bearish #Hang Seng Index #CSI300
-
-China composite PMI (July) 49.3; prior 50.6.
-
----
-
-### 2026-07-31 09:31:13  #MKT News #Economic Calendar #Important
-
-China | Composite PMI (Jul) | actual 49.3 | previous 50.6
-
----
-
-### 2026-07-31 09:31:12  #MKT News #CNH
-
-【China spare-cash parking: money-market yield snapshot】Tencent's Licaitong (Current+) 7-day annualized yields ranged 0.7040%–1.4270%; WeChat Wallet's Lingqiantong 7-day annualized yields ranged 0.9120%–1.0000%; Alipay's Yu'e Bao 7-day annualized yields ranged 0.9090%–1.0140%.
-
----
-
-### 2026-07-31 09:31:09  #MKT News #Market Regions #Greater China
-
-【China government bond futures morning open】China government bond futures front contracts at morning open: 2-year (TS) +0.02%, 5-year (TF) +0.04%, 10-year (T) +0.06%, 30-year (TL) +0.17%.
-
----
-
-### 2026-07-31 09:31:04  #市場
-
-大盤主力淨流入超100億。
-
----
-
-### 2026-07-31 09:31:03  #市場 #焦點
-
-科創50日內漲幅達7.84%，成分股中，源傑科技漲15.07%，中科飛測漲14.04%，華虹宏力漲13.40%，佰維儲存漲13.26%。
-
----
-
-### 2026-07-31 09:30:40  #MKT News #Important #Market Regions #Greater China #CNH #Impact bearish #CSI300 #Copper
-
-China's official manufacturing PMI fell to 49.2 in July, below consensus 50.1 and June's 50.3, returning to contraction territory below the 50 threshold.
-
----
-
-### 2026-07-31 09:30:33  #市場 #焦點
-
-北證50日內漲幅達3.04%，成分股中，華嶺股份漲16.49%，戈碧迦漲14.56%，錦華新材漲9.95%，並行科技漲7.70%。
-
----
-
-### 2026-07-31 09:30:32  #MKT News #Economic Calendar #Important
-
-China | Official Manufacturing PMI (Jul) | actual 49.2 | consensus 50.1 | previous 50.3
-
----
-
-### 2026-07-31 09:30:32  #MKT News #Market Regions #Greater China #CNH #Impact bearish #CSI300
-
-China July non-manufacturing PMI 49.0, vs 50.0 expected and 50.2 prior.
-
----
-
-### 2026-07-31 09:30:28  #市場 #焦點
-
-【7月份中國製造業採購經理指數為49.2% 製造業生產端韌性較好】國家統計局服務業調查中心、中國物流與採購聯合會今天（31日）公佈7月份中國採購經理指數。受季節性因素影響，製造業執行放緩。裝備製造業和高技術製造業持續擴張。製造業執行放緩 新動能保持擴張7月份中國製造業採購經理指數為49.2%，較上月下降1.1個百分點。從歷史資料來看，受高溫多雨以及颱風等季節性因素影響，多數年份的7月份，製造業採購經理指數環比均有下行。從分項指數看，7月份製造業國內外市場需求均有所放緩。生產指數為49.9%，接近50%的臨界點，說明我國製造業生產端韌性較好，在極端天氣影響下仍具備穩定執行基礎。國家統計局服務業調查中心首席統計師霍麗慧分析，從行業來看，通用裝置、計算機通訊電子裝置等行業的生產指數和新訂單指數都高於53%，相關行業市場活躍度較高，產需較快增長。7月份，裝備製造業、高技術製造業採購經理指數分別為51.4%和53.3%，明顯高於製造業總體，保持較快擴張，帶動製造業發展向新向優。專家表示，儘管極端天氣對企業執行、物流運輸等有所影響，但是我國製造業新動能仍保持較好擴張態勢。中國物流與採購聯合會副會長兼秘書長馬增榮介紹，新動能不僅持續保持向好發展態勢，抗風險能力也不斷加強，有效對沖傳統產業波動，經濟高質量發展向深向實。從價格相關指數來看，受近期部分大宗商品價格波動等因素影響，原材料購進價格指數連續四個月環比下降，製造業整體原材料價格上漲勢頭持續放緩。從市場預期來看，7月生產經營活動預期指數為54.1%，連續2個月執行在54%以上，顯示製造業企業對後市保持穩定樂觀預期。專家表示，隨著極端天氣影響消退，前期受影響地區的企業產能和供應鏈執行恢復正常，市場需求穩定釋放，預計8月份製造業有較好的趨穩回升基礎。
-
----
-
-### 2026-07-31 09:30:28  #MKT News #Important #Market Regions #Greater China #CNH #Impact bearish #CSI300 #Hang Seng Index
-
-China manufacturing PMI for July stood at 49.2%, with the production side showing relative resilience.
-
----
-
-### 2026-07-31 09:30:25  #MKT News #Economic Calendar #Important
-
-China | Non-Manufacturing PMI (Jul) | actual 49 | consensus 50 | previous 50.2
-
----
-
-### 2026-07-31 09:30:17  #MKT News #AUDUSD #Impact bullish
-
-Australia private-sector loans MoM +0.8% vs +0.6% est; prior +0.7%.
-
----
-
-### 2026-07-31 09:30:11  #資料
-
-澳大利亞第二季度PPI季率 1.3%，前值0.40%。澳大利亞第二季度PPI年率 3.6%，前值3.00%。
-
----
-
-### 2026-07-31 09:30:11  #MKT News
-
-Australia Q2 producer-price inflation YoY 3.6%; prior 3.0%.
-
----
-
-### 2026-07-31 09:30:10  #MKT News
-
-Australia Q2 PPI (QoQ) +1.3%; prior +0.4%.
-
----
-
-### 2026-07-31 09:30:09  #MKT News #Economic Calendar #Important
-
-Australia | Private Sector Credit (MoM) (Jun) | actual 0.8% | consensus 0.60% | previous 0.70%
-
----
-
-### 2026-07-31 09:30:06  #經濟數據 #中國
-
-【國家統計局：7月官方製造業PMI為49.2%】7月份，製造業採購經理指數（PMI）為49.2%，比上月下降1.1個百分點，景氣水平有所回落。從企業規模看，大、中、小型企業PMI分別為49.5%、49.7%和47.4%，比上月下降1.2個、0.8個和0.8個百分點，均低於臨界點。從分類指數看，構成製造業PMI的5個分類指數中，生產指數、新訂單指數、原材料庫存指數、從業人員指數和供應商配送時間指數均低於臨界點。
-
----
-
-### 2026-07-31 09:30:05  #Trading Economics #Economy #China #Government Bond 10Y #Importance 1
-
-China 10Y Bond Yield Hits 8-week Low — China 10 Year Government Bond Yield decreased to 1.71%, the lowest since June 2026. Over the past 4 weeks, China 10Y Bond Yield lost 2.50 basis points, and in the last 12 months, it decreased 1.00 basis points.
-
----
-
-### 2026-07-31 09:30:04  #市場 #焦點
-
-滬深300指數期貨連續主力合約日內漲2%，現報4599.80點。
-
----
-
-### 2026-07-31 09:30:03  #市場 #焦點
-
-中證500指數期貨連續主力合約日內漲4%，現報7536.60點。
-
----
-
-### 2026-07-31 09:30:03  #市場 #焦點
-
-科創50日內漲幅達8.37%，成分股中，源傑科技漲16.92%，中科飛測漲14.04%，佰維儲存漲13.26%，瀾起科技漲12.98%。
-
----
-
-### 2026-07-31 09:30:02  #市場 #焦點
-
-中證1000指數期貨連續主力合約日內漲4%，現報7123.40點。
 
 ---

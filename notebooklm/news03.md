@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-02 01:38:04_
-_本檔包含 3794 則快訊，約 672775 字_
+_更新時間：2026-08-02 02:36:40_
+_本檔包含 3799 則快訊，約 673791 字_
+
+---
+
+### 2026-07-30 09:41:37  #MKT News #Important
+
+China A-share precious metals sector rose in early trade; Zhaojin Gold hit the daily limit, while Chifeng Gold, Western Gold, Zhongjin Gold, Sichuan Gold and Shanjin International also advanced.
+
+---
+
+### 2026-07-30 09:41:28  #公司 #國際
+
+韓國綜指漲幅擴大至5%，現報5950.55點。個股方面，三星電子漲超6%，SK海力士漲超3%。
+
+---
+
+### 2026-07-30 09:41:23  #Trading Economics #Economy #Australia #Building Permits MoM #Importance 1
+
+Australia Building Permits Unexpectedly Rise — Australia's seasonally adjusted dwelling approvals rose 7.2% month-on-month to a four-month high of 18,328 units in June 2026, defying expectations of a 1% fall and following a revised 2.7% decline in May. The increase was driven by a 17.8% rebound in approvals for private sector dwellings excluding houses to 7,138 units, while approvals for private sector houses edged up 0.4% to 10,631. Compared with a year earlier, total dwelling approvals increased 8.9%, with approvals for private sector houses rising 15.8%, while approvals for private sector dwellings excluding houses slipped 1.5%. In trend terms, total dwelling approvals rose 2.0% to 18,449 units. Across the states, trend approvals increased in New South Wales (3.9%), Queensland (4.1%), South Australia (1.0%), Tasmania (1.5%), and the Northern Territory (3.6%), were unchanged in Victoria, and declined in Western Australia (-0.2%) and the Australian Capital Territory (-3.6%).
+
+---
+
+### 2026-07-30 09:41:09  #市場
+
+【港股教育股走強 新東方漲近16%】截至發稿，新東方-S(09901.HK)漲15.68%，光正教育(06068.HK)漲4.69%。
+
+---
+
+### 2026-07-30 09:41:08  #MKT News #Market Themes #Chip Wars
+
+Samsung Electronics expects HBM market share in H2 to be consistent with its overall DRAM market share.
+
+---
+
+### 2026-07-30 09:40:59  #MKT News #Important #005930.KS #Impact bullish
+
+Samsung Electronics shares rose 7%.
+
+---
+
+### 2026-07-30 09:40:54  #公司 #市場
+
+三星電子股價上漲7%。
+
+---
+
+### 2026-07-30 09:40:47  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
+
+China A-share photolithography-equipment sector fell for a third straight session; Zhongchuan Special Gas and Jiezhong Technology tumbled over 8%, with Wavelength Optoelectronics, Dongfang Jiasheng, Maolai Optical and Xinlai Yingcai also down.
+
+---
+
+### 2026-07-30 09:40:40  #公司
+
+三星電子：預計下半年HBM市場份額將與DRAM整體市場份額持平。
+
+---
+
+### 2026-07-30 09:40:24  #公司
+
+三星電子：高頻寬記憶體4（HBM4）第三季度收入較第二季度增長兩倍以上。
+
+---
+
+### 2026-07-30 09:40:17  #其他
+
+LG新能源將於第三季度重啟位於俄亥俄州的Ultimate Cells工廠的運營。
+
+---
+
+### 2026-07-30 09:39:46  #MKT News
+
+Taiwan Weighted Index gains over 2%.
+
+---
+
+### 2026-07-30 09:39:45  #公司
+
+三星：2027年記憶體供應緊張形勢將更加嚴峻。
+
+---
+
+### 2026-07-30 09:39:31  #公司 #市場
+
+【智慧駕駛概念表現活躍 浙江世寶直線漲停】智慧駕駛概念表現活躍，浙江世寶直線漲停，萬集科技、索菱股份、北汽藍谷、金龍汽車跟漲。
+
+---
+
+### 2026-07-30 09:39:23  #市場 #觀點
+
+貴金屬板塊早盤拉昇，招金黃金觸及漲停，赤峰黃金、西部黃金、中金黃金、四川黃金、山金國際跟漲。
+
+---
+
+### 2026-07-30 09:39:13  #其他
+
+【光刻機板塊再度走弱 中船特氣、捷眾科技跌超8%】光刻機板塊再度走弱，中船特氣、捷眾科技跌超8%，波長光電、東方嘉盛、茂萊光學跟跌。
+
+---
+
+### 2026-07-30 09:39:13  #MKT News #005930.KS #Impact mixed
+
+Samsung Electronics said its policy to return 50% of free cash flow to shareholders could be affected by customer deposits and employee bonuses.
+
+---
+
+### 2026-07-30 09:39:07  #市場
+
+【港股黃金股走強 紫金黃金國際漲近5%】截至發稿，紫金黃金國際(02259.HK)漲4.84%，珠峰黃金(01815.HK)漲3.37%，赤峰黃金(06693.HK)漲3.27%。
+
+---
+
+### 2026-07-30 09:39:00  #公司
+
+三星電子表示，晶片供應短缺情況將在2027年進一步加劇，並延續至2028年。
+
+---
+
+### 2026-07-30 09:38:39  #公司
+
+三星：預計全年移動裝置平均售價和銷量均將增長。
+
+---
+
+### 2026-07-30 09:38:30  #Trading Economics #Economy #Australia #Export Prices MoM #Importance 1
+
+Australia Export Prices Rise 1.1% in Q2 — Australia's export prices climbed 1.1% quarter-on-quarter in Q2 2026, after a 0.5% rise in the previous quarter. It was the third consecutive quarterly increase, driven primarily by a 5.4% rise in coal, coke, and briquettes due to higher thermal coal prices amid stronger demand. Meanwhile, petroleum and related products jumped 22.7%, buoyed by higher oil prices due to ongoing tensions in the Middle East. Crude fertilisers also surged 20.9%, reflecting growing demand for lithium used in the battery storage and electric vehicle sectors, as well as constrained Chinese inventories. However, the increase was offset by declines in non-monetary gold (-8.8%), as tightening monetary policy expectations and higher US Treasury bond yields outweighed safe-haven demand, and metalliferous ores and metal scrap (-1.4%), which were weighed down by high Chinese iron ore stockpiles and strong global supply conditions.
 
 ---
 
@@ -22772,101 +22898,5 @@ Saudi Arabia's Ministry of Defense said it struck targets of Iran-backed groups 
 ### 2026-07-29 08:32:32  #MKT News #Market Themes #AI Revolution
 
 【1,132 frontier AI employees urge US to lead international effort to slow frontier AI development】A joint statement signed by 1,132 employees at frontier AI firms including OpenAI, Meta, Google and Anthropic warned automation of AI R&D may be near and, while timing is uncertain, a material risk exists that rapid capability breakthroughs could outpace human understanding and control. The signatories said industry, governments and society need time to address emerging risks, build safety guardrails and strengthen regulatory frameworks, but firms and countries face a competitive dilemma—no one is willing to slow alone. They urged the US government to build on existing monitoring of frontier model releases and push an international collaboration to develop the technical and governance tools needed to prudently guide automated AI R&D.
-
----
-
-### 2026-07-29 08:31:45  #公司
-
-【新易盛：正有序推進H股發行相關工作】新易盛7月29日在互動平臺表示，公司正有序推進H股發行相關工作，公司將嚴格按照相關法律法規履行資訊披露義務。
-
----
-
-### 2026-07-29 08:31:37  #其他
-
-共同社報道，豐田汽車位於九州的三座工廠已於週三恢復生產。
-
----
-
-### 2026-07-29 08:30:15  #國際
-
-【中國駐美大使會見彭博社總編，就中美關係與媒體合作等交換意見】7月27日，中國駐美國大使謝鋒會見彭博社總編米思偉，雙方就中美關係、中美媒體合作等交換意見。
-
----
-
-### 2026-07-29 08:30:04  #國際
-
-據共同社報道，日本政府官員稱，熊本地震已造成十餘人疑似因災死亡。
-
----
-
-### 2026-07-29 08:29:43  #公司 #國際
-
-【超千名全球AI從業者聯名請求美政府支援國際合作，建立AI“剎車”機制】當地時間7月28日，來自OpenAI、Anthropic、谷歌等十餘家前沿AI公司的1134名研究人員和從業者，共同簽署了一份題為《掌控前沿技術》的公開宣告，指出全球領先AI公司可能已接近實現自動化AI研究，存在AI能力發展速度超出人類理解與控制能力的風險。但由於各企業與各國均面臨激烈競爭壓力、無人願單方面減速，聯名信請求美國政府支援一項國際合作，開發必要的技術與治理工具，以便有意識地掌控前沿自動化AI發展的節奏。
-
----
-
-### 2026-07-29 08:27:36  #其他
-
-SK海力士：與客戶簽訂的一般長期協議有效期約為5年。
-
----
-
-### 2026-07-29 08:27:31  #MKT News #SKHY.O
-
-SK Hynix (SKHY.O) said long-term customer contracts typically run about five years.
-
----
-
-### 2026-07-29 08:27:28  #MKT News #Market Themes #Chip Wars #SKHY.O #Impact bullish
-
-SK Hynix (SKHY.O) said it expects the risk of memory oversupply to be limited amid capacity expansion.
-
----
-
-### 2026-07-29 08:26:58  #Trading Economics #Economy #Japan #Food Inflation #Importance 1
-
-Japan Food Sales Tax Set at 1% Under Takaichi’s Proposal — Japan plans to temporarily cut its sales tax on food and drinks to 1% for two years, Bloomberg reported. The government chose a low positive rate instead of zero to avoid the costly, time-consuming reprogramming of retailers’ cash registers; a 0% rate would take about a year to implement, while 1% could halve that timeline. To take effect in April 2027, the measure must still be legislated and passed by the Diet (parliament), with draft legislation expected in an extraordinary session in autumn 2026. Policymakers hope the measure will ease household burdens, though economists warned that prices may not fall as much as expected, limiting the benefit for consumers.
-
----
-
-### 2026-07-29 08:26:21  #其他
-
-SK海力士：預計因產能擴張導致記憶體供應過剩的可能性有限。
-
----
-
-### 2026-07-29 08:24:48  #國際
-
-【美國中央司令部：美國和沙烏地阿拉伯襲擊了伊拉克境內伊朗支援的武器設施】美國中央司令部：7 月 28 日，美國中央司令部與沙烏地阿拉伯武裝部隊在伊拉克發動精準打擊，目標為受伊朗革命衛隊指使、襲擊美軍及沙特能源設施的親伊朗武裝人員。過去 72 小時內，親伊朗武裝在伊朗革命衛隊指揮下發動逾 30 架次無人機襲擊，作為強硬回應，美沙兩國戰機對伊拉克東部多處武裝後勤據點與武器存放點實施空襲。此前針對美軍的無端襲擊均未得逞。2026 年 2 月至 4 月期間，伊拉克境內親伊朗武裝民兵針對美國公民及美方設施發動超 600 起襲擊圖謀。伊朗革命衛隊及其下屬武裝代理人必須停止此類襲擊，否則美國將採取進一步軍事行動。
-
----
-
-### 2026-07-29 08:23:18  #市場 #國際
-
-歐洲斯托克50指數期貨上漲0.4%，德國DAX指數期貨上漲0.3%，富時指數期貨上漲0.1%。
-
----
-
-### 2026-07-29 08:22:54  #焦點 #國際
-
-美國中央司令部：美國中央司令部與沙烏地阿拉伯武裝部隊於當地時間7月28日在伊拉克實施了精確打擊，目標為受伊朗伊斯蘭革命衛隊（IRGC）指揮、曾攻擊美軍及沙特能源基礎設施的親伊朗“恐怖分子”。
-
----
-
-### 2026-07-29 08:22:45  #MKT News #Important #WTI #Impact bullish #Brent
-
-CENTCOM said it and the Saudi Arabian Armed Forces carried out precision strikes in Iraq on July 28 against pro‑Iran militants commanded by the Islamic Revolutionary Guard Corps (IRGC) who had attacked U.S. forces and Saudi energy infrastructure.
-
----
-
-### 2026-07-29 08:22:27  #其他
-
-SK海力士：預計雲服務提供商的AI相關投資將持續至明年以後。
-
----
-
-### 2026-07-29 08:21:39  #MKT News #Market Themes #AI Revolution #SKHY.O #Impact bullish
-
-SK Hynix (SKHY.O) said it expects AI-related investment by cloud service providers (CSPs) to continue beyond next year.
 
 ---

@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-02 01:38:04_
-_本檔包含 3635 則快訊，約 673647 字_
+_更新時間：2026-08-02 02:36:40_
+_本檔包含 3638 則快訊，約 673257 字_
+
+---
+
+### 2026-07-31 09:31:20  #MKT News #Market Regions #Greater China #CNH #Impact bearish #Hang Seng Index #CSI300
+
+China composite PMI (July) 49.3; prior 50.6.
+
+---
+
+### 2026-07-31 09:31:13  #MKT News #Economic Calendar #Important
+
+China | Composite PMI (Jul) | actual 49.3 | previous 50.6
+
+---
+
+### 2026-07-31 09:31:12  #MKT News #CNH
+
+【China spare-cash parking: money-market yield snapshot】Tencent's Licaitong (Current+) 7-day annualized yields ranged 0.7040%–1.4270%; WeChat Wallet's Lingqiantong 7-day annualized yields ranged 0.9120%–1.0000%; Alipay's Yu'e Bao 7-day annualized yields ranged 0.9090%–1.0140%.
+
+---
+
+### 2026-07-31 09:31:09  #MKT News #Market Regions #Greater China
+
+【China government bond futures morning open】China government bond futures front contracts at morning open: 2-year (TS) +0.02%, 5-year (TF) +0.04%, 10-year (T) +0.06%, 30-year (TL) +0.17%.
+
+---
+
+### 2026-07-31 09:31:04  #市場
+
+大盤主力淨流入超100億。
+
+---
+
+### 2026-07-31 09:31:03  #市場 #焦點
+
+科創50日內漲幅達7.84%，成分股中，源傑科技漲15.07%，中科飛測漲14.04%，華虹宏力漲13.40%，佰維儲存漲13.26%。
+
+---
+
+### 2026-07-31 09:30:40  #MKT News #Important #Market Regions #Greater China #CNH #Impact bearish #CSI300 #Copper
+
+China's official manufacturing PMI fell to 49.2 in July, below consensus 50.1 and June's 50.3, returning to contraction territory below the 50 threshold.
+
+---
+
+### 2026-07-31 09:30:33  #市場 #焦點
+
+北證50日內漲幅達3.04%，成分股中，華嶺股份漲16.49%，戈碧迦漲14.56%，錦華新材漲9.95%，並行科技漲7.70%。
+
+---
+
+### 2026-07-31 09:30:32  #MKT News #Economic Calendar #Important
+
+China | Official Manufacturing PMI (Jul) | actual 49.2 | consensus 50.1 | previous 50.3
+
+---
+
+### 2026-07-31 09:30:32  #MKT News #Market Regions #Greater China #CNH #Impact bearish #CSI300
+
+China July non-manufacturing PMI 49.0, vs 50.0 expected and 50.2 prior.
+
+---
+
+### 2026-07-31 09:30:28  #市場 #焦點
+
+【7月份中國製造業採購經理指數為49.2% 製造業生產端韌性較好】國家統計局服務業調查中心、中國物流與採購聯合會今天（31日）公佈7月份中國採購經理指數。受季節性因素影響，製造業執行放緩。裝備製造業和高技術製造業持續擴張。製造業執行放緩 新動能保持擴張7月份中國製造業採購經理指數為49.2%，較上月下降1.1個百分點。從歷史資料來看，受高溫多雨以及颱風等季節性因素影響，多數年份的7月份，製造業採購經理指數環比均有下行。從分項指數看，7月份製造業國內外市場需求均有所放緩。生產指數為49.9%，接近50%的臨界點，說明我國製造業生產端韌性較好，在極端天氣影響下仍具備穩定執行基礎。國家統計局服務業調查中心首席統計師霍麗慧分析，從行業來看，通用裝置、計算機通訊電子裝置等行業的生產指數和新訂單指數都高於53%，相關行業市場活躍度較高，產需較快增長。7月份，裝備製造業、高技術製造業採購經理指數分別為51.4%和53.3%，明顯高於製造業總體，保持較快擴張，帶動製造業發展向新向優。專家表示，儘管極端天氣對企業執行、物流運輸等有所影響，但是我國製造業新動能仍保持較好擴張態勢。中國物流與採購聯合會副會長兼秘書長馬增榮介紹，新動能不僅持續保持向好發展態勢，抗風險能力也不斷加強，有效對沖傳統產業波動，經濟高質量發展向深向實。從價格相關指數來看，受近期部分大宗商品價格波動等因素影響，原材料購進價格指數連續四個月環比下降，製造業整體原材料價格上漲勢頭持續放緩。從市場預期來看，7月生產經營活動預期指數為54.1%，連續2個月執行在54%以上，顯示製造業企業對後市保持穩定樂觀預期。專家表示，隨著極端天氣影響消退，前期受影響地區的企業產能和供應鏈執行恢復正常，市場需求穩定釋放，預計8月份製造業有較好的趨穩回升基礎。
+
+---
+
+### 2026-07-31 09:30:28  #MKT News #Important #Market Regions #Greater China #CNH #Impact bearish #CSI300 #Hang Seng Index
+
+China manufacturing PMI for July stood at 49.2%, with the production side showing relative resilience.
+
+---
+
+### 2026-07-31 09:30:25  #MKT News #Economic Calendar #Important
+
+China | Non-Manufacturing PMI (Jul) | actual 49 | consensus 50 | previous 50.2
+
+---
+
+### 2026-07-31 09:30:17  #MKT News #AUDUSD #Impact bullish
+
+Australia private-sector loans MoM +0.8% vs +0.6% est; prior +0.7%.
+
+---
+
+### 2026-07-31 09:30:11  #資料
+
+澳大利亞第二季度PPI季率 1.3%，前值0.40%。澳大利亞第二季度PPI年率 3.6%，前值3.00%。
+
+---
+
+### 2026-07-31 09:30:11  #MKT News
+
+Australia Q2 producer-price inflation YoY 3.6%; prior 3.0%.
+
+---
+
+### 2026-07-31 09:30:10  #MKT News
+
+Australia Q2 PPI (QoQ) +1.3%; prior +0.4%.
+
+---
+
+### 2026-07-31 09:30:09  #MKT News #Economic Calendar #Important
+
+Australia | Private Sector Credit (MoM) (Jun) | actual 0.8% | consensus 0.60% | previous 0.70%
+
+---
+
+### 2026-07-31 09:30:06  #經濟數據 #中國
+
+【國家統計局：7月官方製造業PMI為49.2%】7月份，製造業採購經理指數（PMI）為49.2%，比上月下降1.1個百分點，景氣水平有所回落。從企業規模看，大、中、小型企業PMI分別為49.5%、49.7%和47.4%，比上月下降1.2個、0.8個和0.8個百分點，均低於臨界點。從分類指數看，構成製造業PMI的5個分類指數中，生產指數、新訂單指數、原材料庫存指數、從業人員指數和供應商配送時間指數均低於臨界點。
+
+---
+
+### 2026-07-31 09:30:05  #Trading Economics #Economy #China #Government Bond 10Y #Importance 1
+
+China 10Y Bond Yield Hits 8-week Low — China 10 Year Government Bond Yield decreased to 1.71%, the lowest since June 2026. Over the past 4 weeks, China 10Y Bond Yield lost 2.50 basis points, and in the last 12 months, it decreased 1.00 basis points.
+
+---
+
+### 2026-07-31 09:30:04  #市場 #焦點
+
+滬深300指數期貨連續主力合約日內漲2%，現報4599.80點。
+
+---
+
+### 2026-07-31 09:30:03  #市場 #焦點
+
+中證500指數期貨連續主力合約日內漲4%，現報7536.60點。
+
+---
+
+### 2026-07-31 09:30:03  #市場 #焦點
+
+科創50日內漲幅達8.37%，成分股中，源傑科技漲16.92%，中科飛測漲14.04%，佰維儲存漲13.26%，瀾起科技漲12.98%。
+
+---
+
+### 2026-07-31 09:30:02  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內漲4%，現報7123.40點。
 
 ---
 
@@ -21800,131 +21944,5 @@ Samsung Electronics expects H2 HBM4 revenue to account for about 60% of its tota
 ### 2026-07-30 09:41:43  #MKT News #Important
 
 South Korea's KOSPI rose 5% intraday to 5,950.55, with Samsung Electronics up 7% and SK Hynix up 3.2%.
-
----
-
-### 2026-07-30 09:41:37  #MKT News #Important
-
-China A-share precious metals sector rose in early trade; Zhaojin Gold hit the daily limit, while Chifeng Gold, Western Gold, Zhongjin Gold, Sichuan Gold and Shanjin International also advanced.
-
----
-
-### 2026-07-30 09:41:28  #公司 #國際
-
-韓國綜指漲幅擴大至5%，現報5950.55點。個股方面，三星電子漲超6%，SK海力士漲超3%。
-
----
-
-### 2026-07-30 09:41:23  #Trading Economics #Economy #Australia #Building Permits MoM #Importance 1
-
-Australia Building Permits Unexpectedly Rise — Australia's seasonally adjusted dwelling approvals rose 7.2% month-on-month to a four-month high of 18,328 units in June 2026, defying expectations of a 1% fall and following a revised 2.7% decline in May. The increase was driven by a 17.8% rebound in approvals for private sector dwellings excluding houses to 7,138 units, while approvals for private sector houses edged up 0.4% to 10,631. Compared with a year earlier, total dwelling approvals increased 8.9%, with approvals for private sector houses rising 15.8%, while approvals for private sector dwellings excluding houses slipped 1.5%. In trend terms, total dwelling approvals rose 2.0% to 18,449 units. Across the states, trend approvals increased in New South Wales (3.9%), Queensland (4.1%), South Australia (1.0%), Tasmania (1.5%), and the Northern Territory (3.6%), were unchanged in Victoria, and declined in Western Australia (-0.2%) and the Australian Capital Territory (-3.6%).
-
----
-
-### 2026-07-30 09:41:09  #市場
-
-【港股教育股走強 新東方漲近16%】截至發稿，新東方-S(09901.HK)漲15.68%，光正教育(06068.HK)漲4.69%。
-
----
-
-### 2026-07-30 09:41:08  #MKT News #Market Themes #Chip Wars
-
-Samsung Electronics expects HBM market share in H2 to be consistent with its overall DRAM market share.
-
----
-
-### 2026-07-30 09:40:59  #MKT News #Important #005930.KS #Impact bullish
-
-Samsung Electronics shares rose 7%.
-
----
-
-### 2026-07-30 09:40:54  #公司 #市場
-
-三星電子股價上漲7%。
-
----
-
-### 2026-07-30 09:40:47  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
-
-China A-share photolithography-equipment sector fell for a third straight session; Zhongchuan Special Gas and Jiezhong Technology tumbled over 8%, with Wavelength Optoelectronics, Dongfang Jiasheng, Maolai Optical and Xinlai Yingcai also down.
-
----
-
-### 2026-07-30 09:40:40  #公司
-
-三星電子：預計下半年HBM市場份額將與DRAM整體市場份額持平。
-
----
-
-### 2026-07-30 09:40:24  #公司
-
-三星電子：高頻寬記憶體4（HBM4）第三季度收入較第二季度增長兩倍以上。
-
----
-
-### 2026-07-30 09:40:17  #其他
-
-LG新能源將於第三季度重啟位於俄亥俄州的Ultimate Cells工廠的運營。
-
----
-
-### 2026-07-30 09:39:46  #MKT News
-
-Taiwan Weighted Index gains over 2%.
-
----
-
-### 2026-07-30 09:39:45  #公司
-
-三星：2027年記憶體供應緊張形勢將更加嚴峻。
-
----
-
-### 2026-07-30 09:39:31  #公司 #市場
-
-【智慧駕駛概念表現活躍 浙江世寶直線漲停】智慧駕駛概念表現活躍，浙江世寶直線漲停，萬集科技、索菱股份、北汽藍谷、金龍汽車跟漲。
-
----
-
-### 2026-07-30 09:39:23  #市場 #觀點
-
-貴金屬板塊早盤拉昇，招金黃金觸及漲停，赤峰黃金、西部黃金、中金黃金、四川黃金、山金國際跟漲。
-
----
-
-### 2026-07-30 09:39:13  #其他
-
-【光刻機板塊再度走弱 中船特氣、捷眾科技跌超8%】光刻機板塊再度走弱，中船特氣、捷眾科技跌超8%，波長光電、東方嘉盛、茂萊光學跟跌。
-
----
-
-### 2026-07-30 09:39:13  #MKT News #005930.KS #Impact mixed
-
-Samsung Electronics said its policy to return 50% of free cash flow to shareholders could be affected by customer deposits and employee bonuses.
-
----
-
-### 2026-07-30 09:39:07  #市場
-
-【港股黃金股走強 紫金黃金國際漲近5%】截至發稿，紫金黃金國際(02259.HK)漲4.84%，珠峰黃金(01815.HK)漲3.37%，赤峰黃金(06693.HK)漲3.27%。
-
----
-
-### 2026-07-30 09:39:00  #公司
-
-三星電子表示，晶片供應短缺情況將在2027年進一步加劇，並延續至2028年。
-
----
-
-### 2026-07-30 09:38:39  #公司
-
-三星：預計全年移動裝置平均售價和銷量均將增長。
-
----
-
-### 2026-07-30 09:38:30  #Trading Economics #Economy #Australia #Export Prices MoM #Importance 1
-
-Australia Export Prices Rise 1.1% in Q2 — Australia's export prices climbed 1.1% quarter-on-quarter in Q2 2026, after a 0.5% rise in the previous quarter. It was the third consecutive quarterly increase, driven primarily by a 5.4% rise in coal, coke, and briquettes due to higher thermal coal prices amid stronger demand. Meanwhile, petroleum and related products jumped 22.7%, buoyed by higher oil prices due to ongoing tensions in the Middle East. Crude fertilisers also surged 20.9%, reflecting growing demand for lithium used in the battery storage and electric vehicle sectors, as well as constrained Chinese inventories. However, the increase was offset by declines in non-monetary gold (-8.8%), as tightening monetary policy expectations and higher US Treasury bond yields outweighed safe-haven demand, and metalliferous ores and metal scrap (-1.4%), which were weighed down by high Chinese iron ore stockpiles and strong global supply conditions.
 
 ---

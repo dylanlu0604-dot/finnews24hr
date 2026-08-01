@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-02 01:38:04_
-_本檔包含 3330 則快訊，約 672434 字_
+_更新時間：2026-08-02 02:36:40_
+_本檔包含 3327 則快訊，約 673362 字_
+
+---
+
+### 2026-07-28 00:16:40  #公司
+
+市場訊息：軟銀公司正考慮收購大型支付服務商 SP.LINKS，該公司前身為索尼支付服務（Sony Payment Services）。
+
+---
+
+### 2026-07-28 00:14:54  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iranian outlet Fars News, citing Syrian sources, reported Israeli forces are advancing from the western suburbs of Daraa province into Syrian territory.
+
+---
+
+### 2026-07-28 00:13:31  #國際
+
+法爾斯通訊社援引敘利亞訊息源報道：以色列軍隊正從德拉西部郊區向敘利亞境內推進。
+
+---
+
+### 2026-07-28 00:11:52  #國際
+
+【羅馬尼亞因無人機事件驅逐俄羅斯外交官】羅馬尼亞外交部27日宣佈將俄羅斯駐羅馬尼亞使館一名外交官列為“不受歡迎的人”，要求其在5日內離境。羅馬尼亞外交部長瓦娜·措尤27日召見俄駐羅大使。羅外交部稱，此次召見是對7月24日至26日間俄羅斯多次侵犯該國領空的強硬回應。羅外交部向俄方展示了在羅境內被擊落的無人機殘骸，並稱羅方調查已正式確認這些無人機部件來自俄羅斯。此前，羅馬尼亞連續3天相繼擊落3架侵犯其領空的無人機。（新華社）
+
+---
+
+### 2026-07-28 00:01:26  #國際
+
+美國上訴法院裁定維持科羅拉多州針對租賃車輛徵收 3 美元擁堵費的政策。
+
+---
+
+### 2026-07-27 23:57:21  #宏觀 #國際
+
+俄羅斯總統新聞秘書佩斯科夫： 歐盟能出臺、且不會損害自身利益的對俄製裁手段已所剩無幾。
+
+---
+
+### 2026-07-27 23:56:45  #市場
+
+【英國國債收益率普遍跌超3個基點】週一（7月27日）歐市尾盤，英國10年期國債收益率跌3.7個基點，報4.995%，跳空低開之後持續低位震盪。兩年期英債收益率跌3.0個基點，報4.380%。30年期英債收益率跌3.3個基點，50年期英債收益率跌2.6個基點。2/10年期英債收益率利差跌0.504個基點，報+61.385個基點。
+
+---
+
+### 2026-07-27 23:56:38  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Edges Up — The FTSE MIB rose 0.5% to 52,055 on Monday, tracking a broader improvement in risk appetite amid hopes for renewed diplomacy in the Middle East. Banking stocks gained on the session amid lower energy prices and easing concerns over inflationary pressures as sovereign bond yields retreated. UniCredit advanced 1.6%, following positive reviews from JPMorgan and Morgan Stanley. Amplifon gained 2.6% after JPMorgan raised its recommendation of the stock. Buzzi gained 2.8% on reconstruction activity prospects. In the luxury sector, Brunello Cucinelli (2.4%) and Campari (1.9%) climbed ahead of LVMH's earnings release. Ferrari outperformed with a 4.3% gain, leading gains on the index, following progress reports regarding its share buyback program. Meanwhile, technology and energy stocks underperformed, with Prysmian, Tenaris, and Eni all falling more than 2%, weighed by ongoing concerns over AI-related overspending and lower oil prices.
+
+---
+
+### 2026-07-27 23:55:24  #其他
+
+聯合國將南蘇丹羚羊遷徙廊道列入瀕危世界遺產名錄。
+
+---
+
+### 2026-07-27 23:53:11  #宏觀 #市場
+
+義大利財政部：原定於 8 月 13 日發行的中長期國債及 8 月 26 日發行的通脹保值國債（BTPEI）拍賣取消。
+
+---
+
+### 2026-07-27 23:53:11  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Inch Higher — European stocks closed slightly higher, outperforming North American counterparts with support from lower bond yields. The Euro STOXX 60 inched higher to 6,290 and the STOXX Europe 600 rose 0.2% to 645.6. Sovereign yields fell sharply as the momentary pause in strikes between Iran and the US reignited hopes of LNG and fuel exports from the region, limiting inflationary risks. Banks were sharply higher, with Santander and BNP Paribas adding over 2% while Intesa Sanapaolo rose 1% ahead of its earnings this week. Meanwhile, software producers jumped, tracking Wall Street counterparts ahead of AI hyperscaler earnings this week, with SAP soaring 7.8%. In turn, chip producers remained volatile and sold off after a series of circular investments by Nvidia added to concerns of overspending on the sector. ASML sank 8.4% and Infineon dropped 4.5%. Also, Argenx dropped 2.3% after buying Forte Biosciences for $2.2 billion.
 
 ---
 
@@ -20004,89 +20070,5 @@ Former Israeli prime minister Naftali Bennett said he is the most suitable perso
 ### 2026-07-26 02:37:24  #國際
 
 特朗普：如果不100%滿足我們對伊朗的要求，戰爭將以全力度重啟。
-
----
-
-### 2026-07-26 02:30:25  #MKT News
-
-Palestinian foreign minister said the Palestinians hope the peace committee will play a role in the Gaza Strip.
-
----
-
-### 2026-07-26 02:30:09  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Palestinian foreign minister says Israel is seeking to drive Palestinians to the brink of collapse.
-
----
-
-### 2026-07-26 02:29:53  #MKT News
-
-The Palestinian foreign minister said Palestinians' blood is being used as a bargaining chip in Israel's elections and urged urgent international intervention, warning the situation in the West Bank is very serious.
-
----
-
-### 2026-07-26 02:29:36  #MKT News
-
-Palestinian foreign minister said Palestinians' existence is under threat and accused Israel of carrying out terrorism against Palestinians; he described the Netanyahu government as "fascist" and said it is using settlers to control the West Bank.
-
----
-
-### 2026-07-26 02:21:03  #國際
-
-以色列軍方：上週在加沙擊斃哈馬斯一支精銳小隊指揮官及兩名武裝人員，該指揮官參與過10月7日襲擊行動。
-
----
-
-### 2026-07-26 02:18:43  #其他
-
-英國海上貿易行動辦公室釋出宣告稱，一艘油輪在距離沙特舒蓋格港約70海里處遭炮彈襲擊。
-
----
-
-### 2026-07-26 02:15:54  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Zelenskiy said Russian satellite monitoring shows Moscow is assisting Tehran with strike operations in the Middle East.
-
----
-
-### 2026-07-26 02:14:33  #國際
-
-市場資訊： 烏克蘭總統澤連斯基稱：俄方衛星偵察情報顯示，俄羅斯正在為伊朗提供指引，協助其在中東發動打擊行動。
-
----
-
-### 2026-07-26 02:09:49  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【IRGC says US military deaths exceed official figures】An IRGC spokesman said US fatalities after breaching an agreement exceed 200 and called official US casualty figures a complete falsehood. He said IRGC strikes hit eight US garrisons in the "Victory 2" operation, destroying 20 warehouses at one site, and that injuries are substantially higher than the death toll. He urged the US government to allow journalists to visit strike sites to verify casualties.
-
----
-
-### 2026-07-26 02:04:19  #國際
-
-市場資訊：特朗普堅持要求沙特加入《亞伯拉罕協議》，以此作為美方批准沙特開展民用核專案交易的前提條件。
-
----
-
-### 2026-07-26 01:53:45  #MKT News
-
-【HKO reissues Tropical Cyclone Warning Signal No.9】The HKO early this morning reissued the No.9 gale-or-storm signal. The No.9 or higher tropical cyclone warning is expected to remain in force at least until 7:00 a.m. HKT.
-
----
-
-### 2026-07-26 01:51:00  #其他
-
-【香港天文臺改發“九號風球”】7月26日凌晨1時10分，香港天文臺改發九號烈風或暴風風力增強訊號（即“九號風球”）。
-
----
-
-### 2026-07-26 01:42:33  #國際
-
-埃及石油部資料顯示，1月至6月埃及石油產品出口額達23億美元。
-
----
-
-### 2026-07-26 01:40:41  #市場 #焦點
-
-布倫特原油暗盤跌破90美元，日內跌超1.6%。
 
 ---

@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-02 01:38:04_
-_本檔包含 3734 則快訊，約 673780 字_
+_更新時間：2026-08-02 02:36:40_
+_本檔包含 3739 則快訊，約 673336 字_
+
+---
+
+### 2026-07-29 08:31:45  #公司
+
+【新易盛：正有序推進H股發行相關工作】新易盛7月29日在互動平臺表示，公司正有序推進H股發行相關工作，公司將嚴格按照相關法律法規履行資訊披露義務。
+
+---
+
+### 2026-07-29 08:31:37  #其他
+
+共同社報道，豐田汽車位於九州的三座工廠已於週三恢復生產。
+
+---
+
+### 2026-07-29 08:30:15  #國際
+
+【中國駐美大使會見彭博社總編，就中美關係與媒體合作等交換意見】7月27日，中國駐美國大使謝鋒會見彭博社總編米思偉，雙方就中美關係、中美媒體合作等交換意見。
+
+---
+
+### 2026-07-29 08:30:04  #國際
+
+據共同社報道，日本政府官員稱，熊本地震已造成十餘人疑似因災死亡。
+
+---
+
+### 2026-07-29 08:29:43  #公司 #國際
+
+【超千名全球AI從業者聯名請求美政府支援國際合作，建立AI“剎車”機制】當地時間7月28日，來自OpenAI、Anthropic、谷歌等十餘家前沿AI公司的1134名研究人員和從業者，共同簽署了一份題為《掌控前沿技術》的公開宣告，指出全球領先AI公司可能已接近實現自動化AI研究，存在AI能力發展速度超出人類理解與控制能力的風險。但由於各企業與各國均面臨激烈競爭壓力、無人願單方面減速，聯名信請求美國政府支援一項國際合作，開發必要的技術與治理工具，以便有意識地掌控前沿自動化AI發展的節奏。
+
+---
+
+### 2026-07-29 08:27:36  #其他
+
+SK海力士：與客戶簽訂的一般長期協議有效期約為5年。
+
+---
+
+### 2026-07-29 08:27:31  #MKT News #SKHY.O
+
+SK Hynix (SKHY.O) said long-term customer contracts typically run about five years.
+
+---
+
+### 2026-07-29 08:27:28  #MKT News #Market Themes #Chip Wars #SKHY.O #Impact bullish
+
+SK Hynix (SKHY.O) said it expects the risk of memory oversupply to be limited amid capacity expansion.
+
+---
+
+### 2026-07-29 08:26:58  #Trading Economics #Economy #Japan #Food Inflation #Importance 1
+
+Japan Food Sales Tax Set at 1% Under Takaichi’s Proposal — Japan plans to temporarily cut its sales tax on food and drinks to 1% for two years, Bloomberg reported. The government chose a low positive rate instead of zero to avoid the costly, time-consuming reprogramming of retailers’ cash registers; a 0% rate would take about a year to implement, while 1% could halve that timeline. To take effect in April 2027, the measure must still be legislated and passed by the Diet (parliament), with draft legislation expected in an extraordinary session in autumn 2026. Policymakers hope the measure will ease household burdens, though economists warned that prices may not fall as much as expected, limiting the benefit for consumers.
+
+---
+
+### 2026-07-29 08:26:21  #其他
+
+SK海力士：預計因產能擴張導致記憶體供應過剩的可能性有限。
+
+---
+
+### 2026-07-29 08:24:48  #國際
+
+【美國中央司令部：美國和沙烏地阿拉伯襲擊了伊拉克境內伊朗支援的武器設施】美國中央司令部：7 月 28 日，美國中央司令部與沙烏地阿拉伯武裝部隊在伊拉克發動精準打擊，目標為受伊朗革命衛隊指使、襲擊美軍及沙特能源設施的親伊朗武裝人員。過去 72 小時內，親伊朗武裝在伊朗革命衛隊指揮下發動逾 30 架次無人機襲擊，作為強硬回應，美沙兩國戰機對伊拉克東部多處武裝後勤據點與武器存放點實施空襲。此前針對美軍的無端襲擊均未得逞。2026 年 2 月至 4 月期間，伊拉克境內親伊朗武裝民兵針對美國公民及美方設施發動超 600 起襲擊圖謀。伊朗革命衛隊及其下屬武裝代理人必須停止此類襲擊，否則美國將採取進一步軍事行動。
+
+---
+
+### 2026-07-29 08:23:18  #市場 #國際
+
+歐洲斯托克50指數期貨上漲0.4%，德國DAX指數期貨上漲0.3%，富時指數期貨上漲0.1%。
+
+---
+
+### 2026-07-29 08:22:54  #焦點 #國際
+
+美國中央司令部：美國中央司令部與沙烏地阿拉伯武裝部隊於當地時間7月28日在伊拉克實施了精確打擊，目標為受伊朗伊斯蘭革命衛隊（IRGC）指揮、曾攻擊美軍及沙特能源基礎設施的親伊朗“恐怖分子”。
+
+---
+
+### 2026-07-29 08:22:45  #MKT News #Important #WTI #Impact bullish #Brent
+
+CENTCOM said it and the Saudi Arabian Armed Forces carried out precision strikes in Iraq on July 28 against pro‑Iran militants commanded by the Islamic Revolutionary Guard Corps (IRGC) who had attacked U.S. forces and Saudi energy infrastructure.
+
+---
+
+### 2026-07-29 08:22:27  #其他
+
+SK海力士：預計雲服務提供商的AI相關投資將持續至明年以後。
+
+---
+
+### 2026-07-29 08:21:39  #MKT News #Market Themes #AI Revolution #SKHY.O #Impact bullish
+
+SK Hynix (SKHY.O) said it expects AI-related investment by cloud service providers (CSPs) to continue beyond next year.
 
 ---
 
@@ -22503,71 +22599,5 @@ Oman's foreign ministry condemned and strongly opposed drone attacks targeting S
 ### 2026-07-28 00:17:14  #公司 #國際
 
 【受AI熱潮推動，貝萊德韓國ETF連續第三週錄得資金淨流入】在全球部分最大科技公司的財報季到來前，投資者繼續將資金大舉湧入美國上市的最大韓國交易所交易基金（ETF）。規模達233億美元的iShares MSCI韓國ETF上週錄得超10億美元的資金淨流入，將連續三週的流入勢頭進一步延長，使其7月份的總流入額達到37億美元。如果這一增長勢頭能保持到月底，這將是該基金有記錄以來最大的單月資金流入。該基金追蹤韓國股票，其份額自6月18日創下歷史新高以來，已回落超過28%。
-
----
-
-### 2026-07-28 00:16:40  #公司
-
-市場訊息：軟銀公司正考慮收購大型支付服務商 SP.LINKS，該公司前身為索尼支付服務（Sony Payment Services）。
-
----
-
-### 2026-07-28 00:14:54  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iranian outlet Fars News, citing Syrian sources, reported Israeli forces are advancing from the western suburbs of Daraa province into Syrian territory.
-
----
-
-### 2026-07-28 00:13:31  #國際
-
-法爾斯通訊社援引敘利亞訊息源報道：以色列軍隊正從德拉西部郊區向敘利亞境內推進。
-
----
-
-### 2026-07-28 00:11:52  #國際
-
-【羅馬尼亞因無人機事件驅逐俄羅斯外交官】羅馬尼亞外交部27日宣佈將俄羅斯駐羅馬尼亞使館一名外交官列為“不受歡迎的人”，要求其在5日內離境。羅馬尼亞外交部長瓦娜·措尤27日召見俄駐羅大使。羅外交部稱，此次召見是對7月24日至26日間俄羅斯多次侵犯該國領空的強硬回應。羅外交部向俄方展示了在羅境內被擊落的無人機殘骸，並稱羅方調查已正式確認這些無人機部件來自俄羅斯。此前，羅馬尼亞連續3天相繼擊落3架侵犯其領空的無人機。（新華社）
-
----
-
-### 2026-07-28 00:01:26  #國際
-
-美國上訴法院裁定維持科羅拉多州針對租賃車輛徵收 3 美元擁堵費的政策。
-
----
-
-### 2026-07-27 23:57:21  #宏觀 #國際
-
-俄羅斯總統新聞秘書佩斯科夫： 歐盟能出臺、且不會損害自身利益的對俄製裁手段已所剩無幾。
-
----
-
-### 2026-07-27 23:56:45  #市場
-
-【英國國債收益率普遍跌超3個基點】週一（7月27日）歐市尾盤，英國10年期國債收益率跌3.7個基點，報4.995%，跳空低開之後持續低位震盪。兩年期英債收益率跌3.0個基點，報4.380%。30年期英債收益率跌3.3個基點，50年期英債收益率跌2.6個基點。2/10年期英債收益率利差跌0.504個基點，報+61.385個基點。
-
----
-
-### 2026-07-27 23:56:38  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Edges Up — The FTSE MIB rose 0.5% to 52,055 on Monday, tracking a broader improvement in risk appetite amid hopes for renewed diplomacy in the Middle East. Banking stocks gained on the session amid lower energy prices and easing concerns over inflationary pressures as sovereign bond yields retreated. UniCredit advanced 1.6%, following positive reviews from JPMorgan and Morgan Stanley. Amplifon gained 2.6% after JPMorgan raised its recommendation of the stock. Buzzi gained 2.8% on reconstruction activity prospects. In the luxury sector, Brunello Cucinelli (2.4%) and Campari (1.9%) climbed ahead of LVMH's earnings release. Ferrari outperformed with a 4.3% gain, leading gains on the index, following progress reports regarding its share buyback program. Meanwhile, technology and energy stocks underperformed, with Prysmian, Tenaris, and Eni all falling more than 2%, weighed by ongoing concerns over AI-related overspending and lower oil prices.
-
----
-
-### 2026-07-27 23:55:24  #其他
-
-聯合國將南蘇丹羚羊遷徙廊道列入瀕危世界遺產名錄。
-
----
-
-### 2026-07-27 23:53:11  #宏觀 #市場
-
-義大利財政部：原定於 8 月 13 日發行的中長期國債及 8 月 26 日發行的通脹保值國債（BTPEI）拍賣取消。
-
----
-
-### 2026-07-27 23:53:11  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Inch Higher — European stocks closed slightly higher, outperforming North American counterparts with support from lower bond yields. The Euro STOXX 60 inched higher to 6,290 and the STOXX Europe 600 rose 0.2% to 645.6. Sovereign yields fell sharply as the momentary pause in strikes between Iran and the US reignited hopes of LNG and fuel exports from the region, limiting inflationary risks. Banks were sharply higher, with Santander and BNP Paribas adding over 2% while Intesa Sanapaolo rose 1% ahead of its earnings this week. Meanwhile, software producers jumped, tracking Wall Street counterparts ahead of AI hyperscaler earnings this week, with SAP soaring 7.8%. In turn, chip producers remained volatile and sold off after a series of circular investments by Nvidia added to concerns of overspending on the sector. ASML sank 8.4% and Infineon dropped 4.5%. Also, Argenx dropped 2.3% after buying Forte Biosciences for $2.2 billion.
 
 ---
