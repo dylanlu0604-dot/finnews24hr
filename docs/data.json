@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-02 03:08:26",
-  "count": 18028,
+  "updated": "2026-08-02 03:12:16",
+  "count": 18030,
   "items": [
+    {
+      "id": "mkt:019fbebc-d151-7aab-8f43-7e8f6d724964",
+      "time": "2026-08-02 03:11:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Ukrainian President Zelenskiy said he spoke by phone with the UAE president to discuss Emirati support in Europe, particularly the Black Sea, focusing on food security, maritime-route safety and measures to strengthen Ukraine’s life‑protection capabilities. They also reviewed multiple bilateral cooperation projects and are working to ensure those projects are implemented."
+    },
+    {
+      "id": "5020561",
+      "time": "2026-08-02 03:08:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大公共僱員工會：西捷航空空乘人員已發出72小時罷工通知。西捷航空隨後發出72小時停工通知。"
+    },
     {
       "id": "5020560",
       "time": "2026-08-02 03:05:22",
