@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-01 09:03:51",
+  "updated": "2026-08-01 09:11:33",
   "count": 18005,
   "items": [
+    {
+      "id": "mkt:019fbadc-8f17-7aab-8f3e-b3dd3ee8fc5e",
+      "time": "2026-08-01 09:07:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "1810.HK",
+        "Impact bullish"
+      ],
+      "text": "Xiaomi Auto said July 2026 deliveries continued to exceed 30,000 units."
+    },
+    {
+      "id": "5020127",
+      "time": "2026-08-01 09:06:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科宇航與星際數鏈簽署高軌發射意向合同】8月1日，據中科宇航訊息，公司已與星際數鏈（北京）科技有限公司（簡稱“星際數鏈”）正式簽署高軌衛星發射意向合同。圍繞星際數鏈的高軌通訊衛星發射需求，中科宇航將採用力箭二號運載火箭與力巡一號上面級組合，提供全流程一體化的發射服務解決方案。"
+    },
+    {
+      "id": "5020126",
+      "time": "2026-08-01 09:03:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【莫斯科紅場一教堂發生火災 暫無人員傷亡】位於俄羅斯首都莫斯科紅場的聖瓦西里大教堂8月1日凌晨發生火災，目前暫無人員傷亡報告。據塔斯社報道，火災發生在教堂一層，一間辦公室的個人物品和傢俱起火，過火面積約10平方米。俄緊急情況部門報告說，約10輛消防車抵達教堂救火，火已撲滅。（新華社）"
+    },
+    {
+      "id": "5020125",
+      "time": "2026-08-01 09:03:32",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "市場訊息：OpenAI或將推遲至明年上市。"
+    },
+    {
+      "id": "5020124",
+      "time": "2026-08-01 09:03:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞薩電子：自7月29日晚間開始分階段恢復生產，已於週五晨間恢復至地震前的產能水平。"
+    },
     {
       "id": "5020123",
       "time": "2026-08-01 09:00:46",
@@ -166700,46 +166746,6 @@
         "其他"
       ],
       "text": "【廣東汕尾市將防風應急響應提升至Ⅱ級】據氣象部門監測預報，今年第12號颱風“紅霞”強度繼續加強，逐漸趨向廣東沿海。根據《汕尾市防汛防旱防風防凍應急預案》有關規定，汕尾市防汛防旱防風指揮部決定於7月25日8時30分將防風Ⅲ級應急響應提升為防風Ⅱ級應急響應。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f96d3-1bff-7aab-8e91-4523074a6513",
-      "time": "2026-07-25 09:10:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Dengfeng, Henan issues red rainstorm warning】Dengfeng Meteorological Observatory upgraded an orange rainstorm warning to red at 06:39 on July 25. It forecasts over 100 mm of rain in the next three hours for parts of Dengfeng, including Songyang, Shaolin, Zhongyue and Ludian subdistricts and Donghua, Dajindian, Gaocheng, Daye, Xuanhua, Xuzhuang, Tangzhuang and Baiping towns, and warned of secondary hazards: mountain floods, geological disasters and urban waterlogging."
-    },
-    {
-      "id": "mkt:019f96d2-bf86-7aab-8e91-3ab00bd26781",
-      "time": "2026-07-25 09:10:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shenzhen upgrades typhoon warning from white to blue】Shenzhen Meteorological Observatory at 08:00 on July 25, 2026 upgraded the city’s typhoon warning from white to blue. Typhoon Hongxia is expected to enter a 500 km radius of Shenzhen and will move closer to Guangdong’s mid‑eastern offshore waters; wind and rain will strengthen from tonight."
-    },
-    {
-      "id": "5007727",
-      "time": "2026-07-25 09:09:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南登封釋出暴雨紅色預警】河南鄭州登封市氣象臺7月25日6時39分將暴雨橙色預警訊號升級為暴雨紅色預警訊號：預計未來3小時，嵩陽街道、少林街道、中嶽街道、盧店街道、東華鎮、大金店鎮、告成鎮、大冶鎮、宣化鎮、徐莊鎮、唐莊鎮、白坪鎮等部分鄉鎮（街道）降雨量將達100毫米以上，請注意防範強降雨引發的山洪、地質災害和城市內澇等次生災害。"
-    },
-    {
-      "id": "5007726",
-      "time": "2026-07-25 09:05:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【OpenAI稱將釋出Hugging Face被黑事件技術報告】OpenAI：我們注意到，圍繞抱抱臉系統（Hugging Face）被入侵事件流傳著許多疑問和各種猜測。我們正與外部顧問合作，並在安全與安保委員會的監督下，繼續進行全面審查。審查完成後，我們計劃在未來幾周內釋出一份技術報告，分享我們從中汲取的經驗與見解。"
-    },
-    {
-      "id": "mkt:019f96cd-f708-7aab-8e91-30ccca00b094",
-      "time": "2026-07-25 09:05:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【OpenAI to publish technical report on Hugging Face breach】OpenAI said it is conducting a comprehensive review of the Hugging Face system breach, working with external advisers under the oversight of its Security and Safety Committee, and plans to publish a technical report in the coming weeks outlining lessons learned and findings."
     }
   ]
 }
