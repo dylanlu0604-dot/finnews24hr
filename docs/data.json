@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-01 09:34:05",
-  "count": 18006,
+  "updated": "2026-08-01 09:38:19",
+  "count": 18005,
   "items": [
+    {
+      "id": "5020144",
+      "time": "2026-08-01 09:34:37",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：汽車板塊基金持倉和估值至歷史低位 關注三季度末內銷景氣度改善情況】華泰證券研報稱，2026年二季度汽車板塊基金重倉持股佔比降至1.65%，為2021年以來最低，估值處近5年15%以下分位，倉位與估值同處歷史相對低位。研報認為本輪減配的主因是內需退潮壓低了板塊盈利預期，AI主線的虹吸則加速了籌碼出清，把減倉壓縮到一個季度內快速完成。四個核心子板塊全部減配但分化明顯：乘用車減配最深、基本面最弱，商用車盈利在改善而持倉與股價跌幅居前、背離最大，零部件最抗跌且部分具備獨立α的個股獲加倉，摩托車及其他為汽車二級板塊中唯一超配板塊。研報認為，板塊賠率或已到極值，向下空間有限，而贏率取決於板塊基本面拐點，重點關注三季度末內銷景氣度改善情況，方向上優先關注出口亮眼的商用車出口鏈和摩托車板塊，以及具備獨立α的零部件個股。"
+    },
+    {
+      "id": "mkt:019fbaf4-b85b-7aab-8f3e-cd674e3e27cf",
+      "time": "2026-08-01 09:33:47",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Missile strike on Kyiv injures 12】At 03:22 local time on Aug. 1 a Xinhua reporter heard multiple heavy explosions in Kyiv. Mayor Klitschko said Russian forces were conducting ballistic missile strikes on the city and that, as of about 03:00, the air raids had injured 12 people, one seriously; all injured have been hospitalized."
+    },
     {
       "id": "5020143",
       "time": "2026-08-01 09:33:06",
@@ -166725,30 +166745,6 @@
         "MKT News"
       ],
       "text": "U.S. President Trump said a second presidential term is always better and a third would be better, adding he was joking."
-    },
-    {
-      "id": "mkt:019f96ec-1dca-7aab-8e91-85b6e63afd93",
-      "time": "2026-07-25 09:38:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump shook hands with Secret Service officer Victor Gonzales; Gonzales subdued a suspected armed assailant at the White House Correspondents' Dinner in April."
-    },
-    {
-      "id": "5007740",
-      "time": "2026-07-25 09:37:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普（在白宮記者晚宴）與特勤局官員維克多·岡薩雷斯握手，岡薩雷斯在4月的白宮記者協會晚宴上制服了涉嫌槍手。"
-    },
-    {
-      "id": "mkt:019f96ea-abdf-7aab-8e91-7ae0668b717e",
-      "time": "2026-07-25 09:36:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump spoke to reporters at the White House Correspondents' Dinner."
     }
   ]
 }
