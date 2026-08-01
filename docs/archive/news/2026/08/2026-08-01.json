@@ -1,7 +1,18 @@
 {
   "date": "2026-08-01",
-  "count": 982,
+  "count": 983,
   "items": [
+    {
+      "id": "te:markets:571892",
+      "time": "2026-08-01 21:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Depreciates by 1.45% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.45% decrease."
+    },
     {
       "id": "mkt:019fbd81-0a31-7aab-8f42-74819a29b900",
       "time": "2026-08-01 21:26:18",
