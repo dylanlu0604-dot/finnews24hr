@@ -1,7 +1,17 @@
 {
   "date": "2026-08-01",
-  "count": 784,
+  "count": 785,
   "items": [
+    {
+      "id": "mkt:019fbc38-1844-7aab-8f40-e27864da639a",
+      "time": "2026-08-01 15:27:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【AMEC's Yin Zhiyao targets 60% coverage of high-end semiconductor equipment within five years】Aug 1 — AMEC Chairman and General Manager Yin Zhiyao said the company aims to achieve at least 60% coverage of high-end semiconductor equipment within five years, seeks to be the semiconductor-equipment firm with the highest global coverage, and targets joining the global first tier in scale and product competitiveness by 2035."
+    },
     {
       "id": "mkt:019fbc34-effd-7aab-8f40-daad92ff384d",
       "time": "2026-08-01 15:23:33",

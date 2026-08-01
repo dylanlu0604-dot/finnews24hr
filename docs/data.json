@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-01 15:24:46",
-  "count": 17978,
+  "updated": "2026-08-01 15:28:49",
+  "count": 17976,
   "items": [
+    {
+      "id": "mkt:019fbc38-1844-7aab-8f40-e27864da639a",
+      "time": "2026-08-01 15:27:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【AMEC's Yin Zhiyao targets 60% coverage of high-end semiconductor equipment within five years】Aug 1 — AMEC Chairman and General Manager Yin Zhiyao said the company aims to achieve at least 60% coverage of high-end semiconductor equipment within five years, seeks to be the semiconductor-equipment firm with the highest global coverage, and targets joining the global first tier in scale and product competitiveness by 2035."
+    },
     {
       "id": "mkt:019fbc34-effd-7aab-8f40-daad92ff384d",
       "time": "2026-08-01 15:23:33",
@@ -166429,34 +166439,6 @@
         "其他"
       ],
       "text": "【颱風“紅霞”臨近 港珠澳大橋橋樑航道實施臨時交通管制】颱風“紅霞”已於7月25日早晨加強為颱風級（12級），預計“紅霞”將於25日夜間至26日早晨以颱風級或強颱風級登陸深圳至惠來一帶沿海，登陸時距離珠海市陸地約150公里。記者從港珠澳大橋海事局瞭解到，為做好防颱應對，港珠澳大橋海事局於7月25日10時20分將防熱帶氣旋響應由四級提升至三級，同時，於25日12時對港珠澳大橋橋樑航道實施臨時交通管制，禁止內河船舶進入港珠澳大橋橋樑航道。管制期間，港珠澳大橋海事局透過智慧海事系統，啟用區域電子圍欄實施精準管控，迴圈播發預警資訊，加強遠端監管，提醒航運企業及船舶嚴格執行各項防颱舉措。（央視新聞）"
-    },
-    {
-      "id": "5007900",
-      "time": "2026-07-25 15:25:55",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "國泰航空：受颱風紅霞影響，取消部分往返香港機場的航班。受影響的是7月26日凌晨1點15分至下午6點之間的航班，少量其他航班也將延誤。"
-    },
-    {
-      "id": "5007899",
-      "time": "2026-07-25 15:24:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎巴嫩稱以軍行動致該國南部發生強烈爆炸】當地時間25日上午，黎巴嫩南部提爾地區馬沙阿曼蘇里發生強烈爆炸，周邊村莊均能聽到爆炸聲。黎巴嫩方面稱，此次爆炸系以色列國防軍所為。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f9829-87ea-7aab-8e94-23ed4c77b14a",
-      "time": "2026-07-25 15:24:46",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Lebanon says Israel Defense Forces action caused powerful blast in south】On the morning of the 25th local time, a powerful explosion struck Masha Aman Souri in the Tyre district of southern Lebanon, audible in surrounding villages. Lebanese authorities said the blast was caused by the Israel Defense Forces."
     }
   ]
 }
