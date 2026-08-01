@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02 04:53:12",
-  "count": 18024,
+  "updated": "2026-08-02 04:57:11",
+  "count": 18022,
   "items": [
     {
       "id": "5020578",
@@ -166897,23 +166897,6 @@
         "其他"
       ],
       "text": "香港天文臺釋出黃色暴雨警告。"
-    },
-    {
-      "id": "5008141",
-      "time": "2026-07-26 04:55:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗召見烏克蘭代辦，就伊朗商船遇襲事件提出交涉。"
-    },
-    {
-      "id": "mkt:019f9b0f-90de-7aab-8e97-079634674990",
-      "time": "2026-07-26 04:55:16",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "IRNA reported Iran summoned Ukraine's acting chargé d'affaires over an attack on an Iranian merchant vessel."
     }
   ]
 }
