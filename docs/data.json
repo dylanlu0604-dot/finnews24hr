@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-01 22:11:31",
-  "count": 18031,
+  "updated": "2026-08-01 22:22:39",
+  "count": 18032,
   "items": [
+    {
+      "id": "mkt:019fbdb4-1767-7aab-8f42-8a63d744e1dd",
+      "time": "2026-08-01 22:22:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US Treasury Secretary Bessent says Treasury tracking Iranian assets globally】Treasury Secretary Bessent said at a Camp David cabinet meeting on July 31 that, at President Trump’s direction, the Treasury is continuing an economic campaign against Iran and is tracing Iranian assets worldwide. He claimed measures advanced in March 2025 resulted in Iran’s largest private bank declaring bankruptcy by year-end, forced large-scale central bank money printing that pushed up inflation, and left Iran unable to pay military wages."
+    },
+    {
+      "id": "mkt:019fbdb0-e4c0-7aab-8f42-8752a71189c9",
+      "time": "2026-08-01 22:18:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Security and refinery sources say a fire at a refinery southwest of Erbil, Iraq, has been extinguished and production is gradually resuming."
+    },
+    {
+      "id": "5020486",
+      "time": "2026-08-01 22:17:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克埃爾比勒西南部煉油廠火災已被撲滅，已開始逐步恢復生產。"
+    },
+    {
+      "id": "5020485",
+      "time": "2026-08-01 22:12:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國國新總經理侯曉會見中國物流總經理徐鴻】據中國國新訊息，7月30日，中國國新黨委副書記、總經理侯曉在公司總部會見中國物流黨委副書記、總經理徐鴻。侯曉表示，雙方自去年簽署戰略合作協議以來，持續推進基金設立、專案投資、金融服務、產業培育等方面合作。希望與中國物流不斷擴大合作領域，深化資源協同，共同服務國家重大戰略落實落地。徐鴻表示，希望雙方持續深化戰略合作關係，深入推進基金投資、金融服務、境外業務、資本運營等領域合作。"
+    },
     {
       "id": "5020484",
       "time": "2026-08-01 22:09:42",
@@ -166917,30 +166954,6 @@
         "國際"
       ],
       "text": "兩名巴西訊息人士稱，巴西拒發籤證給兩名旨在質疑巴西選舉制度的特朗普政府特使。美國派遣特使的計劃是試圖干預巴西10月總統選舉以影響選舉結果。"
-    },
-    {
-      "id": "5008050",
-      "time": "2026-07-25 22:19:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026暑期檔電影票房破55億】據網路平臺資料，截至目前，2026年暑期檔電影總票房（含預售）突破55億元。2026年度電影總票房（含預售）突破212億元。"
-    },
-    {
-      "id": "5008049",
-      "time": "2026-07-25 22:16:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海康威視：預計下半年毛利率仍將維持在相對高位】海康威視(002415)7月25日在業績說明會上表示，公司預計下半年毛利率仍將維持在相對高位。毛利率提升的原因方面，雖然有低價存貨轉收入的影響，但公司產品競爭力增強、產品線梳理以及行業反內卷帶來的毛利率中樞上移更關鍵。此外，硬碟漲價帶來的毛利增加與人民幣升值導致的匯兌損失（今年上半年與去年同期的匯兌差值帶來的費用同比影響約12億元）基本對沖，整體影響中性略偏正面。"
-    },
-    {
-      "id": "5008048",
-      "time": "2026-07-25 22:12:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港天文臺釋出8號風球。"
     }
   ]
 }
