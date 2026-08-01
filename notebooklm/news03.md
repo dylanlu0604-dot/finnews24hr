@@ -1,7 +1,271 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-01 20:07:08_
-_本檔包含 3790 則快訊，約 674710 字_
+_更新時間：2026-08-01 21:44:19_
+_本檔包含 3809 則快訊，約 673719 字_
+
+---
+
+### 2026-07-30 09:25:30  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
+
+A-shares open: Shanghai Composite down 0.43%, Shenzhen Composite Index down 0.93%, ChiNext down 1.4%.
+
+---
+
+### 2026-07-30 09:25:12  #焦點
+
+三大股指低開，滬指跌0.43％，深成指跌0.93％，創業板跌1.4％。
+
+---
+
+### 2026-07-30 09:25:05  #國際
+
+【日本熊本縣發生4.2級地震】據日本氣象廳訊息，日本當地時間30日9時56分左右，日本熊本縣天草及蘆北地區發生4.2級地震，最大震感為震度3，震源深度10公里。（央視新聞）
+
+---
+
+### 2026-07-30 09:24:48  #公司
+
+三星預計下半年整體消費市場需求將有所放緩。
+
+---
+
+### 2026-07-30 09:24:33  #公司
+
+【江特電機成立智慧技術公司，含物聯網相關業務】企查查APP顯示，近日，尉爾（成都）智慧技術有限公司成立，經營範圍包含：電力電子元器件銷售；物聯網技術研發；工業網際網路資料服務；智慧基礎製造裝備銷售等。企查查股權穿透顯示，該公司由江特電機全資持股。
+
+---
+
+### 2026-07-30 09:24:17  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bullish
+
+Samsung Electronics said it has secured foundry orders for its 2nm process from a cloud service provider.
+
+---
+
+### 2026-07-30 09:24:08  #公司
+
+三星電子：代工業務已獲得雲服務供應商的2奈米工藝訂單。
+
+---
+
+### 2026-07-30 09:23:55  #市場
+
+【港股人工智慧相關個股走強 明略科技漲近9%】截至發稿，明略科技(02718.HK)漲8.70%，德適-B(02526.HK)漲3.52%，智譜(02513.HK)漲1.45%。
+
+---
+
+### 2026-07-30 09:23:46  #公司
+
+兆易創新：董事長此前於5月、6月合計減持股份，佔公司總股本的1.58%。
+
+---
+
+### 2026-07-30 09:23:27  #公司
+
+兆易創新：董事長基於對未來前景的信心，計劃增持A股股份。
+
+---
+
+### 2026-07-30 09:22:40  #央行 #其他
+
+央行公開市場今日淨投放665.0億元人民幣。
+
+---
+
+### 2026-07-30 09:22:24  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish
+
+PBOC conducted CNY 270.5 bln of 7-day reverse repos today; bids and allotment both CNY 270.5 bln at a 1.40% rate. It also conducted CNY 600 bln of overnight reverse repos.
+
+---
+
+### 2026-07-30 09:22:17  #央行 #中國央行
+
+中國人民銀行以固定利率、數量招標方式開展了2705億元7天期逆回購操作，全額滿足了一級交易商需求。同時，開展了6000億元隔夜逆回購操作。
+
+---
+
+### 2026-07-30 09:22:01
+
+港股中際旭創（HK3308）上市首日開盤破發跌0.92％，現報971.00元，該股發行價為980.00元。
+
+---
+
+### 2026-07-30 09:21:51  #央行 #公司
+
+央行公告稱，開展2705億元人民幣7天期逆回購操作，利率1.40%，持平上次。
+
+---
+
+### 2026-07-30 09:21:49
+
+港股恒指高開漲0.26％，國企指數漲0.59％，科指開漲0.43%。
+
+---
+
+### 2026-07-30 09:21:39  #MKT News #Important #HSI #Impact bullish #09901.HK #03308.HK #Impact bearish
+
+Hong Kong stocks opened higher: Hang Seng Index up 0.26%, Hang Seng TECH Index up 0.43%. New Oriental (09901.HK) jumped 14.5%, JD Logistics (02618.HK) rose 2.5%, Zhongji Xuchuang (03308.HK) slipped 0.92% on its first trading day.
+
+---
+
+### 2026-07-30 09:21:27  #市場
+
+中際旭創在港交所上市首日，開盤報每股971港元，較980港元的發售價低0.9%。
+
+---
+
+### 2026-07-30 09:21:13  #MKT News #HSI #Impact bullish
+
+Hong Kong open, July 30: HSI +67.91 pts (+0.26%) at 25,875.83; Hang Seng Tech Index +21.03 pts (+0.43%) at 4,885.76; HSCEI +50.67 pts (+0.59%) at 8,674.19; Red Chip Index +11.20 pts (+0.26%) at 4,241.61.
+
+---
+
+### 2026-07-30 09:21:11  #其他
+
+LG新能源預計第三季度儲能電池產量增長50%。
+
+---
+
+### 2026-07-30 09:21:10  #MKT News #005930.KS
+
+Samsung Electronics said Q3 DRAM bit growth versus Q2 will be in the mid-single-digit range.
+
+---
+
+### 2026-07-30 09:20:49  #公司
+
+【歐菲光等成立半導體科技新公司】企查查APP顯示，近日，芯光聯（深圳）半導體科技有限公司成立，經營範圍包含：積體電路晶片設計及服務；積體電路銷售；半導體分立器件製造；半導體分立器件銷售等。企查查股權穿透顯示，該公司由歐菲光等共同持股。
+
+---
+
+### 2026-07-30 09:20:30  #公司
+
+三星電子：第三季度DRAM位元增長較第二季度將處於個位數中低區間。
+
+---
+
+### 2026-07-30 09:19:55  #其他
+
+LG新能源：第三季度營收預計較上一季度至少增長20%。
+
+---
+
+### 2026-07-30 09:19:52  #市場 #焦點
+
+乙二醇連續主力合約日內漲5%，現報5131.00元。
+
+---
+
+### 2026-07-30 09:19:47  #MKT News
+
+Samsung Electronics said the supply-demand gap will widen next year.
+
+---
+
+### 2026-07-30 09:19:37  #Trading Economics #Economy #Philippines #Imports YoY #Importance 1
+
+Philippines Imports Growth at 3-Month Low — The Philippines’ trade deficit widened to USD 4.9 billion in June 2026 from USD 4.4 billion in the same month a year earlier. Imports rose 19.6% year-on-year to USD 13.7 billion, driven by increased purchases of electronic products (+82.9%), mainly semiconductors (+105.4%), amid growing global AI demand. Imports also grew for mineral fuels (+6.3%), industrial machinery and equipment (+1.3%), and cereals (+48.1%). China accounted for the largest share of imports (31.7%), followed by South Korea (13.0%), Japan (6.7%), and Indonesia (6.7%). Meanwhile, exports rose 24.1% to USD 8.8 billion, led by electronic products (+35.2%), primarily semiconductors (+33.4%). Exports also increased for machinery and transport equipment (+28.6%), gold (+43.8%), and other manufactured goods (+9.8%). The US remained the top export market, accounting for 20.1% of total exports, followed by Hong Kong (15.3%), China (11.4%), and Japan (11.3%). In H1 2026, the trade gap stood at USD 30.8 billion.
+
+---
+
+### 2026-07-30 09:19:37  #MKT News #Important #005930.KS #Impact bullish
+
+Samsung Electronics said its memory business expects server demand to accelerate this year.
+
+---
+
+### 2026-07-30 09:19:00  #國際
+
+伊朗格什姆島遭襲，居民區受損。
+
+---
+
+### 2026-07-30 09:18:51  #公司
+
+三星第二季度資本支出16.8萬億韓元，其中15.4萬億韓元用於晶片。
+
+---
+
+### 2026-07-30 09:18:34  #MKT News #Important #Market Themes #Chip Wars #005930.KS #Impact bullish
+
+Samsung Electronics reported Q2 DRAM shipments rose a low double-digit percent quarter-on-quarter.
+
+---
+
+### 2026-07-30 09:18:29  #Trading Economics #Economy #Philippines #Balance of Trade #Importance 1
+
+Philippine Trade Gap Widens in June — The Philippines’ trade deficit widened to USD 4.9 billion in June 2026 from USD 4.4 billion in the same month a year earlier. Imports rose 19.6% year-on-year to USD 13.7 billion, driven by a sharp increase in purchases of electronic products (+82.9%), mainly semiconductors (+105.4%), amid growing global AI demand. Imports also increased for mineral fuels (+6.3%), industrial machinery and equipment (+1.3%), and cereals and cereal preparations (+48.1%). China accounted for the largest share of imports (31.7%), followed by South Korea (13.0%), Japan (6.7%), and Indonesia (6.7%). Meanwhile, exports rose 24.1% to USD 8.8 billion, led by electronic products (+35.2%), primarily semiconductors (+33.4%). Exports also increased for machinery and transport equipment (+28.6%), gold (+43.8%), and other manufactured goods (+9.8%). The US remained the top export market, accounting for 20.1% of total exports, followed by Hong Kong (15.3%), China (11.4%), and Japan (11.3%).
+
+---
+
+### 2026-07-30 09:17:33  #MKT News
+
+IRNA reports the Kish Free Zone Organization said a US strike on Kish Island minutes ago caused no damage to the island's urban or residential areas.
+
+---
+
+### 2026-07-30 09:17:05  #其他
+
+【7月以來寬基ETF淨流入2946億 昨日吸金365億創年內第四高】Wind資料顯示，7月29日ETF市場淨流入423.59億元。其中，寬基ETF貢獻364.51億元的淨流入額，這已是寬基ETF連續第5個交易日的淨流入，單日淨流入額是年內第四高。中證1000ETF南方淨流入57.14億元，中證500ETF南方、科創50ETF華夏也分別淨流入43.39億元、40.15億元；創業板ETF易方達則淨流入36.05億元，淨流入超過20億元的還有中證1000ETF華夏、滬深300ETF華泰柏瑞，其中，滬深300ETF華泰柏瑞規模繼續回升至1208.32億元。7月以來，全市場ETF合計淨流入4783.48億元，其中寬基ETF淨流入2945.96億元。
+
+---
+
+### 2026-07-30 09:16:47  #國際
+
+【日本熊本縣發生4.2級地震 】 據日本氣象廳訊息，日本當地時間30日9時56分左右，日本熊本縣天草及蘆北地區發生4.2級地震，最大震感為震度3，震源深度10公里。
+
+---
+
+### 2026-07-30 09:16:34  #Trading Economics #Economy #Philippines #Producer Prices Change #Importance 1
+
+Philippines Producer Inflation Edges Down to 3% in June — Producer prices in the Philippines increased by 3.0% year-on-year in June 2026, easing slightly from an upwardly revised 3.1% rise in May, which was the highest level since February 2023. The slowdown was mainly due to softer price growth in the manufacture of coke and refined petroleum products (2.4% vs 3.0% in May), computer, electronic and optical products (5.6% vs 5.9%), and basic metals (5.5% vs 5.9%). Meanwhile, producer price inflation for food picked up (1.7% vs 1.5%), led by a faster increase in the manufacture of grain mill products, starches, and starch products (2.5% vs 0.7%). On a monthly basis, producer prices rose by 0.2% in June, following a 0.3% increase in the previous month. For the first half of 2026, producer prices went up by 2.3% compared with the same period a year earlier.
+
+---
+
+### 2026-07-30 09:16:16  #市場 #國際
+
+日本騰龍股價在索尼提出收購要約後，漲停板顯示漲幅達26%。
+
+---
+
+### 2026-07-30 09:15:21  #市場
+
+人民幣兌美元中間價報6.7892元，較上日調高7點。
+
+---
+
+### 2026-07-30 09:15:19  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+TASNIM NEWS reports a missile strike struck a residential area on Iran's Qeshm Island.
+
+---
+
+### 2026-07-30 09:15:13  #其他
+
+LG新能源：計劃於2027年推出鈉電池樣品。
+
+---
+
+### 2026-07-30 09:15:02  #市場
+
+恒指期貨日盤開盤漲0.47%，報25889.96點，高水82.04點。
+
+---
+
+### 2026-07-30 09:14:24  #MKT News #Important #005930.KS #Impact bullish
+
+Samsung Electronics said semiconductor division capex in Q2 2026 was KRW 15.4 trillion.
+
+---
+
+### 2026-07-30 09:14:07  #公司
+
+三星電子：2026年第二季度晶片部門資本支出為15.4萬億韓元。
+
+---
+
+### 2026-07-30 09:14:05  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+【U.S. forces strike Abadan; explosions reported in Bandar Abbas】Islamic Republic of Iran Broadcasting (IRIB) cited Khuzestan province deputy security minister saying U.S. forces struck several sites in Abadan. Two explosions were heard in Bandar Abbas, the port city in Hormozgan province; similar blasts were reported on Abu Musa, Kish and Qeshm islands.
 
 ---
 
@@ -22694,155 +22958,5 @@ SK Hynix (SKHY.O) shares turned higher in US after-hours trading after earlier s
 ### 2026-07-29 07:43:33  #國際
 
 【俄稱打擊烏無人機生產車間和倉庫 烏稱打擊俄戰略油庫】俄羅斯國防部7月28日通報稱，過去一天，俄軍對烏軍的彈藥庫、燃料庫、無人機生產車間和無人機儲存設施進行了打擊。此外，俄軍還打擊了烏軍使用的能源和交通基礎設施以及烏克蘭武裝部隊和外國僱傭兵在142個區域的臨時部署點，控制了頓涅茨克地區的紅庫特居民點。通報還稱，俄軍28日白天繼續打擊用於烏軍補給的港口和船隻。烏克蘭武裝部隊總參謀部28日通報稱，烏軍對俄多處軍事相關設施實施打擊，核心目標為俄羅斯烏德穆爾特共和國境內的一處聯合企業。該設施是封閉式國家級戰略油料儲備基地。除戰略油庫外，烏方還襲擊了多個地區的俄軍物資技術裝備倉庫、燃料潤滑材料倉庫和無人機倉庫。
-
----
-
-### 2026-07-29 07:43:10  #國際
-
-加拿大林產品生產商Canfor表示，將關閉位於艾伯塔省的一家工廠，理由是美國的貿易政策以及野火和蟲害對供應造成的衝擊。本月早些時候，Canfor關閉了位於不列顛哥倫比亞省的一家紙漿廠，理由是全球市場供過於求。
-
----
-
-### 2026-07-29 07:43:00  #MKT News #Market Themes #Chip Wars #SKHY.O #Impact bearish
-
-SK Hynix (SKHY.O) U.S. after-hours loss narrowed to 2.5%.
-
----
-
-### 2026-07-29 07:41:55  #公司 #觀點
-
-【中信建投：半導體裝置全球景氣週期持續確認，關注漲價+出海】中信建投研報稱，SEMI更新預測、預計半導體裝置未來3年持續增長。SEMI預計2026年全球半導體制造裝置銷售額將創下1659億美元的歷史新高，同比+23.2%。增長勢頭預計將持續至2028年，總裝置銷售額有望達到創紀錄的2295億美元，實現連續五年增長。臺積電上修26年資本開支。臺積電預計2026年全年資本支出為600億至640億美元，此前預估為520億至560億美元，上調80億美元，幅度約15%。ASML整體業績全面超市場及公司前期指引。季度總淨銷售額93.26億歐元，同比+21%、環比+6.4%，大幅超越公司前期84–90億歐元指引及市場88.5億歐元一致預期，年內第二次上調全年業績目標，AI算力+儲存復甦雙驅動行業高景氣，盈利結構持續最佳化。全球半導體裝置零部件正經歷一輪歷史罕見的全鏈條漲價潮。半導體產業鏈的定價權正從晶片終端向裝置與零部件環節結構性上移。零部件企業規模較小、固定成本佔比高，漲價直接轉化為利潤；同時產線擴產週期長達12-18個月，供給彈性最差。重視閥門管路、陶瓷件、射頻電源、GAS BOX等海外供應商交期延長帶來的國產替代訴求與漲價邏輯。
-
----
-
-### 2026-07-29 07:40:57  #市場 #國際
-
-【油價連跌三日後上漲 美國擊退伊朗的突襲企圖】在中東爆發新一輪衝突、能源供應持續面臨威脅的背景下，油價在連續三日下跌後出現反彈。WTI原油期貨一度上漲逾5%，突破每桶83美元，部分收復了過去三個交易日14%的跌幅。布倫特原油週二收於84美元附近。據X平臺的一則帖子顯示，美軍表示已成功攔截了伊朗針對駐中東美軍的“突襲企圖”。此外，伊拉克境內由伊朗支援的民兵組織連續第二天向沙烏地阿拉伯東部地區的石油設施發射無人機，給正因海上封鎖而面臨原油運輸受限的沙特施加了更大壓力。沙特國防部表示週二已攔截了這些無人機，但未說明相關設施是否受損。
-
----
-
-### 2026-07-29 07:40:33  #公司 #國際
-
-【日本熊本縣發生強震，臺積電、豐田、本田等多家公司業務受影響】豐田汽車九州已停止福岡縣3家工廠的生產，計劃7月29日上午恢復。本田主要生產摩托車等的熊本製造所已停工，將持續至29日傍晚。臺積電表示，熊本工廠員工一度疏散至室外避險，在確認建築安全後返回工廠，正在建設中的熊本第二工廠則部分暫停施工。東京電子宣佈，熊本縣內2家工廠29日將停工。藏壽司宣佈熊本縣內6家門店停業，便利店7-Eleven、全家和羅森也有部分門店停業。
-
----
-
-### 2026-07-29 07:39:55  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-The regional governor said an airstrike hit Taganrog, Russia, killing one and wounding one.
-
----
-
-### 2026-07-29 07:39:38  #其他
-
-【月之暗面啟動Kimi全球大使招募計劃】7月28日，月之暗面宣佈，Kimi全球大使計劃現已開啟，“面向全球招募一批在真實場景中深度使用Kimi、並願意將經驗與洞察分享給更多人的先行者”。
-
----
-
-### 2026-07-29 07:38:21  #央行 #國際
-
-【英國智庫NIESR小幅上調經濟增長預期，警告通脹將持續至2029年】英國一家主要智庫在央行公佈利率決議前一天釋出的預測顯示，儘管伊朗戰爭引發能源價格衝擊，但英國經濟展現的韌性超出預期；不過通脹率在2029年之前，預計將持續高於央行的目標水平。英國國家經濟社會研究院(NIESR)週三表示，預計2026年國內生產總值（GDP）同比將增長1.1%，高於4月預測的0.9%增幅。“今年上半年，英國經濟展現出令人意外的韌性，但還是會出現增長放緩。即使中東局勢相對迅速恢復和平，通脹仍將上升，新任財政大臣將需要做出一些艱難的決定，”NIESR宏觀經濟副主任Stephen Millard表示。該機構預計2026年平均通脹率為3.1%，高於6月預測的2.6%。通脹率預計在2027年2月達到3.8%的峰值，低於4月預測的4.1%。通脹率要到2029年才能回到目標水平，比此前預測晚一年。
-
----
-
-### 2026-07-29 07:38:13  #公司 #觀點
-
-【中信建投：人形機器人板塊多重催化共振，建議聚焦優質環節】中信建投研報稱，人形機器人板塊多重催化共振，建議聚焦優質環節。特斯拉Optimus邁向量產時代，宇樹IPO順利推進，優必選釋出超仿生新品，板塊多重催化共振。物理AI是人工智慧的下一波浪潮，機器人是AI最好的物理載體之一，產業發展趨勢明確。頭部廠商積極推進人形機器人在工業、商業等場景下的應用；隨著機器人泛化水平提高，預計其落地場景將進一步擴大，2026年有望成為人形機器人垂類應用大年。龍頭量產有序推進，且供應鏈量產量綱指引逐步清晰，其放量節奏得以驗證。後續V3產品釋出、量產應用值得密切關注。此外國產機器人公司新品釋出、IPO推進、應用落地持續為板塊行情帶來催化，看好板塊行情表現，建議聚焦優質環節。
-
----
-
-### 2026-07-29 07:38:09  #其他
-
-【智利釋出漢坦病毒衛生警報】當地時間7月28日，智利衛生部首次針對漢坦病毒釋出衛生警報，覆蓋全國16個大區中的13個大區，有效期至2027年7月31日。智利衛生部副部長阿萊杭德拉·皮薩羅表示，截至上週，智利累計報告46例漢坦病毒感染病例、18例死亡病例，病死率達39%，較2025年的18%明顯上升，因此政府決定釋出衛生警報。
-
----
-
-### 2026-07-29 07:36:46  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Slip as Middle East Risks Resurface — US stock futures declined on Wednesday after US forces intercepted a surprise Iranian attack targeting American troops in the Middle East, driving oil prices higher and renewing concerns over inflation and the outlook for interest rates. Investors also awaited the Federal Reserve’s policy decision, where it is expected to leave interest rates unchanged, although some traders continue to price in the possibility of a rate hike. In corporate news, Ford Motor surged nearly 4% in after-hours trading after the automaker topped earnings expectations and raised its 2026 outlook. Meanwhile, SK Hynix dropped almost 2% despite reporting another record quarterly profit, as results came in below analyst estimates. Visa also fell more than 1% after the payments company issued weaker-than-expected guidance. During Tuesday’s regular session, the Dow and S&P 500 gained 1.03% and 0.21%, respectively, while the tech-heavy Nasdaq Composite slipped 0.22%.
-
----
-
-### 2026-07-29 07:36:43  #公司 #市場 #國際
-
-【澳大利亞股指期貨走高】澳大利亞股指期貨預示開盤走高，此前美國股市因對美國和伊朗正邁向和平談判的樂觀情緒而上漲。在開盤前，ASX期貨上漲0.8%，不過這一資料出現在美國軍方表示攔截了伊朗在對美軍的突襲中發射的彈道導彈之前。本週迄今為止，澳大利亞S&P/ASX 200指數已累計上漲2.0%。在開盤前，鐵礦石開採商力拓提高了中期股息，此前該公司上半年利潤增長了47%。Perpetual表示拒絕了殷拓AB的最新提議，但表示將與這家澳大利亞私募股權投資機構進行接觸。Woodside Energy報告季度營收增長28%。黃金開採商Northern Star表示，將於下個月釋出年度預期。
-
----
-
-### 2026-07-29 07:36:38  #觀點
-
-【中信建投：800VDC將成為供電架構迭代的關鍵催化】中信建投研報稱，800VDC強趨勢已成為各AI晶片、電源企業共識，為供電架構演進的關鍵催化。主要變化在於：（1）櫃外從交流輸出轉向直流輸出，功率密度不斷提升，UPS向HVDC power rack（sidecar）、巴拿馬電源、SST等方向迭代；（2）櫃內PSU功率密度提升，隨後因800V DC入櫃還需增設800V-50V等 DCDC環節；（3）板級50V-12V、12V-1V DCDC降壓環節裝置用量大，價值量提升明顯。建議關注各層級價值量集中環節。
-
----
-
-### 2026-07-29 07:36:03  #MKT News #Macro & Rates #The Fed (FOMC) #Commodities #Precious Metals #XAUUSD #Impact bearish #WTI #Impact bullish
-
-【Traders weigh Fed rate outlook; gold edges lower】On the eve of the Fed's rate decision, spot gold eased to about $4,020/oz in early trade, extending the prior session's decline. Fed swaps imply roughly a one-third probability of a 25bp hike, an unusually high level of near-term uncertainty. Policymakers may be caught between softer-than-expected June inflation and renewed US-Iran hostilities this month that have pushed oil prices higher; since the US-Iran conflict began five months ago, gold has fallen nearly 25%. Dip buying has kept prices anchored near the $4,000/oz support level since late June.
-
----
-
-### 2026-07-29 07:34:22  #其他
-
-聯合國將於週四開始就新任聯合國秘書長人選舉行非正式投票。
-
----
-
-### 2026-07-29 07:33:48  #市場
-
-SK海力士股價收復失地，在盤前交易中轉為上漲，此前一度下跌6.5%。
-
----
-
-### 2026-07-29 07:32:31  #MKT News #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bullish #DXY #Impact mixed #US10Y
-
-【Guan Tao: hawkish Fed official's deeper intent may still favour rate cuts】Guan Tao, global chief economist at BOC Securities, wrote that Fed disagreement over US inflation and rate policy remains, roughly split into three camps: dovish (Williams), neutral (Waller) and hawkish. A hawkish Fed official who testified to the Senate Banking Committee on July 15 repeatedly voiced dissatisfaction with inflation, reiterated a zero-tolerance stance and said the Fed would continue to push inflation back to target. Guan says the official may be staking out a hawkish posture now to build credibility and anchor inflation expectations, but his push to revise the inflation framework and his long-run view that AI will exert disinflationary pressure suggest his deeper intent may still lean toward eventual rate cuts. The official even said he is more concerned with the digits to the left of the decimal point of inflation. Guan therefore sees the Fed likely to keep policy unchanged through the year; however, if US financial turmoil, recession or labour-market deterioration occur over the next two years, the Fed could restart cuts. Current market pricing for additional hikes may be excessive.
-
----
-
-### 2026-07-29 07:31:52  #公司
-
-【雍禾醫療：預計上半年淨利潤同比增長不少於150.9%】7月29日，雍禾醫療在港交所公告，集團預計於截至2026年6月30日止六個月錄得淨利潤不少於人民幣7000萬元，較2025年同期淨利潤人民幣2790萬元增長不少於150.9%；集團收入預計較2025年同期實現穩健增長不少於10.0%。
-
----
-
-### 2026-07-29 07:30:21  #國際
-
-【報告：2030年歐盟或缺500萬ICT專業人才】歐洲改善生活和工作條件基金會（Eurofound）近日釋出報告說，按當前增速，歐盟難以實現“數字十年”政策方案設定的到2030年擁有2000萬名資訊與通訊技術（ICT）專業人才的目標，缺口預計約500萬人。（新華財經）
-
----
-
-### 2026-07-29 07:28:52  #公司
-
-【券商積極參與碳交易 綠色金融佈局持續深化】近日，東北證券釋出公告稱，公司收到中國證監會《關於東北證券股份有限公司參與碳排放權交易有關意見的覆函》，公司自營業務可在境內合法交易場所參與碳排放權交易。記者梳理發現，今年以來已有10家券商相繼取得碳排放權交易資質，具備相關資質的券商數量增至28家。資質擴容的背後，綠色金融正成為證券行業探索業務轉型的重要方向。多家券商已圍繞碳交易、碳資產管理、綠色債券、ESG投資等領域進行佈局。業內人士表示，全國碳市場穩步發展，為券商的參與提供了更豐富的業務場景，券商可依託交易、定價和風險管理優勢，探索碳資產交易、綠色融資等綜合服務。（上海證券報）
-
----
-
-### 2026-07-29 07:28:50  #其他
-
-【多地劃定政府投資基金投向“路線圖”新能源、傳統產業升級、人工智慧是核心佈局方向】據記者不完全統計，7月份以來已有山東、山西、吉林、甘肅、內蒙古等地相繼公佈政府投資基金重點投資領域清單。此外，河北對外發布了《河北省政府投資基金重點投資領域清單（試行）（徵求意見稿）》。 從投資領域看，新能源、傳統產業升級、人工智慧是各地的核心佈局方向。同時，各地立足自身資源稟賦與產業基礎，在成熟產業扶持、前沿未來產業培育兩大維度走出差異化佈局路徑。 受訪專家表示，新能源、傳統產業升級、人工智慧成為各地共同發力方向，貼合國家產業轉型頂層規劃，有利於凝聚跨區域產業發展合力。同時，各地結合資源基礎差異化佈局，能夠規避同質化投資、低效重複建設問題。此外，清單清晰劃定投資邊界，可充分發揮政府基金耐心資本屬性，撬動社會資本聚焦科創、綠色等實體經濟領域，補齊各地產業鏈短板。（證券日報）
-
----
-
-### 2026-07-29 07:28:20  #市場
-
-【港股IPO市場持續升溫 科技與“A+H”雙輪驅動】2026年以來，港股首次公開募股（IPO）市場延續強勁勢頭。港交所資料顯示，截至6月30日，2026年受理的上市新申請共373宗，加上2025年底結轉的372宗未處理完畢申請，合計745宗處於處理流程之中，其中528宗處於處理中狀態。Wind資料顯示，截至7月28日，年內港股市場共完成100宗IPO，募資總額約2723.39億港元。半導體、AI大模型、智慧硬體等科技企業仍是上市核心主力，“A+H”上市熱度持續攀升。分析人士認為，隨著內地科技龍頭加速赴港上市及互聯互通機制持續深化，港股作為新經濟企業上市首選地的地位將進一步鞏固。（中國證券報）
-
----
-
-### 2026-07-29 07:27:47  #公司
-
-【“個貸融資成本明示”即將實施 多家機構提前完成合規佈局】《個人貸款業務明示綜合融資成本規定》8月1日起施行，相關機構加速系統改造、完善協議文字。記者調研發現，部分商業銀行、消費金融公司已釋出明示貸款成本方案並上線綜合融資成本明示相關流程，部分助貸機構也在探索與放貸機構新的合作模式，以適配監管新規要求。（中國證券報）
-
----
-
-### 2026-07-29 07:27:39  #MKT News #Commodities #Energy #Copper #Impact bullish #WTI
-
-RIO (RIO.N) CEO says electrification is shifting commodity demand; diesel supply security remains the primary concern.
-
----
-
-### 2026-07-29 07:27:13  #MKT News #Commodities #Industrial Metals #RIO.N
-
-RIO (RIO.N) CEO says lithium demand from grid-scale energy-storage batteries has outpaced expectations.
 
 ---

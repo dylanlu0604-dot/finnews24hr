@@ -1,7 +1,337 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-01 20:07:08_
-_本檔包含 3311 則快訊，約 674349 字_
+_更新時間：2026-08-01 21:44:19_
+_本檔包含 3329 則快訊，約 674189 字_
+
+---
+
+### 2026-07-27 22:50:31  #其他
+
+【應急管理部研究部署當前安全生產和防汛防颱風工作】7月27日，應急管理部召開黨委會議、部務會議，研究部署當前安全生產和防汛防颱風工作。會議要求，緊盯颱風“紅霞”後續影響，強化監測預警，嚴防局地極端強降雨造成人員傷亡。要抓實“七下八上”防汛關鍵期各項防範工作，督促各地在高風險區預置力量、物資、裝備，遇到險情快速響應、有效處置。要紮實開展中央安全生產考核巡查三季度明查暗訪，督促各地各有關部門嚴格落實責任，抓好礦山、消防、危化、煙花爆竹、工貿等重點行業領域專項整治，強化風險研判和針對性部署，堅決穩控安全生產形勢。
+
+---
+
+### 2026-07-27 22:49:34  #市場 #央行 #國際
+
+【美銀：成功捍衛日元需日本央行釋放鷹派訊號】美國銀行證券日本外匯及利率首席策略師山田周介（Shusuke Yamada）表示，要成功捍衛日元匯率，僅靠財務省的匯市干預遠遠不夠，日本央行必須釋放明確的鷹派政策訊號。他指出，隨著美元兌日元匯率逼近165關口，日本當局干預匯市的風險正顯著上升。山田周介在最新研報中分析稱，儘管7月份加息的機率極低，但日本央行決策層需透過前瞻指引，有效提振市場對9月份加息的預期。目前，利率互換市場定價顯示，9月份加息25個基點的機率僅為27%。該策略師強調，165是美元兌日元匯率下一個潛在的干預門檻。若放任匯率大幅突破該水平，將被市場解讀為日本當局缺乏捍衛日元的決心，進而可能引發加速拋售日元的連鎖反應。目前，美元兌日元匯率在163.70附近交投，已逼近上世紀80年代中期以來的歷史低位。此外，大規模匯市干預還可能引發市場對日本國債遭拋售的擔憂。山田周介指出，從貨幣外交的角度來看，任何實質性的外匯干預實際上都會增加日本央行進一步收緊貨幣政策的壓力。在政治層面，隨著日本首相高市早苗的支援率出現下滑，允許日元進一步貶值的政治代價正在攀升。山田周介總結認為，日本當局正接近一個必須實質性加強日元捍衛力度的臨界點。
+
+---
+
+### 2026-07-27 22:48:58  #其他
+
+德國半導體板塊個股走低。
+
+---
+
+### 2026-07-27 22:48:34  #市場
+
+巴西中央銀行展期所有5萬份外匯掉期合約。
+
+---
+
+### 2026-07-27 22:48:20  #MKT News #Important #Commodities #Industrial Metals
+
+Most-active coking coal futures contract fell more than 2.00% intraday to 1,245.00 yuan/ton.
+
+---
+
+### 2026-07-27 22:47:29  #國際
+
+美國國家颶風中心（NHC）表示，“吉納維芙”正以強四級颶風強度向西北方向移動。
+
+---
+
+### 2026-07-27 22:47:29  #Trading Economics #Economy #United States #Dallas Fed Manufacturing Index #Importance 1
+
+US Dallas Fed Manufacturing Activity Rises in July — The Dallas Fed's general business activity index for Texas manufacturing rose to 1.3 in July 2026, up from 0 in June. Broader conditions strengthened, with the company outlook index jumping 11 points to 13.4 as uncertainty eased (6.4 vs. 10.9). Manufacturing activity accelerated, with the production index rising to 10.1 from 4.1, supported by stronger new orders (6.4 vs. 2.3) and shipments (8.8 vs. 7.1). Meanwhile, finished goods inventories declined (1.5 vs. 7.8), while delivery times lengthened slightly (2.3 vs. 0.9). Labor market conditions remained broadly stable, although employment (12.2 vs. 13.9) and hours worked (4.3 vs. 5.9) eased, while the wages and benefits index climbed (30.8 vs 25.8). Price pressures remained elevated despite slight moderation in prices paid and received. Looking ahead, firms continue to expect strong manufacturing activity over the next six months, with future production (34.6) and general business activity (26.5) remaining little changed.
+
+---
+
+### 2026-07-27 22:46:13  #其他
+
+【深港兩地將共建大灣區植物園】在廣東省林業局、深圳市政府、香港特區政府環境及生態局共同見證下，深圳市規劃和自然資源局（市林業局）、深圳市城市管理和綜合執法局與香港特區政府漁農自然護理署、康樂及文化事務署27日在深圳共同簽署《深港兩地共建植物園合作框架安排》，深港兩地共建大灣區植物園正式啟動，開啟粵港澳大灣區生態合作新篇章。 據深圳市規劃和自然資源局（市林業局）相關負責人介紹，本次合作標誌著深港植物多樣性協同保護邁入全新階段。雙方將圍繞《國家植物園體系佈局方案》總體部署，充分發揮兩地在體制機制、生態區位、科技人才、產業基礎等方面的獨特優勢，聚焦植物多樣性收集與保護、生態保護與廊道建設、科研協同與能力建設、科普宣教與園林園藝展示、植物資源可持續利用五大重點領域，開展全方位、深層次戰略合作，全力打造粵港澳大灣區生態融合發展標杆示範，為健全完善國家植物園體系、講好新時代生態文明建設中國故事貢獻深港力量。（新華社）
+
+---
+
+### 2026-07-27 22:45:49  #國際
+
+SCORPIO GOLD CORP: 擬尋求美國存託憑證在納斯達克上市。
+
+---
+
+### 2026-07-27 22:45:07  #其他
+
+達納天然氣：已從庫爾德地區政府及伊拉克聯邦政府最高層獲得對當前局勢的最新評估與明確承諾。
+
+---
+
+### 2026-07-27 22:44:45  #公司 #市場 #焦點
+
+【美股AI硬體個股重挫：費城半導體指數跌5% SK海力士下跌近10%】費城半導體指數下跌5.02%。英偉達股價下跌4.03%，臺積電股價下跌3.47%，博通股價下跌2.02%，SK海力士股價下跌9.73%，美光科技股價下跌6.97%，超威半導體股價下跌8.51%，阿斯麥股價下跌7.3%，英特爾股價下跌5.38%，泛林集團股價下跌7.45%，ARM股價下跌3.02%。美光科技下跌6.94%，SK海力士下跌9.39%，閃迪下跌13.79%，西部資料下跌9.28%，希捷科技下跌8.09%，鎧俠ADR下跌6.65%。
+
+---
+
+### 2026-07-27 22:44:15  #MKT News
+
+Iranian lawmaker Hazrian said from a legal perspective Oman cannot open the Strait of Hormuz without coordinating with Iran.
+
+---
+
+### 2026-07-27 22:43:43  #MKT News #Important #Market Themes #Chip Wars #ASML.AS #Impact bearish #BESI.AS
+
+Amsterdam-listed ASML and BE Semiconductor (Besi) were automatically suspended after shares fell about 8.0%–8.7%.
+
+---
+
+### 2026-07-27 22:43:24  #市場
+
+義大利普睿司曼(Prysmian)股價下跌4.49%後自動停牌。
+
+---
+
+### 2026-07-27 22:43:13  #公司
+
+【倫丁礦業：智利礦區在風暴後重啟或需2-3周】倫丁礦業公司（Lundin Mining Corp.）表示，在嚴重風暴損壞基礎設施後，其位於智利的關鍵銅礦之一可能需要大約兩到三週的時間才能恢復運營。這家總部位於加拿大溫哥華的公司週一在一份宣告中表示，上週的強降雨和降雪損壞了為倫丁礦業Caserones銅礦供電的兩座輸電塔，該礦自7月18日以來一直處於斷電狀態。目前，公司團隊已動員起來修復受損設施，同時進出礦區的道路正在逐步恢復通行。
+
+---
+
+### 2026-07-27 22:42:47  #市場 #焦點
+
+阿姆斯特丹上市的阿斯麥和BESI股價在下跌8%至8.7%後被自動暫停交易。
+
+---
+
+### 2026-07-27 22:41:25  #國際
+
+【伊朗議員：阿曼無權單方面決定霍爾木茲海峽通航】當地時間7月27日，伊朗議會國家安全和外交政策委員會委員胡茲裡安（Khazarian）發表宣告，從國際法與歷史條約角度強調，阿曼在未經伊朗協調的情況下，無權單方面定義和執行霍爾木茲海峽的船舶通行規則。胡茲裡安指出，儘管伊朗與阿曼在1974年已根據等分線原則劃定了海底大陸架邊界，但兩國寬度不足24海里的領海水域至今尚未完成劃界。這意味著，若該水域達到24海里寬度，將分別構成伊朗12海里領海與阿曼12海里領海，但在當前未劃界狀態下，任何單方面行動均缺乏法理基礎。他進一步援引歷史檔案說明，兩國於1974年3月7日在阿曼蘇丹卡布斯訪德黑蘭期間發表聯合宣告，明確以“安全合作”取代“海域劃界”，在霍爾木茲海峽實行共同管轄。這一安排實質上確立了兩國在該海峽的“共同使用權”，任何涉及海峽通航的重大決定均需雙方協商一致。
+
+---
+
+### 2026-07-27 22:40:33  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Russian Defence Ministry said Russian forces also struck the ports of Chornomorsk and Mykolaiv in Ukraine.
+
+---
+
+### 2026-07-27 22:40:06  #國際
+
+俄羅斯國防部：俄軍還打擊了切爾諾莫爾斯克港與尼古拉耶夫港。
+
+---
+
+### 2026-07-27 22:40:05  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bearish
+
+Nasdaq-100 fell more than 1% to its lowest level since May 4.
+
+---
+
+### 2026-07-27 22:39:21  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Russian Defence Ministry said Russian forces struck facilities at Ukraine's port of Odesa.
+
+---
+
+### 2026-07-27 22:38:07  #市場
+
+納斯達克100指數下跌1%，觸及5月4日以來最低點。
+
+---
+
+### 2026-07-27 22:37:01  #其他
+
+【哈工大學生團隊平均22歲“手搓”5釐米超薄衛星】7月22日10時54分，上海附近海域，乘搭引力一號遙四運載火箭，一顆特殊的衛星升空。11時41分，地面成功接收到衛星遙測資料。這顆衛星叫“紫丁香三號”，來自哈工大紫丁香學生微納衛星團隊——一支被譽為“中國最年輕的航天力量”的隊伍。
+
+---
+
+### 2026-07-27 22:36:54  #市場
+
+納斯達克指數與標普500指數回吐漲幅；納斯達克下跌0.5%，標普500下跌0.1%。
+
+---
+
+### 2026-07-27 22:35:22  #市場
+
+多倫多證券交易所指數<.GSPTSE>轉跌，下滑0.1%。
+
+---
+
+### 2026-07-27 22:35:15  #其他
+
+【官方通報河南“三支一扶”高分爭議】7月27日，河南省“三支一扶”工作領導小組協調辦公室釋出宣告：近日，網路平臺出現我省安陽、平頂山、駐馬店、濟源等地2026年高校畢業生“三支一扶”高分考生集中等相關輿情資訊，引發廣大考生、家長及社會各界關注。我們對此高度重視，第一時間成立工作組，針對網傳內容開展全面、嚴謹的調查核實工作，儘快查明真相，及時通報情況，如發現違規違紀問題，將移交有關部門嚴肅查處，切實保障廣大考生合法權益、維護考試公平公正。
+
+---
+
+### 2026-07-27 22:34:15  #MKT News #Macro & Rates #US Economy
+
+US Dallas Fed manufacturing employment index 12.2 in July, down from 13.9 previously.
+
+---
+
+### 2026-07-27 22:34:01  #MKT News #Economic Calendar #Important
+
+United States | Dallas Fed Employment Index (Jul) | actual 12.2 | previous 13.9
+
+---
+
+### 2026-07-27 22:33:58  #MKT News #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
+
+US Dallas Fed New Orders Index (July) 6.4, prior 2.3.
+
+---
+
+### 2026-07-27 22:33:50  #市場
+
+英偉達股價下跌4%，報198.680美元/股，總市值報4.81萬億美元。
+
+---
+
+### 2026-07-27 22:33:48  #MKT News #Economic Calendar #Important
+
+United States | Dallas Fed New Orders Index (Jul) | actual 6.4 | previous 2.3
+
+---
+
+### 2026-07-27 22:33:47  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
+
+US Dallas Fed finished-goods price index July reading 25.6, prior 28.6.
+
+---
+
+### 2026-07-27 22:33:39  #MKT News
+
+US Dallas Fed manufacturing raw materials prices paid index, July: 41.3; prior 42.4.
+
+---
+
+### 2026-07-27 22:33:36  #MKT News #Economic Calendar #Important
+
+United States | Dallas Fed Prices Received for Finished Goods (Jul) | actual 25.6 | previous 28.6
+
+---
+
+### 2026-07-27 22:33:33  #MKT News #Macro & Rates #US Economy
+
+US Dallas Fed manufacturing shipments index 8.8 in July, up from 7.1 in June.
+
+---
+
+### 2026-07-27 22:33:30  #MKT News #Economic Calendar #Important
+
+United States | Dallas Fed Prices Paid for Raw Materials (Jul) | actual 41.3 | previous 42.4
+
+---
+
+### 2026-07-27 22:33:23  #MKT News #Economic Calendar #Important
+
+United States | Dallas Fed Shipments Index (Jul) | actual 8.8 | previous 7.1
+
+---
+
+### 2026-07-27 22:32:26  #MKT News #S&P500 #Impact bullish #US10Y #Impact bearish #DXY
+
+US Dallas Fed manufacturing production index (July) 10.1, prior 4.1.
+
+---
+
+### 2026-07-27 22:32:16  #MKT News #Economic Calendar #Important
+
+United States | Dallas Fed Production Index (Jul) | actual 10.1 | previous 4.1
+
+---
+
+### 2026-07-27 22:32:11  #市場
+
+加元兌美元匯率觸及近兩週低點，1美元兌換1.4115加元。
+
+---
+
+### 2026-07-27 22:32:07  #央行 #美聯儲
+
+美國7月達拉斯聯儲製造業指數報1.3，預期2.0。
+
+---
+
+### 2026-07-27 22:32:07  #經濟數據 #美國
+
+美國7月達拉斯聯儲製造業指數報1.3，預期2.0。
+
+---
+
+### 2026-07-27 22:31:28  #市場
+
+費城半導體指數下跌4%。
+
+---
+
+### 2026-07-27 22:31:19  #MKT News #Important #DXY #Impact bullish #US10Y
+
+U.S. Dallas Fed business activity index for July rose to 1.3, the highest reading since January 2025.
+
+---
+
+### 2026-07-27 22:31:08  #MKT News #Important #SPCX.O
+
+SpaceX (SPCX.O) stock extended losses to 5%.
+
+---
+
+### 2026-07-27 22:30:48  #央行 #其他
+
+達拉斯聯儲7月德克薩斯州產出指數為10.1，6月該數值為4.1。
+
+---
+
+### 2026-07-27 22:30:39  #MKT News #Market Themes #AI Revolution
+
+【Altman to meet Trump administration officials in Washington this week to preview new OpenAI models】CNBC reports OpenAI founder Altman will meet senior Trump administration officials, lawmakers and economists in Washington this week to preview capabilities of a forthcoming suite of AI models. Sources say he is expected to field policymakers' questions on cybersecurity and OpenAI's stance on open-weight models, and will likely address an "unprecedented cybersecurity incident" the company disclosed earlier this month that rattled researchers and executives across the tech sector.
+
+---
+
+### 2026-07-27 22:30:35  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bullish #US10Y #Impact bearish #DXY
+
+U.S. Dallas Fed business activity index for July 1.3, prior 0.
+
+---
+
+### 2026-07-27 22:30:32  #央行 #國際
+
+美國7月達拉斯聯儲商業活動指數 1.3，前值0。
+
+---
+
+### 2026-07-27 22:30:25  #MKT News #Economic Calendar #Important
+
+United States | Dallas Fed Business Activity Index (Jul) | actual 1.3 | previous 0
+
+---
+
+### 2026-07-27 22:30:24  #市場
+
+標普500指數轉跌；納斯達克100指數下跌0.7%。
+
+---
+
+### 2026-07-27 22:30:10  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Bristol-Myers Squibb Stock Price Hits 16-month High — Bristol-Myers Squibb shares increased to 63.24 USD, the highest since March 2025. Over the past 4 weeks, Bristol-Myers Squibb gained 7.92%, and in the last 12 months, it increased 33.02%.
+
+---
+
+### 2026-07-27 22:29:10  #其他
+
+【美股儲存概念跌幅持續擴大】美股儲存概念板塊回吐盤初漲幅，跌幅持續擴大，閃迪(SNDK.O)跌超11%，SK海力士(SKHY.O)跌超7%，美光科技(MU.O)跌超5%。
+
+---
+
+### 2026-07-27 22:29:06  #MKT News #Important #SNDK.O #Impact bearish #SKHY.O #MU.O
+
+【US memory-storage stocks extend losses】US memory-storage sector has surrendered early gains and the selloff is widening: SanDisk (SNDK.O) down more than 11%, SK Hynix (SKHY.O) down more than 7%, Micron Technology (MU.O) down more than 5%.
+
+---
+
+### 2026-07-27 22:29:03  #公司 #國際
+
+【亞馬遜申請部署5000顆衛星網路 進軍手機直連市場加劇與SpaceX競爭】亞馬遜公司已正式向美國聯邦通訊委員會（FCC）提交申請，計劃發射一個由5000顆衛星組成的“直連裝置”網路，旨在從太空直接向智慧手機等移動終端提供通訊服務，從而進一步加劇其與SpaceX在衛星網際網路領域的競爭。根據亞馬遜提交的申請檔案，若獲得監管機構批准，該低地球軌道網路將實現全球覆蓋，能夠在傳統地面訊號塔無法觸及的偏遠地區，為智慧手機及其他移動裝置提供訊息傳遞、資料傳輸及緊急救援等關鍵服務。此舉被視為亞馬遜在幾個月前公佈擬以116億美元收購衛星公司Globalstar Inc.後的又一重要戰略動作。該收購交易一旦完成，將使亞馬遜獲得能夠直接向手機傳輸資料的關鍵頻譜使用權。在商業合作方面，亞馬遜表示計劃繼續尋求與傳統電信運營商的結盟。目前，亞馬遜已與沃達豐集團和DirecTV等公司建立合作伙伴關係，允許其向客戶提供基於衛星的服務。此外，亞馬遜旗下的Amazon Leo網路已與蘋果公司達成協議，將為iPhone和Apple Watch提供衛星通訊服務。這一佈局直接對標SpaceX的星鏈（Starlink）計劃。SpaceX此前已與T-Mobile US Inc.達成合作，而同樣致力於構建直連裝置網路的AST SpaceMobile公司也已與威瑞森通訊（Verizon）和美國電話電報公司（AT&T）簽署了相關協議。
 
 ---
 
@@ -19751,227 +20081,5 @@ Qatar Ministry of Transport said from July 26 all types of maritime transport an
 ### 2026-07-25 21:45:11  #MKT News
 
 【Iran official: Gaoshan facility "currently empty"】A senior Iranian security official told Iranian state TV that any US strike on the Gaoshan facility would be doomed to fail because the site is heavily fortified and, "more importantly, the facility is currently empty." He said Trump seeks to score political points by attacking Gaoshan but striking an empty depot only creates false narratives, and warned Iran would respond "in different ways" that "would not be limited to large-scale military action."
-
----
-
-### 2026-07-25 21:38:05  #其他
-
-【水利部專題部署颱風“紅霞”暴雨洪水防禦工作】7月25日下午，國家防總副總指揮、水利部部長李國英主持專題會商，影片連線水利部長江、黃河、淮河、海河、珠江、松遼、太湖等流域管理機構，分析研判第12號颱風“紅霞”發展態勢及影響，逐流域研判風險點位，系統安排部署颱風暴雨洪水防禦工作。李國英指出，今年第12號颱風“紅霞”將於7月25日夜間至26日凌晨在香港到廣東陸豐一帶沿海登陸，具有登陸強度大、攜帶水汽足、影響範圍廣、持續時間長等突出特點。受其影響，預報7月25日至30日，珠江、長江、淮河、黃河、海河等流域部分主要河流將出現明顯漲水過程，珠江流域東江可能發生編號洪水；颱風影響範圍內前期降雨多、土壤飽和，山洪災害風險高，中小河流洪水多發；受風、雨、潮共同影響，粵東閩南沿海部分潮位站將超警。
-
----
-
-### 2026-07-25 21:34:37  #國際
-
-【伊朗官員：鎬山設施“目前是空的”】據伊朗新聞電視臺25日援引一名伊朗訊息人士的話報道，伊朗的鎬山設施不僅堅固，而且“是空的”，美國襲擊鎬山的行動註定失敗，伊朗的回應不會僅限於大規模軍事行動。一名伊朗高階安全官員對伊朗新聞電視臺說：“（美國總統）特朗普想透過襲擊伊朗鎬山來為自己創造政績，但眾所周知，襲擊一個空置的倉庫只有利於製造虛假資訊，對現實毫無益處。”他強調，任何對鎬山的襲擊都註定失敗，因為該設施的防禦工事極為堅固，“更重要的是，該設施目前是空的”。這名官員還表示，伊朗會以不同的方式回應這一行動，“不會僅限於大規模軍事行動”。（新華社）
-
----
-
-### 2026-07-25 21:34:04  #觀點
-
-【中信建投：容量保障機制重塑火電板塊價值 首推成本可控、機組高效的REITs資產】中信建投研報表示，首批煤電REITs獲受理，火電資產證券化由燃氣發電進一步拓展至燃煤發電。新能源已基本承接新增電量，火電利用小時中樞下行；火電仍承擔基礎供電，其邊際價值更多體現為容量保障和靈活調節。容量電價將部分固定成本回收與發電量脫鉤，疊加供熱等收入，為專案現金流提供託底；但容量收入難以替代電量電價，專案盈利和估值仍由區域供需與電價、燃料成本及機組效率共同決定。首批兩單煤電REITs 2026年預測分派率為7.56%—7.85%，但短期分派率不等同於全週期回報，仍需結合資產久期、資本開支及全週期IRR判斷。投資層面，應從區域供需與機制、收支結構和資產稟賦三個層面篩選，首推收益機制清晰、燃料成本可控、機組效率較高且調節能力較強的火電資產。
-
----
-
-### 2026-07-25 21:33:42  #市場 #焦點
-
-美國天然氣暗盤日內跌超2%，現報2.9008美元。
-
----
-
-### 2026-07-25 21:31:45  #其他
-
-【第二艘國產18萬方超大型LNG運輸船今天交付】7月25日，在江蘇南通招商重工碼頭，我國自主設計建造的第二艘18萬立方米超大型LNG運輸船“果阿”輪順利交付。據統計，2026年以來南通地區已有50多艘新造船舶完成出口交付。（央視新聞）
-
----
-
-### 2026-07-25 21:31:01  #國際
-
-【古特雷斯：以色列在戈蘭高地的侵犯行為“不可接受”】正在敘利亞訪問的聯合國秘書長古特雷斯25日表示，以色列在戈蘭高地的侵犯行為“不可接受”。據敘利亞國家電視臺報道，古特雷斯在與敘過渡政府外長希巴尼舉行的聯合新聞釋出會上說，戈蘭高地是敘利亞領土，聯合國支援敘利亞的領土完整、獨立和主權，以色列在戈蘭高地的侵犯行為不可接受。古特雷斯說，國際社會應發揮更加積極有效的作用，透過聯合國安理會承擔起對敘利亞戈蘭高地問題的責任。
-
----
-
-### 2026-07-25 21:30:12  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-Interfax, citing Russia's deputy prime minister, said Moscow will extend its gasoline export ban through the end of the year and will lift it only "after the market recovers".
-
----
-
-### 2026-07-25 21:27:32  #市場 #焦點
-
-布倫特原油暗盤跌破92美元，日內跌超0.5%。
-
----
-
-### 2026-07-25 21:23:27  #國際
-
-俄羅斯將汽油出口禁令延長至年底，柴油出口禁令將被解除。
-
----
-
-### 2026-07-25 21:22:19  #MKT News
-
-【Yemen national TV: air strikes hit multiple Houthi military targets】Yemen national TV said on the 25th that air strikes hit multiple military targets in Houthi-controlled northern Yemen. Strikes in northeast Marib and Jawf provinces reportedly struck missile-launch platforms, rocket launch positions and weapons depots, killing several Houthi fighters including missile technicians. An anonymous local military official confirmed attacks on Houthi positions in southern Marib and multiple sites in eastern Jawf. Residents reported successive explosions. No independent assessment of damage is yet available.
-
----
-
-### 2026-07-25 21:21:30  #焦點 #國際
-
-【葉門媒體：胡塞武裝多個軍事目標遭空襲】據葉門國家電視臺25日報道，葉門胡塞武裝控制的北部地區多個軍事目標當天遭到空襲。報道稱，空襲目標包括胡塞武裝在葉門東北部的馬裡卜省和焦夫省多個地區的“導彈發射平臺、火箭彈發射陣地和武器庫”，襲擊造成“包括導彈技術人員在內的多名胡塞武裝人員死亡”。一名不願透露姓名的當地軍方官員向新華社記者證實，位於馬裡卜省南部的胡塞武裝陣地和焦夫省東部的若干處胡塞武裝控制地點遭空襲。當地居民也表示，目標區域傳出連續爆炸聲。截至目前，尚無關於襲擊所致損失的獨立評估報告。（新華社）
-
----
-
-### 2026-07-25 21:14:36  #MKT News
-
-Security sources said Iraqi air defenses shot down a drone near the U.S. consulate in Erbil.
-
----
-
-### 2026-07-25 21:13:16  #公司 #市場 #觀點
-
-【中信建投：看好電力裝置產業投資前景】中信建投研報表示，中國電力裝置出海迎來黃金髮展期。分市場來看，美歐市場對變壓器需求規模全球領先，需求持續高景氣而供需偏緊，中國企業北美出海保持高增長，有望持續提升市場滲透率。中信建投預計，歐美市場需求持續高景氣；中東等非美市場需求增加+歐美虹吸全球產能的背景下，中國企業將大有可為。出口頭部公司持續兌現基本面，強預期持續照進現實。
-
----
-
-### 2026-07-25 21:13:00  #國際
-
-安全訊息人士稱，伊拉克防空部隊在埃爾比勒美國領事館附近擊落一架無人機。
-
----
-
-### 2026-07-25 21:11:49  #國際
-
-俄羅斯方面任命的扎波羅熱地區行政長官葉夫根尼·巴利茨基稱，烏克蘭軍隊24日夜間至25日凌晨襲擊了該地區的旅遊營地。死亡人數已升至11人，其中包括四名兒童。
-
----
-
-### 2026-07-25 21:10:29  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-A Russia-appointed governor said the death toll from an attack on a holiday camp in the Russian-controlled area of Ukraine's Zaporizhzhia region has risen to 11, including four children.
-
----
-
-### 2026-07-25 21:06:21  #MKT News #Copper #Impact bullish
-
-【Heatwave scorches central U.S., raises electricity demand】A heatwave from the Rockies to the Mississippi Valley is pushing south toward the Gulf Coast and increasing strain on regional power grids and cooling demand. The NWS has extended extreme-heat warnings from Montana to Texas, including Dallas where highs are forecast near 100°F (38°C) through at least next Wednesday and heat index values could reach about 107°F. A separate hot dome covers Southern California and Arizona; Phoenix highs may reach 117°F. A senior branch forecaster at the Weather Prediction Center said the pattern is fairly persistent, likely into next week, with only minor day-to-day variation and overall persistence through the end of the month.
-
----
-
-### 2026-07-25 21:02:57  #其他
-
-【“紅霞”即將登陸 港珠澳大橋橋樑航道交通管制再升級】受“紅霞”臺前颮線影響，港珠澳大橋水域出現10~11級陣風。為保障通航安全，港珠澳大橋海事局於25日18時起升級港珠澳大橋橋樑航道臨時交通管制措施，管制期間禁止所有船舶透過港珠澳大橋橋樑航道。目前，港珠澳大橋海事局已進入防颱應急狀態，持續跟蹤轄區天氣及水文變化，及時釋出安全預警資訊，並將根據風力情況動態調整管制措施。港珠澳大橋海事局提醒有關航運企業及船舶全面落實各項防颱措施，確保人民生命財產安全。
-
----
-
-### 2026-07-25 21:02:05  #其他
-
-【今年上半年義烏聖誕用品出口達21.4億元】據義烏海關統計，今年上半年義烏聖誕用品出口達21.4億元，同比增長20.4%。（央視財經）
-
----
-
-### 2026-07-25 20:54:28  #MKT News
-
-【Syrian transitional government president meets United Nations secretary-general in Damascus】On July 25 local time, Syrian transitional government president Shara met United Nations Secretary-General GUTERRES and his delegation in Damascus. Foreign Minister Hibani and other officials attended. They discussed strengthening Syria‑UN cooperation on humanitarian and development assistance, support for reconstruction, and reaffirmed respect for Syria’s sovereignty, unity and territorial integrity.
-
----
-
-### 2026-07-25 20:53:42  #國際
-
-【美國將重新開放南部邊境口岸 恢復墨西哥活牛進口】美國農業部24日說，將從下月起逐步開放部分美墨邊境活牛貿易口岸。為防止“新大陸螺旋蠅蛆病”蔓延，美國已暫停從南部邊境進口牛等活畜一年多。根據美國農業部宣告，美方計劃於8月24日重新開放位於亞利桑那州道格拉斯的活牛進口口岸，並逐步開放位於新墨西哥州聖特雷莎和哥倫布的兩個口岸。宣告說，經上述口岸進入美國的所有牲畜均需接受全面檢疫，以確保未感染新大陸螺旋蠅蛆。特朗普政府2025年5月以墨西哥暴發新大陸螺旋蠅蛆病為由，暫停經南部邊境進口活牛、馬和野牛。（新華社）
-
----
-
-### 2026-07-25 20:48:08  #國際
-
-醫護人員及警方官員表示，以色列在加沙擊斃了哈馬斯領導的警方高階官員。
-
----
-
-### 2026-07-25 20:47:21  #國際
-
-【敘利亞過渡政府總統與聯合國秘書長在大馬士革舉行會晤】當地時間7月25日，敘利亞過渡政府總統沙拉在首都大馬士革會見了聯合國秘書長古特雷斯及其代表團。敘利亞過渡政府外交部長希巴尼及其他幾位官員出席會見。會晤期間，雙方探討了如何加強敘利亞與聯合國在人道主義和發展領域的合作，支援重建工作，並重申尊重敘利亞的主權、統一和領土完整。（央視新聞）
-
----
-
-### 2026-07-25 20:46:04  #國際
-
-【日媒釋出宇樹G1拆機影片後認輸】日本日經xTECH網站7月23日釋出了一段日本技術人員拆解中國宇樹科技G1人形機器人的影片，嘗試探究其內部結構與技術水平。在這段影片中，日方技術人員和媒體記者邊拆邊感嘆中國人形機器人的技術水平之高，並最終得出結論：中國機器人研發顯然已超越了“只會展示”的階段，在人形機器人領域，日本想在短時間內縮小與中國的差距“恐怕並不現實”。（CCTV國際時訊)
-
----
-
-### 2026-07-25 20:44:50  #國際
-
-卡達外交部：我們重申，以色列定居者的罪行反映了佔領當局的做法，即允許他們犯下更多罪行。我們敦促國際社會採取緊急行動，制止以色列的侵略行徑，並將肇事者繩之以法。
-
----
-
-### 2026-07-25 20:43:12  #其他
-
-電影《三國第一部：爭洛陽》宣佈撤檔。
-
----
-
-### 2026-07-25 20:40:20  #MKT News
-
-Qatar's foreign ministry said the prime minister and foreign minister stressed the importance of ensuring freedom of navigation in the Strait of Hormuz and enhancing regional stability.
-
----
-
-### 2026-07-25 20:40:15  #國際
-
-卡達外交部：首相和外交大臣與埃及外交部長討論了為緩和該地區局勢升級所做的努力。首相和外交大臣重申，各方必須致力於執行華盛頓和德黑蘭之間的諒解備忘錄，並強調了確保霍爾木茲海峽航行自由和加強地區穩定的重要性。
-
----
-
-### 2026-07-25 20:40:06  #MKT News
-
-Qatar's foreign ministry said the prime minister and foreign minister affirmed the necessity for all parties to commit to implementing the memorandum of understanding between Washington and Tehran.
-
----
-
-### 2026-07-25 20:39:57  #MKT News
-
-Qatar's foreign ministry said the prime minister and foreign minister met with Egypt's foreign minister to discuss efforts to reduce regional tensions.
-
----
-
-### 2026-07-25 20:35:31  #MKT News
-
-【France wildfires burn record area, nearly 98,000 hectares】Interior Minister Laurent Nunez told an interdepartmental crisis management center on July 25 that this year’s wildfires have burned nearly 98,000 hectares, a record. Gironde alone has exceeded 40,000 hectares. Fires in Gironde, Landes and Var remain uncontained. Nunez urged the public to avoid Gironde fire zones to allow firefighting operations. Firefighters and the military are concentrating on defending fire perimeters and are prepared for afternoon wind shifts to prevent further spread.
-
----
-
-### 2026-07-25 20:27:18  #公司 #國際
-
-【特朗普威脅對歐盟加徵報復性關稅】美國總統特朗普24日稱，美國政府將對歐盟啟動貿易調查，並威脅要對歐盟加徵關稅，以報復歐盟對美國科技公司處以鉅額罰款的做法。特朗普24日在社交媒體平臺“真實社交”上發文，指責歐盟日前決定對谷歌公司罰款是在“搶掠”美國企業及美國納稅人。他警告，歐盟將為其行為付出“沉重”代價，“我們預計將盡快對其（歐盟）施加高額關稅”。特朗普稱，美方將立即依據《1974年貿易法》第301條對歐盟啟動調查。該條款授權美國政府對其認定為對美國企業造成不公平負擔的行為進行調查，並採取關稅報復措施。歐盟委員會23日宣佈，谷歌在網路搜尋和應用商店業務中違反歐盟《數字市場法》，決定對其處以共計8.9億歐元罰款。
-
----
-
-### 2026-07-25 20:26:16  #國際
-
-剛果（金）稱，該國確診埃博拉病例增至2973例，其中包括1309例死亡病例。
-
----
-
-### 2026-07-25 20:16:32  #國際
-
-英國和美國據悉將在下週會議上商議組建霍爾木茲海峽國際護航聯盟的可行性。
-
----
-
-### 2026-07-25 20:13:55  #國際
-
-市場訊息： 美國和英國討論下週召開霍爾木茲海峽危機相關會議的計劃。
-
----
-
-### 2026-07-25 20:11:43  #公司 #市場
-
-【下週將有46只個股解禁】據統計，下週（7月27日至31日）將有46只個股解禁，按照最新收盤價計算，合計解禁市值337.23億元。上海機場下週將有4.34億股上市流通，主要為定向增發機構配售股份，解禁市值達102.84億元。
-
----
-
-### 2026-07-25 20:07:59  #MKT News #WTI #Impact bullish #Brent
-
-【Houthi forces say they twice struck ARAMCO targets in Jizan and Yanbu】On July 25 Houthi forces said they launched two attacks in response to Saudi airstrikes on Hodeidah city, Hodeidah port and Kamaran Island. They said the first strike used dozens of ballistic missiles and drones against ARAMCO "sensitive targets" in Jizan; the second used ballistic missiles, cruise missiles and drones against ARAMCO "sensitive targets" in Yanbu. The group claimed both strikes "successfully achieved their aims" and scored "precise, direct hits." It accused Saudi Arabia of maintaining a blockade of Yemen, said maritime blockade measures targeting Saudi Arabia will continue, and warned it may expand operations and escalate over the coming hours and days.
 
 ---

@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-01 20:07:08_
-_本檔包含 3541 則快訊，約 675203 字_
+_更新時間：2026-08-01 21:44:19_
+_本檔包含 3523 則快訊，約 674488 字_
+
+---
+
+### 2026-08-01 21:39:35  #MKT News #Commodities #Energy
+
+【Danube drop cuts Paks output to 480 MW; Hungary mobilises reserves】On Aug 1 Prime Minister Magyar said falling Danube levels forced the Paks nuclear plant to cut output to 480 MW from a normal 2,000 MW and that the plant could be taken fully offline sooner than expected, possibly by the weekend. Electricity providers have activated contingency plans for major grid failures. The government reviewed all available generation, power-import options, projected peak demand, voluntary load-reduction commitments and river conditions, and ordered all available reserve plants into operation and on standby with fuel secured. Authorities also asked major industrial users to voluntarily curb consumption; many agreed to shift production and reduce evening peak demand by about 240 MW.
+
+---
+
+### 2026-08-01 21:30:18  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Binance Depreciates by 1.45% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.45% decrease.
+
+---
+
+### 2026-08-01 21:26:18  #MKT News
+
+【Truck bomb attack in Cúcuta injures at least 10, including seven police】A truck bomb detonated in the early hours near a police station in Cúcuta, capital of Norte de Santander province, injuring at least 10 people, including seven police.
+
+---
+
+### 2026-08-01 21:06:56  #國際
+
+【日本熊本地區發生4.7級地震】據日本氣象廳訊息，當地時間8月1日21時47分左右，熊本地區發生4.7級地震，最大震感為震度5弱，震源深度10公里。
+
+---
+
+### 2026-08-01 21:06:43  #MKT News
+
+USGS reported a M4.9 earthquake 3 km west of Matsuse, Japan, at a depth of 10.0 km.
+
+---
+
+### 2026-08-01 21:06:28  #央行 #宏觀 #國際
+
+【美財長稱正在全球範圍內追查伊朗資產】當地時間7月31日，美國財政部長貝森特在參加馬里蘭州戴維營舉行的內閣會議期間表示，按照特朗普總統的指示，財政部持續對伊朗展開經濟攻勢，並且正在全球範圍內追查伊朗資產。他還特意在特朗普面前羅列對伊朗的所謂“經濟戰果”：2025年3月推進相關行動後，當年年底伊朗最大民營銀行宣告破產，伊朗央行被迫大量印鈔，不斷推高通脹，貝森特聲稱，如今伊朗甚至無力支付軍餉。這番言論立刻引來網友質疑和吐槽。（央視新聞）
+
+---
+
+### 2026-08-01 21:01:30  #MKT News
+
+Al Arabiya reported that Bani Hayyan in southern Lebanon was shelled.
+
+---
+
+### 2026-08-01 20:57:24  #國際
+
+【西班牙飛地移民危機持續震動歐洲多國，特朗普發聲】西班牙位於北非的飛地休達爆發大規模非法移民入境事件，正持續震動歐洲。綜合法新社等媒體最新報道，美國總統特朗普也注意到此事，他當地時間7月31日在內閣會議上公開警告稱，美國自身也面臨類似危機。 “我昨天看到了西班牙（相關情況），看到了那裡發生的災難。這看起來像是對一個國家的入侵。”特朗普藉機接著說，“如果共和黨人沒有當選，同樣的事情也會發生在我們身上，而且情況會更糟糕、規模更大、更容易發生。” “（環球網）
+
+---
+
+### 2026-08-01 20:56:21  #國際
+
+【美國媒體披露美軍向伊朗居民區投重磅炸彈】 美國媒體披露，美軍7月30日空襲伊朗期間，向一處沒有軍事設施的居民區投下一枚重磅炸彈，造成3人死亡。《紐約時報》7月31日報道，根據對衛星影象、現場畫面的分析和專家研判，美軍7月30日對伊朗南部格什姆島一處人口稠密的居民區投下一枚Mark-84型炸彈。這枚炸彈重達2000磅（907公斤），是美軍最大的常規炸彈之一，在空襲現場留下一個直徑至少9米的彈坑。伊朗方面說，多座民宅在這次空襲中受損，其中一個五口之家中的父母和2歲的孩子死亡，另外兩個孩子受傷，從廢墟中被救出。（新華社）
+
+---
+
+### 2026-08-01 20:51:49  #公司
+
+【寧德時代與平陸運河集團簽署戰略合作協議】據寧德時代訊息，近日，寧德時代與平陸運河集團簽署戰略合作協議。雙方將共同構建綠色航運與運河經濟帶零碳能源體系，打造世界級智慧零碳運河標杆。9月正式投運後，平陸運河將全面推行電動船舶通航管理。首批試運營的電船將搭載寧德時代船用動力電池系統。此外，寧德時代還將與平陸運河集團共同運營“電池銀行”租電服務，以切實降低船東的持船與運營成本。除了推進船舶的電動化替代，雙方計劃在運河沿線建設風光電站、儲能電站與微電網，為園區、港航與充換電設施供電；同時，雙方將共建智慧零碳管理系統，實現對船舶、園區與電站電網降碳表現的量化監控。
+
+---
+
+### 2026-08-01 20:51:44  #其他
+
+【廈金“小三通”客運航線暑運臨時增班】暑期以來，廈金“小三通”客運航線客流持續走高。為進一步滿足兩岸民眾便捷往來需求，經多方協調推進，廈金“小三通”客運航線自8月1日起實施臨時增班方案。 本次增班覆蓋每週五、週六、週日及週一的8時、18時兩個時段，廈門五通碼頭與金門水頭碼頭各雙向各對開一個班次。 增班當天，廈金“小三通”客運航線運營時長由原8時30分至18時，延長為8時至18時30分；航班總量從原來的每天24艘次提升至28艘次。據統計，8月1日廈金“小三通”客運航線客流量達7020人次。（中新網）
+
+---
+
+### 2026-08-01 20:49:30  #其他
+
+【海口開通“第比利斯-海口-米蘭”第五航權貨運航線】一架載有50噸貨物的B767全貨機1日從海口美蘭國際機場(簡稱美蘭機場)飛往米蘭貝加莫機場，標誌著“第比利斯-海口-米蘭”第五航權貨運航線正式開通，串聯喬治亞、海南、義大利三地物流市場。（中新網）
+
+---
+
+### 2026-08-01 20:41:55  #市場 #焦點
+
+美銅暗盤突破6.5美元，日內漲幅0.3%。
+
+---
+
+### 2026-08-01 20:41:53  #其他
+
+【江西釋出大風橙色預警， 部分地區將出現10~12級雷暴大風】江西省氣象臺今天20時02分變更大風橙色預警訊號：預計未來2小時內，撫州市東部和吉安市中北部的部分地區將出現10~12級雷暴大風，局地伴有強雷電、短時強降水等強對流天氣，請注意防範。
+
+---
+
+### 2026-08-01 20:37:47  #MKT News #Important
+
+【US European Command warns it lacks sufficient naval force to continue protecting Israel】The Washington Post reports US European Command commander Alexus Grynkewich privately warned the Pentagon this week that he lacks sufficient naval force to continue protecting Israel from ballistic-missile attacks, saying that without another destroyer he would be forced to choose between defending the US homeland and defending Israel. Grynkewich framed the shortfall as evidence of resource pressure from the ongoing Iran-related conflict. A US defense official said the warning is consistent with prior notices senior commanders send when risks require US-level consideration and that such trade-offs occur as combatant commanders compete for limited assets and weapons.
+
+---
+
+### 2026-08-01 20:36:51  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #EURUSD
+
+【Rhine water levels hit record lows; German shipping and logistics under pressure】Persistent heat and drought have pushed Rhine water to new lows. Cologne gauge fell to 67–68 cm on Aug. 1 local time, below the 2018 record; Duisburg‑Ruhrort dropped to 153 cm, another historical low. Sustained low water is constraining inland navigation: freight vessels cannot sail fully loaded and require split shipments, raising transport costs, reducing logistics efficiency and adding pressure to the German economy.
+
+---
+
+### 2026-08-01 20:34:52  #其他
+
+【百千瓦級竹基海上光伏平臺在山東煙臺安裝完成 】8月1日，百千瓦級竹基海上光伏平臺“集林二號”在山東煙臺海上光伏實證檢測基地完成安裝。平臺主體以竹纏繞管、海竹管作為支撐構件，具備強度高、自重輕、耐腐蝕、可再生等優勢。相較於傳統鋼結構及高密度聚乙烯浮體，該平臺能夠降低對海洋生態環境的影響，實現“綠電綠造”。
+
+---
+
+### 2026-08-01 20:33:04  #MKT News #Important #Market Themes #China EV Leaders #1211.HK #Impact bullish #NIO.O #XPEV.O
+
+【July 2026 EV delivery roundup: BYD tops 419,000; Leapmotor breaks 100,000】BYD delivered over 419,000 vehicles in July, a record; overseas deliveries were roughly 180,000. Li Auto delivered 30,468 new vehicles in July; cumulative deliveries Jan–Jul reached 1,764,155. Xiaomi Auto continued above 30,000 monthly deliveries in July. Leapmotor delivered 101,267 vehicles in July, up 102% YoY, marking its first month above 100,000. XPeng delivered 38,027 vehicles in July, up 4% YoY; global cumulative deliveries exceeded 1.2 million as of July 31. NIO delivered 35,934 vehicles in July, up 71% YoY; Jan–Jul deliveries totaled 227,057, up 68% and a record. SAIC-GM-Wuling reported July global sales of 120,050 vehicles and July NEV sales of 72,695. ZEEKR delivered 35,837 vehicles in July, up 111% YoY and a new high. Voyah (LanTu) delivered 13,189 vehicles in July; Jan–Jul cumulative deliveries were 89,453, up 31% YoY. Hongmeng Zhixing delivered 45,046 vehicles in July; Jan–Jul cumulative deliveries were 286,000, up 13.7% YoY. ARCFOX delivered 23,517 vehicles in July, up 150.5% YoY; Jan–Jul cumulative deliveries surpassed 100,000. Geely reported July sales of 250,161 vehicles, a period high, with NEV exports up 616% YoY. Chery Group sold 276,820 vehicles in July, up 23.3% YoY, including 129,067 NEVs, up 97.5% YoY. Shenlan Auto recorded July global sales of 29,213 vehicles, up 7.5% YoY; Jan–Jul cumulative sales were 193,369, up 13.5% YoY.
+
+---
+
+### 2026-08-01 20:28:48  #其他
+
+【人工智慧助力直腸癌個性化化療】英國倫敦大學學院日前釋出的一項研究顯示，人工智慧（AI）可透過分析確診時的腫瘤活檢影象，高效識別出更可能從強化放化療中獲益的區域性晚期直腸癌患者，為制定個性化治療方案提供參考。研究人員說，相比人工分析，人工智慧可在短時間內幫助他們揭示具有不同腫瘤生物學特徵的患者對治療的反應差異，有望幫助醫生在治療開始前確定哪些患者適合更強的治療方案，同時避免其他患者承受額外副作用。研究成果已發表在醫學期刊《E生物醫學》上。研究人員同時強調，在相關人工智慧工具用於臨床決策以及這一聯合療法得到廣泛應用前，仍需開展獨立驗證和更多臨床研究。（新華社）
+
+---
+
+### 2026-08-01 20:23:55  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Qatar News Agency reported the Gulf Cooperation Council Secretary-General condemned Iran's attack on Kuwaiti civilian facilities.
+
+---
+
+### 2026-08-01 20:22:51  #國際
+
+俄羅斯襲擊基輔死亡人數升至10人。
+
+---
+
+### 2026-08-01 20:16:32  #公司
+
+【尹志堯：中微公司5年內產能將超700億元】中微公司今日在上海臨港舉行總部大樓落成暨22週年慶典，公司在臨港的研發加生產格局正式形成。中微公司董事長尹志堯現場透露，公司已在上海臨港、金橋，南昌及在建的成都、廣州佈局五大研發生產基地，當前整體建築面積達60萬平方米，預計未來5年左右增至90萬平方米，屆時整體生產能力將超過700億元。
+
+---
+
+### 2026-08-01 20:15:59  #公司
+
+【華虹宏力白鵬：將與中微長期深度協同 深化聯合研發加速國產裝置規模化應用】華虹宏力董事長兼總裁白鵬今日在中微公司成立22週年慶典致辭表示，長期以來，華虹與中微，雙方在晶圓製造與核心裝置上下游緊密聯動，共同推進國產裝備在製造線落地應用。“當下半導體行業機遇與挑戰並存，構建自主可控、安全穩健的產業鏈，是共同的使命。面向未來，將繼續深化與中微的戰略合作，深化聯合研發，加速國產裝置的迭代及規模化應用。”
+
+---
+
+### 2026-08-01 20:10:22  #MKT News #600104.SS
+
+【SAIC Motor July 2026 vehicle sales 339,000 units】SAIC Motor reported July 2026 vehicle sales of 339,000 units; cumulative Jan–Jul sales reached 2.384 million vehicles.
 
 ---
 
@@ -21116,257 +21260,5 @@ S&P 500 futures up 0.3%; Nasdaq futures up 1.1%.
 ### 2026-07-31 09:03:36  #MKT News #Important #CSI300 #Impact bullish #SSE Composite #Hang Seng Index
 
 FTSE China A50 index futures jumped over 2.2% in early trade.
-
----
-
-### 2026-07-31 09:02:57  #MKT News #Commodities #Precious Metals
-
-Shanghai Futures Exchange silver front-month contract rose 2.00% intraday to 14,428.00 yuan/kg.
-
----
-
-### 2026-07-31 09:02:26  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange gold T+D rose 0.85% to 890.1 yuan/gram in early trade on Friday, July 31; silver T+D rose 1.6% to 14,330 yuan/kg.
-
----
-
-### 2026-07-31 09:01:30  #Trading Economics #Markets #Japan #Stock Market #Importance 2
-
-Asian Stocks Advance on Chip-Led Rally — Asian equity markets moved higher on Friday, tracking gains on Wall Street overnight as a global rally in semiconductor stocks and renewed optimism over the artificial intelligence trade lifted investor sentiment. Confidence was boosted by strong earnings from Microsoft and Amazon, reinforcing expectations for continued hyperscaler investment and resilient AI-related demand. South Korea’s KOSPI Composite Index surged more than 15%, with SK Hynix and Samsung Electronics each soaring over 20%, while Japan’s Nikkei 225 Index climbed 5%. Meanwhile, investors also looked ahead to the Bank of Japan’s policy decision later today, with the central bank widely expected to leave interest rates unchanged.
-
----
-
-### 2026-07-31 09:01:30  #MKT News #Important #Market Regions #Greater China
-
-Taiwan Weighted Index opened up 2,549.58 points on Friday, July 31, rising 6.38% to 42,482.88.
-
----
-
-### 2026-07-31 09:01:29  #其他
-
-【大科學裝置拉索新發現 認證首個拍電子伏伽馬射線變源】從中國科學院高能物理研究所獲悉，由該所聯合國內外多家研究機構透過國家重大科技基礎設施高海拔宇宙線觀測站（LHAASO，拉索），發現最高能量的光子發自黑洞（或中子星）瘋狂吸噬大質量伴星吹出的強烈星風的過程，表明這個位於天鵝座非常特別的雙星系統（Cygnus X-3）是迄今為止能夠產生最高能量的粒子加速器。拉索測到的精確時變特徵、超高的伽馬射線能量及其能譜特徵共同確認了這個宇宙線的源天體，宇宙線粒子能量至少到達30PeV（1PeV=10的15次方電子伏特），遠超當前主流的理論預期。相關成果近日在學術期刊《國家科學評論》發表。
-
----
-
-### 2026-07-31 09:01:12  #公司
-
-【中國五礦集團有限公司原黨組副書記、總經理國文清接受中央紀委國家監委紀律審查和監察調查】中央紀委國家監委網站7月31日通報，中國五礦集團有限公司原黨組副書記、總經理國文清涉嫌嚴重違紀違法，主動投案，目前正接受中央紀委國家監委紀律審查和監察調查。
-
----
-
-### 2026-07-31 09:01:02  #市場
-
-布倫特原油日內跌1%，現報85.98美元/桶。
-
----
-
-### 2026-07-31 09:01:02  #市場 #焦點
-
-布倫特原油失守86美元/桶，日內跌1.04%。
-
----
-
-### 2026-07-31 09:00:52  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
-
-WTI crude falls 1.4% intraday to $81.49/bbl.
-
----
-
-### 2026-07-31 09:00:51  #市場 #焦點 #國際
-
-韓國綜合股價指數上漲16%，至6489.83。
-
----
-
-### 2026-07-31 09:00:36  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Shanghai crude main contract (SC) fell 2.00% intraday to 549.60 yuan/barrel.
-
----
-
-### 2026-07-31 09:00:36  #MKT News #Important #Market Regions #Emerging Markets
-
-South Korea's KOSPI index surged 16.00% intraday, currently at 6,489.83 points.
-
----
-
-### 2026-07-31 09:00:35  #市場
-
-MSCI亞太指數上漲3.6%至265.92點。
-
----
-
-### 2026-07-31 09:00:32
-
-國內期貨主力合約跌多漲少，焦煤跌超2％，焦炭跌近2％，低硫燃料油（LU）、燃料油、SC原油、純鹼、液化石油氣（LPG）、純苯、雞蛋、紙漿、苯乙烯跌超1％。漲幅方面，鈀漲超3％，滬錫、鉑漲超2％，滬銀漲近2％，瓶片、紅棗漲超1％。
-
----
-
-### 2026-07-31 09:00:28  #市場
-
-臺灣證交所加權股價指數上漲6.6%至42,577.20點。
-
----
-
-### 2026-07-31 09:00:22  #市場
-
-臺灣證交所加權股價指數上漲5.5%至42,140.63點。
-
----
-
-### 2026-07-31 09:00:19  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #WTI #Impact bearish #Brent
-
-At the morning open, China's commodity-futures main contracts were mostly lower. Coking coal fell over 2%, coke nearly 2%. Low-sulfur fuel oil (LU), fuel oil, Shanghai crude (SC), soda ash, LPG, benzene, eggs, pulp and styrene were down more than 1%. On the upside, palladium rose over 3%; SHFE tin and platinum gained more than 2%; SHFE silver climbed about 2%; bottle-grade PET chips and red dates were up over 1%.
-
----
-
-### 2026-07-31 09:00:15  #其他
-
-臺灣證交所加權股價指數開高4.2%報41,610.41。
-
----
-
-### 2026-07-31 09:00:09  #市場
-
-WTI原油日內跌1%，現報82.12美元/桶。
-
----
-
-### 2026-07-31 09:00:06  #市場 #焦點
-
-燃料油連續主力合約日內跌2%，現報3590.00元。
-
----
-
-### 2026-07-31 09:00:04  #市場
-
-【商品期貨開盤】鈀連續漲2.51%，錫連續漲2.34%，焦煤連續跌2.27%，鉑連續漲2.20%，低硫燃料油連續跌2.01%。
-
----
-
-### 2026-07-31 09:00:03  #市場 #焦點
-
-純鹼連續主力合約日內跌1%，現報935.00元。
-
----
-
-### 2026-07-31 09:00:02  #市場
-
-富時中國A50指數期貨開盤上漲1.86%。
-
----
-
-### 2026-07-31 08:59:36  #市場
-
-【美股納斯達克100指數期貨漲超1%】美股納斯達克100指數期貨漲超1%，標普500指數期貨漲0.3%，道瓊斯指數期貨漲0.28%。
-
----
-
-### 2026-07-31 08:59:19  #MKT News
-
-【Foreign investors' June net selling of South Korean stocks hits record while holdings' market value rises to record】South Korea's Financial Supervisory Service said foreign investors net-sold 49.336 tln won of listed shares in June, the sixth consecutive month of net outflows. Net sales were concentrated on the KOSPI (50.979 tln won sold) while the KOSDAQ saw net inflows of 1.643 tln won. June's outflow exceeded May's record net sell of 47.019 tln won, setting a new monthly high. Year-to-date foreign net sales reached 116.3563 tln won, more than ten times last year's full-year net sell of 11.768 tln won. Despite heavy disposals, foreigners' end-June holdings of listed shares rose to 2,908.639 tln won, up 56.3 tln won month-on-month, and foreigners' share of market value climbed to a record 36.4%. Analysts attribute the pattern to profit-taking selling amid strong price gains in major holdings, which pushed up the market value of remaining positions and the ownership ratio.
-
----
-
-### 2026-07-31 08:59:15  #公司
-
-【中科原動力獲奇瑞智慧科技數億元B2輪投資】近日，北京中科原動力科技有限公司完成B2輪數億元融資，本輪融資由奇瑞控股集團旗下安徽奇瑞智慧科技有限公司投資。本輪融資將主要用於新能源智慧農機及具身智慧農業機器人核心技術研發、產品規模化交付及加快海外市場拓展。
-
----
-
-### 2026-07-31 08:58:17  #市場
-
-【離岸人民幣國債期貨時隔九年再登港交所】時隔九年，離岸人民幣國債期貨下週一將重新在香港上市交易。根據香港證監會披露，首個上市的5年期國債期貨將採用現金結算，價格按一籃子中國國債釐定，而在岸品種採用實物交割的方式。香港國債期貨合約金額為50萬元人民幣，僅為在岸同期限品種的一半，其交易時間長於在岸市場。
-
----
-
-### 2026-07-31 08:56:44  #市場 #觀點 #國際
-
-【中金財富期貨：美元指數跌破100關口，黃金大幅反彈】據日經新聞報道，日本當局進行了買入日元的匯率干預，美國監管機構亦進行了利率核查，但官方干預並未得到正式確認。日元的急劇升值加劇了美元的跌勢，美元指數跌破100關口，黃金大幅反彈，我們之前強調的黃金反彈逐漸度兌現，多單可繼續持有，密切關注日本在匯率方面的動向，以及原油市場的表現。
-
----
-
-### 2026-07-31 08:55:40  #市場 #國際
-
-日本東證股價指數上漲2%。
-
----
-
-### 2026-07-31 08:52:48  #市場 #國際
-
-日本30年期國債收益率下跌0.5個基點，至3.960%。
-
----
-
-### 2026-07-31 08:51:54  #Trading Economics #Markets #Japan #Stock Market #Importance 2
-
-Japan’s Nikkei Jumps on Semiconductor Rally — The Nikkei 225 Index jumped 5% to around 65,000 on Friday, extending the previous session’s gains and tracking Wall Street higher amid a global rally in semiconductor stocks and renewed optimism surrounding the artificial intelligence sector. Investor sentiment was lifted by strong earnings from Microsoft and Amazon, whose shares surged after reinforcing confidence in hyperscaler investment and sustained AI-driven demand. In Japan, Advantest soared another 17% after raising its annual operating profit forecast by 35%, fueled by robust demand for AI-related chip-testing equipment. Other major technology gainers included Tokyo Electron (8.4%), Kokusai Electric (6.2%), SoftBank Group (14.5%), Fujikura (12.4%), and Lasertec (11.8%). Meanwhile, investors remained focused on the Bank of Japan’s policy decision later today, with the central bank widely expected to keep interest rates unchanged.
-
----
-
-### 2026-07-31 08:50:34  #MKT News #Important
-
-Trump will chair a cabinet meeting at Camp David on Friday at 11:00 a.m. ET (11:00 p.m. Beijing time).
-
----
-
-### 2026-07-31 08:49:32  #市場 #央行 #國際
-
-【市場消化美聯儲決定之際金價走低】亞洲交易時段金價下跌。Empire FX的Crispus Nyaga在一封電子郵件中表示，該貴金屬似乎主要在過去幾周的盤整區間內交易。他說，市場可能正在對美聯儲維持利率不變的決定作出反應。他說，交易員似乎預期下一次會議將加息，但在最新的美國個人消費支出價格指數公佈後，再次按兵不動的可能性可能已經增加。他補充說，儘管如此，預計主要央行將在未來幾個月收緊政策。較高的利率環境通常會拖累這種無收益的黃色金屬。現貨黃金下跌0.3%，至每盎司4,091.57美元。
-
----
-
-### 2026-07-31 08:48:59  #市場
-
-韓元兌美元下跌0.8%，此前曾觸及去年10月以來最高水平。
-
----
-
-### 2026-07-31 08:48:42  #國際
-
-特朗普將於週五美國東部時間上午11點在戴維營主持內閣會議。
-
----
-
-### 2026-07-31 08:48:25  #其他
-
-【上海釋出中心城區高溫橙色預警】上海市氣象臺2026年07月31日08時40分發布中心城區高溫橙色預警訊號：預計今天中心城區大部的最高氣溫將超過37℃，請注意防範強高溫對城市執行、人體健康、大功率電氣裝置的不利影響，注意用火用電安全。
-
----
-
-### 2026-07-31 08:47:28  #其他
-
-【強降水持續 甘肅省隴南市釋出暴雨紅色預警】甘肅隴南市氣象臺7月31日05時30分將暴雨黃色預警訊號升級為暴雨紅色預警訊號：武都區裕河、楓相、五馬、洛塘已出現大暴雨，降水還將持續，雨勢增強。預計今天白天，裕河、楓相、五馬、洛塘等部分鄉鎮仍將出現大暴雨。請注意防範由強降水可能引發的中小河流洪水、山洪及滑坡、泥石流、城鄉積澇等次生災害。此外，31日凌晨，隴南市徽縣、康縣、成縣、文縣氣象部門釋出暴雨紅色預警訊號。以上4縣部分鄉鎮已出現暴雨，強降水仍將持續。預計今天白天，多個鄉鎮降雨量將達100毫米以上，出現大暴雨。以上4縣由強降水引發中小河流洪水、山洪及地質災害、城市積澇的氣象風險高，請注意防範。
-
----
-
-### 2026-07-31 08:47:06  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
-
-【Margin financing balances across Shanghai and Shenzhen fall CNY36.66 bln】As of July 30, margin financing balances on the Shanghai Stock Exchange were CNY1,322.21 bln, down CNY14.48 bln from the previous trading day; on the Shenzhen Stock Exchange they were CNY1,254.10 bln, down CNY22.18 bln; combined CNY2,576.31 bln, down CNY36.66 bln.
-
----
-
-### 2026-07-31 08:46:57  #其他
-
-【兩市融資餘額減少366.59億元】截至7月30日，上交所融資餘額報13222.12億元，較前一交易日減少144.83億元；深交所融資餘額報12540.98億元，較前一交易日減少221.76億元；兩市合計25763.1億元，較前一交易日減少366.59億元。
-
----
-
-### 2026-07-31 08:46:12  #國際
-
-【日本熊本地震已致35人死亡 】據日本熊本縣政府釋出的訊息，截至當地時間今天（7月31日）早上7點30分，包括正在調查是否與災害有關聯的死亡案例在內，7月28日地震已造成35人死亡。
-
----
-
-### 2026-07-31 08:46:00  #國際
-
-【中東部大範圍桑拿天持續 四川陝西等部分地區有強降雨】今天（7月31日）至8月初，中東部大範圍高溫桑拿天氣持續，長江中下游及其周邊高溫範圍將再擴大，東北地區的遼寧、吉林等地也可能有高溫，天氣溼熱易中暑。同時，四川盆地、陝西、甘肅的部分地區或現強降雨，需及時關注預警預報資訊，避免前往山區等地質災害易發地帶，注意安全。
-
----
-
-### 2026-07-31 08:45:39  #MKT News #Star Stocks #Microsoft #Market Themes #AI Revolution #Magnificent 7 #005930.KS #Impact bullish #000660.KS #MU.O
-
-【Analyst: Deleveraging Nears End as Korean Stocks Surge】KOSPI jumped about 13% early Friday, triggering a buy-side curb that suspended programmatic buy orders, and later extended gains to roughly 15%. Samsung Electronics rose ~21% and SK Hynix ~26%. Future Asset researcher Kim Juyeon said the immediate catalyst was Microsoft’s after-hours earnings, where stronger-than-expected core results validated larger capex and eased concerns about the sustainability of AI-infrastructure investment, sparking a chip-led rally. Market participants also interpret that hedge-fund liquidations that had amplified recent downside are largely winding down and deleveraging is near completion, restoring risk appetite. Kiwoom Securities researcher Han Jiyoung said forced selling by leveraged funds drove the prior slide in semiconductor names; with major funds unwinding, stocks such as Micron and SanDisk rebounded sharply.
 
 ---

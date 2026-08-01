@@ -1,7 +1,259 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-01 20:07:08_
-_本檔包含 3645 則快訊，約 674053 字_
+_更新時間：2026-08-01 21:44:19_
+_本檔包含 3643 則快訊，約 675266 字_
+
+---
+
+### 2026-07-31 09:02:57  #MKT News #Commodities #Precious Metals
+
+Shanghai Futures Exchange silver front-month contract rose 2.00% intraday to 14,428.00 yuan/kg.
+
+---
+
+### 2026-07-31 09:02:26  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D rose 0.85% to 890.1 yuan/gram in early trade on Friday, July 31; silver T+D rose 1.6% to 14,330 yuan/kg.
+
+---
+
+### 2026-07-31 09:01:30  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Asian Stocks Advance on Chip-Led Rally — Asian equity markets moved higher on Friday, tracking gains on Wall Street overnight as a global rally in semiconductor stocks and renewed optimism over the artificial intelligence trade lifted investor sentiment. Confidence was boosted by strong earnings from Microsoft and Amazon, reinforcing expectations for continued hyperscaler investment and resilient AI-related demand. South Korea’s KOSPI Composite Index surged more than 15%, with SK Hynix and Samsung Electronics each soaring over 20%, while Japan’s Nikkei 225 Index climbed 5%. Meanwhile, investors also looked ahead to the Bank of Japan’s policy decision later today, with the central bank widely expected to leave interest rates unchanged.
+
+---
+
+### 2026-07-31 09:01:30  #MKT News #Important #Market Regions #Greater China
+
+Taiwan Weighted Index opened up 2,549.58 points on Friday, July 31, rising 6.38% to 42,482.88.
+
+---
+
+### 2026-07-31 09:01:29  #其他
+
+【大科學裝置拉索新發現 認證首個拍電子伏伽馬射線變源】從中國科學院高能物理研究所獲悉，由該所聯合國內外多家研究機構透過國家重大科技基礎設施高海拔宇宙線觀測站（LHAASO，拉索），發現最高能量的光子發自黑洞（或中子星）瘋狂吸噬大質量伴星吹出的強烈星風的過程，表明這個位於天鵝座非常特別的雙星系統（Cygnus X-3）是迄今為止能夠產生最高能量的粒子加速器。拉索測到的精確時變特徵、超高的伽馬射線能量及其能譜特徵共同確認了這個宇宙線的源天體，宇宙線粒子能量至少到達30PeV（1PeV=10的15次方電子伏特），遠超當前主流的理論預期。相關成果近日在學術期刊《國家科學評論》發表。
+
+---
+
+### 2026-07-31 09:01:12  #公司
+
+【中國五礦集團有限公司原黨組副書記、總經理國文清接受中央紀委國家監委紀律審查和監察調查】中央紀委國家監委網站7月31日通報，中國五礦集團有限公司原黨組副書記、總經理國文清涉嫌嚴重違紀違法，主動投案，目前正接受中央紀委國家監委紀律審查和監察調查。
+
+---
+
+### 2026-07-31 09:01:02  #市場
+
+布倫特原油日內跌1%，現報85.98美元/桶。
+
+---
+
+### 2026-07-31 09:01:02  #市場 #焦點
+
+布倫特原油失守86美元/桶，日內跌1.04%。
+
+---
+
+### 2026-07-31 09:00:52  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
+
+WTI crude falls 1.4% intraday to $81.49/bbl.
+
+---
+
+### 2026-07-31 09:00:51  #市場 #焦點 #國際
+
+韓國綜合股價指數上漲16%，至6489.83。
+
+---
+
+### 2026-07-31 09:00:36  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Shanghai crude main contract (SC) fell 2.00% intraday to 549.60 yuan/barrel.
+
+---
+
+### 2026-07-31 09:00:36  #MKT News #Important #Market Regions #Emerging Markets
+
+South Korea's KOSPI index surged 16.00% intraday, currently at 6,489.83 points.
+
+---
+
+### 2026-07-31 09:00:35  #市場
+
+MSCI亞太指數上漲3.6%至265.92點。
+
+---
+
+### 2026-07-31 09:00:32
+
+國內期貨主力合約跌多漲少，焦煤跌超2％，焦炭跌近2％，低硫燃料油（LU）、燃料油、SC原油、純鹼、液化石油氣（LPG）、純苯、雞蛋、紙漿、苯乙烯跌超1％。漲幅方面，鈀漲超3％，滬錫、鉑漲超2％，滬銀漲近2％，瓶片、紅棗漲超1％。
+
+---
+
+### 2026-07-31 09:00:28  #市場
+
+臺灣證交所加權股價指數上漲6.6%至42,577.20點。
+
+---
+
+### 2026-07-31 09:00:22  #市場
+
+臺灣證交所加權股價指數上漲5.5%至42,140.63點。
+
+---
+
+### 2026-07-31 09:00:19  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #WTI #Impact bearish #Brent
+
+At the morning open, China's commodity-futures main contracts were mostly lower. Coking coal fell over 2%, coke nearly 2%. Low-sulfur fuel oil (LU), fuel oil, Shanghai crude (SC), soda ash, LPG, benzene, eggs, pulp and styrene were down more than 1%. On the upside, palladium rose over 3%; SHFE tin and platinum gained more than 2%; SHFE silver climbed about 2%; bottle-grade PET chips and red dates were up over 1%.
+
+---
+
+### 2026-07-31 09:00:15  #其他
+
+臺灣證交所加權股價指數開高4.2%報41,610.41。
+
+---
+
+### 2026-07-31 09:00:09  #市場
+
+WTI原油日內跌1%，現報82.12美元/桶。
+
+---
+
+### 2026-07-31 09:00:06  #市場 #焦點
+
+燃料油連續主力合約日內跌2%，現報3590.00元。
+
+---
+
+### 2026-07-31 09:00:04  #市場
+
+【商品期貨開盤】鈀連續漲2.51%，錫連續漲2.34%，焦煤連續跌2.27%，鉑連續漲2.20%，低硫燃料油連續跌2.01%。
+
+---
+
+### 2026-07-31 09:00:03  #市場 #焦點
+
+純鹼連續主力合約日內跌1%，現報935.00元。
+
+---
+
+### 2026-07-31 09:00:02  #市場
+
+富時中國A50指數期貨開盤上漲1.86%。
+
+---
+
+### 2026-07-31 08:59:36  #市場
+
+【美股納斯達克100指數期貨漲超1%】美股納斯達克100指數期貨漲超1%，標普500指數期貨漲0.3%，道瓊斯指數期貨漲0.28%。
+
+---
+
+### 2026-07-31 08:59:19  #MKT News
+
+【Foreign investors' June net selling of South Korean stocks hits record while holdings' market value rises to record】South Korea's Financial Supervisory Service said foreign investors net-sold 49.336 tln won of listed shares in June, the sixth consecutive month of net outflows. Net sales were concentrated on the KOSPI (50.979 tln won sold) while the KOSDAQ saw net inflows of 1.643 tln won. June's outflow exceeded May's record net sell of 47.019 tln won, setting a new monthly high. Year-to-date foreign net sales reached 116.3563 tln won, more than ten times last year's full-year net sell of 11.768 tln won. Despite heavy disposals, foreigners' end-June holdings of listed shares rose to 2,908.639 tln won, up 56.3 tln won month-on-month, and foreigners' share of market value climbed to a record 36.4%. Analysts attribute the pattern to profit-taking selling amid strong price gains in major holdings, which pushed up the market value of remaining positions and the ownership ratio.
+
+---
+
+### 2026-07-31 08:59:15  #公司
+
+【中科原動力獲奇瑞智慧科技數億元B2輪投資】近日，北京中科原動力科技有限公司完成B2輪數億元融資，本輪融資由奇瑞控股集團旗下安徽奇瑞智慧科技有限公司投資。本輪融資將主要用於新能源智慧農機及具身智慧農業機器人核心技術研發、產品規模化交付及加快海外市場拓展。
+
+---
+
+### 2026-07-31 08:58:17  #市場
+
+【離岸人民幣國債期貨時隔九年再登港交所】時隔九年，離岸人民幣國債期貨下週一將重新在香港上市交易。根據香港證監會披露，首個上市的5年期國債期貨將採用現金結算，價格按一籃子中國國債釐定，而在岸品種採用實物交割的方式。香港國債期貨合約金額為50萬元人民幣，僅為在岸同期限品種的一半，其交易時間長於在岸市場。
+
+---
+
+### 2026-07-31 08:56:44  #市場 #觀點 #國際
+
+【中金財富期貨：美元指數跌破100關口，黃金大幅反彈】據日經新聞報道，日本當局進行了買入日元的匯率干預，美國監管機構亦進行了利率核查，但官方干預並未得到正式確認。日元的急劇升值加劇了美元的跌勢，美元指數跌破100關口，黃金大幅反彈，我們之前強調的黃金反彈逐漸度兌現，多單可繼續持有，密切關注日本在匯率方面的動向，以及原油市場的表現。
+
+---
+
+### 2026-07-31 08:55:40  #市場 #國際
+
+日本東證股價指數上漲2%。
+
+---
+
+### 2026-07-31 08:52:48  #市場 #國際
+
+日本30年期國債收益率下跌0.5個基點，至3.960%。
+
+---
+
+### 2026-07-31 08:51:54  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japan’s Nikkei Jumps on Semiconductor Rally — The Nikkei 225 Index jumped 5% to around 65,000 on Friday, extending the previous session’s gains and tracking Wall Street higher amid a global rally in semiconductor stocks and renewed optimism surrounding the artificial intelligence sector. Investor sentiment was lifted by strong earnings from Microsoft and Amazon, whose shares surged after reinforcing confidence in hyperscaler investment and sustained AI-driven demand. In Japan, Advantest soared another 17% after raising its annual operating profit forecast by 35%, fueled by robust demand for AI-related chip-testing equipment. Other major technology gainers included Tokyo Electron (8.4%), Kokusai Electric (6.2%), SoftBank Group (14.5%), Fujikura (12.4%), and Lasertec (11.8%). Meanwhile, investors remained focused on the Bank of Japan’s policy decision later today, with the central bank widely expected to keep interest rates unchanged.
+
+---
+
+### 2026-07-31 08:50:34  #MKT News #Important
+
+Trump will chair a cabinet meeting at Camp David on Friday at 11:00 a.m. ET (11:00 p.m. Beijing time).
+
+---
+
+### 2026-07-31 08:49:32  #市場 #央行 #國際
+
+【市場消化美聯儲決定之際金價走低】亞洲交易時段金價下跌。Empire FX的Crispus Nyaga在一封電子郵件中表示，該貴金屬似乎主要在過去幾周的盤整區間內交易。他說，市場可能正在對美聯儲維持利率不變的決定作出反應。他說，交易員似乎預期下一次會議將加息，但在最新的美國個人消費支出價格指數公佈後，再次按兵不動的可能性可能已經增加。他補充說，儘管如此，預計主要央行將在未來幾個月收緊政策。較高的利率環境通常會拖累這種無收益的黃色金屬。現貨黃金下跌0.3%，至每盎司4,091.57美元。
+
+---
+
+### 2026-07-31 08:48:59  #市場
+
+韓元兌美元下跌0.8%，此前曾觸及去年10月以來最高水平。
+
+---
+
+### 2026-07-31 08:48:42  #國際
+
+特朗普將於週五美國東部時間上午11點在戴維營主持內閣會議。
+
+---
+
+### 2026-07-31 08:48:25  #其他
+
+【上海釋出中心城區高溫橙色預警】上海市氣象臺2026年07月31日08時40分發布中心城區高溫橙色預警訊號：預計今天中心城區大部的最高氣溫將超過37℃，請注意防範強高溫對城市執行、人體健康、大功率電氣裝置的不利影響，注意用火用電安全。
+
+---
+
+### 2026-07-31 08:47:28  #其他
+
+【強降水持續 甘肅省隴南市釋出暴雨紅色預警】甘肅隴南市氣象臺7月31日05時30分將暴雨黃色預警訊號升級為暴雨紅色預警訊號：武都區裕河、楓相、五馬、洛塘已出現大暴雨，降水還將持續，雨勢增強。預計今天白天，裕河、楓相、五馬、洛塘等部分鄉鎮仍將出現大暴雨。請注意防範由強降水可能引發的中小河流洪水、山洪及滑坡、泥石流、城鄉積澇等次生災害。此外，31日凌晨，隴南市徽縣、康縣、成縣、文縣氣象部門釋出暴雨紅色預警訊號。以上4縣部分鄉鎮已出現暴雨，強降水仍將持續。預計今天白天，多個鄉鎮降雨量將達100毫米以上，出現大暴雨。以上4縣由強降水引發中小河流洪水、山洪及地質災害、城市積澇的氣象風險高，請注意防範。
+
+---
+
+### 2026-07-31 08:47:06  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
+
+【Margin financing balances across Shanghai and Shenzhen fall CNY36.66 bln】As of July 30, margin financing balances on the Shanghai Stock Exchange were CNY1,322.21 bln, down CNY14.48 bln from the previous trading day; on the Shenzhen Stock Exchange they were CNY1,254.10 bln, down CNY22.18 bln; combined CNY2,576.31 bln, down CNY36.66 bln.
+
+---
+
+### 2026-07-31 08:46:57  #其他
+
+【兩市融資餘額減少366.59億元】截至7月30日，上交所融資餘額報13222.12億元，較前一交易日減少144.83億元；深交所融資餘額報12540.98億元，較前一交易日減少221.76億元；兩市合計25763.1億元，較前一交易日減少366.59億元。
+
+---
+
+### 2026-07-31 08:46:12  #國際
+
+【日本熊本地震已致35人死亡 】據日本熊本縣政府釋出的訊息，截至當地時間今天（7月31日）早上7點30分，包括正在調查是否與災害有關聯的死亡案例在內，7月28日地震已造成35人死亡。
+
+---
+
+### 2026-07-31 08:46:00  #國際
+
+【中東部大範圍桑拿天持續 四川陝西等部分地區有強降雨】今天（7月31日）至8月初，中東部大範圍高溫桑拿天氣持續，長江中下游及其周邊高溫範圍將再擴大，東北地區的遼寧、吉林等地也可能有高溫，天氣溼熱易中暑。同時，四川盆地、陝西、甘肅的部分地區或現強降雨，需及時關注預警預報資訊，避免前往山區等地質災害易發地帶，注意安全。
+
+---
+
+### 2026-07-31 08:45:39  #MKT News #Star Stocks #Microsoft #Market Themes #AI Revolution #Magnificent 7 #005930.KS #Impact bullish #000660.KS #MU.O
+
+【Analyst: Deleveraging Nears End as Korean Stocks Surge】KOSPI jumped about 13% early Friday, triggering a buy-side curb that suspended programmatic buy orders, and later extended gains to roughly 15%. Samsung Electronics rose ~21% and SK Hynix ~26%. Future Asset researcher Kim Juyeon said the immediate catalyst was Microsoft’s after-hours earnings, where stronger-than-expected core results validated larger capex and eased concerns about the sustainability of AI-infrastructure investment, sparking a chip-led rally. Market participants also interpret that hedge-fund liquidations that had amplified recent downside are largely winding down and deleveraging is near completion, restoring risk appetite. Kiwoom Securities researcher Han Jiyoung said forced selling by leveraged funds drove the prior slide in semiconductor names; with major funds unwinding, stocks such as Micron and SanDisk rebounded sharply.
 
 ---
 
@@ -21712,269 +21964,5 @@ Samsung Electronics said its display unit aims to remain profitable in H2.
 ### 2026-07-30 09:25:52  #Trading Economics #Economy #New Zealand #Business Confidence #Importance 2
 
 New Zealand Business Sentiment Jumps to 5-Month High — New Zealand’s ANZ Business Outlook Index surged to 56.1 in July 2026 from 36.6 in the previous month, marking the strongest reading since February. Firms’ own activity outlook strengthened markedly (49.3 vs 36.9 in June), while assessments of past activity edged higher (9.7 vs 9.0), supported by easing oil prices as tensions in the Middle East continued to subside. Forward-looking indicators rose, with stronger export intentions (26.6 vs 18.1), profit expectations (28.7 vs 13.0), investment intentions (22.8 vs 16.5), and employment intentions (18.1 vs 9.4). At the same time, pricing intentions (47.2 vs 50.7), cost expectations (78.2 vs 84.7), and inflation expectations (3.14% vs 3.36%) all moderated, while wage growth expectations were broadly steady (2.52% vs 2.53%). Further, credit availability turned positive (1.4 vs -1.9). Sectoral sentiment strengthened notably in construction, with confidence rising in both residential (42.5 vs 25.0) and commercial construction (48.9 vs 28.9).
-
----
-
-### 2026-07-30 09:25:30  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
-
-A-shares open: Shanghai Composite down 0.43%, Shenzhen Composite Index down 0.93%, ChiNext down 1.4%.
-
----
-
-### 2026-07-30 09:25:12  #焦點
-
-三大股指低開，滬指跌0.43％，深成指跌0.93％，創業板跌1.4％。
-
----
-
-### 2026-07-30 09:25:05  #國際
-
-【日本熊本縣發生4.2級地震】據日本氣象廳訊息，日本當地時間30日9時56分左右，日本熊本縣天草及蘆北地區發生4.2級地震，最大震感為震度3，震源深度10公里。（央視新聞）
-
----
-
-### 2026-07-30 09:24:48  #公司
-
-三星預計下半年整體消費市場需求將有所放緩。
-
----
-
-### 2026-07-30 09:24:33  #公司
-
-【江特電機成立智慧技術公司，含物聯網相關業務】企查查APP顯示，近日，尉爾（成都）智慧技術有限公司成立，經營範圍包含：電力電子元器件銷售；物聯網技術研發；工業網際網路資料服務；智慧基礎製造裝備銷售等。企查查股權穿透顯示，該公司由江特電機全資持股。
-
----
-
-### 2026-07-30 09:24:17  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bullish
-
-Samsung Electronics said it has secured foundry orders for its 2nm process from a cloud service provider.
-
----
-
-### 2026-07-30 09:24:08  #公司
-
-三星電子：代工業務已獲得雲服務供應商的2奈米工藝訂單。
-
----
-
-### 2026-07-30 09:23:55  #市場
-
-【港股人工智慧相關個股走強 明略科技漲近9%】截至發稿，明略科技(02718.HK)漲8.70%，德適-B(02526.HK)漲3.52%，智譜(02513.HK)漲1.45%。
-
----
-
-### 2026-07-30 09:23:46  #公司
-
-兆易創新：董事長此前於5月、6月合計減持股份，佔公司總股本的1.58%。
-
----
-
-### 2026-07-30 09:23:27  #公司
-
-兆易創新：董事長基於對未來前景的信心，計劃增持A股股份。
-
----
-
-### 2026-07-30 09:22:40  #央行 #其他
-
-央行公開市場今日淨投放665.0億元人民幣。
-
----
-
-### 2026-07-30 09:22:24  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish
-
-PBOC conducted CNY 270.5 bln of 7-day reverse repos today; bids and allotment both CNY 270.5 bln at a 1.40% rate. It also conducted CNY 600 bln of overnight reverse repos.
-
----
-
-### 2026-07-30 09:22:17  #央行 #中國央行
-
-中國人民銀行以固定利率、數量招標方式開展了2705億元7天期逆回購操作，全額滿足了一級交易商需求。同時，開展了6000億元隔夜逆回購操作。
-
----
-
-### 2026-07-30 09:22:01
-
-港股中際旭創（HK3308）上市首日開盤破發跌0.92％，現報971.00元，該股發行價為980.00元。
-
----
-
-### 2026-07-30 09:21:51  #央行 #公司
-
-央行公告稱，開展2705億元人民幣7天期逆回購操作，利率1.40%，持平上次。
-
----
-
-### 2026-07-30 09:21:49
-
-港股恒指高開漲0.26％，國企指數漲0.59％，科指開漲0.43%。
-
----
-
-### 2026-07-30 09:21:39  #MKT News #Important #HSI #Impact bullish #09901.HK #03308.HK #Impact bearish
-
-Hong Kong stocks opened higher: Hang Seng Index up 0.26%, Hang Seng TECH Index up 0.43%. New Oriental (09901.HK) jumped 14.5%, JD Logistics (02618.HK) rose 2.5%, Zhongji Xuchuang (03308.HK) slipped 0.92% on its first trading day.
-
----
-
-### 2026-07-30 09:21:27  #市場
-
-中際旭創在港交所上市首日，開盤報每股971港元，較980港元的發售價低0.9%。
-
----
-
-### 2026-07-30 09:21:13  #MKT News #HSI #Impact bullish
-
-Hong Kong open, July 30: HSI +67.91 pts (+0.26%) at 25,875.83; Hang Seng Tech Index +21.03 pts (+0.43%) at 4,885.76; HSCEI +50.67 pts (+0.59%) at 8,674.19; Red Chip Index +11.20 pts (+0.26%) at 4,241.61.
-
----
-
-### 2026-07-30 09:21:11  #其他
-
-LG新能源預計第三季度儲能電池產量增長50%。
-
----
-
-### 2026-07-30 09:21:10  #MKT News #005930.KS
-
-Samsung Electronics said Q3 DRAM bit growth versus Q2 will be in the mid-single-digit range.
-
----
-
-### 2026-07-30 09:20:49  #公司
-
-【歐菲光等成立半導體科技新公司】企查查APP顯示，近日，芯光聯（深圳）半導體科技有限公司成立，經營範圍包含：積體電路晶片設計及服務；積體電路銷售；半導體分立器件製造；半導體分立器件銷售等。企查查股權穿透顯示，該公司由歐菲光等共同持股。
-
----
-
-### 2026-07-30 09:20:30  #公司
-
-三星電子：第三季度DRAM位元增長較第二季度將處於個位數中低區間。
-
----
-
-### 2026-07-30 09:19:55  #其他
-
-LG新能源：第三季度營收預計較上一季度至少增長20%。
-
----
-
-### 2026-07-30 09:19:52  #市場 #焦點
-
-乙二醇連續主力合約日內漲5%，現報5131.00元。
-
----
-
-### 2026-07-30 09:19:47  #MKT News
-
-Samsung Electronics said the supply-demand gap will widen next year.
-
----
-
-### 2026-07-30 09:19:37  #Trading Economics #Economy #Philippines #Imports YoY #Importance 1
-
-Philippines Imports Growth at 3-Month Low — The Philippines’ trade deficit widened to USD 4.9 billion in June 2026 from USD 4.4 billion in the same month a year earlier. Imports rose 19.6% year-on-year to USD 13.7 billion, driven by increased purchases of electronic products (+82.9%), mainly semiconductors (+105.4%), amid growing global AI demand. Imports also grew for mineral fuels (+6.3%), industrial machinery and equipment (+1.3%), and cereals (+48.1%). China accounted for the largest share of imports (31.7%), followed by South Korea (13.0%), Japan (6.7%), and Indonesia (6.7%). Meanwhile, exports rose 24.1% to USD 8.8 billion, led by electronic products (+35.2%), primarily semiconductors (+33.4%). Exports also increased for machinery and transport equipment (+28.6%), gold (+43.8%), and other manufactured goods (+9.8%). The US remained the top export market, accounting for 20.1% of total exports, followed by Hong Kong (15.3%), China (11.4%), and Japan (11.3%). In H1 2026, the trade gap stood at USD 30.8 billion.
-
----
-
-### 2026-07-30 09:19:37  #MKT News #Important #005930.KS #Impact bullish
-
-Samsung Electronics said its memory business expects server demand to accelerate this year.
-
----
-
-### 2026-07-30 09:19:00  #國際
-
-伊朗格什姆島遭襲，居民區受損。
-
----
-
-### 2026-07-30 09:18:51  #公司
-
-三星第二季度資本支出16.8萬億韓元，其中15.4萬億韓元用於晶片。
-
----
-
-### 2026-07-30 09:18:34  #MKT News #Important #Market Themes #Chip Wars #005930.KS #Impact bullish
-
-Samsung Electronics reported Q2 DRAM shipments rose a low double-digit percent quarter-on-quarter.
-
----
-
-### 2026-07-30 09:18:29  #Trading Economics #Economy #Philippines #Balance of Trade #Importance 1
-
-Philippine Trade Gap Widens in June — The Philippines’ trade deficit widened to USD 4.9 billion in June 2026 from USD 4.4 billion in the same month a year earlier. Imports rose 19.6% year-on-year to USD 13.7 billion, driven by a sharp increase in purchases of electronic products (+82.9%), mainly semiconductors (+105.4%), amid growing global AI demand. Imports also increased for mineral fuels (+6.3%), industrial machinery and equipment (+1.3%), and cereals and cereal preparations (+48.1%). China accounted for the largest share of imports (31.7%), followed by South Korea (13.0%), Japan (6.7%), and Indonesia (6.7%). Meanwhile, exports rose 24.1% to USD 8.8 billion, led by electronic products (+35.2%), primarily semiconductors (+33.4%). Exports also increased for machinery and transport equipment (+28.6%), gold (+43.8%), and other manufactured goods (+9.8%). The US remained the top export market, accounting for 20.1% of total exports, followed by Hong Kong (15.3%), China (11.4%), and Japan (11.3%).
-
----
-
-### 2026-07-30 09:17:33  #MKT News
-
-IRNA reports the Kish Free Zone Organization said a US strike on Kish Island minutes ago caused no damage to the island's urban or residential areas.
-
----
-
-### 2026-07-30 09:17:05  #其他
-
-【7月以來寬基ETF淨流入2946億 昨日吸金365億創年內第四高】Wind資料顯示，7月29日ETF市場淨流入423.59億元。其中，寬基ETF貢獻364.51億元的淨流入額，這已是寬基ETF連續第5個交易日的淨流入，單日淨流入額是年內第四高。中證1000ETF南方淨流入57.14億元，中證500ETF南方、科創50ETF華夏也分別淨流入43.39億元、40.15億元；創業板ETF易方達則淨流入36.05億元，淨流入超過20億元的還有中證1000ETF華夏、滬深300ETF華泰柏瑞，其中，滬深300ETF華泰柏瑞規模繼續回升至1208.32億元。7月以來，全市場ETF合計淨流入4783.48億元，其中寬基ETF淨流入2945.96億元。
-
----
-
-### 2026-07-30 09:16:47  #國際
-
-【日本熊本縣發生4.2級地震 】 據日本氣象廳訊息，日本當地時間30日9時56分左右，日本熊本縣天草及蘆北地區發生4.2級地震，最大震感為震度3，震源深度10公里。
-
----
-
-### 2026-07-30 09:16:34  #Trading Economics #Economy #Philippines #Producer Prices Change #Importance 1
-
-Philippines Producer Inflation Edges Down to 3% in June — Producer prices in the Philippines increased by 3.0% year-on-year in June 2026, easing slightly from an upwardly revised 3.1% rise in May, which was the highest level since February 2023. The slowdown was mainly due to softer price growth in the manufacture of coke and refined petroleum products (2.4% vs 3.0% in May), computer, electronic and optical products (5.6% vs 5.9%), and basic metals (5.5% vs 5.9%). Meanwhile, producer price inflation for food picked up (1.7% vs 1.5%), led by a faster increase in the manufacture of grain mill products, starches, and starch products (2.5% vs 0.7%). On a monthly basis, producer prices rose by 0.2% in June, following a 0.3% increase in the previous month. For the first half of 2026, producer prices went up by 2.3% compared with the same period a year earlier.
-
----
-
-### 2026-07-30 09:16:16  #市場 #國際
-
-日本騰龍股價在索尼提出收購要約後，漲停板顯示漲幅達26%。
-
----
-
-### 2026-07-30 09:15:21  #市場
-
-人民幣兌美元中間價報6.7892元，較上日調高7點。
-
----
-
-### 2026-07-30 09:15:19  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-TASNIM NEWS reports a missile strike struck a residential area on Iran's Qeshm Island.
-
----
-
-### 2026-07-30 09:15:13  #其他
-
-LG新能源：計劃於2027年推出鈉電池樣品。
-
----
-
-### 2026-07-30 09:15:02  #市場
-
-恒指期貨日盤開盤漲0.47%，報25889.96點，高水82.04點。
-
----
-
-### 2026-07-30 09:14:24  #MKT News #Important #005930.KS #Impact bullish
-
-Samsung Electronics said semiconductor division capex in Q2 2026 was KRW 15.4 trillion.
-
----
-
-### 2026-07-30 09:14:07  #公司
-
-三星電子：2026年第二季度晶片部門資本支出為15.4萬億韓元。
-
----
-
-### 2026-07-30 09:14:05  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-【U.S. forces strike Abadan; explosions reported in Bandar Abbas】Islamic Republic of Iran Broadcasting (IRIB) cited Khuzestan province deputy security minister saying U.S. forces struck several sites in Abadan. Two explosions were heard in Bandar Abbas, the port city in Hormozgan province; similar blasts were reported on Abu Musa, Kish and Qeshm islands.
 
 ---
