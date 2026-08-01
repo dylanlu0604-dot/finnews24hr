@@ -1,7 +1,15 @@
 {
   "date": "2026-08-02",
-  "count": 83,
+  "count": 84,
   "items": [
+    {
+      "id": "mkt:019fbeff-15f9-7aab-8f43-b8634e7b75d1",
+      "time": "2026-08-02 04:23:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet alhadath reports Iraq's commander‑in‑chief of the armed forces has ordered formation of a joint security committee and directed it to carry out duties to protect Iraq's sovereignty and maintain good neighborly relations."
+    },
     {
       "id": "mkt:019fbef8-cfa4-7aab-8f43-b59aaa3c040e",
       "time": "2026-08-02 04:16:44",
