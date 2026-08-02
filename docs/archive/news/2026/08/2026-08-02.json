@@ -1,7 +1,63 @@
 {
   "date": "2026-08-02",
-  "count": 477,
+  "count": 482,
   "items": [
+    {
+      "id": "5020881",
+      "time": "2026-08-02 19:28:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐佩克+同意將9月份的石油產量配額提高18.8萬桶/日】宣告顯示，歐佩克+同意將9月份的石油產量配額提高18.8萬桶/日。沙烏地阿拉伯、俄羅斯、伊拉克、科威特、哈薩克、阿爾及利亞和阿曼同意調整產量，並重申致力於維護市場穩定。下次會議將於9月6日舉行。"
+    },
+    {
+      "id": "mkt:019fc23b-41b8-7aab-8f46-b91206d7330b",
+      "time": "2026-08-02 19:28:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "OPEC+ statement made no mention of policy beyond September 2026."
+    },
+    {
+      "id": "mkt:019fc23b-2c23-7aab-8f46-b244ad1c219e",
+      "time": "2026-08-02 19:28:05",
+      "tags": [
+        "MKT News",
+        "Commodities"
+      ],
+      "text": "OPEC+ schedules its next meeting for Sept. 6."
+    },
+    {
+      "id": "mkt:019fc23a-e609-7aab-8f46-aab52000ca86",
+      "time": "2026-08-02 19:27:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "OPEC+: Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman agreed to adjust output and reiterated commitment to market stability."
+    },
+    {
+      "id": "mkt:019fc238-f616-7aab-8f46-a495a866efa6",
+      "time": "2026-08-02 19:25:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC+ agreed to raise September oil production quotas by 188,000 barrels per day, the statement said."
+    },
     {
       "id": "mkt:019fc235-05be-7aab-8f46-998f369b684e",
       "time": "2026-08-02 19:21:22",

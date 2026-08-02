@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-02 19:25:35",
-  "count": 17932,
+  "updated": "2026-08-02 19:29:26",
+  "count": 17935,
   "items": [
+    {
+      "id": "5020881",
+      "time": "2026-08-02 19:28:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐佩克+同意將9月份的石油產量配額提高18.8萬桶/日】宣告顯示，歐佩克+同意將9月份的石油產量配額提高18.8萬桶/日。沙烏地阿拉伯、俄羅斯、伊拉克、科威特、哈薩克、阿爾及利亞和阿曼同意調整產量，並重申致力於維護市場穩定。下次會議將於9月6日舉行。"
+    },
+    {
+      "id": "mkt:019fc23b-41b8-7aab-8f46-b91206d7330b",
+      "time": "2026-08-02 19:28:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "OPEC+ statement made no mention of policy beyond September 2026."
+    },
+    {
+      "id": "mkt:019fc23b-2c23-7aab-8f46-b244ad1c219e",
+      "time": "2026-08-02 19:28:05",
+      "tags": [
+        "MKT News",
+        "Commodities"
+      ],
+      "text": "OPEC+ schedules its next meeting for Sept. 6."
+    },
+    {
+      "id": "mkt:019fc23a-e609-7aab-8f46-aab52000ca86",
+      "time": "2026-08-02 19:27:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "OPEC+: Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman agreed to adjust output and reiterated commitment to market stability."
+    },
+    {
+      "id": "mkt:019fc238-f616-7aab-8f46-a495a866efa6",
+      "time": "2026-08-02 19:25:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC+ agreed to raise September oil production quotas by 188,000 barrels per day, the statement said."
+    },
     {
       "id": "mkt:019fc235-05be-7aab-8f46-998f369b684e",
       "time": "2026-08-02 19:21:22",
@@ -166167,26 +166223,6 @@
         "其他"
       ],
       "text": "【貴州織金髮生一起山體危巖垮塌 提前轉移未造成人員傷亡】記者從貴州織金縣政府新聞辦獲悉，2026年7月26日10時左右，織金縣馬場鎮中心村二屯組一山體發生危巖垮塌，初步估算垮塌量約400m³。前期經省市縣有關部門和專家進行聯合研判，劃定了該隱患點的緊急避讓區域，相關區域內全部人員已提前轉移，進行了臨時避讓。經核實，現場未造成人員傷亡。（央視新聞）"
-    },
-    {
-      "id": "5008528",
-      "time": "2026-07-26 19:28:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【甘肅省繼續釋出山洪災害氣象風險橙色預警】甘肅省水利廳、甘肅省氣象局於2026年7月26日18時00分聯合釋出山洪災害氣象風險橙色預警。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f9e2d-5ce5-7aab-8e9a-05ca9603635e",
-      "time": "2026-07-26 19:26:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Analysts: Ukraine strike on Iranian merchant ship had two aims】Analysts say Ukrainian forces struck an Iranian merchant ship in the Caspian Sea on July 25; Tehran strongly condemned the attack and summoned Ukraine’s acting chargé d’affaires in Tehran. They assess Kyiv had two objectives. First, to disrupt Iranian military support for Russia: Kyiv has recently stepped up strikes on deep Russian targets—notably energy and logistics infrastructure—which analysts say have harmed Russia’s economy and civilian welfare, while Russia has responded with large-scale drone and ballistic missile attacks inside Ukraine. Second, to help U.S. efforts to pressure Iran in hopes of securing renewed U.S. support: analysts say Washington, long Kyiv’s main military backer, has since President Trump’s second term increasingly pressed Ukraine for concessions to end the conflict, and Kyiv is trying to demonstrate its value to regain U.S. backing."
     }
   ]
 }
