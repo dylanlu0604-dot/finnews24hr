@@ -1,7 +1,368 @@
 {
   "date": "2026-08-02",
-  "count": 185,
+  "count": 226,
   "items": [
+    {
+      "id": "5020673",
+      "time": "2026-08-02 12:03:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：法航荷航集團意圖借力收購易捷航空獲取收益。"
+    },
+    {
+      "id": "5020672",
+      "time": "2026-08-02 12:02:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：大量 AI 相關漏洞報告湧現，蘋果稽核系統承壓。"
+    },
+    {
+      "id": "5020671",
+      "time": "2026-08-02 11:54:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國對西部多地釋出極端高溫警報】根據美國國家氣象局8月1日的預報，極端熱浪在當地時間本週末將席捲美國西部地區，多地氣溫可能超過40攝氏度。氣象專家認為，一個“熱穹頂”天氣系統從美國南部向西部移動，預計將影響南至亞利桑那州、北到蒙大拿州的西部多州。“熱穹頂”會抑制空氣對流以及雲層和降水形成，導致陽光長時間照射地表，推高氣溫。美國國家氣象局已對加利福尼亞州、亞利桑那州、內華達州和猶他州的部分地區釋出極端高溫警報，數十個地區的單日最高氣溫紀錄可能會被打破。根據對當地時間本週末氣溫的預報，加州首府薩克拉門託氣溫可能會突破39.4攝氏度，加州內陸的棕櫚泉可能會達到47.2攝氏度，死谷最高氣溫預計可達50.6攝氏度。猶他州鹽湖城氣溫預計將達到40.6攝氏度，內華達州拉斯維加斯將達46.1攝氏度，亞利桑那州菲尼克斯將達47.2攝氏度。多地有關部門警告此輪高溫將顯著增加中暑及其他與高溫相關疾病的風險，提醒民眾注意防暑降溫，儘量待在室內，保持充足飲水。氣象部門還警告說，本輪熱浪疊加此前連續高溫乾燥的環境，可能進一步增加美國西部發生山火的風險。根據美國國家跨部門消防中心公佈的最新資料，8月1日，美國有84起大規模野火正在燃燒，其中絕大多數都在西部，有超過2.6萬名消防人員及支援人員參加滅火作業。一些氣象專家指出，氣候變化正在引發規模更大、強度更高、持續時間更長的熱浪，並導致更嚴重的乾旱和更頻繁、更猛烈的野火。此外，今年的厄爾尼諾現象也推動了全球氣溫上升。（新華社）"
+    },
+    {
+      "id": "5020670",
+      "time": "2026-08-02 11:51:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗軍方：特朗普稱伊朗要求停止攻擊是“謊言”】伊朗邁赫爾通訊社2日援引伊朗軍方官員的話報道說，美國總統特朗普稱伊朗要求停止攻擊是“一個新的謊言”。 這名官員說：“無論他繼續侵略還是退縮，我們的部隊都處於最高戒備狀態，已為一切可能做好準備。如果對抗不可避免，戰場將決定一切，屆時所有人都會明白，誰掌握著力量，誰將擁有最終發言權。”  （新華社）"
+    },
+    {
+      "id": "mkt:019fc098-b3c7-7aab-8f45-00a41cbc8a5a",
+      "time": "2026-08-02 11:51:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iranian military says Trump claim that Iran sought halt to attacks is 'a lie'】Xinhua cited Iranian military officials saying President Trump’s statement that Iran requested a halt to attacks is 'a new lie'."
+    },
+    {
+      "id": "mkt:019fc097-9431-7aab-8f44-f8210a3325f4",
+      "time": "2026-08-02 11:49:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shenzhen rail handles 17.183 mln passenger movements in July】Since the start of the 2026 summer rail operation on July 1, Shenzhen rail reported 17.183 mln cumulative arrivals and departures through July 31, averaging 573,000 passenger movements per day; departures 8.753 mln, arrivals 8.430 mln."
+    },
+    {
+      "id": "5020669",
+      "time": "2026-08-02 11:48:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳鐵路7月份到發旅客超1700萬人次】據深圳鐵路部門訊息，2026年鐵路暑運自7月1日啟動以來，截至7月31日，深圳鐵路累計到發旅客1718.3萬人次，日均到發旅客57.3萬人次；其中，傳送旅客875.3萬人次，到達旅客843.0萬人次。（深圳釋出）"
+    },
+    {
+      "id": "5020668",
+      "time": "2026-08-02 11:42:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東：力爭3年內集聚萬名人工智慧OPC創新人才】山東省工信廳等12部門近日聯合印發《關於支援人工智慧OPC創新發展的行動方案》，培育壯大人工智慧OPC（One Person Company，一人公司）新型市場主體，推動“AI+超級個體”新型創業模式加速落地。力爭3年內，建成百個定位清晰、功能完善的特色載體，培育千家技術領先、成長性強的創業主體，集聚萬名優秀人工智慧OPC創新人才。支援濟南、青島、煙臺等市結合產業稟賦，統籌規劃存量資源與新增空間，依託數字經濟產業園、廣告產業園、網路視聽產業園、雙創孵化中心等，打造一批人工智慧OPC特色園區。"
+    },
+    {
+      "id": "mkt:019fc08f-3a82-7aab-8f44-f71c48e01f2f",
+      "time": "2026-08-02 11:40:39",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【IRGC says it destroyed three U.S. F-35s in strike on Jordan base】Iran's Islamic Revolutionary Guard Corps said on Aug 1 its Aerospace Force used multiple ballistic missiles to strike maintenance hangars and the ramp at the U.S. Al Azraq base in Jordan, in retaliation for a U.S. attack on Qeshm Island. The IRGC said the strike completely destroyed three F-35s and severely damaged three more. The U.S. has not issued a response."
+    },
+    {
+      "id": "5020667",
+      "time": "2026-08-02 11:39:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西班牙客機在克羅埃西亞降落時起落架受損】克羅埃西亞航空、海事和鐵路事故調查局8月1日說，西班牙航空公司一架客機當天在斯普利特機場降落時飛機起落架受損，無人員受傷。該調查局當天在其網站上釋出的宣告說，1日16時22分許，這架空客A320客機在斯普利特機場降落時發生嚴重事故，前起落架受損。這架從馬德里起飛的航班上共有172名乘客和6名機組人員，無人受傷。飛機停穩後，乘客被疏散。克羅埃西亞通訊社援引當地機場官員的話報道，飛機前起落架輪胎爆裂。事發客機被移走後，臨時關閉的跑道於18時30分許重新開放。（新華社）"
+    },
+    {
+      "id": "5020666",
+      "time": "2026-08-02 11:33:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊稱摧毀3架美軍F－35戰機】據伊朗伊斯蘭共和國通訊社8月1日報道，伊朗伊斯蘭革命衛隊當天摧毀3架美軍F－35戰機。報道說，革命衛隊航空航天部隊當天使用多枚彈道導彈，打擊了約旦阿茲拉克美軍基地的F－35戰機維修機庫和停機坪，以報復美國對伊朗格什姆島的襲擊行為。此次打擊徹底摧毀3架美軍F－35戰機，另有3架嚴重受損。美方尚未對此發表宣告或作出回應。（新華社）"
+    },
+    {
+      "id": "5020665",
+      "time": "2026-08-02 11:28:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微信地震預警能力更新 地震預警小程式可以反饋震感了】今天，中國地震臺網小程式正式上線“震感上報”能力。當使用者收到地震預警並確認自身安全後，可進入小程式上報位置並反饋震感情況。你反饋的資訊，經處理後會形成震感分佈圖。 此外，小程式還上線了“位置更新”能力。當你的地理位置發生變化時，小程式會主動識別並提醒你將目前所在地新增為預警位置。（微信派）"
+    },
+    {
+      "id": "mkt:019fc081-9115-7aab-8f44-efa69363aa67",
+      "time": "2026-08-02 11:25:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a magnitude 3.1 earthquake at 11:15 on Aug 2 in the Tangula area of Haixi Prefecture, Qinghai (33.43°N, 91.15°E); focal depth 10 km."
+    },
+    {
+      "id": "mkt:019fc081-65b6-7aab-8f44-e7501bfd5a49",
+      "time": "2026-08-02 11:25:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran’s Islamic Revolutionary Guard Corps said the US president’s claim that Iran asked to halt attacks is nonsense and a last-ditch attempt to extort and pressure Persian Gulf rulers. The IRGC said its forces are at highest readiness and prepared for any possibility; if confrontation is unavoidable, the battlefield will decide and everyone will know who holds power and the final say."
+    },
+    {
+      "id": "5020664",
+      "time": "2026-08-02 11:16:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長三角（嘉興）Token運營中心正式啟動】日前，長三角（嘉興）Token運營中心釋出會在嘉興沙龍賓館舉行。釋出會上，作為長三角（嘉興）Token運營中心面向市場的統一服務視窗，長三角（嘉興）Token運營中心入口網站同步上線。企業不再需要找程式碼、配環境、調引數。平臺如同一個大型的“資料模型超市”，企業一次接入，即可按需呼叫DeepSeek、Qwen等100餘款主流大模型。（浙江釋出）"
+    },
+    {
+      "id": "5020663",
+      "time": "2026-08-02 11:15:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗警告沙特警惕美以持續策劃陰謀以及各類挑釁行動。"
+    },
+    {
+      "id": "5020662",
+      "time": "2026-08-02 11:13:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【世衛：本輪疫情為剛果（金）史上最大埃博拉疫情】剛果（金）衛生部1日宣佈，截至7月31日，該國本輪埃博拉疫情累計報告確診病例3674例，其中死亡1621例。世界衛生組織官網1日釋出公告說，本輪疫情已成為剛果（金）有記錄以來規模最大的埃博拉疫情。（新華社）"
+    },
+    {
+      "id": "5020661",
+      "time": "2026-08-02 11:13:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【現代和起亞上半年在歐洲的電動汽車銷量超過10萬輛】現代汽車公司和起亞汽車公司週日表示，今年上半年，這兩家韓國汽車製造商在歐洲售出了超過10萬輛電動汽車，以加強其在該地區的地位。現代和起亞表示，2026年上半年歐洲共售出131,032輛電動汽車，比上半年的92,365輛大幅增長41.8%。這兩家公司預計，如果目前的銷售速度持續到年底，在歐洲電動汽車年銷量將自2014年進入歐洲電動汽車市場以來首次超過20萬輛。截至今年5月份，他們在歐洲的電動汽車累計銷量突破了100萬輛大關。"
+    },
+    {
+      "id": "mkt:019fc075-effa-7aab-8f44-d8a26c65f2bb",
+      "time": "2026-08-02 11:13:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "005380.KS",
+        "Impact bullish",
+        "000270.KS"
+      ],
+      "text": "【Hyundai, Kia sell 131,032 EVs in Europe in 1H; combined sales top 100,000】Hyundai Motor and Kia sold 131,032 electric vehicles in Europe in 1H 2026, a 41.8% increase from 92,365 in the prior 1H. The companies said if the current sales pace holds to year-end, combined European EV sales would exceed 200,000 for the first time since they entered the market in 2014. Combined cumulative EV deliveries in Europe surpassed 1 million as of May."
+    },
+    {
+      "id": "5020660",
+      "time": "2026-08-02 11:07:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年全國二手房交易佔比超新房 房地產市場進入存量時代】今年上半年，全國二手房交易佔比超過新房，達到50.4%，傳統以新房銷售為主的增量交易格局正加快向新房和二手房並舉轉變，房地產市場進入存量時代。在中央經濟工作會議“控增量、去庫存、優供給”的要求下，多個城市也在透過多種方式盤活存量房源，推動既有住房資源的最佳化配置，啟用存量住房價值。在山東省青島市城陽區，和岑正在張羅自家的新房裝修。今年2月，和岑一家購買了保障性住房專案，選購了一套110平方米、三室兩廳的房源。這個保障性住房專案是由當地一家開發企業持有的存量房源轉化而來。去年，青島一家國有平臺企業從原開發商手中收購這一專案，將其轉化為配售型保障房，再配售給符合保障性住房申購條件的家庭。透過“以需定購”這一模式，目前已完成配售的兩批、173套存量轉化的房源，上市當日全部售罄。（央視財經）"
+    },
+    {
+      "id": "5020659",
+      "time": "2026-08-02 11:02:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防災減災救災委員會對甘肅渭源縣重大山洪災害調查評估掛牌督辦】2026年7月26日，甘肅省定西市渭源縣會川鎮羅家磨村雙石門溝區域突發短時強降雨，引發山洪災害，目前已造成25人死亡、23人受傷。根據《自然災害調查評估暫行辦法》有關規定，國家防災減災救災委員會對該起災害調查評估實施掛牌督辦，要求甘肅省人民政府依照有關法律法規及規章規定，及時組織開展災害調查評估，推動提高防災減災救災能力，切實維護人民群眾生命財產安全。（央視新聞）"
+    },
+    {
+      "id": "5020658",
+      "time": "2026-08-02 11:01:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【住房公積金繳存覆蓋面擴大 靈活就業人員可自願繳納】為了深化住房公積金制度改革，更好滿足繳存人多元化住房需求，住房城鄉建設部前不久啟動了《住房公積金管理條例》修訂工作，並就《住房公積金管理條例（修訂徵求意見稿）》向社會公開徵求意見。相比舊條例相關規定，徵求意見稿有多方面變化值得關注。徵求意見稿主要體現出三大亮點。首先，繳存覆蓋面擴大了，明確個體工商戶、非全日制從業人員以及其他靈活就業人員，可自願參加住房公積金制度，也就是說包括外賣員、快遞員、網約車司機等，以後也能繳納了。其次，拓寬了使用範圍，明確將自住住房裝修、支付物業費納入可提取住房公積金的情形。也就是說，從“購房”“租房”拓展到“修房”“養房”，讓資金用途更豐富。此外，明確要強化公積金數字化能力建設，強化跨地區、跨部門、跨層級的業務協同，推動住房公積金互認互貸。專家表示，此次修改的核心導向，在於更好滿足居民特別是新市民、青年人等群體的多樣化租房消費需求，強化住房公積金在擴大內需、促進住房消費方面的支撐作用。（央視新聞）"
+    },
+    {
+      "id": "5020657",
+      "time": "2026-08-02 10:58:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德國製造業“降溫” 奧地利企業承壓】\n奧地利經濟研究所日前釋出最新評估報告指出，今年以來，海外需求持續走弱尤其是德國內需低迷，成為拖累奧地利工業出口的重要因素。德國車企與機械製造企業大規模降本裁員帶來的產業下行壓力正向奧地利傳導，使高度依賴德國市場的奧地利製造業面臨外部需求持續萎縮的風險。\n奧地利經濟研究所報告顯示，2026年第二季度，奧地利實際國內生產總值環比零增長，工業增加值下降0.1%。裕信（奧地利）銀行最新調查顯示，7月，奧地利製造業出口訂單指數跌至一年來低位，顯示外部市場需求持續走弱。\n奧地利與德國產業融合緊密，機械加工、金屬製品、汽車配套等優勢產業對德出口依存度尤其顯著。奧地利經濟研究所跟蹤資料顯示，奧地利近三分之一的工業製成品出口流向德國市場，德國工業景氣波動直接影響奧地利製造業訂單冷暖。\n奧地利製造業工會和奧地利私營部門僱員工會的產業監測資料顯示，奧地利約有900家汽車配套企業、合計19萬從業人員深度嵌入德系車企供應鏈。德國《工業雜誌》月刊調研測算，共有135家奧地利企業直接向大眾德國工廠供貨，相關業務間接帶動奧地利境內超6300個穩定就業崗位。隨著越來越多德企壓縮資本開支、削減外包採購，奧地利不少主營燃油車零部件的中小型配套廠商的新訂單逐步減少。\n能源成本高企、製造業向外轉移、全球市場競爭加劇與電動化轉型鉅額投入等因素疊加，促使德國工業企業加大降成本力度，而汽車行業成為受裁員衝擊最嚴重的工業部門。今年3月，大眾集團宣佈計劃到2030年在德國削減約5萬個崗位。德國媒體近日報道，為降低成本，寶馬集團計劃於2027年底前在全球裁減約8000個工作崗位。此外，博世、採埃孚等德國主要零部件供應企業正持續關停本土產線。據安永會計師事務所5月釋出的行業統計，截至2026年第一季度，德國工業就業崗位同比減少12.73萬個，自2019年以來累計流失超過34萬個崗位。\n奧地利工業龍頭企業率先感受到市場寒意。安德里茨集團7月初宣佈，其旗下德國子公司舒勒將繼續裁員約500人。該公司表示，汽車成型和電池生產裝置需求疲軟是本輪重組的主要誘因。這折射出當前歐洲汽車產業固定資產投資整體降溫。\n業內分析人士認為，外部產業收縮對奧地利的短期衝擊集中在傳統燃油車上下游產業鏈，中長期來看，壓力或將傳導至高階機械、金屬加工等奧地利優勢領域。\n（新華社）"
+    },
+    {
+      "id": "5020656",
+      "time": "2026-08-02 10:57:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美伊協議草案未觸及“終結核威脅”，海峽細節仍模糊】針對特朗普有關已就協議框架達成一致、同意取消打擊伊朗的帖文，根據該報及其他媒體的報道，沒有任何跡象表明目前正在討論的任何提議等同於“終結伊朗的核威脅”。有關霍爾木茲海峽的細節也仍然極為有限。訊息人士僅表明，這涉及與阿曼某種潛在協議的可能性。"
+    },
+    {
+      "id": "mkt:019fc067-85f7-7aab-8f44-d1d6b91eb1f5",
+      "time": "2026-08-02 10:57:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CNN: Draft US-Iran accord not equivalent to \"ending nuclear threat\"; Hormuz details unclear】After Trump tweeted that a framework had been agreed and that he had agreed to call off strikes on Iran, CNN and other outlets report there is no indication any proposal under discussion would amount to \"ending Iran's nuclear threat.\" Details on the Strait of Hormuz remain scarce; sources say talks may involve a potential arrangement with Oman."
+    },
+    {
+      "id": "5020655",
+      "time": "2026-08-02 10:56:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍將領被爆料私下寫信警告五角大樓：稱若不增派驅逐艦，將優先保衛美國本土而非以色列】據美國《華盛頓郵報》等媒體當地時間8月1日援引訊息人士的話報道，北約歐洲盟軍最高司令兼美軍歐洲司令部司令亞力克蘇斯·格林克維奇已私下向五角大樓遞交書面警告，稱若無法再增派一艘海軍驅逐艦，他將被迫選擇優先保衛美國本土，而非以色列。（環球網）"
+    },
+    {
+      "id": "5020654",
+      "time": "2026-08-02 10:51:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家廣播電視臺稱，特朗普的決定表明華盛頓被迫重新考量相關計劃，做出這一調整是受到伊朗及其他地區國家施壓的結果。"
+    },
+    {
+      "id": "mkt:019fc061-b61d-7aab-8f44-cc322e7a0926",
+      "time": "2026-08-02 10:50:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ganhe (Nenjiang tributary) records 2026 No.1 flood】Rainfall pushed the water level at Gagedaqi hydrological station (Daxing'anling area, Heilongjiang) to the warning level of 371.68 meters at 09:00 on Aug 2. Under principal river flood-numbering rules the event is designated Ganhe 2026 No.1 flood, according to China’s Ministry of Water Resources."
+    },
+    {
+      "id": "5020653",
+      "time": "2026-08-02 10:50:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤跌破86美元，日內跌超5%。"
+    },
+    {
+      "id": "mkt:019fc060-633c-7aab-8f44-c381b3018db8",
+      "time": "2026-08-02 10:49:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korean retail investors say best rule for KOSPI is 'don't invest'】South Korea's retail investors, long known for risk-taking, were hit by a sharp July reversal: the KOSPI plunged 22% for its largest monthly drop since the global financial crisis, and despite an 18% rebound on Friday retail investors registered record net sales of KOSPI constituents. Under South Korea's Lee's market reforms and encouragement of single-stock leveraged ETF listings, retail poured roughly 78 trillion won (about $54.2bn) into KOSPI stocks in May–June, leaving many heavily exposed to July volatility. Social media shows widespread retail frustration directed at the government; some individual investors say they will stop investing in Korean equities."
+    },
+    {
+      "id": "5020652",
+      "time": "2026-08-02 10:47:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤跌破86美元，日內跌超4.6%。"
+    },
+    {
+      "id": "5020651",
+      "time": "2026-08-02 10:47:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【太空種糧技術升級！首次在軌連續培養兩代水稻實驗進展順利】進駐中國空間站兩個多月以來，神舟二十三號乘組的三名航天員朱楊柱、張志遠、黎家盈狀態良好，多項空間科學實（試）驗有序推進，首次開展的“空間水稻多代遺傳穩定性與環境適應性調控的分子機理研究”實驗，完成了第一批水稻實驗樣品採集及儲存工作。（央視新聞）"
+    },
+    {
+      "id": "5020650",
+      "time": "2026-08-02 10:46:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【嫩江支流甘河發生2026年第1號洪水】受降雨影響，黑龍江省嫩江支流甘河加格達奇水文站（黑龍江省大興安嶺地區）8月2日9時水位漲至警戒水位（371.68米），依據主要江河洪水編號規定，此次洪水編號為“甘河2026年第1號洪水”。（中國水利）"
+    },
+    {
+      "id": "5020649",
+      "time": "2026-08-02 10:43:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "加密貨幣交易平臺交易的原油永續合約目前下跌5%。"
+    },
+    {
+      "id": "mkt:019fc056-6793-7aab-8f44-bd5f60dc71a4",
+      "time": "2026-08-02 10:38:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rain warning prompts temporary suspension of some Beijing suburban rail services】China Railway Beijing Group said on Aug 2 that, due to a rainfall warning, select trains on Beijing suburban lines were temporarily suspended: Huairou–Miyun line — S503, S504, S513, S514, S517, S518, S523; S2 line — S205, S206, S287, S288."
+    },
+    {
+      "id": "5020648",
+      "time": "2026-08-02 10:34:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【因降雨預警 北京市郊鐵路部分列車臨時停運】記者從國鐵北京局瞭解到，因降雨預警，今天（8月2日）北京市郊鐵路懷密線、S2線部分列車臨時停運。具體車次為：懷柔-密雲線S503次、S504次、S513次、S514次、S517次、S518次、S523次臨時停運。S2線S205次、S206次、S287次、S288次臨時停運。（央視新聞）"
+    },
+    {
+      "id": "5020647",
+      "time": "2026-08-02 10:30:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中央氣象臺8月2日10時繼續釋出暴雨橙色預警】中央氣象臺8月2日10時繼續釋出暴雨橙色預警：預計，8月2日14時至3日14時，內蒙古中東部、吉林東部、陝西東部和南部、山西西部和北部、河北西北部、北京西部和北部、四川東部和南部、重慶大部、貴州西部和北部、雲南北部和西部、廣西南部沿海、廣東中南部、海南島北部和西南部等地部分地區有大到暴雨，其中，陝西南部、四川東部、重慶中部、貴州西部和北部、廣西南部沿海、廣東南部沿海等地部分地區有大暴雨，四川盆地東北部、廣東東南部沿海等地局地特大暴雨（250～330毫米）。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風或冰雹等強對流天氣。"
+    },
+    {
+      "id": "5020646",
+      "time": "2026-08-02 10:25:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱同意取消對伊朗的打擊】當地時間8月1日，美國總統特朗普在社交媒體發文稱同意取消對伊朗的打擊。特朗普稱：“伊朗和其他中東國家剛剛要求我們暫緩任何攻擊，因為雙方已就協議的框架達成一致。這將包括霍爾木茲海峽的立即、完全和徹底開放，以及結束伊朗的核威脅。”特朗普表示，基於這一要求，“我同意取消攻擊，但前提是能夠迅速達成協議。以色列也與我共同致力於此。”（央視新聞）"
+    },
+    {
+      "id": "mkt:019fc045-c614-7aab-8f44-b4653ff2125b",
+      "time": "2026-08-02 10:20:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Indonesia's Energy Ministry set benchmark coal prices for the first half of August at $93.27/tonne for 5,300 kcal/kg coal and $65.48/tonne for 4,100 kcal/kg coal."
+    },
+    {
+      "id": "5020645",
+      "time": "2026-08-02 10:20:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞能源部設定，8月上半月熱值為4100千卡的印尼動力煤參考價為每噸65.48美元。"
+    },
+    {
+      "id": "5020644",
+      "time": "2026-08-02 10:20:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼能源部：8月上半月，印尼將發熱量5300大卡等級煤炭的基準價格定為每噸93.27美元。"
+    },
     {
       "id": "5020643",
       "time": "2026-08-02 10:10:36",

@@ -1,7 +1,368 @@
 {
-  "updated": "2026-08-02 10:18:52",
-  "count": 17939,
+  "updated": "2026-08-02 12:05:14",
+  "count": 17924,
   "items": [
+    {
+      "id": "5020673",
+      "time": "2026-08-02 12:03:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：法航荷航集團意圖借力收購易捷航空獲取收益。"
+    },
+    {
+      "id": "5020672",
+      "time": "2026-08-02 12:02:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：大量 AI 相關漏洞報告湧現，蘋果稽核系統承壓。"
+    },
+    {
+      "id": "5020671",
+      "time": "2026-08-02 11:54:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國對西部多地釋出極端高溫警報】根據美國國家氣象局8月1日的預報，極端熱浪在當地時間本週末將席捲美國西部地區，多地氣溫可能超過40攝氏度。氣象專家認為，一個“熱穹頂”天氣系統從美國南部向西部移動，預計將影響南至亞利桑那州、北到蒙大拿州的西部多州。“熱穹頂”會抑制空氣對流以及雲層和降水形成，導致陽光長時間照射地表，推高氣溫。美國國家氣象局已對加利福尼亞州、亞利桑那州、內華達州和猶他州的部分地區釋出極端高溫警報，數十個地區的單日最高氣溫紀錄可能會被打破。根據對當地時間本週末氣溫的預報，加州首府薩克拉門託氣溫可能會突破39.4攝氏度，加州內陸的棕櫚泉可能會達到47.2攝氏度，死谷最高氣溫預計可達50.6攝氏度。猶他州鹽湖城氣溫預計將達到40.6攝氏度，內華達州拉斯維加斯將達46.1攝氏度，亞利桑那州菲尼克斯將達47.2攝氏度。多地有關部門警告此輪高溫將顯著增加中暑及其他與高溫相關疾病的風險，提醒民眾注意防暑降溫，儘量待在室內，保持充足飲水。氣象部門還警告說，本輪熱浪疊加此前連續高溫乾燥的環境，可能進一步增加美國西部發生山火的風險。根據美國國家跨部門消防中心公佈的最新資料，8月1日，美國有84起大規模野火正在燃燒，其中絕大多數都在西部，有超過2.6萬名消防人員及支援人員參加滅火作業。一些氣象專家指出，氣候變化正在引發規模更大、強度更高、持續時間更長的熱浪，並導致更嚴重的乾旱和更頻繁、更猛烈的野火。此外，今年的厄爾尼諾現象也推動了全球氣溫上升。（新華社）"
+    },
+    {
+      "id": "5020670",
+      "time": "2026-08-02 11:51:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗軍方：特朗普稱伊朗要求停止攻擊是“謊言”】伊朗邁赫爾通訊社2日援引伊朗軍方官員的話報道說，美國總統特朗普稱伊朗要求停止攻擊是“一個新的謊言”。 這名官員說：“無論他繼續侵略還是退縮，我們的部隊都處於最高戒備狀態，已為一切可能做好準備。如果對抗不可避免，戰場將決定一切，屆時所有人都會明白，誰掌握著力量，誰將擁有最終發言權。”  （新華社）"
+    },
+    {
+      "id": "mkt:019fc098-b3c7-7aab-8f45-00a41cbc8a5a",
+      "time": "2026-08-02 11:51:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iranian military says Trump claim that Iran sought halt to attacks is 'a lie'】Xinhua cited Iranian military officials saying President Trump’s statement that Iran requested a halt to attacks is 'a new lie'."
+    },
+    {
+      "id": "mkt:019fc097-9431-7aab-8f44-f8210a3325f4",
+      "time": "2026-08-02 11:49:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shenzhen rail handles 17.183 mln passenger movements in July】Since the start of the 2026 summer rail operation on July 1, Shenzhen rail reported 17.183 mln cumulative arrivals and departures through July 31, averaging 573,000 passenger movements per day; departures 8.753 mln, arrivals 8.430 mln."
+    },
+    {
+      "id": "5020669",
+      "time": "2026-08-02 11:48:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳鐵路7月份到發旅客超1700萬人次】據深圳鐵路部門訊息，2026年鐵路暑運自7月1日啟動以來，截至7月31日，深圳鐵路累計到發旅客1718.3萬人次，日均到發旅客57.3萬人次；其中，傳送旅客875.3萬人次，到達旅客843.0萬人次。（深圳釋出）"
+    },
+    {
+      "id": "5020668",
+      "time": "2026-08-02 11:42:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東：力爭3年內集聚萬名人工智慧OPC創新人才】山東省工信廳等12部門近日聯合印發《關於支援人工智慧OPC創新發展的行動方案》，培育壯大人工智慧OPC（One Person Company，一人公司）新型市場主體，推動“AI+超級個體”新型創業模式加速落地。力爭3年內，建成百個定位清晰、功能完善的特色載體，培育千家技術領先、成長性強的創業主體，集聚萬名優秀人工智慧OPC創新人才。支援濟南、青島、煙臺等市結合產業稟賦，統籌規劃存量資源與新增空間，依託數字經濟產業園、廣告產業園、網路視聽產業園、雙創孵化中心等，打造一批人工智慧OPC特色園區。"
+    },
+    {
+      "id": "mkt:019fc08f-3a82-7aab-8f44-f71c48e01f2f",
+      "time": "2026-08-02 11:40:39",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【IRGC says it destroyed three U.S. F-35s in strike on Jordan base】Iran's Islamic Revolutionary Guard Corps said on Aug 1 its Aerospace Force used multiple ballistic missiles to strike maintenance hangars and the ramp at the U.S. Al Azraq base in Jordan, in retaliation for a U.S. attack on Qeshm Island. The IRGC said the strike completely destroyed three F-35s and severely damaged three more. The U.S. has not issued a response."
+    },
+    {
+      "id": "5020667",
+      "time": "2026-08-02 11:39:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西班牙客機在克羅埃西亞降落時起落架受損】克羅埃西亞航空、海事和鐵路事故調查局8月1日說，西班牙航空公司一架客機當天在斯普利特機場降落時飛機起落架受損，無人員受傷。該調查局當天在其網站上釋出的宣告說，1日16時22分許，這架空客A320客機在斯普利特機場降落時發生嚴重事故，前起落架受損。這架從馬德里起飛的航班上共有172名乘客和6名機組人員，無人受傷。飛機停穩後，乘客被疏散。克羅埃西亞通訊社援引當地機場官員的話報道，飛機前起落架輪胎爆裂。事發客機被移走後，臨時關閉的跑道於18時30分許重新開放。（新華社）"
+    },
+    {
+      "id": "5020666",
+      "time": "2026-08-02 11:33:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊稱摧毀3架美軍F－35戰機】據伊朗伊斯蘭共和國通訊社8月1日報道，伊朗伊斯蘭革命衛隊當天摧毀3架美軍F－35戰機。報道說，革命衛隊航空航天部隊當天使用多枚彈道導彈，打擊了約旦阿茲拉克美軍基地的F－35戰機維修機庫和停機坪，以報復美國對伊朗格什姆島的襲擊行為。此次打擊徹底摧毀3架美軍F－35戰機，另有3架嚴重受損。美方尚未對此發表宣告或作出回應。（新華社）"
+    },
+    {
+      "id": "5020665",
+      "time": "2026-08-02 11:28:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微信地震預警能力更新 地震預警小程式可以反饋震感了】今天，中國地震臺網小程式正式上線“震感上報”能力。當使用者收到地震預警並確認自身安全後，可進入小程式上報位置並反饋震感情況。你反饋的資訊，經處理後會形成震感分佈圖。 此外，小程式還上線了“位置更新”能力。當你的地理位置發生變化時，小程式會主動識別並提醒你將目前所在地新增為預警位置。（微信派）"
+    },
+    {
+      "id": "mkt:019fc081-9115-7aab-8f44-efa69363aa67",
+      "time": "2026-08-02 11:25:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a magnitude 3.1 earthquake at 11:15 on Aug 2 in the Tangula area of Haixi Prefecture, Qinghai (33.43°N, 91.15°E); focal depth 10 km."
+    },
+    {
+      "id": "mkt:019fc081-65b6-7aab-8f44-e7501bfd5a49",
+      "time": "2026-08-02 11:25:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran’s Islamic Revolutionary Guard Corps said the US president’s claim that Iran asked to halt attacks is nonsense and a last-ditch attempt to extort and pressure Persian Gulf rulers. The IRGC said its forces are at highest readiness and prepared for any possibility; if confrontation is unavoidable, the battlefield will decide and everyone will know who holds power and the final say."
+    },
+    {
+      "id": "5020664",
+      "time": "2026-08-02 11:16:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長三角（嘉興）Token運營中心正式啟動】日前，長三角（嘉興）Token運營中心釋出會在嘉興沙龍賓館舉行。釋出會上，作為長三角（嘉興）Token運營中心面向市場的統一服務視窗，長三角（嘉興）Token運營中心入口網站同步上線。企業不再需要找程式碼、配環境、調引數。平臺如同一個大型的“資料模型超市”，企業一次接入，即可按需呼叫DeepSeek、Qwen等100餘款主流大模型。（浙江釋出）"
+    },
+    {
+      "id": "5020663",
+      "time": "2026-08-02 11:15:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗警告沙特警惕美以持續策劃陰謀以及各類挑釁行動。"
+    },
+    {
+      "id": "5020662",
+      "time": "2026-08-02 11:13:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【世衛：本輪疫情為剛果（金）史上最大埃博拉疫情】剛果（金）衛生部1日宣佈，截至7月31日，該國本輪埃博拉疫情累計報告確診病例3674例，其中死亡1621例。世界衛生組織官網1日釋出公告說，本輪疫情已成為剛果（金）有記錄以來規模最大的埃博拉疫情。（新華社）"
+    },
+    {
+      "id": "5020661",
+      "time": "2026-08-02 11:13:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【現代和起亞上半年在歐洲的電動汽車銷量超過10萬輛】現代汽車公司和起亞汽車公司週日表示，今年上半年，這兩家韓國汽車製造商在歐洲售出了超過10萬輛電動汽車，以加強其在該地區的地位。現代和起亞表示，2026年上半年歐洲共售出131,032輛電動汽車，比上半年的92,365輛大幅增長41.8%。這兩家公司預計，如果目前的銷售速度持續到年底，在歐洲電動汽車年銷量將自2014年進入歐洲電動汽車市場以來首次超過20萬輛。截至今年5月份，他們在歐洲的電動汽車累計銷量突破了100萬輛大關。"
+    },
+    {
+      "id": "mkt:019fc075-effa-7aab-8f44-d8a26c65f2bb",
+      "time": "2026-08-02 11:13:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "005380.KS",
+        "Impact bullish",
+        "000270.KS"
+      ],
+      "text": "【Hyundai, Kia sell 131,032 EVs in Europe in 1H; combined sales top 100,000】Hyundai Motor and Kia sold 131,032 electric vehicles in Europe in 1H 2026, a 41.8% increase from 92,365 in the prior 1H. The companies said if the current sales pace holds to year-end, combined European EV sales would exceed 200,000 for the first time since they entered the market in 2014. Combined cumulative EV deliveries in Europe surpassed 1 million as of May."
+    },
+    {
+      "id": "5020660",
+      "time": "2026-08-02 11:07:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年全國二手房交易佔比超新房 房地產市場進入存量時代】今年上半年，全國二手房交易佔比超過新房，達到50.4%，傳統以新房銷售為主的增量交易格局正加快向新房和二手房並舉轉變，房地產市場進入存量時代。在中央經濟工作會議“控增量、去庫存、優供給”的要求下，多個城市也在透過多種方式盤活存量房源，推動既有住房資源的最佳化配置，啟用存量住房價值。在山東省青島市城陽區，和岑正在張羅自家的新房裝修。今年2月，和岑一家購買了保障性住房專案，選購了一套110平方米、三室兩廳的房源。這個保障性住房專案是由當地一家開發企業持有的存量房源轉化而來。去年，青島一家國有平臺企業從原開發商手中收購這一專案，將其轉化為配售型保障房，再配售給符合保障性住房申購條件的家庭。透過“以需定購”這一模式，目前已完成配售的兩批、173套存量轉化的房源，上市當日全部售罄。（央視財經）"
+    },
+    {
+      "id": "5020659",
+      "time": "2026-08-02 11:02:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防災減災救災委員會對甘肅渭源縣重大山洪災害調查評估掛牌督辦】2026年7月26日，甘肅省定西市渭源縣會川鎮羅家磨村雙石門溝區域突發短時強降雨，引發山洪災害，目前已造成25人死亡、23人受傷。根據《自然災害調查評估暫行辦法》有關規定，國家防災減災救災委員會對該起災害調查評估實施掛牌督辦，要求甘肅省人民政府依照有關法律法規及規章規定，及時組織開展災害調查評估，推動提高防災減災救災能力，切實維護人民群眾生命財產安全。（央視新聞）"
+    },
+    {
+      "id": "5020658",
+      "time": "2026-08-02 11:01:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【住房公積金繳存覆蓋面擴大 靈活就業人員可自願繳納】為了深化住房公積金制度改革，更好滿足繳存人多元化住房需求，住房城鄉建設部前不久啟動了《住房公積金管理條例》修訂工作，並就《住房公積金管理條例（修訂徵求意見稿）》向社會公開徵求意見。相比舊條例相關規定，徵求意見稿有多方面變化值得關注。徵求意見稿主要體現出三大亮點。首先，繳存覆蓋面擴大了，明確個體工商戶、非全日制從業人員以及其他靈活就業人員，可自願參加住房公積金制度，也就是說包括外賣員、快遞員、網約車司機等，以後也能繳納了。其次，拓寬了使用範圍，明確將自住住房裝修、支付物業費納入可提取住房公積金的情形。也就是說，從“購房”“租房”拓展到“修房”“養房”，讓資金用途更豐富。此外，明確要強化公積金數字化能力建設，強化跨地區、跨部門、跨層級的業務協同，推動住房公積金互認互貸。專家表示，此次修改的核心導向，在於更好滿足居民特別是新市民、青年人等群體的多樣化租房消費需求，強化住房公積金在擴大內需、促進住房消費方面的支撐作用。（央視新聞）"
+    },
+    {
+      "id": "5020657",
+      "time": "2026-08-02 10:58:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德國製造業“降溫” 奧地利企業承壓】\n奧地利經濟研究所日前釋出最新評估報告指出，今年以來，海外需求持續走弱尤其是德國內需低迷，成為拖累奧地利工業出口的重要因素。德國車企與機械製造企業大規模降本裁員帶來的產業下行壓力正向奧地利傳導，使高度依賴德國市場的奧地利製造業面臨外部需求持續萎縮的風險。\n奧地利經濟研究所報告顯示，2026年第二季度，奧地利實際國內生產總值環比零增長，工業增加值下降0.1%。裕信（奧地利）銀行最新調查顯示，7月，奧地利製造業出口訂單指數跌至一年來低位，顯示外部市場需求持續走弱。\n奧地利與德國產業融合緊密，機械加工、金屬製品、汽車配套等優勢產業對德出口依存度尤其顯著。奧地利經濟研究所跟蹤資料顯示，奧地利近三分之一的工業製成品出口流向德國市場，德國工業景氣波動直接影響奧地利製造業訂單冷暖。\n奧地利製造業工會和奧地利私營部門僱員工會的產業監測資料顯示，奧地利約有900家汽車配套企業、合計19萬從業人員深度嵌入德系車企供應鏈。德國《工業雜誌》月刊調研測算，共有135家奧地利企業直接向大眾德國工廠供貨，相關業務間接帶動奧地利境內超6300個穩定就業崗位。隨著越來越多德企壓縮資本開支、削減外包採購，奧地利不少主營燃油車零部件的中小型配套廠商的新訂單逐步減少。\n能源成本高企、製造業向外轉移、全球市場競爭加劇與電動化轉型鉅額投入等因素疊加，促使德國工業企業加大降成本力度，而汽車行業成為受裁員衝擊最嚴重的工業部門。今年3月，大眾集團宣佈計劃到2030年在德國削減約5萬個崗位。德國媒體近日報道，為降低成本，寶馬集團計劃於2027年底前在全球裁減約8000個工作崗位。此外，博世、採埃孚等德國主要零部件供應企業正持續關停本土產線。據安永會計師事務所5月釋出的行業統計，截至2026年第一季度，德國工業就業崗位同比減少12.73萬個，自2019年以來累計流失超過34萬個崗位。\n奧地利工業龍頭企業率先感受到市場寒意。安德里茨集團7月初宣佈，其旗下德國子公司舒勒將繼續裁員約500人。該公司表示，汽車成型和電池生產裝置需求疲軟是本輪重組的主要誘因。這折射出當前歐洲汽車產業固定資產投資整體降溫。\n業內分析人士認為，外部產業收縮對奧地利的短期衝擊集中在傳統燃油車上下游產業鏈，中長期來看，壓力或將傳導至高階機械、金屬加工等奧地利優勢領域。\n（新華社）"
+    },
+    {
+      "id": "5020656",
+      "time": "2026-08-02 10:57:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美伊協議草案未觸及“終結核威脅”，海峽細節仍模糊】針對特朗普有關已就協議框架達成一致、同意取消打擊伊朗的帖文，根據該報及其他媒體的報道，沒有任何跡象表明目前正在討論的任何提議等同於“終結伊朗的核威脅”。有關霍爾木茲海峽的細節也仍然極為有限。訊息人士僅表明，這涉及與阿曼某種潛在協議的可能性。"
+    },
+    {
+      "id": "mkt:019fc067-85f7-7aab-8f44-d1d6b91eb1f5",
+      "time": "2026-08-02 10:57:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CNN: Draft US-Iran accord not equivalent to \"ending nuclear threat\"; Hormuz details unclear】After Trump tweeted that a framework had been agreed and that he had agreed to call off strikes on Iran, CNN and other outlets report there is no indication any proposal under discussion would amount to \"ending Iran's nuclear threat.\" Details on the Strait of Hormuz remain scarce; sources say talks may involve a potential arrangement with Oman."
+    },
+    {
+      "id": "5020655",
+      "time": "2026-08-02 10:56:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍將領被爆料私下寫信警告五角大樓：稱若不增派驅逐艦，將優先保衛美國本土而非以色列】據美國《華盛頓郵報》等媒體當地時間8月1日援引訊息人士的話報道，北約歐洲盟軍最高司令兼美軍歐洲司令部司令亞力克蘇斯·格林克維奇已私下向五角大樓遞交書面警告，稱若無法再增派一艘海軍驅逐艦，他將被迫選擇優先保衛美國本土，而非以色列。（環球網）"
+    },
+    {
+      "id": "5020654",
+      "time": "2026-08-02 10:51:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家廣播電視臺稱，特朗普的決定表明華盛頓被迫重新考量相關計劃，做出這一調整是受到伊朗及其他地區國家施壓的結果。"
+    },
+    {
+      "id": "mkt:019fc061-b61d-7aab-8f44-cc322e7a0926",
+      "time": "2026-08-02 10:50:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ganhe (Nenjiang tributary) records 2026 No.1 flood】Rainfall pushed the water level at Gagedaqi hydrological station (Daxing'anling area, Heilongjiang) to the warning level of 371.68 meters at 09:00 on Aug 2. Under principal river flood-numbering rules the event is designated Ganhe 2026 No.1 flood, according to China’s Ministry of Water Resources."
+    },
+    {
+      "id": "5020653",
+      "time": "2026-08-02 10:50:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤跌破86美元，日內跌超5%。"
+    },
+    {
+      "id": "mkt:019fc060-633c-7aab-8f44-c381b3018db8",
+      "time": "2026-08-02 10:49:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korean retail investors say best rule for KOSPI is 'don't invest'】South Korea's retail investors, long known for risk-taking, were hit by a sharp July reversal: the KOSPI plunged 22% for its largest monthly drop since the global financial crisis, and despite an 18% rebound on Friday retail investors registered record net sales of KOSPI constituents. Under South Korea's Lee's market reforms and encouragement of single-stock leveraged ETF listings, retail poured roughly 78 trillion won (about $54.2bn) into KOSPI stocks in May–June, leaving many heavily exposed to July volatility. Social media shows widespread retail frustration directed at the government; some individual investors say they will stop investing in Korean equities."
+    },
+    {
+      "id": "5020652",
+      "time": "2026-08-02 10:47:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤跌破86美元，日內跌超4.6%。"
+    },
+    {
+      "id": "5020651",
+      "time": "2026-08-02 10:47:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【太空種糧技術升級！首次在軌連續培養兩代水稻實驗進展順利】進駐中國空間站兩個多月以來，神舟二十三號乘組的三名航天員朱楊柱、張志遠、黎家盈狀態良好，多項空間科學實（試）驗有序推進，首次開展的“空間水稻多代遺傳穩定性與環境適應性調控的分子機理研究”實驗，完成了第一批水稻實驗樣品採集及儲存工作。（央視新聞）"
+    },
+    {
+      "id": "5020650",
+      "time": "2026-08-02 10:46:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【嫩江支流甘河發生2026年第1號洪水】受降雨影響，黑龍江省嫩江支流甘河加格達奇水文站（黑龍江省大興安嶺地區）8月2日9時水位漲至警戒水位（371.68米），依據主要江河洪水編號規定，此次洪水編號為“甘河2026年第1號洪水”。（中國水利）"
+    },
+    {
+      "id": "5020649",
+      "time": "2026-08-02 10:43:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "加密貨幣交易平臺交易的原油永續合約目前下跌5%。"
+    },
+    {
+      "id": "mkt:019fc056-6793-7aab-8f44-bd5f60dc71a4",
+      "time": "2026-08-02 10:38:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rain warning prompts temporary suspension of some Beijing suburban rail services】China Railway Beijing Group said on Aug 2 that, due to a rainfall warning, select trains on Beijing suburban lines were temporarily suspended: Huairou–Miyun line — S503, S504, S513, S514, S517, S518, S523; S2 line — S205, S206, S287, S288."
+    },
+    {
+      "id": "5020648",
+      "time": "2026-08-02 10:34:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【因降雨預警 北京市郊鐵路部分列車臨時停運】記者從國鐵北京局瞭解到，因降雨預警，今天（8月2日）北京市郊鐵路懷密線、S2線部分列車臨時停運。具體車次為：懷柔-密雲線S503次、S504次、S513次、S514次、S517次、S518次、S523次臨時停運。S2線S205次、S206次、S287次、S288次臨時停運。（央視新聞）"
+    },
+    {
+      "id": "5020647",
+      "time": "2026-08-02 10:30:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中央氣象臺8月2日10時繼續釋出暴雨橙色預警】中央氣象臺8月2日10時繼續釋出暴雨橙色預警：預計，8月2日14時至3日14時，內蒙古中東部、吉林東部、陝西東部和南部、山西西部和北部、河北西北部、北京西部和北部、四川東部和南部、重慶大部、貴州西部和北部、雲南北部和西部、廣西南部沿海、廣東中南部、海南島北部和西南部等地部分地區有大到暴雨，其中，陝西南部、四川東部、重慶中部、貴州西部和北部、廣西南部沿海、廣東南部沿海等地部分地區有大暴雨，四川盆地東北部、廣東東南部沿海等地局地特大暴雨（250～330毫米）。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風或冰雹等強對流天氣。"
+    },
+    {
+      "id": "5020646",
+      "time": "2026-08-02 10:25:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱同意取消對伊朗的打擊】當地時間8月1日，美國總統特朗普在社交媒體發文稱同意取消對伊朗的打擊。特朗普稱：“伊朗和其他中東國家剛剛要求我們暫緩任何攻擊，因為雙方已就協議的框架達成一致。這將包括霍爾木茲海峽的立即、完全和徹底開放，以及結束伊朗的核威脅。”特朗普表示，基於這一要求，“我同意取消攻擊，但前提是能夠迅速達成協議。以色列也與我共同致力於此。”（央視新聞）"
+    },
+    {
+      "id": "mkt:019fc045-c614-7aab-8f44-b4653ff2125b",
+      "time": "2026-08-02 10:20:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Indonesia's Energy Ministry set benchmark coal prices for the first half of August at $93.27/tonne for 5,300 kcal/kg coal and $65.48/tonne for 4,100 kcal/kg coal."
+    },
+    {
+      "id": "5020645",
+      "time": "2026-08-02 10:20:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞能源部設定，8月上半月熱值為4100千卡的印尼動力煤參考價為每噸65.48美元。"
+    },
+    {
+      "id": "5020644",
+      "time": "2026-08-02 10:20:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼能源部：8月上半月，印尼將發熱量5300大卡等級煤炭的基準價格定為每噸93.27美元。"
+    },
     {
       "id": "5020643",
       "time": "2026-08-02 10:10:36",
@@ -165712,479 +166073,6 @@
         "國際"
       ],
       "text": "【IIHS研究：Waymo自動駕駛計程車事故率比人類駕駛員低68%】根據美國公路安全保險協會（IIHS）最新發布的一項研究，Waymo 的自動駕駛計程車發生事故的機率比普通人類駕駛員低 68%，而且即便發生事故，整體嚴重程度也更低。不過，這項結論仍存在不少限制因素，需要謹慎解讀。"
-    },
-    {
-      "id": "mkt:019f9c97-6f09-7aab-8e98-84bd3c53a4c0",
-      "time": "2026-07-26 12:03:17",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "【South Korean retail rush to buy Samsung and SK Hynix single-stock leveraged ETFs ahead of regulatory tightening】Korea Exchange and Koscom Check data show retail investors aggressively bought 14 single-stock leveraged ETFs on July 24, with net inflows of about KRW 450 bln. Retail had been net sellers of these products over July 21–23, with cumulative net outflows of KRW 547.17 bln. The July 24 reversal comprised net purchases of seven Samsung Electronics single-stock leveraged products totaling KRW 103.90 bln and seven SK Hynix products totaling KRW 350.03 bln. The buying occurred on a day when the KOSPI fell over 5%, Samsung and SK Hynix fell about 7–8%, and the related single-stock leveraged ETFs dropped roughly 15–16%. Market commentary notes the sharp ETF price declines likely drew dip buyers, and that higher minimum margin requirements taking effect on July 31 may have prompted some retail investors to increase positions ahead of tighter rules."
-    },
-    {
-      "id": "5008326",
-      "time": "2026-07-26 12:00:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東水文釋出榕江下社段洪水紅色預警】廣東水利官微訊息，7月26日10時，榕江下社站（廣東省汕尾市陸河縣水唇鎮下社村）水位78.64米，超警戒0.14米（警戒水位78.50米，左岸高程81.81米，右岸高程80.07米）。根據當前雨水情預測，該站將於7月26日12時左右出現79.50米水位，超警戒1.00米。廣東省水文局已於7月26日10時釋出榕江下社段洪水紅的預警，請沿河各有關部門做好防禦準備。"
-    },
-    {
-      "id": "5008325",
-      "time": "2026-07-26 11:59:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西橫州兩個水庫塌了系謠言】記者從廣西橫州市應急管理局獲悉，近日有人在微信群釋出“獨竹兩個水庫剛塌了，大水又準備來了，大家儘快上高處”訊息，經核實，橫州市雲表鎮甲儉村委獨竹村白墳山塘堤壩出現滲漏問題，相關部門在堤壩位置開挖專用排水通道，獨竹水庫6個排水口全開，全力放水，不存在“獨竹兩個水庫塌了”的情況。 橫州市應急管理局透露，近日，一張微信群聊天截圖在短影片平臺流傳，圖中顯示有人在微信群裡釋出“獨竹兩個水庫剛塌了，大水又準備來了，大家儘快上高處”。 橫州市應急管理局表示，經核實，7月21日11時20分，橫州市雲表鎮在開展水庫安全巡查工作中，發現甲儉村委獨竹村白墳山塘堤壩出現滲漏問題。為快速遏制險情、消除安全隱患，應急、水利等有關部門立即組織搶險隊在堤壩位置開挖專用排水通道，加快洩洪減輕堤壩壓力。截至7月21日19時45分，白墳山塘水位已下降約1米，目前山塘執行基本平穩。此外，為提前騰出庫容迎接白墳山塘洩洪，白墳山塘下游獨竹水庫6個排水口全開，全力放水。不存在“獨竹兩個水庫塌了”的情況。（南方+）"
-    },
-    {
-      "id": "5008324",
-      "time": "2026-07-26 11:57:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "印孚瑟斯遭法國勞工監管機構罰款17.5萬歐元，處罰事由為工時記錄系統違規。"
-    },
-    {
-      "id": "5008323",
-      "time": "2026-07-26 11:56:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東潮州啟動防汛Ⅳ級應急響應 汕頭南澳大橋解除封橋管控】7月26日，記者從潮州市三防指揮部瞭解到，據潮州市氣象部門預測，受颱風“紅霞”環流影響，26日—27日潮州有暴雨，區域性大暴雨的降水過程。依照《潮州市防汛防旱防風防凍應急預案》，潮州市三防指揮部決定於7月26日10時30分啟動防汛Ⅳ級應急響應。此外，記者從汕頭市南澳大橋建設管理中心瞭解到，根據橋區天氣情況，南澳大橋於7月26日11時30分起解除封橋管控，全面恢復正常通車。過往車輛請小心行駛，以策安全。（央視新聞）"
-    },
-    {
-      "id": "5008322",
-      "time": "2026-07-26 11:55:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陳敏爾張工與中信集團中國海油招商局集團負責同志座談】7月23日，天津市委書記陳敏爾，市委副書記、市長張工與中國中信集團有限公司黨委書記、董事長奚國華和黨委副書記、總經理張文武，中國海洋石油集團有限公司黨組書記、董事長張傳江和黨組副書記、總經理黃永章，招商局集團有限公司黨委書記、董事長繆建民舉行座談。"
-    },
-    {
-      "id": "mkt:019f9c90-1563-7aab-8e98-797f1899508e",
-      "time": "2026-07-26 11:55:16",
-      "tags": [
-        "MKT News",
-        "000660.KS",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "【SK Hynix Q2 profit may set record; South Korea's two memory giants could post combined Q2 operating profit above 150 tln won】SK Hynix will report Q2 results on July 29. A Yonhap Infomax compilation of 14 broker reports expects Q2 revenue of 84.06 tln won and operating profit of 64.09 tln won. The Q2 operating profit forecast is about 17 tln won higher than last year’s full-year operating profit of 47.2 tln won. With Q1 operating profit of 37.61 tln won, SK Hynix’s H1 operating profit would exceed 100 tln won. Samsung Electronics earlier issued a preliminary report showing its Device Solutions division posted operating profit of 89.4 tln won; if SK Hynix meets consensus, the two companies’ combined Q2 operating profit would top 150 tln won."
-    },
-    {
-      "id": "5008321",
-      "time": "2026-07-26 11:55:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【甘肅省水利廳針對平涼等6市啟動洪水防禦Ⅳ級應急響應】據水文預測：甘肅省涇河、渭河、嘉陵江及部分支流發生超警洪水可能性較大。7月26日10時，省水利廳、省氣象局聯合釋出山洪災害氣象風險橙色預警：預計，7月26日10時-7月27日10時，天水市（張家川縣），平涼市（崆峒區、涇川縣、靈臺縣、崇信縣、華亭市、莊浪縣、靜寧縣），慶陽市（西峰區、慶城縣、環縣、鎮原縣）等地區發生山洪災害可能性大（橙色預警）；隴南市（武都區、文縣、康縣、徽縣、兩當縣），天水市（秦州區、麥積區、清水縣、秦安縣、張家川縣），白銀市（會寧縣），慶陽市（西峰區、慶城、環縣、華池縣、合水縣、正寧縣、寧縣），定西市（通渭縣）等地區發生山洪災害可能性較大（黃色預警）。省水利廳決定自7月26日10時30分起，針對平涼、慶陽、白銀、天水、隴南、定西等6市啟動洪水防禦Ⅳ級應急響應。"
-    },
-    {
-      "id": "5008320",
-      "time": "2026-07-26 11:54:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“劇”缺人！招聘需求暴漲179% 有崗位月薪2萬元】AI影視的爆發式增長，讓行業人才需求發生了結構性轉變，AI剪輯師、抽卡師等崗位缺口持續擴大。今年6月，AI剪輯師招聘需求同比暴漲179%，同時帶動傳統剪輯師崗位增長7%。AI不僅讓“一人劇組”成為可能，還改變了傳統的影視製作流程和協作模式。過去拍片需要團隊聚集在同一攝影棚、機房，如今大量鏡頭由AI生成，創作者們組成“雲創作”團隊，遠端即可高效協作。業內資料顯示，AI讓影視製作週期從之前的“按月、按年計算”壓縮到“按天計算”，部分單集短劇製作僅需數小時，特效、預演等環節效率普遍提升3至10倍。AI影視相關崗位月薪區間，根據個人能力而定，普遍在8000元至20000元。（央視新聞）"
-    },
-    {
-      "id": "5008319",
-      "time": "2026-07-26 11:52:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【甘肅釋出地質災害氣象風險紅色預警】甘肅省自然資源廳、甘肅省氣象局26日10時30分發布地質災害氣象風險預警。預計未來24小時內（7月26日10時30分至7月27日10時30分）：慶陽市（西峰區、慶城縣、鎮原縣），平涼市（崆峒區、涇川縣、崇信縣、華亭市）發生崩塌、滑坡、泥石流等地質災害的風險很高（紅色預警）。慶陽市（環縣、華池縣、合水縣、正寧縣、寧縣），定西市（通渭縣），天水市（麥積區、清水縣、秦安縣、張家川回族自治縣），平涼市（靈臺縣、莊浪縣、靜寧縣）發生崩塌、滑坡、泥石流等地質災害的風險高（橙色預警）。甘南藏族自治州（舟曲縣），隴南市（武都區、成縣、文縣、宕昌縣、康縣、西和縣、禮縣、徽縣、兩當縣），定西市（岷縣），天水市（秦州區、甘谷縣、武山縣），白銀市（會寧縣）發生崩塌、滑坡、泥石流等地質災害的風險較高（黃色預警），請注意防範。"
-    },
-    {
-      "id": "5008318",
-      "time": "2026-07-26 11:50:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普再次呼籲透過《拯救美國法案》。"
-    },
-    {
-      "id": "mkt:019f9c8b-2a26-7aab-8e98-744a2cf3da05",
-      "time": "2026-07-26 11:49:53",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact mixed",
-        "S&P500",
-        "DXY"
-      ],
-      "text": "Trump urged all Republican senators to end procedural obstruction, saying Democrats would do the same if given the chance, and to immediately pass the Save America Act and other measures, including the budget and the upcoming debt ceiling."
-    },
-    {
-      "id": "5008317",
-      "time": "2026-07-26 11:45:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 當年我贏得總統大選的關鍵戰役中，他便與我並肩作戰。 我全力、無條件背書亞歷山大・科洛丁。他絕不會讓大家失望！"
-    },
-    {
-      "id": "5008316",
-      "time": "2026-07-26 11:43:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：公開支援亞歷山大・科洛丁競選亞利桑那州州務卿。"
-    },
-    {
-      "id": "mkt:019f9c81-f7f9-7aab-8e98-6b1211daa486",
-      "time": "2026-07-26 11:39:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA"
-      ],
-      "text": "【Jensen Huang says China is destined to produce world-class AI technology】In a July 25 interview with foreign media, Nvidia CEO Jensen Huang discussed US-China AI competition, saying exceptional talent will find strong solutions and that China is destined to produce world-class AI technology; the industry should continue to learn from and cooperate with Chinese talent."
-    },
-    {
-      "id": "5008315",
-      "time": "2026-07-26 11:39:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國出現人工智慧失控事故，更多內幕曝光】7月25日，路透社援引知情人士訊息刊發獨家報道稱，OpenAI一款AI Agent在入侵人工智慧平臺Hugging Face後，連續數天實施攻擊，而OpenAI直到事件得到控制、Hugging Face已向美國聯邦調查局（FBI）報案後，才確認此次入侵是由自家AI Agent造成的。這一事件再次引發外界對美國科技企業AI安全機制的質疑。報道稱，這款AI Agent具備較強自主決策和執行復雜任務的能力，幾乎無需人工干預。兩名知情人士表示，該AI Agent約於7月9日開始嘗試突破OpenAI內部用於測試的隔離環境。Hugging Face聯合創始人托馬斯·沃爾夫表示，該公司的系統於7月11日遭到入侵，攻擊持續至7月13日。Hugging Face是人工智慧模型和工具的重要託管平臺。（環球網）"
-    },
-    {
-      "id": "5008314",
-      "time": "2026-07-26 11:38:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【越南籍船舶南沙海域遇險，截至目前已有 44人獲救】據海南省三沙市訊息，越南籍船舶“KHOI NGUYEN 18”7月25日在南沙永暑礁附近海域遇險沉沒，截至目前，已有44人獲救，中方出動6艘船舶、1架救助直升機，1艘越南船舶在現場開展搜救。（環球時報）"
-    },
-    {
-      "id": "5008313",
-      "time": "2026-07-26 11:37:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【ETF熱潮席捲韓國市場，個人投資者淨買入規模逼近70萬億韓元】根據韓國交易所（KRX）和金融資料公司Yonhap Infomax於26日公佈的資料，截至24日，今年韓國個人投資者ETF淨買入金額達到69.5萬億韓元，逼近70萬億韓元。同期，個人投資者在主機板市場的淨買入規模為109.9萬億韓元，佔主機板市場個人淨買入總額的63.2%。換句話說，散戶投資者在主機板投資1000萬韓元，其中就有630萬韓元用於購買ETF。"
-    },
-    {
-      "id": "5008312",
-      "time": "2026-07-26 11:37:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【音樂作品被白宮用於宣傳打擊伊朗行動，美國歌手“水果姐”抨擊：深感震驚和憤怒】據美國《國會山報》《華盛頓郵報》等多家媒體報道，美國流行歌手“水果姐”凱蒂·佩裡當地時間25日在社交平臺X上發帖，抨擊美國白宮日前在一段宣傳打擊伊朗目標的影片中，未經授權使用她的音樂作品做背景音樂。佩裡發聲稱，自己對此“深感震驚和憤怒”。（環球網）"
-    },
-    {
-      "id": "mkt:019f9c7f-58e7-7aab-8e98-6738e742a9ce",
-      "time": "2026-07-26 11:36:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea retail ETF buying nears 69.5 tln won; ETFs ~70% of retail main-board flows】Data from the Korea Exchange and Yonhap Infomax published on the 26th showed that as of the 24th retail investors’ net purchases of ETFs this year reached 69.5 tln won, approaching 70 tln won. That amount is roughly 70% of retail buying on the main board. Retail net purchases on the main board totaled 109.9 tln won, with ETFs accounting for 63.2% of those retail main-board flows (about 630,000 won of every 1,000,000 won). ETF inflows have continued to rise despite a pullback in Korean equities this month."
-    },
-    {
-      "id": "5008311",
-      "time": "2026-07-26 11:35:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風“紅霞”減弱 預計明天凌晨離開廣東進入湖南】今年第12號颱風“紅霞”今天上午由颱風級減弱為強熱帶風暴級，上午10點鐘其中心位於廣東惠州市惠城區境內，就是北緯23.1度、東經114.3度，外圍最大風力有10級（25米/秒），中心最低氣壓為985百帕。預計，“紅霞”將以每小時10-15公里的速度向北偏西方向移動，穿過廣東中部，明天（27日）凌晨進入湖南南部，強度逐漸減弱。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f9c7a-8dd2-7aab-8e98-590441b3fb12",
-      "time": "2026-07-26 11:31:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Guangdong lowers wind emergency response to Level II】Typhoon Hongxia, the year’s 12th, made landfall at about 03:50 on July 26 near Pinghai town, Huidong county, Huizhou, as a strong typhoon (45 m/s, force 14). Its intensity weakened and by 10:00 the center was in Huicheng district, Huizhou, with maximum winds near the center of 25 m/s (force 10, severe tropical storm). Citing the provincial flood/drought/wind/freeze emergency plan and relevant provisions, Guangdong’s provincial flood-control command at 11:00 on July 26 adjusted the wind emergency response from Level I to Level II."
-    },
-    {
-      "id": "5008310",
-      "time": "2026-07-26 11:30:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東將防風應急響應調整為二級】今年第12號颱風“紅霞”於7月26日3時50分前後以強颱風級（45米/秒，14級）在惠州市惠東縣平海鎮沿海登陸，強度逐漸減弱，10時其中心位於惠州市惠城區境內，中心附近最大風力10級（25米/秒，強熱帶風暴級）。根據《廣東省防汛防旱防風防凍應急預案》和省防總有關規定，廣東省防汛防旱防風總指揮部決定於7月26日11時將防風一級應急響應調整為防風二級應急響應。（央視新聞）"
-    },
-    {
-      "id": "5008309",
-      "time": "2026-07-26 11:30:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【我國紅樹林面積大漲44%】今天（26日）是世界紅樹林日，紅樹林是生長在熱帶、亞熱帶海岸潮間帶的木本植物群落，既可防風消浪，又能淨化海水，還能為魚蝦鳥類提供棲息之所。最新統計資料顯示，全國累計營造和修復紅樹林33.8萬畝，其中，新營造紅樹林17.4萬畝，超額完成13.6萬畝的目標任務。2025年度全國國土變更調查結果顯示，我國紅樹林地面積已增至47.5萬畝，比本世紀初增長了約44%。在資源量穩步增長的同時，紅樹林生態系統質量、穩定性和碳匯能力也得到明顯提升。當前紅樹林保護格局基本形成，超過90%的紅樹林納入生態保護紅線，已建立涉及紅樹林的自然保護地82處，自然保護地內紅樹林面積佔60%。（央視財經）"
-    },
-    {
-      "id": "5008308",
-      "time": "2026-07-26 11:29:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "【韓元實際有效匯率跌至2009年以來最低值】週日公佈的資料顯示，受美元整體持續走強影響，6月韓元實際有效匯率跌至17年多以來新低。 國際清算銀行（BIS）資料顯示，6月韓元實際有效匯率（REER）報82.99，較上月下降1.75個基點。 該數值創下2009年3月以來最低紀錄，2009年3月全球金融危機過後，韓元實際有效匯率曾觸及79.31。"
-    },
-    {
-      "id": "5008307",
-      "time": "2026-07-26 11:28:30",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【雲南省加快推動製造業數字化轉型】雲南省工業和資訊化廳等10部門近日聯合出臺《雲南省“人工智慧+製造”專項行動方案》。雲南省將以“人工智慧+製造”為重要方向，立足全省工業實際，找準優勢、賽道和發力點，推動人工智慧技術深度應用，力爭打造5個以上特色垂類大模型、50個以上輕量化小模型，推廣50個以上典型應用場景，建設3個人工智慧創新中心和2個工業資料標註基地。 “十五五”期間，雲南省將“點線面”協同發力，推動製造業數字化轉型。“點”上，以專案為牽引、以場景為突破，圍繞有色金屬、稀貴金屬、綠色化工、生物醫藥、電子資訊製造業、先進裝備製造等重點產業，組織實施一批數智化轉型重點專案，建設一批數字化轉型標杆企業、智慧工廠，推廣一批輕量化小模型和可複製解決方案。“線”上，以平臺為支撐、以鏈式改造為抓手，協同推進大中小企業整體鏈式轉型。一體化推進製造業數字化轉型促進中心、行業工業網際網路平臺等相關平臺建設。擴大場景應用，強化產業協同賦能，推動單個企業“點上突破”向整條產業鏈“鏈上提升”轉變。“面”上，以公共服務為基礎、以普惠賦能為導向，打造省級數智化轉型公共服務平臺、人工智慧創新中心等，整合資料鏈、創新鏈、產業鏈和供應鏈，提供評估診斷、“小快輕準”數字化轉型產品、精準數字化轉型解決方案等一站式服務，推動數智化轉型向全省製造業的面上覆蓋。（雲南日報）"
-    },
-    {
-      "id": "5008306",
-      "time": "2026-07-26 11:23:56",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【星艦第13次試飛完美收官：兩級回收成功，首次送入有效載荷】星艦第 13 次試飛交出了 SpaceX 最期盼的完美答卷：順利點火起飛、兩級火箭全部成功回收，同時首次將真正的有效載荷送入太空。20 號助推器與 40 號飛船於美國中部時間下午 5 點 51 分從星基地發射升空，約一小時後任務全程收官，火箭兩級均圓滿完成預設目標。此次試飛的成功恰逢 SpaceX 急需提振信心的關鍵節點。自 7 月中旬以來，公司股價持續跌破 135 美元的發行價，做空倉位佔流通盤比例已攀升至約三分之一。一次圓滿的試飛雖無法直接改善資產負債表，但本週它解決了 SpaceX 最核心的疑慮：7 月 16 日發射中止問題整改後，相關最佳化方案能否在真實飛行環境下穩定生效。本次重新設計後的首飛，兩級火箭全部驗證了整改方案的可靠性。SpaceX 尚未敲定第 14 次試飛的具體日期，但官方表態希望在下一次任務衝擊入軌級軌道飛行。經過本次週五的圓滿試飛，這一目標的實現機率大幅提升。"
-    },
-    {
-      "id": "5008305",
-      "time": "2026-07-26 11:10:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黃仁勳：傑出的人才總會找到出色的答案 中國註定會產出卓越的AI技術】黃仁勳7月25日在外媒採訪中談及中美AI競爭。他表示，傑出的人才總會找到出色的答案，而中國註定會產出卓越的AI技術，應當繼續向他們學習、與他們合作。 (澎湃新聞)"
-    },
-    {
-      "id": "5008304",
-      "time": "2026-07-26 11:06:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家防減救災委對廣東啟動國家四級救災應急響應】國家防災減災救災委員會啟動國家四級救災應急響應，指導廣東做好“紅霞”颱風災害救助工作。7月26日，國家防災減災救災委員會針對第12號颱風“紅霞”對廣東造成的嚴重影響，啟動國家四級救災應急響應，派出工作組赴災區一線實地檢視災情，指導和協助地方做好災情核查、群眾轉移安置、基本生活保障等災害救助工作。（新華社）"
-    },
-    {
-      "id": "5008303",
-      "time": "2026-07-26 11:05:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國接連對巴西施加關稅壓力 巴西譴責並採取多元化應對措施】7月下旬以來，美國接連對巴西施加關稅壓力。22日，美方在結束針對巴西的301調查後，對部分巴西產品正式加徵25%的關稅；24日，美方又以所謂“未能有效阻止強迫勞動”為由，開始對包括巴西在內的數十個貿易物件加徵10%至12.5%不等的關稅。分析人士指出，美國對巴西實施單邊關稅壓迫，嚴重違背了世貿組織的互惠原則，是典型的貿易保護主義行為。這一舉措也將倒逼巴西加速推進貿易多元化戰略，降低對美國市場的過度依賴。（央視新聞）"
-    },
-    {
-      "id": "5008302",
-      "time": "2026-07-26 11:04:50",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【谷歌、AMD、Cloudflare 等公司加入，簽署支援 AI 開源模型發展公開信組織增至 50 家】英偉達、微軟、IBM、Meta 等 25 家美國科技企業本週聯名簽署一封公開信，呼籲開放權重 AI 模型。公開信指出，儘管開放權重存在難以管控衍生版本等風險，但封閉模型同樣存在安全隱患。開放生態能夠動員廣大研究者排查漏洞、完善安全防護，是實現人工智慧安全的重要路徑。目前，該公開信得到簽署公司 / 組織已經達到 50 家，新加入的企業有谷歌、AMD、Cloudflare、Block 和 Ollama 等，以及此前報道中出現過的 OpenAI、Y Combinator、GitHub、思科等。值得注意的是，亞馬遜和 Anthropic 至今沒有簽署這份宣告，引發外界關注。《福布斯》認為這其中的原因在於商業利益，亞馬遜是 Anthropic 最大投資者。並且 Anthropic 自始至終都只提供閉源 AI 模型服務，該公司還一直堅持“AI 安全”立場。"
-    },
-    {
-      "id": "5008301",
-      "time": "2026-07-26 10:56:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國養老金7月首度淨買入KOSPI成分股 為2026年年內首次】韓國交易所週日披露股市資料，韓國股市最大機構投資者之一——國民年金公團等養老金資金本月轉為韓國綜合股價指數（KOSPI）股票淨買方，系今年以來首次。資料顯示，7月1日至24日，國民年金公團及其他養老金在KOSPI主機板累計淨買入股票684億韓元（摺合4680萬美元）。在此之前，養老金已連續六個月淨賣出股票，本月是年內首月實現淨買入。"
-    },
-    {
-      "id": "5008300",
-      "time": "2026-07-26 10:52:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎巴嫩巴勒斯坦申遺成功引以不滿】正在韓國釜山舉行的聯合國教科文組織第48屆世界遺產大會7月24日透過決議，將位於黎巴嫩南部的博福特城堡等五座城堡和約旦河西岸的塞巴斯蒂亞考古遺址，同時列入《世界遺產名錄》和《瀕危世界遺產名錄》。以色列外交部24日發表宣告，對聯合國教科文組織透過的相關決議表示譴責。以色列外交部長薩爾抨擊將塞巴斯蒂亞列入名錄的行為。對於博福特城堡，以色列則辯稱，真主黨將該城堡用作軍事據點。但黎巴嫩代表在釜山會議上駁斥稱，自2000年以色列撤出黎巴嫩南部後，這些城堡“僅用於文化和旅遊目的”。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f9c55-c232-7aab-8e98-50690593ce2f",
-      "time": "2026-07-26 10:51:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【DRC Ebola cases exceed 3,000】DRC health ministry said in a report on the 25th the current Ebola outbreak has reached 3,075 confirmed cases with 1,354 deaths. As of the 24th, 755 patients are in isolation or hospital and 556 have recovered. The outbreak has affected five provinces: Ituri, North Kivu, South Kivu, Haut-Uele and Tshopo."
-    },
-    {
-      "id": "5008299",
-      "time": "2026-07-26 10:49:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【甘肅釋出山洪災害氣象風險橙色預警】記者獲悉，甘肅省防汛抗旱指揮部辦公室於7月26日10時釋出山洪災害氣象風險橙色預警。甘肅省水利廳、甘肅省氣象局預計，7月26日10時~7月27日10時：天水市（張家川回族自治縣），平涼市（崆峒區、涇川縣、靈臺縣、崇信縣、華亭市、莊浪縣、靜寧縣），慶陽市（西峰區、慶城縣、環縣、鎮原縣）等地區發生山洪災害可能性大（橙色預警），最大累計雨量80-120毫米，局地可達150-200毫米，小時雨強40-70毫米；隴南市（武都區、文縣、康縣、徽縣、兩當縣），天水市（秦州區、麥積區、清水縣、秦安縣、張家川回族自治縣），白銀市（會寧縣），慶陽市（西峰區、慶城、環縣、華池縣、合水縣、正寧縣、寧縣），定西市（通渭縣）等地區發生山洪災害可能性較大（黃色預警）；白銀市（平川區、靖遠縣、會寧縣），天水市（秦州區、麥積區、清水縣、秦安縣、甘谷縣、武山縣），定西市（安定區、隴西縣、通渭縣），隴南市（武都區、成縣、文縣、宕昌縣、西和縣、禮縣、徽縣、康縣），慶陽市（華池縣）、甘南州（舟曲縣）等地區可能發生山洪災害（藍色預警）；其他地區也可能因局地短歷時強降水引發山洪災害，請相關部門注意做好實時監測、防汛預警和提請危險區人員轉移避險等防範工作，社會公眾注意防災避險。（央視新聞）"
-    },
-    {
-      "id": "5008298",
-      "time": "2026-07-26 10:46:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【月之暗面Kimi K3慶功照流出，張予彤疑現身，喊出“衝上月球”口號】據報道，在經歷過去一段時間月之暗面Kimi K3釋出引發的廣泛關注後，月之暗面於本週五在北京的一個酒吧舉行了慶功活動。據流出內容，月之暗面展示的一張慶功標語顯示，月之暗面對於K3的定位是“擴容升級”，同時期望將下一代K4“狠狠幹到極致”，並喊出了“衝上月球”口號。一張流出的圖片顯示，本場活動上，月之暗面聯合創始人、總裁張予彤疑似也到了現場。（新浪科技）"
-    },
-    {
-      "id": "5008297",
-      "time": "2026-07-26 10:44:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【桂北山區添出海新通道 永柳高速正式通車運營】據中國中鐵訊息，7月24日，由中鐵七局投資建設、中鐵交通運營管理的桂林至欽州港公路永福三皇至柳州段（簡稱“永柳高速”）正式通車運營，標誌著桂北山區向海圖強增添了一條新的高速通道。"
-    },
-    {
-      "id": "5008296",
-      "time": "2026-07-26 10:43:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊：英國如繼續支援美軍將成“打擊目標”】針對美軍日前從英國費爾福德基地出動B-1“槍騎兵”戰略轟炸機，伊朗伊斯蘭革命衛隊發言人侯賽因·穆赫比25日表示，若英國繼續為美軍提供支援，它將成為伊朗“明確的合法打擊目標”。穆赫比說，任何在戰爭中為美國提供支援的國家，無論是英國、海灣國家還是其他國家，都將成為伊朗的“合法打擊目標”。（央視新聞）"
-    },
-    {
-      "id": "5008295",
-      "time": "2026-07-26 10:39:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯烏拉爾地區秋明煉油廠遭到無人機襲擊後起火，緊急救援人員正在現場展開工作。秋明煉油廠是俄羅斯最大的私營煉油廠之一。"
-    },
-    {
-      "id": "5008294",
-      "time": "2026-07-26 10:38:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "業界普遍認為，三星電子會長李在鎔與黃仁勳探討了在高效能儲存器及半導體代工領域的合作事宜。"
-    },
-    {
-      "id": "5008293",
-      "time": "2026-07-26 10:34:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，“吉納維芙”已增強為颶風，預計未來約一天內將迅速增強。"
-    },
-    {
-      "id": "5008292",
-      "time": "2026-07-26 10:34:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，福斯托颶風強度維持不變，預計將於週日早些時候移入中太平洋海域。"
-    },
-    {
-      "id": "5008290",
-      "time": "2026-07-26 10:33:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【ChatGPT能輸出高精準致命製毒教程 OpenAI僅封禁提問賬號】去年夏天OpenAI升級旗下聊天大模型效能後，全球數百名使用者向其詢問生物武器與劇毒製劑的製作、投放方法。 在缺乏美國聯邦層面硬性管控的前提下，該模型會詳盡作答，其分步操作指引簡單到高中生物學生就能看懂。知情人士透露，事後生物安全與反恐專家覆盤ChatGPT的相關對話記錄，判定部分回答精準到足以致命。OpenAI表示，絕大多數此類提問都圍繞劇毒藥劑調配。 OpenAI封禁了這批詢問製毒、研發生物武器的使用者賬號，但並未向執法部門上報線索。美國目前沒有聯邦法律強制AI企業限制此類提問、或是上報涉及武器製造、致命襲擊方案的檢索記錄。AI技術能力飛速提升，尤其是能精準設計生物、網路層面惡性攻擊方案，這一現狀令各大AI企業高管與白宮高層深感警惕。全球頭部AI研發機構正陷入兩難：既要防範惡意使用者利用技術製造災難，又不能阻礙合規科研人員的正常研究諮詢需求。"
-    },
-    {
-      "id": "mkt:019f9c44-1dd5-7aab-8e98-4de647dc7f5c",
-      "time": "2026-07-26 10:32:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Vietnamese vessel sinks in South China Sea; 39 rescued, 23 missing】A Vietnamese vessel, KHOINGUYEN18, sank in the South China Sea on the night of July 24 with 62 crew aboard. Survivors on life‑rafts drifted toward Yongshu Reef (Fiery Cross Reef) in the Nansha/Spratly area. The Ministry of Transport rescue ship Nanhai Jiu 115 recovered 36 crew from two life‑raft sightings; Sansha maritime search‑and‑rescue sub‑center reported three more rescued by 10:00 on July 26, bringing the total to 39. Twenty‑three crew remain missing; multi‑party search operations are ongoing."
-    },
-    {
-      "id": "5008289",
-      "time": "2026-07-26 10:31:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【越南籍船舶南海沉沒62人遇險 中方救起39人仍有23人失聯】記者從三沙海上搜救分中心獲悉，一艘越南籍船舶在南海海域遇險沉沒，船上共有62名船員。目前已有39人獲救，仍有23人失聯。據悉，遇險船舶“KHOI NGUYEN18”於7月24日夜間遇險沉沒，遇險人員搭乘救生筏隨洋流漂移至南沙永暑礁附近海域。途經的交通運輸部“南海救115”輪先後發現兩批救生筏，累計救起36名越南籍船員。據三沙海上搜救分中心26日上午10時訊息，又有3名遇險船員獲救。截至發稿，仍有23人失聯，三沙海上搜救分中心正在組織協調多方力量開展搜救工作。（央視新聞）"
-    },
-    {
-      "id": "5008287",
-      "time": "2026-07-26 10:29:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【鋰電池核心新增劑價格1月漲超4成】電解液新增劑碳酸亞乙烯酯（VC）又漲價了。百川盈孚資料顯示，7月24日VC均價為20萬元/噸，近一個多月漲幅超40%；其中7月23日單日跳漲2萬元/噸，時隔4年多再破20萬元/噸關口。碳酸亞乙烯酯是鋰電池電解液中的核心新增劑，能夠在鋰電池初次充放電中在負極表面發生電化學反應形成固體電解質介面膜（SEI膜）。"
-    },
-    {
-      "id": "5008286",
-      "time": "2026-07-26 10:26:28",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【交流會紀要外洩影響DeepSeek融資？內部人士：不可信】近日，疑似DeepSeek投資者交流會的紀要在市面上流出，引發廣泛關注。有市場訊息稱，這場本應在小範圍封閉場合進行的內部交流，因會議紀要在未經授權的情況下外洩，已影響DeepSeek正在進行的新一輪融資程序，目前梁文鋒已決定暫停新一輪交易的推進，要求團隊重新評估資訊披露流程和投資者溝通機制，原本在加速推進的710億美元估值融資及IPO籌備工作或暫時按下暫停鍵。對於上述訊息，有DeepSeek內部人士在與新浪科技溝通中直言，“不可信，外部訊息多為假的或者臆測”。不過，截至目前DeepSeek官方並未就此事進行任何回應。（新浪科技）"
-    },
-    {
-      "id": "mkt:019f9c3e-cab4-7aab-8e98-464b3d20b83c",
-      "time": "2026-07-26 10:26:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israeli military says it killed three Hamas militants in Gaza】Israeli military says it killed two Hamas commanders and one intelligence officer in Gaza over the past week."
-    },
-    {
-      "id": "5008285",
-      "time": "2026-07-26 10:25:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈薩克總統託卡耶夫敦促俄羅斯總統普京考慮凍結俄烏衝突，並重啟2022年伊斯坦布林和談。"
-    },
-    {
-      "id": "5008284",
-      "time": "2026-07-26 10:24:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中央氣象臺7月26日10時繼續釋出暴雨紅色預警】預計，7月26日14時至27日14時，廣東、福建南部、江西中南部、湖南東部等地部分地區有暴雨到大暴雨，其中，廣東中東部、江西南部、湖南東南部區域性地區有特大暴雨（250~450毫米）；黑龍江南部、吉林西北部、甘肅東部、陝西西部、寧夏南部、四川盆地西部、河南中北部、山東中南部、雲南東南部等地部分地區有大到暴雨，其中，甘肅東部、四川盆地西部、陝西西部等地部分地區有大暴雨（100~200毫米）。上述部分地區伴有短時強降水（最大小時降雨量30～50毫米，局地可超過80毫米），局地有雷暴大風或冰雹等強對流天氣。"
-    },
-    {
-      "id": "5008282",
-      "time": "2026-07-26 10:22:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【公募十年業績首次展示 印證市場長期投資理念】2026年公募基金二季報日前披露完畢。在監管要求下，今年二季報首次向投資者系統展示了基金產品過去7年、10年的長期業績資料。一批穿越週期的基金產品交出10年亮眼成績單，公募基金長期投資理念得到充分印證。此次長期業績的集中披露，源於公募基金資訊披露制度的重大革新。今年3月，中國證監會發布修訂後的《公開募集證券投資基金資訊披露內容與格式準則第2號——定期報告的內容與格式》，自5月1日起實施。隨後，中國證券投資基金業協會(以下簡稱“中基協”)配套披露《證券投資基金資訊披露XBRL模板》，要求基金管理人在年報、半年報、季報中新增產品過去7年、10年中長期業績，不再披露過去1個月的業績。（21財經）"
-    },
-    {
-      "id": "5008281",
-      "time": "2026-07-26 10:22:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基下週到訪華盛頓與特朗普會晤 將出席格雷厄姆葬禮】白宮一名官員於週六證實，烏克蘭總統弗拉基米爾・澤連斯基將於下週二前往白宮，與美國總統唐納德・特朗普舉行會晤。 一名烏克蘭官員透露，澤連斯基下週到訪華盛頓的首要行程，是出席聯邦參議員林賽・格雷厄姆的葬禮。 這名南卡羅來納州共和黨籍參議員生前與澤連斯基私交深厚，兩週前猝逝前數日，格雷厄姆還曾專程訪問烏克蘭。"
-    },
-    {
-      "id": "mkt:019f9c39-e18e-7aab-8e98-3fd56fc48a86",
-      "time": "2026-07-26 10:21:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【UNESCO lists Lebanese castles and West Bank Sebastia as 'in danger'; Israel condemns】At the UNESCO World Heritage Committee's 48th session in Busan, South Korea on July 24, delegates approved a resolution inscribing five castles in southern Lebanon, including Beaufort Castle, and the Sebastia archaeological site in the West Bank on both the UNESCO World Heritage List and the List of World Heritage in Danger. Israel’s foreign ministry condemned the decision; Foreign Minister Sa'ar criticized the Sebastia listing. Israel said Hezbollah has used Beaufort Castle as a military position; Lebanon’s delegate in Busan replied that since Israel withdrew from southern Lebanon in 2000 the sites have been used only for cultural and tourism purposes."
-    },
-    {
-      "id": "mkt:019f9c39-4213-7aab-8e98-30303885f48f",
-      "time": "2026-07-26 10:20:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Ukraine seeks 30-year strategic energy pact with Canada】Ukraine energy minister Denys Shmyhal said Kyiv is seeking to sign a 30-year strategic energy agreement with Canada and has proposed an \"energy security bridge\" focused on Canadian LNG supplies. Shmyhal said he discussed the proposal with Canadian Minister of Energy and Natural Resources Tim Hodgson; he added President Zelenskiy and Prime Minister Carney had reached related understandings. Talks also covered a possible CAD 650 mln (~$461 mln) direct grant from Canada to help Ukraine buy winter gas, part of Ottawa’s broader aid package."
-    },
-    {
-      "id": "5008280",
-      "time": "2026-07-26 10:20:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基下週將赴白宮與特朗普會面 。"
-    },
-    {
-      "id": "5008279",
-      "time": "2026-07-26 10:19:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【李在明：韓美完全有能力共同孵化全球的創新巨頭】正在美國出訪的韓國總統李在明於當地時間25日會見矽谷風投企業，開展招商引資外交。李在明呼籲美方投資韓國本土創投與初創企業，他表示：“若兩國優勢結合，我們將攜手培育出下一代三星、現代、SK、NAVER級別的全球龍頭企業。”當日下午，李在明現身舊金山某酒店舉辦的“矽谷風險投資交流會”。安德森・霍洛維茨、通用催化風投、紅杉資本、科斯拉創投、光速創投、新企業聯合公司這六家全球頭部風投機構均出席本次活動。 他稱：“美國坐擁全球頂尖的風險投資實力與國際商業網路，韓國則具備雄厚技術實力、製造業競爭力與充滿活力的創業生態。兩國優勢互補，完全有能力共同孵化下一代三星、現代、SK、NAVER，乃至引領全球的創新巨頭。”依託本次交流會，韓國國民年金公團與上述六家頭部風投共同簽署戰略合作諒解備忘錄。"
     }
   ]
 }
