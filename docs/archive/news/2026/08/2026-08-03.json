@@ -1,7 +1,82 @@
 {
   "date": "2026-08-03",
-  "count": 101,
+  "count": 109,
   "items": [
+    {
+      "id": "5021037",
+      "time": "2026-08-03 03:32:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "摩洛哥內政部宣告稱，社交媒體虛假資訊與人販子是休達移民潮激增的幕後推手。"
+    },
+    {
+      "id": "5021036",
+      "time": "2026-08-03 03:31:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：08月03日03時29分在四川宜賓市高縣附近（北緯28.57度，東經104.69度）發生3.3級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5021035",
+      "time": "2026-08-03 03:30:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "悉尼早盤交易中，美元兌大多數G10貨幣走低。"
+    },
+    {
+      "id": "5021034",
+      "time": "2026-08-03 03:24:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿斯利康與百時美施貴寶洽談合併事宜】知情人士稱，阿斯利康與百時美施貴寶已展開談判，商討兩家藥企合併為單一實體的交易。談判在近數月進行，交易仍存在破裂風險，報道未披露潛在交易的架構細節。阿斯利康是倫敦證券交易所大型上市企業之一，截至上週五市值1960億英鎊（摺合2640億美元）。百時美施貴寶市值1330億美元，若達成交易，將助力阿斯利康進一步紮根美國市場。"
+    },
+    {
+      "id": "mkt:019fc3ee-1241-7aab-8f48-e7377f0adf09",
+      "time": "2026-08-03 03:23:07",
+      "tags": [
+        "MKT News",
+        "AZN.L",
+        "Impact bullish",
+        "BMY.O"
+      ],
+      "text": "【AstraZeneca in talks with Bristol Myers Squibb on near $400 bln merger】Financial Times: AstraZeneca is exploring a merger with U.S. peer Bristol Myers Squibb that would create one of the world’s largest drugmakers with a combined market value near $400 bln. The companies have held talks in recent months and could reach an agreement soon, but negotiations may also be delayed or collapse. AstraZeneca’s market cap is about £196 bln; Bristol Myers Squibb’s is about $133 bln. The transaction would further accelerate AstraZeneca’s strategic shift toward the U.S. market."
+    },
+    {
+      "id": "5021033",
+      "time": "2026-08-03 03:19:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍空襲加沙致18人死亡】巴勒斯坦加沙地帶民防部門發言人馬哈茂德·巴薩勒2日在一份影片宣告中表示，以軍無人機當天襲擊加沙地帶多地，造成至少18人死亡，其中包括2名婦女和4名兒童。"
+    },
+    {
+      "id": "mkt:019fc3ea-ecc4-7aab-8f48-dd0322314432",
+      "time": "2026-08-03 03:19:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【Israeli airstrikes in Gaza Strip kill 18】Palestinian civil defense spokesman Mahmoud Bassal said in a video statement on the 2nd that Israeli drones and airstrikes struck multiple locations across the Gaza Strip, killing at least 18 people, including two women and four children. Bassal said targets included residential apartments, tents sheltering displaced people, civilian vehicles and gatherings. He said an Israeli drone fired two missiles at a civilian vehicle in Gaza City in the evening, killing four; an airstrike on a tent in west Gaza City killed two, including a 13-year-old, and wounded eight. Earlier, an airstrike on a jeep in central Deir al-Balah killed two, and a strike near Jabalia refugee camp in the north killed one and wounded several."
+    },
+    {
+      "id": "mkt:019fc3e8-8955-7aab-8f48-d4e44462b70a",
+      "time": "2026-08-03 03:17:04",
+      "tags": [
+        "MKT News",
+        "ATKR.O",
+        "Impact bullish",
+        "PRY.MI",
+        "Impact mixed"
+      ],
+      "text": "【Prysmian nearing deal to buy US electrical maker Atkore】People familiar with the matter said Italy's Prysmian is in advanced talks to acquire US electrical-products maker Atkore in an all-cash transaction and is finalizing preparations for a deal that could be announced in coming days. Sources cautioned talks could still be delayed or fall apart. Atkore shares are up about 15% year-to-date, valuing the company at roughly $2.5 billion; Prysmian's shares have risen more than a third this year, valuing the group at about €36.3 billion ($41.8 billion)."
+    },
     {
       "id": "mkt:019fc3e4-ed3f-7aab-8f48-caf722212f6f",
       "time": "2026-08-03 03:13:07",
