@@ -1,7 +1,373 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-03 00:33:04_
-_本檔包含 3527 則快訊，約 669495 字_
+_更新時間：2026-08-03 01:38:43_
+_本檔包含 3554 則快訊，約 670376 字_
+
+---
+
+### 2026-08-03 01:37:57  #MKT News
+
+Israeli officials cast doubt on Iran's uranium stockpile and the Trump administration's commitments on Tehran's conduct, the Israeli Broadcasting Corporation said.
+
+---
+
+### 2026-08-03 01:33:35  #MKT News #WTI #Impact bullish #Brent
+
+Israel's public broadcaster cited officials saying most negotiations are focused on the Strait of Hormuz; progress on other issues is unclear.
+
+---
+
+### 2026-08-03 01:32:47  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+Qatar's foreign ministry said the prime minister and foreign minister, in a call with Egypt's foreign minister, discussed efforts to ease regional tensions and urged all parties to pursue dialogue and safeguard freedom of navigation through the Strait of Hormuz.
+
+---
+
+### 2026-08-03 01:31:58  #國際
+
+以色列官員：目前大部分會談都圍繞霍爾木茲海峽展開，其餘議題的走向尚不明朗。
+
+---
+
+### 2026-08-03 01:31:23  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+Israeli officials said they were frustrated that Trump canceled planned strikes on Iran for the second time in a week, saying the last-minute reversals undermine military planning. Israeli officials now judge Trump is more likely to seek an agreement with Iran than to escalate the conflict.
+
+---
+
+### 2026-08-03 01:30:51  #國際
+
+卡達外交部：首相兼外交部長強調，各方必須堅持對話，並確保霍爾木茲海峽的航行自由。
+
+---
+
+### 2026-08-03 01:29:55  #MKT News
+
+【Brazil's Workers' Party formally confirms Lula as presidential candidate】On the 2nd the Workers' Party formally confirmed incumbent President Luiz Inácio Lula da Silva as its presidential candidate. Lula will run in the election again, seeking a fourth term.
+
+---
+
+### 2026-08-03 01:29:46  #其他
+
+【巴西勞工黨正式確認盧拉為總統候選人】巴西勞工黨2日正式確認現總統盧拉為該黨總統候選人。盧拉將再次參加大選，角逐其第四個總統任期。當天，巴西勞工黨全國代表大會在聖保羅舉行，會議正式批准盧拉與現任副總統熱拉爾多·阿爾克明（社會黨）再次組成競選搭檔。勞工黨主席埃迪尼奧·席爾瓦在會上宣佈，該黨已在高等選舉法院完成相關候選人登記工作。（新華社）
+
+---
+
+### 2026-08-03 01:28:44  #國際
+
+【以色列對特朗普二度取消伊朗打擊行動感到失望】以色列官員感到沮喪，特朗普一週內第二次取消原定針對伊朗的打擊行動。以官員稱這種臨陣變卦擾亂軍事部署。以色列方面目前認為，相較於衝突升級，特朗普更傾向於與伊朗達成協議。
+
+---
+
+### 2026-08-03 01:27:49  #國際
+
+以色列訊息人士：內塔尼亞胡及小內閣成員已從特朗普的帖文中獲悉取消對伊朗的襲擊決定。
+
+---
+
+### 2026-08-03 01:27:34  #國際
+
+卡達外交部：首相兼外交部長與埃及外交部長通電話，商討地區局勢緩和的努力。
+
+---
+
+### 2026-08-03 01:26:51  #國際
+
+以色列官員：伊朗是我們最優先的議題，當華盛頓的立場不明確時，我們便面臨困難。
+
+---
+
+### 2026-08-03 01:25:01  #MKT News
+
+Israel Broadcasting Corporation reported an Israeli official said Trump's handling of affairs makes serious preparation and planning for the future difficult.
+
+---
+
+### 2026-08-03 01:24:19  #國際
+
+市場資訊：一名以色列官員稱，以特朗普處理事務的方式，很難認真地為未來做好準備與規劃。
+
+---
+
+### 2026-08-03 01:17:08  #國際
+
+【伊朗重申霍爾木茲海峽不會恢復至戰前狀態】當地時間2日，伊朗外交部發言人巴加埃表示，伊方重申，霍爾木茲海峽的狀況“不會恢復到衝突爆發前的狀態”。巴加埃說，伊朗將始終根據國家整體利益採取行動，不會因其他國家的威脅或施壓而改變自身決定。他表示，地區鄰國都應認識到，美國方面任何針對伊朗基礎設施的襲擊，其後果都將波及整個地區。
+
+---
+
+### 2026-08-03 01:13:01  #國際
+
+【伊朗外交部：伊阿談判旨在建立霍爾木茲海峽雙邊機制，與海峽通航狀態無關】伊朗外交部發言人巴加埃表示，伊朗與阿曼談判的目標是為霍爾木茲海峽敲定一套雙方認可的協作機制。巴加埃稱：“伊朗和阿曼就新航運通道達成的共識，和霍爾木茲海峽是否保持通航沒有關係。海峽之所以封鎖，是因為美國違背承諾、實施封鎖行動。”巴加埃還補充，伊朗與阿曼的談判屬於雙邊磋商，不牽涉其他任何國家。
+
+---
+
+### 2026-08-03 01:07:35  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran foreign ministry: Strait of Hormuz will not revert to pre-war status】Iran foreign ministry spokesman BAGHAEI said the Strait of Hormuz "will never revert to pre-war status." He said talks with Oman are bilateral and concern mechanisms to protect each side's interests, not the opening or closing of the waterway. BAGHAEI blamed the strait's closure on "US sabotage and an American maritime blockade," and said Iran will act according to national interests and will not be swayed by threats or media pressure.
+
+---
+
+### 2026-08-03 01:07:01  #國際
+
+伊朗總統：將全力以赴實現持久和平、維護國家尊嚴。當下國內高層層面，團結凝聚帶來的積極成效已然凸顯。國家各核心力量同心協力，為伊朗民眾鑄就長久成果。
+
+---
+
+### 2026-08-03 01:06:02  #MKT News
+
+【Venezuela, Dominican Republic agree to gradually restore diplomatic ties】Venezuela and the Dominican Republic said in a joint communique on the 2nd they have agreed to gradually normalize diplomatic and consular relations.
+
+---
+
+### 2026-08-03 01:05:46  #其他
+
+【委內瑞拉與多明尼加決定逐步恢復外交關係】委內瑞拉和多明尼加政府2日發表聯合公報稱，雙方同意逐步實現外交和領事關係正常化。宣告說，第一階段將採取必要措施恢復領事服務，隨後按照雙方商定的時間表，推進外交關係正常化。這一決定旨在加強兩國制度性溝通渠道，維護兩國公民利益，並鞏固兩國曆史友好紐帶。雙方重申，將透過對話，在相互尊重和恪守國際法原則的基礎上推動這一程序。
+
+---
+
+### 2026-08-03 01:02:31  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iran foreign ministry spokesman said discussions with Pakistani and Turkish officials addressed warnings and responses to US threats, and that Iran would retaliate if attacked.
+
+---
+
+### 2026-08-03 00:57:57  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Iran's Foreign Ministry spokesperson said any country that cooperates or conspires with the United States to attack Iran will face Iran's right of self-defence, and states that provide bases or military or logistical facilities to the aggressor will be treated as aggressors.
+
+---
+
+### 2026-08-03 00:56:48  #MKT News
+
+Iran's foreign ministry spokesman said the future management of the Strait of Hormuz will be negotiated between Iran and Oman.
+
+---
+
+### 2026-08-03 00:55:55  #國際
+
+伊朗外交部發言人：如果美國人執意冒險，必將從我們這裡得到應有的回擊。
+
+---
+
+### 2026-08-03 00:55:39  #MKT News
+
+Samir Geagea, leader of the Lebanese Forces, said Lebanon's relations with Gulf states will be restored to their previous state.
+
+---
+
+### 2026-08-03 00:55:24  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Lebanese Forces leader Samir Geagea said the crisis can only end if the Iranian regime collapses or at least changes its behavior and influence.
+
+---
+
+### 2026-08-03 00:55:23  #國際
+
+伊朗外交部發言人：在與阿曼的談判中，我們正尋求一條雙方都能達成共識、並保障伊朗利益的路徑。
+
+---
+
+### 2026-08-03 00:54:01  #國際
+
+伊朗外交部發言人：霍爾木茲海峽未來的管理工作，將由伊朗與阿曼協商推進。
+
+---
+
+### 2026-08-03 00:53:45  #MKT News
+
+Iran's foreign ministry spokesman said it has received calls from the UK, Ukraine and Bulgaria, each telling Tehran they will not participate in the war.
+
+---
+
+### 2026-08-03 00:53:27  #國際
+
+伊朗外交部發言人：已收到來自英國、烏克蘭和保加利亞的來電，他們表示不會成為針對我們的戰爭的一部分。
+
+---
+
+### 2026-08-03 00:53:00  #MKT News #WTI #Impact bearish #Brent
+
+【Araghchi: Iran-Oman talks near completion】On Aug. 2 Iran’s foreign minister Araghchi told a cabinet meeting negotiations with Oman on arrangements to manage safe navigation in the Strait of Hormuz are progressing smoothly, have entered a final stage and are nearing completion. On July 26 Iran’s foreign ministry spokesman Baghaei said talks with Oman on common principles and operational mechanisms for Strait of Hormuz maritime security were productive and had made some progress. Araghchi spoke by phone on July 27 with the foreign ministers of Oman and Saudi Arabia to discuss the Strait and stressed the need to strengthen cooperation.
+
+---
+
+### 2026-08-03 00:52:36  #焦點 #國際
+
+【阿拉格齊：伊朗與阿曼談判接近完成】當地時間8月2日，伊朗外交部長阿拉格齊在政府內閣會議上介紹伊朗與阿曼談判最新進展時表示，雙方談判目前進展順利，已進入最後階段，接近完成。據伊朗方面7月26日訊息，伊朗外交部發言人巴加埃表示，伊朗與阿曼就管理霍爾木茲海峽安全航運的共同原則及操作機制進行討論，會談“富有成效並取得一些進展”。阿拉格齊27日與阿曼以及沙烏地阿拉伯外交大臣分別通話，討論霍爾木茲海峽事宜。根據伊朗外交部發表的宣告，阿拉格齊在通話中強調“加強合作的必要性”。
+
+---
+
+### 2026-08-03 00:51:48  #國際
+
+伊朗外交部發言人：華盛頓不允許霍爾木茲海峽的船舶在預定時間內恢復通航，並在通航期結束前對我們發動了攻擊。
+
+---
+
+### 2026-08-03 00:50:37  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Iranian Foreign Ministry spokesman said the other side knows Iran will respond forcefully to any provocative action against it.
+
+---
+
+### 2026-08-03 00:50:10  #MKT News #WTI #Impact bullish #Brent
+
+Iran's Foreign Ministry spokesman said reopening the Strait of Hormuz is different from negotiations with Oman, because the strait's closure stems from US violations of its commitments.
+
+---
+
+### 2026-08-03 00:49:54  #國際
+
+伊朗外交部發言人：我們致力於維護自身利益與國家安全，這是不可妥協、不受美國威脅影響的。
+
+---
+
+### 2026-08-03 00:49:44  #國際
+
+伊朗外交部發言人：霍爾木茲海峽的開放與我們同阿曼蘇丹國的談判不同，因為其關閉與美國違背承諾有關。
+
+---
+
+### 2026-08-03 00:48:00  #國際
+
+伊朗外交部發言人：對方清楚，一旦其針對我方採取任何冒險行動，我們必將予以強力回擊。
+
+---
+
+### 2026-08-03 00:47:53  #國際
+
+市場資訊：阿聯酋近日遊說特朗普對伊朗採取更強硬行動。
+
+---
+
+### 2026-08-03 00:46:30  #MKT News #WTI #Impact bullish #XAUUSD
+
+Iran's foreign ministry spokesman said friends and neighboring countries should be aware that any US attack on Iranian infrastructure would affect everyone.
+
+---
+
+### 2026-08-03 00:46:16  #國際
+
+伊朗外交部發言人：伊朗與巴基斯坦、土耳其官員會談時談及美方發出的警告與威脅，美方稱若伊朗遭到襲擊，美方將採取報復行動。
+
+---
+
+### 2026-08-03 00:44:23  #MKT News #Important
+
+Air-raid sirens sounded in Kyiv.
+
+---
+
+### 2026-08-03 00:44:22  #國際
+
+基輔響起防空警報。
+
+---
+
+### 2026-08-03 00:44:04  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's foreign ministry spokesman said the United States, working with certain regional forces, has forcibly opened a southern route through the Strait of Hormuz and that route is not safe.
+
+---
+
+### 2026-08-03 00:43:51  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran foreign ministry spokesman said Washington did not permit shipping through the Strait of Hormuz to resume as scheduled and attacked Iran before the deadline expired.
+
+---
+
+### 2026-08-03 00:42:40  #焦點 #國際
+
+伊朗外交部發言人：我們與阿曼就霍爾木茲海峽舉行的談判並非首次，我們有義務開展合作，以達成船舶通行機制。
+
+---
+
+### 2026-08-03 00:42:18  #國際
+
+伊朗外交部發言人：美國與地區部分勢力合作，在霍爾木茲海峽強行開闢了一條南部航線，該航線並不安全。
+
+---
+
+### 2026-08-03 00:42:05  #國際
+
+伊朗外交部發言人：華盛頓未按期允許霍爾木茲海峽航運恢復，並在期限屆滿前對我們發動攻擊。
+
+---
+
+### 2026-08-03 00:41:53  #國際
+
+伊朗外交部發言人：我們目前與阿曼商討的這條路線應保障我們的共同利益。
+
+---
+
+### 2026-08-03 00:41:18  #MKT News
+
+Iran's foreign ministry spokesman said an understanding with Oman on a new shipping route does not imply the opening or closure of the Strait of Hormuz.
+
+---
+
+### 2026-08-03 00:41:13  #其他
+
+【希臘兩架消防直升機相撞造成2人死亡】當地時間8月2日下午，兩架消防直升機在希臘首都雅典所在的阿提卡大區西部參與救火時在空中相撞，其中一架墜毀，機上兩名乘員遇難。另一架撞機後迫降，機上兩人中有一人受傷。
+
+---
+
+### 2026-08-03 00:40:54  #國際
+
+伊朗外交部發言人：與阿曼就新航線達成協議並不意味著霍爾木茲海峽正在開放或關閉。
+
+---
+
+### 2026-08-03 00:39:12  #國際
+
+伊朗外交部發言人：同阿曼談判意在霍爾木茲海峽設立聯合機制。
+
+---
+
+### 2026-08-03 00:39:02  #MKT News
+
+Iran's foreign ministry spokesman said talks with Oman aim to find a common mechanism for the Strait of Hormuz.
+
+---
+
+### 2026-08-03 00:38:50  #國際
+
+伊朗稱正與阿曼就霍爾木茲海峽新航線進行談判。
+
+---
+
+### 2026-08-03 00:38:37  #國際
+
+伊朗外交部發言人：我們重申，霍爾木茲海峽局勢無法恢復至戰前狀態。
+
+---
+
+### 2026-08-03 00:38:14  #MKT News #WTI #Impact bullish #Brent
+
+Iran foreign ministry spokesman said talks with Oman are bilateral and do not involve other parties, and reiterated that the situation in the Strait of Hormuz will not return to its pre-war state.
+
+---
+
+### 2026-08-03 00:36:22  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
+
+Iran's foreign minister said talks with Oman on the Strait of Hormuz have entered their final stage.
+
+---
+
+### 2026-08-03 00:34:09  #焦點 #國際
+
+【伊朗外長阿拉格齊：與阿曼談判即將敲定】在今日伊朗內閣會議伊始，外交部長阿拉格齊彙報了伊朗與阿曼談判的最新進展。他談及會談取得的成果，並表示談判步入收官階段，有望達成最終協議。
+
+---
+
+### 2026-08-03 00:32:34  #國際
+
+伊朗外交部發言人：美國的威脅早已司空見慣，德黑蘭將基於自身利益採取行動，不會受各類威脅影響。
+
+---
+
+### 2026-08-03 00:32:18  #MKT News
+
+Iran’s foreign ministry spokesman said U.S. threats are not new and Tehran acts in its own interests, unaffected by such threats.
 
 ---
 
@@ -21106,209 +21472,5 @@ Norway Loan Debt Rises 4.4% in June — Norway’s general public domestic loan 
 ### 2026-07-31 14:31:33  #其他
 
 【貴州上半年累計發放低保金和特困供養金62.5億元】31日，記者從2026年上半年貴州民政工作情況新聞釋出會上獲悉，貴州依託“大資料比對+鐵腳板摸排”工作機制，動態將符合條件的困難群眾納入兜底保障範圍。上半年，全省共保障城鄉低保物件212.99萬人，特困人員14.96萬人，實施臨時救助10.2萬人次，累計發放低保金和特困供養金62.5億元。（新華社）
-
----
-
-### 2026-07-31 14:31:10  #市場 #焦點 #國際
-
-【日韓股市集體收漲】日經225指數收漲4.03%，報64362.02點。韓國綜指收漲17.91%，報6595.44點，創歷史最大單日收盤漲幅；本月下跌2%2，創歷史第二大月度跌幅。SK海力士上漲30%觸及漲停，三星電子漲近27%，二者均重新整理歷史單日漲幅紀錄。
-
----
-
-### 2026-07-31 14:30:29  #其他
-
-瑞士6月實際零售銷售同比 1.5%，前值 3.5%。
-
----
-
-### 2026-07-31 14:30:07  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-The Nikkei 225 Index Closes 3.78% Higher — The Nikkei 225 Index gained 2338 points or 3.78 percent on Friday to close at 64206 points. Gains were led by Sumco (17.52%), Advantest (15.66%) and Mitsui Kinzoku (14.63%).
-
----
-
-### 2026-07-31 14:29:22  #公司 #市場
-
-【綠電概念異動拉昇 協鑫能科觸及漲停】午後綠電概念異動拉昇，協鑫能科觸及漲停，此前新能股份漲停，華光環能、九洲集團、華銀電力、金開新能漲幅靠前。訊息面上，國家能源局資料顯示，上半年，全國可再生能源發電量近2萬億千瓦時，同比增長約9%，佔全部發電量的41.2%，佔比首次超四成，超過同期第三產業用電量與城鄉居民生活用電量之和。
-
----
-
-### 2026-07-31 14:29:20  #市場
-
-哈薩克黃金生產商SolidCore表示，第二季度黃金當量產量為8.6萬盎司。
-
----
-
-### 2026-07-31 14:29:16  #市場
-
-哈薩克黃金生產商SolidCore表示，第二季度黃金當量銷量為8.2萬盎司。
-
----
-
-### 2026-07-31 14:28:30  #Trading Economics #Economy #Azerbaijan #Interest Rate #Importance 1
-
-Azerbaijan Holds Key Rate at 6.5% — The Central Bank of the Republic of Azerbaijan kept its discount rate unchanged at 6.5% for a fourth consecutive meeting in July 2026, maintaining borrowing costs at the lowest level since September 2021. The interest rate corridor was also left intact, with the lower bound at 5.5% and the upper bound at 7.5%, as policymakers judged inflation risks to be broadly balanced. Annual inflation stood at 5.8% in June from a 5.6% increase in the previous month, remaining within the bank's target range, while core inflation stood at 5.5%. The central bank noted that foreign exchange supply continued to significantly exceed demand, helping lift international reserves by 19.5% to $13.8 billion in the first half of the year. It reiterated that geopolitical tensions and higher global energy and food prices remain key upside risks to inflation, with future policy decisions guided by inflation forecasts, macroeconomic conditions, foreign exchange market developments, and banking sector liquidity.
-
----
-
-### 2026-07-31 14:27:58  #A股
-
-【兆易創新A股成交額超300億元】7月31日下午，兆易創新A股成交額超300億元，現漲5.12%。
-
----
-
-### 2026-07-31 14:26:04  #其他
-
-【7月31日：“農產品批發價格200指數”比昨天下降0.30個點】據農業農村部監測，7月31日“農產品批發價格200指數”為113.61，比昨天下降0.30個點，“菜籃子”產品批發價格指數為113.77，比昨天下降0.36個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.83元/公斤，比昨天下降0.8%；牛肉67.14元/公斤，比昨天下降0.3%；羊肉64.92元/公斤，與昨天持平；雞蛋9.93元/公斤，比昨天下降1.6%；白條雞17.13元/公斤，比昨天上升0.2%。重點監測的28種蔬菜平均價格為4.39元/公斤，比昨天下降1.1%；重點監測的6種水果平均價格為6.76元/公斤，比昨天下降1.9%。鯽魚20.00元/公斤，比昨天下降0.9%；鯉魚14.27元/公斤，比昨天下降3.0%；白鰱魚10.09元/公斤，比昨天下降0.2%；大帶魚39.84元/公斤，比昨天下降5.4%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前二名的是大蒜和白條雞，幅度分別為1.3%和0.2%；價格降幅前五名的是大帶魚、菠蘿、白蘿蔔、鯉魚和巨峰葡萄，幅度分別為5.4%、4.8%、3.6%、3.0%和2.6%。
-
----
-
-### 2026-07-31 14:25:21  #宏觀 #市場
-
-財政部擬於8月7日第一次續發行2026年記賬式附息（十四期）國債。本次續發行國債為1年期固定利率附息債，競爭性招標面值總額1400億元，進行甲類成員追加投標，票面利率與之前發行的同期國債相同，為1.07%。
-
----
-
-### 2026-07-31 14:23:52  #市場 #央行 #國際
-
-【美聯儲按兵不動後 對沖加息風險的創紀錄頭寸迅速平倉】美聯儲維持利率不變後，市場在決議前為對沖加息風險建立的大量押注正迅速瓦解。備受關注的8月聯邦基金利率期貨持倉規模首次突破100萬張合約，涉及名義金額約5萬億美元。這一空前規模的押注凸顯了市場在7月議息會議前面臨的巨大不確定性。該會議也是美聯儲主席凱文·沃什上任後召開的第二次政策會議，而相關倉位如今正被快速平掉。TJM LLC董事總經理兼利率策略師David Robin表示：“這種倉位配置反映了一種相當普遍的共識，即美聯儲需要收緊政策來維護公信力。”他表示：“這筆交易判斷失誤，因為沃什此前實際上已經釋放訊號，表明7月加息為時尚早。他曾多次強調需要展開充分的內部辯論、設立政策工作組並等待更多經濟資料。決議公佈後，8月合約僅用了不到5秒鐘就完成重定價。”芝商所週四公佈的資料顯示，8月聯邦基金利率期貨未平倉合約減少約14萬張。這意味著相關空頭頭寸已被削減或平倉。
-
----
-
-### 2026-07-31 14:22:52  #其他
-
-【上海釋出中心城區冰雹黃色預警】上海市氣象臺2026年07月31日14時13分發布中心城區冰雹黃色預警訊號：預計未來6小時內，長寧區、普陀區將出現冰雹天氣，請做好易損室外物品和裝置的防護措施。
-
----
-
-### 2026-07-31 14:22:43  #其他
-
-【國開行上半年農業貸款發放量同比增長111%】從國家開發銀行獲悉，今年上半年，國開行聚焦高標準農田、現代設施農業、農業新質生產力和墾區發展等重點領域，發放農業貸款259億元，同比增長111%，支援提升農業綜合生產能力和質量效益。（新華社）
-
----
-
-### 2026-07-31 14:20:49  #其他
-
-【中國最高薪本科專業易主 硬科技重塑高校專業新賽道】麥可思研究院釋出的《2026年中國本科生就業報告》（就業藍皮書）顯示，今年本科畢業生畢業半年後平均月收入最高的專業，已變成微電子科學與工程。該專業以7814元位居第一，電子科學與技術、自動化分列第二、第三。資訊保安則降至第四。
-
----
-
-### 2026-07-31 14:20:28  #公司 #市場 #國際
-
-【韓、臺股市飆升助亞洲新興市場股指創17年最大漲幅】週五亞洲新興市場股指錄得逾17年來最大單日漲幅，因韓國和中國臺灣股市大漲，且市場對人工智慧相關支出的疑慮有所緩解。MSCI亞洲新興市場指數上漲約7%，亞洲新興市場科技指數上漲逾13%，均創下自2008年10月下旬以來的最大單日漲幅。不過，這兩個指數本月迄今仍分別下跌了5%和14%。微軟和亞馬遜昨晚公佈的財報表現強勁，其業績展望也緩解了市場對鉅額人工智慧相關支出的擔憂。“我們認為，微軟關於資本支出持續增長以及2027財年預計將實現正自由現金流的展望，可能有助於緩解市場對AI基礎設施類股票的擔憂，”野村證券分析師寫道。
-
----
-
-### 2026-07-31 14:18:03  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
-
-Apple shares fell 6.3% on Tradegate after the company said it expects current-quarter sales growth to be below market expectations.
-
----
-
-### 2026-07-31 14:17:16  #其他
-
-【野村：小米推出澎程車系，標誌著從BEV邁向EREV的第一步】野村發表報告指，小米於昨日舉行第二屆汽車科技日，推出SkyNomad(澎程)作為SU7/YU7以外的第二個車系系列，標誌著從純電池電動車(BEV)邁向增程式電動車(EREV)的第一步。該行予小米“中性”評級，目標價33港元。
-
----
-
-### 2026-07-31 14:16:53  #Trading Economics #Markets #Japan #Earnings #Importance 0
-
-Sony earnings above expectations at 58.07 JPY — Sony (6758) released earnings per share at 58.07 JPY, compared to market expectations of 44.86 JPY.
-
----
-
-### 2026-07-31 14:16:49  #其他
-
-【千問已在特斯拉車機內測】據媒體資訊，豆包大模型助手已接入部分特斯拉新車中。不過，多位知情人士透露，千問也早已進入特斯拉中國車機的深度測試階段，上車在即。結合上述知情人士的資訊，千問目前已經在特斯拉真實車機環境下完成大量的上車測試工作，“能聽能答、能控車、能導航、能辦事，都已經在計劃內”，未來，千問在特斯拉車機上能提供的能力，可能遠超單一“語音助手”的定義。
-
----
-
-### 2026-07-31 14:16:29  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed #DXY #US10Y
-
-【Barclays says euro-area rates trapped in cycle of hope and fear】Barclays rates strategists say euro-area interest rates remain locked in an "endless cycle of hope and fear" after German Bunds endured their worst July in more than 20 years. Ten-year German Bund yield is 3.15%, on the cheaper end of the range; Barclays warns that while lower yields could ease post-summer supply absorption, front-end rates and global factors still dominate. The bank adds tariff swings will be a key feature in 2025, with open conflict and ceasefire dynamics shaping 2026, and that the Middle East conflict continues to affect growth, inflation and monetary policy outlooks.
-
----
-
-### 2026-07-31 14:16:26  #其他
-
-巴基斯坦煤礦爆炸死亡人數升至34人。
-
----
-
-### 2026-07-31 14:16:03  #其他
-
-香港天文臺釋出黃色暴雨警告。
-
----
-
-### 2026-07-31 14:15:38  #其他
-
-加拿大皇家銀行將阿迪達斯目標股價從210歐元下調至200歐元。
-
----
-
-### 2026-07-31 14:15:05  #公司 #市場
-
-蘋果股價在TradeGate交易平臺下跌6.3%，此前該公司公佈本季度營收增速將低於華爾街預期。
-
----
-
-### 2026-07-31 14:15:01  #MKT News #Star Stocks #AMZN.O #Impact bullish
-
-Amazon shares rose 10.2% on Tradegate after the company's quarterly cloud revenue exceeded estimates.
-
----
-
-### 2026-07-31 14:14:47  #公司 #市場
-
-亞馬遜股價在TradeGate交易所上漲10.2%，此前該公司季度雲營收增長超出市場預期。
-
----
-
-### 2026-07-31 14:13:31  #其他
-
-【英國最大核電站附近發生野火】英國消防官員7月30日說，英國東部薩福克郡鄧尼奇希思正遭遇大規模野火侵襲，附近居民被迫疏散，道路關閉，火勢仍在蔓延，但目前估計野火不會危及附近的英國現役最大核電站。薩福克郡消防部門說，這場始於29日的野火是當地有史以來最嚴峻的火災之一，乾旱、高溫和大風給撲救造成困難，火勢目前仍在蔓延，距離英國現役最大核電站賽茲韋爾B核電站和在建的賽茲韋爾C核電站數公里。路透社援引一名消防官員的話報道，目前預計火災對這兩座核電設施沒有威脅。核電站運營方表示，相關設施執行正常，正評估濃煙和道路封閉帶來的影響。（新華社）
-
----
-
-### 2026-07-31 14:13:17  #市場
-
-澳大利亞S&P/ASX 200指數收盤上漲0.1%，至8976.80點。
-
----
-
-### 2026-07-31 14:12:38  #公司
-
-【華潤置地在合肥成立商業管理公司，註冊資本9.68億元】企查查APP顯示，近日，合肥潤裕商業管理有限公司成立，法定代表人為胡傳昶，註冊資本為9.68億元，經營範圍包含：房地產開發經營；商業綜合體管理服務；非居住房地產租賃；物業管理；餐飲管理等。企查查股權穿透顯示，該公司由華潤置地控股有限公司旗下上海泓喆房地產開發有限公司全資持股。
-
----
-
-### 2026-07-31 14:12:22  #公司
-
-【匈牙利石油天然氣公司擬收購殼牌旗下公司，佈局地中海天然氣開發】7月31日，匈牙利石油天然氣集團（MOL Group）與殼牌達成協議，將收購其全資子公司BG Cyprus。該公司擁有塞普勒斯東地中海12號區塊阿芙羅狄蒂（Aphrodite）天然氣田35%的非運營權益。交易總對價最高達7.2億美元，預計於2027年初完成。該專案計劃於2027年做出最終投資決定，首批天然氣預計於2031年產出。
-
----
-
-### 2026-07-31 14:12:02  #其他 #焦點 #A股
-
-【長鑫科技成交額超400億元】7月31日下午，長鑫科技成交額超400億元，現漲4.75%。
-
----
-
-### 2026-07-31 14:11:47  #國際
-
-據印度媒體7月31日報道，印度西部馬哈拉施特拉邦皮文迪市一棟四層建築30日晚發生坍塌，目前已造成9人死亡、3人受傷，另有多人被困。（新華社）
-
----
-
-### 2026-07-31 14:11:42  #MKT News #RDDT.O #Impact bearish
-
-JP Morgan cuts Reddit (RDDT.O) PT to $185 from $200.
-
----
-
-### 2026-07-31 14:11:39  #Trading Economics #Economy #Norway #Unemployed Persons #Importance 1
-
-Norway Jobseekers Rise in July — The number of people registered as out of work in Norway rose to a seasonally adjusted 62.1 thousand in July 2026 from an upwardly revised fourteen-month low of 61.7 thousand in the previous month. This corresponded to 2.1% of the workforce, up from 2.0% in June. Unemployment was highest among child and youth workers, at 3.0% of the workforce, while academic professions and health, nursing and care occupations recorded the lowest rate, at 0.9%. Regionally, Oslo and Østfold posted the highest jobless rate at 2.9% and 2.8%, respectively, while Troms recorded the lowest at 1.3%. Meanwhile, labor demand weakened, with 25.4 thousand vacancies advertised in July, equivalent to around 1,800 openings per working day and down 14% from a year earlier. On a non-seasonally adjusted basis, the number of fully unemployed people rose to 64.0 thousand in July from 58.1 thousand in June.
 
 ---

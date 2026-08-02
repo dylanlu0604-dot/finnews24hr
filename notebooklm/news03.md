@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-03 00:33:04_
-_本檔包含 3657 則快訊，約 669586 字_
+_更新時間：2026-08-03 01:38:43_
+_本檔包含 3650 則快訊，約 670212 字_
+
+---
+
+### 2026-07-30 14:56:04  #其他
+
+殼牌首席財務官表示，卡達對殼牌而言是頗具吸引力的長期投資目的地，基本面“十分良好”.
+
+---
+
+### 2026-07-30 14:55:57  #其他
+
+TD考恩將Meta目標股價從800美元下調至750美元。
+
+---
+
+### 2026-07-30 14:55:56  #MKT News #DXY #Impact bearish #WTI #Impact bullish
+
+Traders said rising oil prices may prompt the Reserve Bank of India to sell dollars to curb rupee depreciation. The Indian rupee fell 0.1% to 95.73 per US dollar, after trading as strong as 95.5775 earlier.
+
+---
+
+### 2026-07-30 14:55:20  #市場 #央行 #國際
+
+交易員稱，油價上漲之際，印度央行大機率正在拋售美元以遏制盧比貶值。
+
+---
+
+### 2026-07-30 14:55:17  #MKT News #Important
+
+A-share Zhongji Xuchuang's turnover topped 58.5 bln yuan, surpassing its prior record of 58.32 bln yuan set on June 5, 2026. The stock fell as much as 16% intraday before trimming losses and is trading down just over 7%.
+
+---
+
+### 2026-07-30 14:54:50  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Fall to Over 3-Month Low — The benchmark KOSPI fell 1.23% to close at 5,594 on Thursday, extending losses to its lowest level since early April as persistent concerns over AI-related spending and valuations continued to pressure technology shares, reversing earlier gains. Investors remained skeptical that massive capital spending on AI infrastructure would generate sufficient returns, with SK Hynix posting further declines despite reporting record quarterly earnings. At the same time, support from stronger-than-expected Samsung Electronics results and fresh government measures to curb leveraged ETF-driven volatility faded as selling resumed. Investors also remained cautious after the Federal Reserve left interest rates unchanged while providing little clarity on the timing of future policy easing. Among heavyweights, SK Hynix dropped 5.64%, alongside losses in Samsung Electronics (-0.72%), SK Square (-6.00%), Samsung Electro-Mechanics (-14.97%), and LG Electronics (-1.66%).
+
+---
+
+### 2026-07-30 14:54:45  #市場
+
+LSEG資料顯示，德國30年期國債收益率升至兩個月高點3.687%。
+
+---
+
+### 2026-07-30 14:54:36  #公司 #市場
+
+【新易盛：1.6T光模組出貨量顯著增長 預計下半年放量節奏將進一步加快】7月30日，光通訊板塊延續調整態勢，新易盛股價再度出現劇烈波動。截至上午收盤，公司股價報352.00元/股，跌幅16.43%，半日成交金額達244億元，換手率5.17%。記者從新易盛方面獲悉，公司1.6T光模組自第二季度起出貨已較第一季度顯著增長，預計下半年起放量節奏將進一步加快，呈現逐季攀升態勢。目前公司生產經營活動有序開展，內外部經營環境未出現重大變化，不存在應披露而未披露的重大事項。（中證報）
+
+---
+
+### 2026-07-30 14:54:36  #MKT News #Macro & Rates #Treasury Yields #DAX #Impact bearish #EURUSD #Impact bullish #XAUUSD
+
+LSEG data show German 30-year bond yield rose to a two-month high of 3.687%.
+
+---
+
+### 2026-07-30 14:54:29  #MKT News
+
+South Korea's National Assembly voted to appoint a special prosecutor to investigate ballot shortages during the June 3 election.
+
+---
+
+### 2026-07-30 14:54:10  #國際
+
+韓國議會投票決定任命特別檢察官，調查6月3日選舉中的選票短缺問題。
+
+---
+
+### 2026-07-30 14:54:02  #國際
+
+一份宣告顯示，印度南部泰米爾納德邦已與韓國電動汽車零部件製造商MotivLink就新建生產基地簽署諒解備忘錄。
+
+---
+
+### 2026-07-30 14:52:39  #市場 #焦點
+
+【中際旭創成交超585億元 重新整理成交額歷史天量】中際旭創成交額超585億元，重新整理此前在2026年6月5日創出的583.2億元的成交額歷史天量。該股盤中一度跌超16%，隨後跌幅有所收窄，現跌超7%。
+
+---
+
+### 2026-07-30 14:52:38  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+Nikkei Gains as Chip Stocks Rebound — The Nikkei 225 Index climbed 0.71% to close at 61,867 on Thursday, snapping a two-session losing streak as semiconductor shares rallied after Advantest issued a stronger-than-expected profit outlook. Shares of the chip-testing equipment maker jumped more than 10% after lifting its annual operating profit forecast by 35%, supported by robust demand driven by artificial intelligence spending. The rally spread across other technology and AI-related companies, including Kioxia Holdings (2.7%), Tokyo Electron (4.3%), Murata Manufacturing (2.3%), Ibiden Co (1.2%), and Hitachi (6.1%). Meanwhile, SoftBank Group declined 2.7% after its subsidiary Arm Holdings dropped nearly 6% in after-hours trading on a sales forecast that fell short of investor expectations. Financial and consumer-related stocks also lagged the broader market, with losses from Mitsubishi UFJ (-3.5%), Toyota Motor (-2.7%), and Fast Retailing (-2.5%).
+
+---
+
+### 2026-07-30 14:52:30  #公司
+
+英國BAE系統公司執行長表示：對我們新一代CCA無人戰鬥機感興趣的國家，既有現有的“颱風”戰鬥機合作方，也包括一些歷史上未曾與我們在作戰航空領域建立合作關係的國家。
+
+---
+
+### 2026-07-30 14:51:33  #公司
+
+【小米徐潔雲：小米汽車沒有所謂F碼，也不容許任何所謂“內部工作人員”違規操作】7月30日，小米集團董事長特別助理、戰略市場部副總經理徐潔雲在社交平臺發文提醒，請勿相信任何號稱能轉賣的騙子。小米汽車沒有所謂F碼，也不容許任何所謂“內部工作人員”違規操作。如果有人自稱所謂“內部人士”，請將其身份資訊告知我們，我們將徹查到底。
+
+---
+
+### 2026-07-30 14:50:18  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+【Israeli chief of staff threatens to expand operations in southern Lebanon】Al Jazeera reported Israeli Chief of General Staff Eyal Zamir said during an inspection of occupied areas in southern Lebanon that Israel will not withdraw from those areas until long-term security is ensured. He said Israeli forces have taken control of some areas, are clearing terrorist infrastructure, and will expand operations into additional areas if necessary.
+
+---
+
+### 2026-07-30 14:50:03  #MKT News #Important
+
+Switzerland's July KOF leading indicator due in 10 minutes.
+
+---
+
+### 2026-07-30 14:49:39  #MKT News
+
+【Fujian 1H aggregate social financing rises 580.04 bln yuan】China’s Fujian province reported 1H aggregate social financing increased by 580.04 bln yuan. At end-June, financial institutions’ RMB and foreign-currency loan balances stood at 9.1 tln yuan, up 2.9% YoY, while deposit balances were 9.6 tln yuan, up 7.8% YoY.
+
+---
+
+### 2026-07-30 14:49:10  #公司
+
+【AI伺服器製造商技嘉科技據悉尋求約500億元新臺幣銀團貸款】據知情人士稱，人工智慧AI伺服器製造商技嘉科技股份有限公司正尋求約500億元新臺幣（15億美元）貸款。近期中國臺灣科技公司為擴大運營規模以滿足激增的需求，正紛紛進行融資。知情人士說，技嘉科技正與多家銀行洽談安排這筆為期五年的貸款，這將是該公司有史以來第一筆銀團貸款。他們補充說，規劃用於補充營運資金的這筆融資可能會在未來幾個月內投放市場。目前討論仍在進行之中，細節可能會有所變動。技嘉科技一位代表不予評論。
+
+---
+
+### 2026-07-30 14:49:09  #MKT News #Important
+
+【E Fund ChiNext ETF posts second-highest turnover this year】As of the afternoon of the 30th, E Fund ChiNext ETF (159915) recorded turnover of 16.3 bln yuan, surpassing its prior intrayear second-high on July 17, 2026; July net inflows were 32.03 bln yuan and AUM stood at 65.8 bln yuan. Hua Xia Sci‑Tech Innovation 50 ETF (588000) logged turnover of 14.5 bln yuan, its third-highest this year; July net inflows totaled 38.92 bln yuan and AUM reached 86.3 bln yuan.
+
+---
+
+### 2026-07-30 14:48:57  #Trading Economics #Economy #Hungary #Balance of Trade #Importance 1
+
+Hungary Trade Surplus Widens Sharply in June — Hungary’s trade balance posted a surplus of EUR 1,305.4 million in June 2026, widening sharply from EUR 786.8 million in the corresponding month of the previous year, as export growth outpaced imports. Exports jumped 21% year-on-year to EUR 14,944.5 million, driven largely by higher sales of machinery and transport equipment and food, beverages, and tobacco, which more than offset the declines in energy carriers. By trade partners, exports both increased in the EU (+6.8%) and non-EU countries (+11%). Meanwhile, imports advanced by 18% to EUR 13,639.0 million, lifted by increased purchases of processed products and machinery and transport equipment. Imports recorded an increase in EU (+3.4%) and non-EU countries (+12%). For the first half of 2026, the trade surplus narrowed to EUR 5,044.6 million from EUR 5,749.3 million a year earlier, as exports rose by 8.3%, while imports grew at a faster 10%.
 
 ---
 
@@ -21869,179 +22001,5 @@ Swedish Economic Activity Shrinks 0.2% in June — The Swedish economy shrank 0.
 ### 2026-07-29 14:07:06  #宏觀 #央行 #國際
 
 【策略師：沃什希望市場預期為美聯儲提供決策依據】瑞典北歐斯安銀行宏觀策略師古斯塔夫・赫爾格松在研報中表示，美聯儲新任主席凱文・沃什長期以來對美聯儲面向市場的溝通策略與資訊透明度持質疑態度，並計劃對現有機製作出調整。這位宏觀策略師稱：“沃什不再主張由美聯儲引導市場，而是希望依靠市場預期傳遞資訊，以此作為美聯儲政策行動的依據。”該策略師提到，若沃什落實這一思路，在地緣政治局勢充滿不確定性的當下，市場執行邏輯將迎來重大轉變。赫爾格松表示：“後續沃什會選擇釋放多少政策指引訊號，這點尤為值得關注。”
-
----
-
-### 2026-07-29 14:06:18  #市場 #焦點
-
-純鹼連續主力合約日內跌2%，現報959.00元。
-
----
-
-### 2026-07-29 14:03:24  #其他
-
-【深圳金融監管局：6月末轄內銀行“跨境理財通”累計服務個人投資者3.3萬名】深圳金融監管局黨委委員、一級巡視員陳飛鴻在該局2026年上半年新聞釋出會上透露，該局支援跨境金融創新，6月末轄內銀行“跨境理財通”業務累計服務個人投資者3.3萬名，跨境匯劃金額563.4億元。
-
----
-
-### 2026-07-29 14:03:00  #市場 #國際
-
-斯托克歐洲50指數期貨下跌0.17%，德國DAX指數期貨下跌0.35%，富時指數期貨下跌0.02%。
-
----
-
-### 2026-07-29 14:02:38  #其他
-
-【深圳金融監管局：轄內銀行已審批“白名單”專案443個，放款4365億元】深圳金融監管局黨委委員、一級巡視員陳飛鴻在該局2026年上半年新聞釋出會上透露，該局持續發揮房地產融資協調機制作用，截至6月末，轄內銀行累計審批“白名單”專案443個、發放貸款4365.24億元。同時，該局積極與住建等部門聯動，協同推進城市更新重點專案攻堅。
-
----
-
-### 2026-07-29 14:02:26  #其他
-
-根據中國信通院資料計算，6月蘋果iPhone等外國品牌手機在中國出貨量達328萬部。
-
----
-
-### 2026-07-29 14:02:08  #其他
-
-【深圳金融監管局：6月末全市中資銀行外貿貸款餘額1.37萬億元 同比增長22%以上】深圳金融監管局一級巡視員陳飛鴻在該局2026年上半年新聞釋出會上透露，轄內機構持續加大外貿企業和跨境電商、產業電商等外貿新業態支援力度，6月末全市中資銀行外貿貸款餘額1.37萬億元，同比增長22.17%；上半年為2.7萬家外貿企業提供出口信用風險保障571.24億美元，同比增長7.57%。以工行為例，據工行深圳市分行高階專家蔡琳透露，6月末分行外貿企業貸款餘額超1500億元，較年初增長39.21%。
-
----
-
-### 2026-07-29 14:01:51  #央行 #其他
-
-【央行上海總部：6月末全市本外幣貸款餘額同比增長5.9%，新發放企業貸款加權平均利率為2.58%】7月29日，人民銀行上海總部召開2026年第三季度新聞釋出會，介紹今年上半年上海金融執行情況，並回答記者提問。會上披露，6月末上海市本外幣貸款餘額13.60萬億元，同比增長5.9%。從增量看，上半年本外幣貸款增加5315億元。從融資成本看，6月份，上海市新發放企業貸款加權平均利率為2.58%，較上年同期下降16個基點，處於歷史低位。其中，小微企業貸款加權平均利率為2.83%，較上年同期下降16個基點。存款方面，截至6月末上海市本外幣存款餘額25.40萬億元，同比增長10.9%。從增量看，上半年本外幣存款增加8972億元。分部門看，住戶存款餘額同比增長6.3%，非金融企業存款餘額同比增長6.1%，非銀金融機構存款餘額同比增長33.5%。（記者楊志錦）
-
----
-
-### 2026-07-29 14:00:52  #宏觀
-
-【聚焦智慧家電質量安全風險 市場監管總局釋出國家標準】記者今天瞭解到，市場監管總局批准釋出《智慧家用電器質量安全風險分類評價指南》國家標準，將於2027年2月1日起實施。該標準確立了智慧家用電器風險分類評價的基本原則、評價指標與評價方法，助力化解傳統物理安全與新型資訊保安疊加隱患，推動智慧家電產業規範化、高質量發展。針對智慧家電兼具傳統電器硬體風險與聯網數字化新型風險的行業現狀，該標準主要作出三方面規定。一是劃定四類安全風險。將智慧家電質量安全風險分為電器安全、功能安全、資訊保安、資料與隱私保護四大類別，既覆蓋漏電起火、機械夾傷、溫控失靈等傳統家電物理危害，也針對聯網智慧特性新增網路入侵、系統漏洞、使用者隱私洩露、第三方違規讀取資料等數字化風險，全方位守護消費者人身、財產與個人資訊保安。二是實現產品風險綜合量化研判。建立兼顧產品本身安全屬性、行業監管合規資料、消費者實際使用感受的綜合評價框架，既明確產品硬體、控制系統、網路傳輸等實測考核內容，還結合電商評價、安全輿情等群眾反饋情況，讓產品安全評判更加客觀全面。三是統一評估流程與風險分級機制。制定一套完整可落地的閉環評價流程，配套多種適配不同家電品類的評估方法，同時按照風險高低劃分A、B、C、D四個等級。家電企業可提前排查產品隱患，針對高風險問題最佳化設計、升級韌體，實現安全風險早識別、早處置。（央視新聞）
-
----
-
-### 2026-07-29 14:00:16  #其他
-
-愛馬仕第二季度銷售額按固定匯率計算增長 6.7%，預估增長 6.51%。
-
----
-
-### 2026-07-29 13:59:55  #市場
-
-巴基斯坦KSE-100指數下跌1%，至175,988.90點。
-
----
-
-### 2026-07-29 13:59:37  #其他
-
-【中國信通院：1-6月，國內市場手機出貨量1.33億部，同比下降5.5% 】中國信通院資料顯示，1-6月，國內市場手機出貨量1.33億部，同比下降5.5%，其中，5G手機1.23億部，同比增長1.7%，佔同期手機出貨量的92.0%。2026年6月，智慧手機出貨量1714.9萬部，同比下降16.6%，佔同期手機出貨量的89.6%;。
-
----
-
-### 2026-07-29 13:58:17  #公司 #國際
-
-【川崎重工可騎行四足機器人計劃2035年開始銷售】日本川崎重工針對該公司正在開發的四足行走機器人“CORLEO”召開了專案說明會。該公司於4月啟動了由數十人組成的開發團隊，正在藉助與英偉達的合作，加快開發控制技術等，計劃2028年完成試製機，2035年開始銷售。
-
----
-
-### 2026-07-29 13:57:43  #公司 #觀點 #國際
-
-【扎克伯格稱美國不應封禁中國尖端AI】據英國《金融時報》7月29日報道，Meta創始人扎克伯格加入公開呼籲的隊伍。週二他在接受採訪時表示，美國政府不應為了在人工智慧（AI）競爭中佔據優勢而封殺中國AI模型，並稱禁止中國尖端AI在美國使用並非“有效的解決方案”。 扎克伯格認為，美國企業應“系統性地”找出瓶頸和障礙，以便更好地與中國AI企業競爭。他重申了對開源模型的支援，並警告AI存在被少數幾個強大集團“集中”掌控的風險。 自特朗普再次競選並重返白宮以來一直在與其積極接觸的扎克伯格，還就美國應如何管控新模型釋出發表了看法。 他表示，由“深思熟慮的人員認真執行”的同行評議或審查可能對行業有利，但領先AI企業不應擁有過多影響力。他指出：“如果讓一群有自身利益訴求的企業來做同行評議，監管捕獲的問題就會始終存在。” 扎克伯格還認為，限制最強大的工具並非應對網路安全問題的正確方法，因為這些工具也能幫助企業識別和修補漏洞。他以上週發生的一起事件為例：OpenAI的一個程式在安全測試中失控併入侵了一家初創公司。由於被入侵的公司無法訪問閉源前沿模型，只能轉而使用開源模型來修補問題。 （觀察者網）
-
----
-
-### 2026-07-29 13:56:16  #其他
-
-【保時捷上半年交付量同比下降16.5%，營業利潤增至13.48億歐元】7月29日，保時捷公佈，2026年上半年銷售收入較去年同期從181.57億歐元下降至172.29億歐元；營業利潤從10.07億歐元增長至13.48億歐元；銷售回報率為7.8%（去年同期：5.5%），汽車業務EBITDA利潤率為18.3%（去年同期：16.0%）；汽車交付量下降16.5%，至122,306輛；汽車業務純電動汽車份額降至19.4%（去年同期：23.5%）。
-
----
-
-### 2026-07-29 13:56:06  #市場 #國際
-
-日本20年期國債收益率下跌5個基點至3.615%。
-
----
-
-### 2026-07-29 13:54:36  #其他
-
-【中國信通院：6月國內市場手機出貨量1914.9萬部 5G手機出貨量同比下降12.1%】中國信通院資料顯示，2026年6月，國內市場手機出貨量1914.9萬部，同比下降15.3%，其中，5G手機1620.1萬部，同比下降12.1%，佔同期手機出貨量的84.6%。
-
----
-
-### 2026-07-29 13:54:25  #市場 #國際
-
-日本30年期國債收益率下跌6個基點至3.92%。
-
----
-
-### 2026-07-29 13:53:55  #公司
-
-【但斌：大跌一定要敢買，剛把剩餘的子彈打光】7月29日，但斌在社交媒體稱“大跌一定要敢買，剛把剩餘的子彈打光”。此前其發文表示，“2倍做多海力士ETF此刻大跌25.72%。槓桿工具既能放大收益，也會成倍放大風險，潮水退去之時，更能看清市場波動的殘酷。由此可見，這類槓桿產品需要格外謹慎。”但斌認為，海力士也成為這一輪AI行情階段性標誌的公司之一。按當下這種調整節奏，短期方向大機率很快見分曉。當然，拉長時間維度，唯有供需格局持續最佳化、盈利能力穩步改善的企業，才有機會穿越一輪輪週期。（財聞）
-
----
-
-### 2026-07-29 13:52:41  #央行 #其他
-
-【上半年上海跨境人民幣業務量同比增長26%，保持全國第一】7月29日，中國人民銀行上海總部召開2026年第三季度新聞釋出會，介紹今年上半年上海金融執行情況。央行上海總部宏觀審慎管理部副主任施建東介紹稱，2026年上半年，上海市跨境人民幣業務呈現“增長提速、結構最佳化、質效提升”的良好態勢。他表示，2026年上半年，上海市跨境人民幣業務量達20.38萬億元，同比增長26%，較去年同期高11個百分點，繼續保持全國第一。其中，4-6月，業務量呈持續加速態勢，體現人民幣作為貿易、投融資跨境結算幣種正在被更多市場主體接受，國際貨幣地位正穩步提升。（澎湃新聞）
-
----
-
-### 2026-07-29 13:52:07  #其他
-
-渣打港股漲幅擴大至4.9%。
-
----
-
-### 2026-07-29 13:50:56  #公司
-
-【驕成超聲新設子公司，含半導體器件相關業務】企查查APP顯示，近日，驕成超聲技術（武漢）有限公司成立，經營範圍包含：半導體器件專用裝置製造；半導體器件專用裝置銷售；電子元器件製造等。企查查股權穿透顯示，該公司由驕成超聲全資持股。
-
----
-
-### 2026-07-29 13:48:57  #公司
-
-港股儲存概念股午後跌幅收窄，南方兩倍做多海力士(07709.HK)現跌17.5%，此前一度跌超28%，南方兩倍做多三星電子(07747.HK)現跌12%，此前一度跌超18%，兆易創新(03986.HK)跌6%，瀾起科技(06809.HK)跌4.5%。
-
----
-
-### 2026-07-29 13:47:44  #國際
-
-俄羅斯起訴 Telegram 創始人杜羅夫，併發出逮捕令。
-
----
-
-### 2026-07-29 13:46:09  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Rally Persists, Ends at Fresh Record High — New Zealand's stocks rose 115 points, or 0.8%, to close at a record high of 13,977 on Wednesday, marking their third consecutive record close, with almost all sectors trading in the green. The gains were mainly driven by materials, healthcare, consumer staples, and real estate. Traders maintained momentum as they braced for the upcoming earnings season next month, though oil prices rebounded amid renewed escalation of the conflict in the Middle East and the global tech selloff. However, traders remained cautious ahead of the Fed's interest rate decision later today. The top performer was AFT Pharmaceuticals (7.6%) after the company said its portfolio of projects opened the business up to multi-billion-dollar market opportunities. Other notable gainers were Ebos Group (4.6%), Fisher & Paykel Healthcare (2.5%), Chorus (2.5%), Auckland International Airport (1.9%), Delegat Group (1.7%), A2 Milk (1.4%), Mercury NZ (1.2%), and Infratil (0.9%).
-
----
-
-### 2026-07-29 13:45:14  #市場 #焦點
-
-現貨白銀突破58美元/盎司，日內漲1.61%。
-
----
-
-### 2026-07-29 13:44:20  #其他
-
-科創50指數翻紅，此前一度跌近5%。
-
----
-
-### 2026-07-29 13:42:59  #公司
-
-【金龍魚在廣州成立蛋類食品公司】企查查APP顯示，近日，益海嘉裡（廣州）蛋類食品有限公司成立，經營範圍包含：初級農產品收購；食用農產品批發；農產品的生產、銷售、加工、運輸、貯藏及其他相關服務等。企查查股權穿透顯示，該公司由金龍魚全資持股。
-
----
-
-### 2026-07-29 13:42:39  #公司
-
-【深圳上半年保險業原保險保費收入1277.50億元，同比增長5.31%】深圳上半年保險業原保險保費收入1277.50億元，同比增長5.31%，增速居一線城市首位。其中，財產險公司原保險保費收入350.94億元，同比增長7.76%；人身險公司原保險保費收入926.56億元，同比增長4.41%。行業賠付支出402.40億元，同比增長3.86%。（介面新聞）
-
----
-
-### 2026-07-29 13:42:13  #其他
-
-【放量！2只雙創ETF成交額均突破100億】今日寬基ETF再度顯著放量，科創50ETF華夏（588000）、創業板ETF易方達（159915）成交額均突破100億，此外中證1000ETF南方（512100）、滬深300ETF華泰柏瑞（510300）成交額均接近50億。7月以來科創50ETF華夏（588000）累計申贖淨流入348億、滬深300ETF華泰柏瑞（510300）累計申贖淨流入295億，創業板ETF易方達（159915）累計申贖淨流入293億。
 
 ---
