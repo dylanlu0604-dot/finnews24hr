@@ -1,7 +1,19 @@
 {
   "date": "2026-08-03",
-  "count": 45,
+  "count": 46,
   "items": [
+    {
+      "id": "mkt:019fc36d-5a18-7aab-8f48-37fe26220626",
+      "time": "2026-08-03 01:02:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran foreign ministry spokesman said discussions with Pakistani and Turkish officials addressed warnings and responses to US threats, and that Iran would retaliate if attacked."
+    },
     {
       "id": "mkt:019fc369-2bd7-7aab-8f48-29424b282187",
       "time": "2026-08-03 00:57:57",

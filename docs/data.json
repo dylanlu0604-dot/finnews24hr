@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-03 01:01:35",
+  "updated": "2026-08-03 01:05:41",
   "count": 17941,
   "items": [
+    {
+      "id": "mkt:019fc36d-5a18-7aab-8f48-37fe26220626",
+      "time": "2026-08-03 01:02:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran foreign ministry spokesman said discussions with Pakistani and Turkish officials addressed warnings and responses to US threats, and that Iran would retaliate if attacked."
+    },
     {
       "id": "mkt:019fc369-2bd7-7aab-8f48-29424b282187",
       "time": "2026-08-03 00:57:57",
@@ -166292,15 +166304,6 @@
         "其他"
       ],
       "text": "訊息人士：美軍中央司令部司令認為針對霍爾木茲海峽周邊的打擊已發揮最大效果，建議停止空襲。"
-    },
-    {
-      "id": "5008668",
-      "time": "2026-07-27 01:03:43",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗稱將就商船遭襲報復烏克蘭】伊朗外長阿拉格齊7月26日在社交媒體發文，譴責烏克蘭在裡海襲擊伊朗商船一事。阿拉格齊在帖文中稱，烏克蘭“襲擊了一艘伊朗商船，致一名水手喪生。這是公然違反《聯合國憲章》的行徑，系聽命於以色列，意在將歐洲拖入其戰爭。在與歐盟外交與安全政策高階代表卡拉斯及俄羅斯外長拉夫羅夫通話時，我已明確表明：基輔這個‘吃白食的’所為，絕不可能不遭回擊。” 伊朗外交部此前釋出宣告稱，7月25日，一艘伊朗商船在裡海遭到烏克蘭方面襲擊後發生爆炸，導致一名船員死亡、另有一人受傷。（CCTV國際時訊）"
     }
   ]
 }
