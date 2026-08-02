@@ -1,7 +1,23 @@
 {
   "date": "2026-08-02",
-  "count": 136,
+  "count": 138,
   "items": [
+    {
+      "id": "mkt:019fbff1-5562-7aab-8f44-28d4b6d10ed5",
+      "time": "2026-08-02 08:48:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Spokane County wildfire spreads; multiple Level 3 evacuation orders issued】Local time Aug 1 — A fast-spreading wildfire in Spokane County, Washington, driven by extreme weather, prompted multiple Level 3 evacuation orders urging immediate evacuation. Fire crews are actively fighting the blaze; a local community college has been opened as a temporary shelter for evacuees."
+    },
+    {
+      "id": "5020612",
+      "time": "2026-08-02 08:48:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國華盛頓州山火蔓延 多地釋出最高階別疏散令】當地時間8月1日，受極端天氣影響，美國華盛頓州斯波坎縣一場山火迅速蔓延，迫使當地居民撤離。消防人員正在全力控制火勢。當地應急管理部門表示，斯波坎地區多地已釋出最高階別的三級疏散令，敦促居民立即撤離，以躲避危及生命的危險情況。當地一所社群學院已設立臨時避難所，接收撤離居民。據華盛頓州消防局稱，斯波坎地區的大火於當天中午左右燃起，起火原因正在調查中。州長辦公室表示，華盛頓州全州共有12起大火正在燃燒，過火面積超800平方公里。（央視新聞）"
+    },
     {
       "id": "mkt:019fbfea-b92b-7aab-8f44-2565e142247c",
       "time": "2026-08-02 08:40:58",
