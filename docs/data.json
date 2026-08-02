@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-03 01:53:22",
-  "count": 17946,
+  "updated": "2026-08-03 01:57:23",
+  "count": 17947,
   "items": [
+    {
+      "id": "mkt:019fc39e-d86d-7aab-8f48-83413c962747",
+      "time": "2026-08-03 01:56:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Israel's Channel 12 cites sources saying that, despite a statement from Trump, the Israel Defense Forces remained on high alert today, saying Iran may carry out unexpected actions."
+    },
+    {
+      "id": "5021011",
+      "time": "2026-08-03 01:53:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度因調味新增劑違規，禁售帝亞吉歐、英布魯部分酒類產品。"
+    },
     {
       "id": "5021010",
       "time": "2026-08-03 01:49:44",
@@ -166343,14 +166362,6 @@
         "其他"
       ],
       "text": "【過火面積達約5萬公頃 西班牙阿維拉山火規模創紀錄】西班牙中部山火持續蔓延。據西班牙埃菲社26日報道，阿維拉省山火過火面積約5萬公頃，為西班牙有記錄以來規模最大的山火。"
-    },
-    {
-      "id": "mkt:019f9f92-c715-7aab-8e9b-c2304395eff4",
-      "time": "2026-07-27 01:57:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Syria's foreign minister thanked UN Secretary-General Guterres for his visit and said they discussed UN support for reconstruction priorities, human rights and economic development to bolster Syria's efforts to build a more stable future."
     }
   ]
 }
