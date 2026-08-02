@@ -1,7 +1,38 @@
 {
   "date": "2026-08-02",
-  "count": 147,
+  "count": 150,
   "items": [
+    {
+      "id": "mkt:019fc008-8687-7aab-8f44-48316771cf52",
+      "time": "2026-08-02 09:13:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "A Japanese official said Finance Minister Katayama will announce on Monday that Tokyo and Washington have taken joint action to curb yen depreciation. The official said the US-Japan intervention in the yen is \"still ongoing.\""
+    },
+    {
+      "id": "5020620",
+      "time": "2026-08-02 09:10:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：一位日本官員表示，美日聯合干預日元的行動仍在進行中。"
+    },
+    {
+      "id": "5020619",
+      "time": "2026-08-02 09:10:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "日本官員稱，財務大臣片山皋月將於週一宣佈，東京和華盛頓已採取聯合行動以遏制日元跌勢。"
+    },
     {
       "id": "5020618",
       "time": "2026-08-02 09:07:54",
