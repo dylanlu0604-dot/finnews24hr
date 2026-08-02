@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-03 02:13:29",
-  "count": 17950,
+  "updated": "2026-08-03 02:17:24",
+  "count": 17947,
   "items": [
+    {
+      "id": "5021019",
+      "time": "2026-08-03 02:16:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本電報電話公司（NTT）、豐田汽車加大人工智慧與工廠投資，引領日本企業資本開支創下年度新高。"
+    },
+    {
+      "id": "5021018",
+      "time": "2026-08-03 02:15:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈馬斯同意按特朗普停火方案解除武裝；以色列向白宮表達安全憂慮，質疑哈馬斯無誠意非軍事化。"
+    },
     {
       "id": "5021017",
       "time": "2026-08-03 02:11:27",
@@ -166347,48 +166364,6 @@
         "Brent"
       ],
       "text": "Romania summoned Russia's ambassador and said it had shot down three drones within three days."
-    },
-    {
-      "id": "5008684",
-      "time": "2026-07-27 02:16:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡指責紐約市長馬姆達尼煽動仇恨，起因是馬姆達尼稱其在加沙戰爭中犯下戰爭罪，應當遭到逮捕。"
-    },
-    {
-      "id": "mkt:019f9fa3-8725-7aab-8e9b-ef112d7844c8",
-      "time": "2026-07-27 02:15:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Avila wildfire scorches about 50,000 hectares; central Spain fires total ~77,000 hectares, largest on record】On July 26 a wildfire in Avila province, central Spain, burned roughly 50,000 hectares, the largest wildfire recorded in Spain, the Interior Ministry said. Central-region blazes have destroyed about 77,000 hectares in total; a large fire in neighboring Toledo remains active and crews are working to prevent the two fires from joining."
-    },
-    {
-      "id": "5008683",
-      "time": "2026-07-27 02:15:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "美聯航與達美航空的初步磋商未能取得進展。美聯航去年曾主動接洽達美航空，商談合併事宜。"
-    },
-    {
-      "id": "mkt:019f9fa2-3c8f-7aab-8e9b-e7766e881ac8",
-      "time": "2026-07-27 02:13:57",
-      "tags": [
-        "MKT News",
-        "UAL.O",
-        "DAL.O"
-      ],
-      "text": "The Wall Street Journal reports sources say United Airlines approached Delta Air Lines last year about a potential merger; preliminary talks did not progress."
-    },
-    {
-      "id": "5008682",
-      "time": "2026-07-27 02:13:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：伊拉克總理將於下週四訪問沙烏地阿拉伯。"
     }
   ]
 }
