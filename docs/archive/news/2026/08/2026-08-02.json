@@ -1,7 +1,39 @@
 {
   "date": "2026-08-02",
-  "count": 471,
+  "count": 475,
   "items": [
+    {
+      "id": "mkt:019fc22c-22cc-7aab-8f46-970b693ecf20",
+      "time": "2026-08-02 19:11:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Armenian president appoints Pashinyan as prime minister】On Aug 2, Armenian President Vahagn Khachaturyan signed a decree reappointing Nikol Pashinyan as prime minister after accepting the collective resignation of Pashinyan’s government. Pashinyan had said on July 30 the cabinet would resign on Aug 2 following the formation of a new parliament. Under the Armenian constitution the president appoints the prime minister nominated by the parliamentary majority."
+    },
+    {
+      "id": "5020879",
+      "time": "2026-08-02 19:11:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【亞美尼亞總統任命帕什尼揚為該國總理】當地時間8月2日，亞美尼亞總統哈恰圖良簽署法令，再次任命帕什尼揚為該國總理。當天早些時候，亞美尼亞總統哈恰圖良接受了帕什尼揚政府辭職。7月30日，亞美尼亞總理帕什尼揚在政府會議上表示，由於新一屆議會已經組建完成，本屆政府將於8月2日集體辭職。根據亞美尼亞憲法，政府辭職後該國總統將任命由議會多數派提名的總理候選人擔任總理。（央視新聞）"
+    },
+    {
+      "id": "5020878",
+      "time": "2026-08-02 19:10:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達內政部長與伊朗內政部長通話，就局勢進展展開磋商。"
+    },
+    {
+      "id": "5020877",
+      "time": "2026-08-02 19:09:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱烏德穆爾特共和國遭烏無人機襲擊 已致3死2傷】當地時間8月2日，俄羅斯烏德穆爾特共和國代理行政長官阿布拉莫娃通報稱，當天，烏克蘭無人機對該國發動襲擊，導致當地3人死亡，另有2人受傷。烏方對此暫無回應。（央視新聞）"
+    },
     {
       "id": "mkt:019fc224-e51c-7aab-8f46-8efb4cc7c34c",
       "time": "2026-08-02 19:03:45",
