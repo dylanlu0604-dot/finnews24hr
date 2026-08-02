@@ -1,7 +1,16 @@
 {
   "date": "2026-08-02",
-  "count": 423,
+  "count": 424,
   "items": [
+    {
+      "id": "mkt:019fc1d6-0fbe-7aab-8f46-343c60d71dbd",
+      "time": "2026-08-02 17:37:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iranian media say reports Iran agreed to reopen Strait of Hormuz are false】Fars News said some \"media linked to adversaries\" had reported Iran agreed to a plan to reopen the Strait of Hormuz. Sources denied the report and said Iran’s policy toward the strategic waterway has not changed."
+    },
     {
       "id": "5020835",
       "time": "2026-08-02 17:33:42",
