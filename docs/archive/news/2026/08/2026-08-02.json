@@ -1,7 +1,31 @@
 {
   "date": "2026-08-02",
-  "count": 154,
+  "count": 157,
   "items": [
+    {
+      "id": "mkt:019fc017-80a4-7aab-8f44-66928adb2675",
+      "time": "2026-08-02 09:29:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said Cuba aims to 'weaponize' these coordination networks against the United States and is working to pressure 'U.S. policymakers' and global allies."
+    },
+    {
+      "id": "mkt:019fc017-48f9-7aab-8f44-5bbcc47a7b66",
+      "time": "2026-08-02 09:29:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio said unrest at US Immigration and Customs Enforcement (ICE), pro-Hamas protests and other radical movements are part of a coordinated network that includes Cuba."
+    },
+    {
+      "id": "mkt:019fc016-5844-7aab-8f44-505c0f394b61",
+      "time": "2026-08-02 09:28:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News: US Secretary of State Rubio, citing a State Department report, said Cuba intends to use militant groups to counter the United States."
+    },
     {
       "id": "5020624",
       "time": "2026-08-02 09:22:17",
