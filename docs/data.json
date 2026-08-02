@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-02 23:06:12",
-  "count": 17936,
+  "updated": "2026-08-02 23:10:16",
+  "count": 17934,
   "items": [
+    {
+      "id": "mkt:019fc304-ad2e-7aab-8f47-7ae30d13a899",
+      "time": "2026-08-02 23:08:11",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry said it struck infrastructure at the Ukrainian port of Mykolaiv and attacked two cargo ships carrying supplies to Ukrainian armed forces, as well as a seagoing tug used to deploy underwater drones."
+    },
+    {
+      "id": "5020954",
+      "time": "2026-08-02 23:06:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "索尼新《蜘蛛俠》電影美加地區開畫票房3.55億美元。"
+    },
+    {
+      "id": "5020953",
+      "time": "2026-08-02 23:05:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【海灣國家對美國缺乏針對伊朗的戰略感到沮喪】海灣國家對美國缺乏針對伊朗的戰略感到沮喪。美國在海灣的盟友要求華盛頓向它們提供更多防空攔截器，並保證美國軍隊將在打擊交換持續的情況下保護它們。並非所有海灣國家都在推動緩和緊張局勢。其中一些國家，包括阿聯酋，在最近幾天與特朗普接觸，試圖說服他採取更強硬的措施對抗伊朗。與此同時，一名伊朗外交官表示，如果外交努力失敗，革命衛隊正在考慮進行先發制人的攻擊。"
+    },
     {
       "id": "5020952",
       "time": "2026-08-02 23:02:42",
@@ -166185,58 +166213,6 @@
         "MKT News"
       ],
       "text": "An official at Israel’s Prime Minister’s Office said any international forces entering Gaza must obtain separate approval from each of the prime minister, the defense minister and the foreign minister."
-    },
-    {
-      "id": "mkt:019f9ef9-d5b2-7aab-8e9a-d7f3939f01fe",
-      "time": "2026-07-26 23:10:00",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact mixed",
-        "WTI",
-        "DXY"
-      ],
-      "text": "An Israeli Prime Minister's Office official said international forces will operate outside the Gaza yellow line under full coordination with the Israeli military."
-    },
-    {
-      "id": "mkt:019f9ef9-a47c-7aab-8e9a-c9410cbf3733",
-      "time": "2026-07-26 23:09:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An Israeli Prime Minister's Office official said Israel has agreed to allow a peacekeeping commission and international forces into Gaza, as stipulated in Trump's plan."
-    },
-    {
-      "id": "mkt:019f9ef8-f979-7aab-8e9a-c73a6327bf6f",
-      "time": "2026-07-26 23:09:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "An official in Israel's Prime Minister's Office said Israel will maintain control of the Gaza \"yellow line\" area unless Hamas and the Gaza Strip are disarmed."
-    },
-    {
-      "id": "mkt:019f9ef7-b7ee-7aab-8e9a-bb0eacbb3093",
-      "time": "2026-07-26 23:07:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CBS News, citing sources, reports the US has paused airstrikes on Iran after Omani officials traveled to Tehran on Friday for talks."
-    },
-    {
-      "id": "5008632",
-      "time": "2026-07-26 23:07:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：我方從未謀求在北極製造對立衝突，相反，我們一直邀請各國依據國際法開展合作。"
     }
   ]
 }
