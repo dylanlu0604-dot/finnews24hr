@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-03 03:09:18",
-  "count": 17950,
+  "updated": "2026-08-03 03:29:08",
+  "count": 17945,
   "items": [
+    {
+      "id": "mkt:019fc3e4-ed3f-7aab-8f48-caf722212f6f",
+      "time": "2026-08-03 03:13:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China space station reports smooth progress in first on-orbit two-generation rice cultivation experiment】After more than two months aboard China's space station, Shenzhou-23 crew members Zhu Yangzhu, Zhang Zhiyuan and Li Jiaying are in good health and multiple space science experiments are proceeding as planned; the station's first continuous on-orbit cultivation of two rice generations has progressed smoothly."
+    },
+    {
+      "id": "5021032",
+      "time": "2026-08-03 03:12:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理發言人表示，以色列已就哈馬斯擬議解除武裝計劃向美國表達關切。"
+    },
     {
       "id": "5021031",
       "time": "2026-08-03 03:04:56",
@@ -166324,67 +166340,6 @@
         "國際"
       ],
       "text": "敘利亞領導人：與以色列達成的安全協議若能取得成功，將可為達成全面和平鋪平道路，同時不會損害敘利亞對戈蘭高地的主權權利。"
-    },
-    {
-      "id": "5008701",
-      "time": "2026-07-27 03:28:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "敘利亞領導人：敘利亞正尋求在多國參與下同以色列達成安全協議。"
-    },
-    {
-      "id": "5008700",
-      "time": "2026-07-27 03:27:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆正考慮推行選舉改革，強制投票制度已納入討論議程。"
-    },
-    {
-      "id": "5008699",
-      "time": "2026-07-27 03:18:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國中央司令部司令建議暫停打擊伊朗】美國中央司令部司令布拉德・庫珀建議美方暫停在霍爾木茲海峽周邊針對伊朗的打擊行動，除非華盛頓方面做好進一步升級衝突的準備。他表示，這一輪打擊行動的效果基本已觸達上限。庫珀向美國官員透露，此次軍事行動已大幅削弱伊朗襲擊過往船隻的能力，且美方原定計劃內的絕大多數打擊目標均已完成打擊。"
-    },
-    {
-      "id": "mkt:019f9fdd-2845-7aab-8e9c-1523defdff07",
-      "time": "2026-07-27 03:18:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's foreign ministry said it will never allow the United States to pursue hegemony in the waters of the Arabian Gulf and the Strait of Hormuz."
-    },
-    {
-      "id": "5008698",
-      "time": "2026-07-27 03:15:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：美國副總統萬斯與參謀長聯席會議主席丹·凱恩上將向特朗普總統表達了對美伊衝突持續升級的擔憂，凱恩還警示美軍彈藥儲備已出現短缺。"
-    },
-    {
-      "id": "5008697",
-      "time": "2026-07-27 03:13:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗外交部：伊美間資訊交流及斡旋方活動仍在進行】當地時間7月26日，伊朗外交部發言人巴加埃表示，伊朗與美國之間的資訊交流仍在持續，斡旋方也正繼續開展相關工作。他同時表示，伊美諒解備忘錄並不是一份篇幅冗長、內容複雜的檔案，而是一份僅包含14項條款的簡短諒解備忘錄。國際社會原本期待美國“至少這一次”能夠履行自身承諾，但美國的所作所為公然嚴重違反了該諒解備忘錄的多項內容，使外交努力“第三次遭到背棄”。"
-    },
-    {
-      "id": "5008696",
-      "time": "2026-07-27 03:09:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：美國副總統萬斯週五就戰事升級問題向特朗普表達了擔憂。"
     }
   ]
 }
