@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-02 23:57:40",
-  "count": 17917,
+  "updated": "2026-08-03 00:02:00",
+  "count": 17915,
   "items": [
+    {
+      "id": "5020968",
+      "time": "2026-08-02 23:57:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "麥格理將東鵬飲料A股評級下調至中性，目標價119元人民幣。"
+    },
     {
       "id": "5020967",
       "time": "2026-08-02 23:51:41",
@@ -166053,34 +166061,6 @@
         "國際"
       ],
       "text": "伊朗外長：澤連斯基受以色列指使襲擊伊朗商船，企圖將歐洲拖入（中東）戰火。"
-    },
-    {
-      "id": "mkt:019f9f29-5253-7aab-8e9b-3f61394231b0",
-      "time": "2026-07-27 00:01:53",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Israel's security cabinet approved exemption measures allowing an international stabilization force to enter Gaza areas not under Israeli control."
-    },
-    {
-      "id": "5008657",
-      "time": "2026-07-27 00:01:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列安全內閣批准加沙國際穩定部隊享有“豁免權”，允許該部隊進入以色列控制範圍外的區域。"
-    },
-    {
-      "id": "5008656",
-      "time": "2026-07-26 23:59:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大將以觀察員身份加入英國、日本、義大利聯合開展的下一代戰鬥機專案。"
     }
   ]
 }
