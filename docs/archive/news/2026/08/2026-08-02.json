@@ -1,7 +1,30 @@
 {
   "date": "2026-08-02",
-  "count": 503,
+  "count": 505,
   "items": [
+    {
+      "id": "mkt:019fc261-850b-7aab-8f46-eba89e41e163",
+      "time": "2026-08-02 20:09:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC+'s Joint Ministerial Monitoring Committee (JMMC) expressed concern about attacks targeting energy infrastructure."
+    },
+    {
+      "id": "mkt:019fc261-4252-7aab-8f46-e711e50f0d46",
+      "time": "2026-08-02 20:09:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "OPEC+ joint ministerial monitoring committee (JMMC) met on Sunday and stressed protecting international sea lanes to ensure uninterrupted energy flows."
+    },
     {
       "id": "5020899",
       "time": "2026-08-02 20:07:32",
