@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-02 09:46:17",
-  "count": 17945,
+  "updated": "2026-08-02 09:50:31",
+  "count": 17946,
   "items": [
+    {
+      "id": "mkt:019fc029-620b-7aab-8f44-922f447be932",
+      "time": "2026-08-02 09:49:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rubio: Rebuilding Venezuela requires multi-step roadmap beyond ousting Maduro】US Secretary of State Rubio told Fox News rebuilding Venezuela is not limited to ousting President Maduro and requires a multi-step roadmap: first stabilise the country to prevent further unrest and large-scale migration; next pursue economic recovery and measures to attract investment; and finally hold legitimate democratic elections. He said durable peace after more than 25 years of political division will require national reconciliation."
+    },
+    {
+      "id": "mkt:019fc028-4cd9-7aab-8f44-89350e9e14a5",
+      "time": "2026-08-02 09:48:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Rubio: Iran has never faced a U.S. president like Trump; era of consequence-free negotiations over】U.S. Secretary of State Rubio said in a Fox News interview this weekend that under President Trump Iran is facing a fundamentally different U.S. president and can no longer expect to negotiate without consequences. Rubio said Iran \"has never faced a U.S. president like President Trump — a man who actually takes action,\" and accused Tehran of relying for decades on global leniency to lie, renege on agreements and deceive negotiators. The White House said that after alleged Iranian attacks on commercial shipping and U.S. forces following a memorandum of understanding, Iran \"will continue to pay\" until it returns to talks in a way President Trump deems \"meaningful.\""
+    },
     {
       "id": "5020632",
       "time": "2026-08-02 09:45:24",
@@ -166226,14 +166246,6 @@
         "其他"
       ],
       "text": "【深圳市分割槽暴雨黃色預警訊號升級為橙色】過去3小時，南山區、光明區、深圳灣和寶安區（石巖街道）已出現強降雨，預計未來強降水持續，深圳市氣象臺2026年07月26日07時55分將上述區域暴雨黃色預警訊號升級為橙色，全市進入暴雨防禦狀態，請遠離低窪易澇等危險區域，上述區域山洪風險較大，注意防禦暴雨可能引發的區域性內澇、山洪、滑坡、泥石流等災害。"
-    },
-    {
-      "id": "5008262",
-      "time": "2026-07-26 09:47:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海釋出中心城區高溫黃色預警】上海市氣象臺7月26日9時40分發布中心城區高溫黃色預警訊號：預計今天中心城區大部的最高氣溫將超過35℃，請注意用火用電安全，做好防暑防曬工作。"
     }
   ]
 }
