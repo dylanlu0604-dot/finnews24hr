@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03 02:45:23",
-  "count": 17958,
+  "updated": "2026-08-03 02:49:22",
+  "count": 17956,
   "items": [
     {
       "id": "mkt:019fc3c9-7ef9-7aab-8f48-c5d54a095d43",
@@ -166435,25 +166435,6 @@
         "其他"
       ],
       "text": "白宮公佈將於7月28日前往秘魯的美方代表團完整名單。"
-    },
-    {
-      "id": "5008688",
-      "time": "2026-07-27 02:48:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "歐洲太空公司The Exploration Company Gmbh正洽談籌資至少3億美元，估值20億美元。"
-    },
-    {
-      "id": "mkt:019f9fc0-7fcc-7aab-8e9c-01af3178d8c4",
-      "time": "2026-07-27 02:47:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【SpaceX European rival The Exploration Company in talks to raise $300m】The Exploration Company GmbH is negotiating to raise at least $300m, including part of the financing from the EU’s European Scale‑up Fund, in a deal that would value the company at over $2bn. The round is not finalised and is earmarked to support development of Europe’s first reusable space capsule to ferry cargo to the ISS and planned successor stations. The company previously raised about $160m in 2024 with French and German government‑backed support, funding development of its Nyx reusable capsule."
     }
   ]
 }
