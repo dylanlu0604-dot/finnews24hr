@@ -1,7 +1,43 @@
 {
   "date": "2026-08-02",
-  "count": 141,
+  "count": 145,
   "items": [
+    {
+      "id": "5020617",
+      "time": "2026-08-02 09:05:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版實時資料，截至8月2日8時51分，影片《八仙！》票房突破11億。"
+    },
+    {
+      "id": "5020616",
+      "time": "2026-08-02 09:05:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本熊本強震死亡人數升至38人】據熊本縣政府今天（8月2日）訊息，包括仍在進行關聯性調查的死者在內，7月28日發生的熊本地震造成的死亡人數已上升至38人。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019fc000-99f0-7aab-8f44-3de563280185",
+      "time": "2026-08-02 09:04:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reported a M5.0 earthquake off the eastern coast of Honshu, Japan, at a depth of 48.4 km."
+    },
+    {
+      "id": "mkt:019fbffe-7194-7aab-8f44-35039b1d74ba",
+      "time": "2026-08-02 09:02:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Expert says US threat to bomb Iranian energy infrastructure could escalate tensions】Middle East specialist Wang Jin says reported US and Israeli plans to strike Iran's energy infrastructure appear aimed at forcing Tehran back to the negotiating table and extracting greater concessions. He warns such strikes would likely escalate tensions. Wang adds he doubts the threats will be carried out; Iran has so far withstood attacks and can retaliate, so sustained US strikes are unlikely to break the current stalemate."
+    },
     {
       "id": "5020615",
       "time": "2026-08-02 09:00:45",
