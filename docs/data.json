@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-02 22:42:36",
+  "updated": "2026-08-02 22:46:58",
   "count": 17934,
   "items": [
+    {
+      "id": "5020945",
+      "time": "2026-08-02 22:45:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月02日22時37分在青海海南州興海縣（北緯35.36度，東經99.51度）發生3.6級地震，震源深度10千米。"
+    },
+    {
+      "id": "5020944",
+      "time": "2026-08-02 22:44:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦警方2日說，該國西北部開伯爾－普什圖省一警局附近發生爆炸，造成至少7人死亡、18人受傷。（新華社）"
+    },
+    {
+      "id": "mkt:019fc2ee-b4d1-7aab-8f47-656b2d03c98f",
+      "time": "2026-08-02 22:44:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Dongwu Securities: U.S. consumer delinquency rates near highs do not imply broad, sustained deterioration】Dongwu Securities says U.S. consumer credit delinquency rates have risen since the pandemic, with auto-loan and credit-card delinquencies near historic highs. The firm attributes much of the headline rise to technical factors — changes in statistical coverage and credit-rating migration — which amplify measured delinquency severity; alternative metrics such as new-delinquency (new-roll) rates do not show a broad, sustained deterioration in U.S. household credit. Still, Dongwu warns of persistent structural risk concentrated in subprime borrowers and lower-income households, leaving the lower end of a K-shaped recovery as a continuing vulnerability until full economic rebound."
+    },
     {
       "id": "5020943",
       "time": "2026-08-02 22:41:34",
@@ -166189,30 +166215,6 @@
         "國際"
       ],
       "text": "美國國家颶風中心：吉納維芙颶風強度持續快速增強。"
-    },
-    {
-      "id": "5008626",
-      "time": "2026-07-26 22:46:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【越南籍船舶南沙海域沉沒 我向越轉交41名獲救人員】記者從海南省三沙市獲悉，越南籍船舶“KHOI NGUYEN 18”在南沙永暑礁附近海域遇險沉沒，截至26日21時，已有46人獲救（含越方救助1人）。20時05分，我方已將救起的41名遇險人員轉交越方，剩餘4名遇險人員計劃明天轉交。（新華社）"
-    },
-    {
-      "id": "5008625",
-      "time": "2026-07-26 22:45:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，福斯托颶風將持續逐步減弱，預計本週夏威夷群島部分割槽域將遭遇巨浪。"
-    },
-    {
-      "id": "5008624",
-      "time": "2026-07-26 22:45:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： 蘭多・諾里斯代表邁凱倫車隊奪得 F1 匈牙利大獎賽冠軍。"
     }
   ]
 }

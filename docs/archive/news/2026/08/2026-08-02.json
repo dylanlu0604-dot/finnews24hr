@@ -1,7 +1,33 @@
 {
   "date": "2026-08-02",
-  "count": 561,
+  "count": 564,
   "items": [
+    {
+      "id": "5020945",
+      "time": "2026-08-02 22:45:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月02日22時37分在青海海南州興海縣（北緯35.36度，東經99.51度）發生3.6級地震，震源深度10千米。"
+    },
+    {
+      "id": "5020944",
+      "time": "2026-08-02 22:44:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦警方2日說，該國西北部開伯爾－普什圖省一警局附近發生爆炸，造成至少7人死亡、18人受傷。（新華社）"
+    },
+    {
+      "id": "mkt:019fc2ee-b4d1-7aab-8f47-656b2d03c98f",
+      "time": "2026-08-02 22:44:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Dongwu Securities: U.S. consumer delinquency rates near highs do not imply broad, sustained deterioration】Dongwu Securities says U.S. consumer credit delinquency rates have risen since the pandemic, with auto-loan and credit-card delinquencies near historic highs. The firm attributes much of the headline rise to technical factors — changes in statistical coverage and credit-rating migration — which amplify measured delinquency severity; alternative metrics such as new-delinquency (new-roll) rates do not show a broad, sustained deterioration in U.S. household credit. Still, Dongwu warns of persistent structural risk concentrated in subprime borrowers and lower-income households, leaving the lower end of a K-shaped recovery as a continuing vulnerability until full economic rebound."
+    },
     {
       "id": "5020943",
       "time": "2026-08-02 22:41:34",
