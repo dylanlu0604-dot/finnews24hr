@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-02 23:14:16",
-  "count": 17934,
+  "updated": "2026-08-02 23:18:10",
+  "count": 17937,
   "items": [
+    {
+      "id": "5020958",
+      "time": "2026-08-02 23:16:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國華盛頓州多處重大野火持續肆虐，已有數百棟建築被毀。"
+    },
+    {
+      "id": "5020957",
+      "time": "2026-08-02 23:14:48",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日本正快速減持美國國債】過去三個月，日本減持規模達960億美元，持倉降至1.14萬億美元，為2025年4月以來最低水平。"
+    },
+    {
+      "id": "mkt:019fc30a-208a-7aab-8f47-8b40cc6d3541",
+      "time": "2026-08-02 23:14:08",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bearish"
+      ],
+      "text": "American Airlines cancels all flights from New York to Israel's Ben Gurion Airport through March 2027."
+    },
+    {
+      "id": "5020956",
+      "time": "2026-08-02 23:13:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙休達市長稱，桑切斯政府在從休達遣返非法移民的人數問題上撒謊。他表示，仍有10000至15000名非法移民露宿休達街頭，其中不少人在海灘搭建臨時營地。"
+    },
     {
       "id": "mkt:019fc308-1425-7aab-8f47-81db6c87c71b",
       "time": "2026-08-02 23:11:54",
@@ -166205,14 +166241,6 @@
         "MKT News"
       ],
       "text": "Israel Defense Forces says it has neutralized Hamam Eid, commander of Hamas's central-camp UAV unit. The IDF said Eid had recently been violating the ceasefire while working to restore and strengthen Hamas's aerial combat capability."
-    },
-    {
-      "id": "mkt:019f9efe-90d6-7aab-8e9a-ed71810fd302",
-      "time": "2026-07-26 23:15:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Islamic Revolutionary Guard Corps (IRGC) said controlled explosions may be heard in the eastern area of Abadan port on Monday between 08:00 and 12:00; residents were told there is no cause for concern."
     }
   ]
 }
