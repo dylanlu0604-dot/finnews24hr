@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-03 02:09:35",
+  "updated": "2026-08-03 02:13:29",
   "count": 17950,
   "items": [
+    {
+      "id": "5021017",
+      "time": "2026-08-03 02:11:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖：伊朗和伊拉克是兩個緊密相連的民族，彼此相連。"
+    },
     {
       "id": "5021016",
       "time": "2026-08-03 02:08:04",
@@ -166381,14 +166389,6 @@
         "其他"
       ],
       "text": "市場資訊：伊拉克總理將於下週四訪問沙烏地阿拉伯。"
-    },
-    {
-      "id": "mkt:019f9f9f-f55f-7aab-8e9b-df2269a573b6",
-      "time": "2026-07-27 02:11:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraqi prime minister to visit Saudi Arabia next Thursday, Al Arabiya reports."
     }
   ]
 }
