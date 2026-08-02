@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-03 03:45:39",
-  "count": 17946,
+  "updated": "2026-08-03 04:02:10",
+  "count": 17952,
   "items": [
+    {
+      "id": "5021041",
+      "time": "2026-08-03 03:45:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【下週美股財報提醒】週一（8月3日），Palantir、安森美半導體等將釋出業績報告；週二，SpaceX、AMD、卡特彼勒等將釋出業績報告；週三，諾和諾德、閃迪、西部資料、迪士尼等釋出業績報告。"
+    },
+    {
+      "id": "mkt:019fc3ff-0c0d-7aab-8f49-077576079da2",
+      "time": "2026-08-03 03:41:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【3.3-magnitude quake in Gaoxian County, Yibin (Sichuan); depth 5 km】cenc recorded a 3.3-magnitude earthquake at 03:29 on Aug 3 in Gaoxian County, Yibin, Sichuan (28.55N, 104.67E); hypocenter depth 5 km."
+    },
+    {
+      "id": "mkt:019fc3fb-129b-7aab-8f48-fe058c22ceae",
+      "time": "2026-08-03 03:37:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Morocco's interior ministry said Spain's recent ruling restricting maritime interception and immediate repatriation has encouraged some potential migrants to attempt crossings."
+    },
+    {
+      "id": "5021040",
+      "time": "2026-08-03 03:36:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "摩洛哥內政部稱，10人在大規模越境進入休達事件中喪生。"
+    },
+    {
+      "id": "5021039",
+      "time": "2026-08-03 03:35:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "摩洛哥內政部表示，西班牙近期限制海上攔截立即遣返的裁決，助長了部分潛在移民的嘗試意願。"
+    },
+    {
+      "id": "mkt:019fc3f9-cac0-7aab-8f48-f3ff24d237aa",
+      "time": "2026-08-03 03:35:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Morocco's Interior Ministry said it will continue coordinating with Spain to combat illegal migration and secure the border."
+    },
+    {
+      "id": "mkt:019fc3f8-7008-7aab-8f48-e808f54079d4",
+      "time": "2026-08-03 03:34:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Morocco's Interior Ministry blamed social-media misinformation and human traffickers for a surge in migrants to Ceuta, saying about 40,000 people attempted to cross into the Spanish enclave."
+    },
+    {
+      "id": "5021038",
+      "time": "2026-08-03 03:33:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "摩洛哥內政部表示，約4萬人試圖進入西班牙飛地休達，另有約1135人試圖進入梅利利亞。"
+    },
     {
       "id": "5021037",
       "time": "2026-08-03 03:32:01",
@@ -166343,22 +166407,6 @@
         "國際"
       ],
       "text": "特朗普：我們的彈藥儲備遠超全球任何國家，也遠遠超出本國實際需求。"
-    },
-    {
-      "id": "5008706",
-      "time": "2026-07-27 03:46:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：要讓敵人夜夜難安、心生恐懼。"
-    },
-    {
-      "id": "mkt:019f9ff6-6fde-7aab-8e9c-3513633c735f",
-      "time": "2026-07-27 03:45:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Wall Street Journal: Trump denied the U.S. faces an ammunition shortage, saying U.S. stockpiles exceed those of any other country and surpass actual operational demand."
     }
   ]
 }
