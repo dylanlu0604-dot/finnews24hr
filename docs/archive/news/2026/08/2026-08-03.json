@@ -1,7 +1,44 @@
 {
   "date": "2026-08-03",
-  "count": 117,
+  "count": 121,
   "items": [
+    {
+      "id": "mkt:019fc414-8fc2-7aab-8f49-0a03053380eb",
+      "time": "2026-08-03 04:05:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Netanyahu learned via President Trump's social-media post that the U.S. halted planned strikes on Iran】Multiple Israeli officials said Israel was excluded from the U.S. decision for hours and was unaware the U.S. had canceled planned strikes on Iran. A senior Israeli official said, \"For several hours we were in a complete information vacuum and uncertainty; President Trump left us in the fog. Senior officers only learned of the latest developments from the president's personal social-media post.\""
+    },
+    {
+      "id": "5021044",
+      "time": "2026-08-03 04:04:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以稱內塔尼亞胡透過特朗普社媒得知美叫停對伊打擊】多名以色列官員稱，在美國取消針對伊朗的既定襲擊計劃前，以方被排除在決策資訊之外長達數小時，對美方取消行動的決定毫不知情。一名以色列高階官員說，“有幾個小時，我們處於完全的資訊真空與不確定之中，特朗普總統讓我們陷入了迷霧。高階軍官們甚至是透過特朗普的個人社交媒體帖文，才獲悉最新的事態進展”。"
+    },
+    {
+      "id": "5021043",
+      "time": "2026-08-03 03:57:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月03日03時54分在四川宜賓市高縣（北緯28.55度，東經104.66度）發生3.3級地震，震源深度6千米。"
+    },
+    {
+      "id": "5021042",
+      "time": "2026-08-03 03:50:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "摩洛哥內政部稱，在試圖大規模越境進入休達期間，有10人溺水身亡，另有1人墜崖死亡。"
+    },
     {
       "id": "5021041",
       "time": "2026-08-03 03:45:38",
