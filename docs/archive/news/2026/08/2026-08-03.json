@@ -1,7 +1,23 @@
 {
   "date": "2026-08-03",
-  "count": 137,
+  "count": 139,
   "items": [
+    {
+      "id": "5021058",
+      "time": "2026-08-03 04:56:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員舒默就臨時撥款法案表態：今日公佈的持續決議案是穩妥可行的方案。"
+    },
+    {
+      "id": "mkt:019fc443-7612-7aab-8f49-2c545ab4f4d5",
+      "time": "2026-08-03 04:56:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SCHUMER said the continuing resolution released today is the responsible choice."
+    },
     {
       "id": "5021057",
       "time": "2026-08-03 04:49:06",

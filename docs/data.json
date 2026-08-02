@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-03 05:08:16",
+  "updated": "2026-08-03 05:24:49",
   "count": 17959,
   "items": [
+    {
+      "id": "5021058",
+      "time": "2026-08-03 04:56:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員舒默就臨時撥款法案表態：今日公佈的持續決議案是穩妥可行的方案。"
+    },
+    {
+      "id": "mkt:019fc443-7612-7aab-8f49-2c545ab4f4d5",
+      "time": "2026-08-03 04:56:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SCHUMER said the continuing resolution released today is the responsible choice."
+    },
     {
       "id": "5021057",
       "time": "2026-08-03 04:49:06",
@@ -166437,30 +166453,6 @@
         "其他"
       ],
       "text": "香港天文臺釋出黃色暴雨警告。"
-    },
-    {
-      "id": "mkt:019fa04c-35fe-7aab-8e9c-80640b242f4a",
-      "time": "2026-07-27 05:19:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【CENTCOM commander urged pause in strikes near Strait of Hormuz, called continued airstrikes \"meaningless\"】Admiral Cooper, commander of U.S. Central Command, advised pausing strikes near the Strait of Hormuz, Axios reports. His recommendation to the Pentagon, the Joint Chiefs and the White House helped persuade President Trump to suspend planned strikes on Iran on Friday. Cooper told officials two weeks of strikes had significantly degraded Iran’s ability to attack ships and that most designated targets had been struck. He said roughly 20% of targets assigned in the \"Epic Fury\" operation remain unstruck and that the next step could be resuming large-scale operations to complete them. Cooper warned that continuing the recent air campaign without deciding to resume large-scale operations would be \"meaningless.\" Military and civilian advisers told the president gains achievable by military action, particularly air power, are limited."
-    },
-    {
-      "id": "mkt:019fa045-5cd1-7aab-8e9c-79ac44691f75",
-      "time": "2026-07-27 05:12:07",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "At the FX open, the dollar index (DXY) fell 0.16% to 101.31; AUD/USD rose 0.23%; USD/JPY fell 0.16%; EUR/USD rose 0.18%."
     }
   ]
 }
