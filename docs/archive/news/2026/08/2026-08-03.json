@@ -1,7 +1,23 @@
 {
   "date": "2026-08-03",
-  "count": 52,
+  "count": 54,
   "items": [
+    {
+      "id": "mkt:019fc381-f390-7aab-8f48-4a58bcb97ece",
+      "time": "2026-08-03 01:25:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Broadcasting Corporation reported an Israeli official said Trump's handling of affairs makes serious preparation and planning for the future difficult."
+    },
+    {
+      "id": "5021001",
+      "time": "2026-08-03 01:24:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：一名以色列官員稱，以特朗普處理事務的方式，很難認真地為未來做好準備與規劃。"
+    },
     {
       "id": "5021000",
       "time": "2026-08-03 01:17:08",
