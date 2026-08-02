@@ -1,7 +1,15 @@
 {
   "date": "2026-08-02",
-  "count": 476,
+  "count": 477,
   "items": [
+    {
+      "id": "mkt:019fc235-05be-7aab-8f46-998f369b684e",
+      "time": "2026-08-02 19:21:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukrainian e-commerce warehouse struck; no casualties】On Aug 2, a major Ukrainian e-commerce platform said its main distribution warehouse in Brovary, Kyiv region, was struck by Russian drone attacks for the second time within 24 hours. The company reported no casualties and said operations and customer services were uninterrupted. It described the repeated strikes as targeted attacks on its logistics infrastructure; Russia had no immediate comment."
+    },
     {
       "id": "5020880",
       "time": "2026-08-02 19:19:57",
