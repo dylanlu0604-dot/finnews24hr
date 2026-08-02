@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-03 04:18:43",
-  "count": 17954,
+  "updated": "2026-08-03 04:35:14",
+  "count": 17952,
   "items": [
+    {
+      "id": "5021047",
+      "time": "2026-08-03 04:16:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "奧迪釋出全新Q9三排座SUV，主攻美國市場，定位品牌旗艦車型。"
+    },
+    {
+      "id": "5021046",
+      "time": "2026-08-03 04:10:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國地震局啟動四級應急響應 現場工作隊趕赴震區】據中國地震臺網正式測定，2026年8月3日2時21分，在四川宜賓市高縣（北緯28.54度，東經104.67度）發生4.8級地震，震源深度6公里。地震發生後，中國地震局迅速啟動四級應急響應，排程中國地震臺網中心、四川省地震局開展應急處置，要求有關單位開展聯合會商，加強震情監測和震後趨勢研判，及時報告有關情況。目前，四川省地震局已派出現場工作隊趕赴震區，協助地方政府開展應急處置工作。（央視新聞）"
+    },
+    {
+      "id": "5021045",
+      "time": "2026-08-03 04:06:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "日本財務大臣：將於週一宣佈東京與華盛頓採取聯合行動遏制日元貶值。"
+    },
     {
       "id": "mkt:019fc414-8fc2-7aab-8f49-0a03053380eb",
       "time": "2026-08-03 04:05:09",
@@ -166385,49 +166410,6 @@
         "Impact bullish"
       ],
       "text": "【Trump posts AI \"victory\" images during reported ceasefire; Iranian state media says he's buying virtual \"firepower\"】US President Trump posted AI-generated images on social media on Sunday local time showing US forces bombing Iran's Hormuz Island and seizing an Iranian tanker, timed to a reported temporary ceasefire with no attacks in the prior 48 hours. Iranian state-run Press TV, citing US media reports of strained US munitions stocks, said Trump appears to be investing in virtual \"firepower\" by commissioning AI imagery."
-    },
-    {
-      "id": "mkt:019fa01d-5855-7aab-8e9c-53079d6b3108",
-      "time": "2026-07-27 04:28:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Cuban president calls U.S. blockade 'cruelly planned genocide'】Cuban President Miguel Díaz-Canel on the 26th condemned the U.S. blockade as criminal, said Cuba poses no threat to the U.S. or any other country, and described Cuba as a victim of a U.S. policy he called a 'cruelly planned genocide'."
-    },
-    {
-      "id": "5008709",
-      "time": "2026-07-27 04:23:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古巴國家主席：美對古封鎖是“殘酷策劃的種族滅絕”】古巴國家主席迪亞斯-卡內爾26日譴責美國對古巴封鎖是犯罪行為，並表示古巴不對美國或世界上任何其他國家構成威脅，是美國“殘酷策劃的種族滅絕”政策受害者。（新華社）"
-    },
-    {
-      "id": "mkt:019fa017-660a-7aab-8e9c-4bf5ad46a691",
-      "time": "2026-07-27 04:21:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatari PM and foreign minister Mohammed reaffirmed Qatar's full support for efforts to defuse tensions and reach a comprehensive agreement to secure sustainable peace in the region."
-    },
-    {
-      "id": "mkt:019fa017-5ee8-7aab-8e9c-406180a417f1",
-      "time": "2026-07-27 04:21:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Qatar foreign ministry said Qatari PM and foreign minister Mohammed, in a call, stressed parties must pursue dialogue and diplomacy and implement the consensus reached under the US‑Iran memorandum framework, including ensuring freedom of navigation in the Strait of Hormuz to safeguard regional security and preserve stability."
-    },
-    {
-      "id": "mkt:019fa017-1eb7-7aab-8e9c-39d0967b115a",
-      "time": "2026-07-27 04:21:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's foreign ministry said QATARI PM and foreign minister Mohammed held a phone call with Oman's foreign minister."
     }
   ]
 }
