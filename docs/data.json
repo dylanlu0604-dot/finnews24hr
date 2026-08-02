@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-02 21:24:53",
-  "count": 17935,
+  "updated": "2026-08-02 21:29:07",
+  "count": 17934,
   "items": [
+    {
+      "id": "5020920",
+      "time": "2026-08-02 21:27:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 截至目前。參議院距離休會開啟夏季假期僅剩 5 天時間用以透過《清晰法案》。"
+    },
     {
       "id": "5020919",
       "time": "2026-08-02 21:20:26",
@@ -166198,26 +166206,6 @@
         "其他"
       ],
       "text": "大連海事局釋出航行警告，7月27日至8月13日每天6時至24時，渤海部分海域進行實彈射擊，禁止駛入。"
-    },
-    {
-      "id": "mkt:019f9e9b-fb34-7aab-8e9a-59db730e713c",
-      "time": "2026-07-26 21:27:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact mixed",
-        "WTI"
-      ],
-      "text": "【Saudi media: Iran says it has not quit talks, willing to resume US negotiations in Geneva, Qatar or Islamabad】Al Arabiya and Saudi outlet Hadas report Iran told Pakistani officials it has not withdrawn from negotiations but has temporarily suspended them and urged resumption of stalled talks. Tehran rejected opening new shipping lanes in the Strait of Hormuz. Iran confirmed to Pakistan it is willing to continue talks with the US in Geneva, Qatar or Islamabad and said negotiations should restart on the Hormuz issue first, followed by frozen funds, then the nuclear file."
-    },
-    {
-      "id": "5008594",
-      "time": "2026-07-26 21:26:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗官員：一艘裡海通行伊朗商船遭襲致1死3傷】據伊朗邁赫爾通訊社26日報道，伊朗吉蘭省省長哈迪·哈格沙納斯表示，一艘伊朗商船日前在伏爾加河通往裡海的港外錨地遭襲，致船上1人死亡、3人受傷。哈格沙納斯說，遭襲船隻上裝載了鋼鐵等貨物，正從俄羅斯阿斯特拉罕港駛往伊朗安扎利港。襲擊導致船舶駕駛臺被完全摧毀，船隻無法繼續航行。他沒有透露這艘船遭遇何種襲擊。伊方有關部門正在對事件展開調查。（新華社）"
     }
   ]
 }
