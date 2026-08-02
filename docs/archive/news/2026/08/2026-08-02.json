@@ -1,7 +1,27 @@
 {
   "date": "2026-08-02",
-  "count": 424,
+  "count": 426,
   "items": [
+    {
+      "id": "mkt:019fc1d7-6c9d-7aab-8f46-3c1a0bbdb534",
+      "time": "2026-08-02 17:39:08",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israel does not intend to halt strikes on Gaza unless Hamas is disarmed, Israel's Channel 12 reports."
+    },
+    {
+      "id": "5020836",
+      "time": "2026-08-02 17:38:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿森松島北部發生 5.0 級地震。"
+    },
     {
       "id": "mkt:019fc1d6-0fbe-7aab-8f46-343c60d71dbd",
       "time": "2026-08-02 17:37:39",

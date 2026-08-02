@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-02 17:38:50",
-  "count": 17925,
+  "updated": "2026-08-02 17:42:57",
+  "count": 17924,
   "items": [
+    {
+      "id": "mkt:019fc1d7-6c9d-7aab-8f46-3c1a0bbdb534",
+      "time": "2026-08-02 17:39:08",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israel does not intend to halt strikes on Gaza unless Hamas is disarmed, Israel's Channel 12 reports."
+    },
+    {
+      "id": "5020836",
+      "time": "2026-08-02 17:38:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿森松島北部發生 5.0 級地震。"
+    },
     {
       "id": "mkt:019fc1d6-0fbe-7aab-8f46-343c60d71dbd",
       "time": "2026-08-02 17:37:39",
@@ -166090,30 +166110,6 @@
         "其他"
       ],
       "text": "【國際紅樹林中心正式執行】記者26日從國家林業和草原局獲悉，國際紅樹林中心第一次理事會會議暨揭牌儀式在深圳舉行，標誌著國際紅樹林中心從全球倡議正式進入實體化執行階段，展現了中國政府在推動全球紅樹林保護政府間協同方面的務實與擔當。 來自國際紅樹林中心的成員國、簽署國和觀察員機構的代表出席第一次理事會，審議透過了戰略計劃、議事規則等系列制度檔案，任命國際紅樹林中心秘書長。國際紅樹林中心秘書處正式落戶深圳。（新華社）"
-    },
-    {
-      "id": "5008493",
-      "time": "2026-07-26 17:42:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【甘肅省渭源縣一景區發生山洪災害，已造成3人遇難】今天，位於甘肅省定西市渭源縣的雙石門景區發生山洪災害，已造成3人遇難，目前仍有人員被困，總檯記者正趕往現場。（央視新聞）"
-    },
-    {
-      "id": "5008491",
-      "time": "2026-07-26 17:39:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【澳門皇家美素力嬰兒奶粉鉛含量超標遭通報，官方最新回應】7月26日訊息，據澳門市政署釋出公告，美素佳兒旗下菲仕蘭公司旗下1批次“皇家美素力®1號嬰兒配方奶粉”被檢出鉛含量0.2mg/kg，超出澳門《食品中重金屬汙染物最高限量》中嬰幼兒配方食品中鉛0.02mg/kg的最高限量要求。目前，“皇家美素力鉛超標”是否也涉及大陸地區相關話題也引發廣泛關注。新浪財經致電美素佳兒大陸地區官方客服問詢，相關客服回應稱：“經過我們的檢測，目前大陸地區產品鉛含量並未超標。”"
-    },
-    {
-      "id": "mkt:019f9dca-c074-7aab-8e99-b4e95a827174",
-      "time": "2026-07-26 17:38:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SANA reported Kuwait on Sunday condemned multiple Houthi attacks on commercial shipping in the Red Sea, including a recent attack on Saudi-operated vessel NCC MASA, saying the strikes violate international law and threaten global maritime security and trade."
     }
   ]
 }
