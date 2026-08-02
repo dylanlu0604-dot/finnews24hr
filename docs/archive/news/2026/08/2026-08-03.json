@@ -1,7 +1,18 @@
 {
   "date": "2026-08-03",
-  "count": 81,
+  "count": 82,
   "items": [
+    {
+      "id": "mkt:019fc3b5-8042-7aab-8f48-9c44fad33687",
+      "time": "2026-08-03 02:21:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Israel questions Hamas disarmament pledge】Israel told the White House it has serious security concerns about a Hamas disarmament agreement. The Israeli prime minister’s office said intelligence assessments indicate Hamas plans to rebuild military capabilities rather than genuinely demilitarize. Israel said it will not withdraw from most of Gaza until Hamas completes disarmament. Hamas said it will begin disarming under Trump’s 20-point ceasefire plan, which calls for surrendering weapons and destroying tunnels and envisages Israeli withdrawal, a new technocratic Palestinian government and international security forces. A large-scale Israeli troop pullback before October elections is unlikely."
+    },
     {
       "id": "5021019",
       "time": "2026-08-03 02:16:15",
