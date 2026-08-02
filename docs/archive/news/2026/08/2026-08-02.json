@@ -1,7 +1,39 @@
 {
   "date": "2026-08-02",
-  "count": 226,
+  "count": 230,
   "items": [
+    {
+      "id": "mkt:019fc0b3-81f1-7aab-8f45-19fed743b568",
+      "time": "2026-08-02 12:20:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian diplomat says Ukraine is transferring some Western-supplied weapons to conflict zones in Asia, the Middle East and Africa."
+    },
+    {
+      "id": "mkt:019fc0b3-5b35-7aab-8f45-1526483fa705",
+      "time": "2026-08-02 12:20:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian diplomat says Ukraine has fueled global black-market arms trade."
+    },
+    {
+      "id": "mkt:019fc0b2-c314-7aab-8f45-0c0dba765e01",
+      "time": "2026-08-02 12:19:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Western US heatwave raises wildfire risk, NWS says】The NWS forecast on Aug. 1 that an extreme heatwave will sweep the western United States this weekend, with temperatures likely topping 40°C in many areas. The agency warned the event, combined with preceding prolonged heat and dry conditions, could further elevate wildfire risk. National Interagency Fire Center data on Aug. 1 showed 84 large wildfires burning nationwide, the majority in the West, with more than 26,000 firefighters and support personnel engaged in suppression efforts."
+    },
+    {
+      "id": "5020674",
+      "time": "2026-08-02 12:18:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀河證券：Kimi K3正式開源重塑大模型商業生態 建議關注國產超節點及產業鏈相關公司】銀河證券研報指出，Kimi K3上線後僅48小時，請求量便把現有叢集打滿，隨後Kimi宣佈暫停C端新使用者會員訂閱，驗證Kimi K3模型能力突出與算力緊缺。銀河證券認為，Kimi K3並非抑制算力需求，一方面國產開源模型的能力逼近全球頂級閉源模型，倒逼頂級大模型廠商透過更大規模的訓練以及更快的迭代來維持差異化，另一方面持續引爆推理算力需求，當前Kimi K3已實現與多家國產算力平臺的‌Day 0極速適配，拉動國產超節點的需求，進而推動產業鏈中伺服器、交換機、光模組、液冷、電源等國產算力產業鏈環節配套需求，建議關注國產超節點及產業鏈相關公司。"
+    },
     {
       "id": "5020673",
       "time": "2026-08-02 12:03:48",

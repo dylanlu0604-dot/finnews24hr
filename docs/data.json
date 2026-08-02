@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-02 12:13:17",
+  "updated": "2026-08-02 12:20:46",
   "count": 17914,
   "items": [
+    {
+      "id": "mkt:019fc0b3-81f1-7aab-8f45-19fed743b568",
+      "time": "2026-08-02 12:20:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian diplomat says Ukraine is transferring some Western-supplied weapons to conflict zones in Asia, the Middle East and Africa."
+    },
+    {
+      "id": "mkt:019fc0b3-5b35-7aab-8f45-1526483fa705",
+      "time": "2026-08-02 12:20:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian diplomat says Ukraine has fueled global black-market arms trade."
+    },
+    {
+      "id": "mkt:019fc0b2-c314-7aab-8f45-0c0dba765e01",
+      "time": "2026-08-02 12:19:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Western US heatwave raises wildfire risk, NWS says】The NWS forecast on Aug. 1 that an extreme heatwave will sweep the western United States this weekend, with temperatures likely topping 40°C in many areas. The agency warned the event, combined with preceding prolonged heat and dry conditions, could further elevate wildfire risk. National Interagency Fire Center data on Aug. 1 showed 84 large wildfires burning nationwide, the majority in the West, with more than 26,000 firefighters and support personnel engaged in suppression efforts."
+    },
+    {
+      "id": "5020674",
+      "time": "2026-08-02 12:18:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀河證券：Kimi K3正式開源重塑大模型商業生態 建議關注國產超節點及產業鏈相關公司】銀河證券研報指出，Kimi K3上線後僅48小時，請求量便把現有叢集打滿，隨後Kimi宣佈暫停C端新使用者會員訂閱，驗證Kimi K3模型能力突出與算力緊缺。銀河證券認為，Kimi K3並非抑制算力需求，一方面國產開源模型的能力逼近全球頂級閉源模型，倒逼頂級大模型廠商透過更大規模的訓練以及更快的迭代來維持差異化，另一方面持續引爆推理算力需求，當前Kimi K3已實現與多家國產算力平臺的‌Day 0極速適配，拉動國產超節點的需求，進而推動產業鏈中伺服器、交換機、光模組、液冷、電源等國產算力產業鏈環節配套需求，建議關注國產超節點及產業鏈相關公司。"
+    },
     {
       "id": "5020673",
       "time": "2026-08-02 12:03:48",
@@ -165952,40 +165984,6 @@
         "其他"
       ],
       "text": "【奇瑞稱2000萬輛後不再內卷】“2000萬輛之後，我們不再參加內卷，我們不再只追求銷量，而是要追求品牌向上，追求價值更大的創造，追求技術更多的突破，追求客戶滿意度更大的提升。”7月25日，奇瑞汽車董事長尹同躍在風雲A9全球上市釋出會上這樣說道。（第一財經）"
-    },
-    {
-      "id": "5008336",
-      "time": "2026-07-26 12:20:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "《上合組織合作的成就、機遇與展望》即將釋出。（新華社）"
-    },
-    {
-      "id": "5008335",
-      "time": "2026-07-26 12:16:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【伊朗全國水庫整體蓄水率達63%】伊朗國家水務公司週日表示，儘管德黑蘭、馬什哈德、阿拉克等多座主要城市長期缺水，但暫無實施限水供應的計劃。國家給排水工程公司發言人阿里·賽義德扎德稱，目前全國水庫整體蓄水率達63%，總蓄水量約320億立方米。伊朗勞工新聞通訊社訊息稱，雖然全國整體水資源儲備有所回升，但供給德黑蘭的水庫蓄水率僅30%，首都缺水問題依舊嚴峻。"
-    },
-    {
-      "id": "5008334",
-      "time": "2026-07-26 12:15:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明：我們將前往充滿熱情與富饒的南美大陸。我們的首站是巴西。希望透過此次訪問，我們能進一步鞏固兩國間的互信，共同創造出讓兩國民眾都能切實感受到成果的合作佳績。"
-    },
-    {
-      "id": "5008333",
-      "time": "2026-07-26 12:14:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【鄭義宣：現代汽車正突破傳統汽車製造邊界】韓國現代汽車集團會長鄭義宣提出實體人工智慧發展願景：從汽車、機器人等各類裝置智慧化起步，最終實現整座城市一體化智慧運營。鄭義宣表示：“現代汽車集團正突破傳統汽車製造的邊界，轉型為覆蓋自動駕駛、機器人技術、人工智慧智慧工廠等領域的實體人工智慧綜合解決方案企業。”他提出的實體人工智慧願景核心脈絡為：先實現汽車、機器人單臺裝置智慧化；再落地人工智慧工廠，依靠人工智慧將全生產流程有機聯動，完成特定空間智慧化改造；最終拓展至全域城市一體化智慧體系。"
     }
   ]
 }
