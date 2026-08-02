@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-02 23:10:16",
+  "updated": "2026-08-02 23:14:16",
   "count": 17934,
   "items": [
+    {
+      "id": "mkt:019fc308-1425-7aab-8f47-81db6c87c71b",
+      "time": "2026-08-02 23:11:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Explosion near police station in northwest Pakistan kills seven】Pakistan police said an explosion near a police station in Khyber Pakhtunkhwa province on the 2nd killed at least seven people and injured 18."
+    },
+    {
+      "id": "5020955",
+      "time": "2026-08-02 23:11:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦西北部發生爆炸 致7人死亡】巴基斯坦警方當地時間2日說，該國西北部開伯爾-普什圖省一警局附近發生爆炸，造成至少7人死亡、18人受傷。"
+    },
     {
       "id": "mkt:019fc304-ad2e-7aab-8f47-7ae30d13a899",
       "time": "2026-08-02 23:08:11",
@@ -166197,22 +166213,6 @@
         "MKT News"
       ],
       "text": "The Islamic Revolutionary Guard Corps (IRGC) said controlled explosions may be heard in the eastern area of Abadan port on Monday between 08:00 and 12:00; residents were told there is no cause for concern."
-    },
-    {
-      "id": "mkt:019f9efb-239d-7aab-8e9a-e25918cb56cf",
-      "time": "2026-07-26 23:11:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Prime Minister's Office official said international forces currently number about 200 and are drawn from friendly countries."
-    },
-    {
-      "id": "mkt:019f9efa-3220-7aab-8e9a-d954e8d2c51b",
-      "time": "2026-07-26 23:10:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An official at Israel’s Prime Minister’s Office said any international forces entering Gaza must obtain separate approval from each of the prime minister, the defense minister and the foreign minister."
     }
   ]
 }

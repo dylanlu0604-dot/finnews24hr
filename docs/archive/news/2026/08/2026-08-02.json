@@ -1,7 +1,23 @@
 {
   "date": "2026-08-02",
-  "count": 576,
+  "count": 578,
   "items": [
+    {
+      "id": "mkt:019fc308-1425-7aab-8f47-81db6c87c71b",
+      "time": "2026-08-02 23:11:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Explosion near police station in northwest Pakistan kills seven】Pakistan police said an explosion near a police station in Khyber Pakhtunkhwa province on the 2nd killed at least seven people and injured 18."
+    },
+    {
+      "id": "5020955",
+      "time": "2026-08-02 23:11:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦西北部發生爆炸 致7人死亡】巴基斯坦警方當地時間2日說，該國西北部開伯爾-普什圖省一警局附近發生爆炸，造成至少7人死亡、18人受傷。"
+    },
     {
       "id": "mkt:019fc304-ad2e-7aab-8f47-7ae30d13a899",
       "time": "2026-08-02 23:08:11",
