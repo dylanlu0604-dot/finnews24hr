@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-02 17:26:42",
-  "count": 17926,
+  "updated": "2026-08-02 17:30:49",
+  "count": 17925,
   "items": [
+    {
+      "id": "mkt:019fc1ce-5649-7aab-8f46-28b4c651834a",
+      "time": "2026-08-02 17:29:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Israel's N12 chief political analyst says Iran denies any agreement to reopen the Strait of Hormuz and calls published reports claiming such an accord false."
+    },
+    {
+      "id": "5020834",
+      "time": "2026-08-02 17:27:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川釋出地質災害黃色、暴雨藍色預警 48個縣市區風險較高】四川省自然資源廳、四川省氣象局2日聯合釋出地質災害黃色預警（三級預警）：8月2日20時至8月3日20時，四川48個縣市區地質災害風險較高。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fc1cc-5c10-7aab-8f46-20b6ce778aa5",
+      "time": "2026-08-02 17:27:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【China International Capital Co: AI pullback mirrors 2000’s four retracements; stabilization needs three pressures to ease】China International Capital Co (CICC) says global AI-related chains have sold off sharply since mid‑late June, with Korea hardest hit where high leverage, crowding and retail exposure amplified the decline. Drivers include amplified positioning risk, macro shocks (re‑pricing of Fed rate hikes and renewed Strait of Hormuz disruption pushing oil), and renewed froth concerns (eg. cloud compute rentals, falling token spend). CICC notes the tech run-up before the 2000 crash saw at least four large, prolonged pullbacks triggered by similar factors—industry hiccups, macro headwinds and overheated sentiment—and only rebounded once those three pressures eased. By analogy, CICC says market stabilization or a fresh leg higher now requires: substantial digestion of crowding/leverage; relief or resolution of Fed tightening expectations (watch the July FOMC); and new earnings/industry catalysts during the July–August reporting season."
+    },
     {
       "id": "5020833",
       "time": "2026-08-02 17:23:17",
@@ -166079,38 +166113,6 @@
         "其他"
       ],
       "text": "【汕頭中心城區暴雨橙色預警訊號生效 潮陽區防汛應急響應提升為Ⅱ級】7月26日，記者從廣東汕頭市氣象部門瞭解到，受颱風“紅霞”環流影響，預計未來六個小時中心城區及附近海面將有暴雨，最大小時雨量可達30～50毫米，並伴有局地雷暴和7～9級大風。汕頭市氣象臺7月26日14時56分將中心城區暴雨黃色預警訊號升級橙色，請注意防禦。此外，記者從汕頭市潮陽區三防指揮部瞭解到，7月26日16時練江銅盂水閘水位2.05米，超警戒水位0.75米，潮陽氣象臺7月26日13時39分發布潮陽區暴雨橙色預警訊號，14時40分發布貴嶼鎮暴雨紅色預警訊號。 按照《汕頭市潮陽區防汛防旱防風防凍應急預案》有關規定和會商研判，區三防指揮部決定於2026年7月26日16時10分將防汛Ⅲ級應急響應提升為防汛Ⅱ級應急響應。（央視新聞）"
-    },
-    {
-      "id": "5008488",
-      "time": "2026-07-26 17:29:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室：船隻及船員均平安。"
-    },
-    {
-      "id": "mkt:019f9dc2-0315-7aab-8e99-af584e1a10a8",
-      "time": "2026-07-26 17:29:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. munitions consumption in Iran conflict】U.S. forces have expended roughly one-third of pre-conflict stocks of key precision-guided munitions, per ABC News and the Center for Strategic and International Studies. Interceptors were most affected: THAAD spent about 80% of a 360-round stock (≈190–290 rounds); SM-3 used more than half of a 410-round stock (≈130–250 rounds); Patriot interceptors saw ~61% consumption (≈1,060–1,430 of 2,330 rounds). Long-range strike inventories also drew down: more than 1,000 Tomahawk cruise missiles and over 1,100 JASSM long-range air-launched cruise missiles were fired. Precision Strike Missile (PrSM) stocks are nearly depleted—of 90 on hand, about 40–70 were launched. Sources: ABC News, CSIS."
-    },
-    {
-      "id": "5008487",
-      "time": "2026-07-26 17:29:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室：油輪目擊不明拋射物激起水花。"
-    },
-    {
-      "id": "5008486",
-      "time": "2026-07-26 17:27:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英國海上貿易行動辦公室收到紅海南部週五發生事故的相關報告。"
     }
   ]
 }
