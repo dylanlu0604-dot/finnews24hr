@@ -1,7 +1,22 @@
 {
   "date": "2026-08-02",
-  "count": 239,
+  "count": 240,
   "items": [
+    {
+      "id": "mkt:019fc0c4-9449-7aab-8f45-38007f55786f",
+      "time": "2026-08-02 12:38:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Japan & APAC",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【IEA says Strait of Hormuz shipping disruption lifted Japan Q2 wholesale power spot price 30% YoY】The IEA said shipping disruption in the Strait of Hormuz halted Middle East LNG flows, pushing Japan's average wholesale spot power price in Q2 to about $90 per MWh, roughly 30% above the same period last year, Kyodo reported. The IEA warned that heat-driven demand growth and a prolonged blockade could keep prices elevated and projects Japan's average wholesale power price in H2 2026 at $105 per MWh, about 40% higher YoY."
+    },
     {
       "id": "5020680",
       "time": "2026-08-02 12:35:17",

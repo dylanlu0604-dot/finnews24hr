@@ -1,7 +1,22 @@
 {
-  "updated": "2026-08-02 12:36:58",
-  "count": 17918,
+  "updated": "2026-08-02 12:41:14",
+  "count": 17916,
   "items": [
+    {
+      "id": "mkt:019fc0c4-9449-7aab-8f45-38007f55786f",
+      "time": "2026-08-02 12:38:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Japan & APAC",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【IEA says Strait of Hormuz shipping disruption lifted Japan Q2 wholesale power spot price 30% YoY】The IEA said shipping disruption in the Strait of Hormuz halted Middle East LNG flows, pushing Japan's average wholesale spot power price in Q2 to about $90 per MWh, roughly 30% above the same period last year, Kyodo reported. The IEA warned that heat-driven demand growth and a prolonged blockade could keep prices elevated and projects Japan's average wholesale power price in H2 2026 at $105 per MWh, about 40% higher YoY."
+    },
     {
       "id": "5020680",
       "time": "2026-08-02 12:35:17",
@@ -165996,30 +166011,6 @@
         "其他"
       ],
       "text": "【國家發展改革委緊急安排1億元中央預算內投資支援廣東臺風災害災後應急恢復】7月26日凌晨，今年第12號颱風“紅霞”在廣東惠州惠東縣平海鎮沿海登陸，廣東省多地出現暴風、強降雨等災害，對當地生產生活造成嚴重影響。當日，國家防災減災救災委員會緊急啟動國家四級救災應急響應。為貫徹落實習近平總書記關於防汛救災工作的重要指示精神，根據《國家自然災害救助應急預案》和廣東省災害損失情況，國家發展改革委緊急安排中央預算內投資1億元，支援廣東省做好颱風災害災後應急恢復，重點用於災區受損道路、水利等基礎設施和學校、醫院等公共服務設施災後應急恢復建設，推動儘快恢復正常生產生活秩序。"
-    },
-    {
-      "id": "5008342",
-      "time": "2026-07-26 12:40:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港釋出3號強風訊號。"
-    },
-    {
-      "id": "mkt:019f9cb8-d112-7aab-8e98-b342ef3eded0",
-      "time": "2026-07-26 12:39:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kuwait denied the Wall Street Journal report that Iran launched an attack, calling it 'entirely fabricated'."
-    },
-    {
-      "id": "5008341",
-      "time": "2026-07-26 12:39:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港珠澳大橋恢復通行、通關】總檯記者從港珠澳大橋管理局獲悉，颱風“紅霞”對大橋區域影響已減弱，經粵港澳三地協商一致，港珠澳大橋定於7月26日12時40分恢復通行、通關。（央視新聞）"
     }
   ]
 }
