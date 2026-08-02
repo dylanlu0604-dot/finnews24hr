@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-02 20:09:51_
-_本檔包含 3750 則快訊，約 669154 字_
+_更新時間：2026-08-02 21:49:58_
+_本檔包含 3725 則快訊，約 668868 字_
+
+---
+
+### 2026-07-30 14:35:26  #其他
+
+【多瑙河水位過低 匈羅兩國核電站關停反應堆】由於多瑙河水位降至歷史低位，難以保障核電站冷卻水供應，匈牙利和羅馬尼亞分別定於29日和30日停止各自國核心電站一座反應堆的執行。（央視新聞）
+
+---
+
+### 2026-07-30 14:35:20  #MKT News #Important #Market Regions #Greater China
+
+【China's Communist Party Politburo met】China's Communist Party Politburo met on July 30 and scheduled the Fifth Plenary Session of the 20th Central Committee for October in Beijing; the agenda includes the Politburo reporting to the Central Committee and studying measures to sustain comprehensive strict party governance. The meeting reviewed the current economic situation and deployed economic work for H2. Xi presided.
+
+---
+
+### 2026-07-30 14:35:10  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact mixed #FTSE100 #US10Y
+
+【Bank of England preview: hold likely; watch vote split, inflation guidance, QT】Most houses expect the Bank of England to hold policy at 3.75% at the meeting. ING and several forecasters see no rate moves through the year, with inflation drifting toward about 3% in H2–early next year. BNY Mellon and others expect no change and at most two dissenters; some models predict a 7-2 hold. Berenberg and others say the BoE will keep rates at 3.75% but judge future cuts more likely than further hikes. BofA expects a hold but notes the committee may leave the door open to future tightening and will flag its assessment of QT. Governor Bailey is expected to stress slowing wage growth. Reuters’ survey and some banks warn the US–Iran conflict remains an upside inflation risk. Commerzbank says if that conflict ends by end‑September and labour market weakness persists, cuts become more likely. Oxford Economics expects officials to highlight upside inflation risk and signal readiness to raise rates if second‑round effects appear. NIESR projects no policy change through end‑2027. Market takeaways: hold at 3.75% is priced, but monitor vote split, inflation guidance, QT wording, wage dynamics and geopolitically driven inflation risk.
+
+---
+
+### 2026-07-30 14:34:57  #國際
+
+【東北多地夜溫破紀錄 中東部大範圍桑拿天將持續至8月初】昨天（7月29日）夜間，我國東北多地暑熱強盛，熱到破紀錄。預計一直到下月初，中東部高溫範圍還將擴大，長江中下游至東北多地將現大範圍桑拿天。不僅白天桑拿感明顯，夜間暑熱也不停歇，上海、重慶等地夜溫或衝上30℃，吉林、遼寧多地還可能熱到破紀錄。（央視新聞）
+
+---
+
+### 2026-07-30 14:34:35  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Slips as Markets Reassess Fed Outlook — Gold fell below $4,050 an ounce on Thursday, giving back the previous session’s gains as traders reassessed the Federal Reserve’s policy outlook after the central bank left interest rates unchanged. Three FOMC members dissented in favor of a rate hike, while Chair Kevin Warsh emphasized that the decision to keep rates steady should not be viewed as a sign of policy inertia, adding that markets would continue to respond to incoming economic data. Markets are now pricing in roughly a 67% chance of a 25-basis-point Fed rate hike in September, up from 56% a day earlier, while expectations for a larger 50-basis-point increase have largely disappeared. Gold also came under pressure from rallying oil prices after the US launched a fresh wave of strikes against Iran in response to attacks on American forces across the Middle East, raising concerns about further disruptions to global energy supplies.
+
+---
+
+### 2026-07-30 14:34:35  #MKT News #Market Regions #Europe & UK
+
+Poland's prime minister is en route to the area where an airspace incursion occurred, a government spokesman said.
+
+---
+
+### 2026-07-30 14:34:21  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+【World Gold Council: Investment demand expected to remain positive for remainder of 2026】The World Gold Council said investment demand is likely to be the main driver of gold demand growth for the remainder of 2026, increasingly supported by OTC trading and Asian investor flows; central banks will remain key buyers. High gold prices are expected to continue suppressing jewelry volumes, while responses in mine output and recycled supply are likely to be muted. Western gold ETF flows should remain sensitive to US real yields, Fed policy expectations and the dollar. Technology demand for gold may benefit from AI-related investment, but downside risks are accumulating.
+
+---
+
+### 2026-07-30 14:33:42  #其他 #焦點
+
+【中共中央政治局召開會議 決定召開二十屆五中全會 分析研究當前經濟形勢和經濟工作 中共中央總書記習近平主持會議】中共中央政治局7月30日召開會議，決定今年10月在北京召開中國共產黨第二十屆中央委員會第五次全體會議，主要議程是，中共中央政治局向中央委員會報告工作，研究持之以恆推進全面從嚴治黨若干重大問題。會議分析研究當前經濟形勢，部署下半年經濟工作。中共中央總書記習近平主持會議。會議指出，黨的十八大以來，全面從嚴治黨取得偉大成就，開闢了百年大黨自我革命新境界，推動黨和國家事業取得歷史性成就、發生歷史性變革，黨和人民贏得強黨強國的歷史主動。同時，隨著世情國情黨情發生深刻變化，全面從嚴治黨也面臨許多新情況新問題。全黨必須從鞏固黨的執政地位、實現黨的使命任務的戰略高度，深刻認識持之以恆推進全面從嚴治黨的重大意義，堅定信心，保持定力，以更高標準、更實舉措把新時代全面從嚴治黨寶貴經驗堅持好、運用好，把黨的建設面臨的突出問題整治好、解決好，把管黨治黨形成的良好政治局面鞏固好、發展好。（新華社）
+
+---
+
+### 2026-07-30 14:33:29  #其他
+
+【廣東銀行業保險業多項主要發展指標位居全國第一】今年上半年廣東全省銀行業資產總額、負債總額、存貸款餘額，以及保險業資產總額、保費收入和承保利潤等主要發展指標位居全國第一。截至今年6月末，廣東銀行業總資產43.99萬億元、總負債42.7萬億元，分別同比增長6.77%、6.75%。廣東保險業總資產2.93萬億元，同比增長9.67%。
+
+---
+
+### 2026-07-30 14:33:08  #宏觀
+
+【市場監管總局舉辦網約配送員群體黨建工作交流活動】活動指出，近年來，市場監管總局結合業務職責，持續推動網約配送員群體黨建工作。成立網約配送員群體黨建工作領導小組，指導地方市場監管部門組建行業黨委；擴大“兩個覆蓋”，推動建立網約配送員群體黨組織；加強凝聚服務，指導各地個私協會成立網約配送員工作委員會，協調社會各方打造“友好社群”、共建“暖新驛站”。下一步，市場監管部門要積極引導企業將黨建工作與經營管理相融合，推動平臺企業和平臺內的經營者、勞動者共贏發展。會同相關部門用心用情解決好網約配送員在工作環境、權益保障等方面的現實問題。鼓勵引導網約配送員群體有序參與行業和基層治理，不斷提升網約配送員群體的獲得感、歸屬感。
+
+---
+
+### 2026-07-30 14:32:40  #市場 #國際
+
+【日韓股市收盤】日經225指數收漲0.71%，報61867.43點；韓國KOSPI指數收跌1.35%，報5586.81點。
+
+---
+
+### 2026-07-30 14:32:31  #其他
+
+【7月30日：“農產品批發價格200指數”比昨天上升0.12個點】據農業農村部監測，7月30日“農產品批發價格200指數”為113.91，比昨天上升0.12個點，“菜籃子”產品批發價格指數為114.13，比昨天上升0.14個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.96元/公斤，比昨天上升0.3%；牛肉67.34元/公斤，比昨天上升0.3%；羊肉64.95元/公斤，與昨天持平；雞蛋10.09元/公斤，比昨天上升0.6%；白條雞17.09元/公斤，比昨天下降0.8%。重點監測的28種蔬菜平均價格為4.44元/公斤，比昨天上升0.7%；重點監測的6種水果平均價格為6.89元/公斤，比昨天上升1.5%。鯽魚20.18元/公斤，比昨天下降0.6%；鯉魚14.71元/公斤，比昨天上升1.0%；白鰱魚10.11元/公斤，比昨天下降0.1%；大帶魚42.12元/公斤，比昨天上升4.9%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是大帶魚、西瓜、生菜、白蘿蔔和茄子，幅度分別為4.9%、3.3%、2.7%、2.5%和2.5%；價格降幅前五名的是草魚、白條雞、大蒜、鯽魚和黃瓜，幅度分別為1.0%、0.8%、0.6%、0.6%和0.5%。
+
+---
+
+### 2026-07-30 14:32:08  #公司
+
+【寶馬CEO：第一季度和第二季度的業績數字不令人滿意】寶馬執行長：成本削減措施將實現自2027年起整體固定成本的持續降低。第一季度和第二季度的業績數字不令人滿意。我們正在重新評估未來需要哪些技術、車型變種和動力系統。計劃在下個十年初恢復8%至10%的EBIT利潤率區間。第二季度核心利潤率為2.3%，其中包括1.25個百分點的關稅負擔，以及來自中國業務整合的1.2個百分點。全年汽車業務利潤率預期為1%至3%，其中包括勞動力重組帶來的1.25個百分點負擔。
+
+---
+
+### 2026-07-30 14:31:27  #MKT News #BMW.DE
+
+BMW CFO expects full-year auto business margin of 1%–3%, including a 1.25 percentage-point drag from workforce restructuring.
+
+---
+
+### 2026-07-30 14:31:17  #MKT News
+
+South Korea's KOSPI closed down 76.43 points (1.35%) at 5,586.81 on Thursday, July 30.
+
+---
+
+### 2026-07-30 14:31:09  #MKT News #BMWG.DE #Impact bearish
+
+BMW CFO said Q2 core profit margin was 2.3%, including a 125bp tariff burden and 120bp from integration of China operations.
+
+---
+
+### 2026-07-30 14:31:08  #MKT News #Nikkei 225 #Impact bullish
+
+Japan's Nikkei 225 closed up 433.24 points (+0.71%) at 61,867.43 on Thursday, July 30.
+
+---
+
+### 2026-07-30 14:30:55  #MKT News #BMW.DE #Impact bullish
+
+BMW CEO says the company plans to restore EBIT margin to 8-10% in the early next decade.
+
+---
+
+### 2026-07-30 14:30:41  #公司
+
+瑞穗金融集團第一季度淨利潤4,229.1億日元，預估3,340.4億日元。
+
+---
+
+### 2026-07-30 14:30:34  #MKT News #BMWG.DE
+
+BMW CEO said the company is reassessing which technologies, model variants and powertrains will be needed going forward.
+
+---
+
+### 2026-07-30 14:30:30  #公司 #市場 #觀點
+
+【花旗：新東方第四財季收入勝指引，重申“買入”評級】花旗發表研報指，新東方第四財季收入同比增長23%，勝於公司指引的15至18%；非通用會計準則(non-GAAP)經營溢利同比增長34.7%至1.1億美元，non-GAAP淨利潤同比下跌10.5%至8800萬美元。該行提到，新東方管理層指引2027財年收入同比增長14至18%。計及2027財年股息涉及約3億美元，加上2億美元回購計劃，股東回報合共涉及5億美元，相當於2026財年公認會計准則淨利潤約105%。該行重申公司“買入”評級，目標價75美元。
+
+---
+
+### 2026-07-30 14:30:29  #MKT News #BMW.DE #Impact bearish
+
+BMW CEO said Q1 and Q2 results were unsatisfactory.
+
+---
+
+### 2026-07-30 14:30:25  #公司
+
+【封測裝置廠商竑騰訂單排到明年 新產能8月起顯現】半導體封測裝置廠商竑騰受惠英偉達新一代AI晶片Rubin即將放量，以及CoWoS後段製程需求持續升溫，訂單已看至明年，為解決產能供不應求疑慮，公司已承租新廠房，預計8月起加入營運，整體組裝空間將增加一倍。竑騰供應英偉達新一代均熱片裝置，切入封測廠oS段製程，涵蓋點膠、植片、壓合及均熱片貼合等製程，除石墨烯材料外，也可應用於銦片，同時自動光學檢測(AOI)裝置也持續交貨，出貨給主要封測大廠。(科創板日報)
+
+---
+
+### 2026-07-30 14:30:19  #MKT News #BMW.DE #Impact bullish
+
+BMW CEO says cost-cutting measures will deliver a sustained reduction in total fixed costs beginning in 2027.
+
+---
+
+### 2026-07-30 14:30:12  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+The Nikkei 225 Index Closes 0.84% Higher — The Nikkei 225 Index went up by 517 points or 0.84 percent on Thursday to close at 61952 points. The rise was led by Advantest (11.15%), NEC (8.19%) and Hitachi (5.85%). On the downside, the weakerst performers were Sumitomo Mitsui (-75.70%), Nomura (-6.55%) and Nikon Corporation (-5.72%).
+
+---
+
+### 2026-07-30 14:30:11  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #EURUSD #Impact bullish #US10Y
+
+【Commerzbank: Dollar briefly weakens as markets reprice Fed rate path】Commerzbank FX team said the dollar briefly weakened and the euro rallied after the Fed held rates but revealed significant internal dissent. Three officials voted for a 25bp hike, stoking inflation concerns; markets read the decision as less hawkish overall, sending the US 2-year Treasury yield and the dollar lower while US long-term yields rose sharply as investors judged the Fed response insufficient to curb persistent inflation. Federal funds futures put the probability of a 25bp September hike at 63%. Market-implied cumulative hikes for the year have been trimmed to 33bps from 42bps on Tuesday.
+
+---
+
+### 2026-07-30 14:29:15  #國際
+
+【澤連斯基稱俄軍大規模襲擊烏克蘭 造成至少8人死亡】烏克蘭總統澤連斯基30日表示，俄羅斯當天對烏克蘭多個地區發動大規模導彈和無人機襲擊，已造成至少8人死亡、數十人受傷，多地住宅、民用企業及基礎設施受損。澤連斯基在其官方社交平臺發文稱，烏第聶伯羅彼得羅夫斯克州拉杜什內一棟私人住宅遭俄軍彈道導彈擊中，一家五口遇難，包括父母和三名兒童，另有兩名兒童被救出。利沃夫市一處遭襲住宅的搜救工作仍在進行，救援人員正在清理廢墟並搜尋被困人員。（央視新聞）
+
+---
+
+### 2026-07-30 14:29:01  #公司 #國際
+
+【澳大利亞對社交平臺“電報”提起訴訟，指控其未能有效打擊涉恐及暴力內容】據澳大利亞廣播公司（ABC）、路透社等媒體7月30日報道，澳網路安全監管機構“eSafety”已向聯邦法院提起訴訟，指控社交媒體平臺“電報”多次無視警告，未能對其平臺服務中涉及恐怖主義和暴力極端主義內容進行有效干涉處理。“該案件涉及的內容與近年來一些最臭名昭著的極端主義暴力事件有關，包括與（紐西蘭第二大城市）克賴斯特徹奇和（美國紐約州城市）布法羅恐怖襲擊有關的材料。”澳網路安全專員朱莉·因曼·格蘭特在一份宣告中稱，“我們控告，在‘電報’平臺收到相關通知後，在該平臺上仍可長期訪問這些內容。”上述宣告稱，不遵守澳大利亞的法律法規可能會導致最高5460萬澳元（約合2.6億元人民幣）的民事罰款。路透社稱，“電報”平臺一名發言人在回應置評請求時否認相關指控，並稱“將在法庭上進行抗辯”。（環球網）
+
+---
+
+### 2026-07-30 14:28:40  #公司 #市場
+
+【電梯板塊震盪走弱，快意電梯觸及跌停】電梯板塊震盪走弱，快意電梯觸及跌停，通用電梯、世嘉科技、滬寧股份、瑞迪智驅、同力天啟、華菱精工等跟跌。
+
+---
+
+### 2026-07-30 14:28:02  #市場
+
+【世界黃金協會：二季度全球金飾需求持續承壓 同比下滑17%】世界黃金協會發布的2026年二季度《全球黃金需求趨勢報告》顯示，受高金價影響，二季度全球金飾需求持續承壓，為278噸，同比下滑17%，消費者或減少了純金首飾的購買，或轉而選擇克重更輕的產品。這導致上半年金飾需求總量有所下降，不過金飾消費金額仍展現出韌性，上半年同比增長22%，至860億美元。
+
+---
+
+### 2026-07-30 14:27:10  #國際
+
+【日本爆炸購物中心6人死亡】7月28日，日本熊本縣發生7.1級地震，強震發生後，熊本縣嘉島町一購物中心發生爆炸，建築物坍塌導致多人被困。法新社今天（7月30日）釋出了購物中心爆炸瞬間的影片。據悉，截至目前，救援人員共救出12人，其中6人死亡，1人心肺功能停止，5人受傷。警方和消防部門認為可能還有人員被困，搜救工作仍在進行中。（CCTV國際時訊）
+
+---
+
+### 2026-07-30 14:26:50  #Trading Economics #Markets #Netherlands #Earnings #Importance 0
+
+Ing Groep earnings above expectations at 0.78 EUR — Ing Groep (ING) released earnings per share at 0.78 EUR, compared to market expectations of 0.73 EUR.
+
+---
+
+### 2026-07-30 14:26:46  #Trading Economics #Markets #Commodity #Importance 1
+
+Steel Declines to 9-Month Low — Steel rebar futures fell to around CNY 3,010 per ton, reaching their lowest level since October 2025 as widening losses at Chinese steel mills and a deteriorating industry outlook continued to weigh on sentiment. Industry data showed that average losses at steel mills in Tangshan have surpassed CNY 100 per ton and are expected to keep widening, with the sector likely to remain under pressure next month. China’s prolonged property downturn also continued to curb steel demand, as construction accounts for roughly one-third of the country’s steel consumption and represents the bulk of rebar usage. Meanwhile, investors awaited updates from the Politburo meeting in Beijing, where policymakers are widely expected to refrain from announcing major new stimulus measures and instead focus on implementing existing fiscal policies to support the slowing economy.
+
+---
+
+### 2026-07-30 14:26:38  #公司
+
+【中銀國際：騰訊大幅增加AI投資但維持謹慎彈性，維持“買入”評級】中銀國際發表報告指，投資者日益關注騰訊每股盈利預測及AI投資回報。該行預測騰訊2026年資本現金支出達1600至1800億元(視乎供應鏈動態而定)，惟認為公司會維持謹慎的投資節奏以保持業務彈性。該行指出，目前談論2027年之後的資本開支量級仍為時過早，預期2027年後騰訊將採取較今年溫和增長的資本支出規劃，除非C端AI應用證明能創造規模收入及良好盈利模型，或核心社交生態及主營業務被AI競爭對手動搖。該行認為，騰訊目前會把高階算力資源優先投放於混元大模型，“小微”因潛在算力消耗、合規因素及尚未有有效商業化手段，短期內非重點推進專案。該行認為，騰訊核心業務尤其是遊戲，受惠常青遊戲組合及豐富遊戲管線，未來幾個季度將持續保持韌性，維持“買入”評級及目標價655港元不變。
 
 ---
 
@@ -22247,359 +22451,5 @@ RBC raises Visa (V.N) PT to $412 from $395.
 ### 2026-07-29 12:33:32  #MKT News #Copper #Impact bearish
 
 Rio Tinto (RIO.N) CEO said the company is monitoring rising U.S. copper inventories to prepare to respond to a tariff decision.
-
----
-
-### 2026-07-29 12:33:05  #MKT News #RIO.N
-
-Rio Tinto (RIO.N) CEO said that as Glencore's six-month standstill period nears its end, the company is focused on its own business.
-
----
-
-### 2026-07-29 12:32:40  #MKT News #Commodities #Industrial Metals #Copper #Impact mixed #RIO.N
-
-Rio Tinto (RIO.N) CEO says he is closely watching the results of a copper tariff review.
-
----
-
-### 2026-07-29 12:32:37  #其他
-
-派傑投資將VISA目標價從394美元上調至430美元。
-
----
-
-### 2026-07-29 12:32:28  #MKT News #Commodities #Industrial Metals #Copper
-
-RIO CEO said the company is focusing on its U.S. copper and lithium businesses.
-
----
-
-### 2026-07-29 12:32:19  #MKT News
-
-RIO CEO says the company is not currently considering building an aluminium smelter in the United States.
-
----
-
-### 2026-07-29 12:31:55  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
-
-European equity futures fell: Euro STOXX 50 futures down 0.6 pct, UK FTSE 100 futures down 0.3 pct, German DAX futures down 0.75 pct.
-
----
-
-### 2026-07-29 12:31:33  #市場
-
-納斯達克期貨下跌0.86%，標普500期貨下滑0.3%。
-
----
-
-### 2026-07-29 12:31:25  #MKT News #UBS.N #Impact bearish
-
-UBS: Q2 common equity Tier 1 (CET1) ratio 14.4%, below company-provided market consensus of 14.66%.
-
----
-
-### 2026-07-29 12:31:21  #MKT News #UBS.O #Impact bullish
-
-UBS said its global wealth management arm recorded net new assets of $36 billion in Q2, driven by strong inflows in Switzerland, Europe, the Middle East and Africa (EMEA) and Asia Pacific (APAC).
-
----
-
-### 2026-07-29 12:30:54  #MKT News #Market Regions #Europe & UK #UBS.O #Impact bullish
-
-UBS expects to complete integration of Credit Suisse by year-end and has achieved $12.6 billion in total cost savings since the end of 2022.
-
----
-
-### 2026-07-29 12:30:51  #公司
-
-瑞銀：第二季度集團稅前基礎利潤為38.8億美元，高於公司給出的市場預期值34.7億美元。
-
----
-
-### 2026-07-29 12:30:32  #市場 #焦點 #國際
-
-韓國綜合股價指數下跌12%，至5300.10點。
-
----
-
-### 2026-07-29 12:30:29  #MKT News #Commodities #Energy #XAUUSD #Impact bullish #DXY
-
-UBS (UBS.N) said ongoing political developments and volatile energy prices are creating high uncertainty that could affect macroeconomic conditions.
-
----
-
-### 2026-07-29 12:30:18  #MKT News #UBSG.SW #Impact bullish
-
-UBS plans to repurchase at least $1 bln of stock over the next three months; exact size and pace will depend on short-term financial performance and outlook.
-
----
-
-### 2026-07-29 12:30:07  #MKT News #Important #Market Regions #Japan & APAC
-
-South Korea's KOSPI fell below 5,300 points, down 12.03% intraday.
-
----
-
-### 2026-07-29 12:30:06  #MKT News #UBS.N #Impact bullish
-
-UBS (UBS.N) will continue a $3 billion share buyback programme, to be completed by end-Q2 2027 at the latest.
-
----
-
-### 2026-07-29 12:30:01  #公司 #國際
-
-瑞銀集團：第二季度全球財富管理業務淨新增資產達360億美元，主要受瑞士、歐洲中東非洲地區及亞太區強勁資金流入推動。
-
----
-
-### 2026-07-29 12:29:55  #公司
-
-瑞銀集團：截至2026年3月31日，第二季度全職等效員工人數為99,085人，前值為101,594人。
-
----
-
-### 2026-07-29 12:29:48  #MKT News #UBS.N #Impact bearish
-
-UBS (UBS.N) Q2 group revenue $13.7bn, market expected $13.986bn.
-
----
-
-### 2026-07-29 12:29:44  #其他
-
-瑞銀：有望於年底前完成對瑞信的整合，自2022年末以來累計已實現總成本節約126億美元。
-
----
-
-### 2026-07-29 12:29:28  #公司
-
-瑞銀集團：計劃在未來三個月內回購至少10億美元股票，回購規模及節奏將視短期財務表現與前景而定。
-
----
-
-### 2026-07-29 12:29:22  #其他
-
-瑞銀：進入第三季度，市場狀況總體仍具建設性。
-
----
-
-### 2026-07-29 12:29:12  #宏觀
-
-瑞銀：持續的政治局勢發展及波動的能源價格加劇了高度不確定性，可能導致宏觀經濟環境發生變化。
-
----
-
-### 2026-07-29 12:29:07  #其他
-
-瑞銀：預計財富管理部門淨利息收入將溫和增長，整合最後階段重點關注與客戶的高頻互動。
-
----
-
-### 2026-07-29 12:28:26  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Rises on Tech Strength — India’s BSE Sensex rose about 1.0% to 77,538 on Wednesday, recovering losses from the previous session, as technology stocks led the gains ahead of the US Fed Reserve’s policy decision. The benchmark index was led higher by technology stocks, with NewGen (5.3%), KPIT Tech (4.3%), Coforge (4.2%), Infosys (3.9%), and TCS (2.8%) among the notable gainers. Other strong performers across sectors included SHK (14%), Paradeep (12%), and Firstsource Solutions (6.6%). Sentiment was also supported by renewed foreign buying, with foreign institutional investors (FIIs) turning net buyers of approximately INR 7.55 billion in the previous session. Investors also monitored corporate earnings, with Larsen & Toubro remaining in focus after reaffirming its full-year revenue and margin guidance following a strong quarterly performance. However, gains were capped by higher crude oil prices, as rising geopolitical tensions pushed Brent crude higher, posing a potential risk to India as a major oil importer.
-
----
-
-### 2026-07-29 12:26:25  #國際
-
-Vantage正考慮以20億美元的價格出售其在馬來西亞的資料中心。
-
----
-
-### 2026-07-29 12:25:43  #公司
-
-【交易員挪用資金做多海力士虧1.5億】香港26歲交易員挪用5000萬，豪賭兩倍做多海力士鉅虧1.5億！香港中環金融區被曝鉅額資金挪用案，目前這名男子已被警方以涉嫌盜竊拘捕。 涉案發生於今年自1月9日至7月20日期間，這名交易員挪用公司5000萬港元后，先透過有關機構進行保證金融資，又買入兩倍做多海力士ETF，形成雙重槓桿。該ETF自今年6月底歷史高點暴跌超七成。目前相關持倉尚未平倉，最終損失仍存在變數。 該事件是在致富管理公司近期審計查賬時被揭發的，雖然集團旗下致富證券火速發宣告撇清關係，致富管理公司非證監會持牌公司，只是財富管理投資公司，隸屬致富集團。但受事件影響，不少客戶出於風控考量，選擇從致富證券避險性出金。（看看新聞）
-
----
-
-### 2026-07-29 12:24:57  #Trading Economics #Markets #Indonesia #Currency #Importance 1
-
-Rupiah Stays Fragile Amid BI Leadership Shake-Up — The Indonesian rupiah hovered around IDR 18,090 per U.S. dollar on Wednesday, remaining under strain from policy uncertainty following the sudden exit of Perry Warjiyo as central bank governor. Local reports suggested his departure followed a major dispute with the finance minister over growth strategies, though whether the disagreement directly triggered his exit remains unclear. The president’s spokesperson denied speculation of government pressure. Some economists said a permanent appointment for the new chief is expected within the next two months, with markets likely to stay cautious until the successor is formally named. Bank Indonesia raised rates by a cumulative 100bps since May to shore up the currency and attract foreign inflows. Yet the rupiah has still slipped about 8% this year, extending losses from the past two years. On the global front, the U.S. dollar index steadied ahead of the Fed’s policy decision later today, with markets broadly expecting rates to stay unchanged.
-
----
-
-### 2026-07-29 12:23:51  #國際
-
-【沙特稱行使“自衛權” 對伊拉克境內民兵組織實施打擊】據官方的沙特通訊社報道，沙特武裝部隊週三與美國中央司令部協調，對伊拉克境內伊朗支援的民兵組織發動空襲，這些民兵組織與針對沙特石油設施的襲擊有關。沙特稱，打擊是行使“自衛權”，不尋求局勢升級，但是，“如果遭受任何進一步的攻擊，將毫不猶豫地採取一切必要措施來維護其主權，保護其公民和國家財產”。
-
----
-
-### 2026-07-29 12:23:06  #其他
-
-首爾綜合股價指數(KOSPI)跌幅擴大至近12%，晶片股拋售加劇。
-
----
-
-### 2026-07-29 12:22:51  #公司
-
-【海立股份與贏合科技開展座談交流】據海立股份訊息，7月28日，海立股份黨委書記孫珺帶隊赴贏合科技惠州東江園區開展專項調研，雙方開展深度座談交流。雙方一致認為，此次聯組學習與調研交流搭建了高效的協同對接平臺。下一步，兩家企業將立足自身資源稟賦、技術優勢和產業特色，持續深化多維度、深層次產業協同，補齊產業鏈短板、強化價值鏈優勢、啟用創新鏈動能，以務實合作推動高階製造產業提質增效、轉型升級。
-
----
-
-### 2026-07-29 12:22:40  #MKT News #Important #000660.KS #Impact bearish
-
-SK Hynix shares fell more than 17%, recording the largest single-day decline on record.
-
----
-
-### 2026-07-29 12:21:54  #MKT News
-
-【BNP Paribas SA: Korean market volatility complicates fundamentals】William Bratton, head of cash equities research at BNP Paribas SA, said volatility in South Korea’s stock market highlights a disconnect between tech stock moves and earnings prospects. Year-to-date the KOSPI has accounted for 79% of single-day moves exceeding 5% among major Asian indices; the selling appears driven mainly by anxiety over the durability of AI-related spending. He expects market volatility to remain elevated.
-
----
-
-### 2026-07-29 12:21:15  #觀點
-
-摩根大通將波音目標價從270美元上調至290美元。
-
----
-
-### 2026-07-29 12:18:50  #市場 #國際
-
-韓國Kospi指數跌幅擴大；最新下跌11%，報5371.08點。
-
----
-
-### 2026-07-29 12:18:44  #MKT News #Market Regions #Emerging Markets
-
-South Korea's KOSPI tumbled 11.00% intraday to 5,357.11 points.
-
----
-
-### 2026-07-29 12:18:40  #其他 #焦點
-
-SK海力士股票在首爾暴跌17%，創紀錄最大跌幅。
-
----
-
-### 2026-07-29 12:18:20  #公司
-
-【鄧敏接手五糧液酒廠公司職務】天眼查App顯示，近日，四川省宜賓五糧液酒廠有限公司發生工商變更，曾從欽卸任法定代表人、董事長，由鄧敏接任。該公司成立於2002年12月，註冊資本8500萬人民幣，經營範圍包括白酒及相關產品生產、銷售，由宜賓五糧液股份有限公司、四川宜賓五糧液精美印務有限責任公司共同持股。
-
----
-
-### 2026-07-29 12:16:39  #Trading Economics #Markets #Commodity #Importance 1
-
-Corn Holds Near Multi-Week Highs — Corn futures held above $4.5 per bushel, staying near their highest level since late May as geopolitical disruptions raised concerns over global supplies, while persistent dry weather in parts of the US Midwest threatened yields. The USDA said that 63% of the country's corn crop was rated good-to-excellent, down from 67% a week earlier and below market expectations. Meanwhile, continued attacks between Russia and Ukraine raised concerns over Black Sea grain exports, with damage to port infrastructure and shipping routes threatening supplies from one of the world's key exporting regions. Additionally, renewed fighting in the Middle East constrained fertilizer shipments through the Strait of Hormuz and pushed crude oil prices higher. Higher energy prices supported corn by improving the outlook for ethanol demand. The market also remained underpinned by the USDA's latest WASDE report, which cut 2026/27 US ending stocks more than expected while raising export forecasts.
-
----
-
-### 2026-07-29 12:16:23  #MKT News #Market Regions #Japan & APAC
-
-South Korea's KOSPI slid below 5,400, down 10.38% intraday.
-
----
-
-### 2026-07-29 12:16:22  #MKT News #Important #Market Regions #Japan & APAC
-
-Japan's Kioxia Holdings shares fell 15%.
-
----
-
-### 2026-07-29 12:16:10  #市場 #焦點
-
-日本鎧俠股價下跌15%。
-
----
-
-### 2026-07-29 12:15:55  #公司 #市場 #國際
-
-【韓國KOSPI指數日內跌超10%】韓國KOSPI指數加深跌幅，日內跌超10%。SK海力士跌幅擴大至近16%，三星電子下跌10%。
-
----
-
-### 2026-07-29 12:15:51  #MKT News #Important #Market Regions #Emerging Markets #000660.KS #Impact bearish #005930.KS
-
-【South Korea KOSPI falls over 10% intraday】South Korea's KOSPI extended losses, falling more than 10% intraday. SK Hynix plunged to nearly a 16% decline; Samsung Electronics fell about 10%.
-
----
-
-### 2026-07-29 12:15:18  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
-
-HSBC downgraded its rating on France from overweight to neutral.
-
----
-
-### 2026-07-29 12:15:14  #其他
-
-滙豐將德國股市評級從中性上調至超配，將英國評級從"加碼"下調至"中性"，將法國股市評級從"加碼"下調至"中性"。
-
----
-
-### 2026-07-29 12:15:08  #MKT News #FTSE100 #Impact bearish #GBPUSD
-
-HSBC Holdings cuts UK rating to neutral from overweight.
-
----
-
-### 2026-07-29 12:14:57  #MKT News #DAX #Impact bullish
-
-HSBC upgrades Germany from Neutral to Overweight.
-
----
-
-### 2026-07-29 12:14:29  #公司 #市場
-
-【未來資產證券將SK海力士目標價下調33%】未來資產證券將SK海力士的目標價下調33%至280萬韓元，維持“買入”評級。分析師Kim Young-gun在週三釋出的研究報告中寫道：鑑於整個行業的股價下跌，我們認為調整該公司的目標倍數在所難免。
-
----
-
-### 2026-07-29 12:12:35  #國際
-
-【美國中學槍擊案少年槍手被判終身監禁 】美國佐治亞州巴羅縣高階法院28日就2024年一起校園槍擊案作出裁決，現年16歲的槍手科爾特·格雷被判終身監禁，不得假釋。巴羅縣溫德市阿巴拉契中學2024年9月4日發生槍擊事件，導致包括兩名14歲學生在內的4人死亡、9人受傷。槍手科爾特當時14歲，系阿巴拉契中學在讀學生，事後受到多項重罪指控，訴訟程式按照成年人犯罪處理。據路透社28日報道，科爾特對包括謀殺和襲擊在內的55項指控認罪。
-
----
-
-### 2026-07-29 12:12:09  #公司 #市場
-
-【10家中國汽車相關企業上榜世界500強】汽車行業上榜企業表現繼續分化，除比亞迪、上汽集團、吉利控股集團、寧德時代以及奇瑞汽車外，其他五家的排位相比去年均有所下降。其中，排名最高的是比亞迪，位居第91位，排位和去年一致。寧德時代的排位比去年大幅提升43位，位居第260位。 奇瑞變更了申報主體，首次以上市公司奇瑞汽車股份有限公司的名義申報，以新主體上榜。（21財經）
-
----
-
-### 2026-07-29 12:11:44  #MKT News #Market Themes #AI Revolution
-
-Tibo, OpenAI's Codex product lead, said the five-hour usage cap will be reinstated tomorrow; the cap was suspended during an investigation.
-
----
-
-### 2026-07-29 12:11:25  #Trading Economics #Markets #Mexico #Earnings #Importance 0
-
-Grupo Mexico earnings above expectations at 0.24 USD — Grupo Mexico (GMEXICOB) released earnings per share at 0.24 USD, compared to market expectations of 0.21 USD.
-
----
-
-### 2026-07-29 12:11:12  #MKT News
-
-OpenAI Codex product lead Tibo said many users reported the Sol model consuming quota faster than expected in recent weeks. He clarified the company has not reduced usage allowances for any subscription tiers. Multiple improvements have been implemented; under typical Sol usage, usage duration is now expected to extend by about 18%.
-
----
-
-### 2026-07-29 12:11:01  #MKT News #Market Themes #AI Revolution #Chip Wars #Hang Seng Index #Impact bearish #Nikkei 225 #TSM.O
-
-【Bank of England probes London banks' rising Asian equity exposure, warns on concentrated AI bets】The Bank of England is investigating rapid growth in London-based investment banks' exposure to Asian equities; officials say they want to avoid highly concentrated bets on a handful of AI-related names. Hedge funds and other institutions have been channeling capital into companies supplying AI semiconductor infrastructure in Asia, including SK Hynix and TSMC. The central bank says these Asian stocks are becoming an increasingly significant part of major UK brokers' books and appear concentrated in a small set of AI-linked firms. Clients may be taking additional risk through high‑leverage option positions in Asian markets, and some institutions may be raising capital from Asian retail investors to fund trading — a potential liquidity vulnerability if those retail holders sell quickly in a stress event.
-
----
-
-### 2026-07-29 12:10:42  #MKT News
-
-Tibo, head of OpenAI's CODEX product, said OpenAI has reset usage quotas for all ChatGPT Work and CODEX users.
-
----
-
-### 2026-07-29 12:10:22  #其他
-
-東海炭素株式會社：目前正在對生產設施與庫存狀況進行評估。
-
----
-
-### 2026-07-29 12:10:18  #其他
-
-東海炭素株式會社：熊本工廠地震時處於執行狀態的裝置已暫時停機，環保設施等特定系統除外。
-
----
-
-### 2026-07-29 12:10:18  #MKT News #Important #Market Regions #Greater China #Market Themes #China EV Leaders #Hang Seng Index #Impact bullish #02015.HK #01810.HK
-
-【Hong Kong midday: Hang Seng up 1.37% as autos, tech lead】Overnight US indices were mixed and the China Golden Dragon Index rose. After a two-day advance, Hong Kong stocks opened higher and extended gains; the Hang Seng opened +176 at 25,487, peaked +426 at 25,737 before narrowing. By midday the Hang Seng was up 1.37% and the Hang Seng Tech Index 2.2%; turnover rose to HKD 173.04 bln. New-consumption names, autos and tourism led gains; internet and online healthcare stocks outperformed; education and mainland property stocks staged a rebound. Memory, AI small-caps and PCB names extended prior declines; biotech and brain‑computer‑interface names pulled back. Notable movers: Li Auto (02015.HK) +10%, Xiaomi Group (01810.HK) +9%, MiniMax (00100.HK) +8%, Leapmotor (09863.HK) +7%, Nongfu Spring (09633.HK) +7%; Huahong Hongli (01347.HK) and SMIC (00981.HK) near -8%, Zhipu (02513.HK) -4.5%, Laopu Gold (06181.HK) -4%.
 
 ---
