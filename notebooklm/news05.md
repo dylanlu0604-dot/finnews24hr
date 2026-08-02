@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-03 03:45:39_
-_本檔包含 3481 則快訊，約 670182 字_
+_更新時間：2026-08-03 04:51:46_
+_本檔包含 3478 則快訊，約 670731 字_
+
+---
+
+### 2026-07-28 10:42:07  #宏觀
+
+【2025年度個稅彙算退稅金額突破1500億元】國務院新聞辦舉行新聞釋出會。釋出會上，國家稅務總局相關負責人介紹，在6月30日結束的2025年度個稅彙算中，超1億納稅人享受退稅1500多億元，中低收入者受益面提升。國家稅務總局總審計師王世宇介紹，在剛剛結束的個稅彙算中，全國超2億納稅人辦理了彙算申報，同比增長4.38%，超過1億納稅人申報退稅，退稅金額突破1500億元。年收入12萬元以下群體在享受6萬元基本減除費用、“三險一金”專項扣除、專項附加扣除等紅利後，基本無需繳稅或只需少量繳稅；超過七成人群彙算後無需繳稅；在有稅人群中，超過六成適用3%稅率，反映出個稅調高惠低效應進一步顯現。
+
+---
+
+### 2026-07-28 10:42:02  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
+
+Indonesia Shares Extend Slide on BI Transition Concerns — Indonesia’s IDX Composite slipped 32 points, or 0.5%, to 6,155 in Tuesday morning trade, marking its fifth straight decline as sentiment tracked weaker U.S. futures after a sell-off in chipmakers on Wall Street overnight dragged semiconductor gauges lower for a third day. Investors also stayed cautious ahead of the Federal Reserve’s policy decision later this week and earnings from major U.S. tech firms. Locally, uncertainty lingered over Bank Indonesia’s leadership transition following Perry Warjiyo’s abrupt resignation, with Senior Deputy Governor Destry Damayanti stepping in as acting governor until a successor is named. Losses were broad-based across financials, energy, industrials, and infrastructure, though declines were partly cushioned by falling crude oil prices, easing fiscal concerns for the net oil importer. Notable laggards included Medco Energi (-3.5%), Sarana Menara Nusantara (-2.0%), Mitra Adiperkasa (-1.4%), and Perusahaan Gas Negara (-1.0%).
+
+---
+
+### 2026-07-28 10:41:26  #其他
+
+【稅務總局：上半年出口企業辦理出口退稅同比增長7.7%】7月28日，國家稅務總局副局長王道樹在國新辦釋出會上表示，增值稅法及其實施條例自今年1月1日實施以來，更好提升了辦稅便利度，今年上半年稅務部門為出口企業辦理出口退稅同比增長7.7%，正常出口退稅平均辦理時間控制在6個工作日以內。
+
+---
+
+### 2026-07-28 10:41:14  #市場
+
+【CPO板塊持續走弱，劍橋科技跌停】CPO板塊持續走弱，劍橋科技跌停，新易盛、源傑科技、中際旭創、銳捷網路跌超10%，通富微電、天孚通訊等跟跌。
+
+---
+
+### 2026-07-28 10:41:04  #其他
+
+【DHL快遞深圳超級口岸投運，日處理貨量達900噸】7月28日訊息，DHL快遞位於深圳寶安國際機場的超級口岸完成擴建並投入運營。據介紹，這是DHL快遞迄今在中國內地最大規模的單筆投資專案，總投資額超過12億元人民幣。該專案在DHL原深圳口岸基礎上改擴建而成，擴建後操作區總面積為原口岸的2.6倍，達22,000平方米，每日可處理貨量900噸。
+
+---
+
+### 2026-07-28 10:40:54  #國際
+
+日本財務大臣片山：不認為公私合計370萬億日元的投資目標過高。
+
+---
+
+### 2026-07-28 10:40:17  #公司 #市場
+
+半導體晶片股震盪走低，西安奕材、普冉股份、恆運昌跌超10%，兆易創新此前跌停，北京君正、通富微電、佰維儲存跌超8%。
+
+---
+
+### 2026-07-28 10:39:39  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yield Steadies Ahead of Fed Meeting — The yield on the US 10-year Treasury note held steady around 4.64% on Tuesday as investors awaited the Federal Reserve’s upcoming policy decision, with markets pricing in an over one-third chance of a rate hike. That reflects an unusually high level of uncertainty this close to a Fed meeting compared with recent years. Citadel Securities also said it expects the Fed to raise interest rates this week to reinforce Chairman Kevin Warsh’s credibility in fighting inflation after the central bank chief repeatedly pledged to restore price stability. Meanwhile, the probability of a Fed rate hike in September currently stands at around 56%. On the geopolitical front, President Donald Trump said the US was engaged in "good talks" with Iran aimed at ending the Middle East conflict, sending oil prices lower and easing concerns over inflation and tighter monetary policy.
 
 ---
 
@@ -20935,71 +20983,5 @@ At the FX open, the dollar index (DXY) fell 0.16% to 101.31; AUD/USD rose 0.23%;
 ### 2026-07-27 04:52:16  #MKT News
 
 【Four U.S. service members reclassified; U.S.-Iran casualty data questioned】According to AP, four U.S. service members previously listed as killed in the U.S.-Iran conflict have been removed from the Pentagon’s official Iran casualty list and reclassified under a new "overseas operations" category. The Defense Casualty Analysis System (DCAS) last week deleted the four deaths and dozens of wounded from its Iran-war tally. On Sunday DCAS added an "overseas operations" listing naming the four dead and 207 wounded, but it is unclear whether the full wounded cohort is tied to the Iran conflict. The move, and the Pentagon’s suspension of public casualty briefings since early May and CENTCOM’s halt to updates, has prompted questions about the transparency of U.S. military casualty reporting; the Pentagon says DCAS is its transparency mechanism.
-
----
-
-### 2026-07-27 04:42:41  #MKT News
-
-AP: The Pentagon's official U.S. death toll for the Iran war no longer includes four U.S. soldiers killed in recent fighting; those four, along with 207 wounded, have been reclassified into a new "overseas operations" category.
-
----
-
-### 2026-07-27 04:39:34  #MKT News #Market Themes #AI Revolution #WTI #Impact mixed #Brent #XAUUSD #Impact bullish
-
-【Trump posts AI "victory" images during reported ceasefire; Iranian state media says he's buying virtual "firepower"】US President Trump posted AI-generated images on social media on Sunday local time showing US forces bombing Iran's Hormuz Island and seizing an Iranian tanker, timed to a reported temporary ceasefire with no attacks in the prior 48 hours. Iranian state-run Press TV, citing US media reports of strained US munitions stocks, said Trump appears to be investing in virtual "firepower" by commissioning AI imagery.
-
----
-
-### 2026-07-27 04:28:25  #MKT News
-
-【Cuban president calls U.S. blockade 'cruelly planned genocide'】Cuban President Miguel Díaz-Canel on the 26th condemned the U.S. blockade as criminal, said Cuba poses no threat to the U.S. or any other country, and described Cuba as a victim of a U.S. policy he called a 'cruelly planned genocide'.
-
----
-
-### 2026-07-27 04:23:34  #國際
-
-【古巴國家主席：美對古封鎖是“殘酷策劃的種族滅絕”】古巴國家主席迪亞斯-卡內爾26日譴責美國對古巴封鎖是犯罪行為，並表示古巴不對美國或世界上任何其他國家構成威脅，是美國“殘酷策劃的種族滅絕”政策受害者。（新華社）
-
----
-
-### 2026-07-27 04:21:55  #MKT News
-
-Qatari PM and foreign minister Mohammed reaffirmed Qatar's full support for efforts to defuse tensions and reach a comprehensive agreement to secure sustainable peace in the region.
-
----
-
-### 2026-07-27 04:21:53  #MKT News #WTI #Impact bearish #Brent
-
-Qatar foreign ministry said Qatari PM and foreign minister Mohammed, in a call, stressed parties must pursue dialogue and diplomacy and implement the consensus reached under the US‑Iran memorandum framework, including ensuring freedom of navigation in the Strait of Hormuz to safeguard regional security and preserve stability.
-
----
-
-### 2026-07-27 04:21:37  #MKT News
-
-Qatar's foreign ministry said QATARI PM and foreign minister Mohammed held a phone call with Oman's foreign minister.
-
----
-
-### 2026-07-27 04:18:29  #市場
-
-【公募FOF規模和利潤雙創新高 債券基金依然是“壓艙石”】Wind資料顯示，公募FOF重倉的前50大基金中，債券型基金佔據36席，數量佔比超過七成。與此同時，隨著指數化投資時代的到來，ETF產品在FOF持倉中的比重明顯提升，尤其短久期、高流動性的債券ETF及利率債ETF受到青睞，反映出FOF管理人對工具化、低費率、高透明度品種的偏好。
-
----
-
-### 2026-07-27 04:16:09  #國際
-
-特朗普：我們的彈藥儲備遠超全球任何國家，也遠遠超出本國實際需求。
-
----
-
-### 2026-07-27 03:46:07  #國際
-
-特朗普：要讓敵人夜夜難安、心生恐懼。
-
----
-
-### 2026-07-27 03:45:55  #MKT News
-
-Wall Street Journal: Trump denied the U.S. faces an ammunition shortage, saying U.S. stockpiles exceed those of any other country and surpass actual operational demand.
 
 ---

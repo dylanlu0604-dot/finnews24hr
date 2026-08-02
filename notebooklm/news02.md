@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-03 03:45:39_
-_本檔包含 3585 則快訊，約 670316 字_
+_更新時間：2026-08-03 04:51:46_
+_本檔包含 3582 則快訊，約 671122 字_
+
+---
+
+### 2026-07-31 14:53:56  #國際
+
+【基輔傳出爆炸聲】當地時間7月31日，烏克蘭首都基輔傳出爆炸聲。此前基輔曾拉響防空警報。基輔市市長克利奇科通報稱，基輔市防空系統正在運作以應對俄軍無人機襲擊。（央視新聞）
+
+---
+
+### 2026-07-31 14:53:33  #其他
+
+【甘肅隴南一地啟動氣象災害（暴雨）Ⅰ級應急響應】甘肅省隴南市禮縣氣象臺7月31日10時24分將暴雨黃色預警訊號升級為暴雨紅色預警訊號：過去6小時，該縣寬川鎮已經出現70毫米以上的降水量，降水仍將持續，預計今天白天，該縣寬川鎮、祁山鎮、紅河鎮、鹽官鎮、馬河鄉等鄉鎮降水量將達100毫米以上，出現大暴雨。需注意防範由強降水可能引發的中小河流洪水、山洪及滑坡、泥石流、城鄉積澇等次生災害。據此，禮縣氣象災害應急指揮部決定於7月31日10時50分將氣象災害（暴雨）Ⅲ級應急響應調整為Ⅰ級應急響應。（央視新聞）
+
+---
+
+### 2026-07-31 14:52:52  #其他
+
+【合肥：將繼續堅持科技打頭陣】“捨得把城市最好的資源、最優的環境留給創新”。31日上午，記者從安徽省政府新聞釋出會上獲悉，合肥市將繼續堅持科技打頭陣、堅持工業立市不動搖、強化企業創新主體地位，進一步完善創新生態、激發創新活力。合肥市人民政府市長張泉介紹，合肥市堅持以科技創新引領新質生產力發展，捨得把城市最好的資源、最優的環境留給創新，全社會研發投入強度達4.11%，躍居全球科研城市第12位、“科技叢集”第39位。他表示，科技創新是合肥這座城市的鮮明特質，也是最核心的競爭優勢。面向“十五五”，合肥市將在全面參與共建上海（長三角）國際科技創新中心、服務保障合肥濱湖科學城實體化改革的基礎上，著力做好科技成果轉化，加速破解創新鏈與產業鏈“相望難相見”問題。（新華社）
+
+---
+
+### 2026-07-31 14:52:40  #央行 #國際
+
+日本央行行長植田和男：將實施貨幣政策，確保不會滯後於形勢。
+
+---
+
+### 2026-07-31 14:51:41  #宏觀 #央行 #國際
+
+日本央行行長植田和男：我們並非必須等到資料明確顯示2%通脹完全企穩後，才能出臺政策調整。
+
+---
+
+### 2026-07-31 14:51:28  #國際
+
+【中蒙舉行第二十四輪領事磋商】7月30日，外交部領事司司長龍舟與蒙古外交部領事局局長賓德歷亞在烏蘭巴托共同主持中蒙第二十四輪領事磋商。雙方重點就中蒙領事關係、便利人員往來、維護海外公民安全與合法權益等議題深入交換意見。雙方一致同意要落實好兩國元首重要共識，加強領事合作，進一步提升雙方人員往來便利化水平，維護好雙方人員和機構安全與合法權益，服務兩國各領域務實合作，推動構建中蒙命運共同體。
+
+---
+
+### 2026-07-31 14:51:03  #Trading Economics #Economy #France #Inflation Rate #Importance 2
+
+France Inflation Rate Unexpectedly Picks Up — The annual inflation rate in France accelerated to 2.1% in July 2026, defying market expectations that it would hold at June's 1.8%, according to preliminary estimates. The pickup was mainly driven by faster increases in services prices (2.3% vs. 1.9% in June), particularly for accommodation and communication services, alongside stronger energy inflation (12.4% vs. 11.0%) amid higher gas and petroleum product prices. Meanwhile, the decline in manufactured goods prices eased (-0.7% vs. -1.1%), partly reflecting less pronounced seasonal sales effects, while food inflation held steady at 0.9% and tobacco inflation remained unchanged at 3.3%. On a monthly basis, consumer prices rose 0.6%, rebounding from a 0.3% decline in June, driven by seasonal increases in transport and accommodation services as well as higher energy prices. The EU-harmonised annual inflation rate also accelerated to 2.4% from 2.0%, while the monthly HICP increased 0.6% after falling 0.3% in June.
+
+---
+
+### 2026-07-31 14:50:48  #其他
+
+鎧俠：有望贏得2028年產能50%的長期合同。
+
+---
+
+### 2026-07-31 14:50:40  #市場 #焦點
+
+集運指數歐線期貨連續主力合約日內漲4%，現報1798.50點。
+
+---
+
+### 2026-07-31 14:50:23  #Trading Economics #Economy #Switzerland #Retail Sales YoY #Importance 1
+
+Swiss Retail Sales Growth Slows in June — Retail sales in Switzerland rose by 1.5% year-on-year in June 2026, falling short of market expectations for a 3.2% increase and slowing from a downwardly revised eleven-month high of 3.4% gain in the previous month. The slowdown reflected weaker momentum across most retail categories, with overall trade excluding service stations easing to 1.5% from 3.2% in May. Among non-food retailers, turnover growth also slowed to 1% from 3.8%, largely driven by declines in sales of other goods (-1.9% vs 5.3%) and via mail order and the internet (-3.7% vs 6.0%). At the same time, revenues for food, beverages and tobacco moderated to 2.1% from 2.5%, while activity at service stations remained weak, declining 9.6% after a 6.1% drop in May. On a seasonally adjusted monthly basis, retail sales grew by 0.2% in June, the softest rise since October last year and slowing from an upwardly revised 0.9% gain in the preceding period.
+
+---
+
+### 2026-07-31 14:50:19  #公司
+
+【博雷頓正在開發移動、可拆卸的模組化能源產品】7月31日，博雷頓正在開發可移動、可拆卸的模組化能源產品，計劃首先在非洲部署1萬個能源單元。公司現階段計劃在剛果（金）拓展20箇中大型礦山客戶，並在非洲跑通模式後進入澳大利亞和南美市場。（介面新聞）
+
+---
+
+### 2026-07-31 14:50:12  #市場 #國際
+
+菲律賓股市指數下跌1.1%，至6236.44。
+
+---
+
+### 2026-07-31 14:49:42  #公司 #國際
+
+俄羅斯鐵路公司將為氧化鋁貨運提供折扣。
+
+---
+
+### 2026-07-31 14:48:27  #Trading Economics #Markets #Commodity #Importance 1
+
+UK Gas Prices Drop Further — UK natural gas prices fell to around 140 pence per therm on Friday, extending Thursday’s decline amid signs of improving shipping conditions through the Strait of Hormuz despite regional tensions and steady LNG arrivals in Europe. Qatar sent its first LNG tanker through the waterway in more than three weeks, raising hopes that exports from one of the world's largest LNG suppliers could gradually resume. Increased LNG arrivals into Northwest Europe and stable pipeline flows from Norway, also helped ease supply concerns. Despite the recent pullback, UK gas prices remain more than 34% higher in July, as renewed US-Iran hostilities disrupted Persian Gulf supplies while heatwaves boosted electricity demand, limiting Europe's ability to replenish inventories ahead of winter. EU storage facilities are about 55% full, below the seasonal five-year average and behind the pace needed to comfortably meet pre-winter storage targets before the heating season begins in November.
 
 ---
 
@@ -21524,107 +21608,5 @@ Shell (SHEL.N) CFO said inventory draws have supported the market, but the buffe
 ### 2026-07-30 15:04:42  #公司
 
 【中原證券：維持寧德時代“增持”評級，業績超預期，持續關注動力儲能龍頭】中原證券研報指出，寧德時代業績超預期，持續關注動力儲能龍頭。2026年上半年營業利潤556.65億元，同比增長54.80%；歸母淨利潤432.84億元，同比增長41.98%；2026年中期分紅方案為擬每10股派發現金分紅14.17元(含稅)。公司業績超預期，業績增長主要受益於行業增長帶動公司動力和儲能電池系統銷售增長。其中，公司2026年第二季度實現淨利潤225.46億元，同比增長36.46%，環比增長8.72%。公司是全球領先的新能源科技公司，主要從事動力電池、儲能電池和電池回收利用產品的研發、生產和銷售。預計2026 年新能源汽車和鋰電池行業景氣度將持續向上，2026年我國新能源汽車將持續增長，但考慮購置稅減免降低影響及基數效應，預計2026年新能源汽車銷售增速將回落。結合行業增長預期和產業鏈價格走勢，以及公司在動力電池領域連續多年位居全球第一，預計2026年公司動力電池業績將高增長。目前估值相對行業水平合理，結合行業發展前景及公司行業地位，維持公司“增持”投資評級。
-
----
-
-### 2026-07-30 15:04:30  #其他
-
-德希尼布能源NV股價延續跌勢，最新跌幅達10.5%，即將迎來2023年10月中旬以來表現最差的單日行情。
-
----
-
-### 2026-07-30 15:04:16  #國際
-
-【商務部介紹近期中歐密集磋商進展】針對近期中歐雙方保持密集磋商的進展情況，商務部新聞發言人何亞東在30日舉行的例行新聞釋出會上說，中歐貿易投資磋商機制首次會議上，雙方就“穩定、平衡的中歐關鍵貿易伙伴”這個新定位達成共識，並初步商定今年秋季舉行磋商機制第二次會議。何亞東說，一個月以來，我們積極落實首次會議成果共識，全力籌備二次會議，對內密集協調，對外保持高頻次、多層級磋商。中歐雙方工作團隊已分別開展20餘次磋商，四個工作組就彼此經貿訴求開展深入、專業溝通交流。中方願與歐方繼續保持高頻次溝通，相互尊重、相向而行，探討解決經貿領域各自關切的務實可行方案，推動中歐貿易向上平衡、向前發展，保持中歐關鍵貿易伙伴關係穩定和平衡。（新華社）
-
----
-
-### 2026-07-30 15:03:42  #其他
-
-【ETF兩市成交額報5344.49億元，較昨日此時放量173.83億元】截至目前，ETF兩市成交額報5344.49億元，較昨日此時放量173.83億元，分型別來看，股票型ETF成交額2299.63億元，債券型ETF成交額1707.55億元，貨幣型ETF成交額302.26億元，商品型ETF成交額77.05億元，QDII型ETF成交額958.0億元。
-
----
-
-### 2026-07-30 15:03:33  #公司 #市場
-
-阿迪達斯股份公司<ADSGn.DE>股價在業績釋出後下跌15%。
-
----
-
-### 2026-07-30 15:03:27  #MKT News #Market Regions #Europe & UK #ADS.DE #Impact bearish
-
-Adidas shares in Germany fell 15% after the company reported results.
-
----
-
-### 2026-07-30 15:03:20  #市場
-
-【銀行間主要利率債收益率快速下行】銀行間主要利率債收益率快速下行，30年期國債“26超長特別國債04”收益率下行1.2bp報2.1950%， 10年期國開債“26國開05”收益率下行0.7bp報1.7870%，10年期國債“26附息國債10”收益率下行0.82bp報1.7130%。
-
----
-
-### 2026-07-30 15:03:14  #其他
-
-巴基斯坦稱美伊就降溫局勢的會談“仍在進行中”。
-
----
-
-### 2026-07-30 15:02:53  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
-
-Shell Stock Price Hits 15-week High — Shell shares increased to 39.45 EUR, the highest since April 2026. Over the past 4 weeks, Shell plc gained 15.21%, and in the last 12 months, it increased 25.83%.
-
----
-
-### 2026-07-30 15:02:51  #觀點
-
-摩根士丹利將高通目標股價從231美元下調至220美元。
-
----
-
-### 2026-07-30 15:02:34  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
-
-CHINA'S SHANGHAI COMPOSITE INDEX closed down 23.78 points (-0.62%) at 3,804.69 on Thursday, July 30. Shenzhen Composite Index fell 372.64 points (-2.73%) to 13,285.80. CSI 300 INDEX lost 50.54 points (-1.10%) to 4,549.72. CHINEXT INDEX closed down 134.08 points (-3.97%) at 3,244.62. China Sci‑Tech Innovation 50 Index dropped 90.33 points (-5.38%) to 1,588.41.
-
----
-
-### 2026-07-30 15:02:30  #其他
-
-【國家統計局：2025年我國“三新”經濟增加值佔國內生產總值比重為18.39%】國家統計局資料顯示，2025年我國“三新”經濟增加值為257869億元，按現價計算，比上年增長6.2%，高於同期國內生產總值（GDP）現價增速2.2個百分點；佔GDP的比重為18.39%，比上年提高0.38個百分點。（國家統計局）
-
----
-
-### 2026-07-30 15:02:30  #MKT News #Market Regions #Greater China
-
-【NBS: China’s 'three-new' economy value added 25.79 trillion yuan in 2025, 18.39% of GDP】The National Bureau of Statistics said China’s three-new economy (new industries, new business forms and new models) generated 25.79 trillion yuan of value added in 2025, up 6.2% at current prices—2.2 percentage points faster than nominal GDP—and accounted for 18.39% of GDP, a 0.38 ppt increase YoY.
-
----
-
-### 2026-07-30 15:02:26  #MKT News #QCOM.O #Impact bearish
-
-Bernstein cuts Qualcomm (QCOM.O) PT to $165 from $235.
-
----
-
-### 2026-07-30 15:02:17  #市場
-
-斯泰蘭蒂斯米蘭上市股票在釋出第二季度業績後開盤未能啟動交易，顯示下跌5%。
-
----
-
-### 2026-07-30 15:02:13  #MKT News #Market Regions #Greater China #SSE Composite
-
-【Shanghai, Shenzhen combined turnover RMB 2.343tn; Zhongji Xuchuang tops stock turnover】July 30 — Shanghai and Shenzhen combined turnover totaled RMB 2.343 trillion, up RMB 46.23 billion from the previous session. Shanghai turnover was RMB 1.1065 trillion (prior RMB 1.0874 trillion) with 592 million lots traded (571 million). Shenzhen turnover was RMB 1.2363 trillion (prior RMB 1.2092 trillion) with 687 million lots traded (675 million). Zhongji Xuchuang led individual-stock turnover at RMB 59.77 billion, followed by C Changxin RMB 44.71 billion, Xinyisheng RMB 36.13 billion, GigaDevice RMB 35.48 billion and Cambricon RMB 19.92 billion.
-
----
-
-### 2026-07-30 15:01:56  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
-
-On July 30 (Thursday) European opens: Germany's DAX opened down 76.26 points (-0.30%) at 25,372.50; the UK's FTSE 100 opened down 35.41 points (-0.32%) at 10,873.00; France's CAC 40 opened up 17.62 points (+0.21%) at 8,425.89; STOXX Europe 50 opened up 0.81 points (+0.01%) at 6,249.65; Spain's IBEX 35 opened up 16.98 points (+0.09%) at 19,407.28; Italy's FTSE MIB opened down 192.11 points (-0.37%) at 51,251.00.
-
----
-
-### 2026-07-30 15:01:55  #市場
-
-【收評：科創50指數跌超5%，大消費板塊逆勢走強】市場全天探底回升，三大指數集體調整，科創50跌超5%。以白酒為的消費股逆勢走強，一鳴食品3連板，金徽酒、捨得酒業等漲停。銀行板塊震盪拉昇，工商銀行、建設銀行均創歷史新高。下跌方面，半導體晶片股走低，長電科技、通富微電等跌停，華虹宏力、寒武紀等跌超10%；算力硬體股下挫，劍橋科技、東山精密等跌停，新易盛、天孚通訊等跌超10%。個股跌多漲少，滬深京三市超3600股飄綠，今日成交2.36萬億。截止收盤滬指跌0.62%，深成指跌2.73%，創業板指跌3.97%。
 
 ---

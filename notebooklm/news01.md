@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-03 03:45:39_
-_本檔包含 3548 則快訊，約 670394 字_
+_更新時間：2026-08-03 04:51:46_
+_本檔包含 3557 則快訊，約 670853 字_
+
+---
+
+### 2026-08-03 04:38:30  #市場
+
+【股票ETF7月吸金超4700億元 寬基產品成為絕對主力】7月，A股市場出現大幅回撤，但股票ETF卻迎來大規模資金湧入。 整體看，股票ETF中的寬基ETF和行業主題ETF合計吸金超4700億元。其中，寬基指數ETF成為資金買入的絕對主力，跟蹤滬深300、中證A500等核心寬基指數的ETF均獲大幅加碼，跟蹤科創50、中證1000和創業板指等寬基ETF也呈現多點開花態勢。 行業主題ETF方面，跌幅較大的半導體ETF上演越跌越買態勢，反彈較多的港股科技ETF則呈現越漲越賣態勢，可以看出資金抄底與止盈操作同時存在。其他資產方面，貨幣、商品及可轉債ETF獲得資金增配，信用債、利率債和跨境ETF則出現資金淨流出。（證券時報）
+
+---
+
+### 2026-08-03 04:37:40  #其他
+
+【AI應用賽道迎底部修復 多隻主題基金單日漲幅超10%】7月最後一個交易日，科技板塊迎來強勢反彈，AI行情主線顯著切換，資金從光模組、儲存晶片等上游硬體湧向AI短劇、大模型等下游應用端，十餘隻重倉AI傳媒標的基金單日漲幅超10%；一方面是AI應用賽道基金短期回血，另一方面是前期領跑的AI硬體主題基金漲幅明顯落後，年內收益大幅縮水。劇烈輪動行情下，基金投資者持倉盈虧分化加劇。（證券時報）
+
+---
+
+### 2026-08-03 04:37:18  #市場
+
+【公募前七月業績大洗牌 年內翻倍基金僅剩兩隻】伴隨7月收官，公募基金行業2026年前7個月的權益基金業績全貌揭曉。A股市場的極致結構性行情迎來階段性調整，此前引爆市場的AI、半導體成長賽道基金出現顯著淨值回撤，翻倍基金數量大幅縮水，僅易方達基金旗下兩隻產品守住翻倍收益。 Wind資料顯示，截至7月31日，年內收益率超過100%的主動權益基金僅剩2只，而上半年這一數字曾高達199只。具體來看，前7個月業績排名前20席位被科技、AI主題基金包攬，但絕大多數基金產品在近一個月出現明顯淨值回撤，資金在高位選擇兌現，紅利、醫藥、中小盤品種則迎來逆勢修復視窗。（證券時報）
+
+---
+
+### 2026-08-03 04:36:49  #其他
+
+【近300只中風險基金單月暴跌超30% 基金風險評級滯後問題待解】7月科技板塊劇烈回撥之下，790只跌幅超30%的主動權益基金裡逾三分之一維持R3中風險等級，短期深度回撤未能同步反映在風險分級調整中。基金產品風險評級嚴重滯後,與真實波動大幅脫節的行業亂象隨之浮出水面。 有公募業內人士在接受證券時報記者採訪時表示，相關基金的風險等級未能及時揭示淨值下行風險，存在明顯滯後。基金風險等級劃分制度雖已施行多年，但實際執行效果仍不盡如人意：各機構評級標準與頻率不一，甚至出現“同基不同級”現象；加之機構缺乏主動調整動力，評級往往流於合規形式。要切實提升風險等級的有效性，還需從破除現實障礙、理順利益衝突入手。（證券時報）
+
+---
+
+### 2026-08-03 04:27:10  #MKT News #Commodities #Energy #Brent #Impact bullish #XAUUSD
+
+【Russia, Ukraine continue reciprocal strikes on infrastructure on Sunday】The Russian military said Ukrainian drones carried out overnight strikes on an oil refinery in Saratov, triggering a fire. Ukrainian forces said they destroyed the refinery and also attacked a nearby air base that hosts Tu-95 long-range strategic bombers Russia uses to launch cruise missiles at Ukraine. Russia said its forces struck infrastructure in the Ukrainian port city of Mykolaiv, hit two vessels carrying military cargo, and struck a ship in the Black Sea. Saratov is about 730 km southeast of Moscow and more than 1,000 km from Kyiv.
+
+---
+
+### 2026-08-03 04:27:02  #其他
+
+摩洛哥內政部：致力於開展國際協作，打擊非法移民並維護邊境安全。
+
+---
+
+### 2026-08-03 04:26:14  #國際
+
+【美國參議員公佈臨時撥款法案，力求避免今秋政府停擺】美國參議院談判代表達成跨黨派協議，旨在避免今年秋季全美政府停擺。參議院撥款委員會主席蘇珊·柯林斯與副主席帕蒂·默裡於週日公佈法案文字。該法案將維持大部分政府機構現有資金規模，撥款期限延續至12月。參議院多數黨領袖約翰·休恩計劃在參議院8月休會前，於本週推動該法案進行表決。
+
+---
+
+### 2026-08-03 04:25:07  #MKT News
+
+【Senate Appropriations Committee releases funding bill text】Semafor reports Senators Collins and Murray circulated a continuing resolution that would fund the U.S. government through Dec. 11 and blocks an Office of Management and Budget (OMB) proposed rule that would allow the administration to rescind federal grants to states, including so-called blue states. Collins said the bill "prevents the OMB proposed rule on federal financial assistance from taking effect." Murray said the CR "prevents implementation of this corrupt new OMB grants rule during the continuing resolution," adding the proposal would systemically politicize federal funds and allow Trump administration officials to cancel grants "at any time for any reason."
+
+---
+
+### 2026-08-03 04:16:34  #國際
+
+奧迪釋出全新Q9三排座SUV，主攻美國市場，定位品牌旗艦車型。
+
+---
+
+### 2026-08-03 04:10:11  #其他
+
+【中國地震局啟動四級應急響應 現場工作隊趕赴震區】據中國地震臺網正式測定，2026年8月3日2時21分，在四川宜賓市高縣（北緯28.54度，東經104.67度）發生4.8級地震，震源深度6公里。地震發生後，中國地震局迅速啟動四級應急響應，排程中國地震臺網中心、四川省地震局開展應急處置，要求有關單位開展聯合會商，加強震情監測和震後趨勢研判，及時報告有關情況。目前，四川省地震局已派出現場工作隊趕赴震區，協助地方政府開展應急處置工作。（央視新聞）
+
+---
+
+### 2026-08-03 04:06:13  #焦點 #國際
+
+日本財務大臣：將於週一宣佈東京與華盛頓採取聯合行動遏制日元貶值。
+
+---
+
+### 2026-08-03 04:05:09  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+【Netanyahu learned via President Trump's social-media post that the U.S. halted planned strikes on Iran】Multiple Israeli officials said Israel was excluded from the U.S. decision for hours and was unaware the U.S. had canceled planned strikes on Iran. A senior Israeli official said, "For several hours we were in a complete information vacuum and uncertainty; President Trump left us in the fog. Senior officers only learned of the latest developments from the president's personal social-media post."
+
+---
+
+### 2026-08-03 04:04:32  #國際
+
+【以稱內塔尼亞胡透過特朗普社媒得知美叫停對伊打擊】多名以色列官員稱，在美國取消針對伊朗的既定襲擊計劃前，以方被排除在決策資訊之外長達數小時，對美方取消行動的決定毫不知情。一名以色列高階官員說，“有幾個小時，我們處於完全的資訊真空與不確定之中，特朗普總統讓我們陷入了迷霧。高階軍官們甚至是透過特朗普的個人社交媒體帖文，才獲悉最新的事態進展”。
+
+---
+
+### 2026-08-03 03:57:11  #其他
+
+中國地震臺網正式測定：08月03日03時54分在四川宜賓市高縣（北緯28.55度，東經104.66度）發生3.3級地震，震源深度6千米。
+
+---
+
+### 2026-08-03 03:50:28  #其他
+
+摩洛哥內政部稱，在試圖大規模越境進入休達期間，有10人溺水身亡，另有1人墜崖死亡。
+
+---
+
+### 2026-08-03 03:45:38  #公司
+
+【下週美股財報提醒】週一（8月3日），Palantir、安森美半導體等將釋出業績報告；週二，SpaceX、AMD、卡特彼勒等將釋出業績報告；週三，諾和諾德、閃迪、西部資料、迪士尼等釋出業績報告。
+
+---
+
+### 2026-08-03 03:41:39  #MKT News
+
+【3.3-magnitude quake in Gaoxian County, Yibin (Sichuan); depth 5 km】cenc recorded a 3.3-magnitude earthquake at 03:29 on Aug 3 in Gaoxian County, Yibin, Sichuan (28.55N, 104.67E); hypocenter depth 5 km.
+
+---
+
+### 2026-08-03 03:37:19  #MKT News
+
+Morocco's interior ministry said Spain's recent ruling restricting maritime interception and immediate repatriation has encouraged some potential migrants to attempt crossings.
+
+---
+
+### 2026-08-03 03:36:52  #其他
+
+摩洛哥內政部稱，10人在大規模越境進入休達事件中喪生。
+
+---
+
+### 2026-08-03 03:35:58  #其他
+
+摩洛哥內政部表示，西班牙近期限制海上攔截立即遣返的裁決，助長了部分潛在移民的嘗試意願。
+
+---
+
+### 2026-08-03 03:35:55  #MKT News
+
+Morocco's Interior Ministry said it will continue coordinating with Spain to combat illegal migration and secure the border.
+
+---
+
+### 2026-08-03 03:34:26  #MKT News
+
+Morocco's Interior Ministry blamed social-media misinformation and human traffickers for a surge in migrants to Ceuta, saying about 40,000 people attempted to cross into the Spanish enclave.
+
+---
+
+### 2026-08-03 03:33:48  #其他
+
+摩洛哥內政部表示，約4萬人試圖進入西班牙飛地休達，另有約1135人試圖進入梅利利亞。
 
 ---
 
@@ -21352,89 +21490,5 @@ French Producer Prices Drop 0.6% in June — French domestic producer prices dec
 ### 2026-07-31 14:54:35  #公司
 
 【冀中能源增資至約38.9億 增幅10%】天眼查App顯示，近日，冀中能源股份有限公司發生工商變更，註冊資本由約35.3億人民幣增加至約38.9億人民幣，增幅10%。該公司成立於1999年8月，法定代表人為閆雲勝，經營範圍包括煤炭開採、煤炭洗選等。
-
----
-
-### 2026-07-31 14:53:56  #國際
-
-【基輔傳出爆炸聲】當地時間7月31日，烏克蘭首都基輔傳出爆炸聲。此前基輔曾拉響防空警報。基輔市市長克利奇科通報稱，基輔市防空系統正在運作以應對俄軍無人機襲擊。（央視新聞）
-
----
-
-### 2026-07-31 14:53:33  #其他
-
-【甘肅隴南一地啟動氣象災害（暴雨）Ⅰ級應急響應】甘肅省隴南市禮縣氣象臺7月31日10時24分將暴雨黃色預警訊號升級為暴雨紅色預警訊號：過去6小時，該縣寬川鎮已經出現70毫米以上的降水量，降水仍將持續，預計今天白天，該縣寬川鎮、祁山鎮、紅河鎮、鹽官鎮、馬河鄉等鄉鎮降水量將達100毫米以上，出現大暴雨。需注意防範由強降水可能引發的中小河流洪水、山洪及滑坡、泥石流、城鄉積澇等次生災害。據此，禮縣氣象災害應急指揮部決定於7月31日10時50分將氣象災害（暴雨）Ⅲ級應急響應調整為Ⅰ級應急響應。（央視新聞）
-
----
-
-### 2026-07-31 14:52:52  #其他
-
-【合肥：將繼續堅持科技打頭陣】“捨得把城市最好的資源、最優的環境留給創新”。31日上午，記者從安徽省政府新聞釋出會上獲悉，合肥市將繼續堅持科技打頭陣、堅持工業立市不動搖、強化企業創新主體地位，進一步完善創新生態、激發創新活力。合肥市人民政府市長張泉介紹，合肥市堅持以科技創新引領新質生產力發展，捨得把城市最好的資源、最優的環境留給創新，全社會研發投入強度達4.11%，躍居全球科研城市第12位、“科技叢集”第39位。他表示，科技創新是合肥這座城市的鮮明特質，也是最核心的競爭優勢。面向“十五五”，合肥市將在全面參與共建上海（長三角）國際科技創新中心、服務保障合肥濱湖科學城實體化改革的基礎上，著力做好科技成果轉化，加速破解創新鏈與產業鏈“相望難相見”問題。（新華社）
-
----
-
-### 2026-07-31 14:52:40  #央行 #國際
-
-日本央行行長植田和男：將實施貨幣政策，確保不會滯後於形勢。
-
----
-
-### 2026-07-31 14:51:41  #宏觀 #央行 #國際
-
-日本央行行長植田和男：我們並非必須等到資料明確顯示2%通脹完全企穩後，才能出臺政策調整。
-
----
-
-### 2026-07-31 14:51:28  #國際
-
-【中蒙舉行第二十四輪領事磋商】7月30日，外交部領事司司長龍舟與蒙古外交部領事局局長賓德歷亞在烏蘭巴托共同主持中蒙第二十四輪領事磋商。雙方重點就中蒙領事關係、便利人員往來、維護海外公民安全與合法權益等議題深入交換意見。雙方一致同意要落實好兩國元首重要共識，加強領事合作，進一步提升雙方人員往來便利化水平，維護好雙方人員和機構安全與合法權益，服務兩國各領域務實合作，推動構建中蒙命運共同體。
-
----
-
-### 2026-07-31 14:51:03  #Trading Economics #Economy #France #Inflation Rate #Importance 2
-
-France Inflation Rate Unexpectedly Picks Up — The annual inflation rate in France accelerated to 2.1% in July 2026, defying market expectations that it would hold at June's 1.8%, according to preliminary estimates. The pickup was mainly driven by faster increases in services prices (2.3% vs. 1.9% in June), particularly for accommodation and communication services, alongside stronger energy inflation (12.4% vs. 11.0%) amid higher gas and petroleum product prices. Meanwhile, the decline in manufactured goods prices eased (-0.7% vs. -1.1%), partly reflecting less pronounced seasonal sales effects, while food inflation held steady at 0.9% and tobacco inflation remained unchanged at 3.3%. On a monthly basis, consumer prices rose 0.6%, rebounding from a 0.3% decline in June, driven by seasonal increases in transport and accommodation services as well as higher energy prices. The EU-harmonised annual inflation rate also accelerated to 2.4% from 2.0%, while the monthly HICP increased 0.6% after falling 0.3% in June.
-
----
-
-### 2026-07-31 14:50:48  #其他
-
-鎧俠：有望贏得2028年產能50%的長期合同。
-
----
-
-### 2026-07-31 14:50:40  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內漲4%，現報1798.50點。
-
----
-
-### 2026-07-31 14:50:23  #Trading Economics #Economy #Switzerland #Retail Sales YoY #Importance 1
-
-Swiss Retail Sales Growth Slows in June — Retail sales in Switzerland rose by 1.5% year-on-year in June 2026, falling short of market expectations for a 3.2% increase and slowing from a downwardly revised eleven-month high of 3.4% gain in the previous month. The slowdown reflected weaker momentum across most retail categories, with overall trade excluding service stations easing to 1.5% from 3.2% in May. Among non-food retailers, turnover growth also slowed to 1% from 3.8%, largely driven by declines in sales of other goods (-1.9% vs 5.3%) and via mail order and the internet (-3.7% vs 6.0%). At the same time, revenues for food, beverages and tobacco moderated to 2.1% from 2.5%, while activity at service stations remained weak, declining 9.6% after a 6.1% drop in May. On a seasonally adjusted monthly basis, retail sales grew by 0.2% in June, the softest rise since October last year and slowing from an upwardly revised 0.9% gain in the preceding period.
-
----
-
-### 2026-07-31 14:50:19  #公司
-
-【博雷頓正在開發移動、可拆卸的模組化能源產品】7月31日，博雷頓正在開發可移動、可拆卸的模組化能源產品，計劃首先在非洲部署1萬個能源單元。公司現階段計劃在剛果（金）拓展20箇中大型礦山客戶，並在非洲跑通模式後進入澳大利亞和南美市場。（介面新聞）
-
----
-
-### 2026-07-31 14:50:12  #市場 #國際
-
-菲律賓股市指數下跌1.1%，至6236.44。
-
----
-
-### 2026-07-31 14:49:42  #公司 #國際
-
-俄羅斯鐵路公司將為氧化鋁貨運提供折扣。
-
----
-
-### 2026-07-31 14:48:27  #Trading Economics #Markets #Commodity #Importance 1
-
-UK Gas Prices Drop Further — UK natural gas prices fell to around 140 pence per therm on Friday, extending Thursday’s decline amid signs of improving shipping conditions through the Strait of Hormuz despite regional tensions and steady LNG arrivals in Europe. Qatar sent its first LNG tanker through the waterway in more than three weeks, raising hopes that exports from one of the world's largest LNG suppliers could gradually resume. Increased LNG arrivals into Northwest Europe and stable pipeline flows from Norway, also helped ease supply concerns. Despite the recent pullback, UK gas prices remain more than 34% higher in July, as renewed US-Iran hostilities disrupted Persian Gulf supplies while heatwaves boosted electricity demand, limiting Europe's ability to replenish inventories ahead of winter. EU storage facilities are about 55% full, below the seasonal five-year average and behind the pace needed to comfortably meet pre-winter storage targets before the heating season begins in November.
 
 ---

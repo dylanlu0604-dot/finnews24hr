@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-03 03:45:39_
-_本檔包含 3672 則快訊，約 670370 字_
+_更新時間：2026-08-03 04:51:46_
+_本檔包含 3675 則快訊，約 670775 字_
+
+---
+
+### 2026-07-29 14:21:46  #公司 #觀點
+
+【高盛：寧德時代正轉型為綜合能源解決方案供應商，重申“買入”評級】高盛發表報告指，寧德時代次季純利同比增長36%至225.5億元，符合該行及市場預期，期內收入創新高達1477.9億元，同比升57%。上半年電池銷量同比增長60%至約435GWh，其中ESS儲能系統佔總銷量四分之一；第二季銷量同比增長約60%至約235GWh，延續去年第四季以來的強勁增長。管理層對下半年及2027年需求維持樂觀，重申長期銷量複合年增長率20%至30%的預期。該行重申“買入”評級，H股及A股目標價分別為947港元及565元。高盛指出，寧德時代公佈歷來最大規模的A股回購計劃，涉及金額200億至400億元，用於回購登出股份，同時宣派中期股息64.9億元(每股1.41元)。管理層透露，大部分在建產能(共764GWh)將於未來一至兩年投產，而鈉離子電池已獲國內外客戶大額訂單，預期AIDC專用電源方案將於未來一至兩年實現大規模商業部署。該行認為，寧德時代正從電池製造商轉型為綜合能源解決方案供應商，電池儲能系統(BESS)整合業務將開啟新一輪價值創造。
+
+---
+
+### 2026-07-29 14:21:06  #其他
+
+市場訊息：廣達電腦擬從GDS出售中獲得至多22億美元。
+
+---
+
+### 2026-07-29 14:20:43  #市場
+
+澳大利亞S&P/ASX 200指數收盤上漲1%，至9038.60點。
+
+---
+
+### 2026-07-29 14:20:39  #Trading Economics #Economy #Germany #Import Prices YoY #Importance 2
+
+German Import Prices Ease from 2-1/2-Year High — Germany’s import prices rose 6.1% yoy in June 2026, easing from May’s 6.8%, which had marked the strongest gain since December 2022. The latest reading was slightly above market expectations of 6.0%, extending the current streak of annual gains to four months. Energy prices remained the main driver, though their pace slowed (23.9% vs 37.2% in May), with notable rises in electricity (70.8%), petroleum (36.0%), crude oil (32.1%), hard coal (12.1%), and natural gas (8.3%). Cost of intermediate goods accelerated (10.3% vs 10.1%), due to higher prices of non-ferrous metals and semi-finished products (27.5%), including precious metals (34.5%) and copper (30.3%). Capital goods inflation also strengthened (2.9% vs 2.2%). By contrast, consumer goods prices continued to fall (-0.8% vs -1.3%), as non-durable goods dropped 1.2% while durable goods rose 0.7%. Monthly, import prices slipped 0.7%, reversing May’s 0.7% rise and signaling the first monthly drop since December, in line with estimates.
+
+---
+
+### 2026-07-29 14:20:23  #其他
+
+中國地震臺網正式測定：07月29日14時09分在新疆阿克蘇地區烏什縣（北緯41.37度，東經78.73度）發生4.6級地震，震源深度10千米。
+
+---
+
+### 2026-07-29 14:20:20  #國際
+
+【約旦稱攔截5枚自伊朗方向發射的導彈】據約旦武裝部隊發言人當地時間7月29日發表的宣告，約旦防空部隊依託監視和跟蹤系統，於當天凌晨對5枚自伊朗方向飛向約旦領土的導彈實施攔截，並按照既定交戰規則將其全部擊落。（央視新聞）
+
+---
+
+### 2026-07-29 14:20:20  #Trading Economics #Economy #Norway #Retail Sales MoM #Importance 1
+
+Norway Retail Sales Growth Hits Near 2-Year High — Retail sales in Norway grew 1.8% month over month in June 2026, rebounding from an upwardly revised 2.4% drop in May, which was the steepest decline since June 2024. It was the fastest increase in retail sales since May 2024, driven by a rebound in sales at non-specialized stores (1.6% vs -2.1% in May), food, beverages, and tobacco stores (1.8% vs -1.6%), ICT equipment stores (0.1% vs -5.3%), other household equipment stores (1.7% vs -1.3%), cultural and recreational goods stores (3.8% vs -6.9%), while sales through non-store retailing rose at a much faster pace (1.9% vs 0.1%). Additionally, sales fell at a slower pace for automotive fuel (-3.0% vs -3.4%) and other goods (-0.7% vs -2.6%). On an annual basis, retail sales fell by 0.3%, after a downwardly revised 2.3% drop in May.
+
+---
+
+### 2026-07-29 14:19:58  #公司
+
+【愷英網路成立新公司，含動漫遊戲開發業務】企查查APP顯示，近日，上海融探網路科技有限公司成立，法定代表人為張啟閏，註冊資本為1億元，經營範圍包含：計算機系統服務；網路技術服務；網路與資訊保安軟體開發；資訊科技諮詢服務；動漫遊戲開發等。企查查股權穿透顯示，該公司由愷英網路旗下上海星巨達網路科技有限公司及上海愷英網路科技有限公司共同持股。
+
+---
+
+### 2026-07-29 14:18:52  #公司 #其他 #焦點 #A股
+
+【C長鑫成交額達400億元】C長鑫成交額達400億元，現漲11.77%。
+
+---
+
+### 2026-07-29 14:18:48  #市場
+
+新加坡基準股指<.STI>上漲1%，創下5,669.79點的紀錄高位。
+
+---
+
+### 2026-07-29 14:18:26  #市場 #觀點 #國際
+
+【花旗：升中石油目標價至12港元，上調今年每股盈利預測26%】花旗發表報告，更新中石油模型，以反映花旗最新布蘭特原油假設，2026年第三季/四季及2027年分別為每桶75、70及65美元。由於俄羅斯原油相對其他進口原油的折價顯著擴大，以及航煤裂解價差強勁，認為中石油可充分抵消國內汽柴油利潤壓力，天然氣營銷業務在LNG價格上漲背景下競爭力亦有所提升，仍是該行在中國油氣板塊的首選。花旗將中石油2026財年每股盈利預測上調26%，但2027財年下調1%，同時引入2028財年預測；目標價由10港元升至12港元，主要反映修訂後的勘探與生產DCF估值，長期布倫特原油價格採用每桶65美元。
 
 ---
 
@@ -22108,53 +22174,5 @@ MSCI亞太指數較6月高點下跌10%，勢將進入回撥區域。
 ### 2026-07-28 10:42:15  #市場
 
 【PCB板塊震盪走弱，深南電路觸及跌停】PCB板塊震盪走弱，深南電路觸及跌停，東山精密、景旺電子、中材科技、生益科技、泰金新能、生益電子等跟跌。
-
----
-
-### 2026-07-28 10:42:07  #宏觀
-
-【2025年度個稅彙算退稅金額突破1500億元】國務院新聞辦舉行新聞釋出會。釋出會上，國家稅務總局相關負責人介紹，在6月30日結束的2025年度個稅彙算中，超1億納稅人享受退稅1500多億元，中低收入者受益面提升。國家稅務總局總審計師王世宇介紹，在剛剛結束的個稅彙算中，全國超2億納稅人辦理了彙算申報，同比增長4.38%，超過1億納稅人申報退稅，退稅金額突破1500億元。年收入12萬元以下群體在享受6萬元基本減除費用、“三險一金”專項扣除、專項附加扣除等紅利後，基本無需繳稅或只需少量繳稅；超過七成人群彙算後無需繳稅；在有稅人群中，超過六成適用3%稅率，反映出個稅調高惠低效應進一步顯現。
-
----
-
-### 2026-07-28 10:42:02  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesia Shares Extend Slide on BI Transition Concerns — Indonesia’s IDX Composite slipped 32 points, or 0.5%, to 6,155 in Tuesday morning trade, marking its fifth straight decline as sentiment tracked weaker U.S. futures after a sell-off in chipmakers on Wall Street overnight dragged semiconductor gauges lower for a third day. Investors also stayed cautious ahead of the Federal Reserve’s policy decision later this week and earnings from major U.S. tech firms. Locally, uncertainty lingered over Bank Indonesia’s leadership transition following Perry Warjiyo’s abrupt resignation, with Senior Deputy Governor Destry Damayanti stepping in as acting governor until a successor is named. Losses were broad-based across financials, energy, industrials, and infrastructure, though declines were partly cushioned by falling crude oil prices, easing fiscal concerns for the net oil importer. Notable laggards included Medco Energi (-3.5%), Sarana Menara Nusantara (-2.0%), Mitra Adiperkasa (-1.4%), and Perusahaan Gas Negara (-1.0%).
-
----
-
-### 2026-07-28 10:41:26  #其他
-
-【稅務總局：上半年出口企業辦理出口退稅同比增長7.7%】7月28日，國家稅務總局副局長王道樹在國新辦釋出會上表示，增值稅法及其實施條例自今年1月1日實施以來，更好提升了辦稅便利度，今年上半年稅務部門為出口企業辦理出口退稅同比增長7.7%，正常出口退稅平均辦理時間控制在6個工作日以內。
-
----
-
-### 2026-07-28 10:41:14  #市場
-
-【CPO板塊持續走弱，劍橋科技跌停】CPO板塊持續走弱，劍橋科技跌停，新易盛、源傑科技、中際旭創、銳捷網路跌超10%，通富微電、天孚通訊等跟跌。
-
----
-
-### 2026-07-28 10:41:04  #其他
-
-【DHL快遞深圳超級口岸投運，日處理貨量達900噸】7月28日訊息，DHL快遞位於深圳寶安國際機場的超級口岸完成擴建並投入運營。據介紹，這是DHL快遞迄今在中國內地最大規模的單筆投資專案，總投資額超過12億元人民幣。該專案在DHL原深圳口岸基礎上改擴建而成，擴建後操作區總面積為原口岸的2.6倍，達22,000平方米，每日可處理貨量900噸。
-
----
-
-### 2026-07-28 10:40:54  #國際
-
-日本財務大臣片山：不認為公私合計370萬億日元的投資目標過高。
-
----
-
-### 2026-07-28 10:40:17  #公司 #市場
-
-半導體晶片股震盪走低，西安奕材、普冉股份、恆運昌跌超10%，兆易創新此前跌停，北京君正、通富微電、佰維儲存跌超8%。
-
----
-
-### 2026-07-28 10:39:39  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Steadies Ahead of Fed Meeting — The yield on the US 10-year Treasury note held steady around 4.64% on Tuesday as investors awaited the Federal Reserve’s upcoming policy decision, with markets pricing in an over one-third chance of a rate hike. That reflects an unusually high level of uncertainty this close to a Fed meeting compared with recent years. Citadel Securities also said it expects the Fed to raise interest rates this week to reinforce Chairman Kevin Warsh’s credibility in fighting inflation after the central bank chief repeatedly pledged to restore price stability. Meanwhile, the probability of a Fed rate hike in September currently stands at around 56%. On the geopolitical front, President Donald Trump said the US was engaged in "good talks" with Iran aimed at ending the Middle East conflict, sending oil prices lower and easing concerns over inflation and tighter monetary policy.
 
 ---
