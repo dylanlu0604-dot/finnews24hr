@@ -1,7 +1,15 @@
 {
   "date": "2026-08-02",
-  "count": 564,
+  "count": 565,
   "items": [
+    {
+      "id": "mkt:019fc2f2-8125-7aab-8f47-6d0dc7916394",
+      "time": "2026-08-02 22:48:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Magnitude-4.8 earthquake in Xinghai county, Hainan prefecture, Qinghai; 10 km depth】CENC recorded a magnitude-4.8 earthquake at 22:31 on Aug. 2 (Beijing time) in Xinghai county, Hainan prefecture, Qinghai (35.34°N, 99.50°E); focal depth 10 km."
+    },
     {
       "id": "5020945",
       "time": "2026-08-02 22:45:50",
