@@ -1,7 +1,96 @@
 {
   "date": "2026-08-03",
-  "count": 205,
+  "count": 215,
   "items": [
+    {
+      "id": "5021117",
+      "time": "2026-08-03 06:50:41",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 08:30 日本、韓國、越南7月製造業PMI；\n② 09:45 中國7月RatingDog製造業PMI；\n③ 14:00 德國6月零售銷售；\n④ 14:30 瑞士7月CPI；\n⑤ 15:50 法國7月製造業PMI終值；\n⑥ 15:55 德國7月製造業PMI終值；；\n⑦ 16:00 歐元區7月製造業PMI終值\n⑧ 16:30 英國7月製造業PMI終值；\n⑨ 21:45 美國7月標普全球製造業PMI終值；\n⑩ 22:00 美國7月ISM製造業指數、6月營建支出。"
+    },
+    {
+      "id": "te:economy:571894",
+      "time": "2026-08-03 06:50:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Building Permits MoM",
+        "Importance 1"
+      ],
+      "text": "New Zealand Building Permits Fall 3.6% in June — Building consents for new dwellings in New Zealand dropped 3.6% month-on-month in June 2026, following an upwardly revised 4.9% decline in May, marking the third decline so far this year. A total of 3,741 new dwellings were consented, including 1,658 stand-alone houses, 1,614 townhouses, 132 retirement village units, and 67 apartments. In the year ended June 2026, the total number of new dwellings consented was 40,581, up 19% from the year ended June 2025."
+    },
+    {
+      "id": "5021116",
+      "time": "2026-08-03 06:49:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年度電影總票房超231億元 市場熱度持續走高】截至8月2日22時，2026年度電影總票房已超231億元，其中，暑期檔已連續23天單日票房破億，市場熱度正持續走高。（央視新聞）"
+    },
+    {
+      "id": "5021115",
+      "time": "2026-08-03 06:49:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列對加沙地帶中部代爾巴拉赫市東南部進行炮擊。"
+    },
+    {
+      "id": "mkt:019fc4a7-fb5d-7aab-8f49-b08dffc152d7",
+      "time": "2026-08-03 06:46:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand June building consents YoY -4.9% (previous 20.6%)."
+    },
+    {
+      "id": "mkt:019fc4a7-df3a-7aab-8f49-af0b41d43200",
+      "time": "2026-08-03 06:46:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Building Permits (YoY) (Jun) | actual 32.1% | previous 20.6%"
+    },
+    {
+      "id": "5021114",
+      "time": "2026-08-03 06:45:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭6月營建許可環比 -3.6%，前值 -4%。"
+    },
+    {
+      "id": "mkt:019fc4a7-0905-7aab-8f49-a61e1b9bdeab",
+      "time": "2026-08-03 06:45:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand June building permits MoM -3.6%; May revised to -4.9% from -4.0%."
+    },
+    {
+      "id": "mkt:019fc4a6-e9f8-7aab-8f49-9c7e0e11a5b0",
+      "time": "2026-08-03 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Building Permits (MoM) (Jun) | actual -3.6% | previous -4.00%"
+    },
+    {
+      "id": "5021113",
+      "time": "2026-08-03 06:44:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出黃色暴雨警告。"
+    },
     {
       "id": "5021112",
       "time": "2026-08-03 06:34:00",
