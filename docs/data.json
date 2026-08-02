@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-02 21:57:52",
-  "count": 17938,
+  "updated": "2026-08-02 22:01:51",
+  "count": 17939,
   "items": [
+    {
+      "id": "mkt:019fc2c6-c6b3-7aab-8f47-302fd090924a",
+      "time": "2026-08-02 22:00:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: South China Sea military exercises】Sanya Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning that parts of the South China Sea will be closed for military training. Restricted periods: Aug 3–7 daily 05:00–24:00 and Aug 8 07:00–18:00; entry is prohibited."
+    },
+    {
+      "id": "mkt:019fc2c5-d850-7aab-8f47-2ce4f63fc647",
+      "time": "2026-08-02 21:59:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【White House sees few viable options on Iran; frustration rising】Five former Trump administration officials say the White House has few good options after Iran demanded control of the Strait of Hormuz as a condition for ending hostilities. Senior U.S. officials, including Secretary of State Rubio, have warned against any deal that would allow Iran de facto control of the strait, saying it would complicate future U.S. sanctions enforcement by requiring waivers for transit payments and would weaken international pressure on Iran’s nuclear program; Rubio called it a dangerous precedent. Fractured communications among Iranian factions further complicate negotiations. The impasse arrives with U.S. midterms three months away and U.S. retail gasoline averaging $4.10/gal versus $3.85/gal a month ago. Continued concern over U.S. casualties, attacks on U.S. bases and ongoing Iranian missile threats to Gulf states risk further upward pressure on energy prices. There is no sign of an easy post-election exit. Danny Sitrenovitz, a non-resident Atlantic Council fellow, said any diplomatic settlement could require some Iranian control of the strait—politically unacceptable to many—while further military escalation would likely keep oil prices elevated without guaranteeing Iranian strategic change."
+    },
     {
       "id": "5020932",
       "time": "2026-08-02 21:55:27",
@@ -166235,14 +166254,6 @@
         "其他"
       ],
       "text": "【四川洪雅玉屏山森林火災明火已撲滅】7月26日，四川省眉山市洪雅縣柳江鎮玉屏山突發森林火災，四川消防救援機動總隊調派332名指戰員、66臺消防車開展撲救。截至21時，明火已撲滅。（央視新聞）"
-    },
-    {
-      "id": "5008605",
-      "time": "2026-07-26 22:01:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "光大控股：807 萬美元新股發行確定發行價。"
     }
   ]
 }
