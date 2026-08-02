@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-02 23:30:03",
-  "count": 17936,
+  "updated": "2026-08-02 23:37:29",
+  "count": 17929,
   "items": [
+    {
+      "id": "mkt:019fc31b-8ff6-7aab-8f47-a3f6180cced8",
+      "time": "2026-08-02 23:33:11",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Japan cut its holdings of US Treasuries by $96 billion over the past three months, trimming holdings to $1.14 trillion — the lowest level since April 2025."
+    },
     {
       "id": "mkt:019fc317-34a6-7aab-8f47-992a6f6dba60",
       "time": "2026-08-02 23:28:25",
@@ -166173,70 +166186,6 @@
         "MKT News"
       ],
       "text": "Qatar foreign ministry: Prime Minister reiterated Qatar's support for all efforts aimed at easing tensions and reaching a comprehensive agreement."
-    },
-    {
-      "id": "5008645",
-      "time": "2026-07-26 23:37:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：大多數以色列民眾支援打擊真主黨的軍事行動，以軍打擊的是在平民區域活動的真主黨武裝人員。"
-    },
-    {
-      "id": "mkt:019f9f10-c78c-7aab-8e9b-0868127bb503",
-      "time": "2026-07-26 23:35:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's energy minister said 70 MW of solar capacity came online last week; about 100 MW is expected to come online this week, and the rollout will continue."
-    },
-    {
-      "id": "mkt:019f9f0f-18e6-7aab-8e9b-0580b677190b",
-      "time": "2026-07-26 23:33:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's Foreign Ministry said the prime minister spoke with Saudi Arabia's foreign minister to discuss recent regional developments and diplomatic efforts."
-    },
-    {
-      "id": "5008644",
-      "time": "2026-07-26 23:31:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗和俄羅斯外長通話討論地區局勢。"
-    },
-    {
-      "id": "5008643",
-      "time": "2026-07-26 23:31:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡辦公室官員：目前進駐加沙的國際部隊僅有約200人，均來自（對以色列）友好國家。"
-    },
-    {
-      "id": "5008642",
-      "time": "2026-07-26 23:30:55",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：等待“超級周”的方向選擇】華泰證券研報稱，上週市場縮量反彈，其跟蹤的A股情緒指數週一回落至6%後企穩，階段性底部形成的機率上升。華泰證券認為，公募中報顯示AI行情交易和倉位擁擠度均處於高位、再均衡需求上升，但以配置係數衡量尚未達到極端水平，且本輪產業週期級別更高、覆蓋面更廣、容量更大；對於AI行情持續性的判斷，仍取決於產業趨勢二階段的變化。操作上，建議控制倉位，等待“超級周”後選擇方向。科技端關注國產鏈/半導體裝置、PCB、光模組，兼顧創新藥、資源品、出海鏈、證券等再均衡機會，紅利繼續持有。"
-    },
-    {
-      "id": "5008641",
-      "time": "2026-07-26 23:30:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐聯合國大使邁克·沃爾茨：我們在（中東）戰區不僅部署了所需全部軍力，還有更多力量正調往該區域。"
-    },
-    {
-      "id": "5008640",
-      "time": "2026-07-26 23:30:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐聯合國大使邁克·沃爾茨駁斥了有關美軍在中東火力不足的報道。"
     }
   ]
 }
