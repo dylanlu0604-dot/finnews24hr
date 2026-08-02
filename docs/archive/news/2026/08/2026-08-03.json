@@ -1,7 +1,191 @@
 {
   "date": "2026-08-03",
-  "count": 177,
+  "count": 196,
   "items": [
+    {
+      "id": "5021105",
+      "time": "2026-08-03 06:16:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【今年上半年分紅險保費同比增長94.4%】今年上半年保險業原保險保費收入同比增長3.3%，其中，外資保險公司同比增長12.4%，分紅險同比增長94.4%，財險公司健康險同比增長15.2%……中國保險行業協會在7月31日召開的新聞釋出會上用這組數字勾勒出行業“保費穩增，結構在變”的轉型圖景。申萬宏源在研報中分析稱，上半年A股上市險企合計歸母淨利潤同比增長70.6%至3040.73億元。中國保險行業協會預計，下半年保險市場將延續穩中有進的執行態勢。（上證報）"
+    },
+    {
+      "id": "mkt:019fc489-f5fa-7aab-8f49-9317b2c1b60a",
+      "time": "2026-08-03 06:12:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "President Trump said there are people within the Iranian regime who want to reach a deal."
+    },
+    {
+      "id": "mkt:019fc489-a7cd-7aab-8f49-89e066508916",
+      "time": "2026-08-03 06:12:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Maritime Trade Operations said all crew have reported safe."
+    },
+    {
+      "id": "mkt:019fc489-953d-7aab-8f49-834d2d8ea1e3",
+      "time": "2026-08-03 06:12:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said there are currently no reports of any vessels being damaged."
+    },
+    {
+      "id": "mkt:019fc489-0bb5-7aab-8f49-7ad232ba88b4",
+      "time": "2026-08-03 06:12:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "President Trump said reaching an agreement with Iran would be preferable to a military strike."
+    },
+    {
+      "id": "mkt:019fc488-9330-7aab-8f49-7751acf0a24d",
+      "time": "2026-08-03 06:11:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said an incident occurred 20 nm northeast of Hessaab, Oman, in the Sea of Oman; the master of a tanker reported hearing an explosion near the vessel."
+    },
+    {
+      "id": "5021104",
+      "time": "2026-08-03 06:11:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易運營局（UKMTO）表示，據報所有船員均安全。"
+    },
+    {
+      "id": "5021103",
+      "time": "2026-08-03 06:11:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨報63,635點，現貨收盤報64,362點。"
+    },
+    {
+      "id": "mkt:019fc487-cb8f-7aab-8f49-6c95ce63b22e",
+      "time": "2026-08-03 06:10:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said the U.S. had planned the largest attack on Iran since World War II."
+    },
+    {
+      "id": "mkt:019fc487-c652-7aab-8f49-611f842f376b",
+      "time": "2026-08-03 06:10:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Iran will need years to rebuild its military capability."
+    },
+    {
+      "id": "5021101",
+      "time": "2026-08-03 06:10:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易組織(UKMTO)收到報告稱，阿曼海塞卜東北20海里處發生一起事件。"
+    },
+    {
+      "id": "5021100",
+      "time": "2026-08-03 06:10:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元兌日元下跌0.2%，報157.02日元；歐元兌美元上漲0.25%，報1.1549美元。"
+    },
+    {
+      "id": "mkt:019fc485-93df-7aab-8f49-5f29f963d34e",
+      "time": "2026-08-03 06:08:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot silver rose $1 intraday to $58.60/oz, up 1.79%."
+    },
+    {
+      "id": "mkt:019fc485-45b3-7aab-8f49-56409193b526",
+      "time": "2026-08-03 06:08:16",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY slipped to 157, down 0.40% intraday."
+    },
+    {
+      "id": "5021099",
+      "time": "2026-08-03 06:07:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我更願意達成協議。我並不想造成人員傷亡。一旦開戰就會有人喪命，大量民眾會死去，我們不願看到這種局面。"
+    },
+    {
+      "id": "5021098",
+      "time": "2026-08-03 06:06:47",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普宣佈美伊開啟新一輪談判，美股股指期貨走高】特朗普稱已取消針對伊朗的大規模襲擊、雙方將於週一啟動新一輪談判，受此訊息影響，油價下行，美股股指期貨走高。標普500指數期貨上漲約0.4%，納斯達克100指數期貨上漲0.7%；布倫特原油最大跌幅達7.3%，跌至每桶81.55美元。"
+    },
+    {
+      "id": "5021097",
+      "time": "2026-08-03 06:05:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：沒人清楚這些襲擊會引發怎樣的連鎖後果。試想，會不會有大量民眾湧入伊朗周邊鄰國？這將會釀成一場災難，諸多惡性事件都可能隨之發生。"
+    },
+    {
+      "id": "mkt:019fc480-ffcc-7aab-8f49-4b3bfd36dcae",
+      "time": "2026-08-03 06:03:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 10-year Treasury futures rose 13 ticks; 30-year Treasury futures rose 22 ticks."
+    },
+    {
+      "id": "5021096",
+      "time": "2026-08-03 06:03:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受油價下跌6%影響，美國10年期國債期貨上漲13個基點，30年期國債期貨上漲22個基點。"
+    },
     {
       "id": "mkt:019fc47e-d03f-7aab-8f49-41ba7a107502",
       "time": "2026-08-03 06:01:01",
