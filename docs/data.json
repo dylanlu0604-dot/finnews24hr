@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-03 01:42:42",
-  "count": 17946,
+  "updated": "2026-08-03 01:46:43",
+  "count": 17945,
   "items": [
+    {
+      "id": "mkt:019fc392-f019-7aab-8f48-7f387e196fbb",
+      "time": "2026-08-03 01:43:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Israeli officials estimate Trump may again shift his stance toward Iran, Channel 12 reports."
+    },
+    {
+      "id": "5021009",
+      "time": "2026-08-03 01:42:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列官員估計特朗普可能會再次改變他對伊朗的立場。"
+    },
     {
       "id": "mkt:019fc38d-cc84-7aab-8f48-73dfaf5d92d4",
       "time": "2026-08-03 01:37:57",
@@ -166325,30 +166343,6 @@
         "MKT News"
       ],
       "text": "Syria's foreign minister thanked UN Secretary-General Guterres for his visit and said they discussed UN support for reconstruction priorities, human rights and economic development to bolster Syria's efforts to build a more stable future."
-    },
-    {
-      "id": "mkt:019f9f87-80ef-7aab-8e9b-b401e11a431d",
-      "time": "2026-07-27 01:44:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German government spokesman said Chancellor Merz will nominate conservative Steffen Bilger as transport minister."
-    },
-    {
-      "id": "mkt:019f9f86-dbc7-7aab-8e9b-abe6616f62db",
-      "time": "2026-07-27 01:44:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Lebanon condemns Israel's ongoing military operations in southern Lebanon】The Lebanese army on July 26 condemned ongoing Israeli military operations in southern Lebanon, saying they obstruct full Lebanese troop deployments under a trilateral framework agreed last month with Israel and the United States. The army said the Israeli Defense Forces continue attacks it says breach international law, systematically destroying homes and bombing multiple southern areas, and that the strikes have prevented troop deployment and stopped residents from returning home."
-    },
-    {
-      "id": "5008679",
-      "time": "2026-07-27 01:43:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國政府發言人：默茨總理將提名保守派議會黨團幹事長斯特芬·比爾格出任交通部長。"
     }
   ]
 }

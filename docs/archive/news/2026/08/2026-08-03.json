@@ -1,7 +1,25 @@
 {
   "date": "2026-08-03",
-  "count": 66,
+  "count": 68,
   "items": [
+    {
+      "id": "mkt:019fc392-f019-7aab-8f48-7f387e196fbb",
+      "time": "2026-08-03 01:43:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Israeli officials estimate Trump may again shift his stance toward Iran, Channel 12 reports."
+    },
+    {
+      "id": "5021009",
+      "time": "2026-08-03 01:42:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列官員估計特朗普可能會再次改變他對伊朗的立場。"
+    },
     {
       "id": "mkt:019fc38d-cc84-7aab-8f48-73dfaf5d92d4",
       "time": "2026-08-03 01:37:57",
