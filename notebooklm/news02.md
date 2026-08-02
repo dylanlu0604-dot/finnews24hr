@@ -1,7 +1,259 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-02 18:22:54_
-_本檔包含 3521 則快訊，約 667984 字_
+_更新時間：2026-08-02 20:09:51_
+_本檔包含 3519 則快訊，約 668416 字_
+
+---
+
+### 2026-07-31 12:40:49  #其他
+
+馬斯克再度否認出售特斯拉中國業務，發文表示：“這件事甚至從未被提起討論過。這完全是荒謬的假新聞。”
+
+---
+
+### 2026-07-31 12:38:09  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O
+
+Tesla CEO Elon Musk again denied on social media that he is selling Tesla's China business, calling the reports "completely absurd fake news" and saying the matter was never raised for discussion.
+
+---
+
+### 2026-07-31 12:37:06  #國際
+
+【廣和通Cat.M模組MQ771-GL透過CE、FCC認證】據廣和通訊息，近日，廣和通全球版低功耗LTE模組MQ771-GL透過CE、FCC認證。CE和FCC分別是無線裝置進入歐洲和美國市場的重要合規要求，覆蓋產品安全、電磁相容、無線頻譜及射頻發射等關鍵指標。
+
+---
+
+### 2026-07-31 12:35:50  #央行 #國際
+
+【印尼央行重申關注印尼盾和通脹】印尼當地新聞媒體Detik援引央行代理行長Destry Damayanti週五線上上編輯簡報會的講話報道稱，央行繼續透過現匯、NDF和DNDF等方式參與市場。印尼央行將指導相關政策，以吸引資金流入並加強與政府的協調，從而控制通貨膨脹。據報道，她表示，政策立場保持不變，與之前的立場相同，印尼央行將繼續專注於透過最佳化其現有的各種工具和政策來維護穩定。
+
+---
+
+### 2026-07-31 12:35:14  #公司
+
+【雲知聲：中標南寧及廈門兩地公共市級平臺專案】雲知聲在港交所公告，近日，本公司憑藉紮實的 U2 大模型技術積累、成熟的智慧體開發平臺，以及依託可信資料製備與應用大模型技術支撐一人公司（「OPC」）運營的深刻理解，成功中標南寧市級平臺公司出資建設的模數空間專案，精準落實國家 “數字經濟發展” 及 “資料要素市場化配置” 戰略，助力廣西建設 “中國 — 東盟數字經濟合作示範區”，為西部陸海新通道建設注入 AI 動能。南寧專案的落地，標誌著本公司城市級 MaaS 解決方案完成從 “單點突破” 邁向 “區域複製” 的關鍵一躍。緊隨其後，本公司再度斬獲廈門市級 AI 公共平臺專案，兩大市級標杆專案合計簽約金額總計超人民幣 2000 萬元。此類專案的順利落地，標誌著本公司區域 MaaS 商業模式已實現跨區域複製驗證，為後續該業務模式的快速規模化落地奠定堅實基礎。
+
+---
+
+### 2026-07-31 12:34:00  #其他
+
+派珀·桑德勒將 阿迪達斯  目標價從200歐元下調至180歐元。
+
+---
+
+### 2026-07-31 12:33:49  #市場
+
+臺灣證交所加權股價指數上漲8%至43,136.75點。
+
+---
+
+### 2026-07-31 12:33:12  #其他
+
+【從道路避險到跨境耕種 北斗走向世界】今天是北斗三號全球衛星導航系統開通六週年的日子。從太空到田間，從國內到海外，北斗已成為我們生活中的好幫手。在我們經常使用的導航軟體中，一款叫鷹眼守護的新功能將北斗的精準定位功能與AI等新技術結合，能對各類交通風險進行秒級預警，從源頭防範交通事故。 經過不斷測試迭代，鷹眼守護預警系統可以超視距感知24類潛在交通風險，實現全路網、全使用場景以及多種出行方式的覆蓋，日均預警次數達1.3億次。目前，北斗產品已出口140餘個國家和地區。（央視）
+
+---
+
+### 2026-07-31 12:32:19  #其他
+
+【2026年質量督察首批督察組全部實現督察進駐】記者今天（31日）瞭解到，按照2026年質量督察有關工作安排，2026年質量督察首批督察組已全部實現督察進駐，在江蘇、浙江、山東、廣東4省開展質量督察工作。各質量督察組將堅持問題導向、源頭治理、明確督察內容，突出重點領域，將明察暗訪、隨機抽查作為主要方式，綜合運用抽樣檢測等質量技術手段，提升質量督察效能，直奔基層、直插現場，堅持督服結合、督幫一體，既努力發現問題，強化督促整改，也幫助解決問題，開展專家指導服務，推動質量工作真正落到實處。
+
+---
+
+### 2026-07-31 12:31:44  #公司
+
+【東方證券：汽車內需有望邊際改善 部分公司將迎估值修復】東方證券釋出研報稱，當前汽車行業處於低配，且2026Q2單季配置比例下降較快，預計隨著下半年乘用車內需邊際改善，汽車板塊配置有望提升。從投資策略上看，2季度汽車板塊經歷長時間調整後已充分反應市場對汽車行業內需走弱、盈利下行的預期，預計下半年汽車內銷將迎來邊際改善、出口有望繼續向好，部分公司將迎來估值修復，建議關注出海鏈整車、汽零公司以及部分超跌的整車標的。
+
+---
+
+### 2026-07-31 12:31:05  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+METI: Japan's June crude oil imports rose 5.9% YoY; total petroleum product sales fell 7.9% YoY; gasoline sales fell 7.1% YoY; kerosene sales fell 14.9% YoY.
+
+---
+
+### 2026-07-31 12:30:53  #國際
+
+日本經濟產業省資料：6月日本成品油總銷量同比下降7.9%。
+
+---
+
+### 2026-07-31 12:30:30  #國際
+
+日本經濟產業省資料顯示，日本6月原油進口量同比增長5.9%。
+
+---
+
+### 2026-07-31 12:30:21  #其他
+
+【密雲釋出暴雨黃色預警 北京北部今起三天雷雨明顯】密雲區氣象臺釋出暴雨黃色預警訊號。預計，7月31日17時至8月1日5時，密雲區有小時雨強50毫米以上或6小時降水量70毫米以上的強降水，山區及淺山區可能出現山洪、泥石流、滑坡等次生災害，低窪地區可能出現積水，請注意防範。 北京市氣象臺首席預報員雷蕾介紹，今起三天，預計都將有全市範圍的雷雨天氣過程，其中北部地區相對明顯，雷雨出現的時段多在傍晚至夜間。連續三天全市範圍的雷雨也將改變之前局地雷雨“冒泡”的格局。 31日上午，北京市氣象臺已釋出全市範圍內的雷電黃色預警，預計31日17時至8月1日5時，本市大部分地區有雷陣雨。（北京日報）
+
+---
+
+### 2026-07-31 12:28:56  #市場 #央行 #國際
+
+【凱投宏觀：日本央行似乎偏緊縮，明年可能將利率上調至中性水平】凱投宏觀的Marcel Thieliant在評論中表示，日本央行似乎偏緊縮，明年可能將利率上調至中性水平。這位亞太區主管表示：“隨附的展望報告偏緊縮，我們堅持我們的非共識觀點，即該央行將在明年年底前將利率上調至2%。”Thieliant指出，日本央行委員會列舉了一系列通脹上行壓力，包括原油和半導體價格上漲以及日圓走弱帶來的壓力。Thieliant補充說，此外，日本央行現在認為“基本通脹“可能會升至其2%的目標之上，這表明其擔憂程度更為嚴重。
+
+---
+
+### 2026-07-31 12:27:09  #其他
+
+【局地將迎大暴雨 甘肅隴南啟動防汛抗洪二級應急響應】甘肅省隴南市人民政府今天（31日）上午釋出通知，7月29日夜間至31日清晨，隴南市東部、南部普降大到暴雨，最大降水量武都區裕河366.6毫米、康縣岸門口264.4毫米。預計31日白天到8月3日，全市降水還將持續，東部、南部有大到暴雨，局地大暴雨。疊加前期降雨量，武都南部、康縣中南部、文縣東南部累積雨量將達300-400毫米（裕河鎮可能超過400毫米）、其餘已出現大暴雨的區域累積降雨量將達250毫米以上，氣象部門再次釋出重大氣象專報。為確保防汛搶險各項工作的順利開展，按照隴南市防汛抗洪應急預案，現於7月31日9時啟動隴南市防汛抗洪二級應急響應。
+
+---
+
+### 2026-07-31 12:26:16  #其他
+
+【萊茵河荷蘭段水位降至歷史最低】荷蘭基礎設施與水資源管理部30日說，受持續乾旱和高溫影響，萊茵河荷蘭段水位已降至阿姆斯特丹標準水位（NAP）以上6.47米，創下有記錄以來最低。NAP是荷蘭全國統一的高程基準面，又稱水準零點。上述資料在緊鄰德國邊境的荷蘭洛位元水文站測得，打破了該河段水位2022年8月創下的NAP以上6.48米的最低紀錄。水利部門預計，未來幾天萊茵河水位將進一步下降。
+
+---
+
+### 2026-07-31 12:24:17  #公司
+
+【順絡電子：公司已實現多種工藝製作的AI電感產品量產出貨】順絡電子(002138)7月30日在業績說明會上表示，公司AI電感主要為應用於AI伺服器中GPU、CPU、ASIC晶片等各類xPU供電的電感產品，目前公司已實現多種工藝（組裝/銅磁共燒/模壓）製作的AI電感產品量產出貨。在AI電感的TLVR結構迭代趨勢下，公司已在多位頭部功率模組客戶及終端雲廠商客戶中獲得認可並批次供應。受益於資料中心的行業需求爆發，相關產品將持續為公司業績增長髮力。
+
+---
+
+### 2026-07-31 12:23:13  #公司
+
+索尼半導體子公司：將從8月4日起逐步恢復其位於熊本縣菊葉町的工廠的運營。
+
+---
+
+### 2026-07-31 12:22:50  #其他
+
+索尼半導體：工廠將於8月中旬恢復到震前水平。
+
+---
+
+### 2026-07-31 12:22:36  #公司 #國際
+
+日本知名汽車零部件企業愛信公司高管：難以確定復產的確切日期。
+
+---
+
+### 2026-07-31 12:21:58  #其他
+
+【晶泰科技釋出XtalPi Science，發起“科學智慧開放生態聯盟”】晶泰科技日前在滬釋出XtalPi Science科學智慧平臺與Genius Agents科學智慧體矩陣，並聯合26家產業、高校及科研生態夥伴，共同發起成立 “科學智慧開放生態聯盟”。(上觀新聞)
+
+---
+
+### 2026-07-31 12:21:47  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Set to End Month Little Changed — Silver fell toward $58 an ounce on Friday, snapping a two-session winning streak, but was still on track to end July little changed after a more than 20% decline in June. The precious metal found support this week after the US Federal Reserve left interest rates unchanged despite mounting inflationary pressures stemming from renewed hostilities in the Middle East. However, expectations for tighter monetary policy continued to cap gains, with markets currently pricing in about a 63% chance of a Fed rate hike in September. Meanwhile, the US military launched fresh strikes on Iranian targets in retaliation for Tehran’s attacks on US assets across the Middle East, reducing the likelihood of any near-term diplomatic agreement. Precious metals have come under constant pressure since the US-Iran war erupted in late February, as surging oil prices fueled inflation concerns and strengthened expectations for tighter monetary policy.
+
+---
+
+### 2026-07-31 12:21:40  #公司
+
+派珀桑德勒將 亞馬遜   目標價從315美元上調至320美元。
+
+---
+
+### 2026-07-31 12:21:29  #Trading Economics #Economy #Netherlands #Business Confidence #Importance 1
+
+Dutch Manufacturing Confidence at 4-Year High — Business confidence in the Dutch manufacturing sector rose to 2.4 in July 2026, the highest level in four years, from 1.3 in the previous month. Sentiment improved as order book assessments rose to -3.8 from -7.0, while inventory assessments strengthened to -2.4 from -3.5 in June. Meanwhile, expectations for business activity became less optimistic, falling to 13.5 from 14.5, though they continued to signal a positive near-term production outlook. Across sectors, sentiment improved broadly, with gains recorded in wood and building materials (-3.4 vs. -6.5) and base metal and metal products (-3.0 vs. -3.3). Sentiment also turned positive in paper and graphic products (1.4 vs. -6.5) and strengthened further in electrical engineering and machinery (15.6 vs. 9.7).
+
+---
+
+### 2026-07-31 12:18:50  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Heads for Monthly Gain — Gold slipped below $4,100 an ounce on Friday, snapping a two-session winning streak, but remained on track for its first monthly gain in five months. The precious metal found support this week after the US Federal Reserve left interest rates unchanged despite mounting inflationary pressures stemming from renewed hostilities in the Middle East. However, expectations for tighter monetary policy continued to cap gains, with markets currently pricing in about a 63% chance of a Fed rate hike in September. Meanwhile, the US military launched fresh strikes on Iranian targets in retaliation for Tehran’s attacks on US assets across the Middle East, reducing the likelihood of any near-term diplomatic agreement. Gold has come under constant pressure since the US-Iran war erupted in late February, as surging oil prices fueled inflation concerns and strengthened expectations for tighter monetary policy.
+
+---
+
+### 2026-07-31 12:18:47  #MKT News
+
+【SpaceX Falcon 9 second-stage debris expected to strike Moon on Aug 5】Debris from a decommissioned SpaceX Falcon 9 second stage, estimated at about 3,900 kg, is forecast to impact the Moon on Aug. 5 at roughly 06:35 UTC (02:35 EDT; 14:35 Beijing time) at an estimated speed of about 2.43 km/s. Impact is expected near the Moon's Einstein crater; two arXiv preprints predict a flash and ejecta plume that should be observable by ground and space telescopes.
+
+---
+
+### 2026-07-31 12:17:21  #公司 #國際
+
+【美“獵鷹9”火箭第二級殘骸預計將撞擊月球】據美國媒體30日報道，美太空探索技術公司一枚廢棄的“獵鷹9”號火箭第二級殘骸預計將於8月5日撞擊月球。這一事件有望產生可被地面和空間望遠鏡觀測到的噴射羽流，為研究月球撞擊過程和未來月球探測任務提供重要資料。 近日發表在預印本網站arXiv的兩篇研究顯示，這枚“獵鷹9”號火箭第二級重約3900公斤，預計將在美國東部時間8月5日2時35分左右（北京時間8月5日14時35分左右）以約每秒2.43公里的速度撞擊月球表面。預計撞擊地點位於月球愛因斯坦隕石坑附近區域。研究人員預測，撞擊產生的閃光和噴射羽流可透過地面和太空觀測設施觀測到。 (新華社)
+
+---
+
+### 2026-07-31 12:17:05  #觀點
+
+摩根大通將羅技國際（Logitech International S.A.）目標價從123美元下調至120美元。
+
+---
+
+### 2026-07-31 12:16:58  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian military said it used drones to strike US facilities at Kuwait's Ahmad al-Jaber air base, calling the attack retaliation for recent US strikes on Iran and for an attack on Qeshm Island.
+
+---
+
+### 2026-07-31 12:14:28  #國際
+
+伊朗軍方表示，此次襲擊是對近期美國襲擊伊朗以及伊朗格什姆島一處住宅遭襲作出的回應。
+
+---
+
+### 2026-07-31 12:14:10  #國際
+
+伊朗媒體報道，伊朗軍方稱其使用無人機襲擊了美國位於科威特艾哈邁德·賈比爾空軍基地的軍事設施。
+
+---
+
+### 2026-07-31 12:13:24  #Trading Economics #Markets #Commodity #Importance 0
+
+Coal Jumps as Chinese Demand Strengthens — Thermal coal futures climbed to around $134 per ton in late July, reaching more than one-month highs as coal demand in China strengthened after a relatively mild start to summer gave way to hotter weather, boosting air conditioner use and electricity consumption. Central and eastern China have been gripped by widespread hot and humid conditions as two high-pressure systems combined to create a heat dome. Despite the increase in demand, China’s coal inventories remain elevated, while domestic production continues to face constraints after a fatal accident in Shanxi in late May prompted extensive safety inspections. Meanwhile, supply concerns in Indonesia also supported prices as dry weather disrupted coal barging operations along the Barito River in Kalimantan, a key transport route for the country’s coal exports, with some miners reportedly declaring force majeure on affected shipments.
+
+---
+
+### 2026-07-31 12:12:21  #MKT News
+
+【FIFA to press ahead with World Cup business sale despite UEFA resistance】July 31 — FIFA said it will continue consultations on a proposal to create a $20bn subsidiary to run the World Cup and other tournaments and sell minority stakes to private investors, despite strong opposition led by UEFA. FIFA said the consultation process had been disrupted by inaccurate media reports and will proceed so member associations can vote based on the facts. The plan, proposed by President Gianni Infantino, is pitched as a way to unlock previously untapped commercial value and increase funding for member associations.
+
+---
+
+### 2026-07-31 12:12:17  #MKT News #Important #Market Themes #AI Revolution #Star Stocks #Alibaba #Xiaomi #Market Regions #Greater China #02513.HK #Impact bullish #00100.HK #Hang Seng Index #Impact bearish
+
+【Hong Kong midday: Hang Seng down 0.11%; storage and AI small-caps surge】US indices rebounded overnight and the China Dragon Index rose. After four straight gains, Hong Kong opened slightly lower; the Hang Seng opened down 21 pts at 25,837, plunged below its 250-day moving average to an intraday low of 25,622 (-235 pts) before recovering. By the morning close the Hang Seng was down 0.11% and the Hang Seng Tech Index was up 0.7%. Market turnover was HKD178.57bn. Storage names, newly listed AI stocks and PCB plays rallied sharply; brain–computer interface, electronic components and commercial-space stocks also posted strong gains. Alcoholic beverages, consumer electronics and mainland-traded stocks eased, while autos, paper and dairy lagged. Notable movers: Zhipu (02513.HK) +20.5%+, MiniMax (00100.HK) +~13%, Lenovo Group (00992.HK) +7.5%+, Alibaba (09988.HK) and Laopu Gold (06181.HK) ~+6%; Xiaomi (01810.HK) -~7%, Budweiser APAC (01876.HK) -5%+.
+
+---
+
+### 2026-07-31 12:11:19  #Trading Economics #Markets #Commodity #Importance 1
+
+Copper Set for Weekly and Monthly Gains — Copper futures climbed above $6.45 per pound on Friday and were on track to finish the week and the month about 2% and 4% higher, respectively. The gains followed the US Federal Reserve’s decision to leave interest rates unchanged this week, easing concerns over the demand outlook for industrial metals. In top consumer China, the Politburo signaled it would continue relying on existing policy measures rather than introducing broad-based stimulus, emphasizing the need to “fully use” current tools while directing fiscal spending and bond issuance toward boosting demand and improving supply. Meanwhile, copper continued to find support from its strong long-term demand outlook, underpinned by the global transition to clean energy and the rapid expansion of artificial intelligence data centers.
+
+---
+
+### 2026-07-31 12:09:08  #公司
+
+TD COWEN將 蘋果公司  目標價從350美元上調至400美元。
+
+---
+
+### 2026-07-31 12:08:45  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+TD Cowen raises PT for Apple (AAPL.O) to $400 from $350.
+
+---
+
+### 2026-07-31 12:07:16  #其他
+
+【貴州省貴陽市委常委、秘書長劉本立接受審查調查】據貴州省紀委監委31日通報，貴州省貴陽市委常委、秘書長劉本立涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。（新華社）
+
+---
+
+### 2026-07-31 12:07:05  #公司
+
+【敏捷控股：以9468.30萬元收購湛江遂溪縣住宅用地】敏捷控股（00186.HK）釋出自願公告，公司間接全資附屬公司湛江市瑞辰房地產開發有限公司於2026年7月20日透過湛江市遂溪縣國土資源局掛牌出讓活動，成功競得廣東省湛江市遂溪縣濱河新區學增路南側及迎賓路東側一幅住宅用地的土地使用權，收購價約為人民幣9468.30萬元，由集團內部資源支付。
+
+---
+
+### 2026-07-31 12:07:00  #央行 #國際
+
+三井住友銀行東京首席外匯策略師HIROFUMI SUZUKI點評日本央行決議：鑑於日本央行剛剛在6月加息，此次維持利率不變的決定符合市場預期。不過，審議委員高田創主張連續加息多少有些出人意料。日本央行總體上調了經濟增長預期，同時下調了短期通脹預測。這些調整不太可能動搖未來的預期加息路徑。預計日本央行將以漸進的步伐繼續加息。然而，隨著美元兌日元的波動性加劇，我們認為現在正進入一個新階段：日元若進一步貶值，可能會促使市場計入提前加息的預期。
+
+---
+
+### 2026-07-31 12:06:25  #MKT News #Market Themes #AI Revolution #005930.KS #Impact bullish #000660.KS
+
+【AI alarm lifted, Asia-Pacific stocks post largest gain in four months】Asia-Pacific equities rallied to their biggest four-month gain after major tech firms posted strong earnings that renewed optimism over AI demand and prompted heavy buying in chipmakers. The MSCI Asia Pacific index rose 4.3% on Friday and looks likely to notch a second straight weekly gain despite earlier volatility. South Korea’s KOSPI led the advance, jumping about 17% on strength in Samsung Electronics and SK Hynix, while Taiwan’s weighted index climbed more than 7%. A senior market analyst at Vantage Global Prime said the rally reflected investors temporarily lifting the ‘AI alarm’ as results gave fresh reasons to believe the AI demand engine is still running, triggering purchases of hit names and short-covering after a week of pronounced swings and worries about the sustainability and returns of AI capex.
 
 ---
 
@@ -20978,269 +21230,5 @@ Steel Declines to 9-Month Low — Steel rebar futures fell to around CNY 3,010 p
 ### 2026-07-30 14:26:38  #公司
 
 【中銀國際：騰訊大幅增加AI投資但維持謹慎彈性，維持“買入”評級】中銀國際發表報告指，投資者日益關注騰訊每股盈利預測及AI投資回報。該行預測騰訊2026年資本現金支出達1600至1800億元(視乎供應鏈動態而定)，惟認為公司會維持謹慎的投資節奏以保持業務彈性。該行指出，目前談論2027年之後的資本開支量級仍為時過早，預期2027年後騰訊將採取較今年溫和增長的資本支出規劃，除非C端AI應用證明能創造規模收入及良好盈利模型，或核心社交生態及主營業務被AI競爭對手動搖。該行認為，騰訊目前會把高階算力資源優先投放於混元大模型，“小微”因潛在算力消耗、合規因素及尚未有有效商業化手段，短期內非重點推進專案。該行認為，騰訊核心業務尤其是遊戲，受惠常青遊戲組合及豐富遊戲管線，未來幾個季度將持續保持韌性，維持“買入”評級及目標價655港元不變。
-
----
-
-### 2026-07-30 14:26:25  #其他
-
-【重慶：培育一批“人工智慧+”消費等新型消費企業】《重慶市加力培育建設國際消費中心城市若干政策措施》印發。其中提出，支援培育壯大優質企業。支援健全重點商貿企業“育苗”機制，引導相關企業加快轉型升級，培育一批數字消費、綠色消費、健康消費、“人工智慧+”消費等新型消費企業。持續做強生產性服務業，支援建設功能共享服務平臺和專案；最佳化財政金融服務。發揮政策撬動作用，用好國家服務消費與養老再貸款政策、資產證券化等工具，強化消費領域信貸支援。鼓勵“政府補貼+金融讓利+商家優惠”聯動，推動金融機構積極參與系列促消費活動。
-
----
-
-### 2026-07-30 14:24:18  #市場
-
-【世界黃金協會：二季度黃金ETF淨流出45噸】當地時間7月30日，世界黃金協會發布的2026年二季度《全球黃金需求趨勢報告》顯示，隨著金價從2026年初創下的歷史高位回落，二季度全球黃金總需求同比持平，為1269噸。上半年全球黃金總需求則同比上漲2%，達2522噸，約合3800億美元。
-
----
-
-### 2026-07-30 14:24:15  #MKT News #Important #Market Regions #SZSE Component #Impact bearish #DXY #Impact bullish #CNH
-
-China A-share ChiNext index pared losses to under 1.5% after earlier plunging more than 6.5%; STAR 50 index pared losses to 2.8% after earlier sliding nearly 7%.
-
----
-
-### 2026-07-30 14:23:51  #MKT News
-
-【Chongqing issues measures to accelerate building an international consumption center city】Chongqing has issued policy measures to accelerate development of an international consumption center city. The plan backs upgrading and creating world‑class shopping districts, promoting improvements to the consumption environment and digital transformation, supporting first‑release and night‑time economies, and guiding conversion and upscale redevelopment of existing commercial stock and specialty shopping streets. It increases land support for new industries and new business formats and steers globally leading, regional‑landmark and wholly‑held new‑consumption projects into key commercial areas and specialty blocks. The measures push systemic urban renewal, introduce cross‑department joint approvals to shorten permit times, and aim to reactivate idle commercial assets that meet planning. Repurposing old factories for eldercare, medical and other state‑supported industries will receive a five‑year transition policy allowing continued land use under original purpose and land‑rights classifications.
-
----
-
-### 2026-07-30 14:22:57  #MKT News #Commodities #Precious Metals #XAUUSD #Impact mixed
-
-【World Gold Council: H1 jewellery volumes down; spending up 22% to $86bn】The World Gold Council’s Q2 2026 Gold Demand Trends report: Q2 global jewellery demand fell 17% YoY as high prices pushed consumers away from pure-gold pieces or toward lighter-weight items, leaving H1 jewellery volumes lower. Jewellery spending showed resilience, rising 22% YoY in 1H to $86bln. Q2 total global gold supply was flat YoY at 1,269t; estimated mine production rose about 2% YoY to 966t supported by new output in Canada and Chile, while recycled gold supply fell 6% YoY despite higher prices.
-
----
-
-### 2026-07-30 14:22:51  #其他
-
-【《重慶市加力培育建設國際消費中心城市若干政策措施》印發】《重慶市加力培育建設國際消費中心城市若干政策措施》印發。其中提出，支援提質打造世界知名商圈。支援打造世界知名商圈，鼓勵推進消費環境最佳化、資訊化改造等建設，支援發展首發經濟、夜間經濟，引導推動符合規劃的存量商業資源轉型盤活和特色商業街區提檔升級；支援最佳化消費載體建設。加大對新產業、新業態用地的支援力度，引導全球引領型、區域地標型、整體持有型新消費專案在商圈、特色街區等重點區域精準佈局。系統性推進城市更新，推廣實施方案跨部門聯合審批模式，壓縮審批時間，著力盤活符合規劃的閒置商業資源。利用老舊廠房發展養老、醫療等國家支援產業和行業的企業，可享受5年過渡期政策，繼續按原用途和土地權利型別使用土地。
-
----
-
-### 2026-07-30 14:22:47  #MKT News
-
-Australia's S&P/ASX 200 closed down 78.70 points, or 0.87%, at 8,959.90 on Thursday, July 30.
-
----
-
-### 2026-07-30 14:22:45  #國際
-
-波蘭總理圖斯克：成立協調小組調查空域違規行為。
-
----
-
-### 2026-07-30 14:22:23  #市場 #焦點
-
-南向資金淨賣出額達10億港元。
-
----
-
-### 2026-07-30 14:21:53  #其他
-
-貝倫貝格銀行將空客目標股價從每股210歐元上調至每股205歐元。
-
----
-
-### 2026-07-30 14:21:52  #Trading Economics #Markets #Commodity #Importance 1
-
-Iron Ore Falls to 13-Month Low — Iron ore futures dropped toward CNY 720 per ton, reaching their lowest level since June 2025 as mounting losses among Chinese steelmakers weighed on the demand outlook for the key steelmaking ingredient. Industry data showed average losses at steel mills in Tangshan have widened beyond CNY 100 per ton and are expected to keep increasing, with the sector likely to remain under pressure next month. Investors also looked ahead to updates from the Politburo meeting in Beijing, where policymakers are widely expected to refrain from introducing major new stimulus measures and instead focus on implementing existing fiscal policies to support the slowing economy. Meanwhile, data from Australia showed that Western Australia’s Pilbara Ports, the world’s largest iron ore export hub, handled more than 800 million tons of cargo during the 2025-2026 financial year, with iron ore shipments reaching about 759.4 million tons.
-
----
-
-### 2026-07-30 14:21:37  #公司 #國際
-
-【ChatGPT和羅布樂思將被納入歐盟最嚴內容監管框架】當地時間7月29日，據報道，OpenAI的ChatGPT和美國線上遊戲平臺羅布樂思（Roblox）因在歐盟的月活躍使用者數超過4500萬門檻，將根據歐盟的內容稽核規則面臨更嚴格的審查和監管要求。據一位知情人士透露，歐盟執行機構將依據《數字服務法》將這兩家美國科技公司指定為“超大型線上平臺”。該人士表示，這一認定預計最早將於8月做出。
-
----
-
-### 2026-07-30 14:21:22  #MKT News #Important
-
-China A-share CPO concept stocks dipped intraday then rebounded in the afternoon. Demingli, Fenghua High-Tech and Yongding hit daily limit-ups; Hongyuan Electronics jumped over 9%. Guoci Materials and Maixinlin also advanced.
-
----
-
-### 2026-07-30 14:20:53  #市場 #焦點 #A股
-
-創業板指跌幅收窄至1.5%以內，此前一度跌超6.5%。
-
----
-
-### 2026-07-30 14:20:46  #Trading Economics #Economy #Sweden #Retail Sales YoY #Importance 1
-
-Sweden Retail Growth Slows in June — Retail sales in Sweden rose 6.6% year-on-year in June 2026, slowing from an upwardly revised 8.1% rise in the previous month. The moderation was mainly driven by weaker durable goods sales (8.0% vs 10.5% in May) and sales of consumables excluding Systembolaget eased (5.3% vs 5.5%). In contrast, petrol station sales accelerated sharply (15.5% vs 4.7%) and non-specialised stores also strengthened (13.4% vs 7.8%). On a seasonally adjusted monthly basis, retail sales rose 1.0% in June 2026, reversing from a revised 0.1% decrease in the previous month. Over the latest three-month period (April–June), the calendar-adjusted and seasonally adjusted retail sales volume was 2.3% higher than in the preceding three-month period (January–March).
-
----
-
-### 2026-07-30 14:20:37  #其他
-
-工會：西捷航空乘務員已發出72小時罷工通知。
-
----
-
-### 2026-07-30 14:20:35  #國際
-
-【IMF測算“稀土斷供”對各大國影響：日本最慘】據《日本經濟新聞》7月28日報道，國際貨幣基金組織(IMF)一項測算顯示，若稀土供應量減少八成，日本實際國內生產總值(GDP)將下降2.3%。該機構分析指出，與其他美歐等主要國家相比，日本受到的打擊將最為嚴重。（參考訊息）
-
----
-
-### 2026-07-30 14:20:32  #MKT News #Commodities #Precious Metals #XAUUSD #Impact mixed
-
-【World Gold Council: Q2 gold rally pauses; market shows resilience】World Gold Council Q2 2026 Global Gold Demand Trends: as prices pulled back from record highs earlier in 2026, Q2 global gold demand was flat YoY at 1,269 t. 1H demand rose 2% YoY to 2,522 t (about $380bn). The price retreat cooled investment: Q2 investment in ETFs, bars and coins fell to 262 t; ETF net outflows of 45 t were the primary driver of the quarterly investment decline, though ETFs still recorded a small 1H net inflow of 18 t. Bars and coins were relatively stable, down 3% YoY in Q2 and up 21% YoY in 1H on strong Q1. Asia-led OTC/over-the-counter investment reached 327 t in Q2, taking 1H OTC demand to 571 t.
-
----
-
-### 2026-07-30 14:19:52  #公司 #市場 #國際
-
-【油氣板塊異動拉昇 科力股份漲超10%】午後油氣板塊異動拉昇，科力股份漲超10%，通源石油、方正閥門、潛能恆信、山東墨龍、中國海油漲幅靠前。訊息面上，布倫特原油主力合約在昨日大漲超7%基礎上，今日盤中快速轉漲超1%，站上89美元/桶。
-
----
-
-### 2026-07-30 14:18:12  #公司
-
-【大和：SK海力士近期股價調整過度，建議趁低吸納，目標價降至300萬韓元】大和發表報告指，SK海力士第二季收入79.3萬億韓元，環比增長51%、同比增長257%；經營溢利60.5萬億韓元，環比增長61%、同比增長557%，均低於該行及市場預期約7%，主因DRAM產品組合欠佳導致銷售均價升幅低於預期。管理層對下半年展望正面，預期DRAM出貨量第三季環比增長約10%，產品組合持續改善，包括HBM4及1cnm DRAM。報告指，公司管理層因ADR相關限制未有提供股東回報具體細節，惟預期SK海力士將於下半年公佈盈利反彈及額外股東回報計劃。公司已與約10名客戶簽訂平均五年期的長期供應協議，定價結構有助對沖市場波動及鎖定需求能見度。大和認為SK海力士近期股價調整過度，建議投資者趁低吸納，重申“買入”評級，惟因應儲存器同業估值下調，將目標市盈率由9.38倍下調20%至7.5倍，12個月目標價由360萬韓元下調至300萬韓元。
-
----
-
-### 2026-07-30 14:17:51  #市場 #國際
-
-【伊朗衝突催生市場需求，芝商所化肥期貨交易熱度攀升】受伊朗衝突引發農業投入品供應不確定性影響，化肥期貨需求大幅上漲。化肥短缺已成為全球農戶面臨的一大難題，化肥價格波動尤為劇烈。期貨合約需求升溫並不侷限於化肥品類；芝商所本月上市碎牛肉期貨，還計劃在 8 月推出高粱基差期貨合約。
-
----
-
-### 2026-07-30 14:17:50  #市場 #焦點
-
-滬深兩市成交額超2萬億元，較上日此時縮量198億元。
-
----
-
-### 2026-07-30 14:16:36  #其他
-
-【中國駐紐西蘭使館就有關政客涉華言論表明立場】7月30日，中國駐紐西蘭使館有關負責人就有關政客在新議會發表涉華負面言論向紐西蘭外交貿易部提出嚴正交涉，要求新方珍視中新平等互利關係，多做有利於雙邊關係的事，而不是相反。強調在紐西蘭廣大華僑華人群體遵守當地法律，積極融入主流社會，為紐西蘭的經濟社會發展作出了重要貢獻，應當得到承認和尊重。我們呼籲新方尊重和保護其合法權益，為他們在新學習、生活、工作創造開放、包容和非歧視的環境。
-
----
-
-### 2026-07-30 14:15:44  #市場 #焦點
-
-【MLCC概念再度拉昇 風華高科4天3板】午後MLCC概念再度拉昇，風華高科4天3板，此前雙星新材漲停，昀冢科技漲超10%，鴻遠電子、國瓷材料、宏明電子、振華科技跟漲。
-
----
-
-### 2026-07-30 14:15:32  #市場
-
-新臺幣兌美元下跌0.4%至32.496。
-
----
-
-### 2026-07-30 14:15:08  #國際
-
-市場訊息：一枚俄羅斯導彈可能墜落在波蘭東部。
-
----
-
-### 2026-07-30 14:14:49  #MKT News #CSI300 #Impact bearish #SSE Composite
-
-China A-share power sector weakened in afternoon trade; Huadian Liaoneng hit the daily limit-down, Henan Yuneng Holdings neared limit-down, and peers Huadian Energy, Jiawei New Energy, Huayin Power, Xinneng Co. and Xinzhonggang also sold off.
-
----
-
-### 2026-07-30 14:14:41  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #US10Y #DXY
-
-【Report: Fed's lack of forward guidance complicates markets, may weigh on long-term bonds and equities】MainSky Asset Management chairman Eckhard Schulte said in a report that Fed chair KEVIN WARSH's avoidance of any form of forward guidance makes it extremely difficult for markets to form coherent policy expectations. Schulte said the resulting heightened uncertainty would weigh on equities, long-dated bonds and the dollar. He added WARSH has been clear the Fed is serious about its 2% inf target and intends to achieve it, but has not provided a coherent explanation for rejecting three dissenting members who advocated rate hikes.
-
----
-
-### 2026-07-30 14:14:36  #Trading Economics #Economy #Lithuania #GDP Growth Rate #Importance 1
-
-Lithuania Economy Grows 1.7% in Q2 — Lithuania’s economy grew by 1.7% quarter-on-quarter in the second quarter of 2026, rebounding from a revised 0.1% contraction in the first quarter, according to flash estimates. The strongest contributions to quarterly growth came from the manufacturing, construction, wholesale and retail trade, and transportation and storage sectors. On an annual basis, GDP expanded 4.1%, accelerating from a revised 2.5% increase in the previous quarter.
-
----
-
-### 2026-07-30 14:14:27  #公司 #觀點
-
-【高盛：上調東方甄選目標價至13.6港元，因估值偏高維持“沽售”評級】高盛發表研報指，東方甄選持續受母公司新東方品牌支援，旗下知名主播離職後，仍展示穩健經營表現，商品交易總額、收入及盈利能力均復甦，並正持續擴充套件自營品牌產品組合。但高盛亦指出，東方甄選目前估值相對其增長前景及同業仍屬偏高，因此維持“沽售”評級。因應東方甄選7月23日釋出的盈利預警及新東方2026財年第四季業績，高盛調整對東方甄選的預測，將2026至2028財年收入預測分別上調4%、15%及16%，以反映商品交易總額上升，尤其來自新抖音直播賬號及其他電商渠道的貢獻；但由於銷售及營銷費用增加，將淨利潤預測下調11%、7%及4%；經調整淨利潤預測則分別下調8%、上調2%及上調4%，以反映較高的股份基礎薪酬開支，目標價由12.4港元上調至13.6港元。
-
----
-
-### 2026-07-30 14:14:26  #市場 #焦點
-
-燃料油連續主力合約日內漲4%，現報3715.00元。
-
----
-
-### 2026-07-30 14:14:22  #其他
-
-美元指數DXY站上101，日內漲0.18%。
-
----
-
-### 2026-07-30 14:14:11  #公司
-
-加拿大皇家銀行將空客目標價從225歐元上調至250歐元。
-
----
-
-### 2026-07-30 14:14:06  #MKT News #DXY #Impact bullish #XAUUSD #Impact bearish #EURUSD
-
-Dollar index DXY rose above 101, up 0.18% intraday.
-
----
-
-### 2026-07-30 14:13:54  #MKT News #BSX.N #Impact bearish
-
-RBC cut its PT on Boston Scientific (BSX.N) to $70 from $85.
-
----
-
-### 2026-07-30 14:13:53  #Trading Economics #Economy #Romania #Unemployment Rate #Importance 1
-
-Romania Jobless Rate Edges Down to 6.3% — Romania’s seasonally adjusted unemployment rate eased to 6.3% in June 2026 from 6.4% in the previous month, indicating a slight improvement in labor market conditions. The number of unemployed people declined by 10.5 thousand from May, while it was 7.1 thousand higher than a year earlier, bringing the total to 511.6 thousand. By gender, the unemployment rate for men remained unchanged at 6.3%, while the rate for women edged down to 6.3% from 6.5% in the previous month. Among individuals aged 25 to 74, who represented 72.2% of the total number of unemployed people, the unemployment rate eased to 4.8% from 4.9% in May. Compared with the same month a year earlier, the overall unemployment rate was slightly higher than the 6.2% recorded in June 2025.
-
----
-
-### 2026-07-30 14:13:20  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-【World Gold Council: China Q2 gold demand down 41% YoY to 155 tonnes; ETF outflows 22 tonnes】The World Gold Council's Q2 2026 Global Gold Demand Trends report, released July 30, shows China market gold demand (jewellery, bars, gold ETFs and industrial) totaled 155 tonnes, down 41% YoY — the weakest Q2 since 2022. Jewellery demand fell 28% YoY and gold ETFs recorded net outflows of 22 tonnes, the primary drivers of the decline; consumer jewellery spending remained elevated despite lower volumes.
-
----
-
-### 2026-07-30 14:13:16  #MKT News #Important #Commodities #Energy
-
-China fuel oil front-month contract rose 4.00% intraday to 3,715.00 yuan/ton.
-
----
-
-### 2026-07-30 14:13:07  #市場
-
-澳大利亞S&P/ASX 200指數收盤下跌0.8%，報8967.70點。
-
----
-
-### 2026-07-30 14:13:07  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Falls from Record High, Ends Down 1.5% — New Zealand's stocks fell 214 points, or 1.5%, to close at 13,763 on Thursday, mainly weighed down by financials, healthcare, consumer staples, communication services, and materials, as traders took profit after the index posted a third consecutive record high. The broader index touched a more than one-week low, tracking a decline on Wall Street overnight after the Fed maintained interest rates. Traders anticipated the release of China's PMI, due on Friday, as investors monitored economic conditions in New Zealand's top trading partner amid uncertainty over the global outlook. A positive reading on New Zealand business confidence prevented the index from falling further, as sentiment rose to its highest level in five months, while moderating oil prices eased inflation concerns and expectations of an interest rate hike. Among the bottom performers were Vulcan Steel (-6.1%), Ryman Healthcare (-4.3%), A2 Milk (-3.4%), Fisher & Paykel (-2.4%), and Auckland International Airport (-1.9%).
-
----
-
-### 2026-07-30 14:12:40  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-Tokyo Gas top executive said persistent Middle East conflict could prolong upward pressure on spot LNG prices.
-
----
-
-### 2026-07-30 14:12:34  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-Caspian Pipeline Consortium said it suspended oil-loading operations after an oil tanker was struck by a drone.
-
----
-
-### 2026-07-30 14:12:18  #其他
-
-TD考恩將Arm目標股價從475美元下調至350美元。
-
----
-
-### 2026-07-30 14:11:59  #市場
-
-【世界黃金協會：二季度中國市場黃金需求同比下降41%】世界黃金協會7月30日釋出的2026年二季度《全球黃金需求趨勢報告》顯示，二季度中國市場黃金需求（含金飾、金條、黃金ETF及工業用金）總量達155噸，同比下降41%，為2022年以來最疲軟的二季度表現。金飾需求走弱，同比下降28%，黃金ETF流出22噸，是導致黃金需求同比下滑的主要因素。值得注意的是，儘管需求噸數下降，但消費者金飾消費支出金額仍維持高位。（證券時報）
 
 ---
