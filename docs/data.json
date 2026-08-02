@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-02 17:54:37",
+  "updated": "2026-08-02 17:58:33",
   "count": 17932,
   "items": [
+    {
+      "id": "5020846",
+      "time": "2026-08-02 17:56:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中行上海市分行落地上海市首筆以DR001按日浮動定價試點貸款】記者從中國銀行上海市分行獲悉，近日，中行上海市分行深入落實國家利率市場化改革部署，立足自身金融創新專業能力，成功落地上海市首筆以DR001為定價基準、實行按日浮動機制的企業試點貸款。"
+    },
     {
       "id": "5020845",
       "time": "2026-08-02 17:53:20",
@@ -166166,17 +166174,6 @@
         "市場"
       ],
       "text": "未來一週將有新亞強、神火股份等65家AB股公司披露業績。"
-    },
-    {
-      "id": "mkt:019f9dda-d07f-7aab-8e99-baafeb787ca7",
-      "time": "2026-07-26 17:56:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Expert: Trump halt to US strikes on Iran likely tactical; conflict to cycle】US President Trump on the 24th ordered US forces not to strike Iran, ending a 13-day run of strikes, US sources said. Qin Tian, deputy director of the Middle East Institute at the China Institute of Contemporary International Relations, said the pause is likely a tactical adjustment rather than a strategic shift. The duration of the halt, whether strikes will resume, or whether decisions to escalate will recur remain uncertain. Qin said the move should produce a short-term lull in US‑Iran military exchanges, but without a package solution the relationship is likely to see repeated cycles of fighting and negotiations, including compromises that may be difficult to implement."
     }
   ]
 }
