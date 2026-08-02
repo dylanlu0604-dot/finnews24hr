@@ -1,7 +1,33 @@
 {
   "date": "2026-08-02",
-  "count": 487,
+  "count": 490,
   "items": [
+    {
+      "id": "mkt:019fc24a-f86b-7aab-8f46-c961ad8f5bd1",
+      "time": "2026-08-02 19:45:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Hengli Heavy Industry books 46 newbuild orders in July; contract value tops 30 bln yuan】Hengli Group said on Aug 2 that Hengli Heavy Industry secured 46 newbuild ship orders in July across bulk carriers, containerships, tankers and gas carriers, with monthly contracted value exceeding 30 billion yuan."
+    },
+    {
+      "id": "5020888",
+      "time": "2026-08-02 19:45:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆力重工7月承接46艘新造船訂單，總金額超300億元】恆力集團8月2日訊息，7月，恆力重工單月承接46艘新造船訂單，覆蓋散貨、集裝箱、油輪、氣體船四大主流船型，單月經營承接總金額超300億元。"
+    },
+    {
+      "id": "5020887",
+      "time": "2026-08-02 19:44:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "宣告稱，歐佩克+聯合部長級監督委員會將於10月4日舉行下次會議。"
+    },
     {
       "id": "5020885",
       "time": "2026-08-02 19:42:10",

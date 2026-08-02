@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-02 19:45:33",
-  "count": 17934,
+  "updated": "2026-08-02 19:49:28",
+  "count": 17936,
   "items": [
+    {
+      "id": "mkt:019fc24a-f86b-7aab-8f46-c961ad8f5bd1",
+      "time": "2026-08-02 19:45:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Hengli Heavy Industry books 46 newbuild orders in July; contract value tops 30 bln yuan】Hengli Group said on Aug 2 that Hengli Heavy Industry secured 46 newbuild ship orders in July across bulk carriers, containerships, tankers and gas carriers, with monthly contracted value exceeding 30 billion yuan."
+    },
+    {
+      "id": "5020888",
+      "time": "2026-08-02 19:45:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆力重工7月承接46艘新造船訂單，總金額超300億元】恆力集團8月2日訊息，7月，恆力重工單月承接46艘新造船訂單，覆蓋散貨、集裝箱、油輪、氣體船四大主流船型，單月經營承接總金額超300億元。"
+    },
+    {
+      "id": "5020887",
+      "time": "2026-08-02 19:44:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "宣告稱，歐佩克+聯合部長級監督委員會將於10月4日舉行下次會議。"
+    },
     {
       "id": "5020885",
       "time": "2026-08-02 19:42:10",
@@ -166205,14 +166231,6 @@
         "DXY"
       ],
       "text": "【Iran president: U.S. strikes on Iranian civilian infrastructure are 'clear war crimes'】On the 26th, President PEZESHKIAN and the minister of Roads and Urban Development received a briefing on damage to border crossings, ports, highways and railways. He said U.S. strikes on those civilian transport facilities were \"clear war crimes\" and called for legal accountability through relevant international organizations and bodies."
-    },
-    {
-      "id": "5008540",
-      "time": "2026-07-26 19:46:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本沖繩縣宜野灣市議會等要求明確普天間機場歸還期限】日本沖繩縣宜野灣市議會及當地經濟團體等7月26日發表聯合宣告，要求日美兩國政府明確駐日美軍普天間機場的歸還期限。聯合宣告指出，當地居民長期面臨美軍飛機事故風險和噪音侵擾，“忍耐已經到了極限”。宣告呼籲儘快歸還普天間機場並明確歸還期限。宜野灣市市長佐喜真淳表示，日美兩國政府就歸還普天間機場達成協議已過去30年，“照這樣下去，即使再過40年，機場也可能繼續存在”。宜野灣市還計劃向日本首相官邸、防衛省及美國駐日本大使館等機構提出相關要求。（央視新聞）"
     }
   ]
 }
