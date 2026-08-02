@@ -1,7 +1,18 @@
 {
   "date": "2026-08-02",
-  "count": 307,
+  "count": 308,
   "items": [
+    {
+      "id": "mkt:019fc151-f6c1-7aab-8f45-d780a71f02a9",
+      "time": "2026-08-02 15:13:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "1810.HK"
+      ],
+      "text": "【Xiaomi raises retail prices on select smartphone models; typical increase 300 yuan】Xiaomi on Aug 2 increased official retail prices on select models via its Xiaomi Mall. Xiaomi 17 series prices were raised by 300–500 yuan per unit; Redmi’s lineup, including performance-focused Turbo 5 and K90 series variants, broadly rose about 300 yuan."
+    },
     {
       "id": "5020729",
       "time": "2026-08-02 15:08:44",
