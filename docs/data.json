@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-02 08:30:24",
+  "updated": "2026-08-02 08:34:21",
   "count": 17977,
   "items": [
+    {
+      "id": "mkt:019fbfe1-b4a3-7aab-8f44-1d8c67dc090d",
+      "time": "2026-08-02 08:31:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC measured a magnitude-3.0 earthquake at 08:25 local time on Aug 2 in Xinghai County, Hainan Prefecture, Qinghai province, China; focal depth 10 km."
+    },
+    {
+      "id": "5020610",
+      "time": "2026-08-02 08:30:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：俄羅斯北庫里爾斯克西南 112 公里處發生 5.2 級地震。"
+    },
     {
       "id": "5020609",
       "time": "2026-08-02 08:27:07",
@@ -166491,22 +166507,6 @@
         "MKT News"
       ],
       "text": "A Berlin police spokesman said the identity of a suspect linked to the Berlin attack has been confirmed; he is known to be a member of an Islamist extremist organization but has not been arrested."
-    },
-    {
-      "id": "5008213",
-      "time": "2026-07-26 08:34:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "柏林警方發言人：柏林襲擊案的一名嫌犯已被確認身份，警方此前已知曉其為伊斯蘭極端圈子成員，目前該嫌犯尚未落網。"
-    },
-    {
-      "id": "5008212",
-      "time": "2026-07-26 08:32:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新策略實現超高穩定性鈉離子電池】在國家自然科學基金等專案資助下，廣東工業大學材料與能源學院副教授張偉、教授熊世雲和教授黃少銘團隊在鈉離子電池負極材料領域取得重要進展。相關成果近日發表於《先進材料》（Advanced Materials）。該研究首次從路易斯酸鹼催化角度揭示了多硒化物轉化與穿梭的內在機制，提出了“電子結構調控-雙位點自催化-晶格緩衝”協同設計新正規化，為開發超長壽命金屬硒化物負極材料提供了全新思路，對推動鈉離子電池在大規模儲能領域的實際應用具有重要意義。（中國科學報）"
     }
   ]
 }

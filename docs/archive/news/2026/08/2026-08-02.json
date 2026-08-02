@@ -1,7 +1,23 @@
 {
   "date": "2026-08-02",
-  "count": 132,
+  "count": 134,
   "items": [
+    {
+      "id": "mkt:019fbfe1-b4a3-7aab-8f44-1d8c67dc090d",
+      "time": "2026-08-02 08:31:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC measured a magnitude-3.0 earthquake at 08:25 local time on Aug 2 in Xinghai County, Hainan Prefecture, Qinghai province, China; focal depth 10 km."
+    },
+    {
+      "id": "5020610",
+      "time": "2026-08-02 08:30:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：俄羅斯北庫里爾斯克西南 112 公里處發生 5.2 級地震。"
+    },
     {
       "id": "5020609",
       "time": "2026-08-02 08:27:07",
