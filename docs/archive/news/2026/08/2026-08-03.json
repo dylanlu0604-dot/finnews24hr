@@ -1,7 +1,58 @@
 {
   "date": "2026-08-03",
-  "count": 60,
+  "count": 65,
   "items": [
+    {
+      "id": "mkt:019fc389-cac5-7aab-8f48-6a9b4d9228de",
+      "time": "2026-08-03 01:33:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Israel's public broadcaster cited officials saying most negotiations are focused on the Strait of Hormuz; progress on other issues is unclear."
+    },
+    {
+      "id": "mkt:019fc389-0f4e-7aab-8f48-67a6bcb91abb",
+      "time": "2026-08-03 01:32:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Qatar's foreign ministry said the prime minister and foreign minister, in a call with Egypt's foreign minister, discussed efforts to ease regional tensions and urged all parties to pursue dialogue and safeguard freedom of navigation through the Strait of Hormuz."
+    },
+    {
+      "id": "5021008",
+      "time": "2026-08-03 01:31:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列官員：目前大部分會談都圍繞霍爾木茲海峽展開，其餘議題的走向尚不明朗。"
+    },
+    {
+      "id": "mkt:019fc387-c986-7aab-8f48-58e31c25ded0",
+      "time": "2026-08-03 01:31:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israeli officials said they were frustrated that Trump canceled planned strikes on Iran for the second time in a week, saying the last-minute reversals undermine military planning. Israeli officials now judge Trump is more likely to seek an agreement with Iran than to escalate the conflict."
+    },
+    {
+      "id": "5021007",
+      "time": "2026-08-03 01:30:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：首相兼外交部長強調，各方必須堅持對話，並確保霍爾木茲海峽的航行自由。"
+    },
     {
       "id": "mkt:019fc386-7264-7aab-8f48-54cef06cb05a",
       "time": "2026-08-03 01:29:55",

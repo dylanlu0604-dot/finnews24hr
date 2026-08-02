@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-03 01:30:45",
-  "count": 17946,
+  "updated": "2026-08-03 01:34:41",
+  "count": 17948,
   "items": [
+    {
+      "id": "mkt:019fc389-cac5-7aab-8f48-6a9b4d9228de",
+      "time": "2026-08-03 01:33:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Israel's public broadcaster cited officials saying most negotiations are focused on the Strait of Hormuz; progress on other issues is unclear."
+    },
+    {
+      "id": "mkt:019fc389-0f4e-7aab-8f48-67a6bcb91abb",
+      "time": "2026-08-03 01:32:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Qatar's foreign ministry said the prime minister and foreign minister, in a call with Egypt's foreign minister, discussed efforts to ease regional tensions and urged all parties to pursue dialogue and safeguard freedom of navigation through the Strait of Hormuz."
+    },
+    {
+      "id": "5021008",
+      "time": "2026-08-03 01:31:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列官員：目前大部分會談都圍繞霍爾木茲海峽展開，其餘議題的走向尚不明朗。"
+    },
+    {
+      "id": "mkt:019fc387-c986-7aab-8f48-58e31c25ded0",
+      "time": "2026-08-03 01:31:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israeli officials said they were frustrated that Trump canceled planned strikes on Iran for the second time in a week, saying the last-minute reversals undermine military planning. Israeli officials now judge Trump is more likely to seek an agreement with Iran than to escalate the conflict."
+    },
+    {
+      "id": "5021007",
+      "time": "2026-08-03 01:30:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：首相兼外交部長強調，各方必須堅持對話，並確保霍爾木茲海峽的航行自由。"
+    },
     {
       "id": "mkt:019fc386-7264-7aab-8f48-54cef06cb05a",
       "time": "2026-08-03 01:29:55",
@@ -166314,34 +166365,6 @@
         "國際"
       ],
       "text": "【伊朗最高領袖：支援黎真主黨並要求全面結束以對黎軍事行動】伊朗最高領袖穆傑塔巴·哈梅內伊當地時間7月26日晚對黎巴嫩真主黨領導人納伊姆·卡西姆及其武裝人員日前的來信作出回覆。回信稱，在當前地區局勢下，黎巴嫩真主黨是抵抗以色列及其支持者的主要力量，並已成為鼓舞世界各地反對霸權主義及其代理人的重要力量。回信表示，黎真主黨能夠持續堅持，不僅依靠其武裝人員，也離不開黎巴嫩民眾，特別是南部地區民眾的支援。穆傑塔巴重申，根據已故伊朗最高領袖哈梅內伊確立的路線，支援黎巴嫩真主黨已成為伊朗的一項戰略政策。他表示，伊朗將維護黎巴嫩領土完整、全面且無條件結束以色列對黎軍事行動，作為與美國達成結束衝突相關諒解備忘錄的首要條件。穆傑塔巴還表示，世界各國人民已經無法忍受美國和以色列的“壓迫與暴行”，並稱將繼續堅持抵抗路線。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f9f90-f986-7aab-8e9b-be67e6c81ea7",
-      "time": "2026-07-27 01:34:39",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Khamenei reiterates Iran's strategic support for Hezbollah, demands full end to Israeli operations in Lebanon】Iran's supreme leader Khamenei replied to a letter from Hezbollah leader Naim Qassem and his fighters, reaffirming that support for Hezbollah is a strategic policy under the line established by the late supreme leader Khamenei. He said Iran will defend Lebanon's territorial integrity and that a comprehensive, unconditional end to Israeli military operations in Lebanon is the primary precondition for any US-linked memorandum to end the conflict. Khamenei added that people worldwide can no longer tolerate US and Israeli \"oppression and violence\" and vowed to continue the resistance line."
-    },
-    {
-      "id": "5008677",
-      "time": "2026-07-27 01:32:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：（伊朗放棄核計劃）這正是特朗普總統想要實現的目標，我全力支援他。無論透過何種方式，伊朗都必須終止核計劃。無論是否達成協議，伊朗核計劃都必須畫上句號。"
-    },
-    {
-      "id": "5008676",
-      "time": "2026-07-27 01:31:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：認為要麼推翻伊朗現政權，要麼將其嚴重削弱，迫使伊朗主動終止核計劃、徹底改變現有路線。"
     }
   ]
 }
