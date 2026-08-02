@@ -1,7 +1,41 @@
 {
   "date": "2026-08-02",
-  "count": 125,
+  "count": 129,
   "items": [
+    {
+      "id": "mkt:019fbfc6-0ec4-7aab-8f44-112490442b2f",
+      "time": "2026-08-02 08:00:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "A grid failure caused power outages in five Cuban provinces."
+    },
+    {
+      "id": "5020606",
+      "time": "2026-08-02 08:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 古巴 15 個省份中已有 5 省斷電。"
+    },
+    {
+      "id": "mkt:019fbfc5-40ca-7aab-8f44-0b8377aa5015",
+      "time": "2026-08-02 08:00:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A shooting in Twin Falls, Idaho on Aug. 1 killed three people and injured at least two."
+    },
+    {
+      "id": "mkt:019fbfc4-b8cc-7aab-8f44-0067a332f1a3",
+      "time": "2026-08-02 07:59:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US media: Saudi crown prince urged Trump to show restraint on proposed large-scale strike on Iran】Axios reports two US officials and a person familiar said Saudi Crown Prince Mohammed bin Salman called US President Trump on Saturday to express concern about a proposed large-scale US strike on Iran targeting energy infrastructure. Media reports earlier said Trump was considering strikes in coming days in response to an Iranian missile attack on a US base in Jordan and continued disruptions to shipping in the Strait of Hormuz; no final order has been issued. A US official said Saudi Arabia asked for clarity on the plan; the crown prince urged de-escalation. Qatar, the UAE, Turkey and Pakistan have also pressed the US and Iran to calm tensions. Saudi Arabia, a key US regional ally, has influenced Trump’s Iran policy at several critical moments since the war began."
+    },
     {
       "id": "5020605",
       "time": "2026-08-02 07:53:23",

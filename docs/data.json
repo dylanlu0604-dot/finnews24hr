@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-02 07:58:33",
+  "updated": "2026-08-02 08:02:30",
   "count": 17991,
   "items": [
+    {
+      "id": "mkt:019fbfc6-0ec4-7aab-8f44-112490442b2f",
+      "time": "2026-08-02 08:00:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "A grid failure caused power outages in five Cuban provinces."
+    },
+    {
+      "id": "5020606",
+      "time": "2026-08-02 08:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 古巴 15 個省份中已有 5 省斷電。"
+    },
+    {
+      "id": "mkt:019fbfc5-40ca-7aab-8f44-0b8377aa5015",
+      "time": "2026-08-02 08:00:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A shooting in Twin Falls, Idaho on Aug. 1 killed three people and injured at least two."
+    },
+    {
+      "id": "mkt:019fbfc4-b8cc-7aab-8f44-0067a332f1a3",
+      "time": "2026-08-02 07:59:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US media: Saudi crown prince urged Trump to show restraint on proposed large-scale strike on Iran】Axios reports two US officials and a person familiar said Saudi Crown Prince Mohammed bin Salman called US President Trump on Saturday to express concern about a proposed large-scale US strike on Iran targeting energy infrastructure. Media reports earlier said Trump was considering strikes in coming days in response to an Iranian missile attack on a US base in Jordan and continued disruptions to shipping in the Strait of Hormuz; no final order has been issued. A US official said Saudi Arabia asked for clarity on the plan; the crown prince urged de-escalation. Qatar, the UAE, Turkey and Pakistan have also pressed the US and Iran to calm tensions. Saudi Arabia, a key US regional ally, has influenced Trump’s Iran policy at several critical moments since the war began."
+    },
     {
       "id": "5020605",
       "time": "2026-08-02 07:53:23",
@@ -166598,38 +166632,6 @@
         "其他"
       ],
       "text": "【世界盃帶動旅遊熱度不減：奪冠後西班牙機票搜尋量激增33倍，南美遊諮詢熱度翻倍增長】39天的世界盃賽事已經畫上句號，但由綠茵場點燃的旅行消費熱潮開始迎來高峰。近日，多家旅遊平臺和旅行社披露的資料顯示，世界盃參賽國家的相關旅遊諮詢量和搜尋量猛增。西班牙奪冠世界盃後：機票搜尋量激增33倍，中秋國慶多批跟團遊已成團西班牙奪冠的訊息一出，中國旅行者的反應幾乎是即時性的。去哪兒旅行指數顯示，截至7月20日9:00，即奪冠後數小時內，巴塞羅那機票搜尋量較前一小時增長1.6倍。其中，深圳-巴塞羅那航線搜尋量環比暴增33倍。昆明、青島、貴陽飛巴塞羅那的搜尋熱度同樣迅速攀升，昆明-巴塞羅那搜尋量同比上週增長10倍。（澎湃）"
-    },
-    {
-      "id": "5008198",
-      "time": "2026-07-26 08:02:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【訊息人士：霍爾木茲海峽相關外交談判取得進展】兩名地區訊息人士透露，阿曼與伊朗圍繞重開霍爾木茲海峽及雙方該區域內各自領海水道的談判取得進展。兩名訊息人士表示，談判局勢整體向好，但相關外交磋商仍需更多時間方能達成協議。 阿曼官員於週五前往德黑蘭展開談判，此次外交斡旋恰逢特朗普總統下令美軍暫停轟炸行動，此前美軍已連續13晚實施空襲。地區訊息人士稱，美方刻意暫停空襲，意在避免破壞這場脆弱的線下談判。白宮與美國中央司令部均未回應置評請求。"
-    },
-    {
-      "id": "5008197",
-      "time": "2026-07-26 08:01:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家海洋預報臺根據《海洋災害應急預案》釋出海浪黃色警報】國家海洋預報臺根據《海洋災害應急預案》釋出海浪黃色警報。受今年第12號颱風“紅霞”（颱風級）的影響，預計：7月26日上午到下午，南海北部將出現3.5到5.5米的大浪到巨浪區；廣東東部近岸海域將出現3到4.4米的大浪到巨浪，近岸海域海浪預警級別為黃色。預計26日傍晚視情況解除此次海浪警報。請在上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。"
-    },
-    {
-      "id": "5008196",
-      "time": "2026-07-26 08:01:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "加斯科管道公司釋出全新非計劃臨時管控通知，針對管道干擾異常工況。"
-    },
-    {
-      "id": "5008195",
-      "time": "2026-07-26 08:00:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "現代重工集團三河重工獲得塔科馬港四臺港口起重機訂單，推進MASGA專案。"
     }
   ]
 }
