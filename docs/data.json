@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-03 00:45:26",
-  "count": 17923,
+  "updated": "2026-08-03 00:49:49",
+  "count": 17926,
   "items": [
+    {
+      "id": "5020988",
+      "time": "2026-08-03 00:48:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：對方清楚，一旦其針對我方採取任何冒險行動，我們必將予以強力回擊。"
+    },
+    {
+      "id": "5020987",
+      "time": "2026-08-03 00:47:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：阿聯酋近日遊說特朗普對伊朗採取更強硬行動。"
+    },
+    {
+      "id": "mkt:019fc35e-b208-7aab-8f47-e2f6181bb0c7",
+      "time": "2026-08-03 00:46:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry spokesman said friends and neighboring countries should be aware that any US attack on Iranian infrastructure would affect everyone."
+    },
+    {
+      "id": "5020986",
+      "time": "2026-08-03 00:46:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：伊朗與巴基斯坦、土耳其官員會談時談及美方發出的警告與威脅，美方稱若伊朗遭到襲擊，美方將採取報復行動。"
+    },
     {
       "id": "mkt:019fc35c-c228-7aab-8f47-d9e96cce2139",
       "time": "2026-08-03 00:44:23",
@@ -172,6 +207,14 @@
         "國際"
       ],
       "text": "伊朗外交部發言人：美國的威脅早已司空見慣，德黑蘭將基於自身利益採取行動，不會受各類威脅影響。"
+    },
+    {
+      "id": "mkt:019fc35f-ddb3-7aab-8f47-e9c72b223d92",
+      "time": "2026-08-03 00:32:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran’s foreign ministry spokesman said U.S. threats are not new and Tehran acts in its own interests, unaffected by such threats."
     },
     {
       "id": "5020973",
@@ -166119,22 +166162,6 @@
         "國際"
       ],
       "text": "美軍中東戰區指揮官：可打擊目標基本已耗盡，軍方這一建議推動特朗普做出暫停空襲伊朗的決定。"
-    },
-    {
-      "id": "5008666",
-      "time": "2026-07-27 00:49:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：美國中東戰區指揮官建議暫停霍爾木茲海峽轟炸行動。"
-    },
-    {
-      "id": "mkt:019f9f53-d797-7aab-8e9b-84c2b262eab6",
-      "time": "2026-07-27 00:48:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's embassy in France said the Strait of Hormuz is a heritage passed down through generations."
     }
   ]
 }
