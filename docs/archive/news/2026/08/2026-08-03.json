@@ -1,7 +1,50 @@
 {
   "date": "2026-08-03",
-  "count": 8,
+  "count": 13,
   "items": [
+    {
+      "id": "5020978",
+      "time": "2026-08-03 00:39:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：同阿曼談判意在霍爾木茲海峽設立聯合機制。"
+    },
+    {
+      "id": "mkt:019fc357-dc1a-7aab-8f47-bdef1dcfbd38",
+      "time": "2026-08-03 00:39:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said talks with Oman aim to find a common mechanism for the Strait of Hormuz."
+    },
+    {
+      "id": "5020977",
+      "time": "2026-08-03 00:38:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱正與阿曼就霍爾木茲海峽新航線進行談判。"
+    },
+    {
+      "id": "5020976",
+      "time": "2026-08-03 00:38:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：我們重申，霍爾木茲海峽局勢無法恢復至戰前狀態。"
+    },
+    {
+      "id": "mkt:019fc357-1db6-7aab-8f47-b14e094f26b2",
+      "time": "2026-08-03 00:38:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran foreign ministry spokesman said talks with Oman are bilateral and do not involve other parties, and reiterated that the situation in the Strait of Hormuz will not return to its pre-war state."
+    },
     {
       "id": "mkt:019fc355-6858-7aab-8f47-a9f3a7ae66f3",
       "time": "2026-08-03 00:36:22",
