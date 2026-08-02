@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-03 01:38:43_
-_本檔包含 3650 則快訊，約 670212 字_
+_更新時間：2026-08-03 02:37:32_
+_本檔包含 3647 則快訊，約 670304 字_
+
+---
+
+### 2026-07-30 15:00:00  #MKT News #Economic Calendar #Important
+
+Switzerland | KOF Economic Leading Indicator (Jul) | actual 103.5 | consensus 101 | previous 101.2
+
+---
+
+### 2026-07-30 14:59:17  #觀點
+
+摩根士丹利將星巴克目標股價從111美元上調至115美元。
+
+---
+
+### 2026-07-30 14:59:05  #MKT News #Commodities #Energy #SHEL.N #Impact bearish
+
+Shell (SHEL.N) CFO says refinery maintenance will increase next quarter.
+
+---
+
+### 2026-07-30 14:58:55  #國際
+
+雷諾首席財務官表示，今年上半年，雷諾在歐洲短期租賃市場的中國競爭對手銷量幾乎翻了一番。
+
+---
+
+### 2026-07-30 14:57:12  #MKT News #Commodities #Energy
+
+【Low Danube forces Hungary, Romania to shut nuclear reactors】Historic low Danube water levels have forced Hungary and Romania to take nuclear reactors offline because cooling-water supply cannot be guaranteed. Hungary’s Paks operator said it will shut one of the plant’s four reactors from 13:00 GMT on the 29th. Paks is Hungary’s only nuclear plant, with 2 GW total installed capacity and accounting for roughly half of the country’s electricity. Romania’s energy sector said Cernavodă Unit 2 will be taken offline from 10:00 local time on the 30th; Unit 1 was shut on the 28th. These outages reduce baseload nuclear generation in both countries.
+
+---
+
+### 2026-07-30 14:57:09  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
+
+TAIEX Hits 3-Month Low, Ends Below 40,000 — The TAIEX, Taiwan's benchmark stock index, fell 106 points, or 0.3%, to close at 39,933 on Thursday, retreating for the fifth consecutive session and marking its lowest level since April 30, mainly weighed down by energy minerals, technology services, and electronic technology stocks. Electronic technology stocks continued to decline amid concerns over returns on AI investment, falling 0.4% after plunging 3.8% in the previous session, mainly weighed down by Hon Hai Precision Industry (-3.2%), Nanya Technology (-7.2%), and Quanta Computer (-9.9%). However, TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, rose 0.2%, rebounding from a 2.2% decline a day earlier after being included among the top 100 companies in this year's Fortune Global 500 for the first time. Meanwhile, moderating oil prices eased inflation concerns and expectations of an interest rate hike, limiting the decline.
+
+---
+
+### 2026-07-30 14:56:43  #公司
+
+【國投證券：維持寧德時代“買入-A”評級，動儲持續高景氣，高分紅回購提振信心】國投證券研報指出，動儲持續高景氣，寧德時代高分紅回購提振信心。2026H1公司實現營業收入2769 億元，同比+55%；實現歸母淨利潤433 億元，同比+42%。動力儲能雙向高增，全球份額突破。儲能業務海內外專案持續落地，簽署60GWh鈉離子儲能合作，落地2GWh 大型儲能專案；量產587Ah 儲能電芯、9MWh TENER Stack 等產品，躋身全球儲能系統整合商第一梯隊，動儲業務依託技術與渠道優勢雙向擴容。持續延伸電動化場景佈局，發力船舶航運、低空eVTOL、AI 資料中心等新興領域，多款飛行器取得取證突破。加大分紅回購，夯實股東回報。考慮到公司動力儲能雙向高增，創新能力引領市場，供應鏈整合管理能力出眾，維持“買入-A”的投資評級，12個月目標價為520元，相當於2026年24倍的動態市盈率。
+
+---
+
+### 2026-07-30 14:56:27  #國際
+
+一份宣告顯示，印度泰米爾納德邦與Motivelink簽署的諒解備忘錄預計將創造約1500個直接和間接就業崗位。
+
+---
+
+### 2026-07-30 14:56:22  #Trading Economics #Markets #Commodity #Importance 1
+
+UK Gas Prices Retreat — UK natural gas prices dropped to around 147 pence per therm on Thursday, paring some of the previous session's gains after reports that a Qatari gas tanker had successfully exited the Strait of Hormuz, raising hopes that LNG exports from the Middle East's largest supplier could gradually resume. It was the first such vessel reported to have left the waterway since one of Qatar's tankers was attacked more than three weeks ago. However, concerns over the security of shipping through the strait persist amid renewed fighting in the region. President Donald Trump pledged a strong response after Iran attacked US bases in Jordan, following joint strikes by Saudi Arabia and Washington against Iran-backed militias in Iraq. Earlier this week, QatarEnergy extended its force majeure for European and Asian customers, intensifying competition between the two regions for available LNG cargoes. Heatwaves across Europe are also boosting electricity demand, slowing the pace of gas storage replenishment.
+
+---
+
+### 2026-07-30 14:56:15  #市場 #國際
+
+【國債期貨拉昇 30年期主力合約漲0.4%】國債期貨拉昇，30年期主力合約盤中漲0.40%，現報115.170元。10年期漲0.09%，現報109.3元。5年期漲0.07%，現報106.475元。2年期漲0.01%，現報102.626元。
+
+---
+
+### 2026-07-30 14:56:11  #公司
+
+雷諾首席財務官表示，受原材料影響預計在下半年將進一步加劇，公司將繼續推進成本削減，甚至可能加快削減步伐。
+
+---
+
+### 2026-07-30 14:56:05  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
+
+TD Cowen cut Meta Platforms' PT to $750 from $800 (META.O).
 
 ---
 
@@ -21911,95 +21983,5 @@ Sweden GDP Growth Strongest in Over 2 Years — The Swedish economy expanded 1.4
 ### 2026-07-29 14:13:57  #公司
 
 【山東資料集團登記成立，註冊資本10億】天眼查App顯示，7月28日，山東資料集團有限公司成立，法定代表人為劉繼永，註冊資本10億人民幣，經營範圍包括大資料服務、數字技術服務、資料處理服務、工業網際網路資料服務、軟體開發等，由浪潮集團有限公司全資持股。
-
----
-
-### 2026-07-29 14:13:44  #市場 #焦點
-
-滬深兩市成交額超2萬億元，較上日此時放量3067億元。
-
----
-
-### 2026-07-29 14:13:28  #其他
-
-中國地震臺網自動測定：07月29日14時09分在新疆阿克蘇地區烏什縣附近（北緯41.34度，東經78.86度）發生4.9級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-07-29 14:13:19  #公司
-
-【長江證券：寧德時代盈利延續穩健增長，大額回購強化信心，繼續推薦】長江證券研報指出，寧德時代盈利延續穩健增長，大額回購強化信心。上半年實現歸母淨利潤432.84億元，同比增長41.98%；其中2026Q2實現歸母淨利潤225.46億元，同比增長36.46%。就上半年來看，公司披露產量為498GWh，產能利用率維持在94.86%的高位。拆分2026Q2來看，預計公司二季度銷量維持穩健增長，環比有小幅增長，階段性確收節奏偏弱主要受資源價格高位影響，但我們認為相關需求僅為階段性推遲，下半年確收規模有望明顯提升。同時，寧德時代本次宣佈了新一輪迴購方案，擬使用不低於人民幣200億元、不超過400億元自有或自籌資金，回購公司股份用於登出並減少公司註冊資本，回購價格上限為573元/股。此外，公司將實施中期分紅，每10股派發現金分紅人民幣14.11元（含稅），對應64.9億元。綜合來看，預計公司2026、2027年歸母淨利潤945、1171億元，對應PE分別為20、16X，繼續推薦。
-
----
-
-### 2026-07-29 14:13:10  #公司 #市場
-
-開雲集團在 Tradegate 交易所較巴黎收盤價格上漲 6.5%。
-
----
-
-### 2026-07-29 14:12:53  #其他 #焦點 #國際
-
-宣告顯示，在沙特和美國實施襲擊後，伊拉克總理呼籲召開緊急安全會議。
-
----
-
-### 2026-07-29 14:11:53  #其他
-
-【澳門特區政府食品安全廳：皇家美素力涉事批次預警仍未解除】針對皇家美素力嬰幼兒配方奶粉被檢出鉛超標一事，介面新聞7月29日致電澳門特區政府食品安全廳，其工作人員表示，目前針對皇家美素力相關產品釋出的食品預警仍在生效，預警主要針對已檢出不合格的一個批次。該工作人員還表示，澳門當局正由多個部門聯合跟進該事件。7月27日晚，相關部門已公佈對其他批次產品安排檢驗的最新進展，目前暫無更多資訊可以提供。後續事件進展及食品預警是否調整，統一以澳門特區政府網站公佈的資訊為準。
-
----
-
-### 2026-07-29 14:10:49  #其他
-
-烏茲別克中央銀行維持基準利率在14%不變。
-
----
-
-### 2026-07-29 14:09:54  #Trading Economics #Economy #Sweden #Monthly GDP MoM #Importance 1
-
-Swedish Economic Activity Shrinks 0.2% in June — The Swedish economy shrank 0.2% month on month in June 2026, reversing a 0.9% expansion in the previous month and marking the first contraction in four months. "The Swedish economy contracted somewhat in June following three months of continuous growth. Those stronger figures in the preceding months led to levels of economic activity for both June and the second quarter as a whole that were noticeably above the levels seen in the corresponding periods of the preceding year," said Mattias Kain Wyatt, economist at Statistics Sweden. On a yearly basis, GDP expanded 2.4% in June, easing from a downwardly revised 3.8% expansion in May.
-
----
-
-### 2026-07-29 14:09:24  #國際
-
-【美抗議者要求逮捕內塔尼亞胡】以色列總理內塔尼亞胡7月28日在白宮與美國總統特朗普舉行會談。27日和28日，大批抗議者聚集在華盛頓特區舉行抗議活動。有抗議者表示，內塔尼亞胡是戰爭犯，要求美國政府逮捕內塔尼亞胡。還有猶太人抗議者譴責內塔尼亞胡濫用猶太人的宗教和身份為其犯罪行為辯護，他表示，以色列對加沙的種族滅絕、對約旦河西岸的屠殺以及對巴勒斯坦長達78年的佔領“都是荒謬的，都是犯罪行為”。 （CCTV國際時訊）
-
----
-
-### 2026-07-29 14:08:27  #市場
-
-越南VN指數上漲1%至1697.77。
-
----
-
-### 2026-07-29 14:08:19  #宏觀
-
-【上海市長寧區：實施工業網際網路等重點領域躍升行動 培育產業網際網路標杆平臺】上海市長寧區人民政府辦公室印發《長寧區推進服務業擴能提質三年行動計劃（2026-2028年）》。其中提出，強化產業網際網路數智賦能。培育產業網際網路特色叢集。出臺產業網際網路發展三年行動計劃，實施工業網際網路等重點領域躍升行動，培育產業網際網路標杆平臺，深化國家工業網際網路特色產業叢集建設，推動具身智慧企業培育集聚和AI智慧體場景應用。加快資料要素資源集聚。建設資料價值化應用先行區，引育基礎設施型等各類數商，支援平臺企業打造數智應用樣本，建設上海市數字公共服務中心(虹橋數谷)。深入實施“人工智慧+”行動。加速工業軟體創新升級，加快行業大模型、智慧體開發應用。打造具身智慧物理實訓場，建設多模態具身語料採集體系。
-
----
-
-### 2026-07-29 14:08:09  #公司
-
-【貴州省梵淨山投資控股集團有限公司原黨委委員吳翔被“雙開”】據銅仁市紀委監委訊息：經銅仁市委批准，銅仁市紀委監委對貴州省梵淨山投資控股集團有限公司原黨委委員吳翔嚴重違紀違法問題進行了立案審查調查。經查，吳翔喪失理想信念，背棄初心使命，對抗組織審查；違反中央八項規定精神，超範圍、超標準接待，收受可能影響公正執行公務的禮品；廉潔底線失守，違規擁有非上市公司股份；中飽私囊，利用職務便利套取公款佔為己有；以權謀私，利用職務便利為他人在工程專案承攬等方面謀利，並非法收受鉅額財物。吳翔嚴重違反黨的政治紀律、廉潔紀律，構成嚴重職務違法並涉嫌貪汙、受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經銅仁市紀委常委會會議研究並報銅仁市委批准，決定給予吳翔開除黨籍處分；由銅仁市監委給予其開除公職處分；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。
-
----
-
-### 2026-07-29 14:07:48  #公司
-
-【貴州畢節市農業發展集團有限公司副總經理洪林被“雙開”】據畢節市紀委監委訊息：經畢節市委批准，畢節市紀委監委對畢節市農業發展集團有限公司黨委委員、副總經理洪林嚴重違紀違法問題進行了立案審查調查。經查，洪林喪失理想信念，背棄初心使命，無視中央八項規定精神，接受可能影響公正執行公務的宴請；違背組織原則，個人決定重大事項；靠企吃企，非法佔有公共財物；將公權力異化為謀取私利的工具，利用職務便利非法收受管理服務物件鉅額財物。洪林嚴重違反黨的組織紀律、廉潔紀律，構成嚴重職務違法並涉嫌貪汙、受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經畢節市紀委常委會會議研究並報畢節市委批准，決定給予洪林開除黨籍處分；由畢節市監委給予其開除公職處分；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。
-
----
-
-### 2026-07-29 14:07:29  #市場 #國際
-
-【韓財長致歉：未經審慎考量便推出單一股票槓桿ETF】當地時間週三，韓股連續兩日熔斷後，面對一名議員的道歉要求，韓國財長具潤哲表示，對於在未經審慎考量下就推出單一股票槓桿ETF表示歉意。此前在早盤韓國KOSPI指數跌超6%後，具潤哲在國會發言時表示，政府正在內部研究市場穩定措施，進一步調整單隻股票槓桿ETF的相關規定以應對市場波動是有可能的。韓國KOSPI指數週三經歷動盪一日，日內一度大跌12%，隨後跌幅逐步收窄至約8%；權重股SK海力士在績後以17%的跌幅重新整理單日跌幅之最，現跌幅收窄至8%一線。
-
----
-
-### 2026-07-29 14:07:06  #宏觀 #央行 #國際
-
-【策略師：沃什希望市場預期為美聯儲提供決策依據】瑞典北歐斯安銀行宏觀策略師古斯塔夫・赫爾格松在研報中表示，美聯儲新任主席凱文・沃什長期以來對美聯儲面向市場的溝通策略與資訊透明度持質疑態度，並計劃對現有機製作出調整。這位宏觀策略師稱：“沃什不再主張由美聯儲引導市場，而是希望依靠市場預期傳遞資訊，以此作為美聯儲政策行動的依據。”該策略師提到，若沃什落實這一思路，在地緣政治局勢充滿不確定性的當下，市場執行邏輯將迎來重大轉變。赫爾格松表示：“後續沃什會選擇釋放多少政策指引訊號，這點尤為值得關注。”
 
 ---

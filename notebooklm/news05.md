@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-03 01:38:43_
-_本檔包含 3468 則快訊，約 670160 字_
+_更新時間：2026-08-03 02:37:32_
+_本檔包含 3482 則快訊，約 670073 字_
+
+---
+
+### 2026-07-28 10:29:02  #觀點
+
+【東吳證券：數字AI底座模型價值在於確定性 物理AI有望成為最具成長彈性的方向】東吳證券釋出研報稱，數字AI底座模型發展路徑已逐漸清晰，價值在於確定性;本輪AI發展未來更大的增量在物理AI，智慧駕駛是其最先跑通閉環的代表場景。物理AI從表徵到部署的閉環路徑與數字AI差異明顯，將形成獨立而統一的發展路徑。隨著世界模型與強化學習閉環走向成熟、雲車部署逐步兌現，物理AI有望由能力展示走向大規模落地，成為AI發展當前階段最具成長彈性的方向。
+
+---
+
+### 2026-07-28 10:28:38  #市場 #焦點
+
+科創50日內跌幅達3％，成分股中，源傑科技跌11.6％，生益電子跌8％，佰維儲存跌7.5％，瀾起科技跌6.3％。
+
+---
+
+### 2026-07-28 10:27:58  #市場 #焦點
+
+深證成指跌3.00%，現報13724.042點；上證指數跌1.07%，現報3816.832點；創業板指跌4.71%，現報3421.487點。
+
+---
+
+### 2026-07-28 10:27:58  #其他
+
+【已有近9700家境內外平臺履行涉稅資訊報送義務】“境內外平臺不論規模大小，都需依法履行涉稅資訊報送義務。”國家稅務總局新聞發言人、總經濟師榮海樓7月28日在國新辦新聞釋出會上說，今年一季度報送涉稅資訊的網際網路平臺企業數量為9692家，較2025年10月首次報送時增長39%。今年二季度的資訊正在報送中，7月20日前完成報送的平臺已達八成。（新華社）
+
+---
+
+### 2026-07-28 10:27:24  #市場 #焦點
+
+南向資金淨買入額達10億港元。
+
+---
+
+### 2026-07-28 10:26:27  #市場 #焦點
+
+A股三大股指走低，上證指數跌1％，深證成指跌2.8％，創業板指跌4.5％。
+
+---
+
+### 2026-07-28 10:26:02  #國際
+
+赤澤：正在討論第二輪美國投資專案。
+
+---
+
+### 2026-07-28 10:25:49  #國際
+
+日本經濟產業大臣赤澤亮正：正在考慮利用美國銀行業的融資進行美國投資專案。
+
+---
+
+### 2026-07-28 10:25:02  #市場
+
+中際旭創盤中跌10.05%，現報969.35元。
+
+---
+
+### 2026-07-28 10:24:57  #公司
+
+【國鐵集團：汽車、電子電器等高附加值貨物已成中歐班列出口的主要貨源】7月28日，國家發展改革委召開中歐班列專題新聞釋出會。國鐵集團貨運部兼物流中心主任吳兆新表示，“十四五”時期，國鐵集團圍繞中歐班列的安全穩定高質量發展，持續深化國內和國際的協調合作，加快構建中歐班列的四大體系，主要取得三個方面成就。一是運輸網路服務範圍基本覆蓋亞歐地區；二是運輸組織創新最佳化，中歐班列運輸質量和效益持續提升；三是中歐班列的品牌影響力和競爭力持續增強，汽車、汽配、機械裝置、電子電器等高附加值貨物已成為中歐班列出口的主要貨源。下一步，國鐵集團將圍繞更高質量、更好效益、更加安全三大方向性目標，創新運營管理模式，深化國內國際合作，不斷激發中歐班列市場活力和發展動力。
+
+---
+
+### 2026-07-28 10:24:51  #公司
+
+港股儲存概念跌幅擴大，南方兩倍做多海力士跌超23%，南方兩倍做多三星電子跌超20%。
+
+---
+
+### 2026-07-28 10:23:43  #市場
+
+滬深300指數下跌2%至4,608.33點。
+
+---
+
+### 2026-07-28 10:23:11  #公司
+
+【睿創微納等成立新公司，含智慧機器人研發業務】企查查APP顯示，近日，杭州奇創睿感科技有限公司成立，經營範圍包含：積體電路製造；積體電路銷售；智慧機器人銷售；智慧機器人的研發等。企查查股權穿透顯示，該公司由睿創微納等共同持股。
+
+---
+
+### 2026-07-28 10:22:45  #其他
+
+【稅務總局：納稅人跨區域辦理稅收業務平均辦理時長壓縮了5至10天】7月28日，國家稅務總局副局長王道樹在國新辦釋出會上表示，今年上半年進一步最佳化了納稅人跨區域辦理稅收業務的流程，平均辦理時長壓縮了5天到10天，符合條件的就可以當天辦結。跨省異地電子繳稅已經超過1300億元，同比增長了39%，促進了各類生產要素跨區域流動。
+
+---
+
+### 2026-07-28 10:22:06  #其他
+
+【廣西水利廳啟動洪水防禦四級應急響應】廣西壯族自治區水利廳訊息，根據氣象水文預測，受今年第12號颱風“紅霞”殘餘系統和西南季風共同影響，7月28日至8月1日，廣西大部有一次較強降雨過程，部分江河可能出現超警洪水，山洪、岩溶內澇致災風險較高，對病險水庫和在建工程安全度汛不利。根據自治區水利廳洪水防禦工作預案，經綜合分析研判，決定自7月28日9時啟動自治區水利廳洪水防禦四級應急響應。
+
+---
+
+### 2026-07-28 10:21:39  #其他
+
+【習近平將同斯洛伐克總統佩列格里尼會談】7月28日上午，國家主席習近平將在北京人民大會堂同來華進行國事訪問的斯洛伐克總統佩列格里尼舉行會談。（央視新聞）
+
+---
+
+### 2026-07-28 10:21:09  #央行 #國際
+
+馬來西亞央行行長：儘管遭遇能源供應衝擊，2026年馬來西亞經濟仍將按預期實現4%-5%的增長。
+
+---
+
+### 2026-07-28 10:21:03  #央行 #國際
+
+馬來西亞央行行長：中期經濟展望仍向好，經濟增長預計將保持穩健。
+
+---
+
+### 2026-07-28 10:21:02  #市場 #焦點
+
+富時中國A50指數期貨下跌2%。
+
+---
+
+### 2026-07-28 10:20:58  #央行 #國際
+
+馬來西亞央行行長：通脹處於可控區間，在不確定性與能源價格高企的背景下，央行將履行職責維護物價穩定。
+
+---
+
+### 2026-07-28 10:20:54  #央行 #國際
+
+馬來西亞央行行長：馬來西亞貨幣政策立場仍與國內增長及通脹前景一致。
+
+---
+
+### 2026-07-28 10:20:12  #Trading Economics #Markets #China #stocks #Importance 1
+
+China Construction Bank Stock Price Hits Near 8-year High — China Construction Bank shares increased to 9.08 HKD, the highest since October 2018. Over the past 4 weeks, China Construction Bank gained 9.95%, and in the last 12 months, it increased 10.62%.
+
+---
+
+### 2026-07-28 10:19:26  #宏觀 #國際
+
+【國家發改委：中歐班列架起中歐經貿快車道，國產空調15天左右直達歐洲】7月28日，國家發展改革委召開中歐班列專題新聞釋出會。國家發展改革委開放司司長梁林沖表示，中歐班列已成為密切國際經貿往來的重要橋樑。中歐班列橫亙亞歐、連線東西，有效銜接生產和消費，極大促進了沿線國家商品流通與產業互補，運輸貨物品類覆蓋53大類5萬多個品種，運送貨值佔貨物貿易額比重逐年提升。今年6月，歐洲地區熱浪席捲，最高溫度達到40℃以上，對空調製冷需求爆發式增長，中國空調在當地賣到斷貨，美的、格力等空調廠商從海運切換到中歐班列，運輸週期從40天壓縮到15天左右，搭建起了中歐貿易快車道。
+
+---
+
+### 2026-07-28 10:18:29  #國際
+
+【韓國執政黨黨首選舉進入倒計時 “三強”競爭】韓國執政黨共同民主黨定於8月17日舉行全國代表大會，選舉新任黨首。隨著選舉進入倒計時，三名候選人前國務總理金民錫、前黨首鄭清來和宋永吉27日前往地方拉票，選戰愈發激烈。新任黨首將掌握2028年韓國國會議員選舉該黨候選人提名權。據韓國媒體27日報道，上述三名候選人當天分別前往忠清北道和忠清南道等地，與該黨成員舉行座談會等活動，宣傳競選主張。忠清北道和忠清南道被視為這次黨首選舉的“激戰區”，三人均希望在當地佔得先機。（新華社）
+
+---
+
+### 2026-07-28 10:18:10  #公司 #市場
+
+【可控核聚變概念異動拉昇 融發核電直線漲停】可控核聚變概念異動拉昇，融發核電直線漲停，常輔股份、中洲特材、哈焊華通、蘭石重灌、中核科技跟漲。
+
+---
+
+### 2026-07-28 10:17:57  #其他
+
+【中歐班列運送貨值已超5200億美元】在今天舉行的國家發展改革委專題新聞釋出會上，國家發展改革委有關負責人表示，中歐班列自2016年6月統一品牌以來，高質量發展取得顯著成效。質量效益持續向好，截至2026年6月，中歐班列重箱率已連續46個月保持100%。回程與去程開行比例接近1:1，開行結構更加趨於均衡。此外，開行規模穩步向上，中歐班列累計開行量已突破13萬列，運送貨值超5200億美元，成為絲綢之路經濟帶上馳而不息的“鋼鐵駝隊”。
+
+---
+
+### 2026-07-28 10:16:39  #市場
+
+【周大生：近期終端黃金珠寶經營態勢整體保持平穩】周大生7月27日在電話會議中表示，金價下跌對計重金首飾銷售較為友好，若銷售重量企穩回升也會對銷售額起到較強支撐，近期終端黃金珠寶經營態勢整體保持平穩。
+
+---
+
+### 2026-07-28 10:15:47  #公司
+
+【八億時空成立智算科技公司，含衛星相關業務】企查查APP顯示，近日，北京八億時空智算科技有限公司成立，經營範圍包含：衛星技術綜合應用系統整合；衛星導航多模增強應用服務系統整合；地理遙感資訊服務；衛星遙感資料處理；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由八億時空全資持股。
+
+---
+
+### 2026-07-28 10:15:41  #市場
+
+滬深300指數期貨下跌2.0%至4,543.20點。
+
+---
+
+### 2026-07-28 10:15:33  #其他
+
+SK海力士股價跌幅擴大至12%。
+
+---
+
+### 2026-07-28 10:15:17  #公司 #市場
+
+【半導體板塊走弱，兆易創新跌停】半導體板塊走弱，兆易創新跌停，西安奕材-U、普冉股份跌超10%，源傑科技、恆運昌、長光華芯、北京君正等跟跌。
+
+---
+
+### 2026-07-28 10:15:04  #Trading Economics #Markets #Currency #Importance 1
+
+Asia FX Updates: South Korean Won Depreciates by 0.28% — Top currency loser is South Korean Won (-0.28%). Meanwhile Chinese Yuan was little changed.
 
 ---
 
@@ -20815,113 +21007,5 @@ Iran Foreign Ministry spokesperson BAGHAEI said information exchanges between Ir
 ### 2026-07-27 02:39:38  #國際
 
 【黎軍稱以軍違反協議 阻礙黎軍“試點區域”部署】黎巴嫩政府軍26日發表宣告說，以色列持續違反現有協議安排，阻礙黎軍在黎南部地區部署，並延緩邊境村莊居民返鄉程序。 宣告說，以軍在多個地區持續實施破壞活動，包括拆毀民宅、破壞供水設施、焚燬數百年樹齡的橄欖樹等。此外，以軍還在泰卜尼特村和西扎烏塔爾等地向黎軍部署區域附近開火，干擾黎軍部署行動。 宣告說，儘管受到以軍干擾，黎軍仍將在西扎烏塔爾執行任務，協助當地居民返鄉並保障其安全，同時繼續在夫龍鎮和斯里法鎮推進部署行動。
-
----
-
-### 2026-07-27 02:35:06  #國際
-
-【伊朗與俄羅斯外長通話 討論伊商船遭襲及地區局勢】當地時間7月26日下午，伊朗外交部長阿拉格齊與俄羅斯外長拉夫羅夫通電話，就裡海一艘伊朗商船遇襲事件及地區局勢交換意見。根據伊朗外交部發布的訊息，阿拉格齊表示，烏克蘭襲擊伊朗商船是危險的冒險行為，也是對《聯合國憲章》基本原則的公然侵犯。他表示，伊朗將堅決維護自身安全和國家利益。拉夫羅夫譴責針對伊朗商船的襲擊，稱這一事件違反國際法，對伊朗和俄羅斯貿易航線構成威脅，並表示應追究烏克蘭方面發動襲擊、危及裡海商業航運的責任。雙方還就霍爾木茲海峽等地區最新局勢交換了意見。
-
----
-
-### 2026-07-27 02:32:21  #MKT News #WTI #Impact bullish #Brent
-
-The Islamic Revolutionary Guard Corps' Khuzestan provincial commander said more than 288 targets inside U.S. bases in the area were destroyed.
-
----
-
-### 2026-07-27 02:22:06  #MKT News #Market Regions #Europe & UK #DXY #Impact bullish #XAUUSD #Brent
-
-Romania summoned Russia's ambassador and said it had shot down three drones within three days.
-
----
-
-### 2026-07-27 02:16:51  #國際
-
-以色列總理內塔尼亞胡指責紐約市長馬姆達尼煽動仇恨，起因是馬姆達尼稱其在加沙戰爭中犯下戰爭罪，應當遭到逮捕。
-
----
-
-### 2026-07-27 02:15:21  #MKT News
-
-【Avila wildfire scorches about 50,000 hectares; central Spain fires total ~77,000 hectares, largest on record】On July 26 a wildfire in Avila province, central Spain, burned roughly 50,000 hectares, the largest wildfire recorded in Spain, the Interior Ministry said. Central-region blazes have destroyed about 77,000 hectares in total; a large fire in neighboring Toledo remains active and crews are working to prevent the two fires from joining.
-
----
-
-### 2026-07-27 02:15:05  #其他
-
-美聯航與達美航空的初步磋商未能取得進展。美聯航去年曾主動接洽達美航空，商談合併事宜。
-
----
-
-### 2026-07-27 02:13:57  #MKT News #UAL.O #DAL.O
-
-The Wall Street Journal reports sources say United Airlines approached Delta Air Lines last year about a potential merger; preliminary talks did not progress.
-
----
-
-### 2026-07-27 02:13:31  #其他
-
-市場資訊：伊拉克總理將於下週四訪問沙烏地阿拉伯。
-
----
-
-### 2026-07-27 02:11:28  #MKT News
-
-Iraqi prime minister to visit Saudi Arabia next Thursday, Al Arabiya reports.
-
----
-
-### 2026-07-27 02:05:24  #MKT News
-
-Al Jazeera reports settlers stormed into the Samra area in the northern Jordan Valley.
-
----
-
-### 2026-07-27 02:03:21  #MKT News #Macro & Rates #US Economy
-
-【Brazil's President Lula: U.S. tariff pressure on Brazil a strategic mistake】Writing in The Washington Post, President Lula criticized recent U.S. tariff pressure on Brazil. He said negotiations and a U.S. Supreme Court ruling annulled the initial tariff measures introduced in July last year, but in July this year the U.S. imposed new tariffs of 12.5%–37.5%. Lula called the new duties unfair and a strategic error, saying they harm the U.S. economy and the bilateral partnership and will, over the medium to long term, disrupt highly integrated supply chains as Brazilian firms replace U.S. suppliers with other partners.
-
----
-
-### 2026-07-27 02:01:39  #國際
-
-【巴西總統盧拉：美持續在關稅上對巴施壓系戰略錯誤】當地時間7月26日，巴西總統盧拉在美媒《華盛頓郵報》上發文，批評美國近期對巴西接連施加關稅壓力的做法。盧拉在文中表示，巴美之間的談判以及美國最高法院的裁決，廢止了去年7月開始的第一版關稅政策。但今年7月，美國政府決定對巴西征收12.5%至37.5%的新關稅。新的關稅不僅不公平，而且是一個戰略錯誤：它們損害了美國經濟和與巴西的夥伴關係，還將在中長期導致目前兩國高度整合的生產鏈出現混亂，巴西企業將用其他合作伙伴取代美國供應商。
-
----
-
-### 2026-07-27 01:59:50  #其他
-
-【過火面積達約5萬公頃 西班牙阿維拉山火規模創紀錄】西班牙中部山火持續蔓延。據西班牙埃菲社26日報道，阿維拉省山火過火面積約5萬公頃，為西班牙有記錄以來規模最大的山火。
-
----
-
-### 2026-07-27 01:57:04  #MKT News
-
-Syria's foreign minister thanked UN Secretary-General Guterres for his visit and said they discussed UN support for reconstruction priorities, human rights and economic development to bolster Syria's efforts to build a more stable future.
-
----
-
-### 2026-07-27 01:44:45  #MKT News
-
-German government spokesman said Chancellor Merz will nominate conservative Steffen Bilger as transport minister.
-
----
-
-### 2026-07-27 01:44:03  #MKT News
-
-【Lebanon condemns Israel's ongoing military operations in southern Lebanon】The Lebanese army on July 26 condemned ongoing Israeli military operations in southern Lebanon, saying they obstruct full Lebanese troop deployments under a trilateral framework agreed last month with Israel and the United States. The army said the Israeli Defense Forces continue attacks it says breach international law, systematically destroying homes and bombing multiple southern areas, and that the strikes have prevented troop deployment and stopped residents from returning home.
-
----
-
-### 2026-07-27 01:43:07  #其他
-
-德國政府發言人：默茨總理將提名保守派議會黨團幹事長斯特芬·比爾格出任交通部長。
-
----
-
-### 2026-07-27 01:42:34  #MKT News
-
-Iran's president has approved implementation of the first amendment to the Islamic Consultative Assembly's internal regulations.
 
 ---

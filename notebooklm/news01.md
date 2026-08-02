@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-03 01:38:43_
-_本檔包含 3554 則快訊，約 670376 字_
+_更新時間：2026-08-03 02:37:32_
+_本檔包含 3549 則快訊，約 671209 字_
+
+---
+
+### 2026-08-03 02:34:22  #其他
+
+中國地震臺網正式測定：08月03日02時21分在四川宜賓市高縣（北緯28.54度，東經104.67度）發生4.8級地震，震源深度6千米。
+
+---
+
+### 2026-08-03 02:32:53  #國際
+
+特朗普：貝德明斯特俱樂部錦標賽制勝一杆！非常感謝所有參賽選手。我最終交出70杆的成績奪冠，倍感榮幸。和其他參賽球手不同，我幾乎沒有時間練球，我需要專注處理大量其他事務。這就叫天賦，我擁有天賦，而他們沒有。
+
+---
+
+### 2026-08-03 02:31:57  #其他 #焦點
+
+阿斯利康與百時美施貴寶就製藥業鉅額交易進行洽談。
+
+---
+
+### 2026-08-03 02:30:19  #MKT News
+
+Iran's president said the memorandum of understanding signed by Sham members (Levant countries) represents their collective judgment and has unanimous backing. He said the MoU should become the core of future external relations, urged efforts to compel adversaries to honor signed commitments, and said it will enhance the security of Iran, the region and its allies.
+
+---
+
+### 2026-08-03 02:29:09  #國際
+
+以色列國防軍：今日在黎巴嫩軍隊一輛軍用車輛上爆炸的爆炸裝置並非我方所為。
+
+---
+
+### 2026-08-03 02:28:54  #MKT News
+
+Israel's foreign minister dismissed claims that Israel is internationally isolated as absurd, saying many countries are seeking closer ties and noting Congo's foreign minister visited this week.
+
+---
+
+### 2026-08-03 02:28:18  #MKT News
+
+Israel's foreign minister said Israel is working with the United States to continue opposing the International Criminal Court, noting several countries have recently withdrawn and urging continuation of that process in coordination with US sanctions measures.
+
+---
+
+### 2026-08-03 02:26:51  #MKT News
+
+cenc automatic determination: 02:21 on Aug 3 an earthquake of about M4.9 occurred near Gaoxian, Yibin, Sichuan (28.55N, 104.67E). Final parameters subject to official rapid bulletin.
+
+---
+
+### 2026-08-03 02:26:48  #其他
+
+週日，從加利福尼亞州至達科他地區超4500萬人收到高溫危險預警，洛杉磯等多個主要城市釋出極端高溫警報。
+
+---
+
+### 2026-08-03 02:25:03  #其他
+
+中國地震臺網自動測定：08月03日02時21分在四川宜賓市高縣附近（北緯28.55度，東經104.67度）發生4.9級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-08-03 02:24:50  #國際
+
+伊朗總統：簽署的諒解備忘錄是沙姆成員（黎凡特地區國家）集體智慧的成果，所有成員對此表示認同。我相信這份諒解備忘錄將成為我們未來對外關係的核心。我們必須努力迫使敵人遵守其簽署的承諾。這份諒解備忘錄將提升我們國家、地區以及盟友的安全。
+
+---
+
+### 2026-08-03 02:21:19  #MKT News #XAUUSD #Impact bullish #WTI
+
+【Israel questions Hamas disarmament pledge】Israel told the White House it has serious security concerns about a Hamas disarmament agreement. The Israeli prime minister’s office said intelligence assessments indicate Hamas plans to rebuild military capabilities rather than genuinely demilitarize. Israel said it will not withdraw from most of Gaza until Hamas completes disarmament. Hamas said it will begin disarming under Trump’s 20-point ceasefire plan, which calls for surrendering weapons and destroying tunnels and envisages Israeli withdrawal, a new technocratic Palestinian government and international security forces. A large-scale Israeli troop pullback before October elections is unlikely.
+
+---
+
+### 2026-08-03 02:16:15  #公司 #國際
+
+日本電報電話公司（NTT）、豐田汽車加大人工智慧與工廠投資，引領日本企業資本開支創下年度新高。
+
+---
+
+### 2026-08-03 02:15:47  #國際
+
+哈馬斯同意按特朗普停火方案解除武裝；以色列向白宮表達安全憂慮，質疑哈馬斯無誠意非軍事化。
+
+---
+
+### 2026-08-03 02:11:27  #國際
+
+伊朗最高領袖：伊朗和伊拉克是兩個緊密相連的民族，彼此相連。
+
+---
+
+### 2026-08-03 02:08:04  #國際
+
+沙特外交部：沙特外交大臣分別與卡達、約旦外交大臣通電話，商討各方統一立場的重要性，致力於緩和局勢，抵制一切有損地區安全的行為。
+
+---
+
+### 2026-08-03 02:05:30  #國際
+
+以色列外交部長：有人稱以色列在國際上陷入孤立，這種說法十分荒謬。眾多國家主動與我方接觸，表示希望深化雙邊關係。就在本週，剛果外交部長到訪以色列。
+
+---
+
+### 2026-08-03 02:04:59  #國際
+
+俄地方州長：烏克蘭無人機襲擊造成俄羅斯境內8人死亡，並襲擊野莓（Wildberries）倉儲中心。
+
+---
+
+### 2026-08-03 02:03:51  #國際
+
+以色列外交部長：我們正與美國一道持續對抗國際刑事法院。近期已有多個國家退出國際刑事法院，這一程序應當持續推進，並配合美國實施的制裁舉措。
+
+---
+
+### 2026-08-03 02:03:39  #MKT News #DXY #Impact bullish #XAUUSD #S&P500 #Impact bearish
+
+【Hamas says Israel never sought an agreement】Hamas leader Ghazi Hamad said today’s Israeli bombardment of Gaza proves Israel never genuinely sought a deal. He said Hamas has told mediators Israel is not interested in reaching an agreement and has asked them to intervene. Hamas also said it has not received Israel’s position on a second phase of a Gaza agreement and that Israel must fulfil its commitments before that phase can begin.
+
+---
+
+### 2026-08-03 02:01:06  #MKT News
+
+【Iraq denies US aircraft landed at Ain al-Asad airbase】Iraq on Sunday denied reports that US aircraft landed at the Ain al-Asad airbase in western Anbar province, calling the reports false and saying there was no official information to support the claim. Iraqi media had earlier reported that US aircraft had landed at the base.
+
+---
+
+### 2026-08-03 01:57:30  #其他
+
+伊拉克政府否認有關美軍飛機降落艾因・阿薩德空軍基地的報道。
+
+---
+
+### 2026-08-03 01:56:34  #MKT News #XAUUSD #Impact bullish #WTI
+
+Israel's Channel 12 cites sources saying that, despite a statement from Trump, the Israel Defense Forces remained on high alert today, saying Iran may carry out unexpected actions.
+
+---
+
+### 2026-08-03 01:53:15  #國際
+
+印度因調味新增劑違規，禁售帝亞吉歐、英布魯部分酒類產品。
+
+---
+
+### 2026-08-03 01:49:44  #國際
+
+俄國防部：防空力量當天在俄羅斯各地區及黑海水域上空擊落了245架烏克蘭無人機。
+
+---
+
+### 2026-08-03 01:43:34  #MKT News #Market Themes #The Trump Trade
+
+Israeli officials estimate Trump may again shift his stance toward Iran, Channel 12 reports.
+
+---
+
+### 2026-08-03 01:42:29  #國際
+
+以色列官員估計特朗普可能會再次改變他對伊朗的立場。
 
 ---
 
@@ -21280,197 +21442,5 @@ Hungary Producer Price Deflation Eases — Producer prices in Hungary decreased 
 ### 2026-07-31 14:41:02  #Trading Economics #Markets #Australia #Stock Market #Importance 1
 
 ASX 200 Marks Fourth Monthly Gain, Up 2.3% in July — The ASX 200 closed slightly firmer at 8,978 on Friday, clawing back losses from the prior session as strength in tech, non-energy minerals, and utilities offset broader caution. Sentiment was lifted by a rally in U.S. stock futures after Amazon’s upbeat earnings and a rebound in chip stocks on Wall Street Thursday. Gains, however, were capped by weaker factory activity in China, with July’s official PMI underscoring slowing demand from Australia’s key trading partner. Miners gained on higher copper prices, lifting Rio Tinto (1.0%) and South32 (0.8%), while gold producers Evolution Mining (1.8%) also advanced. However, the big four banks fell between 0.1% and 0.4%. Still, Australian equities booked their first weekly gain in a month, up 2.3%, and a fourth straight monthly rise, supported by robust private credit growth in June. Inflation worries also eased after softer June and Q2 readings, reinforcing views that the central bank’s three rate hikes this year are beginning to bite.
-
----
-
-### 2026-07-31 14:40:57  #央行 #國際
-
-日本央行行長植田和男：自上月上次加息以來，利率一直呈上升走勢。
-
----
-
-### 2026-07-31 14:39:42  #央行 #國際
-
-日本央行行長植田和男：日本的金融環境依然寬鬆。
-
----
-
-### 2026-07-31 14:39:38  #央行 #日本央行
-
-日本央行行長植田和男表示，將繼續根據經濟和物價情況提高利率。
-
----
-
-### 2026-07-31 14:39:30  #其他
-
-【內蒙古一在建專案塌方致4人死亡 事故責任人已被控制】記者從烏蘭察布市應急管理局獲悉，截至7月31日12時，中鐵建烏蘭察布市卓資縣壓縮空氣儲能專案中鐵十五局施工隧道標段塌方事故現場救援工作已經結束，事故相關責任人已被控制，善後工作正在有序開展，內蒙古自治區政府已成立調查組，開展事故調查。（央視新聞）
-
----
-
-### 2026-07-31 14:39:06  #央行 #國際
-
-日本央行行長植田和男：將從可持續、穩定實現通脹目標的角度指導貨幣政策。
-
----
-
-### 2026-07-31 14:38:57  #其他
-
-【義大利傳奇球星巴雷西去世，享年66歲】7月31日，義大利AC米蘭俱樂部發布訃告，義大利傳奇球星弗朗哥·巴雷西去世，享年66歲。義大利AC米蘭俱樂部表示，宣佈一位承載著AC米蘭精神與靈魂的人離世，是一件無比艱難的事。但俱樂部的每一個人以及所有AC米蘭球迷，都必須不負對弗朗哥·巴雷西的銘記。弗朗哥·巴雷西1960年出生，球員時代司職後衛。他曾為AC米蘭贏得過3個歐冠獎盃和6個意甲冠軍，並代表義大利國家隊出場81次，拿到了1982年世界盃冠軍。
-
----
-
-### 2026-07-31 14:38:53  #央行 #國際
-
-日本央行行長植田和男：實現核心消費者物價通脹穩定在2%左右的前景至關重要。
-
----
-
-### 2026-07-31 14:38:38  #資料
-
-【東方金誠王青：7月PMI資料回落 但高技術產品供需兩旺】7月份，製造業採購經理指數（PMI）為49.2%，比上月下降1.1個百分點，顯示內需仍有待進一步企穩。與此同時，結構性亮點也持續顯現，東方金誠首席宏觀分析師王青表示，7月高技術製造業和裝備製造業PMI資料分別為53.3%和51.4%，雙雙處在擴區間。顯示高技術產品供需兩旺，國內製造業轉型升級在持續加碼。（第一財經）
-
----
-
-### 2026-07-31 14:38:23  #央行 #國際
-
-日本央行行長植田和男：日本央行將在考量實現經濟與物價展望基準情境的可能性及相關風險等因素的前提下，研究調整利率的時機與節奏。
-
----
-
-### 2026-07-31 14:38:19  #其他 #焦點 #A股
-
-【中際旭創成交額達500億元】中際旭創成交額達500億元，現漲6.04%。
-
----
-
-### 2026-07-31 14:38:00  #央行 #國際
-
-日本央行行長植田和男：日本央行預計將持續加息，並根據經濟、物價與金融狀況調整寬鬆政策的力度。
-
----
-
-### 2026-07-31 14:37:53  #央行 #國際
-
-日本央行行長植田和男：審議委員高田創、田村直樹提議在展望報告中補充關於物價的額外表述，該提議未獲透過。
-
----
-
-### 2026-07-31 14:37:45  #公司
-
-據德國媒體援引德國商業銀行執行長的話稱，德國政府、員工代表以及監事會已明確表示，他們目前希望開展建設性對話。
-
----
-
-### 2026-07-31 14:37:24  #央行 #日本央行
-
-日本央行行長植田和男表示，物價將逐步上漲。
-
----
-
-### 2026-07-31 14:36:51  #資料 #央行 #國際
-
-日本央行行長植田和男：剔除能源價格後的核心CPI預測基本保持不變。
-
----
-
-### 2026-07-31 14:36:25  #央行 #焦點 #國際
-
-日本央行行長植田和男：必須關注人工智慧相關需求以及匯率變動對日本經濟和物價的影響。
-
----
-
-### 2026-07-31 14:36:08  #市場 #焦點 #國際
-
-外資週五淨買入價值7.2萬億韓元的韓國綜合股價指數股票，為有記錄以來最大規模淨買入。
-
----
-
-### 2026-07-31 14:36:02  #市場 #央行 #國際
-
-日本央行行長植田和男：物價趨勢將逐步上漲。
-
----
-
-### 2026-07-31 14:35:19  #觀點
-
-摩根士丹利將蘋果目標價從364美元下調至360美元。
-
----
-
-### 2026-07-31 14:35:06  #資料 #央行 #焦點 #國際
-
-日本央行行長植田和男：預計2026財年下半年CPI同比增速將加速至“明顯高於”2%的水平；核心CPI存在上行偏離，升至2%物價穩定目標上方水平的風險。
-
----
-
-### 2026-07-31 14:34:54  #央行 #國際
-
-日本央行行長植田和男：人工智慧需求和近期日元疲軟將推高通脹。
-
----
-
-### 2026-07-31 14:34:04  #Trading Economics #Economy #Norway #Loan Growth #Importance 1
-
-Norway Loan Debt Rises 4.4% in June — Norway’s general public domestic loan debt increased by 4.4% year-on-year to NOK 8.01 billion at the end of June 2026, easing slightly from a 4.5% rise in the previous month. Lending growth to non-financial corporations eased to 4.1% from 4.3% in May, reaching NOK 2.42 billion, while that to municipal government also slowed to 3.7% from 4.6%, totaling NOK 0.8 trillion. Meanwhile, household loan debt rose by 4.7% to NOK 4.76 billion, following a 4.6% increase in May. On a seasonally adjusted annualized one-month basis, total loan debt for the general public grew by 3.7%, slowing from a 4.9% rise in the prior month.
-
----
-
-### 2026-07-31 14:34:01  #央行 #國際
-
-日本央行行長植田和男：日本經濟預計將保持適度增長。預計實際GDP增長與4月的展望報告基本持平。
-
----
-
-### 2026-07-31 14:33:15  #其他
-
-聯發科第二季度淨利潤243.4億元臺幣，預估224.3億元臺幣。
-
----
-
-### 2026-07-31 14:33:06  #公司
-
-【位元組跳動投資成立裝置租賃公司】企查查APP顯示，近日，上海鷗璐裝置租賃有限公司成立，法定代表人為吳瓊，經營範圍包含：計算機軟硬體及輔助裝置零售；五金產品批發；通訊裝置銷售；電子產品銷售；機械裝置銷售等。企查查股權穿透顯示，該公司由位元組跳動關聯公司北京字跳網路技術有限公司全資持股。
-
----
-
-### 2026-07-31 14:32:43  #市場 #焦點
-
-焦煤連續主力合約日內跌5%，現報1173.50元。
-
----
-
-### 2026-07-31 14:32:32  #其他
-
-【智元機器人新品首發亮相CJ，可從“人形”變“機器狗”，定價1-3萬元、將推多個版本】近日，2026 ChinaJoy舉辦。新浪科技探展發現，智元機器人針對消費市場的啟元系列亮相了兩款產品——啟元Q1和啟元T1。其中啟元T1為展會首發亮相。據展臺工作人員介紹，該款機器人主要定位陪伴型，可在人形和“機械狗”雙形態進行自由切換。當變為“機器狗”時，其可以拉動一個坐在滑板上的人，支援跨越臺階、斜坡，速度最高3m/s。另外，啟元T1還能用本體拍攝個性化照片和聯動運動相機，支援跟隨拍攝、環繞運鏡、希區柯克運鏡多種模式，也支援看家助手、生活備忘、定時提醒、百科問答、“自主找人”式沉浸式視訊通話功能。啟元Q1身高0.88米，售價2-5萬元，擁有22個關節自由度，主要用於小孩陪護、老人陪護，消費者可根據喜好自由定製個性化外殼。（新浪科技）
-
----
-
-### 2026-07-31 14:32:26  #公司
-
-鎧俠將回購至多8000億日元的股份。
-
----
-
-### 2026-07-31 14:32:11  #其他
-
-鎧俠（Kioxia）第一季度營業利潤1.27萬億日元，上年同期449.0億日元，市場預估1.37萬億日元。第一季度淨利潤8,421.7億日元，上年同期182.8億日元，市場預估9,738.1億日元。
-
----
-
-### 2026-07-31 14:32:07  #公司
-
-市場訊息：鎧俠公司將進行3比1的股票拆分。
-
----
-
-### 2026-07-31 14:32:01  #央行 #國際
-
-日本央行行長植田和男：正在收集熊本地震對經濟和物價影響的相關資訊。
-
----
-
-### 2026-07-31 14:31:33  #其他
-
-【貴州上半年累計發放低保金和特困供養金62.5億元】31日，記者從2026年上半年貴州民政工作情況新聞釋出會上獲悉，貴州依託“大資料比對+鐵腳板摸排”工作機制，動態將符合條件的困難群眾納入兜底保障範圍。上半年，全省共保障城鄉低保物件212.99萬人，特困人員14.96萬人，實施臨時救助10.2萬人次，累計發放低保金和特困供養金62.5億元。（新華社）
 
 ---

@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-03 01:38:43_
-_本檔包含 3572 則快訊，約 670114 字_
+_更新時間：2026-08-03 02:37:32_
+_本檔包含 3592 則快訊，約 669402 字_
+
+---
+
+### 2026-07-31 14:40:57  #央行 #國際
+
+日本央行行長植田和男：自上月上次加息以來，利率一直呈上升走勢。
+
+---
+
+### 2026-07-31 14:39:42  #央行 #國際
+
+日本央行行長植田和男：日本的金融環境依然寬鬆。
+
+---
+
+### 2026-07-31 14:39:38  #央行 #日本央行
+
+日本央行行長植田和男表示，將繼續根據經濟和物價情況提高利率。
+
+---
+
+### 2026-07-31 14:39:30  #其他
+
+【內蒙古一在建專案塌方致4人死亡 事故責任人已被控制】記者從烏蘭察布市應急管理局獲悉，截至7月31日12時，中鐵建烏蘭察布市卓資縣壓縮空氣儲能專案中鐵十五局施工隧道標段塌方事故現場救援工作已經結束，事故相關責任人已被控制，善後工作正在有序開展，內蒙古自治區政府已成立調查組，開展事故調查。（央視新聞）
+
+---
+
+### 2026-07-31 14:39:06  #央行 #國際
+
+日本央行行長植田和男：將從可持續、穩定實現通脹目標的角度指導貨幣政策。
+
+---
+
+### 2026-07-31 14:38:57  #其他
+
+【義大利傳奇球星巴雷西去世，享年66歲】7月31日，義大利AC米蘭俱樂部發布訃告，義大利傳奇球星弗朗哥·巴雷西去世，享年66歲。義大利AC米蘭俱樂部表示，宣佈一位承載著AC米蘭精神與靈魂的人離世，是一件無比艱難的事。但俱樂部的每一個人以及所有AC米蘭球迷，都必須不負對弗朗哥·巴雷西的銘記。弗朗哥·巴雷西1960年出生，球員時代司職後衛。他曾為AC米蘭贏得過3個歐冠獎盃和6個意甲冠軍，並代表義大利國家隊出場81次，拿到了1982年世界盃冠軍。
+
+---
+
+### 2026-07-31 14:38:53  #央行 #國際
+
+日本央行行長植田和男：實現核心消費者物價通脹穩定在2%左右的前景至關重要。
+
+---
+
+### 2026-07-31 14:38:38  #資料
+
+【東方金誠王青：7月PMI資料回落 但高技術產品供需兩旺】7月份，製造業採購經理指數（PMI）為49.2%，比上月下降1.1個百分點，顯示內需仍有待進一步企穩。與此同時，結構性亮點也持續顯現，東方金誠首席宏觀分析師王青表示，7月高技術製造業和裝備製造業PMI資料分別為53.3%和51.4%，雙雙處在擴區間。顯示高技術產品供需兩旺，國內製造業轉型升級在持續加碼。（第一財經）
+
+---
+
+### 2026-07-31 14:38:23  #央行 #國際
+
+日本央行行長植田和男：日本央行將在考量實現經濟與物價展望基準情境的可能性及相關風險等因素的前提下，研究調整利率的時機與節奏。
+
+---
+
+### 2026-07-31 14:38:19  #其他 #焦點 #A股
+
+【中際旭創成交額達500億元】中際旭創成交額達500億元，現漲6.04%。
+
+---
+
+### 2026-07-31 14:38:00  #央行 #國際
+
+日本央行行長植田和男：日本央行預計將持續加息，並根據經濟、物價與金融狀況調整寬鬆政策的力度。
+
+---
+
+### 2026-07-31 14:37:53  #央行 #國際
+
+日本央行行長植田和男：審議委員高田創、田村直樹提議在展望報告中補充關於物價的額外表述，該提議未獲透過。
+
+---
+
+### 2026-07-31 14:37:45  #公司
+
+據德國媒體援引德國商業銀行執行長的話稱，德國政府、員工代表以及監事會已明確表示，他們目前希望開展建設性對話。
+
+---
+
+### 2026-07-31 14:37:24  #央行 #日本央行
+
+日本央行行長植田和男表示，物價將逐步上漲。
+
+---
+
+### 2026-07-31 14:36:51  #資料 #央行 #國際
+
+日本央行行長植田和男：剔除能源價格後的核心CPI預測基本保持不變。
+
+---
+
+### 2026-07-31 14:36:25  #央行 #焦點 #國際
+
+日本央行行長植田和男：必須關注人工智慧相關需求以及匯率變動對日本經濟和物價的影響。
+
+---
+
+### 2026-07-31 14:36:08  #市場 #焦點 #國際
+
+外資週五淨買入價值7.2萬億韓元的韓國綜合股價指數股票，為有記錄以來最大規模淨買入。
+
+---
+
+### 2026-07-31 14:36:02  #市場 #央行 #國際
+
+日本央行行長植田和男：物價趨勢將逐步上漲。
+
+---
+
+### 2026-07-31 14:35:19  #觀點
+
+摩根士丹利將蘋果目標價從364美元下調至360美元。
+
+---
+
+### 2026-07-31 14:35:06  #資料 #央行 #焦點 #國際
+
+日本央行行長植田和男：預計2026財年下半年CPI同比增速將加速至“明顯高於”2%的水平；核心CPI存在上行偏離，升至2%物價穩定目標上方水平的風險。
+
+---
+
+### 2026-07-31 14:34:54  #央行 #國際
+
+日本央行行長植田和男：人工智慧需求和近期日元疲軟將推高通脹。
+
+---
+
+### 2026-07-31 14:34:04  #Trading Economics #Economy #Norway #Loan Growth #Importance 1
+
+Norway Loan Debt Rises 4.4% in June — Norway’s general public domestic loan debt increased by 4.4% year-on-year to NOK 8.01 billion at the end of June 2026, easing slightly from a 4.5% rise in the previous month. Lending growth to non-financial corporations eased to 4.1% from 4.3% in May, reaching NOK 2.42 billion, while that to municipal government also slowed to 3.7% from 4.6%, totaling NOK 0.8 trillion. Meanwhile, household loan debt rose by 4.7% to NOK 4.76 billion, following a 4.6% increase in May. On a seasonally adjusted annualized one-month basis, total loan debt for the general public grew by 3.7%, slowing from a 4.9% rise in the prior month.
+
+---
+
+### 2026-07-31 14:34:01  #央行 #國際
+
+日本央行行長植田和男：日本經濟預計將保持適度增長。預計實際GDP增長與4月的展望報告基本持平。
+
+---
+
+### 2026-07-31 14:33:15  #其他
+
+聯發科第二季度淨利潤243.4億元臺幣，預估224.3億元臺幣。
+
+---
+
+### 2026-07-31 14:33:06  #公司
+
+【位元組跳動投資成立裝置租賃公司】企查查APP顯示，近日，上海鷗璐裝置租賃有限公司成立，法定代表人為吳瓊，經營範圍包含：計算機軟硬體及輔助裝置零售；五金產品批發；通訊裝置銷售；電子產品銷售；機械裝置銷售等。企查查股權穿透顯示，該公司由位元組跳動關聯公司北京字跳網路技術有限公司全資持股。
+
+---
+
+### 2026-07-31 14:32:43  #市場 #焦點
+
+焦煤連續主力合約日內跌5%，現報1173.50元。
+
+---
+
+### 2026-07-31 14:32:32  #其他
+
+【智元機器人新品首發亮相CJ，可從“人形”變“機器狗”，定價1-3萬元、將推多個版本】近日，2026 ChinaJoy舉辦。新浪科技探展發現，智元機器人針對消費市場的啟元系列亮相了兩款產品——啟元Q1和啟元T1。其中啟元T1為展會首發亮相。據展臺工作人員介紹，該款機器人主要定位陪伴型，可在人形和“機械狗”雙形態進行自由切換。當變為“機器狗”時，其可以拉動一個坐在滑板上的人，支援跨越臺階、斜坡，速度最高3m/s。另外，啟元T1還能用本體拍攝個性化照片和聯動運動相機，支援跟隨拍攝、環繞運鏡、希區柯克運鏡多種模式，也支援看家助手、生活備忘、定時提醒、百科問答、“自主找人”式沉浸式視訊通話功能。啟元Q1身高0.88米，售價2-5萬元，擁有22個關節自由度，主要用於小孩陪護、老人陪護，消費者可根據喜好自由定製個性化外殼。（新浪科技）
+
+---
+
+### 2026-07-31 14:32:26  #公司
+
+鎧俠將回購至多8000億日元的股份。
+
+---
+
+### 2026-07-31 14:32:11  #其他
+
+鎧俠（Kioxia）第一季度營業利潤1.27萬億日元，上年同期449.0億日元，市場預估1.37萬億日元。第一季度淨利潤8,421.7億日元，上年同期182.8億日元，市場預估9,738.1億日元。
+
+---
+
+### 2026-07-31 14:32:07  #公司
+
+市場訊息：鎧俠公司將進行3比1的股票拆分。
+
+---
+
+### 2026-07-31 14:32:01  #央行 #國際
+
+日本央行行長植田和男：正在收集熊本地震對經濟和物價影響的相關資訊。
+
+---
+
+### 2026-07-31 14:31:33  #其他
+
+【貴州上半年累計發放低保金和特困供養金62.5億元】31日，記者從2026年上半年貴州民政工作情況新聞釋出會上獲悉，貴州依託“大資料比對+鐵腳板摸排”工作機制，動態將符合條件的困難群眾納入兜底保障範圍。上半年，全省共保障城鄉低保物件212.99萬人，特困人員14.96萬人，實施臨時救助10.2萬人次，累計發放低保金和特困供養金62.5億元。（新華社）
 
 ---
 
@@ -21476,77 +21668,5 @@ Spain | Preliminary Annual GDP (Q2) | actual 2.7% | consensus 2.5% | previous 2.
 ### 2026-07-30 15:00:00  #MKT News #Economic Calendar #Important
 
 Spain | HICP Flash (YoY) (Jul) | actual 3.8% | consensus 3.7% | previous 3.60%
-
----
-
-### 2026-07-30 15:00:00  #MKT News #Economic Calendar #Important
-
-Switzerland | KOF Economic Leading Indicator (Jul) | actual 103.5 | consensus 101 | previous 101.2
-
----
-
-### 2026-07-30 14:59:17  #觀點
-
-摩根士丹利將星巴克目標股價從111美元上調至115美元。
-
----
-
-### 2026-07-30 14:59:05  #MKT News #Commodities #Energy #SHEL.N #Impact bearish
-
-Shell (SHEL.N) CFO says refinery maintenance will increase next quarter.
-
----
-
-### 2026-07-30 14:58:55  #國際
-
-雷諾首席財務官表示，今年上半年，雷諾在歐洲短期租賃市場的中國競爭對手銷量幾乎翻了一番。
-
----
-
-### 2026-07-30 14:57:12  #MKT News #Commodities #Energy
-
-【Low Danube forces Hungary, Romania to shut nuclear reactors】Historic low Danube water levels have forced Hungary and Romania to take nuclear reactors offline because cooling-water supply cannot be guaranteed. Hungary’s Paks operator said it will shut one of the plant’s four reactors from 13:00 GMT on the 29th. Paks is Hungary’s only nuclear plant, with 2 GW total installed capacity and accounting for roughly half of the country’s electricity. Romania’s energy sector said Cernavodă Unit 2 will be taken offline from 10:00 local time on the 30th; Unit 1 was shut on the 28th. These outages reduce baseload nuclear generation in both countries.
-
----
-
-### 2026-07-30 14:57:09  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
-
-TAIEX Hits 3-Month Low, Ends Below 40,000 — The TAIEX, Taiwan's benchmark stock index, fell 106 points, or 0.3%, to close at 39,933 on Thursday, retreating for the fifth consecutive session and marking its lowest level since April 30, mainly weighed down by energy minerals, technology services, and electronic technology stocks. Electronic technology stocks continued to decline amid concerns over returns on AI investment, falling 0.4% after plunging 3.8% in the previous session, mainly weighed down by Hon Hai Precision Industry (-3.2%), Nanya Technology (-7.2%), and Quanta Computer (-9.9%). However, TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, rose 0.2%, rebounding from a 2.2% decline a day earlier after being included among the top 100 companies in this year's Fortune Global 500 for the first time. Meanwhile, moderating oil prices eased inflation concerns and expectations of an interest rate hike, limiting the decline.
-
----
-
-### 2026-07-30 14:56:43  #公司
-
-【國投證券：維持寧德時代“買入-A”評級，動儲持續高景氣，高分紅回購提振信心】國投證券研報指出，動儲持續高景氣，寧德時代高分紅回購提振信心。2026H1公司實現營業收入2769 億元，同比+55%；實現歸母淨利潤433 億元，同比+42%。動力儲能雙向高增，全球份額突破。儲能業務海內外專案持續落地，簽署60GWh鈉離子儲能合作，落地2GWh 大型儲能專案；量產587Ah 儲能電芯、9MWh TENER Stack 等產品，躋身全球儲能系統整合商第一梯隊，動儲業務依託技術與渠道優勢雙向擴容。持續延伸電動化場景佈局，發力船舶航運、低空eVTOL、AI 資料中心等新興領域，多款飛行器取得取證突破。加大分紅回購，夯實股東回報。考慮到公司動力儲能雙向高增，創新能力引領市場，供應鏈整合管理能力出眾，維持“買入-A”的投資評級，12個月目標價為520元，相當於2026年24倍的動態市盈率。
-
----
-
-### 2026-07-30 14:56:27  #國際
-
-一份宣告顯示，印度泰米爾納德邦與Motivelink簽署的諒解備忘錄預計將創造約1500個直接和間接就業崗位。
-
----
-
-### 2026-07-30 14:56:22  #Trading Economics #Markets #Commodity #Importance 1
-
-UK Gas Prices Retreat — UK natural gas prices dropped to around 147 pence per therm on Thursday, paring some of the previous session's gains after reports that a Qatari gas tanker had successfully exited the Strait of Hormuz, raising hopes that LNG exports from the Middle East's largest supplier could gradually resume. It was the first such vessel reported to have left the waterway since one of Qatar's tankers was attacked more than three weeks ago. However, concerns over the security of shipping through the strait persist amid renewed fighting in the region. President Donald Trump pledged a strong response after Iran attacked US bases in Jordan, following joint strikes by Saudi Arabia and Washington against Iran-backed militias in Iraq. Earlier this week, QatarEnergy extended its force majeure for European and Asian customers, intensifying competition between the two regions for available LNG cargoes. Heatwaves across Europe are also boosting electricity demand, slowing the pace of gas storage replenishment.
-
----
-
-### 2026-07-30 14:56:15  #市場 #國際
-
-【國債期貨拉昇 30年期主力合約漲0.4%】國債期貨拉昇，30年期主力合約盤中漲0.40%，現報115.170元。10年期漲0.09%，現報109.3元。5年期漲0.07%，現報106.475元。2年期漲0.01%，現報102.626元。
-
----
-
-### 2026-07-30 14:56:11  #公司
-
-雷諾首席財務官表示，受原材料影響預計在下半年將進一步加劇，公司將繼續推進成本削減，甚至可能加快削減步伐。
-
----
-
-### 2026-07-30 14:56:05  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-TD Cowen cut Meta Platforms' PT to $750 from $800 (META.O).
 
 ---
