@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-02 21:49:58_
-_本檔包含 3725 則快訊，約 668868 字_
+_更新時間：2026-08-02 23:14:16_
+_本檔包含 3696 則快訊，約 670531 字_
+
+---
+
+### 2026-07-30 14:41:16  #其他
+
+AI伺服器製造商技嘉據悉尋求15億美元銀團貸款。
+
+---
+
+### 2026-07-30 14:40:33  #其他
+
+【溢價率80.44%，上海浦東新楊思商業地塊以27.05億元成交】2026年7月30日，上海浦東新區楊思社群商業文體組合地塊公開出讓並完成交易，成交總價約27.05億元，溢價率達80.44%。這也是上海近年來罕見上新的純商業地塊。
+
+---
+
+### 2026-07-30 14:40:33
+
+【中共中央政治局會議：完善對外投資管理制度和海外綜合服務體系】中共中央政治局7月30日召開會議，會議指出，要拓展國際經貿互利合作空間，大力發展服務貿易，促進貿易平衡發展。完善對外投資管理制度和海外綜合服務體系，積極吸引和利用外資。（新華社）
+
+---
+
+### 2026-07-30 14:39:45  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+【CPC Politburo meeting: bolster social safety net; protect flexible and new-form workers' rights】The CPC Politburo on July 30 called for stepped-up measures to strengthen the social safety net, increase employment support for priority groups, and protect rights of flexible and new-form workers, including gig-economy participants. It directed improvements to elder and childcare services and the development of a layered, categorized social assistance system. The meeting also pushed for stronger ecological protection, renewed emphasis on the Three-North shelterbelt afforestation project, and an active, steady advance of China’s carbon-peak and carbon-neutrality goals.
+
+---
+
+### 2026-07-30 14:39:23
+
+【中共中央政治局會議：深化資本市場投融資綜合改革 提升資本市場韌性和信心】中共中央政治局7月30日召開會議，會議強調，要切實築牢安全屏障。穩定房地產市場，實施好一攬子化債方案，紮實推進地方中小金融機構改革化險、減量提質。深化資本市場投融資綜合改革，提升資本市場韌性和信心。深入排查整治各類風險隱患，堅決遏制重特大事故發生。加強對病險水庫、江河堤防、山洪和地質災害危險區、城市低窪易澇點等隱患排查治理，紮實做好防汛應急搶險救災各項工作，全力維護人民群眾生命財產安全。（新華社）
+
+---
+
+### 2026-07-30 14:39:13  #宏觀 #焦點
+
+【中共中央政治局：制定實施全國統一大市場建設條例 繼續綜合整治“內卷式”競爭】中共中央政治局7月30日召開會議，會議強調，要營造公平有序的市場競爭環境，制定實施全國統一大市場建設條例，繼續綜合整治“內卷式”競爭，常態化解決企業賬款拖欠問題。深化國資國企改革，最佳化民營經濟發展環境，推動平臺經濟規範健康發展。
+
+---
+
+### 2026-07-30 14:39:13  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+【China Politburo urges stabilization of hog and other farm-product production and prices】China's Politburo met July 30 and urged sustained support for agriculture, consolidation of poverty-alleviation gains, and establishment of mechanisms for construction, operation and maintenance of high-standard farmland. It called for stabilizing production and prices of hogs and other agricultural and livestock products, ensuring supply and price stability for agricultural inputs, securing the autumn grain crop and a full-year harvest, and supporting stable farmer incomes.
+
+---
+
+### 2026-07-30 14:38:56  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #DXY #Impact bearish
+
+【CPC Politburo meeting: improve foreign investment management and overseas comprehensive service system】The CPC Politburo met on July 30 and instructed authorities to expand international trade cooperation, accelerate services trade to help rebalance trade, improve the foreign investment management regime and overseas comprehensive service system, and actively attract and utilize foreign capital.
+
+---
+
+### 2026-07-30 14:38:48
+
+【中共中央政治局：紮實推進“六張網”規劃建設 深入實施“人工智慧＋”行動】中共中央政治局7月30日召開會議，會議強調，要有效擴大國內需求，適應不同群體消費需求擴大優質供給，挖掘服務消費潛力。紮實推進“六張網”規劃建設。加快現代化產業體系建設，加強對基礎研究的長期穩定支援，深入實施“人工智慧＋”行動，發展智慧經濟新形態，完善人工智慧治理體系。積極推動前沿技術突破和未來產業發展，著力打造新興支柱產業，持續推動傳統產業改造升級。
+
+---
+
+### 2026-07-30 14:38:39  #宏觀
+
+法國財政部長：第二季度資料對於2026年整體增長預測而言令人安心。
+
+---
+
+### 2026-07-30 14:38:33  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #CNH
+
+【Politburo meeting: deepen capital market investment‑financing reform, bolster market resilience and confidence】The Politburo of the CPC Central Committee met July 30 and directed measures to stabilize the China property market and implement a debt‑restructuring package for the property sector. It ordered reforms of local small‑ and medium‑sized financial institutions to defuse risks, shrink exposures and raise asset quality, called for deeper comprehensive reform of capital‑market investment‑financing to enhance market resilience and confidence, and required thorough risk inspections and strengthened disaster‑prevention work.
+
+---
+
+### 2026-07-30 14:38:24  #宏觀
+
+【中共中央政治局：紮實推進“六張網”規劃建設 深入實施“人工智慧+”行動】中共中央政治局7月30日召開會議，會議強調，要有效擴大國內需求，適應不同群體消費需求擴大優質供給，挖掘服務消費潛力。紮實推進“六張網”規劃建設。加快現代化產業體系建設，加強對基礎研究的長期穩定支援，深入實施“人工智慧+”行動，發展智慧經濟新形態，完善人工智慧治理體系。積極推動前沿技術突破和未來產業發展，著力打造新興支柱產業，持續推動傳統產業改造升級。
+
+---
+
+### 2026-07-30 14:38:06
+
+【中共中央政治局會議：加快推動新舊動能轉換 實施好更加積極的財政政策和適度寬鬆的貨幣政策】中共中央政治局7月30日召開會議，會議強調，做好下半年經濟工作，要堅持以習近平新時代中國特色社會主義思想為指導，堅持穩中求進工作總基調，完整準確全面貫徹新發展理念，加快構建新發展格局，更好統籌國內國際兩個大局，統籌發展和安全，堅持深化改革開放，加快推動新舊動能轉換，實施好更加積極的財政政策和適度寬鬆的貨幣政策，充分發揮各項存量政策效能，及時謀劃出臺務實管用的增量政策，加大逆週期調節力度，加力擴大內需、最佳化供給，切實保障和改善民生，增強發展動力、激發社會活力，推動經濟持續向新向優向好發展，努力實現“十五五”良好開局。（新華社）
+
+---
+
+### 2026-07-30 14:37:26  #MKT News #Important #CSI300 #Impact bullish #CNH #Impact mixed #Hang Seng Index
+
+【China Politburo meeting: expand domestic demand, accelerate frontier technology and future-industry development】China's Politburo on July 30 called for effective expansion of domestic demand, raising high-quality supply to meet diverse consumer groups and tapping service-consumption potential. It urged steady progress on the "six networks" planning and construction and accelerated development of a modernized industrial system. The meeting directed stronger long-term support for basic research, deep implementation of the "AI+" initiative, development of an intelligent economy and improvement of AI governance. It also pushed active promotion of frontier-technology breakthroughs and future industries, building emerging pillar sectors while continuing transformation and upgrading of traditional industries.
+
+---
+
+### 2026-07-30 14:37:19  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+ASX 200 Falls 0.8% at Close — The ASX 200 slipped 71 points, or 0.8%, to finish at 8,968 on Thursday, halting a three-day rally and retreating from a near five-month high. Profit-taking followed Wall Street’s plunge on Wednesday, as traders weighed the U.S. Fed’s decision to hold interest rates steady, with three officials favoring a 25bps hike. Geopolitical tensions added pressure after Iran’s surprise strikes on U.S. bases in Jordan. At home, the Reserve Bank of Australia Assistant Governor Sarah Hunter noted headline inflation is easing, though housing and services costs remain sticky. Losses were widespread, led by tech, logistics, retail, and non-energy minerals. Softer iron ore and copper prices dragged BHP Group (-1.4%) and Fortescue (-0.9%). Gold miners tumbled, with steep losses in Northern Star Resources (-3.5%) and Evolution Mining (-2.8%). Two of the big four banks slipped between 0.5% and 0.8%. Bucking the trend, Domino Pizza surged 8.6% after reaffirming its annual profit outlook despite write-downs.
+
+---
+
+### 2026-07-30 14:36:59  #宏觀 #焦點
+
+【中共中央政治局：充分發揮各項存量政策效能，及時謀劃出臺務實管用的增量政策】中共中央政治局召開會議，會議強調，做好下半年經濟工作，要堅持以習近平新時代中國特色社會主義思想為指導，堅持穩中求進工作總基調，完整準確全面貫徹新發展理念，加快構建新發展格局，更好統籌國內國際兩個大局，統籌發展和安全，堅持深化改革開放，加快推動新舊動能轉換，實施好更加積極的財政政策和適度寬鬆的貨幣政策，充分發揮各項存量政策效能，及時謀劃出臺務實管用的增量政策，加大逆週期調節力度，加力擴大內需、最佳化供給，切實保障和改善民生，增強發展動力、激發社會活力，推動經濟持續向新向優向好發展，努力實現“十五五”良好開局。（新華社）
+
+---
+
+### 2026-07-30 14:36:54
+
+【中共中央政治局會議：宏觀政策要發力提效 加快財政支出和債券資金使用進度】中共中央政治局7月30日召開會議，會議指出，宏觀政策要發力提效，加快財政支出和債券資金使用進度，有力推進“兩重”建設和“兩新”工作。兜牢基層“三保”底線。綜合運用並適時調整貨幣政策工具，最佳化實施財政金融協同促內需政策。（新華社）
+
+---
+
+### 2026-07-30 14:36:53  #MKT News #Important #Market Regions #Greater China #CNH #Impact bearish #Hang Seng Index #Impact bullish #Copper
+
+【Politburo meeting: accelerate shift to new growth drivers; implement more proactive fiscal and moderately accommodative monetary policy】The Politburo met on July 30 and said H2 economic work should accelerate the conversion to new growth drivers and implement a more proactive fiscal policy alongside a moderately accommodative monetary policy. It called for full use of existing stock policies, timely design of practical incremental measures, stronger countercyclical adjustment, deeper reform and opening-up, balancing development and security, expansion of domestic demand, supply-side optimization, and measures to safeguard and improve livelihoods to sustain momentum and secure a good start to the 15th Five-Year Plan.
+
+---
+
+### 2026-07-30 14:36:40  #宏觀
+
+法國財政部長：第二季度國內生產總值資料顯示法國經濟具有韌性。
+
+---
+
+### 2026-07-30 14:36:39  #其他
+
+【世紀華通總裁謝斐：原創力不來自廣度，而來自深度】7月30日下午訊息，中國國際娛樂數字產業大會召開。會上，世紀華通總裁謝斐發表演講提出觀點：原創力不來自廣度，而來自深度。她分享了過往的經歷：“過去兩年，AI大模型把內容生產的門檻幾乎降到了零。圖片生成按秒計，影片生成按分鐘計。團隊告訴我，現在一個人用AI工具一天產出的營銷素材量，抵得上過去五個人的團隊一週的工作量。”她表示：“但這也帶來了一個反直覺的結果：當所有人都跑得快的時候，而拉開差距的反而是那些“快不了”的事——是對一個方向的持續理解；是對使用者需求的長期跟蹤；是在別人換賽道的時候，你選擇把眼前這條路走到極致。”謝婓表示，過去幾年也交了不少學費：新立項的產品，資料和預期差距很大。覆盤時發現，犯的根本錯誤不是執行，而是從一開始就沒有想清楚“憑什麼我們能做好它”。我們以為自己能“學習”，但使用者需要的不是複製品。她強調：“原創基因的形成，關鍵不在於“做什麼”，而在於“不做什麼”。知道自己不做什麼，比知道做什麼更難。行業裡那些穿越了週期的經典IP也是如此。它們不是靠守舊活下來的，而是不斷用新技術、新渠道來重新表達自己，讓存量長出了增量。所以原創力的深度，本身就是最稀缺的原創力。”（新浪科技）
+
+---
+
+### 2026-07-30 14:36:06  #MKT News #Important #CSI300 #Impact bullish #Copper #CNH #Impact mixed
+
+【China Politburo says macro policy must step up; accelerate fiscal spending and use of bond proceeds】China's Politburo met on July 30 and said macro policy must step up and be more effective, directing faster fiscal spending and accelerated use of bond proceeds. It called for safeguarding basic social protections, comprehensive use and timely adjustment of monetary-policy tools, and optimized fiscal–financial coordination to boost domestic demand.
+
+---
+
+### 2026-07-30 14:35:38  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Falls as Markets Reassess Fed Outlook — Silver fell toward $57 an ounce on Thursday, giving back the previous session’s gains as traders reassessed the Federal Reserve’s policy outlook after the central bank left interest rates unchanged. Three FOMC members dissented in favor of a rate hike, while Chair Kevin Warsh emphasized that the decision to keep rates steady should not be viewed as a sign of policy inertia, adding that markets would continue to respond to incoming economic data. Markets are now pricing in roughly a 67% chance of a 25-basis-point Fed rate hike in September, up from 56% a day earlier, while expectations for a larger 50-basis-point increase have largely disappeared. Silver also came under pressure from rallying oil prices after the US launched a fresh wave of strikes against Iran in response to attacks on American forces across the Middle East, raising concerns about further disruptions to global energy supplies.
 
 ---
 
@@ -22145,311 +22277,5 @@ FX Updates: South Korean Won Appreciates by 0.56% — Top currency gainers are S
 ### 2026-07-29 13:03:19  #公司 #國際
 
 【伊朗武裝部隊警告美總統特朗普 】針對美國總統特朗普有關“動用伊朗被凍結資產來賠償受損船隻”的說法，伊朗武裝部隊哈塔姆·安比亞中央司令部發言人易卜拉欣·佐勒法加里7月28日對特朗普發出警告，稱其“非法行徑必將面臨後果”。佐勒法加里還說，伊朗已正式告知全球所有國家與航運公司，凡是接受美方提議並以此為由動用伊朗被凍結資產者，即日起伊朗武裝部隊將一律禁止其任何船隻透過霍爾木茲海峽。
-
----
-
-### 2026-07-29 13:01:49  #公司 #市場
-
-渣打集團港股逆轉跌勢，漲逾2%，因上半年盈利超預期且宣佈新股份回購計劃。
-
----
-
-### 2026-07-29 13:00:56  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時放量1565億元。
-
----
-
-### 2026-07-29 13:00:43  #其他
-
-巴斯夫仍然預測全年調整後EBITDA 69億歐元至77億歐元。
-
----
-
-### 2026-07-29 13:00:33  #其他
-
-巴斯夫第二季度調整後EBITDA 24.5億歐元，同比+54%。巴斯夫第二季度調整後每股收益1.28歐元，預估0.98歐元。
-
----
-
-### 2026-07-29 13:00:06  #其他
-
-德意志銀行第二季度除稅前利潤26.8億歐元，預估23.9億歐元。德意志銀行第二季度淨營收84.8億歐元，預估81.3億歐元。
-
----
-
-### 2026-07-29 12:59:52  #市場
-
-韓元兌美元漲幅擴大至0.7%，領跑新興市場亞洲外匯市場。
-
----
-
-### 2026-07-29 12:57:01  #國際
-
-【日本熊本縣震後一造紙廠多人被困】7月29日，據日本熊本縣災害對策總部訊息，八代市“日本製紙”工廠在地震後一個煙囪發生崩塌，並有11人被困，其中4人已獲救，但其中2人處於心肺停止狀態，2人受重傷，另外7人安危不明。同時，熊本縣地震災區停水停電的情況還在持續，目前當地還有超過3萬戶家庭處於停電狀態。熊本地震災區持續高溫，八代市氣溫超過30度，停水停電的情況也給當地的救援帶來了很多難題。截至目前，熊本縣強震已造成13人死亡，數十人受傷。熊本縣警方表示，地震傷亡人數可能還會繼續上升。（CCTV國際時訊）
-
----
-
-### 2026-07-29 12:56:37  #其他
-
-【西太平洋銀行前首席經濟學家比爾·埃文斯因癌症去世】西太平洋銀行（Westpac）前首席經濟學家比爾・埃文斯（Bill Evans）因癌症醫治無效離世，其家屬釋出訃告證實了這一訊息。該行對外發布家屬宣告稱，埃文斯於週二晚間在墨爾本一家醫院離世，當天恰逢他 76 歲生日。家屬表示：“比爾數十年職業生涯成就斐然，憑藉獨到的見解與正直的品行，為澳大利亞經濟與金融行業發展作出了卓越貢獻。他極具影響力，為人溫和體貼，但凡有他在場，談話都將圍繞他展開，也總能讓周遭氛圍變得熱烈鮮活，人們會永遠銘記他。”埃文斯是澳大利亞頂尖市場經濟學家，尤其擅長預判澳洲儲備銀行貨幣政策週期拐點，他於 2023 年卸任西太平洋銀行首席經濟學家一職。
-
----
-
-### 2026-07-29 12:54:00  #央行 #中國央行
-
-【央行上海總部：繼續深化自由貿易賬戶功能升級試點】人民銀行上海總部召開2026年第三季度新聞釋出會，人民銀行上海總部宏觀審慎管理部副主任施建東表示，上半年，上海自由貿易賬戶功能升級試點參與主體穩步擴容。該項工作自2025年12月正式啟動以來，目前已有11家銀行、42家優質企業參與試點，服務物件廣泛涵蓋了央國企、外資、民營等多類經濟主體，服務汽車製造、現代農業、半導體等多個行業領域，試點項下跨境資金收付規模摺合人民幣已超過1330億元。
-
----
-
-### 2026-07-29 12:53:36  #其他
-
-【浙江：到2030年海洋經濟綜合實力位居全國前列】近日，浙江省政府辦公廳印發《浙江省“十五五”海洋經濟發展規劃》，為今後五年海洋經濟發展描繪了清晰路線圖。《規劃》提出到2030年，海洋經濟綜合實力位居全國前列，浙江海洋生產總值年均增速高於GDP增速一個百分點，海洋生產總值佔GDP比重達14%。
-
----
-
-### 2026-07-29 12:53:34  #其他
-
-【九寨溝景區7月30日起全域恢復開放】7月29日，九寨溝風景名勝區管理局釋出關於全域恢復開放的通告。通告稱，自7月30日起，九寨溝景區全域恢復開放。
-
----
-
-### 2026-07-29 12:53:15  #公司 #國際
-
-【韓國股市遭遇“非理性拋售”，跌幅一度擴大至13%】韓國股市大幅跳水，散戶投資者集中離場減倉，加之 SK 海力士財報業績不及預期，本就脆弱的人工智慧板塊市場情緒進一步惡化。韓國綜合股價指數（KOSPI）最大跌幅達 13%，兩日累計跌幅約 20%，並連續第二個交易日觸發熔斷機制。今年早些時候，該指數曾依靠 SK 海力士、三星電子兩大晶片企業領漲，漲幅領跑全球；如今指數單月跌幅預計將創下約 35% 的歷史紀錄。大量資金湧入晶片行業的投資邏輯遭到投資者質疑，市場樂觀情緒迅速轉為恐慌，投資者紛紛割肉離場。截至午盤，散戶淨賣出 1.9 萬億韓元（合 13 億美元）KOSPI 成分股，與此前回撥期間散戶持續逢低買入的行為形成鮮明反轉。DS 資產管理公司基金經理Yoon Joonwon表示：“投資者如今只顧倉皇出逃。如此大規模的拋售，尤其是散戶集中拋售，完全難以理解。無論從技術面還是市場情緒來看，這都屬於非理性拋售。”
-
----
-
-### 2026-07-29 12:52:52  #MKT News #Important #07709.HK #Impact bearish #07747.HK
-
-【Southern 2x Long SK Hynix plunges 25.72%; down 81.05% since July】Korean equities weakened; Southern 2x Long SK Hynix (07709.HK) fell 25.72% at the Hong Kong midday close, bringing its decline since July to 81.05%. The product's AUM was HKD 31.92 bln, about 70% below its peak. Southern Eastspring's 2x Long Samsung Electronics (07747.HK) dropped 16.56% at the same close and is down 69.55% for the month.
-
----
-
-### 2026-07-29 12:51:13  #MKT News #Important #WTI #Impact bullish #Brent
-
-【"Don't split 50-50", Iran rejects Oman's Strait of Hormuz joint-management proposal】A senior Iranian official said Tehran has rejected Oman's proposal for regional joint management of the Strait of Hormuz as unworkable. Iran refuses third-party participation in strait management and says only Iran and Oman may set arrangements based on their respective territorial waters. The official said Iran insists all transit routes through the strait, and some inbound approaches, must remain under Iranian control. A 50-50 joint-management arrangement with Oman would not serve Iran's interests, though Tehran regards Oman as a valued neighbor. The official added the US and Saudi Arabia are pressuring Oman to advance what Iran considers an unrealistic plan for the strait.
-
----
-
-### 2026-07-29 12:49:39  #公司 #市場 #國際
-
-【南方兩倍做多海力士暴跌近26% 7月以來跌幅已超80%】韓國股市今日走弱，南方兩倍做多海力士也大幅下挫。截至港股中午收市，該產品的今日跌幅達25.72%，7月以來跌幅已達81.05%。東方財富資料顯示，該產品的最新資產規模為319.2億港元，與規模高點相比縮水七成。南方東英旗下另一隻掛鉤韓國晶片股的槓桿產品也大幅下跌：截至港股中午收市，南方兩倍做多三星電子的今日跌幅為16.56%，本月跌幅為69.55%。
-
----
-
-### 2026-07-29 12:49:27  #國際
-
-韓國綜合股價指數跌幅一度高達13%，兩天累計跌幅約為20%。
-
----
-
-### 2026-07-29 12:48:05  #公司
-
-瑞銀集團：環球財富管理部門第二季度淨新增資金流入規模達360億美元。
-
----
-
-### 2026-07-29 12:47:06  #市場 #國際
-
-印度NIFTY指數上漲1%，至24224.95。
-
----
-
-### 2026-07-29 12:46:10  #MKT News #V.O #Impact bullish
-
-JP Morgan raised its price target for Visa (V.N) to $450 from $400.
-
----
-
-### 2026-07-29 12:46:00  #MKT News #Nasdaq100 #Impact bearish #S&P500 #Dow
-
-Nasdaq futures fell as much as 1%, S&P 500 futures were down 0.3% and Dow futures fell 0.2%.
-
----
-
-### 2026-07-29 12:45:56  #市場
-
-【美股納斯達克100指數期貨跌超1%】美股納斯達克100指數期貨跌超1%，標普500指數期貨跌0.35%，道瓊斯指數期貨跌0.24%。
-
----
-
-### 2026-07-29 12:45:29  #MKT News
-
-Aeon said four people were missing after an explosion at its Kumamoto shopping center.
-
----
-
-### 2026-07-29 12:45:27  #其他
-
-【吉林汪清升級釋出暴雨紅色預警】吉林省延邊州汪清縣氣象臺7月29日11時10分升級釋出暴雨紅色預警訊號：截至目前，汪清縣東光鎮已出現90毫米以上降水，清河村已出現超過100毫米降水，其中清河村、廟溝村小時雨強達40毫米以上。預計未來3小時，上述地區降雨仍將持續。對此，汪清縣防辦、縣應急管理局、縣氣象局聯合提醒注意做好預防工作。
-
----
-
-### 2026-07-29 12:45:06  #市場
-
-SK海力士股價跌幅擴大；最新下跌18%，至1,269,000韓元。
-
----
-
-### 2026-07-29 12:44:20  #市場
-
-東京午後交易時段日元走強，一度報1美元約163.40日元。
-
----
-
-### 2026-07-29 12:43:28  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 has fallen as much as 3% intraday, trading at 60,490.58 points.
-
----
-
-### 2026-07-29 12:43:25  #市場 #國際
-
-日本日經指數下跌3%，至60491.81點。
-
----
-
-### 2026-07-29 12:42:15  #MKT News #WTI #Impact bullish #Brent
-
-Refinitiv: An Iranian senior official said the US and Saudi Arabia are pressuring Oman to implement what Iran calls an unrealistic plan for the Strait of Hormuz.
-
----
-
-### 2026-07-29 12:42:02  #國際
-
-伊朗高階官員：美國與沙烏地阿拉伯正試圖向阿曼施壓，以推進兩國在霍爾木茲海峽問題上不切實際的計劃。
-
----
-
-### 2026-07-29 12:42:00  #MKT News #WTI #Impact bullish #Brent
-
-Refinitiv: A senior Iranian official said the southern route of the Strait of Hormuz may pose a danger to vessels, and that Oman's control of the waterway should correspond to its share of the passage.
-
----
-
-### 2026-07-29 12:41:34  #國際
-
-伊朗高階官員：德黑蘭已排除阿曼提出的霍爾木茲海峽區域聯合管理方案，該方案毫無成功可能。
-
----
-
-### 2026-07-29 12:41:22  #MKT News
-
-Taiwan's TAIEX fell more than 5%.
-
----
-
-### 2026-07-29 12:41:14  #MKT News #WTI #Impact bullish #Brent
-
-Refinitiv: An Iranian senior official said Iran insists all inbound shipping lanes through the Strait of Hormuz and some outbound lanes must be under Iranian control, and that a 50-50 joint-control arrangement with Oman would not serve Tehran’s interests.
-
----
-
-### 2026-07-29 12:41:02  #國際
-
-伊朗高階官員：儘管德黑蘭將阿曼視為重要鄰國，但伊朗與阿曼各佔一半的聯合管控安排不符合伊朗的利益。
-
----
-
-### 2026-07-29 12:40:45  #MKT News
-
-【South Korean retail forced liquidations KRW1.7t; institutions to wait for calmer sentiment】On Wednesday South Korean retail investors suffered roughly KRW1.7 trillion (≈$1.2bn) of forced liquidations. Jung In Yun, CEO of Fibonacci Asset Management, said many positions were forcibly closed and institutions plan to wait for retail selling pressure to ease before redeploying capital.
-
----
-
-### 2026-07-29 12:40:33  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Tehran has ruled out Oman's proposal for joint regional management of the Strait of Hormuz, saying the plan has no chance of success. Iran said only Iran and Oman can determine arrangements for the strait based on their respective shares and rejected any role for other countries.
-
----
-
-### 2026-07-29 12:40:20  #國際
-
-伊朗高階官員：伊朗堅持要求，透過霍爾木茲海峽的全部入港航道以及部分出港航道必須處於伊朗控制之下。
-
----
-
-### 2026-07-29 12:39:49  #國際
-
-伊朗高階官員表示：只有伊朗和阿曼能夠根據各自的權益份額決定霍爾木茲海峽的相關安排，德黑蘭拒絕任何其他國家參與其中。
-
----
-
-### 2026-07-29 12:38:15  #其他
-
-巴斯夫：目標為2025年至2028年向股東派息總額不低於120億歐元。
-
----
-
-### 2026-07-29 12:37:50  #其他
-
-巴斯夫：將於2026年8月至2027年4月啟動最高10億歐元的股票回購計劃。
-
----
-
-### 2026-07-29 12:37:14  #公司 #國際
-
-【力拓無意為享受美國關稅優惠而投資該國鋁業】力拓執行長西蒙·特羅特(Simon Trott)表示，儘管特朗普)政府最近提出，願為在美國投資的鋁企提供部分金屬進口關稅減半的優惠，但該公司無意投資於美國的鋁冶煉產能。力拓是從其加拿大工廠向美國輸送鋁產品的主要付運商，該公司稱過去一年與關稅相關的成本總計超過10億美元。該公司目前在美國境內沒有任何鋁冶煉廠。特羅特在一次採訪中表示，力拓在美國的重點是其銅和鋰業務，而不是在該國增加任何鋁產能。他說：“我們在美國確實有重要的業務佈局“，包括亞利桑那州的Resolution Copper專案、猶他州的銅業務以及北卡羅來納州的一家鋰工廠。特羅特說，該公司“現階段真正專注於這些機會，而不是尋求在美國建冶煉廠“。
-
----
-
-### 2026-07-29 12:36:20  #公司
-
-【南網能源：相關限制消費措施已解除 未對公司生產經營活動造成影響】就“網傳廣州當地的法院對公司董事長執行限制消費令，是否意味著公司的經營遇到重大困難？”的提問，南網能源(003035)在互動平臺回覆稱，針對7月28日網路上出現的關於公司的相關資訊，公司高度重視，第一時間與廣州市黃埔區人民法院進行了積極溝通。經核實，該事項源於一起建設工程合同糾紛案件，相關事宜已得到妥善處置，7月28日當天公司已取得法院出具的解除限制消費令的執行通知書[（2026）粵0112執8213號）]，相關限制消費措施已解除。該事項未對公司日常生產經營活動造成影響，目前公司經營管理一切正常。
-
----
-
-### 2026-07-29 12:36:13  #其他
-
-【機構：DRAM超越SoC成為旗艦智慧手機中最昂貴單一元器件】根據Counterpoint Research記憶體價格跟蹤，智慧手機記憶體價格在2026年第二季度環比增長了80%以上。這種顯著的增長對智慧手機BOM成本造成了持續的結構性影響。根據該機構估算，與2025年推出的同級別型號相比，2026年智慧手機的BoM成本結構發生了進一步的改變。2026年第二季度，低端機型（批發價800美元）方面，旗艦級別機型的BOM成本也同比增長了接近50%。DRAM超越SoC，成為旗艦智慧手機中最昂貴的單一元器件。
-
----
-
-### 2026-07-29 12:35:38  #國際
-
-約旦稱擊落五枚來自伊朗的導彈。
-
----
-
-### 2026-07-29 12:35:23  #MKT News #Important
-
-Jordan's state news agency Petra said Jordan shot down five missiles launched from Iran.
-
----
-
-### 2026-07-29 12:35:02  #國際
-
-塔斯社報道，俄羅斯線上零售商Wildberries已疏散其位於俄羅斯梁贊州的物流中心。
-
----
-
-### 2026-07-29 12:34:41  #其他
-
-加拿大皇家銀行將VISA目標價從395美元上調至412美元。
-
----
-
-### 2026-07-29 12:34:14  #其他
-
-【江西省人大常委會會議表決透過一批人事事項】江西省第十四屆人民代表大會常務委員會第二十四次會議，於7月29日決定：免去王新有的江西省人民代表大會法制委員會副主任委員職務。接受張瑩（女）辭去江西省人民政府副省長職務的請求，並報江西省第十四屆人民代表大會第五次會議備案。接受王新有辭去江西省第十四屆人民代表大會常務委員會委員職務的請求，並報江西省第十四屆人民代表大會第五次會議備案。
-
----
-
-### 2026-07-29 12:33:51  #MKT News #V.O #Impact bullish
-
-RBC raises Visa (V.N) PT to $412 from $395.
-
----
-
-### 2026-07-29 12:33:34  #國際
-
-【伊拉克“人民動員組織”證實遭美國及沙特襲擊】當地時間29日，伊拉克什葉派民兵武裝“人民動員組織”發表宣告稱，美國和沙特當天凌晨針對伊拉克境內多地的“人民動員組織”機構發動襲擊，造成多人死傷。宣告譴責美沙襲擊激化該地區局勢，侵犯伊拉克主權及其官方安全機構安全。該組織正在密切跟進當地局勢，統計和評估此輪襲擊造成的損失。另據伊拉克北部尼尼微省“人民動員組織”作戰指揮部宣告，美沙當天凌晨對該指揮部的空襲已致8人死亡、4人受傷。（央視新聞）
-
----
-
-### 2026-07-29 12:33:32  #MKT News #Copper #Impact bearish
-
-Rio Tinto (RIO.N) CEO said the company is monitoring rising U.S. copper inventories to prepare to respond to a tariff decision.
 
 ---

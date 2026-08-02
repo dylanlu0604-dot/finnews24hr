@@ -1,7 +1,307 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-02 21:49:58_
-_本檔包含 3534 則快訊，約 669317 字_
+_更新時間：2026-08-02 23:14:16_
+_本檔包含 3562 則快訊，約 670134 字_
+
+---
+
+### 2026-07-31 14:04:03  #MKT News #Commodities #Energy #SHEL.N
+
+Shell (SHEL.N) said BG Cyprus will hold a 35% non-operated interest in Cyprus offshore Block 12; the transaction is expected to close in early 2027.
+
+---
+
+### 2026-07-31 14:03:36  #MKT News #SHEL.N
+
+Shell (SHEL.N) has agreed to sell its wholly owned subsidiary BG Cyprus to MOL Group for up to $720 million.
+
+---
+
+### 2026-07-31 14:03:32  #公司 #市場
+
+【電機板塊持續走高，臥龍電驅漲停】電機板塊持續走高，臥龍電驅漲停，神力股份、晨光電機、兆威機電、江蘇雷利、通達動力等跟漲。
+
+---
+
+### 2026-07-31 14:03:07  #公司
+
+殼牌：已達成協議，將其全資子公司BG塞普勒斯有限公司出售給摩爾集團，交易總金額最高達7.2億美元；該交易價格受慣常調整以及與里程碑掛鉤的或有付款條款約束。
+
+---
+
+### 2026-07-31 14:02:46  #央行 #其他
+
+亞塞拜然央行將關鍵再融資利率維持在6.5%（此前為6.5%）。
+
+---
+
+### 2026-07-31 14:02:28  #MKT News
+
+Azerbaijan's central bank left its key refinancing rate unchanged at 6.5%.
+
+---
+
+### 2026-07-31 14:02:20  #公司
+
+彪馬股份公司（PUMA SE）：北美銷售額按固定匯率計算下滑16.7%，主要受消費者需求走弱，以及縮減與大眾零售商非合意業務的影響。
+
+---
+
+### 2026-07-31 14:02:07  #MKT News #Market Themes #AI Revolution
+
+【DeepSeek launches public beta of DeepSeek-V4-Flash API; DeepSeek-V4-Pro release due soon】DeepSeek launched a public beta for the official DeepSeek‑V4‑Flash API. The DeepSeek‑V4‑Flash‑0731 model keeps the same architecture and size as the DeepSeek‑V4‑Flash‑preview and has only undergone post-training. The company says the formal DeepSeek‑V4‑Pro release will follow shortly.
+
+---
+
+### 2026-07-31 14:01:44  #公司 #國際
+
+彪馬股份公司：受地區衝突影響，中東地區銷售額大幅下滑。
+
+---
+
+### 2026-07-31 14:01:17  #MKT News #DAX #Impact bullish #FTSE100
+
+STOXX Europe 50 futures up 0.8%; DAX futures up 0.58%; FTSE 100 futures up 0.51%.
+
+---
+
+### 2026-07-31 14:01:07  #市場 #國際
+
+歐洲斯托克50指數期貨上漲0.8%，德國DAX指數期貨上漲0.58%，英國富時指數期貨上漲0.51%。
+
+---
+
+### 2026-07-31 14:00:16  #資料
+
+英國7月Nationwide房價指數月率 0.1%，預期0.10%，前值0.00%。英國7月Nationwide房價指數年率 1.8%，預期1.90%，前值2.20%。
+
+---
+
+### 2026-07-31 14:00:14  #MKT News #Important #Market Regions #Europe & UK #GBPUSD
+
+UK Nationwide house price index MoM +0.1% in July, matching expected +0.1%; June revised 0.0%.
+
+---
+
+### 2026-07-31 14:00:14  #MKT News #GBPUSD #Impact bearish #FTSE100 #Impact mixed
+
+UK July Nationwide house price index YoY 1.8% vs 1.9% expected, down from June's 2.2%.
+
+---
+
+### 2026-07-31 14:00:06  #MKT News #Economic Calendar #Important
+
+United Kingdom | Nationwide House Price Index (YoY) (Jul) | actual 1.8% | consensus 1.90% | previous 2.20%
+
+---
+
+### 2026-07-31 14:00:06  #MKT News #Economic Calendar #Important
+
+United Kingdom | Nationwide House Price Index (MoM) (Jul) | actual 0.1% | consensus 0.10% | previous 0.00%
+
+---
+
+### 2026-07-31 13:59:53  #其他
+
+【DeepSeek：DeepSeek-V4-Flash 正式版 API 上線公測 DeepSeek-V4-Pro 正式版將會盡快釋出】DeepSeek釋出更新日誌，DeepSeek-V4-Flash 正式版 API 上線公測。DeepSeek-V4-Flash-0731 的模型結構、尺寸和 DeepSeek-V4-Flash-preview 保持一致，僅重新進行了後訓練。DeepSeek-V4-Pro 正式版將會盡快釋出。（DeepSeek）
+
+---
+
+### 2026-07-31 13:59:34  #其他
+
+【上海閔行：“十五五”期間力爭生物醫藥產值年均增長9%左右】上海市閔行區人民政府印發《虹橋國際中央商務區（閔行部分）“十五五”規劃》。其中提出，培育高質量創新發展新動力。現代化產業體系基本成型，生物醫藥產值年均增長9%左右，累計引育長三角製造業研發機構200家，其中高能級企業研發機構80家，“虹橋研發+長三角製造+全球應用”協同正規化成為全國標杆。科創策源與產業轉化功能進一步強化，成為培育新質生產力的核心動力源。
+
+---
+
+### 2026-07-31 13:59:28  #其他
+
+村田社長：資料中心總支出不會大幅下降。
+
+---
+
+### 2026-07-31 13:59:27  #Trading Economics #Economy #Kenya #Inflation Rate #Importance 1
+
+Kenya Inflation Rate Edges Up to 6.5% — The annual inflation rate in Kenya edged up to 6.5% in July 2026 from 6.4% in the previous month, remaining above the midpoint of the central bank's 2.5%-7.5% target range for a third consecutive period. The main upward pressure came from transport prices, which rose 15.6% year-on-year, reflecting the pass-through effects of earlier fuel price increases despite unchanged pump prices during the mid-month review. Food and non-alcoholic beverage inflation also remained elevated at 9.0%. Meanwhile, core inflation, which excludes selected volatile items, accelerated slightly to 3.2% from 3.1% in June, pointing to growing underlying price pressures.
+
+---
+
+### 2026-07-31 13:58:41  #宏觀
+
+【華福證券任志強：政策組合拳的輪廓更加清晰】中共中央政治局7月30日召開會議，分析研究當前經濟形勢，部署下半年經濟工作。華福證券總裁助理兼研究所所長任志強接受採訪時表示，下半年宏觀政策或將進入存量加速與增量加力的共振視窗期，新舊動能轉換有望提速，資本市場改革預期升溫。“本次政治局會議的政策定調更加積極，政策組合拳的輪廓更加清晰。”任志強說，政策底進一步夯實。會議明確“加大逆週期調節力度”，宏觀政策從“穩”向“進”的轉變訊號明確，有助於提振市場信心、改善市場預期。其次，“加快推動新舊動能轉換”的提法意味著產業轉型升級的政策力度或將進一步加大，新質生產力方向是中長期最具確定性的投資主線。同時，內需鏈條有望邊際改善。隨著財政加快支出、貨幣適度寬鬆、“六張網”加速落地，基建投資鏈、服務消費鏈有望迎來階段性修復機會。此外，資本市場改革預期升溫，後續資本市場投融資改革的推進值得期待。 （證券時報）
+
+---
+
+### 2026-07-31 13:57:39  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Reverses Morning Gains, but Posts Monthly Gain — New Zealand's stocks dropped 64 points, or 0.5%, to 13,699 on Friday, extending losses from the previous session, as traders continued profit-taking after the index hit a third consecutive record high, mainly weighed down by communication services, consumer staples, and real estate. A rebound in the global technology sector was offset by a contraction in China's manufacturing sector, New Zealand's top trading partner. Traders were also cautious ahead of the release of New Zealand's unemployment data due next week. However, the latest data helped limit the decline, as New Zealand's consumer confidence hit a five-month high, while moderating oil prices eased inflation concerns and tempered expectations of an interest rate hike. Among the worst performers were A2 Milk (-2.6%), Ryman Healthcare (-2.3%), Chorus (-2.0%), and Ebos Group (-1.0%). For the week, the index fell 0.2%, while posting a 0.6% increase for the month, marking the sixth straight monthly gain.
+
+---
+
+### 2026-07-31 13:55:16  #公司
+
+【申能財險獲批開展保險資金境外投資業務】上海金融監管局官網顯示，批覆同意申能財險開展保險資金境外投資業務，用於該公司申請的境外資產。
+
+---
+
+### 2026-07-31 13:54:28  #其他
+
+國家發展改革委決定對《國家以工代賑管理辦法》（國家發展改革委令2023年第57號）等69件規章和行政規範性檔案予以修改或廢止。
+
+---
+
+### 2026-07-31 13:53:26  #Trading Economics #Markets #Commodity #Importance 1
+
+Palm Oil Eases But Remains on Track for First Monthly Gain Since March — Malaysian palm oil futures slipped below MYR 4,650 per tonne, reversing recent gains as softer rival oils in Dalian and Chicago pressured sentiment. The benchmark contract was set to close the week down about 1.7% so far, ending a three-week winning run, after Indonesia, the world's largest palm oil producer, cut its August crude palm oil reference price to USD 996.52 per tonne from USD 1,000.90 in July. Still, prices remained roughly 2% higher for the month, the first monthly rise in four months, supported by about a 20% surge in crude oil during July as U.S.-Iran diplomacy eased Middle East tensions, boosting palm’s biodiesel appeal. Export demand also stayed firm, with cargo surveyors noting July 1-25 shipments up between 8.1%-15.9% from the same period in June. Further support came from higher blending mandates in Indonesia and Malaysia, weather risks to next year’s Malaysian output, and hopes of stronger imports by top buyer India between July and October ahead of festive demand.
+
+---
+
+### 2026-07-31 13:51:06  #其他
+
+KBW將萬事達卡目標價從665美元上調至685美元。
+
+---
+
+### 2026-07-31 13:48:32  #市場 #焦點
+
+焦煤連續主力合約日內跌4%，現報1186.00元。
+
+---
+
+### 2026-07-31 13:47:07  #公司
+
+法國電力公司（EDF）預計，2026年和2027年法國核電發電量將達到350太瓦時至370太瓦時。
+
+---
+
+### 2026-07-31 13:46:13  #公司
+
+【潤六尺科技：華為相關業務團隊到訪公司 深化推進國產算力合作】記者從潤六尺科技獲悉，近日，華為技術有限公司相關業務團隊到訪潤六尺科技，雙方就國產算力基礎設施的行業趨勢、應用場景及合作模式進行了深入交流與探討，標誌著雙方在算力服務領域的合作邁出了實質性步伐。當前，深圳等多個城市的算力基礎設施專案已陸續啟動，全國各地的資料局也在密集推動相關規劃，國產算力的市場視窗正在全面開啟。面對這一歷史性機遇，雙方都認為，產業鏈各方應當發揮各自優勢，形成合力。下一步，雙方將繼續深化溝通，圍繞具體專案探索更加高效、務實的合作路徑，共同推動國產算力從技術優勢轉化為產業價值。
+
+---
+
+### 2026-07-31 13:44:22  #其他
+
+傑富瑞將法拉利目標價從380歐元上調至400歐元。
+
+---
+
+### 2026-07-31 13:43:06  #其他
+
+【中國銀河證券：Kimi K3釋出推動AI商業化提速 開源生態持續推動AI應用生態發展】中國銀河證券釋出研報稱，模型平權有望延續，開源生態推動應用端發展。在人工智慧發展程序中，開源生態的發展有效推動了模型平權，推動了應用端的快速發展：開源推理模型的顯著成本優勢，大幅降低企業技術接入門檻，為應用端釋放創新活力提供了土壤，進而推動AI應用生態進入良性發展軌道。該行認為，從國內網際網路大廠的近期佈局來看，模型效能趨同的趨勢或將延續，開源生態將持續推動AI應用生態發展。
+
+---
+
+### 2026-07-31 13:41:34  #宏觀
+
+【我國將多舉措推動經濟持續向新向優向好發展】從國家發展改革委2026年上半年發展改革形勢通報會上瞭解到，下半年，我國將多措並舉推動經濟持續向新向優向好發展。國家發展改革委表示，下半年要抓好“十五五”規劃部署落實，宏觀政策要發力提效，加大逆週期調節力度，充分發揮各項存量政策效能，及時謀劃出臺務實管用的增量政策，強化宏觀政策取向一致性。在有效擴大國內需求方面，將促進投資止跌回穩，協同推進109項重大工程和“六張網”規劃建設，紮實推進“兩重”建設和“兩新”工作，重點聚焦投資空間大、民營企業投資意願強的成長性行業領域推出一批政策措施，讓民間投資“放心投”“投得動”“多參與”；大力穩定提振消費，推動促消費政策落地。在加快建設現代化產業體系方面，將堅持因地制宜、分類施策培育壯大新興產業和未來產業；深入實施“東數西算”工程，統籌佈局、有序建設算力設施；加快打造一批人工智慧標杆應用，在製造、農業、能源等重點行業加快賦能，加快人工智慧法立法程序；促進服務業優質高效發展，推動重點行業提質降本降碳。在全面深化改革方面，將縱深推進全國統一大市場建設，營造公平有序的市場競爭環境，系統推進場景培育和開放，深化國資國企改革，依法促進民營經濟高質量發展，保護民營企業合法權益，支援民營企業參與國家重大專案。（央視新聞）
+
+---
+
+### 2026-07-31 13:40:54  #公司 #市場
+
+【固態電池概念震盪走強 星雲股份漲超10%】午後固態電池概念震盪走強，星雲股份、海順新材漲超10%，此前中國寶安2連板，武漢藍電、雙傑電氣、靈鴿科技、納科諾爾、金龍羽等跟漲。
+
+---
+
+### 2026-07-31 13:39:18  #宏觀
+
+【財信證券袁闖：政治局會議釋放穩預期訊號 短期A股市場有望夯實階段性底部】7月30日召開的中央政治局會議強調，深化資本市場投融資綜合改革，提升資本市場韌性和信心。針對本次會議釋放的政策訊號及當前市場形勢，財信證券首席經濟學家袁闖在接受採訪時表示，近期A股市場出現一定幅度的震盪回撥，前期熱門方向調整更為明顯，市場短期分歧有所增加。在此背景下，會議明確提出“深化資本市場投融資綜合改革，提升資本市場韌性和信心”，體現了對資本市場平穩健康發展的積極呵護，有助於穩定市場預期。展望後市，袁闖認為，隨著“雙寬鬆”政策基調延續，疊加我國經濟應對外部衝擊的能力持續提升，以及產業鏈韌性與全球競爭力日益突出，國內經濟政策和形勢的確定性有望進一步鞏固中國資產的比較優勢，2026年A股市場大機率延續震盪上行態勢。短期技術面上，他認為7月底前後市場有望逐步夯實階段性底部，建議投資者保持耐心，等待趨勢明朗後擇機佈局。（上證報）
+
+---
+
+### 2026-07-31 13:37:55  #公司
+
+傑富瑞將亞馬遜目標價從320美元上調至330美元。
+
+---
+
+### 2026-07-31 13:36:46  #市場 #焦點
+
+滬深兩市成交額超2萬億元，較上日此時放量2238億元。
+
+---
+
+### 2026-07-31 13:36:03  #市場 #焦點
+
+碳酸鋰連續主力合約日內跌4%，現報138940.00元。
+
+---
+
+### 2026-07-31 13:35:10  #其他
+
+臺灣證交所加權股價指數收高8%報43,119.75。
+
+---
+
+### 2026-07-31 13:34:10  #Trading Economics #Markets #South Korea #Currency #Importance 1
+
+South Korean Won Eases from 9-Month High — The South Korean won traded around 1,435 per dollar in late July, easing from its strongest level in nine months near 1,418, as the initial boost from reports of foreign exchange intervention by South Korean authorities faded. The currency had strengthened sharply alongside the Japanese yen after markets speculated that Seoul and Tokyo may have taken steps to support their currencies, but both reversed some gains as investors assessed the sustainability of the moves. Despite the pullback, the won has gained more than 8% against the US dollar this month, marking its strongest monthly performance since March 2009. Global risk sentiment improved following a rebound in technology stocks, reducing demand for the greenback. Stronger foreign investor activity in South Korean equities boosted currency flows, while expectations of continued AI-led semiconductor export growth reinforced Korea's external position.
+
+---
+
+### 2026-07-31 13:31:47  #公司 #國際
+
+韓華航空航天公司：正在美國尋找建設彈藥工廠的選址。
+
+---
+
+### 2026-07-31 13:30:47  #市場 #焦點
+
+苯乙烯連續主力合約日內跌3%，現報8330.00元。
+
+---
+
+### 2026-07-31 13:30:46  #市場 #焦點
+
+上海原油連續主力合約日內跌4%，現報538.40元。
+
+---
+
+### 2026-07-31 13:30:19  #市場 #焦點 #國際
+
+韓國KOSPI指數站上6600點，日內漲18.00%。
+
+---
+
+### 2026-07-31 13:30:11  #市場 #焦點
+
+燃料油連續主力合約日內跌4%，現報3517.00元。
+
+---
+
+### 2026-07-31 13:30:07  #市場 #焦點
+
+布倫特原油失守85美元/桶，日內跌2.19%。
+
+---
+
+### 2026-07-31 13:27:33  #其他
+
+派傑投資將萬事達卡目標價從597美元上調至710美元。
+
+---
+
+### 2026-07-31 13:27:07  #Trading Economics #Economy #Japan #Interest Rate #Importance 1
+
+BoJ to Hold Eight Policy Meetings in 2027 — The Bank of Japan will hold eight Monetary Policy Meetings in 2027, convening in January, March, April, June, July, September, October, and December. In its statement, the central bank noted that the quarterly Outlook Report will be released four times during the year: January, April, July, and October, to provide updated assessments of economic and price developments.
+
+---
+
+### 2026-07-31 13:26:28  #公司
+
+南方兩倍做多海力士漲超70%，南方兩倍做多三星電子現漲超57%。
+
+---
+
+### 2026-07-31 13:25:15  #其他
+
+【大曉機器人開源多模態具身物理智慧資料集】大曉機器人近日聯合南洋理工大學S-Lab開源L5級多模態具身物理智慧資料集ACE-Data-0，為全球具身模型提供面向泛化、反思與進化的資料底座，推動通用物理智慧加速實驗驗證，走向規模化產業落地。據悉，ACE-Data-0包含150小時資料、1700萬幀影片、200個任務類別。
+
+---
+
+### 2026-07-31 13:22:02  #Trading Economics #Economy #Estonia #Retail Sales YoY #Importance 1
+
+Estonia Retail Sales Rebound in June — Retail sales in Estonia increased 0.8% year-on-year in June 2026, rebounding from a 1.1% decline in the previous month. Sales of food, beverages, and tobacco recovered, rising 1.0% following a 0.4% decline in May, while the drop in sales of non-food products excluding fuel eased significantly to 0.1% from 4.6%. Meanwhile, sales growth for automotive fuel in specialised stores slowed to 0.4% from 2.3% in the previous month. On a monthly basis, retail sales climbed 1.9% in June, accelerating from a modest 0.1% increase in May and marking the strongest monthly gain since March.
 
 ---
 
@@ -21188,137 +21488,5 @@ SK創新：第二季度淨利潤為2150億韓元，倫敦證券交易所集團�
 ### 2026-07-30 14:41:27  #其他
 
 【土耳其多地野火蔓延 熱門景區受影響】受高溫、乾燥和強風天氣影響，土耳其29日多地發生野火。消防部門出動大量人員撲救，部分熱門旅遊景區受影響，數百人被緊急疏散。土耳其總統埃爾多安當晚說，當天全國發生約90起火災，其中81起已得到控制，超過3000名消防人員正在撲救其餘火災。據當地媒體報道，目前暫無人員傷亡報告。（央視新聞）
-
----
-
-### 2026-07-30 14:41:16  #其他
-
-AI伺服器製造商技嘉據悉尋求15億美元銀團貸款。
-
----
-
-### 2026-07-30 14:40:33  #其他
-
-【溢價率80.44%，上海浦東新楊思商業地塊以27.05億元成交】2026年7月30日，上海浦東新區楊思社群商業文體組合地塊公開出讓並完成交易，成交總價約27.05億元，溢價率達80.44%。這也是上海近年來罕見上新的純商業地塊。
-
----
-
-### 2026-07-30 14:40:33
-
-【中共中央政治局會議：完善對外投資管理制度和海外綜合服務體系】中共中央政治局7月30日召開會議，會議指出，要拓展國際經貿互利合作空間，大力發展服務貿易，促進貿易平衡發展。完善對外投資管理制度和海外綜合服務體系，積極吸引和利用外資。（新華社）
-
----
-
-### 2026-07-30 14:39:45  #MKT News #CSI300 #Impact bullish #SSE Composite
-
-【CPC Politburo meeting: bolster social safety net; protect flexible and new-form workers' rights】The CPC Politburo on July 30 called for stepped-up measures to strengthen the social safety net, increase employment support for priority groups, and protect rights of flexible and new-form workers, including gig-economy participants. It directed improvements to elder and childcare services and the development of a layered, categorized social assistance system. The meeting also pushed for stronger ecological protection, renewed emphasis on the Three-North shelterbelt afforestation project, and an active, steady advance of China’s carbon-peak and carbon-neutrality goals.
-
----
-
-### 2026-07-30 14:39:23
-
-【中共中央政治局會議：深化資本市場投融資綜合改革 提升資本市場韌性和信心】中共中央政治局7月30日召開會議，會議強調，要切實築牢安全屏障。穩定房地產市場，實施好一攬子化債方案，紮實推進地方中小金融機構改革化險、減量提質。深化資本市場投融資綜合改革，提升資本市場韌性和信心。深入排查整治各類風險隱患，堅決遏制重特大事故發生。加強對病險水庫、江河堤防、山洪和地質災害危險區、城市低窪易澇點等隱患排查治理，紮實做好防汛應急搶險救災各項工作，全力維護人民群眾生命財產安全。（新華社）
-
----
-
-### 2026-07-30 14:39:13  #宏觀 #焦點
-
-【中共中央政治局：制定實施全國統一大市場建設條例 繼續綜合整治“內卷式”競爭】中共中央政治局7月30日召開會議，會議強調，要營造公平有序的市場競爭環境，制定實施全國統一大市場建設條例，繼續綜合整治“內卷式”競爭，常態化解決企業賬款拖欠問題。深化國資國企改革，最佳化民營經濟發展環境，推動平臺經濟規範健康發展。
-
----
-
-### 2026-07-30 14:39:13  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-【China Politburo urges stabilization of hog and other farm-product production and prices】China's Politburo met July 30 and urged sustained support for agriculture, consolidation of poverty-alleviation gains, and establishment of mechanisms for construction, operation and maintenance of high-standard farmland. It called for stabilizing production and prices of hogs and other agricultural and livestock products, ensuring supply and price stability for agricultural inputs, securing the autumn grain crop and a full-year harvest, and supporting stable farmer incomes.
-
----
-
-### 2026-07-30 14:38:56  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #DXY #Impact bearish
-
-【CPC Politburo meeting: improve foreign investment management and overseas comprehensive service system】The CPC Politburo met on July 30 and instructed authorities to expand international trade cooperation, accelerate services trade to help rebalance trade, improve the foreign investment management regime and overseas comprehensive service system, and actively attract and utilize foreign capital.
-
----
-
-### 2026-07-30 14:38:48
-
-【中共中央政治局：紮實推進“六張網”規劃建設 深入實施“人工智慧＋”行動】中共中央政治局7月30日召開會議，會議強調，要有效擴大國內需求，適應不同群體消費需求擴大優質供給，挖掘服務消費潛力。紮實推進“六張網”規劃建設。加快現代化產業體系建設，加強對基礎研究的長期穩定支援，深入實施“人工智慧＋”行動，發展智慧經濟新形態，完善人工智慧治理體系。積極推動前沿技術突破和未來產業發展，著力打造新興支柱產業，持續推動傳統產業改造升級。
-
----
-
-### 2026-07-30 14:38:39  #宏觀
-
-法國財政部長：第二季度資料對於2026年整體增長預測而言令人安心。
-
----
-
-### 2026-07-30 14:38:33  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #CNH
-
-【Politburo meeting: deepen capital market investment‑financing reform, bolster market resilience and confidence】The Politburo of the CPC Central Committee met July 30 and directed measures to stabilize the China property market and implement a debt‑restructuring package for the property sector. It ordered reforms of local small‑ and medium‑sized financial institutions to defuse risks, shrink exposures and raise asset quality, called for deeper comprehensive reform of capital‑market investment‑financing to enhance market resilience and confidence, and required thorough risk inspections and strengthened disaster‑prevention work.
-
----
-
-### 2026-07-30 14:38:24  #宏觀
-
-【中共中央政治局：紮實推進“六張網”規劃建設 深入實施“人工智慧+”行動】中共中央政治局7月30日召開會議，會議強調，要有效擴大國內需求，適應不同群體消費需求擴大優質供給，挖掘服務消費潛力。紮實推進“六張網”規劃建設。加快現代化產業體系建設，加強對基礎研究的長期穩定支援，深入實施“人工智慧+”行動，發展智慧經濟新形態，完善人工智慧治理體系。積極推動前沿技術突破和未來產業發展，著力打造新興支柱產業，持續推動傳統產業改造升級。
-
----
-
-### 2026-07-30 14:38:06
-
-【中共中央政治局會議：加快推動新舊動能轉換 實施好更加積極的財政政策和適度寬鬆的貨幣政策】中共中央政治局7月30日召開會議，會議強調，做好下半年經濟工作，要堅持以習近平新時代中國特色社會主義思想為指導，堅持穩中求進工作總基調，完整準確全面貫徹新發展理念，加快構建新發展格局，更好統籌國內國際兩個大局，統籌發展和安全，堅持深化改革開放，加快推動新舊動能轉換，實施好更加積極的財政政策和適度寬鬆的貨幣政策，充分發揮各項存量政策效能，及時謀劃出臺務實管用的增量政策，加大逆週期調節力度，加力擴大內需、最佳化供給，切實保障和改善民生，增強發展動力、激發社會活力，推動經濟持續向新向優向好發展，努力實現“十五五”良好開局。（新華社）
-
----
-
-### 2026-07-30 14:37:26  #MKT News #Important #CSI300 #Impact bullish #CNH #Impact mixed #Hang Seng Index
-
-【China Politburo meeting: expand domestic demand, accelerate frontier technology and future-industry development】China's Politburo on July 30 called for effective expansion of domestic demand, raising high-quality supply to meet diverse consumer groups and tapping service-consumption potential. It urged steady progress on the "six networks" planning and construction and accelerated development of a modernized industrial system. The meeting directed stronger long-term support for basic research, deep implementation of the "AI+" initiative, development of an intelligent economy and improvement of AI governance. It also pushed active promotion of frontier-technology breakthroughs and future industries, building emerging pillar sectors while continuing transformation and upgrading of traditional industries.
-
----
-
-### 2026-07-30 14:37:19  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-ASX 200 Falls 0.8% at Close — The ASX 200 slipped 71 points, or 0.8%, to finish at 8,968 on Thursday, halting a three-day rally and retreating from a near five-month high. Profit-taking followed Wall Street’s plunge on Wednesday, as traders weighed the U.S. Fed’s decision to hold interest rates steady, with three officials favoring a 25bps hike. Geopolitical tensions added pressure after Iran’s surprise strikes on U.S. bases in Jordan. At home, the Reserve Bank of Australia Assistant Governor Sarah Hunter noted headline inflation is easing, though housing and services costs remain sticky. Losses were widespread, led by tech, logistics, retail, and non-energy minerals. Softer iron ore and copper prices dragged BHP Group (-1.4%) and Fortescue (-0.9%). Gold miners tumbled, with steep losses in Northern Star Resources (-3.5%) and Evolution Mining (-2.8%). Two of the big four banks slipped between 0.5% and 0.8%. Bucking the trend, Domino Pizza surged 8.6% after reaffirming its annual profit outlook despite write-downs.
-
----
-
-### 2026-07-30 14:36:59  #宏觀 #焦點
-
-【中共中央政治局：充分發揮各項存量政策效能，及時謀劃出臺務實管用的增量政策】中共中央政治局召開會議，會議強調，做好下半年經濟工作，要堅持以習近平新時代中國特色社會主義思想為指導，堅持穩中求進工作總基調，完整準確全面貫徹新發展理念，加快構建新發展格局，更好統籌國內國際兩個大局，統籌發展和安全，堅持深化改革開放，加快推動新舊動能轉換，實施好更加積極的財政政策和適度寬鬆的貨幣政策，充分發揮各項存量政策效能，及時謀劃出臺務實管用的增量政策，加大逆週期調節力度，加力擴大內需、最佳化供給，切實保障和改善民生，增強發展動力、激發社會活力，推動經濟持續向新向優向好發展，努力實現“十五五”良好開局。（新華社）
-
----
-
-### 2026-07-30 14:36:54
-
-【中共中央政治局會議：宏觀政策要發力提效 加快財政支出和債券資金使用進度】中共中央政治局7月30日召開會議，會議指出，宏觀政策要發力提效，加快財政支出和債券資金使用進度，有力推進“兩重”建設和“兩新”工作。兜牢基層“三保”底線。綜合運用並適時調整貨幣政策工具，最佳化實施財政金融協同促內需政策。（新華社）
-
----
-
-### 2026-07-30 14:36:53  #MKT News #Important #Market Regions #Greater China #CNH #Impact bearish #Hang Seng Index #Impact bullish #Copper
-
-【Politburo meeting: accelerate shift to new growth drivers; implement more proactive fiscal and moderately accommodative monetary policy】The Politburo met on July 30 and said H2 economic work should accelerate the conversion to new growth drivers and implement a more proactive fiscal policy alongside a moderately accommodative monetary policy. It called for full use of existing stock policies, timely design of practical incremental measures, stronger countercyclical adjustment, deeper reform and opening-up, balancing development and security, expansion of domestic demand, supply-side optimization, and measures to safeguard and improve livelihoods to sustain momentum and secure a good start to the 15th Five-Year Plan.
-
----
-
-### 2026-07-30 14:36:40  #宏觀
-
-法國財政部長：第二季度國內生產總值資料顯示法國經濟具有韌性。
-
----
-
-### 2026-07-30 14:36:39  #其他
-
-【世紀華通總裁謝斐：原創力不來自廣度，而來自深度】7月30日下午訊息，中國國際娛樂數字產業大會召開。會上，世紀華通總裁謝斐發表演講提出觀點：原創力不來自廣度，而來自深度。她分享了過往的經歷：“過去兩年，AI大模型把內容生產的門檻幾乎降到了零。圖片生成按秒計，影片生成按分鐘計。團隊告訴我，現在一個人用AI工具一天產出的營銷素材量，抵得上過去五個人的團隊一週的工作量。”她表示：“但這也帶來了一個反直覺的結果：當所有人都跑得快的時候，而拉開差距的反而是那些“快不了”的事——是對一個方向的持續理解；是對使用者需求的長期跟蹤；是在別人換賽道的時候，你選擇把眼前這條路走到極致。”謝婓表示，過去幾年也交了不少學費：新立項的產品，資料和預期差距很大。覆盤時發現，犯的根本錯誤不是執行，而是從一開始就沒有想清楚“憑什麼我們能做好它”。我們以為自己能“學習”，但使用者需要的不是複製品。她強調：“原創基因的形成，關鍵不在於“做什麼”，而在於“不做什麼”。知道自己不做什麼，比知道做什麼更難。行業裡那些穿越了週期的經典IP也是如此。它們不是靠守舊活下來的，而是不斷用新技術、新渠道來重新表達自己，讓存量長出了增量。所以原創力的深度，本身就是最稀缺的原創力。”（新浪科技）
-
----
-
-### 2026-07-30 14:36:06  #MKT News #Important #CSI300 #Impact bullish #Copper #CNH #Impact mixed
-
-【China Politburo says macro policy must step up; accelerate fiscal spending and use of bond proceeds】China's Politburo met on July 30 and said macro policy must step up and be more effective, directing faster fiscal spending and accelerated use of bond proceeds. It called for safeguarding basic social protections, comprehensive use and timely adjustment of monetary-policy tools, and optimized fiscal–financial coordination to boost domestic demand.
-
----
-
-### 2026-07-30 14:35:38  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Falls as Markets Reassess Fed Outlook — Silver fell toward $57 an ounce on Thursday, giving back the previous session’s gains as traders reassessed the Federal Reserve’s policy outlook after the central bank left interest rates unchanged. Three FOMC members dissented in favor of a rate hike, while Chair Kevin Warsh emphasized that the decision to keep rates steady should not be viewed as a sign of policy inertia, adding that markets would continue to respond to incoming economic data. Markets are now pricing in roughly a 67% chance of a 25-basis-point Fed rate hike in September, up from 56% a day earlier, while expectations for a larger 50-basis-point increase have largely disappeared. Silver also came under pressure from rallying oil prices after the US launched a fresh wave of strikes against Iran in response to attacks on American forces across the Middle East, raising concerns about further disruptions to global energy supplies.
 
 ---

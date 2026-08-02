@@ -1,7 +1,313 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-02 21:49:58_
-_本檔包含 3639 則快訊，約 669067 字_
+_更新時間：2026-08-02 23:14:16_
+_本檔包含 3668 則快訊，約 670352 字_
+
+---
+
+### 2026-07-29 13:01:49  #公司 #市場
+
+渣打集團港股逆轉跌勢，漲逾2%，因上半年盈利超預期且宣佈新股份回購計劃。
+
+---
+
+### 2026-07-29 13:00:56  #市場 #焦點
+
+滬深兩市成交額超1.5萬億元，較上日此時放量1565億元。
+
+---
+
+### 2026-07-29 13:00:43  #其他
+
+巴斯夫仍然預測全年調整後EBITDA 69億歐元至77億歐元。
+
+---
+
+### 2026-07-29 13:00:33  #其他
+
+巴斯夫第二季度調整後EBITDA 24.5億歐元，同比+54%。巴斯夫第二季度調整後每股收益1.28歐元，預估0.98歐元。
+
+---
+
+### 2026-07-29 13:00:06  #其他
+
+德意志銀行第二季度除稅前利潤26.8億歐元，預估23.9億歐元。德意志銀行第二季度淨營收84.8億歐元，預估81.3億歐元。
+
+---
+
+### 2026-07-29 12:59:52  #市場
+
+韓元兌美元漲幅擴大至0.7%，領跑新興市場亞洲外匯市場。
+
+---
+
+### 2026-07-29 12:57:01  #國際
+
+【日本熊本縣震後一造紙廠多人被困】7月29日，據日本熊本縣災害對策總部訊息，八代市“日本製紙”工廠在地震後一個煙囪發生崩塌，並有11人被困，其中4人已獲救，但其中2人處於心肺停止狀態，2人受重傷，另外7人安危不明。同時，熊本縣地震災區停水停電的情況還在持續，目前當地還有超過3萬戶家庭處於停電狀態。熊本地震災區持續高溫，八代市氣溫超過30度，停水停電的情況也給當地的救援帶來了很多難題。截至目前，熊本縣強震已造成13人死亡，數十人受傷。熊本縣警方表示，地震傷亡人數可能還會繼續上升。（CCTV國際時訊）
+
+---
+
+### 2026-07-29 12:56:37  #其他
+
+【西太平洋銀行前首席經濟學家比爾·埃文斯因癌症去世】西太平洋銀行（Westpac）前首席經濟學家比爾・埃文斯（Bill Evans）因癌症醫治無效離世，其家屬釋出訃告證實了這一訊息。該行對外發布家屬宣告稱，埃文斯於週二晚間在墨爾本一家醫院離世，當天恰逢他 76 歲生日。家屬表示：“比爾數十年職業生涯成就斐然，憑藉獨到的見解與正直的品行，為澳大利亞經濟與金融行業發展作出了卓越貢獻。他極具影響力，為人溫和體貼，但凡有他在場，談話都將圍繞他展開，也總能讓周遭氛圍變得熱烈鮮活，人們會永遠銘記他。”埃文斯是澳大利亞頂尖市場經濟學家，尤其擅長預判澳洲儲備銀行貨幣政策週期拐點，他於 2023 年卸任西太平洋銀行首席經濟學家一職。
+
+---
+
+### 2026-07-29 12:54:00  #央行 #中國央行
+
+【央行上海總部：繼續深化自由貿易賬戶功能升級試點】人民銀行上海總部召開2026年第三季度新聞釋出會，人民銀行上海總部宏觀審慎管理部副主任施建東表示，上半年，上海自由貿易賬戶功能升級試點參與主體穩步擴容。該項工作自2025年12月正式啟動以來，目前已有11家銀行、42家優質企業參與試點，服務物件廣泛涵蓋了央國企、外資、民營等多類經濟主體，服務汽車製造、現代農業、半導體等多個行業領域，試點項下跨境資金收付規模摺合人民幣已超過1330億元。
+
+---
+
+### 2026-07-29 12:53:36  #其他
+
+【浙江：到2030年海洋經濟綜合實力位居全國前列】近日，浙江省政府辦公廳印發《浙江省“十五五”海洋經濟發展規劃》，為今後五年海洋經濟發展描繪了清晰路線圖。《規劃》提出到2030年，海洋經濟綜合實力位居全國前列，浙江海洋生產總值年均增速高於GDP增速一個百分點，海洋生產總值佔GDP比重達14%。
+
+---
+
+### 2026-07-29 12:53:34  #其他
+
+【九寨溝景區7月30日起全域恢復開放】7月29日，九寨溝風景名勝區管理局釋出關於全域恢復開放的通告。通告稱，自7月30日起，九寨溝景區全域恢復開放。
+
+---
+
+### 2026-07-29 12:53:15  #公司 #國際
+
+【韓國股市遭遇“非理性拋售”，跌幅一度擴大至13%】韓國股市大幅跳水，散戶投資者集中離場減倉，加之 SK 海力士財報業績不及預期，本就脆弱的人工智慧板塊市場情緒進一步惡化。韓國綜合股價指數（KOSPI）最大跌幅達 13%，兩日累計跌幅約 20%，並連續第二個交易日觸發熔斷機制。今年早些時候，該指數曾依靠 SK 海力士、三星電子兩大晶片企業領漲，漲幅領跑全球；如今指數單月跌幅預計將創下約 35% 的歷史紀錄。大量資金湧入晶片行業的投資邏輯遭到投資者質疑，市場樂觀情緒迅速轉為恐慌，投資者紛紛割肉離場。截至午盤，散戶淨賣出 1.9 萬億韓元（合 13 億美元）KOSPI 成分股，與此前回撥期間散戶持續逢低買入的行為形成鮮明反轉。DS 資產管理公司基金經理Yoon Joonwon表示：“投資者如今只顧倉皇出逃。如此大規模的拋售，尤其是散戶集中拋售，完全難以理解。無論從技術面還是市場情緒來看，這都屬於非理性拋售。”
+
+---
+
+### 2026-07-29 12:52:52  #MKT News #Important #07709.HK #Impact bearish #07747.HK
+
+【Southern 2x Long SK Hynix plunges 25.72%; down 81.05% since July】Korean equities weakened; Southern 2x Long SK Hynix (07709.HK) fell 25.72% at the Hong Kong midday close, bringing its decline since July to 81.05%. The product's AUM was HKD 31.92 bln, about 70% below its peak. Southern Eastspring's 2x Long Samsung Electronics (07747.HK) dropped 16.56% at the same close and is down 69.55% for the month.
+
+---
+
+### 2026-07-29 12:51:13  #MKT News #Important #WTI #Impact bullish #Brent
+
+【"Don't split 50-50", Iran rejects Oman's Strait of Hormuz joint-management proposal】A senior Iranian official said Tehran has rejected Oman's proposal for regional joint management of the Strait of Hormuz as unworkable. Iran refuses third-party participation in strait management and says only Iran and Oman may set arrangements based on their respective territorial waters. The official said Iran insists all transit routes through the strait, and some inbound approaches, must remain under Iranian control. A 50-50 joint-management arrangement with Oman would not serve Iran's interests, though Tehran regards Oman as a valued neighbor. The official added the US and Saudi Arabia are pressuring Oman to advance what Iran considers an unrealistic plan for the strait.
+
+---
+
+### 2026-07-29 12:49:39  #公司 #市場 #國際
+
+【南方兩倍做多海力士暴跌近26% 7月以來跌幅已超80%】韓國股市今日走弱，南方兩倍做多海力士也大幅下挫。截至港股中午收市，該產品的今日跌幅達25.72%，7月以來跌幅已達81.05%。東方財富資料顯示，該產品的最新資產規模為319.2億港元，與規模高點相比縮水七成。南方東英旗下另一隻掛鉤韓國晶片股的槓桿產品也大幅下跌：截至港股中午收市，南方兩倍做多三星電子的今日跌幅為16.56%，本月跌幅為69.55%。
+
+---
+
+### 2026-07-29 12:49:27  #國際
+
+韓國綜合股價指數跌幅一度高達13%，兩天累計跌幅約為20%。
+
+---
+
+### 2026-07-29 12:48:05  #公司
+
+瑞銀集團：環球財富管理部門第二季度淨新增資金流入規模達360億美元。
+
+---
+
+### 2026-07-29 12:47:06  #市場 #國際
+
+印度NIFTY指數上漲1%，至24224.95。
+
+---
+
+### 2026-07-29 12:46:10  #MKT News #V.O #Impact bullish
+
+JP Morgan raised its price target for Visa (V.N) to $450 from $400.
+
+---
+
+### 2026-07-29 12:46:00  #MKT News #Nasdaq100 #Impact bearish #S&P500 #Dow
+
+Nasdaq futures fell as much as 1%, S&P 500 futures were down 0.3% and Dow futures fell 0.2%.
+
+---
+
+### 2026-07-29 12:45:56  #市場
+
+【美股納斯達克100指數期貨跌超1%】美股納斯達克100指數期貨跌超1%，標普500指數期貨跌0.35%，道瓊斯指數期貨跌0.24%。
+
+---
+
+### 2026-07-29 12:45:29  #MKT News
+
+Aeon said four people were missing after an explosion at its Kumamoto shopping center.
+
+---
+
+### 2026-07-29 12:45:27  #其他
+
+【吉林汪清升級釋出暴雨紅色預警】吉林省延邊州汪清縣氣象臺7月29日11時10分升級釋出暴雨紅色預警訊號：截至目前，汪清縣東光鎮已出現90毫米以上降水，清河村已出現超過100毫米降水，其中清河村、廟溝村小時雨強達40毫米以上。預計未來3小時，上述地區降雨仍將持續。對此，汪清縣防辦、縣應急管理局、縣氣象局聯合提醒注意做好預防工作。
+
+---
+
+### 2026-07-29 12:45:06  #市場
+
+SK海力士股價跌幅擴大；最新下跌18%，至1,269,000韓元。
+
+---
+
+### 2026-07-29 12:44:20  #市場
+
+東京午後交易時段日元走強，一度報1美元約163.40日元。
+
+---
+
+### 2026-07-29 12:43:28  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei 225 has fallen as much as 3% intraday, trading at 60,490.58 points.
+
+---
+
+### 2026-07-29 12:43:25  #市場 #國際
+
+日本日經指數下跌3%，至60491.81點。
+
+---
+
+### 2026-07-29 12:42:15  #MKT News #WTI #Impact bullish #Brent
+
+Refinitiv: An Iranian senior official said the US and Saudi Arabia are pressuring Oman to implement what Iran calls an unrealistic plan for the Strait of Hormuz.
+
+---
+
+### 2026-07-29 12:42:02  #國際
+
+伊朗高階官員：美國與沙烏地阿拉伯正試圖向阿曼施壓，以推進兩國在霍爾木茲海峽問題上不切實際的計劃。
+
+---
+
+### 2026-07-29 12:42:00  #MKT News #WTI #Impact bullish #Brent
+
+Refinitiv: A senior Iranian official said the southern route of the Strait of Hormuz may pose a danger to vessels, and that Oman's control of the waterway should correspond to its share of the passage.
+
+---
+
+### 2026-07-29 12:41:34  #國際
+
+伊朗高階官員：德黑蘭已排除阿曼提出的霍爾木茲海峽區域聯合管理方案，該方案毫無成功可能。
+
+---
+
+### 2026-07-29 12:41:22  #MKT News
+
+Taiwan's TAIEX fell more than 5%.
+
+---
+
+### 2026-07-29 12:41:14  #MKT News #WTI #Impact bullish #Brent
+
+Refinitiv: An Iranian senior official said Iran insists all inbound shipping lanes through the Strait of Hormuz and some outbound lanes must be under Iranian control, and that a 50-50 joint-control arrangement with Oman would not serve Tehran’s interests.
+
+---
+
+### 2026-07-29 12:41:02  #國際
+
+伊朗高階官員：儘管德黑蘭將阿曼視為重要鄰國，但伊朗與阿曼各佔一半的聯合管控安排不符合伊朗的利益。
+
+---
+
+### 2026-07-29 12:40:45  #MKT News
+
+【South Korean retail forced liquidations KRW1.7t; institutions to wait for calmer sentiment】On Wednesday South Korean retail investors suffered roughly KRW1.7 trillion (≈$1.2bn) of forced liquidations. Jung In Yun, CEO of Fibonacci Asset Management, said many positions were forcibly closed and institutions plan to wait for retail selling pressure to ease before redeploying capital.
+
+---
+
+### 2026-07-29 12:40:33  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Tehran has ruled out Oman's proposal for joint regional management of the Strait of Hormuz, saying the plan has no chance of success. Iran said only Iran and Oman can determine arrangements for the strait based on their respective shares and rejected any role for other countries.
+
+---
+
+### 2026-07-29 12:40:20  #國際
+
+伊朗高階官員：伊朗堅持要求，透過霍爾木茲海峽的全部入港航道以及部分出港航道必須處於伊朗控制之下。
+
+---
+
+### 2026-07-29 12:39:49  #國際
+
+伊朗高階官員表示：只有伊朗和阿曼能夠根據各自的權益份額決定霍爾木茲海峽的相關安排，德黑蘭拒絕任何其他國家參與其中。
+
+---
+
+### 2026-07-29 12:38:15  #其他
+
+巴斯夫：目標為2025年至2028年向股東派息總額不低於120億歐元。
+
+---
+
+### 2026-07-29 12:37:50  #其他
+
+巴斯夫：將於2026年8月至2027年4月啟動最高10億歐元的股票回購計劃。
+
+---
+
+### 2026-07-29 12:37:14  #公司 #國際
+
+【力拓無意為享受美國關稅優惠而投資該國鋁業】力拓執行長西蒙·特羅特(Simon Trott)表示，儘管特朗普)政府最近提出，願為在美國投資的鋁企提供部分金屬進口關稅減半的優惠，但該公司無意投資於美國的鋁冶煉產能。力拓是從其加拿大工廠向美國輸送鋁產品的主要付運商，該公司稱過去一年與關稅相關的成本總計超過10億美元。該公司目前在美國境內沒有任何鋁冶煉廠。特羅特在一次採訪中表示，力拓在美國的重點是其銅和鋰業務，而不是在該國增加任何鋁產能。他說：“我們在美國確實有重要的業務佈局“，包括亞利桑那州的Resolution Copper專案、猶他州的銅業務以及北卡羅來納州的一家鋰工廠。特羅特說，該公司“現階段真正專注於這些機會，而不是尋求在美國建冶煉廠“。
+
+---
+
+### 2026-07-29 12:36:20  #公司
+
+【南網能源：相關限制消費措施已解除 未對公司生產經營活動造成影響】就“網傳廣州當地的法院對公司董事長執行限制消費令，是否意味著公司的經營遇到重大困難？”的提問，南網能源(003035)在互動平臺回覆稱，針對7月28日網路上出現的關於公司的相關資訊，公司高度重視，第一時間與廣州市黃埔區人民法院進行了積極溝通。經核實，該事項源於一起建設工程合同糾紛案件，相關事宜已得到妥善處置，7月28日當天公司已取得法院出具的解除限制消費令的執行通知書[（2026）粵0112執8213號）]，相關限制消費措施已解除。該事項未對公司日常生產經營活動造成影響，目前公司經營管理一切正常。
+
+---
+
+### 2026-07-29 12:36:13  #其他
+
+【機構：DRAM超越SoC成為旗艦智慧手機中最昂貴單一元器件】根據Counterpoint Research記憶體價格跟蹤，智慧手機記憶體價格在2026年第二季度環比增長了80%以上。這種顯著的增長對智慧手機BOM成本造成了持續的結構性影響。根據該機構估算，與2025年推出的同級別型號相比，2026年智慧手機的BoM成本結構發生了進一步的改變。2026年第二季度，低端機型（批發價800美元）方面，旗艦級別機型的BOM成本也同比增長了接近50%。DRAM超越SoC，成為旗艦智慧手機中最昂貴的單一元器件。
+
+---
+
+### 2026-07-29 12:35:38  #國際
+
+約旦稱擊落五枚來自伊朗的導彈。
+
+---
+
+### 2026-07-29 12:35:23  #MKT News #Important
+
+Jordan's state news agency Petra said Jordan shot down five missiles launched from Iran.
+
+---
+
+### 2026-07-29 12:35:02  #國際
+
+塔斯社報道，俄羅斯線上零售商Wildberries已疏散其位於俄羅斯梁贊州的物流中心。
+
+---
+
+### 2026-07-29 12:34:41  #其他
+
+加拿大皇家銀行將VISA目標價從395美元上調至412美元。
+
+---
+
+### 2026-07-29 12:34:14  #其他
+
+【江西省人大常委會會議表決透過一批人事事項】江西省第十四屆人民代表大會常務委員會第二十四次會議，於7月29日決定：免去王新有的江西省人民代表大會法制委員會副主任委員職務。接受張瑩（女）辭去江西省人民政府副省長職務的請求，並報江西省第十四屆人民代表大會第五次會議備案。接受王新有辭去江西省第十四屆人民代表大會常務委員會委員職務的請求，並報江西省第十四屆人民代表大會第五次會議備案。
+
+---
+
+### 2026-07-29 12:33:51  #MKT News #V.O #Impact bullish
+
+RBC raises Visa (V.N) PT to $412 from $395.
+
+---
+
+### 2026-07-29 12:33:34  #國際
+
+【伊拉克“人民動員組織”證實遭美國及沙特襲擊】當地時間29日，伊拉克什葉派民兵武裝“人民動員組織”發表宣告稱，美國和沙特當天凌晨針對伊拉克境內多地的“人民動員組織”機構發動襲擊，造成多人死傷。宣告譴責美沙襲擊激化該地區局勢，侵犯伊拉克主權及其官方安全機構安全。該組織正在密切跟進當地局勢，統計和評估此輪襲擊造成的損失。另據伊拉克北部尼尼微省“人民動員組織”作戰指揮部宣告，美沙當天凌晨對該指揮部的空襲已致8人死亡、4人受傷。（央視新聞）
+
+---
+
+### 2026-07-29 12:33:32  #MKT News #Copper #Impact bearish
+
+Rio Tinto (RIO.N) CEO said the company is monitoring rising U.S. copper inventories to prepare to respond to a tariff decision.
 
 ---
 
@@ -21826,137 +22132,5 @@ China A-share copper-cable and high-speed connectivity sector pulled back; Dingt
 ### 2026-07-28 09:56:43  #公司 #國際
 
 比亞迪日本公司推出"RACCO"電動微型車，稅前及補貼前起售價195萬日元。
-
----
-
-### 2026-07-28 09:54:56  #MKT News
-
-【South Korea to consider further measures to curb single-stock leveraged ETF demand】South Korea's Financial Services Commission chair Lee Eog-weon said regulators will consider further steps to curb demand for recently launched single-stock leveraged ETFs. He will assess the impact of a new rule raising the minimum cash margin for investing in these ETFs to KRW30 million (about $20,400), effective this Friday; the government moved the implementation forward by several weeks to stabilize markets and protect investors. Lee said if demand does not sufficiently cool, authorities will conduct an early review and stand ready to impose additional measures, including possible quantity limits capping individual holdings of these ETFs at 20% of a personal financial portfolio.
-
----
-
-### 2026-07-28 09:54:02  #MKT News #Important #DXY #Impact bullish #Hang Seng Index #Impact bearish #S&P500
-
-South Korea's KOSPI fell below 6,200 points to its lowest level since April, down 8.28% intraday.
-
----
-
-### 2026-07-28 09:54:00  #國際
-
-韓國KOSPI指數失守6200點，創4月以來新低，日內跌幅8.28%。
-
----
-
-### 2026-07-28 09:53:55  #市場
-
-【CPO概念震盪走弱 新易盛等多股跌近10%】CPO概念盤中震盪走弱，新易盛、源傑科技、聯訊儀器跌近10%，中際旭創、長光華芯、東山精密、劍橋科技等跌超7%。
-
----
-
-### 2026-07-28 09:53:33  #MKT News #CSI300 #Impact bullish #SZSE Component #SSE Composite
-
-China A-share auto OEM sector rebounded after volatility; Shuguang hit the daily limit-up and was locked, while BAIC BluePark, JAC Motors, Haima Automobile, Ankai Bus and Yutong Bus also gained.
-
----
-
-### 2026-07-28 09:53:01  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300
-
-China A-share humanoid-robot concept stocks oscillated higher. Jiezhong Technology, Huada Technology, Dianke Digital and Xinya Process closed at the daily price limit. Mingxin Xuteng hit a second consecutive limit-up. Shangwei New Materials rose more than 9%. Beizi Technology, Sanhua Zhikong, Tuosida, Lixing Co. and Tianqi Co. also advanced.
-
----
-
-### 2026-07-28 09:51:43  #MKT News
-
-Nikkei reports Singapore's birth rate hit its lowest level since 1965; the number of births in 2025 fell below 30,000 for the first time, down 11.4% YoY.
-
----
-
-### 2026-07-28 09:51:11  #MKT News #CSI300 #Impact bullish #SZSE Component #SSE Composite
-
-China A‑share software-services sector rallied; Kelan Software hit the daily limit, Nantian Information and Ronglian Technology also reached limit-up, while Jiuchi Software, Dianke Digital, Gaoweida and Guozi Software gained.
-
----
-
-### 2026-07-28 09:50:59  #公司 #市場
-
-【汽車整車板塊震盪反彈 曙光股份漲停】早盤汽車整車板塊震盪反彈，曙光股份漲停，北汽藍谷、江淮汽車、海馬汽車、安凱客車、宇通客車跟漲。
-
----
-
-### 2026-07-28 09:50:23  #MKT News #Star Stocks #MSFT.O #Impact bullish
-
-【Microsoft launches MAI-Cyber-1-Flash cybersecurity model】Microsoft on July 27 released MAI-Cyber-1-Flash, its first cybersecurity-specific AI model, and integrated it into its multi-agent vulnerability detection and remediation platform MDASH. Microsoft (MSFT.O) said the combination scored 95.95% on the CyberGym vulnerability-detection benchmark, outperforming MYTHOS, GEMINI and GPT-series models and reducing MDASH costs by about 50%. The company also launched the Perception agent security system for continuous monitoring, automated patching and response to novel threats.
-
----
-
-### 2026-07-28 09:49:56  #市場
-
-【軟體服務板塊走強 科藍軟體20%漲停】軟體服務板塊走強，科藍軟體20%漲停，南天資訊、榮聯科技漲停，久其軟體、電科數字、高偉達、國子軟體漲幅居前。
-
----
-
-### 2026-07-28 09:49:49  #公司 #市場
-
-馬尼拉電力公司股價在馬科斯提出電力改革方案後下跌5.3%。
-
----
-
-### 2026-07-28 09:49:28  #市場 #國際
-
-上證50股指期貨(IH)主力合約日內跌超1%，現報2887.0點。
-
----
-
-### 2026-07-28 09:49:19  #市場 #焦點
-
-滬深300指數期貨連續主力合約日內跌2%，現報4558.60點。
-
----
-
-### 2026-07-28 09:49:19  #其他
-
-【2026數博會8月28日—30日舉辦 布展面積6萬平方米】今天，國家資料局舉行新聞釋出會，相關負責人在會上介紹，作為全國唯一由政府部門主辦、以資料為主題的國際性博覽會，2026數博會將於8月28日—30日在貴州貴陽舉辦。本次博覽會將圍繞算力基礎設施、資料、模型等設定5大主題板塊，布展面積達到6萬平方米。
-
----
-
-### 2026-07-28 09:48:51  #公司 #市場
-
-【人形機器人概念震盪拉昇 明新旭騰2連板】人形機器人概念震盪拉昇，明新旭騰2連板，上緯新材漲超9%，北自科技、三花智控、拓斯達、力星股份、天奇股份跟漲。
-
----
-
-### 2026-07-28 09:48:45  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index
-
-【Southern Asset's Liu: Equity bottoming likely in late stage; semiconductor expansion may retake lead】Southern Asset Management's Liu Wenliang said China's equity market appears to be in the late stage of bottoming. Major sectors' pullbacks from highs are near historical single-cycle extremes and core-company valuations have largely been digested, with policy support and fresh inflows expected to reinforce one another. Disruptions are fading: the first overseas CSP major's results did not falsify the industry's recovery trend, and a domestic memory leader is scheduled to list next week, which should narrow fund diversion. Liu expects technology to be decisive in Q3 and anticipates funds refocusing on tech led by memory names. Industry signals: Q3 server DRAM contract prices remain in an uptrend, HBM supply is tight, and price rises are likely to spread from memory makers to equipment, components and materials. Capex signals are supportive — TSMC has raised annual CAPEX, ASML has twice upgraded guidance this year, and SEMI forecasts 23% YoY growth in global equipment sales in 2026. Domestic memory firms are raising large funding for capacity expansion; local equipment and component suppliers are benefiting from upgraded orders and longer overseas lead times that accelerate substitution and price upside. Liu said market participants should dynamically track domestic and offshore model-level progress; if continuous learning and a data–model flywheel materialize, commercialization upside could reopen.
-
----
-
-### 2026-07-28 09:48:22  #其他
-
-【微軟AI釋出網路安全模型MAI-Cyber-1-Flash，漏洞檢測效能提升並降低50%成本】微軟AI（Microsoft AI）當地時間7月27日釋出首款網路安全專用模型MAI-Cyber-1-Flash，並將其整合至多智慧體漏洞識別與修復平臺MDASH。微軟表示，該組合在CyberGym漏洞檢測基準測試中取得95.95%的成績，超過Mythos、Gemini和GPT系列模型，同時相比現有MDASH方案降低約50%成本。微軟同時推出智慧體安全系統Perception，用於持續監控、修補漏洞並應對新型威脅。
-
----
-
-### 2026-07-28 09:48:16  #MKT News #Commodities #Energy #Market Regions #Greater China
-
-【China's largest single-batch green ammonia exported to South Korea】Today 3,750 tonnes of green ammonia from Daan, Jilin were transported by road to Lianyungang, Jiangsu and loaded for shipment to South Korea, the largest single-batch green ammonia export globally. The cargo was produced at the world's largest single-module green ammonia plant (180,000 tonnes/year), powered by wind and solar in western Jilin, and has lifecycle CO2 emissions more than 90% lower than coal-based ammonia, marking the first reported international market recognition of China's green fuels' full-life-cycle carbon-reduction value.
-
----
-
-### 2026-07-28 09:48:09  #其他
-
-【航行警告！黃海北部實彈射擊 禁止駛入】據中國海事局網站訊息，大連海事局釋出航行警告，7月28日12時至30日17時，黃海北部部分海域執行實彈射擊，禁止駛入。
-
----
-
-### 2026-07-28 09:47:53  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時縮量428億元。
-
----
-
-### 2026-07-28 09:47:44  #MKT News #Important #01888.HK #Impact bearish #00148.HK #01989.HK
-
-Hong Kong PCB-related stocks tumbled in early trade: Kingboard Laminates (01888.HK) fell more than 11%; Guanghe Technology (01989.HK) down about 8%; Kingboard Holdings (00148.HK) and Shenghong Technology (02476.HK) each fell over 7.5%; Dazhu Numerical Control (03200.HK) down about 6%.
 
 ---

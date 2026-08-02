@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-02 21:49:58_
-_本檔包含 3505 則快訊，約 668910 字_
+_更新時間：2026-08-02 23:14:16_
+_本檔包含 3489 則快訊，約 670442 字_
+
+---
+
+### 2026-07-28 09:54:56  #MKT News
+
+【South Korea to consider further measures to curb single-stock leveraged ETF demand】South Korea's Financial Services Commission chair Lee Eog-weon said regulators will consider further steps to curb demand for recently launched single-stock leveraged ETFs. He will assess the impact of a new rule raising the minimum cash margin for investing in these ETFs to KRW30 million (about $20,400), effective this Friday; the government moved the implementation forward by several weeks to stabilize markets and protect investors. Lee said if demand does not sufficiently cool, authorities will conduct an early review and stand ready to impose additional measures, including possible quantity limits capping individual holdings of these ETFs at 20% of a personal financial portfolio.
+
+---
+
+### 2026-07-28 09:54:02  #MKT News #Important #DXY #Impact bullish #Hang Seng Index #Impact bearish #S&P500
+
+South Korea's KOSPI fell below 6,200 points to its lowest level since April, down 8.28% intraday.
+
+---
+
+### 2026-07-28 09:54:00  #國際
+
+韓國KOSPI指數失守6200點，創4月以來新低，日內跌幅8.28%。
+
+---
+
+### 2026-07-28 09:53:55  #市場
+
+【CPO概念震盪走弱 新易盛等多股跌近10%】CPO概念盤中震盪走弱，新易盛、源傑科技、聯訊儀器跌近10%，中際旭創、長光華芯、東山精密、劍橋科技等跌超7%。
+
+---
+
+### 2026-07-28 09:53:33  #MKT News #CSI300 #Impact bullish #SZSE Component #SSE Composite
+
+China A-share auto OEM sector rebounded after volatility; Shuguang hit the daily limit-up and was locked, while BAIC BluePark, JAC Motors, Haima Automobile, Ankai Bus and Yutong Bus also gained.
+
+---
+
+### 2026-07-28 09:53:01  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300
+
+China A-share humanoid-robot concept stocks oscillated higher. Jiezhong Technology, Huada Technology, Dianke Digital and Xinya Process closed at the daily price limit. Mingxin Xuteng hit a second consecutive limit-up. Shangwei New Materials rose more than 9%. Beizi Technology, Sanhua Zhikong, Tuosida, Lixing Co. and Tianqi Co. also advanced.
+
+---
+
+### 2026-07-28 09:51:43  #MKT News
+
+Nikkei reports Singapore's birth rate hit its lowest level since 1965; the number of births in 2025 fell below 30,000 for the first time, down 11.4% YoY.
+
+---
+
+### 2026-07-28 09:51:11  #MKT News #CSI300 #Impact bullish #SZSE Component #SSE Composite
+
+China A‑share software-services sector rallied; Kelan Software hit the daily limit, Nantian Information and Ronglian Technology also reached limit-up, while Jiuchi Software, Dianke Digital, Gaoweida and Guozi Software gained.
+
+---
+
+### 2026-07-28 09:50:59  #公司 #市場
+
+【汽車整車板塊震盪反彈 曙光股份漲停】早盤汽車整車板塊震盪反彈，曙光股份漲停，北汽藍谷、江淮汽車、海馬汽車、安凱客車、宇通客車跟漲。
+
+---
+
+### 2026-07-28 09:50:23  #MKT News #Star Stocks #MSFT.O #Impact bullish
+
+【Microsoft launches MAI-Cyber-1-Flash cybersecurity model】Microsoft on July 27 released MAI-Cyber-1-Flash, its first cybersecurity-specific AI model, and integrated it into its multi-agent vulnerability detection and remediation platform MDASH. Microsoft (MSFT.O) said the combination scored 95.95% on the CyberGym vulnerability-detection benchmark, outperforming MYTHOS, GEMINI and GPT-series models and reducing MDASH costs by about 50%. The company also launched the Perception agent security system for continuous monitoring, automated patching and response to novel threats.
+
+---
+
+### 2026-07-28 09:49:56  #市場
+
+【軟體服務板塊走強 科藍軟體20%漲停】軟體服務板塊走強，科藍軟體20%漲停，南天資訊、榮聯科技漲停，久其軟體、電科數字、高偉達、國子軟體漲幅居前。
+
+---
+
+### 2026-07-28 09:49:49  #公司 #市場
+
+馬尼拉電力公司股價在馬科斯提出電力改革方案後下跌5.3%。
+
+---
+
+### 2026-07-28 09:49:28  #市場 #國際
+
+上證50股指期貨(IH)主力合約日內跌超1%，現報2887.0點。
+
+---
+
+### 2026-07-28 09:49:19  #市場 #焦點
+
+滬深300指數期貨連續主力合約日內跌2%，現報4558.60點。
+
+---
+
+### 2026-07-28 09:49:19  #其他
+
+【2026數博會8月28日—30日舉辦 布展面積6萬平方米】今天，國家資料局舉行新聞釋出會，相關負責人在會上介紹，作為全國唯一由政府部門主辦、以資料為主題的國際性博覽會，2026數博會將於8月28日—30日在貴州貴陽舉辦。本次博覽會將圍繞算力基礎設施、資料、模型等設定5大主題板塊，布展面積達到6萬平方米。
+
+---
+
+### 2026-07-28 09:48:51  #公司 #市場
+
+【人形機器人概念震盪拉昇 明新旭騰2連板】人形機器人概念震盪拉昇，明新旭騰2連板，上緯新材漲超9%，北自科技、三花智控、拓斯達、力星股份、天奇股份跟漲。
+
+---
+
+### 2026-07-28 09:48:45  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index
+
+【Southern Asset's Liu: Equity bottoming likely in late stage; semiconductor expansion may retake lead】Southern Asset Management's Liu Wenliang said China's equity market appears to be in the late stage of bottoming. Major sectors' pullbacks from highs are near historical single-cycle extremes and core-company valuations have largely been digested, with policy support and fresh inflows expected to reinforce one another. Disruptions are fading: the first overseas CSP major's results did not falsify the industry's recovery trend, and a domestic memory leader is scheduled to list next week, which should narrow fund diversion. Liu expects technology to be decisive in Q3 and anticipates funds refocusing on tech led by memory names. Industry signals: Q3 server DRAM contract prices remain in an uptrend, HBM supply is tight, and price rises are likely to spread from memory makers to equipment, components and materials. Capex signals are supportive — TSMC has raised annual CAPEX, ASML has twice upgraded guidance this year, and SEMI forecasts 23% YoY growth in global equipment sales in 2026. Domestic memory firms are raising large funding for capacity expansion; local equipment and component suppliers are benefiting from upgraded orders and longer overseas lead times that accelerate substitution and price upside. Liu said market participants should dynamically track domestic and offshore model-level progress; if continuous learning and a data–model flywheel materialize, commercialization upside could reopen.
+
+---
+
+### 2026-07-28 09:48:22  #其他
+
+【微軟AI釋出網路安全模型MAI-Cyber-1-Flash，漏洞檢測效能提升並降低50%成本】微軟AI（Microsoft AI）當地時間7月27日釋出首款網路安全專用模型MAI-Cyber-1-Flash，並將其整合至多智慧體漏洞識別與修復平臺MDASH。微軟表示，該組合在CyberGym漏洞檢測基準測試中取得95.95%的成績，超過Mythos、Gemini和GPT系列模型，同時相比現有MDASH方案降低約50%成本。微軟同時推出智慧體安全系統Perception，用於持續監控、修補漏洞並應對新型威脅。
+
+---
+
+### 2026-07-28 09:48:16  #MKT News #Commodities #Energy #Market Regions #Greater China
+
+【China's largest single-batch green ammonia exported to South Korea】Today 3,750 tonnes of green ammonia from Daan, Jilin were transported by road to Lianyungang, Jiangsu and loaded for shipment to South Korea, the largest single-batch green ammonia export globally. The cargo was produced at the world's largest single-module green ammonia plant (180,000 tonnes/year), powered by wind and solar in western Jilin, and has lifecycle CO2 emissions more than 90% lower than coal-based ammonia, marking the first reported international market recognition of China's green fuels' full-life-cycle carbon-reduction value.
+
+---
+
+### 2026-07-28 09:48:09  #其他
+
+【航行警告！黃海北部實彈射擊 禁止駛入】據中國海事局網站訊息，大連海事局釋出航行警告，7月28日12時至30日17時，黃海北部部分海域執行實彈射擊，禁止駛入。
+
+---
+
+### 2026-07-28 09:47:53  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時縮量428億元。
+
+---
+
+### 2026-07-28 09:47:44  #MKT News #Important #01888.HK #Impact bearish #00148.HK #01989.HK
+
+Hong Kong PCB-related stocks tumbled in early trade: Kingboard Laminates (01888.HK) fell more than 11%; Guanghe Technology (01989.HK) down about 8%; Kingboard Holdings (00148.HK) and Shenghong Technology (02476.HK) each fell over 7.5%; Dazhu Numerical Control (03200.HK) down about 6%.
 
 ---
 
@@ -20917,233 +21049,5 @@ Israel Defense Forces says it has neutralized Hamam Eid, commander of Hamas's ce
 ### 2026-07-26 23:15:11  #MKT News
 
 The Islamic Revolutionary Guard Corps (IRGC) said controlled explosions may be heard in the eastern area of Abadan port on Monday between 08:00 and 12:00; residents were told there is no cause for concern.
-
----
-
-### 2026-07-26 23:11:26  #MKT News
-
-A Prime Minister's Office official said international forces currently number about 200 and are drawn from friendly countries.
-
----
-
-### 2026-07-26 23:10:24  #MKT News
-
-An official at Israel’s Prime Minister’s Office said any international forces entering Gaza must obtain separate approval from each of the prime minister, the defense minister and the foreign minister.
-
----
-
-### 2026-07-26 23:10:00  #MKT News #XAUUSD #Impact mixed #WTI #DXY
-
-An Israeli Prime Minister's Office official said international forces will operate outside the Gaza yellow line under full coordination with the Israeli military.
-
----
-
-### 2026-07-26 23:09:48  #MKT News
-
-An Israeli Prime Minister's Office official said Israel has agreed to allow a peacekeeping commission and international forces into Gaza, as stipulated in Trump's plan.
-
----
-
-### 2026-07-26 23:09:04  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-An official in Israel's Prime Minister's Office said Israel will maintain control of the Gaza "yellow line" area unless Hamas and the Gaza Strip are disarmed.
-
----
-
-### 2026-07-26 23:07:42  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-CBS News, citing sources, reports the US has paused airstrikes on Iran after Omani officials traveled to Tehran on Friday for talks.
-
----
-
-### 2026-07-26 23:07:02  #國際
-
-俄羅斯總統普京：我方從未謀求在北極製造對立衝突，相反，我們一直邀請各國依據國際法開展合作。
-
----
-
-### 2026-07-26 23:05:42  #國際
-
-訊息人士：由於阿曼官員週五前往德黑蘭舉行會談，美國已暫停對伊朗的轟炸行動。
-
----
-
-### 2026-07-26 23:01:18  #MKT News
-
-【German interior minister: Berlin car ramming suspected terrorist attack】Germany’s Interior Minister Dobrindt said on the 26th a vehicle ramming into pedestrians in Berlin on the evening of the 25th is suspected to be a terrorist attack. The incident killed one and injured 29, several seriously. The suspect remains at large.
-
----
-
-### 2026-07-26 23:00:41  #其他
-
-【德國內政部長：柏林汽車撞人事件疑似恐怖襲擊】德國內政部長多布林特26日說，首都柏林25日晚發生的汽車衝撞行人事件疑似是一起恐怖襲擊。多布林特在當日的新聞釋出會上說，這起事件已造成1人死亡、29人受傷，其中部分人傷勢嚴重。目前犯罪嫌疑人依然在逃。
-
----
-
-### 2026-07-26 22:58:06  #國際
-
-市場訊息：宏都拉斯前總統埃爾南德斯獲特朗普特赦後，已返回宏都拉斯。
-
----
-
-### 2026-07-26 22:54:56  #MKT News
-
-【Zelenskiy says Chernihiv supermarket struck, 2 dead, 13 injured】Chernihiv city military-civil administration said on July 26 local time a supermarket was struck by a Russian military drone. President Zelenskiy said the attack killed 2 and injured 13. Russia has not responded.
-
----
-
-### 2026-07-26 22:53:28  #國際
-
-【澤連斯基稱烏切爾尼戈夫市一超市遭襲致2死13傷】烏克蘭切爾尼戈夫市軍政管理局當地時間7月26日通報稱，當地一家超市遭俄軍無人機襲擊。烏克蘭總統澤連斯基說，襲擊已造成2人死亡，13人受傷。截至目前，俄方暫無回應。（央視新聞）
-
----
-
-### 2026-07-26 22:48:30  #國際
-
-美國國家颶風中心：吉納維芙颶風強度持續快速增強。
-
----
-
-### 2026-07-26 22:46:49  #其他
-
-【越南籍船舶南沙海域沉沒 我向越轉交41名獲救人員】記者從海南省三沙市獲悉，越南籍船舶“KHOI NGUYEN 18”在南沙永暑礁附近海域遇險沉沒，截至26日21時，已有46人獲救（含越方救助1人）。20時05分，我方已將救起的41名遇險人員轉交越方，剩餘4名遇險人員計劃明天轉交。（新華社）
-
----
-
-### 2026-07-26 22:45:57  #國際
-
-美國國家颶風中心（NHC）表示，福斯托颶風將持續逐步減弱，預計本週夏威夷群島部分割槽域將遭遇巨浪。
-
----
-
-### 2026-07-26 22:45:39  #其他
-
-市場訊息： 蘭多・諾里斯代表邁凱倫車隊奪得 F1 匈牙利大獎賽冠軍。
-
----
-
-### 2026-07-26 22:39:13  #公司
-
-【中汽股份：目前公司可一站式滿足L2強標全場景覆蓋】中汽股份(301215)近日在機構調研時表示，目前中汽股份可一站式滿足L2強標全場景覆蓋，有效解決客戶跨場地試驗帶來的流程繁瑣、效率偏低等問題。
-
----
-
-### 2026-07-26 22:34:14  #其他
-
-JMIC（Joint Maritime Information Center，聯合海上資訊中心）釋出訊息：過去72小時內，海峽沒有新的已確認對商船的攻擊。
-
----
-
-### 2026-07-26 22:27:21  #其他
-
-【九寨溝景區發生泥石流致部分道路交通受阻 無人員傷亡】四川阿壩州九寨溝風景名勝區管理局釋出通報，7月26日15時50分，九寨溝景區區域性受短時強降雨引發泥石流，造成景區內部分道路交通受阻。災害發生後，九寨溝管理局啟動二級防汛及地質災害應急響應，聯合九寨溝縣有關單位，開展現場救援、遊客疏散、搶險處置和地質隱患排查工作。目前，滯留遊客正有序安全撤離，現場秩序平穩，無人員傷亡。後續景區將根據排險進展和天氣變化，適時調整遊覽區域，並透過官方渠道向社會公佈。
-
----
-
-### 2026-07-26 22:24:13  #MKT News
-
-Israeli Prime Minister Netanyahu said the Iran issue depends on President Trump's decision.
-
----
-
-### 2026-07-26 22:23:10  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-Israeli Prime Minister Netanyahu said any attack by Iran, in any form, would be met with a forceful response.
-
----
-
-### 2026-07-26 22:23:03  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-Israel's Prime Minister Netanyahu said the war will end only when the Iranian regime collapses or is weakened to the point that it must abandon its nuclear program.
-
----
-
-### 2026-07-26 22:22:19  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Israeli Prime Minister Netanyahu said Iran's nuclear programme must be ended, either through an agreement or by other means.
-
----
-
-### 2026-07-26 22:22:17  #其他
-
-內塔尼亞胡：若成功連任，我計劃組建廣泛聯合國民政府。
-
----
-
-### 2026-07-26 22:21:07  #國際
-
-內塔尼亞胡談及伊朗問題：在諸多層面，此事取決於特朗普的決定。
-
----
-
-### 2026-07-26 22:20:02  #其他
-
-德國司法部長：聯邦調查人員將接手柏林襲擊案的調查工作。
-
----
-
-### 2026-07-26 22:19:48  #國際
-
-內塔尼亞胡：將與特朗普會面，聽取他對伊朗問題的想法。
-
----
-
-### 2026-07-26 22:18:13  #國際
-
-內塔尼亞胡：如果伊朗以任何方式發動攻擊，我們的回應將是強有力的。
-
----
-
-### 2026-07-26 22:17:05  #其他
-
-德國總理默茨：儘管存在各種政治分歧，我們將捍衛我們的自由。
-
----
-
-### 2026-07-26 22:16:49  #國際
-
-內塔尼亞胡：我支援特朗普在不開戰的情況下結束伊朗核計劃的提議。
-
----
-
-### 2026-07-26 22:16:24  #其他
-
-德國總理默茨：我們將考慮（採取）相應後續措施。
-
----
-
-### 2026-07-26 22:15:56  #其他
-
-德國總理默茨就柏林襲擊事件表態：此類襲擊意在分裂我們，切勿被嚇倒。
-
----
-
-### 2026-07-26 22:15:45  #市場 #焦點
-
-布倫特原油暗盤跌破88美元，日內跌超2.2%。
-
----
-
-### 2026-07-26 22:09:36  #公司
-
-【富國基金：提示旗下ETF新股上市首日投資風險】富國基金公告稱，旗下部分交易型開放式指數基金參與滬深交易所部分上市新股網下配售，上市前按發行價對新股估值。因新股上市首日前5個交易日不設漲跌幅限制，股價波動大，而當日基金份額參考淨值（IOPV）僅含發行價，未含市場價格波動，IOPV與當日基金份額淨值或有差異，提醒投資者關注投資風險。
-
----
-
-### 2026-07-26 22:02:52  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Iran army spokesman says US lacks a clear next step, faces limited options】Iran army spokesman Akraminia said on the 26th that Tehran does not see a concrete US next-step strategy and judges Washington to be in a dilemma. He listed possible US options as withdrawal, large-scale air strikes under Israeli pressure, or a ground operation, and said Iran will watch US moves and is prepared for various scenarios. Akraminia added the conflict’s geographic scope has expanded to the Bab el-Mandeb Strait and that Iranian actions have included US targets from Jordan to the Gulf littoral states.
-
----
-
-### 2026-07-26 22:02:25  #其他
-
-【四川洪雅玉屏山森林火災明火已撲滅】7月26日，四川省眉山市洪雅縣柳江鎮玉屏山突發森林火災，四川消防救援機動總隊調派332名指戰員、66臺消防車開展撲救。截至21時，明火已撲滅。（央視新聞）
-
----
-
-### 2026-07-26 22:01:36  #其他
-
-光大控股：807 萬美元新股發行確定發行價。
 
 ---
