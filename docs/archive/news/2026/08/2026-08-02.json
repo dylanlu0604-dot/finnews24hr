@@ -1,7 +1,27 @@
 {
   "date": "2026-08-02",
-  "count": 507,
+  "count": 509,
   "items": [
+    {
+      "id": "mkt:019fc26a-bf50-7aab-8f46-f3c2d6b58f26",
+      "time": "2026-08-02 20:20:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's acting defense minister said Iran will not be caught off guard by its enemies and will not stand idly by."
+    },
+    {
+      "id": "5020902",
+      "time": "2026-08-02 20:20:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週兩融餘額增幅最大：掌閱科技兩融餘額：0.91億元，餘額增幅：115.01%；哈藥股份兩融餘額：5.39億元，餘額增幅：93.48%"
+    },
     {
       "id": "5020901",
       "time": "2026-08-02 20:18:40",
