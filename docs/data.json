@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-02 23:26:05",
-  "count": 17934,
+  "updated": "2026-08-02 23:30:03",
+  "count": 17936,
   "items": [
+    {
+      "id": "mkt:019fc317-34a6-7aab-8f47-992a6f6dba60",
+      "time": "2026-08-02 23:28:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pashinyan reappointed as Armenian prime minister】Armenian President Vahagn Khachaturyan on the 2nd signed a decree appointing Nikol Pashinyan as prime minister, securing his reappointment."
+    },
+    {
+      "id": "5020964",
+      "time": "2026-08-02 23:28:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【帕什尼揚連任亞美尼亞總理】亞美尼亞總統哈恰圖良2日簽署法令，任命帕什尼揚為亞美尼亞新一任總理，帕什尼揚因此獲得連任。（央視新聞）"
+    },
+    {
+      "id": "5020963",
+      "time": "2026-08-02 23:26:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉與多明尼加共和國達成協議，恢復外交關係。"
+    },
+    {
+      "id": "mkt:019fc315-9079-7aab-8f47-9239ed3ce185",
+      "time": "2026-08-02 23:26:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "CENTCOM said a US Marine Corps F-35C launched from USS Abraham Lincoln (CVN-72), which is operating in the Arabian Sea supporting US blockade operations against Iran. As of Aug. 2 it had rerouted 35 merchant vessels, rendered two inoperable and boarded and inspected two others."
+    },
+    {
+      "id": "5020962",
+      "time": "2026-08-02 23:26:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄國防部：打擊烏克蘭尼古拉耶夫港基礎設施以及兩艘裝載軍用物資的船隻。"
+    },
     {
       "id": "5020961",
       "time": "2026-08-02 23:25:15",
@@ -166193,30 +166237,6 @@
         "國際"
       ],
       "text": "美國駐聯合國大使邁克·沃爾茨駁斥了有關美軍在中東火力不足的報道。"
-    },
-    {
-      "id": "5008639",
-      "time": "2026-07-26 23:27:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受降雨影響，黑龍江多列車停運】7月26日，大興安嶺地區行署交通運輸局釋出訊息，受降雨影響，黑龍江多列車停運。當日，加格達奇開K7103次、加格達奇開K7104次、哈爾濱開K7041次、漠河開K7042次、綏化開K7038/9次、漠河開K7040/37次、加格達奇開6245次、古蓮開6246次、滿洲里開K7094次停運。 此外，7月26日加格達奇開K498次、K2062次、K490次變更為齊齊哈爾站始發，加格達奇至齊齊哈爾間停運。7月25日天津開K489次變更為齊齊哈爾終到，北京開K497次變更為齊齊哈爾終到，大連開K2061次變更為齊齊哈爾終到，齊齊哈爾至加格達奇間停運；哈爾濱開K7093次停運。（新華社）"
-    },
-    {
-      "id": "5008638",
-      "time": "2026-07-26 23:26:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“紅霞”強度減弱 廣東累計轉移近90萬人】今年第12號颱風“紅霞”於26日3時50分前後在廣東省惠州市惠東縣平海鎮登陸，登陸時中心附近最大風力14級（強颱風級），登陸後強度逐漸減弱。記者從廣東省三防辦瞭解到，截至26日18時，廣東累計轉移人員896254人。（新華社）"
-    },
-    {
-      "id": "mkt:019f9f08-d42c-7aab-8e9a-f841070d72f9",
-      "time": "2026-07-26 23:26:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Mehr News Agency said Iran's foreign minister Araghchi spoke by phone with Russian foreign minister Lavrov this afternoon to discuss recent regional and international developments."
     }
   ]
 }
