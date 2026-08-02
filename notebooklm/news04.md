@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-03 05:57:56_
-_本檔包含 3659 則快訊，約 670090 字_
+_更新時間：2026-08-03 07:04:48_
+_本檔包含 3651 則快訊，約 670285 字_
+
+---
+
+### 2026-07-29 14:46:23  #公司 #國際
+
+【非理性賣盤讓韓股一度暴跌13% SK海力士業績令人失望及散戶急賣】隨著散戶紛紛減碼，SK海力士令人失望的財報加劇了對AI領域本已不安的情緒，韓國股市暴跌。 韓國Kospi指數一度重挫13%，連續第二天引發斷熔斷機制，午後跌幅收窄至約6%。該指數料將創下約33%的最大單月跌幅紀錄，該指數今年稍早傲視全球的漲勢幾乎完全依賴三星電子和SK海力士這兩隻晶片股。隨著投資者質疑該行業鉅額投資的商業合理性，市場樂觀情緒迅速轉變為恐慌。散戶賣出1.8萬億韓元(約13億美元)的Kospi成分股，與先前市場回檔時持續逢低買進的態勢形成鮮明對比。隨著大盤跌幅收斂，機構投資人的買盤則逐漸增強。DS Asset Management一位基金經理Yoon Joonwon表示，大家看起來就是在奪門而出。尤其是散戶出現這種程度的拋售，很難理解。無論從技術面還是情緒面來看，這都是非理性賣盤。
+
+---
+
+### 2026-07-29 14:46:20  #Trading Economics #Economy #United States #Interest Rate #Importance 3
+
+Fed to Keep Rates Steady, but Odds of a Hike Persist — The Federal Reserve is widely expected to leave the federal funds rate unchanged at 3.50%–3.75% for a fifth consecutive meeting in July 2026. However, the decision remains a close call, with markets assigning nearly a 30% probability to a rate hike. Policymakers continue to navigate heightened uncertainty driven by renewed tensions between the US and Iran and elevated oil prices, even as inflation has come in softer than expected and the labor market has remained resilient. US inflation eased to 3.5% in June, marking its first decline in five months. Investors will closely monitor both the voting split which has highlighted growing divisions within the Federal Reserve, and Chair Warsh's second press conference for clues about the likelihood of a rate hike in September. Markets are currently pricing in roughly a 77% probability of an increase at that meeting. Chair Warsh has repeatedly emphasized that restoring price stability remains the Federal Reserve's foremost priority.
+
+---
+
+### 2026-07-29 14:45:58  #公司
+
+保時捷執行長：正研究將卡宴的生產從布拉迪斯拉發工廠轉移至萊比錫工廠的可能性，需在大眾集團內部找到解決方案。
+
+---
+
+### 2026-07-29 14:45:18  #公司
+
+阿達尼集團正考慮出價收購英國聯合港口公司。
+
+---
+
+### 2026-07-29 14:43:41  #公司 #市場
+
+星展集團股價上漲1.1%，盤中創下74.73新加坡元的歷史新高。
+
+---
+
+### 2026-07-29 14:43:03  #公司 #市場
+
+【金盃汽車等成立汽車零部件公司 註冊資本約1765萬】天眼查App顯示，近日，瀋陽金盃夢達馳汽車零部件有限公司成立，法定代表人為于波，註冊資本約1765萬人民幣，經營範圍包括汽車零部件及配件製造、塑膠製品製造、模具製造、電子產品銷售等，由金盃汽車股份有限公司、夢達馳汽車系統（天津）有限公司共同持股。
+
+---
+
+### 2026-07-29 14:42:33  #MKT News #Market Regions #Greater China
+
+【China carbon market turnover tops 62.9 bln yuan; coverage expected to broaden to ~80% by 2027】China’s national carbon emissions trading market, launched in July 2021, has recorded cumulative turnover of over 62.9 bln yuan as of July 28. It currently covers four high-emission sectors — power, steel, cement and aluminium smelting — accounting for more than 65% of China’s CO2 emissions. The market is expected by 2027 to extend to major industrial emitters including chemicals, petrochemicals, civil aviation and paper, expanding coverage to roughly 80% of national greenhouse gas emissions.
+
+---
+
+### 2026-07-29 14:40:48  #MKT News #Commodities #Energy
+
+Petronas expects to continue supplying up to 540,000 tonnes/year of LNG to Japan’s Hokuriku Electric under a 10-year term starting in 2028.
+
+---
+
+### 2026-07-29 14:40:35  #宏觀
+
+【全國碳排放權成交額突破629億元，覆蓋範圍將擴大】生態環境部會同國家發展改革委等18個部門29日聯合釋出《國家應對氣候變化“十五五”規劃》，系統部署“十五五”時期應對氣候變化的目標任務，為今後五年應對氣候變化工作提供清晰指引。碳市場是利用市場機制積極應對氣候變化、加快經濟社會發展全面綠色轉型的重要政策工具，也是實現碳達峰碳中和的有力舉措。新出臺的《國家應對氣候變化“十五五”規劃》提出，要加強全國碳市場建設，有序擴大行業範圍和溫室氣體種類。專家指出，這些目標立足我國發展實際，為培育新質生產力、驅動產業綠色轉型、實現“雙碳”目標提供了長效動力。（央視新聞）
+
+---
+
+### 2026-07-29 14:40:22  #其他
+
+巴斯夫首席財務官表示：在當前市場環境下，併購相較於內生增長的相對吸引力有所提升。
+
+---
+
+### 2026-07-29 14:40:12  #公司 #國際
+
+馬來西亞國家石油公司：自2028年起的十年間，分支預計將持續向日本北陸電力供應液化天然氣，年供應量最高可達54萬噸。
+
+---
+
+### 2026-07-29 14:39:11  #MKT News #Commodities #Energy
+
+Malaysia's national oil company said it will strengthen long-term LNG ties with Japan's Hokuriku Electric Power Company and advance cooperation on carbon neutrality.
+
+---
+
+### 2026-07-29 14:37:55  #公司
+
+【美銀：上調寧德時代AH股目標價，重申“買入”評級】美銀證券發表報告指，寧德時代第二季收入1480億元，同比升57%、環比升14%，較該行預測高13%；純利225億元，同比升37%、環比升9%，大致符合市場預期。上半年電動車電池銷售1920億元，同比升46%；儲能系統銷售533億元，同比升88%。管理層預期，受商用車及儲能系統需求帶動，下半年起需求增長持續強勁，而出口退稅下調及消費稅影響將由公司與客戶共同分擔，每單位盈利大致穩定。寧德時代同時公佈200億至400億元A股回購計劃，相當於已發行股份0.75%至1.51%，回購股份將予登出。美銀將其H股目標價由770港元上調至775港元，A股目標價由596元上調至599元，重申“買入”評級。
+
+---
+
+### 2026-07-29 14:37:38  #公司 #國際
+
+【嘉能可稱其交易團隊上半年盈利33億美元】嘉能可表示，其交易團隊上半年盈利約33億美元，因此全年業績有望躋身紀錄前列。從上半年的成績來看，該公司已然非常接近其年度盈利目標區間的上限，即35億美元。這項交易業務去年賺了29億美元。照當前速度，該公司有望打破2022年創下的64億美元紀錄。中東衝突導致各個能源市場動盪，大宗商品貿易公司從中獲利頗豐。與此同時，從AI熱潮到貿易關稅，各種因素都推高了金屬價格。
+
+---
+
+### 2026-07-29 14:37:16  #市場 #焦點
+
+南向資金淨賣出額達50億港元。
+
+---
+
+### 2026-07-29 14:36:18  #公司
+
+【天鍵股份等成立電子科技公司，含積體電路晶片業務】企查查APP顯示，近日，江西天鍵康特電子科技有限公司成立，經營範圍包含：光通訊裝置製造，光通訊裝置銷售，積體電路晶片及產品製造，積體電路晶片及產品銷售等。企查查股權穿透顯示，該公司由天鍵股份等共同持股。
+
+---
+
+### 2026-07-29 14:36:08  #公司
+
+保時捷執行長：我們將以非常穩健的方式規劃中國市場，打下堅實基礎。
+
+---
+
+### 2026-07-29 14:36:05  #公司
+
+【即日起實施 我國發布化妝品註冊備案新舉措】記者從國家藥監局獲悉，我國今天公告發布化妝品註冊備案新舉措，即日起實施。據瞭解，新舉措鼓勵國際化妝品新品在中國首發；在堅守安全的前提下，減輕企業研發申報負擔，加快產品迭代升級，對配方體系近似產品，簡化註冊備案提交資料要求、簡化功效評價管理、減免動物試驗等。國家藥監局介紹，從今天起，配方體系近似的化妝品，比如同款不同色號的口紅，在註冊備案時可以選擇代表性產品進行測試評估，相似配方產品經科學評估後可共用安全性和功效評價資料。專家表示，這項舉措是我國《化妝品監督管理條例》最佳化註冊備案分類後，對行業減負增效的又一利好，口紅、香水等品類產品的研發成本將大幅下降。（央視新聞）
+
+---
+
+### 2026-07-29 14:35:48  #公司
+
+【深圳市保險業協會：深圳車險綜合費用率實現連續6個月環比下降】深圳金融監管局7月29日組織召開2026年上半年新聞釋出會。人保財險深圳分公司代表深圳市保險業協會介紹上半年保險業深化整治無序競爭有關情況時表示，協會錨定降低保險業費差損目標，依託“監管推動、行業發動、機構主動、多方聯動”協同治理機制，推動行業競爭秩序持續向好。據介紹，截至6月末，深圳車險綜合費用率實現連續6個月環比下降；企財險、工程險綜合費用率實現同比兩位數下降；銀保專管員佣金率有序規範，銀保渠道降費效果明顯。
+
+---
+
+### 2026-07-29 14:35:17  #公司
+
+保時捷執行長：中國仍是重要市場。
+
+---
+
+### 2026-07-29 14:34:59  #MKT News #Market Regions #Greater China
+
+Porsche CEO says China remains an important market.
+
+---
+
+### 2026-07-29 14:34:57  #公司
+
+【螞蟻數科開始籌備Pre-IPO輪融資】知情人士透露，螞蟻集團旗下子公司螞蟻數科正在籌備 Pre-IPO 融資。今日報道稱，螞蟻旗下獨立資料庫公司OceanBase目前正在尋求A輪融資，加上此前已完成 A 輪融資的螞蟻國際，螞蟻集團已有三家子公司在推進獨立融資。螞蟻數科2024年初成立董事會，正式獨立運營，此後其CEO趙聞飆曾透露將於年內實現盈虧平衡。前不久釋出的IDC報告顯示，螞蟻數科位列中國智慧體開發平臺私有化市場中位居非雲廠商第一，在2025年中國金融大模型與智慧體服務市場佔有率第一，但螞蟻數科從未公開透露過具體經營情況。公開資料顯示，目前，螞蟻數科與300餘家合作伙伴一起服務了全球30000+家企業客戶。
+
+---
+
+### 2026-07-29 14:34:29  #Trading Economics #Markets #Commodity #Importance 1
+
+UK Gas Prices Advance — UK natural gas prices rose above 143 pence per therm on Wednesday after a two-day decline, as renewed hostilities in the Middle East heightened concerns over prolonged supply disruptions. The US military said on Tuesday it had intercepted multiple missiles launched by Iran, ending a days-long lull in fighting between the two sides. Both nations had largely held fire over the weekend following nearly two weeks of nightly US strikes on Iran and repeated attacks by Tehran targeting Washington's allies across the Gulf. The latest escalation worsens Europe’s gas supply outlook as the region races to replenish storage ahead of the winter. Supply concerns were further exacerbated by reports that QatarEnergy, one of the world's largest LNG exporters, has extended its force majeure for European buyers until at least the end of September.
+
+---
+
+### 2026-07-29 14:34:05  #公司
+
+【浙大網新子公司中標浙江交通職業技術學院校園AI中臺（一期）建設專案】據浙大網新訊息，近日，浙大網新旗下子公司華通雲資料成功中標浙江交通職業技術學院校園AI中臺（一期）建設專案。
+
+---
+
+### 2026-07-29 14:31:28  #宏觀
+
+【國臺辦：解放軍在臺海周邊組織演訓活動天經地義】福建漳州海事局釋出航行警告，23日、24日在臺灣海峽部分海域進行實彈射擊。針對臺外事部門對此發表的有關言論，國務院臺辦發言人陳斌華在今天舉行的例行新聞釋出會上作出回應。陳斌華表示，臺灣是中國的一部分，解放軍在臺海周邊組織演訓活動，合理合法，天經地義。民進黨當局出於謀“獨”政治私利，一貫惡意炒作、造謠抹黑大陸，煽動兩岸對立對抗，再次暴露其謀“獨”的色厲內荏，不會得逞。（央視新聞）
+
+---
+
+### 2026-07-29 14:31:15  #市場
+
+【日韓股市收跌 韓國KOSPI指數跌近6%】日經225指數收盤下跌930.73點，跌幅1.49%，報61434.19點。韓國KOSPI指數收盤下跌360.58點，跌幅5.99%，報5663.08點，盤中一度跌超12%，連續兩個交易日觸發熔斷。SK海力士績後跌9.6%，盤中一度跌逾17%創紀錄最大日內跌幅；三星電子跌5.2%。
+
+---
+
+### 2026-07-29 14:30:46  #其他
+
+【斯洛伐克總統發帖分享訪華期間逛“機器人大世界”感受：印象非常深刻】7月27日至29日，斯洛伐克總統佩列格里尼對中國進行國事訪問。29日，佩列格里尼在社交平臺上發帖，分享自己在北京訪問期間逛“機器人大世界”的感受。“在對中國進行國事訪問期間，我參觀了‘機器人大世界’。在這裡，先進技術與零售創新的融合令人印象非常深刻。”佩列格里尼當天在帖子中稱，自己看到機器人如何改變購物體驗，以及自動化如何提升效率和顧客參與度。（環球網）
+
+---
+
+### 2026-07-29 14:30:30  #國際
+
+市場訊息：美國國會參議院今天繼續推進俄羅斯制裁法案。
+
+---
+
+### 2026-07-29 14:30:22  #其他
+
+野村控股第一季度淨利潤1,455.6億日元，上年同期1,045.7億日元。
+
+---
+
+### 2026-07-29 14:30:16  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+The Nikkei 225 Index Closes 1.69% Lower — The Nikkei 225 Index fell 1052 points or 1.69 percent on Wednesday to close at 61313 points. Leading the losses are Screen Holdings (-18.91%), Taiyo Yuden (-14.00%) and Tokyo Electron (-11.44%).
+
+---
+
+### 2026-07-29 14:28:38  #公司
+
+【天齊鋰業增資至約17.06億元】天眼查App顯示，7月28日，天齊鋰業股份有限公司發生工商變更，註冊資本由約16.41億人民幣增至約17.06億人民幣。該公司成立於1995年10月，法定代表人為蔣安琪，經營範圍包括經營本企業自產的電池級碳酸鋰、工業級碳酸鋰及其鋰系列產品的出口業務等，由張靜、成都天齊實業（集團）有限公司等共同持股。
+
+---
+
+### 2026-07-29 14:28:04  #其他
+
+【7月29日：“農產品批發價格200指數”比昨天上升0.11個點】據農業農村部監測，7月29日“農產品批發價格200指數”為113.79，比昨天上升0.11個點，“菜籃子”產品批發價格指數為113.99，比昨天上升0.13個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.92元/公斤，比昨天下降0.2%；牛肉67.12元/公斤，與昨天持平；羊肉64.92元/公斤，比昨天上升0.3%；雞蛋10.03元/公斤，比昨天下降0.1%；白條雞17.22元/公斤，比昨天上升0.3%。重點監測的28種蔬菜平均價格為4.41元/公斤，比昨天上升0.7%；重點監測的6種水果平均價格為6.79元/公斤，比昨天下降1.7%。鯽魚20.30元/公斤，與昨天持平；鯉魚14.56元/公斤，比昨天上升0.2%；白鰱魚10.12元/公斤，比昨天上升0.8%；大帶魚40.15元/公斤，比昨天下降2.8%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是南瓜、萵筍、西紅柿、豆角和生菜，幅度分別為3.4%、2.9%、2.8%、2.8%和1.9%；價格降幅前五名的是大帶魚、西瓜、菠蘿、巨峰葡萄和冬瓜，幅度分別為2.8%、2.5%、2.5%、2.3%和2.1%。
 
 ---
 
@@ -21838,245 +22030,5 @@ Reserve Bank of Australia Governor Bullock said core inflation is developing in 
 ### 2026-07-28 11:06:26  #Trading Economics #Markets #Singapore #Stock Market #Importance 1
 
 Singapore Stocks Pull Back from Record High — Singapore's equities fell 27 points, or 0.5%, to 5,594 in Tuesday morning deals, as traders took profit after the index hit a record high in the previous session. The broader index tracked a decline in US stock futures amid a global tech selloff. Traders were also cautious ahead of the Fed's monetary policy decision while anticipating the release of US Q2 GDP and China's PMI data due this week. Monday's data also continued to pressure market sentiment, as Singapore's manufacturing production grew the least in four months in June while the Monetary Authority of Singapore tightened its monetary policy again. Health technology, non-energy minerals, communication, and financial sectors mainly weighed on the index, with notable losses from United Overseas Bank (-1.5%), Venture Corp. (-1.4%), DBS Group Holdings (-1.1%), Oversea-Chinese Banking Corp. (-1.0%), and Hongkong Land Holdings (-1.0%).
-
----
-
-### 2026-07-28 11:06:24  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #EURUSD
-
-Reserve Bank of Australia Governor Bullock said the central bank may need to further slow demand growth to bring inflation down.
-
----
-
-### 2026-07-28 11:06:13  #MKT News #AUDUSD #Impact bearish
-
-RBA governor Bullock said the labor market may need to loosen further.
-
----
-
-### 2026-07-28 11:06:01  #MKT News
-
-Reserve Bank of Australia Governor Bullock said the best contribution monetary policy can make is to keep inflation low and stable.
-
----
-
-### 2026-07-28 11:05:42  #MKT News #DXY #Impact bearish
-
-Reserve Bank of Australia Governor Bullock said policy operates with lags and the full effects of this year’s rate hikes have not yet materialised.
-
----
-
-### 2026-07-28 11:05:35  #MKT News #DXY #Impact bearish #USDJPY
-
-Reserve Bank of Australia governor Bullock said the key question is whether the tightening already in place is sufficient to slow inflation.
-
----
-
-### 2026-07-28 11:05:23  #MKT News #Important #AUDUSD #Impact bullish #DXY #Impact bearish
-
-Reserve Bank of Australia Governor Bullock said the board stands ready to raise the cash rate further if necessary.
-
----
-
-### 2026-07-28 11:05:10  #MKT News
-
-【Jucan Optoelectronics says red/yellow LED project reached scaled shipments in 1H; further ramp expected in H2】Jucan Optoelectronics said at a results briefing its red/yellow LED business ramped to scale in 1H 2026, generating RMB78.17m in revenue, up 1,764.96% YoY and accounting for about 10% of main business revenue. The project’s planned capacity is 200,000 units; as of end-June the first phase (100,000 units/month) was at full production and the second phase (100,000 units/month) has begun ramping, with full-load expected in Q3. The company said execution is on plan and H2 volumes are expected to increase further.
-
----
-
-### 2026-07-28 11:05:09  #MKT News
-
-Japan's finance minister KATAYAMA said the Government Pension Investment Fund (GPIF) portfolio should help households benefit from the economic recovery driven by the government's growth strategy.
-
----
-
-### 2026-07-28 11:04:52  #國際
-
-日本財務大臣片山：我對GPIF投資組合的評論意在表明，家庭應從增長戰略推動的經濟中受益。
-
----
-
-### 2026-07-28 11:04:13  #市場 #焦點
-
-豆粕連續主力合約日內跌2%，現報3112.00元。
-
----
-
-### 2026-07-28 11:03:56  #MKT News #Market Themes #AI Revolution
-
-【Lingguang App launches "one‑click deployment"】Lingguang App launched a one‑click deployment feature for its flash apps and opened it to all users. Apps built with AI tools including Codex, ClaudeCode, Cursor, Qoder, Trae and Workbuddy can be published as Lingguang flash apps via Lingguang's deployment skill and will sync for display and distribution on both PC and the Lingguang mobile app. Lingguang also opened more than 30 free API capabilities, including large models, search, LBS, maps and storage.
-
----
-
-### 2026-07-28 11:03:53  #其他
-
-【靈光App上線“一鍵部署”】近日，靈光App上線閃應用“一鍵部署”功能，並向所有使用者開放。使用者使用Codex、ClaudeCode、Cursor、Qoder、Trae、Workbuddy等AI工具建立的應用，可透過靈光提供的部署Skill，一鍵釋出為“靈光閃應用”，並同步在PC端和靈光App內展示與分發。同時，靈光還開放了包括大模型、搜尋、LBS、地圖、儲存等在內的30餘項免費API能力。
-
----
-
-### 2026-07-28 11:03:41  #MKT News #Market Regions #Japan & APAC
-
-Japan's finance minister KATAYAMA said the Government Pension Investment Fund (GPIF) is clearly lacking alternative investments in its portfolio.
-
----
-
-### 2026-07-28 11:03:36  #其他
-
-智譜股價在香港市場一度跌20%，MiniMax股價跌逾11%，此前月之暗面開放Kimi K3模型供公眾下載。
-
----
-
-### 2026-07-28 11:03:12  #公司
-
-【聚燦光電：紅黃光專案上半年已順利開啟規模化出貨 下半年有望進一步放量】聚燦光電近日在業績交流會上表示，2026年上半年，公司紅黃光業務實現規模放量，營收達7816.62萬元，同比增1764.96%，佔主營業務收入比重接近10%。紅黃光專案整體規劃產能20萬片。截至2026年6月末，其中第一階段月產10萬片滿產，第二階段月產10萬片開始上量，預計三季度實現滿載。整體來看，紅黃光專案上半年已順利開啟規模化出貨，目前業務整體推進節奏符合公司既定規劃，下半年有望進一步放量。
-
----
-
-### 2026-07-28 11:03:09  #MKT News #Market Themes #China EV Leaders #03750.HK #Impact bullish
-
-【HSBC trims CATL H-share PT to HK$783, maintains buy; says recent pullback overdone】HSBC Research cuts CATL (03750.HK) H‑share target price to HK$783 from HK$790 and keeps a buy rating, saying the recent pullback may be excessive. Q2 results broadly met expectations: EV and energy‑storage system shipments rose 44% and 90% YoY. H1 capacity utilization remained c.95%; management says some customer demand is unmet and 764 GWh of capacity is under construction. HSBC expects rising capacity plus H2 seasonality to support earnings and views market concern on ESS as possibly overdone. SNE Research shows CATL’s global ESS battery share rose to 30% in Q1 2026 from 27% in Q1 2025. HSBC raises revenue forecasts for 2026–28 by 6–10%, trims gross‑margin forecasts by 0.9–1.3 percentage points, and revises net‑profit estimates: 2026 -2%, 2027 +5%, 2028 +4%.
-
----
-
-### 2026-07-28 11:03:05  #市場 #焦點
-
-紐約期金失守4100美元/盎司，日內跌0.88%。
-
----
-
-### 2026-07-28 11:03:02  #其他
-
-【第34屆全國書博會總交易額達11.75億元】第34屆全國圖書交易博覽會7月27日在浙江杭州落下帷幕。展會為期4天，總交易額達11.75億元，匯聚全國1000多家參展單位，舉辦閱讀活動1000餘場，現場吸引讀者56萬人次，線上線下展銷圖書近百萬種。本屆書博會掀起全民閱讀又一高潮，充分展示了新時代我國出版業高質量發展取得的豐碩成果。
-
----
-
-### 2026-07-28 11:02:51  #國際
-
-日本財務大臣片山：GPIF投資組合在另類投資方面嚴重不足。
-
----
-
-### 2026-07-28 11:02:31  #市場
-
-布倫特原油日內跌2%，現報84.14美元/桶。
-
----
-
-### 2026-07-28 11:02:10  #MKT News #Market Regions #Japan & APAC
-
-Japan's finance minister Katayama declined to comment on the possibility of joint FX intervention with the United States.
-
----
-
-### 2026-07-28 11:01:47  #MKT News #Important
-
-Korea Exchange activated a circuit breaker on the KOSDAQ index, halting trading for 20 minutes.
-
----
-
-### 2026-07-28 11:01:44  #國際
-
-韓國交易所科斯達克（KOSDAQ）觸發熔斷機制，交易暫停20分鐘。
-
----
-
-### 2026-07-28 11:01:36  #市場 #焦點 #國際
-
-韓國交易所對KOSDAQ啟動熔斷機制，交易暫停20分鐘。
-
----
-
-### 2026-07-28 11:01:22  #MKT News #USDJPY #Impact mixed
-
-Japan's finance minister Katayama said the US and Japan hold the same stance on foreign exchange issues.
-
----
-
-### 2026-07-28 11:01:12  #MKT News #CSI300 #Impact bearish #SSE Composite
-
-China's SSE 50 index futures (IH) most-active contract is down more than 2.00% intraday, trading at 2,858.0 points.
-
----
-
-### 2026-07-28 11:01:07  #MKT News #USDJPY #Impact bearish #DXY #XAUUSD #Impact bullish
-
-Japan's finance minister Katayama said the government's foreign-exchange stance is unchanged and that authorities stand ready to respond as needed.
-
----
-
-### 2026-07-28 11:00:51  #MKT News #06181.HK #Impact bearish
-
-【MORGAN STANLEY: Laopu Gold profit alert misses; near-term sentiment likely weak】MORGAN STANLEY said Laopu Gold (06181.HK) issued a profit alert that fell short of both the market and the bank’s expectations. The company reported 1H sales (incl. tax) and revenue up 60–66% YoY to RMB22.7–23.35 bln and RMB19.8–20.45 bln, respectively; the midpoint is about 10% below Morgan Stanley and street forecasts. Non‑IFRS profit came in roughly 9% below expectations. Using the midpoint, Q2 sales were RMB3.5 bln, implying average monthly sales of ~RMB1.2 bln — only about 40% of March’s level — and Q2 net profit of RMB600–700 mln, also below consensus. Morgan Stanley expects analysts to cut earnings forecasts for this year and next and warns near‑term share sentiment may be weak; it will monitor shareholder returns and management guidance in the mid‑term. The bank reiterated its overweight rating and maintained a HK$590 target price.
-
----
-
-### 2026-07-28 11:00:48  #其他
-
-【稅務總局：上半年支援科技創新主要政策和製造業發展政策，減稅降費以及退稅1.91萬億】7月28日，國家稅務總局總審計師王世宇在國新辦釋出會上表示，今年上半年現行支援科技創新主要政策和製造業發展政策，減稅降費以及退稅1.91萬億。其中研發費用加計扣除等支援企業創新投入和技術轉讓的政策減稅降費6596億。高新技術企業減按15%稅率徵收企業所得稅等支援培育發展高新技術企業和新興產業的政策減稅約2520億。先進製造業企業增值稅加計抵減等推進破解卡脖子和支援高階化發展的政策減稅降費近1萬億。
-
----
-
-### 2026-07-28 11:00:23  #MKT News #Market Regions #Japan & APAC #USDJPY
-
-Japan's finance minister Katayama declined to comment on potential intervention.
-
----
-
-### 2026-07-28 11:00:22  #市場 #焦點
-
-中證500指數期貨連續主力合約日內跌4%，現報7340.40點。
-
----
-
-### 2026-07-28 11:00:15  #MKT News
-
-The Israel Defense Forces said the Israeli Air Force recently intercepted a drone near the Jordanian border. The drone did not cross into Israeli territory. The launch origin is under investigation. No alert was issued.
-
----
-
-### 2026-07-28 11:00:05  #市場 #國際
-
-【棕櫚油價格下跌，受豆油和軟質棕櫚油價格走低拖累】吉隆坡Iceberg X的交易員David Ng表示，棕櫚油在亞洲早盤交易中下跌，受芝加哥商品交易所豆油隔夜下跌拖累。他說，棕櫚油也受到大連商品交易所軟質棕櫚油走軟的拖累。他補充說，此外，原油價格下跌正在削弱棕櫚油作為生物燃料的吸引力。Ng預計價格將在每噸4,550林吉特面臨支撐，在每噸4,750林吉特面臨阻力。馬來西亞衍生品交易所10月交割的合約下跌25林吉特，報每噸4,648林吉特。
-
----
-
-### 2026-07-28 10:59:33  #MKT News
-
-Japan's finance minister Katayama said she will not comment on specific FX levels.
-
----
-
-### 2026-07-28 10:59:23  #國際
-
-日本財務大臣片山：日元疲軟有利有弊。
-
----
-
-### 2026-07-28 10:58:56  #國際
-
-日本財務大臣片山：目前不考慮回購日本國債。
-
----
-
-### 2026-07-28 10:58:49  #其他
-
-莫斯科州州長稱，莫斯科附近契訶夫市一棟公寓樓遭無人機襲擊受損。
-
----
-
-### 2026-07-28 10:58:39  #其他
-
-【國家資料局：已有140萬PFLOPS智慧算力接入全國一體化算力網試驗驗證平臺】7月28日，國家資料局在北京召開2026中國國際大資料產業博覽會新聞釋出會。國家資料局副局長餘英介紹了今年以來國家資料局在推進資料要素價值釋放方面取得的進展情況。首先，制度、設施、場景、市場、產業等五大重點領域建設有效開展。從資料基礎制度體系看，積極推動資料產權制度落地見效，構建全國統一的資料產權登記制度，完善資料賦能人工智慧創新發展制度規則。從資料基礎設施建設看，佈局建設運營7個區域功能節點、113個業務節點。截至6月底，資料基礎設施共接入4萬餘個主體，上架6萬餘個產品，較2025年底分別增長10倍和4倍，已有百餘個節點接入國家資料基礎設施底座，實現互聯互通。全國智算總規模為240萬PFLOPS，八大國家算力樞紐已建成智算總規模佔全國比重超80%。目前，已有140萬PFLOPS智慧算力接入全國一體化算力網試驗驗證平臺。（澎湃新聞）
-
----
-
-### 2026-07-28 10:58:07  #其他
-
-【南凌科技簽約智慧機器人制造企業】據南凌科技訊息，日前，南凌科技與一家專注於機器人技術研發、智慧製造與應用的科技企業達成合作，為其提供SD-WAN智慧組網與零信任安全服務，構建多分支互聯通道與安全高效的移動辦公。
-
----
-
-### 2026-07-28 10:57:42  #國際
-
-日本財務大臣片山：全球債市受到美國貨幣政策、烏克蘭及中東局勢等多種因素影響。
 
 ---

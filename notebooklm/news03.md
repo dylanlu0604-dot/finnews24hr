@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-03 05:57:56_
-_本檔包含 3666 則快訊，約 670454 字_
+_更新時間：2026-08-03 07:04:48_
+_本檔包含 3662 則快訊，約 669777 字_
+
+---
+
+### 2026-07-30 15:16:29  #國際
+
+梅賽德斯-賓士將在美國召回310667輛汽車。
+
+---
+
+### 2026-07-30 15:16:26  #MKT News
+
+Kumamoto prefectural government says earthquake death toll has risen to 25.
+
+---
+
+### 2026-07-30 15:16:19  #市場 #焦點
+
+南向資金淨賣出額達20億港元。
+
+---
+
+### 2026-07-30 15:16:18  #MKT News
+
+Egyptian Cabinet says authorities are continuing investigations and will take necessary measures to protect Egypt's interests and national security.
+
+---
+
+### 2026-07-30 15:16:14  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+The Shangai Composite Index Closes 0.78% Lower — The Shangai Composite Index dropped 30 points or 0.78 percent on Thursday to close at 3799 points. Losses were led by Zhejiang Zheneng (-6.46%), Datang Intl (-5.51%) and Huatai Securities (-2.88%). Offsetting the fall, top gainers were Yonyou Soft (4.42%), Shanghai Pudong (4.31%) and BAIC BluePark (3.66%).
+
+---
+
+### 2026-07-30 15:16:13  #國際
+
+熊本縣政府表示，日本地震遇難人數已上升至25人。
+
+---
+
+### 2026-07-30 15:16:13  #Trading Economics #Economy #Slovakia #Consumer Confidence #Importance 1
+
+Slovakia Consumer Morale Edges Down in July — Slovakia’s consumer confidence indicator edged down to -27.4 in July 2026 from a four-month high of -27.3 in the previous month. Consumers became more pessimistic about their households’ future financial situation (-13.2 vs. -11.3 in June), while expectations for household savings also deteriorated (-21.3 vs. -19.1). Assessments of consumers’ past financial situation were likewise more negative (-16.0 vs. -15.1). Meanwhile, expectations for unemployment improved notably (33.2 vs. 36.2), while expectations for the general economic outlook became less pessimistic (-41.8 vs. -42.4). Assessments of the past economic situation also improved (-53.7 vs. -54.0). On the inflation front, perceptions of past price growth continued to ease (41.5 vs. 42.4).
+
+---
+
+### 2026-07-30 15:16:12  #MKT News #US10Y #Impact bearish
+
+【Bond futures midday close】2-year bond futures (TS) most-active contract up 0.02% at midday; 5-year (TF) up 0.10%; 10-year (T) up 0.14%; 30-year (TL) up 0.60%.
+
+---
+
+### 2026-07-30 15:15:55  #公司
+
+【日本航天企業ispace與三菱重工簽約，將使用H3火箭發射登月艙】日本航天企業ispace與三菱重工7月29日宣佈簽署運輸服務合同，將使用“H3”火箭發射計劃2028年執行月球著陸任務的新型登月艙“ULTRA”。ispace此前使用美國火箭發射登月艙，在2023年和2025年兩次嘗試月球著陸，但均告失敗。三菱重工則與日本宇宙航空研究開發機構（JAXA）共同開發H3火箭。
+
+---
+
+### 2026-07-30 15:15:45  #公司 #市場
+
+科萊恩股價上漲17%，此前該公司駁回了殼牌的損害賠償訴訟。
+
+---
+
+### 2026-07-30 15:15:43  #公司
+
+【國家電投旗下錦華路港物流公司增資至84.3億 增幅約51%】天眼查App顯示，近日，內蒙古錦華路港物流有限責任公司發生工商變更，新增大唐發電（601991）、華潤電力投資有限公司、赤峰國有資本運營（集團）有限公司為股東，同時，註冊資本由約55.9億人民幣增至約84.3億人民幣，增幅約51%。該公司成立於2012年10月，法定代表人為邢建華，經營範圍含公共鐵路運輸、鐵路運輸輔助活動、普通貨物倉儲服務、煤炭及製品銷售等。股東資訊顯示，該公司現由國家電投集團內蒙古能源有限公司、中電投蒙東能源集團有限責任公司及上述新增股東共同持股。
+
+---
+
+### 2026-07-30 15:15:40  #MKT News
+
+Egyptian cabinet says no party has claimed responsibility for the attack.
+
+---
+
+### 2026-07-30 15:15:31  #國際
+
+【中國國防部長訪問深化中泰、中文安全互信與防務合作】國防部新聞發言人蔣斌介紹，近日，國防部長董軍應邀訪問泰國、汶萊，這是落實中泰、中文元首重要共識，深化安全互信與防務合作，服務構建周邊命運共同體的具體舉措。其間，董軍部長分別拜會泰國總理、汶萊蘇丹，並與兩國防務部門領導舉行會談，就兩國兩軍關係、國際地區形勢和共同關心的問題深入交換意見。當前，中泰關係正邁向下一個金色50年，兩國領導人就深化中泰命運共同體建設達成新的重要共識，宣佈建立外長、防長“2+2”戰略對話機制。我們願與泰方一道，密切戰略溝通，深化聯演聯訓、人員交流、人道主義救災等務實合作，推動中泰軍事合作提質升級。
+
+---
+
+### 2026-07-30 15:15:18  #央行 #英國央行
+
+【瑞聯銀行分析師：英國央行7月議息會議或以7:2票數維持3.75%利率不變】瑞聯銀行分析師預計，英國央行7月議息會議或以7:2票數維持3.75%利率不變，年內經濟增長偏弱、通脹小幅回落，英國央行或放緩量化緊縮。
+
+---
+
+### 2026-07-30 15:15:02  #市場
+
+【國債期貨收盤】 30年期主力合約漲0.59%， 10年期主力合約漲0.14%， 5年期主力合約漲0.10%， 2年期主力合約漲0.02%。
+
+---
+
+### 2026-07-30 15:14:51  #MKT News
+
+Egyptian cabinet said a preliminary investigation found fires aboard two vessels at Damietta port were caused by drones.
+
+---
+
+### 2026-07-30 15:14:07  #國際
+
+埃及稱，達米埃塔港液化天然氣船起火事件系無人機所致。
+
+---
+
+### 2026-07-30 15:13:42  #MKT News
+
+【China defense ministry: PLA Navy task group to visit Indonesia】The Ministry of National Defense said at a routine briefing that in early August, at the invitation of the Indonesian navy, a PLA Navy task group led by frigate Qi Jiguang and amphibious ship Kunlunshan will visit Surabaya. The ministry said the two navies have in recent years expanded joint exercises and ship visits, deepening bilateral military ties.
+
+---
+
+### 2026-07-30 15:13:34  #Trading Economics #Economy #Sweden #Leading Economic Index #Importance 1
+
+Sweden Economic Confidence Strongest Since 2022 — Sweden’s Economic Tendency Indicator rose for a third straight month to 104.7 in July 2026 from an upwardly revised 102.1 in the previous month, marking the highest level since June 2022. The reading signaled a stronger-than-normal business climate, led by manufacturing, which climbed to 107.9 from 105.2 as firms reported more optimistic production plans and stronger order intake in both domestic and export markets. Retail sentiment (112.9 vs 106.5) surged to the highest since March 2022, driven by stronger sales expectations and assessments of current trading conditions. Construction confidence (99.4 vs 97.6) returned to normal level on improved hiring and order book expectations, while services edged up (102.5 vs 102.3). Household confidence also improved (97.1 vs 94.2) as consumers became less pessimistic, though it remained below normal. Meanwhile, business price plans stayed above normal, especially in manufacturing, while inflation expectations for the year ahead eased.
+
+---
+
+### 2026-07-30 15:13:15  #其他
+
+【養老服務  消費補貼惠及約200萬中度以上失能老年人】記者7月30日從民政部第三季度例行新聞釋出會獲悉，截至目前，向中度以上失能老年人發放養老服務消費補貼專案在全國範圍內累計核銷消費券1079.92萬次，核銷金額65.12億元，帶動養老服務消費金額290.93億元，約200萬中度以上失能老年人從中受益。(新華社)
+
+---
+
+### 2026-07-30 15:13:09  #Trading Economics #Markets #France #stocks #Importance 1
+
+L'Oréal Stock Price Hits 6-week High — L'Oréal shares increased to 393.55 EUR, the highest since June 2026. Over the past 4 weeks, L'Oréal gained 3.21%, and in the last 12 months, it increased 0.82%.
+
+---
+
+### 2026-07-30 15:13:00  #國際
+
+【國防部：中泰將舉行“鷹擊-2026”空軍聯合訓練】國防部新聞發言人蔣斌表示，中國與泰國將於8月在泰舉行“鷹擊-2026”空軍聯合訓練，中方派出多型飛機及地面防空等力量，與泰方開展聯合防空、人道主義救援等課目演練。這是兩國空軍第9次舉行該系列聯訓，旨在進一步深化傳統友誼與務實合作。
+
+---
+
+### 2026-07-30 15:12:57  #其他
+
+特斯拉：特斯拉全球第1000萬輛電動車下線。
+
+---
+
+### 2026-07-30 15:12:42  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #DXY #Impact bullish #XAUUSD #Impact bearish #EURUSD
+
+【Eurozone yields track U.S. Treasuries higher after Fed meeting; 30-year Bund at two-month high】Eurozone government bond yields rose, following higher U.S. Treasury yields after the Federal Reserve held rates steady and Middle East military tensions renewed. Germany's 30-year Bund hit a two-month high. Fed chair KEVIN WARSH signalled caution about hinting at further hikes, and ING analyst Chris Turner said the market reaction to the Fed press conference suggests the Fed may not be as aggressive in fighting inflation as previously expected. Market focus shifts to eurozone preliminary GDP and upcoming German inflation data.
+
+---
+
+### 2026-07-30 15:12:31  #公司 #市場 #央行 #國際
+
+【美聯儲抗通脹決心受質疑 部分基金轉向澳洲和歐洲債券】隨著市場愈來愈質疑美聯儲控制通脹的能力，部分全球債券投資人尋求轉向澳洲與歐洲等市場，這也進一步加重美國公債的賣壓。管理資產規模達1.1萬億美元的施羅德正擴大其看空美國國債的部位，同時買進澳洲、英國及歐元區短天期公債。該公司認為，美聯儲最新一次會議再次印證其看法，即美國決策官員可能仍需進一步收緊政策。該基金押注，上述市場的短天期國債收益率將下滑，並持有美國5年期及10年期公債的空頭部位。施羅德澳洲部分固定收益主管Kellie Wood表示，美聯儲的會議無疑再次強化我們持有、甚至增持美國國債空頭頭寸的觀點。美國以外有不少絕佳機會。我們看多澳洲、歐洲及英國等市場，因為相較於市場目前的定價，這些央行更有可能維持利率不變。
+
+---
+
+### 2026-07-30 15:12:14  #國際
+
+【中國海軍艦艇編隊將訪問印度尼西亞】7月30日下午，國防部舉行例行記者會，國防部新聞發言人蔣斌大校釋出訊息。 蔣斌：8月初，應印度尼西亞海軍邀請，中國人民解放軍海軍戚繼光艦、崑崙山艦組成的艦艇編隊將赴印度尼西亞泗水訪問。近年來，中印尼兩國海軍不斷拓展聯合演練、艦艇互訪等合作，推動兩軍關係走深走實。
+
+---
+
+### 2026-07-30 15:11:12  #公司 #國際
+
+【三星電子：預計美國泰勒第二座晶圓代工廠專案今年年底開工】三星電子7月30日稱，目前代工廠的先進製程產能擴張速度跟不上需求增速，美國泰勒首座代工廠建設專案在2026年投產的目標下有序推進。公司正為泰勒第二座代工廠專案今年年底開工做準備，預計該廠將於2030年投產，以滿足持續增長的需求。
+
+---
+
+### 2026-07-30 15:10:19  #Trading Economics #Economy #Turkey #Unemployment Rate #Importance 2
+
+Turkish June Jobless Rate Falls to Record Low — Turkey’s seasonally adjusted unemployment rate dropped to 7.6% in June 2026 from a downwardly revised 8.1% in the previous month. It was the lowest jobless rate since the data series began in 2005, as the number of unemployed individuals decreased by 168,000 to 2.69 million. Meanwhile, the employment rate rose to 48.9% from 48.6%, as the number of employed persons increased by 227,000 to 32.73 million.
 
 ---
 
@@ -21905,197 +22073,5 @@ Uzbekistan Holds Benchmark Rate at 14% — The Central Bank of Uzbekistan left i
 ### 2026-07-29 14:47:45  #其他
 
 【小米澎程更正N90 Max後備廂可放下腳踏車的型號描述】7月29日，@小米澎程 在宣傳小米澎程N90 Max的大空間時發文稱，二三排極致前移，能放下兩輛25英寸公路腳踏車，很適合週末騎行、露營。隨後，小米澎程發文稱，此條博文關於後備廂腳踏車的型號描述不準確，特此更正為“700C公路腳踏車”，並感謝網友的提醒與指正。小米方面還附上了宣傳實拍圖中的公路腳踏車尺寸資訊，供廣大騎行愛好者參考：黑色車，輪徑700C，52碼；白色車，輪徑700C，46碼。
-
----
-
-### 2026-07-29 14:46:23  #公司 #國際
-
-【非理性賣盤讓韓股一度暴跌13% SK海力士業績令人失望及散戶急賣】隨著散戶紛紛減碼，SK海力士令人失望的財報加劇了對AI領域本已不安的情緒，韓國股市暴跌。 韓國Kospi指數一度重挫13%，連續第二天引發斷熔斷機制，午後跌幅收窄至約6%。該指數料將創下約33%的最大單月跌幅紀錄，該指數今年稍早傲視全球的漲勢幾乎完全依賴三星電子和SK海力士這兩隻晶片股。隨著投資者質疑該行業鉅額投資的商業合理性，市場樂觀情緒迅速轉變為恐慌。散戶賣出1.8萬億韓元(約13億美元)的Kospi成分股，與先前市場回檔時持續逢低買進的態勢形成鮮明對比。隨著大盤跌幅收斂，機構投資人的買盤則逐漸增強。DS Asset Management一位基金經理Yoon Joonwon表示，大家看起來就是在奪門而出。尤其是散戶出現這種程度的拋售，很難理解。無論從技術面還是情緒面來看，這都是非理性賣盤。
-
----
-
-### 2026-07-29 14:46:20  #Trading Economics #Economy #United States #Interest Rate #Importance 3
-
-Fed to Keep Rates Steady, but Odds of a Hike Persist — The Federal Reserve is widely expected to leave the federal funds rate unchanged at 3.50%–3.75% for a fifth consecutive meeting in July 2026. However, the decision remains a close call, with markets assigning nearly a 30% probability to a rate hike. Policymakers continue to navigate heightened uncertainty driven by renewed tensions between the US and Iran and elevated oil prices, even as inflation has come in softer than expected and the labor market has remained resilient. US inflation eased to 3.5% in June, marking its first decline in five months. Investors will closely monitor both the voting split which has highlighted growing divisions within the Federal Reserve, and Chair Warsh's second press conference for clues about the likelihood of a rate hike in September. Markets are currently pricing in roughly a 77% probability of an increase at that meeting. Chair Warsh has repeatedly emphasized that restoring price stability remains the Federal Reserve's foremost priority.
-
----
-
-### 2026-07-29 14:45:58  #公司
-
-保時捷執行長：正研究將卡宴的生產從布拉迪斯拉發工廠轉移至萊比錫工廠的可能性，需在大眾集團內部找到解決方案。
-
----
-
-### 2026-07-29 14:45:18  #公司
-
-阿達尼集團正考慮出價收購英國聯合港口公司。
-
----
-
-### 2026-07-29 14:43:41  #公司 #市場
-
-星展集團股價上漲1.1%，盤中創下74.73新加坡元的歷史新高。
-
----
-
-### 2026-07-29 14:43:03  #公司 #市場
-
-【金盃汽車等成立汽車零部件公司 註冊資本約1765萬】天眼查App顯示，近日，瀋陽金盃夢達馳汽車零部件有限公司成立，法定代表人為于波，註冊資本約1765萬人民幣，經營範圍包括汽車零部件及配件製造、塑膠製品製造、模具製造、電子產品銷售等，由金盃汽車股份有限公司、夢達馳汽車系統（天津）有限公司共同持股。
-
----
-
-### 2026-07-29 14:42:33  #MKT News #Market Regions #Greater China
-
-【China carbon market turnover tops 62.9 bln yuan; coverage expected to broaden to ~80% by 2027】China’s national carbon emissions trading market, launched in July 2021, has recorded cumulative turnover of over 62.9 bln yuan as of July 28. It currently covers four high-emission sectors — power, steel, cement and aluminium smelting — accounting for more than 65% of China’s CO2 emissions. The market is expected by 2027 to extend to major industrial emitters including chemicals, petrochemicals, civil aviation and paper, expanding coverage to roughly 80% of national greenhouse gas emissions.
-
----
-
-### 2026-07-29 14:40:48  #MKT News #Commodities #Energy
-
-Petronas expects to continue supplying up to 540,000 tonnes/year of LNG to Japan’s Hokuriku Electric under a 10-year term starting in 2028.
-
----
-
-### 2026-07-29 14:40:35  #宏觀
-
-【全國碳排放權成交額突破629億元，覆蓋範圍將擴大】生態環境部會同國家發展改革委等18個部門29日聯合釋出《國家應對氣候變化“十五五”規劃》，系統部署“十五五”時期應對氣候變化的目標任務，為今後五年應對氣候變化工作提供清晰指引。碳市場是利用市場機制積極應對氣候變化、加快經濟社會發展全面綠色轉型的重要政策工具，也是實現碳達峰碳中和的有力舉措。新出臺的《國家應對氣候變化“十五五”規劃》提出，要加強全國碳市場建設，有序擴大行業範圍和溫室氣體種類。專家指出，這些目標立足我國發展實際，為培育新質生產力、驅動產業綠色轉型、實現“雙碳”目標提供了長效動力。（央視新聞）
-
----
-
-### 2026-07-29 14:40:22  #其他
-
-巴斯夫首席財務官表示：在當前市場環境下，併購相較於內生增長的相對吸引力有所提升。
-
----
-
-### 2026-07-29 14:40:12  #公司 #國際
-
-馬來西亞國家石油公司：自2028年起的十年間，分支預計將持續向日本北陸電力供應液化天然氣，年供應量最高可達54萬噸。
-
----
-
-### 2026-07-29 14:39:11  #MKT News #Commodities #Energy
-
-Malaysia's national oil company said it will strengthen long-term LNG ties with Japan's Hokuriku Electric Power Company and advance cooperation on carbon neutrality.
-
----
-
-### 2026-07-29 14:37:55  #公司
-
-【美銀：上調寧德時代AH股目標價，重申“買入”評級】美銀證券發表報告指，寧德時代第二季收入1480億元，同比升57%、環比升14%，較該行預測高13%；純利225億元，同比升37%、環比升9%，大致符合市場預期。上半年電動車電池銷售1920億元，同比升46%；儲能系統銷售533億元，同比升88%。管理層預期，受商用車及儲能系統需求帶動，下半年起需求增長持續強勁，而出口退稅下調及消費稅影響將由公司與客戶共同分擔，每單位盈利大致穩定。寧德時代同時公佈200億至400億元A股回購計劃，相當於已發行股份0.75%至1.51%，回購股份將予登出。美銀將其H股目標價由770港元上調至775港元，A股目標價由596元上調至599元，重申“買入”評級。
-
----
-
-### 2026-07-29 14:37:38  #公司 #國際
-
-【嘉能可稱其交易團隊上半年盈利33億美元】嘉能可表示，其交易團隊上半年盈利約33億美元，因此全年業績有望躋身紀錄前列。從上半年的成績來看，該公司已然非常接近其年度盈利目標區間的上限，即35億美元。這項交易業務去年賺了29億美元。照當前速度，該公司有望打破2022年創下的64億美元紀錄。中東衝突導致各個能源市場動盪，大宗商品貿易公司從中獲利頗豐。與此同時，從AI熱潮到貿易關稅，各種因素都推高了金屬價格。
-
----
-
-### 2026-07-29 14:37:16  #市場 #焦點
-
-南向資金淨賣出額達50億港元。
-
----
-
-### 2026-07-29 14:36:18  #公司
-
-【天鍵股份等成立電子科技公司，含積體電路晶片業務】企查查APP顯示，近日，江西天鍵康特電子科技有限公司成立，經營範圍包含：光通訊裝置製造，光通訊裝置銷售，積體電路晶片及產品製造，積體電路晶片及產品銷售等。企查查股權穿透顯示，該公司由天鍵股份等共同持股。
-
----
-
-### 2026-07-29 14:36:08  #公司
-
-保時捷執行長：我們將以非常穩健的方式規劃中國市場，打下堅實基礎。
-
----
-
-### 2026-07-29 14:36:05  #公司
-
-【即日起實施 我國發布化妝品註冊備案新舉措】記者從國家藥監局獲悉，我國今天公告發布化妝品註冊備案新舉措，即日起實施。據瞭解，新舉措鼓勵國際化妝品新品在中國首發；在堅守安全的前提下，減輕企業研發申報負擔，加快產品迭代升級，對配方體系近似產品，簡化註冊備案提交資料要求、簡化功效評價管理、減免動物試驗等。國家藥監局介紹，從今天起，配方體系近似的化妝品，比如同款不同色號的口紅，在註冊備案時可以選擇代表性產品進行測試評估，相似配方產品經科學評估後可共用安全性和功效評價資料。專家表示，這項舉措是我國《化妝品監督管理條例》最佳化註冊備案分類後，對行業減負增效的又一利好，口紅、香水等品類產品的研發成本將大幅下降。（央視新聞）
-
----
-
-### 2026-07-29 14:35:48  #公司
-
-【深圳市保險業協會：深圳車險綜合費用率實現連續6個月環比下降】深圳金融監管局7月29日組織召開2026年上半年新聞釋出會。人保財險深圳分公司代表深圳市保險業協會介紹上半年保險業深化整治無序競爭有關情況時表示，協會錨定降低保險業費差損目標，依託“監管推動、行業發動、機構主動、多方聯動”協同治理機制，推動行業競爭秩序持續向好。據介紹，截至6月末，深圳車險綜合費用率實現連續6個月環比下降；企財險、工程險綜合費用率實現同比兩位數下降；銀保專管員佣金率有序規範，銀保渠道降費效果明顯。
-
----
-
-### 2026-07-29 14:35:17  #公司
-
-保時捷執行長：中國仍是重要市場。
-
----
-
-### 2026-07-29 14:34:59  #MKT News #Market Regions #Greater China
-
-Porsche CEO says China remains an important market.
-
----
-
-### 2026-07-29 14:34:57  #公司
-
-【螞蟻數科開始籌備Pre-IPO輪融資】知情人士透露，螞蟻集團旗下子公司螞蟻數科正在籌備 Pre-IPO 融資。今日報道稱，螞蟻旗下獨立資料庫公司OceanBase目前正在尋求A輪融資，加上此前已完成 A 輪融資的螞蟻國際，螞蟻集團已有三家子公司在推進獨立融資。螞蟻數科2024年初成立董事會，正式獨立運營，此後其CEO趙聞飆曾透露將於年內實現盈虧平衡。前不久釋出的IDC報告顯示，螞蟻數科位列中國智慧體開發平臺私有化市場中位居非雲廠商第一，在2025年中國金融大模型與智慧體服務市場佔有率第一，但螞蟻數科從未公開透露過具體經營情況。公開資料顯示，目前，螞蟻數科與300餘家合作伙伴一起服務了全球30000+家企業客戶。
-
----
-
-### 2026-07-29 14:34:29  #Trading Economics #Markets #Commodity #Importance 1
-
-UK Gas Prices Advance — UK natural gas prices rose above 143 pence per therm on Wednesday after a two-day decline, as renewed hostilities in the Middle East heightened concerns over prolonged supply disruptions. The US military said on Tuesday it had intercepted multiple missiles launched by Iran, ending a days-long lull in fighting between the two sides. Both nations had largely held fire over the weekend following nearly two weeks of nightly US strikes on Iran and repeated attacks by Tehran targeting Washington's allies across the Gulf. The latest escalation worsens Europe’s gas supply outlook as the region races to replenish storage ahead of the winter. Supply concerns were further exacerbated by reports that QatarEnergy, one of the world's largest LNG exporters, has extended its force majeure for European buyers until at least the end of September.
-
----
-
-### 2026-07-29 14:34:05  #公司
-
-【浙大網新子公司中標浙江交通職業技術學院校園AI中臺（一期）建設專案】據浙大網新訊息，近日，浙大網新旗下子公司華通雲資料成功中標浙江交通職業技術學院校園AI中臺（一期）建設專案。
-
----
-
-### 2026-07-29 14:31:28  #宏觀
-
-【國臺辦：解放軍在臺海周邊組織演訓活動天經地義】福建漳州海事局釋出航行警告，23日、24日在臺灣海峽部分海域進行實彈射擊。針對臺外事部門對此發表的有關言論，國務院臺辦發言人陳斌華在今天舉行的例行新聞釋出會上作出回應。陳斌華表示，臺灣是中國的一部分，解放軍在臺海周邊組織演訓活動，合理合法，天經地義。民進黨當局出於謀“獨”政治私利，一貫惡意炒作、造謠抹黑大陸，煽動兩岸對立對抗，再次暴露其謀“獨”的色厲內荏，不會得逞。（央視新聞）
-
----
-
-### 2026-07-29 14:31:15  #市場
-
-【日韓股市收跌 韓國KOSPI指數跌近6%】日經225指數收盤下跌930.73點，跌幅1.49%，報61434.19點。韓國KOSPI指數收盤下跌360.58點，跌幅5.99%，報5663.08點，盤中一度跌超12%，連續兩個交易日觸發熔斷。SK海力士績後跌9.6%，盤中一度跌逾17%創紀錄最大日內跌幅；三星電子跌5.2%。
-
----
-
-### 2026-07-29 14:30:46  #其他
-
-【斯洛伐克總統發帖分享訪華期間逛“機器人大世界”感受：印象非常深刻】7月27日至29日，斯洛伐克總統佩列格里尼對中國進行國事訪問。29日，佩列格里尼在社交平臺上發帖，分享自己在北京訪問期間逛“機器人大世界”的感受。“在對中國進行國事訪問期間，我參觀了‘機器人大世界’。在這裡，先進技術與零售創新的融合令人印象非常深刻。”佩列格里尼當天在帖子中稱，自己看到機器人如何改變購物體驗，以及自動化如何提升效率和顧客參與度。（環球網）
-
----
-
-### 2026-07-29 14:30:30  #國際
-
-市場訊息：美國國會參議院今天繼續推進俄羅斯制裁法案。
-
----
-
-### 2026-07-29 14:30:22  #其他
-
-野村控股第一季度淨利潤1,455.6億日元，上年同期1,045.7億日元。
-
----
-
-### 2026-07-29 14:30:16  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-The Nikkei 225 Index Closes 1.69% Lower — The Nikkei 225 Index fell 1052 points or 1.69 percent on Wednesday to close at 61313 points. Leading the losses are Screen Holdings (-18.91%), Taiyo Yuden (-14.00%) and Tokyo Electron (-11.44%).
-
----
-
-### 2026-07-29 14:28:38  #公司
-
-【天齊鋰業增資至約17.06億元】天眼查App顯示，7月28日，天齊鋰業股份有限公司發生工商變更，註冊資本由約16.41億人民幣增至約17.06億人民幣。該公司成立於1995年10月，法定代表人為蔣安琪，經營範圍包括經營本企業自產的電池級碳酸鋰、工業級碳酸鋰及其鋰系列產品的出口業務等，由張靜、成都天齊實業（集團）有限公司等共同持股。
-
----
-
-### 2026-07-29 14:28:04  #其他
-
-【7月29日：“農產品批發價格200指數”比昨天上升0.11個點】據農業農村部監測，7月29日“農產品批發價格200指數”為113.79，比昨天上升0.11個點，“菜籃子”產品批發價格指數為113.99，比昨天上升0.13個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.92元/公斤，比昨天下降0.2%；牛肉67.12元/公斤，與昨天持平；羊肉64.92元/公斤，比昨天上升0.3%；雞蛋10.03元/公斤，比昨天下降0.1%；白條雞17.22元/公斤，比昨天上升0.3%。重點監測的28種蔬菜平均價格為4.41元/公斤，比昨天上升0.7%；重點監測的6種水果平均價格為6.79元/公斤，比昨天下降1.7%。鯽魚20.30元/公斤，與昨天持平；鯉魚14.56元/公斤，比昨天上升0.2%；白鰱魚10.12元/公斤，比昨天上升0.8%；大帶魚40.15元/公斤，比昨天下降2.8%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是南瓜、萵筍、西紅柿、豆角和生菜，幅度分別為3.4%、2.9%、2.8%、2.8%和1.9%；價格降幅前五名的是大帶魚、西瓜、菠蘿、巨峰葡萄和冬瓜，幅度分別為2.8%、2.5%、2.5%、2.3%和2.1%。
 
 ---
