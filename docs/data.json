@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-02 09:06:45",
-  "count": 17959,
+  "updated": "2026-08-02 09:10:39",
+  "count": 17957,
   "items": [
+    {
+      "id": "5020618",
+      "time": "2026-08-02 09:07:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京市釋出雷電黃色預警】北京市氣象局釋出雷電黃色預警：預計，8月2日下午至夜間，我市有雷陣雨，短時雨強較大，並伴有6—7級陣風，請注意防範。"
+    },
+    {
+      "id": "mkt:019fc003-59ed-7aab-8f44-40f05d2f46c5",
+      "time": "2026-08-02 09:07:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Death toll from Japan's Kumamoto quake rises to 38】Kumamoto prefectural government said on Aug 2 the death toll from the July 28 earthquake has risen to 38, including fatalities still under investigation for links to the quake."
+    },
     {
       "id": "5020617",
       "time": "2026-08-02 09:05:53",
@@ -166314,42 +166330,6 @@
         "國際"
       ],
       "text": "【分析師：SK海力士二季度營業利潤預計達64.1萬億韓元】一份行業分析報告週日指出，受人工智慧催生半導體超級景氣週期帶動，疊加SK海力士在高頻寬記憶體（HBM）市場的龍頭地位加持，該公司今年第二季度營業利潤有望創下64.1萬億韓元（摺合437億美元）的歷史新高。 綜合14家韓國本土券商預測得出一致預估資料：今年4至6月，SK海力士銷售額預計達84.1萬億韓元，營業利潤64.1萬億韓元。 該數值將遠超公司2025年全年47.2萬億韓元的營業利潤歷史紀錄。 公司二季度營業利潤率預計維持在75%至77%區間，一季度利潤率為75%。 本次市場預測與三星電子本月早些時候釋出的二季度業績指引大體吻合，三星此前預估自身季度營業利潤將達89.4萬億韓元，同樣重新整理單季紀錄。 若SK海力士週三公佈的二季度財報符合市場預期，韓國兩大儲存晶片廠商合計營業利潤將突破150萬億韓元。 分析師認為，儲存晶片價格上漲、人工智慧資料中心所需高頻寬記憶體與固態硬碟需求旺盛，是企業本季業績大幅走高的核心原因。"
-    },
-    {
-      "id": "mkt:019f9bf7-d42b-7aab-8e97-cce075ba9d18",
-      "time": "2026-07-26 09:08:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Korea Automobile & Mobility Association (KAMA) said South Korean vehicle exports rose 2.1% YoY to 1.441 mln units in 1H; environmentally friendly models' share climbed to 37.0% from 30.0% a year earlier. KAMA expects H2 exports to decline 0.3% YoY to 1.32 mln units, citing high global inflation and rate hikes, leaving full-year exports at 2.76 mln units, up 0.9% YoY."
-    },
-    {
-      "id": "5008234",
-      "time": "2026-07-26 09:08:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！黃海北部實彈射擊】據中國海事局網站訊息，大連海事局釋出航行警告，7月27日8時至29日17時30分，黃海北部部分海域實彈射擊，禁止駛入。 （央視軍事）"
-    },
-    {
-      "id": "mkt:019f9bf7-18a5-7aab-8e97-c0674fbbae7f",
-      "time": "2026-07-26 09:08:09",
-      "tags": [
-        "MKT News",
-        "005380.KS",
-        "Impact bullish",
-        "000270.KS"
-      ],
-      "text": "Korean Automobile and Mobility Association (KAMA) forecasts South Korea’s domestic vehicle sales in H2 will rise 2.7% YoY to 865,000 units, bringing full-year sales to 1.71 million units."
-    },
-    {
-      "id": "5008233",
-      "time": "2026-07-26 09:07:57",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【巴西總統盧拉：任何外部勢力不得干預巴西大選】巴西總統盧拉當地時間25日在出席聖保羅州勞工黨代表大會時表示，“任何企圖從外部干預巴西選舉的人都將付出沉重代價”。盧拉稱，巴西是主權國家，國家命運將由全體選民決定，任何外部勢力不得干預。此前一天，巴西外交部拒絕美國國務院助理國務卿萊利·M·巴恩斯和助理副國務卿塞繆爾·薩姆森的簽證申請，但未公佈具體原因。據稱，這二人對巴西選舉制度的公正性和可靠性提出質疑。目前，美國國務院尚未就此事發表評論。巴西將於今年10月開始總統大選。 (央視新聞)"
     }
   ]
 }
