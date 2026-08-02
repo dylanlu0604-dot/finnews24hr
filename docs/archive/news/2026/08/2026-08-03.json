@@ -1,7 +1,15 @@
 {
   "date": "2026-08-03",
-  "count": 65,
+  "count": 66,
   "items": [
+    {
+      "id": "mkt:019fc38d-cc84-7aab-8f48-73dfaf5d92d4",
+      "time": "2026-08-03 01:37:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli officials cast doubt on Iran's uranium stockpile and the Trump administration's commitments on Tehran's conduct, the Israeli Broadcasting Corporation said."
+    },
     {
       "id": "mkt:019fc389-cac5-7aab-8f48-6a9b4d9228de",
       "time": "2026-08-03 01:33:35",

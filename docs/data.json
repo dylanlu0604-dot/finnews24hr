@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-03 01:34:41",
-  "count": 17948,
+  "updated": "2026-08-03 01:38:43",
+  "count": 17947,
   "items": [
+    {
+      "id": "mkt:019fc38d-cc84-7aab-8f48-73dfaf5d92d4",
+      "time": "2026-08-03 01:37:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli officials cast doubt on Iran's uranium stockpile and the Trump administration's commitments on Tehran's conduct, the Israeli Broadcasting Corporation said."
+    },
     {
       "id": "mkt:019fc389-cac5-7aab-8f48-6a9b4d9228de",
       "time": "2026-08-03 01:33:35",
@@ -166349,22 +166357,6 @@
         "MKT News"
       ],
       "text": "Iran's president has approved implementation of the first amendment to the Islamic Consultative Assembly's internal regulations."
-    },
-    {
-      "id": "mkt:019f9f7e-db13-7aab-8e9b-9833a2420b87",
-      "time": "2026-07-27 01:35:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's foreign minister and the IAEA director general, while reviewing the latest regional situation, stressed the need to advance diplomatic efforts to secure lasting peace."
-    },
-    {
-      "id": "5008678",
-      "time": "2026-07-27 01:35:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗最高領袖：支援黎真主黨並要求全面結束以對黎軍事行動】伊朗最高領袖穆傑塔巴·哈梅內伊當地時間7月26日晚對黎巴嫩真主黨領導人納伊姆·卡西姆及其武裝人員日前的來信作出回覆。回信稱，在當前地區局勢下，黎巴嫩真主黨是抵抗以色列及其支持者的主要力量，並已成為鼓舞世界各地反對霸權主義及其代理人的重要力量。回信表示，黎真主黨能夠持續堅持，不僅依靠其武裝人員，也離不開黎巴嫩民眾，特別是南部地區民眾的支援。穆傑塔巴重申，根據已故伊朗最高領袖哈梅內伊確立的路線，支援黎巴嫩真主黨已成為伊朗的一項戰略政策。他表示，伊朗將維護黎巴嫩領土完整、全面且無條件結束以色列對黎軍事行動，作為與美國達成結束衝突相關諒解備忘錄的首要條件。穆傑塔巴還表示，世界各國人民已經無法忍受美國和以色列的“壓迫與暴行”，並稱將繼續堅持抵抗路線。（央視新聞）"
     }
   ]
 }
