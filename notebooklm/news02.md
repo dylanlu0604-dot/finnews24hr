@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-03 02:37:32_
-_本檔包含 3592 則快訊，約 669402 字_
+_更新時間：2026-08-03 03:45:39_
+_本檔包含 3585 則快訊，約 670316 字_
+
+---
+
+### 2026-07-31 14:48:12  #市場
+
+新臺幣兌美元上漲0.3%至32.356。
+
+---
+
+### 2026-07-31 14:47:36  #公司
+
+【廣東華興銀行正推進國有股東入股及增資工作】聯合資信出具評級報告顯示，廣東華興銀行正推進2026年國有股東入股及增資工作。據瞭解，華興銀行於2011年在汕頭註冊，註冊資本80億元，去年末資產規模超4800億元，目前該行也是廣東省內唯一一家非國有控股城商行。
+
+---
+
+### 2026-07-31 14:46:50  #市場 #焦點 #A股
+
+【德明利翻綠 成交額超160億】德明利早盤炸板，股價持續回落尾盤翻綠，目前成交額超160億元。
+
+---
+
+### 2026-07-31 14:46:28  #央行 #國際
+
+日本央行行長植田和男：總體而言，得當的貨幣政策以及市場對長期財政可持續性的信心，對穩定收益率而言至關重要。
+
+---
+
+### 2026-07-31 14:46:21  #經濟數據 #歐元區
+
+法國7月CPI同比增長2.1%，預期1.8%，前值1.8%。
+
+---
+
+### 2026-07-31 14:46:10  #央行 #國際
+
+日本央行行長植田和男：避免對每日市場波動發表評論。
+
+---
+
+### 2026-07-31 14:45:55  #央行 #國際
+
+日本央行行長植田和男：當前通脹超調的風險高於以往，我們將在下次貨幣政策會議上對此進行審慎討論。將在下次貨幣政策會議上分析中東局勢、人工智慧需求以及匯率變動對經濟和物價帶來的各類風險。
+
+---
+
+### 2026-07-31 14:45:10  #資料
+
+法國6月PPI年率 2.6%，前值由3.00%修正為3.1%。法國7月調和CPI年率初值 2.4%，預期2.1%，前值2.00%。法國6月PPI月率 -0.6%，前值由-0.30%修正為-0.2%。
+
+---
+
+### 2026-07-31 14:44:02  #央行 #國際
+
+日本央行行長植田和男：當前比以往任何時候都更需要警惕通脹超調風險。
+
+---
+
+### 2026-07-31 14:43:51  #公司 #焦點
+
+【南方東英回應市場疑慮：預計兩倍做多海力士維持兩倍槓桿】近期，南方東英兩倍做多海力士(07709.HK)因價格劇烈波動成為市場焦點。截至7月30日，SK海力士較6月高點累計跌去49%，兩倍做多海力士的產品淨值累計回撤超過80%，規模從1300億港元縮水約千億港元。在香港證監會上週釋出新規後，本週一，南方東英發布公告，宣佈自8月3日起，旗下掛鉤SK海力士、三星電子、特斯拉、英偉達等12只熱門海外個股的槓桿及反向產品，將全面切換至“靈活槓桿結構”。此舉引發了投資者質疑，因為若管理人主動降低槓桿，假設後續SK海力士快速反彈，ETF淨值修復的速度將明顯變慢，高位買入的回本週期將會變長。7月30日晚間，南方東英針對市場關於該產品將切換“靈活槓桿結構”並可能降低槓桿倍數的疑問作出澄清，表示在當前市況下，該產品預計將維持在兩倍（2x）槓桿，基金經理不會基於自身對於市場的判斷進行任何主動調整槓桿倍數的操作。南方東英強調，自相關變動生效後，將於每個交易日開市前釋出有關目標槓桿倍數公告。以該產品為例，該公告將於7月31日收市後發出，敬請投資者密切留意。（21財經）
+
+---
+
+### 2026-07-31 14:43:37  #Trading Economics #Economy #Hungary #Producer Prices Change #Importance 1
+
+Hungary Producer Price Deflation Eases — Producer prices in Hungary decreased by 0.4% year-on-year in June 2026, following a 0.7% decline in the previous month. Non-domestic output prices continued to fall, albeit at a slower pace (-1.4% vs -1.8% in May), while growth in domestic output prices eased (1.8% vs 1.9%). By sector, prices in mining and quarrying declined (-3.1% vs 0.4%), while inflation for water collection, treatment and supply eased (2.5% vs 2.7%). Meanwhile, the decline in overall industrial producer prices moderated (-0.4% vs -0.7%), while price growth for electricity, gas, steam and air-conditioning supply accelerated (8.8% vs 7.5%). Manufacturing producer prices remained in decline at 2.2%. On a monthly basis, producer prices ticked up by 0.1%, reversing a 1.7% decline in the previous month.
+
+---
+
+### 2026-07-31 14:43:28  #其他
+
+【工信部：上半年規模以上電子資訊製造業增加值同比增長14.8%】工信部發布資料，上半年，規模以上電子資訊製造業增加值同比增長14.8%，增速分別比同期工業、高技術製造業高9.4個和高1.5個百分點。6月份，規模以上電子資訊製造業增加值同比增長15.7%。主要產品中，工業機器人產量53.8萬套，同比增長28.0%；新能源汽車產量739.9萬輛，同比增長6.0%；積體電路產量2798億塊，同比增長23.1%。
+
+---
+
+### 2026-07-31 14:42:58  #公司
+
+【長城證券：維持寧德時代“買入”評級，動儲出貨領跑全球，龍頭地位穩固】長城證券研報指出，寧德時代動儲出貨領跑全球，龍頭地位穩固。2026H1實現歸母淨利潤為432.84億元，同比+41.98%；其中Q2實現歸母淨利潤為225.46億元，同環比+36.46%/8.72%。動力、儲能電池出貨量持續領跑全球，全球份額持續提升。公司H1 電池系統產量498GWh，產能利用率高達94.86%，公司電池系統在建產能764GWh，並新設時代資源集團強化鋰鎳磷資源一體化佈局。隨著公司出貨量穩定提升，公司市佔率有望維持領先。此外，鈉電迎來產業化拐點，AIDC、低空經濟等新興業務發展迅速。大額分紅回購彰顯信心，公司於2026年7月24日公告200-400億元登出式回購方案，擬以集中競價方式回購A股股份，回購價格上限573 元/股，預計回購股份佔公司總股本0.75%-1.51%，認為此次大額回購體現了公司未來中長期的成長信心。公司不斷深化全球供應鏈佈局，電池技術發展領先。維持“買入”評級。
+
+---
+
+### 2026-07-31 14:42:37  #公司 #觀點
+
+【高盛：小米澎程系列新車定價具顛覆性，維持“買入”評級】高盛發表報告指，小米集團昨晚舉行汽車技術釋出會，釋出小米汽車全新技術平臺小米崑崙技術架構，並推出新車系列SKYNOMAD小米澎程，分別為25.99萬及29.99萬元。高盛認為，崑崙平臺可實現大型、智慧化及完全可配置的內飾，配備平坦地板及長軌道系統，為汽車行業帶來新特色。高盛形容小米澎程系列新車預售價或對中國汽車市場帶來顛覆性，考慮到其行業領先的內飾空間、續航支援及獨特生態系統整合。高盛繼續預測小米澎程系列2026年及2027年交付量分別為11萬輛及24萬輛，2027年銷量相當於2025年售價介乎20萬至40萬元之間的160萬輛以上SUV(不包括純電動車)的15%；樂觀情況2027年銷量有望達50萬輛。高盛維持對小米集團“買入”評級，目標價40港元。
+
+---
+
+### 2026-07-31 14:41:30  #市場
+
+鎧俠：第一季度NAND快閃記憶體單價較上一季度上漲70%。
+
+---
+
+### 2026-07-31 14:41:02  #市場 #焦點
+
+科創50日內漲幅達3.96%，成分股中，中控技術漲16.67%，生益電子漲15.38%，芯原股份漲15.19%，盛科通訊漲13.80%。
+
+---
+
+### 2026-07-31 14:41:02  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+ASX 200 Marks Fourth Monthly Gain, Up 2.3% in July — The ASX 200 closed slightly firmer at 8,978 on Friday, clawing back losses from the prior session as strength in tech, non-energy minerals, and utilities offset broader caution. Sentiment was lifted by a rally in U.S. stock futures after Amazon’s upbeat earnings and a rebound in chip stocks on Wall Street Thursday. Gains, however, were capped by weaker factory activity in China, with July’s official PMI underscoring slowing demand from Australia’s key trading partner. Miners gained on higher copper prices, lifting Rio Tinto (1.0%) and South32 (0.8%), while gold producers Evolution Mining (1.8%) also advanced. However, the big four banks fell between 0.1% and 0.4%. Still, Australian equities booked their first weekly gain in a month, up 2.3%, and a fourth straight monthly rise, supported by robust private credit growth in June. Inflation worries also eased after softer June and Q2 readings, reinforcing views that the central bank’s three rate hikes this year are beginning to bite.
 
 ---
 
@@ -21524,149 +21626,5 @@ On July 30 (Thursday) European opens: Germany's DAX opened down 76.26 points (-0
 ### 2026-07-30 15:01:55  #市場
 
 【收評：科創50指數跌超5%，大消費板塊逆勢走強】市場全天探底回升，三大指數集體調整，科創50跌超5%。以白酒為的消費股逆勢走強，一鳴食品3連板，金徽酒、捨得酒業等漲停。銀行板塊震盪拉昇，工商銀行、建設銀行均創歷史新高。下跌方面，半導體晶片股走低，長電科技、通富微電等跌停，華虹宏力、寒武紀等跌超10%；算力硬體股下挫，劍橋科技、東山精密等跌停，新易盛、天孚通訊等跌超10%。個股跌多漲少，滬深京三市超3600股飄綠，今日成交2.36萬億。截止收盤滬指跌0.62%，深成指跌2.73%，創業板指跌3.97%。
-
----
-
-### 2026-07-30 15:01:44  #其他
-
-【今年洋山口岸國際航行船舶進出港數量突破6000艘次】記者從上海邊檢總站獲悉，今年以來進出洋山口岸的國際航行船舶總量突破6000艘次，同時今年以來該站累計查驗入出境（港）人員14.6萬餘人次，為8500多名遠洋船員高效辦理登離輪換班手續，口岸航運活躍度、船舶週轉效率持續處於全球港口領先地位。（央視新聞）
-
----
-
-### 2026-07-30 15:01:33  #公司
-
-【國家電投集團雲南國際電力投資有限公司原副總經理魏毅接受審查調查】中央紀委國家監委網站7月30日通報，據中央紀委國家監委駐國家電投紀檢監察組、雲南省紀委監委訊息：國家電投集團雲南國際電力投資有限公司原黨委委員、副總經理魏毅涉嫌嚴重違紀違法，主動投案，目前正接受中央紀委國家監委駐國家電投紀檢監察組紀律審查和雲南省監察委員會監察調查。
-
----
-
-### 2026-07-30 15:01:32  #MKT News
-
-【Index futures midday close】At midday, China index futures: CSI 300 futures (IF) main contract down 0.79 pct; SSE 50 futures (IH) main contract up 0.22 pct; CSI 500 futures (IC) main contract down 2.60 pct; CSI 1000 futures (IM) main contract down 2.57 pct.
-
----
-
-### 2026-07-30 15:01:28  #MKT News #Important #WTI #Impact bullish
-
-At the midday close, China’s main futures contracts were mostly down: lithium carbonate and iron ore slipped more than 3%; soda ash and rapeseed meal fell over 2%; ferrosilicon, glass and rebar were down about 2%. On the upside, Shanghai crude (SC) jumped over 6%, ethylene glycol (EG) gained nearly 5%, fuel oil rose about 4%, paraxylene (PX), PET chips and low-sulfur fuel oil (LU) advanced more than 3%, while PTA and short fiber rose roughly 3%.
-
----
-
-### 2026-07-30 15:01:22  #公司
-
-【中微公司在武漢成立新公司 註冊資本5000萬】天眼查App顯示，近日，中微半導體裝置（武漢）有限公司成立，法定代表人為尹志堯，註冊資本5000萬人民幣，經營範圍含半導體器件專用裝置製造、電子專用裝置製造等。股東資訊顯示，該公司由中微公司（688012）全資持股。
-
----
-
-### 2026-07-30 15:01:03  #市場 #焦點
-
-A股收盤，上證指數跌0.62%，深證成指跌2.73%，創業板指跌3.97%。
-
----
-
-### 2026-07-30 15:01:00  #其他
-
-【新疆維吾爾自治區博爾塔拉蒙古自治州人民政府副州長杜應昆接受審查調查】中央紀委國家監委網站7月30日通報，據新疆維吾爾自治區紀委監委訊息：新疆維吾爾自治區博爾塔拉蒙古自治州人民政府黨組成員、副州長杜應昆涉嫌嚴重違紀違法，目前正接受新疆維吾爾自治區紀委監委紀律審查和監察調查。
-
----
-
-### 2026-07-30 15:00:52  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-Spain HICP preliminary MoM July -0.1% (exp -0.2%); June +0.6%.
-
----
-
-### 2026-07-30 15:00:44  #MKT News #EURUSD
-
-Spain July CPI preliminary MoM +0.2% (consensus +0.2%); June +0.60%.
-
----
-
-### 2026-07-30 15:00:30  #其他
-
-【兩部門啟動全國區劃地名文物名錄建設 首批試點約15個】今天，民政部辦公廳、國家文物局辦公室共同釋出通知，要在全國開展區劃地名文物名錄建設試點，讓承載著中華文明基因的區劃地名文物“活”起來。通知指出，試點期限原則上為1年。各地要結合第四次全國文物普查，以不可移動文物目錄為基礎，篩選認定一批文物，能夠充分體現行政區劃地名歷史沿革和演進歷程。參考《區劃地名不可移動文物提示類別》，可以包括但不限於：古文化遺址，古墓葬、古建築、石窟寺及石刻、近現代重要史蹟及代表性建築等。通知明確，首批區劃地名文物名錄建設試點地區為15個左右，計劃在全國範圍內遴選，主要以市（地、州、盟）為單元，基礎條件特別優秀的縣級單元也可納入。區劃地名文物名錄，應包含文物名稱、所在位置、產生年代、儲存現狀、保護級別、管理責任機構（人）以及所蘊含的區劃地名歷史文化資訊等基本要素。試點堅持“保護第一，傳承優先”原則。（央視新聞）
-
----
-
-### 2026-07-30 15:00:20  #宏觀
-
-市場監管總局公佈六起市場化活動違法違規行為專項整治典型案件。
-
----
-
-### 2026-07-30 15:00:13  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-Spain Q2 preliminary GDP QoQ 0.7% vs 0.6% expected; prior 0.60%.
-
----
-
-### 2026-07-30 15:00:12  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-Switzerland's KOF economic barometer for July 103.5, vs. 101 expected; prior reading revised to 102.1 from 101.2.
-
----
-
-### 2026-07-30 15:00:12  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-Spain July preliminary CPI YoY 3.5% (consensus 3.4%; June 3.2%).
-
----
-
-### 2026-07-30 15:00:12  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-Spain Q2 preliminary annualized GDP 2.7% vs 2.5% expected; prior 2.7%.
-
----
-
-### 2026-07-30 15:00:11  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-Stocks in Italy Hit 4-week Low — IT40 decreased to 51235.00 Index Points, the lowest since June 2026. Over the past 4 weeks, Italy Stock Market Index (IT40) lost 0.64%, and in the last 12 months, it increased 25.1%.
-
----
-
-### 2026-07-30 15:00:08  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-Spain July HICP preliminary YoY 3.8% (exp. 3.7%; prev. 3.6%).
-
----
-
-### 2026-07-30 15:00:04  #市場
-
-【商品期貨收盤】上海原油連續漲6.19%，乙二醇連續漲4.75%，燃料油連續漲3.89%，碳酸鋰連續跌3.68%，對二甲苯連續漲3.50%，瓶片連續漲3.35%。
-
----
-
-### 2026-07-30 15:00:03  #市場
-
-歐股開盤漲跌不一，德國DAX指數跌0.01%，英國富時100指數漲0.34%，法國CAC40指數跌0.6%，歐洲斯托克50指數跌0.65%，義大利富時MIB指數跌0.49%。
-
----
-
-### 2026-07-30 15:00:02  #市場
-
-【股指期貨午盤收盤】 中證1000指數期貨連續跌2.56%， 滬深300指數期貨連續跌0.83%， 中證500指數期貨連續跌2.57%， 上證50指數期貨連續漲0.23%。
-
----
-
-### 2026-07-30 15:00:00  #MKT News #Economic Calendar #Important
-
-Spain | CPI Flash (YoY) (Jul) | actual 3.5% | consensus 3.4% | previous 3.20%
-
----
-
-### 2026-07-30 15:00:00  #MKT News #Economic Calendar #Important
-
-Spain | Preliminary Quarterly GDP (Q2) | actual 0.7% | consensus 0.6% | previous 0.60%
-
----
-
-### 2026-07-30 15:00:00  #MKT News #Economic Calendar #Important
-
-Spain | Preliminary Annual GDP (Q2) | actual 2.7% | consensus 2.5% | previous 2.70%
-
----
-
-### 2026-07-30 15:00:00  #MKT News #Economic Calendar #Important
-
-Spain | HICP Flash (YoY) (Jul) | actual 3.8% | consensus 3.7% | previous 3.60%
 
 ---

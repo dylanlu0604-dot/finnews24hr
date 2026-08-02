@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-03 02:37:32_
-_本檔包含 3647 則快訊，約 670304 字_
+_更新時間：2026-08-03 03:45:39_
+_本檔包含 3660 則快訊，約 670306 字_
+
+---
+
+### 2026-07-30 15:01:44  #其他
+
+【今年洋山口岸國際航行船舶進出港數量突破6000艘次】記者從上海邊檢總站獲悉，今年以來進出洋山口岸的國際航行船舶總量突破6000艘次，同時今年以來該站累計查驗入出境（港）人員14.6萬餘人次，為8500多名遠洋船員高效辦理登離輪換班手續，口岸航運活躍度、船舶週轉效率持續處於全球港口領先地位。（央視新聞）
+
+---
+
+### 2026-07-30 15:01:33  #公司
+
+【國家電投集團雲南國際電力投資有限公司原副總經理魏毅接受審查調查】中央紀委國家監委網站7月30日通報，據中央紀委國家監委駐國家電投紀檢監察組、雲南省紀委監委訊息：國家電投集團雲南國際電力投資有限公司原黨委委員、副總經理魏毅涉嫌嚴重違紀違法，主動投案，目前正接受中央紀委國家監委駐國家電投紀檢監察組紀律審查和雲南省監察委員會監察調查。
+
+---
+
+### 2026-07-30 15:01:32  #MKT News
+
+【Index futures midday close】At midday, China index futures: CSI 300 futures (IF) main contract down 0.79 pct; SSE 50 futures (IH) main contract up 0.22 pct; CSI 500 futures (IC) main contract down 2.60 pct; CSI 1000 futures (IM) main contract down 2.57 pct.
+
+---
+
+### 2026-07-30 15:01:28  #MKT News #Important #WTI #Impact bullish
+
+At the midday close, China’s main futures contracts were mostly down: lithium carbonate and iron ore slipped more than 3%; soda ash and rapeseed meal fell over 2%; ferrosilicon, glass and rebar were down about 2%. On the upside, Shanghai crude (SC) jumped over 6%, ethylene glycol (EG) gained nearly 5%, fuel oil rose about 4%, paraxylene (PX), PET chips and low-sulfur fuel oil (LU) advanced more than 3%, while PTA and short fiber rose roughly 3%.
+
+---
+
+### 2026-07-30 15:01:22  #公司
+
+【中微公司在武漢成立新公司 註冊資本5000萬】天眼查App顯示，近日，中微半導體裝置（武漢）有限公司成立，法定代表人為尹志堯，註冊資本5000萬人民幣，經營範圍含半導體器件專用裝置製造、電子專用裝置製造等。股東資訊顯示，該公司由中微公司（688012）全資持股。
+
+---
+
+### 2026-07-30 15:01:03  #市場 #焦點
+
+A股收盤，上證指數跌0.62%，深證成指跌2.73%，創業板指跌3.97%。
+
+---
+
+### 2026-07-30 15:01:00  #其他
+
+【新疆維吾爾自治區博爾塔拉蒙古自治州人民政府副州長杜應昆接受審查調查】中央紀委國家監委網站7月30日通報，據新疆維吾爾自治區紀委監委訊息：新疆維吾爾自治區博爾塔拉蒙古自治州人民政府黨組成員、副州長杜應昆涉嫌嚴重違紀違法，目前正接受新疆維吾爾自治區紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-07-30 15:00:52  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+Spain HICP preliminary MoM July -0.1% (exp -0.2%); June +0.6%.
+
+---
+
+### 2026-07-30 15:00:44  #MKT News #EURUSD
+
+Spain July CPI preliminary MoM +0.2% (consensus +0.2%); June +0.60%.
+
+---
+
+### 2026-07-30 15:00:30  #其他
+
+【兩部門啟動全國區劃地名文物名錄建設 首批試點約15個】今天，民政部辦公廳、國家文物局辦公室共同釋出通知，要在全國開展區劃地名文物名錄建設試點，讓承載著中華文明基因的區劃地名文物“活”起來。通知指出，試點期限原則上為1年。各地要結合第四次全國文物普查，以不可移動文物目錄為基礎，篩選認定一批文物，能夠充分體現行政區劃地名歷史沿革和演進歷程。參考《區劃地名不可移動文物提示類別》，可以包括但不限於：古文化遺址，古墓葬、古建築、石窟寺及石刻、近現代重要史蹟及代表性建築等。通知明確，首批區劃地名文物名錄建設試點地區為15個左右，計劃在全國範圍內遴選，主要以市（地、州、盟）為單元，基礎條件特別優秀的縣級單元也可納入。區劃地名文物名錄，應包含文物名稱、所在位置、產生年代、儲存現狀、保護級別、管理責任機構（人）以及所蘊含的區劃地名歷史文化資訊等基本要素。試點堅持“保護第一，傳承優先”原則。（央視新聞）
+
+---
+
+### 2026-07-30 15:00:20  #宏觀
+
+市場監管總局公佈六起市場化活動違法違規行為專項整治典型案件。
+
+---
+
+### 2026-07-30 15:00:13  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+Spain Q2 preliminary GDP QoQ 0.7% vs 0.6% expected; prior 0.60%.
+
+---
+
+### 2026-07-30 15:00:12  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+Switzerland's KOF economic barometer for July 103.5, vs. 101 expected; prior reading revised to 102.1 from 101.2.
+
+---
+
+### 2026-07-30 15:00:12  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+Spain July preliminary CPI YoY 3.5% (consensus 3.4%; June 3.2%).
+
+---
+
+### 2026-07-30 15:00:12  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+Spain Q2 preliminary annualized GDP 2.7% vs 2.5% expected; prior 2.7%.
+
+---
+
+### 2026-07-30 15:00:11  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+Stocks in Italy Hit 4-week Low — IT40 decreased to 51235.00 Index Points, the lowest since June 2026. Over the past 4 weeks, Italy Stock Market Index (IT40) lost 0.64%, and in the last 12 months, it increased 25.1%.
+
+---
+
+### 2026-07-30 15:00:08  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+Spain July HICP preliminary YoY 3.8% (exp. 3.7%; prev. 3.6%).
+
+---
+
+### 2026-07-30 15:00:04  #市場
+
+【商品期貨收盤】上海原油連續漲6.19%，乙二醇連續漲4.75%，燃料油連續漲3.89%，碳酸鋰連續跌3.68%，對二甲苯連續漲3.50%，瓶片連續漲3.35%。
+
+---
+
+### 2026-07-30 15:00:03  #市場
+
+歐股開盤漲跌不一，德國DAX指數跌0.01%，英國富時100指數漲0.34%，法國CAC40指數跌0.6%，歐洲斯托克50指數跌0.65%，義大利富時MIB指數跌0.49%。
+
+---
+
+### 2026-07-30 15:00:02  #市場
+
+【股指期貨午盤收盤】 中證1000指數期貨連續跌2.56%， 滬深300指數期貨連續跌0.83%， 中證500指數期貨連續跌2.57%， 上證50指數期貨連續漲0.23%。
+
+---
+
+### 2026-07-30 15:00:00  #MKT News #Economic Calendar #Important
+
+Spain | CPI Flash (YoY) (Jul) | actual 3.5% | consensus 3.4% | previous 3.20%
+
+---
+
+### 2026-07-30 15:00:00  #MKT News #Economic Calendar #Important
+
+Spain | Preliminary Quarterly GDP (Q2) | actual 0.7% | consensus 0.6% | previous 0.60%
+
+---
+
+### 2026-07-30 15:00:00  #MKT News #Economic Calendar #Important
+
+Spain | Preliminary Annual GDP (Q2) | actual 2.7% | consensus 2.5% | previous 2.70%
+
+---
+
+### 2026-07-30 15:00:00  #MKT News #Economic Calendar #Important
+
+Spain | HICP Flash (YoY) (Jul) | actual 3.8% | consensus 3.7% | previous 3.60%
 
 ---
 
@@ -21917,71 +22061,5 @@ Norway Retail Sales Growth Hits Near 2-Year High — Retail sales in Norway grew
 ### 2026-07-29 14:18:26  #市場 #觀點 #國際
 
 【花旗：升中石油目標價至12港元，上調今年每股盈利預測26%】花旗發表報告，更新中石油模型，以反映花旗最新布蘭特原油假設，2026年第三季/四季及2027年分別為每桶75、70及65美元。由於俄羅斯原油相對其他進口原油的折價顯著擴大，以及航煤裂解價差強勁，認為中石油可充分抵消國內汽柴油利潤壓力，天然氣營銷業務在LNG價格上漲背景下競爭力亦有所提升，仍是該行在中國油氣板塊的首選。花旗將中石油2026財年每股盈利預測上調26%，但2027財年下調1%，同時引入2028財年預測；目標價由10港元升至12港元，主要反映修訂後的勘探與生產DCF估值，長期布倫特原油價格採用每桶65美元。
-
----
-
-### 2026-07-29 14:17:44  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Poised for Cautious Open — European equity markets were set to open modestly lower on Wednesday as investors remained cautious ahead of the US Federal Reserve’s policy decision, while renewed hostilities in the Middle East added to geopolitical uncertainty. A global selloff in semiconductor stocks, fueled by growing concerns over heavy artificial intelligence spending and stretched valuations, also continued to weigh on market sentiment. In Europe, investors are looking ahead to the Bank of England’s policy decision and GDP data from across the region due on Thursday. On the corporate front, banking giants UBS Group and Standard Chartered announced fresh share buyback programs after reporting stronger-than-expected earnings. Markets will also monitor earnings reports from L’Oreal, Hermes, Airbus, AON, and Deutsche Bank, among others. In premarket trading, Euro Stoxx 50 futures slipped 0.2%, while Stoxx 600 futures edged down 0.1%.
-
----
-
-### 2026-07-29 14:17:35  #國際
-
-市場訊息：波蘭希望與烏克蘭共同生產愛國者導彈。
-
----
-
-### 2026-07-29 14:16:27  #國際
-
-【日防衛省救災宣傳照翻車 日本網民痛批其“作秀擺拍”：利用災難博眼球】據日媒報道，日本熊本縣28日發生7.1級地震，截至29日上午日本政府確認地震已導致至少13人死亡。日本防衛省為宣傳救災工作，在社交媒體上釋出了一張防衛大臣小泉進次郎舉行臨時磋商的照片。這張照片在日本網路上引發強烈不滿。 照片中，小泉進次郎等人圍著鏡頭站成半圓形，小泉本人則站在“C位”，他身穿藍色西服，在其他黑色著裝的工作人員襯托下非常扎眼。此外，這張照片採用仰視視角拍攝，有日本網民指明此舉是在刻意體現照片中人物體形修長。大量日本網民指責這種“企圖利用地震災難博眼球”的做法“非常卑劣”。（環球時報）
-
----
-
-### 2026-07-29 14:16:01  #央行 #美聯儲
-
-【美聯儲決議今夜來襲！華爾街緊盯這四大看點】原本圍繞9月加息與否的辯論提前在7月引爆。截至本週二，利率期貨市場顯示本週加息機率處於三分之一左右，對於利率走向的懸念遠高於往昔。從某種程度上來說，今晚的美聯儲議息會議若爆出“加息冷門”，其依據與其說是來自FOMC成員此前釋放的訊號，不如說是取決於主席凱文·沃什是否會出於自身考量而力主加息。如此一來，這場決議也正演變成了對沃什個人策略的一場博弈與揣測。
-
----
-
-### 2026-07-29 14:15:44  #Trading Economics #Economy #Sweden #GDP Growth Rate #Importance 2
-
-Sweden GDP Growth Strongest in Over 2 Years — The Swedish economy expanded 1.4% quarter-on-quarter in the three months to June 2026, sharply rebounding from a 0.2% contraction in the previous period and exceeding market expectations of a 0.7% growth, according to preliminary estimates. It marked the sharpest quarterly expansion since the first quarter of 2024, reflecting stronger economic activity in the earlier months of the quarter despite a modest decline in June. Mattias Kain Wyatt of Statistics Sweden said June's pullback followed three consecutive months of growth and that overall economic activity remained well above year-earlier levels. On an annual basis, GDP grew 2.8%, accelerating from 2.0% in the previous quarter, and marking the fastest annual expansion since the fourth quarter of 2024.
-
----
-
-### 2026-07-29 14:15:42  #觀點
-
-【花旗：預期美團次季業績有望略勝預期，目標價113港元】花旗發表研報指，美團將於8月底公佈第二季業績，預期業績有望符合或略勝預期；維持現有預測不變，即第二季總收入同比增長10.7%至1017億元，經調整純利錄約6.33億元，對比市場普遍預期為1009億元及2.7億元。在監管部門對補貼及競爭的監管下，該行認為外賣業務單位經濟效益或較預期恢復得更快，有望帶動業績向好。按業務劃分，花旗預測核心本地商業收入同比增長5.7%至691億元；外賣業務經營利潤率預測同比升0.2個百分點；到店業務收入同比增長8.4%至190億元；新業務收入同比增長22.9%至330億元。花旗維持美團“買入/高風險”評級，目標價113港元。
-
----
-
-### 2026-07-29 14:15:38  #觀點
-
-摩根士丹利將PayPal目標股價從34美元上調至45美元。
-
----
-
-### 2026-07-29 14:15:26  #其他
-
-【招商蛇口6.57億元競得成都1宗宅地】7月29日，成都出讓1宗二仙橋街道35.7畝宅地，規劃建築面積47600.34㎡，容積率2，起拍樓面價13400元/㎡，摺合起始總價6.38億元。最終招商蛇口以樓面價13800元/㎡競得該地塊，成交總價6.57億元，溢價率2.99%。
-
----
-
-### 2026-07-29 14:15:14  #公司
-
-【中核（雄安）能源銷售有限公司成立，註冊資本2.01億】天眼查App顯示，7月27日，中核（雄安）能源銷售有限公司成立，法定代表人為吳斌，註冊資本2.01億人民幣，經營範圍包括供電業務、合同能源管理、節能管理服務、軟體開發等，由中國核工業集團資本控股有限公司全資持股。
-
----
-
-### 2026-07-29 14:14:41  #公司
-
-保時捷股份公司首席財務官：最新重組計劃預計將在下半年對公司造成3億至4億歐元的影響。
-
----
-
-### 2026-07-29 14:13:57  #公司
-
-【山東資料集團登記成立，註冊資本10億】天眼查App顯示，7月28日，山東資料集團有限公司成立，法定代表人為劉繼永，註冊資本10億人民幣，經營範圍包括大資料服務、數字技術服務、資料處理服務、工業網際網路資料服務、軟體開發等，由浪潮集團有限公司全資持股。
 
 ---
