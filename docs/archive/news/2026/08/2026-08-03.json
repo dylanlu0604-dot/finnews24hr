@@ -1,7 +1,20 @@
 {
   "date": "2026-08-03",
-  "count": 96,
+  "count": 97,
   "items": [
+    {
+      "id": "mkt:019fc3c9-7ef9-7aab-8f48-c5d54a095d43",
+      "time": "2026-08-03 02:43:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Saudi foreign minister spoke by phone with Iran's foreign minister to discuss diplomatic efforts to de-escalate tensions."
+    },
     {
       "id": "5021029",
       "time": "2026-08-03 02:40:22",
