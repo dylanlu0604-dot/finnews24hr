@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-03 00:28:49",
-  "count": 17909,
+  "updated": "2026-08-03 00:33:04",
+  "count": 17906,
   "items": [
+    {
+      "id": "5020973",
+      "time": "2026-08-03 00:32:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：將針對哈尼亞、阿亞圖拉·哈梅內伊遇襲事件實施猛烈、毀滅性報復。"
+    },
     {
       "id": "5020972",
       "time": "2026-08-03 00:23:34",
@@ -165972,44 +165980,6 @@
         "國際"
       ],
       "text": "伊朗官員：過去兩日伊朗與阿曼官員的會談富有建設性，旨在恢復霍爾木茲海峽通航的談判也取得積極進展。"
-    },
-    {
-      "id": "mkt:019f9f44-e45b-7aab-8e9b-7ab12ba23375",
-      "time": "2026-07-27 00:31:59",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Russian Foreign Ministry said Alagazzi briefed Lavrov on ongoing diplomatic efforts to ease Middle East tensions triggered by US strikes on Iran."
-    },
-    {
-      "id": "mkt:019f9f44-75fb-7aab-8e9b-7292cbc8fb47",
-      "time": "2026-07-27 00:31:31",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Russia's foreign minister expressed sincere condolences over a July 25 Ukrainian drone strike on an Iranian merchant ship that killed one Iranian crewman, the Russian foreign ministry said. Alagazi thanked Astrakhan authorities for assisting the attacked vessel's crew and stressed the need to prevent Kyiv from carrying out similar risky actions."
-    },
-    {
-      "id": "5008663",
-      "time": "2026-07-27 00:31:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：儘管與紐約市長馬姆達尼因國際刑事法院對其簽發逮捕令一事產生分歧，但仍計劃前往紐約出席聯合國大會。"
-    },
-    {
-      "id": "mkt:019f9f43-5347-7aab-8e9b-6bf7d1ceb2f7",
-      "time": "2026-07-27 00:30:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's Foreign Ministry said on July 26 that, at Iran's request, Foreign Minister Lavrov held a phone call with Iranian counterpart Araghchi."
     }
   ]
 }
