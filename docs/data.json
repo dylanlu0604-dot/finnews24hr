@@ -1,7 +1,66 @@
 {
-  "updated": "2026-08-02 14:46:36",
-  "count": 17880,
+  "updated": "2026-08-02 14:50:45",
+  "count": 17882,
   "items": [
+    {
+      "id": "5020714",
+      "time": "2026-08-02 14:49:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟產業大臣赤澤亮正：8月份原油有望實現相當於往年同期約100%的採購量，“日本整體所需的數量”已得到確保。後續即使按保守估計、僅維持往年同期75%的採購水平，透過動用國家儲備，也足以保障石油供應至2028年3月底。"
+    },
+    {
+      "id": "5020713",
+      "time": "2026-08-02 14:49:01",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "據瞭解OPEC+談判內情的訊息人士透露，石油輸出國組織與夥伴國（OPEC+）已原則上達成協議，自9月起將石油產量目標上調每日18.8萬桶，隨後第四季度暫停增產。"
+    },
+    {
+      "id": "mkt:019fc13b-68a8-7aab-8f45-a0d2725d766c",
+      "time": "2026-08-02 14:48:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Japan METI minister Akazawa said that even under a conservative scenario where purchases remain at 75% of typical levels, drawing on national reserves would be sufficient to secure oil supply through end-March 2028."
+    },
+    {
+      "id": "mkt:019fc13b-3b5c-7aab-8f45-9bba251305d5",
+      "time": "2026-08-02 14:48:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Japan's minister of economy, trade and industry Akazawa said August crude oil procurement is likely to reach roughly 100% of year-ago volumes and that \"the total quantity required by Japan\" has been secured."
+    },
+    {
+      "id": "5020712",
+      "time": "2026-08-02 14:48:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海港單日集裝箱吞吐量突破20萬標準箱創新高】2日從上港集團獲悉，上海港單日集裝箱吞吐量於1日突破20萬標準箱，達到20.39萬標準箱，創歷史新高。2025年，上海港集裝箱吞吐量突破5506萬標箱，再創歷史新高，連續16年位居世界第一，國際中轉能力也明顯增強。今年以來，上海港單日集裝箱吞吐量屢創新高。根據日前釋出的《上海市加快國際航運中心建設“十五五”規劃》，上海港要發揮在長三角港口群中的核心引領作用，到2030年集裝箱年吞吐量力爭達到5800萬標準箱以上。（新華社）"
+    },
+    {
+      "id": "5020711",
+      "time": "2026-08-02 14:46:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【下週央行公開市場將有18420億元逆回購到期】Wind資料顯示，下週央行公開市場將有18420億元逆回購到期，其中，下週一至下週五分別到期9255億元、3055億元、2065億元、2705億元、1340億元。此外，8月5日還將有3000億元3個月期買斷式逆回購到期。"
+    },
     {
       "id": "mkt:019fc138-e336-7aab-8f45-93783f28c947",
       "time": "2026-08-02 14:45:58",
@@ -165662,38 +165721,6 @@
         "Brent"
       ],
       "text": "【Iran parliamentary committees review draft law on Strait of Hormuz】Iran’s parliamentary National Security Committee, together with judicial, economic and civil affairs subcommittees, is reviewing a draft law to govern the Strait of Hormuz, state broadcaster IRIB reported. The draft has not been published. Officials have said it would assert Iranian sovereignty over the waterway and propose charging fees for vessels transiting the strait. Deputy Speaker Ali Nikzad said in May the draft would bar Israeli vessels from passage and deny transit to ships from “hostile countries” unless they compensate for war-related losses."
-    },
-    {
-      "id": "5008413",
-      "time": "2026-07-26 14:49:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【三部門調撥2.5萬件物資支援粵贛湘等地救災救助工作】7月26日，國家防災減災救災委員會辦公室、應急管理部針對颱風“紅霞”影響，根據廣東、江西、湖南等地防汛防颱風救災工作需要，會同國家糧食和物資儲備局向三省調撥摺疊床、摺疊桌凳、毛巾被、夏涼被、家庭應急包等2.5萬件中央救災物資，支援地方妥善做好受災群眾緊急避險轉移和安置救助工作。"
-    },
-    {
-      "id": "5008412",
-      "time": "2026-07-26 14:49:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商局集團築牢防線全力防範颱風“紅霞”】招商局集團高度重視今年第12號颱風“紅霞”應急響應和災後恢復工作，黨委書記、董事長繆建民7月25日對本輪臺風防禦工作提出明確要求，強調堅決守住安全底線，全力保障人員財產安全。"
-    },
-    {
-      "id": "5008411",
-      "time": "2026-07-26 14:48:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加拿大西部山火將天空染紅】近日，加拿大持續遭遇山火侵擾，當地時間7月24日，在社交媒體釋出的影片顯示，加拿大西部大不列顛哥倫比亞省天空被山火染成紅色。據報道，大不列顛哥倫比亞省近期遭遇超過3.4萬次閃電，引發多起山火。截至當地時間24日上午，大不列顛哥倫比亞省仍有90處山火燃燒。今年夏季，受高溫和閃電影響，加拿大山火肆虐，山火燃燒出現的煙霧已經影響到了美國東海岸和中西部城市。（CCTV國際時訊）"
-    },
-    {
-      "id": "5008410",
-      "time": "2026-07-26 14:47:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中央氣象臺：颱風“紅霞”已降到熱帶風暴級】據中央氣象臺訊息，7月26日14時，颱風“紅霞”的強度已經降到了熱帶風暴級。"
     }
   ]
 }
