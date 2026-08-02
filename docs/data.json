@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02 08:42:01",
-  "count": 17970,
+  "updated": "2026-08-02 08:45:56",
+  "count": 17968,
   "items": [
     {
       "id": "mkt:019fbfea-b92b-7aab-8f44-2565e142247c",
@@ -166435,22 +166435,6 @@
         "AI Revolution"
       ],
       "text": "【China's first low-altitude smart logistics large model deployed in Zhengzhou】On July 24 in Zhengzhou High-tech Zone, Jiafei Aviation deployed what it describes as China’s first low-altitude smart logistics large model. Developed by Jiafei Aviation Institute’s air-space-ground integrated laboratory, the platform integrates software and hardware and combines air/space/ground data fusion, intelligent scheduling, heavy-load operations and risk alerts. It supports payloads up to 200 kg and is marketed as adaptable to full scenarios including emergency rescue, mountain infrastructure and rural logistics, signaling a shift from single-drone manual control to AI-enabled, scalable and scenario-driven heavy-drone logistics."
-    },
-    {
-      "id": "5008221",
-      "time": "2026-07-26 08:43:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【坦尚尼亞加強防疫 防止埃博拉病毒輸入】當地時間25日，剛果（金）衛生部公佈該國埃博拉確診病例達到2973例，死亡1309例。為了防止病毒輸入，剛果（金）的鄰國已紛紛升級了防疫措施。近日，總檯記者探訪了坦尚尼亞的邊境城市基戈馬，當地正在港口和機場加強防疫。（央視新聞）"
-    },
-    {
-      "id": "5008220",
-      "time": "2026-07-26 08:43:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國首個低空智慧物流大模型落地鄭州】據河南日報，7月24日，全國首個低空智慧物流大模型——加飛航空智慧物流平臺在鄭州高新區研發落地，成功填補了我國一體化低空過載排程大模型領域的技術空白。該智慧平臺是加飛航院空天地一體化實驗室歷經數年技術攻堅的成果，也是國內為數不多實現軟硬體一體化融合的低空物流智慧中樞。河南省航空產業促進會有關負責人介紹，這套系統集空天地資料融通、智慧排程、過載作業、風險預警於一體，突破了傳統低空物流協同弱、載重低、場景受限的行業瓶頸，以200公斤超大載重能力與全場景適配優勢，為應急救援、山區基建、鄉村物流搭建起高效空中通道，標誌著我國過載無人機物流正式告別單機人工操控模式，邁入AI賦能的規模化、智慧化、場景化全新發展階段。"
     }
   ]
 }
