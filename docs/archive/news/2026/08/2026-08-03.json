@@ -1,7 +1,272 @@
 {
   "date": "2026-08-03",
-  "count": 215,
+  "count": 244,
   "items": [
+    {
+      "id": "te:economy:571897",
+      "time": "2026-08-03 07:07:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "CoreLogic Dwelling Prices MoM",
+        "Importance 1"
+      ],
+      "text": "Australia Home Prices See Biggest Drop Since 2022 — Australia’s Cotality Home Value Index fell 0.7% month over month in July 2026, marking the sharpest monthly decline since December 2022 as higher borrowing costs, affordability pressures, and weaker consumer sentiment continued to weigh on housing demand. The downturn broadened beyond Sydney and Melbourne, with Brisbane and Adelaide also recording a second straight monthly decline."
+    },
+    {
+      "id": "mkt:019fc4bb-159e-7aab-8f49-e13149e6101d",
+      "time": "2026-08-03 07:07:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Ministry of Finance said it remains vigilant and is in close contact with the US Treasury."
+    },
+    {
+      "id": "mkt:019fc4bb-0061-7aab-8f49-d8a83343b7e4",
+      "time": "2026-08-03 07:06:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's Ministry of Finance said its intervention was aimed at countering recent excessive, disorderly moves in the yen, that it will not hesitate to undertake further FX intervention with the United States, and that it plans to use the Federal Reserve's FIMA repo facility going forward."
+    },
+    {
+      "id": "5021141",
+      "time": "2026-08-03 07:06:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【暴雨橙色預警繼續：重慶中部等地局地特大暴雨】中央氣象臺8月3日06時繼續釋出暴雨橙色預警：預計，8月3日08時至4日08時，黑龍江西部和南部、河北中北部、北京北部和西部、山西中南部、陝西中南部、河南西部、湖北西部、湖南西北部、四川東北部、重慶中東部、貴州東部和南部、雲南中西部和南部、西藏東南部、廣西東南部沿海、廣東中南部、海南島東北部和南部等地部分地區有大到暴雨，其中，陝西南部、重慶中部、貴州南部、廣西東南部沿海、廣東南部沿海等地部分地區有大暴雨，重慶中部等地局地特大暴雨（250～300毫米）。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風或冰雹等強對流天氣。"
+    },
+    {
+      "id": "5021140",
+      "time": "2026-08-03 07:06:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：強烈支援日本的市場和貨幣政策措施。"
+    },
+    {
+      "id": "5021139",
+      "time": "2026-08-03 07:05:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【維立志博：維利信獲國家藥監局IND批准用於治療轉移性結直腸癌】8月3日，維立志博在港交所公告，國家藥監局藥品審評中心（CDE）已批准其自主研發的候選藥物維利信™（PD-L1/4-1BB雙特異性抗體奧帕替蘇米單抗，LBL-024）用於治療轉移性結直腸癌（mCRC）的新藥臨床試驗申請（IND）。該獲批的臨床試驗為一項開放標籤、多中心Ib/II期研究，旨在評估維利信™聯合用藥治療mCRC的安全性及有效性。"
+    },
+    {
+      "id": "5021138",
+      "time": "2026-08-03 07:05:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月新能源車企銷量分化，年度目標完成進度拉開差距】截至8月2日，國內新能源車7月銷量陸續出爐。零跑汽車以101267輛位居新勢力車企第一，成為當月唯一突破10萬輛的新勢力車企；鴻蒙智行交付45046輛，排名第二；小鵬汽車交付38027輛，位列第三，蔚來、極氪和理想緊隨其後。隨著前7個月銷量彙總資料出爐，車企之間的累計交付量和年度目標完成進度進一步拉開差距。（中國證券報）"
+    },
+    {
+      "id": "5021136",
+      "time": "2026-08-03 07:05:30",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月在宣告中表示：日本將繼續保持警惕，並與美國財政部官員保持密切溝通。"
+    },
+    {
+      "id": "5021135",
+      "time": "2026-08-03 07:05:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【極致行情拷問定力 基金經理反思“受迫交易”】隨著7月科技板塊明顯回落，逆勢佈局紅利、消費等資產的公募基金迎來業績修復。冰火切換的市場行情也留下了反思：火熱賽道極易催生“受迫交易”，基金經理們如何堅守投資框架、抵禦市場噪音？在二季度的極端行情中，科技板塊估值提升、資金湧入、情緒高漲，重倉科技的基金相對收益也節節攀升，不少基金經理被大勢裹挾，“受迫交易”。“看著某個方向漲了很久，周圍人都在討論，研報一篇接一篇，你手裡空著倉位，每一天的上漲都像是對你的嘲諷。你告訴自己，‘再不進場就晚了’。‘再’字一出口，交易就已經不是由你主導的了。”中泰星宇價值成長混合基金經理田瑀說，市場上最稀缺的東西不是資訊，不是認知，也不是資金，而是不做“受迫交易”的能力。（上海證券報）"
+    },
+    {
+      "id": "mkt:019fc4b9-893e-7aab-8f49-d65d2a46cc28",
+      "time": "2026-08-03 07:05:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Bessent says coordinated yen intervention with Japan last Friday】Treasury Secretary Bessent said coordinated FX action with Japan last Friday addressed disorderly yen moves. The Treasury is closely monitoring markets and in close contact with colleagues at Japan’s Ministry of Finance and the Bank of Japan, and will not hesitate to join further joint intervention. He called the FIMA repo facility an important backstop and encouraged expanding its size in the coming months. Bessent said the US strongly supports Japan’s decisive market and monetary measures to correct substantial yen undervaluation."
+    },
+    {
+      "id": "mkt:019fc4b9-8594-7aab-8f49-cf243c1d3c93",
+      "time": "2026-08-03 07:05:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's Ministry of Finance said it conducted a coordinated yen-buying intervention with the United States last Friday, with both governments jointly purchasing yen."
+    },
+    {
+      "id": "5021134",
+      "time": "2026-08-03 07:05:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月A股或進入修復時間視窗 配置迴歸基本面定價邏輯】上週，A股整體呈現震盪分化格局，三大指數全周漲跌幅不一。經歷了7月的波動後，券商策略展望報告普遍認為，政策層面近期釋放出較為明確的穩增長訊號，疊加企業盈利修復與流動性適度寬裕的支撐，市場進一步下探空間有限，8月A股或將進入行情修復的有利時間視窗。具體配置上，機構建議堅持“攻守均衡”：一方面以高股息紅利資產作為底倉，適度把握內需修復的階段性機會；另一方面可以在科技板塊內部篩選盈利兌現更具有確定性的細分領域。（上海證券報）"
+    },
+    {
+      "id": "5021133",
+      "time": "2026-08-03 07:05:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱3日與伊朗談判 以色列自曝“被盟友拋棄”】美國總統特朗普當地時間2日最新表態稱，美國將於3日與伊朗進行談判。美國日前再次上演大變臉，1日稱要對伊朗發動“迄今最猛烈的轟炸”，第二天卻“同意取消打擊”，美總統特朗普“臨陣收兵”，還稱以色列也“加入了他的承諾”。然而多名以色列官員2日透露，以方被排除在決策資訊之外長達數小時，以總理內塔尼亞胡等人均是透過特朗普社媒發文得知美方叫停打擊行動。分析稱，以色列已成為美國對伊談判的一張牌。伊朗已找到直接觸動美國利益關切的方式，以色列對美國決策的影響力正在被稀釋。"
+    },
+    {
+      "id": "5021132",
+      "time": "2026-08-03 07:04:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財務省：日本還計劃未來使用美聯儲的外國及國際貨幣當局（FIMA）回購工具。"
+    },
+    {
+      "id": "5021130",
+      "time": "2026-08-03 07:03:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省：干預行動旨在應對近期日元過度且無序的波動。"
+    },
+    {
+      "id": "5021129",
+      "time": "2026-08-03 07:02:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省：將毫不猶豫與美國聯合進行進一步外匯干預。"
+    },
+    {
+      "id": "5021128",
+      "time": "2026-08-03 07:02:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：FIMA回購工具是重要的後盾，鼓勵在未來幾個月擴大其規模。"
+    },
+    {
+      "id": "5021127",
+      "time": "2026-08-03 07:02:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省表示，週五與美國進行了協調性的日元買入干預。"
+    },
+    {
+      "id": "5021125",
+      "time": "2026-08-03 07:01:26",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財長貝森特就日元表態：財政部保持關注，並與日本財務省及央行保持密切溝通。"
+    },
+    {
+      "id": "5021124",
+      "time": "2026-08-03 07:01:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特就日元表態：我們將毫不猶豫地參與進一步的聯合干預。"
+    },
+    {
+      "id": "5021123",
+      "time": "2026-08-03 07:00:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財長貝森特談日元：週五的協同外匯行動遏制了日元的無序波動。"
+    },
+    {
+      "id": "5021122",
+      "time": "2026-08-03 07:00:33",
+      "tags": [
+        "資料"
+      ],
+      "text": "標普全球澳大利亞製造業採購經理人指數（PMI）升至六個月新高。"
+    },
+    {
+      "id": "mkt:019fc4b4-c2f3-7aab-8f49-c6c697586ec5",
+      "time": "2026-08-03 07:00:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia July S&P Global manufacturing PMI (final) 52.0; expected 51.7; prior 51.7."
+    },
+    {
+      "id": "5021121",
+      "time": "2026-08-03 06:59:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "交易員同時密切關注日元走勢，尋找日美進一步聯合干預匯市的訊號。"
+    },
+    {
+      "id": "5021120",
+      "time": "2026-08-03 06:57:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭軍方稱，襲擊了俄羅斯薩拉托夫州的一座煉油廠與一處空軍基地，以及卡盧加州一處油庫；烏克蘭安全域性（SBU）稱對巴什科爾託斯坦共和國三座俄羅斯煉油廠的基礎設施實施打擊。"
+    },
+    {
+      "id": "te:markets:571895",
+      "time": "2026-08-03 06:57:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Edge Higher to Start the Month — New Zealand's stocks rose 27 points, or 0.2%, to 13,726 in Monday morning trade, erasing losses from the previous session, mainly buoyed by the technology, communication services, and real estate sectors. The broader index tracked gains in US stock futures following an upbeat session on Wall Street on Friday, supported by a rally in technology stocks. However, traders remained cautious ahead of the release of New Zealand's unemployment data due later this week. Caution also prevailed ahead of the release of China's private-sector PMI, after last week's official survey showed the manufacturing sector in New Zealand's top trading partner had returned to contraction. A slew of US data will also be released this week, including jobs data. On the data front, New Zealand building permits dropped 3.6% in June after an upwardly revised 4.9% increase in May. Among the best performers were Chorus (1.4%), Colonial Motor (1.3%), Freightways Group (0.7%), Ebos Group (0.5%), and ANZ Group (0.4%)."
+    },
+    {
+      "id": "mkt:019fc4b0-0425-7aab-8f49-bdccb893ca3b",
+      "time": "2026-08-03 06:54:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Katz announces replacement of senior IDF commander; military says move not coordinated with Chief of Staff Zamir】On the evening of the 2nd (local time) Israeli defense minister Katz told a live TV program he was removing IDF Central Command commander Avi Blut and named Maj. Gen. Dado Bar Kalifa, head of the IDF Personnel Directorate, as his proposed successor. In the early hours of the 3rd the IDF issued a statement rebutting Katz’s announcement, saying the move was made without coordination with IDF Chief of Staff Zamir. The IDF said Chief of Staff Zamir has no intention of replacing commanders in key posts during this sensitive period and that any such decision would follow established approval procedures. Blut has served as Central Command commander since July 2024; the post typically carries a two- to three-year term."
+    },
+    {
+      "id": "5021119",
+      "time": "2026-08-03 06:53:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以防長宣佈撤換高階將領 以軍方反駁 卡茨辦公室回應】當地時間2日晚間，以色列國防部長卡茨在參加電視直播節目時，公開指責以色列國防軍中央司令部司令阿維·布盧特，並宣佈其接任人選為以軍人力局局長達多·巴爾·卡利法少將。當地時間3日凌晨，以色列國防軍發表宣告，反駁卡茨在電視直播中宣佈撤換布盧特的決定，稱該舉動“未經與以軍總參謀長扎米爾協調”。以軍在宣告中指出：“以軍總參謀長扎米爾無意在當前這一敏感時期更換關鍵職位的指揮官。如果總參謀長做出此類決定，也將嚴格按照既定程式進行審批。”3日凌晨，以國防部長卡茨的辦公室發表宣告稱，關於任命達多·巴爾·卡利法少將為新任以軍中央司令部司令的決定，是採納了以軍總參謀長扎米爾此前的建議。"
+    },
+    {
+      "id": "5021118",
+      "time": "2026-08-03 06:52:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4120美元/盎司，日內漲0.32%。"
+    },
     {
       "id": "5021117",
       "time": "2026-08-03 06:50:41",
