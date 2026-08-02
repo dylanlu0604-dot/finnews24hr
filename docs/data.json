@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-02 21:41:40",
-  "count": 17933,
+  "updated": "2026-08-02 21:45:58",
+  "count": 17934,
   "items": [
+    {
+      "id": "5020926",
+      "time": "2026-08-02 21:43:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "希臘消防部門2日釋出訊息說，兩架消防直升機在雅典以西相撞，搜救行動正在進行中。目前事故傷亡情況不詳。（新華社）"
+    },
+    {
+      "id": "mkt:019fc2b6-4987-7aab-8f47-243d83aed94f",
+      "time": "2026-08-02 21:42:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tianjin 11 departments issue upgraded policy to reactivate stock assets】Tianjin Planning and Resources Bureau, together with the Development and Reform Commission, Housing and Urban‑Rural Development Commission and 10 other departments, issued Opinions on Reactivating Stock Assets to Resolve Historical Project Planning Land and Real Estate Registration Issues (2026 edition). Building on a July 2024 pilot due to expire after two years, the revision expands the policy’s scope and streamlines procedures to support completion of formalities and real‑estate registration for historical projects; the Planning and Resources Bureau led the revisions to address market requests for an extension and practical issues on applicability, building‑retention verification, illegal‑construction handling and completion‑acceptance filing."
+    },
     {
       "id": "5020925",
       "time": "2026-08-02 21:40:54",
@@ -166193,14 +166209,6 @@
         "MKT News"
       ],
       "text": "【Russia to build new ocean-going destroyers】The Russian navy commander said next-generation warships now under construction will displace about 9,500 tonnes. He said the class is designed for extended at-sea deployment and to conduct blue-water and long-range operations."
-    },
-    {
-      "id": "mkt:019f9eaa-e3d5-7aab-8e9a-74f667309957",
-      "time": "2026-07-26 21:43:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran official: Iranian merchant ship attacked off Volga–Caspian anchorage; 1 killed, 3 injured】Gilan governor Hadi Haghshenas said an Iranian merchant vessel anchored off the Volga-to-Caspian route was attacked, killing one crew member and wounding three. The ship, loaded with steel and other cargo and en route from Russia’s Astrakhan to Iran’s Anzali, had its wheelhouse destroyed and is unable to continue; authorities did not specify the attack type and are investigating."
     }
   ]
 }

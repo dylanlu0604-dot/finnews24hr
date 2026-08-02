@@ -1,7 +1,23 @@
 {
   "date": "2026-08-02",
-  "count": 536,
+  "count": 538,
   "items": [
+    {
+      "id": "5020926",
+      "time": "2026-08-02 21:43:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "希臘消防部門2日釋出訊息說，兩架消防直升機在雅典以西相撞，搜救行動正在進行中。目前事故傷亡情況不詳。（新華社）"
+    },
+    {
+      "id": "mkt:019fc2b6-4987-7aab-8f47-243d83aed94f",
+      "time": "2026-08-02 21:42:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tianjin 11 departments issue upgraded policy to reactivate stock assets】Tianjin Planning and Resources Bureau, together with the Development and Reform Commission, Housing and Urban‑Rural Development Commission and 10 other departments, issued Opinions on Reactivating Stock Assets to Resolve Historical Project Planning Land and Real Estate Registration Issues (2026 edition). Building on a July 2024 pilot due to expire after two years, the revision expands the policy’s scope and streamlines procedures to support completion of formalities and real‑estate registration for historical projects; the Planning and Resources Bureau led the revisions to address market requests for an extension and practical issues on applicability, building‑retention verification, illegal‑construction handling and completion‑acceptance filing."
+    },
     {
       "id": "5020925",
       "time": "2026-08-02 21:40:54",
