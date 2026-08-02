@@ -1,7 +1,26 @@
 {
   "date": "2026-08-02",
-  "count": 287,
+  "count": 289,
   "items": [
+    {
+      "id": "mkt:019fc147-2b1f-7aab-8f45-afb171459069",
+      "time": "2026-08-02 15:01:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "PBOC convened its H2 2026 work meeting."
+    },
+    {
+      "id": "5020715",
+      "time": "2026-08-02 14:58:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黃河山西段結束禁漁期】記者近日從山西省農業農村廳獲悉，經過4個月的禁漁期，從8月份起，黃河山西段禁漁期正式結束。（新華社）"
+    },
     {
       "id": "5020714",
       "time": "2026-08-02 14:49:19",
