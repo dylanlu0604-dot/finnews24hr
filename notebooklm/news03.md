@@ -1,7 +1,553 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-02 10:18:52_
-_本檔包含 3743 則快訊，約 669371 字_
+_更新時間：2026-08-02 13:21:12_
+_本檔包含 3720 則快訊，約 667284 字_
+
+---
+
+### 2026-07-30 12:07:34  #公司
+
+【*ST美麗：不存在中船資產借殼上市的情形】*ST美麗7月30日在互動平臺表示，公司目前與中國船舶集團國際工程有限公司在建築工程領域的合作，是基於雙方戰略協同與業務互補開展的正常商業行為。2026年一季度，相關業務營收佔比約4.3%，對公司影響較小。不存在中船資產借殼上市的情形。
+
+---
+
+### 2026-07-30 12:07:13  #公司
+
+【紫光股份在海南成立智造公司】企查查APP顯示，近日，紫光曜辰（海南）智造有限公司成立，法定代表人為黃新委，註冊資本為1000萬元，經營範圍包含：通訊裝置製造；電子元器件製造；資訊保安裝置製造；電子元器件批發；雲端計算裝置銷售等。企查查股權穿透顯示，該公司由紫光股份間接全資持股。
+
+---
+
+### 2026-07-30 12:06:46  #公司
+
+【黑芝麻智慧：創始人自願延長禁售承諾至2027年8月7日】黑芝麻智慧公告，公司創始人單記章先生自願進一步承諾，自2026年8月8日起至2027年8月7日止額外十二個月期間內，不會出售其持有的4410萬股禁售股份，該等股份佔公司已發行股份總數約6.18%。此前，單先生就該等股份作出的禁售承諾將於2026年8月7日屆滿。
+
+---
+
+### 2026-07-30 12:05:10  #Trading Economics #Markets #Indonesia #Currency #Importance 1
+
+Rupiah Edges Higher After BI Vows Stronger Currency Support — The Indonesian rupiah hovered near IDR 18,060 per U.S. dollar on Thursday, firming slightly after touching above IDR 18,100 the previous day, as the greenback weakened after the U.S. Federal Reserve left interest rates unchanged while three voting members dissented in favor of a hike, underscoring divisions within the central bank. Locally, Bank Indonesia moved to calm markets following Governor Perry Warjiyo's sudden exit, pledging stronger stabilisation efforts. The central bank stressed its reliance on a broad policy mix beyond interest rates, including spot FX intervention, onshore and offshore non-deliverable forwards (NDFs), and issuance of BI rupiah-denominated securities, known as SRBI, to manage liquidity and attract foreign inflows. BI said these measures complement the total of 100bps rate hikes since May. Traders now turn to key domestic releases next week, including July inflation, May trade data, and Q2 GDP, for fresh signals on the economic outlook and the policy path.
+
+---
+
+### 2026-07-30 12:03:29  #公司
+
+【國航雄安營業部揭牌】7月30日，中國國際航空股份有限公司雄安營業部揭牌儀式舉行。公司表示，雄安營業部的成立，是國航貫徹落實京津冀協同發展戰略、服務新區發展的重要舉措。
+
+---
+
+### 2026-07-30 12:02:39  #其他
+
+【2026年7月國防部例行記者會將於今日下午3時舉行】2026年7月國防部例行記者會將於今日下午3時舉行，國防部網將直播本次例行記者會。
+
+---
+
+### 2026-07-30 12:02:28  #公司
+
+法國電力集團正探索出售模組化反應堆子公司的部分股權。
+
+---
+
+### 2026-07-30 12:01:34  #其他
+
+【希臘南部山火致3名消防員死亡】當地時間7月29日下午，位於希臘南部的克里特島雷西姆農地區發生山火，當地投入8架直升機和超過150名消防人員參與救火。強風助長火勢蔓延，一度阻礙消防人員滅火。據當地消防部門訊息，有3名消防員在此次山火中喪生。目前，山火發生區域已經發布疏散令，希臘海岸警衛隊出動船隻進行了人員疏散。
+
+---
+
+### 2026-07-30 12:01:20  #市場
+
+【港股午評：恒生指數跌0.05%，恒生科技指數跌1.14%】港股午間收盤，恒生指數跌0.05%，恒生科技指數跌1.14%。恒指港股通ETF銀華（159318）持平，港股通科技ETF鵬華（159751）跌1.89%。板塊方面，建築產品Ⅲ、建築產品Ⅳ板塊漲幅靠前；IT諮詢與其他服務、IT服務板塊跌幅靠前。個股方面，新東方-S漲17.08%，安克創新漲9.88%，中升控股漲7.78%，江南布衣漲7.68%，旺山旺水-B漲7.62%；明略科技-W跌17.55%，智譜跌16.46%，芯碁微裝跌13.42%，劍橋科技跌12.76%，埃斯頓跌10.94%。
+
+---
+
+### 2026-07-30 12:00:16  #公司
+
+【西寧特鋼投資成立科技公司，含再生資源加工業務】企查查APP顯示，近日，青海西鋼鏈循科技有限公司成立，法定代表人為吳國臣，註冊資本為3000萬元，經營範圍包含：再生資源加工；再生資源銷售；生產性廢舊金屬回收；金屬廢料和碎屑加工處理；固體廢物治理等。企查查股權穿透顯示，該公司由西寧特鋼全資持股。
+
+---
+
+### 2026-07-30 11:59:17  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #XAUUSD #Impact bearish #S&P500
+
+JP Morgan expects the Fed to raise rates by 25 bps in December 2026; it had previously forecast rates would remain unchanged this year.
+
+---
+
+### 2026-07-30 11:58:12  #公司
+
+【雲鋒基金等入股位元智路】天眼查App顯示，近日，北京位元智路資訊科技有限公司發生工商變更，新增海南雲鋒基金中心（有限合夥）、南京毅達匯路創業投資合夥企業（有限合夥）、武漢豐睿年澤股權投資合夥企業（有限合夥）等為股東，同時，註冊資本由約143.3萬人民幣增至約167.5萬人民幣。該公司成立於2023年6月，法定代表人為郭傳雄，經營範圍含積體電路設計、人工智慧基礎軟體開發、人工智慧應用軟體開發等，現由郭傳雄、天津高展位元管理合夥企業（有限合夥）及上述新增股東等共同持股。公開資訊顯示，位元智路是一家AI網路晶片公司，致力於解決AI基礎設施的網路可擴充套件性和通訊效率問題。
+
+---
+
+### 2026-07-30 11:57:48  #公司
+
+【杭州2宗涉宅用地14.18億元成交 最高溢價率46.69%】7月30日，杭州2宗涉宅用地出讓，總成交金額14.18億元。其中，餘杭良渚東地塊規劃建築面積47698.50㎡，容積率1.5，起始價5.25億元，起始樓面價11000元/㎡，最終由保億置業集團有限公司以總價7.7億元競得，成交樓面價16137元/㎡，溢價率46.69%；蕭山科技城地塊規劃建築面積65697.50㎡（地上61498.5㎡，地下4199㎡），容積率1.05，起始價6.48億元，起始綜合樓面價9861元/㎡，最終由金帝以6.48億元底價競得，成交綜合樓面價9861元/㎡。
+
+---
+
+### 2026-07-30 11:56:12  #市場 #國際
+
+印尼基準股票指數上漲1%，報6149.776點。
+
+---
+
+### 2026-07-30 11:56:09  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #Brent
+
+Russian missile strikes hit Lviv, Ukraine, injuring 15 and leaving people trapped under rubble, local officials said.
+
+---
+
+### 2026-07-30 11:55:54  #國際
+
+官員稱，俄羅斯導彈襲擊利沃夫致15人受傷，仍有人員被埋在廢墟之下。
+
+---
+
+### 2026-07-30 11:55:14  #公司 #市場 #觀點 #國際
+
+【高盛：煉油廠產能受限 柴油處於供應緊缺 “震中”】高盛集團表示，全球煉油廠本月開工量跌至疫情以來同期季節性最低水平，柴油正處於燃油供應緊缺局面的 “震中”。分析師尤利婭・熱斯特科娃・格里格斯比與達安・斯楚伊文於週三釋出研報稱，煉油開工率走低，原因包括持續衝突導致俄羅斯與中東地區煉油裝置停產等。分析師測算，全球煉油加工量較去年同期每日減少約 650 萬桶。正當燃油需求逐步邁向四季度旺季之際，煉油產能放緩進一步收緊燃油供給。高盛指出，柴油庫存持續低於季節性正常水平，出口量不斷下滑，使得該油品極易遭受後續供應中斷衝擊。歐洲基準柴油期貨本週攀升至近三個月高點。
+
+---
+
+### 2026-07-30 11:54:40  #其他
+
+【廣東金融監管局轄內銀行業淨息差已企穩回升】自廣東銀行業無序競爭綜合治理專項行動全面鋪開以來，今年上半年，廣東金融監管局轄內銀行業淨息差已企穩回升，返傭比例迴歸合理區間，與中介合作更趨規範，住房按揭與汽車金融佣金支出同比下降89%，經營質效穩步改善，行業整體經營更趨理性。
+
+---
+
+### 2026-07-30 11:53:26  #其他
+
+【錨定7萬億目標 體育產業成國民經濟活力增長極】國家體育總局近日釋出《體育強國建設“十五五”規劃》，其中設專章為我國體育產業的發展設定目標規模、明確重點路徑、作出系統部署。賽事經濟活力十足、體育消費場景多元、裝備製造提質升級，我國體育產業正以年均兩位數的增速，成為國民經濟的活力增長極。《體育強國建設“十五五”規劃》提出，到2030年，我國體育產業目標總規模突破7萬億元。其中，賽事經濟將是帶動產業發展的核心槓桿。《規劃》明確，完善競賽表演業產業鏈條，建立以自主賽事IP為核心的賽事經濟生態圈。（央視）
+
+---
+
+### 2026-07-30 11:50:04  #公司
+
+【漢得資訊：重新遞交H股發行上市申請並刊發申請資料】漢得資訊公告，公司此前已披露擬發行H股並在香港聯交所主機板上市的計劃。本次為進展更新，公司已於2026年7月29日向香港聯交所重新遞交本次發行並上市的申請，並於同日在香港聯交所網站刊登了申請材料。該申請材料為草擬版本，所載資料可能適時更新，最終資料以經審計財務報告為準。本次發行上市尚需取得相關監管機構備案、批准或核准，仍存在不確定性。
+
+---
+
+### 2026-07-30 11:49:34  #市場 #國際
+
+日本10年期國債收益率上升6個基點至2.805%。
+
+---
+
+### 2026-07-30 11:49:19  #市場 #國際
+
+印度NIFTY IT指數上漲1.05%。
+
+---
+
+### 2026-07-30 11:49:00  #MKT News #Macro & Rates #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+【Japan 2-year JGB demand below 12-month average】Demand at Thursday's 2-year JGB auction came in below the 12-month average as markets broadly expect the BOJ to tighten: bid-to-cover 3.63 versus 4.82 at the prior auction and a 12-month average of 3.81. The tail (average price minus lowest accepted price) widened to 0.007 from 0.005 last month, signalling weaker investor interest. Short-term yields have risen amid higher oil and fuel-inflation worries tied to Middle East tensions; the 2-year yield is 1.47%, near this month's 1.52% high. The moves add pressure on the BOJ to raise rates.
+
+---
+
+### 2026-07-30 11:48:19  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Slips Despite Fresh US Strikes on Iran — Brent slipped below $90 per barrel on Thursday, paring gains from the previous session even after the US carried out a fresh wave of air strikes against Iran in response to attacks on American forces across the Middle East, raising concerns over further disruptions to global energy supplies. The two sides also remained unable to reach a potential agreement as Tehran insisted on maintaining control of the Strait of Hormuz. The conflict has now expanded beyond Hormuz into the Red Sea, where Iran-backed Houthi rebels in Yemen threatened to blockade Saudi Arabia, prompting Riyadh to join US forces in launching strikes on targets in Iraq linked to Tehran-backed militants. In the US, commercial crude inventories posted their largest draw since mid-June, reinforcing signs of a tightening physical market. The nation’s strategic petroleum reserves also declined for an 18th straight week, falling to their lowest level since 1983.
+
+---
+
+### 2026-07-30 11:47:26  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Slips Despite Fresh US Strikes on Iran — Crude oil slipped below $84 per barrel on Thursday, paring gains from the previous session even after the US carried out a fresh wave of air strikes against Iran in response to attacks on American forces across the Middle East, raising concerns over further disruptions to global energy supplies. The two sides also remained unable to reach a potential agreement as Tehran insisted on maintaining control of the Strait of Hormuz. The conflict has now expanded beyond Hormuz into the Red Sea, where Iran-backed Houthi rebels in Yemen threatened to blockade Saudi Arabia, prompting Riyadh to join US forces in launching strikes on targets in Iraq linked to Tehran-backed militants. In the US, commercial crude inventories posted their largest draw since mid-June, reinforcing signs of a tightening physical market. The nation’s strategic petroleum reserves also declined for an 18th straight week, falling to their lowest level since 1983.
+
+---
+
+### 2026-07-30 11:47:23  #MKT News
+
+Gaolan Co. said it has achieved large-scale commercial deployment of its CDU products, with power ratings covering 0.5MW-1.1MW.
+
+---
+
+### 2026-07-30 11:47:04  #MKT News
+
+Lihexing said Shanghai Yuliangsheng is a customer, but represents only a small portion of its business.
+
+---
+
+### 2026-07-30 11:46:57  #市場 #國際
+
+美國30年期國債收益率攀升至5.2348%，創2007年年中以來新高。
+
+---
+
+### 2026-07-30 11:46:35  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+U.S. 30-year Treasury yield rose to 5.2348%, its highest level since mid-2007.
+
+---
+
+### 2026-07-30 11:45:42  #市場 #原創
+
+【7月30日午間漲停分析】創業板指半日大跌近6%，科創50跌超6%！算力硬體方向全線重挫，“易中天”集體跌逾10%。愛麗家居8連板，一圖看懂>>
+
+---
+
+### 2026-07-30 11:45:41  #MKT News #Market Regions #Greater China #Market Themes #AI Revolution #Chip Wars #CSI300 #Impact bearish #SSE Composite #SZSE Component
+
+【A-share midday: Sci‑Tech Innovation 50 down >6%; AI-hardware names lead selloff】Chinese equities plunged in early trade: Sci‑Tech Innovation 50 down 6.34% at midday, ChiNext down 5.89%, Shenzhen Composite down 3.79% and Shanghai Composite down 1.15%. Combined turnover on Shanghai and Shenzhen was 1.45 trillion yuan by midday, down 26.4 billion yuan versus the prior session. More than 3,400 stocks fell. AI-hardware and CPO concept names led declines—Yuanjie Technology off about 18%, Xinyisheng down over 16%, Zhongji Xuchuang and Lianxun Instruments each down more than 15%. Memory/storage chip names also sold off, with Allwinner Technology, Youyan Silicon, Weidao Nano and Huahong Hongli each off over 14%. Countermoves: education names (Chuanzhi Education four straight limit-ups, Xueda Education at limit) and Baijiu names rallied, while bank stocks rose intraday with Industrial & Commercial Bank of China and China Construction Bank hitting record highs.
+
+---
+
+### 2026-07-30 11:42:52  #其他
+
+【港深簽署皇崗口岸“一地兩檢”合作安排及港方口岸區場地使用權協議】香港特區政府今日（30日）與深圳市人民政府簽署《深圳市人民政府與香港特別行政區政府關於在皇崗口岸實施“一地兩檢”的合作安排》（《合作安排》），落實港深雙方在重建後的皇崗口岸實施“一地兩檢”的合作框架。 香港特區政府保安局與深圳市人民政府口岸辦公室亦於同日簽署《關於皇崗口岸港方口岸區及相關延伸區場地使用權協議》（《場地使用權協議》），由保安局副秘書長徐詩妍及深圳市人民政府口岸辦公室主任劉衛翔代表簽署。（大灣區之聲）
+
+---
+
+### 2026-07-30 11:41:22  #公司
+
+【邁瑞醫療在鄭州成立醫療科技公司，註冊資本500萬】天眼查App顯示，近日，鄭州邁瑞醫療科技有限公司成立，法定代表人為姚強，註冊資本500萬人民幣，經營範圍含第一類醫療器械生產、儀器儀表製造等。股東資訊顯示，該公司由邁瑞醫療全資持股。
+
+---
+
+### 2026-07-30 11:39:48  #公司
+
+【國聯股份等在陝西成立新科技公司，註冊資本1000萬】天眼查App顯示，近日，陝西國聯耀隆科技產業發展有限公司成立，法定代表人為萬麗，註冊資本1000萬人民幣，經營範圍含人工智慧應用軟體開發、數字技術服務、物聯網技術研發等。股東資訊顯示，該公司由青島幻宇科技投資發展有限公司、國聯股份共同持股。
+
+---
+
+### 2026-07-30 11:38:44  #Trading Economics #Markets #Commodity #Importance 1
+
+Palm Oil Eases on Firmer Ringgit, Weaker Edible Oils — Malaysian palm oil futures fell to near MYR 4,650 per tonne, reversing recent gains amid a stronger ringgit and weaker rival edible oils on the Dalian and Chicago exchanges. Meanwhile, crude oil prices eased as tanker traffic through the Middle East continued despite persistent regional tensions, reducing support for vegetable oil markets. Separately, European Union palm oil imports for the 2026/27 marketing year, which began in July, plunged by 39% yoy. Still, losses were capped by stronger exports, with cargo surveyors noting palm oil shipments for July 1–25 rose between 8.1% and 15.9% from the same period in June. Demand was also lifted by expectations that palm oil imports by top buyer India could increase between July and October ahead of the festive season. In Indonesia, the world's largest producer, authorities have raised the 2026 palm oil-based biodiesel allocation to 16.75 million kilolitres to accommodate additional demand from the B50 mandate launched earlier this month.
+
+---
+
+### 2026-07-30 11:37:07  #市場
+
+越南VN指數上漲1%。
+
+---
+
+### 2026-07-30 11:36:56  #國際
+
+日本自民黨鈴木俊一：由於成本原因，無法永久降低銷售稅率。
+
+---
+
+### 2026-07-30 11:36:19  #市場 #國際
+
+日本國債期貨在兩年期拍賣結果公佈後維持跌勢。
+
+---
+
+### 2026-07-30 11:36:19  #MKT News
+
+Japan Democratic Party secretary-general Shun'ichi Suzuki said the party aims to submit a tax-cut bill during the autumn Diet session.
+
+---
+
+### 2026-07-30 11:36:16  #MKT News #Market Regions #Japan & APAC
+
+【Takaichi to cut food and soft‑drink consumption tax from 8% to 1% from April】Japan Prime Minister Takaichi has decided to temporarily cut the consumption tax on food and soft drinks from 8% to 1% effective April next year, NHK reports. The move implements an LDP‑coalition pre-election pledge (originally to cut the rate to 0% for two years); the government settled on 1% after retailers said a zero rate was incompatible with cash‑register systems. The decision follows months of political gridlock and may bolster Takaichi's support.
+
+---
+
+### 2026-07-30 11:36:00  #市場 #國際
+
+日本兩年期國債拍賣認購倍數為3.63，而12個月平均值為3.81。
+
+---
+
+### 2026-07-30 11:35:59  #MKT News
+
+Japan's 2-year government bond auction recorded a bid-cover ratio of 3.63, down from 4.82 at the June auction.
+
+---
+
+### 2026-07-30 11:35:26  #公司
+
+【高瀾股份：目前已實現規模化商用的CDU產品功率覆蓋0.5MW-1.1MW】高瀾股份在互動平臺表示，公司目前已實現規模化商用的CDU產品功率覆蓋0.5MW-1.1MW。
+
+---
+
+### 2026-07-30 11:35:09  #其他
+
+自民黨鈴木：我的理解是，我們的目標是在秋季國會會期提交減稅法案。
+
+---
+
+### 2026-07-30 11:34:42  #其他
+
+【希臘南部山火致3名消防員死亡】當地時間7月29日下午，位於希臘南部的克里特島雷西姆農地區發生山火，當地投入8架直升機和超過150名消防人員參與救火。強風助長火勢蔓延，一度阻礙消防人員滅火。據當地消防部門訊息，有3名消防員在此次山火中喪生。目前，山火發生區域已經發布疏散令，希臘海岸警衛隊出動船隻進行了人員疏散。
+
+---
+
+### 2026-07-30 11:34:18  #公司 #市場
+
+【午評：創業板指低開低走跌5.89% AI硬體方向大幅領跌】截至午盤，上證指數跌1.15%，深證成指跌3.79%，創業板指跌5.89%，北證50跌0.46%。盤面上，白酒板塊再度走高，金種子酒、捨得酒業、金徽酒漲停，皇臺酒業、口子窖、酒鬼酒、迎駕貢酒、洋河股份跟漲。教育板塊持續走高，傳智教育4連板，學大教育漲停，創業黑馬、昂立教育、華圖山鼎、凱文教育、科德教育跟漲。汽車整車板塊表現強勢，江淮汽車漲停，北汽藍谷、賽力斯、金龍汽車、千里科技、長安汽車跟漲。電子化學品板塊低開低走，天通股份、宏和科技觸及跌停，三孚新科、唯特偶、天承科技、廣鋼氣體、中巨芯、思泉新材跌超10%，安集科技、中石科技、海星股份、萊特光電、方邦股份跟跌。半導體持續走弱，全志科技、有研矽、微導奈米、華虹宏力等數十個個股跌超10%。元件板塊再度弱勢，東山精密、興森科技、江海股份、深南電路、廣合科技、紅板科技觸及跌停，中富電路跌超15%，勝宏科技、科翔股份、中英科技、生益電子跌超10%，鵬鼎控股、景旺電子、迅捷興、滬電股份、金安國紀跟跌。
+
+---
+
+### 2026-07-30 11:34:09  #焦點
+
+【再放量 創業板ETF易方達半日近百億成交】截至上午收盤，創業板ETF易方達(159915)成交額95.41億元、科創50ETF華夏(588000)成交額91.69億元，均較此前半日成交額顯著放量。
+
+---
+
+### 2026-07-30 11:34:02  #MKT News #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
+
+Japan's Democratic Party secretary-general Suzuki Shunichi said tax revenue has exceeded expectations, allowing funding to be secured for a temporary tax cut.
+
+---
+
+### 2026-07-30 11:33:54  #其他
+
+鈴木俊一：因稅收超收，可確保有足夠收入為臨時減稅提供資金。
+
+---
+
+### 2026-07-30 11:33:35  #其他
+
+鈴木俊一：有強烈的政治決心在兩年內將食品消費稅率重新上調。
+
+---
+
+### 2026-07-30 11:33:34  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225
+
+Japan's Democratic Party secretary-general Shunichi Suzuki said there is strong political resolve to raise the tax rate within two years.
+
+---
+
+### 2026-07-30 11:33:24  #MKT News #Important #Market Regions #Greater China #159915.SZ #588000.SS
+
+【Volumes expand again; E Fund ChiNext ETF near CNY9.54bn in half-day turnover】By morning close E Fund’s ChiNext ETF (159915) posted turnover of CNY 9.541 bln and ChinaAMC’s Sci‑Tech Innovation 50 ETF (588000) CNY 9.169 bln, both markedly above prior half-day volumes.
+
+---
+
+### 2026-07-30 11:33:22  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact bullish
+
+Japan's Democratic Party secretary-general Shunichi Suzuki said Prime Minister Sanae Takaichi has said funding for a sales-tax cut must be secured without relying on deficit-financing government bonds to maintain market confidence.
+
+---
+
+### 2026-07-30 11:31:52  #市場 #國際
+
+日本自民黨幹事長鈴木俊一：高市早苗提到，需要在不依賴赤字國債的情況下確保銷售稅削減的資金來源，以維護市場信任。
+
+---
+
+### 2026-07-30 11:31:29  #MKT News #Market Regions #Greater China
+
+【China government bond futures morning close】2-year government bond futures (TS) main contract -0.02%; 5-year (TF) main contract unchanged; 10-year (T) main contract unchanged; 30-year (TL) main contract +0.02%.
+
+---
+
+### 2026-07-30 11:31:25  #MKT News #Important #Commodities #Industrial Metals #WTI #Impact bullish
+
+At the morning session close, China onshore futures most-active contracts were mostly lower. Container-shipping Europe route, rapeseed meal, soda ash and iron ore fell over 2%; alumina and glass were down nearly 2%; lithium carbonate, ferrosilicon and PVC slipped more than 1%. On the upside, ethylene glycol gained about 4%, SC crude rose over 3%, low-sulphur fuel oil was up nearly 2%, and PET flakes, short fiber, fuel oil, paraxylene, Shanghai aluminium and PTA advanced more than 1%.
+
+---
+
+### 2026-07-30 11:31:24  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #CSI500 #CSI1000
+
+【China index futures morning close】CSI 300 index futures (IF) front contract fell 2.17% at the morning close; SSE 50 index futures (IH) fell 0.61%; CSI 500 (IC) fell 3.73%; CSI 1000 (IM) fell 2.78%.
+
+---
+
+### 2026-07-30 11:31:16  #宏觀
+
+【規範線上家政服務全流程 3項國家標準釋出】市場監管總局（國家標準委）釋出《電子商務家政 服務通則》《電子商務家政 家政服務人員平臺入駐稽核要求》《電子商務家政 平臺服務質量評價指標體系》3項電子商務家政領域國家標準，聚焦日常電商家政消費痛點，規範線上家政服務全流程，讓電商家政服務更透明、更靠譜、更安心。
+
+---
+
+### 2026-07-30 11:30:36  #市場
+
+【國內金飾價格集體上漲 周生生足金飾品單日漲18元/克】國內金飾價格集體上漲，查詢國內金飾價格，周生生足金飾品報1239元/克，單日漲18元；老廟黃金足金飾品報1236元/克，單日上漲14元；老鳳祥足金飾品報1239元/克，單日上漲18元。
+
+---
+
+### 2026-07-30 11:30:03  #市場
+
+【商品期貨早盤收盤】乙二醇連續漲4.03%，上海原油連續漲3.53%，菜粕連續跌2.69%，純鹼連續跌2.69%，集運指數歐線期貨連續跌2.68%。
+
+---
+
+### 2026-07-30 11:30:03  #市場
+
+【國債期貨早盤收盤】 30年期主力合約漲0.03%， 10年期主力合約跌0.01%， 5年期主力合約基本持平， 2年期主力合約跌0.01%。
+
+---
+
+### 2026-07-30 11:30:02  #市場
+
+【股指期貨早盤收盤】 中證1000指數期貨連續跌2.76%， 滬深300指數期貨連續跌2.17%， 中證500指數期貨連續跌3.70%， 上證50指數期貨連續跌0.63%。
+
+---
+
+### 2026-07-30 11:29:59  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
+
+By late-morning trade, A-shares' ChiNext Index and STAR 50 Index were both down over 6%; the Shenzhen Composite Index fell about 3.86%; the Shanghai Composite Index was down 1.2%.
+
+---
+
+### 2026-07-30 11:28:08  #國際
+
+【監獄太擠 義大利透過居家服刑法案】為緩解監獄嚴重擁擠的困境，義大利議會眾議院29日透過一項法案，將允許符合特定條件的藥物成癮或酒精成癮囚犯改為居家服刑。根據法案，這些囚犯必須同時進行康復治療。據囚犯權益組織安提戈涅協會資料，義大利監獄目前關押規模達到設計容量的約140%，屬於歐盟範圍內監獄擁擠情況最嚴重的國家之一。
+
+---
+
+### 2026-07-30 11:28:04  #市場 #焦點
+
+創業板指跌6.00%，現報3175.813點；上證指數跌1.16%，現報3784.018點；深證成指跌3.86%，現報13131.693點。
+
+---
+
+### 2026-07-30 11:28:04  #市場 #焦點
+
+紐約期金失守4110美元/盎司，日內漲0.32%。
+
+---
+
+### 2026-07-30 11:26:54  #市場 #焦點
+
+中證500指數期貨連續主力合約日內跌4%，現報7156.00點。
+
+---
+
+### 2026-07-30 11:24:38  #國際
+
+【日本首相高市早苗計劃明年4月起將食品消費稅降至1%】據日本自民黨高層透露，日本首相高市早苗已決定從2027年4月起，暫時將食品和不含酒精飲料的消費稅率降至1%，為期兩年。
+
+---
+
+### 2026-07-30 11:23:30  #MKT News #Brent #Impact bearish
+
+【US media: Saudi defense minister visits US seeking to ease regional tensions】Axios reported on the 29th that after US and Saudi airstrikes on Iraqi Shia militias, Saudi Defense Minister Khalid bin Salman told Vice President Vance in Washington that Crown Prince Mohammed bin Salman intends to ease tensions with Iran. Khalid said attacks by Iraq’s Iran-aligned militias on Saudi infrastructure and energy facilities had crossed a red line and that Saudi must respond. He added Saudi has the capability to handle Yemen’s Houthi movement and currently does not require US involvement. Sources told Axios Riyadh is negotiating with the Houthis.
+
+---
+
+### 2026-07-30 11:23:02  #市場
+
+富時中國A50指數期貨下跌2%。
+
+---
+
+### 2026-07-30 11:22:23  #國際
+
+【美媒：沙特國防大臣訪美 希望緩和地區局勢】據美國阿克西奧斯新聞網站29日報道，在美國和沙烏地阿拉伯軍隊對伊拉克什葉派民兵武裝發動空襲後，沙特國防大臣哈立德·本·薩勒曼29日在華盛頓同美國副總統萬斯會晤時表示，沙特王儲穆罕默德有意緩和與伊朗的緊張局勢。報道說，哈立德會晤萬斯時表示，伊拉克親伊朗民兵組織針對沙特基礎設施和能源設施的襲擊觸及了紅線，沙特必須作出回應。“王儲希望向萬斯傳達這樣的資訊：在伊拉克的打擊行動並不意味著沙特主張局勢升級，而是表明沙特在必要時已準備好自衛。”（新華社）
+
+---
+
+### 2026-07-30 11:20:52  #MKT News #Important #Market Themes #China Tech Giants #CSI300 #Impact bearish
+
+China A-share Sci-Tech Innovation 50 Index extends losses to 6%; Yuanjie Technology down over 17%.
+
+---
+
+### 2026-07-30 11:20:22  #市場
+
+富時中國A50指數期貨盤中跌超2%。
+
+---
+
+### 2026-07-30 11:20:11  #市場 #國際
+
+泰國SET指數下跌 2.1% 至 1,591.15點。
+
+---
+
+### 2026-07-30 11:19:41  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #Hang Seng Index #DXY #Impact bullish
+
+FTSE China A50 futures fell over 2% intraday.
+
+---
+
+### 2026-07-30 11:19:23  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內跌3%，現報6835.20點。
+
+---
+
+### 2026-07-30 11:19:12  #市場 #焦點
+
+科創50日內跌幅達6％，成分股中，源傑科技跌17.3％，翱捷科技跌13.7％，華虹宏力跌13.5％，盛科通訊跌13.2％。
+
+---
+
+### 2026-07-30 11:18:02  #公司
+
+【TCL科技在深圳成立新技術公司 註冊資本5億】天眼查App顯示，近日，深圳市華兆星光技術有限公司成立，法定代表人為馬騰，註冊資本5億人民幣，經營範圍含其他電子器件製造、顯示器件製造、積體電路製造、電子產品銷售等。股東資訊顯示，該公司由TCL科技旗下TCL華星光電技術有限公司全資持股。
+
+---
+
+### 2026-07-30 11:17:48  #其他
+
+【滴滴釋出2026上半年反舞弊情況通報：40餘人因涉嫌違法犯罪被移送公安機關處理】7月30日，滴滴釋出2026上半年反舞弊情況通報。通報顯示，2026年上半年，滴滴風控合規團隊聯合內外各方力量查處多起舞弊違規事件，50餘人因觸犯高壓線政策被解除或清退，40餘人因涉嫌違法犯罪被移送公安機關處理，主要集中在收受好處、作假侵佔、洩露機密等方面。
+
+---
+
+### 2026-07-30 11:17:38  #其他
+
+【北京快遞、外賣行業非機動車新規：專用號牌 平臺設定不得“超速”】北京市商務局等四部門近日聯合印發《北京市快遞、外賣行業非機動車管理辦法（試行）》，對全市快遞、外賣電動腳踏車實行全鏈條規範化管理。以保障道路交通安全、消防安全和從業人員生命財產安全為出發點，新規明確，用於快遞、外賣服務的電動腳踏車須登記並懸掛專用號牌，實行“專車專用”；嚴禁攜帶電動腳踏車及蓄電池進入電梯轎廂和居住建築；平臺企業須最佳化演算法，不得推薦逆行、禁行等違法路線。新規將於8月1日起施行。（央視新聞）
+
+---
+
+### 2026-07-30 11:16:21  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Pulaisi: Fed may stand pat in September if oil and inflation ease】Pulaisi chief U.S. economist Blerina Uruci said in a note that, absent a large oil-price rise and assuming inflation falls, the Fed could leave rates unchanged at the September meeting. She said the number of dissents at Wednesday’s FOMC meeting and oil-price uncertainty have left markets pricing roughly a 50/50 chance for September. Markets will continue to press the Fed and may not relent until inflation data forces action, though she maintains a view that the Fed will hold rates. June core CPI did not affect the Fed’s decision; she added that Wosh is monitoring the trend and, if it persists, it could work in his favor in a few months.
+
+---
+
+### 2026-07-30 11:14:40  #MKT News
+
+Thailand's benchmark stock index fell 1.8% to 1,595.17, its lowest level since July 9.
+
+---
+
+### 2026-07-30 11:13:53  #Trading Economics #Economy #Japan #Full Year GDP Growth #Importance 2
+
+Japan Lowers Economic Growth Outlook as Energy Costs Bite — Japan’s Cabinet Office on Thursday trimmed its fiscal 2026 real GDP growth forecast to 0.9% from 1.3%, citing higher oil prices tied to Middle East tensions that are weighing on household spending and corporate earnings. The mid-year outlook sees a rebound in fiscal 2027, with growth accelerating to 1.1% on stronger consumption and investment. Private consumption growth for fiscal 2026 was cut to 0.9% from 1.3%, while capital expenditure is now expected to rise 2.3%, below the earlier 2.8% projection. Inflation is projected at 2.2%, up from 1.9%, reflecting elevated energy costs. Despite persistent price pressures, nominal wages are forecast to climb 3.1% annually through fiscal 2027, keeping real wage growth positive. The Cabinet Office also expects the primary budget balance to swing back to a JPY 1.4 trillion surplus in fiscal 2027, though the government has placed less emphasis on the balance as its main fiscal discipline measure.
+
+---
+
+### 2026-07-30 11:12:45  #市場 #國際
+
+泰國基準股指下跌1.8%，至1595.17點，創7月9日以來最低水平。
+
+---
+
+### 2026-07-30 11:12:15  #MKT News #Important #Brent #Impact bearish #WTI
+
+Iranian Students' News Agency and Al-Araby reported the Houthi militia denied claims it planned to levy transit fees at the Bab al-Mandeb Strait, saying its Red Sea operations are limited to banning Saudi shipping.
+
+---
+
+### 2026-07-30 11:11:08  #公司
+
+【智譜入股具身智慧公司原力靈機】企查查APP顯示，近日，原力靈機（重慶）智慧科技有限公司發生工商變更，新增北京智譜未來科技有限公司等為股東。企查查資訊顯示，該公司成立於2025年，經營範圍包含：服務消費機器人銷售，服務消費機器人制造，智慧機器人的研發，智慧機器人銷售等。據其官網，原力靈機是一家面向通用具身智慧的科創公司。
+
+---
+
+### 2026-07-30 11:10:48  #市場
+
+【國內多家金店金飾價格集體上漲，最高報1239元/克】今日國內黃金飾品價格對比顯示，黃金珠寶品牌公佈的境內足金首飾價格較昨日集體上漲，最高報1239元/克。
+
+---
+
+### 2026-07-30 11:08:39  #Trading Economics #Markets #Commodity #Importance 1
+
+Soybeans Hit 1-Month Low — Soybean futures fell below $11.8 per bushel, hitting a four-week low as forecasts of favorable weather across the US Midwest weighed on prices. The expected rainfall near the end of the week is seen as timely as the soybean crop enters the pod-setting phase, when adequate moisture is crucial for yield development. The improved weather outlook weighed on prices after recent heat concerns had supported the market. Earlier this week, the USDA lowered its good-to-excellent rating for the nation's soybean crop to 63% from 66% as persistent heat stressed crops. Elsewhere, Brazil is also expected to export a record 115.4 million metric tons of soybeans in 2026, reflecting ample global supplies. Meanwhile, continued strong US export demand supported the market. China's Sinograin plans to auction 500,000 metric tons of imported soybeans, its largest sale since January, to free up storage ahead of new US arrivals.
+
+---
+
+### 2026-07-30 11:07:44  #公司
+
+【甘肅首單“保稅+TIR”卡空聯運業務成功落地蘭州新區綜合保稅區】據蘭州釋出，近日，蘭州國際港多式聯運有限公司一輛TIR國際公路運輸車輛從蘭州新區綜合保稅區順利啟程，從綜保區完成海關監管作業後，依託TIR國際公路運輸快速跨境，直達烏茲別克首都塔什干，隨後無縫銜接空運，飛抵土耳其伊斯坦布林，標誌著“保稅+TIR”卡空聯運創新物流模式在甘肅首次成功落地。
+
+---
+
+### 2026-07-30 11:07:36  #MKT News #Important #USDJPY #Impact bullish #Nikkei 225
+
+A senior Liberal Democratic Party official said Japanese Prime Minister Takaichi has ordered the national sales tax on food to be cut from 8% to 1%.
+
+---
+
+### 2026-07-30 11:07:01  #MKT News #Important #000660.KS #Impact bearish #005930.KS #Impact bullish
+
+South Korea's KOSPI briefly slipped into negative territory, erasing earlier gains of more than 5%. SK Hynix fell 3.7% and Samsung Electronics rose 2.6%.
 
 ---
 
@@ -21875,689 +22421,5 @@ Asia FX Updates: Australian Dollar Drops by 0.36% — Top currency losers are Au
 ### 2026-07-29 10:14:59  #MKT News #Important #Market Themes #Chip Wars #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
 
 China A-share lithography-equipment sector extended yesterday's selloff: Maolai Optics down >16%, Xinlai Applied Materials down >13%, Wavelength Photonics down >10%; Yongxin Optics hit the daily down limit, Lanying Equipment and Huachen Equipment down >9%.
-
----
-
-### 2026-07-29 10:14:58  #宏觀
-
-【國家智慧財產權局：做好“十五五”時期智慧財產權工作 突出高質量發展導向】國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，國家智慧財產權局相關負責人介紹“十五五”時期智慧財產權保護和運用有關情況。國家智慧財產權局相關負責人介紹，做好“十五五”時期智慧財產權各項工作，將重點突出五個方面：一是突出服務國家發展大局。進一步強調智慧財產權制度與經濟社會發展的融合統一，從智慧財產權創造、保護、運用、管理、服務、國際合作全鏈條明確重點任務，全方位主動服務好國家全面創新、高質量發展和高水平對外開放。二是突出培育發展新動能。圍繞新質生產力發展、關鍵核心技術攻關、特色優勢產業培育等國家“十五五”規劃《綱要》部署的重點任務，強化智慧財產權制度供給和技術供給，為經濟社會高質量發展注入新活力、提供新動能、塑造新優勢。三是突出高質量發展導向。最佳化“每萬人口高價值發明專利擁有量”等指標內涵，更加科學合理地設定直接反映智慧財產權對經濟發展貢獻度的相關指標，指標設計、重點任務等各方面注重與“十四五”時期相關指標任務的穩定銜接、梯次推進、接續實施。四是突出回應技術創新需求。面對新一輪科技革命和產業變革，在人工智慧、大資料、演算法等領域進一步完善智慧財產權保護規則，更大力度加強智慧財產權保護和運用，加強跨區域、跨部門智慧財產權協作，深度參與相關國際規則和標準制定，助力更好激發創新活力，更早搶佔發展先機。五是突出區域協調發展。強化智慧財產權對京津冀、長三角、粵港澳大灣區等重點區域、重大戰略實施的助力作用，促進智慧財產權政策與區域發展優勢協同融合，增強區域發展活力。
-
----
-
-### 2026-07-29 10:14:51  #MKT News
-
-【China IP royalty exports CNY45.5 bln in first five months, up 64.9% YoY】The National Intellectual Property Administration told a State Council press briefing on July 29 that Chinese applicants remained among global leaders in PCT international patent filings, Hague-design international design applications and Madrid international trademark registrations in 1H, with overall filings edging up. The agency said IP royalty exports totaled CNY45.5 bln in the first five months, up 64.9% YoY, and that firms are increasingly monetizing IP to sharpen international competitiveness and upgrade services trade.
-
----
-
-### 2026-07-29 10:14:30  #MKT News
-
-【China had 574,000 firms with active invention patents at end-June】The National Intellectual Property Administration said at a briefing that corporate innovation momentum continues to rise. As of end-June, 574,000 Chinese firms held active invention patents, together holding 4.254 million valid invention patents, or 74.8% of the national total, up 0.3 percentage points from year-end, further consolidating firms' role as the main innovation drivers. Brand protection also rose: one in four business entities holds a valid registered trademark and 55,000 entities use geographical-indication marks.
-
----
-
-### 2026-07-29 10:14:22  #公司
-
-【TCL科技投資成立技術新公司，含積體電路業務】企查查APP顯示，近日，深圳市華兆星光技術有限公司成立，註冊資本5億元，經營範圍包含：電子元器件零售；半導體照明器件銷售；顯示器件銷售；積體電路銷售等。企查查股權穿透顯示，該公司由TCL科技旗下TCL華星光電技術有限公司全資持股。
-
----
-
-### 2026-07-29 10:14:18  #公司 #市場
-
-【汽車整車概念延續強勢 北汽藍谷逼近漲停】汽車整車概念延續強勢，北汽藍谷逼近漲停，江淮汽車、長安汽車、廣汽集團、海馬汽車、賽力斯跟漲。
-
----
-
-### 2026-07-29 10:13:59  #宏觀
-
-【今年前五個月 我國智慧財產權使用費出口額455億元】國家智慧財產權局在國務院新聞辦公室舉行的釋出會上介紹，我國智慧財產權國際競爭力顯著加強。上半年，我國申請人提交的PCT國際專利申請、海牙體系外觀設計國際申請、馬德里商標國際註冊申請均穩居世界前列，整體規模穩中有升。前五個月，我國智慧財產權使用費出口額455億元，同比大幅增長64.9%，表明我國企業積極以智慧財產權塑造國際競爭新優勢，推動我國服務貿易向新向優。
-
----
-
-### 2026-07-29 10:13:52  #Trading Economics #Markets #Australia #Currency #Importance 1
-
-Aussie Dollar Dips on Softer CPI Data — The Australian dollar fell below $0.695, reaching its weakest level in two weeks as softer inflation data dampened expectations of additional interest rate hikes. Headline inflation unexpectedly eased to a four-month low of 3.8% in June from both May's reading and forecasts of 4.0%, while monthly consumer prices unexpectedly fell 0.1% for a second straight month. Meanwhile, the closely watched trimmed mean inflation rate rose 3.6% annually, below expectations of 3.7%, while quarterly core inflation increased 0.8%, also undershooting forecasts. The softer-than-expected readings reinforced expectations that the Reserve Bank of Australia will remain cautious on further policy tightening, although inflation remains above its 2%–3% target range. Markets sharply scaled back expectations for another RBA rate hike this year, with the implied probability falling to around 50% from more than 90% before the release.
-
----
-
-### 2026-07-29 10:13:44  #宏觀
-
-【截至6月底 我國擁有有效發明專利的企業達57.4萬家】國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會。國家智慧財產權局在釋出會上介紹，我國企業創新發展內生動力持續攀升。截至6月底，國內擁有有效發明專利的企業達到57.4萬家，擁有的有效發明專利數量達到425.4萬件，佔國內總量的74.8%，較上年末提升0.3個百分點，企業創新主體地位進一步鞏固。同時，品牌保護意識不斷提升，每4個經營主體就擁有1件有效註冊商標，使用地理標誌專用標誌的經營主體達到5.5萬家，企業品牌建設步伐持續加快。
-
----
-
-### 2026-07-29 10:12:46  #其他
-
-【新一代資訊科技領域有效發明專利佔總量16.5%】國家智慧財產權局在國務院新聞辦公室舉行的釋出會上介紹，我國重點領域創新動能不斷增強。截至6月底，人工智慧、網際網路、雲端計算、大資料等新一代資訊科技領域有效發明專利佔到總量的16.5%，前沿賽道專利的加速積累為打造新的經濟增長點賦能增效。重點產業商標品牌佈局持續完善，為相關產業品牌化發展提供了堅實支撐。
-
----
-
-### 2026-07-29 10:12:43  #央行 #美聯儲
-
-【今晚美聯儲決議五類情境剖析！最可能出現的一幕是……】美聯儲定於北京時間週四凌晨2點公佈利率決議，美聯儲主席沃什則將按慣例於凌晨2點半主持召開新聞釋出會。面臨這一目前被業內譽為最難預測的美聯儲決議，摩根大通美國市場情報交易臺在最新研報中預計，美聯儲將維持利率不變，同時可能會至少出現兩票鷹派反對票——包括哈馬克和洛根的異議。
-
----
-
-### 2026-07-29 10:12:32  #MKT News
-
-On the A-share market, Zhongji Xuchuang's trading turnover reached 10 bln yuan; shares are trading up 0.7%.
-
----
-
-### 2026-07-29 10:11:57  #公司
-
-【智元機器人等成立智慧科技服務新公司】企查查APP顯示，近日，新鄭市廣瑞雲智慧科技服務有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧基礎軟體開發；人工智慧行業應用系統整合服務；智慧機器人的研發；智慧機器人銷售；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由智元機器人關聯公司智元創新（上海）科技股份有限公司等共同持股。
-
----
-
-### 2026-07-29 10:11:29  #其他
-
-【我國高價值發明專利擁有量達236萬件】國家智慧財產權局副局長芮文彪在7月29日舉行的國新辦釋出會上說，截至今年6月底，我國高價值發明專利擁有量達到236萬件，每萬人口高價值發明專利擁有量提升至16.8件。（新華社）
-
----
-
-### 2026-07-29 10:11:28  #市場 #焦點
-
-南向資金淨賣出額達40億港元。
-
----
-
-### 2026-07-29 10:11:13  #MKT News #Market Regions #Greater China
-
-【China National Intellectual Property Administration: 453,000 invention patents granted in 1H】China's National Intellectual Property Administration said 453,000 invention patents were granted in 1H, 2.055 million trademarks were registered, 64 geographic-indication products were recognized and eight geographic indications were approved for registration as collective or certification marks. Integrated-circuit layout-design registrations totaled 5,061. Authorities approved two new national IP protection centers and six rapid rights‑protection centers, and patent‑trademark pledge financing has benefited more than 19,000 enterprises.
-
----
-
-### 2026-07-29 10:11:09  #其他
-
-【今年上半年我國共授權發明專利45.3萬件】國家智慧財產權局副局長芮文彪在7月29日舉行的國新辦釋出會上說，今年上半年我國共授權發明專利45.3萬件，核准註冊商標205.5萬件，認定地理標誌產品64個，核准地理標誌作為集體商標、證明商標註冊8件，積體電路布圖設計登記發證5061件，新批准建設2家國家級智慧財產權保護中心和6家快速維權中心，全國專利商標質押融資惠企數量超過1.9萬家。
-
----
-
-### 2026-07-29 10:11:07  #MKT News #Important #CSI300 #Impact bearish #SSE Composite #SZSE Component
-
-A-share CPO concept stocks slid; Cambridge Technology and Tongfu Microelectronics closed at the daily limit down, Ruijie Networks dropped over 10%, and JCET, Guangxun Technology, Zhongfu Circuit, Huatian Technology and Yongding Co. also fell.
-
----
-
-### 2026-07-29 10:10:26  #其他
-
-今年上半年我國共授權發明專利45.3萬件。（新華社）
-
----
-
-### 2026-07-29 10:09:02  #公司 #市場
-
-【CPO板塊震盪走弱，劍橋科技跌停】CPO板塊震盪走弱，劍橋科技、通富微電跌停，銳捷網路跌超10%，長電科技、光迅科技、中富電路、華天科技、永鼎股份等跟跌。
-
----
-
-### 2026-07-29 10:09:01  #Trading Economics #Economy #China #Reverse Repo Rate #Importance 1
-
-PBoC Maintains Liquidity Support Before Month-End — The People's Bank of China (PBoC) injected CNY 806.5 billion into the banking system through reverse repo operations on Wednesday, July 29, 2026, to maintain ample liquidity at month-end. The central bank supplied CNY 206.5 billion via seven-day reverse repos at an unchanged interest rate of 1.40%, while adding another CNY 600 billion through overnight reverse repos without disclosing the borrowing cost. The move followed the PBoC's announcement last week that it would conduct overnight reverse repo operations from July 29 to 31 and again on August 3, injecting a total of CNY 2.1 trillion through the short-term liquidity tool. The operations reflect the central bank's continued efforts to stabilize money market conditions and ensure sufficient cash in the banking system during a period of typically elevated funding demand at the end of the month.
-
----
-
-### 2026-07-29 10:08:57  #MKT News #Important #00325.HK #Impact bullish #02097.HK #09985.HK
-
-Hong Kong-listed new-consumer stocks rallied: Buluoke (00325.HK) up over 12.5%, Mixue Group (02097.HK) up over 6%, Weilong (09985.HK) and Juzi Bio (02367.HK) up over 5.5%, Hu Shang Ayi (02589.HK) up about 5%.
-
----
-
-### 2026-07-29 10:08:44  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Saudi outlet Alhadath reported Riyadh presented Iraqi authorities with clear evidence that drone attacks originated inside Iraq.
-
----
-
-### 2026-07-29 10:08:08  #市場 #焦點
-
-甲醇連續主力合約日內漲2%，現報2661.00元。
-
----
-
-### 2026-07-29 10:08:04  #國際
-
-【日本氣象廳：熊本強震後已發生餘震171次】據日本氣象廳介紹，自7月28日下午日本熊本縣發生6.8級地震以來，截至當地時間29日上午10時，震區周邊共發生震度1級以上地震171次。日本氣象廳在28日舉行的記者會上表示，從地震發生後的約一週時間內，尤其是在未來2至3天期間，要警惕可能發生最大震度達到7級左右的地震。
-
----
-
-### 2026-07-29 10:07:30  #市場
-
-富時中國A50指數期貨盤中跌超1%。
-
----
-
-### 2026-07-29 10:07:15  #國際
-
-委內瑞拉就相關言論召見伊朗大使。
-
----
-
-### 2026-07-29 10:06:42  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
-
-FTSE China A50 index futures fell more than 1% intraday.
-
----
-
-### 2026-07-29 10:06:30  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-China Stocks Fall on Middle East Jitters — The Shanghai Composite fell 0.4% to 3,798 on Wednesday, while the Shenzhen Component dropped 1.5% to 13,313, as investors weighed escalating Middle East tensions against a rebound in battered technology stocks. Tensions in the region intensified after Iran launched ballistic missiles toward US positions following a brief period of relative calm, though US Central Command said all projectiles were intercepted. Banking shares were among the biggest drags, led by Industrial and Commercial Bank of China (-1.0%), Agricultural Bank of China (-1.0%), and Bank of China (-1.3%). In contrast, technology stocks rebounded from recent losses, with Zhongji Innolight (1.6%), Eoptolink Technology (1.3%), NAURA Technology (1.1%), and Cambricon Technologies (2.6%) advancing despite persistent concerns over elevated valuations and AI-related spending. Attention is now turning to the Politburo meeting later this week, where investors hope to gain fresh insight into China's economic policy agenda.
-
----
-
-### 2026-07-29 10:06:29  #公司
-
-【港股汽車板塊大幅走高 理想汽車漲超10%】港股汽車板塊大幅走高，小米集團漲超7%，理想汽車漲超10%，港股賽力斯漲超6%，蔚來漲超4%。
-
----
-
-### 2026-07-29 10:06:08  #MKT News
-
-【C919 high-altitude variant completes maiden flight】The first C919 high‑altitude prototype completed its maiden flight test today from Shanghai Pudong International Airport, finishing all scheduled test items. The flight marks a step toward serial production of the C919 family. The variant incorporates a shortened fuselage and systems upgrades to meet high‑altitude operational requirements.
-
----
-
-### 2026-07-29 10:05:56  #MKT News #Important #Market Themes #Chip Wars #CSI300 #Impact bearish #SSE Composite #SZSE Component
-
-China A-shares slipped intraday: ChiNext fell more than 2%, Shenzhen Composite Index dropped 1.6% and Shanghai Composite Index fell 0.7%. Lithography-equipment and semiconductor stocks led losses.
-
----
-
-### 2026-07-29 10:05:39  #Trading Economics #Markets #Hong Kong #stocks #Importance 1
-
-AIA Stock Price Hits 7-week High — AIA shares increased to 79.30 HKD, the highest since June 2026. Over the past 4 weeks, AIA Group gained 9.76%, and in the last 12 months, it increased 5.95%.
-
----
-
-### 2026-07-29 10:05:17  #市場 #焦點
-
-滬深300指數期貨連續主力合約日內跌1%，現報4475.60點。
-
----
-
-### 2026-07-29 10:05:14  #其他
-
-OCEANBASE據悉尋求至多30億元人民幣的融資。
-
----
-
-### 2026-07-29 10:05:09  #MKT News
-
-Philippine benchmark stock index rose 2% to 6,428.14, the highest level since July 21.
-
----
-
-### 2026-07-29 10:04:49  #MKT News #Important #CSI300 #Impact bearish #SSE Composite
-
-China A-share semiconductor sector extended losses; Yake Technology and GigaDevice sealed at daily limit down, while Youyan Silicon, Xi'an Yicai, Weidao Nano, Tongfu Microelectronics and Yongxi Electronics tracked lower.
-
----
-
-### 2026-07-29 10:04:44  #市場
-
-滬深300指數下跌1%至4,523.62點。
-
----
-
-### 2026-07-29 10:04:32  #市場 #焦點
-
-創業板指跌2.02%，現報3259.947點；上證指數跌0.75%，現報3784.660點；深證成指跌1.62%，現報13291.415點。
-
----
-
-### 2026-07-29 10:04:31  #公司 #市場
-
-【電力改革概念震盪反彈，桂冠電力漲停】電力改革概念震盪反彈，桂冠電力漲停，紅相股份、ST合縱、華電遼能、國電電力、華電國際等跟漲。
-
----
-
-### 2026-07-29 10:04:24  #MKT News #Market Themes #China Tech Giants #SSE Composite #Impact bearish #CSI300 #Hang Seng Index
-
-China A-share Sci-Tech Innovation 50 Index (STAR 50) plunged intraday, down over 4%. Shengke Communication fell nearly 10%; components including AMEC, Hua Hong Hongli, China’s CPU maker Haiguang and Zhongke Feice slid more than 7%.
-
----
-
-### 2026-07-29 10:04:19  #市場
-
-【新股N千岸漲超229% 觸發二次臨停】新股N千岸擴大漲幅至229%，觸發二次臨停，成交超5億元，換手率超56%。
-
----
-
-### 2026-07-29 10:04:08  #公司 #市場
-
-【建築材料板塊震盪拉昇，堅朗五金漲停】建築材料板塊震盪拉昇，堅朗五金漲停，西藏天路、兔寶寶、塔牌集團、三棵樹、北新建材、國際復材等跟漲。
-
----
-
-### 2026-07-29 10:03:59  #市場 #國際
-
-菲律賓主要股指上漲2%，至6428.14點，創下7月份新高。
-
----
-
-### 2026-07-29 10:03:48  #MKT News #Market Regions #Emerging Markets
-
-The Indonesian rupiah slid to 18,100 per US dollar in early trade.
-
----
-
-### 2026-07-29 10:03:43  #市場 #國際
-
-印尼盧比兌美元在早盤交易中走軟至18,100。
-
----
-
-### 2026-07-29 10:03:22  #國際
-
-【訊息人士：阿曼提出聯合管理霍爾木茲海峽新機制】一名海灣地區訊息人士28日披露，阿曼向伊朗提出了一項聯合管理霍爾木茲海峽航運的地區機制，通行海峽的船隻可基於自願原則捐款。目前，阿曼和伊朗官方均未證實這一訊息。這名不願公開姓名的訊息人士告訴路透社，新機制參考馬六甲海峽的管理辦法，使用方自願向維護航道的相關基金捐款，用於環境保護和搜救工作等。阿曼的最新提議得到了一些地區國家支援。暫不清楚伊朗會如何回應這一提議。（新華社）
-
----
-
-### 2026-07-29 10:03:08  #市場 #焦點
-
-科創50日內跌幅達4.02%，成分股中，盛科通訊跌7.48%，中微公司跌7.21%，華虹宏力跌6.41%，中科飛測跌5.69%。
-
----
-
-### 2026-07-29 10:02:51  #市場
-
-半導體板塊持續走低，雅克科技、兆易創新跌停，有研矽、西安奕材、微導奈米、通富微電、甬矽電子等跟跌。
-
----
-
-### 2026-07-29 10:02:08  #其他
-
-【貴州省地質礦產局原黨委副書記陳代軍被“雙開“】中央紀委國家監委網站7月29日通報，據貴州省紀委監委訊息：經貴州省委批准，貴州省紀委監委對貴州省地質礦產局原黨委副書記陳代軍嚴重違紀違法問題進行了立案審查調查。經查，陳代軍喪失理想信念，背棄初心使命，對抗組織審查；罔顧中央八項規定精神，收受可能影響公正執行公務的禮品禮金，借用管理服務物件車輛，接受可能影響公正執行公務的宴請和旅遊活動安排，由他人支付應由本人支付的費用；違背組織原則，隱瞞不報個人有關事項，違規為他人謀取人事利益；廉潔底線失守，違規從事營利活動，透過民間借貸獲取大額回報，違規為親屬謀取利益，搞權色、錢色交易；違反工作紀律，違規干預市場經濟活動；將公權力當作攫取私利的工具，大搞權錢交易，利用職務便利為他人謀取利益，並非法收受鉅額財物。陳代軍嚴重違反黨的政治紀律、組織紀律、廉潔紀律、工作紀律和生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經貴州省紀委常委會會議研究並報貴州省委批准，決定給予陳代軍開除黨籍處分；由貴州省監委給予其開除公職處分；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。
-
----
-
-### 2026-07-29 10:02:03  #其他
-
-【貴州省交通運輸廳原副巡視員劉建華被開除黨籍】中央紀委國家監委網站7月29日通報，據貴州省紀委監委訊息：經貴州省委批准，貴州省紀委監委對貴州省交通運輸廳原副巡視員劉建華嚴重違紀違法問題進行了立案審查調查。經查，劉建華喪失理想信念，背棄初心使命，對抗組織審查；罔顧中央八項規定精神，接受可能影響公正執行公務的宴請，退休後違規收受禮品禮金、違規接受宴請和旅遊活動安排；違背組織原則，為他人謀取人事利益並收受財物；廉潔底線失守，收受可能影響公正執行公務的禮金；毫無紀法底線，將職權異化為謀取私利的工具，退而不休，利用原職務影響力為他人謀取不正當利益，並非法收受鉅額財物。劉建華嚴重違反黨的政治紀律、組織紀律、廉潔紀律，構成嚴重職務違法並涉嫌受賄犯罪、利用影響力受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經貴州省紀委常委會會議研究並報貴州省委批准，決定給予劉建華開除黨籍處分；按規定取消其享受的待遇；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。
-
----
-
-### 2026-07-29 10:02:03  #MKT News #000660.KS #Impact bearish
-
-SK Hynix shares fell as much as 10%.
-
----
-
-### 2026-07-29 10:01:48  #其他
-
-【最高法明確：參加單位支援的全日制教育後不返崗 須擔違約責任】今天，最高人民法院釋出《最高人民法院關於事業單位工作人員脫產參加全日制學歷教育後違反服務期約定有關問題的批覆》，維護事業單位人事管理秩序，守護誠信契約精神，助力夯實人力資本，保障人才投資良性迴圈。《批覆》明確脫產參加全日制學歷教育的工作人員違反服務期約定，事業單位請求其依約承擔違約責任的，人民法院依法予以支援的規則，有利於事業單位聚焦關鍵崗位、緊缺專業、核心業務，暢通真正願意紮根崗位、潛心幹事的工作人員獲得提升素質的渠道，使學歷教育成為補齊能力短板、強化隊伍支撐的重要舉措。工作人員學成後違約離職，本質是違背誠信原則的失信行為，是對契約精神的漠視，對事業單位信任的透支。《批覆》對於工作人員的失信行為予以否定性評價，有助於樹立契約意識、責任意識與誠信意識，充分發揮工作人員脫產參加全日制學歷教育所承載的賦能人才、發展事業、服務公益的重要使命。《批覆》綜合考慮實際損失、已經履行的年限、過錯等因素，根據公平原則和誠信原則，確定違約工作人員應當承擔的責任，讓人才培養真正發揮作用，實現個人成長與事業發展同頻共振、互利共贏。
-
----
-
-### 2026-07-29 10:01:27  #MKT News #Important #000660.KS #Impact bearish
-
-South Korea's KOSPI fell more than 5% intraday, slipping below 5,700 points for the first time since April 7. SK Hynix dropped over 9%.
-
----
-
-### 2026-07-29 10:01:10  #市場
-
-SK海力士股價下跌10%。
-
----
-
-### 2026-07-29 10:01:02  #公司
-
-【摩爾執行緒完成Kimi K3適配】摩爾執行緒宣佈公司基於AI訓推一體智算卡MTT S5000及MUSA軟體棧，7月28日完成Kimi K3的適配。
-
----
-
-### 2026-07-29 10:00:55  #宏觀
-
-【加強冷凍飲品生產環節監督管理 市場監管總局公開徵求意見】為規範冷凍飲品生產許可，加強對冷凍飲品生產環節的監督管理，7月29日，市場監管總局就《冷凍飲品生產許可審查細則（徵求意見稿）》向社會公開徵求意見，為期30天。該徵求意見稿主要修訂了以下內容。 完善生產許可範圍。為滿足冷凍飲品行業日益發展的需求，在梳理冷凍飲品六種常見產品型別外，新增其他冷凍飲品型別，更加貼合行業高質量發展要求。明確不得以分裝方式生產冷凍飲品。 細化設施裝置要求。細化生產場所設定與劃分、裝置設施配套、裝置佈局和工藝流程等內容，強調各區域涵蓋範圍及分隔要求，明確企業應建立冷凍飲品專用冷庫，並在實時監控裝置的基礎上配備溫度超限報警裝置。 嚴格全過程汙染防控。新增生產各階段溫溼度監控要求、微生物監控要求、冷庫衛生管理要求以及產品冷鏈物流衛生要求，強化企業汙染防控能力。 明確食品安全制度要求。要求企業建立並落實採購管理與進貨查驗、生產過程管理、出廠檢驗、運輸交付、追溯、自查及召回等全鏈條食品安全管理制度，同時要求配套倉儲、清潔消毒相應制度。細化各項制度管理要求，既確保企業執行到位，也為生產許可審查提供明確參考依據。
-
----
-
-### 2026-07-29 10:00:37  #市場
-
-MSCI亞太指數下跌1.1%至254.23點。
-
----
-
-### 2026-07-29 10:00:28  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #XAUUSD #Impact bullish
-
-【Japan minimum wages set to rise steadily, supporting Bank of Japan rate-hike path】An advisory panel to Japan’s Ministry of Health, Labour and Welfare recommended on Tuesday raising the national average minimum hourly wage by 4.9% to ¥1,176 (about $7.18) for the current fiscal year. The ¥55-an-hour increase is the second-largest on record, though below last year’s 6.3% rise, would cover more than 50 million workers and is expected to be phased in from October after prefectures set specific rates. The wage gain supports the Bank of Japan’s effort to create a wage-driven demand–inflation virtuous cycle, strengthening the case for further tightening as a weaker yen raises import energy and food costs and squeezes household spending.
-
----
-
-### 2026-07-29 10:00:23  #市場 #國際
-
-韓國綜合股價指數（KOSPI）下跌5.1％，SK海力士跌近10%，三星電子跌超5%。
-
----
-
-### 2026-07-29 10:00:22  #市場 #焦點
-
-南向資金淨賣出額達30億港元。
-
----
-
-### 2026-07-29 10:00:12  #市場
-
-臺灣加權股價指數下跌3%至40,354.54點。
-
----
-
-### 2026-07-29 10:00:04  #公司 #市場
-
-【免稅概念持續走強，東百集團漲停】免稅概念持續走強，東百集團漲停，居然智家、招商蛇口、廣百股份、嶺南控股、歐亞集團、友好集團等跟漲。
-
----
-
-### 2026-07-29 10:00:01  #市場
-
-【腦機介面概念震盪調整 三博腦科、倍益康雙雙跌超10%】腦機介面概念盤中震盪調整，三博腦科、倍益康雙雙跌超10%，愛朋醫療、翔宇醫療、海南海藥、創新醫療、南京熊貓等跟跌。
-
----
-
-### 2026-07-29 09:59:53  #公司
-
-【油氣概念表現活躍 首華燃氣漲超13%】油氣概念表現活躍，首華燃氣漲超13%，新天然氣、通源石油、潛能恆信、科力股份、藍焰控股跟漲。
-
----
-
-### 2026-07-29 09:59:43  #國際
-
-韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化賣盤。
-
----
-
-### 2026-07-29 09:59:35  #央行 #國際
-
-申鉉松：韓國央行將考慮通貨膨脹壓力、經濟和金融穩定性。
-
----
-
-### 2026-07-29 09:59:19  #央行 #國際
-
-申鉉松：韓國央行將在評估通脹和經濟狀況後決定政策。
-
----
-
-### 2026-07-29 09:58:56  #公司 #國際
-
-伊朗伊斯蘭革命衛隊29日釋出多份公告說，伊朗伊斯蘭革命衛隊空軍當天用導彈打擊了位於約旦境內的一處美國空軍基地和指揮中心。（新華社）
-
----
-
-### 2026-07-29 09:58:49  #央行 #其他
-
-【央行：今起陸續開展總量超2萬億隔夜逆回購操作】今天起（29日）到7月31日，中國人民銀行將每天開展6000億元隔夜逆回購操作、8月3日將開展3000億元隔夜逆回購操作。隔夜逆回購是央行進行公開市場操作的重要工具，主要作用是向市場投放短期流動性。具體操作上，隔夜逆回購首先由央行向大型銀行等一級交易商買入有價證券，相當於央行向市場“借出錢”。第二天，交易商按約定價格再將證券從央行贖回，資金從市場流回央行，從而完成短期流動性調控。（央視新聞）
-
----
-
-### 2026-07-29 09:58:13  #公司 #市場
-
-【機器視覺板塊震盪走弱，獅頭股份跌停】機器視覺板塊震盪走弱，獅頭股份跌停，奧普光電、波長光電、矩子科技、盛視科技、中潤光學、奧普特等跟跌。
-
----
-
-### 2026-07-29 09:58:04  #公司
-
-【富達在中國內地推出首隻互認基金】7月29日，富達基金管理（中國）有限公司宣佈，旗下首隻互認基金——“富達環球投資基金—香港債券基金”將於2026年8月10日正式開售。在投資組合構建方面，該基金重點投資於政府及政府相關機構、準主權發行人，以及大型高等級投資級企業債券，行業主要覆蓋跨國銀行、大型公用事業等優質發行主體。
-
----
-
-### 2026-07-29 09:57:54  #央行 #國際
-
-韓國央行申鉉松：晶片行業將助力韓國經濟實現穩定增長。
-
----
-
-### 2026-07-29 09:57:38  #MKT News #Copper #Impact mixed
-
-RIO (RIO.N) CEO says the company is considering how best to make the US Kennecott copper smelter profitable.
-
----
-
-### 2026-07-29 09:57:33  #其他
-
-SK海力士股價跌幅擴大至8.8%。
-
----
-
-### 2026-07-29 09:57:24  #MKT News
-
-Korea Exchange activated the KOSDAQ sidecar mechanism; program trading suspended for 5 minutes.
-
----
-
-### 2026-07-29 09:57:14  #央行 #國際
-
-韓國央行行長申鉉松：韓國央行認為有必要繼續加息。
-
----
-
-### 2026-07-29 09:56:58  #市場 #焦點
-
-中證500指數期貨連續主力合約日內跌1%，現報7278.20點。
-
----
-
-### 2026-07-29 09:56:56  #國際
-
-【美軍稱打擊伊拉克境內受伊朗支援的目標】美軍中央司令部28日在社交媒體釋出訊息稱，美軍和沙烏地阿拉伯軍隊在伊拉克對“受伊朗支援的”目標進行了打擊。 訊息說，打擊目標是受伊朗伊斯蘭革命衛隊指使的“恐怖分子”，他們企圖襲擊美軍和沙特能源基礎設施。此次打擊是回應“過去72小時內由伊朗伊斯蘭革命衛隊指揮的30多次無人機襲擊”，美國和沙特戰機打擊了伊拉克東部多處“屬於恐怖分子的後勤與武器設施”。 訊息還稱，今年2月至4月，“伊朗支援的民兵”在伊拉克境內對美國公民和設施發動了600多次未遂襲擊。 另據伊朗法爾斯通訊社當地時間29日援引伊拉克訊息人士的話報道，沙特襲擊了伊拉克瓦西特省一處伊拉克什葉派民兵武裝“人民動員組織”的宿舍。 伊朗國家電視臺當地時間29日援引一名軍事情報官員的話說，伊朗否認其與他國擊中沙烏地阿拉伯境內目標有任何關聯。這名官員在接受採訪時表示：“將任何針對美國在該地區利益的行動都歸咎於伊朗是嚴重誤判，是缺乏對該地區局勢瞭解的結果。”（新華社）
-
----
-
-### 2026-07-29 09:56:54  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Steadies Ahead of Fed Decision — The yield on the US 10-year Treasury note steadied around 4.62% on Wednesday as investors awaited the Federal Reserve’s upcoming policy decision, with policymakers widely expected to leave interest rates unchanged. However, markets continue to price in about a one-third chance of a 25-basis-point rate hike, reflecting an unusually high level of uncertainty this close to a policy meeting compared with recent years. Traders also assign roughly an 80% probability to a rate increase in September, reinforcing expectations that borrowing costs could remain elevated. Investors also monitored rebounding oil prices and renewed inflation concerns after fresh hostilities flared in the Middle East. The US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East, reigniting regional tensions.
-
----
-
-### 2026-07-29 09:56:00  #MKT News #Important
-
-Korea Exchange activated its KOSPI sidecar mechanism, suspending algorithmic trading for 5 minutes.
-
----
-
-### 2026-07-29 09:55:59  #央行 #國際
-
-韓國央行行長申鉉松：通脹將在相當長的一段時間內保持在目標之上。
-
----
-
-### 2026-07-29 09:55:23  #國際
-
-韓國交易所啟動SIDECAR機制，暫停KOSPI程式化賣盤。
-
----
-
-### 2026-07-29 09:54:54  #國際
-
-烏克蘭代理國防部長表示，烏克蘭必須對俄羅斯採取非對稱行動。
-
----
-
-### 2026-07-29 09:54:00  #MKT News
-
-Newly listed A-share N Qian'an extended gains to 167%, triggering an intraday volatility suspension; turnover exceeded CNY 460 million.
-
----
-
-### 2026-07-29 09:53:53  #MKT News #AUDUSD #Impact bearish
-
-【Australia June inflation below expectations eases RBA near-term rate-hike pressure】Australia's June CPI came in below expectations, easing near-term pressure on the Reserve Bank of Australia (RBA) to tighten policy and giving the bank more room to assess the outlook. The Australian dollar and local government bond yields fell after the print. The RBA raised rates at its first three meetings this year to curb inflation that emerged before the US–Iran-driven global energy shock. Despite prices remaining elevated, another tightening at the August 11 meeting—when the RBA will publish updated quarterly forecasts—now looks less likely.
-
----
-
-### 2026-07-29 09:53:39
-
-【日韓股市雙雙走低 韓國KOSPI指數日內跌4％】韓國KOSPI指數日內大跌4％，跌破5800點，現報5781.28點，SK海力士跌近8％，三星電子跌超3％。日經225指數日內跌幅達1％。
-
----
-
-### 2026-07-29 09:53:33  #Trading Economics #Markets #Japan #Stock Market #Importance 2
-
-Japanese Shares Fall as Tech Selloff Intensifies — The Nikkei 225 Index fell 0.8% to below 62,000 on Wednesday, extending the previous session’s losses as technology stocks remained under heavy selling pressure amid persistent concerns over the sustainability of the artificial intelligence trade. Japanese equities also followed Wall Street lower after chipmakers led overnight declines in the US market. Among the biggest technology losers were Kioxia Holdings (-2.4%), Tokyo Electron (-5.5%), SoftBank Group (-4.7%), Murata Manufacturing (-9%), and Taiyo Yuden (-5.8%). Financial stocks also stayed under pressure, with Mitsubishi UFJ (-1.9%), Sumitomo Mitsui (-2%), and Mizuho Financial (-3%) posting notable losses. On the geopolitical front, the US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East, reigniting regional tensions and driving oil prices higher.
-
----
-
-### 2026-07-29 09:53:12  #MKT News #Important #Market Regions #Japan & APAC #005930.KS #Impact bearish #000660.KS #Nikkei 225
-
-【South Korea, Japan stocks slide; KOSPI down about 4% intraday】South Korea's KOSPI plunged about 4% intraday, slipping below 5,800 to 5,781.28 points; SK Hynix fell nearly 8% and Samsung Electronics dropped more than 3%. Japan's Nikkei 225 was down about 1% intraday.
-
----
-
-### 2026-07-29 09:53:01  #公司
-
-【新股N千岸漲超167% 觸發臨停】新股N千岸漲幅擴大至167%，觸發臨停，成交超4.6億元。資料顯示，公司是一家從事自有品牌產品研發、設計並主要透過電商平臺和自營網站進行銷售的高新技術企業。
-
----
-
-### 2026-07-29 09:52:37  #其他
-
-日經225指數跌幅擴大至1%，現報61672.45點。
-
----
-
-### 2026-07-29 09:52:25  #公司 #市場
-
-【房地產板塊震盪走強，中交發展漲停】房地產板塊震盪走強，中交發展漲停，張江高科、華髮股份、榮豐控股、濱江集團、*ST數源、招商蛇口等跟漲。
-
----
-
-### 2026-07-29 09:52:03  #市場 #國際
-
-韓國綜合股價指數（KOSPI）下跌4%，至5781.28點。
-
----
-
-### 2026-07-29 09:51:46  #MKT News #WTI #Impact bullish #Brent
-
-Iranian state TV reported the Islamic Revolutionary Guard Corps said hours ago three oil tankers in the Strait of Hormuz were "hit and seized" after ignoring warnings.
-
----
-
-### 2026-07-29 09:51:46  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #CSI300
-
-China A-share STAR 50 Index fell more than 3% as Shengke Communication tumbled over 8%; China's CPU maker Haiguang, AMEC, Hua Hong Hongli and Shanghai Simgui each slid more than 5%.
-
----
-
-### 2026-07-29 09:51:02  #市場 #焦點
-
-北證50日內跌幅達1.06%，成分股中，戈碧迦跌7.15%，錦華新材跌4.72%，同惠電子跌4.37%，萬達軸承跌3.56%。
-
----
-
-### 2026-07-29 09:50:47  #國際
-
-伊朗革命衛隊稱，三艘油輪數小時前在霍爾木茲海峽無視警告後被"攔截並扣押"。
-
----
-
-### 2026-07-29 09:50:06  #市場
-
-大盤主力淨流出超100億。
-
----
-
-### 2026-07-29 09:50:06  #市場 #焦點
-
-科創50日內跌幅達3.07%，成分股中，盛科通訊跌7.35%，中微公司跌5.87%，海光資訊跌5.83%，滬矽產業跌5.49%。
-
----
-
-### 2026-07-29 09:50:00  #MKT News #Important
-
-China A-shares: ChiNext Index and Shenzhen Composite each fell more than 1%; Shanghai Composite down 0.4%. Dairy, education and AI-application sectors outperformed; lithography equipment, memory chips and CPO-concept stocks led declines.
-
----
-
-### 2026-07-29 09:49:16  #市場 #焦點
-
-南向資金淨賣出額達20億港元。
-
----
-
-### 2026-07-29 09:49:10  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-SoftBank Group said a Japanese credit rating agency assigned its bonds an "A" rating.
-
----
-
-### 2026-07-29 09:48:44  #市場 #焦點
-
-深證成指跌1.01%，現報13372.565點；上證指數跌0.46%，現報3795.959點；創業板指跌1.19%，現報3287.521點。
-
----
-
-### 2026-07-29 09:48:20  #MKT News #Important #Hang Seng Index #Impact bearish #Nikkei 225 #DXY #Impact bullish
-
-South Korea's KOSPI extended losses, down 3% intraday to 5,840.19.
-
----
-
-### 2026-07-29 09:48:12  #公司 #國際
-
-韓國KOSPI指數跌幅擴大至3%，SK海力士跌近7%，三星電子跌超2%。
-
----
-
-### 2026-07-29 09:47:55  #MKT News #Market Themes #Chip Wars #000660.KS #Impact bearish
-
-SK Hynix shares fell 6.5%.
-
----
-
-### 2026-07-29 09:47:49  #MKT News #Market Regions #Greater China
-
-China A-share MLCC sector strengthened; Fenghua Hi-Tech hit the daily price limit for the second time in three sessions, Yunzong Technology rose over 10%. Sanhuan Group, Torch Electronics and Boqian New Materials also advanced.
-
----
-
-### 2026-07-29 09:47:38  #市場
-
-SK海力士股價下跌6.5%。
-
----
-
-### 2026-07-29 09:47:17  #國際
-
-【日本熊本地震致醫療機構停電停水】據日本朝日電視臺今天（7月29日）報道，熊本縣地震造成縣內46家醫療機構受災，目前仍持續出現停電、停水等情況。據日本厚生勞動省介紹，截至當地時間今天上午9點，熊本縣內共有46家醫療機構報告了受災情況，其中40家醫療機構發生停水，15家出現停電，有12家醫療機構在醫用氧氣等醫療氣體供應方面出現困難。（CCTV國際時訊）
-
----
-
-### 2026-07-29 09:47:16  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時縮量25億元。
-
----
-
-### 2026-07-29 09:47:14  #市場 #焦點
-
-創業板指跌1.02%，現報3293.094點；上證指數跌0.45%，現報3796.157點；深證成指跌0.95%，現報13380.688點。
-
----
-
-### 2026-07-29 09:46:59  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-【Mitsubishi UFJ Financial Group: Dollar likely supported if Fed opts for a "slightly hawkish" hold】Mitsubishi UFJ Financial Group senior FX strategist Lloyd Chan said in a research note that if the FOMC delivers a "slightly hawkish" hold, the dollar is likely to be supported. Their baseline assumes a hawkish-tilted hold in which the Fed keeps rates unchanged but underscores elevated inflation risks. That stance could bolster U.S. Treasury yields and the dollar and broadly weigh on Asian currencies. Continued Fed emphasis on keeping rates higher for longer would keep the risk balance tilted toward dollar resilience.
-
----
-
-### 2026-07-29 09:46:57  #其他
-
-中際旭創成交額達100億元，現漲1.20%。
-
----
-
-### 2026-07-29 09:46:48  #MKT News #Important #603986.SS #Impact bearish
-
-GigaDevice Semiconductor hit its daily down limit on China A-shares; turnover CNY 10.712 bln.
-
----
-
-### 2026-07-29 09:46:45  #Trading Economics #Markets #Japan #Currency #Importance 1
-
-Yen Pressured Ahead of Fed Decision — The Japanese yen traded around 163.7 per dollar on Wednesday, hovering near 40-year lows as investors awaited the Federal Reserve’s latest policy decision, where it is expected to leave interest rates unchanged. However, markets continue to price in about a one-third chance of a 25-basis-point rate hike from the Fed, while also assigning roughly an 80% probability to a rate increase in September. On the geopolitical front, the US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East, reigniting regional tensions and pushing oil prices higher. At home, the Bank of Japan is widely expected to keep its policy rate unchanged on Friday while leaving the door open for additional rate hikes to help stem the yen’s decline. Verbal intervention from Japanese authorities has so far provided little support for the currency, while the BOJ has remained vague about its tightening plans.
 
 ---
