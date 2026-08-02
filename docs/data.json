@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-02 18:03:04",
-  "count": 17930,
+  "updated": "2026-08-02 18:07:02",
+  "count": 17929,
   "items": [
+    {
+      "id": "5020850",
+      "time": "2026-08-02 18:05:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "理想汽車7月交付量30468輛，同比-0.9%。"
+    },
     {
       "id": "5020848",
       "time": "2026-08-02 18:00:17",
@@ -166142,22 +166150,6 @@
         "MKT News"
       ],
       "text": "【Ministry of Water Resources and CMA issue red mountain‑flood meteorological warning】The Ministry of Water Resources and the China Meteorological Administration jointly issued a red mountain‑flood meteorological warning at 18:00 on July 25. Forecast for 20:00 July 25–20:00 July 26: parts of southern Jiangxi and central‑eastern Guangdong face a high probability of mountain‑flood disasters (orange warning), with local areas at very high probability (red warning). Other areas may see mountain floods from localized short‑duration heavy rain. Authorities urged real‑time monitoring, flood warnings and evacuation preparedness."
-    },
-    {
-      "id": "5008499",
-      "time": "2026-07-26 18:03:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部和中國氣象局聯合釋出紅色山洪災害氣象預警】水利部和中國氣象局7月26日18時聯合釋出紅色山洪災害氣象預警：預計，7月26日20時至27日20時，江西西部和南部、湖南東南部、廣東中北部、四川中部和北部、陝西西部、甘肅南部和東部、新疆東南部等地部分地區等地部分地區發生山洪災害可能性大（橙色預警），其中，江西南部、廣東中北部局地發生山洪災害可能性很大（紅色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。"
-    },
-    {
-      "id": "5008498",
-      "time": "2026-07-26 18:03:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：凱雷與貝恩資本競購Wealth Enhancement，潛在交易價值達70億美元。"
     }
   ]
 }
