@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-02 07:06:21_
-_本檔包含 3826 則快訊，約 672938 字_
+_更新時間：2026-08-02 08:06:23_
+_本檔包含 3817 則快訊，約 672080 字_
+
+---
+
+### 2026-07-30 10:20:22  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+CENTCOM said more than 50,000 U.S. service members are currently deployed in the Middle East, remain on high alert and are prepared to conduct combat operations.
+
+---
+
+### 2026-07-30 10:19:59  #MKT News
+
+Samsung Electronics said it has received about one-quarter of prepayments for its long-term service agreements.
+
+---
+
+### 2026-07-30 10:19:45  #MKT News #005930.KS #Impact bullish
+
+Samsung Electronics said it expects its contract-manufacturing business to return to profitability in the near term.
+
+---
+
+### 2026-07-30 10:19:20  #公司
+
+三星電子：預計晶圓代工業務短期內將轉虧為盈。
+
+---
+
+### 2026-07-30 10:19:19  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+CENTCOM said it completed large-scale strikes against Iran in retaliation for an attempted missile attack on U.S. forces yesterday. The U.S. military struck dozens of Islamic Revolutionary Guard Corps targets.
+
+---
+
+### 2026-07-30 10:18:37  #國際
+
+美國中央司令部稱打擊了伊朗境內數十個伊斯蘭革命衛隊目標。
+
+---
+
+### 2026-07-30 10:18:10  #公司
+
+三星電子：目前已進入與另外五家大型客戶完成長期供應協議談判的最後階段。
+
+---
+
+### 2026-07-30 10:18:04  #MKT News #Market Regions #Japan & APAC
+
+Japan's Chief Cabinet Secretary Kihara said on the 30th the Kumamoto earthquake has killed 28 people.
+
+---
+
+### 2026-07-30 10:18:03  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10Y Yield Tracks US Treasury Yields Higher — Japan’s 10-year government bond yield climbed to around 2.78% on Thursday, following the rise in US Treasury yields after the Federal Reserve left interest rates unchanged, although three FOMC members dissented in favor of a rate hike. Chair Kevin Warsh also stressed that the decision to keep rates steady should not be viewed as a sign of policy inertia, adding that markets would continue to respond to incoming economic data. Meanwhile, the Bank of Japan is widely expected to leave interest rates unchanged on Friday while keeping the door open to additional rate hikes to contain inflationary pressures and help support the yen. Japanese government bond yields have remained volatile this month amid a worsening fiscal outlook, with Takaichi’s administration recently unveiling a massive spending package that could further add to the country’s debt burden.
+
+---
+
+### 2026-07-30 10:17:49  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #EURUSD #Impact bullish #GBPUSD
+
+【DBS: Dollar may be pressured by Fed–other central bank forward-guidance divergence】DBS senior FX strategist Philip Wee said the dollar could be pressured by divergence in forward guidance after the Fed removed forward guidance and held rates steady. Wee said Fed chair Kevin Warsh’s move has left policy in a “monetary mirror maze,” increasing volatility and leaving markets groping in the dark. By contrast, the ECB’s unified signalling of a September rate hike gives the euro a clear relative advantage. If the Bank of England breaks consensus and unexpectedly hikes later today, the pound would likely strengthen.
+
+---
+
+### 2026-07-30 10:17:18  #MKT News #005930.KS #Impact bullish
+
+Samsung Electronics said it has completed long-term agreement negotiations with the world’s top five data center customers.
+
+---
+
+### 2026-07-30 10:17:13  #公司
+
+三星電子：已完成與全球前五大資料中心客戶的長期供應協議談判。
+
+---
+
+### 2026-07-30 10:17:11  #MKT News #Macro & Rates #The Fed (FOMC)
+
+HKMA said the Fed's decision to keep rates unchanged was in line with market expectations and Hong Kong money and financial markets remain orderly.
+
+---
+
+### 2026-07-30 10:17:03  #市場
+
+【CPO板塊持續走弱，劍橋科技跌停】CPO板塊持續走弱，劍橋科技跌停，新易盛、中際旭創、源傑科技、天孚通訊跌超10%，太辰光、傑普特、聯特科技等跟跌。
+
+---
+
+### 2026-07-30 10:16:48  #其他
+
+【廣州推出首個現房銷售試點】7月29日，廣州市規劃和自然資源局南沙區分局公開掛牌出讓一宗住宅用地的使用權，要求競得者承諾在其中一個地塊執行現房銷售，而地方政府則給予土地出讓金分期繳納的支援。南沙區住房和城鄉建設局相關人士表示，這是廣州首個將“現房銷售承諾制”納入出讓條件的住宅專案，有效解決了“能否按時交房”的信任問題，下一步，該區將有序擴大現房銷售承諾制試點範圍，在更多優質地塊推廣這一模式，加快形成可複製經驗。（中國房地產報）
+
+---
+
+### 2026-07-30 10:16:14  #MKT News #Important #CSI300 #Impact bullish #SSE Composite
+
+China A-share power-grid equipment stocks rallied intraday against the market; Haochuang Ruitong hit the daily limit-up after Guangdian Electric earlier did, while Jinzhi Technology, Kaifa Electric, Haixing Power and Sanxing Electric also advanced.
+
+---
+
+### 2026-07-30 10:16:02  #其他
+
+【港股光通訊股走弱 中際旭創跌近9%】截至發稿，中際旭創(03308.HK)跌8.93%，華虹宏力(01314.HK)跌7.02%，劍橋科技(06166.HK)跌6.77%，長飛光纖光纜(06869.HK)跌4.57%。
+
+---
+
+### 2026-07-30 10:15:16  #Trading Economics #Markets #Currency #Importance 1
+
+Asia FX Updates: South Korean Won Drops by 0.36% — Top currency loser is South Korean Won (-0.36%). Meanwhile, Japanese Yen and Chinese Yuan were little changed.
+
+---
+
+### 2026-07-30 10:14:54  #公司
+
+【羅永浩錘子軟體上海分公司登出，剛成立不到1年】企查查APP顯示，近日，錘子軟體（北京）有限公司上海分公司發生工商變更，經營狀態從“存續”變更為“登出”。該公司成立於2025年12月，法定代表人管志良，經營範圍包含軟體開發、技術服務、人工智慧應用軟體開發、數字文化創意內容應用服務等。總公司錘子軟體（北京）有限公司成立於2014年5月，註冊資本1000萬元，由錘子科技（成都）股份有限公司全資持股，股權穿透顯示，羅永浩為實際控制人。今年5月，羅永浩在錘子軟體（北京）有限公司的職務由執行董事調整為董事，內部知情人士稱，此次職務調整為企業常規工商變更，屬於公司既定人事安排，無特殊變動原因。
+
+---
+
+### 2026-07-30 10:14:37  #公司
+
+三星電子：正在評估收購海外機器人初創企業。
+
+---
+
+### 2026-07-30 10:14:28  #市場
+
+富時中國A50指數期貨跌超1%。
+
+---
+
+### 2026-07-30 10:13:48  #Trading Economics #Markets #Japan #Currency #Importance 1
+
+Yen Strengthens on Broad Dollar Weakness — The Japanese yen traded around 163.5 per dollar on Thursday after rebounding in the previous session, supported by broad dollar weakness following the Federal Reserve’s decision to leave interest rates unchanged. However, three FOMC members dissented in favor of a rate hike, while Chair Kevin Warsh emphasized that the decision to keep rates steady should not be viewed as a sign of policy inertia, adding that markets would continue to respond to incoming economic data. Meanwhile, the Bank of Japan is widely expected to leave interest rates unchanged on Friday while signaling that additional rate hikes remain possible to help curb the yen’s weakness. Verbal intervention from Japanese authorities has so far done little to support the currency, while the BOJ has remained vague about the timing of further policy tightening. On the geopolitical front, the US was reportedly carrying out fresh air strikes on Iran following attacks on American forces in the region.
 
 ---
 
@@ -22871,194 +23003,5 @@ SK Hynix (SKHY.O): ADR conversion may take several weeks.
 ### 2026-07-29 09:04:19  #公司
 
 【美盈森：近期原紙價格有一些波動 對公司業績會有一定影響】美盈森7月28日在機構調研時表示，近期原紙價格有一些波動，對公司業績會有一定影響。在原材料價格有波動的情況下，公司會考慮與下游客戶協商調整產品價格，也會在新的報價中考慮材料成本波動的因素，以儘量減少對公司業績的影響。
-
----
-
-### 2026-07-29 09:03:33  #MKT News #000660.KS
-
-SK Hynix says conversion of its South Korea-listed shares into ADRs could be restricted.
-
----
-
-### 2026-07-29 09:03:17  #公司 #市場 #央行 #國際
-
-【金融危機預警者Whitney預計美聯儲按兵不動 美國經濟第四季面臨考驗】 曾因在2007年全球金融危機前夕率先發出警告而聲名鵲起的前銀行分析師Meredith Whitney表示，隨著世界盃帶來的一次性經濟提振效應以及財政支出餘溫逐漸消退，美國經濟將在第四季度迎來一場“清算時刻”。
-Whitney週二接受媒體採訪時表示，每週信用卡餘額這一反映消費者支出而非迴圈債務的實時指標，目前增速已較5月放緩。與此同時，美國消費者也正在消化汽油價格上漲帶來的壓力。Meredith Whitney Advisory Group創始人兼執行長Whitney表示，上述因素將為美聯儲週三維持利率不變提供理由。她駁斥了Citadel Securities等機構提出的觀點，即意外加息將有助於提高美聯儲主席凱文·沃什的公信力。Whitney認為，沃什設立五個政策工作組的做法，實際上為其爭取了數個月時間，無需急於作出政策轉向決定。“我認為他們會維持利率不變，同時繼續使用偏強硬、偏鷹派的措辭，為未來行動保留迴旋空間，”她表示。談及沃什時，Whitney稱：“他的傾向是等待，並確保自己真的做出了正確判斷。”
-
----
-
-### 2026-07-29 09:02:58  #其他
-
-SK海力士：將積極應對人工智慧儲存領域不斷變化的需求。
-
----
-
-### 2026-07-29 09:02:35  #市場 #國際
-
-40年期日本國債收益率上漲1.5個基點，至4.045%。
-
----
-
-### 2026-07-29 09:02:24  #市場 #國際
-
-日本日經股價指數回吐早盤漲幅，最新基本持平。
-
----
-
-### 2026-07-29 09:02:00  #央行 #國際
-
-韓國央行：有必要維持緊縮政策立場；將繼續努力穩定市場；預計下半年通脹將超過目標；有必要對房價和家庭債務相關風險保持更謹慎態度。
-
----
-
-### 2026-07-29 09:01:45  #MKT News #Macro & Rates #CNH #Impact bullish #CSI300 #DXY #Impact bearish
-
-【China 1H total social logistics 181.1 trillion yuan】China Federation of Logistics and Purchasing reported on the 29th that 1H total social logistics reached 181.1 trillion yuan, up 5.1% YoY — 0.4 percentage point above GDP growth. Quarterly growth was 6.2% in Q1 and 4.4% in Q2. The federation said logistics demand continued to expand and support economic growth.
-
----
-
-### 2026-07-29 09:01:33  #MKT News #Market Regions #Japan & APAC #Nikkei 225
-
-Japan's Nikkei 225 gave back early gains and was trading flat.
-
----
-
-### 2026-07-29 09:01:21  #其他
-
-SK海力士：將加強其在NAND領域的產品陣容。
-
----
-
-### 2026-07-29 09:01:16  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange Gold T+D fell 0.62% in early trade on July 29 to 877.0 yuan/gram; Silver T+D slipped 0.46% to 13,945.0 yuan/kg.
-
----
-
-### 2026-07-29 09:01:13  #MKT News #Market Regions #Greater China
-
-Taiwan Weighted Index opened down 41.97 points (-0.1%) at 41,561.39 on July 29 (Wednesday).
-
----
-
-### 2026-07-29 09:01:13  #MKT News #Important
-
-【MOFCOM spokesperson responds to US DoD adding some Chinese research institutes to sanctions list】MOFCOM spokesperson said the US is broadening its national security concept and erecting discriminatory barriers, politicizing and weaponizing research cooperation, and thereby obstructing Sino-US scientific exchanges — a move contrary to global technology collaboration. China urges the US to stop smearing Chinese research institutions, correct its approach, and provide fair, impartial, non‑discriminatory treatment. China will take necessary measures to safeguard the legitimate rights of its research institutions and to protect normal scientific exchanges and cooperation.
-
----
-
-### 2026-07-29 09:01:11  #其他
-
-臺灣證交所加權股價指數開低0.3%報41,491.48。
-
----
-
-### 2026-07-29 09:00:37  #國際
-
-【商務部新聞發言人就美國防部將部分中國科研機構列入制裁清單事答記者問】有記者問：美東時間7月23日，美國防部更新公佈“從事問題活動的外國科研機構清單”（1286清單），對中方部分科研機構實施列單制裁。請問商務部對此有何評論？答：我們注意到這一情況。中方對此強烈不滿、堅決反對。美方不斷泛化國家安全概念，人為設定歧視性壁壘，將科研合作政治化、武器化、工具化，阻礙中美科研領域交流合作，這與全球科技創新合作大勢背道而馳。中方敦促美方停止對中國科研機構無端抹黑，儘快糾正錯誤做法，為中國科研機構提供公平、公正、非歧視待遇。中方將採取必要措施，維護中方科研機構的正當合法權益，為正常科技交流合作保駕護航。
-
----
-
-### 2026-07-29 09:00:29
-
-國內期貨主力合約跌多漲少，20號膠跌超2％，橡膠跌近2％，滬銀、合成橡膠、滬鎳、純鹼、燒鹼跌超1％，白糖跌近1％。漲幅方面，集運歐線漲超4％，苯乙烯（EB）、低硫燃料油（LU）、乙二醇（EG）漲超1％，滬鋁、鑄造鋁漲近1％。
-
----
-
-### 2026-07-29 09:00:29  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy
-
-At the morning open, China’s commodity front-month futures were mostly lower. 20# rubber fell more than 2% and rubber nearly 2%; Shanghai silver, synthetic rubber, Shanghai nickel, soda ash and caustic soda declined over 1%; white sugar slipped about 1%. Advancers included container shipping to Europe, up over 4%; styrene (EB), low-sulfur fuel oil (LU) and ethylene glycol (EG) each rose more than 1%; Shanghai aluminum and foundry aluminum gained about 1%.
-
----
-
-### 2026-07-29 09:00:29  #MKT News
-
-Bank of Korea says it will continue market-stabilization operations.
-
----
-
-### 2026-07-29 09:00:26  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內漲5%，現報1736.00點。
-
----
-
-### 2026-07-29 09:00:25  #MKT News #Important #DXY #Impact bullish #USDJPY #XAUUSD #Impact bearish
-
-BANK OF KOREA says inf will exceed the target in H2 and it is necessary to maintain a tight policy stance.
-
----
-
-### 2026-07-29 09:00:21  #其他
-
-【上半年全國社會物流總額超180萬億元】中國物流與採購聯合會今天（29日）公佈今年上半年物流執行資料。上半年，物流需求規模持續擴大，結構最佳化與動能轉換特徵突出。今年上半年，全國社會物流總額181.1萬億元，同比增長5.1%，高於同期GDP增速0.4個百分點，物流需求對國民經濟增長的支撐引領作用持續增強。分季度看，一、二季度分別增長6.2%、4.4%，總體呈現穩中有增的發展態勢。
-
----
-
-### 2026-07-29 09:00:15  #MKT News
-
-Bank of Korea: must be more cautious in addressing risks tied to house prices and household debt.
-
----
-
-### 2026-07-29 09:00:06  #市場 #焦點
-
-純鹼連續主力合約日內跌1%，現報969.00元。
-
----
-
-### 2026-07-29 09:00:04  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內漲4%，現報1720.00點。
-
----
-
-### 2026-07-29 09:00:03  #市場
-
-【商品期貨開盤】集運指數歐線期貨連續漲4.24%，20號膠連續跌2.32%，天然橡膠連續跌1.91%，白銀連續跌1.48%，低硫燃料油連續漲1.36%。
-
----
-
-### 2026-07-29 09:00:02  #市場
-
-富時中國A50指數期貨開盤上漲0.27%。
-
----
-
-### 2026-07-29 08:59:33  #市場 #觀點 #國際
-
-【中金財富期貨：油價大幅回升，黃金回落】美軍中央司令部表示，伊朗伊斯蘭革命衛隊從伊朗境內發射多枚彈道導彈，試圖對駐中東地區的美軍發動突然襲擊；葉門胡塞武裝28日發表宣告稱，該組織當天對一艘沙特籍油輪實施軍事打擊，理由是該船違反其針對沙特實施的海上航行禁令，並無視其發出的警告。受此影響，油價大幅回升，黃金回落。目前美伊衝突進入到更加激烈的第二階段，且考慮到原油的庫存消耗過度的問題，目前需要考慮小機率事件，即油價失控的風險。對於黃金，短期偏震盪思路，密切關注地緣政治走向。
-
----
-
-### 2026-07-29 08:59:27  #其他
-
-【東風日產與萬達廣場簽署戰略合作，將落地商超慢閃店】7月28日，東風日產與萬達廣場簽署戰略合作框架協議。根據新的合作規劃，萬達廣場將向東風日產開放線上線下全域營銷渠道，東風日產將在全國重點城市的萬達廣場落地長週期商超慢閃店。
-
----
-
-### 2026-07-29 08:58:21  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Steadies Ahead of Fed Policy Decision — The dollar index held steady around 101.3 on Wednesday after a volatile start to the week, as investors awaited the Federal Reserve’s upcoming policy decision, where it is expected to leave interest rates unchanged. However, markets continue to price in about a one-third chance of a 25-basis-point rate hike, reflecting an unusually high level of uncertainty this close to a decision compared with recent years. Traders also see roughly an 80% probability of a rate increase in September, reinforcing expectations that borrowing costs could stay elevated. Meanwhile, investors also monitored rebounding oil prices and renewed inflation concerns after fresh hostilities flared in the Middle East. The US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East, reigniting regional tensions.
-
----
-
-### 2026-07-29 08:58:01  #國際
-
-特朗普：我和內塔尼亞胡的會晤非常愉快。
-
----
-
-### 2026-07-29 08:58:00  #MKT News
-
-U.S. President Trump said he, Israeli Prime Minister Netanyahu and other delegates held a productive meeting and discussed a range of important issues.
-
----
-
-### 2026-07-29 08:57:37  #市場
-
-【五糧液普五八代領跌 白酒大單品總價創近五天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售總價7月29日再度小幅回撥。如果主要單品各取一瓶整體打包售賣，今日總售價為9886元，較昨日下跌12元，在昨日小幅反彈後再度轉弱，創五天以來最低，但比7月18日創下的階段低點仍高出81元。縱觀全場，過去一天酒市終端交投情緒環比降溫，空方再佔上風，低位修復節奏再受擾動。
-
-今日11大白酒單品三漲六跌兩平，輸家佔據明顯優勢。上漲方面，飛天茅臺、精品茅臺與青花郎均上漲2元/瓶。其中，飛天茅臺的全國零售均價終結此前連續七日小幅回撥，自7.18提價後高位區間止跌回升；精品茅臺昨日回落後今日小幅反彈；青花郎連續兩日走升，續創近一個月最高紀錄。下跌方面，五糧液普五八代跌幅居前，下跌7元/瓶，近期低位寬幅震盪格局延續；青花汾20與古井貢古20均下跌3元/瓶，其中前者平近一個月最低價紀錄，後者近期價格漲跌反覆，短線反彈屢受壓制；五糧液1618與習酒君品均下跌2元/瓶，其中前者連續兩日走低，後者結束昨日反彈，仍處於近一個月高位區間；國窖1573小跌1元/瓶，近一個月價格中樞明顯下移。洋河夢之藍M6+與水晶劍南春價格環比昨日保持不變，其中前者連續兩日維持在600元/瓶，後者連續兩日維持在402元/瓶。
 
 ---

@@ -1,7 +1,280 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-02 07:06:21_
-_本檔包含 3343 則快訊，約 673013 字_
+_更新時間：2026-08-02 08:06:23_
+_本檔包含 3354 則快訊，約 671422 字_
+
+---
+
+### 2026-07-28 01:54:50  #MKT News
+
+Israeli media report the U.S. embassy in Israel has restricted staff travel to the West Bank due to heightened security tensions; restrictions remain in place through July 29.
+
+---
+
+### 2026-07-28 01:52:54  #公司 #國際
+
+【芬蘭工商界人士：美國不履行義務還強徵關稅很荒謬】芬蘭工業聯合會國際貿易和貿易政策主任蒂莫·沃裡27日表示，美國自身尚未完全履行國際勞工組織框架下的義務，卻以“強迫勞動”為名對其他經濟體加徵關稅，凸顯美方雙重標準。沃裡當天接受芬蘭國家廣播公司採訪時說，特朗普政府為單方面加徵關稅遍尋“法律依據”，最終從一項上世紀70年代的法律中搬出“強迫勞動”這一理由，這一做法十分荒謬。美國貿易代表辦公室23日釋出公告，宣佈依據《1974年貿易法》第301條，以所謂“強迫勞動”為由，對來自60個國家和地區的進口商品徵收10%至12.5%的關稅，以替代24日到期的全球進口關稅。新關稅已於美國東部時間24日生效。（新華社）
+
+---
+
+### 2026-07-28 01:51:51  #其他
+
+據阿拉比亞電視臺：伊拉克總理下令調查使用伊拉克領土發動無人機襲擊沙特的事件。伊拉克方面表示，不會允許任何試圖影響伊沙關係或損害兩國關係的行動。
+
+---
+
+### 2026-07-28 01:51:09  #國際
+
+【歐盟MARS機構：熱浪導致歐盟玉米、小麥產量預期下調】歐盟農業資源監測中心（MARS）表示，熱浪和乾旱天氣已導致西歐和中歐大部分地區的農作物產量前景惡化。高溫縮短了穀物灌漿期，導致冬季作物提前成熟；而夏季作物在關鍵生長期則遭遇了高溫和土壤水分不足的困擾。歐盟玉米產量預期較上次預測下調6%，目前低於五年平均水平2%。作為歐盟最大的玉米生產國，法國的玉米產量預期被下調13%，目前低於五年平均水平15%。歐盟小麥產量預期下調2%。法國小麥產量預期下調4%，目前比去年低8%。歐盟向日葵產量預期下調7%，但仍比去年高出4%。歐盟油菜籽產量預期下調1%。預計西歐將出現更多炎熱乾燥的天氣，這增加了農作物進一步減產的風險。
+
+---
+
+### 2026-07-28 01:50:57  #MKT News
+
+Iraq said it will not allow any actions aimed at affecting Iraq–Saudi relations or harming ties between the two countries, Al Arabiya reported.
+
+---
+
+### 2026-07-28 01:50:47  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+According to Al Arabiya TV, Iraq's prime minister has ordered an investigation into reports that Iraqi territory was used to launch drone strikes on Saudi Arabia.
+
+---
+
+### 2026-07-28 01:45:15  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
+
+【FT: NVIDIA to back OpenAI co-founder’s AI project with $5bln investment】Financial Times reports NVIDIA has agreed to invest about $5bln in Safe Superintelligence, an AI startup led by OpenAI co‑founder Ilya Sutskever, and will provide its latest Vera Rubin hardware as part of a "long-term partnership." The companies announced the deal on Monday; people familiar said the $5bln commitment is typically milestone-dependent. Both parties declined to disclose financial terms, calling the investment "substantial." Safe Superintelligence said the funding will help it build the compute to exploit a research breakthrough it claims and increase available compute tenfold within 12 months.
+
+---
+
+### 2026-07-28 01:42:16  #其他
+
+Microsoft AI：推出MAI-Cyber-1-Flash，這是我們自主研發的新型網路安全模型。
+
+---
+
+### 2026-07-28 01:41:59  #MKT News
+
+Pakistan's Foreign Ministry condemned drone attacks targeting Saudi Arabia.
+
+---
+
+### 2026-07-28 01:41:55  #國際
+
+巴基斯坦外交部：巴基斯坦譴責針對沙烏地阿拉伯的無人機襲擊。
+
+---
+
+### 2026-07-28 01:41:47  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
+
+Microsoft AI launched MAI-Cyber-1-Flash, a new self-developed cybersecurity model.
+
+---
+
+### 2026-07-28 01:40:23  #其他
+
+【國產手術機器人出口額大增330% “新新三樣”圈粉全球】近日舉辦的“在高質量發展中保障和改善民生”形勢政策系列報告會上，科技部黨組書記、部長陰和俊表示，被稱為“新新三樣”的人工智慧、機器人、創新藥正迅猛發展，有望形成新的支柱產業。某平臺資料顯示，7月13日至19日，中國大模型周呼叫量達36.11萬億詞元，環比增長30.93%，連續八週實現增長，連續十二週穩居全球首位。今年上半年，我國機器人出口額達62.9億元，產品銷往全球141個國家和地區，手術機器人出口額更是增長了3.3倍；上半年，我國創新藥對外授權交易額約1100億美元，全球醫藥交易前十榜單中國藥企佔據8席。（央視新聞）
+
+---
+
+### 2026-07-28 01:40:06  #MKT News
+
+U.S. Representative Nancy Mace renewed calls for a one-year moratorium on new data center construction in South Carolina.
+
+---
+
+### 2026-07-28 01:38:36  #其他
+
+惠譽評級：人工智慧市場的修正正成為主要信用風險。
+
+---
+
+### 2026-07-28 01:37:17  #MKT News #Nasdaq100 #Impact bearish #S&P500 #DXY #Impact bullish
+
+Fitch Ratings: a correction in the AI market is becoming a major credit risk.
+
+---
+
+### 2026-07-28 01:36:37  #國際
+
+美國聯邦通訊委員會（FCC）： SpaceX 星鏈路由器豁免有效期至 2028 年 1 月。
+
+---
+
+### 2026-07-28 01:35:07  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【U.S. SPR crude stocks down ~3.7 mln barrels to lowest since March 1983】Refinitiv, citing DOE data, reports U.S. Strategic Petroleum Reserve (SPR) crude inventories fell about 3.7 mln barrels last week to 307.7 mln barrels, the lowest level since March 1983. The drawdown is part of an agreement to release 172 mln barrels from the reserve.
+
+---
+
+### 2026-07-28 01:34:27  #國際
+
+美國聯邦通訊委員會（FCC）將SpaceX星鏈路由器移出管制清單，予以豁免。
+
+---
+
+### 2026-07-28 01:31:26  #國際
+
+俄羅斯國防部：俄軍防空系統單日在俄羅斯多個地區、黑海及亞速海上空擊落 182 架烏克蘭無人機。
+
+---
+
+### 2026-07-28 01:31:04  #MKT News
+
+Russian Defence Ministry: Russian air-defence systems shot down 182 Ukrainian drones in a single day, with targets across several Russian regions and over the Black Sea and the Sea of Azov.
+
+---
+
+### 2026-07-28 01:28:07  #MKT News
+
+【Iran ambassador to Russia says Ukraine attack on Iranian ship a criminal act】Iran's ambassador to Russia Jalali said on July 27 that Ukraine's July 25 strike on an Iranian merchant vessel in the Caspian Sea was a criminal act, and that the ship was purely civilian with no military cargo. Tehran strongly condemned the attack and summoned Ukraine's chargé d'affaires in Iran.
+
+---
+
+### 2026-07-28 01:28:06  #MKT News #UAL.N #Impact bearish
+
+The U.S. Federal Aviation Administration implemented ground delay measures at Newark Liberty Airport due to staffing issues.
+
+---
+
+### 2026-07-28 01:27:24  #其他
+
+飛利浦二季度銷售43.6億歐元，分析師預期43.1億歐元。
+二季度可比銷售增長4.1%，分析師預期增長3.96%。
+二季度調整後EBITDA為7.17億歐元，分析師預期5.174億歐元。
+二季度調整後EBITDA利潤率為16.4%，分析師預期11.9%。
+
+---
+
+### 2026-07-28 01:22:54  #國際
+
+【伊朗駐俄大使：烏克蘭襲擊伊朗船隻是犯罪行為】7月27日，伊朗駐俄羅斯大使賈拉利表示，烏克蘭對伊朗船隻的襲擊是犯罪行為，並強調這艘船完全是民用船隻，未載有任何軍用貨物。烏克蘭軍方25日在裡海襲擊一艘伊朗商船，伊方對此強烈譴責並召見烏克蘭駐伊朗臨時代辦。（央視）
+
+---
+
+### 2026-07-28 01:21:50  #MKT News
+
+UAE Foreign Ministry said the UAE strongly condemns the aggressive attack against Jordan.
+
+---
+
+### 2026-07-28 01:19:40  #國際
+
+美國聯邦航空管理局：紐瓦克機場因人員短缺出現航班延誤。
+
+---
+
+### 2026-07-28 01:19:28  #國際
+
+馬克龍視察法國野火受災地區。
+
+---
+
+### 2026-07-28 01:19:23  #MKT News
+
+French President MACRON visits wildfire-affected area.
+
+---
+
+### 2026-07-28 01:19:17  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Fed accepted $1.38 billion from three counterparties in a fixed-rate reverse repurchase operation.
+
+---
+
+### 2026-07-28 01:19:16  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Bahrain's state news agency condemned an attempted terrorist drone attack launched from Iraqi territory targeting oil facilities in Saudi Arabia.
+
+---
+
+### 2026-07-28 01:18:58  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. Strategic Petroleum Reserve crude stocks fell about 3.7 mln barrels last week to 307.7 mln barrels, the lowest level since 1983.
+
+---
+
+### 2026-07-28 01:17:22  #央行 #美聯儲
+
+週一（7月27日），美聯儲隔夜逆回購協議（RRP）使用規模為13.80億美元。
+
+---
+
+### 2026-07-28 01:17:11  #央行 #國際
+
+週一（7月27日），美聯儲隔夜逆回購協議（RRP）使用規模為13.80億美元（交易對手3家），上個交易日報6.75億美元。
+
+---
+
+### 2026-07-28 01:16:12  #焦點 #國際
+
+美國戰略石油儲備原油庫存上週減少約 370 萬桶，降至 3.077 億桶，創 1983 年以來新低。
+
+---
+
+### 2026-07-28 01:14:56  #市場 #觀點 #央行 #國際
+
+【大摩：美聯儲決議前夕，投資者增持美元多頭頭寸】摩根士丹利策略師援引資料稱，在本週美聯儲與英國央行議息會議前夕，投資者已增持美元多頭及英鎊空頭頭寸。策略師Molly Nickolin、David Adams、Andrew Watrous在報告中寫道：“期權定價資料顯示，投資者增加了美元指數的多頭頭寸，並增加了英鎊的空頭頭寸。”他們表示：“期權資料指向美元多頭倉位，而期貨市場資料也表明美元倉位偏多。資產管理機構主要做多歐元、做空英鎊，而槓桿基金則主要做多英鎊、做空紐西蘭元。”
+
+---
+
+### 2026-07-28 01:14:53  #市場 #國際
+
+美國農業部批准進口墨西哥牛隻，芝商所遠期飼牛期貨觸及單日跌停。
+
+---
+
+### 2026-07-28 01:13:56  #MKT News
+
+SOUTH KOREA'S LEE says a potential trade agreement with Mercosur cannot wait and is urgent.
+
+---
+
+### 2026-07-28 01:12:35  #國際
+
+韓國總統李在明：韓國與南方共同市場的潛在貿易協定刻不容緩，此事迫在眉睫。
+
+---
+
+### 2026-07-28 01:11:27  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+Iranian outlet Fars News, citing sources, reported that Israel shelled the Ali Tahir Heights in southern Lebanon.
+
+---
+
+### 2026-07-28 01:09:09  #MKT News
+
+US Treasury said it removed 84 individuals and entities from its sanctions list as part of sanctions program modernization.
+
+---
+
+### 2026-07-28 01:09:04  #MKT News #Copper
+
+SOUTH KOREA'S LEE says he and LULA agreed to expand cooperation on critical minerals.
+
+---
+
+### 2026-07-28 01:08:56  #MKT News #Commodities #Energy #EURUSD #Impact bullish #DXY #Impact bearish
+
+Italy's Prime Minister Meloni has signed a decree to immediately cut diesel prices after international developments pushed up fuel costs.
+
+---
+
+### 2026-07-28 01:08:47  #宏觀 #國際
+
+美國財政部：作為制裁體系現代化改革舉措的一部分，已有 84 名個人及實體從制裁清單中移除。
+
+---
+
+### 2026-07-28 01:08:29  #國際
+
+韓國總統李在明：已與巴西總統盧拉達成共識，擴大關鍵礦產領域合作。
+
+---
+
+### 2026-07-28 01:07:49  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.49% Higher — The FTSE MIB Index went up by 253 points or 0.49 percent on Monday to close at 52055 points. The rise was led by Ferrari NV (4.29%), Lottomatica (3.16%) and Buzzi Unicem (2.80%). On the downside, the weakerst performers were Prysmian (-3.78%), Tenaris (-2.82%) and Eni (-2.44%).
 
 ---
 
@@ -19942,229 +20215,5 @@ Foreign Minister Anand reiterated Canada's commitment to deepen ties with the UA
 ### 2026-07-26 08:07:22  #MKT News
 
 Foreign Minister Anand said Canada and the UAE have completed negotiations on a comprehensive economic partnership agreement in 47 days — the fastest trade negotiation in Canadian history — and that the pact would help lower trade barriers.
-
----
-
-### 2026-07-26 08:06:14  #其他
-
-國家海洋預報臺7月26日08時釋出風暴潮藍色警報：受今年第12號颱風“紅霞”（颱風級）的影響，預計：7月26日白天，廣東汕尾到珠海沿海將出現50到100釐米的風暴增水。預計26日下午視情況解除本次風暴潮警報。
-
----
-
-### 2026-07-26 08:05:30  #其他
-
-【世界盃帶動旅遊熱度不減：奪冠後西班牙機票搜尋量激增33倍，南美遊諮詢熱度翻倍增長】39天的世界盃賽事已經畫上句號，但由綠茵場點燃的旅行消費熱潮開始迎來高峰。近日，多家旅遊平臺和旅行社披露的資料顯示，世界盃參賽國家的相關旅遊諮詢量和搜尋量猛增。西班牙奪冠世界盃後：機票搜尋量激增33倍，中秋國慶多批跟團遊已成團西班牙奪冠的訊息一出，中國旅行者的反應幾乎是即時性的。去哪兒旅行指數顯示，截至7月20日9:00，即奪冠後數小時內，巴塞羅那機票搜尋量較前一小時增長1.6倍。其中，深圳-巴塞羅那航線搜尋量環比暴增33倍。昆明、青島、貴陽飛巴塞羅那的搜尋熱度同樣迅速攀升，昆明-巴塞羅那搜尋量同比上週增長10倍。（澎湃）
-
----
-
-### 2026-07-26 08:02:26  #國際
-
-【訊息人士：霍爾木茲海峽相關外交談判取得進展】兩名地區訊息人士透露，阿曼與伊朗圍繞重開霍爾木茲海峽及雙方該區域內各自領海水道的談判取得進展。兩名訊息人士表示，談判局勢整體向好，但相關外交磋商仍需更多時間方能達成協議。 阿曼官員於週五前往德黑蘭展開談判，此次外交斡旋恰逢特朗普總統下令美軍暫停轟炸行動，此前美軍已連續13晚實施空襲。地區訊息人士稱，美方刻意暫停空襲，意在避免破壞這場脆弱的線下談判。白宮與美國中央司令部均未回應置評請求。
-
----
-
-### 2026-07-26 08:01:57  #其他
-
-【國家海洋預報臺根據《海洋災害應急預案》釋出海浪黃色警報】國家海洋預報臺根據《海洋災害應急預案》釋出海浪黃色警報。受今年第12號颱風“紅霞”（颱風級）的影響，預計：7月26日上午到下午，南海北部將出現3.5到5.5米的大浪到巨浪區；廣東東部近岸海域將出現3到4.4米的大浪到巨浪，近岸海域海浪預警級別為黃色。預計26日傍晚視情況解除此次海浪警報。請在上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。
-
----
-
-### 2026-07-26 08:01:08  #公司
-
-加斯科管道公司釋出全新非計劃臨時管控通知，針對管道干擾異常工況。
-
----
-
-### 2026-07-26 08:00:38  #公司
-
-現代重工集團三河重工獲得塔科馬港四臺港口起重機訂單，推進MASGA專案。
-
----
-
-### 2026-07-26 07:57:39  #MKT News #Market Regions #Greater China
-
-【Ministry of Water Resources mobilizes flood defence for Typhoon Hongxia】China's Ministry of Water Resources said Typhoon Hongxia will drive significant river rises across major basins from July 25-30, including the Pearl, Yangtze, Huai, Yellow and Hai. The Dongjiang in the Pearl River basin may produce a flood that triggers the official numbering system. Prior heavy rainfall has saturated soils in the storm's path, raising mountain-flood risk and increasing the frequency of floods in small- and medium-sized rivers. Combined wind, rain and tides could push some tide gauges in eastern Guangdong and southern Fujian above warning levels. The ministry ordered immediate frontline warnings, measures to secure major rivers and lakes, strengthened reservoir-operation monitoring and early warning, intensified levee patrols, and stepped-up defenses against mountain floods and urban waterlogging ahead of the storm.
-
----
-
-### 2026-07-26 07:56:03  #其他
-
-【水利部專題部署颱風“紅霞”暴雨洪水防禦工作】記者從水利部瞭解到，受颱風“紅霞”影響，預計7月25日至30日，珠江、長江、淮河、黃河、海河等流域部分主要河流將出現明顯漲水過程，珠江流域東江可能發生編號洪水；颱風影響範圍內前期降雨多、土壤飽和，山洪災害風險高，中小河流洪水多發；受風、雨、潮共同影響，粵東閩南沿海部分潮位站將超警。水利部要求要提前釋出預警直達基層防禦一線，確保大江大河大湖防洪安全，嚴防山洪災害風險，強化水庫執行監測預警和堤防巡查防守，嚴防城市內澇風險，全力做好暴雨洪水防禦。（央視新聞）
-
----
-
-### 2026-07-26 07:55:29  #國際
-
-【AI造不了真相！日本右翼批次炮製虛假侵華歷史影片遭批】國家安全部發布評論文章，近期，日本《朝日新聞》報道，日本右翼勢力透過眾包平臺付費招募、大規模利用人工智慧（AI）批次炮製“南京大屠殺是謊言”“日本善待平民”等篡改侵華歷史的虛假資訊，公然踐踏歷史公理與人類良知，引發了國際社會以及日本國內有識之士的強烈批評。（央視新聞）
-
----
-
-### 2026-07-26 07:55:10  #其他
-
-【廣州地鐵有線路停運】受颱風紅霞影響，為保障乘客出行安全，7月26日運營時間起，廣州地鐵線網部分割槽段將停止運營服務，具體安排如下： 一、四號線石碁至南沙客運港各站停止對外服務。 二、十四號線太和至東風各站停止對外服務。 三、二十一號線長平至增城廣場各站停止對外服務。 以上線路各站運營服務恢復時間將另行通知。
-
----
-
-### 2026-07-26 07:54:40  #其他
-
-【加速“綠色出海” 我國乘用車首次實現碳足跡全覆蓋】記者昨天（25日）從中國汽車技術研究中心獲悉，我國乘用車首次實現碳足跡全覆蓋。中國汽車產業鏈碳公示平臺最新資料顯示，截至2026年7月，這一平臺已收集全國92家乘用車企業12100餘款車型碳足跡資料，全面覆蓋國內全系乘用車型與主流進口車型。專家表示，這標誌著我國汽車產業碳資料管理體系邁向規模化、體系化新階段。（央視新聞）
-
----
-
-### 2026-07-26 07:48:30  #宏觀 #國際
-
-【巴西拒籤美官員 認定美方意圖干涉本國大選】巴西拒籤兩名美國國務院高階官員簽證。特朗普政府原計劃派遣二人於10月4日總統大選前赴巴西，核查巴西選舉體系的公正性與可信度。 巴西外交部證實，已駁回上述人員簽證申請。兩名不願具名的巴西官員透露，巴西政府認定此次訪問屬於干預本國選舉。 據報道，美方此行意在對巴西投票制度提出質疑。本月美國以巴西存在不公平貿易行為為由，對多款巴西商品加徵25%關稅，特朗普與盧拉之間的矛盾再度激化。盧拉政府否認美方指控，並指責美國妄圖干涉巴西內政。
-
----
-
-### 2026-07-26 07:48:20  #其他
-
-【今天北京仍有分散性雷陣雨或陣雨 未來三天體感較熱】今天（7月26日），北京多雲間陰，仍有分散性雷陣雨或陣雨，需注意防範強對流天氣。此外，未來三天北京最高氣溫可達32℃至33℃，體感較熱，需注意防暑。
-
----
-
-### 2026-07-26 07:44:13  #公司 #國際
-
-【伊拉克將與敘利亞簽署石油管道建設協議】官方宣告顯示，伊拉克將和敘利亞簽署管道建設協議，修建管線連線國內油田產區，經地中海向全球市場出口原油。 伊拉克內閣釋出宣告稱，內閣已授權巴士拉石油公司總經理，與敘利亞石油部簽署該專案建設諒解備忘錄。 內閣同時指示石油部長，與由康菲石油、TI資本、諾瓦泰拉組成的企業聯盟簽署備忘錄，啟動阿卡斯油氣田及周邊區域勘探開發評估相關磋商。
-
----
-
-### 2026-07-26 07:41:58  #其他
-
-【上半年廣州海關關區企業出口體育用品及裝置同比增長約15.8%】據廣州海關統計，今年上半年，廣州海關關區企業出口體育用品及裝置約28.5億元人民幣（下同），同比增長約15.8%。
-
----
-
-### 2026-07-26 07:41:15  #其他
-
-【孫志洋會見緬甸駐華大使佐溫敏 拓展合作領域打造標杆專案 讓合作紅利更好惠及兩地人民】7月25日上午，廣州市市長孫志洋在市政府會見緬甸駐華大使佐溫敏一行。 孫志洋對佐溫敏一行的到訪表示歡迎。他指出，在兩國領導人的戰略引領下，廣州與緬甸一直保持密切友好交往，經貿往來日益緊密，文旅、時尚消費品等領域合作不斷拓展，成績斐然。今年是“十五五”規劃開局之年，廣州正錨定率先基本實現社會主義現代化目標，持續深化高水平改革開放，工商並舉建設現代化產業體系，加快推動時尚消費品產業品牌化、高階化、國際化發展，全力打造“一城二都三中心”城市名片。緬甸是東盟重要成員國，穗緬深化互利合作空間廣闊、前景可期。希望雙方以高質量共建“一帶一路”為契機，圍繞珠寶產業、工業製造、醫療衛生、貿易往來、人文交流等重點領域拓展合作，謀劃打造一批具有示範效應的產業標杆專案，不斷鞏固兩地民心相通基礎，讓合作紅利更好惠及兩地人民。（廣州日報）
-
----
-
-### 2026-07-26 07:40:15  #其他
-
-【我駐巴新大使：堅持一箇中國原則是人心所向 大勢所趨】7月15日，巴布亞紐幾內亞政府宣佈關閉“駐巴新臺北經濟辦事處”。我駐巴新大使楊曉光在接受總檯記者專訪時表示，高度讚賞巴新政府這一決定，這再次表明堅持一箇中國原則是國際社會人心所向、大勢所趨。（央視新聞）
-
----
-
-### 2026-07-26 07:39:43  #其他
-
-【12分鐘下線一臺工業機器人 成都打造人工智慧產業高地】昨天，國家發展改革委和國家資料局在四川成都舉辦APEC數字週資料領域系列活動。各經濟體代表首次在APEC框架下將“資料促進增長”作為議題進行系統討論，取得重要成果。作為西部人工智慧產業高地，成都近年來深入實施“人工智慧+”行動，推動人工智慧技術、產業、素養培育協同並進，持續拓展產業發展全新賽道。在成都這家機器人生產廠區，車間內自動化產線高速運轉，平均每12分鐘就有一臺工業機器人完成下線，企業營收連續攀升。就在不久前，企業攜自研二代輪式人形機器人亮相德國漢諾威工博會，面向全球市場首發新品。（央視新聞）
-
----
-
-### 2026-07-26 07:37:12  #其他
-
-馬斯克：長期繁榮、外部威脅感知減弱催生低生育率，是羅馬及多數強大文明走向覆滅的核心原因。
-
----
-
-### 2026-07-26 07:36:30  #其他
-
-【圖靈獎得主薩頓：當下主流人工智慧正規化有盲點】“現在的大語言模型沒有目標，也完全不具備真實體驗。”圖靈獎得主、強化學習領域奠基人之一理查德·薩頓教授在近期舉行的“強化學習暑期學校”結業儀式上表示。該暑期學校由上海創智學院、上海交通大學人工智慧學院與Openmind研究院聯合主辦。這也是身為Openmind研究院首席科學家的薩頓首次在中國系統、完整地講授其強化學習學術體系。在薩頓看來，心智的核心在於體驗互動，而當下主流人工智慧正規化完全忽略了這一點。他所定義的體驗，是指與真實世界進行互動。心智存在的全部意義，就是從現實世界中獲取反饋。但如今，反饋往往被簡化為“獎勵訊號”，系統的目標就是最大化這個標量數值，這套簡化邏輯並不貼合真實心智。他直言，現在的大語言模型並不在意人類的真實訴求，只專注於模仿人類文字。而真正的心智，會主動掌控、理解自身體驗，主動預測並干預外部世界。（解放日報）
-
----
-
-### 2026-07-26 07:34:59  #國際
-
-【英矽智慧全球研發總部落子上海，張江無人實驗室裡AI全程驅動新藥正加快研發】進入2026年下半年，AI製藥賽道的“刷屏”節奏不斷加快。繼7月初與日本武田製藥敲定最高6億美元合作後，短短一個月內，英矽智慧又與全球CDMO（合同研發生產組織）龍頭保瑞藥業宣佈達成多靶點戰略合作，兩項合作潛在總價值超過30億美元。由於發病原因不明、生物機制複雜，IPF曾面臨十年無新藥問世的僵局，迄今尚無國產原研藥物獲批上市。而Rentosertib的靶點與分子結構，均由英矽智慧Pharma.AI平臺全程驅動發現，具備顯著的全球首創潛力。這款誕生於上海張江的候選藥物，正是中國生物醫藥源頭創新的有力證明。（解放日報）
-
----
-
-### 2026-07-26 07:32:55  #公司
-
-【明日上市！長鑫科技中一簽能賺多少錢？】長鑫科技近日釋出首次公開發行股票科創板上市公告書，公司股票將於7月27日在上海證券交易所科創板上市。作為年內A股最大的IPO，長鑫科技潛在打新收益成為市場焦點。華西證券研究報告顯示，長鑫科技上市將徹底改寫A股半導體板塊估值邏輯，填補A股DRAM製造標的空白，結束儲存板塊“只有設計、無製造龍頭”的估值失衡。中性預期上市後穩定市值2萬億元至3萬億元，樂觀情境甚至能看到4萬億元。 國投證券研究報告進一步設定了保守、中性、樂觀、超樂觀四種估值情景，對應長鑫科技估值為1萬億元、1.5萬億元、2.3萬億元和4.25萬億元。 基於上述預估的1萬億元-4萬億元市值區間，對應上市後首日漲幅落在70%-600%區間。 對比8.66元的發行價，中一簽的盈利空間大約在3000元至2.6萬元之間。（21財經）
-
----
-
-### 2026-07-26 07:31:34  #其他
-
-【經濟日報：消費“造節”不能靠噱頭】近期，某地面包節因場地擁擠、過度營銷、憑票入場等問題遭消費者吐槽。麵包節、抹茶節、咖啡節……近年來，各類細分主題的消費節日遍地開花。這些節日精準契合年輕人“社交+嚐鮮”的消費心理，有效拉動了消費。然而，當“萬物皆可節”成為風潮，粗放式“造節”的弊病也浮出水面：同質化扎堆辦展、品類混雜跑題、攤位溢價偏高、產品品質縮水，不少節日正淪為一次性的噱頭，而非可持續的消費支撐點。
-
----
-
-### 2026-07-26 07:31:03  #國際
-
-【日本借演試彈海上磨刀 對華封鎖圍堵意圖明顯】目前，環太平洋2026多國聯合演習正在美國夏威夷群島周邊海域進行。演習中，日本海上自衛隊“金剛”號導彈驅逐艦不單進行了標準-2導彈的實彈發射，還與西班牙海軍F-101護衛艦組成協同攻擊編隊，對美海軍退役兩棲攻擊艦、靶艦“貝里琉號”實施了打擊。今年日本陸上自衛隊在菲律賓呂宋島實彈發射88式岸基反艦導彈，被廣泛視為日本突破專守防衛原則的一個標誌性事件。此事件的嚴重性在哪裡？
-
-軍事評論員張學峰表示：日本在呂宋島實彈實射88式反艦導彈，可以說是有非常強烈的戰略指向，有明確的戰術背景。在菲律賓呂宋島試射導彈，它的一個明確的戰術背景就是要封鎖巴士海峽。因為中國海軍包括空軍進出西太平洋，往往是透過宮古海峽和巴士海峽，如果未來日本把反艦導彈部隊部署到了菲律賓，特別是部署到了呂宋島，目的就是為了封鎖未來中國海軍進出西太平洋的通道，意圖是非常明顯的。（央視新聞）
-
----
-
-### 2026-07-26 07:29:33  #其他
-
-【經濟日報金觀平：儲備人才就是儲備未來】人才是第一資源。統計資料顯示，2026年全國高校畢業生規模達1270萬人。企業要認識到，當前是人才供給較為充裕的視窗期，吸納、培養優秀畢業生，既能為企業發展積蓄後勁，也能助力企業在未來競爭中贏得主動、搶佔先機。目前，我國已建成規模龐大、質量不斷提升的教育體系，高素質人才培養能力持續增強，人才資源總量穩步增長，為經濟社會發展積累了豐厚的人才儲備。但要看到，人才供需的結構性矛盾仍然存在。比如，新興產業、重點領域人才缺口較大，技術技能型、複合型人才供不應求。同時，人工智慧、智慧製造、新能源等快速發展，對高素質人才的需求持續擴大。在此背景下，企業需順應新一輪科技革命和產業變革趨勢，提前佈局、儲備人才，如此，方能在發展競爭中贏得先機。
-
----
-
-### 2026-07-26 07:26:15  #其他
-
-【上半年北京地區出口3133億元】積體電路、電工器材、汽車、電腦及其零部件——從北京遠銷全球的這四類“王牌”產品，今年上半年的出口值分別實現137.6%、52.2%、37.9%、125.2%的增速，合力支撐北京地區出口創歷史同期新高。 上半年，北京地區貨物貿易進出口總值達1.78萬億元，同比增長16.5%。其中，出口3133億元，創歷史同期新高，同比增長4.5%。（北京日報）
-
----
-
-### 2026-07-26 07:25:41  #公司 #國際
-
-【SpaceX試飛重大突破】近日，SpaceX 星艦第 13 次試飛取得重大突破，飛船隔熱層經受住高溫考驗，完整漂浮在印度洋上。公司下一步將嘗試讓星艦進入軌道並返回發射場，由發射塔機械臂直接完成空中捕獲，這將是航天史上的又一里程碑。
-
----
-
-### 2026-07-26 07:25:24  #其他
-
-【中南大學：近日收到費某某學位論文涉嫌抄襲舉報，已成立調查組全面核查】中南大學研究生院7月25日釋出情況通報：近日我校收到相關舉報，反映商學院2002屆同等學力碩士費某某學位論文涉嫌抄襲。學校已成立調查組，進行全面核查工作。學校始終嚴守學術底線、維護學術規範，對學術不端行為絕不姑息。
-
----
-
-### 2026-07-26 07:16:36  #其他
-
-【颱風“紅霞”一日連跳三級 將深入內陸製造大範圍強降雨】今天（26日）凌晨3點50分前後，今年第12號颱風“紅霞”以強颱風級登陸廣東惠州市惠東縣平海鎮沿海，成為今年登陸廣東的首個颱風，也超越了颱風“美莎克”、颱風“巴威”，成為今年以來登陸我國的最強颱風。登陸後，“紅霞”將深入內陸，給江西、湖南、湖北等地製造強風雨。由於其環流在陸地上停留時間較長，降雨影響將持續至28日前後，最遠可波及河南、山東等省份。（央視新聞）
-
----
-
-### 2026-07-26 07:14:45  #宏觀 #公司 #國際
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、市場監管總局依法對攜程集團有限公司實施壟斷行為作出行政處罰並責令其全面整改；
-2、查處攜程壟斷案釋放反壟斷反內卷強烈訊號；
-3、“十五五”時期，汽車短租市場規模預計年均增長約15% 放心用省心還，租車場景更多元（政策解讀）；
-4、截至6月底 累計發電裝機容量同比增10.8%；
-5、中央部門“曬賬本”，花錢更加求“績”問“效” 財政部及相應部門官網可查；
-6、上半年完成水利建設投資5151億元 落實民間資本同比增長85.8%；
-7、從“產品出海”到“產業紮根”，徐工巴西加速本地化佈局 “推動巴西再工業化程序的重要力量”；
-8、為破解全球人工智慧治理難題貢獻中國方案（國際論壇）
-9、吉爾吉斯斯坦總統扎帕羅夫會見王毅；
-10、多家外媒關注中國經濟半年報——中國經濟展現出較強韌性（外媒看中國）；
-11、中方呼籲國際社會合力推動全球能源轉型；
-12、特區政府勇於擔當、行政立法密切配合、社會各界廣泛參與——香港推進位制定首個五年規劃（香江線上）。
-
----
-
-### 2026-07-26 07:14:34  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、讓全社會創業創新環境更優（總書記的關切·落地的迴響）；
-2、“景德鎮手工瓷業遺存”成為首個“瓷”主題世界遺產 千年窯火 輝映世界；
-3、“六張網”如何賦能現代化產業體系（讀者點題·共同關注）；
-4、四川劍閣縣保護古樹、傳承文化——翠雲廊上柏森森（樹立和踐行正確政績觀·一線見聞）；
-5、截至6月底我國智慧算力規模同比增長177%；
-6、上半年新能源重卡銷量同比增長78.6%。
-
----
-
-### 2026-07-26 07:11:28  #其他
-
-香港釋出8號颱風訊號。
-
----
-
-### 2026-07-26 07:07:58  #其他
-
-馬斯克：任何文明一旦對未來失去希望，終將走向消亡。 探索星空，就是值得你去憧憬的精彩未來。
-
----
-
-### 2026-07-26 07:06:31  #其他
-
-【“紅霞”強度減弱 中央氣象臺釋出颱風橙色預警】中央氣象臺26日6時釋出颱風橙色預警，今年第12號颱風“紅霞”26日3時50分前後在廣東省惠州市惠東縣平海鎮登陸，登陸時中心附近最大風力14級（強颱風級）。26日早晨，“紅霞”強度由強颱風級減弱為颱風級。“紅霞”是繼颱風“美莎克”和“巴威”之後，今年登陸我國的第3個颱風。（新華社）
 
 ---

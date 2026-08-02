@@ -1,7 +1,99 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-02 07:06:21_
-_本檔包含 3553 則快訊，約 673281 字_
+_更新時間：2026-08-02 08:06:23_
+_本檔包含 3559 則快訊，約 672176 字_
+
+---
+
+### 2026-08-02 08:00:55  #MKT News #Commodities #Energy
+
+A grid failure caused power outages in five Cuban provinces.
+
+---
+
+### 2026-08-02 08:00:14  #其他
+
+市場訊息： 古巴 15 個省份中已有 5 省斷電。
+
+---
+
+### 2026-08-02 08:00:03  #MKT News
+
+A shooting in Twin Falls, Idaho on Aug. 1 killed three people and injured at least two.
+
+---
+
+### 2026-08-02 07:59:28  #MKT News
+
+【US media: Saudi crown prince urged Trump to show restraint on proposed large-scale strike on Iran】Axios reports two US officials and a person familiar said Saudi Crown Prince Mohammed bin Salman called US President Trump on Saturday to express concern about a proposed large-scale US strike on Iran targeting energy infrastructure. Media reports earlier said Trump was considering strikes in coming days in response to an Iranian missile attack on a US base in Jordan and continued disruptions to shipping in the Strait of Hormuz; no final order has been issued. A US official said Saudi Arabia asked for clarity on the plan; the crown prince urged de-escalation. Qatar, the UAE, Turkey and Pakistan have also pressed the US and Iran to calm tensions. Saudi Arabia, a key US regional ally, has influenced Trump’s Iran policy at several critical moments since the war began.
+
+---
+
+### 2026-08-02 07:53:23  #國際
+
+【沙特王儲穆罕默德・本・薩勒曼特朗普計劃大規模打擊伊朗表達擔憂】據兩名美國官員以及另一位瞭解通話情況的訊息人士透露，沙特王儲穆罕默德・本・薩勒曼於週六與特朗普總統通話，對特朗普計劃針對伊朗發起新一輪大規模打擊表示擔憂。一名美國官員表示：“沙特方面表達了擔憂，並要求美方闡明行動計劃。”另一名知曉通話內容的訊息人士稱，穆罕默德・本・薩勒曼敦促特朗普緩和局勢，不要發動打擊行動。白宮與沙特駐華盛頓大使館均拒絕對此事置評。
+
+---
+
+### 2026-08-02 07:51:32  #國際
+
+市場訊息：沙特親王對特朗普擬定的打擊伊朗計劃感到擔憂。
+
+---
+
+### 2026-08-02 07:45:46  #國際
+
+【古巴多省發生斷電】古巴電力聯盟8月1日通報，當地時間18時7分，該國馬坦薩斯省至比那爾德里奧省一帶電力系統發生斷電。古巴電力聯盟在社交媒體上表示，斷電是線路跳閘所致。受美國製裁影響，古巴長期以來難以進口燃料及發電廠裝置，發電廠裝置老舊難更新，全國電力供應緊張。2024年10月以來，因電力設施故障、颶風侵襲等原因，古巴曾多次全國大停電。（央視新聞）
+
+---
+
+### 2026-08-02 07:45:00  #國際
+
+市場訊息：多架伊朗無人機在伊拉克庫爾德地區上空被攔截。
+
+---
+
+### 2026-08-02 07:40:31  #國際
+
+【美國愛達荷州發生槍擊事件 造成3死2傷】美國愛達荷州特溫福爾斯市一家‌漢堡店附近發生槍擊事件，造成3人死亡、2人受傷。警方表示，當天下午3時左右接到報警稱事發地點發生“活躍槍手”事件。警方目前尚未公佈遇難者及傷者身份，也未確認槍手是否在死亡人員之中。據悉，事發區域附近分佈有多家大型零售商和電影院。警方已封鎖現場，並提醒民眾遠離事發區域。（央視新聞）
+
+---
+
+### 2026-08-02 07:37:47  #宏觀 #國際
+
+美國國務院因數萬非法移民大規模湧入，將西班牙休達的旅行警告上調至三級。
+
+---
+
+### 2026-08-02 07:35:24  #其他
+
+【松花江發生2026年第1號洪水】水利部8月2日早釋出訊息，受降雨影響，2日3時54分，松花江佳木斯水文站（黑龍江省佳木斯）水位漲至79.49米，依據主要江河洪水編號規定，此次洪水編號為“松花江2026年第1號洪水”。目前，3個水利部工作組正在黑龍江省洪水防禦一線協助指導。（央視新聞）
+
+---
+
+### 2026-08-02 07:32:17  #國際
+
+市場訊息：巴勒斯坦政治人物穆罕默德・達赫蘭稱，美國特使、唐納德・特朗普的女婿賈裡德・庫什納告知他，以色列將於週日起停止在加沙地帶開展軍事打擊。
+
+---
+
+### 2026-08-02 07:28:48  #公司
+
+【中微公司：截至6月底累計已有逾8600個反應臺在國內外生產線實現量產】 8月1日，中微公司在上海市臨港新片區舉行“中微大廈”落成暨22週年慶典。中微公司創始人、董事長兼總經理尹志堯在致辭時表示，如今，公司已開發出50多種裝置，覆蓋刻蝕 、薄膜 、量檢測 、CMP溼法等裝置，加工的精度達到了原子級水平。截至2026年6月底，公司累計已有超過8600個反應臺在國內外200餘條生產線實現量產。他預計，未來五年，中微公司的生產和研發廠房總面積將達到90萬平方米，年產值規模有望提升至700億元。
+
+---
+
+### 2026-08-02 07:07:07  #宏觀 #資料 #國際
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、人力資源社會保障部出臺企業年金新規程 推動企業年金轉移接續更高效
+2、7月製造業PMI為49.2%
+3、“藍色屋頂”點亮巴基斯坦綠色未來
+4、斯中共建“一帶一路”合作持續提質升級
+5、比什凱克市垃圾科技處置發電專案實現“變廢為寶”——“為城市綠色發展注入持久動能”
+6、中方在聯合國舉行2026世界人工智慧大會暨人工智慧全球治理高階別會議吹風會
+7、上海穩步建設全球科創高地
+8、2026年世界奶業大會在內蒙古呼和浩特開幕
 
 ---
 
@@ -21389,53 +21481,5 @@ A-share MLCC sector rallied again. Shuangxing New Materials posted a second cons
 ### 2026-07-31 09:41:12  #Trading Economics #Economy #Australia #Producer Price Inflation MoM #Importance 1
 
 Australia Producer Price Inflation Accelerates in Q2 — Australia’s final demand Producer Price Index (PPI) rose 1.3% quarter-on-quarter in the second quarter of 2026, accelerating from a 0.4% increase in the previous quarter and beating market expectations for a 0.3% rise. This marked the strongest producer price growth since the third quarter of 2023, driven by higher energy costs, particularly for crude oil, petrol, and diesel, following supply disruptions caused by the closure of the Strait of Hormuz for much of the quarter. The effects of the Middle East crisis were felt across most industries, with shipping delays increasing the cost of imported goods, while higher fuel prices raised expenses for energy-intensive manufacturing processes. Continued demand for rental properties also remained a key contributor to the increase in final demand prices. On an annual basis, producer prices rose 3.6%, following a 3.0% increase in the first quarter, marking the highest yearly growth rate since the first quarter of 2025.
-
----
-
-### 2026-07-31 09:40:59  #Trading Economics #Economy #China #Business Confidence #Importance 3
-
-China Manufacturing Activity Contracts for the 1st Time in 5 Months — China’s official NBS Manufacturing PMI unexpectedly declined to 49.2 in July 2026 from 50.3 in the previous month, below market expectations of 50.0. It was the first contraction in factory activity since February, amid persistently weak domestic demand. Output shrank for the first time in five months (49.9 vs 51.4 in June), while new orders contracted after expanding in the previous month (49.9 vs 51.2), with foreign orders also returning to contraction (49.0 vs 50.1).
-
----
-
-### 2026-07-31 09:40:56  #宏觀 #資料
-
-【國家統計局：7月份非製造業商務活動指數有所下降，文旅行業較為活躍】國家統計局服務業調查中心首席統計師霍麗慧解讀2026年7月中國採購經理指數，7月份，非製造業商務活動指數為49.0%，比上月下降1.2個百分點，非製造業景氣水平較上月回落。（一）文旅行業景氣回升。服務業商務活動指數為49.3%，比上月下降1.1個百分點，服務業市場活躍度有所回落。從行業看，在暑期消費帶動下，居民休閒娛樂和旅遊出行有所增加，航空運輸、住宿、文化體育娛樂等行業商務活動指數較上月明顯回升，相關企業業務總量增長較快；批發、貨幣金融服務等行業商務活動指數下降幅度較大，是本月服務業景氣度回落的主要因素；資本市場服務、房地產等行業商務活動指數低於臨界點。服務業業務活動預期指數為56.0%，與上月持平，企業對近期市場發展信心較為穩定。（二）建築業景氣水平下行。受近期部分地區高溫暴雨洪澇災害等不利因素影響，建築業施工進度有所放緩，商務活動指數為47.0%，比上月下降2.0個百分點。建築業業務活動預期指數為51.8%，比上月上升0.7個百分點，企業對近期行業發展信心有所增強。
-
----
-
-### 2026-07-31 09:40:43  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bullish
-
-【Korea Investment & Securities says Samsung shift to long-term memory contracts improves earnings visibility】Korea Investment & Securities says Samsung Electronics’ move toward long-term memory-chip supply contracts is boosting earnings visibility and underpins a stronger profit outlook. The broker noted Samsung’s Q2 results beat expectations as memory prices surged, and new hyperscaler deals are helping stabilize demand and capacity utilisation. It raised Samsung’s target price 10% to KRW 650,000, kept a buy rating, and cited an improved earnings outlook and potential upside to HBM pricing.
-
----
-
-### 2026-07-31 09:40:10  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-China A-share electronic chemicals sector surged intraday; Fangbang Shares hit a 20% limit-up, Guanggang Gas and Haixing Shares locked at the daily limit, while Weiteou, Xingfu Electronics, Laite Optoelectronics and Zhongjuxin rallied more than 11%.
-
----
-
-### 2026-07-31 09:39:59  #其他
-
-巴基斯坦官員31日說，該國西南部俾路支省一座煤礦30日發生爆炸，造成至少32名礦工死亡，另有10名礦工被困井下。（新華社）
-
----
-
-### 2026-07-31 09:39:34  #市場 #國際
-
-中證500股指期貨(IC)主力合約日內漲超4%，現報7575.4點。
-
----
-
-### 2026-07-31 09:39:28  #MKT News #Macro & Rates #USDJPY #Impact mixed
-
-【Daiwa Securities: Any intervention to support the yen may only buy time】Daiwa Securities chief FX strategist Kenta Tadaide said any surprise Japanese government intervention to support the yen may only be a stopgap to buy time. "To maximize the effect of FX intervention, monetary policy must remain aligned," he said, adding markets largely expect the Bank of Japan to keep policy rates unchanged at today's decision and are focused on the policy statement and Governor Kazuo Ueda's press conference.
-
----
-
-### 2026-07-31 09:39:23  #Trading Economics #Economy #China #Non Manufacturing PMI #Importance 1
-
-China Services Activity Returns to Contraction — China's official NBS Non-Manufacturing PMI fell to 49.0 in July 2026 from 50.2 in June, pointing to a renewed contraction in non-manufacturing activity after two months of modest expansion and defying expectations of a flat reading. The business activity index for the services sector declined to 49.3 from 50.4, while the construction index dropped to 47.0 from 49.0. Within services, postal services, telecommunications, broadcasting, and culture and entertainment remained strong, with business activity indices above 55.0, while capital market services and real estate remained in contraction. Meanwhile, the new orders index fell to 44.4 from 48.0, with construction declining to 40.1 from 46.3 and services easing to 45.2 from 48.4. Input prices were unchanged at 49.7, while sales prices slipped to 47.9 from 48.4. Employment edged down to 45.4 from 45.8. Still, business expectations improved slightly to 55.4 from 55.3, indicating firms remained optimistic about future activity.
 
 ---

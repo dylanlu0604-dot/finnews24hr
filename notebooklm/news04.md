@@ -1,7 +1,196 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-02 07:06:21_
-_本檔包含 3696 則快訊，約 673044 字_
+_更新時間：2026-08-02 08:06:23_
+_本檔包含 3682 則快訊，約 672687 字_
+
+---
+
+### 2026-07-29 09:03:33  #MKT News #000660.KS
+
+SK Hynix says conversion of its South Korea-listed shares into ADRs could be restricted.
+
+---
+
+### 2026-07-29 09:03:17  #公司 #市場 #央行 #國際
+
+【金融危機預警者Whitney預計美聯儲按兵不動 美國經濟第四季面臨考驗】 曾因在2007年全球金融危機前夕率先發出警告而聲名鵲起的前銀行分析師Meredith Whitney表示，隨著世界盃帶來的一次性經濟提振效應以及財政支出餘溫逐漸消退，美國經濟將在第四季度迎來一場“清算時刻”。
+Whitney週二接受媒體採訪時表示，每週信用卡餘額這一反映消費者支出而非迴圈債務的實時指標，目前增速已較5月放緩。與此同時，美國消費者也正在消化汽油價格上漲帶來的壓力。Meredith Whitney Advisory Group創始人兼執行長Whitney表示，上述因素將為美聯儲週三維持利率不變提供理由。她駁斥了Citadel Securities等機構提出的觀點，即意外加息將有助於提高美聯儲主席凱文·沃什的公信力。Whitney認為，沃什設立五個政策工作組的做法，實際上為其爭取了數個月時間，無需急於作出政策轉向決定。“我認為他們會維持利率不變，同時繼續使用偏強硬、偏鷹派的措辭，為未來行動保留迴旋空間，”她表示。談及沃什時，Whitney稱：“他的傾向是等待，並確保自己真的做出了正確判斷。”
+
+---
+
+### 2026-07-29 09:02:58  #其他
+
+SK海力士：將積極應對人工智慧儲存領域不斷變化的需求。
+
+---
+
+### 2026-07-29 09:02:35  #市場 #國際
+
+40年期日本國債收益率上漲1.5個基點，至4.045%。
+
+---
+
+### 2026-07-29 09:02:24  #市場 #國際
+
+日本日經股價指數回吐早盤漲幅，最新基本持平。
+
+---
+
+### 2026-07-29 09:02:00  #央行 #國際
+
+韓國央行：有必要維持緊縮政策立場；將繼續努力穩定市場；預計下半年通脹將超過目標；有必要對房價和家庭債務相關風險保持更謹慎態度。
+
+---
+
+### 2026-07-29 09:01:45  #MKT News #Macro & Rates #CNH #Impact bullish #CSI300 #DXY #Impact bearish
+
+【China 1H total social logistics 181.1 trillion yuan】China Federation of Logistics and Purchasing reported on the 29th that 1H total social logistics reached 181.1 trillion yuan, up 5.1% YoY — 0.4 percentage point above GDP growth. Quarterly growth was 6.2% in Q1 and 4.4% in Q2. The federation said logistics demand continued to expand and support economic growth.
+
+---
+
+### 2026-07-29 09:01:33  #MKT News #Market Regions #Japan & APAC #Nikkei 225
+
+Japan's Nikkei 225 gave back early gains and was trading flat.
+
+---
+
+### 2026-07-29 09:01:21  #其他
+
+SK海力士：將加強其在NAND領域的產品陣容。
+
+---
+
+### 2026-07-29 09:01:16  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange Gold T+D fell 0.62% in early trade on July 29 to 877.0 yuan/gram; Silver T+D slipped 0.46% to 13,945.0 yuan/kg.
+
+---
+
+### 2026-07-29 09:01:13  #MKT News #Market Regions #Greater China
+
+Taiwan Weighted Index opened down 41.97 points (-0.1%) at 41,561.39 on July 29 (Wednesday).
+
+---
+
+### 2026-07-29 09:01:13  #MKT News #Important
+
+【MOFCOM spokesperson responds to US DoD adding some Chinese research institutes to sanctions list】MOFCOM spokesperson said the US is broadening its national security concept and erecting discriminatory barriers, politicizing and weaponizing research cooperation, and thereby obstructing Sino-US scientific exchanges — a move contrary to global technology collaboration. China urges the US to stop smearing Chinese research institutions, correct its approach, and provide fair, impartial, non‑discriminatory treatment. China will take necessary measures to safeguard the legitimate rights of its research institutions and to protect normal scientific exchanges and cooperation.
+
+---
+
+### 2026-07-29 09:01:11  #其他
+
+臺灣證交所加權股價指數開低0.3%報41,491.48。
+
+---
+
+### 2026-07-29 09:00:37  #國際
+
+【商務部新聞發言人就美國防部將部分中國科研機構列入制裁清單事答記者問】有記者問：美東時間7月23日，美國防部更新公佈“從事問題活動的外國科研機構清單”（1286清單），對中方部分科研機構實施列單制裁。請問商務部對此有何評論？答：我們注意到這一情況。中方對此強烈不滿、堅決反對。美方不斷泛化國家安全概念，人為設定歧視性壁壘，將科研合作政治化、武器化、工具化，阻礙中美科研領域交流合作，這與全球科技創新合作大勢背道而馳。中方敦促美方停止對中國科研機構無端抹黑，儘快糾正錯誤做法，為中國科研機構提供公平、公正、非歧視待遇。中方將採取必要措施，維護中方科研機構的正當合法權益，為正常科技交流合作保駕護航。
+
+---
+
+### 2026-07-29 09:00:29
+
+國內期貨主力合約跌多漲少，20號膠跌超2％，橡膠跌近2％，滬銀、合成橡膠、滬鎳、純鹼、燒鹼跌超1％，白糖跌近1％。漲幅方面，集運歐線漲超4％，苯乙烯（EB）、低硫燃料油（LU）、乙二醇（EG）漲超1％，滬鋁、鑄造鋁漲近1％。
+
+---
+
+### 2026-07-29 09:00:29  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy
+
+At the morning open, China’s commodity front-month futures were mostly lower. 20# rubber fell more than 2% and rubber nearly 2%; Shanghai silver, synthetic rubber, Shanghai nickel, soda ash and caustic soda declined over 1%; white sugar slipped about 1%. Advancers included container shipping to Europe, up over 4%; styrene (EB), low-sulfur fuel oil (LU) and ethylene glycol (EG) each rose more than 1%; Shanghai aluminum and foundry aluminum gained about 1%.
+
+---
+
+### 2026-07-29 09:00:29  #MKT News
+
+Bank of Korea says it will continue market-stabilization operations.
+
+---
+
+### 2026-07-29 09:00:26  #市場 #焦點
+
+集運指數歐線期貨連續主力合約日內漲5%，現報1736.00點。
+
+---
+
+### 2026-07-29 09:00:25  #MKT News #Important #DXY #Impact bullish #USDJPY #XAUUSD #Impact bearish
+
+BANK OF KOREA says inf will exceed the target in H2 and it is necessary to maintain a tight policy stance.
+
+---
+
+### 2026-07-29 09:00:21  #其他
+
+【上半年全國社會物流總額超180萬億元】中國物流與採購聯合會今天（29日）公佈今年上半年物流執行資料。上半年，物流需求規模持續擴大，結構最佳化與動能轉換特徵突出。今年上半年，全國社會物流總額181.1萬億元，同比增長5.1%，高於同期GDP增速0.4個百分點，物流需求對國民經濟增長的支撐引領作用持續增強。分季度看，一、二季度分別增長6.2%、4.4%，總體呈現穩中有增的發展態勢。
+
+---
+
+### 2026-07-29 09:00:15  #MKT News
+
+Bank of Korea: must be more cautious in addressing risks tied to house prices and household debt.
+
+---
+
+### 2026-07-29 09:00:06  #市場 #焦點
+
+純鹼連續主力合約日內跌1%，現報969.00元。
+
+---
+
+### 2026-07-29 09:00:04  #市場 #焦點
+
+集運指數歐線期貨連續主力合約日內漲4%，現報1720.00點。
+
+---
+
+### 2026-07-29 09:00:03  #市場
+
+【商品期貨開盤】集運指數歐線期貨連續漲4.24%，20號膠連續跌2.32%，天然橡膠連續跌1.91%，白銀連續跌1.48%，低硫燃料油連續漲1.36%。
+
+---
+
+### 2026-07-29 09:00:02  #市場
+
+富時中國A50指數期貨開盤上漲0.27%。
+
+---
+
+### 2026-07-29 08:59:33  #市場 #觀點 #國際
+
+【中金財富期貨：油價大幅回升，黃金回落】美軍中央司令部表示，伊朗伊斯蘭革命衛隊從伊朗境內發射多枚彈道導彈，試圖對駐中東地區的美軍發動突然襲擊；葉門胡塞武裝28日發表宣告稱，該組織當天對一艘沙特籍油輪實施軍事打擊，理由是該船違反其針對沙特實施的海上航行禁令，並無視其發出的警告。受此影響，油價大幅回升，黃金回落。目前美伊衝突進入到更加激烈的第二階段，且考慮到原油的庫存消耗過度的問題，目前需要考慮小機率事件，即油價失控的風險。對於黃金，短期偏震盪思路，密切關注地緣政治走向。
+
+---
+
+### 2026-07-29 08:59:27  #其他
+
+【東風日產與萬達廣場簽署戰略合作，將落地商超慢閃店】7月28日，東風日產與萬達廣場簽署戰略合作框架協議。根據新的合作規劃，萬達廣場將向東風日產開放線上線下全域營銷渠道，東風日產將在全國重點城市的萬達廣場落地長週期商超慢閃店。
+
+---
+
+### 2026-07-29 08:58:21  #Trading Economics #Markets #United States #Currency #Importance 2
+
+Dollar Steadies Ahead of Fed Policy Decision — The dollar index held steady around 101.3 on Wednesday after a volatile start to the week, as investors awaited the Federal Reserve’s upcoming policy decision, where it is expected to leave interest rates unchanged. However, markets continue to price in about a one-third chance of a 25-basis-point rate hike, reflecting an unusually high level of uncertainty this close to a decision compared with recent years. Traders also see roughly an 80% probability of a rate increase in September, reinforcing expectations that borrowing costs could stay elevated. Meanwhile, investors also monitored rebounding oil prices and renewed inflation concerns after fresh hostilities flared in the Middle East. The US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East, reigniting regional tensions.
+
+---
+
+### 2026-07-29 08:58:01  #國際
+
+特朗普：我和內塔尼亞胡的會晤非常愉快。
+
+---
+
+### 2026-07-29 08:58:00  #MKT News
+
+U.S. President Trump said he, Israeli Prime Minister Netanyahu and other delegates held a productive meeting and discussed a range of important issues.
+
+---
+
+### 2026-07-29 08:57:37  #市場
+
+【五糧液普五八代領跌 白酒大單品總價創近五天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售總價7月29日再度小幅回撥。如果主要單品各取一瓶整體打包售賣，今日總售價為9886元，較昨日下跌12元，在昨日小幅反彈後再度轉弱，創五天以來最低，但比7月18日創下的階段低點仍高出81元。縱觀全場，過去一天酒市終端交投情緒環比降溫，空方再佔上風，低位修復節奏再受擾動。
+
+今日11大白酒單品三漲六跌兩平，輸家佔據明顯優勢。上漲方面，飛天茅臺、精品茅臺與青花郎均上漲2元/瓶。其中，飛天茅臺的全國零售均價終結此前連續七日小幅回撥，自7.18提價後高位區間止跌回升；精品茅臺昨日回落後今日小幅反彈；青花郎連續兩日走升，續創近一個月最高紀錄。下跌方面，五糧液普五八代跌幅居前，下跌7元/瓶，近期低位寬幅震盪格局延續；青花汾20與古井貢古20均下跌3元/瓶，其中前者平近一個月最低價紀錄，後者近期價格漲跌反覆，短線反彈屢受壓制；五糧液1618與習酒君品均下跌2元/瓶，其中前者連續兩日走低，後者結束昨日反彈，仍處於近一個月高位區間；國窖1573小跌1元/瓶，近一個月價格中樞明顯下移。洋河夢之藍M6+與水晶劍南春價格環比昨日保持不變，其中前者連續兩日維持在600元/瓶，後者連續兩日維持在402元/瓶。
 
 ---
 
@@ -22068,278 +22257,5 @@ Romania will take protective measures to shut one nuclear reactor because Danube
 ### 2026-07-28 01:55:31  #MKT News #S&P500 #Impact bearish #XAUUSD #Impact bullish #DXY
 
 【Finnish industry official says U.S. tariffs while failing ILO obligations 'absurd'】Timo Wori, director for international trade and trade policy at the Federation of Finnish Industries, said the U.S. has not fully met its obligations under the International Labour Organization framework yet is imposing tariffs under the banner of "forced labor," calling the move absurd. He said the Trump administration sought legal cover for unilateral tariffs from a 1970s law to justify the "forced labor" claim. Wori warned U.S. tariff policy is hitting Finnish steel and pharmaceutical firms, damaging global trade ties and raising uncertainty for the global economy and business operations, and that the ultimate cost falls on U.S. consumers. He also expressed concern that tariffs are being used outside traditional trade policy—citing Greenland, Iran and NATO cooperation disputes—saying the "weaponization" of tariffs increases economic and security uncertainty worldwide.
-
----
-
-### 2026-07-28 01:54:50  #MKT News
-
-Israeli media report the U.S. embassy in Israel has restricted staff travel to the West Bank due to heightened security tensions; restrictions remain in place through July 29.
-
----
-
-### 2026-07-28 01:52:54  #公司 #國際
-
-【芬蘭工商界人士：美國不履行義務還強徵關稅很荒謬】芬蘭工業聯合會國際貿易和貿易政策主任蒂莫·沃裡27日表示，美國自身尚未完全履行國際勞工組織框架下的義務，卻以“強迫勞動”為名對其他經濟體加徵關稅，凸顯美方雙重標準。沃裡當天接受芬蘭國家廣播公司採訪時說，特朗普政府為單方面加徵關稅遍尋“法律依據”，最終從一項上世紀70年代的法律中搬出“強迫勞動”這一理由，這一做法十分荒謬。美國貿易代表辦公室23日釋出公告，宣佈依據《1974年貿易法》第301條，以所謂“強迫勞動”為由，對來自60個國家和地區的進口商品徵收10%至12.5%的關稅，以替代24日到期的全球進口關稅。新關稅已於美國東部時間24日生效。（新華社）
-
----
-
-### 2026-07-28 01:51:51  #其他
-
-據阿拉比亞電視臺：伊拉克總理下令調查使用伊拉克領土發動無人機襲擊沙特的事件。伊拉克方面表示，不會允許任何試圖影響伊沙關係或損害兩國關係的行動。
-
----
-
-### 2026-07-28 01:51:09  #國際
-
-【歐盟MARS機構：熱浪導致歐盟玉米、小麥產量預期下調】歐盟農業資源監測中心（MARS）表示，熱浪和乾旱天氣已導致西歐和中歐大部分地區的農作物產量前景惡化。高溫縮短了穀物灌漿期，導致冬季作物提前成熟；而夏季作物在關鍵生長期則遭遇了高溫和土壤水分不足的困擾。歐盟玉米產量預期較上次預測下調6%，目前低於五年平均水平2%。作為歐盟最大的玉米生產國，法國的玉米產量預期被下調13%，目前低於五年平均水平15%。歐盟小麥產量預期下調2%。法國小麥產量預期下調4%，目前比去年低8%。歐盟向日葵產量預期下調7%，但仍比去年高出4%。歐盟油菜籽產量預期下調1%。預計西歐將出現更多炎熱乾燥的天氣，這增加了農作物進一步減產的風險。
-
----
-
-### 2026-07-28 01:50:57  #MKT News
-
-Iraq said it will not allow any actions aimed at affecting Iraq–Saudi relations or harming ties between the two countries, Al Arabiya reported.
-
----
-
-### 2026-07-28 01:50:47  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-According to Al Arabiya TV, Iraq's prime minister has ordered an investigation into reports that Iraqi territory was used to launch drone strikes on Saudi Arabia.
-
----
-
-### 2026-07-28 01:45:15  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-【FT: NVIDIA to back OpenAI co-founder’s AI project with $5bln investment】Financial Times reports NVIDIA has agreed to invest about $5bln in Safe Superintelligence, an AI startup led by OpenAI co‑founder Ilya Sutskever, and will provide its latest Vera Rubin hardware as part of a "long-term partnership." The companies announced the deal on Monday; people familiar said the $5bln commitment is typically milestone-dependent. Both parties declined to disclose financial terms, calling the investment "substantial." Safe Superintelligence said the funding will help it build the compute to exploit a research breakthrough it claims and increase available compute tenfold within 12 months.
-
----
-
-### 2026-07-28 01:42:16  #其他
-
-Microsoft AI：推出MAI-Cyber-1-Flash，這是我們自主研發的新型網路安全模型。
-
----
-
-### 2026-07-28 01:41:59  #MKT News
-
-Pakistan's Foreign Ministry condemned drone attacks targeting Saudi Arabia.
-
----
-
-### 2026-07-28 01:41:55  #國際
-
-巴基斯坦外交部：巴基斯坦譴責針對沙烏地阿拉伯的無人機襲擊。
-
----
-
-### 2026-07-28 01:41:47  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft AI launched MAI-Cyber-1-Flash, a new self-developed cybersecurity model.
-
----
-
-### 2026-07-28 01:40:23  #其他
-
-【國產手術機器人出口額大增330% “新新三樣”圈粉全球】近日舉辦的“在高質量發展中保障和改善民生”形勢政策系列報告會上，科技部黨組書記、部長陰和俊表示，被稱為“新新三樣”的人工智慧、機器人、創新藥正迅猛發展，有望形成新的支柱產業。某平臺資料顯示，7月13日至19日，中國大模型周呼叫量達36.11萬億詞元，環比增長30.93%，連續八週實現增長，連續十二週穩居全球首位。今年上半年，我國機器人出口額達62.9億元，產品銷往全球141個國家和地區，手術機器人出口額更是增長了3.3倍；上半年，我國創新藥對外授權交易額約1100億美元，全球醫藥交易前十榜單中國藥企佔據8席。（央視新聞）
-
----
-
-### 2026-07-28 01:40:06  #MKT News
-
-U.S. Representative Nancy Mace renewed calls for a one-year moratorium on new data center construction in South Carolina.
-
----
-
-### 2026-07-28 01:38:36  #其他
-
-惠譽評級：人工智慧市場的修正正成為主要信用風險。
-
----
-
-### 2026-07-28 01:37:17  #MKT News #Nasdaq100 #Impact bearish #S&P500 #DXY #Impact bullish
-
-Fitch Ratings: a correction in the AI market is becoming a major credit risk.
-
----
-
-### 2026-07-28 01:36:37  #國際
-
-美國聯邦通訊委員會（FCC）： SpaceX 星鏈路由器豁免有效期至 2028 年 1 月。
-
----
-
-### 2026-07-28 01:35:07  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【U.S. SPR crude stocks down ~3.7 mln barrels to lowest since March 1983】Refinitiv, citing DOE data, reports U.S. Strategic Petroleum Reserve (SPR) crude inventories fell about 3.7 mln barrels last week to 307.7 mln barrels, the lowest level since March 1983. The drawdown is part of an agreement to release 172 mln barrels from the reserve.
-
----
-
-### 2026-07-28 01:34:27  #國際
-
-美國聯邦通訊委員會（FCC）將SpaceX星鏈路由器移出管制清單，予以豁免。
-
----
-
-### 2026-07-28 01:31:26  #國際
-
-俄羅斯國防部：俄軍防空系統單日在俄羅斯多個地區、黑海及亞速海上空擊落 182 架烏克蘭無人機。
-
----
-
-### 2026-07-28 01:31:04  #MKT News
-
-Russian Defence Ministry: Russian air-defence systems shot down 182 Ukrainian drones in a single day, with targets across several Russian regions and over the Black Sea and the Sea of Azov.
-
----
-
-### 2026-07-28 01:28:07  #MKT News
-
-【Iran ambassador to Russia says Ukraine attack on Iranian ship a criminal act】Iran's ambassador to Russia Jalali said on July 27 that Ukraine's July 25 strike on an Iranian merchant vessel in the Caspian Sea was a criminal act, and that the ship was purely civilian with no military cargo. Tehran strongly condemned the attack and summoned Ukraine's chargé d'affaires in Iran.
-
----
-
-### 2026-07-28 01:28:06  #MKT News #UAL.N #Impact bearish
-
-The U.S. Federal Aviation Administration implemented ground delay measures at Newark Liberty Airport due to staffing issues.
-
----
-
-### 2026-07-28 01:27:24  #其他
-
-飛利浦二季度銷售43.6億歐元，分析師預期43.1億歐元。
-二季度可比銷售增長4.1%，分析師預期增長3.96%。
-二季度調整後EBITDA為7.17億歐元，分析師預期5.174億歐元。
-二季度調整後EBITDA利潤率為16.4%，分析師預期11.9%。
-
----
-
-### 2026-07-28 01:22:54  #國際
-
-【伊朗駐俄大使：烏克蘭襲擊伊朗船隻是犯罪行為】7月27日，伊朗駐俄羅斯大使賈拉利表示，烏克蘭對伊朗船隻的襲擊是犯罪行為，並強調這艘船完全是民用船隻，未載有任何軍用貨物。烏克蘭軍方25日在裡海襲擊一艘伊朗商船，伊方對此強烈譴責並召見烏克蘭駐伊朗臨時代辦。（央視）
-
----
-
-### 2026-07-28 01:21:50  #MKT News
-
-UAE Foreign Ministry said the UAE strongly condemns the aggressive attack against Jordan.
-
----
-
-### 2026-07-28 01:19:40  #國際
-
-美國聯邦航空管理局：紐瓦克機場因人員短缺出現航班延誤。
-
----
-
-### 2026-07-28 01:19:28  #國際
-
-馬克龍視察法國野火受災地區。
-
----
-
-### 2026-07-28 01:19:23  #MKT News
-
-French President MACRON visits wildfire-affected area.
-
----
-
-### 2026-07-28 01:19:17  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Fed accepted $1.38 billion from three counterparties in a fixed-rate reverse repurchase operation.
-
----
-
-### 2026-07-28 01:19:16  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Bahrain's state news agency condemned an attempted terrorist drone attack launched from Iraqi territory targeting oil facilities in Saudi Arabia.
-
----
-
-### 2026-07-28 01:18:58  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. Strategic Petroleum Reserve crude stocks fell about 3.7 mln barrels last week to 307.7 mln barrels, the lowest level since 1983.
-
----
-
-### 2026-07-28 01:17:22  #央行 #美聯儲
-
-週一（7月27日），美聯儲隔夜逆回購協議（RRP）使用規模為13.80億美元。
-
----
-
-### 2026-07-28 01:17:11  #央行 #國際
-
-週一（7月27日），美聯儲隔夜逆回購協議（RRP）使用規模為13.80億美元（交易對手3家），上個交易日報6.75億美元。
-
----
-
-### 2026-07-28 01:16:12  #焦點 #國際
-
-美國戰略石油儲備原油庫存上週減少約 370 萬桶，降至 3.077 億桶，創 1983 年以來新低。
-
----
-
-### 2026-07-28 01:14:56  #市場 #觀點 #央行 #國際
-
-【大摩：美聯儲決議前夕，投資者增持美元多頭頭寸】摩根士丹利策略師援引資料稱，在本週美聯儲與英國央行議息會議前夕，投資者已增持美元多頭及英鎊空頭頭寸。策略師Molly Nickolin、David Adams、Andrew Watrous在報告中寫道：“期權定價資料顯示，投資者增加了美元指數的多頭頭寸，並增加了英鎊的空頭頭寸。”他們表示：“期權資料指向美元多頭倉位，而期貨市場資料也表明美元倉位偏多。資產管理機構主要做多歐元、做空英鎊，而槓桿基金則主要做多英鎊、做空紐西蘭元。”
-
----
-
-### 2026-07-28 01:14:53  #市場 #國際
-
-美國農業部批准進口墨西哥牛隻，芝商所遠期飼牛期貨觸及單日跌停。
-
----
-
-### 2026-07-28 01:13:56  #MKT News
-
-SOUTH KOREA'S LEE says a potential trade agreement with Mercosur cannot wait and is urgent.
-
----
-
-### 2026-07-28 01:12:35  #國際
-
-韓國總統李在明：韓國與南方共同市場的潛在貿易協定刻不容緩，此事迫在眉睫。
-
----
-
-### 2026-07-28 01:11:27  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Iranian outlet Fars News, citing sources, reported that Israel shelled the Ali Tahir Heights in southern Lebanon.
-
----
-
-### 2026-07-28 01:09:09  #MKT News
-
-US Treasury said it removed 84 individuals and entities from its sanctions list as part of sanctions program modernization.
-
----
-
-### 2026-07-28 01:09:04  #MKT News #Copper
-
-SOUTH KOREA'S LEE says he and LULA agreed to expand cooperation on critical minerals.
-
----
-
-### 2026-07-28 01:08:56  #MKT News #Commodities #Energy #EURUSD #Impact bullish #DXY #Impact bearish
-
-Italy's Prime Minister Meloni has signed a decree to immediately cut diesel prices after international developments pushed up fuel costs.
-
----
-
-### 2026-07-28 01:08:47  #宏觀 #國際
-
-美國財政部：作為制裁體系現代化改革舉措的一部分，已有 84 名個人及實體從制裁清單中移除。
-
----
-
-### 2026-07-28 01:08:29  #國際
-
-韓國總統李在明：已與巴西總統盧拉達成共識，擴大關鍵礦產領域合作。
-
----
-
-### 2026-07-28 01:07:49  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.49% Higher — The FTSE MIB Index went up by 253 points or 0.49 percent on Monday to close at 52055 points. The rise was led by Ferrari NV (4.29%), Lottomatica (3.16%) and Buzzi Unicem (2.80%). On the downside, the weakerst performers were Prysmian (-3.78%), Tenaris (-2.82%) and Eni (-2.44%).
 
 ---

@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-02 07:06:21_
-_本檔包含 3591 則快訊，約 673495 字_
+_更新時間：2026-08-02 08:06:23_
+_本檔包含 3577 則快訊，約 672229 字_
+
+---
+
+### 2026-07-31 09:40:59  #Trading Economics #Economy #China #Business Confidence #Importance 3
+
+China Manufacturing Activity Contracts for the 1st Time in 5 Months — China’s official NBS Manufacturing PMI unexpectedly declined to 49.2 in July 2026 from 50.3 in the previous month, below market expectations of 50.0. It was the first contraction in factory activity since February, amid persistently weak domestic demand. Output shrank for the first time in five months (49.9 vs 51.4 in June), while new orders contracted after expanding in the previous month (49.9 vs 51.2), with foreign orders also returning to contraction (49.0 vs 50.1).
+
+---
+
+### 2026-07-31 09:40:56  #宏觀 #資料
+
+【國家統計局：7月份非製造業商務活動指數有所下降，文旅行業較為活躍】國家統計局服務業調查中心首席統計師霍麗慧解讀2026年7月中國採購經理指數，7月份，非製造業商務活動指數為49.0%，比上月下降1.2個百分點，非製造業景氣水平較上月回落。（一）文旅行業景氣回升。服務業商務活動指數為49.3%，比上月下降1.1個百分點，服務業市場活躍度有所回落。從行業看，在暑期消費帶動下，居民休閒娛樂和旅遊出行有所增加，航空運輸、住宿、文化體育娛樂等行業商務活動指數較上月明顯回升，相關企業業務總量增長較快；批發、貨幣金融服務等行業商務活動指數下降幅度較大，是本月服務業景氣度回落的主要因素；資本市場服務、房地產等行業商務活動指數低於臨界點。服務業業務活動預期指數為56.0%，與上月持平，企業對近期市場發展信心較為穩定。（二）建築業景氣水平下行。受近期部分地區高溫暴雨洪澇災害等不利因素影響，建築業施工進度有所放緩，商務活動指數為47.0%，比上月下降2.0個百分點。建築業業務活動預期指數為51.8%，比上月上升0.7個百分點，企業對近期行業發展信心有所增強。
+
+---
+
+### 2026-07-31 09:40:43  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bullish
+
+【Korea Investment & Securities says Samsung shift to long-term memory contracts improves earnings visibility】Korea Investment & Securities says Samsung Electronics’ move toward long-term memory-chip supply contracts is boosting earnings visibility and underpins a stronger profit outlook. The broker noted Samsung’s Q2 results beat expectations as memory prices surged, and new hyperscaler deals are helping stabilize demand and capacity utilisation. It raised Samsung’s target price 10% to KRW 650,000, kept a buy rating, and cited an improved earnings outlook and potential upside to HBM pricing.
+
+---
+
+### 2026-07-31 09:40:10  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China A-share electronic chemicals sector surged intraday; Fangbang Shares hit a 20% limit-up, Guanggang Gas and Haixing Shares locked at the daily limit, while Weiteou, Xingfu Electronics, Laite Optoelectronics and Zhongjuxin rallied more than 11%.
+
+---
+
+### 2026-07-31 09:39:59  #其他
+
+巴基斯坦官員31日說，該國西南部俾路支省一座煤礦30日發生爆炸，造成至少32名礦工死亡，另有10名礦工被困井下。（新華社）
+
+---
+
+### 2026-07-31 09:39:34  #市場 #國際
+
+中證500股指期貨(IC)主力合約日內漲超4%，現報7575.4點。
+
+---
+
+### 2026-07-31 09:39:28  #MKT News #Macro & Rates #USDJPY #Impact mixed
+
+【Daiwa Securities: Any intervention to support the yen may only buy time】Daiwa Securities chief FX strategist Kenta Tadaide said any surprise Japanese government intervention to support the yen may only be a stopgap to buy time. "To maximize the effect of FX intervention, monetary policy must remain aligned," he said, adding markets largely expect the Bank of Japan to keep policy rates unchanged at today's decision and are focused on the policy statement and Governor Kazuo Ueda's press conference.
+
+---
+
+### 2026-07-31 09:39:23  #Trading Economics #Economy #China #Non Manufacturing PMI #Importance 1
+
+China Services Activity Returns to Contraction — China's official NBS Non-Manufacturing PMI fell to 49.0 in July 2026 from 50.2 in June, pointing to a renewed contraction in non-manufacturing activity after two months of modest expansion and defying expectations of a flat reading. The business activity index for the services sector declined to 49.3 from 50.4, while the construction index dropped to 47.0 from 49.0. Within services, postal services, telecommunications, broadcasting, and culture and entertainment remained strong, with business activity indices above 55.0, while capital market services and real estate remained in contraction. Meanwhile, the new orders index fell to 44.4 from 48.0, with construction declining to 40.1 from 46.3 and services easing to 45.2 from 48.4. Input prices were unchanged at 49.7, while sales prices slipped to 47.9 from 48.4. Employment edged down to 45.4 from 45.8. Still, business expectations improved slightly to 55.4 from 55.3, indicating firms remained optimistic about future activity.
 
 ---
 
@@ -21530,137 +21578,5 @@ A-share storage-chip sector extended losses: Allwinner Technology down 12.5%, Yo
 ### 2026-07-30 10:21:00  #其他
 
 【安徽省獨角獸企業數量再創新高，總數穩居全國第六】據安徽省科技廳，長城戰略諮詢《中國獨角獸企業研究報告2026》《中國潛在獨角獸企業研究報告2026》顯示，2025年安徽省獨角獸企業數量增至19家、潛在獨角獸企業增至44家，均居全國第6位。安徽省獨角獸（潛在）企業分佈在9個城市，合肥作為核心集聚地，擁有14家獨角獸企業、33家潛在獨角獸企業，分別佔全省的73.7%、75%。蕪湖4家、滁州4家、蚌埠2家、宣城2家，淮南、安慶、六安、銅陵各1家。2025年新晉5家獨角獸企業，全部來自合肥；新晉12家潛在獨角獸企業，其中合肥10家，蕪湖、宣城各1家。安徽省94.7%的獨角獸企業和84.1%的潛在獨角獸企業獲得過省內政府引導基金投資，形成“精準招引+本土培育”雙輪驅動的培育路徑。從企業來源看，37家獨角獸（潛在）企業源於外部招引，佔比58.7%，其中近九成企業引進時是科創種苗企業，後期透過本地培育實現了晉級。本土培育的獨角獸（潛在）企業中，源於大企業孵化裂變10家、高校院所成果轉化8家、高層次人才團隊創業8家。
-
----
-
-### 2026-07-30 10:20:22  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-CENTCOM said more than 50,000 U.S. service members are currently deployed in the Middle East, remain on high alert and are prepared to conduct combat operations.
-
----
-
-### 2026-07-30 10:19:59  #MKT News
-
-Samsung Electronics said it has received about one-quarter of prepayments for its long-term service agreements.
-
----
-
-### 2026-07-30 10:19:45  #MKT News #005930.KS #Impact bullish
-
-Samsung Electronics said it expects its contract-manufacturing business to return to profitability in the near term.
-
----
-
-### 2026-07-30 10:19:20  #公司
-
-三星電子：預計晶圓代工業務短期內將轉虧為盈。
-
----
-
-### 2026-07-30 10:19:19  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-CENTCOM said it completed large-scale strikes against Iran in retaliation for an attempted missile attack on U.S. forces yesterday. The U.S. military struck dozens of Islamic Revolutionary Guard Corps targets.
-
----
-
-### 2026-07-30 10:18:37  #國際
-
-美國中央司令部稱打擊了伊朗境內數十個伊斯蘭革命衛隊目標。
-
----
-
-### 2026-07-30 10:18:10  #公司
-
-三星電子：目前已進入與另外五家大型客戶完成長期供應協議談判的最後階段。
-
----
-
-### 2026-07-30 10:18:04  #MKT News #Market Regions #Japan & APAC
-
-Japan's Chief Cabinet Secretary Kihara said on the 30th the Kumamoto earthquake has killed 28 people.
-
----
-
-### 2026-07-30 10:18:03  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
-
-Japan 10Y Yield Tracks US Treasury Yields Higher — Japan’s 10-year government bond yield climbed to around 2.78% on Thursday, following the rise in US Treasury yields after the Federal Reserve left interest rates unchanged, although three FOMC members dissented in favor of a rate hike. Chair Kevin Warsh also stressed that the decision to keep rates steady should not be viewed as a sign of policy inertia, adding that markets would continue to respond to incoming economic data. Meanwhile, the Bank of Japan is widely expected to leave interest rates unchanged on Friday while keeping the door open to additional rate hikes to contain inflationary pressures and help support the yen. Japanese government bond yields have remained volatile this month amid a worsening fiscal outlook, with Takaichi’s administration recently unveiling a massive spending package that could further add to the country’s debt burden.
-
----
-
-### 2026-07-30 10:17:49  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #EURUSD #Impact bullish #GBPUSD
-
-【DBS: Dollar may be pressured by Fed–other central bank forward-guidance divergence】DBS senior FX strategist Philip Wee said the dollar could be pressured by divergence in forward guidance after the Fed removed forward guidance and held rates steady. Wee said Fed chair Kevin Warsh’s move has left policy in a “monetary mirror maze,” increasing volatility and leaving markets groping in the dark. By contrast, the ECB’s unified signalling of a September rate hike gives the euro a clear relative advantage. If the Bank of England breaks consensus and unexpectedly hikes later today, the pound would likely strengthen.
-
----
-
-### 2026-07-30 10:17:18  #MKT News #005930.KS #Impact bullish
-
-Samsung Electronics said it has completed long-term agreement negotiations with the world’s top five data center customers.
-
----
-
-### 2026-07-30 10:17:13  #公司
-
-三星電子：已完成與全球前五大資料中心客戶的長期供應協議談判。
-
----
-
-### 2026-07-30 10:17:11  #MKT News #Macro & Rates #The Fed (FOMC)
-
-HKMA said the Fed's decision to keep rates unchanged was in line with market expectations and Hong Kong money and financial markets remain orderly.
-
----
-
-### 2026-07-30 10:17:03  #市場
-
-【CPO板塊持續走弱，劍橋科技跌停】CPO板塊持續走弱，劍橋科技跌停，新易盛、中際旭創、源傑科技、天孚通訊跌超10%，太辰光、傑普特、聯特科技等跟跌。
-
----
-
-### 2026-07-30 10:16:48  #其他
-
-【廣州推出首個現房銷售試點】7月29日，廣州市規劃和自然資源局南沙區分局公開掛牌出讓一宗住宅用地的使用權，要求競得者承諾在其中一個地塊執行現房銷售，而地方政府則給予土地出讓金分期繳納的支援。南沙區住房和城鄉建設局相關人士表示，這是廣州首個將“現房銷售承諾制”納入出讓條件的住宅專案，有效解決了“能否按時交房”的信任問題，下一步，該區將有序擴大現房銷售承諾制試點範圍，在更多優質地塊推廣這一模式，加快形成可複製經驗。（中國房地產報）
-
----
-
-### 2026-07-30 10:16:14  #MKT News #Important #CSI300 #Impact bullish #SSE Composite
-
-China A-share power-grid equipment stocks rallied intraday against the market; Haochuang Ruitong hit the daily limit-up after Guangdian Electric earlier did, while Jinzhi Technology, Kaifa Electric, Haixing Power and Sanxing Electric also advanced.
-
----
-
-### 2026-07-30 10:16:02  #其他
-
-【港股光通訊股走弱 中際旭創跌近9%】截至發稿，中際旭創(03308.HK)跌8.93%，華虹宏力(01314.HK)跌7.02%，劍橋科技(06166.HK)跌6.77%，長飛光纖光纜(06869.HK)跌4.57%。
-
----
-
-### 2026-07-30 10:15:16  #Trading Economics #Markets #Currency #Importance 1
-
-Asia FX Updates: South Korean Won Drops by 0.36% — Top currency loser is South Korean Won (-0.36%). Meanwhile, Japanese Yen and Chinese Yuan were little changed.
-
----
-
-### 2026-07-30 10:14:54  #公司
-
-【羅永浩錘子軟體上海分公司登出，剛成立不到1年】企查查APP顯示，近日，錘子軟體（北京）有限公司上海分公司發生工商變更，經營狀態從“存續”變更為“登出”。該公司成立於2025年12月，法定代表人管志良，經營範圍包含軟體開發、技術服務、人工智慧應用軟體開發、數字文化創意內容應用服務等。總公司錘子軟體（北京）有限公司成立於2014年5月，註冊資本1000萬元，由錘子科技（成都）股份有限公司全資持股，股權穿透顯示，羅永浩為實際控制人。今年5月，羅永浩在錘子軟體（北京）有限公司的職務由執行董事調整為董事，內部知情人士稱，此次職務調整為企業常規工商變更，屬於公司既定人事安排，無特殊變動原因。
-
----
-
-### 2026-07-30 10:14:37  #公司
-
-三星電子：正在評估收購海外機器人初創企業。
-
----
-
-### 2026-07-30 10:14:28  #市場
-
-富時中國A50指數期貨跌超1%。
-
----
-
-### 2026-07-30 10:13:48  #Trading Economics #Markets #Japan #Currency #Importance 1
-
-Yen Strengthens on Broad Dollar Weakness — The Japanese yen traded around 163.5 per dollar on Thursday after rebounding in the previous session, supported by broad dollar weakness following the Federal Reserve’s decision to leave interest rates unchanged. However, three FOMC members dissented in favor of a rate hike, while Chair Kevin Warsh emphasized that the decision to keep rates steady should not be viewed as a sign of policy inertia, adding that markets would continue to respond to incoming economic data. Meanwhile, the Bank of Japan is widely expected to leave interest rates unchanged on Friday while signaling that additional rate hikes remain possible to help curb the yen’s weakness. Verbal intervention from Japanese authorities has so far done little to support the currency, while the BOJ has remained vague about the timing of further policy tightening. On the geopolitical front, the US was reportedly carrying out fresh air strikes on Iran following attacks on American forces in the region.
 
 ---
