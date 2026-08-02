@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-02 18:18:51",
-  "count": 17931,
+  "updated": "2026-08-02 18:22:54",
+  "count": 17929,
   "items": [
+    {
+      "id": "mkt:019fc1fe-a1a5-7aab-8f46-60d41a934b7e",
+      "time": "2026-08-02 18:21:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran denies reports it agreed to reopen Strait of Hormuz】Iran denied reports it had agreed to reopen the Strait of Hormuz, saying no agreement has been reached and calling such reports rumors, sources said. A military source added that if the United States continues hostile actions the strait will remain closed; vessels may only use published routes and must obtain permission from the IRGC Navy to transit. Earlier, Israel’s Channel 12 reported Foreign Minister Araghchi had overnight accepted a proposal from the US and Qatar to reopen the strait and that this prompted President Trump to call off planned strikes on Iran."
+    },
+    {
+      "id": "5020858",
+      "time": "2026-08-02 18:19:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【索辰科技與義益鈦迪達成戰略合作】7月30日，上海索辰資訊科技股份有限公司（簡稱“索辰科技”）與杭州義益鈦迪資訊科技有限公司（簡稱“義益鈦迪”）舉行戰略合作簽約儀式。雙方將依託各自核心技術優勢，正式開啟深度協同合作，聚焦工業物理AI落地難題，共建“模擬數字空間+工業現場控制”全鏈路閉環體系，攜手打造國產化智慧製造創新解決方案，助力國內工業產業智慧化、數字化升級。"
+    },
+    {
+      "id": "5020857",
+      "time": "2026-08-02 18:18:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版實時資料，截至8月2日18時16分，影片《年會不能停！2》票房突破8000萬。（燈塔專業版）"
+    },
     {
       "id": "5020856",
       "time": "2026-08-02 18:17:50",
@@ -166123,46 +166150,6 @@
         "國際"
       ],
       "text": "俄羅斯航天局稱，飛船將兩名俄羅斯宇航員和一名美國宇航員在執行太空任務後帶回地球。"
-    },
-    {
-      "id": "5008506",
-      "time": "2026-07-26 18:21:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "迅策科技<3317.HK>稱，公司與深圳開鴻數字簽署合作協議，共同探索Token工廠系統。"
-    },
-    {
-      "id": "5008505",
-      "time": "2026-07-26 18:21:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國內機場兩天取消航班超1800架次】航旅縱橫民航官方直銷平臺大資料顯示，7月25日0時至7月26日14時，各航司在國內機場臨時取消的進出港航班累計超1800架次。截至26日16時30分，廣州白雲機場、深圳寶安機場、珠海金灣機場、揭陽潮汕機場、廈門高崎機場等34個機場釋出雷雨天氣預警，其中深圳寶安機場、佛山沙堤機場、揭陽潮汕機場、惠州平潭機場等多個機場航班大面積取消。（第一財經）"
-    },
-    {
-      "id": "5008504",
-      "time": "2026-07-26 18:20:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：巴西總統盧拉在專欄文章中批評美國關稅。"
-    },
-    {
-      "id": "5008503",
-      "time": "2026-07-26 18:20:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統：美襲擊伊朗民用基礎設施是“明顯的戰爭罪行”】當地時間26日，伊朗總統佩澤希齊揚和道路與城市發展部負責人舉行會議時聽取了有關邊境口岸、港口、公路和鐵路網路等交通基礎設施受損情況的彙報。佩澤希齊揚表示，美國對伊朗這些民用基礎設施發動的襲擊是“明顯的戰爭罪行”，並強調應透過有關國際組織和機構對上述行為依法追責。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f9df0-6e98-7aab-8e99-db06a5341dc8",
-      "time": "2026-07-26 18:20:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Jerusalem Post reports the Israeli security cabinet is expected to discuss a new Gaza proposal drafted by the Peace Committee (BoP)."
     }
   ]
 }
