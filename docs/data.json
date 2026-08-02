@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-03 00:22:45",
-  "count": 17912,
+  "updated": "2026-08-03 00:28:49",
+  "count": 17909,
   "items": [
+    {
+      "id": "5020972",
+      "time": "2026-08-03 00:23:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會國家安全委員會：調停方正提供協助，以期重啟與美國的諒解備忘錄談判。各方正就所有議題交換意見。"
+    },
     {
       "id": "5020971",
       "time": "2026-08-03 00:19:02",
@@ -166002,40 +166010,6 @@
         "MKT News"
       ],
       "text": "Russia's Foreign Ministry said on July 26 that, at Iran's request, Foreign Minister Lavrov held a phone call with Iranian counterpart Araghchi."
-    },
-    {
-      "id": "5008662",
-      "time": "2026-07-27 00:27:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗譴責美方襲擊救援船隻，稱此舉違反人道主義法。"
-    },
-    {
-      "id": "mkt:019f9f40-fa22-7aab-8e9b-60759a99fbf2",
-      "time": "2026-07-27 00:27:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Gaza Peace Committee head said the committee welcomes Israel's steps to facilitate deployment of international forces."
-    },
-    {
-      "id": "mkt:019f9f40-81f3-7aab-8e9b-5bf3fed3d7aa",
-      "time": "2026-07-27 00:27:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Head of the Gaza Peace Committee said the immediate priority is to ensure progress on implementing the Gaza plan, including the mediator‑proposed roadmap."
-    },
-    {
-      "id": "mkt:019f9f3d-3565-7aab-8e9b-51c53045a5c9",
-      "time": "2026-07-27 00:23:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK defence secretary said Europe will thank Trump for forcing it toward greater self-reliance; Britain does not always agree with Trump or his methods, but his pressure helped prevent complacency."
     }
   ]
 }
