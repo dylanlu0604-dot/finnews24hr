@@ -1,7 +1,31 @@
 {
   "date": "2026-08-02",
-  "count": 244,
+  "count": 247,
   "items": [
+    {
+      "id": "5020686",
+      "time": "2026-08-02 12:56:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯當局稱隔夜摧毀了635架烏克蘭無人機。"
+    },
+    {
+      "id": "5020685",
+      "time": "2026-08-02 12:56:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國氣象廳訊息：氣溫創下紀錄。"
+    },
+    {
+      "id": "mkt:019fc0d4-2254-7aab-8f45-41db321f1644",
+      "time": "2026-08-02 12:55:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian authorities said they destroyed 635 Ukrainian drones overnight."
+    },
     {
       "id": "5020684",
       "time": "2026-08-02 12:52:34",
