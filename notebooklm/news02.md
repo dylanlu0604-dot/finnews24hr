@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-02 23:14:16_
-_本檔包含 3562 則快訊，約 670134 字_
+_更新時間：2026-08-03 00:33:04_
+_本檔包含 3560 則快訊，約 669362 字_
+
+---
+
+### 2026-07-31 14:11:18  #MKT News
+
+Azerbaijan central bank raises end-2026 inf forecast to 6.1% from 5.9%.
+
+---
+
+### 2026-07-31 14:11:16  #其他
+
+鴻海旗下VisionBay.AI：在臺灣地區推出由英偉達HGX B300系統驅動的5MW人工智慧叢集。
+
+---
+
+### 2026-07-31 14:11:06  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #Market Regions #Greater China #NVDA.O #Impact bullish #2317.TW
+
+VisionBay.AI, a unit of Foxconn, launched a 5MW AI cluster in Taiwan powered by NVIDIA HGX B300 systems.
+
+---
+
+### 2026-07-31 14:10:35  #公司
+
+訊息人士稱，阿布扎比國家石油公司（ADNOC）以5.9億美元收購5艘二手超大型原油運輸船。
+
+---
+
+### 2026-07-31 14:10:23  #MKT News #Commodities #Energy
+
+Sources said Abu Dhabi National Oil Company bought five second-hand VLCCs for $590 million.
+
+---
+
+### 2026-07-31 14:09:07  #MKT News #Star Stocks #AMZN.O #Impact bullish
+
+TD Cowen raised its PT on Amazon (AMZN.O) to $350 from $340.
+
+---
+
+### 2026-07-31 14:08:49  #其他
+
+TD考恩將亞馬遜目標價從340美元上調至350美元。
+
+---
+
+### 2026-07-31 14:07:32  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
+
+European Stocks Poised for Strong Open — European equity markets were set to open higher on Friday, building on the previous session’s gains as sentiment improved amid a global rally in technology stocks and renewed optimism surrounding the artificial intelligence sector. Semiconductor shares in the US and Asia led the advance, with strong earnings from Microsoft and Amazon reinforcing confidence in continued hyperscaler investment and resilient AI-driven demand. In Europe, investors will focus on July inflation data from the Eurozone, France, and Italy, along with Germany’s latest unemployment figures. On the corporate front, earnings reports are due from Linde, Enel, AXA, ENGIE, and NatWest, among others. In premarket trading, futures for both the Euro Stoxx 50 and the Stoxx 600 were up around 0.8%.
+
+---
+
+### 2026-07-31 14:06:19  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
+
+Al Jazeera, citing sources, reported that dozens of Israeli settlers, under protection of the Israeli military, are storming the western part of Nablus.
+
+---
+
+### 2026-07-31 14:06:09  #市場 #國際
+
+日本10年期國債收益率下跌0.5個基點，至2.79%。
+
+---
+
+### 2026-07-31 14:06:03  #公司
+
+【宇瞳光學等成立科技公司，含光電子器件製造業務】企查查APP顯示，近日，深圳宇瞳光互連科技有限公司成立，法定代表人為何敏超，經營範圍包含：光學儀器製造；光學儀器銷售；電子元器件製造；電子元器件零售；光電子器件製造；光電子器件銷售等。企查查股權穿透顯示，該公司由宇瞳光學全資子公司東莞市宇瞳精密光學有限公司等共同持股。
+
+---
+
+### 2026-07-31 14:05:18  #市場
+
+【直擊ChinaJoy 2026 ：宇樹科技攜4臺G1系列人形機器人現場熱舞】今日，第二十三屆ChinaJoy在上海新國際博覽中心正式開幕。宇樹科技攜人形機器人、 四足機器人、行業解決方案及資料採集方案等全產品矩陣亮相。新浪科技在現場看到，量產級人形機器人G1是本次舞臺展示主力，現場四臺G1透過定位群控完成整齊劃一的舞蹈編排。據瞭解，G1整機約132cm 高、約35kg重，擁有23至43個關節自由度，是宇樹人形機器人量產化的核心產品。（新浪科技）
+
+---
+
+### 2026-07-31 14:05:00  #公司
+
+【小鵬汽車、智元機器人等將率先接入Seedance 2.5】火山引擎訊息，今天，新一代影片生成模型Seedance 2.5正式釋出。針對企業使用者，火山引擎將於近期上線API服務。徐工集團、小鵬汽車、智元機器人、靈初智慧、微分智飛、穹徹智慧、Xspark AI（無界智航）等多家企業已與火山引擎達成合作意向，將率先接入Seedance 2.5。
+
+---
+
+### 2026-07-31 14:04:34  #Trading Economics #Economy #United Kingdom #Nationwide Housing Prices YoY #Importance 2
+
+UK House Price Growth Slows in July — The UK Nationwide House Price Index rose 1.8% year-on-year in July 2026, slowing from a 2.2% increase in June and coming in slightly below market expectations of a 1.9% gain. Nationwide Chief Economist Robert Gardner said renewed geopolitical tensions, particularly the conflict involving Iran and the US, have pushed up energy prices and contributed to volatility in market interest rate expectations. However, he noted that easing consumer inflation and moderating wage growth have given the Bank of England greater scope to assess whether further policy tightening is needed to return inflation to target. Gardner also highlighted that the latest housing survey showed the average length of residence has remained broadly stable at around 14 years, with outright homeowners staying in the same property for nearly 24 years on average, while private renters typically remain in a home for around five years. On a monthly basis, house prices edged up 0.1%, following a flat reading in June.
 
 ---
 
@@ -21392,101 +21476,5 @@ Switzerland's July KOF leading indicator due in 10 minutes.
 ### 2026-07-30 14:48:57  #Trading Economics #Economy #Hungary #Balance of Trade #Importance 1
 
 Hungary Trade Surplus Widens Sharply in June — Hungary’s trade balance posted a surplus of EUR 1,305.4 million in June 2026, widening sharply from EUR 786.8 million in the corresponding month of the previous year, as export growth outpaced imports. Exports jumped 21% year-on-year to EUR 14,944.5 million, driven largely by higher sales of machinery and transport equipment and food, beverages, and tobacco, which more than offset the declines in energy carriers. By trade partners, exports both increased in the EU (+6.8%) and non-EU countries (+11%). Meanwhile, imports advanced by 18% to EUR 13,639.0 million, lifted by increased purchases of processed products and machinery and transport equipment. Imports recorded an increase in EU (+3.4%) and non-EU countries (+12%). For the first half of 2026, the trade surplus narrowed to EUR 5,044.6 million from EUR 5,749.3 million a year earlier, as exports rose by 8.3%, while imports grew at a faster 10%.
-
----
-
-### 2026-07-30 14:48:20  #宏觀 #資料 #其他
-
-【福建：上半年全省社會融資規模增加5800.4億元】據福建釋出，7月30日上午，福建省人民政府新聞辦公室召開2026年上半年福建省金融執行情況新聞釋出會，釋出會上通報了2026年上半年福建省金融執行有關情況，上半年，福建全省社會融資規模增加5800.4億元。6月末，全省金融機構本外幣各項貸款餘額9.1萬億元，同比增長2.9%。本外幣各項存款餘額9.6萬億元，同比增長7.8%。
-
----
-
-### 2026-07-30 14:47:26  #其他
-
-D.A.戴維森將Meta目標股價從850美元下調至700美元。
-
----
-
-### 2026-07-30 14:47:11  #Trading Economics #Economy #Hungary #GDP Annual Growth Rate #Importance 1
-
-Hungary Q2 GDP Growth Strongest Since 2024 — Hungary’s gross domestic product expanded by 1.7% year-on-year in the second quarter of 2026, the same pace as in the previous three-month period, according to preliminary estimates. The latest reading fell short of market expectations for a 1.9% expansion but remained the strongest growth since the second quarter of 2024, driven largely by robust performance in the services sector, particularly in professional, scientific, technical, and administrative activities. The industrial sector also continued to contribute positively to the overall economic growth. On a seasonally adjusted quarterly basis, the economy grew by just 0.4% in Q2 2026, slowing from a 0.8% expansion in the preceding period.
-
----
-
-### 2026-07-30 14:47:04  #公司
-
-【網易公司副總裁龐大智：中國遊戲行業亟須從“微創新”轉向更高維度的“原創力”】今日，2026中國國際數字娛樂產業大會（CDEC）高峰論壇在上海舉行。會上，網易公司副總裁龐大智發表演講並分享觀點。他認為，中國遊戲行業亟須從“微創新”轉向更高維度的“原創力”。龐大智表示，中國遊戲產業在過去二十幾年間完成了體量上的蛻變，靠的是務實的本地化創新和不斷提升的工業化研發能力；但當行業進入成熟階段、玩家審美成倍拔高，傳統的微創新空間正在縮小，行業真正呼喚的是更高維度的“原創力”。“原創的本質，是對前人未曾實現過的體驗的極致追求，也是推動行業從‘規模增長’邁向‘質量引領’的關鍵。”龐大智在會上說道。（新浪科技）
-
----
-
-### 2026-07-30 14:47:03  #市場 #其他 #焦點 #A股
-
-【創業板ETF易方達成交額重新整理年內次高記錄】截至發稿時間，創業板ETF易方達（159915）成交額163億元超越2026年7月17日的年內次高紀錄，7月份該ETF累計申贖淨流入320.26億元，最新規模為658億元。科創50ETF華夏（588000）成交額145億元重新整理年內第3高記錄，7月份該ETF累計申贖淨流入389.22億元，最新規模為863億元。
-
----
-
-### 2026-07-30 14:46:13  #其他
-
-【集邦諮詢：2027年儲存器市場走勢分化 DRAM供給持續緊缺 NAND Flash轉趨寬鬆】根據TrendForce集邦諮詢最新儲存器產業研究，2027年儲存器需求仍由AI應用主導，DRAM因HBM持續排擠產能、AI Server需求強勁，CPU所用的儲存器與HBM採購動能持續增加，市場維持供給緊張格局，價格走勢偏強。NAND Flash在新產能集中釋放、終端消費需求持續走弱的情況下，2027年下半年供給將趨向寬鬆，價格可能面臨修正壓力。
-
----
-
-### 2026-07-30 14:45:49  #Trading Economics #Markets #Commodity #Importance 0
-
-Coal Holds Firm as Chinese Demand Picks Up — Thermal coal futures held steady around $130 per ton in late July, even as coal demand in China strengthened after a relatively mild start to summer gave way to hotter weather, driving greater air conditioner use and electricity consumption. Central and eastern China have been gripped by widespread hot and humid conditions as two high-pressure systems combined to form a heat dome. Despite the pickup in demand, China’s coal inventories remain elevated, while domestic production continues to face constraints after a fatal accident in Shanxi in late May triggered extensive safety inspections. In Indonesia, supply concerns also lent support to coal prices as dry weather disrupted coal barging operations along the Barito River in Kalimantan, a vital transport route for the country’s coal exports, with some miners reportedly declaring force majeure on affected shipments.
-
----
-
-### 2026-07-30 14:45:36  #公司
-
-日月光半導體制造股份有限公司第二季度營收為新臺幣1910.64億元。
-
----
-
-### 2026-07-30 14:45:26  #公司 #國際
-
-【健達九州完成數億元人民幣A輪融資】7月30日，健達九州（北京）生物科技有限公司（簡稱“健達九州”）宣佈完成數億元人民幣A輪融資。本輪融資由太平醫療健康基金領投、老股東華泰紫金旗下基金追加。高榕創投、達晨財智、中信資本、博拓生物腦機基金等多家機構跟投，北京市醫藥健康產業投資基金、凱風創投等老股東持續加註。熙橋資本擔任本輪融資財務顧問。據健達九州介紹，本輪融資資金將重點用於推進公司多條核心管線的臨床驗證，加速後備管線研發及中美雙報程序，並進一步強化公司在化學遺傳學、光遺傳學等前沿腦科學技術領域的平臺能力，持續產出利用精準神經調控治療難治性腦疾病的全球創新型藥物。
-
----
-
-### 2026-07-30 14:45:09  #其他
-
-法國二季度私營部門就業人數季環比初值 -0.1%，預期 -0.1%，前值 -0.1%。
-
----
-
-### 2026-07-30 14:44:56  #其他
-
-【國產百噸級純電動無人礦卡投運】國家電投百噸級純電動雙向行駛無人駕駛礦用自卸車在內蒙古某礦場成功投運。該車搭載先進的無人駕駛系統，實現了自動裝載、自主行駛與精準卸料的全流程閉環作業。採用定製化純電傳動系統，實現了運輸環節的零排放，有效解決了高油耗、高汙染的痛點。新型“充換一體”技術配合半固態動力電池，破解了電動重卡充電時間長的瓶頸。最特別的是，它創新性採用4×4全輪轉向和雙向行駛架構，區別於傳統車輛的短距離倒車，它既可向前行駛，也可向後行駛，更無需大半徑掉頭，大幅提升生產效率。（央視新聞）
-
----
-
-### 2026-07-30 14:44:33
-
-【中共中央政治局會議：多措並舉加強民生保障 做好靈活就業人員和新就業形態人員權益保障工作】中共中央政治局7月30日召開會議，會議指出，要多措並舉加強民生保障，加大重點群體就業支援力度，做好靈活就業人員和新就業形態人員權益保障工作。抓好“一老一小”服務保障，健全分層分類的社會救助體系。加強生態環境保護，打好“三北”工程攻堅戰，積極穩妥推進碳達峰碳中和。（新華社）
-
----
-
-### 2026-07-30 14:42:51  #其他
-
-SK創新：市場環境預計將走弱，原因是歐佩克+增產，加之第三季度亞洲煉油開工率上升，油價和煉油利潤率均出現回落。
-
----
-
-### 2026-07-30 14:42:23  #宏觀 #焦點
-
-【中共中央政治局：穩定生豬等農畜產品生產和價格 促進農民穩定增收】中共中央政治局7月30日召開會議，會議強調，要毫不放鬆做好“三農”工作，持續鞏固拓展脫貧攻堅成果，建立健全高標準農田建設、運營、管護機制，穩定生豬等農畜產品生產和價格，促進農民穩定增收。做好農資保供穩價，抓好農業生產，奪取秋糧和全年糧食豐收。
-
----
-
-### 2026-07-30 14:41:36  #公司
-
-SK創新：第二季度淨利潤為2150億韓元，倫敦證券交易所集團市場預期為9150億韓元。
-
----
-
-### 2026-07-30 14:41:27  #其他
-
-【土耳其多地野火蔓延 熱門景區受影響】受高溫、乾燥和強風天氣影響，土耳其29日多地發生野火。消防部門出動大量人員撲救，部分熱門旅遊景區受影響，數百人被緊急疏散。土耳其總統埃爾多安當晚說，當天全國發生約90起火災，其中81起已得到控制，超過3000名消防人員正在撲救其餘火災。據當地媒體報道，目前暫無人員傷亡報告。（央視新聞）
 
 ---

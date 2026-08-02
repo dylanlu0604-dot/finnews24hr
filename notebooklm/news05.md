@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-02 23:14:16_
-_本檔包含 3489 則快訊，約 670442 字_
+_更新時間：2026-08-03 00:33:04_
+_本檔包含 3461 則快訊，約 669411 字_
+
+---
+
+### 2026-07-28 10:03:37  #國際
+
+【沙特與阿曼磋商霍爾木茲海峽通行問題】沙烏地阿拉伯外交大臣費薩爾與阿曼外交大臣巴德爾27日通電話，討論雙邊關係、地區局勢和霍爾木茲海峽通行等問題。據沙特通訊社報道，雙方討論有關共同利益的多個事項，強調將保持協調與磋商，透過推進外交努力維持地區安全和穩定、確保霍爾木茲海峽航行安全與自由。同日，伊朗外交部發言人巴加埃表示，伊朗與阿曼正就霍爾木茲海峽問題展開會談，該會談與美國無關，是伊朗和阿曼的“雙邊事務”。（新華社）
+
+---
+
+### 2026-07-28 10:03:29  #其他
+
+【訊息稱SK海力士計劃下半年量產LPDDR6】訊息稱，SK海力士計劃於2026年下半年開始量產並出貨新一代低功耗移動DRAM產品LPDDR6。SK海力士已於2026年3月完成LPDDR6產品開發，目前正在推進量產準備工作。LPDDR6採用第六代10nm級（1c）工藝製造，相比上一代產品在資料處理速度和功耗控制方面有所提升。（科創板日報）
+
+---
+
+### 2026-07-28 10:02:54  #Trading Economics #Markets #Commodity #Importance 1
+
+EU Natural Gas Holds Decline — European natural gas prices hovered around €56.7 per MWh on Tuesday, holding most of the sharp decline from the previous session as President Donald Trump expressed optimism about diplomatic efforts to ease tensions with Iran. Trump said on Monday that the US and Tehran were having "good talks" and that there was a chance of reaching a deal, but he warned that US strikes would resume if negotiations failed. His comments followed a pause in hostilities between the two sides to allow room for diplomacy. Despite this, concerns over Europe’s gas supply persist, with the bloc's storage levels at risk of falling short of its winter refill targets. The renewed escalation of the conflict in early July disrupted the recovery of LNG exports from Qatar, the Middle East’s largest LNG supplier, and with the Strait of Hormuz still largely closed, it remains uncertain when additional supplies from the region could reach global markets.
+
+---
+
+### 2026-07-28 10:02:40  #公司 #其他 #焦點
+
+長鑫科技翻紅，此前一度跌超7%。
+
+---
+
+### 2026-07-28 10:02:32  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+China Stocks Fall on Semiconductor Rout — The Shanghai Composite dropped 0.6% to 3,836 on Tuesday, while the Shenzhen Component tumbled 2.2% to 13,841, with both benchmarks reversing gains from the previous session as renewed selling pressure swept through semiconductor stocks. The sector came under pressure as growing investor concerns over whether massive AI investments will generate sufficient returns weighed on chipmakers. The selloff came after the blockbuster debut of memory-chip maker CXMT, whose IPO had fueled a sharp rally in semiconductor shares amid strong retail demand, attractive valuations, and continued state-backed support for equity markets. Among the biggest decliners were Cambricon Technologies (-2.7%), SMIC (-1.5%), GigaDevice Semiconductor (-7.5%), Zhongji Innolight (-7.1%), and Eoptolink Technology (-6.7%). Investors are now turning their attention to the Politburo meeting later this week, where policymakers are widely expected to outline the economic policy agenda for the second half of the year.
+
+---
+
+### 2026-07-28 10:02:30  #MKT News #Important #000660.KS #Impact bearish #005930.KS
+
+South Korea's KOSPI plunged 9% intraday to 6,143.85, with SK Hynix down more than 12% and Samsung Electronics down over 10%.
+
+---
+
+### 2026-07-28 10:02:24  #國際
+
+韓國KOSPI指數跌幅擴大至9.2％，SK海力士跌超12%，三星電子跌超10%。
+
+---
+
+### 2026-07-28 10:02:16  #MKT News #Important #Market Regions #Greater China
+
+A-share Changxin turned positive intraday, up 0.8% at 49.65 yuan, turnover above 18 bln yuan.
+
+---
+
+### 2026-07-28 10:02:08  #其他
+
+【教育部：國家助學貸款惠及學生超3000萬人】7月28日，教育部召開新聞釋出會，介紹國家助學貸款等學生資助工作情況。截至2025年底，國家助學貸款累計發放6958億元、惠及學生超3000萬人。
+
+---
+
+### 2026-07-28 10:01:25  #宏觀
+
+【教育部：2025年全國累計資助學生近1.6億人次】從教育部獲悉，2025年，教育部會同財政部等有關部門，圍繞完善覆蓋全學段學生資助體系等重點任務，推動學生資助工作取得新進展新成效。2025年，全國學生資助資金投入超3900億元，較上年增長超14%。財政投入約2400億元，佔資助資金總額的六成，是資助資金的主要來源。值得關注的是，2025年，國家助學貸款發放金額達到1277億元，較上年增長34%，約佔資助資金總額的三分之一。2025年學生資助資金投入持續增長，財政投入始終佔據主導地位。2025年，全國累計資助學生近1.6億人次，較2024年增長超5%。學前教育階段，學前一年免除保育教育費政策惠及超過1400萬在園兒童。義務教育階段，1877萬名家庭經濟困難學生獲得生活補助，2758萬名學生享受營養改善計劃。中等職業教育，2萬名學生獲得國家獎學金，1279萬名學生享受免學費，407萬名學生享受國家助學金。普通高中，465萬名學生享受國家助學金，199萬名學生享受免學雜費。高等教育階段，21萬名學生獲得國家獎學金，122萬名學生獲得國家勵志獎學金，264萬名學生獲得研究生學業獎學金，1271萬名學生享受國家助學金，852萬名學生辦理國家助學貸款。
+
+---
+
+### 2026-07-28 10:01:06  #市場 #焦點
+
+北證50日內漲幅達1.03%，成分股中，國子軟體漲7.98%，同惠電子漲7.01%，納科諾爾漲6.31%，萬達軸承漲4.48%。
+
+---
+
+### 2026-07-28 10:00:56  #MKT News #Market Regions #Greater China #00553.HK #Impact bullish #06681.HK #02172.HK
+
+Hong Kong-listed brain–computer interface stocks advanced: Nanjing Panda Electronics (00553.HK) rose over 9%, while Naodong Jiguang-B (06681.HK) and MicroPort BrainScience (02172.HK) climbed more than 4%.
+
+---
+
+### 2026-07-28 10:00:28  #其他
+
+【生態環境部：上半年全國生態環境總體改善】在今天（28日）上午舉行的7月例行新聞釋出會上，生態環境部有關負責人介紹，今年上半年，全國空氣質量穩中向好，地表水環境質量總體穩定。今年上半年，全國339個地級及以上城市PM2.5平均濃度為29.9微克/立方米，同比下降6.6%；PM10平均濃度為50微克/立方米，同比下降7.4%；平均空氣質量優良天數比例為82.8%，同比上升4.5個百分點；平均重度及以上汙染天數比例為1%，同比下降0.5個百分點。地表水方面，全國地表水Ⅰ—Ⅲ類水質比例為87.4%，同比上升3個百分點；劣Ⅴ類斷面比例為0.9%，同比下降1.2個百分點。長江、黃河等七大流域及西北諸河、西南諸河和浙閩片河流Ⅰ—Ⅲ類水質比例為88.1%，同比上升3個百分點；劣Ⅴ類斷面比例為0.8%，同比下降1.2個百分點。監測的145個重點湖（庫）中，Ⅰ—Ⅲ類水質湖庫個數佔比75.9%，同比上升3.5個百分點；劣Ⅴ類水質湖庫個數佔比3.4%，同比下降0.7個百分點。
+
+---
+
+### 2026-07-28 10:00:09  #市場
+
+新易盛盤中跌10.08%，現報441.53元。
+
+---
+
+### 2026-07-28 10:00:09  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
+
+Taiwan Stocks Hit Over 2-Month Low on Tech Selloff — The TAIEX, Taiwan’s benchmark stock index, slumped 1,512 points, or 3.5%, to 42,123 in Tuesday morning trade, down for the third consecutive session and marking its lowest level since May 21, as a global selloff in chipmakers weighed on technology heavyweights. Almost all sectors traded in the red, led by process industries, followed by electronic technology, technology services, and industrial services. Reports that a Chinese state-backed firm began producing immersion DUV lithography equipment and the debut of ChangXin Memory Technologies (CXMT) further pressured sentiment. Electronic technology plunged 3.9%, with TSMC, the world's largest contract chipmaker, accounting for more than 40% of the market's total value, falling 2.6% after being flat in the previous session. Meanwhile, MediaTek and Delta Electronics plunged 6.7% and 7.4%, respectively. Among the major memory chip suppliers, Nanya Technology Corp. slumped 9.8%, while Winbond Electronics Corp. plunged 10.0%.
+
+---
+
+### 2026-07-28 09:59:19  #MKT News #Important #Market Themes #China EV Leaders #01211.HK #Impact bullish #02015.HK #09868.HK
+
+Hong Kong auto shares rallied in choppy trade. NewGiao RV (00805.HK) jumped more than 14%; Li Auto (02015.HK) rose over 3.5%. XPeng (09868.HK), Geely Automobile (00175.HK), Chery Automobile (09973.HK), BYD (01211.HK) and SERES (09927.HK) each advanced more than 2%.
+
+---
+
+### 2026-07-28 09:59:10  #其他
+
+新加坡國家發展部：額外買家印花稅政策調整。
+
+---
+
+### 2026-07-28 09:57:44  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
+
+China's CSI 500 index futures (IC) most-active contract fell 2.00% intraday to 7,451.0 points.
+
+---
+
+### 2026-07-28 09:57:33  #MKT News #Market Themes #China EV Leaders
+
+BYD Auto Japan launched "RACCO", an electric microcar, with a pre-tax, pre-subsidy starting price of ¥1.95m.
+
+---
+
+### 2026-07-28 09:57:21  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
+
+China A-share copper-cable and high-speed connectivity sector pulled back; Dingtong Technology, Taichen Guang, Zhongfu Circuit, Yangtze Optical Fibre and Cable and Huagong Technology each fell more than 5%, with Yihua Co. and Changxin Bochuang also lower.
+
+---
+
+### 2026-07-28 09:56:59  #其他
+
+【港股腦機介面概念持續走高 南京熊貓漲超9%】港股腦機介面概念持續走高，南京熊貓漲超9%，腦洞極光漲超4%。
+
+---
+
+### 2026-07-28 09:56:43  #公司 #國際
+
+比亞迪日本公司推出"RACCO"電動微型車，稅前及補貼前起售價195萬日元。
 
 ---
 
@@ -20749,305 +20881,5 @@ Iran's embassy in France said the Strait of Hormuz is a heritage passed down thr
 ### 2026-07-27 00:38:05  #國際
 
 伊朗官員：過去兩日伊朗與阿曼官員的會談富有建設性，旨在恢復霍爾木茲海峽通航的談判也取得積極進展。
-
----
-
-### 2026-07-27 00:31:59  #MKT News #Brent #Impact bearish
-
-Russian Foreign Ministry said Alagazzi briefed Lavrov on ongoing diplomatic efforts to ease Middle East tensions triggered by US strikes on Iran.
-
----
-
-### 2026-07-27 00:31:31  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Russia's foreign minister expressed sincere condolences over a July 25 Ukrainian drone strike on an Iranian merchant ship that killed one Iranian crewman, the Russian foreign ministry said. Alagazi thanked Astrakhan authorities for assisting the attacked vessel's crew and stressed the need to prevent Kyiv from carrying out similar risky actions.
-
----
-
-### 2026-07-27 00:31:13  #國際
-
-以色列總理內塔尼亞胡：儘管與紐約市長馬姆達尼因國際刑事法院對其簽發逮捕令一事產生分歧，但仍計劃前往紐約出席聯合國大會。
-
----
-
-### 2026-07-27 00:30:17  #MKT News
-
-Russia's Foreign Ministry said on July 26 that, at Iran's request, Foreign Minister Lavrov held a phone call with Iranian counterpart Araghchi.
-
----
-
-### 2026-07-27 00:27:57  #國際
-
-伊朗譴責美方襲擊救援船隻，稱此舉違反人道主義法。
-
----
-
-### 2026-07-27 00:27:43  #MKT News
-
-Gaza Peace Committee head said the committee welcomes Israel's steps to facilitate deployment of international forces.
-
----
-
-### 2026-07-27 00:27:12  #MKT News
-
-Head of the Gaza Peace Committee said the immediate priority is to ensure progress on implementing the Gaza plan, including the mediator‑proposed roadmap.
-
----
-
-### 2026-07-27 00:23:36  #MKT News #Market Regions #Europe & UK
-
-UK defence secretary said Europe will thank Trump for forcing it toward greater self-reliance; Britain does not always agree with Trump or his methods, but his pressure helped prevent complacency.
-
----
-
-### 2026-07-27 00:19:16  #國際
-
-日經民調：日本首相高市早苗支援率大跌10個百分點，降至58%。
-
----
-
-### 2026-07-27 00:18:51  #國際
-
-【特朗普因阿曼斡旋暫停襲擊伊朗】美國常駐聯合國代表華爾茲7月26日在接受美國媒體採訪時表示，美國總統特朗普已暫停對伊朗的軍事打擊，“為外交談判留出更多空間”。華爾茲稱，“過去幾周，尤其是最近幾天，阿曼、伊朗以及美國的多名談判代表已在各層級展開接觸，從最高層一直延伸到技術層面。” 華爾茲還稱，有關美軍在中東地區缺乏足夠火力和彈藥供應的報道純屬“無稽之談”。美媒此前報道稱，美軍目前“無法維持精確制導彈藥的消耗速度”，相關彈藥“使用速度超過補充速度”。（CCTV國際時訊）
-
----
-
-### 2026-07-27 00:18:17  #MKT News #Nikkei 225
-
-Nikkei and Tokyo TV poll: Japanese Prime Minister Takaichi's cabinet approval fell 10 percentage points month-on-month to 58%, the first reading below 60% since she took office in October last year.
-
----
-
-### 2026-07-27 00:14:53  #MKT News
-
-Al Arabiya, citing sources, reported that Oman has proposed forming a regional coalition to provide services in the Strait of Hormuz, modeled on the Malacca Strait approach.
-
----
-
-### 2026-07-27 00:06:28  #焦點 #國際
-
-美國駐聯合國大使：儘管伊朗內部存在分歧，美伊雙方仍在多個層面持續開展談判。
-
----
-
-### 2026-07-27 00:06:16  #國際
-
-伊朗外長：澤連斯基受以色列指使襲擊伊朗商船，企圖將歐洲拖入（中東）戰火。
-
----
-
-### 2026-07-27 00:01:53  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Israel's security cabinet approved exemption measures allowing an international stabilization force to enter Gaza areas not under Israeli control.
-
----
-
-### 2026-07-27 00:01:07  #國際
-
-以色列安全內閣批准加沙國際穩定部隊享有“豁免權”，允許該部隊進入以色列控制範圍外的區域。
-
----
-
-### 2026-07-26 23:59:07  #國際
-
-加拿大將以觀察員身份加入英國、日本、義大利聯合開展的下一代戰鬥機專案。
-
----
-
-### 2026-07-26 23:53:26  #國際
-
-伊朗外交部長：在與歐盟高階代表卡拉斯以及俄羅斯外交部長拉夫羅夫的通話中明確表示，基輔那名“吃白食的傢伙”的所作所為“不可能不遭到回應”。
-
----
-
-### 2026-07-26 23:52:06  #MKT News #Market Regions #Europe & UK #WTI #Impact bullish #XAUUSD #DXY
-
-Iran's foreign minister told EU High Representative Karas and Russian Foreign Minister Lavrov that everything the 'freeloading' actor in Kyiv has done will not go unanswered.
-
----
-
-### 2026-07-26 23:51:43  #國際
-
-一名伊朗高階官員週日透露，只要美國持續暫停新一輪空襲行動，伊朗就將停止己方的反擊。
-
----
-
-### 2026-07-26 23:50:27  #國際
-
-伊朗外長稱烏克蘭總統澤連斯基襲擊了伊朗商船，造成一名船員死亡。
-
----
-
-### 2026-07-26 23:50:20  #國際
-
-【以色列批准給予加沙國際穩定部隊人員豁免權】一名以色列官員透露，由總理內塔尼亞胡主持的以色列安全內閣於週日透過決議，同意授予計劃進駐加沙的國際穩定部隊人員法律豁免權。此項決議為國際穩定部隊人員進駐以軍未掌控的加沙區域掃清障礙。早在2025年10月加沙停火協議達成前，特朗普總統提出的20點和平方案就已確立國際穩定部隊進駐加沙的原則性框架。以色列堅持，在哈馬斯解除武裝、加沙實現非軍事化之前，以軍必須持續掌控黃線區域，該地帶覆蓋約65%的巴勒斯坦領土。任何國家派遣的國際穩定部隊人員進入加沙，均需總理與另外兩名內閣部長單獨審批。這名官員表示，以色列將嚴格審查出兵參與穩定部隊的國家；現階段僅有約200名相關人員，主要來自烏干達與摩洛哥。
-
----
-
-### 2026-07-26 23:48:58  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Netanyahu says US visit aims to gauge Trump's thinking on Iran】Israeli prime minister Netanyahu said the Israel–Iran conflict will only end if Iran's current regime falls or is weakened to the point it must abandon its nuclear program, and that Iran's nuclear effort must be terminated “whether or not an agreement is reached.” He said his trip to meet US president Trump is not to hand over new intelligence — US and Israeli military and intelligence agencies are already cooperating closely — but to discuss and gauge Trump’s views, and that much depends on Trump's decision. Netanyahu endorsed Trump's stance that Saudi Arabia should only receive a civilian nuclear deal and said Israel and the US will not allow Saudi development of military nuclear capabilities.
-
----
-
-### 2026-07-26 23:46:56  #國際
-
-【伊朗議員痛批美方違約，呼籲放棄對美談判、強硬反擊】一名伊朗議員表示，德黑蘭應當撕毀這份美伊諒解備忘錄，稱美方違反了協議的全部條款。伊朗議會工業與礦業委員會議員穆斯塔法·塔赫裡稱：“這份諒解備忘錄裡沒有一條條款是美方不曾違背的。我們乾脆直接作廢這份檔案，完全沒必要前往阿曼開展談判。”塔赫裡還補充道：“我們不應繼續談判，面對美方的羞辱與威脅，唯有強硬對抗作為回應；一味退讓只會讓敵方得寸進尺。”
-
----
-
-### 2026-07-26 23:46:14  #國際
-
-卡達外交部：首相在與阿布扎比副酋長通話期間，就緩和地區緊張局勢的外交舉措與協作事宜展開磋商。首相強調，必須落實諒解備忘錄中達成的共識，並保障霍爾木茲海峽的航行自由；支援一切旨在緩和緊張局勢、促成全面協議的相關努力。
-
----
-
-### 2026-07-26 23:45:47  #國際
-
-【以總理：此次訪美旨在瞭解美總統對伊朗問題的想法】當地時間26日，以色列總理內塔尼亞胡在接受採訪時表示，以色列與伊朗的衝突只有在伊朗現政權倒臺或被徹底削弱到被迫放棄其核計劃時才會結束。他強調，“無論是否達成協議”，伊朗的核計劃都必須終止。內塔尼亞胡向伊朗發出警告稱，如果伊朗或其支援的武裝組織襲擊以色列，以方將做出“非常強力”的回應。
-
----
-
-### 2026-07-26 23:43:20  #MKT News
-
-Qatar's foreign ministry said the prime minister spoke with Abu Dhabi's deputy leader about diplomatic efforts and coordination to ease regional tensions.
-
----
-
-### 2026-07-26 23:42:59  #國際
-
-伊朗副外長：絕不允許美國在領海航道及霍爾木茲海峽推行霸權。
-
----
-
-### 2026-07-26 23:42:49  #國際
-
-伊朗副外長：讚賞致力於緩和局勢的友好鄰國所發揮的作用。
-
----
-
-### 2026-07-26 23:42:26  #國際
-
-特朗普透露，摩洛哥將以他的名字命名一條高速公路。
-
----
-
-### 2026-07-26 23:39:51  #MKT News
-
-Qatar's foreign ministry said the prime minister emphasized that relevant parties must implement the consensus in the memorandum of understanding and ensure freedom of navigation through the Strait of Hormuz.
-
----
-
-### 2026-07-26 23:37:47  #MKT News
-
-Qatar foreign ministry: Prime Minister reiterated Qatar's support for all efforts aimed at easing tensions and reaching a comprehensive agreement.
-
----
-
-### 2026-07-26 23:37:05  #國際
-
-以色列總理內塔尼亞胡：大多數以色列民眾支援打擊真主黨的軍事行動，以軍打擊的是在平民區域活動的真主黨武裝人員。
-
----
-
-### 2026-07-26 23:35:04  #MKT News
-
-Iran's energy minister said 70 MW of solar capacity came online last week; about 100 MW is expected to come online this week, and the rollout will continue.
-
----
-
-### 2026-07-26 23:33:14  #MKT News
-
-Qatar's Foreign Ministry said the prime minister spoke with Saudi Arabia's foreign minister to discuss recent regional developments and diplomatic efforts.
-
----
-
-### 2026-07-26 23:31:38  #國際
-
-伊朗和俄羅斯外長通話討論地區局勢。
-
----
-
-### 2026-07-26 23:31:25  #國際
-
-內塔尼亞胡辦公室官員：目前進駐加沙的國際部隊僅有約200人，均來自（對以色列）友好國家。
-
----
-
-### 2026-07-26 23:30:55  #觀點
-
-【華泰證券：等待“超級周”的方向選擇】華泰證券研報稱，上週市場縮量反彈，其跟蹤的A股情緒指數週一回落至6%後企穩，階段性底部形成的機率上升。華泰證券認為，公募中報顯示AI行情交易和倉位擁擠度均處於高位、再均衡需求上升，但以配置係數衡量尚未達到極端水平，且本輪產業週期級別更高、覆蓋面更廣、容量更大；對於AI行情持續性的判斷，仍取決於產業趨勢二階段的變化。操作上，建議控制倉位，等待“超級周”後選擇方向。科技端關注國產鏈/半導體裝置、PCB、光模組，兼顧創新藥、資源品、出海鏈、證券等再均衡機會，紅利繼續持有。
-
----
-
-### 2026-07-26 23:30:42  #國際
-
-美國駐聯合國大使邁克·沃爾茨：我們在（中東）戰區不僅部署了所需全部軍力，還有更多力量正調往該區域。
-
----
-
-### 2026-07-26 23:30:24  #國際
-
-美國駐聯合國大使邁克·沃爾茨駁斥了有關美軍在中東火力不足的報道。
-
----
-
-### 2026-07-26 23:27:19  #其他
-
-【受降雨影響，黑龍江多列車停運】7月26日，大興安嶺地區行署交通運輸局釋出訊息，受降雨影響，黑龍江多列車停運。當日，加格達奇開K7103次、加格達奇開K7104次、哈爾濱開K7041次、漠河開K7042次、綏化開K7038/9次、漠河開K7040/37次、加格達奇開6245次、古蓮開6246次、滿洲里開K7094次停運。 此外，7月26日加格達奇開K498次、K2062次、K490次變更為齊齊哈爾站始發，加格達奇至齊齊哈爾間停運。7月25日天津開K489次變更為齊齊哈爾終到，北京開K497次變更為齊齊哈爾終到，大連開K2061次變更為齊齊哈爾終到，齊齊哈爾至加格達奇間停運；哈爾濱開K7093次停運。（新華社）
-
----
-
-### 2026-07-26 23:26:57  #其他
-
-【“紅霞”強度減弱 廣東累計轉移近90萬人】今年第12號颱風“紅霞”於26日3時50分前後在廣東省惠州市惠東縣平海鎮登陸，登陸時中心附近最大風力14級（強颱風級），登陸後強度逐漸減弱。記者從廣東省三防辦瞭解到，截至26日18時，廣東累計轉移人員896254人。（新華社）
-
----
-
-### 2026-07-26 23:26:23  #MKT News
-
-Iran's Mehr News Agency said Iran's foreign minister Araghchi spoke by phone with Russian foreign minister Lavrov this afternoon to discuss recent regional and international developments.
-
----
-
-### 2026-07-26 23:26:04  #國際
-
-內塔尼亞胡辦公室官員：內閣已作出決定，只有以色列有權批准哪些國家可向加沙派遣軍隊。
-
----
-
-### 2026-07-26 23:25:39  #國際
-
-內塔尼亞胡辦公室官員：我方同意和平委員會及國際部隊進駐加沙的相關條款，已寫入特朗普和平方案。
-
----
-
-### 2026-07-26 23:24:53  #國際
-
-俄羅斯總統普京：必須讓俄羅斯民眾深刻認識到，執行特別軍事行動計程車兵肩負使命的重大意義，他們正在為國效力。
-
----
-
-### 2026-07-26 23:24:38  #國際
-
-【訊息人士：伊方可對等停火 但對美方持懷疑態度】一名伊朗訊息人士說，只要美國停止軍事打擊，伊朗也將停止軍事行動，但伊方仍對美方的意圖持“懷疑態度”。這名訊息人士表示，伊朗的立場還是“以反擊回應攻擊”。如果攻擊停止，伊朗也同樣會停止行動。這一立場已經傳達給美國。但伊方對美方此次停火的誠意“懷疑大於樂觀”，認為這一決定更多出於戰術考量。（新華社）
-
----
-
-### 2026-07-26 23:22:27  #國際
-
-【內塔尼亞胡將敦促特朗普持續緊盯伊朗核計劃】以色列總理內塔尼亞胡計劃敦促美國總統特朗普，對伊朗核計劃保持 “一刻不停、持續不斷的嚴密監控”。內塔尼亞胡稱，美以兩國已將伊朗核研發能力延後 “數年之久”，但他同時警告，德黑蘭方面仍有可能重建遭摧毀的核設施。特朗普表示美方優先選擇外交途徑解決爭端，但若伊朗持續在霍爾木茲海峽針對美國盟友發動襲擊，美國保留一切應對手段。
-
----
-
-### 2026-07-26 23:18:34  #MKT News
-
-Israel Defense Forces says it has neutralized Hamam Eid, commander of Hamas's central-camp UAV unit. The IDF said Eid had recently been violating the ceasefire while working to restore and strengthen Hamas's aerial combat capability.
-
----
-
-### 2026-07-26 23:15:11  #MKT News
-
-The Islamic Revolutionary Guard Corps (IRGC) said controlled explosions may be heard in the eastern area of Abadan port on Monday between 08:00 and 12:00; residents were told there is no cause for concern.
 
 ---

@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-02 23:14:16_
-_本檔包含 3519 則快訊，約 670775 字_
+_更新時間：2026-08-03 00:33:04_
+_本檔包含 3527 則快訊，約 669495 字_
+
+---
+
+### 2026-08-03 00:32:12  #國際
+
+伊朗革命衛隊：將針對哈尼亞、阿亞圖拉·哈梅內伊遇襲事件實施猛烈、毀滅性報復。
+
+---
+
+### 2026-08-03 00:23:34  #國際
+
+伊朗議會國家安全委員會：調停方正提供協助，以期重啟與美國的諒解備忘錄談判。各方正就所有議題交換意見。
+
+---
+
+### 2026-08-03 00:19:02  #國際
+
+美國國會眾議員邁克·特納：美國正與烏克蘭商討向其轉讓“愛國者”導彈的生產技術，以便基輔能夠建立生產線並掌握相關技術。
+
+---
+
+### 2026-08-03 00:11:37  #其他
+
+【巴基斯坦西北部發生爆炸致14人死亡】巴基斯坦警方2日說，該國西北部開伯爾-普什圖省一警局附近發生爆炸，造成至少14人死亡、26人受傷。（新華社）
+
+---
+
+### 2026-08-03 00:05:39  #公司 #國際
+
+【葡萄牙航空一客機起飛後因突發情況緊急降落】當地時間8月2日，葡萄牙航空公司一架從里斯本飛往美國波士頓的A321客機在飛越大西洋途中發生緊急情況，並於亞速爾群島特塞拉島的拉日什機場緊急降落。據悉，該航班起飛約兩小時後決定備降，目前航空公司尚未公佈具體原因。（央視新聞）
+
+---
+
+### 2026-08-02 23:57:23  #公司
+
+麥格理將東鵬飲料A股評級下調至中性，目標價119元人民幣。
+
+---
+
+### 2026-08-02 23:51:41  #其他
+
+希臘兩架消防直升機墜毀，造成兩人死亡。
+
+---
+
+### 2026-08-02 23:45:32  #國際
+
+哈馬斯：以色列週日空襲加沙造成18人以上死亡。
+
+---
+
+### 2026-08-02 23:42:14  #市場 #焦點
+
+暗盤白銀突破53美元/盎司，日內漲幅1%。
+
+---
+
+### 2026-08-02 23:33:11  #MKT News #US10Y #Impact bearish #DXY #Impact bullish #USDJPY
+
+Japan cut its holdings of US Treasuries by $96 billion over the past three months, trimming holdings to $1.14 trillion — the lowest level since April 2025.
+
+---
+
+### 2026-08-02 23:28:25  #MKT News
+
+【Pashinyan reappointed as Armenian prime minister】Armenian President Vahagn Khachaturyan on the 2nd signed a decree appointing Nikol Pashinyan as prime minister, securing his reappointment.
+
+---
+
+### 2026-08-02 23:28:24  #其他
+
+【帕什尼揚連任亞美尼亞總理】亞美尼亞總統哈恰圖良2日簽署法令，任命帕什尼揚為亞美尼亞新一任總理，帕什尼揚因此獲得連任。（央視新聞）
+
+---
+
+### 2026-08-02 23:26:57  #其他
+
+委內瑞拉與多明尼加共和國達成協議，恢復外交關係。
+
+---
+
+### 2026-08-02 23:26:38  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+CENTCOM said a US Marine Corps F-35C launched from USS Abraham Lincoln (CVN-72), which is operating in the Arabian Sea supporting US blockade operations against Iran. As of Aug. 2 it had rerouted 35 merchant vessels, rendered two inoperable and boarded and inspected two others.
+
+---
+
+### 2026-08-02 23:26:14  #國際
+
+俄國防部：打擊烏克蘭尼古拉耶夫港基礎設施以及兩艘裝載軍用物資的船隻。
+
+---
+
+### 2026-08-02 23:25:15  #國際
+
+美國軍方：截至8月2日，中央司令部已改變35艘商船航線，使2艘商船喪失行動能力，並登上2艘商船進行檢查。
+
+---
+
+### 2026-08-02 23:24:11  #國際
+
+以色列小型內閣部長澤埃夫·埃爾金：在解除哈馬斯武裝之前，我們不會撤出加沙，而能否實現這一目標尚存疑問。
+
+---
+
+### 2026-08-02 23:18:38  #其他
+
+【河南2026年“三支一扶”計劃發現有考試作弊行為】記者從河南省“三支一扶”領導小組協調辦公室獲悉，針對2026年“三支一扶”計劃招募輿情，經核查，發現有非法參與考試作弊行為。目前，已對河南省人事考試中心負責人停職調查。公安機關已成立專案組，對涉嫌違法犯罪行為進行全面偵查調查。下一步，對涉嫌違法犯罪的相關人員，河南將依法嚴厲懲處，偵查調查結果將及時公佈。（新華社）
+
+---
+
+### 2026-08-02 23:16:33  #國際
+
+美國華盛頓州多處重大野火持續肆虐，已有數百棟建築被毀。
+
+---
+
+### 2026-08-02 23:14:48  #公司 #市場 #國際
+
+【日本正快速減持美國國債】過去三個月，日本減持規模達960億美元，持倉降至1.14萬億美元，為2025年4月以來最低水平。
+
+---
+
+### 2026-08-02 23:14:08  #MKT News #AAL.O #Impact bearish
+
+American Airlines cancels all flights from New York to Israel's Ben Gurion Airport through March 2027.
+
+---
+
+### 2026-08-02 23:13:42  #其他
+
+西班牙休達市長稱，桑切斯政府在從休達遣返非法移民的人數問題上撒謊。他表示，仍有10000至15000名非法移民露宿休達街頭，其中不少人在海灘搭建臨時營地。
 
 ---
 
@@ -21178,89 +21310,5 @@ JP Morgan cuts Reddit (RDDT.O) PT to $185 from $200.
 ### 2026-07-31 14:11:39  #Trading Economics #Economy #Norway #Unemployed Persons #Importance 1
 
 Norway Jobseekers Rise in July — The number of people registered as out of work in Norway rose to a seasonally adjusted 62.1 thousand in July 2026 from an upwardly revised fourteen-month low of 61.7 thousand in the previous month. This corresponded to 2.1% of the workforce, up from 2.0% in June. Unemployment was highest among child and youth workers, at 3.0% of the workforce, while academic professions and health, nursing and care occupations recorded the lowest rate, at 0.9%. Regionally, Oslo and Østfold posted the highest jobless rate at 2.9% and 2.8%, respectively, while Troms recorded the lowest at 1.3%. Meanwhile, labor demand weakened, with 25.4 thousand vacancies advertised in July, equivalent to around 1,800 openings per working day and down 14% from a year earlier. On a non-seasonally adjusted basis, the number of fully unemployed people rose to 64.0 thousand in July from 58.1 thousand in June.
-
----
-
-### 2026-07-31 14:11:18  #MKT News
-
-Azerbaijan central bank raises end-2026 inf forecast to 6.1% from 5.9%.
-
----
-
-### 2026-07-31 14:11:16  #其他
-
-鴻海旗下VisionBay.AI：在臺灣地區推出由英偉達HGX B300系統驅動的5MW人工智慧叢集。
-
----
-
-### 2026-07-31 14:11:06  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #Market Regions #Greater China #NVDA.O #Impact bullish #2317.TW
-
-VisionBay.AI, a unit of Foxconn, launched a 5MW AI cluster in Taiwan powered by NVIDIA HGX B300 systems.
-
----
-
-### 2026-07-31 14:10:35  #公司
-
-訊息人士稱，阿布扎比國家石油公司（ADNOC）以5.9億美元收購5艘二手超大型原油運輸船。
-
----
-
-### 2026-07-31 14:10:23  #MKT News #Commodities #Energy
-
-Sources said Abu Dhabi National Oil Company bought five second-hand VLCCs for $590 million.
-
----
-
-### 2026-07-31 14:09:07  #MKT News #Star Stocks #AMZN.O #Impact bullish
-
-TD Cowen raised its PT on Amazon (AMZN.O) to $350 from $340.
-
----
-
-### 2026-07-31 14:08:49  #其他
-
-TD考恩將亞馬遜目標價從340美元上調至350美元。
-
----
-
-### 2026-07-31 14:07:32  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Poised for Strong Open — European equity markets were set to open higher on Friday, building on the previous session’s gains as sentiment improved amid a global rally in technology stocks and renewed optimism surrounding the artificial intelligence sector. Semiconductor shares in the US and Asia led the advance, with strong earnings from Microsoft and Amazon reinforcing confidence in continued hyperscaler investment and resilient AI-driven demand. In Europe, investors will focus on July inflation data from the Eurozone, France, and Italy, along with Germany’s latest unemployment figures. On the corporate front, earnings reports are due from Linde, Enel, AXA, ENGIE, and NatWest, among others. In premarket trading, futures for both the Euro Stoxx 50 and the Stoxx 600 were up around 0.8%.
-
----
-
-### 2026-07-31 14:06:19  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
-
-Al Jazeera, citing sources, reported that dozens of Israeli settlers, under protection of the Israeli military, are storming the western part of Nablus.
-
----
-
-### 2026-07-31 14:06:09  #市場 #國際
-
-日本10年期國債收益率下跌0.5個基點，至2.79%。
-
----
-
-### 2026-07-31 14:06:03  #公司
-
-【宇瞳光學等成立科技公司，含光電子器件製造業務】企查查APP顯示，近日，深圳宇瞳光互連科技有限公司成立，法定代表人為何敏超，經營範圍包含：光學儀器製造；光學儀器銷售；電子元器件製造；電子元器件零售；光電子器件製造；光電子器件銷售等。企查查股權穿透顯示，該公司由宇瞳光學全資子公司東莞市宇瞳精密光學有限公司等共同持股。
-
----
-
-### 2026-07-31 14:05:18  #市場
-
-【直擊ChinaJoy 2026 ：宇樹科技攜4臺G1系列人形機器人現場熱舞】今日，第二十三屆ChinaJoy在上海新國際博覽中心正式開幕。宇樹科技攜人形機器人、 四足機器人、行業解決方案及資料採集方案等全產品矩陣亮相。新浪科技在現場看到，量產級人形機器人G1是本次舞臺展示主力，現場四臺G1透過定位群控完成整齊劃一的舞蹈編排。據瞭解，G1整機約132cm 高、約35kg重，擁有23至43個關節自由度，是宇樹人形機器人量產化的核心產品。（新浪科技）
-
----
-
-### 2026-07-31 14:05:00  #公司
-
-【小鵬汽車、智元機器人等將率先接入Seedance 2.5】火山引擎訊息，今天，新一代影片生成模型Seedance 2.5正式釋出。針對企業使用者，火山引擎將於近期上線API服務。徐工集團、小鵬汽車、智元機器人、靈初智慧、微分智飛、穹徹智慧、Xspark AI（無界智航）等多家企業已與火山引擎達成合作意向，將率先接入Seedance 2.5。
-
----
-
-### 2026-07-31 14:04:34  #Trading Economics #Economy #United Kingdom #Nationwide Housing Prices YoY #Importance 2
-
-UK House Price Growth Slows in July — The UK Nationwide House Price Index rose 1.8% year-on-year in July 2026, slowing from a 2.2% increase in June and coming in slightly below market expectations of a 1.9% gain. Nationwide Chief Economist Robert Gardner said renewed geopolitical tensions, particularly the conflict involving Iran and the US, have pushed up energy prices and contributed to volatility in market interest rate expectations. However, he noted that easing consumer inflation and moderating wage growth have given the Bank of England greater scope to assess whether further policy tightening is needed to return inflation to target. Gardner also highlighted that the latest housing survey showed the average length of residence has remained broadly stable at around 14 years, with outright homeowners staying in the same property for nearly 24 years on average, while private renters typically remain in a home for around five years. On a monthly basis, house prices edged up 0.1%, following a flat reading in June.
 
 ---
