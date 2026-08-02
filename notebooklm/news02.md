@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-03 04:51:46_
-_本檔包含 3582 則快訊，約 671122 字_
+_更新時間：2026-08-03 05:57:56_
+_本檔包含 3581 則快訊，約 670563 字_
+
+---
+
+### 2026-07-31 14:58:33  #宏觀 #行業 #焦點
+
+【國內汽、柴油價格7月31日起每噸分別上調685元、655元】7月17日國內成品油價格調整以來，國際市場原油價格劇烈震盪，前幾日連續大幅上漲後回落，近日又再度衝高，本次調價的前10個工作日平均價格高於上次調價前10個工作日平均價格。根據國際市場油價變化情況，自7月31日24時起，國內汽、柴油（標準品）價格每噸分別上調685元、655元。(發改委)
+
+---
+
+### 2026-07-31 14:58:05  #公司
+
+【AI先知跨界操盤對沖基金遭遇重大損失 城堡投資24小時內進場救火】他被譽為AI界的“諾查丹瑪斯”(Nostradamus)，一位對未來做出大膽預言的年輕先知。“用不了多久，全世界都會醒來，”從科技預言家轉型為對沖基金經理的Leopold Aschenbrenner曾在2024年如此預測。本週，世界的確醒來了，只是方式與Aschenbrenner預見的大相逕庭。隨著惴惴不安的銀行開始要求他為自己的交易提供愈來愈多擔保品，他那隻表現亮眼的對沖基金Situational Awareness轉眼之間被迫出售價值數十億美元、近期急跌的科技投資部位。然後，億萬富豪Ken Griffin登場。 據一位知情人士透露，在不到24小時內，Griffin的城堡投資聯絡了Situational Awareness，其間Griffin和Aschenbrenner之間談了一次話，城堡投資以折扣價收購了這批投資。這位知情人士因涉及未公開資訊而要求匿名。對Aschenbrenner來說，這無疑是一次驚人的逆轉。這位前OpenAI研究員大約兩年前創辦這個對沖基金之前，沒有任何投資經驗。他這家新創公司的資產規模從7月初的450億美元暴跌至約100億美元。
+
+---
+
+### 2026-07-31 14:57:51  #央行 #國際
+
+日本央行植田和男：事先就增加購債置評不合適。
+
+---
+
+### 2026-07-31 14:57:12  #Trading Economics #Economy #France #Producer Price Inflation MoM #Importance 1
+
+French Producer Prices Drop 0.6% in June — French domestic producer prices decreased 0.6% month-on-month in June 2026, following a revised 0.2% fall in May. Prices of manufactured products dropped by 0.6%, reversing a 0.1% increase in the previous month, largely due to a sharper decline in coke and refined petroleum products (-12.0% vs. -7.3%). Price growth also eased in the manufacture of food products, beverages, and tobacco (0.1% vs. 0.2%), electrical and electronic equipment, computers, and machinery (0.2% vs. 0.3%), and other manufactured products (0.2% vs. 0.9%), while prices for transport equipment were unchanged. Prices for mining and quarrying, energy, and water continued to decline, although at a slower pace (-0.7% vs. -1.0%). On an annual basis, domestic producer prices increased 2.6% in June, easing from a revised 3.1% rise in the prior month.
+
+---
+
+### 2026-07-31 14:56:23  #央行 #國際
+
+日本央行行長植田和男：政府確保市場對長期財政穩健性保持信任至關重要。
+
+---
+
+### 2026-07-31 14:56:20  #市場 #焦點
+
+滬深兩市成交額超2.5萬億元，較上日此時放量1777億元。
+
+---
+
+### 2026-07-31 14:55:50  #央行 #國際
+
+日本央行行長植田和男：低銷售稅率對實際收入而言是利好因素。
+
+---
+
+### 2026-07-31 14:55:38  #央行 #國際
+
+日本央行植田和男：消費稅下調將如何影響物價資料尚不明確。
+
+---
+
+### 2026-07-31 14:55:15  #市場 #央行 #國際
+
+日本央行的植田講話時，日元小幅走強。
+
+---
+
+### 2026-07-31 14:54:35  #公司
+
+【冀中能源增資至約38.9億 增幅10%】天眼查App顯示，近日，冀中能源股份有限公司發生工商變更，註冊資本由約35.3億人民幣增加至約38.9億人民幣，增幅10%。該公司成立於1999年8月，法定代表人為閆雲勝，經營範圍包括煤炭開採、煤炭洗選等。
 
 ---
 
@@ -21542,71 +21602,5 @@ L'Oréal Stock Price Hits 6-week High — L'Oréal shares increased to 393.55 EU
 ### 2026-07-30 15:10:19  #Trading Economics #Economy #Turkey #Unemployment Rate #Importance 2
 
 Turkish June Jobless Rate Falls to Record Low — Turkey’s seasonally adjusted unemployment rate dropped to 7.6% in June 2026 from a downwardly revised 8.1% in the previous month. It was the lowest jobless rate since the data series began in 2005, as the number of unemployed individuals decreased by 168,000 to 2.69 million. Meanwhile, the employment rate rose to 48.9% from 48.6%, as the number of employed persons increased by 227,000 to 32.73 million.
-
----
-
-### 2026-07-30 15:10:07  #宏觀
-
-國家發改委定於7月31日（星期五）上午10:00，召開國家發展改革委7月份新聞釋出會。（國家發改委）
-
----
-
-### 2026-07-30 15:10:05  #MKT News #Market Regions #Greater China
-
-China State Planner will hold its July press conference at 10:00 on Friday, July 31.
-
----
-
-### 2026-07-30 15:09:26  #公司
-
-【賽峰集團上調2026全年業績指引】7月30日，賽峰集團公佈2026年上半年業績：收入達175.71億歐元，同比增長19.0%；調整後經常性營業利潤為32.37億歐元，同比增長29%；自由現金流達26.16億歐元。此外，賽峰集團宣佈上調2026年業績展望，收入預計實現中十位數百分比增長，經常性營業利潤預計為64億-65億歐元，自由現金流預計為47億-49億歐元。
-
----
-
-### 2026-07-30 15:09:24  #MKT News #Commodities #Energy #Market Regions #Europe & UK #SHEL.L #Impact bullish
-
-Shell's Q2 profit doubled; London-listed shares rose 1.1%.
-
----
-
-### 2026-07-30 15:07:52  #MKT News #SHEL.N #Impact mixed #WTI #Impact bullish
-
-Shell (SHEL.N) CFO said inventory draws have supported the market, but the buffer is limited and options for further action may narrow.
-
----
-
-### 2026-07-30 15:07:08  #其他
-
-【西葡邊境一小城野火肆虐 十餘個村莊緊急疏散】西班牙西北部毗鄰葡萄牙的一座小城附近29日燃起大規模野火，當地政府部門當晚緊急疏散12個村莊，並要求另外兩個臨近村莊的居民就地避險。（央視新聞）
-
----
-
-### 2026-07-30 15:05:21  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #CNH #DXY #Impact bearish
-
-【MOFCOM: China, EU tentatively agree to hold second session of trade and investment consultations this autumn】MOFCOM spokesman He Yadong told a regular briefing on the 30th that, after recent intensive talks, both sides at the first China‑EU trade and investment consultation agreed on positioning China and the EU as "stable, balanced key trade partners" and have tentatively set the mechanism's second session for this autumn. Over the past month China has been implementing the first meeting's follow‑up, coordinating domestically and holding high‑frequency, multi‑level external consultations. Bilateral teams have held more than 20 meetings and four working groups have conducted in‑depth technical exchanges on each side's trade and economic concerns. China said it will continue high‑frequency communication to seek practical solutions and promote balanced, forward development of China‑EU trade to maintain a stable key trade partnership.
-
----
-
-### 2026-07-30 15:05:15  #市場
-
-斯泰蘭蒂斯米蘭上市股票在開盤失敗後恢復交易，下跌8.2%。
-
----
-
-### 2026-07-30 15:05:04  #國際
-
-烏克蘭稱，俄羅斯巡航導彈射入波蘭境內。
-
----
-
-### 2026-07-30 15:04:53  #宏觀
-
-【遏制“對立營銷”“小字免責”等亂象 上海釋出戶外廣告內容合規指引】記者從上海市市場監督管理局瞭解到，《上海市戶外廣告發布內容合規指引》日前正式釋出，圍繞戶外廣告發布中容易出現的導向風險、內容風險和合規問題，進一步細化廣告內容稽核和風險防範要求，為相關主體依法合規開展廣告活動提供更加清晰、具體、可操作的指引。上海市市場監管部門介紹，隨著廣告傳播形式和營銷方式不斷創新，一些新的廣告內容風險也隨之出現。比如，利用地域、性別、身份等標籤製造對立，透過販賣焦慮、製造兩性對立等方式博取關注，以“擦邊球”“反骨文案”吸引眼球，以及借熱點事件開展商業炒作等。這些問題有的遊走於法律邊界，有的容易引發社會爭議，也給企業廣告稽核和基層監管帶來新的挑戰。（央視新聞）
-
----
-
-### 2026-07-30 15:04:42  #公司
-
-【中原證券：維持寧德時代“增持”評級，業績超預期，持續關注動力儲能龍頭】中原證券研報指出，寧德時代業績超預期，持續關注動力儲能龍頭。2026年上半年營業利潤556.65億元，同比增長54.80%；歸母淨利潤432.84億元，同比增長41.98%；2026年中期分紅方案為擬每10股派發現金分紅14.17元(含稅)。公司業績超預期，業績增長主要受益於行業增長帶動公司動力和儲能電池系統銷售增長。其中，公司2026年第二季度實現淨利潤225.46億元，同比增長36.46%，環比增長8.72%。公司是全球領先的新能源科技公司，主要從事動力電池、儲能電池和電池回收利用產品的研發、生產和銷售。預計2026 年新能源汽車和鋰電池行業景氣度將持續向上，2026年我國新能源汽車將持續增長，但考慮購置稅減免降低影響及基數效應，預計2026年新能源汽車銷售增速將回落。結合行業增長預期和產業鏈價格走勢，以及公司在動力電池領域連續多年位居全球第一，預計2026年公司動力電池業績將高增長。目前估值相對行業水平合理，結合行業發展前景及公司行業地位，維持公司“增持”投資評級。
 
 ---

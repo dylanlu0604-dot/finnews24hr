@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-03 04:51:46_
-_本檔包含 3478 則快訊，約 670731 字_
+_更新時間：2026-08-03 05:57:56_
+_本檔包含 3489 則快訊，約 670360 字_
+
+---
+
+### 2026-07-28 10:57:31  #公司
+
+【雲南投運新能源重卡充換電站突破1000座】南方電網雲南電動汽車服務有限公司投建的文山廣南珠街重卡充電站7月28日併網投運，標誌著雲南全省累計併網接入新能源重卡充換電站突破1000座，總容量超過200萬千伏安，形成各州市全覆蓋的重卡充電補能網路。
+
+---
+
+### 2026-07-28 10:57:00  #央行 #國際
+
+片山：將貨幣政策操作交給日本央行。
+
+---
+
+### 2026-07-28 10:56:43  #其他
+
+片山：經濟藍圖最終版本獲得市場認可，非常好。
+
+---
+
+### 2026-07-28 10:54:15  #央行 #國際
+
+日本財務大臣片山：相信政府與日本央行的關係一直很順暢。
+
+---
+
+### 2026-07-28 10:54:02  #央行 #國際
+
+日本財務大臣片山：貨幣政策是經濟政策的一部分，正如日本央行法所規定的那樣。。
+
+---
+
+### 2026-07-28 10:53:31  #宏觀
+
+【發改委：將推動中歐班列與產業深度融合，更好促進國際產業鏈供應鏈穩定】7月28日，國家發展改革委召開中歐班列專題新聞釋出會。國家發展改革委開放司司長梁林沖表示，“十五五”規劃綱要規劃了未來5年中國經濟社會發展宏偉藍圖，強調要完善立體互聯互通網路佈局，提升中歐班列發展水平。下一步，國家發展改革委將紮實推進高效運輸、安全治理、多元通道體系。一是完善運輸組織服務，加強中歐班列全線協同，持續最佳化運輸組織模式，提高通關便利化水平，規範相關企業經營行為，提升中歐班列供需匹配；二是拓展多元韌性通道，有效統籌鐵路、公路、海運、航空等多種運輸方式，積極開闢多式聯運新線路，進一步完善通道網路；三是提升安全發展水平，完善政府間合作機制，更好保障通道網路安全暢通；四是深化創新融合發展。要深入推進中歐班列數字化、智慧化、綠色化發展，提升協同創新能力，培育發展新動能，加強聯動融合發展，推動中歐班列與產業深度融合，更好促進國際產業鏈供應鏈穩定。
+
+---
+
+### 2026-07-28 10:53:28  #其他
+
+中國地震臺網自動測定：07月28日10時51分在四川宜賓市高縣附近（北緯28.54度，東經104.67度）發生3.0級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-07-28 10:53:14  #宏觀
+
+【上半年辦理離境退稅的境外旅客數量同比增長366%】國務院新聞辦舉行新聞釋出會。釋出會上，國家稅務總局相關負責人介紹，今年以來，稅務部門持續提升辦稅繳費便利度，百姓辦理效率更高，辦理離境退稅的境外旅客數量大幅增長。據介紹，目前電子稅務局已全面普及，日常申報、發票開具、社保費退費、個人社保費繳費記錄查詢等絕大多數高頻稅費業務，都實現了“網上辦”“掌上辦”。智慧辦稅事項覆蓋面已提升至85%，辦稅時長平均縮短20%。國家稅務總局總經濟師榮海樓介紹，在停車場、商超零售、餐飲住宿等民生領域試點推行“支付即開票”，提升了消費者用票效率和體驗。我們持續最佳化離境退稅“即買即退”服務，上半年辦理離境退稅的境外旅客數量同比增長366%，退稅商品銷售額和退稅額同比增長69%。
+
+---
+
+### 2026-07-28 10:50:16  #市場 #國際
+
+片山：關鍵日本國債發行規模維持在市場可接受區間。
+
+---
+
+### 2026-07-28 10:50:10  #市場
+
+WTI原油日內跌2%，現報80.89美元/桶。
+
+---
+
+### 2026-07-28 10:49:46  #市場 #國際
+
+日本財務大臣片山：在預算編制前必須與日本國債市場進行溝通，我們此前未能做到這一點。
+
+---
+
+### 2026-07-28 10:49:17  #其他
+
+【杭州2宗涉宅用地28.75億元成交 溢價率均超10%】7月28日，杭州2宗涉宅用地出讓，均位於餘杭區未來科技城單元，最終均被偉星房產競得，成交金額分別為15.55億元和13.2億元，成交樓面價分別為20623元/㎡和20617元/㎡，溢價率分別為11.47%和15.79%，2宗地總成交金額28.75億元。
+
+---
+
+### 2026-07-28 10:48:58  #國際
+
+日本財務大臣片山：在討論食品減稅時，確保市場信任至關重要。
+
+---
+
+### 2026-07-28 10:48:32  #其他
+
+【上半年全國查處涉稅違法行為挽回稅款1806億元】國家稅務總局副局長王道樹7月28日在國新辦新聞釋出會上表示，今年上半年，全國依法查處各類涉稅違法行為挽回稅款損失1806億元，同比增長20.8%。其中，查處騙取和違規享受稅收優惠企業3200餘戶，查補收入120億元；查處涉嫌虛開騙稅企業3.24萬戶，挽回出口退稅損失46億元；查處透過惡意籌劃、串通作假幫助服務物件偷逃稅的違規涉稅中介500餘戶，對相關機構和從業人員依法採取列為涉稅服務失信主體等懲戒措施。（新華社）
+
+---
+
+### 2026-07-28 10:47:57  #市場 #國際
+
+韓國KOSPI指數下跌10%。SK海力士跌超13%，三星電子跌逾12%。
+
+---
+
+### 2026-07-28 10:47:40  #市場 #焦點
+
+科創50日內跌幅達4％，成分股中，源傑科技跌13.1％，生益電子跌9.6％，佰維儲存跌8.9％，沐曦股份跌8.5％。
+
+---
+
+### 2026-07-28 10:46:53  #市場
+
+港股恒生指數盤中轉跌，此前一度漲近1%，恒生科技指數漲幅快速收窄至0.1%，老鋪黃金(06181.HK)跌超20%，智譜(02513.HK)跌超18.5%，MiniMax(00100.HK)跌超11.3%，華虹宏力(01347.HK)跌近7%。
+
+---
+
+### 2026-07-28 10:46:37  #宏觀 #國際
+
+【韓國計劃從下個月開始對住宿和餐飲行業的過度收費行為實施更嚴厲的處罰】韓國財政部週二表示，作為政府促進旅遊業發展舉措的一部分，韓國計劃從下個月開始對住宿和餐飲行業的過度收費行為實施更嚴厲的處罰。內閣已批准對《旅遊促進法》實施條例的修訂案，將於8月4日生效。
+
+---
+
+### 2026-07-28 10:45:44  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10-Year Yield Steadies Ahead of BOJ Meeting — Japan’s 10-year government bond yield held steady around 2.77% on Tuesday as investors looked ahead to the Bank of Japan’s policy meeting this week, where policymakers are widely expected to leave interest rates unchanged. However, the central bank is expected to keep the door open to additional rate hikes to contain inflationary pressures and help stem the yen’s decline. On the geopolitical front, President Donald Trump said the US was engaged in "good talks" with Iran aimed at ending the Middle East conflict, sending oil prices lower and easing concerns over inflation and tighter monetary policy. Japanese bond yields have remained volatile this month amid a deteriorating fiscal outlook, with Takaichi’s administration recently unveiling a massive spending package that could further increase the country's debt burden.
+
+---
+
+### 2026-07-28 10:45:13  #市場 #焦點
+
+菜粕連續主力合約日內跌3%，現報2333.00元。
+
+---
+
+### 2026-07-28 10:45:01  #市場
+
+MSCI亞太指數較6月高點下跌10%，勢將進入回撥區域。
+
+---
+
+### 2026-07-28 10:44:17  #國際
+
+日本財務大臣片山：除首相昨日所言外，無法就食品減稅資金來源置評。
+
+---
+
+### 2026-07-28 10:43:53  #央行 #美聯儲
+
+【美聯儲本週怎麼決定？城堡證券料沃什會出其不意加息】當地時間7月27日，城堡證券在研報中預計美聯儲本週將上調利率，出人意料地用這招加強主席凱文·沃什在抗通脹之戰中的公信力。城堡證券稱，週三加息25個基點可以強化沃什反覆作出的恢復物價穩定承諾，同時也表明決策層不再依賴於提前很久發出每一項政策舉措的訊號。
+
+---
+
+### 2026-07-28 10:42:55  #市場 #焦點
+
+白銀連續主力合約日內跌3%，現報13993.00元。
+
+---
+
+### 2026-07-28 10:42:50  #市場
+
+鈀金期貨日內跌2%，現報1270.54美元/盎司。
+
+---
+
+### 2026-07-28 10:42:32  #央行 #國際
+
+標普：印尼央行行長變動對評級無直接影響。
+
+---
+
+### 2026-07-28 10:42:15  #市場
+
+【PCB板塊震盪走弱，深南電路觸及跌停】PCB板塊震盪走弱，深南電路觸及跌停，東山精密、景旺電子、中材科技、生益科技、泰金新能、生益電子等跟跌。
 
 ---
 
@@ -20887,101 +21049,5 @@ WTI原油突破86美元/桶，日內跌3.80%。
 ### 2026-07-27 05:58:39  #其他
 
 中央氣象臺7月27日06時繼續釋出強對流天氣黃色預警。
-
----
-
-### 2026-07-27 05:57:02  #其他 #焦點
-
-香港天文臺釋出紅色暴雨警告。
-
----
-
-### 2026-07-27 05:56:07  #央行 #國際
-
-【美聯儲本週維持利率不變的機率63.7%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為63.7%，累計加息25個基點的機率為36.3%。 美聯儲到9月維持利率不變的機率為19.6%，累計加息25個基點的機率為55.2%，累計加息50個基點的機率為25.2%。
-
----
-
-### 2026-07-27 05:49:47  #MKT News
-
-DOE instructed grid operator Southwest Power Pool to dispatch generators as needed to maintain grid reliability.
-
----
-
-### 2026-07-27 05:49:28  #MKT News
-
-U.S. DOE issued electrical grid emergency declarations for 17 states due to extreme heat.
-
----
-
-### 2026-07-27 05:47:38  #央行 #國際
-
-日元匯率跌至數十年新低，市場押注日本央行將提前加息的情緒持續升溫。
-
----
-
-### 2026-07-27 05:46:19  #國際
-
-美國一家聯邦上訴法院駁回了特朗普政府試圖在中期選舉前推行限制郵寄投票行政令的計劃。
-
----
-
-### 2026-07-27 05:37:20  #國際
-
-伊朗議員易卜拉欣・阿齊茲： 任何針對伊朗的襲擊都必將付出代價，如今這一點依舊成立，美國和以色列對此心知肚明。
-
----
-
-### 2026-07-27 05:34:24  #其他
-
-【部分地區性銀行下調存款利率 專家稱非降息前奏】近期，浙江部分城商行、農商行主動下調存款利率，降幅從1個基點到20個基點不等。業內專家表示，此次部分銀行主動下調存款利率僅為區域性自律機制調整，不應理解為降息前的訊號。針對此次浙江地區部分銀行調整存款利率的行為，招聯首席經濟學家董希淼認為：“這並非全面降息訊號，而是源於區域性自律機制調整。”
-
----
-
-### 2026-07-27 05:33:10  #國際
-
-美國能源部指令西南電力聯營排程發電機組，保障17個州高溫天氣電力供應。
-
----
-
-### 2026-07-27 05:32:26  #其他
-
-香港天文臺釋出黃色暴雨警告。
-
----
-
-### 2026-07-27 05:19:36  #MKT News #WTI #Impact bearish #Brent
-
-【CENTCOM commander urged pause in strikes near Strait of Hormuz, called continued airstrikes "meaningless"】Admiral Cooper, commander of U.S. Central Command, advised pausing strikes near the Strait of Hormuz, Axios reports. His recommendation to the Pentagon, the Joint Chiefs and the White House helped persuade President Trump to suspend planned strikes on Iran on Friday. Cooper told officials two weeks of strikes had significantly degraded Iran’s ability to attack ships and that most designated targets had been struck. He said roughly 20% of targets assigned in the "Epic Fury" operation remain unstruck and that the next step could be resuming large-scale operations to complete them. Cooper warned that continuing the recent air campaign without deciding to resume large-scale operations would be "meaningless." Military and civilian advisers told the president gains achievable by military action, particularly air power, are limited.
-
----
-
-### 2026-07-27 05:12:07  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-At the FX open, the dollar index (DXY) fell 0.16% to 101.31; AUD/USD rose 0.23%; USD/JPY fell 0.16%; EUR/USD rose 0.18%.
-
----
-
-### 2026-07-27 05:06:43  #國際
-
-【墨西哥民眾遊行聲援古巴】當日，大批民眾在墨西哥城遊行，聲援古巴政府和人民，反對美國對古巴長期實施的封鎖和干涉。1953年7月26日，古巴前領導人菲德爾·卡斯特羅率領100餘名青年，向當時古巴巴蒂斯塔獨裁政權的第二大軍事要塞——蒙卡達兵營進發，打響了推翻親美獨裁政權的古巴革命第一槍。“7·26國家起義日”因此成為古巴最重要的紀念日之一。（新華社）
-
----
-
-### 2026-07-27 05:03:34  #MKT News #Brent #Impact bullish #XAUUSD
-
-【Iran senior official warns Ukraine any action against Iran will be met with retaliation】Ebrahim Azizi, chairman of Iran’s parliament National Security and Foreign Policy Commission, said any attack on Iran inevitably carries a price and that the US and Israel are aware. He warned Ukraine may soon learn this too, saying Iran will not leave any action unanswered and that the list of those who miscalculate continues to grow.
-
----
-
-### 2026-07-27 04:55:22  #其他
-
-【有毒“養生神藥”曝光後 安徽亳州已成立調查組】《財經調查》欄目7月26日晚間曝光毒性中藥材銷售亂象，安徽亳州市有商戶違規“代購”毒性中藥材生附子，透過線下的隱蔽交易，線上商戶再以“1元連結”為掩護，將一些國家嚴格管控的毒性中藥材銷往全國各地。在亳州，記者透過大量調查工作，摸清了線下流竄、線上交易的藥材代購和打著“冷門藥材”生意幌子的“冷背”藥材店銷售生附子、生半夏等毒性中藥材的不法行為。當晚，亳州市市場監督管理局釋出情況通報表示，總檯報道亳州市四芝堂冷背店、迎春堂冷背店、佑源堂冷背店銷售毒性中藥材生附子、生半夏的問題後，亳州市市場監督管理局已會同公安等部門成立調查組，認真開展全面調查，並將根據調查結果依法作出處理。 (央視新聞)
-
----
-
-### 2026-07-27 04:52:16  #MKT News
-
-【Four U.S. service members reclassified; U.S.-Iran casualty data questioned】According to AP, four U.S. service members previously listed as killed in the U.S.-Iran conflict have been removed from the Pentagon’s official Iran casualty list and reclassified under a new "overseas operations" category. The Defense Casualty Analysis System (DCAS) last week deleted the four deaths and dozens of wounded from its Iran-war tally. On Sunday DCAS added an "overseas operations" listing naming the four dead and 207 wounded, but it is unclear whether the full wounded cohort is tied to the Iran conflict. The move, and the Pentagon’s suspension of public casualty briefings since early May and CENTCOM’s halt to updates, has prompted questions about the transparency of U.S. military casualty reporting; the Pentagon says DCAS is its transparency mechanism.
 
 ---
