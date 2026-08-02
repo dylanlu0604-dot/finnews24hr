@@ -1,7 +1,31 @@
 {
   "date": "2026-08-02",
-  "count": 555,
+  "count": 558,
   "items": [
+    {
+      "id": "5020940",
+      "time": "2026-08-02 22:35:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：08月02日22時31分在青海海南州興海縣附近（北緯35.38度，東經99.55度）發生4.9級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5020938",
+      "time": "2026-08-02 22:31:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家疾病預防控制局和中國氣象局聯合釋出高溫健康風險預警和健康提示】國家疾病預防控制局、中國氣象局8月2日18時聯合釋出高溫健康風險預警：預計，8月2日20時至3日20時，東北地區中部和南部、華北地區東部、黃淮東部、江淮、江南東北部及新疆、內蒙古等地高溫健康風險較高（黃色預警）；遼寧、吉林、黑龍江、山東、江蘇、天津、安徽、新疆、河南、湖北等地的部分地區高溫健康風險高（橙色預警），其中，遼寧大部、吉林大部、黑龍江南部、山東北部和東部、安徽北部和東南部、新疆北部和東部等地的部分地區高溫健康風險極高（紅色預警）。請公眾及時關注預警資訊變化，保持室內涼爽，避開高溫時段外出，減少戶外活動，保證充足飲水。老人、孕婦、兒童、慢性病患者加強關注自身健康狀況，如不適及時就醫。戶外作業者注意防暑降溫。"
+    },
+    {
+      "id": "mkt:019fc2e2-8bab-7aab-8f47-58c0f97c4003",
+      "time": "2026-08-02 22:30:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Al-Taji ammunition depot explodes; authorities cite high temperatures, no sign of attack】Iraqi media report an explosion at an ammunition depot at the Al-Taji military base north of Baghdad. The Iraq Security Media Cell said the blast was caused by elevated internal temperatures. The base is long used by US-led coalition forces. Officials said there is no indication the incident was an attack; no further information on casualties has been released."
+    },
     {
       "id": "5020937",
       "time": "2026-08-02 22:28:53",
