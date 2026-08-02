@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-02 08:06:23",
-  "count": 17989,
+  "updated": "2026-08-02 08:10:16",
+  "count": 17986,
   "items": [
+    {
+      "id": "5020607",
+      "time": "2026-08-02 08:09:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列空襲加沙，猛烈轟炸下造成多人傷亡。"
+    },
     {
       "id": "mkt:019fbfc6-0ec4-7aab-8f44-112490442b2f",
       "time": "2026-08-02 08:00:55",
@@ -166581,41 +166589,6 @@
         "其他"
       ],
       "text": "加拿大外長：加拿大與阿聯酋完成了全面經濟夥伴關係協議的談判。"
-    },
-    {
-      "id": "5008202",
-      "time": "2026-07-26 08:09:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣深高速改擴建專案建設提速】7月25日，記者從廣東交通集團獲悉，廣深高速改擴建專案（穗莞段）完成首次主線交通轉換，標誌著專案進入施工新階段。“主線已控流，現在開始交通轉換！”當天上午6時50分，隨著交警指揮命令下達，現場工作人員按照既定方案迅速調整反光錐、水馬、護欄，開啟兩端封閉設施，撤出管制人員等。整個轉換過程有條不紊，僅耗時10分鐘。此次交通轉換由廣深高速主線雙幅雙向通行轉至左幅雙向通行，共設定兩處交通轉換口，並相較同期專案延長交通轉換口長度，提升行車舒適性。（深圳特區報）"
-    },
-    {
-      "id": "5008201",
-      "time": "2026-07-26 08:08:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳：目前全市累計建成480千瓦以上超充站1227座】目前，全市累計建成480千瓦以上超充站1227座、重卡超充換電站48座、乘用車閃充站120座、綜合能源補給站15座，虛擬電廠實時可調負荷超140萬千瓦。加快構建多場景、多層次、廣覆蓋的充電基礎設施體系，深圳入選國家首批車網互動規模化應用試點城市，建成中國首個光儲充放一張網和虛擬電廠管理平臺，先行示範的步伐越走越快。（深圳特區報）"
-    },
-    {
-      "id": "mkt:019f9bbf-f6bf-7aab-8e97-5bac98abfb77",
-      "time": "2026-07-26 08:07:56",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Foreign Minister Anand reiterated Canada's commitment to deepen ties with the UAE, condemned recent attacks on the UAE and stressed the importance of maritime security, freedom of navigation and regional stability, explicitly citing security in the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019f9bbf-711a-7aab-8e97-57f9b728ad80",
-      "time": "2026-07-26 08:07:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Foreign Minister Anand said Canada and the UAE have completed negotiations on a comprehensive economic partnership agreement in 47 days — the fastest trade negotiation in Canadian history — and that the pact would help lower trade barriers."
     }
   ]
 }
