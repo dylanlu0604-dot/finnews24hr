@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-02 09:50:31",
-  "count": 17946,
+  "updated": "2026-08-02 09:54:29",
+  "count": 17948,
   "items": [
+    {
+      "id": "5020635",
+      "time": "2026-08-02 09:52:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "據澳大利亞媒體：美伊衝突推動澳大利亞電動汽車銷量激增，市場需求增幅超一倍。"
+    },
+    {
+      "id": "mkt:019fc02b-8cb2-7aab-8f44-a72b2de55f3e",
+      "time": "2026-08-02 09:51:47",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【Regions continue optimizing housing provident fund policies to meet urgent demand】The State Council executive meeting approved a draft decision to amend the Housing Provident Fund Management Regulations, directing wider withdrawal and use rules, expanded coverage and improved fund management and services to better meet diverse resident housing needs. Tsinghua University Real Estate Research Center director Wu Jing said the adjustments respond to shifts in household housing consumption and the property market, will lower contributors’ housing costs, help release both improvement and rigid demand, and aid in stabilizing market expectations."
+    },
+    {
+      "id": "mkt:019fc02a-bac7-7aab-8f44-9cc958b67f6c",
+      "time": "2026-08-02 09:50:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI president and co‑founder Brockman said ChatGPT is a powerful amplifier of thought."
+    },
+    {
+      "id": "5020634",
+      "time": "2026-08-02 09:50:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國天然氣暗盤日內跌超1%】美國天然氣暗盤日內跌超1%，現報2.76美元。"
+    },
+    {
+      "id": "5020633",
+      "time": "2026-08-02 09:49:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤日內跌超1%，現報2.7564美元。"
+    },
     {
       "id": "mkt:019fc029-620b-7aab-8f44-922f447be932",
       "time": "2026-08-02 09:49:25",
@@ -166221,31 +166269,6 @@
         "MKT News"
       ],
       "text": "HKO is considering issuing the No. 3 Strong Wind Signal between 12:00 and 14:00."
-    },
-    {
-      "id": "5008265",
-      "time": "2026-07-26 09:53:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【沙特原油出口僅剩一條關鍵通道 能源市場高度依賴蘇伊士運河】自美伊戰爭爆發以來，沙特將原油出口重心轉移至本國紅海沿岸港口，以此繞開霍爾木茲海峽，經由曼德海峽向亞洲客戶運油。但眼下胡塞武裝持續發動襲擊，近幾日多艘沙特油輪遇襲，這條替代航線隨時可能被切斷。沙特被迫將更多原油改道，走航程更長、成本更高、運輸流程更復雜的埃及蘇伊士運河，甚至繞行非洲南端。船舶追蹤機構沃泰克薩的資料顯示：本週至少四艘滿載沙特原油的油輪，在抵達紅海南端曼德海峽前緊急調轉航向北上，駛向蘇伊士運河；同時沙特開始增加埃及地中海港口原油裝船配額。7月前三週，經蘇伊士運河海運原油量創下兩年半新高；配套平行管道蘇麥德管道原油輸送量環比上漲50%。蘇伊士航線同樣無法脫離衝突威脅。知情人士透露，伊朗革命衛隊高層近日放出狠話：若美國加大打擊力度或籌劃地面入侵，伊朗將封鎖曼德海峽及紅海航道，並針對性襲擊過往商船。沙特、埃及多方斡旋，仍未能說服伊朗扶持的葉門胡塞武裝收手。"
-    },
-    {
-      "id": "5008264",
-      "time": "2026-07-26 09:53:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局（USGS）監測：特里斯坦-達庫尼亞群島區域發生5.1級地震。"
-    },
-    {
-      "id": "5008263",
-      "time": "2026-07-26 09:51:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳市分割槽暴雨黃色預警訊號升級為橙色】過去3小時，南山區、光明區、深圳灣和寶安區（石巖街道）已出現強降雨，預計未來強降水持續，深圳市氣象臺2026年07月26日07時55分將上述區域暴雨黃色預警訊號升級為橙色，全市進入暴雨防禦狀態，請遠離低窪易澇等危險區域，上述區域山洪風險較大，注意防禦暴雨可能引發的區域性內澇、山洪、滑坡、泥石流等災害。"
     }
   ]
 }

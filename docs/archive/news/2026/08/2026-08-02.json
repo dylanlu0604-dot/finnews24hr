@@ -1,7 +1,55 @@
 {
   "date": "2026-08-02",
-  "count": 171,
+  "count": 176,
   "items": [
+    {
+      "id": "5020635",
+      "time": "2026-08-02 09:52:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "據澳大利亞媒體：美伊衝突推動澳大利亞電動汽車銷量激增，市場需求增幅超一倍。"
+    },
+    {
+      "id": "mkt:019fc02b-8cb2-7aab-8f44-a72b2de55f3e",
+      "time": "2026-08-02 09:51:47",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【Regions continue optimizing housing provident fund policies to meet urgent demand】The State Council executive meeting approved a draft decision to amend the Housing Provident Fund Management Regulations, directing wider withdrawal and use rules, expanded coverage and improved fund management and services to better meet diverse resident housing needs. Tsinghua University Real Estate Research Center director Wu Jing said the adjustments respond to shifts in household housing consumption and the property market, will lower contributors’ housing costs, help release both improvement and rigid demand, and aid in stabilizing market expectations."
+    },
+    {
+      "id": "mkt:019fc02a-bac7-7aab-8f44-9cc958b67f6c",
+      "time": "2026-08-02 09:50:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI president and co‑founder Brockman said ChatGPT is a powerful amplifier of thought."
+    },
+    {
+      "id": "5020634",
+      "time": "2026-08-02 09:50:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國天然氣暗盤日內跌超1%】美國天然氣暗盤日內跌超1%，現報2.76美元。"
+    },
+    {
+      "id": "5020633",
+      "time": "2026-08-02 09:49:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤日內跌超1%，現報2.7564美元。"
+    },
     {
       "id": "mkt:019fc029-620b-7aab-8f44-922f447be932",
       "time": "2026-08-02 09:49:25",
