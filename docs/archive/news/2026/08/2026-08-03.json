@@ -1,7 +1,117 @@
 {
   "date": "2026-08-03",
-  "count": 2601,
+  "count": 2613,
   "items": [
+    {
+      "id": "mkt:019fc82e-b287-7aab-8f5a-f8b511d6ce9b",
+      "time": "2026-08-03 23:12:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he believes Trump does not want to see a global economic collapse."
+    },
+    {
+      "id": "5022983",
+      "time": "2026-08-03 23:12:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：我認為特朗普的考量是，他不願目睹全球經濟崩盤。"
+    },
+    {
+      "id": "mkt:019fc82e-61b1-7aab-8f5a-f1f750a0313c",
+      "time": "2026-08-03 23:11:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "NETANYAHU said Israel is the world’s second-largest cyber superpower and now seeks to achieve the same status in AI."
+    },
+    {
+      "id": "mkt:019fc82e-60a8-7aab-8f5a-e9b03b9a1cd0",
+      "time": "2026-08-03 23:11:50",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【China water-sports equipment orders surge; surfboards see global order boom】Orders for China-made water-sports equipment have surged. At a motorized surfboard plant, workers say production schedules are booked about two weeks out as management races to fill orders. Accessories including surf hoods and waterproof bags are selling out online and factories are expediting replenishment. China remains the world’s largest sports-goods exporter, accounting for more than 40% of global exports. In 1H, Chinese sports goods and equipment exports totaled 67.53 bln yuan; paddleboards and other water-sports equipment exports reached 4.77 bln yuan."
+    },
+    {
+      "id": "5022982",
+      "time": "2026-08-03 23:10:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：伊朗工業、礦業和貿易部長抵達伊斯蘭堡，出席伊巴聯合貿易委員會會議，並會見巴基斯坦高層官員。"
+    },
+    {
+      "id": "mkt:019fc82c-2184-7aab-8f5a-e1b50696f60c",
+      "time": "2026-08-03 23:09:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's minister of industry, mines and trade arrived in Islamabad to attend an Iran-Pakistan Joint Trade Committee meeting and will meet senior Pakistani officials."
+    },
+    {
+      "id": "5022981",
+      "time": "2026-08-03 23:09:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "EIA：上週美國戰略石油儲備中的原油庫存減少約285萬桶，至3.048億桶，為1983年以來最低水平。"
+    },
+    {
+      "id": "mkt:019fc82b-99dd-7aab-8f5a-d96421cc7ef1",
+      "time": "2026-08-03 23:08:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA data show crude stocks in the US Strategic Petroleum Reserve fell about 2.85 mln bbl last week to 304.8 mln bbl, the lowest level since 1983."
+    },
+    {
+      "id": "5022980",
+      "time": "2026-08-03 23:08:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行調查顯示，私營部門分析師預計基準利率將在2026年底收於6.50%。"
+    },
+    {
+      "id": "5022979",
+      "time": "2026-08-03 23:08:03",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行調查顯示，私營部門分析師預計，到2026年底，匯率將為1美元兌換17.88比索。"
+    },
+    {
+      "id": "5022978",
+      "time": "2026-08-03 23:07:58",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行調查顯示，私營部門分析師預計基準利率將在2027年末收於6.50%。"
+    },
+    {
+      "id": "5022977",
+      "time": "2026-08-03 23:07:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍稱在加沙擊斃一名傑哈德指揮官。"
+    },
     {
       "id": "mkt:019fc82a-a47f-7aab-8f5a-d4e67d6c2e86",
       "time": "2026-08-03 23:07:45",
