@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-04 03:18:06",
-  "count": 17987,
+  "updated": "2026-08-04 03:22:03",
+  "count": 17990,
   "items": [
+    {
+      "id": "mkt:019fc912-9bdc-7aab-8f5e-d95f3df251ce",
+      "time": "2026-08-04 03:21:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says it has at least two-year economic resilience plan】Iran's economy minister Ali Madanizadeh told state media the government has a resilience plan to sustain the economy for at least two years and has prepared responses to any 'plots' by adversaries."
+    },
+    {
+      "id": "5023196",
+      "time": "2026-08-04 03:19:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥玉米、小麥期貨漲超1.9%】週一（8月3日）紐約尾盤，彭博穀物分類指數漲1.30%，報31.4812點，美股開盤之前維持微幅下跌狀態、持穩於30.90點附近，之後持續上揚。CBOT玉米期貨漲1.94%，報4.73美元/蒲式耳。CBOT小麥期貨漲1.92%，報6.5150美元/蒲式耳。CBOT大豆期貨漲0.40%，報11.9225美元/蒲式耳，豆粕期貨漲0.09%，豆油期貨漲1.84%。CBOT瘦肉豬期貨跌1.41%，活牛期貨跌0.10%，飼牛期貨跌0.14%。"
+    },
+    {
+      "id": "mkt:019fc910-dcb9-7aab-8f5e-d25cd25e149b",
+      "time": "2026-08-04 03:19:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "【Hugging Face CEO: China leads in open-weight models and could match US on frontier models by year-end】Hugging Face CEO Clement Delangue told CNBC China currently dominates open-weight/open-source models and, at the current pace, could match U.S. model developers in frontier models by year-end or early next year. He attributed the gap to China’s collaborative, open ecosystem versus U.S. firms operating independently, which he said risks U.S. lag. On last month’s OpenAI agent breach of Hugging Face’s training environment, Delangue blamed an engineering error and said his firm used Chinese open-source models to mitigate the incident."
+    },
+    {
+      "id": "mkt:019fc910-3b44-7aab-8f5e-c8db02eaef45",
+      "time": "2026-08-04 03:18:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran adviser says US must not open non‑Iranian routes in Strait of Hormuz】On Aug 3, Mohsen Rezaei, military adviser to Iran’s Supreme Leader, told media Iran will not permit the United States to open any non‑Iranian shipping lanes in the Strait of Hormuz and would regard US warships deployed on such illegal routes as targets. He added Iran had prepared strikes on three sites in Ukraine but called them off after Ukraine apologized."
+    },
+    {
+      "id": "mkt:019fc90f-a511-7aab-8f5e-c328a2021be1",
+      "time": "2026-08-04 03:17:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Alhadath reports sources say Iran's foreign minister is due to visit Islamabad."
+    },
     {
       "id": "5023195",
       "time": "2026-08-04 03:17:09",
@@ -166648,23 +166699,6 @@
         "國際"
       ],
       "text": "以色列官員：若與哈馬斯談判失敗，必須動用武力摧毀其武裝能力；絕不能讓哈馬斯繼續掌控加沙地帶。"
-    },
-    {
-      "id": "5010794",
-      "time": "2026-07-28 03:20:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【渣打預警美債收益率上行風險，加息可緩解AI板塊估值隱患】渣打銀行警告稱，若美聯儲不採取更強硬的鷹派立場抑制通脹，美國10年期美債收益率或將升至5%。該行分析指出，美聯儲加息有助於遏制通脹預期、收平收益率曲線，並降低人工智慧題材推高的市場估值存在的風險。"
-    },
-    {
-      "id": "5010793",
-      "time": "2026-07-28 03:18:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普批評美國汽車工人聯合會主席肖恩·費恩。"
     }
   ]
 }
