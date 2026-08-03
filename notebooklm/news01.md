@@ -1,7 +1,248 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-04 04:13:11_
-_本檔包含 3371 則快訊，約 673237 字_
+_更新時間：2026-08-04 05:44:05_
+_本檔包含 3380 則快訊，約 672458 字_
+
+---
+
+### 2026-08-04 05:41:19  #MKT News
+
+Cuban media report the national power grid collapsed again after a blackout on Sunday.
+
+---
+
+### 2026-08-04 05:39:59  #其他
+
+古巴官方媒體：週日發生停電事故後，古巴國家電網再次全面癱瘓。
+
+---
+
+### 2026-08-04 05:36:35  #國際
+
+Palantir：歐洲業務增長 “十分糟糕”。
+
+---
+
+### 2026-08-04 05:33:51  #公司
+
+TEADS：法院裁定谷歌在部分數字廣告技術市場存在非法反競爭行為後，TEADS 提起訴訟。
+
+---
+
+### 2026-08-04 05:31:29  #國際
+
+市場訊息：伊朗總統佩澤希基揚表示，伊朗無意加劇西亞緊張局勢，但在捍衛領土完整問題上絕不妥協。
+
+---
+
+### 2026-08-04 05:28:44  #公司
+
+哥倫比亞國家石油公司（Ecopetrol）公佈第二季度淨利潤 6.06 萬億比索。
+
+---
+
+### 2026-08-04 05:26:51  #其他
+
+訊息人士稱，墨西哥最大肉類出口商蘇卡內（Sukarne）考慮出售，交易估值或超 20 億美元。
+
+---
+
+### 2026-08-04 05:21:37  #國際
+
+伊朗議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲：你們被驅逐的日子不遠了，屆時你們不僅會被趕出這一地區，還將被所有設有你們軍事基地的國家驅逐。你們將不得不把維持海外基地的資源轉而用於保衛本國。
+
+---
+
+### 2026-08-04 05:17:36  #其他
+
+Snap 首席財務官：我們預計直接收入增速將持續顯著高於整體業務增速。
+
+---
+
+### 2026-08-04 05:16:05  #MKT News
+
+The US House cybersecurity subcommittee has requested OpenAI CEO Sam Altman brief lawmakers on the Hugging Face breach.
+
+---
+
+### 2026-08-04 05:15:27  #市場
+
+富時A50期指連續夜盤收漲0.42%，報14681點。
+
+---
+
+### 2026-08-04 05:15:23  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+NTT Data is considering roughly $9.0 billion of investment in Japan's data-center sector.
+
+---
+
+### 2026-08-04 05:12:34  #公司 #國際
+
+美國眾議院網路安全委員會要求 OpenAI 執行長山姆・奧特曼就 Hugging Face 遭遇攻擊事件進行情況通報。
+
+---
+
+### 2026-08-04 05:11:05  #公司
+
+Snap 執行長：公司自研 AI 程式碼審查工具目前已可稽核 Snap 內部 90% 的程式碼合併請求。
+
+---
+
+### 2026-08-04 05:08:59  #其他
+
+委內瑞拉代總統羅德里格斯： 委內瑞拉地震遇難人數升至 6125 人。
+
+---
+
+### 2026-08-04 05:08:04  #其他
+
+Palantir：在第二季度與一家科技企業簽署 3.7 億美元合同。
+
+---
+
+### 2026-08-04 05:06:10  #公司
+
+Snap執行長： 人工智慧正助力我們加快服務最佳化速度，提升使用者參與度，併為廣告主改善轉化效果。
+
+---
+
+### 2026-08-04 05:05:04  #市場
+
+週一（8月3日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7581元，較上週五紐約尾盤跌57點，日內整體交投於6.7461-6.7593元區間。
+
+---
+
+### 2026-08-04 05:04:21  #MKT News
+
+【Japan ruling party backs cut to food consumption tax to 1% as Takaichi pushes pledge】The ruling party’s tax and social security committee approved a government proposal to cut the food consumption tax from 8% to 1% from April next year for a two-year period. Cabinet approval is sought early next month and the government aims to table legislation at an autumn extraordinary Diet session; the party’s top decision body may review the draft as soon as Wednesday. From June the plan includes roughly ¥600 billion a year in cash transfers to low- and middle-income households, with payments scaled by income. Funding remains unspecified; the government plans to rely on non-tax revenue, tax receipts and savings from reviewing tax preferences and subsidies to plug the gap.
+
+---
+
+### 2026-08-04 04:59:56  #市場
+
+週一（8月3日）紐約尾盤，現貨黃金漲0.21%，報4054.95美元/盎司，亞太盤初高開至4080.87美元重新整理日高，隨後震盪下行、21:38重新整理日低至4019.30美元。COMEX黃金期貨漲0.15%，報4113美元/盎司。現貨白銀漲1.01%，報58.18美元/盎司，美股盤初也曾重新整理日低至56.5694美元。COMEX白銀期貨漲1.08%，報58.400美元/盎司。COMEX銅期貨漲0.65%，報6.5490美元/磅。現貨鉑金跌1%，現貨鈀金跌1.30%。
+
+---
+
+### 2026-08-04 04:59:09  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Nikkei reports Japan's ruling party is close to cutting the food tax rate from 8% to 1%.
+
+---
+
+### 2026-08-04 04:58:30  #Trading Economics #Economy #Paraguay #Inflation Rate #Importance 1
+
+Paraguay Inflation Eases to 1.6% — Paraguay’s annual inflation eased to 1.6% in July 2026 from 2.1% in June, moving further below the central bank’s 3.5% target. The largest price increases were recorded in restaurants and hotels (9.7%), followed by education (5.9%), furniture and household goods (2.1%), healthcare (1.9%), and housing and utilities (1.8%). Meanwhile, transport prices fell 1.1% as lower oil prices, driven by easing Middle East tensions, helped curb overall inflation. Core inflation, which excludes volatile items, fell to 1.5% year-on-year from 1.7% in June. On a monthly basis, consumer prices fell 0.1%, following a 0.3% decline in the previous month.
+
+---
+
+### 2026-08-04 04:50:12  #公司
+
+【8月4日美股成交額前20：亞馬遜創歷史新高，市值突破3萬億美元】週一美股成交額第4名亞馬遜收高4.58%，成交252.87億美元。週一亞馬遜股價創歷史新高，延續上週財報釋出後的強勢行情，市值首次突破3萬億美元，成為史上第五家達成該里程碑的企業。其二季度財報顯示雲端計算業務營收增速加快。至此，亞馬遜與英偉達、Alphabet、微軟、蘋果一道，成為僅有的幾家市值站上3萬億美元大關的公司。
+
+---
+
+### 2026-08-04 04:49:55  #MKT News
+
+【CDC: Michigan reports two Cyclospora-related deaths】The US Centers for Disease Control and Prevention on the 3rd confirmed Michigan reported two deaths linked to Cyclospora; both patients had serious underlying conditions. These are the first Cyclospora-related fatalities reported since the US outbreak began spreading in May.
+
+---
+
+### 2026-08-04 04:47:50  #國際
+
+【美疾控中心：密歇根州報告兩例環孢子蟲病死亡病例】美國疾病控制和預防中心3日證實，密歇根州報告兩例環孢子蟲病相關死亡病例，兩名死者均患有嚴重基礎疾病。這是自今年5月環孢子蟲病在美持續蔓延以來首次報告相關死亡病例。（新華社）
+
+---
+
+### 2026-08-04 04:46:44  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+ONEOK earnings above expectations at 1.53 USD — ONEOK (OKE) released earnings per share at 1.53 USD, compared to market expectations of 1.49 USD.
+
+---
+
+### 2026-08-04 04:43:32  #其他
+
+【馬達加斯加一市場發生火災 3500人受災】馬達加斯加東部城市圖阿馬西納市政廳3日表示，當地一處市場2日晚間發生嚴重火災，至少3500人受災。（央視）
+
+---
+
+### 2026-08-04 04:42:41  #MKT News
+
+【Egypt, Qatar and Turkey say Israel violating Gaza ceasefire, demand protection for civilians and aid】Egypt, Qatar and Turkey issued a joint statement condemning Israel’s continued violations in Gaza, saying Israel must comply with its obligations under international law and honor its ceasefire commitments. The three said the actions constitute breaches of the ceasefire that undermine implementation of the second-phase truce and threaten de-escalation, and called for protection of civilians, medical facilities and humanitarian personnel and for unimpeded delivery of aid and medical supplies into Gaza.
+
+---
+
+### 2026-08-04 04:41:10  #市場 #觀點 #焦點
+
+花旗：基準情景下，金價未來一個月將維持震盪甚至下行，隨後在 2026 年第四季度上漲至每盎司 4500 美元，並於 2027 年上半年觸及每盎司 5000 美元。
+
+---
+
+### 2026-08-04 04:38:39  #國際
+
+【埃及、卡達和土耳其發表聯合宣告 譴責以色列在加沙侵犯行為】當地時間3日，埃及、卡達和土耳其三國發表聯合宣告，強烈譴責以色列在加沙地帶持續的侵犯行為。三國強調，以色列必須遵守其在國際法下的所有義務，並全面履行其在停火協議中作出的承諾。三國重申，以色列持續侵犯加沙行為構成對停火協議的違反，破壞了第二階段停火協議的實施，並威脅局勢緩解程序。三國呼籲，確保平民、醫療設施和人道主義人員得到充分保護，並保障人道主義援助和醫療物資在加沙地帶暢通無阻地運送。（央視新聞）
+
+---
+
+### 2026-08-04 04:35:11  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 1.32% Higher — The Dow Jones Index went up by 693 points or 1.32 percent on Monday to close at 53178 points. The rise was led by Boeing (7.93%), Microsoft (4.90%) and Amazon (4.64%).
+
+---
+
+### 2026-08-04 04:34:15  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Brazilian Stocks Close Flat — The Ibovespa closed flat at 178,000 on Monday as losses in heavyweight commodity stocks offset optimism over easing Middle East tensions. Iran signaled progress in negotiations to restore shipping through the Strait of Hormuz after US President Donald Trump called off a planned strike on the country. The prospect of a diplomatic solution pushed oil prices lower, easing inflation concerns and driving bond yields down. The favorable backdrop reinforced expectations that the BCB will cut the Selic rate this week from the current 14.25%. Financials advanced, with Itaú and Bradesco rising 0.6%, while utilities also gained, with Axia up 1.4%. Also, Embraer climbed 3.1% after BNDES approved R$3.3-3.7 billion in financing to support exports of up to 19 aircraft to Canada's Porter Aviation Holdings. However, Petrobras (-0.8%) and Vale (-2.1%) weighed on the index as oil and iron ore prices declined.
+
+---
+
+### 2026-08-04 04:31:19  #宏觀 #央行 #國際
+
+【道明：干預勢頭可能短暫推動美元/日元跌至153】道明證券認為，干預的推動力可能會使美元/日元跌至153，但除非日本央行採取更多行動或美國財政部做出全面承諾，否則就只會暫時如此。“動能可能短暫推動美元/日元跌至153，但要沒有日本央行的行動或美國財政部的全面承諾，我們不認為該貨幣對會大幅低於該水平，” Howard Du、Gennadiy Goldberg和Molly Brooks等策略師寫道。“美日雙邊貿易動態、‘賣出美國’情緒復甦的風險、美國信譽惡化的風險、政治考量以及包括系統性衝擊在內的風險，是我們相信美國財政部不願全力託底日元的五大原因”。
+
+---
+
+### 2026-08-04 04:27:33  #公司 #國際
+
+美森輪船：截至目前，伊朗衝突尚未影響公司經營業績與服務水平，但已推高公司所有運營市場的燃油價格。持續預期在年底前收回全部燃油成本。
+
+---
+
+### 2026-08-04 04:26:16  #國際
+
+【卡達外交部：調停國聯合宣告（卡達、埃及、土耳其），針對以色列持續在加沙實施侵犯行為】卡達、埃及、土耳其以調停國身份，譴責並強烈抨擊以色列持續在加沙地帶實施各類侵犯行為，尤其是襲擊醫療設施與基礎設施，造成包括婦女、兒童在內大量平民傷亡。此類行為公然違反國際法與國際人道主義法。
+調停各方強調，以色列必須履行國際法項下全部義務，嚴格遵守停火協議各項條款。調停方指出，以色列持續實施侵權行為等同於破壞停火協議，阻礙協議第二階段落地。哈馬斯及巴勒斯坦各派系此前已同意相關路線圖，尤其就武器管控達成共識。以方行動破壞局勢緩和程序，進一步加劇加沙平民苦難。
+
+---
+
+### 2026-08-04 04:25:44  #MKT News
+
+Qatar's Foreign Ministry said Qatar, Egypt and Turkey condemned Israel's ongoing violations in the Gaza Strip, particularly attacks on medical facilities and infrastructure.
+
+---
+
+### 2026-08-04 04:21:43  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Diamondback Energy earnings above expectations at 6.48 USD — Diamondback Energy (FANG) released earnings per share at 6.48 USD, compared to market expectations of 6.18 USD.
+
+---
+
+### 2026-08-04 04:21:43  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Williams Companies earnings in line with market expectations at 0.50 USD — Williams Companies (WMB) released earnings per share at 0.50 USD, in line with market expectations.
+
+---
+
+### 2026-08-04 04:16:37  #公司
+
+【SNAP第二季度營收16億美元 高於市場預期】SNAP第二季度營收16億美元，預估15.4億美元；第二季度調整後EBITDA 2.5億美元，預估1.923億美元；第二季度日活躍使用者4.9億，預估4.9億。公司預計第三季度營收17億美元至17.4億美元。
+
+---
+
+### 2026-08-04 04:16:27  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+Wall Street Rises on Easing Middle East Tensions — US stock indices closed higher on Monday with support from a rebound in Treasury securities. The S&P 500 rose 1.5%, nearing it's record high, while the Dow added 693 points to close at a record 53,178 and the Nasdaq 100 gained 1.8%. The US refrained from striking Iran over the weekend and fuel prices pulled back, lowering yields across the curve as markets readjusted the magnitude of inflation risks. Tehran signaled progress in talks aimed at restoring shipping through the Strait of Hormuz. AI and megacap technology stocks posted gains with the rebound in risk demand, with Amazon (+4.6%) surpassing a $3 trillion market value, alongside advances in Alphabet (+4.9%), Microsoft (+4.9%), and Meta (+6%). Chipmakers also rallied, with Nvidia (+2.9%), AMD (+1.8%), and Sandisk (+6%) posting solid gains. Investors now await earnings from SpaceX (+5.7%) and AMD on Tuesday.
 
 ---
 
@@ -20131,191 +20372,5 @@ Changan Automobile said July deliveries were 207,100 vehicles, including 96,500 
 ### 2026-08-02 14:12:52  #其他
 
 【水利部：20條河流仍超警 釋出紅色山洪災害氣象預警】截至今天9時，黑龍江、吉林、內蒙古、河北等地20條河流仍維持超警。據預報，未來3天（8月2日至4日），受降雨及上游來水影響，松花江支流呼蘭河將發生編號洪水，暴雨區內黑龍江省呼蘭河支流歐根河泥河、陝西漢江支流乾佑河、四川渠江支流恩陽河等中小河流可能發生超警洪水。8月2日8時至8月3日8時，廣東東南部、重慶南部、四川東部、貴州西部和北部、雲南北部、陝西南部部分地區發生山洪災害可能性大（橙色預警）；其中，四川東部、陝西南部局地發生山洪災害可能性很大（紅色預警）。水利部今天8時釋出紅色山洪災害氣象預警，維持洪水藍色預警，提醒暴雨洪水影響地區社會公眾注意防範。（央視新聞）
-
----
-
-### 2026-08-02 14:10:19  #行業
-
-【中國產品包攬全球大模型呼叫量前五】近日，全球多模型聚合平臺OpenRouter釋出最新一週AI大模型呼叫量榜單，排名前五的產品全部由中國企業研發。登頂榜單首位的是小米MiMo-V2.5，單週呼叫量達到10.5萬億Token，環比增長12%。排名第二和第五的均來自DeepSeek，兩款模型形成高低搭配，覆蓋不同開發需求，其中旗艦Pro版本在程式碼、複雜智慧體任務效能對標海外頂級閉源模型。而這些模型的共同之處，是釋出時間很短便快速上榜，位列第三的騰訊混元3，7月6日才正式開源，單週環比增幅超999%，是榜單增長勢頭最猛的模型。（央視財經）
-
----
-
-### 2026-08-02 14:02:07  #其他
-
-西捷航空空乘人員發起罷工。
-
----
-
-### 2026-08-02 13:59:15  #MKT News #Market Regions #Greater China
-
-【China Cotton Association issues statement opposing U.S. sanctions on Chinese cotton and textile firms】The China Cotton Association said U.S. allegations of "forced labor" lack factual and legal basis and that U.S. sanctions have seriously disrupted the global cotton industry and supply chains. The association said the measures infringe on Chinese firms’ legal rights and asserted China's cotton and textile sector — with the most complete global industry chain, a very large domestic market and increasingly diversified international channels — has the ability to respond. It called on domestic cotton and textile companies to strengthen cooperation, diversify markets and bolster supply-chain resilience to counter external restrictions.
-
----
-
-### 2026-08-02 13:58:43  #其他
-
-【希臘山火逼近首都雅典】近日，希臘多地燃起山火。8月1日，其中一場山火藉助強風蔓延至首都雅典西北方向，情況危急。希臘消防部門表示，已向這處火場派遣超過300名消防員、92輛消防車、18架飛機和7架直升機進行滅火工作。（CCTV國際時訊）
-
----
-
-### 2026-08-02 13:57:34  #國際
-
-市場訊息：伊朗議會國家安全委員會發言人週日表示，伊朗武裝部隊正按照最高領袖穆傑塔巴・哈梅內伊的指令管控霍爾木茲海峽及其周邊水域。
-
----
-
-### 2026-08-02 13:56:07  #國際
-
-【中國棉花協會關於反對美方制裁打壓中國棉紡織企業的宣告】2026年7月31日，美國國土安全部將包括棉紡織等在內的43家中國企業列入《維吾爾強迫勞動預防法》（UFLPA）實體清單，此舉是清單設立以來單次擴容規模最大的一次，嚴重違背了國際貿易基本準則。中國棉花協會對此表示高度關注和堅決反對。美方所謂“強迫勞動”的指控毫無事實與法理依據。中國棉花產業始終堅持市場化、現代化發展方向，新疆機採棉目前佔比已超過90%，從種植、採摘到加工、紡織，全產業鏈均實現了高度自動化與規模化。廣大棉農與產業工人的勞動權益受到中國法律的嚴格保護，就業選擇完全自由，根本不存在所謂的強迫勞動。美方無視這一客觀事實，對中國企業實施“有罪推定”，其實質是將人權議題政治化、工具化，企圖遏制中國棉紡織產業的發展。此次制裁嚴重破壞了全球棉花產業鏈與供應鏈的穩定。棉花作為全球性的大宗商品，其產業鏈已高度國際化。美方此舉損害了中國企業的合法權益。面對美方打壓，中國棉花產業有信心、有能力應對挑戰。中國擁有全球最完整的棉花及紡織產業鏈、超大規模的國內消費市場以及日益多元化的國際市場佈局。我們呼籲廣大國內棉花及紡織企業保持定力，堅定信心，加強合作，積極開拓多元化市場，增強供應鏈韌性，以高質量的產品和不可替代的產業優勢打破外部封鎖。中國棉花協會將一如既往地支援並維護中國棉花及紡織企業的合法權益。持續推進“中國棉花可持續發展專案”，堅持“環境友好、品質優良、尊重勞動、全程可追溯”的理念，做好資訊披露、企業監督，使產品的綠色屬性“看得見、算得清、可驗證、能追溯”，塑造中國棉業及紡織業高質量、可持續發展形象。（環球網）
-
----
-
-### 2026-08-02 13:55:59  #MKT News
-
-Israel Defense Forces (IDF) said it killed two Hamas commanders in Gaza over the weekend.
-
----
-
-### 2026-08-02 13:54:52  #國際
-
-市場訊息：以色列國防軍稱，週末在加沙擊斃兩名哈馬斯指揮官。
-
----
-
-### 2026-08-02 13:51:46  #MKT News
-
-EMSC reported a magnitude 4.2 earthquake in Michoacán, Mexico, at a depth of 64.3 km.
-
----
-
-### 2026-08-02 13:42:08  #國際
-
-【伊朗外長與沙特外交大臣通電話 討論地區局勢】當地時間8月2日，伊朗外交部發布訊息稱，1日晚，伊朗外交部長阿拉格齊同沙特外交大臣費薩爾通電話，就地區局勢交換意見。阿拉格齊表示，伊朗已做好維護國家主權、領土完整和國家安全的準備。任何來自美國和以色列的“侵略和敵對行動”，以及地區國家對有關行動的參與或配合，都將遭到伊朗武裝力量的“堅決回應”，相關行動的策劃者將對由此產生的後果承擔責任。（央視新聞）
-
----
-
-### 2026-08-02 13:40:37  #公司
-
-【上海港單晝夜集裝箱吞吐量創新高】記者2日從上港集團獲悉，8月1日，上海港單晝夜集裝箱吞吐量創歷史新高，達到203881標準箱(TEU)，突破此前6月9日創下的187312TEU紀錄，充分彰顯世界級樞紐港口生產韌性。（中國新聞網）
-
----
-
-### 2026-08-02 13:38:15  #其他
-
-【國慶假期火車票開啟預約】京滬高鐵、京滬鐵路的200多趟列車國慶假期的車票開啟預約，8月2日可預約9月30日的車票。旅客可透過鐵路12306App“預約購票”服務專區，在列車開車前第60天至第17天填報預約需求，每日8時起可提交開車前第60天的預約訂單，旅客可根據自身需求選擇“精確預約”與“模糊預約”。鐵路12306系統將於開車前第20天至第16天兌現預約訂單，兌現成功後，旅客需在當日23時前完成支付，逾期未支付的預約訂單將自動取消。（中國鐵路）
-
----
-
-### 2026-08-02 13:37:46  #其他
-
-【陝西兩地強降雨或致洪水 防禦三級應急響應啟動】陝西省水利廳8月2日12時啟動漢中、安康洪水防禦三級應急響應：綜合考慮氣象暴雨預警，預報漢中、安康將發生強降雨過程，可能引發大範圍中小河流洪水，山洪災害風險很高。（央視新聞）
-
----
-
-### 2026-08-02 13:36:35  #MKT News #Market Themes #The Trump Trade #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-【Analyst: Trump halt to Iran strikes linked to Saudi diplomacy, Iranian pressure】Trump canceled planned strikes on Iran after requests from Iran and other Middle Eastern states, CNN reported; sources said Saudi Crown Prince phoned Trump to express concern. Military analyst and former USAF colonel Cedric Leighton said both Saudi Arabia and Iran have incentives to avoid escalation: disruptions to the Strait of Hormuz have imposed economic strain on Saudi Arabia, and Riyadh’s diplomatic engagement likely contributed to Trump’s pause. Leighton added that after five months of conflict Iran faces economic and military pressure, and any diplomatic pressure from Tehran may reflect an effort to buy time to preserve itself.
-
----
-
-### 2026-08-02 13:36:31  #其他
-
-【受降雨影響 陝西新增轉移避險9908戶21158人】記者從陝西省應急管理廳瞭解到，8月1日6時至8月2日6時，陝西的陝北中南部、關中大部、陝南大部降大到暴雨，澄城、漢臺、南鄭、佛坪、平利5縣區降大暴雨。全省有106個縣（區）降水，其中10毫米以下22個，10—25毫米15個，25—50毫米34個，50—100毫米30個，100毫米以上5個。8月1日6時至8月2日6時，陝西省新增轉移避險9908戶21158人。（央視新聞）
-
----
-
-### 2026-08-02 13:20:40  #MKT News #Commodities #Precious Metals #XAUUSD
-
-【Iran commodity exchange posts record single-day silver inflows of 2,100 kg】Iranian news agency IRNA reported the Iran commodity exchange recorded a single-day inflow of 2,100 kg of silver bars, surpassing the previous 2,000 kg record. The exchange said the volume signals increased liquidity and greater confidence in its silver deposit certificate market. The exchange guarantees bullion authenticity and quality, and under capital market rules gold and silver funds must deposit physical bars or coins into the exchange warehouse proportional to issued fund shares.
-
----
-
-### 2026-08-02 13:20:05  #其他
-
-【中央氣象臺繼續釋出暴雨橙色預警 四川廣東等地有特大暴雨】今天（2日）上午，中央氣象臺繼續釋出暴雨橙色預警：預計，今天14時到明天14時，陝西南部、四川東部、重慶中部、貴州西部和北部、廣西南部沿海、廣東南部沿海等地部分地區有大暴雨，四川盆地東北部、廣東東南部沿海等地局地特大暴雨。（央視新聞）
-
----
-
-### 2026-08-02 13:12:36  #其他
-
-【新一代通訊網建設加快 千兆光網覆蓋超九成國民經濟大類】記者從工業和資訊化部瞭解到，我國正加快新一代通訊網建設，目前千兆光網典型應用已覆蓋超九成國民經濟大類。工業和資訊化部資訊通訊發展司副司長趙策介紹，千兆光網與人工智慧、雲端計算、大資料等技術加速融合，覆蓋我國國民經濟97個大類中的91個，在智慧製造、智慧交通、數字醫療、智慧教育等領域形成一批可複製、可推廣的典型方案。我國已經實現“縣縣通千兆”“村村通寬頻”，千兆光網典型應用案例超過5萬個，重慶等城市已實現千兆光網城鄉全域覆蓋。工業和資訊化部依託全光網路透過實施城域“毫秒用算”專項行動，形成一批辨識度高、可複製推廣的代表性實踐成果。截至6月底，我國具備千兆網路服務能力的10G無源光網路埠數達到3286萬個，圍繞國家算力樞紐節點建設超70條算力大通道，相關算力樞紐節點間網路效能持續提升。（央視財經）
-
----
-
-### 2026-08-02 13:07:07  #其他
-
-【渤海海峽黃海北部部分海域執行軍事任務 禁止駛入】據中國海事局網站訊息，大連海事局釋出航行警告，8月2日16時至16日16時，渤海海峽黃海北部部分海域執行軍事任務，禁止駛入。
-
----
-
-### 2026-08-02 13:04:38  #公司
-
-【世紀華通總裁謝斐：新品投入核心策略是“一切以資料為導向”，2026年將重點發力休閒品類】2026年ChinaJoy舉辦期間，世紀華通總裁謝斐與新浪科技等媒體進行對話。關於未來遊戲新品的方向，謝斐表示：“在新產品投入上，公司始終摒棄主觀判斷與選擇，核心策略是一切以資料為導向，聚焦持續迭代，最佳化產品本身。”她表示，品類佈局方面，2026年公司將重點發力休閒品類。公司在SLG賽道已積累了可觀的規模，休閒品類將成為未來業績的重要增長點。該品類雖起量相對平緩，但一旦實現規模化突破後，流水的穩定性極高，不易出現大幅波動。謝斐透露：“我們的研運體系已經標準化，形成了可以複製的方法論。其次，AI技術融入研運流程後，提升了內容更新的效率，有助於提升使用者留存。”（新浪科技）
-
----
-
-### 2026-08-02 12:56:42  #國際
-
-俄羅斯當局稱隔夜摧毀了635架烏克蘭無人機。
-
----
-
-### 2026-08-02 12:56:37  #國際
-
-韓國氣象廳訊息：氣溫創下紀錄。
-
----
-
-### 2026-08-02 12:55:55  #MKT News
-
-Russian authorities said they destroyed 635 Ukrainian drones overnight.
-
----
-
-### 2026-08-02 12:52:34  #公司
-
-.【世紀華通總裁謝斐：本輪AI變革影響力遠大於過去任何一次技術升級，對遊戲產業的改變不會只停留在某個環節】2026年ChinaJoy舉辦期間，世紀華通總裁謝斐與新浪科技等媒體進行對話。談及AI戰略，謝斐表示，公司AI戰略核心定位清晰：優先以AI賦能業務全鏈路，實現各環節降本增效；除業務應用層落地外，同步深耕智算力底層底座建設。“我們持續追蹤行業前沿技術，加碼 AI 原生生態佈局，並依託產業資本、行業賽事等多元槓桿，不斷拓寬完善自身 AI 產業生態版圖。”她如是道。謝斐強調，公司研發、美術、測試、投放、運營整條業務鏈，每一環都能實現創收。本輪 AI 變革的影響力遠大於過去任何一次技術升級，長遠會滲透產業與生活的方方面面。我們堅持長期主義，保持持續探索的態度，不斷加碼 AI 相關佈局。談及AI給遊戲帶來的改變，謝斐也表示：“AI對遊戲產業最深刻的改變，不會只停留在某一個環節，它會從底層重新定義遊戲從創意到體驗的整個價值鏈。當前最為大家熟知的就是研發流程的重構，AI正在把它變成一種“協作文件式”的生產：策劃可以用自然語言生成原型，美術可以用AI批次生成素材並實時迭代，測試可以交給AI自動化完成；程式碼開發可以由AI輔助生成。當AI從幫人幹活進化到自己能幹活，真正的變化是人的角色從執行者變成了定義者：定義什麼值得做、什麼流程值得跑，剩下的交給AI去執行。”她指出，世紀華通的終極目標，可以概括為三句話：用AI重新定義內容的創作方式、互動方式和商業模式，“我們希望世紀華通不再僅僅被定義為一家“遊戲公司”，而是一家以AI為引擎的全球化數字內容公司。”（新浪科技）
-
----
-
-### 2026-08-02 12:44:56  #市場 #焦點
-
-布倫特原油暗盤跌破84美元，日內跌超6.8%。
-
----
-
-### 2026-08-02 12:44:15  #公司
-
-【擺渡車司機拒絕開空調？春秋航空致歉：系車輛空調系統突發故障】8月2日，針對網友反饋的“擺渡車司機拒絕開空調”一事，春秋航空釋出《關於擺渡車空調突發故障導致旅客不適的致歉公告》，稱經對車輛檢修發現，系車輛空調系統突發故障導致。此前有網友在社交媒體上發帖反映稱，8月2日凌晨，春秋航空9C6190航班從哈爾濱飛抵上海浦東機場T2航站樓，航班落地後，全車乘客登上機場接駁擺渡車前往航站樓。密閉車廂內溫度飆升，車內乘客多次要求司機開啟空調，司機拒絕操作。全車乘客被困密閉擺渡車內長達40分鐘，多名乘客和擺渡車司機發生爭執。春秋航空在公告中稱，車輛行駛到到達區指定下客區域時，車內溫度顯示29.4℃，車內溫度異常時間約5分鐘。經對車輛檢修發現，系車輛空調系統突發故障導致。今天上午，浦東機坪車隊已立即對所有車輛空調系統全面複查。“對於此次車輛空調故障導致旅客的不適體驗，我們對此表示最誠摯的歉意。我們一定以此為鑑，持續改進服務細節，以更周全的準備迎接每一位旅客。”
-
----
-
-### 2026-08-02 12:41:03  #市場 #國際
-
-【日媒：高市早苗已兩月未與外國領導人通電話 引發不滿】據日媒觀察，日本首相高市早苗似乎自6月1日起便未與任何外國領袖通電話，過去兩個月沒有這類領導人外交通話的公開記錄。《日經亞洲》8月1日發表分析報道指，7月初曾有人提議安排高市與土耳其總統埃爾多安通電話。土耳其當時正在主辦北約峰會，而高市為處理國會事務未刻出席。不過，通話最終因日程安排及其他因素被取消。高市一半的通話集中在3月下旬至4月，當時美以對伊開戰引發能源危機。她與中東及亞洲國家領導人通話，確認在保障能源供應穩定方面開展合作。此後，她的電話外交大幅減少，最後一次公開通話記錄停留在6月1日與伊朗總統的通話。據《日經亞洲》統計，高市上任284天以來，已與其他國家領導人通電話27次，略多於前首相安倍晉三和石破茂，兩人在任職相同天數內分別通話26次和24次。日媒分析認為，高市的問題不在通話次數，而在於通話的實質內容。這與她的政治導師安倍晉三的做法有所不同：在特朗普首個任期內，從特朗普2017年就職到安倍2020年卸任，兩人大約每月通一次電話。（中國新聞網）
-
----
-
-### 2026-08-02 12:38:56  #MKT News #Commodities #Energy #Market Regions #Japan & APAC #Brent #Impact bullish #WTI
-
-【IEA says Strait of Hormuz shipping disruption lifted Japan Q2 wholesale power spot price 30% YoY】The IEA said shipping disruption in the Strait of Hormuz halted Middle East LNG flows, pushing Japan's average wholesale spot power price in Q2 to about $90 per MWh, roughly 30% above the same period last year, Kyodo reported. The IEA warned that heat-driven demand growth and a prolonged blockade could keep prices elevated and projects Japan's average wholesale power price in H2 2026 at $105 per MWh, about 40% higher YoY.
-
----
-
-### 2026-08-02 12:35:17  #市場 #國際
-
-【霍爾木茲海峽航運受阻致日本二季度電價同比漲30%】國際能源署近日釋出報告說，霍爾木茲海峽航運受阻導致今年二季度日本平均批發電力現貨價格達到每1000千瓦時90美元，約比去年同期上漲30%。日本共同社1日援引國際能源署的這份報告報道說，霍爾木茲海峽航運受阻導致中東產液化天然氣供應停滯並造成了上述影響。報告說，伴隨著酷暑帶來的電力需求增長以及封鎖長期化，電價可能繼續維持漲勢。報告預計，2026年下半年日本平均批發電力價格將達到每1000千瓦時105美元，同比漲幅約40%。日本資源能源廳資料顯示，以液化天然氣為燃料的火力發電量佔日本發電總量的30%左右，因此電力價格很容易受液化天然氣國際市場影響。（新華社）
-
----
-
-### 2026-08-02 12:33:53  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-【Rubio says U.S. strikes make Iran more willing to negotiate】U.S. Secretary of State Rubio told Fox News that Washington’s military strikes have made Iran more willing to negotiate on its nuclear program and the Strait of Hormuz. He said the strikes destroyed Iran’s navy, air force, missile-defense systems, launchers and weapons production facilities and “severely weakened” its defenses; Iran “still has missiles and drones” capable of causing damage but no longer possesses the conventional shield it had planned to hide behind, a shift Rubio said explains why Tehran is now, in some cases, eager to seek agreements while the U.S. deals from a position of strength rather than weakness.
-
----
-
-### 2026-08-02 12:30:12  #國際
-
-【倪虹出席2026中國—東盟建設部長圓桌會議】8月1日，2026中國—東盟建設部長圓桌會議在馬來西亞怡保召開。住房城鄉建設部部長倪虹率團出席會議，致開幕辭並作主題發言,介紹了中國住房城鄉建設“十五五”規劃、“好房子”建設、城市更新等方面的經驗和做法。倪虹指出，推動城市高質量發展是中國和東盟的共同目標，中方願繼續秉持睦鄰、安鄰、富鄰、親誠惠容、命運與共的理念方針，進一步加強住房和城市建設領域的合作，攜手共創更具亞太特色、更加璀璨昌盛的城市文明。（中國建設報）
 
 ---
