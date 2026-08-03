@@ -1,7 +1,47 @@
 {
   "date": "2026-08-04",
-  "count": 75,
+  "count": 79,
   "items": [
+    {
+      "id": "mkt:019fc88c-f4ce-7aab-8f5c-a407772bd745",
+      "time": "2026-08-04 00:55:08",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "【Amazon cloud head: AI demand boosting inference compute; 2026 capex seen at $220bn】Amazon Web Services CEO Matt Garman said customers are shifting from using AWS to train large AI models toward embedding those models in their own workflows, driving increased demand for inference compute even as some companies continue to run large training clusters. He called the AI business potential \"very large\" and said Amazon will keep raising capital spending to meet demand. Amazon last week said it now expects 2026 capital expenditure of $220bn, up from a prior $200bn forecast; the higher plan reflects rising prices for storage chips and other data‑center components."
+    },
+    {
+      "id": "5023082",
+      "time": "2026-08-04 00:53:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府要求（美國）高校承諾推進教育改革。"
+    },
+    {
+      "id": "5023081",
+      "time": "2026-08-04 00:52:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖穆傑塔巴計劃任命其首席軍事助手穆赫辛·雷扎伊，替換國家最高安全委員會主席穆罕默德-巴蓋爾·佐勒格達爾。"
+    },
+    {
+      "id": "mkt:019fc889-e3be-7aab-8f5c-9b0a54a56c7f",
+      "time": "2026-08-04 00:51:47",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "Boeing (BA.N) shares rose 5.6% after the U.S. Federal Aviation Administration certified the 737 MAX 7."
+    },
     {
       "id": "mkt:019fc889-6570-7aab-8f5c-95dafd59b873",
       "time": "2026-08-04 00:51:15",

@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-04 00:52:14",
-  "count": 17955,
+  "updated": "2026-08-04 00:56:38",
+  "count": 17954,
   "items": [
+    {
+      "id": "mkt:019fc88c-f4ce-7aab-8f5c-a407772bd745",
+      "time": "2026-08-04 00:55:08",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "【Amazon cloud head: AI demand boosting inference compute; 2026 capex seen at $220bn】Amazon Web Services CEO Matt Garman said customers are shifting from using AWS to train large AI models toward embedding those models in their own workflows, driving increased demand for inference compute even as some companies continue to run large training clusters. He called the AI business potential \"very large\" and said Amazon will keep raising capital spending to meet demand. Amazon last week said it now expects 2026 capital expenditure of $220bn, up from a prior $200bn forecast; the higher plan reflects rising prices for storage chips and other data‑center components."
+    },
+    {
+      "id": "5023082",
+      "time": "2026-08-04 00:53:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府要求（美國）高校承諾推進教育改革。"
+    },
+    {
+      "id": "5023081",
+      "time": "2026-08-04 00:52:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖穆傑塔巴計劃任命其首席軍事助手穆赫辛·雷扎伊，替換國家最高安全委員會主席穆罕默德-巴蓋爾·佐勒格達爾。"
+    },
+    {
+      "id": "mkt:019fc889-e3be-7aab-8f5c-9b0a54a56c7f",
+      "time": "2026-08-04 00:51:47",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "Boeing (BA.N) shares rose 5.6% after the U.S. Federal Aviation Administration certified the 737 MAX 7."
+    },
     {
       "id": "mkt:019fc889-6570-7aab-8f5c-95dafd59b873",
       "time": "2026-08-04 00:51:15",
@@ -166414,56 +166454,6 @@
         "Impact bullish"
       ],
       "text": "LVMH CFO said Louis Vuitton and Dior both posted positive growth in Q2, with Dior’s growth accelerating in the Americas and Japan."
-    },
-    {
-      "id": "mkt:019fa481-a5e3-7aab-8eb4-2efb8a9954bb",
-      "time": "2026-07-28 00:56:27",
-      "tags": [
-        "MKT News",
-        "MC.PA",
-        "Impact bullish"
-      ],
-      "text": "LVMH CFO said U.S. Q2 demand was driven by strong domestic sales momentum and accelerating tourist spending."
-    },
-    {
-      "id": "mkt:019fa480-de30-7aab-8eb4-239042e90839",
-      "time": "2026-07-28 00:55:36",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "WTI"
-      ],
-      "text": "【Former Israeli security chiefs warn West Bank tensions could escalate】About 600 former senior Israeli military, police, Shin Bet and intelligence and special-operations officials sent a joint letter to U.S. President Trump on the 27th urging Washington to press the Israeli government to curb rising settler violence in the West Bank, warning it could trigger escalation. The letter, initiated by the National Security Commanders group, was signed by roughly 600 ex-commanders and security heads; Trump is scheduled to meet Prime Minister Netanyahu at the White House on the 28th."
-    },
-    {
-      "id": "mkt:019fa47e-80ab-7aab-8eb4-1aee1408c0e7",
-      "time": "2026-07-28 00:53:01",
-      "tags": [
-        "MKT News",
-        "F.O"
-      ],
-      "text": "According to the Wall Street Journal, Ford Motor Co (F.N) has joined the competition for the U.S. Army's next-generation truck program."
-    },
-    {
-      "id": "mkt:019fa47e-684f-7aab-8eb4-15e835f99370",
-      "time": "2026-07-28 00:52:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Canada's foreign minister spoke with Qatari PM and foreign minister. Ottawa said it supports Qatar's sovereignty and security, urged Iran to stop attacks, and said reopening the Strait of Hormuz is vital."
-    },
-    {
-      "id": "5010719",
-      "time": "2026-07-28 00:52:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收漲88美元，報13732美元/噸。LME期鋁收漲8美元，報3168美元/噸。LME期鋅收漲20美元，報3612美元/噸。LME期鉛收漲4美元，報1891美元/噸。LME期鎳收跌166美元，報17213美元/噸。LME期錫收漲560美元，報54341美元/噸。LME期鈷收平，報56290美元/噸。"
     }
   ]
 }
