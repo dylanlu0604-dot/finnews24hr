@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-03 12:10:07",
-  "count": 17939,
+  "updated": "2026-08-03 12:14:00",
+  "count": 17938,
   "items": [
+    {
+      "id": "5021625",
+      "time": "2026-08-03 12:12:16",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【比特幣下跌，在Strategy需求下降、美國加密貨幣法案停滯之際】比特幣在亞洲交易時段下跌。CoinMarketCap分析師Ray Salmond表示，在美聯儲如市場預期維持利率不變後，該加密貨幣處於區間震盪。然而，比特幣最大的企業持有者Strategy已暗示對增加美元儲備持開放態度，即將進行的籌資活動的募資額不太可能用於購買數字貨幣。Salmond補充說，這一訊號強化了這樣一種觀點，即比特幣需求的一個關鍵來源實際上已經暫停。與此同時，推進美國加密貨幣監管法案《清晰法案》的努力已經停滯，這似乎是因為圍繞道德和消費者保護的問題尚未解決；該法案受到支援加密貨幣的團體和華爾街的擁護。不過，該分析師表示，加密貨幣的更廣泛市場結構仍在持續改善。比特幣最新下跌1.0%，報62,814.37美元。"
+    },
+    {
+      "id": "5021624",
+      "time": "2026-08-03 12:11:29",
+      "tags": [
+        "央行",
+        "公司",
+        "國際"
+      ],
+      "text": "【世界銀行下調菲律賓2027年經濟增長預期至5.2%】世界銀行集團將菲律賓明年經濟增長預期下調至5.2%，但該行預計投資將會回暖，菲律賓央行重啟寬鬆政策。世界銀行在年中版《菲律賓經濟展望》中表示：“基準情景預測，隨著治理環境趨於穩定、公共投資逐步復甦，菲律賓央行重啟寬鬆政策，2027年經濟增速回升至5.2%。”注：最新2027年增長預測低於6月《全球經濟展望》給出的5.6%。世界銀行指出：“在基準情景下，隨著投資迴歸常態、金融環境寬鬆，2027年至2028年經濟增長有望向潛在增速靠攏。”世界銀行預計菲律賓2026年經濟增速為3.7%。"
+    },
+    {
+      "id": "te:markets:572024",
+      "time": "2026-08-03 12:10:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Extends Gains — The South Korean won strengthened to around 1,430 per dollar, extending its July recovery, supported by strong foreign inflows and improving trade fundamentals. The currency benefited from dollar inflows linked to SK Hynix's ADR offering, as proceeds from the transaction were converted into won for domestic semiconductor investment, while renewed foreign demand for Korean assets also supported the recovery. Additionally, Korea's external outlook improved, with July exports surging 62.9% year-on-year to $98.89 billion as semiconductor shipments jumped 179% to $41 billion, lifting the trade surplus to $30.32 billion. This reinforced expectations for a recovery in growth, with manufacturing sentiment improving as companies benefited from robust chip demand. Separately, US President Donald Trump called off a planned strike on Iran, pushing oil prices lower and easing Middle East tensions."
+    },
+    {
+      "id": "5021623",
+      "time": "2026-08-03 12:10:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本民眾稱日本生戰愚蠢至極 】今年6月，美軍首次將“堤豐”中程導彈系統部署至日本鹿兒島縣的海上自衛隊鹿屋基地，參加由美國主導的“勇敢之盾2026”聯合軍演，並計劃繼續參加9月舉行的“東方之盾”日美聯合演習。8月2日，鹿兒島民眾在鹿屋基地附近集會，反對日美聯合軍演，反對日本政府的擴軍修憲動向。"
+    },
+    {
+      "id": "mkt:019fc5d0-96f8-7aab-8f4e-8490d0460e3b",
+      "time": "2026-08-03 12:10:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vietnam posts eighth consecutive monthly trade deficit】Vietnam recorded its eighth consecutive monthly trade deficit in July as factories expanded capacity and imports surged. July exports rose 25% YoY to $53.1bn, broadly in line with economists' 25.5% forecast, while imports climbed 41.4% YoY—above the 36.7% consensus—producing a $3.59bn deficit. Data show the US remained Vietnam's largest export market in the first seven months of 2026, with Vietnam's trade surplus with the US up 22.6% to $91.4bn; the export-dependent economy is facing renewed pressure from US tariff policy."
+    },
+    {
+      "id": "5021622",
+      "time": "2026-08-03 12:10:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "世界銀行將菲律賓2027年經濟增長預期下調至5.2%。"
+    },
     {
       "id": "5021621",
       "time": "2026-08-03 12:09:14",
@@ -166273,69 +166329,6 @@
         "09961.HK"
       ],
       "text": "【Hong Kong midday: Hang Seng up 0.81%, reclaims 25,000】Hong Kong stocks opened higher and the Hang Seng reclaimed the 25,000 mark, hitting an intraday high of 25,206 (up as much as 243 points). At midday the Hang Seng was up 0.81% and the Hang Seng Tech index was up 1.69%, with market turnover HKD 111.23 bln. Sector winners included media & entertainment, travel, consumer electronics, new consumer, airlines and autos; road transport, semiconductors, oil & gas, optical communications and coal lagged. Notable movers: 00805.HK +22%, Xiaomi Group (01810.HK) +7.6%, 00100.HK +5%; 02513.HK, Trip.com Group (09961.HK) and Meituan (03690.HK) each rose over 3.5%."
-    },
-    {
-      "id": "mkt:019fa1c7-76c5-7aab-8ea2-1ef65b613150",
-      "time": "2026-07-27 12:13:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "FTSE100",
-        "Impact mixed"
-      ],
-      "text": "【UK lenders tell FT Bank of England report ignores Wall Street capital edge】Several of Britain’s largest lenders told the Financial Times the Bank of England’s UK-US bank capital requirements comparison is flawed, saying it ignores a growing Wall Street advantage from large-scale digital/software investment. A recent study cited by banks finds US lenders gained an edge after deregulatory moves under the Trump administration, partly because regulators treat bank software investment differently. The lenders are lobbying the new UK government to relax post-2008 capital rules to spur growth and IT spending. City executives say the appointment earlier this month of former Barclays executive Katherine Braddick as head of the UK’s top banking regulator should increase their influence."
-    },
-    {
-      "id": "mkt:019fa1c6-c440-7aab-8ea2-1236e6b16153",
-      "time": "2026-07-27 12:13:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's Nifty IT index rose 2.5%."
-    },
-    {
-      "id": "5009315",
-      "time": "2026-07-27 12:11:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星海圖在宜賓新設科技公司，含智慧機器人的研發業務】企查查APP顯示，近日，宜賓星海圖科技有限公司成立，法定代表人為羅天奇，註冊資本為5000萬元，經營範圍包含：工業機器人銷售；智慧機器人的研發；智慧機器人銷售；人工智慧應用軟體開發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由星海圖（北京）人工智慧科技股份有限公司全資持股。"
-    },
-    {
-      "id": "5009314",
-      "time": "2026-07-27 12:10:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【私募股東考慮作價80億歐元出售TeamSystem部分股權】英國《金融時報》援引不願具名知情人士報道，私募機構赫爾曼・弗裡德曼正聯合投行，洽談出售TeamSystem少數股權，企業估值超80億歐元。本次交易或吸引其他私募機構參與競購。相關磋商尚處於初期階段，交易能否落地尚未確定。赫爾曼・弗裡德曼與TeamSystem均拒絕置評。"
-    },
-    {
-      "id": "mkt:019fa1c4-8108-7aab-8ea2-0f9bac7bb47c",
-      "time": "2026-07-27 12:10:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said ChatGPT experienced an elevated error rate; mitigation measures are in place and recovery is being monitored."
-    },
-    {
-      "id": "5009313",
-      "time": "2026-07-27 12:10:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【因自駕違規停車 Waymo在奧斯汀被罰近萬美元】在美國得克薩斯州奧斯汀市，Waymo的無人駕駛計程車始終難以遵守停車規範。檔案顯示，自2024年進駐這座城市以來，該公司車輛累計收到停車罰單，罰款總額高達9325美元。 奧斯汀是美國無人駕駛計程車規模增長最快的核心新興市場之一。Waymo在此投入運營超300輛無人車，佔其得州車隊總量近半數，領跑當地賽道。奧斯汀2025財年停車罰款總收入為630萬美元，Waymo這筆罰金相較之下只是九牛一毛。但隨著Waymo及其他無人計程車企業在美國各地擴張業務，這類違規停車問題已然成為各方矛盾凸顯的導火索。 在奧斯汀，除Waymo外，特斯拉無人駕駛計程車、亞馬遜Zoox等品牌自動駕駛車輛，在應對突發狀況時都給執法部門帶來了難題：比如事故救援現場、施工路段、道路臨時封閉等複雜場景，車輛難以穩妥通行處置。"
-    },
-    {
-      "id": "5009312",
-      "time": "2026-07-27 12:10:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智慧烹飪機器人企業智谷天廚完成新一輪近億元戰略融資】近日，智慧烹飪機器人企業智谷天廚宣佈完成新一輪近億元戰略融資。本輪融資由招商局創投領投，躍遷資本跟投，雲啟資本、啟賦資本等老股東超額追投。"
     }
   ]
 }
