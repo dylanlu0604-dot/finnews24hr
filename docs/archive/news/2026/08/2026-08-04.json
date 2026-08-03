@@ -1,7 +1,67 @@
 {
   "date": "2026-08-04",
-  "count": 441,
+  "count": 447,
   "items": [
+    {
+      "id": "mkt:019fca03-d658-7aab-8f60-181e9d1324f2",
+      "time": "2026-08-04 07:44:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Japan's latest yen-support intervention may have cost $87 bln】U.S. sources said the Bank of Japan may have used about $87 bln (≈¥11 tln) in its latest FX intervention to support the yen, likely spending roughly $53 bln on July 30 and $34 bln on July 31, based on estimates derived from the Bank of Japan's latest money-market data."
+    },
+    {
+      "id": "5023318",
+      "time": "2026-08-04 07:44:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【玻璃基封裝成產業競逐新焦點 面板廠商跨界佈局】日前，TCL科技高階副總裁、TCL華星執行長趙軍在上海ChinaJoy（中國國際數碼互動娛樂展覽會）期間透露，TCL華星已組建專業團隊推進玻璃基封裝關鍵工藝驗證，計劃下半年展示相關樣品並籌建中試線；此外，京東方9.93億元投資的玻璃基封裝載板試驗線已向國內客戶送樣，部分客戶透過概念認證進入技術測試階段；深天馬亦搭建MPG多專案玻璃基板技術平臺，將先進封裝列為重點賦能方向之一。隨著AI晶片向大尺寸、高算力、高密度互連加速演進，傳統有機載板逐步觸及效能邊界，玻璃基先進封裝正成為產業競逐的新焦點，一場由面板廠商主導的跨界佈局已然展開。"
+    },
+    {
+      "id": "5023317",
+      "time": "2026-08-04 07:43:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克轉發網友評論表示： Grok 構建已更新。該網友表示，SpaceXAI 幾乎每天都在推送新的 Grok 構建更新。 Grok 構建 v0.2.120 現已上線。"
+    },
+    {
+      "id": "te:markets:572296",
+      "time": "2026-08-04 07:43:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Steadies on Mideast, Fed Uncertainties — Silver steadied around $58 an ounce on Tuesday after rising in the previous session, as investors tracked developments in US-Iran talks for clues on the potential reopening of the Strait of Hormuz, while continuing to evaluate the outlook for US Federal Reserve monetary policy. President Donald Trump said his offer of talks represents Tehran’s final opportunity to reach a deal and expressed confidence that Hormuz will reopen soon. Iran, however, denied that any direct talks with the US are underway, though it said discussions with Oman aimed at increasing shipping through the strait are making progress. Meanwhile, markets are pricing in about a 65% chance of a 25 basis point Fed rate hike in September after the central bank left interest rates unchanged in July. Bank of New York Fed President John Williams said monetary policy remains well positioned, adding that inflation is expected to ease during the second half of the year."
+    },
+    {
+      "id": "5023316",
+      "time": "2026-08-04 07:43:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【日本新一輪救匯行動或已耗資870億美元】美國方面近日稱，為了支撐日元匯率，在最新一輪的外匯干預行動中，日本央行可能已經動用了約870億美元，相當於11萬億日元的資金。訊息稱，根據日本央行的最新貨幣市場資料推算，日本央行在7月30日和31日的外匯干預中，很可能分別動用了530億美元和340億美元，總共870億美元、相當於11萬億日元的資金來買入日元，以支撐日元匯率。"
+    },
+    {
+      "id": "te:markets:572295",
+      "time": "2026-08-04 07:42:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Steadies on Mideast, Fed Uncertainties — Gold steadied around $4,050 an ounce on Tuesday, trading in a narrow range as investors tracked developments in US-Iran talks for clues on the potential reopening of the Strait of Hormuz, while continuing to evaluate the outlook for US Federal Reserve monetary policy. President Donald Trump said his offer of talks represents Tehran’s final opportunity to reach a deal and expressed confidence that Hormuz will reopen soon. Iran, however, denied that any direct talks with the US are underway, though it said discussions with Oman aimed at increasing shipping through the strait are making progress. Meanwhile, markets are pricing in about a 65% chance of a 25 basis point Fed rate hike in September after the central bank left interest rates unchanged in July. Bank of New York Fed President John Williams said monetary policy remains well positioned, adding that inflation is expected to ease during the second half of the year."
+    },
     {
       "id": "5023315",
       "time": "2026-08-04 07:40:14",

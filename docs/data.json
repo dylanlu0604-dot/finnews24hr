@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-04 07:42:01",
-  "count": 17911,
+  "updated": "2026-08-04 07:45:51",
+  "count": 17909,
   "items": [
+    {
+      "id": "5023318",
+      "time": "2026-08-04 07:44:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【玻璃基封裝成產業競逐新焦點 面板廠商跨界佈局】日前，TCL科技高階副總裁、TCL華星執行長趙軍在上海ChinaJoy（中國國際數碼互動娛樂展覽會）期間透露，TCL華星已組建專業團隊推進玻璃基封裝關鍵工藝驗證，計劃下半年展示相關樣品並籌建中試線；此外，京東方9.93億元投資的玻璃基封裝載板試驗線已向國內客戶送樣，部分客戶透過概念認證進入技術測試階段；深天馬亦搭建MPG多專案玻璃基板技術平臺，將先進封裝列為重點賦能方向之一。隨著AI晶片向大尺寸、高算力、高密度互連加速演進，傳統有機載板逐步觸及效能邊界，玻璃基先進封裝正成為產業競逐的新焦點，一場由面板廠商主導的跨界佈局已然展開。"
+    },
+    {
+      "id": "mkt:019fca03-d658-7aab-8f60-181e9d1324f2",
+      "time": "2026-08-04 07:44:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Japan's latest yen-support intervention may have cost $87 bln】U.S. sources said the Bank of Japan may have used about $87 bln (≈¥11 tln) in its latest FX intervention to support the yen, likely spending roughly $53 bln on July 30 and $34 bln on July 31, based on estimates derived from the Bank of Japan's latest money-market data."
+    },
+    {
+      "id": "5023317",
+      "time": "2026-08-04 07:43:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克轉發網友評論表示： Grok 構建已更新。該網友表示，SpaceXAI 幾乎每天都在推送新的 Grok 構建更新。 Grok 構建 v0.2.120 現已上線。"
+    },
+    {
+      "id": "te:markets:572296",
+      "time": "2026-08-04 07:43:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Steadies on Mideast, Fed Uncertainties — Silver steadied around $58 an ounce on Tuesday after rising in the previous session, as investors tracked developments in US-Iran talks for clues on the potential reopening of the Strait of Hormuz, while continuing to evaluate the outlook for US Federal Reserve monetary policy. President Donald Trump said his offer of talks represents Tehran’s final opportunity to reach a deal and expressed confidence that Hormuz will reopen soon. Iran, however, denied that any direct talks with the US are underway, though it said discussions with Oman aimed at increasing shipping through the strait are making progress. Meanwhile, markets are pricing in about a 65% chance of a 25 basis point Fed rate hike in September after the central bank left interest rates unchanged in July. Bank of New York Fed President John Williams said monetary policy remains well positioned, adding that inflation is expected to ease during the second half of the year."
+    },
+    {
+      "id": "5023316",
+      "time": "2026-08-04 07:43:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【日本新一輪救匯行動或已耗資870億美元】美國方面近日稱，為了支撐日元匯率，在最新一輪的外匯干預行動中，日本央行可能已經動用了約870億美元，相當於11萬億日元的資金。訊息稱，根據日本央行的最新貨幣市場資料推算，日本央行在7月30日和31日的外匯干預中，很可能分別動用了530億美元和340億美元，總共870億美元、相當於11萬億日元的資金來買入日元，以支撐日元匯率。"
+    },
+    {
+      "id": "te:markets:572295",
+      "time": "2026-08-04 07:42:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Steadies on Mideast, Fed Uncertainties — Gold steadied around $4,050 an ounce on Tuesday, trading in a narrow range as investors tracked developments in US-Iran talks for clues on the potential reopening of the Strait of Hormuz, while continuing to evaluate the outlook for US Federal Reserve monetary policy. President Donald Trump said his offer of talks represents Tehran’s final opportunity to reach a deal and expressed confidence that Hormuz will reopen soon. Iran, however, denied that any direct talks with the US are underway, though it said discussions with Oman aimed at increasing shipping through the strait are making progress. Meanwhile, markets are pricing in about a 65% chance of a 25 basis point Fed rate hike in September after the central bank left interest rates unchanged in July. Bank of New York Fed President John Williams said monetary policy remains well positioned, adding that inflation is expected to ease during the second half of the year."
+    },
     {
       "id": "5023315",
       "time": "2026-08-04 07:40:14",
@@ -165929,72 +165989,6 @@
         "國際"
       ],
       "text": "指標10年期日本國債期貨早盤下跌0.13點。"
-    },
-    {
-      "id": "5010975",
-      "time": "2026-07-28 07:45:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均指數期貨早盤下跌2.22%。"
-    },
-    {
-      "id": "5010974",
-      "time": "2026-07-28 07:45:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西表示，該請求與美國近期宣佈的25%及12.5%關稅有關。"
-    },
-    {
-      "id": "5010973",
-      "time": "2026-07-28 07:45:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【人民日報觀察：世界盃給中國足球帶來哪些啟發】本屆世界盃一大特點，是世界足球正在迴歸長期規律。世界排名前四的球隊最終晉級世界盃四強，說明最高水平比賽已從“球星競爭”升級到“體系競爭”“生態競爭”。國際足聯足球管理和競賽專家、中足聯理事劉勁松說：“中國足球要學習的是足球發展的底層規律：一方面，主動融入世界足球，培養球員、教練員、裁判員、管理人員以及競賽組織、市場開發、媒體傳播、體育科學、運動醫學等場內外專業人才；另一方面，建立覆蓋不同年齡、不同水平、不同型別參與者和俱樂部的競賽體系，讓人人有比賽、層層有通道，優秀者能脫穎而出。”對比歐美足球強國，我國全民足球氛圍仍有提升空間。近幾年，我國註冊的精英青少年足球運動員數量有明顯增加，超過10萬人，但仍遠低於多個人口不足千萬的歐洲國家。根據《2025中國足球協會數字年報》，2025年國內持證足球教練員約12.6萬人，但深耕低齡啟蒙階段的精英教練人數極少，基層普及力量嚴重不足。不少家庭將足球與升學和職業出路繫結，參與足球訓練的目的過於功利。足球體系的競爭，是本屆世界盃傳遞出的另一重要訊號。如今，數字化技術、全球化人才流動，重塑了各地區的足球發展路徑，一味照搬他國模式難以形成長久競爭力，中國足球要貼合本土資源搭建專屬體系，持續縮小與世界強隊的差距。"
-    },
-    {
-      "id": "5010972",
-      "time": "2026-07-28 07:45:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【7月以來外資機構調研A股上市公司280次】7月以來，外資機構對A股上市公司的調研熱情持續升溫。Wind資料顯示，截至7月27日，外資機構合計調研A股上市公司280次。從調研方向來看，外資機構的目光主要集中在高成長性與技術密集型領域，包括電子元件、電子裝置和儀器、積體電路以及應用軟體等板塊。"
-    },
-    {
-      "id": "5010971",
-      "time": "2026-07-28 07:44:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國SK海力士股價在盤前交易中下跌約8%。"
-    },
-    {
-      "id": "5010970",
-      "time": "2026-07-28 07:43:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西政府在一份宣告中表示，已根據世界貿易組織爭端解決機制，申請與美國進行磋商。"
-    },
-    {
-      "id": "mkt:019fa5f6-9ea4-7aab-8eb8-2f591534e0d7",
-      "time": "2026-07-28 07:43:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil said it has requested consultations with the United States under the WTO dispute settlement mechanism."
-    },
-    {
-      "id": "5010969",
-      "time": "2026-07-28 07:42:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【碳酸亞乙烯酯價格大漲10% 市場供需持續偏緊】百川盈孚資料顯示，7月27日，電解液關鍵原料碳酸亞乙烯酯（VC）加速上漲，單日大漲10%，最新報價為22萬元/噸，再創新高。此前的7月23日，VC調漲11%。7月份以來，累計漲幅近37.5%。"
     }
   ]
 }
