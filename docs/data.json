@@ -1,7 +1,69 @@
 {
-  "updated": "2026-08-03 22:05:23",
-  "count": 17923,
+  "updated": "2026-08-03 22:09:25",
+  "count": 17917,
   "items": [
+    {
+      "id": "mkt:019fc7f4-cfc9-7aab-8f59-dc981f69c547",
+      "time": "2026-08-03 22:08:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RWE signed a power purchase agreement with Google (GOOG.O) for a solar project in Oklahoma."
+    },
+    {
+      "id": "5022884",
+      "time": "2026-08-03 22:08:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯相關報道：克拉斯諾達爾邊疆區行動指揮部訊息，格連吉克附近阿爾希波 - 奧西波夫卡遭無人機襲擊遇難人數已升至 7 人。"
+    },
+    {
+      "id": "5022883",
+      "time": "2026-08-03 22:06:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【澳大利亞新聞付費法案擬調整：稅率提高至2.5%，基數改為“數字廣告收入”】澳大利亞擬修法鼓勵科技巨頭為新聞內容付費。當地時間8月3日，據外媒報道，澳大利亞政府宣佈，即將提交審議的《新聞談判激勵法案》（News Media Bargaining Code）最終定稿。根據該法案，如果大型科技企業未與澳大利亞的媒體公司簽署內容使用授權協議，就需要按照在澳數字廣告收入的2.5%支付補貼。該稅適用於在澳大利亞擁有重要社交媒體或搜尋服務且本地收入超過2.5億澳元的公司，而AI（人工智慧）公司依然被排除在法案之外。（澎湃）"
+    },
+    {
+      "id": "mkt:019fc7f2-ab2f-7aab-8f59-d37eda1b9895",
+      "time": "2026-08-03 22:06:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Magnificent 7",
+        "Star Stocks",
+        "Amazon",
+        "AMZN.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Amazon becomes fifth company to top $3 trillion market value】On Monday morning US trade, Amazon (AMZN.O) shares rose as much as 5.3%, extending last week’s rally after Q2 results showed accelerating cloud revenue growth. The move pushed Amazon’s market value above $3 trillion, joining NVIDIA, Alphabet, Microsoft and Apple as the fifth company to reach that threshold. Last week the stock jumped more than 15%—its biggest single-day gain in over 14 years—after AWS reported its strongest revenue growth since 2021, adding roughly $400 billion to market value; the shares had fallen about 18% from the May 6 record high to a three-month low before the rebound, making Amazon the best-performing member of the Magnificent Seven year-to-date."
+    },
+    {
+      "id": "mkt:019fc7f2-4c6f-7aab-8f59-cd5a07b67fb4",
+      "time": "2026-08-03 22:06:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【South Korea margin hike curbs leveraged ETF trading; single-stock leveraged turnover down ~90%】Within two trading days of a regulator-imposed margin increase, trading in single-stock leveraged and inverse ETFs on KOSPI has collapsed. Korea Exchange said on the 3rd that turnover in 16 KOSPI-listed single-stock leveraged/inverse ETFs tied to Samsung Electronics and SK Hynix was 1.2388 trillion won, down 58.6% from 2.9907 trillion won on the implementation day and about one-tenth of the 12.4485 trillion won traded on the last session before the change. Regulators raised the minimum cash margin for single-stock leveraged ETF investors from 10 million won to 30 million won. Retail trading in these products fell to 250.7 billion won, under a quarter of 929.9 billion won on the implementation day."
+    },
+    {
+      "id": "te:economy:572235",
+      "time": "2026-08-03 22:06:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Business Confidence",
+        "Importance 3"
+      ],
+      "text": "US Manufacturing Accelerates to Fastest Pace Since 2022 — The ISM Manufacturing PMI for the US rose to 55.6 in July 2026 from 53.3 in June, beating market expectations of 54.0 and signaling the strongest expansion in factory activity since May 2022. The improvement was driven by a sharp acceleration in output (58.5 vs. 52.2) and solid growth in new orders (56.7 vs. 56.0). Employment also returned to expansion for the first time since January 2025, with the employment index rising to 52.8 from 49.7, its highest level since August 2022, pointing to strengthening labor demand across the manufacturing sector."
+    },
     {
       "id": "5022882",
       "time": "2026-08-03 22:04:08",
@@ -166121,115 +166183,6 @@
         "MKT News"
       ],
       "text": "【Ministry of Emergency Management orders sectoral safety crackdown in mines, fire protection, hazardous chemicals, fireworks and industrial-commercial sectors】On July 27 the Ministry of Emergency Management held party and administrative meetings, instructing strengthened monitoring and warnings for the aftermath of Typhoon Hongxia and intensified measures to prevent casualties from localized extreme heavy rainfall. It ordered reinforced flood-control work during the key July–early August period, requiring local authorities to pre-position personnel, supplies and equipment in high-risk areas for rapid response and effective incident handling. The ministry said it will conduct central safety-production assessments in Q3, using both announced and unannounced inspections, and urged local governments and relevant departments to strictly fulfil responsibilities, carry out targeted rectifications in mines, fire safety, hazardous chemicals, fireworks and industrial-commercial sectors, and strengthen risk assessment and deployment to firmly stabilise the safety-production situation."
-    },
-    {
-      "id": "mkt:019fa3e8-4e0e-7aab-8eb0-eae830d148b0",
-      "time": "2026-07-27 22:08:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Baker Hughes says it expects the impact of the Iran conflict on some projects and supply chains to be offset by stronger performance in other regions."
-    },
-    {
-      "id": "5010560",
-      "time": "2026-07-27 22:08:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：美國的行為表現得像個黑幫團伙，需要學會負責任地行事，才能促成合理的外交程序。"
-    },
-    {
-      "id": "mkt:019fa3e7-bfeb-7aab-8eb0-e58b9d82a982",
-      "time": "2026-07-27 22:08:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "US equities pared earlier gains; Nasdaq-100 briefly dipped into negative territory."
-    },
-    {
-      "id": "5010559",
-      "time": "2026-07-27 22:07:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數轉跌，此前一度漲超1%。"
-    },
-    {
-      "id": "mkt:019fa3e6-f6bd-7aab-8eb0-df0e7a4b5622",
-      "time": "2026-07-27 22:07:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "The European Commission is considering amending a tax on large companies to unlock a budget agreement, Politico reports."
-    },
-    {
-      "id": "5010558",
-      "time": "2026-07-27 22:06:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝克休斯預計中東業務活動大體穩定，多數其他市場第三季度將實現溫和增長。"
-    },
-    {
-      "id": "5010557",
-      "time": "2026-07-27 22:06:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國民主黨眾議員加西亞詢問泰勒農場公司是否干預了FDA的調查。"
-    },
-    {
-      "id": "mkt:019fa3e6-373d-7aab-8eb0-d08f14deca3e",
-      "time": "2026-07-27 22:06:41",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Ukraine has requested an emergency UN Security Council meeting scheduled to convene shortly."
-    },
-    {
-      "id": "5010556",
-      "time": "2026-07-27 22:06:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣藥集團旗下白雲山何濟公收購北京法瑪星醫藥】7月25日，廣藥集團旗下廣州白雲山何濟公藥業有限公司（下稱白雲山何濟公）與北京法瑪星醫藥科技有限公司（以下簡稱：法瑪星醫藥）簽訂股權轉讓協議，以人民幣3.3億元為交易對價，收購法瑪星醫藥股權，成為其控股股東。此次收購完成後，白雲山何濟公將切入新型透皮貼劑領域。"
-    },
-    {
-      "id": "5010555",
-      "time": "2026-07-27 22:06:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【費城半導體指數跌幅擴大至1.74%】費城半導體指數跌幅擴大至1.74%，現報11613.32點。"
-    },
-    {
-      "id": "mkt:019fa3e5-8c24-7aab-8eb0-cc117a94c43e",
-      "time": "2026-07-27 22:05:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian Foreign Ministry spokesperson on Ukraine said Russia is willing to consider new ideas and proposals."
-    },
-    {
-      "id": "mkt:019fa3e5-6fea-7aab-8eb0-c31953c9c21d",
-      "time": "2026-07-27 22:05:50",
-      "tags": [
-        "MKT News",
-        "BKR.O",
-        "Impact bearish"
-      ],
-      "text": "Baker Hughes said it expects regional facilities to face higher logistics costs and inflationary pressure amid the Middle East conflict."
     }
   ]
 }
