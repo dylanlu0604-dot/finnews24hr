@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-03 13:10:05",
+  "updated": "2026-08-03 13:14:14",
   "count": 17925,
   "items": [
+    {
+      "id": "5021680",
+      "time": "2026-08-03 13:12:58",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將 法拉利 目標價從320歐元上調至347歐元。"
+    },
+    {
+      "id": "5021679",
+      "time": "2026-08-03 13:12:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【牛蛙抗生素超標公司多年參保人數為0】據媒體報道，近日，牛蛙產業鏈抗生素超標問題被曝光，東山縣祺行天下供應鏈管理有限公司、汕頭市順聯水產有限公司被點名。天眼查App顯示，東山縣祺行天下供應鏈管理有限公司成立於2023年3月，法定代表人為劉聰智，註冊資本100萬人民幣，參保人數資訊顯示，該公司多年參保人數為0。汕頭市順聯水產有限公司成立於2019年6月，法定代表人為陳初林，註冊資本50萬人民幣。法律訴訟資訊顯示，該公司曾涉及買賣合同糾紛。"
+    },
+    {
+      "id": "5021678",
+      "time": "2026-08-03 13:12:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【MiniMax H3正式開源】8月3日，MiniMax H3模型正式開源。華為昇騰、摩爾執行緒、沐曦、海光資訊、崑崙芯、天數智芯、壁仞科技、AMD、Intel等國內外晶片廠商，以及Hugging Face等開發社群和雲推理平臺同日完成相關適配支援。MiniMax H3是一個通用型全模態生成系統，在Artificial Analysis榜單中影片編輯能力排名第一，能夠統一理解由文字、影象、影片和音訊構成的多模態上下文，並可生成最高2K解析度、最長15 秒、帶有原生立體聲音訊的影片。"
+    },
+    {
+      "id": "5021677",
+      "time": "2026-08-03 13:12:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順為資本與經緯創投領投破殼機器人Pre-A輪融資】8月3日，通用具身智慧公司破殼機器人（PokeBot）完成億美元級Pre-A輪融資。本輪融資由順為資本與經緯創投共同領投，九坤創投、鈞山資本、SEEFund、獵聘投資、元諾資本、鐘鼎資本等多家財務及產業投資機構參與，雲啟資本、小米戰投、弘暉基金、英諾天使基金、東方嘉富等老股東持續加註。"
+    },
+    {
+      "id": "mkt:019fc608-49dd-7aab-8f4e-f18fe7fc31d0",
+      "time": "2026-08-03 13:10:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc measured a magnitude 4.2 earthquake at 13:00 Beijing time on Aug 3 near Gao County, Yibin, Sichuan (28.55°N, 104.67°E); epicentral depth 5 km."
+    },
+    {
+      "id": "mkt:019fc608-134f-7aab-8f4e-ec57a3c121aa",
+      "time": "2026-08-03 13:10:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share coal mining and processing sector rallied; Xindazhou A hit the daily limit-up, while Huadian Energy, Antai Group, Hengyuan Coal & Power, Kailuan and Meijin Energy also advanced."
+    },
+    {
+      "id": "5021676",
+      "time": "2026-08-03 13:10:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭開採加工拉昇，新大洲A漲停】煤炭開採加工拉昇，新大洲A漲停，華電能源、安泰集團、恆源煤電、開灤股份、美錦能源跟漲。"
+    },
     {
       "id": "mkt:019fc606-da0e-7aab-8f4e-e1cce3eced71",
       "time": "2026-08-03 13:09:25",
@@ -166096,70 +166159,6 @@
         "MKT News"
       ],
       "text": "【Jefferies: Surge in token consumption to benefit Chinese AI labs】Jefferies analysts said in a research note that a global surge in token consumption is likely to benefit Chinese AI labs. The firm flagged material opportunities in coding, workspace applications and mid-to-long-form content. It said Baidu, Alibaba and Tencent, along with cloud providers Kingsoft Cloud and Kuaishou’s AI-video business, stand to gain from rising AI demand."
-    },
-    {
-      "id": "5009357",
-      "time": "2026-07-27 13:13:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "鋰電池電解液概念再度拉昇，日科化學20cm3天2板，孚日股份回封漲停，永太科技、泰和科技、海科新源、石大勝華、海辰藥業、富祥股份漲幅靠前。"
-    },
-    {
-      "id": "5009356",
-      "time": "2026-07-27 13:13:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【梅德韋傑夫諷刺英國新首相：小不列顛首相】據俄新社報道，當地時間7月26日，俄羅斯聯邦安全會議副主席梅德韋傑夫諷刺地將英國首相伯納姆稱為“小不列顛首相”。 他在社交平臺上寫道：“小不列顛新首相伯納姆宣稱無條件支援烏克蘭。當然，這沒什麼新鮮的。重要的是另一點：我們的任務——繼續盡一切努力，讓這座尚未沉沒的小島上的生活最大限度地難以忍受。這裡什麼都適用：經濟危機、社會劇變、清潔工罷工。什麼都可以。” 梅德韋傑夫補充說：“不過最好的還是‘波塞冬’。” 7月26日，俄羅斯總統普京表示，“波塞冬”核動力無人潛航器正處於最後準備階段，很快將最終就緒並開始戰備值班。 另據法新社報道，烏克蘭總統澤連斯基將於當地時間7月27日訪問英國。他將成為伯納姆就任後會見的首位外國領導人。 伯納姆的唐寧街辦公室26日晚間宣佈，伯納姆發誓將“繼續兩國之間牢不可破的紐帶”。（觀察者網）"
-    },
-    {
-      "id": "mkt:019fa1fd-fbd9-7aab-8ea3-64e782a51d89",
-      "time": "2026-07-27 13:13:24",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share tourism and hotel sector rallied in the afternoon; Huatian Hotel and Tongqinglou hit the daily limit, while Junting Hotel, Jinjiang Hotels, BTG Hotels and Jinling Hotel also rose."
-    },
-    {
-      "id": "5009355",
-      "time": "2026-07-27 13:12:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【陶氏公司第二季度淨銷售額同比增長20%】7月27日，陶氏公司釋出2026年第二季度財務報告，淨銷售額為121億美元，同比增長20%，所有運營板塊及地區均有增長。本地價格同比增長20%，主要由包裝與特種塑膠運營板塊帶動，各地區聚乙烯價格有所上漲。根據公認會計原則（GAAP）計算的淨利潤為8.02億美元。經營性息稅前利潤（Op. EBIT）為16億美元，同比增加17億美元，主要得益於價格上漲以及公司自主改善舉措的推動。"
-    },
-    {
-      "id": "5009354",
-      "time": "2026-07-27 13:12:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：中國AI實驗室料將受益於token消耗量激增】Jefferies分析師在一份研究報告中表示，全球token消耗量的激增料將使中國AI實驗室受益。Jefferies補充道，在編碼、工作空間場景以及中長篇內容方面存在重大機遇。該行表示，百度、阿里巴巴和騰訊，以及雲端計算服務提供商金山雲和快手的AI影片業務可靈，料將受益於不斷增長的AI需求。"
-    },
-    {
-      "id": "te:economy:569974",
-      "time": "2026-07-27 13:10:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Finland",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Finnish Consumer Morale Holds Firm in July — Finland’s consumer confidence stood at -5.3 in July 2026, unchanged from the previous month and remaining well below the long-term average of -2.9. Still, it was the highest reading since February 2022, when the indicator was last in positive territory. Expectations for the national economy over the next 12 months improved slightly (8.1 vs 7.0 in June), while views on Finland's economy also became less pessimistic (-4.7 vs -6.3). Households were slightly more optimistic about their own finances (-2.2 vs -3.0), although assessments of the current economic situation remained weak. Consumers continued to view the timing for purchasing durable goods as highly unfavorable (-15.9 vs -13.0), with spending intentions declining further (-22.4 vs -18.8). Meanwhile, unemployment expectations remained pessimistic (-19.5 vs -18.7), while inflation expectations eased to 3.7% from 3.9% in June."
-    },
-    {
-      "id": "mkt:019fa1fb-54ba-7aab-8ea3-5c153cd2daf3",
-      "time": "2026-07-27 13:10:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Republican senator says Trump unlikely to end Iran war soon】The Hill — Republican Senator Bill Cassidy said on Sunday it 'seems unlikely' President Trump will quickly end the war in Iran and urged the president to seek a congressional path to peace. Cassidy called for a fuller national debate on how to proceed, said a rapid end would be welcome but appears unlikely despite assurances, and criticized Trump's handling of the conflict with attention to its impact on cost of living. In May, after failing to retain his Senate seat, Cassidy was one of four Republican senators who supported a War Powers Resolution calling for withdrawal of U.S. forces deployed to Iran."
     }
   ]
 }

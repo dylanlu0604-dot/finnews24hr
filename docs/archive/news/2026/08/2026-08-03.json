@@ -1,7 +1,70 @@
 {
   "date": "2026-08-03",
-  "count": 996,
+  "count": 1003,
   "items": [
+    {
+      "id": "5021680",
+      "time": "2026-08-03 13:12:58",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將 法拉利 目標價從320歐元上調至347歐元。"
+    },
+    {
+      "id": "5021679",
+      "time": "2026-08-03 13:12:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【牛蛙抗生素超標公司多年參保人數為0】據媒體報道，近日，牛蛙產業鏈抗生素超標問題被曝光，東山縣祺行天下供應鏈管理有限公司、汕頭市順聯水產有限公司被點名。天眼查App顯示，東山縣祺行天下供應鏈管理有限公司成立於2023年3月，法定代表人為劉聰智，註冊資本100萬人民幣，參保人數資訊顯示，該公司多年參保人數為0。汕頭市順聯水產有限公司成立於2019年6月，法定代表人為陳初林，註冊資本50萬人民幣。法律訴訟資訊顯示，該公司曾涉及買賣合同糾紛。"
+    },
+    {
+      "id": "5021678",
+      "time": "2026-08-03 13:12:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【MiniMax H3正式開源】8月3日，MiniMax H3模型正式開源。華為昇騰、摩爾執行緒、沐曦、海光資訊、崑崙芯、天數智芯、壁仞科技、AMD、Intel等國內外晶片廠商，以及Hugging Face等開發社群和雲推理平臺同日完成相關適配支援。MiniMax H3是一個通用型全模態生成系統，在Artificial Analysis榜單中影片編輯能力排名第一，能夠統一理解由文字、影象、影片和音訊構成的多模態上下文，並可生成最高2K解析度、最長15 秒、帶有原生立體聲音訊的影片。"
+    },
+    {
+      "id": "5021677",
+      "time": "2026-08-03 13:12:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順為資本與經緯創投領投破殼機器人Pre-A輪融資】8月3日，通用具身智慧公司破殼機器人（PokeBot）完成億美元級Pre-A輪融資。本輪融資由順為資本與經緯創投共同領投，九坤創投、鈞山資本、SEEFund、獵聘投資、元諾資本、鐘鼎資本等多家財務及產業投資機構參與，雲啟資本、小米戰投、弘暉基金、英諾天使基金、東方嘉富等老股東持續加註。"
+    },
+    {
+      "id": "mkt:019fc608-49dd-7aab-8f4e-f18fe7fc31d0",
+      "time": "2026-08-03 13:10:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc measured a magnitude 4.2 earthquake at 13:00 Beijing time on Aug 3 near Gao County, Yibin, Sichuan (28.55°N, 104.67°E); epicentral depth 5 km."
+    },
+    {
+      "id": "mkt:019fc608-134f-7aab-8f4e-ec57a3c121aa",
+      "time": "2026-08-03 13:10:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share coal mining and processing sector rallied; Xindazhou A hit the daily limit-up, while Huadian Energy, Antai Group, Hengyuan Coal & Power, Kailuan and Meijin Energy also advanced."
+    },
+    {
+      "id": "5021676",
+      "time": "2026-08-03 13:10:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭開採加工拉昇，新大洲A漲停】煤炭開採加工拉昇，新大洲A漲停，華電能源、安泰集團、恆源煤電、開灤股份、美錦能源跟漲。"
+    },
     {
       "id": "mkt:019fc606-da0e-7aab-8f4e-e1cce3eced71",
       "time": "2026-08-03 13:09:25",
