@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-04 04:33:02",
-  "count": 17965,
+  "updated": "2026-08-04 04:37:15",
+  "count": 17959,
   "items": [
+    {
+      "id": "te:markets:572279",
+      "time": "2026-08-04 04:35:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.32% Higher — The Dow Jones Index went up by 693 points or 1.32 percent on Monday to close at 53178 points. The rise was led by Boeing (7.93%), Microsoft (4.90%) and Amazon (4.64%)."
+    },
+    {
+      "id": "te:markets:572278",
+      "time": "2026-08-04 04:34:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Brazilian Stocks Close Flat — The Ibovespa closed flat at 178,000 on Monday as losses in heavyweight commodity stocks offset optimism over easing Middle East tensions. Iran signaled progress in negotiations to restore shipping through the Strait of Hormuz after US President Donald Trump called off a planned strike on the country. The prospect of a diplomatic solution pushed oil prices lower, easing inflation concerns and driving bond yields down. The favorable backdrop reinforced expectations that the BCB will cut the Selic rate this week from the current 14.25%. Financials advanced, with Itaú and Bradesco rising 0.6%, while utilities also gained, with Axia up 1.4%. Also, Embraer climbed 3.1% after BNDES approved R$3.3-3.7 billion in financing to support exports of up to 19 aircraft to Canada's Porter Aviation Holdings. However, Petrobras (-0.8%) and Vale (-2.1%) weighed on the index as oil and iron ore prices declined."
+    },
     {
       "id": "5023220",
       "time": "2026-08-04 04:31:19",
@@ -166420,82 +166444,6 @@
         "國際"
       ],
       "text": "【特朗普赴密歇根通用工廠面向汽車工人宣講，大力鼓吹關稅政策】美國總統特朗普到訪通用汽車密歇根廠區，大力宣揚其經濟政策，核心包括關稅政策與放寬環保法規。特朗普稱自己為通用汽車感到“十分自豪”，讚揚CEO瑪麗·博拉與總裁馬克·羅伊斯將部分生產線從墨西哥遷回美國，並表示零關稅是企業迴流的關鍵動因。特朗普還宣揚聯邦燃油經濟性標準鬆綁、簡化底特律車企小型轎車生產限制等舉措，同時抨擊全美汽車工人聯合會主席肖恩·費恩——此人在2024年大選中支援卡瑪拉·哈里斯。"
-    },
-    {
-      "id": "te:markets:570183",
-      "time": "2026-07-28 04:36:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Nucor earnings above expectations at 4.87 USD — Nucor (NUE) released earnings per share at 4.87 USD, compared to market expectations of 4.22 USD."
-    },
-    {
-      "id": "5010845",
-      "time": "2026-07-28 04:35:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國公開批評特朗普政府人權狀況後，美國外交官集體離場，退出聯合國安理會會議。"
-    },
-    {
-      "id": "mkt:019fa54a-16e4-7aab-8eb7-24320b12d034",
-      "time": "2026-07-28 04:35:23",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bearish",
-        "NVDA.O",
-        "S&P500"
-      ],
-      "text": "【SK Hynix ADR falls below IPO price, joins SpaceX among large US IPOs trading under issue】SK Hynix (SKHY.O) ADR hit a record low on Monday after its $26.5 bln US listing earlier this month, retreating as investors exited high‑valuation semiconductor names. The stock plunged as much as 10% intraday to $139.01, below the $149 issue price, and closed at $143.02. SK Hynix is among the first of this year’s largest US IPOs to trade below their offer price, alongside SpaceX. The semiconductor sector extended recent losses, with the sector index closing at its lowest level since May 19. Cost of default protection on NVIDIA (NVDA.O) corporate debt rose as a new wave of AI infrastructure deals could exceed $750 bln."
-    },
-    {
-      "id": "te:markets:570182",
-      "time": "2026-07-28 04:35:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.51% Higher — The Dow Jones Index went up by 263 points or 0.51 percent on Monday to close at 52210 points. The rise was led by Salesforce (5.39%), 3M (3.17%) and Sherwin-Williams (3.05%). On the downside, the weakerst performers were Nvidia (-4.97%), Chevron (-2.55%) and Caterpillar (-1.71%)."
-    },
-    {
-      "id": "5010844",
-      "time": "2026-07-28 04:34:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "房地美：6月抵押貸款組合總額年化增長率為2.0%。"
-    },
-    {
-      "id": "5010843",
-      "time": "2026-07-28 04:34:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "房地美：單戶住宅逾期拖欠率從5月的0.59%升至6月的0.60%。"
-    },
-    {
-      "id": "5010842",
-      "time": "2026-07-28 04:34:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "房地美：6月多戶型住宅貸款拖欠率從5月的0.47%升至0.51%。"
-    },
-    {
-      "id": "5010841",
-      "time": "2026-07-28 04:33:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "房地美：6月抵押貸款相關投資組合的未償本金餘額總計增加約13億美元。"
     }
   ]
 }
