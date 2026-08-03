@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-03 12:37:55",
-  "count": 17938,
+  "updated": "2026-08-03 12:41:55",
+  "count": 17934,
   "items": [
+    {
+      "id": "5021650",
+      "time": "2026-08-03 12:40:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【業績前瞻：滙豐第二季度淨利潤或將大幅增長】滙豐控股定於週二公佈第二季度業績。淨利潤：根據Visible Alpha對分析師的一項調查，在截至6月的三個月裡，滙豐的淨利潤預計將增長61%，達到73.6億美元。該行上年同期錄得淨利潤45.8億美元，當時業績受到與聯營公司交通銀行相關的21億美元損失的拖累。今年迄今，該股在香港已上漲約36%，而2025年全年漲幅為61%。"
+    },
+    {
+      "id": "5021649",
+      "time": "2026-08-03 12:40:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼統計局：6月進口同比增長34.27%（調查預估為增長25.30%）。"
+    },
+    {
+      "id": "5021648",
+      "time": "2026-08-03 12:37:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興發集團成立生態科技公司】企查查APP顯示，近日，湖北興美生態科技有限公司成立，法定代表人為張橋，註冊資本為1億元，經營範圍包含：生物農藥技術研發；肥料銷售；農用薄膜銷售；非金屬礦及製品銷售；肥料生產；農藥批發等。企查查股權穿透顯示，該公司由興發集團間接全資持股。"
+    },
+    {
+      "id": "5021647",
+      "time": "2026-08-03 12:37:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：價值增長已成為全球智慧手機市場增長核心】8月3日，Counterpoint Research釋出最新市場監測報告，Counterpoint Research高階分析師Shilpi Jain在報告中表示，全球智慧手機市場已進入一個新階段，出貨量不再是增長的主要驅動力，價值增長已成為市場增長的核心，而持續上漲的零部件成本則進一步加速了這一趨勢。展望未來，隨著儲存供應緊張及成本上漲短期內難以緩解，預計OEM將繼續提價，供應正逐漸成為制約行業發展的關鍵因素，智慧手機行業在2026年下半年可能會面臨更嚴重的出貨量下滑。因此，預計未來幾個季度ASP（平均售價）也將隨之繼續上漲。"
+    },
     {
       "id": "5021646",
       "time": "2026-08-03 12:36:57",
@@ -166239,83 +166272,6 @@
         "MKT News"
       ],
       "text": "Xinwei Communication said it is the RF and connector supplier for domestic satellite customers and has participated in multiple satellite-network projects, supplying phased-array antennas, high-frequency/high-speed connectors and related solutions."
-    },
-    {
-      "id": "mkt:019fa1e0-ca13-7aab-8ea2-80f823c3c745",
-      "time": "2026-07-27 12:41:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【SoftBank $40bn OpenAI bridge loan adds 21 lenders】SoftBank Group's $40 billion bridge loan to fund its OpenAI investment has attracted 21 new lenders in a wider syndication, sources said. The new lenders took about $7 billion of the facility; First Abu Dhabi Bank, GIC and Standard Chartered each subscribed close to $1 billion. The remainder was allocated to banks in Europe, Japan and Taiwan. Around $33 billion of the bridge remains held by underwriters and senior lenders but could be further syndicated."
-    },
-    {
-      "id": "mkt:019fa1e0-a976-7aab-8ea2-7ecb222ab805",
-      "time": "2026-07-27 12:41:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "People familiar said SoftBank Group's $40 billion bridge loan to fund its investment in OpenAI has drawn 21 additional lenders as the deal moves into a broader syndicated financing phase."
-    },
-    {
-      "id": "5009334",
-      "time": "2026-07-27 12:41:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【信維通訊：公司是國內衛星客戶的射頻與聯結器配套方，已參與多個星網相關專案】信維通訊7月27日在互動平臺表示，公司是國內衛星客戶的射頻與聯結器配套方，已參與多個星網相關專案，供應包括相控陣天線、高頻高速聯結器等產品及解決方案。"
-    },
-    {
-      "id": "5009333",
-      "time": "2026-07-27 12:41:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：中際旭創據悉計劃將香港上市價格定為每股980港元。"
-    },
-    {
-      "id": "mkt:019fa1df-d8ad-7aab-8ea2-772db5e04493",
-      "time": "2026-07-27 12:40:29",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran intercepts six vessels attempting to transit Strait of Hormuz】An Iranian official said six vessels switched off navigation and positioning systems in the early hours of July 27 local time and, the official alleged, attempted an illegal transit of dangerous waters south of the Strait of Hormuz under U.S. instigation. One vessel suffered an accident; the remaining vessels were returned to the Persian Gulf under Iranian control."
-    },
-    {
-      "id": "mkt:019fa1df-952f-7aab-8ea2-6841e4e976ae",
-      "time": "2026-07-27 12:40:12",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent",
-        "0700.HK"
-      ],
-      "text": "【Tencent WorkBuddy listed on HarmonyOS PC app store】WorkBuddy is now listed on the HarmonyOS PC app store, becoming the platform's first desktop office AI assistant."
-    },
-    {
-      "id": "5009332",
-      "time": "2026-07-27 12:39:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊WorkBuddy正式上架鴻蒙電腦應用市場】7月27日，據騰訊雲訊息，騰訊WorkBuddy正式上架鴻蒙電腦應用市場，成為鴻蒙平臺首個桌面辦公智慧體。"
-    },
-    {
-      "id": "mkt:019fa1de-4d16-7aab-8ea2-67e412d76957",
-      "time": "2026-07-27 12:38:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iranian media Fars News cited sources saying that early today six vessels switched off their navigation systems and attempted to transit an illegal southern route through the Strait of Hormuz; Iranian forces intercepted and returned them to the Persian Gulf, and one vessel was involved in an accident."
     }
   ]
 }
