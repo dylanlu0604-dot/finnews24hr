@@ -1,7 +1,84 @@
 {
   "date": "2026-08-03",
-  "count": 964,
+  "count": 972,
   "items": [
+    {
+      "id": "mkt:019fc5fa-e873-7aab-8f4e-adf01cc4ab2b",
+      "time": "2026-08-03 12:56:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "TASS reports a warehouse in Russia's Vladimir region came under a drone attack."
+    },
+    {
+      "id": "5021659",
+      "time": "2026-08-03 12:56:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英特爾銳炫Pro B70完成對MiniMax H3適配】8月3日，英特爾宣佈銳炫Pro B70完成對多模態影片模型MiniMax H3的適配。"
+    },
+    {
+      "id": "5021658",
+      "time": "2026-08-03 12:55:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "索尼集團股價一度下跌6.1%，創下自5月14日以來的最大單日跌幅。儘管7月31日釋出的盈利報告超出市場預期，但市場將業績改善主要歸因於關稅退款。"
+    },
+    {
+      "id": "5021657",
+      "time": "2026-08-03 12:53:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四川：到2026年底，推動阿里雲、四川資料集團等一批萬卡叢集建成投用】近日，四川省發展改革委釋出《四川省推進算力設施最佳化佈局提質建設和算電融合發展實施方案（2026—2028年）》。圍繞完善算力產業生態，《方案》提出，加快推進萬卡級智算叢集規劃建設，積極引入頭部算力企業。到2026年底，推動阿里雲、四川資料集團等一批萬卡叢集建成投用。加快算力晶片國產化部署，引導高密度綠色化機房建設，推進算存網一體化建設，打造一批“詞元示範園區”。"
+    },
+    {
+      "id": "5021656",
+      "time": "2026-08-03 12:53:24",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【四川出臺算力發展新方案 到二〇二八年底建成西部算力高地】近日，四川省發展改革委釋出《四川省推進算力設施最佳化佈局提質建設和算電融合發展實施方案（2026—2028年）》（下稱《方案》），明確未來三年全省算力發展“路線圖”。《方案》提出，到2028年底，健全生態體系、建成西部算力高地，智算規模較“十四五”末翻三番、達到240EFLOPS，佔比超過90%。 根據《方案》，四川將構建“一區一帶兩節點”全省算力一體化佈局。 “一區”即成都平原算力核心區，重點發展以訓練、推理一體化智慧算力為主的高能級智算中心。進一步提升天府資料中心叢集（成都）能級，推動國家算力叢集毗鄰連片區域協同發展，支援雅安大資料產業園、德陽天府數谷、中國（綿陽）科技城人工智慧產業園等提檔升級，積極爭取建立國家叢集拓展區。“一帶”即攀西—川西北算電融合帶，依託金沙江上游、雅礱江、大渡河流域水風光一體化清潔能源基地，大力引進龍頭企業，打造重點服務模型大廠需求的算電融合帶，重點發展綠色算力中心。“兩節點”即川南、川東北區域算力節點，服務區域產業發展和城市治理。（四川日報）"
+    },
+    {
+      "id": "te:economy:572036",
+      "time": "2026-08-03 12:52:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "Indonesia Import Growth Strongest Since 2022 — Indonesia's imports jumped 32.27% year-on-year in June 2026, exceeding expectations of 25.3% and accelerating from a 22.16% increase in May. It marked the strongest import growth since July 2022, amid higher oil prices."
+    },
+    {
+      "id": "te:economy:572035",
+      "time": "2026-08-03 12:52:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Dutch Retail Sales Growth Slows to 4-Month Low — Retail sales in the Netherlands increased by 2.9% year-on-year in June 2026, easing from an upwardly revised 3.4% in the previous month, marking the weakest growth in four months. Sales growth in the non-food sector moderated to 3.1% from 4.0% in May, as smaller gains in drugstores (4.5% vs. 7.2%), clothing (1.4% vs. 3.6%), DIY, kitchen, and flooring stores (2.2% vs. 3.2%), and recreational items (1.2% vs. 3.7%) outweighed a sharp increase in consumer electronics and white goods (6.3% vs. 1.0%). Additionally, sales declined in furniture and home furnishing stores (-0.5% vs. 1.5%) and shoe and leather goods stores (-4.6% vs. 2.7%). In contrast, turnover for food products grew by 2.5% from 2.1%, lifted by stronger supermarket sales (2.7% vs. 2.1%), while growth in specialty stores eased to 0.9% from 1.9%."
+    },
+    {
+      "id": "5021655",
+      "time": "2026-08-03 12:50:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "塔斯社援引州長訊息稱，俄羅斯弗拉基米爾地區一處倉庫遭無人機襲擊擊中。"
+    },
     {
       "id": "te:economy:572033",
       "time": "2026-08-03 12:48:02",
