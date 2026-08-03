@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-04 07:30:23",
-  "count": 17912,
+  "updated": "2026-08-04 07:34:10",
+  "count": 17916,
   "items": [
+    {
+      "id": "5023308",
+      "time": "2026-08-04 07:33:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果新任CEO據悉邀請已退休的硬體部門負責人加入管理團隊】據報道，蘋果公司即將上任的執行長約翰·特納斯（John Ternus）正將一位曾在自己負責硬體工程期間共事過的得力助手重新招致麾下，加入其新的管理團隊。報道稱，特納斯已聘請勞拉·萊格羅斯加入團隊，萊格羅斯此前曾擔任硬體工程副總裁，直至2022年退休。"
+    },
+    {
+      "id": "te:markets:572294",
+      "time": "2026-08-04 07:32:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Holds Decline as US-Iran Talks Eyed — Brent hovered around $83.5 per barrel on Tuesday after tumbling nearly 5% in the previous session, as investors monitored renewed US-Iran negotiations for signs the two sides could reach an agreement on fully reopening the Strait of Hormuz. President Donald Trump said his proposal for talks represents Tehran’s final opportunity to strike a deal and expressed confidence that Hormuz will reopen soon. Iran, however, denied that any direct talks with the US are underway, though it said discussions with Oman aimed at increasing shipping through the strait are progressing. Elsewhere, Turkey and Iraq extended a key oil pipeline agreement by another year, bolstering alternative export routes, while Kazakhstan resumed crude flows through the Caspian Pipeline Consortium following a brief disruption. Meanwhile, OPEC+ approved another modest output increase, completing the planned restoration of production cuts introduced in 2023."
+    },
+    {
+      "id": "5023307",
+      "time": "2026-08-04 07:32:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤跌120點，報63560點。"
+    },
+    {
+      "id": "5023306",
+      "time": "2026-08-04 07:32:02",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【專家：預計下一步央行將綜合運用各類短、中、長期流動性管理工具，保持流動性充裕】東方金誠首席宏觀分析師王青表示，在前期公開市場各項操作適度調減等因素帶動下，當前DR001（銀行間市場存款類機構隔夜質押回購利率）等主要市場利率已回升到政策利率附近，7月份中期流動性恢復淨投放。預計下一步中國人民銀行將綜合運用各類短、中、長期流動性管理工具，保持流動性充裕，DR001等主要市場利率持續大幅向上偏離政策利率的可能性很小。 值得一提的是，當前中國人民銀行已設立隔夜逆回購工具，並正在增加操作頻率。王青認為，這將進一步控制DR001的波動，為推動貨幣政策框架向價格型轉型創造有利條件。"
+    },
+    {
+      "id": "te:markets:572293",
+      "time": "2026-08-04 07:31:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Holds Decline as US-Iran Talks Eyed — Crude oil hovered near $80 per barrel on Tuesday after tumbling about 5% in the previous session, as investors monitored renewed US-Iran negotiations for signs the two sides could reach an agreement on fully reopening the Strait of Hormuz. President Donald Trump said his proposal for talks represents Tehran’s final opportunity to strike a deal and expressed confidence that Hormuz will reopen soon. Iran, however, denied that any direct talks with the US are underway, though it said discussions with Oman aimed at increasing shipping through the strait are progressing. Elsewhere, Turkey and Iraq extended a key oil pipeline agreement by another year, bolstering alternative export routes, while Kazakhstan resumed crude flows through the Caspian Pipeline Consortium following a brief disruption. Meanwhile, OPEC+ approved another modest output increase, completing the planned restoration of production cuts introduced in 2023."
+    },
+    {
+      "id": "5023305",
+      "time": "2026-08-04 07:30:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【利用率90%左右 新能源發展重心轉向消納】近日，國家發展改革委、國家能源局聯合印發《新型電力系統建設“十五五”規劃》（下稱《規劃》），提出：到2030年，新型電力系統初步建成，非化石能源發電量佔比達到50%；全國新能源利用率保持在90%左右。“《規劃》的核心是以新能源消納為先。”中國新能源電力投融資聯盟秘書長彭澎對記者表示：《規劃》透過調整新能源利用率管控標準，釋放新能源投資空間；與此同時，新能源發展重心正由電源側全面轉向用電側，鼓勵在用電側佈局儲能、虛擬電廠等主體保障消納。記者採訪獲悉，從產業機遇角度看，《規劃》有望進一步釋放主網特高壓、配網投資、儲能產業鏈、電力交易及虛擬電廠等產業發展動能。（上海證券報）"
+    },
     {
       "id": "5023304",
       "time": "2026-08-04 07:29:45",
@@ -17,6 +72,15 @@
         "其他"
       ],
       "text": "【夯實電力供應 到2030年新型儲能裝機規模達3億千瓦】《新型電力系統建設“十五五”規劃》昨天對外發布。規劃明確，“十五五”期間，我國將最佳化抽水蓄能、新型儲能等各類調節資源佈局，夯實電力供應保障能力。《規劃》指出，“十五五”時期，我國將最佳化各類調節資源佈局。加快抽水蓄能電站建設，推動新型儲能規模化發展，豐富新型儲能應用場景。推進新一代煤電升級改造。到2030年，全國抽水蓄能電站裝機規模達到1.6億千瓦左右，新型儲能裝機規模達到3億千瓦。車網互動聚合可調充電規模力爭達到5000萬千瓦。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608043830150474",
+      "time": "2026-08-04 07:29:00",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【推動經濟持續向新向優向好發展 業界預計降準降息可能適時啟用】日前，中國人民銀行召開2026年下半年工作會議，總結2026年以來工作，分析當前形勢，部署下一階段工作。會議強調，實施好適度寬鬆的貨幣政策，充分發揮各項存量政策效能，及時謀劃出臺務實管用的增量政策，加大逆週期調節力度，加力擴大內需、最佳化供給，紮實做好下半年各項重點工作，推動經濟持續向新向優向好發展。多位專家預計，年內降準降息有一定可能和空間。"
     },
     {
       "id": "5023302",
@@ -165979,30 +166043,6 @@
         "其他"
       ],
       "text": "澳大利亞維多利亞州州長傑辛塔·艾倫宣佈決定辭職。"
-    },
-    {
-      "id": "5010960",
-      "time": "2026-07-28 07:33:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國內動力煤價格企穩回升 後續或保持高位震盪格局】中國煤炭市場網資料顯示，截至7月24日，“CCTD環渤海動力煤現貨參考價”5500K、5000K、4500K三個規格品分別收於826元/噸、736元/噸、643元/噸，較月初分別下降11元/噸、10元/噸、5元/噸。從7月份整體情況看，7月上旬煤價震盪走弱，中旬行情迎來拐點，煤價觸底反彈，臨近月底收官，市場成交放緩，價格漲後窄幅調整。“展望8月份動力煤價格走勢，整體將維持偏強執行的態勢，但震盪的特徵依然會比較明顯。” 中關村物聯網產業聯盟副秘書長袁帥表示，整體來看，8月份動力煤價格會在供需雙方的持續角力下保持高位震盪的格局，市場參與者更需要關注需求端的變化節奏以及供給端的政策動向，合理調整庫存水平和經營策略。（證券日報）"
-    },
-    {
-      "id": "5010959",
-      "time": "2026-07-28 07:31:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數期貨在新加坡交易所開盤下跌1105點，報63945點。"
-    },
-    {
-      "id": "5010958",
-      "time": "2026-07-28 07:30:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基將會晤美參議院全體議員 對俄制裁案可望表決】兩名參議院助手錶示，烏克蘭總統澤連斯基週二晚間將在華盛頓會晤美國參議院全體100名議員。澤連斯基此次訪問華府是為了出席已故共和黨參議員林賽·格雷厄姆（Lindsey Graham）的葬禮。其中一位助手錶示，參議院預計最快也將於澤連斯基訪美期間開始就一項對俄羅斯實施制裁的法案進行表決。該法案原由格雷厄姆主導推動。在格雷厄姆本月猝逝之前，這項法案已在國會擱置約一年。 為了爭取更多支援，國會議員已將法案中的關稅稅率，從先前版本一體課徵500%，下調至100%。不過，法案也引發國會對於特朗普可能獲得新權力的擔憂。"
     }
   ]
 }
