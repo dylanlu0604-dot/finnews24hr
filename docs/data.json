@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-04 07:07:27",
-  "count": 17920,
+  "updated": "2026-08-04 07:11:15",
+  "count": 17918,
   "items": [
+    {
+      "id": "5023285",
+      "time": "2026-08-04 07:10:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【臺積電熊本工廠完成地震相關檢查後恢復正常生產】共同社援引臺積電的訊息報道稱，熊本第一工廠已恢復正常生產運營。據報道地震發生後，對生產裝置進行的檢查和調查已經完成。"
+    },
+    {
+      "id": "5023284",
+      "time": "2026-08-04 07:09:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電熊本工廠完成地震相關檢查後恢復正常生產。"
+    },
+    {
+      "id": "5023283",
+      "time": "2026-08-04 07:09:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪評級機構表示，威廉姆斯收購Momentum Midstream不會影響其Baa2評級或正面展望。"
+    },
+    {
+      "id": "5023282",
+      "time": "2026-08-04 07:08:42",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【威廉姆斯將以55億美元收購Momentum，季度業績未達預期】管道公司威廉姆斯週一表示，將收購Momentum Midstream，以此押注美國墨西哥灣沿岸液化天然氣（LNG）出口設施、發電及工業使用者日益增長的需求。該交易包括約35億美元的現金及承接債務，以及約20億美元的威廉姆斯公司股票，將擴大威廉姆斯公司在海恩斯維爾頁岩盆地的業務版圖——該地區是墨西哥灣沿岸液化天然氣終端的重要天然氣供應源。威廉姆斯公司表示，此次交易將新增超過4,000英里的管道、逾100萬英畝的專用土地，以及總日處理能力約為60億立方英尺的天然氣集輸、加工和運輸資產。這家總部位於俄克拉荷馬州塔爾薩的公司股價在盤後交易中上漲了約2%。受運營成本和利息支出增加的影響，該公司第二季度經調整後每股收益為0.50美元，低於分析師平均預期的0.51美元。"
+    },
     {
       "id": "5023281",
       "time": "2026-08-04 07:06:32",
@@ -166034,62 +166068,6 @@
         "其他"
       ],
       "text": "【雷軍回應小米澎程沒有純電車：純電電池太重】近日，小米汽車創始人雷軍在社交媒體上發文，解釋了小米全新澎程系列為何全系只做增程、暫不推出純電版本的原因。 雷軍指出三個核心原因：澎程系列方盒子造型風阻太大，全尺寸大空間車非常重，如果做純電長續航需要超大電池，進一步加大重量，反過來也會影響續航。 雷軍表示，大電池增程可以實現日常通勤純電一週一充，極限情況增程兜底，徹底消除充電焦慮，養車也省心。 此前官方也曾回應，過去三年小米汽車純電系列的超長續航能力已被使用者充分驗證，但使用者的生活環境、用車習慣、充電條件並不相同，還有不少使用者對補能一次的超長續航里程有需求。 2023年初澎程系列正式規劃立項時，動力形式就選擇了增程技術，並進行了深入研發和最佳化改進，用增程的目的就是提高最大化的純電體驗。"
-    },
-    {
-      "id": "5010935",
-      "time": "2026-07-28 07:11:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國泰海通：儲存供需缺口仍在加深 高盈利韌性支撐長景氣週期】國泰海通釋出研報稱，儲存行業已經從AI算力投資的受益方轉變為制約AI基建的關鍵瓶頸，AI需求驅動的結構性短缺貫穿全產業鏈，供需缺口仍在加深。行業關注重點有望從單季度價格/利潤彈性轉向高盈利的多年持續性，從基於價格漲跌預期的週期博弈轉向基於高盈利確定性的重新定價，推動估值中樞上行。價格端，26Q3合約價漲幅放緩並非週期見頂訊號，預計漲價趨勢有望延續至2027年；長期協議並非限制漲價空間，而是讓價格趨勢更可預判，以短期價格彈性換取長期盈利和現金流可見性。"
-    },
-    {
-      "id": "5010934",
-      "time": "2026-07-28 07:10:34",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【國泰海通：風險資產維持高價效比 建議超配A股、H股與美股】國泰海通釋出研報稱，中東地緣政治局勢反覆變化，虛實不定，但整體脈絡依然向尾部風險下降情景演繹。當前市場仍可能受到企業業績驗證、人工智慧產業回報及地緣政治因素擾動，短期波動尚難完全消退，但市場對負面資訊的敏感度有望邊際下降。該行建議超配A股、H股與美股。"
-    },
-    {
-      "id": "te:economy:570193",
-      "time": "2026-07-28 07:10:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Shop Price Inflation",
-        "Importance 1"
-      ],
-      "text": "UK Shop Price Inflation Slows to 7-Month Low — UK shop price inflation rose by 0.9% year-on-year in July 2026, missing market expectations for a 1.2% gain and marking the slowest increase since December 2025. The latest reading also slowed from a 1.2% rise in the previous month, as widespread summer promotions and supermarket discounts curbed price growth. Food inflation slowed to 2.2%, the lowest since February 2025, from 2.4% in the previous month, while non-food inflation eased to 0.2% from 0.6%, despite higher prices for electrical, health, and beauty products due to rising semiconductor and manufacturing costs. On a monthly basis, shop prices fell 0.1%. The British Retail Consortium said retailers intensified discounts on alcohol, snacks, clothing, and footwear during the men's soccer World Cup and summer sales. BRC Chief Executive Helen Dickinson noted that fierce competition continues to limit price increases, though retailers remain under pressure from rising operating costs."
-    },
-    {
-      "id": "5010933",
-      "time": "2026-07-28 07:10:09",
-      "tags": [
-        "公司",
-        "兩會"
-      ],
-      "text": "【綠電直供資料中心，成就寧夏中衛一片投資熱土】今年以來，算力網、新一代通訊網加速佈局，相關領域投資較快增長。上半年，固定資產投資規模達22.6萬億元，資訊傳輸業投資增長25.6%。今年，“算電協同”首次被寫入《政府工作報告》，與超大規模智算叢集一同被明確為新基建工程。5月，首個大規模“算電協同”綠電直供專案在中衛投運。這一專案總投資87億元，激發了上下游的連鎖反應。光伏電站往南40公里，150萬千瓦風電專案正加緊建設，計劃9月全容量併網。“屆時整個綠電直供專案年發電量將達43億千瓦時，可基本滿足資料中心叢集的用電需求。”大唐中衛新能源有限公司副總經理靳良說。為推動實現“雙碳”目標，國家樞紐節點新建資料中心綠電佔比應不低於80%，電能利用效率低於1.2。綠電直供，成為中衛市發展大資料產業的優勢，帶動了投資增長。(人民日報)"
-    },
-    {
-      "id": "5010932",
-      "time": "2026-07-28 07:09:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方呼籲烏克蘭問題有關各方保持接觸 儘快停火止戰】當地時間27日，聯合國安理會舉行烏克蘭問題緊急公開會。中國常駐聯合國代表團臨時代辦孫磊表示，當前烏克蘭問題局勢發展令人擔憂，衝突烈度持續升級，這一危險趨勢必須儘快扭轉。中方呼籲有關各方保持接觸，展現政治意願，在對話中增進互信，在談判中積累共識，爭取達成全面、持久、有約束力的和平協議。中方還呼籲相關各方摒棄冷戰思維和陣營對抗，妥善解決彼此合理安全關切，在充分、完整、全面遵循聯合國憲章原則基礎上消除危機根源，推動構建均衡、有效、可持續的地區安全架構，實現地區長治久安。"
-    },
-    {
-      "id": "mkt:019fa5d5-c3d0-7aab-8eb7-f9ab32178a6d",
-      "time": "2026-07-28 07:07:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【USTR Greer: new 301 tariffs unlikely to add economic impact】U.S. Trade Representative Greer said on Monday the newly implemented Section 301 tariffs are not expected to create economic effects beyond those already priced in. Greer said President Trump’s tariff increases on roughly 60 trading partners, at about 10% or 12.5%, are similar to prior global tariff actions and therefore may not materially change economic outcomes. She added the set of countries targeted by the new 301 measures is narrower than the earlier broadly applied 10% temporary tariff, but the new duties still cover 99.4% of U.S. imports."
     }
   ]
 }
