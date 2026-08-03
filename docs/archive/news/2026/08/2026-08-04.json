@@ -1,7 +1,58 @@
 {
   "date": "2026-08-04",
-  "count": 200,
+  "count": 205,
   "items": [
+    {
+      "id": "5023161",
+      "time": "2026-08-04 02:26:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 他們聯絡我稱“請不要發動襲擊，我們願意達成協議。” 這就是事實，所有人都心知肚明。換作是誰，都會主動求和。"
+    },
+    {
+      "id": "mkt:019fc8df-6ad6-7aab-8f5e-0e66dad39b16",
+      "time": "2026-08-04 02:25:12",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. President Trump on Iran said he had no time limit."
+    },
+    {
+      "id": "te:markets:572269",
+      "time": "2026-08-04 02:25:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Surges by 9.38% — Top commodity gainers are Cocoa (9.38%) and Rubber (3.74%). Biggest losers are Coffee (-3.30%) and Lumber (-1.71%)."
+    },
+    {
+      "id": "mkt:019fc8df-2b24-7aab-8f5e-049347c19cb2",
+      "time": "2026-08-04 02:24:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "【Trump says he will not allow Iran to charge transit fees in the Strait of Hormuz】Asked whether Iran would restore full freedom of navigation in the Strait of Hormuz, U.S. President Trump said he would not allow Iran to charge passage fees. “This must be free navigation; I will not let them charge. If anyone were to charge, it would be us — we are the ones in full control,” he said, adding “we have something called a blockade. We are not discussing charging; there will be no charging.”"
+    },
+    {
+      "id": "5023160",
+      "time": "2026-08-04 02:24:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與伊朗達成協議不存在時間限制。"
+    },
     {
       "id": "5023159",
       "time": "2026-08-04 02:24:10",

@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-04 02:25:16",
-  "count": 17974,
+  "updated": "2026-08-04 02:29:22",
+  "count": 17977,
   "items": [
+    {
+      "id": "5023161",
+      "time": "2026-08-04 02:26:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 他們聯絡我稱“請不要發動襲擊，我們願意達成協議。” 這就是事實，所有人都心知肚明。換作是誰，都會主動求和。"
+    },
+    {
+      "id": "mkt:019fc8df-6ad6-7aab-8f5e-0e66dad39b16",
+      "time": "2026-08-04 02:25:12",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. President Trump on Iran said he had no time limit."
+    },
+    {
+      "id": "te:markets:572269",
+      "time": "2026-08-04 02:25:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Surges by 9.38% — Top commodity gainers are Cocoa (9.38%) and Rubber (3.74%). Biggest losers are Coffee (-3.30%) and Lumber (-1.71%)."
+    },
+    {
+      "id": "mkt:019fc8df-2b24-7aab-8f5e-049347c19cb2",
+      "time": "2026-08-04 02:24:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "【Trump says he will not allow Iran to charge transit fees in the Strait of Hormuz】Asked whether Iran would restore full freedom of navigation in the Strait of Hormuz, U.S. President Trump said he would not allow Iran to charge passage fees. “This must be free navigation; I will not let them charge. If anyone were to charge, it would be us — we are the ones in full control,” he said, adding “we have something called a blockade. We are not discussing charging; there will be no charging.”"
+    },
+    {
+      "id": "5023160",
+      "time": "2026-08-04 02:24:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與伊朗達成協議不存在時間限制。"
+    },
     {
       "id": "5023159",
       "time": "2026-08-04 02:24:10",
@@ -166518,25 +166569,6 @@
         "MKT News"
       ],
       "text": "【Iraq opens probe after Saudi alleges drones were launched from Iraqi territory】On the evening of the 27th Iraq’s prime minister ordered security agencies to investigate a Saudi defense ministry claim that drones launched from Iraqi territory attacked Saudi Arabia. Baghdad said it will not allow its territory to be used as a launchpad, will pursue legal measures against anyone proven involved, and described relations with Saudi Arabia as firm and based on mutual respect."
-    },
-    {
-      "id": "5010761",
-      "time": "2026-07-28 02:29:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【伊拉克政府已就“伊境內無人機襲擊沙特”展開調查】當地時間27日晚，據伊拉克武裝部隊總司令發言人薩巴赫·努曼宣告，伊拉克總理扎伊迪當天已指示相關安全部門調查沙特國防部宣告中關於伊拉克境內無人機襲擊沙特的表態。宣告重申，伊拉克政府堅持睦鄰友好原則，絕不允許伊拉克領土被用作通道或跳板以發動針對兄弟友好國家的襲擊。伊拉克政府正在展開相關調查，並將根據調查結果對任何被證實參與此類行動的人採取法律手段。宣告強調，伊拉克與沙特的關係牢固緊密，建立在相互尊重、共同利益和睦鄰友好原則之上。（央視新聞）"
-    },
-    {
-      "id": "te:markets:570171",
-      "time": "2026-07-28 02:28:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Near $82 — Crude oil extended losses and fell toward $82 per barrel on Monday, its lowest level in a week, as optimism grew that the conflict in the Middle East could soon ease. President Trump said the US was holding \"good talks\" with Iran and that there was a chance of reaching a deal, but warned that US strikes would resume if negotiations failed. The US paused its military strikes on Iran on Friday, following nearly two weeks of hostilities and Tehran said it had suspended its retaliatory military operations in response and entered talks with Oman regarding navigation through Hormuz. Supply conditions also improved after crude loadings resumed at the Caspian Pipeline Consortium terminal on Russia's Black Sea coast, a key export route for Kazakh oil that had recently been disrupted by Ukrainian drone attacks. Meanwhile, Houthi militants claimed to have targeted Saudi Aramco-linked facilities in Jizan and Yanbu, although neither the Saudi government nor Aramco confirmed it."
     }
   ]
 }
