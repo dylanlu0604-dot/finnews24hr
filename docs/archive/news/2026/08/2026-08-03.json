@@ -1,7 +1,183 @@
 {
   "date": "2026-08-03",
-  "count": 579,
+  "count": 597,
   "items": [
+    {
+      "id": "te:economy:571953",
+      "time": "2026-08-03 09:38:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Full Year GDP Growth",
+        "Importance 1"
+      ],
+      "text": "PBoC Pledges Timely Policy Support, Ample Liquidity — The People’s Bank of China (PBoC) said in a statement on Sunday that it will continue monetary support in the second half of 2026, pledging to maintain ample liquidity and adjust policy tools as needed. The statement followed a work meeting led by Governor Pan Gongsheng and echoed last week’s Politburo call to accelerate infrastructure spending. The central bank also vowed to “steadily promote the high-level opening of the financial market,” advancing cooperation on financial infrastructure, expanding liquidity management and risk-hedging tools, and facilitating yuan-denominated panda bond issuance by overseas institutions. It also highlighted plans to strengthen Shanghai’s role in cross-border finance and offshore services, consolidate Hong Kong’s position as a global offshore yuan hub, and support the resolution of debt risks at local government financing vehicles while promoting their market-oriented transformation."
+    },
+    {
+      "id": "mkt:019fc545-d33a-7aab-8f4c-390d653a4da9",
+      "time": "2026-08-03 09:38:35",
+      "tags": [
+        "MKT News",
+        "300613.SZ",
+        "Impact bullish",
+        "688018.SS"
+      ],
+      "text": "China A-share semiconductor sector rebounded; Fuhan Microelectronics hit the 20% daily limit, with Espressif Systems, Mingwei Electronics and Juxin Technology also rising."
+    },
+    {
+      "id": "5021393",
+      "time": "2026-08-03 09:38:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.20%，成分股中，華海清科跌10.09%，佰維儲存跌6.41%，拓荊科技跌5.86%，中科飛測跌5.08%。"
+    },
+    {
+      "id": "5021392",
+      "time": "2026-08-03 09:37:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【網際網路金融板塊短線拉昇，恆銀科技漲停】網際網路金融板塊短線拉昇，恆銀科技漲停，品高股份、艾融軟體、證通電子、財富趨勢、巨人網路等跟漲。"
+    },
+    {
+      "id": "mkt:019fc544-897c-7aab-8f4c-354fe7056d2b",
+      "time": "2026-08-03 09:37:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China A-share power grid equipment sector firmed in early trade; Fengfan Co. hit the daily up limit, Yikun Electric rose over 10%, and Keda Intelligent, Yineng Power, South Grid Technology, Jinlihua Electric and Zhiguang Electric also advanced."
+    },
+    {
+      "id": "5021391",
+      "time": "2026-08-03 09:37:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國晟科技等成立新公司 含行動通訊裝置業務】企查查APP顯示，近日，江蘇國晟鳳儀科技有限公司成立，經營範圍包含：行動通訊裝置銷售；行動通訊裝置製造；物聯網裝置銷售；物聯網裝置製造等。企查查股權穿透顯示，該公司由國晟科技等共同持股。"
+    },
+    {
+      "id": "5021390",
+      "time": "2026-08-03 09:37:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【奇瑞將向韓國車企KGM投資7500萬美元，擬在機器人、半導體等新業務領域合作】當地時間8月3日，韓國汽車廠商KG Mobility（KGM）宣佈與奇瑞汽車簽訂戰略投資協議。根據協議，奇瑞將向KGM投資7500萬美元，並在加速新車開發、自動駕駛和基於SDV（軟體定義汽車）的尖端電子電氣（E/E）架構等方面開展或擴大合作。兩家公司另外討論了汽車以外未來新業務領域的具體合作計劃，重點關注機器人和半導體等業務，同意探索聯合研究、試點專案和商業化的潛力。"
+    },
+    {
+      "id": "mkt:019fc544-6858-7aab-8f4c-293215865da5",
+      "time": "2026-08-03 09:37:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chery to invest $75 mln in South Korea's KG Mobility, to expand cooperation on SDV, autonomy, robotics and semiconductors】Aug 3 — South Korea’s KG Mobility said it signed a strategic investment agreement with China’s Chery Automobile under which Chery will invest $75 million. The firms will expand cooperation on new-vehicle development, autonomous driving and advanced SDV (software-defined vehicle) electronic/electrical (E/E) architectures. They also discussed future non-automotive businesses, focusing on robotics and semiconductors, and agreed to explore joint R&D, pilot projects and commercialization potential."
+    },
+    {
+      "id": "5021389",
+      "time": "2026-08-03 09:36:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普拒絕為美伊達成協議設定最後期限】當地時間8月2日，美國總統特朗普表示，美方將於3日與伊朗舉行會談，但拒絕為達成協議設定最後期限。此前，他曾叫停了一次迫在眉睫的軍事打擊行動，希望能迅速達成協議，以重新開放霍爾木茲海峽並化解圍繞德黑蘭核能力的僵局。特朗普1日晚些時候在“真實社交”平臺上發文稱，伊朗及其他中東國家已請求給予時間來敲定一項協議，該協議將促成海峽“立即、徹底且全面”的重新開放，並“終結伊朗的核威脅”，但他同時強調，德黑蘭必須“迅速達成協議”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fc543-f39f-7aab-8f4c-23fe2f537a5e",
+      "time": "2026-08-03 09:36:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "【Money-market yield snapshot for small retail balances】Tencent's Licaitong (current + 7-day annualized yield) 0.7350%–1.4550%. WeChat Wallet's Lingqiantong 7-day annualized yield 0.9130%–1.0090%. Alipay's Yu'e Bao 7-day annualized yield 0.9030%–1.0130%."
+    },
+    {
+      "id": "mkt:019fc543-8f9c-7aab-8f4c-1cf047da2694",
+      "time": "2026-08-03 09:36:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【HKEX launches 5-year offshore RMB government bond futures】HKEX on the 3rd launched a 5-year offshore RMB government bond futures contract, the only government bond futures product available in the offshore RMB market. The contract is aimed at meeting rising overseas investor demand for interest-rate hedging and trading and is presented as a step to reinforce Hong Kong’s role as an offshore RMB hub and risk-management center."
+    },
+    {
+      "id": "5021388",
+      "time": "2026-08-03 09:35:48",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場"
+      ],
+      "text": "【算力租賃概念延續強勢 盈峰環境2連板】早盤算力租賃概念延續上週五強勢，盈峰環境2連板，美利雲觸及漲停，利通電子、宏景科技、潤建股份、銅牛資訊等跟漲。訊息面上，7月31日，國家發改委新聞發言人蔣毅在新聞釋出會上表示，有關機構測算，“十五五”時期算力網建設將新增直接投資4萬億元。"
+    },
+    {
+      "id": "mkt:019fc543-4026-7aab-8f4c-130fb686ee06",
+      "time": "2026-08-03 09:35:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Most-active polysilicon futures contract rose 8.00% intraday to 35,565 yuan/ton."
+    },
+    {
+      "id": "5021387",
+      "time": "2026-08-03 09:35:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報7057.80點。"
+    },
+    {
+      "id": "5021386",
+      "time": "2026-08-03 09:35:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【香港交易所正式推出5年期人民幣國債期貨】香港交易所今天（3日）正式推出5年期人民幣國債期貨。該產品作為離岸市場唯一的國債期貨合約產品，旨在滿足境外投資者日益增長的利率風險管理及交易需求。推出五年期國債期貨是推動香港成為離岸人民幣樞紐及風險管理中心的重要一步。（央視新聞）"
+    },
+    {
+      "id": "5021385",
+      "time": "2026-08-03 09:35:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曝iPhone18漲200美元】媒體蘋果記者馬克·古爾曼近日發文表示，蘋果將於今年對iPhone產品線實施漲價，漲幅預計在100美元至200美元之間，摺合人民幣約675元至1350元。這一預測基於蘋果近期在iPad和Mac產品線上已經實施的調價策略，多款iPad和Mac機型的價格均上調了100至200美元，古爾曼認為iPhone將遵循相同的漲幅邏輯。 古爾曼在回應網友提問時指出，蘋果漲價的原因是多方面的。首先是供應鏈層面的壓力，公司正面臨記憶體晶片和主裝置處理器的供應短缺問題，這直接推高了核心元器件的採購成本。其次是產品升級帶來的成本增加，iPhone 18 Pro和iPhone 18 Pro Max採用的全新相機系統造價更高，研發和物料投入均有明顯上升。"
+    },
+    {
+      "id": "mkt:019fc542-a0e1-7aab-8f4c-0d9c78533b1e",
+      "time": "2026-08-03 09:35:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact mixed",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "China's July RatingDog manufacturing PMI due in 10 minutes."
+    },
+    {
+      "id": "5021384",
+      "time": "2026-08-03 09:35:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲8%，現報35565.00元。"
+    },
     {
       "id": "mkt:019fc542-673f-7aab-8f4c-05197426b178",
       "time": "2026-08-03 09:34:51",
