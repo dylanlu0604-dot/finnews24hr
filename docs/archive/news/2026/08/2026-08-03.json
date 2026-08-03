@@ -1,7 +1,54 @@
 {
   "date": "2026-08-03",
-  "count": 2506,
+  "count": 2512,
   "items": [
+    {
+      "id": "5022910",
+      "time": "2026-08-03 22:24:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部：北約與歐盟已淪為國際恐怖主義活動幫兇】俄羅斯外交部發言人扎哈羅娃3日就烏克蘭對俄南部城市阿爾希波-奧西波夫卡發動襲擊一事發表評論，指責北約和歐盟已成為國際恐怖主義活動的組成部分。扎哈羅娃在接受採訪時指出，當前在烏克蘭境內活動著一個“佔領了國家機器的恐怖主義匪幫”。她表示，烏克蘭基輔政權對俄羅斯民用設施發動的跨境襲擊，已遠遠超出常規戰爭的範疇，具有明顯的恐怖主義特徵。扎哈羅娃強調，西方國家不僅向烏克蘭提供遠端打擊武器和軍用無人機，還透過情報共享、資金支援和政治背書，全程參與了對俄襲擊的策劃與執行。她認為，西方勢力並非僅僅在背後觀望，而是實實在在地參與了對俄羅斯的破壞行動，北約和歐盟在這一過程中扮演了縱容甚至資助恐怖主義的角色。"
+    },
+    {
+      "id": "mkt:019fc802-b87f-7aab-8f5a-2d5ec624eb92",
+      "time": "2026-08-03 22:24:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Euro Stoxx 50 rose 1.2% to hit its highest intraday level since July 6."
+    },
+    {
+      "id": "mkt:019fc801-597c-7aab-8f5a-2713784d33a6",
+      "time": "2026-08-03 22:22:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Republican Senators Cornyn and Tillis have withdrawn holds on Trump’s attorney general nomination and will back Todd Blanche to serve as attorney general."
+    },
+    {
+      "id": "5022909",
+      "time": "2026-08-03 22:22:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 蘋果發起法律訴訟，挑戰英國最新 “後門” 法令。"
+    },
+    {
+      "id": "mkt:019fc800-8a7d-7aab-8f5a-1d732202fdc8",
+      "time": "2026-08-03 22:21:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "U.S. Treasury website: a U.S. license authorizes specific transactions related to PDVSA's 2020 8.5% bonds from Sept. 17 onward."
+    },
     {
       "id": "5022908",
       "time": "2026-08-03 22:20:11",
@@ -33,6 +80,15 @@
         "國際"
       ],
       "text": "共和黨參議員放棄阻攔特朗普提名的司法部長人選。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608033830095811",
+      "time": "2026-08-03 22:19:39",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國製造業活動創2022年以來最快擴張 生產和就業同步走強】由於需求保持強勁，生產激增以及企業增加員工，美國7月製造業活動以逾四年來最快速度擴張。週一公佈的資料顯示，美國供應管理協會的製造業指數升至55.6，為2022年5月以來最高水平。該資料高於50表明增長，該行業已連續七個月保持擴張。"
     },
     {
       "id": "mkt:019fc7fe-77e4-7aab-8f5a-0cd065841d81",
