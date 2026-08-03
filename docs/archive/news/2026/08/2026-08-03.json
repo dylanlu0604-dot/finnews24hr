@@ -1,7 +1,172 @@
 {
   "date": "2026-08-03",
-  "count": 2426,
+  "count": 2444,
   "items": [
+    {
+      "id": "mkt:019fc7ec-c8bb-7aab-8f59-76566a9129c1",
+      "time": "2026-08-03 22:00:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US July ISM employment index 52.8, expected 50.0, prior 49.7."
+    },
+    {
+      "id": "mkt:019fc7ec-c736-7aab-8f59-6ce956d72755",
+      "time": "2026-08-03 22:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US ISM new orders index (July) 56.7, matching consensus 56.7; prior 56.0."
+    },
+    {
+      "id": "mkt:019fc7ec-c727-7aab-8f59-66fc9278ea73",
+      "time": "2026-08-03 22:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US July ISM Manufacturing Prices Paid Index 71.1 (expected 71; prior 73)."
+    },
+    {
+      "id": "5022869",
+      "time": "2026-08-03 22:00:10",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國7月ISM製造業PMI 55.6，預期54，前值53.3。"
+    },
+    {
+      "id": "mkt:019fc7ec-a1fb-7aab-8f59-5ae8f2eea63e",
+      "time": "2026-08-03 22:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Construction Spending (MoM) (Jun) | actual -0.1% | consensus 0.2% | previous 0.10%"
+    },
+    {
+      "id": "mkt:019fc7ec-9dbc-7aab-8f59-503e9b78e194",
+      "time": "2026-08-03 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Employment Index (Jul) | actual 52.8 | consensus 50 | previous 49.7"
+    },
+    {
+      "id": "mkt:019fc7ec-9d5d-7aab-8f59-4bbbc12d5826",
+      "time": "2026-08-03 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM New Orders Index (Jul) | actual 56.7 | consensus 56.7 | previous 56"
+    },
+    {
+      "id": "mkt:019fc7ec-9d5b-7aab-8f59-405800749022",
+      "time": "2026-08-03 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Manufacturing PMI (Jul) | actual 55.6 | consensus 54 | previous 53.3"
+    },
+    {
+      "id": "mkt:019fc7ec-9d3f-7aab-8f59-38395909c5a9",
+      "time": "2026-08-03 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Manufacturing Prices Paid Index (Jul) | actual 71.1 | consensus 71 | previous 73"
+    },
+    {
+      "id": "5022868",
+      "time": "2026-08-03 21:59:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【7月重點城市新房成交同比增長】中指資料顯示，7月上海、深圳、杭州、成都、合肥等重點城市均有優質樓盤入市，帶動百城新房價格結構性上漲，百城新建住宅均價為17229元/平方米，環比上漲0.26%；受多數城市二手房價格調整影響，同期百城二手住宅均價為12584元/平方米，環比下跌0.44%。 在市場成交方面，7月市場進入傳統淡季，新房、二手房成交環比有所回落，但同比來看，市場交易仍保持一定活躍度。據前述機構資料，7月重點100城新房銷售面積環比下降17%，同比增長4%，其中一線城市、二線城市、三四線城市同比增速分別為14%、9%和-5%；在二手房市場，重點20城二手住宅成交12.5萬套，環比下降6%，同比增長9.3%。（21財經）"
+    },
+    {
+      "id": "5022867",
+      "time": "2026-08-03 21:59:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昊華科技：針對AI液冷伺服器已佈局形成多產品矩陣】昊華科技(600378)8月3日晚間在互動易平臺表示，目前，公司針對AI液冷伺服器已佈局形成多產品矩陣，產品包括相變浸沒液冷冷卻液YL-10、單相浸沒液冷冷卻液YL-70、相變冷板液冷冷卻液HP-1和HFC-134a等。同時，公司研發並儲備多款新型冷卻液產品以適配下游應用和需求。在客戶合作方面，公司積極推進產品在下游領域的應用，與多家行業頭部客戶開展深入合作，積極推動產品的驗證與應用推廣。"
+    },
+    {
+      "id": "5022866",
+      "time": "2026-08-03 21:59:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【新規落地 韓國個股槓桿ETF交易額驟降九成】韓國金融監管當局提高單一標的槓桿、反向ETF投資門檻的新規正式實施後，相關交易規模急劇萎縮。基礎保證金由原先1000萬韓元上調至3000萬韓元僅兩天，交易額就萎縮至新規落地前的十分之一。大量個人投資者集中兌現收益，市場過熱態勢迅速降溫。 韓國交易所8月3日資料顯示：以三星電子、SK海力士為底層資產的16只單一標的槓桿/反向ETF合計交易額約1.2萬億韓元。而上調保證金前最後一個交易日（上月30日）交易額高達12.4萬億韓元，當前規模僅為當時的十分之一；即便對比新規實施首個交易日（上月31日，約3萬億韓元），也縮水一半以上。 當日沒有任何一隻品種交易額突破1萬億韓元。"
+    },
+    {
+      "id": "5022865",
+      "time": "2026-08-03 21:58:50",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "焦點",
+        "A股"
+      ],
+      "text": "【8月3日增減持彙總（表）】8月3日盤後，據不完全統計，遠翔新材、晨光新材等兩家A股上市公司披露擬減持情況，東吳證券、飛鹿股份等披露擬增持情況。"
+    },
+    {
+      "id": "mkt:019fc7eb-3c5e-7aab-8f59-35b32b9b9551",
+      "time": "2026-08-03 21:58:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Met Office says England and Wales experienced their driest July on record."
+    },
+    {
+      "id": "mkt:019fc7ea-b9f4-7aab-8f59-283be2715ef6",
+      "time": "2026-08-03 21:57:56",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "BNP Paribas upgraded Boeing (BA.N) to Outperform and raised its PT to $300."
+    },
+    {
+      "id": "5022864",
+      "time": "2026-08-03 21:57:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國巴黎銀行將波音評級上調至“強於大盤”，並將目標股價上調至300美元。"
+    },
+    {
+      "id": "5022863",
+      "time": "2026-08-03 21:57:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "百時美施貴寶股價下跌1%，抹去了開盤時的漲幅。"
+    },
+    {
+      "id": "5022862",
+      "time": "2026-08-03 21:56:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽單日船舶通行量持續下降】國際市場服務機構克普勒公司3日在社交媒體上公佈的資料顯示，霍爾木茲海峽7月31日至8月2日的單日船舶通行量連續下降，三日的通行量分別為23艘、11艘和9艘。資料顯示，2日透過霍爾木茲海峽的9艘船舶中，有7艘經伊朗一側航道透過。資料同時顯示，曼德海峽2日共有30艘船舶透過，其中20艘駛離紅海、10艘駛入紅海，關閉自動識別系統的“暗航”船舶減少至1艘。克普勒公司分析指出，在各方尚未形成明確航行安排之前，船舶運營商應繼續將霍爾木茲海峽和曼德海峽視為存在風險的海上通道。（新華社）"
+    },
     {
       "id": "5022861",
       "time": "2026-08-03 21:54:43",
