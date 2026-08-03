@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-04 05:13:11",
-  "count": 17951,
+  "updated": "2026-08-04 05:17:19",
+  "count": 17953,
   "items": [
+    {
+      "id": "mkt:019fc97b-db49-7aab-8f5f-c5787732b315",
+      "time": "2026-08-04 05:16:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US House cybersecurity subcommittee has requested OpenAI CEO Sam Altman brief lawmakers on the Hugging Face breach."
+    },
+    {
+      "id": "5023233",
+      "time": "2026-08-04 05:15:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.42%，報14681點。"
+    },
+    {
+      "id": "mkt:019fc97b-380f-7aab-8f5f-bd0fa53f13f9",
+      "time": "2026-08-04 05:15:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "NTT Data is considering roughly $9.0 billion of investment in Japan's data-center sector."
+    },
+    {
+      "id": "5023232",
+      "time": "2026-08-04 05:12:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國眾議院網路安全委員會要求 OpenAI 執行長山姆・奧特曼就 Hugging Face 遭遇攻擊事件進行情況通報。"
+    },
     {
       "id": "5023231",
       "time": "2026-08-04 05:11:05",
@@ -166343,22 +166380,6 @@
         "國際"
       ],
       "text": "市場資訊：以色列總理內塔尼亞胡將向特朗普提供伊朗鎬山地下核設施完整情報。"
-    },
-    {
-      "id": "5010862",
-      "time": "2026-07-28 05:16:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI 執行長奧特曼預計將在華盛頓特區與貝森特和盧特尼克會面。"
-    },
-    {
-      "id": "5010861",
-      "time": "2026-07-28 05:15:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.01%，報15212點。"
     }
   ]
 }
