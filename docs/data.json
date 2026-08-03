@@ -1,7 +1,168 @@
 {
-  "updated": "2026-08-03 09:43:32",
-  "count": 17951,
+  "updated": "2026-08-03 09:50:58",
+  "count": 17949,
   "items": [
+    {
+      "id": "mkt:019fc550-a0ab-7aab-8f4c-94555b477c84",
+      "time": "2026-08-03 09:50:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【KOSPI volatility drains investors' brokerage cash pool】KOSPI volatility since July has sharply depleted investor cash held at brokerages, shrinking a key liquidity pool, the Korean Financial Investment Association (KOFIA) said. Average daily investor deposits fell by nearly 20 tln won month‑on‑month last month and are about 10 tln won lower than in March, when a US‑Iran military clash triggered a market correction. Deposits stood at 104.6584 tln won as of the 30th of last month (the day KOSPI hit a local low), down from a record 139.6948 tln won on June 4 — a drop of more than 35 tln won in roughly two months. Investor deposits are funds in securities accounts used to buy stocks; the decline reduces potential buying power and weakens market supply‑demand momentum."
+    },
+    {
+      "id": "mkt:019fc54e-25fe-7aab-8f4c-8ff6a3248b61",
+      "time": "2026-08-03 09:47:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "A-share AI application stocks rallied again. Jihong hit the daily limit. Chuanzhi Education recorded a sixth consecutive limit-up; Tianyu Shuke and Hengyin Technology posted second straight limit-ups. Foxit Software, Yidian Tianxia, Fengzhushou, Leo Group and BlueFocus also rose."
+    },
+    {
+      "id": "mkt:019fc54d-c7d9-7aab-8f4c-8449ddf1a478",
+      "time": "2026-08-03 09:47:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share electronic specialty gases sector weakened; CSSC Special Gas fell more than 10%, Zhengfan Technology dropped nearly 10%, with Yake Technology, Haohua Technology, Chengzhi, Guanggang Gas and Heyuan Gas also declining."
+    },
+    {
+      "id": "5021410",
+      "time": "2026-08-03 09:46:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI應用端再度走強 吉宏股份等多股漲停】早盤AI應用端再度走強，吉宏股份漲停，此前傳智教育6連板，天娛數科、恆銀科技2連板，福昕軟體、易點天下、蜂助手、利歐股份、藍色游標等跟漲。訊息面上，全球多模型聚合平臺OpenRouter釋出最新一週AI大模型呼叫量榜單，排名前五的產品全部由中國企業研發。登頂榜單首位的是小米MiMo-V2.5，單週呼叫量達到10.5萬億Token，環比增長12%。排名第二和第五的均來自DeepSeek。"
+    },
+    {
+      "id": "mkt:019fc54d-65ca-7aab-8f4c-7a5390155b22",
+      "time": "2026-08-03 09:46:51",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China STAR 50 Index losses widened to 4%."
+    },
+    {
+      "id": "mkt:019fc54c-49e8-7aab-8f4c-77373f5c34e7",
+      "time": "2026-08-03 09:45:38",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share humanoid-robot concept stocks rallied; Zhongda Lide hit the daily trading limit, while Fengguang Precision, Fulai New Materials and Orbbec also advanced as of press time."
+    },
+    {
+      "id": "5021409",
+      "time": "2026-08-03 09:45:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "mkt:019fc54b-e2f2-7aab-8f4c-6c2a5ea077de",
+      "time": "2026-08-03 09:45:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "Shenzhen Composite Index losses widened to 1%; ChiNext Index fell 1.59%; China's Shanghai Composite Index fell 0.6%."
+    },
+    {
+      "id": "mkt:019fc54b-e18c-7aab-8f4c-63a905afff7e",
+      "time": "2026-08-03 09:45:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China July RatingDog manufacturing PMI eased to 50.9 from 51.7 previously, remaining above the 50 expansion threshold."
+    },
+    {
+      "id": "5021408",
+      "time": "2026-08-03 09:45:09",
+      "tags": [
+        "資料",
+        "焦點"
+      ],
+      "text": "中國7月RatingDog製造業PMI 50.9，前值 51.7。"
+    },
+    {
+      "id": "mkt:019fc54b-b2a1-7aab-8f4c-59541f304bc6",
+      "time": "2026-08-03 09:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | S&P Global/Ratingdog China General Manufacturing PMI (Jul) | actual 50.9 | previous 51.7"
+    },
+    {
+      "id": "5021407",
+      "time": "2026-08-03 09:44:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量2073億元。"
+    },
+    {
+      "id": "5021406",
+      "time": "2026-08-03 09:44:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.00%，現報13442.995點；上證指數跌0.62%，現報3808.681點；創業板指跌1.56%，現報3291.930點。"
+    },
+    {
+      "id": "5021405",
+      "time": "2026-08-03 09:44:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "淡馬錫金融一號發行 10 年期新加坡元計價淡馬錫債券。"
+    },
+    {
+      "id": "5021404",
+      "time": "2026-08-03 09:44:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國汽車流通協會：7月汽車經銷商庫存預警指數為61.1%】8月3日，中國汽車流通協會發布的最新一期“汽車經銷商庫存預警指數調查”VIA顯示，2026年7月汽車經銷商庫存預警指數為61.1%，同比上升3.9個百分點，環比上升3.9個百分點，庫存預警指數位於榮枯線之上。經銷商預期，8月車市預計延續淡季弱勢執行。全國大部分地區高溫酷暑抑制線下客流，消費者觀望情緒不會明顯改善。但畢業季和開學季購車需求集中釋放，對市場需求有一定的拉動作用，銷量預計好於7月。"
+    },
+    {
+      "id": "5021403",
+      "time": "2026-08-03 09:43:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【可控核聚變板塊持續走高，融發核電漲停】可控核聚變板塊持續走高，中巖大地、合鍛智慧、江蘇神通、融發核電漲停，常輔股份漲超20%，天力複合漲超10%，瑞奇智造、中核科技、中國核建、久盛電氣、華菱線纜跟漲。"
+    },
     {
       "id": "5021402",
       "time": "2026-08-03 09:42:32",
@@ -166183,185 +166344,6 @@
         "其他"
       ],
       "text": "【港股半導體股走低 瀾起科技跌近8%】截至發稿，瀾起科技(06809.HK)跌7.94%，華虹宏力(01347.HK)跌7.68%，兆易創新(03986.HK)跌7.48%。"
-    },
-    {
-      "id": "5009083",
-      "time": "2026-07-27 09:50:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電力板塊震盪回升】立新能源8天7板，東方新能觸及漲停，珈偉新能、長源電力、九洲集團、廣西能源跟漲。"
-    },
-    {
-      "id": "mkt:019fa144-15a4-7aab-8e9f-d3a462a9b6ff",
-      "time": "2026-07-27 09:50:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "S&P500"
-      ],
-      "text": "【Japan weighs foreign-bank financing for US gas-fired power projects】Japan is considering bringing foreign-bank financing into US gas-fired power projects within its $550bln investment pledge to the United States, saying such financing would help raise necessary foreign-currency funds. JP Morgan and other US banks are close to agreements to provide financing under the framework; loans would sit alongside Japan Bank for International Cooperation (JBIC) lending and could be guaranteed by Nippon Export & Investment Insurance (NEXI). The banks would help fund projects in Pennsylvania and Texas with combined value of about $33bln."
-    },
-    {
-      "id": "5009082",
-      "time": "2026-07-27 09:50:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【SK海力士連續兩年成大學生最嚮往企業】韓國就業入口網站Incruit於27日釋出的一份調查結果顯示，SK海力士登頂“2026大學生最想就職的企業榜”，連續兩年領跑。"
-    },
-    {
-      "id": "5009081",
-      "time": "2026-07-27 09:49:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "廣東省將防風二級應急響應調整為防汛四級應急響應。"
-    },
-    {
-      "id": "mkt:019fa142-a1e5-7aab-8e9f-c8e5229cf25e",
-      "time": "2026-07-27 09:48:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【South Korea's Lee orders oil-price cap kept until price uncertainty subsides】South Korea's Lee instructed senior officials to maintain the country's oil-price cap amid renewed Middle East tensions until oil-price uncertainty is fully removed. He ordered continued use of complementary measures, including fuel tax cuts, and said further steps should be considered if the situation deteriorates. Lee highlighted truck drivers, heavy-equipment operators, farmers and foreign workers as particularly exposed to high fuel costs and ordered probes into market irregularities such as hoarding or price manipulation, directing officials to take measures to stabilize consumer prices."
-    },
-    {
-      "id": "mkt:019fa142-0e1b-7aab-8e9f-c7f7fdcfaca7",
-      "time": "2026-07-27 09:48:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan is considering permitting foreign-bank financing for US gas-fired power projects included in its $550 billion investment commitment to the United States."
-    },
-    {
-      "id": "5009080",
-      "time": "2026-07-27 09:47:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【蘇泊爾：三、四季度原材料成本壓力預計將持續存在 正採取措施降低不利影響】蘇泊爾近日在電話會議中表示，鋁、不鏽鋼及塑膠等大宗原材料受地緣衝突影響上半年累計顯著上漲，三、四季度原材料成本壓力預計將持續存在，公司正透過外部套保與內部成本精益專案等措施來降低原材料價格上漲的不利影響。"
-    },
-    {
-      "id": "mkt:019fa141-dfee-7aab-8e9f-b8299c152077",
-      "time": "2026-07-27 09:47:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Guangdong shifts Wind Level II emergency to Flood‑Control Level IV】Guangdong provincial emergency command said at 09:00 on July 27 it adjusted the Wind Level II response to Flood‑Control Level IV. It said Typhoon Hongxia's wind impact has largely abated but flood-related risks and impacts persist."
-    },
-    {
-      "id": "5009079",
-      "time": "2026-07-27 09:47:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本擬借力外資銀行，為美天然氣電站專案融資】日本正考慮透過外資銀行，為其在美國的天然氣發電專案籌措資金，該專案是日本承諾向美國投資 5500 億美元計劃的組成部分。日本財務省週日晚間在 X 平臺發文表示：“若外資銀行融資落地，將進一步便利獲取落實該投資計劃所需的外幣資金。”"
-    },
-    {
-      "id": "5009078",
-      "time": "2026-07-27 09:47:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍7月重啟伊朗戰事以來逾200人受傷】據美國國防部26日更新的美軍傷亡統計，自7月美軍重啟伊朗戰事以來，已有4名美軍死亡、207人受傷。整個伊朗戰事中，美軍累計傷亡人數達642人，其中18人死亡。隸屬於美國國防部的“國防傷亡分析系統”最新資料顯示，截至7月25日，美軍對伊朗發起的“史詩怒火”軍事行動累計造成14名美軍人員死亡、417人受傷。這一資料庫近日新增“海外行動”跟蹤類別，單獨統計7月7日以來美軍傷亡情況。最新資料顯示，7日至26日，4名美軍人員死亡、207人受傷。不過，這一新增類別只列出死亡人員姓名，未提供時間、地點、傷亡原因等具體資訊。儘管死亡人員均已被確認死於新一輪美伊衝突，但美國防部尚未證實受傷人員是否均與美伊衝突相關。（新華社）"
-    },
-    {
-      "id": "5009077",
-      "time": "2026-07-27 09:45:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“紅霞”已減弱為熱帶低壓 其殘餘環流還將影響湖南江西湖北等地】今天，中央氣象臺釋出天氣提示，颱風“紅霞”已減弱為熱帶低壓，其殘餘環流還將影響湖南、江西、湖北等地。今年第12號颱風“紅霞”已於26日夜間減弱為熱帶低壓，今天（27日）凌晨移入湖南境內。預計，“紅霞”將以每小時10~15公里左右的速度向北偏西方向移動，強度繼續減弱。中央氣象臺今天早晨解除了颱風藍色預警，繼續釋出暴雨橙色預警、強對流天氣黃色預警。（央視新聞）"
-    },
-    {
-      "id": "5009076",
-      "time": "2026-07-27 09:45:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時放量489億元。"
-    },
-    {
-      "id": "te:markets:569911",
-      "time": "2026-07-27 09:45:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Extend Losses — The benchmark KOSPI fell more than 1% to around 6,620 on Monday, extending losses from the previous session as investors looked ahead to major US technology earnings and this week's Federal Reserve policy decision. Both are expected to offer fresh clues on the outlook for AI spending and interest rates. Profit-taking in AI-related stocks also weighed on sentiment, with Samsung Electronics (-0.7%), SK Hynix (-1.4%), SK Square (-4.9%), Hyundai Motor (-1.1%), Hanwha Aerospace (-7.7%), and Kia Corporation (-1.5%) among the notable decliners. Meanwhile, easing geopolitical tensions after the US paused strikes on Iran over the weekend pushed oil prices sharply lower and improved global risk sentiment. Markets also found support from a series of AI cooperation agreements between South Korean firms and global technology companies, including a long-term semiconductor supply deal involving SK Group and Nvidia, as well as Nvidia's investment in Naver."
-    },
-    {
-      "id": "mkt:019fa13e-c4f5-7aab-8e9f-b0df672a6de0",
-      "time": "2026-07-27 09:44:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share innovative drugs sector turned active again; Ha Sanlian, Hainan Haiyao and Yibai Pharma were among several stocks that hit daily trading limits. Joinn Laboratories, Wanbang Pharma and Tigermed climbed more than 6%."
-    },
-    {
-      "id": "5009075",
-      "time": "2026-07-27 09:44:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "薩爾瓦多反對黨提名前議員邁蒂·伊拉埃塔、醫生拉斐爾·阿吉雷為候選人，將在2027年大選中挑戰總統布克爾。"
-    },
-    {
-      "id": "mkt:019fa13e-55b4-7aab-8e9f-a82912afe6cf",
-      "time": "2026-07-27 09:44:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China A-share communications equipment sector surged; Tongding Interconnect locked at the daily limit, with Gongjin, Zhongji Xuchuang, Guangxun Technology, Seega Technology and Liante Technology also rising."
-    },
-    {
-      "id": "5009074",
-      "time": "2026-07-27 09:43:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【申萬宏源證券：關注非科技輪動的投資機會】申萬宏源證券認為，5-6月分化行情，以基本面分化為背景，但資金分化正迴圈才是直接驅動因素。7月調整，資金從正迴圈到負迴圈，基本面擔憂同樣有所發酵。6月30日的高點是算力通脹行情一個重要的中期高點。新一輪上漲行情需等待，AI重大產業催化凝聚新共識。在此之前，市場處於震盪休整期，非科技輪動是常態。同時，短期處於大型IPO前後，市場對資金供需有擔憂的時間視窗。依然提示，實際的資金分化影響可能好於預期，可能有擔憂緩和帶來的反彈。配置方面，市場震盪休整期，關注非科技輪動的投資機會。關注券商、工業金屬、醫藥生物，以及紅利因子超額收益修復的機會。行情的性質，依然偏向於風格分化正迴圈後，弱勢風格的超跌反彈。反轉策略好於動量策略。大波段行情延續，大機率還是科技領漲，但行情會自然更百花齊放：科技內部會更百花齊放，國內AI鏈機會同樣豐富。市場總體也會更百花齊放，科技領漲，有景氣改善線索的其他非科技方向也有絕對收益。"
-    },
-    {
-      "id": "mkt:019fa13d-d89b-7aab-8e9f-a149b5529731",
-      "time": "2026-07-27 09:43:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bearish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "China A-share semiconductor sector slid amid volatile trade; Huahong Hongli fell over 10%, GigaDevice briefly hit its down limit, and Montage Technology, Purun and Tuojing Technology as well as Allwinner Technology also retreated."
     }
   ]
 }

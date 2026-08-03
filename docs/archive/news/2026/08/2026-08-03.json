@@ -1,7 +1,168 @@
 {
   "date": "2026-08-03",
-  "count": 611,
+  "count": 627,
   "items": [
+    {
+      "id": "mkt:019fc550-a0ab-7aab-8f4c-94555b477c84",
+      "time": "2026-08-03 09:50:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【KOSPI volatility drains investors' brokerage cash pool】KOSPI volatility since July has sharply depleted investor cash held at brokerages, shrinking a key liquidity pool, the Korean Financial Investment Association (KOFIA) said. Average daily investor deposits fell by nearly 20 tln won month‑on‑month last month and are about 10 tln won lower than in March, when a US‑Iran military clash triggered a market correction. Deposits stood at 104.6584 tln won as of the 30th of last month (the day KOSPI hit a local low), down from a record 139.6948 tln won on June 4 — a drop of more than 35 tln won in roughly two months. Investor deposits are funds in securities accounts used to buy stocks; the decline reduces potential buying power and weakens market supply‑demand momentum."
+    },
+    {
+      "id": "mkt:019fc54e-25fe-7aab-8f4c-8ff6a3248b61",
+      "time": "2026-08-03 09:47:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "A-share AI application stocks rallied again. Jihong hit the daily limit. Chuanzhi Education recorded a sixth consecutive limit-up; Tianyu Shuke and Hengyin Technology posted second straight limit-ups. Foxit Software, Yidian Tianxia, Fengzhushou, Leo Group and BlueFocus also rose."
+    },
+    {
+      "id": "mkt:019fc54d-c7d9-7aab-8f4c-8449ddf1a478",
+      "time": "2026-08-03 09:47:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share electronic specialty gases sector weakened; CSSC Special Gas fell more than 10%, Zhengfan Technology dropped nearly 10%, with Yake Technology, Haohua Technology, Chengzhi, Guanggang Gas and Heyuan Gas also declining."
+    },
+    {
+      "id": "5021410",
+      "time": "2026-08-03 09:46:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI應用端再度走強 吉宏股份等多股漲停】早盤AI應用端再度走強，吉宏股份漲停，此前傳智教育6連板，天娛數科、恆銀科技2連板，福昕軟體、易點天下、蜂助手、利歐股份、藍色游標等跟漲。訊息面上，全球多模型聚合平臺OpenRouter釋出最新一週AI大模型呼叫量榜單，排名前五的產品全部由中國企業研發。登頂榜單首位的是小米MiMo-V2.5，單週呼叫量達到10.5萬億Token，環比增長12%。排名第二和第五的均來自DeepSeek。"
+    },
+    {
+      "id": "mkt:019fc54d-65ca-7aab-8f4c-7a5390155b22",
+      "time": "2026-08-03 09:46:51",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China STAR 50 Index losses widened to 4%."
+    },
+    {
+      "id": "mkt:019fc54c-49e8-7aab-8f4c-77373f5c34e7",
+      "time": "2026-08-03 09:45:38",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share humanoid-robot concept stocks rallied; Zhongda Lide hit the daily trading limit, while Fengguang Precision, Fulai New Materials and Orbbec also advanced as of press time."
+    },
+    {
+      "id": "5021409",
+      "time": "2026-08-03 09:45:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "mkt:019fc54b-e2f2-7aab-8f4c-6c2a5ea077de",
+      "time": "2026-08-03 09:45:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "Shenzhen Composite Index losses widened to 1%; ChiNext Index fell 1.59%; China's Shanghai Composite Index fell 0.6%."
+    },
+    {
+      "id": "mkt:019fc54b-e18c-7aab-8f4c-63a905afff7e",
+      "time": "2026-08-03 09:45:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China July RatingDog manufacturing PMI eased to 50.9 from 51.7 previously, remaining above the 50 expansion threshold."
+    },
+    {
+      "id": "5021408",
+      "time": "2026-08-03 09:45:09",
+      "tags": [
+        "資料",
+        "焦點"
+      ],
+      "text": "中國7月RatingDog製造業PMI 50.9，前值 51.7。"
+    },
+    {
+      "id": "mkt:019fc54b-b2a1-7aab-8f4c-59541f304bc6",
+      "time": "2026-08-03 09:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | S&P Global/Ratingdog China General Manufacturing PMI (Jul) | actual 50.9 | previous 51.7"
+    },
+    {
+      "id": "5021407",
+      "time": "2026-08-03 09:44:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量2073億元。"
+    },
+    {
+      "id": "5021406",
+      "time": "2026-08-03 09:44:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.00%，現報13442.995點；上證指數跌0.62%，現報3808.681點；創業板指跌1.56%，現報3291.930點。"
+    },
+    {
+      "id": "5021405",
+      "time": "2026-08-03 09:44:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "淡馬錫金融一號發行 10 年期新加坡元計價淡馬錫債券。"
+    },
+    {
+      "id": "5021404",
+      "time": "2026-08-03 09:44:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國汽車流通協會：7月汽車經銷商庫存預警指數為61.1%】8月3日，中國汽車流通協會發布的最新一期“汽車經銷商庫存預警指數調查”VIA顯示，2026年7月汽車經銷商庫存預警指數為61.1%，同比上升3.9個百分點，環比上升3.9個百分點，庫存預警指數位於榮枯線之上。經銷商預期，8月車市預計延續淡季弱勢執行。全國大部分地區高溫酷暑抑制線下客流，消費者觀望情緒不會明顯改善。但畢業季和開學季購車需求集中釋放，對市場需求有一定的拉動作用，銷量預計好於7月。"
+    },
+    {
+      "id": "5021403",
+      "time": "2026-08-03 09:43:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【可控核聚變板塊持續走高，融發核電漲停】可控核聚變板塊持續走高，中巖大地、合鍛智慧、江蘇神通、融發核電漲停，常輔股份漲超20%，天力複合漲超10%，瑞奇智造、中核科技、中國核建、久盛電氣、華菱線纜跟漲。"
+    },
     {
       "id": "5021402",
       "time": "2026-08-03 09:42:32",
