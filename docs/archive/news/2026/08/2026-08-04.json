@@ -1,7 +1,23 @@
 {
   "date": "2026-08-04",
-  "count": 87,
+  "count": 89,
   "items": [
+    {
+      "id": "mkt:019fc898-8b66-7aab-8f5c-c2d1b092c4e6",
+      "time": "2026-08-04 01:07:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters White House reporter: the DOE will host a mining-focused workforce event this Friday, with representatives from all 14 federally certified mining schools attending. The event aims to raise awareness of mining careers and underscore the need to recruit more students into the sector."
+    },
+    {
+      "id": "5023088",
+      "time": "2026-08-04 01:06:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：印度政府考慮將生產裝置及零部件進口免稅政策延長至2041年，蘋果在印度的iPhone生產將獲得進一步推動。"
+    },
     {
       "id": "mkt:019fc895-305b-7aab-8f5c-bc1671324f4d",
       "time": "2026-08-04 01:04:08",
