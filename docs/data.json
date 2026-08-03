@@ -1,7 +1,131 @@
 {
-  "updated": "2026-08-03 22:09:25",
-  "count": 17917,
+  "updated": "2026-08-03 22:13:43",
+  "count": 17922,
   "items": [
+    {
+      "id": "mkt:019fc7f8-2ad1-7aab-8f59-f4ad532bbb2a",
+      "time": "2026-08-03 22:12:37",
+      "tags": [
+        "MKT News",
+        "RWE.DE",
+        "Impact bullish"
+      ],
+      "text": "RWE expects the Crooked Creek solar project to begin commercial operations in 2028."
+    },
+    {
+      "id": "5022892",
+      "time": "2026-08-03 22:12:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股三大指數均漲超1%】道指漲1.30%，現報53165.180點；納指漲1.35%，現報25716.236點；標普500指數漲1.00%，現報7564.960點。"
+    },
+    {
+      "id": "mkt:019fc7f7-cb91-7aab-8f59-eb6c3b8bc326",
+      "time": "2026-08-03 22:12:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "RWE and Google (GOOG.O) signed a five-year power purchase agreement for all output from the 155 MW Crooked Creek solar project in McCurtain County, Oklahoma. RWE plans to begin on-site construction later this year."
+    },
+    {
+      "id": "5022891",
+      "time": "2026-08-03 22:12:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市延續漲勢，標普500指數<.SPX>上漲1.00%。"
+    },
+    {
+      "id": "5022890",
+      "time": "2026-08-03 22:11:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司完成收購 First Street。"
+    },
+    {
+      "id": "5022889",
+      "time": "2026-08-03 22:10:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國氣象局：英格蘭和威爾士經歷了有記錄（1836年）以來最乾旱的7月。"
+    },
+    {
+      "id": "mkt:019fc7f6-9230-7aab-8f59-e688bd9a9d46",
+      "time": "2026-08-03 22:10:52",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "India raised diesel export duty to 24 rupees per litre."
+    },
+    {
+      "id": "te:markets:572238",
+      "time": "2026-08-03 22:10:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "UniCredit Stock Price Hits Near 17-year High — UniCredit shares increased to 83.89 EUR, the highest since October 2009. Over the past 4 weeks, UniCredit gained 2.51%, and in the last 12 months, it increased 30.07%."
+    },
+    {
+      "id": "te:economy:572237",
+      "time": "2026-08-03 22:10:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Construction Spending",
+        "Importance 1"
+      ],
+      "text": "US Construction Spending Edges Down in June — Construction spending in the US edged down 0.1% month-over-month to a seasonally adjusted annual rate of $2,166.5 billion in June 2026, following a downwardly revised flat reading in May and missing market expectations of a 0.2% increase. Residential construction spending fell 0.3%, while nonresidential spending edged up 0.1%. Within the nonresidential sector, the largest declines were recorded in public safety (-1.8%), commercial (-1.2%), manufacturing (-1.2%) and sewage and waste disposal (-1.1%). These were partly offset by gains in conservation and development (3.6%) and office construction (2.7%). In the first half of 2026, total construction spending fell 3.5% from the same period a year earlier to $1.047 trillion."
+    },
+    {
+      "id": "5022888",
+      "time": "2026-08-03 22:10:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度上調汽油出口稅率至每升3.5盧比。"
+    },
+    {
+      "id": "5022887",
+      "time": "2026-08-03 22:10:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國6月資料中心建設環比增長7%，同比增長45.8%。"
+    },
+    {
+      "id": "5022886",
+      "time": "2026-08-03 22:09:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "HF辛克萊旗下潤滑油與特種產品部門透過與SK Enmove以及雪佛龍達成協議，搭建起戰略性基礎油供應網路。"
+    },
+    {
+      "id": "5022885",
+      "time": "2026-08-03 22:09:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝發言人表示：“儘管聯合國及其特使多次呼籲，國際社會也要求沙特解除對葉門港口與機場的封鎖，但沙特政權持續實施長達 12 年的封鎖，加劇葉門民眾的苦難。”"
+    },
     {
       "id": "mkt:019fc7f4-cfc9-7aab-8f59-dc981f69c547",
       "time": "2026-08-03 22:08:57",
@@ -166118,71 +166242,6 @@
         "國際"
       ],
       "text": "【多隻爆款基金明將停牌1小時】7月27日，多隻爆款基金髮布公告，明天將停牌1小時，具體如下： 中韓半導體ETF華泰柏瑞(513310)將於2026年7月28日開市起至當日10:30停牌。 全球晶片LOF(501225)將於2026年7月28日開市起停牌，自2026年7月28日10:30起復牌，停牌期間贖回業務照常辦理。 納指ETF廣發(159941)將於2026年7月28日開市起停牌，自2026年7月28日10:30起復牌，停牌期間贖回業務照常辦理。 納指科技ETF景順(159509)將於2026年7月28日開市起停牌，自2026年7月28日10:30起復牌，停牌期間贖回業務照常辦理。 納指ETF嘉實(159501)將於2026年7月28日開市起停牌，自10:30起復牌，停牌期間贖回業務照常辦理。（21世紀經濟報道）"
-    },
-    {
-      "id": "5010567",
-      "time": "2026-07-27 22:13:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "豆粕連續主力合約日內跌2%，現報3112.00元。"
-    },
-    {
-      "id": "mkt:019fa3eb-7b7a-7aab-8eb0-fb331166e456",
-      "time": "2026-07-27 22:12:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's foreign ministry reiterated full support for all measures taken by Saudi Arabia to safeguard its sovereignty and security."
-    },
-    {
-      "id": "5010565",
-      "time": "2026-07-27 22:11:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【沙特稱摧毀數架來自伊拉克方向的無人機】沙烏地阿拉伯國防部27日發表宣告說，沙特防空部隊當天攔截並摧毀了數架來自伊拉克方向、企圖襲擊沙特境內石油設施的無人機。沙特國防部發言人圖爾基·馬利基說，沙特防空部隊在過去數小時內攔截並摧毀數架無人機。這些無人機自伊拉克境內發射，試圖襲擊沙特東部地區和首都利雅得的石油設施。馬利基表示，沙特擁有維護國家安全、保衛自身及國家能力的合法權利，並保留在適當時間和地點作出回應的權利。沙特外交部同日發表宣告，對本國遭遇無人機襲擊表示“最強烈譴責”，並敦促伊拉克政府採取措施，防止其領土被用於發動針對沙特的襲擊。（新華社）"
-    },
-    {
-      "id": "5010564",
-      "time": "2026-07-27 22:11:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：我們強烈譴責從伊拉克領土發射無人機企圖襲擊沙特石油設施的企圖。"
-    },
-    {
-      "id": "5010563",
-      "time": "2026-07-27 22:10:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【SpaceX股價跌超4%】SpaceX股價跌超4%，創歷史新低。"
-    },
-    {
-      "id": "5010562",
-      "time": "2026-07-27 22:10:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "海南省氣象臺2026年07月27日22時10分發布海上雷雨大風黃色預警訊號：受對流雲團影響，北部灣南部海面27日22時10分到28日05時可能出現雷雨大風天氣，風力達7～9級並伴有強雷電，建議有關單位和人員做好防範工作。(海南氣象）"
-    },
-    {
-      "id": "5010561",
-      "time": "2026-07-27 22:09:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【L2級組合駕駛輔助功能乘用車滲透率達70.5%】工業和資訊化部裝備工業一司司長郭守剛27日介紹，今年以來，L2級組合駕駛輔助功能乘用車滲透率達到70.5%，領航駕駛輔助（NOA）功能乘用車滲透率達到34.2%，首批L3級有條件自動駕駛車型開始在特定區域上路通行。2026世界智慧網聯汽車大會媒體圓桌會當天在北京召開。郭守剛說，近年來，我國不斷完善智慧網聯汽車政策法規和標準體系，加快推進技術創新、產品准入、示範應用和產業生態建設，推動智慧網聯汽車產業發展取得積極成效，在全球範圍內形成一定優勢。據介紹，大算力智駕晶片、艙駕融合晶片加快迭代升級，高效能鐳射雷達、智慧線控底盤等核心零部件批次裝車，中央集中式電子電氣架構正加速從研發走向量產應用。全國各地累計發放測試示範牌照超過2萬張，開放測試示範道路超5.7萬公里，累計測試超過2.2億公里；20個“車路雲一體化”應用試點城市部署各類智慧化裝置超6萬套，服務各類車輛超過10萬臺。（新華社）"
-    },
-    {
-      "id": "mkt:019fa3e8-b89b-7aab-8eb0-f718ac31bdb4",
-      "time": "2026-07-27 22:09:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ministry of Emergency Management orders sectoral safety crackdown in mines, fire protection, hazardous chemicals, fireworks and industrial-commercial sectors】On July 27 the Ministry of Emergency Management held party and administrative meetings, instructing strengthened monitoring and warnings for the aftermath of Typhoon Hongxia and intensified measures to prevent casualties from localized extreme heavy rainfall. It ordered reinforced flood-control work during the key July–early August period, requiring local authorities to pre-position personnel, supplies and equipment in high-risk areas for rapid response and effective incident handling. The ministry said it will conduct central safety-production assessments in Q3, using both announced and unannounced inspections, and urged local governments and relevant departments to strictly fulfil responsibilities, carry out targeted rectifications in mines, fire safety, hazardous chemicals, fireworks and industrial-commercial sectors, and strengthen risk assessment and deployment to firmly stabilise the safety-production situation."
     }
   ]
 }
