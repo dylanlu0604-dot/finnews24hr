@@ -1,7 +1,20 @@
 {
   "date": "2026-08-04",
-  "count": 115,
+  "count": 116,
   "items": [
+    {
+      "id": "mkt:019fc8ad-5fd7-7aab-8f5d-21d1cecec45e",
+      "time": "2026-08-04 01:30:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Pause in US‑Iran hostilities eases Middle East supply; Venezuela July exports fall】A pause in US‑Iran hostilities has released Gulf crude back into markets, easing earlier disruptions, according to shipping reports, Kpler data and vessel tracking. Venezuela’s July crude loadings fell to 856,000 bpd, the lowest in five months and down 25% MoM; exports to India halved. Supply‑chain adjustments and alternative shipping routes have mitigated initial shocks as the Iran conflict enters its sixth month. Trump on Monday called off a planned strike on Iran to keep talks going; oil prices fell afterwards. The United States and India remain Venezuela’s largest buyers of crude."
+    },
     {
       "id": "mkt:019fc8ab-a798-7aab-8f5d-1eee2d4c3b6b",
       "time": "2026-08-04 01:28:40",
