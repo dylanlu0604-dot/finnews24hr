@@ -1,7 +1,135 @@
 {
-  "updated": "2026-08-03 19:36:38",
-  "count": 17874,
+  "updated": "2026-08-03 19:41:00",
+  "count": 17879,
   "items": [
+    {
+      "id": "5022569",
+      "time": "2026-08-03 19:39:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美光科技美股盤前跌超4%】美光科技美股盤前跌超4%，現報790.1美元。"
+    },
+    {
+      "id": "5022568",
+      "time": "2026-08-03 19:39:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST華揚：累計涉訴金額1160.91萬元 尚不確定對利潤影響】ST華揚公告稱，公司控股孫公司旗幟數字及其西安分公司涉定作合同糾紛，被一想天開（無錫）傳媒有限公司起訴，涉案本金690.52萬元，逾期違約金397.59萬元，共計1088.11萬元。截至公告發布日，公司近十二個月累計新增訴訟、仲裁3個，涉及金額1160.91萬元，佔最近一期經審計淨資產的20.67%。因部分案件未開庭、無有效判決，暫不能確定對公司利潤的影響。"
+    },
+    {
+      "id": "5022567",
+      "time": "2026-08-03 19:38:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿斯麥核心供應商蔡司：有信心滿足需求 啟動總部擴建與新建廠】蔡司半導體制造技術部門負責人Frank Rohmund在接受採訪時明確表示，公司有信心滿足激增的需求，並已啟動“真正的、長期的”產能擴建專案。這一佈局與阿斯麥的擴產計劃緊密同步。今年7月，阿斯麥宣佈計劃大幅提高其EUV光刻機的產能，以滿足2028年大量積壓的訂單。"
+    },
+    {
+      "id": "mkt:019fc76b-1878-7aab-8f56-9fe5125a5c63",
+      "time": "2026-08-03 19:38:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【Qwen3.8-Max goes live on China's national supercomputing internet】Alibaba launched its next-generation base model Qwen3.8-Max with 2.4 tln parameters, marking the second Chinese model above 20 tln parameters after KimiK3. On launch day China's national supercomputing internet began offering API access to the model; developers can connect via the service's official website."
+    },
+    {
+      "id": "5022566",
+      "time": "2026-08-03 19:38:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "穆迪確認星展集團及星展銀行評級，展望維持穩定。"
+    },
+    {
+      "id": "te:economy:572197",
+      "time": "2026-08-03 19:38:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Swiss 10-Year Bond Yield Holds Near 0.4% — Switzerland's 10-year government bond yield hovered near 0.4% since July 28th as uncertainty surrounding the Middle East conflict remained elevated, while inflation concerns eased. Swiss inflation eased to 0.4% in July from 0.5%, its lowest level in four months, highlighting the limited pass-through from higher energy prices linked to geopolitical tensions. The reading contrasted with the Swiss National Bank's expectation of a modest near-term pickup in inflation, following its decision to hold its policy rate at 0%. The SNB is expected to leave borrowing costs unchanged throughout the year, with further cuts remaining a contingency rather than the base case, citing no severe damage to Swiss banks. Meanwhile, investor sentiment improved sharply in July, returning to positive territory for the first time since the conflict began. While most economists see the first SNB rate hike in early 2028, currency markets continue to price in an increase as early as March 2027."
+    },
+    {
+      "id": "5022565",
+      "time": "2026-08-03 19:37:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鵬鼎控股：完成收購控股子公司晟新23.53%股權工商變更登記】鵬鼎控股公告稱，公司全資子公司慶鼎精密電子（淮安）有限公司擬以16087萬元收購關聯方嘉維公司所持晟新公司23.53%股權，完成後晟新公司將成全資子公司。日前，晟新公司已完成此次股權收購工商變更登記，取得2026年7月30日換髮的《營業執照》，但轉讓價款尚未支付。"
+    },
+    {
+      "id": "5022564",
+      "time": "2026-08-03 19:37:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Qwen3.8-Max上線國家超算網際網路】8月3日，阿里巴巴正式釋出新一代基座大模型Qwen3.8-Max，總引數量達到2.4萬億，成為繼KimiK3之後又一突破兩萬億引數的國產大模型。釋出當日，國家超算網際網路上線該模型API呼叫服務，開發者可透過官網直接接入。"
+    },
+    {
+      "id": "te:markets:572196",
+      "time": "2026-08-03 19:37:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rise on Monday — Futures tracking US equities were higher on Monday with support from respite for Treasury securities. The S&P 500 rose 0.6%, the Nasdaq 100 was slightly higher, and the Dow added over 400 points. The US refrained from striking Iran over the weekend and oil prices pulled back. The moves drove yields to decrease across the curve as markets readjusted inflationary risks, supporting credit-sensitive equity sectors. Bank holding companies were higher, with JPMorgan, Bank of America, and Goldman Sachs gaining 1% premarket. Meanwhile, Bristol-Myers Squibb surged nearly 10% amid reports that it could be acquired by AstraZeneca. In turn, chip producers extended their volatile momentum as markets consistently reconsider their speculative exposure and overleveraged investors liquidate positions at likely discounts. Micron and Sandisk dropped over 3%, setting the pace for memory chip producers. Meanwhile, SpaceX and AMD were 1% down ahead of their earnings tomorrow."
+    },
+    {
+      "id": "5022563",
+      "time": "2026-08-03 19:37:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華揚聯眾：擬向控股股東進行8億元永續債權融資】華揚聯眾公告稱，為償還債務及補充流動資金，公司擬向控股股東湖南湘江新區發展集團有限公司開展永續債權融資，融資金額8億元。湘江集團持有公司19.81%股份。本次融資年化利率4%，無固定到期日，初始單個存續週期為3年。該議案已透過公司董事會審議，現提請2026年8月10日的臨時股東會以特別決議方式審議。"
+    },
+    {
+      "id": "5022562",
+      "time": "2026-08-03 19:36:54",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美財政部長期拒絕調整美債發行指引，華爾街逐漸放棄期待】美國財長貝森特的債務管理團隊長期拒絕華爾街和美國財政部借款諮詢委員會（TBAC）提出的建議，即取消未來美國國債發行計劃中的前瞻性指引。由於這一立場持續時間過長，許多交易商已不再預計財政部會在短期內改變政策。在週三公佈季度債務策略宣告前，多數交易商預計，財政部將重申其此前承諾，即“至少未來幾個季度不會增加國庫券（note）和長期債券（bond）的發行規模”。"
+    },
+    {
+      "id": "5022561",
+      "time": "2026-08-03 19:36:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤前跌幅擴大】美光科技、閃迪、希捷科技跌超3%，西部資料跌超2%。"
+    },
+    {
+      "id": "5022560",
+      "time": "2026-08-03 19:36:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國信達：預計上半年淨利潤同比降20%至25%】中國信達(01359.HK)公告，預計該公司今年上半年淨利潤同比下降20%至25%，歸母淨利潤同比下降60%至70%。中國信達在公告中表示，淨利潤同比下滑主要受遞延所得稅費用變動及當期應納稅收入上升影響；歸母淨利潤同比下降的主要原因是今年上半年信達地產預計同比大幅減虧，歸屬於非控制性權益的虧損同比大幅下降。"
+    },
+    {
+      "id": "5022559",
+      "time": "2026-08-03 19:36:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "泰森食品下調年度利潤預期後，其股價盤前下跌約3%。"
+    },
     {
       "id": "mkt:019fc768-ac99-7aab-8f56-94ff4a972ebd",
       "time": "2026-08-03 19:35:53",
@@ -9,6 +137,15 @@
         "MKT News"
       ],
       "text": "【Treasury under BESSENT resists removing forward guidance on bond issuance; dealers pare expectations】BESSENT’s debt management team has repeatedly rejected Wall Street and the Treasury Borrowing Advisory Committee (TBAC) requests to drop forward guidance in the Treasury’s future bond issuance plan, and many dealers now no longer expect a near-term policy change. Ahead of Wednesday’s quarterly debt strategy statement, most market participants expect the Treasury to reaffirm it will “not increase note and bond sizes for at least the next few quarters.” The guidance dates to the Biden administration; BESSENT previously criticized it as aimed at lowering long-term borrowing costs before the 2024 election. With midterms approaching, Republican officials also prefer to avoid signals that could expand auctions and push yields higher. RBC Capital Markets US rates strategist Blake Gwinn said Treasury should preserve optionality: modifying the guidance could lift yields, but the later the change, the larger the potential market impact."
+    },
+    {
+      "id": "em:qqyh_mlc:202608033829941725",
+      "time": "2026-08-03 19:34:17",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【三菱日聯預計美聯儲或於2027年降息】8月3日，三菱日聯金融集團分析師德里克·哈爾佩尼表示，美聯儲的下一步政策行動可能是在2027年降息。"
     },
     {
       "id": "5022558",
@@ -165711,94 +165848,6 @@
         "Importance 1"
       ],
       "text": "El Salvador Trade Deficit Widens in June — El Salvador's trade deficit widened to $1,030.96 million on June 2026 from $856.96 million in the same month a year earlier. Imports rose 16.5% year-on-year to $1,628.1 million, driven by purchases from Central America (4.7%), mainly Costa Rica, and Panama (63.5%). Meanwhile, exports rose at a slower pace of 10.5% to $597.2 million, supported by shipments to the UK (38%), Ecuador (25.2%) and Mexico (24.2%). In the January–June 2026 period, the trade deficit widened to $5,919.1 million from $5,302.4 million in the corresponding period a year earlier."
-    },
-    {
-      "id": "5010277",
-      "time": "2026-07-27 19:40:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【徐工首座海外新能源工廠正式投產】7月27日，徐工印尼新能源製造基地落成儀式在印尼緯達貝工業園區（IWIP）舉行。隨著首批新能源裝置正式下線並交付戰略合作伙伴青山實業印尼緯達貝園區，徐工首座海外新能源工廠正式投產。"
-    },
-    {
-      "id": "5010276",
-      "time": "2026-07-27 19:40:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普關於斯里蘭卡的觀點：儘管經濟增長放緩、經常賬戶赤字重現，仍預計財政指標將改善。"
-    },
-    {
-      "id": "5010275",
-      "time": "2026-07-27 19:39:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基抵達英國。"
-    },
-    {
-      "id": "5010274",
-      "time": "2026-07-27 19:39:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普確認斯里蘭卡“CCC+/C”評級；展望穩定。"
-    },
-    {
-      "id": "te:economy:570089",
-      "time": "2026-07-27 19:38:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Pakistan",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Pakistan Central Bank Holds Policy Rate at 11.5% — The State Bank of Pakistan left its benchmark policy rate unchanged at 11.5% at its July 27th, 2026 meeting, marking a second consecutive pause as policymakers cited an improving macroeconomic outlook. Headline inflation eased to 11.1% in June from 11.7% in May, reflecting lower global energy prices and favorable electricity tariff adjustments. Economic growth slowed to 4.0% in the first quarter of 2026, weighed by the Middle East conflict and the resulting rise in global energy prices. Looking ahead, the central bank expects stronger commodity-producing sectors to support services activity, with FY2027 GDP growth projected at 3.5%-4.5%. Inflation is forecast to gradually ease toward the upper end of the 5%-7% target range by June 2027. However, the outlook remains subject to uncertainty regarding geopolitical tensions and weather conditions, including El Niño effects, and potential fiscal slippages."
-    },
-    {
-      "id": "5010273",
-      "time": "2026-07-27 19:38:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：通脹存在進一步上行風險。"
-    },
-    {
-      "id": "mkt:019fa35e-1638-7aab-8ead-b38f0e96da5d",
-      "time": "2026-07-27 19:37:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin says inflation risks are rising."
-    },
-    {
-      "id": "5010272",
-      "time": "2026-07-27 19:37:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百通能源：向特定物件發行股票獲中國證監會同意註冊批覆】百通能源公告，公司於近日收到中國證監會出具的《關於同意江西百通能源股份有限公司向特定物件發行股票註冊的批覆》，同意公司向特定物件發行股票的註冊申請，批覆自同意註冊之日起12個月內有效。"
-    },
-    {
-      "id": "mkt:019fa35d-b14f-7aab-8ead-afe3a76b7530",
-      "time": "2026-07-27 19:37:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "FTSE100"
-      ],
-      "text": "【Zelenskiy expects drone cooperation with UK, seeks UK-based UAV factory】Ukrainian President Zelenskiy said on the 27th he spoke by phone with new UK Prime Minister Burnham and expects to meet to discuss drone cooperation. He said Ukraine wants to build a large, new-technology UAV manufacturing plant in the UK and to share drone technology and combat experience with partners. Zelenskiy added Kyiv hopes to produce Britain’s Storm Shadow cruise missile or similar systems, and that the UK has sought Ukrainian drones; Kyiv is open to such exchanges."
-    },
-    {
-      "id": "5010271",
-      "time": "2026-07-27 19:36:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鋒龍股份：擬3000萬元-6000萬元回購股份用於員工激勵】鋒龍股份公告稱，公司第五屆董事會第三次會議審議透過回購股份方案，將用自有及自籌資金，透過深交所集中競價交易方式回購已發行社會公眾股，用於員工持股計劃或股權激勵。回購資金3000萬元-6000萬元，回購價不超97.02元/股，回購期限自董事會審議透過日起不超12個月。該事項已獲相關委員會透過。"
     }
   ]
 }
