@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-03 13:05:59",
-  "count": 17920,
+  "updated": "2026-08-03 13:10:05",
+  "count": 17925,
   "items": [
+    {
+      "id": "mkt:019fc606-da0e-7aab-8f4e-e1cce3eced71",
+      "time": "2026-08-03 13:09:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share PEEK materials concept staged a choppy rebound; Baihehua hit the daily trading limit, while Hengbo, Chongde Technology, Guoen, Xinhan New Materials, Zhongyan and Chaojie also gained."
+    },
+    {
+      "id": "te:economy:572041",
+      "time": "2026-08-03 13:09:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "India Manufacturing Expands Least in Nearly 5 Years — India's HSBC Manufacturing PMI eased to 53.5 in July 2026 from 54.2 in June, revised down from the preliminary estimate of 53.9, and marking the weakest growth since August 2021. Output and new orders continued to expand, although total sales grew at one of the slowest rates in over four years amid challenging market conditions and softer client demand. Export orders, however, accelerated, supported by stronger demand from Canada, Egypt, Indonesia, Kenya, Nepal, South Africa, Thailand and the UAE. Softer domestic demand also slowed growth in purchasing activity and employment, while input buying rose at the weakest pace in 31 months. Supply-chain conditions improved markedly, with delivery times shortening at a near-record pace. On prices, input cost inflation eased to a five-month low, while output price inflation remained moderate. Business confidence recovered on expectations of stronger demand and infrastructure spending."
+    },
+    {
+      "id": "5021675",
+      "time": "2026-08-03 13:08:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PEEK材料概念震盪反彈，百合花漲停】PEEK材料概念震盪反彈，百合花漲停，恆勃股份、崇德科技、國恩股份、新瀚新材、中研股份、超捷股份等跟漲。"
+    },
+    {
+      "id": "5021674",
+      "time": "2026-08-03 13:07:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月03日13時00分在四川宜賓市高縣（北緯28.55度，東經104.67度）發生4.2級地震，震源深度5千米。"
+    },
+    {
+      "id": "5021673",
+      "time": "2026-08-03 13:07:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【休閒食品概念震盪反彈，煌上煌漲停】休閒食品概念震盪反彈，煌上煌漲停，良品鋪子、桃李麵包、甘源食品、南僑食品、元祖股份等跟漲。"
+    },
+    {
+      "id": "5021672",
+      "time": "2026-08-03 13:07:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【文遠知行與丹麥共享電動車出行平臺GreenMobility達成戰略合作】8月3日，文遠知行WeRide與丹麥本土共享電動車出行平臺GreenMobility宣佈達成戰略合作，共同推出丹麥首個商業化自動駕駛共享出行專案。這標誌著文遠知行首次進入北歐市場。在獲得相關監管批准的前提下，雙方計劃於2027年上半年面向公眾推出商業化自動駕駛共享出行服務。屆時，當地乘客可體驗文遠知行最新一代、符合歐盟法規要求的L4級Robotaxi GXR。"
+    },
+    {
+      "id": "5021671",
+      "time": "2026-08-03 13:06:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貝塔聚變連續完成數億元種子輪、種子+輪融資】8月3日，貝塔聚變宣佈連續完成數億元種子輪、種子+輪融資。本次兩輪融資資金將全面保障前兩大核心研發節點落地，目標1年內建成首臺FRC實驗裝置，實現連續、穩定的生成FRC；3年內落地第一代原型機，6-8年內建成商用聚變演示堆。"
+    },
+    {
+      "id": "5021670",
+      "time": "2026-08-03 13:06:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "三菱商事：第一季度淨利潤超出預期，第二季度評估上調全年業績預期的可能性。"
+    },
     {
       "id": "5021669",
       "time": "2026-08-03 13:04:43",
@@ -166090,33 +166160,6 @@
         "MKT News"
       ],
       "text": "【Republican senator says Trump unlikely to end Iran war soon】The Hill — Republican Senator Bill Cassidy said on Sunday it 'seems unlikely' President Trump will quickly end the war in Iran and urged the president to seek a congressional path to peace. Cassidy called for a fuller national debate on how to proceed, said a rapid end would be welcome but appears unlikely despite assurances, and criticized Trump's handling of the conflict with attention to its impact on cost of living. In May, after failing to retain his Senate seat, Cassidy was one of four Republican senators who supported a War Powers Resolution calling for withdrawal of U.S. forces deployed to Iran."
-    },
-    {
-      "id": "mkt:019fa1fa-67d4-7aab-8ea3-5042577cf157",
-      "time": "2026-07-27 13:09:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Red Sea shipping slows after Houthi attack on Saudi tanker】Saudi shipping data show vessel transits through the Bab al-Mandeb Strait slowed over the weekend after Houthi militants attacked a Saudi tanker and threatened further strikes on vessels linked to Saudi ports. Carriers are reassessing voyage security. The Houthis have stepped up attacks on Red Sea commercial shipping, last week declaring a maritime blockade of the strait and warning firms not to load or unload at Saudi ports. Shipping data showed fewer than 10 bulk carriers transited the Strait of Hormuz over the weekend versus more than 100 merchant vessels per day before the war."
-    },
-    {
-      "id": "mkt:019fa1f8-d674-7aab-8ea3-4d8566cdfa38",
-      "time": "2026-07-27 13:07:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share fiberglass sector surged in the afternoon; International Composite Materials gained over 15%, Honghe Technology hit the daily limit, and China Jushi, Shandong Fiberglass and Sinoma Technology also advanced."
-    },
-    {
-      "id": "5009353",
-      "time": "2026-07-27 13:06:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【玻璃纖維概念午後拉昇 國際復材漲超15%】玻璃纖維概念午後拉昇，國際復材漲超15%，宏和科技觸及漲停，中國巨石、山東玻纖、中材科技等跟漲。"
     }
   ]
 }
