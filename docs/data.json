@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-04 07:49:38",
-  "count": 17911,
+  "updated": "2026-08-04 07:53:26",
+  "count": 17917,
   "items": [
+    {
+      "id": "5023329",
+      "time": "2026-08-04 07:52:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【波音737 MAX-7獲美國FAA適航認證】當地時間8月3日，美國聯邦航空管理局（FAA）正式批准波音737 MAX-7機型適航認證。FAA表示，此次認證體現了多年來為解決複雜技術問題、完成對該機型設計及配套安全分析的全面審查所付出的持續努力。FAA稱，安全檢查員將繼續駐守在波音公司位於全國各地的生產設施，密切監控制造過程，包括觀察和評估波音公司的安全管理體系 (SMS) 和安全文化。"
+    },
+    {
+      "id": "5023328",
+      "time": "2026-08-04 07:52:25",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國財長貝森特罕見公開呼籲美聯儲擴大一項流動性工具以助力捍衛日元】美國財政部長斯科特·貝森特呼籲美聯儲擴大日本可用於支撐日元的一項工具，這再次引發外界關注這兩個通常保持獨立運作的機構之間的關係。在美國財政部與日本聯手支撐日元之後，貝森特週日讚揚了美聯儲的外國和國際貨幣當局回購機制(FIMA)，該機制允許外國政府使用其持有的美國國債作為抵押品來獲取美元。在社交媒體的貼文中，貝森特將這項美聯儲工具形容為對日本相關行動起到重要支援作用，並表示“我們將鼓勵在未來幾個月內擴大這項措施的規模”。不過，密切關注美聯儲的人士表示，財政部長很少公開敦促央行對其任何工具進行修改，尤其是一項屬於聯邦公開市場委員會決策許可權範圍內的工具。“這非常不尋常，”前財政部高階官員Mark Sobel表示。“在我那個年代，財政部長們都不願公開談論與美聯儲貨幣操作相關的問題，如果真的有必要，他們會私下與美聯儲主席溝通，在幕後處理此事。”"
+    },
+    {
+      "id": "te:markets:572297",
+      "time": "2026-08-04 07:52:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Higher After Strong Session — US stock futures ticked higher on Tuesday after the major indexes kicked off the week with solid gains, supported by falling oil prices and a strong rally in heavyweight technology stocks. During Monday's regular session, the tech-heavy Nasdaq Composite surged 2.13%, while the S&P 500 and Dow advanced 1.48% and 1.32%, respectively. Megacap technology stocks drove the gains, with Amazon soaring 4.6% to surpass a $3 trillion market capitalization for the first time. Other standout performers included Microsoft (4.9%), Nvidia (2.9%), Meta Platforms (6%), Alphabet (4.9%) and Tesla (3.5%). Investor sentiment was also lifted by a roughly 5% drop in oil prices after President Donald Trump canceled planned strikes on Iran to revive negotiations, easing concerns over inflation and the outlook for interest rates. Attention now turns to another round of corporate earnings due Tuesday, including results from SpaceX, AMD, Caterpillar, Merck and McDonald’s, among others."
+    },
+    {
+      "id": "mkt:019fca09-c3cd-7aab-8f60-3094d8212fcd",
+      "time": "2026-08-04 07:51:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Japan monetary base YoY -13.8% in July; previous -13.7%."
+    },
+    {
+      "id": "mkt:019fca09-9cc7-7aab-8f60-2ca39955736d",
+      "time": "2026-08-04 07:50:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Base money growth rate (YoY) (Jul) | actual -13.8% | previous -13.70%"
+    },
+    {
+      "id": "5023327",
+      "time": "2026-08-04 07:50:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本7月基礎貨幣同比 -13.8%，前值 -13.7%。"
+    },
+    {
+      "id": "5023326",
+      "time": "2026-08-04 07:49:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黑龍江省呼蘭河發生2026年第1號洪水】受降雨影響，8月4日2時30分，黑龍江省松花江支流呼蘭河秦家水文站（黑龍江省綏化市）水位漲至149.56米，達到警戒水位，依據主要江河洪水編號規定，此次洪水編號為“呼蘭河2026年第1號洪水”。水利部緊盯呼蘭河汛情發展態勢，加強雨水情監測預報預警，提前啟動針對黑龍江省的洪水防禦Ⅳ級應急響應，督促指導地方強化水工程排程，落實落細洪水防禦各項措施，全力維護人民群眾生命財產安全。 目前，水利部工作組正在黑龍江省洪水防禦一線協助指導。"
+    },
     {
       "id": "mkt:019fca07-fa59-7aab-8f60-26d2f1844a37",
       "time": "2026-08-04 07:49:08",
@@ -165985,16 +166058,6 @@
         "國際"
       ],
       "text": "【光大證券：供需中期錯配仍是油運板塊向上最大動力】光大證券釋出研報稱，短期看，中東局勢不確定性較大，各方利益仍在激烈博弈。事件性因素驅動股價波動。但中期來看，低運力增速以及地緣不穩帶來的搶運、繞行以及未來替代通道都是驅動運價穩定乃至進一步走高的因素。二季度已披露中報預告的快遞公司利潤均實現同比大幅增長，驗證“反內卷”催化價格修復紅利正加速兌現至利潤端，隨著產糧區鎖盤延長至8月，今年“反內卷”持續性和力度有望超預期，預計未來將驅動各家快遞價格環比進一步上漲。整體來看，在油價成本抬升、常態化監管和自下而上挺價共振下，單價向好趨勢明顯，看好通達系份額利潤雙增。"
-    },
-    {
-      "id": "5010981",
-      "time": "2026-07-28 07:51:59",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【SK海力士盤前大跌 亞洲股市開盤或承壓】SK海力士盤前股價跌約8%，這預示美股晶片企業隔夜遭遇的拋售行情，將傳導至亞洲頭部科技硬體廠商，帶動其股價進一步走低。今年上半年多數時段，海力士與三星領跑亞洲市場，股價暴漲幅度驚人，市場此前便判斷這波漲勢難以長期維繫。SK海力士股價正逐漸回落，此前該股自5月份以來一度飆升132%。盤前交易曾出現疑似烏龍指行情，股價一度暴跌約30%；即便拋開這一短時異常波動，這隻韓國股市波動劇烈的熱門標的，大機率會給首爾及其他地區相關個股帶來更大下行壓力。截至發稿時，三星電子股價盤前預計下跌約6%。"
     }
   ]
 }
