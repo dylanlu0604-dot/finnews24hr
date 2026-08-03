@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-03 22:51:50",
+  "updated": "2026-08-03 22:55:53",
   "count": 17907,
   "items": [
+    {
+      "id": "te:markets:572244",
+      "time": "2026-08-03 22:54:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Lithium Falls to 6-Month Low — Lithium carbonate prices fell to CNY 140,000 in August, their lowest in nearly six months, as downside consumption risks combined with higher global supply. China said it would end tax exemptions for lithium-ion batteries to rein in a race to the bottom between manufacturers. Industry reports in China indicated that competition between EV battery producers to retain market share drove companies to increase their production schedules, leading to higher lithium sourcing before the announcement. In turn, CATL's Jianxiawo mine, among the largest in the world, cleared security permits to restore activity following its prolonged suspension. On top of that, higher lithium prices since the start of the year drove Australian miners to restore operations. Mineral Resources will restart its Bald Hill lithium mine following an 18-month suspension, while Core Lithium restarted its Finniss project, making up for shortages elsewhere."
+    },
+    {
+      "id": "5022955",
+      "time": "2026-08-03 22:54:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【百億級私募倉位創年內新高】私募排排網最新資料顯示，截至7月24日，股票私募倉位指數升至84.12%，連續4周倉位上漲。其中，百億級私募成為近期的加倉主力。截至7月24日，百億級私募倉位創下今年以來新高。"
+    },
+    {
+      "id": "5022954",
+      "time": "2026-08-03 22:54:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心稱已獲悉兩例與環孢子蟲病相關死亡病例。"
+    },
+    {
+      "id": "5022953",
+      "time": "2026-08-03 22:53:42",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯央行：將8月4日盧布兌美元官方匯率設定為1美元兌80.0687盧布（此前匯率為1美元兌79.4637盧布）。"
+    },
+    {
+      "id": "5022952",
+      "time": "2026-08-03 22:53:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "密歇根州衛生部：截至8月3日，共報告11234例環孢子蟲病病例。"
+    },
+    {
+      "id": "5022951",
+      "time": "2026-08-03 22:53:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部今日早些時候釋出照片：一名陸軍傘兵（大機率隸屬於駐地義大利維琴察的第 173 空降機動旅戰鬥隊），正在中東一處未公開地點參與實彈演習。"
+    },
+    {
+      "id": "5022950",
+      "time": "2026-08-03 22:53:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "睿和資料科技：收到挖礦獎勵32.73枚比特幣，價值271萬美元。"
+    },
+    {
+      "id": "5022949",
+      "time": "2026-08-03 22:51:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理辦公室訊息人士：我們不會從加沙的“黃線”撤出，並將繼續挫敗任何針對我國公民或士兵的威脅。"
+    },
+    {
+      "id": "5022948",
+      "time": "2026-08-03 22:51:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廈門象嶼：間接控股子公司租賃倉庫起火 無人員傷亡】廈門象嶼公告稱，2026年8月2日17時許，其間接控股子公司青島象嶼速傳供應鏈有限公司位於山東青島的租賃倉庫起火。事故無人員被困和傷亡，起火原因正在調查。事故損失正在核查評估，起火倉庫貨物已全額投保，保險核損理賠工作有序開展。公司已成立專項工作組，配合調查和善後，敦促加強安全管理，統籌減少事故對客戶的影響。公司將及時披露進展，提醒投資者注意風險。"
+    },
     {
       "id": "5022947",
       "time": "2026-08-03 22:50:48",
@@ -165963,95 +166040,6 @@
         "Europe & UK"
       ],
       "text": "【Volkswagen denies urging EU tariffs on Chinese hybrid imports】Volkswagen said on its 1H 2026 results call that management board chairman and CEO Oliver Blume did not explicitly call for EU tariffs on hybrids imported from China. Blume advocated a comprehensive review of options to preserve fair competition between Europe and other regions, including supporting Chinese automakers’ local production in Europe, and said any EU tariff, if imposed, should not exceed the current rate applied to battery-electric vehicles."
-    },
-    {
-      "id": "5010624",
-      "time": "2026-07-27 22:55:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超2%，寶尊電商漲12.70%，新氧漲12.69%，億咖通科技漲8.01%，盛豐物流漲5.84%，騰訊音樂漲5.42%。"
-    },
-    {
-      "id": "mkt:019fa412-7b03-7aab-8eb2-1086e3ba91a1",
-      "time": "2026-07-27 22:55:02",
-      "tags": [
-        "MKT News",
-        "ASML.AS",
-        "Impact bearish",
-        "BESI.AS"
-      ],
-      "text": "Amsterdam-listed ASML and BESI resumed trading; shares fell about 7.4%–8%."
-    },
-    {
-      "id": "5010623",
-      "time": "2026-07-27 22:54:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【大眾汽車否認呼籲歐盟對中國混動汽車加徵關稅】今日，大眾汽車集團釋出宣告稱，2026年上半年財報電話會議上，大眾汽車集團管理董事會主席奧博穆就自由公平的貿易環境這一話題表態。對於當下，歐洲正在討論的擬對從中國進口至歐洲的混動車輛加徵關稅的議題，大眾集團CEO奧博穆並未明確呼籲加徵關稅，而是倡導全面考量各類潛在方案，保障歐洲與全球其他地區之間形成公平的競爭環境。這其中，包括支援中國整車企業在歐洲實現本土化生產。他同時強調，若歐盟未來最終決定加徵相關關稅，為維護與中國的健康貿易關係，該關稅稅率不應超過當前對純電車型已實施的關稅水平。此前，外媒報道稱奧博穆希望歐盟針對中國產插混車型新增關稅機制，參照現行中國產純電動汽車的徵稅方案，即在基礎10%進口關稅之上，最高再加徵35%額外關稅。（第一財經）"
-    },
-    {
-      "id": "5010622",
-      "time": "2026-07-27 22:54:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "荷蘭上市的阿斯麥（ASML）、貝思（BESI）復牌後股價下跌7.4%-8%。"
-    },
-    {
-      "id": "te:markets:570141",
-      "time": "2026-07-27 22:54:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Waver — US stock indices wavered on Monday amid a fresh selloff for chip producers ahead of a Fed decision and major economic updates this week. The S&P 500 swung to 0.3% lower while the Nasdaq 100 dropped 1%. Nvidia dropped 4.5% after announcing a $500 billion AI memory chip supply deal from SK Hynix. Separately, Nvidia guaranteed $250 billion for OpenAI to lease computing from a data center project, reigniting concerns that circular deals in AI computing could trigger contagion and unwind the AI trade should capex growth be halted. Micron, AMD, Indel, and Sandisk dropped between 6% and 10%. Still, the Dow added 0.5% on softer concerns of tight financial conditions. The US and Iran paused strikes over the weekend and fuel prices retreated from peaks. The consequent drop in yields reflected almost null expectations the Federal Reserve may deliver a rate hike this week, pushing back eventual tightening to September. Apple, Meta, Amazon, and Microsoft were higher ahead of earnings this week."
-    },
-    {
-      "id": "5010621",
-      "time": "2026-07-27 22:53:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：巴布亞紐幾內亞金貝以東 147 公里處發生 5.1 級地震。"
-    },
-    {
-      "id": "mkt:019fa411-5a23-7aab-8eb2-0c14f69c8c9a",
-      "time": "2026-07-27 22:53:48",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Russian President Putin signed a decree to increase the authorized strength of the Russian armed forces by 25,000 personnel."
-    },
-    {
-      "id": "5010620",
-      "time": "2026-07-27 22:52:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【航運資料顯示霍爾木茲海峽通航船隻幾乎全部選擇伊朗指定航線】海事資料集團Marisks的追蹤資料顯示，過去三天內，幾乎所有透過霍爾木茲海峽的船隻均選擇了伊朗指定的航線，未有任何船隻使用美國方面倡導的、靠近阿曼海岸的南部替代航線。這一資料表明，儘管美伊雙方近期圍繞海峽通行規則展開激烈博弈，且美國多次敦促國際商船使用阿曼一側航道，但實際通航情況顯示，伊朗對海峽航線的管控已產生實質性影響。"
-    },
-    {
-      "id": "mkt:019fa40f-cd8a-7aab-8eb2-04790c2bf6fd",
-      "time": "2026-07-27 22:52:06",
-      "tags": [
-        "MKT News",
-        "IFX.DE",
-        "Impact bearish",
-        "WAF.DE"
-      ],
-      "text": "German semiconductor stocks slipped; Infineon shares down about 3%, Siltronic AG down about 4%."
     }
   ]
 }

@@ -1,7 +1,84 @@
 {
   "date": "2026-08-03",
-  "count": 2561,
+  "count": 2570,
   "items": [
+    {
+      "id": "te:markets:572244",
+      "time": "2026-08-03 22:54:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Lithium Falls to 6-Month Low — Lithium carbonate prices fell to CNY 140,000 in August, their lowest in nearly six months, as downside consumption risks combined with higher global supply. China said it would end tax exemptions for lithium-ion batteries to rein in a race to the bottom between manufacturers. Industry reports in China indicated that competition between EV battery producers to retain market share drove companies to increase their production schedules, leading to higher lithium sourcing before the announcement. In turn, CATL's Jianxiawo mine, among the largest in the world, cleared security permits to restore activity following its prolonged suspension. On top of that, higher lithium prices since the start of the year drove Australian miners to restore operations. Mineral Resources will restart its Bald Hill lithium mine following an 18-month suspension, while Core Lithium restarted its Finniss project, making up for shortages elsewhere."
+    },
+    {
+      "id": "5022955",
+      "time": "2026-08-03 22:54:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【百億級私募倉位創年內新高】私募排排網最新資料顯示，截至7月24日，股票私募倉位指數升至84.12%，連續4周倉位上漲。其中，百億級私募成為近期的加倉主力。截至7月24日，百億級私募倉位創下今年以來新高。"
+    },
+    {
+      "id": "5022954",
+      "time": "2026-08-03 22:54:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心稱已獲悉兩例與環孢子蟲病相關死亡病例。"
+    },
+    {
+      "id": "5022953",
+      "time": "2026-08-03 22:53:42",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯央行：將8月4日盧布兌美元官方匯率設定為1美元兌80.0687盧布（此前匯率為1美元兌79.4637盧布）。"
+    },
+    {
+      "id": "5022952",
+      "time": "2026-08-03 22:53:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "密歇根州衛生部：截至8月3日，共報告11234例環孢子蟲病病例。"
+    },
+    {
+      "id": "5022951",
+      "time": "2026-08-03 22:53:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部今日早些時候釋出照片：一名陸軍傘兵（大機率隸屬於駐地義大利維琴察的第 173 空降機動旅戰鬥隊），正在中東一處未公開地點參與實彈演習。"
+    },
+    {
+      "id": "5022950",
+      "time": "2026-08-03 22:53:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "睿和資料科技：收到挖礦獎勵32.73枚比特幣，價值271萬美元。"
+    },
+    {
+      "id": "5022949",
+      "time": "2026-08-03 22:51:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理辦公室訊息人士：我們不會從加沙的“黃線”撤出，並將繼續挫敗任何針對我國公民或士兵的威脅。"
+    },
+    {
+      "id": "5022948",
+      "time": "2026-08-03 22:51:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廈門象嶼：間接控股子公司租賃倉庫起火 無人員傷亡】廈門象嶼公告稱，2026年8月2日17時許，其間接控股子公司青島象嶼速傳供應鏈有限公司位於山東青島的租賃倉庫起火。事故無人員被困和傷亡，起火原因正在調查。事故損失正在核查評估，起火倉庫貨物已全額投保，保險核損理賠工作有序開展。公司已成立專項工作組，配合調查和善後，敦促加強安全管理，統籌減少事故對客戶的影響。公司將及時披露進展，提醒投資者注意風險。"
+    },
     {
       "id": "5022947",
       "time": "2026-08-03 22:50:48",
