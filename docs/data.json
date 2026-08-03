@@ -1,7 +1,122 @@
 {
-  "updated": "2026-08-04 02:17:17",
-  "count": 17958,
+  "updated": "2026-08-04 02:21:13",
+  "count": 17967,
   "items": [
+    {
+      "id": "mkt:019fc8db-5479-7aab-8f5d-d896b3f8da8e",
+      "time": "2026-08-04 02:20:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Chevron (CVX.N) and Exxon Mobil (XOM.N) shares plunged, down 2.2% and 0.8% respectively, after Trump said the companies were \"making too much money\"."
+    },
+    {
+      "id": "mkt:019fc8db-44b6-7aab-8f5d-d2fff6f49510",
+      "time": "2026-08-04 02:20:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says US-Iran talks 'underway', calls it Tehran's 'last chance' to reach deal】President Trump said on Monday that talks with Iran \"are underway\" and called the discussions Tehran's \"last chance\" to sign a \"good deal.\" Earlier Iran denied any ongoing negotiations; Trump accused Iran's leadership of being \"incredibly two-faced.\" Asked about progress, he reiterated \"talks are taking place now,\" and said the dialogue was happening at the request of Iran, Saudi Arabia, the UAE and Qatar."
+    },
+    {
+      "id": "mkt:019fc8db-4474-7aab-8f5d-ca489a3d7e89",
+      "time": "2026-08-04 02:20:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he expects the United States to establish a very good relationship with the UK prime minister."
+    },
+    {
+      "id": "5023153",
+      "time": "2026-08-04 02:20:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙警方：約7.35萬名移民已從休達返回摩洛哥】當地時間8月3日，西班牙警方表示，約7.35萬名移民已從北非自治市休達返回摩洛哥。目前，休達社會秩序正逐步恢復，當地商鋪已陸續恢復營業。警方同時表示，此次移民危機中已有88名試圖游泳進入休達的非法移民死亡。"
+    },
+    {
+      "id": "mkt:019fc8db-243f-7aab-8f5d-c2a139504cf0",
+      "time": "2026-08-04 02:20:32",
+      "tags": [
+        "MKT News",
+        "CVX.O",
+        "Impact bearish",
+        "XOM.O"
+      ],
+      "text": "US President Trump said oil companies are earning too much and he doesn't like it, naming Chevron and ExxonMobil."
+    },
+    {
+      "id": "te:markets:572268",
+      "time": "2026-08-04 02:20:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Iron Ore Drops by 4.43% — Top commodity losers are Iron Ore (-4.43%), Iron Ore CNY (-2.51%), Lithium Carbonate (-2.10%) and Gold (-0.11%). Gains are led by Silicon (2.52%) and Copper (1.17%)."
+    },
+    {
+      "id": "5023152",
+      "time": "2026-08-04 02:19:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們原計劃於昨日對伊朗發動打擊，且那將是有史以來最猛烈的一次。"
+    },
+    {
+      "id": "5023151",
+      "time": "2026-08-04 02:19:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：等我們搞定伊朗後，油價將大幅下跌。"
+    },
+    {
+      "id": "5023150",
+      "time": "2026-08-04 02:18:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普發表講話，埃克森美孚和雪佛龍股價跌幅擴大。"
+    },
+    {
+      "id": "5023149",
+      "time": "2026-08-04 02:17:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：石油公司最好降低零售價格。"
+    },
+    {
+      "id": "5023148",
+      "time": "2026-08-04 02:16:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：石油企業賺得盆滿缽滿，我不樂見此事。"
+    },
+    {
+      "id": "5023147",
+      "time": "2026-08-04 02:16:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：雪佛龍、埃克森美孚賺得太多了。"
+    },
+    {
+      "id": "5023146",
+      "time": "2026-08-04 02:16:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗專家會議表示，伊朗決心持續對抗美國，直至華盛頓停止霸凌行徑，並接受伊朗民族的合理訴求。"
+    },
     {
       "id": "5023145",
       "time": "2026-08-04 02:15:55",
@@ -166358,48 +166473,6 @@
         "MKT News"
       ],
       "text": "Alarms sounded in Kyiv, Ukraine."
-    },
-    {
-      "id": "mkt:019fa4cf-20c4-7aab-8eb5-befdcdae0a0d",
-      "time": "2026-07-28 02:21:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude oil futures fell to $82.00/bbl, down 9.37% intraday."
-    },
-    {
-      "id": "mkt:019fa4ce-62ad-7aab-8eb5-b4e5d9766b56",
-      "time": "2026-07-28 02:20:16",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Traders drove strong demand over the first weekend after CME Group launched 24/7 gold futures."
-    },
-    {
-      "id": "te:markets:570169",
-      "time": "2026-07-28 02:19:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Gains by 1.71% — Top commodity gainers are Platinum (1.71%), Lithium Carbonate (0.69%), Copper (0.65%) and Gold (0.58%). Biggest loser is Iron Ore CNY (-0.67%)."
-    },
-    {
-      "id": "5010759",
-      "time": "2026-07-28 02:19:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守82美元/桶，日內跌8.20%。"
     }
   ]
 }
