@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-04 01:13:05",
-  "count": 17932,
+  "updated": "2026-08-04 01:17:30",
+  "count": 17930,
   "items": [
+    {
+      "id": "5023095",
+      "time": "2026-08-04 01:16:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週一（8月3日），美聯儲隔夜逆回購協議（RRP）使用規模為21.27億美元（交易對手4家），上個交易日報21.51億美元。"
+    },
+    {
+      "id": "5023093",
+      "time": "2026-08-04 01:15:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "西捷航空空乘公會主席表示，協議必須在30天內獲得批准。"
+    },
+    {
+      "id": "5023092",
+      "time": "2026-08-04 01:13:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "西捷航空空乘人員工會主席表示，談判委員會不會在沒有高度信心確保成員批准的情況下，將這份提議提交給成員表決。"
+    },
+    {
+      "id": "mkt:019fc89c-d470-7aab-8f5c-d1e4ec06919b",
+      "time": "2026-08-04 01:12:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's prime minister said today the government approved an initial emergency support decision for farmers, temporarily adjusting minimum export prices for certain agricultural products to prevent disruptions to grain and oilseed exports during a stabilization period. He ordered an urgent plan to expand domestic agricultural processing to increase in‑country production and processing and said additional measures to stabilize the agricultural sector are being prepared."
+    },
     {
       "id": "5023091",
       "time": "2026-08-04 01:11:47",
@@ -166129,61 +166162,6 @@
         "Brent"
       ],
       "text": "U.S. Strategic Petroleum Reserve crude stocks fell about 3.7 mln barrels last week to 307.7 mln barrels, the lowest level since 1983."
-    },
-    {
-      "id": "em:qqyh_mlc:202607283822497767",
-      "time": "2026-07-28 01:17:22",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "週一（7月27日），美聯儲隔夜逆回購協議（RRP）使用規模為13.80億美元。"
-    },
-    {
-      "id": "5010733",
-      "time": "2026-07-28 01:17:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週一（7月27日），美聯儲隔夜逆回購協議（RRP）使用規模為13.80億美元（交易對手3家），上個交易日報6.75億美元。"
-    },
-    {
-      "id": "5010732",
-      "time": "2026-07-28 01:16:12",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國戰略石油儲備原油庫存上週減少約 370 萬桶，降至 3.077 億桶，創 1983 年以來新低。"
-    },
-    {
-      "id": "5010731",
-      "time": "2026-07-28 01:14:56",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【大摩：美聯儲決議前夕，投資者增持美元多頭頭寸】摩根士丹利策略師援引資料稱，在本週美聯儲與英國央行議息會議前夕，投資者已增持美元多頭及英鎊空頭頭寸。策略師Molly Nickolin、David Adams、Andrew Watrous在報告中寫道：“期權定價資料顯示，投資者增加了美元指數的多頭頭寸，並增加了英鎊的空頭頭寸。”他們表示：“期權資料指向美元多頭倉位，而期貨市場資料也表明美元倉位偏多。資產管理機構主要做多歐元、做空英鎊，而槓桿基金則主要做多英鎊、做空紐西蘭元。”"
-    },
-    {
-      "id": "5010730",
-      "time": "2026-07-28 01:14:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國農業部批准進口墨西哥牛隻，芝商所遠期飼牛期貨觸及單日跌停。"
-    },
-    {
-      "id": "mkt:019fa491-a754-7aab-8eb4-dd3604cf3dee",
-      "time": "2026-07-28 01:13:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SOUTH KOREA'S LEE says a potential trade agreement with Mercosur cannot wait and is urgent."
     }
   ]
 }

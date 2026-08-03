@@ -1,7 +1,40 @@
 {
   "date": "2026-08-04",
-  "count": 93,
+  "count": 97,
   "items": [
+    {
+      "id": "5023095",
+      "time": "2026-08-04 01:16:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週一（8月3日），美聯儲隔夜逆回購協議（RRP）使用規模為21.27億美元（交易對手4家），上個交易日報21.51億美元。"
+    },
+    {
+      "id": "5023093",
+      "time": "2026-08-04 01:15:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "西捷航空空乘公會主席表示，協議必須在30天內獲得批准。"
+    },
+    {
+      "id": "5023092",
+      "time": "2026-08-04 01:13:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "西捷航空空乘人員工會主席表示，談判委員會不會在沒有高度信心確保成員批准的情況下，將這份提議提交給成員表決。"
+    },
+    {
+      "id": "mkt:019fc89c-d470-7aab-8f5c-d1e4ec06919b",
+      "time": "2026-08-04 01:12:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's prime minister said today the government approved an initial emergency support decision for farmers, temporarily adjusting minimum export prices for certain agricultural products to prevent disruptions to grain and oilseed exports during a stabilization period. He ordered an urgent plan to expand domestic agricultural processing to increase in‑country production and processing and said additional measures to stabilize the agricultural sector are being prepared."
+    },
     {
       "id": "5023091",
       "time": "2026-08-04 01:11:47",
