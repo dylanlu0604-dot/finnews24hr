@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-04 03:26:02",
-  "count": 17988,
+  "updated": "2026-08-04 03:30:00",
+  "count": 17990,
   "items": [
+    {
+      "id": "mkt:019fc919-d44a-7aab-8f5e-f047a941a6dd",
+      "time": "2026-08-04 03:29:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【25 U.S. states sue administration over new tariffs】Court filings show 25 U.S. states, led by Democrats, sued the U.S. government to block the administration’s latest tariffs on goods from 60 trading partners. The states allege the president exceeded statutory authority, that the tariffs are an unlawful, overly broad substitute for measures the U.S. Supreme Court struck down, and that the move circumvents required country-specific investigation procedures."
+    },
+    {
+      "id": "5023199",
+      "time": "2026-08-04 03:28:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【全美25州提起訴訟 反對美政府最新關稅措施】當地時間8月3日獲悉，法庭檔案顯示，美國有25個州提起訴訟，反對美政府最新關稅措施。美國紐約州總檢察長宣佈，由民主黨人領導的25個美國州於當日提起訴訟，起訴美國政府。這些州主張，總統針對來自60個貿易伙伴的商品徵收最新一輪關稅的舉措，超出了其對進口商品徵稅的法定許可權。總檢察長稱，最新關稅只是為了替代那些已被美國最高法院否決的關稅措施。新關稅範圍寬泛得不合法，且繞過了法律規定的針對特定國家的調查程式。（央視新聞）"
+    },
+    {
+      "id": "5023198",
+      "time": "2026-08-04 03:28:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破64000美元，日內漲0.68%。"
+    },
+    {
+      "id": "mkt:019fc916-b36d-7aab-8f5e-e80efbbf46eb",
+      "time": "2026-08-04 03:25:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Democratic Senator Mark Warner said President Trump has repeatedly flip-flopped on Iran, threatening airstrikes then cancelling them while saying a \"deal imminent,\" and that talks have since collapsed. Warner said the war Trump initiated has now entered its fifth month with no sign of ending."
+    },
     {
       "id": "mkt:019fc915-f940-7aab-8f5e-e0b0094263b5",
       "time": "2026-08-04 03:24:48",
@@ -166671,22 +166708,6 @@
         "國際"
       ],
       "text": "美國聯邦航空管理局（FAA）因人手短缺，對紐約肯尼迪機場釋出地面停飛指令。"
-    },
-    {
-      "id": "mkt:019fa50c-97b6-7aab-8eb6-48ae600f615f",
-      "time": "2026-07-28 03:28:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Trump administration asked the U.S. Supreme Court to intervene after a lower court allowed legal challenges to an order restricting Trump’s ability to vote by mail."
-    },
-    {
-      "id": "5010799",
-      "time": "2026-07-28 03:28:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：對所有進口卡車徵收25%關稅。"
     }
   ]
 }
