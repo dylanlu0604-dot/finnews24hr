@@ -1,7 +1,39 @@
 {
   "date": "2026-08-04",
-  "count": 374,
+  "count": 377,
   "items": [
+    {
+      "id": "mkt:019fc9c5-567a-7aab-8f5f-e3d1aa6301d9",
+      "time": "2026-08-04 06:36:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "AMZN.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Amazon (AMZN.O) fell nearly 2% in after-hours trading."
+    },
+    {
+      "id": "te:markets:572285",
+      "time": "2026-08-04 06:35:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Iron Ore Falls by 4.43% — Top commodity losers are Iron Ore (-4.43%), Iron Ore CNY (-2.51%) and Lithium Carbonate (-2.10%). Gains are led by Silicon (2.52%), Copper (1.22%), Silver (0.90%) and Gold (0.24%)."
+    },
+    {
+      "id": "5023262",
+      "time": "2026-08-04 06:35:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "貝索斯提交股票出售申報後，亞馬遜美股盤後下跌 1.9%。"
+    },
     {
       "id": "5023261",
       "time": "2026-08-04 06:32:17",

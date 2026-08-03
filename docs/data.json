@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-04 06:35:18",
-  "count": 17924,
+  "updated": "2026-08-04 06:39:11",
+  "count": 17920,
   "items": [
+    {
+      "id": "mkt:019fc9c5-567a-7aab-8f5f-e3d1aa6301d9",
+      "time": "2026-08-04 06:36:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "AMZN.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Amazon (AMZN.O) fell nearly 2% in after-hours trading."
+    },
+    {
+      "id": "te:markets:572285",
+      "time": "2026-08-04 06:35:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Iron Ore Falls by 4.43% — Top commodity losers are Iron Ore (-4.43%), Iron Ore CNY (-2.51%) and Lithium Carbonate (-2.10%). Gains are led by Silicon (2.52%), Copper (1.22%), Silver (0.90%) and Gold (0.24%)."
+    },
+    {
+      "id": "5023262",
+      "time": "2026-08-04 06:35:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "貝索斯提交股票出售申報後，亞馬遜美股盤後下跌 1.9%。"
+    },
     {
       "id": "5023261",
       "time": "2026-08-04 06:32:17",
@@ -166056,64 +166088,6 @@
         "國際"
       ],
       "text": "美國貿易代表格里爾：新實施的301關稅措施不會對經濟造成超出當前已承受範圍的新影響。"
-    },
-    {
-      "id": "5010913",
-      "time": "2026-07-28 06:38:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：本次關稅稅率將與此前徵收標準持平。"
-    },
-    {
-      "id": "mkt:019fa5ba-c017-7aab-8eb7-d97ecb0e2d82",
-      "time": "2026-07-28 06:38:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative Greer said negotiations with Mexico aim to ensure balanced trade."
-    },
-    {
-      "id": "5010910",
-      "time": "2026-07-28 06:37:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾談及利率：關稅完全不會產生任何影響。"
-    },
-    {
-      "id": "5010909",
-      "time": "2026-07-28 06:36:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：與墨西哥就美墨加協定進行的談判富有建設性。"
-    },
-    {
-      "id": "5010908",
-      "time": "2026-07-28 06:35:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄組建建築工程部隊 武裝力量總人數增至242萬餘】俄羅斯總統普京27日簽署命令，決定組建幾支軍事建築工程部隊，並將俄武裝力量編制總人數增至242萬餘人。這一新命令將於8月1日生效。綜合俄羅斯總統網站、法律資訊網站訊息，普京當天簽署總統令，為組建幾支軍事建築工程部隊，修改6月12日的總統令，將俄武裝力量編制總人數變更至242萬餘人，其中包括153.5萬名現役軍人。這意味著俄武裝力量編制總人數將增加2.7萬人，其中現役軍人增加2.5萬人。據塔斯社、今日俄羅斯通訊社等多家媒體報道，6月12日的總統令規定俄武裝力量編制總人數為239萬餘人，其中現役軍人151萬人。（新華社）"
-    },
-    {
-      "id": "mkt:019fa5b8-33f7-7aab-8eb7-d4db577d4eb9",
-      "time": "2026-07-28 06:35:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. Trade Representative Greer said tariff rates are similar to previous levels."
-    },
-    {
-      "id": "mkt:019fa5b8-1306-7aab-8eb7-ce3fd54a0696",
-      "time": "2026-07-28 06:35:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative Greer said a new round of Section 301 tariffs should not cause economic effects the U.S. has not already experienced."
     }
   ]
 }
