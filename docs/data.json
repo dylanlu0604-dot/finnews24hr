@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-04 02:21:13",
-  "count": 17967,
+  "updated": "2026-08-04 02:25:16",
+  "count": 17974,
   "items": [
+    {
+      "id": "5023159",
+      "time": "2026-08-04 02:24:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：沒有時間限制。"
+    },
+    {
+      "id": "mkt:019fc8dd-4922-7aab-8f5d-fa3f415d2bf8",
+      "time": "2026-08-04 02:22:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said he will give Iran one last chance before resorting to extreme measures and hopes Tehran will come to its senses."
+    },
+    {
+      "id": "5023158",
+      "time": "2026-08-04 02:22:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：希望伊朗能恢復理智。"
+    },
+    {
+      "id": "5023157",
+      "time": "2026-08-04 02:22:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及休達邊境問題：看到西班牙發生的情況時，我想到我們也曾面臨類似局面。在拜登以及民主黨執政時期，我們接納了2500萬人。邊境形同虛設，世界各國都把本國不願接納的人輸送到美國。"
+    },
+    {
+      "id": "5023156",
+      "time": "2026-08-04 02:22:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：希望在採取極端行動前給伊朗最後的機會。"
+    },
+    {
+      "id": "5023155",
+      "time": "2026-08-04 02:22:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "城堡證券稱，牛市支撐因素“依舊穩固”。"
+    },
+    {
+      "id": "5023154",
+      "time": "2026-08-04 02:21:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：剝奪伊朗的核能力是問題的核心，本該早就實現。"
+    },
+    {
+      "id": "mkt:019fc8db-f768-7aab-8f5d-f0135a6e67a0",
+      "time": "2026-08-04 02:21:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Spanish police: about 73,500 migrants returned from Ceuta to Morocco】On Aug 3, Spanish police said about 73,500 migrants have returned from the North African autonomous city of Ceuta to Morocco. Public order in Ceuta is gradually being restored and local shops are reopening. Police said 88 migrants died attempting to swim into Ceuta during the crisis."
+    },
+    {
+      "id": "mkt:019fc8db-d520-7aab-8f5d-ecaf1014655c",
+      "time": "2026-08-04 02:21:17",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "The IDF said on Sunday it struck in the Dair al-Balah area, eliminating Abdullah Adnan Taha Abu Altaif, commander of Hamas's Nukhba unit."
+    },
+    {
+      "id": "mkt:019fc8db-9501-7aab-8f5d-e09d710dd062",
+      "time": "2026-08-04 02:21:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. President Trump reiterated that oil companies should do more to lower retail fuel prices."
+    },
     {
       "id": "mkt:019fc8db-5479-7aab-8f5d-d896b3f8da8e",
       "time": "2026-08-04 02:20:44",
@@ -166446,33 +166537,6 @@
         "Importance 2"
       ],
       "text": "Crude Oil Near $82 — Crude oil extended losses and fell toward $82 per barrel on Monday, its lowest level in a week, as optimism grew that the conflict in the Middle East could soon ease. President Trump said the US was holding \"good talks\" with Iran and that there was a chance of reaching a deal, but warned that US strikes would resume if negotiations failed. The US paused its military strikes on Iran on Friday, following nearly two weeks of hostilities and Tehran said it had suspended its retaliatory military operations in response and entered talks with Oman regarding navigation through Hormuz. Supply conditions also improved after crude loadings resumed at the Caspian Pipeline Consortium terminal on Russia's Black Sea coast, a key export route for Kazakh oil that had recently been disrupted by Ukrainian drone attacks. Meanwhile, Houthi militants claimed to have targeted Saudi Aramco-linked facilities in Jizan and Yanbu, although neither the Saudi government nor Aramco confirmed it."
-    },
-    {
-      "id": "te:markets:570170",
-      "time": "2026-07-28 02:24:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Oat Falls by 4.00% — Top commodity losers are Oat (-4%), Canola (-3.96%) and Cocoa (-3.36%). Gains are led by Coffee (2.89%) and Cotton (1.08%)."
-    },
-    {
-      "id": "5010760",
-      "time": "2026-07-28 02:23:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "基輔響起防空警報。"
-    },
-    {
-      "id": "mkt:019fa4d0-97ec-7aab-8eb5-c3ecbcd49779",
-      "time": "2026-07-28 02:22:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Alarms sounded in Kyiv, Ukraine."
     }
   ]
 }
