@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-04 03:22:03",
-  "count": 17990,
+  "updated": "2026-08-04 03:26:02",
+  "count": 17988,
   "items": [
+    {
+      "id": "mkt:019fc915-f940-7aab-8f5e-e0b0094263b5",
+      "time": "2026-08-04 03:24:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Top military adviser to Iran's supreme leader Mohsen Rezaei said Iran intensified drone and missile strikes on US bases in the final days of the conflict, severely damaging a US base in Kuwait, prompting evacuation of Erbil and the relocation of a US commander from Jordan to occupied territories. He said the moves forced CENTCOM to withdraw its command and logistics forces from the Strait of Hormuz strike zone and led to the failure of a US ground offensive."
+    },
+    {
+      "id": "5023197",
+      "time": "2026-08-04 03:24:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【紐約可可期貨漲約9.4%】週一（8月3日）紐約尾盤，ICE原糖期貨漲2.39%，ICE白糖期貨漲1.84%。ICE阿拉比卡咖啡期貨跌3.30%，咖啡“C”期貨跌2.89%。羅布斯塔咖啡期貨跌0.08%。紐約可可期貨漲9.38%，報5903美元/噸，北京時間16:45“開盤”以來持續走高。倫敦可可期貨漲9.05%。芝加哥WCE雙低油菜籽期貨漲0.24%。ICE棉花期貨漲0.73%。"
+    },
     {
       "id": "mkt:019fc912-9bdc-7aab-8f5e-d95f3df251ce",
       "time": "2026-08-04 03:21:07",
@@ -166667,38 +166687,6 @@
         "國際"
       ],
       "text": "特朗普：對所有進口卡車徵收25%關稅。"
-    },
-    {
-      "id": "5010798",
-      "time": "2026-07-28 03:25:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府請求美國最高法院介入，此前下級法院允許對特朗普限制郵寄選票的行政令提出法律挑戰。"
-    },
-    {
-      "id": "5010797",
-      "time": "2026-07-28 03:24:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：法國正遭遇“史無前例”的火情，為二戰以來最嚴重山火，過火面積已超16萬公頃。"
-    },
-    {
-      "id": "5010796",
-      "time": "2026-07-28 03:24:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：極端乾旱致形勢承壓，未來數週日子艱難。"
-    },
-    {
-      "id": "5010795",
-      "time": "2026-07-28 03:24:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列官員：若與哈馬斯談判失敗，必須動用武力摧毀其武裝能力；絕不能讓哈馬斯繼續掌控加沙地帶。"
     }
   ]
 }
