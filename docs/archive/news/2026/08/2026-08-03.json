@@ -1,7 +1,75 @@
 {
   "date": "2026-08-03",
-  "count": 2518,
+  "count": 2526,
   "items": [
+    {
+      "id": "5022921",
+      "time": "2026-08-03 22:33:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國散戶情緒低迷 佔比較年初下降超16個百分點】散戶投資情緒低迷，韓國股市中個人投資者影響力快速下降。 今年年初，個人投資者還曾承接外資拋售壓力，貢獻了接近一半的交易金額。但進入7月後，其交易佔比已下降至30%出頭。有分析認為，隨著股市等待資金也在減少，這不僅是交易主體的簡單轉換，更意味著個人投資者自身的“彈藥”在枯竭。 據韓國交易所3日訊息，7月韓國綜合股價指數（KOSPI）市場中，個人投資者交易金額佔比為31.58%。 相較1月的48.11%，這一比例7個月內大幅下降16.53個百分點。 同期，外資交易金額佔比達到37.91%，領先個人投資者6.33個百分點。"
+    },
+    {
+      "id": "5022920",
+      "time": "2026-08-03 22:32:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：巴基斯坦外長邀請伊拉克儘早訪問巴基斯坦。"
+    },
+    {
+      "id": "5022919",
+      "time": "2026-08-03 22:31:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社：瑞士外交部發言人回應是否會再次主辦美伊談判時表示，瑞士與所有相關國家保持聯絡，並在雙方有意願的情況下，準備提供必要的幫助。"
+    },
+    {
+      "id": "mkt:019fc809-2170-7aab-8f5a-47a6d0111f35",
+      "time": "2026-08-03 22:31:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【White House to host AI firms Tuesday to review draft oversight framework】The Information, citing five people, reports the White House has invited OpenAI, Google and Anthropic staff to a Tuesday meeting to review a completed AI oversight framework. The draft would establish a voluntary programme requiring AI labs to submit models to government review before release to partners or the public. The meeting comes days after an Aug. 1 completion deadline set by an early‑June executive order. It is being hosted by the Office of the National Cyber Director; the invitation reportedly says the agenda will cover next steps and an unspecified related activity. Sources said companies are expected to send employee‑level representatives rather than senior executives and that the session is not a public rollout."
+    },
+    {
+      "id": "5022918",
+      "time": "2026-08-03 22:30:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基調整烏國家安全高層人事】烏克蘭總統網站3日釋出的資訊顯示，烏總統澤連斯基當天簽署多份總統令，對國家安全系統高層進行人事調整：任命烏內務部前部長克利緬科為烏國家安全與國防委員會秘書，國家安全與國防委員會秘書烏梅羅夫改任對外情報局局長。 該網站釋出的資訊還顯示，當天早些時候，澤連斯基簽署3份總統令，解除奧列格·盧霍夫斯基的對外情報局代理局長職務和烏梅羅夫的國家安全與國防委員會秘書職務，並任命烏梅羅夫為對外情報局局長。(新華社)"
+    },
+    {
+      "id": "5022917",
+      "time": "2026-08-03 22:30:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯莫斯科交易所：7月總交易額達210.5萬億盧布。"
+    },
+    {
+      "id": "5022916",
+      "time": "2026-08-03 22:30:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商證券：海外廠商雲收入保持高增，AI應用有望加速發展】招商證券釋出研報稱。透過SK海力士和微軟財報，我們可以得出以下結論：AI產業當前仍然面臨真實的供給約束，尚未出現明顯全面過剩。大型科技企業仍在增加AI基礎設施投資，客戶追加供貨需求持續增長，市場對於AI算力過剩的擔憂暫時缺乏財報層面的充分證據。從微軟算力利用率和SK海力士的訂單情況看，當前產業矛盾仍然主要表現為高效能算力、先進儲存和資料中心配套供給不足，而非裝置大量閒置，因此短期投資機會仍可圍繞能夠緩解算力瓶頸的環節展開。"
+    },
+    {
+      "id": "mkt:019fc808-8d08-7aab-8f5a-3a3b413bd49a",
+      "time": "2026-08-03 22:30:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "TASNIM NEWS: A Swiss foreign ministry spokesperson said Switzerland remains in contact with all relevant countries and, if both parties are willing, is prepared to provide necessary assistance to host renewed US-Iran talks."
+    },
     {
       "id": "5022915",
       "time": "2026-08-03 22:27:51",
