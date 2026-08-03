@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-04 02:49:31",
+  "updated": "2026-08-04 02:53:33",
   "count": 17984,
   "items": [
+    {
+      "id": "5023179",
+      "time": "2026-08-04 02:52:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶83.77美元，下跌4.16美元，跌幅4.73%。"
+    },
+    {
+      "id": "mkt:019fc8f7-c862-7aab-8f5e-511d225a8bfb",
+      "time": "2026-08-04 02:51:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian media reported Mohsen Rezaee, military adviser to Iran's supreme leader, said under no circumstances will the Strait of Hormuz be opened to any route other than Iranian shipping lanes."
+    },
+    {
+      "id": "5023178",
+      "time": "2026-08-04 02:51:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖軍事顧問：我們絕不允許霍爾木茲海峽開闢除伊朗主張航道以外的任何通道。即便美國派遣軍艦以非法航線駛入霍爾木茲海峽，我們也將予以打擊。"
+    },
+    {
+      "id": "5023177",
+      "time": "2026-08-04 02:49:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利7月份預算盈餘134億歐元。"
+    },
+    {
+      "id": "mkt:019fc8f5-53d8-7aab-8f5e-4e027367fa38",
+      "time": "2026-08-04 02:49:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "XOM.N",
+        "Impact mixed",
+        "CVX.N",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Trump says Exxon Mobil, Chevron \"made too much\" from Iran war】U.S. President Trump said on Monday at the White House that Exxon Mobil (XOM.N) and Chevron (CVX.N) \"made too much money\" after crude prices rose on the Iran war. He said the firms profited from a supply shortage, that he \"doesn't like\" it, and urged them to return part of the gains to the public and cut retail prices. Both reported strong Q2 results last Friday: Chevron profit rose nearly 400% YoY to $12.0bn from $2.5bn a year earlier; Exxon Mobil profit more than doubled to $14.5bn from $7.1bn."
+    },
     {
       "id": "5023176",
       "time": "2026-08-04 02:46:51",
@@ -166567,58 +166618,6 @@
         "國際"
       ],
       "text": "美國聯邦航空管理局：因人員短缺及天氣問題，紐約、費城各大機場航班出現延誤。"
-    },
-    {
-      "id": "mkt:019fa4ec-af3a-7aab-8eb6-0e335b5872b8",
-      "time": "2026-07-28 02:53:22",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Israel's opposition leader said that even if Saudi Arabia normalizes ties with Israel, Riyadh must not develop nuclear capabilities and Israel will never accept Saudi uranium enrichment. He said Saudi nuclear development could trigger a Middle East nuclear arms race, which Israel would not accept."
-    },
-    {
-      "id": "mkt:019fa4ec-a698-7aab-8eb6-0419e22bee6e",
-      "time": "2026-07-28 02:53:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude futures settled at $88.36 a barrel, down $8.42, or 8.7%."
-    },
-    {
-      "id": "5010771",
-      "time": "2026-07-28 02:52:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨收盤報每桶 88.36 美元，下跌 8.42 美元，跌幅 8.7%。"
-    },
-    {
-      "id": "5010770",
-      "time": "2026-07-28 02:52:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Pimco擁抱曾經警告的AI熱潮 前提是鉅額融資條款由它主導】Dan Ivascyn希望參與為甲骨文規模達160億美元的大型資料中心園區提供融資的交易，但前提是交易必須按照他的方式設計。知情人士稱，去年年底，這位品浩(Pimco)的首席投資官願意讓公司成為這筆雄心勃勃融資交易的基石投資者，條件是將融資設計為收益率更具吸引力的長期債券，期限與甲骨文的租約相匹配。負責籌組交易的美國銀行最初曾就其他方案徵詢投資者意向，包括髮行期限更短、成本更低的債券，但時機頗為棘手。銀行此前已為甲骨文相關的資料中心專案提供了數十億美元貸款，而一些貸款機構一直難以將這些債務轉售出去。幾個月後，美國銀行重新回到談判桌，並願意按Pimco的條件安排一筆私募交易。"
-    },
-    {
-      "id": "mkt:019fa4ea-7e7d-7aab-8eb5-f9274fb53ed0",
-      "time": "2026-07-28 02:50:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "MVM said Hungary's Paks nuclear power plant will cut output from Unit 1 by 254 MW on Monday after the Danube's water level fell to a record low."
     }
   ]
 }

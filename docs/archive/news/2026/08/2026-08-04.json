@@ -1,7 +1,58 @@
 {
   "date": "2026-08-04",
-  "count": 227,
+  "count": 232,
   "items": [
+    {
+      "id": "5023179",
+      "time": "2026-08-04 02:52:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶83.77美元，下跌4.16美元，跌幅4.73%。"
+    },
+    {
+      "id": "mkt:019fc8f7-c862-7aab-8f5e-511d225a8bfb",
+      "time": "2026-08-04 02:51:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian media reported Mohsen Rezaee, military adviser to Iran's supreme leader, said under no circumstances will the Strait of Hormuz be opened to any route other than Iranian shipping lanes."
+    },
+    {
+      "id": "5023178",
+      "time": "2026-08-04 02:51:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖軍事顧問：我們絕不允許霍爾木茲海峽開闢除伊朗主張航道以外的任何通道。即便美國派遣軍艦以非法航線駛入霍爾木茲海峽，我們也將予以打擊。"
+    },
+    {
+      "id": "mkt:019fc8f5-53d8-7aab-8f5e-4e027367fa38",
+      "time": "2026-08-04 02:49:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "XOM.N",
+        "Impact mixed",
+        "CVX.N",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Trump says Exxon Mobil, Chevron \"made too much\" from Iran war】U.S. President Trump said on Monday at the White House that Exxon Mobil (XOM.N) and Chevron (CVX.N) \"made too much money\" after crude prices rose on the Iran war. He said the firms profited from a supply shortage, that he \"doesn't like\" it, and urged them to return part of the gains to the public and cut retail prices. Both reported strong Q2 results last Friday: Chevron profit rose nearly 400% YoY to $12.0bn from $2.5bn a year earlier; Exxon Mobil profit more than doubled to $14.5bn from $7.1bn."
+    },
+    {
+      "id": "5023177",
+      "time": "2026-08-04 02:49:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利7月份預算盈餘134億歐元。"
+    },
     {
       "id": "5023176",
       "time": "2026-08-04 02:46:51",
