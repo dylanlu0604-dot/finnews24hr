@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-03 22:13:43",
-  "count": 17922,
+  "updated": "2026-08-03 22:17:49",
+  "count": 17919,
   "items": [
+    {
+      "id": "5022900",
+      "time": "2026-08-03 22:17:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國向委內瑞拉頒發5年期通用許可證。"
+    },
+    {
+      "id": "5022899",
+      "time": "2026-08-03 22:16:19",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英偉達漲超2%。"
+    },
+    {
+      "id": "5022898",
+      "time": "2026-08-03 22:16:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "ALPHABET上漲3.7%，甲骨文上漲4.6%。"
+    },
+    {
+      "id": "5022897",
+      "time": "2026-08-03 22:15:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傳智教育：近日釋出“AI具身智慧機器人開發”新學科 首期班報名已完成】傳智教育8月3日接受機構調研時表示，公司近日正式釋出“AI具身智慧機器人開發”新學科，首期班報名已完成，將於今年10月正式開班。在培養模式上，該課程採用“理論賦能、模擬進階、真機實操”閉環教學模式，教學環節同步覆蓋工業機械臂、四足巡檢機器人、人形服務機器人三類主流裝置，並對接智元、眾擎、睿爾曼等頭部廠商的本體二次開發方案。同時，課程配套高達70%的真實落地專案，精準適配全賽道機器人崗位。"
+    },
+    {
+      "id": "5022896",
+      "time": "2026-08-03 22:14:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "META上漲6.1%，微軟跳升4.7%，亞馬遜攀升4.6%。"
+    },
+    {
+      "id": "5022895",
+      "time": "2026-08-03 22:14:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄媒稱4名扎波羅熱核電站工作人員被地雷炸傷】俄羅斯媒體3日報道，4名扎波羅熱核電站的工作人員被地雷炸傷，其中2人傷勢較重。今日俄羅斯通訊社援引扎波羅熱核電站新聞處訊息報道說，烏克蘭武裝部隊3日凌晨使用無人機在通往核電站所在的埃涅爾戈達爾市的公路上、以及該市工業區所在區域投放地雷，造成4名核電站工作人員在上班途中被地雷炸傷。（新華社）"
+    },
+    {
+      "id": "5022894",
+      "time": "2026-08-03 22:13:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基海事資料表明，8月2日透過霍爾木茲海峽和曼德海峽的合併過境次數為39次。"
+    },
+    {
+      "id": "mkt:019fc7f8-ec0b-7aab-8f59-fbe9aeb19600",
+      "time": "2026-08-03 22:13:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【US manufacturing expansion at fastest pace since 2022】In July, ISM's manufacturing PMI rose to 55.6, the highest since May 2022 and the seventh consecutive month above the 50 expansion threshold. The production index climbed to 58.5, its strongest level since late 2021, while the employment indicator showed manufacturers added workers for the first time since September 2023. New orders recovered. All surveyed sectors expanded in July except chemicals; printing, apparel and electrical equipment were among the gainers. Momentum reflects robust consumer demand, solid business investment and defense-related government spending."
+    },
     {
       "id": "mkt:019fc7f8-2ad1-7aab-8f59-f4ad532bbb2a",
       "time": "2026-08-03 22:12:37",
@@ -166135,113 +166208,6 @@
         "國際"
       ],
       "text": "【以軍宣佈擊斃哈馬斯加沙中部內部安全部隊負責人】以色列國防軍與以色列國家安全域性（辛貝特）發表聯合宣告，宣佈在加沙地帶中部代爾拜拉赫地區發動空襲，擊斃哈馬斯內部安全部隊加沙中部地區負責人瓦埃勒·穆薩·哈拉維（Wael Musa Khaled Ladawi）。"
-    },
-    {
-      "id": "te:markets:570132",
-      "time": "2026-07-27 22:17:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Intel Stock Price Hits 12-week Low — Intel shares decreased to 89.55 USD, the lowest since April 2026. Over the past 4 weeks, Intel lost 32.08%, and in the last 12 months, it increased 335.99%."
-    },
-    {
-      "id": "te:markets:570131",
-      "time": "2026-07-27 22:17:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Stryker Stock Price Hits 13-week High — Stryker shares increased to 337.15 USD, the highest since April 2026. Over the past 4 weeks, Stryker gained 6.45%, and in the last 12 months, it decreased 16.61%."
-    },
-    {
-      "id": "mkt:019fa3ef-dba6-7aab-8eb1-0f6bc4e8bb18",
-      "time": "2026-07-27 22:17:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Citigroup maintains bet Fed will hold rates this week】Citigroup traders are positioned for the Federal Reserve to leave rates unchanged this week, Akshay Singal, the bank’s global head of short-term rates trading, said; their positions would profit if the Fed holds. Singal said Citigroup still expects no change and noted Fed Chair Kevin Warsh has urged markets to focus on the data, which he says currently do not warrant a rate hike."
-    },
-    {
-      "id": "5010574",
-      "time": "2026-07-27 22:17:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "西門子醫療集團與範德堡醫療達成價值 8700 萬美元合作專案，落地前沿醫療技術、提升患者診療水平。"
-    },
-    {
-      "id": "5010573",
-      "time": "2026-07-27 22:16:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯當選總統藤森慶子任命路易斯·加拉雷塔為總理兼幕僚長。"
-    },
-    {
-      "id": "5010572",
-      "time": "2026-07-27 22:16:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿斯麥股價下跌 6.4%，跌至日內低點。"
-    },
-    {
-      "id": "mkt:019fa3ef-0317-7aab-8eb1-03b715b04bce",
-      "time": "2026-07-27 22:16:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "MU.O",
-        "Impact bearish"
-      ],
-      "text": "【Micron Technology market value falls below $1 trillion】Micron Technology (MU.O) shares fell more than 4% to $881, valuing the company at $994 billion, below $1 trillion."
-    },
-    {
-      "id": "5010571",
-      "time": "2026-07-27 22:16:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美光科技總市值跌破萬億美元】美光科技股價下跌4.44%，報880.09美元/股，總市值報9940億美元。"
-    },
-    {
-      "id": "5010570",
-      "time": "2026-07-27 22:15:29",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "普信集團與高盛合。作私募市場基金推出"
-    },
-    {
-      "id": "5010569",
-      "time": "2026-07-27 22:15:05",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【原油LOF最高溢價超30%，原油LOF連發12道風險提示】國際油價的劇烈波動，直接點燃了A股場內跨境原油產品的炒作熱情。7月24日，易方達原油LOF、嘉實原油LOF、南方原油LOF盤中分別上漲超6%、5%、4%，二級市場溢價率集體突破26%，其中易方達原油LOF溢價率一度飆升至33%，創下本輪行情最高溢價紀錄。 7月以來已有原油LOF連發“12道風險提示”，但仍難消除溢價。受此影響，多家基金公司密集採取臨時停牌舉措，意在降溫。業內機構分析指出，QDII外匯額度收緊導致核心套利機制失效，是本輪原油LOF溢價失控的根本原因，高位炒作泡沫終將破裂，投資者需高度警惕價格迴歸帶來的大幅虧損風險，理性規避高位投機陷阱。（21財經）"
-    },
-    {
-      "id": "5010568",
-      "time": "2026-07-27 22:14:21",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【多隻爆款基金明將停牌1小時】7月27日，多隻爆款基金髮布公告，明天將停牌1小時，具體如下： 中韓半導體ETF華泰柏瑞(513310)將於2026年7月28日開市起至當日10:30停牌。 全球晶片LOF(501225)將於2026年7月28日開市起停牌，自2026年7月28日10:30起復牌，停牌期間贖回業務照常辦理。 納指ETF廣發(159941)將於2026年7月28日開市起停牌，自2026年7月28日10:30起復牌，停牌期間贖回業務照常辦理。 納指科技ETF景順(159509)將於2026年7月28日開市起停牌，自2026年7月28日10:30起復牌，停牌期間贖回業務照常辦理。 納指ETF嘉實(159501)將於2026年7月28日開市起停牌，自10:30起復牌，停牌期間贖回業務照常辦理。（21世紀經濟報道）"
     }
   ]
 }

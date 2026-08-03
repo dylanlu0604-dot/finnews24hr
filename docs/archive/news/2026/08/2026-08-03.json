@@ -1,7 +1,80 @@
 {
   "date": "2026-08-03",
-  "count": 2487,
+  "count": 2495,
   "items": [
+    {
+      "id": "5022900",
+      "time": "2026-08-03 22:17:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國向委內瑞拉頒發5年期通用許可證。"
+    },
+    {
+      "id": "5022899",
+      "time": "2026-08-03 22:16:19",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英偉達漲超2%。"
+    },
+    {
+      "id": "5022898",
+      "time": "2026-08-03 22:16:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "ALPHABET上漲3.7%，甲骨文上漲4.6%。"
+    },
+    {
+      "id": "5022897",
+      "time": "2026-08-03 22:15:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傳智教育：近日釋出“AI具身智慧機器人開發”新學科 首期班報名已完成】傳智教育8月3日接受機構調研時表示，公司近日正式釋出“AI具身智慧機器人開發”新學科，首期班報名已完成，將於今年10月正式開班。在培養模式上，該課程採用“理論賦能、模擬進階、真機實操”閉環教學模式，教學環節同步覆蓋工業機械臂、四足巡檢機器人、人形服務機器人三類主流裝置，並對接智元、眾擎、睿爾曼等頭部廠商的本體二次開發方案。同時，課程配套高達70%的真實落地專案，精準適配全賽道機器人崗位。"
+    },
+    {
+      "id": "5022896",
+      "time": "2026-08-03 22:14:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "META上漲6.1%，微軟跳升4.7%，亞馬遜攀升4.6%。"
+    },
+    {
+      "id": "5022895",
+      "time": "2026-08-03 22:14:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄媒稱4名扎波羅熱核電站工作人員被地雷炸傷】俄羅斯媒體3日報道，4名扎波羅熱核電站的工作人員被地雷炸傷，其中2人傷勢較重。今日俄羅斯通訊社援引扎波羅熱核電站新聞處訊息報道說，烏克蘭武裝部隊3日凌晨使用無人機在通往核電站所在的埃涅爾戈達爾市的公路上、以及該市工業區所在區域投放地雷，造成4名核電站工作人員在上班途中被地雷炸傷。（新華社）"
+    },
+    {
+      "id": "5022894",
+      "time": "2026-08-03 22:13:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基海事資料表明，8月2日透過霍爾木茲海峽和曼德海峽的合併過境次數為39次。"
+    },
+    {
+      "id": "mkt:019fc7f8-ec0b-7aab-8f59-fbe9aeb19600",
+      "time": "2026-08-03 22:13:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【US manufacturing expansion at fastest pace since 2022】In July, ISM's manufacturing PMI rose to 55.6, the highest since May 2022 and the seventh consecutive month above the 50 expansion threshold. The production index climbed to 58.5, its strongest level since late 2021, while the employment indicator showed manufacturers added workers for the first time since September 2023. New orders recovered. All surveyed sectors expanded in July except chemicals; printing, apparel and electrical equipment were among the gainers. Momentum reflects robust consumer demand, solid business investment and defense-related government spending."
+    },
     {
       "id": "mkt:019fc7f8-2ad1-7aab-8f59-f4ad532bbb2a",
       "time": "2026-08-03 22:12:37",
