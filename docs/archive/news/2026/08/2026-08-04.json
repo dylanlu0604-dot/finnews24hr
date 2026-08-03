@@ -1,7 +1,23 @@
 {
   "date": "2026-08-04",
-  "count": 349,
+  "count": 351,
   "items": [
+    {
+      "id": "mkt:019fc992-f504-7aab-8f5f-c8e40de10376",
+      "time": "2026-08-04 05:41:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cuban media report the national power grid collapsed again after a blackout on Sunday."
+    },
+    {
+      "id": "5023242",
+      "time": "2026-08-04 05:39:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "古巴官方媒體：週日發生停電事故後，古巴國家電網再次全面癱瘓。"
+    },
     {
       "id": "5023241",
       "time": "2026-08-04 05:36:35",

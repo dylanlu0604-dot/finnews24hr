@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-04 05:40:07",
-  "count": 17947,
+  "updated": "2026-08-04 05:44:05",
+  "count": 17948,
   "items": [
+    {
+      "id": "mkt:019fc992-f504-7aab-8f5f-c8e40de10376",
+      "time": "2026-08-04 05:41:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cuban media report the national power grid collapsed again after a blackout on Sunday."
+    },
+    {
+      "id": "5023242",
+      "time": "2026-08-04 05:39:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "古巴官方媒體：週日發生停電事故後，古巴國家電網再次全面癱瘓。"
+    },
     {
       "id": "5023241",
       "time": "2026-08-04 05:36:35",
@@ -166305,15 +166321,6 @@
         "TSLA.O"
       ],
       "text": "【SpaceX market-cap decline roughly equals Tesla's entire value】Since its June peak of $225.64, SpaceX (SPCX.O) has lost more than $1.2trn of market value, roughly equal to Tesla's entire market cap. Tesla shares are trading near a one-year low. Elon Musk's net worth has fallen to about $710bn from a mid‑June record above $1.3trn. Charles Moon, tech and momentum strategist at Prosper Trading Academy, said: \"As an investor it's too early; but as a trader, Wall Street is punishing AI stocks for capex.\" SpaceX will report its first post‑IPO earnings next week; on the second full trading day after the report (Aug 6) holders may sell up to 20% of qualified lock-up shares, about 911.5m shares. Analysts say the lock-up expiry may not be as bad as feared but is unlikely to reverse the share decline."
-    },
-    {
-      "id": "5010873",
-      "time": "2026-07-28 05:41:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【蘋果市值超越英偉達重回全球第一】當地時間週一，蘋果超越英偉達重新成為全球市值最高公司，為2025年4月以來首次。英偉達股價週一下跌近5%，市值跌至4.77萬億美元，因投資者對AI基礎設施建設的鉅額成本表示擔憂，AI晶片板塊整體走低。與此同時，蘋果股價上漲1%，市值達到4.95萬億美元，該公司將於週四盤後釋出備受關注的財報。英偉達自2025年6月從微軟手中奪下全球市值第一寶座後一直保持該地位，並於去年10月短暫觸及5萬億美元市值。2026年迄今，英偉達股價僅上漲4%，而蘋果已上漲24%。蘋果表現優於大市，因其在AI資本支出上保持謹慎，更傾向於租賃算力而非自建基礎設施，這一策略受到投資者認可。"
     }
   ]
 }
