@@ -1,7 +1,46 @@
 {
   "date": "2026-08-03",
-  "count": 960,
+  "count": 964,
   "items": [
+    {
+      "id": "te:economy:572033",
+      "time": "2026-08-03 12:48:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "Indonesia Trade Deficit Below Estimates — Indonesia posted a trade deficit of USD 0.45 billion in June 2026, shifting from a USD 4.11 billion surplus in the same month last year and missing expectations of a USD 0.79 billion deficit. It was the second consecutive monthly trade deficit, as import growth outpaced export growth. Imports surged 34.27% year-on-year, exceeding estimates of 25.3% and accelerating from a 22.16% increase in May. Meanwhile, exports grew 8.84%, rebounding from a 5.73% drop in May, which was the steepest decline in six months, and surpassing forecasts of a 0.25% rise."
+    },
+    {
+      "id": "5021654",
+      "time": "2026-08-03 12:47:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元下跌0.63%，報156.38。"
+    },
+    {
+      "id": "5021653",
+      "time": "2026-08-03 12:46:24",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "傑富瑞將花旗集團目標價從165美元下調至160美元。"
+    },
+    {
+      "id": "mkt:019fc5f1-99c7-7aab-8f4e-a5d962dc6ccc",
+      "time": "2026-08-03 12:46:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Wildfires, heatwaves inflict €3.1 bln loss on euro area — FT】FT analysis: wildfires and heatwaves across France, Spain and other parts of Europe have caused losses exceeding €3.0bn this year. Nearly 500,000 hectares burned in the first two months of the fire season. The five worst-hit euro-area countries, including Portugal, Greece and Romania, account for €3.1bn of damage, well above the European Commission’s estimated EU average annual loss of €2.5bn."
+    },
     {
       "id": "5021652",
       "time": "2026-08-03 12:45:09",

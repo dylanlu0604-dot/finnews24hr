@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-03 12:46:06",
+  "updated": "2026-08-03 12:50:03",
   "count": 17932,
   "items": [
+    {
+      "id": "te:economy:572033",
+      "time": "2026-08-03 12:48:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "Indonesia Trade Deficit Below Estimates — Indonesia posted a trade deficit of USD 0.45 billion in June 2026, shifting from a USD 4.11 billion surplus in the same month last year and missing expectations of a USD 0.79 billion deficit. It was the second consecutive monthly trade deficit, as import growth outpaced export growth. Imports surged 34.27% year-on-year, exceeding estimates of 25.3% and accelerating from a 22.16% increase in May. Meanwhile, exports grew 8.84%, rebounding from a 5.73% drop in May, which was the steepest decline in six months, and surpassing forecasts of a 0.25% rise."
+    },
+    {
+      "id": "5021654",
+      "time": "2026-08-03 12:47:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元下跌0.63%，報156.38。"
+    },
+    {
+      "id": "5021653",
+      "time": "2026-08-03 12:46:24",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "傑富瑞將花旗集團目標價從165美元下調至160美元。"
+    },
+    {
+      "id": "mkt:019fc5f1-99c7-7aab-8f4e-a5d962dc6ccc",
+      "time": "2026-08-03 12:46:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Wildfires, heatwaves inflict €3.1 bln loss on euro area — FT】FT analysis: wildfires and heatwaves across France, Spain and other parts of Europe have caused losses exceeding €3.0bn this year. Nearly 500,000 hectares burned in the first two months of the fire season. The five worst-hit euro-area countries, including Portugal, Greece and Romania, account for €3.1bn of damage, well above the European Commission’s estimated EU average annual loss of €2.5bn."
+    },
     {
       "id": "5021652",
       "time": "2026-08-03 12:45:09",
@@ -166216,44 +166255,6 @@
         "其他"
       ],
       "text": "【甘肅定西山洪災害核心區域出現降雨】昨天（7月26日）下午，甘肅省定西市渭源縣會川鎮雙石門溝受短時強降雨影響，引發山洪，致部分露營遊客被困。截至目前，已致10人遇難、23人受傷，傷員均在醫院接受救治，同時，已轉移、疏散被困群眾共247人。現場救援仍在進行中。甘肅定西市渭源縣會川鎮雙石門溝是這次受災的核心區。從今天凌晨開始，會川鎮出現持續性降雨天氣，給救援工作帶來一定難度。為了確保救援人員的安全，現場指揮部也在實時進行研判評估，雨量變大的時候就及時安排救援力量撤出，保持待命狀態。一旦雨勢變小或停止，搜救工作會立刻啟動。一個多小時前，當地雨勢進一步加大，記者也跟隨救援力量及時撤離到了外圍安全的區域。（央視）"
-    },
-    {
-      "id": "5009340",
-      "time": "2026-07-27 12:49:38",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【油價走低，印度股市六日來首次上漲】早盤印度股市走高，終結連續五日下跌走勢，油價下跌提振全亞洲市場投資情緒。印度國家證券交易所Nifty50指數上漲0.6%，報23917.60點；中小盤股指漲幅均超1%。受美國暫緩對伊朗打擊行動影響，亞洲周邊股市普漲，印度本地股指同步走強。傑富瑞策略分析師在研報中表示，市場對AI板塊行情產生分歧，但印度經濟、企業財報資料持續超預期，全球外資對印度股票態度轉好。印孚瑟斯（Infosys）漲幅達3.3%，為Nifty50指數最大上漲貢獻個股。成分股50只中有42只收漲，8只下跌。"
-    },
-    {
-      "id": "mkt:019fa1e7-3992-7aab-8ea2-a6e949b2d89c",
-      "time": "2026-07-27 12:48:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "002074.SZ",
-        "Impact bullish"
-      ],
-      "text": "【Sinomach, Gotion High‑Tech hold talks】On July 25, Sinomach deputy general manager Fan Zhichao and Sinomach Engineering Group/China CAMC Engineering chairman Wang Bo visited Gotion High‑Tech in Hefei and met Gotion chairman Li Zhen. The parties held in‑depth talks on new‑energy industry‑chain coordination, joint overseas market expansion, and collaborative R&D on high‑end equipment technology."
-    },
-    {
-      "id": "5009339",
-      "time": "2026-07-27 12:47:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國機集團與國軒高科座談交流】據國機工程集團訊息，7月25日，國機集團副總經理範志超，國機工程集團、中工國際董事長王博，赴合肥國軒高科走訪對接，與國軒高科董事長李縝舉行座談交流。雙方圍繞新能源產業鏈協同、海外市場聯合開拓、高階裝備技術攻關等領域開展深度對接洽談。"
-    },
-    {
-      "id": "5009338",
-      "time": "2026-07-27 12:47:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方甄選在合肥設立新公司】企查查APP顯示，近日，東方甄選（合肥）網路科技有限公司成立，法定代表人為張健，註冊資本為800萬元，經營範圍包含組織文化藝術交流活動、網路文化經營、演出經紀、日用品銷售、日用百貨銷售、食品網際網路銷售等，由東方甄選關聯的東方優選（北京）科技有限公司全資持股，股權穿透顯示，公司實際控制人為俞敏洪。"
     }
   ]
 }
