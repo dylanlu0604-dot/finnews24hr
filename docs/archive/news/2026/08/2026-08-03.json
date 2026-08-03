@@ -1,7 +1,96 @@
 {
   "date": "2026-08-03",
-  "count": 520,
+  "count": 530,
   "items": [
+    {
+      "id": "mkt:019fc537-225e-7aab-8f4b-941b6e391785",
+      "time": "2026-08-03 09:22:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "03317.HK",
+        "Impact bullish"
+      ],
+      "text": "Xunce (03317.HK) opened sharply higher, trading up 14.98% at HK$119."
+    },
+    {
+      "id": "mkt:019fc537-0c57-7aab-8f4b-8f60aa761930",
+      "time": "2026-08-03 09:22:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC conducted CNY300 billion overnight reverse repo operation."
+    },
+    {
+      "id": "5021350",
+      "time": "2026-08-03 09:21:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統府幕僚長：多數待稽核的驗廠報告涉及氧化鋁、陰極銅以及鎳副產品。"
+    },
+    {
+      "id": "5021349",
+      "time": "2026-08-03 09:21:26",
+      "tags": [
+        "央行"
+      ],
+      "text": "中國央行：今日開展630億元7天逆回購操作，投標量630億元，中標量630億元，操作利率為1.40%"
+    },
+    {
+      "id": "mkt:019fc535-e7c8-7aab-8f4b-85d2e1c0ac53",
+      "time": "2026-08-03 09:21:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "CNH"
+      ],
+      "text": "PBOC conducted a 7-day reverse repo operation today, bidding 63 bln yuan and allotting 63 bln yuan at a rate of 1.40%."
+    },
+    {
+      "id": "5021346",
+      "time": "2026-08-03 09:21:01",
+      "tags": [],
+      "text": "港股恒指高開漲0.4％，國企指數漲0.55％，恒生科技指數開漲0.68%。"
+    },
+    {
+      "id": "5021345",
+      "time": "2026-08-03 09:20:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【駐日美軍多名士兵涉嫌酒駕和猥褻被捕】據日本媒體2日報道，沖繩縣近日發生多起駐日美軍士兵被捕案件，其中兩人涉嫌酒駕，一人涉嫌公然猥褻。據沖繩縣警方通報，2日清晨發生的一起案件中，駐日美軍嘉手納基地一名士兵被指在沖繩市一處公寓外裸露身體，警方以公然猥褻罪將其當場逮捕。事發時，這名士兵處於醉酒狀態。面對警方訊問，這名士兵態度強硬，稱“與律師確認後再回答”。（新華社）"
+    },
+    {
+      "id": "mkt:019fc534-91eb-7aab-8f4b-7d9d1f9226d3",
+      "time": "2026-08-03 09:19:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea sees rise in drug crime; police detained over 5,000 in 1H】South Korean police said on the 2nd drug-related crime is increasing, with more than 5,000 suspects detained in 1H and over 40% linked to online drug offences. Police will run a special anti-drug operation from the 3rd of this month through Dec. 31, focusing on online drug networks and cases involving foreign nationals. Special investigation teams will target drug deals conducted via messaging apps such as Telegram and payments or settlements using virtual assets."
+    },
+    {
+      "id": "5021344",
+      "time": "2026-08-03 09:19:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統府幕僚長：政府只會在稀土作為主要產品而非其他礦產副產品時禁止其出口。"
+    },
+    {
+      "id": "te:markets:571949",
+      "time": "2026-08-03 09:19:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Falls for Third Session — US heating oil futures fell toward $4.0 per gallon in early August, extending losses for a third straight session, as President Donald Trump canceled a planned attack on Iran. Trump said Saudi Arabia and other key Middle Eastern allies had urged him to halt the planned strikes and resume negotiations, while continuing to press for the swift reopening of the Strait of Hormuz. The development provided some relief after days of escalating tensions, easing concerns over supply disruptions. Meanwhile, Gulf producers continued to pursue alternative export routes, with Turkey and Iraq extending a pipeline agreement, while Iran said talks with Oman on a new route through the strait were in their final stages. Separately, Russian diesel supplies remained constrained by ongoing Ukrainian attacks on major oil refineries, prompting Moscow to extend its diesel and gasoline export ban through January 2027."
+    },
     {
       "id": "mkt:019fc533-18cc-7aab-8f4b-7046c3416f74",
       "time": "2026-08-03 09:18:07",
