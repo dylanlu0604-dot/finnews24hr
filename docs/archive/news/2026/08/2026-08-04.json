@@ -1,7 +1,17 @@
 {
   "date": "2026-08-04",
-  "count": 356,
+  "count": 357,
   "items": [
+    {
+      "id": "mkt:019fc9a1-bae2-7aab-8f5f-d23e61a39f87",
+      "time": "2026-08-04 05:57:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Major electronic-packaging conference opens in China as capacity expansion accelerates】The 27th International Conference on Electronic Packaging Technology (ICEPT2026) will run Aug. 5-7 in Xi'an, showcasing advanced packaging equipment, materials and test solutions. With global advanced-packaging capacity tight, China’s assembly-and-test sector is launching a large-scale expansion; domestic leaders including JCET, Huatian Technology and Tongfu Microelectronics are expanding advanced-packaging capacity and prioritizing high-end memory, power semiconductors and high-performance computing packaging. The build-out is expected to deepen ecosystem coordination and accelerate domestic self-sufficiency in advanced packaging."
+    },
     {
       "id": "5023246",
       "time": "2026-08-04 05:53:35",

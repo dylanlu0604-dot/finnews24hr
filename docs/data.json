@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-04 05:56:02",
-  "count": 17942,
+  "updated": "2026-08-04 06:00:00",
+  "count": 17939,
   "items": [
+    {
+      "id": "mkt:019fc9a1-bae2-7aab-8f5f-d23e61a39f87",
+      "time": "2026-08-04 05:57:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Major electronic-packaging conference opens in China as capacity expansion accelerates】The 27th International Conference on Electronic Packaging Technology (ICEPT2026) will run Aug. 5-7 in Xi'an, showcasing advanced packaging equipment, materials and test solutions. With global advanced-packaging capacity tight, China’s assembly-and-test sector is launching a large-scale expansion; domestic leaders including JCET, Huatian Technology and Tongfu Microelectronics are expanding advanced-packaging capacity and prioritizing high-end memory, power semiconductors and high-performance computing packaging. The build-out is expected to deepen ecosystem coordination and accelerate domestic self-sufficiency in advanced packaging."
+    },
     {
       "id": "5023246",
       "time": "2026-08-04 05:53:35",
@@ -166227,38 +166237,6 @@
         "焦點"
       ],
       "text": "紐約期銀突破59美元/盎司，日內漲0.19%。"
-    },
-    {
-      "id": "5010884",
-      "time": "2026-07-28 05:59:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：從未倡導過禁止公開權重模型。"
-    },
-    {
-      "id": "5010883",
-      "time": "2026-07-28 05:59:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：當地時間週二凌晨，為庫爾德地區供應大部分電力的蘇萊曼尼亞霍爾莫爾氣田遭到襲擊。"
-    },
-    {
-      "id": "5010882",
-      "time": "2026-07-28 05:58:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：伊拉克北部埃爾比勒全城多處發生爆炸，美國領事館附近區域也未能倖免。"
-    },
-    {
-      "id": "5010881",
-      "time": "2026-07-28 05:58:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "中央氣象臺7月28日06時繼續釋出暴雨黃色預警。"
     }
   ]
 }
