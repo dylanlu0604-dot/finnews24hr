@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-03 22:47:34",
-  "count": 17904,
+  "updated": "2026-08-03 22:51:50",
+  "count": 17907,
   "items": [
+    {
+      "id": "5022947",
+      "time": "2026-08-03 22:50:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所阿拉比卡咖啡期貨<KCC1>跌幅超4%，報每磅3.1850美元。"
+    },
+    {
+      "id": "5022946",
+      "time": "2026-08-03 22:50:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯通艾克斯（StoneX）預估，巴西2026/27年度大豆產量將為1.831億噸，上一作物年度產量為1.826億噸。"
+    },
+    {
+      "id": "mkt:019fc81a-cd58-7aab-8f5a-8b052eb38d89",
+      "time": "2026-08-03 22:50:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi said Iran visits Najaf in Iraq once a year to draw strength before departing."
+    },
+    {
+      "id": "5022945",
+      "time": "2026-08-03 22:50:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西斯通克斯公司（StoneX）預測，2025/26年度第二季玉米產量為1.107億噸，此前預測為1.075億噸。"
+    },
+    {
+      "id": "5022944",
+      "time": "2026-08-03 22:50:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所紐約可可期貨<CCC1>漲幅超8%，達到每噸5832美元。"
+    },
+    {
+      "id": "5022943",
+      "time": "2026-08-03 22:49:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "百時美施貴寶股價走勢反轉，最新下跌1.6%。"
+    },
+    {
+      "id": "5022942",
+      "time": "2026-08-03 22:49:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寶信軟體中標大冶特鋼大資料治理專案】7月31日，寶信軟體成功中標大冶特鋼大資料治理專案。"
+    },
+    {
+      "id": "5022941",
+      "time": "2026-08-03 22:49:16",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【蘋果訴OpenAI竊密案牽出資料管理漏洞：部分前員工離職後仍可透過個人iCloud訪問機密檔案】蘋果公司起訴OpenAI竊取商業機密一案持續發酵。據美國科技媒體The Information最新披露，由於蘋果內部資料管理政策存在漏洞，部分前員工在離職後仍能透過個人iCloud賬戶訪問包含產品釋出計劃在內的機密檔案。這一發現為蘋果與OpenAI之間的法律糾紛增添了新的技術背景。報道指出，這一問題的根源在於蘋果長期鼓勵員工將個人Apple ID與公司提供的iCloud儲存空間繫結。蘋果為員工提供2TB的iCloud儲存空間，並允許其與個人現有套餐合併。由於iPhone僅支援一個主Apple ID進行完整的iCloud訪問，許多員工選擇將工作與生活檔案儲存在同一裝置與賬戶中。儘管蘋果在2010年代末推出了“Apple Work”資料夾以加強對工作檔案的管控，但存放在該資料夾之外的內部檔案，仍可能與個人照片等資料混合，並在員工離職後繼續同步。"
+    },
+    {
+      "id": "5022940",
+      "time": "2026-08-03 22:48:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【海事分析公司：6艘沙特油輪繞行好望角避開紅海航線】總部位於英國的溫沃德海事分析公司3日釋出的船舶追蹤資料顯示，6艘沙烏地阿拉伯油輪正駛往非洲好望角，避開曼德海峽和紅海航線，以規避葉門胡塞武裝對沙特關聯船舶構成的安全風險。該公司分析顯示，對於部分駛往美國的油輪而言，繞行好望角將比經蘇伊士運河和曼德海峽的直達航線增加約6至7天航程。溫沃德公司認為，這6艘油輪全部選擇在空載航段繞行，這可能是沙特方面避免其船舶進入相關海域的整體運營政策，而非針對特定貨物風險採取的臨時措施。近期紅海航運安全形勢持續緊張，胡塞武裝多次宣佈對與沙特有關聯船舶實施打擊，迫使部分船舶運營商調整航線。（新華社）"
+    },
     {
       "id": "5022939",
       "time": "2026-08-03 22:45:53",
@@ -165977,65 +166052,6 @@
         "WAF.DE"
       ],
       "text": "German semiconductor stocks slipped; Infineon shares down about 3%, Siltronic AG down about 4%."
-    },
-    {
-      "id": "mkt:019fa40e-818f-7aab-8eb1-f819b0a23b7d",
-      "time": "2026-07-27 22:50:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact mixed",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "【CME lists single-stock futures for SpaceX and 54 U.S. names, raising access for shorts and leverage】CME today launched U.S. single-stock futures covering SpaceX and 54 other companies, offering 100-share standard contracts and 10-share micro contracts. Contracts are cash-settled, trade nearly round-the-clock and do not require borrowing stock, enabling long, short or hedged exposure without stock lend. For SpaceX this creates an additional pricing channel rather than changing fundamentals: futures will likely reflect pre-/post-market moves and news more quickly. SpaceX’s free float is limited and the share price has fallen from its peak; Ortex estimates roughly 56% of the free float is on loan and short interest is still rising. SpaceX is due to report its first post-IPO earnings on Aug. 4 and faces upcoming lock-up expiries. The launch’s market significance is primarily operational—easier entry for shorts, hedgers and leveraged funds—so spot–futures linkage and volatility around earnings and unlocks could be amplified in the near term."
-    },
-    {
-      "id": "5010619",
-      "time": "2026-07-27 22:50:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【應急管理部研究部署當前安全生產和防汛防颱風工作】7月27日，應急管理部召開黨委會議、部務會議，研究部署當前安全生產和防汛防颱風工作。會議要求，緊盯颱風“紅霞”後續影響，強化監測預警，嚴防局地極端強降雨造成人員傷亡。要抓實“七下八上”防汛關鍵期各項防範工作，督促各地在高風險區預置力量、物資、裝備，遇到險情快速響應、有效處置。要紮實開展中央安全生產考核巡查三季度明查暗訪，督促各地各有關部門嚴格落實責任，抓好礦山、消防、危化、煙花爆竹、工貿等重點行業領域專項整治，強化風險研判和針對性部署，堅決穩控安全生產形勢。"
-    },
-    {
-      "id": "5010618",
-      "time": "2026-07-27 22:49:34",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美銀：成功捍衛日元需日本央行釋放鷹派訊號】美國銀行證券日本外匯及利率首席策略師山田周介（Shusuke Yamada）表示，要成功捍衛日元匯率，僅靠財務省的匯市干預遠遠不夠，日本央行必須釋放明確的鷹派政策訊號。他指出，隨著美元兌日元匯率逼近165關口，日本當局干預匯市的風險正顯著上升。山田周介在最新研報中分析稱，儘管7月份加息的機率極低，但日本央行決策層需透過前瞻指引，有效提振市場對9月份加息的預期。目前，利率互換市場定價顯示，9月份加息25個基點的機率僅為27%。該策略師強調，165是美元兌日元匯率下一個潛在的干預門檻。若放任匯率大幅突破該水平，將被市場解讀為日本當局缺乏捍衛日元的決心，進而可能引發加速拋售日元的連鎖反應。目前，美元兌日元匯率在163.70附近交投，已逼近上世紀80年代中期以來的歷史低位。此外，大規模匯市干預還可能引發市場對日本國債遭拋售的擔憂。山田周介指出，從貨幣外交的角度來看，任何實質性的外匯干預實際上都會增加日本央行進一步收緊貨幣政策的壓力。在政治層面，隨著日本首相高市早苗的支援率出現下滑，允許日元進一步貶值的政治代價正在攀升。山田周介總結認為，日本當局正接近一個必須實質性加強日元捍衛力度的臨界點。"
-    },
-    {
-      "id": "5010617",
-      "time": "2026-07-27 22:48:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國半導體板塊個股走低。"
-    },
-    {
-      "id": "5010616",
-      "time": "2026-07-27 22:48:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西中央銀行展期所有5萬份外匯掉期合約。"
-    },
-    {
-      "id": "mkt:019fa40c-5993-7aab-8eb1-f03f8e215f95",
-      "time": "2026-07-27 22:48:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Most-active coking coal futures contract fell more than 2.00% intraday to 1,245.00 yuan/ton."
     }
   ]
 }
