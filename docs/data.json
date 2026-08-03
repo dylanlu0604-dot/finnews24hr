@@ -1,7 +1,121 @@
 {
-  "updated": "2026-08-04 00:17:33",
-  "count": 17979,
+  "updated": "2026-08-04 00:22:00",
+  "count": 17985,
   "items": [
+    {
+      "id": "5023060",
+      "time": "2026-08-04 00:20:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度食品安全與標準管理局（FSSAI）釋出禁令，要求達布林印度公司立即停止銷售標註有誤導性“100%”宣傳語的食品。"
+    },
+    {
+      "id": "5023059",
+      "time": "2026-08-04 00:20:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "太平洋谷銀行宣佈啟動300萬美元股票回購計劃。"
+    },
+    {
+      "id": "5023058",
+      "time": "2026-08-04 00:18:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國本田：7月電氣化汽車銷量為38169輛。"
+    },
+    {
+      "id": "mkt:019fc86b-672c-7aab-8f5c-401a00192147",
+      "time": "2026-08-04 00:18:29",
+      "tags": [
+        "MKT News",
+        "HMC.O"
+      ],
+      "text": "U.S. Honda said July electric-vehicle sales were 38,169 units."
+    },
+    {
+      "id": "5023057",
+      "time": "2026-08-04 00:18:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克100指數漲幅擴大至1.5%，觸及盤中新高。"
+    },
+    {
+      "id": "mkt:019fc86b-0f12-7aab-8f5c-3b7f6b936ae8",
+      "time": "2026-08-04 00:18:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "Nasdaq extends gains to 2%, S&P 500 up 1.3%, Dow up 1%."
+    },
+    {
+      "id": "5023056",
+      "time": "2026-08-04 00:17:39",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美銀看多英國利率期貨、做空歐元區利率期貨】美國銀行利率策略師斯菲亞·薩利姆傾向做多英國利率期貨、相對做空歐元區利率期貨，她認為市場高估了英國央行的加息幅度。薩利姆建議，在利差約139個基點時，做多英國3個月利率期貨、做空歐元區3個月利率期貨，目標利差120個基點；當前二者利差約132個基點。她在週一研報中寫道：“我們認為兩大央行的政策表態分歧正在擴大，自6月以來英國央行的鷹派傾向明顯降溫。”各大發達市場的央行政策定價當前“高度趨同”，其中歐洲央行與英國央行的市場預期，和該行模型預測偏離程度“最為顯著”。"
+    },
+    {
+      "id": "5023055",
+      "time": "2026-08-04 00:17:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲2.00%，現報25882.567點；道指漲1.01%，現報53013.070點；標普500指數漲1.29%，現報7586.350點。"
+    },
+    {
+      "id": "te:markets:572261",
+      "time": "2026-08-04 00:17:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Rise to Records — European stocks rose to record highs on Monday as lower energy prices drove benchmark borrowing costs to drop. The Euro STOXX 50 gained 1.2% to close at 6,440 and the STOXX Europe 600 gained 0.4% to 652. Oil and natural gas prices fell sharply after the US refrained from attacking Iran over the weekend and US President Trump signaled willingness for a ceasefire. Sovereign yields fell and softened soaring credit costs, aiding banks and insurers with UniCredit, Santander, BBVA, and BNP Paribas gaining over 2%. Meanwhile, Intesa Sanpaolo rose 2.4% as talks between Banca MPS and Banco BPM for a merger of equals collapsed, reigniting Intesa's odds for an acquisition of the latter. Software companies also closed higher, tracking US counterparts with SAP adding 4.4%. Meanwhile, Deutsche Telekom rose 5% ahead of its earnings."
+    },
+    {
+      "id": "mkt:019fc869-c799-7aab-8f5c-3514fc70bb0c",
+      "time": "2026-08-04 00:16:43",
+      "tags": [
+        "MKT News",
+        "HMC.O",
+        "Impact bullish"
+      ],
+      "text": "Honda U.S. sales rose 12.8% YoY in July to 136,549 units, the strongest monthly result since 2019."
+    },
+    {
+      "id": "5023054",
+      "time": "2026-08-04 00:16:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國本田：7月銷量增長12.8%，至136549輛，創2019年以來同期最佳水平。"
+    },
+    {
+      "id": "5023053",
+      "time": "2026-08-04 00:16:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部：已達成協議，將“愛國者”3型防空導彈的產量提高至原來的3倍，並將“薩德”系統的產量提高至原來的4倍。"
+    },
     {
       "id": "mkt:019fc868-9300-7aab-8f5c-2ca10f5e532b",
       "time": "2026-08-04 00:15:24",
@@ -166647,60 +166761,6 @@
         "Brent"
       ],
       "text": "Kuwait condemned drone attacks on Saudi oil facilities, Al Jazeera reported."
-    },
-    {
-      "id": "mkt:019fa460-9f0e-7aab-8eb3-2827e90ad64a",
-      "time": "2026-07-28 00:20:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Lebanese presidency: President Michel Aoun strongly condemned an attempted drone attack on Saudi Arabia's oil facilities and said Lebanon supports Saudi Arabia in responding to any actions that threaten its security and sovereignty."
-    },
-    {
-      "id": "5010683",
-      "time": "2026-07-28 00:20:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩總統府宣告：總統奧恩強烈譴責針對沙烏地阿拉伯石油設施的無人機襲擊企圖。總統認為此類襲擊侵犯沙特的安全與穩定，同時威脅地區安全及各國人民利益。 奧恩總統申明，黎巴嫩將與沙烏地阿拉伯站在一起，共同應對一切損害沙特安全與主權的行徑。黎巴嫩再次呼籲各國尊重國家主權，杜絕任何可能激化地區緊張局勢的行為，優先採取對話與和平解決方案，維護地區安全穩定。"
-    },
-    {
-      "id": "mkt:019fa460-62c7-7aab-8eb3-22673930da04",
-      "time": "2026-07-28 00:20:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US Central Command says 17 merchant vessels forced to divert since resuming maritime blockade of Iran】On July 27 local time, US Central Command said that since resuming a maritime blockade of Iran it has forced 17 merchant vessels to change course, disabled two vessels and boarded and inspected two others."
-    },
-    {
-      "id": "5010682",
-      "time": "2026-07-28 00:19:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱對伊朗海上封鎖期間已迫使17艘商船改道】當地時間7月27日，美軍中央司令部表示，自恢復對伊朗的海上封鎖以來，美軍已迫使17艘商船改變航向，使2艘商船喪失航行能力，並登臨檢查了2艘商船。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fa45f-583f-7aab-8eb3-1be860dabf04",
-      "time": "2026-07-28 00:18:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Oman's foreign ministry condemned and strongly opposed drone attacks targeting Saudi Arabia, saying it will support any measures Saudi Arabia takes to safeguard its sovereignty, security and territorial integrity."
-    },
-    {
-      "id": "5010681",
-      "time": "2026-07-28 00:18:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：軟銀有望很快拿下 SP.LINKS 的優先競標方資格。"
     }
   ]
 }
