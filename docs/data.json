@@ -1,7 +1,516 @@
 {
-  "updated": "2026-08-03 16:33:52",
-  "count": 17897,
+  "updated": "2026-08-03 16:44:09",
+  "count": 17919,
   "items": [
+    {
+      "id": "5022070",
+      "time": "2026-08-03 16:43:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：激發用電側協同互動能力】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，完善管理制度、排程體系、市場機制和技術標準，做實做細負荷管理措施，充分發揮市場作用，引導分散式電源、可調節負荷、電動汽車充電基礎設施等各類分散資源聚合參與電力削峰和填谷，提升用電側協同互動能力。到 2030 年，全國需求側削峰能力超過1億千瓦。"
+    },
+    {
+      "id": "5022069",
+      "time": "2026-08-03 16:42:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：佈局一批可承擔頂峰保供作用的電網側獨立新型儲能電站】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，佈局一批可承擔頂峰保供作用的電網側獨立新型儲能電站。加大構網型等技術應用，充分釋放新型儲能調峰、調頻、調壓、事故備用、爬坡、黑啟動等多重效能。“十五五”時期，全國新增可承擔頂峰保供作用的電網側獨立新型儲能約8000 萬千瓦，等效頂峰時長力爭達到 4 小時。到 2030 年，可承擔頂峰保供作用的電網側獨立新型儲能達到 1.4 億千瓦。"
+    },
+    {
+      "id": "mkt:019fc6c9-f7a7-7aab-8f53-2c2f2e3218b7",
+      "time": "2026-08-03 16:42:32",
+      "tags": [
+        "MKT News",
+        "7201.T"
+      ],
+      "text": "Nissan CFO said first-quarter vehicle sales were broadly flat and, given global competition and Middle East tensions, the result was steady."
+    },
+    {
+      "id": "mkt:019fc6c9-d83f-7aab-8f53-23937c1c5e3f",
+      "time": "2026-08-03 16:42:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Securities Association revises liquidity guidelines to tighten cross‑border and multi‑currency controls for brokers】The China Securities Association has published a draft revision of the Securities Company Liquidity Risk Management Guidelines for industry comment. The draft clarifies responsibility boundaries and tightens management obligations, with a focus on high‑complexity areas. The chapter on identification, assessment, monitoring, response and reporting adds explicit requirements for liquidity buffers, governance of cross‑border business and overseas subsidiaries, and cross‑currency liquidity risk management."
+    },
+    {
+      "id": "5022068",
+      "time": "2026-08-03 16:42:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "日產首席財務官萊昂迪斯表示：第一季度銷量幾乎持平，考慮到全球競爭局勢與中東局勢，這已是一份穩健的業績。"
+    },
+    {
+      "id": "5022067",
+      "time": "2026-08-03 16:42:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：加強電動汽車充電基礎設施網路建設】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，加快構建城市面狀、公路線狀、鄉村點狀佈局的充電基礎設施網路。推動高速公路服務區充電設施更新改造，打造有效滿足中長途出行需求的城際網路。提高快充設施佔比，有序推進大功率充電基礎設施建設，實現除海島、高寒高海拔地區外的農村（縣鄉）地區公共充電設施全覆蓋。"
+    },
+    {
+      "id": "5022066",
+      "time": "2026-08-03 16:41:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：夯實煤電兜底保障作用】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，持續最佳化煤電裝機結構。穩妥有序實施煤電機組關停工作。鼓勵利用關停煤電機組既有廠址、裝置設施實施新型儲能、調相機等改造建設。到 2030 年，60 萬千瓦等級及以上清潔高效煤電機組佔比提高 10 個百分點以上。合理控制煤電規模。嚴格落實國家碳達峰碳中和戰略和重點區域大氣汙染防治要求，實施新版火電建設標準，推動已納入規劃的煤電建成投產。"
+    },
+    {
+      "id": "5022065",
+      "time": "2026-08-03 16:41:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：構建智慧電力排程體系】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，持續最佳化排程機制，推動主配微網協同調控模式轉變和能力建設。探索“沙戈荒”基地、水風光一體化基地、電力新業態等協同執行控制新模式。健全併網技術標準與排程規範，加強電力排程與電力市場、電力需求側管理的銜接。強化各類併網執行主體的涉網和執行管理。適時修訂《電網排程管理條例》。加快先進數字資訊科技與先進排程控制技術融合應用，提升電網智慧調控和系統實時平衡能力，促進新能源消納。"
+    },
+    {
+      "id": "mkt:019fc6c9-39c7-7aab-8f53-1d9a8472897f",
+      "time": "2026-08-03 16:41:44",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【UK manufacturing PMI falls to four-month low】UK manufacturing PMI fell to 51.9 in July from 52.5 in June, marking a ninth consecutive month of expansion but the weakest pace in four months; the preliminary July reading was 52.8. S&P Global said the month-on-month decline reflected a sharp reduction in purchases and inventories, slower employment growth and a sharp deceleration in the pace of increases in supplier delivery times. The PMI output index rose to 52.9 from 52.6 — the broadest output expansion since September 2024 — but below the preliminary 53.6. Data suggested a renewed impact from developments in Iran."
+    },
+    {
+      "id": "mkt:019fc6c9-3961-7aab-8f53-15e1047d9c1e",
+      "time": "2026-08-03 16:41:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Palestinian news agency reported Israeli settler militias have established a new settler outpost on Palestinian land near the town of Sa'ir in southern Hebron, West Bank."
+    },
+    {
+      "id": "5022064",
+      "time": "2026-08-03 16:41:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：多場景建設智慧微電網】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，支援智慧微電網建設，與公共電網做好規劃銜接和調控協同。佈局建設一批源網荷儲協同的智慧微電網專案。完善相關技術標準和專案准入，明確智慧微電網與公共電網的物理邊界和責任邊界。提升智慧微電網新能源自發自用比例。"
+    },
+    {
+      "id": "5022063",
+      "time": "2026-08-03 16:41:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：打造堅強韌性配電系統】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，強化配電網規劃引領，推動配電網建設改造和智慧升級，加強市縣級配電網與新業態佈局規劃協同，升級配電網智慧調控體系。全面提升配電網供電保障能力，力爭實現單一通道縣域全停風險清零，著力解決配變過載、嚴重低電壓等供電質量問題。"
+    },
+    {
+      "id": "5022062",
+      "time": "2026-08-03 16:40:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：有序推進老舊小區、城中村等區域供配電設施規範化改造】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，加強城鎮配電網建設改造力度，有序推進老舊小區、城中村等區域供配電設施規範化改造，加快新建居民小區配套電網工程建設。推進非電網直供電小區治理，鼓勵具備條件的非直供電小區供電設施向供電企業整體移交。服務鄉村振興戰略實施，推動農村新型電網建設改造。支援縣域、民族地區、革命老區等特殊型別地區電力基礎設施建設。"
+    },
+    {
+      "id": "5022061",
+      "time": "2026-08-03 16:40:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：規劃建設海上輸電網路】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，開展海上輸電網路規劃研究，統籌資源條件和海洋經濟發展需求，集約化一體化佈局海纜廊道和登陸點，推動構建海上輸電網路，促進海上風電基地高效彙集送出和消納。"
+    },
+    {
+      "id": "5022060",
+      "time": "2026-08-03 16:40:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：增強充電服務保障能力】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，提升居住區充電樁報裝接電服務水平，推動實施一批居住區充電設施“統建統服”試點。持續最佳化充電場站環境，完善收費等資訊標識，提升設施執行維護水平，有效最佳化群眾充電體驗。"
+    },
+    {
+      "id": "5022059",
+      "time": "2026-08-03 16:40:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：完善區域主網架結構】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，堅持以區域電網為基礎、區域電網非同步互聯的全國電網格局。保證電網結構強度，分層分割槽最佳化各級電網主網架，推動電網交直流、送受端、各層級協調發展。"
+    },
+    {
+      "id": "mkt:019fc6c8-02dc-7aab-8f53-0d7e8cc3fe13",
+      "time": "2026-08-03 16:40:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CHINA STATE PLANNER, NEA issue 15th Five-Year new power system plan; cap low-load coal-consumption rise at 25%】CHINA STATE PLANNER and the NEA released the New Power System Construction 15th Five-Year Plan, directing wide‑load, high‑efficiency retrofits of operating coal‑fired units and capping increases in coal consumption rate under low‑load operation at 25%. The plan mandates region‑appropriate full‑load denitrification (SCR) retrofits for coal units and implementation of a batch of cross‑generation upgrade projects at the ~600 MW class. In eligible regions it supports construction of zero‑carbon/low‑carbon fuel co‑firing and carbon capture, utilization and storage (CCUS) projects. Regulators are to issue coal power–new energy integration policies, prioritise coal–renewable integration pilots, retrofit coal units for enhanced regulation/flexibility, and push system coupling and integrated dispatch to lower coal‑fired generation."
+    },
+    {
+      "id": "5022058",
+      "time": "2026-08-03 16:40:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：因地制宜推進清潔取暖】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，修訂《熱電聯產管理辦法》。提升集中供暖清潔能源使用比重。推動核能清潔供暖、工業供汽。鼓勵推進煤電耦合新能源聯合供暖，鼓勵發展地熱能、太陽能、生物質能等可再生能源供暖。因地制宜推進工業餘熱等多種清潔取暖方式。"
+    },
+    {
+      "id": "mkt:019fc6c7-6eb2-7aab-8f53-04d2c6945107",
+      "time": "2026-08-03 16:39:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Thailand's tourism ministry said year-to-date foreign tourist arrivals fell 3.2% YoY."
+    },
+    {
+      "id": "5022057",
+      "time": "2026-08-03 16:39:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：積極推動煤電節能降碳】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，推動現役煤電機組實施寬負荷高效改造，低負荷執行工況的煤耗增幅控制在 25%以內。因地制宜推動實施燃煤機組全負荷脫硝改造。實施一批 60 萬千瓦等級跨代升級改造專案。"
+    },
+    {
+      "id": "mkt:019fc6c7-0dd0-7aab-8f52-ff6e766e3b5b",
+      "time": "2026-08-03 16:39:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China State Planner, NEA issue New Power System Construction '15th Five‑Year Plan' to bolster power supply for computing facilities】China State Planner and the National Energy Administration issued the New Power System Construction '15th Five‑Year Plan', directing measures to strengthen electricity supply security and meet high‑reliability power needs of various computing facilities. The plan mandates coordinated energy‑resource allocation and joint planning of compute and power projects to align electricity capacity with computing demand. It promotes source‑grid‑load‑storage integration and green‑power direct‑connection models tied to computing facilities, enables aggregated green‑power trading and local consumption to raise compute facilities' green‑power share, and calls for enhanced recovery and utilization of waste heat from computing facilities."
+    },
+    {
+      "id": "5022056",
+      "time": "2026-08-03 16:39:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：提升晶片製造、精密儀器製造、生物醫藥等新質生產力供電質量】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，提升晶片製造、精密儀器製造、生物醫藥等新質生產力供電質量。持續提升電能質量綜合治理水平。深化“省力、省時、省錢”服務，鞏固提升“零上門、零審批、零投資”服務，更好保障企業使用者接電需求。全面推進“高效辦成一件事”，深化水電氣聯合報裝服務，推廣高頻供電業務聯辦，推進跨網辦、跨省辦等異地辦電服務，提升辦電便利度。"
+    },
+    {
+      "id": "mkt:019fc6c6-f966-7aab-8f52-f4a7fcb5e193",
+      "time": "2026-08-03 16:39:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Financial Conduct Authority says it will exempt reporting requirements for 7 million financial instruments, saving firms about £32 million annually."
+    },
+    {
+      "id": "5022055",
+      "time": "2026-08-03 16:38:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星源材質：子公司鼎源精密增資9900萬元，公司持股降至45%】星源材質公告稱，為促進全資子公司鼎源精密發展，擬透過增資擴股引入曾濤、武國彪等投資者，增資金額9900萬元。其中，公司部分放棄優先認繳權，增資4400萬元，持股比例由100%降至45%；曾濤等6位投資者增資5500萬元。增資後，鼎源精密註冊資本由100萬元增至1億元。因公司與各股東簽有《一致行動人協議》，鼎源精密仍納入公司合併報表。此次交易不構成關聯及重大資產重組，無需審議。"
+    },
+    {
+      "id": "5022054",
+      "time": "2026-08-03 16:38:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江淮汽車：截至7月31日累計回購股份212.07萬股 耗資5000.70萬元】江淮汽車公告稱，公司擬以5000萬元-10000萬元自有資金回購股份並登出以減少註冊資本，回購價不超64元/股，實施期限為2026年7月1日至9月30日。截至7月31日，公司已累計回購股份212.07萬股，佔總股本的0.0941%，成交最高價26.19元/股，最低價21.40元/股，支付總金額5000.70萬元（不含交易費用）。"
+    },
+    {
+      "id": "mkt:019fc6c6-54b3-7aab-8f52-e9683416b3f1",
+      "time": "2026-08-03 16:38:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China State Planner, National Energy Administration issue plan to improve rules for new power-market participants】China State Planner and the National Energy Administration issued the 15th Five-Year Plan for New Power System Construction, proposing a '1+N' basic-rule framework for the power market and tighter alignment of national and local rules. The plan aims to broaden participation by new market entities, normalize cross-grid trading and gradually reduce proxy (agency) power procurement. It calls for improved ancillary services markets and exploration of a capacity market, deeper electricity price reform and market-based pricing for hydro, nuclear and gas generation. The plan proposes exploring two-part or single-capacity transmission pricing for cross-provincial special projects, implementing price mechanisms to support nearby consumption of renewables, refining transmission-and-distribution tariff incentives and constraints to steer grid investment, studying pricing for offshore wind evacuation, and optimizing residential tiered tariffs while promoting residential time-of-use pricing."
+    },
+    {
+      "id": "5022053",
+      "time": "2026-08-03 16:38:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：強化電力行業“人工智慧+”基礎理論研究與應用】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，加強電力行業資料資源開發利用，統籌推進人工智慧賦能新型電力系統建設，推動電力行業全環節、全流程的數字化、智慧化升級。強化電力行業“人工智慧+”基礎理論研究與應用，圍繞典型應用場景開展試點，打造一批可複製、可推廣的標杆案例。"
+    },
+    {
+      "id": "5022052",
+      "time": "2026-08-03 16:38:25",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印尼財政部維持2026財年GDP增長預期在5.6%-6%之間。"
+    },
+    {
+      "id": "mkt:019fc6c5-eb0f-7aab-8f52-e7f29eaa3724",
+      "time": "2026-08-03 16:38:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Financial Conduct Authority (FCA) will shorten the window for correcting historical reporting errors from five years to three years."
+    },
+    {
+      "id": "mkt:019fc6c5-c1ca-7aab-8f52-d892c36d4078",
+      "time": "2026-08-03 16:37:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Financial Conduct Authority (FCA) said new transaction reporting rules will take effect on 3 April 2028."
+    },
+    {
+      "id": "mkt:019fc6c5-ab9a-7aab-8f52-d32ad36e3e43",
+      "time": "2026-08-03 16:37:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【CHINA STATE PLANNER, National Energy Administration target ~110 GW nuclear capacity by 2030】CHINA STATE PLANNER and the National Energy Administration issued the New Power System Construction 15th Five-Year Plan, targeting about 110 GW of nuclear capacity by 2030 and roughly 65 GW of combined biomass, concentrated solar (CSP), geothermal and ocean power capacity. The plan calls for defining coastal nuclear-base layouts and construction sequencing, scaling nuclear builds, advancing R&D, demonstration and deployment of next‑generation nuclear technologies, lowering small modular reactor (SMR) costs, promoting nuclear cogeneration and commercial-model innovation, and accelerating large-scale CSP, regionally tailored biomass and geothermal projects and marine-energy utilization."
+    },
+    {
+      "id": "5022051",
+      "time": "2026-08-03 16:37:48",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【兩部門：增強電力供應保障能力，滿足各類算力設施高可靠供電需要】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，增強電力供應保障能力，滿足各類算力設施高可靠供電需要。統籌能源資源配置與算力設施建設，協同規劃佈局算力、電力專案，做到以電強算、以算促電。依託算力設施發展源網荷儲一體化、綠電直連等新模式，實現綠電聚合交易、就地消納，提高算力設施綠電佔比。加強算力設施餘熱資源回收利用。"
+    },
+    {
+      "id": "mkt:019fc6c5-8bee-7aab-8f52-cf6d9d5c9358",
+      "time": "2026-08-03 16:37:42",
+      "tags": [
+        "MKT News",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "The UK's Financial Conduct Authority has finalised rules that will cut firms' transaction-reporting costs by more than £100 million a year."
+    },
+    {
+      "id": "5022050",
+      "time": "2026-08-03 16:37:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：到2030年，西電東送規模超過4.2億千瓦】國家發展改革委、國家能源局印發《新型電力系統建設“十五五”規劃》。其中提出，著力推動電力流向佈局最佳化。推動存量直流輸電通道改造升級。落實國家區域發展戰略和全國電力流向最佳化佈局總體方案，逐步形成東北、中北、西北“沙戈荒”基地群和西南水風光一體化基地群向東中部、川渝和南方負荷中心地區送電，海上風電基地和沿海核電基地就近消納的電力流向總體格局。加快推動“十四五”時期已納規輸電通道盡早建成投運。到2030年，西電東送規模超過4.2億千瓦。開展“沙戈荒”等100%新能源外送輸電工程試點。"
+    },
+    {
+      "id": "5022049",
+      "time": "2026-08-03 16:37:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：推動電力與交通融合發展】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，推動電力與交通基礎設施共享通道、管廊、杆塔等資源，依託周邊用地開發新能源，最佳化配置靈活調節資源，協同佈局輸電網路。有序推動交通運輸電氣化和低碳化轉型，發展依託新能源的岸電系統和港口微電網。"
+    },
+    {
+      "id": "mkt:019fc6c5-246b-7aab-8f52-c51d1e9af927",
+      "time": "2026-08-03 16:37:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS Global Wealth Management downgraded South Korea equities from Attractive to Neutral."
+    },
+    {
+      "id": "mkt:019fc6c5-0728-7aab-8f52-b81e8df2951b",
+      "time": "2026-08-03 16:37:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "Impact mixed",
+        "SSE Composite"
+      ],
+      "text": "【China state planner and National Energy Administration target about 410 GW of conventional hydropower by 2030】China's state planner and the National Energy Administration issued the 15th Five-Year plan for building a new-type power system, directing commissioning of hydropower projects in key basins including the upper Jinsha, upper Lancang, middle Yalong and Dadu rivers, and calling for safe, orderly advancement of major works on the lower Yarlung Tsangpo. The plan seeks to strengthen hydropower's peaking, regulation and stability roles and to widen dispatchable and flexible output, targeting roughly 410 GW of conventional hydropower installed capacity by 2030."
+    },
+    {
+      "id": "5022048",
+      "time": "2026-08-03 16:36:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南大理州洱源縣發生3.2級地震 震源深度7公里】中國地震臺網正式測定：8月3日16時25分，在雲南大理州洱源縣（北緯26.13度，東經99.86度）發生3.2級地震，震源深度7公里。（央視新聞）"
+    },
+    {
+      "id": "5022047",
+      "time": "2026-08-03 16:36:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：完善新型主體參與電力市場的制度】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，健全“1+N”電力市場基礎規則體系。強化地方規則與國家規則的對接和統一。完善新型主體參與電力市場的制度。持續完善跨電網經營區常態化交易。逐步縮小代理購電規模。完善輔助服務市場機制，探索容量市場機制建設。深化電力價格機制改革。推進水電、核電、氣電上網電價市場化改革。探索跨省區專項工程實行兩部制或單一容量制輸電價格。落實支援新能源就近消納的價格機制。完善輸配電價對電網投資激勵約束機制。研究海上風電送出工程相關價格機制。最佳化居民階梯電價制度，推廣居民分時電價機制。"
+    },
+    {
+      "id": "5022046",
+      "time": "2026-08-03 16:36:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【歐足聯：將就國際足聯商業計劃採取法律行動】歐足聯當地時間8月3日表示，將就國際足聯此前擬出售世界盃等賽事商業權益部分股權的改革計劃採取法律行動。國際足聯主席因凡蒂諾已於日前宣佈擱置該計劃，但圍繞該計劃的爭議仍在持續。 (央視新聞)"
+    },
+    {
+      "id": "mkt:019fc6c4-83f9-7aab-8f52-b5ad7a3a8ffa",
+      "time": "2026-08-03 16:36:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Russia's Foreign Intelligence Service (SVR) says the EU plans to let Kyiv participate in European security policy discussions but without voting rights."
+    },
+    {
+      "id": "5022045",
+      "time": "2026-08-03 16:36:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家發改委兩部門：到2030年新型電力系統初步建成，非化石能源發電量佔比達到50%】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，到2030年，新型電力系統初步建成：綠色低碳的電力供給格局基本形成，非化石能源發電量佔比達到50%；電力供應能力持續增強，電力系統互補互濟和安全韌性水平大幅提升，電力供應充裕度保持合理水平，有效滿足經濟社會發展和人民群眾美好生活的用電需要；初步建成安全可靠、綠色低碳、堅強韌性、智慧靈活的新型電網，資源配置平臺作用和服務功能充分發揮，實現28億千瓦以上新能源高水平消納，建成可支撐超過1.1億輛電動汽車出行的充電基礎設施網路。新型電力系統體制機制更加完善，全國統一電力市場體系基本建成。"
+    },
+    {
+      "id": "mkt:019fc6c4-0393-7aab-8f52-adf47f1a025f",
+      "time": "2026-08-03 16:36:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【CHINA STATE PLANNER, National Energy Administration set 2030 new power system plan; 50% non-fossil generation target】CHINA STATE PLANNER and the National Energy Administration issued a plan to preliminarily build a new power system by 2030, targeting non‑fossil sources to supply 50% of electricity generation. The plan calls for a secure, low‑carbon, resilient and smart grid, stronger supply capacity and improved system flexibility to keep power adequacy at reasonable levels for economic and social needs. It aims to enable high‑level integration and utilization of renewables—accommodating more than 2.8 billion kW (≈2,800 GW) of new energy capacity—and to build charging infrastructure to support over 110 million electric vehicles. Institutional reforms include more complete system mechanisms and the basic establishment of a nationwide unified electricity market."
+    },
+    {
+      "id": "5022044",
+      "time": "2026-08-03 16:35:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新型電力系統建設“十五五”規劃：積極安全有序發展核電 到2030年核電裝機約1.1億千瓦】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，積極安全有序發展核電，科學確定沿海核電基地佈局和建設時序。推動核電規模化建設，積極推進新一代核電技術研發示範和推廣應用。多措並舉降低小型堆成本，加強核能綜合利用和商業模式創新。到2030年，核電裝機約1.1億千瓦。"
+    },
+    {
+      "id": "mkt:019fc6c3-8192-7aab-8f52-a2b8847c2c22",
+      "time": "2026-08-03 16:35:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Russia's foreign intelligence service (SVR) says European leaders are explicitly denying the prospect of Ukraine joining the EU, citing concerns that Ukrainian integration would impose excessive economic and political risks on a \"unified Europe\"."
+    },
+    {
+      "id": "5022043",
+      "time": "2026-08-03 16:34:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局：將歷史報告錯誤更正期限從5年縮短至3年。"
+    },
+    {
+      "id": "5022042",
+      "time": "2026-08-03 16:34:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮昌生物：累計回購13000股，支付142.82萬元】榮昌生物公告，公司於2026年7月19日審議透過回購方案，擬以不低於2500萬元且不超過5000萬元回購股份，用於員工持股計劃或股權激勵，回購價格不超過149元/股。截至2026年7月31日，公司累計回購股份13000股，佔總股本比例0.0023%，成交最高價109.99元/股，最低價109元/股，支付資金總額142.82萬元（不含交易費用）。"
+    },
+    {
+      "id": "5022041",
+      "time": "2026-08-03 16:34:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【姚記科技：截至7月底累計回購1999.77萬元股份】姚記科技公告稱，公司於2026年5月21日經2025年年度股東會審議透過回購股份方案，擬以3000萬-5000萬元回購股份用於登出並減少註冊資本。截至2026年7月31日，公司累計回購股份106.58萬股，約佔總股本的0.26%，最高成交價為20.39元/股，最低成交價為17.84元/股，成交總金額為1999.77萬元（不含交易費用）。後續將繼續實施回購方案並及時披露。"
+    },
+    {
+      "id": "5022040",
+      "time": "2026-08-03 16:34:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【海利得：截至7月底累計耗資1.06億元回購1.75%股份】海利得公告稱，公司於2026年6月1日透過以集中競價交易方式回購股份方案，回購總額不低於1.5億元（含）且不超過3億元（含）。截至7月31日收盤，公司累計回購股份2031.92萬股，佔公司目前總股本的1.75%，成交金額為1.06億元（不含交易費用），最高成交價為5.51元/股，最低成交價為5.08元/股。後續將根據市場情況擇機實施回購計劃。"
+    },
+    {
+      "id": "5022039",
+      "time": "2026-08-03 16:34:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【比依股份：擬500萬元認購私募基金3.33%份額】比依股份公告稱，公司擬以自有資金500萬元認購廈門星奇明圖創業投資合夥企業有限合夥份額，佔比3.3333%。該合夥企業主要對新興領域創業企業進行股權投資，基金規模1.5億元。本次交易不構成關聯交易和重大資產重組，已透過公司總經辦會議審議。不過，相關協議尚未簽署，合夥企業需完成備案，且投資存在無法達預期等風險，公司風險敞口不超500萬元。"
+    },
+    {
+      "id": "5022038",
+      "time": "2026-08-03 16:34:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞銀環球財富管理將韓國股票評級從“看好”下調至“中性”。"
+    },
+    {
+      "id": "5022037",
+      "time": "2026-08-03 16:34:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "日產維持本財年匯率假設：1 美元兌 150 日元。"
+    },
+    {
+      "id": "mkt:019fc6c2-157f-7aab-8f52-9f68988c58d5",
+      "time": "2026-08-03 16:33:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "China's National Development and Reform Commission and National Energy Administration released the 15th Five-Year Plan for New Power System Construction."
+    },
+    {
+      "id": "5022036",
+      "time": "2026-08-03 16:33:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局最終敲定新規，每年可為企業削減逾1億英鎊的交易報告成本。"
+    },
+    {
+      "id": "5022035",
+      "time": "2026-08-03 16:33:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽特新材：累計斥資5001.58萬元回購1.23%股份】賽特新材公告稱，公司2026年7月6日至7月21日，以集中競價交易方式累計回購股份207萬股，佔總股本1.23%，成交最高價25.63元/股、最低價18.59元/股，已支付總金額5001.58萬元（不含交易費用）。本次回購用於員工持股計劃或股權激勵，期限自2026年6月22日至2027年6月15日，擬回購資金5000萬元至10000萬元。"
+    },
+    {
+      "id": "mkt:019fc6c1-8252-7aab-8f52-969ecfd78655",
+      "time": "2026-08-03 16:33:18",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bearish"
+      ],
+      "text": "Micron Technology (MU.O) shares down 1.5% in pre-market trading."
+    },
+    {
+      "id": "5022034",
+      "time": "2026-08-03 16:33:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "美光科技股價盤前階段最新下跌1.5%。"
+    },
     {
       "id": "5022033",
       "time": "2026-08-03 16:32:44",
@@ -53,6 +562,15 @@
         "其他"
       ],
       "text": "國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，到2030年，新型電力系統初步建成：綠色低碳的電力供給格局基本形成，非化石能源發電量佔比達到50%；電力供應能力持續增強，電力系統互補互濟和安全韌性水平大幅提升，電力供應充裕度保持合理水平，有效滿足經濟社會發展和人民群眾美好生活的用電需要；初步建成安全可靠、綠色低碳、堅強韌性、智慧靈活的新型電網，資源配置平臺作用和服務功能充分發揮，實現28億千瓦。"
+    },
+    {
+      "id": "em:jjsj_ygsj:202608033829805341",
+      "time": "2026-08-03 16:31:50",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "【英國7月製造業採購經理指數報51.9】標普全球8月3日釋出資料顯示，英國7月製造業採購經理指數報51.9。"
     },
     {
       "id": "5022028",
@@ -165661,334 +166179,6 @@
         "公司"
       ],
       "text": "【東山精密：首次以2294.15萬元回購11.5萬股股份】東山精密公告稱，公司於2026年7月20日透過回購股份方案，擬以2 - 3億元，不超367.04元/股的價格回購股份用於員工持股計劃或股權激勵。7月27日，公司首次以集中競價方式回購11.5萬股，佔總股本0.00628%，最高成交價200.60元/股，最低成交價199.06元/股，成交總額2294.15萬元。公司將按規定及方案擇機回購並及時披露。"
-    },
-    {
-      "id": "5009776",
-      "time": "2026-07-27 16:43:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【香港證監會對興證國際資產管理有限公司處以罰款680萬港元】據香港證監會，興證國際資管因未能妥善識別並處理可疑安排中的預警跡象及在管理私人基金方面犯有其他缺失，遭香港證監會譴責及罰款680萬元。"
-    },
-    {
-      "id": "mkt:019fa2be-98c3-7aab-8ea9-57737202c485",
-      "time": "2026-07-27 16:43:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【1H 2026 Shanghai broker branches' Shanghai-Shenzhen A-share trading volume rises 128.4%】Shanghai Securities Association on July 27 reported that as of end-1H 2026 there were 834 securities broker branches in Shanghai. Shanghai-region Shanghai-Shenzhen A-share trading volume was 109.53 tln yuan, up 128.4% YoY; the largest branch traded 10.14 tln yuan and 14 branches exceeded 1 tln yuan. Nationwide Shanghai-Shenzhen A-share volume was 314.95 tln yuan, with Shanghai accounting for 34.78% of the total, up 4.66 percentage points YoY. Client assets at Shanghai broker branches totaled 16.79 tln yuan, up 32.7% YoY; the largest branch held 1.46 tln yuan (8.7%). Shanghai branches opened 3.68 mln new funded accounts in 1H, up 47.8% YoY; the top branch added 1.11 mln accounts."
-    },
-    {
-      "id": "mkt:019fa2be-6ef2-7aab-8ea9-48ccb2027bb0",
-      "time": "2026-07-27 16:43:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "India's Nifty 50 extended gains, rising 1%."
-    },
-    {
-      "id": "5009775",
-      "time": "2026-07-27 16:43:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【聯瑞新材：“聯瑞轉債”預計滿足贖回條件】聯瑞新材公告稱，公司股票自2026年7月14日至7月27日已有10個交易日的收盤價格不低於當期轉股價格的130%（即81.97元/股）。若未來連續20個交易日內，有5個交易日的收盤價格不低於當期轉股價的130%，將觸發“聯瑞轉債”有條件贖回條款。若觸發，公司將召開董事會審議是否贖回全部或部分未轉股的“聯瑞轉債”，並及時披露。提醒投資者關注相關風險。"
-    },
-    {
-      "id": "mkt:019fa2be-2f21-7aab-8ea9-411d4efb70a6",
-      "time": "2026-07-27 16:43:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude fell below $86/bbl for the first time since July 20, down 7.71% intraday."
-    },
-    {
-      "id": "5009774",
-      "time": "2026-07-27 16:43:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度NIFTY 50指數<.NSEI>擴大漲幅，最新上漲1%。"
-    },
-    {
-      "id": "5009773",
-      "time": "2026-07-27 16:42:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大唐電信：2026年第三次臨時股東會順利召開】大唐電信公告稱，公司2026年第三次臨時股東會於7月27日下午14時採用現場投票與網路投票相結合的方式召開，地點為北京市海淀區永嘉北路6號公司201會議室，由董事、總經理冉會娟代行董事長職責主持。參加會議的有表決權的股東和代理人共935人，代表股份647,087,493股，佔公司有表決權股份總數的49.6383%。會議審議透過了全部1項議案，召集、召開程式及表決結果均符合相關規定。"
-    },
-    {
-      "id": "5009772",
-      "time": "2026-07-27 16:42:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【龍旗科技：7月27日回購46.05萬股用於股權激勵等】龍旗科技公告稱，2026年7月27日，公司回購A股460,500股用於股權激勵計劃及/或員工持股計劃，佔有關事件前的現有已發行股份（不包括庫存股份）數目百分比為0.0985%，每股回購價36.57元，付出的價格總額為1683.97萬元。截至7月27日，公司已發行股份總數為470,331,544股。"
-    },
-    {
-      "id": "mkt:019fa2bd-85f8-7aab-8ea9-388386f229dc",
-      "time": "2026-07-27 16:42:37",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "LG Electronics plans to seek NVIDIA certification for its 1MW, 2.5MW and 4MW CDU products."
-    },
-    {
-      "id": "5009771",
-      "time": "2026-07-27 16:42:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海地區券商分支機構2026年上半年新增賬戶同比增近五成】據上海市證券同業公會訊息，2026年上半年上海地區券商分支機構新增資金賬戶數368萬戶，同比上升47.8%。新增資金賬戶數最高的一家分支機構達111萬戶，期末融資融券賬戶數為76.3萬戶，同比提升9.6%。截至2026年上半年末，上海地區證券經紀業務分支機構共計834家，含分公司110家，營業部724家，上半年營業收入（含佣金收入、利息）為252.69億元，同比上升70.2%。其中，上海地區分支機構期末客戶資產總額為16.79萬億元，同比上升32.7%，資產總額最大的分支機構數達到1.46萬億元，佔比8.7%。"
-    },
-    {
-      "id": "5009770",
-      "time": "2026-07-27 16:41:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆瑞醫藥：子公司5款藥物獲臨床試驗批准通知書】恆瑞醫藥公告稱，子公司蘇州盛迪亞生物醫藥有限公司、上海盛迪醫藥有限公司收到國家藥監局核准簽發關於SHR - 4610注射液等5款藥物的《藥物臨床試驗批准通知書》，將於近期開展臨床試驗。其中，注射用瑞康曲妥珠單抗已在國內獲批兩項適應症。截至目前，5款藥物相關專案累計研發投入分別約為1360萬元、1.57億元、3.30億元、21.44億元、4.71億元。藥品研發上市週期長、環節多，存在不確定性。"
-    },
-    {
-      "id": "mkt:019fa2bc-bcb4-7aab-8ea9-36bc1a9245d3",
-      "time": "2026-07-27 16:41:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "The National Development and Reform Commission (NDRC) will hold a press conference on China–Europe freight trains at 10:00am on July 28 (Beijing time)."
-    },
-    {
-      "id": "5009769",
-      "time": "2026-07-27 16:41:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【華友鈷業：完成10億元2026年度第九期超短期融資券發行】華友鈷業公告稱，公司近日完成2026年度第九期超短期融資券（26華友鈷業SCP009）發行，發行額10億元，期限270天，單位面值100元，發行利率1.82%。本期債券由渤海銀行等7家銀行主承銷，在全國銀行間債券市場公開發行，募集資金用於償還公司有息負債。"
-    },
-    {
-      "id": "5009768",
-      "time": "2026-07-27 16:41:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【恆瑞醫藥：產品SHR - 4375注射液獲美國FDA孤兒藥資格認定】恆瑞醫藥公告稱，公司產品SHR - 4375注射液用於治療胰腺癌適應症獲美國FDA授予的孤兒藥資格認定。該注射液是公司自主研發的抗體藥物偶聯物，國內臨床試驗已推進至Ⅱ期階段，相關專案累計研發投入約5870萬元。獲認定後有望加快臨床試驗及上市註冊進度，還可享政策支援，但後續能否獲批上市及時間有不確定性，提醒投資者注意風險。"
-    },
-    {
-      "id": "5009767",
-      "time": "2026-07-27 16:41:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "LG電子：計劃為1兆瓦、2.5兆瓦和4兆瓦CDU型號獲取英偉達認證。"
-    },
-    {
-      "id": "5009766",
-      "time": "2026-07-27 16:41:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及交通部長：埃及航空與敘利亞航空正洽談開通直飛航線。"
-    },
-    {
-      "id": "5009765",
-      "time": "2026-07-27 16:40:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華測導航：董事、總經理增持3217.09萬元公司股份】華測導航公告稱，公司董事、總經理樸東國於2026年6月2日至7月24日，以集中競價交易方式累計增持公司股份115萬股，佔公司總股本的0.1448%，增持總金額3217.09萬元，本次增持計劃已實施完畢。增持前，樸東國直接持股1376.91萬股，佔比1.7498%；增持後，直接持股1491.91萬股，佔比1.8791%。本次增持不會導致公司股權分佈不符合上市條件，也不會使控股股東及實際控制人發生變化。"
-    },
-    {
-      "id": "5009764",
-      "time": "2026-07-27 16:39:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【珂瑪科技：為子公司蘇州鎧欣提供1000萬元擔保】珂瑪科技公告稱，公司於2026年4月和5月分別透過議案，同意在2026年度為控股子公司蘇州鎧欣提供1.20億元預計擔保額度。近日，公司與寧波銀行蘇州分行簽訂《最高額保證合同》，為蘇州鎧欣融資提供1000萬元保證擔保。截至公告披露日，公司及其控股子公司經審議批准的處於有效期內的擔保額度總金額為2.50億元，佔公司最近一期經審計淨資產的14.07%；擔保餘額為1.10億元，佔比6.19%。"
-    },
-    {
-      "id": "5009763",
-      "time": "2026-07-27 16:39:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中晟高科：控股股東擬6個月內增持不超3000萬元股份】中晟高科公告稱，公司控股股東福州千景計劃自公告披露日起6個月內，透過深交所交易系統允許的方式增持公司股份，金額不低於3000萬元（含），且增持股份數量不超公司總股本的5%（不含）。截至公告披露日，福州千景直接持股佔總股本的22.35%。本次增持計劃可能因市場、股價、資金等因素延遲或無法實施，公司將及時披露。"
-    },
-    {
-      "id": "5009762",
-      "time": "2026-07-27 16:39:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深高速：成功發行10億元2026年度第一期超短期融資券】深高速公告稱，公司於2026年7月24日發行2026年度第一期超短期融資券，期限270天，起息日為7月27日，兌付日為2027年4月23日。計劃和實際發行總額均為10億元，發行利率1.41%，發行價格100元/百元面值。簿記管理人及主承銷商為中信銀行，聯席主承銷商為興業銀行。相關檔案已在上海清算所網站和中國貨幣網披露。"
-    },
-    {
-      "id": "5009761",
-      "time": "2026-07-27 16:38:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【騰龍股份：控股股東騰龍科技已減持2.19%】騰龍股份公告，控股股東騰龍科技提前結束減持計劃，2026年5月21日至2026年7月27日期間透過集中競價方式減持94.5萬股，透過大宗交易方式減持977.84萬股，合計減持1072.34萬股，佔公司總股本的2.19%。本次權益變動後，騰龍科技持股由1.34億股減少至1.23億股，持股比例由27.26%減少至25.07%。"
-    },
-    {
-      "id": "te:economy:570057",
-      "time": "2026-07-27 16:38:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Armenia",
-        "Balance of Trade",
-        "Importance 0"
-      ],
-      "text": "Armenia Trade Deficit Largest Since 2003 — Armenia's trade deficit widened to USD 540.2 million in June 2026 from USD 273.4 million in the same month of the previous year. It marked the largest trade shortfall since records began in January 2023, as imports rose 8.6% year-on-year to a four-month high of USD 1,096.9 million, while exports slumped 20.5% from a year earlier to USD 556.7 million. For the first half of 2026, the country's trade deficit expanded to USD 2.71 billion as exports declined 6.7% from a year earlier to USD 3.43 billion, while imports increased 4.0% to USD 6.14 billion."
-    },
-    {
-      "id": "5009760",
-      "time": "2026-07-27 16:38:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST萬邦：子公司藥品舒必利片獲《藥品註冊證書》】ST萬邦公告稱，公司全資子公司萬邦德製藥近日收到國家藥監局核准簽發的舒必利片《藥品註冊證書》，規格為0.1g，註冊分類為化學藥品3類。該藥品獲此證書視同透過仿製藥質量和療效一致性評價，屬醫保和基藥目錄品種，用於治療精神分裂症等。此次獲批豐富了公司抗精神疾病用藥產品線，加強了原料藥+製劑一體化模式優勢，但藥品產銷受政策和市場影響，存在不確定性。"
-    },
-    {
-      "id": "5009759",
-      "time": "2026-07-27 16:38:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雲天化：全資子公司擬投資18.57億元建高階共聚甲醛樹脂專案】雲天化公告稱，公司全資子公司天聚新材擬在重慶市長壽區經開區投資18.57億元建設10萬噸/年高階共聚甲醛樹脂專案。天聚新材以自有資金投入5.57億元，其餘透過銀行貸款等解決。該專案預計2026年12月開工，預計投資收益率11.82%。專案目前處於籌備階段，實施存在建設進度及收益不及預期、資金保障、工藝技術等風險。"
-    },
-    {
-      "id": "5009758",
-      "time": "2026-07-27 16:37:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【魯抗醫藥：全資子公司完成工商變更登記 名稱變更為魯抗生物製造】魯抗醫藥公告稱，公司全資子公司山東魯抗和成製藥有限公司因經營發展需要，對名稱和經營範圍進行變更。近日，該子公司已完成工商變更登記，名稱變為山東魯抗生物製造有限公司，註冊資本5200萬元，法定代表人為何德鋒。"
-    },
-    {
-      "id": "5009757",
-      "time": "2026-07-27 16:37:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中央商場：控股子公司蘇州中商置地申請破產清算】中央商場公告稱，7月27日公司第十屆董事會第十四次會議透過議案，同意控股子公司蘇州中商置地向法院申請破產清算，授權管理層辦理相關事宜。蘇州中商置地長期無實際經營，已資不抵債。截至2026年6月30日，總資產4.57萬元，淨資產-14649.75萬元，上半年營收0元，淨虧損234.99萬元。若法院受理，公司將喪失其控制權，不再納入合併報表，預計為當期合併報表帶來利潤，具體以審計結果為準。申請能否受理及清算程序存在不確定性。"
-    },
-    {
-      "id": "5009756",
-      "time": "2026-07-27 16:37:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【吉祥航空：控股股東均瑤集團質押767萬股股份】吉祥航空公告稱，公司控股股東均瑤集團近日將767萬股公司股份質押給華夏銀行上海分行，佔其所持股份的0.80%，佔公司總股本的0.35%，質押期限自2026年7月24日至2027年7月26日，用於為均瑤集團的債務提供履約擔保。截至公告披露日，均瑤集團及其一致行動人累計質押股份77,577萬股，佔合計所持公司股份的78.25%，佔公司總股本的35.77%。目前質押風險可控，不存在平倉風險。"
-    },
-    {
-      "id": "5009754",
-      "time": "2026-07-27 16:36:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【我愛我家：控股股東部分股份質押及解除質押】我愛我家公告稱，近日，控股股東西藏太和先機投資管理有限公司將3000萬股質押給華夏銀行股份有限公司綿陽分行，佔其所持股份比例7.30%，佔公司總股本比例1.27%；解除質押1500萬股，佔其所持股份比例3.65%，佔公司總股本比例0.64%。截至公告披露日，太和先機及其一致行動人、實際控制人謝勇累計質押2.38億股，佔合計所持股份的55.86%，佔公司總股本的10.10%。控股股東未來一年內到期質押股份佔合計所持股份的48.82%。"
-    },
-    {
-      "id": "5009753",
-      "time": "2026-07-27 16:36:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【邦基科技：聘任張洪超等人為公司高階管理人員、證券事務代表】邦基科技公告稱，公司於2026年7月27日召開第三屆董事會第二次會議，審議透過聘任張洪超為總經理，初雪濤、朱冠旭為副總經理，羅曉為財務負責人，徐銘晗為證券事務代表，任期至第三屆董事會任期屆滿。張洪超、羅曉、徐銘晗分別直接持有公司股票8萬股、4萬股、500股，佔比0.05%、0.02%。朱冠旭與公司董事朱儁波為父子關係，其餘人員與公司其他董監高及持股5%以上股東無關聯關係。"
-    },
-    {
-      "id": "mkt:019fa2b7-9d4b-7aab-8ea9-2eb02adfec3a",
-      "time": "2026-07-27 16:36:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "9984.T",
-        "Impact bullish",
-        "BX.O",
-        "Impact bearish"
-      ],
-      "text": "SoftBank is reportedly close to reaching a deal to acquire SP.LINKS, the Japanese payments company owned by Blackstone."
-    },
-    {
-      "id": "5009752",
-      "time": "2026-07-27 16:36:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【我愛我家：控股股東部分股份質押及解除質押】我愛我家公告稱，近日，控股股東西藏太和先機投資管理有限公司將3000萬股質押給華夏銀行股份有限公司綿陽分行，佔其所持股份比例7.30%，佔公司總股本比例1.27%；解除質押1500萬股，佔其所持股份比例3.65%，佔公司總股本比例0.64%。截至公告披露日，太和先機及其一致行動人、實際控制人謝勇累計質押2.38億股，佔合計所持股份的55.86%，佔公司總股本的10.10%。控股股東未來一年內到期質押股份佔合計所持股份的48.82%。"
-    },
-    {
-      "id": "5009751",
-      "time": "2026-07-27 16:35:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【隆基與DHL簽署戰略合作諒解備忘錄】近日，隆基與DHL集團正式簽署戰略合作諒解備忘錄（MOU），確立長期深度戰略伙伴關係。根據備忘錄約定，雙方劃定四大核心合作方向：1、落地建築光伏一體化應用，優先在DHL歐洲物流園區、辦公建築落地隆基新一代BIPV產品。該產品搭載高效背接觸核心技術，可最大化挖掘大型商業建築屋頂發電潛力，保障電站長期穩定執行；2、聯合研發適配物流園區場景的光儲一體化成套解決方案；3、共同探索綠色氫能等前沿清潔能源技術，設立聯合創新試點，在DHL全球設施優先落地測試隆基光伏、儲能創新產品；4、建立高層常態化溝通機制，定期覆盤專案落地成效，挖掘全球市場新增量。（介面新聞）"
-    },
-    {
-      "id": "5009750",
-      "time": "2026-07-27 16:35:43",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：華夏基金上半年淨利潤14.13億元】中信證券公告，公司控股子公司華夏基金管理有限公司的股東Mackenzie Financial Corporation持有華夏基金27.8%股權。截至2026年6月30日，華夏基金總資產人民幣230.93億元，總負債人民幣77.28億元；2026年上半年實現營業收入人民幣57.08億元，淨利潤人民幣14.13億元，綜合收益總額人民幣13.68億元。截至2026年6月30日，華夏基金母公司管理資產規模為人民幣29079.98億元。"
-    },
-    {
-      "id": "5009749",
-      "time": "2026-07-27 16:35:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【老鋪黃金：預計上半年淨利潤同比增長約83%至85%】老鋪黃金：預計2026年上半年實現銷售業績（含稅收入）約人民幣227億元至人民幣233.5億元，同比增長約60%至65%；非國際財務報告準則計量經調整淨利潤約人民幣43.1億元至人民幣43.6億元，同比增長約83%至85%。"
-    },
-    {
-      "id": "5009748",
-      "time": "2026-07-27 16:34:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華南最大綜合性自然博物館明日開館 7461件珍貴標本展出】明天（7月28日），華南規模最大的綜合性自然博物館——深圳自然博物館將正式開館，為深圳建設世界級觀光旅遊和休閒度假目的地城市再添一張文化新名片。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fa2b5-e1ae-7aab-8ea9-268937c81c57",
-      "time": "2026-07-27 16:34:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【Analyst: market may be 'overly complacent' on aluminium supply risk】Concord Resources research director Duncan Hobbs said the aluminium market is far larger than 25 years ago, leaving current LME inventories extremely low relative to market size. LME aluminium on-warrants were 245,350 tonnes on July 24, the lowest since April 2025. Hobbs warned the market may be \"overly complacent\" about supply risk despite forecasts of a 2027–28 surplus; ongoing Strait of Hormuz disruptions are hampering Gulf smelters' imports of feedstock and exports of metal."
     }
   ]
 }

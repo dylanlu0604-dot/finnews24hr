@@ -1,7 +1,516 @@
 {
   "date": "2026-08-03",
-  "count": 1488,
+  "count": 1546,
   "items": [
+    {
+      "id": "5022070",
+      "time": "2026-08-03 16:43:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：激發用電側協同互動能力】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，完善管理制度、排程體系、市場機制和技術標準，做實做細負荷管理措施，充分發揮市場作用，引導分散式電源、可調節負荷、電動汽車充電基礎設施等各類分散資源聚合參與電力削峰和填谷，提升用電側協同互動能力。到 2030 年，全國需求側削峰能力超過1億千瓦。"
+    },
+    {
+      "id": "5022069",
+      "time": "2026-08-03 16:42:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：佈局一批可承擔頂峰保供作用的電網側獨立新型儲能電站】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，佈局一批可承擔頂峰保供作用的電網側獨立新型儲能電站。加大構網型等技術應用，充分釋放新型儲能調峰、調頻、調壓、事故備用、爬坡、黑啟動等多重效能。“十五五”時期，全國新增可承擔頂峰保供作用的電網側獨立新型儲能約8000 萬千瓦，等效頂峰時長力爭達到 4 小時。到 2030 年，可承擔頂峰保供作用的電網側獨立新型儲能達到 1.4 億千瓦。"
+    },
+    {
+      "id": "mkt:019fc6c9-f7a7-7aab-8f53-2c2f2e3218b7",
+      "time": "2026-08-03 16:42:32",
+      "tags": [
+        "MKT News",
+        "7201.T"
+      ],
+      "text": "Nissan CFO said first-quarter vehicle sales were broadly flat and, given global competition and Middle East tensions, the result was steady."
+    },
+    {
+      "id": "mkt:019fc6c9-d83f-7aab-8f53-23937c1c5e3f",
+      "time": "2026-08-03 16:42:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Securities Association revises liquidity guidelines to tighten cross‑border and multi‑currency controls for brokers】The China Securities Association has published a draft revision of the Securities Company Liquidity Risk Management Guidelines for industry comment. The draft clarifies responsibility boundaries and tightens management obligations, with a focus on high‑complexity areas. The chapter on identification, assessment, monitoring, response and reporting adds explicit requirements for liquidity buffers, governance of cross‑border business and overseas subsidiaries, and cross‑currency liquidity risk management."
+    },
+    {
+      "id": "5022068",
+      "time": "2026-08-03 16:42:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "日產首席財務官萊昂迪斯表示：第一季度銷量幾乎持平，考慮到全球競爭局勢與中東局勢，這已是一份穩健的業績。"
+    },
+    {
+      "id": "5022067",
+      "time": "2026-08-03 16:42:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：加強電動汽車充電基礎設施網路建設】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，加快構建城市面狀、公路線狀、鄉村點狀佈局的充電基礎設施網路。推動高速公路服務區充電設施更新改造，打造有效滿足中長途出行需求的城際網路。提高快充設施佔比，有序推進大功率充電基礎設施建設，實現除海島、高寒高海拔地區外的農村（縣鄉）地區公共充電設施全覆蓋。"
+    },
+    {
+      "id": "5022066",
+      "time": "2026-08-03 16:41:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：夯實煤電兜底保障作用】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，持續最佳化煤電裝機結構。穩妥有序實施煤電機組關停工作。鼓勵利用關停煤電機組既有廠址、裝置設施實施新型儲能、調相機等改造建設。到 2030 年，60 萬千瓦等級及以上清潔高效煤電機組佔比提高 10 個百分點以上。合理控制煤電規模。嚴格落實國家碳達峰碳中和戰略和重點區域大氣汙染防治要求，實施新版火電建設標準，推動已納入規劃的煤電建成投產。"
+    },
+    {
+      "id": "5022065",
+      "time": "2026-08-03 16:41:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：構建智慧電力排程體系】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，持續最佳化排程機制，推動主配微網協同調控模式轉變和能力建設。探索“沙戈荒”基地、水風光一體化基地、電力新業態等協同執行控制新模式。健全併網技術標準與排程規範，加強電力排程與電力市場、電力需求側管理的銜接。強化各類併網執行主體的涉網和執行管理。適時修訂《電網排程管理條例》。加快先進數字資訊科技與先進排程控制技術融合應用，提升電網智慧調控和系統實時平衡能力，促進新能源消納。"
+    },
+    {
+      "id": "mkt:019fc6c9-39c7-7aab-8f53-1d9a8472897f",
+      "time": "2026-08-03 16:41:44",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【UK manufacturing PMI falls to four-month low】UK manufacturing PMI fell to 51.9 in July from 52.5 in June, marking a ninth consecutive month of expansion but the weakest pace in four months; the preliminary July reading was 52.8. S&P Global said the month-on-month decline reflected a sharp reduction in purchases and inventories, slower employment growth and a sharp deceleration in the pace of increases in supplier delivery times. The PMI output index rose to 52.9 from 52.6 — the broadest output expansion since September 2024 — but below the preliminary 53.6. Data suggested a renewed impact from developments in Iran."
+    },
+    {
+      "id": "mkt:019fc6c9-3961-7aab-8f53-15e1047d9c1e",
+      "time": "2026-08-03 16:41:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Palestinian news agency reported Israeli settler militias have established a new settler outpost on Palestinian land near the town of Sa'ir in southern Hebron, West Bank."
+    },
+    {
+      "id": "5022064",
+      "time": "2026-08-03 16:41:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：多場景建設智慧微電網】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，支援智慧微電網建設，與公共電網做好規劃銜接和調控協同。佈局建設一批源網荷儲協同的智慧微電網專案。完善相關技術標準和專案准入，明確智慧微電網與公共電網的物理邊界和責任邊界。提升智慧微電網新能源自發自用比例。"
+    },
+    {
+      "id": "5022063",
+      "time": "2026-08-03 16:41:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：打造堅強韌性配電系統】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，強化配電網規劃引領，推動配電網建設改造和智慧升級，加強市縣級配電網與新業態佈局規劃協同，升級配電網智慧調控體系。全面提升配電網供電保障能力，力爭實現單一通道縣域全停風險清零，著力解決配變過載、嚴重低電壓等供電質量問題。"
+    },
+    {
+      "id": "5022062",
+      "time": "2026-08-03 16:40:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：有序推進老舊小區、城中村等區域供配電設施規範化改造】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，加強城鎮配電網建設改造力度，有序推進老舊小區、城中村等區域供配電設施規範化改造，加快新建居民小區配套電網工程建設。推進非電網直供電小區治理，鼓勵具備條件的非直供電小區供電設施向供電企業整體移交。服務鄉村振興戰略實施，推動農村新型電網建設改造。支援縣域、民族地區、革命老區等特殊型別地區電力基礎設施建設。"
+    },
+    {
+      "id": "5022061",
+      "time": "2026-08-03 16:40:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：規劃建設海上輸電網路】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，開展海上輸電網路規劃研究，統籌資源條件和海洋經濟發展需求，集約化一體化佈局海纜廊道和登陸點，推動構建海上輸電網路，促進海上風電基地高效彙集送出和消納。"
+    },
+    {
+      "id": "5022060",
+      "time": "2026-08-03 16:40:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：增強充電服務保障能力】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，提升居住區充電樁報裝接電服務水平，推動實施一批居住區充電設施“統建統服”試點。持續最佳化充電場站環境，完善收費等資訊標識，提升設施執行維護水平，有效最佳化群眾充電體驗。"
+    },
+    {
+      "id": "5022059",
+      "time": "2026-08-03 16:40:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：完善區域主網架結構】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，堅持以區域電網為基礎、區域電網非同步互聯的全國電網格局。保證電網結構強度，分層分割槽最佳化各級電網主網架，推動電網交直流、送受端、各層級協調發展。"
+    },
+    {
+      "id": "mkt:019fc6c8-02dc-7aab-8f53-0d7e8cc3fe13",
+      "time": "2026-08-03 16:40:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CHINA STATE PLANNER, NEA issue 15th Five-Year new power system plan; cap low-load coal-consumption rise at 25%】CHINA STATE PLANNER and the NEA released the New Power System Construction 15th Five-Year Plan, directing wide‑load, high‑efficiency retrofits of operating coal‑fired units and capping increases in coal consumption rate under low‑load operation at 25%. The plan mandates region‑appropriate full‑load denitrification (SCR) retrofits for coal units and implementation of a batch of cross‑generation upgrade projects at the ~600 MW class. In eligible regions it supports construction of zero‑carbon/low‑carbon fuel co‑firing and carbon capture, utilization and storage (CCUS) projects. Regulators are to issue coal power–new energy integration policies, prioritise coal–renewable integration pilots, retrofit coal units for enhanced regulation/flexibility, and push system coupling and integrated dispatch to lower coal‑fired generation."
+    },
+    {
+      "id": "5022058",
+      "time": "2026-08-03 16:40:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：因地制宜推進清潔取暖】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，修訂《熱電聯產管理辦法》。提升集中供暖清潔能源使用比重。推動核能清潔供暖、工業供汽。鼓勵推進煤電耦合新能源聯合供暖，鼓勵發展地熱能、太陽能、生物質能等可再生能源供暖。因地制宜推進工業餘熱等多種清潔取暖方式。"
+    },
+    {
+      "id": "mkt:019fc6c7-6eb2-7aab-8f53-04d2c6945107",
+      "time": "2026-08-03 16:39:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Thailand's tourism ministry said year-to-date foreign tourist arrivals fell 3.2% YoY."
+    },
+    {
+      "id": "5022057",
+      "time": "2026-08-03 16:39:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：積極推動煤電節能降碳】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，推動現役煤電機組實施寬負荷高效改造，低負荷執行工況的煤耗增幅控制在 25%以內。因地制宜推動實施燃煤機組全負荷脫硝改造。實施一批 60 萬千瓦等級跨代升級改造專案。"
+    },
+    {
+      "id": "mkt:019fc6c7-0dd0-7aab-8f52-ff6e766e3b5b",
+      "time": "2026-08-03 16:39:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China State Planner, NEA issue New Power System Construction '15th Five‑Year Plan' to bolster power supply for computing facilities】China State Planner and the National Energy Administration issued the New Power System Construction '15th Five‑Year Plan', directing measures to strengthen electricity supply security and meet high‑reliability power needs of various computing facilities. The plan mandates coordinated energy‑resource allocation and joint planning of compute and power projects to align electricity capacity with computing demand. It promotes source‑grid‑load‑storage integration and green‑power direct‑connection models tied to computing facilities, enables aggregated green‑power trading and local consumption to raise compute facilities' green‑power share, and calls for enhanced recovery and utilization of waste heat from computing facilities."
+    },
+    {
+      "id": "5022056",
+      "time": "2026-08-03 16:39:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：提升晶片製造、精密儀器製造、生物醫藥等新質生產力供電質量】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，提升晶片製造、精密儀器製造、生物醫藥等新質生產力供電質量。持續提升電能質量綜合治理水平。深化“省力、省時、省錢”服務，鞏固提升“零上門、零審批、零投資”服務，更好保障企業使用者接電需求。全面推進“高效辦成一件事”，深化水電氣聯合報裝服務，推廣高頻供電業務聯辦，推進跨網辦、跨省辦等異地辦電服務，提升辦電便利度。"
+    },
+    {
+      "id": "mkt:019fc6c6-f966-7aab-8f52-f4a7fcb5e193",
+      "time": "2026-08-03 16:39:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Financial Conduct Authority says it will exempt reporting requirements for 7 million financial instruments, saving firms about £32 million annually."
+    },
+    {
+      "id": "5022055",
+      "time": "2026-08-03 16:38:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星源材質：子公司鼎源精密增資9900萬元，公司持股降至45%】星源材質公告稱，為促進全資子公司鼎源精密發展，擬透過增資擴股引入曾濤、武國彪等投資者，增資金額9900萬元。其中，公司部分放棄優先認繳權，增資4400萬元，持股比例由100%降至45%；曾濤等6位投資者增資5500萬元。增資後，鼎源精密註冊資本由100萬元增至1億元。因公司與各股東簽有《一致行動人協議》，鼎源精密仍納入公司合併報表。此次交易不構成關聯及重大資產重組，無需審議。"
+    },
+    {
+      "id": "5022054",
+      "time": "2026-08-03 16:38:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江淮汽車：截至7月31日累計回購股份212.07萬股 耗資5000.70萬元】江淮汽車公告稱，公司擬以5000萬元-10000萬元自有資金回購股份並登出以減少註冊資本，回購價不超64元/股，實施期限為2026年7月1日至9月30日。截至7月31日，公司已累計回購股份212.07萬股，佔總股本的0.0941%，成交最高價26.19元/股，最低價21.40元/股，支付總金額5000.70萬元（不含交易費用）。"
+    },
+    {
+      "id": "mkt:019fc6c6-54b3-7aab-8f52-e9683416b3f1",
+      "time": "2026-08-03 16:38:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China State Planner, National Energy Administration issue plan to improve rules for new power-market participants】China State Planner and the National Energy Administration issued the 15th Five-Year Plan for New Power System Construction, proposing a '1+N' basic-rule framework for the power market and tighter alignment of national and local rules. The plan aims to broaden participation by new market entities, normalize cross-grid trading and gradually reduce proxy (agency) power procurement. It calls for improved ancillary services markets and exploration of a capacity market, deeper electricity price reform and market-based pricing for hydro, nuclear and gas generation. The plan proposes exploring two-part or single-capacity transmission pricing for cross-provincial special projects, implementing price mechanisms to support nearby consumption of renewables, refining transmission-and-distribution tariff incentives and constraints to steer grid investment, studying pricing for offshore wind evacuation, and optimizing residential tiered tariffs while promoting residential time-of-use pricing."
+    },
+    {
+      "id": "5022053",
+      "time": "2026-08-03 16:38:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：強化電力行業“人工智慧+”基礎理論研究與應用】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，加強電力行業資料資源開發利用，統籌推進人工智慧賦能新型電力系統建設，推動電力行業全環節、全流程的數字化、智慧化升級。強化電力行業“人工智慧+”基礎理論研究與應用，圍繞典型應用場景開展試點，打造一批可複製、可推廣的標杆案例。"
+    },
+    {
+      "id": "5022052",
+      "time": "2026-08-03 16:38:25",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印尼財政部維持2026財年GDP增長預期在5.6%-6%之間。"
+    },
+    {
+      "id": "mkt:019fc6c5-eb0f-7aab-8f52-e7f29eaa3724",
+      "time": "2026-08-03 16:38:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Financial Conduct Authority (FCA) will shorten the window for correcting historical reporting errors from five years to three years."
+    },
+    {
+      "id": "mkt:019fc6c5-c1ca-7aab-8f52-d892c36d4078",
+      "time": "2026-08-03 16:37:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Financial Conduct Authority (FCA) said new transaction reporting rules will take effect on 3 April 2028."
+    },
+    {
+      "id": "mkt:019fc6c5-ab9a-7aab-8f52-d32ad36e3e43",
+      "time": "2026-08-03 16:37:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【CHINA STATE PLANNER, National Energy Administration target ~110 GW nuclear capacity by 2030】CHINA STATE PLANNER and the National Energy Administration issued the New Power System Construction 15th Five-Year Plan, targeting about 110 GW of nuclear capacity by 2030 and roughly 65 GW of combined biomass, concentrated solar (CSP), geothermal and ocean power capacity. The plan calls for defining coastal nuclear-base layouts and construction sequencing, scaling nuclear builds, advancing R&D, demonstration and deployment of next‑generation nuclear technologies, lowering small modular reactor (SMR) costs, promoting nuclear cogeneration and commercial-model innovation, and accelerating large-scale CSP, regionally tailored biomass and geothermal projects and marine-energy utilization."
+    },
+    {
+      "id": "5022051",
+      "time": "2026-08-03 16:37:48",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【兩部門：增強電力供應保障能力，滿足各類算力設施高可靠供電需要】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，增強電力供應保障能力，滿足各類算力設施高可靠供電需要。統籌能源資源配置與算力設施建設，協同規劃佈局算力、電力專案，做到以電強算、以算促電。依託算力設施發展源網荷儲一體化、綠電直連等新模式，實現綠電聚合交易、就地消納，提高算力設施綠電佔比。加強算力設施餘熱資源回收利用。"
+    },
+    {
+      "id": "mkt:019fc6c5-8bee-7aab-8f52-cf6d9d5c9358",
+      "time": "2026-08-03 16:37:42",
+      "tags": [
+        "MKT News",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "The UK's Financial Conduct Authority has finalised rules that will cut firms' transaction-reporting costs by more than £100 million a year."
+    },
+    {
+      "id": "5022050",
+      "time": "2026-08-03 16:37:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：到2030年，西電東送規模超過4.2億千瓦】國家發展改革委、國家能源局印發《新型電力系統建設“十五五”規劃》。其中提出，著力推動電力流向佈局最佳化。推動存量直流輸電通道改造升級。落實國家區域發展戰略和全國電力流向最佳化佈局總體方案，逐步形成東北、中北、西北“沙戈荒”基地群和西南水風光一體化基地群向東中部、川渝和南方負荷中心地區送電，海上風電基地和沿海核電基地就近消納的電力流向總體格局。加快推動“十四五”時期已納規輸電通道盡早建成投運。到2030年，西電東送規模超過4.2億千瓦。開展“沙戈荒”等100%新能源外送輸電工程試點。"
+    },
+    {
+      "id": "5022049",
+      "time": "2026-08-03 16:37:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：推動電力與交通融合發展】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，推動電力與交通基礎設施共享通道、管廊、杆塔等資源，依託周邊用地開發新能源，最佳化配置靈活調節資源，協同佈局輸電網路。有序推動交通運輸電氣化和低碳化轉型，發展依託新能源的岸電系統和港口微電網。"
+    },
+    {
+      "id": "mkt:019fc6c5-246b-7aab-8f52-c51d1e9af927",
+      "time": "2026-08-03 16:37:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS Global Wealth Management downgraded South Korea equities from Attractive to Neutral."
+    },
+    {
+      "id": "mkt:019fc6c5-0728-7aab-8f52-b81e8df2951b",
+      "time": "2026-08-03 16:37:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "Impact mixed",
+        "SSE Composite"
+      ],
+      "text": "【China state planner and National Energy Administration target about 410 GW of conventional hydropower by 2030】China's state planner and the National Energy Administration issued the 15th Five-Year plan for building a new-type power system, directing commissioning of hydropower projects in key basins including the upper Jinsha, upper Lancang, middle Yalong and Dadu rivers, and calling for safe, orderly advancement of major works on the lower Yarlung Tsangpo. The plan seeks to strengthen hydropower's peaking, regulation and stability roles and to widen dispatchable and flexible output, targeting roughly 410 GW of conventional hydropower installed capacity by 2030."
+    },
+    {
+      "id": "5022048",
+      "time": "2026-08-03 16:36:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南大理州洱源縣發生3.2級地震 震源深度7公里】中國地震臺網正式測定：8月3日16時25分，在雲南大理州洱源縣（北緯26.13度，東經99.86度）發生3.2級地震，震源深度7公里。（央視新聞）"
+    },
+    {
+      "id": "5022047",
+      "time": "2026-08-03 16:36:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：完善新型主體參與電力市場的制度】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，健全“1+N”電力市場基礎規則體系。強化地方規則與國家規則的對接和統一。完善新型主體參與電力市場的制度。持續完善跨電網經營區常態化交易。逐步縮小代理購電規模。完善輔助服務市場機制，探索容量市場機制建設。深化電力價格機制改革。推進水電、核電、氣電上網電價市場化改革。探索跨省區專項工程實行兩部制或單一容量制輸電價格。落實支援新能源就近消納的價格機制。完善輸配電價對電網投資激勵約束機制。研究海上風電送出工程相關價格機制。最佳化居民階梯電價制度，推廣居民分時電價機制。"
+    },
+    {
+      "id": "5022046",
+      "time": "2026-08-03 16:36:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【歐足聯：將就國際足聯商業計劃採取法律行動】歐足聯當地時間8月3日表示，將就國際足聯此前擬出售世界盃等賽事商業權益部分股權的改革計劃採取法律行動。國際足聯主席因凡蒂諾已於日前宣佈擱置該計劃，但圍繞該計劃的爭議仍在持續。 (央視新聞)"
+    },
+    {
+      "id": "mkt:019fc6c4-83f9-7aab-8f52-b5ad7a3a8ffa",
+      "time": "2026-08-03 16:36:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Russia's Foreign Intelligence Service (SVR) says the EU plans to let Kyiv participate in European security policy discussions but without voting rights."
+    },
+    {
+      "id": "5022045",
+      "time": "2026-08-03 16:36:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家發改委兩部門：到2030年新型電力系統初步建成，非化石能源發電量佔比達到50%】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，到2030年，新型電力系統初步建成：綠色低碳的電力供給格局基本形成，非化石能源發電量佔比達到50%；電力供應能力持續增強，電力系統互補互濟和安全韌性水平大幅提升，電力供應充裕度保持合理水平，有效滿足經濟社會發展和人民群眾美好生活的用電需要；初步建成安全可靠、綠色低碳、堅強韌性、智慧靈活的新型電網，資源配置平臺作用和服務功能充分發揮，實現28億千瓦以上新能源高水平消納，建成可支撐超過1.1億輛電動汽車出行的充電基礎設施網路。新型電力系統體制機制更加完善，全國統一電力市場體系基本建成。"
+    },
+    {
+      "id": "mkt:019fc6c4-0393-7aab-8f52-adf47f1a025f",
+      "time": "2026-08-03 16:36:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【CHINA STATE PLANNER, National Energy Administration set 2030 new power system plan; 50% non-fossil generation target】CHINA STATE PLANNER and the National Energy Administration issued a plan to preliminarily build a new power system by 2030, targeting non‑fossil sources to supply 50% of electricity generation. The plan calls for a secure, low‑carbon, resilient and smart grid, stronger supply capacity and improved system flexibility to keep power adequacy at reasonable levels for economic and social needs. It aims to enable high‑level integration and utilization of renewables—accommodating more than 2.8 billion kW (≈2,800 GW) of new energy capacity—and to build charging infrastructure to support over 110 million electric vehicles. Institutional reforms include more complete system mechanisms and the basic establishment of a nationwide unified electricity market."
+    },
+    {
+      "id": "5022044",
+      "time": "2026-08-03 16:35:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新型電力系統建設“十五五”規劃：積極安全有序發展核電 到2030年核電裝機約1.1億千瓦】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，積極安全有序發展核電，科學確定沿海核電基地佈局和建設時序。推動核電規模化建設，積極推進新一代核電技術研發示範和推廣應用。多措並舉降低小型堆成本，加強核能綜合利用和商業模式創新。到2030年，核電裝機約1.1億千瓦。"
+    },
+    {
+      "id": "mkt:019fc6c3-8192-7aab-8f52-a2b8847c2c22",
+      "time": "2026-08-03 16:35:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Russia's foreign intelligence service (SVR) says European leaders are explicitly denying the prospect of Ukraine joining the EU, citing concerns that Ukrainian integration would impose excessive economic and political risks on a \"unified Europe\"."
+    },
+    {
+      "id": "5022043",
+      "time": "2026-08-03 16:34:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局：將歷史報告錯誤更正期限從5年縮短至3年。"
+    },
+    {
+      "id": "5022042",
+      "time": "2026-08-03 16:34:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮昌生物：累計回購13000股，支付142.82萬元】榮昌生物公告，公司於2026年7月19日審議透過回購方案，擬以不低於2500萬元且不超過5000萬元回購股份，用於員工持股計劃或股權激勵，回購價格不超過149元/股。截至2026年7月31日，公司累計回購股份13000股，佔總股本比例0.0023%，成交最高價109.99元/股，最低價109元/股，支付資金總額142.82萬元（不含交易費用）。"
+    },
+    {
+      "id": "5022041",
+      "time": "2026-08-03 16:34:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【姚記科技：截至7月底累計回購1999.77萬元股份】姚記科技公告稱，公司於2026年5月21日經2025年年度股東會審議透過回購股份方案，擬以3000萬-5000萬元回購股份用於登出並減少註冊資本。截至2026年7月31日，公司累計回購股份106.58萬股，約佔總股本的0.26%，最高成交價為20.39元/股，最低成交價為17.84元/股，成交總金額為1999.77萬元（不含交易費用）。後續將繼續實施回購方案並及時披露。"
+    },
+    {
+      "id": "5022040",
+      "time": "2026-08-03 16:34:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【海利得：截至7月底累計耗資1.06億元回購1.75%股份】海利得公告稱，公司於2026年6月1日透過以集中競價交易方式回購股份方案，回購總額不低於1.5億元（含）且不超過3億元（含）。截至7月31日收盤，公司累計回購股份2031.92萬股，佔公司目前總股本的1.75%，成交金額為1.06億元（不含交易費用），最高成交價為5.51元/股，最低成交價為5.08元/股。後續將根據市場情況擇機實施回購計劃。"
+    },
+    {
+      "id": "5022039",
+      "time": "2026-08-03 16:34:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【比依股份：擬500萬元認購私募基金3.33%份額】比依股份公告稱，公司擬以自有資金500萬元認購廈門星奇明圖創業投資合夥企業有限合夥份額，佔比3.3333%。該合夥企業主要對新興領域創業企業進行股權投資，基金規模1.5億元。本次交易不構成關聯交易和重大資產重組，已透過公司總經辦會議審議。不過，相關協議尚未簽署，合夥企業需完成備案，且投資存在無法達預期等風險，公司風險敞口不超500萬元。"
+    },
+    {
+      "id": "5022038",
+      "time": "2026-08-03 16:34:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞銀環球財富管理將韓國股票評級從“看好”下調至“中性”。"
+    },
+    {
+      "id": "5022037",
+      "time": "2026-08-03 16:34:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "日產維持本財年匯率假設：1 美元兌 150 日元。"
+    },
+    {
+      "id": "mkt:019fc6c2-157f-7aab-8f52-9f68988c58d5",
+      "time": "2026-08-03 16:33:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "China's National Development and Reform Commission and National Energy Administration released the 15th Five-Year Plan for New Power System Construction."
+    },
+    {
+      "id": "5022036",
+      "time": "2026-08-03 16:33:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局最終敲定新規，每年可為企業削減逾1億英鎊的交易報告成本。"
+    },
+    {
+      "id": "mkt:019fc6c1-8252-7aab-8f52-969ecfd78655",
+      "time": "2026-08-03 16:33:18",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bearish"
+      ],
+      "text": "Micron Technology (MU.O) shares down 1.5% in pre-market trading."
+    },
+    {
+      "id": "5022035",
+      "time": "2026-08-03 16:33:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽特新材：累計斥資5001.58萬元回購1.23%股份】賽特新材公告稱，公司2026年7月6日至7月21日，以集中競價交易方式累計回購股份207萬股，佔總股本1.23%，成交最高價25.63元/股、最低價18.59元/股，已支付總金額5001.58萬元（不含交易費用）。本次回購用於員工持股計劃或股權激勵，期限自2026年6月22日至2027年6月15日，擬回購資金5000萬元至10000萬元。"
+    },
+    {
+      "id": "5022034",
+      "time": "2026-08-03 16:33:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "美光科技股價盤前階段最新下跌1.5%。"
+    },
     {
       "id": "5022033",
       "time": "2026-08-03 16:32:44",
@@ -53,6 +562,15 @@
         "其他"
       ],
       "text": "國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，到2030年，新型電力系統初步建成：綠色低碳的電力供給格局基本形成，非化石能源發電量佔比達到50%；電力供應能力持續增強，電力系統互補互濟和安全韌性水平大幅提升，電力供應充裕度保持合理水平，有效滿足經濟社會發展和人民群眾美好生活的用電需要；初步建成安全可靠、綠色低碳、堅強韌性、智慧靈活的新型電網，資源配置平臺作用和服務功能充分發揮，實現28億千瓦。"
+    },
+    {
+      "id": "em:jjsj_ygsj:202608033829805341",
+      "time": "2026-08-03 16:31:50",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "【英國7月製造業採購經理指數報51.9】標普全球8月3日釋出資料顯示，英國7月製造業採購經理指數報51.9。"
     },
     {
       "id": "5022028",
