@@ -1,7 +1,244 @@
 {
   "date": "2026-08-03",
-  "count": 640,
+  "count": 666,
   "items": [
+    {
+      "id": "5021437",
+      "time": "2026-08-03 10:01:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南統計局資料顯示，越南7月份出口額同比增長25%。"
+    },
+    {
+      "id": "5021436",
+      "time": "2026-08-03 10:01:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南統計局公佈：7月年度通脹率為4.45%。"
+    },
+    {
+      "id": "5021435",
+      "time": "2026-08-03 10:00:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南統計局公佈：7月工業生產同比增長14.5%。"
+    },
+    {
+      "id": "5021434",
+      "time": "2026-08-03 10:00:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【吳清：積極支援符合條件的內地企業在香港上市】中國證監會主席吳清8月3日在香港交易所舉行的五年期中國國債期貨上市儀式上表示，在支援企業赴港上市方面，大力最佳化境外上市備案工作流程，提升規範化和透明度，積極支援符合條件的內地企業在香港上市。（中國證券報）"
+    },
+    {
+      "id": "5021432",
+      "time": "2026-08-03 09:59:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【種植業與林業板塊走高，新賽股份漲停】種植業與林業板塊走高，新賽股份漲停，海南橡膠、新農開發、神農種業、敦煌種業、平潭發展跟漲。"
+    },
+    {
+      "id": "5021431",
+      "time": "2026-08-03 09:59:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：秘魯聖亞歷杭德羅西北偏西 66 公里處發生 5.2 級地震。"
+    },
+    {
+      "id": "te:markets:571966",
+      "time": "2026-08-03 09:58:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Begin Month Higher — The Hang Seng Index edged up 0.4%, or 94 points, to 25,978 on Monday, tracking gains across global markets as investor sentiment improved on optimism over renewed US-Iran talks. Oil prices declined while US equity-index futures advanced after US President Donald Trump announced that fresh negotiations with Iran would begin on Monday, raising hopes of easing tensions in the Middle East and the eventual reopening of the Strait of Hormuz. In addition, Hong Kong Financial Secretary Paul Chan signaled that the government is expected to raise its 2026 GDP growth forecast later this month following stronger-than-expected economic performance, while the launch of offshore China Government Bond Futures reinforced the city's role as an international financial hub. Notable movers included Tencent (2.1%), Semiconductor Manufacturing International Corporation (0.5%), Kuaishou (1.2%), Lenovo (0.5%), and Shenzhen Xunce (15.8%)."
+    },
+    {
+      "id": "5021430",
+      "time": "2026-08-03 09:58:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星重工簽署價值 2680 億韓元合約。"
+    },
+    {
+      "id": "5021429",
+      "time": "2026-08-03 09:58:19",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：先進封裝持續迭代升級，玻璃基板大有可為】中信證券研報稱，我們看好未來在AI產業浪潮下高階晶片效能持續提升的趨勢，其中玻璃基板的應用有望成為核心解決方案之一。當前我們認為玻璃基載板兼具趨勢高確定性和市場彈性，有望率先量產落地，成為未來先進封裝升級的重要方向，而玻璃中介層等方案的逐步落地，或進一步擴充玻璃基板應用的潛在空間。當前客戶需求迫切，且眾多產業大廠均已切入佈局，商業化程序有望提速，我們重點看好玻璃基載板的發展及投資機會，建議重點關注各環節受益機會明確廠商：1）中游製造環節，技術能力、客戶卡位、產品開發相對領先的公司；2）上游材料及裝置環節，產品迭代升級幅度大、國產替代空間廣闊的產業環節，建議關注以下方向，玻璃原片；TGV成孔；電鍍；PVD；曝光；CMP。未來若玻璃中介層大規模應用，上述環節公司亦存在切入受益機會，同時我們也看到玻璃載體、玻璃橋等技術方向亦有較大增長放量機會。"
+    },
+    {
+      "id": "mkt:019fc557-bced-7aab-8f4c-d9ce2aa528de",
+      "time": "2026-08-03 09:58:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share lithium-mining stocks traded higher after choppy session; Jiangte Electric hit the daily up-limit, with Tiantie Technology and Yongxing Materials among the top gainers."
+    },
+    {
+      "id": "5021428",
+      "time": "2026-08-03 09:58:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1%至43,552.65點。"
+    },
+    {
+      "id": "5021427",
+      "time": "2026-08-03 09:57:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元<JPY=EBS>最新下跌0.64%，報156.36。"
+    },
+    {
+      "id": "5021426",
+      "time": "2026-08-03 09:57:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【鋰礦概念震盪走高 江特電機漲停】鋰礦概念震盪走高，江特電機漲停，天鐵科技、永興材料等漲幅居前。"
+    },
+    {
+      "id": "5021425",
+      "time": "2026-08-03 09:56:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【宜賓地震，五糧液回應來了】據中國地震臺網正式測定，2026年8月3日2時21分，四川宜賓市高縣發生4.8級地震。記者以投資者身份瞭解到，五糧液未受地震影響，生產經營正常。（第一財經記者）"
+    },
+    {
+      "id": "5021424",
+      "time": "2026-08-03 09:56:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄媒：俄單日擊落固定翼無人機數量創紀錄】據俄羅斯國防部2日釋出的戰報，俄防空兵當天在多地共擊落1158架固定翼無人機。今日俄羅斯通訊社報道說，這是特別軍事行動以來俄軍擊落該型別無人機最多的一天。今日俄羅斯通訊社彙總資料顯示，俄軍當天擊落的固定翼無人機數量重新整理了此前於7月25日擊落1060架的紀錄。俄軍戰報顯示，1日夜間到2日凌晨，位於俄西部的布良斯克州、伏爾加格勒州、別爾哥羅德州等十多個地區遭到烏軍無人機攻擊。俄羅斯國家原子能公司執行長利哈喬夫2日在社交媒體上說，一架烏軍無人機1日晚撞擊了距離扎波羅熱核電站3號機組幾米遠的一段走廊，所幸該無人機沒有爆炸，未造成損失。俄方已向國際原子能機構通報了這一事件。通報還說，俄軍無人機當天擊毀一艘為烏軍運送物資的船舶、3臺為烏軍運送物資和彈藥的遙控無人運輸載具和一座為烏軍服務的汽車加油站，打擊了一座烏軍雷達站。俄軍機當天摧毀了位於烏克蘭哈爾科夫州的兩座烏軍無人機操控站。（新華社）"
+    },
+    {
+      "id": "mkt:019fc556-82f3-7aab-8f4c-d6c9605ee832",
+      "time": "2026-08-03 09:56:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share gas-turbine theme outperforms; Feiwo Technology up over 10%, Qilun Technology, Dongfang Electric, Wanze, Changbao and Yingliu also advanced."
+    },
+    {
+      "id": "mkt:019fc556-6768-7aab-8f4c-cc72a53f4157",
+      "time": "2026-08-03 09:56:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000858.SZ"
+      ],
+      "text": "【Wuliangye says production and operations normal after 4.8 quake in Yibin, Sichuan】cenc recorded a 4.8 magnitude earthquake in Gao County, Yibin, Sichuan at 02:21 on Aug 3, 2026. An investor contact said Wuliangye was not affected and its production and operations are normal."
+    },
+    {
+      "id": "5021423",
+      "time": "2026-08-03 09:56:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【DeepSeek-V4-Flash正式版上線，Agent能力逼近旗艦！港股通網際網路ETF永贏盤中漲超2%，港股科網股繼續活躍】8月3日，港股科技板塊延續強勢，AI應用概念股走俏，港股通網際網路ETF永贏（159170）盤中漲超2%。成分股阿里巴巴-W、東方甄選漲超6%，金山雲、商湯-W漲超5%，美圖公司、騰訊控股、嗶哩嗶哩-W、京東健康等個股跟漲。"
+    },
+    {
+      "id": "mkt:019fc556-34de-7aab-8f4c-c16634551b2b",
+      "time": "2026-08-03 09:56:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【KOSDAQ rebound triggers buy-side sidecar; KOSPI remains weak】Korea Exchange data show a sharp KOSDAQ rally activated the buy-side sidecar, temporarily suspending buy-quote validity in programmatic trading for five minutes around 10:28:08 a.m. KST (09:28 Beijing). At trigger, KOSDAQ 150 futures were up 75.80 points (+6.41%) and the KOSDAQ 150 index was up 38.12 points (+3.13%). The sidecar was lifted at 10:37 a.m. KST (09:37 Beijing), with the KOSDAQ at 743.92, up 3.36% (24.16 points). By contrast, the KOSPI was down sharply, -5.03% (-331.51 points) at 6,263.94."
+    },
+    {
+      "id": "5021422",
+      "time": "2026-08-03 09:56:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【橫向通用軟體板塊短線拉昇，泛微網路漲停】橫向通用軟體板塊短線拉昇，泛微網路漲停，致遠互聯、鼎捷數智、用友網路、三六零、福昕軟體等紛紛走高。"
+    },
+    {
+      "id": "mkt:019fc555-66b8-7aab-8f4c-bef816996bfe",
+      "time": "2026-08-03 09:55:36",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【Average equity private fund positions hit highest in over four years】Domestic equity private funds raised exposure for four consecutive weeks from June 26, lifting average equity positions by 2.12 percentage points to 84.12% as of July 24 — a 4+-year high (last above 84.12% was 84.30% on April 1, 2022). Funds holding >80% positions now account for 70.43% of equity private funds. Equity private funds with ≥¥10bn AUM averaged 88.64% as of July 24, the highest level year-to-date and the top among size cohorts."
+    },
+    {
+      "id": "5021421",
+      "time": "2026-08-03 09:55:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【途虎養車：將排查、整改並清退觸碰經營紅線的加盟商】8月3日，途虎養車宣佈正式啟動常態化加盟商體系建設和治理。平臺將透過主動巡檢，排查、整改並清退觸碰經營紅線的加盟商，本次治理重點排查侵害車主切身利益的違規行為，包括：無故拒絕履約服務、不誠信施工、虛增專案收費、擅自違規售賣預付儲值卡、繞過平臺私收客戶賬款等。一經核實門店存在上述違規行為，平臺將依據加盟商管理規範對加盟商約談整改；情節嚴重的，直接終止合作並清退。"
+    },
+    {
+      "id": "5021420",
+      "time": "2026-08-03 09:54:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【股票私募平均倉位創逾4年新高】記者8月3日從第三方機構私募排排網獨家獲悉，自6月26日以來，國內股票私募已連續4周保持加倉態勢，平均倉位累計上升2.12個百分點。截至7月24日，股票私募平均倉位已攀升至84.12%，較前一週微漲0.02個百分點。這一資料不僅延續了穩步上行的趨勢，更意味著7月24日的平均倉位已創下4年多以來的新高。回溯歷史，上一次股票私募平均倉位高於84.12%，還要追溯到2022年4月1日，當時股票私募平均倉位為84.30%，略高於目前水平。在近四周持續加倉的推動下，股票私募的倉位分佈結構進一步向高倉位集中，重倉或滿倉狀態已成為市場主流。私募排排網資料顯示，截至7月24日，重倉或滿倉（倉位＞80%）的股票私募佔比已高達70.43%。此外，截至7月24日，百億級股票私募的平均倉位已攀升至88.64%，不僅在不同規模股票私募中位居首位，更一舉創下今年以來的新高。(中證金牛座)"
+    },
+    {
+      "id": "5021419",
+      "time": "2026-08-03 09:54:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電力板塊震盪反彈 新能股份2連板】電力板塊震盪反彈，新能股份2連板，深南電A觸及漲停，電投產融、華銀電力、大連熱電、嘉澤新能、協鑫能科、華電遼能等跟漲。訊息面上，7月31日，江蘇電網最高用電負荷首次突破1.6億千瓦，達1.609億千瓦，今夏第四次重新整理歷史紀錄！至此，江蘇電網成為國家電網系統內首個最高用電負荷突破1.6億千瓦的省級電網，負荷規模居長三角地區首位。"
+    },
+    {
+      "id": "mkt:019fc554-4b1d-7aab-8f4c-b01bf3649ffc",
+      "time": "2026-08-03 09:54:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "03986.HK",
+        "Impact bearish",
+        "06809.HK",
+        "00981.HK"
+      ],
+      "text": "Hong Kong-listed semiconductor stocks fell: 03986.HK and 06809.HK dropped more than 6%, 03661.HK fell over 3%, and SMIC (00981.HK) declined over 2%."
+    },
+    {
+      "id": "5021418",
+      "time": "2026-08-03 09:54:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應對降雨 陝西全省新增轉移避險8130戶18063人】記者從陝西省應急管理廳瞭解到，8月2日6時至8月3日6時，陝西的陝北中南部、關中大部、陝南大部降大到暴雨，宜川、佛坪、漢濱、紫陽、旬陽、山陽、鎮安7縣區降大暴雨。7月30日6時至8月3日6時，陝西省共組織36612戶87987人轉移避險。其中8月2日6時至8月3日6時，陝西省新增轉移避險8130戶18063人。（央視新聞）"
+    },
     {
       "id": "te:economy:571960",
       "time": "2026-08-03 09:54:02",
