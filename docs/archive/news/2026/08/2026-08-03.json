@@ -1,7 +1,45 @@
 {
   "date": "2026-08-03",
-  "count": 956,
+  "count": 960,
   "items": [
+    {
+      "id": "5021652",
+      "time": "2026-08-03 12:45:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【劑泰科技與恆瑞醫藥在人工智慧製劑平臺領域達成合作】8月3日，劑泰科技在港交所公告，公司自主研發的AiTEM人工智慧製劑創新平臺將在江蘇恆瑞醫藥股份有限公司進行本地化部署，加速藥物製劑配方開發效率。"
+    },
+    {
+      "id": "mkt:019fc5f0-4c93-7aab-8f4e-9d61fbdb1c59",
+      "time": "2026-08-03 12:44:47",
+      "tags": [
+        "MKT News",
+        "02314.HK",
+        "Impact bullish"
+      ],
+      "text": "Lee & Man Paper (02314.HK) reported 1H 2026 revenue HK$14.8 billion, up 21.3% YoY; profit HK$1.4 billion, up 69.3% YoY; EPS 31.97 HK cents. Declared interim dividend HK$0.112 per share (11.2 HK cents)."
+    },
+    {
+      "id": "te:markets:572030",
+      "time": "2026-08-03 12:44:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Rises to 14-Week High — India’s BSE Sensex rose about 0.7% to 78,661 on Monday, extending gains for a fourth straight session and reaching its highest level since April 21, as lower crude oil prices lifted sentiment in the import-dependent economy. Oil prices fell amid optimism over potential US-Iran diplomatic progress, easing concerns about supply disruptions. Investors now await the RBI's policy meeting, where the central bank is widely expected to keep interest rates unchanged. Markets will also watch HSBC manufacturing PMI, forecast to ease to 53.9 in July from 54.2 in June, alongside key US economic releases for further direction. Foreign investors have also returned to Indian equities, with improving growth and earnings expectations supporting sentiment as AI-driven trades lose momentum elsewhere in Asia. Among individual stocks, notable movers included Urban Company (13.6%), Aditya (5.1%), Redington (4.7%), and Divi’s Lab (4.2%). On the losing side, ZEE (-10.7%), and Muthoot (-9.7%) declined."
+    },
+    {
+      "id": "5021651",
+      "time": "2026-08-03 12:43:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝倫貝格將法拉利目標價從381歐元上調至384歐元。"
+    },
     {
       "id": "5021650",
       "time": "2026-08-03 12:40:35",
