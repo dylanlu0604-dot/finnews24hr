@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-04 02:13:07",
-  "count": 17953,
+  "updated": "2026-08-04 02:17:17",
+  "count": 17958,
   "items": [
+    {
+      "id": "5023145",
+      "time": "2026-08-04 02:15:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 英國如今瀕臨破產。只要放開北海石油開採，英國就能變得富庶。"
+    },
+    {
+      "id": "5023144",
+      "time": "2026-08-04 02:15:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為我會和英國首相保持非常好的關係。"
+    },
+    {
+      "id": "te:markets:572267",
+      "time": "2026-08-04 02:14:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Crude Oil WTI Plunges by 5.92% — Top commodity losers are Crude Oil WTI (-5.92%), Heating Oil (-5.56%) and Brent Crude Oil (-5.25%). Gains are led by Natural gas (0.81%)."
+    },
+    {
+      "id": "5023143",
+      "time": "2026-08-04 02:13:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗無法在霍爾木茲海峽徵收費，因為我們擁有完全的海上控制權。"
+    },
+    {
+      "id": "5023142",
+      "time": "2026-08-04 02:13:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：絕不允許伊朗在霍爾木茲海峽收取通行費，如果有人要收費，那收費的將是我們。"
+    },
+    {
+      "id": "5023141",
+      "time": "2026-08-04 02:12:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：會談系應伊朗方面請求，並得到沙特、阿聯酋、卡達及其他國家的支援。"
+    },
+    {
+      "id": "mkt:019fc8d4-905b-7aab-8f5d-b8ea31670a5e",
+      "time": "2026-08-04 02:12:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US President Trump said if anyone imposes fees in the Strait of Hormuz, the US will impose fees as well."
+    },
     {
       "id": "mkt:019fc8d3-6e6d-7aab-8f5d-b20396de26e8",
       "time": "2026-08-04 02:12:07",
@@ -166337,25 +166400,6 @@
         "焦點"
       ],
       "text": "WTI原油失守82美元/桶，日內跌8.20%。"
-    },
-    {
-      "id": "mkt:019fa4ca-113d-7aab-8eb5-a945daa40945",
-      "time": "2026-07-28 02:15:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Punchbowl News reported US officials say President Trump will discuss Iran and the Abraham Accords with Israeli Prime Minister Netanyahu."
-    },
-    {
-      "id": "te:markets:570168",
-      "time": "2026-07-28 02:15:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Brent Crude Oil Plunges by 10.25% — Top commodity losers are Brent Crude Oil (-10.25%), Natural Gas EU (-9.81%) and Crude Oil WTI (-8.89%). Gains are led by Coking Coal (0.83%)."
     }
   ]
 }
