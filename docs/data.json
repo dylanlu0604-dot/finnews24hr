@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-04 00:56:38",
-  "count": 17954,
+  "updated": "2026-08-04 01:00:40",
+  "count": 17950,
   "items": [
+    {
+      "id": "5023085",
+      "time": "2026-08-04 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.51%，滬銅收漲0.43%，滬鋁收漲0.61%，滬鋅收跌0.82%，滬鉛收跌1.17%，滬鎳收漲1.13%，滬錫收漲0.44%。氧化鋁夜盤收跌0.08%，鋁合金收漲0.24%。不鏽鋼夜盤收漲3.09%。"
+    },
+    {
+      "id": "5023084",
+      "time": "2026-08-04 00:59:33",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "備忘錄顯示，花旗集團已聘用美國銀行的羅漢·森負責牽頭科技服務銀行業務覆蓋工作。"
+    },
+    {
+      "id": "5023083",
+      "time": "2026-08-04 00:59:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普社交媒體發圖文：特朗普是正確的。"
+    },
+    {
+      "id": "mkt:019fc88f-3b26-7aab-8f5c-ab6d35fe1318",
+      "time": "2026-08-04 00:57:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's ambassador to the United States, Olga Stefanishyna, was dismissed by President Zelenskiy."
+    },
     {
       "id": "mkt:019fc88c-f4ce-7aab-8f5c-a407772bd745",
       "time": "2026-08-04 00:55:08",
@@ -166376,84 +166410,6 @@
         "Economic Calendar"
       ],
       "text": "United States | 3-Month Bill Auction High Yield Rate (Jul.27) | actual 3.815% | previous 3.73%"
-    },
-    {
-      "id": "mkt:019fa484-f14a-7aab-8eb4-490671e5e286",
-      "time": "2026-07-28 01:00:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Trump says US should have world's lowest interest rates】On Monday, Trump praised Fed chair Kevin Warsh as outstanding but said Warsh must address issues with the Fed's policymaking committee and expressed confidence Warsh will do the right thing. On rates, Trump said they should be lower and the US should have the world's lowest rates, and added that costs are falling rapidly."
-    },
-    {
-      "id": "5010723",
-      "time": "2026-07-28 01:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.16%，滬銅收漲0.31%，滬鋁收漲0.43%，滬鋅收漲0.04%，滬鉛收漲0.51%，滬鎳收跌0.44%，滬錫收漲0.24%。氧化鋁夜盤收跌0.70%，鋁合金收漲0.37%。不鏽鋼夜盤收跌0.82%。"
-    },
-    {
-      "id": "mkt:019fa484-e928-7aab-8eb4-400d0e2ca031",
-      "time": "2026-07-28 01:00:01",
-      "tags": [
-        "MKT News",
-        "BRFS.N",
-        "JBS.N"
-      ],
-      "text": "LULA said South Korea will send a delegation to Brazil to conduct sanitary assessments of Brazil's meat-processing plants."
-    },
-    {
-      "id": "5010722",
-      "time": "2026-07-28 00:58:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：韓國將派遣考察團赴巴西，對巴西肉類加工廠開展衛生檢疫評估。"
-    },
-    {
-      "id": "mkt:019fa482-d005-7aab-8eb4-3f141a8bca9f",
-      "time": "2026-07-28 00:57:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazilian President Lula said he will form a working group to advance negotiations with South Korea on a Mercosur trade agreement."
-    },
-    {
-      "id": "5010721",
-      "time": "2026-07-28 00:57:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：我方將成立工作組，推進韓國與南方共同市場貿易協定相關談判。"
-    },
-    {
-      "id": "5010720",
-      "time": "2026-07-28 00:56:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "LVMH首席財務官： 迪奧短期業績令人備受鼓舞，上半年所有核心客戶渠道營收均實現增長，手袋品類表現強勁。美國第二季度的需求來自本土銷售的強勁勢頭以及在此基礎上旅遊消費的加速增長。路易威登和迪奧在第二季度均處於正增長區間，迪奧在美洲和日本的增長在第二季度加速。"
-    },
-    {
-      "id": "mkt:019fa481-e038-7aab-8eb4-33412a2ef862",
-      "time": "2026-07-28 00:56:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "MC.PA",
-        "Impact bullish"
-      ],
-      "text": "LVMH CFO said Louis Vuitton and Dior both posted positive growth in Q2, with Dior’s growth accelerating in the Americas and Japan."
     }
   ]
 }
