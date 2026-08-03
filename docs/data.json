@@ -1,7 +1,434 @@
 {
-  "updated": "2026-08-03 08:27:22",
-  "count": 17943,
+  "updated": "2026-08-03 08:43:53",
+  "count": 17962,
   "items": [
+    {
+      "id": "5021267",
+      "time": "2026-08-03 08:30:24",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "越南7月製造業PMI 52.9，前值 51.8。\n日本7月製造業PMI終值 54.5，初值 54.7。\n韓國7月製造業PMI 53.1，前值 52.1。"
+    },
+    {
+      "id": "mkt:019fc507-3701-7aab-8f4a-ccb52097de24",
+      "time": "2026-08-03 08:30:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Nikkei Manufacturing PMI 55.1 in July, down from 55.2 in June."
+    },
+    {
+      "id": "mkt:019fc507-23c7-7aab-8f4a-c1bec02e64d8",
+      "time": "2026-08-03 08:30:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P Global Vietnam Manufacturing PMI 52.9 in July, up from 51.8 previously."
+    },
+    {
+      "id": "mkt:019fc507-229a-7aab-8f4a-b96d1e2b1d5f",
+      "time": "2026-08-03 08:30:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan July final manufacturing PMI 54.5, versus 54.7 expected and 54.7 prior."
+    },
+    {
+      "id": "mkt:019fc507-224f-7aab-8f4a-b7b4915f2d56",
+      "time": "2026-08-03 08:30:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea HSBC manufacturing PMI for July 53.1, up from 52.1 in June."
+    },
+    {
+      "id": "mkt:019fc507-098e-7aab-8f4a-abd1a0ee1bdb",
+      "time": "2026-08-03 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Manufacturing PMI (Jul) | actual 55.1 | previous 55.2"
+    },
+    {
+      "id": "mkt:019fc507-0980-7aab-8f4a-a2c72d481ed8",
+      "time": "2026-08-03 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Manufacturing PMI (Jul) | actual 53.1 | previous 52.1"
+    },
+    {
+      "id": "mkt:019fc507-0970-7aab-8f4a-98c3bbe6db3b",
+      "time": "2026-08-03 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Manufacturing PMI Final (Jul) | actual 54.5 | consensus 54.7 | previous 54.7"
+    },
+    {
+      "id": "5021266",
+      "time": "2026-08-03 08:29:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元對美元大幅走強。"
+    },
+    {
+      "id": "5021265",
+      "time": "2026-08-03 08:29:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普說美伊將談判 伊朗稱在霍爾木茲海峽劃新航線 】美國總統特朗普8月2日宣佈，美國將於3日和伊朗進行談判。與此同時，伊朗外交部發言人巴加埃表示，伊朗正與阿曼討論在霍爾木茲海峽劃定一條新航線，但新航線並不意味著霍爾木茲海峽開放或關閉。（新華社）"
+    },
+    {
+      "id": "mkt:019fc506-9509-7aab-8f4a-94a1b6e13949",
+      "time": "2026-08-03 08:29:30",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY extended an intraday decline of about 100 pips to 156.65."
+    },
+    {
+      "id": "mkt:019fc505-b4e2-7aab-8f4a-8eceb6413c00",
+      "time": "2026-08-03 08:28:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY dropped roughly 70 pips in a brief move and is trading at 157."
+    },
+    {
+      "id": "5021264",
+      "time": "2026-08-03 08:27:51",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國Kospi指數下跌 三星和SK海力士均跌超7%】韓國股市基準指數Kospi一度下跌5%，三星電子和SK海力士領跌，兩家公司股價均跌超7%。上週五週五韓國Kospi指數創紀錄上漲18%，其中SK海力士股價上漲30%。根據交易所資料，週一早盤外資成為Kospi成份股最大的淨賣方；散戶投資者則買入，本地基金也出現賣出。"
+    },
+    {
+      "id": "5021263",
+      "time": "2026-08-03 08:27:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及紅新月會表示，在發生5.3級地震後，目前尚未收到任何人員傷亡或財產損失的報告。"
+    },
+    {
+      "id": "5021262",
+      "time": "2026-08-03 08:27:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "安永預計，英國央行今年將維持利率不變，明年則將在4月和7月分別降息，使利率從3.75%下調至3.25%。"
+    },
+    {
+      "id": "5021261",
+      "time": "2026-08-03 08:26:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱攔截烏無人機 烏稱打擊俄軍用機場】 當地時間8月2日，俄羅斯國防部通報稱，過去24小時，俄軍打擊了烏軍使用的能源和交通基礎設施、物流中心等目標。俄軍防空部隊則攔截了烏軍6枚制導航空炸彈、1枚“海馬斯”火箭彈和1158架固定翼無人機。同一天，烏克蘭武裝部隊總參謀部通報稱，截至當天下午，前線共發生52次戰鬥，其中波克羅夫斯克（俄稱紅軍城）方向的戰鬥最為激烈。此外，烏軍2日凌晨還打擊了為俄軍提供保障的煉油廠以及俄軍軍用機場、無人機發射點等目標。（央視新聞）"
+    },
+    {
+      "id": "5021260",
+      "time": "2026-08-03 08:25:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數下跌2%。"
+    },
+    {
+      "id": "5021259",
+      "time": "2026-08-03 08:25:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞盛醫藥任命首席業務拓展官和首席商務運營官】8月3日，亞盛醫藥在港交所公告，公司任命FaialMiyara為首席業務拓展官（ChiefBusinessOfficer，CBO），負責亞盛醫藥的全球業務拓展工作；並任命JimZiegler為首席商務運營官（ChiefCommercialOfficer，CCO），負責公司產品在大中華地區以外的全球市場的商業化運營。兩人直接向公司董事長兼執行長楊大俊彙報。"
+    },
+    {
+      "id": "5021258",
+      "time": "2026-08-03 08:24:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：若霍爾木茲海峽維持關閉狀態，英國將面臨經濟衰退風險】會計師事務所安永(EY)分析師週一警告稱，如果霍爾木茲海峽在明年年中之前仍未恢復通航，英國經濟在2027年可能出現萎縮。基於霍爾木茲海峽將在9月底前恢復通航的假設，安永將英國今年經濟增長預測從0.8%小幅上調至0.9%，並預計2027年經濟增長1.2%。“如果霍爾木茲海峽在未來幾個月內恢復通航，我們預計英國將避免更嚴重的經濟下滑；但如果關閉狀態持續到2027年，則會推高通脹，並可能導致英國經濟明年陷入萎縮，”安永英國首席經濟學家Peter Arnold表示。安永預測，如果霍爾木茲海峽一直關閉至2027年初至年中，英國今年經濟增速將放緩至0.5%，且2027年經濟將萎縮0.2%。"
+    },
+    {
+      "id": "5021257",
+      "time": "2026-08-03 08:24:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌5%，至6264.04點。"
+    },
+    {
+      "id": "mkt:019fc501-b341-7aab-8f4a-824ab21bc385",
+      "time": "2026-08-03 08:24:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【South Korea's KOSPI decline widens to 5%】South Korea's KOSPI fell 5% in early trade; Samsung Electronics and SK Hynix fell 8%."
+    },
+    {
+      "id": "mkt:019fc501-4db6-7aab-8f4a-7e673608c375",
+      "time": "2026-08-03 08:23:44",
+      "tags": [
+        "MKT News",
+        "KIOXIA.T",
+        "Impact bullish"
+      ],
+      "text": "Kioxia Holdings shares rose 7.3% after the company announced a stock split and a share buyback plan."
+    },
+    {
+      "id": "5021256",
+      "time": "2026-08-03 08:23:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英矽智慧：ISM8969/HT-001獲國家藥監局新藥臨床試驗批准，用於治療帕金森病】8月3日，英矽智慧在港交所公告，公司與深圳衡泰生物科技有限公司共同開發的創新口服NLRP3抑制劑ISM8969/HT-001已獲得中國國家藥品監督管理局新藥臨床試驗批准，用於治療帕金森病。"
+    },
+    {
+      "id": "5021255",
+      "time": "2026-08-03 08:22:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "鎧俠控股宣佈股票拆分和股票回購計劃後，其股價飆升7.3%。"
+    },
+    {
+      "id": "te:markets:571912",
+      "time": "2026-08-03 08:22:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Gains as Markets Watch US-Iran Talks — Silver climbed above $58 an ounce on Monday, recovering losses from the previous session after President Donald Trump said peace talks with Iran will resume today, sending oil prices lower and easing concerns over inflation and the interest rate outlook. Trump said key Middle Eastern allies, including Saudi Arabia, urged him to suspend planned strikes and pursue a diplomatic agreement instead, while reiterating his call for the swift reopening of the Strait of Hormuz. Investors also turned their focus to a packed week of US labor market data, highlighted by Friday’s closely watched monthly jobs report. Last week, the Federal Reserve left interest rates unchanged, although three officials dissented, warning that delaying action for too long could eventually require more aggressive policy tightening. Markets are currently pricing in about a 68% chance of a 25 basis point Fed rate hike in September."
+    },
+    {
+      "id": "5021254",
+      "time": "2026-08-03 08:21:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國石油和煉油公司S-OIL：受駕駛季需求、極端高溫天氣下電力需求增強以及部分國家出口限制的支撐，第三季度煉油利潤率預計將保持堅挺。"
+    },
+    {
+      "id": "5021253",
+      "time": "2026-08-03 08:21:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京升級釋出山洪災害風險黃色預警】北京市水務局與市氣象局2026年8月3日8時聯合升級釋出山洪災害風險黃色預警：預計8月3日8時至4日8時，北京市房山區、門頭溝區、懷柔區、密雲區發生山洪災害可能性較大（黃色風險）,延慶區、平谷區、昌平區可能發生山洪災害（藍色風險）。請公眾遠離山洪溝道，暫停涉山涉水戶外活動，防範山洪災害。"
+    },
+    {
+      "id": "5021252",
+      "time": "2026-08-03 08:21:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "發那科股價一度下跌 12%，創下自 2013 年 4 月以來的最大單日跌幅。"
+    },
+    {
+      "id": "te:markets:571911",
+      "time": "2026-08-03 08:21:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Rises as US-Iran Peace Talks Eyed — Gold climbed above $4,050 an ounce on Monday, recovering losses from the previous session after President Donald Trump said peace talks with Iran will resume today, sending oil prices lower and easing concerns over inflation and the interest rate outlook. Trump said key Middle Eastern allies, including Saudi Arabia, urged him to suspend planned strikes and pursue a diplomatic agreement instead, while reiterating his call for the swift reopening of the Strait of Hormuz. Investors also turned their focus to a packed week of US labor market data, highlighted by Friday’s closely watched monthly jobs report. Last week, the Federal Reserve left interest rates unchanged, although three officials dissented, warning that delaying action for too long could eventually require more aggressive policy tightening. Markets are currently pricing in about a 68% chance of a 25 basis point Fed rate hike in September."
+    },
+    {
+      "id": "5021251",
+      "time": "2026-08-03 08:20:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "鎧俠股價收復失地，轉為上漲逾7%。"
+    },
+    {
+      "id": "5021250",
+      "time": "2026-08-03 08:20:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京地鐵14號線下行一列車出現故障退出運營正線】據京港地鐵8月3日訊息，目前，地鐵14號線下行（開往張郭莊方向）一列車在東風北橋至棗營站區間出現故障，經工作人員及時處置後，故障列車退出運營正線，運營秩序逐步恢復正常。您可透過京港地鐵官網、微信、小程式、微博等線上方式獲取延誤告知，也可透過車站領取，給您出行帶來不便敬請諒解。"
+    },
+    {
+      "id": "5021249",
+      "time": "2026-08-03 08:20:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國國債收益率全線下跌 特朗普稱美伊將重啟談判】美國國債收益率全線走低，此前美國總統唐納德·特朗普取消了對伊朗的打擊計劃，並表示談判將於週一恢復，油價下跌。美國10年期國債收益率下降4個基點至4.69%，2年期國債收益率下降5個基點至4.25%。30年期國債收益率下跌3個基點至5.24%。"
+    },
+    {
+      "id": "5021248",
+      "time": "2026-08-03 08:19:27",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根大通將美聯儲加息時點預期提前至12月 10年期美債收益率料在4.85%】摩根大通美國利率策略主管Jay Barry和Molly Herckis在日期為7月31日的報告中寫道，將下一次美聯儲加息時點的預測從2027年下半年提前至今年12月，並預計此後政策利率將維持在3.75%-4.0%區間不變。報告稱，如果通脹很快再度升溫，9月加息也存在風險，“我們預計美國7月失業率小幅升至4.3%，新增非農就業人數為7.5萬人”。美聯儲主席沃什的講話表明資產負債表政策可能發揮更大作用，2%通脹目標承諾可能減弱，收益率曲線進一步熊市陡化的風險正在上升，建議建立2年期/10年期國債收益率曲線陡峭化交易。摩根大通還將2026年底美國10年期國債收益率預測從4.70%上調至4.85%，將30年期國債收益率目標從5.20%上調至5.40%。該行稱，此舉主要反映其重新看好盈虧平衡通脹率，並預計期限溢價將有所上升。"
+    },
+    {
+      "id": "mkt:019fc4fd-58f8-7aab-8f4a-7156d07f7965",
+      "time": "2026-08-03 08:19:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan's top foreign-exchange official MIMURA said limits on FIMA tools do not mean overall foreign-exchange intervention is constrained."
+    },
+    {
+      "id": "5021247",
+      "time": "2026-08-03 08:18:54",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【經濟日報：客觀看待存量時代房地產投資縮減】今年上半年，全國二手房網籤面積同比增長10.2%，二手房在新房和二手房交易總量中的佔比達到50.4%，北京、上海、江蘇、廣東等18個省（區、市）二手住宅交易面積超過新建商品住宅。 二手房市場活躍度較高，是我國房地產進入存量時代的表現。存量時代，房地產交易將從以新房銷售為主的增量交易，加快向新房和二手房並舉轉變。過去，房地產對經濟增長的貢獻很大程度上體現在房地產開發投資的快速增長。存量時代，將不再過度依賴房地產拉動經濟增長。應客觀看待開發投資、新開工面積、新房銷售面積等指標的下降。隨著各地積極出臺“控增量、去庫存、優供給”的政策舉措，房地產開發等指標下降，是各地落實中央關於嚴控增量要求的反映，也是市場快速形成供求平衡的表現。房地產行業將向精細化、高品質、可持續的良性發展邁進，助力實現人居環境持續提升和城市高質量發展。"
+    },
+    {
+      "id": "5021246",
+      "time": "2026-08-03 08:18:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省最高外匯事務官員三村淳：FIMA工具存在一定限制，並不意味著外匯干預整體受限。"
+    },
+    {
+      "id": "mkt:019fc4fc-1eca-7aab-8f4a-6ae7b5ecabd2",
+      "time": "2026-08-03 08:18:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's top foreign-exchange official MIMURA said the FIMA repo tool is only one of several intervention measures."
+    },
+    {
+      "id": "5021244",
+      "time": "2026-08-03 08:16:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省最高外匯事務官員三村淳：FIMA回購機制只是干預工具之一。"
+    },
+    {
+      "id": "5021243",
+      "time": "2026-08-03 08:15:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.7%，德國DAX指數期貨上揚0.8%，英國富時指數期貨升0.1%。"
+    },
+    {
+      "id": "mkt:019fc4f9-7fa7-7aab-8f4a-61dde1c463ce",
+      "time": "2026-08-03 08:15:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "【China's marine economy posts steady growth in 1H】Ministry of Natural Resources data showed China’s marine economy grew steadily in 1H. Preliminary estimates put marine GDP at 5.5 tln yuan, up 5.1% YoY, above China’s overall GDP growth, with the marine sector’s pull on the national economy increasingly evident."
+    },
+    {
+      "id": "mkt:019fc4f9-39de-7aab-8f4a-5b49495de3a9",
+      "time": "2026-08-03 08:14:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan's top foreign-exchange official MIMURA said the government will maintain close cooperation with the Bank of Japan on foreign-exchange matters."
+    },
+    {
+      "id": "mkt:019fc4f8-fe41-7aab-8f4a-5158d7b37751",
+      "time": "2026-08-03 08:14:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "MIMURA, Japan's top foreign-exchange official, declined to comment on remarks by the Bank of Japan and US President Trump."
+    },
+    {
+      "id": "5021242",
+      "time": "2026-08-03 08:14:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "ADVANTEST股價下跌3.2%。"
+    },
+    {
+      "id": "5021241",
+      "time": "2026-08-03 08:14:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "三村淳：對特朗普關於外匯干預的言論不予置評。"
+    },
+    {
+      "id": "mkt:019fc4f8-b3c4-7aab-8f4a-4acf08789af1",
+      "time": "2026-08-03 08:14:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "MIMURA, Japan's top foreign-exchange official, said joint intervention with the U.S. could be the apex of a U.S.-Japan monetary alliance and that Japan will not hesitate to undertake further joint intervention."
+    },
     {
       "id": "5021240",
       "time": "2026-08-03 08:13:53",
@@ -166043,247 +166470,6 @@
         "國際"
       ],
       "text": "日本首相高市早苗：具體的貨幣政策措施由日本央行決定。"
-    },
-    {
-      "id": "5008918",
-      "time": "2026-07-27 08:43:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【面對美國12個州集體訴訟，派拉蒙推遲收購華納兄弟】作為好萊塢近年最重要的交易之一，派拉蒙天舞公司與華納兄弟探索公司的併購交易近日又遭遇新變故——面對美國12個州的集體訴訟，派拉蒙表示同意推遲交易到反壟斷審判之後。 本月13日，加利福尼亞州等美國12個州向加州北區聯邦地區法院提起訴訟，要求阻止派拉蒙與華納兄弟之間高達約1110億美元的併購。反對者認為，這起交易如果完成，將減少有線電視、影院市場等領域的競爭。加州總檢察長羅布·邦塔表示，這兩家娛樂巨頭的合併將削弱美國影視行業的合理競爭，並損害消費者利益。紐約州總檢察長萊蒂西亞·詹姆斯認為，阻止這場合並是維護法律和保護影視行業的“關鍵性勝利”。 面對來自多個州的司法壓力，派拉蒙選擇妥協。24日，該公司宣佈與州檢察長聯盟達成協議，將其與華納兄弟的合併推遲到反壟斷審判之後。雖然目前審判日期尚未確定，但根據協議，預計整個合併流程至少會擱置數個月。（環球網）"
-    },
-    {
-      "id": "mkt:019fa106-e777-7aab-8e9e-1a8264a5d75d",
-      "time": "2026-07-27 08:43:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Prime Minister TAKAICHI said the government stands ready to take additional timely measures as needed to mitigate the economic impact of the Middle East conflict."
-    },
-    {
-      "id": "5008917",
-      "time": "2026-07-27 08:43:29",
-      "tags": [
-        "公司",
-        "央行"
-      ],
-      "text": "【本週中國央行公開市場七天期逆回購到期規模10205億元】其中，週一到週五七天期逆回購到期規模分別為3985億、2530億、760億、2040億和890億元，週一另有4000億元MLF到期。央行上週五公告稱，將在7月29日至7月31日每日開展6000億元隔夜逆回購操作，8月3日開展3000億元隔夜逆回購操作。"
-    },
-    {
-      "id": "5008916",
-      "time": "2026-07-27 08:42:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市：政府準備根據需要進一步及時採取行動，以緩衝中東衝突對經濟的衝擊。"
-    },
-    {
-      "id": "5008915",
-      "time": "2026-07-27 08:42:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果公司稱多項服務出現故障 包括App Store】蘋果公司系統狀態頁面顯示，包括App Store在內的多項服務出現故障。受影響的其他服務包括Apple Music、Apple TV、Apple Music訂閱服務、AppleCare以及Apple School Manager。使用者在部分平臺上可能遇到服務響應緩慢或無法使用的情況。蘋果表示，App Store、Apple Music和Apple TV正在進行例行維護，服務可能暫時不可用。"
-    },
-    {
-      "id": "5008914",
-      "time": "2026-07-27 08:40:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "2年期日本國債收益率下跌2.5個基點至1.495%。"
-    },
-    {
-      "id": "5008913",
-      "time": "2026-07-27 08:40:31",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【高盛：美聯儲大多數有投票權的委員似乎不太可能在本週推動加息】美聯儲將於本週三召開會議，市場預示加息機率約為三分之一，儘管大多數分析師懷疑主席凱文·沃什會支援此次加息。高盛分析師指出：“投資者認為7月會議的結果存在異常大的不確定性，這很可能是因為美聯儲近期內部意見分歧，沃什本人的立場尚不明確，而且與伊朗局勢的再度升級部分發生在資訊封鎖期內。”“會議中可能會有至少一位委員持贊成加息的異議，但在6月通脹資料走軟之後，大多數有投票權的委員似乎不太可能在本週推動加息。”"
-    },
-    {
-      "id": "5008912",
-      "time": "2026-07-27 08:40:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新威奇總部及萬噸裝置工廠落地光谷】7月24日，武漢新威奇科技有限公司（簡稱“新威奇”）與光谷智慧製造產業園（簡稱“光谷智造園”）簽約，落地新威奇總部及萬噸級伺服直驅數控電動螺旋壓力機專案。"
-    },
-    {
-      "id": "te:markets:569887",
-      "time": "2026-07-27 08:38:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Prices Retreat — US gasoline prices slid to around $3.28 per gallon on Monday, retreating from a two-month high, as reports of a pause in hostilities between Iran and the US offered some respite from supply concerns. A senior Iranian official said Tehran would halt attacks if Washington also refrains from striking, adding that the message had already been conveyed to the US. Washington has suspended its bombing campaign since late Friday after nearly two weeks of strikes, following reports that President Donald Trump's advisers warned of dwindling military targets and depleting weapons stockpiles. Still, uncertainty remained after Iran-backed Houthis claimed attacks on Saudi Aramco-linked facilities in Jizan and Yanbu, though neither Saudi Arabia nor Aramco confirmed the strikes. Meanwhile, Ukraine shifted its focus from Russian oil refineries to maritime targets, though supply worries lingered after earlier attacks damaged 24 of Russia's 34 largest refineries."
-    },
-    {
-      "id": "5008911",
-      "time": "2026-07-27 08:37:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：會考慮有關政策的問題以及民眾的感受。"
-    },
-    {
-      "id": "5008910",
-      "time": "2026-07-27 08:37:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：內閣支援率下降的原因很難分析。"
-    },
-    {
-      "id": "te:economy:569885",
-      "time": "2026-07-27 08:37:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Singapore",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Singapore Tightens Monetary Policy Again as Price Pressures Loom — The Monetary Authority of Singapore (MAS) on Monday unexpectedly tightened monetary policy by slightly increasing the rate of appreciation of its Singapore dollar nominal effective exchange rate (S$NEER) policy band, while leaving the width and center of the band unchanged. \"In an environment of continued heightened uncertainty, this calibrated adjustment to the policy stance builds on the tightening in April,\" the central bank said in a statement. The move came despite June core inflation easing to 1.6% yoy, with MAS warning that underlying price pressures are set to intensify from July and remain elevated before easing around mid-2027. The latest adjustment was smaller than April's move, which ended a pause that had been in place since July 2025, reflecting both inflation concerns and confidence in the economy. Preliminary data showed GDP expanded 5.7% yoy in Q2 2026, far exceeding expectations and underscoring resilient economic activity despite global uncertainty."
-    },
-    {
-      "id": "5008909",
-      "time": "2026-07-27 08:35:56",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【科技日報：美政客炒作Kimi K3蒸餾Fable很外行】7月22日，美國白宮科技政策辦公室主任邁克爾·克拉齊奧斯突然在社交媒體上宣稱，中國AI企業“月之暗面”透過蒸餾美國Anthropic公司的Fable開發Kimi K3大模型。僅僅幾個小時後，美國財政部長斯科特·貝森特發文威脅，要用制裁和“實體清單”來應對中國企業的蒸餾。 先炒作“竊取智慧財產權問題”，再對中國實體施加制裁，這是近些年美國打壓中國科技發展的一個常見套路——在出手害人之前，先把自己打扮成一個受害者。對不明真相的人來說，這一伎倆往往具有一定的迷惑性。不過，這次美國的套路卻註定要“翻車”，因為靠蒸餾Fable開發Kimi K3的說法實在是過於外行。 一個很明顯的問題是，就像抄作業抄不出好成績，Kimi K3表現出的先進效能，根本無法靠蒸餾獲得。 毫無疑問，Kimi K3成功的根源在於技術創新。正如美國密歇根州立大學理論物理學和計算數學、科學與工程學教授徐道輝在社交媒體上所說，Kimi K3實現了非凡的神經網路架構創新，它是從零構建的原創、大規模架構，而非透過蒸餾對其他大模型進行壓縮模仿。徐道輝提到了多篇Kimi團隊發表的重要論文，其中一篇介紹了K3大模型使用“線性注意力機制”，實現了100萬詞元的超長上下文視窗；另一篇則概述瞭如何管理“注意力”，使大模型的訓練效率提升25%。 中國在AI領域的發展與成就全球有目共睹。美國部分政客身處關乎美國科技發展的關鍵職位，應當做內行人，不應老說外行話，信口開河地汙衊中國大模型靠蒸餾，這樣只能讓自己看起來很業餘。"
-    },
-    {
-      "id": "5008908",
-      "time": "2026-07-27 08:35:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "名仕快相集團控股有限公司在香港暫停交易。"
-    },
-    {
-      "id": "5008907",
-      "time": "2026-07-27 08:35:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "鎧俠控股在東京股價下跌9.5%。"
-    },
-    {
-      "id": "mkt:019fa0fc-840e-7aab-8e9e-1293411017ad",
-      "time": "2026-07-27 08:32:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "DXY",
-        "Impact bullish",
-        "CNH",
-        "Impact bearish",
-        "Hang Seng Index"
-      ],
-      "text": "【Science and Technology Daily criticises US claims that Kimi K3 was distilled from ANTHROPIC's Fable】On July 22, White House OSTP director Michael Kratsios posted on social media alleging Chinese AI firm Moonshot AI distilled ANTHROPIC's Fable to develop the Kimi K3 model. Hours later U.S. Treasury Secretary Scott Bessent warned he could respond with sanctions and placement on a U.S. entity list over the alleged distillation."
-    },
-    {
-      "id": "te:markets:569884",
-      "time": "2026-07-27 08:32:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Baker Hughes earnings above expectations at 0.64 USD — Baker Hughes (BKR) released earnings per share at 0.64 USD, compared to market expectations of 0.49 USD."
-    },
-    {
-      "id": "5008906",
-      "time": "2026-07-27 08:31:41",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本6月服務業PPI同比上漲3.2%  伊朗戰爭導致運費居高不下】日本央行週一公佈的資料顯示，6月服務業生產者物價指數(PPI)同比上漲3.2%，反映通脹壓力擴大跡象，將使市場繼續預期央行將進一步加息。5月PPI經修正後為同比上漲3.4%。資料顯示，此次上漲主要受運輸成本持續攀升推動，6月運輸成本同比上漲5.3%，中東衝突導致的燃料價格上漲及供應中斷，使得海運和空運運費居高不下。"
-    },
-    {
-      "id": "5008905",
-      "time": "2026-07-27 08:31:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "CFETS：7月24日人民幣匯率指數按周漲0.33至102.75。"
-    },
-    {
-      "id": "5008904",
-      "time": "2026-07-27 08:31:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大陸首次在臺東海域漁業科考，記者隨船採訪，見證科考人員“不畏巨浪，不懼滋擾”】七月中旬的一個午夜，在臺灣島以東某海域，來自農業農村部中國水產科學研究院東海水產研究所的“藍海201”號漁業科學綜合調查船上依舊熱火朝天。隨著調查網具緩緩吊起，採集到的樣品傾瀉進樣品筐中，一股濃烈的海腥味撲面而來。但中國水產科學研究院東海水產研究所副研究員石永闖博士卻興奮地摘下口罩，俯身湊近這批來自相對陌生海域的小生命。對於平均年齡僅為35歲的漁業科考隊員來說，這是他們首次踏入這片中國漁民的傳統漁場。對他們而言，這是一場傳承歷史使命的科考之旅。他們也為在“波濤洶湧”的時刻來到這片中國管轄海域感到自豪。7月23日，在“藍海201”號啟航7天后，這場在我國臺灣島以東海域開展的綜合性資源與環境科學調查才被官宣。這7天中，跟隨“藍海201”號重新整理航跡的記者，既領略了這片“祖宗海”的美麗，也親歷了外部勢力的滋擾。本次科考航次首席科學家、東海水產研究所副所長鄭漢豐告訴記者，此行最具里程碑意義之處，在於填補了我國臺東海域的漁業調查空白，進而完善了我國專屬經濟區漁業資源科學調查的區域版圖。（環球時報）"
-    },
-    {
-      "id": "mkt:019fa0fb-35c7-7aab-8e9e-0b44ed4f7758",
-      "time": "2026-07-27 08:30:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "USD/CHF slid over 0.50% intraday to 0.8142."
-    },
-    {
-      "id": "te:markets:569883",
-      "time": "2026-07-27 08:30:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Hitachi Stock Price Hits 6-week High — Hitachi shares increased to 5004.00 JPY, the highest since June 2026. Over the past 4 weeks, Hitachi gained 9.64%, and in the last 12 months, it increased 8.21%."
-    },
-    {
-      "id": "5008903",
-      "time": "2026-07-27 08:28:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【7月27日新股提示：長鑫科技、維琪科技上市 展芯股份、森合高科申購】據交易所公告，展芯股份今日申購，申購程式碼：301707，發行價格：23.45元/股，單一賬戶申購上限5500股，頂格申購需配市值5.5萬元。森合高科今日申購，申購程式碼：920038，發行價格：29.06元/股。維琪科技、長鑫科技今日上市。嘉立創、津富士達公佈中籤率，分別為0.0218%、0.0242%。森合高科今日繳款。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607273821333624",
-      "time": "2026-07-27 08:28:34",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲決議本週來襲！大機率將按兵不動 但意外加息風險不容忽視？】美聯儲將於7月28日至29日召開議息會議，投資者普遍預期該央行將在本週的會議上按兵不動，而在9月份的會議上加息，但有華爾街分析師指出，加息的到來時間可能會比預期早得多。文藝復興宏觀研究公司（Renaissance Macro Research）的首席經濟學家Neil Dutta認為，市場可能會在本週美聯儲會議上遭遇意外加息。"
-    },
-    {
-      "id": "5008902",
-      "time": "2026-07-27 08:28:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "深交所公告，安徽藍盾光電子股份有限公司擬披露重大事項，公司股票於2026年7月27日開市起停牌，待公司透過指定媒體披露相關公告後復牌。"
-    },
-    {
-      "id": "5008901",
-      "time": "2026-07-27 08:27:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江西釋出暴雨橙色預警】江西省氣象臺2026年7月27日7時27分發布暴雨橙色預警訊號：預計未來3小時內，九江市東部和贛州市西南部的部分地區降水可達50毫米以上；另外，萍鄉市和吉安、贛州兩市西部部分地區過去24小時累計降水已達80-150毫米，區域性點超過200毫米，預計上述地區降水將持續，未來6小時可達50毫米以上，並伴有短時強降水、雷暴大風、雷電等強對流天氣，請注意防範強降雨可能引發的城鄉內澇、中小河流洪水、山洪和地質災害等次生災害。"
     }
   ]
 }
