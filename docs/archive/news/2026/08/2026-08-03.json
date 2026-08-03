@@ -1,7 +1,249 @@
 {
   "date": "2026-08-03",
-  "count": 2044,
+  "count": 2072,
   "items": [
+    {
+      "id": "mkt:019fc773-770a-7aab-8f56-d3936b08abfb",
+      "time": "2026-08-03 19:47:40",
+      "tags": [
+        "MKT News",
+        "LLY.N",
+        "Impact bullish"
+      ],
+      "text": "Eli Lilly (LLY.N): pancreatic cancer therapy granted Breakthrough Therapy designation."
+    },
+    {
+      "id": "5022591",
+      "time": "2026-08-03 19:47:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【洲明科技：擬以5000萬元-1億元回購公司股份】洲明科技公告，擬以不低於5000萬元且不超過1億元回購公司股份，回購價格不超過7.85元/股，回購股份用於實施員工持股計劃或股權激勵計劃。按回購金額上限測算，預計回購股份數量1273.89萬股，約佔當前公司總股本的1.17%。"
+    },
+    {
+      "id": "5022590",
+      "time": "2026-08-03 19:46:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "禮來：Olomorasib斬獲胰腺癌適應症突破性療法認定。"
+    },
+    {
+      "id": "5022589",
+      "time": "2026-08-03 19:45:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天邦食品：擬1800萬元轉讓淮安拾分味道100%股權，並增資3.04億元清理內部債務】天邦食品公告，公司全資子公司上海拾分味道擬將全資孫公司淮安拾分味道100%股權以1800萬元轉讓給上海新徵隆和。為清理內部債務往來，上海拾分味道擬對淮安拾分味道增資3.04億元，增資完成後其註冊資本將由2900萬元增至3.33億元。本次交易預計產生投資虧損約4881萬元。"
+    },
+    {
+      "id": "mkt:019fc771-cd1a-7aab-8f56-cc59bbf8b6e3",
+      "time": "2026-08-03 19:45:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand plans annual imports of 100,000 tonnes of urea from western Indonesia and said it is prepared to act as a reliable rice supplier to Indonesia, Thai and Indonesian leaders said at a Jakarta meeting."
+    },
+    {
+      "id": "mkt:019fc771-a70e-7aab-8f56-c6173a30f177",
+      "time": "2026-08-03 19:45:42",
+      "tags": [
+        "MKT News",
+        "Commodities"
+      ],
+      "text": "【Northern Rare Earth makes breakthrough in praseodymium metal market】Northern Rare Earth said this year its international trading arm has aligned with the permanent-magnet materials sector’s technology shift and downstream demand for lighter magnets, opening a new application path for light rare earths in heavy-rare-earth-free magnet materials and achieving bulk praseodymium metal sales in 1H."
+    },
+    {
+      "id": "5022588",
+      "time": "2026-08-03 19:45:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國與印尼領導人於雅加達舉行會晤並展開交談。"
+    },
+    {
+      "id": "5022587",
+      "time": "2026-08-03 19:45:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "禮來藥物Olomorasib獲美國食品藥品監督管理局突破性療法認定。"
+    },
+    {
+      "id": "5022586",
+      "time": "2026-08-03 19:45:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國計劃每年從印尼進口10萬噸尿素。"
+    },
+    {
+      "id": "5022585",
+      "time": "2026-08-03 19:45:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國：願成為印尼可靠大米供應方。"
+    },
+    {
+      "id": "5022584",
+      "time": "2026-08-03 19:44:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【嘉陵江四川南充段出現入汛以來最大洪峰】受上游降雨及亭子口水庫調蓄影響，8月3日，嘉陵江四川南充段水位大幅上漲，今年入汛以來最大洪峰於當天上午過境主城區。洪峰水位最高達265.86米，比平時水位高4米左右，流量每秒達8450立方米。南充市高坪區沿江各地迅速行動做好防範，全力保障洪峰安全過境。（央視新聞）"
+    },
+    {
+      "id": "5022583",
+      "time": "2026-08-03 19:44:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北方稀土金屬鐠市場開拓實現新突破】據北方稀土訊息，今年以來，北方稀土國貿公司緊扣稀土永磁材料行業技術變革趨勢，精準對接下游磁材企業輕量化發展需求，成功開闢輕稀土在無重稀土磁材領域全新應用賽道，上半年實現金屬鐠批次銷售。"
+    },
+    {
+      "id": "5022582",
+      "time": "2026-08-03 19:44:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列財長竟稱不存在巴勒斯坦人】以色列財長、極右翼政治人士斯莫特里赫在8月2日播出的一檔播客節目中，竟然聲稱“根本不存在所謂的‘巴勒斯坦人’，歷史上也從未有過這樣的概念，這是虛構出來的，旨在對抗以色列”。斯莫特里赫還稱，希望以色列征服整個（巴勒斯坦）加沙地帶，並建立軍事管轄，讓猶太人重新定居，以實現所謂“徹底的勝利”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fc76f-bd9a-7aab-8f56-b9873285ae69",
+      "time": "2026-08-03 19:43:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "【Tesla July European registrations diverge】Tesla's July registrations jumped 86% in France and 52% in Denmark, but plunged 97% in Norway and fell 81% in Spain and 60% in Sweden. Investors await Germany and UK registration releases later this week."
+    },
+    {
+      "id": "5022580",
+      "time": "2026-08-03 19:43:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏軍襲擊俄多地致8人死亡】俄羅斯方面3日表示，烏克蘭軍隊對弗拉基米爾州、克拉斯諾達爾邊疆區和別爾哥羅德州等地進行襲擊，造成至少8人死亡、13人受傷。俄羅斯弗拉基米爾州州長阿夫傑耶夫3日在社交媒體上說，烏克蘭軍隊使用無人機襲擊了該州的一處倉庫，導致倉庫起火，並造成3人受傷。俄偵查委員會發言人彼得連科同日表示，已就烏軍相關襲擊展開調查。（新華社）"
+    },
+    {
+      "id": "mkt:019fc76f-1b96-7aab-8f56-b543963d7a62",
+      "time": "2026-08-03 19:42:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CIMC Group: Freight-rate and demand rebound passing through to container manufacturing; production booked through end-October】CIMC Group said its container division posted YoY declines in Q1 revenue and net profit as both volumes and prices fell. Since Q2, a concurrent recovery in freight rates and demand has transmitted to container manufacturing, lifting industry demand and leaving production booked through end-October. For the year the segment remains under pressure versus last year due to a high base and rising material costs. CIMC said emerging businesses—container energy storage, modular buildings, cold chain and modular data centers—are being actively deployed and developing rapidly and will provide material incremental contributions to the segment."
+    },
+    {
+      "id": "5022579",
+      "time": "2026-08-03 19:42:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【震安科技：二次修訂發行股票預案 擬向實控人等定增募資不超6.3億元】震安科技(300767)8月3日披露二次修訂後的向特定物件發行股票預案，此次修訂調整了發行募集資金總額、寧花香女士及深圳東創數智技術有限公司（簡稱“東創數智”）認購資金數額。二次修訂後的預案顯示，公司擬向寧花香、東創數智發行股票募資不超過6.3億元（含），用於補充流動資金和償還銀行貸款。寧花香為公司共同實控人之一，東創數智為公司實控人寧花香、周建旗夫婦共同控制的其他企業。"
+    },
+    {
+      "id": "mkt:019fc76e-e072-7aab-8f56-a8c76e590806",
+      "time": "2026-08-03 19:42:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Fourth national proprietary Chinese medicine procurement finalised; OTC and exclusive varieties fully included】Led by the Hubei provincial medical insurance bureau, the fourth national centralised procurement for proprietary Chinese medicines published full results. The tender set 28 procurement groups and covered 89 commonly used proprietary Chinese medicines, including OTC and exclusive varieties, representing a market of more than CNY45 bln; over 40,000 public medical institutions reported purchase volumes. A total of 344 firms submitted 468 products; 243 firms with 310 product specifications won. Overall average price cuts exceeded 50%. The procurement used a composite scoring model (price 60%, technical evaluation 40%) and introduced reinstatement/supplementary lists and A/B grouping competition, moving away from lowest-price-only selection to incorporate drug quality, clinical value and supply stability. Industry analysts said the round accelerates alignment of in-hospital and retail pricing, will concentrate share with firms that have scale, supply-chain and quality-control advantages, and is likely to accelerate exit by smaller players lacking core barriers."
+    },
+    {
+      "id": "5022578",
+      "time": "2026-08-03 19:42:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風白海豚7日後將趨向華東沿海】今年第13號颱風“白海豚”於7月27日生成，8月3日17時其中心位於距離琉球群島那霸市偏東方向約1890公里的西北太平洋洋麵上，中心附近最大風力15級（48米/秒，強颱風級），中心最低氣壓為945百帕。 預計“白海豚”將以每小時20～25公里的速度繼續向西偏北方向移動，強度變化不大，5日之前對我國無明顯影響；將於6日至7日穿過琉球群島移入東海，之後其路徑和對我國的影響不確定性較大。 氣象專家提醒，公眾需持續密切關注中央氣象臺釋出的最新預報預警資訊，提前做好颱風防禦準備。（中央氣象臺）"
+    },
+    {
+      "id": "5022577",
+      "time": "2026-08-03 19:41:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【十銓：DRAM缺貨最嚴峻時刻預計在2027年上半年】儲存模組廠十銓科技第二季營收75.88億新臺幣，環比減少16.11%，同比增66.18%，稅後淨利潤24.12億新臺幣，環比增長5.14%，同比增長21827%。十銓表示，全球AI基礎建設建置帶動大量儲存需求，主要DRAM原廠積極擴充產能，但短期仍難有效緩解供需失衡，缺貨最嚴峻的時期預期將落在2027年上半年。"
+    },
+    {
+      "id": "5022576",
+      "time": "2026-08-03 19:41:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄安全部門挫敗一起針對地方檢察院的恐襲圖謀】俄羅斯聯邦安全域性3日通報說，該局日前挫敗一起在斯塔夫羅波爾邊疆區皮亞季戈爾斯克市檢察院附近實施的恐襲圖謀，一名來自中亞地區的男子被捕。通報說，這名男子生於2001年，是一個國際恐怖組織的支持者，他根據這一恐怖組織的指示，企圖在皮亞季戈爾斯克市檢察院附近實施襲擊。通報還說，按照計劃，這名男子將在實施襲擊後前往敘利亞並正式加入這一恐怖組織。執法人員在搜查這名男子住所時，查獲了用於組裝自制爆炸裝置的零件、化學制劑等。（新華社）"
+    },
+    {
+      "id": "5022575",
+      "time": "2026-08-03 19:41:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國警方逮捕涉嫌與近期山火有關的375人】當地時間8月3日，據法國內政部訊息，警方已逮捕375名涉嫌與近期山火有關的人員，其中包括142名未成年人，約佔被捕總人數的37.9%。據接近調查的訊息人士透露，目前已有36人被收監。其中，部分人員已被判處有期徒刑，並由法院下令立即收押；其餘人員則在等待審判期間被採取審前羈押措施。（央視新聞）"
+    },
+    {
+      "id": "5022574",
+      "time": "2026-08-03 19:40:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【泰森食品第三財季銷售額138.7億美元，與上年同期持平】8月3日，美國肉類巨頭泰森食品（Tyson Foods）公佈2026財年第三財季業績。財報顯示，公司當季銷售額為138.68億美元，與上年同期持平；GAAP營業利潤為3.62億美元，同比增長39%；GAAP每股收益為0.52美元，同比增加0.35美元。"
+    },
+    {
+      "id": "mkt:019fc76d-24f0-7aab-8f56-a3e4dc02c023",
+      "time": "2026-08-03 19:40:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Former Iranian foreign minister Javad Zarif warned that if Iran fails to reach a final agreement with the US within the proposed 60-day negotiating window, it could face further economic hardship, domestic unrest or a new round of military strikes."
+    },
+    {
+      "id": "5022573",
+      "time": "2026-08-03 19:40:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗前外長穆罕默德·賈瓦德·扎裡夫警告，若無法在擬定的60天談判期限內與美國達成最終協議，伊朗或將遭遇更嚴峻的經濟困境、國內動盪，或是再度遭受軍事打擊。"
+    },
+    {
+      "id": "5022572",
+      "time": "2026-08-03 19:40:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【西媒：美國在中期選舉前三個月啟動選舉模式】據西班牙《國家報》網站8月2日報道，美國在中期選舉前三個月啟動選舉模式。 報道稱，7月31日，美國總統特朗普在戴維營舉行了一場不同尋常的內閣公開電視會議。在團隊全員簇擁下，這位美國總統發表了一場宛如競選集會的演講。 特朗普承認自己已經開始考慮中期選舉了。在距離11月3日的中期選舉僅剩三個月之際，支援率跌至歷史新低的特朗普已進入競選模式。他奔走於美國各地之間，試圖扭轉民調劣勢。幾個月來，他一直警告稱共和黨有輸掉此次選舉的風險。於他而言，第一任期結束時國會啟動彈劾程式的情景仍然記憶猶新。 共和黨在民調中落後，正使出渾身解數，試圖在至關重要的中期選舉中取得優勢。中期選舉通常被視為對白宮主人執政表現的一次全民公投。它將選出眾議院全部435名議員和參議院100個席位中的三分之一。 據報道，民主黨目前在民調中佔據優勢。（參考訊息）"
+    },
+    {
+      "id": "5022571",
+      "time": "2026-08-03 19:40:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中集集團：運價與需求的雙重回暖正直接傳導至集裝箱製造端 目前已排產至10月末】中集集團近日在路演活動上表示，集裝箱業務方面，第一季度由於量價較上年同期均有所回落，導致該分部營業收入及淨利潤同比均出現下降。但進入第二季度以來，運價與需求的雙重回暖正直接傳導至集裝箱製造端，行業需求有所回升，目前已排產至10月末。今年整體來看，受去年高基數以及材料價格上行帶來的成本壓力影響，集裝箱板塊業績相比去年仍舊有所承壓。但集裝箱板塊培育的集裝箱儲能、模組化建築、冷鏈、模組化資料中心等新興業務，都處於積極佈局和快速發展當中，將為集裝箱板塊貢獻重要增量。"
+    },
+    {
+      "id": "5022570",
+      "time": "2026-08-03 19:40:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音生活服務增長超預期，年中上調全年交易額目標】得益於與主端UGC內容的協同效應，本地生活短影片和搜尋流量增長超預期，帶動抖音生活服務2026年上半年交易額同比增長超50%，超額完成既定目標。平臺已於年中上調全年交易額目標。獨立App“抖省省”成為另一關鍵增量來源。今日，抖省省上線“找店”入口，進一步強化使用者粘性與找店心智，透過“找品+找店”雙輪驅動，與抖音主端形成更多協同。目前抖省省日活躍使用者數已突破1500萬，本地生活入口心智持續增強。"
+    },
     {
       "id": "5022569",
       "time": "2026-08-03 19:39:27",
