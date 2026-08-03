@@ -1,7 +1,46 @@
 {
   "date": "2026-08-04",
-  "count": 212,
+  "count": 216,
   "items": [
+    {
+      "id": "5023168",
+      "time": "2026-08-04 02:35:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：洩密暴露了原定襲擊的規模，並讓伊朗知曉將要發生的事。"
+    },
+    {
+      "id": "mkt:019fc8e8-9295-7aab-8f5e-2b650844f3ef",
+      "time": "2026-08-04 02:35:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump says talks with Iran ongoing; to proceed in two phases】U.S. President Trump told reporters at the White House on Aug. 3 that talks with Iran are underway and will proceed in two phases: first reopening the Strait of Hormuz, then denuclearization. He said the strait could be reopened as soon as tomorrow and that the talks were at Iran’s request with support from Saudi Arabia, the UAE and Qatar. Trump said Washington had been prepared to launch a major strike until Iran and Gulf states called to seek talks, reiterated that Iran must not possess nuclear weapons, and said he would not allow Iran to charge vessels for passage through the Strait of Hormuz, calling it \"Iran's last chance.\""
+    },
+    {
+      "id": "5023167",
+      "time": "2026-08-04 02:34:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：與伊朗的談判正在進行 將分兩階段推進】當地時間8月3日，美國總統特朗普在白宮回答記者提問時表示，同伊朗的談判目前正在進行中。特朗普表示，關於與伊朗的談判，第一階段是開放霍爾木茲海峽，第二階段是無核化。特朗普稱，美國對此態度堅定，伊朗不能擁有核武器。此外，特朗普還透露了有關開放霍爾木茲海峽方面的談判進展。特朗普稱，霍爾木茲海峽可能最遲明天重開。"
+    },
+    {
+      "id": "mkt:019fc8e8-030b-7aab-8f5e-265d2a80314d",
+      "time": "2026-08-04 02:34:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Powell could become fourth Fed governor to complete full 14-year term】TIMIRAOS: The last three officials to complete full 14-year Fed governor terms were Alan Greenspan (1992-2006), George Mitchell (1962-1976) and William McChesney Martin Jr. (1956-1970). Each had previously filled an unexpired governor term before starting a full 14-year term. If Powell remains through January 2028 he would join that group. Powell has served on the Board for 14 years, but his formal 14-year term began in 2014."
+    },
     {
       "id": "mkt:019fc8e5-75c9-7aab-8f5e-1d1484154187",
       "time": "2026-08-04 02:31:48",
