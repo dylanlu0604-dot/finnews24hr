@@ -1,7 +1,196 @@
 {
-  "updated": "2026-08-03 09:31:36",
-  "count": 17958,
+  "updated": "2026-08-03 09:35:29",
+  "count": 17955,
   "items": [
+    {
+      "id": "mkt:019fc542-673f-7aab-8f4c-05197426b178",
+      "time": "2026-08-03 09:34:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share nuclear-power theme extended gains: Yingfeng Environment and Libert each hit daily trading limits; Changfu Co. and Ruidi Zhiqu rose more than 10%; Lihang Technology, Hahan Huatong, Tianli Composite and Jinlihua Electric also advanced."
+    },
+    {
+      "id": "mkt:019fc542-2b87-7aab-8f4b-f81459ba88f4",
+      "time": "2026-08-03 09:34:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share gear-reducer sector rallied intraday; Zhongda Lide hit the daily limit, while Ruidi Zhiju, Fengguang Precision and Lvde Xiebo advanced."
+    },
+    {
+      "id": "5021383",
+      "time": "2026-08-03 09:34:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【減速器板塊短線拉昇，中大力德漲停】減速器板塊短線拉昇，中大力德漲停，瑞迪智驅、豐光精密、綠的諧波紛紛走高。"
+    },
+    {
+      "id": "5021382",
+      "time": "2026-08-03 09:33:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲7%，現報35240.00元。"
+    },
+    {
+      "id": "5021381",
+      "time": "2026-08-03 09:33:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆銘達新設子公司 含AI及積體電路相關業務】企查查APP顯示，近日，深圳恆銘達精工有限公司成立，經營範圍包含：人工智慧硬體銷售；積體電路設計；積體電路晶片設計及服務；積體電路晶片及產品銷售；半導體分立器件銷售等。企查查股權穿透顯示，該公司由恆銘達全資持股。"
+    },
+    {
+      "id": "5021380",
+      "time": "2026-08-03 09:33:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人形機器人概念盤初走強 中大力德2連板】早盤人形機器人概念走強，中大力德2連板，福萊新材 漲停，臥龍電驅、豐光精密、奧比中光、綠的諧波等跟漲。訊息面上，特斯拉Optimus專案負責人Ashok Elluswamy於2026年7月30日透過社交平臺發文，將Optimus的遠期年產能目標修正為1000萬臺。這一數字為原100萬臺規劃產能的十倍，標誌著特斯拉人形機器人產能規劃的全面升級。"
+    },
+    {
+      "id": "5021379",
+      "time": "2026-08-03 09:33:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "券商、金融科技股早盤下挫，湘財股份逼近跌停，國盛證券跌超9%，廣發證券、指南針、同花順、中銀證券跟跌。"
+    },
+    {
+      "id": "5021378",
+      "time": "2026-08-03 09:33:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "港交所5年期離岸國債期貨上市首日開盤報106.685元。"
+    },
+    {
+      "id": "mkt:019fc540-8e84-7aab-8f4b-f33216b0a01e",
+      "time": "2026-08-03 09:32:50",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "Mainland A-share commercial property operators sector surged; Jinhe Commercial Management hit the daily limit, while Shenzhen SEG, Xiangjiang Holdings, Hualian, Light Textile City and Haining Leather City advanced."
+    },
+    {
+      "id": "5021377",
+      "time": "2026-08-03 09:32:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5021376",
+      "time": "2026-08-03 09:32:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【商業物業經營板塊直線拉昇，錦和商管漲停】商業物業經營板塊直線拉昇，錦和商管漲停，深賽格、香江控股、華聯股份、輕紡城、海寧皮城等紛紛走高。"
+    },
+    {
+      "id": "5021375",
+      "time": "2026-08-03 09:32:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜港股跌超9%】智譜港股跌9.77%，報893.00港元。"
+    },
+    {
+      "id": "mkt:019fc540-077c-7aab-8f4b-ea87ae910f8d",
+      "time": "2026-08-03 09:32:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Most-active polysilicon futures contract jumped over 6% to 34,925 yuan/ton."
+    },
+    {
+      "id": "5021374",
+      "time": "2026-08-03 09:32:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果四季度指引偏弱，高估值下短期缺乏催化】蘋果公司釋出2026年三季度財報，營收與利潤雖創同期新高，但四季度業績指引顯著低於市場預期。儘管基本面資料表現良好，但成本壓力上行與服務業務增速放緩，使當前蘋果高估值缺乏短期業績的有力支撐，近期股價回撥正是反映了市場對預期差的重新定價。蘋果公司三季度毛利率超預期，主要得益於約2個百分點的一次性關稅退稅紅利；剔除該因素後，基礎毛利率迴歸常態，盈利質量有所打折。同時，公司服務業務營收雖創紀錄，但增速回落至12%，不及市場預期的14%至16%，這一定程度上削弱了高估值賴以維繫的核心邏輯。展望四季度，處理器及記憶體晶片等零部件價格維持高位，再加上匯率波動可能產生拖累，公司給出的指引營收增速僅為9%至11%，遠低於市場一致預期的12%以上。蘋果公司管理層交接帶來了戰略不確定性，端側AI商業化兌現節奏偏慢，硬體創新週期尚未形成強勁拉動。當前蘋果市盈率處於35倍高位，短期缺乏新的增長催化劑，需警惕估值消化過程中的波動風險。中長期蘋果公司的核心價值仍取決於AI落地實效與毛利率韌性。"
+    },
+    {
+      "id": "5021373",
+      "time": "2026-08-03 09:31:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲6%，現報34915.00元。"
+    },
+    {
+      "id": "5021372",
+      "time": "2026-08-03 09:31:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴港股上漲6%。"
+    },
+    {
+      "id": "mkt:019fc53f-4dfa-7aab-8f4b-e455c1468a73",
+      "time": "2026-08-03 09:31:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "09988.HK",
+        "Impact bullish",
+        "09888.HK"
+      ],
+      "text": "Hang Seng Tech Index extended gains to 1%; Alibaba (09988.HK) up over 5%, Baidu (09888.HK) up over 3%."
+    },
+    {
+      "id": "5021371",
+      "time": "2026-08-03 09:31:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓綜合股指開盤上漲 0.7%，報 6280.58 點。"
+    },
+    {
+      "id": "mkt:019fc53f-2ea4-7aab-8f4b-de0552d4bc75",
+      "time": "2026-08-03 09:31:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "At the open Monday, Aug 3, China’s CSI 300 Index fell 26.38 points (0.57%) to 4,561.82. The Shanghai Composite opened down 19.65 points (0.51%) at 3,812.61; the Shenzhen Composite down 81.83 points (0.60%) at 13,497.10; the ChiNext Index down 23.87 points (0.71%) at 3,320.09; the STAR 50 Index down 16.67 points (1.02%) at 1,619.29."
+    },
+    {
+      "id": "5021370",
+      "time": "2026-08-03 09:30:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4880.560點；恒生指數現漲0.531%。"
+    },
     {
       "id": "mkt:019fc53e-87db-7aab-8f4b-d1a2cd4f595f",
       "time": "2026-08-03 09:30:37",
@@ -166193,237 +166382,6 @@
         "市場"
       ],
       "text": "【中藥概念異動拉昇，海南海藥直線漲停】中藥概念異動拉昇，海南海藥直線漲停，隴神戎發、益佰製藥、科源製藥、長春高新、新里程、新贛江等跟漲。"
-    },
-    {
-      "id": "5009045",
-      "time": "2026-07-27 09:35:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：研究如何在維持財政可持續性前提下籌措防務資金。"
-    },
-    {
-      "id": "mkt:019fa136-2221-7aab-8e9f-6e230096aea6",
-      "time": "2026-07-27 09:35:07",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share travel and hotel sector active at the open; Huatian Hotel hit the daily limit, while Junting Hotel, Jinjiang Hotel, Shou Lv Hotel, Jinling Hotel and Zhongxin Tourism rose."
-    },
-    {
-      "id": "5009043",
-      "time": "2026-07-27 09:34:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.08%，成分股中，瀾起科技跌3.57%，華虹宏力跌3.22%，翱捷科技跌3.19%，恆玄科技跌3.08%。"
-    },
-    {
-      "id": "mkt:019fa135-4644-7aab-8e9f-62c908f14257",
-      "time": "2026-07-27 09:34:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share solid-state battery sector surged in early trade: Zijian Electronics and Shengyang Co. hit daily limits; Taihe Technology rose over 10%; Wuhan Landian, Sunwoda and Tongding Interconnect each rallied more than 6%."
-    },
-    {
-      "id": "5009042",
-      "time": "2026-07-27 09:34:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：兼顧強勁經濟與財政可持續發展。"
-    },
-    {
-      "id": "5009041",
-      "time": "2026-07-27 09:34:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.11%，成分股中，安達科技漲3.93%，貝特瑞漲3.12%，民士達漲3.01%，納科諾爾漲2.88%。"
-    },
-    {
-      "id": "mkt:019fa135-2cb4-7aab-8e9f-5cc2c394d474",
-      "time": "2026-07-27 09:34:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "Copper"
-      ],
-      "text": "【NBS: H1 operating revenue at industrial enterprises above designated size +6.5% YoY】China's industrial enterprises above designated size reported H1 operating revenue up 6.5% YoY, accelerating 1.5 ppt from Q1 amid stable industrial output and rising industrial-goods prices. H1 profits rose 18.7% YoY, a 3.2 ppt acceleration versus Q1. By sector, mining profits climbed 33.5% YoY (up 17.3 ppt vs Q1), manufacturing profits rose 20.1% (up 1.0 ppt), while utilities (power, heat, gas and water production and supply) saw profits fall 4.2%. June profits for these firms were up 15.1% YoY."
-    },
-    {
-      "id": "em:jjsj_zgsj:202607273821398796",
-      "time": "2026-07-27 09:33:54",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：上半年算力需求大幅增長 推動電子行業利潤同比增長96.9%】國家統計局工業司首席統計師於衛寧表示，上半年，人工智慧與各領域加速融合，算力需求大幅增長，推動電子行業利潤同比增長96.9%，拉動全部規模以上工業企業利潤增長8.5個百分點，是規模以上工業企業利潤較快增長的重要支撐。"
-    },
-    {
-      "id": "mkt:019fa134-9db4-7aab-8e9f-5072d5fec7be",
-      "time": "2026-07-27 09:33:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Energy",
-        "Copper",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【China NBS: 1H profits at raw-materials manufacturers above designated size up 71.7% YoY】Profits at China's raw-materials manufacturing enterprises above designated size rose 71.7% YoY in 1H, lifting total profits of industrial enterprises above designated size by 8.8 percentage points, the National Bureau of Statistics said. Nonferrous metals profits climbed 99.4% YoY—supported by firmer copper and aluminium demand—adding 4.7 percentage points to aggregate industrial profit growth. Petroleum processing swung back to profit as petroleum-chain product prices rose, while chemical industry profits advanced 67.8% YoY."
-    },
-    {
-      "id": "5009040",
-      "time": "2026-07-27 09:33:27",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場"
-      ],
-      "text": "【攜程集團-S開盤漲近6% 反壟斷行政處罰落地】攜程集團-S開盤漲近6%，訊息面上，市場監管總局依法對攜程集團有限公司濫用市場支配地位實施壟斷行為作出行政處罰，罰沒款合計51.79億元。攜程表示，公司誠懇接受該決定，並將按照適用法律法規採取整改措施，落實該決定的要求。本公司將健全長效治理機制，致力於促進旅遊行業的可持續發展。"
-    },
-    {
-      "id": "te:economy:569907",
-      "time": "2026-07-27 09:33:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "AUS 10Y Yield Falls as Oil Prices Retreat — Australia’s 10-year government bond yield fell around 5% as oil prices retreated following a pause in the US-Iran conflict. The US suspended its nearly two-week campaign of strikes against Iran beginning late Friday, while Tehran said it had ended its retaliatory attacks and held talks with Oman over the Strait of Hormuz. Still, yields remained near a two-month high as concerns over persistent price pressures in Australia linger. The second-quarter CPI report, due on Wednesday, is expected to show core inflation rose 0.9% in the quarter, lifting the annual rate to 3.7% from 3.5%. The anticipated reading would remain well above the RBA's 2%–3% target range, reinforcing bets that policymakers will maintain a tightening bias. Markets currently imply a 40% chance the RBA will lift the 4.35% cash rate in August, with a move by November almost fully priced. Elsewhere, focus is on the upcoming monetary policy meeting by the US Federal Reserve, where rates are expected to be left on hold."
-    },
-    {
-      "id": "5009039",
-      "time": "2026-07-27 09:33:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內漲1%，現報6949.20點。"
-    },
-    {
-      "id": "5009038",
-      "time": "2026-07-27 09:33:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "電池產業鏈開盤走強，聖陽股份、紫建電子漲停，天宏鋰電漲超10%，時代萬恆、欣旺達、海科新源漲超6%，百川盈孚資料顯示，7月24日VC均價為20萬元/噸，近一個多月漲幅超40%；其中7月23日單日跳漲2萬元/噸，時隔4年多再破20萬元/噸關口。"
-    },
-    {
-      "id": "mkt:019fa134-34ed-7aab-8e9f-4d4ab5d41d5a",
-      "time": "2026-07-27 09:33:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish",
-        "CNH",
-        "Hang Seng Index"
-      ],
-      "text": "【NBS: rapid expansion of new growth drivers lifts related industries' profits】NBS Industrial Department chief statistician Yu Weining said new growth drivers’ rapid expansion drove marked profit gains in 1H. Notable increases: non‑metallic materials — recycled rubber manufacturing +133.3%, graphite and carbon products manufacturing +61.0%; metals — aluminum smelting +117.1%, copper smelting +53.9%; data‑center interconnect — optical fiber manufacturing +410.4%, optical cable manufacturing +39.8%; equipment manufacturing — additive manufacturing equipment +55.4%, specialized equipment for semiconductor devices +18.7%."
-    },
-    {
-      "id": "5009037",
-      "time": "2026-07-27 09:32:58",
-      "tags": [],
-      "text": "【國家統計局：上半年算力需求大幅增長，推動電子行業利潤同比增長96.9％】國家統計局工業司首席統計師於衛寧解讀資料表示，上半年電子相關行業利潤高速增長。上半年，人工智慧與各領域加速融合，算力需求大幅增長，推動電子行業利潤同比增長96.9％，拉動全部規模以上工業企業利潤增長8.5個百分點，是規模以上工業企業利潤較快增長的重要支撐。其中，伺服器、高效能工作站相關領域中，計算機整機制造、計算機外圍裝置製造行業利潤分別增長689.3％、305.8％；電子器件製造領域中，積體電路製造、半導體分立器件製造行業利潤增長2579.5％、31.2％；電子元件及電子專用材料製造領域中，電子專用材料製造、電子電路製造行業利潤增長209.7％、26.9％。（國家統計局）"
-    },
-    {
-      "id": "mkt:019fa134-037a-7aab-8e9f-40c282fa60d7",
-      "time": "2026-07-27 09:32:48",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent"
-      ],
-      "text": "【Where to Park Spare Cash: Money-market Yield Snapshot】Tencent's Licaitong Current+ 7-day annualized yield ranged 0.7320%–1.4850%; WeChat Wallet's Lingqiantong 7-day annualized yield ranged 0.9220%–1.0130%; Alipay's Yu'ebao 7-day annualized yield ranged 0.9520%–1.0610%."
-    },
-    {
-      "id": "mkt:019fa133-f68a-7aab-8e9f-393783778fff",
-      "time": "2026-07-27 09:32:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "SSE Composite"
-      ],
-      "text": "【NBS: AI-driven compute demand lifts 1H electronics profits 96.9% YoY】National Bureau of Statistics chief statistician Yu Weining said accelerated AI integration across sectors drove a sharp rise in compute demand in 1H, pushing electronics sector profits up 96.9% YoY and adding 8.5 percentage points to profit growth at industrial firms above designated size, a key support for faster overall industrial profit growth. Subsector details: server/HPC-related — computer system manufacturing +689.3% YoY, computer peripheral manufacturing +305.8%; electronic devices — integrated circuit manufacturing +2,579.5%, semiconductor discrete device manufacturing +31.2%; electronic components and specialized materials — electronic special materials manufacturing +209.7%, electronic circuit manufacturing +26.9%."
-    },
-    {
-      "id": "5009036",
-      "time": "2026-07-27 09:32:00",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【旅遊酒店板塊盤初活躍 華天酒店漲停】早盤旅遊酒店板塊活躍，華天酒店漲停，君亭酒店、錦江酒店、首旅酒店、金陵飯店、眾信旅遊跟漲。訊息面上，7月25日，市場監管總局依法對攜程濫用市場支配地位實施壟斷行為作出行政處罰，罰沒款合計51.79億元。"
-    },
-    {
-      "id": "5009035",
-      "time": "2026-07-27 09:31:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內跌6%，現報5457.00元。"
-    },
-    {
-      "id": "5009034",
-      "time": "2026-07-27 09:31:58",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家統計局工業司首席統計師於衛寧解讀2026年1—6月份工業企業利潤資料】總體看，上半年規模以上工業企業利潤實現較快增長。同時也要看到，外部環境複雜多變、國際大宗商品價格走勢仍具不確定性，工業企業還面臨市場需求不足、資金週轉壓力較大等問題。下階段，要全面貫徹落實黨中央、國務院決策部署，堅持穩中求進、因地制宜，在培育壯大新興產業、未來產業和改造提升傳統產業上持續用力，推進新舊動能平穩接續轉換，推動工業經濟高質量發展。"
-    },
-    {
-      "id": "5009033",
-      "time": "2026-07-27 09:31:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局工業司首席統計師於衛寧解讀2026年1—6月份工業企業利潤資料】工業企業單位成本持續下降，盈利能力改善。上半年，規模以上工業企業每百元營業收入中的成本為84.89元，同比下降0.55元，工業企業累計單位成本今年以來持續保持下降態勢。上半年，規模以上工業企業營業收入利潤率為5.70%，同比提高0.59個百分點，營收利潤率達2024年以來各月累計最高水平。"
-    },
-    {
-      "id": "5009032",
-      "time": "2026-07-27 09:31:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家統計局工業司首席統計師於衛寧解讀2026年1—6月份工業企業利潤資料】多種型別企業利潤較快增長。分企業型別看，上半年，規模以上工業股份制企業、國有控股企業利潤同比分別增長24.7%、17.9%，較一季度分別加快3.8個、7.8個百分點；分規模看，上半年，規模以上工業大型、中型、小型企業利潤分別增長20.3%、21.3%、12.9%。"
-    },
-    {
-      "id": "5009031",
-      "time": "2026-07-27 09:31:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國家統計局工業司首席統計師於衛寧解讀2026年1—6月份工業企業利潤資料】原材料製造業利潤快速增長。上半年，規模以上原材料製造業利潤同比增長71.7%，拉動全部規模以上工業企業利潤增長8.8個百分點。從行業看，在銅、鋁等有色金屬產品需求向好等因素推動下，有色行業利潤增長99.4%，拉動全部規模以上工業企業利潤增長4.7個百分點；在石油產業鏈條相關產品價格上漲推動下，石油加工行業同比扭虧為盈，化工行業利潤增長67.8%。"
     }
   ]
 }

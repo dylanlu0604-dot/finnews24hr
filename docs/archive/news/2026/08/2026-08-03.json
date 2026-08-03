@@ -1,7 +1,196 @@
 {
   "date": "2026-08-03",
-  "count": 559,
+  "count": 579,
   "items": [
+    {
+      "id": "mkt:019fc542-673f-7aab-8f4c-05197426b178",
+      "time": "2026-08-03 09:34:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share nuclear-power theme extended gains: Yingfeng Environment and Libert each hit daily trading limits; Changfu Co. and Ruidi Zhiqu rose more than 10%; Lihang Technology, Hahan Huatong, Tianli Composite and Jinlihua Electric also advanced."
+    },
+    {
+      "id": "mkt:019fc542-2b87-7aab-8f4b-f81459ba88f4",
+      "time": "2026-08-03 09:34:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share gear-reducer sector rallied intraday; Zhongda Lide hit the daily limit, while Ruidi Zhiju, Fengguang Precision and Lvde Xiebo advanced."
+    },
+    {
+      "id": "5021383",
+      "time": "2026-08-03 09:34:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【減速器板塊短線拉昇，中大力德漲停】減速器板塊短線拉昇，中大力德漲停，瑞迪智驅、豐光精密、綠的諧波紛紛走高。"
+    },
+    {
+      "id": "5021382",
+      "time": "2026-08-03 09:33:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲7%，現報35240.00元。"
+    },
+    {
+      "id": "5021381",
+      "time": "2026-08-03 09:33:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆銘達新設子公司 含AI及積體電路相關業務】企查查APP顯示，近日，深圳恆銘達精工有限公司成立，經營範圍包含：人工智慧硬體銷售；積體電路設計；積體電路晶片設計及服務；積體電路晶片及產品銷售；半導體分立器件銷售等。企查查股權穿透顯示，該公司由恆銘達全資持股。"
+    },
+    {
+      "id": "5021380",
+      "time": "2026-08-03 09:33:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人形機器人概念盤初走強 中大力德2連板】早盤人形機器人概念走強，中大力德2連板，福萊新材 漲停，臥龍電驅、豐光精密、奧比中光、綠的諧波等跟漲。訊息面上，特斯拉Optimus專案負責人Ashok Elluswamy於2026年7月30日透過社交平臺發文，將Optimus的遠期年產能目標修正為1000萬臺。這一數字為原100萬臺規劃產能的十倍，標誌著特斯拉人形機器人產能規劃的全面升級。"
+    },
+    {
+      "id": "5021379",
+      "time": "2026-08-03 09:33:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "券商、金融科技股早盤下挫，湘財股份逼近跌停，國盛證券跌超9%，廣發證券、指南針、同花順、中銀證券跟跌。"
+    },
+    {
+      "id": "5021378",
+      "time": "2026-08-03 09:33:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "港交所5年期離岸國債期貨上市首日開盤報106.685元。"
+    },
+    {
+      "id": "mkt:019fc540-8e84-7aab-8f4b-f33216b0a01e",
+      "time": "2026-08-03 09:32:50",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "Mainland A-share commercial property operators sector surged; Jinhe Commercial Management hit the daily limit, while Shenzhen SEG, Xiangjiang Holdings, Hualian, Light Textile City and Haining Leather City advanced."
+    },
+    {
+      "id": "5021377",
+      "time": "2026-08-03 09:32:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5021376",
+      "time": "2026-08-03 09:32:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【商業物業經營板塊直線拉昇，錦和商管漲停】商業物業經營板塊直線拉昇，錦和商管漲停，深賽格、香江控股、華聯股份、輕紡城、海寧皮城等紛紛走高。"
+    },
+    {
+      "id": "5021375",
+      "time": "2026-08-03 09:32:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜港股跌超9%】智譜港股跌9.77%，報893.00港元。"
+    },
+    {
+      "id": "mkt:019fc540-077c-7aab-8f4b-ea87ae910f8d",
+      "time": "2026-08-03 09:32:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Most-active polysilicon futures contract jumped over 6% to 34,925 yuan/ton."
+    },
+    {
+      "id": "5021374",
+      "time": "2026-08-03 09:32:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果四季度指引偏弱，高估值下短期缺乏催化】蘋果公司釋出2026年三季度財報，營收與利潤雖創同期新高，但四季度業績指引顯著低於市場預期。儘管基本面資料表現良好，但成本壓力上行與服務業務增速放緩，使當前蘋果高估值缺乏短期業績的有力支撐，近期股價回撥正是反映了市場對預期差的重新定價。蘋果公司三季度毛利率超預期，主要得益於約2個百分點的一次性關稅退稅紅利；剔除該因素後，基礎毛利率迴歸常態，盈利質量有所打折。同時，公司服務業務營收雖創紀錄，但增速回落至12%，不及市場預期的14%至16%，這一定程度上削弱了高估值賴以維繫的核心邏輯。展望四季度，處理器及記憶體晶片等零部件價格維持高位，再加上匯率波動可能產生拖累，公司給出的指引營收增速僅為9%至11%，遠低於市場一致預期的12%以上。蘋果公司管理層交接帶來了戰略不確定性，端側AI商業化兌現節奏偏慢，硬體創新週期尚未形成強勁拉動。當前蘋果市盈率處於35倍高位，短期缺乏新的增長催化劑，需警惕估值消化過程中的波動風險。中長期蘋果公司的核心價值仍取決於AI落地實效與毛利率韌性。"
+    },
+    {
+      "id": "5021373",
+      "time": "2026-08-03 09:31:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲6%，現報34915.00元。"
+    },
+    {
+      "id": "5021372",
+      "time": "2026-08-03 09:31:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴港股上漲6%。"
+    },
+    {
+      "id": "mkt:019fc53f-4dfa-7aab-8f4b-e455c1468a73",
+      "time": "2026-08-03 09:31:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "09988.HK",
+        "Impact bullish",
+        "09888.HK"
+      ],
+      "text": "Hang Seng Tech Index extended gains to 1%; Alibaba (09988.HK) up over 5%, Baidu (09888.HK) up over 3%."
+    },
+    {
+      "id": "5021371",
+      "time": "2026-08-03 09:31:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓綜合股指開盤上漲 0.7%，報 6280.58 點。"
+    },
+    {
+      "id": "mkt:019fc53f-2ea4-7aab-8f4b-de0552d4bc75",
+      "time": "2026-08-03 09:31:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "At the open Monday, Aug 3, China’s CSI 300 Index fell 26.38 points (0.57%) to 4,561.82. The Shanghai Composite opened down 19.65 points (0.51%) at 3,812.61; the Shenzhen Composite down 81.83 points (0.60%) at 13,497.10; the ChiNext Index down 23.87 points (0.71%) at 3,320.09; the STAR 50 Index down 16.67 points (1.02%) at 1,619.29."
+    },
+    {
+      "id": "5021370",
+      "time": "2026-08-03 09:30:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4880.560點；恒生指數現漲0.531%。"
+    },
     {
       "id": "mkt:019fc53e-87db-7aab-8f4b-d1a2cd4f595f",
       "time": "2026-08-03 09:30:37",
