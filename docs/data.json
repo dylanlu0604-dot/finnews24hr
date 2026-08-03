@@ -1,7 +1,120 @@
 {
-  "updated": "2026-08-03 09:50:58",
-  "count": 17949,
+  "updated": "2026-08-03 09:54:50",
+  "count": 17952,
   "items": [
+    {
+      "id": "te:economy:571960",
+      "time": "2026-08-03 09:54:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Manufacturing PMI",
+        "Importance 3"
+      ],
+      "text": "China Factory Activity Growth at 4-Month Low — The RatingDog China Manufacturing PMI declined to a four-month low of 51.5 in July 2026 from 51.7 in June, falling below market forecasts of 51.5. It marked the joint-longest period of expansion in five years, matching the sequence from November 2023 to June 2024. New orders rose for the fourteenth consecutive month, the longest since 2018, boosted by foreign sales."
+    },
+    {
+      "id": "5021417",
+      "time": "2026-08-03 09:53:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達4.03%，成分股中，華海清科跌12.36%，拓荊科技跌9.62%，中科飛測跌8.69%，華虹宏力跌8.15%。"
+    },
+    {
+      "id": "5021416",
+      "time": "2026-08-03 09:53:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大模型公司西湖心辰完成B+輪數億元融資】大模型公司西湖心辰8月宣佈，公司近日完成B+輪融資，融資金額達數億元人民幣，由廣發信德領投，西湖創新投、武漢江豚基金、容億投資、南通投管等多家機構跟投，獵聘戰投、58產業基金等產業資本參與，老股東螞蟻集團、湯姆貓提供全面支援。融資資金將主要用於新一代擴散語言模型的持續研發、旗下原生多模態實時互動產品的深度迭代，以及海外市場的進一步拓展。（科創板日報）"
+    },
+    {
+      "id": "5021415",
+      "time": "2026-08-03 09:53:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【么正量子完成數億元融資，社保基金、協鑫能科等參投】合肥么正量子科技有限公司宣佈於近日完成數億元A輪融資。本輪融資由深創投領投，社保基金灣區科技創新股權投資基金（深圳）合夥企業（有限合夥）與深圳市創新資本投資有限公司聯合出資，廣發信德、京銘資本、普華資本、首程控股、協鑫能科等多家機構跟投。據悉，么正量子成立於2022年，孵化自中科大郭光燦院士團隊，是國內QCCD（量子電荷耦合器件）技術路線離子阱量子計算的領軍企業。"
+    },
+    {
+      "id": "5021414",
+      "time": "2026-08-03 09:53:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓綜合股指上漲 1.1%，報 6304.74 點。"
+    },
+    {
+      "id": "te:markets:571959",
+      "time": "2026-08-03 09:53:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Rises to 2-Month High — The New Zealand dollar rose to around $0.589 on the first trading day of August, reaching a two-month high, as a fresh wave of yen buying weighed broadly on the US dollar, while fresh negotiations in the Middle East lifted risk appetite. The greenback extended its decline after Japan confirmed it had engaged in joint yen-buying intervention with the US on Friday. Meanwhile, President Donald Trump said new talks with Iran would begin on Monday after he canceled a weekend attack against Tehran, raising hopes for progress toward resolving the months-long conflict. Improving domestic sentiment, with New Zealand businesses and consumers becoming more optimistic, also underpinned the kiwi. Currently, markets are almost fully pricing in a quarter-point rate hike by the Reserve Bank of New Zealand in September."
+    },
+    {
+      "id": "mkt:019fc552-ca18-7aab-8f4c-ad98cd37b7dc",
+      "time": "2026-08-03 09:52:44",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share consumer electronics sector rallied briefly; Kaiwang Technology hit the daily trading limit. Peers Zhi Dongli, Hongfuhan, Aoni Electronics, Yingshi Innovation and Gongda Diansheng also rose."
+    },
+    {
+      "id": "5021413",
+      "time": "2026-08-03 09:52:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【燃氣輪機概念表現活躍 飛沃科技漲超10%】燃氣輪機概念表現活躍，飛沃科技漲超10%，汽輪科技、東方電氣、萬澤股份、常寶股份、應流股份跟漲。訊息面上，飛沃科技近期表示，公司已經與GEV簽署燃氣輪機領域合作MOU。公司還與貝克休斯簽署五年期的戰略供貨協議，產品類別涵蓋緊韌體、鈑金件、精密機械加工件、管路件等，已經從產品認證向批次出貨邁進。"
+    },
+    {
+      "id": "5021412",
+      "time": "2026-08-03 09:52:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【消費電子板塊短線拉昇，凱旺科技漲停】消費電子板塊短線拉昇，凱旺科技漲停，智動力、鴻富瀚、奧尼電子、影石創新、共達電聲等跟漲。"
+    },
+    {
+      "id": "mkt:019fc551-c3cc-7aab-8f4c-a3c00adb2174",
+      "time": "2026-08-03 09:51:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【China auto dealers' inventory warning index 61.1% in July】China Automobile Dealers Association said its dealer inventory warning index was 61.1% in July 2026, up 3.9 percentage points YoY and MoM and remaining above the 50% expansion-contraction threshold. Dealers expect August to remain seasonally weak as nationwide heat suppresses showroom traffic and keeps consumers cautious, though concentrated graduation and back-to-school demand should provide some lift and sales are expected to be stronger than July."
+    },
+    {
+      "id": "mkt:019fc551-0768-7aab-8f4c-9c3f4678d76f",
+      "time": "2026-08-03 09:50:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "【July RatingDog China Manufacturing PMI 50.9; eighth month of expansion, ties five-year record】RatingDog China manufacturing PMI fell to 50.9 in July, down 0.8 percentage points from June, marking the eighth consecutive month of expansion and tying the longest expansion cycle in five years. Expansion continued but slowed: new orders rose and cost pressures eased, while new export orders returned to expansion. Purchasing activity declined and firms’ input inventories continued to accumulate—risks to monitor for downstream demand and production activity."
+    },
     {
       "id": "mkt:019fc550-a0ab-7aab-8f4c-94555b477c84",
       "time": "2026-08-03 09:50:23",
@@ -9,6 +122,15 @@
         "MKT News"
       ],
       "text": "【KOSPI volatility drains investors' brokerage cash pool】KOSPI volatility since July has sharply depleted investor cash held at brokerages, shrinking a key liquidity pool, the Korean Financial Investment Association (KOFIA) said. Average daily investor deposits fell by nearly 20 tln won month‑on‑month last month and are about 10 tln won lower than in March, when a US‑Iran military clash triggered a market correction. Deposits stood at 104.6584 tln won as of the 30th of last month (the day KOSPI hit a local low), down from a record 139.6948 tln won on June 4 — a drop of more than 35 tln won in roughly two months. Investor deposits are funds in securities accounts used to buy stocks; the decline reduces potential buying power and weakens market supply‑demand momentum."
+    },
+    {
+      "id": "5021411",
+      "time": "2026-08-03 09:50:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓股震盪嚇退投資者，市場“彈藥庫”縮水】據韓媒報道，隨著韓國綜合股價指數（KOSPI）自7月以來劇烈震盪，就連作為股市觀望資金池的投資者存款也正在快速減少。上個月，投資者日均存款規模較前一個月驟降近20萬億韓元。這一水平較今年3月少約10萬億韓元。當時，由於美國與伊朗爆發軍事衝突，KOSPI經歷了一輪調整。根據韓國金融投資協會3日公佈的資料，截至上月30日，即KOSPI指數創下階段性低點當天，投資者存款規模為104.6584萬億韓元。相比6月4日創下歷史最高紀錄的139.6948萬億韓元，僅約兩個月時間便減少超過35萬億韓元。投資者存款是指投資者存入證券公司賬戶用於購買股票的資金。資金池越大，市場流動性增加的可能性就越高。存款減少時，市場的供求動能必然減弱。"
     },
     {
       "id": "mkt:019fc54e-25fe-7aab-8f4c-8ff6a3248b61",
@@ -241,6 +363,14 @@
         "焦點"
       ],
       "text": "科創50日內跌幅達3％，成分股中，華海清科跌10.8％，中科飛測跌7.2％，拓荊科技跌6.9％，佰維儲存跌6.6％。"
+    },
+    {
+      "id": "5021396",
+      "time": "2026-08-03 09:40:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滴灌通李小加：牛碼新市的資金端只面向境外的機構投資者和專業投資者開放】8月3日，滴灌通成立五週年之際，創始人李小加釋出網志表示，從今往後，滴灌通仍然是母公司的名稱和早期品牌，而牛碼新市則是公司的核心產品——一個市場——的品牌。牛碼新市是連線合同法資產端與證券法資金端的市場基礎設施，李小加介紹，“我們組織掛牌、維護標準、支援流通，這些職能看起來接近交易所的一部分工作，但在牛碼新市裡，我們的運營模式是——我們不沾錢、不沾貨、不做撮合成交本身的清算交收。牛碼新市在制度設計上，儘可能將資金託管、交易執行和投資決策等環節外包給持牌中介機構，最小化平臺自身對客戶資金和交易的控制權，並持續探索進一步剝離相關風險。”李小加強調，牛碼新市的資金端只面向境外的機構投資者和專業投資者開放；中國境內的任何投資者都不參與本市場的資金端。"
     },
     {
       "id": "mkt:019fc547-0f63-7aab-8f4c-4ce563cdd3e5",
@@ -166251,99 +166381,6 @@
         "市場"
       ],
       "text": "【人形機器人概念震盪反彈 首開股份、明新旭騰雙雙漲停】人形機器人概念盤中震盪反彈，明新旭騰、首開股份漲停，鑫宏業、凱龍高科、貝斯特、兆豐股份、寧波華翔等跟漲。"
-    },
-    {
-      "id": "mkt:019fa147-e55b-7aab-8e9f-e614a2799fa0",
-      "time": "2026-07-27 09:54:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-shares: Shenzhen Composite Index and ChiNext Index both rose more than 1%; Shanghai Composite gained 0.24%. N Changxin saw turnover exceed 80 billion yuan; shares were up 427.6% at 45.68 yuan per share."
-    },
-    {
-      "id": "5009091",
-      "time": "2026-07-27 09:54:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【醫藥商業板塊震盪走高】醫藥商業板塊震盪走高，人民同泰、塞力醫療漲停，合富中國、建發致新、達嘉維康、漱玉平民、潤達醫療跟漲。相關ETF方面，醫藥50ETF富國（515950）漲1.08%，成交額543.22萬元，醫藥ETF匯添富（159929）漲1.08%，成交額2786.18萬元。"
-    },
-    {
-      "id": "5009090",
-      "time": "2026-07-27 09:53:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內漲2%，現報7023.60點。"
-    },
-    {
-      "id": "5009089",
-      "time": "2026-07-27 09:53:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【中證500股指期貨(IC)主力合約日內漲超1%】中證500股指期貨(IC)主力合約日內漲超1%，現報7514.4點。"
-    },
-    {
-      "id": "5009088",
-      "time": "2026-07-27 09:53:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【李在明下令維持油價上限，直至油價不確定性徹底消除】韓國總統李在明週日指示高層官員，鑑於中東局勢再度趨緊，需維持油價限價政策，直至原油市場的不確定性完全消散。"
-    },
-    {
-      "id": "5009087",
-      "time": "2026-07-27 09:53:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲1.02%，現報13915.267點；上證指數漲0.20%，現報3821.671點；創業板指漲1.25%，現報3524.416點。"
-    },
-    {
-      "id": "5009086",
-      "time": "2026-07-27 09:52:51",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【SK創新能源事業部將從澳大利亞氣田進口凝析油】韓國 SK 集團能源子公司 SK 創新能源事業部週一宣佈，將從其 14 年前投資的澳大利亞海上氣田進口凝析油，這也是該專案首次向韓國輸送凝析油。該企業投資的巴羅薩氣田坐落於澳大利亞西北海岸約 300 公里海域，已於今年 1 月正式投產。公司釋出公告稱，首批 30 萬桶凝析油貨船預計下月初抵達首爾西側的仁川港。"
-    },
-    {
-      "id": "mkt:019fa146-07ea-7aab-8e9f-dfba849e918d",
-      "time": "2026-07-27 09:52:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "03317.HK"
-      ],
-      "text": "【Xunce (03317.HK) and Shenzhen Kaihong reach strategic cooperation】Xunce (03317.HK) said it has entered a strategic cooperation with Shenzhen Kaihong Digital Industry Development Co. The partnership will focus on AI data infrastructure, tokenization of terminal data applications, and token-based commercial models."
-    },
-    {
-      "id": "5009085",
-      "time": "2026-07-27 09:51:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【迅策與深開鴻達成戰略合作】記者從迅策（03317.HK）獲悉，該公司與深圳開鴻數字產業發展有限公司（以下簡稱“深開鴻”）達成戰略合作，雙方將在AI資料基礎設施、終端資料Token化應用、Token商業模式三大方向展開全面合作。"
-    },
-    {
-      "id": "5009084",
-      "time": "2026-07-27 09:51:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股半導體股走低 瀾起科技跌近8%】截至發稿，瀾起科技(06809.HK)跌7.94%，華虹宏力(01347.HK)跌7.68%，兆易創新(03986.HK)跌7.48%。"
     }
   ]
 }
