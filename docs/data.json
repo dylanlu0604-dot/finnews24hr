@@ -1,7 +1,69 @@
 {
-  "updated": "2026-08-03 09:07:02",
-  "count": 17971,
+  "updated": "2026-08-03 09:11:00",
+  "count": 17974,
   "items": [
+    {
+      "id": "mkt:019fc52b-92d6-7aab-8f4b-48c53d1af05d",
+      "time": "2026-08-03 09:09:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CAOCAO signs strategic cooperation with Zhuhai's Xiangzhou district】CAOCAO has signed a strategic cooperation agreement with Zhuhai's Xiangzhou district to deliver a land-air integrated smart mobility pilot. CAOCAO's first autonomous vehicle test units are due to enter designated Xiangzhou road sections for on‑site validation, with plans to progressively scale its AV fleet. The deal also covers construction of an integrated operations hub dubbed \"Green Intelligent Transit Island\" combining automated battery swap, intelligent quality inspection and remote dispatch, and reserves space for low‑altitude aircraft takeoff and landing."
+    },
+    {
+      "id": "mkt:019fc52a-cf3c-7aab-8f4b-418b69d0277f",
+      "time": "2026-08-03 09:09:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Merchants report sudden consumer GPU price rises】Since late July, consumer graphics card prices in China have jumped sharply; some popular models rose by several hundred yuan within days and high-end cards have gained about 1,000 yuan. Merchants and sell-side analysts cite rising upstream memory costs, pauses in bulk shipments by some AIC manufacturers and tighter channel spot supply; retailers are buying on order rather than stocking after earlier memory-driven inventory losses. Ma Liang, chief technology analyst at SDIC Securities, said expanding AI compute demand is prompting memory makers to prioritize higher‑margin HBM capacity, squeezing GDDR6/GDDR7 supply, lifting memory chip prices and pushing GPU production costs higher."
+    },
+    {
+      "id": "mkt:019fc52a-a2a4-7aab-8f4b-3fd451f001a4",
+      "time": "2026-08-03 09:08:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【Dema Technology finalizes plan for embodied-intelligence robotics industrial park】Chinese robotics firm Dema Technology has finalized plans for an embodied-intelligence robotics industrial park. The project is designed to align with the company’s embodied-intelligence strategy and create a full business matrix covering core component design and production, system integration of embodied-robot bodies, and vertical-domain large models and data assetization, aiming to coordinate hardware manufacturing, body innovation, system integration and data intelligence."
+    },
+    {
+      "id": "5021330",
+      "time": "2026-08-03 09:08:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元小幅收窄跌幅，最新下跌0.73%，報156.225。"
+    },
+    {
+      "id": "5021329",
+      "time": "2026-08-03 09:08:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德馬科技具身智慧機器人產業園專案規劃落地】 近期，德馬科技具身智慧機器人產業園專案規劃落地。該產業園計劃圍繞公司整體具身智慧戰略，構建起完整的業務矩陣，覆蓋核心零部件的設計與生產、具身機器人本體系統整合以及垂類大模型與資料資產化三大核心方向，實現硬體製造、本體創新、系統整合、資料智慧協同並進。"
+    },
+    {
+      "id": "5021328",
+      "time": "2026-08-03 09:07:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【 山西釋出地質災害氣象風險黃色預警 】8月3日上午，山西省自然資源廳、山西省氣象局聯合釋出地質災害氣象風險預警：2026年8月3日9時至8月4日9時，預計太原市、大同市、長治市、晉中市、運城市、忻州市、臨汾市、呂梁市等8個市45個縣（市、區）地質災害發生風險較高（黃色預警）。 此外，太原市、大同市、陽泉市、長治市、晉城市、朔州市、晉中市、運城市、忻州市、臨汾市、呂梁市等11個市41個縣（市、區）地質災害發生有一定風險（藍色預警）。請上述地區政府、部門和群眾根據預警等級採取相應的防範措施。"
+    },
+    {
+      "id": "5021327",
+      "time": "2026-08-03 09:07:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南2026年“三支一扶”計劃發現有考試作弊行為】記者從河南省“三支一扶”領導小組協調辦公室獲悉，針對2026年“三支一扶”計劃招募輿情，經核查，發現有非法參與考試作弊行為。目前，已對河南省人事考試中心負責人停職調查。公安機關已成立專案組，對涉嫌違法犯罪行為進行全面偵查調查。下一步，對涉嫌違法犯罪的相關人員，河南將依法嚴厲懲處，偵查調查結果將及時公佈。  （新華社）"
+    },
     {
       "id": "5021326",
       "time": "2026-08-03 09:06:08",
@@ -166532,48 +166594,6 @@
         "市場"
       ],
       "text": "【浙商證券：中長期流動性投放將有助降低同業存單提價發行壓力】浙商證券傳送的點評稱，隨著中期流動性持續淨投放和降準機率提升，央行投放將直接改善商業銀行核心超儲率，並使得同業存單一級市場提價發行壓力下降，當前1.48%左右的1年期同業存單或已進入“愈跌愈買”區間。同業存單一級市場持續提價發行，反映了商業銀行核心超儲偏低的客觀事實。企業結匯和信貸投放中性對狹義流動性的邊際貢獻趨於下降，同時同業活期存款利率調降使得商業銀行同業負債壓力上升，是近兩月核心超儲偏低、同業存單持續提價發行的主要原因。伴隨下半年政府債發行提速，央行仍將持續加大中期流動性淨投放力度；長期流動性方面，為防範長端收益率過快下行，央行可能更趨向於降準、而非國債買賣的方式進行長期流動性投放。"
-    },
-    {
-      "id": "te:markets:569899",
-      "time": "2026-07-27 09:10:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Sony Stock Price Hits 7-week High — Sony shares increased to 3550.00 JPY, the highest since June 2026. Over the past 4 weeks, Sony gained 7.55%, and in the last 12 months, it decreased 2.47%."
-    },
-    {
-      "id": "5008983",
-      "time": "2026-07-27 09:10:04",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【SK 海力士上市助推韓國推進美元迴流計劃】SK 海力士赴美上市募資創下紀錄，韓元受此提振大幅反彈，韓國監管當局因此獲得新動力，推動各大出口企業將海外美元資金匯回本土。這家晶片廠商透過本次上市融資 265 億美元，市場觀測到其持續拋售美元，直接為韓元后續走強奠定基礎。在上週召開的工作會議上，韓國財政部副部長許昌呼籲出口商將更大比例海外營收兌換為韓元，並收回長期滯留境外的資金。海力士大規模結匯充分證明，單家企業的資金操作即可改變外匯市場走勢。這也堅定了韓國監管層的思路：持續數月聯合國內頭部出口企業協同穩匯率，而非單純依靠外匯儲備直接干預。該策略的核心邏輯是，企業自主結匯的效果優於成本高昂的官方直接入市干預。首爾美林證券經濟學家Stephen Lee表示：“SK 海力士開啟的美元拋售潮已形成連鎖放大效應。除海力士因美國存託憑證募資開展結匯外，韓元持續走強也促使此前拖延外幣營收兌換的其他企業跟進拋售美元。”儘管外國投資者拋售股票，但韓元兌美元匯率在7月份反彈了約6%。本月，韓元成為亞洲表現最佳的貨幣，而此前上半年它一直是該地區表現最差的貨幣。"
-    },
-    {
-      "id": "te:markets:569898",
-      "time": "2026-07-27 09:09:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Weakens as US-Iran Hostilities Pause — The dollar index slipped to around 101.2 on Monday, giving back some of last week's gains as oil prices retreated following a pause in hostilities between the US and Iran over the weekend, easing concerns over supply disruptions and inflation. The US suspended its nearly two-week campaign of strikes against Iran beginning late Friday without an official announcement, while Tehran said it had ended its retaliatory military operations and held discussions with Oman over the Strait of Hormuz. Meanwhile, investors are preparing for the Federal Reserve's policy meeting this week, where officials are widely expected to leave interest rates unchanged. However, some market participants believe the central bank could act as early as this week's meeting in response to renewed inflationary pressures. Investors are also awaiting advance Q2 GDP figures and PCE inflation data, as well as earnings from major US companies for fresh insights into the strength of the economy."
-    },
-    {
-      "id": "5008982",
-      "time": "2026-07-27 09:09:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【 外媒：俄羅斯別爾哥羅德市遭大規模襲擊 】 綜合俄新社等媒體27日最新報道，俄羅斯別爾哥羅德市遭大規模襲擊。據俄新社報道，俄羅斯別爾哥羅德州行動指揮部發布訊息稱，該州首府別爾哥羅德市再次遭到烏克蘭軍隊無人機大規模襲擊，已造成12人受傷，其中包括兩名兒童。別爾哥羅德市有多棟建築和多輛汽車在此次襲擊中被破壞。截至發稿，暫未看到烏克蘭方面公開對上述訊息作出回應。"
     }
   ]
 }
