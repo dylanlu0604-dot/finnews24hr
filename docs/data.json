@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-04 04:21:04",
-  "count": 17965,
+  "updated": "2026-08-04 04:24:59",
+  "count": 17964,
   "items": [
+    {
+      "id": "te:markets:572277",
+      "time": "2026-08-04 04:21:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Diamondback Energy earnings above expectations at 6.48 USD — Diamondback Energy (FANG) released earnings per share at 6.48 USD, compared to market expectations of 6.18 USD."
+    },
+    {
+      "id": "te:markets:572276",
+      "time": "2026-08-04 04:21:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Williams Companies earnings in line with market expectations at 0.50 USD — Williams Companies (WMB) released earnings per share at 0.50 USD, in line with market expectations."
+    },
     {
       "id": "5023217",
       "time": "2026-08-04 04:16:37",
@@ -166462,36 +166486,6 @@
         "其他"
       ],
       "text": "國際貨幣基金組織：管理層批准完成辛巴威工作人員監督計劃下的首次審查。"
-    },
-    {
-      "id": "5010837",
-      "time": "2026-07-28 04:24:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【BuzzFeed啟動重組，裁員約35%】美國知名數字新媒體平臺BuzzFeed董事會已於7月22日批准裁員重組方案，計劃在全球各地區、各業務線裁減約35%全職員工及專屬外包人員，以此壓縮運營成本。本次重組相關費用預估650萬至850萬美元，主要計入第三季度財報；該公司預計從三季度起，每年可節省約2900萬至3200萬美元開支；絕大部分重組支出為現金支出，預計在第四季度末完成兌付；此次裁員旨在推動企業實現盈利、創造正向現金流。"
-    },
-    {
-      "id": "te:markets:570181",
-      "time": "2026-07-28 04:24:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Closes at Record High — The S&P/TSX Composite Index rose 0.6% to a record close of 35,568 on Monday as oil prices tumbled following a pause in hostilities between the US and Iran. Crude prices fell after both countries halted strikes over the weekend amid renewed diplomatic efforts, with President Trump reportedly open to restarting peace talks. The decline in oil prices eased energy-driven inflation concerns, pushing Canadian bond yields lower and supporting financials. CIBC gained 0.8% and Brookfield advanced 1.1%. Gold prices rose as lower US Treasury yields boosted demand for the metal, lifting miners. Agnico Eagle and WPM gained 0.6%, while Barrick added 0.8%. Cameco climbed 1.8% after UBS upgraded the stock to Buy. Technology stocks rallied, with Shopify soaring 11.6%, Constellation Software rising 6.4%, and Celestica gaining 4.5%. Shopify jumped after RBC said the company's software has \"great defensibility\" against AI-driven disruption. Celestica is scheduled to report earnings after the closing bell."
-    },
-    {
-      "id": "5010836",
-      "time": "2026-07-28 04:22:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普政府AI自願監管框架即將落地】知情人士透露，特朗普政府即將敲定一套自願性AI監管框架，要求人工智慧企業在向公眾釋出頂尖前沿模型前，先將模型提交政府稽核。知情人士稱，白宮國家網路總監辦公室約兩週前已向OpenAI、Anthropic、谷歌三家企業分發框架草案，三家企業也聯合提交了修改意見。特朗普總統6月初簽署AI相關行政令，要求8月1日前完成這套監管框架制定。該框架旨在建立標準化流程，管控具備快速挖掘網路漏洞能力的新一代高算力AI模型。"
     }
   ]
 }

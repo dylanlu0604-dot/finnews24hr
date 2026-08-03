@@ -1,7 +1,31 @@
 {
   "date": "2026-08-04",
-  "count": 313,
+  "count": 315,
   "items": [
+    {
+      "id": "te:markets:572277",
+      "time": "2026-08-04 04:21:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Diamondback Energy earnings above expectations at 6.48 USD — Diamondback Energy (FANG) released earnings per share at 6.48 USD, compared to market expectations of 6.18 USD."
+    },
+    {
+      "id": "te:markets:572276",
+      "time": "2026-08-04 04:21:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Williams Companies earnings in line with market expectations at 0.50 USD — Williams Companies (WMB) released earnings per share at 0.50 USD, in line with market expectations."
+    },
     {
       "id": "5023217",
       "time": "2026-08-04 04:16:37",
