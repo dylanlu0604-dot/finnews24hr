@@ -1,7 +1,131 @@
 {
-  "updated": "2026-08-03 09:15:11",
-  "count": 17968,
+  "updated": "2026-08-03 09:19:14",
+  "count": 17973,
   "items": [
+    {
+      "id": "mkt:019fc533-18cc-7aab-8f4b-7046c3416f74",
+      "time": "2026-08-03 09:18:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China seagoing ship new orders rise 105.2% YoY in 1H】Ministry of Natural Resources data on Aug. 3 show China’s 1H seagoing ship new contracts, completions and orderbook rose 105.2% YoY, 34.8% and 37.1% respectively; China accounted for 73.9% of global new orders, 55.4% of completions and 63.3% of backlog. Deliveries included more than 40 large vessels — including container ships above 10,000 TEU, ultra-large crude carriers and large LNG carriers. Shipyards report full production schedules, with some orders pushed into 2029 and beyond. High-end deliveries included the world’s first 10,800-car LNG dual-fuel car carrier, the world’s first 24,000-TEU methanol dual-fuel container ship and China’s first 740-TEU pure-electric smart container ship, signalling steady improvement in high-end shipbuilding supply capacity."
+    },
+    {
+      "id": "5021343",
+      "time": "2026-08-03 09:17:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國涉毒犯罪增加 上半年抓獲逾5000人】韓國警方2日說，韓國涉毒犯罪呈增加趨勢，警方今年上半年抓獲5000多名涉案人員，其中逾四成與網路毒品犯罪有關。據韓國多家媒體報道，韓國警方今年3月至6月開展涉毒品犯罪專項打擊行動，上半年抓獲5203名涉毒人員，警方對其中1039人執行逮捕，被捕人數較去年同期增長7.8%。韓國警方說，被抓獲的涉毒人員中，利用網路實施相關犯罪者佔41.9%，較去年同期增加5.1個百分點；從事毒品製造、走私和銷售的人員佔39.2%，較去年同期增加2.8個百分點。在這場專項打擊行動中，警方共追繳犯罪所得38.4億韓元（約合1796.7萬元人民幣）。韓國警方表示，將從本月3日至12月底針對涉毒品犯罪展開下半年專項打擊行動，重點加強對網路涉毒犯罪和外籍人員涉毒犯罪的調查。為此，警方將組建特別調查隊，追查透過“電報”等社交媒體平臺和虛擬資產進行毒品交易的犯罪行為。（新華社）"
+    },
+    {
+      "id": "mkt:019fc531-e46e-7aab-8f4b-6efcade8b508",
+      "time": "2026-08-03 09:16:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold broke above $4,050/oz, up 0.16% intraday."
+    },
+    {
+      "id": "5021342",
+      "time": "2026-08-03 09:16:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4050美元/盎司，日內漲0.07%。"
+    },
+    {
+      "id": "5021341",
+      "time": "2026-08-03 09:16:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【2026年8月3日銀行間外匯市場人民幣匯率中間價】美元/人民幣報6.7898，上調（人民幣貶值）4點； 歐元/人民幣報7.8068，上調182點；\n港元/人民幣報0.86587，上調2.8點； 英鎊/人民幣報9.1227，上調245點；\n澳元/人民幣報4.7608，上調167點； 加元/人民幣報4.8222，上調16點；\n100日元/人民幣報4.2898，上調695點； 人民幣/俄羅斯盧布報11.7743，下調394點；\n紐西蘭元/人民幣報3.9866，上調213點； 人民幣/林吉特報0.6030，上調0.6點；\n瑞士法郎/人民幣報8.3815，下調72點； 新加坡元/人民幣報5.2794，上調42點。"
+    },
+    {
+      "id": "te:economy:571947",
+      "time": "2026-08-03 09:16:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Malaysia Manufacturing Growth Steady in July — Malaysia’s S&P Global Manufacturing PMI came in at 50.7 in July 2026, unchanged from the previous month. Growth in new orders accelerated to an eight-month high, while production increased only slightly. Supporting the rise in total new orders was a renewed increase in new export orders, driven by improved demand from international customers, including those in Europe and the US. This also pushed purchasing activity marginally into expansion territory. However, supplier lead times lengthened for an eighth consecutive month. Meanwhile, firms reported having sufficient capacity to process existing workloads and new order inflows, as reflected by a renewed decline in backlogs. With this, manufacturers reduced employment levels in July. Both input costs and output prices increased at their weakest rates in five months. Nonetheless, business confidence fell to a three-month low and remained subdued by historical standards, as geopolitical tensions continued to weigh on the outlook."
+    },
+    {
+      "id": "5021340",
+      "time": "2026-08-03 09:16:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東外賣推出AI智慧頭盔】8月3日，京東外賣官宣推出AI智慧頭盔，將於近期陸續上崗，首批將免費發放給京東全職騎手，後續逐步向全體騎手開放。該頭盔搭載AI語音助手，內建“單王路線”，會自動解析訂單備註，在送達前主動提醒騎手。"
+    },
+    {
+      "id": "te:markets:571946",
+      "time": "2026-08-03 09:15:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Near 7-Week High — The Australian dollar rose above $0.70, approaching its strongest level in seven weeks as broad weakness in the US dollar and hopes of diplomatic talks in the Middle East offset fading expectations of domestic interest rate hikes. Markets imply next to no chance the Reserve Bank of Australia will hike at its August meeting and see only even odds of a move by December after softer-than-expected second-quarter inflation data reduced the need for further policy tightening. Still, the RBA governor recently warned that another rate hike may still be needed to bring inflation back to target. Meanwhile, Japan’s confirmation of coordinated yen-buying operations with the US Treasury last week broadly weakened the greenback, boosting support for the Aussie. Elsewhere, US President Donald Trump said peace talks with Iran will resume today after key Middle Eastern allies urged a diplomatic solution and the reopening of the Strait of Hormuz, easing supply concerns and pushing oil prices lower."
+    },
+    {
+      "id": "5021339",
+      "time": "2026-08-03 09:15:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年陝西消費市場執行平穩】日前，陝西省統計局釋出上半年全省消費市場執行情況：社會消費品零售總額5844.4億元，同比增長1.1%，其中，除汽車以外的消費品零售額同比增長5.3%。分消費形態看，餐飲收入同比增長2.3%，商品零售額同比增長1%。"
+    },
+    {
+      "id": "5021338",
+      "time": "2026-08-03 09:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7898元。"
+    },
+    {
+      "id": "mkt:019fc530-6869-7aab-8f4b-62404f500bc9",
+      "time": "2026-08-03 09:15:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "JD.com"
+      ],
+      "text": "【JD.com food-delivery arm to roll out AI smart helmet to couriers】JD.com's food-delivery arm said it will roll out an AI-equipped smart helmet to couriers in the near term, initially distributing free units to full-time riders and later expanding access to all riders. The helmet includes a built-in \"Single-King route\" function that automatically parses order notes and issues pre-delivery reminders to riders."
+    },
+    {
+      "id": "5021337",
+      "time": "2026-08-03 09:15:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.12%，報25971.87點，高水87.44點。"
+    },
+    {
+      "id": "5021336",
+      "time": "2026-08-03 09:14:29",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根士丹利超越高盛，躋身除日本外亞洲股票承銷前三】摩根士丹利取代高盛，成為上個月除日本以外的亞洲股票發行三大承銷商之一。今年迄今為止，該市場的總發行量比去年同期增長了55%。根據彙編資料，7月份企業透過股票發行籌集了1620億美元，而去年同期為1048億美元。摩根士丹利的市場份額上升至6.07%，超過了高盛的5.62%；中國國際金融股份有限公司以 13.1% 的份額穩居承銷榜首。長鑫儲存於 7 月完成規模 98.4 億美元的募資，為當月最大一單股票發行專案。"
+    },
     {
       "id": "mkt:019fc52f-8fcb-7aab-8f4b-5d3c7944dd5a",
       "time": "2026-08-03 09:14:16",
@@ -166460,77 +166584,6 @@
         "國際"
       ],
       "text": "【韓國綜指跌幅擴大至1%】韓國綜指跌幅擴大至1%，現報6627.23點。"
-    },
-    {
-      "id": "5008996",
-      "time": "2026-07-27 09:19:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【天橋起重與蘭州理工大學簽署戰略合作協議】據天橋起重訊息，7月22日，蘭州理工大學副校長陳偉一行到天橋起重，雙方開展座談並簽署戰略合作協議。"
-    },
-    {
-      "id": "mkt:019fa127-1dc0-7aab-8e9e-a2b663f8cd4e",
-      "time": "2026-07-27 09:18:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Stock Exchange Weighted Index fell 1%."
-    },
-    {
-      "id": "5008995",
-      "time": "2026-07-27 09:17:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數下跌1%至43,210.95點。"
-    },
-    {
-      "id": "5008994",
-      "time": "2026-07-27 09:17:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中冶沈勘一專案被實名舉報，咸陽淳化人社局查實：套取農民工工資37.2萬】專案資料員實名舉報：中冶沈勘承建的陝西咸陽淳化縣企業孵化基地及標準化廠房建設專案，存在偽造農民工工資花名冊、套取農民工工資專戶資金、管理人員和技術人員從專戶領取工資、涉嫌私刻公章等問題。淳化縣人社局查實，該專案確實套取農民工工資37.2178萬元，責令企業把錢轉回專戶後結案。針對管理及技術人員從農民工工資專戶支出的舉報，人社局解釋：按照釋義，農民工是指為用人單位提供勞動的農村居民，這樣支出並無不妥，記者如果是農村戶籍也系農民工。（澎湃）"
-    },
-    {
-      "id": "5008993",
-      "time": "2026-07-27 09:17:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新航線生物完成近億元A輪融資】近日，山東新航線生物科技有限公司宣佈完成數千萬元的A輪融資。本輪融資由招銀國際資本領投，毅達資本跟投，點石資本擔任本輪融資的獨家財務顧問。本輪融資資金將主要用於耐藥菌噬菌體庫升級及海外業務拓展。"
-    },
-    {
-      "id": "mkt:019fa125-3a5e-7aab-8e9e-9be25a318be0",
-      "time": "2026-07-27 09:16:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures opened the day session up 0.62% at 25,137, trading 172 points above the cash index."
-    },
-    {
-      "id": "5008992",
-      "time": "2026-07-27 09:15:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.7911，較上日調高28點】人民幣兌美元中間價報6.7911，較上日調高28點。"
-    },
-    {
-      "id": "5008991",
-      "time": "2026-07-27 09:15:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7911元。"
     }
   ]
 }
