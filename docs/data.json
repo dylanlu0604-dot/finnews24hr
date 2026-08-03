@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-04 05:32:21",
+  "updated": "2026-08-04 05:36:11",
   "count": 17946,
   "items": [
+    {
+      "id": "5023240",
+      "time": "2026-08-04 05:33:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "TEADS：法院裁定谷歌在部分數字廣告技術市場存在非法反競爭行為後，TEADS 提起訴訟。"
+    },
     {
       "id": "5023239",
       "time": "2026-08-04 05:31:29",
@@ -166298,23 +166306,6 @@
         "市場"
       ],
       "text": "【蘋果市值超越英偉達重回全球第一】當地時間週一，蘋果超越英偉達重新成為全球市值最高公司，為2025年4月以來首次。英偉達股價週一下跌近5%，市值跌至4.77萬億美元，因投資者對AI基礎設施建設的鉅額成本表示擔憂，AI晶片板塊整體走低。與此同時，蘋果股價上漲1%，市值達到4.95萬億美元，該公司將於週四盤後釋出備受關注的財報。英偉達自2025年6月從微軟手中奪下全球市值第一寶座後一直保持該地位，並於去年10月短暫觸及5萬億美元市值。2026年迄今，英偉達股價僅上漲4%，而蘋果已上漲24%。蘋果表現優於大市，因其在AI資本支出上保持謹慎，更傾向於租賃算力而非自建基礎設施，這一策略受到投資者認可。"
-    },
-    {
-      "id": "mkt:019fa580-2c36-7aab-8eb7-7d8a2cb8c9fb",
-      "time": "2026-07-28 05:34:28",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish",
-        "NVDA.O",
-        "Impact bearish"
-      ],
-      "text": "【Apple overtakes NVIDIA to regain world's largest market cap】On Monday Apple (AAPL.O) closed above NVIDIA (NVDA.O) to become the world's most valuable company for the first time since April 2025. NVIDIA slid nearly 5%, cutting its market value to $4.77 tln as investor concerns over large AI infrastructure spending hit the AI-chip sector. Apple rose about 1% to a $4.95 tln market cap; it is scheduled to report quarterly results after the close on Thursday. NVIDIA had held the top spot since overtaking Microsoft in June 2025 and briefly reached $5 tln last October. Year-to-date through 2026, NVIDIA is up ~4% while Apple has gained ~24%, with investors favoring Apple's more cautious AI capex stance and preference for leasing compute over building owned infrastructure."
     }
   ]
 }
