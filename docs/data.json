@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-04 00:47:52",
-  "count": 17952,
+  "updated": "2026-08-04 00:52:14",
+  "count": 17955,
   "items": [
+    {
+      "id": "mkt:019fc889-6570-7aab-8f5c-95dafd59b873",
+      "time": "2026-08-04 00:51:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CENTCOM says U.S. forces continue maritime blockade of Iran, 44 commercial vessels diverted】CENTCOM said on Aug. 3 U.S. forces continue strict enforcement of a maritime blockade on Iran. As of that date they had diverted the routes of 44 commercial vessels, disabled two vessels and boarded and inspected two others."
+    },
+    {
+      "id": "5023080",
+      "time": "2026-08-04 00:50:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱繼續海上封鎖伊朗 已改變44艘商船航行路線】當地時間8月3日，美國中央司令部表示，美軍繼續嚴格執行對伊朗的海上封鎖。截至當天，美軍已改變44艘商業船隻航行路線，使2艘船隻失去行動能力，並登臨檢查2艘船隻。（央視新聞）"
+    },
+    {
+      "id": "5023079",
+      "time": "2026-08-04 00:50:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基解除斯捷潘尼娜駐美國大使職務。"
+    },
+    {
+      "id": "5023078",
+      "time": "2026-08-04 00:48:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國紐約州和另外23個州及哥倫比亞特區起訴特朗普政府，抗議新規允許獲取貧困家庭臨時救助計劃私人資訊。"
+    },
+    {
+      "id": "mkt:019fc886-577d-7aab-8f5c-8ac56deab1d9",
+      "time": "2026-08-04 00:47:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York, 23 other states and the District of Columbia filed suit against the Trump administration seeking to block reforms that would permit access to private TANF data."
+    },
     {
       "id": "mkt:019fc884-cb81-7aab-8f5c-85fb3ae7c521",
       "time": "2026-08-04 00:46:13",
@@ -166420,29 +166464,6 @@
         "其他"
       ],
       "text": "LME期銅收漲88美元，報13732美元/噸。LME期鋁收漲8美元，報3168美元/噸。LME期鋅收漲20美元，報3612美元/噸。LME期鉛收漲4美元，報1891美元/噸。LME期鎳收跌166美元，報17213美元/噸。LME期錫收漲560美元，報54341美元/噸。LME期鈷收平，報56290美元/噸。"
-    },
-    {
-      "id": "mkt:019fa47c-7134-7aab-8eb4-0b34f2df35b5",
-      "time": "2026-07-28 00:50:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Trump says he is in \"good talks\" with Iran, hints something may happen】On Monday en route to Michigan on Air Force One, Trump told reporters the US is in \"good talks\" with Iran, that he has \"plenty of time\" to handle the Iran issue, and that \"it's very possible something will happen\" on a potential agreement. He said he will ask Russia for satellite imagery to assist on Iran and added that once the war ends prices will fall sharply."
-    },
-    {
-      "id": "5010718",
-      "time": "2026-07-28 00:48:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所資料：荷蘭近月天然氣合約暴跌超 10%，報 56.83 歐元 / 兆瓦時。"
     }
   ]
 }

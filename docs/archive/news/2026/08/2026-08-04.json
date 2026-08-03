@@ -1,7 +1,51 @@
 {
   "date": "2026-08-04",
-  "count": 70,
+  "count": 75,
   "items": [
+    {
+      "id": "mkt:019fc889-6570-7aab-8f5c-95dafd59b873",
+      "time": "2026-08-04 00:51:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CENTCOM says U.S. forces continue maritime blockade of Iran, 44 commercial vessels diverted】CENTCOM said on Aug. 3 U.S. forces continue strict enforcement of a maritime blockade on Iran. As of that date they had diverted the routes of 44 commercial vessels, disabled two vessels and boarded and inspected two others."
+    },
+    {
+      "id": "5023080",
+      "time": "2026-08-04 00:50:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱繼續海上封鎖伊朗 已改變44艘商船航行路線】當地時間8月3日，美國中央司令部表示，美軍繼續嚴格執行對伊朗的海上封鎖。截至當天，美軍已改變44艘商業船隻航行路線，使2艘船隻失去行動能力，並登臨檢查2艘船隻。（央視新聞）"
+    },
+    {
+      "id": "5023079",
+      "time": "2026-08-04 00:50:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基解除斯捷潘尼娜駐美國大使職務。"
+    },
+    {
+      "id": "5023078",
+      "time": "2026-08-04 00:48:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國紐約州和另外23個州及哥倫比亞特區起訴特朗普政府，抗議新規允許獲取貧困家庭臨時救助計劃私人資訊。"
+    },
+    {
+      "id": "mkt:019fc886-577d-7aab-8f5c-8ac56deab1d9",
+      "time": "2026-08-04 00:47:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York, 23 other states and the District of Columbia filed suit against the Trump administration seeking to block reforms that would permit access to private TANF data."
+    },
     {
       "id": "mkt:019fc884-cb81-7aab-8f5c-85fb3ae7c521",
       "time": "2026-08-04 00:46:13",
