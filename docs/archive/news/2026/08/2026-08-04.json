@@ -1,7 +1,58 @@
 {
   "date": "2026-08-04",
-  "count": 306,
+  "count": 311,
   "items": [
+    {
+      "id": "mkt:019fc941-1ba4-7aab-8f5f-8c1af24d9f18",
+      "time": "2026-08-04 04:11:55",
+      "tags": [
+        "MKT News",
+        "SNAP.N",
+        "Impact bullish"
+      ],
+      "text": "Snap (SNAP.N) shares rose more than 9% in U.S. after-hours trading."
+    },
+    {
+      "id": "te:markets:572274",
+      "time": "2026-08-04 04:11:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Palantir Technologies earnings above expectations at 0.41 USD — Palantir Technologies (PLTR) released earnings per share at 0.41 USD, compared to market expectations of 0.34 USD."
+    },
+    {
+      "id": "mkt:019fc940-b823-7aab-8f5f-8793a23ab4e8",
+      "time": "2026-08-04 04:11:29",
+      "tags": [
+        "MKT News",
+        "SNAP.N"
+      ],
+      "text": "Snap (SNAP.N) expects third-quarter revenue of $1.7 billion to $1.74 billion."
+    },
+    {
+      "id": "mkt:019fc940-723f-7aab-8f5f-7b91802bfba2",
+      "time": "2026-08-04 04:11:11",
+      "tags": [
+        "MKT News",
+        "SNAP.N",
+        "Impact bullish"
+      ],
+      "text": "Snap (SNAP.N) reported Q2 2026 revenue of $1.6 bln, above the $1.541 bln consensus and up from $1.345 bln a year earlier."
+    },
+    {
+      "id": "mkt:019fc93e-f36a-7aab-8f5f-767b10efc88f",
+      "time": "2026-08-04 04:09:33",
+      "tags": [
+        "MKT News",
+        "ON.O",
+        "Impact bullish"
+      ],
+      "text": "On Semiconductor (ON.O) reported Q2 2026 revenue of $1.60 billion versus a $1.59 billion consensus. It guided Q3 revenue to $1.65 billion–$1.75 billion, versus a $1.67 billion consensus."
+    },
     {
       "id": "mkt:019fc93c-5f7a-7aab-8f5f-6914cca27eda",
       "time": "2026-08-04 04:06:44",
