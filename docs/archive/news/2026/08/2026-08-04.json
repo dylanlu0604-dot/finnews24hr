@@ -1,7 +1,18 @@
 {
   "date": "2026-08-04",
-  "count": 365,
+  "count": 366,
   "items": [
+    {
+      "id": "te:markets:572283",
+      "time": "2026-08-04 06:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.95% — Top currency gainers are South Korean Won (0.95%) and Dollar Index (0.08%). Biggest losers are Norwegian Krone (-0.68%), British Pound (-0.40%), Swiss Franc (-0.36%) and Euro (-0.15%). Meanwhile Japanese Yen was little changed."
+    },
     {
       "id": "5023255",
       "time": "2026-08-04 06:11:27",
