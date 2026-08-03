@@ -1,7 +1,62 @@
 {
   "date": "2026-08-04",
-  "count": 389,
+  "count": 395,
   "items": [
+    {
+      "id": "5023274",
+      "time": "2026-08-04 07:00:54",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國 7 月核心CPI同比漲幅創 2023 年 12 月以來新高。"
+    },
+    {
+      "id": "5023273",
+      "time": "2026-08-04 07:00:14",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國7月CPI年率 2.8%，預期3.00%，前值3.20%。\n韓國7月CPI月率 -0.2%，預期0.1%，前值0.10%。"
+    },
+    {
+      "id": "mkt:019fc9db-326a-7aab-8f60-07a1a1e21f4a",
+      "time": "2026-08-04 07:00:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "South Korea July CPI MoM -0.2% (consensus +0.1%, prior +0.1%)."
+    },
+    {
+      "id": "mkt:019fc9db-224e-7aab-8f5f-f9dcb408ad57",
+      "time": "2026-08-04 07:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea July CPI YoY 2.8% vs 3.0% expected and 3.2% prior."
+    },
+    {
+      "id": "mkt:019fc9db-0117-7aab-8f5f-f1a72d0fec7e",
+      "time": "2026-08-04 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | CPI (MoM) (Jul) | actual -0.2% | consensus 0.1% | previous 0.10%"
+    },
+    {
+      "id": "mkt:019fc9db-004a-7aab-8f5f-e9729fcf05a2",
+      "time": "2026-08-04 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | CPI (YoY) (Jul) | actual 2.8% | consensus 3.00% | previous 3.20%"
+    },
     {
       "id": "5023272",
       "time": "2026-08-04 06:55:01",

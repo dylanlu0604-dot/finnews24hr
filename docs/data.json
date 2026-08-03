@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-04 06:58:13",
-  "count": 17916,
+  "updated": "2026-08-04 07:03:38",
+  "count": 17917,
   "items": [
+    {
+      "id": "5023274",
+      "time": "2026-08-04 07:00:54",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國 7 月核心CPI同比漲幅創 2023 年 12 月以來新高。"
+    },
+    {
+      "id": "5023273",
+      "time": "2026-08-04 07:00:14",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國7月CPI年率 2.8%，預期3.00%，前值3.20%。\n韓國7月CPI月率 -0.2%，預期0.1%，前值0.10%。"
+    },
+    {
+      "id": "mkt:019fc9db-326a-7aab-8f60-07a1a1e21f4a",
+      "time": "2026-08-04 07:00:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "South Korea July CPI MoM -0.2% (consensus +0.1%, prior +0.1%)."
+    },
+    {
+      "id": "mkt:019fc9db-224e-7aab-8f5f-f9dcb408ad57",
+      "time": "2026-08-04 07:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea July CPI YoY 2.8% vs 3.0% expected and 3.2% prior."
+    },
+    {
+      "id": "mkt:019fc9db-0117-7aab-8f5f-f1a72d0fec7e",
+      "time": "2026-08-04 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | CPI (MoM) (Jul) | actual -0.2% | consensus 0.1% | previous 0.10%"
+    },
+    {
+      "id": "mkt:019fc9db-004a-7aab-8f5f-e9729fcf05a2",
+      "time": "2026-08-04 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | CPI (YoY) (Jul) | actual 2.8% | consensus 3.00% | previous 3.20%"
+    },
     {
       "id": "5023272",
       "time": "2026-08-04 06:55:01",
@@ -166004,52 +166059,6 @@
         "市場"
       ],
       "text": "以太幣下跌3.03%，至1886.3500美元。"
-    },
-    {
-      "id": "5010928",
-      "time": "2026-07-28 07:02:55",
-      "tags": [
-        "資料"
-      ],
-      "text": "英國7月BRC商店物價指數年率 0.9%，前值1.20%。"
-    },
-    {
-      "id": "mkt:019fa5d0-7192-7aab-8eb7-f2fff710aecf",
-      "time": "2026-07-28 07:02:08",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "UK July BRC shop price index slowed to 0.9% YoY from 1.2%."
-    },
-    {
-      "id": "mkt:019fa5d0-4e93-7aab-8eb7-eab4d390bf11",
-      "time": "2026-07-28 07:01:59",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | BRC Shop Price Index (YoY) (Jul) | actual 0.9% | previous 1.20%"
-    },
-    {
-      "id": "5010927",
-      "time": "2026-07-28 07:01:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法國代表安理會發言時美國代表離場】當地時間7月27日上午，在聯合國安理會關於烏克蘭問題的緊急公開會上，美國代表團在法國代表發言時公然離場。隨後美國代表發言時，更是公開指責這位長期盟友發表“虛偽的作秀言論”。（CCTV國際時訊）"
-    },
-    {
-      "id": "5010926",
-      "time": "2026-07-28 07:00:49",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國CME全天候黃金期貨上線首週末成交將近1.5萬份合約 散戶為主】美國芝加哥商業交易所集團表示，其1盎司黃金期貨全天候（24/7）交易在首個週末上線時，儘管波動率較低，但需求強於預期，且市場流動性充裕。在新全天候交易時間表啟動的首個週末，共成交近1.5萬份1盎司黃金期貨合約，名義價值約為6000萬美元。芝商所的參與者構成與其現有的1盎司黃金客戶群相似，需求繼續主要來自散戶投資者。"
     }
   ]
 }
