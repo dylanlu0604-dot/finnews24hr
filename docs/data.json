@@ -1,7 +1,107 @@
 {
-  "updated": "2026-08-04 04:01:17",
-  "count": 17971,
+  "updated": "2026-08-04 04:05:11",
+  "count": 17977,
   "items": [
+    {
+      "id": "mkt:019fc93a-27d8-7aab-8f5f-496b56fa1a06",
+      "time": "2026-08-04 04:04:19",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "USDCHF",
+        "Impact bullish"
+      ],
+      "text": "【Dollar index dips 0.02% to 99.894 at NY close】Dollar index (DXY) fell 0.02% to 99.894 at the New York close. EUR/USD 1.1514 (prev. 1.1531); GBP/USD 1.3431 (prev. 1.3482). USD/JPY 156.74 (prev. 158.90); USD/CHF 0.8101 (prev. 0.8082). USD/CAD 1.4045 (prev. 1.4019); USD/SEK 9.5557 (prev. 9.5193)."
+    },
+    {
+      "id": "5023212",
+      "time": "2026-08-04 04:03:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數3日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.02%，在匯市尾市收於99.894。截至紐約匯市尾市，1歐元兌換1.1514美元，低於前一交易日的1.1531美元；1英鎊兌換1.3431美元，低於前一交易日的1.3482美元。1美元兌換156.74日元，低於前一交易日的158.90日元；1美元兌換0.8101瑞士法郎，高於前一交易日的0.8082瑞士法郎；1美元兌換1.4045加元，高於前一交易日的1.4019加元；1美元兌換9.5557瑞典克朗，高於前一交易日的9.5193瑞典克朗。"
+    },
+    {
+      "id": "mkt:019fc939-22da-7aab-8f5f-437f77e25ff1",
+      "time": "2026-08-04 04:03:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices tumble on 3rd】By the close, NYMEX September light sweet crude futures fell $4.33 to settle at $80.34/bbl, down 5.11%. ICE Brent October futures fell $4.16 to settle at $83.77/bbl, down 4.73%."
+    },
+    {
+      "id": "mkt:019fc938-da16-7aab-8f5f-3d388de34f1d",
+      "time": "2026-08-04 04:02:53",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish",
+        "Dow"
+      ],
+      "text": "Boeing (BA.N) shares surged 8%, their largest single-day gain since December 2025."
+    },
+    {
+      "id": "5023211",
+      "time": "2026-08-04 04:02:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價3日大幅下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌4.33美元，收於每桶80.34美元，跌幅為5.11%；10月交貨的倫敦布倫特原油期貨價格下跌4.16美元，收於每桶83.77美元，跌幅為4.73%。"
+    },
+    {
+      "id": "5023210",
+      "time": "2026-08-04 04:01:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音漲8%，創2025年12月份以來最大單日漲幅。"
+    },
+    {
+      "id": "mkt:019fc937-8c99-7aab-8f5f-35bdd29bf873",
+      "time": "2026-08-04 04:01:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Microsoft",
+        "Alphabet",
+        "Meta Platforms",
+        "Tesla",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "Dow",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【US close: Dow hits record, Nasdaq up over 2%】U.S. equities closed Monday: Dow Jones Industrial Average up 1.3% to a record closing high; S&P 500 +1.48%; Nasdaq Composite +2.1%. Microsoft (MSFT.O) and Alphabet (GOOG.O) rose nearly 5%; Meta (META.O) gained about 6%; Tesla (TSLA.O) and NVIDIA (NVDA.O) around 3%. SanDisk (SNDK.O) +6%; SK Hynix (SKHY.O) −0.7%. Nasdaq Golden Dragon Index +0.75%; Alibaba (BABA.N) +4%."
+    },
+    {
+      "id": "5023209",
+      "time": "2026-08-04 04:01:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國科技股七巨頭指數漲3.6%，創3月31日以來最大單日漲幅。"
+    },
+    {
+      "id": "5023208",
+      "time": "2026-08-04 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲1.32%，標普500指數漲1.48%，納指漲2.13%。第一太陽能漲10.28%，Coherent Corp漲9.62%，Lumentum Holdings Inc. Common Stock When Issued漲9.22%，甲骨文漲9.22%，Axon Enterprise漲9.13%。“七姐妹”方面：Meta Platforms漲5.97%，微軟漲4.82%，亞馬遜漲4.61%，谷歌漲4.37%，特斯拉漲3.48%，英偉達漲2.90%，蘋果跌1.84%。"
+    },
     {
       "id": "5023207",
       "time": "2026-08-04 04:00:03",
@@ -166494,48 +166594,6 @@
         "Impact bearish"
       ],
       "text": "US stocks closed mixed on Monday July 27: Dow Jones Industrial Average rose 262.44 points (+0.51%) to 52,209.69; S&P 500 gained 1.28 points (+0.02%) to 7,413.26; Nasdaq Composite fell 43.74 points (-0.18%) to 24,932.08."
-    },
-    {
-      "id": "mkt:019fa52c-26ef-7aab-8eb6-d88f3c8503f3",
-      "time": "2026-07-28 04:02:41",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Amazon (AMZN.O): Ryanair renews five-year contract with Amazon Web Services."
-    },
-    {
-      "id": "mkt:019fa52c-0607-7aab-8eb6-d0961c67c648",
-      "time": "2026-07-28 04:02:33",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "【Dollar index up 0.07% to 101.539 on 27th】The dollar index, measuring the dollar against six major currencies, rose 0.07% to 101.539. At the New York close, EUR/USD was 1.1368, down from 1.1370; GBP/USD 1.3288, down from 1.3326; USD/JPY 163.78, down from 163.84; USD/CHF 0.8190, up from 0.8182; USD/CAD 1.4125, up from 1.4096; USD/SEK 9.7285, up from 9.7158."
-    },
-    {
-      "id": "mkt:019fa52b-54ef-7aab-8eb6-ce41610d090e",
-      "time": "2026-07-28 04:01:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bearish",
-        "NVDA.O",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "【US close: SK Hynix falls >7%; Apple market value nears $5 trillion】US equities closed mixed on Monday: Dow +0.5%, S&P 500 +0.02%, Nasdaq -0.18%. Semiconductors led weakness—SK Hynix -7.5%, NVIDIA -5%, Micron Technology -2%; SanDisk tumbled 11%. Apple +1%, pushing its market capitalization toward $5 trillion. The Nasdaq China Golden Dragon Index rose 2.5% as NetEase gained 3.5% and Alibaba added 2.5%."
     }
   ]
 }
