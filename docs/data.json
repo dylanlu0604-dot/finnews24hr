@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-04 06:04:27",
+  "updated": "2026-08-04 06:08:14",
   "count": 17933,
   "items": [
+    {
+      "id": "5023252",
+      "time": "2026-08-04 06:07:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【訂單翻倍 業績走強 船舶行業維持高景氣 】自然資源部8月3日釋出全國海洋經濟統計資料顯示，今年上半年，我國海船新承接訂單量、完工量和手持訂單量全面上漲，國際市場份額保持領先，其中新接訂單量同比增長105.2%。船舶行業延續高景氣，今年上半年，我國造船三大指標全面增長，國際市場份額保持全球領先。上市公司半年度業績預告也印證這一趨勢，多家船舶企業上半年業績大幅預增，新增訂單穩步攀升。（中證報）"
+    },
+    {
+      "id": "5023251",
+      "time": "2026-08-04 06:06:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超百家藥企釋出上半年業績預告 創新藥出海與價值兌現成主線】Wind資料顯示，截至8月3日，A股共有104家醫藥生物公司披露了2026年半年度業績預告。以預計淨利潤上限來看，58家公司預計今年上半年歸母淨利潤實現增長，其中28家預計歸母淨利潤同比增長超100%。分析人士認為，當前創新藥出海與價值兌現成為核心焦點，市場對授權合作的質量要求日趨嚴格，更關注首付款的含金量、合作方的實力及臨床資料的紮實程度。能夠憑藉領先產品實現海外商業化、並具備持續創新能力的藥企將更受市場青睞。（中證報）"
+    },
+    {
+      "id": "5023250",
+      "time": "2026-08-04 06:06:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【8月首個交易日A股超4000只個股上漲 市場或迎來蓄勢上攻 】8月3日，A股市場縮量震盪，深證成指跌近1%，創業板指跌逾1%。核聚變、光伏玻璃、超導等多個板塊活躍，整個A股市場超4000只股票上漲，逾80只股票漲停。整個A股市場成交額為2.01萬億元，較前一個交易日縮量。資金面上，7月股票型ETF資金淨流入超4700億元。8月3日滬深兩市主力資金淨流出超260億元，資金情緒謹慎。分析人士認為，指數仍具備較強的內生穩定性，在政策、產業趨勢與微觀流動性共同支撐下，調整基本告一段落，市場或迎來蓄勢上攻。（中證報）"
+    },
     {
       "id": "5023248",
       "time": "2026-08-04 06:00:06",
@@ -166162,30 +166187,6 @@
         "XAUUSD"
       ],
       "text": "【Iranian drones strike near Erbil; Khor Mor gas field in Iraqi Kurdistan hit】Iraqi police said at least four Iranian drones struck areas northeast of Erbil early Tuesday, hitting Halifan and Soran districts; fires broke out and two drones crashed near targets. U.S. forces flew more than 10 warplanes and drones over Erbil in response. Iranian state media IRIB reported the Khor Mor gas field in Sulaymaniyah province was also attacked at roughly the same time; Khor Mor holds about 8.2 tcf of gas and is Iraq’s largest non-associated gas field. IRIB said the timing was broadly simultaneous with explosions reported in Erbil, roughly 200 km away."
-    },
-    {
-      "id": "5010895",
-      "time": "2026-07-28 06:07:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：一架美軍無人機在伊拉克安巴爾省上空被擊落。"
-    },
-    {
-      "id": "5010894",
-      "time": "2026-07-28 06:06:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特指責伊朗支援的民兵組織襲擊石油設施。"
-    },
-    {
-      "id": "5010893",
-      "time": "2026-07-28 06:05:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Anthropic：從未倡導過禁止公開權重模型】Anthropic回應近期相關說法，稱其從未主張全面封禁開放權重人工智慧模型。公司執行長達里奧·阿莫代伊表示，該企業並不認同“開放權重模型本身更便於搭建AI安全防護機制”這一觀點。此番表態凸顯行業內圍繞人工智慧開源發展與安全管控如何平衡的持續爭論。"
     }
   ]
 }
