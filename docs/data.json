@@ -1,7 +1,442 @@
 {
-  "updated": "2026-08-04 01:38:29",
-  "count": 17937,
+  "updated": "2026-08-04 02:13:07",
+  "count": 17953,
   "items": [
+    {
+      "id": "mkt:019fc8d3-6e6d-7aab-8f5d-b20396de26e8",
+      "time": "2026-08-04 02:12:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US President Trump said he would not allow Iran to charge fees for passage through the Strait of Hormuz."
+    },
+    {
+      "id": "5023140",
+      "time": "2026-08-04 02:11:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我不會允許伊朗對霍爾木茲海峽通航收費。"
+    },
+    {
+      "id": "5023139",
+      "time": "2026-08-04 02:11:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數漲幅擴大至盤中最高點2%。"
+    },
+    {
+      "id": "mkt:019fc8d2-a0a3-7aab-8f5d-a9e4ce5d2885",
+      "time": "2026-08-04 02:11:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Acting US Attorney General Blanche will do well, Trump said."
+    },
+    {
+      "id": "5023138",
+      "time": "2026-08-04 02:11:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：託德·布蘭奇將會出色完成這項工作（司法部長），我不清楚他們達成了什麼協議。"
+    },
+    {
+      "id": "5023137",
+      "time": "2026-08-04 02:10:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱當前談判是伊朗達成協議的最後機會】美國總統特朗普表示，當下的談判是伊朗達成協議的“最後機會”。特朗普在橢圓形辦公室的活動中表示：事態很快將走向其中一種結局。特朗普稱：“我們討論海峽通航事宜，實現海峽開放，力爭最遲明日全面打通航道，這是第一階段目標。”他補充道，第二階段將開展去核相關談判。"
+    },
+    {
+      "id": "5023136",
+      "time": "2026-08-04 02:09:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：會談是伊朗避免美國打擊的最後機會。"
+    },
+    {
+      "id": "5023135",
+      "time": "2026-08-04 02:08:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗人有時否認進行談判，儘管他們實際上花了很長時間磋商。"
+    },
+    {
+      "id": "5023134",
+      "time": "2026-08-04 02:07:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正討論最遲明天開放海峽。"
+    },
+    {
+      "id": "mkt:019fc8cd-edad-7aab-8f5d-a54210dc9934",
+      "time": "2026-08-04 02:06:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the second phase of talks with Iran is denuclearization."
+    },
+    {
+      "id": "mkt:019fc8cd-583a-7aab-8f5d-9a98c9ad05e5",
+      "time": "2026-08-04 02:05:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump says talks are underway to reopen the Strait of Hormuz; reopening is the first phase of negotiations and could occur as soon as tomorrow."
+    },
+    {
+      "id": "5023133",
+      "time": "2026-08-04 02:04:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗無核化階段需要“一段時間”。"
+    },
+    {
+      "id": "5023132",
+      "time": "2026-08-04 02:03:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗議題第二階段目標為去核化，前提是海峽局勢相關事宜落地。"
+    },
+    {
+      "id": "mkt:019fc8cb-8667-7aab-8f5d-938ad6bdd80e",
+      "time": "2026-08-04 02:03:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said denuclearization talks will take some time."
+    },
+    {
+      "id": "5023131",
+      "time": "2026-08-04 02:03:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗問題談判第一階段是重開霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019fc8cb-45f1-7aab-8f5d-88a94d536ede",
+      "time": "2026-08-04 02:03:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "U.S. President Trump said negotiations with Iran are progressing rapidly and that the outcome may be known today or tomorrow."
+    },
+    {
+      "id": "5023130",
+      "time": "2026-08-04 02:02:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：海灣國家希望給談判“最後一次機會”。"
+    },
+    {
+      "id": "5023129",
+      "time": "2026-08-04 02:02:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：你們今天或明天就會知道伊朗談判的進展情況。"
+    },
+    {
+      "id": "mkt:019fc8ca-7c52-7aab-8f5d-82fd68681120",
+      "time": "2026-08-04 02:02:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. President Trump: This is Iran's last chance."
+    },
+    {
+      "id": "mkt:019fc8ca-64db-7aab-8f5d-787c518f71c0",
+      "time": "2026-08-04 02:02:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says U.S. negotiations were conducted at Iran's request."
+    },
+    {
+      "id": "5023128",
+      "time": "2026-08-04 02:01:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "埃及央行：6 月埃及 M2 貨幣供應量同比增長 16.7%。"
+    },
+    {
+      "id": "5023127",
+      "time": "2026-08-04 02:01:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：這是伊朗的最後機會。"
+    },
+    {
+      "id": "5023126",
+      "time": "2026-08-04 02:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國是應伊朗的要求與伊朗進行對話的。"
+    },
+    {
+      "id": "5023125",
+      "time": "2026-08-04 02:00:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普提及據稱伊朗昨日作出的表態。"
+    },
+    {
+      "id": "5023124",
+      "time": "2026-08-04 02:00:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗表示希望討論無核化問題。"
+    },
+    {
+      "id": "5023123",
+      "time": "2026-08-04 01:59:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：伊朗表示希望就海峽問題進行對話。"
+    },
+    {
+      "id": "mkt:019fc8c7-c8cd-7aab-8f5d-72bde91662d9",
+      "time": "2026-08-04 01:59:23",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US President Trump says talks with Iran are ongoing."
+    },
+    {
+      "id": "5023122",
+      "time": "2026-08-04 01:59:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗在談判時，向來不願直白表態。"
+    },
+    {
+      "id": "5023121",
+      "time": "2026-08-04 01:58:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗問題談判目前正在進行中。"
+    },
+    {
+      "id": "5023120",
+      "time": "2026-08-04 01:57:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "穆斯特里安公司與三星重工簽署工程合同，雙方合作打造的首座海上浮動資料中心將落地美國。"
+    },
+    {
+      "id": "5023119",
+      "time": "2026-08-04 01:56:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥7月製造業指數為49.4。"
+    },
+    {
+      "id": "mkt:019fc8c4-37de-7aab-8f5d-6bf644f53220",
+      "time": "2026-08-04 01:55:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Secretary of Defense Hegseth has done an excellent job."
+    },
+    {
+      "id": "5023118",
+      "time": "2026-08-04 01:55:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉將於年底前交付4000套住房。"
+    },
+    {
+      "id": "mkt:019fc8c3-ef93-7aab-8f5d-658283bf9a1c",
+      "time": "2026-08-04 01:55:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Trump said the US clash with Venezuela went very well and that its confrontation with Iran is also progressing very, very smoothly."
+    },
+    {
+      "id": "5023117",
+      "time": "2026-08-04 01:52:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普對赫格塞思表示：你工作做得非常出色。"
+    },
+    {
+      "id": "mkt:019fc8c0-0cb2-7aab-8f5d-593244b1db2b",
+      "time": "2026-08-04 01:50:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) said it has been invited to the White House on Tuesday to discuss AI safety testing with the U.S. government."
+    },
+    {
+      "id": "5023116",
+      "time": "2026-08-04 01:50:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 我們此前與委內瑞拉之間的爭端得到妥善解決。 眼下我們和伊朗存在分歧，局勢進展也十分順利。"
+    },
+    {
+      "id": "mkt:019fc8bf-c663-7aab-8f5d-57f135aa40ee",
+      "time": "2026-08-04 01:50:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Brazil June crude output hits record, cushions Middle East supply disruption】Brazil’s crude production reached a record in June, helping to offset supply disruptions from the war involving Iran. ANP data show June crude output rose about 19% YoY to 4.5 mln bpd and roughly 4% from May; oil and gas output totaled 5.8 mln boe/d. State-controlled Petróleo Brasileiro (Petrobras) led the increase, extracting more from fields and pushing Búzios and other deepwater platforms above nameplate capacity; ANP says Petrobras-operated fields account for about 87% of Brazil’s oil production."
+    },
+    {
+      "id": "5023115",
+      "time": "2026-08-04 01:50:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：伊朗雖遭受重創，但依舊保有作戰能力。倘若伊朗襲擊以色列，將會遭到“極其沉重的打擊”。"
+    },
+    {
+      "id": "5023114",
+      "time": "2026-08-04 01:50:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：過去一個月伊朗沒有向以色列發動襲擊，因為伊朗清楚以色列具備強力打擊能力，足以形成威懾。"
+    },
+    {
+      "id": "5023113",
+      "time": "2026-08-04 01:48:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與伊朗之間的衝突進展十分順利。"
+    },
+    {
+      "id": "mkt:019fc8bd-fc40-7aab-8f5d-4f0638f99b35",
+      "time": "2026-08-04 01:48:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "President Trump said the conflict with Iran is progressing very smoothly."
+    },
+    {
+      "id": "mkt:019fc8bb-8c25-7aab-8f5d-467c14d4be57",
+      "time": "2026-08-04 01:46:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump signed an executive order establishing the first Presidential Military Spouse Council to support military families."
+    },
+    {
+      "id": "5023112",
+      "time": "2026-08-04 01:45:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗經濟部長：我們已制定至少為期兩年的經濟韌性計劃，有關我們無法保障預算資金的說法純屬不實。"
+    },
+    {
+      "id": "5023111",
+      "time": "2026-08-04 01:45:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：將推出新舉措扶持軍屬，簽署行政令設立史上首個總統軍眷委員會。"
+    },
+    {
+      "id": "5023110",
+      "time": "2026-08-04 01:45:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：特朗普簽署一項行政令。"
+    },
+    {
+      "id": "5023109",
+      "time": "2026-08-04 01:44:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【AI熱潮持續 新興市場ETF單週吸金創2月以來新高】新興市場股票交易所交易基金（ETF）上週吸引資金流入規模創2月以來新高，圍繞亞洲人工智慧（AI）概念股的投資熱潮未見降溫跡象。彙編資料顯示，截至7月31日當週，在美國上市、投資於多個發展中國家以及特定國家的新興市場ETF資金流入總額約為45億美元，高於前一週逾20億美元的流入規模。這創下2月27日以來最大單週資金流入。"
+    },
+    {
+      "id": "mkt:019fc8b7-9798-7aab-8f5d-3fb9c81d1d5c",
+      "time": "2026-08-04 01:41:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Media: Iranians increasingly tune out Trump’s war rhetoric】Al Jazeera reports that after months of near‑daily statements from Trump — ranging from threats of large‑scale bombing to claims of resuming talks — many Iranians have stopped following his comments to protect their mental health. A Tehran financial‑sector employee said his remarks “do affect our lives, but I try to focus on what I can control and protect my loved ones” to escape the “toxic uncertainty.” With the war approaching its six‑month mark, public expectation and fear are noticeably lower than on April 7, when Trump warned that “the whole civilization will perish” before shortly announcing a halt to hostilities."
+    },
+    {
+      "id": "5023108",
+      "time": "2026-08-04 01:37:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府擬透過出售印度人壽（LIC）股權籌資至多33億美元。"
+    },
     {
       "id": "mkt:019fc8b3-2814-7aab-8f5d-3050775b5bb1",
       "time": "2026-08-04 01:36:52",
@@ -165921,314 +166356,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Brent Crude Oil Plunges by 10.25% — Top commodity losers are Brent Crude Oil (-10.25%), Natural Gas EU (-9.81%) and Crude Oil WTI (-8.89%). Gains are led by Coking Coal (0.83%)."
-    },
-    {
-      "id": "mkt:019fa4c7-aeed-7aab-8eb5-a38fc77e689e",
-      "time": "2026-07-28 02:12:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A U.S. official told Punchbowl News that President Trump will discuss the Russia-Ukraine war with Ukrainian President Zelenskiy."
-    },
-    {
-      "id": "5010758",
-      "time": "2026-07-28 02:11:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "芝商所全天候黃金期貨上線首週末，交易商交易需求十分旺盛。"
-    },
-    {
-      "id": "5010757",
-      "time": "2026-07-28 02:09:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌5%，現報536.70元。"
-    },
-    {
-      "id": "5010756",
-      "time": "2026-07-28 02:09:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Punchbowl ：多名美國參議員受邀於週二與澤連斯基舉行會談。"
-    },
-    {
-      "id": "mkt:019fa4c4-c000-7aab-8eb5-9c340d6dc740",
-      "time": "2026-07-28 02:09:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Haiti's electoral council sets new presidential election dates: first round on Dec. 13 (local time); runoff on Feb. 21."
-    },
-    {
-      "id": "mkt:019fa4c4-a216-7aab-8eb5-93de9f5bf6be",
-      "time": "2026-07-28 02:09:37",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "VERDEK said U.S. government agencies can now access Tesla V4 Superchargers under a contract the company signed with the U.S. General Services Administration (GSA)."
-    },
-    {
-      "id": "5010755",
-      "time": "2026-07-28 02:09:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員：特朗普將與澤連斯基商討俄烏衝突事宜。"
-    },
-    {
-      "id": "mkt:019fa4c1-646c-7aab-8eb5-8b2b9c508a4a",
-      "time": "2026-07-28 02:06:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alphabet",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bearish",
-        "MSFT.O"
-      ],
-      "text": "Google (GOOG.O) and Microsoft (MSFT.O) said discovered software vulnerabilities have hit a record high. Known network vulnerabilities are expected to substantially exceed 205."
-    },
-    {
-      "id": "5010754",
-      "time": "2026-07-28 02:05:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "Verdek 公司公告：依託本企業持有的美國聯邦總務署（GSA）政府採購框架合同，美國各聯邦政府機構現已可採購特斯拉 V4 超級充電樁。"
-    },
-    {
-      "id": "mkt:019fa4be-8c8a-7aab-8eb5-83b292f446bf",
-      "time": "2026-07-28 02:02:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran deputy foreign minister said investigations into US crimes will continue even if they take 15 years."
-    },
-    {
-      "id": "mkt:019fa4be-7890-7aab-8eb5-78a401c5757a",
-      "time": "2026-07-28 02:02:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Romania will take protective measures to shut one nuclear reactor because Danube water levels are too low."
-    },
-    {
-      "id": "5010753",
-      "time": "2026-07-28 02:01:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌、微軟表示兩家公司發現的軟體漏洞數量創下歷史新高。"
-    },
-    {
-      "id": "mkt:019fa4bc-051b-7aab-8eb5-734318e3d1b9",
-      "time": "2026-07-28 02:00:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. Consulate General in Toronto shot at again】Canadian media reported the U.S. Consulate General in Toronto was shot at in the early hours of the 27th local time; it is the building’s second attack this year."
-    },
-    {
-      "id": "5010752",
-      "time": "2026-07-28 02:00:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國駐多倫多總領館再遭槍擊】據加拿大媒體報道，當地時間27日凌晨，美國駐多倫多總領事館遭槍擊，這是該建築今年第二次遇襲。（新華社）"
-    },
-    {
-      "id": "5010751",
-      "time": "2026-07-28 01:57:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅馬尼亞因多瑙河水位過低，將保護性關停一座核反應堆。"
-    },
-    {
-      "id": "5010750",
-      "time": "2026-07-28 01:57:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪奧上半年營收 386.44 億歐元。"
-    },
-    {
-      "id": "5010749",
-      "time": "2026-07-28 01:57:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：卡達首相與加拿大外交部長商討緩和地區局勢相關舉措。"
-    },
-    {
-      "id": "5010748",
-      "time": "2026-07-28 01:55:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克總理媒體辦公室：伊拉克表示，在沙特遭遇無人機襲擊事件後，伊方絕不允許本國領土被用作襲擊鄰國的跳板。"
-    },
-    {
-      "id": "mkt:019fa4b7-b999-7aab-8eb5-6f1915e9c5d6",
-      "time": "2026-07-28 01:55:31",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Finnish industry official says U.S. tariffs while failing ILO obligations 'absurd'】Timo Wori, director for international trade and trade policy at the Federation of Finnish Industries, said the U.S. has not fully met its obligations under the International Labour Organization framework yet is imposing tariffs under the banner of \"forced labor,\" calling the move absurd. He said the Trump administration sought legal cover for unilateral tariffs from a 1970s law to justify the \"forced labor\" claim. Wori warned U.S. tariff policy is hitting Finnish steel and pharmaceutical firms, damaging global trade ties and raising uncertainty for the global economy and business operations, and that the ultimate cost falls on U.S. consumers. He also expressed concern that tariffs are being used outside traditional trade policy—citing Greenland, Iran and NATO cooperation disputes—saying the \"weaponization\" of tariffs increases economic and security uncertainty worldwide."
-    },
-    {
-      "id": "mkt:019fa4b7-1866-7aab-8eb5-670d2f67518e",
-      "time": "2026-07-28 01:54:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli media report the U.S. embassy in Israel has restricted staff travel to the West Bank due to heightened security tensions; restrictions remain in place through July 29."
-    },
-    {
-      "id": "5010747",
-      "time": "2026-07-28 01:52:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【芬蘭工商界人士：美國不履行義務還強徵關稅很荒謬】芬蘭工業聯合會國際貿易和貿易政策主任蒂莫·沃裡27日表示，美國自身尚未完全履行國際勞工組織框架下的義務，卻以“強迫勞動”為名對其他經濟體加徵關稅，凸顯美方雙重標準。沃裡當天接受芬蘭國家廣播公司採訪時說，特朗普政府為單方面加徵關稅遍尋“法律依據”，最終從一項上世紀70年代的法律中搬出“強迫勞動”這一理由，這一做法十分荒謬。美國貿易代表辦公室23日釋出公告，宣佈依據《1974年貿易法》第301條，以所謂“強迫勞動”為由，對來自60個國家和地區的進口商品徵收10%至12.5%的關稅，以替代24日到期的全球進口關稅。新關稅已於美國東部時間24日生效。（新華社）"
-    },
-    {
-      "id": "5010746",
-      "time": "2026-07-28 01:51:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "據阿拉比亞電視臺：伊拉克總理下令調查使用伊拉克領土發動無人機襲擊沙特的事件。伊拉克方面表示，不會允許任何試圖影響伊沙關係或損害兩國關係的行動。"
-    },
-    {
-      "id": "5010745",
-      "time": "2026-07-28 01:51:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟MARS機構：熱浪導致歐盟玉米、小麥產量預期下調】歐盟農業資源監測中心（MARS）表示，熱浪和乾旱天氣已導致西歐和中歐大部分地區的農作物產量前景惡化。高溫縮短了穀物灌漿期，導致冬季作物提前成熟；而夏季作物在關鍵生長期則遭遇了高溫和土壤水分不足的困擾。歐盟玉米產量預期較上次預測下調6%，目前低於五年平均水平2%。作為歐盟最大的玉米生產國，法國的玉米產量預期被下調13%，目前低於五年平均水平15%。歐盟小麥產量預期下調2%。法國小麥產量預期下調4%，目前比去年低8%。歐盟向日葵產量預期下調7%，但仍比去年高出4%。歐盟油菜籽產量預期下調1%。預計西歐將出現更多炎熱乾燥的天氣，這增加了農作物進一步減產的風險。"
-    },
-    {
-      "id": "mkt:019fa4b3-8bdc-7aab-8eb5-5ef07e8361f7",
-      "time": "2026-07-28 01:50:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraq said it will not allow any actions aimed at affecting Iraq–Saudi relations or harming ties between the two countries, Al Arabiya reported."
-    },
-    {
-      "id": "mkt:019fa4b3-6527-7aab-8eb5-55ab46cf4ac8",
-      "time": "2026-07-28 01:50:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "According to Al Arabiya TV, Iraq's prime minister has ordered an investigation into reports that Iraqi territory was used to launch drone strikes on Saudi Arabia."
-    },
-    {
-      "id": "mkt:019fa4ae-52d6-7aab-8eb5-4e3d13e0a3c7",
-      "time": "2026-07-28 01:45:15",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【FT: NVIDIA to back OpenAI co-founder’s AI project with $5bln investment】Financial Times reports NVIDIA has agreed to invest about $5bln in Safe Superintelligence, an AI startup led by OpenAI co‑founder Ilya Sutskever, and will provide its latest Vera Rubin hardware as part of a \"long-term partnership.\" The companies announced the deal on Monday; people familiar said the $5bln commitment is typically milestone-dependent. Both parties declined to disclose financial terms, calling the investment \"substantial.\" Safe Superintelligence said the funding will help it build the compute to exploit a research breakthrough it claims and increase available compute tenfold within 12 months."
-    },
-    {
-      "id": "5010744",
-      "time": "2026-07-28 01:42:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "Microsoft AI：推出MAI-Cyber-1-Flash，這是我們自主研發的新型網路安全模型。"
-    },
-    {
-      "id": "mkt:019fa4ab-55e8-7aab-8eb5-44cddc23d7a5",
-      "time": "2026-07-28 01:41:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's Foreign Ministry condemned drone attacks targeting Saudi Arabia."
-    },
-    {
-      "id": "5010743",
-      "time": "2026-07-28 01:41:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外交部：巴基斯坦譴責針對沙烏地阿拉伯的無人機襲擊。"
-    },
-    {
-      "id": "mkt:019fa4ab-2446-7aab-8eb5-3c203780f516",
-      "time": "2026-07-28 01:41:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft AI launched MAI-Cyber-1-Flash, a new self-developed cybersecurity model."
-    },
-    {
-      "id": "5010742",
-      "time": "2026-07-28 01:40:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國產手術機器人出口額大增330% “新新三樣”圈粉全球】近日舉辦的“在高質量發展中保障和改善民生”形勢政策系列報告會上，科技部黨組書記、部長陰和俊表示，被稱為“新新三樣”的人工智慧、機器人、創新藥正迅猛發展，有望形成新的支柱產業。某平臺資料顯示，7月13日至19日，中國大模型周呼叫量達36.11萬億詞元，環比增長30.93%，連續八週實現增長，連續十二週穩居全球首位。今年上半年，我國機器人出口額達62.9億元，產品銷往全球141個國家和地區，手術機器人出口額更是增長了3.3倍；上半年，我國創新藥對外授權交易額約1100億美元，全球醫藥交易前十榜單中國藥企佔據8席。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fa4a9-9b09-7aab-8eb5-316d726a094f",
-      "time": "2026-07-28 01:40:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Representative Nancy Mace renewed calls for a one-year moratorium on new data center construction in South Carolina."
-    },
-    {
-      "id": "5010741",
-      "time": "2026-07-28 01:38:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：人工智慧市場的修正正成為主要信用風險。"
     }
   ]
 }

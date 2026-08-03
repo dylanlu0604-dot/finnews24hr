@@ -1,7 +1,442 @@
 {
   "date": "2026-08-04",
-  "count": 121,
+  "count": 170,
   "items": [
+    {
+      "id": "mkt:019fc8d3-6e6d-7aab-8f5d-b20396de26e8",
+      "time": "2026-08-04 02:12:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US President Trump said he would not allow Iran to charge fees for passage through the Strait of Hormuz."
+    },
+    {
+      "id": "5023140",
+      "time": "2026-08-04 02:11:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我不會允許伊朗對霍爾木茲海峽通航收費。"
+    },
+    {
+      "id": "5023139",
+      "time": "2026-08-04 02:11:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數漲幅擴大至盤中最高點2%。"
+    },
+    {
+      "id": "mkt:019fc8d2-a0a3-7aab-8f5d-a9e4ce5d2885",
+      "time": "2026-08-04 02:11:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Acting US Attorney General Blanche will do well, Trump said."
+    },
+    {
+      "id": "5023138",
+      "time": "2026-08-04 02:11:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：託德·布蘭奇將會出色完成這項工作（司法部長），我不清楚他們達成了什麼協議。"
+    },
+    {
+      "id": "5023137",
+      "time": "2026-08-04 02:10:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱當前談判是伊朗達成協議的最後機會】美國總統特朗普表示，當下的談判是伊朗達成協議的“最後機會”。特朗普在橢圓形辦公室的活動中表示：事態很快將走向其中一種結局。特朗普稱：“我們討論海峽通航事宜，實現海峽開放，力爭最遲明日全面打通航道，這是第一階段目標。”他補充道，第二階段將開展去核相關談判。"
+    },
+    {
+      "id": "5023136",
+      "time": "2026-08-04 02:09:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：會談是伊朗避免美國打擊的最後機會。"
+    },
+    {
+      "id": "5023135",
+      "time": "2026-08-04 02:08:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗人有時否認進行談判，儘管他們實際上花了很長時間磋商。"
+    },
+    {
+      "id": "5023134",
+      "time": "2026-08-04 02:07:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正討論最遲明天開放海峽。"
+    },
+    {
+      "id": "mkt:019fc8cd-edad-7aab-8f5d-a54210dc9934",
+      "time": "2026-08-04 02:06:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the second phase of talks with Iran is denuclearization."
+    },
+    {
+      "id": "mkt:019fc8cd-583a-7aab-8f5d-9a98c9ad05e5",
+      "time": "2026-08-04 02:05:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump says talks are underway to reopen the Strait of Hormuz; reopening is the first phase of negotiations and could occur as soon as tomorrow."
+    },
+    {
+      "id": "5023133",
+      "time": "2026-08-04 02:04:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗無核化階段需要“一段時間”。"
+    },
+    {
+      "id": "5023132",
+      "time": "2026-08-04 02:03:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗議題第二階段目標為去核化，前提是海峽局勢相關事宜落地。"
+    },
+    {
+      "id": "mkt:019fc8cb-8667-7aab-8f5d-938ad6bdd80e",
+      "time": "2026-08-04 02:03:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said denuclearization talks will take some time."
+    },
+    {
+      "id": "5023131",
+      "time": "2026-08-04 02:03:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗問題談判第一階段是重開霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019fc8cb-45f1-7aab-8f5d-88a94d536ede",
+      "time": "2026-08-04 02:03:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "U.S. President Trump said negotiations with Iran are progressing rapidly and that the outcome may be known today or tomorrow."
+    },
+    {
+      "id": "5023130",
+      "time": "2026-08-04 02:02:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：海灣國家希望給談判“最後一次機會”。"
+    },
+    {
+      "id": "5023129",
+      "time": "2026-08-04 02:02:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：你們今天或明天就會知道伊朗談判的進展情況。"
+    },
+    {
+      "id": "mkt:019fc8ca-7c52-7aab-8f5d-82fd68681120",
+      "time": "2026-08-04 02:02:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. President Trump: This is Iran's last chance."
+    },
+    {
+      "id": "mkt:019fc8ca-64db-7aab-8f5d-787c518f71c0",
+      "time": "2026-08-04 02:02:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says U.S. negotiations were conducted at Iran's request."
+    },
+    {
+      "id": "5023128",
+      "time": "2026-08-04 02:01:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "埃及央行：6 月埃及 M2 貨幣供應量同比增長 16.7%。"
+    },
+    {
+      "id": "5023127",
+      "time": "2026-08-04 02:01:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：這是伊朗的最後機會。"
+    },
+    {
+      "id": "5023126",
+      "time": "2026-08-04 02:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國是應伊朗的要求與伊朗進行對話的。"
+    },
+    {
+      "id": "5023125",
+      "time": "2026-08-04 02:00:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普提及據稱伊朗昨日作出的表態。"
+    },
+    {
+      "id": "5023124",
+      "time": "2026-08-04 02:00:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗表示希望討論無核化問題。"
+    },
+    {
+      "id": "5023123",
+      "time": "2026-08-04 01:59:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：伊朗表示希望就海峽問題進行對話。"
+    },
+    {
+      "id": "mkt:019fc8c7-c8cd-7aab-8f5d-72bde91662d9",
+      "time": "2026-08-04 01:59:23",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US President Trump says talks with Iran are ongoing."
+    },
+    {
+      "id": "5023122",
+      "time": "2026-08-04 01:59:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗在談判時，向來不願直白表態。"
+    },
+    {
+      "id": "5023121",
+      "time": "2026-08-04 01:58:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗問題談判目前正在進行中。"
+    },
+    {
+      "id": "5023120",
+      "time": "2026-08-04 01:57:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "穆斯特里安公司與三星重工簽署工程合同，雙方合作打造的首座海上浮動資料中心將落地美國。"
+    },
+    {
+      "id": "5023119",
+      "time": "2026-08-04 01:56:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥7月製造業指數為49.4。"
+    },
+    {
+      "id": "mkt:019fc8c4-37de-7aab-8f5d-6bf644f53220",
+      "time": "2026-08-04 01:55:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Secretary of Defense Hegseth has done an excellent job."
+    },
+    {
+      "id": "5023118",
+      "time": "2026-08-04 01:55:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉將於年底前交付4000套住房。"
+    },
+    {
+      "id": "mkt:019fc8c3-ef93-7aab-8f5d-658283bf9a1c",
+      "time": "2026-08-04 01:55:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Trump said the US clash with Venezuela went very well and that its confrontation with Iran is also progressing very, very smoothly."
+    },
+    {
+      "id": "5023117",
+      "time": "2026-08-04 01:52:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普對赫格塞思表示：你工作做得非常出色。"
+    },
+    {
+      "id": "mkt:019fc8c0-0cb2-7aab-8f5d-593244b1db2b",
+      "time": "2026-08-04 01:50:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) said it has been invited to the White House on Tuesday to discuss AI safety testing with the U.S. government."
+    },
+    {
+      "id": "5023116",
+      "time": "2026-08-04 01:50:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 我們此前與委內瑞拉之間的爭端得到妥善解決。 眼下我們和伊朗存在分歧，局勢進展也十分順利。"
+    },
+    {
+      "id": "mkt:019fc8bf-c663-7aab-8f5d-57f135aa40ee",
+      "time": "2026-08-04 01:50:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Brazil June crude output hits record, cushions Middle East supply disruption】Brazil’s crude production reached a record in June, helping to offset supply disruptions from the war involving Iran. ANP data show June crude output rose about 19% YoY to 4.5 mln bpd and roughly 4% from May; oil and gas output totaled 5.8 mln boe/d. State-controlled Petróleo Brasileiro (Petrobras) led the increase, extracting more from fields and pushing Búzios and other deepwater platforms above nameplate capacity; ANP says Petrobras-operated fields account for about 87% of Brazil’s oil production."
+    },
+    {
+      "id": "5023115",
+      "time": "2026-08-04 01:50:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：伊朗雖遭受重創，但依舊保有作戰能力。倘若伊朗襲擊以色列，將會遭到“極其沉重的打擊”。"
+    },
+    {
+      "id": "5023114",
+      "time": "2026-08-04 01:50:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：過去一個月伊朗沒有向以色列發動襲擊，因為伊朗清楚以色列具備強力打擊能力，足以形成威懾。"
+    },
+    {
+      "id": "5023113",
+      "time": "2026-08-04 01:48:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與伊朗之間的衝突進展十分順利。"
+    },
+    {
+      "id": "mkt:019fc8bd-fc40-7aab-8f5d-4f0638f99b35",
+      "time": "2026-08-04 01:48:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "President Trump said the conflict with Iran is progressing very smoothly."
+    },
+    {
+      "id": "mkt:019fc8bb-8c25-7aab-8f5d-467c14d4be57",
+      "time": "2026-08-04 01:46:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump signed an executive order establishing the first Presidential Military Spouse Council to support military families."
+    },
+    {
+      "id": "5023112",
+      "time": "2026-08-04 01:45:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗經濟部長：我們已制定至少為期兩年的經濟韌性計劃，有關我們無法保障預算資金的說法純屬不實。"
+    },
+    {
+      "id": "5023111",
+      "time": "2026-08-04 01:45:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：將推出新舉措扶持軍屬，簽署行政令設立史上首個總統軍眷委員會。"
+    },
+    {
+      "id": "5023110",
+      "time": "2026-08-04 01:45:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：特朗普簽署一項行政令。"
+    },
+    {
+      "id": "5023109",
+      "time": "2026-08-04 01:44:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【AI熱潮持續 新興市場ETF單週吸金創2月以來新高】新興市場股票交易所交易基金（ETF）上週吸引資金流入規模創2月以來新高，圍繞亞洲人工智慧（AI）概念股的投資熱潮未見降溫跡象。彙編資料顯示，截至7月31日當週，在美國上市、投資於多個發展中國家以及特定國家的新興市場ETF資金流入總額約為45億美元，高於前一週逾20億美元的流入規模。這創下2月27日以來最大單週資金流入。"
+    },
+    {
+      "id": "mkt:019fc8b7-9798-7aab-8f5d-3fb9c81d1d5c",
+      "time": "2026-08-04 01:41:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Media: Iranians increasingly tune out Trump’s war rhetoric】Al Jazeera reports that after months of near‑daily statements from Trump — ranging from threats of large‑scale bombing to claims of resuming talks — many Iranians have stopped following his comments to protect their mental health. A Tehran financial‑sector employee said his remarks “do affect our lives, but I try to focus on what I can control and protect my loved ones” to escape the “toxic uncertainty.” With the war approaching its six‑month mark, public expectation and fear are noticeably lower than on April 7, when Trump warned that “the whole civilization will perish” before shortly announcing a halt to hostilities."
+    },
+    {
+      "id": "5023108",
+      "time": "2026-08-04 01:37:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府擬透過出售印度人壽（LIC）股權籌資至多33億美元。"
+    },
     {
       "id": "mkt:019fc8b3-2814-7aab-8f5d-3050775b5bb1",
       "time": "2026-08-04 01:36:52",
