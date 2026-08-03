@@ -1,7 +1,40 @@
 {
   "date": "2026-08-04",
-  "count": 83,
+  "count": 87,
   "items": [
+    {
+      "id": "mkt:019fc895-305b-7aab-8f5c-bc1671324f4d",
+      "time": "2026-08-04 01:04:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Schumer says Trump launched Iran war to benefit oil-industry allies】Schumer called Trump’s action against Iran an illegal war and said it was a gift to oil-industry allies who funded his campaign and expected large profits; he added U.S. pump gasoline prices have topped $4/gal and energy costs are rising."
+    },
+    {
+      "id": "5023087",
+      "time": "2026-08-04 01:01:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "超級區塊公司與亞馬遜雲科技簽署多年雲端計算合作協議。"
+    },
+    {
+      "id": "5023086",
+      "time": "2026-08-04 01:00:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克真主黨旅秘書長：我們堅守武裝力量，並致力於發展、強化軍備。美國與沙特針對我方民眾採取的行動危險且前所未有，或將推動地區局勢邁入新階段。"
+    },
+    {
+      "id": "mkt:019fc891-ac0b-7aab-8f5c-b6aa32e2e370",
+      "time": "2026-08-04 01:00:17",
+      "tags": [
+        "MKT News",
+        "C.O"
+      ],
+      "text": "Memo shows Citigroup has hired BofA's Rohan Sen to lead technology-services banking coverage."
+    },
     {
       "id": "5023085",
       "time": "2026-08-04 01:00:03",
