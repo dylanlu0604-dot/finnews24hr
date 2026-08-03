@@ -1,7 +1,243 @@
 {
   "date": "2026-08-03",
-  "count": 2444,
+  "count": 2468,
   "items": [
+    {
+      "id": "5022882",
+      "time": "2026-08-03 22:04:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國製造業擴張速度創2022年以來最快】美國7月份製造業活動以四年多來的最快速度擴張，這主要得益於強勁的需求、激增的產量以及企業增加僱員的舉措。美國供應管理協會（ISM）7月份製造業指數升至55.6，創2022年5月以來最高水平、已連續七個月保持在榮枯線上方。生產指數升至58.5，為2021年底以來的最高水平；就業指數也顯示，自2023年9月以來，製造商首次增加了員工人數。作為需求風向標的新訂單增長同樣有所回升。"
+    },
+    {
+      "id": "5022881",
+      "time": "2026-08-03 22:04:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵能源與谷歌合作專案高峰期預計最多創造 250 個就業崗位  。"
+    },
+    {
+      "id": "5022880",
+      "time": "2026-08-03 22:03:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國萊茵集團與谷歌簽署俄克拉荷馬州太陽能專案購電協議。"
+    },
+    {
+      "id": "5022879",
+      "time": "2026-08-03 22:03:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "雜湊德克斯宣佈旗下雜湊德克斯比特幣交易型開放式指數基金完成設立。"
+    },
+    {
+      "id": "5022878",
+      "time": "2026-08-03 22:03:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比亞迪騰勢Z9S開啟預售，預售價31.98萬元起】8月3日，比亞迪騰勢Z9S正式開啟預售，推出三款配置，預售價區間為31.98萬至38.98萬元。新車定位C級純電轎車，新車全系標配天神之眼5.0智駕系統、第二代刀片電池及易三方技術平臺，CLTC純電續航最高達1100km，三電機四驅版綜合最大功率890kW。該車的推出旨在補充騰勢高效能純電轎跑矩陣，提升比亞迪在30萬—40萬元級高階新能源市場的競爭優勢。"
+    },
+    {
+      "id": "5022877",
+      "time": "2026-08-03 22:03:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國萊茵集團（RWE AG）該專案預計將於2028年投入商業運營。"
+    },
+    {
+      "id": "mkt:019fc7ef-35a9-7aab-8f59-c2cdfe00e8d0",
+      "time": "2026-08-03 22:02:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasuries gave back earlier gains after July ISM manufacturing data came in strong."
+    },
+    {
+      "id": "5022876",
+      "time": "2026-08-03 22:02:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國斯巴魯公司：公佈2026年7月汽車銷量為54,454輛。"
+    },
+    {
+      "id": "5022875",
+      "time": "2026-08-03 22:02:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多地發文鼓勵居民裝修既有住房】根據行業統計，當前，中國家裝市場規模已超3.2萬億元。隨著存量房時代到來，每年因二次裝修產生的需求可高達1.5萬億元。但這一具備較大增長潛力的房地產細分賽道，卻長期面臨三重結構性矛盾：標準體系缺位引發的工程質量隱患、資金監管欠缺放大了消費者資金風險，以及行業集中度低滋生的惡性競爭。伴隨“好房子”建設深入推進，新材料、新技術、新產品加速普及，部分企業卻藉機炒作概念、虛假宣傳、低價引流、惡意增項，新老問題疊加共振，進一步影響消費者預期。在此背景下，行業治理的重點正指向補齊前端標準短板和健全後端調解機制。（第一財經）"
+    },
+    {
+      "id": "5022874",
+      "time": "2026-08-03 22:02:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "7月ISM製造業指數強勁後，美國國債漲幅收窄。"
+    },
+    {
+      "id": "5022873",
+      "time": "2026-08-03 22:02:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國萊茵集團（RWE AG）：谷歌將根據一項為期15年的協議，包銷該公司克魯克德溪155兆瓦太陽能專案的全部發電量。"
+    },
+    {
+      "id": "5022872",
+      "time": "2026-08-03 22:02:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯反壟斷監管機構：蘋果未遵守關於在iOS系統預安裝俄版郵件應用Messager和俄羅斯應用商店的警告。"
+    },
+    {
+      "id": "mkt:019fc7ee-5dfd-7aab-8f59-bb1c1d553413",
+      "time": "2026-08-03 22:01:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "US10Y"
+      ],
+      "text": "US ISM output index for July 58.5, prior 52.2."
+    },
+    {
+      "id": "mkt:019fc7ee-3ca9-7aab-8f59-b49d40e6e88a",
+      "time": "2026-08-03 22:01:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US ISM Inventories Index (July) 51.2, prior 51.4."
+    },
+    {
+      "id": "mkt:019fc7ee-389e-7aab-8f59-ac9237cdb8cf",
+      "time": "2026-08-03 22:01:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Production Index (Jul) | actual 58.5 | previous 52.2"
+    },
+    {
+      "id": "mkt:019fc7ee-1d46-7aab-8f59-a4750c74590f",
+      "time": "2026-08-03 22:01:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Inventory Index (Jul) | actual 51.2 | previous 51.4"
+    },
+    {
+      "id": "mkt:019fc7ed-ff59-7aab-8f59-995128de4961",
+      "time": "2026-08-03 22:01:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "RIA reported Russia's antitrust regulator has opened an investigation into Apple (AAPL.O)."
+    },
+    {
+      "id": "5022871",
+      "time": "2026-08-03 22:01:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海軍事演習】據中國海事局網站訊息，葫蘆島海事局釋出航行警告，8月4日8時至14時，渤海部分海域進行軍事演習，禁止駛入。（央視軍事）"
+    },
+    {
+      "id": "mkt:019fc7ed-ce79-7aab-8f59-9020ba66679e",
+      "time": "2026-08-03 22:01:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: Bohai Sea military exercise】China Maritime Safety Administration posted that Huludao Maritime Safety Administration issued a navigation warning banning entry to parts of the Bohai Sea for a military exercise from 08:00–14:00 on Aug. 4."
+    },
+    {
+      "id": "mkt:019fc7ed-52a5-7aab-8f59-8c729a4e91a0",
+      "time": "2026-08-03 22:00:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Haohua Technology: multi-product portfolio for AI liquid-cooled servers】Haohua Technology said on its investor platform it has built a multi-product portfolio for AI liquid-cooled servers, including phase-change immersion coolant YL-10, single-phase immersion coolant YL-70, phase-change cold-plate coolant HP-1 and HFC-134a refrigerant. The company said it is developing and stocking additional new coolants to suit downstream applications, and is working with multiple industry-leading customers to advance product validation and commercial rollout."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608033830070411",
+      "time": "2026-08-03 22:00:31",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國7月份ISM製造業指數升至55.6】美國7月份ISM製造業指數升至55.6，預估為53.9。"
+    },
+    {
+      "id": "5022870",
+      "time": "2026-08-03 22:00:19",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國6月營建支出月率 -0.1%，預期0.2%，前值由0.10%修正為0%。"
+    },
+    {
+      "id": "mkt:019fc7ec-e0ec-7aab-8f59-81318a59f4ee",
+      "time": "2026-08-03 22:00:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "US ISM manufacturing PMI (July) 55.6; consensus 54.0; prior 53.3."
+    },
+    {
+      "id": "mkt:019fc7ec-df64-7aab-8f59-7944d2838999",
+      "time": "2026-08-03 22:00:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US June construction spending MoM -0.1% vs +0.2% expected; May revised to 0.0% from +0.1%."
+    },
     {
       "id": "mkt:019fc7ec-c8bb-7aab-8f59-76566a9129c1",
       "time": "2026-08-03 22:00:11",
