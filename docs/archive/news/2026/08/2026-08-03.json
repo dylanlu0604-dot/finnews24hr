@@ -1,7 +1,54 @@
 {
   "date": "2026-08-03",
-  "count": 930,
+  "count": 935,
   "items": [
+    {
+      "id": "5021630",
+      "time": "2026-08-03 12:20:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度國家證券交易所Nifty快速消費品指數上漲1.5%，其中印度菸草公領漲，漲幅達3.7%。印度Nifty PSU銀行指數上漲1.5%；印度NIFTY小盤股100指數上漲1%。"
+    },
+    {
+      "id": "5021629",
+      "time": "2026-08-03 12:19:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【香港租金指數創下近9年來最大升幅】不到50平方米的兩居室，月租竟高達3.4萬港元。這並非天方夜譚，而是當下香港核心地段真實的租房案例。今年夏天，香港的租賃市場徹底“殺瘋了”，租金指數不僅創下近9年來的最大升幅，更打破了傳統淡季回落的規律，展現出強勁的上漲勢頭。這場租金狂飆的背後，是三大群體的龐大需求與緊缺供給的激烈碰撞。隨著“高才通計劃”帶來的內地專才湧入、非本地學生規模激增，以及海外高管等外籍人士加速回流，真實居住需求傳導至私人住宅市場，形成了強有力的租金支撐。而租金的強勁上行，也印證了香港樓市基本面的整體復甦。在房價同步上漲的加持下，業主的底氣與信心不斷增強。面對短期內難以彌補的十萬級住宅單位缺口，多家外資大行紛紛預測今年租金還將繼續攀升。在結構性供需失衡的背景下，香港核心地段的房租短期恐怕很難再走“回頭路”。（21財經）"
+    },
+    {
+      "id": "mkt:019fc5d8-5f57-7aab-8f4e-929331f2fe5f",
+      "time": "2026-08-03 12:18:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's Nifty Smallcap 100 index rose 1%."
+    },
+    {
+      "id": "te:economy:572026",
+      "time": "2026-08-03 12:17:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Indonesia Inflation Rate Lowest in 3 Months — Indonesia’s annual inflation eased to 2.88% in July 2026 from 3.34% in the previous month, undershooting market expectations of 3.2% and marking the lowest reading since April. The latest result remained comfortably within Bank Indonesia’s 1-1/2%–3-1/2% target range. Core inflation, which excludes volatile food and government-administered prices, held steady at 2.76% in July, unchanged from June. On a monthly basis, consumer prices declined 0.14%, reversing a 0.44% increase in June and defying estimates of a 0.1% rise. It pointed to the first monthly decline since January."
+    },
+    {
+      "id": "5021628",
+      "time": "2026-08-03 12:17:15",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【油價下跌提振泰國航空及相關旅遊股】受油價下跌有望重振泰國旅遊業的樂觀情緒推動，泰國國際航空公司領漲航空及酒店運營商板塊。 泰國航空股價一度上漲7.1%，為6月30日以來最大日內漲幅；亞洲航空上漲0.9%。 根據Finansia Syrus證券的一份報告，隨著中東緊張局勢緩和導致原油價格下降，航空業情緒將進一步改善。 泰國機場公司上漲1.6%；Erawan上漲5.2%；中央廣場酒店上漲4.6%；Minor國際上漲3.4%。 根據Maybank的一份報告，燃料成本降低也將利好旅遊相關股票，市場普遍預期國際旅行將逐步復甦。"
+    },
     {
       "id": "mkt:019fc5d6-7928-7aab-8f4e-88610dd81305",
       "time": "2026-08-03 12:16:34",
