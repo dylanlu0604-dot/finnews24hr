@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-03 13:22:15",
+  "updated": "2026-08-03 15:45:01",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 400,
+  "count": 402,
   "history_summary": {
     "cached": 400,
-    "fetched": 0,
+    "fetched": 2,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,11 +18,11 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 228,
+      "count": 230,
       "dates": [
         {
           "date": "2026-08-03",
-          "count": 38,
+          "count": 40,
           "events": [
             {
               "id": "capital:1182460",
@@ -1011,6 +1011,122 @@
               "history_checked_at": "2026-07-26 00:02:12"
             },
             {
+              "id": "capital:1183389",
+              "fid": "1183389",
+              "interval": "this_week",
+              "date": "2026-08-03",
+              "time": "14:00",
+              "datetime": "2026-08-03 14:00:00",
+              "display_time": "08/03 14:00",
+              "country": "德國",
+              "title": "德國6月實際零售銷售年率",
+              "importance": 1,
+              "previous": "1.8 %",
+              "forecast": "-- %",
+              "actual": "-0.2 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183389",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "06/30",
+                  "actual": "1.8",
+                  "forecast": "-0.5",
+                  "previous": "-0.3"
+                },
+                {
+                  "date": "06/01",
+                  "actual": "-0.3",
+                  "forecast": "-",
+                  "previous": "-2"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "-2",
+                  "forecast": "0.5",
+                  "previous": "0.7"
+                },
+                {
+                  "date": "03/31",
+                  "actual": "0.7",
+                  "forecast": "1.6",
+                  "previous": "1.2"
+                },
+                {
+                  "date": "03/02",
+                  "actual": "1.2",
+                  "forecast": "-",
+                  "previous": "3.2"
+                },
+                {
+                  "date": "02/02",
+                  "actual": "3.2",
+                  "forecast": "-",
+                  "previous": "-1.8"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-03 15:44:59"
+            },
+            {
+              "id": "capital:1182714",
+              "fid": "1182714",
+              "interval": "this_week",
+              "date": "2026-08-03",
+              "time": "14:00",
+              "datetime": "2026-08-03 14:00:00",
+              "display_time": "08/03 14:00",
+              "country": "德國",
+              "title": "德國6月實際零售銷售月率",
+              "importance": 1,
+              "previous": "1.1 %",
+              "forecast": "-0.1 %",
+              "actual": "-1.1 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182714",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "06/30",
+                  "actual": "1.1",
+                  "forecast": "0",
+                  "previous": "-0.3"
+                },
+                {
+                  "date": "06/01",
+                  "actual": "-0.3",
+                  "forecast": "-0.5",
+                  "previous": "-2"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "-2",
+                  "forecast": "-0.1",
+                  "previous": "-0.6"
+                },
+                {
+                  "date": "03/31",
+                  "actual": "-0.6",
+                  "forecast": "0.2",
+                  "previous": "-0.9"
+                },
+                {
+                  "date": "03/02",
+                  "actual": "-0.9",
+                  "forecast": "-0.2",
+                  "previous": "0.1"
+                },
+                {
+                  "date": "02/02",
+                  "actual": "0.1",
+                  "forecast": "0.2",
+                  "previous": "-0.6"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-03 15:44:59"
+            },
+            {
               "id": "capital:1174290",
               "fid": "1174290",
               "interval": "this_week",
@@ -1022,8 +1138,8 @@
               "title": "瑞士7月CPI年率",
               "importance": 1,
               "previous": "0.5 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "0.4 %",
+              "actual": "0.4 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174290",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -1080,8 +1196,8 @@
               "title": "瑞士7月CPI月率",
               "importance": 2,
               "previous": "0 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "-0.1 %",
+              "actual": "-0.1 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174291",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -1138,9 +1254,9 @@
               "title": "西班牙7月製造業PMI",
               "importance": 1,
               "previous": "49.7",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "50",
+              "actual": "50.2",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174292",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -1196,9 +1312,9 @@
               "title": "瑞士7月SVME採購經理人指數",
               "importance": 1,
               "previous": "54.3",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "55",
+              "actual": "53.2",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174293",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -24223,6 +24339,122 @@
       "history_checked_at": "2026-07-26 00:02:12"
     },
     {
+      "id": "capital:1183389",
+      "fid": "1183389",
+      "interval": "this_week",
+      "date": "2026-08-03",
+      "time": "14:00",
+      "datetime": "2026-08-03 14:00:00",
+      "display_time": "08/03 14:00",
+      "country": "德國",
+      "title": "德國6月實際零售銷售年率",
+      "importance": 1,
+      "previous": "1.8 %",
+      "forecast": "-- %",
+      "actual": "-0.2 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183389",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "06/30",
+          "actual": "1.8",
+          "forecast": "-0.5",
+          "previous": "-0.3"
+        },
+        {
+          "date": "06/01",
+          "actual": "-0.3",
+          "forecast": "-",
+          "previous": "-2"
+        },
+        {
+          "date": "04/30",
+          "actual": "-2",
+          "forecast": "0.5",
+          "previous": "0.7"
+        },
+        {
+          "date": "03/31",
+          "actual": "0.7",
+          "forecast": "1.6",
+          "previous": "1.2"
+        },
+        {
+          "date": "03/02",
+          "actual": "1.2",
+          "forecast": "-",
+          "previous": "3.2"
+        },
+        {
+          "date": "02/02",
+          "actual": "3.2",
+          "forecast": "-",
+          "previous": "-1.8"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-03 15:44:59"
+    },
+    {
+      "id": "capital:1182714",
+      "fid": "1182714",
+      "interval": "this_week",
+      "date": "2026-08-03",
+      "time": "14:00",
+      "datetime": "2026-08-03 14:00:00",
+      "display_time": "08/03 14:00",
+      "country": "德國",
+      "title": "德國6月實際零售銷售月率",
+      "importance": 1,
+      "previous": "1.1 %",
+      "forecast": "-0.1 %",
+      "actual": "-1.1 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182714",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "06/30",
+          "actual": "1.1",
+          "forecast": "0",
+          "previous": "-0.3"
+        },
+        {
+          "date": "06/01",
+          "actual": "-0.3",
+          "forecast": "-0.5",
+          "previous": "-2"
+        },
+        {
+          "date": "04/30",
+          "actual": "-2",
+          "forecast": "-0.1",
+          "previous": "-0.6"
+        },
+        {
+          "date": "03/31",
+          "actual": "-0.6",
+          "forecast": "0.2",
+          "previous": "-0.9"
+        },
+        {
+          "date": "03/02",
+          "actual": "-0.9",
+          "forecast": "-0.2",
+          "previous": "0.1"
+        },
+        {
+          "date": "02/02",
+          "actual": "0.1",
+          "forecast": "0.2",
+          "previous": "-0.6"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-03 15:44:59"
+    },
+    {
       "id": "capital:1174290",
       "fid": "1174290",
       "interval": "this_week",
@@ -24234,8 +24466,8 @@
       "title": "瑞士7月CPI年率",
       "importance": 1,
       "previous": "0.5 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "0.4 %",
+      "actual": "0.4 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174290",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -24292,8 +24524,8 @@
       "title": "瑞士7月CPI月率",
       "importance": 2,
       "previous": "0 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "-0.1 %",
+      "actual": "-0.1 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174291",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -24350,9 +24582,9 @@
       "title": "西班牙7月製造業PMI",
       "importance": 1,
       "previous": "49.7",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "50",
+      "actual": "50.2",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174292",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -24408,9 +24640,9 @@
       "title": "瑞士7月SVME採購經理人指數",
       "importance": 1,
       "previous": "54.3",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "55",
+      "actual": "53.2",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174293",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
