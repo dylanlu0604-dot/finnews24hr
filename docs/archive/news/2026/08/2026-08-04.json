@@ -1,7 +1,65 @@
 {
   "date": "2026-08-04",
-  "count": 232,
+  "count": 239,
   "items": [
+    {
+      "id": "mkt:019fc8fc-437e-7aab-8f5e-7712dcc89c15",
+      "time": "2026-08-04 02:56:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI said the results span sphere packing, coding theory, group theory, quantum complexity, lattice cryptography and extremal combinatorics, including a proof of the existence of non-sofic groups and an exponential improvement in bounds for high-dimensional sphere packing."
+    },
+    {
+      "id": "5023182",
+      "time": "2026-08-04 02:56:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "紅杉資本牽頭為瓦拉爾公司完成10億美元融資。這家核能初創企業表示，這筆資金將助力企業從小型反應堆示範階段轉向規模化生產。"
+    },
+    {
+      "id": "mkt:019fc8fb-892b-7aab-8f5e-6fe05124c6fa",
+      "time": "2026-08-04 02:55:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said an internal build of its next-generation flagship model produced 10 new results on long-standing open problems in mathematics and theoretical computer science, at an estimated $2,000 in token fees calculated using GPT-5.6 Sol API rates."
+    },
+    {
+      "id": "5023181",
+      "time": "2026-08-04 02:55:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：我不隱瞞我們與特朗普在與哈馬斯協議問題上存在分歧。"
+    },
+    {
+      "id": "5023180",
+      "time": "2026-08-04 02:54:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖軍事顧問：我們原本準備打擊烏克蘭境內三處目標，在烏克蘭方面致歉後，我們取消了此次打擊行動。"
+    },
+    {
+      "id": "mkt:019fc8f9-505e-7aab-8f5e-662c76764a7b",
+      "time": "2026-08-04 02:53:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Iranian media, Mohsen Rezaei, military adviser to Iran's supreme leader, said Iran had prepared strikes on three targets in Ukraine but called them off after Ukraine issued an apology."
+    },
+    {
+      "id": "mkt:019fc8f8-dc35-7aab-8f5e-586ecd80fa4c",
+      "time": "2026-08-04 02:53:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Gaza 'Peace Committee' says Israeli forces will withdraw beyond eastern 'yellow line' after Hamas disarmament】Gaza 'Peace Committee' said Israeli forces will fully withdraw to positions beyond Gaza's eastern 'yellow line' once Hamas completes the disarmament process. The statement, reiterated after a meeting between committee director Nikolay Mladenov and Israeli Prime Minister Netanyahu, said the committee's objective is complete removal of weapons in Gaza and a transition from armed control to civilian governance. Implementation of civilian governance would be supervised by an international stabilization force and a verification committee, of which the US and the Peace Committee are members."
+    },
     {
       "id": "5023179",
       "time": "2026-08-04 02:52:47",
