@@ -1,7 +1,155 @@
 {
   "date": "2026-08-04",
-  "count": 273,
+  "count": 288,
   "items": [
+    {
+      "id": "5023207",
+      "time": "2026-08-04 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.66%】大全新能源漲12.98%，金山雲漲6.64%，嘉楠科技漲5.41%，億航漲5.65%，禾賽科技漲5.21%。"
+    },
+    {
+      "id": "5023206",
+      "time": "2026-08-04 03:59:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社：哈馬斯表示，正等待調停方就停火協議作出正式答覆，且仍致力於落實第二階段停火協議。"
+    },
+    {
+      "id": "mkt:019fc932-db29-7aab-8f5f-2f3b7eeb8607",
+      "time": "2026-08-04 03:56:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Evercore: Fed liquidity tool unlikely to support prolonged yen intervention】Evercore ISI said the Fed’s foreign and international monetary authorities (FIMA) repo facility is unlikely to sustain prolonged U.S.-Japan intervention to defend the yen. The facility lets overseas holders use U.S. Treasuries as collateral to obtain dollars without selling securities in the open market, but it is capped at $60bn per counterparty per day—only slightly above Evercore’s estimate of Japan’s one-day intervention last Thursday. Strategists warned a capped repo could invite market testing of U.S. and Japanese resolve if defending the yen required large-scale Treasury sales. The facility is designed to provide short-term liquidity, not durable financing: borrowings must be rolled to persist and rates are set above private repo costs, signalling it is not intended for routine or sustained FX intervention."
+    },
+    {
+      "id": "mkt:019fc92c-0a75-7aab-8f5f-2726a91ffc43",
+      "time": "2026-08-04 03:48:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Iran's Bushehr governor said 60 million cubic meters of natural gas production capacity at the South Pars field has resumed production."
+    },
+    {
+      "id": "mkt:019fc92a-b749-7aab-8f5f-1cea69f90ee6",
+      "time": "2026-08-04 03:47:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【Castle Securities: forces driving US stocks to fresh highs remain intact】Castle Securities says that despite a cooling in retail speculation, the forces pushing US equities to record highs remain intact. The firm’s head of equity and equity derivatives strategy, Scott Rubner, says the market is shifting from a flow-driven regime toward one increasingly determined by earnings, corporate demand and the macro backdrop. Its data show retail withdrawal cut leveraged-ETF assets by 28% to $154.0 bln. Concurrently, lower financing costs for equity positions have eased pressure on Wall Street trading desks and reduced demand for leverage. A recent run of strong earnings continues to support the market: earnings are delivering upside surprises, valuations look more attractive, and share-buyback activity should accelerate as blackout periods end."
+    },
+    {
+      "id": "5023205",
+      "time": "2026-08-04 03:47:05",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國財政部將季度借款預估上調至7390億美元】美國財政部上調對本季度聯邦借款規模的預估，主要原因是淨現金流預期調低。財政部週一在宣告中表示，目前預計7月至9月淨借款規模為7390億美元，較5月預估的6710億美元增加680億美元。該預估假設9月底現金餘額為9500億美元，高於6月底的9190億美元。對於10月至12月期間，財政部預計借款規模為6280億美元，目標是12月底現金餘額8500億美元。"
+    },
+    {
+      "id": "5023204",
+      "time": "2026-08-04 03:44:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗布什爾省省長：南帕爾斯氣田已有 6000 萬立方米天然氣產能恢復生產。"
+    },
+    {
+      "id": "mkt:019fc927-724b-7aab-8f5f-15019acdaae8",
+      "time": "2026-08-04 03:43:53",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Saudi outlet Alhadath reported Hamas said it and its factions will adhere to the previously agreed consensus on implementing phase two of the Gaza agreement."
+    },
+    {
+      "id": "mkt:019fc926-73d1-7aab-8f5f-0c5cf639982e",
+      "time": "2026-08-04 03:42:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he will approve $24.5 mln in federal assistance to help Missouri respond to severe storms, high winds, tornadoes and flooding."
+    },
+    {
+      "id": "5023203",
+      "time": "2026-08-04 03:41:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：批准撥付 2450 萬美元，用於密蘇里州風暴、洪澇災害救災。"
+    },
+    {
+      "id": "mkt:019fc924-4235-7aab-8f5f-067197e806f8",
+      "time": "2026-08-04 03:40:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Saudi state television reported cautious optimism that US‑Iran talks could produce a breakthrough. Discussions on halting military operations and fully reopening the Strait of Hormuz were described as positive. Mediators said they need time to agree on an imminent ceasefire statement."
+    },
+    {
+      "id": "mkt:019fc923-f877-7aab-8f5e-ff74491d32c5",
+      "time": "2026-08-04 03:40:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's central bank forecasts 2027 GDP growth at 1.9%, down from 2.1% previously."
+    },
+    {
+      "id": "5023202",
+      "time": "2026-08-04 03:39:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行在提交國會的報告中稱，央行技術團隊預測 2027 年國內生產總值增速為 1.9%，此前預期為 2.1%。"
+    },
+    {
+      "id": "5023201",
+      "time": "2026-08-04 03:33:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【塔可鍾在召回生菜前數週已就寄生蟲疫情與美國密歇根州展開溝通】美國密歇根州衛生部門在7月初就一種寄生蟲疫情與塔可鍾（Taco Bell）母公司百勝餐飲集團（Yum! Brands Inc.）取得了聯絡，這比該公司正式向消費者發出警告早了數週。7月2日，密歇根州衛生與公眾服務部與百勝餐飲集團討論了環孢子蟲病（cyclospora）問題，並要求與該公司的供應鏈質量保證及公關團隊進行對接。塔可鐘錶示，公司根據密歇根州的指導迅速採取了行動，從部分門店撤下了可能受影響的食材，但直到7月14日才公開證實了這一舉措。"
+    },
+    {
+      "id": "5023200",
+      "time": "2026-08-04 03:32:14",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【投行：日本使用美聯儲工具或將考驗日元決心】Evercore ISI表示，一項極少被使用的美聯儲流動性工具或許能避免日本透過拋售美國國債來支撐日元，但長期依賴該工具可能會鼓勵市場去試探美國和日本的決心。“外國和國際貨幣當局回購工具”（FIMA Repo Facility）允許海外機構將其持有的美國國債作為抵押品來獲取美元，從而避免在公開市場上拋售債券來籌集現金。該工具於2020年新冠疫情期間設立，旨在讓交易對手在不嚴重擾亂美債市場的情況下獲取流動性，隨後於2021年7月轉為永久性工具。"
+    },
     {
       "id": "mkt:019fc919-d44a-7aab-8f5e-f047a941a6dd",
       "time": "2026-08-04 03:29:00",
