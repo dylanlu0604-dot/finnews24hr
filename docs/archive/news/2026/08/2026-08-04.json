@@ -1,7 +1,27 @@
 {
   "date": "2026-08-04",
-  "count": 325,
+  "count": 327,
   "items": [
+    {
+      "id": "5023224",
+      "time": "2026-08-04 04:47:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美疾控中心：密歇根州報告兩例環孢子蟲病死亡病例】美國疾病控制和預防中心3日證實，密歇根州報告兩例環孢子蟲病相關死亡病例，兩名死者均患有嚴重基礎疾病。這是自今年5月環孢子蟲病在美持續蔓延以來首次報告相關死亡病例。（新華社）"
+    },
+    {
+      "id": "te:markets:572280",
+      "time": "2026-08-04 04:46:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "ONEOK earnings above expectations at 1.53 USD — ONEOK (OKE) released earnings per share at 1.53 USD, compared to market expectations of 1.49 USD."
+    },
     {
       "id": "5023223",
       "time": "2026-08-04 04:43:32",

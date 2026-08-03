@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-04 04:45:09",
-  "count": 17953,
+  "updated": "2026-08-04 04:49:03",
+  "count": 17951,
   "items": [
+    {
+      "id": "5023224",
+      "time": "2026-08-04 04:47:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美疾控中心：密歇根州報告兩例環孢子蟲病死亡病例】美國疾病控制和預防中心3日證實，密歇根州報告兩例環孢子蟲病相關死亡病例，兩名死者均患有嚴重基礎疾病。這是自今年5月環孢子蟲病在美持續蔓延以來首次報告相關死亡病例。（新華社）"
+    },
+    {
+      "id": "te:markets:572280",
+      "time": "2026-08-04 04:46:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "ONEOK earnings above expectations at 1.53 USD — ONEOK (OKE) released earnings per share at 1.53 USD, compared to market expectations of 1.49 USD."
+    },
     {
       "id": "5023223",
       "time": "2026-08-04 04:43:32",
@@ -166350,39 +166370,6 @@
         "Important"
       ],
       "text": "Iran's IRIB reported Iraq's national security adviser said a Ukrainian intelligence group is carrying out attacks inside Iraq and blaming resistance groups."
-    },
-    {
-      "id": "5010856",
-      "time": "2026-07-28 04:48:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織：執行董事會完成對迦納中期信貸安排項下協議的第六次審查。"
-    },
-    {
-      "id": "5010855",
-      "time": "2026-07-28 04:48:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟人工智慧負責人：OpenAI網路攻擊事件是網路安全領域的\"警鐘\"。"
-    },
-    {
-      "id": "5010854",
-      "time": "2026-07-28 04:47:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心：飛機資料顯示福斯托颶風強度減弱。"
-    },
-    {
-      "id": "5010853",
-      "time": "2026-07-28 04:45:14",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊拉克國家安全顧問：烏克蘭情報小組在伊拉克實施襲擊，並將它們歸咎於抵抗組織。"
     }
   ]
 }
