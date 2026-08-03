@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-03 15:45:01",
+  "updated": "2026-08-03 15:49:21",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
   "count": 402,
   "history_summary": {
-    "cached": 400,
-    "fetched": 2,
+    "cached": 402,
+    "fetched": 0,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -1065,7 +1065,7 @@
                   "previous": "-1.8"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-08-03 15:44:59"
             },
             {
@@ -1123,7 +1123,7 @@
                   "previous": "-0.6"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-08-03 15:44:59"
             },
             {
@@ -1370,9 +1370,9 @@
               "title": "意大利7月製造業PMI",
               "importance": 1,
               "previous": "52.2",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "52.3",
+              "actual": "51.3",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174294",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -24393,7 +24393,7 @@
           "previous": "-1.8"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-08-03 15:44:59"
     },
     {
@@ -24451,7 +24451,7 @@
           "previous": "-0.6"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-08-03 15:44:59"
     },
     {
@@ -24698,9 +24698,9 @@
       "title": "意大利7月製造業PMI",
       "importance": 1,
       "previous": "52.2",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "52.3",
+      "actual": "51.3",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174294",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
