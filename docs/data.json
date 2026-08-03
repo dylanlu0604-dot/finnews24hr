@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-04 06:08:14",
-  "count": 17933,
+  "updated": "2026-08-04 06:12:06",
+  "count": 17931,
   "items": [
+    {
+      "id": "5023255",
+      "time": "2026-08-04 06:11:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜創始人傑夫·貝索斯出售價值 40.7 億美元股票。"
+    },
+    {
+      "id": "5023254",
+      "time": "2026-08-04 06:08:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "Coatue旗下對沖基金下跌 8%，創一年多以來最大跌幅。"
+    },
+    {
+      "id": "5023253",
+      "time": "2026-08-04 06:07:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院投票，有望圍繞臨時性融資草案透過程式性投票，該權宜性融資方案將幫助特朗普的聯邦政府有資金持續運作至12月11日。"
+    },
     {
       "id": "5023252",
       "time": "2026-08-04 06:07:12",
@@ -166139,54 +166163,6 @@
         "MKT News"
       ],
       "text": "Market sources: Israeli Prime Minister Netanyahu has arrived at Joint Base Andrews, Maryland, and is scheduled to meet President Trump on Tuesday local time."
-    },
-    {
-      "id": "5010898",
-      "time": "2026-07-28 06:11:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡抵達美國。"
-    },
-    {
-      "id": "mkt:019fa5a1-6547-7aab-8eb7-a7eb69eeea5e",
-      "time": "2026-07-28 06:10:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【ANTHROPIC clarifies stance: never advocated banning open-weight AI models】ANTHROPIC said it never advocated banning open-weight AI models and rebutted recent claims to that effect. CEO Dario Amodei said the firm does not agree that open-weight models are inherently superior for AI safety research. The statement underscores the industry’s ongoing debate over open development versus safety."
-    },
-    {
-      "id": "5010897",
-      "time": "2026-07-28 06:10:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "中際旭創：預計將於2026年7月29日披露國際發售環節的意向認購規模及其他相關細節。"
-    },
-    {
-      "id": "5010896",
-      "time": "2026-07-28 06:09:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "中際旭創：定價為每股H股980港元。"
-    },
-    {
-      "id": "mkt:019fa59f-7423-7aab-8eb7-9b630838f286",
-      "time": "2026-07-28 06:08:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iranian drones strike near Erbil; Khor Mor gas field in Iraqi Kurdistan hit】Iraqi police said at least four Iranian drones struck areas northeast of Erbil early Tuesday, hitting Halifan and Soran districts; fires broke out and two drones crashed near targets. U.S. forces flew more than 10 warplanes and drones over Erbil in response. Iranian state media IRIB reported the Khor Mor gas field in Sulaymaniyah province was also attacked at roughly the same time; Khor Mor holds about 8.2 tcf of gas and is Iraq’s largest non-associated gas field. IRIB said the timing was broadly simultaneous with explosions reported in Erbil, roughly 200 km away."
     }
   ]
 }
