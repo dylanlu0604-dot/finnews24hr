@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-04 06:31:26",
-  "count": 17927,
+  "updated": "2026-08-04 06:35:18",
+  "count": 17924,
   "items": [
+    {
+      "id": "5023261",
+      "time": "2026-08-04 06:32:17",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：韓國最快將於 8 月出臺住房供給相關措施。"
+    },
     {
       "id": "te:markets:572284",
       "time": "2026-08-04 06:30:13",
@@ -166105,41 +166114,6 @@
         "MKT News"
       ],
       "text": "U.S. Trade Representative Greer said a new round of Section 301 tariffs should not cause economic effects the U.S. has not already experienced."
-    },
-    {
-      "id": "te:markets:570189",
-      "time": "2026-07-28 06:35:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Gains by 1.80% — Top commodity gainers are Platinum (1.80%), Copper (0.73%), Silver (0.72%) and Gold (0.55%). Biggest loser is Iron Ore CNY (-0.67%)."
-    },
-    {
-      "id": "5010907",
-      "time": "2026-07-28 06:34:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "強生擬斥資55億美元和解滑石粉致卵巢癌相關索賠案。"
-    },
-    {
-      "id": "mkt:019fa5b5-f4b9-7aab-8eb7-c629e1e31d15",
-      "time": "2026-07-28 06:33:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu and his delegation arrived in Washington, the prime minister's office said."
-    },
-    {
-      "id": "5010906",
-      "time": "2026-07-28 06:33:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "強生：研究顯示滑石粉安全，不含石棉且不會致癌。"
     }
   ]
 }
