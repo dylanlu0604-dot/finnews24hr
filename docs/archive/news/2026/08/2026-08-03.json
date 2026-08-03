@@ -1,7 +1,141 @@
 {
   "date": "2026-08-03",
-  "count": 544,
+  "count": 559,
   "items": [
+    {
+      "id": "mkt:019fc53e-87db-7aab-8f4b-d1a2cd4f595f",
+      "time": "2026-08-03 09:30:37",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "A-share oil and gas exploration & services sector opened lower; Keli Co. fell more than 7%, while Qianneng Hengxin, Tongyuan Petroleum and Zhongman Petroleum also declined."
+    },
+    {
+      "id": "5021369",
+      "time": "2026-08-03 09:30:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.00%，現報3310.451點；上證指數跌0.49%，現報3813.522點；深證成指跌0.75%，現報13476.459點。"
+    },
+    {
+      "id": "mkt:019fc53e-5b10-7aab-8f4b-cf264e12b97f",
+      "time": "2026-08-03 09:30:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Controlled nuclear-fusion-themed A-shares firmed in early trade; Jiangsu Shentong jumped over 9%, with Changfu Shares, Hahan Huatong and Zhongyan Dadi also rising."
+    },
+    {
+      "id": "5021368",
+      "time": "2026-08-03 09:30:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "A股可控核聚變概念股盤初走強，江蘇神通漲超9%，常輔股份、哈焊華通、中巖大地等跟漲。"
+    },
+    {
+      "id": "5021367",
+      "time": "2026-08-03 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.10%， 10年期主力合約漲0.03%， 5年期主力合約漲0.02%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5021366",
+      "time": "2026-08-03 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.42%， 滬深300指數期貨連續跌0.40%， 中證500指數期貨連續跌0.62%， 上證50指數期貨連續跌0.27%。"
+    },
+    {
+      "id": "5021365",
+      "time": "2026-08-03 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.02%，成分股中，佰維儲存跌3.53%，華海清科跌3.49%，恆玄科技跌2.31%，生益電子跌2.24%。"
+    },
+    {
+      "id": "mkt:019fc53d-3b30-7aab-8f4b-c79f3a18d1a2",
+      "time": "2026-08-03 09:29:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange activated a sidecar mechanism on the KOSDAQ index, suspending program trading for 5 minutes."
+    },
+    {
+      "id": "5021363",
+      "time": "2026-08-03 09:29:02",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【油氣開採及服務板塊低開，科力股份跌超7%】油氣開採及服務板塊低開，科力股份跌超7%，潛能恆信、通源石油、中曼石油跟跌。訊息面上，美國總統特朗普叫停原定針對伊朗的軍事打擊，並表示雙方將於週一(8月3日)恢復談判後，國際油價大幅下跌。"
+    },
+    {
+      "id": "te:economy:571951",
+      "time": "2026-08-03 09:29:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "China 10Y Bond Yield Hits 51-week Low — China 10 Year Government Bond Yield decreased to 1.70%, the lowest since August 2025. Over the past 4 weeks, China 10Y Bond Yield lost 3.40 basis points, and in the last 12 months, it decreased 0.10 basis points."
+    },
+    {
+      "id": "5021362",
+      "time": "2026-08-03 09:28:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國交易所啟動熔斷機制，暫停科斯達克程式化買入委託。"
+    },
+    {
+      "id": "mkt:019fc53b-4cac-7aab-8f4b-be6efa41c8e7",
+      "time": "2026-08-03 09:27:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesian officials said rare-earth export policy has been clarified: the ban applies only to a single product, and exports of minerals not containing rare earths resumed on Sunday."
+    },
+    {
+      "id": "5021361",
+      "time": "2026-08-03 09:27:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF開盤：碳中和ETF領漲6.30%，新能源電池ETF領跌9.11%】ETF開盤漲跌不一，碳中和ETF（560550）領漲6.30%，港股通消費ETF（159268）漲4.16%，物聯網ETF（516260）漲3.29%，新能源電池ETF（159071）領跌9.11%，家電ETF（159730）跌5.01%，科創人工智慧ETF（589310）跌4.6%。"
+    },
+    {
+      "id": "5021360",
+      "time": "2026-08-03 09:26:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【鎧俠計劃今年量產下一代AI NAND產品】日本鎧俠正瞄準下一代人工智慧(AI)NAND市場，其計劃今年量產最新的標準NAND解決方案，包括“PCIe（PCIExpress）6.0”和“UFS（UniversalFlashStorage）5.0”。"
+    },
+    {
+      "id": "5021359",
+      "time": "2026-08-03 09:26:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【鴻鵠航空科技完成7000萬元A輪融資】8月3日，青島鴻鵠航空科技有限公司宣佈完成7000萬元A輪融資。本輪募集資金將重點投入四大方向：加速推進歐洲適航認證（EASA）取證、擴大溫控集裝箱產能與市場投放規模、拓展全球簽約航司數量、持續建設擴增海外運營站點。"
+    },
     {
       "id": "mkt:019fc53a-b82f-7aab-8f4b-b30ec1c9f47a",
       "time": "2026-08-03 09:26:27",

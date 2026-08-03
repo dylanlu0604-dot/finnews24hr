@@ -1,7 +1,141 @@
 {
-  "updated": "2026-08-03 09:27:23",
-  "count": 17971,
+  "updated": "2026-08-03 09:31:36",
+  "count": 17958,
   "items": [
+    {
+      "id": "mkt:019fc53e-87db-7aab-8f4b-d1a2cd4f595f",
+      "time": "2026-08-03 09:30:37",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "A-share oil and gas exploration & services sector opened lower; Keli Co. fell more than 7%, while Qianneng Hengxin, Tongyuan Petroleum and Zhongman Petroleum also declined."
+    },
+    {
+      "id": "5021369",
+      "time": "2026-08-03 09:30:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.00%，現報3310.451點；上證指數跌0.49%，現報3813.522點；深證成指跌0.75%，現報13476.459點。"
+    },
+    {
+      "id": "mkt:019fc53e-5b10-7aab-8f4b-cf264e12b97f",
+      "time": "2026-08-03 09:30:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Controlled nuclear-fusion-themed A-shares firmed in early trade; Jiangsu Shentong jumped over 9%, with Changfu Shares, Hahan Huatong and Zhongyan Dadi also rising."
+    },
+    {
+      "id": "5021368",
+      "time": "2026-08-03 09:30:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "A股可控核聚變概念股盤初走強，江蘇神通漲超9%，常輔股份、哈焊華通、中巖大地等跟漲。"
+    },
+    {
+      "id": "5021367",
+      "time": "2026-08-03 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.10%， 10年期主力合約漲0.03%， 5年期主力合約漲0.02%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5021366",
+      "time": "2026-08-03 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.42%， 滬深300指數期貨連續跌0.40%， 中證500指數期貨連續跌0.62%， 上證50指數期貨連續跌0.27%。"
+    },
+    {
+      "id": "5021365",
+      "time": "2026-08-03 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.02%，成分股中，佰維儲存跌3.53%，華海清科跌3.49%，恆玄科技跌2.31%，生益電子跌2.24%。"
+    },
+    {
+      "id": "mkt:019fc53d-3b30-7aab-8f4b-c79f3a18d1a2",
+      "time": "2026-08-03 09:29:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange activated a sidecar mechanism on the KOSDAQ index, suspending program trading for 5 minutes."
+    },
+    {
+      "id": "5021363",
+      "time": "2026-08-03 09:29:02",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【油氣開採及服務板塊低開，科力股份跌超7%】油氣開採及服務板塊低開，科力股份跌超7%，潛能恆信、通源石油、中曼石油跟跌。訊息面上，美國總統特朗普叫停原定針對伊朗的軍事打擊，並表示雙方將於週一(8月3日)恢復談判後，國際油價大幅下跌。"
+    },
+    {
+      "id": "te:economy:571951",
+      "time": "2026-08-03 09:29:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "China 10Y Bond Yield Hits 51-week Low — China 10 Year Government Bond Yield decreased to 1.70%, the lowest since August 2025. Over the past 4 weeks, China 10Y Bond Yield lost 3.40 basis points, and in the last 12 months, it decreased 0.10 basis points."
+    },
+    {
+      "id": "5021362",
+      "time": "2026-08-03 09:28:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國交易所啟動熔斷機制，暫停科斯達克程式化買入委託。"
+    },
+    {
+      "id": "mkt:019fc53b-4cac-7aab-8f4b-be6efa41c8e7",
+      "time": "2026-08-03 09:27:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesian officials said rare-earth export policy has been clarified: the ban applies only to a single product, and exports of minerals not containing rare earths resumed on Sunday."
+    },
+    {
+      "id": "5021361",
+      "time": "2026-08-03 09:27:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF開盤：碳中和ETF領漲6.30%，新能源電池ETF領跌9.11%】ETF開盤漲跌不一，碳中和ETF（560550）領漲6.30%，港股通消費ETF（159268）漲4.16%，物聯網ETF（516260）漲3.29%，新能源電池ETF（159071）領跌9.11%，家電ETF（159730）跌5.01%，科創人工智慧ETF（589310）跌4.6%。"
+    },
+    {
+      "id": "5021360",
+      "time": "2026-08-03 09:26:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【鎧俠計劃今年量產下一代AI NAND產品】日本鎧俠正瞄準下一代人工智慧(AI)NAND市場，其計劃今年量產最新的標準NAND解決方案，包括“PCIe（PCIExpress）6.0”和“UFS（UniversalFlashStorage）5.0”。"
+    },
+    {
+      "id": "5021359",
+      "time": "2026-08-03 09:26:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【鴻鵠航空科技完成7000萬元A輪融資】8月3日，青島鴻鵠航空科技有限公司宣佈完成7000萬元A輪融資。本輪募集資金將重點投入四大方向：加速推進歐洲適航認證（EASA）取證、擴大溫控集裝箱產能與市場投放規模、拓展全球簽約航司數量、持續建設擴增海外運營站點。"
+    },
     {
       "id": "5021358",
       "time": "2026-08-03 09:26:27",
@@ -166290,288 +166424,6 @@
         "市場"
       ],
       "text": "【國家統計局工業司首席統計師於衛寧解讀2026年1—6月份工業企業利潤資料】原材料製造業利潤快速增長。上半年，規模以上原材料製造業利潤同比增長71.7%，拉動全部規模以上工業企業利潤增長8.8個百分點。從行業看，在銅、鋁等有色金屬產品需求向好等因素推動下，有色行業利潤增長99.4%，拉動全部規模以上工業企業利潤增長4.7個百分點；在石油產業鏈條相關產品價格上漲推動下，石油加工行業同比扭虧為盈，化工行業利潤增長67.8%。"
-    },
-    {
-      "id": "5009030",
-      "time": "2026-07-27 09:31:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局工業司首席統計師於衛寧解讀2026年1—6月份工業企業利潤資料】新動能高速發展帶動相關行業利潤明顯增長。上半年，新動能相關產業快速發展，帶動相關行業利潤增長較快。其中，非金屬材料相關行業中，再生橡膠製造、石墨及碳素製品製造行業利潤增長133.3%、61.0%；金屬材料相關行業中，鋁冶煉、銅冶煉行業利潤增長117.1%、53.9%；資料中心內部互動連線相關行業中，光纖製造、光纜製造行業利潤增長410.4%、39.8%；裝置製造相關行業中，增材製造裝備製造、半導體器件專用裝置製造行業利潤增長55.4%、18.7%。"
-    },
-    {
-      "id": "5009029",
-      "time": "2026-07-27 09:31:28",
-      "tags": [
-        "行業",
-        "其他",
-        "焦點"
-      ],
-      "text": "【國家統計局工業司首席統計師於衛寧解讀2026年1—6月份工業企業利潤資料】電子相關行業利潤高速增長。上半年，人工智慧與各領域加速融合，算力需求大幅增長，推動電子行業利潤同比增長96.9%，拉動全部規模以上工業企業利潤增長8.5個百分點，是規模以上工業企業利潤較快增長的重要支撐。其中，伺服器、高效能工作站相關領域中，計算機整機制造、計算機外圍裝置製造行業利潤分別增長689.3%、305.8%；電子器件製造領域中，積體電路製造、半導體分立器件製造行業利潤增長2579.5%、31.2%；電子元件及電子專用材料製造領域中，電子專用材料製造、電子電路製造行業利潤增長209.7%、26.9%。"
-    },
-    {
-      "id": "mkt:019fa132-aca1-7aab-8e9f-31ca52658526",
-      "time": "2026-07-27 09:31:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【China index futures open higher】CSI 300 index futures (IF) most-active contract +0.15% at the morning open; SSE 50 index futures (IH) +0.08%; CSI 500 (IC) +0.21%; CSI 1000 (IM) +0.37%."
-    },
-    {
-      "id": "5009028",
-      "time": "2026-07-27 09:31:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局工業司首席統計師於衛寧解讀2026年1—6月份工業企業利潤資料】工業企業利潤較快增長。上半年，在工業生產穩定增長、工業品價格持續回升的背景下，規模以上工業企業營業收入同比增長6.5%，較一季度加快1.5個百分點。營業收入加快增長，帶動規模以上工業企業利潤同比增長18.7%，較一季度加快3.2個百分點。從三大門類看，採礦業、製造業利潤分別增長33.5%、20.1%，較一季度分別加快17.3個、1.0個百分點；電力、熱力、燃氣及水生產和供應業下降4.2%。6月份，全國規模以上工業企業利潤同比增長15.1%。"
-    },
-    {
-      "id": "mkt:019fa132-9ff6-7aab-8e9f-2ff547d6e21f",
-      "time": "2026-07-27 09:31:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed",
-        "Copper",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "China June profits of industrial enterprises above designated size rose 15.1% YoY, versus 21.1% previously."
-    },
-    {
-      "id": "mkt:019fa132-90d8-7aab-8e9f-26e0865cba85",
-      "time": "2026-07-27 09:31:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China government bond futures open】2-year (TS) most-active contract down 0.01%, 5-year (TF) and 10-year (T) most-active contracts unchanged, 30-year (TL) most-active contract up 0.16%."
-    },
-    {
-      "id": "mkt:019fa132-7b64-7aab-8e9f-1a0c9e559f9c",
-      "time": "2026-07-27 09:31:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Industrial Profit Growth (YoY) (Jun) | actual 15.1% | previous 21.10%"
-    },
-    {
-      "id": "5009027",
-      "time": "2026-07-27 09:30:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【2026年1—6月份全國規模以上工業企業利潤增長18.7%】1—6月份，全國規模以上工業企業實現利潤總額39479.9億元，同比增長18.7%（按可比口徑計算，詳見附註二）。 1—6月份，規模以上工業企業中，國有控股企業實現利潤總額13077.4億元，同比增長17.9%；股份制企業實現利潤總額30443.2億元，增長24.7%；外商及港澳臺投資企業實現利潤總額8873.2億元，增長2.6%；私營企業實現利潤總額9655.6億元，增長13.0%。 1—6月份，採礦業實現利潤總額5745.0億元，同比增長33.5%；製造業實現利潤總額29712.1億元，增長20.1%；電力、熱力、燃氣及水生產和供應業實現利潤總額4022.7億元，下降4.2%。 1—6月份，主要行業利潤情況如下：有色金屬冶煉和壓延加工業利潤同比增長99.4%，計算機、通訊和其他電子裝置製造業增長96.9%，化學原料和化學制品製造業增長67.8%，煤炭開採和洗選業增長41.1%，石油和天然氣開採業增長16.6%，紡織業增長16.6%，通用裝置製造業增長1.5%，專用裝置製造業下降0.1%，電力、熱力生產和供應業下降6.2%，電氣機械和器材製造業下降8.6%，農副食品加工業下降12.0%，汽車製造業下降19.5%，黑色金屬冶煉和壓延加工業下降25.0%，非金屬礦物製品業下降47.8%，石油、煤炭及其他燃料加工業由虧轉盈。 1—6月份，規模以上工業企業實現營業收入69.26萬億元，同比增長6.5%；發生營業成本58.80萬億元，增長5.9%；營業收入利潤率為5.70%，同比提高0.59個百分點。 6月末，規模以上工業企業資產總計194.60萬億元，同比增長6.1%；負債合計113.52萬億元，增長6.6%；所有者權益合計81.08萬億元，增長5.4%；資產負債率為58.3%，同比上升0.3個百分點。 6月末，規模以上工業企業應收賬款28.60萬億元，同比增長8.1%；產成品存貨7.11萬億元，增長9.5%。 1—6月份，規模以上工業企業每百元營業收入中的成本為84.89元，同比減少0.55元；每百元營業收入中的費用為8.45元，同比減少0.06元。"
-    },
-    {
-      "id": "5009026",
-      "time": "2026-07-27 09:30:52",
-      "tags": [],
-      "text": "【長鑫科技高開471％ 成A股“一哥”】長鑫科技高開471％，總市值達3.31萬億，超越工商銀行成為目前A股總市值“一哥”。"
-    },
-    {
-      "id": "mkt:019fa132-385c-7aab-8e9f-16f5959a750b",
-      "time": "2026-07-27 09:30:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish"
-      ],
-      "text": "【Zheshang Securities: Short-term outlook can be more optimistic】Zheshang Securities says prior market adjustment pressure is largely released and a more positive short-term stance is warranted. Large inflows into mainstream ETFs have driven a clear bottoming rebound, suggesting the short-term trough is taking shape. Since late June, the ChiNext and STAR Market-led segment has completed a sizeable correction that has largely discharged internal adjustment pressure from earlier gains, limiting near-term downside. The Shanghai Composite has found support near its 20-month moving average and has the momentum to retest the yearly moving average or the 4,000 level. The ChiNext index has rebounded above its yearly moving average and shows a relatively complete five-wave structure on the 60-minute chart; a renewed retest—whether it makes a new low or not—would complete a bottom and likely precede a rebound on timeframes above the daily chart (STAR 50 exhibits a similar pattern). Positioning: sectors already showing recovery include securities, innovative drugs and Hang Seng Tech—these can be watched on dips from a mid-term perspective as rebalancing options outside core tech; in the short term, consider buy-the-dip participation in recent oversold rebounds across ChiNext and the STAR Market."
-    },
-    {
-      "id": "mkt:019fa132-1570-7aab-8e9f-09d7c235d417",
-      "time": "2026-07-27 09:30:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Copper",
-        "Hang Seng Index"
-      ],
-      "text": "China's National Bureau of Statistics said profits of industrial enterprises above designated size rose 18.7% in January–June 2026."
-    },
-    {
-      "id": "mkt:019fa131-d060-7aab-8e9f-0678300cbd87",
-      "time": "2026-07-27 09:30:24",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "Copper",
-        "Hang Seng Index"
-      ],
-      "text": "China industrial enterprises above designated size: year-to-date through June profits rose 18.7% YoY, versus 18.80% previously."
-    },
-    {
-      "id": "5009025",
-      "time": "2026-07-27 09:30:23",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "中國1至6月規模以上工業企業利潤同比 18.7%，前值 18.8%。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202607273821365743",
-      "time": "2026-07-27 09:30:17",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【統計局：2026年1—6月份全國規模以上工業企業利潤增長18.7%】1—6月份，全國規模以上工業企業實現利潤總額39479.9億元，同比增長18.7%。6月份，規模以上工業企業利潤同比增長15.1%。"
-    },
-    {
-      "id": "mkt:019fa131-af81-7aab-8e9e-f9d64cf512ea",
-      "time": "2026-07-27 09:30:15",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Industrial Profit Growth YTD (Jun) | actual 18.7% | previous 18.80%"
-    },
-    {
-      "id": "5009024",
-      "time": "2026-07-27 09:30:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.12%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "5009023",
-      "time": "2026-07-27 09:30:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海第九屆進博會倒計時100天 籌備工作有序推進】今天（27日），第九屆中國國際進口博覽會迎來開幕倒計時100天。本屆進博會將於11月5日到10日在上海舉辦，目前各項籌備工作正穩步推進。上海國家會展中心將在今天舉辦第九屆進博會新聞通氣會、第九屆虹橋論壇主題議題解讀會等活動，通報本屆進博會籌備工作進展和上海城市服務保障方面相關資訊，釋出第九屆虹橋論壇主題、分論壇及閉門會框架和具體議題，並邀請境內外知名專家學者、會員企業等工商界代表等對主題議題進行前瞻性解讀。（央視新聞）"
-    },
-    {
-      "id": "5009022",
-      "time": "2026-07-27 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.32%， 滬深300指數期貨連續跌0.10%， 中證500指數期貨連續漲0.13%， 上證50指數期貨連續漲0.47%。"
-    },
-    {
-      "id": "mkt:019fa131-7044-7aab-8e9e-f2b5831b09a2",
-      "time": "2026-07-27 09:29:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy",
-        "0883.HK",
-        "Impact bearish"
-      ],
-      "text": "China A-share oil & gas sector re-priced in the opening auction: Zhongman Petroleum and Shandong Molong hit daily limit-down; Tongyuan Petroleum and Keli Co fell over 15%; Qianeng Hengxin, Taishan Petroleum, CNOOC, CNOOC Engineering and Blue Flame Holdings opened lower."
-    },
-    {
-      "id": "5009021",
-      "time": "2026-07-27 09:29:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "【浙商證券：短期可以更樂觀些】浙商證券稱，展望後市，前期市場調整的壓力已經基本釋放，短期可以以更積極的態度來面對後市。隨著大資金介入主流ETF，市場明顯觸底反彈，這也意味著短期底部逐步形成。考慮6月下旬以後，市場在雙創帶動下已經完成一輪可觀調整，充分釋放了前期連續上漲帶來的內生性調整壓力，短期內市場進一步下行空間有限。以上證來看，其已在20月線附近獲得支撐，後續有反抽年線甚至4000點關口的動能；以創業板指來看，在經過前期充分調整後，其不僅在年線上方開始反彈，且在60分鐘級別形成較為完整的5浪結構，一旦再度回踩、無論是否新低均會形成完整底部結構，其後都有望開啟一輪日線以上級別反彈（科創50與創指節奏類似）。配置方面，目前已經逐步走出來的板塊有證券、創新藥、恒生科技，可以以中線視角逢低關注、作為科技之外的再平衡備選物件；與此同時，可以以短線超跌反彈視角逢低參與雙創近期反彈。"
-    },
-    {
-      "id": "te:markets:569906",
-      "time": "2026-07-27 09:28:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Extends Gain — The New Zealand dollar rose to around $0.580 on Monday, extending its rebound from the previous session as risk sentiment improved following a pause in military strikes between the US and Iran. Iran said on Sunday that it had halted retaliatory attacks against US allies in the Middle East after Washington suspended further strikes against the country since Friday, offering relief to global markets after the recent escalation in the conflict. The lull in fighting pushed oil prices lower, providing additional support for the kiwi, as New Zealand’s heavy reliance on imported energy leaves the currency sensitive to fluctuations in fuel costs. On the policy front, the Reserve Bank of New Zealand is widely expected to deliver another 25-bp hike in September following hot inflation data last week, with markets implying rates to reach at least 3.0% by year-end and peak at 3.5% around mid-2027."
-    },
-    {
-      "id": "mkt:019fa130-0142-7aab-8e9e-ebf7e1237512",
-      "time": "2026-07-27 09:28:25",
-      "tags": [
-        "MKT News",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China's Shanghai Composite Index opened down 5.29 points (-0.14%) at 3,808.90 on Monday. The Shenzhen Composite Index opened down 6.07 points (-0.04%) at 13,768.60. The CSI 300 Index opened up 6.84 points (+0.15%) at 4,656.03. The ChiNext Index opened up 1.18 points (+0.03%) at 3,482.04. The STAR 50 Index opened down 6.48 points (-0.36%) at 1,780.72."
-    },
-    {
-      "id": "mkt:019fa12f-e4ea-7aab-8e9e-e249945341d1",
-      "time": "2026-07-27 09:28:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【UN secretary-general Guterres urges immediate removal of all sanctions on Syria】Visiting Syria on the 26th, UN secretary-general Guterres called for the immediate lifting of all sanctions and urged the international community to increase political and economic support for reconstruction. He said he welcomed measures easing sanctions that could open new possibilities for economic recovery and that all sanctions should be lifted immediately."
-    },
-    {
-      "id": "5009020",
-      "time": "2026-07-27 09:28:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯合國秘書長呼籲解除對敘利亞所有制裁】正在敘利亞進行訪問的聯合國秘書長古特雷斯26日呼籲立即解除對敘利亞的所有制裁，並敦促國際社會加大對敘利亞重建的政治和經濟支援。古特雷斯在當天的新聞釋出會上說：“我對那些放寬制裁併為經濟復甦提供新可能性的舉措表示歡迎，所有制裁都應立即解除。”（新華社）"
-    },
-    {
-      "id": "mkt:019fa12f-87ef-7aab-8e9e-dc225d2d7d8b",
-      "time": "2026-07-27 09:27:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "300750.SZ",
-        "Impact bullish"
-      ],
-      "text": "CATL's A-share stock opened up nearly 4% at 398.01 yuan per share."
-    },
-    {
-      "id": "5009018",
-      "time": "2026-07-27 09:27:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【油氣概念集體調整 中曼石油、山東墨龍雙雙跌停】油氣概念集體調整，中曼石油、山東墨龍雙雙跌停，通源石油、科力股份跌超15%，潛能恆信、泰山石油、中國海油、海油工程、藍焰控股低開。訊息面上，WTI原油期貨價格跌6.27%，報83.708美元/桶。"
-    },
-    {
-      "id": "te:markets:569905",
-      "time": "2026-07-27 09:27:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Singapore",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "STI Trades Lower After MAS Decision — Singapore's stocks fell 17 points, or 0.3%, to 5,571 in morning trade on Monday, after edging up in the previous session, following the Monetary Authority of Singapore (MAS)'s decision to tighten its monetary policy, though core inflation eased in June. Traders were also cautious ahead of the Fed's monetary policy decision and China's PMI data due this week. Caution also prevailed ahead of the release of Singapore's industrial production data for June, after it eased in the previous month. However, a rise in US stock futures ahead of big tech earnings this week and easing oil prices after the US paused strikes on Iran capped the fall. Among the early losers were Yangzijiang Shipbuilding Holdings (-1.8%), Jardine Matheson Holdings (-1.0%), Wilmar International (-0.8%), Venture Corp (-0.7%), DBS Group Holdings (-0.7%), and Sembcorp Industries (-0.6%)."
-    },
-    {
-      "id": "5009017",
-      "time": "2026-07-27 09:27:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【寧德時代高開3.92%】寧德時代高開3.92%，訊息面上，寧德時代公告，半年度營業收入約2769.166億元，同比增長54.8%；歸屬於上市公司股東的淨利潤約432.84億元，同比增長41.98%。公司擬每10股派發現金分紅14.11元，分紅總額達64.93億元。寧德時代同步披露了A股回購方案，擬以不低於200億元且不超過400億元的資金回購A股股份，回購的股份將用於登出並減少公司註冊資本，回購價格上限為573元/股。"
     }
   ]
 }
