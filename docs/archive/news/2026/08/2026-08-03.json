@@ -1,7 +1,141 @@
 {
   "date": "2026-08-03",
-  "count": 530,
+  "count": 544,
   "items": [
+    {
+      "id": "mkt:019fc53a-b82f-7aab-8f4b-b30ec1c9f47a",
+      "time": "2026-08-03 09:26:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Beijing Stock Exchange new listing N Juren surged 324.11% at the open."
+    },
+    {
+      "id": "5021358",
+      "time": "2026-08-03 09:26:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "北交所新股N聚仁開盤大漲324.11%。"
+    },
+    {
+      "id": "mkt:019fc53a-1cc7-7aab-8f4b-ab40732b5156",
+      "time": "2026-08-03 09:25:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【PBOC nets CNY562.5 bln in open-market operations】PBOC conducted CNY63 bln of 7-day reverse repos and CNY300 bln of overnight reverse repos. With CNY325.5 bln of 7-day and CNY600 bln of overnight reverse repos maturing today, the operations resulted in a net injection of CNY562.5 bln."
+    },
+    {
+      "id": "5021357",
+      "time": "2026-08-03 09:25:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豪森智慧簽約三一索特新一代變速箱智慧量產線專案】據豪森智慧訊息，近日，豪森智慧成功簽約三一集團旗下索特傳動裝置有限公司（簡稱“三一索特”）新一代變速箱智慧量產線專案。這是豪森智慧與三一索特的首次合作，也是豪森智慧在工程裝備領域拓展上的新突破。"
+    },
+    {
+      "id": "mkt:019fc539-a933-7aab-8f4b-a7c491cb03ca",
+      "time": "2026-08-03 09:25:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China A-share market opened lower: Shanghai Composite down 0.51%, Shenzhen Composite Index down 0.60%, ChiNext down 0.71%. MLCC and storage-chip stocks led declines."
+    },
+    {
+      "id": "5021356",
+      "time": "2026-08-03 09:25:12",
+      "tags": [],
+      "text": "三大股指低開，滬指跌0.51％，深成指跌0.6％，創業板跌0.71％。"
+    },
+    {
+      "id": "5021355",
+      "time": "2026-08-03 09:25:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲5%，現報34600.00元。"
+    },
+    {
+      "id": "5021354",
+      "time": "2026-08-03 09:24:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統府幕僚長：不含稀土的礦物出口已於週日起恢復。"
+    },
+    {
+      "id": "5021353",
+      "time": "2026-08-03 09:24:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【交易員稱對沖基金在現貨市場拋售美元兌日元】在美國財長貝森特表示將毫不猶豫地進行更多日元干預後，對沖基金週一在現貨市場上拋售美元兌日元。交易員表示，日本財務大臣片山皋月指出美國曾表示日元應升值，且日本不會猶豫採取進一步干預措施，這一言論也助推了對沖基金的拋售。美元兌日元下跌0.7%，報156.27。"
+    },
+    {
+      "id": "mkt:019fc537-9610-7aab-8f4b-9f7aefdb1bf3",
+      "time": "2026-08-03 09:23:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong equity benchmarks opened higher on Monday, Aug. 3. The Hang Seng Index (HSI) rose 102.88 points (0.40%) to 25,987.31 at the open. The Hang Seng Tech Index gained 32.70 points (0.68%) to 4,861.92. The Hang Seng China Enterprises Index (HSCEI) added 46.97 points (0.55%) to 8,659.12. The Hang Seng Red Chip Index was up 3.68 points (0.09%) at 4,196.80."
+    },
+    {
+      "id": "te:markets:571950",
+      "time": "2026-08-03 09:22:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Weakens on Yen Intervention — The dollar index fell toward 99.5 on Monday, extending its decline to a fifth consecutive session after Japan confirmed it had carried out coordinated yen-buying operations with the US, while Bank of Japan data indicated the country may have spent as much as $58.97 billion on Thursday. Japanese authorities also warned they stand ready to conduct additional coordinated interventions if necessary, noting they remain in close contact with their US counterparts. In the US, investors are turning their attention to a full slate of labor market data this week, highlighted by Friday's closely watched monthly jobs report. Last week, the Federal Reserve left interest rates unchanged, although three officials dissented, warning that waiting too long to act could eventually require more aggressive policy tightening. Markets are currently pricing in about a 68% chance of a 25 basis point Fed rate hike in September."
+    },
+    {
+      "id": "5021352",
+      "time": "2026-08-03 09:22:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "迅策開盤大幅走高，現漲14.98%，報119港元。"
+    },
+    {
+      "id": "5021351",
+      "time": "2026-08-03 09:22:41",
+      "tags": [
+        "央行",
+        "焦點"
+      ],
+      "text": "中國央行開展3000億元隔夜逆回購操作。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608033829263925",
+      "time": "2026-08-03 09:22:35",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展630億元7天期逆回購操作，操作利率為1.40%。同時，開展了3000億元隔夜逆回購操作。"
+    },
     {
       "id": "mkt:019fc537-225e-7aab-8f4b-941b6e391785",
       "time": "2026-08-03 09:22:32",

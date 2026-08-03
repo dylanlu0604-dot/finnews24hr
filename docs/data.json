@@ -1,7 +1,141 @@
 {
-  "updated": "2026-08-03 09:23:12",
-  "count": 17969,
+  "updated": "2026-08-03 09:27:23",
+  "count": 17971,
   "items": [
+    {
+      "id": "5021358",
+      "time": "2026-08-03 09:26:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "北交所新股N聚仁開盤大漲324.11%。"
+    },
+    {
+      "id": "mkt:019fc53a-b82f-7aab-8f4b-b30ec1c9f47a",
+      "time": "2026-08-03 09:26:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Beijing Stock Exchange new listing N Juren surged 324.11% at the open."
+    },
+    {
+      "id": "mkt:019fc53a-1cc7-7aab-8f4b-ab40732b5156",
+      "time": "2026-08-03 09:25:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【PBOC nets CNY562.5 bln in open-market operations】PBOC conducted CNY63 bln of 7-day reverse repos and CNY300 bln of overnight reverse repos. With CNY325.5 bln of 7-day and CNY600 bln of overnight reverse repos maturing today, the operations resulted in a net injection of CNY562.5 bln."
+    },
+    {
+      "id": "5021357",
+      "time": "2026-08-03 09:25:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豪森智慧簽約三一索特新一代變速箱智慧量產線專案】據豪森智慧訊息，近日，豪森智慧成功簽約三一集團旗下索特傳動裝置有限公司（簡稱“三一索特”）新一代變速箱智慧量產線專案。這是豪森智慧與三一索特的首次合作，也是豪森智慧在工程裝備領域拓展上的新突破。"
+    },
+    {
+      "id": "mkt:019fc539-a933-7aab-8f4b-a7c491cb03ca",
+      "time": "2026-08-03 09:25:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China A-share market opened lower: Shanghai Composite down 0.51%, Shenzhen Composite Index down 0.60%, ChiNext down 0.71%. MLCC and storage-chip stocks led declines."
+    },
+    {
+      "id": "5021356",
+      "time": "2026-08-03 09:25:12",
+      "tags": [],
+      "text": "三大股指低開，滬指跌0.51％，深成指跌0.6％，創業板跌0.71％。"
+    },
+    {
+      "id": "5021355",
+      "time": "2026-08-03 09:25:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲5%，現報34600.00元。"
+    },
+    {
+      "id": "5021354",
+      "time": "2026-08-03 09:24:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統府幕僚長：不含稀土的礦物出口已於週日起恢復。"
+    },
+    {
+      "id": "5021353",
+      "time": "2026-08-03 09:24:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【交易員稱對沖基金在現貨市場拋售美元兌日元】在美國財長貝森特表示將毫不猶豫地進行更多日元干預後，對沖基金週一在現貨市場上拋售美元兌日元。交易員表示，日本財務大臣片山皋月指出美國曾表示日元應升值，且日本不會猶豫採取進一步干預措施，這一言論也助推了對沖基金的拋售。美元兌日元下跌0.7%，報156.27。"
+    },
+    {
+      "id": "mkt:019fc537-9610-7aab-8f4b-9f7aefdb1bf3",
+      "time": "2026-08-03 09:23:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong equity benchmarks opened higher on Monday, Aug. 3. The Hang Seng Index (HSI) rose 102.88 points (0.40%) to 25,987.31 at the open. The Hang Seng Tech Index gained 32.70 points (0.68%) to 4,861.92. The Hang Seng China Enterprises Index (HSCEI) added 46.97 points (0.55%) to 8,659.12. The Hang Seng Red Chip Index was up 3.68 points (0.09%) at 4,196.80."
+    },
+    {
+      "id": "te:markets:571950",
+      "time": "2026-08-03 09:22:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Weakens on Yen Intervention — The dollar index fell toward 99.5 on Monday, extending its decline to a fifth consecutive session after Japan confirmed it had carried out coordinated yen-buying operations with the US, while Bank of Japan data indicated the country may have spent as much as $58.97 billion on Thursday. Japanese authorities also warned they stand ready to conduct additional coordinated interventions if necessary, noting they remain in close contact with their US counterparts. In the US, investors are turning their attention to a full slate of labor market data this week, highlighted by Friday's closely watched monthly jobs report. Last week, the Federal Reserve left interest rates unchanged, although three officials dissented, warning that waiting too long to act could eventually require more aggressive policy tightening. Markets are currently pricing in about a 68% chance of a 25 basis point Fed rate hike in September."
+    },
+    {
+      "id": "5021352",
+      "time": "2026-08-03 09:22:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "迅策開盤大幅走高，現漲14.98%，報119港元。"
+    },
+    {
+      "id": "5021351",
+      "time": "2026-08-03 09:22:41",
+      "tags": [
+        "央行",
+        "焦點"
+      ],
+      "text": "中國央行開展3000億元隔夜逆回購操作。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608033829263925",
+      "time": "2026-08-03 09:22:35",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展630億元7天期逆回購操作，操作利率為1.40%。同時，開展了3000億元隔夜逆回購操作。"
+    },
     {
       "id": "mkt:019fc537-225e-7aab-8f4b-941b6e391785",
       "time": "2026-08-03 09:22:32",
@@ -166438,107 +166572,6 @@
         "市場"
       ],
       "text": "【寧德時代高開3.92%】寧德時代高開3.92%，訊息面上，寧德時代公告，半年度營業收入約2769.166億元，同比增長54.8%；歸屬於上市公司股東的淨利潤約432.84億元，同比增長41.98%。公司擬每10股派發現金分紅14.11元，分紅總額達64.93億元。寧德時代同步披露了A股回購方案，擬以不低於200億元且不超過400億元的資金回購A股股份，回購的股份將用於登出並減少公司註冊資本，回購價格上限為573元/股。"
-    },
-    {
-      "id": "5009016",
-      "time": "2026-07-27 09:26:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【國信證券：當前存在初步企穩跡象】國信證券表示，上週A股市場初步企穩，但趨勢性上漲機會仍需等待。一是從籌碼結構來看，此前AI科技拋壓已告一段落，風格再平衡結束。二是從市場情緒來看，做多情緒正在醞釀。三是資金逆勢佈局，夯實市場底部基礎。在7月20日前後，股票型ETF持續大額淨申購。從上述籌碼結構、市場情緒、資金方向來看，當前A股市場存在初步企穩跡象，但在7月底仍面臨一定事件因素壓制，預計資金將在不確定性因素消退後，再加大市場佈局，7月底前後，日線構築“W型”底部的機率更大，靜待市場走出右側後，再考慮佈局。總體來看，在8月底中報披露完畢、美國11月初中期選舉臨近等因素共同驅動下，預計8月下旬至10月底，A股市場指數可能迎來再次做多的有利視窗期，屆時可考慮適當提高風險偏好及倉位。"
-    },
-    {
-      "id": "mkt:019fa12d-b837-7aab-8e9e-d7f1d1ef5250",
-      "time": "2026-07-27 09:25:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "SZSE Component",
-        "Impact bearish"
-      ],
-      "text": "China A-shares opened: Shanghai Composite flat, Shenzhen Composite Index down 0.04%, ChiNext Index up 0.03%. N Changxin jumped 471.59% on its debut, trading at 49.5 yuan per share."
-    },
-    {
-      "id": "5009015",
-      "time": "2026-07-27 09:25:47",
-      "tags": [],
-      "text": "N長鑫上市首日開漲471.59％，報49.5元/股。"
-    },
-    {
-      "id": "5009013",
-      "time": "2026-07-27 09:25:33",
-      "tags": [],
-      "text": "三大股指開盤漲跌不一，滬指跌0.14％，深成指跌0.04％，創業板漲0.03％。"
-    },
-    {
-      "id": "5009012",
-      "time": "2026-07-27 09:25:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普將於美國東部時間週一下午2:50在密歇根州發表講話。"
-    },
-    {
-      "id": "5009011",
-      "time": "2026-07-27 09:25:13",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【招商證券：震盪延續】招商證券表示，近期監管部門與央國企密集釋放增持、回購等穩市訊號，疊加流動性壓力緩解，市場已具備築底基礎，但科技板塊去槓桿或使震盪延續。TMT持倉高度集中意味著擁擠度上升，但後續趨勢仍取決於產業景氣和業績表現。7月政治局會議有望釋放進一步加大政策支援力度的訊號，產業發展、基建水網、文旅消費及資本市場是關注重點。配置上，建議關注科技修復以及中報改善方向如TMT漲價鏈、量價改善資源品、電池、醫療器械、創新藥、自動化裝置、航天裝備等。"
-    },
-    {
-      "id": "5009010",
-      "time": "2026-07-27 09:24:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長鑫科技上市首日 多家公募提示ETF參考淨值偏差風險】長鑫科技今日登陸科創板，多家公募提示投資者關注ETF參考淨值與實際淨值存在差異的風險。以華夏基金為例，該機構公告稱，旗下部分 ETF 參與了長鑫科技本次發行的網上/網下申購，並在長鑫科技上市前以發行價 (8.66 元/股)對該股票進行估值。根據《上海證券交易所交易規則》(2026 年修訂)，首次公開發行上市的股票上市後的前5個交易日不實行價格漲跌幅限制，股價存在大幅波動風險，而長鑫科技上市首日 ETF的基金份額參考淨值(IOPV)中僅包含了長鑫科技的發行 價格，未包含該股票的市場價格波動，因此長鑫科技上市首日ETF的IOPV可能與其該日的基金份額淨值存在一定差異，敬請投資者關注相應的投資風險。"
-    },
-    {
-      "id": "5009009",
-      "time": "2026-07-27 09:24:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三孚新科等成立電子材料製造新公司】企查查APP顯示，近日，廣州德勝祥電子材料製造有限公司成立，經營範圍包含：高效能有色金屬及合金材料銷售；電子專用材料製造；電子專用材料銷售；電子專用材料研發等。企查查股權穿透顯示，該公司由三孚新科等共同持股。"
-    },
-    {
-      "id": "5009008",
-      "time": "2026-07-27 09:23:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通富微電新設微電子公司，註冊資本10億元】企查查APP顯示，近日，通富微電（深圳）微電子有限公司成立，註冊資本10億元，經營範圍包含：積體電路設計；積體電路製造；積體電路銷售；半導體器件專用裝置銷售；半導體器件專用裝置製造等。企查查股權穿透顯示，該公司由通富微電全資持股。"
-    },
-    {
-      "id": "mkt:019fa12b-7305-7aab-8e9e-cb6b0236324a",
-      "time": "2026-07-27 09:23:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "South Korea's KOSPI hit an intraday low of 6,600, falling 1.42% on the day."
-    },
-    {
-      "id": "5009007",
-      "time": "2026-07-27 09:23:24",
-      "tags": [
-        "央行"
-      ],
-      "text": "中國央行逆回購操作當日實現淨回籠4730億元。"
-    },
-    {
-      "id": "5009006",
-      "time": "2026-07-27 09:23:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【酒鬼酒：公司不涉及跨界半導體業務】酒鬼酒7月27日在互動平臺表示，公司不涉及跨界半導體業務。"
     }
   ]
 }
