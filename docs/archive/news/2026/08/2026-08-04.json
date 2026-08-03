@@ -1,7 +1,66 @@
 {
   "date": "2026-08-04",
-  "count": 101,
+  "count": 107,
   "items": [
+    {
+      "id": "mkt:019fc8a7-f629-7aab-8f5d-019235ad351a",
+      "time": "2026-08-04 01:24:38",
+      "tags": [
+        "MKT News",
+        "UBS.N"
+      ],
+      "text": "The US Commodity Futures Trading Commission (CFTC) ordered UBS to pay an $8 million fine for supervisory failures related to its anti‑money‑laundering trade‑monitoring system."
+    },
+    {
+      "id": "mkt:019fc8a7-c818-7aab-8f5c-f85537d93744",
+      "time": "2026-08-04 01:24:26",
+      "tags": [
+        "MKT News",
+        "UBS.N"
+      ],
+      "text": "SEC says UBS will pay a $20 million civil penalty for anti-money-laundering violations."
+    },
+    {
+      "id": "mkt:019fc8a7-8817-7aab-8f5c-f45acc06b1f9",
+      "time": "2026-08-04 01:24:10",
+      "tags": [
+        "MKT News",
+        "UBS.SW",
+        "Impact bearish"
+      ],
+      "text": "US Treasury: FinCEN has imposed a $125 mln civil penalty on UBS, alleging the bank 'willfully violated' the Bank Secrecy Act."
+    },
+    {
+      "id": "mkt:019fc8a7-0c50-7aab-8f5c-ea80f8813b05",
+      "time": "2026-08-04 01:23:38",
+      "tags": [
+        "MKT News",
+        "UBS.O",
+        "Impact bearish"
+      ],
+      "text": "FINRA fined UBS Financial Services $20 million for anti-money laundering (AML) violations, saying the firm failed to reasonably monitor more than 60,000 transactions totaling about $10 billion."
+    },
+    {
+      "id": "5023099",
+      "time": "2026-08-04 01:23:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列高階官員：在哈馬斯解除武裝之前，我們絕不會撤軍。特朗普最初框架協議中並未包含此項安排，此事絕不可能發生。"
+    },
+    {
+      "id": "mkt:019fc8a5-4d62-7aab-8f5c-e7aefaae89b4",
+      "time": "2026-08-04 01:21:44",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Dollar index (DXY) rose above 100, up 0.26% intraday."
+    },
     {
       "id": "5023098",
       "time": "2026-08-04 01:20:51",

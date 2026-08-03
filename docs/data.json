@@ -1,7 +1,66 @@
 {
-  "updated": "2026-08-04 01:21:40",
-  "count": 17928,
+  "updated": "2026-08-04 01:25:55",
+  "count": 17932,
   "items": [
+    {
+      "id": "mkt:019fc8a7-f629-7aab-8f5d-019235ad351a",
+      "time": "2026-08-04 01:24:38",
+      "tags": [
+        "MKT News",
+        "UBS.N"
+      ],
+      "text": "The US Commodity Futures Trading Commission (CFTC) ordered UBS to pay an $8 million fine for supervisory failures related to its anti‑money‑laundering trade‑monitoring system."
+    },
+    {
+      "id": "mkt:019fc8a7-c818-7aab-8f5c-f85537d93744",
+      "time": "2026-08-04 01:24:26",
+      "tags": [
+        "MKT News",
+        "UBS.N"
+      ],
+      "text": "SEC says UBS will pay a $20 million civil penalty for anti-money-laundering violations."
+    },
+    {
+      "id": "mkt:019fc8a7-8817-7aab-8f5c-f45acc06b1f9",
+      "time": "2026-08-04 01:24:10",
+      "tags": [
+        "MKT News",
+        "UBS.SW",
+        "Impact bearish"
+      ],
+      "text": "US Treasury: FinCEN has imposed a $125 mln civil penalty on UBS, alleging the bank 'willfully violated' the Bank Secrecy Act."
+    },
+    {
+      "id": "mkt:019fc8a7-0c50-7aab-8f5c-ea80f8813b05",
+      "time": "2026-08-04 01:23:38",
+      "tags": [
+        "MKT News",
+        "UBS.O",
+        "Impact bearish"
+      ],
+      "text": "FINRA fined UBS Financial Services $20 million for anti-money laundering (AML) violations, saying the firm failed to reasonably monitor more than 60,000 transactions totaling about $10 billion."
+    },
+    {
+      "id": "5023099",
+      "time": "2026-08-04 01:23:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列高階官員：在哈馬斯解除武裝之前，我們絕不會撤軍。特朗普最初框架協議中並未包含此項安排，此事絕不可能發生。"
+    },
+    {
+      "id": "mkt:019fc8a5-4d62-7aab-8f5c-e7aefaae89b4",
+      "time": "2026-08-04 01:21:44",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Dollar index (DXY) rose above 100, up 0.26% intraday."
+    },
     {
       "id": "5023098",
       "time": "2026-08-04 01:20:51",
@@ -166121,22 +166180,6 @@
         "其他"
       ],
       "text": "飛利浦二季度銷售43.6億歐元，分析師預期43.1億歐元。\n二季度可比銷售增長4.1%，分析師預期增長3.96%。\n二季度調整後EBITDA為7.17億歐元，分析師預期5.174億歐元。\n二季度調整後EBITDA利潤率為16.4%，分析師預期11.9%。"
-    },
-    {
-      "id": "5010736",
-      "time": "2026-07-28 01:22:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗駐俄大使：烏克蘭襲擊伊朗船隻是犯罪行為】7月27日，伊朗駐俄羅斯大使賈拉利表示，烏克蘭對伊朗船隻的襲擊是犯罪行為，並強調這艘船完全是民用船隻，未載有任何軍用貨物。烏克蘭軍方25日在裡海襲擊一艘伊朗商船，伊方對此強烈譴責並召見烏克蘭駐伊朗臨時代辦。（央視）"
-    },
-    {
-      "id": "mkt:019fa498-e14e-7aab-8eb5-03ba1b9d4389",
-      "time": "2026-07-28 01:21:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE Foreign Ministry said the UAE strongly condemns the aggressive attack against Jordan."
     }
   ]
 }
