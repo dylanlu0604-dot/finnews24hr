@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-04 02:29:22",
-  "count": 17977,
+  "updated": "2026-08-04 02:33:20",
+  "count": 17975,
   "items": [
+    {
+      "id": "mkt:019fc8e5-75c9-7aab-8f5e-1d1484154187",
+      "time": "2026-08-04 02:31:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close, SHFE gold main contract fell 0.11% to 882 yuan/gram; SHFE silver main contract rose 0.34% to 14,153 yuan/kg; SC crude oil main contract fell 1.67% to 540 yuan/barrel."
+    },
+    {
+      "id": "5023166",
+      "time": "2026-08-04 02:31:03",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國原油期貨收於每桶80.34美元，下跌4.33美元，跌幅5.11%。"
+    },
+    {
+      "id": "mkt:019fc8e4-4b61-7aab-8f5e-12370c898f67",
+      "time": "2026-08-04 02:30:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed the evening session on Aug 3 (Mon) at 878.9 yuan/gram, down 0.33%. Silver T+D closed at 14,000.0 yuan/kg, down 0.85%."
+    },
+    {
+      "id": "5023165",
+      "time": "2026-08-04 02:30:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌1.67%，報540.30元人民幣/桶。滬金夜盤收跌0.11%，滬銀收漲0.34%。"
+    },
+    {
+      "id": "5023164",
+      "time": "2026-08-04 02:29:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我希望伊朗人能醒悟，絕不能允許他們擁有核武器，也盼他們能認清這一點。"
+    },
+    {
+      "id": "5023163",
+      "time": "2026-08-04 02:29:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "波音股價創下去年12月初以來最大盤中漲幅。"
+    },
+    {
+      "id": "5023162",
+      "time": "2026-08-04 02:28:55",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "波音公司股價因獲得認證而延續漲勢，漲幅達7.1%，創盤中新高。"
+    },
     {
       "id": "5023161",
       "time": "2026-08-04 02:26:37",
@@ -166481,94 +166551,6 @@
         "GOOG.O"
       ],
       "text": "【US firms: AI-driven discovery to roughly double software security vulnerabilities found in 2026 vs 2025】Software security vulnerabilities found in popular tech products in 2026 are expected to be about twice the number found in 2025, a surge market participants attribute mainly to advances in AI. The US National Vulnerability Database shows 45,207 vulnerabilities recorded from January through Monday, approaching 2025's full-year total after 2025 set a record. Oracle (ORCL.N) said its July fixes addressed 1,449 vulnerabilities versus 309 in the same month a year earlier; Microsoft (MSFT.O) disclosed 642 in July, nearly five times the year-earlier count; Google (GOOG.O) fixed 433 in a recent Chrome update versus 11 a year earlier. SentinelOne research scientist Gabriel Shapiro said AI tools are increasing the ability to find software bugs; Google Chrome engineering director Doug Turner said vulnerabilities are now being found at \"unprecedented scale and speed\" due to AI model progress and related investment."
-    },
-    {
-      "id": "mkt:019fa4d9-5449-7aab-8eb5-e6ee8fab505a",
-      "time": "2026-07-28 02:32:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "GM.N",
-        "Impact bearish"
-      ],
-      "text": "US President Trump said tariffs' impact on General Motors (GM.N) is staggering."
-    },
-    {
-      "id": "5010765",
-      "time": "2026-07-28 02:31:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們對通用汽車一直十分優待，這是有原因的。"
-    },
-    {
-      "id": "mkt:019fa4d8-f7e5-7aab-8eb5-df2399803914",
-      "time": "2026-07-28 02:31:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "【Night session most-active contracts close】At the 02:30 night session close, SHFE most-active gold futures fell 0.18% to 891 yuan/gram; SHFE most-active silver futures fell 0.72% to 14,322 yuan/kg; Shanghai crude (SC) most-active contract fell 4.50% to 540 yuan/barrel."
-    },
-    {
-      "id": "te:markets:570173",
-      "time": "2026-07-28 02:31:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Continues to Fall — Brent extended losses and fell toward $88 per barrel on Monday, its lowest level in more than a week, as optimism grew that the conflict in the Middle East could soon ease. President Trump said the US was holding \"good talks\" with Iran and that there was a chance of reaching a deal, but warned that US strikes would resume if negotiations failed. The US paused its military strikes on Iran on Friday, following nearly two weeks of hostilities and Tehran said it had suspended its retaliatory military operations in response and entered talks with Oman regarding navigation through Hormuz. Supply conditions also improved after crude loadings resumed at the Caspian Pipeline Consortium terminal on Russia's Black Sea coast, a key export route for Kazakh oil that had recently been disrupted by Ukrainian drone attacks. Meanwhile, Houthi militants claimed to have targeted Saudi Aramco-linked facilities in Jizan and Yanbu, although neither the Saudi government nor Aramco confirmed it."
-    },
-    {
-      "id": "mkt:019fa4d8-aeab-7aab-8eb5-d05bd0a6687a",
-      "time": "2026-07-28 02:31:31",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed down 0.45% at 888.05 yuan/gram in the July 27 night session; silver T+D closed down 1.27% at 14,283.0 yuan/kg."
-    },
-    {
-      "id": "5010764",
-      "time": "2026-07-28 02:31:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：其他國家都不喜歡我，但沒關係，美國優先。"
-    },
-    {
-      "id": "5010763",
-      "time": "2026-07-28 02:30:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：關稅對通用汽車的影響令人驚歎。"
-    },
-    {
-      "id": "5010762",
-      "time": "2026-07-28 02:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌4.50%，報539.60元人民幣/桶。滬金夜盤收跌0.18%，滬銀收跌0.72%。"
-    },
-    {
-      "id": "mkt:019fa4d7-0779-7aab-8eb5-c9cdcda5f331",
-      "time": "2026-07-28 02:29:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iraq opens probe after Saudi alleges drones were launched from Iraqi territory】On the evening of the 27th Iraq’s prime minister ordered security agencies to investigate a Saudi defense ministry claim that drones launched from Iraqi territory attacked Saudi Arabia. Baghdad said it will not allow its territory to be used as a launchpad, will pursue legal measures against anyone proven involved, and described relations with Saudi Arabia as firm and based on mutual respect."
     }
   ]
 }

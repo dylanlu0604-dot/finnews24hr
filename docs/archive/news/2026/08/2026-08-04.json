@@ -1,7 +1,77 @@
 {
   "date": "2026-08-04",
-  "count": 205,
+  "count": 212,
   "items": [
+    {
+      "id": "mkt:019fc8e5-75c9-7aab-8f5e-1d1484154187",
+      "time": "2026-08-04 02:31:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close, SHFE gold main contract fell 0.11% to 882 yuan/gram; SHFE silver main contract rose 0.34% to 14,153 yuan/kg; SC crude oil main contract fell 1.67% to 540 yuan/barrel."
+    },
+    {
+      "id": "5023166",
+      "time": "2026-08-04 02:31:03",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國原油期貨收於每桶80.34美元，下跌4.33美元，跌幅5.11%。"
+    },
+    {
+      "id": "mkt:019fc8e4-4b61-7aab-8f5e-12370c898f67",
+      "time": "2026-08-04 02:30:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed the evening session on Aug 3 (Mon) at 878.9 yuan/gram, down 0.33%. Silver T+D closed at 14,000.0 yuan/kg, down 0.85%."
+    },
+    {
+      "id": "5023165",
+      "time": "2026-08-04 02:30:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌1.67%，報540.30元人民幣/桶。滬金夜盤收跌0.11%，滬銀收漲0.34%。"
+    },
+    {
+      "id": "5023164",
+      "time": "2026-08-04 02:29:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我希望伊朗人能醒悟，絕不能允許他們擁有核武器，也盼他們能認清這一點。"
+    },
+    {
+      "id": "5023163",
+      "time": "2026-08-04 02:29:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "波音股價創下去年12月初以來最大盤中漲幅。"
+    },
+    {
+      "id": "5023162",
+      "time": "2026-08-04 02:28:55",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "波音公司股價因獲得認證而延續漲勢，漲幅達7.1%，創盤中新高。"
+    },
     {
       "id": "5023161",
       "time": "2026-08-04 02:26:37",
