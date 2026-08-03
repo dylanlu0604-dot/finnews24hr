@@ -1,7 +1,21 @@
 {
   "date": "2026-08-04",
-  "count": 366,
+  "count": 367,
   "items": [
+    {
+      "id": "mkt:019fc9b2-621c-7aab-8f5f-dc41025ee939",
+      "time": "2026-08-04 06:15:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Amazon (AMZN.O) founder Jeff Bezos sold $4.07 billion of stock."
+    },
     {
       "id": "te:markets:572283",
       "time": "2026-08-04 06:15:13",
