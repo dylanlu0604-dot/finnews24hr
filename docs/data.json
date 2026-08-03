@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-03 13:18:09",
-  "count": 17930,
+  "updated": "2026-08-03 13:22:09",
+  "count": 17931,
   "items": [
+    {
+      "id": "5021692",
+      "time": "2026-08-03 13:21:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗處決兩名被控為以色列效力的人員。"
+    },
+    {
+      "id": "5021691",
+      "time": "2026-08-03 13:20:47",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【高盛：友邦次季新業務價值增長料放緩至12%，重申“買入”評級】高盛發表研報，預期友邦今年上半年新業務價值按實際匯率計算同比增長15%至32.54億美元，其中第二季增長率料放緩至12%(按實際匯率計)，較首季的17%有所回落，主要受香港市場高基數效應影響，而非銷售放緩。該行預期上半年除稅後營運溢利同比升10%至39.57億美元，受強勁保險服務業績帶動。中期股息預測同比升10%至每股0.069美元。該行上調2026財年純利預測12%，主要反映上半年強勁股市表現，並帶動2026至2028年賬面值預測上調2%；基於預測內含價值1.4倍，目標價維持97港元不變，重申“買入”評級。"
+    },
+    {
+      "id": "5021690",
+      "time": "2026-08-03 13:20:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新疆釋出高溫紅色預警】新疆維吾爾自治區氣象臺2026年8月3日12時39分將高溫橙色升級為高溫紅色預警訊號：預計今天白天至6日白天，巴州、吐魯番市、哈密市等地的最高氣溫將升至40℃以上，巴州南部、吐魯番市、哈密市等地的區域性區域45℃以上，局地將達50℃以上。請注意防暑降溫和用火用電安全，並加強防範山區局地融雪型洪水。"
+    },
+    {
+      "id": "5021689",
+      "time": "2026-08-03 13:19:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽潛山農村商業銀行股份有限公司痘姆支行原行長餘本江接受紀律審查和監察調查】8月3日，據安慶紀檢監察網站訊息，安徽潛山農村商業銀行股份有限公司痘姆支行原行長餘本江涉嫌嚴重違紀違法，目前正接受安徽省紀委監委駐省農信社紀檢監察組紀律審查；經安慶市監委指定管轄，接受望江縣監察委員會監察調查。"
+    },
+    {
+      "id": "te:economy:572046",
+      "time": "2026-08-03 13:18:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "Indonesia Tourist Arrivals Rise 2.15% YoY in June — Foreign tourist arrivals to Indonesia increased by 2.15% year-on-year to 1.38 million in June 2026, slowing from a 5.83% rise in the previous month amid persistent global headwinds and weaker travel demand from Europe."
+    },
+    {
+      "id": "5021688",
+      "time": "2026-08-03 13:17:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美助日穩定匯率出於自身利益考量】美國財長貝森特和日本財務大臣片山皋月今天（8月3日）證實，美日聯手干預匯市，支撐日元匯率。中國社會科學院美國研究所助理研究員馬偉指出，日本是美國國債最大的海外持有國，美國之所以出手，主要是出於政治、維護自身利益以及縮小貿易逆差這三個層面的考量。#美日證實聯手干預匯市# 就效果來說，短期內應該還是比較顯著的。但從中長期來看，日元匯率這種下行的趨勢很難透過兩國的聯合干預而有根本性的改變。（CCTV國際時訊 ）"
+    },
     {
       "id": "5021687",
       "time": "2026-08-03 13:16:49",
@@ -166161,51 +166214,6 @@
         "Importance 1"
       ],
       "text": "Singapore Manufacturing Output Hits 4-Month Low — Singapore’s manufacturing production grew by 7.2% year-on-year in June 2026, slowing sharply from an upwardly revised 17.8% increase in the previous month. This marked the weakest annual growth since February, as output growth eased in electronics (21.3% vs 49.2% in May), driven by slower expansion in semiconductors (21.1% vs 53.3%) and infocomms and consumer electronics (32.1% vs 59.2%). Overall manufacturing output was also weighed down by slower growth in precision engineering (14.9% vs 30.5%) and a sharp contraction in general manufacturing industries (-6.8% vs 1.4%). In addition, output continued to decline in chemicals (-11.7% vs -11.4%). On the other hand, transport engineering (4.6% vs -4.9%) rebounded. On a seasonally adjusted monthly basis, manufacturing output fell 7.2%, reversing an upwardly revised 6.9% gain in May."
-    },
-    {
-      "id": "mkt:019fa205-f541-7aab-8ea3-72ad0c8c2a66",
-      "time": "2026-07-27 13:22:07",
-      "tags": [
-        "MKT News",
-        "01211.HK",
-        "Impact bullish",
-        "02238.HK",
-        "02333.HK"
-      ],
-      "text": "Hong Kong-listed auto stocks rose in afternoon trade: Xiaomi Group (01810.HK) gained nearly 8.5%, Chery Automobile (09973.HK) rose over 2%; GAC Group (02238.HK), Leapmotor (09863.HK), BYD Co. (01211.HK) and Great Wall Motor (02333.HK) also advanced."
-    },
-    {
-      "id": "5009363",
-      "time": "2026-07-27 13:21:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【農業農村部公佈首批農業植物實質性派生品種制度實施目錄】農業農村部今天公佈第一批農業植物實質性派生品種制度實施目錄，包括水稻、小麥、棉花等10種作物，這標誌著我國農業植物實質性派生品種制度正式落地，這是種業智慧財產權領域的一項重要制度創新。實質性派生品種，是指由原始品種實質性派生，或者由該原始品種的實質性派生品種派生出來的品種，與原始品種有明顯區別。實施實質性派生品種制度，在實質性派生品種育種人和原始品種育種者之間建立利益分享機制，有利於強化種業智慧財產權保護，更好激勵育種原始創新。"
-    },
-    {
-      "id": "5009362",
-      "time": "2026-07-27 13:19:14",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【美銀：新加坡金管局10月份或“極微幅“調高斜率】美銀證券策略師在一份報告中表示，新加坡金融管理局可能會在其10月份的宣告中“極微幅“調高其政策區間的斜率。該央行在7月份出人意料地“極微幅“調高了斜率，這些策略師認為這種措辭似乎是史無前例的。他們表示，這一最新舉措（估計是25個基點的調整，而不是傳統的50個基點調整）表明，在不確定的外部環境下，政策傾向於更大的靈活性。這些策略師表示，新加坡金管局可能認為目前的政策立場適度偏緊，因為此舉小幅提高了政策的限制程度。鑑於這個城市國家小而開放的經濟，該央行將匯率作為維持價格穩定的政策工具。"
-    },
-    {
-      "id": "5009361",
-      "time": "2026-07-27 13:18:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全球首次！通蘇嘉甬高鐵杭州灣跨海鐵路橋建設迎新進展】近日，通蘇嘉甬高鐵杭州灣跨海鐵路橋最後一節預製墩身完成海中架設，標誌著大橋海鹽段下部結構全面完成，這也是全球首次在跨海鐵路橋領域成功應用預製墩身工藝，不僅是我國跨海鐵路橋樑建造技術的重大突破，也為今後同類工程積累成功經驗。目前，杭州灣跨海鐵路橋海鹽段總進度超80%，北航道橋計劃9月實現合龍，全橋預計2027年底具備通車條件。"
-    },
-    {
-      "id": "5009360",
-      "time": "2026-07-27 13:18:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【福瑞泰克8T8R 4D成像雷達已實現量產】智慧駕駛解決方案供應商福瑞泰克率先實現行業首家8T8R邊緣架構4D成像毫米波雷達量產落地。此次量產8T8R邊緣架構4D毫米波雷達FVR60，是福瑞泰克與汽車半導體公司英飛凌深度合作的產品。福瑞泰克基於英飛凌全新8T8R（CTRX8188F+TC457）邊緣架構方案打造，透過創新設計的稀疏非均勻大孔徑波導天線陣列，使其處理速度與射頻效能雙雙提升30%，最大探測距離達350米，實現業界領先的水平0.9°、俯仰1.2°的卓越角解析度，同時FVR60深度融合了AI演算法，不僅能輸出高密度原始點雲，更能在本地實時完成對車輛、行人的精準目標分類，為決策規劃系統提供更直接、更語義化的感知資訊輸入。（新浪科技）"
     }
   ]
 }
