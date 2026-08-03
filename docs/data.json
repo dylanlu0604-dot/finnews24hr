@@ -1,7 +1,129 @@
 {
-  "updated": "2026-08-03 23:00:07",
-  "count": 17911,
+  "updated": "2026-08-03 23:04:30",
+  "count": 17920,
   "items": [
+    {
+      "id": "mkt:019fc825-68c2-7aab-8f5a-c367894d322d",
+      "time": "2026-08-03 23:02:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SpaceX bets orbital AI compute as response to ground energy limits】Bernstein rates SpaceX Outperform with a $239 PT but says the valuation hinges less on rockets than on whether AI compute can move to orbit. Its model assumes about 3,600 launches a year by 2031, roughly 170,000 satellites and about 20 GW of orbital compute. The thesis: terrestrial data centres face rising constraints on power, land and cooling; if Starship achieves rapid two‑stage reusability and sharply cuts launch costs, orbit could become a compute venue. Bernstein flags new bottlenecks — chip supply, satellite thermal management, radiation hardening, communications and regulation — and notes the scale it models would demand about 2.8 mln wafers a year, or the equivalent of roughly five dedicated fabs. Conclusion: ground AI data centres remain the primary revenue stream this decade; orbital compute is a long‑dated option."
+    },
+    {
+      "id": "mkt:019fc825-60dd-7aab-8f5a-bdd93ad88971",
+      "time": "2026-08-03 23:02:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Sources said Lukoil's Volgograd refinery in Russia suspended refining operations after a drone attack on July 31."
+    },
+    {
+      "id": "mkt:019fc825-1590-7aab-8f5a-b4585caeb024",
+      "time": "2026-08-03 23:01:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CNY300bn invested in Chinese AI startups in 1H 2026 as VC funds accelerate into AI and hard tech】China high‑tech investment rose 4.6% YoY in 1H 2026 as venture capital activity recovered. VCs point to AI development as the main driver, with funding accelerating into AI, quantum technologies and compute. Chinese AI startup fundraising in 1H 2026 exceeded CNY300bn, surpassing full‑year 2025. Concentrated inflows have pushed valuations higher and produced a scramble for allocations in the primary market."
+    },
+    {
+      "id": "5022969",
+      "time": "2026-08-03 23:01:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度投資與公共資產管理司（DIPAM）秘書：印度人壽保險公司（LIC）的出售要約明日對非零售投資者開放申購。"
+    },
+    {
+      "id": "5022968",
+      "time": "2026-08-03 23:01:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗公佈所襲船隻畫面指其錯信美國】按照伊朗伊斯蘭革命衛隊的說法，連日來，多艘試圖取道“未申報”航線透過霍爾木茲海峽的油輪被擊中。這些油輪在美軍的“空中護航”下，不顧伊朗方面的警告，最終被擊中並截停。近日，伊朗媒體公佈了一段被襲擊油輪的畫面。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019fc824-63fa-7aab-8f5a-a93597185a44",
+      "time": "2026-08-03 23:00:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "At the 23:00 close, China main futures contracts were mixed. Fuel oil fell more than 2%, low-sulfur fuel oil (LU) declined over 1% and soda ash slipped nearly 1%. Gains were led by polypropylene and its monthly-average contract, glass, plastics and methanol, each up over 1%; rapeseed oil and No.20 rubber rose about 1%."
+    },
+    {
+      "id": "5022967",
+      "time": "2026-08-03 23:00:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "燃油、低硫燃油夜盤收跌超1%，鐵礦石跌0.7%。"
+    },
+    {
+      "id": "5022966",
+      "time": "2026-08-03 23:00:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，俄羅斯盧克石油伏爾加格勒煉油廠在遭無人機襲擊後，已於7月31日起暫停煉油作業。"
+    },
+    {
+      "id": "5022965",
+      "time": "2026-08-03 23:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "紅杉領投核技術初創企業 Valar 10 億美元融資輪。"
+    },
+    {
+      "id": "te:markets:572245",
+      "time": "2026-08-03 23:00:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Increases by 0.90% — Top currency gainers are South Korean Won (0.90%) and Japanese Yen (0.55%). Biggest losers are Norwegian Krone (-0.58%), Swiss Franc (-0.34%), British Pound (-0.33%) and Euro (-0.09%). Meanwhile Dollar Index was little changed."
+    },
+    {
+      "id": "5022964",
+      "time": "2026-08-03 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】燃料油連續跌2.44%，低硫燃料油連續跌1.61%，聚丙烯連續漲1.32%，玻璃連續漲1.15%，甲醇連續漲1.12%。"
+    },
+    {
+      "id": "5022963",
+      "time": "2026-08-03 22:59:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯北方艦隊舉行多兵種演習 發射多枚巡航導彈】俄羅斯國防部3日釋出訊息說，俄北方艦隊近日在巴倫支海舉行的多兵種軍事演習中發射多枚導彈，摧毀海上標靶。 訊息說，“戈洛夫科海軍上將”號護衛艦和“烏斯季諾夫元帥”號巡洋艦在演習中組成海上打擊群，演習中還使用了“稜堡”導彈系統。此外，圖-142反潛機、米格-29K艦載殲擊機和伊爾-78加油機等參與演習。 演習期間，針對多個假想敵方目標，“戈洛夫科海軍上將”號護衛艦發射“口徑”巡航導彈，“烏斯季諾夫元帥”號巡洋艦發射“火山”巡航導彈，“奧廖爾”號核潛艇從水下發射“花崗岩”巡航導彈。所有假想目標均被摧毀。（新華社）"
+    },
+    {
+      "id": "5022962",
+      "time": "2026-08-03 22:59:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦可可期貨<LCCC1>上漲近8%，至每噸4331英鎊。"
+    },
     {
       "id": "5022961",
       "time": "2026-08-03 22:59:12",
@@ -166037,41 +166159,6 @@
         "國際"
       ],
       "text": "特朗普：我不會給他們太多談判時間，若談判無果，我們將重啟高強度軍事行動。"
-    },
-    {
-      "id": "5010632",
-      "time": "2026-07-27 23:04:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門胡塞武裝稱打擊沙特石油基礎設施】葉門胡塞武裝27日稱，該組織當天出動多架無人機，對沙特原油運輸網路相關基礎設施發動打擊。胡塞武裝發言人葉海亞·薩雷亞當天在社交媒體發表宣告稱，胡塞武裝使用多架無人機打擊了“多處敏感目標和設施”，這些設施用於將沙特東部地區的原油運輸至紅海的延布港。薩雷亞表示，此次行動是對“沙特無人機侵犯葉門領空”的回應。（新華社）"
-    },
-    {
-      "id": "5010630",
-      "time": "2026-07-27 23:00:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "NBC 環球與 YouTube TV 續簽分銷合作協議。"
-    },
-    {
-      "id": "5010629",
-      "time": "2026-07-27 23:00:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "NBC 環球與 YouTube 達成合作，將孔雀流媒體平臺接入 YouTube Premium。"
-    },
-    {
-      "id": "te:markets:570142",
-      "time": "2026-07-27 23:00:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Norwegian Krone Depreciates by 0.87% — Top currency losers are Norwegian Krone (-0.87%) and South Korean Won (-0.66%). Gains are led by Indian Rupee (0.38%) and Australian Dollar (0.27%). Meanwhile, Euro, Japanese Yen, British Pound and Dollar Index were little changed."
     }
   ]
 }
