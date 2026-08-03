@@ -1,7 +1,75 @@
 {
-  "updated": "2026-08-04 07:45:51",
-  "count": 17909,
+  "updated": "2026-08-04 07:49:38",
+  "count": 17911,
   "items": [
+    {
+      "id": "mkt:019fca07-fa59-7aab-8f60-26d2f1844a37",
+      "time": "2026-08-04 07:49:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "UK Maritime Trade Operations said a merchant vessel was attacked 20 nautical miles northeast of Al Husseib in the Arabian Sea, near the Strait of Hormuz."
+    },
+    {
+      "id": "5023325",
+      "time": "2026-08-04 07:48:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士和閃迪合作釋出首個HBF標準規範。"
+    },
+    {
+      "id": "5023324",
+      "time": "2026-08-04 07:47:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【股票私募整體倉位創近220周新高 百億私募加倉明顯】在A股震盪調整過程中，機構資金正持續提升權益倉位。私募排排網最新資料顯示，自6月下旬以來，股票私募已連續4周加倉，整體倉位創近220周新高。與此同時，百億私募不僅率先提升倉位，還透過密集自購釋放看多訊號，7月以來私募自購金額已超過14億元，其中百億私募貢獻近七成。業內人士認為，隨著市場調整釋放風險，權益資產配置價值進一步顯現，疊加半年報披露提供新的業績線索，私募機構整體保持較高倉位執行。不過，多家機構也表示，短期市場仍將維持震盪格局，投資機會更多體現在結構性行情之中。"
+    },
+    {
+      "id": "5023323",
+      "time": "2026-08-04 07:47:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易運營處（UKMTO）表示，一艘貨輪已透過甚高頻16頻道廣播通報，其遭未知拋射物擊中。"
+    },
+    {
+      "id": "5023322",
+      "time": "2026-08-04 07:46:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本公債期貨早盤上漲0.09點。"
+    },
+    {
+      "id": "5023321",
+      "time": "2026-08-04 07:46:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）已收到報告，稱在阿曼哈薩卜東北20海里處發生一起安全事件。"
+    },
+    {
+      "id": "5023320",
+      "time": "2026-08-04 07:45:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數期貨早盤下跌0.1%。"
+    },
+    {
+      "id": "5023319",
+      "time": "2026-08-04 07:45:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【在霍爾木茲海峽有望重新開放之際油價下跌】在亞洲早盤交易中，在霍爾木茲海峽有望重新開放之際，油價下跌，該海峽是一條關鍵水道，全球五分之一的石油透過該水道運輸。Tickmill的Joseph Dahrieh在一封電子郵件中表示，伊朗似乎“在霍爾木茲海峽問題上接近與阿曼達成諒解“。這位董事總經理指出，此外，“總統特朗普沒有下令在中東進行新一輪軍事行動，這增強了透過外交途徑解決問題的希望“。Dahrieh補充說，然而，“伊朗否認與美國存在談判，這可能仍會限制價格回撥的幅度“。近月西得州中質油期貨下跌0.6%，報每桶79.88美元。"
+    },
     {
       "id": "5023318",
       "time": "2026-08-04 07:44:36",
@@ -30,6 +98,15 @@
         "其他"
       ],
       "text": "馬斯克轉發網友評論表示： Grok 構建已更新。該網友表示，SpaceXAI 幾乎每天都在推送新的 Grok 構建更新。 Grok 構建 v0.2.120 現已上線。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202608043830283836",
+      "time": "2026-08-04 07:43:56",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本新一輪救匯行動或已耗資870億美元】美國方面近日稱，為了支撐日元匯率，在最新一輪的外匯干預行動中，日本央行可能已經動用了約870億美元，相當於11萬億日元的資金。訊息稱，根據日本央行的最新貨幣市場資料推算，日本央行在7月30日和31日的外匯干預中，很可能分別動用了530億美元和340億美元，總共870億美元、相當於11萬億日元的資金來買入日元，以支撐日元匯率。"
     },
     {
       "id": "te:markets:572296",
@@ -165918,77 +165995,6 @@
         "國際"
       ],
       "text": "【SK海力士盤前大跌 亞洲股市開盤或承壓】SK海力士盤前股價跌約8%，這預示美股晶片企業隔夜遭遇的拋售行情，將傳導至亞洲頭部科技硬體廠商，帶動其股價進一步走低。今年上半年多數時段，海力士與三星領跑亞洲市場，股價暴漲幅度驚人，市場此前便判斷這波漲勢難以長期維繫。SK海力士股價正逐漸回落，此前該股自5月份以來一度飆升132%。盤前交易曾出現疑似烏龍指行情，股價一度暴跌約30%；即便拋開這一短時異常波動，這隻韓國股市波動劇烈的熱門標的，大機率會給首爾及其他地區相關個股帶來更大下行壓力。截至發稿時，三星電子股價盤前預計下跌約6%。"
-    },
-    {
-      "id": "5010980",
-      "time": "2026-07-28 07:49:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4130美元/盎司，日內跌0.15%。"
-    },
-    {
-      "id": "mkt:019fa5fb-d87b-7aab-8eb8-3f79bace7bbe",
-      "time": "2026-07-28 07:49:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【Guojin Securities: AI optical modules and NV‑CoWoP expected to drive rapid mSAP‑PCB capacity expansion】Guojin Securities says the mSAP process suits applications requiring tight line width/spacing (down to <15um); primary technical bottlenecks are base copper, plating and flash‑etch. mSAP was initially used in consumer electronics, but AI optical modules and NV‑CoWoP are expected to spur rapid mSAP‑PCB capacity expansion. The report flags upstream material demand to watch: direct‑write photolithography, plating lines, carrier copper foil, chemical solutions, low‑CTE electronic cloth, second‑generation low‑DK cloth and HVLP4 copper foil."
-    },
-    {
-      "id": "5010979",
-      "time": "2026-07-28 07:49:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國科技股隔夜下跌後，日經指數可能走低】在伊朗衝突存在不確定性的情況下，且隨著美國科技股隔夜下跌，日本股市可能走低。新加坡交易所的日經指數期貨下跌1.7%，報63930點。在沙烏地阿拉伯表示攔截了伊拉克境內受伊朗支援的民兵組織向該國石油設施發射的無人機後，投資者正關注原油價格和中東局勢的發展。日經指數週一上漲0.5%，至64931.19點。"
-    },
-    {
-      "id": "mkt:019fa5fb-70a8-7aab-8eb8-309fbcc2452b",
-      "time": "2026-07-28 07:49:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【CITIC Securities: Eight macro perspectives supporting A‑shares' long‑term win】CITIC Securities says A‑shares will win over the long term: the market’s upward trend is intact, aggregate market capitalization is solid and investment opportunities are broad; a handful of individual-stock bubbles exist but there is no systemic risk, and industry upgrading and earnings growth are substantial. By contrast, US equities carry high market‑wide bubble risk despite technology and monetary edges, with industrial hollowing and price froth posing systemic vulnerabilities. It lists eight comparative advantages for A‑shares: 1) total market‑cap level, providing a safety‑margin advantage; 2) lower leverage scale, supplying superior liquidity conditions; 3) different monetary/credit profile, yielding a sovereign‑credit advantage; 4) a domestic AI development model, offering AI outlook advantages; 5) faster industry renewal, enabling quicker adoption of new sectors; 6) higher‑quality industrial chains; 7) stronger industry earnings performance; 8) greater future revaluation potential."
-    },
-    {
-      "id": "5010978",
-      "time": "2026-07-28 07:48:20",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【國金證券：AI光模組+NV-CoWoP預計將帶動mSAP-PCB快速擴容】國金證券研報指出，mSAP工藝適用於線寬線距要求高的應用場景（線寬/線距可達15um以下），技術難點環節主要在基銅、電鍍、閃蝕等。mSAP最初應用場景主要為消費電子，AI光模組+NV-CoWoP預計將帶動mSAP-PCB快速擴容。mSAP-PCB對於上游材料的拉動方面，建議關注①直寫光刻，②電鍍線，③載體銅箔，④藥水，⑤low-CTE電子布，⑥low-dk二代布、HVLP4銅箔等方向。"
-    },
-    {
-      "id": "5010977",
-      "time": "2026-07-28 07:47:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【強生公司宣佈就滑石粉訴訟達成55億美元和解協議】強生公司週一表示，將支付55億美元以解決數萬起指控其嬰兒爽身粉及其他滑石粉產品導致卵巢癌的訴訟。這項具有里程碑意義的和解協議旨在為困擾該公司多年的爭議性訴訟畫上句號。強生公司表示，該和解協議涵蓋 在新澤西州聯邦法院合併審理的約6.9萬起案件，以及各州法院的相關案件，共計佔剩餘滑石粉索賠案件的99.75%。原告方的律師事務所週一證實了該協議，稱這是歷經十年法庭拉鋸戰後一個良好的解決方案。該協議仍需獲得負責監督聯邦訴訟的法官批准。強生公司訴訟事務副總裁埃裡克·哈斯（Erik Haas）表示，這些索賠“毫無依據”，公司願意和解以了結此事。"
-    },
-    {
-      "id": "5010976",
-      "time": "2026-07-28 07:46:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "指標10年期日本國債期貨早盤下跌0.13點。"
     }
   ]
 }
