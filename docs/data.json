@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-04 01:08:55",
-  "count": 17933,
+  "updated": "2026-08-04 01:13:05",
+  "count": 17932,
   "items": [
+    {
+      "id": "5023091",
+      "time": "2026-08-04 01:11:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "西捷航空空乘工會表示，將在向會員提交協議後，才會公開披露協議細節。"
+    },
+    {
+      "id": "5023090",
+      "time": "2026-08-04 01:11:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【委內瑞拉石油出口量創五個月低點】委內瑞拉7月原油出口量下降25%，至每日85.6萬桶，為五個月以來最低水平。出口下滑主要源於印度需求萎縮。隨著伊朗衝突暫歇、中東原油供應恢復，印度自委內瑞拉原油進口量減半。美國與印度依舊是委內瑞拉最大買家。"
+    },
+    {
+      "id": "5023089",
+      "time": "2026-08-04 01:11:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名美國政府高階官員透露，特朗普將 “竭盡所能” 幫助國際足聯主席詹尼・因凡蒂諾應對日益高漲的逼宮辭職呼聲。"
+    },
+    {
+      "id": "mkt:019fc89b-1057-7aab-8f5c-ca40790ef02e",
+      "time": "2026-08-04 01:10:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media report the Prime Minister's Office is holding a security meeting attended by Defense Minister KATZ and IDF Chief of Staff Zamir."
+    },
     {
       "id": "mkt:019fc898-8b66-7aab-8f5c-c2d1b092c4e6",
       "time": "2026-08-04 01:07:48",
@@ -166152,58 +166184,6 @@
         "MKT News"
       ],
       "text": "SOUTH KOREA'S LEE says a potential trade agreement with Mercosur cannot wait and is urgent."
-    },
-    {
-      "id": "5010729",
-      "time": "2026-07-28 01:12:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明：韓國與南方共同市場的潛在貿易協定刻不容緩，此事迫在眉睫。"
-    },
-    {
-      "id": "mkt:019fa48f-6167-7aab-8eb4-d394d127ca7f",
-      "time": "2026-07-28 01:11:27",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Iranian outlet Fars News, citing sources, reported that Israel shelled the Ali Tahir Heights in southern Lebanon."
-    },
-    {
-      "id": "mkt:019fa48d-46c3-7aab-8eb4-c9dd7e0c9179",
-      "time": "2026-07-28 01:09:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Treasury said it removed 84 individuals and entities from its sanctions list as part of sanctions program modernization."
-    },
-    {
-      "id": "mkt:019fa48d-3384-7aab-8eb4-c7de691b11d2",
-      "time": "2026-07-28 01:09:04",
-      "tags": [
-        "MKT News",
-        "Copper"
-      ],
-      "text": "SOUTH KOREA'S LEE says he and LULA agreed to expand cooperation on critical minerals."
-    },
-    {
-      "id": "mkt:019fa48d-10eb-7aab-8eb4-ba96fa49df50",
-      "time": "2026-07-28 01:08:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Italy's Prime Minister Meloni has signed a decree to immediately cut diesel prices after international developments pushed up fuel costs."
     }
   ]
 }
