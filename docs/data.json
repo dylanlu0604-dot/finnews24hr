@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-04 03:01:52",
-  "count": 17985,
+  "updated": "2026-08-04 03:06:01",
+  "count": 17983,
   "items": [
+    {
+      "id": "5023185",
+      "time": "2026-08-04 03:03:58",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部公佈可交易債務融資預估。"
+    },
+    {
+      "id": "5023184",
+      "time": "2026-08-04 03:03:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7560元，較上週五夜盤收盤跌35點。成交量390.99億美元。"
+    },
+    {
+      "id": "mkt:019fc901-5103-7aab-8f5e-7a19b68e413e",
+      "time": "2026-08-04 03:02:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures night session closed 0.06% lower at 25,981, trading 28 points below the cash close."
+    },
     {
       "id": "5023183",
       "time": "2026-08-04 03:00:02",
@@ -166583,51 +166612,6 @@
         "國際"
       ],
       "text": "伊朗外交部：烏克蘭上週末在裡海襲擊伊朗船隻一事，將引發 “難以預料” 的後果。"
-    },
-    {
-      "id": "5010781",
-      "time": "2026-07-28 03:05:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗中央司令部：任何封鎖企圖等同於升級衝突。"
-    },
-    {
-      "id": "mkt:019fa4f7-1540-7aab-8eb6-277c9945f30b",
-      "time": "2026-07-28 03:04:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's military said the US over the past three days has threatened vessels and oil tankers in waters off Iran's coast, calling the actions an escalation and warning any attack would be met with a response."
-    },
-    {
-      "id": "5010780",
-      "time": "2026-07-28 03:04:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相安迪·伯納姆任命布里奇特·菲利普森為工黨主席。"
-    },
-    {
-      "id": "5010778",
-      "time": "2026-07-28 03:02:51",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗衛生部：美國近期對伊朗持續12天的軍事打擊已造成本國約60人遇難、670人受傷。"
-    },
-    {
-      "id": "5010777",
-      "time": "2026-07-28 03:02:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列方面判斷，今日在約旦上空攔截的無人機，由伊朗支援的伊拉克民兵組織發射。"
     }
   ]
 }

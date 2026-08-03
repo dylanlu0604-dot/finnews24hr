@@ -1,7 +1,36 @@
 {
   "date": "2026-08-04",
-  "count": 240,
+  "count": 243,
   "items": [
+    {
+      "id": "5023185",
+      "time": "2026-08-04 03:03:58",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部公佈可交易債務融資預估。"
+    },
+    {
+      "id": "5023184",
+      "time": "2026-08-04 03:03:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7560元，較上週五夜盤收盤跌35點。成交量390.99億美元。"
+    },
+    {
+      "id": "mkt:019fc901-5103-7aab-8f5e-7a19b68e413e",
+      "time": "2026-08-04 03:02:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures night session closed 0.06% lower at 25,981, trading 28 points below the cash close."
+    },
     {
       "id": "5023183",
       "time": "2026-08-04 03:00:02",
