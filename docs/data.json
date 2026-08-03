@@ -1,7 +1,435 @@
 {
-  "updated": "2026-08-03 08:43:53",
-  "count": 17962,
+  "updated": "2026-08-03 08:51:12",
+  "count": 17986,
   "items": [
+    {
+      "id": "5021298",
+      "time": "2026-08-03 08:50:26",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：陣痛期已過 右側機會來臨 看好8月新車催化期的表現】中信證券研報稱，A股智選標的在26H1受鴻蒙體系內部分流加劇、儲存和碳酸鋰等漲價等因素影響，量、價、利均有明顯壓力，疊加資金面受AI板塊虹吸影響，股價經歷了漫長的陣痛期。近期中報利空落地，且隨著市場資金面在AI和非AI板塊的再平衡，反彈幅度超出我們預期，我們看好8月新車催化期的表現。"
+    },
+    {
+      "id": "5021297",
+      "time": "2026-08-03 08:48:48",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：短期無論美聯儲9月加息與否，美股估值均面臨壓力】中信證券研報稱，美股短期不確定性與長期機遇並存，加息落地後方見曙光。錯過此輪加息時點後，短期無論美聯儲9月加息與否，美股估值均面臨壓力，但中長期看，加息落地有望釋放估值壓制，疊加“生產力與就業工作組”對AI的積極取向，美股AI敘事有望長期延續。7月29日FOMC連續第五次按兵不動，三位票委投票支援加息25bps，聯儲內部分歧公開化，市場呈“短端鴿、長端鷹”的割裂反應，通脹預期上行壓制美元併為日本財務省干預匯市提供視窗，CSP雲業務的高增速一定程度上緩解了AI三重資本開支可持續性擔憂。短期利率敏感行業、高估值低增長板塊及小盤股承壓，下一個流動性預期轉向視窗關注8月末Jackson Hole大會或9月議息會議。"
+    },
+    {
+      "id": "5021296",
+      "time": "2026-08-03 08:47:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日增加46.57億元】截至7月31日，上交所融資餘額報13273.98億元，較前一交易日增加51.86億元；深交所融資餘額報12535.70億元，較前一交易日減少5.29億元；兩市合計25809.68億元，較前一交易日增加46.57億元。"
+    },
+    {
+      "id": "5021295",
+      "time": "2026-08-03 08:47:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【方石機器人完成數千萬元A+輪融資】8月3日，北京方石機器人有限公司宣佈完成數千萬元A+輪融資，本輪投資方為濟南鵲華科創投，融資資金將主要用於新生產基地建設和產能擴充。"
+    },
+    {
+      "id": "mkt:019fc516-b95d-7aab-8f4a-ebdc2f2839a0",
+      "time": "2026-08-03 08:47:08",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Two exchanges' margin financing balances up 4.66 bln yuan】Margin financing on China's two main stock exchanges rose 46.58 billion yuan to 25,809.68 billion yuan on July 31. Shanghai Stock Exchange balance was 13,273.98 billion yuan, up 51.86 billion yuan from the previous session; Shenzhen Stock Exchange was 12,535.70 billion yuan, down 5.28 billion yuan."
+    },
+    {
+      "id": "5021294",
+      "time": "2026-08-03 08:47:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯芸科技新設微電子公司 含積體電路晶片業務】企查查APP顯示，近日，武漢昂彤微電子有限公司成立，經營範圍包含：積體電路設計；積體電路銷售；積體電路晶片及產品銷售；積體電路晶片設計及服務等。企查查股權穿透顯示，該公司由聯芸科技全資持股。"
+    },
+    {
+      "id": "5021293",
+      "time": "2026-08-03 08:46:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【格力博：儲能業務整體尚處於前期佈局與技術研發階段】格力博(301260)8月3日在互動平臺表示，公司儲能業務整體尚處於前期佈局與技術研發階段，後續隨著市場渠道拓展與產品打磨深入，訂單規模有望穩步釋放。"
+    },
+    {
+      "id": "5021292",
+      "time": "2026-08-03 08:46:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺：取消黃色暴雨警告訊號。"
+    },
+    {
+      "id": "5021291",
+      "time": "2026-08-03 08:46:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元短線持續拉昇，日內上漲200多點或1.4%，報155.30。"
+    },
+    {
+      "id": "5021290",
+      "time": "2026-08-03 08:45:54",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【東方財富陳果：海外波動加劇並未改變A股內部再平衡方向】8月3日，東方財富策略陳果團隊釋出最新研報指出，海外波動加劇並未改變A股內部再平衡方向。7月以來，A股個股收益分佈逐步右移，主動偏股基金收益分佈有所左移，煤炭、石油石化、銀行、食品飲料等前期滯漲行業明顯修復，市場機會正在擴散到更多碳基與矽基下游行業。矽基上游成交佔比仍處高位，配置上完成再平衡預計也仍需時間。配置上，繼續維持“配置再平衡、積極佈局反攻”的思路。繼續關注新能源、有色、非銀等具備景氣邏輯的藍籌價值方向，科技中更關注AI應用，重點關注港股網際網路、計算機、傳媒等；最後，可按照“配置再平衡”原則，如果矽基上游配置在較低水平，也可關注調整充分、估值合理、競爭壁壘清晰的國產“真科技”龍頭。"
+    },
+    {
+      "id": "5021289",
+      "time": "2026-08-03 08:45:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【亞市早盤金價因技術性反彈走高】亞洲早盤金價走高。XS.com市場分析師Linh Tran表示，美元走勢、美債收益率以及即將公佈的美國勞動力市場資料對未來幾個交易日金價走勢的影響，將超過傳統的避險敘事。該分析師表示，地緣政治風險不再意味著金價會出現單向反應，因為中東緊張局勢既能推高油價和通脹預期，也能增強避險需求。該分析師補充說，黃金目前正處於過渡階段，近期的上漲看起來更像是技術性反彈。現貨黃金上漲0.4%，報每盎司4,058.79美元。"
+    },
+    {
+      "id": "5021288",
+      "time": "2026-08-03 08:43:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今天全國仍有大範圍降雨 東北至江南高溫悶熱持續】今天（8月3日），全國仍有大範圍降雨，強降雨主要出現在華南和西南地區東部至華北、東北一帶，明天起降水強度將有所減弱。在副熱帶高壓的掌控下，從東北至江南高溫悶熱天氣持續，不少地方從早熱到晚，猶如蒸桑拿。"
+    },
+    {
+      "id": "te:economy:571926",
+      "time": "2026-08-03 08:43:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Taiwan",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Taiwan Manufacturing Growth Maintains Momentum — The S&P Global Taiwan Manufacturing PMI edged down to 55.1 in July 2026 from 55.2 in the previous month, marking its weakest reading since March. However, it remained firmly in expansion territory for an eighth consecutive month, as output increased for the eighth straight month and remained above its long-run average. Moreover, new export orders expanded for a seventh month running, although the pace of growth softened slightly from the previous month. In the labor market, Taiwanese manufacturers returned to hiring for the first time since February, though employment growth was only marginal. On the price front, input cost inflation eased to its weakest level since January, while output charge inflation slowed to a five-month low, indicating a moderation in pricing pressures. Looking ahead, Taiwanese manufacturers remained optimistic about the outlook for production over the next 12 months, though still slipped to its lowest level since April."
+    },
+    {
+      "id": "5021287",
+      "time": "2026-08-03 08:43:33",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：A股本輪調整更多是擁擠交易的修正，而非韓國式的去槓桿衝擊】中信證券研報稱，A股本輪調整更多是擁擠交易的修正，而非韓國式的去槓桿衝擊，這體現在：1）整體槓桿情況比較安全，7月上漲股票數量接近全A一半，明顯超過6月；2）相比全球歷史上典型的去槓桿行情，當前的融資回落幅度並不算大；3）ETF市場呈現持續的資金流入，科技類ETF的流入提供了充足流動性支援。當然，區域性的流動性壓力依然存在，尤其是部分非核心AI股，這些個股的調整影響到了科技板塊內部的持倉調整，造成核心標的定價短暫失效，不過我們認為目前該影響已基本消除。8月普遍修復的機率還在提升，但並非簡單超跌反彈，非AI板塊的負面敘事有邊際好轉，資金環境也支援適當修復。配置上，建議增配能化、有色、非銀和創新藥，科技內部需要借反彈更加聚焦持倉。"
+    },
+    {
+      "id": "5021286",
+      "time": "2026-08-03 08:42:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銳奇股份、力芯微等新設創投合夥企業 出資額約10億元】企查查APP顯示，近日，悅來港君信戰新（上海）創業投資合夥企業（有限合夥）成立，出資額10.3億元，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由銳奇股份、力芯微等共同出資。"
+    },
+    {
+      "id": "te:economy:571924",
+      "time": "2026-08-03 08:42:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Vietnam Manufacturing Expands Most in 5 Months — The S&P Global Vietnam Manufacturing PMI rose to 52.9 in July 2026 from 51.8 in June, marking the strongest expansion since February. Output and new orders accelerated, supported by stronger domestic and foreign demand, with export sales rising at the fastest pace since July 2024. Manufacturers also ramped up purchasing activity at the sharpest rate in almost four-and-a-half years to meet higher production requirements, while employment increased for the first time in five months. Meanwhile, input inventories and finished goods stocks declined as firms used existing inventories to support production and fulfill orders. Supply-chain disruptions eased further, with supplier delivery delays the least pronounced since May 2025. Input cost and output price inflation both slowed to their weakest rates since September 2025, while business confidence climbed to a five-month high, supported by expectations of stronger orders and expanded production capacity."
+    },
+    {
+      "id": "5021285",
+      "time": "2026-08-03 08:40:45",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信建投：科技板塊修復性行情有望開啟】中信建投證券表示，近期A股科技板塊受全球科技聯動影響經歷一輪深度調整，整體呈現二三線標的領跌到核心龍頭補跌的梯度路徑，調整較為充分。本輪調整是槓桿資金賣出主導的資金面衝擊，而非產業趨勢的破壞。整體來看，無差別恐慌拋售階段大機率已經結束，修復性行情有望開啟。展望8月，四大訊號指向資金面壓力開始緩和：一是韓國去槓桿最劇烈階段已經過去，儲存板塊率先企穩；二是A股內部資金擔憂集中落地，交易擁擠明顯緩解；三是美聯儲議息等事件視窗相繼經過，不確定性下降；四是市場開始重新給予好業績正面定價。核心龍頭補跌通常是一輪調整的尾聲訊號，隨著二三線標的和核心龍頭均完成風險釋放，板塊做空動能明顯衰竭，市場定價邏輯正重新轉向業績基本面，修復性行情有望開啟。行業配置上，重點關注調整較充分且業績確定性高的算力核心資產與受益於全球半導體資本開支的方向，同時關注持續漲價的有色品種、盈利修復的新能源板塊與機械板塊。"
+    },
+    {
+      "id": "te:markets:571923",
+      "time": "2026-08-03 08:40:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Tumbles After Trump Cancels Attack on Iran — European natural gas prices declined more than 4% to around €56 per MWh on the first trading day of August after President Donald Trump called off a planned weekend attack on Iran, saying Tehran and other Middle Eastern nations had assured him they were working toward a deal. Trump said that negotiations between the parties are set to begin on Monday. The announcement provided some relief after days of escalating tensions that had driven energy prices sharply higher. European natural gas prices surged 36% in July as the conflict heightened concerns over LNG supplies from the Gulf and Europe's ability to replenish gas inventories ahead of winter. European gas facilities ended last month about 55% full, well below both the five-year average and the level recorded at the same time last year, leaving storage levels behind the pace needed to meet pre-winter inventory targets before the heating season begins in November 1."
+    },
+    {
+      "id": "5021284",
+      "time": "2026-08-03 08:39:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及宣告：沙姆沙伊赫東北61公里處發生5.6級地震。"
+    },
+    {
+      "id": "5021283",
+      "time": "2026-08-03 08:39:18",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【花旗：汽車股空頭回補料持續 新能源汽車銷量明顯提升等利好支撐】花旗預計，在新能源車批發銷量顯著提升、行業庫存去化明顯等利好推動下，中國汽車板塊的空頭回補勢頭將持續。分析師Jeff Chung等人在報告中稱，其餘的利好包括：出口佔比提升增強部分車企下半年盈利能見度、車企之間出現明顯分化、財報季臨近帶來上行機會、汽車行業正進入銷售旺季。在納入已公佈的品牌資料後，預計7月新能源汽車行業批發銷量環比增長1%，同比增長23%，優於市場預期。以下品牌7月新能源汽車銷量表現跑贏行業：零跑汽車（環比+8%）、比亞迪（環比+4%）、廣汽埃安（環比+4%）、極氪（環比+2%）。"
+    },
+    {
+      "id": "5021282",
+      "time": "2026-08-03 08:38:52",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗預計，在新能源車批發銷量顯著提升、行業庫存去化明顯等利好推動下，中國汽車板塊的空頭回補勢頭將持續。"
+    },
+    {
+      "id": "te:markets:571921",
+      "time": "2026-08-03 08:38:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Yen Extends Rally as Japan Confirms Intervention — The Japanese yen strengthened past 156 per dollar on Monday, bringing its gains to nearly 5% over three sessions, after the Finance Ministry confirmed it carried out coordinated yen-buying operations with the US Treasury last week following the currency's slide to 40-year lows. Japanese authorities also warned they stand ready to conduct additional coordinated interventions if needed, adding that they remain in close contact with their US counterparts. US Treasury Secretary Scott Bessent also confirmed the joint action to counter disorderly moves in the yen, while President Donald Trump previously said the US joined last week's coordinated intervention as a show of support for Japan and to help safeguard global economic stability. The yen had fallen to four-decade lows last month amid pressure from elevated energy costs, mounting fiscal concerns, and persistently wide interest rate differentials."
+    },
+    {
+      "id": "5021281",
+      "time": "2026-08-03 08:38:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "上海市氣象臺2026年08月03日08時35分發布中心城區高溫橙色預警訊號：預計今天中心城區大部的最高氣溫將超過37℃，請注意防範強高溫對城市執行、人體健康、大功率電氣裝置的不利影響，注意用火用電安全。"
+    },
+    {
+      "id": "5021280",
+      "time": "2026-08-03 08:37:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元盤中漲破156.00關口，日內漲約1%。"
+    },
+    {
+      "id": "te:economy:571919",
+      "time": "2026-08-03 08:37:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "South Korea Factory Sector Picks Up in July — The S&P Global South Korea Manufacturing PMI rose to 53.1 in July 2026 from 52.1 in June, signaling the third-strongest expansion in the past four years. Output and new orders grew at a faster pace, supported by stronger demand, particularly from the semiconductor and automotive sectors, while export orders increased for the first time in three months and at the fastest rate since April 2021. Employment rose for the fourth time in five months as firms expanded production, while purchasing activity remained solid despite ongoing supplier delays linked to the Middle East conflict. Input buying and pre-production inventories also increased as manufacturers sought to guard against further cost pressures and supply disruptions. Meanwhile, input cost inflation eased to its slowest pace since before the outbreak of the war, allowing firms to moderate increases in selling prices, while business confidence strengthened on expectations of sustained order growth and new product launches."
+    },
+    {
+      "id": "te:markets:571918",
+      "time": "2026-08-03 08:37:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Sumitomo Mitsui Financial Stock Price Hits 4-week Low — Sumitomo Mitsui Financial shares decreased to 6575.00 JPY, the lowest since July 2026. Over the past 4 weeks, Sumitomo Mitsui Financial Group lost 3.28%, and in the last 12 months, it increased 77.09%."
+    },
+    {
+      "id": "5021279",
+      "time": "2026-08-03 08:37:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4060美元/盎司，日內漲0.36%。"
+    },
+    {
+      "id": "mkt:019fc50d-b2f9-7aab-8f4a-e702b15b58b2",
+      "time": "2026-08-03 08:37:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【USD/JPY drops 170 pips intraday, breaks 156】USD/JPY slid 170 pips within 15 minutes, falling below 156 for the first time since May 6 and down more than 1% on the day. Earlier, U.S. and Japanese officials said they would not hesitate to coordinate further FX market intervention."
+    },
+    {
+      "id": "mkt:019fc50d-44a9-7aab-8f4a-dc41f9a217e0",
+      "time": "2026-08-03 08:36:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 index slid as much as 2.00% intraday."
+    },
+    {
+      "id": "5021278",
+      "time": "2026-08-03 08:36:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "黃河實業有限公司在香港暫停交易。"
+    },
+    {
+      "id": "te:economy:571917",
+      "time": "2026-08-03 08:35:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Philippines Factory Activity Growth at 5-Month High — The S&P Global Philippines Manufacturing PMI rose to 51.8 in July 2026 from 50.9 in June, marking the third consecutive month of growth and the strongest since February. Stronger underlying demand and new project wins drove the fastest growth in new orders and output in five months, prompting manufacturers to increase purchasing activity. However, firms drew down both raw material and finished goods inventories to meet rising demand as supplier delivery times deteriorated sharply, largely due to supply chain disruptions linked to the Middle East conflict. Employment declined after stabilizing in June, reflecting voluntary resignations and firms' reluctance to replace departing workers. Meanwhile, input costs and selling prices accelerated to above their long-run averages as higher costs were passed on to customers. Despite stronger business activity, confidence remained historically subdued as ongoing geopolitical uncertainty and inflationary pressures continued to cloud the outlook."
+    },
+    {
+      "id": "5021277",
+      "time": "2026-08-03 08:35:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【 阿曼附近一艘油輪報告聽到爆炸聲 】 英國海上貿易行動辦公室2日晚通報說，一艘油輪在阿曼海塞卜東北約20海里處報告聽到附近傳出爆炸聲，目前船舶和船員均安全。通報顯示，事發地點位於霍爾木茲海峽東入口附近海域。英國海上貿易行動辦公室於協調世界時2日20時37分（北京時間3日4時37分）收到涉事油輪船長報告。船長稱，爆炸發生在距離船舶較近的位置。通報說，相關部門正在調查這一事件。英國海上貿易行動辦公室建議過往船舶謹慎通行。"
+    },
+    {
+      "id": "mkt:019fc50b-8488-7aab-8f4a-d2c1c20cb701",
+      "time": "2026-08-03 08:34:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil tanker reported hearing explosion near eastern entrance to Strait of Hormuz — UKMTO】UK Maritime Trade Operations (UKMTO) said an oil tanker reported hearing an explosion about 20 nm northeast of Seeb in the Sea of Oman, near the eastern entrance to the Strait of Hormuz. UKMTO received the captain’s report at 20:37 UTC on March 2 (04:37 Beijing March 3). The vessel and crew are reported safe; the captain said the blast occurred close to the ship. Authorities are investigating and UKMTO advised transiting vessels to exercise caution."
+    },
+    {
+      "id": "5021276",
+      "time": "2026-08-03 08:34:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經225指數日內跌幅達2%。"
+    },
+    {
+      "id": "5021275",
+      "time": "2026-08-03 08:34:12",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗：雲廠商強勁開支利好中國光模組公司 半年報披露或為買入時機】 花旗稱，美國四大雲廠商二季度資本開支同比強勁增長79%並小幅上調全年指引，表明需求可見度已明確延伸至2028年，這為AI基礎設施供應鏈公司提供了結構性利好。中國光通訊板塊的佈局機會或出現在2026年上半年業績釋出前後，近期催化劑包括9月的CIOE（中國光博會）、雲棲大會、ECOC（歐洲光通訊展）。"
+    },
+    {
+      "id": "te:economy:571916",
+      "time": "2026-08-03 08:33:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Japan Manufacturing PMI Revised Downward — The S&P Global Japan Manufacturing PMI was revised lower to 54.5 in July 2026 from the preliminary estimate of 54.7, following a final reading of 54.8 in the previous month. It marked the seventh straight month of expansion in factory activity, supported by faster increases in output, while new orders grew at the fastest pace in four-and-a-half years. Employment increased solidly, while backlogs of work rose for the seventh consecutive month and at the fastest pace since February 2014. Purchasing activity rose for the fourth consecutive month, with the rate of accumulation being the sharpest since May 2024, while stocks of finished goods neared stabilisation. Meanwhile, suppliers' delivery times lengthened markedly. On the price front, input price inflation eased to a four-month low, while output prices rose sharply. Finally, business sentiment improved to its highest level in four months, supported by hopes of stronger demand, particularly for semiconductors."
+    },
+    {
+      "id": "5021274",
+      "time": "2026-08-03 08:33:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元下跌0.7%，至156.37。"
+    },
+    {
+      "id": "5021273",
+      "time": "2026-08-03 08:33:26",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "華僑銀行策略師Moh Siong Sim：鑑於與美國的聯合行動仍在進行中，如果止損單被觸發，美元/日元可能會跌破155。但干預能否成功扭轉日元疲軟的局面，取決於干預措施是日本央行更鷹派立場的補充，還是替代。"
+    },
+    {
+      "id": "5021272",
+      "time": "2026-08-03 08:32:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元一度上漲0.6%，至156.52。"
+    },
+    {
+      "id": "te:economy:571915",
+      "time": "2026-08-03 08:31:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Indonesia Manufacturing PMI Rises to 5-Month High — Indonesia's S&P Global Manufacturing PMI rose to 50.2 in July 2026 from 46.9 in June, marking its highest reading since February. Output rose after four months of decline, though growth was marginal, while new orders steadied following June’s sharp drop. Meanwhile, export sales remained weak, falling for a fifth month. Rising workloads drove the strongest backlog buildup since November 2025, prompting firms to add staff for the first time in five months, albeit modestly. Purchasing activity slipped again, though only fractionally. Delivery times lengthened for a tenth month due to shipping delays, but the deterioration was the mildest in the current sequence as material availability improved. Input cost inflation eased to a four-month low yet stayed elevated on pricier raw materials, leading to another sharp rise in selling prices. Finally, sentiment hit its highest since January, supported by expectations of firmer sales, improving customer sentiment, and softer cost pressures."
+    },
+    {
+      "id": "5021271",
+      "time": "2026-08-03 08:31:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國產高效能碳纖維及航空制動材料實現突破】 中簡科技成功實現國產溼法T1100級碳纖維高效規模化製備，打破國外壟斷。中國航空工業集團自主研發的碳/陶剎車材料，成本較國外降低70%，應用邊界持續拓寬。（新華社）"
+    },
+    {
+      "id": "5021270",
+      "time": "2026-08-03 08:31:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "CFETS：7月31日人民幣匯率指數按周跌0.56至102.19。"
+    },
+    {
+      "id": "5021269",
+      "time": "2026-08-03 08:30:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌日元匯率突然進一步下挫，目前跌幅達0.5%，報156.64。"
+    },
+    {
+      "id": "5021268",
+      "time": "2026-08-03 08:30:49",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "採購經理人指數（PMI）資料顯示，日本7月工廠產出飆升至近12年來高位。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608033829239740",
+      "time": "2026-08-03 08:30:47",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本7月製造業PMI終值為54.5，預期54.7，前值54.7。"
+    },
     {
       "id": "5021267",
       "time": "2026-08-03 08:30:24",
@@ -880,6 +1308,15 @@
         "國際"
       ],
       "text": "【摩根大通：美國財政部可動用資金有限，後續協同日本支撐日元空間受限】摩根大通稱，美國財政部可供與日本開展新一輪協同匯市干預的流動性資源有限；不過如果美方動用非常規手段，干預資金規模有望大幅擴容。策略師Junya Tanase等人在研報中寫道，截至 6 月，美國財政部外匯穩定基金持有約 130 億歐元計價資產以及 255 億美元資產。對比日本 2022 至 2026 年曆次干預規模（約 350 億–600 億美元），當前資金體量偏小。摩根大通指出，美國財政部可以透過變現所持國際貨幣基金組織特別提款權（SDR）、將外幣資產置換為美元，顯著擴充干預彈藥。在該情景下，財政部理論上最多可調動 1870 億美元資金；若美聯儲參與行動，干預規模實際上有望再翻一倍。策略師寫道：儘管如此，“我們認為美國財政部無法無限制開展干預操作，外匯穩定基金（ESF）資金規模有限，若新增資金，很可能需要國會撥款。” 報告稱，美國過往的匯市干預規模通常介於 10 億至 25 億美元之間，遠低於財政部當前持有的美元、歐元流動性資產。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608033829213587",
+      "time": "2026-08-03 07:53:33",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【經濟日報：把握當前中國經濟之勢的關鍵】中國經濟半年報顯示，上半年國內生產總值69.6萬億元，同比增長4.7%。這個4.7%怎麼看？對超大規模經濟體而言，體量越大、基數越高，每提升一個百分點難度就越大，所對應的經濟增量也更大。觀察全面轉入高質量發展軌道的中國經濟，既要看增速，更要看分量；既要看當下，更要看趨勢；既要看資料，更要看資料背後的邏輯。"
     },
     {
       "id": "5021197",
@@ -166266,210 +166703,6 @@
         "國際"
       ],
       "text": "印尼盾在央行行長辭職後維持早盤跌幅。"
-    },
-    {
-      "id": "5008932",
-      "time": "2026-07-27 08:50:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受泥石流影響 九寨溝景區部分割槽域暫緩接待遊客】7月26日晚，九寨溝景區管理局釋出景區遊覽調整資訊。受泥石流影響，從7月27日起，九寨溝景區日則溝箭竹海（包括箭竹海）以上區域、則查窪溝全域暫緩接待遊客。九寨溝景區樹正溝全域、日則溝箭竹海瀑布以下，經安全評估確認無風險，正常迎客。此外，7月27日九寨溝景區將對所有遊客實行門票及觀光車票全免票政策。目前，線上訂票通道已暫時關閉，計劃27日入園的遊客，需攜帶本人有效證件，到遊客中心票務大廳現場辦理入園手續。"
-    },
-    {
-      "id": "5008931",
-      "time": "2026-07-27 08:50:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行：印尼央行將繼續維持金融穩定，支撐經濟增長。"
-    },
-    {
-      "id": "5008930",
-      "time": "2026-07-27 08:50:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滙豐把SpaceX目標價定得比IPO還低】滙豐銀行近日開始對SpaceX進行覆蓋，並給出了持有評級以及115美元的目標價，這一目標價低於公司6月份上市時的135美元IPO價格。滙豐銀行的估值是基於對SpaceX業務價值的總和，並在此基礎上做了一些不尋常的處理。它應用了2倍的溢價來考慮CEO埃隆·馬斯克商業化顛覆性技術的記錄。"
-    },
-    {
-      "id": "mkt:019fa10d-0014-7aab-8e9e-4eeaaad6f391",
-      "time": "2026-07-27 08:50:11",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) added PhysicsNeMo and CUDA-X libraries to its Agent Toolkit, expanding its offering aimed at transforming the engineering, design and construction sectors."
-    },
-    {
-      "id": "5008929",
-      "time": "2026-07-27 08:49:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行發言人表示：行長瓦吉約因個人原因辭職。"
-    },
-    {
-      "id": "te:markets:569890",
-      "time": "2026-07-27 08:49:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Rise as Oil Prices Retreat — The Nikkei 225 Index rose 0.2% to above 64,700, while the broader Topix Index gained 0.6% to 4,035 on Monday, recovering some of the previous session's losses as oil prices fell sharply after the US held off on attacking Iran over the weekend, while Tehran also suspended its retaliatory operations. Japan remains heavily dependent on Middle Eastern oil imports, making its economy particularly sensitive to supply disruptions and swings in crude prices. On the domestic front, approval ratings for Prime Minister Sanae Takaichi slipped as the government's measures to ease inflation continued to fall short of household expectations. Among individual stocks, notable gains were seen from Mitsubishi UFJ (0.9%), SUMCO Corp (6%), Nintendo (4.1%), Toyota Motor (1.6%) and Fast Retailing (1%). Meanwhile, technology stock traded mixed following a tech selloff on Wall Street on Friday amid mounting concerns over massive AI spending."
-    },
-    {
-      "id": "5008928",
-      "time": "2026-07-27 08:48:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "全球領先的電子設計自動化（EDA）軟體和半導體IP供應商思瓦科（SILVACO）表示，將藉助英偉達人工智慧與加速計算技術，加快面向半導體設計與製造、基於物理定律構建的數字孿生技術開發。"
-    },
-    {
-      "id": "5008927",
-      "time": "2026-07-27 08:48:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額減少221.95億元】截至7月24日，上交所融資餘額報13506.44億元，較前一交易日減少79.98億元；深交所融資餘額報13076.07億元，較前一交易日減少141.97億元；兩市合計26582.51億元，較前一交易日減少221.95億元。"
-    },
-    {
-      "id": "mkt:019fa10a-f39b-7aab-8e9e-442b39f0cac0",
-      "time": "2026-07-27 08:47:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "【China margin financing balances down CNY22.195 bln on July 24】As of July 24, margin financing balances on China’s stock exchanges totaled CNY2.658251 tln, down CNY22.195 bln from the previous trading day. Shanghai Stock Exchange: CNY1.350644 tln, down CNY7.998 bln; Shenzhen Stock Exchange: CNY1.307607 tln, down CNY14.197 bln."
-    },
-    {
-      "id": "mkt:019fa10a-abfd-7aab-8e9e-3c1b689f8d0e",
-      "time": "2026-07-27 08:47:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank Indonesia Governor Perry Warjiyo has resigned."
-    },
-    {
-      "id": "5008926",
-      "time": "2026-07-27 08:46:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達擴充套件NVIDIA Agent工具包，新增NVIDIA PhysicsNeMo與CUDA-X庫，旨在變革全球工程、設計與建造方式。"
-    },
-    {
-      "id": "5008925",
-      "time": "2026-07-27 08:46:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼部長：總統已接受央行行長瓦吉約的辭職。"
-    },
-    {
-      "id": "mkt:019fa108-fb0d-7aab-8e9e-3783d8a2c716",
-      "time": "2026-07-27 08:45:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's Prime Minister Takaichi said specific monetary policy measures are for the Bank of Japan to decide."
-    },
-    {
-      "id": "mkt:019fa108-f891-7aab-8e9e-2f4d32697cc3",
-      "time": "2026-07-27 08:45:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japanese Prime Minister Takaichi said boosting growth potential and competitiveness will strengthen market confidence in the yen."
-    },
-    {
-      "id": "mkt:019fa108-eb75-7aab-8e9e-27065e339106",
-      "time": "2026-07-27 08:45:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japanese Prime Minister Takaichi said exchange rates move on multiple factors, making it difficult to isolate the impact of any single factor."
-    },
-    {
-      "id": "5008924",
-      "time": "2026-07-27 08:45:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度尼西亞國務秘書部長：印尼央行行長佩裡·瓦吉約卸任。"
-    },
-    {
-      "id": "5008923",
-      "time": "2026-07-27 08:45:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本首相高市早苗：法律也要求日本央行與政府在經濟政策上緊密合作。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202607273821339443",
-      "time": "2026-07-27 08:45:10",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本首相高市早苗：具體的貨幣政策措施由日本央行決定】日本首相高市早苗表示，日本政府準備根據需要採取額外的及時措施，以減輕中東衝突對經濟的影響。匯率受多種因素驅動波動，很難界定單一因素對匯率的影響。具體的貨幣政策措施由日本央行決定。"
-    },
-    {
-      "id": "5008922",
-      "time": "2026-07-27 08:45:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本首相高市早苗：貨幣政策調整及具體貨幣政策手段應由日本央行決定。"
-    },
-    {
-      "id": "5008921",
-      "time": "2026-07-27 08:44:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗： 匯率受多種因素驅動波動，很難界定單一因素對匯率的影響。"
-    },
-    {
-      "id": "5008920",
-      "time": "2026-07-27 08:44:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：匯率由市場根據多種因素決定。"
-    },
-    {
-      "id": "5008919",
-      "time": "2026-07-27 08:44:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本首相高市早苗：具體的貨幣政策措施由日本央行決定。"
     }
   ]
 }
