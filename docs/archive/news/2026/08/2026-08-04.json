@@ -1,7 +1,25 @@
 {
   "date": "2026-08-04",
-  "count": 68,
+  "count": 70,
   "items": [
+    {
+      "id": "mkt:019fc884-cb81-7aab-8f5c-85fb3ae7c521",
+      "time": "2026-08-04 00:46:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York Attorney General Letitia James sued the Trump administration to block what she alleges is the illegal sharing of private data for millions of TANF (Temporary Assistance for Needy Families) recipients, citing the need to protect vulnerable New Yorkers."
+    },
+    {
+      "id": "mkt:019fc882-c68a-7aab-8f5c-7b108fa22dc1",
+      "time": "2026-08-04 00:44:01",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "【FAA certifies Boeing 737 Max 7 after nearly decade-long delay】The US Federal Aviation Administration has certified Boeing’s 737 Max 7 after nearly a decade of delays. The smallest 737 variant, originally expected to enter service before the COVID-19 pandemic, was delayed by the 2018–19 fatal crashes of in-service 737 Max 8, heightened regulatory scrutiny, subsequent safety and manufacturing issues, and a redesign of the engine anti-ice system. Airlines can begin passenger operations soon after certification, though full integration into schedules typically takes several months. Boeing is still awaiting FAA approval for the long-delayed 737 Max 10 and the 777X."
+    },
     {
       "id": "5023077",
       "time": "2026-08-04 00:42:05",
