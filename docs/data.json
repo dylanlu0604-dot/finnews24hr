@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-04 07:53:26",
-  "count": 17917,
+  "updated": "2026-08-04 07:57:22",
+  "count": 17916,
   "items": [
+    {
+      "id": "5023333",
+      "time": "2026-08-04 07:56:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報58.44美元/盎司。"
+    },
+    {
+      "id": "5023332",
+      "time": "2026-08-04 07:55:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特斯拉7月歐洲註冊量明顯分化，法國丹麥增長多個市場驟減】週一的資料顯示，特斯拉7月在多個歐洲市場的註冊量喜憂參半：法國和丹麥的註冊量強勁增長，但挪威、瑞典、義大利、西班牙和葡萄牙的註冊量則大幅下滑。根據法國汽車行業協會PFA和丹麥bilstatistik.dk的資料，作為銷量風向標的特斯拉汽車註冊量，在法國同比增長86%，在丹麥同比增長52%。然而，根據挪威公路聯合會（OFV）、瑞典Mobility Sweden、西班牙ANFAC、葡萄牙ACAP以及義大利交通部的資料，挪威、瑞典、西班牙、葡萄牙和義大利的註冊量驟降，降幅分別為97%、60%、81%、69%和77%。"
+    },
+    {
+      "id": "5023331",
+      "time": "2026-08-04 07:55:00",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：北美雲廠商資本開支繼續高增長 關注算力超跌與高股息標的】中信建投指出，2026年二季度，北美頭部雲廠商資本開支繼續高增長。2026年四家北美雲廠商資本開支指引合計約為7200億—7450億美元，反映北美雲廠商仍在圍繞AI基礎設施持續擴張。目前來看，AI算力產業鏈的景氣度依舊，但市場近期出現明顯調整，中信建投認為存在超跌情況。未來建議持續關注：一是大模型ARR，尤其是Coding場景ARR的增長情況，畢竟北美大模型近期在降價促銷，如果ARR增長短期遇到瓶頸，可能影響市場對於未來算力需求的預期；二是Coding之外，大模型在其它應用場景的落地及發展情況；三是算力通脹鏈未來一段時間的價格走勢；四是AI產業鏈各環節的融資情況及市場風偏。此外，鑑於二季度AI產業鏈持倉較重，市場近期調整，出現高低切跡象，建議關注低估值、高股息標的。"
+    },
+    {
+      "id": "5023330",
+      "time": "2026-08-04 07:53:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【廣告技術公司Teads在紐約法院起訴Google和Alphabet】當地時間8月3日，廣告技術公司Teads向美國紐約南區聯邦地區法院對Google和Alphabet提起訴訟，尋求經濟損失賠償及其他救濟措施。該訴訟是在美國弗吉尼亞東區聯邦地區法院裁定Google在特定廣告技術市場存在“非法反競爭行為”之後提出的。"
+    },
     {
       "id": "5023329",
       "time": "2026-08-04 07:52:33",
@@ -33,6 +66,15 @@
         "Importance 2"
       ],
       "text": "US Futures Edge Higher After Strong Session — US stock futures ticked higher on Tuesday after the major indexes kicked off the week with solid gains, supported by falling oil prices and a strong rally in heavyweight technology stocks. During Monday's regular session, the tech-heavy Nasdaq Composite surged 2.13%, while the S&P 500 and Dow advanced 1.48% and 1.32%, respectively. Megacap technology stocks drove the gains, with Amazon soaring 4.6% to surpass a $3 trillion market capitalization for the first time. Other standout performers included Microsoft (4.9%), Nvidia (2.9%), Meta Platforms (6%), Alphabet (4.9%) and Tesla (3.5%). Investor sentiment was also lifted by a roughly 5% drop in oil prices after President Donald Trump canceled planned strikes on Iran to revive negotiations, easing concerns over inflation and the outlook for interest rates. Attention now turns to another round of corporate earnings due Tuesday, including results from SpaceX, AMD, Caterpillar, Merck and McDonald’s, among others."
+    },
+    {
+      "id": "em:jjsj_rbsj:202608043830345234",
+      "time": "2026-08-04 07:51:37",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本7月基礎貨幣同比下降13.8%，前值-13.70%。"
     },
     {
       "id": "mkt:019fca09-c3cd-7aab-8f60-3094d8212fcd",
@@ -166002,62 +166044,6 @@
         "市場"
       ],
       "text": "中郵證券釋出研報認為，二季度支撐期限溢價維持高位的通脹預期和風險偏好因素，到三季度已有明顯鬆動，降息預期也可能迴歸，期限溢價壓縮將逐步成為可能。不過，當前30年期國債期貨的多空拉鋸或剛剛開始，8月以後隨著政府債發行壓力逐步落地，市場交易格局可能進一步清晰。"
-    },
-    {
-      "id": "te:markets:570204",
-      "time": "2026-07-28 07:56:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Steadies as US-Iran Talks Eyed — Gold steadied near $4,100 an ounce on Tuesday, retaining most of the previous session’s gains after President Donald Trump said the US was engaged in \"good talks\" with Iran to end the Middle East conflict, sending oil prices lower and easing concerns over inflation and interest rate hikes. However, Trump also warned that the US is ready to resume strikes against the Islamic Republic if negotiations break down. The US suspended its attacks on Iran late Friday following nearly two weeks of hostilities, while Tehran also halted retaliatory strikes against US bases in neighboring countries. Investors are also awaiting the Federal Reserve’s policy decision this week, with policymakers widely expected to leave interest rates unchanged. While some traders continue to speculate about a possible rate hike this week amid renewed inflationary pressures, most expect the next increase to come in September."
-    },
-    {
-      "id": "5010986",
-      "time": "2026-07-28 07:56:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【訊息人士：一家捲入美國環孢子蟲疫情的公司曾向白宮投訴】一位熟悉此次會議情況的訊息人士週一透露，美國農產品供應商泰勒農場（Taylor Farms）本月早些時候就政府的檢查流程向白宮和美國食品藥品監督管理局（FDA）官員提出了投訴。與此同時，密歇根州報告稱，與該公司從墨西哥進口的生菜相關的寄生蟲病病例激增。由於無法確定究竟是哪些產品導致人們感染環孢子蟲病 ——一種會引發劇烈腹瀉的腸道疾病——消費者數週來一直對在餐廳及其他場所食用生菜的安全性感到憂心忡忡。疑問依然存在，許多人為了避免潛在感染而避開新鮮農產品。美國食品藥品監督管理局（FDA）的調查將此次疫情與塔可貝爾餐廳供應的冰山生菜聯絡起來，這些生菜源自私營企業泰勒農場（Taylor Farms）位於墨西哥中部的種植基地。不過，衛生官員仍在尋找其他潛在來源。"
-    },
-    {
-      "id": "5010985",
-      "time": "2026-07-28 07:56:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國首個省域特高壓雙環網工程全線貫通】昨天（27日），國家重點電力工程，“煙威特高壓工程”最後一段導線架設完成，全國首個省域特高壓雙環網在山東正式實現全線貫通。在煙威1000千伏特高壓工程施工現場，隨著最後一段導線順利牽引就位，煙威環網成功合環。該工程線路總長1197公里，途經煙臺、青島、日照、濰坊、臨沂5個市。是膠東半島新能源送出的關鍵通道。"
-    },
-    {
-      "id": "5010984",
-      "time": "2026-07-28 07:54:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國化工領域全產業鏈安全垂類大模型釋出】27日，我國化工領域全產業鏈安全垂類大模型釋出。與通用大模型不同，這款垂類大模型深度融合化工行業全產業鏈安全生產資料和管理經驗，將制度規範、技術標準、事故案例等轉化為可推理的智慧能力，實現隱患自動識別、風險輔助研判、整改方案一鍵生成。中國中化化工安全大模型專案負責人李晗：有了這個“智慧助手”，隱患上報用時大幅縮減。透過模型輔助分類和標準化描述，排查準確性也提升了約75%。（央視）"
-    },
-    {
-      "id": "5010983",
-      "time": "2026-07-28 07:54:03",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【光大證券：地緣風險累積油價波動加劇 “三桶油”戰略價值凸顯】光大證券釋出研報稱，若美伊衝突持續，原油市場的調控機制或將失靈，從而使得市場面臨更大幅度的波動。“三桶油”自有資源是我國保障自身能源安全的底氣所在，增強國內供給能力始終是保障能源安全的戰略支撐和可靠途徑。“三桶油”業績有望充分受益於油價上行。同時，低利率背景下，“三桶油”派息率長期維持穩定，作為長期高分紅公司較為稀缺。當前“三桶油”股息率仍具有吸引力，高股息配置價值凸顯。"
-    },
-    {
-      "id": "5010982",
-      "time": "2026-07-28 07:53:46",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【光大證券：供需中期錯配仍是油運板塊向上最大動力】光大證券釋出研報稱，短期看，中東局勢不確定性較大，各方利益仍在激烈博弈。事件性因素驅動股價波動。但中期來看，低運力增速以及地緣不穩帶來的搶運、繞行以及未來替代通道都是驅動運價穩定乃至進一步走高的因素。二季度已披露中報預告的快遞公司利潤均實現同比大幅增長，驗證“反內卷”催化價格修復紅利正加速兌現至利潤端，隨著產糧區鎖盤延長至8月，今年“反內卷”持續性和力度有望超預期，預計未來將驅動各家快遞價格環比進一步上漲。整體來看，在油價成本抬升、常態化監管和自下而上挺價共振下，單價向好趨勢明顯，看好通達系份額利潤雙增。"
     }
   ]
 }
