@@ -1,7 +1,15 @@
 {
   "date": "2026-08-04",
-  "count": 332,
+  "count": 333,
   "items": [
+    {
+      "id": "mkt:019fc971-1daf-7aab-8f5f-b4f4ba745110",
+      "time": "2026-08-04 05:04:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan ruling party backs cut to food consumption tax to 1% as Takaichi pushes pledge】The ruling party’s tax and social security committee approved a government proposal to cut the food consumption tax from 8% to 1% from April next year for a two-year period. Cabinet approval is sought early next month and the government aims to table legislation at an autumn extraordinary Diet session; the party’s top decision body may review the draft as soon as Wednesday. From June the plan includes roughly ¥600 billion a year in cash transfers to low- and middle-income households, with payments scaled by income. Funding remains unspecified; the government plans to rely on non-tax revenue, tax receipts and savings from reviewing tax preferences and subsidies to plug the gap."
+    },
     {
       "id": "5023226",
       "time": "2026-08-04 04:59:56",
