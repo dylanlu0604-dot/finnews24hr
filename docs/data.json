@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-04 00:26:18",
-  "count": 17979,
+  "updated": "2026-08-04 00:30:44",
+  "count": 17965,
   "items": [
+    {
+      "id": "5023063",
+      "time": "2026-08-04 00:29:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "惠譽評級：7月份對115家歐洲上市公司進行了評級審查，評級未發生任何變化。"
+    },
+    {
+      "id": "mkt:019fc874-fc4b-7aab-8f5c-4a642bbde586",
+      "time": "2026-08-04 00:28:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Market sources say seaborne crude exports from Russia's western ports in August are expected to increase 4% month-on-month from July."
+    },
+    {
+      "id": "5023062",
+      "time": "2026-08-04 00:28:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "交易商稱，俄羅斯西部港口海運原油出口量8月較7月預計增長4%。"
+    },
+    {
+      "id": "5023061",
+      "time": "2026-08-04 00:27:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "META漲幅擴大至盤中最高點7.2%。"
+    },
     {
       "id": "5023060",
       "time": "2026-08-04 00:20:39",
@@ -166539,176 +166578,6 @@
         "MKT News"
       ],
       "text": "President Trump said he and Israeli Prime Minister Netanyahu have some differences on Iran."
-    },
-    {
-      "id": "mkt:019fa469-f076-7aab-8eb3-969a19795157",
-      "time": "2026-07-28 00:30:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he has not yet considered replacing Senate Majority Leader Thune."
-    },
-    {
-      "id": "5010696",
-      "time": "2026-07-28 00:30:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：可能需要介入胡塞武裝（問題）。尚未與沙烏地阿拉伯討論加入亞伯拉罕協議。"
-    },
-    {
-      "id": "5010695",
-      "time": "2026-07-28 00:30:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我會向普京求證他是否在向伊朗提供衛星影象。"
-    },
-    {
-      "id": "mkt:019fa469-396a-7aab-8eb3-8a5a20e02f51",
-      "time": "2026-07-28 00:29:47",
-      "tags": [
-        "MKT News",
-        "RTX.O",
-        "Impact bullish"
-      ],
-      "text": "President Trump said the US is building a large number of Patriot air-defense missiles."
-    },
-    {
-      "id": "mkt:019fa469-1bc4-7aab-8eb3-84706e182a6a",
-      "time": "2026-07-28 00:29:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he has not yet discussed Saudi Arabia joining the Abraham Accords."
-    },
-    {
-      "id": "mkt:019fa469-064a-7aab-8eb3-78fd9456b095",
-      "time": "2026-07-28 00:29:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. President Trump: may need to intervene against Houthi militants."
-    },
-    {
-      "id": "5010693",
-      "time": "2026-07-28 00:29:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我和內塔尼亞胡在伊朗問題上有點分歧。"
-    },
-    {
-      "id": "5010692",
-      "time": "2026-07-28 00:28:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們目前局勢佔優，還希望配備更多精密導彈。"
-    },
-    {
-      "id": "mkt:019fa467-ccd4-7aab-8eb3-76a788c9e2e0",
-      "time": "2026-07-28 00:28:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "U.S. President Trump said Iran has requested a meeting via intermediaries."
-    },
-    {
-      "id": "mkt:019fa467-bc7a-7aab-8eb3-68d5ed78be12",
-      "time": "2026-07-28 00:28:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he has ample patience and plenty of time."
-    },
-    {
-      "id": "5010691",
-      "time": "2026-07-28 00:27:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "LVMH集團：二季度迪奧有機銷售增速略微高於部門均值。"
-    },
-    {
-      "id": "mkt:019fa467-4723-7aab-8eb3-61d20dd418b4",
-      "time": "2026-07-28 00:27:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US President Trump said we have a lot of ammunition."
-    },
-    {
-      "id": "mkt:019fa467-3b69-7aab-8eb3-5b9dc62e6a03",
-      "time": "2026-07-28 00:27:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TRUMP said talks with Iran are going well and there is a strong chance something will happen."
-    },
-    {
-      "id": "5010690",
-      "time": "2026-07-28 00:27:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國有很多彈藥。"
-    },
-    {
-      "id": "5010688",
-      "time": "2026-07-28 00:26:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們的談判進展順利，後續結果拭目以待。"
-    },
-    {
-      "id": "mkt:019fa466-58fd-7aab-8eb3-535b1b66733f",
-      "time": "2026-07-28 00:26:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said Iran wants a meeting and the U.S. will meet with them."
-    },
-    {
-      "id": "mkt:019fa466-1ecd-7aab-8eb3-49402a72b349",
-      "time": "2026-07-28 00:26:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he is not disappointed with Defense Secretary Hegseth's handling of Iran and that Hegseth is doing a good job."
-    },
-    {
-      "id": "5010687",
-      "time": "2026-07-28 00:26:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗透過中間人提出了會談請求，我們正與伊朗進行會晤，有望取得積極進展。"
     }
   ]
 }

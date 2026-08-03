@@ -1,7 +1,46 @@
 {
   "date": "2026-08-04",
-  "count": 44,
+  "count": 48,
   "items": [
+    {
+      "id": "5023063",
+      "time": "2026-08-04 00:29:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "惠譽評級：7月份對115家歐洲上市公司進行了評級審查，評級未發生任何變化。"
+    },
+    {
+      "id": "mkt:019fc874-fc4b-7aab-8f5c-4a642bbde586",
+      "time": "2026-08-04 00:28:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Market sources say seaborne crude exports from Russia's western ports in August are expected to increase 4% month-on-month from July."
+    },
+    {
+      "id": "5023062",
+      "time": "2026-08-04 00:28:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "交易商稱，俄羅斯西部港口海運原油出口量8月較7月預計增長4%。"
+    },
+    {
+      "id": "5023061",
+      "time": "2026-08-04 00:27:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "META漲幅擴大至盤中最高點7.2%。"
+    },
     {
       "id": "5023060",
       "time": "2026-08-04 00:20:39",
