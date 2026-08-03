@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-03 12:06:10",
-  "count": 17937,
+  "updated": "2026-08-03 12:10:07",
+  "count": 17939,
   "items": [
+    {
+      "id": "5021621",
+      "time": "2026-08-03 12:09:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "理文造紙：出口增長、市場需求改善以及成本下降提振運營業績。"
+    },
+    {
+      "id": "te:markets:572023",
+      "time": "2026-08-03 12:08:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupee Near Four-Week High — The Indian rupee climbed to around 95.1 per dollar, extending last week's gains to a near four-week high as lower oil prices reinforced optimism from the Reserve Bank of India's sustained market intervention. Brent crude prices fell 4.7% to below $84 a barrel after US President Donald Trump said plans for an attack on Iran had been shelved to allow negotiations on a nuclear deal, easing concerns over India's import bill and inflation outlook. The rupee rallied 1.2% last week, its strongest weekly gain since March, as the RBI's near-daily dollar sales eased fears of a slide beyond 97 per dollar. Additional support came after RBI data showed measures to attract capital inflows had brought in about $41 billion, including $36.7 billion through foreign currency non-resident deposits, bolstering the central bank's capacity to defend the rupee. Meanwhile, the RBI's net foreign exchange forward book narrowed slightly to $103.3 billion in June, reflecting lower near-term dollar liabilities."
+    },
+    {
+      "id": "5021620",
+      "time": "2026-08-03 12:07:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "理文造紙宣佈派發中期股息每股0.112港元，上年同期為0.066港元。"
+    },
+    {
+      "id": "te:markets:572021",
+      "time": "2026-08-03 12:06:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Edges Up on Stronger Exports, India Demand Hopes — Malaysian palm oil futures inched higher to trade around MYR 4,650 per tonne, recovering from recent weakness amid a softer ringgit and firmer rival edible oils on the Dalian and Chicago exchanges. Sentiment was further lifted by stronger export prospects, with cargo surveyors estimating Malaysian palm oil shipments in July rose between 12.1% and 19.5% from the same period in June. Prices also drew support from higher biodiesel blending mandates in Indonesia and Malaysia, weather-related risks to Malaysia's 2027 output, and expectations of stronger imports by the world's largest importer, India, between July and October ahead of the festive season. In China, another key buyer, the central bank pledged to maintain ample liquidity after last week's Politburo meeting, raising hopes for firmer demand. However, gains remained limited as Dalian palm olein softened and crude oil prices eased after U.S. President Trump refrained from launching a fresh attack on Iran."
+    },
+    {
+      "id": "5021619",
+      "time": "2026-08-03 12:06:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“白海豚”減弱為強颱風級 週四起影響我國】今年第13號颱風“白海豚”已於今天早晨由超強颱風級減弱為強颱風級，其中心上午8時位於琉球群島那霸市偏東方向大約2090公里的西北太平洋上。預計，“白海豚”將以每小時20～25公里的速度向西偏北方向移動，強度變化不大。它的風雨影響將會在本週四開始顯現，華東沿海本週末將會有明顯風雨天氣，在緩和高溫酷熱的同時，浙江、江西等省份要防範颱風可能帶來的暴雨。"
+    },
     {
       "id": "mkt:019fc5cb-8680-7aab-8f4e-7a5a42402598",
       "time": "2026-08-03 12:04:37",
@@ -9,6 +56,15 @@
         "MKT News"
       ],
       "text": "【Hong Kong midday: Hang Seng Tech +0.74% at half-day; Alibaba up nearly 7%】Hong Kong shares edged higher by midday; Hang Seng Index was up 0.04% and the Hang Seng Tech Index rose 0.74%. Large-cap tech led gains: Alibaba (09988.HK) jumped about 7% after launching the Qianwen Office public beta, Baidu (09888.HK) +4%, Tencent (00700.HK) +3%, JD (09618.HK) and Meituan (03690.HK) >1%; Xiaomi (01810.HK) fell about 4%. The State Administration for Market Regulation moved to curb 'involution', while photovoltaic stocks rallied—Concord New Energy (00182.HK) spiked as much as 17% intraday and Xunce (03317.HK) rallied nearly 13% post-results, leading AI application names higher. Memory semiconductor shares extended losses; mainland brokerages and nonferrous metal stocks declined."
+    },
+    {
+      "id": "5021618",
+      "time": "2026-08-03 12:04:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本5年期國債收益率上漲5個基點至2.075% 為2000年發行以來最高】日本5年期國債收益率上漲5個基點至2000年發行以來的最高水平。5年期收益率上漲5個基點至2.075%；10年期收益率上漲3個基點至2.825%；2年期收益率上漲4個基點至1.545%。"
     },
     {
       "id": "5021617",
@@ -166280,36 +166336,6 @@
         "其他"
       ],
       "text": "【智慧烹飪機器人企業智谷天廚完成新一輪近億元戰略融資】近日，智慧烹飪機器人企業智谷天廚宣佈完成新一輪近億元戰略融資。本輪融資由招商局創投領投，躍遷資本跟投，雲啟資本、啟賦資本等老股東超額追投。"
-    },
-    {
-      "id": "5009311",
-      "time": "2026-07-27 12:08:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東莞西聯絡線今日開通運營】26日，廣東城際官方微博釋出公告，東莞西聯絡線定於27日開通運營，開通後，將連線起廣惠城際與穗深城際鐵路，廣州、佛山、肇慶等地市民可透過搭乘廣東城際列車直達深圳寶安國際機場。據測算，搭乘廣東城際列車從城際琶洲站至深圳機場站最快約60分鐘，票價54元；從肇慶站至深圳機場站最快約139分鐘，票價115元。 （廣東釋出）"
-    },
-    {
-      "id": "5009310",
-      "time": "2026-07-27 12:06:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：出現影響ChatGPT的較高錯誤率。已實施緩解措施，並在監控ChatGPT的恢復情況。"
-    },
-    {
-      "id": "5009309",
-      "time": "2026-07-27 12:06:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "OPENAI：出現影響CHATGPT的較高錯誤率。"
-    },
-    {
-      "id": "5009308",
-      "time": "2026-07-27 12:06:19",
-      "tags": [],
-      "text": "【崔東樹：2026年1-6月汽車行業利潤率3.8％】乘聯分會秘書長崔東樹發文稱，2026年1-6月汽車生產1510萬臺，同比降4％。2026年1-6月的汽車行業收入51893億元，同比增1.8％；成本46100億元，增2.8％；利潤1954億元，同比降20％；汽車行業利潤率3.8％，相對於下游工業企業利潤率6.5％的平均水平，汽車行業仍偏低。"
     }
   ]
 }
