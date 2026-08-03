@@ -1,7 +1,33 @@
 {
   "date": "2026-08-04",
-  "count": 322,
+  "count": 325,
   "items": [
+    {
+      "id": "5023223",
+      "time": "2026-08-04 04:43:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬達加斯加一市場發生火災 3500人受災】馬達加斯加東部城市圖阿馬西納市政廳3日表示，當地一處市場2日晚間發生嚴重火災，至少3500人受災。（央視）"
+    },
+    {
+      "id": "mkt:019fc95d-47fb-7aab-8f5f-987abf68e52f",
+      "time": "2026-08-04 04:42:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Egypt, Qatar and Turkey say Israel violating Gaza ceasefire, demand protection for civilians and aid】Egypt, Qatar and Turkey issued a joint statement condemning Israel’s continued violations in Gaza, saying Israel must comply with its obligations under international law and honor its ceasefire commitments. The three said the actions constitute breaches of the ceasefire that undermine implementation of the second-phase truce and threaten de-escalation, and called for protection of civilians, medical facilities and humanitarian personnel and for unimpeded delivery of aid and medical supplies into Gaza."
+    },
+    {
+      "id": "5023222",
+      "time": "2026-08-04 04:41:10",
+      "tags": [
+        "市場",
+        "觀點",
+        "焦點"
+      ],
+      "text": "花旗：基準情景下，金價未來一個月將維持震盪甚至下行，隨後在 2026 年第四季度上漲至每盎司 4500 美元，並於 2027 年上半年觸及每盎司 5000 美元。"
+    },
     {
       "id": "5023221",
       "time": "2026-08-04 04:38:39",

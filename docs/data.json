@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-04 04:41:11",
-  "count": 17956,
+  "updated": "2026-08-04 04:45:09",
+  "count": 17953,
   "items": [
+    {
+      "id": "5023223",
+      "time": "2026-08-04 04:43:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬達加斯加一市場發生火災 3500人受災】馬達加斯加東部城市圖阿馬西納市政廳3日表示，當地一處市場2日晚間發生嚴重火災，至少3500人受災。（央視）"
+    },
+    {
+      "id": "mkt:019fc95d-47fb-7aab-8f5f-987abf68e52f",
+      "time": "2026-08-04 04:42:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Egypt, Qatar and Turkey say Israel violating Gaza ceasefire, demand protection for civilians and aid】Egypt, Qatar and Turkey issued a joint statement condemning Israel’s continued violations in Gaza, saying Israel must comply with its obligations under international law and honor its ceasefire commitments. The three said the actions constitute breaches of the ceasefire that undermine implementation of the second-phase truce and threaten de-escalation, and called for protection of civilians, medical facilities and humanitarian personnel and for unimpeded delivery of aid and medical supplies into Gaza."
+    },
+    {
+      "id": "5023222",
+      "time": "2026-08-04 04:41:10",
+      "tags": [
+        "市場",
+        "觀點",
+        "焦點"
+      ],
+      "text": "花旗：基準情景下，金價未來一個月將維持震盪甚至下行，隨後在 2026 年第四季度上漲至每盎司 4500 美元，並於 2027 年上半年觸及每盎司 5000 美元。"
+    },
     {
       "id": "5023221",
       "time": "2026-08-04 04:38:39",
@@ -166357,68 +166383,6 @@
         "國際"
       ],
       "text": "伊拉克國家安全顧問：烏克蘭情報小組在伊拉克實施襲擊，並將它們歸咎於抵抗組織。"
-    },
-    {
-      "id": "mkt:019fa552-fa6f-7aab-8eb7-31c06dec69a1",
-      "time": "2026-07-28 04:45:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Sources said Venezuela's state oil company PDVSA will halt operations at the El Palito refinery for a major maintenance outage lasting three to four weeks."
-    },
-    {
-      "id": "5010852",
-      "time": "2026-07-28 04:44:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國法官阻止明尼蘇達州強制執行美國全國首個預測市場禁令。"
-    },
-    {
-      "id": "5010851",
-      "time": "2026-07-28 04:44:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "訊息人士稱，委內瑞拉國營石油公司PDVSA將暫停埃爾帕利托煉油廠運營3至4周，以進行重大維護。"
-    },
-    {
-      "id": "mkt:019fa551-180e-7aab-8eb7-2b1da8077fcc",
-      "time": "2026-07-28 04:43:02",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "【Netanyahu makes low-key trip to Washington; Iran to top talks】Israeli Prime Minister Netanyahu flew to Washington for his first meeting with U.S. President Trump in five months, saying Iran will be the “first and most important” agenda item as he seeks to expand peace while maintaining Israeli security. He departed from Nevatim airbase rather than Ben Gurion because of potential Iranian threats. The talks occur amid a temporary pause in U.S.-Iran hostilities; Trump is seeking to restart negotiations with Tehran while weighing next steps. They will also discuss a Gaza 20-point plan, Hezbollah and a U.S.-Saudi nuclear cooperation agreement; Trump said Saudi-Israel normalization may happen eventually but is unlikely in the near term."
-    },
-    {
-      "id": "te:markets:570184",
-      "time": "2026-07-28 04:42:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Closes Higher as Oil Prices Retreat — The Ibovespa rose 0.7% to close at 175,335 on Monday as a pause in the Middle East conflict sent oil prices lower and eased inflation concerns. Crude prices fell after the US and Iran halted strikes over the weekend amid renewed diplomatic efforts, with President Trump reportedly open to restarting peace talks. The pullback in oil prices supported financials, with Itaú gaining 1.4%, Bradesco rising 1.2%, and Itaúsa advancing 2%. Utilities moved higher, led by Axia (+2%) and Sabesp (+1.7%). WEG gained 0.9% after Bradesco BBI upgraded the stock to Outperform and JPMorgan raised its rating to Overweight. The company also secured a contract to supply two generating units for Engie's Jaguara hydroelectric plant expansion. Embraer jumped 5.3% after reporting a record second-quarter backlog of $34.5 billion. In contrast, Petrobras fell 2.8% as lower oil prices weighed on the stock. Investors will focus on July's mid-month inflation report on Tuesday for clues on the monetary policy outlook."
-    },
-    {
-      "id": "5010850",
-      "time": "2026-07-28 04:41:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美伊雙方暫停相互打擊 伊朗國內分歧愈發嚴重】美伊雙方暫停相互打擊，讓外界重燃外交斡旋的希望。但在伊朗國內，軍事衝突暫時平息的現狀，反而凸顯出國內分歧愈發嚴重：一派主張伊朗與美國展開談判，另一派強硬派則認為當下己方佔據戰場優勢，應當繼續施壓。"
     }
   ]
 }
