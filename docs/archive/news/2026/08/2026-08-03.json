@@ -1,7 +1,199 @@
 {
   "date": "2026-08-03",
-  "count": 1413,
+  "count": 1434,
   "items": [
+    {
+      "id": "te:markets:572154",
+      "time": "2026-08-03 16:17:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Mitsubishi earnings above expectations at 81.53 JPY — Mitsubishi (8058) released earnings per share at 81.53 JPY, compared to market expectations of 59.14 JPY."
+    },
+    {
+      "id": "te:economy:572153",
+      "time": "2026-08-03 16:16:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Thailand Business Morale at 4-Month High — Thailand’s Business Sentiment Index rose to 46.7 in July 2026 from 46.1 in June, the highest reading in four months.The improvement was driven mainly by stronger sentiment in the non-manufacturing sector, supported by lower fuel costs and increased flight services, while gains were partly offset by weaker confidence in manufacturing amid concerns over US import tariffs. Sentiment improved for business performance (50.0 vs 49.3) and investment (51.2 vs 50.7), while expectations for production (48.6 vs 51.9), employment (48.9 vs 50.2), and total order books (47.5 vs 48.1) turned less optimistic. Meanwhile, manufacturing confidence weakened, led by lower order books in the home electrical appliance industry. High production costs remained the top business constraint for the fifth straight month, while inflation expectations for the next 12 months eased slightly to 2.6%. Moreover, the three-month expected Business Sentiment Index rose to 50.7 from 48.0."
+    },
+    {
+      "id": "5021992",
+      "time": "2026-08-03 16:16:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社調查預測：馬來西亞7月棕櫚油出口量為138萬噸，較6月增長14.8%。"
+    },
+    {
+      "id": "5021991",
+      "time": "2026-08-03 16:16:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透調查：馬來西亞7月毛棕櫚油產量預估為176萬噸，較6月增長7.4%。"
+    },
+    {
+      "id": "5021990",
+      "time": "2026-08-03 16:16:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞計劃改道多瑙河水流，以避免核反應堆停運。"
+    },
+    {
+      "id": "5021989",
+      "time": "2026-08-03 16:16:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紐威股份：控股股東陸斌減持觸及1%刻度，合計持股比例降至61.00%】紐威股份公告，控股股東陸斌於2026年6月1日至2026年8月3日期間，透過集中競價方式累計減持公司558.5萬股A股股票，佔公司當前總股本的0.72%。本次權益變動後，陸斌及其一致行動人合計持有公司股份比例由61.72%減少至61.00%，權益變動觸及1%刻度。"
+    },
+    {
+      "id": "5021988",
+      "time": "2026-08-03 16:15:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【2026年北京國管半年工作會召開】據“北京國管”公眾號訊息，7月31日，2026年北京國有資本運營管理有限公司半年工作會召開。會議強調，下半年要聚焦核心任務精準發力，確保各項部署落地見效。要不折不扣落實上級各項工作要求，持續最佳化八隻市級政府投資基金全流程管理，把成熟有效的管理經驗向全系統基金投資業務推廣，補強研究、投後、風控、退出、募資五大能力；高標準推進“轉在北京”科技成果轉化服務體系建設，發揮資本運營與市場化機制優勢，打通科技創新與產業創新融合鏈路，紮紮實實把這件難而正確的事做深做實；系統謀劃新一輪國企改革任務，以改革破解機制堵點、積蓄髮展動能。"
+    },
+    {
+      "id": "mkt:019fc6b1-6cdc-7aab-8f52-317df6425ee9",
+      "time": "2026-08-03 16:15:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yantai maritime bureau issues navigation warning for Yellow Sea rocket launches】Yantai Maritime Safety Bureau posted a navigation warning saying parts of the Yellow Sea will be closed to vessels for rocket launches from Aug 3 14:00 to Aug 5 12:00. A separate exclusion for falling rocket debris is in effect Aug 5 09:10–11:10. Ships are prohibited from entering the designated areas."
+    },
+    {
+      "id": "5021987",
+      "time": "2026-08-03 16:15:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯克拉斯諾達爾地區州長表示，無人機殘骸墜落已造成3人死亡、13人受傷。"
+    },
+    {
+      "id": "mkt:019fc6b1-03ef-7aab-8f52-28575efc2bba",
+      "time": "2026-08-03 16:15:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CNIPA deputy director Zhang Zhicheng meets AmCham China president】China National Intellectual Property Administration (CNIPA) deputy director Zhang Zhicheng met AmCham China president He Maike and member-company representatives in Beijing. Zhang said CNIPA has been enforcing equal IP protection for domestic and foreign firms, and is open to industry feedback to identify foreign companies’ IP needs and implement targeted measures. He Maike said IP protection in China has improved, creating a more supportive environment for foreign investors; AmCham China will continue dialogue with CNIPA and encourage member investment in China."
+    },
+    {
+      "id": "5021986",
+      "time": "2026-08-03 16:15:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭方面訊息：“烏克蘭國防部情報總局（HUR）通報，克里米亞一套‘起飛’雷達系統以及‘密碼 - 4’識別系統遭到損毀。”"
+    },
+    {
+      "id": "5021985",
+      "time": "2026-08-03 16:14:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告 黃海海域有火箭發射】據中國海事局網站訊息，煙臺海事局釋出航行警告，8月3日14時至5日12時，黃海部分海域進行火箭發射，禁止船舶駛入。自8月5日9時10分至11時10分，火箭殘骸落於黃海部分海域，禁止船舶駛入。"
+    },
+    {
+      "id": "5021984",
+      "time": "2026-08-03 16:14:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "三菱電機：位於熊本縣的半導體工廠在地震後，計劃於8月底前恢復生產。"
+    },
+    {
+      "id": "5021983",
+      "time": "2026-08-03 16:14:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【久遠銀海：獲得“一種基於資料集特徵的水印自適應嵌入方法”發明專利】久遠銀海公告稱，公司近日取得國家智慧財產權局頒發的發明專利證書，發明名稱為“一種基於資料集特徵的水印自適應嵌入方法”，專利號為ZL 2026 1 0757139.3，申請日為2026年5月29日，授權公告日為2026年7月31日。該專利用於資料要素流通和可信資料空間領域，不會對目前生產經營產生重大影響，但利於完善智慧財產權保護體系，增強核心競爭力。"
+    },
+    {
+      "id": "te:economy:572152",
+      "time": "2026-08-03 16:14:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Swiss Factory Activity Hits 5-Month Low — Switzerland’s procure.ch–UBS Manufacturing PMI fell to 53.2 in July 2026 from 54.3 in the previous month, falling short of market expectations of 55. The reading marked the weakest level since February, as growth momentum softened across key components, with production expansion slowing to 54.2 from 57.0 in June and order books edging down to 53.2 from 53.5. Purchasing activity also weakened, with purchasing volumes falling into contraction territory at 48.1 from 50.9 and purchasing inventories declining to 47.5 from 50.4. Moreover, sales stocks (46.8 vs 48.1) and employment (47.7 vs 48.9) continued to deteriorate. Supplier delivery times lengthened further (62.9 vs 60.9), indicating rising delivery delays. On the price front, cost pressures intensified, with the index jumping to 74.2 in July, from 72.8 in the previous month."
+    },
+    {
+      "id": "5021982",
+      "time": "2026-08-03 16:13:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國家智慧財產權局副局長張志成會見中國美國商會會長一行】近日，中國國家智慧財產權局副局長張志成在京會見來訪的中國美國商會會長何邁可和會員企業代表。張志成表示，近年來，中國依法嚴格保護國內外企業智慧財產權，做到一視同仁、同等保護，努力為各國企業和創新主體營造公平競爭的發展環境。中國國家智慧財產權局願意傾聽業界聲音，瞭解外資企業在智慧財產權方面的需求，有針對性地做好相關工作。何邁可表示，近年來，中國智慧財產權保護取得長足進展，為外資企業發展提供了良好環境。中國美國商會希望與中國國家智慧財產權局繼續保持溝通並將持續鼓勵會員企業堅定信心，投資中國。"
+    },
+    {
+      "id": "5021981",
+      "time": "2026-08-03 16:13:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃河旋風：持股5%以上股東一致行動人600萬股將被司法拍賣】黃河旋風公告稱，公司持股5%以上股東一致行動人喬秋生因金融借款合同糾紛，其持有的600萬股無限售流通股（佔公司總股本0.42%）將被司法拍賣。拍賣時間為2026年8月29日10時起至8月30日10時止，起拍價5635.2萬元，保證金563萬元，加價幅度1萬元。本次司法拍賣不會導致公司控制權變更，對日常經營無重大影響，結果存在不確定性。"
+    },
+    {
+      "id": "mkt:019fc6af-5fde-7aab-8f52-246d7694fc81",
+      "time": "2026-08-03 16:13:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Tencent",
+        "Hang Seng Index",
+        "Impact bullish",
+        "09988.HK",
+        "02513.HK",
+        "Impact bearish"
+      ],
+      "text": "【Hong Kong close: Hang Seng up 0.48%; Alibaba rallies over 7%】The Hang Seng Index closed up 0.48%; the Hang Seng Tech Index also finished higher. Market turnover was HKD 255.18 bln. Tech names were mixed: MiniMax (00100.HK) and Alibaba (09988.HK) led gains, each up more than 7%; Baidu (09888.HK), Tencent Holdings (00700.HK) and Kuaishou (01024.HK) rose over 3%. Zhipu (02513.HK) fell 4.81%; XPeng (09868.HK) and Li Auto (02015.HK) declined about 3%. Memory-related stocks underperformed: Southern 2x long SK hynix (07709) fell over 16%, Southern 2x long Samsung Electronics (07747) slid nearly 14%; Montage Technology (06809.HK) and GigaDevice (03986.HK) each dropped more than 7%."
+    },
+    {
+      "id": "5021980",
+      "time": "2026-08-03 16:12:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華翔股份：尚未實施股份回購，回購方案金額3000萬元-5000萬元】華翔股份公告，公司於2026年7月27日召開董事會審議透過回購方案，擬以自有資金透過集中競價交易方式回購股份，回購資金總額不低於人民幣3000萬元（含）且不超過人民幣5000萬元（含），回購價格不超過人民幣24.7元/股（含），回購用途為股權激勵或員工持股計劃，實施期限為自董事會審議透過之日起3個月內。截至2026年7月31日，公司尚未實施股份回購，將在回購期限內根據市場情況擇機實施回購。"
+    },
+    {
+      "id": "te:economy:572151",
+      "time": "2026-08-03 16:12:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Greece",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Greece Factory Activity Expands in July — The S&P Global Greece Manufacturing PMI rose to 54.3 in July 2026 from 53.8 in June, signalling a solid improvement in operating conditions. Output expanded at the fastest pace in five months, supported by sustained client demand and further growth in new orders. Export orders also increased for the first time in six months and at the fastest rate since April 2025. Employment rose at the sharpest pace since November 2025, allowing firms to keep up with incoming work as backlogs declined for a second month. Input costs continued to increase, driven by higher material and energy prices, although inflationary pressures eased. Output price inflation also softened to a four-month low. Pre-production inventories fell for a fourth consecutive month amid longer supplier lead times caused by shipping delays and shortages. Firms remained optimistic about production over the coming year, although confidence eased slightly."
+    },
+    {
+      "id": "5021979",
+      "time": "2026-08-03 16:12:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊外交部：烏克蘭襲擊伊朗商船可能是蓄意行為】當地時間8月3日，伊朗外交部發言人巴加埃在新聞釋出會上就烏克蘭襲擊伊朗商船事件表示，儘管烏克蘭方面表示這是意外，現有證據表明此次襲擊可能是蓄意行為。巴加埃還指出，伊朗將採取一切必要行動讓烏克蘭承擔責任，並確保這種情況不再發生。伊朗外交部此前釋出宣告稱，7月25日，一艘伊朗商船在裡海遭到烏克蘭方面襲擊後發生爆炸。（央視新聞）"
+    },
     {
       "id": "5021978",
       "time": "2026-08-03 16:12:11",
