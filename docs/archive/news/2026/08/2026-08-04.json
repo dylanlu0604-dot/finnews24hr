@@ -1,7 +1,58 @@
 {
   "date": "2026-08-04",
-  "count": 216,
+  "count": 222,
   "items": [
+    {
+      "id": "mkt:019fc8ed-4fdb-7aab-8f5e-3be2f2654979",
+      "time": "2026-08-04 02:40:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "S&P 500 topped 7,600 for the first time since June 3, trading up 1.5% and roughly 20 points below its record high."
+    },
+    {
+      "id": "5023172",
+      "time": "2026-08-04 02:39:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（被問及美國職業棒球大聯盟薪資上限問題）情況較為複雜，後續再就此展開討論。"
+    },
+    {
+      "id": "5023171",
+      "time": "2026-08-04 02:38:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：特朗普正考量撤換聯邦檢察官皮羅，導火索為倒影池案件。"
+    },
+    {
+      "id": "5023170",
+      "time": "2026-08-04 02:37:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：對伊朗的襲擊本應在昨晚實施，且將持續很長時間，幾乎不會留下任何東西。"
+    },
+    {
+      "id": "mkt:019fc8ea-8f17-7aab-8f5e-3311edad4812",
+      "time": "2026-08-04 02:37:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's deputy prime minister and foreign minister held phone talks with counterparts in the UAE, Saudi Arabia, Kuwait, Oman and Bahrain to review cooperation and coordinate diplomatic measures to ease regional tensions and strengthen security, the Qatari foreign ministry said."
+    },
+    {
+      "id": "5023169",
+      "time": "2026-08-04 02:36:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國歐洲司令部宣告：美國國防部長指示歐司令部監督烏克蘭安全援助小組重組工作，並調整各分支機構以及北約烏克蘭安全援助與培訓部隊的職能權責。"
+    },
     {
       "id": "5023168",
       "time": "2026-08-04 02:35:57",
