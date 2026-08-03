@@ -1,7 +1,28 @@
 {
   "date": "2026-08-04",
-  "count": 352,
+  "count": 354,
   "items": [
+    {
+      "id": "5023244",
+      "time": "2026-08-04 05:51:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "禮來發言人：公司認為，在取得美國 FDA 批准前，向符合特定條件的患者提供正品瑞塔魯肽（Retatrutide）具備醫學合理性。"
+    },
+    {
+      "id": "te:markets:572282",
+      "time": "2026-08-04 05:49:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Brazil Yields Fall Ahead of BCB Meeting — Brazil's 10-year government bond yield fell to 14.56% from a nearly three-month high of 15% reached in late July as easing tensions in the Middle East pushed oil prices lower, reducing inflation concerns. Iran signaled progress in negotiations to restore shipping through the Strait of Hormuz after US President Donald Trump called off a planned strike, raising hopes for a diplomatic resolution. The decline in oil prices reinforced expectations that the BCB will cut the Selic rate from 14.25% at its August 5th meeting. The latest Focus Survey lowered the 2026 inflation forecast to 5.03% from 5.12% and reduced the year-end Selic projection to 13.75% from 14.00%. Meanwhile, consumer prices rose just 0.06% in the month to mid-July, slowing sharply from 0.41% in June and below forecasts of 0.2%."
+    },
     {
       "id": "5023243",
       "time": "2026-08-04 05:44:39",
