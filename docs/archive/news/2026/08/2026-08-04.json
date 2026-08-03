@@ -1,7 +1,39 @@
 {
   "date": "2026-08-04",
-  "count": 329,
+  "count": 332,
   "items": [
+    {
+      "id": "5023226",
+      "time": "2026-08-04 04:59:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "週一（8月3日）紐約尾盤，現貨黃金漲0.21%，報4054.95美元/盎司，亞太盤初高開至4080.87美元重新整理日高，隨後震盪下行、21:38重新整理日低至4019.30美元。COMEX黃金期貨漲0.15%，報4113美元/盎司。現貨白銀漲1.01%，報58.18美元/盎司，美股盤初也曾重新整理日低至56.5694美元。COMEX白銀期貨漲1.08%，報58.400美元/盎司。COMEX銅期貨漲0.65%，報6.5490美元/磅。現貨鉑金跌1%，現貨鈀金跌1.30%。"
+    },
+    {
+      "id": "mkt:019fc96c-5d82-7aab-8f5f-a87d1f094e43",
+      "time": "2026-08-04 04:59:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Nikkei reports Japan's ruling party is close to cutting the food tax rate from 8% to 1%."
+    },
+    {
+      "id": "te:economy:572281",
+      "time": "2026-08-04 04:58:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Paraguay Inflation Eases to 1.6% — Paraguay’s annual inflation eased to 1.6% in July 2026 from 2.1% in June, moving further below the central bank’s 3.5% target. The largest price increases were recorded in restaurants and hotels (9.7%), followed by education (5.9%), furniture and household goods (2.1%), healthcare (1.9%), and housing and utilities (1.8%). Meanwhile, transport prices fell 1.1% as lower oil prices, driven by easing Middle East tensions, helped curb overall inflation. Core inflation, which excludes volatile items, fell to 1.5% year-on-year from 1.7% in June. On a monthly basis, consumer prices fell 0.1%, following a 0.3% decline in the previous month."
+    },
     {
       "id": "5023225",
       "time": "2026-08-04 04:50:12",
