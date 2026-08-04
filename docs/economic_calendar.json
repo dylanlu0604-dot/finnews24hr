@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-05 05:22:18",
+  "updated": "2026-08-05 05:28:43",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 407,
+  "count": 415,
   "history_summary": {
     "cached": 407,
-    "fetched": 0,
+    "fetched": 8,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 235,
+      "count": 243,
       "dates": [
         {
           "date": "2026-08-03",
@@ -4500,8 +4500,472 @@
         },
         {
           "date": "2026-08-05",
-          "count": 61,
+          "count": 69,
           "events": [
+            {
+              "id": "capital:1183541",
+              "fid": "1183541",
+              "interval": "this_week",
+              "date": "2026-08-05",
+              "time": "04:30",
+              "datetime": "2026-08-05 04:30:00",
+              "display_time": "08/05 04:30",
+              "country": "美國",
+              "title": "美國至7月31日當週API原油庫存(萬桶)",
+              "importance": 2,
+              "previous": "-329.6",
+              "forecast": "-200",
+              "actual": "269",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183541",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/29",
+                  "actual": "-329.6",
+                  "forecast": "-135",
+                  "previous": "260.3"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "260.3",
+                  "forecast": "-50",
+                  "previous": "-56.4"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "-56.4",
+                  "forecast": "-273.6",
+                  "previous": "-39.9"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-39.9",
+                  "forecast": "-150",
+                  "previous": "-607.2"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "-607.2",
+                  "forecast": "-405",
+                  "previous": "-76.5"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "-76.5",
+                  "forecast": "-499.5",
+                  "previous": "-833"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-05 05:28:38"
+            },
+            {
+              "id": "capital:1183546",
+              "fid": "1183546",
+              "interval": "this_week",
+              "date": "2026-08-05",
+              "time": "04:30",
+              "datetime": "2026-08-05 04:30:00",
+              "display_time": "08/05 04:30",
+              "country": "美國",
+              "title": "美國至7月31日當週API原油進口(萬桶)",
+              "importance": 1,
+              "previous": "-39.9",
+              "forecast": "--",
+              "actual": "17.2",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183546",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/29",
+                  "actual": "-39.9",
+                  "forecast": "-",
+                  "previous": "35.5"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "35.5",
+                  "forecast": "-",
+                  "previous": "-11.9"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "-11.9",
+                  "forecast": "-",
+                  "previous": "15.9"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "15.9",
+                  "forecast": "-",
+                  "previous": "-18"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "-18",
+                  "forecast": "-",
+                  "previous": "22.6"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "22.6",
+                  "forecast": "-",
+                  "previous": "-27.6"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-05 05:28:38"
+            },
+            {
+              "id": "capital:1183545",
+              "fid": "1183545",
+              "interval": "this_week",
+              "date": "2026-08-05",
+              "time": "04:30",
+              "datetime": "2026-08-05 04:30:00",
+              "display_time": "08/05 04:30",
+              "country": "美國",
+              "title": "美國至7月31日當週API取暖油庫存(萬桶)",
+              "importance": 1,
+              "previous": "-12.5",
+              "forecast": "--",
+              "actual": "-11.8",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183545",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/29",
+                  "actual": "-12.5",
+                  "forecast": "-",
+                  "previous": "49.5"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "49.5",
+                  "forecast": "-",
+                  "previous": "-7.3"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "-7.3",
+                  "forecast": "-",
+                  "previous": "-43.4"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-43.4",
+                  "forecast": "-",
+                  "previous": "20.5"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "20.5",
+                  "forecast": "-",
+                  "previous": "40.5"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "40.5",
+                  "forecast": "-",
+                  "previous": "-12.5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-05 05:28:38"
+            },
+            {
+              "id": "capital:1183544",
+              "fid": "1183544",
+              "interval": "this_week",
+              "date": "2026-08-05",
+              "time": "04:30",
+              "datetime": "2026-08-05 04:30:00",
+              "display_time": "08/05 04:30",
+              "country": "美國",
+              "title": "美國至7月31日當週API庫欣原油庫存(萬桶)",
+              "importance": 1,
+              "previous": "-27.3",
+              "forecast": "--",
+              "actual": "235.8",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183544",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/29",
+                  "actual": "-27.3",
+                  "forecast": "-",
+                  "previous": "-73.7"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "-73.7",
+                  "forecast": "-",
+                  "previous": "23.8"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "23.8",
+                  "forecast": "-",
+                  "previous": "-6.9"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-6.9",
+                  "forecast": "-",
+                  "previous": "50.3"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "50.3",
+                  "forecast": "-",
+                  "previous": "-98.2"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "-98.2",
+                  "forecast": "-",
+                  "previous": "-152.3"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-05 05:28:38"
+            },
+            {
+              "id": "capital:1183547",
+              "fid": "1183547",
+              "interval": "this_week",
+              "date": "2026-08-05",
+              "time": "04:30",
+              "datetime": "2026-08-05 04:30:00",
+              "display_time": "08/05 04:30",
+              "country": "美國",
+              "title": "美國至7月31日當週API成品油進口(萬桶/日)",
+              "importance": 1,
+              "previous": "29.7",
+              "forecast": "--",
+              "actual": "-20.6",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183547",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/29",
+                  "actual": "29.7",
+                  "forecast": "-",
+                  "previous": "4.3"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "4.3",
+                  "forecast": "-",
+                  "previous": "-18.8"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "-18.8",
+                  "forecast": "-",
+                  "previous": "-32.5"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-32.5",
+                  "forecast": "-",
+                  "previous": "21.3"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "21.3",
+                  "forecast": "-",
+                  "previous": "-15.2"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "-15.2",
+                  "forecast": "-",
+                  "previous": "-12.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-05 05:28:38"
+            },
+            {
+              "id": "capital:1183548",
+              "fid": "1183548",
+              "interval": "this_week",
+              "date": "2026-08-05",
+              "time": "04:30",
+              "datetime": "2026-08-05 04:30:00",
+              "display_time": "08/05 04:30",
+              "country": "美國",
+              "title": "美國至7月31日當週API投產原油量(萬桶/日)",
+              "importance": 1,
+              "previous": "9.3",
+              "forecast": "--",
+              "actual": "-11.2",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183548",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/29",
+                  "actual": "9.3",
+                  "forecast": "-",
+                  "previous": "-9"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "-9",
+                  "forecast": "-",
+                  "previous": "5.6"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "5.6",
+                  "forecast": "-",
+                  "previous": "3.4"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "3.4",
+                  "forecast": "-",
+                  "previous": "7.6"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "7.6",
+                  "forecast": "-",
+                  "previous": "-20.5"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "-20.5",
+                  "forecast": "-",
+                  "previous": "-1.7"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-05 05:28:38"
+            },
+            {
+              "id": "capital:1183542",
+              "fid": "1183542",
+              "interval": "this_week",
+              "date": "2026-08-05",
+              "time": "04:30",
+              "datetime": "2026-08-05 04:30:00",
+              "display_time": "08/05 04:30",
+              "country": "美國",
+              "title": "美國至7月31日當週API汽油庫存(萬桶)",
+              "importance": 1,
+              "previous": "91.8",
+              "forecast": "-122.5",
+              "actual": "15.6",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183542",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/29",
+                  "actual": "91.8",
+                  "forecast": "-120.4",
+                  "previous": "-137.9"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "-137.9",
+                  "forecast": "-181",
+                  "previous": "-166.4"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "-166.4",
+                  "forecast": "60",
+                  "previous": "-292.9"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-292.9",
+                  "forecast": "-155",
+                  "previous": "-210.6"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "-210.6",
+                  "forecast": "-90.6",
+                  "previous": "123.8"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "123.8",
+                  "forecast": "-35",
+                  "previous": "247.9"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-05 05:28:38"
+            },
+            {
+              "id": "capital:1183543",
+              "fid": "1183543",
+              "interval": "this_week",
+              "date": "2026-08-05",
+              "time": "04:30",
+              "datetime": "2026-08-05 04:30:00",
+              "display_time": "08/05 04:30",
+              "country": "美國",
+              "title": "美國至7月31日當週API精煉油庫存(萬桶)",
+              "importance": 1,
+              "previous": "35.5",
+              "forecast": "-6.7",
+              "actual": "-123.2",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183543",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/29",
+                  "actual": "35.5",
+                  "forecast": "64.8",
+                  "previous": "175.9"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "175.9",
+                  "forecast": "100",
+                  "previous": "225.9"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "225.9",
+                  "forecast": "106",
+                  "previous": "-180.1"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-180.1",
+                  "forecast": "100",
+                  "previous": "292.2"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "292.2",
+                  "forecast": "-85.2",
+                  "previous": "144.7"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "144.7",
+                  "forecast": "-38",
+                  "previous": "-46.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-05 05:28:38"
+            },
             {
               "id": "capital:1174333",
               "fid": "1174333",
@@ -4515,8 +4979,8 @@
               "importance": 1,
               "previous": "4273.6",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "4279.5",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174333",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -28109,6 +28573,470 @@
       "history_checked_at": "2026-07-26 00:02:12"
     },
     {
+      "id": "capital:1183541",
+      "fid": "1183541",
+      "interval": "this_week",
+      "date": "2026-08-05",
+      "time": "04:30",
+      "datetime": "2026-08-05 04:30:00",
+      "display_time": "08/05 04:30",
+      "country": "美國",
+      "title": "美國至7月31日當週API原油庫存(萬桶)",
+      "importance": 2,
+      "previous": "-329.6",
+      "forecast": "-200",
+      "actual": "269",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183541",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/29",
+          "actual": "-329.6",
+          "forecast": "-135",
+          "previous": "260.3"
+        },
+        {
+          "date": "07/22",
+          "actual": "260.3",
+          "forecast": "-50",
+          "previous": "-56.4"
+        },
+        {
+          "date": "07/15",
+          "actual": "-56.4",
+          "forecast": "-273.6",
+          "previous": "-39.9"
+        },
+        {
+          "date": "07/08",
+          "actual": "-39.9",
+          "forecast": "-150",
+          "previous": "-607.2"
+        },
+        {
+          "date": "07/01",
+          "actual": "-607.2",
+          "forecast": "-405",
+          "previous": "-76.5"
+        },
+        {
+          "date": "06/24",
+          "actual": "-76.5",
+          "forecast": "-499.5",
+          "previous": "-833"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-05 05:28:38"
+    },
+    {
+      "id": "capital:1183546",
+      "fid": "1183546",
+      "interval": "this_week",
+      "date": "2026-08-05",
+      "time": "04:30",
+      "datetime": "2026-08-05 04:30:00",
+      "display_time": "08/05 04:30",
+      "country": "美國",
+      "title": "美國至7月31日當週API原油進口(萬桶)",
+      "importance": 1,
+      "previous": "-39.9",
+      "forecast": "--",
+      "actual": "17.2",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183546",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/29",
+          "actual": "-39.9",
+          "forecast": "-",
+          "previous": "35.5"
+        },
+        {
+          "date": "07/22",
+          "actual": "35.5",
+          "forecast": "-",
+          "previous": "-11.9"
+        },
+        {
+          "date": "07/15",
+          "actual": "-11.9",
+          "forecast": "-",
+          "previous": "15.9"
+        },
+        {
+          "date": "07/08",
+          "actual": "15.9",
+          "forecast": "-",
+          "previous": "-18"
+        },
+        {
+          "date": "07/01",
+          "actual": "-18",
+          "forecast": "-",
+          "previous": "22.6"
+        },
+        {
+          "date": "06/24",
+          "actual": "22.6",
+          "forecast": "-",
+          "previous": "-27.6"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-05 05:28:38"
+    },
+    {
+      "id": "capital:1183545",
+      "fid": "1183545",
+      "interval": "this_week",
+      "date": "2026-08-05",
+      "time": "04:30",
+      "datetime": "2026-08-05 04:30:00",
+      "display_time": "08/05 04:30",
+      "country": "美國",
+      "title": "美國至7月31日當週API取暖油庫存(萬桶)",
+      "importance": 1,
+      "previous": "-12.5",
+      "forecast": "--",
+      "actual": "-11.8",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183545",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/29",
+          "actual": "-12.5",
+          "forecast": "-",
+          "previous": "49.5"
+        },
+        {
+          "date": "07/22",
+          "actual": "49.5",
+          "forecast": "-",
+          "previous": "-7.3"
+        },
+        {
+          "date": "07/15",
+          "actual": "-7.3",
+          "forecast": "-",
+          "previous": "-43.4"
+        },
+        {
+          "date": "07/08",
+          "actual": "-43.4",
+          "forecast": "-",
+          "previous": "20.5"
+        },
+        {
+          "date": "07/01",
+          "actual": "20.5",
+          "forecast": "-",
+          "previous": "40.5"
+        },
+        {
+          "date": "06/24",
+          "actual": "40.5",
+          "forecast": "-",
+          "previous": "-12.5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-05 05:28:38"
+    },
+    {
+      "id": "capital:1183544",
+      "fid": "1183544",
+      "interval": "this_week",
+      "date": "2026-08-05",
+      "time": "04:30",
+      "datetime": "2026-08-05 04:30:00",
+      "display_time": "08/05 04:30",
+      "country": "美國",
+      "title": "美國至7月31日當週API庫欣原油庫存(萬桶)",
+      "importance": 1,
+      "previous": "-27.3",
+      "forecast": "--",
+      "actual": "235.8",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183544",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/29",
+          "actual": "-27.3",
+          "forecast": "-",
+          "previous": "-73.7"
+        },
+        {
+          "date": "07/22",
+          "actual": "-73.7",
+          "forecast": "-",
+          "previous": "23.8"
+        },
+        {
+          "date": "07/15",
+          "actual": "23.8",
+          "forecast": "-",
+          "previous": "-6.9"
+        },
+        {
+          "date": "07/08",
+          "actual": "-6.9",
+          "forecast": "-",
+          "previous": "50.3"
+        },
+        {
+          "date": "07/01",
+          "actual": "50.3",
+          "forecast": "-",
+          "previous": "-98.2"
+        },
+        {
+          "date": "06/24",
+          "actual": "-98.2",
+          "forecast": "-",
+          "previous": "-152.3"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-05 05:28:38"
+    },
+    {
+      "id": "capital:1183547",
+      "fid": "1183547",
+      "interval": "this_week",
+      "date": "2026-08-05",
+      "time": "04:30",
+      "datetime": "2026-08-05 04:30:00",
+      "display_time": "08/05 04:30",
+      "country": "美國",
+      "title": "美國至7月31日當週API成品油進口(萬桶/日)",
+      "importance": 1,
+      "previous": "29.7",
+      "forecast": "--",
+      "actual": "-20.6",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183547",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/29",
+          "actual": "29.7",
+          "forecast": "-",
+          "previous": "4.3"
+        },
+        {
+          "date": "07/22",
+          "actual": "4.3",
+          "forecast": "-",
+          "previous": "-18.8"
+        },
+        {
+          "date": "07/15",
+          "actual": "-18.8",
+          "forecast": "-",
+          "previous": "-32.5"
+        },
+        {
+          "date": "07/08",
+          "actual": "-32.5",
+          "forecast": "-",
+          "previous": "21.3"
+        },
+        {
+          "date": "07/01",
+          "actual": "21.3",
+          "forecast": "-",
+          "previous": "-15.2"
+        },
+        {
+          "date": "06/24",
+          "actual": "-15.2",
+          "forecast": "-",
+          "previous": "-12.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-05 05:28:38"
+    },
+    {
+      "id": "capital:1183548",
+      "fid": "1183548",
+      "interval": "this_week",
+      "date": "2026-08-05",
+      "time": "04:30",
+      "datetime": "2026-08-05 04:30:00",
+      "display_time": "08/05 04:30",
+      "country": "美國",
+      "title": "美國至7月31日當週API投產原油量(萬桶/日)",
+      "importance": 1,
+      "previous": "9.3",
+      "forecast": "--",
+      "actual": "-11.2",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183548",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/29",
+          "actual": "9.3",
+          "forecast": "-",
+          "previous": "-9"
+        },
+        {
+          "date": "07/22",
+          "actual": "-9",
+          "forecast": "-",
+          "previous": "5.6"
+        },
+        {
+          "date": "07/15",
+          "actual": "5.6",
+          "forecast": "-",
+          "previous": "3.4"
+        },
+        {
+          "date": "07/08",
+          "actual": "3.4",
+          "forecast": "-",
+          "previous": "7.6"
+        },
+        {
+          "date": "07/01",
+          "actual": "7.6",
+          "forecast": "-",
+          "previous": "-20.5"
+        },
+        {
+          "date": "06/24",
+          "actual": "-20.5",
+          "forecast": "-",
+          "previous": "-1.7"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-05 05:28:38"
+    },
+    {
+      "id": "capital:1183542",
+      "fid": "1183542",
+      "interval": "this_week",
+      "date": "2026-08-05",
+      "time": "04:30",
+      "datetime": "2026-08-05 04:30:00",
+      "display_time": "08/05 04:30",
+      "country": "美國",
+      "title": "美國至7月31日當週API汽油庫存(萬桶)",
+      "importance": 1,
+      "previous": "91.8",
+      "forecast": "-122.5",
+      "actual": "15.6",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183542",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/29",
+          "actual": "91.8",
+          "forecast": "-120.4",
+          "previous": "-137.9"
+        },
+        {
+          "date": "07/22",
+          "actual": "-137.9",
+          "forecast": "-181",
+          "previous": "-166.4"
+        },
+        {
+          "date": "07/15",
+          "actual": "-166.4",
+          "forecast": "60",
+          "previous": "-292.9"
+        },
+        {
+          "date": "07/08",
+          "actual": "-292.9",
+          "forecast": "-155",
+          "previous": "-210.6"
+        },
+        {
+          "date": "07/01",
+          "actual": "-210.6",
+          "forecast": "-90.6",
+          "previous": "123.8"
+        },
+        {
+          "date": "06/24",
+          "actual": "123.8",
+          "forecast": "-35",
+          "previous": "247.9"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-05 05:28:38"
+    },
+    {
+      "id": "capital:1183543",
+      "fid": "1183543",
+      "interval": "this_week",
+      "date": "2026-08-05",
+      "time": "04:30",
+      "datetime": "2026-08-05 04:30:00",
+      "display_time": "08/05 04:30",
+      "country": "美國",
+      "title": "美國至7月31日當週API精煉油庫存(萬桶)",
+      "importance": 1,
+      "previous": "35.5",
+      "forecast": "-6.7",
+      "actual": "-123.2",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183543",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/29",
+          "actual": "35.5",
+          "forecast": "64.8",
+          "previous": "175.9"
+        },
+        {
+          "date": "07/22",
+          "actual": "175.9",
+          "forecast": "100",
+          "previous": "225.9"
+        },
+        {
+          "date": "07/15",
+          "actual": "225.9",
+          "forecast": "106",
+          "previous": "-180.1"
+        },
+        {
+          "date": "07/08",
+          "actual": "-180.1",
+          "forecast": "100",
+          "previous": "292.2"
+        },
+        {
+          "date": "07/01",
+          "actual": "292.2",
+          "forecast": "-85.2",
+          "previous": "144.7"
+        },
+        {
+          "date": "06/24",
+          "actual": "144.7",
+          "forecast": "-38",
+          "previous": "-46.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-05 05:28:38"
+    },
+    {
       "id": "capital:1174333",
       "fid": "1174333",
       "interval": "this_week",
@@ -28121,8 +29049,8 @@
       "importance": 1,
       "previous": "4273.6",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "4279.5",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174333",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
