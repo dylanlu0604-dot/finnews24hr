@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-04 23:24:31",
-  "count": 17815,
+  "updated": "2026-08-04 23:28:33",
+  "count": 17809,
   "items": [
+    {
+      "id": "5025126",
+      "time": "2026-08-04 23:27:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic據悉與Volta達成100億美元算力協議 滿足AI需求增長】知情人士稱，Anthropic PBC與成立僅數月的基礎設施初創公司Volta Infra Holdings Ltd.達成一項價值100億美元的算力協議，此舉是這家Claude開發商為滿足產品需求而採取的最新舉措。知情人士表示，Anthropic已簽署協議，將使用由英偉達支援的雲基礎設施初創公司Volta管理的資料中心。Volta週二早些時候宣佈，已與一家未具名AI實驗室達成一項價值100億美元的協議，並將與運營資料中心的比特幣礦企Bitdeer Technologies Group合作，利用位於挪威的設施。該協議為期六年。"
+    },
+    {
+      "id": "5025125",
+      "time": "2026-08-04 23:26:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：我們共同商定了未來需要落實的三項優先事項。第一：烏克蘭致力於全面加入歐盟。第二：我們當下必須充分把握烏克蘭各領域融入歐盟的全部機遇。第三：當然，我們必須搭建各層級雙邊關係，確保烏克蘭獲得必要的一攬子方案與舉措，支撐本國度過這個冬天。"
+    },
+    {
+      "id": "te:markets:572645",
+      "time": "2026-08-04 23:25:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Fall to Over 3-Month Low — US natural gas prices declined below $2.70 per MMBtu, reaching their lowest level in more than three months, as expectations for weaker demand and milder weather weighed on the market. Forecasts pointed to moderating temperatures across much of the country in the coming weeks, reducing the likelihood of a significant increase in gas consumption. Prices have also been pressured by record production levels and ample inventories, with storage volumes remaining above the five-year average since March due to strong output and mild spring conditions. Analysts expect inventories to stand around 6.6% above normal for the week ended July 31. US Lower 48 gas production averaged a record 110.7 billion cubic feet per day in July, while flows to major LNG export facilities declined due to maintenance disruptions. Meanwhile, improving prospects for a US-Iran agreement and potential reopening of the Strait of Hormuz further reduced energy market concerns and added downward pressure on prices."
+    },
+    {
+      "id": "mkt:019fcd60-8cd9-7aab-8f73-2c04a1c1cc02",
+      "time": "2026-08-04 23:24:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Iran says Iran-Oman Strait of Hormuz talks enter new phase despite US obstruction】A senior Iranian official told Press TV that bilateral talks with Oman on future arrangements for operations in the Strait of Hormuz have entered a new phase. The official said discussions began in the days after an April 8 ceasefire between Iran and the United States and became more serious after a June 18 agreement. He said the talks demonstrate Iran’s willingness to pursue a diplomatic solution while defending its sovereign rights, but that the bilateral process between the two littoral states has been repeatedly disrupted by the United States and some US-aligned regional governments. \"Their obstruction not only delayed a mutually beneficial outcome but exposed the hollowness of US influence in the region, and Iran's strategic interests here are critical and non-negotiable,\" the official said. He added talks moved into a new critical phase more than two weeks ago, that significant progress has been made and a bilateral deal is \"within reach,\" and that if external interference stops Iran and Oman can finalise an arrangement that protects both parties' interests and upholds sovereignty and international law."
+    },
+    {
+      "id": "5025124",
+      "time": "2026-08-04 23:24:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：我們已確定與歐盟開展更深層次合作的重點領域。今年，烏克蘭加入歐盟的談判已開啟兩個議題叢集，我們正準備再開啟四個議題叢集。我方已完成全部工作，以爭取獲得積極決議。"
+    },
     {
       "id": "5025123",
       "time": "2026-08-04 23:23:35",
@@ -164793,112 +164839,6 @@
         "國際"
       ],
       "text": "美國科技公司Coupang Inc.憑藉人工智慧驅動的全球商業投資，首次入選2026年《財富》全球500強榜單。"
-    },
-    {
-      "id": "5012813",
-      "time": "2026-07-28 23:27:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克指數收窄跌幅，最新下跌0.14%。"
-    },
-    {
-      "id": "mkt:019fa956-bde1-7aab-8ed0-bb18e9eed9ad",
-      "time": "2026-07-28 23:27:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Zelenskiy said his meeting with Trump was very successful and that he discussed a production license for Patriot missiles with Putin."
-    },
-    {
-      "id": "5012812",
-      "time": "2026-07-28 23:27:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "克里姆林宮發言人佩斯科夫：烏克蘭近日在裡海對一艘伊朗貨輪發動的襲擊，實際上是對伊朗本身的攻擊。"
-    },
-    {
-      "id": "mkt:019fa956-11fc-7aab-8ed0-b17ce15cd6cb",
-      "time": "2026-07-28 23:26:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Most-active SC (Shanghai crude) futures contract plunged more than 3.00% intraday to 523.1 yuan/barrel."
-    },
-    {
-      "id": "mkt:019fa956-0e23-7aab-8ed0-a9656e85df42",
-      "time": "2026-07-28 23:26:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Mediators see possible restart of US‑Iran MoU on Strait of Hormuz; White House decision pending Trump‑Netanyahu meeting】Mediators told the Times of Israel they believe a breakthrough could restart the US‑Iran memorandum of understanding signed last month on operations in the Strait of Hormuz, but the plan awaits a final White House decision after President Trump’s meeting with Israeli prime minister Netanyahu. Pakistan, Egypt and Qatar are discussing a mediators’ proposal to reconcile differences — Iran says the MoU grants it some control over the strait, the US disputes that — and Iran and Oman have approved the proposal. The MoU’s 60‑day term expires next month."
-    },
-    {
-      "id": "mkt:019fa955-fa87-7aab-8ed0-a5402d17a7e2",
-      "time": "2026-07-28 23:26:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish"
-      ],
-      "text": "Eurozone bond yields fell; Germany's 2-year Bund yield down about 2bp, 4bp lower on the day at 2.74%."
-    },
-    {
-      "id": "5012811",
-      "time": "2026-07-28 23:26:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：與特朗普探討了愛國者防空系統攔截彈本土生產授權事宜，同時交流了其他多項可行援助方案。"
-    },
-    {
-      "id": "5012810",
-      "time": "2026-07-28 23:26:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌4%，現報79.30美元/桶。"
-    },
-    {
-      "id": "5012809",
-      "time": "2026-07-28 23:25:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：與特朗普會談順利。"
-    },
-    {
-      "id": "5012808",
-      "time": "2026-07-28 23:25:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊發言人：任何動用伊朗被凍結資產中劃撥的資金獲取賠償的船隻，都將被禁止通行霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019fa953-f164-7aab-8ed0-9b31dd5cd5a6",
-      "time": "2026-07-28 23:24:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "According to the Times of Israel, mediators say they are close to a breakthrough ahead of a Netanyahu-Trump meeting that could revive a memorandum of understanding signed between the U.S. and Iran last month."
     }
   ]
 }
