@@ -1,7 +1,134 @@
 {
-  "updated": "2026-08-04 20:34:00",
-  "count": 17834,
+  "updated": "2026-08-04 20:37:57",
+  "count": 17835,
   "items": [
+    {
+      "id": "5024803",
+      "time": "2026-08-04 20:37:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理表示，專家預計週四多瑙河的奧地利集水區將迎來強降雨。"
+    },
+    {
+      "id": "mkt:019fccc6-b02c-7aab-8f6f-f03b9fb759ba",
+      "time": "2026-08-04 20:36:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "BP CEO says the company is delaying the sale of its stake in Gulf of Mexico assets."
+    },
+    {
+      "id": "te:markets:572545",
+      "time": "2026-08-04 20:36:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Sysco earnings above expectations at 1.53 USD — Sysco (SYY) released earnings per share at 1.53 USD, compared to market expectations of 1.51 USD."
+    },
+    {
+      "id": "5024802",
+      "time": "2026-08-04 20:36:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟移民事務主管：由於調查仍在進行中，我無法對摩洛哥在休達危機中所扮演的角色置評。"
+    },
+    {
+      "id": "5024801",
+      "time": "2026-08-04 20:36:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲4%，現報60.17美元/盎司。"
+    },
+    {
+      "id": "te:economy:572544",
+      "time": "2026-08-04 20:36:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Exports",
+        "Importance 1"
+      ],
+      "text": "US Exports Fall to 4-Month Low — US exports declined to a four-month low of $314.7 billion in June 2026, down $2.9 billion, or 0.9%, from May, reflecting weaker overseas shipments of goods. Goods exports fell by $4 billion to $206.9 billion, with Census-basis exports declining by $3.8 billion. The largest drag came from industrial supplies and materials, which dropped by $3.3 billion, largely due to a $5.7 billion decline in crude oil exports and a $1.6 billion fall in fuel oil shipments. These declines were partly offset by a $3.4 billion increase in nonmonetary gold exports. Other goods exports decreased by $0.8 billion, while capital goods slipped by $0.6 billion, led by a $1.1 billion decline in computer exports. In contrast, services exports rose by $1.1 billion to $107.8 billion, supported by a $0.5 billion increase in financial services and a $0.4 billion gain in travel-related exports."
+    },
+    {
+      "id": "5024800",
+      "time": "2026-08-04 20:35:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通宇通訊：擬以3億元購買佳賢通訊股權】通宇通訊公告，公司擬以自有資金人民幣3億元購買佳賢通訊合計約25.00%的股權（對應1815.27萬股）。其中第一階段受讓1089.16萬股（約佔15%），價款1.8億元；第二階段受讓726.11萬股（約佔10%），價款1.2億元，公司有權在第一階段最後一期交割日起3個月內決定是否實施。本次交易已獲董事會審議透過，不構成關聯交易及重大資產重組。"
+    },
+    {
+      "id": "5024799",
+      "time": "2026-08-04 20:35:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國石油執行長表示，2026年資本支出指引上調與推遲出售其在美國古近紀近海資產的股權有關。"
+    },
+    {
+      "id": "5024798",
+      "time": "2026-08-04 20:35:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "拜耳執行長表示，相較於過去幾年，我們如今所處的處境更有利於我們作出戰略選擇。"
+    },
+    {
+      "id": "mkt:019fccc4-f78e-7aab-8f6f-e844748a685f",
+      "time": "2026-08-04 20:34:48",
+      "tags": [
+        "MKT News",
+        "BP.L",
+        "Impact bearish"
+      ],
+      "text": "BP CEO says total debt of $40 billion remains too high."
+    },
+    {
+      "id": "5024797",
+      "time": "2026-08-04 20:34:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "黑石私人信貸基金：美國證券交易委員會（SEC）檔案顯示，在要約到期前，共有1.918億股基金股份有效投標且未撤回。"
+    },
+    {
+      "id": "5024796",
+      "time": "2026-08-04 20:34:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國海外發展近84億元競得北京朝陽區廣渠路宅地，樓面價8.14萬元/平米】北京朝陽區南磨房鄉廣渠路宅地正式出讓，該地塊在經過現場185輪競價後最終落槌。根據成交結果，中國海外發展有限公司（中國海外發展，00688.HK）旗下北京永鑫興業房地產開發有限公司以83.99億元收入囊中，成交樓面價81407元/平方米，溢價率19.13%。根據中指研究院監測，該地塊成交樓面價也重新整理了朝陽區涉宅用地TOP3位置。（澎湃）"
+    },
+    {
+      "id": "5024795",
+      "time": "2026-08-04 20:33:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國6月石油進口價格為每桶86.06美元，較2025年6月的每桶62.53美元上漲37.6%（5月為每桶87.44美元）。"
+    },
+    {
+      "id": "5024794",
+      "time": "2026-08-04 20:33:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油執行長表示，總額400億美元的負債規模仍然過高。"
+    },
     {
       "id": "mkt:019fccc3-c628-7aab-8f6f-e586f9343ba6",
       "time": "2026-08-04 20:33:30",
@@ -9,6 +136,14 @@
         "MKT News"
       ],
       "text": "U.S. oil import price in June was $86.06/barrel, up 37.6% from $62.53/barrel in June 2025; May was $87.44/barrel."
+    },
+    {
+      "id": "5024793",
+      "time": "2026-08-04 20:33:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟移民事務主管：休達危機爆發前，走私犯與人口販子曾從中干預。"
     },
     {
       "id": "5024792",
@@ -177,6 +312,15 @@
         "Important"
       ],
       "text": "United States | Exports (Jun) | actual 314700000000B | previous 317700000000B"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608043831397886",
+      "time": "2026-08-04 20:30:43",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國6月貿易逆差733億美元 高於預期】美國6月貿易逆差733億美元，預期逆差730億美元，前值逆差776億美元。"
     },
     {
       "id": "mkt:019fccc0-dd6c-7aab-8f6f-a809d0a0e970",
@@ -164971,132 +165115,6 @@
         "國際"
       ],
       "text": "特朗普：內塔尼亞胡想讓我們繼續捲入伊朗戰爭。"
-    },
-    {
-      "id": "5012501",
-      "time": "2026-07-28 20:37:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：鎬山不是什麼大問題。"
-    },
-    {
-      "id": "5012500",
-      "time": "2026-07-28 20:37:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普評鎬山：如果沒有協議，就把它挖掉。"
-    },
-    {
-      "id": "5012499",
-      "time": "2026-07-28 20:37:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普評鎬山：我完全知道那裡發生了什麼。"
-    },
-    {
-      "id": "5012498",
-      "time": "2026-07-28 20:37:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：內塔尼亞胡想繼續參與伊朗事務。"
-    },
-    {
-      "id": "5012497",
-      "time": "2026-07-28 20:36:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "*索尼半導體仍在核查廠區設施受損情況。"
-    },
-    {
-      "id": "5012496",
-      "time": "2026-07-28 20:36:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "CENTENE執行長在電話會議上表示，公司預計下半年年終會員數量將低於此前預期。"
-    },
-    {
-      "id": "5012495",
-      "time": "2026-07-28 20:36:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "VISA股價盤前漲幅延續至超過2%。"
-    },
-    {
-      "id": "5012494",
-      "time": "2026-07-28 20:36:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：特斯拉與Zelestra就德克薩斯州長期太陽能購電協議達成一致。"
-    },
-    {
-      "id": "5012493",
-      "time": "2026-07-28 20:36:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "索尼半導體：熊本工廠因地震已全員疏散。"
-    },
-    {
-      "id": "mkt:019fa8b9-a441-7aab-8ecc-2c9e99df4450",
-      "time": "2026-07-28 20:36:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said Iran understands it will never be allowed to have nuclear weapons. Iran said it is negotiating."
-    },
-    {
-      "id": "mkt:019fa8b9-0b87-7aab-8ecc-20f8806e97e3",
-      "time": "2026-07-28 20:35:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "IIR reported Kuwait Petroleum Company shut parts of the Al-Zour refinery on July 18 after a power outage, taking about 615,000 b/d offline. IIR said parts are expected to restart by Aug. 10 and the restart of another unit has been delayed until Aug. 10."
-    },
-    {
-      "id": "5012492",
-      "time": "2026-07-28 20:35:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗明白他們永遠不會擁有核武器。"
-    },
-    {
-      "id": "5012491",
-      "time": "2026-07-28 20:35:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗方面表示，我們正在對話。"
-    },
-    {
-      "id": "5012490",
-      "time": "2026-07-28 20:34:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：VISA將裁員7%，約2600個工作崗位。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607283823738056",
-      "time": "2026-07-28 20:34:20",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國6月份商品出口環比下降1.8%，進口環比下降2.6%。"
     }
   ]
 }
