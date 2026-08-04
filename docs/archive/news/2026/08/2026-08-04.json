@@ -1,7 +1,88 @@
 {
   "date": "2026-08-04",
-  "count": 2950,
+  "count": 2958,
   "items": [
+    {
+      "id": "5025141",
+      "time": "2026-08-04 23:39:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本大型石油企業引能仕（ENEOS）在收購雪佛龍旗下業務後，計劃將全球增長投資規模提升至 1 萬億日元。引能仕總裁表示，日本引能仕將整體探尋燃料、天然氣以及石化領域的投資機遇。"
+    },
+    {
+      "id": "mkt:019fcd6d-b029-7aab-8f73-9bd503b25a89",
+      "time": "2026-08-04 23:39:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude down 5.00% intraday, trading at $74.66/bbl."
+    },
+    {
+      "id": "5025140",
+      "time": "2026-08-04 23:38:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守79美元/桶，日內跌5.76%。"
+    },
+    {
+      "id": "5025139",
+      "time": "2026-08-04 23:38:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：伊朗考慮允許歐洲在霍爾木茲海峽開展排雷作業。"
+    },
+    {
+      "id": "5025138",
+      "time": "2026-08-04 23:38:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌6%，現報75.51美元/桶。"
+    },
+    {
+      "id": "mkt:019fcd6b-ed72-7aab-8f73-92e3a06219b4",
+      "time": "2026-08-04 23:37:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities closed higher on Aug 4 (Tuesday): Germany’s DAX up 177.52 points (0.68%) at 26,213.35; UK’s FTSE 100 up 23.54 points (0.22%) at 10,881.24; France’s CAC 40 up 52.81 points (0.61%) at 8,666.63; Euro Stoxx 50 up 60.85 points (0.95%) at 6,487.35; Spain’s IBEX 35 up 40.62 points (0.20%) at 20,023.22; Italy’s FTSE MIB up 674.28 points (1.28%) at 53,546.00."
+    },
+    {
+      "id": "5025137",
+      "time": "2026-08-04 23:36:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬拉松石油：隨著颶風季與裝置檢修季臨近，預計短期煉油市場波動將進一步加劇。"
+    },
+    {
+      "id": "mkt:019fcd6a-dfea-7aab-8f73-882f0d95015d",
+      "time": "2026-08-04 23:36:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude touched $79/bbl, down 4.91% on the day."
+    },
     {
       "id": "mkt:019fcd68-65f4-7aab-8f73-84292a69c88e",
       "time": "2026-08-04 23:33:18",

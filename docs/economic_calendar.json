@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-04 23:36:34",
+  "updated": "2026-08-04 23:40:29",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 406,
+  "count": 407,
   "history_summary": {
     "cached": 406,
-    "fetched": 0,
+    "fetched": 1,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 234,
+      "count": 235,
       "dates": [
         {
           "date": "2026-08-03",
@@ -2464,7 +2464,7 @@
         },
         {
           "date": "2026-08-04",
-          "count": 34,
+          "count": 35,
           "events": [
             {
               "id": "capital:1174310",
@@ -4161,7 +4161,7 @@
               "importance": 1,
               "previous": "3.86 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "3.88 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174330",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -4219,7 +4219,7 @@
               "importance": 1,
               "previous": "17.61 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "12.98 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182470",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -4277,8 +4277,8 @@
               "importance": 1,
               "previous": "3.14",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "3.62",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174329",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -4333,9 +4333,9 @@
               "country": "美國",
               "title": "美國至8月4日6周國債競拍-得標利率",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "3.7 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "3.64 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174331",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -4381,6 +4381,64 @@
               "history_checked_at": "2026-07-26 00:02:12"
             },
             {
+              "id": "capital:1183540",
+              "fid": "1183540",
+              "interval": "this_week",
+              "date": "2026-08-04",
+              "time": "23:30",
+              "datetime": "2026-08-04 23:30:00",
+              "display_time": "08/04 23:30",
+              "country": "美國",
+              "title": "美國至8月4日6周國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "82.07 %",
+              "forecast": "-- %",
+              "actual": "79.36 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183540",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/28",
+                  "actual": "82.07",
+                  "forecast": "-",
+                  "previous": "1.87"
+                },
+                {
+                  "date": "07/21",
+                  "actual": "1.87",
+                  "forecast": "-",
+                  "previous": "63.1"
+                },
+                {
+                  "date": "07/14",
+                  "actual": "63.1",
+                  "forecast": "-",
+                  "previous": "86.48"
+                },
+                {
+                  "date": "07/07",
+                  "actual": "86.48",
+                  "forecast": "-",
+                  "previous": "54.61"
+                },
+                {
+                  "date": "06/30",
+                  "actual": "54.61",
+                  "forecast": "-",
+                  "previous": "92.35"
+                },
+                {
+                  "date": "06/23",
+                  "actual": "92.35",
+                  "forecast": "-",
+                  "previous": "35.89"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-04 23:40:27"
+            },
+            {
               "id": "capital:1174332",
               "fid": "1174332",
               "interval": "this_week",
@@ -4391,10 +4449,10 @@
               "country": "美國",
               "title": "美國至8月4日6周國債競拍-投標倍數",
               "importance": 1,
-              "previous": "--",
+              "previous": "2.93",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "2.93",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174332",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -27715,7 +27773,7 @@
       "importance": 1,
       "previous": "3.86 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "3.88 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174330",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -27773,7 +27831,7 @@
       "importance": 1,
       "previous": "17.61 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "12.98 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182470",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -27831,8 +27889,8 @@
       "importance": 1,
       "previous": "3.14",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "3.62",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174329",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -27887,9 +27945,9 @@
       "country": "美國",
       "title": "美國至8月4日6周國債競拍-得標利率",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "3.7 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "3.64 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174331",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -27935,6 +27993,64 @@
       "history_checked_at": "2026-07-26 00:02:12"
     },
     {
+      "id": "capital:1183540",
+      "fid": "1183540",
+      "interval": "this_week",
+      "date": "2026-08-04",
+      "time": "23:30",
+      "datetime": "2026-08-04 23:30:00",
+      "display_time": "08/04 23:30",
+      "country": "美國",
+      "title": "美國至8月4日6周國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "82.07 %",
+      "forecast": "-- %",
+      "actual": "79.36 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183540",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/28",
+          "actual": "82.07",
+          "forecast": "-",
+          "previous": "1.87"
+        },
+        {
+          "date": "07/21",
+          "actual": "1.87",
+          "forecast": "-",
+          "previous": "63.1"
+        },
+        {
+          "date": "07/14",
+          "actual": "63.1",
+          "forecast": "-",
+          "previous": "86.48"
+        },
+        {
+          "date": "07/07",
+          "actual": "86.48",
+          "forecast": "-",
+          "previous": "54.61"
+        },
+        {
+          "date": "06/30",
+          "actual": "54.61",
+          "forecast": "-",
+          "previous": "92.35"
+        },
+        {
+          "date": "06/23",
+          "actual": "92.35",
+          "forecast": "-",
+          "previous": "35.89"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-04 23:40:27"
+    },
+    {
       "id": "capital:1174332",
       "fid": "1174332",
       "interval": "this_week",
@@ -27945,10 +28061,10 @@
       "country": "美國",
       "title": "美國至8月4日6周國債競拍-投標倍數",
       "importance": 1,
-      "previous": "--",
+      "previous": "2.93",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "2.93",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174332",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
