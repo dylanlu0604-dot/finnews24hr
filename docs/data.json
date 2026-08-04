@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-05 03:20:49",
-  "count": 17756,
+  "updated": "2026-08-05 03:24:40",
+  "count": 17761,
   "items": [
+    {
+      "id": "mkt:019fce3b-bae5-7aab-8f76-578325f55d4d",
+      "time": "2026-08-05 03:24:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The White House said Jay Clayton was formally sworn in at the Oval Office as U.S. director of national intelligence, with Treasury Secretary Bessent administering the oath."
+    },
+    {
+      "id": "5025250",
+      "time": "2026-08-05 03:23:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國多州市政供水系統接連遇襲，有訊息稱幕後疑似伊朗】知情人士稱，近期美國多地市政供水系統遭遇一波網路攻擊，幕後很可能是伊朗。美國聯邦調查局稱，“惡意網路行為主體”已對至少七個州的市政供水系統發動攻擊。亞特蘭大都會區官員表示，正在調查可能干擾供水運轉的“未經授權網路活動”。"
+    },
+    {
+      "id": "5025249",
+      "time": "2026-08-05 03:22:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙天舞漲幅收窄至1.5%。"
+    },
+    {
+      "id": "5025248",
+      "time": "2026-08-05 03:22:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：採集現實世界資料成本極高，埃隆（馬斯克）擁有巨大優勢。"
+    },
+    {
+      "id": "mkt:019fce39-14d9-7aab-8f76-4c4291a66aa2",
+      "time": "2026-08-05 03:21:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi Arabian TV cited Yemen's transport department saying Houthi militants this morning used an explosives-laden unmanned boat to attack an Indian vessel en route to Yemen's Mokha port; the vessel sank after the strike."
+    },
+    {
+      "id": "mkt:019fce38-b1f3-7aab-8f76-43123a04b0ca",
+      "time": "2026-08-05 03:20:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia's Al Arabiya TV reported Yemen's transport ministry said attacks on commercial vessels constitute condemnable acts of terrorism."
+    },
+    {
+      "id": "mkt:019fce38-8693-7aab-8f76-3ca5221779db",
+      "time": "2026-08-05 03:20:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FIFA president Gianni Infantino will convene a crisis meeting on Wednesday."
+    },
     {
       "id": "5025247",
       "time": "2026-08-05 03:20:10",
@@ -164376,24 +164436,6 @@
         "MKT News"
       ],
       "text": "Fars News reports a fire at a US military base in Harir, Erbil province, Iraq."
-    },
-    {
-      "id": "5012974",
-      "time": "2026-07-29 03:23:07",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國2/10年期國債收益率跌超5個基點，追隨油價跌勢】週二（7月28日，美聯儲FOMC貨幣政策會議開幕當天）紐約尾盤，美國10年期國債收益率跌5.06個基點，報4.5981%，整體低開低走，北京時間23:00過後出現一波加速下跌行情、重新整理日低至4.5860%。兩年期美債收益率跌5.17個基點，報4.2706%，00:15也重新整理日低至4.2541%；30年期美債收益率跌4.58個基點，報5.0907%。2/10年期美債收益率利差漲0.120個基點，報+32.549個基點。10年期通脹保值國債（TIPS）收益率跌4.18個基點，至2.4015%；兩年期TIPS收益率跌1.88個基點，至2.1480%；30年期TIPS收益率跌4.76個基點，至2.9265%。"
-    },
-    {
-      "id": "5012973",
-      "time": "2026-07-29 03:21:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【甘肅臨夏州積石山縣發生3.0級地震】中國地震臺網正式測定：7月29日03時01分在甘肅臨夏州積石山縣（北緯35.74度，東經102.77度）發生3.0級地震，震源深度8千米。（央視新聞）"
     }
   ]
 }
