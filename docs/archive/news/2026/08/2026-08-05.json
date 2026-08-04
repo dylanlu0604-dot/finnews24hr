@@ -1,7 +1,26 @@
 {
   "date": "2026-08-05",
-  "count": 464,
+  "count": 466,
   "items": [
+    {
+      "id": "5025440",
+      "time": "2026-08-05 06:40:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本128個地方議會提交意見書要求高市政府堅持“無核三原則”】據日本方面5日訊息，高市早苗政權上臺後，要求堅持日本國策“無核三原則”的地方議會意見書正在迅速增加。據日本參議院事務局統計，從高市政權於去年10月21日成立至今年7月28日期間，至少已有36個都道府縣的128個地方議會向國會提交了要求堅持無核三原則的意見書。這一數字創下了自2000年7月日本國會開始受理地方議會意見書以來，歷屆政權中的最高紀錄。（央視新聞）"
+    },
+    {
+      "id": "te:markets:572699",
+      "time": "2026-08-05 06:40:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Plunges by 5.97% — Top commodity losers are Rubber (-5.97%), Lumber (-2.41%) and Wheat (-1.92%). Gains are led by Cocoa (2.53%), Barley (2.03%) and Palm Oil (1.45%)."
+    },
     {
       "id": "5025439",
       "time": "2026-08-05 06:38:30",
