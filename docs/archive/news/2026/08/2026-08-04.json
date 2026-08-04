@@ -1,7 +1,86 @@
 {
   "date": "2026-08-04",
-  "count": 597,
+  "count": 605,
   "items": [
+    {
+      "id": "mkt:019fca60-18e4-7aab-8f61-16063118d775",
+      "time": "2026-08-04 09:25:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "At the China A-share open the Shanghai Composite was up 0.18%, the Shenzhen Composite up 0.93% and the ChiNext up 1.54%. Stocks tied to CPO, lithography-equipment and optical-fiber sectors led gains."
+    },
+    {
+      "id": "5023436",
+      "time": "2026-08-04 09:25:12",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指高開，滬指漲0.18％，深成指漲0.93％，創業板漲1.54％。"
+    },
+    {
+      "id": "5023435",
+      "time": "2026-08-04 09:24:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "藥明康德港股高開9.9%，上半年淨利同比增超三成並全面上調全年業績指引。"
+    },
+    {
+      "id": "5023434",
+      "time": "2026-08-04 09:23:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利歐股份新設子公司 含AI及積體電路業務】企查查APP顯示，近日，杭州利歐資訊科技服務有限公司成立，經營範圍包含：人工智慧行業應用系統整合服務；軟體開發；人工智慧基礎軟體開發；積體電路銷售；通訊裝置銷售等。企查查股權穿透顯示，該公司由利歐股份(002131)全資持股。"
+    },
+    {
+      "id": "mkt:019fca5e-69a0-7aab-8f61-08d886b2390c",
+      "time": "2026-08-04 09:23:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【PBOC open-market operations net withdraw CNY 559 bln on day】PBOC conducted CNY 46.5 bln of 7-day reverse repos today. CNY 305.5 bln of 7-day reverse repos and CNY 300 bln of overnight reverse repos matured, producing a net open-market liquidity withdrawal of CNY 559 bln."
+    },
+    {
+      "id": "5023433",
+      "time": "2026-08-04 09:22:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠5,590.0億元人民幣。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608043830616414",
+      "time": "2026-08-04 09:21:49",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展465億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "5023432",
+      "time": "2026-08-04 09:21:35",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "央行公告稱，開展465億元人民幣七天期逆回購操作，利率1.40%，與上次持平。"
+    },
     {
       "id": "mkt:019fca5c-981d-7aab-8f61-02504988d45d",
       "time": "2026-08-04 09:21:33",

@@ -1,7 +1,86 @@
 {
-  "updated": "2026-08-04 09:22:02",
-  "count": 17870,
+  "updated": "2026-08-04 09:26:01",
+  "count": 17871,
   "items": [
+    {
+      "id": "mkt:019fca60-18e4-7aab-8f61-16063118d775",
+      "time": "2026-08-04 09:25:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "At the China A-share open the Shanghai Composite was up 0.18%, the Shenzhen Composite up 0.93% and the ChiNext up 1.54%. Stocks tied to CPO, lithography-equipment and optical-fiber sectors led gains."
+    },
+    {
+      "id": "5023436",
+      "time": "2026-08-04 09:25:12",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指高開，滬指漲0.18％，深成指漲0.93％，創業板漲1.54％。"
+    },
+    {
+      "id": "5023435",
+      "time": "2026-08-04 09:24:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "藥明康德港股高開9.9%，上半年淨利同比增超三成並全面上調全年業績指引。"
+    },
+    {
+      "id": "5023434",
+      "time": "2026-08-04 09:23:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利歐股份新設子公司 含AI及積體電路業務】企查查APP顯示，近日，杭州利歐資訊科技服務有限公司成立，經營範圍包含：人工智慧行業應用系統整合服務；軟體開發；人工智慧基礎軟體開發；積體電路銷售；通訊裝置銷售等。企查查股權穿透顯示，該公司由利歐股份(002131)全資持股。"
+    },
+    {
+      "id": "mkt:019fca5e-69a0-7aab-8f61-08d886b2390c",
+      "time": "2026-08-04 09:23:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【PBOC open-market operations net withdraw CNY 559 bln on day】PBOC conducted CNY 46.5 bln of 7-day reverse repos today. CNY 305.5 bln of 7-day reverse repos and CNY 300 bln of overnight reverse repos matured, producing a net open-market liquidity withdrawal of CNY 559 bln."
+    },
+    {
+      "id": "5023433",
+      "time": "2026-08-04 09:22:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠5,590.0億元人民幣。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608043830616414",
+      "time": "2026-08-04 09:21:49",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展465億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "5023432",
+      "time": "2026-08-04 09:21:35",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "央行公告稱，開展465億元人民幣七天期逆回購操作，利率1.40%，與上次持平。"
+    },
     {
       "id": "mkt:019fca5c-981d-7aab-8f61-02504988d45d",
       "time": "2026-08-04 09:21:33",
@@ -165536,76 +165615,6 @@
         "WTI"
       ],
       "text": "China most-active fuel oil contract tumbled 6.0% intraday to 3,505 yuan/ton."
-    },
-    {
-      "id": "mkt:019fa653-fca8-7aab-8eb9-9127b0633b06",
-      "time": "2026-07-28 09:25:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "A-shares open: Shanghai Composite down 0.91%, Shenzhen Composite Index down 2.25%, ChiNext Index down 3.12%; Changxin C-shares opened down 7.7%."
-    },
-    {
-      "id": "5011119",
-      "time": "2026-07-28 09:25:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌6%，現報3505.00元。"
-    },
-    {
-      "id": "5011118",
-      "time": "2026-07-28 09:25:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東莞科建立源積體電路股權基金成立，出資額10億元】企查查APP顯示，近日，東莞科建立源積體電路股權投資基金合夥企業（有限合夥）成立，出資額10億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由東莞產業鏈發展母基金合夥企業（有限合夥）等共同出資。"
-    },
-    {
-      "id": "5011117",
-      "time": "2026-07-28 09:25:17",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "三大股指低開，滬指跌0.91％，深成指跌2.25％，創業板跌3.12％。"
-    },
-    {
-      "id": "5011116",
-      "time": "2026-07-28 09:23:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4050美元/盎司，日內跌0.65%。"
-    },
-    {
-      "id": "5011115",
-      "time": "2026-07-28 09:22:25",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放525.0億元人民幣。"
-    },
-    {
-      "id": "mkt:019fa650-c2a6-7aab-8eb9-8a2f6ed42fb0",
-      "time": "2026-07-28 09:22:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "FTSE China A50 index futures fell more than 1% in early trade."
     }
   ]
 }
