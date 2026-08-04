@@ -1,7 +1,116 @@
 {
   "date": "2026-08-04",
-  "count": 1408,
+  "count": 1420,
   "items": [
+    {
+      "id": "mkt:019fcbc3-fb8a-7aab-8f68-82036d623c68",
+      "time": "2026-08-04 15:54:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Abu Dhabi National Oil Company (ADNOC) and Schlumberger are deploying an AI platform across more than 120 drilling platforms to boost upstream operational performance."
+    },
+    {
+      "id": "5023999",
+      "time": "2026-08-04 15:53:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司（ADNOC）人工智慧驅動的實時運營中心已實現鑽井平臺聯網，可為該公司工程師提供鑽井作業的實時視覺化監控。"
+    },
+    {
+      "id": "5023998",
+      "time": "2026-08-04 15:53:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【常熟汽飾與克勞斯瑪菲戰略簽約】據常熟汽飾訊息，7月29日，常熟汽飾集團與克勞斯瑪菲舉行戰略合作簽約，正式建立長期戰略合作伙伴關係。此次合作旨在深度融合雙方在技術研發、產業資源、工藝裝備等方面的核心優勢，共同推動汽車產業的創新升級與高質量發展。"
+    },
+    {
+      "id": "5023997",
+      "time": "2026-08-04 15:53:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司（ADNOC）與斯倫貝謝（SLB）在超120座鑽井平臺部署人工智慧平臺，提升上游業務表現。"
+    },
+    {
+      "id": "te:markets:572429",
+      "time": "2026-08-04 15:53:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Advances to New Highs — The DAX 40 extended its run of gains into a fourth consecutive session on Tuesday, rising 0.8% to fresh record highs above 26,200. The ongoing earnings season remained in focus, while investors also tracked developments in the Middle East and weighed mixed signals from Washington and Tehran over prospects for peace negotiations. Among key movers, Bayer gained more than 4% after beating Q2 estimates and reaffirming its 2026 sales outlook."
+    },
+    {
+      "id": "5023995",
+      "time": "2026-08-04 15:52:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【商業銀行密集“減負”】根據銀行業信貸資產登記流轉中心公開資訊，今年以來，全行業不良貸款轉讓公告超過1080條，零售、對公等各類不良貸款批次“上架”，轉讓主體覆蓋國有大行、股份制銀行、地方性中小銀行等各類銀行機構。在此輪銀行業不良資產出清程序中，銀行處置路徑呈現明顯分化格局：國有大行依託市場化平臺開展批次轉讓，中小銀行則因地制宜推行“全員推介、全員清收”模式，多措並舉壓降不良貸款存量、緩釋經營風險。（金融時報）"
+    },
+    {
+      "id": "mkt:019fcbc2-0c38-7aab-8f68-7a9e9503dbca",
+      "time": "2026-08-04 15:51:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian food retailer Lenta said a downed drone caused a fire at its distribution center in the Leningrad region."
+    },
+    {
+      "id": "mkt:019fcbc1-fea2-7aab-8f68-705494f51fbd",
+      "time": "2026-08-04 15:51:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Greater China",
+        "Europe & UK",
+        "VOLV-B.ST",
+        "Impact mixed"
+      ],
+      "text": "【Volvo Cars sold 164,663 vehicles May–July, down 4% YoY】Volvo Cars said it sold 164,663 vehicles in May–July, down 4% YoY. US sales recovered for a third consecutive month, posting double-digit growth; China demand remained weak and weighed on total volumes. Europe, Volvo's largest region, delivered stable volumes with modest growth. The company said it is maintaining price discipline in Europe and continues to see rising retail orders for battery-electric vehicles."
+    },
+    {
+      "id": "5023994",
+      "time": "2026-08-04 15:51:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【六國化工：收到上交所終止定增稽核決定】六國化工公告稱，公司於2026年7月30日決定終止2025年度向特定物件發行A股股票事項，並向上海證券交易所申請撤回相關檔案。公司和保薦人國泰海通證券分別提交撤回申請和撤銷保薦工作的申請。近日，公司收到上交所出具的決定，根據相關規定，上交所決定終止對公司向特定物件發行股票的稽核。"
+    },
+    {
+      "id": "mkt:019fcbc1-cb26-7aab-8f68-6c13aec05615",
+      "time": "2026-08-04 15:51:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ARAMCO CEO says shipping oil to Asia via the Suez Canal takes 20-25 days longer than via the Strait of Hormuz."
+    },
+    {
+      "id": "5023993",
+      "time": "2026-08-04 15:51:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【公牛集團：截至7月末累計斥資2.39億元回購606.22萬股】公牛集團公告稱，公司於4月28日透過以集中競價交易方式回購股份議案，回購金額2-4億元，用於股權激勵或員工持股計劃，回購期限至2027年4月27日。截至7月末，公司累計回購股份606.22萬股，佔總股本0.34%，支付金額23,956.64萬元，回購價格38.13-40元/股。7月回購14.09萬股，支付545.87萬元。"
+    },
+    {
+      "id": "5023992",
+      "time": "2026-08-04 15:51:21",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【花旗：建滔積層板估值吸引 重申“買入”評級 料CCL生產商掀新一波加價潮】花旗釋出研報稱，最新大宗商品資料顯示，8月份1080系列電子級玻璃纖維布銷售均價環比上升17%至18%，為年初至今最大漲幅，年內電子級玻璃纖維布價格累計漲幅達118%至165%，認為AI需求強勁帶動部分產品需求，導致廠商將產能從非AI產品轉向AI玻璃纖維布，行業供應緊張程度進一步加劇。該行認為建滔積層板當前估值吸引，僅相當於預測明年市盈率約7倍，明年股息率料逾7%，維持“買入”評級及目標價130港元不變，對應2027年預測市盈率約28至29倍。"
+    },
     {
       "id": "5023991",
       "time": "2026-08-04 15:49:49",
