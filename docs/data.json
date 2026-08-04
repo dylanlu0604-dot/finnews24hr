@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-04 16:18:25",
-  "count": 17755,
+  "updated": "2026-08-04 16:22:17",
+  "count": 17757,
   "items": [
+    {
+      "id": "mkt:019fcbdd-381f-7aab-8f69-51e68daf0b1b",
+      "time": "2026-08-04 16:21:39",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "【CITIGROUP: AI worries weigh on US equities; European risk appetite rebounds】Citigroup strategist David Chew says Europe is the only major region showing a clear improvement in risk appetite recently, supported by fresh inflows and stronger-than-expected corporate earnings. Last week positioning rose across all major European indices while US positioning indicators signalled weakening investor confidence amid AI-related concerns. In Asia AI fears have driven divergent positioning; South Korea’s benchmark has moved into extreme bearish territory. Chew notes Euro STOXX 50 positioning was unusually stable through July versus larger adjustments in US indices, and overall market positioning remains positive rather than overheated. He adds Europe has also benefited from the ECB’s decision to hold rates."
+    },
+    {
+      "id": "te:markets:572457",
+      "time": "2026-08-04 16:21:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Pound Holds Steady as Markets Await Middle East Clarity — The British pound steadied around $1.34 as investors remained cautious, awaiting greater clarity on the Middle East peace process. Sterling found support after US President Donald Trump called off planned strikes on Iran, signaling that a diplomatic resolution to the conflict remained possible, although uncertainty persisted after Tehran denied any ongoing or planned negotiations. Meanwhile, last week's Bank of England meeting reinforced expectations that policymakers are in no rush to tighten monetary policy, prompting markets to scale back bets on interest rate hikes in 2026. The BoE voted 6-3 to keep interest rates unchanged, with three members favoring a hike versus expectations for a 7-2 split. However, Governor Andrew Bailey downplayed the prospect of an imminent tightening cycle, saying the disinflation process remains on track, while some policymakers suggested rate cuts could return to the agenda if tensions in the Middle East ease."
+    },
+    {
+      "id": "5024079",
+      "time": "2026-08-04 16:21:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油：英國油氣政策不會改變公司出售北海資產的決定。"
+    },
+    {
+      "id": "5024078",
+      "time": "2026-08-04 16:21:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪：宋Pro DM-i 飛馳版持續領先，7月熱銷20888輛。"
+    },
+    {
+      "id": "mkt:019fcbdc-1f02-7aab-8f69-4c37bbb05e0a",
+      "time": "2026-08-04 16:20:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BP CEO says choice of listing venue is not on the agenda."
+    },
+    {
+      "id": "5024077",
+      "time": "2026-08-04 16:18:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油執行長表示，英國是其業務的重要組成部分，“在很大程度上就是我們的總部所在”。"
+    },
+    {
+      "id": "5024076",
+      "time": "2026-08-04 16:18:47",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "南非財政部：財政收入高於預算預估水平。"
+    },
+    {
+      "id": "5024075",
+      "time": "2026-08-04 16:18:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愷望資料完成逾億元新一輪戰略融資】8月4日，全鏈路AI資料基建科技公司愷望資料宣佈完成逾億元規模的新一輪戰略融資。本輪融資資金計劃將重點投向一體化資料交易平臺研發、世界模型專項技術人才引進，以及深入商業、工業、家庭三大重點領域真實場景的規模化資料產能擴建。"
+    },
     {
       "id": "5024074",
       "time": "2026-08-04 16:17:46",
@@ -164415,58 +164488,6 @@
         "公司"
       ],
       "text": "六福證券（香港）有限公司因網路保安監控措施不足以抵禦網路攻擊，遭香港證監會譴責及罰款210萬元。"
-    },
-    {
-      "id": "5011914",
-      "time": "2026-07-28 16:21:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【墨西哥對原產於中國的鋼盤條啟動反傾銷日落複審調查】近日，墨西哥經濟部發布公告稱，應墨西哥生產商Deacero, S.A.P.I. de C.V.和Ternium México, S.A. de C.V.申請，對原產於中國的鋼盤條啟動反傾銷第二次日落複審調查。本案傾銷調查期為2025年7月1日至2026年6月30日，損害調查期為2021年7月1日至2026年6月30日。涉案產品的TIGIE稅號為7213.10.01、7213.20.91、7213.91.03、7213.99.99、7227.10.01、7227.20.01、7227.90.99。案件調查期間，現行反傾銷稅持續有效。公告自發布次日起生效。"
-    },
-    {
-      "id": "5011913",
-      "time": "2026-07-28 16:21:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江西6月末本外幣各項存款餘額72172億元，同比增長7.4%】6月末，全省本外幣各項存款餘額72172億元，同比增長7.4%。上半年，全省本外幣各項存款增加4270億元。分結構看，住戶和企業存款均保持增長，非金融企業存款上半年新增1143億元，同比多增634億元，其中企業活期存款大幅多增413億元，企業資金活化程度提升，經營活躍度有所改善；住戶存款平穩增長，比年初增加2610億元，餘額同比增長8.5%。三是社會融資規模增量合理增長。初步統計，1-6月，江西省社會融資規模增量5016億元。從結構看，企業直接融資同比多增較多，1-6月，企業直接融資增加267億元，同比多210億元，其中，非金融企業債券淨融資206億元，同比多168億元；非金融企業股票融資61億元，同比多42億元。（江西釋出）"
-    },
-    {
-      "id": "5011912",
-      "time": "2026-07-28 16:20:19",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "日本地震發生後臺積電熊本工廠人員已疏散。"
-    },
-    {
-      "id": "5011911",
-      "time": "2026-07-28 16:19:04",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【華電國際：完成13億元科技創新可續期公司債券（第一期）發行】華電國際公告稱，公司近日完成2026年面向專業投資者公開發行科技創新可續期公司債券（第一期）發行，發行金額13億元，期限2+N年，票面利率1.63%。該債券由中信建投等6家公司為主承銷商，在上交所公開發行。募資扣除發行費用後，擬用於償還有息債務、補充流動資金等生產性支出。"
-    },
-    {
-      "id": "5011910",
-      "time": "2026-07-28 16:19:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【藍特光學：海外子公司及孫公司投資專案完成備案】藍特光學公告稱，2026年1月，公司擬使用不超6000萬美元（約4.20億元）自有資金，在新加坡設子公司、馬來西亞設孫公司。2月和3月，兩地子公司分別完成設立。7月，投資總額調減至不超2600萬美元（約1.82億元）。近日，公司已收到相關部門出具的備案通知書和投資證書，並完成外匯備案登記。該投資符合戰略佈局，但因當地差異及不確定因素，存在一定風險。"
-    },
-    {
-      "id": "5011909",
-      "time": "2026-07-28 16:18:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "義大利將動用149億歐元歐盟安全基金。"
     }
   ]
 }
