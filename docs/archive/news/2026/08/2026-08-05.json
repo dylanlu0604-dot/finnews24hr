@@ -1,7 +1,35 @@
 {
   "date": "2026-08-05",
-  "count": 456,
+  "count": 459,
   "items": [
+    {
+      "id": "te:markets:572697",
+      "time": "2026-08-05 06:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Naphtha Slumps by 6.73% — Top commodity losers are Naphtha (-6.73%), Crude Oil WTI (-6.26%) and Brent Crude Oil (-5.83%). Gains are led by Methanol (0.55%)."
+    },
+    {
+      "id": "5025435",
+      "time": "2026-08-05 06:29:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院多數黨領袖圖恩暗示其將參加2028年總統大選。"
+    },
+    {
+      "id": "5025434",
+      "time": "2026-08-05 06:28:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4080美元/盎司，日內漲0.05%。"
+    },
     {
       "id": "5025433",
       "time": "2026-08-05 06:19:19",

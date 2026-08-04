@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-05 06:27:26",
-  "count": 17898,
+  "updated": "2026-08-05 06:31:20",
+  "count": 17897,
   "items": [
+    {
+      "id": "te:markets:572697",
+      "time": "2026-08-05 06:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Naphtha Slumps by 6.73% — Top commodity losers are Naphtha (-6.73%), Crude Oil WTI (-6.26%) and Brent Crude Oil (-5.83%). Gains are led by Methanol (0.55%)."
+    },
+    {
+      "id": "5025435",
+      "time": "2026-08-05 06:29:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院多數黨領袖圖恩暗示其將參加2028年總統大選。"
+    },
+    {
+      "id": "5025434",
+      "time": "2026-08-05 06:28:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4080美元/盎司，日內漲0.05%。"
+    },
     {
       "id": "5025433",
       "time": "2026-08-05 06:19:19",
@@ -165528,48 +165556,6 @@
         "公司"
       ],
       "text": "【知名基金經理頻出手，醫藥板塊關注度升溫】在近期的科技股震盪行情中，醫藥板塊的關注度悄然升溫。從最新動向看，謝治宇、朱少醒等多位知名基金經理積極出手，透過定增買入醫藥股。從資金流向看，近期大量資金湧入創新藥主題ETF。據Choice測算，7月1日至27日，創新藥主題ETF合計資金淨流入141.62億元。從總體來看，公募基金對醫藥板塊的配置比例仍處於歷史低位。據興業證券測算，截至二季度末，A+H股醫藥板塊主動基金持倉比例為6.33%，季度環比下降3.39個百分點。從持倉結構來看，主要集中於創新藥相關公司。（上證報）"
-    },
-    {
-      "id": "te:markets:570512",
-      "time": "2026-07-29 06:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Falls by 4.63% — Top commodity losers are Natural gas (-4.63%), Natural Gas UK (-4.47%), Naphtha (-4.06%) and Brent Crude Oil (-1.06%). Gains are led by Heating Oil (2.94%), Ethanol (1.04%), Gasoline (1.03%) and Crude Oil WTI (0.07%)."
-    },
-    {
-      "id": "mkt:019faad8-4ec1-7aab-8ed5-faa5c5b4703f",
-      "time": "2026-07-29 06:28:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "WTI"
-      ],
-      "text": "CENTCOM said at 5:45 p.m. ET today Iran's Islamic Revolutionary Guard Corps launched multiple ballistic missiles from Iran aimed at US forces in the Middle East; all missiles were successfully intercepted. US forces remain vigilant and on high alert."
-    },
-    {
-      "id": "5013042",
-      "time": "2026-07-29 06:28:23",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美軍方： 伊朗發射的所有導彈均已成功攔截。"
-    },
-    {
-      "id": "5013041",
-      "time": "2026-07-29 06:28:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美軍方：美國東部時間今日 17 點 45 分，伊朗伊斯蘭革命衛隊從伊朗本土發射多枚彈道導彈。"
     }
   ]
 }
