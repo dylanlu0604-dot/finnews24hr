@@ -1,7 +1,110 @@
 {
   "date": "2026-08-05",
-  "count": 73,
+  "count": 84,
   "items": [
+    {
+      "id": "5025197",
+      "time": "2026-08-05 01:01:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數漲幅擴大至3%，創下盤中新高。"
+    },
+    {
+      "id": "mkt:019fcdb9-1bc2-7aab-8f74-f9d4d89593e4",
+      "time": "2026-08-05 01:01:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Codelco said it has taken precautionary safety measures and temporarily suspended the Andes Norte project."
+    },
+    {
+      "id": "mkt:019fcdb8-c38b-7aab-8f74-f125cfe4d9f0",
+      "time": "2026-08-05 01:01:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. State Department said a new round of U.S.-facilitated talks between Israel and Lebanon began in Rome today and will run through Aug. 6."
+    },
+    {
+      "id": "5025196",
+      "time": "2026-08-05 01:00:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4096.27美元/盎司。"
+    },
+    {
+      "id": "mkt:019fcdb8-8f97-7aab-8f74-eea136f46853",
+      "time": "2026-08-05 01:00:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose 1.00% intraday to $4,096.28/oz."
+    },
+    {
+      "id": "5025195",
+      "time": "2026-08-05 01:00:50",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：由美國斡旋的以黎最新一輪談判今日在羅馬啟動，將持續至 8 月 6 日。"
+    },
+    {
+      "id": "mkt:019fcdb8-8122-7aab-8f74-e37f56c3ecb5",
+      "time": "2026-08-05 01:00:48",
+      "tags": [
+        "MKT News",
+        "PG.N",
+        "Impact mixed"
+      ],
+      "text": "Thorne and Procter & Gamble (PG.N) reached a definitive acquisition agreement."
+    },
+    {
+      "id": "5025194",
+      "time": "2026-08-05 01:00:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國方面：以色列與黎巴嫩談判於今日啟動，將持續至 8 月 6 日。"
+    },
+    {
+      "id": "mkt:019fcdb7-fb91-7aab-8f74-de2831822e09",
+      "time": "2026-08-05 01:00:14",
+      "tags": [
+        "MKT News",
+        "IDEX.PA",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan's purchase of an Antin unit is expected to set Idex's enterprise value, including debt, at about €3.8bln; the deal may be announced in the coming days."
+    },
+    {
+      "id": "5025193",
+      "time": "2026-08-05 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.76%，滬銅收漲0.68%，滬鋁收漲0.08%，滬鋅收漲0.84%，滬鉛收漲1.79%，滬鎳收跌0.75%，滬錫收漲0.63%。氧化鋁夜盤收漲0.19%，鋁合金收漲0.09%。不鏽鋼夜盤收跌1.25%。"
+    },
+    {
+      "id": "mkt:019fcdb7-60c0-7aab-8f74-d0e7912cc576",
+      "time": "2026-08-05 00:59:34",
+      "tags": [
+        "MKT News",
+        "NVO.N",
+        "Impact bullish"
+      ],
+      "text": "【Novo Nordisk raises guidance for second time this year】Novo Nordisk (NVO.N) raised its full-year guidance for the second time this year, citing higher sales expectations for its obesity and diabetes medicines. Adjusted operating profit for Q2 2026 was DKK 33.389bn. The company now expects maximum declines in sales and profit of 6% this year at constant currency, narrowed from a prior worst-case of a 12% decline. Novo Nordisk said it is competing with Eli Lilly (LLY.N) in the obesity market, which it expects could reach about $120bn a year by 2030."
+    },
     {
       "id": "mkt:019fcdb6-101c-7aab-8f74-cee2307e939f",
       "time": "2026-08-05 00:58:08",
