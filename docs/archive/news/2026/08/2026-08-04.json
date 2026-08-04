@@ -1,7 +1,125 @@
 {
   "date": "2026-08-04",
-  "count": 695,
+  "count": 714,
   "items": [
+    {
+      "id": "mkt:019fca7c-7b22-7aab-8f62-1d71e045c0e2",
+      "time": "2026-08-04 09:56:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【State Administration for Market Regulation names 20 regions, including Beijing and Shanghai, as national trade-secret protection innovation pilots】The State Administration for Market Regulation issued a notice promoting nationwide best practices in trade-secret protection and designated 20 locales as the first batch of national trade-secret protection innovation pilots: Beijing (Haidian and Tongzhou districts), Tianjin Binhai New Area, Shanghai (Pudong New Area and Fengxian District), Nanjing, Wuxi, Suzhou, Hangzhou, Ningbo, Wenzhou, Hefei, Xiamen Haicang District, Wuhan, Changsha, Guangzhou, Shenzhen, Foshan, Chongqing Jiangjin District, and Chengdu Wuhou District."
+    },
+    {
+      "id": "5023508",
+      "time": "2026-08-04 09:56:14",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數日內再度漲超1%，此前韓國財政部長承諾緩解股市波動。"
+    },
+    {
+      "id": "mkt:019fca7c-5204-7aab-8f62-13a714137cc8",
+      "time": "2026-08-04 09:56:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI rose more than 1% intraday again after the finance minister pledged to ease equity-market volatility."
+    },
+    {
+      "id": "5023507",
+      "time": "2026-08-04 09:56:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【力合科技等成立新公司 含智慧機器人業務】企查查APP顯示，近日，北京匯合數科科技有限公司成立，經營範圍包含智慧機器人的研發；智慧機器人銷售；環境保護監測；生態資源監測等。企查查股權穿透顯示，該公司由力合科技(300800)等共同持股。"
+    },
+    {
+      "id": "5023506",
+      "time": "2026-08-04 09:55:58",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局：北京、上海等20地確定為全國商業秘密保護創新試點】市場監管總局辦公廳釋出關於推廣全國商業秘密保護創新試點典型經驗做法的通知。其中，北京市海淀區、北京市通州區、天津市濱海高新區、上海市浦東新區、上海市奉賢區、江蘇省南京市、江蘇省無錫市、江蘇省蘇州市、浙江省杭州市、浙江省寧波市、浙江省溫州市、安徽省合肥市、福建省廈門市海滄區、湖北省武漢市、湖南省長沙市、廣東省廣州市、廣東省深圳市、廣東省佛山市、重慶市江津區、四川省成都市武侯區確定為第一批全國商業秘密保護創新試點。（市場監管總局）"
+    },
+    {
+      "id": "mkt:019fca7b-fa72-7aab-8f62-083bb840d9e7",
+      "time": "2026-08-04 09:55:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. threats escalated but not carried out; analyst says Iran sees itself advantaged】Mona Yacoubian, director of the Middle East program at the Center for Strategic and International Studies, said repeated instances in which the Trump administration escalated threats but then held fire have led Iran to conclude it holds the upper hand in the confrontation. She identified a recurring pattern—military escalation, announced but unrealized diplomatic breakthroughs, then a return to threats—that reinforces Tehran’s perception. Yacoubian added the latest U.S. strike was likely delayed after Gulf allies warned further escalation could prompt Iran to target regional infrastructure and energy assets."
+    },
+    {
+      "id": "5023505",
+      "time": "2026-08-04 09:55:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "TELEGRAM：已在應用商店恢復上架，應該很快就能重新向所有使用者開放。"
+    },
+    {
+      "id": "5023504",
+      "time": "2026-08-04 09:53:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：阿里巴巴投資的3D建模初創公司VAST正考慮在香港上市。"
+    },
+    {
+      "id": "5023503",
+      "time": "2026-08-04 09:53:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "滬深300股指期貨(IF)主力合約日內漲超1%，現報4552.2點。"
+    },
+    {
+      "id": "5023502",
+      "time": "2026-08-04 09:53:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報58.79美元/盎司。"
+    },
+    {
+      "id": "5023501",
+      "time": "2026-08-04 09:53:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報59.02美元/盎司。"
+    },
+    {
+      "id": "5023500",
+      "time": "2026-08-04 09:53:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨上漲0.4%。"
+    },
+    {
+      "id": "5023499",
+      "time": "2026-08-04 09:52:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破59美元/盎司，日內漲1.98%。"
+    },
+    {
+      "id": "5023498",
+      "time": "2026-08-04 09:51:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "高市早苗稱日本將動用超過200億日元的儲備資金應對地震。"
+    },
     {
       "id": "mkt:019fca78-14c8-7aab-8f62-04b3fb52dd88",
       "time": "2026-08-04 09:51:34",
@@ -16,6 +134,41 @@
       "text": "【Yen rescue may carry a cost; US could seek concessions from Japan】President Trump called the first coordinated US–Japan yen purchases in decades a “signal of friendship.” Treasury Secretary Bessent said the Trump administration will “deliver on commitments to trusted partners.” Analysts warn Washington’s intervention is unlikely to be free: they say support for the yen — lifted from near 40‑year lows — may be tied to US strategic aims including bolstering Prime Minister TAKAICHI amid weak polls, pressing Japan to follow through on a previously pledged $550bn investment package into the US and to yield more in trade talks. Bessent has voiced worry about spillovers to the $31trn US Treasury market; he has identified the 10‑year yield as his key gauge, and the 10‑year yield hit the highest level of his tenure on Friday, the same day as the yen intervention."
     },
     {
+      "id": "5023497",
+      "time": "2026-08-04 09:50:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中證1000股指期貨(IM)主力合約日內漲超2%】中證1000股指期貨(IM)主力合約日內漲超2%，現報7171.8點。"
+    },
+    {
+      "id": "5023496",
+      "time": "2026-08-04 09:49:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "AI應用端反覆走強，恆銀科技3連板，米奧會展漲超10%，漢儀股份、利歐股份、通達海、光雲科技、普元資訊漲幅靠前。"
+    },
+    {
+      "id": "5023495",
+      "time": "2026-08-04 09:49:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【腦機介面板塊短線拉昇，創新醫療漲停】腦機介面板塊短線拉昇，創新醫療漲停，優刻得、倍益康、亞華電子、菲沃泰、愛朋醫療跟漲。"
+    },
+    {
+      "id": "5023494",
+      "time": "2026-08-04 09:49:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲2%，現報7164.80點。"
+    },
+    {
       "id": "te:economy:572324",
       "time": "2026-08-04 09:49:26",
       "tags": [
@@ -26,6 +179,15 @@
         "Importance 1"
       ],
       "text": "Morocco Jobless Rate at 9.5% in Q2 — The strict unemployment rate in Morocco stood at 9.5% in the second quarter of 2026, with 1.117 million unemployed out of a labor force of 11.76 million. The unemployment rate was higher among women at 14.8%, compared to 8.1% for men, while youth unemployment among those aged 15–24 remained elevated at 27.2%. Meanwhile, employment totaled 10.64 million, while the participation rate came in at 38.2%. The services sector remained the largest employer, accounting for 5.251 million jobs, or 49.3% of total employment, followed by agriculture (2.569 million), industry (1.456 million), and construction (1.356 million). The figures are based on the newly introduced EMO 2026 labour force survey, introduced in the first quarter of 2026, which applies updated international standards."
+    },
+    {
+      "id": "5023493",
+      "time": "2026-08-04 09:49:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【元件板塊走高，中京電子漲停】元件板塊走高，中京電子漲停，紅板科技、三環集團、迅捷興、艾華集團、生益科技等紛紛走高。"
     },
     {
       "id": "mkt:019fca75-c5c8-7aab-8f61-fb2c6e0bbc5d",
