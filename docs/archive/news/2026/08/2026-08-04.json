@@ -1,7 +1,62 @@
 {
   "date": "2026-08-04",
-  "count": 590,
+  "count": 597,
   "items": [
+    {
+      "id": "mkt:019fca5c-981d-7aab-8f61-02504988d45d",
+      "time": "2026-08-04 09:21:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Aug 4 (Tue) Hong Kong: HSI opened up 81.58 pts (+0.31%) at 26,090.98; Hang Seng Tech Index opened up 14.73 pts (+0.30%) at 4,890.34; Hang Seng China Enterprises Index (HSCEI) opened up 15.79 pts (+0.18%) at 8,667.94; Hang Seng Red‑Chip Index opened up 13.75 pts (+0.33%) at 4,189.71."
+    },
+    {
+      "id": "mkt:019fca5c-91f2-7aab-8f60-fe5403e2cdaf",
+      "time": "2026-08-04 09:21:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PBOC conducted a CNY 46.5 bln 7-day reverse repo today; bids and allotment both CNY 46.5 bln; rate 1.40%, unchanged."
+    },
+    {
+      "id": "5023431",
+      "time": "2026-08-04 09:21:25",
+      "tags": [],
+      "text": "港股恒指高開漲0.31％，國企指數漲0.18％，科指開漲0.3%。"
+    },
+    {
+      "id": "mkt:019fca5c-69ea-7aab-8f60-f7fe9ee9b696",
+      "time": "2026-08-04 09:21:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish",
+        "02359.HK",
+        "03308.HK"
+      ],
+      "text": "Hong Kong open: Hang Seng up 0.31%, Hang Seng Tech up 0.3%. WuXi AppTec (02359.HK) rose about 10% after results; Zhongji Xuchuang (03308.HK) gained over 9%."
+    },
+    {
+      "id": "te:markets:572313",
+      "time": "2026-08-04 09:21:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Natural Gas Holds Decline — European natural gas prices steadied around €58 per MWh on Tuesday after sliding in the previous session, as traders closely watched the Middle East negotiations for signs of progress toward reopening the Strait of Hormuz. President Donald Trump said his latest offer of talks was Iran's \"last chance\" to reach a deal and avoid large-scale air strikes. Tehran, however, denied holding talks with Washington, though it said discussions with Oman aimed at facilitating shipping through the strategic waterway were making progress. The conflict has disrupted roughly one-fifth of global LNG supply, intensifying competition between European and Asian buyers for cargoes and hampering Europe's efforts to rebuild gas inventories ahead of winter. As a result, European gas storage levels have fallen to their lowest for this time of year in nearly two decades, heightening concerns over the region's gas supply security as the heating season draws closer."
+    },
+    {
+      "id": "5023429",
+      "time": "2026-08-04 09:17:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲2%，現報890.00元。"
+    },
     {
       "id": "mkt:019fca57-af39-7aab-8f60-edd7141f3af2",
       "time": "2026-08-04 09:16:11",
@@ -20,6 +75,14 @@
         "國際"
       ],
       "text": "10年期日本國債收益率下跌3.0個基點，至2.790%。"
+    },
+    {
+      "id": "5023427",
+      "time": "2026-08-04 09:15:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商湯科技與教育部教育技術與資源發展中心達成戰略合作】近日，商湯科技與教育部教育技術與資源發展中心（中央電化教育館）正式簽署戰略合作框架協議。雙方計劃在推動技術在教育公共服務領域應用、促進教育技術與教育教學資源深度融合、賦能國家級教育服務平臺智慧化建設等領域開展合作。"
     },
     {
       "id": "5023426",

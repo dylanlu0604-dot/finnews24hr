@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-04 09:18:01",
-  "count": 17876,
+  "updated": "2026-08-04 09:22:02",
+  "count": 17870,
   "items": [
+    {
+      "id": "mkt:019fca5c-981d-7aab-8f61-02504988d45d",
+      "time": "2026-08-04 09:21:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Aug 4 (Tue) Hong Kong: HSI opened up 81.58 pts (+0.31%) at 26,090.98; Hang Seng Tech Index opened up 14.73 pts (+0.30%) at 4,890.34; Hang Seng China Enterprises Index (HSCEI) opened up 15.79 pts (+0.18%) at 8,667.94; Hang Seng Red‑Chip Index opened up 13.75 pts (+0.33%) at 4,189.71."
+    },
+    {
+      "id": "mkt:019fca5c-91f2-7aab-8f60-fe5403e2cdaf",
+      "time": "2026-08-04 09:21:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PBOC conducted a CNY 46.5 bln 7-day reverse repo today; bids and allotment both CNY 46.5 bln; rate 1.40%, unchanged."
+    },
+    {
+      "id": "5023431",
+      "time": "2026-08-04 09:21:25",
+      "tags": [],
+      "text": "港股恒指高開漲0.31％，國企指數漲0.18％，科指開漲0.3%。"
+    },
+    {
+      "id": "mkt:019fca5c-69ea-7aab-8f60-f7fe9ee9b696",
+      "time": "2026-08-04 09:21:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish",
+        "02359.HK",
+        "03308.HK"
+      ],
+      "text": "Hong Kong open: Hang Seng up 0.31%, Hang Seng Tech up 0.3%. WuXi AppTec (02359.HK) rose about 10% after results; Zhongji Xuchuang (03308.HK) gained over 9%."
+    },
+    {
+      "id": "te:markets:572313",
+      "time": "2026-08-04 09:21:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Natural Gas Holds Decline — European natural gas prices steadied around €58 per MWh on Tuesday after sliding in the previous session, as traders closely watched the Middle East negotiations for signs of progress toward reopening the Strait of Hormuz. President Donald Trump said his latest offer of talks was Iran's \"last chance\" to reach a deal and avoid large-scale air strikes. Tehran, however, denied holding talks with Washington, though it said discussions with Oman aimed at facilitating shipping through the strategic waterway were making progress. The conflict has disrupted roughly one-fifth of global LNG supply, intensifying competition between European and Asian buyers for cargoes and hampering Europe's efforts to rebuild gas inventories ahead of winter. As a result, European gas storage levels have fallen to their lowest for this time of year in nearly two decades, heightening concerns over the region's gas supply security as the heating season draws closer."
+    },
+    {
+      "id": "5023429",
+      "time": "2026-08-04 09:17:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲2%，現報890.00元。"
+    },
     {
       "id": "mkt:019fca57-af39-7aab-8f60-edd7141f3af2",
       "time": "2026-08-04 09:16:11",
@@ -20,6 +75,14 @@
         "國際"
       ],
       "text": "10年期日本國債收益率下跌3.0個基點，至2.790%。"
+    },
+    {
+      "id": "5023427",
+      "time": "2026-08-04 09:15:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商湯科技與教育部教育技術與資源發展中心達成戰略合作】近日，商湯科技與教育部教育技術與資源發展中心（中央電化教育館）正式簽署戰略合作框架協議。雙方計劃在推動技術在教育公共服務領域應用、促進教育技術與教育教學資源深度融合、賦能國家級教育服務平臺智慧化建設等領域開展合作。"
     },
     {
       "id": "5023426",
@@ -165543,130 +165606,6 @@
         "Impact bearish"
       ],
       "text": "FTSE China A50 index futures fell more than 1% in early trade."
-    },
-    {
-      "id": "mkt:019fa650-6c69-7aab-8eb9-830a2ebac000",
-      "time": "2026-07-28 09:21:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold slipped below $4,050/oz, down 0.65% intraday."
-    },
-    {
-      "id": "em:qqyh_zgyh:202607283822967895",
-      "time": "2026-07-28 09:21:43",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展3055億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "5011114",
-      "time": "2026-07-28 09:21:33",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指高開漲0.26％，國企指數漲0.38％，科指開漲0.64%。"
-    },
-    {
-      "id": "5011113",
-      "time": "2026-07-28 09:21:30",
-      "tags": [
-        "央行"
-      ],
-      "text": "中國央行今日開展3055億元7天逆回購操作，投標量3055億元，中標量3055億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019fa64f-ff1a-7aab-8eb9-7a818dfce610",
-      "time": "2026-07-28 09:21:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH"
-      ],
-      "text": "PBOC conducted a CNY 305.5 billion 7-day reverse repo today; bids and allotment both CNY 305.5 billion, operation rate 1.40%, unchanged from the previous operation."
-    },
-    {
-      "id": "mkt:019fa64f-fdc8-7aab-8eb9-71fa0ebe6ea4",
-      "time": "2026-07-28 09:21:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hang Seng Index",
-        "Impact bullish",
-        "01093.HK",
-        "02015.HK"
-      ],
-      "text": "At the Hong Kong open, the Hang Seng Index rose 0.26% and the Hang Seng Tech Index rose 0.64%; CSPC Pharma (01093.HK) and Li Auto (02015.HK) advanced over 3%, while Laopu Gold (06181.HK) tumbled nearly 13%."
-    },
-    {
-      "id": "mkt:019fa64f-eecc-7aab-8eb9-6e7e41e4b910",
-      "time": "2026-07-28 09:21:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "HSCEI"
-      ],
-      "text": "Hong Kong indices opened July 28: HSI +64.77 points (+0.26 pct) at 25,271.95; Hang Seng Tech +29.89 points (+0.64 pct) at 4,731.94; HSCEI +31.61 points (+0.38 pct) at 8,396.99; Red Chip Index -8.43 points (-0.20 pct) at 4,117.35."
-    },
-    {
-      "id": "5011112",
-      "time": "2026-07-28 09:21:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌2%，現報57.18美元/盎司。"
-    },
-    {
-      "id": "5011111",
-      "time": "2026-07-28 09:21:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4110美元/盎司，日內跌0.64%。"
-    },
-    {
-      "id": "5011110",
-      "time": "2026-07-28 09:20:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌2%，現報57.53美元/盎司。"
-    },
-    {
-      "id": "5011109",
-      "time": "2026-07-28 09:20:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨跌幅擴大至1%。"
-    },
-    {
-      "id": "5011108",
-      "time": "2026-07-28 09:19:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遠大智慧：博林特中標53臺組屋電梯更新專案】據遠大智慧訊息，近日，博林特電梯成功中標荷蘭—武吉班讓市鎮理事會（HBPTC）53臺組屋電梯更新改造專案。"
-    },
-    {
-      "id": "5011107",
-      "time": "2026-07-28 09:18:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盛吉盛半導體啟動IPO輔導】證監會網站披露，盛吉盛半導體科技股份有限公司於2026年7月27日在寧波證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為國泰海通證券。"
     }
   ]
 }
