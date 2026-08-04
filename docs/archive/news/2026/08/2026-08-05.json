@@ -1,7 +1,111 @@
 {
   "date": "2026-08-05",
-  "count": 278,
+  "count": 290,
   "items": [
+    {
+      "id": "5025319",
+      "time": "2026-08-05 04:39:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思與副部長範伯格週二上午向參議院共和黨議員舉行涉密簡報會。"
+    },
+    {
+      "id": "5025318",
+      "time": "2026-08-05 04:38:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：SpaceX預計發射的V3衛星數量將比V2多一個數量級。"
+    },
+    {
+      "id": "5025317",
+      "time": "2026-08-05 04:37:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：星鏈V3衛星的能力比V2高出一個數量級。"
+    },
+    {
+      "id": "mkt:019fce7e-9f94-7aab-8f77-274f9338021d",
+      "time": "2026-08-05 04:37:12",
+      "tags": [
+        "MKT News",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "Musk said we encourage competitors to copy us."
+    },
+    {
+      "id": "mkt:019fce7e-9985-7aab-8f77-1f41f2901ced",
+      "time": "2026-08-05 04:37:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said SpaceX’s Starship aims to carry more than 1 mln tonnes of payload to orbit annually, with potential to reach 10 mln tonnes over time."
+    },
+    {
+      "id": "5025316",
+      "time": "2026-08-05 04:37:01",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "馬斯克：星艦目標是每年向軌道輸送100萬噸以上載荷，目標上限或可達1000萬噸。"
+    },
+    {
+      "id": "5025315",
+      "time": "2026-08-05 04:36:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "Pinterest執行長：我們平臺上超過96%的文字搜尋是非品牌搜尋。"
+    },
+    {
+      "id": "5025314",
+      "time": "2026-08-05 04:36:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：SpaceX今年迄今又迎來一個里程碑年份。"
+    },
+    {
+      "id": "mkt:019fce7d-ad5f-7aab-8f77-11398dc5a799",
+      "time": "2026-08-05 04:36:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said SpaceX will launch the first batch of Starlink V3 satellites into orbit on the next Starship flight."
+    },
+    {
+      "id": "5025313",
+      "time": "2026-08-05 04:35:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬斯克：公司將在下一次星艦飛行中，將首批V3版星鏈衛星送入軌道。"
+    },
+    {
+      "id": "mkt:019fce7d-4759-7aab-8f77-0ac7457fcd5a",
+      "time": "2026-08-05 04:35:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Musk said he will attempt to recover both the first and second stages of Starship V3 this year and may succeed on the next flight."
+    },
+    {
+      "id": "te:markets:572689",
+      "time": "2026-08-05 04:35:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Gilead Sciences earnings above expectations at -6.75 USD — Gilead Sciences (GILD) released earnings per share at -6.75 USD, compared to market expectations of -7.32 USD."
+    },
     {
       "id": "mkt:019fce7c-d5f0-7aab-8f77-0592c4f57005",
       "time": "2026-08-05 04:35:15",

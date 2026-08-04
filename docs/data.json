@@ -1,7 +1,111 @@
 {
-  "updated": "2026-08-05 04:36:04",
-  "count": 17805,
+  "updated": "2026-08-05 04:39:56",
+  "count": 17796,
   "items": [
+    {
+      "id": "5025319",
+      "time": "2026-08-05 04:39:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思與副部長範伯格週二上午向參議院共和黨議員舉行涉密簡報會。"
+    },
+    {
+      "id": "5025318",
+      "time": "2026-08-05 04:38:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：SpaceX預計發射的V3衛星數量將比V2多一個數量級。"
+    },
+    {
+      "id": "5025317",
+      "time": "2026-08-05 04:37:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：星鏈V3衛星的能力比V2高出一個數量級。"
+    },
+    {
+      "id": "mkt:019fce7e-9f94-7aab-8f77-274f9338021d",
+      "time": "2026-08-05 04:37:12",
+      "tags": [
+        "MKT News",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "Musk said we encourage competitors to copy us."
+    },
+    {
+      "id": "mkt:019fce7e-9985-7aab-8f77-1f41f2901ced",
+      "time": "2026-08-05 04:37:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said SpaceX’s Starship aims to carry more than 1 mln tonnes of payload to orbit annually, with potential to reach 10 mln tonnes over time."
+    },
+    {
+      "id": "5025316",
+      "time": "2026-08-05 04:37:01",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "馬斯克：星艦目標是每年向軌道輸送100萬噸以上載荷，目標上限或可達1000萬噸。"
+    },
+    {
+      "id": "5025315",
+      "time": "2026-08-05 04:36:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "Pinterest執行長：我們平臺上超過96%的文字搜尋是非品牌搜尋。"
+    },
+    {
+      "id": "5025314",
+      "time": "2026-08-05 04:36:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：SpaceX今年迄今又迎來一個里程碑年份。"
+    },
+    {
+      "id": "mkt:019fce7d-ad5f-7aab-8f77-11398dc5a799",
+      "time": "2026-08-05 04:36:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said SpaceX will launch the first batch of Starlink V3 satellites into orbit on the next Starship flight."
+    },
+    {
+      "id": "5025313",
+      "time": "2026-08-05 04:35:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬斯克：公司將在下一次星艦飛行中，將首批V3版星鏈衛星送入軌道。"
+    },
+    {
+      "id": "mkt:019fce7d-4759-7aab-8f77-0ac7457fcd5a",
+      "time": "2026-08-05 04:35:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Musk said he will attempt to recover both the first and second stages of Starship V3 this year and may succeed on the next flight."
+    },
+    {
+      "id": "te:markets:572689",
+      "time": "2026-08-05 04:35:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Gilead Sciences earnings above expectations at -6.75 USD — Gilead Sciences (GILD) released earnings per share at -6.75 USD, compared to market expectations of -7.32 USD."
+    },
     {
       "id": "5025312",
       "time": "2026-08-05 04:35:15",
@@ -164604,228 +164708,6 @@
         "Importance 0"
       ],
       "text": "Teradyne earnings above expectations at 2.47 USD — Teradyne (TER) released earnings per share at 2.47 USD, compared to market expectations of 2.06 USD."
-    },
-    {
-      "id": "mkt:019faa73-f955-7aab-8ed5-5d179beff9da",
-      "time": "2026-07-29 04:39:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. officials said the agreement under discussion is a coordination agreement and would not include transit fees or other charges."
-    },
-    {
-      "id": "mkt:019faa73-e056-7aab-8ed5-53cd5e02a9ba",
-      "time": "2026-07-29 04:39:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. API: crude oil output for week to July 24 +93,000 b/d; prior -90,000 b/d."
-    },
-    {
-      "id": "mkt:019faa73-bf83-7aab-8ed5-4c96658bc600",
-      "time": "2026-07-29 04:39:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Crude Oil Runs (Jul.24) | actual 93000M | previous -90000M"
-    },
-    {
-      "id": "mkt:019faa73-b3ba-7aab-8ed5-4142b897a014",
-      "time": "2026-07-29 04:38:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. API weekly refined product imports for the week to July 24 rose to 297,000 b/d from 43,000 b/d a week earlier."
-    },
-    {
-      "id": "mkt:019faa73-9625-7aab-8ed5-3f947bebc192",
-      "time": "2026-07-29 04:38:49",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Petroleum Products Imports Change (Jul.24) | actual 297000M | previous 43000M"
-    },
-    {
-      "id": "mkt:019faa73-8259-7aab-8ed5-30fbfb2ec03e",
-      "time": "2026-07-29 04:38:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. API crude imports -399,000 barrels in the week to July 24; prior +355,000 barrels."
-    },
-    {
-      "id": "mkt:019faa73-634b-7aab-8ed5-28553fe5780e",
-      "time": "2026-07-29 04:38:36",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Crude Oil Imports Change (Jul.24) | actual -399000M | previous 355000M"
-    },
-    {
-      "id": "mkt:019faa73-530e-7aab-8ed5-21bb30880b1d",
-      "time": "2026-07-29 04:38:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "A U.S. official said Iran's demands in the Strait of Hormuz are excessively stringent, and that Oman, the United States and the international community are justified in rejecting them."
-    },
-    {
-      "id": "5013001",
-      "time": "2026-07-29 04:38:30",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國官員：目前磋商的協議僅為協同合作協議，不涉及任何通行費與相關收費。"
-    },
-    {
-      "id": "mkt:019faa73-4bcd-7aab-8ed5-1f8f765fd0b3",
-      "time": "2026-07-29 04:38:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "API: U.S. heating oil stocks fell 125,000 barrels in the week to July 24, versus a 495,000-barrel build in the prior week."
-    },
-    {
-      "id": "mkt:019faa73-24d3-7aab-8ed5-17e75f0be969",
-      "time": "2026-07-29 04:38:20",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Heating Oil Stocks Change (Jul.24) | actual -125000M | previous 495000M"
-    },
-    {
-      "id": "5013000",
-      "time": "2026-07-29 04:38:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "Teradyne（泰瑞達）二季度淨營收13.3億美元，分析師預期12.2億美元。二季度調整後每股收益（EPS）為2.47美元，分析師預期2.04美元。預計三季度營收12億-13億美元，分析師預期10.4億美元。預計三季度調整後EPS為1.85-2.15美元，分析師預期1.46美元。"
-    },
-    {
-      "id": "mkt:019faa73-1031-7aab-8ed5-0a8d4d19d3ce",
-      "time": "2026-07-29 04:38:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "API: U.S. Cushing crude stocks -273,000 bbl in week to July 24; prior -737,000 bbl."
-    },
-    {
-      "id": "mkt:019faa72-e9fc-7aab-8ed5-037f7bb9f88c",
-      "time": "2026-07-29 04:38:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Jul.24) | actual -273000M | previous -737000M"
-    },
-    {
-      "id": "mkt:019faa72-db7c-7aab-8ed4-fa69a09e864d",
-      "time": "2026-07-29 04:38:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US API: refinery oil inventories rose 355,000 bbl in the week to July 24, versus forecast +648,000 bbl and prior +1.759 mln bbl."
-    },
-    {
-      "id": "5012999",
-      "time": "2026-07-29 04:37:56",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國官員：伊朗在霍爾木茲海峽問題上提出過分要求，阿曼、美國及國際社會均合理予以拒絕。"
-    },
-    {
-      "id": "mkt:019faa72-aba9-7aab-8ed4-f025784257c0",
-      "time": "2026-07-29 04:37:49",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Distillate Stocks Change (Jul.24) | actual 355000M | consensus 648000M | previous 1759000M"
-    },
-    {
-      "id": "mkt:019faa72-8384-7aab-8ed4-eae6a9a17563",
-      "time": "2026-07-29 04:37:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. API weekly gasoline inventories for the week to July 24 rose 918,000 barrels versus a consensus draw of 1.204 mln barrels; prior -1.379 mln."
-    },
-    {
-      "id": "mkt:019faa72-5db3-7aab-8ed4-e455ce54748b",
-      "time": "2026-07-29 04:37:29",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Gasoline Stocks Change (Jul.24) | actual 918000M | consensus -1204000M | previous -1379000M"
-    },
-    {
-      "id": "te:markets:570505",
-      "time": "2026-07-29 04:36:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Mondelez International earnings above expectations at 0.73 USD — Mondelez International (MDLZ) released earnings per share at 0.73 USD, compared to market expectations of 0.68 USD."
-    },
-    {
-      "id": "te:markets:570504",
-      "time": "2026-07-29 04:36:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Waste Management earnings above expectations at 2.02 USD — Waste Management (WM) released earnings per share at 2.02 USD, compared to market expectations of 1.99 USD."
     }
   ]
 }
