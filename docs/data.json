@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-05 00:51:31",
-  "count": 17810,
+  "updated": "2026-08-05 00:55:21",
+  "count": 17805,
   "items": [
+    {
+      "id": "5025191",
+      "time": "2026-08-05 00:53:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "據悉，香奈兒上半年銷售額受新品系列推動上漲 16%。"
+    },
+    {
+      "id": "mkt:019fcdb0-e7d0-7aab-8f74-be091d36cd95",
+      "time": "2026-08-05 00:52:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "NVO.DE",
+        "Impact bearish"
+      ],
+      "text": "Novo Nordisk shares listed in Frankfurt fell 6.6% after the company released second-quarter results."
+    },
+    {
+      "id": "5025190",
+      "time": "2026-08-05 00:52:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲196美元，報14066美元/噸。LME期鋁收漲2美元，報3223美元/噸。LME期鋅收漲32美元，報3674美元/噸。LME期鉛收漲29美元，報1896美元/噸。LME期鎳收漲133美元，報17193美元/噸。LME期錫收漲543美元，報55989美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
     {
       "id": "mkt:019fcdae-fa8a-7aab-8f74-b5311245d924",
       "time": "2026-08-05 00:50:24",
@@ -164801,73 +164829,6 @@
         "市場"
       ],
       "text": "標普500指數漲幅擴大至盤中高點，現漲0.5%。"
-    },
-    {
-      "id": "mkt:019fa9a6-f45d-7aab-8ed2-10ab86b6a2ab",
-      "time": "2026-07-29 00:55:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi cabinet condemned attacks by Iran-backed armed groups in Yemen and Iraq on oil facilities and vessels in the Red Sea."
-    },
-    {
-      "id": "5012890",
-      "time": "2026-07-29 00:54:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其總統埃爾多安：伊拉克總理稱伊方可向土耳其供應100萬桶石油。"
-    },
-    {
-      "id": "mkt:019fa9a6-6f43-7aab-8ed2-0ad894c3c98a",
-      "time": "2026-07-29 00:54:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Erdogan said an Iraqi minister told him Iraq can supply Turkey with 1 million barrels of oil."
-    },
-    {
-      "id": "5012889",
-      "time": "2026-07-29 00:53:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈馬斯：加沙停火談判的結果取決於以色列是否同意相關提議。"
-    },
-    {
-      "id": "5012888",
-      "time": "2026-07-29 00:53:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "開雲集團CEO：預計第三季度業績大體持平。"
-    },
-    {
-      "id": "5012887",
-      "time": "2026-07-29 00:52:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國網路安全公司AlgoSec正考慮在倫敦進行首次公開募股（IPO）。"
-    },
-    {
-      "id": "5012886",
-      "time": "2026-07-29 00:52:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列高階官員：內塔尼亞胡與特朗普討論了所有關切領域，其中伊朗問題是主要焦點，雙方重申共同致力於阻止伊朗獲得核武器。"
-    },
-    {
-      "id": "mkt:019fa9a3-95d3-7aab-8ed2-04b6a9886b0b",
-      "time": "2026-07-29 00:51:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An Israeli senior official said both sides discussed all areas of concern, with Iran the focus, and reiterated a shared commitment to prevent Iran from acquiring nuclear weapons."
     }
   ]
 }
