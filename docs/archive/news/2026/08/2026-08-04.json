@@ -1,7 +1,53 @@
 {
   "date": "2026-08-04",
-  "count": 2904,
+  "count": 2909,
   "items": [
+    {
+      "id": "5025113",
+      "time": "2026-08-04 23:07:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬拉松石油：美國汽油庫存仍遠低於五年區間水平。"
+    },
+    {
+      "id": "mkt:019fcd50-64b6-7aab-8f73-03b3365fb01f",
+      "time": "2026-08-04 23:07:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O): Alpamayo 2 Super, an advanced open model for robotaxi and autonomous-vehicle applications, is now available for commercial use."
+    },
+    {
+      "id": "5025112",
+      "time": "2026-08-04 23:06:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：面向自動駕駛計程車及自動駕駛車輛的前沿開放模型 —— 英偉達 Alpamayo 2 Super 現已商用。"
+    },
+    {
+      "id": "mkt:019fcd4e-addf-7aab-8f72-facf8e6e54b7",
+      "time": "2026-08-04 23:05:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nomination of Bulanqi to be U.S. attorney general advanced by a Senate panel."
+    },
+    {
+      "id": "5025111",
+      "time": "2026-08-04 23:04:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "參議院司法委員會投票批准託德・布蘭奇出任美國司法部長。"
+    },
     {
       "id": "te:markets:572640",
       "time": "2026-08-04 23:03:29",

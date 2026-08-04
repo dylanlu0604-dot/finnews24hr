@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-04 23:04:37",
-  "count": 17826,
+  "updated": "2026-08-04 23:08:32",
+  "count": 17824,
   "items": [
+    {
+      "id": "5025113",
+      "time": "2026-08-04 23:07:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬拉松石油：美國汽油庫存仍遠低於五年區間水平。"
+    },
+    {
+      "id": "mkt:019fcd50-64b6-7aab-8f73-03b3365fb01f",
+      "time": "2026-08-04 23:07:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O): Alpamayo 2 Super, an advanced open model for robotaxi and autonomous-vehicle applications, is now available for commercial use."
+    },
+    {
+      "id": "5025112",
+      "time": "2026-08-04 23:06:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：面向自動駕駛計程車及自動駕駛車輛的前沿開放模型 —— 英偉達 Alpamayo 2 Super 現已商用。"
+    },
+    {
+      "id": "mkt:019fcd4e-addf-7aab-8f72-facf8e6e54b7",
+      "time": "2026-08-04 23:05:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nomination of Bulanqi to be U.S. attorney general advanced by a Senate panel."
+    },
+    {
+      "id": "5025111",
+      "time": "2026-08-04 23:04:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "參議院司法委員會投票批准託德・布蘭奇出任美國司法部長。"
+    },
     {
       "id": "te:markets:572640",
       "time": "2026-08-04 23:03:29",
@@ -164935,64 +164981,6 @@
         "市場"
       ],
       "text": "英偉達股價轉漲，此前一度跌近2%。"
-    },
-    {
-      "id": "5012789",
-      "time": "2026-07-28 23:07:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊聖城旅指揮官：沙特政府應當吸取美國魯莽行事、付出巨大代價的歷史教訓，解除對葉門的封鎖。"
-    },
-    {
-      "id": "mkt:019fa943-72de-7aab-8ed0-60b3355a6a3c",
-      "time": "2026-07-28 23:06:37",
-      "tags": [
-        "MKT News",
-        "PRX.AS",
-        "Impact bullish"
-      ],
-      "text": "Prosus repurchased 2.2 million shares between July 20 and 24 at an average price of EUR 37.8363 per share."
-    },
-    {
-      "id": "5012788",
-      "time": "2026-07-28 23:06:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "波音執行長：針對787專案，我們已制定恢復計劃，目前正與通用電氣協同推進。"
-    },
-    {
-      "id": "5012787",
-      "time": "2026-07-28 23:05:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "波音執行長：關於787機型，我們上半年的交付進度已經落後。"
-    },
-    {
-      "id": "mkt:019fa942-8ff1-7aab-8ed0-5e4eacea58d5",
-      "time": "2026-07-28 23:05:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu met US President Trump in the White House Oval Office."
-    },
-    {
-      "id": "5012785",
-      "time": "2026-07-28 23:05:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "波音執行長：座位認證問題並未影響我們交付飛機的能力。"
-    },
-    {
-      "id": "5012784",
-      "time": "2026-07-28 23:04:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門胡塞武裝：已啟動打破封鎖的軍事行動，並做好將衝突升級至最高烈度的準備。"
     }
   ]
 }
