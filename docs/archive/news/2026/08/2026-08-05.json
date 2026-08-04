@@ -1,7 +1,27 @@
 {
   "date": "2026-08-05",
-  "count": 452,
+  "count": 454,
   "items": [
+    {
+      "id": "te:markets:572695",
+      "time": "2026-08-05 06:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Australian Dollar Increases by 0.66% — Top currency gainers are Australian Dollar (0.66%), Polish Zloty (0.59%), Swedish Krona (0.47%), Euro (0.20%) and British Pound (0.13%). Biggest losers are Brazilian Real (-0.40%) and Japanese Yen (-0.35%). Meanwhile Dollar Index was little changed."
+    },
+    {
+      "id": "5025431",
+      "time": "2026-08-05 06:11:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲9月加息25個基點的機率為58.4%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為41.6%，累計加息25個基點的機率為58.4%。美聯儲到10月維持利率不變的機率為30.5%，累計加息25個基點的機率為53.9%，累計加息50個基點的機率為15.5%。"
+    },
     {
       "id": "5025430",
       "time": "2026-08-05 06:10:12",
