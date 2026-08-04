@@ -1,7 +1,74 @@
 {
-  "updated": "2026-08-04 23:44:18",
-  "count": 17817,
+  "updated": "2026-08-04 23:48:09",
+  "count": 17819,
   "items": [
+    {
+      "id": "mkt:019fcd74-d166-7aab-8f73-c40faf0ee155",
+      "time": "2026-08-04 23:46:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Markets no longer price in a 25bp Bank of England rate hike this year."
+    },
+    {
+      "id": "mkt:019fcd74-0896-7aab-8f73-bd2301daf4ec",
+      "time": "2026-08-04 23:46:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "5020.T",
+        "Impact bullish",
+        "CVX.O",
+        "Impact bearish"
+      ],
+      "text": "Nikkei reports Eneos Holdings plans to raise global growth investment to about 1 trillion yen (~$6.36 billion) after acquiring Chevron's fuels-marketing business in Southeast Asia and Australia."
+    },
+    {
+      "id": "5025148",
+      "time": "2026-08-04 23:45:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲2.00%，現報26432.288點；道指漲1.63%，現報54046.621點；標普500指數漲1.42%，現報7708.360點。"
+    },
+    {
+      "id": "5025147",
+      "time": "2026-08-04 23:45:55",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "交易員不再預計英國央行今年會加息25個基點。"
+    },
+    {
+      "id": "mkt:019fcd73-29db-7aab-8f73-b49aa678f039",
+      "time": "2026-08-04 23:45:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bookings for cooling routes surge 500%】China's 2026 summer travel season is past its midpoint and has shown a late start followed by stronger late-stage demand. Prolonged high temperatures have pushed passengers toward naturally cooler destinations. Since July, searches for cooling getaways and night tours rose 238% MoM. Nearly half of the 20 routes with the biggest summer ticket booking gains are cooling routes: Wuhu–Guiyang bookings are up 5x; Zhengzhou–Mangshi and Guangzhou–Yanji are up over 3x; Huizhou–Taiyuan bookings are up 2.4x."
+    },
+    {
+      "id": "te:markets:572648",
+      "time": "2026-08-04 23:43:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises Led by Miners, Oil Stocks Fall — The FTSE 100 gained 0.3% on Tuesday, lagging behind other major markets as weakness in energy stocks offset a strong rally in mining shares. Investor sentiment improved amid growing expectations that the US and Iran could reach an agreement, easing concerns over potential supply disruptions and pushing oil prices sharply lower. BP shares dropped more than 4.5% despite reporting stronger-than-expected quarterly results, while Shell declined around 2.4%. Smith & Nephew also weighed on the index, falling over 6% after lowering its full-year sales growth outlook. In contrast, mining stocks surged, with Antofagasta up around 7%, Anglo American gaining 5.3%, and Fresnillo rising 4.4%. Rio Tinto, Endeavour Mining, and Glencore also advanced on stronger commodity prices, while HSBC remained broadly unchanged despite solid earnings and a $1 billion buyback announcement."
+    },
     {
       "id": "5025146",
       "time": "2026-08-04 23:42:22",
@@ -164880,39 +164947,6 @@
         "國際"
       ],
       "text": "【以軍稱打死傑哈德“努赫巴”部隊一名指揮官】以色列國防軍28日發表宣告說，以軍27日打死一名巴勒斯坦伊斯蘭聖戰組織（傑哈德）“努赫巴”部隊指揮官。（新華社）"
-    },
-    {
-      "id": "5012836",
-      "time": "2026-07-28 23:47:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "xAI：構建模式（Build Mode）今日開啟早期公測，僅面向網頁端、iOS端與安卓端的SuperGrok重度訂閱使用者開放。"
-    },
-    {
-      "id": "5012835",
-      "time": "2026-07-28 23:46:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【烏干達宣佈該國埃博拉疫情結束】當地時間7月28日，烏干達衛生部長克里斯·巴里奧蒙西宣佈，該國埃博拉疫情正式結束。根據世界衛生組織標準，在最後一例確診病例康復後連續42天未發現新增病例，即可宣佈疫情結束。"
-    },
-    {
-      "id": "5012834",
-      "time": "2026-07-28 23:46:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "xAI：Grok正式推出構建模式（Build Mode）。"
-    },
-    {
-      "id": "5012833",
-      "time": "2026-07-28 23:46:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "開雲集團ADR在公佈第二季度業績後上漲13%。"
     }
   ]
 }

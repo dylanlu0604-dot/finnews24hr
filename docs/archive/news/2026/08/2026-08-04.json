@@ -1,7 +1,74 @@
 {
   "date": "2026-08-04",
-  "count": 2965,
+  "count": 2971,
   "items": [
+    {
+      "id": "mkt:019fcd74-d166-7aab-8f73-c40faf0ee155",
+      "time": "2026-08-04 23:46:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Markets no longer price in a 25bp Bank of England rate hike this year."
+    },
+    {
+      "id": "mkt:019fcd74-0896-7aab-8f73-bd2301daf4ec",
+      "time": "2026-08-04 23:46:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "5020.T",
+        "Impact bullish",
+        "CVX.O",
+        "Impact bearish"
+      ],
+      "text": "Nikkei reports Eneos Holdings plans to raise global growth investment to about 1 trillion yen (~$6.36 billion) after acquiring Chevron's fuels-marketing business in Southeast Asia and Australia."
+    },
+    {
+      "id": "5025148",
+      "time": "2026-08-04 23:45:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲2.00%，現報26432.288點；道指漲1.63%，現報54046.621點；標普500指數漲1.42%，現報7708.360點。"
+    },
+    {
+      "id": "5025147",
+      "time": "2026-08-04 23:45:55",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "交易員不再預計英國央行今年會加息25個基點。"
+    },
+    {
+      "id": "mkt:019fcd73-29db-7aab-8f73-b49aa678f039",
+      "time": "2026-08-04 23:45:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bookings for cooling routes surge 500%】China's 2026 summer travel season is past its midpoint and has shown a late start followed by stronger late-stage demand. Prolonged high temperatures have pushed passengers toward naturally cooler destinations. Since July, searches for cooling getaways and night tours rose 238% MoM. Nearly half of the 20 routes with the biggest summer ticket booking gains are cooling routes: Wuhu–Guiyang bookings are up 5x; Zhengzhou–Mangshi and Guangzhou–Yanji are up over 3x; Huizhou–Taiyuan bookings are up 2.4x."
+    },
+    {
+      "id": "te:markets:572648",
+      "time": "2026-08-04 23:43:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises Led by Miners, Oil Stocks Fall — The FTSE 100 gained 0.3% on Tuesday, lagging behind other major markets as weakness in energy stocks offset a strong rally in mining shares. Investor sentiment improved amid growing expectations that the US and Iran could reach an agreement, easing concerns over potential supply disruptions and pushing oil prices sharply lower. BP shares dropped more than 4.5% despite reporting stronger-than-expected quarterly results, while Shell declined around 2.4%. Smith & Nephew also weighed on the index, falling over 6% after lowering its full-year sales growth outlook. In contrast, mining stocks surged, with Antofagasta up around 7%, Anglo American gaining 5.3%, and Fresnillo rising 4.4%. Rio Tinto, Endeavour Mining, and Glencore also advanced on stronger commodity prices, while HSBC remained broadly unchanged despite solid earnings and a $1 billion buyback announcement."
+    },
     {
       "id": "5025146",
       "time": "2026-08-04 23:42:22",
