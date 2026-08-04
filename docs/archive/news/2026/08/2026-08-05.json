@@ -1,7 +1,52 @@
 {
   "date": "2026-08-05",
-  "count": 511,
+  "count": 516,
   "items": [
+    {
+      "id": "te:economy:572705",
+      "time": "2026-08-05 07:15:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Industry Index",
+        "Importance 2"
+      ],
+      "text": "Australia Industry Conditions Signals Persistent Weakness — Australia’s Industry Index stood at -29.9 in July 2026, little changed from -30.0 in June. The easing energy crisis offered limited relief, but elevated fuel costs continued to pressure operations. New orders improved slightly, rising 3.7 points to -32.8, while input volumes fell 6.1 points to -9.1, staying mildly contractionary on trend. Activity and sales dropped further to -34.8, reflecting subdued demand and restrained investment amid high costs. Employment eased to -23.0 after a volatile H1 2026, as firms grappled with labour shortages and rising wages. Cost pressures showed signs of relief: input prices slid 18.9 points to 53.9 from June’s record high, while sales prices eased to 15.1, suggesting stabilising price growth after Q2 volatility. Capacity utilisation edged up to 74.0%, though businesses continued to cite many challenges, including raw material, fuel and freight costs, regulatory burdens, labour shortages, weak capital investment, and rising land taxes."
+    },
+    {
+      "id": "5025464",
+      "time": "2026-08-05 07:13:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【8月5日隔夜要聞一覽】\n1、伊朗外交部發言人巴加埃說，伊朗與阿曼正在就霍爾木茲海峽問題繼續進行談判。談判在技術和政治層面均取得積極進展，談判最終結果將在彙總後公佈。\n2、以色列總理內塔尼亞胡表示，其明確拒絕了美方提出的加沙解除武裝路線圖草案，並強調在巴勒斯坦伊斯蘭抵抗運動（哈馬斯）徹底解除武裝之前，以色列軍隊不會撤出當前防線。\n3、卡達埃米爾（國家元首）塔米姆4日與美國總統特朗普就美伊局勢通電話，強調應繼續堅持對話、透過外交途徑解決分歧。\n4、伊朗據稱正考慮允許歐洲方面在霍爾木茲海峽清除水雷。\n5、三星電子在美國加州聖克拉拉舉行的未來儲存與記憶體大會（FMS）上推出其V10 Bonding V-NAND，即BV-NAND原型產品。還展示了其稱業界首款zHBM和zNAND-O架構概念模型。該技術透過垂直堆疊儲存單元，在更小空間記憶體儲更多資料。\n6、AMD2026年Q2營收115億美元，市場預期為112.84億美元，預計2026年Q3營收為127億美元至133億美元，市場預期為125.1億美元。\n7、SpaceX2026年Q2營收78億美元，市場預期為69.34億美元。\n8、諾和諾德今年第二次上調業績預期，原因是公司對肥胖症和糖尿病藥物銷售的預期提高，2026年第二季度調整後營業利潤為333.89億丹麥克朗。\n9、調查結果顯示，OPEC 7月石油產量增加116萬桶/日，至產出1944萬桶/日，科威特、沙特、伊拉克增產明顯。"
+    },
+    {
+      "id": "5025463",
+      "time": "2026-08-05 07:13:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西稱，美國為支援該舉措所擺出的理由均不成立。"
+    },
+    {
+      "id": "mkt:019fcf0d-c1e4-7aab-8f79-4b7b05a03cdd",
+      "time": "2026-08-05 07:13:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Brazilian government issued a statement protesting the US decision to alter the visa status of Brazil's ambassador."
+    },
+    {
+      "id": "5025462",
+      "time": "2026-08-05 07:13:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西政府宣告：拒絕美國更改巴西大使簽證的決定。"
+    },
     {
       "id": "5025461",
       "time": "2026-08-05 07:11:47",

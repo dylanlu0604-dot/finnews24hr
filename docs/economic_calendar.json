@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-05 07:12:19",
+  "updated": "2026-08-05 07:16:13",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 415,
+  "count": 417,
   "history_summary": {
     "cached": 415,
-    "fetched": 0,
+    "fetched": 2,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 243,
+      "count": 245,
       "dates": [
         {
           "date": "2026-08-03",
@@ -4500,7 +4500,7 @@
         },
         {
           "date": "2026-08-05",
-          "count": 69,
+          "count": 71,
           "events": [
             {
               "id": "capital:1183541",
@@ -5036,8 +5036,8 @@
               "title": "新西蘭第二季度勞工成本指數季率",
               "importance": 1,
               "previous": "0.5 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "0.6 %",
+              "actual": "0.7 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174337",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -5094,8 +5094,8 @@
               "title": "新西蘭第二季度勞工成本指數年率",
               "importance": 1,
               "previous": "2 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "2 %",
+              "actual": "2.1 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174897",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -5152,8 +5152,8 @@
               "title": "新西蘭第二季度失業率",
               "importance": 1,
               "previous": "5.3 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "5.4 %",
+              "actual": "5.6 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174335",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -5210,8 +5210,8 @@
               "title": "新西蘭第二季度就業人數季率",
               "importance": 1,
               "previous": "0.2 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "0.2 %",
+              "actual": "0.5 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174334",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -5268,8 +5268,8 @@
               "title": "新西蘭第二季度就業參與率",
               "importance": 1,
               "previous": "70.4 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "70.3 %",
+              "actual": "70.7 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174336",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -5327,7 +5327,7 @@
               "importance": 1,
               "previous": "0.2 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "1.4 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174338",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -5373,6 +5373,122 @@
               "history_checked_at": "2026-07-26 00:02:12"
             },
             {
+              "id": "capital:1183633",
+              "fid": "1183633",
+              "interval": "this_week",
+              "date": "2026-08-05",
+              "time": "07:00",
+              "datetime": "2026-08-05 07:00:00",
+              "display_time": "08/05 07:00",
+              "country": "澳大利亞",
+              "title": "澳大利亞7月AIG/PWC製造業表現指數",
+              "importance": 1,
+              "previous": "-16.8",
+              "forecast": "--",
+              "actual": "-19.6",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183633",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/01",
+                  "actual": "-16.8",
+                  "forecast": "-",
+                  "previous": "-22.4"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "-22.4",
+                  "forecast": "-",
+                  "previous": "-27.9"
+                },
+                {
+                  "date": "05/06",
+                  "actual": "-27.9",
+                  "forecast": "-",
+                  "previous": "-27.9"
+                },
+                {
+                  "date": "04/01",
+                  "actual": "-27.9",
+                  "forecast": "-",
+                  "previous": "-15.6"
+                },
+                {
+                  "date": "03/04",
+                  "actual": "-15.6",
+                  "forecast": "-",
+                  "previous": "-19.4"
+                },
+                {
+                  "date": "02/04",
+                  "actual": "-19.4",
+                  "forecast": "-",
+                  "previous": "-18"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-05 07:16:11"
+            },
+            {
+              "id": "capital:1183634",
+              "fid": "1183634",
+              "interval": "this_week",
+              "date": "2026-08-05",
+              "time": "07:00",
+              "datetime": "2026-08-05 07:00:00",
+              "display_time": "08/05 07:00",
+              "country": "澳大利亞",
+              "title": "澳大利亞7月AIG建築業表現指數",
+              "importance": 1,
+              "previous": "-38.1",
+              "forecast": "--",
+              "actual": "-40.6",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183634",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/01",
+                  "actual": "-38.1",
+                  "forecast": "-",
+                  "previous": "-9.9"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "-9.9",
+                  "forecast": "-",
+                  "previous": "-19.3"
+                },
+                {
+                  "date": "05/06",
+                  "actual": "-19.3",
+                  "forecast": "-",
+                  "previous": "-31.4"
+                },
+                {
+                  "date": "04/01",
+                  "actual": "-31.4",
+                  "forecast": "-",
+                  "previous": "-8.2"
+                },
+                {
+                  "date": "03/04",
+                  "actual": "-8.2",
+                  "forecast": "-",
+                  "previous": "5.2"
+                },
+                {
+                  "date": "02/04",
+                  "actual": "5.2",
+                  "forecast": "-",
+                  "previous": "-18.7"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-05 07:16:11"
+            },
+            {
               "id": "capital:1174340",
               "fid": "1174340",
               "interval": "this_week",
@@ -5383,10 +5499,10 @@
               "country": "澳大利亞",
               "title": "澳大利亞7月標普全球服務業PMI終值",
               "importance": 1,
-              "previous": "--",
+              "previous": "53",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "53.6",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174340",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -5441,10 +5557,10 @@
               "country": "澳大利亞",
               "title": "澳大利亞7月標普全球綜合PMI終值",
               "importance": 1,
-              "previous": "--",
+              "previous": "52.6",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "53.2",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174339",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -29106,8 +29222,8 @@
       "title": "新西蘭第二季度勞工成本指數季率",
       "importance": 1,
       "previous": "0.5 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "0.6 %",
+      "actual": "0.7 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174337",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -29164,8 +29280,8 @@
       "title": "新西蘭第二季度勞工成本指數年率",
       "importance": 1,
       "previous": "2 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "2 %",
+      "actual": "2.1 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174897",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -29222,8 +29338,8 @@
       "title": "新西蘭第二季度失業率",
       "importance": 1,
       "previous": "5.3 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "5.4 %",
+      "actual": "5.6 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174335",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -29280,8 +29396,8 @@
       "title": "新西蘭第二季度就業人數季率",
       "importance": 1,
       "previous": "0.2 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "0.2 %",
+      "actual": "0.5 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174334",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -29338,8 +29454,8 @@
       "title": "新西蘭第二季度就業參與率",
       "importance": 1,
       "previous": "70.4 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "70.3 %",
+      "actual": "70.7 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174336",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -29397,7 +29513,7 @@
       "importance": 1,
       "previous": "0.2 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "1.4 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174338",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -29443,6 +29559,122 @@
       "history_checked_at": "2026-07-26 00:02:12"
     },
     {
+      "id": "capital:1183633",
+      "fid": "1183633",
+      "interval": "this_week",
+      "date": "2026-08-05",
+      "time": "07:00",
+      "datetime": "2026-08-05 07:00:00",
+      "display_time": "08/05 07:00",
+      "country": "澳大利亞",
+      "title": "澳大利亞7月AIG/PWC製造業表現指數",
+      "importance": 1,
+      "previous": "-16.8",
+      "forecast": "--",
+      "actual": "-19.6",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183633",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/01",
+          "actual": "-16.8",
+          "forecast": "-",
+          "previous": "-22.4"
+        },
+        {
+          "date": "06/03",
+          "actual": "-22.4",
+          "forecast": "-",
+          "previous": "-27.9"
+        },
+        {
+          "date": "05/06",
+          "actual": "-27.9",
+          "forecast": "-",
+          "previous": "-27.9"
+        },
+        {
+          "date": "04/01",
+          "actual": "-27.9",
+          "forecast": "-",
+          "previous": "-15.6"
+        },
+        {
+          "date": "03/04",
+          "actual": "-15.6",
+          "forecast": "-",
+          "previous": "-19.4"
+        },
+        {
+          "date": "02/04",
+          "actual": "-19.4",
+          "forecast": "-",
+          "previous": "-18"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-05 07:16:11"
+    },
+    {
+      "id": "capital:1183634",
+      "fid": "1183634",
+      "interval": "this_week",
+      "date": "2026-08-05",
+      "time": "07:00",
+      "datetime": "2026-08-05 07:00:00",
+      "display_time": "08/05 07:00",
+      "country": "澳大利亞",
+      "title": "澳大利亞7月AIG建築業表現指數",
+      "importance": 1,
+      "previous": "-38.1",
+      "forecast": "--",
+      "actual": "-40.6",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183634",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/01",
+          "actual": "-38.1",
+          "forecast": "-",
+          "previous": "-9.9"
+        },
+        {
+          "date": "06/03",
+          "actual": "-9.9",
+          "forecast": "-",
+          "previous": "-19.3"
+        },
+        {
+          "date": "05/06",
+          "actual": "-19.3",
+          "forecast": "-",
+          "previous": "-31.4"
+        },
+        {
+          "date": "04/01",
+          "actual": "-31.4",
+          "forecast": "-",
+          "previous": "-8.2"
+        },
+        {
+          "date": "03/04",
+          "actual": "-8.2",
+          "forecast": "-",
+          "previous": "5.2"
+        },
+        {
+          "date": "02/04",
+          "actual": "5.2",
+          "forecast": "-",
+          "previous": "-18.7"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-05 07:16:11"
+    },
+    {
       "id": "capital:1174340",
       "fid": "1174340",
       "interval": "this_week",
@@ -29453,10 +29685,10 @@
       "country": "澳大利亞",
       "title": "澳大利亞7月標普全球服務業PMI終值",
       "importance": 1,
-      "previous": "--",
+      "previous": "53",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "53.6",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174340",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -29511,10 +29743,10 @@
       "country": "澳大利亞",
       "title": "澳大利亞7月標普全球綜合PMI終值",
       "importance": 1,
-      "previous": "--",
+      "previous": "52.6",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "53.2",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174339",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
