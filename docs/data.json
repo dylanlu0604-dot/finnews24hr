@@ -1,7 +1,92 @@
 {
-  "updated": "2026-08-05 00:44:03",
-  "count": 17812,
+  "updated": "2026-08-05 00:51:31",
+  "count": 17810,
   "items": [
+    {
+      "id": "mkt:019fcdae-fa8a-7aab-8f74-b5311245d924",
+      "time": "2026-08-05 00:50:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Anthropic said it has appointed Mariano-Florentino Cuéllar as its first head of global affairs."
+    },
+    {
+      "id": "mkt:019fcdae-7809-7aab-8f74-ad5031e7ccee",
+      "time": "2026-08-05 00:49:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's shipping minister said all 14 crew members, including 13 Indian nationals, were safely rescued by the Yemeni coast guard and taken to Mocha port."
+    },
+    {
+      "id": "5025189",
+      "time": "2026-08-05 00:49:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航運部長：全部 14 名海員（含 13 名印度籍）已由葉門海岸警衛隊安全營救，並轉移至穆哈港。"
+    },
+    {
+      "id": "mkt:019fcdae-165c-7aab-8f74-a7adfd7b39f7",
+      "time": "2026-08-05 00:49:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "India's shipping minister said the Indian-flagged vessel MSV Faize Noore Oliya was struck by a projectile near Yemeni waters, capsized and sank."
+    },
+    {
+      "id": "5025188",
+      "time": "2026-08-05 00:49:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航運部長：印度商船 “ Faize Noore Oliya” 號在葉門水域附近被擊中，船舶傾覆沉沒。"
+    },
+    {
+      "id": "5025187",
+      "time": "2026-08-05 00:48:22",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：摩根大通資產管理即將收購 Antin 旗下的 IDEX。"
+    },
+    {
+      "id": "mkt:019fcdac-36b0-7aab-8f74-9d9a66a30734",
+      "time": "2026-08-05 00:47:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says talks with Oman on Strait of Hormuz progress 'positive'】Iran's foreign ministry said Iran and Oman are continuing negotiations to secure shipping through the Strait of Hormuz, focusing on delineating safe transit lanes. Foreign ministry spokesman Baghaei told Iranian state TV the talks have received \"positive\" assessments on both technical and political levels. Iran said it is working to establish the mechanisms needed to manage shipping in the strait."
+    },
+    {
+      "id": "5025186",
+      "time": "2026-08-05 00:45:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "諾和諾德ADR下跌3.3%，抹去了早盤漲幅。"
+    },
+    {
+      "id": "5025185",
+      "time": "2026-08-05 00:43:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鉑金上漲超過7%，報1,745.93美元/盎司。"
+    },
+    {
+      "id": "5025184",
+      "time": "2026-08-05 00:43:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "Argus Media 估算： 法國玉米產量降至 690 萬噸，創 50 年新低。"
+    },
     {
       "id": "5025183",
       "time": "2026-08-05 00:42:47",
@@ -164783,112 +164868,6 @@
         "MKT News"
       ],
       "text": "An Israeli senior official said both sides discussed all areas of concern, with Iran the focus, and reiterated a shared commitment to prevent Iran from acquiring nuclear weapons."
-    },
-    {
-      "id": "mkt:019fa9a3-6479-7aab-8ed1-fb333d968c18",
-      "time": "2026-07-29 00:51:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An Israeli senior official said the meeting was very successful and the atmosphere very positive."
-    },
-    {
-      "id": "5012885",
-      "time": "2026-07-29 00:51:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列高階官員：（內塔尼亞胡與特朗普的）會晤非常順利，且十分積極。"
-    },
-    {
-      "id": "5012884",
-      "time": "2026-07-29 00:50:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "開雲集團CEO：第二季度重回增長是重要的里程碑。"
-    },
-    {
-      "id": "mkt:019fa9a1-954a-7aab-8ed1-f2166d9bf259",
-      "time": "2026-07-29 00:49:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Turkey's President Erdogan said Turkey aims to sign a comprehensive energy cooperation agreement with Iraq as soon as possible."
-    },
-    {
-      "id": "5012883",
-      "time": "2026-07-29 00:48:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其總統埃爾多安：我們的目標是儘快與伊拉克簽署全面能源合作協議。"
-    },
-    {
-      "id": "mkt:019fa99e-c8e9-7aab-8ed1-ec32cc14326b",
-      "time": "2026-07-29 00:46:23",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "According to Axios, NVIDIA CEO Jensen Huang met with U.S. Commerce Secretary Lutnick."
-    },
-    {
-      "id": "5012882",
-      "time": "2026-07-29 00:45:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普會見澤連斯基 討論軍事及外交議題】當地時間7月28日，美國總統特朗普在白宮橢圓形辦公室與烏克蘭總統澤連斯基舉行會晤。據悉，澤連斯基當日計劃在華盛頓出席已故參議員林賽·格雷厄姆的葬禮。會晤後，澤連斯基透過社交媒體表示，本次會晤成效顯著。會談核心聚焦烏克蘭獲取美國“愛國者”防空系統攔截彈生產許可等事宜。此外，雙方還討論了相關外交議題。澤連斯基強調，加快外交程序對推動地區和平至關重要。目前，兩國已確定由專項工作團隊對接，細化後續溝通與協調安排。（央視）"
-    },
-    {
-      "id": "5012881",
-      "time": "2026-07-29 00:45:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特：我們將絕不姑息，堅決維護自身安全與利益，並依據國際法對任何敵對行為予以有力回擊。"
-    },
-    {
-      "id": "5012880",
-      "time": "2026-07-29 00:45:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特：譴責葉門和伊拉克境內伊朗支援的民兵組織對石油設施及紅海船隻的襲擊。"
-    },
-    {
-      "id": "mkt:019fa99d-d80f-7aab-8ed1-e5068e45654a",
-      "time": "2026-07-29 00:45:21",
-      "tags": [
-        "MKT News",
-        "RTX.N",
-        "Impact bullish"
-      ],
-      "text": "【Trump meets Zelenskiy to discuss Patriot interceptor production license, diplomatic coordination】On July 28, U.S. President Trump met Ukrainian President Zelenskiy in the Oval Office; talks focused on Ukraine seeking a U.S. license to produce Patriot air‑defense interceptors and related matters. They also discussed diplomatic issues; Zelenskiy said accelerating diplomatic progress is critical for regional peace, and both sides agreed to form a dedicated working group to coordinate follow‑up communications and arrangements."
-    },
-    {
-      "id": "5012879",
-      "time": "2026-07-29 00:44:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "法院裁決顯示，諾和諾德必須就CagriSema臨床試驗相關宣告，應對美國股東訴訟的部分指控。"
-    },
-    {
-      "id": "5012878",
-      "time": "2026-07-29 00:44:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "英偉達CEO黃仁勳與美國商務部長盧特尼克會面。"
     }
   ]
 }

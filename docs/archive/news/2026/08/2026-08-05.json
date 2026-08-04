@@ -1,7 +1,92 @@
 {
   "date": "2026-08-05",
-  "count": 57,
+  "count": 67,
   "items": [
+    {
+      "id": "mkt:019fcdae-fa8a-7aab-8f74-b5311245d924",
+      "time": "2026-08-05 00:50:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Anthropic said it has appointed Mariano-Florentino Cuéllar as its first head of global affairs."
+    },
+    {
+      "id": "mkt:019fcdae-7809-7aab-8f74-ad5031e7ccee",
+      "time": "2026-08-05 00:49:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's shipping minister said all 14 crew members, including 13 Indian nationals, were safely rescued by the Yemeni coast guard and taken to Mocha port."
+    },
+    {
+      "id": "5025189",
+      "time": "2026-08-05 00:49:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航運部長：全部 14 名海員（含 13 名印度籍）已由葉門海岸警衛隊安全營救，並轉移至穆哈港。"
+    },
+    {
+      "id": "mkt:019fcdae-165c-7aab-8f74-a7adfd7b39f7",
+      "time": "2026-08-05 00:49:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "India's shipping minister said the Indian-flagged vessel MSV Faize Noore Oliya was struck by a projectile near Yemeni waters, capsized and sank."
+    },
+    {
+      "id": "5025188",
+      "time": "2026-08-05 00:49:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航運部長：印度商船 “ Faize Noore Oliya” 號在葉門水域附近被擊中，船舶傾覆沉沒。"
+    },
+    {
+      "id": "5025187",
+      "time": "2026-08-05 00:48:22",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：摩根大通資產管理即將收購 Antin 旗下的 IDEX。"
+    },
+    {
+      "id": "mkt:019fcdac-36b0-7aab-8f74-9d9a66a30734",
+      "time": "2026-08-05 00:47:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says talks with Oman on Strait of Hormuz progress 'positive'】Iran's foreign ministry said Iran and Oman are continuing negotiations to secure shipping through the Strait of Hormuz, focusing on delineating safe transit lanes. Foreign ministry spokesman Baghaei told Iranian state TV the talks have received \"positive\" assessments on both technical and political levels. Iran said it is working to establish the mechanisms needed to manage shipping in the strait."
+    },
+    {
+      "id": "5025186",
+      "time": "2026-08-05 00:45:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "諾和諾德ADR下跌3.3%，抹去了早盤漲幅。"
+    },
+    {
+      "id": "5025185",
+      "time": "2026-08-05 00:43:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鉑金上漲超過7%，報1,745.93美元/盎司。"
+    },
+    {
+      "id": "5025184",
+      "time": "2026-08-05 00:43:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "Argus Media 估算： 法國玉米產量降至 690 萬噸，創 50 年新低。"
+    },
     {
       "id": "5025183",
       "time": "2026-08-05 00:42:47",
