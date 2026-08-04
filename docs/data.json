@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-04 13:25:32",
-  "count": 17771,
+  "updated": "2026-08-04 13:29:36",
+  "count": 17768,
   "items": [
+    {
+      "id": "mkt:019fcb3e-534f-7aab-8f64-cabee9055d55",
+      "time": "2026-08-04 13:28:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Hormuz crisis lifts oil prices, ARAMCO Q2 profit up 33%】ARAMCO reported Q2 adjusted net income rose 33% to $33.4bn from $25.2bn a year earlier, beating analysts' $31.1bn forecast. The company said it benefited from war-driven oil-price spikes — Brent averaged about $97/bbl in Q2 — and from maintaining exports via pipelines that bypass the Strait of Hormuz after the strait's closure caused one of the most severe oil-supply disruptions on record. ARAMCO has rerouted most exports through the Red Sea but faces new risk after Yemen's Houthi militants threatened attacks on tankers using that route."
+    },
+    {
+      "id": "5023700",
+      "time": "2026-08-04 13:25:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電子特氣概念午後反彈 昊華科技觸及漲停】午後電子特氣概念反彈，昊華科技觸及漲停，廣鋼氣體漲近10%，正帆科技、華特氣體、和遠氣體、雅克科技、金宏氣體漲幅靠前。"
+    },
     {
       "id": "5023699",
       "time": "2026-08-04 13:24:33",
@@ -164682,56 +164703,6 @@
         "MKT News"
       ],
       "text": "Al Jazeera quoted Jordan's military as saying it shot down a drone that violated Jordanian airspace over the eastern desert."
-    },
-    {
-      "id": "5011488",
-      "time": "2026-07-28 13:28:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指跌4.01%，現報13581.477點；上證指數跌1.32%，現報3807.243點；創業板指跌6.29%，現報3364.999點。"
-    },
-    {
-      "id": "mkt:019fa731-856d-7aab-8ebf-ba837da746c2",
-      "time": "2026-07-28 13:27:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell below $57/oz, down 2.41% intraday."
-    },
-    {
-      "id": "mkt:019fa730-6771-7aab-8ebf-b6f4c70283e9",
-      "time": "2026-07-28 13:26:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi state news agency SPA reported the Jordanian military said a drone was shot down in its airspace."
-    },
-    {
-      "id": "mkt:019fa730-264a-7aab-8ebf-ac99af60e932",
-      "time": "2026-07-28 13:26:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's foreign minister held separate phone calls on Monday evening with the foreign ministers of Saudi Arabia and Oman to discuss security in the Strait of Hormuz, a statement said."
-    },
-    {
-      "id": "5011487",
-      "time": "2026-07-28 13:26:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守57美元/盎司，日內跌2.48%。"
     }
   ]
 }

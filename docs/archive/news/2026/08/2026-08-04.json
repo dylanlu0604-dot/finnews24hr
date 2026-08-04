@@ -1,7 +1,28 @@
 {
   "date": "2026-08-04",
-  "count": 1006,
+  "count": 1008,
   "items": [
+    {
+      "id": "mkt:019fcb3e-534f-7aab-8f64-cabee9055d55",
+      "time": "2026-08-04 13:28:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Hormuz crisis lifts oil prices, ARAMCO Q2 profit up 33%】ARAMCO reported Q2 adjusted net income rose 33% to $33.4bn from $25.2bn a year earlier, beating analysts' $31.1bn forecast. The company said it benefited from war-driven oil-price spikes — Brent averaged about $97/bbl in Q2 — and from maintaining exports via pipelines that bypass the Strait of Hormuz after the strait's closure caused one of the most severe oil-supply disruptions on record. ARAMCO has rerouted most exports through the Red Sea but faces new risk after Yemen's Houthi militants threatened attacks on tankers using that route."
+    },
+    {
+      "id": "5023700",
+      "time": "2026-08-04 13:25:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電子特氣概念午後反彈 昊華科技觸及漲停】午後電子特氣概念反彈，昊華科技觸及漲停，廣鋼氣體漲近10%，正帆科技、華特氣體、和遠氣體、雅克科技、金宏氣體漲幅靠前。"
+    },
     {
       "id": "5023699",
       "time": "2026-08-04 13:24:33",
