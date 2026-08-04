@@ -1,7 +1,129 @@
 {
-  "updated": "2026-08-04 13:01:20",
-  "count": 17752,
+  "updated": "2026-08-04 13:05:21",
+  "count": 17764,
   "items": [
+    {
+      "id": "mkt:019fcb28-dcae-7aab-8f64-57bc99988b3b",
+      "time": "2026-08-04 13:04:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ARAMCO said it has effectively managed regional challenges while maintaining safe, reliable operations."
+    },
+    {
+      "id": "5023681",
+      "time": "2026-08-04 13:04:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特阿美第二季度調整後淨利潤為1252億里亞爾，低於預期1167.5億里亞爾。"
+    },
+    {
+      "id": "mkt:019fcb28-a28e-7aab-8f64-4809cc9c1a6e",
+      "time": "2026-08-04 13:04:25",
+      "tags": [
+        "MKT News",
+        "WTI"
+      ],
+      "text": "ARAMCO will continue to use the East-West pipeline to ensure crude flows within its network."
+    },
+    {
+      "id": "mkt:019fcb28-81ef-7aab-8f64-4575b81530d7",
+      "time": "2026-08-04 13:04:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "Shenzhen Component Index rose more than 3%; constituent Guangku Technology surged to the 20% daily limit-up."
+    },
+    {
+      "id": "mkt:019fcb28-539e-7aab-8f64-3ea02e88a6a8",
+      "time": "2026-08-04 13:04:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "ARAMCO said its east-west pipelines, storage and transport capacity and export terminals enable it to sustain production and exports."
+    },
+    {
+      "id": "5023680",
+      "time": "2026-08-04 13:03:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲3.00%，現報13852.400點；上證指數漲0.23%，現報3818.546點；創業板指漲5.26%，現報3476.134點。"
+    },
+    {
+      "id": "5023679",
+      "time": "2026-08-04 13:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "豐田汽車：將登出2億股股票，佔已發行總股本的1.37%。"
+    },
+    {
+      "id": "5023678",
+      "time": "2026-08-04 13:02:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "豐田汽車將回購至多1萬億日元的股票。"
+    },
+    {
+      "id": "5023677",
+      "time": "2026-08-04 13:02:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "漢莎航空預計全年調整後EBIT為17億至22億歐元，市場預估17.9億歐元。"
+    },
+    {
+      "id": "mkt:019fcb26-9221-7aab-8f64-369ec5aad0c4",
+      "time": "2026-08-04 13:02:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "09868.HK",
+        "Impact bearish",
+        "09927.HK",
+        "02015.HK"
+      ],
+      "text": "Hong Kong-listed auto shares mostly fell. XPeng Inc. (09868.HK) fell more than 5%, SERES (09927.HK) fell over 4%, and Li Auto (02015.HK) and Chery Automobile (09973.HK) fell more than 3%."
+    },
+    {
+      "id": "5023676",
+      "time": "2026-08-04 13:02:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：土耳其是新興市場主要債務發行國，也是伊斯蘭債券發行國；外國投資者需求依然旺盛。"
+    },
+    {
+      "id": "5023675",
+      "time": "2026-08-04 13:01:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "豐田汽車第一季度經營利潤1.06萬億日元，預估1.07萬億日元。豐田汽車第一季度淨利潤1.48萬億日元，預估1.04萬億日元。"
+    },
+    {
+      "id": "5023674",
+      "time": "2026-08-04 13:01:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "豐田汽車預計全年經營利潤3.40萬億日元，此前預計3.00萬億日元。"
+    },
     {
       "id": "mkt:019fcb25-5b57-7aab-8f64-2b9168e35899",
       "time": "2026-08-04 13:00:50",
@@ -10,6 +132,14 @@
         "Important"
       ],
       "text": "【ChiNext Index up more than 5% in afternoon trade】By afternoon trade China’s ChiNext Index was up more than 5.0%; the Shenzhen Component gained 2.75% and the Shanghai Composite rose 0.16%. More than 3,700 A-share stocks advanced."
+    },
+    {
+      "id": "5023673",
+      "time": "2026-08-04 13:00:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "豐田汽車 仍然預測全年全球汽車銷量1,118萬輛。"
     },
     {
       "id": "5023672",
@@ -164524,22 +164654,6 @@
         "公司"
       ],
       "text": "【通訊線纜及配套板塊重挫】通訊線纜及配套板塊重挫，長飛光纖跌超9%，長盈通、亨通光電、永鼎股份、中天科技等跟跌。"
-    },
-    {
-      "id": "5011466",
-      "time": "2026-07-28 13:05:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【早盤多隻寬基ETF成交顯著放量】7月28日上午，多隻寬基ETF成交顯著放量。近期，資金更持續借道ETF入市。資料顯示，7月27日股票型ETF淨流入超140億元；7月以來，股票型ETF淨流入已近3900億元。（上證報）"
-    },
-    {
-      "id": "5011465",
-      "time": "2026-07-28 13:02:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海光DCU適配Kimi K3】海光資訊官微顯示，7月27日，月之暗面正式推出開源大模型Kimi K3，海光資訊同步實現Day0極速適配，當日完成該模型在海光DCU平臺的全流程適配、部署與效能驗證。"
     }
   ]
 }
