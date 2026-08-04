@@ -1,7 +1,147 @@
 {
   "date": "2026-08-05",
-  "count": 243,
+  "count": 258,
   "items": [
+    {
+      "id": "mkt:019fce6e-f3c8-7aab-8f76-da7bf6256a0f",
+      "time": "2026-08-05 04:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "API report on U.S. crude inventories for the week to July 31 due in 10 minutes."
+    },
+    {
+      "id": "5025300",
+      "time": "2026-08-05 04:19:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SPACEX在公佈業績後盤後跌幅擴大至8.5%。"
+    },
+    {
+      "id": "5025299",
+      "time": "2026-08-05 04:19:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD：第二季度資本支出8.08億美元，預估2.986億美元。"
+    },
+    {
+      "id": "5025298",
+      "time": "2026-08-05 04:18:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD：第二季度研發支出25.3億美元，預估24.5億美元。"
+    },
+    {
+      "id": "5025297",
+      "time": "2026-08-05 04:18:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：約56%的積壓訂單預計在一年內確認收入，約34%預計在1至3年內確認收入。"
+    },
+    {
+      "id": "mkt:019fce6d-6f01-7aab-8f76-d54396a3c294",
+      "time": "2026-08-05 04:18:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AMD.O",
+        "Impact bearish",
+        "SPCX.O"
+      ],
+      "text": "Following earnings releases, AMD (AMD.O) and SpaceX (SPCX.O) shares each fell about 8% in U.S. after-hours trading."
+    },
+    {
+      "id": "mkt:019fce6d-1adc-7aab-8f76-cef10c74cbf8",
+      "time": "2026-08-05 04:18:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD (AMD.O) expects Q3 2026 revenue of $12.7-13.3 bln, vs. consensus $12.51 bln."
+    },
+    {
+      "id": "5025296",
+      "time": "2026-08-05 04:17:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD預計第三季度經調整毛利率大約56％，預估56.2％。"
+    },
+    {
+      "id": "5025295",
+      "time": "2026-08-05 04:17:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD預計第三季營收在127億至133億美元，市場預估為125.1億美元。"
+    },
+    {
+      "id": "te:markets:572684",
+      "time": "2026-08-05 04:17:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Advanced Micro Devices earnings above expectations at 1.66 USD — Advanced Micro Devices (AMD) released earnings per share at 1.66 USD, compared to market expectations of 1.60 USD."
+    },
+    {
+      "id": "5025294",
+      "time": "2026-08-05 04:17:28",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "AMD股價在第二季度財報釋出後下跌8%。"
+    },
+    {
+      "id": "5025293",
+      "time": "2026-08-05 04:16:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD：預計2026年下半年資料中心銷售將加速增長。"
+    },
+    {
+      "id": "5025292",
+      "time": "2026-08-05 04:16:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD第二季調整後每股收益1.66美元，IBES預估為1.62美元。"
+    },
+    {
+      "id": "5025291",
+      "time": "2026-08-05 04:16:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD第二季度資料中心部門營收為67億美元。"
+    },
+    {
+      "id": "5025290",
+      "time": "2026-08-05 04:16:29",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "AMD第二季度營收為115.4億美元，市場分析師一致預期（IBES）為112.8億美元。"
+    },
     {
       "id": "mkt:019fce6b-9c79-7aab-8f76-c4899e100ae1",
       "time": "2026-08-05 04:16:26",
