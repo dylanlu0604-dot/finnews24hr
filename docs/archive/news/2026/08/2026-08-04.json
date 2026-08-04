@@ -1,7 +1,143 @@
 {
   "date": "2026-08-04",
-  "count": 2461,
+  "count": 2476,
   "items": [
+    {
+      "id": "5024814",
+      "time": "2026-08-04 20:40:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員保爾森：若通脹未取得進展，美聯儲將需採取行動。"
+    },
+    {
+      "id": "5024813",
+      "time": "2026-08-04 20:40:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Wayfair美股盤前漲超20%】Wayfair美股盤前漲超20%，現報107.5美元。"
+    },
+    {
+      "id": "5024812",
+      "time": "2026-08-04 20:40:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保爾森：聯邦公開市場委員會本次維持利率穩定的決定並非險勝。"
+    },
+    {
+      "id": "te:economy:572548",
+      "time": "2026-08-04 20:39:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Balance of Trade",
+        "Importance 3"
+      ],
+      "text": "US Trade Deficit Narrows in June — The US trade deficit narrowed to $73.3 billion in June 2026 from $77.6 billion in May, broadly in line with market expectations, as imports declined more sharply than exports. Over the first half of 2026, the cumulative trade gap narrowed to $371.2 billion, down from $560.5 billion during the same period a year earlier, suggesting that US trade flows are gradually normalizing following last year's tariff announcements and the front-loading of imports that preceded them. However, uncertainty surrounding US trade policy continues to cloud the outlook for global trade."
+    },
+    {
+      "id": "5024811",
+      "time": "2026-08-04 20:39:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員保爾森：對利率政策未來走向持開放態度。"
+    },
+    {
+      "id": "5024810",
+      "time": "2026-08-04 20:39:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "保爾森：經濟強勁，但通脹居高不下。"
+    },
+    {
+      "id": "5024809",
+      "time": "2026-08-04 20:38:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲的保爾森：需要適度限制性的貨幣政策，美聯儲目前可能已具備這一條件。"
+    },
+    {
+      "id": "te:economy:572547",
+      "time": "2026-08-04 20:38:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "Canada Imports Hit Record High — Canada's goods imports rose 0.2% month over month to a record C$73.6 billion in June 2026, despite declines in 9 of the 11 major product categories. The increase was driven by an 11.7% jump in electronic and electrical equipment and parts, as imports of computers and computer peripherals surged 59% to a record high, largely reflecting higher purchases of processing units from the US. The gain more than offset declines in industrial machinery, equipment and parts (-3.3%), consumer goods (-1.3%), and metal ores and non-metallic minerals (-3.4%). Excluding electronic and electrical equipment and parts, total imports fell 1.3% in June."
+    },
+    {
+      "id": "5024808",
+      "time": "2026-08-04 20:38:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保爾森：通脹水平過高，希望將其壓低。"
+    },
+    {
+      "id": "mkt:019fccc7-faef-7aab-8f70-034223a629a3",
+      "time": "2026-08-04 20:38:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Hungary's Prime Minister Magyar said energy supply is currently stable."
+    },
+    {
+      "id": "5024807",
+      "time": "2026-08-04 20:38:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保爾森：當前對貨幣政策而言是複雜時期。"
+    },
+    {
+      "id": "5024806",
+      "time": "2026-08-04 20:37:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【廣東省落地首單地方法人中小銀行“固息+浮息”雙品種金融債券】據中國人民銀行廣東省分行訊息，7月28日，在中國人民銀行廣東省分行的指導下，順德農商銀行成功在銀行間市場發行廣東省首單地方法人中小銀行“固息+浮息”雙品種金融債券，發行總規模25億元，期限3年。這也是廣東省地方法人中小銀行發行的首單浮息金融債券。"
+    },
+    {
+      "id": "5024805",
+      "time": "2026-08-04 20:37:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀<XAG=>上漲3%，報每盎司59.90美元。"
+    },
+    {
+      "id": "mkt:019fccc7-92e9-7aab-8f6f-f89f6386941c",
+      "time": "2026-08-04 20:37:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's prime minister magyar said experts expect heavy rain on Thursday in the Austrian Danube basin."
+    },
+    {
+      "id": "5024804",
+      "time": "2026-08-04 20:37:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油公司CEO：正在推遲出售墨西哥灣資產的股份。"
+    },
     {
       "id": "5024803",
       "time": "2026-08-04 20:37:05",
