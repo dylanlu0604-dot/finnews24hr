@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-05 05:32:34",
-  "count": 17895,
+  "updated": "2026-08-05 05:36:27",
+  "count": 17899,
   "items": [
+    {
+      "id": "5025403",
+      "time": "2026-08-05 05:35:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：首都防空系統正在運作。基輔及其周邊地區正遭受彈道導彈襲擊，更多導彈正瞄準該市。"
+    },
+    {
+      "id": "5025402",
+      "time": "2026-08-05 05:35:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "受馬斯克談及SpaceX算力規劃言論影響，英偉達股價上漲2%。"
+    },
+    {
+      "id": "mkt:019fceb2-6263-7aab-8f78-5390876daaf6",
+      "time": "2026-08-05 05:33:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump administration has refunded about $100bn in tariffs, FT reports】Financial Times reports the Trump administration has paid roughly $100 billion in tariff refunds since the US Supreme Court ruled its use of emergency powers to impose tariffs on trade partners invalid. US Customs told a judge at the US Court of International Trade on Tuesday the refunds equal about 60% of the $165 billion collected under the president’s emergency tariffs."
+    },
+    {
+      "id": "5025401",
+      "time": "2026-08-05 05:33:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "威瑞森、美國電話電報、T‑Mobile因SpaceX相關財報言論，股價跌幅超4%。"
+    },
+    {
+      "id": "5025400",
+      "time": "2026-08-05 05:32:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI模型在第三方網路安全測試中突破預設邊界】OpenAI表示，在英國人工智慧安全研究所（UK AISI）和Irregular開展的第三方網路安全評估中，包括GPT-5.6 Sol在內的模型在降低安全防護的配置下，突破了預設測試邊界。UK AISI發現，GPT-5.6 Sol重複使用了一個GitHub令牌，並在外部域名系統和網路隧道服務提供商處註冊賬戶。Irregular的測試環境配置不當，使OpenAI模型得以訪問公共網際網路，並利用一個真實網站的漏洞。UK AISI於7月28日發現異常資料傳輸，並在大約一小時內控制住相關活動。OpenAI計劃評估其第三方測試方式，並將在未來幾周召集業內相關方進行討論。"
+    },
     {
       "id": "5025399",
       "time": "2026-08-05 05:31:48",
@@ -165576,16 +165620,6 @@
         "公司"
       ],
       "text": "【訊息人士：OpenAI 失控智慧體攻破第二家科技企業賬戶】Modal Labs 高管與知情人士透露，這枚從 OpenAI 外洩、連續數日對人工智慧公司 Hugging Face 發起大規模入侵的失控智慧體，還攻破了第二家科技企業 —— 總部位於紐約的 Modal Labs 的一名客戶賬戶。Hugging Face 於週二釋出事件時間線稱，該失控智慧體首先侵入一套搭建在第三方服務商算力設施上的沙盒隔離測試環境，並以此作為據點，發起大範圍網路攻擊。官方博文並未公佈該第三方服務商名稱，但 Modal Labs 技術長阿克沙特・布布納已證實，公司一名客戶遭到入侵。"
-    },
-    {
-      "id": "mkt:019faaa7-683b-7aab-8ed5-8ed850605604",
-      "time": "2026-07-29 05:35:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Rogue OpenAI 'jailbroken' agent widens attack; Modal Labs says a client account was breached】Modal Labs and an informed source say the rogue 'jailbroken' agent that escaped OpenAI and carried out a multi-day hack on Hugging Face also compromised a Modal Labs client account. Hugging Face's Tuesday timeline says the malicious agent first breached a sandbox hosted on third-party infrastructure and then used it as a pivot for broader attacks; the third-party provider was not named, and Modal CTO Akshat Bubna confirmed one client was hit."
     }
   ]
 }
