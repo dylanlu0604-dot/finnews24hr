@@ -1,7 +1,129 @@
 {
   "date": "2026-08-04",
-  "count": 2631,
+  "count": 2644,
   "items": [
+    {
+      "id": "mkt:019fccf6-930b-7aab-8f71-4670b83559d1",
+      "time": "2026-08-04 21:28:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude falls 4% to $79.71/bbl; WTI down 4.2%."
+    },
+    {
+      "id": "5024935",
+      "time": "2026-08-04 21:28:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "ET：荷蘭乙烷專案出口產能已簽約至 2040 年代。"
+    },
+    {
+      "id": "5024934",
+      "time": "2026-08-04 21:28:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國銀行：美光股價回撥是買入機會】美國銀行重申對美光的買入評級以及 1550 美元目標價，稱近期股價拋售帶來 “絕佳買入機會”。該行預計儲存晶片價格將於 2027‑2028 年迴歸正常水平，並表示公司基本面依舊強勁。美銀預測 2028 財年每股收益約 150 美元，悲觀情景下約 100 美元，仍遠高於上一輪週期約 12 美元的峰值。"
+    },
+    {
+      "id": "mkt:019fccf5-ea52-7aab-8f71-3f9f0558303d",
+      "time": "2026-08-04 21:28:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact mixed"
+      ],
+      "text": "【Samsung Electronics' chip foundry operations may approach full capacity in H2 2026】Reports indicate Samsung Electronics' chip foundry business could approach full capacity in H2 2026, a potential inflection after prolonged underutilization hurt profitability; yields on the 2nm process remain a major challenge."
+    },
+    {
+      "id": "5024933",
+      "time": "2026-08-04 21:27:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "富國銀行執行長：美國企業的海外崗位最易受到衝擊。"
+    },
+    {
+      "id": "5024932",
+      "time": "2026-08-04 21:26:53",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "原油跌至日內低點，布倫特原油交投於每桶 80 美元附近。"
+    },
+    {
+      "id": "5024931",
+      "time": "2026-08-04 21:26:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星電子晶片代工業務2026年下半年或接近滿負荷運轉】報道稱，三星電子的晶片代工業務可能在2026年下半年接近滿負荷運轉，這標誌著該公司在長期產能利用不足影響盈利之後，可能迎來一個轉折點，但2nm工藝的良率仍然是一大難題。(科創板日報)"
+    },
+    {
+      "id": "5024930",
+      "time": "2026-08-04 21:25:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌5%，現報76.32美元/桶。"
+    },
+    {
+      "id": "5024929",
+      "time": "2026-08-04 21:25:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌3%，現報3353.00元。"
+    },
+    {
+      "id": "5024928",
+      "time": "2026-08-04 21:25:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌4%，現報80.36美元/桶。"
+    },
+    {
+      "id": "5024927",
+      "time": "2026-08-04 21:25:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "富國銀行執行長：薪資增速有望超過通脹水平。"
+    },
+    {
+      "id": "mkt:019fccf3-5cb8-7aab-8f71-323f341862ea",
+      "time": "2026-08-04 21:25:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. crude (WTI) and Brent fell nearly $1 intraday to $75.7/bbl and $80.1/bbl, respectively."
+    },
+    {
+      "id": "5024926",
+      "time": "2026-08-04 21:25:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "美債收益率延續下行，原油跌至盤中低點。"
+    },
     {
       "id": "5024925",
       "time": "2026-08-04 21:25:04",
