@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-05 02:41:32",
-  "count": 17754,
+  "updated": "2026-08-05 02:45:20",
+  "count": 17755,
   "items": [
+    {
+      "id": "5025229",
+      "time": "2026-08-05 02:42:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西雷亞爾兌美元在即期交易中下跌1%。"
+    },
+    {
+      "id": "mkt:019fce15-4136-7aab-8f75-faee19f4f3d5",
+      "time": "2026-08-05 02:42:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Brazilian real slid 1% against the dollar in spot trading."
+    },
     {
       "id": "5025228",
       "time": "2026-08-05 02:40:30",
@@ -164365,14 +164383,6 @@
         "MKT News"
       ],
       "text": "Peru President Keiko Fujimori will ask Congress to grant the government legislative powers to address impacts from the El Niño weather phenomenon."
-    },
-    {
-      "id": "5012963",
-      "time": "2026-07-29 02:41:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯總統藤森：將請求立法權以應對厄爾尼諾天氣現象的影響。"
     }
   ]
 }

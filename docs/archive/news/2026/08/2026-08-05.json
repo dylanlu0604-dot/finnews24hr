@@ -1,7 +1,25 @@
 {
   "date": "2026-08-05",
-  "count": 151,
+  "count": 153,
   "items": [
+    {
+      "id": "5025229",
+      "time": "2026-08-05 02:42:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西雷亞爾兌美元在即期交易中下跌1%。"
+    },
+    {
+      "id": "mkt:019fce15-4136-7aab-8f75-faee19f4f3d5",
+      "time": "2026-08-05 02:42:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Brazilian real slid 1% against the dollar in spot trading."
+    },
     {
       "id": "5025228",
       "time": "2026-08-05 02:40:30",
