@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-05 01:14:48",
-  "count": 17778,
+  "updated": "2026-08-05 01:18:37",
+  "count": 17773,
   "items": [
+    {
+      "id": "mkt:019fcdc7-9227-7aab-8f75-379cf0416eb5",
+      "time": "2026-08-05 01:17:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $2.551 billion from three counterparties in its fixed-rate reverse repurchase operations."
+    },
+    {
+      "id": "mkt:019fcdc7-36e7-7aab-8f75-2fec792105d4",
+      "time": "2026-08-05 01:16:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chanel H1 sales rise double digits; comparable revenue +16%, US >25%】Foreign media citing a person familiar with results said Chanel’s H1 sales rose by double digits, with comparable revenue up about 16%. The company’s largest business, its fashion division, saw similar growth. US sales led regional gains, rising more than 25%. The source said the momentum continued into July but stronger year-ago comparisons could leave full-year growth below the H1 pace. Chanel reports annually; its May disclosure showed 2025 sales up 1.8% to $19.3bn. The person said Chanel outpaced luxury peers including LVMH."
+    },
+    {
+      "id": "5025202",
+      "time": "2026-08-05 01:16:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週二（8月4日），美聯儲隔夜逆回購協議（RRP）使用規模為22.51億美元（交易對手3家），上個交易日報21.27億美元。"
+    },
+    {
+      "id": "mkt:019fcdc6-4223-7aab-8f75-215d19bf85b4",
+      "time": "2026-08-05 01:15:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said as of Aug. 4 US forces had diverted 45 merchant vessels, rendered two merchant vessels inoperable, and boarded and inspected two merchant vessels to ensure compliance with applicable rules."
+    },
     {
       "id": "5025201",
       "time": "2026-08-05 01:13:55",
@@ -164509,90 +164544,6 @@
         "公司"
       ],
       "text": "英偉達CEO黃仁勳呼籲支援開放權重人工智慧模型。"
-    },
-    {
-      "id": "5012921",
-      "time": "2026-07-29 01:18:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "開雲集團CFO：預計下半年利潤率將有所提升。"
-    },
-    {
-      "id": "mkt:019fa9bc-062d-7aab-8ed2-efccb5bd75cc",
-      "time": "2026-07-29 01:18:19",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Shin Bet data show surge in violent attacks by extremist Jewish settlers】Internal Shin Bet data show a sharp rise in violent attacks by extremist Jewish settlers. In H1 2026 settlers carried out 660 attacks against Palestinians, up from 405 in H2 2025 — an increase of about 60%. The data show a rising trend since 2024 (H1 2024: 316; H2 2024: 355; H1 2025: 440). Attacks on Israeli security forces rose to 45 in H1 2026 from 30 in H2 2025."
-    },
-    {
-      "id": "5012920",
-      "time": "2026-07-29 01:18:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【OpenAI與Anthropic員工傳閱請願書 擬呼籲華府放慢前沿AI發展步伐】OpenAI和Anthropic員工正在傳閱一份請願書，擬呼籲美國政府支援建立一種機制，在必要時有意控制人工智慧的發展節奏，防止技術進步過快。數日前，OpenAI披露，其工具曾意外入侵另一家公司的內部系統。知情人士稱，多家領先AI實驗室的員工已向同事分享這封公開信，敦促美國支援一項國際努力，以便在必要時為更先進AI系統的研發設定節奏。請願書顯示，隨著AI研究自動化取得進展，人工智慧的發展速度“確實有可能”超過人類“理解或控制”它的能力。請願書寫道：“美國政府應支援國際社會開展合作，開發必要的技術和治理工具，以有意識地控制自動化AI發展的節奏。”"
-    },
-    {
-      "id": "5012919",
-      "time": "2026-07-29 01:17:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葛蘭素史克將在英國劍橋開設新研發中心】葛蘭素史克（GSK）計劃在英國劍橋生物醫學園區建立一座全新的大型全球研發中心，並將在三年內投入4億英鎊資金支援該專案。新園區面積達30萬平方英尺，將容納逾1000名葛蘭素史克科學家。該園區將支援腫瘤學、呼吸系統疾病、肝病學、疫苗及HIV領域的研究。"
-    },
-    {
-      "id": "mkt:019fa9ba-e69a-7aab-8ed2-e1dfa632add4",
-      "time": "2026-07-29 01:17:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $1.126 billion from three counterparties in its fixed-rate reverse repo operation."
-    },
-    {
-      "id": "5012918",
-      "time": "2026-07-29 01:16:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "3家交易對手在美聯儲逆回購操作中獲得11.26億美元。"
-    },
-    {
-      "id": "mkt:019fa9ba-0d68-7aab-8ed2-dc76250168bc",
-      "time": "2026-07-29 01:16:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's deputy foreign minister said if Oman rejects Iran's conditions, Iran will not recognize the southern shipping route through the Strait of Hormuz."
-    },
-    {
-      "id": "5012917",
-      "time": "2026-07-29 01:15:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍資料顯示極端猶太人定居者暴力襲擊事件激增】以色列國家安全總局（辛貝特）的內部資料顯示，今年以來，以色列極端猶太人定居者的暴力襲擊事件呈大幅上升趨勢。資料顯示，2026年上半年，極端猶太人定居者對巴勒斯坦人共實施了660次襲擊，與2025年下半年的405起相比，激增了約60%。資料還揭示了近年來此類暴力事件的持續走高趨勢：2024年上半年為316起，下半年為355起，至2025年上半年升至440起。除針對巴勒斯坦人外，以色列猶太人定居者對以色列安全部隊的襲擊也從去年下半年的30起上升至過去六個月的45起。"
-    },
-    {
-      "id": "5012916",
-      "time": "2026-07-29 01:15:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "胡塞武裝發言人：用導彈襲擊了一艘沙特油輪，該船隻在違反航行禁令。"
     }
   ]
 }
