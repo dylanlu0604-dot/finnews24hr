@@ -1,7 +1,311 @@
 {
   "date": "2026-08-04",
-  "count": 605,
+  "count": 638,
   "items": [
+    {
+      "id": "mkt:019fca67-2ef3-7aab-8f61-7c51ee96e413",
+      "time": "2026-08-04 09:33:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: live-fire exercise in Zhifu Bay port area】China Maritime Safety Administration website says Yantai Maritime Safety Administration issued a navigation warning: parts of the Zhifu Bay port area in the Bohai Strait will conduct a live-fire exercise on Aug 5 from 08:00 to 18:00 (local time); vessels are prohibited from entering."
+    },
+    {
+      "id": "5023454",
+      "time": "2026-08-04 09:33:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳新銀行資料顯示，澳大利亞7月份招聘廣告環比增長0.8%。"
+    },
+    {
+      "id": "mkt:019fca67-09d8-7aab-8f61-71080f85babb",
+      "time": "2026-08-04 09:32:58",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia July ANZ total job ads, seasonally adjusted, m/m +0.8% (prior -0.2%)."
+    },
+    {
+      "id": "mkt:019fca66-e84b-7aab-8f61-68234da636bd",
+      "time": "2026-08-04 09:32:49",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | ANZ Total Job Advertisements SA (MoM) (Jul) | actual 0.8% | previous -0.20%"
+    },
+    {
+      "id": "5023453",
+      "time": "2026-08-04 09:32:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告：芝罘灣港區實彈射擊】據中國海事局網站訊息，煙臺海事局釋出航行警告，8月5日8時至18時，渤海海峽，芝罘灣港區部分水域進行實彈射擊，禁止駛入。"
+    },
+    {
+      "id": "5023452",
+      "time": "2026-08-04 09:32:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "滬指翻綠，MLCC、豬肉概念、PEEK材料板塊跌幅居前。"
+    },
+    {
+      "id": "mkt:019fca66-5aa0-7aab-8f61-65539932ccc6",
+      "time": "2026-08-04 09:32:13",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "Shanghai Composite turned negative; MLCC, pork-related and PEEK materials sectors led declines."
+    },
+    {
+      "id": "mkt:019fca66-3be1-7aab-8f61-5c5570753783",
+      "time": "2026-08-04 09:32:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea to reshape property tax system; higher levies on high-end and non-owner-occupied homes】The Ministry of Economy and Finance said Monday the government will cut tax concessions for high-value residences and sharply raise taxes on non-owner-occupied high-priced homes to create a fairer system based on ownership and occupancy. The moves are part of the ministry's 2026 tax reform proposal and support SOUTH KOREA'S LEE's drive to normalize the housing market, stabilise prices and favour \"genuine homebuyers\". The plan also proposes broader tax reform to foster new growth drivers, promote regional balance and aid low- and middle-income households."
+    },
+    {
+      "id": "5023451",
+      "time": "2026-08-04 09:32:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴港股漲3%。"
+    },
+    {
+      "id": "5023450",
+      "time": "2026-08-04 09:31:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力租賃概念反覆活躍 美利雲3連板】算力租賃概念反覆活躍，美利雲3連板，高樂股份一字漲停，利通電子、青雲科技、宏景科技、行雲科技漲幅靠前。"
+    },
+    {
+      "id": "5023449",
+      "time": "2026-08-04 09:31:46",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【賽諾威盛啟動北交所IPO輔導，曾闖關科創板未果】證監會網站披露，賽諾威盛科技（北京）股份有限公司（以下簡稱“賽諾威盛”）於2026年8月3日在北京證監局辦理輔導備案登記，擬向不特定合格投資者公開發行股票並在北交所上市，輔導券商為國金證券。公開資料顯示，賽諾威盛是一家專注於X射線計算機斷層掃描成像（CT）系統裝置及軟體研發、生產和銷售的企業，主要產品包括CT裝置及醫學影像產品等。2023年3月，賽諾威盛曾向上交所遞交招股書，準備在科創板上市。2024年6月，公司撤回上市申請檔案，上交所依規終止了其IPO稽核。2026年6月30日，公司在全國中小企業股份轉讓系統掛牌。對於此次衝刺北交所，賽諾威盛表示，公司目前為基礎層掛牌公司，須進入創新層後方可申報公開發行股票並在北交所上市，存在因未能進入創新層而無法申報的風險。"
+    },
+    {
+      "id": "te:markets:572317",
+      "time": "2026-08-04 09:31:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Near Three-Week Low — US gasoline futures traded below $3.0 per gallon in early August, holding near a three-week low as markets remained focused on developments in the Strait of Hormuz. President Donald Trump said his latest offer of talks was Tehran's \"last chance\" and reiterated his confidence that the key shipping route would fully reopen. While Iran denied holding direct talks with the US, it said negotiations with Oman to increase traffic through the strait were making progress. Meanwhile, Gulf producers continued to develop alternative export routes, with Turkey and Iraq renewing a pipeline agreement, while Kazakhstan restored its crude flows through the Caspian Pipeline Consortium after a temporary disruption. In Russia, the government extended its diesel and gasoline export ban through January 2027 as fuel shortages persisted amid continued Ukrainian strikes on major oil refineries."
+    },
+    {
+      "id": "mkt:019fca65-791a-7aab-8f61-52c0967120b4",
+      "time": "2026-08-04 09:31:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures early session open】China government bond futures opened early session: 2-year (TS) main contract down 0.01%, 5-year (TF) main contract unchanged, 10-year (T) main contract unchanged, 30-year (TL) main contract down 0.08%."
+    },
+    {
+      "id": "mkt:019fca65-699c-7aab-8f61-4e7704caf750",
+      "time": "2026-08-04 09:31:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China index futures open higher】CSI 300 index futures (IF) most-active contract up 0.60% in morning trade; SSE 50 futures (IH) most-active contract up 0.10%; CSI 500 futures (IC) most-active contract up 0.60%; CSI 1000 futures (IM) most-active contract up 0.60%."
+    },
+    {
+      "id": "mkt:019fca65-3647-7aab-8f61-427550798243",
+      "time": "2026-08-04 09:30:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's finance minister said the government will implement measures to contain market volatility."
+    },
+    {
+      "id": "5023448",
+      "time": "2026-08-04 09:30:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞6月份家庭支出同比增長6.0%，同比增長6.0%。"
+    },
+    {
+      "id": "5023447",
+      "time": "2026-08-04 09:30:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲1.00%，現報13583.344點；上證指數漲0.14%，現報3814.845點；創業板指漲1.67%，現報3357.587點。"
+    },
+    {
+      "id": "5023446",
+      "time": "2026-08-04 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.08%，成分股中，源傑科技漲5.23%，芯原股份漲2.67%，瀾起科技漲2.43%，百利天恆漲2.18%。"
+    },
+    {
+      "id": "5023445",
+      "time": "2026-08-04 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.82%， 滬深300指數期貨連續漲0.68%， 中證500指數期貨連續漲0.66%， 上證50指數期貨連續漲0.38%。"
+    },
+    {
+      "id": "5023444",
+      "time": "2026-08-04 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.08%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "mkt:019fca64-54af-7aab-8f61-3937c1bd39c3",
+      "time": "2026-08-04 09:30:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's finance minister told a cabinet meeting the government will push to improve stock-market structure and stability and accelerate implementation of ETF measures."
+    },
+    {
+      "id": "mkt:019fca63-9cff-7aab-8f61-353fd3b115f3",
+      "time": "2026-08-04 09:29:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shenzhen Stock Exchange suspends 'Jiuwu Convertible 02' (123276) intraday after price rises at least 30%】Shenzhen Stock Exchange suspended trading in the convertible bond Jiuwu Convertible 02 (123276) from 09:30:00 to 14:57:00 today after its intraday traded price for the first time rose at least 30% above the issue price, under SZSE convertible bond trading rules."
+    },
+    {
+      "id": "5023443",
+      "time": "2026-08-04 09:29:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深交所：“久吾轉02”盤中臨時停牌】“久吾轉02”（123276）盤中成交價較發行價首次上漲達到或超過30%，根據《深圳證券交易所可轉換公司債券交易實施細則》等有關規定，本所自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
+    },
+    {
+      "id": "5023442",
+      "time": "2026-08-04 09:28:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【通訊裝置板塊高開，欣天科技2連板】通訊裝置板塊高開，欣天科技2連板，劍橋科技、銘普光磁、仕佳光子、天孚通訊、中際旭創跟漲。"
+    },
+    {
+      "id": "5023441",
+      "time": "2026-08-04 09:28:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "N嘉立創開漲177.47%，市值達1300億元。"
+    },
+    {
+      "id": "mkt:019fca63-0aaa-7aab-8f61-2cd9e5bfe19e",
+      "time": "2026-08-04 09:28:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "N Jialichuang surged 177.47% at the open, lifting market capitalization to CNY130 billion."
+    },
+    {
+      "id": "5023440",
+      "time": "2026-08-04 09:28:33",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國財長：韓國將致力於改善股市結構和穩定性，將著重加快落實ETF措施。"
+    },
+    {
+      "id": "te:markets:572314",
+      "time": "2026-08-04 09:28:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Holds Losses — US heating oil futures traded below $3.9 per gallon in early August, holding recent losses as markets assessed developments surrounding the Strait of Hormuz. President Donald Trump said his latest offer of talks was Tehran's \"last chance\" and expressed confidence that the key waterway would fully reopen. Although Iran denied holding direct talks with the US, it said discussions with Oman to increase shipping through the strait were making progress. Meanwhile, Gulf producers continued to pursue alternative export routes, with Turkey and Iraq extending a pipeline agreement, while Kazakhstan restarted its crude shipments through the Caspian Pipeline Consortium following a temporary disruption. Separately, Russian diesel supplies remained constrained by ongoing Ukrainian attacks on major oil refineries, prompting Moscow to extend its diesel and gasoline export ban through January 2027."
+    },
+    {
+      "id": "mkt:019fca61-fcb8-7aab-8f61-2585452709d1",
+      "time": "2026-08-04 09:27:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "At the open on Tuesday, Aug. 4, China's Shanghai Composite Index rose 6.71 points (0.18%) to 3,816.37; Shenzhen Composite Index rose 124.66 points (0.93%) to 13,572.95; CSI 300 Index rose 23.76 points (0.52%) to 4,566.94; ChiNext Index rose 50.96 points (1.54%) to 3,353.51; STAR 50 Index rose 16.73 points (1.08%) to 1,569.62."
+    },
+    {
+      "id": "mkt:019fca61-707c-7aab-8f61-1f7f4c7044da",
+      "time": "2026-08-04 09:26:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "2359.HK",
+        "Impact bullish"
+      ],
+      "text": "China A-share CRO sector active in early trading: Baihua Medical opened straight to the daily limit, WuXi AppTec +7%+, Kailaiying +5%+, Boteng and Kanglong Huacheng also rose."
+    },
+    {
+      "id": "5023439",
+      "time": "2026-08-04 09:26:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【元力股份：公司超級電容炭、硬碳、多孔碳等新能源碳材料已實現批次生產和銷售】元力股份8月4日在互動平臺表示，公司超級電容炭、硬碳、多孔碳等新能源碳材料已實現批次生產和銷售。"
+    },
+    {
+      "id": "5023438",
+      "time": "2026-08-04 09:26:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國將致力於改善股市結構和穩定性。"
+    },
+    {
+      "id": "5023437",
+      "time": "2026-08-04 09:26:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CRO概念開盤活躍 百花醫藥漲停】CRO概念開盤活躍，百花醫藥漲停，藥明康德漲7%，凱萊英、益諾思、萬邦醫藥、康龍化成、睿智醫藥高開。"
+    },
     {
       "id": "mkt:019fca60-18e4-7aab-8f61-16063118d775",
       "time": "2026-08-04 09:25:23",
