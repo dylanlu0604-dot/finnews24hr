@@ -1,7 +1,98 @@
 {
   "date": "2026-08-05",
-  "count": 563,
+  "count": 573,
   "items": [
+    {
+      "id": "5025507",
+      "time": "2026-08-05 07:42:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今天宇樹科技IPO迎來關鍵節點】 今天是宇樹科技IPO的初步詢價日，8月10日將開放申購。"
+    },
+    {
+      "id": "mkt:019fcf27-e27f-7aab-8f79-8d516b11189d",
+      "time": "2026-08-05 07:42:05",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "US Treasury Secretary Bessent said he has full confidence in BOJ Governor Ueda and that Ueda understands markets well."
+    },
+    {
+      "id": "mkt:019fcf27-8895-7aab-8f79-81599f1e86b4",
+      "time": "2026-08-05 07:41:42",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "US Treasury Secretary Bessent said many Asian currencies are currently tracking the yen, notably the South Korean won."
+    },
+    {
+      "id": "5025506",
+      "time": "2026-08-05 07:41:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "貝森特稱他對日本央行行長植田和男充滿信心，稱植田非常“深諳市場”。"
+    },
+    {
+      "id": "5025505",
+      "time": "2026-08-05 07:41:22",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "據日經新聞報道，美國財政部長貝森特表示，目前許多亞洲貨幣都在跟隨日元走勢，例如韓元等。"
+    },
+    {
+      "id": "5025504",
+      "time": "2026-08-05 07:41:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤上漲1740點，報65695點。"
+    },
+    {
+      "id": "te:economy:572711",
+      "time": "2026-08-05 07:39:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Industry Index Manufacturing",
+        "Importance 1"
+      ],
+      "text": "Australia Manufacturing Contracts Further on Weak Demand — Australia’s Ai Group Industry Index for manufacturing fell deeper into contraction in July, sliding to -19.6 from June’s upwardly revised -13.9, partly unwinding the strongest improvement in eight months. The sector remained under pressure as subdued consumer demand, rising input costs, and heavier compliance burdens squeezed margins. Upstream industries showed mixed trends: chemicals contracted at a slower pace despite cost volatility and weaker construction demand, while metals lost momentum after June’s rebound, with firms citing rising costs, customer uncertainty, labour shortages, and higher employment expenses. Downstream, machinery and equipment posted its best result since July 2024, buoyed by mining and defence orders, reduced competition, and steady customer sales. Food and beverage softened as fuel and input costs weighed on margins, though stronger export demand from Europe, Asia, and China partly offset weaker domestic orders."
+    },
+    {
+      "id": "5025503",
+      "time": "2026-08-05 07:39:31",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【澳大利亞監管機構啟動地區行動網路覆蓋調查】澳大利亞競爭與消費者委員會表示，已啟動一項調查，研判鄉村地區行動網路覆蓋情況，以及對部分移動服務的批發接入實施監管是否能夠改善消費者權益。本次調查週期約 12 個月。調查將評估澳大利亞競爭與消費者委員會是否應當對一項或多項移動批發服務作出強制公告，包括國內漫遊以及無線接入網路服務。如果調查結束後該委員會公告某項服務，則移動運營商可能需要按照委員會劃定的條件，允許其他運營商使用自身基礎設施或網路接入相關服務。澳大利亞競爭與消費者委員會專員安娜・佈雷基在宣告中稱：“本次調查將透過公開、循證、多方徵詢的流程研判當前市場現狀與新技術，以此決定是否有必要出臺監管措施。”"
+    },
+    {
+      "id": "5025502",
+      "time": "2026-08-05 07:39:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【年內險資僅舉牌6次 硬科技標的仍受青睞】今年以來，險資舉牌節奏有所放緩。據記者統計，截至8月4日，年內共有3家保險公司合計舉牌6次，舉牌標的包括交通基建、銀行、保險和科技型企業等。相較於去年同期的21次舉牌，今年的險資舉牌次數有較大幅度減少。"
+    },
+    {
+      "id": "5025501",
+      "time": "2026-08-05 07:38:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美加州警方在特朗普將出席活動球場逮捕一持武器男子】當地時間8月4日，美國加利福尼亞州洛杉磯縣警局發表宣告稱，一名攜帶大量武器的男子2日出現在總統特朗普名下位於洛杉磯縣的一處高爾夫球場，因可疑行為於2日當天被捕。警方隨後對嫌疑人住所展開搜查，查獲一支非法改裝的AR式步槍、防彈衣、大容量彈匣、彈藥，以及多本寫有“令人擔憂言論”的筆記本。特朗普定於4日晚些時候在這處高爾夫球場出席募款活動。（央視）"
+    },
     {
       "id": "5025500",
       "time": "2026-08-05 07:38:20",
