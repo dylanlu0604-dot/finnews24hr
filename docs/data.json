@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-05 02:52:59",
-  "count": 17748,
+  "updated": "2026-08-05 02:56:48",
+  "count": 17747,
   "items": [
+    {
+      "id": "5025231",
+      "time": "2026-08-05 02:55:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "據每日電訊報：重啟霍爾木茲海峽新方案或將由歐洲承擔費用。"
+    },
+    {
+      "id": "5025230",
+      "time": "2026-08-05 02:54:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【義大利政府延長柴油稅減免至8月25日】據義大利媒體La Stampa報道，義大利內閣將柴油稅減免措施延長至8月25日。在夏季出行旺季期間，該措施將繼續為柴油使用者提供價格優惠。報道稱，柴油稅減免幅度將維持在每升17歐分（包括增值稅）。目前汽油仍不在該減免措施範圍內。"
+    },
     {
       "id": "5025229",
       "time": "2026-08-05 02:42:11",
@@ -164295,30 +164311,6 @@
         "DXY"
       ],
       "text": "Iran's foreign minister said Ukraine assured him the attack on an Iranian vessel was not deliberate and that Kyiv does not seek escalation."
-    },
-    {
-      "id": "5012968",
-      "time": "2026-07-29 02:55:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：伊朗方面同樣無意衝突升級，但明確表態，任何針對伊朗公民、國家利益的攻擊都無法接受，烏方必須賠償相關損失。"
-    },
-    {
-      "id": "5012967",
-      "time": "2026-07-29 02:55:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：烏克蘭外長安德里·瑟比加向我方保證，此次襲擊伊朗船隻屬於意外，烏方無意激化局勢。"
-    },
-    {
-      "id": "mkt:019faa14-8ca8-7aab-8ed4-07326df7ea24",
-      "time": "2026-07-29 02:55:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Peru's President Keiko Fujimori said the government will boost public and private investment in \"productive infrastructure\" such as roads, ports and airports."
     }
   ]
 }
