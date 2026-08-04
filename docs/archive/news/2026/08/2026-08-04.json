@@ -1,7 +1,132 @@
 {
   "date": "2026-08-04",
-  "count": 2603,
+  "count": 2617,
   "items": [
+    {
+      "id": "5024915",
+      "time": "2026-08-04 21:20:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特汽車7月美國F系列皮卡銷量為68755輛，同比下降6.5% 。"
+    },
+    {
+      "id": "5024914",
+      "time": "2026-08-04 21:20:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特汽車7月美國混合動力汽車銷量為14086輛，同比下降25.1%。"
+    },
+    {
+      "id": "5024913",
+      "time": "2026-08-04 21:20:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特汽車7月美國電動汽車銷量2,065輛，下降74.9%。"
+    },
+    {
+      "id": "5024912",
+      "time": "2026-08-04 21:19:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "孟買證券交易所擬斥資 5.05 億印度盧比，將 IIBH 持股比例提升至 20%。"
+    },
+    {
+      "id": "mkt:019fccee-0d7e-7aab-8f71-1c60d13b8b3a",
+      "time": "2026-08-04 21:19:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Canva completes integrations with Chinese AI agents Kimi, WorkBuddy, QoderWorkCN】Canva has officially launched MCP (Model Context Protocol) capability in the China market and completed initial ecosystem integrations with local AI agents Kimi, WorkBuddy and QoderWorkCN. Canva China general manager Wang Kexin said AI is making content generation easier, but creation goes beyond generation — users need the ability to edit, collaborate and refine outputs into usable work."
+    },
+    {
+      "id": "5024911",
+      "time": "2026-08-04 21:19:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度孟買證券交易所有限公司（BSE LTD）第二季度（截至6月）合併運營收入為156.6億盧比。"
+    },
+    {
+      "id": "5024910",
+      "time": "2026-08-04 21:19:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Linux基金會發布《共享AI發現交換指南》徵求意見稿】據英偉達部落格，隨著年度黑帽安全大會今日在拉斯維加斯開幕，開放安全AI聯盟（Open Secure AI Alliance）的成員正在制定新的指導原則，以加強智慧體AI的網路安全防護。目前，該聯盟成員規模已超過120家機構。Linux基金會今日釋出了《共享AI發現交換指南》（SAFE）的徵求意見稿。這是一套擬議中的指導原則，旨在將智慧體AI領域發生的網路安全事件轉化為整個生態系統共享的防護能力。SAFE指南由開放安全AI聯盟工作組負責起草。包括英偉達、思科系統 、CrowdStrike、Hugging Face以及Red Hat在內的聯盟成員，正在與Linux基金會合作，為初始提案提供支援。SAFE指南包含多項建議措施，包括：以保密方式收集和分析AI安全事件以及“未遂事件”；通知受到影響的相關方；識別反覆出現的安全控制失效問題；釋出基於證據的運營建議，以降低整個系統的風險。"
+    },
+    {
+      "id": "5024909",
+      "time": "2026-08-04 21:18:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特汽車7月美國卡車銷量為107,087輛，同比下降2.2%。"
+    },
+    {
+      "id": "5024908",
+      "time": "2026-08-04 21:18:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特汽車7月美國SUV銷量為59458輛，同比下降21.3%。"
+    },
+    {
+      "id": "5024907",
+      "time": "2026-08-04 21:18:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Canva可畫完成與Kimi、WorkBuddy、QoderWorkCN等本土AI智慧體應用生態對接】全球視覺傳播與協作平臺Canva可畫在中國市場正式上線MCP（Model Context Protocol，模型上下文協議）能力，首批完成與Kimi、WorkBuddy、QoderWorkCN等本土AI智慧體應用的生態對接。Canva可畫中國總經理王可辛向澎湃新聞記者表示：“AI正在讓內容生成變得更容易，但創作並不止於生成。對使用者來說，真正重要的是能否在生成之後繼續編輯、協作和完善，並最終形成可以使用的作品。” （澎湃）"
+    },
+    {
+      "id": "mkt:019fcced-11a7-7aab-8f71-1073c9ec67de",
+      "time": "2026-08-04 21:18:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "F.N",
+        "Impact bearish"
+      ],
+      "text": "Ford Motor Co (F.N) U.S. sales in July totaled 169,951 vehicles, down 10.2%."
+    },
+    {
+      "id": "mkt:019fccec-d0ca-7aab-8f71-0d596688b440",
+      "time": "2026-08-04 21:18:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Nikkei 225"
+      ],
+      "text": "【Korea July ETF rout: 8 of 10 worst performers tied to semiconductors】Korea Exchange data published Aug. 4 show that excluding leveraged and inverse products, eight of the ten worst-performing domestic ETFs in July were semiconductor-related. SOL AI Semiconductor TOP2 Plus led losses, down 38.15% in July; ACE K Semiconductor TOP2+ fell 36.25%; SOL Semiconductor Front‑End Process dropped 35.97%. ETFs with overseas semiconductor holdings also posted large declines. Analysts cite sharp falls in US semiconductor stocks and growing concern the global semiconductor cycle may have peaked as the proximate driver of sector-wide weakness. The remaining two ETFs in the bottom ten were aerospace plays — KODEX US Aerospace down 37.81% and TIGER US Space Technology down 35.96% — both holding SpaceX as their largest position."
+    },
+    {
+      "id": "5024906",
+      "time": "2026-08-04 21:18:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【位元組跳動啟動2027校園招聘，持續加碼AI人才】8月3日，位元組跳動正式啟動2027屆校園招聘，面向2026年9月至2027年8月期間畢業的同學，開放研發、產品、運營、設計、市場、職能/支援、銷售、遊戲策劃八大類崗位。本次校招重點向技術與產品傾斜，相關崗位需求佔比超七成，全面加大AI人才儲備。研發崗位中，增設“AI全棧工程師”、“AIAgent開發”等新興崗位，演算法需求繼續增加的同時，進一步增加大模型應用方向的人才儲備；非研發類崗位中，產品類需求同比增長20%，其中超半數崗位聚焦AI產品方向，反映出公司在AI時代對技術和產品創新的深度佈局。（澎湃）"
+    },
+    {
+      "id": "5024905",
+      "time": "2026-08-04 21:17:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【北京商報侃股：理性看待龍虎榜交易資訊】部分短線投資者喜歡根據龍虎榜炒股，試圖透過交易所盤後公佈的公開交易資訊，找出提升交易勝率的蛛絲馬跡。實際上，公開交易資訊有其滯後性，而且公開交易資訊所涉及的股票多為熱門股票，其中資金多以短線投機為主。投資者可以將其作為一定的參考依據，但不能完全依賴龍虎榜炒股。"
+    },
     {
       "id": "5024904",
       "time": "2026-08-04 21:17:16",
