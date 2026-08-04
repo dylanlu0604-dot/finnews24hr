@@ -1,7 +1,131 @@
 {
   "date": "2026-08-04",
-  "count": 2939,
+  "count": 2950,
   "items": [
+    {
+      "id": "mkt:019fcd68-65f4-7aab-8f73-84292a69c88e",
+      "time": "2026-08-04 23:33:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "U.S. 6-week Treasury auction on Aug. 4 — bid-cover ratio 2.93, prior 2.93."
+    },
+    {
+      "id": "mkt:019fcd68-39dd-7aab-8f73-7b7aa99d2c34",
+      "time": "2026-08-04 23:33:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. 6-week Treasury auction through Aug. 4 — 79.36% of allotment awarded at the stop-out rate, prior 82.07%."
+    },
+    {
+      "id": "mkt:019fcd68-242f-7aab-8f73-70667f90ab22",
+      "time": "2026-08-04 23:33:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 6-week Treasury auction on Aug. 4 — stop-out yield 3.64%, prior 3.70%."
+    },
+    {
+      "id": "mkt:019fcd67-f4de-7aab-8f73-6ca2e5115252",
+      "time": "2026-08-04 23:32:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 1-year Treasury auction on Aug 4: bid-cover ratio 3.62, prior 3.14."
+    },
+    {
+      "id": "mkt:019fcd67-ea1c-7aab-8f73-640b2ee218d6",
+      "time": "2026-08-04 23:32:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 1-year Treasury auction on Aug. 4 — allocation at the awarded yield 12.98%, prior 17.61%."
+    },
+    {
+      "id": "5025136",
+      "time": "2026-08-04 23:32:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬拉松石油：汽油、柴油及航空煤油需求依舊保持韌性；美國 6 月航空煤油需求創下歷史新高。"
+    },
+    {
+      "id": "mkt:019fcd67-cdfa-7aab-8f73-5c89b6c6ea4b",
+      "time": "2026-08-04 23:32:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction Bid/Cover Ratio (Aug.4) | actual 3.62 | previous 3.14"
+    },
+    {
+      "id": "mkt:019fcd67-bec4-7aab-8f73-55480b858f52",
+      "time": "2026-08-04 23:32:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 1-year Treasury auction on Aug. 4 — stop-out yield 3.88% vs 3.86% previo usly."
+    },
+    {
+      "id": "mkt:019fcd67-b9a4-7aab-8f73-4ee9e08c0d30",
+      "time": "2026-08-04 23:32:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction Accepted at High (Aug.4) | actual 12.98% | previous 17.61%"
+    },
+    {
+      "id": "5025135",
+      "time": "2026-08-04 23:32:31",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.640%，投標倍數2.93。拍賣52週期國債，得標利率3.880%，投標倍數3.62。"
+    },
+    {
+      "id": "mkt:019fcd67-9063-7aab-8f73-43f3414083cb",
+      "time": "2026-08-04 23:32:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction High Yield Rate (Aug.4) | actual 3.88% | previous 3.86%"
+    },
     {
       "id": "5025134",
       "time": "2026-08-04 23:31:23",

@@ -1,7 +1,131 @@
 {
-  "updated": "2026-08-04 23:32:31",
+  "updated": "2026-08-04 23:36:28",
   "count": 17812,
   "items": [
+    {
+      "id": "mkt:019fcd68-65f4-7aab-8f73-84292a69c88e",
+      "time": "2026-08-04 23:33:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "U.S. 6-week Treasury auction on Aug. 4 — bid-cover ratio 2.93, prior 2.93."
+    },
+    {
+      "id": "mkt:019fcd68-39dd-7aab-8f73-7b7aa99d2c34",
+      "time": "2026-08-04 23:33:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. 6-week Treasury auction through Aug. 4 — 79.36% of allotment awarded at the stop-out rate, prior 82.07%."
+    },
+    {
+      "id": "mkt:019fcd68-242f-7aab-8f73-70667f90ab22",
+      "time": "2026-08-04 23:33:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 6-week Treasury auction on Aug. 4 — stop-out yield 3.64%, prior 3.70%."
+    },
+    {
+      "id": "mkt:019fcd67-f4de-7aab-8f73-6ca2e5115252",
+      "time": "2026-08-04 23:32:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 1-year Treasury auction on Aug 4: bid-cover ratio 3.62, prior 3.14."
+    },
+    {
+      "id": "mkt:019fcd67-ea1c-7aab-8f73-640b2ee218d6",
+      "time": "2026-08-04 23:32:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 1-year Treasury auction on Aug. 4 — allocation at the awarded yield 12.98%, prior 17.61%."
+    },
+    {
+      "id": "5025136",
+      "time": "2026-08-04 23:32:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬拉松石油：汽油、柴油及航空煤油需求依舊保持韌性；美國 6 月航空煤油需求創下歷史新高。"
+    },
+    {
+      "id": "mkt:019fcd67-cdfa-7aab-8f73-5c89b6c6ea4b",
+      "time": "2026-08-04 23:32:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction Bid/Cover Ratio (Aug.4) | actual 3.62 | previous 3.14"
+    },
+    {
+      "id": "mkt:019fcd67-bec4-7aab-8f73-55480b858f52",
+      "time": "2026-08-04 23:32:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 1-year Treasury auction on Aug. 4 — stop-out yield 3.88% vs 3.86% previo usly."
+    },
+    {
+      "id": "mkt:019fcd67-b9a4-7aab-8f73-4ee9e08c0d30",
+      "time": "2026-08-04 23:32:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction Accepted at High (Aug.4) | actual 12.98% | previous 17.61%"
+    },
+    {
+      "id": "5025135",
+      "time": "2026-08-04 23:32:31",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.640%，投標倍數2.93。拍賣52週期國債，得標利率3.880%，投標倍數3.62。"
+    },
+    {
+      "id": "mkt:019fcd67-9063-7aab-8f73-43f3414083cb",
+      "time": "2026-08-04 23:32:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction High Yield Rate (Aug.4) | actual 3.88% | previous 3.86%"
+    },
     {
       "id": "5025134",
       "time": "2026-08-04 23:31:23",
@@ -164737,121 +164861,6 @@
         "MKT News"
       ],
       "text": "【Zhongji Xuchuang: 1.6T ASP far above market rumours; no destructive price competition】Zhongji Xuchuang told investors its 1.6T ASP is well above market rumours and the industry is not engaging in cutthroat price competition. Overall demand is very strong, raw materials are scarce and 1.6T deliveries are tight; only a few vendors can deliver 1.6T at scale. The company says its pricing is competitive and can sustain current gross margins. Nearly all customer orders already cover full-year 2026, with some orders extending into 2027 and delivery schedules broken down monthly. For 2027 the company sees clear, high-certainty demand and rapid growth for 800G, 1.6T, 2.4T and NPO products; several key customers have issued sizeable new-product guidance for 2028. Zhongji Xuchuang expects downstream key customers’ capex to remain robust and customer investment in the sector to continue rising."
-    },
-    {
-      "id": "5012825",
-      "time": "2026-07-28 23:36:15",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "沙特阿美公司已暫停位於吉達的日處理能力為40萬桶的煉油廠的運營，原因是遭到胡塞武裝的襲擊。"
-    },
-    {
-      "id": "mkt:019fa95c-e80d-7aab-8ed0-ef3be3b1f236",
-      "time": "2026-07-28 23:34:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "【Reuters survey: analysts lower gold forecasts for first time since end-2023; central bank buying seen cushioning decline】A Reuters survey of 29 analysts and traders over the past three weeks shows forecasters trimmed gold price forecasts for the first time since end-2023 after a sharp retreat from January’s record high. The median 2026 forecast is $4,509/oz, down from $4,916 three months earlier and marking the first quarterly downgrade in 11 quarters. The 2027 forecast averaged $4,610/oz, versus $5,100 in the prior survey. Most respondents still expect central bank buying and fiscal-sustainability concerns to provide support. Gold hit a record $5,595/oz in January but plunged in Q2 as the Iran war intensified energy-driven inflation and lifted rate-hike expectations, producing the worst quarter since 2013; spot gold is down about 22% since the conflict began."
-    },
-    {
-      "id": "5012824",
-      "time": "2026-07-28 23:34:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守82美元/桶，日內跌4.53%。"
-    },
-    {
-      "id": "5012823",
-      "time": "2026-07-28 23:33:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭媒體：受俄軍海上襲擊影響，南部採礦選礦厂部分停產。"
-    },
-    {
-      "id": "mkt:019fa95c-6242-7aab-8ed0-e78788022f1a",
-      "time": "2026-07-28 23:33:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ZELENSKIY said he had a \"good meeting\" with Trump and discussed diplomatic issues, saying reviving the diplomatic process is important; his team will arrange follow-up communications and related details."
-    },
-    {
-      "id": "5012822",
-      "time": "2026-07-28 23:33:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中際旭創：公司1.6T的ASP遠高於市場傳言 部分客戶訂單已下到2027年】中際旭創釋出投資者關係活動記錄表公告，針對行業1.6T光模組價格降幅較大的市場傳聞，公司1.6T的ASP遠高於市場傳言，行業不存在惡性競爭。當前整體行業需求非常旺盛，原材料緊缺，1.6T交付緊張，只有少數廠商具備大規模交付1.6T的能力。公司產品定價具備競爭力，能夠穩定維持毛利率水平。目前幾乎所有客戶訂單已覆蓋2026全年，部分客戶訂單已下到2027年，交付計劃細化到月度。2027年行業情況明晰，800G、1.6T、2.4T、NPO等產品需求都具有較強的確定性，增速也非常快。部分重點客戶已給出2028年新產品指引，指引金額非常可觀。因為公司預計下游重點客戶的資本開支仍具有很強的可持續性，客戶願意繼續加大行業投入。"
-    },
-    {
-      "id": "mkt:019fa95b-93c0-7aab-8ed0-dd589fda7c54",
-      "time": "2026-07-28 23:32:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "US 6-week Treasury auction through July 28: share of allotment awarded at the stop-out yield 82.07%, prior 1.87%."
-    },
-    {
-      "id": "mkt:019fa95b-7d48-7aab-8ed0-d17b1d40bcc4",
-      "time": "2026-07-28 23:32:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "U.S. 6-week Treasury bill auction on July 28: bid-cover ratio 2.93, prior 2.79."
-    },
-    {
-      "id": "5012821",
-      "time": "2026-07-28 23:32:42",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣六週期國債，得標利率3.7%，投標倍數2.93。"
-    },
-    {
-      "id": "mkt:019fa95b-496c-7aab-8ed0-cc8aa1bab99f",
-      "time": "2026-07-28 23:32:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "U.S. 6-week Treasury bill auction (settlement to July 28) stop-out yield 3.70%, up from 3.65% previously."
-    },
-    {
-      "id": "5012820",
-      "time": "2026-07-28 23:32:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "惠譽評級：墨西哥本地債務市場支援非銀行金融機構和保險公司發行債券。"
     }
   ]
 }
