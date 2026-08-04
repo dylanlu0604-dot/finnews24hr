@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-04 08:41:24",
-  "count": 17885,
+  "updated": "2026-08-04 08:45:19",
+  "count": 17882,
   "items": [
+    {
+      "id": "5023376",
+      "time": "2026-08-04 08:41:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數下跌超過1%，一度跌至63102.02點。"
+    },
+    {
+      "id": "5023375",
+      "time": "2026-08-04 08:40:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率下跌1.0個基點至1.550%。"
+    },
     {
       "id": "mkt:019fca37-3b31-7aab-8f60-8f28780e488d",
       "time": "2026-08-04 08:40:44",
@@ -165733,52 +165750,6 @@
         "SZSE Component"
       ],
       "text": "【CITIC Securities: buying opportunities in electronics after sharp pullback】CITIC Securities says the electronics sector has corrected sharply since July and valuations have fallen materially while industry fundamentals remain intact. Key drivers include stronger semiconductor-equipment order visibility, accelerating domestic compute orders and supply‑chain restocking, AI‑server demand lifting PCB and AI power‑supply cycles, and a clearer memory-price uptrend; supply‑chain opportunities are also spreading into consumer electronics. The report adds the selloff has pushed some quality names into valuation troughs, creating scope for earnings delivery and valuation re-rating."
-    },
-    {
-      "id": "te:markets:570218",
-      "time": "2026-07-28 08:44:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Tumble in Tech-Led Selloff — The Nikkei 225 Index dropped 3.7% to around 62,500, while the broader Topix Index declined 2.3% to 3,973 on Tuesday, with the Nikkei falling to a two-month low as semiconductor and other technology stocks faced renewed selling pressure. The losses followed a sharp selloff in US chipmakers overnight amid concerns that circular AI financing arrangements could unravel if hyperscalers scale back capital spending. Major decliners included Kioxia Holdings (-2.6%), SoftBank Group (-4%), Advantest (-8.4%), Taiyo Yuden (-7.3%), and Tokyo Electron (-9.7%). Heavyweight banking stocks also weakened, with Mitsubishi UFJ (-3.2%), Sumitomo Mitsui (-3%), and Mizuho Financial (-3.9%) posting notable losses. Meanwhile, oil prices extended their decline after President Donald Trump said the US had resumed negotiations with Iran aimed at ending the Middle East conflict."
-    },
-    {
-      "id": "5011057",
-      "time": "2026-07-28 08:44:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【奧特維儲能整線專案邁入落地交付關鍵階段】近日，奧特維服務某大型能源化工企業的儲能整線專案正穩步推進、有序落地。目前部分產線已順利完成交付，剩餘產線將於2026年底前全部交付就位。截至目前，奧特維儲能產線全球累計出貨量已超300條。"
-    },
-    {
-      "id": "5011056",
-      "time": "2026-07-28 08:43:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞當選總統威脅將關閉14個駐外使館】據法新社報道，哥倫比亞當選總統德拉埃斯普列亞當地時間7月26日表示，他將在8月7日正式就職後，與古巴和尼加拉瓜斷絕外交關係，並關閉14個駐外使館和15個領事機構，涉及阿爾及利亞、巴貝多、衣索比亞、海地、匈牙利、塞內加爾、南非等國。 哥倫比亞《時代報》稱，德拉埃斯普列亞當天晚上透過社交媒體直播公佈新政府外交政策調整方案。（環球網）"
-    },
-    {
-      "id": "5011055",
-      "time": "2026-07-28 08:43:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【半數美國人處於高溫警報之下 電網和交通雙雙承壓】隨著強風暴和持續擴大的熱浪威脅美國中西部及東海岸電網，並可能重新整理大片地區高溫紀錄，美國各地航班取消情況迅速增加。美國國家氣象局資料顯示，截至週一下午，超過1.65億人處於不同級別的高溫警報或預警之下。受影響區域從大平原一直延伸至五大湖地區和美國南部腹地，形成一片連綿不斷的酷熱帶。在這一高溫帶邊緣地區，費城居民正準備應對硬幣大小的冰雹；而在芝加哥，破壞性風暴過後，交通部門暫停部分通勤鐵路線路運營，以清理軌道上的雜物。根據FlightAware資料，芝加哥兩大機場已有超過640個航班被取消。美國國家鐵路客運公司（Amtrak）表示，由於高溫導致鐵軌變形，列車不得不減速執行，途經芝加哥、聖路易斯、新奧爾良和休斯敦的列車均出現延誤。高溫正對美國電網形成壓力。覆蓋20個州部分地區的西南電力池和中大陸獨立系統運營商警告稱，用電需求正在飆升。週一下午，西南電力池北部樞紐現貨電價一度升至每兆瓦時441美元。在中大陸獨立系統運營商轄區內，明尼蘇達州電力樞紐價格接近每兆瓦時350美元。"
-    },
-    {
-      "id": "5011054",
-      "time": "2026-07-28 08:41:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "麥格理集團警告稱，隨著華盛頓面臨結束伊朗衝突的壓力日益增大，原油供應過剩局面可能在年底前捲土重來。該集團表示，一旦達成協議，石油市場將出現“顯著”的供過於求，預計第四季度每日將出現200萬桶的過剩。"
     }
   ]
 }
