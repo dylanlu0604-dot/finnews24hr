@@ -1,7 +1,119 @@
 {
   "date": "2026-08-04",
-  "count": 2585,
+  "count": 2598,
   "items": [
+    {
+      "id": "5024898",
+      "time": "2026-08-04 21:12:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "據美國媒體4日報道，紐約一地鐵列車當天起火，造成至少12人受傷。（新華社）"
+    },
+    {
+      "id": "5024897",
+      "time": "2026-08-04 21:12:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "Wolfe Research首次覆蓋SK海力士，給予“跑贏大盤”評級，目標價200美元。"
+    },
+    {
+      "id": "5024896",
+      "time": "2026-08-04 21:12:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "H1與諾和諾德達成合作，規模化推進人工智慧驅動的臨床開發。"
+    },
+    {
+      "id": "mkt:019fcce7-336b-7aab-8f71-07af0da55096",
+      "time": "2026-08-04 21:12:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Ukraine's agriculture minister says Russian attacks on Black Sea shipping threaten global food security and will push up consumer prices."
+    },
+    {
+      "id": "mkt:019fcce7-16bb-7aab-8f70-fe8f1772f9e3",
+      "time": "2026-08-04 21:12:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukraine's agriculture minister said Black Sea attacks could have caused $1.5-3.0 billion in losses to Ukraine's agricultural sector."
+    },
+    {
+      "id": "mkt:019fcce6-bbf6-7aab-8f70-f7b3daafb18a",
+      "time": "2026-08-04 21:11:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's agriculture minister said alternative routes can cover only half of Ukraine's export volume."
+    },
+    {
+      "id": "mkt:019fcce6-9215-7aab-8f70-ec094a020469",
+      "time": "2026-08-04 21:11:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's agriculture minister says alternative export routes will not reach operational capacity before end-August."
+    },
+    {
+      "id": "5024895",
+      "time": "2026-08-04 21:11:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭農業部長：俄羅斯對黑海船隻發動襲擊危及全球糧食安全，並將推高消費品價格。"
+    },
+    {
+      "id": "5024894",
+      "time": "2026-08-04 21:11:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭農業部長：替代運輸路線僅能消化烏克蘭一半的出口量。"
+    },
+    {
+      "id": "mkt:019fcce6-7607-7aab-8f70-e0abd1790e44",
+      "time": "2026-08-04 21:11:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's agriculture minister said Black Sea ports have no real long-term alternative for grain exports."
+    },
+    {
+      "id": "5024893",
+      "time": "2026-08-04 21:11:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "烏克蘭農業部長：烏克蘭農戶已看到農作物均價下跌30%。"
+    },
+    {
+      "id": "5024892",
+      "time": "2026-08-04 21:11:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭農業部長：烏方替代出口航線在8月底前無法達到運營運力。"
+    },
+    {
+      "id": "5024891",
+      "time": "2026-08-04 21:11:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭農業部長表示，黑海遇襲給烏克蘭農業部門造成的損失可能達到15億至30億美元。"
+    },
     {
       "id": "5024890",
       "time": "2026-08-04 21:09:24",
