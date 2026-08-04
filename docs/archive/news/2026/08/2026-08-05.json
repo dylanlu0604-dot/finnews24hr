@@ -1,7 +1,80 @@
 {
   "date": "2026-08-05",
-  "count": 554,
+  "count": 563,
   "items": [
+    {
+      "id": "5025500",
+      "time": "2026-08-05 07:38:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多地用電負荷迭創新高 電力上市公司直面機遇與轉型考驗】近日，持續性高溫疊加工業經濟穩步復甦、新型用電業態擴容，全國電力需求持續攀升，多地電網用電負荷接連重新整理歷史紀錄。8月3日，山東、天津等地電網負荷再度創下新高，電力保供壓力持續增大。面對迎峰度夏形勢，電力產業鏈上市公司全面發力保供、穩生產。從密集披露的電力上市公司半年報或半年報業績預告來看，行業結構性分化格局顯現，水電、電力裝置、儲能賽道迎來業績紅利，傳統火電承壓轉型，新型電力系統建設持續提速。（中證報）"
+    },
+    {
+      "id": "mkt:019fcf24-2cde-7aab-8f79-7f821d8df27c",
+      "time": "2026-08-05 07:38:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Musk says Grok 4.6 due next week; entire SpaceX dataset to be used for training】On Aug. 4, SpaceX CEO Elon Musk told the company’s first earnings call that SpaceX has made significant AI progress and expects to release Grok 4.6 next week, with Grok 4.7 to follow in the coming weeks. He noted SpaceXAI rolled out Grok 4.5 last month, aimed at code generation and able to handle finance and legal tasks. Musk said SpaceX will integrate its entire dataset—basically all data SpaceX has ever generated—into Grok’s training."
+    },
+    {
+      "id": "5025499",
+      "time": "2026-08-05 07:37:16",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SpaceX可能成為電信運營商的競爭對手】SpaceX正將目光瞄準美國大型電信服務商。在該公司的首次財報電話會議上，總裁格溫.肖特韋爾(Gwynne Shotwell)提到了美國電話電報公司(AT&T)、Verizon Communications和T-Mobile US的營收規模，並表示星鏈將把目標對準這些公司的使用者。“我預計我們能爭取到他們相當一部分客戶，因為我認為我們的服務會更好，”肖特韋爾說。電信和衛星行業的高管及分析師已在討論SpaceX可能對現有移動服務提供商構成的威脅。肖特韋爾表示，SpaceX可以透過直接在星鏈寬頻天線上部署蜂窩基站來擴充套件移動服務。這樣一來，該網路就可以利用地面裝置和星鏈衛星的連線。“你可以根據需要進行部署，”她說。美國電話電報公司、Verizon和T-Mobile的股價在盤後交易中走低。"
+    },
+    {
+      "id": "5025498",
+      "time": "2026-08-05 07:36:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬斯克：Grok 4.6下週釋出，SpaceX全量資料將用於模型訓練】當地時間8月4日，SpaceX CEO馬斯克在公司首次財報電話會上表示，SpaceX在人工智慧領域取得了顯著進展，並預計於下週推出Grok 4.6模型，隨後在幾周內推出Grok 4.7。就在上個月，SpaceXAI剛釋出了主打程式碼能力、同時能處理財務和法律任務的Grok4.5模型。馬斯克提到，SpaceX將為Grok的訓練提供資料支援：“我們將把SpaceX的整個資料集——基本上是SpaceX有史以來產生的全部資料——整合到Grok的訓練中。”"
+    },
+    {
+      "id": "5025497",
+      "time": "2026-08-05 07:35:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【近九成實現盈利 非上市人身險公司上半年合計淨利潤倍增】據統計，2026年上半年，58家非上市人身險公司合計實現保險業務收入近8000億元，同比增長約10%；淨利潤逾610億元，同比增長超過100%。從保險業務收入情況來看，逾六成非上市人身險公司實現正增長，主要受居民存款搬家和業務結構轉型影響，險企大力發展分紅險產品，有效滿足了消費者對投資型保險產品的需求。資料顯示，上半年，人身險公司分紅險原保險保費收入約1.01萬億元，同比增長94.4%。保險業務收入增長的同時，非上市人身險公司淨利潤表現更為亮眼。上半年，近九成非上市人身險公司實現盈利，其中10餘家險企同比實現扭虧為盈。在業內人士看來，非上市人身險公司上半年業績表現較好：一方面是受益於同期A股市場走強；另一方面是部分險企正式執行新會計準則，準備金計提壓力減小。總體來看，人身險行業馬太效應進一步加劇，未來險企經營應該注重價值轉型，更加關注業務質量、盈利能力和資本效率，而不是單純追求規模增長。（上海證券報）"
+    },
+    {
+      "id": "5025496",
+      "time": "2026-08-05 07:35:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AMD預計2027年資料中心營收將“增長逾一倍”】當地時間8月4日，AMD執行長蘇姿豐在財報電話會上表示，公司預計2027年資料中心業務收入將“增長逾一倍”。她稱，雖然無法透露具體數字，但該業務增幅最終可能“遠高於100%”。蘇姿豐表示，從長期來看，AMD有望超過此前設定的年收入增長35%、每股收益達到20美元的目標。"
+    },
+    {
+      "id": "te:economy:572710",
+      "time": "2026-08-05 07:35:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Wage Growth",
+        "Importance 1"
+      ],
+      "text": "Japan Nominal Wage Growth Tops 3% for 5th Month — Average cash earnings in Japan increased by 3.4% year-on-year in June 2026, accelerating slightly from an upwardly revised 3.3% rise in May and matching market forecasts. It also marked the 54th consecutive month of nominal wage growth, with annual wage gains remaining above 3% for a fifth straight month."
+    },
+    {
+      "id": "5025495",
+      "time": "2026-08-05 07:34:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多家北交所公司推進“小額快速”簡易程式定增】海能技術8月3日晚公告稱，簡易程式定增已完成，募資總額8900萬元。據證券時報記者統計，目前有10多家北交所公司正在推進“小額快速”的簡易程式定增，包括：禾昌聚合、三元基因、邦德股份、雅葆軒、基康技術、龍竹科技、天銘科技、華密新材等。"
+    },
     {
       "id": "5025494",
       "time": "2026-08-05 07:34:14",
@@ -43,6 +116,15 @@
         "公司"
       ],
       "text": "【AI應用向實向深 商業化價值閉環正在形成】8月4日，A股AI應用再度爆發，傳智教育、優刻得、凱文教育等領漲，這意味著市場對AI應用商業化的預期持續升溫。產業層面上，近期國內外AI應用類公司披露的訊息顯示，AI應用已經下沉到AIGC、政企軟體、AI教育、智慧製造、智慧醫療等應用場景，正在從技術驗證邁入收入兌現階段。多位業內人士認為，AI應用已經開始從程式設計智慧體走向辦公智慧體，或先在個人應用領域爆發，進而延伸至企業組織，但最終能否形成商業閉環，取決於基於AI的新商業模式能否誕生。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608053831647820",
+      "time": "2026-08-05 07:31:21",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本6月加班工資同比增長2.8%，前值2.9%。"
     },
     {
       "id": "5025489",
