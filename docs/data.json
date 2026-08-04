@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-05 01:34:03",
-  "count": 17765,
+  "updated": "2026-08-05 01:38:00",
+  "count": 17763,
   "items": [
+    {
+      "id": "5025208",
+      "time": "2026-08-05 01:37:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：特朗普及其團隊認為，他們能夠促使哈馬斯解除武裝，並實現加沙的非軍事化。他們向我方提交了一份草案，我們並未同意。這並非我方擬定的草案。我們已提交了我方的修改意見。順帶一提，在相關問題出現媒體造勢之前，我們就已經遞交了意見。這就是我們的立場。我認為，我們正以兼具智慧與強硬的姿態，堅決捍衛本國利益。"
+    },
+    {
+      "id": "5025207",
+      "time": "2026-08-05 01:34:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "調查結果顯示，石油輸出國組織（OPEC，歐佩克）7月石油產量增加116萬桶/日，至產出1944萬桶/日，科威特、沙特、伊拉克增產明顯。"
+    },
+    {
+      "id": "5025206",
+      "time": "2026-08-05 01:34:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：CLAYTON宣誓就任美國國家情報總監。"
+    },
     {
       "id": "mkt:019fcdd2-9561-7aab-8f75-51e0727bf471",
       "time": "2026-08-05 01:29:17",
@@ -164433,47 +164457,6 @@
         "Brent"
       ],
       "text": "【Iran deputy foreign minister proposes talks with Oman on temporary Strait of Hormuz lane】Iran’s deputy foreign minister said he has proposed talks with Oman on a temporary shipping lane through the Strait of Hormuz to replace the current north-south route. He said Oman proposed a lane with 50% control for Iran and 50% for Oman; Tehran rejected that, insisting the inbound lane must be fully under Iranian control and that part of the outbound lane should also be under Iranian control. He warned Iran will never recognise the strait’s southern route even for an hour and said if Oman rejects Tehran’s proposal the strait will remain closed and Iran is prepared to restart war; if Oman accepts Iran’s terms, Tehran will move to the next stage."
-    },
-    {
-      "id": "5012936",
-      "time": "2026-07-29 01:37:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗：若無法與阿曼達成協議，我方將繼續執行現行霍爾木茲海峽管控方案。"
-    },
-    {
-      "id": "5012935",
-      "time": "2026-07-29 01:36:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【】據日本九州旅客鐵道方面訊息，28日，熊本縣強震發生後，該公司運營的所有普通鐵路和新幹線均暫停執行，共有13人在車站或列車內受傷。截至當地時間當晚10時，仍有4列新幹線和6列普通列車停靠線上路上，車內仍有乘客等待疏散。目前，正對軌道等設施進行安全檢查。（央視新聞）"
-    },
-    {
-      "id": "5012934",
-      "time": "2026-07-29 01:35:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：霍爾木茲海峽在戰時的管控與和平時期截然不同，戰爭期間我們將完全掌控整個海峽。"
-    },
-    {
-      "id": "5012933",
-      "time": "2026-07-29 01:34:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯媒體：美國特使威特科夫與庫什納或於未來數週出訪俄羅斯，但行程尚未敲定。"
-    },
-    {
-      "id": "mkt:019fa9cb-004e-7aab-8ed3-166ded49c2c1",
-      "time": "2026-07-29 01:34:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian media report U.S. Middle East special envoys Vitkov and Kushner may visit Russia within the next few weeks; no firm decision yet."
     }
   ]
 }
