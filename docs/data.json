@@ -1,7 +1,104 @@
 {
-  "updated": "2026-08-04 09:41:25",
-  "count": 17878,
+  "updated": "2026-08-04 09:45:13",
+  "count": 17870,
   "items": [
+    {
+      "id": "mkt:019fca71-8407-7aab-8f61-edafb192ad42",
+      "time": "2026-08-04 09:44:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea finance minister vows to curb stock volatility, limit single-stock leveraged ETFs】South Korea finance minister Koo Yun-cheol said at a cabinet meeting on Tuesday he will work to ease volatility in the Korean stock market and that the finance ministry will swiftly implement recently announced measures to limit the use of single-stock leveraged ETFs."
+    },
+    {
+      "id": "mkt:019fca71-4eb6-7aab-8f61-e151f26e2681",
+      "time": "2026-08-04 09:44:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli i24NEWS reported several Iranian one-way attack drones struck a military base in northern Kuwait on Monday night."
+    },
+    {
+      "id": "mkt:019fca71-49be-7aab-8f61-dd672f805dbd",
+      "time": "2026-08-04 09:44:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "09903.HK",
+        "Impact bullish",
+        "01347.HK",
+        "03277.HK"
+      ],
+      "text": "Hong Kong-listed semiconductor shares mostly rose: Tianshu Zhixin (09903.HK) advanced over 9%, Huahong Hongli (01347.HK) climbed more than 5%, Changguang Chenxin (03277.HK) and Zhaoyi Chuangxin (03986.HK) gained over 4%, and Naxinwei (02676.HK) was up around 3%."
+    },
+    {
+      "id": "5023483",
+      "time": "2026-08-04 09:43:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【金屬銦概念震盪拉昇 雲南鍺業漲停】金屬銦概念震盪拉昇，雲南鍺業漲停，株冶集團、馳宏鋅鍺、錫業股份、豫光金鉛跟漲。"
+    },
+    {
+      "id": "5023482",
+      "time": "2026-08-04 09:43:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲遙宇航與中科天算簽署戰略合作協議】近日，天津雲遙宇航科技有限公司（簡稱“雲遙宇航”）與中科天算（上海）資訊科技有限公司（簡稱“中科天算”）簽署戰略合作協議，雙方將圍繞雲遙氣象星座及“天算計劃”太空超算中心建設，在氣象人工智慧、星上智慧處理、天基雲邊端協同計算及智慧氣象服務等方向開展深度合作，共同推動“氣象+AI”融合服務生態建設。"
+    },
+    {
+      "id": "mkt:019fca70-3fd1-7aab-8f61-d3eaca8f71b5",
+      "time": "2026-08-04 09:43:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share semiconductor sector traded higher after intraday volatility; Yuanjie Technology surged over 10%, while Huafeng Measurement & Control, Goke Microelectronics, Weice Technology, Juguang Technology and Xinpeng Micro also advanced."
+    },
+    {
+      "id": "5023481",
+      "time": "2026-08-04 09:42:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "藥明康德港股上漲11%，至180.90港元。"
+    },
+    {
+      "id": "mkt:019fca6f-5e9e-7aab-8f61-cb944bc77e4e",
+      "time": "2026-08-04 09:42:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02359.HK",
+        "Impact bullish",
+        "03759.HK",
+        "02269.HK"
+      ],
+      "text": "Hong Kong pharma outsourcing stocks rallied, with WuXi AppTec (02359.HK) up more than 11%, Pharmaron (03759.HK) up over 7%, Asymchem (06821.HK) up over 6% and WuXi Biologics (02269.HK) up over 5%."
+    },
+    {
+      "id": "5023480",
+      "time": "2026-08-04 09:41:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【快手概念板塊走高，凱撒文化漲停】快手概念板塊走高，凱撒文化漲停，利歐股份、易點天下、天娛數科、平治資訊、藍色游標等紛紛走高。"
+    },
     {
       "id": "5023479",
       "time": "2026-08-04 09:40:50",
@@ -165501,155 +165598,6 @@
         "國際"
       ],
       "text": "【伊朗對美國海上封鎖發出警告】據伊朗邁赫爾通訊社7月27日報道，伊朗武裝部隊哈塔姆·安比亞中央司令部當天發表宣告稱，美國在加劇地區不安全域性勢的同時，持續對伊朗實施非法的海上封鎖，並在過去三天裡威脅伊朗沿海和領海的商船、油輪等。美國的這一行動將被視為對地區戰爭的擴大，伊朗武裝力量絕不會放過美軍的任何威脅，將作出回應。（CCTV國際時訊）"
-    },
-    {
-      "id": "5011172",
-      "time": "2026-07-28 09:45:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年APEC林業部長級會議今天開幕】今天（7月28日）上午，2026年亞太經合組織（APEC）林業部長級會議在深圳正式開幕。這是亞太經合組織時隔15年再次在中國舉辦生態領域專業會議。亞太地區森林面積佔全球一半以上，貢獻了全球約60%的林產品生產和約40%的林產品貿易。本次會議，各經濟體代表將就圍繞森林保護與可持續經營、科技創新等議題開展政策對話。"
-    },
-    {
-      "id": "mkt:019fa665-55dc-7aab-8eba-3e0391b71ab2",
-      "time": "2026-07-28 09:44:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "03986.HK",
-        "Impact bearish",
-        "02513.HK",
-        "06809.HK"
-      ],
-      "text": "Hong Kong-listed recently listed AI stocks plunged: Zhaoyi Innovation (03986.HK) and Zhipu (02513.HK) both fell over 10%; Lanqi Technology (06809.HK) dropped more than 7.8%; Cambridge Technology (06166.HK) fell about 7%; Biren Technology (06082.HK) and Tianshu Zhixin (09903.HK) each slid over 5%."
-    },
-    {
-      "id": "5011171",
-      "time": "2026-07-28 09:44:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "菜粕連續主力合約日內跌2%，現報2357.00元。"
-    },
-    {
-      "id": "5011170",
-      "time": "2026-07-28 09:44:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【軍工板塊持續走低 北方長龍跌超7%】軍工板塊持續走低，北方長龍跌超7%，建設工業、內蒙一機、捷強裝備等跌幅居前。"
-    },
-    {
-      "id": "5011169",
-      "time": "2026-07-28 09:43:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【比亞迪：人形機器人計劃八月釋出】針對人形機器人目前進展情況，比亞迪官方回應稱，計劃八月在“迪空間”亮相釋出。此前比亞迪曾在“迪空間”釋出一張人形機器人宣傳海報，海報稱“八月初，有個新朋友，想來認識你”。"
-    },
-    {
-      "id": "5011168",
-      "time": "2026-07-28 09:43:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【月之暗面Kimi K3正式開源】7月27日晚，月之暗面釋出Kimi K3的模型權重、技術報告，並開源支撐Kimi K3模型訓練的關鍵Infra技術：MoonEP、FlashKDA和AgentEnv。據介紹，Kimi K3是一個擁有2.8萬億引數的混合專家（MoE）模型，具備原生視覺理解能力，並支援100萬token的上下文視窗。月之暗面表示，現在每個人都可以下載並部署Kimi K3模型，無論是用於內部研發，還是嵌入到面向終端使用者的產品中，均可自由使用。"
-    },
-    {
-      "id": "5011167",
-      "time": "2026-07-28 09:43:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美儀自動化啟動IPO輔導】證監會網站披露，杭州美儀自動化技術股份有限公司於2026年7月27日在浙江證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為國泰海通證券。輔導備案報告顯示，該公司實際控制人為丁程，合計控制公司表決權比例為77.63%。"
-    },
-    {
-      "id": "5011166",
-      "time": "2026-07-28 09:43:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【數字營銷概念震盪反彈，巖山科技漲停】數字營銷概念震盪反彈，巖山科技漲停，天地線上、科新發展、三維通訊、實益達、返利科技、智度股份等跟漲。"
-    },
-    {
-      "id": "5011165",
-      "time": "2026-07-28 09:43:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "國產軟體股異動拉昇，南天資訊直線漲停，科藍軟體漲超15%，高偉達、格爾軟體、麥迪科技、思特奇跟漲。"
-    },
-    {
-      "id": "5011164",
-      "time": "2026-07-28 09:43:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "馬來西亞央行行長表示，經濟增長將保持穩健，通脹可控。"
-    },
-    {
-      "id": "mkt:019fa663-66eb-7aab-8eba-33890ca30e52",
-      "time": "2026-07-28 09:42:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Philippine central bank governor said the likelihood of aggressive rate hikes is small."
-    },
-    {
-      "id": "5011163",
-      "time": "2026-07-28 09:42:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "菲律賓央行行長：認為採取激進緊縮措施的可能性很小。"
-    },
-    {
-      "id": "mkt:019fa663-42f9-7aab-8eba-2ee15bc5a08d",
-      "time": "2026-07-28 09:42:30",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China A-share CPO concept stocks pulled back in early trade: Ruijie Networks dropped more than 9%, Zhongji Xuchuang fell over 7%; Dongshan Precision, Yuanjie Technology and Xinyisheng each slid more than 6.5%; Shengyi Technology, Jingwang Electronics and Changguang Huaxin also weakened."
-    },
-    {
-      "id": "mkt:019fa663-1c17-7aab-8eba-23db595f79b5",
-      "time": "2026-07-28 09:42:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PHILIPPINE C.BANK governor said the bank limits intervention when the dollar is strong to preserve market order."
-    },
-    {
-      "id": "5011162",
-      "time": "2026-07-28 09:42:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "菲律賓央行行長：我們小規模干預了外匯市場。"
-    },
-    {
-      "id": "5011161",
-      "time": "2026-07-28 09:41:43",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓央行總裁：美元走強時，我們限制干預以維持秩序。"
-    },
-    {
-      "id": "5011160",
-      "time": "2026-07-28 09:41:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東防汛應急響應提升為Ⅲ級】廣東省防汛防旱防風總指揮部發布通知，經綜合會商，鑑於未來幾天廣東省降雨仍將持續，發生中小河流洪水、山洪、地質災害、城鄉內澇等風險進一步加大，根據《廣東省防汛防旱防風防凍應急預案》和省防總有關規定，廣東省防汛防旱防風總指揮部決定於7月28日9時將防汛Ⅳ級應急響應提升為防汛Ⅲ級應急響應。"
     }
   ]
 }

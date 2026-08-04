@@ -1,7 +1,104 @@
 {
   "date": "2026-08-04",
-  "count": 671,
+  "count": 680,
   "items": [
+    {
+      "id": "mkt:019fca71-8407-7aab-8f61-edafb192ad42",
+      "time": "2026-08-04 09:44:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea finance minister vows to curb stock volatility, limit single-stock leveraged ETFs】South Korea finance minister Koo Yun-cheol said at a cabinet meeting on Tuesday he will work to ease volatility in the Korean stock market and that the finance ministry will swiftly implement recently announced measures to limit the use of single-stock leveraged ETFs."
+    },
+    {
+      "id": "mkt:019fca71-4eb6-7aab-8f61-e151f26e2681",
+      "time": "2026-08-04 09:44:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli i24NEWS reported several Iranian one-way attack drones struck a military base in northern Kuwait on Monday night."
+    },
+    {
+      "id": "mkt:019fca71-49be-7aab-8f61-dd672f805dbd",
+      "time": "2026-08-04 09:44:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "09903.HK",
+        "Impact bullish",
+        "01347.HK",
+        "03277.HK"
+      ],
+      "text": "Hong Kong-listed semiconductor shares mostly rose: Tianshu Zhixin (09903.HK) advanced over 9%, Huahong Hongli (01347.HK) climbed more than 5%, Changguang Chenxin (03277.HK) and Zhaoyi Chuangxin (03986.HK) gained over 4%, and Naxinwei (02676.HK) was up around 3%."
+    },
+    {
+      "id": "5023483",
+      "time": "2026-08-04 09:43:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【金屬銦概念震盪拉昇 雲南鍺業漲停】金屬銦概念震盪拉昇，雲南鍺業漲停，株冶集團、馳宏鋅鍺、錫業股份、豫光金鉛跟漲。"
+    },
+    {
+      "id": "5023482",
+      "time": "2026-08-04 09:43:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲遙宇航與中科天算簽署戰略合作協議】近日，天津雲遙宇航科技有限公司（簡稱“雲遙宇航”）與中科天算（上海）資訊科技有限公司（簡稱“中科天算”）簽署戰略合作協議，雙方將圍繞雲遙氣象星座及“天算計劃”太空超算中心建設，在氣象人工智慧、星上智慧處理、天基雲邊端協同計算及智慧氣象服務等方向開展深度合作，共同推動“氣象+AI”融合服務生態建設。"
+    },
+    {
+      "id": "mkt:019fca70-3fd1-7aab-8f61-d3eaca8f71b5",
+      "time": "2026-08-04 09:43:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share semiconductor sector traded higher after intraday volatility; Yuanjie Technology surged over 10%, while Huafeng Measurement & Control, Goke Microelectronics, Weice Technology, Juguang Technology and Xinpeng Micro also advanced."
+    },
+    {
+      "id": "5023481",
+      "time": "2026-08-04 09:42:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "藥明康德港股上漲11%，至180.90港元。"
+    },
+    {
+      "id": "mkt:019fca6f-5e9e-7aab-8f61-cb944bc77e4e",
+      "time": "2026-08-04 09:42:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02359.HK",
+        "Impact bullish",
+        "03759.HK",
+        "02269.HK"
+      ],
+      "text": "Hong Kong pharma outsourcing stocks rallied, with WuXi AppTec (02359.HK) up more than 11%, Pharmaron (03759.HK) up over 7%, Asymchem (06821.HK) up over 6% and WuXi Biologics (02269.HK) up over 5%."
+    },
+    {
+      "id": "5023480",
+      "time": "2026-08-04 09:41:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【快手概念板塊走高，凱撒文化漲停】快手概念板塊走高，凱撒文化漲停，利歐股份、易點天下、天娛數科、平治資訊、藍色游標等紛紛走高。"
+    },
     {
       "id": "5023479",
       "time": "2026-08-04 09:40:50",
