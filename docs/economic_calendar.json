@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-04 20:57:37",
+  "updated": "2026-08-04 21:02:20",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 404,
+  "count": 405,
   "history_summary": {
     "cached": 404,
-    "fetched": 0,
+    "fetched": 1,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 232,
+      "count": 233,
       "dates": [
         {
           "date": "2026-08-03",
@@ -2464,7 +2464,7 @@
         },
         {
           "date": "2026-08-04",
-          "count": 32,
+          "count": 33,
           "events": [
             {
               "id": "capital:1174310",
@@ -3567,6 +3567,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-07-26 00:02:12"
+            },
+            {
+              "id": "capital:1183632",
+              "fid": "1183632",
+              "interval": "this_week",
+              "date": "2026-08-04",
+              "time": "20:55",
+              "datetime": "2026-08-04 20:55:00",
+              "display_time": "08/04 20:55",
+              "country": "美國",
+              "title": "美國至8月1日當週紅皮書商業零售銷售年率",
+              "importance": 1,
+              "previous": "8.3 %",
+              "forecast": "-- %",
+              "actual": "8.7 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183632",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/28",
+                  "actual": "8.3",
+                  "forecast": "-",
+                  "previous": "7.8"
+                },
+                {
+                  "date": "07/21",
+                  "actual": "7.8",
+                  "forecast": "-",
+                  "previous": "8.2"
+                },
+                {
+                  "date": "07/14",
+                  "actual": "8.2",
+                  "forecast": "-",
+                  "previous": "11.5"
+                },
+                {
+                  "date": "07/07",
+                  "actual": "11.5",
+                  "forecast": "-",
+                  "previous": "10.5"
+                },
+                {
+                  "date": "06/30",
+                  "actual": "10.5",
+                  "forecast": "-",
+                  "previous": "10"
+                },
+                {
+                  "date": "06/23",
+                  "actual": "10",
+                  "forecast": "-",
+                  "previous": "9.4"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-04 21:02:19"
             },
             {
               "id": "capital:1174322",
@@ -27005,6 +27063,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-07-26 00:02:12"
+    },
+    {
+      "id": "capital:1183632",
+      "fid": "1183632",
+      "interval": "this_week",
+      "date": "2026-08-04",
+      "time": "20:55",
+      "datetime": "2026-08-04 20:55:00",
+      "display_time": "08/04 20:55",
+      "country": "美國",
+      "title": "美國至8月1日當週紅皮書商業零售銷售年率",
+      "importance": 1,
+      "previous": "8.3 %",
+      "forecast": "-- %",
+      "actual": "8.7 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183632",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/28",
+          "actual": "8.3",
+          "forecast": "-",
+          "previous": "7.8"
+        },
+        {
+          "date": "07/21",
+          "actual": "7.8",
+          "forecast": "-",
+          "previous": "8.2"
+        },
+        {
+          "date": "07/14",
+          "actual": "8.2",
+          "forecast": "-",
+          "previous": "11.5"
+        },
+        {
+          "date": "07/07",
+          "actual": "11.5",
+          "forecast": "-",
+          "previous": "10.5"
+        },
+        {
+          "date": "06/30",
+          "actual": "10.5",
+          "forecast": "-",
+          "previous": "10"
+        },
+        {
+          "date": "06/23",
+          "actual": "10",
+          "forecast": "-",
+          "previous": "9.4"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-04 21:02:19"
     },
     {
       "id": "capital:1174322",

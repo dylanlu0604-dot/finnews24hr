@@ -1,7 +1,127 @@
 {
   "date": "2026-08-04",
-  "count": 2542,
+  "count": 2555,
   "items": [
+    {
+      "id": "mkt:019fccdc-d3a8-7aab-8f70-a43089155b46",
+      "time": "2026-08-04 21:00:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WBG expects AI will help offset shortages of high-skilled labor in developing economies."
+    },
+    {
+      "id": "mkt:019fccdc-9e94-7aab-8f70-9ebb99c8280a",
+      "time": "2026-08-04 21:00:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "WBG says better data and greater compute capacity are needed to accelerate AI adoption."
+    },
+    {
+      "id": "mkt:019fccdc-8e80-7aab-8f70-967e055ac79c",
+      "time": "2026-08-04 21:00:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "WBG says 4.5% of jobs in developing economies are at risk from AI, compared with 14.2% in high-income countries."
+    },
+    {
+      "id": "mkt:019fccdc-5a9e-7aab-8f70-8cc6194afc24",
+      "time": "2026-08-04 21:00:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Night session open in China: main domestic futures largely lower. Ethylene glycol (EG), SC crude and propylene down more than 3%; fuel oil and LPG down about 3%; low-sulfur fuel oil (LU), methanol and PET chip down over 2%. On the upside, Shanghai silver up more than 3%; Shanghai lead, copper and nickel up over 1%; Shanghai tin up about 1%."
+    },
+    {
+      "id": "5024868",
+      "time": "2026-08-04 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報14604.00元。"
+    },
+    {
+      "id": "5024867",
+      "time": "2026-08-04 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌3%，現報4741.00元。"
+    },
+    {
+      "id": "5024866",
+      "time": "2026-08-04 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌1%，現報5818.00元。"
+    },
+    {
+      "id": "5024865",
+      "time": "2026-08-04 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌1%，現報2555.00元。"
+    },
+    {
+      "id": "5024864",
+      "time": "2026-08-04 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】乙二醇連續跌3.80%，矽鐵連續漲3.61%，白銀連續漲3.59%，集運指數歐線期貨連續跌3.36%，上海原油連續跌3.24%。"
+    },
+    {
+      "id": "5024863",
+      "time": "2026-08-04 20:59:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，8月3日美國實際聯邦基金利率為3.63%，當日交易規模為1110億美元；7月31日實際利率同為3.63%，當日交易規模為1080億美元。"
+    },
+    {
+      "id": "5024862",
+      "time": "2026-08-04 20:57:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【英偉達GeForce RTX50系列桌上型電腦顯示卡韓國售價將上漲至多30%】從8月起，英偉達GeForce RTX50系列桌上型電腦顯示卡在韓國的售價將上漲至多30%，漲價原因包括臺積電先進工藝晶圓價格上漲，以及高效能GDDR7視訊記憶體價格上漲。（中證報）"
+    },
+    {
+      "id": "5024861",
+      "time": "2026-08-04 20:57:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡達外交部：各方正努力推動中東局勢降溫】卡達外交部發言人安薩里4日表示，有關各方正繼續努力推動中東地區局勢降溫，目前雖尚未達成協議，但重要的是能重返外交軌道。據卡達半島電視臺4日報道，安薩里當天在多哈舉行的新聞釋出會上說，當前重點是緩和局勢、重新開放霍爾木茲海峽以及推動外交程序。“我們目前最關心的是恢復談判，要實現這一目標必須確保停火併重新開放霍爾木茲海峽。”伊朗外交部發言人巴加埃3日表示，伊朗目前沒有與美國進行談判，當前所有磋商均集中在與阿曼就霍爾木茲海峽安全通航事宜開展的雙邊對話。（新華社）"
+    },
+    {
+      "id": "5024860",
+      "time": "2026-08-04 20:57:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "瑞弗蒂（Revvity）第二季度業績公佈後，其股價盤前下跌3.7%。"
+    },
     {
       "id": "5024859",
       "time": "2026-08-04 20:56:41",
