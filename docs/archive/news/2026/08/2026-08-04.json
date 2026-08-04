@@ -1,7 +1,138 @@
 {
   "date": "2026-08-04",
-  "count": 1358,
+  "count": 1373,
   "items": [
+    {
+      "id": "mkt:019fcbb5-5bf7-7aab-8f68-2388cbab334b",
+      "time": "2026-08-04 15:38:08",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bullish",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Germany's day-ahead baseload power price fell 25.8% to €109.5/MWh."
+    },
+    {
+      "id": "5023965",
+      "time": "2026-08-04 15:38:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【仕佳光子：1.6T AWG產品已實現小批次出貨】仕佳光子在互動平臺表示，公司1.6T AWG產品已實現小批次出貨，目前公司正有序推進客戶對接與產品匯入等相關工作。"
+    },
+    {
+      "id": "te:markets:572425",
+      "time": "2026-08-04 15:38:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Hit Record Peak — The CAC 40 rose 0.4% to 8,647 on Tuesday, extending its winning streak to a fourth session and hitting a fresh record high as easing pressure from the recent AI-driven selloff helped improve global market sentiment. Investors also looked ahead to a fresh round of corporate earnings and key economic data releases. In France, the state budget deficit widened to EUR 106.8 billion in January–June 2026 from EUR 100.4 billion in the same period a year earlier, with general budget revenues increasing 3.7% year-on-year to EUR 184.6 billion, while expenditures rose 5.4% to EUR 240.5 billion. Industrial and technology heavyweights led the advance, with shares of Schneider Electric up 2.9%, Airbus gaining 1.7%, Safran rising 1.3%, Thales adding 2.1%, and STMicroelectronics climbing 2.2%. In contrast, LVMH (-0.8%), L'Oréal (-1.2%), and TotalEnergies (-0.3%) underperformed the broader market."
+    },
+    {
+      "id": "mkt:019fcbb4-fd9e-7aab-8f68-195a51a8467e",
+      "time": "2026-08-04 15:37:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "ARAMCO says governments worldwide are seeking to increase oil stockpiles."
+    },
+    {
+      "id": "mkt:019fcbb4-c75f-7aab-8f68-14ee2db43d4c",
+      "time": "2026-08-04 15:37:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Hezbollah leader Naim Qassem said the Lebanese government must stop making pointless concessions via direct talks with Israel, which he said have produced only shame, humiliation and disappointment and effectively handed everything to Israel. He said a US‑Iran memorandum of understanding remains the only path to securing Israeli withdrawal."
+    },
+    {
+      "id": "5023964",
+      "time": "2026-08-04 15:37:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國次日基荷電價下跌25.8%，至每兆瓦時109.5歐元。"
+    },
+    {
+      "id": "5023963",
+      "time": "2026-08-04 15:37:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國聯合工會：GXO薪資協議包含5%的漲幅，另有針對帶薪休息時間的5.5%增幅，總計漲薪10.5%。"
+    },
+    {
+      "id": "5023962",
+      "time": "2026-08-04 15:36:56",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "沙特阿美：全球多國政府正著手擴建石油儲備設施。"
+    },
+    {
+      "id": "5023961",
+      "time": "2026-08-04 15:36:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國聯合工會：GXO貝爾希爾廠區司機敲定薪酬協議。"
+    },
+    {
+      "id": "5023960",
+      "time": "2026-08-04 15:36:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國KOSDAQ指數飆升近6% 首次連續3個交易日觸發買方側車】在上個月大幅反彈後，韓國KOSPI指數上漲動能有所減弱之際，韓國創業板指數（KOSDAQ）正在點燃市場復甦行情。KOSDAQ指數歷史上首次連續三個交易日觸發買方暫停程式化交易機制（側車機制），在機構資金推動下，收盤上漲超過5%。此前盤中一度轉跌的KOSPI指數，也因尾盤機構賣壓減弱，最終收漲超過1%。當天KOSDAQ市場資金主要由機構投資者推動。個人投資者和外國投資者分別淨賣出2580億韓元和2770億韓元，而機構投資者淨買入5430億韓元，推動指數上漲。機構投資者已連續三個交易日保持淨買入，期間累計淨買入規模超過1萬億韓元。今年以來，KOSDAQ市場曾兩次出現連續三個交易日觸發側車機制的情況，分別是3月4日至6日（賣出、買入、買入）以及7月14日至16日（買入、賣出、賣出）。此次則是首次出現連續三個交易日全部觸發買入側車的情況。"
+    },
+    {
+      "id": "mkt:019fcbb2-f250-7aab-8f68-0cef22dfb5fe",
+      "time": "2026-08-04 15:35:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【KOSDAQ surges nearly 6% as buy-side sidecar triggers third straight session — first-ever three-day buy-side sequence】KOSDAQ jumped nearly 6% on heavy institutional buying, triggering the buy-side sidecar for a third consecutive session — the first time all three consecutive triggers have been buy-side. Institutional investors were the market driver, net buying KRW 543 billion; retail and foreign investors net sold KRW 258 billion and KRW 277 billion respectively. Institutions have recorded net purchases for three straight sessions, totaling over KRW 1 trillion. KOSPI, which dipped intraday, closed up just over 1% after late-session institutional selling eased."
+    },
+    {
+      "id": "5023959",
+      "time": "2026-08-04 15:34:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬斯克單月財富縮水創紀錄】據“福布斯”，馬斯克在7月單月財富縮水3630億美元，創下紀錄。這一縮水幅度，甚至超過了全球第2至第10大富豪中任何一人的全部身家。截至美國東部時間8月1日零點，排名第2的拉里·佩奇身家微增10億美元，約為2920億美元；而馬斯克的身家約為6900億美元，降至去年12月以來的最低水平。"
+    },
+    {
+      "id": "5023958",
+      "time": "2026-08-04 15:34:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普的“空頭支票”正在破產：交易員認為他靠喊話控制油價的能力正在減弱】石油市場研究員、Commodity Context通訊創始人羅裡·約翰斯頓（Rory Johnston）表示，左右市場的能力可能是政府用來控制汽油價格的最後手段了。“特朗普政府已將美國戰略石油儲備削減至羅納德·里根總統首個任期以來的最低水平。”他還稱“市場深信不疑的一點是：最終特朗普會做出決定，並在某些問題上讓步，很可能是象徵性地讓出對霍爾木茲海峽的部分控制權，”他說，“因此，市場會不斷尋找他立場轉變的任何蛛絲馬跡。”而定價服務GasBuddy的石油分析主管帕特里克·德漢（Patrick de Haan）表示，特朗普在左右市場方面的“信譽”確實降低了，但並未完全消失。“我不認為信譽會完全歸零，”他說，“不過，很難說它到底會在什麼時候徹底失效。”"
+    },
+    {
+      "id": "5023957",
+      "time": "2026-08-04 15:34:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST標準：副總經理閆雲龍因退休離任】ST標準公告稱，公司董事會於2026年8月4日收到副總經理閆雲龍書面辭職報告。因達到法定退休年齡，閆雲龍辭去副總經理職務，原定任期到期日為2026年7月7日。其辭職報告自送達董事會之日起生效，離任不會影響公司正常經營，離任後不在公司擔任其他職務，且不存在未履行完畢的公開承諾。"
+    },
     {
       "id": "5023956",
       "time": "2026-08-04 15:34:19",
@@ -17,6 +148,14 @@
         "公司"
       ],
       "text": "【晶華新材：累計回購194.56萬股，支付總金額2999.72萬元】晶華新材公告，公司此前披露回購方案，擬使用資金總額不低於5000萬元（含）且不超過1億元（含）人民幣，回購價格不超過45.98元/股（含），回購用途為維護公司價值及股東權益。截至2026年7月31日，公司透過集中競價交易方式累計回購股份194.56萬股，佔總股本比例0.67%，購買最高價15.5元/股、最低價15.28元/股，已支付總金額2999.72萬元（不含交易費用）。"
+    },
+    {
+      "id": "5023954",
+      "time": "2026-08-04 15:34:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧波海運：董事王靜毅因工作變動辭職】寧波海運公告稱，公司董事會於2026年8月4日收到董事王靜毅書面辭職報告，其因工作變動辭去董事職務，原定任期至2027年5月28日。王靜毅辭職未導致董事會成員低於法定最低人數，不影響公司正常運作，辭職報告自送達董事會之日起生效。公司將盡快補選董事，王靜毅已完成交接工作。"
     },
     {
       "id": "5023953",
