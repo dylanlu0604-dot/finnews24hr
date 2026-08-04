@@ -1,7 +1,463 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-05 02:45:20_
-_本檔包含 3483 則快訊，約 664920 字_
+_更新時間：2026-08-05 04:39:56_
+_本檔包含 3492 則快訊，約 665514 字_
+
+---
+
+### 2026-08-01 11:57:14  #MKT News #Market Regions #Japan & APAC #6758.T #Impact bearish #2330.TW #8035.T
+
+【Quake halts multiple semiconductor fabs on Japan's 'Silicon Island'】A July 28 quake forced suspension of production at multiple semiconductor fabs in Kyushu, which hosts more than 700 semiconductor-related firms. An Aug. 1 inspection found most factory exteriors intact but said strong shaking requires equipment adjustment and recalibration, delaying restarts. Sony, TSMC and Tokyo Electron facilities remain offline, with the earliest restarts targeted for next week. After the 2016 Kumamoto quake many local fabs took a month or longer to regain pre-quake capacity; recovery timing for this event is unclear, posing a material risk to Japan’s semiconductor supply chain.
+
+---
+
+### 2026-08-01 11:55:15  #MKT News #Market Themes #China EV Leaders #Market Regions #Greater China
+
+Arcfox delivered 23,517 vehicles in July, up 150.45% YoY; January–July cumulative deliveries exceeded 100,000 units.
+
+---
+
+### 2026-08-01 11:55:06  #公司 #其他
+
+【極狐汽車7月交付23517臺，同比增長150.45%】8月1日，極狐汽車公佈，7月交付23,517臺，同比增長150.45%，1-7月累計交付超10萬臺。
+
+---
+
+### 2026-08-01 11:53:52  #其他
+
+【一汽-大眾“雙終身質保”權益新增燃油轎車及PHEV車型】8月1日，一汽-大眾大眾品牌面向全系燃油車及PHEV車型的新購車主推出“全系雙終身質保”權益。“全系雙終身質保”包含“整車終身質保”與“原裝備件終身質保”，覆蓋整車車身、底盤、電氣系統等，以及發動機、變速箱、發電機、空調壓縮機等關鍵原裝備件，還包含使用者在授權經銷商處更換的原裝備件，只要非人為損壞，終身免費維修，且不受年限、里程限制，全國聯保。使用者只需滿足車輛首任非營運車主、嚴格遵循保養手冊要求定期在授權經銷商處保養、維修更換選用原裝備件等三項條件即可享受。
+
+---
+
+### 2026-08-01 11:52:27  #公司
+
+【夏宇出任諾安基金董事長】8月1日，諾安基金髮布公告稱，公司董事長（法定代表人）由李強變更為夏宇。諾安基金表示，董事長履新屬正常人事調整，不影響公司整體戰略方向及旗下產品正常運作。
+
+---
+
+### 2026-08-01 11:41:59  #行業
+
+【浙江實施人工智慧OPC術語團體標準：由1名核心自然人主導】由浙江省數字經濟發展中心等編制的《人工智慧OPC術語》團體標準2026年8月1日起實施，將人工智慧OPC（One Person Company，一人公司）界定為由1名核心自然人主導控制，員工一般不超過10人，以AI技術研究、開發、應用或服務為主營業務的公司。
+
+---
+
+### 2026-08-01 11:41:58  #市場 #焦點
+
+美銅暗盤跌破6.5美元，日內跌幅0.2%。
+
+---
+
+### 2026-08-01 11:40:21  #其他
+
+【電影《功夫女足》票房破21億】據燈塔專業版實時資料，截至8月1日0時0分，影片《功夫女足》票房突破21億元。
+
+---
+
+### 2026-08-01 11:40:06  #其他
+
+【黑龍江釋出暴雨紅色預警：五常局地累計雨量或將超100毫米】據8月1日中央氣象臺官網訊息，黑龍江省氣象臺於當日10時38分發布暴雨紅色預警訊號：過去一小時五常部分鄉鎮降水量達40～60毫米，未來2小時仍有30～60毫米降水，預計累計降雨量將超過100毫米。
+
+---
+
+### 2026-08-01 11:38:58  #市場 #焦點
+
+紐約原油暗盤突破86美元，日內漲超5.3%。
+
+---
+
+### 2026-08-01 11:38:58  #市場 #焦點
+
+布倫特原油暗盤突破90美元，日內漲超5.2%。
+
+---
+
+### 2026-08-01 11:38:58  #MKT News
+
+【Kyrgyzstan, Azerbaijan sign alliance treaty】On July 31, Kyrgyz President Sadyr Japarov and visiting Azerbaijani President Ilham Aliyev signed a treaty establishing an alliance in Cholpon-Ata after bilateral talks; Japarov said the pact is a key outcome of the summit and marks a new phase of cooperation.
+
+---
+
+### 2026-08-01 11:38:47  #其他
+
+【吉爾吉斯斯坦與亞塞拜然簽署同盟關係條約】據吉爾吉斯斯坦總統網站7月31日訊息，吉總統扎帕羅夫當天在吉爾吉斯斯坦喬爾蓬阿塔市與來訪的亞塞拜然總統阿利耶夫簽署同盟關係條約。扎帕羅夫當天與阿利耶夫舉行會談後向媒體發表宣告。扎帕羅夫表示，兩國簽署同盟關係條約是元首會談的一項重要成果，標誌著雙方合作進入新階段。（新華社）
+
+---
+
+### 2026-08-01 11:31:42  #MKT News
+
+The U.S. Senate Judiciary Committee will meet next Tuesday to vote on Todd Blanche's nomination for U.S. attorney general.
+
+---
+
+### 2026-08-01 11:31:26  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #USDJPY #XAUUSD #Impact bearish
+
+【Japan finance ministry says monetary authorities have multiple tools to meet market liquidity needs】Japan's finance ministry said on Saturday monetary authorities have multiple tools to meet market liquidity needs, including discretionary use of the Federal Reserve's Foreign and International Monetary Authorities (FIMA) standing repo facility, which accepts U.S. Treasuries as collateral to provide temporary dollar liquidity. The ministry said it stands ready to deploy available tools as needed to support orderly market functioning.
+
+---
+
+### 2026-08-01 11:29:57  #國際
+
+美國參議院司法委員會定於週二就託德·布蘭奇出任司法部長的提名舉行投票會議。
+
+---
+
+### 2026-08-01 11:23:34  #其他 #國際
+
+【義大利南部地震已造成10人受傷】當地時間7月31日晚，義大利南部那不勒斯附近的弗萊格雷營火山區發生40年來最強烈地震。據義大利國家地球物理與火山學研究所監測，地震發生在當晚19時46分，震級達4.7級，那不勒斯震感明顯。當晚22時，同一區域再次發生3.8級餘震。據當地媒體報道，地震已造成10人受傷。受地震影響，多地出現斷電、建築物受損等情況。（CCTV國際時訊）
+
+---
+
+### 2026-08-01 11:19:55  #其他 #國際
+
+【中國—烏茲別克AEO互認安排正式實施】今天（1日），中國與烏茲別克海關“經認證的經營者”（AEO）互認安排正式實施，兩國貿易便利化水平將會進一步提升。AEO互認安排落地後，中國海關、烏茲別克海關在進口貨物通關時，向互認的AEO企業提供多項便利措施：適用較低的進口貨物查驗率；對需要實貨檢查的貨物給予優先檢查；指定海關聯絡員，負責溝通處理專案成員在通關中遇到的問題；在國際貿易中斷、恢復後優先通關。（央視新聞）
+
+---
+
+### 2026-08-01 11:18:49  #其他 #國際
+
+【秘魯前總統烏馬拉獲釋出獄】秘魯前總統烏馬拉當地時間7月31日晚獲釋出獄。秘魯憲法法院7月30日晚公佈裁決，撤銷針對烏馬拉因洗錢罪被判處15年監禁的判決。（新華社）
+
+---
+
+### 2026-08-01 11:16:19  #市場 #觀點 #國際
+
+【中信證券：當前仍應依據籌碼、估值和交易節奏參與】中信證券研報指出，北美AI產業鏈和資本開支仍強，市場主線尚未根本切換，但資金正向低位、低持倉且具備盈利修復彈性的方向擴散。化工處於低開工、低庫存狀態，股票同樣具有低持倉、低位特徵，一旦產品價格改善，業績和估值有望共振。有色方面，黃金雖受高利率壓制，但美國AI技術霸權邏輯正在弱化，疊加籌碼出清較充分，配置價值有所提升。消費更適合在外需全面走弱後配置，當前仍應依據籌碼、估值和交易節奏參與。組合以化工為進攻主線，以黃金對沖波動，並保留AI基礎設施、非銀金融和高股息資產的配置。
+
+---
+
+### 2026-08-01 11:14:39  #MKT News #Market Regions #Greater China
+
+【Local pension funds' 2025 investment return 5.76%】China's National Council for Social Security Fund reported local pension funds earned 142.07 bln yuan in investment income in 2025, a 5.76% return. Since entrusted operations began in December 2016 the funds have generated cumulative investment income of 554.43 bln yuan, an annualized return of 5.14%, about 2.51 percentage points above the guaranteed minimum annual return of 2.63%. The council said it continues to pursue long-term, value and responsible investment and to manage the funds prudently to preserve and grow assets.
+
+---
+
+### 2026-08-01 11:14:18  #其他
+
+【吉林省釋出山洪災害氣象風險橙色預警】吉林省水利廳和吉林省氣象局2026年8月1日10時聯合釋出山洪災害氣象風險橙色預警：預計，8月1日白天至8月2日白天，延邊州汪清縣發生山洪災害可能性大；吉林市舒蘭市、蛟河市，延邊州敦化市、琿春市發生山洪災害可能性較大；其他地區也可能因局地短時強降水引發山洪災害。（央視新聞）
+
+---
+
+### 2026-08-01 11:12:55  #其他
+
+【2026年上半年，浙江機場累計運輸生鮮近4萬噸】據統計，上半年浙江省機場累計運輸生鮮近4萬噸，同比增長超26%，其中進出口生鮮近1.5萬噸，同比增長超178%。作為核心樞紐，杭州機場上半年生鮮運輸量約2.7萬噸，同比增長超23%。（浙江釋出）
+
+---
+
+### 2026-08-01 11:11:55  #其他
+
+【西安汽車消費補貼政策升級 新車二手車都有補貼】據“西安釋出”，8月1日起，西安汽車消費補貼政策升級。個人消費者購買納入《減免車輛購置稅的新能源汽車車型目錄》的新能源乘用車，按照購車發票價格的2%給予補貼，最高補貼1萬元。對購買2026年新發布上市的新款新能源車型新車：購車發票價格在9萬元（含）—15萬元的，增加補貼2000元；購車發票價格在15萬元（含）以上的，增加補貼3000元。個人消費者購買二手乘用車，按照購車發票價格的1.5%給予補貼，最高補貼4000元。本次汽車消費補貼政策自2026年8月1日起執行，有效期至2026年10月8日，新能源汽車購新補貼以購車發票時間或訂單確立時間為準，補貼資金使用完畢即止。
+
+---
+
+### 2026-08-01 11:11:52  #宏觀 #資料 #市場 #其他
+
+【2025年地方養老基金投資收益率為5.76%】全國社會保障基金理事會今天（1日）釋出報告，2025年地方養老基金投資收益額1420.71億元，投資收益率5.76%。自2016年12月受託運營以來，地方養老基金累計投資收益額5544.30億元，年均投資收益率5.14%，超過年均保底收益率2.63%約2.51個百分點。報告指出，社保基金會堅持並持續豐富“長期投資、價值投資、責任投資”理念，審慎穩健開展投資運營管理，忠實履行好基金安全和保值增值主體責任。（央視新聞）
+
+---
+
+### 2026-08-01 11:11:48  #MKT News #Market Themes #China EV Leaders
+
+【Zeekr July deliveries 35,837 units, up 111% YoY, record high】Aug 1 — Zeekr reported July deliveries of 35,837 vehicles, up 111% YoY and a new single-month record. The 9X and 8X super-hybrid models led volumes; the shooting-brake variant and 7X pure-electric model each exceeded 10,000 global deliveries. Zeekr cited its full-stack 900V high-voltage architecture and Haohan AI digital chassis as supporting factors as it achieved simultaneous volume and price gains amid industry pressure.
+
+---
+
+### 2026-08-01 11:10:41  #MKT News #Important
+
+【ChangXin Memory's LPDDR6 Nears End of R&D Validation】Industry sources say ChangXin Memory's LPDDR6 (sixth-generation low-power double-data-rate memory standard) is nearing the end of R&D validation, a key pre-production step ahead of mass production.
+
+---
+
+### 2026-08-01 11:10:33  #公司
+
+【11.81億元 社保基金第一重倉方向曝光】隨著A股上市公司半年報披露工作有序推進，全國社保基金的調倉路徑與持倉佈局變化逐步清晰。據Wind資料統計，截至7月31日記者發稿，在已披露半年報的A股公司中，全國社保基金共現身7只個股的前十大流通股東名單，合計持倉市值約20.03億元。從持倉變動來看，全國社保基金增持3只、新進2只、減持1只、持股不變1只。
+
+從持倉標的行業分佈來看，全國社保基金整體佈局清晰劃分為三條投資主線。第一條主線是半導體與電子元件。資料顯示，相關板塊以合計約11.81億元的持倉市值，佔社保基金持倉總市值的58.96%。
+
+第二條主線是新能源發電。資料顯示，桂冠電力在此輪社保基金調倉中獲得全國社保基金108組合和全國社保基金110組合合計買入2604.44萬股，持倉市值達2.29億元。桂冠電力上半年營業收入為57.2億元，同比增長37.6%；歸母淨利潤為17.6億元，同比增長48.1%。
+
+第三條主線是有色金屬資源品。資料顯示，盛屯礦業集團股份有限公司（以下簡稱“盛屯礦業”）獲全國社保基金110組合重倉新進2623.63萬股，持倉市值2.88億元。盛屯礦業上半年營業收入為192.64億元，同比增長39.56%；歸屬於上市公司股東的淨利潤為18.04億元，同比增長71.37%。（21財經）
+
+---
+
+### 2026-08-01 11:08:03  #其他
+
+【極氪7月交付量達35837輛，同比大增111%創歷史新高】8月1日，極氪公佈7月交付資料，單月交付新車35837輛，同比增長111%，再創歷史新高。其中，極氪9X、8X超級電混車型領跑，獵裝及7X等純電車型全球交付量均已破萬。
+
+---
+
+### 2026-08-01 11:07:15  #MKT News #Important #Market Themes #China EV Leaders
+
+【Leapmotor: July deliveries top 100,000 for first time】Aug 1, 2026 — Chinese EV startup Leapmotor reported July deliveries of 101,267 units, up 102% YoY. It is Leapmotor’s first month above 100,000 units and the first domestic EV startup to record monthly deliveries above 100,000.
+
+---
+
+### 2026-08-01 11:06:20  #其他
+
+鴻蒙智行：7月交付45,046臺，1-7月累計交付28.6萬臺，同比增長13.7%。
+
+---
+
+### 2026-08-01 11:06:07  #國際
+
+中國地震臺網正式測定：08月01日10時48分在日本本州東部附近海域（北緯41.30度，東經142.00度）發生5.5級地震，震源深度80千米。
+
+---
+
+### 2026-08-01 11:06:01  #公司 #其他
+
+【7月零跑交付超10萬輛】在剛剛過去的7月，零跑汽車交付超10萬輛 。這是零跑月銷首次突破10萬輛，零跑也是目前首個月度交付超過10萬輛的新勢力車企。
+
+---
+
+### 2026-08-01 11:05:35  #MKT News
+
+【Oil tanker struck off Oman; engine room damaged, vessel disabled - UKMTO】UK Maritime Trade Operations (UKMTO) received a report of an incident 11 nm NNE of Lima, Oman. A tanker security officer said the vessel was struck by an unidentified projectile, damaging the engine room and leaving the ship without control; the regional coastguard has been notified. No injuries or pollution reported; authorities are investigating. UKMTO advised transiting vessels to exercise caution and report suspicious activity.
+
+---
+
+### 2026-08-01 11:05:28  #公司 #其他 #焦點
+
+【長鑫科技LPDDR6接近研發驗證尾聲】8月1日，行業人士向記者透露，長鑫儲存的LPDDR6（第六代低功耗雙倍資料速率記憶體標準）已接近研發驗證尾聲，這是量產前的重要一步。今年3月便有市場訊息稱，長鑫科技旗下的長鑫儲存在積極推進LPDDR6產品落地，並已向核心客戶送樣，有望2026年下半年釋出並實現量產匯入。相關資訊稱長鑫首款LPDDR6產品的設計規格速率為12800 Mbps，與SoC（系統級晶片）協同的執行基礎速率為10667Mbps，顆粒容量16Gb，採用1295 Ball（焊球）的POP（堆疊）封裝，在低功耗設計、RAS（可靠性、可用性和可維護性）功能比LPDDR5X（LPDDR5的強化版）產品有明顯最佳化提升。（第一財經）
+
+---
+
+### 2026-08-01 11:01:31  #MKT News
+
+【July likely to be hottest month on record in contiguous US】U.S. reports on July 31 say July is on track to be the hottest month on record in the contiguous United States. A new heat dome is forming in the U.S. West and high temperatures are expected to persist. As of July 29, July's average temperature was about 1.4°C above the 1991–2020 baseline; final July data will be released in early August, and media predict it could exceed the July 2012 record.
+
+---
+
+### 2026-08-01 11:00:36  #國際
+
+【今年7月或成美國有記錄以來最熱月份】據美國方面7月31日訊息，今年7月有望成為美國本土有記錄以來最熱的一個月份。與此同時，新一輪“熱穹頂”正在美國西部形成，高溫天氣預計還將持續。據悉，截至7月29日，美國今年7月的平均氣溫較1991年至2020年同期平均水平高約1.4攝氏度，儘管最終的7月平均氣溫資料要等到8月初才能公佈，但媒體預測這一數字有望重新整理2012年7月創下的紀錄，令今年7月成為美國本土有記錄以來最熱的一個月份。（央視新聞）
+
+---
+
+### 2026-08-01 11:00:33  #宏觀 #國際
+
+日本財政部：貨幣當局擁有廣泛的工具來應對市場流動性需求。
+
+---
+
+### 2026-08-01 11:00:27  #MKT News #Important
+
+Japan's Finance Ministry said monetary authorities have a broad range of tools to address market liquidity needs.
+
+---
+
+### 2026-08-01 11:00:11  #MKT News
+
+【South Korea's National Assembly passes amendment removing prosecutors' direct investigative powers】South Korea's National Assembly on July 31 approved an amendment to the Criminal Procedure Act that removes prosecutors' authority to conduct direct and supplementary investigations. The measure passed 175-2-1. Under the amendment, prosecutors may no longer carry out direct investigations or initiate supplementary probes themselves; if they deem further investigation necessary they can only request judicial police to conduct supplementary investigations. The change is part of broader prosecutorial reform.
+
+---
+
+### 2026-08-01 10:59:38  #公司
+
+【中國國家博物館嚴正宣告：從未在館外開展掃碼入群、資訊採集活動】中國國家博物館網站7月31日釋出公告稱，近日，觀眾反映有社會人員冒用“國家博物館工作人員”名義從事引導公眾掃碼，收集獲取手機號碼、身份證號碼等個人資訊的活動。對此，國家博物館高度重視，特此釋出嚴正宣告：國家博物館從未授權任何機構、個人在館外公共場所開展掃碼入群、資訊採集等活動，凡是以國家博物館名義進行的此類活動，均與國家博物館無任何關聯。上述行為嚴重侵犯了國家博物館的合法權益，國家博物館將依法保留追究相關組織及個人法律責任的權利。在此，國家博物館特別提醒公眾，提高安全防範意識，妥善保管個人資訊，切勿輕易掃描來源不明的二維碼。如發現有組織或個人以國家博物館名義進行非法活動，請及時向相關執法部門舉報。
+
+---
+
+### 2026-08-01 10:58:55  #MKT News
+
+【5.8-magnitude quake offshore Aomori; no tsunami risk】A 5.8-magnitude earthquake struck offshore Aomori Prefecture at about 11:48 a.m. JST on Aug. 1, the Japan Meteorological Agency said. Maximum JMA seismic intensity was 4 and the hypocentre was 80 km deep. The agency said there is no tsunami risk.
+
+---
+
+### 2026-08-01 10:56:57  #MKT News
+
+The Japan Meteorological Agency said a magnitude-5.8 earthquake struck off Aomori Prefecture on Aug. 1.
+
+---
+
+### 2026-08-01 10:56:04  #MKT News
+
+UKMTO said the incident so far has not reported any casualties or environmental impact.
+
+---
+
+### 2026-08-01 10:55:37  #其他
+
+英國海上貿易行動辦公室（UKMTO）：目前尚未接到人員傷亡或環境影響相關報告。
+
+---
+
+### 2026-08-01 10:55:25  #國際
+
+據日本氣象廳訊息，日本青森縣附近海域8月1日發生5.8級地震。（新華社）
+
+---
+
+### 2026-08-01 10:55:20  #MKT News #Brent #Impact bullish #WTI
+
+UKMTO said the chief security officer of an oil tanker reported projectiles damaged the vessel's engine room.
+
+---
+
+### 2026-08-01 10:54:38  #MKT News
+
+UKMTO said the chief security officer of an oil tanker reported the vessel was struck by an unidentified flying object.
+
+---
+
+### 2026-08-01 10:54:33  #MKT News
+
+UKMTO said it has received a report of an incident about 11 nm NNE of Lima, Oman.
+
+---
+
+### 2026-08-01 10:53:51  #其他 #國際
+
+英國海上貿易行動辦公室（UKMTO）表示已收到報告，阿曼利馬東北11海里處發生一起事件。一艘油輪的首席安全官報告稱，該船遭到不明飛行物襲擊。
+
+---
+
+### 2026-08-01 10:53:41  #其他
+
+【大眾安徽7月交付2149輛，同比增長170%】8月1日，@大眾安徽 公佈，2026年7月交付2149輛，同比增長170%。
+
+---
+
+### 2026-08-01 10:51:45  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+【Tesla says roughly one new vehicle rolls off global production lines every 18 seconds】Tesla said on its official WeChat account that it took 20 years from its first prototype to its 10 millionth production vehicle, and it now averages about one new Tesla rolling off global production lines every 18 seconds.
+
+---
+
+### 2026-08-01 10:47:03  #其他
+
+【樂奇AI眼鏡進入加拿大市場】7月29日，樂奇Rokid在加拿大多倫多舉辦釋出會，正式推出樂奇AI眼鏡海外版Rokid Glasses。據介紹，樂奇Rokid已與總部位於安大略省馬克姆市的眼鏡廠商明氏光學（Ming’s Optical）達成合作。
+
+---
+
+### 2026-08-01 10:45:12  #其他
+
+【甘肅釋出地質災害氣象風險紅色預警】甘肅省自然資源廳、甘肅省氣象局於8月1日8時50分發布地質災害氣象風險預警：預計未來24小時內（8月1日8時50分至8月2日8時50分），隴南市（武都區、文縣、康縣）發生崩塌、滑坡、泥石流等地質災害的風險很高，為紅色預警。（央視新聞）
+
+---
+
+### 2026-08-01 10:42:19  #公司
+
+【字偉獲批擔任中銀資產副總經理】7月31日，北京金融監管局網站釋出批覆，核准字偉中銀金融資產投資有限公司副總經理的任職資格。公司應要求上述核准任職資格人員嚴格遵守金融監管總局有關監管規定，自本行政許可決定作出之日起3個月內到任，並按要求及時報告到任情況。未在上述規定期限內到任的，本批覆檔案失效，由決定機關辦理行政許可登出手續。
+
+---
+
+### 2026-08-01 10:39:09  #國際
+
+【韓國國會透過法案取消檢察官偵查權】韓國國會7月31日透過《刑事訴訟法》修正案，取消檢察機關直接偵查和補充偵查的許可權。這是韓國推進檢察系統改革的又一立法舉措。韓國國會當天以175票贊成、2票反對、1票棄權的表決結果，透過這一修正案。根據該修正案，檢察機關將不再擁有直接開展偵查的許可權，也不得自行開展補充偵查。如果檢察官認為案件需進一步調查，只能要求司法警察開展補充偵查。（新華社）
+
+---
+
+### 2026-08-01 10:37:00  #公司
+
+【墨西哥足協回應FIFA撤回FFE專案：對我們而言此事告一段落】北京時間8月1日，因凡蒂諾在當地時間深夜釋出宣告，宣佈出售世界盃的FFE計劃終止。 墨西哥足協隨後釋出一份公告。墨西哥足協通報今日，國際足聯已通知各會員協會，其已撤回該FFE專案，因此對墨西哥足協而言，此事已告一段落。我們很高興看到各大洲足聯和各會員協會的團結被置於優先位置，以維護足球運動的利益。
+
+---
+
+### 2026-08-01 10:33:59  #其他
+
+【特斯拉：平均每18秒左右全球就有一輛新的特斯拉下線】8月1日，特斯拉官微發文稱，從第一輛原型車到第1000萬輛量產車下線歷時整整20年，如今平均每18秒左右全球就有一輛新的特斯拉下線。
+
+---
+
+### 2026-08-01 10:33:22  #國際
+
+美國國家颶風中心（NHC）表示，熱帶有氣旋“吉納維芙”在開闊太平洋上空強度略有減弱。
+
+---
+
+### 2026-08-01 10:31:31  #資料 #國際
+
+【韓國7月出口飆升至歷史第二高 半導體出口同比暴增近180%】在儲存晶片需求旺盛的推動下，韓國7月出口同比飆升近63%至989.9億美元，創歷史第二高單月出口額，僅次於6月的1022億美元。進口增長26.5%至685.6億美元，貿易順差達303.2億美元。從行業來看，半導體出口暴增179%至410億美元，連續兩個月突破400億大關，儘管競爭加劇，但全球儲存產品價格仍維持高位。資料顯示，受大型高科技公司推出的AI資料中心投資專案的推動，對美出口額激增68.7%，達到174億美元。韓國產業通商資源部長官金正寬表示，在半導體行業強勁表現的帶動下，韓國20個主要出口類別中有19個實現了增長，出口組合多元化成效顯著。
+
+---
+
+### 2026-08-01 10:30:32  #市場
+
+本週廣安愛眾、新點軟體、景業智慧等29只個股釋出業績預告，其中業績大幅預增10只，中紅醫療淨利潤預測同比增長3557%
+
+---
+
+### 2026-08-01 10:29:47  #公司
+
+【傑瑞再生迴圈重慶鋰電資源化迴圈利用場站正式投產】據傑瑞股份訊息，7月31日，傑瑞再生迴圈重慶鋰電資源化迴圈利用場站正式投產。活動同期，舉辦了鋰電池資源化迴圈利用專案集中籤約儀式。傑瑞再生迴圈分別與沙特 EADA 公司、阿聯酋Witthal Gulf公司（連線簽約）、廈門海辰新材料科技股份有限公司、九江天賜資源迴圈科技有限公司、安徽潔途科技新能源科技有限公司、曲靖市華祥科技有限公司、重慶三電能源科技有限公司、河南譽碳新能源有限公司、山東潤泉環境科技有限公司在內的九家行業企業簽署合作協議，持續深化鋰電池資源化迴圈利用及極片修復業務佈局。
+
+---
+
+### 2026-08-01 10:29:04  #MKT News
+
+YONHAP: A South Korean official said South Korea and Argentina have reached an agreement to strengthen cooperation on critical minerals.
+
+---
+
+### 2026-08-01 10:28:49  #市場
+
+【國內金飾價格集體下跌】8月1日，周生生足金飾品報1225元/克，單日降15元；老廟黃金足金飾品報1226元/克，單日降14元；老鳳祥足金飾品報1225元/克，單日降14元。
+
+---
+
+### 2026-08-01 10:27:41  #MKT News #Market Themes #Chip Wars #DXY #Impact bearish
+
+【South Korea July exports jump to second-highest on record; semiconductor exports up 179% YoY】South Korea July exports rose 63.0% YoY to $99.0bn, the second-highest monthly total after June’s $102.2bn. Imports increased 26.5% to $68.6bn, leaving a trade surplus of $30.3bn. Semiconductor exports surged 179% YoY to $41.0bn, exceeding $40bn for a second consecutive month, driven by strong storage-chip demand. Exports to the US jumped 68.7% to $17.4bn, supported by AI data-center investment from major tech firms. The trade minister said 19 of 20 major export categories expanded, flagging meaningful export diversification.
+
+---
+
+### 2026-08-01 10:21:36  #公司 #市場 #國際
+
+【伊朗衝突推高各類商品價格：啤酒、塗料、炸薯條等消費品漲價】霍爾木茲海峽持續封鎖帶來的衝擊，已經遠超燃油價格，開始直接影響美國民眾日常開支。多家企業表示，為對沖大宗商品與物流運費上漲壓力，將上調炸薯條、啤酒、塗料、包裝材料等各類產品售價。 塞繆爾·亞當斯啤酒生產商波士頓啤酒公司、宣偉塗料、國際紙業以及聯合利華（多芬香皂、好樂門蛋黃醬母公司）等企業近日陸續向投資者披露，已經漲價或計劃很快上調產品價格，以此抵消原材料成本上漲。
+
+---
+
+### 2026-08-01 10:21:23  #MKT News
+
+【Joe Tsai and wife end nearly 30-year marriage; business holdings and team stakes unchanged】Multiple media reported on Aug. 1 (Beijing time) that Alibaba Group chairman Joe Tsai and his wife Clara Wu Tsai have announced the end of their nearly 30-year marriage; their commercial holdings and stakes in the Brooklyn Nets and the WNBA’s New York Liberty will remain unchanged.
+
+---
+
+### 2026-08-01 10:19:15  #公司
+
+【陳國金獲批擔任建信消費金融副總裁】7月31日，北京金融監管局網站釋出批覆，核准陳國金建信消費金融有限責任公司副總裁的任職資格。公司應要求上述核准任職資格人員嚴格遵守金融監管總局有關監管規定，自本行政許可決定作出之日起3個月內到任，並按要求及時報告到任情況。未在上述規定期限內到任的，本批覆檔案失效，由決定機關辦理行政許可登出手續。
+
+---
+
+### 2026-08-01 10:19:10  #其他
+
+【工行今日重啟5年期大額存單發行 四大行定價上限均為1.6%】今日上午，工行今日起已經正式重啟5年期大額存單的發行，兩款產品年化分別為1.60%和1.55%。這也意味著，繼7月份中行、農行、建行三家國有大行相繼上架5年期大額存單之後，工行也選擇了跟進。且目前來看，四大行本輪5年期大額存單最高定價均為1.6%。在業內人士看來，國有四大行的動作對銀行業具有一定的導向作用，“未來或有更多中小銀行跟進”。
+
+---
+
+### 2026-08-01 10:19:02  #國際
+
+【中國企業家代表團與美中貿委會及其會員企業交流座談】7月31日，中國貿促會組織中國企業家代表團在華盛頓與美中貿易全國委員會及其會員企業交流座談，來自多個行業的中美企業代表參會並進行了積極溝通交流。中國貿促會會長任鴻斌、中國駐美國大使館經商處公參李勰、美中貿委會會長譚森等出席併發言。任鴻斌表示，兩國元首北京會晤達成的重要共識，為兩國企業務實合作提供了戰略引領。美中貿委會是中國貿促會在美國的重要對口機構，雙方既是歷史中的朋友，也是現實中的夥伴。美中貿委會積極發揮自身影響，在拓展中美經貿合作、密切人文交流、增進相互瞭解等方面發揮了重要橋樑紐帶作用。面向未來，中國貿促會願與美中貿委會一道，搭建更多高質量政商對話、經貿交流平臺，助力營造良好投資環境，深化多邊領域合作，繼續做中美友好的踐行者、中美互利合作的促進者、全球產供鏈穩定暢通的維護者，為推動中美工商界合作共同努力。（新華社）
+
+---
+
+### 2026-08-01 10:08:23  #MKT News
+
+【Summer travel halfway: China railways carry 432 million passenger trips】China State Railway Group said the two-month summer transport period, which began July 1, carried 432 million passenger trips from July 1–31. Passenger flows concentrated in Chengdu–Chongqing, Beijing–Tianjin–Hebei, the Yangtze River Delta and the Guangdong–Hong Kong–Macao Greater Bay Area. As of July 31, China Railway’s Beijing bureau had carried 38.774 million passengers and the Guangzhou bureau 58.925 million.
+
+---
+
+### 2026-08-01 10:07:40  #其他
+
+【暑運過半 全國鐵路累計傳送旅客4.32億人次】記者今天（8月1日）從國鐵集團獲悉，為期兩個月的鐵路暑運自7月1日啟動以來至7月31日，累計傳送旅客4.32億人次。（央視新聞）
+
+---
+
+### 2026-08-01 10:02:39  #MKT News #Important #Market Themes #China EV Leaders #LI.O
+
+Li Auto delivered 30,468 vehicles in July 2026.
+
+---
+
+### 2026-08-01 10:01:24  #公司 #其他 #焦點
+
+理想汽車：2026年7月交付車輛30468輛。
+
+---
+
+### 2026-08-01 09:54:10  #其他
+
+【降雨致四川多地受災 已提前避險轉移89696人】記者從四川省地質災害指揮部辦公室獲悉，截至8月1日7時，“7·29”降雨過程已造成成都、自貢、德陽、綿陽、廣元、內江、樂山、眉山、宜賓、雅安、資陽、阿壩和涼山等13個市（州）77個縣（市、區）88203人受災，農作物受災面積742.4公頃，倒塌房屋3戶9間，直接經濟損失超過4097萬元。截至1日7時，四川14個市（州）95個縣（市、區）在24小時內共提前轉移避險89696人（其中比較多的有：宜賓33522人、雅安17208人、涼山12970人）。至此，入汛以來四川全省共提前轉移避險817200人次。（央視新聞）
 
 ---
 
@@ -20606,460 +21062,5 @@ South Korea Industrial Output Growth Hits 6-Year High — South Korea’s indust
 ### 2026-07-31 07:08:15  #國際
 
 【希臘克里特島山火持續 大量遊客撤離景區】當地時間7月30日，希臘著名旅遊勝地克里特島山火持續肆虐、火勢不減。受火情影響，島上景區大批遊客緊急撤離避險。受高溫、乾燥和強風天氣影響，希臘多地近日出現山火火情。據外媒報道，30日仍有超過200名消防員繼續在克里特島進行滅火作業。此前希臘消防部門29日表示，希臘各地已有三名消防員在救火過程中遇難。
-
----
-
-### 2026-07-31 07:08:03  #MKT News #Important
-
-【Anthropic says Claude accessed three organizations' live systems without authorization during third‑party evaluations】Anthropic reported three incidents in which its Claude model, while interacting with external networks in third‑party evaluation environments, connected to the internet and accessed three different organizations' live systems without authorization. Anthropic said it is investigating.
-
----
-
-### 2026-07-31 07:05:37  #市場 #國際
-
-SK海力士盤前交易股價上漲14%，追隨美國同行漲勢。
-
----
-
-### 2026-07-31 07:05:14  #國際
-
-【中央氣象臺繼續釋出雙預警：黑龍江四川廣西等地部分地區有大暴雨】中央氣象臺7月31日06時繼續釋出暴雨黃色預警：預計，7月31日08時至8月1日08時，黑龍江中北部、甘肅南部、陝西南部、四川盆地中西部和南部及山西北部、河南西部、廣西南部、廣東南部沿海和西北部、海南島東南部等地部分地區有大到暴雨，其中，黑龍江中部、四川盆地西北部和南部、廣西南部沿海等地部分地區有大暴雨（100～180毫米）。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風等強對流天氣。中央氣象臺7月31日06時繼續釋出強對流天氣藍色預警：預計7月31日08時至8月1日08時，東北地區北部、西北地區東南部、華北東北部、西南地區東部等地的部分地區將有8級以上雷暴大風或冰雹天氣，其中，黑龍江中西部將有10級以上雷暴大風，局地不排除出現龍捲的可能性；東北地區北部、西北地區東南部、華北北部和西部、江南中部、華南南部、西南地區東部和南部等地的部分地區將有小時雨量大於20毫米的短時強降水天氣，其中，黑龍江中北部、山西北部、河北中北部、四川中東部、廣東東南部沿海等地的部分地區小時雨量大於50毫米，最大可達80毫米以上。
-
----
-
-### 2026-07-31 07:05:02  #國際
-
-【知情市場人士：日本當局干預外匯市場】一位知情的市場人士表示，日本再次干預了外匯市場。這位人士表示，日本買入了日元。由於無授權就此事公開置評，知情人士要求匿名。
-
----
-
-### 2026-07-31 07:02:53  #公司 #焦點 #國際
-
-【7月31日隔夜要聞一覽】
-1、當地時間7月30日晚，伊朗軍隊釋出公告稱，軍隊使用無人機襲擊了美軍位於巴林的謝赫伊薩空軍基地的發電機、導航系統以及行政和後勤保障建築。
-2、四名知情人士透露，白宮以及特朗普總統下設“和平委員會”認為，哈馬斯或將在未來數日簽署協議，啟動加沙地帶解除武裝與非軍事化程序。
-3、全球首富馬斯克已授權其超級政治行動委員會（Super PAC）投入1億至1.2億美元，在至少8個州落地線下競選推廣專案，助力共和黨候選人拿下11月中期選舉席位。
-4、據一位知情人士透露，特朗普政府正在考慮向國際生收取10萬美元以換取其畢業後留在美國工作的計劃。
-5、微軟週四創下股票市場歷史紀錄，市值單日增加約4500億美元，創下單隻股票有史以來最大單日市值增量。
-6、OpenAI於週四宣佈下調兩款最新人工智慧模型GPT-5.6 Terra與GPT-5.6 Luna的定價，距離兩款模型公開發布僅約三週。
-7、亞馬遜第二季度雲業務營收增速大幅超出分析師預期，同比增幅接近37%，創下2021年以來最高單季增長水平。
-8、蘋果給出截至9月財季的營收預期不及市場預期，AI算力基建熱潮持續給科技供應鏈帶來壓力；這也是蒂姆・庫克以執行長身份釋出的最後一份財報。
-9、美國財長斯科特·貝森特週四接受採訪時表示，日元“似乎被嚴重低估”，並認為“過度波動”是不健康的。
-
----
-
-### 2026-07-31 07:02:30  #其他
-
-【OpenAI下調GPT-5.6部分模型價格】當地時間7月30日，OpenAI宣佈最佳化GPT-5.6系列模型定價和效能，以提升企業使用者AI應用的價效比。其中，GPT-5.6 Luna模型價格下調80%，GPT-5.6 Terra模型價格下調20%。此次降價也將反映在使用Codex和ChatGPT Work時的付費訂閱額度計算中。此外，OpenAI在API中推出Fast模式，取代此前的Priority Processing服務。GPT-5.6 Sol在Fast模式下處理速度最高可提升至標準模式的2.5倍，價格為標準處理模式的兩倍，且模型能力保持不變。
-
----
-
-### 2026-07-31 07:02:06  #央行 #其他
-
-阿根廷米萊政府宣佈推行央行改革，禁止央行為國庫提供融資。
-
----
-
-### 2026-07-31 07:00:28  #其他
-
-Anthropic 人工智慧模型在測試過程中入侵三家機構系統。
-
----
-
-### 2026-07-31 07:00:11  #資料 #國際
-
-韓國6月季調後工業產出月率 6.4%，預期2.90%，前值由-3.00%修正為-2.9%。
-韓國6月工業產出年率 5.8%，預期3.00%，前值由-0.90%修正為-1.1%。
-
----
-
-### 2026-07-31 07:00:08  #MKT News #Nikkei 225 #Impact bullish #S&P500 #DXY #Impact bearish
-
-South Korea June seasonally adjusted industrial production rose 6.4% MoM, versus 2.9% expected; May revised to -2.9% from -3.0%.
-
----
-
-### 2026-07-31 07:00:08  #MKT News
-
-South Korea June industrial production YoY 5.8% (expected 3.0%); prior revised to -1.1% from -0.9%.
-
----
-
-### 2026-07-31 07:00:00  #市場 #央行 #國際
-
-【機構：日本央行會議後若日元再度走弱 日本或再次干預】SMBC日興證券高階外匯及利率策略師Rinto Maruyama表示，日本疑似干預匯市，可能是受到日本和美國長期及超長期國債收益率均大幅上升的推動。他表示，在日本央行公佈政策決定前干預，“可能是為了出其不意，最大限度放大幹預效果。這與4月更透明、容易識別的干預形成對比”。日本財務省近期多項高層人事任命，可能有助於鞏固政府的干預機制和決策流程。如果日元在日本央行會議後再度走弱，才可能出現新一輪干預。
-
----
-
-### 2026-07-31 07:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | Industrial Production (YoY) (Jun) | actual 5.8% | consensus 3.00% | previous -0.90%
-
----
-
-### 2026-07-31 07:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | Industrial Production (MoM) (Jun) | actual 6.4% | consensus 2.90% | previous -3.00%
-
----
-
-### 2026-07-31 06:58:50  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-New Zealand Stocks Head for Monthly Gain — New Zealand's stocks climbed 92 points, or 0.7%, to 13,854 in Friday morning trade after retreating in the previous session, mainly buoyed by financials, communication services, and real estate. The broader index rebounded from a more than one-week low touched a day earlier, tracking a rally on Wall Street overnight amid a rebound in technology stocks. Fresh data also lifted sentiment, as New Zealand's consumer confidence hit a five-month high. Moderating oil prices also fueled sentiment, easing inflation concerns and tempering expectations of an interest rate hike. However, traders awaited the release of China's PMI data due later today and trade data due next week. Caution also prevailed ahead of the release of New Zealand's unemployment data due next week. Among the early gainers were Infratil (2.1%), Meridian Energy (1.8%), Fisher & Paykel (1.2%), and Ebos Group (1.0%). For the week, the index is heading for a 0.6% gain, while posting a 1.7% increase for the month.
-
----
-
-### 2026-07-31 06:57:51  #MKT News #Important #Star Stocks #Apple #Market Themes #Chip Wars #Magnificent 7 #AAPL.O #Impact mixed
-
-【US senators urge Apple to avoid chips from two Chinese memory firms; researcher warns of supply-chain damage】Bloomberg reported July 30 that several US senators sent a joint letter to Apple CEO Tim Cook urging the company not to use storage chips from ChangXin Memory Technologies (CXMT) and Yangtze Memory Technologies (YMTC), even for products sold only in China. The senators noted both firms were added to the PENTAGON’s recently updated Chinese military companies list. Apple has been seeking to source storage chips from Chinese suppliers amid capacity shortages, tight supply and rising prices. Researcher Chen Jing at the Technology and Strategic Studies Society said Apple is not legally prohibited from procuring from Chinese firms and warned that politically driven barriers would damage normal Sino‑US corporate supply‑chain cooperation.
-
----
-
-### 2026-07-31 06:56:27  #國際
-
-市場訊息：哈馬斯同意執行加沙停火協議第二階段安排。
-
----
-
-### 2026-07-31 06:54:54  #公司 #國際
-
-【美多名議員阻撓蘋果採購中國晶片，專家：將破壞中美企業產業鏈合作】據彭博社7月30日報道，多名美國參議員在致蘋果執行長庫克的聯名信中稱，蘋果不應在其產品中使用這兩家中國企業生產的儲存晶片，即便相關產品僅在中國市場銷售。他們強調，長鑫科技和長江儲存已被列入美國國防部最近更新的“中國軍事企業清單”。這些參議員還聲稱，認可並在產品中使用中國晶片將構成“國家安全風險”，並要求蘋果在8月21日前明確承諾，不向這兩家企業採購晶片。參與簽署這封聯名信的議員多來自紐約州、印第安納州和愛達荷州等地，而儲存巨頭美光科技和韓國SK海力士正在這些州投資數十億美元擴大產能。報道稱，中國儲存晶片的湧入可能會危及這些專案。（環球時報）
-
----
-
-### 2026-07-31 06:51:57  #國際
-
-市場訊息：韓國外匯管理部門週四實施罕見的拋售美元、買入韓元的匯率干預操作。
-
----
-
-### 2026-07-31 06:51:54  #MKT News #Important #DXY #Impact bearish #USDJPY #XAUUSD #Impact bullish
-
-South Korea's FX authorities carried out a rare dollar-selling intervention on Thursday, market sources said.
-
----
-
-### 2026-07-31 06:51:47  #國際
-
-【以媒：以色列一軍事基地超百名士兵“抗命”離營】以色列第12頻道電視臺30日報道說，以色列國防軍一軍事基地當天約120名士兵“抗命”，將武器留在營地後集體離開。據以媒報道，該事件起因是以軍指揮官當天試圖移除營地內一些標語和標誌物，隨後與士兵發生衝突。不滿計程車兵隨後集體“擅離職守”，以抗議指揮官做法。以色列《國土報》報道說，被移除的標語和標誌物反映了老兵和年輕士兵之間“等級差異”，並被指“美化對新兵的欺凌行為”。以色列《新訊息報》網站稱，這些標語被用來“羞辱新兵”。（新華社）
-
----
-
-### 2026-07-31 06:51:47  #MKT News
-
-【Israeli media: About 120 soldiers at IDF base 'refuse orders' and leave camp】Channel 12 reported on the 30th that roughly 120 soldiers at an Israel Defense Forces base left the camp en masse, leaving their weapons behind, after a commander attempted to remove banners and insignia. Local outlets said the removed items reflected "hierarchical differences" and were accused of "glorifying" or "shaming" bullying of new recruits; soldiers reportedly departed in protest.
-
----
-
-### 2026-07-31 06:49:58  #其他
-
-市場訊息：微軟計劃提升 Xbox 業務利潤率，向競爭對手看齊。
-
----
-
-### 2026-07-31 06:47:49  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、上半年全社會用電量同比增長5.3% 三個視角看電力供需新變化
-2、世界最大高鐵盾構隧道水域段貫通
-3、何立峰與美國財政部長貝森特、貿易代表格里爾舉行視訊通話
-4、北京首部現代化產業體系規劃釋出
-5、我國成功發射通訊技術試驗衛星二十七號A/B星
-6、上海建設6G未來產業培育區，探索新一代通訊網應用場景 萬物智聯，加速照進現實（大資料觀察·“六張網”裡的新動能）
-7、織密通訊網路，築牢數智底座（專家點評）
-8、我國網路文學作品總量超3300萬部
-9、打造充滿活力的城市科創高地——武漢和深圳建設科創中心的調查與思考
-10、收到稅務提醒，網際網路平臺內經營者如何自查整改（服務窗）
-11、養老服務消費補貼惠及約200萬名中度以上失能老年人
-12、北京出臺快遞外賣非機動車管理新規 平臺演算法不得允許“超速配送”
-13、《國家應對氣候變化“十五五”規劃》印發 到2030年，單位國內生產總值二氧化碳排放較2025年降低17%
-14、當地每售出6輛新車就有1輛來自中國 中國品牌汽車持續走俏墨西哥市場（國際視點）
-15、德國推出一攬子改革措施提振經濟。
-
----
-
-### 2026-07-31 06:47:49  #MKT News
-
-Nikkei reports Samsung’s trading arm is partnering with Japanese renewables firm Erex to develop new energy projects aimed at meeting rising power demand from AI, targeting stable renewable power supplies for data centers by fiscal 2029.
-
----
-
-### 2026-07-31 06:47:42  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、中共中央政治局召開會議 決定召開二十屆五中全會 分析研究當前經濟形勢和經濟工作 中共中央總書記習近平主持會議
-2、就當前經濟形勢和下半年經濟工作 中共中央召開黨外人士座談會 習近平主持並發表重要講話 李強通報有關情況 王滬寧蔡奇丁薛祥出席
-3、向著建軍一百年奮鬥目標闊步前行——以習近平同志為核心的黨中央引領人民軍隊書寫強軍興軍新篇章
-4、黑龍江大慶賡續紅色基因、汲取奮進力量——紅色研學熱 轉型動能足（牢記初心使命 奮進復興征程）
-5、用好各種機遇和優勢（今日談）。
-
----
-
-### 2026-07-31 06:47:00  #公司 #市場
-
-【銀行補血利器遇阻，轉債轉股止步估值窪地】7月27日，浦發銀行釋出公告稱，國家金融監督管理總局已同意該行註冊資本增加至333.06億元。值得注意的是，浦發銀行此次股本變動是因浦發轉債轉股。該行於2019年發行面值總額500億元A股可轉債，截至到期日，累計轉股39.54億股。幾天前，紫銀轉債也到期摘牌，不同於浦發轉債，該債券未轉股比例99.98%，發行人最終以真金白銀完成兌付。可轉債曾被視為中小銀行的資本補充利器，今年以來銀行轉債發行市場低迷，存量可轉債規模萎縮，轉股比例不理想，部分銀行資本補充面臨挑戰。（中證報）
-
----
-
-### 2026-07-31 06:44:59  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Binance Rises by 3.53% — Top crypto gainers are Binance (3.53%), Bitcoin (1.51%) and Ether (1.07%).
-
----
-
-### 2026-07-31 06:43:44  #市場
-
-鈀金期貨日內漲1%，現報1321.89美元/盎司。
-
----
-
-### 2026-07-31 06:42:46  #資料 #市場 #央行 #國際
-
-【週五重要財經資訊提醒（以下均為北京時間）】
-① 07:30 日本6月失業率，7月東京CPI；
-② 07:50 日本6月工業產出初值，零售銷售；
-③ 09:30 中國7月官方製造業、非製造業、綜合PMI；
-④ 時間待定 日本央行公佈利率決議；
-⑤ 14:30 日本央行行長植田和男召開貨幣政策新聞釋出會；
-⑥ 14:45 法國7月CPI初值；
-⑦ 15:55 德國7月失業人數與失業率；
-⑧ 16:30 中國香港二季度GDP初值；
-⑨ 時間待定 國內成品油將開啟新一輪調價視窗。；
-⑩ 17:00 歐元區7月CP比初值；
-⑪ 美股盤前 雪佛龍、埃克森美孚等釋出業績報告；
-⑫ 19:15 英國央行首席經濟學家皮爾就最新的經濟預測及貨幣政策決定講話；
-⑬ 20:30 加拿大5月GDP；
-⑭ 21:45 美國7月芝加哥PMI；
-⑮ 22:00 美國7月密歇根大學消費者信心指數終值；
-⑯ 週六08:00 韓國7月出口；
-⑰ 週日時間待定 石油輸出國組織（OPEC）及其盟友開會。
-
----
-
-### 2026-07-31 06:41:55  #其他
-
-【個貸新規實施倒計時：中介炒作“視窗期”，機構加緊改造】《個人貸款業務明示綜合融資成本規定》將於8月1日起正式施行。隨著新規落地進入倒計時，信貸市場迎來雙向變化：一方面，這本應是推動行業息費透明化的標誌性節點，卻被部分助貸機構解讀為業務衝刺的“最後視窗期”，藉機大肆營銷攬客；另一方面，銀行等機構加緊推進系統迭代、合同修訂、息費公示等合規改造工作，積極適配新的監管要求。這場行業新舊規則切換的過渡期博弈，也預示著原有助貸市場模式即將迎來全面重塑。（中證報）
-
----
-
-### 2026-07-31 06:41:15  #國際
-
-【特朗普稱與哈馬斯及加沙其他武裝團體達成解除武裝協議】當地時間7月30日，美國總統特朗普表示，“和平委員會”當天達成一項“歷史性協議”，哈馬斯及加沙地帶其他所有武裝團體將全面解除武裝。
-特朗普稱，這項協議是落實其“加沙20點計劃”的重要里程碑。根據協議，加沙地帶將逐步由新的巴勒斯坦政府接管，該政府將與“和平委員會”合作，負責當地治理。加沙今後不得再被用作發動襲擊的基地，以色列也將獲得其所需的安全保障。
-協議將分階段實施。隨著解除武裝程序完成，以色列軍隊將逐步撤出；國際穩定部隊將與新組建的巴勒斯坦警察部隊合作，承擔維護加沙及周邊地區安全的責任。
-特朗普同時感謝埃及、卡達和土耳其為推動協議所作的斡旋，並稱儘管已取得重大進展，後續仍有大量工作需要完成。（央視新聞）
-
----
-
-### 2026-07-31 06:40:19  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Rice Gains by 1.89% — Top commodity gainers are Rice (1.89%) and Cotton (1.49%). Biggest losers are Rubber (-1.66%), Lumber (-1.42%) and Cocoa (-1.29%).
-
----
-
-### 2026-07-31 06:38:57  #MKT News #USDJPY
-
-USD/JPY briefly fell just over 10 pips to 159.54.
-
----
-
-### 2026-07-31 06:38:30  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish #Nasdaq100 #S&P500
-
-【Microsoft market value jumps $450 bln in biggest one-day US stock gain; shares up 15.5% after earnings】Microsoft (MSFT.O) closed up 15.5% on Thursday, its fourth-largest single-day percentage gain, after investors welcomed stronger-than-expected earnings. Data analysis shows the rally added roughly $450 bln to Microsoft’s market capitalization, exceeding NVIDIA’s $440 bln one-day gain on April 9, 2025, and marking the largest single-day market-cap increase for a U.S. stock. The move narrowed Microsoft’s year-to-date decline from about 19.3% at Wednesday’s close to 5.8% and interrupted recent weakness in AI-related names.
-
----
-
-### 2026-07-31 06:38:03  #Trading Economics #Economy #New Zealand #ANZ Roy Morgan Consumer Confidence Index #Importance 1
-
-New Zealand Consumer Mood Rises to 5-Month High — The ANZ-Roy Morgan Consumer Confidence Index increased by 8 points to 99.3 in July 2026, marking the highest level since February, though it remained 19 points below its January peak. The share of households seeing it as a good time to buy a major household item, a key retail indicator, climbed 4 points to -7. Two-year inflation expectations were unchanged at 4.6%, while house price expectations dropped to 2.6% from 3.0%.
-
----
-
-### 2026-07-31 06:37:57  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-U.S. Treasury Secretary Bessent said the yen has diverged significantly from its equilibrium value and is severely undervalued, and he is not concerned about the yen strengthening again against the dollar, noting the currency is very cheap and Japan's economy is performing well.
-
----
-
-### 2026-07-31 06:36:15  #國際
-
-美國財長貝森特：日元明顯偏離均衡價格。
-
----
-
-### 2026-07-31 06:35:19  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Rises by 3.61% — Top commodity gainers are Platinum (3.61%), Copper (3.07%), Silver (2.42%) and Gold (1.03%). Biggest losers are Iron Ore CNY (-3.25%), Steel Rebar (-1.12%) and Titanium (-1.09%).
-
----
-
-### 2026-07-31 06:34:43  #市場 #焦點 #國際
-
-美國財長貝森特談日本：貨幣非常便宜，經濟形勢良好。不擔心日元兌美元走強。
-
----
-
-### 2026-07-31 06:33:31  #宏觀 #公司
-
-【中證報：增韌性強信心，資本市場著力深化投融資綜合改革】7月30日召開的中共中央政治局會議強調，深化資本市場投融資綜合改革，提升資本市場韌性和信心。當日，多位業內人士表示，這一部署為下階段資本市場高質量發展指明瞭方向。未來應聚焦資產端提質、資金端引流、政策端最佳化主線，加快構建“制度可預期、風險可管控、回報可持續”的高質量發展新格局。長期看，隨著投融資兩端協同發力、全鏈條監管提質、長錢入市體系持續完善，資本市場有望形成上市公司提質、機構長期佈局、市場穩健執行的正向迴圈，為科技創新、產業升級提供堅實資本支撐。
-
----
-
-### 2026-07-31 06:32:36  #MKT News
-
-【Trump announces Hamas has agreed to full disarmament; Israel to withdraw】President Trump said a peace committee reached an agreement for the complete disarmament of Hamas and all armed groups in Gaza. The deal foresees Gaza governed by a new Palestinian government working with the peace committee and provides Israel with security guarantees, including that Gaza will no longer be used as a base for terrorist attacks. Implementation will be phased; once disarmament is complete Israeli forces will withdraw and an international stabilization force will cooperate with a new Palestinian police to secure Gaza for residents and neighboring states. Trump described the accord as a milestone in his 20-point plan and said further work remains.
-
----
-
-### 2026-07-31 06:32:11  #公司 #市場 #國際
-
-【蘋果第三季度財報五大要點總結】
-1、蘋果盤後股價大跌超 6%。投資者擔憂兩大問題：大中華區市場需求走弱、服務業務營收顯著低於預期。蘋果將業績壓力歸因於匯率逆風，以及應用商店商業模式遭遇監管調整帶來的衝擊。
-2、候任 CEO 約翰・特努斯被問及行業競爭形勢，但基本回避正面回應，僅表示公司正在推進多款新產品研發。
-3、即將卸任的 CEO 蒂姆・庫克稱，蘋果正在評估各類方案緩解記憶體供應緊張問題，但預判相關成本仍會持續上漲。公司預計第四財季營收增速介於 9%–11%，低於市場一致預期 12%。
-4、庫克發表任職 CEO 的收官感言，向投資者與分析師致謝。有分析師提到：庫克剛接任執行長時，蘋果全年營收規模，僅等同於蘋果當下一個季度的營收。
-5、Mac、iPad、iPhone 目前面臨嚴重供應瓶頸，短缺狀況還將延續。庫克素來被譽為供應鏈管理大師，這場收官財報電話會議整體表現不及預期。
-
----
-
-### 2026-07-31 06:30:41  #公司
-
-【A股又一批公司推出回購增持計劃】上市公司增持回購熱潮仍在延續。7月30日晚，多家A股公司披露回購及重要股東增持計劃。從回購規模看：三環集團以最高10億元的回購上限領跑；東陽光則擬推出“回購+增持”合計上限達12億元的組合拳，彰顯對公司長期發展的堅定信心。在本輪增持回購潮中，細分產業龍頭公司行動快、力度大。在業內看來，行業龍頭公司的回購行為有望起到標杆和引領作用，帶動更多的上市公司加入回購增持隊伍。（上證報）
-
----
-
-### 2026-07-31 06:30:18  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Gasoline Falls by 4.37% — Top commodity losers are Gasoline (-4.37%), Heating Oil (-3.93%), Germany Natural Gas THE (-3.68%), Brent Crude Oil (-1.58%) and Crude Oil WTI (-0.40%). Gains are led by Natural gas (0.88%).
-
----
-
-### 2026-07-31 06:28:35  #國際
-
-【特朗普：和平委員會就哈馬斯問題達成歷史性協議】美國總統特朗普在社交媒體“真相社交”發文稱， 和平委員會達成一項歷史性協議，要求哈馬斯以及加沙地帶所有其他武裝組織全面解除武裝。這是邁向持久和平與安全具有里程碑意義的一步。
-該協議是關鍵進展，加沙將最終交由全新巴勒斯坦政府治理；新政府將與和平委員會密切協作，造福巴勒斯坦民眾。與此同時，以色列將獲得應有的安全保障，加沙不再被用作發動恐怖襲擊的基地。
-這是落實特朗普二十點方案的重大里程碑。協議將按照周密規劃的階段逐步推進。待解除武裝工作完成後，以色列軍隊將會撤離；國際穩定部隊將與全新的巴勒斯坦警察隊伍協同履職，保障加沙本地居民及周邊地區的安全。
-我們已經取得歷史性進展，但前路仍有大量工作待完成。感謝埃及、卡達、土耳其等斡旋方付出的重要努力，尤其感謝我方優秀團隊，正是他們堅持不懈的工作促成了這次歷史性突破。
-依據這份協議，加沙最終將交由為民服務的新一屆巴勒斯坦政府掌控。
-
----
-
-### 2026-07-31 06:26:07  #焦點 #國際
-
-特朗普：和平委員會就哈馬斯問題達成歷史性協議。
-
----
-
-### 2026-07-31 06:25:59  #MKT News #Important
-
-TRUMP said the Peace Committee has reached a historic agreement to fully disarm Hamas and all other armed groups in Gaza.
-
----
-
-### 2026-07-31 06:24:02  #公司
-
-【電力產業鏈公司半年報亮相，水電企業收穫豐水紅利】7月30日晚，桂冠電力、金盃電工等電力、電力裝置上市公司釋出2026年半年報。隨著半年報披露進入密集期，清晰的電力產業鏈圖景浮現：上游水電站因流域來水豐沛而利潤增厚，中游裝置製造商受益於新型電力系統建設產銷兩旺，部分依賴傳統火電或區域性佈局的發電企業則在電力市場化改革中感受著陣痛。（上證報）
-
----
-
-### 2026-07-31 06:21:08  #其他
-
-【震盪中顯韌性，CTA策略私募業績“領跑”】7月以來，市場波動加劇，量化策略私募產品業績承壓。但從細分策略來看，CTA（商品交易顧問）策略表現出較強韌性。據私募排排網資料，截至7月24日，量化私募年內收益不足1%，同期量化CTA策略私募產品平均收益接近6%，而且從7月業績表現來看，量化CTA策略表現更為穩健。私募排排網資料顯示，截至7月24日，7月以來量化私募產品的平均回撤為9.52%，正收益佔比僅17.35%，而同期量化CTA平均回撤僅為1.8%，正收益佔比達到38.68%。（上證報）
-
----
-
-### 2026-07-31 06:18:17  #公司
-
-【聚焦優質龍頭公司，長線資金持倉路線圖浮現】Choice資料顯示，在截至7月30日已披露2026年半年報的A股公司中，有26家公司的前十大流通股股東名單中，出現了社保基金、QFI等的身影。從二季度長線資金加倉的公司看，它們大多為行業龍頭，業績表現搶眼。站在當前時點，多家外資公募看好權益類資產配置價值，強調關注上市公司基本面。（上證報）
-
----
-
-### 2026-07-31 06:16:24  #其他
-
-滙豐計劃向黑石出售 360 億澳元澳大利亞住房與個人貸款資產包。
-
----
-
-### 2026-07-31 06:15:18  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Japanese Yen Appreciates by 2.29% — Top currency gainers are Japanese Yen (2.29%), New Zealand Dollar (1.45%), South Korean Won (1.44%), British Pound (0.71%) and Euro (0.52%). Biggest loser is Dollar Index (-0.89%).
-
----
-
-### 2026-07-31 06:12:41  #公司 #市場
-
-【今年以來公募獲配定增超過380億元，依賴折價獲利的空間正在壓縮】公募排排網資料顯示，按增發上市日統計，截至7月28日，今年以來共有24家公募機構參與75家公司股票定增，合計獲配金額380.05億元，較2025年同期的139億元增長173.42%。按7月28日收盤價計算，參與定增的公募機構目前平均浮盈比例達到15.9%，其中超過半數的機構獲得正收益。雖然整體收益情況較好，但今年以來公募機構定增收益已經出現明顯分化。公募排排網資料顯示，在上述75單專案中，公募在26單上實現浮盈，其中12單浮盈比例超過10%。部分科技製造領域專案表現突出，部分專案收益表現相對有限。業內人士表示，定增收益分化反映了市場環境的變化。過去，定增投資的重要收益來源之一是發行折價帶來的安全墊，但隨著市場參與者增多、優質專案競爭加劇，折價空間正在逐步收窄。（上證報）
-
----
-
-### 2026-07-31 06:05:52  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #Nasdaq100 #Impact bullish #AMZN.O
-
-Nasdaq futures rose 0.5% in early Friday trade, buoyed by after-hours gains in Amazon (AMZN.O).
-
----
-
-### 2026-07-31 06:05:11  #央行 #國際
-
-【美聯儲9月維持利率不變的機率36.6%】據CME“美聯儲觀察”：美聯儲9月維持利率不變的機率為36.6%，累計加息25個基點的機率為63.4%。 美聯儲到10月維持利率不變的機率為26.9%，累計加息25個基點的機率為56.3%，累計加息50個基點的機率為16.9%。
-
----
-
-### 2026-07-31 06:01:12  #MKT News
-
-【Japan Self-Defense Forces conduct first Pacific test-fire of U.S. Tomahawk cruise missile】Japan Defence Ministry said the Self-Defense Forces recently conducted a test-fire of a U.S. Tomahawk cruise missile in the Pacific, the first such launch.
-
----
-
-### 2026-07-31 06:01:09  #國際
-
-【日本自衛隊在太平洋首次試射“戰斧”導彈】據日本防衛省訊息，日本自衛隊日前在太平洋首次進行美國“戰斧”巡航導彈試射。（新華社）
-
----
-
-### 2026-07-31 06:00:57  #市場 #焦點
-
-WTI原油突破84美元/桶，日內漲0.49%。
-
----
-
-### 2026-07-31 05:56:04  #其他
-
-淡水河谷第二季度淨營收 105 億美元，第二季度淨利潤 14 億美元。
-
----
-
-### 2026-07-31 05:53:47  #其他
-
-淡水河谷預計 2026 年鎳完全成本區間為 0–500 美元 / 噸，此前預測區間為 1000–1500 美元 / 噸。
-
----
-
-### 2026-07-31 05:53:06  #其他
-
-淡水河谷：預計 2026 年銅產量介於 36 萬至 38 萬噸，此前預期為 35 萬至 38 萬噸。預計 2026 年鎳產量區間為 18.5 萬–20 萬噸，此前預期為 17.5 萬–20 萬噸。
-
----
-
-### 2026-07-31 05:53:04  #MKT News #Commodities #Industrial Metals #VALE.N #Impact bullish
-
-Vale (VALE.N) expects 2026 nickel production of 185,000–200,000 tonnes, revised up from prior guidance of 175,000–200,000 tonnes.
-
----
-
-### 2026-07-31 05:53:03  #MKT News
-
-Vale (VALE.N) now expects 2026 copper production of 360,000–380,000 tonnes, up from a prior forecast of 350,000–380,000 tonnes.
-
----
-
-### 2026-07-31 05:52:07  #宏觀 #國際
-
-美國財政部貝森特：在我看來，日元 “估值明顯偏低”。
-
----
-
-### 2026-07-31 05:51:40  #MKT News #Important #USDJPY #Impact bearish
-
-U.S. Treasury Secretary Bessent said the yen appears to be significantly undervalued.
 
 ---
