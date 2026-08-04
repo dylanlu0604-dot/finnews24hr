@@ -1,7 +1,68 @@
 {
   "date": "2026-08-04",
-  "count": 2978,
+  "count": 2984,
   "items": [
+    {
+      "id": "5025154",
+      "time": "2026-08-04 23:54:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【伊朗高官：美試圖阻撓伊朗阿曼就霍爾木茲海峽談判 】伊朗新聞電視臺4日援引一名伊朗高階官員的話報道說，美國政府試圖阻撓伊朗與阿曼之間關於霍爾木茲海峽管理的持續談判。報道說，儘管遭美方阻撓，伊朗與阿曼有關霍爾木茲海峽的談判已進入“新階段”。美國國務卿魯比奧4日在美國國務院對媒體說，眼下最緊迫、最受關注的問題就是霍爾木茲海峽問題，美方正參與阿曼和伊朗之間的相關對話和談判，討論如何在短期內能讓更多船隻安全透過該海峽。（新華社）"
+    },
+    {
+      "id": "5025153",
+      "time": "2026-08-04 23:54:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大自美國進口額創新高 受資料中心建設推動】加拿大6月自美國進口額創紀錄新高，受資料中心所用計算機零部件進口激增推動。當前，加拿大正尋求擴大人工智慧基礎設施。加拿大統計局週二公佈，電子及電氣裝置和零部件進口量增加，帶動加拿大進口總額上升儘管11個產品類別中有9個類別的進口下降。6月計算機及外圍裝置進口增長59%，主要是因為從美國進口的資料中心用處理器增加。這推動加拿大自美國進口額升至紀錄高點426.3億加元（303億美元），推動加拿大對美國的貿易順差從前一個月的111億加元收窄至100億加元。"
+    },
+    {
+      "id": "te:economy:572652",
+      "time": "2026-08-04 23:53:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Global Dairy Trade Price Index",
+        "Importance 1"
+      ],
+      "text": "Global Dairy Trade Index Extends Gains — The Global Dairy Trade Price Index edged up 0.1% in the two weeks ended August 4, extending the previous auction's 1.5% increase, according to GlobalDairyTrade. Prices rose for lactose (+4.1%), cheddar (+3.8%), skim milk powder (+1.2%), mozzarella (+1.0%), and whole milk powder (+0.2%). These gains were partly offset by declines in buttermilk powder (-2.8%), butter (-2.3%), and anhydrous milk fat (-0.8%)."
+    },
+    {
+      "id": "te:markets:572651",
+      "time": "2026-08-04 23:53:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "AbbVie Stock Price Hits 5-week Low — AbbVie shares decreased to 243.00 USD, the lowest since June 2026. Over the past 4 weeks, AbbVie lost 4.53%, and in the last 12 months, it increased 22.5%."
+    },
+    {
+      "id": "mkt:019fcd7a-fa84-7aab-8f73-e226c7c5b1a0",
+      "time": "2026-08-04 23:53:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese presidency said Israel did not provide a response today to Lebanon regarding a ceasefire commitment."
+    },
+    {
+      "id": "mkt:019fcd79-ff85-7aab-8f73-deb4d05e0b46",
+      "time": "2026-08-04 23:52:32",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "EURUSD"
+      ],
+      "text": "Stoxx Europe 600 rose 0.7%, closing at its highest level since July 3."
+    },
     {
       "id": "mkt:019fcd78-cc8b-7aab-8f73-d471931835e1",
       "time": "2026-08-04 23:51:13",
