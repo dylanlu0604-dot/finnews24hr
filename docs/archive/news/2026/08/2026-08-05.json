@@ -1,7 +1,290 @@
 {
   "date": "2026-08-05",
-  "count": 196,
+  "count": 225,
   "items": [
+    {
+      "id": "5025277",
+      "time": "2026-08-05 04:08:15",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SpaceX：第二季度末現金、現金等價物及有價證券總額達到1000億美元。"
+    },
+    {
+      "id": "5025276",
+      "time": "2026-08-05 04:07:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：第二季度人工智慧板塊資本支出為158.28億美元。"
+    },
+    {
+      "id": "5025275",
+      "time": "2026-08-05 04:07:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX第二季度末積壓訂單規模為475億美元。"
+    },
+    {
+      "id": "te:markets:572673",
+      "time": "2026-08-05 04:07:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Amgen earnings above expectations at 6.29 USD — Amgen (AMGN) released earnings per share at 6.29 USD, compared to market expectations of 5.59 USD."
+    },
+    {
+      "id": "5025274",
+      "time": "2026-08-05 04:07:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX第二季度研發費用35.5億美元，市場預期43.9億美元。"
+    },
+    {
+      "id": "5025273",
+      "time": "2026-08-05 04:06:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SpaceX釋出季度財報後，盤後交易股價上漲2%。"
+    },
+    {
+      "id": "te:markets:572672",
+      "time": "2026-08-05 04:05:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "SpaceX earnings in line with market expectations at -0.09 USD — SpaceX (SPCX) released earnings per share at -0.09 USD."
+    },
+    {
+      "id": "mkt:019fce61-b1d1-7aab-8f76-ac0c79bf9cfe",
+      "time": "2026-08-05 04:05:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International crude falls sharply on 4th; WTI $75.77, Brent $79.36】At the close on the 4th, NYMEX September WTI fell $4.57 to $75.77 a barrel, down 5.69%. ICE October Brent fell $4.41 to $79.36 a barrel, down 5.26%."
+    },
+    {
+      "id": "mkt:019fce61-9358-7aab-8f76-a16e335b0e37",
+      "time": "2026-08-05 04:05:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Aug 4 (Tue) close: Dow Jones +907.53 pts (+1.71%) to 54,085.94; S&P 500 +136.02 pts (+1.79%) to 7,736.52; Nasdaq Composite +671.10 pts (+2.59%) to 26,584.99."
+    },
+    {
+      "id": "mkt:019fce60-dec0-7aab-8f76-9dbef16da503",
+      "time": "2026-08-05 04:04:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX (SPCX.O) reported Q2 capex of $18.369 bln and a net loss of $541 mln."
+    },
+    {
+      "id": "mkt:019fce60-413b-7aab-8f76-93f1c6ed9021",
+      "time": "2026-08-05 04:04:02",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "SpaceX (SPCX.O) U.S. shares rose more than 1% in after-hours trading."
+    },
+    {
+      "id": "5025272",
+      "time": "2026-08-05 04:03:40",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SpaceX：第二季度AI業務板塊經營虧損12.6億美元，市場預期虧損23.9億美元。"
+    },
+    {
+      "id": "te:markets:572671",
+      "time": "2026-08-05 04:03:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Booking Holdings earnings above expectations at 2.54 USD — Booking Holdings (BKNG) released earnings per share at 2.54 USD, compared to market expectations of 2.44 USD."
+    },
+    {
+      "id": "5025271",
+      "time": "2026-08-05 04:03:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙預計到2026年底實現年執行率成本節約達27億美元，高於此前目標的25億美元。"
+    },
+    {
+      "id": "mkt:019fce5f-47c6-7aab-8f76-8e40b3f3b186",
+      "time": "2026-08-05 04:02:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "SpaceX (SPCX.O) reported Q2 2026 revenue of $7.8 bln, versus market expectation of $6.934 bln."
+    },
+    {
+      "id": "5025270",
+      "time": "2026-08-05 04:02:28",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SpaceX：二季度營收78億美元，市場預期68.1億美元。"
+    },
+    {
+      "id": "5025269",
+      "time": "2026-08-05 04:01:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數6月以來首次收於紀錄高點。"
+    },
+    {
+      "id": "5025268",
+      "time": "2026-08-05 04:01:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價4日大幅下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌4.57美元，收於每桶75.77美元，跌幅為5.69%；10月交貨的倫敦布倫特原油期貨價格下跌4.41美元，收於每桶79.36美元，跌幅為5.26%。"
+    },
+    {
+      "id": "mkt:019fce5d-a86f-7aab-8f76-8516ca896e3f",
+      "time": "2026-08-05 04:01:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bullish",
+        "NVDA.O",
+        "MU.O"
+      ],
+      "text": "【US close: Dow, S&P 500 hit record highs; SK Hynix up 8%】U.S. stocks closed higher Tuesday: Dow Jones prelim. +1.70% and S&P 500 +1.73%, both at record highs; Nasdaq +2.59%. SK Hynix (SKHY.O) +8.0%, Micron Technology (MU.O) +7.6%, SanDisk (SNDK.O) +10.8%, NVIDIA (NVDA.O) just over +2%, SpaceX (SPCX.O) +9.4%. Nasdaq Golden Dragon China Index -0.35%; Alibaba (BABA.N) +1.0%."
+    },
+    {
+      "id": "5025267",
+      "time": "2026-08-05 04:00:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲1.71%，標普500指數漲1.79%，納指漲2.60%。Palantir Technologies漲29.45%，斑馬技術漲26.62%，加特納漲23.05%，Arm Holdings Plc漲17.39%，邁威爾科技漲12.79%，Coherent Corp漲12.36%。“七姐妹”方面：英偉達漲2.58%，蘋果漲1.96%，特斯拉漲1.63%，微軟漲1.05%，谷歌漲0.77%，Meta Platforms跌0.39%，亞馬遜跌2.34%。"
+    },
+    {
+      "id": "5025266",
+      "time": "2026-08-05 04:00:46",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "SpaceX股價在財報釋出前收盤上漲9.4%。"
+    },
+    {
+      "id": "5025265",
+      "time": "2026-08-05 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.22%】逸仙電商跌8.87%，盛豐物流跌6.74%，叮咚買菜跌5.65%，優品車跌5.18%，新東方跌4.82%。"
+    },
+    {
+      "id": "5025264",
+      "time": "2026-08-05 03:59:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Gemini課堂版K‑12及以上版本將於8月10日開始推出。"
+    },
+    {
+      "id": "5025263",
+      "time": "2026-08-05 03:57:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國民警衛隊在華盛頓特區部署延至2029年1月】美國國防部表示，國民警衛隊在華盛頓特區的部署延長至2029年1月，預計將在2027至2029財年耗資約14億美元。"
+    },
+    {
+      "id": "5025262",
+      "time": "2026-08-05 03:55:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以總理稱哈馬斯徹底解除武裝前不會從加沙撤軍】以色列總理內塔尼亞胡表示，其明確拒絕了美方提出的加沙解除武裝路線圖草案，並強調在巴勒斯坦伊斯蘭抵抗運動（哈馬斯）徹底解除武裝之前，以色列軍隊不會撤出當前防線。他表示，其正指示以軍士兵採取一切必要措施，以保護自身以及以色列的安全。"
+    },
+    {
+      "id": "5025261",
+      "time": "2026-08-05 03:54:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧與巴拉圭簽署一份重要核問題備忘錄。"
+    },
+    {
+      "id": "mkt:019fce51-f4ec-7aab-8f76-79fa3fea89d1",
+      "time": "2026-08-05 03:48:25",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Netanyahu: No Israeli withdrawal from Gaza until Hamas fully disarmed】Israeli Prime Minister Netanyahu said Israeli forces will not withdraw from their current Gaza front lines until Hamas is fully disarmed. He said Trump and his team believe Hamas can be fully disarmed and Gaza demilitarized and that Israel is studying the proposal. Netanyahu said Israel rejected a draft sent by the U.S. team and submitted its own response before the matter was reported in the media."
+    },
+    {
+      "id": "5025260",
+      "time": "2026-08-05 03:46:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：以色列軍隊“不會撤出加沙當前戰線”。"
+    },
+    {
+      "id": "5025259",
+      "time": "2026-08-05 03:44:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美方稱已迫使45艘商船改變航線】美軍中央司令部當地時間8月4日表示，美軍繼續嚴格執行對伊朗的海上封鎖。截至8月4日，美軍已迫使45艘商船改變航線，令2艘船隻喪失航行能力，並對2艘船隻進行了登船檢查。"
+    },
     {
       "id": "5025258",
       "time": "2026-08-05 03:37:40",
