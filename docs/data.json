@@ -1,7 +1,65 @@
 {
-  "updated": "2026-08-04 23:48:09",
-  "count": 17819,
+  "updated": "2026-08-04 23:52:04",
+  "count": 17821,
   "items": [
+    {
+      "id": "mkt:019fcd78-cc8b-7aab-8f73-d471931835e1",
+      "time": "2026-08-04 23:51:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Marathon Oil (MRO.N) expects more Venezuelan crude to enter the US market, which it says will pressure Western Canadian Select prices."
+    },
+    {
+      "id": "5025152",
+      "time": "2026-08-04 23:50:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門政府軍說救起紅海遇襲沉沒貨船上14名船員 】葉門政府軍4日表示，一艘貨船在葉門西部紅海海域被載有爆炸物的船隻襲擊後沉沒，船上14名船員均由政府軍救援。葉門政府下屬的“國家抵抗力量”當天發表宣告說，海岸警衛隊和海軍部隊聯合開展救援行動，在葉門胡塞武裝控制的荷臺達港以南約13海里處，成功救起遭襲貨船“FAIZE NOORE OLIYA”號上的全部船員。（新華社）"
+    },
+    {
+      "id": "5025151",
+      "time": "2026-08-04 23:49:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "光通訊概念股普遍上漲，其中，光模組與光器件供應商Lumentum漲超10.5%，高意公司/相干公司Coherent重新漲超14%，Applied Optoelectronics漲超20%，Fabrinet漲幅重新擴大至約16%。\n光通訊晶片供應商博通漲超5.2%，邁威爾科技/美滿電子漲約13%，MACOM Technology一度漲超6%，Credo Technology Group重新漲超7%。\n網路裝置與系統供應商思科漲幅重新擴大至4%，Ciena漲幅重新擴大至6.4%。\n光纖纜線與基礎連線供應商康寧公司Corning漲幅重新擴大至6.7%。"
+    },
+    {
+      "id": "5025150",
+      "time": "2026-08-04 23:48:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【費城半導體指數漲幅擴大至6%】費城半導體指數漲幅擴大至6%，報12117.6點。閃迪漲幅擴大至10.8%，英特爾漲超9%，美光科技、AMD漲超7%，高通漲超6%。"
+    },
+    {
+      "id": "mkt:019fcd75-c93e-7aab-8f73-cdb19f60f4fe",
+      "time": "2026-08-04 23:47:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) extends gains to 10%; Philadelphia Semiconductor Index up 6.2%."
+    },
+    {
+      "id": "5025149",
+      "time": "2026-08-04 23:47:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：伊朗考慮允許歐洲在霍爾木茲海峽開展排雷作業】據媒體報道稱伊朗正考慮允許歐洲國家清除霍爾木茲海峽的水雷。此次立場的可能退讓或將成為協議一環，推動該水道航運恢復正常，併為美伊和平談判創造有利條件。\n公開場合，伊朗一再表態，不會允許外國參與這處關鍵航運通道的排雷工作。但多名外交訊息人士透露，在最近數週的閉門會晤中，德黑蘭的態度已經有所軟化。訊息人士稱，歐洲排雷任務落地有兩大前提：伊朗為參與行動的海軍艦艇作出安全承諾，且停火能夠維持；該計劃也並無落地保證。同時行動還必須獲得伊朗實權武裝力量伊斯蘭革命衛隊的同意，正是這支部隊主導了針對海峽過往商船的襲擊。\n一名訊息人士透露，伊朗領導層內部仍存在分歧。伊斯蘭革命衛隊部分成員堅持，應當由伊朗本國、而非他國負責海峽水雷的清除工作。"
+    },
     {
       "id": "mkt:019fcd74-d166-7aab-8f73-c40faf0ee155",
       "time": "2026-08-04 23:46:52",
@@ -14,6 +72,15 @@
         "Impact bearish"
       ],
       "text": "Markets no longer price in a 25bp Bank of England rate hike this year."
+    },
+    {
+      "id": "em:qqyh_ygyh:202608043831549581",
+      "time": "2026-08-04 23:46:46",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "交易員不再押注英國央行今年加息25個基點。"
     },
     {
       "id": "mkt:019fcd74-0896-7aab-8f73-bd2301daf4ec",
@@ -164899,54 +164966,6 @@
         "Importance 1"
       ],
       "text": "US Dollar Eases from 15-Month High — The dollar index softened to 101.3 on Tuesday after testing a 15-month high of 101.6 in the previous session as softer energy prices limited the outlook of a rate hike by the Federal Reserve this year. US officials stressed that a diplomatic resolution may still be achieved with Iran in their war, driving fuel prices to ease off their local peaks and trimming the risk of a rebound in energy inflation. Still, fuel prices remained elevated in a historical level as exports from the Middle East are still low. A portion of FOMC members had recently signaled that higher inflation and evidence of a robust labor market could warrant higher rates. The Federal Reserve is expected to hold its policy rates unchanged tomorrow, but rate futures continued reflect the consensus of a hike this year. The greenback held recent gains against the euro and the yen, although political volatility in the UK maintained the sterling's recent appreciation."
-    },
-    {
-      "id": "5012839",
-      "time": "2026-07-28 23:51:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡與特朗普會晤期間，大批特朗普幕僚在場，包括副總統萬斯、國務卿魯比奧、防長赫格塞思、中情局局長拉特克利夫以及特使威特科夫。"
-    },
-    {
-      "id": "5012838",
-      "time": "2026-07-28 23:51:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中際旭創：預計下半年原材料會有階段性改善 出貨量也會有明顯增加】中際旭創釋出投資者關係活動記錄表公告，針對光晶片、電晶片、PCB和無源器件等原材料，公司均有部署採購計劃。基於強勁的下游行業需求，公司正在積極備料。一方面和現有供應商簽訂長協，鎖定新增產能；另一方面開拓新的供應商，同時透過預付款、股權投資等方式，加強供應商的繫結。供應商也願意積極擴產，預計今年下半年物料就會有階段性的改善，出貨量也會有明顯的增加。"
-    },
-    {
-      "id": "te:markets:570476",
-      "time": "2026-07-28 23:49:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Rises to 5-Month High — The FTSE 100 advanced 0.9% on Monday, rising above 10,800 to its highest level since the record close on February 27, supported by strong performances from consumer goods and healthcare stocks. Unilever shares surged more than 8% after the company reported better-than-expected results, driven by solid growth in the US and emerging markets, and raised its 2026 outlook. GSK also gained around 4% after delivering an earnings beat, announcing cost-cutting measures and plans to reinvest savings into drug research, while maintaining that operating profit growth should reach the upper end of its guidance. In contrast, Barclays shares dropped nearly 6% despite reporting strong second-quarter investment banking results, upgrading its annual income target, and announcing a £1 billion share buyback. Investors compared the performance unfavourably with stronger results from US banks. Meanwhile, oil majors Shell and BP declined more than 1% each as crude prices continued to weaken."
-    },
-    {
-      "id": "te:markets:570475",
-      "time": "2026-07-28 23:49:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Rises on Strong Corporate Earnings — The CAC 40 rose 0.6% to close at 8,459 on Tuesday as investors welcomed a fresh batch of corporate earnings. LVMH gained 1% after reporting stronger-than-expected first-half revenue and earnings and an acceleration in second-quarter sales growth. The upbeat results lifted the luxury sector, with L'Oréal up 2.4%, Hermès rising 2.3%, and Kering adding 2.9%. Safran advanced 2.3% after raising its full-year guidance on stronger-than-expected first-half results, while Orange surged 5.3% after posting solid first-half earnings and upgrading its outlook. In contrast, Michelin fell 1.5% after reporting revenue and net profit below expectations. On the macro front, French consumer confidence improved to 86 in July, the highest level in four months, up from 84 in June, though it remained below the long-term average of 100. Air Liquide, Essilor, Kering, Orange, and Safran are due to report earnings on Wednesday."
-    },
-    {
-      "id": "5012837",
-      "time": "2026-07-28 23:48:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱打死傑哈德“努赫巴”部隊一名指揮官】以色列國防軍28日發表宣告說，以軍27日打死一名巴勒斯坦伊斯蘭聖戰組織（傑哈德）“努赫巴”部隊指揮官。（新華社）"
     }
   ]
 }
