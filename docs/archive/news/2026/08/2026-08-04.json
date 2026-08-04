@@ -1,7 +1,46 @@
 {
   "date": "2026-08-04",
-  "count": 486,
+  "count": 490,
   "items": [
+    {
+      "id": "te:markets:572300",
+      "time": "2026-08-04 08:11:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "WuXi AppTec earnings above expectations at 2.18 CNY — WuXi AppTec (603259) released earnings per share at 2.18 CNY, compared to market expectations of 1.59 CNY."
+    },
+    {
+      "id": "mkt:019fca1c-4383-7aab-8f60-57d97b0a6412",
+      "time": "2026-08-04 08:11:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Australia's S&P/ASX 200 index opened up 19.10 points, or 0.21%, at 9,038.40 on Tuesday, Aug 4."
+    },
+    {
+      "id": "5023349",
+      "time": "2026-08-04 08:10:31",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：PDRN產業鏈有望迎來較大發展 看好領先佈局PDRN醫美產品的企業】中信證券表示，成分創新為護膚品及醫美賽道增長的重要驅動力，繼玻尿酸及膠原蛋白之後，行業亟待爆款原料引領。我們認為PDRN具備爆款潛力：①功效原理充分論證，②已形成較強的消費者認知基礎，③具海外長期醫美及護膚品應用驗證及消費者認可。"
+    },
+    {
+      "id": "5023348",
+      "time": "2026-08-04 08:09:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4120美元/盎司，日內漲0.73%。"
+    },
     {
       "id": "5023347",
       "time": "2026-08-04 08:08:23",
