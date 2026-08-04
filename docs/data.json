@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-04 10:04:35",
-  "count": 17867,
+  "updated": "2026-08-04 10:08:25",
+  "count": 17862,
   "items": [
+    {
+      "id": "mkt:019fca86-fa03-7aab-8f62-3e82dd3df860",
+      "time": "2026-08-04 10:07:51",
+      "tags": [
+        "MKT News",
+        "TSM.O"
+      ],
+      "text": "TSMC said it will donate JPY250 million to Kumamoto earthquake relief and recovery efforts."
+    },
+    {
+      "id": "te:markets:572333",
+      "time": "2026-08-04 10:06:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Snap Six-Day Winning Streak — The Hang Seng Index fell 0.5%, or 123 points, to 25,885 on Tuesday, snapping a six consecutive sessions of gains, as investors took profits and sentiment weakened during the session. Initial optimism over Beijing's latest measures to strengthen Hong Kong's role as an international financial hub, including expanding yuan-denominated investment products and cross-border market access, faded as selling emerged in heavyweight technology and financial stocks. The benchmark's decline also reflected lingering caution over China's economic outlook and corporate earnings, prompting investors to lock in gains after the early rally. Moreover, investors remained cautious ahead of China's trade figures due later this week. Notable losers included Tencent (-0.7%), Xiaomi (-1.3%), GoFintech Quantum Innovation (-7.7%), Geely Automobile (3.1%), and AIA (-0.5%)."
+    },
+    {
+      "id": "5023518",
+      "time": "2026-08-04 10:06:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AI語料板塊短線拉昇，貝瑞基因漲停】AI語料板塊短線拉昇，貝瑞基因漲停，普聯軟體、值得買、拓爾思、崑崙萬維、當虹科技等紛紛走高。"
+    },
     {
       "id": "5023517",
       "time": "2026-08-04 10:04:02",
@@ -165473,76 +165502,6 @@
         "國際"
       ],
       "text": "【美國聯邦航空管理局要求檢查部分美國註冊737 MAX客機座椅安裝問題】美國聯邦航空管理局（FAA）當地時間7月27日表示，部分美國註冊波音737 MAX飛機可能存在座椅安裝不當問題，要求相關飛機接受檢查。FAA稱，若座椅元件未正確固定，在緊急降落或劇烈顛簸情況下可能發生移動，造成乘客受傷或阻礙緊急撤離。此次適航指令涉及453架美國註冊737 MAX飛機，檢查和修復預計無需更換零部件。"
-    },
-    {
-      "id": "5011210",
-      "time": "2026-07-28 10:08:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財政大臣片山：外資銀行參與日本對美投資框架下專案後，美元融資擔憂徹底消除。"
-    },
-    {
-      "id": "5011209",
-      "time": "2026-07-28 10:08:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【稅務總局：全國已辦理涉稅事項且正常經營的活躍經營主體的數量同比增長20.2%】7月28日，國家稅務總局局長鬍靜林在國新辦釋出會上表示，從稅收資料看，1—6月份，我國經營主體的活躍度進一步提升。全國已辦理涉稅事項且正常經營的活躍經營主體的數量同比增長20.2%, 有稅申報戶數同比增長10%。"
-    },
-    {
-      "id": "5011208",
-      "time": "2026-07-28 10:07:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【李君兵已任中央社會工作部副部長】中共中央社會工作部網站顯示，李君兵已任中央社會工作部副部長。"
-    },
-    {
-      "id": "5011207",
-      "time": "2026-07-28 10:07:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "菲律賓央行行長雷莫洛納：仍然預期經濟將在下半年復甦。"
-    },
-    {
-      "id": "5011206",
-      "time": "2026-07-28 10:06:44",
-      "tags": [
-        "宏觀",
-        "資料"
-      ],
-      "text": "【上半年稅務部門累計徵收稅費收入16.7萬億元】國務院新聞辦舉行新聞釋出會。國家稅務總局相關負責人介紹，今年上半年，稅務部門累計徵收稅費收入16.7萬億元。其中，稅收收入超過10萬億元，同比增長4.9%。這主要得益於經濟執行總體平穩向好，與稅收收入密切相關的PPI持續回升，以及部分新興領域和重點行業發展勢頭強勁。同時，社會保險費收入完成4.5萬億元，非稅收入完成1.8萬億元，國家的財力保障不斷夯實。"
-    },
-    {
-      "id": "te:markets:570238",
-      "time": "2026-07-28 10:06:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Shares Extend Gains — The Hang Seng Index edged up 0.6%, or 160 points, to 25,370 on Tuesday, extending its recent gains as strong capital inflows and robust IPO activity offset another wave of global selling in semiconductor stocks. Tech and AI-related shares continued to attract buying interest, while optimism surrounding Hong Kong's revitalized equity market underpinned broader market performance. Investor sentiment was further supported by the successful listing of Zhongji Innolight, one of the largest IPOs in Asia this year, underscoring sustained demand for Chinese technology offerings despite broader weakness in the global chip sector. Meanwhile, investors remained focused on Shein's planned Hong Kong listing, with attention centered on its valuation and recent financial results, while also awaiting earnings from major US technology companies and the Fed's latest policy decision. Notable gainers included SMIC (2.3%), Xiaomi (1.6%), Tencent (1.4%), Meituan (2.3%), and Horizon Robotics (6.3%)."
-    },
-    {
-      "id": "5011205",
-      "time": "2026-07-28 10:05:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "微盤股指數（883418）持續走高漲近2.5%。"
-    },
-    {
-      "id": "5011204",
-      "time": "2026-07-28 10:05:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【巴新移民局抓扣、遣返涉非法採金、黃金走私的外國公民，中使館再次提醒切勿從事非法活動】中國駐巴布亞紐幾內亞使館7月28日再次提醒中國公民和機構切勿從事非法採金、黃金走私活動。7月以來，巴新移民局在採金區域進行聯合執法活動，抓扣和遣返涉非法採金、黃金走私及簽證不合規的外國公民，其中包括部分中國公民。中國駐巴布亞紐幾內亞使館再次嚴肅提醒，在巴新中國公民和機構務必遵守當地法律法規，切勿從事非法採金、黃金走私或與所持簽證種類不相符的活動，避免違法行為給自身帶來安全風險。如遇緊急情況第一時間報警並與中國駐巴新使館聯絡尋求協助。"
     }
   ]
 }

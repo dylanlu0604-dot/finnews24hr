@@ -1,7 +1,36 @@
 {
   "date": "2026-08-04",
-  "count": 729,
+  "count": 732,
   "items": [
+    {
+      "id": "mkt:019fca86-fa03-7aab-8f62-3e82dd3df860",
+      "time": "2026-08-04 10:07:51",
+      "tags": [
+        "MKT News",
+        "TSM.O"
+      ],
+      "text": "TSMC said it will donate JPY250 million to Kumamoto earthquake relief and recovery efforts."
+    },
+    {
+      "id": "te:markets:572333",
+      "time": "2026-08-04 10:06:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Snap Six-Day Winning Streak — The Hang Seng Index fell 0.5%, or 123 points, to 25,885 on Tuesday, snapping a six consecutive sessions of gains, as investors took profits and sentiment weakened during the session. Initial optimism over Beijing's latest measures to strengthen Hong Kong's role as an international financial hub, including expanding yuan-denominated investment products and cross-border market access, faded as selling emerged in heavyweight technology and financial stocks. The benchmark's decline also reflected lingering caution over China's economic outlook and corporate earnings, prompting investors to lock in gains after the early rally. Moreover, investors remained cautious ahead of China's trade figures due later this week. Notable losers included Tencent (-0.7%), Xiaomi (-1.3%), GoFintech Quantum Innovation (-7.7%), Geely Automobile (3.1%), and AIA (-0.5%)."
+    },
+    {
+      "id": "5023518",
+      "time": "2026-08-04 10:06:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AI語料板塊短線拉昇，貝瑞基因漲停】AI語料板塊短線拉昇，貝瑞基因漲停，普聯軟體、值得買、拓爾思、崑崙萬維、當虹科技等紛紛走高。"
+    },
     {
       "id": "5023517",
       "time": "2026-08-04 10:04:02",
