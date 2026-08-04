@@ -1,7 +1,147 @@
 {
   "date": "2026-08-05",
-  "count": 605,
+  "count": 619,
   "items": [
+    {
+      "id": "5025540",
+      "time": "2026-08-05 07:57:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【賦予機器人精細“手感” 觸覺感知正孕育增長迅猛細分賽道】機器人插接零件時在邊緣反覆摩擦卻難以入位，拿捏塑膠瓶時用力失衡致瓶身凹陷——工業場景中，具身智慧機器人“翻車”屢見不鮮。癥結在於，機器人和物理世界互動不能只靠視覺感知，觸覺等多模態資訊同樣舉足輕重。讓機器人從“看見”世界邁向“觸控”世界，觸覺感知正孕育出增長迅猛的細分賽道。據不完全統計，今年前7個月該領域新增融資超70億元，至少兩家企業躋身新晉獨角獸。證券時報記者採訪瞭解到，將觸覺資訊融入具身智慧大模型以提升機器人柔性操作能力，已成為業內主流探索方向之一。依託視觸融合等技術成果，機器人工業柔性操作已誕生應用測試場景，規模化量產有望上線。但因觸覺資料具有不可替代性，資料缺口仍是阻礙機器人規模化落地的核心瓶頸之一。業內呼籲，在強化多模態資料真實採集的同時，進一步完善資料模擬等技術路線；觸覺感測器等核心零部件則需在耐用性、資料一致性等方面精益求精。"
+    },
+    {
+      "id": "5025539",
+      "time": "2026-08-05 07:56:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行多數委員：潛在通脹存在上行風險。"
+    },
+    {
+      "id": "mkt:019fcf34-b47f-7aab-8f79-dbaef0a73387",
+      "time": "2026-08-05 07:56:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan minutes show one member said the central bank must raise policy rates at a pace of roughly once every few months."
+    },
+    {
+      "id": "5025538",
+      "time": "2026-08-05 07:56:05",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【華泰證券：機器人行業正從主題定價轉向量產與需求驗證定價】華泰證券研報表示，上週智駕與機器人板塊超跌反彈，但7月份仍分別下跌12.61%、10.91%，華泰證券認為近期上漲以估值修復與資金輪動為主。機器人領域，行業正從主題定價轉向量產與需求驗證定價，建議觀察國產鏈與特斯拉鍊兩條主線——國產鏈短期以宇樹上市為催化，特斯拉鍊則跟蹤Optimus投產與展示效果，當前量產時點臨近而市場預期偏低。智駕領域，近期Robotaxi右舵市場破冰，政策端中美同步提速，NHTSA加速推動Robotaxi商業化，國內強制性國標進入執行準備階段、吉利與比亞迪、奇瑞三家首批透過體系認證。L2智駕標的前期跌幅較大，有望隨行業β預期改善觸底反彈。"
+    },
+    {
+      "id": "5025537",
+      "time": "2026-08-05 07:55:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：一名成員表示，日本央行必須以大約每數月一次的節奏加息。"
+    },
+    {
+      "id": "mkt:019fcf34-1c43-7aab-8f79-d445884c46d5",
+      "time": "2026-08-05 07:55:26",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan minutes: some members said the central bank must maintain policy guidance and would continue raising rates if economic and price developments align with its projections."
+    },
+    {
+      "id": "mkt:019fcf34-0ee8-7aab-8f79-c9ee4ba031ea",
+      "time": "2026-08-05 07:55:23",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan minutes: one member said moving the policy rate closer to a neutral level would help secure long-term economic and price stability."
+    },
+    {
+      "id": "mkt:019fcf33-f943-7aab-8f79-c2ba446e3ced",
+      "time": "2026-08-05 07:55:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan minutes: members unanimously judged further rate increases appropriate."
+    },
+    {
+      "id": "5025536",
+      "time": "2026-08-05 07:55:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：數位委員表示，日本央行必須維持當前指引，即若經濟和物價走勢符合央行預期，日本央行將繼續加息。"
+    },
+    {
+      "id": "mkt:019fcf33-9b13-7aab-8f79-b8b8d89c3fd4",
+      "time": "2026-08-05 07:54:53",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan minutes: most members said the economy is evolving broadly in line with the baseline scenario, but core inflation could exceed the BOJ's 2% target."
+    },
+    {
+      "id": "mkt:019fcf33-9801-7aab-8f79-b4b69ec86661",
+      "time": "2026-08-05 07:54:52",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan minutes: a member said Japan's real rates are unusually low by global standards and, given upside inflation risks, need to be adjusted."
+    },
+    {
+      "id": "mkt:019fcf33-6b13-7aab-8f79-ae34d5415940",
+      "time": "2026-08-05 07:54:41",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan June minutes: one member said exchange-rate movements are pushing up import prices and weighing on small firms."
+    },
+    {
+      "id": "5025535",
+      "time": "2026-08-05 07:54:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：成員一致認為日本央行應繼續加息，這一做法是適當的。"
+    },
+    {
+      "id": "5025534",
+      "time": "2026-08-05 07:54:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：一名成員表示，將日本央行政策利率調至更接近中性水平，將有助於長期實現經濟與物價穩定。"
+    },
     {
       "id": "5025533",
       "time": "2026-08-05 07:53:21",
