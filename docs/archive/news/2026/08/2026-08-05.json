@@ -1,7 +1,25 @@
 {
   "date": "2026-08-05",
-  "count": 167,
+  "count": 169,
   "items": [
+    {
+      "id": "5025240",
+      "time": "2026-08-05 03:08:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "麥格理正就收購Fourth Partner Energy進入深度談判。"
+    },
+    {
+      "id": "mkt:019fce2a-150a-7aab-8f76-2223495c94cd",
+      "time": "2026-08-05 03:04:52",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "SpaceX (SPCX.O) rose 9.8% ahead of Q2 results, hitting an intraday high."
+    },
     {
       "id": "5025239",
       "time": "2026-08-05 03:04:16",
