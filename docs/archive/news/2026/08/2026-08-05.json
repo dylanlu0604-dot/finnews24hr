@@ -1,7 +1,123 @@
 {
   "date": "2026-08-05",
-  "count": 591,
+  "count": 605,
   "items": [
+    {
+      "id": "5025533",
+      "time": "2026-08-05 07:53:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球最小GPU透過實測：24萬電晶體TinyGPU v2.0已可渲染3D圖形】8月5日訊息，業餘ASIC/FPGA設計師Pongsagon Vichit開發的全球最小GPU晶片——TinyGPU v2.0已成功透過實測。該晶片依託Tiny Tapeout社群的SKY 25b工藝製造，內部包含約24萬個電晶體。在實際測試中，它能夠處理高達1000個多邊形或三角形的平滑著色、背面剔除以及仿射紋理對映等計算，併成功實時渲染出3D模型及旋轉的地球模型，執行幀率維持在7.5至15 FPS。TinyGPU v3.0預計將於2026年12月推出。v3.0版本最大的技術亮點是引入了受DirectX 8 PS 1.1啟發的可程式設計畫素著色器，支援SIMD 4畫素平行計算及26種指令集，這將帶來顯著的畫質與細節表現提升。"
+    },
+    {
+      "id": "5025532",
+      "time": "2026-08-05 07:53:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：一名成員表示，按全球標準衡量，日本實際利率處於極低水平，考慮到通脹上行風險，必須對利率進行調整。"
+    },
+    {
+      "id": "5025531",
+      "time": "2026-08-05 07:53:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：一名委員認為匯率因素推高進口價格，對中小企業造成損害。"
+    },
+    {
+      "id": "5025530",
+      "time": "2026-08-05 07:52:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【7月份大宗商品價格指數同比增長15.5%】中國物流與採購聯合會今天（5日）公佈7月份中國大宗商品價格指數。從指數執行情況看，大宗商品價格指數環比小幅回落，同比保持較大漲幅，市場執行基礎總體穩固。7月份中國大宗商品價格指數為128.6點，環比回落1.3%，同比增長15.5%。在中國物流與採購聯合會重點監測的50種大宗商品中，7月價格環比上漲的大宗商品有14種。其中，焦炭、氧化鐠釹和瓦楞紙漲幅居前，環比分別上漲7.1%、6.4%和5.6%。"
+    },
+    {
+      "id": "5025529",
+      "time": "2026-08-05 07:52:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科技新貴紛紛下場做VC 產業資本啟用創新資本正迴圈】一級市場頻現“創而優則投”的故事。近期，GPU（圖形處理器）企業沐曦股份旗下全資子公司沐曦數智出資3600萬元，設立了淮安沐騰晨曦創業投資基金合夥企業（有限合夥），該基金總認繳規模2億元，由上海萬昂投資管理有限公司擔任GP（普通合夥人）。據記者梳理，今年以來，長鑫科技、兆易創新、長電科技等多家頂流科技公司都先後下場佈局一級市場投資，成為市場上新一波新貴LP（有限合夥）。多年前，這些公司還是各大VC/PE（風險投資機構）爭搶的優質賽道標的，一路依靠外部資本完成技術迭代與規模擴張，如今羽翼豐滿後反向賦能一級市場。新型產業LP群體的崛起，也意味著一個全新的資本迴圈正在形成。（人民財訊）"
+    },
+    {
+      "id": "5025527",
+      "time": "2026-08-05 07:52:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行委員：密切關注中東局勢影響，權衡政策調整步伐。"
+    },
+    {
+      "id": "5025526",
+      "time": "2026-08-05 07:52:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行6月貨幣政策會議紀要：多數成員一致認為經濟正按基線情景發展，存在潛在通脹可能超出日本央行2%目標的風險。"
+    },
+    {
+      "id": "5025525",
+      "time": "2026-08-05 07:51:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行公佈6月15日至16日政策會議紀要。"
+    },
+    {
+      "id": "te:economy:572714",
+      "time": "2026-08-05 07:51:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Australia Composite PMI Revised Higher — Australia’s S&P Global Composite PMI was revised up to 53.2 in July from the flash 52.6, accelerating from June’s 50.4 to the highest since January. The reading signaled a second consecutive month of private-sector expansion, underpinned by the strongest services growth in six months and a return to manufacturing output gains. New orders rose for the first time in five months, while the decline in export sales eased. Employment climbed at a solid pace for a second month, though stronger demand drove a renewed buildup of backlogs, highlighting capacity pressures. On inflation, input costs continued to rise sharply but eased to a five-month low from April’s peak. In contrast, output price inflation picked up at the start of Q3, returning to levels close to those seen in April and May. Business confidence rebounded from June’s 31-month low to its strongest level since just before the Middle East conflict in February, signaling improved sentiment heading into the second half of the year."
+    },
+    {
+      "id": "5025524",
+      "time": "2026-08-05 07:51:21",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【華泰證券：電網裝置板塊估值修復與催化空間並存】華泰證券研報表示，電網裝置板塊前期伴隨出口海外市場高景氣+國內“十五五”四萬億投資規劃落地，市場對於板塊業績預期與估值定價不斷上修，並於今年3月初創下新高；此後受到中東衝突、市場風格轉換以及板塊業績承壓等影響，進入持續的調整階段。當前認為市場對於二季報的業績預期交易已經相對充分，板塊整體估值已處低位。再次強調電網裝置出海的中長期邏輯依然堅挺，企業訂單層面表現較好，部分標的有望加速突破海外市場；同時國內主網標的二季報業績與中期訂單均存在較強支撐；板塊整體估值修復與催化空間並存。（第一財經）"
+    },
+    {
+      "id": "5025523",
+      "time": "2026-08-05 07:51:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌1.5個基點至2.830%。"
+    },
+    {
+      "id": "5025522",
+      "time": "2026-08-05 07:51:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行委員：如果經濟和物價符合預期，將繼續加息。"
+    },
+    {
+      "id": "5025521",
+      "time": "2026-08-05 07:50:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "科羅拉多州衛生部門發言人發表宣告稱，科羅拉多州正與美國疾病控制與預防中心和食品藥品監督管理局聯合調查沙門氏菌JAVIANA疫情。科羅拉多州已有110例與疫情相關的病例。"
+    },
     {
       "id": "te:markets:572713",
       "time": "2026-08-05 07:49:18",
@@ -13,6 +129,15 @@
         "Importance 2"
       ],
       "text": "US Futures Steady After Record Rally — US stock futures were little changed on Wednesday after the major indexes surged to fresh record highs in the previous session, supported by strong corporate earnings and rising optimism over an imminent deal to reopen the Strait of Hormuz. In extended trading, SpaceX plunged 7% despite reporting better-than-expected second-quarter revenue in its first earnings release as a public company, as investors remained concerned about the company's heavy spending on artificial intelligence infrastructure. AMD also fell 9% after the chipmaker delivered only a modest earnings beat. During Tuesday’s regular session, the Dow and S&P 500 climbed 1.71% and 1.79%, respectively, with both benchmarks closing at new record highs. The tech-heavy Nasdaq Composite jumped 2.59%. Investors are now awaiting another round of corporate earnings on Wednesday, including results from Eli Lilly, AppLovin, Walt Disney, Uber, and Sandisk."
+    },
+    {
+      "id": "em:jjsj_zgsj:202608053831564815",
+      "time": "2026-08-05 07:49:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【專家預計7月份金融資料總體保持平穩】今年以來，中國人民銀行繼續實施適度寬鬆的貨幣政策，各項舉措已加快推進並落地顯效，為經濟平穩增長、高質量發展和金融市場穩定執行創造了適宜的貨幣金融環境。中信證券首席經濟學家明明在接受《證券日報》記者採訪時表示，信貸方面，7月份為傳統的信貸小月，單月增量可能出現季節性回落。"
     },
     {
       "id": "5025520",
