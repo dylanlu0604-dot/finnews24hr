@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-04 10:00:46",
-  "count": 17878,
+  "updated": "2026-08-04 10:04:35",
+  "count": 17867,
   "items": [
+    {
+      "id": "5023517",
+      "time": "2026-08-04 10:04:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾兌美元在早盤交易中走弱至18,020。"
+    },
+    {
+      "id": "5023516",
+      "time": "2026-08-04 10:03:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【一艘土耳其貨船在黑海遭無人機襲擊 3人重傷】據土耳其伊赫拉斯通訊社3日報道，一艘土耳其貨船在黑海遭無人機襲擊，3名船員受重傷。報道說，這艘貨船裝載新鮮蔬菜和水果，從土耳其薩姆松港出發前往俄羅斯新羅西斯克港途中，在黑海海域遭襲。貨船在襲擊中起火，4名船員受傷，其中3人傷勢嚴重。另據當地媒體援引土耳其海事總局的訊息報道，貨輪遇襲地點距離俄羅斯新羅西斯克港大約20海里。這艘貨船懸掛喀麥隆國旗。船上所有23名船員已被俄海軍帶往新羅西斯克港。土耳其海事總局沒有指認襲擊方。當地媒體援引遇襲貨船船長的話說，多架烏克蘭無人機對貨船發動了襲擊。（新華社）"
+    },
+    {
+      "id": "te:markets:572330",
+      "time": "2026-08-04 10:03:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Steadies as Markets Assess Fed Outlook — The dollar index hovered near 100 on Tuesday after rebounding in the previous session, as investors continued to evaluate the outlook for Federal Reserve monetary policy amid ongoing uncertainty in the Middle East. Markets are currently pricing in about a 65% chance of a 25 basis point Fed rate hike in September after the central bank left interest rates unchanged in July. Bank of New York Fed President John Williams monetary policy remains well positioned, adding that inflation is expected to ease during the second half of the year. Investors are now awaiting the latest JOLTS job openings report and international trade data due later today for further insight into the strength of the US economy. Elsewhere, the dollar regained some ground against the yen after the US and Japan confirmed coordinated efforts to support the Japanese currency, though the possibility of additional interventions continues to keep markets on edge."
+    },
+    {
+      "id": "te:markets:572329",
+      "time": "2026-08-04 10:00:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Remains Firm — The Australian dollar traded around $0.70, near multi-week highs as stronger-than-expected household spending reinforced signs of resilient domestic demand ahead of the Reserve Bank’s monetary policy meeting next week. Household spending rose 0.8% in June, well above forecasts of 0.2%, driven by another increase in discretionary spending, while annual growth accelerated to 6.0%, also exceeding expectations. The data supported the central bank’s view that consumer activity remains firm despite weak sentiment, although recent softer inflation and a cooling housing market have strengthened expectations that the central bank will leave its 4.35% cash rate unchanged next week. Markets are also pricing little chance of a rate hike in September, while assigning roughly a 50% probability of a move in November if third-quarter inflation proves stronger than expected. Investors now await upcoming final PMI figures and trade balance data this week for further clues on the economy’s health."
+    },
     {
       "id": "5023515",
       "time": "2026-08-04 09:59:20",
@@ -165502,150 +165543,6 @@
         "市場"
       ],
       "text": "【巴新移民局抓扣、遣返涉非法採金、黃金走私的外國公民，中使館再次提醒切勿從事非法活動】中國駐巴布亞紐幾內亞使館7月28日再次提醒中國公民和機構切勿從事非法採金、黃金走私活動。7月以來，巴新移民局在採金區域進行聯合執法活動，抓扣和遣返涉非法採金、黃金走私及簽證不合規的外國公民，其中包括部分中國公民。中國駐巴布亞紐幾內亞使館再次嚴肅提醒，在巴新中國公民和機構務必遵守當地法律法規，切勿從事非法採金、黃金走私或與所持簽證種類不相符的活動，避免違法行為給自身帶來安全風險。如遇緊急情況第一時間報警並與中國駐巴新使館聯絡尋求協助。"
-    },
-    {
-      "id": "5011203",
-      "time": "2026-07-28 10:04:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "日經225指數跌破62000點。"
-    },
-    {
-      "id": "5011202",
-      "time": "2026-07-28 10:03:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【銀行板塊逆勢拉昇 建設銀行漲超2%創歷史新高】銀行板塊盤中逆勢拉昇，建設銀行漲超2%，創歷史新高，A+H股總市值超2.1萬億，上海銀行、農業銀行、郵儲銀行、南京銀行跟漲。"
-    },
-    {
-      "id": "5011201",
-      "time": "2026-07-28 10:03:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貴州省醫學會原會長、原貴州省衛生和計劃生育委員會巡視員楊克勤被開除黨籍】中央紀委國家監委網站7月28日通報，據貴州省紀委監委訊息：經貴州省委批准，貴州省紀委監委對貴州省醫學會原會長、原貴州省衛生和計劃生育委員會巡視員楊克勤嚴重違紀違法問題進行了立案審查調查。經查，楊克勤喪失理想信念，背離初心使命，對抗組織審查；罔顧中央八項規定精神，違規接受旅遊活動安排和他人的宴請，將應當由本人支付的費用交由他人支付，違規收受禮品禮金；違背組織原則，違規為他人謀取人事利益；廉潔底線失守，收受可能影響公正執行公務的禮品禮金，違規從事營利活動，搞權色交易，利用職務便利為親屬謀利，退休後違規兼職取酬；利用原職務影響，違規干預和插手市場經濟活動；將公權力當作攫取私利的工具，利用職務便利，為他人在醫院藥品及醫療裝置購銷等方面謀取利益，並非法收受鉅額財物；退而不休，利用原職權或者地位形成的便利條件，透過其他國家工作人員職務上的行為，為他人在醫院藥品及醫療裝置購銷等方面謀取利益，並非法收受鉅額財物。楊克勤嚴重違反黨的政治紀律、組織紀律、廉潔紀律、工作紀律、生活紀律，構成嚴重職務違法並涉嫌受賄犯罪和利用影響力受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經貴州省紀委常委會會議研究並報貴州省委批准，決定給予楊克勤開除黨籍處分；按規定取消其享受的待遇；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
-    },
-    {
-      "id": "5011200",
-      "time": "2026-07-28 10:03:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【沙特與阿曼磋商霍爾木茲海峽通行問題】沙烏地阿拉伯外交大臣費薩爾與阿曼外交大臣巴德爾27日通電話，討論雙邊關係、地區局勢和霍爾木茲海峽通行等問題。據沙特通訊社報道，雙方討論有關共同利益的多個事項，強調將保持協調與磋商，透過推進外交努力維持地區安全和穩定、確保霍爾木茲海峽航行安全與自由。同日，伊朗外交部發言人巴加埃表示，伊朗與阿曼正就霍爾木茲海峽問題展開會談，該會談與美國無關，是伊朗和阿曼的“雙邊事務”。（新華社）"
-    },
-    {
-      "id": "5011199",
-      "time": "2026-07-28 10:03:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【訊息稱SK海力士計劃下半年量產LPDDR6】訊息稱，SK海力士計劃於2026年下半年開始量產並出貨新一代低功耗移動DRAM產品LPDDR6。SK海力士已於2026年3月完成LPDDR6產品開發，目前正在推進量產準備工作。LPDDR6採用第六代10nm級（1c）工藝製造，相比上一代產品在資料處理速度和功耗控制方面有所提升。（科創板日報）"
-    },
-    {
-      "id": "te:markets:570237",
-      "time": "2026-07-28 10:02:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "EU Natural Gas Holds Decline — European natural gas prices hovered around €56.7 per MWh on Tuesday, holding most of the sharp decline from the previous session as President Donald Trump expressed optimism about diplomatic efforts to ease tensions with Iran. Trump said on Monday that the US and Tehran were having \"good talks\" and that there was a chance of reaching a deal, but he warned that US strikes would resume if negotiations failed. His comments followed a pause in hostilities between the two sides to allow room for diplomacy. Despite this, concerns over Europe’s gas supply persist, with the bloc's storage levels at risk of falling short of its winter refill targets. The renewed escalation of the conflict in early July disrupted the recovery of LNG exports from Qatar, the Middle East’s largest LNG supplier, and with the Strait of Hormuz still largely closed, it remains uncertain when additional supplies from the region could reach global markets."
-    },
-    {
-      "id": "5011198",
-      "time": "2026-07-28 10:02:40",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "長鑫科技翻紅，此前一度跌超7%。"
-    },
-    {
-      "id": "te:markets:570236",
-      "time": "2026-07-28 10:02:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Fall on Semiconductor Rout — The Shanghai Composite dropped 0.6% to 3,836 on Tuesday, while the Shenzhen Component tumbled 2.2% to 13,841, with both benchmarks reversing gains from the previous session as renewed selling pressure swept through semiconductor stocks. The sector came under pressure as growing investor concerns over whether massive AI investments will generate sufficient returns weighed on chipmakers. The selloff came after the blockbuster debut of memory-chip maker CXMT, whose IPO had fueled a sharp rally in semiconductor shares amid strong retail demand, attractive valuations, and continued state-backed support for equity markets. Among the biggest decliners were Cambricon Technologies (-2.7%), SMIC (-1.5%), GigaDevice Semiconductor (-7.5%), Zhongji Innolight (-7.1%), and Eoptolink Technology (-6.7%). Investors are now turning their attention to the Politburo meeting later this week, where policymakers are widely expected to outline the economic policy agenda for the second half of the year."
-    },
-    {
-      "id": "mkt:019fa675-9060-7aab-8eba-c254b976ac8d",
-      "time": "2026-07-28 10:02:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bearish",
-        "005930.KS"
-      ],
-      "text": "South Korea's KOSPI plunged 9% intraday to 6,143.85, with SK Hynix down more than 12% and Samsung Electronics down over 10%."
-    },
-    {
-      "id": "5011197",
-      "time": "2026-07-28 10:02:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國KOSPI指數跌幅擴大至9.2％，SK海力士跌超12%，三星電子跌超10%。"
-    },
-    {
-      "id": "mkt:019fa675-5c49-7aab-8eba-bd4ddbda470c",
-      "time": "2026-07-28 10:02:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A-share Changxin turned positive intraday, up 0.8% at 49.65 yuan, turnover above 18 bln yuan."
-    },
-    {
-      "id": "5011196",
-      "time": "2026-07-28 10:02:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【教育部：國家助學貸款惠及學生超3000萬人】7月28日，教育部召開新聞釋出會，介紹國家助學貸款等學生資助工作情況。截至2025年底，國家助學貸款累計發放6958億元、惠及學生超3000萬人。"
-    },
-    {
-      "id": "5011195",
-      "time": "2026-07-28 10:01:25",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【教育部：2025年全國累計資助學生近1.6億人次】從教育部獲悉，2025年，教育部會同財政部等有關部門，圍繞完善覆蓋全學段學生資助體系等重點任務，推動學生資助工作取得新進展新成效。2025年，全國學生資助資金投入超3900億元，較上年增長超14%。財政投入約2400億元，佔資助資金總額的六成，是資助資金的主要來源。值得關注的是，2025年，國家助學貸款發放金額達到1277億元，較上年增長34%，約佔資助資金總額的三分之一。2025年學生資助資金投入持續增長，財政投入始終佔據主導地位。2025年，全國累計資助學生近1.6億人次，較2024年增長超5%。學前教育階段，學前一年免除保育教育費政策惠及超過1400萬在園兒童。義務教育階段，1877萬名家庭經濟困難學生獲得生活補助，2758萬名學生享受營養改善計劃。中等職業教育，2萬名學生獲得國家獎學金，1279萬名學生享受免學費，407萬名學生享受國家助學金。普通高中，465萬名學生享受國家助學金，199萬名學生享受免學雜費。高等教育階段，21萬名學生獲得國家獎學金，122萬名學生獲得國家勵志獎學金，264萬名學生獲得研究生學業獎學金，1271萬名學生享受國家助學金，852萬名學生辦理國家助學貸款。"
-    },
-    {
-      "id": "5011194",
-      "time": "2026-07-28 10:01:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.03%，成分股中，國子軟體漲7.98%，同惠電子漲7.01%，納科諾爾漲6.31%，萬達軸承漲4.48%。"
-    },
-    {
-      "id": "mkt:019fa674-2410-7aab-8eba-b00cdb2bca36",
-      "time": "2026-07-28 10:00:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "00553.HK",
-        "Impact bullish",
-        "06681.HK",
-        "02172.HK"
-      ],
-      "text": "Hong Kong-listed brain–computer interface stocks advanced: Nanjing Panda Electronics (00553.HK) rose over 9%, while Naodong Jiguang-B (06681.HK) and MicroPort BrainScience (02172.HK) climbed more than 4%."
     }
   ]
 }
