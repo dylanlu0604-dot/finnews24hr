@@ -1,7 +1,68 @@
 {
   "date": "2026-08-04",
-  "count": 2958,
+  "count": 2965,
   "items": [
+    {
+      "id": "5025146",
+      "time": "2026-08-04 23:42:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果公司請求法官即刻禁止OpenAI使用其商業秘密】蘋果公司在指控OpenAI有組織竊取其將釋出產品的資訊案中再次出擊，請求聯邦法官立即下令這家人工智慧企業停止使用它所指的被竊商業秘密。該公司尋求法庭頒令，要求OpenAI歸還所有機密資訊，並停止任何獲取其它非公開資訊的企圖。蘋果要求該命令在訴訟進行期間持續有效。“如果蘋果的商業秘密被OpenAI使用和傳播，或者被嵌入其產品和運營中，造成的損害將無法挽回，” 該公司的律師週二在一份動議中表示。"
+    },
+    {
+      "id": "mkt:019fcd70-a543-7aab-8f73-aa8da578c246",
+      "time": "2026-08-04 23:42:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hainan launches level-4 flood and wind emergency response】Hainan Provincial Disaster Prevention and Relief Committee has launched a level-4 flood and wind emergency response. Meteorological forecasts say a monsoon trough will bring heavy rain from the night of the 4th through daytime of the 5th. Parts of Ledong, Sanya, Baoting, Dongfang, Wuzhishan, Lingshui and Changjiang are expected to receive 80–150 mm; parts of Wanning, Qiongzhong, Danzhou, Baisha, Lingao, Tunchang, Haikou and Wenchang 50–80 mm."
+    },
+    {
+      "id": "5025145",
+      "time": "2026-08-04 23:42:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南啟動防汛防風四級應急響應】海南省防災減災救災委員會發布關於啟動防汛防風四級應急響應的通知，根據氣象預報，受季風槽影響，預計4日夜間到5日白天，海南的樂東、三亞、保亭、東方、五指山、陵水和昌江等7個市縣的部分鄉鎮將出現80~150毫米的強降水；萬寧、瓊中、儋州、白沙、臨高、屯昌、海口和文昌等8個市縣的部分鄉鎮將出現50~80毫米的降水。"
+    },
+    {
+      "id": "5025144",
+      "time": "2026-08-04 23:40:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌6%，現報78.74美元/桶。"
+    },
+    {
+      "id": "5025143",
+      "time": "2026-08-04 23:40:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌5%，現報510.10元。"
+    },
+    {
+      "id": "5025142",
+      "time": "2026-08-04 23:40:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所（LME）：自 2026 年 11 月 4 日起，將不再接受嘉能可 Nikkelverk AS 生產的 FHG 品牌 A 級銅用於生成 LME 倉單。"
+    },
+    {
+      "id": "mkt:019fcd6e-773c-7aab-8f73-a11dbb201c20",
+      "time": "2026-08-04 23:39:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Bloomberg reports Iran is considering allowing European countries to clear sea mines in the Strait of Hormuz."
+    },
     {
       "id": "5025141",
       "time": "2026-08-04 23:39:43",
