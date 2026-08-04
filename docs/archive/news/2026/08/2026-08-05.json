@@ -1,7 +1,35 @@
 {
   "date": "2026-08-05",
-  "count": 461,
+  "count": 464,
   "items": [
+    {
+      "id": "5025439",
+      "time": "2026-08-05 06:38:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬斯克稱SpaceX將採用英偉達晶片，AMD股價下挫8%】AMD股價週二大跌超過8%，儘管該公司財季銷售額創下歷史新高。此前，SpaceX執行長馬斯克表示，決定完全採用英偉達的平臺。週二下午，在兩場時間上衝突的財報電話會議中，AMD重點介紹了其資料中心晶片銷售額的激增，而馬斯克則盛讚其最大競爭對手、市場領軍企業英偉達。馬斯克在向投資者解釋其AI計算基礎設施投資策略時說：“未來決定完全採用英偉達的平臺，因為我們認為Blackwell是最好的架構。”"
+    },
+    {
+      "id": "5025438",
+      "time": "2026-08-05 06:36:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4140美元/盎司，日內跌0.32%。"
+    },
+    {
+      "id": "te:markets:572698",
+      "time": "2026-08-05 06:35:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Soars by 7.53% — Top commodity gainers are Platinum (7.53%), Silver (3.26%), Copper (1.46%) and Gold (0.63%)."
+    },
     {
       "id": "5025437",
       "time": "2026-08-05 06:34:30",
