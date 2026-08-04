@@ -1,7 +1,89 @@
 {
   "date": "2026-08-04",
-  "count": 756,
+  "count": 765,
   "items": [
+    {
+      "id": "te:markets:572338",
+      "time": "2026-08-04 10:27:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Mixed as AI Concerns Persist — The Shanghai Composite edged down 0.1% to 3,805 on Tuesday, while the Shenzhen Component gained 1.3% to 13,626, as investors weighed persistent US-China technology frictions. While Beijing seeks to maintain stable ties ahead of President Xi Jinping’s planned September 24 visit to Washington, reports indicate that China views some advanced US AI models, including Anthropic's Mythos, as potential national security risks, and Washington remains concerned that Chinese firms may be leveraging leading US AI systems to develop competing models. Domestically, investors looked ahead to key economic releases, including trade and inflation data, after the central bank reaffirmed its commitment to supporting the economy through a moderately accommodative monetary policy, ample liquidity, and balanced credit growth. Financial stocks remained under pressure, particularly Industrial and Commercial Bank of China (-2.1%), Agricultural Bank of China (-2.5%), and China Construction Bank (-1.8%)."
+    },
+    {
+      "id": "mkt:019fca98-c706-7aab-8f62-b71c5272e56f",
+      "time": "2026-08-04 10:27:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan Chief Cabinet Secretary Kihara said the government will tap ¥24.2 billion in reserve funds to finance rescue and recovery operations in Kumamoto following the earthquake."
+    },
+    {
+      "id": "mkt:019fca98-8aa0-7aab-8f62-afe9d20c8462",
+      "time": "2026-08-04 10:27:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automatic determination: at 10:25 on Aug 4 a preliminary magnitude ~3.3 earthquake occurred near Gaoxian, Yibin, Sichuan (28.53°N, 104.67°E). Final magnitude will be confirmed in the official rapid report."
+    },
+    {
+      "id": "5023533",
+      "time": "2026-08-04 10:26:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量167億元。"
+    },
+    {
+      "id": "mkt:019fca96-ccd9-7aab-8f62-a0f5f3197b47",
+      "time": "2026-08-04 10:25:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan finance minister Kiuchi said he will not comment on specific FX levels but will closely monitor FX volatility’s impact on the economy and prices."
+    },
+    {
+      "id": "mkt:019fca95-dcab-7aab-8f62-9b3c0e5cad35",
+      "time": "2026-08-04 10:24:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Kiuchi said he wants the Bank of Japan and the Japanese government to maintain close communication on policy guidance."
+    },
+    {
+      "id": "5023532",
+      "time": "2026-08-04 10:24:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中證協啟動2026年券商投行業務三項質量評價，評價結果對應差異化監管安排】從業內獲悉，中國證券業協會近日在行業內同步啟動2026年證券公司投行業務及債券業務、重大資產重組財務顧問業務兩個單項業務質量評價工作，評價期均為2025年1月1日至12月31日。關於評價結果的運用，中證協擬將評價結果報送中國證監會，供監管機構在日常監管工作中參考使用。為更好地激勵約束券商開展債券業務，在日常監管中，相關監管機構將根據券商債券業務執業質量評價結果，採取差異化的監管安排，加強分類監管，以提高監管精準性和有效性。（中證金牛座）"
+    },
+    {
+      "id": "mkt:019fca95-c442-7aab-8f62-9154dd4db7d3",
+      "time": "2026-08-04 10:24:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Securities Association launches 2026 quality reviews of securities firms' IB, bond and major-asset-restructuring advisory businesses】China Securities Association has launched industry-wide quality assessments of securities firms' investment-banking, bond and major-asset-restructuring financial advisory businesses, covering the 2025 calendar year (Jan. 1–Dec. 31, 2025). The association will report results to the CSRC for reference in routine supervision. Regulators will use the bond-business assessment to implement differentiated, classified supervisory measures aimed at better incentivizing and constraining securities firms and improving regulatory precision and effectiveness."
+    },
+    {
+      "id": "5023531",
+      "time": "2026-08-04 10:23:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "木原稔：日本將動用242億日元儲備金用於熊本地震救災。"
+    },
     {
       "id": "5023530",
       "time": "2026-08-04 10:23:29",
