@@ -1,7 +1,169 @@
 {
   "date": "2026-08-04",
-  "count": 1559,
+  "count": 1576,
   "items": [
+    {
+      "id": "mkt:019fcbe7-c292-7aab-8f69-d29b1bf6a5ba",
+      "time": "2026-08-04 16:33:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "ARAMCO CEO said refining margins rose during the crisis due to strong demand."
+    },
+    {
+      "id": "te:markets:572470",
+      "time": "2026-08-04 16:32:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Rubber Approaches 4-Week Low — Rubber futures fell to around 211 US cents per kilogram in early August, approaching a four-week low, as rising seasonal supply and persistently weak tyre demand weighed on prices. Southeast Asia's peak tapping season continued to boost rubber output, although the risk of El Niño-related production disruptions is expected to increase as the season progresses. Meanwhile, tyre demand is likely to remain seasonally weak through mid-August, according to Guoyuan Futures, with China's Vehicle Inventory Alert Index climbing to 61.1% in July, remaining above the 50% threshold that signals excess inventory. Elevated inventories could prompt automakers to scale back production, weighing on natural rubber demand. Elsewhere, oil prices rebounded modestly after the previous session's sharp decline, lending limited support to natural rubber as higher crude prices reduce the competitiveness of petroleum-based synthetic rubber."
+    },
+    {
+      "id": "mkt:019fcbe7-2c82-7aab-8f69-cd884bbdde26",
+      "time": "2026-08-04 16:32:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude up 2.00% intraday at $84.73/bbl."
+    },
+    {
+      "id": "mkt:019fcbe7-14c5-7aab-8f69-c3e602ce4179",
+      "time": "2026-08-04 16:32:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "ARAMCO CEO says oil demand remains strong; the market is facing a supply crisis rather than a demand crisis."
+    },
+    {
+      "id": "5024098",
+      "time": "2026-08-04 16:32:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲2%，現報85.48美元/桶。"
+    },
+    {
+      "id": "mkt:019fcbe6-b1e5-7aab-8f69-be43b59d190a",
+      "time": "2026-08-04 16:32:01",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "Onshore yuan (CNY) closed at 6.7533 per USD at 16:30 on Aug 4, up 10 pips (0.0010) from the prior session."
+    },
+    {
+      "id": "mkt:019fcbe6-9f2b-7aab-8f69-b70a4b96c1d7",
+      "time": "2026-08-04 16:31:56",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong June retail sales volume YoY 2.3% (exp. 5.8%; May 4.8%)."
+    },
+    {
+      "id": "mkt:019fcbe6-7fe6-7aab-8f69-abd12cdf7803",
+      "time": "2026-08-04 16:31:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | Retail Sales Volume (YoY) (Jun) | actual 2.3% | consensus 5.8% | previous 4.80%"
+    },
+    {
+      "id": "5024097",
+      "time": "2026-08-04 16:31:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天宇股份：兩款產品擬中選第十二批全國藥品集中採購】天宇股份公告，全資子公司浙江諾得藥業參加第十二批全國藥品集中採購投標，根據聯採辦2026年7月31日釋出的擬中選結果公示，鹽酸曲唑酮片（50mg）和甲苯磺酸艾多沙班片（15mg、30mg、60mg）擬中選，採購週期自中選結果執行之日起至2029年12月31日。"
+    },
+    {
+      "id": "5024096",
+      "time": "2026-08-04 16:31:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度BSE敏感指數<.BSESN>擴大跌幅，最新下跌0.5%。"
+    },
+    {
+      "id": "mkt:019fcbe5-ca96-7aab-8f69-a757b9fa5d7d",
+      "time": "2026-08-04 16:31:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "ARAMCO CEO said the company operates international storage hubs in Japan, South Korea, Egypt and the Netherlands."
+    },
+    {
+      "id": "5024095",
+      "time": "2026-08-04 16:30:45",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國香港6月零售銷售額年率 4.6%，預期8.5%，前值7.90%。"
+    },
+    {
+      "id": "mkt:019fcbe5-39ed-7aab-8f69-99fca01bf017",
+      "time": "2026-08-04 16:30:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong June retail sales YoY 4.6% vs consensus 8.5%; May 7.9%."
+    },
+    {
+      "id": "mkt:019fcbe5-1fec-7aab-8f69-920d36058c48",
+      "time": "2026-08-04 16:30:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | Retail Sales (YoY) (Jun) | actual 4.6% | consensus 8.5% | previous 7.90%"
+    },
+    {
+      "id": "5024094",
+      "time": "2026-08-04 16:29:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【銅價突破1.4萬美元大關，美國進口潮收緊全球供應】由於交易員密切關注美國境內不斷增加的銅庫存，以及美國總統特朗普預計將就進口關稅作出決定，LME三個月期銅自6月3日以來首次突破14,000美元/噸。根據IHS Markit的航運資料，自2014年開始記錄以來，今年7月抵達美國港口的銅超過20萬噸，創下單月最高紀錄。這進一步加劇了美國倉庫和港口的銅庫存積壓，並導致世界其他地區買家的銅供應緊張。儘管精煉銅關稅計劃存在不確定性，但美國銅的流入速度仍在加快。美國商務部原定於6月30日前提出建議，但目前尚未公佈決定。美國銅價仍高於LME銅價，跨市場套利交易依然具有盈利空間。"
+    },
+    {
+      "id": "mkt:019fcbe4-c499-7aab-8f69-8f97ec18c68f",
+      "time": "2026-08-04 16:29:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China formally issued the mandatory national standard Safety Requirements for Intelligent Connected Vehicles — Autonomous Driving Systems; it is scheduled to take effect on July 1, 2027."
+    },
     {
       "id": "mkt:019fcbe4-849c-7aab-8f69-84e8a6ccb44c",
       "time": "2026-08-04 16:29:38",
@@ -9,6 +171,14 @@
         "MKT News"
       ],
       "text": "SoftBank expects its AI and cloud businesses to grow about 30% annually through fiscal 2027."
+    },
+    {
+      "id": "5024093",
+      "time": "2026-08-04 16:29:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《智慧網聯汽車 自動駕駛系統安全要求》強制性國家標準正式釋出】《智慧網聯汽車 自動駕駛系統安全要求》適用於搭載L3級、L4級（高度自動駕駛）系統的M類和N類車輛，不適用於自動泊車系統。該標準立足我國產業發展與行業監管實際需求，兼顧技術可行性、產業適配性與落地實操性，構建了維度完整、要求清晰、適配國情的安全要求體系。一是健全企業全生命週期安全保障機制，築牢安全根基。標準要求車輛製造商從安全方針、風險管理、安全保證、安全提升四個維度，建立覆蓋產品設計開發、生產製造及部署後全過程的保障能力，從源頭降低自動駕駛系統潛在的安全風險。同時，明確車輛製造商應在自動駕駛系統研發驗證過程中組織開展相應的模擬、場地及道路試驗，並確保相關試驗資源和條件滿足研發驗證要求。二是強化系統動態駕駛任務執行能力，保障使用安全。標準要求自動駕駛系統安全水平應至少達到正在承擔動態駕駛任務的合格且專注駕駛人的水平，同時不得對使用者及其他道路使用者造成不合理安全風險。在此基礎上，明確系統在各類場景下執行動態駕駛任務的安全要求，並明確最小風險策略的觸發和執行要求。三是規範人機互動與使用者告知要求，防範誤用濫用風險。標準要求自動駕駛系統的啟用和退出過程應安全，並明確就緒、啟用、退出等狀態資訊及訊號的提示規範。對於L3級自動駕駛系統還應具備駕駛人接管能力監測功能。同時，要求車輛製造商除產品使用說明書外，還可透過官網、車載顯示終端等渠道清晰告知使用者駕駛自動化等級、能力範圍、侷限性、控制策略及使用者角色轉換等關鍵資訊，引導使用者正確認知與使用。四是完善多維度檢驗檢測方法，保障標準可落地實施。標準構建“企業保障能力檢驗+安全檔案檢驗+確認性試驗”多位一體的檢驗檢測體系，對企業安全保障能力和產品安全檔案的完整性和魯棒性等進行檢驗。在此基礎上，由第三方檢測機構依據GB/T 41798《智慧網聯汽車 自動駕駛功能場地試驗方法及要求》、GB/T 44719《智慧網聯汽車 自動駕駛功能道路試驗方法及要求》和GB/T 47025《智慧網聯汽車 自動駕駛功能模擬試驗方法及要求》推薦性國家標準，綜合採用場地試驗、道路試驗、模擬試驗等方法開展確認性試驗，確保對自動駕駛系統實際能力進行全面檢驗檢測。"
     },
     {
       "id": "mkt:019fcbe4-681e-7aab-8f69-791566ea4532",
