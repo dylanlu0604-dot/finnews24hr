@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-04 21:14:03",
-  "count": 17819,
+  "updated": "2026-08-04 21:17:59",
+  "count": 17810,
   "items": [
+    {
+      "id": "5024904",
+      "time": "2026-08-04 21:17:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "富國銀行執行長：希望緩解市場對淨息差的擔憂。"
+    },
+    {
+      "id": "5024903",
+      "time": "2026-08-04 21:16:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "臺積電美股盤前漲超3%，公司總投資490億美元的1.4奈米晶圓廠，整體建設進度較原定計劃提前。"
+    },
+    {
+      "id": "5024901",
+      "time": "2026-08-04 21:15:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "富國銀行執行長：代幣化與區塊鏈技術具備現實價值，已得到銀行業接納。"
+    },
+    {
+      "id": "5024900",
+      "time": "2026-08-04 21:14:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將帕蘭提爾目標價從200美元上調至220美元。"
+    },
+    {
+      "id": "5024899",
+      "time": "2026-08-04 21:13:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪評級向貝萊德每日再投資穩定幣儲備工具授予 AAA‑MF 評級。"
+    },
     {
       "id": "5024898",
       "time": "2026-08-04 21:12:45",
@@ -164784,128 +164825,6 @@
         "公司"
       ],
       "text": "可口可樂執行長稱低收入群體消費壓力仍存。"
-    },
-    {
-      "id": "5012604",
-      "time": "2026-07-28 21:17:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "希爾頓首席財務官表示：受衝突前今年開局強勁，以及對持續復甦的溫和預期支撐，預計2026財年中東及非洲區域每間可售房收入（REVPAR）將下降中高個位數至低雙位數。"
-    },
-    {
-      "id": "5012603",
-      "time": "2026-07-28 21:17:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電表示熊本工廠生產運營正逐步恢復。"
-    },
-    {
-      "id": "mkt:019fa8df-b175-7aab-8ecd-fa500e1aff21",
-      "time": "2026-07-28 21:17:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "TSM.N"
-      ],
-      "text": "TSMC (TSM.N) says all employees at its Kumamoto plant are safe."
-    },
-    {
-      "id": "te:economy:570437",
-      "time": "2026-07-28 21:17:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Case Shiller Home Price Index YoY",
-        "Importance 2"
-      ],
-      "text": "US Home Price Growth Accelerates in May — The S&P Cotality Case-Shiller 20-City Home Price Index rose 1.6% year-over-year in May 2026, accelerating from an upwardly revised 1.2% increase in April and exceeding market expectations of 1.3%. The annual gain was the strongest since August 2025. However, after adjusting for inflation, home prices declined for a 12th consecutive month, as May's 4.2% inflation rate outpaced nominal home price growth by 2.6 percentage points. For a third straight month, Chicago recorded the strongest annual price increase among the 20 cities, up 6.9%, followed by New York (4.2%) and Cleveland (3.1%). Meanwhile, Las Vegas posted the steepest decline (-1.9%), ahead of Seattle (-1.8%), Denver (-1.8%), and Tampa (-1.6%). On a monthly basis, home prices increased 0.9%, easing slightly from gains of 1.0% in April and 1.1% in March but continuing to reflect the seasonal strength typically seen during the spring homebuying season. On a seasonally adjusted basis, prices rose 0.2% from the previous month."
-    },
-    {
-      "id": "5012602",
-      "time": "2026-07-28 21:17:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "希爾頓首席財務官：中東和非洲地區復甦仍存在不確定性。"
-    },
-    {
-      "id": "5012601",
-      "time": "2026-07-28 21:16:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯基裡希煉油廠遭襲擊後正準備重啟運營。"
-    },
-    {
-      "id": "5012600",
-      "time": "2026-07-28 21:16:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中東戰事致伊拉克原油出口大降】伊拉克石油部28日發表宣告說，該國5月和6月共出口原油約3211萬桶，月均出口量遠低於中東戰事爆發前水平。宣告援引伊拉克國家石油營銷組織的統計資料說，5月和6月，伊拉克透過伊南部巴士拉出口原油約2024萬桶，透過伊北部基爾庫克經土耳其傑伊漢港出口原油約1031萬桶，透過伊北部庫爾德自治區經傑伊漢港出口原油約156萬桶。自2月28日中東戰事爆發以來，全球能源貿易關鍵通道霍爾木茲海峽通航幾近停滯，導致近幾個月來伊拉克原油出口量大幅減少。資料顯示，伊拉克2月原油出口量約為9987萬桶。（新華社）"
-    },
-    {
-      "id": "5012599",
-      "time": "2026-07-28 21:15:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本熊本縣強震已確認一人死亡】據日本熊本縣警方28日訊息，該縣當日發生強震後，八代市一棟倒塌房屋內發現的一名人員被送往醫院後死亡。（央視新聞）"
-    },
-    {
-      "id": "5012598",
-      "time": "2026-07-28 21:15:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "波音執行長對全年現金流指引持樂觀態度。"
-    },
-    {
-      "id": "mkt:019fa8dd-4e7c-7aab-8ecd-f5b91b5ee52e",
-      "time": "2026-07-28 21:15:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Foshan’s Shunde sets up China’s first embodied intelligence development bureau】July 28 — Foshan’s Shunde district formally opened the country’s first embodied intelligence development bureau. The bureau will coordinate the full industry chain for embodied intelligence, signaling institutional innovation to advance integration of intelligent robotics, AI and the real economy. Shunde said it will accelerate construction of an embodied intelligence training-and-application industrial park and a district-level AI and robotics innovation center, aiming to become a nationally recognized embodied intelligence industry innovation benchmark."
-    },
-    {
-      "id": "5012597",
-      "time": "2026-07-28 21:14:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電稱熊本工廠全體員工均平安無事。"
-    },
-    {
-      "id": "mkt:019fa8dd-0e76-7aab-8ecd-ef5d1f377677",
-      "time": "2026-07-28 21:14:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi broadcaster Al Arabiya reports Gulf states' foreign ministers held consultations to discuss freedom of navigation in the Strait of Hormuz."
-    },
-    {
-      "id": "5012596",
-      "time": "2026-07-28 21:14:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【甘肅電投集團釋出“紫金馭能”大模型】7月28日，甘肅電投集團“人工智慧+電力”創新應用暨“紫金馭能”大模型釋出會在蘭州舉行。釋出會上，甘肅電投集團“紫金馭能”大模型正式釋出上線。該大模型是全國首個省屬電力行業人工智慧大模型，可支撐千億級引數規模的模型微調訓練與高效能推理，相容多款主流多模態大模型，配套提供覆蓋資料預處理、模型訓練到推理最佳化的一站式工具鏈，打通了研發、部署、應用全流程，可為能源電力行業整合AI資源、開展協同開發提供堅實支撐。"
-    },
-    {
-      "id": "5012595",
-      "time": "2026-07-28 21:14:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【國家電投集團完成全球最大單批次綠氨出口】電投綠能3750噸“氫洲·綠氨”當天從連雲港離岸起航發往韓國，創下全球最大單批次綠氨出口紀錄，這也是中國綠色燃料首次憑藉全生命週期碳減排貢獻，獲得國際市場綠色價值認可。本次出口的綠氨產品全部產自國家電投“氫洲·大安綠氨”示範專案。作為國家清潔低碳氫能示範工程、戰略性新興產業“百大工程”，該專案2025年7月建成投產，配套新能源裝機80萬千瓦，可年產綠氫3.2萬噸、綠氨18萬噸。當前，國際海事組織碳強度指標趨嚴、歐盟碳排放交易體系全面覆蓋航運領域，全球可溯源、可核查的綠色燃料市場需求持續攀升。綠氨作為兼具綠色燃料與清潔工業原料雙重屬性的核心載體，正成為全球能源低碳轉型的關鍵賽道。（澎湃新聞）"
     }
   ]
 }
