@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-04 08:45:19",
-  "count": 17882,
+  "updated": "2026-08-04 08:49:19",
+  "count": 17878,
   "items": [
+    {
+      "id": "mkt:019fca3d-2139-7aab-8f60-942bb738941a",
+      "time": "2026-08-04 08:47:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【Margin financing balances across China's two exchanges down CNY8.794 bln】As of Aug 3, Shanghai Stock Exchange margin financing balance was CNY1.3233 trillion, down CNY4.14 billion from the prior trading day; Shenzhen Stock Exchange was CNY1.2489 trillion, down CNY4.654 billion. Combined margin balances stood at CNY2.5722 trillion, down CNY8.794 billion versus the previous trading day."
+    },
+    {
+      "id": "5023379",
+      "time": "2026-08-04 08:46:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日減少87.95億元】截至8月3日，上交所融資餘額報13232.58億元，較前一交易日減少41.40億元；深交所融資餘額報12489.16億元，較前一交易日減少46.55億元；兩市合計25721.74億元，較前一交易日減少87.95億元。"
+    },
+    {
+      "id": "5023378",
+      "time": "2026-08-04 08:46:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安徽：電網用電負荷創歷史新高 目前全省電網執行平穩電力供需總體平衡】受持續極端高溫天氣與經濟穩健增長雙重拉動，安徽用電需求持續衝高。記者從安徽省能源局、國網安徽電力獲悉，8月3日12時40分，全省用電負荷攀升至6922萬千瓦，今夏首次重新整理歷史紀錄，同比增長0.95%。其中合肥電網當日11時20分最大負荷達1432.7萬千瓦，首次超1400萬千瓦，同比增長4.51%。目前全省電網執行平穩、電力供需總體平衡。面對高溫大負荷考驗，國網安徽電力多措並舉、精準施策，全方位築牢電力保供防線。政企聯動常態化開展電力平衡會商，提早部署各項保供工作。在電源側，省內9臺662萬千瓦煤電機組全部按期投產，7000萬千瓦新能源裝機潛力充分釋放，新能源最大出力達4163萬千瓦。同時深挖本地小機組、儲能機組潛能，積極爭取省間外電支援，透過多渠道擴充供電能力。"
+    },
+    {
+      "id": "5023377",
+      "time": "2026-08-04 08:45:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音成立科技租賃公司 含供應鏈管理業務】企查查APP顯示，近日，天津鷗鷺科技租賃有限公司成立，經營範圍包含供應鏈管理服務；電子元器件零售；電子元器件批發；日用品銷售等。企查查股權穿透顯示，該公司由抖音集團（香港）有限公司間接全資持股。"
+    },
     {
       "id": "5023376",
       "time": "2026-08-04 08:41:11",
@@ -165669,87 +165706,6 @@
         "China Tech Giants"
       ],
       "text": "Alibaba Cloud says Kimi K3 is now available on its Qianwen AI platform."
-    },
-    {
-      "id": "5011062",
-      "time": "2026-07-28 08:49:08",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【機構：日本下調食品消費稅將對日本國債造成壓力】三菱日聯摩根士丹利證券的高階固收策略師Keisuke Tsuruta稱，本地媒體報道的政府將食品消費稅降至1%的計劃將對債券市場產生負面影響。他表示，每年高達5萬億日元（305億美元）的資金缺口如何填補尚不明朗，這加劇了市場的擔憂。他表示，市場參與者對承擔利率風險的態度日趨謹慎；融資成本上行壓力可能還會持續。總額超過370萬億日元的公共和私人投資、過橋債券的再融資以及不斷增加的國防開支的資金來源仍不明朗。"
-    },
-    {
-      "id": "5011061",
-      "time": "2026-07-28 08:48:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【大和證券據悉聘請前瑞信銀行家Tiger Xu重組中國業務】據知情人士透露，大和證券聘請高階銀行家Tiger Xu領導其中國投資銀行業務；這家日本券商正在重新調整其大中華區業務，以專注於跨境併購和資本市場。"
-    },
-    {
-      "id": "5011060",
-      "time": "2026-07-28 08:47:12",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【市場監管總局無條件批准上藥雲健康收購十八家公司股權案】市場監管總局釋出2026年7月13日—7月19日無條件批准經營者集中案件列表，其中包括上海醫藥大健康雲商股份有限公司收購上藥益藥大藥房（惠民）有限公司等十八家公司股權案、杭氧集團股份有限公司與山東海力化工股份有限公司新設合營企業案等。"
-    },
-    {
-      "id": "mkt:019fa630-9672-7aab-8eb8-dde3b0ced817",
-      "time": "2026-07-28 08:47:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "000001.SS",
-        "Impact bullish",
-        "SZSE Component",
-        "Impact bearish"
-      ],
-      "text": "【China margin financing balances up CNY 10.025 bln to CNY 2.6683 tln on July 27】As of July 27, margin financing balances on the Shanghai and Shenzhen exchanges totaled CNY 2.6683 tln, up CNY 10.025 bln from the prior trading day. Shanghai exchange balance was CNY 1.3643 tln, +CNY 13.67 bln; Shenzhen balance was CNY 1.3040 tln, -CNY 3.645 bln."
-    },
-    {
-      "id": "5011059",
-      "time": "2026-07-28 08:46:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額增加100.25億元】截至7月27日，上交所融資餘額報13643.15億元，較前一交易日增加136.7億元；深交所融資餘額報13039.62億元，較前一交易日減少36.45億元；兩市合計26682.77億元，較前一交易日增加100.25億元。"
-    },
-    {
-      "id": "5011058",
-      "time": "2026-07-28 08:46:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【MSCI亞太指數跌近2.1% AI支出擔憂重燃引發晶片股拋售】由於市場對人工智慧(AI)支出的擔憂重燃引發晶片製造商拋售潮，MSCI亞太指數跌近2.1%。對該指數拖累最大的個股包括：SK海力士跌近10.4%，三星電子跌逾8.5%。該基準指數今年以來的漲幅收窄至14.4%。"
-    },
-    {
-      "id": "mkt:019fa62f-ab0e-7aab-8eb8-d5fce29af8f7",
-      "time": "2026-07-28 08:46:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver hit $58/oz, down 0.7% intraday."
-    },
-    {
-      "id": "mkt:019fa62e-f2d7-7aab-8eb8-c80926df713b",
-      "time": "2026-07-28 08:45:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "【CITIC Securities: buying opportunities in electronics after sharp pullback】CITIC Securities says the electronics sector has corrected sharply since July and valuations have fallen materially while industry fundamentals remain intact. Key drivers include stronger semiconductor-equipment order visibility, accelerating domestic compute orders and supply‑chain restocking, AI‑server demand lifting PCB and AI power‑supply cycles, and a clearer memory-price uptrend; supply‑chain opportunities are also spreading into consumer electronics. The report adds the selloff has pushed some quality names into valuation troughs, creating scope for earnings delivery and valuation re-rating."
     }
   ]
 }
