@@ -1,7 +1,76 @@
 {
-  "updated": "2026-08-04 13:33:33",
-  "count": 17773,
+  "updated": "2026-08-04 13:37:32",
+  "count": 17765,
   "items": [
+    {
+      "id": "5023720",
+      "time": "2026-08-04 13:36:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱夜間摧毀了320架烏克蘭無人機。"
+    },
+    {
+      "id": "5023719",
+      "time": "2026-08-04 13:36:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "中際旭創A股成交額超400億元，現漲12.25%。"
+    },
+    {
+      "id": "mkt:019fcb44-d23d-7aab-8f65-0c9de620fb69",
+      "time": "2026-08-04 13:35:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index closed down 25.75 points, or 0.06%, at 43,360.66 on Tuesday, Aug. 4."
+    },
+    {
+      "id": "5023718",
+      "time": "2026-08-04 13:34:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電表示，熊本晶圓廠已全面恢復生產。"
+    },
+    {
+      "id": "5023717",
+      "time": "2026-08-04 13:34:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特阿美認為全球庫存補充將支撐需求。"
+    },
+    {
+      "id": "5023716",
+      "time": "2026-08-04 13:34:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特阿美執行長表示，預計下半年石油需求將高於往年同期水平。"
+    },
+    {
+      "id": "5023715",
+      "time": "2026-08-04 13:33:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家氣候中心：7月我國北方地區暴雨極端性突出】8月4日，中國氣象局召開新聞釋出會。國家氣候中心副主任賈小龍介紹，今年7月我國北方地區暴雨極端性突出，15個北方地區國家級氣象站日降水量突破歷史極值。（新華社）"
+    },
+    {
+      "id": "mkt:019fcb42-eab3-7aab-8f65-034099765580",
+      "time": "2026-08-04 13:33:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Huatai-PineBridge China-Korea Semiconductor ETF rose over 5%; turnover exceeded CNY 11 billion."
+    },
     {
       "id": "5023714",
       "time": "2026-08-04 13:31:56",
@@ -164574,171 +164643,6 @@
         "國際"
       ],
       "text": "【日本央行潛在通脹指標仍遠高於2%】日本央行週二表示，6月一項衡量通脹趨勢的價格指標仍遠高於央行2%的目標。據央行資料，剔除生鮮食品和特殊因素後的消費者價格同比漲幅6月維持在2.7%，進一步剔除能源價格後的指標上漲2%。"
-    },
-    {
-      "id": "5011504",
-      "time": "2026-07-28 13:37:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價下跌14%。"
-    },
-    {
-      "id": "5011503",
-      "time": "2026-07-28 13:37:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【梅賽德斯-賓士釋出2026年二季度財報：營收320.61億歐元，淨利潤同比增長13%】梅賽德斯-賓士集團7月28日釋出2026年第二季度業績報告。財報顯示，集團當季實現營業收入320.61億歐元，受部分市場環境影響同比微降3%；但盈利表現企穩回升，季度淨利潤達到10.86億歐元，同比增長13%；調整後息稅前利潤（Adjusted EBIT）攀升至22.99億歐元，同比增幅達16%。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202607283823370057",
-      "time": "2026-07-28 13:37:20",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "【日本央行潛在通脹指標仍遠高於2%】日本央行週二表示，6月一項衡量通脹趨勢的價格指標仍遠高於央行2%的目標。據央行資料，剔除生鮮食品和特殊因素後的消費者價格同比漲幅6月維持在2.7%，進一步剔除能源價格後的指標上漲2%。"
-    },
-    {
-      "id": "mkt:019fa73a-1034-7aab-8ec0-2e52115756eb",
-      "time": "2026-07-28 13:37:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "【Analyst: Fed chair Kevin Warsh unlikely to challenge consensus】Natixis Investment Management global markets strategist Mabrouk Chetouane said in a note that Fed chair Kevin Warsh is unlikely to challenge the prevailing consensus at his second MPC meeting and is unlikely to yield to pressure to hike by 25bps. Chetouane said returning inflation to target by year-end is now nearly impossible at this stage, and Warsh would avoid tightening policy if it risks reversing weeks of slow but steady labour-market improvement. Analysts broadly expect the Fed to hold on Wednesday; money markets price a 38% probability of a rate hike."
-    },
-    {
-      "id": "mkt:019fa739-eaa5-7aab-8ec0-250f46ae238c",
-      "time": "2026-07-28 13:36:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Saudi foreign minister holds calls with Qatar, Kuwait and UK counterparts】SPA reported Saudi foreign minister Faisal bin Farhan Al Saud held phone calls with the Qatari prime minister and foreign minister and with Kuwait’s foreign minister to discuss recent regional developments and ways to strengthen joint efforts to maintain regional security and stability. SPA said the calls included condemnation and strong opposition to Iran and its affiliated militias in Yemen and Iraq over attacks targeting Saudi Arabia and other regional states; SPA also reported UK foreign secretary Miliband phoned to condemn Houthi attacks on Saudi Arabia, his first call with Saudi officials since becoming foreign secretary."
-    },
-    {
-      "id": "mkt:019fa739-e1c4-7aab-8ec0-1ff037aa1ad1",
-      "time": "2026-07-28 13:36:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Spot gold is down about 1% intraday at $4,035.67/oz."
-    },
-    {
-      "id": "5011502",
-      "time": "2026-07-28 13:36:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌1%，現報4034.90美元/盎司。"
-    },
-    {
-      "id": "5011501",
-      "time": "2026-07-28 13:36:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌1%，現報4094.20美元/盎司。"
-    },
-    {
-      "id": "5011500",
-      "time": "2026-07-28 13:36:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南礦業等新設聯合投資發展合夥企業】企查查APP顯示，近日，南平海礦聯合投資發展合夥企業（有限合夥）成立，經營範圍包含：礦物洗選加工；礦產資源儲量估算和報告編制服務；礦產資源儲量評估服務；礦山機械銷售等。企查查股權穿透顯示，該企業由海南礦業等共同出資。"
-    },
-    {
-      "id": "5011499",
-      "time": "2026-07-28 13:35:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收低4.7%報41,603.36。"
-    },
-    {
-      "id": "mkt:019fa738-636a-7aab-8ec0-139495f71f16",
-      "time": "2026-07-28 13:35:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) closed down 2,030.83 points, or 4.65%, at 41,603.36 on Tuesday, July 28."
-    },
-    {
-      "id": "mkt:019fa738-51fa-7aab-8ec0-0d73034d7a49",
-      "time": "2026-07-28 13:35:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "CSI 500 index futures (IC) front contract fell below 7,300 points, down 4.00% intraday."
-    },
-    {
-      "id": "mkt:019fa737-c629-7aab-8ec0-07636edc6544",
-      "time": "2026-07-28 13:34:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "000300.SS",
-        "Impact bearish",
-        "CNH",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "China's CSI 1000 index futures (IM) front contract slid below 6,900, down 2.92% intraday."
-    },
-    {
-      "id": "mkt:019fa737-77e7-7aab-8ebf-f8616d8b9461",
-      "time": "2026-07-28 13:34:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Most-active precious metals futures contracts fell: SHFE Au2610 down 1.14% at 882.62 yuan/gram; SHFE Ag2610 down 3.66% at 13,898 yuan/kg."
-    },
-    {
-      "id": "5011498",
-      "time": "2026-07-28 13:34:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "飛利浦股價在TRADEGATE平臺上下跌7.4%。"
-    },
-    {
-      "id": "5011497",
-      "time": "2026-07-28 13:33:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌3%，現報56.95美元/盎司。"
     }
   ]
 }
