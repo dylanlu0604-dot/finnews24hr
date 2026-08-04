@@ -1,7 +1,64 @@
 {
-  "updated": "2026-08-05 05:14:30",
-  "count": 17872,
+  "updated": "2026-08-05 05:18:24",
+  "count": 17875,
   "items": [
+    {
+      "id": "5025380",
+      "time": "2026-08-05 05:17:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.02%，報14755點。"
+    },
+    {
+      "id": "5025379",
+      "time": "2026-08-05 05:16:22",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "阿根廷政府表示，已與海事引航員達成臨時協議，將費用削減20%，以換取船舶航行恢復。"
+    },
+    {
+      "id": "mkt:019fcea2-4368-7aab-8f78-27755adbe14f",
+      "time": "2026-08-05 05:16:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Axios reports the White House will exclude open-source models from its framework for testing advanced AI capabilities."
+    },
+    {
+      "id": "5025378",
+      "time": "2026-08-05 05:16:05",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "白宮將開放模型排除在其測試先進人工智慧能力的框架之外。"
+    },
+    {
+      "id": "mkt:019fcea1-25fd-7aab-8f78-1c82e7455db4",
+      "time": "2026-08-05 05:14:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD (AMD.O) CEO said the company now expects 2027 data center revenue to be more than double 2026 levels, implying over 100% YoY growth."
+    },
+    {
+      "id": "5025377",
+      "time": "2026-08-05 05:14:34",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "AMD執行長：現預計資料中心部門營收到2027年將同比增長逾一倍。"
+    },
     {
       "id": "5025375",
       "time": "2026-08-05 05:13:30",
@@ -165361,30 +165418,6 @@
         "Importance 1"
       ],
       "text": "US Crude Oil Inventories Unexpectedly Rise — US crude oil inventories unexpectedly increased by 3.3 million barrels in the week ending July 24, defying market expectations for a 2.5 million-barrel draw. The build followed a 2.6 million-barrel increase in the previous week. Despite the recent gains, commercial crude inventories excluding the Strategic Petroleum Reserve (SPR) have declined by more than 54 million barrels over the past 15 weeks and remain about 3 million barrels lower year to date. Another 3.7 million barrels were withdrawn from the SPR during the week, reducing holdings to 307.7 million barrels, just above the widely accepted operational minimum range of 250-300 million barrels. At the Cushing, Oklahoma hub, inventories fell by 273,000 barrels after a 737,000-barrel decline the previous week. US crude production edged down to 13.80 million bpd from 13.86 million bpd. Meanwhile, gasoline inventories rose by 918,000 barrels, while distillate stockpiles fell by 125,000 barrels."
-    },
-    {
-      "id": "5013012",
-      "time": "2026-07-29 05:17:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士：OpenAI 失控 AI 智慧體入侵另一家科技企業，非法取用其客戶賬戶資訊。"
-    },
-    {
-      "id": "5013011",
-      "time": "2026-07-29 05:15:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.22%，報14851點。"
-    },
-    {
-      "id": "5013010",
-      "time": "2026-07-29 05:15:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "VISA執行長： 公司在產品研發、工程技術領域取得進展，正在落地多款人工智慧新型工具。公司不再僅依靠人工智慧提供輔助，現已在人工監督下運用人工智慧獨立完成各項工作與任務。 公司正在拆分產品開發團隊，將十人以上的大團隊重組為僅 2 至 4 人的小型靈活小組。"
     }
   ]
 }

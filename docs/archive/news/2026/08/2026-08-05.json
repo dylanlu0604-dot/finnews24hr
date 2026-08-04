@@ -1,7 +1,64 @@
 {
   "date": "2026-08-05",
-  "count": 378,
+  "count": 384,
   "items": [
+    {
+      "id": "5025380",
+      "time": "2026-08-05 05:17:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.02%，報14755點。"
+    },
+    {
+      "id": "5025379",
+      "time": "2026-08-05 05:16:22",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "阿根廷政府表示，已與海事引航員達成臨時協議，將費用削減20%，以換取船舶航行恢復。"
+    },
+    {
+      "id": "mkt:019fcea2-4368-7aab-8f78-27755adbe14f",
+      "time": "2026-08-05 05:16:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Axios reports the White House will exclude open-source models from its framework for testing advanced AI capabilities."
+    },
+    {
+      "id": "5025378",
+      "time": "2026-08-05 05:16:05",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "白宮將開放模型排除在其測試先進人工智慧能力的框架之外。"
+    },
+    {
+      "id": "mkt:019fcea1-25fd-7aab-8f78-1c82e7455db4",
+      "time": "2026-08-05 05:14:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD (AMD.O) CEO said the company now expects 2027 data center revenue to be more than double 2026 levels, implying over 100% YoY growth."
+    },
+    {
+      "id": "5025377",
+      "time": "2026-08-05 05:14:34",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "AMD執行長：現預計資料中心部門營收到2027年將同比增長逾一倍。"
+    },
     {
       "id": "5025375",
       "time": "2026-08-05 05:13:30",
