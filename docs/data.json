@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-05 06:19:34",
-  "count": 17910,
+  "updated": "2026-08-05 06:23:32",
+  "count": 17905,
   "items": [
+    {
+      "id": "5025433",
+      "time": "2026-08-05 06:19:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我下令建造11艘新型北極安全巡邏艦，首艦將於2028年交付，保障美國在北極地區長久的實力、主權與安全。國會必須全力支援、全額撥款扶持美國海岸警衛隊，保障其持續完成這項至關重要的使命。"
+    },
     {
       "id": "5025432",
       "time": "2026-08-05 06:15:43",
@@ -165633,74 +165641,6 @@
         "焦點"
       ],
       "text": "WTI原油突破82美元/桶，日內漲3.53%。"
-    },
-    {
-      "id": "mkt:019faad3-11c2-7aab-8ed5-e573c925814f",
-      "time": "2026-07-29 06:23:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "The latest strike on Jordan is Iran’s first missile attack on US bases in the region since the US suspended strikes on Iran last Friday."
-    },
-    {
-      "id": "mkt:019faad1-2533-7aab-8ed5-de83a2a89937",
-      "time": "2026-07-29 06:21:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Macro & Rates",
-        "Treasury Yields",
-        "WTI",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "As oil prices rose, U.S. 10-year Treasury futures fell three points."
-    },
-    {
-      "id": "mkt:019faad0-ee7f-7aab-8ed5-d7fa024adabf",
-      "time": "2026-07-29 06:20:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "WTI crude rose 3.00% to $80.68/barrel. US media reported Iran launched missiles at a US military base in Jordan."
-    },
-    {
-      "id": "5013035",
-      "time": "2026-07-29 06:20:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "受伊朗襲擊美軍基地訊息衝擊，美原油大漲 2.8%，美國 10 年期國債期貨下跌 3 個基點。"
-    },
-    {
-      "id": "mkt:019faad0-89c6-7aab-8ed5-c99c5d7a5718",
-      "time": "2026-07-29 06:20:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios reported US officials said the missile was intercepted."
-    },
-    {
-      "id": "5013034",
-      "time": "2026-07-29 06:20:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲3%，現報81.64美元/桶。"
     }
   ]
 }
