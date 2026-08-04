@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-05 02:26:14",
-  "count": 17751,
+  "updated": "2026-08-05 02:30:04",
+  "count": 17750,
   "items": [
+    {
+      "id": "mkt:019fce08-d1d2-7aab-8f75-bfdea5ab633f",
+      "time": "2026-08-05 02:28:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "According to Axios, the White House does not intend to publicly release its new framework for assessing advanced AI models."
+    },
+    {
+      "id": "mkt:019fce06-ac06-7aab-8f75-b470395b58cb",
+      "time": "2026-08-05 02:26:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【White House to extend Jones Act waiver to ease gasoline prices - Refinitiv】Refinitiv reports the White House is expected in coming days to extend a Jones Act waiver as one of the few available tools to help lower gasoline prices. The waiver, which allows non-U.S. vessels to move fuel between U.S. ports by temporarily suspending the law’s U.S.-built, -owned and -crewed requirement, is scheduled to expire on Aug. 16; an extension would be the longest pause in Jones Act enforcement. U.S. government data show the waiver was used nearly 200 times in the past 4½ months through end-July. Officials continue talks with shipping industry representatives and lawmakers on narrowing the waiver’s scope while preserving flexibility to transport critical fuel supplies. Opponents seek geographic limits and stricter per-voyage review; key Republican lawmakers are urging tighter restrictions, warning broad waivers could weaken the U.S. domestic fleet and undermine the law’s national security purpose."
+    },
     {
       "id": "te:markets:572669",
       "time": "2026-08-05 02:25:15",
@@ -164314,30 +164335,6 @@
         "Impact bearish"
       ],
       "text": "Shanghai Gold Exchange gold T+D fell 0.4% to 878.96 yuan/gram in the July 28 evening session; silver T+D fell 0.34% to 13,962.0 yuan/kg."
-    },
-    {
-      "id": "5012959",
-      "time": "2026-07-29 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌2.48%，報526.80元人民幣/桶。滬金夜盤收跌0.73%，滬銀收跌1.43%。"
-    },
-    {
-      "id": "5012958",
-      "time": "2026-07-29 02:28:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "五角大樓正式敲定與通用動力9艘弗吉尼亞級核潛艇採購合同。"
-    },
-    {
-      "id": "5012957",
-      "time": "2026-07-29 02:27:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【對伊朗軍事行動以來 特朗普與內塔尼亞胡首次會晤】美國總統特朗普28日上午在白宮同到訪的以色列總理內塔尼亞胡舉行會談。這是兩人自美以2月底對伊朗聯合發動大規模軍事行動以來的首次面對面會晤。據美國媒體報道，此次會晤持續了一個多小時，而特朗普此前剛同烏克蘭總統澤連斯基進行了約一個小時的會談。白宮新聞秘書萊維特在社交媒體發文稱，兩場會談“都積極且富有成效”。"
     }
   ]
 }
