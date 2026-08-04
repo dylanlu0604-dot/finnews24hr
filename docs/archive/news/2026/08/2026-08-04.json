@@ -1,7 +1,187 @@
 {
   "date": "2026-08-04",
-  "count": 540,
+  "count": 560,
   "items": [
+    {
+      "id": "mkt:019fca49-77f9-7aab-8f60-b16fa05ce884",
+      "time": "2026-08-04 09:00:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Polysilicon most-active contract rose over 4.00% intraday to 36,400 yuan/ton."
+    },
+    {
+      "id": "5023403",
+      "time": "2026-08-04 09:00:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月份中國物流業景氣指數繼續保持擴張 多式聯運發展突出】 中國物流與採購聯合會今天（4日）公佈7月份中國物流業景氣指數。指數繼續保持擴張，其中，新訂單指數連續回升，產業物流進一步向好。7月份中國物流業景氣指數為50.4%，環比回落0.2個百分點，總體保持擴張。從分項指數看，7月份新訂單指數為50.5%，環比回升0.2個百分點。今年以來連續5個月回升。其中，鐵路運輸業、道路運輸業和多式聯運領域新訂單指數環比分別回升0.1、0.2和0.4個百分點。另外，業務總量指數環比雖有回落，但連續3個月位於擴張區間。其中，多式聯運領域業務總量指數為54%，環比回升0.5個百分點。各地持續開展多式聯運方案創新，在鐵海聯運、“一單制”、資料互聯等方面實現進一步突破。"
+    },
+    {
+      "id": "mkt:019fca49-4c4d-7aab-8f60-ae01085af3f0",
+      "time": "2026-08-04 09:00:28",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the morning open on China’s futures market, main contracts were mostly higher. Polysilicon and stainless steel led gains, up more than 2%. Container freight on Europe routes, polypropylene (PP), plastics, the PP monthly-average contract, glass and methanol rose over 1%. Decliners included red dates, palladium, fuel oil and Shanghai lead, down more than 1%, while SC crude, soda ash and Shanghai zinc fell around 1%."
+    },
+    {
+      "id": "te:markets:572308",
+      "time": "2026-08-04 09:00:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Fall for Second Session — The Nikkei 225 Index fell 0.6% to around 63,300, while the broader Topix Index slipped 0.3% to 3,948 on Tuesday, as Japanese equities declined for a second consecutive session, led by losses in technology stocks. The weakness came despite a strong overnight rally in major US tech shares, with investors remaining cautious about the outlook for the artificial intelligence trade. Markets also continued to digest the yen’s sharp appreciation following coordinated efforts by Japan and the US to support the currency, while staying alert for the possibility of further intervention. A stronger yen clouds the earnings outlook for Japan’s export-driven companies and makes domestic equities less attractive to foreign investors. Among technology stocks, Kioxia Holdings (-1%), SoftBank Group (-2.4%) and Advantest (-2.2%) posted notable declines. Financial and consumer shares also moved lower, including Mitsubishi UFJ (-1.8%) and Fast Retailing (-1.7%)."
+    },
+    {
+      "id": "5023402",
+      "time": "2026-08-04 09:00:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲4%，現報36400.00元。"
+    },
+    {
+      "id": "5023401",
+      "time": "2026-08-04 09:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.7%報43,092.49。"
+    },
+    {
+      "id": "5023400",
+      "time": "2026-08-04 09:00:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【青花汾20領跌 白酒大單品總價跌回9900下方】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售總價8月4日明顯回落。如果主要單品各取一瓶整體打包售賣，今日總售價為9876元，較昨日大幅下跌25元，昨日漲幅大部分回吐，重新跌回9900元下方。酒市終端交投情緒再度轉弱，空方重佔上風，低位修復節奏受到擾動。\n\n今日11大白酒單品三漲七跌一平，輸家佔據絕對優勢。上漲方面，習酒君品漲幅居前，上漲3元/瓶，重新整理今年5月19日以來最高價紀錄；飛天茅臺與五糧液1618均小漲1元/瓶，其中前者終結此前三連跌，7.18提價後的高位整理格局延續，後者連續兩日回升。下跌方面，青花汾20跌幅居前，大跌7元/瓶，創近一個月最大單日跌幅，昨日平近一個月最高價紀錄後技術性回落；五糧液普五八代、洋河夢之藍M6+與古井貢古20均下跌5元/瓶，其中普五八代兩連陽告終，低位修復行情短線承壓；夢之藍M6+盡失昨日漲幅；古井貢古20延續月內低位盤整態勢。國窖1573下跌4元/瓶，昨日反彈後再度回撥；精品茅臺下跌3元/瓶，連續兩日走低，價格降至月內次低位；水晶劍南春小跌1元/瓶，再平近一個月最低價紀錄。青花郎價格環比昨日保持不變，連續兩日維持在706元/瓶。"
+    },
+    {
+      "id": "5023399",
+      "time": "2026-08-04 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲1%，現報2637.00元。"
+    },
+    {
+      "id": "5023398",
+      "time": "2026-08-04 09:00:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報84.65美元/桶。"
+    },
+    {
+      "id": "5023397",
+      "time": "2026-08-04 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】多晶矽連續漲3.42%，不鏽鋼連續漲2.54%，集運指數歐線期貨連續漲1.90%，甲醇連續漲1.77%，紅棗連續跌1.68%。"
+    },
+    {
+      "id": "5023396",
+      "time": "2026-08-04 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.17%。"
+    },
+    {
+      "id": "5023395",
+      "time": "2026-08-04 08:59:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國首爾綜指跌幅擴大至2.5％，此前一度漲超2%。三星電子跌超3%，SK海力士跌超4%。"
+    },
+    {
+      "id": "mkt:019fca48-061a-7aab-8f60-a1598ca16a65",
+      "time": "2026-08-04 08:59:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI fell more than 2% after earlier rising over 2%. Samsung Electronics dropped over 3% and SK Hynix fell more than 4%."
+    },
+    {
+      "id": "5023394",
+      "time": "2026-08-04 08:58:36",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗：重申對阿里巴巴的買入評級，目標價192美元】花旗分析師Alicia Yap等在報告中稱，阿里巴巴股價最近的強勁表現，可能反映的是亞馬遜AWS和微軟Azure雲業務收入增長趨勢的積極預期，以及千問3.8-Max基準分率的顯著提高從晶片、雲基礎設施，到模型和應用程式，像阿里巴巴這樣擁有全線能力的公司更有能力領先。重申對公司的買入評級，目標價192美元。"
+    },
+    {
+      "id": "5023393",
+      "time": "2026-08-04 08:57:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【訊息稱儲存三大原廠已完成2027全年產能分配談判 DRAM與HBM產能售罄】業界人士指出，近期原廠已完成2027全年產能分配談判，三大原廠的DRAM與HBM產能均提前售罄。 NAND Flash雖然沒有像DRAM一樣供應吃緊，但預計2026年8月底前的產能也將被預訂完畢。無論是否簽訂LTA長期合約，買家均配合原廠的提前預付訂金模式，這將應驗2027年是“儲存最短缺一年”的看法，但後續價格漲幅有望趨緩。 (臺灣電子時報)"
+    },
+    {
+      "id": "5023392",
+      "time": "2026-08-04 08:57:17",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根士丹利：阿里雲收入增長料加速 併為阿里巴巴股價的關鍵催化劑】摩根士丹利稱，預計阿里雲將是最大的雲市場份額獲得者，並有望繼續成為推動阿里巴巴股價的關鍵催化劑，阿里巴巴為板塊中的首選標的。預計阿里雲收入在2027財年一季度將增長45%並加速，雲業務利潤率將擴大至11%。對公司評級為超配，目標價180美元。"
+    },
+    {
+      "id": "5023391",
+      "time": "2026-08-04 08:57:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月3日267股獲融資買入超億元 中際旭創穫買入37.36億元居首】8月3日共有3511只個股獲融資資金買入，有267股買入金額超億元。其中，中際旭創、長鑫科技、兆易創新融資買入金額排名前三，分別獲買入37.36億元、36.80億元、29.79億元。"
+    },
+    {
+      "id": "5023390",
+      "time": "2026-08-04 08:57:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲調查顯示工商業貸款放貸標準基本不變 大中型企業貸款需求增強】美聯儲一項銀行業調查的受訪者表示，在第二季度期間，商業和工業貸款的放貸標準“基本保持不變”，來自大中型企業的此類貸款需求有所增強。美聯儲在其最新的季度高階貸款官調查報告中表示：“在面向家庭的貸款方面，各銀行報告的貸款標準變化不一，且住宅房地產貸款需求有所減弱。”報告指出，在需求穩定的情況下，信用卡貸款的放貸標準有所收緊，而汽車貸款及其他型別消費者貸款的放貸標準則保持不變，但汽車貸款需求有所減弱。美聯儲一直在權衡是否需要加息並提高短期借貸成本，以推動通脹率回落至2%的目標水平。上週，美聯儲將聯邦基金利率目標區間維持在3.5%至3.75%不變，主席沃什也未就未來政策路徑提供明確指引。"
+    },
+    {
+      "id": "mkt:019fca46-07d7-7aab-8f60-9c8c26ef4959",
+      "time": "2026-08-04 08:56:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude up 1.00% intraday at $79.52/bbl."
+    },
+    {
+      "id": "5023389",
+      "time": "2026-08-04 08:56:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報81.18美元/桶。"
+    },
     {
       "id": "5023388",
       "time": "2026-08-04 08:53:56",
