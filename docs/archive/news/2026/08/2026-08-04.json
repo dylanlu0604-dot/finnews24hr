@@ -1,7 +1,23 @@
 {
   "date": "2026-08-04",
-  "count": 744,
+  "count": 746,
   "items": [
+    {
+      "id": "mkt:019fca90-b11d-7aab-8f62-6eb4aba6229b",
+      "time": "2026-08-04 10:18:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's economic and fiscal minister Kiuchi said pass-through of higher commodity prices into costs remains limited so far."
+    },
+    {
+      "id": "5023525",
+      "time": "2026-08-04 10:17:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【古爾曼：帶攝像頭AirPods有望年內釋出】科技記者古爾曼發文稱，儘管代號為B798的帶攝像頭AirPods耳機已推遲至2027年釋出，但蘋果同時也在開發另一個代號為B790的帶攝像頭AirPods耳機版本，B790似乎進展更快：iOS27的程式碼中已經出現了該產品的相關資訊，而且它已被列入蘋果的內部路線圖，最早可能在今年釋出。"
+    },
     {
       "id": "te:markets:572335",
       "time": "2026-08-04 10:15:06",
