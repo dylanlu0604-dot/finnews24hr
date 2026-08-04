@@ -1,7 +1,47 @@
 {
   "date": "2026-08-04",
-  "count": 692,
+  "count": 695,
   "items": [
+    {
+      "id": "mkt:019fca78-14c8-7aab-8f62-04b3fb52dd88",
+      "time": "2026-08-04 09:51:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Yen rescue may carry a cost; US could seek concessions from Japan】President Trump called the first coordinated US–Japan yen purchases in decades a “signal of friendship.” Treasury Secretary Bessent said the Trump administration will “deliver on commitments to trusted partners.” Analysts warn Washington’s intervention is unlikely to be free: they say support for the yen — lifted from near 40‑year lows — may be tied to US strategic aims including bolstering Prime Minister TAKAICHI amid weak polls, pressing Japan to follow through on a previously pledged $550bn investment package into the US and to yield more in trade talks. Bessent has voiced worry about spillovers to the $31trn US Treasury market; he has identified the 10‑year yield as his key gauge, and the 10‑year yield hit the highest level of his tenure on Friday, the same day as the yen intervention."
+    },
+    {
+      "id": "te:economy:572324",
+      "time": "2026-08-04 09:49:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Morocco",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Morocco Jobless Rate at 9.5% in Q2 — The strict unemployment rate in Morocco stood at 9.5% in the second quarter of 2026, with 1.117 million unemployed out of a labor force of 11.76 million. The unemployment rate was higher among women at 14.8%, compared to 8.1% for men, while youth unemployment among those aged 15–24 remained elevated at 27.2%. Meanwhile, employment totaled 10.64 million, while the participation rate came in at 38.2%. The services sector remained the largest employer, accounting for 5.251 million jobs, or 49.3% of total employment, followed by agriculture (2.569 million), industry (1.456 million), and construction (1.356 million). The figures are based on the newly introduced EMO 2026 labour force survey, introduced in the first quarter of 2026, which applies updated international standards."
+    },
+    {
+      "id": "mkt:019fca75-c5c8-7aab-8f61-fb2c6e0bbc5d",
+      "time": "2026-08-04 09:49:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "ChiNext rose over 3%; Shenzhen Component up 1.7%. More than 3,600 stocks advanced market-wide. Leading sectors: compute-capacity leasing, semiconductors and pharmaceuticals/biotech."
+    },
     {
       "id": "5023492",
       "time": "2026-08-04 09:48:10",
