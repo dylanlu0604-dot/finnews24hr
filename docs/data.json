@@ -1,7 +1,101 @@
 {
-  "updated": "2026-08-04 13:13:29",
-  "count": 17770,
+  "updated": "2026-08-04 13:17:30",
+  "count": 17773,
   "items": [
+    {
+      "id": "mkt:019fcb33-d692-7aab-8f64-a788ee84ccfb",
+      "time": "2026-08-04 13:16:39",
+      "tags": [
+        "MKT News",
+        "BHP.AX",
+        "Impact bullish"
+      ],
+      "text": "BHP spokesman says unions need not proceed with planned strike action."
+    },
+    {
+      "id": "mkt:019fcb33-9889-7aab-8f64-9a4202b03dbd",
+      "time": "2026-08-04 13:16:23",
+      "tags": [
+        "MKT News",
+        "7203.T",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "Toyota expects the Middle East situation to impact operating profit for fiscal 2026/27 by ¥510 billion, down from a prior estimate of ¥670 billion."
+    },
+    {
+      "id": "5023694",
+      "time": "2026-08-04 13:16:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量451億元。"
+    },
+    {
+      "id": "5023693",
+      "time": "2026-08-04 13:16:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特阿美：截至6月30日，對設施的襲擊未造成實質性影響；將繼續評估任何事件的潛在影響。"
+    },
+    {
+      "id": "te:markets:572379",
+      "time": "2026-08-04 13:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Australian Dollar Increases by 0.26% — Top currency gainer is Australian Dollar (0.26%). Biggest losers are Japanese Yen (-0.26%) and British Pound (-0.09%). Meanwhile, Dollar Index and Euro were little changed."
+    },
+    {
+      "id": "5023692",
+      "time": "2026-08-04 13:15:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓港口聯合工會發言人表示，已通知的8月8日和8月9日工業行動將如期進行。發言人表示，實質性議題仍有待解決，各方已明確未來數週內將推進的解決路徑。"
+    },
+    {
+      "id": "mkt:019fcb32-482f-7aab-8f64-947ffc1f0b53",
+      "time": "2026-08-04 13:14:57",
+      "tags": [
+        "MKT News",
+        "BHP.AX",
+        "Impact bearish"
+      ],
+      "text": "A spokesperson for the joint port unions representing BHP said substantive issues remain unresolved, and the parties have agreed on a path of action to be taken over the coming weeks."
+    },
+    {
+      "id": "mkt:019fcb31-f2da-7aab-8f64-8f37da1abd07",
+      "time": "2026-08-04 13:14:35",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "A spokesperson for the BHP port joint union said strike action will continue, as notified, on Aug 8 and Aug 9."
+    },
+    {
+      "id": "5023691",
+      "time": "2026-08-04 13:14:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【季風暴雨成災 印度阿薩姆邦已有87人遇難】當地時間8月4日，連日季風暴雨引發的洪澇與地質災害持續席捲印度多地。據阿薩姆邦災害管理局3日通報，該邦已有7個縣、超12.8萬人受災，阿薩姆邦本輪洪災累計遇難人數已升至87人。"
+    },
+    {
+      "id": "5023690",
+      "time": "2026-08-04 13:13:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【滙豐控股業績超出預期 宣佈股票回購計劃並提高成本節約目標】滙豐控股釋出財報，第二季度業績超過市場預期，並宣佈新的股票回購計劃，以及提高成本削減目標。滙豐表示將向股東回購最多10億美元股份。截至6月的三個月期間，其稅前利潤為101億美元，高於此前預估的95億美元。盈利主要得益於26億美元的“重要科目”以及銀行和財富管理收入的增長。“我們從速度、精準度和紀律性等多方面執行公司的戰略重點，”行政總裁艾橋智在宣告中表示。“這使我們的四大業務能夠發揮各自核心優勢實現增長，更有效地協同合作，並深化客戶關係。”自出任行政總裁以來，艾橋智透過出售資產和精簡運營，加快推進這家歐洲最大銀行的重組。滙豐目前預計，重組計劃將實現成本節約20億美元，高於此前15億美元的目標。"
+    },
     {
       "id": "5023689",
       "time": "2026-08-04 13:11:49",
@@ -164660,72 +164754,6 @@
         "其他"
       ],
       "text": "【生態環境部：與時俱進做好“十五五”生態環境標準體系建設】7月28日，生態環境部召開7月例行新聞釋出會，生態環境部法規與標準司司長趙柯表示，“十五五”期間標準工作將重點從以下方面發力：第一，制定時間表和路線圖。組織開展生態環境標準的宏觀戰略研究，制定生態環境標準工作方案，分步驟推進汙染防治、生態保護、綠色低碳三方面的標準專案。第二，加快制修訂重點標準。今年年初發布了新版的環境空氣質量標準，目前正在加快制訂飲用水水源地水環境質量標準。對地表水、海洋、聲等生態環境質量標準，將有序更新。第三，依法健全標準體系。針對生態環境標準體系的短板和弱項，加快構建生態保護評價與修復監管標準體系，積極推進綠色低碳標準體系建設。第四，最佳化提升工作質效。推動加強以標準需求為導向的科研支撐，廣泛吸引各方科研力量共同夯實標準的科學基礎。"
-    },
-    {
-      "id": "5011476",
-      "time": "2026-07-28 13:16:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【韓旭、張王來加盟 澳大利亞女籃聯賽中國球員增至4人 】澳大利亞女籃聯賽（WNBL）吉朗毒液隊28日宣佈，中國球員韓旭和張王來加盟球隊，將隨隊征戰2026-2027賽季。兩人均與吉朗毒液隊簽下一年合同，相關簽約尚待聯賽批准。加上此前官宣的楊舒予加盟悉尼火焰隊和王思雨加盟墨爾本南部飛人隊，將有至少4名中國球員出現在新賽季WNBL比賽中。（新華社）"
-    },
-    {
-      "id": "te:markets:570272",
-      "time": "2026-07-28 13:15:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Australian Dollar Depreciates by 0.29% — Top currency losers are Australian Dollar (-0.29%) and Euro (-0.06%). Meanwhile, Dollar Index, British Pound and Japanese Yen were little changed."
-    },
-    {
-      "id": "5011475",
-      "time": "2026-07-28 13:15:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【商務部：中國從不刻意追求貿易順差】商務部28日釋出《關於所謂“產能過剩”問題的中方立場》檔案。檔案指出，中國從不刻意追求貿易順差。中國出口增長既源於規模經濟與創新能力提升，也來自各國綠色轉型和工業化發展的需求。比如，中國對歐出口增長主要集中於光伏、新能源汽車、鋰電池和化工產品等，更多反映了綠色轉型帶動對能源產品的需求，以及能源危機抬升了歐洲化工等行業的生產成本。中國也從不刻意追求勞動密集型產品出口份額，相關產品出口比重由2012年的20.7%下降為2025年的15.1%。從貿易利益分配看，“順差在中國，利益在各方”，2025年外資企業佔中國出口的27%、順差的16%，順差和利潤增速都快於本土企業。從整個國際收支看，雖然中國貨物貿易有較大順差，但服務貿易、投資收益都有逆差，總體上經常賬戶順差佔GDP比重約3.7%，處於國際公認合理區間。"
-    },
-    {
-      "id": "5011474",
-      "time": "2026-07-28 13:14:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【商務部：出口多、順差大不等於產能過剩】商務部28日釋出《關於所謂“產能過剩”問題的中方立場》檔案。檔案指出，出口多、順差大不等於產能過剩。順差主要反映的是國內總儲蓄和總投資之間的差額，主要包括貨物和服務貿易順差。從全球經濟發展史看，英國、美國、日本、德國等製造強國都曾長期保持順差，德、日經常專案順差佔GDP比重超過6%的情況也較常見。新興市場出口快速增長，印尼、墨西哥等也都成為順差國，巴西、越南等連續10年實現貿易順差。從行業產品看，美國晶片80%用於出口，波音公司交付的商用飛機約2/3銷往北美以外的客戶。歐盟的汽車、藥品、化妝品，2025年順差分別為922億、2146億和116億美元。如果按照順差大必然產能過剩的邏輯，這些出口多、順差大的行業和產品是否也要視為“產能過剩”？貿易順差是全球產業分工和供需結構共同作用的結果，並不意味著產能過剩。"
-    },
-    {
-      "id": "5011473",
-      "time": "2026-07-28 13:14:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【商務部：“中國內需不足導致產能過剩”不符合事實】商務部28日釋出《關於所謂“產能過剩”問題的中方立場》檔案。檔案指出，“中國內需不足導致產能過剩”不符合事實。中國不僅是製造大國，也是消費大國。內需一直是中國經濟的主引擎，2013－2024年，內需對中國經濟增長的平均貢獻率為93%。其中，消費和投資平均貢獻率分別為55%和38%。“中國內需不足導致產能過剩”的論調，更是偷換概念，把市場微觀現象套用到宏觀結構層面。"
-    },
-    {
-      "id": "te:markets:570271",
-      "time": "2026-07-28 13:14:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Euro Hits 4-week Low — EURUSD decreased to 1.14, the lowest since June 2026. Over the past 4 weeks, Euro US Dollar lost 0.51%, and in the last 12 months, it decreased 1.62%."
-    },
-    {
-      "id": "mkt:019fa725-1161-7aab-8ebf-9576b15501ac",
-      "time": "2026-07-28 13:14:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【CHINA'S CPU MAKER HAIGUANG adapts DCU platform to Moonshot AI Kimi K3】CHINA'S CPU MAKER HAIGUANG said on its official account that on July 27 Moonshot AI released the open-source large model Kimi K3. HAIGUANG completed Day-0 end-to-end adaptation, deployment and performance validation of Kimi K3 on its DCU platform the same day."
     }
   ]
 }

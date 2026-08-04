@@ -1,7 +1,101 @@
 {
   "date": "2026-08-04",
-  "count": 987,
+  "count": 997,
   "items": [
+    {
+      "id": "mkt:019fcb33-d692-7aab-8f64-a788ee84ccfb",
+      "time": "2026-08-04 13:16:39",
+      "tags": [
+        "MKT News",
+        "BHP.AX",
+        "Impact bullish"
+      ],
+      "text": "BHP spokesman says unions need not proceed with planned strike action."
+    },
+    {
+      "id": "mkt:019fcb33-9889-7aab-8f64-9a4202b03dbd",
+      "time": "2026-08-04 13:16:23",
+      "tags": [
+        "MKT News",
+        "7203.T",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "Toyota expects the Middle East situation to impact operating profit for fiscal 2026/27 by ¥510 billion, down from a prior estimate of ¥670 billion."
+    },
+    {
+      "id": "5023694",
+      "time": "2026-08-04 13:16:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量451億元。"
+    },
+    {
+      "id": "5023693",
+      "time": "2026-08-04 13:16:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特阿美：截至6月30日，對設施的襲擊未造成實質性影響；將繼續評估任何事件的潛在影響。"
+    },
+    {
+      "id": "te:markets:572379",
+      "time": "2026-08-04 13:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Australian Dollar Increases by 0.26% — Top currency gainer is Australian Dollar (0.26%). Biggest losers are Japanese Yen (-0.26%) and British Pound (-0.09%). Meanwhile, Dollar Index and Euro were little changed."
+    },
+    {
+      "id": "5023692",
+      "time": "2026-08-04 13:15:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓港口聯合工會發言人表示，已通知的8月8日和8月9日工業行動將如期進行。發言人表示，實質性議題仍有待解決，各方已明確未來數週內將推進的解決路徑。"
+    },
+    {
+      "id": "mkt:019fcb32-482f-7aab-8f64-947ffc1f0b53",
+      "time": "2026-08-04 13:14:57",
+      "tags": [
+        "MKT News",
+        "BHP.AX",
+        "Impact bearish"
+      ],
+      "text": "A spokesperson for the joint port unions representing BHP said substantive issues remain unresolved, and the parties have agreed on a path of action to be taken over the coming weeks."
+    },
+    {
+      "id": "mkt:019fcb31-f2da-7aab-8f64-8f37da1abd07",
+      "time": "2026-08-04 13:14:35",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "A spokesperson for the BHP port joint union said strike action will continue, as notified, on Aug 8 and Aug 9."
+    },
+    {
+      "id": "5023691",
+      "time": "2026-08-04 13:14:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【季風暴雨成災 印度阿薩姆邦已有87人遇難】當地時間8月4日，連日季風暴雨引發的洪澇與地質災害持續席捲印度多地。據阿薩姆邦災害管理局3日通報，該邦已有7個縣、超12.8萬人受災，阿薩姆邦本輪洪災累計遇難人數已升至87人。"
+    },
+    {
+      "id": "5023690",
+      "time": "2026-08-04 13:13:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【滙豐控股業績超出預期 宣佈股票回購計劃並提高成本節約目標】滙豐控股釋出財報，第二季度業績超過市場預期，並宣佈新的股票回購計劃，以及提高成本削減目標。滙豐表示將向股東回購最多10億美元股份。截至6月的三個月期間，其稅前利潤為101億美元，高於此前預估的95億美元。盈利主要得益於26億美元的“重要科目”以及銀行和財富管理收入的增長。“我們從速度、精準度和紀律性等多方面執行公司的戰略重點，”行政總裁艾橋智在宣告中表示。“這使我們的四大業務能夠發揮各自核心優勢實現增長，更有效地協同合作，並深化客戶關係。”自出任行政總裁以來，艾橋智透過出售資產和精簡運營，加快推進這家歐洲最大銀行的重組。滙豐目前預計，重組計劃將實現成本節約20億美元，高於此前15億美元的目標。"
+    },
     {
       "id": "5023689",
       "time": "2026-08-04 13:11:49",
