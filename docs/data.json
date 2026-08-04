@@ -1,7 +1,113 @@
 {
-  "updated": "2026-08-04 15:27:07",
-  "count": 17685,
+  "updated": "2026-08-04 15:31:03",
+  "count": 17683,
   "items": [
+    {
+      "id": "te:markets:572419",
+      "time": "2026-08-04 15:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.45% Higher — The CAC 40 Index is up by 39 points or 0.45 percent on Tuesday. Top gainers are STMicroelectronics (4.49%), Schneider Electric (2.52%) and Thales (2.44%). Biggest losses came from Kering (-2.79%), Renault (-1.51%) and L'Oréal (-1.32%)."
+    },
+    {
+      "id": "mkt:019fcbad-e954-7aab-8f67-e2111bb1f830",
+      "time": "2026-08-04 15:29:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【CFR senior fellow: U.S.-Iran nuclear talks, comprehensive peace deal remain remote】Charles Kupchan, senior fellow at the Council on Foreign Relations, said a limited accord to reopen the Strait of Hormuz is conceivable, but a comprehensive agreement on Iran’s nuclear program and broader peace talks remain out of reach. He added a framework to reopen the strait might be possible, but there is no substantive nuclear deal and its realization is still doubtful."
+    },
+    {
+      "id": "5023946",
+      "time": "2026-08-04 15:29:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“白海豚”再次加強為超強颱風 中心附近最大風力16級】今天下午14時前後，颱風“白海豚”再次加強為超強颱風，中心附近最大風力16級（52米/秒）。中國天氣網氣象分析師葉夢龍介紹，“白海豚”剛剛“遊”過了一片高海溫區（30°以上），同時目前垂直風切變較小，都利於它變強。預計“白海豚”將以每小時20-25公里的速度向偏西方向移動，強度還將有所增強。（中國天氣）"
+    },
+    {
+      "id": "5023945",
+      "time": "2026-08-04 15:29:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "義大利萊昂納多公司股價延續漲勢，漲幅達3%。"
+    },
+    {
+      "id": "5023944",
+      "time": "2026-08-04 15:29:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為輪值董事長汪濤一行蒞臨牧原參觀交流】8月3日，華為技術有限公司輪值董事長汪濤一行蒞臨牧原參觀交流。牧原股份終身榮譽董事長秦英林、總裁高曈參與接待。華為公司一行實地參觀了牧原生豬育種中心，詳細瞭解飼料廠智慧加工生產、智慧養豬、臭氣治理及零碳園區建設等領域的創新實踐。隨後座談會上，雙方圍繞AI算力底座建設、行業智慧體應用、智慧園區共建與海外業務發展等議題展開交流。汪濤輪值董事長回顧雙方合作歷程，並分享了華為在數智化轉型與AI應用等方面的前沿成果。他表示，希望雙方透過技術協同與管理創新，推動農牧產業數智化邁向新高度。高曈總裁表示，未來雙方將共同探索AI技術賦能現代養殖業的新模式，為中國農業現代化與全球化發展注入新動能。(牧原集團)"
+    },
+    {
+      "id": "mkt:019fcbac-c064-7aab-8f67-dfbf52e17d7f",
+      "time": "2026-08-04 15:28:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Typhoon White Dolphin re-intensifies to super typhoon; max winds near center 52 m/s】Around 1400 Beijing time, Typhoon White Dolphin re-strengthened to a super typhoon, with maximum winds near the center of 52 m/s. The system has just passed over a high sea-surface-temperature zone (>30°C) and is currently under relatively low vertical wind shear, factors favorable for intensification. It is forecast to move westward at about 20–25 km/h and is expected to strengthen further."
+    },
+    {
+      "id": "5023943",
+      "time": "2026-08-04 15:28:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨：諒解備忘錄的路徑是實現以色列撤軍的那條路，若非抵抗運動的堅韌不拔，什麼都不會實現。"
+    },
+    {
+      "id": "te:economy:572418",
+      "time": "2026-08-04 15:27:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "India 10Y Yield Eases Ahead of RBI Decision — The yield on India’s 10-year G-Sec hovered around 6.8%, retreating from recent gains as investors turned cautious ahead of the Reserve Bank of India's policy decision, with markets widely expecting the central bank to keep its key interest rate unchanged. Lower oil prices from the previous session also improved sentiment, supporting bond demand despite Brent crude rebounding to around $84.8 per barrel on Tuesday. Traders largely stayed on the sidelines ahead of the policy outcome and guidance on growth and inflation, while also awaiting the auction of INR 268.5 billion in state bonds. Although sentiment remained weighed by Bloomberg Index Services' decision to defer India's inclusion in its flagship Global Aggregate Index, the setback was partly offset by expectations of steady monetary policy and continued foreign inflows, with overseas investors having purchased INR 367 billion of bonds under the Fully Accessible Route since the beginning of June."
+    },
+    {
+      "id": "mkt:019fcbab-3c45-7aab-8f67-d72d9fdd127a",
+      "time": "2026-08-04 15:27:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple's annual sales in India topped $10bn for the first time."
+    },
+    {
+      "id": "5023942",
+      "time": "2026-08-04 15:26:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【瑞士多地奶牛患病 疑似感染此前境內未見病毒】瑞士聯邦食品安全和獸醫局3日說，自7月中旬以來，瑞士多地報告奶牛患病，出現發熱、腹瀉、產奶量下降等症狀，疑似感染一種此前未在該國境內出現的病毒。聯邦食品安全和獸醫局說，瑞士病毒學和免疫學研究所在一些急性發病的奶牛體內檢測到一種屬於辛布血清群的正布尼亞病毒，正開展基因檢測以進一步確定病毒型別，並確認是否為奶牛患病原因。據悉，正布尼亞病毒主要透過蠓蟲叮咬在反芻動物間傳播，尚無疫苗。瑞士病毒學和免疫學研究所說，這種辛布血清群正布尼亞病毒主要分佈於非洲、亞洲和澳大利亞。常見的赤羽病病毒即屬於辛布血清群。這家研究所的初步調查結果與法國、德國方面掌握的證據一致，兩國也懷疑有同類病毒正在傳播。研究人員表示，尚不清楚這些奶牛病例是否與近期歐洲高溫天氣有關聯，但高溫會給奶牛、尤其是高產奶牛造成熱應激，可能增加患病風險。（央視新聞）"
+    },
+    {
+      "id": "5023941",
+      "time": "2026-08-04 15:26:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本鋼鐵工程控股公司（新日本製鐵）首席財務官：將美國鋼鐵業務2026財年的核心利潤預測上調800億日元，至1800億日元及以上。"
+    },
     {
       "id": "5023940",
       "time": "2026-08-04 15:25:49",
@@ -163689,141 +163795,6 @@
         "Importance 1"
       ],
       "text": "The DAX Index Opens 0.63% Higher — The DAX Index is picking up 161 points or 0.63 percent on Tuesday. Gains are led by Mercedes-Benz AG (4.84%), Porsche Automobil (3.03%) and BMW (2.92%). Biggest losers are Infineon (-1.33%), Fresenius Medical Care (-1.28%) and Qiagen NV (-0.89%)."
-    },
-    {
-      "id": "5011771",
-      "time": "2026-07-28 15:30:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商務部：中國補貼平等適用於各類市場經營主體 外商投資企業積極參與、同等受益】商務部世界貿易組織司司長韓勇28日在國新辦新聞釋出會上表示，中國始終嚴格遵守世貿組織規則，致力於建立完善符合國際慣例的財政補貼體系。多年來，中國多措並舉，持續提升補貼的合規性、科學性和透明度，不斷規範和完善相關政策，對部分地方一些不當補貼進行清理和規範，研究建立統一的地方財政補貼負面清單管理機制。中國及時全面履行世貿組織透明度義務，提交的補貼政策通報做到了全國覆蓋。中國補貼主要補在科技研發、技術產業化攻關、市場消費等環節，更多采用公共服務、技術標準、技能培訓等市場化、引導性手段，重點支援技術研發創新、中小企業發展、綠色節能等領域。中國補貼平等適用於各類市場經營主體，做到了一視同仁，外商投資企業積極參與、同等受益。"
-    },
-    {
-      "id": "mkt:019fa7a1-f957-7aab-8ec3-341c6061b9ae",
-      "time": "2026-07-28 15:30:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed down 1.07% at 882.5 yuan/gram on July 28 (Tuesday); silver T+D closed down 2.97% at 14,036 yuan/kg."
-    },
-    {
-      "id": "mkt:019fa7a1-e9fe-7aab-8ec3-2dd5d27ff31f",
-      "time": "2026-07-28 15:30:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "XAUUSD",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225"
-      ],
-      "text": "NHK reports Japan issued a tsunami warning following an earthquake."
-    },
-    {
-      "id": "mkt:019fa7a1-b63f-7aab-8ec3-203d6ecde1fb",
-      "time": "2026-07-28 15:30:20",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "NIED says Kumamoto prefecture could reach a maximum seismic intensity of 7 on Japan's 1–7 scale."
-    },
-    {
-      "id": "mkt:019fa7a1-7d7e-7aab-8ec3-19ffdd181da4",
-      "time": "2026-07-28 15:30:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "WTI",
-        "Impact bearish",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "【European equities open higher as falling oil prices lift risk appetite】Falling oil prices lifted risk appetite and European equities opened higher. Stoxx Europe 600 +0.3%. FTSE 100 slightly higher; Unilever Q2 sales beat expectations, shares +4.9%, while Barclays shares fell 4.9% after reporting larger-than-expected credit impairment charges. CAC 40 +0.6%; LVMH shares +1.1% on strong sales, boosting the luxury sector. DAX +0.7%, led by autos after Mercedes‑Benz Group revenue beat and shares jumped 5.5%. AEX +0.4%; ASML extended prior-session losses, -0.7%. IBEX 35 +0.45%. FTSE MIB -0.3%."
-    },
-    {
-      "id": "te:markets:570334",
-      "time": "2026-07-28 15:30:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.60% Higher — The CAC 40 Index is up by 50 points or 0.60 percent on Tuesday. Top gainers are Orange (3.67%), Safran (3.09%) and Renault (2.94%). Biggest losses came from STMicroelectronics (-2.10%), Air Liquide (-1.99%) and Michelin (-1.80%)."
-    },
-    {
-      "id": "5011770",
-      "time": "2026-07-28 15:29:52",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "日本發生地震後已釋出海嘯預警。"
-    },
-    {
-      "id": "5011769",
-      "time": "2026-07-28 15:29:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本廣播協會（NHK）表示，此次日本地震在熊本縣測得的烈度或達到日本1-7烈度等級體系的最高階7級。"
-    },
-    {
-      "id": "mkt:019fa7a0-80f8-7aab-8ec3-11822459f4b5",
-      "time": "2026-07-28 15:29:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Japan's NIED reports an earthquake in Kyushu with preliminary magnitude 7.1."
-    },
-    {
-      "id": "5011768",
-      "time": "2026-07-28 15:28:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本九州發生地震，初步測定震級為7.1級。日本氣象廳稱，初步估計日本地震震級為6.3級。"
-    },
-    {
-      "id": "5011767",
-      "time": "2026-07-28 15:28:42",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管基層基礎能力建設專題研討會在京召開】7月26日至7月27日上午，市場監管基層基礎能力建設專題研討會在京召開。會議以習近平新時代中國特色社會主義思想為指導，深入學習領會習近平黨建思想、習近平總書記關於樹立和踐行正確政績觀的重要論述，全面貫徹黨的二十大和二十屆歷次全會精神，認真落實黨中央、國務院決策部署，以正確政績觀為引領，推動實施《市場綜合監管體系建設“十五五”規劃》，大力推進市場監管基層基礎能力建設。總局黨組書記、局長羅文出席會議並講話。\n\n會議指出，近年來，在各級黨委、政府大力支援下，全系統持續加強基層基礎能力建設，因地制宜最佳化力量配置、強化資源保障、提升能力素養，進行了一系列改革探索，取得了積極成效。基層履職條件得到改善，隊伍專業化建設持續推進，資金投入渠道不斷拓寬，科技賦能取得積極成效，系統行風狀況向好轉變。\n\n會議強調，要清醒認識基層基礎能力建設存在的突出問題，牢固樹立大抓基層、服務基層的鮮明導向，紮實推進基層基礎能力建設重點任務，加快健全末端發力、終端見效的監管機制。一是最佳化各層級職能配置，健全上下聯動工作機制，推動監管職責與資源能力相匹配。二是加大市場監管所建設力度，以等級評定為抓手，推動加強資源配備、完善制度機制、提高監管能力，切實為基層增效減負。三是增強技術機構專業能力，著力最佳化機構佈局、強化公益屬性、更新儀器裝置、填補建設空白。四是深入開展執法隊伍“清風鐵紀”教育整頓，聚焦“為何執法、為誰執法”突出抓好思想作風建設，嚴肅查處違規違紀行為，常態長效開展風紀監督。五是大力提升監管執法隊伍專業水平，推動最佳化隊伍結構，提高隊伍業務能力，加強專業隊伍建設。\n\n會議強調，今年下半年是市場監管“十五五”規劃啟動實施的關鍵階段，要全面貫徹黨中央、國務院決策部署，牢固樹立和踐行正確政績觀，堅持以能力建設為主線、以基層基礎為重點、以提高監管效能為目標，加快完善與超大規模市場健康發展相適應的市場綜合監管體系，為推動經濟社會高質量發展貢獻更大力量。"
-    },
-    {
-      "id": "mkt:019fa79f-e94f-7aab-8ec3-0a6e3b8c98b2",
-      "time": "2026-07-28 15:28:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc said a magnitude-3.1 earthquake occurred at 15:24 on July 28 in Xinghai County, Hainan Prefecture, Qinghai (35.37°N, 99.57°E); focal depth 10 km."
-    },
-    {
-      "id": "5011766",
-      "time": "2026-07-28 15:27:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【綠城中國16.86億元競得廣州荔灣宅地，溢價率40.97%】7月28日，廣州荔灣區一宗涉宅用地迎來正式出讓，該地塊地處荔灣花地灣板塊核心，為原芳村客運站舊改地塊。根據競價結果，經過50輪出價後，綠城中國（03900.HK）旗下廣州綠晟房地產開發有限公司以總價約16.86億元競得地塊，溢價率40.97%。"
     }
   ]
 }
