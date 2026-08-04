@@ -1,7 +1,155 @@
 {
   "date": "2026-08-04",
-  "count": 2555,
+  "count": 2572,
   "items": [
+    {
+      "id": "mkt:019fcce1-25a0-7aab-8f70-d5ac6f7853af",
+      "time": "2026-08-04 21:05:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Surface euphoria, underlying defensiveness behind US record highs】US equities rallied overnight—Dow hit a record and the Nasdaq rose about 2%—but internals show a split between headline gains and defensive positioning. Benzinga reports the move was driven by dip-buying in previously oversold tech leaders and lower oil easing inflation fears. The CNN Fear & Greed index remains neutral-to-fearful, indicating limited broad risk appetite. Morgan Stanley strategists warn elevated long‑end US Treasury yields continue to physically squeeze high‑valuation stocks. Bernstein analyst Douglas Harned says investors remain highly cautious about returns from tech giants' large AI capex."
+    },
+    {
+      "id": "mkt:019fcce0-f404-7aab-8f70-cd1f72d3f122",
+      "time": "2026-08-04 21:05:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Maritime workers' strike blocks vessels from Argentine grain ports】The Argentine Grain Exporters and Processors Association (CIARA-CEC) said on Tuesday a maritime workers strike has left vessels unable to enter or exit Argentina's grain ports, halting operations at the country's main agricultural export hubs. Argentina is among the world's largest exporters of soybean meal, soybean oil and corn, with most cargo moved via ports along the Parana River; the strike's duration and the number of affected vessels are unclear."
+    },
+    {
+      "id": "te:markets:572567",
+      "time": "2026-08-04 21:05:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Falls to Over 5-Week Low — Gasoline in the US fell below $2.90 per gallon, the lowest level since June 26, as easing geopolitical tensions weighed on energy prices. Sentiment improved after Qatar announced that a draft proposal to revive US-Iran negotiations was being circulated, although officials stressed that no agreement had yet been reached. Qatar, a key mediator between Washington and Tehran, said the immediate goal was to secure a short-term arrangement to reduce tensions. Earlier, President Donald Trump delayed planned military strikes on Iran to allow more time for diplomacy. Meanwhile, gasoline prices remain more than 30% above year-ago levels, as limited US refining capacity continues to constrain fuel supplies and restrict the industry's ability to boost production. In Russia, the government extended its diesel and gasoline export ban through January 2027 as fuel shortages persisted amid continued Ukrainian strikes on major oil refineries."
+    },
+    {
+      "id": "5024880",
+      "time": "2026-08-04 21:05:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "奧地利錄得 40.8 攝氏度歷史最高氣溫。"
+    },
+    {
+      "id": "5024879",
+      "time": "2026-08-04 21:04:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐盟向西班牙提供援助 加強休達外部邊界管控】歐盟各國內政部長4日舉行緊急視訊會議，討論稍早前發生在西班牙飛地休達的大規模非法移民入境事件。布魯納稱，此次會議確認，上週非法移民進入休達後，沒有人繼續前往西班牙本土或其他歐盟成員國。會上，各國內政部長對西班牙表示聲援。布魯納表示，歐盟已向西班牙提供財政和行動支援。歐洲邊境管理局（Frontex）已派出30名官員進駐休達，並準備進一步擴大支援力度。他還表示，歐盟目前正與摩洛哥就一項戰略性全面夥伴關係協議進行談判。布魯納指出，休達移民事件是由犯罪走私網路和社交媒體上的虛假資訊引發的。（央視新聞）"
+    },
+    {
+      "id": "5024878",
+      "time": "2026-08-04 21:04:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "IBM和紅帽公司將向超過185所研究型大學及100家主要非政府組織和智庫免費提供Lightwell。"
+    },
+    {
+      "id": "mkt:019fccdf-f47b-7aab-8f70-c0424bc26713",
+      "time": "2026-08-04 21:04:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senate Judiciary Committee convened to vote on the nomination of Todd Blanche to be U.S. attorney general."
+    },
+    {
+      "id": "5024876",
+      "time": "2026-08-04 21:04:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "WEBULL：使用者可透過CHATGPT、CLAUDE和GROK訪問賬戶及市場資料。"
+    },
+    {
+      "id": "5024875",
+      "time": "2026-08-04 21:03:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "WEBULL：推出CHATGPT、CLAUDE與GROK聯結器、命令列介面及增強型MCP，以擴充套件人工智慧驅動的投資工具。"
+    },
+    {
+      "id": "5024874",
+      "time": "2026-08-04 21:03:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行：發展中經濟體中4.5%的就業崗位面臨AI威脅，而富裕國家為14.2%。需要更好的資料和更多的計算能力以加速人工智慧的採用。預計人工智慧將彌補發展中經濟體高技能勞動力的短缺。"
+    },
+    {
+      "id": "mkt:019fccdf-1062-7aab-8f70-b95b1943710d",
+      "time": "2026-08-04 21:03:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Chinese Defense Ministry spokesman Chen Xi responds to Japan's 2026 Defense White Paper】Japan published its 2026 Defense White Paper, calling China’s military developments an \"unprecedentedly large strategic challenge\" and saying Chinese activity around Taiwan has become more frequent. Chinese Defense Ministry spokesman Chen Xi said the white paper is full of false narratives, accused Tokyo of manufacturing a \"peripheral security crisis\" and hyping a \"China threat\" to justify loosening military restraints, and expressed strong opposition. He accused Japan’s ruling authorities of hiding behind \"exclusively defensive\" rhetoric while accelerating revisions to the \"three security documents\", raising defense spending, developing long-range offensive capabilities, weaponizing and operationalizing space, and packaging military-industrial expansion as economic growth to embed rearmament into institutions, industry and public opinion. Chen called Japan’s \"new militarism\" a serious challenge to the post‑war international order and a real threat to regional peace and stability, reiterated that the Taiwan issue concerns China’s sovereignty and is an inviolable red line, and urged Japan to reflect on its history, stop interfering in China’s internal affairs and abandon further \"remilitarization\"."
+    },
+    {
+      "id": "mkt:019fccde-f1d8-7aab-8f70-b207fdd46ee3",
+      "time": "2026-08-04 21:03:10",
+      "tags": [
+        "MKT News",
+        "IBM.N"
+      ],
+      "text": "IBM (IBM.N) and Red Hat will provide free access to Lightwell for more than 185 research universities and 100 major NGOs and think tanks."
+    },
+    {
+      "id": "5024873",
+      "time": "2026-08-04 21:03:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國防部新聞發言人陳曦就日本政府2026版《防衛白皮書》答記者問】記者：據報道，日本正式公佈2026年版《防衛白皮書》，誣稱中國軍事動向是“前所未有的最大戰略挑戰”，並稱中方在臺灣周邊軍事活動趨於頻繁，日本週邊安全戰略環境正處於戰後最為嚴峻複雜的時期。請問對此有何評論？陳曦：日新版《防衛白皮書》充斥虛假敘事，大肆渲染“周邊安全危機”，炒作所謂“中國威脅”，完全是賊喊捉賊，為自身軍事鬆綁找藉口。我們對此強烈不滿、堅決反對。"
+    },
+    {
+      "id": "mkt:019fccde-1a67-7aab-8f70-ab92bd3bf1c8",
+      "time": "2026-08-04 21:02:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Webull launched connectors for ChatGPT, Claude and Grok, a command-line interface and an enhanced MCP to expand its AI-driven investment toolset."
+    },
+    {
+      "id": "5024872",
+      "time": "2026-08-04 21:02:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMAE 與谷歌健康將整合可穿戴裝置資料。"
+    },
+    {
+      "id": "5024870",
+      "time": "2026-08-04 21:01:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌4%，現報4728.00元。"
+    },
+    {
+      "id": "5024869",
+      "time": "2026-08-04 21:01:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲1%，現報892.00元。"
+    },
     {
       "id": "mkt:019fccdc-d3a8-7aab-8f70-a43089155b46",
       "time": "2026-08-04 21:00:51",

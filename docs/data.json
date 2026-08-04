@@ -1,7 +1,155 @@
 {
-  "updated": "2026-08-04 21:02:14",
+  "updated": "2026-08-04 21:06:09",
   "count": 17817,
   "items": [
+    {
+      "id": "mkt:019fcce1-25a0-7aab-8f70-d5ac6f7853af",
+      "time": "2026-08-04 21:05:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Surface euphoria, underlying defensiveness behind US record highs】US equities rallied overnight—Dow hit a record and the Nasdaq rose about 2%—but internals show a split between headline gains and defensive positioning. Benzinga reports the move was driven by dip-buying in previously oversold tech leaders and lower oil easing inflation fears. The CNN Fear & Greed index remains neutral-to-fearful, indicating limited broad risk appetite. Morgan Stanley strategists warn elevated long‑end US Treasury yields continue to physically squeeze high‑valuation stocks. Bernstein analyst Douglas Harned says investors remain highly cautious about returns from tech giants' large AI capex."
+    },
+    {
+      "id": "mkt:019fcce0-f404-7aab-8f70-cd1f72d3f122",
+      "time": "2026-08-04 21:05:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Maritime workers' strike blocks vessels from Argentine grain ports】The Argentine Grain Exporters and Processors Association (CIARA-CEC) said on Tuesday a maritime workers strike has left vessels unable to enter or exit Argentina's grain ports, halting operations at the country's main agricultural export hubs. Argentina is among the world's largest exporters of soybean meal, soybean oil and corn, with most cargo moved via ports along the Parana River; the strike's duration and the number of affected vessels are unclear."
+    },
+    {
+      "id": "te:markets:572567",
+      "time": "2026-08-04 21:05:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Falls to Over 5-Week Low — Gasoline in the US fell below $2.90 per gallon, the lowest level since June 26, as easing geopolitical tensions weighed on energy prices. Sentiment improved after Qatar announced that a draft proposal to revive US-Iran negotiations was being circulated, although officials stressed that no agreement had yet been reached. Qatar, a key mediator between Washington and Tehran, said the immediate goal was to secure a short-term arrangement to reduce tensions. Earlier, President Donald Trump delayed planned military strikes on Iran to allow more time for diplomacy. Meanwhile, gasoline prices remain more than 30% above year-ago levels, as limited US refining capacity continues to constrain fuel supplies and restrict the industry's ability to boost production. In Russia, the government extended its diesel and gasoline export ban through January 2027 as fuel shortages persisted amid continued Ukrainian strikes on major oil refineries."
+    },
+    {
+      "id": "5024880",
+      "time": "2026-08-04 21:05:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "奧地利錄得 40.8 攝氏度歷史最高氣溫。"
+    },
+    {
+      "id": "5024879",
+      "time": "2026-08-04 21:04:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐盟向西班牙提供援助 加強休達外部邊界管控】歐盟各國內政部長4日舉行緊急視訊會議，討論稍早前發生在西班牙飛地休達的大規模非法移民入境事件。布魯納稱，此次會議確認，上週非法移民進入休達後，沒有人繼續前往西班牙本土或其他歐盟成員國。會上，各國內政部長對西班牙表示聲援。布魯納表示，歐盟已向西班牙提供財政和行動支援。歐洲邊境管理局（Frontex）已派出30名官員進駐休達，並準備進一步擴大支援力度。他還表示，歐盟目前正與摩洛哥就一項戰略性全面夥伴關係協議進行談判。布魯納指出，休達移民事件是由犯罪走私網路和社交媒體上的虛假資訊引發的。（央視新聞）"
+    },
+    {
+      "id": "5024878",
+      "time": "2026-08-04 21:04:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "IBM和紅帽公司將向超過185所研究型大學及100家主要非政府組織和智庫免費提供Lightwell。"
+    },
+    {
+      "id": "mkt:019fccdf-f47b-7aab-8f70-c0424bc26713",
+      "time": "2026-08-04 21:04:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senate Judiciary Committee convened to vote on the nomination of Todd Blanche to be U.S. attorney general."
+    },
+    {
+      "id": "5024876",
+      "time": "2026-08-04 21:04:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "WEBULL：使用者可透過CHATGPT、CLAUDE和GROK訪問賬戶及市場資料。"
+    },
+    {
+      "id": "5024875",
+      "time": "2026-08-04 21:03:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "WEBULL：推出CHATGPT、CLAUDE與GROK聯結器、命令列介面及增強型MCP，以擴充套件人工智慧驅動的投資工具。"
+    },
+    {
+      "id": "5024874",
+      "time": "2026-08-04 21:03:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行：發展中經濟體中4.5%的就業崗位面臨AI威脅，而富裕國家為14.2%。需要更好的資料和更多的計算能力以加速人工智慧的採用。預計人工智慧將彌補發展中經濟體高技能勞動力的短缺。"
+    },
+    {
+      "id": "mkt:019fccdf-1062-7aab-8f70-b95b1943710d",
+      "time": "2026-08-04 21:03:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Chinese Defense Ministry spokesman Chen Xi responds to Japan's 2026 Defense White Paper】Japan published its 2026 Defense White Paper, calling China’s military developments an \"unprecedentedly large strategic challenge\" and saying Chinese activity around Taiwan has become more frequent. Chinese Defense Ministry spokesman Chen Xi said the white paper is full of false narratives, accused Tokyo of manufacturing a \"peripheral security crisis\" and hyping a \"China threat\" to justify loosening military restraints, and expressed strong opposition. He accused Japan’s ruling authorities of hiding behind \"exclusively defensive\" rhetoric while accelerating revisions to the \"three security documents\", raising defense spending, developing long-range offensive capabilities, weaponizing and operationalizing space, and packaging military-industrial expansion as economic growth to embed rearmament into institutions, industry and public opinion. Chen called Japan’s \"new militarism\" a serious challenge to the post‑war international order and a real threat to regional peace and stability, reiterated that the Taiwan issue concerns China’s sovereignty and is an inviolable red line, and urged Japan to reflect on its history, stop interfering in China’s internal affairs and abandon further \"remilitarization\"."
+    },
+    {
+      "id": "mkt:019fccde-f1d8-7aab-8f70-b207fdd46ee3",
+      "time": "2026-08-04 21:03:10",
+      "tags": [
+        "MKT News",
+        "IBM.N"
+      ],
+      "text": "IBM (IBM.N) and Red Hat will provide free access to Lightwell for more than 185 research universities and 100 major NGOs and think tanks."
+    },
+    {
+      "id": "5024873",
+      "time": "2026-08-04 21:03:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國防部新聞發言人陳曦就日本政府2026版《防衛白皮書》答記者問】記者：據報道，日本正式公佈2026年版《防衛白皮書》，誣稱中國軍事動向是“前所未有的最大戰略挑戰”，並稱中方在臺灣周邊軍事活動趨於頻繁，日本週邊安全戰略環境正處於戰後最為嚴峻複雜的時期。請問對此有何評論？陳曦：日新版《防衛白皮書》充斥虛假敘事，大肆渲染“周邊安全危機”，炒作所謂“中國威脅”，完全是賊喊捉賊，為自身軍事鬆綁找藉口。我們對此強烈不滿、堅決反對。"
+    },
+    {
+      "id": "mkt:019fccde-1a67-7aab-8f70-ab92bd3bf1c8",
+      "time": "2026-08-04 21:02:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Webull launched connectors for ChatGPT, Claude and Grok, a command-line interface and an enhanced MCP to expand its AI-driven investment toolset."
+    },
+    {
+      "id": "5024872",
+      "time": "2026-08-04 21:02:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMAE 與谷歌健康將整合可穿戴裝置資料。"
+    },
+    {
+      "id": "5024870",
+      "time": "2026-08-04 21:01:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌4%，現報4728.00元。"
+    },
+    {
+      "id": "5024869",
+      "time": "2026-08-04 21:01:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲1%，現報892.00元。"
+    },
     {
       "id": "mkt:019fccdc-d3a8-7aab-8f70-a43089155b46",
       "time": "2026-08-04 21:00:51",
@@ -164752,171 +164900,6 @@
         "Important"
       ],
       "text": "United States | S&P/Case Shiller 20-City Composite Unadjusted Home Price Index (May) | actual 348.62 | previous 441.4"
-    },
-    {
-      "id": "5012575",
-      "time": "2026-07-28 21:05:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱在伊朗問題上地位強勢】今天（7月28日），美國總統特朗普在接受採訪時表示，“伊朗明白他們永遠不會擁有核武器，並已公開表示雙方正在進行對話。伊朗位於納坦茲以南的‘鎬山’地下設施並非大問題——但如果沒能與伊朗達成協議，美軍將摧毀‘鎬山’。美國目前在伊朗問題上處於非常強勢的地位。” 特朗普稱，希望能避免攻擊伊朗的發電廠和橋樑，但也“不能再容忍伊朗破壞協議”。（CCTV國際時訊）"
-    },
-    {
-      "id": "5012574",
-      "time": "2026-07-28 21:04:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傲農生物：持股5%以上股東權益變動，比例降至10.98%】傲農生物公告稱，吳有林及其一致行動人權益變動前合計持股比例為11.26%，變動後為10.98%。2026年6月，公司限制性股票激勵計劃首次授予登記使相關股東持股比例被動稀釋。6月14 - 15日，吳有林持有的788萬股公司股票被司法拍賣，7月27日完成過戶。本次變動未違反承諾，不觸發要約收購，不會導致控股股東變化，不影響公司經營。後續相關股東持股情況存在不確定性。"
-    },
-    {
-      "id": "5012573",
-      "time": "2026-07-28 21:04:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "希爾頓執行長：電話會議發言稱，各規模門店與各業務板塊的旅行需求持續改善，為公司營收與利潤表現提供了支撐。"
-    },
-    {
-      "id": "5012572",
-      "time": "2026-07-28 21:04:33",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利投資管理推出以太坊與索拉納信託型交易所交易產品。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607283823761629",
-      "time": "2026-07-28 21:04:29",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國5月S&P/CS20座大城市季調後房價指數環比0.15%】7月28日，美國5月S&P/CS20座大城市季調後房價指數環比0.15%，前值-0.04%。"
-    },
-    {
-      "id": "5012571",
-      "time": "2026-07-28 21:03:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【築友智造科技：控股股東向喬書民出售12.86%股份，代價1594.9萬港元】築友智造科技公告，公司控股股東胡葆森全資持有的嘉耀（國際）投資有限公司於2026年7月28日交易時段後訂立協議，向喬書民女士出售3.99億股普通股，佔公司已發行股本約12.86%，代價為1594.9萬港元。出售事項完成後，賣方持股比例將由47.37%降至34.51%，胡葆森持股總數降至52.41%，仍為公司控股股東。董事會預期出售事項不會對業務營運、財務狀況或管理層組成造成不利影響。"
-    },
-    {
-      "id": "mkt:019fa8d2-bb40-7aab-8ecd-c384c3156309",
-      "time": "2026-07-28 21:03:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "CENTCOM said the US-Arab joint task force will stand up within the next few weeks."
-    },
-    {
-      "id": "mkt:019fa8d2-6612-7aab-8ecd-bb10433ec808",
-      "time": "2026-07-28 21:03:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "CENTCOM said the US will launch a bilateral AI working group with the UAE."
-    },
-    {
-      "id": "5012570",
-      "time": "2026-07-28 21:03:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣汽埃安推出RAY全新車系】7月28日，廣汽埃安宣佈推出RAY全新車系，首臺車為中大型純電轎車Ray 7，將採用全新LOGO，搭載晶片級驅制融合架構、寧德時代電池、彈匣電池技術以及鐳射雷達。"
-    },
-    {
-      "id": "mkt:019fa8d2-2df8-7aab-8ecd-b64816bc2d9f",
-      "time": "2026-07-28 21:02:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact mixed",
-        "S&P500",
-        "DXY"
-      ],
-      "text": "US S&P/Case-Shiller 10-City non-seasonally adjusted house price index MoM +0.94% in May; prior +1.06%."
-    },
-    {
-      "id": "mkt:019fa8d2-1d7e-7aab-8ecd-a9f97afd7b27",
-      "time": "2026-07-28 21:02:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US May S&P/Case-Shiller 10-city composite home price index YoY 2.38% (prior 1.78%)."
-    },
-    {
-      "id": "5012569",
-      "time": "2026-07-28 21:02:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部訊息：美烏聯合專項工作組將於未來數週成立。"
-    },
-    {
-      "id": "mkt:019fa8d2-09a5-7aab-8ecd-a56a6b527b05",
-      "time": "2026-07-28 21:02:45",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | S&P/Case Shiller 10-City Home Price Index NSA (MoM) (May) | actual 0.94% | previous 1.06%"
-    },
-    {
-      "id": "mkt:019fa8d1-f5eb-7aab-8ecd-9b27d7e4bfc6",
-      "time": "2026-07-28 21:02:39",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | S&P/Case Shiller 10-City Home Price Index (YoY) (May) | actual 2.38% | previous 1.78%"
-    },
-    {
-      "id": "5012568",
-      "time": "2026-07-28 21:02:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：阿拉伯海灣國家外長週二將透過視訊會議討論霍爾木茲海峽問題。"
-    },
-    {
-      "id": "mkt:019fa8d1-a3b5-7aab-8ecd-947f395efe9e",
-      "time": "2026-07-28 21:02:18",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Meta will obtain Newsmax's digital news content."
-    },
-    {
-      "id": "5012567",
-      "time": "2026-07-28 21:02:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果據悉正準備釋出基於Siri人工智慧的智慧家居裝置。"
     }
   ]
 }
