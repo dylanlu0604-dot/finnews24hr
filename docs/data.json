@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-05 06:54:54",
-  "count": 17869,
+  "updated": "2026-08-05 06:58:45",
+  "count": 17865,
   "items": [
+    {
+      "id": "5025448",
+      "time": "2026-08-05 06:57:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名38歲的武裝嫌疑人珍妮娜·約翰·泰萊涉嫌監視特朗普到訪前的安保籌備工作，於特朗普國家高爾夫球場被捕。美國警方表示，之後在其住所搜出一支非法改裝的AR式步槍、防彈衣、大容量彈匣、彈藥，以及寫有“令人擔憂言論”的多本筆記本。"
+    },
+    {
+      "id": "5025447",
+      "time": "2026-08-05 06:55:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【能源衝擊拖累招聘 紐西蘭失業率升至11年高點】由於全球能源衝擊擠壓了企業利潤並限制了招聘，紐西蘭失業率在第二季上升到了11年以來的最高水平。紐西蘭統計局週三在惠靈頓公佈的資料顯示，失業率從三個月前修正的5.4%上升至5.6%。預估中值為5.4%。就業環比增長0.5%，高於預估的0.1%。紐西蘭的經濟復甦依然脆弱，因美國和伊朗的戰爭等地緣政治動盪推高了成本且削弱了企業信心。該國央行上個月開始提高利率來應對通脹壓力，預示著企業在短期內仍將對招聘持謹慎態度。"
+    },
+    {
+      "id": "5025446",
+      "time": "2026-08-05 06:54:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國出口勢頭火熱。美國商品出口額已連續五個月突破2000億美元，今年商品出口有望接近2.5萬億美元。"
+    },
     {
       "id": "te:economy:572701",
       "time": "2026-08-05 06:54:22",
@@ -165229,78 +165254,6 @@
         "Impact bearish"
       ],
       "text": "U.S. Federal Aviation Administration (FAA) issued a nationwide ground stop for American Airlines Group (AAL.O) flights due to an IT systems issue."
-    },
-    {
-      "id": "mkt:019faaf1-f4d5-7aab-8ed6-965a63b2a48d",
-      "time": "2026-07-29 06:56:51",
-      "tags": [
-        "MKT News",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix is evaluating additional shareholder-return measures to increase the scale and sustainability of returns."
-    },
-    {
-      "id": "5013084",
-      "time": "2026-07-29 06:56:42",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局（FAA）宣告：因資訊科技系統故障，全美範圍內暫停美國航空所有航班起降。"
-    },
-    {
-      "id": "mkt:019faaf1-9044-7aab-8ed6-89ef251b5f5f",
-      "time": "2026-07-29 06:56:25",
-      "tags": [
-        "MKT News",
-        "SKHY.O",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix (SKHY.O): long-term agreements will enhance medium- to long-term demand visibility."
-    },
-    {
-      "id": "5013083",
-      "time": "2026-07-29 06:56:15",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "SK海力士ADR美股盤後跌幅擴大至5.7%，該公司二季度運營利潤遜色於分析師預期。"
-    },
-    {
-      "id": "mkt:019faaf1-54d2-7aab-8ed6-8337fe9ac002",
-      "time": "2026-07-29 06:56:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "SKHY.O",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix (SKHY.O) expects Q3 NAND shipments to rise by low-single-digit percent QoQ."
-    },
-    {
-      "id": "mkt:019faaf0-d5bb-7aab-8ed6-7ed649968535",
-      "time": "2026-07-29 06:55:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "SKHY.O",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix (SKHY.O) expects Q3 DRAM shipments to rise about 10% quarter-on-quarter."
-    },
-    {
-      "id": "5013082",
-      "time": "2026-07-29 06:55:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK 海力士：第二代 SOCAMM 產品二季度銷量大幅增長。"
     }
   ]
 }
