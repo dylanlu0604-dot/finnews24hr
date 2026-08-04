@@ -1,7 +1,55 @@
 {
   "date": "2026-08-05",
-  "count": 506,
+  "count": 511,
   "items": [
+    {
+      "id": "5025461",
+      "time": "2026-08-05 07:11:47",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、奈米制造，探索微觀世界的無限可能（經濟新方位·製造業新趨勢）\n2、十億分之一米尺度上，材料有了新能力（延伸閱讀）\n3、以更大力度、更實舉措加強基礎研究，提升原始創新能力 上海向“新”而行底氣足（活力中國調研行）\n4、電子證照如何守護外賣食品安全（政策解讀·問答）\n5、中美經貿需要“合作清單”，而非“覆蓋清單”（鐘聲）\n6、服務提質，內需擴容有保障（評論員觀察）——2026中國經濟年中觀察③\n7、貴州印發“人工智慧+製造”實施方案\n8、從稅目變化看“中國智造”產業躍升（讀數）\n9、技術實力不斷增強，產品線更加豐富 中國機器人適配全球多元應用場景\n10、到二〇三〇年，郵政行業寄遞業務量達兩千九百億件 未來五年，寄遞網如何由大到強\n11、上半年海洋生產總值5.5萬億元 同比增長5.1%\n12、中國消費者協會等提醒消費者 私域渠道醫藥廣告陷阱多\n13、京津城際單日運送量升至22萬人次 開通18年累計運輸旅客超5.7億人次\n14、墨西哥加快推進能源轉型 已在16個州建成76座風電場\n15、從“新新三樣”看用好機遇和優勢（每週經濟評論）\n16、“十五五”專項規劃裡的“柴米油鹽”（商海觀潮）。"
+    },
+    {
+      "id": "5025460",
+      "time": "2026-08-05 07:11:38",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、“紮紮實實建設現代化產業體系”（總書記的人民情懷）\n2、規範涉企執法 最佳化營商環境（“十五五”開好局起好步）\n3、榆林推動發展方式綠色低碳轉型\n4、如何讓基層首診從“有”到“優”（政策問答·回應關切）\n5、我國成功發射衛星網際網路低軌23組衛星。"
+    },
+    {
+      "id": "te:economy:572704",
+      "time": "2026-08-05 07:11:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Australia Services Activity Growth Revised Higher — The S&P Global Flash Australia Services PMI Business Activity Index was revised higher to a six-month high of 53.6 in July 2026 from the initial estimate of 53.0 and after a final reading of 50.5 in the previous month. The latest reading marked a second consecutive month of growth, led by the real estate & business services and information & communication sectors, while transport & storage remained weak. Growth was supported by the first increase in new orders in five months, although export demand continued to decline. Employment rose for a second straight month at a solid pace, while backlogs of work increased for the first time in five months. On prices, input cost inflation eased to a five-month low despite higher fuel and wage costs, but firms raised selling prices at a faster pace to protect margins. Meanwhile, business confidence rebounded to its highest level since February, though companies remained cautious over persistent inflationary pressures and geopolitical uncertainty."
+    },
+    {
+      "id": "5025459",
+      "time": "2026-08-05 07:11:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行將2026年通脹預期上調至6.9%。"
+    },
+    {
+      "id": "5025458",
+      "time": "2026-08-05 07:10:28",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗集團為KKR收購Integer籌備24.5 億美元的債務融資】據知情人士透露，花旗集團正牽頭籌備一筆24.5億美元的債務融資，用於支援KKR集團收購醫療器械廠商Integer控股公司。不願具名的知情人士稱，該筆融資包含21億美元七年期定期貸款的實放債務，以及3.5億美元未動用迴圈信貸額度。除花旗集團外，巴克萊、瑞銀集團以及傑富瑞金融集團也將為本交易提供債務資金。知情人士補充，這筆債務或將在9月於美國槓桿貸款市場向投資者發售，交易條款仍在磋商，存在變動可能。KKR的代表拒絕置評，花旗集團與Integer暫未回應置評請求。"
+    },
     {
       "id": "5025457",
       "time": "2026-08-05 07:07:38",
