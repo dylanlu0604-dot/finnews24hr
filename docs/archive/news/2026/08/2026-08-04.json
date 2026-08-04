@@ -1,7 +1,124 @@
 {
   "date": "2026-08-04",
-  "count": 473,
+  "count": 486,
   "items": [
+    {
+      "id": "5023347",
+      "time": "2026-08-04 08:08:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍繼續空襲加沙 打死兩名哈馬斯武裝人員 】以軍3日發表宣告說，在2日對加沙地帶的空襲中打死兩名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）武裝人員。宣告說，被打死的兩人中，一人系哈馬斯“努赫巴”部隊指揮官，曾參與2023年10月7日針對以色列的襲擊，另一人系哈馬斯“達拉傑-圖法營”的指揮官。"
+    },
+    {
+      "id": "5023346",
+      "time": "2026-08-04 08:07:55",
+      "tags": [
+        "宏觀",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：如何看待美日聯合干預匯率？】中信證券研報指出，北京時間7月30日，日元大幅升值，市場普遍認為日本財務省入市買入日元，美東時間7月31日，日本財務省與美國財政部正式實施協調對日元匯率干預。這是1998年以來美日首次雙邊聯合買入日元，也是美國自2011年G7協調行動以來首次參與日元干預，日元兌美元短期內大幅升值。我們認為，聯合干預的實質是“穩定日元、隔離美債”：在日本單邊工具效果減弱後，美國以實際資金參與提升干預可信度，同時借FIMA等安排避免干預操作波及美債市場。美日聯合干預後，短期做空日元的風險收益比明顯惡化，但日本財政擴張與美日利差兩大貶值根源未變，日元尚難言趨勢反轉，重演2024年8月套息交易逆轉的機率不高。"
+    },
+    {
+      "id": "5023345",
+      "time": "2026-08-04 08:07:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.2%，報9,034.30點。"
+    },
+    {
+      "id": "5023344",
+      "time": "2026-08-04 08:05:46",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：銀行政策面樂觀，資金面積極】中信證券研報指出，基本面視角，預計2季度銀行息差表現良好、資本市場和財富業務驅動中收增長，在此背景下銀行營收增速保持穩定良好態勢，盈利增速或將小幅上行。投資視角看，上週銀行板塊延續7月以來的積極趨勢，但受市場風格影響周內指數大幅波動。我們預計，未來兩週A股波動率仍將保持偏高水平，銀行板塊相對收益或將走弱；但經營格局穩定和宏觀敘事等長邏輯仍在繼續演繹，全年絕對收益空間仍將延續。"
+    },
+    {
+      "id": "te:economy:572299",
+      "time": "2026-08-04 08:04:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Irish Factory Growth Strengthens in July — The AIB Ireland Manufacturing PMI edged up to 55.1 in July 2026 from 54.9 in June, marking its second-highest reading since May 2022 and signaling another strong improvement in factory conditions. Output and new orders continued to expand at robust rates, supported by stronger domestic demand, though export order growth slowed to its weakest pace since February amid geopolitical uncertainty. Employment rose at the fastest pace since May 2022 as firms added staff to meet healthy order books and expand production capacity. Purchasing activity and inventories increased further, although supply chains remained under pressure due to transportation delays and raw material shortages linked to the Middle East conflict. Input cost inflation eased to a five-month low, while output price inflation slowed to a four-month low. Business confidence strengthened to its highest since February, with nearly half of manufacturers expecting output to increase over the coming year."
+    },
+    {
+      "id": "mkt:019fca15-f60c-7aab-8f60-4c51c251581a",
+      "time": "2026-08-04 08:04:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "South Korea's KOSPI rose 2.00% in early trade."
+    },
+    {
+      "id": "5023343",
+      "time": "2026-08-04 08:04:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至2%】韓國綜指漲幅擴大至2%，現報6382.43點。個股方面，SK海力士漲超3%，三星電子漲超1%。"
+    },
+    {
+      "id": "mkt:019fca14-2131-7aab-8f60-405f2469e09a",
+      "time": "2026-08-04 08:02:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS",
+        "Nikkei 225"
+      ],
+      "text": "【KOSPI, Nikkei open higher】KOSPI opened up 77.7 points (+1.24%) at 6,335.15 on Aug. 4 (Tuesday); SK Hynix rose over 3% and Samsung Electronics gained more than 2%. Japan's Nikkei 225 opened up 193.23 points (+0.30%) at 63,948.13."
+    },
+    {
+      "id": "5023342",
+      "time": "2026-08-04 08:01:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4060美元/盎司，日內漲0.12%。"
+    },
+    {
+      "id": "5023341",
+      "time": "2026-08-04 08:01:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率下跌2.0個基點，至3.960%。"
+    },
+    {
+      "id": "5023340",
+      "time": "2026-08-04 08:00:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部：“十五五”時期將重點強化突發性地質災害防治能力】記者今天（4日）從自然資源部獲悉，《全國地質災害防治“十五五”實施方案》近日釋出，明確了“十五五”時期全國地質災害防治重點任務。截至2025年底，全國登記入庫地質災害點超27萬處，潛在威脅1100多萬人的安全。此次釋出的《方案》，針對我國地質災害“存量大”“變數多”的特點，明確以提升氣候變化風險應對能力為主線，健全完善高效科學的地質災害防治體系，全面提高基層抵禦地質災害的綜合能力，部署實施地質災害點和風險區動態調查等七項重點工程，並劃定了21個地質災害重點防治區。"
+    },
+    {
+      "id": "5023339",
+      "time": "2026-08-04 08:00:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤報6351.38點，上漲1.5%。"
+    },
     {
       "id": "5023338",
       "time": "2026-08-04 08:00:27",
@@ -17,6 +134,14 @@
         "市場"
       ],
       "text": "日經225指數上午開盤報63995.28點，漲幅0.38%。"
+    },
+    {
+      "id": "5023336",
+      "time": "2026-08-04 08:00:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【乾旱導致歐洲河流枯竭，船隻停航、發電廠關閉】歐洲正經歷一個極度乾燥的夏天，在降雨匱乏和酷熱高溫的背景下，從蘇格蘭到希臘已是野火頻發。如今，由於缺乏降雨，多瑙河和萊茵河的部分河段已萎縮成涓涓細流，威脅著長期依賴這些寬闊水道的行業。最顯著的影響正在多瑙河上顯現，那裡的水位已大幅下降，甚至露出了第二次世界大戰時期的遺留炸彈以及年代更久遠的猛獁象骨骸。水位過低導致部分核電站無法執行冷卻系統。在羅馬尼亞，切爾納沃德核電站的兩座反應堆中已有一座被關閉，軍方近日引爆了炸藥，計劃藉此將更多河水從另一條河道引至該核電站。在匈牙利，由於河中沒有足夠的水來維持冷卻，該國唯一核電站的四座反應堆中已有三座被關閉。保克什核電站通常佔該國發電量的40%。上週，匈牙利境內多瑙河的水位降至有記錄以來的最低水平。在本週氣溫料將升至華氏100度以上之際，匈牙利總理彼得.毛焦爾週一在社交媒體上表示：“最艱難的五天即將到來。”此次停電加劇了毛焦爾本已面臨的經濟難題，他正面臨削減財政赤字和促進經濟增長的壓力。凱投宏觀首席新興市場經濟學家威廉.傑克遜(William Jackson)表示，曠日持久的能源危機可能會迫使政府加大對電力行業的資金支援，並阻礙製造業投資。“如果存在對能源可靠性的擔憂，這很可能會影響投資決策，”他說。"
     },
     {
       "id": "5023335",
