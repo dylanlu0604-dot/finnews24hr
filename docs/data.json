@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-05 01:26:22",
-  "count": 17771,
+  "updated": "2026-08-05 01:30:12",
+  "count": 17769,
   "items": [
+    {
+      "id": "mkt:019fcdd2-9561-7aab-8f75-51e0727bf471",
+      "time": "2026-08-05 01:29:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran says \"positive progress\" in talks with Oman on Strait of Hormuz】IRNA reported on the 4th that Iranian foreign ministry spokesman Baghaei said Iran is negotiating with Oman on the Strait of Hormuz and has made \"positive progress\" at technical and political levels. Talks are focused on defining safe navigation routes; Iran and Oman are jointly developing the \"necessary mechanisms\" to manage shipping through the strait, with final outcomes to be announced after negotiations conclude."
+    },
+    {
+      "id": "5025205",
+      "time": "2026-08-05 01:28:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：與阿曼就霍爾木茲海峽談判取得“積極進展” 】伊朗外交部發言人巴加埃4日說，伊朗仍在與阿曼就霍爾木茲海峽進行談判，談判在技術和政治層面取得“積極進展”。據伊朗伊斯蘭共和國通訊社報道，巴加埃說，此次談判重點是確定船舶可安全行駛的航道。伊朗正與阿曼合作制定管理該海峽航運的“必要機制”，雙方談判全部結束後將向外界公佈最終結果。（新華社）"
+    },
+    {
+      "id": "mkt:019fcdd0-f8bc-7aab-8f75-4f91a69a774c",
+      "time": "2026-08-05 01:27:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Fitch Ratings says new U.S. student-visa rules will put pressure on some universities."
+    },
     {
       "id": "mkt:019fcdcc-98c5-7aab-8f75-4608f6397411",
       "time": "2026-08-05 01:22:45",
@@ -164482,50 +164511,6 @@
         "DXY"
       ],
       "text": "CENTCOM said more than 20 vessels are conducting military operations in the Middle East, including strict enforcement of the US \"ironclad blockade\" against Iran. As of July 28, it had rerouted 18 commercial ships, destroyed two vessels and boarded and inspected two others to ensure full compliance with the blockade."
-    },
-    {
-      "id": "5012929",
-      "time": "2026-07-29 01:30:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國石油（BP）：此次開發生產合同涵蓋油氣生產的首期階段，油氣儲量規模超30億桶油當量。"
-    },
-    {
-      "id": "mkt:019fa9c6-b0b5-7aab-8ed3-00a05ef16675",
-      "time": "2026-07-29 01:29:58",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【U.S., Israel leaders meet at White House; Iran nuclear issue central】U.S. President Trump met visiting Israeli Prime Minister Netanyahu at the White House for about one hour. The White House called the meeting \"positive and constructive.\" An Israeli prime minister’s office official said the atmosphere was good and the leaders discussed multiple regional issues, with Iran’s nuclear program the core focus. Both sides reaffirmed a shared commitment to \"prevent Iran from obtaining nuclear weapons\" and discussed strengthening the U.S.-Israel alliance and expanding regional cooperation opportunities."
-    },
-    {
-      "id": "5012928",
-      "time": "2026-07-29 01:29:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國石油：英國石油與土耳其石油股份公司已就土耳其石油股份公司（TPAO）收購英國石油基爾庫克能源有限公司15%權益達成協議。"
-    },
-    {
-      "id": "5012927",
-      "time": "2026-07-29 01:28:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國石油（BP）：歡迎土耳其石油公司加入伊拉克基爾庫克油田開發專案。"
-    },
-    {
-      "id": "5012926",
-      "time": "2026-07-29 01:27:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：特朗普淡化澤連斯基關於俄羅斯藉助衛星影象援助伊朗的說法，稱俄方相關援助“影響微乎其微”，但表示會就此與普京溝通。"
     }
   ]
 }
