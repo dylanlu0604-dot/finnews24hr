@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-04 08:13:01",
-  "count": 17902,
+  "updated": "2026-08-04 08:17:06",
+  "count": 17898,
   "items": [
+    {
+      "id": "mkt:019fca20-cfc9-7aab-8f60-660f6f042a4d",
+      "time": "2026-08-04 08:16:15",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【CITIC Securities: New power-system plan likely to support UHV, distribution-grid smartization, storage and virtual power plants】On Aug 3, 2026 CHINA STATE PLANNER and the National Energy Administration released the 15th Five-Year Plan for New Power System Construction. The top-level plan, aligned with existing 15th FYPs for renewable energy and new energy systems, prioritizes integrated source–grid–load–storage coordination and shifts focus from incremental renewable capacity additions to whole-system orchestration. It sets quantitative targets across generation, transmission, flexibility resources, load and market arrangements, seeks a preliminary new power system by early-2030, and targets non-fossil generation at 50% of electricity output. CITIC Securities said the policy is likely to continue to support ultra-high-voltage transmission, distribution-grid smartization and digitalization, multiple forms of energy storage and virtual power plants, flexible adjustment resources and clean-power development, and to accelerate implementation of capacity remuneration mechanisms and capacity markets."
+    },
+    {
+      "id": "mkt:019fca1f-9fbb-7aab-8f60-58ba4dba5a9a",
+      "time": "2026-08-04 08:14:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed",
+        "SSE Composite"
+      ],
+      "text": "【CITIC Securities: Banks' full-year absolute return potential to persist】CITIC Securities says on fundamentals it expects Q2 net interest margins to be strong and capital markets and wealth-management activity to lift non-interest income, keeping banks' revenue growth stable and likely nudging profit growth higher. From an investment angle the sector extended its positive trend since July last week but experienced large index swings amid style rotation; CITIC expects A-share volatility to remain elevated over the next two weeks and banks' relative performance may weaken. Nevertheless, stable operating profiles and an ongoing macro narrative support continued full-year absolute return potential."
+    },
+    {
+      "id": "5023351",
+      "time": "2026-08-04 08:14:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數上漲0.4%，受晶片股領漲提振】繼隔夜美國科技股走高後，日本股市早盤走高。晶片股領漲。鎧俠上漲3.0%，Lasertec上漲4.7%。美元報157.40日元，週一東京股市收盤時報156.63日元。在伊朗週一表示目前沒有與美國進行任何談判後，投資者正密切關注中東局勢的發展。企業季度盈利也是關注焦點。日經指數上漲0.4%，報63,987.36點。"
+    },
+    {
+      "id": "5023350",
+      "time": "2026-08-04 08:13:47",
+      "tags": [
+        "宏觀",
+        "觀點"
+      ],
+      "text": "【中信證券：政策或將持續利好特高壓、配網智慧化、各類儲能/虛擬電廠等靈活調節資源、清潔電源開發及電力數字化領域】中信證券研報指出，2026年8月3日，國家發改委、能源局釋出《新型電力系統建設“十五五”規劃》。作為電力領域頂層檔案，《規劃》與《可再生能源“十五五”規劃》《新型能源體系建設“十五五”規劃》等形成配套，以“源網荷儲”一體化協同為主線，推動電力行業從單一新增新能源裝機轉向全域統籌。《規劃》圍繞電源、電網、調節資源、負荷、市場等設定量化目標，力爭2030年初步建成新型電力系統，非化石能源發電量佔比升至50%。我們認為，政策或將持續利好特高壓、配網智慧化、各類儲能/虛擬電廠等靈活調節資源、清潔電源開發及電力數字化領域，並加速容量補償機制及容量市場等電改政策落地。1）電網基礎設施建設。在《規劃》指引下，我們預計特高壓交直流輸電通道、區域主幹網架升級、智慧化配網改造、微電網系統建設或將迎來持續提振。建議關注輸電裝置、配電自動化、電網數字化智慧化裝備；同時，配網承載能力提升將充分釋放分散式光伏開發空間，分散式開發與運維主體或將受益。2）各型別靈活調節資源。一是儲能領域，抽水蓄能加速開工建設，獨立儲能、使用者側新型儲能需求持續釋放；二是靈活性電源改造，存量煤電靈活性改造、燃氣調峰機組有序推進；三是負荷側調節資源，虛擬電廠平臺、負荷聚合服務商、車網互動、智慧充放電裝置具備長期成長機會。3）清潔電源協同開發。依託跨省跨區輸電通道規劃，“三北”風光大基地、海上風電開發建設節奏有望提速；同時，核電有序擴容、光熱、生物質等具備調節屬性的可再生能源或迎來更多政策支援。4）電力市場與數字化。我們預計在置信出力、頂峰供電能力考核要求進一步明確的政策之下，電力容量市場建設或為下一階段電力市場化改革重心。同時，建議關注電力交易平臺、負荷管理系統、電力模擬排程系統、能源數字化平臺需求。"
+    },
+    {
+      "id": "te:markets:572302",
+      "time": "2026-08-04 08:13:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Mitsubishi UFJ Financial earnings above expectations at 71.77 JPY — Mitsubishi UFJ Financial (8306) released earnings per share at 71.77 JPY, compared to market expectations of 56.17 JPY."
+    },
     {
       "id": "te:markets:572300",
       "time": "2026-08-04 08:11:49",
@@ -165842,90 +165896,6 @@
         "觀點"
       ],
       "text": "【中信證券：當前銅板塊尚處估值修復伊始】中信證券指出，多重利好推動銅價再度衝擊14000美元，後續庫存走低、供給擾動等核心驅動因素料仍將延續，關稅的多數潛在路徑依然利好銅，中性假設下年內銅價有望衝擊15000美元。當前銅板塊尚處估值修復伊始，漲價預期的形成與市場情緒的改善將繼續推動估值修復。"
-    },
-    {
-      "id": "5011020",
-      "time": "2026-07-28 08:17:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本晶片股大幅下跌，瑞薩電子股價下跌7.4%，愛德萬測試股價下跌8.2%。"
-    },
-    {
-      "id": "5011019",
-      "time": "2026-07-28 08:16:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江十部門聯合印發行動方案，進一步加強養老機構安全管理】近日，浙江省民政廳等十部門聯合印發《浙江省養老機構安全管理提升三年行動實施方案（2026-2028年）》。《實施方案》提出，到2028年底，養老機構安全管理長效機制更加健全，安全形勢持續穩定向好。《實施方案》包含五個章節，共15項條款，提出建立常態化聯合檢查機制、推進養老機構裝置設施更新改造、推廣運用智慧裝置等主要內容。"
-    },
-    {
-      "id": "5011018",
-      "time": "2026-07-28 08:16:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列、黎巴嫩和美國預計將於下週舉行會談。"
-    },
-    {
-      "id": "5011017",
-      "time": "2026-07-28 08:15:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化賣盤。"
-    },
-    {
-      "id": "5011016",
-      "time": "2026-07-28 08:15:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數下跌3% 受晶片和金屬股拖累】繼隔夜美國科技股下跌後，日本股市早盤走低，日經指數下跌3%。對伊朗衝突的不確定性也令市場承壓。晶片和金屬股領跌。愛德萬測試下跌8.0%，Mitsui Kinzoku下跌6.1%。在沙烏地阿拉伯表示攔截了伊拉克境內受伊朗支援的民兵向該國石油設施發射的無人機後，投資者正密切關注原油價格和中東局勢的發展。"
-    },
-    {
-      "id": "5011015",
-      "time": "2026-07-28 08:13:43",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國Kospi指數下跌逾6% 晶片股承壓】韓國基準股指Kospi指數跌逾6%，晶片股追隨隔夜美股晶片製造商板塊下挫。三星電子、SK海力士和SK Square對指數拖累最大，跌幅均至少6%。國內外基金淨賣出Kospi指數股票，散戶投資者則為淨買入。小盤股指數Kosdaq跌逾4%。"
-    },
-    {
-      "id": "mkt:019fa611-96f1-7aab-8eb8-96f6db269dfa",
-      "time": "2026-07-28 08:13:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【US officials: sanctions more damaging than strikes but slower; prolongation could hurt Republicans】Axios reports US officials say economic sanctions could ultimately inflict more damage on Tehran than military strikes. US intelligence and open-source reporting point to a deepening Iranian economic crisis, including gasoline shortages despite Iran being one of the world’s largest oil producers. One senior US official said: \"Iranians want the bombing to stop, they also want money. But the priority is almost reversed — what they really want is money.\" Another official acknowledged sanctions and a maritime blockade are likely to take longer than strikes to compel Tehran back to the negotiating table; Trump has not authorised a full-scale bombing campaign. The extended timeline could deepen Republican political risk by forcing them during the midterms to defend an unpopular war and high oil prices."
-    },
-    {
-      "id": "mkt:019fa611-827d-7aab-8eb8-8fc6c4fb14e0",
-      "time": "2026-07-28 08:13:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japanese and South Korean stocks opened lower and extended losses: Japan's Nikkei 225 down 3% to below 63,000 points; South Korea's KOSPI down 6.5%."
-    },
-    {
-      "id": "5011014",
-      "time": "2026-07-28 08:13:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數下跌3%。"
     }
   ]
 }
