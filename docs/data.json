@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-04 23:20:33",
-  "count": 17820,
+  "updated": "2026-08-04 23:24:31",
+  "count": 17815,
   "items": [
+    {
+      "id": "5025123",
+      "time": "2026-08-04 23:23:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽建工集團與銅陵有色金屬集團簽訂戰略合作協議】據安徽建工集團官微訊息，8月4日，安徽建工集團與銅陵有色金屬集團簽訂戰略合作協議。安徽建工集團黨委書記、董事長楊善斌表示，將充分發揮全產業鏈優勢，精準對接銅陵有色在礦山建設、新興產業等領域的需求，持續拓寬合作領域、提升合作質效。銅陵有色金屬集團黨委書記、董事長丁士啟表示，希望雙方聚焦礦山資源、新材料研發等方面深化全方位、多層次務實合作。"
+    },
+    {
+      "id": "mkt:019fcd5f-50ab-7aab-8f73-22d283b36101",
+      "time": "2026-08-04 23:23:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli tanks reportedly fired toward an area northwest of Beit Lahia in the northern Gaza Strip."
+    },
+    {
+      "id": "5025122",
+      "time": "2026-08-04 23:22:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "寶潔CEO：我們今日將宣佈收購高階健康膳食補充劑品牌索恩。"
+    },
+    {
+      "id": "5025121",
+      "time": "2026-08-04 23:21:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【霍爾木茲海峽附近貨船遇襲起火 船員棄船 一人失蹤】英國海事安全企業先鋒技術公司4日釋出報告說，一艘散貨船在霍爾木茲海峽附近水域遇襲後起火，有一名船員失蹤。英國媒體援引最新訊息報道說，船員已棄船。報告說，有不明發射物據報擊中該船機艙，導致生活區起火及一名船員失蹤。船員曾嘗試滅火併請求外部援助。船舶公開資訊顯示，這艘名為“米諾斯先鋒”號的散貨船懸掛賴比瑞亞國旗，由一家希臘公司運營。（新華社）"
+    },
     {
       "id": "te:economy:572642",
       "time": "2026-08-04 23:17:46",
@@ -164867,93 +164899,6 @@
         "Important"
       ],
       "text": "According to the Times of Israel, mediators say they are close to a breakthrough ahead of a Netanyahu-Trump meeting that could revive a memorandum of understanding signed between the U.S. and Iran last month."
-    },
-    {
-      "id": "5012807",
-      "time": "2026-07-28 23:23:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合海事資訊中心（JMIC）：空襲行動暫停後，霍爾木茲海峽通航量有所回升。"
-    },
-    {
-      "id": "mkt:019fa952-d430-7aab-8ed0-96255bb98c7e",
-      "time": "2026-07-28 23:23:25",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Musk said GROK 4.6 will be released on a social platform on Aug. 7."
-    },
-    {
-      "id": "5012806",
-      "time": "2026-07-28 23:23:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "歐元區債券收益率下行，德國兩年期收益率突然回落約兩個基點，當日最終收跌4個基點，報2.74%。"
-    },
-    {
-      "id": "5012805",
-      "time": "2026-07-28 23:23:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：Grok 4.6將於8月7日上線，引數規模2.1萬億的Grok 4.7模型將於數週內推出。"
-    },
-    {
-      "id": "5012804",
-      "time": "2026-07-28 23:22:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元現貨指數跌至當日低點。"
-    },
-    {
-      "id": "mkt:019fa951-6f32-7aab-8ed0-8de8009f3825",
-      "time": "2026-07-28 23:21:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Joint Maritime Information Center (JMIC) says a pause in air strikes has increased traffic through the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019fa950-ccfc-7aab-8ed0-82d1788ee06d",
-      "time": "2026-07-28 23:21:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WTI and Brent crude slid sharply; WTI fell below $79/bbl, down 2.67% intraday, while Brent was off about 3.6% at $82.2/bbl."
-    },
-    {
-      "id": "5012803",
-      "time": "2026-07-28 23:20:45",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "聯合海事資訊中心（JMIC）：資料顯示霍爾木茲海峽雙向均無油輪通行。"
-    },
-    {
-      "id": "mkt:019fa950-570b-7aab-8ed0-7b8e1dc8d357",
-      "time": "2026-07-28 23:20:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran says entities taking frozen Iranian assets as ship compensation to be barred from Strait of Hormuz】Iran’s Joint Military Command told state media on Tuesday any company or state that accepts frozen Iranian assets as compensation for damaged vessels will be barred from transiting the Strait of Hormuz. Spokesman Ebrahim Zolfaqari dismissed earlier remarks by US President Trump that ships damaged in the Gulf could be compensated using frozen Iranian funds."
     }
   ]
 }
