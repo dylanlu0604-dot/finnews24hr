@@ -1,7 +1,108 @@
 {
-  "updated": "2026-08-04 10:39:41",
+  "updated": "2026-08-04 10:43:30",
   "count": 17830,
   "items": [
+    {
+      "id": "5023548",
+      "time": "2026-08-04 10:42:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼財長：或將把國有的政府資金存放在國有銀行的安排延長至明年。"
+    },
+    {
+      "id": "mkt:019fcaa6-e6de-7aab-8f62-e503357d428e",
+      "time": "2026-08-04 10:42:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A warehouse facility in Russia's Leningrad region was struck in a drone attack."
+    },
+    {
+      "id": "5023547",
+      "time": "2026-08-04 10:42:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股PCB概念股走強 芯碁微裝漲超14%】截至發稿，芯碁微裝(09630.HK)漲14.58%，大族數控(03200.HK)漲7.72%，廣合科技(01989.HK)漲6.92%。"
+    },
+    {
+      "id": "5023546",
+      "time": "2026-08-04 10:42:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯列寧格勒州州長稱，該地區一倉庫設施遭無人機襲擊。"
+    },
+    {
+      "id": "mkt:019fcaa6-8a91-7aab-8f62-df726e603201",
+      "time": "2026-08-04 10:42:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share liquid-cooled server sector rallied; Hangyun Technology, Feilong Co. and Jinfu Technology hit daily limit-up, while Dingtong Technology, Shenglan Co. and Dashi Intelligent also gained."
+    },
+    {
+      "id": "5023545",
+      "time": "2026-08-04 10:42:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "可口可樂日本裝瓶公司：熊本工廠週一恢復運營。"
+    },
+    {
+      "id": "5023544",
+      "time": "2026-08-04 10:41:25",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【截至今年7月底 國家標準中文版線上閱讀量超1.74億次】市場監管總局將免費公開國家標準作為為民辦實事的重要舉措， 自去年對3萬餘項國家標準提供免費下載服務後，今年又全文免費公開了2600餘項國家標準外文版。同時，持續最佳化標準公開平臺，將國家標準全文公開系統整合整合到全國標準資訊公共服務平臺，全面清除平臺上妨礙標準下載和使用的冗餘功能，做到“一鍵下載”，不斷提高平臺使用便捷性。截至2026年7月底，國家標準中文版線上閱讀量超過1.74億次、下載量超過5300萬次，上線僅三個多月的國家標準外文版線上閱讀量超過12萬次、下載量超過16萬次，《智慧城市時空基礎設施 評價指標體系》《有限空間作業安全技術規範》等人工智慧與安全方面的國家標準閱讀量和下載量位居前列。"
+    },
+    {
+      "id": "mkt:019fcaa4-e7c6-7aab-8f62-d703c2bd66bb",
+      "time": "2026-08-04 10:40:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "【ChiNext up >4%; over 3,500 A-share stocks advanced】ChiNext index rose more than 4%; Shenzhen Component gained over 2%. CPO, photolithography equipment and PCB sectors led the advance. More than 3,500 A-share stocks rose."
+    },
+    {
+      "id": "5023543",
+      "time": "2026-08-04 10:40:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲2%，現報7505.00點。"
+    },
+    {
+      "id": "5023542",
+      "time": "2026-08-04 10:40:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器板塊走高，飛龍股份漲停】液冷伺服器板塊走高，飛龍股份、金富科技等股漲停，鼎通科技、勝藍股份、達實智慧跟漲。"
+    },
+    {
+      "id": "5023541",
+      "time": "2026-08-04 10:40:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲4％，上證指數跌0.06％，深證成指漲2.23％。CPO、光刻機、PCB板塊漲幅居前。"
+    },
     {
       "id": "5023540",
       "time": "2026-08-04 10:38:50",
@@ -165179,101 +165280,6 @@
         "美聯儲"
       ],
       "text": "【美聯儲本週怎麼決定？城堡證券料沃什會出其不意加息】當地時間7月27日，城堡證券在研報中預計美聯儲本週將上調利率，出人意料地用這招加強主席凱文·沃什在抗通脹之戰中的公信力。城堡證券稱，週三加息25個基點可以強化沃什反覆作出的恢復物價穩定承諾，同時也表明決策層不再依賴於提前很久發出每一項政策舉措的訊號。"
-    },
-    {
-      "id": "5011293",
-      "time": "2026-07-28 10:42:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌3%，現報13993.00元。"
-    },
-    {
-      "id": "5011292",
-      "time": "2026-07-28 10:42:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌2%，現報1270.54美元/盎司。"
-    },
-    {
-      "id": "5011291",
-      "time": "2026-07-28 10:42:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "標普：印尼央行行長變動對評級無直接影響。"
-    },
-    {
-      "id": "5011290",
-      "time": "2026-07-28 10:42:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "【PCB板塊震盪走弱，深南電路觸及跌停】PCB板塊震盪走弱，深南電路觸及跌停，東山精密、景旺電子、中材科技、生益科技、泰金新能、生益電子等跟跌。"
-    },
-    {
-      "id": "5011289",
-      "time": "2026-07-28 10:42:07",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【2025年度個稅彙算退稅金額突破1500億元】國務院新聞辦舉行新聞釋出會。釋出會上，國家稅務總局相關負責人介紹，在6月30日結束的2025年度個稅彙算中，超1億納稅人享受退稅1500多億元，中低收入者受益面提升。國家稅務總局總審計師王世宇介紹，在剛剛結束的個稅彙算中，全國超2億納稅人辦理了彙算申報，同比增長4.38%，超過1億納稅人申報退稅，退稅金額突破1500億元。年收入12萬元以下群體在享受6萬元基本減除費用、“三險一金”專項扣除、專項附加扣除等紅利後，基本無需繳稅或只需少量繳稅；超過七成人群彙算後無需繳稅；在有稅人群中，超過六成適用3%稅率，反映出個稅調高惠低效應進一步顯現。"
-    },
-    {
-      "id": "te:markets:570242",
-      "time": "2026-07-28 10:42:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesia Shares Extend Slide on BI Transition Concerns — Indonesia’s IDX Composite slipped 32 points, or 0.5%, to 6,155 in Tuesday morning trade, marking its fifth straight decline as sentiment tracked weaker U.S. futures after a sell-off in chipmakers on Wall Street overnight dragged semiconductor gauges lower for a third day. Investors also stayed cautious ahead of the Federal Reserve’s policy decision later this week and earnings from major U.S. tech firms. Locally, uncertainty lingered over Bank Indonesia’s leadership transition following Perry Warjiyo’s abrupt resignation, with Senior Deputy Governor Destry Damayanti stepping in as acting governor until a successor is named. Losses were broad-based across financials, energy, industrials, and infrastructure, though declines were partly cushioned by falling crude oil prices, easing fiscal concerns for the net oil importer. Notable laggards included Medco Energi (-3.5%), Sarana Menara Nusantara (-2.0%), Mitra Adiperkasa (-1.4%), and Perusahaan Gas Negara (-1.0%)."
-    },
-    {
-      "id": "5011288",
-      "time": "2026-07-28 10:41:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【稅務總局：上半年出口企業辦理出口退稅同比增長7.7%】7月28日，國家稅務總局副局長王道樹在國新辦釋出會上表示，增值稅法及其實施條例自今年1月1日實施以來，更好提升了辦稅便利度，今年上半年稅務部門為出口企業辦理出口退稅同比增長7.7%，正常出口退稅平均辦理時間控制在6個工作日以內。"
-    },
-    {
-      "id": "5011287",
-      "time": "2026-07-28 10:41:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CPO板塊持續走弱，劍橋科技跌停】CPO板塊持續走弱，劍橋科技跌停，新易盛、源傑科技、中際旭創、銳捷網路跌超10%，通富微電、天孚通訊等跟跌。"
-    },
-    {
-      "id": "5011286",
-      "time": "2026-07-28 10:41:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【DHL快遞深圳超級口岸投運，日處理貨量達900噸】7月28日訊息，DHL快遞位於深圳寶安國際機場的超級口岸完成擴建並投入運營。據介紹，這是DHL快遞迄今在中國內地最大規模的單筆投資專案，總投資額超過12億元人民幣。該專案在DHL原深圳口岸基礎上改擴建而成，擴建後操作區總面積為原口岸的2.6倍，達22,000平方米，每日可處理貨量900噸。"
-    },
-    {
-      "id": "5011285",
-      "time": "2026-07-28 10:40:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：不認為公私合計370萬億日元的投資目標過高。"
-    },
-    {
-      "id": "5011284",
-      "time": "2026-07-28 10:40:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "半導體晶片股震盪走低，西安奕材、普冉股份、恆運昌跌超10%，兆易創新此前跌停，北京君正、通富微電、佰維儲存跌超8%。"
     }
   ]
 }
