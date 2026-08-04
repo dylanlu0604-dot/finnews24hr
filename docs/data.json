@@ -1,7 +1,109 @@
 {
-  "updated": "2026-08-04 13:05:21",
-  "count": 17764,
+  "updated": "2026-08-04 13:09:27",
+  "count": 17771,
   "items": [
+    {
+      "id": "5023686",
+      "time": "2026-08-04 13:07:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "豐田：熊本地震的影響仍在評估中，尚未反映在預測中。"
+    },
+    {
+      "id": "5023685",
+      "time": "2026-08-04 13:07:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "豐田：擴大混合動力汽車電池產能以滿足市場需求。"
+    },
+    {
+      "id": "5023684",
+      "time": "2026-08-04 13:06:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特阿美：以穩健的財務和運營勢頭進入下半年。賈富拉天然氣廠保持商品氣和凝析油產量穩定。沙特阿美及其子公司在沙特王國境內的部分設施遭到襲擊，截至2026年6月30日，這些設施所受影響對沙特阿美的財務狀況並不重大。賈富拉天然氣廠二期專案繼續推進採購和建設活動，預計將於2027年完工。"
+    },
+    {
+      "id": "5023683",
+      "time": "2026-08-04 13:06:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "截止13:06，兩市100只個股漲停。"
+    },
+    {
+      "id": "mkt:019fcb2a-43e9-7aab-8f64-7c71da8a78e2",
+      "time": "2026-08-04 13:06:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "2222.SR",
+        "Impact bullish"
+      ],
+      "text": "ARAMCO reported Q2 adjusted net income of SAR 125.2 billion."
+    },
+    {
+      "id": "mkt:019fcb29-e271-7aab-8f64-722c92d78a2e",
+      "time": "2026-08-04 13:05:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ARAMCO said Q2 sales volumes of refined products and chemicals fell."
+    },
+    {
+      "id": "mkt:019fcb29-820f-7aab-8f64-6fa5594e0724",
+      "time": "2026-08-04 13:05:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "ARAMCO said Q2 refined products, chemicals and crude oil prices rose."
+    },
+    {
+      "id": "mkt:019fcb29-6797-7aab-8f64-610f520f3b87",
+      "time": "2026-08-04 13:05:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share lab-grown diamond sector rallied; Henglin hit the daily price limit, Inno Laser rose more than 10%, and Walde, Guoli Electronics, Sinomach Precision, Huanghe Xuanfeng and Sifangda also advanced."
+    },
+    {
+      "id": "mkt:019fcb29-5dbc-7aab-8f64-5854b9a3b4e0",
+      "time": "2026-08-04 13:05:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "ARAMCO: Amid rising geopolitical uncertainty and shrinking global energy inventories, energy security and the need to replenish stocks have become more critical than ever."
+    },
+    {
+      "id": "5023682",
+      "time": "2026-08-04 13:04:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "豐田預計本財年日元兌美元匯率為160，此前預期為150。"
+    },
     {
       "id": "mkt:019fcb28-dcae-7aab-8f64-57bc99988b3b",
       "time": "2026-08-04 13:04:40",
@@ -164626,34 +164728,6 @@
         "其他"
       ],
       "text": "【“羚羊”靈巧 “蛟龍”展臂 電網巡檢機器人大顯身手】今天，中央廣播電視總檯“智競未來——首屆智慧機器人應用技能大展”釋出活動舉行。在活動現場，有一群“硬核的朋友”們。它們有的在智慧產線當“巧匠”，有的在高危作業一線當“先鋒”，都在各自的崗位上大展身手。它們練就了高階製造的“基本功”，生產鏈路、工業流程正在被數字化重新定義。在電網運維現場，“羚羊”機器人又穩又靈巧，全套操作一肩挑，可讓工作人員遠離高壓電作業風險；還有“蛟龍”配網帶電作業機器人，可在10米高空的高壓線上工作，靈活的伸展手臂完成一連串複雜動作，為萬家燈火持續續航。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fa71f-5a29-7aab-8ebf-8588b9dd9a7a",
-      "time": "2026-07-28 13:07:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan: June core CPI excluding special factors +2.7% YoY, unchanged from May. June core-core CPI excluding special factors +2.0% YoY, down from 2.1% in May."
-    },
-    {
-      "id": "5011468",
-      "time": "2026-07-28 13:07:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【商務部：中國現代化產業發展對世界不是“中國衝擊2.0”而是“中國機遇2.0”】商務部28日釋出《關於所謂“產能過剩”問題的中方立場》檔案。檔案指出，中國現代化產業發展對世界不是“中國衝擊2.0”而是“中國機遇2.0”。美國等西方國家謬稱中國產業發展威脅西方國家壟斷地位，擠壓南方國家發展空間，丟擲了所謂“中國衝擊2.0”論調。這不符合事實，是站不住腳的。過去十多年，中國對全球經濟增長貢獻率一直保持在30%左右，是世界經濟增長的重要引擎。過去，中國主要是以自身大規模市場、低成本要素為世界提供“市場紅利”，現在中國在提供更大“市場紅利”的同時，透過產業發展，為全球產業合作發揮了穩定錨和重要樞紐作用，創造了“發展紅利”。還透過科技進步，為全球提供越來越多的“創新紅利”。這些紅利交融疊加，給世界帶來的是更多的發展機遇、更大的發展空間，也就是國際社會越來越多提到的“中國機遇2.0”。"
-    },
-    {
-      "id": "5011467",
-      "time": "2026-07-28 13:05:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通訊線纜及配套板塊重挫】通訊線纜及配套板塊重挫，長飛光纖跌超9%，長盈通、亨通光電、永鼎股份、中天科技等跟跌。"
     }
   ]
 }
