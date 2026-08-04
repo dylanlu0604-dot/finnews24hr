@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-04 23:12:32",
-  "count": 17820,
+  "updated": "2026-08-04 23:16:34",
+  "count": 17823,
   "items": [
+    {
+      "id": "mkt:019fcd57-fe36-7aab-8f73-1b8f68bef7d6",
+      "time": "2026-08-04 23:15:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Global Dairy Trade price index +0.1% to July 21; prior +1.5%."
+    },
+    {
+      "id": "5025118",
+      "time": "2026-08-04 23:15:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "恆天然全球乳製品貿易價格指數上漲 0.1%。"
+    },
+    {
+      "id": "mkt:019fcd57-d00d-7aab-8f73-16b8a8a0d064",
+      "time": "2026-08-04 23:15:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Global Dairy Trade Price Index (MoM) (Jul.21) | actual 0.1% | previous 1.5%"
+    },
+    {
+      "id": "mkt:019fcd56-9658-7aab-8f73-092bd733833c",
+      "time": "2026-08-04 23:13:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Press TV, citing informed sources, said Iran and Oman have entered a new phase of talks on Strait of Hormuz shipping lanes despite US interference; a bilateral understanding could be reached if the US and other countries stop interfering."
+    },
+    {
+      "id": "5025117",
+      "time": "2026-08-04 23:13:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【BP執行長：不再將公司視為“超級石油巨頭”是“審慎之舉”】英國石油公司（BP Plc.）執行長Meg O’Neill表示，不再將公司視為大型石油“超級巨頭”是“審慎之舉”。這是她在努力扭轉公司多年來的低迷表現之際，在投資者評估標準上做出的重大轉變。O’Neill指出，BP不應再試圖追趕雪佛龍、埃克森美孚、殼牌和道達爾能源等規模更大的競爭對手，而應專注於在自身的“重量級”內進行競爭，並將投資集中在其最強勢的業務上。該公司已加速資產出售步伐，近期宣佈的交易包括出售其英國北海業務以及美國生物天然氣生產商Archaea Energy。"
+    },
+    {
+      "id": "5025116",
+      "time": "2026-08-04 23:13:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "負責對美貿易關係的加拿大部長重返華盛頓特區開展會談。"
+    },
+    {
+      "id": "5025115",
+      "time": "2026-08-04 23:12:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗Press TV援引知情人士訊息，儘管遭到美國阻撓，伊朗‑阿曼霍爾木茲海峽通道談判已進入新階段。 此階段取得的進展十分顯著，伊朗‑阿曼雙邊協議有望達成。 談判尚存的障礙來自美國及其地區盟友的持續阻撓。"
+    },
     {
       "id": "5025114",
       "time": "2026-08-04 23:09:07",
@@ -164911,44 +164975,6 @@
         "公司"
       ],
       "text": "【受颱風“紅霞”影響的廣東使用者已全部恢復供電】28日從南方電網瞭解到，截至18時，受今年第12號颱風“紅霞”影響的廣東使用者已全部恢復供電。26日凌晨，颱風“紅霞”的中心在廣東省惠州市惠東縣平海鎮登陸，登陸時中心附近最大風力14級（45米/秒）。颱風登陸時，部分電力設施遭颱風損毀，不少居民家中出現斷電情況。隨後，電力部門組織搶險力量赴臺風登陸點開展搶修工作。據電力部門介紹，在臺風襲擊廣東期間，惠州、汕尾等地50餘萬戶使用者用電受到影響。廣東電網公司在其供電營業區組建了200餘支搶險隊伍，奮戰60餘小時，目前已全部恢復供電。深圳供電局派出搶險人員900餘人次，奔赴受颱風影響較嚴重的深汕特別合作區開展搶修工作，順利恢復當地供電。（新華社）"
-    },
-    {
-      "id": "5012797",
-      "time": "2026-07-28 23:15:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨跌幅超過3%。"
-    },
-    {
-      "id": "5012796",
-      "time": "2026-07-28 23:15:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本專家：本次熊本地震與十年前地震機制相似】日本南部熊本縣28日下午發生7.1級地震。日本專家說，此次地震與2016年熊本地震機制相似，需要警惕餘震。（新華社）"
-    },
-    {
-      "id": "mkt:019fa949-d6e6-7aab-8ed0-6eb6f1d7f8e3",
-      "time": "2026-07-28 23:13:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "SC front-month crude futures fell more than 2.00% intraday to 529.30 yuan/barrel."
-    },
-    {
-      "id": "5012795",
-      "time": "2026-07-28 23:12:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡與特朗普的會晤正式開始。"
     }
   ]
 }

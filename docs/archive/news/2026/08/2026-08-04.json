@@ -1,7 +1,71 @@
 {
   "date": "2026-08-04",
-  "count": 2910,
+  "count": 2917,
   "items": [
+    {
+      "id": "mkt:019fcd57-fe36-7aab-8f73-1b8f68bef7d6",
+      "time": "2026-08-04 23:15:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Global Dairy Trade price index +0.1% to July 21; prior +1.5%."
+    },
+    {
+      "id": "mkt:019fcd57-d00d-7aab-8f73-16b8a8a0d064",
+      "time": "2026-08-04 23:15:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Global Dairy Trade Price Index (MoM) (Jul.21) | actual 0.1% | previous 1.5%"
+    },
+    {
+      "id": "5025118",
+      "time": "2026-08-04 23:15:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "恆天然全球乳製品貿易價格指數上漲 0.1%。"
+    },
+    {
+      "id": "mkt:019fcd56-9658-7aab-8f73-092bd733833c",
+      "time": "2026-08-04 23:13:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Press TV, citing informed sources, said Iran and Oman have entered a new phase of talks on Strait of Hormuz shipping lanes despite US interference; a bilateral understanding could be reached if the US and other countries stop interfering."
+    },
+    {
+      "id": "5025117",
+      "time": "2026-08-04 23:13:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【BP執行長：不再將公司視為“超級石油巨頭”是“審慎之舉”】英國石油公司（BP Plc.）執行長Meg O’Neill表示，不再將公司視為大型石油“超級巨頭”是“審慎之舉”。這是她在努力扭轉公司多年來的低迷表現之際，在投資者評估標準上做出的重大轉變。O’Neill指出，BP不應再試圖追趕雪佛龍、埃克森美孚、殼牌和道達爾能源等規模更大的競爭對手，而應專注於在自身的“重量級”內進行競爭，並將投資集中在其最強勢的業務上。該公司已加速資產出售步伐，近期宣佈的交易包括出售其英國北海業務以及美國生物天然氣生產商Archaea Energy。"
+    },
+    {
+      "id": "5025116",
+      "time": "2026-08-04 23:13:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "負責對美貿易關係的加拿大部長重返華盛頓特區開展會談。"
+    },
+    {
+      "id": "5025115",
+      "time": "2026-08-04 23:12:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗Press TV援引知情人士訊息，儘管遭到美國阻撓，伊朗‑阿曼霍爾木茲海峽通道談判已進入新階段。 此階段取得的進展十分顯著，伊朗‑阿曼雙邊協議有望達成。 談判尚存的障礙來自美國及其地區盟友的持續阻撓。"
+    },
     {
       "id": "5025114",
       "time": "2026-08-04 23:09:07",
