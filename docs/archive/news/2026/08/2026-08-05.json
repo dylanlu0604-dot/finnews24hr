@@ -1,7 +1,26 @@
 {
   "date": "2026-08-05",
-  "count": 108,
+  "count": 110,
   "items": [
+    {
+      "id": "5025210",
+      "time": "2026-08-05 01:44:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：傑富瑞在陷入困境的基金中發現新的假髮票證據。"
+    },
+    {
+      "id": "te:markets:572666",
+      "time": "2026-08-05 01:44:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Orange Juice Hits 4-week High — Orange Juice increased to 159.40 USd/Lbs, the highest since July 2026. Over the past 4 weeks, Orange Juice lost 4.73%, and in the last 12 months, it decreased 32.3%."
+    },
     {
       "id": "mkt:019fcddb-3ba8-7aab-8f75-5cb9a19751dd",
       "time": "2026-08-05 01:38:44",

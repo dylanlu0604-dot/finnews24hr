@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-05 01:41:49",
-  "count": 17762,
+  "updated": "2026-08-05 01:45:41",
+  "count": 17759,
   "items": [
+    {
+      "id": "5025210",
+      "time": "2026-08-05 01:44:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：傑富瑞在陷入困境的基金中發現新的假髮票證據。"
+    },
+    {
+      "id": "te:markets:572666",
+      "time": "2026-08-05 01:44:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Orange Juice Hits 4-week High — Orange Juice increased to 159.40 USd/Lbs, the highest since July 2026. Over the past 4 weeks, Orange Juice lost 4.73%, and in the last 12 months, it decreased 32.3%."
+    },
     {
       "id": "mkt:019fcddb-3ba8-7aab-8f75-5cb9a19751dd",
       "time": "2026-08-05 01:38:44",
@@ -164399,54 +164418,6 @@
         "Brent"
       ],
       "text": "U.S. crude and Brent edged up in a short-term rebound, trading at $78.48/bbl and $82.16/bbl respectively."
-    },
-    {
-      "id": "mkt:019fa9d3-dc4c-7aab-8ed3-3bf381832bec",
-      "time": "2026-07-29 01:44:21",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Israel's Channel 12 reported a senior Israeli official said Netanyahu told Trump that additional strikes on Iranian nuclear facilities that have been repaired are unavoidable."
-    },
-    {
-      "id": "mkt:019fa9d3-c329-7aab-8ed3-3640df67de18",
-      "time": "2026-07-29 01:44:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Houthi forces say they fired ballistic missile at Saudi tanker in Red Sea】Houthi forces said on Tuesday they fired a ballistic missile at Saudi tanker \"NCC Ghazal\" in the Red Sea, accusing the vessel of breaching their maritime blockade of Saudi Arabia and ignoring warnings. A Houthi military spokesman said the ship was forced to turn back."
-    },
-    {
-      "id": "5012939",
-      "time": "2026-07-29 01:43:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名華盛頓知情人士透露，（美以）本次會晤中特朗普並未要求以色列從任何一片戰區撤軍。"
-    },
-    {
-      "id": "mkt:019fa9d2-612e-7aab-8ed3-2fe18ade77df",
-      "time": "2026-07-29 01:42:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli media, citing Washington sources, report President Trump did not ask Israel to withdraw forces from any area during the meeting."
-    },
-    {
-      "id": "5012938",
-      "time": "2026-07-29 01:42:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列高階官員：內塔尼亞胡向特朗普強調，對伊朗已重新啟用的核設施發動更多打擊在所難免。"
     }
   ]
 }
