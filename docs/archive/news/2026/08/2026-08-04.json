@@ -1,7 +1,64 @@
 {
   "date": "2026-08-04",
-  "count": 2870,
+  "count": 2876,
   "items": [
+    {
+      "id": "mkt:019fcd42-a141-7aab-8f72-ce010a3d3401",
+      "time": "2026-08-04 22:52:03",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry said Russian armed forces continue to attack Ukrainian ports, vessels and port infrastructure used by the Ukrainian military."
+    },
+    {
+      "id": "mkt:019fcd41-f872-7aab-8f72-c1bbccf8fd52",
+      "time": "2026-08-04 22:51:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he asked Senator Darlene Graham to enter the Republican special primary on Aug. 11; she has accepted."
+    },
+    {
+      "id": "5025093",
+      "time": "2026-08-04 22:50:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：iPhone 20 的螢幕尺寸將大於當前的 Pro 以及 Pro Max 機型，有爆料人士稱，6.4 英寸和 7 英寸版本的螢幕正在進行原型機測試。"
+    },
+    {
+      "id": "te:markets:572624",
+      "time": "2026-08-04 22:49:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Slips from 2-Month High — Cotton futures traded below 82 cents per pound after reaching a more than two-month high of 82.6 cents on August 3rd, as investors took profits following last week's rally and lower crude oil prices weighed on demand. Cotton speculators reduced their net long position by around two thousand contracts, adding to selling pressure. Lower oil prices also made synthetic fibers such as polyester relatively cheaper, reducing cotton's competitiveness. However, downside pressure remained limited by persistent weather-related supply concerns. In India, below-average monsoon rainfall is forecast to continue through August, threatening crop yields as nearly half of farmland lacks irrigation. Meanwhile, El Niño is expected to strengthen through September, increasing the risk of dry conditions. In Brazil, cotton production is projected to decline 1.5% in 2027 despite a 4.4% increase in planted area, as El Niño-related dryness is expected to reduce yields, offsetting the expansion in acreage."
+    },
+    {
+      "id": "5025092",
+      "time": "2026-08-04 22:49:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國民主參議員Mark Warner：上週末，Truth Social 10萬美元的訂閱服務正式上線。昨晚，我提出了一項法案，旨在打擊這種腐敗，確保所有美國人都能免費平等地獲取政府官員的公告。"
+    },
+    {
+      "id": "5025091",
+      "time": "2026-08-04 22:49:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【CoreWeave 計劃透過印尼資料中心進軍亞洲市場】人工智慧（AI）雲服務公司CoreWeave Inc.正透過在該地區建立首批資料中心進軍亞洲市場，將業務擴充套件到這個對計算能力需求迫切且快速增長的地區。該公司在一份宣告中表示，計劃在美國境外建設三個新的資料中心，均位於印度尼西亞，總容量達360兆瓦。該公司將在此專案上投資數十億美元，資料中心預計於2028年投入運營，目標客戶為東南亞的實驗室、初創企業和企業客戶；將在該專案上投資數十億美元，但無法提供具體估算。"
+    },
     {
       "id": "5025090",
       "time": "2026-08-04 22:47:50",
