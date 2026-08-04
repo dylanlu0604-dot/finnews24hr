@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-05 03:08:47",
+  "updated": "2026-08-05 03:12:40",
   "count": 17752,
   "items": [
+    {
+      "id": "mkt:019fce30-3858-7aab-8f76-2dd23f9965e9",
+      "time": "2026-08-05 03:11:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Analysis: Iran–Oman deal a good start but won’t solve all issues】Abas Aslani, senior researcher at the Center for Middle East Strategic Studies, said recent US and Iranian rhetoric and actions produced a period of volatility—days ago markets expected a major escalation; now observers are discussing a possible Strait of Hormuz agreement. He noted a disconnect: the sides were exchanging threats until recently, and although both report progress, we are not there yet. Aslani said the pact would be a useful first step but would not resolve all issues; it could let Iran and the US focus on restarting a memorandum of understanding and, if effectively implemented, move toward a final nuclear agreement."
+    },
+    {
+      "id": "5025241",
+      "time": "2026-08-05 03:08:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "Uber股價迅速下跌，一度轉跌。"
+    },
     {
       "id": "5025240",
       "time": "2026-08-05 03:08:07",
@@ -164341,22 +164361,6 @@
         "MKT News"
       ],
       "text": "UK Prime Minister Burnham said football does not belong to private capital investors. FIFA had earlier decided to permit external investment."
-    },
-    {
-      "id": "mkt:019faa23-17c0-7aab-8ed4-4317ccda494e",
-      "time": "2026-07-29 03:10:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces said a recent siren in the Nahal Oz area was a false alarm."
-    },
-    {
-      "id": "5012971",
-      "time": "2026-07-29 03:09:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆：足球不屬於資本投資者。"
     }
   ]
 }

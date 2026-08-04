@@ -1,7 +1,27 @@
 {
   "date": "2026-08-05",
-  "count": 169,
+  "count": 171,
   "items": [
+    {
+      "id": "mkt:019fce30-3858-7aab-8f76-2dd23f9965e9",
+      "time": "2026-08-05 03:11:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Analysis: Iran–Oman deal a good start but won’t solve all issues】Abas Aslani, senior researcher at the Center for Middle East Strategic Studies, said recent US and Iranian rhetoric and actions produced a period of volatility—days ago markets expected a major escalation; now observers are discussing a possible Strait of Hormuz agreement. He noted a disconnect: the sides were exchanging threats until recently, and although both report progress, we are not there yet. Aslani said the pact would be a useful first step but would not resolve all issues; it could let Iran and the US focus on restarting a memorandum of understanding and, if effectively implemented, move toward a final nuclear agreement."
+    },
+    {
+      "id": "5025241",
+      "time": "2026-08-05 03:08:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "Uber股價迅速下跌，一度轉跌。"
+    },
     {
       "id": "5025240",
       "time": "2026-08-05 03:08:07",
