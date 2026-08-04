@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-04 19:08:56",
-  "count": 17739,
+  "updated": "2026-08-04 19:12:55",
+  "count": 17736,
   "items": [
+    {
+      "id": "5024548",
+      "time": "2026-08-04 19:12:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門對陝西中部發出地質災害高風險預警】自然資源部與中國氣象局8月4日18時聯合釋出橙色地質災害氣象風險預警：2026年8月4日20時至5日20時，山西西南部、河南西部、雲南西部、陝西中南部等部分地區發生地質災害的風險較高（黃色預警）；陝西中部區域性發生地質災害的風險高（橙色預警）。各級政府及有關部門按照應急預案做好地質災害防禦工作。請社會公眾及時關注地質災害氣象風險預警資訊，謹慎前往地質災害預警區域。橙色預警區內高風險隱患點和風險區受威脅人員，請根據當地防災部門組織立即撤離前往附近避險安置點，臨坡臨崖臨溝臨水人員根據撤離訊號及時撤離前往附近避險安置點；黃色預警區內人員，請隨時關注預警資訊變化，注意附近警示標誌，避免在溝谷、斜坡、陡崖（坎）等高風險地帶逗留。（新華社）"
+    },
+    {
+      "id": "5024547",
+      "time": "2026-08-04 19:11:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度能源交易所 7 月電力交易量 135.3 億單位。"
+    },
+    {
+      "id": "5024546",
+      "time": "2026-08-04 19:10:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄太平洋艦隊舉行大規模軍演】據俄羅斯國防部4日通報，俄太平洋艦隊當天起在日本海、鄂霍次克海及西北太平洋水域舉行大規模軍事演習。 通報說，此次軍演旨在檢驗各單位指揮人員在責任區內指揮兵力及執行非常規作戰任務的能力，並演練高精度武器和新型武器裝備的綜合運用。共有約60艘水面艦艇、潛艇及保障船隻，約30架飛機、直升機及無人機，以及超過1.3萬名軍人參加演習。 通報還說，太平洋艦隊兵力已向指定海域移動，掃雷艦艇編隊、搜尋突擊編隊、導彈快艇突擊編隊及以“瓦良格”號導彈巡洋艦為首的艦艇突擊編隊已開始執行任務。(新華社)"
+    },
+    {
+      "id": "5024545",
+      "time": "2026-08-04 19:10:25",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【突出金融幫扶特色 金融監管總局召開定點幫扶工作領導小組會議】8月4日金融監管總局官網訊息，日前，金融監管總局召開定點幫扶工作領導小組會議，全面總結2025年金融監管總局定點幫扶工作成效，安排部署2026年重點任務。會議指出，2025年，金融監管總局深入貫徹落實黨中央、國務院決策部署，堅決扛牢定點幫扶政治責任，加強組織領導，發揮自身優勢，創新幫扶舉措，加大幫扶力度，圓滿完成各項幫扶任務，助力定點幫扶旗縣鞏固拓展脫貧攻堅成果、推進鄉村全面振興。會議強調，2026年是開展常態化幫扶第一年，也是“十五五”規劃開局之年，紮實做好今年的定點幫扶工作意義重大。要深入貫徹黨中央決策部署，切實增強常態化做好定點幫扶工作的責任感、使命感，準確把握常態化幫扶階段定點幫扶工作面臨的新形勢、新任務，堅持聚焦重點、實施精準幫扶，發揮自身優勢持續發力，把幫扶工作抓出更大成效。會議要求，要進一步提高政治站位，增強大局意識，堅決守牢底線，助力鞏固拓展脫貧攻堅成果。注重發揮金融優勢，突出金融幫扶特色，加強產業幫扶，持續增強定點幫扶旗縣發展後勁。踐行正確政績觀，持續錘鍊優良工作作風，把真抓實幹、求真務實貫穿定點幫扶工作全過程，奮力推動定點幫扶和鄉村振興工作再上新臺階。（中證報）"
+    },
+    {
+      "id": "mkt:019fcc77-608b-7aab-8f6c-aeaca1b69364",
+      "time": "2026-08-04 19:10:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "MSFT.O",
+        "Impact mixed",
+        "MU.O",
+        "Impact bullish",
+        "AMZN.O"
+      ],
+      "text": "【BofA: AI capex set to surge; storage may be more resilient than GPUs】BofA expects hyperscale cloud capex to exceed $860bn in 2026 (up ~80% YoY) and approach $1.2trn in 2027 (up ~38%). Microsoft, Oracle, AWS and Google report a combined cloud backlog of more than $2.3trn, up 16% QoQ, providing high visibility for future spend. The current AI infrastructure expansion will chiefly boost demand for compute, storage, semiconductor equipment, power semiconductors and optical communications. As AI agents and inference workloads scale, server allocations of HBM, DRAM and SSDs should rise; storage demand could outpace GPU shipments. Capex exceeding operating cash flow will compress free cash flow at big tech firms, though they can access debt and equity markets. BofA characterises the cycle as a multi-year infrastructure build and says rising cloud orders improve visibility on AI investment returns."
+    },
+    {
+      "id": "5024544",
+      "time": "2026-08-04 19:09:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【霍爾木茲海峽附近貨船遇襲起火 一船員失蹤】英國海事安全企業先鋒技術公司4日釋出報告說，一艘散貨船在霍爾木茲海峽附近水域遇襲後起火，有一名船員失蹤。英國媒體援引最新訊息報道說，船員已棄船。 報告說，有不明發射物據報擊中該船機艙，導致生活區起火及一名船員失蹤。船員曾嘗試滅火併請求外部援助。 船舶公開資訊顯示，這艘名為“米諾斯先鋒”號的散貨船懸掛賴比瑞亞國旗，由一家希臘公司運營。(新華社)"
+    },
+    {
+      "id": "5024543",
+      "time": "2026-08-04 19:09:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "輝瑞盤前股價抹去先前漲幅，下跌0.5%。"
+    },
+    {
+      "id": "5024542",
+      "time": "2026-08-04 19:08:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "麥當勞二季度業績公佈後，其股價盤前上漲2%。"
+    },
+    {
+      "id": "mkt:019fcc76-1105-7aab-8f6c-a5fa0b3655d2",
+      "time": "2026-08-04 19:08:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Qatar foreign ministry spokesman said it is not yet possible to say a US-Iran agreement has been reached."
+    },
+    {
+      "id": "5024540",
+      "time": "2026-08-04 19:08:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部發言人：目前我們還不能說美伊協議已經達成。"
+    },
     {
       "id": "5024539",
       "time": "2026-08-04 19:08:08",
@@ -164100,123 +164191,6 @@
         "其他"
       ],
       "text": "市場訊息：阿聯酋航空將與Crypto.com為客戶提供航班支付新方式。"
-    },
-    {
-      "id": "5012339",
-      "time": "2026-07-28 19:12:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "ALTIMMUNE盤前股價上漲17%，因其藥物在酒精使用障礙中期研究中達到主要目標。"
-    },
-    {
-      "id": "5012338",
-      "time": "2026-07-28 19:12:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "東京電子：明天將暫停熊本工廠的運營。"
-    },
-    {
-      "id": "mkt:019fa86c-f75a-7aab-8eca-554e47e5cfe6",
-      "time": "2026-07-28 19:12:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Tokyo Electron said it will suspend operations at its Kumamoto plant tomorrow."
-    },
-    {
-      "id": "5012337",
-      "time": "2026-07-28 19:12:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聚辰股份：重新遞交H股發行上市申請，申請資料已刊發】聚辰股份公告，公司已於2026年7月28日向香港聯交所重新遞交了本次H股發行上市的申請，並於同日在香港聯交所網站刊登了本次H股發行上市的申請資料。該申請資料為草擬版本，所載資料可能會適時作出更新和修訂。本次H股發行上市尚需取得相關監管機構批准、核准或備案，存在不確定性。"
-    },
-    {
-      "id": "5012336",
-      "time": "2026-07-28 19:12:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鋒龍股份：首次回購公司股份11.07萬股】鋒龍股份公告，公司於2026年7月28日首次透過回購專用證券賬戶以集中競價方式回購公司股份11.07萬股，佔公司總股本的0.05%，最高成交價為46.27元/股，最低成交價為44.38元/股，支付總金額約499.65萬元（不含交易費用）。本次回購符合此前披露的回購方案，回購價格未超過97.02元/股的上限，資金來源為自有資金及自籌資金，回購股份將用於實施員工持股計劃或股權激勵。"
-    },
-    {
-      "id": "5012335",
-      "time": "2026-07-28 19:12:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【仁東控股：股價異動，公司稱經營環境未發生重大變化】仁東控股公告，公司股票交易價格連續3個交易日（2026年7月24日、7月27日、7月28日）收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動。經公司自查並向第一大股東核實，公司前期披露資訊不存在需更正或補充事項，近期經營情況及內外部經營環境未發生重大變化，不存在應披露而未披露的重大事項。"
-    },
-    {
-      "id": "5012334",
-      "time": "2026-07-28 19:11:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "Core Scientific與AMD達成租賃協議。"
-    },
-    {
-      "id": "mkt:019fa86c-52b5-7aab-8eca-4d0161c82181",
-      "time": "2026-07-28 19:11:39",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Russian Defence Ministry said Russian forces have \"liberated\" the Krasny Kut settlement in Donetsk."
-    },
-    {
-      "id": "mkt:019fa86b-8809-7aab-8eca-43ef7c632194",
-      "time": "2026-07-28 19:10:47",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Russian officials propose arming Sea of Azov grain vessels】Russian officials have proposed equipping grain ships in the Sea of Azov with machine guns and mobile missile launchers to counter Ukrainian drone attacks. People familiar with the matter said the military and transport ministries are negotiating with grain traders and shipowners to secure exports via the Azov, which normally carries about a quarter of Russia's grain shipments but has been suspended for two weeks after attacks on ports, vessels and other maritime infrastructure. The proposal would temporarily outfit bulk carriers with armor plating, sandbags, anti‑drone nets and firing positions for heavy machine guns; soldiers armed with Kalashnikov rifles would escort ships for the first leg of voyages."
-    },
-    {
-      "id": "mkt:019fa86b-456d-7aab-8eca-3d113269439d",
-      "time": "2026-07-28 19:10:30",
-      "tags": [
-        "MKT News",
-        "GSK.N",
-        "Impact bullish"
-      ],
-      "text": "GSK (GSK.N) aims to achieve annual savings of €1.9 bln by 2029."
-    },
-    {
-      "id": "5012333",
-      "time": "2026-07-28 19:10:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【中紅醫療：預計2026年上半年淨利潤同比增長2338%–3557%】中紅醫療公告，預計2026年上半年歸屬於上市公司股東的淨利潤為1.4億元至2.1億元，比上年同期574.29萬元增長2338%–3557%。扣除非經常性損益後的淨利潤為9900萬元至1.48億元，比上年同期-1317.45萬元增長851%–1223%。業績變動主要因健康防護手套銷售價格上漲、產品毛利率顯著提升，以及公司挖潛降本、提質增效所致。"
-    },
-    {
-      "id": "5012332",
-      "time": "2026-07-28 19:09:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "葛蘭素史克(GSK)股價上漲2.5%，觸及盤中高點，此前該公司公佈的盈利報告超出預期。"
-    },
-    {
-      "id": "5012331",
-      "time": "2026-07-28 19:09:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "PAYPAL股價抹去早盤漲幅，下跌1.4%。"
     }
   ]
 }
