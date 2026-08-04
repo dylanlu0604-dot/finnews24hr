@@ -1,7 +1,136 @@
 {
-  "updated": "2026-08-05 07:27:42",
-  "count": 17864,
+  "updated": "2026-08-05 07:31:31",
+  "count": 17872,
   "items": [
+    {
+      "id": "te:markets:572709",
+      "time": "2026-08-05 07:30:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Extends Fall on Hormuz Deal Hopes — Brent fell below $79 per barrel on Wednesday, extending losses for a third consecutive session and bringing its weekly decline to more than 10% as optimism grew over a potential agreement to reopen the Strait of Hormuz. On Tuesday, Qatar said an interim proposal had been prepared and both Washington and Tehran indicated that negotiations to restore access to the vital waterway were making progress. President Donald Trump had earlier called off planned military action against Iran to give diplomacy a chance, while reiterating his demand for the swift reopening of Hormuz. Meanwhile, Iran is reportedly weighing a proposal to allow European countries to clear mines from the strait and said discussions with Oman on securing safe shipping routes were advancing. Saudi Arabia also continued talks with Yemen’s Houthi militants through Omani mediators in an effort to keep the conflict in the Red Sea from escalating further."
+    },
+    {
+      "id": "5025488",
+      "time": "2026-08-05 07:30:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本6月加班工資較上年同期增加2.8%。"
+    },
+    {
+      "id": "te:economy:572708",
+      "time": "2026-08-05 07:30:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Industry Index Construction",
+        "Importance 1"
+      ],
+      "text": "Australia Construction Extends Six-Month Contraction — The Ai Group Industry Index for Australia's construction sector fell to -40.6 in July 2026 from a downwardly revised -33.3 in the previous month, marking its weakest reading since March and the sixth consecutive month of contraction, highlighting a further deterioration in business conditions. Activity remained constrained by delays in project approvals, persistent cost pressures, cautious client spending, a limited pipeline of tender opportunities, and contracts nearing completion. Businesses also cited policy and regulatory uncertainty, which compounded higher fuel-related costs. Meanwhile, ongoing labour shortages continued to limit capacity, while rising wage costs added further pressure on the sector's operating conditions."
+    },
+    {
+      "id": "mkt:019fcf1c-f848-7aab-8f79-71821a41d154",
+      "time": "2026-08-05 07:30:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan June labor cash earnings YoY 3.4% (expected 3.5%); May revised to 3.3% from 3.2%."
+    },
+    {
+      "id": "mkt:019fcf1c-f158-7aab-8f79-6b5f23053905",
+      "time": "2026-08-05 07:30:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan June overtime pay YoY 2.8%, down from 2.9% previously."
+    },
+    {
+      "id": "mkt:019fcf1c-d2d1-7aab-8f79-64bb8e1721ad",
+      "time": "2026-08-05 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Cash Earnings (YoY) (Jun) | actual 3.4% | consensus 3.50% | previous 3.20%"
+    },
+    {
+      "id": "mkt:019fcf1c-d2bb-7aab-8f79-5ec16f89c06d",
+      "time": "2026-08-05 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Overtime Earnings (YoY) (Jun) | actual 2.8% | previous 2.9%"
+    },
+    {
+      "id": "5025487",
+      "time": "2026-08-05 07:29:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市軍事管理部門稱，俄羅斯襲擊基輔造成一人死亡。"
+    },
+    {
+      "id": "te:markets:572707",
+      "time": "2026-08-05 07:29:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Extends Fall on Hormuz Deal Hopes — Crude oil fell toward $75 per barrel on Wednesday, extending losses for a third consecutive session and bringing its weekly decline to more than 10% as optimism grew over a potential agreement to reopen the Strait of Hormuz. On Tuesday, Qatar said an interim proposal had been prepared and both Washington and Tehran indicated that negotiations to restore access to the vital waterway were making progress. President Donald Trump had earlier called off planned military action against Iran to give diplomacy a chance, while reiterating his demand for the swift reopening of Hormuz. Meanwhile, Iran is reportedly weighing a proposal to allow European countries to clear mines from the strait and said discussions with Oman on securing safe shipping routes were advancing. Saudi Arabia also continued talks with Yemen’s Houthi militants through Omani mediators in an effort to keep the conflict in the Red Sea from escalating further."
+    },
+    {
+      "id": "5025486",
+      "time": "2026-08-05 07:29:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【強對流+暴雨雙預警 部分地區將有10級以上雷暴大風】8月5日6時，中央氣象臺釋出強對流天氣藍色預警和暴雨藍色預警，部分地區將有10級以上雷暴大風，最大風力可達11級以上，需注意防範。"
+    },
+    {
+      "id": "5025485",
+      "time": "2026-08-05 07:28:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【落後產能有序出清 多晶矽價格四季度或溫和修復】系列政策落地正在攪動多晶矽市場格局，近日多晶矽期貨主力合約走高。記者採訪多位業內專家瞭解到，隨著政策逐步落地執行，高能耗落後產能或有序出清，第四季度多晶矽價格有望向成本線回升，但行業供需格局並未實現根本性反轉，或對價格修復節奏形成一定製約。（上海證券報）"
+    },
+    {
+      "id": "5025484",
+      "time": "2026-08-05 07:27:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股110份半年報“交卷” 多個賽道持續高景氣】A股上市公司半年報披露即將進入高峰期。據記者統計，截至8月4日20時，已有110家公司披露了半年報。其中，68家公司上半年淨利潤實現同比增長，14家實現扭虧為盈。行業需求的穩步回暖和主營業務的穩健增長，成為驅動上市公司業績向好的主要因素。記者梳理已披露的半年報發現，化工、醫藥、電力、有色等行業經營態勢持續向好。寧德時代、藥明康德等行業龍頭公司已率先發布半年報，上半年業績均實現強勁增長。（上海證券報）"
+    },
+    {
+      "id": "5025483",
+      "time": "2026-08-05 07:27:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【馬斯克：SpaceX收入或達1萬億美元】馬斯克週二為SpaceX勾勒了雄心勃勃的目標，包括在2027年將資料中心送入太空，以及實現1萬億美元的收入。這是該公司首次公開募股(IPO)以來，馬斯克首次向投資者發表講話。在這位億萬富豪企業家兼SpaceX執行長發表上述宣告之前，該公司釋出了一份財報，顯示其太空、網路連線和人工智慧(AI)這三大業務的收入均實現大幅增長。作為全球最大的火箭發射公司和衛星網際網路提供商，SpaceX第二財季總收入達到78億美元，較上年同期飆升92%。。儘管該公司在最新財季的虧損有所收窄，但鉅額資本支出依然對運營構成了重壓。當季資本支出達到184億美元，遠超上年同期的28億美元。SpaceX股價週二收盤上漲逾9%。但在財報釋出和電話會議之後，該股在盤後下跌逾8%。在與分析師長約一小時的電話會議中，馬斯克宣傳了公司的多項預期目標，例如SpaceX到2030年實現1萬億美元的收入，將原定於2031年達成該目標的時間表提前。馬斯克和其他高管還向分析師強調，這些支出對於建設AI基礎設施等公司戰略至關重要。"
+    },
     {
       "id": "5025482",
       "time": "2026-08-05 07:26:49",
@@ -165213,46 +165342,6 @@
         "公司"
       ],
       "text": "【雍禾醫療：預計上半年淨利潤同比增長不少於150.9%】7月29日，雍禾醫療在港交所公告，集團預計於截至2026年6月30日止六個月錄得淨利潤不少於人民幣7000萬元，較2025年同期淨利潤人民幣2790萬元增長不少於150.9%；集團收入預計較2025年同期實現穩健增長不少於10.0%。"
-    },
-    {
-      "id": "5013123",
-      "time": "2026-07-29 07:30:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報告：2030年歐盟或缺500萬ICT專業人才】歐洲改善生活和工作條件基金會（Eurofound）近日釋出報告說，按當前增速，歐盟難以實現“數字十年”政策方案設定的到2030年擁有2000萬名資訊與通訊技術（ICT）專業人才的目標，缺口預計約500萬人。（新華財經）"
-    },
-    {
-      "id": "5013122",
-      "time": "2026-07-29 07:28:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【券商積極參與碳交易 綠色金融佈局持續深化】近日，東北證券釋出公告稱，公司收到中國證監會《關於東北證券股份有限公司參與碳排放權交易有關意見的覆函》，公司自營業務可在境內合法交易場所參與碳排放權交易。記者梳理發現，今年以來已有10家券商相繼取得碳排放權交易資質，具備相關資質的券商數量增至28家。資質擴容的背後，綠色金融正成為證券行業探索業務轉型的重要方向。多家券商已圍繞碳交易、碳資產管理、綠色債券、ESG投資等領域進行佈局。業內人士表示，全國碳市場穩步發展，為券商的參與提供了更豐富的業務場景，券商可依託交易、定價和風險管理優勢，探索碳資產交易、綠色融資等綜合服務。（上海證券報）"
-    },
-    {
-      "id": "5013121",
-      "time": "2026-07-29 07:28:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多地劃定政府投資基金投向“路線圖”新能源、傳統產業升級、人工智慧是核心佈局方向】據記者不完全統計，7月份以來已有山東、山西、吉林、甘肅、內蒙古等地相繼公佈政府投資基金重點投資領域清單。此外，河北對外發布了《河北省政府投資基金重點投資領域清單（試行）（徵求意見稿）》。 從投資領域看，新能源、傳統產業升級、人工智慧是各地的核心佈局方向。同時，各地立足自身資源稟賦與產業基礎，在成熟產業扶持、前沿未來產業培育兩大維度走出差異化佈局路徑。 受訪專家表示，新能源、傳統產業升級、人工智慧成為各地共同發力方向，貼合國家產業轉型頂層規劃，有利於凝聚跨區域產業發展合力。同時，各地結合資源基礎差異化佈局，能夠規避同質化投資、低效重複建設問題。此外，清單清晰劃定投資邊界，可充分發揮政府基金耐心資本屬性，撬動社會資本聚焦科創、綠色等實體經濟領域，補齊各地產業鏈短板。（證券日報）"
-    },
-    {
-      "id": "5013120",
-      "time": "2026-07-29 07:28:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股IPO市場持續升溫 科技與“A+H”雙輪驅動】2026年以來，港股首次公開募股（IPO）市場延續強勁勢頭。港交所資料顯示，截至6月30日，2026年受理的上市新申請共373宗，加上2025年底結轉的372宗未處理完畢申請，合計745宗處於處理流程之中，其中528宗處於處理中狀態。Wind資料顯示，截至7月28日，年內港股市場共完成100宗IPO，募資總額約2723.39億港元。半導體、AI大模型、智慧硬體等科技企業仍是上市核心主力，“A+H”上市熱度持續攀升。分析人士認為，隨著內地科技龍頭加速赴港上市及互聯互通機制持續深化，港股作為新經濟企業上市首選地的地位將進一步鞏固。（中國證券報）"
-    },
-    {
-      "id": "5013119",
-      "time": "2026-07-29 07:27:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“個貸融資成本明示”即將實施 多家機構提前完成合規佈局】《個人貸款業務明示綜合融資成本規定》8月1日起施行，相關機構加速系統改造、完善協議文字。記者調研發現，部分商業銀行、消費金融公司已釋出明示貸款成本方案並上線綜合融資成本明示相關流程，部分助貸機構也在探索與放貸機構新的合作模式，以適配監管新規要求。（中國證券報）"
     }
   ]
 }
