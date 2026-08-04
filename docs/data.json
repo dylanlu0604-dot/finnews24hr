@@ -1,7 +1,115 @@
 {
-  "updated": "2026-08-05 06:58:45",
-  "count": 17865,
+  "updated": "2026-08-05 07:04:35",
+  "count": 17868,
   "items": [
+    {
+      "id": "te:markets:572702",
+      "time": "2026-08-05 07:01:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Nears Record High, Tracks Wall Street Higher — New Zealand's stocks rose 70 points, or 0.5%, to 13,973 in Wednesday morning trade, up for the third consecutive session, tracking a rally on Wall Street overnight, buoyed by strong corporate earnings and lower oil prices. The broader index closed near its record high of 13,977, reached on July 29, mainly supported by gains in the financial, consumer staples, and technology sectors. Further moderating oil prices amid optimism over US-Iran peace talks also lifted sentiment, as easing inflation concerns tempered expectations of an interest rate hike. However, the latest data capped the gains, as New Zealand's unemployment rate increased to 5.6%, the highest since Q3 2015, raising expectations that the RBNZ will tighten its monetary policy. Among the early gainers were Summerset Group (2.0%), Infratil (1.4%), A2 Milk (0.9%), Westpac Banking Corp. (0.6%), Fisher & Paykel (0.5%), and Ebos Group (0.3%)."
+    },
+    {
+      "id": "5025450",
+      "time": "2026-08-05 07:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三項光伏能耗能效強制性國標明年1月起正式實施】記者昨天（4日）從國家標準委瞭解到，三項光伏領域能耗能效強制性國家標準明年一月起正式實施，三項標準將從源頭嚴控低效產品入市、推動光伏產業技術迭代與綠色升級。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fcf01-89f3-7aab-8f79-439b8ee52cac",
+      "time": "2026-08-05 07:00:12",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia July AIG/PwC Manufacturing Performance Index -19.6; prior -16.8."
+    },
+    {
+      "id": "mkt:019fcf01-847b-7aab-8f79-3a0e2fdec086",
+      "time": "2026-08-05 07:00:10",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia AIG Construction Performance Index fell to -40.6 in July from -38.1 previously."
+    },
+    {
+      "id": "mkt:019fcf01-81c3-7aab-8f79-3126d98f0fbc",
+      "time": "2026-08-05 07:00:10",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia July S&P Global Services PMI (final) 53.6; prior 53.0."
+    },
+    {
+      "id": "mkt:019fcf01-815d-7aab-8f79-297e6ba9a537",
+      "time": "2026-08-05 07:00:10",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia July S&P Global Composite PMI (final) 53.2, prior 52.6."
+    },
+    {
+      "id": "mkt:019fcf01-5f72-7aab-8f79-23980a9527a7",
+      "time": "2026-08-05 07:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Ai Group Australian PMI (manufacturing) (Jul) | actual -19.6 | previous -16.8"
+    },
+    {
+      "id": "mkt:019fcf01-5f6d-7aab-8f79-1b190f64148c",
+      "time": "2026-08-05 07:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Ai Group Australian PCI (construction) (Jul) | actual -40.6 | previous -38.1"
+    },
+    {
+      "id": "5025449",
+      "time": "2026-08-05 06:59:08",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【國內航線燃油附加費今起再次下調】從多家航空公司瞭解到，從今天（5日）起銷售的國內航線機票燃油附加費再次下調。調整後的國內航線燃油附加費標準為：800公里以上航線每位成人旅客收取70元燃油附加費，800公里（含）以下航線每位成人旅客收取40元燃油附加費，相較於調整前分別降低了30元和10元。這是今年6月以來第三次下調國內航線燃油附加費，進一步降低旅客出行成本。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fcf00-82db-7aab-8f79-12aba6ad8b34",
+      "time": "2026-08-05 06:59:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【China cuts domestic air fuel surcharge again, effective today】Multiple Chinese carriers said fuel surcharges on domestic tickets fall effective today. New rates: routes over 800 km 70 yuan per adult (down 30 yuan); routes 800 km or less 40 yuan per adult (down 10 yuan). This is the third reduction since June and lowers passenger travel costs."
+    },
     {
       "id": "5025448",
       "time": "2026-08-05 06:57:55",
@@ -165191,69 +165299,6 @@
         "其他"
       ],
       "text": "【SK海力士第二財季營業利潤不及預期】SK海力士公佈的第二財季營業利潤低於分析師的平均預期。第二財季業績：營業利潤60.54萬億韓元，預估為64.22萬億韓元；淨利潤93.82萬億韓元，預估54.32萬億韓元；銷售額79.32萬億韓元，預估為83.85萬億韓元；毛利率83%。"
-    },
-    {
-      "id": "5013089",
-      "time": "2026-07-29 07:04:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "SK海力士盤前下跌4.5%，此前該公司公佈第二季度利潤遜預期。"
-    },
-    {
-      "id": "te:economy:570518",
-      "time": "2026-07-29 07:04:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Chile",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Chile Holds Interest Rate at 4.5% — The Central Bank of Chile kept its benchmark interest rate unchanged at 4.5% in a unanimous decision at its July meeting, as widely expected. Policymakers said the macroeconomic outlook remains subject to greater-than-usual uncertainty as renewed fighting between the US and Iran pushed oil prices back toward $100 per barrel and clouded the outlook for global supply. Domestically, economic activity weakened more than expected, with May's Imacec falling 0.9% year-on-year while investment and labor market conditions softened. Meanwhile, annual inflation accelerated to 4.3% in June, slightly above forecasts, as core inflation rose faster than expected and short-term inflation expectations increased alongside higher oil prices. However, inflation expectations two years ahead remained anchored at 3%. The board reiterated that it will assess policy meeting by meeting and take the measures needed to return inflation to its 3% target over a two-year horizon."
-    },
-    {
-      "id": "5013088",
-      "time": "2026-07-29 07:03:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克期貨跌幅擴大至0.6%，標普500期貨下滑0.2%。"
-    },
-    {
-      "id": "5013087",
-      "time": "2026-07-29 07:02:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【AI短劇半年規模超220億元，產業爆發重塑內容生產邏輯】今年上半年，AI短劇交出了一份遠超市場預期的成績單。DataEye最新資料顯示，今年1月至5月AI短劇市場規模已突破220億元，全年有望衝擊400億元大關，國內AI短劇使用者在今年上半年突破6億。當前，從平臺到製作方，從技術提供方到內容創作者，各方都在熱議一個共同話題——AI正在從根本上重塑短劇的生產邏輯與商業邊界。業內人士普遍認為，AI短劇已走過試探期，規模化的產業爆發正在發生。（中證報）"
-    },
-    {
-      "id": "5013086",
-      "time": "2026-07-29 07:02:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港金管局透過貼現視窗向銀行投放2.79億港元流動性。"
-    },
-    {
-      "id": "5013085",
-      "time": "2026-07-29 06:59:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【二季度券商客戶投訴量環比增長22.3%】從業內獲悉，中國證券業協會近日在行業內通報了2026年二季度證券公司投訴處理工作情況，給火熱的市場提了醒：當二季度A股日均成交額衝上2.88萬億元、兩融餘額一度突破3萬億元大關之際，投資者訴求也同步“水漲船高”。資料顯示，二季度全行業共接收客戶投訴9610件，環比攀升22.3%；在投訴總量上行的背景下，辦結率仍維持高位，當期累計辦結8888件，辦結率達92.5%。（中證報）"
-    },
-    {
-      "id": "mkt:019faaf4-0796-7aab-8ed6-9cae983d5065",
-      "time": "2026-07-29 06:59:07",
-      "tags": [
-        "MKT News",
-        "AAL.O",
-        "Impact bearish"
-      ],
-      "text": "U.S. Federal Aviation Administration (FAA) issued a nationwide ground stop for American Airlines Group (AAL.O) flights due to an IT systems issue."
     }
   ]
 }

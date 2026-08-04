@@ -1,7 +1,115 @@
 {
   "date": "2026-08-05",
-  "count": 490,
+  "count": 500,
   "items": [
+    {
+      "id": "te:markets:572702",
+      "time": "2026-08-05 07:01:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Nears Record High, Tracks Wall Street Higher — New Zealand's stocks rose 70 points, or 0.5%, to 13,973 in Wednesday morning trade, up for the third consecutive session, tracking a rally on Wall Street overnight, buoyed by strong corporate earnings and lower oil prices. The broader index closed near its record high of 13,977, reached on July 29, mainly supported by gains in the financial, consumer staples, and technology sectors. Further moderating oil prices amid optimism over US-Iran peace talks also lifted sentiment, as easing inflation concerns tempered expectations of an interest rate hike. However, the latest data capped the gains, as New Zealand's unemployment rate increased to 5.6%, the highest since Q3 2015, raising expectations that the RBNZ will tighten its monetary policy. Among the early gainers were Summerset Group (2.0%), Infratil (1.4%), A2 Milk (0.9%), Westpac Banking Corp. (0.6%), Fisher & Paykel (0.5%), and Ebos Group (0.3%)."
+    },
+    {
+      "id": "5025450",
+      "time": "2026-08-05 07:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三項光伏能耗能效強制性國標明年1月起正式實施】記者昨天（4日）從國家標準委瞭解到，三項光伏領域能耗能效強制性國家標準明年一月起正式實施，三項標準將從源頭嚴控低效產品入市、推動光伏產業技術迭代與綠色升級。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fcf01-89f3-7aab-8f79-439b8ee52cac",
+      "time": "2026-08-05 07:00:12",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia July AIG/PwC Manufacturing Performance Index -19.6; prior -16.8."
+    },
+    {
+      "id": "mkt:019fcf01-847b-7aab-8f79-3a0e2fdec086",
+      "time": "2026-08-05 07:00:10",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia AIG Construction Performance Index fell to -40.6 in July from -38.1 previously."
+    },
+    {
+      "id": "mkt:019fcf01-81c3-7aab-8f79-3126d98f0fbc",
+      "time": "2026-08-05 07:00:10",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia July S&P Global Services PMI (final) 53.6; prior 53.0."
+    },
+    {
+      "id": "mkt:019fcf01-815d-7aab-8f79-297e6ba9a537",
+      "time": "2026-08-05 07:00:10",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia July S&P Global Composite PMI (final) 53.2, prior 52.6."
+    },
+    {
+      "id": "mkt:019fcf01-5f72-7aab-8f79-23980a9527a7",
+      "time": "2026-08-05 07:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Ai Group Australian PMI (manufacturing) (Jul) | actual -19.6 | previous -16.8"
+    },
+    {
+      "id": "mkt:019fcf01-5f6d-7aab-8f79-1b190f64148c",
+      "time": "2026-08-05 07:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Ai Group Australian PCI (construction) (Jul) | actual -40.6 | previous -38.1"
+    },
+    {
+      "id": "5025449",
+      "time": "2026-08-05 06:59:08",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【國內航線燃油附加費今起再次下調】從多家航空公司瞭解到，從今天（5日）起銷售的國內航線機票燃油附加費再次下調。調整後的國內航線燃油附加費標準為：800公里以上航線每位成人旅客收取70元燃油附加費，800公里（含）以下航線每位成人旅客收取40元燃油附加費，相較於調整前分別降低了30元和10元。這是今年6月以來第三次下調國內航線燃油附加費，進一步降低旅客出行成本。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fcf00-82db-7aab-8f79-12aba6ad8b34",
+      "time": "2026-08-05 06:59:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【China cuts domestic air fuel surcharge again, effective today】Multiple Chinese carriers said fuel surcharges on domestic tickets fall effective today. New rates: routes over 800 km 70 yuan per adult (down 30 yuan); routes 800 km or less 40 yuan per adult (down 10 yuan). This is the third reduction since June and lowers passenger travel costs."
+    },
     {
       "id": "5025448",
       "time": "2026-08-05 06:57:55",
