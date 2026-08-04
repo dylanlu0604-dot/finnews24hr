@@ -1,7 +1,53 @@
 {
   "date": "2026-08-04",
-  "count": 1051,
+  "count": 1056,
   "items": [
+    {
+      "id": "5023733",
+      "time": "2026-08-04 13:46:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "三井物產首席財務官：在對長期脫碳拍賣計劃的細節進行分析後，我們將評估位於新潟的海上風電專案的經濟可行性。"
+    },
+    {
+      "id": "5023732",
+      "time": "2026-08-04 13:46:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "智譜(02513.HK)漲超10%，成交額超38億港元。"
+    },
+    {
+      "id": "mkt:019fcb4e-f7c5-7aab-8f65-393a5b3d6344",
+      "time": "2026-08-04 13:46:17",
+      "tags": [
+        "MKT News",
+        "02513.HK",
+        "Impact bullish"
+      ],
+      "text": "Zhipu (02513.HK) jumped more than 10% on turnover exceeding HKD 3.8 bln."
+    },
+    {
+      "id": "mkt:019fcb4e-1725-7aab-8f65-306a2ec038c8",
+      "time": "2026-08-04 13:45:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Iran, Oman near deal on Strait of Hormuz transit】U.S. sources on the 3rd, citing Iranian and U.S. officials, said Iran and Oman are close to an agreement on navigation through the Strait of Hormuz. Under the draft, vessels entering the Persian Gulf would use an Iran-controlled lane near Iran’s coast while outbound ships would use a lane near Oman, and multiple Iranian officials said transiting vessels would pay a \"service fee\" to be split between Iran and Oman. A U.S. official familiar with the talks said Iran’s description was inaccurate and that any temporary lane in the Strait would not require Iranian approval and would not impose charges on passing ships."
+    },
+    {
+      "id": "5023731",
+      "time": "2026-08-04 13:45:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數轉漲，此前一度跌超1%。"
+    },
     {
       "id": "5023730",
       "time": "2026-08-04 13:44:23",

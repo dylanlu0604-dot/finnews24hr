@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-04 13:45:32",
+  "updated": "2026-08-04 13:49:33",
   "count": 17763,
   "items": [
+    {
+      "id": "5023733",
+      "time": "2026-08-04 13:46:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "三井物產首席財務官：在對長期脫碳拍賣計劃的細節進行分析後，我們將評估位於新潟的海上風電專案的經濟可行性。"
+    },
+    {
+      "id": "5023732",
+      "time": "2026-08-04 13:46:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "智譜(02513.HK)漲超10%，成交額超38億港元。"
+    },
+    {
+      "id": "mkt:019fcb4e-f7c5-7aab-8f65-393a5b3d6344",
+      "time": "2026-08-04 13:46:17",
+      "tags": [
+        "MKT News",
+        "02513.HK",
+        "Impact bullish"
+      ],
+      "text": "Zhipu (02513.HK) jumped more than 10% on turnover exceeding HKD 3.8 bln."
+    },
+    {
+      "id": "mkt:019fcb4e-1725-7aab-8f65-306a2ec038c8",
+      "time": "2026-08-04 13:45:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Iran, Oman near deal on Strait of Hormuz transit】U.S. sources on the 3rd, citing Iranian and U.S. officials, said Iran and Oman are close to an agreement on navigation through the Strait of Hormuz. Under the draft, vessels entering the Persian Gulf would use an Iran-controlled lane near Iran’s coast while outbound ships would use a lane near Oman, and multiple Iranian officials said transiting vessels would pay a \"service fee\" to be split between Iran and Oman. A U.S. official familiar with the talks said Iran’s description was inaccurate and that any temporary lane in the Strait would not require Iranian approval and would not impose charges on passing ships."
+    },
+    {
+      "id": "5023731",
+      "time": "2026-08-04 13:45:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數轉漲，此前一度跌超1%。"
+    },
     {
       "id": "5023730",
       "time": "2026-08-04 13:44:23",
@@ -164575,51 +164621,6 @@
         "Importance 1"
       ],
       "text": "NZX 50 Rebounds, Ends at New Record High — New Zealand's stocks ticked up 11 points, or 0.1%, to close at 13,862 on Tuesday, reversing morning losses, buoyed by gains in healthcare, communication services, industrials, and consumer staples. The broader index hit a new record high, marking its second consecutive record close, after closing at 13,851 a day earlier. Easing oil prices continued to lift sentiment as easing inflation concerns reduced expectations of further interest rate hikes. However, a decline in US stock futures limited the gains amid a global tech selloff. Traders also remained cautious ahead of the Fed's monetary policy decision and China's PMI data, as well as the release of New Zealand's consumer confidence and business outlook data for July, due this week. Among the best performers were AFT Pharmaceuticals (5.2%), Fisher & Paykel Healthcare (2.2%), Auckland International Airport (1.0%), Australian Foundation Investment (0.8%), ANZ Group (0.7%), F&C Investment Trust (0.7%), and a2 Milk (0.6%)."
-    },
-    {
-      "id": "5011518",
-      "time": "2026-07-28 13:48:46",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【印度軟體股有望創紀錄跑贏全球晶片股】印度軟體股有望創下對全球晶片股的最大月度跑贏紀錄，表明投資者正在撤出AI交易，轉向此前遭受重創的資訊科技（IT）股票。由10家印度軟體出口商組成的印度NIFTY IT指數本月上漲16%，而MSCI全球半導體及相關裝置製造商指數則下跌13%。兩者走勢分化表明，投資者對晶片股驅動的AI上漲行情逐漸感到疲憊，同時在經歷多年低迷後重新關注印度IT服務企業。此次資金轉向之際，被視為全球半導體和AI投資風向標的韓國KOSPI指數已較6月中旬高點下跌超過30%。傑富瑞金融集團上週將印度IT行業評級上調至“中性”，並表示AI交易逆轉可能推動該行業出現階段性上漲。"
-    },
-    {
-      "id": "mkt:019fa744-51b3-7aab-8ec0-6ad10856b6d2",
-      "time": "2026-07-28 13:48:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSDAQ index fell 8.7%."
-    },
-    {
-      "id": "mkt:019fa744-4d29-7aab-8ec0-64536344c127",
-      "time": "2026-07-28 13:48:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Indian software stocks could post record monthly outperformance vs global chip shares】Indian software stocks could register their largest monthly outperformance versus global chip shares: the NIFTY IT index of 10 Indian software exporters is up 16% month-to-date while the MSCI Global Semiconductors & Equipment Index is down 13% over the same period. The divergence indicates a rotation away from AI-driven chip trades into previously battered Indian IT services. South Korea’s KOSPI, viewed as a barometer for global semiconductors and AI investment, is over 30% below mid-June highs. Jefferies last week upgraded the India IT sector to Neutral and said a reversal in AI flows could trigger a temporary rally in the industry."
-    },
-    {
-      "id": "5011517",
-      "time": "2026-07-28 13:48:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【世紀恆通等成立新公司，含AI及雲端計算相關業務】企查查APP顯示，近日，樂瀾澐智（海南）科技有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧公共服務平臺技術諮詢服務；人工智慧基礎資源與技術平臺；雲端計算裝置製造；雲端計算裝置銷售等。企查查股權穿透顯示，該公司由世紀恆通等共同持股。"
-    },
-    {
-      "id": "5011516",
-      "time": "2026-07-28 13:46:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國KOSDAQ指數下跌8.7%，報698.48點."
     }
   ]
 }
