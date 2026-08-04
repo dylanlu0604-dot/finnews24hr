@@ -1,7 +1,697 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-05 00:59:14_
-_本檔包含 3563 則快訊，約 665575 字_
+_更新時間：2026-08-05 02:45:20_
+_本檔包含 3587 則快訊，約 665181 字_
+
+---
+
+### 2026-07-31 05:51:24  #市場
+
+淡水河谷：預計 2026 年鐵礦石C1 現金成本為每噸 22.5–23.5 美元，此前預測區間為每噸 20–21.5 美元。
+
+---
+
+### 2026-07-31 05:49:30  #MKT News #Important
+
+U.S. Treasury Secretary Bessent said Japan may have intervened in the foreign-exchange market earlier on Thursday.
+
+---
+
+### 2026-07-31 05:48:59  #宏觀 #國際
+
+市場訊息：美國財政部貝森特稱，日本週四早些時候可能已入市干預匯市。
+
+---
+
+### 2026-07-31 05:47:19  #其他
+
+淡水河谷批准向股東派息每股2.03巴西雷亞爾。
+
+---
+
+### 2026-07-31 05:45:08  #Trading Economics #Markets #commodity #Importance 0
+
+Copper Hits 5-week Low — Copper decreased to 5.99 USD/Lbs, the lowest since June 2026. Over the past 4 weeks, Copper gained 5.67%, and in the last 12 months, it increased 46.95%.
+
+---
+
+### 2026-07-31 05:43:40  #公司
+
+亞馬遜CEO： 供應受限的主要原因是 iPhone、Mac 需求超出預期。
+
+---
+
+### 2026-07-31 05:42:38  #公司
+
+蘋果CEO庫克：對於希望重度使用新AI產品的使用者，蘋果將提供“升級選項”。
+
+---
+
+### 2026-07-31 05:42:22  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O
+
+Amazon (AMZN.O) CEO said the company is developing proprietary cutting-edge models to control costs and reduce consumer spending.
+
+---
+
+### 2026-07-31 05:42:20  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish #Nasdaq100
+
+Apple (AAPL.O) CEO Cook said Apple will offer "upgrade options" for users who want to use its new AI products heavily.
+
+---
+
+### 2026-07-31 05:42:10  #MKT News
+
+Chile announces restoration of consular relations with Venezuela.
+
+---
+
+### 2026-07-31 05:42:06  #公司 #國際
+
+亞馬遜CEO： 公司正自研前沿大模型，以此把控成本，併為消費者降低費用。
+
+---
+
+### 2026-07-31 05:40:58  #公司
+
+亞馬遜CEO： 不會存在一家獨大的人工智慧模型。
+
+---
+
+### 2026-07-31 05:39:24  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
+
+Amazon (AMZN.O) CFO said AWS's profitability is not accidental and reflects efficiency gains and capacity optimization.
+
+---
+
+### 2026-07-31 05:39:14  #MKT News #Important #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O) CEO Tim Cook said the company is evaluating all options for memory supply and is seeking alternative component suppliers.
+
+---
+
+### 2026-07-31 05:39:00  #市場
+
+美股儲存晶片概念股盤後繼續走強，西部資料漲超4%，希捷科技、美光科技和SK海力士漲3%，閃迪漲6%。
+
+---
+
+### 2026-07-31 05:38:37  #公司
+
+亞馬遜：亞馬遜雲科技（AWS）盈利能力提升並非偶然，而是得益於效率改善與產能最佳化。
+
+---
+
+### 2026-07-31 05:38:32  #MKT News #Important #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) CEO Cook said additional DRAM suppliers would be beneficial.
+
+---
+
+### 2026-07-31 05:37:55  #國際
+
+市場訊息：美國和烏克蘭上週簽署了無人機技術協議。
+
+---
+
+### 2026-07-31 05:37:16  #公司
+
+蘋果CEO庫克： 針對記憶體供應問題，“我們正在評估所有可行方案”。
+
+---
+
+### 2026-07-31 05:36:40  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
+
+Amazon (AMZN.O) CFO said tariff refund amounts are limited because the company pre-bought goods and pre-positioned inventory to avoid tariff costs.
+
+---
+
+### 2026-07-31 05:36:31  #公司
+
+蘋果CEO庫克： 第四財季記憶體成本將高於第三財季， 預計第四財季部分非記憶體類零部件成本有所下降。
+
+---
+
+### 2026-07-31 05:35:51  #市場
+
+蘋果：第三財季記憶體採購成本較第二財季 “大幅上漲”。
+
+---
+
+### 2026-07-31 05:35:48  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple Inc (AAPL.O) CEO Tim Cook said memory spending in the third fiscal quarter was "significantly higher" than in the second fiscal quarter.
+
+---
+
+### 2026-07-31 05:35:06  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
+
+Apple (AAPL.O) CEO Cook said supply chain flexibility is below normal and supply constraints have primarily affected Mac.
+
+---
+
+### 2026-07-31 05:34:59  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Israel says it destroyed underground tunnel infrastructure on Lebanon's Beaufort Ridge】Israel's prime minister's office said early on July 31 that, under orders from PM Netanyahu and Defense Minister Katz, the IDF demolished underground tunnel infrastructure on southern Lebanon's Beaufort Ridge using about 700 tonnes of explosives. The office said the tunnels were a key element of Hezbollah's planned attacks on northern Israeli communities and described the operation as a response to Hezbollah's breach of a ceasefire. The IDF said its 36th Division under Northern Command destroyed multiple core tunnel routes and that Israeli forces remain deployed in Lebanon's southern security zone to continue clearing military infrastructure and prevent Hezbollah from reconstituting capabilities.
+
+---
+
+### 2026-07-31 05:34:54  #其他
+
+蘋果：預計供應緊張情況將在 6 月所在季度至 9 月所在季度顯著加劇，供貨瓶頸將波及 iPhone、Mac 以及 iPad 產品線。
+
+---
+
+### 2026-07-31 05:34:41  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
+
+Apple (AAPL.O) expects foreign-exchange headwinds to subtract 2.5 percentage points from fiscal Q4 results.
+
+---
+
+### 2026-07-31 05:34:31  #公司
+
+亞馬遜：由於企業提前採購、預先備貨以規避關稅成本，關稅退款規模受到限制。
+
+---
+
+### 2026-07-31 05:33:47  #公司
+
+蘋果CEO庫克： 我們觀察到供應鏈靈活性不及往常水平，供應受限問題主要影響 Mac 產品線。
+
+---
+
+### 2026-07-31 05:33:11  #國際
+
+【以色列稱炸燬黎南部博福特嶺地區地下通道設施】當地時間7月31日凌晨，以色列總理辦公室透過社交媒體釋出宣告稱，根據以總理內塔尼亞胡和國防部長卡茨的指令，以色列國防軍當天拆毀了黎巴嫩南部博福特嶺地區的地下通道設施。以方稱，這些地下基礎設施是黎巴嫩真主黨此前計劃襲擊以色列北部地區居民社群的重要依託。宣告稱，以軍在此次行動中使用了約700噸炸藥。以方表示，此次軍事行動是對黎巴嫩真主黨前一日“公然違反停火協議”的回應。宣告稱，以軍仍駐紮在黎巴嫩南部“安全區”內，並將繼續清除相關軍事設施，阻止黎巴嫩真主黨恢復其軍事能力。（央視新聞）
+
+---
+
+### 2026-07-31 05:33:07  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
+
+Amazon (AMZN.O) CFO said the company received about $600 mln in tariff-related refunds.
+
+---
+
+### 2026-07-31 05:32:39  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
+
+Apple (AAPL.O) CFO said supply constraints will "significantly worsen" in the fourth quarter.
+
+---
+
+### 2026-07-31 05:32:21  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) CFO said the company received about $600m in tariff refunds in fiscal Q2.
+
+---
+
+### 2026-07-31 05:31:54  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Outgoing Apple (AAPL.O) CEO Tim Cook thanked shareholders and analysts on his final earnings call.
+
+---
+
+### 2026-07-31 05:31:35  #公司
+
+蘋果CEO庫克：蘋果執行長交接“順利進行”。庫克在其最後一次財報電話會議上感謝股東和分析師。
+
+---
+
+### 2026-07-31 05:31:13  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) CEO Cook says the company’s CEO transition is "proceeding smoothly".
+
+---
+
+### 2026-07-31 05:31:05  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O) CFO expects fourth fiscal quarter operating expenses of $19.1 bln–$19.4 bln.
+
+---
+
+### 2026-07-31 05:30:53  #其他
+
+蘋果預計第四季度運營支出區間為 191 億至 194 億美元。
+
+---
+
+### 2026-07-31 05:30:52  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) CFO expects fourth fiscal-quarter gross margin of 47–48%, with tariff refunds contributing about 1 percentage point.
+
+---
+
+### 2026-07-31 05:30:35  #其他
+
+【西班牙關閉梅利利亞與摩洛哥邊境口岸】當地時間7月30日，西班牙政府宣佈，北非自治市梅利利亞與摩洛哥之間唯一開放的貝尼恩薩爾（Beni Enzar）邊境口岸已關閉。當地政府呼籲民眾不要前往邊境區域，以免影響安全部門執法。西班牙地方官員29日說，近日數以百計偷渡者從摩洛哥出發，透過游泳方式抵達西班牙位於北非的飛地休達，導致當地收容中心人滿為患。（央視新聞）
+
+---
+
+### 2026-07-31 05:30:30  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) CFO expects iPhone revenue in the fiscal fourth quarter to rise about 15% year-on-year.
+
+---
+
+### 2026-07-31 05:30:00  #其他
+
+蘋果預計毛利率區間為 47% 至 48%，關稅退款將帶來 1 個百分點的正向貢獻。
+
+---
+
+### 2026-07-31 05:29:41  #MKT News #Important #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
+
+Apple (AAPL.O) CFO expects fourth fiscal quarter revenue to rise 9–11% versus analysts' 12.1% estimate. Apple shares fell about 7% in U.S. after-hours trading.
+
+---
+
+### 2026-07-31 05:28:11  #公司
+
+亞馬遜CEO：已收到約 6 億美元關稅相關退款。
+
+---
+
+### 2026-07-31 05:27:48  #其他
+
+蘋果預計第四季度營收增幅介於 9% 至 11%，市場預期為 12.1%。
+
+---
+
+### 2026-07-31 05:26:21  #其他
+
+蘋果：平臺上現在擁有15億付費訂閱（使用者）。
+
+---
+
+### 2026-07-31 05:26:17  #公司 #焦點 #國際
+
+亞馬遜CEO：AWS年營收有望達到1萬億美元。2028年AWS需求十分顯著。客戶對會員日的反應令人滿意。
+
+---
+
+### 2026-07-31 05:26:11  #MKT News
+
+Apple (AAPL.O) CFO says more companies are choosing Macs to leverage on-device AI advantages.
+
+---
+
+### 2026-07-31 05:26:03  #MKT News #AMZN.O #Impact bullish
+
+Amazon (AMZN.O) CEO said AWS demand in 2028 is significant. Customer response to Prime Day was satisfactory.
+
+---
+
+### 2026-07-31 05:25:56  #其他
+
+蘋果：iPhone營收增長22%，主要得益於iPhone 17系列新品。
+
+---
+
+### 2026-07-31 05:25:29  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
+
+Amazon (AMZN.O) CEO says AWS annual revenue could reach $1 trillion.
+
+---
+
+### 2026-07-31 05:24:45  #市場 #國際
+
+【特朗普政府計劃重啟多家停產煉油廠】受伊朗戰事推高汽油價格影響，特朗普政府計劃重啟多家已關停的煉油廠，其中就包括維爾京群島一座運營陷入困境的煉油設施。 一名白宮官員週四透過郵件證實，特朗普政府“希望全美各地的煉油廠恢復生產，尤其是聖克羅伊島煉油廠”。 該官員表示，這座煉油廠之所以備受關注，一是其最初設計用於加工委內瑞拉原油，二是其地理位置具備“戰略價值”。 此番政策推進的大背景是，伊朗衝突導致美國汽油價格居高不下。美國汽車協會（AAA）資料顯示，截至週四，全美汽油均價約為每加侖4.10美元，較今年戰事爆發初期上漲超1美元。
+
+---
+
+### 2026-07-31 05:24:33  #公司 #市場
+
+亞馬遜CEO：儲存晶片成本上漲推高 2026 年資本支出預期。
+
+---
+
+### 2026-07-31 05:24:13  #其他
+
+白宮國家經濟委員會主任凱文·哈塞特：如有必要，我們將繼續降低油價的措施。
+
+---
+
+### 2026-07-31 05:24:03  #市場
+
+【離岸人民幣創2023年年初以來新高】週四（7月30日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7480元——逼近2023年2月2日尾盤報價6.7377元、當年1月13日尾盤報價6.7139已結案，較週三紐約尾盤漲125點，日內整體交投於6.7626-6.7440元區間，2023年1月16日盤中曾達到6.6975元。
+
+---
+
+### 2026-07-31 05:22:31  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
+
+Amazon (AMZN.O) CEO says the company has strong visibility into demand for servers and networking equipment before committing capex.
+
+---
+
+### 2026-07-31 05:21:59  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact mixed
+
+Apple (AAPL.O) CFO said gross margin would reach the midpoint of guidance absent tariff refunds.
+
+---
+
+### 2026-07-31 05:21:31  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
+
+Amazon (AMZN.O) CEO says the prospect of strong financial returns from AI and AWS spending is clear.
+
+---
+
+### 2026-07-31 05:20:59  #公司
+
+亞馬遜CEO： 在人工智慧、亞馬遜雲科技（AWS）方面的投入有望穩步實現可觀的財務回報。
+
+---
+
+### 2026-07-31 05:19:37  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish #AVGO.O
+
+Apple (AAPL.O) CEO Cook said the company’s cooperation with Broadcom (AVGO.O) is a step toward achieving a U.S. end-to-end chip supply chain.
+
+---
+
+### 2026-07-31 05:18:25  #公司 #國際
+
+蘋果CEO庫克： 蘋果與博通達成合作，是邁向構建美國端到端晶片供應鏈目標的重要一步。
+
+---
+
+### 2026-07-31 05:18:05  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) CEO Tim Cook said the company plans to reinvest tariff refunds in the United States.
+
+---
+
+### 2026-07-31 05:17:48  #公司 #國際
+
+蘋果CEO庫克：我們計劃將關稅退款重新投入美國本土業務。
+
+---
+
+### 2026-07-31 05:17:30  #公司
+
+亞馬遜CEO： 企業在談及人工智慧時，越來越多地提及安全問題。 AWS Continuum 安全產品業務將實現快速增長。
+
+---
+
+### 2026-07-31 05:17:30  #MKT News #Star Stocks #Amazon #Market Themes #AI Revolution #Magnificent 7 #AMZN.O
+
+Amazon (AMZN.O) CEO said companies increasingly cite safety concerns when discussing AI.
+
+---
+
+### 2026-07-31 05:17:27  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
+
+Amazon (AMZN.O) U.S. shares extended after-hours gains to 10%.
+
+---
+
+### 2026-07-31 05:17:05  #MKT News #Important #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
+
+Amazon (AMZN.O) CEO said even with increased capex the company will still be unable to meet all demand in 2026.
+
+---
+
+### 2026-07-31 05:16:32  #公司
+
+亞馬遜CEO： 即便上調資本支出，我們 2026 年的產能依舊不足以滿足全部需求。
+
+---
+
+### 2026-07-31 05:16:18  #其他
+
+白宮國家經濟委員會主任凱文·哈塞特：密切關注能源價格。
+
+---
+
+### 2026-07-31 05:16:04  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
+
+Amazon (AMZN.O) CEO said rising memory costs mean the company now expects 2026 cash capital expenditures of about $220 billion.
+
+---
+
+### 2026-07-31 05:15:34  #市場
+
+富時A50期指連續夜盤收漲1.19%，報14847點。
+
+---
+
+### 2026-07-31 05:15:19  #公司 #市場
+
+亞馬遜CEO： 受記憶體成本上漲影響，目前預計 2026 年現金資本支出約 2200 億美元。
+
+---
+
+### 2026-07-31 05:14:50  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Amazon #AMZN.O #Impact bullish
+
+Amazon (AMZN.O) CEO said companies with the technical capability will use proprietary data to build their own foundation models.
+
+---
+
+### 2026-07-31 05:14:37  #公司
+
+蘋果CEO庫克： Apple TV 達成 EGOT 里程碑的速度超越所有其他流媒體平臺。
+
+---
+
+### 2026-07-31 05:14:08  #MKT News #Star Stocks #Apple #Market Themes #AI Revolution #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) CEO Cook said the company's AI features are intuitive, personalized and private.
+
+---
+
+### 2026-07-31 05:13:55  #MKT News #Important #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O
+
+Amazon (AMZN.O) CEO says 2026 capital expenditure plan remains unchanged at about $200 bln.
+
+---
+
+### 2026-07-31 05:13:47  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish #Nasdaq100
+
+Amazon (AMZN.O) CEO said AWS delivered strong growth in both AI-related and non-AI segments.
+
+---
+
+### 2026-07-31 05:13:46  #MKT News #Star Stocks #Amazon #Market Themes #AI Revolution #Magnificent 7 #AMZN.O #Impact bullish
+
+Amazon CEO said customers choose AWS for its broad capabilities in AI inference, other applications and data.
+
+---
+
+### 2026-07-31 05:13:43  #公司 #焦點
+
+亞馬遜CEO：2026 年資本支出計劃維持不變，約 2000 億美元。
+
+---
+
+### 2026-07-31 05:13:06  #其他
+
+白宮國家經濟委員會主任凱文·哈塞特： 當下，人工智慧正在書寫積極的經濟篇章。
+
+---
+
+### 2026-07-31 05:12:36  #其他
+
+白宮國家經濟委員會主任凱文·哈塞特：人工智慧不會導致通貨膨脹。
+
+---
+
+### 2026-07-31 05:11:32  #MKT News #Important
+
+【Trump administration weighs $100,000 fee for international graduates seeking Optional Practical Training (OPT)】Persons familiar told media the Trump administration is considering a $100,000 fee for international graduates who seek to remain in the United States under Optional Practical Training (OPT). OPT allows international university graduates to work in the US for one to three years on a student visa; the Institute of International Education reported about 300,000 students were on OPT last fall, roughly 25% of foreign students in the US. If enacted, the fee would likely curtail demand for US study and materially affect US universities, Silicon Valley hiring and Wall Street talent pipelines. The proposal mirrors an earlier administration objective to impose a $100,000 charge on H‑1B visas. The Department of Homeland Security said the policy is under internal discussion, is not final, and it is unclear whether it has White House approval or whether the fee would be paid by students or employers.
+
+---
+
+### 2026-07-31 05:10:24  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Closes Higher as Earnings Roll In — The Ibovespa gained 1.9% to close at 177,159 on Thursday as investors assessed another round of corporate earnings. Vale rose 1.4% ahead of its second-quarter results after the market close. Motiva jumped 5.2% after delivering a positive earnings surprise, particularly on capital expenditures. Other notable gainers included Petrobras (+2%), Axia (+3.6%), and WEG (+2.6%). Among major banks, Banco do Brasil gained 2% and Itaú rose 2.2%, while Santander fell 1.5%, extending losses after its second-quarter results. Ambev edged up 0.4% despite reporting stronger profit, as revenue and EBITDA missed expectations. Usiminas plunged 9.2% despite tripling quarterly profit as investors focused on weaker forward guidance. On the data front, Brazil's unemployment rate fell to 5.4% in the quarter ending in June, reinforcing labor market resilience and supporting expectations that the BCB may soon pause its rate-cutting cycle.
+
+---
+
+### 2026-07-31 05:10:14  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
+
+Amazon (AMZN.O) AWS order backlog totals $496 billion.
+
+---
+
+### 2026-07-31 05:10:00  #公司
+
+蘋果CEO庫克： MacBook Neo 在第三季度 “格外熱銷”。
+
+---
+
+### 2026-07-31 05:09:28  #公司
+
+蘋果CEO庫克：第三季度蘋果在全球智慧手機市場份額有所增長。對Siri人工智慧的初步反響感到興奮。第三季度在大中華區的Mac銷售特別強勁。
+
+---
+
+### 2026-07-31 05:09:01  #MKT News #Star Stocks #Apple #Market Regions #Greater China #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) CEO Tim Cook said Mac sales in Greater China were particularly strong in Q3.
+
+---
+
+### 2026-07-31 05:08:47  #MKT News #Star Stocks #Apple #Market Themes #AI Revolution #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) CEO Cook said he is excited by early reactions to Siri AI.
+
+---
+
+### 2026-07-31 05:08:19  #公司 #焦點 #國際
+
+亞馬遜雲科技（AWS）訂單儲備規模達 4960 億美元。
+
+---
+
+### 2026-07-31 05:08:17  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish #Nasdaq100
+
+Apple (AAPL.O) CEO Cook said that despite supply constraints and foreign-exchange headwinds the company delivered record third-quarter sales.
+
+---
+
+### 2026-07-31 05:08:15  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) CEO Cook said Apple saw a modest increase in global smartphone market share in Q3.
+
+---
+
+### 2026-07-31 05:08:15  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) CEO Cook said third-quarter revenue was a record in every region.
+
+---
+
+### 2026-07-31 05:07:31  #公司 #市場
+
+【蘋果大中華和服務業務季度銷售遜於預期 iPhone表現依然穩健】蘋果上財季服務業務和大中華區銷售增長均慢於分析師預期，引發投資者對這兩個關鍵市場的擔憂。儘管總營收高於分析師預測，但蘋果第三財季大中華銷售額為188億美元，明顯低於分析師預計的196億美元。服務業務收入為307億美元，也不及314億美元的預測。蘋果一直受到儲存晶片和電腦處理器短缺的困擾，這迫使公司上月上調了Mac和iPad價格。供應緊張導致Mac mini和Mac Studio等重要電腦產品的交貨等待期延長。某種程度上，上財季也是執行長蒂姆·庫克的謝幕之作。庫克將於9月1日把管理權交給硬體業務負責人約翰·特努斯。自2011年執掌蘋果以來，庫克推動了產品線多元化，並將公司年度銷售額提高到接近5000億美元。蘋果今年以來累計上漲23%，表現超過許多科技同業。作為蘋果最大的收入來源，iPhone是週四業績中的亮點。該產品季度營收增長22%，至543億美元，高於536億美元的市場預期。相關資料表明，蘋果去年9月推出的iPhone 17系列需求仍然穩健。該公司今年3月還推出了新的低價機型iPhone 17e。包括Apple Music、App Store、iCloud訂閱、流媒體影片及其他數字服務在內的服務業務收入上財季增長12%。截至6月27日的季度，蘋果每股收益升至2.02美元，高於分析師平均預期的1.89美元。
+
+---
+
+### 2026-07-31 05:06:04  #市場
+
+蘋果美股盤後跌幅擴大至5%。
+
+---
+
+### 2026-07-31 05:05:17  #公司
+
+蘋果 CEO：公司第三季度各大區域板塊營收均創下歷史新高。
+
+---
+
+### 2026-07-31 05:01:43  #國際
+
+埃及新聞部長駁斥華爾街日報報道，否認埃及政府認為伊朗策劃達米埃塔港船隻無人機襲擊。
+
+---
+
+### 2026-07-31 04:59:42  #公司
+
+【亞馬遜雲業務營收連續第五個季度增長 AI服務需求旺盛】亞馬遜公佈的雲端計算業務營收超過分析師預期，對人工智慧服務的旺盛需求連續第五個季度推動銷售加速。亞馬遜週四釋出宣告稱，截至6月30日的季度，旗下雲端計算業務Amazon Web Services（AWS）營收增長37%至422億美元。這是2021年第四季度以來的最快增速。資料顯示，分析師平均預期AWS營收為406億美元。AWS貢獻了亞馬遜約五分之一的營收和大部分營業利潤。亞馬遜報告稱，截至6月30日的季度，公司用於物業和裝置的支出（包括部分資產出售所得抵減後）超過530億美元。亞馬遜此前表示，今年資本專案支出預計將達到2000億美元，主要用於人工智慧相關專案，因此投資者密切關注公司是否存在過度投資的跡象。
+
+---
+
+### 2026-07-31 04:56:49  #公司 #市場
+
+【7月31日美股成交額前20：微軟股價創18年來最佳單日表現】週四美股成交額第1名第2名微軟收高15.51%，成交491.16億美元。微軟股價創18年來最佳單日表現，同時創下其歷史上最佳財報後表現。該公司終於開始讓華爾街相信，它在人工智慧方面正在找到正確的平衡——而這正轉化為歷史性的股價漲幅。此前微軟一直在抵禦外界對其AI支出的批評，尤其是在雲增長受到抑制的情況下。但隨著微軟最新財報顯示雲業務表現加速，投資者現在開始對微軟的故事產生好感。與此同時，管理層做出了一些保證，即本財年大力投入AI預計不會將公司推入負自由現金流區域。D.A．Davidson分析師Gil Luria在週四的報告中寫道，微軟“非常強勁”的財報“不僅應改變對微軟的敘事，還應傳遞出AI建設掌握在負責任者手中的訊號。”Evercore ISI分析師Kirk Materne在週四的報告中寫道，微軟Azure加速增長的“超預期幅度”“甚至超出了最樂觀的預期”。他特別提到公司第四財季Azure增長率達43%，以及公司目標是在9月當季實現按固定匯率計算45%的增長。
+
+---
+
+### 2026-07-31 04:55:32  #國際
+
+【以媒：美官員稱哈馬斯或“很快”簽署解除武裝協議】以色列第12頻道電視臺30日晚援引美方訊息人士的話說，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）或“很快”簽署逐步解除武裝的協議。報道稱，這項解除武裝“路線圖”由美國發起的所謂“和平委員會”提出，要求哈馬斯在6至8個月內交出所有武器。巴勒斯坦技術官僚政府將逐步接管加沙地帶部分地區，並核查這些地區是否還有武器。根據計劃，哈馬斯還將交出其隧道、武器工廠和倉庫地圖，交出的武器將由新的技術官僚政府和國際穩定部隊保管。（新華社）
+
+---
+
+### 2026-07-31 04:54:35  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Rises on Banks and Miners — The S&P/TSX Composite Index rose 0.5% to close at 35,506 on Thursday, supported by gains in mining and heavyweight financial stocks. Major banks rebounded after Wednesday's selloff, with TD Bank up 2%, Scotiabank rising 1.6%, RBC and BMO gaining 1.4% each, and CIBC adding 1.2%. Gold prices climbed as a weaker US dollar lifted miners. Agnico Eagle jumped 4%, while Barrick gained 3.2%, WPM rose 3.1%, and Franco-Nevada advanced 2.8%. Technology stocks weakened as Lightspeed Commerce tumbled 12.8% after missing first-quarter profit estimates. Shopify fell 5.6% and Constellation Software lost 3.1%, while Celestica surged 6.9%, tracking a rally in US chipmakers. On earnings, Vermilion Energy (+5.6%), Kinross Gold (+1.2%), Cenovus (+4%), Alamos Gold (-1%), and Loblaw (-0.5%) beat expectations, while Ivanhoe Mines (-0.2%) and Tourmaline Oil (-3.3%) missed. Canadian Natural (+1.4%) and Fairfax Financial (-2.1%) report after the close.
+
+---
+
+### 2026-07-31 04:54:27  #市場
+
+【紐約期金漲約1.7%，紐約銅漲2.9%，現貨鈀金漲約4.3%】週四（7月30日）紐約尾盤，現貨黃金漲0.81%，報4100.34美元/盎司，整體呈現出V形反轉行情、北京時間13:38曾重新整理日低至4028.55美元。COMEX黃金期貨漲1.68%，報4166美元/盎司。現貨白銀漲2.07%，報58.9336美元/盎司，16:00曾重新整理日低至56.9360美元。COMEX白銀期貨漲2.12%，報59.320美元/盎司。COMEX銅期貨漲2.90%，報6.4950美元/磅，亞太盤初以來持續上漲。現貨鉑金漲2.48%，現貨鈀金漲4.27%。
+
+---
+
+### 2026-07-31 04:54:15  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+Israel’s Channel 12 reports a second-phase ceasefire agreement for the Gaza Strip is expected to be signed in Cairo in mid-next week.
+
+---
+
+### 2026-07-31 04:53:41  #公司
+
+【Rivian汽車業務營收增23% R2 SUV開啟交付】Rivian第二季度營收中，汽車業務收入11.4億美元，軟體及服務收入5.15億美元。該業績略高於公司上月在公告擬公開發行7500萬股A類普通股時提前披露的第二季度營收預期區間15.5億至16.5億美元。公司稱，汽車業務營收同比增長23%，主要源於車輛交付量提升14%，以及合規積分相關收入增加1.03億美元。 Rivian第二季度歸屬於普通股股東的淨虧損為8.37億美元，摺合每股虧損0.63美元，相較於2025年第二季度減虧2.78億美元，每股虧損收窄0.34美元。 Rivian此前表示，上調交付指引是因為第二季度電動配送貨車及旗艦R1系列產品交付量有所提升。 公司本季度還啟動了中型R2 SUV的交付工作，正在其位於伊利諾伊州諾莫爾市的唯一生產工廠推進該車型產能爬坡，這座工廠年產能可達16萬輛。 Rivian執行長RJ·斯卡林吉週四在接受採訪時表示：“R2現已交到客戶手中，我對此倍感振奮，市場對這款產品的整體反饋和反響都非常出色。當然，這也是我們邁向盈利道路上的重要一步。”
+
+---
+
+### 2026-07-31 04:52:01  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Live Nation Entertainment earnings above expectations at 1.05 USD — Live Nation Entertainment (LYV) released earnings per share at 1.05 USD, compared to market expectations of 0.68 USD.
+
+---
+
+### 2026-07-31 04:50:30  #國際
+
+市場訊息：日本政府計劃將西日本打造為生物技術與高階醫藥領域的投資集聚中心。
+
+---
+
+### 2026-07-31 04:48:19  #MKT News #Important #Star Stocks #Apple #Market Regions #Greater China #Market Themes #Magnificent 7 #AAPL.O #Impact bearish #Nasdaq100
+
+【Apple Q3 revenue slightly above estimates; Greater China lags, shares down 4% after-hours】Apple reported third fiscal quarter revenue of $109.42 bln, up 16.4% YoY and marginally above the $108.65 bln consensus. EPS was $2.02, including $0.11 from a tariff rebate; adjusted EPS exceeded the $1.89 estimate. iPhone sales rose 21.7% to $54.25 bln, beating the $53.86 bln forecast and setting a Q3 record. Global memory-chip shortages lifted Mac and iPad prices this quarter, which the company says prompted earlier iPhone purchases; Apple has not raised iPhone list prices but the Street generally expects price increases at the September launch. Greater China revenue was $18.82 bln versus $19.67 bln expected. Apple shares fell about 4% in after-hours trading.
+
+---
+
+### 2026-07-31 04:44:17  #國際
+
+美國將可回收關鍵礦產相關行動與國防掛鉤。
+
+---
+
+### 2026-07-31 04:43:13  #國際
+
+【伊朗譴責美軍襲擊格什姆島居民區致3人死亡】伊朗外交部發言人巴加埃30日晚在社交媒體發文，譴責美國當天凌晨襲擊伊朗南部格什姆島居民區，造成一個五口之家中的父母及其兩歲孩子死亡。（新華社）
+
+---
+
+### 2026-07-31 04:42:35  #其他
+
+墨式烤肉（CMG）收漲13%，創2023年以來最大單日漲幅。
+
+---
+
+### 2026-07-31 04:42:19  #MKT News
+
+【UEFA and 55 members vote to boycott all FIFA competitions】On July 30, UEFA and its 55 member associations voted to boycott all FIFA competitions unless FIFA withdraws proposals to transfer ownership and commercial rights of the World Cup and other FIFA tournaments to private investors and provides binding guarantees to keep governance and events out of private capital. UEFA said it rejects FIFA president Gianni Infantino’s plan to form a $20bn subsidiary to run the World Cup and other tournaments and sell minority stakes to private investors. CONCACAF and its 41 member associations also rejected the proposal to sell World Cup equity but did not announce a boycott.
+
+---
+
+### 2026-07-31 04:42:08  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Corteva earnings above expectations at 2.30 USD — Corteva (CTVA) released earnings per share at 2.30 USD, compared to market expectations of 2.22 USD.
+
+---
+
+### 2026-07-31 04:41:15  #公司
+
+【中北美加勒比足聯拒絕世界盃私有化】當地時間7月30日，中北美洲及加勒比海足聯及其41個會員協會否決了國際足聯“出售世界盃股權”的提案，但未效仿歐足聯宣佈抵制所有國際足聯賽事。 中北美洲及加勒比海足聯表示，其會員對該提案“缺乏正當程式、截止日期倉促，且未經國際足聯相關治理機構審議或批准”，表達了“深切擔憂”。 國際足聯主席因凡蒂諾計劃成立一家價值200億美元的子公司來運營世界盃及其他賽事，並向私人投資者出售少數股權。目前歐足聯已公開反對，並宣佈抵制所有國際足聯賽事。亞足聯也向其下轄的47個會員協會發出了一封措辭激烈的信函，警告稱“若得不到六大洲際足協聯盟的一致支援，該提案絕無成功可能”。（CCTV國際時訊 ）
+
+---
+
+### 2026-07-31 04:38:42  #MKT News
+
+Nikkei reports U.S. authorities also conducted an exchange-rate review.
+
+---
+
+### 2026-07-31 04:38:20  #央行 #國際
+
+市場訊息：日本政府與日本央行週四在紐約外匯市場實施匯市干預，買入日元、賣出美元。
+
+---
+
+### 2026-07-31 04:37:44  #MKT News #Important #USDJPY #Impact bearish
+
+Nikkei reports the Japanese government and the Bank of Japan have intervened in the foreign exchange market.
 
 ---
 
@@ -20884,581 +21574,5 @@ Reserve Bank of Australia Deputy Governor Hunt said he will not speculate on the
 ### 2026-07-30 07:26:27  #MKT News #Market Regions #Greater China #CSI300 #Impact mixed #SSE Composite
 
 【Brokerage commissions enter micro-profit era; shift to service competition imperative】Shanghai brokerage commission rates have continued to slide. The 2025 average commission fell below 2 bps; in 1H2026 the A-share average dropped to 1.7 bps. Industry participants say commissions have entered a micro-profit era and pure price-war customer acquisition is no longer sustainable. Brokers should reduce reliance on channel fees and shift from low-price, low-service models to compete on transparent pricing and high-quality service to safeguard investor rights.
-
----
-
-### 2026-07-30 07:25:38  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Holds Gains Amid US-Iran Tensions — Brent held above $90 per barrel on Thursday after rallying more than 8% in the previous session, underpinned by renewed fighting between the US and Iran that threatened further disruptions to global energy supplies. President Donald Trump pledged a strong response after an attack on US forces in Jordan. Meanwhile, both sides continued to struggle to reach a potential deal as Tehran insisted on maintaining control over the Strait of Hormuz. The conflict has also expanded beyond Hormuz into the Red Sea, where Iran-backed Houthi rebels in Yemen threatened to blockade Saudi Arabia, prompting Riyadh to join US forces in striking targets in Iraq associated with Tehran-backed militants. In the US, commercial crude inventories recorded their largest draw since mid-June, reinforcing signs of a tightening physical market. The nation’s strategic petroleum reserves also fell for an 18th consecutive week, reaching their lowest level since 1983.
-
----
-
-### 2026-07-30 07:25:25  #市場
-
-【券商佣金進入“微利時代” 向“服務競爭”轉型勢在必行】上海地區佣金率呈持續下行態勢。2025年平均佣金率跌破萬分之二，2026年以來進一步下探，上半年A股平均佣金率降至萬分之一點七。業內人士表示，當前券商佣金已進入“微利時代”，單純依靠價格戰搶佔市場的粗放式發展模式已然行不通。長期來看，行業要擺脫對通道費的依賴，摒棄“低價獲客，忽視服務”的模式，實現從“價格競爭”向“服務競爭”的轉型，真正讓透明化定價、高品質服務成為經紀業務的核心競爭力，切實維護投資者權益。（上海證券報）
-
----
-
-### 2026-07-30 07:25:03  #國際
-
-內塔尼亞胡：不支援巴勒斯坦國。
-
----
-
-### 2026-07-30 07:24:55  #公司
-
-【中小銀行理財業務遷徙：自營產品加速出清 代銷成轉型主航道】7月以來，多家未設立理財公司的中小銀行（下稱“非持牌銀行”）釋出新增代銷理財業務合作機構的公告，透過與理財公司簽約開展產品代銷合作。結合非持牌銀行陸續披露的2026年上半年度理財業務報告可見，此類銀行自營理財規模延續收縮態勢，不少機構降幅顯著，部分機構已徹底清零自營存量。自營理財有序壓降、代銷業務加快拓量，此消彼長之下，中小銀行理財業務格局迎來深度重塑，非持牌銀行逐步向理財渠道服務商轉型。（中國證券報）
-
----
-
-### 2026-07-30 07:24:26  #公司
-
-【耐心資本密集落子 央企系基金加速佈局硬科技】近日，AI健康硬體公司Fullive.ai（福來數創）宣佈完成由招商局創投領投的種子++輪融資。本輪資金將主要用於AI睡眠硬體的研發與量產推進，以及前沿技術儲備。近一個月來，央企系基金在硬科技賽道的出手節奏明顯加快：具身智慧“獨角獸”星動紀元獲誠通基金10億元領投，物理AI企業清研精準獲國機產業基金戰略投資，山西中電科獲國新基金領投。在具身智慧、半導體裝備、量子計算等多個戰略性新興產業賽道，央企“耐心資本”正在加速落子。一個重要趨勢是，央企資本正向更早期的技術前沿傾斜，在多個長週期賽道上敢於先手佈局，並以“耐心資本”的定力推動未來產業從實驗室走向產業化，同時以資本為紐帶，支撐產業鏈供應鏈的自主可控。（上海證券報）
-
----
-
-### 2026-07-30 07:24:18  #公司 #市場
-
-【微軟公佈季度雲業務增長超預期 緩解市場對支出激增的擔憂】微軟週三公佈財報，季度雲業務營收增長超出華爾街預期，表明隨著產能限制逐步緩解，以及越來越多企業採用人工智慧(AI)技術，該公司對AI基礎設施的大規模投資開始產生回報。微軟表示，旗下Azure雲端計算業務在財年第四季度營收同比增長43%，高於Visible Alpha彙整分析師預估的39.98%。微軟股價在盤後交易上漲約4%。“今年，Azure營收首次突破1,000億美元，Microsoft 365 Copilot付費使用者數超過3,000萬，反映客戶對我們推動其AI轉型能力的信任，”CEO納德拉 (Satya Nadella) 表示。強勁的增長表現或將緩解市場對微軟資料中心支出激增的擔憂，以及AI工具可能侵蝕其長期穩定生產力軟體業務的顧慮。微軟財報釋出之際，谷歌日前也公佈雲服務季度業績亮眼。谷歌上週公佈雲業務營收激增82%，遠超市場預期。
-
----
-
-### 2026-07-30 07:23:56  #其他
-
-內塔尼亞胡：今早和萬斯進行了交談。
-
----
-
-### 2026-07-30 07:23:48  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Holds Gains Amid US-Iran Tensions — Crude oil held above $84 per barrel on Thursday after rallying more than 6% in the previous session, underpinned by renewed fighting between the US and Iran that threatened further disruptions to global energy supplies. President Donald Trump pledged a strong response after an attack on US forces in Jordan. Meanwhile, both sides continued to struggle to reach a potential deal as Tehran insisted on maintaining control over the Strait of Hormuz. The conflict has also expanded beyond Hormuz into the Red Sea, where Iran-backed Houthi rebels in Yemen threatened to blockade Saudi Arabia, prompting Riyadh to join US forces in striking targets in Iraq associated with Tehran-backed militants. In the US, commercial crude inventories recorded their largest draw since mid-June, reinforcing signs of a tightening physical market. The nation’s strategic petroleum reserves also fell for an 18th consecutive week, reaching their lowest level since 1983.
-
----
-
-### 2026-07-30 07:23:45  #其他
-
-【頭部券商盈利優勢持續鞏固 財富管理仍是多數券商重點發力賽道】近期，上市券商陸續披露半年度業績預告。統計資料顯示，頭部券商盈利優勢持續鞏固，中小券商則顯現更強業績彈性。與此同時，據證券時報記者不完全統計，7月以來已有十餘家券商密集召開半年度工作會議。多家券商在部署下半年經營任務時提出，將“確保完成全年目標”“強化績效剛性約束”“全力衝刺更優業績”。從業務佈局來看，財富管理仍是多數券商重點發力賽道，區域深耕、業務協同、加碼金融科技投入、強化人才隊伍建設等舉措也被頻繁提及。
-
----
-
-### 2026-07-30 07:23:35  #公司 #市場
-
-【“只均規模”考核促供給側出清 理財產品由“數”到“質”轉向】近日，多家銀行理財機構釋出產品不成立公告，主要原因系募集資金未達到產品說明書約定的最低募集金額。在新發產品頻現募集失敗的同時，存量產品中亦有不少因客戶贖回導致規模跌破清盤線而提前終止的案例。監管部門落地《理財公司監管評級暫行辦法》，引導行業摒棄規模粗放擴張，單隻產品平均存續規模（業內俗稱“只均規模”）成為機構內部精細化考核重要標尺，倒逼低效迷你產品加速清退。“過去理財公司比拼的是誰發得多、渠道鋪得廣，把公司規模儘快做起來；現在比拼的是誰能把代表性產品做大、做出品牌效應，”業內人士表示，理財業務發展邏輯正加速從“數量紅利”向“質量紅利”切換。
-
----
-
-### 2026-07-30 07:23:26  #央行 #公司
-
-【央行護航月末資金面 流動性或將平穩跨月】月末資金面再度成為債市關注焦點。近期大行資金融出規模邊際下降，帶動短端資金利率有所上行。不過，央行已提前公告將在月末及8月初開展隔夜逆回購操作，釋放維護短端流動性平穩的訊號。多家機構認為，7月並非季末月，政府債淨繳款壓力明顯下降，疊加央行隔夜逆回購投放安排，資金面大幅收緊的可能性不大。短期來看，流動性有望平穩跨月，但資金面對債市進一步突破的助力或相對有限，後續仍需關注央行投放力度、銀行資金融出變化及8月政府債供給擾動。（上海證券報）
-
----
-
-### 2026-07-30 07:23:19  #國際
-
-市場訊息：烏克蘭稱俄羅斯使用彈道導彈襲擊基輔。
-
----
-
-### 2026-07-30 07:21:56  #國際
-
-【暑期旅遊旺季進入下半場 入境遊增長勢頭更為突出】暑期旅遊旺季進入下半場，出境遊與入境遊均實現明顯增長。中國旅行社協會副秘書長龍飛對證券時報記者表示，今年暑期出入境旅遊雙向升溫。其中，入境遊熱度走高，北方草原、山地城市吸引大量海外遊客，一改入境遊客源過度集中於一線城市的舊格局。出境遊方面，目的地選擇愈發多元，南美線路、中俄跨境遊漲幅亮眼。隨著國際航線運力擴容，口岸通關、支付、多語種配套服務持續完善，雙向出行便捷度大幅提升。入境遊增長勢頭更為突出，外籍遊客來華度假相關話題熱度居高不下。同程旅行旗下HopeGoo平臺資料顯示，7月以來，愛丁堡、巴塞羅那、倫敦、馬德里、羅馬等歐洲城市飛往中國的機票預訂量環比增長均超兩成；英國往返國內主要城市部分航線預訂熱度同比增長突破80%。
-
----
-
-### 2026-07-30 07:21:46  #公司
-
-【OpenAI首席財務官透露：公司7月年化收入超過整個第二季度】當下OpenAI在企業市場追趕競爭對手Anthropic，同時還要應對成本更低的開源AI產品帶來的新一輪競爭、努力維持增長。這家人工智慧企業正試圖向員工傳遞訊號：公司經營狀況依舊穩健。在週三面向全體員工的一場內部會議上，首席財務官薩拉・弗萊爾與董事會主席佈雷特・泰勒著重介紹了OpenAI的營收增長情況，並談及與Anthropic之間的競爭態勢。弗萊爾表示，OpenAI 7月年化經常性收入規模超過整個第二季度。媒體獲取的會議部分文字記錄顯示，弗萊爾稱：“而且第二季度本身業績表現並不差。”
-
----
-
-### 2026-07-30 07:20:05  #央行
-
-澳洲聯儲助理主席Hunter：第二季度通脹率略低於預期。
-
----
-
-### 2026-07-30 07:19:48  #其他
-
-國際貨幣基金組織：尼日審查獲批後，約3300萬美元資金將立即撥付。
-
----
-
-### 2026-07-30 07:18:04  #MKT News #Market Themes #AI Revolution
-
-OpenAI CFO: July annualized revenue already exceeds total revenue for the entire Q2.
-
----
-
-### 2026-07-30 07:17:24  #其他
-
-內塔尼亞胡：預計能源管道將遠離霍爾木茲。
-
----
-
-### 2026-07-30 07:16:58  #其他
-
-OpenAI首席財務官薩拉·弗里爾告訴員工，7月經年化收入已超過第二季度的總收入水平。
-
----
-
-### 2026-07-30 07:16:33  #市場
-
-【進口FPGA交貨週期大幅延長】據供應鏈方面訊息，全球FPGA頭部企業如賽靈思（Xilinx）與萊迪思（Lattice）等不僅相繼對主力產品漲價10%—20%或以上，對國內的供應週期亦大幅拉長。其中，進口的FPGA晶片產品目前交貨週期普遍已升至約52周，而此前常規交期僅為8到12周。資深晶片經銷人士告訴證券時報記者：“目前FPGA海外各類產品現貨急缺，現貨價格普遍大幅上漲。例如，進口的某XC開頭型號的FPGA單顆現貨從年初220元漲到850元。進口某EP開頭型號FPGA單顆從120元漲價到1200元，這是最新資料。這兩顆都是歐美市場需求比較熱門的型號，現貨價格翻了7—10倍，國內下游工廠接受了。如果要透過原廠拿貨，價格不會這麼高，但是無法避免52周的交期，進口FPGA現在普遍要這個交期，低端的可能還會更長。”他介紹，現在國外FPGA大廠把大部分產能放在AI資料中心的晶片上，剩下的一些產能優先生產高階FPGA。最近3個月，因為一些進口FPGA料號停產和漲價潮，他為國內下游廠家尋找國產替代方案已不下50例，手上國產FPGA量產案例亦在快速積累。
-
----
-
-### 2026-07-30 07:16:27  #國際
-
-內塔尼亞胡：認為伊朗比以往任何時候都更弱。
-
----
-
-### 2026-07-30 07:14:50  #央行
-
-澳洲聯儲助理主席Hunter：必須把通貨膨脹降下來，這真的很重要。不能讓長期通脹預期脫離錨定。
-
----
-
-### 2026-07-30 07:13:20  #國際
-
-以色列總理內塔尼亞胡談伊朗問題選項：這是特朗普的決定。
-
----
-
-### 2026-07-30 07:12:57  #國際
-
-市場訊息：美軍正在伊朗境內進行空襲。
-
----
-
-### 2026-07-30 07:12:23  #其他
-
-【廣東河源東源縣：細坳水庫出現險情，各項應急搶險措施正有序推進】廣東河源東源縣人民政府防汛防旱防風指揮部7月30日通報：7月29日傍晚，黃村鎮日常巡查發現細坳水庫出現險情。市、縣、鎮、村搶險隊伍第一時間趕赴現場處置。在省有關部門指導下，轉移危險區群眾、加速降低水庫水位等各項應急搶險措施正在有序推進。
-
----
-
-### 2026-07-30 07:12:18  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Axios, citing U.S. officials, reports the U.S. military is conducting airstrikes against Iran.
-
----
-
-### 2026-07-30 07:11:55  #國際
-
-美國連鎖三明治品牌Jersey Mike's的 IPO 定價為每股 23 美元，處於預期範圍的中位數。
-
----
-
-### 2026-07-30 07:10:30  #國際
-
-特朗普：我們很快就會徹底解決伊朗。
-
----
-
-### 2026-07-30 07:09:38  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rose back above $4,100/oz, up 0.83% intraday.
-
----
-
-### 2026-07-30 07:09:33  #國際
-
-特朗普：我們已對伊朗進行重創。
-
----
-
-### 2026-07-30 07:09:19  #公司 #市場 #國際
-
-【從韓國股市熔斷 讀出什麼訊號】週三，韓國股市熔斷。韓國綜合股價指數大幅收跌5.98%。儲存巨頭SK海力士重挫9.61%。就在韓國儲存巨頭大跌的同一天，上市僅三個交易日的長鑫科技上漲12.7%。單日漲跌或有偶然，但值得關注的是背後的產業訊號：它正在改寫儲存行業的定價邏輯。DRAM市場過去幾十年由三星、SK海力士、美光三家主導，價格基本由三巨頭掌握。而長鑫按出貨量已位列全球第四，這次上市有了500多億元募資投入擴產。過去市場為儲存股定價，只需看三巨頭的臉色；現在，定價體系中多了一個名為“中國供給”的新變數。這也解釋了開頭的疑問：一份創紀錄的財報，為何會被市場放大懲罰？因為參照系正在發生變化，預期正在變化。不只是長鑫。近期，中國科技企業正頻頻成為全球資本市場的變數。這個月16日， 2.8萬億引數的大模型Kimi K3正式釋出，這週一又公開了全部模型權重，給全球開發者免費使用。這期間，英偉達等股票和費城半導體指數都曾出現不同程度下跌。從儲存晶片到大模型，這波多國股市的震盪，其實折射出的產業舊格局在鬆動，新力量在生長。而對中國科技產業來說，比市場一時漲跌更重要的，是沉下心來抓住視窗期——把技術做深、把產能做實、把生態做厚。自身練就的實力，才是更長久的底氣。（央視）
-
----
-
-### 2026-07-30 07:09:03  #MKT News #Market Themes #The Trump Trade
-
-【Musk plans major backing for Republicans in US midterms, Axios says】Axios reports Elon Musk is preparing a large-scale investment to boost Republican turnout in the US midterm elections by restarting his previously paused super PAC, America PAC. The PAC, which spent more than $260m in 2024 to support Trump, will focus on door-to-door canvassing, digital advertising and direct mail to mobilise the conservative base, including voters who typically skip non-presidential elections. Musk’s representatives declined to disclose spending; given his 2024 donations the outlay is expected to be substantial. The report says the move would widen the Republican funding advantage over Democrats and notes Trump’s weak support on economic issues and the Iran war has increased the risk the GOP may struggle to retain House and Senate majorities on Nov. 3.
-
----
-
-### 2026-07-30 07:07:52  #國際
-
-【女裝零售商Reformation在美國首次公開募股中籌集了2.11億美元】女裝零售商Reformation週三表示，其在美國的首次公開募股（IPO）規模已擴大，共籌集了2.109億美元，此舉旨在測試投資者對該時尚品牌的興趣。
-
----
-
-### 2026-07-30 07:06:28  #其他
-
-【百威亞太第二季度淨利潤超過預估】百威亞太第二季度淨利潤2.47億美元，同比+41%，預估1.838億美元。第二季度業績：淨利潤2.47億美元，同比+41%，預估1.838億美元；營收16.8億美元，同比+0.2%，預估16.9億美元；調整後息稅折舊及攤銷前利潤4.63億美元，同比-7%，預估4.633億美元；經調整EBITDA利潤率27.6％，上年同期29.7％；調整後息稅前利潤3.22億美元，同比-7.5%，預估3.016億美元。上半年業績：營收31.7億美元，同比+1.1%，預估32.1億美元；淨利潤4.73億美元，同比+16%；調整後息稅折舊及攤銷前利潤9.26億美元，同比-5.8%，預估9.31億美元。
-
----
-
-### 2026-07-30 07:06:06  #市場 #央行 #國際
-
-【多重因素擾動 金價短期走勢或以震盪為主】國際金價最近有點“磨人”。自6月下旬以來，倫敦現貨黃金價格在4000美元/盎司附近反覆拉鋸。與之形成鮮明反差的是，7月以來A股黃金股率先“躁動”，部分龍頭黃金股漲幅超過30%，明顯跑贏同期金價。業內人士認為，當前金價中長期支撐邏輯並未發生根本改變，央行購金仍可能推動金價中樞逐步上移，黃金類資產依舊具備配置價值。但短期來看，市場仍面臨全球流動性、美聯儲政策預期、地緣局勢以及市場資金流向等多重因素擾動，或以震盪走勢為主。（中國證券報）
-
----
-
-### 2026-07-30 07:05:04  #市場
-
-紐約期銀日內漲1%，現報58.67美元/盎司。
-
----
-
-### 2026-07-30 07:03:37  #MKT News
-
-Hong Kong Monetary Authority left its base rate unchanged at 4%.
-
----
-
-### 2026-07-30 07:03:18  #市場 #焦點
-
-紐約期金突破4150美元/盎司，日內漲1.30%。
-
----
-
-### 2026-07-30 07:02:42  #其他
-
-香港金管局維持基準利率於4%不變。
-
----
-
-### 2026-07-30 07:01:39  #公司 #國際
-
-【蓋茨擬8月訪韓推進小型模組化反應堆合作】比爾·蓋茨將於8月14日訪問韓國，與SK集團、HD現代集團旗下企業洽談小型模組化反應堆（SMR）相關業務合作。核心議程預計探討推動韓國企業擴大在泰拉能源（TerraPower）專案中的參與規模。
-
----
-
-### 2026-07-30 07:00:06  #國際
-
-市場資訊：比爾·蓋茨將前往韓國，討論小型模組化反應堆（SMR）的合作事宜。
-
----
-
-### 2026-07-30 06:58:03  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish #NVDA.O #PLTR.O
-
-【Microsoft CEO: clients should be able to switch AI models easily】Microsoft CEO Satya Nadella said clients must be able to freely switch between closed‑source and open‑source AI models. On a Wednesday analyst call he said the number of Microsoft customers building with multiple models has quadrupled since the start of the year. Nadella urged decoupling system frameworks from models so any given model is replaceable at any time and customers can deploy frontier models or use multiple models in production. Microsoft has investments in OpenAI and Anthropic and last week joined Nvidia and Palantir in signing a public letter backing open models.
-
----
-
-### 2026-07-30 06:57:58  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-An adviser to Ukraine's Ministry of Internal Affairs said Russia has launched a large-scale attack on Ukraine, with multiple cities including Kyiv struck; cruise missiles are expected to arrive imminently.
-
----
-
-### 2026-07-30 06:57:43  #市場 #焦點
-
-現貨黃金突破4090美元/盎司，日內漲0.60%。
-
----
-
-### 2026-07-30 06:57:23  #國際
-
-【烏克蘭首都基輔多次傳出強烈爆炸聲】當地時間30日凌晨1時8分至11分，新華社記者在烏克蘭首都基輔多次聽到強烈爆炸聲，隨後基輔拉響防空警報。烏空軍在社交媒體發文稱，俄軍導彈正襲向基輔、第聶伯羅、克里沃伊羅格等城市。（新華社）
-
----
-
-### 2026-07-30 06:55:27  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Ukrainian official says Kyiv was struck by a ballistic missile.
-
----
-
-### 2026-07-30 06:55:15  #國際
-
-烏克蘭官員：基輔遭遇彈道導彈襲擊。
-
----
-
-### 2026-07-30 06:54:31  #國際
-
-美國參議院以84:12表決透過程式性動議，啟動眾議院5334號法案審議，該法案作為《2026格雷厄姆對俄製裁法案》立法載體。
-
----
-
-### 2026-07-30 06:54:18  #MKT News #Market Themes #Chip Wars #INTC.O
-
-Market sources: Intel (INTC.O) granted startup RosaicLabs access to certain technologies; RosaicLabs' CEO is a co-investor with Intel's CEO in another company.
-
----
-
-### 2026-07-30 06:54:00  #公司
-
-訊息人士透露，英特爾已向共同投資人創辦的新創企業Rosaic Labs開放了部分技術使用權。註冊檔案顯示，這家初創企業的執行長是英特爾執行長在其他企業的聯合投資人。
-
----
-
-### 2026-07-30 06:52:56  #其他
-
-訊息人士透露，英特爾已向共同投資人創辦的新創企業Rosaic Labs開放了部分技術使用權。
-
----
-
-### 2026-07-30 06:51:26  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Retreats from Record High on Profit-Taking — New Zealand's stocks dropped 39 points, or 0.3%, to 13,937 in Thursday morning deals, as traders took profit after the index posted a third consecutive record high. The broader index tracked a decline on Wall Street overnight after the Fed held interest rates, while a selloff in chipmakers persisted ahead of major tech earnings. Rising oil prices also pressured sentiment further amid concerns that inflation risk could raise expectations of an interest rate hike. Traders also anticipated the release of New Zealand's July business confidence data due later today, after the figures hit a four-month high in June, as well as China's PMI due on Friday. Financials, communication services, and utilities mainly weighed on the index, with early decliners including Infratil (-1.1%), Scales Corporation (-0.8%), and ANZ Group (-0.5%). Meanwhile, Westpac Banking Corporation, Mainfreight, and Ebos Group each fell 0.3%.
-
----
-
-### 2026-07-30 06:51:07  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、《智慧財產權保護和運用“十五五”規劃》將於近期印發實施 確保智慧財產權強國建設取得決定性進展（權威釋出·開局起步“十五五”）
-2、一批通道相繼規劃，一批專案迎來重要節點 重大水運工程建設為何駛入“快車道”（經濟新方位）
-3、截至今年6月 中歐班列重箱率連續46個月保持100%
-4、上半年十種有色金屬總產量同比增長3.3%
-5、上半年科技型中小企業獲貸率達50.8%
-6、告別“中國衝擊”舊敘事 擁抱“中國機遇”新答案（寰宇平）
-7、保險業加大新質生產力相關領域投資力度
-8、從張北的風到北京的程式碼，河北加快建設一體化算力網 算力資源，這樣互通共享（大資料觀察·“六張網”裡的新動能）
-9、海關推出高新技術貨物布控查驗新模式 惠及全國551家高新技術企業
-10、部分能源資源行業企業城鎮土地使用稅政策將調整
-11、2026年工信領域創新任務揭榜掛帥工作啟動
-12、已有140萬PFLOPS智慧算力接入全國一體化算力網試驗驗證平臺
-13、北京過半重點排放企業實現綠色提升
-14、《眼鏡制配計量監督檢查工作指南（試行）》釋出 為眼鏡制配計量監督檢查提供統一標尺
-15、斯洛伐克經濟展現較強韌性。
-
----
-
-### 2026-07-30 06:50:50  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、“始終同人民同呼吸、共命運、心連心”（總書記的人民情懷）
-2、習近平致電祝賀諾瓦當選連任聖多美和普林西比總統
-3、促進海內外中華兒女團結奮鬥——習近平總書記重要指示為推動新時代僑務工作高質量發展凝聚奮進力量
-4、李強趙樂際分別會見斯洛伐克總統佩列格里尼
-5、天津市河東區理順考核機制、最佳化服務舉措 我們有了更多信心為居民辦實事（樹立和踐行正確政績觀·一線見聞）
-6、法治亮劍，嚴懲網路暴力（今日談）。
-
----
-
-### 2026-07-30 06:50:22  #MKT News #WTI #Impact mixed #Brent
-
-【Iraq says it has received no evidence that drones which struck Saudi Arabia originated in Iraq】On the evening of the 29th, Iraqi armed forces spokesman Sabah Nouman said U.S.-Saudi strikes on Iraqi militias have impeded investigation into earlier attacks inside Saudi Arabia. Nouman said Baghdad requested evidence linking the Saudi strikes to armed groups based in Iraq but that no party has provided any. Iraqi security services are drafting measures to prevent attacks on Iraqi territory and to safeguard sovereignty. The government said it rejects foreign incursions and will not allow weapons to operate outside state control.
-
----
-
-### 2026-07-30 06:49:24  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-【WSJ: US military drafted up-to-two-week intensive airstrike plan on Iran; Trump weighing decision】The Wall Street Journal reports that last week on Air Force One at a Delaware tarmac President Trump held emergency talks with top war advisers — Chairman of the Joint Chiefs Gen. Dan Kane, Defense Secretary Hegseth, and CENTCOM commander Adm. Brad Cooper. Cooper drafted a punitive air campaign of up to two weeks; after Iran’s missile attack on Tuesday Trump has pledged retaliation but is weighing approval of Cooper’s 10–14 day intensive strikes aimed at crippling Iran’s missile capability — a plan the military says would reduce U.S. reliance on defensive munitions but comes amid warnings that air‑defense ammunition stocks are running low — versus narrower strikes to preserve diplomatic space. The WSJ says Cooper’s high‑intensity option is designed to sharply escalate and break the previous tit‑for‑tat airstrike stalemate.
-
----
-
-### 2026-07-30 06:46:53  #市場
-
-標普500股指期貨收復跌幅，上漲0.2%；納斯達克股指期貨上漲0.4%。
-
----
-
-### 2026-07-30 06:45:53  #國際
-
-【伊拉克稱尚未收到襲擊沙特無人機來自伊境內的實證】當地時間29日晚，伊拉克武裝部隊總司令發言人薩巴赫·努曼表示，美國與沙烏地阿拉伯聯合打擊伊拉克民兵武裝，阻礙了對沙特境內此前遭襲事件的調查工作。努曼說，伊拉克政府要求提供有關沙特此前遭到來自伊拉克境內武裝力量襲擊的證據，但“沒有任何一方向伊方提供”。伊拉克安全部門正在制訂計劃以防止本國遭襲並維護伊拉克主權。伊拉克政府拒絕任何來自伊拉克境外的侵犯行為，絕不允許武器出現在國家管理體系之外。（央視新聞）
-
----
-
-### 2026-07-30 06:45:38  #市場 #焦點
-
-紐約期金突破4140美元/盎司，日內漲1.05%。
-
----
-
-### 2026-07-30 06:44:36  #市場 #焦點
-
-現貨黃金突破4080美元/盎司，日內漲0.34%。
-
----
-
-### 2026-07-30 06:40:59  #國際
-
-【特朗普考量重啟對伊重大軍事行動，美軍籌備為期兩週密集空中打擊】特朗普正在考量是否重啟針對伊朗的大規模作戰行動。美軍中央司令部擬定一套方案，計劃發起為期10至14天的高強度空中攻勢，目標是削弱伊朗導彈作戰能力。知情人士透露，該方案由美軍中央司令部司令布拉德・庫珀上將制定，空襲規模相比此前一輪打擊將顯著升級。特朗普同時也在考量力度更為有限的軍事報復選項，為外交斡旋保留空間。
-
----
-
-### 2026-07-30 06:40:04  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Coffee Drops by 3.74% — Top commodity losers are Coffee (-3.74%), Soybeans (-2.81%) and Corn (-2.07%).
-
----
-
-### 2026-07-30 06:36:38  #MKT News
-
-EMSC reports a magnitude 6.2 earthquake in the Kermadec Islands region.
-
----
-
-### 2026-07-30 06:35:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Rises by 1.76% — Top commodity gainers are Silver (1.76%) and Gold (1.16%). Biggest loser is Steel Rebar (-0.79%).
-
----
-
-### 2026-07-30 06:32:48  #國際
-
-【ChatGPT和Roblox將受歐盟最嚴格平臺規則約束】OpenAI旗下ChatGPT以及Roblox平臺在歐盟地區月活躍使用者突破4500萬門檻，將依據歐盟《數字服務法》（DSA）接受更嚴格的內容稽核監管與持續監控。歐盟委員會預計最早於8月將二者正式認定為超大型線上平臺（VLOP）。
-
----
-
-### 2026-07-30 06:30:52  #公司 #資料 #市場 #央行 #國際
-
-【週四重要財經資訊提醒（以下均為北京時間）】 
-① 06:40 澳洲聯儲負責經濟事務的助理主席Sarah Hunter參加一場爐邊閒聊；
-② 09:00 三星電子二季報電話會；
-③ 13:30 法國二季度GDP初值；
-④ 16:00 德國二季度GDP初值；
-⑤ 17:00 歐元區二季度GDP初值；
-⑥ 19:00 英國央行公佈利率決議；
-⑦ 20:00 德國7月CPI初值；
-⑧ 20:30 美國二季度GDP初值，6月個人收入和個人消費支出（PCE），7月25日當週首次申請失業救濟人數；
-⑨ 美股盤後 蘋果、亞馬遜釋出業績報告。
-
----
-
-### 2026-07-30 06:30:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Naphtha Soars by 8.04% — Top commodity gainers are Naphtha (8.04%), Brent Crude Oil (7.48%) and Crude Oil WTI (6.39%).
-
----
-
-### 2026-07-30 06:29:27  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #Brent #DXY
-
-On the 30th (local time), air-raid sirens sounded in Kyiv and multiple explosions were heard.
-
----
-
-### 2026-07-30 06:28:43  #市場
-
-【韓元兌美元匯率觸及2月底以來最高水平】隨著美元下跌，韓元觸及五個月高點。美元兌韓元一度下跌0.4%，報1437.70，為2月27日以來最低。
-
----
-
-### 2026-07-30 06:28:03  #公司
-
-【供需格局偏緊，光通訊產業鏈上半年業績大面積預喜】截至7月29日，A股已有24家光通訊產業鏈上市公司披露上半年業績預告，其中18家公司預喜（包括預增、預計扭虧），佔比超七成。從上游光纖光纜、核心光晶片，到中游高速光模組、下游光器件，全產業鏈實現業績共振——龍頭企業淨利潤迎來數倍級躍升，部分企業扭虧為盈。採訪瞭解到，全球雲廠商與AI企業持續加碼算力資本開支，疊加高速光通訊技術迭代升級，行業供需格局持續偏緊，高階產品供不應求、核心物料供給受限，推動產業鏈整體盈利中樞穩步上移。（上證報）
-
----
-
-### 2026-07-30 06:24:50  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Kyiv mayor Klitschko says the city is being struck by ballistic missiles and further attacks remain possible; residents urged to stay in shelters.
-
----
-
-### 2026-07-30 06:24:35  #國際
-
-市場資訊：馬自達將對泰國工廠投資規模提升至原來1.5倍。
-
----
-
-### 2026-07-30 06:20:57  #其他
-
-【伊拉克庫區首府埃爾比勒傳出多次爆炸聲】當地時間30日凌晨，伊拉克庫爾德自治區（庫區）首府埃爾比勒傳出多次爆炸聲。
-
----
-
-### 2026-07-30 06:20:48  #國際
-
-【烏克蘭基輔傳出連續爆炸聲】當地時間30日，烏克蘭基輔拉響防空警報，同時傳出連續爆炸聲。(央視新聞)
-
----
-
-### 2026-07-30 06:19:32  #市場
-
-韓元兌美元觸及2月底以來最高水平。
-
----
-
-### 2026-07-30 06:16:32  #國際
-
-烏克蘭克里維裡赫遭導彈襲擊。
-
----
-
-### 2026-07-30 06:15:31  #焦點 #國際
-
-特朗普：有人清楚嗎？美國最高法院就出生地公民權、關稅議題作出不利裁決，讓國家蒙受多大經濟損失、喪失多少國際聲望？答案是：數萬億美元！
-
----
-
-### 2026-07-30 06:15:06  #其他
-
-【股票型ETF7月以來“吸金”逾4100億元】資料顯示，7月以來，截至7月28日，股票型ETF資金淨流入4151.74億元。從資金流入較多的產品看，科創50 ETF華夏資金淨流入348.45億元，滬深300 ETF華泰柏瑞、創業板ETF易方達等資金淨流入均超過230億元。此外，中證1000 ETF南方、中證500 ETF南方、上證指數ETF富國等資金淨流入均超過百億元。
-
----
-
-### 2026-07-30 06:15:03  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Norwegian Krone Rises by 1.00% — Top currency gainers are Norwegian Krone (1%), Euro (0.71%), Swiss Franc (0.68%), British Pound (0.59%) and Japanese Yen (0.26%). Biggest losers are Dollar Index (-0.72%), Indian Rupee (-0.27%) and Australian Dollar (-0.26%).
-
----
-
-### 2026-07-30 06:14:47  #MKT News #Macro & Rates #US Economy
-
-Trump said the Supreme Court's adverse rulings on birthright citizenship and tariffs have cost the U.S. trillions of dollars and damaged its prestige.
-
----
-
-### 2026-07-30 06:12:22  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #Brent
-
-Local witnesses reported explosions heard in Kyiv, Ukraine.
-
----
-
-### 2026-07-30 06:11:52  #國際
-
-烏克蘭基輔傳出爆炸聲。
-
----
-
-### 2026-07-30 06:11:46  #市場
-
-現貨白銀日內漲1%，現報58.17美元/盎司。
-
----
-
-### 2026-07-30 06:11:16  #MKT News #Commodities #Precious Metals
-
-Spot silver is up more than 1.00% intraday at $58.17/oz.
-
----
-
-### 2026-07-30 06:10:15  #市場
-
-納斯達克100指數期貨上漲0.3%，從早盤下跌中反彈。
-
----
-
-### 2026-07-30 06:10:02  #焦點 #國際
-
-市場資訊：ChatGPT、Roblox將受歐盟最嚴格平臺規則約束。
-
----
-
-### 2026-07-30 06:09:59  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) expects first fiscal quarter operating expenses of $16.8–$16.9 billion and Azure and other cloud services revenue to grow about 45% at constant currency.
-
----
-
-### 2026-07-30 06:09:28  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact mixed
-
-Microsoft (MSFT.O) expects calendar-year 2026 capital expenditures of about $175 billion.
-
----
-
-### 2026-07-30 06:09:20  #國際
-
-基輔全域防空警報鳴響，烏方預警導彈逼近首都，防空系統進入應戰狀態。
-
----
-
-### 2026-07-30 06:08:39  #其他
-
-微軟首席財務官：2027財年第一財季資本支出預計將超過500億美元，該規模已計入租賃重分類影響。
-
----
-
-### 2026-07-30 06:08:13  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish #Nasdaq100
-
-Microsoft (MSFT.O) issued a series of financial guidance updates; its US-listed shares extended after-hours gains to about 8%.
 
 ---
