@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-05 03:32:18",
-  "count": 17767,
+  "updated": "2026-08-05 03:36:08",
+  "count": 17766,
   "items": [
+    {
+      "id": "5025257",
+      "time": "2026-08-05 03:32:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：每顆星智衛星都將搭載英偉達Rubin GPU和Vera CPU，實現資料中心級太空計算能力。"
+    },
+    {
+      "id": "5025256",
+      "time": "2026-08-05 03:32:31",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SpaceX正與英偉達合作開發「星智AI1」（Starmind AI1）衛星計算載荷。"
+    },
     {
       "id": "mkt:019fce42-636d-7aab-8f76-6ba19f3fe9df",
       "time": "2026-08-05 03:31:25",
@@ -164461,39 +164478,6 @@
         "MKT News"
       ],
       "text": "UK Maritime Transport Office received a suspicious-activity report: an oil tanker captain reported hearing an explosion while transiting the southern Red Sea. Report confirms crew and vessel are safe and no environmental damage reported. Vessels advised to proceed with caution."
-    },
-    {
-      "id": "mkt:019faa3a-201f-7aab-8ed4-6113074e2a36",
-      "time": "2026-07-29 03:36:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi Defense Ministry said the \"terrorist attacks\" originated in Iraq and were carried out by Iranian-backed militia groups."
-    },
-    {
-      "id": "mkt:019faa37-7128-7aab-8ed4-5c5cfdcd378c",
-      "time": "2026-07-29 03:33:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Saudi defence ministry said air defences intercepted and destroyed several drones launched from inside Iraq that were targeting oil facilities in the eastern region."
-    },
-    {
-      "id": "5012976",
-      "time": "2026-07-29 03:32:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特國防部：國防部官方發言人表示，過去數小時內，防空系統攔截並摧毀了數架企圖襲擊東部地區石油設施的無人機。 此類恐怖襲擊再度從伊拉克境內發起，由伊朗關聯的恐怖民兵組織實施。申明沙特王國擁有自衛的合法權利，具備相應防禦能力，並保留在合適時機、地點採取反擊行動的權利。"
     }
   ]
 }
