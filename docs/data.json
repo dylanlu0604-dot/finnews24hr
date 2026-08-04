@@ -1,7 +1,185 @@
 {
-  "updated": "2026-08-05 01:53:21",
-  "count": 17762,
+  "updated": "2026-08-05 02:26:14",
+  "count": 17751,
   "items": [
+    {
+      "id": "te:markets:572669",
+      "time": "2026-08-05 02:25:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Slumps by 5.97% — Top commodity losers are Rubber (-5.97%), Wheat (-2.06%) and Lumber (-1.80%). Gains are led by Cocoa (2.53%), Palm Oil (1.45%) and Coffee (1.11%)."
+    },
+    {
+      "id": "5025222",
+      "time": "2026-08-05 02:23:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "據美國疾控中心（CDC），環孢子蟲病（cyclospora）疫情擴散至15個州。"
+    },
+    {
+      "id": "mkt:019fce03-f33f-7aab-8f75-aea91d1b9ba0",
+      "time": "2026-08-05 02:23:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Fars News Agency said it remains concerned that obstruction by the US or certain regional parties could prolong or disrupt the negotiation process."
+    },
+    {
+      "id": "mkt:019fce03-dba2-7aab-8f75-a338ea09156b",
+      "time": "2026-08-05 02:23:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Fars news agency reported that some US officials have recently sent mixed signals, directly or via regional partners, disrupting the negotiation process."
+    },
+    {
+      "id": "5025221",
+      "time": "2026-08-05 02:22:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其能源部長：土耳其正在洽談建設通往伊拉克發電廠的天然氣管道。"
+    },
+    {
+      "id": "5025220",
+      "time": "2026-08-05 02:20:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社：近日，部分美國官員直接或透過部分地區夥伴釋放相互矛盾的訊號，對談判程序造成干擾。"
+    },
+    {
+      "id": "te:markets:572668",
+      "time": "2026-08-05 02:20:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Rallies by 8.01% — Top commodity gainers are Platinum (8.01%), Silver (3.51%), Copper (1.61%) and Gold (0.79%)."
+    },
+    {
+      "id": "mkt:019fce01-261d-7aab-8f75-99f698c0ef15",
+      "time": "2026-08-05 02:20:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Refinitiv: sources say the WHITE HOUSE expects to extend the Jones Act waiver period in the coming days."
+    },
+    {
+      "id": "5025219",
+      "time": "2026-08-05 02:19:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：白宮預計未來數日將延長《瓊斯法案》豁免期限。"
+    },
+    {
+      "id": "5025218",
+      "time": "2026-08-05 02:18:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社：談判團隊訊息人士稱，伊朗僅與阿曼就霍爾木茲海峽未來相關安排開展談判，並未和美國進行任何談判。"
+    },
+    {
+      "id": "te:markets:572667",
+      "time": "2026-08-05 02:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Crude Oil WTI Plunges by 5.68% — Top commodity losers are Crude Oil WTI (-5.68%), Brent Crude Oil (-5.42%) and Natural Gas UK (-5.30%). Gains are led by Methanol (0.55%)."
+    },
+    {
+      "id": "mkt:019fcdfa-27da-7aab-8f75-90376f3aa5f2",
+      "time": "2026-08-05 02:12:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P Dow Jones Indices launched a new index series including the S&P U.S. Investment-Grade CLO (collateralized loan obligation) Index, providing a benchmark framework for market participants in one of the fastest-growing segments of the credit market."
+    },
+    {
+      "id": "5025217",
+      "time": "2026-08-05 02:09:40",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛高階石油交易員Madhav Janakiraman將離職。"
+    },
+    {
+      "id": "mkt:019fcdf7-3b86-7aab-8f75-8e0c5d375979",
+      "time": "2026-08-05 02:09:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Emir said his call with Trump addressed recent regional developments, notably efforts to ease US-Iran tensions and bridge positions to bolster prospects for a sustainable diplomatic resolution of the crisis."
+    },
+    {
+      "id": "5025216",
+      "time": "2026-08-05 02:08:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達埃米爾：接到美國總統特朗普打來的電話。 通話談及地區最新局勢，重點涉及緩和美國與伊朗之間緊張關係、彌合雙方立場分歧的相關努力，以此提升危機透過外交途徑實現可持續解決的前景。美國總統對卡達在埃米爾領導下為支援外交努力、促成各方對話所發揮的作用表示讚賞，稱卡達的工作有助於促進該地區的安全與穩定。埃米爾則強調，應繼續開展對話，採取外交手段解決分歧。他同時指出，各方均需恪守美國與伊朗諒解備忘錄框架下達成的各項約定，並支援旨在緩和緊張局勢的國際倡議，進而鞏固地區與國際層面的和平與安全。雙方還就多項共同關切議題交換意見，強調要繼續就地區及國際事態發展保持協調磋商，以維護兩個友好國家的利益。"
+    },
+    {
+      "id": "mkt:019fcdf5-b873-7aab-8f75-83577ecfebe3",
+      "time": "2026-08-05 02:07:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's emir said he received a call from U.S. President Trump."
+    },
+    {
+      "id": "5025215",
+      "time": "2026-08-05 02:07:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【Chipotle撤下與美國明尼蘇達州沙門氏菌病例相關的墨西哥胡椒】在得知墨西哥胡椒可能與美國明尼蘇達州的一起沙門氏菌疫情有關後，Chipotle Mexican Grill Inc.（墨式烤肉）從明尼蘇達州的多間門店撤下了該產品。在協助明尼蘇達州衛生部門調查此次疫情的過程中，該連鎖餐廳從所有接收過該批次的門店中撤下了疑似受汙染的墨西哥胡椒。此次沙門氏菌疫情的完整範圍和汙染源頭仍不明確。其他州也參與了調查，且有證據表明，在其他墨西哥風味餐廳就餐的顧客同樣出現了患病症狀。受此訊息影響，Chipotle的股價在紐約週二盤中一度下跌8.5%，創2025年10月30日以來的最大盤中跌幅。"
+    },
+    {
+      "id": "5025214",
+      "time": "2026-08-05 01:59:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "明尼蘇達州衛生部門：正在調查與墨西哥風味快餐門店相關的賈維亞沙門氏菌疫情，懷疑傳染源為墨西哥辣椒（哈拉佩諾辣椒）。已確認本起疫情在該州造成 110 例賈維亞沙門氏菌感染病例。 即便部分感染病例發病於數週之前，預計賈維亞沙門氏菌的確診數量仍會繼續上升。"
+    },
+    {
+      "id": "mkt:019fcdee-4210-7aab-8f75-7ebe2ccaa924",
+      "time": "2026-08-05 01:59:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【OPEC output rises in July as three Gulf producers supply almost all the gain】Bloomberg survey: OPEC crude production rose 1.16 mln b/d in July to an average 19.44 mln b/d, with Kuwait, Saudi Arabia and Iraq accounting for almost all of the increase. Iraq led the gain, up 460k b/d to 2.30 mln b/d; tanker-tracking data show Iraqi loadings rose 37% in July. Kuwait added 360k b/d to 1.57 mln b/d, with officials saying output is at its highest average since the conflict began. Saudi production increased 390k b/d to 7.40 mln b/d but remains several million barrels below pre-conflict levels, and Saudi export flows via Red Sea alternative routes have fallen amid Houthi threats to tankers."
+    },
+    {
+      "id": "mkt:019fcde9-8d24-7aab-8f75-7358bb7d3809",
+      "time": "2026-08-05 01:54:23",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact mixed"
+      ],
+      "text": "Zero Hedge posted that 95% of lendable SpaceX shares have been borrowed, implying short positions equal to 34% of the float. Musk replied: \"I tried to warn them, but they just doubled down.\" SpaceX (SPCX.O) will report Q2 after the U.S. market close today."
+    },
     {
       "id": "mkt:019fcde4-9318-7aab-8f75-6b4702840095",
       "time": "2026-08-05 01:48:56",
@@ -164160,290 +164338,6 @@
         "國際"
       ],
       "text": "【對伊朗軍事行動以來 特朗普與內塔尼亞胡首次會晤】美國總統特朗普28日上午在白宮同到訪的以色列總理內塔尼亞胡舉行會談。這是兩人自美以2月底對伊朗聯合發動大規模軍事行動以來的首次面對面會晤。據美國媒體報道，此次會晤持續了一個多小時，而特朗普此前剛同烏克蘭總統澤連斯基進行了約一個小時的會談。白宮新聞秘書萊維特在社交媒體發文稱，兩場會談“都積極且富有成效”。"
-    },
-    {
-      "id": "5012956",
-      "time": "2026-07-29 02:25:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門胡塞武裝稱打擊一艘沙特籍油輪】葉門胡塞武裝28日發表宣告稱，該組織當天對一艘沙烏地阿拉伯籍油輪實施軍事打擊，理由是該船違反其針對沙特實施的海上航行禁令，並無視其發出的警告。宣告稱，行動中使用了多枚彈道導彈，並迫使該船掉頭返航。（央視新聞）"
-    },
-    {
-      "id": "te:markets:570492",
-      "time": "2026-07-29 02:25:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Gains by 4.91% — Top commodity gainers are Coffee (4.91%), Cocoa (2.08%) and Corn (1.46%). Biggest losers are Lumber (-1.39%) and Canola (-1.27%)."
-    },
-    {
-      "id": "5012955",
-      "time": "2026-07-29 02:23:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【藤森慶子宣誓就任秘魯總統】當地時間7月28日，秘魯當選總統藤森慶子在國會宣誓就職，正式就任秘魯總統，任期五年。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fa9f5-b1c8-7aab-8ed3-a0d60766a5e6",
-      "time": "2026-07-29 02:21:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Israel’s goal is aligned with Trump’s: to prevent Iran from obtaining nuclear weapons."
-    },
-    {
-      "id": "5012954",
-      "time": "2026-07-29 02:20:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：OpenAI稱在API中引入了兩種新的轉錄模型，GPT-Live-Transcribe和GPT-Transcribe。這兩個模型都能更好地理解上下文，並能更準確地轉錄真實世界的音訊，涵蓋各種口音和語言，包括短語、數字、專業術語以及在嘈雜背景噪音下的語音。"
-    },
-    {
-      "id": "mkt:019fa9f4-e46b-7aab-8ed3-99ac93795ceb",
-      "time": "2026-07-29 02:20:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "SGO.PA",
-        "Impact bullish",
-        "MSFT.O"
-      ],
-      "text": "French builder Saint-Gobain signed a framework agreement with Microsoft to further consolidate its AI leadership in the construction sector."
-    },
-    {
-      "id": "te:markets:570491",
-      "time": "2026-07-29 02:20:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Drops by 2.11% — Top commodity losers are Silver (-2.11%), Silicon (-1.33%) and Gold (-1.20%)."
-    },
-    {
-      "id": "mkt:019fa9f2-9e37-7aab-8ed3-956921390c78",
-      "time": "2026-07-29 02:17:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Kuwait's cabinet condemned Iran and its proxies for multiple drone attacks on the Abdali border crossing last Thursday."
-    },
-    {
-      "id": "mkt:019fa9f1-81d1-7aab-8ed3-8f7ae3996aaf",
-      "time": "2026-07-29 02:16:44",
-      "tags": [
-        "MKT News",
-        "LCID.O",
-        "Impact bullish"
-      ],
-      "text": "【Saudi prince takes 5% stake in Lucid; shares jump about 24%】Lucid Group shares rose about 24% on Tuesday after a regulatory filing showed Prince Alwaleed bin Talal bought roughly 19.5 million shares for $129.5 million, lifting his stake to 5%. A spokesman said the purchase followed a recent sharp decline in Lucid's share price. Markets viewed the investment as a confidence vote that could ease investor concerns after earlier cash-pressure and loss-driven bankruptcy fears; Lucid denied bankruptcy reports but confirmed it had hired AlixPartners and previously suffered a one-day 57% plunge. The company still faces challenges on sales growth, profitability and cash flow."
-    },
-    {
-      "id": "5012953",
-      "time": "2026-07-29 02:15:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特：譴責伊朗及其代理人上週四對阿卜杜利邊境口岸發動的數起無人機襲擊。"
-    },
-    {
-      "id": "te:markets:570490",
-      "time": "2026-07-29 02:15:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Brent Crude Oil Falls by 4.99% — Top commodity losers are Brent Crude Oil (-4.99%), Crude Oil WTI (-4.53%) and Natural Gas UK (-4.47%). Gains are led by Heating Oil (0.60%)."
-    },
-    {
-      "id": "mkt:019fa9ee-904b-7aab-8ed3-85c0f7eee28e",
-      "time": "2026-07-29 02:13:31",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's deputy foreign minister said Iran is currently effectively like a country not party to the NPT. He said the IAEA has no inspectors in Iran, Tehran will not submit any declarations, and all IAEA access has been cut off."
-    },
-    {
-      "id": "5012952",
-      "time": "2026-07-29 02:13:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：我們完全無意與美國展開談判，眼下我們需要靜觀阿曼方面事態進展。"
-    },
-    {
-      "id": "mkt:019fa9e6-d759-7aab-8ed3-79a5c28d4997",
-      "time": "2026-07-29 02:05:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said it added two transcription models to its API, GPT-Live-Transcribe and GPT-Transcribe, which improve contextual understanding and more accurately transcribe real‑world audio across accents and languages, including phrases, numbers, technical jargon and speech in noisy backgrounds."
-    },
-    {
-      "id": "mkt:019fa9e6-a3e2-7aab-8ed3-7468a086e0e4",
-      "time": "2026-07-29 02:04:52",
-      "tags": [
-        "MKT News",
-        "SPCE.O"
-      ],
-      "text": "The U.S. Federal Aviation Administration proposed streamlining commercial space launch licensing rules to make launches easier."
-    },
-    {
-      "id": "mkt:019fa9e6-a37b-7aab-8ed3-6e1b2aa20a5f",
-      "time": "2026-07-29 02:04:52",
-      "tags": [
-        "MKT News",
-        "LCID.O",
-        "Impact bullish"
-      ],
-      "text": "Lucid Group (LCID.O) shares jumped more than 25% after a 13G filing by the company showed a Saudi prince holds a stake in the firm."
-    },
-    {
-      "id": "mkt:019fa9e6-8f30-7aab-8ed3-66a8ae167cff",
-      "time": "2026-07-29 02:04:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MVM said Hungary's Paks nuclear power plant will cut a further 237 MW of generation on Tuesday due to low Danube River water levels."
-    },
-    {
-      "id": "5012951",
-      "time": "2026-07-29 02:01:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "AMC娛樂股價飆升至盤中最高點9.8%。"
-    },
-    {
-      "id": "5012950",
-      "time": "2026-07-29 02:01:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌已承諾最高提供440億美元擔保，為資料中心租賃專案兜底。該公司將藉助金融工具推廣自研AI晶片，同時控制表內資產規模。"
-    },
-    {
-      "id": "5012949",
-      "time": "2026-07-29 02:00:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局（FAA）提議簡化商業航天發射許可審批法規，降低火箭發射專案的審批門檻。"
-    },
-    {
-      "id": "5012948",
-      "time": "2026-07-29 01:59:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：入境航道必須完全由伊朗掌控。"
-    },
-    {
-      "id": "mkt:019fa9e1-8d21-7aab-8ed3-5b5ba66c072e",
-      "time": "2026-07-29 01:59:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces says an interceptor missile was accidentally fired into an area where it had been directing artillery toward Lebanon. The incident is under investigation; per regulations no alert was issued."
-    },
-    {
-      "id": "mkt:019fa9e1-68da-7aab-8ed3-5292ab4a97c4",
-      "time": "2026-07-29 01:59:09",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish",
-        "RTX.O"
-      ],
-      "text": "Ukrainian President Zelenskiy met with a Lockheed Martin team to discuss joint production and technology sharing for ATACMS missiles, HIMARS rockets, F-16 fighters and Patriot air-defense systems."
-    },
-    {
-      "id": "5012947",
-      "time": "2026-07-29 01:57:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：不久前，一枚攔截彈出現誤射，目標本是以軍向黎巴嫩方向發射的己方炮火。相關事件正在調查中。按照處置流程，本次未拉響防空警報。"
-    },
-    {
-      "id": "5012946",
-      "time": "2026-07-29 01:55:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本強震致一工廠煙囪倒塌 9人下落不明】據日本共同社報道，熊本縣28日發生的強震造成位於八代市的日本製紙集團工廠煙囪倒塌，兩名獲救人員處於心肺停止狀態。 另據日本《朝日新聞》報道，此前有11人被困該工廠，兩人獲救但處於心肺停止狀態，另外9人下落不明。（新華社）"
-    },
-    {
-      "id": "mkt:019fa9de-1439-7aab-8ed3-4ade5809e539",
-      "time": "2026-07-29 01:55:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An Israeli official said Netanyahu did not mention Gaoshan during his meeting with Trump, and reports that Israel submitted related intelligence are false."
-    },
-    {
-      "id": "5012945",
-      "time": "2026-07-29 01:55:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：美方高層團隊全員到場，我方核心官員也悉數出席。雙方藉此機會交換意見，並針對關乎以色列國家安全與未來發展的關鍵事務開展協調。"
-    },
-    {
-      "id": "5012944",
-      "time": "2026-07-29 01:55:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：整場會談美以雙方秉持全面夥伴關係、相互支援，就核心共識達成一致，堅決阻止伊朗擁有核武器，同時就其他多項議題形成統一認知。"
-    },
-    {
-      "id": "5012943",
-      "time": "2026-07-29 01:55:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面表示，阿曼提出的霍爾木茲海峽航道方案未能解決伊朗的各項關切。"
-    },
-    {
-      "id": "5012942",
-      "time": "2026-07-29 01:54:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "Lucid集團漲幅擴大至20%。"
-    },
-    {
-      "id": "5012941",
-      "time": "2026-07-29 01:54:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：剛剛結束一場極為順利的會晤，會晤物件是特朗普總統。我說這場會面成果豐碩，絕非場面話。"
     }
   ]
 }
