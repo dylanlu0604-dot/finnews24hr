@@ -1,7 +1,119 @@
 {
   "date": "2026-08-04",
-  "count": 680,
+  "count": 692,
   "items": [
+    {
+      "id": "5023492",
+      "time": "2026-08-04 09:48:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化買盤。"
+    },
+    {
+      "id": "5023491",
+      "time": "2026-08-04 09:48:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流入超100億。"
+    },
+    {
+      "id": "5023490",
+      "time": "2026-08-04 09:48:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.06%，成分股中，源傑科技漲12.69%，生益電子漲6.20%，瀾起科技漲4.53%，芯原股份漲4.48%。"
+    },
+    {
+      "id": "5023489",
+      "time": "2026-08-04 09:48:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國首爾綜指轉漲，稍早一度跌近3%。此前韓國財長表示，將致力於改善股市結構和穩定性。"
+    },
+    {
+      "id": "5023488",
+      "time": "2026-08-04 09:47:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲3.00%，現報3401.703點；上證指數跌0.08%，現報3806.501點；深證成指漲1.62%，現報13666.716點。"
+    },
+    {
+      "id": "5023487",
+      "time": "2026-08-04 09:47:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【劃分21個重點防治區 “十五五”全國地質災害防治部署來了】自然資源部今天（4日）介紹，《全國地質災害防治“十五五”實施方案》近日釋出。“十五五”期間，我國地質災害防治工作將以“提升氣候變化應對能力、減輕地質災害風險”為主線，在全國劃分21個地質災害重點防治區，進一步擴大管控範圍，推動地質災害防治工作向精細化、智慧化邁進，最大限度減少人員傷亡和財產損失。"
+    },
+    {
+      "id": "te:markets:572323",
+      "time": "2026-08-04 09:47:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Tencent Holdings Stock Price Hits 14-week High — Tencent Holdings shares increased to 494.80 HKD, the highest since April 2026. Over the past 4 weeks, Tencent Holdings gained 8.72%, and in the last 12 months, it decreased 10.65%."
+    },
+    {
+      "id": "5023486",
+      "time": "2026-08-04 09:47:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量665億元。"
+    },
+    {
+      "id": "5023485",
+      "time": "2026-08-04 09:46:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CPO板塊持續走高，光庫科技漲超14%】CPO板塊持續走高，光庫科技漲超14%，源傑科技、仕佳光子、天孚通訊均漲超10%。"
+    },
+    {
+      "id": "5023484",
+      "time": "2026-08-04 09:45:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雪人集團成立能源投資公司】企查查APP顯示，近日，福建雪人能源投資有限公司成立，經營範圍包含以自有資金從事投資活動；石油天然氣技術服務；新興能源技術研發；合同能源管理等。企查查股權穿透顯示，該公司由雪人集團(002639)全資持股。"
+    },
+    {
+      "id": "te:markets:572321",
+      "time": "2026-08-04 09:45:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Decline — The benchmark KOSPI edged down to around 6,230 on Tuesday, extending losses for a second straight session, as technology heavyweights remained under pressure. Samsung Electronics and SK Hynix both fell more than 3%. Other notable losses included Hyundai Motor (-3.3%), Samsung Electro-Mechanics (-3.6%), KB Financial Group (-0.7%), Kia Corporation (-1.4%), Shinhan Financial Group (-1.6%), and Hyundai Mobis (-5.1%). Meanwhile, South Korea's annual inflation rate eased to 2.8% in July from 3.2% in June, below market expectations of 3.0%, though a pickup in core inflation reinforced expectations that the Bank of Korea will maintain a restrictive monetary policy stance. Investors also monitored developments in the Middle East after US President Donald Trump said talks with Iran on reopening the Strait of Hormuz were underway, while uncertainty over the outcome of the negotiations kept risk appetite in check."
+    },
+    {
+      "id": "mkt:019fca72-628a-7aab-8f61-f5298605d2f6",
+      "time": "2026-08-04 09:45:21",
+      "tags": [
+        "MKT News",
+        "06869.HK",
+        "Impact bullish",
+        "06166.HK",
+        "01729.HK"
+      ],
+      "text": "Hong Kong optical-communications stocks mostly rose. Yangtze Optical Fibre & Cable (06869.HK) and Cambridge Technology (06166.HK) advanced over 8%, Huiju Technology (01729.HK) climbed more than 6%, and Lens Technology (06613.HK) gained just over 2%."
+    },
     {
       "id": "mkt:019fca71-8407-7aab-8f61-edafb192ad42",
       "time": "2026-08-04 09:44:24",

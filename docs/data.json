@@ -1,7 +1,119 @@
 {
-  "updated": "2026-08-04 09:45:13",
+  "updated": "2026-08-04 09:49:04",
   "count": 17870,
   "items": [
+    {
+      "id": "5023492",
+      "time": "2026-08-04 09:48:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化買盤。"
+    },
+    {
+      "id": "5023491",
+      "time": "2026-08-04 09:48:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流入超100億。"
+    },
+    {
+      "id": "5023490",
+      "time": "2026-08-04 09:48:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.06%，成分股中，源傑科技漲12.69%，生益電子漲6.20%，瀾起科技漲4.53%，芯原股份漲4.48%。"
+    },
+    {
+      "id": "5023489",
+      "time": "2026-08-04 09:48:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國首爾綜指轉漲，稍早一度跌近3%。此前韓國財長表示，將致力於改善股市結構和穩定性。"
+    },
+    {
+      "id": "5023488",
+      "time": "2026-08-04 09:47:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲3.00%，現報3401.703點；上證指數跌0.08%，現報3806.501點；深證成指漲1.62%，現報13666.716點。"
+    },
+    {
+      "id": "5023487",
+      "time": "2026-08-04 09:47:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【劃分21個重點防治區 “十五五”全國地質災害防治部署來了】自然資源部今天（4日）介紹，《全國地質災害防治“十五五”實施方案》近日釋出。“十五五”期間，我國地質災害防治工作將以“提升氣候變化應對能力、減輕地質災害風險”為主線，在全國劃分21個地質災害重點防治區，進一步擴大管控範圍，推動地質災害防治工作向精細化、智慧化邁進，最大限度減少人員傷亡和財產損失。"
+    },
+    {
+      "id": "te:markets:572323",
+      "time": "2026-08-04 09:47:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Tencent Holdings Stock Price Hits 14-week High — Tencent Holdings shares increased to 494.80 HKD, the highest since April 2026. Over the past 4 weeks, Tencent Holdings gained 8.72%, and in the last 12 months, it decreased 10.65%."
+    },
+    {
+      "id": "5023486",
+      "time": "2026-08-04 09:47:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量665億元。"
+    },
+    {
+      "id": "5023485",
+      "time": "2026-08-04 09:46:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CPO板塊持續走高，光庫科技漲超14%】CPO板塊持續走高，光庫科技漲超14%，源傑科技、仕佳光子、天孚通訊均漲超10%。"
+    },
+    {
+      "id": "5023484",
+      "time": "2026-08-04 09:45:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雪人集團成立能源投資公司】企查查APP顯示，近日，福建雪人能源投資有限公司成立，經營範圍包含以自有資金從事投資活動；石油天然氣技術服務；新興能源技術研發；合同能源管理等。企查查股權穿透顯示，該公司由雪人集團(002639)全資持股。"
+    },
+    {
+      "id": "te:markets:572321",
+      "time": "2026-08-04 09:45:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Decline — The benchmark KOSPI edged down to around 6,230 on Tuesday, extending losses for a second straight session, as technology heavyweights remained under pressure. Samsung Electronics and SK Hynix both fell more than 3%. Other notable losses included Hyundai Motor (-3.3%), Samsung Electro-Mechanics (-3.6%), KB Financial Group (-0.7%), Kia Corporation (-1.4%), Shinhan Financial Group (-1.6%), and Hyundai Mobis (-5.1%). Meanwhile, South Korea's annual inflation rate eased to 2.8% in July from 3.2% in June, below market expectations of 3.0%, though a pickup in core inflation reinforced expectations that the Bank of Korea will maintain a restrictive monetary policy stance. Investors also monitored developments in the Middle East after US President Donald Trump said talks with Iran on reopening the Strait of Hormuz were underway, while uncertainty over the outcome of the negotiations kept risk appetite in check."
+    },
+    {
+      "id": "mkt:019fca72-628a-7aab-8f61-f5298605d2f6",
+      "time": "2026-08-04 09:45:21",
+      "tags": [
+        "MKT News",
+        "06869.HK",
+        "Impact bullish",
+        "06166.HK",
+        "01729.HK"
+      ],
+      "text": "Hong Kong optical-communications stocks mostly rose. Yangtze Optical Fibre & Cable (06869.HK) and Cambridge Technology (06166.HK) advanced over 8%, Huiju Technology (01729.HK) climbed more than 6%, and Lens Technology (06613.HK) gained just over 2%."
+    },
     {
       "id": "mkt:019fca71-8407-7aab-8f61-edafb192ad42",
       "time": "2026-08-04 09:44:24",
@@ -165479,125 +165591,6 @@
         "其他"
       ],
       "text": "【2026數博會8月28日—30日舉辦 布展面積6萬平方米】今天，國家資料局舉行新聞釋出會，相關負責人在會上介紹，作為全國唯一由政府部門主辦、以資料為主題的國際性博覽會，2026數博會將於8月28日—30日在貴州貴陽舉辦。本次博覽會將圍繞算力基礎設施、資料、模型等設定5大主題板塊，布展面積達到6萬平方米。"
-    },
-    {
-      "id": "5011180",
-      "time": "2026-07-28 09:48:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【人形機器人概念震盪拉昇 明新旭騰2連板】人形機器人概念震盪拉昇，明新旭騰2連板，上緯新材漲超9%，北自科技、三花智控、拓斯達、力星股份、天奇股份跟漲。"
-    },
-    {
-      "id": "mkt:019fa668-f987-7aab-8eba-53d58f731fe8",
-      "time": "2026-07-28 09:48:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【Southern Asset's Liu: Equity bottoming likely in late stage; semiconductor expansion may retake lead】Southern Asset Management's Liu Wenliang said China's equity market appears to be in the late stage of bottoming. Major sectors' pullbacks from highs are near historical single-cycle extremes and core-company valuations have largely been digested, with policy support and fresh inflows expected to reinforce one another. Disruptions are fading: the first overseas CSP major's results did not falsify the industry's recovery trend, and a domestic memory leader is scheduled to list next week, which should narrow fund diversion. Liu expects technology to be decisive in Q3 and anticipates funds refocusing on tech led by memory names. Industry signals: Q3 server DRAM contract prices remain in an uptrend, HBM supply is tight, and price rises are likely to spread from memory makers to equipment, components and materials. Capex signals are supportive — TSMC has raised annual CAPEX, ASML has twice upgraded guidance this year, and SEMI forecasts 23% YoY growth in global equipment sales in 2026. Domestic memory firms are raising large funding for capacity expansion; local equipment and component suppliers are benefiting from upgraded orders and longer overseas lead times that accelerate substitution and price upside. Liu said market participants should dynamically track domestic and offshore model-level progress; if continuous learning and a data–model flywheel materialize, commercialization upside could reopen."
-    },
-    {
-      "id": "5011179",
-      "time": "2026-07-28 09:48:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【微軟AI釋出網路安全模型MAI-Cyber-1-Flash，漏洞檢測效能提升並降低50%成本】微軟AI（Microsoft AI）當地時間7月27日釋出首款網路安全專用模型MAI-Cyber-1-Flash，並將其整合至多智慧體漏洞識別與修復平臺MDASH。微軟表示，該組合在CyberGym漏洞檢測基準測試中取得95.95%的成績，超過Mythos、Gemini和GPT系列模型，同時相比現有MDASH方案降低約50%成本。微軟同時推出智慧體安全系統Perception，用於持續監控、修補漏洞並應對新型威脅。"
-    },
-    {
-      "id": "mkt:019fa668-8b07-7aab-8eba-4fd27df94412",
-      "time": "2026-07-28 09:48:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China's largest single-batch green ammonia exported to South Korea】Today 3,750 tonnes of green ammonia from Daan, Jilin were transported by road to Lianyungang, Jiangsu and loaded for shipment to South Korea, the largest single-batch green ammonia export globally. The cargo was produced at the world's largest single-module green ammonia plant (180,000 tonnes/year), powered by wind and solar in western Jilin, and has lifecycle CO2 emissions more than 90% lower than coal-based ammonia, marking the first reported international market recognition of China's green fuels' full-life-cycle carbon-reduction value."
-    },
-    {
-      "id": "5011178",
-      "time": "2026-07-28 09:48:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！黃海北部實彈射擊 禁止駛入】據中國海事局網站訊息，大連海事局釋出航行警告，7月28日12時至30日17時，黃海北部部分海域執行實彈射擊，禁止駛入。"
-    },
-    {
-      "id": "5011177",
-      "time": "2026-07-28 09:47:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量428億元。"
-    },
-    {
-      "id": "mkt:019fa668-0c38-7aab-8eba-45b8e56c3836",
-      "time": "2026-07-28 09:47:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "01888.HK",
-        "Impact bearish",
-        "00148.HK",
-        "01989.HK"
-      ],
-      "text": "Hong Kong PCB-related stocks tumbled in early trade: Kingboard Laminates (01888.HK) fell more than 11%; Guanghe Technology (01989.HK) down about 8%; Kingboard Holdings (00148.HK) and Shenghong Technology (02476.HK) each fell over 7.5%; Dazhu Numerical Control (03200.HK) down about 6%."
-    },
-    {
-      "id": "5011176",
-      "time": "2026-07-28 09:47:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "馬來西亞央行行長：經濟增長可能達到預測的4%-5%區間高階。"
-    },
-    {
-      "id": "5011175",
-      "time": "2026-07-28 09:46:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【3750噸！我國最大單批次綠氨出口韓國】今日，3750噸產自吉林大安的綠氨經陸路運抵江蘇連雲港，裝船起航發往韓國。這是全球規模最大的單批次綠氨出口，標誌著我國綠色燃料首次憑藉全生命週期碳減排效益獲得國際市場價值認可。"
-    },
-    {
-      "id": "te:economy:570233",
-      "time": "2026-07-28 09:46:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Taiwan",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Taiwan Consumer Sentiment Drops from Four-Month High — Taiwan’s consumer confidence index fell to 64.58 in July 2026 from June’s four-month high of 65.05, reflecting broadly weaker sentiment. Confidence declined across all six core sub-indicators, including domestic economic conditions (80.53 vs 80.87 in June), household finances (77.42 vs 77.70), stock investment prospects (28.08 vs 29.90), durable goods purchases (93.43 vs 93.55), and labor market expectations (72.19 vs 72.46). Meanwhile, future price expectations remained subdued (35.82 vs 35.83). Other indicators also softened, including the gauge for the timing of real estate purchases (90.13 vs 90.35), current health conditions (86.70 vs 86.82), and expected future health conditions (81.77 vs 81.86)."
-    },
-    {
-      "id": "5011174",
-      "time": "2026-07-28 09:46:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股智慧駕駛概念股走強 地平線機器人漲超6%】截至發稿，地平線機器人-W(09660.HK)漲6.28%，禾賽-W(02525.HK)漲5.08%，曹操出行(02646.HK)漲3.63%。"
-    },
-    {
-      "id": "5011173",
-      "time": "2026-07-28 09:45:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗對美國海上封鎖發出警告】據伊朗邁赫爾通訊社7月27日報道，伊朗武裝部隊哈塔姆·安比亞中央司令部當天發表宣告稱，美國在加劇地區不安全域性勢的同時，持續對伊朗實施非法的海上封鎖，並在過去三天裡威脅伊朗沿海和領海的商船、油輪等。美國的這一行動將被視為對地區戰爭的擴大，伊朗武裝力量絕不會放過美軍的任何威脅，將作出回應。（CCTV國際時訊）"
     }
   ]
 }
