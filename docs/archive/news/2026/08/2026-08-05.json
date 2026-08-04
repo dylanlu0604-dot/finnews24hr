@@ -1,7 +1,49 @@
 {
   "date": "2026-08-05",
-  "count": 146,
+  "count": 150,
   "items": [
+    {
+      "id": "mkt:019fce0f-5050-7aab-8f75-f290826c4e87",
+      "time": "2026-08-05 02:35:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) rose as much as 3%."
+    },
+    {
+      "id": "mkt:019fce0f-4292-7aab-8f75-ef43ba46190f",
+      "time": "2026-08-05 02:35:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Fars News Agency cited a source close to Iran's negotiating team saying the situation in the strait could revert to its state a month ago only if the United States stops aggression and criminal acts against Iran and its interests and meets all necessary conditions and established demands."
+    },
+    {
+      "id": "mkt:019fce0e-c01a-7aab-8f75-e2447732a9fb",
+      "time": "2026-08-05 02:35:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian Fars news agency cites a source close to the negotiating team saying that even if talks yield a bilateral Iran-Oman agreement, that deal alone would not provide all the conditions required to secure the Strait of Hormuz."
+    },
+    {
+      "id": "5025227",
+      "time": "2026-08-05 02:33:21",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：巴西政府預計美國將出臺新制裁。"
+    },
     {
       "id": "5025226",
       "time": "2026-08-05 02:32:27",

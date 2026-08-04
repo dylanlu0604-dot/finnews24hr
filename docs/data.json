@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-05 02:33:53",
-  "count": 17756,
+  "updated": "2026-08-05 02:37:42",
+  "count": 17755,
   "items": [
+    {
+      "id": "mkt:019fce0f-5050-7aab-8f75-f290826c4e87",
+      "time": "2026-08-05 02:35:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) rose as much as 3%."
+    },
+    {
+      "id": "mkt:019fce0f-4292-7aab-8f75-ef43ba46190f",
+      "time": "2026-08-05 02:35:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Fars News Agency cited a source close to Iran's negotiating team saying the situation in the strait could revert to its state a month ago only if the United States stops aggression and criminal acts against Iran and its interests and meets all necessary conditions and established demands."
+    },
+    {
+      "id": "mkt:019fce0e-c01a-7aab-8f75-e2447732a9fb",
+      "time": "2026-08-05 02:35:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian Fars news agency cites a source close to the negotiating team saying that even if talks yield a bilateral Iran-Oman agreement, that deal alone would not provide all the conditions required to secure the Strait of Hormuz."
+    },
+    {
+      "id": "5025227",
+      "time": "2026-08-05 02:33:21",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：巴西政府預計美國將出臺新制裁。"
+    },
     {
       "id": "5025226",
       "time": "2026-08-05 02:32:27",
@@ -164342,56 +164384,6 @@
         "Brent"
       ],
       "text": "【Israel and UAE hold secret meetings to coordinate response to Iran】Israeli Channel 12 reported Israeli and UAE officials held multiple secret meetings in an unnamed third country to coordinate their positions and joint actions on Iran, including measures in international organizations. The UAE expressed strong opposition to a US‑Iran memorandum of understanding, arguing the deal could give Iran time to repair its economy without substantive concessions. Both sides agreed any actions should be cleared with the Trump administration. Western diplomats said the UAE is more hawkish on Iran than some Gulf states and that the UAE’s ability to export energy via alternative routes has increased its strategic alignment with Israel."
-    },
-    {
-      "id": "mkt:019faa04-71fd-7aab-8ed3-ccf279d17501",
-      "time": "2026-07-29 02:37:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Netanyahu says he had an 'excellent meeting' with Trump】On the 28th, Israeli Prime Minister Netanyahu said on social media he had just concluded an 'excellent meeting' with US President Trump. He said the talks reflected a comprehensive partnership, mutual support and a high degree of mutual understanding, and that both sides were aligned on preventing Iran from acquiring nuclear weapons; Netanyahu described it as one of his deepest and best dialogues with a US president."
-    },
-    {
-      "id": "5012962",
-      "time": "2026-07-29 02:35:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡稱與特朗普進行了一次“極佳的會晤”】當地時間28日，以色列總理內塔尼亞胡在社交媒體上表示，他剛剛結束了與美國總統特朗普之間一次“極佳的會晤”。內塔尼亞胡表示，此次會談體現了雙方的“全面夥伴關係、相互支援以及高度理解”，雙方在“確保伊朗不會擁有核武器”這一共同目標上保持一致。內塔尼亞胡高度評價了此次會晤，稱其是自己“與美國總統進行過的最深刻、最好的對話之一”。"
-    },
-    {
-      "id": "mkt:019faa02-2878-7aab-8ed3-c4f9359aeb40",
-      "time": "2026-07-29 02:34:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "U.S. crude futures settled at $79.26 a barrel, down $3.35, or 4.06%."
-    },
-    {
-      "id": "5012961",
-      "time": "2026-07-29 02:34:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普脫離講稿發言： 無論華盛頓的局勢鬧得多激烈，幾乎所有人，無論共和黨還是民主黨，都對林賽·格雷厄姆抱有好感。 好吧，也不是所有人，不過這話聽著順耳。確實不是所有人。 說實話，他這人十分強硬。"
-    },
-    {
-      "id": "mkt:019faa01-860a-7aab-8ed3-bff717bef274",
-      "time": "2026-07-29 02:34:14",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "【Google reportedly pledged up to $44 billion in guarantees for data‑center leases】According to The Information, Google (GOOG.O) last week agreed to backstop up to $44 billion of third‑party data‑center lease payments if tenants default. The amount is up from about $6.5 billion as of end‑September and reflects support for selling Google's TPUs as an alternative to NVIDIA chips to customers including Anthropic. Sources said Alphabet has provided lease guarantees for roughly 2.4 GW of capacity across about ten projects; those sites are unfinished and the guarantees are not yet active. Company executives said they expect TPU revenue to exceed the financial obligations created by these guarantees."
     }
   ]
 }
