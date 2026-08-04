@@ -1,7 +1,18 @@
 {
   "date": "2026-08-05",
-  "count": 99,
+  "count": 100,
   "items": [
+    {
+      "id": "mkt:019fcdcc-98c5-7aab-8f75-4608f6397411",
+      "time": "2026-08-05 01:22:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver traded above $60/oz for the first time since July 27, rising 3.14% on the day."
+    },
     {
       "id": "5025204",
       "time": "2026-08-05 01:21:33",
