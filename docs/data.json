@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-05 05:47:54",
-  "count": 17908,
+  "updated": "2026-08-05 05:51:44",
+  "count": 17911,
   "items": [
+    {
+      "id": "mkt:019fcec2-1b48-7aab-8f78-710e180f6558",
+      "time": "2026-08-05 05:50:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Loud explosions reported in Kyiv and toward Brovary】At 00:21–00:33 on the 5th local time, multiple loud explosions were heard in Kyiv and toward Brovary in Kyiv region. The Ukrainian Air Force said Russian forces were carrying out a new round of ballistic missile strikes on Kyiv."
+    },
+    {
+      "id": "5025414",
+      "time": "2026-08-05 05:50:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都基輔等地傳出強烈爆炸聲】當地時間5日零時21分至33分，烏克蘭首都基輔市和基輔州布羅瓦雷方向傳出多輪強烈爆炸聲。烏空軍稱俄軍正在對基輔市發動新一輪彈道導彈襲擊。（新華社）"
+    },
+    {
+      "id": "5025413",
+      "time": "2026-08-05 05:49:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：田納西州全新落成的特朗普總統大橋，這是莫大的榮幸。"
+    },
     {
       "id": "5025412",
       "time": "2026-08-05 05:47:09",
