@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-05 04:24:36",
+  "updated": "2026-08-05 04:28:24",
   "count": 17797,
   "items": [
+    {
+      "id": "te:markets:572686",
+      "time": "2026-08-05 04:25:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Prudential Financial earnings above expectations at 4.08 USD — Prudential Financial (PRU) released earnings per share at 4.08 USD, compared to market expectations of 3.35 USD."
+    },
     {
       "id": "5025305",
       "time": "2026-08-05 04:23:49",
@@ -164745,16 +164757,6 @@
         "Important"
       ],
       "text": "United States | API Weekly Crude Oil Stocks Change (Jul.24) | actual 3296000M | consensus -1350000M | previous 2603000M"
-    },
-    {
-      "id": "5012997",
-      "time": "2026-07-29 04:24:42",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【受希捷科技財報提振，美股儲存晶片概念股盤後走高】受希捷科技財報提振，美股儲存晶片概念股盤後走高，西部資料漲6.5%，SK海力士漲2.5%，美光科技漲0.8%，閃迪漲1%，希捷科技一度漲9%。"
     }
   ]
 }

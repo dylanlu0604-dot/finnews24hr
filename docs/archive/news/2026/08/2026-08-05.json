@@ -1,7 +1,19 @@
 {
   "date": "2026-08-05",
-  "count": 265,
+  "count": 266,
   "items": [
+    {
+      "id": "te:markets:572686",
+      "time": "2026-08-05 04:25:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Prudential Financial earnings above expectations at 4.08 USD — Prudential Financial (PRU) released earnings per share at 4.08 USD, compared to market expectations of 3.35 USD."
+    },
     {
       "id": "5025305",
       "time": "2026-08-05 04:23:49",
