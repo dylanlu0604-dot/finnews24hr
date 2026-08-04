@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05 02:49:09",
-  "count": 17752,
+  "updated": "2026-08-05 02:52:59",
+  "count": 17748,
   "items": [
     {
       "id": "5025229",
@@ -164319,46 +164319,6 @@
         "MKT News"
       ],
       "text": "Peru's President Keiko Fujimori said the government will boost public and private investment in \"productive infrastructure\" such as roads, ports and airports."
-    },
-    {
-      "id": "mkt:019faa11-aff6-7aab-8ed3-fc590fb18fac",
-      "time": "2026-07-29 02:51:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude futures settled at $84.09 per barrel, down $4.27 or 4.83%."
-    },
-    {
-      "id": "mkt:019faa11-a1d8-7aab-8ed3-f14a20d35a86",
-      "time": "2026-07-29 02:51:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "GD.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. approved a deal with General Dynamics for next-generation submarines."
-    },
-    {
-      "id": "5012966",
-      "time": "2026-07-29 02:50:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯總統藤森：政府將加大公共和私人投資力度，重點發展道路、港口及機場等\"生產性基礎設施\"。"
-    },
-    {
-      "id": "5012965",
-      "time": "2026-07-29 02:50:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨收於每桶84.09美元，下跌4.27美元，跌幅4.83%。"
     }
   ]
 }
