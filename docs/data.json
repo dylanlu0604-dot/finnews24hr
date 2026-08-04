@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-05 05:44:07",
-  "count": 17907,
+  "updated": "2026-08-05 05:47:54",
+  "count": 17908,
   "items": [
+    {
+      "id": "5025412",
+      "time": "2026-08-05 05:47:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "根據美國證券交易委員會檔案顯示，伯克希爾哈撒韋以每股199.55美元的平均價格出售了182980股達維塔公司股票，目前仍持有約2870萬股達維塔股票。"
+    },
+    {
+      "id": "mkt:019fcebd-8ef1-7aab-8f78-68d28fb5db6a",
+      "time": "2026-08-05 05:45:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump says internal polling at record highs】Trump said his internal polling is at record highs and dismissed mainstream polls as fake. He credited record tax cuts, job gains, large external investment into the US, secure borders, a victory in Venezuela and progress on Iranian denuclearization, and urged voters to back Republicans."
+    },
+    {
+      "id": "5025411",
+      "time": "2026-08-05 05:45:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西拒絕正式批准特朗普提名的丹尼爾・佩雷斯出任美國駐巴西利亞大使，且近期拒籤數名美國外交官，作為回應，美國吊銷了巴西駐華盛頓大使的簽證。"
+    },
     {
       "id": "5025410",
       "time": "2026-08-05 05:43:22",
@@ -165662,29 +165689,6 @@
         "國際"
       ],
       "text": "【美聯儲決議前夕交易員分歧顯著，聯邦基金利率期貨頭寸創紀錄】隨著交易員為美聯儲可能於週三開始加息的風險進行佈局，與美聯儲基準利率掛鉤的期貨頭寸激增至歷史最高水平。將在本次利率決議公佈後結算的聯邦基金利率期貨未平倉合約數量，超過了2024年10月合約創下的此前紀錄；當時市場對美聯儲會議結果的分歧同樣很大。芝商所資料顯示，未平倉合約上週五達到909,714份，週一進一步增至967,136份。這一交易反映市場對美聯儲下一步行動的預期存在顯著分歧。"
-    },
-    {
-      "id": "mkt:019faab2-8c06-7aab-8ed5-9107861a00e6",
-      "time": "2026-07-29 05:47:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【Goldman Sachs says Japan AI sell-off presents buying opportunity】Goldman Sachs says the sharp sell-off in Japan AI-related stocks has created a buy opportunity and that strong earnings could revive interest in semiconductor names. Bruce Kirk, Goldman's chief Japan equity strategist, said the correction has lowered the earnings bar, making outperformance more price-moving, and that current levels look attractive to add positions absent a material deterioration in geopolitical risk. He added that earnings will ultimately decide the direction and that strong results at much lower price levels should refocus investors on the AI profit story. Goldman cautioned short-term volatility may persist: its prime-brokerage data show hedge funds' gross and net Japan exposures sit above the 98th percentile of their five-year ranges, a historically high level."
-    },
-    {
-      "id": "te:markets:570510",
-      "time": "2026-07-29 05:45:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Natural gas is down by 6.08% — Natural gas decreased 6.08% to 2.5988 USD/MMBtu"
     }
   ]
 }
