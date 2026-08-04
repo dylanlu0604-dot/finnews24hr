@@ -1,7 +1,85 @@
 {
   "date": "2026-08-05",
-  "count": 270,
+  "count": 278,
   "items": [
+    {
+      "id": "mkt:019fce7c-d5f0-7aab-8f77-0592c4f57005",
+      "time": "2026-08-05 04:35:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior US State Department official said the visa of a senior Brazilian diplomat posted in Washington has been revoked and will be reinstated if the matter is resolved."
+    },
+    {
+      "id": "5025312",
+      "time": "2026-08-05 04:35:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceX公佈上市以來首份財報 營收超出華爾街預期】SpaceX公佈其6月轟轟烈烈上市後的首份季報，其中營收超過了華爾街的預期。伊隆·馬斯克旗下這個集衛星、太空和人工智慧等業務為一體的公司週二公佈78億美元的營收，而彭博調查的分析師平均預估為68.1億美元。該公司還公佈，其人工智慧業務產生了12.6億美元的經營虧損，好於虧損23.9億美元的市場共識。 SpaceX公佈這份備受期待的財報前，該公司自融資860億美元以來股價經歷了過山車式的變動。該股在後IPO震盪及人工智慧板塊的全球拋售潮中重挫，市值從峰值蒸發逾1萬億美元，也讓馬斯克失去了世界首富之位。"
+    },
+    {
+      "id": "te:markets:572688",
+      "time": "2026-08-05 04:35:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.71% Higher — The Dow Jones Index gained 908 points or 1.71 percent on Tuesday to close at 54086 points. Gains were led by Caterpillar (5.97%), Cisco Systems (5.11%) and IBM (3.91%)."
+    },
+    {
+      "id": "mkt:019fce7c-6360-7aab-8f76-f8df5ff81749",
+      "time": "2026-08-05 04:34:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said this year is another milestone for SpaceX."
+    },
+    {
+      "id": "mkt:019fce7c-2107-7aab-8f76-f2acc3c25821",
+      "time": "2026-08-05 04:34:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Energy Secretary Wright said an extension of the Jones Act waiver is likely; the waiver has already pushed down energy prices in California and on the US East Coast."
+    },
+    {
+      "id": "5025311",
+      "time": "2026-08-05 04:32:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceX營收超預期 千億解禁潮本週將至】SpaceX釋出Q2營收（78億美元），業績超出華爾街預期（68億美元）。該公司此前透過史上規模最大的IPO募資860億美元，此後股價因IPO後波動及AI板塊整體拋售而大幅下挫，從峰值蒸發了超過1萬億美元市值，馬斯克全球首位萬億富豪的地位也隨之喪失。為該公司增添不確定性的另一因素是，本週晚些時候將有逾1000億美元市值的股票解禁，可能給股價帶來進一步下行壓力。在電話會議上，分析師很可能就公司龐大的AI支出、Starlink網際網路業務的擴張計劃，以及星艦能以多快速度發射衛星和載人等問題，向馬斯克追問細節。"
+    },
+    {
+      "id": "mkt:019fce79-cdae-7aab-8f76-ed63801deeb4",
+      "time": "2026-08-05 04:31:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Energy Secretary Wright says fuel prices should fall in coming weeks."
+    },
+    {
+      "id": "5025310",
+      "time": "2026-08-05 04:31:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：《瓊斯法案》豁免期延長可能性較大，此舉已促使加利福尼亞州及美國東海岸能源價格下降。"
+    },
     {
       "id": "5025309",
       "time": "2026-08-05 04:30:56",
