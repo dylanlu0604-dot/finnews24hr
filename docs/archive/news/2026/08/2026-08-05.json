@@ -1,7 +1,183 @@
 {
   "date": "2026-08-05",
-  "count": 466,
+  "count": 484,
   "items": [
+    {
+      "id": "5025443",
+      "time": "2026-08-05 06:47:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭失業率升至11年高點5.6%。"
+    },
+    {
+      "id": "mkt:019fcef6-2614-7aab-8f79-0c7604a16b37",
+      "time": "2026-08-05 06:47:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand average hourly earnings rose 1.4% QoQ in Q2, up from 0.2% previously."
+    },
+    {
+      "id": "mkt:019fcef5-fe35-7aab-8f79-00a0c09c0fd6",
+      "time": "2026-08-05 06:47:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Average Hourly Earnings (QoQ) (Q2) | actual 1.4% | previous 0.20%"
+    },
+    {
+      "id": "5025442",
+      "time": "2026-08-05 06:45:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭第二季度經季節調整後就業人數環比增長0.5%，路透調查預期為增長0.2%。"
+    },
+    {
+      "id": "mkt:019fcef3-e8bc-7aab-8f78-f8a02157193c",
+      "time": "2026-08-05 06:45:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Q2 employment-to-population ratio 70.7%, expected 70.3%, prior 70.40%."
+    },
+    {
+      "id": "mkt:019fcef3-e0cf-7aab-8f78-f7ace809df5a",
+      "time": "2026-08-05 06:45:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Q2 labour cost index YoY 2.1% vs 2.0% expected, 2.0% prior."
+    },
+    {
+      "id": "mkt:019fcef3-d246-7aab-8f78-e919b502a878",
+      "time": "2026-08-05 06:45:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "New Zealand unemployment rate rose to 5.6% in Q2, above the 5.4% consensus and up from the prior 5.3%."
+    },
+    {
+      "id": "mkt:019fcef3-c3fc-7aab-8f78-e0cf077269c7",
+      "time": "2026-08-05 06:45:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "New Zealand Q2 employment +0.5% QoQ vs +0.2% expected; Q1 revised down to +0.1% from +0.2%."
+    },
+    {
+      "id": "mkt:019fcef3-c3cb-7aab-8f78-de1acb8e4041",
+      "time": "2026-08-05 06:45:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "New Zealand Q2 Labour Cost Index q/q 0.7% (consensus 0.6%; prior 0.5%)."
+    },
+    {
+      "id": "te:markets:572700",
+      "time": "2026-08-05 06:45:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Increases by 1.11% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a 1.11% increase."
+    },
+    {
+      "id": "mkt:019fcef3-a35e-7aab-8f78-d13c10aa5197",
+      "time": "2026-08-05 06:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Labor Cost Index (YoY) (Q2) | actual 2.1% | consensus 2% | previous 2%"
+    },
+    {
+      "id": "mkt:019fcef3-a293-7aab-8f78-c8a2933cc0a7",
+      "time": "2026-08-05 06:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Labor Cost Index (QoQ) (Q2) | actual 0.7% | consensus 0.60% | previous 0.50%"
+    },
+    {
+      "id": "mkt:019fcef3-a28e-7aab-8f78-c5469ee5f15d",
+      "time": "2026-08-05 06:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Labor Force Participation Rate (Q2) | actual 70.7% | consensus 70.3% | previous 70.40%"
+    },
+    {
+      "id": "mkt:019fcef3-a1a5-7aab-8f78-ba0e77768dbe",
+      "time": "2026-08-05 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Employment Change (QoQ) (Q2) | actual 0.5% | consensus 0.2% | previous 0.20%"
+    },
+    {
+      "id": "mkt:019fcef3-a18e-7aab-8f78-b2545fbd9ac5",
+      "time": "2026-08-05 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Unemployment Rate (Q2) | actual 5.6% | consensus 5.40% | previous 5.30%"
+    },
+    {
+      "id": "mkt:019fcef2-f222-7aab-8f78-ada65871925a",
+      "time": "2026-08-05 06:44:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "AMD.O",
+        "Impact bearish"
+      ],
+      "text": "【AMD falls after hours as revenue guide disappoints; Wall Street wanted more than \"beats\"】AMD fell about 9% in after-hours trading after its revenue outlook disappointed some investors. The company guided Q3 revenue to $13.0bn +/- $0.3bn; analysts’ mean was $12.5bn but Bloomberg shows some Wall Street forecasts exceeded $13.0bn. Post-earnings weakness despite beats has become common for AMD. Shares have more than doubled this year as AMD has emerged as NVIDIA’s main challenger in AI processors. CEO Lisa Su told analysts she expects data-center revenue to \"more than double\" by 2027 and said the company could exceed its prior targets of 35% annual revenue growth and $20 EPS over the longer term."
+    },
+    {
+      "id": "mkt:019fcef2-dd1a-7aab-8f78-a24725395a53",
+      "time": "2026-08-05 06:44:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "【Russia says continues strikes on Ukrainian ports and ships; Ukraine reports downing of Russian drones】On Aug 4 the Russian Defence Ministry said Russian forces had seized a settlement in Kharkiv region and over the previous 24 hours struck Ukrainian transport and energy infrastructure, logistics hubs, and UAV production and storage sites. The ministry said it continued strikes on Ukrainian ports, ships and related maritime infrastructure, alleging those facilities were used for Ukrainian military resupply. Ukraine's General Staff reported 226 engagements on the front in the past day, said Ukrainian forces repelled attacks in multiple sectors, and said missile and artillery strikes hit Russian troop concentrations and drone-control nodes; it reported shooting down 1,792 Russian drones."
+    },
+    {
+      "id": "5025441",
+      "time": "2026-08-05 06:42:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱繼續打擊烏港口設施及船隻 烏稱擊落俄無人機】當地時間8月4日，俄羅斯國防部通報稱，俄軍已控制哈爾科夫地區一個居民點。過去一天，俄軍對烏軍交通、能源基礎設施、後勤中心、無人機制造和儲存地點等目標實施打擊。通報還稱，俄軍當天繼續對烏克蘭港口、海上船隻及相關基礎設施實施打擊，稱這些設施被用於烏武裝部隊的軍事補給。烏克蘭武裝部隊總參謀部4日通報稱，過去一天，前線地區發生226次戰鬥，烏軍在多個方向擊退俄軍進攻。烏導彈部隊和炮兵對俄軍兵力集結區、無人機控制點等目標發動了打擊，擊落俄軍1792架無人機。"
+    },
     {
       "id": "5025440",
       "time": "2026-08-05 06:40:26",

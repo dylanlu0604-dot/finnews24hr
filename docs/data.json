@@ -1,7 +1,183 @@
 {
-  "updated": "2026-08-05 06:43:08",
-  "count": 17885,
+  "updated": "2026-08-05 06:51:01",
+  "count": 17880,
   "items": [
+    {
+      "id": "5025443",
+      "time": "2026-08-05 06:47:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭失業率升至11年高點5.6%。"
+    },
+    {
+      "id": "mkt:019fcef6-2614-7aab-8f79-0c7604a16b37",
+      "time": "2026-08-05 06:47:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand average hourly earnings rose 1.4% QoQ in Q2, up from 0.2% previously."
+    },
+    {
+      "id": "mkt:019fcef5-fe35-7aab-8f79-00a0c09c0fd6",
+      "time": "2026-08-05 06:47:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Average Hourly Earnings (QoQ) (Q2) | actual 1.4% | previous 0.20%"
+    },
+    {
+      "id": "5025442",
+      "time": "2026-08-05 06:45:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭第二季度經季節調整後就業人數環比增長0.5%，路透調查預期為增長0.2%。"
+    },
+    {
+      "id": "mkt:019fcef3-e8bc-7aab-8f78-f8a02157193c",
+      "time": "2026-08-05 06:45:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Q2 employment-to-population ratio 70.7%, expected 70.3%, prior 70.40%."
+    },
+    {
+      "id": "mkt:019fcef3-e0cf-7aab-8f78-f7ace809df5a",
+      "time": "2026-08-05 06:45:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Q2 labour cost index YoY 2.1% vs 2.0% expected, 2.0% prior."
+    },
+    {
+      "id": "mkt:019fcef3-d246-7aab-8f78-e919b502a878",
+      "time": "2026-08-05 06:45:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "New Zealand unemployment rate rose to 5.6% in Q2, above the 5.4% consensus and up from the prior 5.3%."
+    },
+    {
+      "id": "mkt:019fcef3-c3fc-7aab-8f78-e0cf077269c7",
+      "time": "2026-08-05 06:45:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "New Zealand Q2 employment +0.5% QoQ vs +0.2% expected; Q1 revised down to +0.1% from +0.2%."
+    },
+    {
+      "id": "mkt:019fcef3-c3cb-7aab-8f78-de1acb8e4041",
+      "time": "2026-08-05 06:45:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "New Zealand Q2 Labour Cost Index q/q 0.7% (consensus 0.6%; prior 0.5%)."
+    },
+    {
+      "id": "te:markets:572700",
+      "time": "2026-08-05 06:45:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Increases by 1.11% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a 1.11% increase."
+    },
+    {
+      "id": "mkt:019fcef3-a35e-7aab-8f78-d13c10aa5197",
+      "time": "2026-08-05 06:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Labor Cost Index (YoY) (Q2) | actual 2.1% | consensus 2% | previous 2%"
+    },
+    {
+      "id": "mkt:019fcef3-a28e-7aab-8f78-c5469ee5f15d",
+      "time": "2026-08-05 06:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Labor Force Participation Rate (Q2) | actual 70.7% | consensus 70.3% | previous 70.40%"
+    },
+    {
+      "id": "mkt:019fcef3-a293-7aab-8f78-c8a2933cc0a7",
+      "time": "2026-08-05 06:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Labor Cost Index (QoQ) (Q2) | actual 0.7% | consensus 0.60% | previous 0.50%"
+    },
+    {
+      "id": "mkt:019fcef3-a1a5-7aab-8f78-ba0e77768dbe",
+      "time": "2026-08-05 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Employment Change (QoQ) (Q2) | actual 0.5% | consensus 0.2% | previous 0.20%"
+    },
+    {
+      "id": "mkt:019fcef3-a18e-7aab-8f78-b2545fbd9ac5",
+      "time": "2026-08-05 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Unemployment Rate (Q2) | actual 5.6% | consensus 5.40% | previous 5.30%"
+    },
+    {
+      "id": "mkt:019fcef2-f222-7aab-8f78-ada65871925a",
+      "time": "2026-08-05 06:44:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "AMD.O",
+        "Impact bearish"
+      ],
+      "text": "【AMD falls after hours as revenue guide disappoints; Wall Street wanted more than \"beats\"】AMD fell about 9% in after-hours trading after its revenue outlook disappointed some investors. The company guided Q3 revenue to $13.0bn +/- $0.3bn; analysts’ mean was $12.5bn but Bloomberg shows some Wall Street forecasts exceeded $13.0bn. Post-earnings weakness despite beats has become common for AMD. Shares have more than doubled this year as AMD has emerged as NVIDIA’s main challenger in AI processors. CEO Lisa Su told analysts she expects data-center revenue to \"more than double\" by 2027 and said the company could exceed its prior targets of 35% annual revenue growth and $20 EPS over the longer term."
+    },
+    {
+      "id": "mkt:019fcef2-dd1a-7aab-8f78-a24725395a53",
+      "time": "2026-08-05 06:44:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "【Russia says continues strikes on Ukrainian ports and ships; Ukraine reports downing of Russian drones】On Aug 4 the Russian Defence Ministry said Russian forces had seized a settlement in Kharkiv region and over the previous 24 hours struck Ukrainian transport and energy infrastructure, logistics hubs, and UAV production and storage sites. The ministry said it continued strikes on Ukrainian ports, ships and related maritime infrastructure, alleging those facilities were used for Ukrainian military resupply. Ukraine's General Staff reported 226 engagements on the front in the past day, said Ukrainian forces repelled attacks in multiple sectors, and said missile and artillery strikes hit Russian troop concentrations and drone-control nodes; it reported shooting down 1,792 Russian drones."
+    },
+    {
+      "id": "5025441",
+      "time": "2026-08-05 06:42:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱繼續打擊烏港口設施及船隻 烏稱擊落俄無人機】當地時間8月4日，俄羅斯國防部通報稱，俄軍已控制哈爾科夫地區一個居民點。過去一天，俄軍對烏軍交通、能源基礎設施、後勤中心、無人機制造和儲存地點等目標實施打擊。通報還稱，俄軍當天繼續對烏克蘭港口、海上船隻及相關基礎設施實施打擊，稱這些設施被用於烏武裝部隊的軍事補給。烏克蘭武裝部隊總參謀部4日通報稱，過去一天，前線地區發生226次戰鬥，烏軍在多個方向擊退俄軍進攻。烏導彈部隊和炮兵對俄軍兵力集結區、無人機控制點等目標發動了打擊，擊落俄軍1792架無人機。"
+    },
     {
       "id": "5025440",
       "time": "2026-08-05 06:40:26",
@@ -165236,220 +165412,6 @@
         "其他"
       ],
       "text": "SK 海力士：第二季度錄得 63.27 萬億韓元投資相關收益。"
-    },
-    {
-      "id": "5013076",
-      "time": "2026-07-29 06:50:34",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、上半年支援科技創新和製造業發展減稅降費退稅1.91萬億元 稅收大資料勾勒經濟向好圖景（權威釋出·開局起步“十五五”）\n2、從服務、管理、保護3方面明確制度措施 助力企業出海更穩健（政策解讀）\n3、“中國智造”的三種能力（人民時評）\n4、黑龍江出臺醫療衛生領域人工智慧應用工作實施方案\n5、探訪國內首座量子應用示範變電站 構建新型電力系統，有套“量子方案”（大資料觀察·“六張網”裡的新動能）\n6、上半年全國光伏發電量同比增長超過40%\n7、關於所謂“產能過剩”問題的中方立場（2026年7月）\n8、歐洲國家加快構建綠色能源體系（國際視點）\n9、如何煉成全球引數最大開源模型\n10、首屆智慧機器人應用技能大展啟動\n11、上半年我國綠色貸款穩步增長 餘額增加3.82萬億元\n12、國家能源局印發行動方案 加快鄂爾多斯盆地東部區域煤層氣勘探開發\n13、中國品牌汽車在世界賽場屢創佳績——以賽促研，中國車跑出加速度（產經視野·做強做優做大實體經濟）\n14、從三組外貿資料讀懂“中國機遇2.0”（商海觀潮）。"
-    },
-    {
-      "id": "5013075",
-      "time": "2026-07-29 06:50:27",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平同斯洛伐克總統佩列格里尼會談\n2、習近平對僑務工作作出重要指示強調 更好凝聚僑心僑力 促進海內外中華兒女團結奮鬥 王滬寧出席全國僑務工作會議並講話\n3、促進團結奮鬥 匯聚磅礴力量\n4、李強在河北唐山調研慰問時強調 持續提升防災減災救災能力 切實保障人民群眾生命財產安全\n5、全國政協召開“加快農業農村現代化”專題協商會 王滬寧出席並講話\n6、身有桎梏 心向鴻鵠——記國防科技大學計算機學院研究員王戟。"
-    },
-    {
-      "id": "5013074",
-      "time": "2026-07-29 06:50:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK 海力士：2026 年資本開支預計處於 40 萬億韓元高位區間。"
-    },
-    {
-      "id": "mkt:019faaeb-e346-7aab-8ed6-326783f59f71",
-      "time": "2026-07-29 06:50:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "SKHY.O",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix (SKHY.O) expects DRAM market demand to rise 20% YoY in 2026."
-    },
-    {
-      "id": "5013073",
-      "time": "2026-07-29 06:49:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK 海力士：長期供貨協議（LTA）將提升中長期需求的可預見性。"
-    },
-    {
-      "id": "5013072",
-      "time": "2026-07-29 06:48:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK 海力士：長期供貨協議設定專屬定價機制，旨在平抑價格波動，定價方案會根據客戶型別及產品品類差異化制定。"
-    },
-    {
-      "id": "mkt:019faaea-44dc-7aab-8ed6-2f693d7d84e7",
-      "time": "2026-07-29 06:48:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "President Trump said Iran is extremely eager to reach an agreement; the US will make Iran sign the deal and will end the war."
-    },
-    {
-      "id": "5013071",
-      "time": "2026-07-29 06:48:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK 海力士：第三季度 DRAM 出貨量環比上漲約 10%。"
-    },
-    {
-      "id": "5013070",
-      "time": "2026-07-29 06:48:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK 海力士：隨著儲存晶片供應緊張狀況得到緩解，且 AI 應用服務覆蓋面持續拓寬，智慧手機與 PC 業務的增長勢頭預計將逐步回暖。"
-    },
-    {
-      "id": "5013069",
-      "time": "2026-07-29 06:47:55",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "SK 海力士：已與 10 家客戶簽訂長期晶片供貨協議。"
-    },
-    {
-      "id": "5013068",
-      "time": "2026-07-29 06:47:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK 海力士：受儲存晶片供貨量不足影響，手機、PC 相關業務出貨量將短期調整。"
-    },
-    {
-      "id": "5013067",
-      "time": "2026-07-29 06:47:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK 海力士：受 AI 業務規模激增、算力供給緊缺雙重因素驅動，各大科技巨頭客戶正加碼基礎設施投入、擴大儲存採購規模。"
-    },
-    {
-      "id": "5013066",
-      "time": "2026-07-29 06:46:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK 海力士：隨著人工智慧模型迭代最佳化、軟體效率持續提升，AI 應用普及度與易用性將進一步提高，進而拉動整體算力基礎設施需求增長。"
-    },
-    {
-      "id": "5013065",
-      "time": "2026-07-29 06:46:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK 海力士：2026 年 NAND 快閃記憶體市場需求同比將增長 15%-19%。"
-    },
-    {
-      "id": "mkt:019faae7-8944-7aab-8ed6-21a5073c1f31",
-      "time": "2026-07-29 06:45:28",
-      "tags": [
-        "MKT News",
-        "SKHY.O",
-        "Impact bearish"
-      ],
-      "text": "SK Hynix (SKHY.O) reported Q2 operating profit of 60.5 tln won, versus a market estimate of 64 tln won."
-    },
-    {
-      "id": "5013064",
-      "time": "2026-07-29 06:45:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK 海力士：二季度 NAND 快閃記憶體平均售價環比上漲約 55%。"
-    },
-    {
-      "id": "te:markets:570515",
-      "time": "2026-07-29 06:45:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Appreciates by 1.27% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 1.27% increase."
-    },
-    {
-      "id": "mkt:019faae7-2adc-7aab-8ed6-1ab2702de836",
-      "time": "2026-07-29 06:45:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "SKHY.O",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix (SKHY.O) said Q2 average DRAM selling prices rose about 30% QoQ."
-    },
-    {
-      "id": "5013063",
-      "time": "2026-07-29 06:44:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK 海力士：二季度 DRAM 平均銷售價格較一季度上漲約 30%。"
-    },
-    {
-      "id": "mkt:019faae6-f047-7aab-8ed6-1118b7b88533",
-      "time": "2026-07-29 06:44:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SKHY.O",
-        "Impact bearish"
-      ],
-      "text": "SK Hynix (SKHY.O) reported Q2 revenue of 79 trillion won, below market consensus of 84 trillion won."
-    },
-    {
-      "id": "5013062",
-      "time": "2026-07-29 06:44:18",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "SK 海力士第二季度營業利潤 60.54 萬億韓元，市場預期 64.22 萬億韓元。"
-    },
-    {
-      "id": "mkt:019faae6-4633-7aab-8ed6-0bd4f5cc5b99",
-      "time": "2026-07-29 06:44:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A preliminary U.S. estimate, cited by CNN, says Iran fired no more than four ballistic missiles in the attack."
-    },
-    {
-      "id": "5013061",
-      "time": "2026-07-29 06:43:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【千億級市值公司扎堆宣佈回購增持】7月28日，A股市場再度迎來一波回購增持方案披露潮。據不完全統計，中際旭創、京東方A、柳工、唯捷創芯、重慶港、海亮股份、燕東微等10多家上市公司釋出了相關公告，其中不少公司是產業龍頭、市值千億級別的“鏈主”企業。（上證報）"
     }
   ]
 }
