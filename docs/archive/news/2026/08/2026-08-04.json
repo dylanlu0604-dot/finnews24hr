@@ -1,7 +1,48 @@
 {
   "date": "2026-08-04",
-  "count": 765,
+  "count": 770,
   "items": [
+    {
+      "id": "mkt:019fca9b-e647-7aab-8f62-c8f2bf182ebc",
+      "time": "2026-08-04 10:30:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "SHFE nickel most-active contract rose over 2.0% intraday to 133,250 yuan/ton."
+    },
+    {
+      "id": "mkt:019fca9b-12ca-7aab-8f62-c30f0586f468",
+      "time": "2026-08-04 10:29:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【KOSDAQ jumps >5%; buy-side-only curb activated, institutions net buy KRW 354 bln】KOSDAQ surged more than 5% as Korea Exchange activated a buy-side-only trading curb—pausing programmatic trading—at 10:47:51 KST (09:47 BJT). KOSPI lagged while KOSDAQ strength was driven by heavy institutional demand. This is the third consecutive day the buy-side curb has been triggered (last month's 31st, yesterday and today), the 17th instance this year and the 12th last month. Institutional investors net bought KRW 354 billion on KOSDAQ; retail and foreign investors net sold KRW 167 billion and KRW 183 billion, respectively. Biotech names led gains: LigaChem +12.9%, ABL Bio +12.3%, HLB +9.6%, Peptron +9.4%, Alteogen +7.0%, Sam Chun Dang Pharm +6.0%."
+    },
+    {
+      "id": "mkt:019fca9a-e358-7aab-8f62-bf8ec3582f03",
+      "time": "2026-08-04 10:29:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC measured a magnitude-3.4 earthquake at 10:25 on Aug 4 in Gao County, Yibin, Sichuan (28.53°N, 104.67°E); hypocenter depth 5 km."
+    },
+    {
+      "id": "5023535",
+      "time": "2026-08-04 10:29:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月04日10時25分在四川宜賓市高縣（北緯28.53度，東經104.67度）發生3.4級地震，震源深度5千米。"
+    },
+    {
+      "id": "5023534",
+      "time": "2026-08-04 10:28:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【本輪強降雨影響重慶17個區縣 多條中小河流出現漲水過程】據重慶市水文監測總站監測，8月3日8時至4日8時，重慶中東部中到大雨、局中到大雨、局地暴雨到大暴雨。萬州、開州、城口、雲陽、奉節、巫溪、梁平、墊江、忠縣、涪陵、綦江、豐都、石柱、黔江、秀山、酉陽、彭水等17個區縣出現暴雨，其中萬州、開州、雲陽、巫溪、梁平、豐都、忠縣、石柱、酉陽、彭水等10個區縣出現大暴雨，萬州出現特大暴雨，最大日降雨量出現在萬州區雙河口街道龍寶村，為250毫米。（央視新聞）"
+    },
     {
       "id": "te:markets:572338",
       "time": "2026-08-04 10:27:27",
