@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-05 01:03:10",
-  "count": 17797,
+  "updated": "2026-08-05 01:07:02",
+  "count": 17794,
   "items": [
+    {
+      "id": "5025199",
+      "time": "2026-08-05 01:05:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4160美元/盎司，日內漲1.71%。"
+    },
+    {
+      "id": "5025198",
+      "time": "2026-08-05 01:04:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4100美元/盎司，日內漲1.14%。"
+    },
+    {
+      "id": "mkt:019fcdbc-0d88-7aab-8f75-102e875fef6f",
+      "time": "2026-08-05 01:04:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Nasdaq-100 extended gains to 3%, hitting a session high."
+    },
+    {
+      "id": "mkt:019fcdbb-ab6a-7aab-8f75-0af87bb64b09",
+      "time": "2026-08-05 01:04:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold touched $4,100/oz, up 1.11% intraday."
+    },
+    {
+      "id": "mkt:019fcdba-b605-7aab-8f75-0434c3cfcf9f",
+      "time": "2026-08-05 01:03:13",
+      "tags": [
+        "MKT News",
+        "Copper"
+      ],
+      "text": "Codelco said it detected a newly emerging seismic phenomenon distinct from previously known risks."
+    },
     {
       "id": "5025197",
       "time": "2026-08-05 01:01:32",
@@ -164678,76 +164730,6 @@
         "公司"
       ],
       "text": "土耳其總統埃爾多安：在由英國石油公司（BP）運營的伊拉克基爾庫克生產區，土耳其國家石油公司（TPAO）已獲准建立合作伙伴關係。今天簽署的協議是我們兩國在能源領域合作邁出的歷史性一步。"
-    },
-    {
-      "id": "5012904",
-      "time": "2026-07-29 01:06:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗：美國的海上封鎖無法迫使伊朗進行談判。"
-    },
-    {
-      "id": "mkt:019fa9b1-29dc-7aab-8ed2-970eed4b8885",
-      "time": "2026-07-29 01:06:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's foreign minister said he has called Iran's minister to pursue \"direct dialogue\"."
-    },
-    {
-      "id": "5012903",
-      "time": "2026-07-29 01:06:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭外長瑟比加：必須避免局勢升級，並終止伊朗對俄羅斯的支援。"
-    },
-    {
-      "id": "5012902",
-      "time": "2026-07-29 01:06:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭外長瑟比加：與伊朗外長就一名在裡海襲擊中遇難的伊朗海員進行討論，烏克蘭的行動旨在抵禦俄羅斯的侵略。"
-    },
-    {
-      "id": "5012901",
-      "time": "2026-07-29 01:05:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭外長瑟比加：已致電伊朗外長，以進行\"直接對話\"。"
-    },
-    {
-      "id": "mkt:019fa9b0-24c4-7aab-8ed2-8894bfa6233a",
-      "time": "2026-07-29 01:05:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US 7-year Treasury yield dipped after a $44 bln auction, trading at 4.463%, down 4.63 bps."
-    },
-    {
-      "id": "5012900",
-      "time": "2026-07-29 01:05:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其總統埃爾多安： 我們已做好準備，將在供應伊拉克所需的國防工業產品方面盡我們的一份力。"
-    },
-    {
-      "id": "5012899",
-      "time": "2026-07-29 01:04:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國7年期國債收益率在440億美元國債標售後小幅走低，最新下跌4.63個基點，報4.463%。"
     }
   ]
 }
