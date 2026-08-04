@@ -1,7 +1,31 @@
 {
   "date": "2026-08-05",
-  "count": 174,
+  "count": 177,
   "items": [
+    {
+      "id": "5025247",
+      "time": "2026-08-05 03:20:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：誰正在贏得人工智慧競賽。不是OpenAI，不是Anthropic，也不是谷歌。是馬斯克。"
+    },
+    {
+      "id": "mkt:019fce36-829d-7aab-8f76-32ef0f03da5f",
+      "time": "2026-08-05 03:18:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Steve Cohen's Point72 hedge fund fell 3.3% in July and is up 10.9% year-to-date."
+    },
+    {
+      "id": "5025246",
+      "time": "2026-08-05 03:17:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "訊息人士透露，史蒂夫·科恩旗下的Point72對沖基金7月份淨值下跌3.3%，今年迄今累計上漲10.9%。"
+    },
     {
       "id": "5025245",
       "time": "2026-08-05 03:15:20",
