@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-05 02:37:42",
-  "count": 17755,
+  "updated": "2026-08-05 02:41:32",
+  "count": 17754,
   "items": [
+    {
+      "id": "5025228",
+      "time": "2026-08-05 02:40:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其部長：土耳其天然氣儲備已蓄滿，儲量約 65 億立方米。"
+    },
     {
       "id": "mkt:019fce0f-5050-7aab-8f75-f290826c4e87",
       "time": "2026-08-05 02:35:37",
@@ -164365,25 +164373,6 @@
         "其他"
       ],
       "text": "秘魯總統藤森：將請求立法權以應對厄爾尼諾天氣現象的影響。"
-    },
-    {
-      "id": "mkt:019faa06-85d6-7aab-8ed3-de27fe2febf5",
-      "time": "2026-07-29 02:39:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Keiko Fujimori sworn in as Peru president】Keiko Fujimori was sworn in as president of Peru in Lima on the 28th; her term runs until July 2031."
-    },
-    {
-      "id": "mkt:019faa06-4788-7aab-8ed3-d1898158b48d",
-      "time": "2026-07-29 02:39:25",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Israel and UAE hold secret meetings to coordinate response to Iran】Israeli Channel 12 reported Israeli and UAE officials held multiple secret meetings in an unnamed third country to coordinate their positions and joint actions on Iran, including measures in international organizations. The UAE expressed strong opposition to a US‑Iran memorandum of understanding, arguing the deal could give Iran time to repair its economy without substantive concessions. Both sides agreed any actions should be cleared with the Trump administration. Western diplomats said the UAE is more hawkish on Iran than some Gulf states and that the UAE’s ability to export energy via alternative routes has increased its strategic alignment with Israel."
     }
   ]
 }
