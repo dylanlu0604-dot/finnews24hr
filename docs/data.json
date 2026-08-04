@@ -1,7 +1,45 @@
 {
-  "updated": "2026-08-05 00:39:40",
-  "count": 17821,
+  "updated": "2026-08-05 00:44:03",
+  "count": 17812,
   "items": [
+    {
+      "id": "5025183",
+      "time": "2026-08-05 00:42:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "淡水河谷CEO：伊朗戰爭造成諸多專案的速度放緩。"
+    },
+    {
+      "id": "5025182",
+      "time": "2026-08-05 00:42:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "Argus Media 估算：受高溫熱浪及乾旱衝擊，歐盟 2026‑2027 作物年度玉米產量下滑約 20%，至 4800 萬噸。"
+    },
+    {
+      "id": "mkt:019fcda7-3785-7aab-8f74-9066e259161a",
+      "time": "2026-08-05 00:41:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot platinum rose more than 7% to $1,745.93/oz."
+    },
+    {
+      "id": "mkt:019fcda6-62b6-7aab-8f74-8836c16544fb",
+      "time": "2026-08-05 00:41:01",
+      "tags": [
+        "MKT News",
+        "NVO.N",
+        "Impact bearish"
+      ],
+      "text": "NOVO NORDISK (NVO.N): Q2 operating profit was negatively affected by reversal of US 340B rebate provisions."
+    },
     {
       "id": "mkt:019fcda3-c759-7aab-8f74-8253ba827606",
       "time": "2026-08-05 00:38:10",
@@ -164851,124 +164889,6 @@
         "國際"
       ],
       "text": "英偉達CEO黃仁勳與美國商務部長盧特尼克會面。"
-    },
-    {
-      "id": "5012877",
-      "time": "2026-07-29 00:42:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿根廷將於8月17日起恢復對歐盟的家禽出口。"
-    },
-    {
-      "id": "5012876",
-      "time": "2026-07-29 00:42:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：我們拒絕了阿曼方面提出的允許其他國家進入霍爾木茲海峽南部海域進行排雷的請求。"
-    },
-    {
-      "id": "mkt:019fa99b-1347-7aab-8ed1-d921e49ef3fa",
-      "time": "2026-07-29 00:42:20",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's deputy foreign minister said he has not received any request to negotiate with the United States in the past 15 days."
-    },
-    {
-      "id": "5012875",
-      "time": "2026-07-29 00:41:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿根廷稱已向歐盟開放雞肉市場。"
-    },
-    {
-      "id": "5012874",
-      "time": "2026-07-29 00:41:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：我們必須就打破戰爭迴圈、隨後實現停火作出果斷決策。"
-    },
-    {
-      "id": "mkt:019fa99a-6a60-7aab-8ed1-d408fdf6418d",
-      "time": "2026-07-29 00:41:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's deputy foreign minister said Oman had proposed bringing in a country to clear mines from the southern shipping lane of the Strait of Hormuz, but Iran did not agree."
-    },
-    {
-      "id": "5012873",
-      "time": "2026-07-29 00:41:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "OpenAI和Anthropic的員工聯名致信，呼籲美國協助調控人工智慧的發展節奏。"
-    },
-    {
-      "id": "5012872",
-      "time": "2026-07-29 00:40:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：美國組建由伊朗、以色列和黎巴嫩組成的三方委員會，違反了諒解備忘錄。"
-    },
-    {
-      "id": "mkt:019fa999-d4c7-7aab-8ed1-cc4715899afe",
-      "time": "2026-07-29 00:40:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude futures fell 5.00% intraday to $77.81/bbl."
-    },
-    {
-      "id": "mkt:019fa999-7f4f-7aab-8ed1-c17b8b7adc82",
-      "time": "2026-07-29 00:40:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's deputy foreign minister says the US, via Oman, conveyed it will not take military action against Tehran."
-    },
-    {
-      "id": "5012871",
-      "time": "2026-07-29 00:40:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：我們並未提出停火請求，我方部隊已在美方停止攻擊後停止行動。"
-    },
-    {
-      "id": "5012870",
-      "time": "2026-07-29 00:40:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌6%，現報80.69美元/桶。"
-    },
-    {
-      "id": "5012869",
-      "time": "2026-07-29 00:40:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：美國已透過阿曼傳話，稱不會對伊朗採取任何軍事行動。"
     }
   ]
 }

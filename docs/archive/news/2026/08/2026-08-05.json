@@ -1,7 +1,45 @@
 {
   "date": "2026-08-05",
-  "count": 53,
+  "count": 57,
   "items": [
+    {
+      "id": "5025183",
+      "time": "2026-08-05 00:42:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "淡水河谷CEO：伊朗戰爭造成諸多專案的速度放緩。"
+    },
+    {
+      "id": "5025182",
+      "time": "2026-08-05 00:42:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "Argus Media 估算：受高溫熱浪及乾旱衝擊，歐盟 2026‑2027 作物年度玉米產量下滑約 20%，至 4800 萬噸。"
+    },
+    {
+      "id": "mkt:019fcda7-3785-7aab-8f74-9066e259161a",
+      "time": "2026-08-05 00:41:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot platinum rose more than 7% to $1,745.93/oz."
+    },
+    {
+      "id": "mkt:019fcda6-62b6-7aab-8f74-8836c16544fb",
+      "time": "2026-08-05 00:41:01",
+      "tags": [
+        "MKT News",
+        "NVO.N",
+        "Impact bearish"
+      ],
+      "text": "NOVO NORDISK (NVO.N): Q2 operating profit was negatively affected by reversal of US 340B rebate provisions."
+    },
     {
       "id": "mkt:019fcda3-c759-7aab-8f74-8253ba827606",
       "time": "2026-08-05 00:38:10",
