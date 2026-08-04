@@ -1,7 +1,151 @@
 {
-  "updated": "2026-08-04 20:49:45",
+  "updated": "2026-08-04 20:53:40",
   "count": 17831,
   "items": [
+    {
+      "id": "5024848",
+      "time": "2026-08-04 20:52:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "杜邦股價盤前下跌7.6%，此前該公司下調了年度銷售額預期。"
+    },
+    {
+      "id": "5024847",
+      "time": "2026-08-04 20:52:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國在聯邦公報上釋出徵求意見稿。"
+    },
+    {
+      "id": "mkt:019fccd5-4deb-7aab-8f70-68b4af151496",
+      "time": "2026-08-04 20:52:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US seeks public comment on proposal to expand products subject to metal tariffs, proposing tariffs on welding machines, cranes and other products."
+    },
+    {
+      "id": "5024846",
+      "time": "2026-08-04 20:52:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國石油執行長表示，美國陸上及海上油氣業務在盈利性排名中位居首位。"
+    },
+    {
+      "id": "te:markets:572560",
+      "time": "2026-08-04 20:52:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Rise After Holiday — Futures tracking the S&P/TSX Composite Index rose on Tuesday after Monday's Civic Holiday, supported by lower oil prices. Crude prices declined after US President Donald Trump canceled planned strikes on Iran to revive negotiations, easing concerns about inflation and the higher interest rate outlook. Investors also looked ahead to earnings from major energy producers, with Suncor reporting later today and Canadian Natural due on Thursday. Meanwhile, firm gold prices supported mining stocks. Elsewhere, Industrial Alliance is scheduled to release quarterly results today, while Manulife Financial, Nutrien, and Shopify are set to report on Wednesday. On the data front, Canada's merchandise trade surplus widened to C$3.9 billion in June from C$3.7 billion in May."
+    },
+    {
+      "id": "5024845",
+      "time": "2026-08-04 20:52:15",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【大摩：開放權重模型降低AI成本 “傑文斯悖論”或令算力需求持續增長】摩根士丹利在最新報告《開放權重模型與三種未來情景》中指出，開放權重模型並不一定削弱AI算力需求。恰恰相反，更低的使用成本可能加快AI普及，形成典型的“傑文斯悖論”：單次推理變便宜後，企業會把AI用於更多工，最終推高Token、算力、電力和基礎設施的總需求。報告強調開放權重並不等於完全免費，企業仍需承擔GPU、雲服務、運維和安全等成本，實際經濟性取決於應用場景。大摩認為無論模型開放程度如何變化，英偉達等均有望受益。"
+    },
+    {
+      "id": "te:markets:572559",
+      "time": "2026-08-04 20:52:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Eases but Supply Risks Persist — European natural gas prices have eased to below €58/MWh, around 9% lower than the 3-1/2-year high of €63.7/MWh reached on July 24, but they remain nearly 70% above levels seen at the same time last year. Prices continue to be supported by concerns over global LNG supply following the conflict in the Middle East, which disrupted around one-fifth of global LNG flows and hindered Europe's summer stockpiling efforts. EU gas storage is currently only 57% full, the lowest seasonal level since 2009, well below historical averages. While the European Commission remains confident that substantial spare LNG import capacity and a storage target of 80% will be sufficient to meet winter demand, Europe is expected to face intense competition from Asia for available cargoes, keeping upward pressure on prices. Although recent diplomatic signals between the US and Iran have eased oil prices and raised hopes for improved shipping through the Strait of Hormuz, LNG supply risks remain elevated."
+    },
+    {
+      "id": "5024844",
+      "time": "2026-08-04 20:51:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國建議對焊接機、起重機等產品徵收關稅。"
+    },
+    {
+      "id": "mkt:019fccd4-6812-7aab-8f70-654207c11a85",
+      "time": "2026-08-04 20:51:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CIARA-CEC says an Argentine maritime workers' strike is blocking ships from entering or leaving grain ports."
+    },
+    {
+      "id": "mkt:019fccd4-0c2e-7aab-8f70-5d72f912834b",
+      "time": "2026-08-04 20:51:16",
+      "tags": [
+        "MKT News",
+        "MCD.O",
+        "Impact bullish"
+      ],
+      "text": "McDonald's (MCD.N) top executive said the company expects to gradually sell company-owned restaurants, with some disposals already occurring in Q2."
+    },
+    {
+      "id": "5024843",
+      "time": "2026-08-04 20:51:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國就將更多產品納入金屬關稅徵求意見。"
+    },
+    {
+      "id": "5024842",
+      "time": "2026-08-04 20:50:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷出口與加工商會：阿根廷海事工人罷工導致船舶無法進出穀物港口。"
+    },
+    {
+      "id": "5024841",
+      "time": "2026-08-04 20:50:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "麥當勞高管：我們將在今年下半年重新調配營銷預算，加大對超值套餐這類優惠活動的支援力度。"
+    },
+    {
+      "id": "5024840",
+      "time": "2026-08-04 20:49:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克庫區領導人訪敘 推動敘庫爾德武裝整合】伊拉克北部庫爾德自治區（庫區）主席巴爾扎尼3日到訪敘利亞首都大馬士革，會見敘過渡政府總統沙拉。訊息人士說，巴爾扎尼此訪意在推動敘庫爾德武裝加速整合進敘國家機構。"
+    },
+    {
+      "id": "5024839",
+      "time": "2026-08-04 20:49:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國開行：截至6月末在12個重點革命老區貸款餘額較“十四五”初期增長33%】記者8月4日自國家開發銀行獲悉，截至6月末，國開行在12個重點革命老區貸款餘額較“十四五”初期增長33%。"
+    },
+    {
+      "id": "5024838",
+      "time": "2026-08-04 20:49:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "麥當勞高管：從下週開始，我們將推出數字限時閃購優惠，以重新啟用我們的高頻顧客。"
+    },
     {
       "id": "5024837",
       "time": "2026-08-04 20:49:02",
@@ -164951,159 +165095,6 @@
         "MKT News"
       ],
       "text": "Japanese media report multiple people missing at a paper mill in Yatsushiro, Kumamoto prefecture."
-    },
-    {
-      "id": "5012547",
-      "time": "2026-07-28 20:53:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息： SK 電信旗下 Astra AI 基礎設施公司將向 SK 海力士子公司出售優先股。"
-    },
-    {
-      "id": "mkt:019fa8c8-e96b-7aab-8ecc-db43b34d4a13",
-      "time": "2026-07-28 20:52:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he is not inclined to update the U.S.-Canada-Mexico trade agreement."
-    },
-    {
-      "id": "5012546",
-      "time": "2026-07-28 20:52:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股道瓊斯指數期貨漲超1%】美股道瓊斯指數期貨漲超1%，納斯達克100指數期貨跌0.76%，標普500指數期貨漲0.13%。"
-    },
-    {
-      "id": "5012545",
-      "time": "2026-07-28 20:52:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "可口可樂首席財務官：Fairlife 停產不會造成實質性影響。"
-    },
-    {
-      "id": "5012544",
-      "time": "2026-07-28 20:52:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談美墨加協定：我寧願保持獨立。"
-    },
-    {
-      "id": "mkt:019fa8c7-fa3f-7aab-8ecc-d1887ef2a062",
-      "time": "2026-07-28 20:51:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "Trump said Toyota is building plants in the US to avoid tariffs."
-    },
-    {
-      "id": "mkt:019fa8c7-f34f-7aab-8ecc-cf4a82886811",
-      "time": "2026-07-28 20:51:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said the U.S.-Mexico-Canada Agreement (USMCA) is important to Canada and Mexico, but not to the United States."
-    },
-    {
-      "id": "5012543",
-      "time": "2026-07-28 20:51:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【SABESP美股盤前漲超10%】SABESP美股盤前漲超10%，現報6.25美元。"
-    },
-    {
-      "id": "te:markets:570433",
-      "time": "2026-07-28 20:51:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Steady After Record High — Futures tracking the S&P/TSX Composite Index were muted on Tuesday after closing at a record high in the prior session, as investors assessed corporate earnings and monitored developments in the Middle East. Celestica and TFI International beat second-quarter adjusted earnings estimates. Gibson Energy also topped forecasts, while First Capital Realty reported revenue in line with expectations. Tamarack Valley posted higher second-quarter revenue, supported by stronger oil prices. Great-West Lifeco, First Quantum, Cardinal Energy, and Intact Financial are due to report after the closing bell. Meanwhile, oil prices fell as hopes for a resolution to the US-Iran conflict grew, easing energy-driven inflation concerns and pushing Canadian bond yields lower. Brookfield announced it had raised about $2 billion for a private equity fund focused on investments in Saudi Arabia and the broader Middle East. Gold prices retreated on a stronger US dollar, pressuring miners."
-    },
-    {
-      "id": "5012542",
-      "time": "2026-07-28 20:51:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：並不真想更新美加墨貿易協議。"
-    },
-    {
-      "id": "5012541",
-      "time": "2026-07-28 20:51:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美墨加協定對加拿大和墨西哥很重要，但對我們並不重要。"
-    },
-    {
-      "id": "5012540",
-      "time": "2026-07-28 20:51:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：豐田在美國建廠是為了規避關稅。"
-    },
-    {
-      "id": "mkt:019fa8c6-83a0-7aab-8ecc-c2d1e88915a8",
-      "time": "2026-07-28 20:50:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "US May FHFA house price index m/m and S&P/Case-Shiller 20-city not seasonally adjusted house price index y/y due in 10 minutes."
-    },
-    {
-      "id": "mkt:019fa8c6-82a8-7aab-8ecc-be5fa603c6f0",
-      "time": "2026-07-28 20:50:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump praised U.S. Admiral Cooper's performance in operations involving Iran."
-    },
-    {
-      "id": "5012539",
-      "time": "2026-07-28 20:49:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：沙特納斯航空與土耳其航空簽署程式碼共享協議，提升航線連通性並豐富旅客出行選擇。"
-    },
-    {
-      "id": "mkt:019fa8c6-24da-7aab-8ecc-b71af650ef6c",
-      "time": "2026-07-28 20:49:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "GM.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. President Trump says tariffs saved GM ."
     }
   ]
 }
