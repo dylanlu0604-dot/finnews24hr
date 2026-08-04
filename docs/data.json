@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-04 07:57:22",
-  "count": 17916,
+  "updated": "2026-08-04 08:01:15",
+  "count": 17913,
   "items": [
+    {
+      "id": "5023338",
+      "time": "2026-08-04 08:00:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國稱將努力穩定油品和食品價格。"
+    },
+    {
+      "id": "5023337",
+      "time": "2026-08-04 08:00:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報63995.28點，漲幅0.38%。"
+    },
+    {
+      "id": "5023335",
+      "time": "2026-08-04 07:59:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌1.5個基點至2.805%。"
+    },
+    {
+      "id": "mkt:019fca10-bbfb-7aab-8f60-3951a6c97caf",
+      "time": "2026-08-04 07:58:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "【CITIC Securities: North American cloud vendors' capex remains high; monitor oversold compute and high-dividend names】CITIC Securities says in 2Q26 leading North American cloud vendors’ capital spending remains elevated. Combined 2026 capex guidance from four major North American cloud providers is about $720–745 billion, signaling continued AI infrastructure expansion. The firm views the AI compute supply chain as still healthy but notes recent market adjustments that may have produced an oversell. Key near-term monitor points: ARR of large models—particularly Coding-use-case ARR—since recent price cuts by major models in North America could, if ARR growth stalls, weigh on expectations for future compute demand; rollout and adoption of large models beyond Coding scenarios; the price path across the compute-cost/inflation chain; and financing conditions and market risk appetite across AI-industry segments. Given heavy Q2 industry exposures and recent market weakness, CITIC recommends watching low-valuation, high-dividend names."
+    },
+    {
+      "id": "5023334",
+      "time": "2026-08-04 07:58:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西總統盧拉宣佈競選連任】當地時間2日，在巴西聖保羅舉行的巴西勞工黨全國代表大會上，巴西總統盧拉正式被確認為該黨總統候選人，將再次參加大選以角逐其第四個總統任期。會議正式批准盧拉與現任副總統阿爾克明再次組成競選搭檔，並稱已在高等選舉法院完成登記工作。巴西G1網站報道稱，盧拉在演講中表示，雖然自己已經80歲，但身體狀況仍然良好，完全有資格參加連任競選。他還表示，如果自己此次獲勝，將不會再謀求第五個任期。（環球時報）"
+    },
     {
       "id": "5023333",
       "time": "2026-08-04 07:56:17",
@@ -165976,74 +166023,6 @@
         "市場"
       ],
       "text": "三星電子股價下跌6%。"
-    },
-    {
-      "id": "5010993",
-      "time": "2026-07-28 08:00:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價下跌8%。"
-    },
-    {
-      "id": "5010992",
-      "time": "2026-07-28 08:00:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌5.3%，至6400.27點。"
-    },
-    {
-      "id": "5010991",
-      "time": "2026-07-28 08:00:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日韓股市開盤】日經225指數上午開盤報64539.92點，跌幅0.60％。韓國綜合股價指數（KOSPI）開盤下跌5.3％，至6400.27點。"
-    },
-    {
-      "id": "5010990",
-      "time": "2026-07-28 08:00:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美丟擲200%關稅，印度仿製藥告急】“印度300億美元製藥產業面臨新的挑戰。”《印度時報》日前以此開篇報道稱。美國總統特朗普不久前向全球製藥行業發出強硬警告，宣佈向美國出口仿製藥的生產商必須在兩年內將生產轉移到美國，否則將面臨高達200%的進口關稅。作為美國仿製藥最大供應來源之一，印度藥企被認為將受到最直接影響。“印度製藥企業正為可能到來的巨大沖擊做好準備。”多家印度媒體日前報道稱。 0、100%，然後200% 《新印度快報》7月26日報道稱，根據擬議框架，自2028年8月1日起，進口仿製藥將被徵收100%的關稅，為期一年。此後，自2029年8月1日起，對於未在美國設立生產設施的製造商，關稅將提高至200%。（環球網）"
-    },
-    {
-      "id": "5010989",
-      "time": "2026-07-28 07:59:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【兩大熱門產業成機構掘金高地 部分上市公司下半年訂單產能喜人】資料顯示，截至7月27日，7月以來機構投資者已對近600家上市公司展開調研，試圖透過公司經營的最新動向，“把脈”下半年投資機遇。受益於AI技術變革帶動的算力需求持續釋放，電子行業、通訊行業成為機構調研的熱門賽道，其中新易盛、源傑科技、瀾起科技等14家公司均獲百家以上機構青睞。（上證報）"
-    },
-    {
-      "id": "5010988",
-      "time": "2026-07-28 07:58:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京市上半年乘用車新車L2級組合輔助駕駛滲透率達77.5%】7月27日，在2026世界智慧網聯汽車大會媒體圓桌會上，北京市經濟和資訊化局副局長蘇國斌介紹，北京市累計發放自動駕駛測試牌照超1500張；2026年上半年，全市乘用車新車L2級組合輔助駕駛滲透率達77.5%，高於全國平均70%的水平。"
-    },
-    {
-      "id": "te:markets:570205",
-      "time": "2026-07-28 07:57:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Steadies as US-Iran Talks Eyed — Silver steadied above $58 an ounce on Tuesday after a volatile start to the week, as President Donald Trump said the US was engaged in \"good talks\" with Iran to end the Middle East conflict, sending oil prices lower and easing concerns over inflation and interest rate hikes. However, Trump also warned that the US is ready to resume strikes against the Islamic Republic if negotiations break down. The US suspended its attacks on Iran late Friday following nearly two weeks of hostilities, while Tehran also halted retaliatory strikes against US bases in neighboring countries. Investors are also awaiting the Federal Reserve’s policy decision this week, with policymakers widely expected to leave interest rates unchanged. While some traders continue to speculate about a possible rate hike this week amid renewed inflationary pressures, most expect the next increase to come in September."
-    },
-    {
-      "id": "5010987",
-      "time": "2026-07-28 07:57:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "中郵證券釋出研報認為，二季度支撐期限溢價維持高位的通脹預期和風險偏好因素，到三季度已有明顯鬆動，降息預期也可能迴歸，期限溢價壓縮將逐步成為可能。不過，當前30年期國債期貨的多空拉鋸或剛剛開始，8月以後隨著政府債發行壓力逐步落地，市場交易格局可能進一步清晰。"
     }
   ]
 }
