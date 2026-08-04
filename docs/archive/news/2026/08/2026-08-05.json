@@ -1,7 +1,60 @@
 {
   "date": "2026-08-05",
-  "count": 237,
+  "count": 243,
   "items": [
+    {
+      "id": "mkt:019fce6b-9c79-7aab-8f76-c4899e100ae1",
+      "time": "2026-08-05 04:16:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "AMD (AMD.O) reported Q2 2026 revenue of $11.5 bln, above the $11.284 bln market estimate and up from $7.685 bln a year earlier."
+    },
+    {
+      "id": "mkt:019fce6b-3be2-7aab-8f76-b8bb6b81a59c",
+      "time": "2026-08-05 04:16:01",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) fell more than 5% in after-hours trading."
+    },
+    {
+      "id": "5025289",
+      "time": "2026-08-05 04:15:40",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院一名高階官員稱，若局勢得到解決，駐華盛頓的巴西高階外交官簽證將予以恢復。"
+    },
+    {
+      "id": "5025288",
+      "time": "2026-08-05 04:15:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：隨著國防生產的增長，我們將向盟友提供更多國防物資。"
+    },
+    {
+      "id": "5025287",
+      "time": "2026-08-05 04:14:18",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院稱，美國撤銷了巴西大使的簽證。"
+    },
+    {
+      "id": "5025286",
+      "time": "2026-08-05 04:12:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：第二季度星鏈每使用者平均收入為66美元。"
+    },
     {
       "id": "5025285",
       "time": "2026-08-05 04:12:22",

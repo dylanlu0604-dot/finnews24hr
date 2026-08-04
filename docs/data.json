@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-05 04:13:04",
-  "count": 17784,
+  "updated": "2026-08-05 04:16:52",
+  "count": 17782,
   "items": [
+    {
+      "id": "mkt:019fce6b-9c79-7aab-8f76-c4899e100ae1",
+      "time": "2026-08-05 04:16:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "AMD (AMD.O) reported Q2 2026 revenue of $11.5 bln, above the $11.284 bln market estimate and up from $7.685 bln a year earlier."
+    },
+    {
+      "id": "mkt:019fce6b-3be2-7aab-8f76-b8bb6b81a59c",
+      "time": "2026-08-05 04:16:01",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) fell more than 5% in after-hours trading."
+    },
+    {
+      "id": "5025289",
+      "time": "2026-08-05 04:15:40",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院一名高階官員稱，若局勢得到解決，駐華盛頓的巴西高階外交官簽證將予以恢復。"
+    },
+    {
+      "id": "5025288",
+      "time": "2026-08-05 04:15:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：隨著國防生產的增長，我們將向盟友提供更多國防物資。"
+    },
+    {
+      "id": "5025287",
+      "time": "2026-08-05 04:14:18",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院稱，美國撤銷了巴西大使的簽證。"
+    },
+    {
+      "id": "5025286",
+      "time": "2026-08-05 04:12:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：第二季度星鏈每使用者平均收入為66美元。"
+    },
     {
       "id": "5025285",
       "time": "2026-08-05 04:12:22",
@@ -164563,83 +164616,6 @@
         "國際"
       ],
       "text": "【中方：政府間談判是討論安理會改革問題唯一合法平臺】中國常駐聯合國代表團臨時代辦孫磊28日在聯大透過安理會改革政府間談判過渡決定後發言，指出政府間談判是討論安理會改革問題的唯一合法平臺。孫磊說，中方歡迎聯大以協商一致方式透過口頭決定，將本屆聯大安理會改革政府間談判技術性過渡到下屆聯大。政府間談判是討論安理會改革問題的唯一合法平臺。安理會改革事關各國重大利益。中方希望各方秉持戰略視野和長遠眼光，共同維護政府間談判主渠道地位，堅持會員國共識原則，在政府間談判繼續深入溝通、凝聚共識，確保改革程序朝著提升發展中國家的代表性和發言權的唯一正確方向發展，不斷行穩致遠。孫磊表示，中方願同各方一道，繼續推動安理會改革朝著符合會員國共同利益和聯合國事業健康發展的方向前進，為推動構建更加公正合理的全球治理體系作出積極貢獻。（新華社）"
-    },
-    {
-      "id": "5012992",
-      "time": "2026-07-29 04:16:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "科磊第四財季營收36.6億美元，分析師預期36億美元。第四財季資本開支8930萬美元，分析師預期9630萬美元。預計第一財季營收38億-42億美元，分析師預期39.4億美元。"
-    },
-    {
-      "id": "mkt:019faa5e-9fcf-7aab-8ed4-b91390d2237e",
-      "time": "2026-07-29 04:15:55",
-      "tags": [
-        "MKT News",
-        "NXPI.O",
-        "Impact bullish"
-      ],
-      "text": "NXP Semiconductors (NXPI.O) reported Q2 2026 net income of $767 mln, up from $445 mln a year earlier."
-    },
-    {
-      "id": "5012991",
-      "time": "2026-07-29 04:15:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英國首相伯納姆希望與私營部門建立合作關係。"
-    },
-    {
-      "id": "5012990",
-      "time": "2026-07-29 04:15:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【希捷科技第四財季營收為36.29億美元 高於市場預期】希捷科技第四財季營收為36.29億美元，高於市場預測的34.85億美元。預計第一財季營收為40億至42億美元，市場預測為37.49億美元。"
-    },
-    {
-      "id": "mkt:019faa5d-e514-7aab-8ed4-b75c63928b3c",
-      "time": "2026-07-29 04:15:07",
-      "tags": [
-        "MKT News",
-        "NXPI.O",
-        "Impact bullish"
-      ],
-      "text": "NXP SEMI (NXPI.O) reported Q2 2026 revenue of $3.496 bln, up from $2.926 bln a year earlier."
-    },
-    {
-      "id": "te:markets:570498",
-      "time": "2026-07-29 04:13:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Mixed as Chip Selloff Deepens — US equity indices closed mixed on Tuesday as chipmakers extended their selloff, while strength in software and defensive sectors supported the broader market. The S&P 500 gained 0.2%, the Nasdaq 100 fell 1%, and the Dow rose 537 points. Concerns over slowing AI infrastructure spending and the circular nature of data center investment weighed on compute and memory chipmakers. Micron slumped 8.8%, AMD lost 8.1%, Intel fell 5.9%, and Sandisk tumbled 14.2%. The sector also came under pressure after the strong IPO of China's CXMT in Shanghai boosted optimism over rising competition. Meanwhile, software and non-tech stocks outperformed, with Microsoft up 1.1% and Meta closing little changed ahead of earnings on Wednesday. Lower oil prices and renewed US signals favoring diplomacy with Iran eased credit costs and supported the broader market. Berkshire Hathaway gained 3.1%, while Visa rose 1.1% ahead of its earnings release. Coca-Cola jumped 7.1% after raising its full-year outlook."
-    },
-    {
-      "id": "mkt:019faa5c-5a89-7aab-8ed4-aa9cbce80d04",
-      "time": "2026-07-29 04:13:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Oil falls sharply on 28th】NYMEX September light sweet crude futures fell $3.35 to settle at $79.26 a barrel, down 4.06%. ICE Brent September futures fell $4.27 to $84.09 a barrel, down 4.83%."
-    },
-    {
-      "id": "5012989",
-      "time": "2026-07-29 04:13:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價28日顯著下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌3.35美元，收於每桶79.26美元，跌幅為4.06%；9月交貨的倫敦布倫特原油期貨價格下跌4.27美元，收於每桶84.09美元，跌幅為4.83%。"
     }
   ]
 }
