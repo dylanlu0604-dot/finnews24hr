@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-05 00:55:21",
-  "count": 17805,
+  "updated": "2026-08-05 00:59:14",
+  "count": 17800,
   "items": [
+    {
+      "id": "mkt:019fcdb6-101c-7aab-8f74-cee2307e939f",
+      "time": "2026-08-05 00:58:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "JPM.N"
+      ],
+      "text": "Market sources say JP Morgan (JPM.N) is close to agreeing a deal to acquire Antin's French district-cooling network supplier."
+    },
+    {
+      "id": "mkt:019fcdb4-ffbb-7aab-8f74-c61aa7217b18",
+      "time": "2026-08-05 00:56:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Chilean media report state miner Codelco has temporarily suspended the El Teniente expansion project citing seismic risk."
+    },
+    {
+      "id": "5025192",
+      "time": "2026-08-05 00:56:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：智利國家銅業公司（Codelco）因地震地質風險，臨時暫停埃爾特尼恩特（El Teniente）銅礦擴建專案。"
+    },
     {
       "id": "5025191",
       "time": "2026-08-05 00:53:24",
@@ -164757,78 +164788,6 @@
         "市場"
       ],
       "text": "【夜盤期貨收盤】國際銅夜盤收跌0.17%，滬銅收跌0.10%，滬鋁收漲0.99%，滬鋅收跌0.26%，滬鉛收漲0.26%，滬鎳收跌1.15%，滬錫收跌0.36%。氧化鋁夜盤收漲0.07%，鋁合金收漲0.85%。不鏽鋼夜盤收跌0.55%。"
-    },
-    {
-      "id": "5012895",
-      "time": "2026-07-29 00:59:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗副外長：我們關閉霍爾木茲海峽的目的是自衛，而非損害巴基斯坦等友好國家。"
-    },
-    {
-      "id": "mkt:019fa9aa-22b5-7aab-8ed2-2c5db59e9d2d",
-      "time": "2026-07-29 00:58:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's deputy foreign minister said a maritime blockade would not force Iran to enter talks."
-    },
-    {
-      "id": "mkt:019fa9a9-6f41-7aab-8ed2-26fd217350f9",
-      "time": "2026-07-29 00:58:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran deputy foreign minister says Tehran may take 'any action' to maintain control of Strait of Hormuz】Iran's deputy foreign minister warned Tehran would consider taking \"any action,\" including restarting a war, to maintain control of the Strait of Hormuz, state-affiliated Fars News reported. He said opening a southern route closer to Oman's coast would mean Iran \"could no longer exercise sovereignty,\" and added any European vessel seeking to approach the strait would be \"our lawful target.\""
-    },
-    {
-      "id": "5012894",
-      "time": "2026-07-29 00:56:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "英力士：一號裂解裝置專案最後兩個模組已運抵，第二個也是最後一個模組預計將於未來幾日到位。"
-    },
-    {
-      "id": "5012893",
-      "time": "2026-07-29 00:56:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "英力士：位於安特衛普、價值50億歐元工程專案的兩個關鍵模組中的第一個，在霍爾木茲海峽被困數月後，於今日運抵。"
-    },
-    {
-      "id": "5012892",
-      "time": "2026-07-29 00:55:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【伊朗軍方警告不要接受美國使用伊資產進行“賠償”】據伊朗方面7月28日訊息，伊朗武裝部隊哈塔姆安比亞中央總部發言人說，接受美國使用伊朗資產進行所謂賠償的任何國家或公司，其所屬船隻將不被允許透過霍爾木茲海峽。發言人說，美國總統特朗普此前宣佈，將利用伊朗被凍結資產，賠償伊美衝突期間受損船隻。伊方認為，這些船隻受損是由於美軍制造地區不安全域性勢，以及“違規駛入霍爾木茲海峽南部非法且不安全的航道”所致。他警告稱，即日起，任何支援特朗普上述提議和使用伊朗被凍結資產的國家或公司所屬船隻將被禁止透過霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019fa9a7-6978-7aab-8ed2-1e119edd6c09",
-      "time": "2026-07-29 00:55:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "People familiar with the matter said US cybersecurity firm AlgoSec is considering a UK IPO."
-    },
-    {
-      "id": "5012891",
-      "time": "2026-07-29 00:55:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數漲幅擴大至盤中高點，現漲0.5%。"
     }
   ]
 }

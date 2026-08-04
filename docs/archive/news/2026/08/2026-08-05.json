@@ -1,7 +1,38 @@
 {
   "date": "2026-08-05",
-  "count": 70,
+  "count": 73,
   "items": [
+    {
+      "id": "mkt:019fcdb6-101c-7aab-8f74-cee2307e939f",
+      "time": "2026-08-05 00:58:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "JPM.N"
+      ],
+      "text": "Market sources say JP Morgan (JPM.N) is close to agreeing a deal to acquire Antin's French district-cooling network supplier."
+    },
+    {
+      "id": "mkt:019fcdb4-ffbb-7aab-8f74-c61aa7217b18",
+      "time": "2026-08-05 00:56:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Chilean media report state miner Codelco has temporarily suspended the El Teniente expansion project citing seismic risk."
+    },
+    {
+      "id": "5025192",
+      "time": "2026-08-05 00:56:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：智利國家銅業公司（Codelco）因地震地質風險，臨時暫停埃爾特尼恩特（El Teniente）銅礦擴建專案。"
+    },
     {
       "id": "5025191",
       "time": "2026-08-05 00:53:24",
