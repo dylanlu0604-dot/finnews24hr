@@ -1,7 +1,54 @@
 {
   "date": "2026-08-05",
-  "count": 110,
+  "count": 115,
   "items": [
+    {
+      "id": "mkt:019fcde4-9318-7aab-8f75-6b4702840095",
+      "time": "2026-08-05 01:48:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Dow and S&P 500 gains widened to 2%; Nasdaq rose 2.7%. The Philadelphia Semiconductor Index surged 7% as Arm jumped 17.4%, Intel climbed 10.9%, AMD gained 9.3%, Broadcom and Qualcomm rose over 7%, and NVIDIA added 2.5%."
+    },
+    {
+      "id": "5025213",
+      "time": "2026-08-05 01:48:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股三大指數均漲超2%】道指漲2.04%，現報54261.602點；納指漲2.74%，現報26625.090點；標普500指數漲2.00%，現報7752.590點。"
+    },
+    {
+      "id": "5025212",
+      "time": "2026-08-05 01:47:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲2.01%，現報54245.199點；納指漲2.72%，現報26618.311點；標普500指數漲1.97%，現報7750.110點。"
+    },
+    {
+      "id": "mkt:019fcde2-8633-7aab-8f75-65e864e35634",
+      "time": "2026-08-05 01:46:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【House Democrats Press Hegseth on Pentagon Casualty Reporting in Iran War】Two senior House Democrats, Reps. Robert Garcia (CA) and Suhas Subramanyam (VA), wrote to Defense Secretary Hegseth on Tuesday criticizing the Pentagon’s methodology for reporting US casualties in the Iran war and saying they are investigating the Defense Department’s public casualty reporting. The lawmakers cited slow publication of injured personnel figures, reliance on the Defense Casualty Analysis System (DCAS) as the sole source for updates, and incidents where death and injury entries were temporarily removed from DCAS. As of Tuesday afternoon DCAS records show 18 US service members killed and 687 wounded since the conflict began on Feb. 28."
+    },
+    {
+      "id": "5025211",
+      "time": "2026-08-05 01:45:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴斯勒（Basler AG）：索尼日本影象感測器產線臨時停產，供應受限狀況預計持續至 8 月中旬。"
+    },
     {
       "id": "5025210",
       "time": "2026-08-05 01:44:37",
