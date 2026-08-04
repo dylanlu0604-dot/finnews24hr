@@ -1,7 +1,40 @@
 {
   "date": "2026-08-04",
-  "count": 2917,
+  "count": 2920,
   "items": [
+    {
+      "id": "te:economy:572642",
+      "time": "2026-08-04 23:17:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Exports YoY",
+        "Importance 1"
+      ],
+      "text": "Colombia Export Growth Slows in June — Colombia's exports rose 7% year-on-year to USD 4.23 billion in June 2026, easing from a 19.2% increase in May and marking the lowest level since the start of the year. The increase was driven by a 17.1% rise in exports of fuels and extractive industries, which accounted for 42.6% of total shipments, supported by a 17.6% increase in oil and petroleum products, although crude oil export volumes edged up just 0.2% to 13.5 million barrels. Manufactured exports increased 2.4%, led by an 18.7% rise in chemical products. In contrast, agricultural and food exports, which represented 25.8% of total exports, declined 10.8%, weighed by lower shipments of cut flowers and foliage (-22.7%) and unroasted coffee (-12.7%)."
+    },
+    {
+      "id": "5025119",
+      "time": "2026-08-04 23:16:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【SpaceX財報釋出前夕 航天概念股普漲】在馬斯克旗下SpaceX公佈上市以來首份財報前夕，火箭、衛星及其他航天概念股週二普遍上漲。航天與國防公司Voyager Technologies表現最佳，此前該公司上調全年營收預期，股價上漲25%。加拿大航天科技公司MDA Space上漲14%，此前Telesat宣佈擴大其Lightspeed低軌衛星星座部署，Telesat股價上漲25%。Intuitive Machines上漲7%，此前L3Harris選擇該公司建造航天器平臺。衛星網際網路公司AST SpaceMobile上漲8.8%。"
+    },
+    {
+      "id": "te:markets:572641",
+      "time": "2026-08-04 23:16:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Reach Record High on Earnings, AI Gains — European stocks climbed to fresh record highs on Tuesday, supported by strong corporate earnings, AI-related shares, and improving global risk sentiment. The Euro Stoxx 50 rose 1% to 6,490, while the STOXX 600 gained 0.7% to 657. A sharp drop in oil prices, driven by optimism over Middle East peace negotiations, further lifted equities by easing inflation concerns and reducing expectations of tighter monetary policy. AI-related stocks led gains after Palantir raised its revenue outlook, with BE Semiconductor jumping 7.6% after a Berenberg upgrade, while ASML and Infineon gained 3.4% and 3.2%, respectively. Among earnings movers, Bayer rose 2.9% after beating quarterly estimates. BP fell 4.6% as lower oil prices overshadowed stronger-than-expected earnings, while HSBC slipped 0.2% despite solid results. Zalando tumbled 11.7% after cutting full-year guidance, Lufthansa lost 9% after lowering its outlook, and Hugo Boss was little changed despite reporting sharp declines in sales and EBIT."
+    },
     {
       "id": "mkt:019fcd57-fe36-7aab-8f73-1b8f68bef7d6",
       "time": "2026-08-04 23:15:23",

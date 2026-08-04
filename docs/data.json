@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-04 23:16:34",
-  "count": 17823,
+  "updated": "2026-08-04 23:20:33",
+  "count": 17820,
   "items": [
+    {
+      "id": "te:economy:572642",
+      "time": "2026-08-04 23:17:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Exports YoY",
+        "Importance 1"
+      ],
+      "text": "Colombia Export Growth Slows in June — Colombia's exports rose 7% year-on-year to USD 4.23 billion in June 2026, easing from a 19.2% increase in May and marking the lowest level since the start of the year. The increase was driven by a 17.1% rise in exports of fuels and extractive industries, which accounted for 42.6% of total shipments, supported by a 17.6% increase in oil and petroleum products, although crude oil export volumes edged up just 0.2% to 13.5 million barrels. Manufactured exports increased 2.4%, led by an 18.7% rise in chemical products. In contrast, agricultural and food exports, which represented 25.8% of total exports, declined 10.8%, weighed by lower shipments of cut flowers and foliage (-22.7%) and unroasted coffee (-12.7%)."
+    },
+    {
+      "id": "5025119",
+      "time": "2026-08-04 23:16:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【SpaceX財報釋出前夕 航天概念股普漲】在馬斯克旗下SpaceX公佈上市以來首份財報前夕，火箭、衛星及其他航天概念股週二普遍上漲。航天與國防公司Voyager Technologies表現最佳，此前該公司上調全年營收預期，股價上漲25%。加拿大航天科技公司MDA Space上漲14%，此前Telesat宣佈擴大其Lightspeed低軌衛星星座部署，Telesat股價上漲25%。Intuitive Machines上漲7%，此前L3Harris選擇該公司建造航天器平臺。衛星網際網路公司AST SpaceMobile上漲8.8%。"
+    },
+    {
+      "id": "te:markets:572641",
+      "time": "2026-08-04 23:16:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Reach Record High on Earnings, AI Gains — European stocks climbed to fresh record highs on Tuesday, supported by strong corporate earnings, AI-related shares, and improving global risk sentiment. The Euro Stoxx 50 rose 1% to 6,490, while the STOXX 600 gained 0.7% to 657. A sharp drop in oil prices, driven by optimism over Middle East peace negotiations, further lifted equities by easing inflation concerns and reducing expectations of tighter monetary policy. AI-related stocks led gains after Palantir raised its revenue outlook, with BE Semiconductor jumping 7.6% after a Berenberg upgrade, while ASML and Infineon gained 3.4% and 3.2%, respectively. Among earnings movers, Bayer rose 2.9% after beating quarterly estimates. BP fell 4.6% as lower oil prices overshadowed stronger-than-expected earnings, while HSBC slipped 0.2% despite solid results. Zalando tumbled 11.7% after cutting full-year guidance, Lufthansa lost 9% after lowering its outlook, and Hugo Boss was little changed despite reporting sharp declines in sales and EBIT."
+    },
     {
       "id": "mkt:019fcd57-fe36-7aab-8f73-1b8f68bef7d6",
       "time": "2026-08-04 23:15:23",
@@ -164921,60 +164954,6 @@
         "Brent"
       ],
       "text": "【Iran says entities taking frozen Iranian assets as ship compensation to be barred from Strait of Hormuz】Iran’s Joint Military Command told state media on Tuesday any company or state that accepts frozen Iranian assets as compensation for damaged vessels will be barred from transiting the Strait of Hormuz. Spokesman Ebrahim Zolfaqari dismissed earlier remarks by US President Trump that ships damaged in the Gulf could be compensated using frozen Iranian funds."
-    },
-    {
-      "id": "5012802",
-      "time": "2026-07-28 23:20:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油日內跌4%，現報82.33美元/桶。"
-    },
-    {
-      "id": "5012801",
-      "time": "2026-07-28 23:20:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "波音執行長：仍需在威奇托工廠開展相關工作，以支撐737與787機型更高的產能目標。"
-    },
-    {
-      "id": "mkt:019fa94f-9c36-7aab-8ed0-77624a091450",
-      "time": "2026-07-28 23:19:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Mizan news agency said Iran's Islamic Revolutionary Guard Corps called on Saudi Arabia to end its blockade of Yemen."
-    },
-    {
-      "id": "5012800",
-      "time": "2026-07-28 23:19:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "道指漲1.01%，現報52734.949點；納指跌0.29%，現報24859.076點；標普500指數漲0.21%，現報7428.490點。"
-    },
-    {
-      "id": "5012799",
-      "time": "2026-07-28 23:18:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國股市延續漲勢，道瓊斯指數漲1.01%。"
-    },
-    {
-      "id": "5012798",
-      "time": "2026-07-28 23:17:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【受颱風“紅霞”影響的廣東使用者已全部恢復供電】28日從南方電網瞭解到，截至18時，受今年第12號颱風“紅霞”影響的廣東使用者已全部恢復供電。26日凌晨，颱風“紅霞”的中心在廣東省惠州市惠東縣平海鎮登陸，登陸時中心附近最大風力14級（45米/秒）。颱風登陸時，部分電力設施遭颱風損毀，不少居民家中出現斷電情況。隨後，電力部門組織搶險力量赴臺風登陸點開展搶修工作。據電力部門介紹，在臺風襲擊廣東期間，惠州、汕尾等地50餘萬戶使用者用電受到影響。廣東電網公司在其供電營業區組建了200餘支搶險隊伍，奮戰60餘小時，目前已全部恢復供電。深圳供電局派出搶險人員900餘人次，奔赴受颱風影響較嚴重的深汕特別合作區開展搶修工作，順利恢復當地供電。（新華社）"
     }
   ]
 }

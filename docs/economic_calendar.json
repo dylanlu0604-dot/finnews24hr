@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-04 23:16:40",
+  "updated": "2026-08-04 23:20:40",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 405,
+  "count": 406,
   "history_summary": {
     "cached": 405,
-    "fetched": 0,
+    "fetched": 1,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 233,
+      "count": 234,
       "dates": [
         {
           "date": "2026-08-03",
@@ -2464,7 +2464,7 @@
         },
         {
           "date": "2026-08-04",
-          "count": 33,
+          "count": 34,
           "events": [
             {
               "id": "capital:1174310",
@@ -3219,6 +3219,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-07-26 00:02:12"
+            },
+            {
+              "id": "capital:1183631",
+              "fid": "1183631",
+              "interval": "this_week",
+              "date": "2026-08-04",
+              "time": "20:00",
+              "datetime": "2026-08-04 20:00:00",
+              "display_time": "08/04 20:00",
+              "country": "新西蘭",
+              "title": "新西蘭至7月21日全球乳製品貿易價格指數",
+              "importance": 1,
+              "previous": "1.5 %",
+              "forecast": "-- %",
+              "actual": "0.1 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183631",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/21",
+                  "actual": "1.5",
+                  "forecast": "-",
+                  "previous": "-4.9"
+                },
+                {
+                  "date": "07/07",
+                  "actual": "-4.9",
+                  "forecast": "-",
+                  "previous": "-2.8"
+                },
+                {
+                  "date": "06/16",
+                  "actual": "-2.8",
+                  "forecast": "-",
+                  "previous": "-0.6"
+                },
+                {
+                  "date": "06/02",
+                  "actual": "-0.6",
+                  "forecast": "-",
+                  "previous": "0.6"
+                },
+                {
+                  "date": "05/19",
+                  "actual": "0.6",
+                  "forecast": "-",
+                  "previous": "1.5"
+                },
+                {
+                  "date": "05/05",
+                  "actual": "1.5",
+                  "forecast": "-",
+                  "previous": "-2.7"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-04 23:20:38"
             },
             {
               "id": "capital:1182468",
@@ -26715,6 +26773,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-07-26 00:02:12"
+    },
+    {
+      "id": "capital:1183631",
+      "fid": "1183631",
+      "interval": "this_week",
+      "date": "2026-08-04",
+      "time": "20:00",
+      "datetime": "2026-08-04 20:00:00",
+      "display_time": "08/04 20:00",
+      "country": "新西蘭",
+      "title": "新西蘭至7月21日全球乳製品貿易價格指數",
+      "importance": 1,
+      "previous": "1.5 %",
+      "forecast": "-- %",
+      "actual": "0.1 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183631",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/21",
+          "actual": "1.5",
+          "forecast": "-",
+          "previous": "-4.9"
+        },
+        {
+          "date": "07/07",
+          "actual": "-4.9",
+          "forecast": "-",
+          "previous": "-2.8"
+        },
+        {
+          "date": "06/16",
+          "actual": "-2.8",
+          "forecast": "-",
+          "previous": "-0.6"
+        },
+        {
+          "date": "06/02",
+          "actual": "-0.6",
+          "forecast": "-",
+          "previous": "0.6"
+        },
+        {
+          "date": "05/19",
+          "actual": "0.6",
+          "forecast": "-",
+          "previous": "1.5"
+        },
+        {
+          "date": "05/05",
+          "actual": "1.5",
+          "forecast": "-",
+          "previous": "-2.7"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-04 23:20:38"
     },
     {
       "id": "capital:1182468",
