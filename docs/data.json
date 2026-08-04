@@ -1,7 +1,64 @@
 {
-  "updated": "2026-08-04 18:25:40",
-  "count": 17711,
+  "updated": "2026-08-04 18:29:36",
+  "count": 17710,
   "items": [
+    {
+      "id": "5024413",
+      "time": "2026-08-04 18:28:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【恆銀科技：連續三個交易日收盤價累計漲幅達33.14%】恆銀科技公告，公司股票於2026年7月31日、8月3日連續兩個交易日收盤價格漲幅偏離值累計超過20%，8月4日再次漲停。自7月31日至8月4日連續三個交易日收盤價格累計漲幅達33.14%，同行業同期累計漲幅為8.34%。截至8月4日收盤，公司股票收盤價為9.04元/股，靜態市盈率約137.29，高於行業靜態市盈率66.38。2026年第一季度公司實現營業收入5664.5萬元，同比下滑39.76%；歸屬於上市公司股東的淨利潤284.61萬元，同比下滑46.78%。"
+    },
+    {
+      "id": "5024412",
+      "time": "2026-08-04 18:27:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【仕佳光子：股價異常波動 2026 年上半年營收增 50.66%】仕佳光子公告稱，公司股票在 2026 年 7 月 31 日、8 月 3 日、8 月 4 日收盤價格漲幅偏離值累計超 30%，屬異常波動。公司目前生產經營正常，無應披露未披露重大事項。2026 年半年度，公司營收 149,549.08 萬元，同比增長 50.66%；淨利潤 31,478.47 萬元，同比增長 45.30%。公司提醒投資者注意經營業績和股價波動風險。"
+    },
+    {
+      "id": "5024411",
+      "time": "2026-08-04 18:27:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國創有記錄以來最熱7月 土壤乾旱程度達歷史同期最高】當地時間8月4日，法國氣象局釋出資料顯示，2026年7月法國平均氣溫達到24.9攝氏度，為1900年有氣象記錄以來最熱的7月，也是法國有氣象記錄以來最熱的月份。7月全國平均氣溫較常年同期偏高3.8攝氏度，其中最高氣溫較常年同期偏高5.2攝氏度。法國氣象局同時表示，受持續高溫和降雨偏少影響，7月降雨量較常年同期減少近70%，成為有記錄以來降雨量第三少的7月。受此影響，截至7月底，全國平均土壤乾旱程度達到歷史同期最高水平，與2022年8月中旬極端乾旱時期相當。氣象局表示，持續高溫和乾旱已對農業造成明顯影響，並增加了森林火災發生風險。（央視新聞）"
+    },
+    {
+      "id": "te:economy:572497",
+      "time": "2026-08-04 18:26:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Latvia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Latvia Industrial Output Hits Over 1-Year Low — Latvia’s industrial production increased 0.5% year-on-year in June 2026, slowing from a revised 5.9% rise in the previous month and marking the weakest growth since March 2025. Output growth moderated in manufacturing (5.0% vs. 7.2% in May), weighed down by smaller gains in food products (5.7% vs. 8.3%) and declines in wearing apparel (-16.8% vs. 25.8%), leather and related products (-11.8% vs. 3.8%), and paper and paper products (-7.9% vs. 6.9%). Production also dropped sharply for electricity, gas, steam, and air conditioning supply (-29.8% vs. 7.1%). Conversely, activity accelerated in mining and quarrying (13.8% vs. 2.2%). On a monthly basis, industrial production fell 0.8% in June, reversing from a revised 0.3% increase in May. In the second quarter of 2026, industrial production rose 4.2% compared with the same period a year earlier."
+    },
+    {
+      "id": "5024410",
+      "time": "2026-08-04 18:25:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球最小GPU晶片透過實測 約24萬個電晶體】報道稱全球最小GPU晶片TinyGPU v2.0透過實機測試。開發者蓬薩貢 · 維奇特在X平臺釋出推文，宣佈ASIC TinyGPU v2.0 已經成功執行。TinyGPU v2.0屬於Tiny Tapeout SKY 25b流片專案，擁有約24萬個電晶體，具備4-bit雙緩衝，以及儲存在QSPI RAM（四線序列外設介面隨機存取儲存器）中的8-bit深度緩衝。"
+    },
+    {
+      "id": "te:markets:572496",
+      "time": "2026-08-04 18:25:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Sugar Futures at Near 1-Month High — Sugar prices rose to around 15.1 cents per pound, their highest in nearly a month, supported by higher oil prices, new uncertainties about weather conditions in India and projections of a global deficit for the 2026/27 crop. Despite improving rainfall in the world's second-largest producer, where the deficit narrowed from 42% at the end of June to 12% below average by August 3, traders remain focused on precipitation during the crucial June-to-September crop development period. India's Meteorological Department said on July 31 that monsoon rainfall in August and September is likely to remain below average. The outlook for the global balance sheet is also continuing to support prices. On August 3rd, Covrig Analytics shifted its 2026/27 outlook to a 300,000-ton deficit from the 100,000-ton surplus projected in June, echoing recent revisions by Green Pool and StoneX, which also raised their global deficit forecasts. El Niño remains an additional threat to global sugar supplies."
+    },
     {
       "id": "mkt:019fcc4e-4bea-7aab-8f6b-d1805bf20b10",
       "time": "2026-08-04 18:25:11",
@@ -9,6 +66,14 @@
         "MKT News"
       ],
       "text": "Qatar's foreign ministry spokesman said the priority now is to resume negotiations."
+    },
+    {
+      "id": "5024409",
+      "time": "2026-08-04 18:25:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【衛生巾疑現蟲卵涉事公司曾被罰】據媒體報道，近日，有女子購買消毒級衛生巾後疑從中發現蟲卵，據悉，該品牌衛生巾由桂林潔伶工業有限公司生產，相關話題引發熱議。天眼查App顯示，桂林潔伶工業有限公司成立於1999年9月，法定代表人為陳百城。歷史資訊顯示，該公司存在多條被執行人、行政處罰資訊。"
     },
     {
       "id": "5024408",
@@ -163915,80 +163980,6 @@
         "公司"
       ],
       "text": "【宇新股份：實控人提議2026年中期分紅不低於上半年淨利潤30%】宇新股份公告，公司實際控制人、董事長鬍先念提議，在符合相關法律法規前提下，制定並實施2026年中期利潤分配方案，建議2026年中期利潤分配金額不低於2026年上半年歸屬於上市公司股東淨利潤的30%。胡先念承諾將在相關會議審議該事項時投贊成票。"
-    },
-    {
-      "id": "mkt:019fa844-6607-7aab-8ec9-19d89c5f1156",
-      "time": "2026-07-28 18:28:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Second-floor collapse at Kumamoto shopping center traps multiple people】Japan's Fire and Disaster Management Agency said a strong earthquake this afternoon (July 28) caused the second floor of a shopping center in Kashima Town, Kumamoto Prefecture, to collapse, leaving multiple people trapped."
-    },
-    {
-      "id": "5012233",
-      "time": "2026-07-28 18:27:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所披露：7月22日，貝萊德集團（BlackRock, Inc）持有的中遠海運能源運輸股份H股<1138.HK>多頭倉位從5.57%提升至6.58%。"
-    },
-    {
-      "id": "5012232",
-      "time": "2026-07-28 18:27:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雙元科技：擬使用超募資金5000萬-8000萬元回購股份】雙元科技公告稱，公司實際控制人、董事長、總經理鄭建提議，使用超募資金以集中競價交易方式回購股份，資金總額不低於5000萬元，不超過8000萬元，回購價格不超111.96元/股。回購股份將用於員工持股計劃或股權激勵，若3年內未使用完畢將登出。本次回購實施期限為董事會審議透過之日起12個月內。該事項已獲董事會透過，無需股東會審議，保薦機構認為方案可行且必要。不過，回購存在股價超上限、資金未到位等風險。"
-    },
-    {
-      "id": "5012231",
-      "time": "2026-07-28 18:27:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本一購物中心坍塌多人被困】更新：據日本總務省消防廳訊息，今天（7月28日）下午強震發生後，日本熊本縣嘉島町一處購物中心的二層坍塌，導致多人被困。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:570399",
-      "time": "2026-07-28 18:26:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Falls for 3rd Session — Brent fell to around $86.5 per barrel on Tuesday, touching its lowest level in more than a week, as optimism over a potential diplomatic breakthrough between the US and Iran eased concerns about supply disruptions. President Donald Trump said Washington was engaged in “good talks” with Tehran and that there was a “good chance” of reaching a resolution after pausing military strikes to give negotiations more time. He cautioned, however, that US attacks would resume if diplomacy failed, while Iran also warned it would retaliate should talks collapse. Oman has reportedly proposed a joint regional mechanism to manage shipping through the Strait of Hormuz, including a voluntary fee system. Despite the improving diplomatic outlook, geopolitical risks remain elevated. Saudi Arabia said it intercepted drones launched from Iraq targeting petroleum facilities, blaming Iran-backed groups, while Yemen’s Houthi rebels claimed responsibility for an attack on Saudi Arabia’s East-West oil pipeline."
-    },
-    {
-      "id": "5012230",
-      "time": "2026-07-28 18:26:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安孚科技：擬1-1.5億元回購股份 股東後續或減持】安孚科技公告稱，公司擬以集中競價方式回購股份，金額不低於1億元、不超過1.5億元，價格不超76.64元/股，回購股份佔總股本比例0.35%-0.52%，期限自董事會審議透過起不超3個月，資金源於自有及自籌資金。截至公告披露日，股東合肥榮新此前減持計劃已提前終止，未來3個月、6個月內不排除減持可能。本次回購存在股價超上限等風險。"
-    },
-    {
-      "id": "te:markets:570398",
-      "time": "2026-07-28 18:25:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Falls for 3rd Session — Crude oil fell to around $81 per barrel on Tuesday, touching its lowest level in more than a week, as optimism over a potential diplomatic breakthrough between the US and Iran eased concerns about supply disruptions. President Donald Trump said Washington was engaged in “good talks” with Tehran and that there was a “good chance” of reaching a resolution after pausing military strikes to give negotiations more time. He cautioned, however, that US attacks would resume if diplomacy failed, while Iran also warned it would retaliate should talks collapse. Oman has reportedly proposed a joint regional mechanism to manage shipping through the Strait of Hormuz, including a voluntary fee system. Despite the improving diplomatic outlook, geopolitical risks remain elevated. Saudi Arabia said it intercepted drones launched from Iraq targeting petroleum facilities, blaming Iran-backed groups, while Yemen’s Houthi rebels claimed responsibility for an attack on Saudi Arabia’s East-West oil pipeline."
-    },
-    {
-      "id": "mkt:019fa842-6459-7aab-8ec9-11e1ec6df531",
-      "time": "2026-07-28 18:25:50",
-      "tags": [
-        "MKT News",
-        "00763.HK",
-        "Impact bearish"
-      ],
-      "text": "HKEX filing shows BlackRock's long stake in ZTE (00763.HK) fell to 6.52% from 7.12% on July 22."
     }
   ]
 }

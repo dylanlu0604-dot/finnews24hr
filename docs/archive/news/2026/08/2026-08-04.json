@@ -1,7 +1,64 @@
 {
   "date": "2026-08-04",
-  "count": 1939,
+  "count": 1946,
   "items": [
+    {
+      "id": "5024413",
+      "time": "2026-08-04 18:28:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【恆銀科技：連續三個交易日收盤價累計漲幅達33.14%】恆銀科技公告，公司股票於2026年7月31日、8月3日連續兩個交易日收盤價格漲幅偏離值累計超過20%，8月4日再次漲停。自7月31日至8月4日連續三個交易日收盤價格累計漲幅達33.14%，同行業同期累計漲幅為8.34%。截至8月4日收盤，公司股票收盤價為9.04元/股，靜態市盈率約137.29，高於行業靜態市盈率66.38。2026年第一季度公司實現營業收入5664.5萬元，同比下滑39.76%；歸屬於上市公司股東的淨利潤284.61萬元，同比下滑46.78%。"
+    },
+    {
+      "id": "5024412",
+      "time": "2026-08-04 18:27:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【仕佳光子：股價異常波動 2026 年上半年營收增 50.66%】仕佳光子公告稱，公司股票在 2026 年 7 月 31 日、8 月 3 日、8 月 4 日收盤價格漲幅偏離值累計超 30%，屬異常波動。公司目前生產經營正常，無應披露未披露重大事項。2026 年半年度，公司營收 149,549.08 萬元，同比增長 50.66%；淨利潤 31,478.47 萬元，同比增長 45.30%。公司提醒投資者注意經營業績和股價波動風險。"
+    },
+    {
+      "id": "5024411",
+      "time": "2026-08-04 18:27:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國創有記錄以來最熱7月 土壤乾旱程度達歷史同期最高】當地時間8月4日，法國氣象局釋出資料顯示，2026年7月法國平均氣溫達到24.9攝氏度，為1900年有氣象記錄以來最熱的7月，也是法國有氣象記錄以來最熱的月份。7月全國平均氣溫較常年同期偏高3.8攝氏度，其中最高氣溫較常年同期偏高5.2攝氏度。法國氣象局同時表示，受持續高溫和降雨偏少影響，7月降雨量較常年同期減少近70%，成為有記錄以來降雨量第三少的7月。受此影響，截至7月底，全國平均土壤乾旱程度達到歷史同期最高水平，與2022年8月中旬極端乾旱時期相當。氣象局表示，持續高溫和乾旱已對農業造成明顯影響，並增加了森林火災發生風險。（央視新聞）"
+    },
+    {
+      "id": "te:economy:572497",
+      "time": "2026-08-04 18:26:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Latvia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Latvia Industrial Output Hits Over 1-Year Low — Latvia’s industrial production increased 0.5% year-on-year in June 2026, slowing from a revised 5.9% rise in the previous month and marking the weakest growth since March 2025. Output growth moderated in manufacturing (5.0% vs. 7.2% in May), weighed down by smaller gains in food products (5.7% vs. 8.3%) and declines in wearing apparel (-16.8% vs. 25.8%), leather and related products (-11.8% vs. 3.8%), and paper and paper products (-7.9% vs. 6.9%). Production also dropped sharply for electricity, gas, steam, and air conditioning supply (-29.8% vs. 7.1%). Conversely, activity accelerated in mining and quarrying (13.8% vs. 2.2%). On a monthly basis, industrial production fell 0.8% in June, reversing from a revised 0.3% increase in May. In the second quarter of 2026, industrial production rose 4.2% compared with the same period a year earlier."
+    },
+    {
+      "id": "5024410",
+      "time": "2026-08-04 18:25:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球最小GPU晶片透過實測 約24萬個電晶體】報道稱全球最小GPU晶片TinyGPU v2.0透過實機測試。開發者蓬薩貢 · 維奇特在X平臺釋出推文，宣佈ASIC TinyGPU v2.0 已經成功執行。TinyGPU v2.0屬於Tiny Tapeout SKY 25b流片專案，擁有約24萬個電晶體，具備4-bit雙緩衝，以及儲存在QSPI RAM（四線序列外設介面隨機存取儲存器）中的8-bit深度緩衝。"
+    },
+    {
+      "id": "te:markets:572496",
+      "time": "2026-08-04 18:25:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Sugar Futures at Near 1-Month High — Sugar prices rose to around 15.1 cents per pound, their highest in nearly a month, supported by higher oil prices, new uncertainties about weather conditions in India and projections of a global deficit for the 2026/27 crop. Despite improving rainfall in the world's second-largest producer, where the deficit narrowed from 42% at the end of June to 12% below average by August 3, traders remain focused on precipitation during the crucial June-to-September crop development period. India's Meteorological Department said on July 31 that monsoon rainfall in August and September is likely to remain below average. The outlook for the global balance sheet is also continuing to support prices. On August 3rd, Covrig Analytics shifted its 2026/27 outlook to a 300,000-ton deficit from the 100,000-ton surplus projected in June, echoing recent revisions by Green Pool and StoneX, which also raised their global deficit forecasts. El Niño remains an additional threat to global sugar supplies."
+    },
     {
       "id": "mkt:019fcc4e-4bea-7aab-8f6b-d1805bf20b10",
       "time": "2026-08-04 18:25:11",
@@ -9,6 +66,14 @@
         "MKT News"
       ],
       "text": "Qatar's foreign ministry spokesman said the priority now is to resume negotiations."
+    },
+    {
+      "id": "5024409",
+      "time": "2026-08-04 18:25:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【衛生巾疑現蟲卵涉事公司曾被罰】據媒體報道，近日，有女子購買消毒級衛生巾後疑從中發現蟲卵，據悉，該品牌衛生巾由桂林潔伶工業有限公司生產，相關話題引發熱議。天眼查App顯示，桂林潔伶工業有限公司成立於1999年9月，法定代表人為陳百城。歷史資訊顯示，該公司存在多條被執行人、行政處罰資訊。"
     },
     {
       "id": "5024408",
