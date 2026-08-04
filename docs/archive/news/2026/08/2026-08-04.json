@@ -1,7 +1,39 @@
 {
   "date": "2026-08-04",
-  "count": 940,
+  "count": 943,
   "items": [
+    {
+      "id": "te:markets:572372",
+      "time": "2026-08-04 12:47:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Corn Rises Toward Multi-Week Highs — Corn futures rose around $4.5 per bushel, moving back toward multi-week highs as mounting concerns over crop losses in Europe and parts of China outweighed expectations for another strong US harvest. Persistent heatwaves and prolonged dry weather across Western Europe, particularly in France, have severely stressed corn crops, prompting lower yield forecasts and raising fears of tighter global supplies. China is also experiencing hot and dry conditions in several key agricultural regions, adding to uncertainty over global feed grain production. Still, gains were capped by generally favorable crop prospects in the US, where forecasts continue to call for timely rainfall across much of the Midwest after brief periods of heat, supporting expectations for a large harvest. Market participants are also closely monitoring upcoming USDA crop condition reports for any signs that recent warmer weather has begun to affect yield potential."
+    },
+    {
+      "id": "5023661",
+      "time": "2026-08-04 12:46:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【澳新銀行：日美聯合外匯干預不太可能扭轉日元貶值趨勢】澳新銀行研究部經濟學家表示，日本和美國官方近期為遏制日元疲軟而進行的干預，不太可能扭轉日元的貶值趨勢，除非有支援性貨幣政策相配合。日本長期通縮的歷史遺留問題將繼續使決策者對加息保持謹慎，日本央行可能會優先考慮避免增長風險，而不是允許通脹率適度高於目標。他們表示，地緣政治事態發展將是決定下一步政策舉措時機的關鍵，如果圍繞中東危機的不確定性持續存在，進一步的政策正常化將是合適的。澳新銀行預計日本央行將在10月份上調政策利率，不過9月份加息的可能性正在增加。"
+    },
+    {
+      "id": "te:markets:572371",
+      "time": "2026-08-04 12:45:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Retreats on External Balance Worries Ahead of GDP Data — The Indonesian rupiah weakened past IDR 18,000 per U.S. dollar on Tuesday, snapping a four-session winning streak as concerns over the country's external balance resurfaced. Sentiment was pressured after Indonesia posted another trade gap in June, largely driven by a surge in crude oil imports amid elevated global energy prices. Nerves also grew ahead of Q2 GDP data due Wednesday, with economic growth expected to slow from the strong 5.6% yoy rise in Q1. Traders remained focused on President Prabowo's upcoming nominations for Bank Indonesia governor following Perry Warjiyo's abrupt exit. Finance Minister Purbaya Yudhi reportedly said he would not seek the position. Still, the rupiah's losses were limited after July inflation eased to a three-month low of 2.88%, comfortably within the central bank's target range of 1-1/2-3-1/2%. Globally, the U.S. dollar steadied as investors continued to assess the outlook for Fed policy amid persistent uncertainty about the Middle East conflict."
+    },
     {
       "id": "5023660",
       "time": "2026-08-04 12:43:55",
