@@ -1,7 +1,232 @@
 {
-  "updated": "2026-08-04 20:41:51",
-  "count": 17827,
+  "updated": "2026-08-04 20:45:55",
+  "count": 17832,
   "items": [
+    {
+      "id": "mkt:019fccce-8103-7aab-8f70-3c215f9d2972",
+      "time": "2026-08-04 20:45:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed’s Paulson says monetary policy faces a complex moment."
+    },
+    {
+      "id": "mkt:019fccce-235e-7aab-8f70-37a19973d109",
+      "time": "2026-08-04 20:44:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Paulson said policy may need to be recalibrated if there is no progress on inflation."
+    },
+    {
+      "id": "mkt:019fcccd-f2b1-7aab-8f70-2d2c43d9d426",
+      "time": "2026-08-04 20:44:36",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Paulson said he hopes to see further progress on core inflation."
+    },
+    {
+      "id": "5024827",
+      "time": "2026-08-04 20:44:28",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【加拿大連續第四個月錄得貿易順差，黃金出口抵消能源下滑】由於黃金出口增長抵消了能源出口下降，加拿大6月貿易順差小幅擴大。加拿大統計局週二公佈的資料顯示，6月加拿大進口和出口分別增長0.2%和0.4%，推動貿易順差從5月修正後的37億加元擴大至38.6億加元（約合27億美元）。加拿大出口連續第五個月增長，其中金屬及非金屬礦產品出口增長16.5%，成為主要推動因素。這一增長主要來自對英國黃金出口增加，以及6月外國居民購買加拿大持有的黃金。與此同時，由於原油價格下跌，加拿大能源出口下降10%。"
+    },
+    {
+      "id": "mkt:019fcccd-983d-7aab-8f70-23a5ba387d61",
+      "time": "2026-08-04 20:44:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed's Paulson said forward guidance is appropriate when interest rates are at zero."
+    },
+    {
+      "id": "5024826",
+      "time": "2026-08-04 20:44:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理表示，可能需要為帕克斯核電站考慮另一套冷卻系統。"
+    },
+    {
+      "id": "mkt:019fcccd-6b68-7aab-8f70-1ef91d1aa1d1",
+      "time": "2026-08-04 20:44:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's Paulson said the Fed cannot provide rate guidance at present and remains open to options."
+    },
+    {
+      "id": "5024825",
+      "time": "2026-08-04 20:43:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員保爾森：重新審視美聯儲的工作運作方式是件非常有益的事。"
+    },
+    {
+      "id": "mkt:019fcccc-c825-7aab-8f70-13875b949507",
+      "time": "2026-08-04 20:43:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Canada posts fourth straight trade surplus in June as gold exports offset energy decline】Canada's trade surplus widened slightly in June to C$3.86 bln (about US$2.7 bln) from a revised C$3.70 bln in May, Statistics Canada said. Exports rose 0.4% and imports 0.2%. Exports grew for a fifth consecutive month, led by a 16.5% jump in metal and non-metallic mineral exports driven mainly by increased gold shipments to the UK and foreign purchases of Canadian-held gold in June. Energy exports fell 10% amid lower crude prices."
+    },
+    {
+      "id": "5024824",
+      "time": "2026-08-04 20:43:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑爾森：當前環境的不確定性使得提供前瞻性指引變得困難。"
+    },
+    {
+      "id": "5024823",
+      "time": "2026-08-04 20:43:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "保爾森：利率處於零時，前瞻性指引是恰當的。"
+    },
+    {
+      "id": "5024822",
+      "time": "2026-08-04 20:42:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協創資料：擬使用不超70億元自有資金進行委託理財】協創資料(300857.SZ)公告稱，公司及子公司擬使用最高額度合計不超過70億元的自有資金進行委託理財，其中擬使用最高額度不超過60億元用於協定存款。額度有效期自2026年第七次臨時股東會審議透過之日起至2026年度股東會召開之日止。"
+    },
+    {
+      "id": "te:economy:572550",
+      "time": "2026-08-04 20:42:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "US Imports Drop in June — US imports fell by $7.3 billion from the prior month, or 1.8%, to $388 billion in June 2026, marking the first drop since January. Imports of goods decreased $7.9 billion to $309.0 billion in June. Imports of goods on a Census basis fell $7.7 billion, led by lower purchases of capital goods (-$2.1 billion), particularly computers (-$3.0 billion), and consumer goods (-$2.1 billion), mainly pharmaceutical preparations (-$1.9 billion). These declines were partly offset by a $1.1 billion increase in telecommunications equipment imports."
+    },
+    {
+      "id": "5024821",
+      "time": "2026-08-04 20:42:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "保爾森：前瞻性指引有著相當明確的含義。"
+    },
+    {
+      "id": "5024820",
+      "time": "2026-08-04 20:42:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【麥當勞宣佈更換美國業務總裁】麥當勞8月4日宣佈，在公司擁有超26年工作經驗的Skye Anderson出任麥當勞美國總裁，即日起生效，接替已掌管麥當勞美國業務近7年的Joe Erlinger。麥當勞當日公佈財報顯示，二季度美國市場同店銷售額增長0.8%，為2025年年初以來最慢增速。"
+    },
+    {
+      "id": "5024819",
+      "time": "2026-08-04 20:41:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協創資料：繼續開展跨境雙向人民幣資金池業務 額度提至47億】協創資料公告稱，公司於2026年8月4日召開董事會，同意作為主辦企業在杭州銀行繼續開展跨境雙向人民幣資金池業務，並將資金池配套額度由不超18億元提升至不超47億元，額度在業務期限內可迴圈使用。該事項不構成關聯交易及重大資產重組，無需股東會審議。業務旨在提升資金使用效率，對公司無不利影響，但存在受宏觀等因素影響的風險。"
+    },
+    {
+      "id": "te:economy:572549",
+      "time": "2026-08-04 20:41:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Exports",
+        "Importance 2"
+      ],
+      "text": "Canada Exports Rise to Fresh Record High — Canadian goods exports rose 0.4% month-over-month to a record CAD 77.5 billion in June 2026, marking a fifth consecutive monthly increase. Exports of metal and non-metallic mineral products jumped 16.5%, driven by a 27.9% surge in shipments of unwrought gold, silver, platinum group metals and their alloys, reflecting higher gold exports to the UK and stronger foreign demand. Exports of metal ores and non-metallic minerals also increased 7.3%, led by copper ores and concentrates (20%) and sulphur shipments. Meanwhile, exports of motor vehicles and parts rose 2.4% as higher domestic production lifted passenger car and light truck exports to their highest level since March 2025. These gains were largely offset by a 10% decline in energy product exports. Following a 4.6% increase in the first quarter, total exports advanced 13.1% in Q2, the strongest quarterly growth since the third quarter of 2020."
+    },
+    {
+      "id": "5024818",
+      "time": "2026-08-04 20:41:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員保爾森：若通脹未取得進展，美聯儲將需採取行動。"
+    },
+    {
+      "id": "mkt:019fcccb-379a-7aab-8f70-09f5bb3d08b2",
+      "time": "2026-08-04 20:41:37",
+      "tags": [
+        "MKT News",
+        "MCD.N",
+        "Impact bearish"
+      ],
+      "text": "McDonald's (MCD.N) top executive said restaurant teams were overwhelmed by excessive deployments in Q2, reducing operating efficiency."
+    },
+    {
+      "id": "5024817",
+      "time": "2026-08-04 20:41:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑爾森：透過供應衝擊看問題是正確的。"
+    },
+    {
+      "id": "5024816",
+      "time": "2026-08-04 20:41:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "保爾森：希望核心通脹取得更多進展。"
+    },
+    {
+      "id": "5024815",
+      "time": "2026-08-04 20:41:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【通宇通訊：股價異常波動 提示多項投資風險】通宇通訊公告稱，公司股票在2026年7月31日、8月3日、8月4日連續三個交易日收盤價漲幅偏離值累計超20%，屬異常波動。公司最新滾動市盈率804.64，顯著高於行業的56.61。預計2026年半年度淨虧損2300 - 2700萬元，扣非後淨虧損4300 - 4800萬元。上半年衛星通訊板塊收入約1057.33萬元，佔比不到2%。公司提醒投資者注意交易、業績、業務拓展及投資佈局等風險。"
+    },
     {
       "id": "5024814",
       "time": "2026-08-04 20:40:56",
@@ -164890,165 +165115,6 @@
         "Brent"
       ],
       "text": "Trump said Iran does not control the Strait of Hormuz; the United States controls it."
-    },
-    {
-      "id": "5012526",
-      "time": "2026-07-28 20:45:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息; GMEX 將收購 MediaMeta 公司 30% 股權。"
-    },
-    {
-      "id": "5012525",
-      "time": "2026-07-28 20:45:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本方面訊息：日本製紙八代工廠多名人員失聯。"
-    },
-    {
-      "id": "mkt:019fa8c2-007c-7aab-8ecc-96d717a76a81",
-      "time": "2026-07-28 20:45:14",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. President Trump said he would 'very easily' destroy Gaoshan if an agreement could not be reached."
-    },
-    {
-      "id": "5012524",
-      "time": "2026-07-28 20:44:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：只有我們想讓透過的船隻才能透過海峽。"
-    },
-    {
-      "id": "5012523",
-      "time": "2026-07-28 20:44:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "UPS執行長表示，將擴大美國和墨西哥之間的北美航空貨運服務，以服務汽車和工業製造客戶。"
-    },
-    {
-      "id": "te:economy:570432",
-      "time": "2026-07-28 20:44:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Goods Trade Balance",
-        "Importance 2"
-      ],
-      "text": "US Goods Trade Deficit Narrows in June — The US goods trade deficit narrowed to $101.5 billion in June 2026 from a 14-month high of $105.9 billion in May, according to preliminary data. Exports fell 1.8% to $204.7 billion, marking a second straight monthly decline and moving further below April's record high, driven by lower shipments of industrial supplies (-4.4%), foods, feeds, and beverages (-3.1%), and capital goods (-1.1%). Imports declined at a faster 2.6% to $306.2 billion, with purchases falling across all major categories, including consumer goods (-3.8%), capital goods (-2.0%), industrial supplies (-1.9%), vehicles (-2.5%), and foods, feeds, and beverages (-2.5%). In the first half of 2026, the cumulative goods trade deficit narrowed to $535.5 billion from $716.6 billion in the same period a year earlier. The improvement suggests trade flows are continuing to normalize following last year's US tariff announcements, although uncertainty surrounding US trade policy remains."
-    },
-    {
-      "id": "mkt:019fa8c0-c98e-7aab-8ecc-8934c35cc7f6",
-      "time": "2026-07-28 20:43:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US President Trump said the United States is in a very favorable position."
-    },
-    {
-      "id": "5012522",
-      "time": "2026-07-28 20:43:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普讚揚庫珀海軍上將在伊朗行動中的表現。"
-    },
-    {
-      "id": "5012521",
-      "time": "2026-07-28 20:43:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "INNOVIZ宣佈3000萬美元註冊直接發行定價。"
-    },
-    {
-      "id": "5012520",
-      "time": "2026-07-28 20:43:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們再也不能容忍伊朗違反協議了。"
-    },
-    {
-      "id": "mkt:019fa8c0-3114-7aab-8ecc-8273106121cf",
-      "time": "2026-07-28 20:43:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Iran has basically agreed not to possess nuclear weapons."
-    },
-    {
-      "id": "mkt:019fa8c0-029f-7aab-8ecc-7bbcf8c91132",
-      "time": "2026-07-28 20:43:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zhanxin Co. IPO allotment numbers announced: 23,027】Zhanxin Co. published online allotment results for its IPO; 23,027 winning subscription numbers were drawn, each eligible to subscribe for 500 A shares."
-    },
-    {
-      "id": "5012519",
-      "time": "2026-07-28 20:42:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們曾與伊朗達成協議。"
-    },
-    {
-      "id": "mkt:019fa8bf-881e-7aab-8ecc-769759fb4f6a",
-      "time": "2026-07-28 20:42:32",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact mixed"
-      ],
-      "text": "【Apple shifts from device purchase to monthly leasing — will it shorten upgrade cycles?】Apple has rolled out Apple Upgrade in the US, offering device leases via Klarna. Terms: iPhone and Apple Watch 12–24 months; Mac and iPad 24–36 months, matching typical replacement/use cycles. Leasing lowers the monthly payment barrier and embeds return, renewal or upgrade options at term, which could convert irregular upgrade demand into a more predictable update cadence. Lower monthly fees do not necessarily reduce total ownership cost; long-term holders may be no better off than with interest-free instalments. Whether the plan shortens upgrade cycles depends on adoption, end‑of‑term upgrade conversion and sustained renewal rates. Only repeated re‑enrolment would let Apple shift hardware from one‑off sales toward a steadier replacement-driven revenue pattern."
-    },
-    {
-      "id": "mkt:019fa8bf-667e-7aab-8ecc-6fe86700f343",
-      "time": "2026-07-28 20:42:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Trump says Israeli Prime Minister Netanyahu wants the US to continue participating in the war against Iran."
-    },
-    {
-      "id": "5012518",
-      "time": "2026-07-28 20:42:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗控制不了霍爾木茲海峽，我們控制著霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019fa8be-ff64-7aab-8ecc-66d18933bad1",
-      "time": "2026-07-28 20:41:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said it is a good time for Iran to reach a deal and that he hopes to avoid strikes on Iranian bridges and power plants. He said Iran needs to formally declare it does not possess nuclear weapons."
     }
   ]
 }
