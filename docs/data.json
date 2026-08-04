@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-04 23:56:01",
-  "count": 17820,
+  "updated": "2026-08-04 23:59:51",
+  "count": 17817,
   "items": [
+    {
+      "id": "5025155",
+      "time": "2026-08-04 23:58:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國兩年期國債收益率跌超7個基點】週二（8月4日）歐市尾盤，英國10年期國債收益率跌5.9個基點，重新整理日低至4.893%，北京時間18:44以來持續下挫。兩年期英債收益率跌7.4個基點，重新整理日低至4.232%。30年期英債收益率跌4.8個基點，50年期英債收益率跌4.4個基點。2/10年期英債收益率利差漲1.188個基點，報+65.832個基點。"
+    },
+    {
+      "id": "te:economy:572653",
+      "time": "2026-08-04 23:57:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Eases from 18-Month High — The yield on the 10-year US Treasury note fell to 4.65% on Tuesday from the 18-month high of 4.75% in the previous session as lower energy prices softened risks of higher inflation and a hawkish reaction by the Federal Reserve. Qatari authorities stated that the US and Iran were close to signing a short-term agreement that would pause the conflict, followed by US Treasury Secretary Bessent noting that a deal could be announced imminently. The developments drove fuel and natural gas prices to extend their declines, limiting risks that energy-driven inflation would continue to lift underlying consumer prices as observed in data from the second quarter. Rate traders trimmed positions reflecting a hike in the Federal Reserve's next meeting, although the move remained in slight consensus. Still, yields remained above levels prior to the Fed's rate hold last week, when Chair Warsh's reluctance to confirm a rate hike as his preferred tool against higher prices raised inflationary concerns."
+    },
     {
       "id": "5025154",
       "time": "2026-08-04 23:54:52",
@@ -164911,52 +164931,6 @@
         "MKT News"
       ],
       "text": "U.S. presidential envoy Witkoff, Treasury Secretary Bessent and Secretary of State Rubio attended a meeting between U.S. President Trump and Israeli Prime Minister Netanyahu."
-    },
-    {
-      "id": "5012845",
-      "time": "2026-07-28 23:59:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "捷藍航空股價上漲至10%，創6月中旬以來最大漲幅。"
-    },
-    {
-      "id": "5012844",
-      "time": "2026-07-28 23:58:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所（ICE）資料顯示，荷蘭TTF天然氣下月期貨價格下跌5%，至每兆瓦時55.31歐元。"
-    },
-    {
-      "id": "5012843",
-      "time": "2026-07-28 23:57:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油日內跌5%，現報78.45美元/桶。"
-    },
-    {
-      "id": "te:markets:570479",
-      "time": "2026-07-28 23:56:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX 40 Rises to 3-Week High — Frankfurt’s DAX 40 climbed 0.5% to 25,492 on Tuesday, reaching its highest level since July 6, as investors reacted positively to corporate earnings updates and falling oil prices amid hopes of renewed US-Iran negotiations to ease Middle East tensions. SAP gained more than 5%, extending recent gains after launching the second stage of its €10 billion share buyback programme and reporting stronger-than-expected second-quarter results. Deutsche Telekom advanced more than 2%, while Airbus rose over 1.5%. Mercedes-Benz also increased more than 2% after maintaining its passenger car margin target, despite lowering its revenue forecast following a weaker quarter. In contrast, Infineon dropped around 6% as AI-related stocks remained under pressure due to concerns over stretched valuations, stronger Chinese competition, and rising investment needs. Energy stocks also declined as crude prices continued to weaken, with Siemens Energy falling around 7%."
-    },
-    {
-      "id": "5012842",
-      "time": "2026-07-28 23:56:13",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗駐華大使稱伊朗未介入曼德海峽問題，呼籲從源頭解決葉門】“伊朗不會介入胡塞武裝在地區所採取的任何行動，也沒有興趣讓緊張局勢和衝突繼續下去。”7月28日，在回答媒體提出的有關胡塞武裝宣佈對沙特實施禁運是否得到伊朗方面支援的問題時，伊朗駐華大使法茲裡作出上述表示。"
     }
   ]
 }
