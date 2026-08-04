@@ -1,7 +1,44 @@
 {
   "date": "2026-08-04",
-  "count": 936,
+  "count": 940,
   "items": [
+    {
+      "id": "5023660",
+      "time": "2026-08-04 12:43:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【王思聰六年內已三度退出“萬達系”決策層】王思聰正在從萬達系逐步退出，近日又卸任一家萬達系公司的董事。據天眼查工商資訊顯示，萬達產業投資有限公司於7月27日完成高階管理人員備案變更，王思聰正式卸任公司董事，張春遠同步退出董事席位，陳洪濤新晉出任董事。近六年內，王思聰已經三次從萬達核心公司卸任董事，持續拉開了與萬達集團運營層面的距離。（介面）"
+    },
+    {
+      "id": "5023659",
+      "time": "2026-08-04 12:43:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣發證券：資本開支驅動半導體物流需求擴容 專業化與國產替代開啟成長空間】廣發證券釋出研報稱，半導體產品從設計、晶圓製造、封裝測試到終端應用，需在全球範圍內多次跨境、跨廠流轉，由此形成原材料運輸、裝置及產成品運輸、智慧化廠內物流三大環節。半導體產業鏈資本開支上行將依次傳導至原材料週轉、裝置及產成品跨境運輸和晶圓廠自動化搬運需求，帶動專業物流景氣改善。"
+    },
+    {
+      "id": "5023658",
+      "time": "2026-08-04 12:42:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【大陸航空科技控股(00232)附屬CAT US與美國司法部訂立和解協議】大陸航空科技控股(00232)釋出公告，本公司間接全資附屬公司Continental Aerospace Technologies, Inc.(CAT US)與美國司法部(司法部)於2026年7月31日(美國中部夏令時)訂立和解協議(和解協議)，內容有關CAT US獲取並隨後根據美國《新冠病毒援助、救濟和經濟保障法》(CARES法案)獲豁免的薪資保護計劃(PPP)貸款。該和解須予以保密。於2026年8月3日(美國中部夏令時)，司法部通知CAT US，其不反對本公司披露該和解。CAT US於接獲司法部不反對確認後立即通知本公司對該和解進行披露。和解協議要求支付1177.268萬美元，另加計自2026年6月23日起至付款日止、按年利率4%計算的利息。且協議亦載有條款，解除CAT US因PPP貸款項下依據《虛假申報法》所產生的任何未來民事責任或索償。無論是和解款項抑或CAT US參與和解協商，均不構成亦不應被詮釋為CAT US承認有責任或有不當行為。本公司預期CAT US將依司法部的指示，儘速支付和解款項。"
+    },
+    {
+      "id": "te:markets:572369",
+      "time": "2026-08-04 12:41:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Extends Gains to Fifth Day — India’s BSE Sensex rose about 0.3% to 78,857 on Tuesday, marking a fifth straight day of gains, even as broader market sentiment remained cautious following the previous session's technically driven rally. Life Insurance Corporation of India (LIC) was among the biggest drags on sentiment, with its shares tumbling around 6.7% after the government announced plans to sell up to a 6.5% stake through an offer for sale. The benchmark Nifty 50 traded lower after Monday's late-session rally, which was largely driven by a new closing auction process rather than a broad improvement in market sentiment. Investors also remained watchful of external risks, including geopolitical tensions in the Middle East and their potential impact on crude oil prices and the Indian rupee, while awaiting further domestic and global cues. Among notable movers included Ather Energy (13.5%), Restaurant Brands Asia (10.9%), Deepak (6.3%), KEI (6.3%), and CG Power (5.6%)."
+    },
     {
       "id": "5023657",
       "time": "2026-08-04 12:37:45",
