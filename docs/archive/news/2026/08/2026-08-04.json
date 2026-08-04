@@ -1,7 +1,273 @@
 {
   "date": "2026-08-04",
-  "count": 2418,
+  "count": 2445,
   "items": [
+    {
+      "id": "mkt:019fccc3-c628-7aab-8f6f-e586f9343ba6",
+      "time": "2026-08-04 20:33:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. oil import price in June was $86.06/barrel, up 37.6% from $62.53/barrel in June 2025; May was $87.44/barrel."
+    },
+    {
+      "id": "5024792",
+      "time": "2026-08-04 20:33:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲6%，現報1332.77美元/盎司。"
+    },
+    {
+      "id": "te:markets:572543",
+      "time": "2026-08-04 20:32:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Hits 6-week High — Palladium increased to 1328.00 USD/t.oz, the highest since June 2026. Over the past 4 weeks, Palladium gained 4.41%, and in the last 12 months, it increased 13.18%."
+    },
+    {
+      "id": "5024791",
+      "time": "2026-08-04 20:32:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【原油LOF易方達：提示二級市場交易價格溢價風險】原油LOF易方達公告稱，近期該基金二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。2026年8月4日，其二級市場收盤價為1.895元，截至7月31日，基金份額淨值為1.6694元。若8月5日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。基金管理人提醒投資者關注產品風險，審慎投資。"
+    },
+    {
+      "id": "mkt:019fccc2-692e-7aab-8f6f-da9db705dc70",
+      "time": "2026-08-04 20:32:00",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "BOFA GLOBAL RESEARCH initiates coverage of SK Hynix (SKHY.O), assigns Buy rating and sets target price at $250."
+    },
+    {
+      "id": "5024790",
+      "time": "2026-08-04 20:32:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究：對SK海力士(SKHY.O)啟動覆蓋研究，給予“買入”評級；目標價250美元。"
+    },
+    {
+      "id": "5024789",
+      "time": "2026-08-04 20:31:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF易方達：提示交易價格溢價風險及停復牌安排】納指ETF易方達公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年8月4日，收盤價為2.006元，基金份額參考淨值為1.8132元。為保護投資者利益，基金於8月5日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若8月5日溢價幅度未有效回落，基金有權採取進一步停牌措施。"
+    },
+    {
+      "id": "5024788",
+      "time": "2026-08-04 20:31:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【金ETF嘉實：提示基金二級市場交易價格溢價風險】金ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。8月4日，其二級市場收盤價為9.000元，收盤時IOPV為8.4939元。若8月5日溢價幅度未有效回落，基金有權申請停牌警示風險。基金主要投資黃金現貨合約，運作正常且無應披露未披露資訊，提醒投資者關注風險、審慎投資。"
+    },
+    {
+      "id": "te:markets:572541",
+      "time": "2026-08-04 20:31:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rise to Records — US futures extended their strong momentum to record highs on Tuesday amid signs of a more favorable macroeconomic backdrop as key earnings will offer updates on the AI trade. Contracts for the S&P 500 rose 0.4% to a new record and those for the Dow jumped 600 points to cross 53,800 for the first time, while the Nasdaq gained 0.8%. Fuel and natural gas prices fell after Qatar signaled progress toward a short-term deal between the US and Iran, limiting inflationary risks and driving benchmark yields to hold their pullback. Palantir soared over 15% after raising its forecasts on the back of strong commercial sales. Meanwhile, industrial bellwether Caterpillar gained nearly 10% after beating its earnings estimates. AI hypersaclers were mixed following their surge yesterday, which stretched the ongoing period of outperformance to AI infrastructure companies, reversing the trend from late in June. AMD and SpaceX were due to report after the bell."
+    },
+    {
+      "id": "5024787",
+      "time": "2026-08-04 20:31:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF廣發：提示二級市場交易價格溢價風險並停復牌】納指ETF廣發公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，8月4日收盤價為1.631元，收盤時基金份額參考淨值為1.4592元。為保護投資者利益，基金於8月5日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若8月5日溢價幅度未有效回落，有權採取進一步停牌措施。目前基金運作正常，無應披露未披露資訊。"
+    },
+    {
+      "id": "5024786",
+      "time": "2026-08-04 20:31:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF嘉實：二級市場價格溢價 8月5日開市起停牌】納指ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，8月4日收盤價為2.046元，收盤時基金份額參考淨值為1.8297元。為保護投資者利益，基金於8月5日開市起停牌，自10:30起復牌，停牌期間贖回業務照常辦理。若8月5日溢價幅度未有效回落，基金有權採取進一步停牌措施。"
+    },
+    {
+      "id": "5024785",
+      "time": "2026-08-04 20:31:12",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "【智光電氣：子公司簽訂2.17億元採購合同】智光電氣8月4日公告，公司子公司廣東智光綜合能源有限公司（簡稱“智光綜合能源”）於近日與廣東陽光之家能源有限公司（簡稱“採購單位”）簽訂了金額合計為2.17億元（含稅）的《採購合同》，採購單位向智光綜合能源購買高壓級聯儲能系統裝置。"
+    },
+    {
+      "id": "mkt:019fccc1-9005-7aab-8f6f-d4d6bf47bff1",
+      "time": "2026-08-04 20:31:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US imports in June were $388.0 bln, down from $395.3 bln in the prior month."
+    },
+    {
+      "id": "mkt:019fccc1-743e-7aab-8f6f-cd3d1ef27483",
+      "time": "2026-08-04 20:30:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Fed's Paulson: Lowering inflation remains top priority; further rate hikes possible if inflation does not fall】Philadelphia Fed President Paulson, a 2026 FOMC voter, said bringing inflation back to 2% is his top priority and outlined two scenarios: current policy could already be sufficiently restrictive to return inflation to 2% within an acceptable timeframe, or policy may still be too loose — the strongest evidence for the latter being inflation has been above target for more than five years. He said he will judge by the accumulation of data: repeated months of improvement in inflation, business contacts reporting easing pricing and hiring pressures, tariffs, energy and AI-related pressures coming under control, and inflation expectations anchored near 2%. If core inflation remains elevated with no progress over time, tighter policy would likely be required. He said he will remain open-minded while seeking to achieve 2% inflation alongside full employment."
+    },
+    {
+      "id": "mkt:019fccc1-7319-7aab-8f6f-c6a659cc02aa",
+      "time": "2026-08-04 20:30:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US exports in June were $314.7 bln, down from $317.7 bln previously."
+    },
+    {
+      "id": "mkt:019fccc1-6edb-7aab-8f6f-b8bdd4c99102",
+      "time": "2026-08-04 20:30:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Imports (Jun) | actual 388000000000B | previous 395300000000B"
+    },
+    {
+      "id": "5024784",
+      "time": "2026-08-04 20:30:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破60美元/盎司，日內漲3.72%。"
+    },
+    {
+      "id": "mkt:019fccc1-5246-7aab-8f6f-b55b9f87c61a",
+      "time": "2026-08-04 20:30:49",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Exports (Jun) | actual 314700000000B | previous 317700000000B"
+    },
+    {
+      "id": "mkt:019fccc0-dd6c-7aab-8f6f-a809d0a0e970",
+      "time": "2026-08-04 20:30:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "US June trade deficit $73.3 bln, vs $73.0 bln expected; May deficit $77.6 bln."
+    },
+    {
+      "id": "mkt:019fccc0-c804-7aab-8f6f-a6802a4dacba",
+      "time": "2026-08-04 20:30:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada June trade surplus C$3.86 bln, versus C$3.00 bln expected; May surplus revised to C$3.70 bln from C$4.24 bln."
+    },
+    {
+      "id": "mkt:019fccc0-bb10-7aab-8f6f-992dd022a0b1",
+      "time": "2026-08-04 20:30:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada June imports C$73.63 bln; prior value revised from C$72.86 bln to C$73.49 bln."
+    },
+    {
+      "id": "mkt:019fccc0-baaf-7aab-8f6f-91255b844a34",
+      "time": "2026-08-04 20:30:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada June exports C$77.49 billion; prior value revised from C$77.10 billion to C$77.19 billion."
+    },
+    {
+      "id": "5024783",
+      "time": "2026-08-04 20:30:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國6月貿易帳 -733億美元，預期-730億美元，前值-776億美元。"
+    },
+    {
+      "id": "mkt:019fccc0-96f9-7aab-8f6f-8d19c8c56c16",
+      "time": "2026-08-04 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Imports (Jun) | actual 73630000000B | previous 72860000000B"
+    },
+    {
+      "id": "mkt:019fccc0-96dd-7aab-8f6f-82c9e26d9c0b",
+      "time": "2026-08-04 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Exports (Jun) | actual 77490000000B | previous 77100000000B"
+    },
+    {
+      "id": "mkt:019fccc0-96da-7aab-8f6f-7f440e5006ed",
+      "time": "2026-08-04 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Trade Balance (Jun) | actual -73300000000B | consensus -73000000000B | previous -77600000000B"
+    },
+    {
+      "id": "mkt:019fccc0-966f-7aab-8f6f-75b49ecd7f2a",
+      "time": "2026-08-04 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Trade Balance (Jun) | actual 3860000000B | consensus 3000000000B | previous 4240000000B"
+    },
     {
       "id": "5024782",
       "time": "2026-08-04 20:29:35",
