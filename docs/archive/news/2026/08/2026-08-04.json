@@ -1,7 +1,59 @@
 {
   "date": "2026-08-04",
-  "count": 953,
+  "count": 959,
   "items": [
+    {
+      "id": "mkt:019fcb25-5b57-7aab-8f64-2b9168e35899",
+      "time": "2026-08-04 13:00:50",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【ChiNext Index up more than 5% in afternoon trade】By afternoon trade China’s ChiNext Index was up more than 5.0%; the Shenzhen Component gained 2.75% and the Shanghai Composite rose 0.16%. More than 3,700 A-share stocks advanced."
+    },
+    {
+      "id": "5023672",
+      "time": "2026-08-04 13:00:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲5.02%，現報3468.383點；上證指數漲0.14%，現報3815.035點；深證成指漲2.81%，現報13826.128點。"
+    },
+    {
+      "id": "mkt:019fcb24-f127-7aab-8f64-21a9f4f330f4",
+      "time": "2026-08-04 13:00:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Kioxia launches GP1 SSD series targeting AI storage market】Kioxia has launched the KIOXIA GP1 SSD series, its first drives to support GPU direct access to high‑speed flash, claiming up to 100M IOPS random read. The GP1 is positioned for emerging AI storage architectures that bring high‑speed flash into GPU memory systems, allowing GPUs to access larger datasets at far lower cost than adding HBM and improving GPU utilization."
+    },
+    {
+      "id": "5023671",
+      "time": "2026-08-04 12:59:07",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將紐約梅隆銀行目標價從149美元上調至159美元。"
+    },
+    {
+      "id": "5023670",
+      "time": "2026-08-04 12:58:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯於8月3日晚間襲擊了4艘乾貨船。"
+    },
+    {
+      "id": "5023669",
+      "time": "2026-08-04 12:58:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "塔斯社：俄羅斯對烏克蘭黑海港口發動了襲擊。"
+    },
     {
       "id": "5023668",
       "time": "2026-08-04 12:55:54",
