@@ -1,7 +1,78 @@
 {
   "date": "2026-08-04",
-  "count": 737,
+  "count": 744,
   "items": [
+    {
+      "id": "te:markets:572335",
+      "time": "2026-08-04 10:15:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Increases by 0.44% — Top currency gainer is South Korean Won (0.44%). Biggest losers are Indonesian Rupiah (-0.31%) and Japanese Yen (-0.30%)."
+    },
+    {
+      "id": "5023524",
+      "time": "2026-08-04 10:14:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【拼多多概念板塊走高，返利科技漲停】拼多多概念板塊走高，返利科技漲停，易點天下漲超10%，值得買、美登科技、引力傳媒、智度股份、壹網壹創等跟漲。"
+    },
+    {
+      "id": "mkt:019fca8d-3afb-7aab-8f62-66b8667c6923",
+      "time": "2026-08-04 10:14:40",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share Pinduoduo-concept stocks extended gains; Fanli Technology hit the daily upper price limit, Yidian Tianxia climbed over 10%, Zhidemai, Meideng Technology and Yinli Media also advanced."
+    },
+    {
+      "id": "mkt:019fca8b-9a5d-7aab-8f62-5cdb36f74179",
+      "time": "2026-08-04 10:12:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "Korea Exchange: KOSDAQ futures fell more than 6%, triggering a five-minute trading halt."
+    },
+    {
+      "id": "5023522",
+      "time": "2026-08-04 10:12:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南高速旗下檢測公司中標2026—2027年橋涵檢測輔助服務專案】據海南高速訊息，近日，海南高速旗下海南路橋工程檢測有限公司（簡稱“檢測公司”）中標2026—2027年橋涵檢測輔助服務專案，標誌著公司在跨區域業務拓展上再次取得階段性進展。"
+    },
+    {
+      "id": "mkt:019fca8b-1f7a-7aab-8f62-5093b69ea15e",
+      "time": "2026-08-04 10:12:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange briefly suspended trading on the KOSDAQ."
+    },
+    {
+      "id": "5023521",
+      "time": "2026-08-04 10:11:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊震盪回升 順鈉股份9天6板】電網裝置板塊盤中震盪回升，順鈉股份9天6板，此前風範股份2連板，長纜科技、長城電工、南網科技、四方股份等跟漲。"
+    },
     {
       "id": "mkt:019fca8a-778e-7aab-8f62-4c0ed52ee366",
       "time": "2026-08-04 10:11:39",
