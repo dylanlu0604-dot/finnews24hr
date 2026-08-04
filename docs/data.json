@@ -1,7 +1,291 @@
 {
-  "updated": "2026-08-04 21:29:45",
-  "count": 17821,
+  "updated": "2026-08-04 21:33:51",
+  "count": 17828,
   "items": [
+    {
+      "id": "5024954",
+      "time": "2026-08-04 21:32:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【FF計劃用三到四個季度將總負債降至1億美元以下】8月4日，法拉第未來（NASDAQ: FFAI） 宣佈，在供應商、債權人及其他產業合作伙伴的支援下，公司歷史遺留債務化解取得實質進展。根據已披露資料，總負債由2025年的約3.5億美元降至2026年的約2.3億美元，化債工作仍在推進。公司計劃用三到四個季度將總負債降至1億美元以下。"
+    },
+    {
+      "id": "mkt:019fccf9-bfa9-7aab-8f71-740c804db34b",
+      "time": "2026-08-04 21:32:27",
+      "tags": [
+        "MKT News",
+        "SPOT.N",
+        "Impact bearish"
+      ],
+      "text": "Spotify (SPOT.N) fell 4.3% after the company said it expects Q3 profit and monthly active users to be below expectations."
+    },
+    {
+      "id": "mkt:019fccf9-bced-7aab-8f71-6e4da160f02b",
+      "time": "2026-08-04 21:32:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities opened higher on Aug 4 (Tue): Dow Jones up 804.75 pts (+1.51%) at 53,983.16; S&P 500 up 37.92 pts (+0.50%) at 7,638.41; Nasdaq Composite up 229.10 pts (+0.88%) at 26,143.00."
+    },
+    {
+      "id": "5024953",
+      "time": "2026-08-04 21:32:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普 500 指數上漲 0.5%，有望創下 6 月以來首個歷史新高。"
+    },
+    {
+      "id": "5024952",
+      "time": "2026-08-04 21:32:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲1.00%，現報26173.336點；道指漲1.43%，現報53940.180點；標普500指數漲0.54%，現報7641.400點。"
+    },
+    {
+      "id": "5024951",
+      "time": "2026-08-04 21:32:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油價格自7月中旬以來首次跌破80美元。"
+    },
+    {
+      "id": "5024950",
+      "time": "2026-08-04 21:31:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "道指、標普500指數開盤重新整理歷史新高 AI硬體個股集體走強。"
+    },
+    {
+      "id": "5024949",
+      "time": "2026-08-04 21:31:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Spotify 股價下跌 4.3%，公司給出的第三季度利潤、月活躍使用者均低於市場預期。"
+    },
+    {
+      "id": "5024948",
+      "time": "2026-08-04 21:31:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "PALANTIR股價開盤飆升19%，創下2025年4月以來最大單日漲幅。"
+    },
+    {
+      "id": "5024947",
+      "time": "2026-08-04 21:31:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，新東方跌4.57%，小鵬汽車跌3.56%，名創優品跌3.77%，理想汽車跌3.05%，大全新能源跌2.47%。"
+    },
+    {
+      "id": "5024946",
+      "time": "2026-08-04 21:31:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數開盤上漲4%】費城半導體指數開盤上漲4%。成分股方面，英偉達股價上漲1.9%，臺積電股價上漲2.24%，博通股價上漲2.97%，美光科技股價上漲4.8%，超威半導體股價上漲4.91%，阿斯麥股價上漲3.62%。"
+    },
+    {
+      "id": "5024945",
+      "time": "2026-08-04 21:31:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌5%，現報4680.00元。"
+    },
+    {
+      "id": "mkt:019fccf8-89c8-7aab-8f71-62ace3d84f40",
+      "time": "2026-08-04 21:31:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Amazon (AMZN.O) shares fell 2.2% after founder Jeff Bezos said he plans to sell about $4 billion of stock."
+    },
+    {
+      "id": "5024944",
+      "time": "2026-08-04 21:31:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【大商所乙二醇主力合約大跌5%】大商所乙二醇主力合約大跌5%，報4680元/噸。"
+    },
+    {
+      "id": "5024943",
+      "time": "2026-08-04 21:31:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "卡特彼勒股價上漲 12%。"
+    },
+    {
+      "id": "5024942",
+      "time": "2026-08-04 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲1.43%，標普500指數漲0.47%，納指漲0.83%。Palantir Technologies漲17.90%，斑馬技術漲17.52%，卡特彼勒漲11.72%，Coherent Corp漲11.26%，邁威爾科技漲9.54%。“七姐妹”方面：英偉達漲1.89%，特斯拉漲0.95%，蘋果漲0.02%，微軟跌0.62%，谷歌跌0.98%，Meta Platforms跌1.48%，亞馬遜跌2.24%。"
+    },
+    {
+      "id": "mkt:019fccf8-2fef-7aab-8f71-5a9682762d7b",
+      "time": "2026-08-04 21:30:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Palantir",
+        "PLTR.N",
+        "Impact bullish",
+        "AMD.O",
+        "MU.O"
+      ],
+      "text": "US stocks opened higher: Dow +1.17%, S&P 500 +0.4%, Nasdaq +0.78%. Palantir (PLTR.N) surged 14.7% after sharply raising full-year revenue guidance. SpaceX (SPCX.O) and AMD (AMD.O) are due to report after the close; both gained 2.8% and 3.7% respectively. Micron (MU.O) rose 4% and Corning (GLW.N) rose 5.6%."
+    },
+    {
+      "id": "te:markets:572582",
+      "time": "2026-08-04 21:30:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "General Electric Aerospace Stock Price Hits 4-week High — General Electric Aerospace shares increased to 374.99 USD, the highest since July 2026. Over the past 4 weeks, General Electric Aerospace lost 2.57%, and in the last 12 months, it increased 33.56%."
+    },
+    {
+      "id": "5024941",
+      "time": "2026-08-04 21:30:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本10年期國債拍賣需求疲弱】日本財務省4日實施的10年期國債拍賣需求低於市場預期，反映市場需求強弱的投標倍數降至2.56倍，創2025年5月以來新低。受拍賣結果影響，日本10年期國債收益率盤中一度升至2.870%，創約一個月來新高。（新華財經）"
+    },
+    {
+      "id": "5024940",
+      "time": "2026-08-04 21:30:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，優品車跌4.16%，新東方跌4.20%，名創優品跌2.96%，小鵬汽車跌3.31%，理想汽車跌2.59%。"
+    },
+    {
+      "id": "te:markets:572581",
+      "time": "2026-08-04 21:30:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Enbridge Stock Price Hits 4-week Low — Enbridge shares decreased to 75.87 CAD, the lowest since July 2026. Over the past 4 weeks, Enbridge lost 0.68%, and in the last 12 months, it increased 19.57%."
+    },
+    {
+      "id": "5024939",
+      "time": "2026-08-04 21:30:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守80美元/桶，日內跌4.51%。"
+    },
+    {
+      "id": "te:markets:572580",
+      "time": "2026-08-04 21:30:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Boeing Stock Price Hits 4-week High — Boeing shares increased to 237.00 USD, the highest since July 2026. Over the past 4 weeks, Boeing gained 1%, and in the last 12 months, it increased 6.54%."
+    },
+    {
+      "id": "5024938",
+      "time": "2026-08-04 21:30:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "卡特彼勒盤初大漲超11%。公司第二季度調整後每股收益8.17美元，高於市場預期的6.17美元，並上調2026年銷售額預期。"
+    },
+    {
+      "id": "5024937",
+      "time": "2026-08-04 21:30:07",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大7月RBC製造業PMI 53.5，前值 53。"
+    },
+    {
+      "id": "mkt:019fccf7-9b28-7aab-8f71-52fcf6e24523",
+      "time": "2026-08-04 21:30:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada July S&P Global manufacturing PMI 53.5, prior 53.0."
+    },
+    {
+      "id": "mkt:019fccf7-811f-7aab-8f71-4e492f0e2dbf",
+      "time": "2026-08-04 21:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | RBC Manufacturing PMI (Jul) | actual 53.5 | previous 53"
+    },
+    {
+      "id": "5024936",
+      "time": "2026-08-04 21:29:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡特彼勒：柴油動力裝置訂單積壓已排至 2028 年。"
+    },
+    {
+      "id": "te:economy:572579",
+      "time": "2026-08-04 21:29:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Brazil Yields Fall Ahead of BCB Meeting — Brazil's 10-year government bond yield fell to 14.55% from a nearly three-month high of 15% reached in late July as easing tensions in the Middle East pushed oil prices lower, reducing inflation concerns. Iran signaled progress in negotiations to restore shipping through the Strait of Hormuz after US President Donald Trump called off a planned strike, raising hopes for a diplomatic resolution. The decline in oil prices reinforced expectations that the BCB will cut the Selic rate from 14.25% at its August 5th meeting. The latest Focus Survey lowered the 2026 inflation forecast to 5.03% from 5.12% and reduced the year-end Selic projection to 13.75% from 14.00%. Meanwhile, consumer prices rose just 0.06% in the month to mid-July, slowing sharply from 0.41% in June and below forecasts of 0.2%. less"
+    },
     {
       "id": "mkt:019fccf6-930b-7aab-8f71-4670b83559d1",
       "time": "2026-08-04 21:28:59",
@@ -164708,227 +164992,6 @@
         "Importance 1"
       ],
       "text": "Altria Stock Price Hits 9-year High — Altria shares increased to 75.32 USD, the highest since June 2017. Over the past 4 weeks, Altria gained 1.57%, and in the last 12 months, it increased 28.08%."
-    },
-    {
-      "id": "5012637",
-      "time": "2026-07-28 21:33:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本熊本26家醫療機構因地震受損】據日本厚生勞動省訊息，截至當地時間今天（7月28日）20時25分，熊本縣已有26家醫療機構報告因地震受損。其中八代市醫療機構受損情況尤為嚴重，共有12家醫療機構受損，其中11家醫療機構停水，2家醫療機構停電，5家醫療機構的氧氣等醫用氣體供應受到影響。此外宇城市有7家醫療機構報告受損。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:570444",
-      "time": "2026-07-28 21:33:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Slides on Stronger Dollar, Fed Rate Uncertainty — Silver prices fell about 2% to around $57 an ounce on Tuesday, pressured by a stronger US dollar and investor caution ahead of Wednesday's Federal Reserve policy decision. The dollar remained near a four-week high as markets priced in more than a one-third chance of a rate hike, an unusually high level of uncertainty this close to a Fed meeting despite President Donald Trump's repeated calls for lower interest rates. Investors also continue to assign roughly an 80% probability to a rate increase in September, reinforcing expectations that US borrowing costs could stay elevated. Meanwhile, optimism over a potential easing of tensions between the US and Iran reduced demand for safe-haven assets. On Monday, Trump said Washington was engaged in \"good talks\" with Iran and that a deal to resolve the conflict was possible, while warning that military strikes could resume if negotiations break down."
-    },
-    {
-      "id": "5012636",
-      "time": "2026-07-28 21:33:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "強生股價在公司宣佈達成和解後上漲2%，該和解可能終結滑石粉相關訴訟。"
-    },
-    {
-      "id": "5012635",
-      "time": "2026-07-28 21:32:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【阿曼提出聯合管理霍爾木茲海峽新機制】一名海灣地區訊息人士28日披露，阿曼向伊朗提出了一項聯合管理霍爾木茲海峽航運的地區機制，通行海峽的船隻可基於自願原則捐款。目前，阿曼和伊朗官方均未證實這一訊息。這名不願公開姓名的訊息人士表示，新機制參考馬六甲海峽的管理辦法，使用方自願向維護航道的相關基金捐款，用於環境保護和搜救工作等。阿曼的最新提議得到了一些地區國家支援。暫不清楚伊朗會如何回應這一提議。伊朗外交部長阿拉格齊27日與阿曼以及沙烏地阿拉伯外交大臣分別通話，討論霍爾木茲海峽事宜。根據伊朗外交部發表的宣告，阿拉格齊在通話中強調“加強合作的必要性”。阿曼外交代表團24日抵達伊朗首都德黑蘭。據悉，阿曼此訪旨在建立霍爾木茲海峽航運管理的適當機制。據伊朗方面26日訊息，伊朗外交部發言人巴加埃表示，伊朗與阿曼就管理霍爾木茲海峽安全航運的共同原則及操作機制進行討論，會談“富有成效並取得一些進展”。他說，阿曼代表團已於25日離開德黑蘭，但雙方技術和政治磋商仍將繼續。國際市場服務機構克普勒公司資料顯示，儘管美國和伊朗暫停相互襲擊，24日至26日，霍爾木茲海峽的每日貨船通行量均為個位數。另據伊朗知情官員訊息，27日凌晨，有6艘關閉導航和定位系統的船隻試圖經霍爾木茲海峽南部一條“非法且不安全”的航道航行，其中1艘發生事故，其餘船隻被“引導”返回波斯灣。（央視新聞）"
-    },
-    {
-      "id": "5012634",
-      "time": "2026-07-28 21:32:35",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【招商證券：韓國股市去槓桿加速，A股政策底顯現迎穩市訊號】韓國股市槓桿資金正經歷快速收縮。韓國金融投資協會資料顯示，全市場信用融資餘額自6月24日的38.6萬億韓元歷史峰值，至7月24日已回落至32.67萬億韓元，降幅達15.4%。其中，KOSDAQ板塊收縮更為顯著（降幅22%），快於KOSPI主機板（-13.5%）。在科技股暴跌引發的強制平倉潮中，自6月19日以來累計強平金額達1.1萬億韓元。值得注意的是，槓桿ETF的收縮速度遠超融資餘額，成為市場下跌的高效“加速器”。以SAMSUNG KODEX 2倍做多ETF為例，其規模從6月高點驟降48%至38億元，其機械式的每日再平衡機制形成了無間斷的自我強化迴路。外部槓桿去化雖對A股情緒形成一定傳導，但國內穩市訊號正密集釋放，A股政策底已然顯現。一方面，證監會堅定維護資本市場平穩健康執行；另一方面，北京國管、北京控股等多家央國企及上市公司集中披露增持、回購及提高分紅安排，彰顯發展信心。資金面上，上週寬基ETF大幅淨流入超500億元。往後看，隨著穩市座談會召開，監管有望進一步加大穩市力度。若後續市場超預期下行，穩市措施有望對標去年4月，從資金支援、央企回購、金融機構增持等多方面入手，以穩定資本市場並增強投資者信心。"
-    },
-    {
-      "id": "5012633",
-      "time": "2026-07-28 21:32:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "UPS股價下跌6.9%，創5月以來最大單日跌幅。"
-    },
-    {
-      "id": "te:markets:570443",
-      "time": "2026-07-28 21:31:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Coca-Cola Stock Price Hits Near 50-year High — Coca-Cola shares increased to 87.41 USD, the highest since September 1976. Over the past 4 weeks, Coca-Cola gained 5.12%, and in the last 12 months, it increased 27.6%."
-    },
-    {
-      "id": "mkt:019fa8ec-a74e-7aab-8ece-58474e1c6283",
-      "time": "2026-07-28 21:31:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "At the open on Tuesday July 28, the Dow Jones Industrial Average rose 344.47 points (+0.66%) to 52,554.55; the S&P 500 was down 1.03 points (-0.01%) at 7,412.21; the Nasdaq Composite fell 128.14 points (-0.51%) to 24,803.94."
-    },
-    {
-      "id": "mkt:019fa8ec-6d02-7aab-8ece-57f84a6e90a7",
-      "time": "2026-07-28 21:31:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "【EU to sanction roughly 1,600 firms tied to Russia】Reportedly, the EU is planning sanctions on more than 1,600 companies for assisting Russia's war in Ukraine, the largest single sanctions list to date. Targeted firms have combined annual revenues of over $20bn and employ more than 265,000. The package requires unanimous approval by EU member states; if adopted, the number of entities sanctioned by the EU in the Russia‑Ukraine conflict would rise by about 50%."
-    },
-    {
-      "id": "5012632",
-      "time": "2026-07-28 21:31:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%，陸金所控股漲5.14%，萬物新生漲3.88%，網易漲3.27%，亞朵集團漲2.04%，百勝中國漲2.55%。"
-    },
-    {
-      "id": "5012631",
-      "time": "2026-07-28 21:31:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "康寧開盤大跌 13%，創 7 月 1 日以來最大盤中跌幅。"
-    },
-    {
-      "id": "mkt:019fa8ec-2316-7aab-8ece-4c8f63f3c61d",
-      "time": "2026-07-28 21:31:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【Apple market capitalization tops $5 trillion】Apple (AAPL.O) market capitalization surpassed $5 trillion as shares traded at $342, up about 25% year-to-date."
-    },
-    {
-      "id": "5012630",
-      "time": "2026-07-28 21:31:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "可口可樂股價一度上漲5.2%，創歷史新高。"
-    },
-    {
-      "id": "te:markets:570442",
-      "time": "2026-07-28 21:30:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Drops as Firm Dollar, Fed Uncertainty Weigh — Gold prices fell about 1% to around $4,030 an ounce on Tuesday as a stronger US dollar and mounting uncertainty ahead of Wednesday's Federal Reserve policy decision weighed on the precious metal. The dollar hovered near a four-week high as markets priced in more than a one-third chance of a rate hike, an unusually high degree of uncertainty this close to a Fed meeting despite repeated calls from President Donald Trump for lower interest rates. Traders also continue to price in roughly an 80% probability of a rate hike in September, reinforcing expectations that borrowing costs could remain elevated. Meanwhile, oil prices edged lower as hopes for easing tensions between the US and Iran reduced demand for safe-haven assets. On Monday, Trump said Washington was holding \"good talks\" with Iran and that a deal to resolve the conflict remained possible, though he warned military strikes could resume if negotiations fail."
-    },
-    {
-      "id": "5012629",
-      "time": "2026-07-28 21:30:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數開盤下跌3.5%】費城半導體指數開盤下跌3.5%。成分股方面，英偉達股價下跌1.17%，臺積電股價下跌2.87%，博通股價下跌1.23%，美光科技股價下跌6.39%，超威半導體股價下跌4.89%，阿斯麥股價下跌4.31%。"
-    },
-    {
-      "id": "5012628",
-      "time": "2026-07-28 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指漲跌不一】道指漲0.72%，標普500指數跌0.02%，納指跌0.45%。康寧跌13.00%，Centene Corp跌10.27%，閃迪跌9.37%，Iqvia Holdings Inc.漲10.21%，宣偉公司漲6.35%。“七姐妹”方面：蘋果漲1.70%，微軟漲1.44%，谷歌漲0.85%，Meta Platforms漲0.52%，亞馬遜漲0.12%，英偉達跌1.18%，特斯拉跌1.43%。"
-    },
-    {
-      "id": "mkt:019fa8eb-7d10-7aab-8ece-466bd809e690",
-      "time": "2026-07-28 21:30:32",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US stocks opened mixed: Dow Jones Industrial Average +0.6%, S&P 500 essentially flat at -0.01%, Nasdaq -0.4%. Storage names remained under pressure—Micron Technology (MU.O) down over 6%, SanDisk (SNDK.O) off more than 8%."
-    },
-    {
-      "id": "te:markets:570441",
-      "time": "2026-07-28 21:30:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Tesla Stock Price Hits 51-week Low — Tesla shares decreased to 304.18 USD, the lowest since August 2025. Over the past 4 weeks, Tesla lost 26.04%, and in the last 12 months, it decreased 6.45%."
-    },
-    {
-      "id": "5012627",
-      "time": "2026-07-28 21:30:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【蘋果市值首次突破5萬億美元】蘋果公司股價盤初上漲1%，在重新整理歷史新高的同時，蘋果市值正式突破5萬億美元大關，成為繼英偉達之後全球第二家達到這一里程碑的上市公司。蘋果股票近期表現強勢，自6月下旬以來，蘋果股價從約274美元的水平持續上攻，近一個月累計漲幅超過20%，遠超標普500指數同期約0.8%的漲幅。而英偉達當前總市值約為4.7萬億美元，位居全球上市公司市值排行榜第二位。"
-    },
-    {
-      "id": "5012626",
-      "time": "2026-07-28 21:30:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多股票指數.GSPTSE開盤下跌70.85點，跌幅0.20%，報35497.29點。"
-    },
-    {
-      "id": "5012625",
-      "time": "2026-07-28 21:30:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本地震不會對我國造成災害性影響】據國家海洋環境預報中心網站訊息，中國地震臺網正式測定，2026年07月28日15時27分(北京時間)，日本九州島海域(32.65°N,130.75°E)發生6.8級地震，震源深度為10千米。自然資源部海嘯預警中心根據初步地震引數判斷，地震可能會在震源周圍引發局地海嘯，但不會對我國沿岸造成災害性影響。（中國青年報）"
-    },
-    {
-      "id": "te:markets:570440",
-      "time": "2026-07-28 21:29:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Wind Energy Index Hits 18-week Low — Wind Energy Index decreased to 23.45 USD, the lowest since March 2026. Over the past 4 weeks, Wind Energy Index lost 3.35%, and in the last 12 months, it increased 25.18%."
     }
   ]
 }
