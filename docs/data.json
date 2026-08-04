@@ -1,7 +1,233 @@
 {
-  "updated": "2026-08-04 15:58:26",
-  "count": 17719,
+  "updated": "2026-08-04 16:02:25",
+  "count": 17731,
   "items": [
+    {
+      "id": "5024022",
+      "time": "2026-08-04 16:01:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德聯集團：截至7月末未減持回購股份 減持計劃存不確定性】德聯集團公告稱，公司於2026年4月審議透過減持回購股份議案，擬減持不超524.98萬股，即不超總股本0.67%，減持期間為2026年5月21日至8月20日。截至2026年7月31日，公司未減持上述回購股份。本次減持計劃實施存在不確定風險，公司將根據市場等情形決定是否繼續實施，減持時間、數量、價格均不確定。"
+    },
+    {
+      "id": "5024021",
+      "time": "2026-08-04 16:01:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500迷你期貨上漲0.2%，納斯達克100期貨上漲0.6%，道瓊斯期貨上漲0.1%。"
+    },
+    {
+      "id": "5024020",
+      "time": "2026-08-04 16:01:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：銅庫存減少5675噸，鋅庫存減少1175噸，鉛庫存減少3575噸，錫庫存減少90噸，鎳庫存持平，鋁庫存減少1750噸。"
+    },
+    {
+      "id": "mkt:019fcbca-7cf4-7aab-8f68-e21aa4f73996",
+      "time": "2026-08-04 16:01:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "London Metal Exchange (LME) inventories: copper down 5,675 tonnes, zinc down 1,175 tonnes, lead down 3,575 tonnes, tin down 90 tonnes, nickel unchanged, aluminium down 1,750 tonnes."
+    },
+    {
+      "id": "5024019",
+      "time": "2026-08-04 16:01:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "Citgo石油公司報告稱，其位於伊利諾伊州萊蒙特的煉油廠發生泵故障。"
+    },
+    {
+      "id": "5024018",
+      "time": "2026-08-04 16:00:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "PALANTIR股價盤前上漲15%，此前該公司上調了全年營收預期。"
+    },
+    {
+      "id": "mkt:019fcbca-3501-7aab-8f68-de71d82cf12c",
+      "time": "2026-08-04 16:00:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Italy June retail sales YoY 3.1% vs 2.2% prior."
+    },
+    {
+      "id": "5024017",
+      "time": "2026-08-04 16:00:53",
+      "tags": [
+        "資料"
+      ],
+      "text": "義大利6月季調後零售銷售月率 -0.1%，前值0.20%。義大利6月零售銷售年率 3.1%，前值2.20%。"
+    },
+    {
+      "id": "mkt:019fcbca-1abc-7aab-8f68-d20fba554dd6",
+      "time": "2026-08-04 16:00:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Retail Sales (YoY) (Jun) | actual 3.1% | previous 2.20%"
+    },
+    {
+      "id": "mkt:019fcbca-1557-7aab-8f68-cc2f66bcc1d5",
+      "time": "2026-08-04 16:00:46",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Italy June seasonally adjusted retail sales -0.1% MoM; May +0.2%."
+    },
+    {
+      "id": "mkt:019fcbc9-fb96-7aab-8f68-c523f911233e",
+      "time": "2026-08-04 16:00:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Retail Sales SA (MoM) (Jun) | actual -0.1% | previous 0.20%"
+    },
+    {
+      "id": "5024016",
+      "time": "2026-08-04 16:00:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其中央銀行將發起明日起息、金額為5億美元的一週里拉買方互換拍賣。"
+    },
+    {
+      "id": "5024015",
+      "time": "2026-08-04 16:00:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百聯股份：免稅品經營資質申請由控股股東百聯集團提出 獲批存在不確定性】百聯股份(600827)8月4日在互動平臺表示，免稅品經營資質的申請由公司控股股東百聯集團提出，獲批存在不確定性。"
+    },
+    {
+      "id": "5024014",
+      "time": "2026-08-04 16:00:12",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "土耳其央行透過傳統方式開展4噸1週期黃金兌里拉賣方互換拍賣。"
+    },
+    {
+      "id": "te:markets:572433",
+      "time": "2026-08-04 16:00:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Climbs to Fresh Record — The FTSE MIB climbed to around 53,400 on Tuesday, hitting a fresh record high, tracking gains across its European peers as investors awaited another batch of corporate earnings and monitored developments in the Middle East. Gains were broad-based across the bourse, with technology shares drawing support from a rally in global tech stocks amid optimism over AI-related spending. STMicroelectronics and Prysmian each rose more than 2%. Heavyweight financials also advanced, with UniCredit (+1.4%), Banca Mediolanum (+1.0%), BPER Banca (+1.3%), Banca Monte dei Paschi di Siena (+1.1%), and FinecoBank (+1.8%) posting gains. Defense stocks also traded firmly higher."
+    },
+    {
+      "id": "te:markets:572432",
+      "time": "2026-08-04 16:00:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Rises by 2.52% — Top commodity gainers are Natural Gas EU (2.52%), Natural Gas UK (2.36%), Brent Crude Oil (1.31%) and Crude Oil WTI (0.45%). Biggest losers are Heating Oil (-0.97%) and Natural gas (-0.88%)."
+    },
+    {
+      "id": "mkt:019fcbc9-71c0-7aab-8f68-b99b0d8db85d",
+      "time": "2026-08-04 16:00:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hezbollah leader Naim Qassem said he supports a united Lebanon that cannot be partitioned, warning any aggression against the south is an aggression against the whole country and that Lebanon's stability depends on stability in the south and across its territory."
+    },
+    {
+      "id": "5024012",
+      "time": "2026-08-04 15:59:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣聯航空新設子公司 含火箭發射裝置研發業務】企查查APP顯示，近日，廣聯航空裝備（寧波）有限公司成立，經營範圍包含：民用航空器零部件設計和生產；火箭發射裝置研發和製造；船舶製造；工業機器人制造等。企查查股權穿透顯示，該公司由廣聯航空全資持股。"
+    },
+    {
+      "id": "mkt:019fcbc8-f459-7aab-8f68-b4ca0e4e9a5e",
+      "time": "2026-08-04 15:59:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "HEZBOLLAH leader Naim Qassem said Iran has achieved victory in its confrontation with the United States and Israel."
+    },
+    {
+      "id": "5024011",
+      "time": "2026-08-04 15:59:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將阿迪達斯目標價從219歐元下調至173歐元。"
+    },
+    {
+      "id": "5024010",
+      "time": "2026-08-04 15:59:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長源東谷：取得金融機構股票回購專項貸款承諾函】長源東谷8月4日公告，近日公司取得中信銀行股份有限公司襄陽分行出具的《貸款承諾函》，同意為公司回購股份提供專項貸款支援，貸款金額不超過2.7億元。《貸款承諾函》自出具之日起生效，有效期三年。此前，公司於2026年7月24日召開了第五屆董事會第十八次會議 ，審議透過回購方案，同意使用不低於1.5億元且不超過3億元的自有資金或自籌資金，以集中競價方式回購公司股份，回購價格不高於70元/股，回購期限不超過3個月。"
+    },
+    {
+      "id": "5024009",
+      "time": "2026-08-04 15:59:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將保誠目標股價從1470便士上調至1515便士。"
+    },
+    {
+      "id": "5024008",
+      "time": "2026-08-04 15:58:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將阿迪達斯評級從買入下調至中性。"
+    },
+    {
+      "id": "mkt:019fcbc8-1e6b-7aab-8f68-afb421002512",
+      "time": "2026-08-04 15:58:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【ARAMCO: July attacks did not materially affect operations】Amin Nasser, CEO of ARAMCO, said last month’s attacks on company assets did not have a material impact on operations or finances and did not materially affect the company’s export capacity. He said ARAMCO is working to expand oil export capability as the Strait of Hormuz remains affected by Iran-related conflict. The company previously reported key infrastructure was targeted in July; this is its first public acknowledgment. Traders had been scrutinizing footage of suspected tank fires and flaring across Saudi Arabia. \"Some of our facilities were attacked, but the impact on operations or finances was not material,\" Nasser said. \"The July incident likewise did not materially affect our capabilities.\""
+    },
     {
       "id": "mkt:019fcbc7-660c-7aab-8f68-a6cc06737839",
       "time": "2026-08-04 15:57:50",
@@ -17,6 +243,15 @@
         "公司"
       ],
       "text": "阿布扎比國家石油公司（ADNOC）：透過此次部署，ADNOC正持續將人工智慧應用於其全部業務運營中。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608043831176175",
+      "time": "2026-08-04 15:57:46",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【德國商業銀行策略師：美聯儲主席沃什或選擇依靠市場力量收緊融資環境 暫緩落地加息行動】德國商業銀行策略師表示，美聯儲主席沃什或選擇依靠市場力量收緊融資環境，暫緩落地加息行動，這一模式將使美元更容易跟隨經濟資料劇烈震盪。"
     },
     {
       "id": "mkt:019fcbc6-cea8-7aab-8f68-9a1d549090ac",
@@ -131,6 +366,14 @@
         "公司"
       ],
       "text": "阿布扎比國家石油公司（ADNOC）與斯倫貝謝（SLB）在超120座鑽井平臺部署人工智慧平臺，提升上游業務表現。"
+    },
+    {
+      "id": "5023996",
+      "time": "2026-08-04 15:53:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音電商開展醫療類目專項治理，半年前置攔截違規案例超37萬個】8月4日，抖音電商安全與信任中心釋出公告稱，在日常巡查中，平臺發現部分商家、達人在經營過程中仍存在藥品及醫療器械類目錯放、借用藥品名稱或包裝資訊誤導消費者、普通商品暗示藥品功效、醫療器械虛假宣傳等問題。自今年2月起，針對上述問題平臺持續加強專項治理，新增多個識別模型，並進一步嚴格規範藥械商品類目上架流程，近半年已前置攔截相關違規案例共計超37萬個。"
     },
     {
       "id": "te:markets:572429",
@@ -163989,133 +164232,6 @@
         "國際"
       ],
       "text": "【日本強震後多座核電站據稱無異常】據日本原子力規制廳訊息，日本九州地區熊本縣今天（7月28日）下午發生強震後，目前鹿兒島縣川核心電站、佐賀縣玄海核電站、愛媛縣伊方核電站“均未確認到異常”。這次強震，日本氣象廳測定的震級為7.1級，中國地震臺網測定的震級為6.8級。（CCTV國際時訊）"
-    },
-    {
-      "id": "5011865",
-      "time": "2026-07-28 16:02:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國標普500迷你電子股指期貨下跌0.25%，納斯達克100股指期貨下跌1%，道指期貨上漲0.1%。"
-    },
-    {
-      "id": "5011864",
-      "time": "2026-07-28 16:02:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股中概股盤前漲跌互現，麥思智慧漲4%】美股中概股盤前漲跌互現，麥思智慧漲4%，京東、網易漲2%，阿里巴巴跌0.5%，攜程跌0.6%，嗶哩嗶哩、百度、百濟神州跌1%。"
-    },
-    {
-      "id": "5011863",
-      "time": "2026-07-28 16:02:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【火山引擎正式上線豆包搜尋服務】7月28日，火山引擎宣佈上線豆包搜尋服務，提供跨語言、多模態、多垂類聯網資訊查詢，融合全域網際網路資訊、行業專業知識以及位元組跳動獨家內容資源，為企業和開發者構建AI Agent，提供更加智慧、高效的資訊引擎。"
-    },
-    {
-      "id": "5011862",
-      "time": "2026-07-28 16:02:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股大型科技股盤前多數下跌，美光科技跌5%】美股大型科技股盤前多數下跌，微軟漲0.7%，Meta漲0.2%，蘋果漲0.1%，亞馬遜持平，谷歌A跌0.3%，特斯拉、英偉達跌1%，SpaceX跌2%，SK海力士跌4%，美光科技跌5%。"
-    },
-    {
-      "id": "5011861",
-      "time": "2026-07-28 16:01:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本九州地區鐵路和新幹線因地震停運】據日本九州旅客鐵道公司當地時間7月28日訊息，受熊本縣發生7.1級地震影響，目前九州地區所有普通鐵路和九州新幹線均已暫停執行。（央視新聞）"
-    },
-    {
-      "id": "te:markets:570362",
-      "time": "2026-07-28 16:01:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Mercedes-Benz AG earnings below expectations at 1.14 EUR — Mercedes-Benz AG (DAI) released earnings per share at 1.14 EUR, compared to market expectations of 1.40 EUR."
-    },
-    {
-      "id": "5011860",
-      "time": "2026-07-28 16:01:28",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【財政部：關於調整部分能源資源行業企業城鎮土地使用稅政策的公告】現就調整部分能源資源行業企業城鎮土地使用稅政策有關事項公告如下： 一、對按《國家稅務局關於電力行業徵免土地使用稅問題的規定》〔（89）國稅地字第013號〕等檔案（具體見附件）規定減免城鎮土地使用稅的土地，自2026年9月1日至2027年8月31日，按應納稅額減半徵收城鎮土地使用稅；自2027年9月1日起，全額徵收城鎮土地使用稅，（89）國稅地字第013號等檔案同時廢止。 二、自2026年9月1日起，對企業自有或透過承租、無償使用等方式取得並用於下列用途的土地，免徵城鎮土地使用稅： （一）石油天然氣（含頁岩氣、煤層氣）生產企業在工礦區內的消防、防洪排澇、防風、防沙設施用地，廠區（含生產、辦公、生活區）以外的鐵路專用線、公路用地； （二）油氣長輸管道線路用地及施工臨時用地； （三）水電站的水庫水面淹沒區、大壩（不包括發電廠房用地）、堤防、護坡、航道（含航道設施）、增殖放流站、過魚設施、灌溉設施和洩洪設施用地； （四）核電站的堤防、護坡用地； （五）火電廠廠區（含生產、辦公、生活區）以外的鐵路專用線、公路用地； （六）供電企業的輸電線路（含杆塔基礎）用地及其施工臨時用地； （七）煤炭企業的炸藥庫庫房外安全區用地，廠區（含生產、辦公、生活區）以外的鐵路專用線、公路、向社會開放的公園和公共綠化帶用地； （八）礦山企業（含金屬礦產和非金屬礦產）、建材企業的炸藥庫庫房外安全區用地。 企業的上述用地在專案建設期間可按本條規定免徵城鎮土地使用稅。 三、納稅人享受本公告規定的減免稅政策，應按規定進行減免稅申報，並將不動產權屬證明、臨時用地批覆、專案立項規劃檔案、土地用途證明等資料留存備查。"
-    },
-    {
-      "id": "5011859",
-      "time": "2026-07-28 16:00:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所（LME）：鋅庫存減少1225噸，鉛庫存減少50噸，鎳庫存增加180噸，銅庫存減少4200噸，鋁庫存減少1975噸，錫庫存減少300噸。"
-    },
-    {
-      "id": "5011858",
-      "time": "2026-07-28 16:00:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【擅自使用“中國”“全國”等字樣 一批非法社會組織被取締】記者今天從民政部瞭解到，今年上半年全國各級民政部門累計處置非法社會組織702個，其中列入涉嫌非法社會組織名單或協查通告163個、依法取締63個、責令解散399個、引導登記77個。一些冒用官方背景，擅自使用“中國”“中華”“全國”等字樣誤導公眾、開展違規活動的非法社會組織，被納入打擊整治重點。其中，“中國教育研究學會”“全國產教融合工作指導委員會”“中國新時代文化戰略研究院”“中國文化教育研究中心”等一批非法社會組織被依法取締。"
-    },
-    {
-      "id": "5011857",
-      "time": "2026-07-28 16:00:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【券商接到“廣域網交易行情線路技術要求”通知】7月28日，有訊息稱，交易所機房內交易行情接入方式將發生變更，統一變更為廣域網線路。同時，交易所將於本月底正式關閉機房內原有的區域網交易線路，所有機構、券商的交易行情接入統一改為廣域網線路。有券商人士向第一財經證實，確已收到交易所下發的相關通知，檔案內容為“廣域網交易行情線路技術要求”，其中提到：各單位接入交易所用於交易、行情業務的廣域網線路雙向時延，不得低於2ms的標準，含存量線路及新增線路。（第一財經）"
-    },
-    {
-      "id": "5011856",
-      "time": "2026-07-28 16:00:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "Lyft與百度於倫敦啟動自動駕駛計程車測試。"
-    },
-    {
-      "id": "te:markets:570360",
-      "time": "2026-07-28 16:00:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Brent Crude Oil Falls by 2.43% — Top commodity losers are Brent Crude Oil (-2.43%), Natural Gas UK (-2.30%) and Crude Oil WTI (-1.60%)."
-    },
-    {
-      "id": "5011855",
-      "time": "2026-07-28 15:59:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026世界智慧網聯汽車大會媒體圓桌會在北京召開】7月27日，2026世界智慧網聯汽車大會媒體圓桌會在北京召開。工業和資訊化部裝備工業一司司長郭守剛，交通運輸部科技司副司長翁優靈，北京市經濟和資訊化局副局長蘇國斌，工業和資訊化部裝備工業發展中心主任、世界智慧網聯汽車大會組委會秘書長瞿國春，中國汽車工業協會副會長兼秘書長付炳鋒，中國汽車工程學會副秘書長公維潔，中汽中心首席專家、中國汽車標準化研究院總工程師孫航，中國資訊通訊研究院技術與標準研究所車聯網與智慧交通研究部主任葛雨明等專家代表出席會議。會議由工業和資訊化部新聞發言人、辦公廳副主任龔憲主持，十餘家中央及行業主流媒體記者參加。付炳鋒介紹智慧網聯汽車發展情況與未來趨勢。他表示，當前全球智慧網聯汽車產業正處於從組合駕駛輔助向自動駕駛跨越的關鍵視窗期，呈現出“競爭激烈、多元探索、生態重構”的產業格局。聯合國及世界主要國家紛紛制定發展戰略、完善法規政策，支援自動駕駛技術加快研發應用。我國充分發揮政策引領、技術創新、跨界協同、市場驅動等方面的優勢，智慧網聯汽車產業整體發展水平處於國際第一梯隊。在重點技術進展方面，中國企業在“端到端”自動駕駛大模型應用上積極追趕，在“車路雲一體化”方面走在世界前列，在人機互動、多模態感知等方面實現全球領先，在鐳射雷達、大算力晶片、通訊終端等核心部件方面形成“量產降本、反哺技術”的良性迴圈，推動構建產業鏈優勢。未來，智慧網聯汽車在技術路線、產品形態、科技生態、跨界融合等方面將持續深化變革，世界智慧網聯汽車大會是連線技術創新、產業實踐與國際合作的重要平臺，對推動全球汽車產業轉型升級和建設更加安全、便捷、可持續的出行體系具有重要意義。（中國信通院）"
-    },
-    {
-      "id": "te:economy:570358",
-      "time": "2026-07-28 15:59:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Leading Economic Index",
-        "Importance 1"
-      ],
-      "text": "South Africa Leading Index Falls 0.3% MoM — The composite leading business cycle indicator in South Africa fell by 0.3% month-over-month in May 2026, easing from an upwardly revised 2.0% decline in the previous month. This marked the second consecutive monthly contraction, with weakness in five of the ten available component time series, while the other five provided support. The largest negative contributors included weaker business confidence, fewer building plans approved for flats, townhouses and larger houses, and a decline in the commodity price index for South Africa’s main export products. Additional pressure came from shorter average hours worked per factory worker in manufacturing and a narrower interest rate spread between 10-year government bonds and 91-day Treasury bills. Meanwhile, support came from gains in real M1 money supply growth, new passenger vehicle sales, domestic manufacturing orders, job advertisements, and the composite leading business cycle indicator for South Africa’s major trading partners."
     }
   ]
 }

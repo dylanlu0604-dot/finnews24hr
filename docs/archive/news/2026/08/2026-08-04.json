@@ -1,7 +1,233 @@
 {
   "date": "2026-08-04",
-  "count": 1432,
+  "count": 1458,
   "items": [
+    {
+      "id": "5024022",
+      "time": "2026-08-04 16:01:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德聯集團：截至7月末未減持回購股份 減持計劃存不確定性】德聯集團公告稱，公司於2026年4月審議透過減持回購股份議案，擬減持不超524.98萬股，即不超總股本0.67%，減持期間為2026年5月21日至8月20日。截至2026年7月31日，公司未減持上述回購股份。本次減持計劃實施存在不確定風險，公司將根據市場等情形決定是否繼續實施，減持時間、數量、價格均不確定。"
+    },
+    {
+      "id": "5024021",
+      "time": "2026-08-04 16:01:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500迷你期貨上漲0.2%，納斯達克100期貨上漲0.6%，道瓊斯期貨上漲0.1%。"
+    },
+    {
+      "id": "5024020",
+      "time": "2026-08-04 16:01:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：銅庫存減少5675噸，鋅庫存減少1175噸，鉛庫存減少3575噸，錫庫存減少90噸，鎳庫存持平，鋁庫存減少1750噸。"
+    },
+    {
+      "id": "mkt:019fcbca-7cf4-7aab-8f68-e21aa4f73996",
+      "time": "2026-08-04 16:01:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "London Metal Exchange (LME) inventories: copper down 5,675 tonnes, zinc down 1,175 tonnes, lead down 3,575 tonnes, tin down 90 tonnes, nickel unchanged, aluminium down 1,750 tonnes."
+    },
+    {
+      "id": "5024019",
+      "time": "2026-08-04 16:01:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "Citgo石油公司報告稱，其位於伊利諾伊州萊蒙特的煉油廠發生泵故障。"
+    },
+    {
+      "id": "5024018",
+      "time": "2026-08-04 16:00:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "PALANTIR股價盤前上漲15%，此前該公司上調了全年營收預期。"
+    },
+    {
+      "id": "mkt:019fcbca-3501-7aab-8f68-de71d82cf12c",
+      "time": "2026-08-04 16:00:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Italy June retail sales YoY 3.1% vs 2.2% prior."
+    },
+    {
+      "id": "5024017",
+      "time": "2026-08-04 16:00:53",
+      "tags": [
+        "資料"
+      ],
+      "text": "義大利6月季調後零售銷售月率 -0.1%，前值0.20%。義大利6月零售銷售年率 3.1%，前值2.20%。"
+    },
+    {
+      "id": "mkt:019fcbca-1abc-7aab-8f68-d20fba554dd6",
+      "time": "2026-08-04 16:00:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Retail Sales (YoY) (Jun) | actual 3.1% | previous 2.20%"
+    },
+    {
+      "id": "mkt:019fcbca-1557-7aab-8f68-cc2f66bcc1d5",
+      "time": "2026-08-04 16:00:46",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Italy June seasonally adjusted retail sales -0.1% MoM; May +0.2%."
+    },
+    {
+      "id": "mkt:019fcbc9-fb96-7aab-8f68-c523f911233e",
+      "time": "2026-08-04 16:00:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Retail Sales SA (MoM) (Jun) | actual -0.1% | previous 0.20%"
+    },
+    {
+      "id": "5024016",
+      "time": "2026-08-04 16:00:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其中央銀行將發起明日起息、金額為5億美元的一週里拉買方互換拍賣。"
+    },
+    {
+      "id": "5024015",
+      "time": "2026-08-04 16:00:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百聯股份：免稅品經營資質申請由控股股東百聯集團提出 獲批存在不確定性】百聯股份(600827)8月4日在互動平臺表示，免稅品經營資質的申請由公司控股股東百聯集團提出，獲批存在不確定性。"
+    },
+    {
+      "id": "te:markets:572433",
+      "time": "2026-08-04 16:00:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Climbs to Fresh Record — The FTSE MIB climbed to around 53,400 on Tuesday, hitting a fresh record high, tracking gains across its European peers as investors awaited another batch of corporate earnings and monitored developments in the Middle East. Gains were broad-based across the bourse, with technology shares drawing support from a rally in global tech stocks amid optimism over AI-related spending. STMicroelectronics and Prysmian each rose more than 2%. Heavyweight financials also advanced, with UniCredit (+1.4%), Banca Mediolanum (+1.0%), BPER Banca (+1.3%), Banca Monte dei Paschi di Siena (+1.1%), and FinecoBank (+1.8%) posting gains. Defense stocks also traded firmly higher."
+    },
+    {
+      "id": "5024014",
+      "time": "2026-08-04 16:00:12",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "土耳其央行透過傳統方式開展4噸1週期黃金兌里拉賣方互換拍賣。"
+    },
+    {
+      "id": "te:markets:572432",
+      "time": "2026-08-04 16:00:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Rises by 2.52% — Top commodity gainers are Natural Gas EU (2.52%), Natural Gas UK (2.36%), Brent Crude Oil (1.31%) and Crude Oil WTI (0.45%). Biggest losers are Heating Oil (-0.97%) and Natural gas (-0.88%)."
+    },
+    {
+      "id": "mkt:019fcbc9-71c0-7aab-8f68-b99b0d8db85d",
+      "time": "2026-08-04 16:00:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hezbollah leader Naim Qassem said he supports a united Lebanon that cannot be partitioned, warning any aggression against the south is an aggression against the whole country and that Lebanon's stability depends on stability in the south and across its territory."
+    },
+    {
+      "id": "mkt:019fcbc8-f459-7aab-8f68-b4ca0e4e9a5e",
+      "time": "2026-08-04 15:59:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "HEZBOLLAH leader Naim Qassem said Iran has achieved victory in its confrontation with the United States and Israel."
+    },
+    {
+      "id": "5024012",
+      "time": "2026-08-04 15:59:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣聯航空新設子公司 含火箭發射裝置研發業務】企查查APP顯示，近日，廣聯航空裝備（寧波）有限公司成立，經營範圍包含：民用航空器零部件設計和生產；火箭發射裝置研發和製造；船舶製造；工業機器人制造等。企查查股權穿透顯示，該公司由廣聯航空全資持股。"
+    },
+    {
+      "id": "5024011",
+      "time": "2026-08-04 15:59:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將阿迪達斯目標價從219歐元下調至173歐元。"
+    },
+    {
+      "id": "5024010",
+      "time": "2026-08-04 15:59:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長源東谷：取得金融機構股票回購專項貸款承諾函】長源東谷8月4日公告，近日公司取得中信銀行股份有限公司襄陽分行出具的《貸款承諾函》，同意為公司回購股份提供專項貸款支援，貸款金額不超過2.7億元。《貸款承諾函》自出具之日起生效，有效期三年。此前，公司於2026年7月24日召開了第五屆董事會第十八次會議 ，審議透過回購方案，同意使用不低於1.5億元且不超過3億元的自有資金或自籌資金，以集中競價方式回購公司股份，回購價格不高於70元/股，回購期限不超過3個月。"
+    },
+    {
+      "id": "5024009",
+      "time": "2026-08-04 15:59:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將保誠目標股價從1470便士上調至1515便士。"
+    },
+    {
+      "id": "5024008",
+      "time": "2026-08-04 15:58:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將阿迪達斯評級從買入下調至中性。"
+    },
+    {
+      "id": "mkt:019fcbc8-1e6b-7aab-8f68-afb421002512",
+      "time": "2026-08-04 15:58:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【ARAMCO: July attacks did not materially affect operations】Amin Nasser, CEO of ARAMCO, said last month’s attacks on company assets did not have a material impact on operations or finances and did not materially affect the company’s export capacity. He said ARAMCO is working to expand oil export capability as the Strait of Hormuz remains affected by Iran-related conflict. The company previously reported key infrastructure was targeted in July; this is its first public acknowledgment. Traders had been scrutinizing footage of suspected tank fires and flaring across Saudi Arabia. \"Some of our facilities were attacked, but the impact on operations or finances was not material,\" Nasser said. \"The July incident likewise did not materially affect our capabilities.\""
+    },
     {
       "id": "mkt:019fcbc7-660c-7aab-8f68-a6cc06737839",
       "time": "2026-08-04 15:57:50",
@@ -17,6 +243,15 @@
         "公司"
       ],
       "text": "阿布扎比國家石油公司（ADNOC）：透過此次部署，ADNOC正持續將人工智慧應用於其全部業務運營中。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608043831176175",
+      "time": "2026-08-04 15:57:46",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【德國商業銀行策略師：美聯儲主席沃什或選擇依靠市場力量收緊融資環境 暫緩落地加息行動】德國商業銀行策略師表示，美聯儲主席沃什或選擇依靠市場力量收緊融資環境，暫緩落地加息行動，這一模式將使美元更容易跟隨經濟資料劇烈震盪。"
     },
     {
       "id": "mkt:019fcbc6-cea8-7aab-8f68-9a1d549090ac",
@@ -131,6 +366,14 @@
         "公司"
       ],
       "text": "阿布扎比國家石油公司（ADNOC）與斯倫貝謝（SLB）在超120座鑽井平臺部署人工智慧平臺，提升上游業務表現。"
+    },
+    {
+      "id": "5023996",
+      "time": "2026-08-04 15:53:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音電商開展醫療類目專項治理，半年前置攔截違規案例超37萬個】8月4日，抖音電商安全與信任中心釋出公告稱，在日常巡查中，平臺發現部分商家、達人在經營過程中仍存在藥品及醫療器械類目錯放、借用藥品名稱或包裝資訊誤導消費者、普通商品暗示藥品功效、醫療器械虛假宣傳等問題。自今年2月起，針對上述問題平臺持續加強專項治理，新增多個識別模型，並進一步嚴格規範藥械商品類目上架流程，近半年已前置攔截相關違規案例共計超37萬個。"
     },
     {
       "id": "te:markets:572429",
