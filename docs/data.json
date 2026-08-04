@@ -1,7 +1,114 @@
 {
-  "updated": "2026-08-05 04:39:56",
-  "count": 17796,
+  "updated": "2026-08-05 04:43:47",
+  "count": 17808,
   "items": [
+    {
+      "id": "mkt:019fce83-f6f0-7aab-8f77-407dc0ce20a1",
+      "time": "2026-08-05 04:43:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said GROK 5 will be trained on SpaceX data."
+    },
+    {
+      "id": "mkt:019fce83-d8b2-7aab-8f77-3b36eef92a70",
+      "time": "2026-08-05 04:42:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said Grok 5 is planned for release this year."
+    },
+    {
+      "id": "5025328",
+      "time": "2026-08-05 04:42:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "繽客控股CEO：目前，人工智慧引流對我們整體業務的貢獻仍然相對較小。"
+    },
+    {
+      "id": "5025327",
+      "time": "2026-08-05 04:42:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：SpaceX預計年底算力將超過2吉瓦。"
+    },
+    {
+      "id": "5025326",
+      "time": "2026-08-05 04:42:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：往後我們決定完全基於英偉達開展技術搭建。"
+    },
+    {
+      "id": "5025325",
+      "time": "2026-08-05 04:41:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：人工智慧與機器人技術將大幅提升頻寬需求。"
+    },
+    {
+      "id": "5025324",
+      "time": "2026-08-05 04:41:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：我們在Grok上正取得快速進展。"
+    },
+    {
+      "id": "5025323",
+      "time": "2026-08-05 04:41:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：GROK 4.6 可能下週推出。"
+    },
+    {
+      "id": "mkt:019fce82-2297-7aab-8f77-35246ebe6d3d",
+      "time": "2026-08-05 04:41:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk says Grok 4.6 is expected to be released next week."
+    },
+    {
+      "id": "5025322",
+      "time": "2026-08-05 04:40:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "Pinterest執行長：藉助開放模型，我們實現的每筆交易成本不到同類封閉專有模型成本的8%。"
+    },
+    {
+      "id": "mkt:019fce81-9183-7aab-8f77-2f8de5f11427",
+      "time": "2026-08-05 04:40:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Musk said they have made rapid progress on Grok."
+    },
+    {
+      "id": "5025321",
+      "time": "2026-08-05 04:40:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國導彈庫存接近臨界水平】據訊息人士稱，自伊朗戰爭爆發以來，美國已消耗近80%的薩德攔截彈以及約50%的愛國者導彈。美軍高階指揮官警告，五角大樓導彈庫存已處於“危險低位”，引發外界對美軍應對未來衝突戰備能力的擔憂。依賴美國防空體系的海灣國家盟友同樣擔心，導彈短缺或將削弱其抵禦伊朗潛在導彈與無人機襲擊的防護能力。"
+    },
+    {
+      "id": "5025320",
+      "time": "2026-08-05 04:39:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：星鏈在10年內為全球大部分地區提供網際網路服務“並非不可能”。"
+    },
     {
       "id": "5025319",
       "time": "2026-08-05 04:39:11",
@@ -164696,18 +164803,6 @@
         "Importance 1"
       ],
       "text": "TSX Hits New Peak as Oil Prices Fall — The S&P/TSX Composite Index gained 0.5% to close at a record 35,750 on Wednesday, lifted by strength in financial and technology stocks. Oil prices fell as hopes for a resolution to the US-Iran conflict grew, easing energy-driven inflation concerns and pushing bond yields lower. RBC and BMO rose 1.1%, while TD Bank added 0.6%. Brookfield (+0.7%) announced it had raised about $2 billion for a private equity fund focused on investments the Middle East. Technology stocks soared after Celestica (+9.5%) beat second-quarter adjusted earnings estimates. Shopify rose 2.7%, while Constellation Software jumped 6.4%. Mining stocks fell as gold prices fell ahead of the Fed's policy decision. Agnico Eagle lost 1.6%, Barrick fell 1.7%, and WPM dropped 2.3%. Energy shares lost on lower oil prices, with Canadian Natural down 1.3% and Cenovus shedding 1.4%. Great-West Lifeco (+0%), First Quantum (-2.3%), Cardinal Energy (-1.2%), and Intact Financial (+2.3%) are due to report earnings after the bell."
-    },
-    {
-      "id": "te:markets:570506",
-      "time": "2026-07-29 04:41:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Teradyne earnings above expectations at 2.47 USD — Teradyne (TER) released earnings per share at 2.47 USD, compared to market expectations of 2.06 USD."
     }
   ]
 }
