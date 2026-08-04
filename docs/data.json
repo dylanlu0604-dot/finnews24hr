@@ -1,7 +1,111 @@
 {
-  "updated": "2026-08-04 13:37:32",
-  "count": 17765,
+  "updated": "2026-08-04 13:41:35",
+  "count": 17767,
   "items": [
+    {
+      "id": "mkt:019fcb49-162a-7aab-8f65-2ba63fcce081",
+      "time": "2026-08-04 13:39:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share electronic components sector extended gains; Dongjing Electronics hit the daily limit, Hongban Technology, Shennan Circuit and Dongshan Precision had earlier hit limit-up, while Nanya New Materials and Zhongfu Circuit rose over 10%."
+    },
+    {
+      "id": "5023725",
+      "time": "2026-08-04 13:39:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【元件板塊持續走高，東晶電子直線漲停】元件板塊持續走高，東晶電子直線漲停，紅板科技、深南電路、東山精密等股此前漲停，南亞新材、中富電路漲超10%。"
+    },
+    {
+      "id": "te:economy:572384",
+      "time": "2026-08-04 13:39:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Job Advertisements",
+        "Importance 1"
+      ],
+      "text": "Australia Job Ads Rebound in July — Australia’s ANZ–Indeed Job Ads increased 0.8% month-over-month in July 2026, reversing an upwardly revised 0.1% decline in the previous month and marking the fourth monthly rise so far this year. The resilience in job ads is consistent with the continued strength of the labour market, according to ANZ economist Aaron Luk. \"Following the release of June quarter inflation data, we remain of the view that the RBA will keep rates on hold at 4.35%, he added. That said, the trajectory of the monthly trimmed mean does suggest there remains the risk of a rate hike in November. Indeed senior economist Callam Pickering noted gains were relatively broad-based in July, led by management and physician & surgeon opportunities. Those two occupations, along with nursing, have been the fastest-growing roles over the past year. Compared with a year earlier, job ads increased 2.1% and remained 16.2% above their decade average."
+    },
+    {
+      "id": "5023724",
+      "time": "2026-08-04 13:39:25",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛亞太首席策略師：仍看好韓國股票，維持12000點目標】高盛亞太區首席股票策略師蒂莫西·莫伊表示，仍然看好遭受重創的韓國股市，並維持其對韓國綜合股價指數（KOSPI）12000點的目標。 莫伊表示：“如果波動效能夠下降，那麼我們認為基本面將會重新發揮作用，而且我們認為這些基本面非常有吸引力。”他說：“目前預期市盈率五倍的市場被嚴重低估，市場實際上是在表示它不相信半導體儲存器週期能夠持續下去，而我們認為可以。我們認為我們目前所處的半導體週期比通常情況更大、更長。”"
+    },
+    {
+      "id": "5023723",
+      "time": "2026-08-04 13:39:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特阿美：最大限度地提高西海岸煉油廠運營效率，以實現更高利潤。"
+    },
+    {
+      "id": "mkt:019fcb47-ad6e-7aab-8f65-20f251811ce1",
+      "time": "2026-08-04 13:38:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.O",
+        "Impact bullish"
+      ],
+      "text": "TSMC said the Kumamoto JASM wafer fab has fully resumed operations."
+    },
+    {
+      "id": "5023722",
+      "time": "2026-08-04 13:38:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲3%，現報7577.00點。"
+    },
+    {
+      "id": "mkt:019fcb47-1053-7aab-8f65-1a643a900c69",
+      "time": "2026-08-04 13:37:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish",
+        "Nikkei 225",
+        "S&P500"
+      ],
+      "text": "TSMC says its Kumamoto wafer fab has fully resumed operations."
+    },
+    {
+      "id": "mkt:019fcb46-c7ee-7aab-8f65-127d9e5f55ee",
+      "time": "2026-08-04 13:37:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Russia said it destroyed 320 Ukrainian drones overnight."
+    },
+    {
+      "id": "5023721",
+      "time": "2026-08-04 13:37:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯聖彼得堡附近倉庫設施遭無人機襲擊】俄羅斯列寧格勒州州長亞歷山大·德羅茲堅科8月4日在社交媒體上表示，俄羅斯第二大城市聖彼得堡附近的一處倉庫設施遭到無人機襲擊。德羅茲堅科表示，當地擊落了15架無人機，但是他沒有透露遭襲倉庫設施的具體資訊。（央視新聞）"
+    },
     {
       "id": "5023720",
       "time": "2026-08-04 13:36:53",
@@ -164568,81 +164672,6 @@
         "其他"
       ],
       "text": "【國家發展改革委：助力共建“一帶一路”高質量發展 拓展與沿線國家共贏發展新空間】國家發展改革委開放司司長梁林沖28日在中歐班列專題新聞釋出會上表示，下一步，國家發展改革委將聚焦“完善”“拓展”“提升”“深化”四個關鍵詞，紮實推進高效運輸、安全治理、多元通道、創新發展“四大體系”建設取得新的更大成效，助力共建“一帶一路”高質量發展，拓展與沿線國家共贏發展新空間。一是完善運輸組織服務。加強班列全線協同，持續最佳化運輸組織模式，提高通關便利化水平，增強全程時效穩定性。穩步擴大全程時刻表班列開行範圍，強化多種運輸方式高效銜接。高質量建設集結中心，推動“樞紐對樞紐”開行，加快完善集疏運體系。有效引導班列市場秩序，健全科學評價體系，規範相關企業經營行為，提升班列供需匹配效能。二是拓展多元韌性通道。有效統籌鐵路、公路、海運、航空等多種運輸方式，積極開闢多式聯運新線路，進一步完善通道網路。深化同沿線國家戰略對接，共同推進基礎設施互聯互通，提升重點口岸綜合作業能力，統籌最佳化沿線樞紐節點佈局，推進規則、規制、標準對接互認。三是提升安全發展水平。完善政府間合作機制，加強與沿線國家協調配合，更好保障通道網路安全暢通。建立健全執法交流協作機制，推進鐵路、海關等部門資訊聯通共享，確保班列高效穩定執行。提升綜合應急管理合作水平，強化安全風險識別、評估和預警，防範化解重大風險。四是深化創新融合發展。深入推進班列數字化、智慧化、綠色化發展，提升協同創新能力，加強新技術新裝備應用，培育發展新動能。加強聯動融合發展，拓展班列經濟功能，推動班列與產業深度融合，更好促進國際產業鏈供應鏈穩定。拓展投融資渠道，發揮專項貸款、專項投資基金作用，深化與多邊開發機構合作，充分利用沿線國家各類金融機構資源，助力班列高質量發展。"
-    },
-    {
-      "id": "5011510",
-      "time": "2026-07-28 13:41:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "A股MLCC概念震盪下挫，昀冢科技跌超10%，火炬電子逼近跌停，博傑股份、三環集團、國瓷材料、利和興跌超7%。"
-    },
-    {
-      "id": "mkt:019fa73d-8aa8-7aab-8ec0-39c0bb082682",
-      "time": "2026-07-28 13:40:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Institution: Fed faces increased pressure to raise rates】Tianli Investment senior economist Anthony Willis said in a note that US inflation remains materially above target and the economy and labour market remain resilient, increasing pressure on Fed policymakers to tighten policy. Willis said policymakers may temporarily discount the recent oil-price spike until its inflationary effect becomes clearer. He added the broader trend points to a more hawkish Fed. Markets price a 38% chance of a rate hike on Wednesday and already fully price a September increase."
-    },
-    {
-      "id": "5011509",
-      "time": "2026-07-28 13:38:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價下跌13%。"
-    },
-    {
-      "id": "5011508",
-      "time": "2026-07-28 13:38:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【約旦稱擊落一架侵入該國領空的無人機】當地時間28日，據約旦武裝部隊發言人發表的宣告，當天凌晨對一架侵入約旦領空的無人機實施處置。發言人表示，按照既定交戰規則，約旦皇家空軍在約旦東部沙漠地區將該無人機擊落。發言人強調，約旦武裝部隊將繼續履行職責，堅決捍衛國家邊境安全，維護國家安全和主權，對任何危害國家安全和公民生命安全的威脅絕不姑息。"
-    },
-    {
-      "id": "5011507",
-      "time": "2026-07-28 13:38:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華興源創等成立新公司，含AI及機器人業務】企查查APP顯示，近日，海南源智科技有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧基礎資源與技術平臺；智慧機器人的研發；智慧機器人銷售；積體電路晶片設計及服務等。企查查股權穿透顯示，該公司由華興源創等共同持股。"
-    },
-    {
-      "id": "mkt:019fa73b-5385-7aab-8ec0-331febd2c16c",
-      "time": "2026-07-28 13:38:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israel conducts bombing and demolition operations in southern Lebanon】Explosions were heard in the early hours in the southern city of Tyre as Israel carried out bombing and demolition operations in southern Lebanon. Operations were reported in the towns of Majdal Zun, Mansouri and Bint Jbeil."
-    },
-    {
-      "id": "5011506",
-      "time": "2026-07-28 13:38:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭總統抵達美國】當地時間今天（7月28日）凌晨，烏克蘭總統澤連斯基抵達美國。按計劃，他將於今天晚些時候與美國總統特朗普舉行會晤。澤連斯基稱，與美國開展反導防禦及戰略合作，是其此次與特朗普會晤的首要議題。（CCTV國際時訊）"
-    },
-    {
-      "id": "5011505",
-      "time": "2026-07-28 13:37:52",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本央行潛在通脹指標仍遠高於2%】日本央行週二表示，6月一項衡量通脹趨勢的價格指標仍遠高於央行2%的目標。據央行資料，剔除生鮮食品和特殊因素後的消費者價格同比漲幅6月維持在2.7%，進一步剔除能源價格後的指標上漲2%。"
     }
   ]
 }
