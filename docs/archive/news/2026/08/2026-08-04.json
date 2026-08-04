@@ -1,7 +1,59 @@
 {
   "date": "2026-08-04",
-  "count": 732,
+  "count": 737,
   "items": [
+    {
+      "id": "mkt:019fca8a-778e-7aab-8f62-4c0ed52ee366",
+      "time": "2026-08-04 10:11:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea heatwave hits 122-year record; President Lee urges relief and grid checks】South Korea's Lee on Tuesday urged authorities to bolster support for people hit by a record heatwave, saying the death toll has risen to 16 and extreme weather events are becoming more frequent. He told a cabinet meeting officials must take necessary steps to protect daily life and inspect the power system amid surging air‑conditioning demand, adding that as this extreme weather becomes the norm, the national crisis response system requires fundamental reform. The Korea Meteorological Administration said Yangsan in the southeast recorded 42.5C on Sunday, the highest in South Korea's 122 years of observations. The KMA on Monday issued heat warnings for parts of Seoul and Gyeonggi Province and expanded the warning to all of Seoul on Tuesday."
+    },
+    {
+      "id": "5023520",
+      "time": "2026-08-04 10:11:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲1%，現報5902.00元。"
+    },
+    {
+      "id": "te:economy:572334",
+      "time": "2026-08-04 10:10:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "AUS 10Y Yield Holds Below 9-Week High — Australia’s 10-year government bond yield held its recent decline to around 4.9%, below a nine-week high reached on July 24, as investors continued to assess the policy outlook ahead of the Reserve Bank’s meeting next week. Latest data showed household spending rose 0.8% in June, well above forecasts of 0.2%, driven by another increase in discretionary spending, while annual growth accelerated to 6.0%, also exceeding expectations. The data supported the central bank’s view that consumer activity remains firm despite weak sentiment, although recent softer inflation and a cooling housing market have strengthened expectations that the RBA will leave its 4.35% cash rate unchanged next week. Markets are also pricing little chance of a rate hike in September, while assigning roughly a 50% probability of a move in November if third-quarter inflation proves stronger. Investors now await upcoming final PMI figures and trade balance data this week for further clues on the economy’s health."
+    },
+    {
+      "id": "5023519",
+      "time": "2026-08-04 10:10:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南網科技外掛控制系統EFC落地百萬千瓦機組】據南網科技訊息，近日，我國火電熱控領域迎來重大技術突破。由南網科技自主研發的基於EFC（Engneering Fastest Controller）工程最速控制器外掛控制系統，成功在新疆重能石頭梅電廠2×1000MW超超臨界機組完成全流程國產化落地投運。這標誌著我國在大容量火電機組又一先進控制技術實現了從技術跟跑到自主領跑的歷史性跨越，徹底打破了國外控制系統在火電熱控領域的長期壟斷。"
+    },
+    {
+      "id": "mkt:019fca88-b61e-7aab-8f62-45e6e4126616",
+      "time": "2026-08-04 10:09:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share storage and chip stocks rose amid volatility; Woge Optoelectronics, Shengshi Technology and Zhongjing Electronics hit daily limit-up, while Weice Technology and Shengyi Technology climbed over 7%."
+    },
     {
       "id": "mkt:019fca86-fa03-7aab-8f62-3e82dd3df860",
       "time": "2026-08-04 10:07:51",

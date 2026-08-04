@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-04 10:08:25",
-  "count": 17862,
+  "updated": "2026-08-04 10:12:16",
+  "count": 17858,
   "items": [
+    {
+      "id": "mkt:019fca8a-778e-7aab-8f62-4c0ed52ee366",
+      "time": "2026-08-04 10:11:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea heatwave hits 122-year record; President Lee urges relief and grid checks】South Korea's Lee on Tuesday urged authorities to bolster support for people hit by a record heatwave, saying the death toll has risen to 16 and extreme weather events are becoming more frequent. He told a cabinet meeting officials must take necessary steps to protect daily life and inspect the power system amid surging air‑conditioning demand, adding that as this extreme weather becomes the norm, the national crisis response system requires fundamental reform. The Korea Meteorological Administration said Yangsan in the southeast recorded 42.5C on Sunday, the highest in South Korea's 122 years of observations. The KMA on Monday issued heat warnings for parts of Seoul and Gyeonggi Province and expanded the warning to all of Seoul on Tuesday."
+    },
+    {
+      "id": "5023520",
+      "time": "2026-08-04 10:11:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲1%，現報5902.00元。"
+    },
+    {
+      "id": "te:economy:572334",
+      "time": "2026-08-04 10:10:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "AUS 10Y Yield Holds Below 9-Week High — Australia’s 10-year government bond yield held its recent decline to around 4.9%, below a nine-week high reached on July 24, as investors continued to assess the policy outlook ahead of the Reserve Bank’s meeting next week. Latest data showed household spending rose 0.8% in June, well above forecasts of 0.2%, driven by another increase in discretionary spending, while annual growth accelerated to 6.0%, also exceeding expectations. The data supported the central bank’s view that consumer activity remains firm despite weak sentiment, although recent softer inflation and a cooling housing market have strengthened expectations that the RBA will leave its 4.35% cash rate unchanged next week. Markets are also pricing little chance of a rate hike in September, while assigning roughly a 50% probability of a move in November if third-quarter inflation proves stronger. Investors now await upcoming final PMI figures and trade balance data this week for further clues on the economy’s health."
+    },
+    {
+      "id": "5023519",
+      "time": "2026-08-04 10:10:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南網科技外掛控制系統EFC落地百萬千瓦機組】據南網科技訊息，近日，我國火電熱控領域迎來重大技術突破。由南網科技自主研發的基於EFC（Engneering Fastest Controller）工程最速控制器外掛控制系統，成功在新疆重能石頭梅電廠2×1000MW超超臨界機組完成全流程國產化落地投運。這標誌著我國在大容量火電機組又一先進控制技術實現了從技術跟跑到自主領跑的歷史性跨越，徹底打破了國外控制系統在火電熱控領域的長期壟斷。"
+    },
+    {
+      "id": "mkt:019fca88-b61e-7aab-8f62-45e6e4126616",
+      "time": "2026-08-04 10:09:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share storage and chip stocks rose amid volatility; Woge Optoelectronics, Shengshi Technology and Zhongjing Electronics hit daily limit-up, while Weice Technology and Shengyi Technology climbed over 7%."
+    },
     {
       "id": "mkt:019fca86-fa03-7aab-8f62-3e82dd3df860",
       "time": "2026-08-04 10:07:51",
@@ -165428,80 +165480,6 @@
         "其他"
       ],
       "text": "【習近平將舉行儀式歡迎斯洛伐克總統佩列格里尼訪華】7月28日上午，國家主席習近平將在北京人民大會堂北大廳舉行儀式，歡迎斯洛伐克總統佩列格里尼訪華。應國家主席習近平邀請，斯洛伐克總統佩列格里尼於7月27日至29日對中國進行國事訪問。（央視新聞）"
-    },
-    {
-      "id": "5011220",
-      "time": "2026-07-28 10:11:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌3%，現報7417.40點。"
-    },
-    {
-      "id": "5011219",
-      "time": "2026-07-28 10:11:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家稅務總局：上半年民生類惠民稅收優惠政策減免稅同比增近12%】國家稅務總局局長鬍靜林7月28日在國新辦新聞釋出會上介紹，今年上半年，國家在養老、醫療、教育、就業等領域實施的惠民稅收優惠政策減免稅同比增長11.8%；有1.26億人享受養老、醫療、教育等個人所得稅專項附加扣除，享受人數較上年增長5.9%，減稅金額超過3200億元，較上年增長8.2%。同時，稅務部門協同人社部門積極推進新就業形態人員職業傷害保障試點，今年7月1日起試點範圍已經擴大到全國，累計惠及2910萬人。（新華社）"
-    },
-    {
-      "id": "5011218",
-      "time": "2026-07-28 10:11:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "明治公司將於9月1日起上調部分體育用品及其他商品的價格。"
-    },
-    {
-      "id": "5011217",
-      "time": "2026-07-28 10:11:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：將審查預算專案是否有助於增長。"
-    },
-    {
-      "id": "5011216",
-      "time": "2026-07-28 10:10:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌4％，上證指數跌0.58％，深證成指跌2.49％。光通訊、CPO、銅纜高速連線等板塊跌幅居前。"
-    },
-    {
-      "id": "5011215",
-      "time": "2026-07-28 10:10:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安孚科技等成立半導體裝置新公司】企查查APP顯示，近日，安孚華昇邁（合肥）半導體裝置有限公司成立，經營範圍包含：半導體器件專用裝置製造；光電子器件製造；光電子器件銷售；通用零部件製造等。企查查股權穿透顯示，該公司由安孚科技等共同持股。"
-    },
-    {
-      "id": "5011213",
-      "time": "2026-07-28 10:10:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡結束非補貼組屋轉售15個月的等待期。"
-    },
-    {
-      "id": "5011212",
-      "time": "2026-07-28 10:08:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺幣兌美元下跌0.4%至32.436。"
-    },
-    {
-      "id": "5011211",
-      "time": "2026-07-28 10:08:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國聯邦航空管理局要求檢查部分美國註冊737 MAX客機座椅安裝問題】美國聯邦航空管理局（FAA）當地時間7月27日表示，部分美國註冊波音737 MAX飛機可能存在座椅安裝不當問題，要求相關飛機接受檢查。FAA稱，若座椅元件未正確固定，在緊急降落或劇烈顛簸情況下可能發生移動，造成乘客受傷或阻礙緊急撤離。此次適航指令涉及453架美國註冊737 MAX飛機，檢查和修復預計無需更換零部件。"
     }
   ]
 }
