@@ -1,7 +1,50 @@
 {
   "date": "2026-08-05",
-  "count": 352,
+  "count": 357,
   "items": [
+    {
+      "id": "mkt:019fce95-7460-7aab-8f78-067d00214629",
+      "time": "2026-08-05 05:02:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Al Arabiya TV reported Saudi officials said there have been no mediated negotiations between Saudi Arabia and the Houthis."
+    },
+    {
+      "id": "mkt:019fce93-a13b-7aab-8f77-fc3c64bad09a",
+      "time": "2026-08-05 05:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's foreign exchange reserves were $427.95 billion in July, up from $427.36 billion in June."
+    },
+    {
+      "id": "mkt:019fce93-7db2-7aab-8f77-f3a52840654d",
+      "time": "2026-08-05 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Foreign Exchange Reserves (Jul) | actual 427950000000B | previous 427360000000.00006B"
+    },
+    {
+      "id": "5025357",
+      "time": "2026-08-05 04:59:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "安進高管在電話會議上表示，第二季度資本支出達5億美元，主要受美國各地生產基地投資推動。"
+    },
+    {
+      "id": "5025356",
+      "time": "2026-08-05 04:59:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：沙特與胡塞武裝並未透過調解方開展談判。"
+    },
     {
       "id": "5025355",
       "time": "2026-08-05 04:58:39",
