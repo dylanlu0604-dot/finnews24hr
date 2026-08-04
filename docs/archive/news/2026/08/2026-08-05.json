@@ -1,7 +1,69 @@
 {
   "date": "2026-08-05",
-  "count": 345,
+  "count": 352,
   "items": [
+    {
+      "id": "5025355",
+      "time": "2026-08-05 04:58:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX首席財務官：當前的經濟狀況已使我們在計算領域的新資本部署實現了不到一年的投資回報期。"
+    },
+    {
+      "id": "5025354",
+      "time": "2026-08-05 04:58:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX首席財務官：雲服務合作業務需求旺盛。"
+    },
+    {
+      "id": "mkt:019fce90-d733-7aab-8f77-edeef7d4b820",
+      "time": "2026-08-05 04:57:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【New round of Lebanon-Israel US-mediated security talks held in Rome】Italian media reported on the 4th that Lebanon and Israel began a new round of US-mediated security talks in Rome at the US embassy, scheduled for three days to implement an end‑June Washington framework on border security. European outlets said negotiations focus on an Israeli withdrawal from southern Lebanon, unresolved boundary disputes and HEZBOLLAH disarmament; both sides sent technical delegations."
+    },
+    {
+      "id": "5025353",
+      "time": "2026-08-05 04:56:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【新一輪黎以談判在羅馬舉行】義大利媒體4日報道，黎巴嫩和以色列當天在意首都羅馬開啟新一輪由美國斡旋的安全談判，重點討論兩國邊境安全安排以及落實6月底在美國華盛頓達成的框架協議。（新華社）"
+    },
+    {
+      "id": "5025352",
+      "time": "2026-08-05 04:56:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部：霍爾木茲海峽南部航道依舊保持暢通，所有希望行經這條國際水道的商業船舶均可通行。過去三個月，儘管遭遇伊朗無端挑釁，美軍已協助1000餘艘船舶順利透過海峽，目前此類通航仍在持續。"
+    },
+    {
+      "id": "5025351",
+      "time": "2026-08-05 04:56:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX首席財務官：計算協議在第二季度增加了16億美元的收入。"
+    },
+    {
+      "id": "mkt:019fce8f-40a3-7aab-8f77-e3d4fb1a4a5d",
+      "time": "2026-08-05 04:55:22",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index down on 4th】Dollar index (DXY), which measures the greenback against six major peers, fell 0.04% to 99.858 at the New York FX close. EUR/USD 1.1533 (prev. 1.1514); GBP/USD 1.3452 (prev. 1.3431); USD/JPY 157.66 (prev. 156.74); USD/CHF 0.8092 (prev. 0.8101); USD/CAD 1.4066 (prev. 1.4045); USD/SEK 9.5192 (prev. 9.5557)."
+    },
     {
       "id": "5025350",
       "time": "2026-08-05 04:54:46",
